@@ -1,27 +1,35 @@
 ---
 title: 'Gangmun Sotdae Bridge: Gangneung Travel Guide (4.3★)'
-description: Gangmun Sotdae Bridge is a pedestrian footbridge over Gangmun stream near Gyeongpo Beach in Gangneung, lined with tall wooden sotdae poles topped with carved birds — a quiet, free stop best paired with a beach walk. 4.3★ (571 reviews) — what visitors say, hours, and tips.
+description: >-
+  Gangmun Sotdae Bridge is a pedestrian footbridge over Gangmun stream near
+  Gyeongpo Beach in Gangneung, lined with tall wooden sotdae poles topped with
+  carved birds — a quiet, free stop best paired with a beach walk. 4.3★ (572
+  reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Gangneung
 category: attraction
 pubDate: '2026-08-10T09:05:39.439Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gangmun_Sotdae_Bridge_2.jpg/3840px-Gangmun_Sotdae_Bridge_2.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gangmun_Sotdae_Bridge_2.jpg/3840px-Gangmun_Sotdae_Bridge_2.jpg
   credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gangmun_Sotdae_Bridge_2.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Gangmun_Sotdae_Bridge_2.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gangmun_Sotdae_Bridge_20220502_007.jpg/1920px-Gangmun_Sotdae_Bridge_20220502_007.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gangmun_Sotdae_Bridge_20220502_007.jpg/1920px-Gangmun_Sotdae_Bridge_20220502_007.jpg
     credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Gangmun_Sotdae_Bridge_20220502_007.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Gangmun_Sotdae_Bridge_20220502_007.jpg
 place:
   id: ChIJ33B-W7zmYTURWZ3fBpn-ryI
   name: Gangmun Sotdae Bridge
-  address: 248-4 Gangmun-dong, Gangneung, Gangwon-do, South Korea
+  address: '248-4 Gangmun-dong, Gangneung, Gangwon-do, South Korea'
   rating: 4.3
-  userRatingsTotal: 571
-  googleMapsUrl: https://maps.google.com/?cid=2499496251412684121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 572
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2499496251412684121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.797758699999996
   lng: 128.9167205
@@ -54,20 +62,42 @@ place:
 tags:
   - gangneung
   - waterfront
-quickAnswer: Gangmun Sotdae Bridge is a pedestrian footbridge over Gangmun stream near Gyeongpo Beach in Gangneung, lined with tall wooden sotdae poles topped with carved birds — a quiet, free stop best paired with a beach walk. It's open 24 hours daily, and since it's still under-the-radar, weekday mornings or evenings outside the 10am–11pm weekend rush are your best bet for having it nearly to yourself.
+quickAnswer: >-
+  Gangmun Sotdae Bridge is a pedestrian footbridge over Gangmun stream near
+  Gyeongpo Beach in Gangneung, lined with tall wooden sotdae poles topped with
+  carved birds — a quiet, free stop best paired with a beach walk. It's open 24
+  hours daily, and since it's still under-the-radar, weekday mornings or
+  evenings outside the 10am–11pm weekend rush are your best bet for having it
+  nearly to yourself.
 faq:
   - q: How do I get to Gangmun Sotdae Bridge?
-    a: It's a short walk east from Gyeongpo Beach's eastern end in Gangmun-dong, Gangneung. From central Gangneung, take a taxi or bus toward Gyeongpo Beach (about 15-20 minutes), then walk the rest. There's no dedicated parking lot on-site.
+    a: >-
+      It's a short walk east from Gyeongpo Beach's eastern end in Gangmun-dong,
+      Gangneung. From central Gangneung, take a taxi or bus toward Gyeongpo
+      Beach (about 15-20 minutes), then walk the rest. There's no dedicated
+      parking lot on-site.
   - q: Is there an entrance fee?
-    a: No. The bridge is a free, open pedestrian crossing with no ticket booth or gate, accessible 24 hours every day.
+    a: >-
+      No. The bridge is a free, open pedestrian crossing with no ticket booth or
+      gate, accessible 24 hours every day.
   - q: When is the quietest time to visit?
-    a: Weekday mornings tend to be calmest, before beach crowds arrive. Try to avoid weekends between 10am and 11pm, when foot traffic from nearby Gyeongpo Beach peaks.
+    a: >-
+      Weekday mornings tend to be calmest, before beach crowds arrive. Try to
+      avoid weekends between 10am and 11pm, when foot traffic from nearby
+      Gyeongpo Beach peaks.
   - q: How long should I spend here?
-    a: Crossing the bridge itself takes just a few minutes, but budget 15-20 minutes to look closely at the carved sotdae poles and enjoy the stream view.
+    a: >-
+      Crossing the bridge itself takes just a few minutes, but budget 15-20
+      minutes to look closely at the carved sotdae poles and enjoy the stream
+      view.
   - q: What else is nearby?
-    a: Gyeongpo Beach is a 10-15 minute walk away, and Gyeongpodae Pavilion is within reach for travelers wanting a longer loop around Gangneung's coastal wetlands.
+    a: >-
+      Gyeongpo Beach is a 10-15 minute walk away, and Gyeongpodae Pavilion is
+      within reach for travelers wanting a longer loop around Gangneung's
+      coastal wetlands.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

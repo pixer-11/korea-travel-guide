@@ -1,15 +1,20 @@
 ---
 title: 'Tianzi Wharf: Guangzhou Travel Guide (4.3★)'
-description: Tianzi Wharf is a small riverside pier on Yanjiang Middle Road in Yuexiu District, Guangzhou — a quiet spot to watch Pearl River boat traffic and catch the skyline light up without the crowds of the main tourist piers. 4.3★ (153 reviews) — what visitors say, hours, and tips.
+description: >-
+  Tianzi Wharf is a small riverside pier on Yanjiang Middle Road in Yuexiu
+  District, Guangzhou — a quiet spot to watch Pearl River boat traffic and catch
+  the skyline light up without the crowds of the main tourist piers. 4.3★ (153
+  reviews) — what visitors say, hours, and tips.
 country: China
 region: Guangzhou
 category: attraction
 pubDate: '2026-08-17T08:17:10.313Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TinZiMaaTau.jpg/1920px-TinZiMaaTau.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TinZiMaaTau.jpg/1920px-TinZiMaaTau.jpg
   credit: 'Photo: WKDx417 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:TinZiMaaTau.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:TinZiMaaTau.jpg'
   focus:
     x: 50
     'y': 45
@@ -17,30 +22,53 @@ gallery: []
 place:
   id: ChIJn1cV3Lv4AjQRmPFBPPaDug4
   name: Tianzi Wharf
-  address: 'China, Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, Yan Jiang Zhong Lu, 泰康街 邮政编码: 510115'
+  address: >-
+    China, Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, Yan Jiang Zhong Lu, 泰康街
+    邮政编码: 510115
   rating: 4.3
-  userRatingsTotal: 153
-  googleMapsUrl: https://maps.google.com/?cid=1061305755795321240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 154
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1061305755795321240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.114769199999998
   lng: 113.27100209999999
 tags:
   - guangzhou
   - waterfront
-quickAnswer: Tianzi Wharf is a small riverside pier on Yanjiang Middle Road in Yuexiu District, Guangzhou — a quiet spot to watch Pearl River boat traffic and catch the skyline light up without the crowds of the main tourist piers. Budget 20–30 minutes here, ideally at dusk, and pair it with a stroll along the riverside promenade. Check current hours before heading out, as none are posted for this low-key spot.
+quickAnswer: >-
+  Tianzi Wharf is a small riverside pier on Yanjiang Middle Road in Yuexiu
+  District, Guangzhou — a quiet spot to watch Pearl River boat traffic and catch
+  the skyline light up without the crowds of the main tourist piers. Budget
+  20–30 minutes here, ideally at dusk, and pair it with a stroll along the
+  riverside promenade. Check current hours before heading out, as none are
+  posted for this low-key spot.
 faq:
   - q: How do I get to Tianzi Wharf?
-    a: Take Metro Line 2 to Haizhu Square Station, then walk about 10–15 minutes north to the riverbank on Yanjiang Middle Road. Taxis and ride-hailing apps can also drop you directly on the road.
+    a: >-
+      Take Metro Line 2 to Haizhu Square Station, then walk about 10–15 minutes
+      north to the riverbank on Yanjiang Middle Road. Taxis and ride-hailing
+      apps can also drop you directly on the road.
   - q: Is there an entrance fee?
-    a: No, Tianzi Wharf is an open riverside pier with no ticket booth or entrance charge.
+    a: >-
+      No, Tianzi Wharf is an open riverside pier with no ticket booth or
+      entrance charge.
   - q: How long should I spend there?
-    a: Most visitors spend 20–30 minutes, often as part of a longer walk along the Pearl River promenade toward Beijing Road or Haizhu Square.
+    a: >-
+      Most visitors spend 20–30 minutes, often as part of a longer walk along
+      the Pearl River promenade toward Beijing Road or Haizhu Square.
   - q: What's the best time to visit?
-    a: Early evening, when temperatures drop and the skyline across the river lights up. No official hours are posted since it's an open outdoor spot, so it's worth checking locally if visiting very late at night.
+    a: >-
+      Early evening, when temperatures drop and the skyline across the river
+      lights up. No official hours are posted since it's an open outdoor spot,
+      so it's worth checking locally if visiting very late at night.
   - q: What's nearby?
-    a: Beijing Road pedestrian street and Haizhu Square are both within a 10–15 minute walk, making it easy to combine with shopping or another river viewpoint.
+    a: >-
+      Beijing Road pedestrian street and Haizhu Square are both within a 10–15
+      minute walk, making it easy to combine with shopping or another river
+      viewpoint.
 aiGenerated: true
 draft: true
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

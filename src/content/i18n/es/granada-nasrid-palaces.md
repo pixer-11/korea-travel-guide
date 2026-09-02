@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: granada-nasrid-palaces
-srcHash: '97b813259cd1'
+srcHash: '8b2e78d25991'
 title: 'Palacios Nazaríes: Guía de viaje de Granada (4,9★)'
-description: Los Palacios Nazaríes son el corazón de la Alhambra de Granada, la residencia real del siglo XIV de los sultanes nazaríes, famosa por el Patio de los Leones, el Patio de los Arrayanes y sus techos cubiertos de yeserías talladas y paredes alicatadas. 4,9★ (32.681 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: Los Palacios Nazaríes son el corazón de la Alhambra de Granada, la residencia real del siglo XIV de los sultanes nazaríes, famosa por el Patio de los Leones, el Patio de los Arrayanes y sus techos cubiertos de yeserías talladas y paredes alicatadas. 4,9★ (33.116 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Los Palacios Nazaríes son el corazón de la Alhambra de Granada, la residencia real del siglo XIV de los sultanes nazaríes, famosa por el Patio de los Leones, el Patio de los Arrayanes y sus techos cubiertos de yeserías talladas y paredes alicatadas. Necesitas una entrada con horario reservado con bastante antelación, idealmente con semanas de margen, y debes llegar a la media hora exacta impresa en tu entrada. Ve justo a la apertura o en los primeros turnos de la mañana si puedes: los palacios están más tranquilos en la franja de las 8 de la mañana, antes de la avalancha de entre las 11h y las 18h que llena los patios los fines de semana.'
 faq:
   - q: ¿Necesito una entrada aparte para los Palacios Nazaríes?

@@ -1,23 +1,28 @@
 ---
 title: 'Generalife: Granada Travel Guide'
-description: The Generalife is the Alhambra's summer palace and gardens, a short walk uphill from the main Nazrin Palaces, open daily 8:30am–8pm.
+description: >-
+  The Generalife is the Alhambra's summer palace and gardens, a short walk
+  uphill from the main Nazrin Palaces, open daily 8:30am–8pm.
 country: Spain
 region: Granada
 category: attraction
 pubDate: '2026-07-30T09:53:54.812Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg
   credit: 'Photo: Daderot / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Patio_de_la_Acequia_(Generalife)_-_DSC07863_(slightly_cropped_and_sharpened).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Patio_de_la_Acequia_(Generalife)_-_DSC07863_(slightly_cropped_and_sharpened).jpg
 gallery: []
 place:
   id: ChIJm7j2hbb8cQ0RVf1WQjXGxBk
   name: Generalife
-  address: Centro, 18009 Granada, Spain
+  address: 'Centro, 18009 Granada, Spain'
   rating: 4.8
-  userRatingsTotal: 10979
-  googleMapsUrl: https://maps.google.com/?cid=1856826878432050517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 11231
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1856826878432050517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.178001699999996
   lng: -3.5854776999999998
@@ -32,14 +37,20 @@ place:
     - 'Sunday: 8:30 AM – 8:00 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [18, 19]
+    weekdayQuiet:
+      - 18
+      - 19
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet: [9, 17, 18, 19]
+    weekendQuiet:
+      - 9
+      - 17
+      - 18
+      - 19
     weekendBusy:
       - 11
       - 12
@@ -48,20 +59,41 @@ place:
 tags:
   - granada
   - top attraction
-quickAnswer: The Generalife is the Alhambra's summer palace and gardens, a short walk uphill from the main Nazrin Palaces, open daily 8:30am–8pm. Buy a combined Alhambra ticket well in advance and book the earliest possible entry slot — crowds build steadily from 11am to 2pm, especially on weekends. Budget 45–60 minutes for the gardens alone, more if you linger by the water staircase.
+quickAnswer: >-
+  The Generalife is the Alhambra's summer palace and gardens, a short walk
+  uphill from the main Nazrin Palaces, open daily 8:30am–8pm. Buy a combined
+  Alhambra ticket well in advance and book the earliest possible entry slot —
+  crowds build steadily from 11am to 2pm, especially on weekends. Budget 45–60
+  minutes for the gardens alone, more if you linger by the water staircase.
 faq:
   - q: How do I get tickets to the Generalife?
-    a: Generalife access is included in the general Alhambra admission ticket, not sold separately. Book online in advance through the official Alhambra ticketing site, as daily entries are capped and popular dates sell out days or weeks ahead.
+    a: >-
+      Generalife access is included in the general Alhambra admission ticket,
+      not sold separately. Book online in advance through the official Alhambra
+      ticketing site, as daily entries are capped and popular dates sell out
+      days or weeks ahead.
   - q: How long should I spend at the Generalife?
-    a: Plan on 45–60 minutes to walk the gardens, courtyards, and Water Staircase at an unhurried pace; add extra time if you want to sit by the Patio de la Acequia.
+    a: >-
+      Plan on 45–60 minutes to walk the gardens, courtyards, and Water Staircase
+      at an unhurried pace; add extra time if you want to sit by the Patio de la
+      Acequia.
   - q: What's the quietest time to visit?
-    a: Foot-traffic data shows conditions stay manageable across the full 8:30am–8pm opening hours, but weekends get busiest between 11am and 2pm — aim for right after opening or later in the afternoon instead.
+    a: >-
+      Foot-traffic data shows conditions stay manageable across the full
+      8:30am–8pm opening hours, but weekends get busiest between 11am and 2pm —
+      aim for right after opening or later in the afternoon instead.
   - q: Is the Generalife within walking distance of central Granada?
-    a: Yes, it's a steep 20–25 minute uphill walk from Plaza Nueva, or you can take the C3 minibus from Plaza Nueva up to the Alhambra entrance area.
+    a: >-
+      Yes, it's a steep 20–25 minute uphill walk from Plaza Nueva, or you can
+      take the C3 minibus from Plaza Nueva up to the Alhambra entrance area.
   - q: What else is nearby?
-    a: The Generalife is part of the wider Alhambra complex, alongside the Nazrid Palaces and the Alcazaba fortress, and overlooks the Albaicín quarter across the valley — easily combined into a half-day visit.
+    a: >-
+      The Generalife is part of the wider Alhambra complex, alongside the Nazrid
+      Palaces and the Alcazaba fortress, and overlooks the Albaicín quarter
+      across the valley — easily combined into a half-day visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 You climb out of the Alhambra's ticket gardens, past cypress hedges clipped into tight green walls, and the noise of the crowd starts to thin before you even reach the entrance. That's the first clue the Generalife works differently from the rest of the Alhambra complex — it was built as a retreat, and it still feels like one, even on a busy afternoon.
 

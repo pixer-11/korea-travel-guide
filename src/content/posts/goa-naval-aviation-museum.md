@@ -1,37 +1,43 @@
 ---
-title: "Naval Aviation Museum: Goa Travel Guide (4.6★)"
-description: "The Naval Aviation Museum sits on Bogmalo Road near Dabolim, a short hop from Goa's airport, and is the only museum of its kind in Asia. 4.6★ (7,556 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Goa"
-category: "attraction"
-pubDate: "2026-08-14T09:44:35.538Z"
+title: 'Naval Aviation Museum: Goa Travel Guide (4.6★)'
+description: >-
+  The Naval Aviation Museum sits on Bogmalo Road near Dabolim, a short hop from
+  Goa's airport, and is the only museum of its kind in Asia. 4.6★ (7,572
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: Goa
+category: attraction
+pubDate: '2026-08-14T09:44:35.538Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrance_to_Naval_Aviation_Museum_building.jpg/3840px-Entrance_to_Naval_Aviation_Museum_building.jpg"
-  credit: "Photo: SerChevalerie / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Entrance_to_Naval_Aviation_Museum_building.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrance_to_Naval_Aviation_Museum_building.jpg/3840px-Entrance_to_Naval_Aviation_Museum_building.jpg
+  credit: 'Photo: SerChevalerie / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Entrance_to_Naval_Aviation_Museum_building.jpg
 gallery: []
 place:
-  id: "ChIJoW7X1f7HvzsRsbml_wpjpE4"
-  name: "Naval Aviation Museum"
-  address: "Bogmalo Road, Vasco Da Gama, Bogmalo, Goa 403806, India"
+  id: ChIJoW7X1f7HvzsRsbml_wpjpE4
+  name: Naval Aviation Museum
+  address: 'Bogmalo Road, Vasco Da Gama, Bogmalo, Goa 403806, India'
   rating: 4.6
-  userRatingsTotal: 7556
-  googleMapsUrl: "https://maps.google.com/?cid=5666763130028800433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7572
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5666763130028800433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.374649400000001
   lng: 73.83877629999999
-  phone: "+91 70287 30385"
+  phone: +91 70287 30385
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -45,24 +51,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3445706a70775f6c6d627352737a76483766315837576f4a496843"
+    venueId: ven_3445706a70775f6c6d627352737a76483766315837576f4a496843
 tags:
-  - "goa"
-  - "museum"
-quickAnswer: "The Naval Aviation Museum sits on Bogmalo Road near Dabolim, a short hop from Goa's airport, and is the only museum of its kind in Asia. Give it 90 minutes to two hours: an outdoor aircraft park with retired fighter jets and helicopters, plus an indoor gallery tracing Indian naval aviation back to 1947. It's closed Mondays, and weekends fill up between 11am and 5pm, so aim for a weekday morning right after the 9:30am opening."
+  - goa
+  - museum
+quickAnswer: >-
+  The Naval Aviation Museum sits on Bogmalo Road near Dabolim, a short hop from
+  Goa's airport, and is the only museum of its kind in Asia. Give it 90 minutes
+  to two hours: an outdoor aircraft park with retired fighter jets and
+  helicopters, plus an indoor gallery tracing Indian naval aviation back to
+  1947. It's closed Mondays, and weekends fill up between 11am and 5pm, so aim
+  for a weekday morning right after the 9:30am opening.
 faq:
-  - q: "How much time should I plan for the visit?"
-    a: "About 90 minutes to two hours covers both the outdoor aircraft park and the indoor gallery at a comfortable pace."
-  - q: "What days and hours is it open?"
-    a: "Tuesday to Sunday, 9:30am to 5:30pm. It's closed all day Monday, so don't plan a Monday visit."
-  - q: "When is the quietest time to go?"
-    a: "Weekday mornings soon after the 9:30am opening are calmest. Weekends get busy between 11am and 5pm, so avoid that window if you want space to look around."
-  - q: "How do I get there from Goa's airport?"
-    a: "It's roughly a 10-15 minute taxi ride from Dabolim Airport, making it an easy first or last stop on a Goa trip."
-  - q: "Is it worth combining with anything nearby?"
-    a: "Yes — Bogmalo Beach is just down the road and pairs well with a morning museum visit followed by an afternoon at the beach."
+  - q: How much time should I plan for the visit?
+    a: >-
+      About 90 minutes to two hours covers both the outdoor aircraft park and
+      the indoor gallery at a comfortable pace.
+  - q: What days and hours is it open?
+    a: >-
+      Tuesday to Sunday, 9:30am to 5:30pm. It's closed all day Monday, so don't
+      plan a Monday visit.
+  - q: When is the quietest time to go?
+    a: >-
+      Weekday mornings soon after the 9:30am opening are calmest. Weekends get
+      busy between 11am and 5pm, so avoid that window if you want space to look
+      around.
+  - q: How do I get there from Goa's airport?
+    a: >-
+      It's roughly a 10-15 minute taxi ride from Dabolim Airport, making it an
+      easy first or last stop on a Goa trip.
+  - q: Is it worth combining with anything nearby?
+    a: >-
+      Yes — Bogmalo Beach is just down the road and pairs well with a morning
+      museum visit followed by an afternoon at the beach.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,24 +1,33 @@
 ---
 title: 'Guangzhou Restaurant: Where to Eat (4.1★)'
-description: Guangzhou Restaurant (广州酒家), on Wen Chang Nan Lu in the Shangxiajiu (上下九) pedestrian district of Liwan, is a Cantonese institution known for classic dim sum and old-school banquet dishes at mid-range prices. 4.1★ (219 reviews) — what visitors say, hours, and tips.
+description: >-
+  Guangzhou Restaurant (广州酒家), on Wen Chang Nan Lu in the Shangxiajiu (上下九)
+  pedestrian district of Liwan, is a Cantonese institution known for classic dim
+  sum and old-school banquet dishes at mid-range prices. 4.1★ (221 reviews) —
+  what visitors say, hours, and tips.
 country: China
 region: Guangzhou
 category: restaurant
 pubDate: '2026-08-03T10:54:43.900Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guangzhou_Hui_People%27s_Restaurant_20230722.jpg/1920px-Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guangzhou_Hui_People%27s_Restaurant_20230722.jpg/1920px-Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
   credit: 'Photo: Tim Wu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
 gallery: []
 place:
   id: ChIJMX6fVo_4AjQRoxUR87YgW0A
   name: Guangzhou Restaurant
-  address: 2 Wen Chang Nan Lu, 上下九地区 Li Wan Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510140
+  address: >-
+    2 Wen Chang Nan Lu, 上下九地区 Li Wan Qu, Guang Zhou Shi, Guang Dong Sheng,
+    China, 510140
   rating: 4.1
-  userRatingsTotal: 219
+  userRatingsTotal: 221
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=4637336211442177443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4637336211442177443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.113813
   lng: 113.245888
@@ -53,20 +62,43 @@ place:
 tags:
   - guangzhou
   - street food
-quickAnswer: Guangzhou Restaurant (广州酒家), on Wen Chang Nan Lu in the Shangxiajiu (上下九) pedestrian district of Liwan, is a Cantonese institution known for classic dim sum and old-school banquet dishes at mid-range prices. It's open daily 11am–11pm; go on a weekday evening between 8–11pm or after 7pm on weekends if you want to skip the crowds, since 11am–3pm on weekends is the busiest stretch. Budget 1–1.5 hours for a proper meal, and pair the visit with a stroll through the neighboring arcades.
+quickAnswer: >-
+  Guangzhou Restaurant (广州酒家), on Wen Chang Nan Lu in the Shangxiajiu (上下九)
+  pedestrian district of Liwan, is a Cantonese institution known for classic dim
+  sum and old-school banquet dishes at mid-range prices. It's open daily
+  11am–11pm; go on a weekday evening between 8–11pm or after 7pm on weekends if
+  you want to skip the crowds, since 11am–3pm on weekends is the busiest
+  stretch. Budget 1–1.5 hours for a proper meal, and pair the visit with a
+  stroll through the neighboring arcades.
 faq:
   - q: How do I get to Guangzhou Restaurant by metro?
-    a: Take Line 1 to Huangsha or Changshou Lu station, then walk a few minutes into the Shangxiajiu (上下九) pedestrian street in Liwan District, where the restaurant sits at 2 Wen Chang Nan Lu.
+    a: >-
+      Take Line 1 to Huangsha or Changshou Lu station, then walk a few minutes
+      into the Shangxiajiu (上下九) pedestrian street in Liwan District, where the
+      restaurant sits at 2 Wen Chang Nan Lu.
   - q: When is the quietest time to visit?
-    a: Weekdays from 8pm to 11pm and weekends from 7pm to 11pm are the quietest windows. Avoid 11am–3pm on weekends, which is consistently the busiest stretch.
+    a: >-
+      Weekdays from 8pm to 11pm and weekends from 7pm to 11pm are the quietest
+      windows. Avoid 11am–3pm on weekends, which is consistently the busiest
+      stretch.
   - q: What's the best thing to order?
-    a: Barbecue pork (char siu), shrimp dumplings and rice-flour rolls for dim sum earlier in the day; whole steamed fish, claypot rice, or a double-boiled soup if you're eating a full meal later on.
+    a: >-
+      Barbecue pork (char siu), shrimp dumplings and rice-flour rolls for dim
+      sum earlier in the day; whole steamed fish, claypot rice, or a
+      double-boiled soup if you're eating a full meal later on.
   - q: Do I need a reservation?
-    a: Not typically for a regular meal — it operates on a walk-in, numbered-ticket system, though larger groups or peak weekend lunch may involve a short wait.
+    a: >-
+      Not typically for a regular meal — it operates on a walk-in,
+      numbered-ticket system, though larger groups or peak weekend lunch may
+      involve a short wait.
   - q: How long should I plan to stay?
-    a: About 1 to 1.5 hours for a full sit-down meal, plus extra time before or after to walk the surrounding Shangxiajiu arcades, which are worth exploring in their own right.
+    a: >-
+      About 1 to 1.5 hours for a full sit-down meal, plus extra time before or
+      after to walk the surrounding Shangxiajiu arcades, which are worth
+      exploring in their own right.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

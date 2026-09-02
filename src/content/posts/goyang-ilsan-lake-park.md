@@ -1,23 +1,28 @@
 ---
 title: 'Ilsan Lake Park: Goyang Travel Guide'
-description: Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a lakeside music fountain.
+description: >-
+  Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made
+  lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a
+  lakeside music fountain.
 country: South Korea
 region: Goyang
 category: attraction
 pubDate: '2026-07-28T10:10:03.383Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg
   credit: 'Photo: travel oriented / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Goyang_Lake_Park.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Goyang_Lake_Park.jpg'
 gallery: []
 place:
   id: ChIJ0URvckGFfDUR7R6yo-PKp-I
   name: Ilsan Lake Park
-  address: 595 Hosu-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea
+  address: '595 Hosu-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea'
   rating: 4.6
-  userRatingsTotal: 6167
-  googleMapsUrl: https://maps.google.com/?cid=16332245652735139565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6162
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16332245652735139565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.6567441
   lng: 126.7662508
@@ -33,20 +38,40 @@ place:
 tags:
   - goyang
   - top attraction
-quickAnswer: Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a lakeside music fountain. Go early morning on weekdays to beat the joggers and festival crowds, and budget half a day to circle the lake, browse the flower exhibits, and cross into nearby Lafesta or Western Dom shopping streets afterward.
+quickAnswer: >-
+  Ilsan Lake Park (일산호수공원) in Goyang's Ilsandong-gu is Korea's largest man-made
+  lake park, with an 8.5km loop path, gardens, sculptures, a small zoo, and a
+  lakeside music fountain. Go early morning on weekdays to beat the joggers and
+  festival crowds, and budget half a day to circle the lake, browse the flower
+  exhibits, and cross into nearby Lafesta or Western Dom shopping streets
+  afterward.
 faq:
   - q: How do I get to Ilsan Lake Park by subway?
-    a: Take Seoul Subway Line 3 to Jeongbalsan Station for the northeastern entrances, or Baengma Station for the southern side near the rose garden. Both are about a 10-minute walk to the water.
+    a: >-
+      Take Seoul Subway Line 3 to Jeongbalsan Station for the northeastern
+      entrances, or Baengma Station for the southern side near the rose garden.
+      Both are about a 10-minute walk to the water.
   - q: How long should I spend there?
-    a: Budget at least 2 hours for a full loop of the 8.5km perimeter path at a walking pace, or half a day if you want to linger at the sculpture garden, zoo, and reed marsh boardwalk.
+    a: >-
+      Budget at least 2 hours for a full loop of the 8.5km perimeter path at a
+      walking pace, or half a day if you want to linger at the sculpture garden,
+      zoo, and reed marsh boardwalk.
   - q: When is the quietest time to visit?
-    a: Weekday mornings right at opening (10am) are calmest. Weekends and festival periods, especially spring and autumn flower shows, bring much heavier crowds along the main paths.
+    a: >-
+      Weekday mornings right at opening (10am) are calmest. Weekends and
+      festival periods, especially spring and autumn flower shows, bring much
+      heavier crowds along the main paths.
   - q: Is there an entrance fee?
-    a: No, the park itself is free to enter; you only pay if you rent a bike, paddle boat, or visit certain small attractions like the zoo.
+    a: >-
+      No, the park itself is free to enter; you only pay if you rent a bike,
+      paddle boat, or visit certain small attractions like the zoo.
   - q: What's nearby if I want to extend the trip?
-    a: The Lafesta and Western Dom shopping and dining streets sit just east of the park, an easy walk for a meal or coffee after your visit.
+    a: >-
+      The Lafesta and Western Dom shopping and dining streets sit just east of
+      the park, an easy walk for a meal or coffee after your visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 You come out of the subway, cross a wide boulevard lined with apartment towers, and within a few minutes the noise of Ilsan's streets falls away behind a screen of pines. That's the first thing you notice at Ilsan Lake Park: how quickly the city disappears. The lake itself opens up wide and flat, ringed by a paved path that locals use for everything from stroller pushes to serious training runs, and on a clear morning the water throws back the skyline in sheets of pale gold.
 

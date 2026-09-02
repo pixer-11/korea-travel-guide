@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gili-islands-gili-trawangan-beach
-srcHash: '29de38a5f2e6'
+srcHash: 'abc01e5faa35'
 title: 'Playa de Gili Trawangan: Guía de viaje de las islas Gili (4.6★)'
-description: La franja principal de playa de Gili Trawangan (Gili Trawangan) es mejor al amanecer (agua en calma, vacía y cristalina) o justo al atardecer sobre el volcán de Lombok — el sol del mediodía y las llegadas de barcos entre semana son las principales aglomeraciones que conviene evitar. 4.6★ (232 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: La franja principal de playa de Gili Trawangan (Gili Trawangan) es mejor al amanecer (agua en calma, vacía y cristalina) o justo al atardecer sobre el volcán de Lombok — el sol del mediodía y las llegadas de barcos entre semana son las principales aglomeraciones que conviene evitar. 4.6★ (233 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La franja principal de playa de Gili Trawangan es mejor al amanecer (agua en calma, vacía y cristalina) o justo al atardecer sobre el volcán de Lombok — el sol del mediodía y las llegadas de barcos entre semana son las principales aglomeraciones que conviene evitar. En la isla no circulan vehículos (ni coches ni motos), así que hay que planear ir caminando, en bicicleta o en un carro tirado por caballos (cidomo) para llegar a los tramos más tranquilos al norte y al este del puerto.
 faq:
   - q: ¿Cómo llego a la playa de Gili Trawangan?

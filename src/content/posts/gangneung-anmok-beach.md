@@ -1,27 +1,36 @@
 ---
 title: 'Anmok Beach: Gangneung Travel Guide (4.3★)'
-description: Anmok Beach is Gangneung's easy-access city beach, famous less for swimming and more for the strip of coffee shops lining its shore — including the original Coffee Cupper Bohemian, credited with kicking off Korea's coffee-street trend. 4.3★ (10,218 reviews) — what visitors say, hours, and tips.
+description: >-
+  Anmok Beach is Gangneung's easy-access city beach, famous less for swimming
+  and more for the strip of coffee shops lining its shore — including the
+  original Coffee Cupper Bohemian, credited with kicking off Korea's
+  coffee-street trend. 4.3★ (10,215 reviews) — what visitors say, hours, and
+  tips.
 country: South Korea
 region: Gangneung
 category: attraction
 pubDate: '2026-08-10T09:04:38.385Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg
   credit: 'Photo: Choi2451 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Anmok_beach_on_September_7th,_2017.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Anmok_beach_on_September_7th,_2017.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anmok_Beach_20220430_008.jpg/1920px-Anmok_Beach_20220430_008.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anmok_Beach_20220430_008.jpg/1920px-Anmok_Beach_20220430_008.jpg
     credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_008.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_008.jpg'
 place:
   id: ChIJp34D6ALnYTURCo6jlNYaCoQ
   name: Anmok Beach
-  address: Anmok Beach, 286 송정동 Gangneung, Gangwon-do, South Korea
+  address: 'Anmok Beach, 286 송정동 Gangneung, Gangwon-do, South Korea'
   rating: 4.3
-  userRatingsTotal: 10218
-  googleMapsUrl: https://maps.google.com/?cid=9514446671692664330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 10215
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9514446671692664330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.773149000000004
   lng: 128.94727179999998
@@ -37,20 +46,36 @@ place:
 tags:
   - gangneung
   - night view
-quickAnswer: Anmok Beach is Gangneung's easy-access city beach, famous less for swimming and more for the strip of coffee shops lining its shore — including the original Coffee Cupper Bohemian, credited with kicking off Korea's coffee-street trend. It's open 24 hours, well-visited year-round, and best walked at sunrise or dusk when the sand and cafe patios thin out.
+quickAnswer: >-
+  Anmok Beach is Gangneung's easy-access city beach, famous less for swimming
+  and more for the strip of coffee shops lining its shore — including the
+  original Coffee Cupper Bohemian, credited with kicking off Korea's
+  coffee-street trend. It's open 24 hours, well-visited year-round, and best
+  walked at sunrise or dusk when the sand and cafe patios thin out.
 faq:
   - q: How do I get to Anmok Beach from Seoul?
-    a: Take the KTX to Gangneung Station (about 2.5 hours from Seoul), then a local bus or roughly 15-minute taxi ride to the beach.
+    a: >-
+      Take the KTX to Gangneung Station (about 2.5 hours from Seoul), then a
+      local bus or roughly 15-minute taxi ride to the beach.
   - q: Is Anmok Beach good for swimming?
-    a: It's swimmable in summer but the main appeal is the walk and the coffee street, not clear or calm water — expect standard East Sea conditions.
+    a: >-
+      It's swimmable in summer but the main appeal is the walk and the coffee
+      street, not clear or calm water — expect standard East Sea conditions.
   - q: When is Anmok Beach least crowded?
-    a: Early morning right after sunrise or weekday afternoons are quietest; weekend midday brings the heaviest crowds to the cafe strip.
+    a: >-
+      Early morning right after sunrise or weekday afternoons are quietest;
+      weekend midday brings the heaviest crowds to the cafe strip.
   - q: What is Anmok Beach known for?
-    a: It's known as the birthplace of Gangneung's coffee-street scene, anchored by the original Coffee Cupper Bohemian location facing the sand.
+    a: >-
+      It's known as the birthplace of Gangneung's coffee-street scene, anchored
+      by the original Coffee Cupper Bohemian location facing the sand.
   - q: Is Anmok Beach free to visit?
-    a: Yes, it's open 24 hours with no entry fee — you only pay for cafés, food, or activities along the strip.
+    a: >-
+      Yes, it's open 24 hours with no entry fee — you only pay for cafés, food,
+      or activities along the strip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

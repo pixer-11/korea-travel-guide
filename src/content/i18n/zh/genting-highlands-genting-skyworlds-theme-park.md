@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: genting-highlands-genting-skyworlds-theme-park
-srcHash: '988251b32b29'
+srcHash: '285be3b6079c'
 title: 云顶天地主题公园（Genting SkyWorlds）：云顶高原（Genting Highlands）旅游指南
-description: 云顶天地（Genting SkyWorlds）是位于云顶高原（Genting Highlands）山顶的好莱坞主题乐园，可从云顶缆车站（Awana Skyway station）搭乘缆车抵达。4.2★（17,028条评论）——游客怎么说、开放时间与实用贴士。
+description: 云顶天地（Genting SkyWorlds）是位于云顶高原（Genting Highlands）山顶的好莱坞主题乐园，可从云顶缆车站（Awana Skyway station）搭乘缆车抵达。4.2★（17,092条评论）——游客怎么说、开放时间与实用贴士。
 quickAnswer: 云顶天地（Genting SkyWorlds）是位于云顶高原（Genting Highlands）山顶的好莱坞主题乐园，可从云顶缆车站（Awana Skyway station）搭乘缆车抵达。除周二外每天开放，营业时间为上午10点至下午6点，周末上午11点到下午6点人流量最大——建议开园即到，或选择工作日前往以缩短排队时间。建议预留完整一天（6-7小时）才能好好逛完六大主题区。
 faq:
   - q: 从吉隆坡怎么去云顶天地（Genting SkyWorlds）？

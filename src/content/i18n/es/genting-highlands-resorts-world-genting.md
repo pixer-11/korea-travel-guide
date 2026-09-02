@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: genting-highlands-resorts-world-genting
-srcHash: '49fe41611415'
+srcHash: '2195f221f214'
 title: 'Resorts World Genting: Guía de viaje de Genting Highlands (4.5★)'
-description: 'Resorts World Genting es el resort de casino y parque temático de Malasia situado entre las nubes, en lo alto de Genting Highlands, al que se llega en un teleférico de 10 minutos (el Genting SkyWay) desde la estación Genting Skyway, cerca de Gohtong Jaya. 4.5★ (74,366 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Resorts World Genting es el resort de casino y parque temático de Malasia situado entre las nubes, en lo alto de Genting Highlands, al que se llega en un teleférico de 10 minutos (el Genting SkyWay) desde la estación Genting Skyway, cerca de Gohtong Jaya. 4.5★ (74,519 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Resorts World Genting es el resort de casino y parque temático de Malasia situado entre las nubes, en lo alto de Genting Highlands, al que se llega en un teleférico de 10 minutos (el Genting SkyWay) desde la estación Genting Skyway, cerca de Gohtong Jaya. Planifica desde un día completo hasta una escapada de dos días y una noche: sube en el SkyWay temprano, visita los parques temáticos al aire libre y bajo techo antes de que llegue la multitud del mediodía, y abrígate bien, ya que aquí hace notablemente más fresco que en Kuala Lumpur.'
 faq:
   - q: ¿Cómo se llega a Resorts World Genting?

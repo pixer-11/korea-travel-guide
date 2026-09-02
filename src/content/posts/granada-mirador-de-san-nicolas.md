@@ -1,27 +1,34 @@
 ---
 title: 'Mirador de San Nicolás: Granada Travel Guide'
-description: 'Mirador de San Nicolás is the square in the Albaicín with Granada''s classic postcard view: the Alhambra''s ramparts stacked against the Sierra Nevada.'
+description: >-
+  Mirador de San Nicolás is the square in the Albaicín with Granada's classic
+  postcard view: the Alhambra's ramparts stacked against the Sierra Nevada.
 country: Spain
 region: Granada
 category: hidden-gem
 pubDate: '2026-08-01T09:35:54.881Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg
   credit: 'Photo: Slaunger / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg/3840px-Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg/3840px-Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg
 place:
   id: ChIJlc_oycf8cQ0RmGSbIT5svlk
   name: Mirador de San Nicolás
-  address: Plaza Mirador de San Nicolás, 2, Albaicín, 18010 Granada, Spain
+  address: 'Plaza Mirador de San Nicolás, 2, Albaicín, 18010 Granada, Spain'
   rating: 4.7
-  userRatingsTotal: 81906
-  googleMapsUrl: https://maps.google.com/?cid=6466725129058215064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 82539
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6466725129058215064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.1811058
   lng: -3.5926636999999997
@@ -65,20 +72,43 @@ place:
 tags:
   - granada
   - hidden gem
-quickAnswer: 'Mirador de San Nicolás is the square in the Albaicín with Granada''s classic postcard view: the Alhambra''s ramparts stacked against the Sierra Nevada. It''s open all day, every day, but go between 7am and 10am if you want the terrace to yourself — from noon until nearly midnight on weekends it''s packed shoulder to shoulder. Sunset is magical but also the single busiest, most crowded moment here, so arrive at least 45–60 minutes early to claim wall space.'
+quickAnswer: >-
+  Mirador de San Nicolás is the square in the Albaicín with Granada's classic
+  postcard view: the Alhambra's ramparts stacked against the Sierra Nevada. It's
+  open all day, every day, but go between 7am and 10am if you want the terrace
+  to yourself — from noon until nearly midnight on weekends it's packed shoulder
+  to shoulder. Sunset is magical but also the single busiest, most crowded
+  moment here, so arrive at least 45–60 minutes early to claim wall space.
 faq:
   - q: What is the best time of day to visit Mirador de San Nicolás?
-    a: For a quiet visit, go between 7am and 10am, the measured quietest window on both weekdays and weekends. For the famous view, sunset is spectacular but also the busiest stretch of the day — arrive 45–60 minutes early to get a spot.
+    a: >-
+      For a quiet visit, go between 7am and 10am, the measured quietest window
+      on both weekdays and weekends. For the famous view, sunset is spectacular
+      but also the busiest stretch of the day — arrive 45–60 minutes early to
+      get a spot.
   - q: How do I get to the Mirador de San Nicolás?
-    a: It's a 20–25 minute uphill walk from Plaza Nueva through the Albaicín via Carrera del Darro and Cuesta del Chapiz. Alternatively, take the C1 minibus from Plaza Nueva, which is built for the neighborhood's narrow streets and stops a short walk from the square.
+    a: >-
+      It's a 20–25 minute uphill walk from Plaza Nueva through the Albaicín via
+      Carrera del Darro and Cuesta del Chapiz. Alternatively, take the C1
+      minibus from Plaza Nueva, which is built for the neighborhood's narrow
+      streets and stops a short walk from the square.
   - q: Is there an entrance fee?
-    a: No — it's a public square, open 24 hours every day, with no ticket or booking required.
+    a: >-
+      No — it's a public square, open 24 hours every day, with no ticket or
+      booking required.
   - q: How long should I spend there?
-    a: Most visitors spend 30–60 minutes at the viewpoint itself, but budget extra time to wander the surrounding Albaicín lanes, teterías, and the Paseo de los Tristes below.
+    a: >-
+      Most visitors spend 30–60 minutes at the viewpoint itself, but budget
+      extra time to wander the surrounding Albaicín lanes, teterías, and the
+      Paseo de los Tristes below.
   - q: Is it worth going if I want to avoid crowds?
-    a: It's genuinely one of Granada's most popular spots, so expect company, especially from noon to 11pm on weekends. Going in the early morning is your best bet for a calmer visit.
+    a: >-
+      It's genuinely one of Granada's most popular spots, so expect company,
+      especially from noon to 11pm on weekends. Going in the early morning is
+      your best bet for a calmer visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

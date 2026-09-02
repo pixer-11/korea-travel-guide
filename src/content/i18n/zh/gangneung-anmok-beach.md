@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: gangneung-anmok-beach
-srcHash: 'f53cd9e52f1b'
+srcHash: '438fe7f63f20'
 title: 江陵注文津安木海滩（Anmok Beach）旅游指南（4.3★）
-description: 安木海滩（Anmok Beach）是江陵一处交通便利的城市海滩，比起游泳，它更以沿岸一整条咖啡街闻名——包括被认为掀起韩国咖啡街风潮的初代Coffee Cupper Bohemian。4.3★（10,218条评价）——看看游客怎么说，营业时间及实用贴士。
+description: 安木海滩（Anmok Beach）是江陵一处交通便利的城市海滩，比起游泳，它更以沿岸一整条咖啡街闻名——包括被认为掀起韩国咖啡街风潮的初代Coffee Cupper Bohemian。4.3★（10,215条评价）——看看游客怎么说，营业时间及实用贴士。
 quickAnswer: 安木海滩（Anmok Beach）是江陵一处交通便利的城市海滩，比起游泳，它更以沿岸一整条咖啡街闻名——包括被认为掀起韩国咖啡街风潮的初代Coffee Cupper Bohemian。这里全天24小时开放，全年游客不断，最佳游览时间是日出或黄昏时分，那时沙滩和咖啡馆露台上的人都比较少。
 faq:
   - q: 从首尔怎么去安木海滩？

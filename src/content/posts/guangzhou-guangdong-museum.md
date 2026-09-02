@@ -1,30 +1,38 @@
 ---
 title: 'Guangdong Museum: Guangzhou Travel Guide (4.3★)'
-description: Guangdong Museum sits in the Zhujiang New Town CBD, right beside the Guangzhou Opera House and Guangzhou Library. 4.3★ (317 reviews) — what visitors say, hours, and tips.
+description: >-
+  Guangdong Museum sits in the Zhujiang New Town CBD, right beside the Guangzhou
+  Opera House and Guangzhou Library. 4.3★ (320 reviews) — what visitors say,
+  hours, and tips.
 country: China
 region: Guangzhou
 category: attraction
 pubDate: '2026-08-16T08:50:46.790Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Guangdong_Museum_20170915-2.jpg/1920px-Guangdong_Museum_20170915-2.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Guangdong_Museum_20170915-2.jpg/1920px-Guangdong_Museum_20170915-2.jpg
   credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Guangdong_Museum_20170915-2.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Guangdong_Museum_20170915-2.jpg'
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Guangdong_Museum.jpg/1920px-Guangdong_Museum.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Guangdong_Museum.jpg/1920px-Guangdong_Museum.jpg
     credit: 'Photo: Shujianyang / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Guangdong_Museum.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Guangdong_Museum.jpg'
 place:
   id: ChIJFc3j5sj4AjQRv2TMs1xJ_VM
   name: Guangdong Museum
-  address: 2 Zhu Jiang Dong Lu, Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510623
+  address: >-
+    2 Zhu Jiang Dong Lu, Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, China,
+    510623
   rating: 4.3
-  userRatingsTotal: 317
-  googleMapsUrl: https://maps.google.com/?cid=6052074136758150335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 320
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6052074136758150335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.114825
   lng: 113.326861
@@ -40,20 +48,38 @@ place:
 tags:
   - guangzhou
   - museum
-quickAnswer: Guangdong Museum sits in the Zhujiang New Town CBD, right beside the Guangzhou Opera House and Guangzhou Library. It's open Tuesday to Sunday, 9am–5pm (closed Mondays), and free — you just need to reserve a ticket online or at the counter. Give it two to three hours to properly see the ceramics, Chaozhou woodcarving and natural history floors.
+quickAnswer: >-
+  Guangdong Museum sits in the Zhujiang New Town CBD, right beside the Guangzhou
+  Opera House and Guangzhou Library. It's open Tuesday to Sunday, 9am–5pm
+  (closed Mondays), and free — you just need to reserve a ticket online or at
+  the counter. Give it two to three hours to properly see the ceramics, Chaozhou
+  woodcarving and natural history floors.
 faq:
   - q: Is Guangdong Museum free to enter?
-    a: Yes, admission is free, but you typically need to reserve a timed ticket online (via the museum's WeChat account or website) or at the counter with ID/passport.
+    a: >-
+      Yes, admission is free, but you typically need to reserve a timed ticket
+      online (via the museum's WeChat account or website) or at the counter with
+      ID/passport.
   - q: What are the opening hours?
-    a: Tuesday to Sunday, 9:00 AM to 5:00 PM. It's closed all day Monday, so avoid planning a visit then.
+    a: >-
+      Tuesday to Sunday, 9:00 AM to 5:00 PM. It's closed all day Monday, so
+      avoid planning a visit then.
   - q: How do I get there by metro?
-    a: Take Metro Line 3 or Line 5 to Zhujiang New Town Station and walk about 10–15 minutes, or use APM Line to Huaxia Square/Grand Theatre station for a shorter walk.
+    a: >-
+      Take Metro Line 3 or Line 5 to Zhujiang New Town Station and walk about
+      10–15 minutes, or use APM Line to Huaxia Square/Grand Theatre station for
+      a shorter walk.
   - q: How much time should I plan for a visit?
-    a: Two to three hours covers the main ceramics, woodcarving, and natural history galleries without rushing.
+    a: >-
+      Two to three hours covers the main ceramics, woodcarving, and natural
+      history galleries without rushing.
   - q: What's nearby if I want to make a day of it?
-    a: The Guangzhou Opera House and Guangzhou Library are both within a five-minute walk, forming an easy cultural loop in Zhujiang New Town.
+    a: >-
+      The Guangzhou Opera House and Guangzhou Library are both within a
+      five-minute walk, forming an easy cultural loop in Zhujiang New Town.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

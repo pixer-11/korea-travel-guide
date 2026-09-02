@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: genting-highlands-resorts-world-genting
-srcHash: '49fe41611415'
+srcHash: '2195f221f214'
 title: '리조트 월드 겐팅: 겐팅 하이랜드 여행 가이드 (4.5★)'
-description: 리조트 월드 겐팅(Resorts World Genting)은 겐팅 하이랜드(Genting Highlands) 산 위에 자리한 말레이시아의 구름 위 카지노 겸 테마파크 리조트로, 고퉁 자야(Gohtong Jaya) 인근 겐팅 스카이웨이 역(Genting Skyway Station)에서 10분짜리 케이블카(겐팅 스카이웨이, Genting SkyWay)를 타고 오를 수 있습니다. 4.5★(리뷰 74,366개) — 방문객들의 평가, 운영 시간, 팁을 확인하세요.
+description: 리조트 월드 겐팅(Resorts World Genting)은 겐팅 하이랜드(Genting Highlands) 산 위에 자리한 말레이시아의 구름 위 카지노 겸 테마파크 리조트로, 고퉁 자야(Gohtong Jaya) 인근 겐팅 스카이웨이 역(Genting Skyway Station)에서 10분짜리 케이블카(겐팅 스카이웨이, Genting SkyWay)를 타고 오를 수 있습니다. 4.5★(리뷰 74,519개) — 방문객들의 평가, 운영 시간, 팁을 확인하세요.
 quickAnswer: 리조트 월드 겐팅(Resorts World Genting)은 겐팅 하이랜드(Genting Highlands) 산 위에 자리한 말레이시아의 구름 위 카지노 겸 테마파크 리조트로, 고퉁 자야(Gohtong Jaya) 인근 겐팅 스카이웨이 역(Genting Skyway Station)에서 10분짜리 케이블카(겐팅 스카이웨이, Genting SkyWay)를 타고 오를 수 있습니다. 하루 코스부터 1박 2일 일정까지 가능하니, 아침 일찍 스카이웨이를 타고 올라가 정오 이전 인파가 몰리기 전에 실내외 테마파크를 둘러보세요. 그리고 이곳은 쿠알라룸푸르보다 눈에 띄게 서늘하니 따뜻하게 챙겨 입으시길 바랍니다.
 faq:
   - q: 리조트 월드 겐팅(Resorts World Genting)에는 어떻게 가나요?

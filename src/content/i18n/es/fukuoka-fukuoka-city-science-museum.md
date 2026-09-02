@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fukuoka-fukuoka-city-science-museum
-srcHash: 'b5435c62fc09'
+srcHash: '223a2f48fe46'
 title: 'Museo de Ciencias de Fukuoka: Guía de viaje (4.2★)'
-description: 'El Museo de Ciencias de la Ciudad de Fukuoka, en Ropponmatsu (distrito de Chuo), es un museo interactivo con planetario que dedica varias plantas al espacio, las ciencias de la vida y el medio ambiente. 4.2★ (3.482 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Ciencias de la Ciudad de Fukuoka, en Ropponmatsu (distrito de Chuo), es un museo interactivo con planetario que dedica varias plantas al espacio, las ciencias de la vida y el medio ambiente. 4.2★ (3.500 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Ciencias de la Ciudad de Fukuoka, en Ropponmatsu (distrito de Chuo), es un museo interactivo con planetario que reparte a lo largo de varias plantas contenidos sobre el espacio, las ciencias de la vida y el medio ambiente. Abre todos los días de 9:30 a 21:30, salvo los martes, y los fines de semana se llena entre las 11:00 y las 20:00, así que conviene visitarlo por la mañana, justo a la apertura. Calcule entre dos y tres horas si quiere ver también una sesión de planetario además de las salas de exposición.
 faq:
   - q: ¿Cuál es el horario de apertura?

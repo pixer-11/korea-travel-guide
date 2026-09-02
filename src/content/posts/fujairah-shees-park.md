@@ -1,59 +1,85 @@
 ---
-title: "Shees Park: Sharjah Travel Guide (4.4★)"
-description: "Shees Park sits just off the Al Dhaid–Masafi mountain road, on the Sharjah/Fujairah border, and it's open daily from 8am to 10pm. 4.4★ (6,661 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Sharjah"
-category: "attraction"
-pubDate: "2026-08-21T08:09:42.053Z"
+title: 'Shees Park: Sharjah Travel Guide (4.4★)'
+description: >-
+  Shees Park sits just off the Al Dhaid–Masafi mountain road, on the
+  Sharjah/Fujairah border, and it's open daily from 8am to 10pm. 4.4★ (6,665
+  reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Sharjah
+category: attraction
+pubDate: '2026-08-21T08:09:42.053Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg/3840px-Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg"
-  credit: "Photo: Inaayam / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mountain_View_@_Al_Shees_Park,_Sharjah.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg/3840px-Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg
+  credit: 'Photo: Inaayam / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mountain_View_@_Al_Shees_Park,_Sharjah.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/29834788_20UvsVn3msiXXOGX5fxQ-pfzagZVSyUu9-J-n_beuVI.jpg"
-    credit: "Photo: Foursquare user content (Shees Park)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/5f9d5141d004610edaf00583"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/29834788_20UvsVn3msiXXOGX5fxQ-pfzagZVSyUu9-J-n_beuVI.jpg
+    credit: 'Photo: Foursquare user content (Shees Park)'
+    license: foursquare
+    source: 'https://foursquare.com/v/5f9d5141d004610edaf00583'
 place:
-  id: "ChIJXXq2kMBN9D4R94C3n7ebSJ4"
-  name: "Shees Park"
-  address: "Al Dhaid Rd - Shees - Sharjah - United Arab Emirates"
+  id: ChIJXXq2kMBN9D4R94C3n7ebSJ4
+  name: Shees Park
+  address: Al Dhaid Rd - Shees - Sharjah - United Arab Emirates
   rating: 4.4
-  userRatingsTotal: 6661
-  googleMapsUrl: "https://maps.google.com/?cid=11405537269276705015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6665
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11405537269276705015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2931283
   lng: 56.236717000000006
-  phone: "+971 9 208 3555"
+  phone: +971 9 208 3555
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
-  - "fujairah"
-  - "park"
-quickAnswer: "Shees Park sits just off the Al Dhaid–Masafi mountain road, on the Sharjah/Fujairah border, and it's open daily from 8am to 10pm. Go on a weekday morning or after sunset on a cooler evening — this is a very popular spot with families and weekend crowds build fast. Bring a picnic, good shoes for the surrounding hills, and cash for parking or snacks."
+  - fujairah
+  - park
+quickAnswer: >-
+  Shees Park sits just off the Al Dhaid–Masafi mountain road, on the
+  Sharjah/Fujairah border, and it's open daily from 8am to 10pm. Go on a weekday
+  morning or after sunset on a cooler evening — this is a very popular spot with
+  families and weekend crowds build fast. Bring a picnic, good shoes for the
+  surrounding hills, and cash for parking or snacks.
 faq:
-  - q: "How do I get to Shees Park without a car?"
-    a: "There's no direct public transit; nearly everyone arrives by private car or taxi along Al Dhaid Road. It's about a 40-50 minute drive from Fujairah city."
-  - q: "What are the opening hours?"
-    a: "Shees Park is open every day of the week from 8:00 AM to 10:00 PM, with no listed closing day."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings shortly after the 8am opening tend to be quietest. Weekend afternoons and evenings draw the biggest family crowds, so plan around those if you want space."
-  - q: "Is Shees Park good for kids?"
-    a: "Yes — there are dedicated play areas, open lawns for running around, and shaded picnic spots, making it a popular family stop on the Sharjah-Fujairah mountain road."
-  - q: "How long should I plan to stay?"
-    a: "Given the drive out, most visitors spend at least 1-2 hours here to make use of the lawns, walking paths, and picnic or barbecue areas."
+  - q: How do I get to Shees Park without a car?
+    a: >-
+      There's no direct public transit; nearly everyone arrives by private car
+      or taxi along Al Dhaid Road. It's about a 40-50 minute drive from Fujairah
+      city.
+  - q: What are the opening hours?
+    a: >-
+      Shees Park is open every day of the week from 8:00 AM to 10:00 PM, with no
+      listed closing day.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings shortly after the 8am opening tend to be quietest.
+      Weekend afternoons and evenings draw the biggest family crowds, so plan
+      around those if you want space.
+  - q: Is Shees Park good for kids?
+    a: >-
+      Yes — there are dedicated play areas, open lawns for running around, and
+      shaded picnic spots, making it a popular family stop on the
+      Sharjah-Fujairah mountain road.
+  - q: How long should I plan to stay?
+    a: >-
+      Given the drive out, most visitors spend at least 1-2 hours here to make
+      use of the lawns, walking paths, and picnic or barbecue areas.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

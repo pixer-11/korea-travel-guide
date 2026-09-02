@@ -1,27 +1,34 @@
 ---
 title: 'Dazaifu Tenmangu Shrine: Fukuoka Travel Guide'
-description: Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave of the exiled 9th-century courtier Sugawara no Michizane.
+description: >-
+  Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of
+  Japan's most important shrines for students and scholars, built over the grave
+  of the exiled 9th-century courtier Sugawara no Michizane.
 country: Japan
 region: Fukuoka
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg/1920px-Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg/1920px-Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg
   credit: 'Photo: redlegsfan21 / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Honden_Dazaifu_Tenmangu_Shrine_(15558158424).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Honden_Dazaifu_Tenmangu_Shrine_(15558158424).jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/25854540_bu5gLQ20bPML-ZI0am28FQJkgufDMyo4nilmLOtLp9I.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/25854540_bu5gLQ20bPML-ZI0am28FQJkgufDMyo4nilmLOtLp9I.jpg
     credit: 'Photo: Foursquare user content (Dazaifu Tenmangu Shrine (太宰府天満宮))'
     license: foursquare
-    source: https://foursquare.com/v/4b64cd6ff964a52043d12ae3
+    source: 'https://foursquare.com/v/4b64cd6ff964a52043d12ae3'
 place:
   id: ChIJzfvrKp-bQTURl65fp6vRJLg
   name: Dazaifu Tenmangu Shrine
-  address: 4-chōme-7-1 Saifu, Dazaifu, Fukuoka 818-0117, Japan
+  address: '4-chōme-7-1 Saifu, Dazaifu, Fukuoka 818-0117, Japan'
   rating: 4.5
-  userRatingsTotal: 43518
-  googleMapsUrl: https://maps.google.com/?cid=13268960937318002327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 43984
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13268960937318002327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 33.5213697
   lng: 130.5348239
@@ -63,21 +70,44 @@ place:
 tags:
   - fukuoka
   - hidden gem
-quickAnswer: Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of Japan's most important shrines for students and scholars, built over the grave of the exiled 9th-century courtier Sugawara no Michizane. Come for the vermillion Honden, the arched bridges over Shinji-ike pond, and (if timed right) the plum blossoms in February. Budget 1.5–2 hours, more if you add the Kyushu National Museum next door.
+quickAnswer: >-
+  Dazaifu Tenmangu, about 30 minutes by train from central Fukuoka, is one of
+  Japan's most important shrines for students and scholars, built over the grave
+  of the exiled 9th-century courtier Sugawara no Michizane. Come for the
+  vermillion Honden, the arched bridges over Shinji-ike pond, and (if timed
+  right) the plum blossoms in February. Budget 1.5–2 hours, more if you add the
+  Kyushu National Museum next door.
 faq:
   - q: How do I get to Dazaifu Tenmangu from Fukuoka city?
-    a: Take the Nishitetsu Tenjin-Omuta Line from Nishitetsu Fukuoka (Tenjin) Station to Nishitetsu Futsukaichi, then change to the Nishitetsu Dazaifu Line for one stop to Dazaifu Station. It's about a 30-40 minute trip, followed by a flat 5-10 minute walk to the shrine.
+    a: >-
+      Take the Nishitetsu Tenjin-Omuta Line from Nishitetsu Fukuoka (Tenjin)
+      Station to Nishitetsu Futsukaichi, then change to the Nishitetsu Dazaifu
+      Line for one stop to Dazaifu Station. It's about a 30-40 minute trip,
+      followed by a flat 5-10 minute walk to the shrine.
   - q: How much time should I budget for a visit?
-    a: Plan 1.5-2 hours for the shrine grounds and approach street. Add an extra hour if you plan to visit the adjacent Kyushu National Museum, which is connected by a covered escalator walkway.
+    a: >-
+      Plan 1.5-2 hours for the shrine grounds and approach street. Add an extra
+      hour if you plan to visit the adjacent Kyushu National Museum, which is
+      connected by a covered escalator walkway.
   - q: When is the best time to see the plum blossoms?
-    a: Late February to early March is peak plum blossom season, with the legendary Tobi-ume tree usually among the first to bloom. Cherry blossoms typically follow in late March or early April.
+    a: >-
+      Late February to early March is peak plum blossom season, with the
+      legendary Tobi-ume tree usually among the first to bloom. Cherry blossoms
+      typically follow in late March or early April.
   - q: Is there an entrance fee?
-    a: The shrine grounds are generally free to enter, though the adjacent museum (dedicated to the shrine's treasures) and the Kyushu National Museum charge separate admission. Fees and hours can change, so check official sources before your visit.
+    a: >-
+      The shrine grounds are generally free to enter, though the adjacent museum
+      (dedicated to the shrine's treasures) and the Kyushu National Museum
+      charge separate admission. Fees and hours can change, so check official
+      sources before your visit.
   - q: What should I eat near the shrine?
-    a: Try umegae-mochi, a grilled red-bean-filled mochi cake sold along the approach street and considered the local specialty. The street also has a notable Kengo Kuma-designed Starbucks worth a quick stop.
+    a: >-
+      Try umegae-mochi, a grilled red-bean-filled mochi cake sold along the
+      approach street and considered the local specialty. The street also has a
+      notable Kengo Kuma-designed Starbucks worth a quick stop.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-02'
 ---
 
 ## Why Dazaifu Tenmangu Matters

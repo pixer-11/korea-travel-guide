@@ -1,44 +1,56 @@
 ---
-title: "Chin Swee Caves Temple: Genting Highlands Travel Guide"
-description: "Chin Swee Caves Temple is a 28-acre Buddhist complex clinging to a mountainside at 4,600 feet, just below Genting Highlands, open daily 7am–7pm. 4.6★ (11,011 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Genting Highlands"
-category: "attraction"
-pubDate: "2026-08-20T08:11:11.753Z"
+title: 'Chin Swee Caves Temple: Genting Highlands Travel Guide'
+description: >-
+  Chin Swee Caves Temple is a 28-acre Buddhist complex clinging to a
+  mountainside at 4,600 feet, just below Genting Highlands, open daily 7am–7pm.
+  4.6★ (11,070 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Genting Highlands
+category: attraction
+pubDate: '2026-08-20T08:11:11.753Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chin_Swee_Caves_Temple_combined.jpg/1920px-Chin_Swee_Caves_Temple_combined.jpg"
-  credit: "Photo: File:Chin Swee Caves Temple KL17.JPG: Gryffindor File:Chin Swee Caves Temple KL18.JPG: Gryffindor File:Chin Swee Caves Temple KL19.JPG: Gryffindor File:Chin Swee Caves Temple KL20.JPG: Gryffindor File:Chin Swee Caves Temple KL21.JPG: Gryffindor File:Chin Swee Caves Temple KL22.JPG: Gryffindor derivative work: Justass (talk) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_combined.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chin_Swee_Caves_Temple_combined.jpg/1920px-Chin_Swee_Caves_Temple_combined.jpg
+  credit: >-
+    Photo: File:Chin Swee Caves Temple KL17.JPG: Gryffindor File:Chin Swee Caves
+    Temple KL18.JPG: Gryffindor File:Chin Swee Caves Temple KL19.JPG: Gryffindor
+    File:Chin Swee Caves Temple KL20.JPG: Gryffindor File:Chin Swee Caves Temple
+    KL21.JPG: Gryffindor File:Chin Swee Caves Temple KL22.JPG: Gryffindor
+    derivative work: Justass (talk) / Wikimedia Commons (CC BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_combined.jpg'
   focus:
     x: 65
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg/3840px-Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg/3840px-Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
 place:
-  id: "ChIJ3TA_tz0UzDERRBwN5murefk"
-  name: "Chin Swee Caves Temple"
-  address: "Exit 68, Genting Sempah, 28750 Bentong, Pahang, Malaysia"
+  id: ChIJ3TA_tz0UzDERRBwN5murefk
+  name: Chin Swee Caves Temple
+  address: 'Exit 68, Genting Sempah, 28750 Bentong, Pahang, Malaysia'
   rating: 4.6
-  userRatingsTotal: 11011
-  googleMapsUrl: "https://maps.google.com/?cid=17976587867535514692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11070
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17976587867535514692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.4125878999999997
   lng: 101.7881491
-  phone: "+60 12-272 8703"
+  phone: +60 12-272 8703
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,24 +73,46 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6b666572756d354e7742525245447a55307a745f4154334a496843"
+    venueId: ven_6b666572756d354e7742525245447a55307a745f4154334a496843
 tags:
-  - "genting highlands"
-  - "historic site"
-quickAnswer: "Chin Swee Caves Temple is a 28-acre Buddhist complex clinging to a mountainside at 4,600 feet, just below Genting Highlands, open daily 7am–7pm. Give it 45–90 minutes: the multi-tiered pagoda, the arched Rainbow Bridge, and the steep flights of stairs past shrines and koi ponds are the highlights. It's genuinely busy on weekends between 10am and 6pm, so an early or late arrival within opening hours is your best bet for a calmer visit."
+  - genting highlands
+  - historic site
+quickAnswer: >-
+  Chin Swee Caves Temple is a 28-acre Buddhist complex clinging to a
+  mountainside at 4,600 feet, just below Genting Highlands, open daily 7am–7pm.
+  Give it 45–90 minutes: the multi-tiered pagoda, the arched Rainbow Bridge, and
+  the steep flights of stairs past shrines and koi ponds are the highlights.
+  It's genuinely busy on weekends between 10am and 6pm, so an early or late
+  arrival within opening hours is your best bet for a calmer visit.
 faq:
-  - q: "How long should I spend at Chin Swee Caves Temple?"
-    a: "Plan for 45 minutes to see the main pagoda and shrine halls, or up to 90 minutes if you want to climb every tier and linger in the quieter upper terraces."
-  - q: "What's the quietest time to visit?"
-    a: "The temple is open 7am–7pm every day and stays relatively calm through most of that window. The one time to avoid is the weekend crowd surge between 10am and 6pm."
-  - q: "How do I get to Chin Swee Caves Temple without a car?"
-    a: "There's no direct public bus to the gate at Exit 68 near Genting Sempah. Taxis and ride-hail apps from Genting Highlands or Kuala Lumpur are the most reliable options."
-  - q: "Is there an entrance fee?"
-    a: "Entry policies and any fees can change, so confirm current details on-site or with your hotel before visiting. Donations for incense or offerings are typically cash-based."
-  - q: "Can I combine it with a Genting Highlands day trip?"
-    a: "Yes — it sits just below Genting on the old hill road, so most visitors stop here in the morning before heading up to the resort's rides, casinos, and cable car."
+  - q: How long should I spend at Chin Swee Caves Temple?
+    a: >-
+      Plan for 45 minutes to see the main pagoda and shrine halls, or up to 90
+      minutes if you want to climb every tier and linger in the quieter upper
+      terraces.
+  - q: What's the quietest time to visit?
+    a: >-
+      The temple is open 7am–7pm every day and stays relatively calm through
+      most of that window. The one time to avoid is the weekend crowd surge
+      between 10am and 6pm.
+  - q: How do I get to Chin Swee Caves Temple without a car?
+    a: >-
+      There's no direct public bus to the gate at Exit 68 near Genting Sempah.
+      Taxis and ride-hail apps from Genting Highlands or Kuala Lumpur are the
+      most reliable options.
+  - q: Is there an entrance fee?
+    a: >-
+      Entry policies and any fees can change, so confirm current details on-site
+      or with your hotel before visiting. Donations for incense or offerings are
+      typically cash-based.
+  - q: Can I combine it with a Genting Highlands day trip?
+    a: >-
+      Yes — it sits just below Genting on the old hill road, so most visitors
+      stop here in the morning before heading up to the resort's rides, casinos,
+      and cable car.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

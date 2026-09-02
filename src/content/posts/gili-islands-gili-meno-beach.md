@@ -1,56 +1,87 @@
 ---
-title: "Gili Meno beach: Gili Islands Travel Guide (4.7★)"
-description: "Gili Meno beach is the quietest of the three Gili Islands' shorelines — powdery white sand, turquoise water, and none of the nightlife crowds of Gili Trawangan. 4.7★ (204 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Gili Islands"
-category: "attraction"
-pubDate: "2026-08-11T09:07:30.716Z"
+title: 'Gili Meno beach: Gili Islands Travel Guide (4.7★)'
+description: >-
+  Gili Meno beach is the quietest of the three Gili Islands' shorelines —
+  powdery white sand, turquoise water, and none of the nightlife crowds of Gili
+  Trawangan. 4.7★ (209 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Gili Islands
+category: attraction
+pubDate: '2026-08-11T09:07:30.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg"
-  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Beach_on_the_island,_Tropical_cyclone,_Gili_Meno_Island,_Indonesia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Beach_on_the_island,_Tropical_cyclone,_Gili_Meno_Island,_Indonesia.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island,_Indonesia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island,_Indonesia.jpg
 place:
-  id: "ChIJ131RMF7dzS0RerB9i8JNu-w"
-  name: "Gili Meno beach"
-  address: "J3W6+FM, Gili Indah, Pemenang, North Lombok Regency, West Nusa Tenggara 83352, Indonesia"
+  id: ChIJ131RMF7dzS0RerB9i8JNu-w
+  name: Gili Meno beach
+  address: >-
+    J3W6+FM, Gili Indah, Pemenang, North Lombok Regency, West Nusa Tenggara
+    83352, Indonesia
   rating: 4.7
-  userRatingsTotal: 204
-  googleMapsUrl: "https://maps.google.com/?cid=17058313511555149946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 209
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17058313511555149946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.3524696
   lng: 116.0616855
-  phone: "+62 819-1705-8139"
+  phone: +62 819-1705-8139
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "gili islands"
-  - "top attraction"
-quickAnswer: "Gili Meno beach is the quietest of the three Gili Islands' shorelines — powdery white sand, turquoise water, and none of the nightlife crowds of Gili Trawangan. It's open 24 hours, best walked at sunrise or sunset, and reachable only by boat since no motorized vehicles exist on the island. Bring cash, water shoes, and reef-safe sunscreen."
+  - gili islands
+  - top attraction
+quickAnswer: >-
+  Gili Meno beach is the quietest of the three Gili Islands' shorelines —
+  powdery white sand, turquoise water, and none of the nightlife crowds of Gili
+  Trawangan. It's open 24 hours, best walked at sunrise or sunset, and reachable
+  only by boat since no motorized vehicles exist on the island. Bring cash,
+  water shoes, and reef-safe sunscreen.
 faq:
-  - q: "How do you get to Gili Meno beach?"
-    a: "By boat only — public boats from Bangsal Harbour in North Lombok, or fast boats from Bali (Padangbai or Serangan) that typically stop at Gili Trawangan or Gili Air first. There are no roads, bridges, or airports."
-  - q: "Is Gili Meno beach free to visit?"
-    a: "Yes, the beach itself has no entry fee and is open 24 hours daily. You'll pay separately for boat transport, snorkel rentals, or any beach bar service."
-  - q: "When is the best time to visit Gili Meno beach?"
-    a: "Dry season (April to October) offers the calmest seas and clearest snorkeling. Early morning is quietest before day-tripper boats arrive; sunset draws a small crowd to the west-facing bars."
-  - q: "How long should you spend at Gili Meno beach?"
-    a: "A few hours is enough to swim and snorkel, but staying overnight on the island lets you catch the empty early-morning beach, which is very different from the midday day-tripper scene."
-  - q: "What's nearby Gili Meno beach?"
-    a: "The Gili Meno Bird Park, an inland salt lake, a small turtle sanctuary near the harbor, and an underwater sculpture park just offshore are all within walking or short-swim distance."
+  - q: How do you get to Gili Meno beach?
+    a: >-
+      By boat only — public boats from Bangsal Harbour in North Lombok, or fast
+      boats from Bali (Padangbai or Serangan) that typically stop at Gili
+      Trawangan or Gili Air first. There are no roads, bridges, or airports.
+  - q: Is Gili Meno beach free to visit?
+    a: >-
+      Yes, the beach itself has no entry fee and is open 24 hours daily. You'll
+      pay separately for boat transport, snorkel rentals, or any beach bar
+      service.
+  - q: When is the best time to visit Gili Meno beach?
+    a: >-
+      Dry season (April to October) offers the calmest seas and clearest
+      snorkeling. Early morning is quietest before day-tripper boats arrive;
+      sunset draws a small crowd to the west-facing bars.
+  - q: How long should you spend at Gili Meno beach?
+    a: >-
+      A few hours is enough to swim and snorkel, but staying overnight on the
+      island lets you catch the empty early-morning beach, which is very
+      different from the midday day-tripper scene.
+  - q: What's nearby Gili Meno beach?
+    a: >-
+      The Gili Meno Bird Park, an inland salt lake, a small turtle sanctuary
+      near the harbor, and an underwater sculpture park just offshore are all
+      within walking or short-swim distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

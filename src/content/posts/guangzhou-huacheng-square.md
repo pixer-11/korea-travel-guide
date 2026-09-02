@@ -1,30 +1,37 @@
 ---
 title: 'Huacheng Square: Guangzhou Travel Guide'
-description: Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the Canton Tower across the river — free to walk through any time, and most rewarding in the late afternoon before the skyline lights up.
+description: >-
+  Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed
+  by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the
+  Canton Tower across the river — free to walk through any time, and most
+  rewarding in the late afternoon before the skyline lights up.
 country: China
 region: Guangzhou
 category: attraction
 pubDate: '2026-07-26T08:23:50.794Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg
   credit: 'Photo: Foursquare user content (flower city square)'
   license: foursquare
-  source: https://foursquare.com/v/5cd94b71a5a3150039fc9166
+  source: 'https://foursquare.com/v/5cd94b71a5a3150039fc9166'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Huacheng_Square%2C_Guangzhou.jpg/1920px-Huacheng_Square%2C_Guangzhou.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Huacheng_Square%2C_Guangzhou.jpg/1920px-Huacheng_Square%2C_Guangzhou.jpg
     credit: 'Photo: 钉钉 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Huacheng_Square,_Guangzhou.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Huacheng_Square,_Guangzhou.jpg'
 place:
   id: ChIJU-tr6NH_AjQRgIDga6dQUfc
   name: Huacheng Square
-  address: 48FF+MV5, Tianhe District, Guangzhou, Guangdong Province, China, 510620
+  address: '48FF+MV5, Tianhe District, Guangzhou, Guangdong Province, China, 510620'
   rating: 4.6
-  userRatingsTotal: 642
-  googleMapsUrl: https://maps.google.com/?cid=17821113880481398912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 649
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17821113880481398912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.1241467
   lng: 113.324743
@@ -32,20 +39,40 @@ place:
 tags:
   - guangzhou
   - top attraction
-quickAnswer: Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the Canton Tower across the river — free to walk through any time, and most rewarding in the late afternoon before the skyline lights up. It's an easy, under-visited add-on if you're already heading to the Opera House or Canton Tower, best reached via Zhujiang New Town or Gymnasium metro stations on Line 3.
+quickAnswer: >-
+  Huacheng Square is the vast paved plaza at the heart of Tianhe's CBD, ringed
+  by the Guangzhou Opera House, Guangdong Museum, Guangzhou Library and the
+  Canton Tower across the river — free to walk through any time, and most
+  rewarding in the late afternoon before the skyline lights up. It's an easy,
+  under-visited add-on if you're already heading to the Opera House or Canton
+  Tower, best reached via Zhujiang New Town or Gymnasium metro stations on Line
+  3.
 faq:
   - q: Is there an entrance fee for Huacheng Square?
-    a: No — it's a free, open public plaza with no gate or set opening hours, so you can walk through any time of day.
+    a: >-
+      No — it's a free, open public plaza with no gate or set opening hours, so
+      you can walk through any time of day.
   - q: How do I get to Huacheng Square by metro?
-    a: Take Guangzhou Metro Line 3 to Zhujiang New Town or Gymnasium station; both exits put you within a short walk of the square.
+    a: >-
+      Take Guangzhou Metro Line 3 to Zhujiang New Town or Gymnasium station;
+      both exits put you within a short walk of the square.
   - q: How much time should I budget for a visit?
-    a: 30–45 minutes if you're passing through to nearby sights, up to an hour if you want to sit, photograph the Opera House, or wait for evening lights.
+    a: >-
+      30–45 minutes if you're passing through to nearby sights, up to an hour if
+      you want to sit, photograph the Opera House, or wait for evening lights.
   - q: What's the best time of day to visit?
-    a: Late afternoon to early evening, when the heat breaks and the surrounding towers and Canton Tower across the river begin lighting up; summer midday can be very hot with little shade.
+    a: >-
+      Late afternoon to early evening, when the heat breaks and the surrounding
+      towers and Canton Tower across the river begin lighting up; summer midday
+      can be very hot with little shade.
   - q: What else can I combine it with nearby?
-    a: The Guangzhou Opera House, Guangdong Museum, and Guangzhou Library sit right at its edges, and the Canton Tower is a short walk across the Pearl River.
+    a: >-
+      The Guangzhou Opera House, Guangdong Museum, and Guangzhou Library sit
+      right at its edges, and the Canton Tower is a short walk across the Pearl
+      River.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

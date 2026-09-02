@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: genting-highlands-resorts-world-genting
-srcHash: '49fe41611415'
+srcHash: '2195f221f214'
 title: 云顶世界(Resorts World Genting)：云顶高原(Genting Highlands)旅行指南（4.5★）
-description: 云顶世界（Resorts World Genting）是马来西亚坐落在云顶高原（Genting Highlands）之上的云端赌场与主题乐园度假区，从云顶缆车站（Genting Skyway Station，靠近Gohtong Jaya）搭乘10分钟缆车（云顶缆车 Genting SkyWay）即可到达。4.5★（74,366条评价）——游客评价、开放时间与实用贴士。
+description: 云顶世界（Resorts World Genting）是马来西亚坐落在云顶高原（Genting Highlands）之上的云端赌场与主题乐园度假区，从云顶缆车站（Genting Skyway Station，靠近Gohtong Jaya）搭乘10分钟缆车（云顶缆车 Genting SkyWay）即可到达。4.5★（74,519条评价）——游客评价、开放时间与实用贴士。
 quickAnswer: 云顶世界（Resorts World Genting）是马来西亚坐落在云顶高原（Genting Highlands）之上的云端赌场与主题乐园度假区，从靠近Gohtong Jaya的云顶缆车站（Genting Skyway Station）搭乘10分钟缆车（云顶缆车 Genting SkyWay）即可到达。建议安排一整天甚至两天一夜的行程：一早先乘缆车上山，在中午人潮涌来前先逛完室内外主题乐园，并注意穿暖一些——这里明显比吉隆坡（Kuala Lumpur）凉爽。
 faq:
   - q: 如何前往云顶世界（Resorts World Genting）？

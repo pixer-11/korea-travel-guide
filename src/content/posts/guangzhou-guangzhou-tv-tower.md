@@ -1,46 +1,71 @@
 ---
-title: "Guangzhou TV Tower: Travel Guide (4.6★)"
-description: "The Guangzhou TV Tower — nicknamed \"Canton Tower\" and known locally for its hourglass silhouette — sits on the south bank of the Pearl River in Haizhu, facing Yuexiu District across the water. 4.6★ (116 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Guangzhou"
-category: "attraction"
-pubDate: "2026-08-17T08:13:33.664Z"
+title: 'Guangzhou TV Tower: Travel Guide (4.6★)'
+description: >-
+  The Guangzhou TV Tower — nicknamed "Canton Tower" and known locally for its
+  hourglass silhouette — sits on the south bank of the Pearl River in Haizhu,
+  facing Yuexiu District across the water. 4.6★ (118 reviews) — what visitors
+  say, hours, and tips.
+country: China
+region: Guangzhou
+category: attraction
+pubDate: '2026-08-17T08:13:33.664Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Canton_Tower_at_night_Guangzhou_2024_dllu.jpg/3840px-Canton_Tower_at_night_Guangzhou_2024_dllu.jpg"
-  credit: "Photo: Daniel Lu (User:dllu) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Canton_Tower_at_night_Guangzhou_2024_dllu.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Canton_Tower_at_night_Guangzhou_2024_dllu.jpg/3840px-Canton_Tower_at_night_Guangzhou_2024_dllu.jpg
+  credit: 'Photo: Daniel Lu (User:dllu) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Canton_Tower_at_night_Guangzhou_2024_dllu.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ08Lta8L4AjQR49bC33EUqoI"
-  name: "Guangzhou TV Tower"
-  address: "Yuexiu District, Guangzhou, China, 510030"
+  id: ChIJ08Lta8L4AjQR49bC33EUqoI
+  name: Guangzhou TV Tower
+  address: 'Yuexiu District, Guangzhou, China, 510030'
   rating: 4.6
-  userRatingsTotal: 116
-  googleMapsUrl: "https://maps.google.com/?cid=9415360450289391331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 118
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9415360450289391331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.129163000000002
   lng: 113.26443499999999
 tags:
-  - "guangzhou"
-  - "viewpoint"
-quickAnswer: "The Guangzhou TV Tower — nicknamed \"Canton Tower\" and known locally for its hourglass silhouette — sits on the south bank of the Pearl River in Haizhu, facing Yuexiu District across the water. Go for sunset into blue hour so you catch the skyline lit up and the tower's own light show. It's still under the radar compared with Shanghai or Shenzhen's towers, so you rarely fight real crowds even on weekends."
+  - guangzhou
+  - viewpoint
+quickAnswer: >-
+  The Guangzhou TV Tower — nicknamed "Canton Tower" and known locally for its
+  hourglass silhouette — sits on the south bank of the Pearl River in Haizhu,
+  facing Yuexiu District across the water. Go for sunset into blue hour so you
+  catch the skyline lit up and the tower's own light show. It's still under the
+  radar compared with Shanghai or Shenzhen's towers, so you rarely fight real
+  crowds even on weekends.
 faq:
-  - q: "How do I get to the Guangzhou TV Tower by metro?"
-    a: "Take Metro Line 3 or Line APM to Canton Tower Station — it exits directly onto the tower's plaza."
-  - q: "How long should I spend there?"
-    a: "Plan for about two hours to go up, explore the observation decks, and enjoy the view; longer if you want both daylight and night lighting."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into sunset and early evening, so you see the city in daylight and then watch the skyline and tower light up after dark."
-  - q: "Is it crowded?"
-    a: "It's still relatively under the radar compared to other major towers in China, so lines are generally manageable even on weekends — weekday evenings are calmest."
-  - q: "What else is nearby?"
-    a: "Pearl River evening cruise piers are a short walk from the tower's base, and Yuexiu District's older streets sit just across the river."
+  - q: How do I get to the Guangzhou TV Tower by metro?
+    a: >-
+      Take Metro Line 3 or Line APM to Canton Tower Station — it exits directly
+      onto the tower's plaza.
+  - q: How long should I spend there?
+    a: >-
+      Plan for about two hours to go up, explore the observation decks, and
+      enjoy the view; longer if you want both daylight and night lighting.
+  - q: What's the best time of day to visit?
+    a: >-
+      Late afternoon into sunset and early evening, so you see the city in
+      daylight and then watch the skyline and tower light up after dark.
+  - q: Is it crowded?
+    a: >-
+      It's still relatively under the radar compared to other major towers in
+      China, so lines are generally manageable even on weekends — weekday
+      evenings are calmest.
+  - q: What else is nearby?
+    a: >-
+      Pearl River evening cruise piers are a short walk from the tower's base,
+      and Yuexiu District's older streets sit just across the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

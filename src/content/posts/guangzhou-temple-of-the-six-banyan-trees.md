@@ -1,15 +1,20 @@
 ---
 title: 'Temple of the Six Banyan Trees: Guangzhou Travel Guide'
-description: The Temple of the Six Banyan Trees is a working Buddhist temple in central Guangzhou, famous for its nine-story, flower-shaped Flower Pagoda (Hua Ta). 4.6★ (828 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Temple of the Six Banyan Trees is a working Buddhist temple in central
+  Guangzhou, famous for its nine-story, flower-shaped Flower Pagoda (Hua Ta).
+  4.6★ (832 reviews) — what visitors say, hours, and tips.
 country: China
 region: Guangzhou
 category: attraction
 pubDate: '2026-08-17T08:04:42.987Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_the_Six_Banyan_Trees_2013-08.JPG/1920px-Temple_of_the_Six_Banyan_Trees_2013-08.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_the_Six_Banyan_Trees_2013-08.JPG/1920px-Temple_of_the_Six_Banyan_Trees_2013-08.JPG
   credit: 'Photo: Fredlyfish4 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Temple_of_the_Six_Banyan_Trees_2013-08.JPG
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Temple_of_the_Six_Banyan_Trees_2013-08.JPG
   focus:
     x: 65
     'y': 40
@@ -17,10 +22,11 @@ gallery: []
 place:
   id: ChIJz6jigOn4AjQRbidWVUtCz-Y
   name: Temple of the Six Banyan Trees
-  address: 87 Liu Rong Lu, Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510000
+  address: '87 Liu Rong Lu, Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510000'
   rating: 4.6
-  userRatingsTotal: 828
-  googleMapsUrl: https://maps.google.com/?cid=16631584840224221038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 832
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16631584840224221038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.1282239
   lng: 113.2601109
@@ -36,20 +42,38 @@ place:
 tags:
   - guangzhou
   - historic site
-quickAnswer: The Temple of the Six Banyan Trees is a working Buddhist temple in central Guangzhou, famous for its nine-story, flower-shaped Flower Pagoda (Hua Ta). It's open daily 8am–5pm, and since it sees far fewer foreign visitors than Chen Clan Ancestral Hall or Guangxiao Temple, you can usually wander the courtyards without crowds — arrive on a weekday morning for the quietest, most contemplative visit.
+quickAnswer: >-
+  The Temple of the Six Banyan Trees is a working Buddhist temple in central
+  Guangzhou, famous for its nine-story, flower-shaped Flower Pagoda (Hua Ta).
+  It's open daily 8am–5pm, and since it sees far fewer foreign visitors than
+  Chen Clan Ancestral Hall or Guangxiao Temple, you can usually wander the
+  courtyards without crowds — arrive on a weekday morning for the quietest, most
+  contemplative visit.
 faq:
   - q: How much time should I budget for the Temple of the Six Banyan Trees?
-    a: 45 minutes to an hour is enough to see the halls and pagoda exterior without rushing; add extra time if the pagoda interior is open for climbing.
+    a: >-
+      45 minutes to an hour is enough to see the halls and pagoda exterior
+      without rushing; add extra time if the pagoda interior is open for
+      climbing.
   - q: What are the opening hours?
-    a: The temple is open daily from 8:00 AM to 5:00 PM, with no weekly closing day.
+    a: >-
+      The temple is open daily from 8:00 AM to 5:00 PM, with no weekly closing
+      day.
   - q: How do I get there by metro?
-    a: Take Line 1 to Ximenkou Station, then walk about 10 minutes east along Liurong Lu to the temple's white outer wall.
+    a: >-
+      Take Line 1 to Ximenkou Station, then walk about 10 minutes east along
+      Liurong Lu to the temple's white outer wall.
   - q: Is this a hidden gem or crowded tourist spot?
-    a: It's considered under-the-radar compared to sights like Chen Clan Ancestral Hall, so it's usually much quieter, even on weekends.
+    a: >-
+      It's considered under-the-radar compared to sights like Chen Clan
+      Ancestral Hall, so it's usually much quieter, even on weekends.
   - q: What's nearby to combine with this visit?
-    a: Guangxiao Temple is a 10-15 minute walk away, and the Chen Clan Ancestral Hall is a short taxi ride further west.
+    a: >-
+      Guangxiao Temple is a 10-15 minute walk away, and the Chen Clan Ancestral
+      Hall is a short taxi ride further west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

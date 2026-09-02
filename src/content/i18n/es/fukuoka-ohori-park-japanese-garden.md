@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fukuoka-ohori-park-japanese-garden
-srcHash: 'f2312f2fb2cb'
+srcHash: 'a22661985946'
 title: 'Jardín Japonés del Parque Ohori: Guía de viaje de Fukuoka (4,5★)'
-description: 'El Jardín Japonés del Parque Ohori es un pequeño jardín amurallado de 1,2 acres escondido dentro del extenso Parque Ohori de Fukuoka, en el distrito de Chuo, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). 4,5★ (1.273 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardín Japonés del Parque Ohori es un pequeño jardín amurallado de 1,2 acres escondido dentro del extenso Parque Ohori de Fukuoka, en el distrito de Chuo, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). 4,5★ (1.278 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Japonés del Parque Ohori es un pequeño jardín amurallado de 1,2 acres escondido dentro del extenso Parque Ohori de Fukuoka, en el distrito de Chuo, y abre de martes a domingo de 9:00 a 18:00 (cerrado los lunes). Los fines de semana se llena entre las 10:00 y las 17:00, así que si vas a primera hora de la mañana o a última de la tarde disfrutarás de un paseo mucho más tranquilo entre los estanques y la casa de té. La entrada es económica y conviene reservar entre 30 y 45 minutos para la visita, más si te sientas a tomar matcha en la casa de té.
 faq:
   - q: ¿Cuál es el horario del Jardín Japonés del Parque Ohori?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gangneung-gangmun-sotdae-bridge
-srcHash: 'd519128c975a'
+srcHash: '674791e6397c'
 title: 'Puente Gangmun Sotdae: guía de viaje de Gangneung (4,3★)'
-description: 'El puente Gangmun Sotdae es una pasarela peatonal sobre el arroyo Gangmun, cerca de la playa de Gyeongpo en Gangneung, flanqueada por altos postes de madera sotdae rematados con pájaros tallados: una parada tranquila y gratuita, ideal para combinar con un paseo por la playa. 4,3★ (571 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El puente Gangmun Sotdae es una pasarela peatonal sobre el arroyo Gangmun, cerca de la playa de Gyeongpo en Gangneung, flanqueada por altos postes de madera sotdae rematados con pájaros tallados: una parada tranquila y gratuita, ideal para combinar con un paseo por la playa. 4,3★ (572 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El puente Gangmun Sotdae es una pasarela peatonal sobre el arroyo Gangmun, cerca de la playa de Gyeongpo en Gangneung, flanqueada por altos postes de madera sotdae rematados con pájaros tallados: una parada tranquila y gratuita, ideal para combinar con un paseo por la playa. Está abierto las 24 horas todos los días y, como todavía es poco conocido, las mañanas o tardes entre semana, fuera del ajetreo de los fines de semana de 10:00 a 23:00, son el mejor momento para tenerlo casi para ti solo.'
 faq:
   - q: ¿Cómo se llega al puente Gangmun Sotdae?

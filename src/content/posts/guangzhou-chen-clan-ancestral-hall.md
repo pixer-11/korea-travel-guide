@@ -1,23 +1,29 @@
 ---
 title: 'Chen Clan Ancestral Hall: Guangzhou Travel Guide'
-description: Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72 branches of the Chen family as a clan academy and ancestral shrine.
+description: >-
+  Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is
+  Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72
+  branches of the Chen family as a clan academy and ancestral shrine.
 country: China
 region: Guangzhou
 category: hidden-gem
 pubDate: '2026-07-31T10:05:35.811Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chen_Clan_Ancestral_Hall_2025.06_02.jpg/1920px-Chen_Clan_Ancestral_Hall_2025.06_02.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chen_Clan_Ancestral_Hall_2025.06_02.jpg/1920px-Chen_Clan_Ancestral_Hall_2025.06_02.jpg
   credit: 'Photo: Shujianyang / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_2025.06_02.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_2025.06_02.jpg
 gallery: []
 place:
   id: ChIJUTtnY_P4AjQRf3SZ_dwZItc
   name: Chen Clan Ancestral Hall
   address: 'China, Guang Dong Sheng, Guang Zhou Shi, Li Wan Qu, 中山七八路恩龙里34号 邮政编码: 510040'
   rating: 4.5
-  userRatingsTotal: 1418
-  googleMapsUrl: https://maps.google.com/?cid=15501981304300860543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1433
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15501981304300860543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.1298714
   lng: 113.24011189999999
@@ -25,20 +31,44 @@ place:
 tags:
   - guangzhou
   - hidden gem
-quickAnswer: Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72 branches of the Chen family as a clan academy and ancestral shrine. Give yourself 1.5–2 hours to wander its nine halls, six courtyards and roofline crowded with ceramic figurines, and go on a weekday morning right after opening to see the carvings without a crowd blocking the shot. It sits directly above Chen Clan Academy Station on Metro Line 1, so there's no need for a taxi.
+quickAnswer: >-
+  Chen Clan Ancestral Hall (陈家祠, Chan Sui Chi Study Hall) in Liwan District is
+  Guangzhou's finest surviving Qing-dynasty academic temple, built in 1894 by 72
+  branches of the Chen family as a clan academy and ancestral shrine. Give
+  yourself 1.5–2 hours to wander its nine halls, six courtyards and roofline
+  crowded with ceramic figurines, and go on a weekday morning right after
+  opening to see the carvings without a crowd blocking the shot. It sits
+  directly above Chen Clan Academy Station on Metro Line 1, so there's no need
+  for a taxi.
 faq:
   - q: How do I get to Chen Clan Ancestral Hall?
-    a: Take Guangzhou Metro Line 1 to Chen Clan Academy Station (陈家祠站); the exit leads almost directly to the entrance, a walk of just a couple of minutes on Zhongshan Qi/Ba Road in Liwan District.
+    a: >-
+      Take Guangzhou Metro Line 1 to Chen Clan Academy Station (陈家祠站); the exit
+      leads almost directly to the entrance, a walk of just a couple of minutes
+      on Zhongshan Qi/Ba Road in Liwan District.
   - q: How much time should I budget?
-    a: Plan for 1.5 to 2 hours to see the main halls, courtyards and roofline decoration, plus the folk-art exhibits in the side galleries if you want the full picture.
+    a: >-
+      Plan for 1.5 to 2 hours to see the main halls, courtyards and roofline
+      decoration, plus the folk-art exhibits in the side galleries if you want
+      the full picture.
   - q: When is the best time to visit to avoid crowds?
-    a: Go on a weekday morning shortly after opening. It's a well-known stop for both tour groups and school trips, so courtyards get busy by mid-to-late morning and through weekend afternoons.
+    a: >-
+      Go on a weekday morning shortly after opening. It's a well-known stop for
+      both tour groups and school trips, so courtyards get busy by mid-to-late
+      morning and through weekend afternoons.
   - q: What's the entry fee and opening hours?
-    a: Admission is generally inexpensive for a national cultural relic site, but hours and prices can change seasonally — confirm the current schedule and fee at the ticket counter or official listing before you go.
+    a: >-
+      Admission is generally inexpensive for a national cultural relic site, but
+      hours and prices can change seasonally — confirm the current schedule and
+      fee at the ticket counter or official listing before you go.
   - q: What else is nearby?
-    a: Liwan District's older streets, including Enping Road and the Shangxiajiu pedestrian shopping street with its arcaded qilou buildings, are within easy reach for continuing an old-Guangzhou themed day out.
+    a: >-
+      Liwan District's older streets, including Enping Road and the Shangxiajiu
+      pedestrian shopping street with its arcaded qilou buildings, are within
+      easy reach for continuing an old-Guangzhou themed day out.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

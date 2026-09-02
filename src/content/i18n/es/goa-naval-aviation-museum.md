@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: goa-naval-aviation-museum
-srcHash: '1328566df0b3'
+srcHash: 'fd7e5d5b630a'
 title: 'Museo de Aviación Naval: Guía de viaje de Goa (4.6★)'
-description: 'El Museo de Aviación Naval se encuentra en Bogmalo Road, cerca de Dabolim, a un breve trayecto del aeropuerto de Goa, y es el único museo de su tipo en Asia. 4.6★ (7,556 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Aviación Naval se encuentra en Bogmalo Road, cerca de Dabolim, a un breve trayecto del aeropuerto de Goa, y es el único museo de su tipo en Asia. 4.6★ (7,572 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de Aviación Naval se encuentra en Bogmalo Road, cerca de Dabolim, a un breve trayecto del aeropuerto de Goa, y es el único museo de su tipo en Asia. Reserva entre 90 minutos y dos horas: un parque de aviones al aire libre con cazas y helicópteros retirados del servicio, además de una galería interior que recorre la historia de la aviación naval india desde 1947. Cierra los lunes, y los fines de semana se llena entre las 11am y las 5pm, así que lo ideal es ir un día de semana por la mañana, justo después de la apertura a las 9:30am.'
 faq:
   - q: ¿Cuánto tiempo debo reservar para la visita?

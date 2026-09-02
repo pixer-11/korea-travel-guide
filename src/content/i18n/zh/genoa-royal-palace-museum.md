@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: genoa-royal-palace-museum
-srcHash: 'ea4dfe3e931a'
+srcHash: '034f66a0bb89'
 title: 王宫博物馆:热那亚旅行指南(4.5★)
-description: 王宫(Palazzo Reale)位于热那亚老大学区的巴尔比大街(Via Balbi)上，距离热那亚王子广场站(Genova Piazza Principe)仅几分钟路程。4.5★(4,036条评价)——游客怎么说、开放时间及实用贴士。
+description: 王宫(Palazzo Reale)位于热那亚老大学区的巴尔比大街(Via Balbi)上，距离热那亚王子广场站(Genova Piazza Principe)仅几分钟路程。4.5★(4,069条评价)——游客怎么说、开放时间及实用贴士。
 quickAnswer: 王宫(Palazzo Reale)位于热那亚老大学区的巴尔比大街(Via Balbi)上，距离热那亚王子广场站(Genova Piazza Principe)仅几分钟路程。如果可以的话，尽量选在工作日上午前往——周三至周六开放时间为上午9点到晚上7点，而周末上午10点到晚上7点是人流最密集的时段。博物馆周一、周日全天闭馆，周二仅在下午1:30至7点开放，建议提前规划行程。参观正殿房间和镜厅大约需要预留一小时到一个半小时。
 faq:
   - q: 如何前往热那亚的王宫(Palazzo Reale)?

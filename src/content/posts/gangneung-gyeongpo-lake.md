@@ -1,25 +1,30 @@
 ---
 title: 'Gyeongpo Lake: Gangneung Travel Guide'
-description: Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling loop around its banks.
+description: >-
+  Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for
+  sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling
+  loop around its banks.
 country: South Korea
 region: Gangneung
 category: attraction
 pubDate: '2026-07-24T22:18:57.155Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/536782698_m45ZL75vv1cuEo8ifugEGCVRC0OCnyaIsqjFUaXM9ms.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/536782698_m45ZL75vv1cuEo8ifugEGCVRC0OCnyaIsqjFUaXM9ms.jpg
   credit: 'Photo: Foursquare user content (Lake Gyeongpo (경포호))'
   license: foursquare
-  source: https://foursquare.com/v/4c57648f30d82d7f16d7d962
+  source: 'https://foursquare.com/v/4c57648f30d82d7f16d7d962'
   focus:
     x: 75
-    y: 35
+    'y': 35
 place:
   id: ChIJeX0RpiXkYTUResqZFyoPnhU
   name: Gyeongpo Lake
-  address: 94 Jeo-dong, Gangneung, Gangwon-do, South Korea
+  address: '94 Jeo-dong, Gangneung, Gangwon-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 578
-  googleMapsUrl: https://maps.google.com/?cid=1557699194575768186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 580
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1557699194575768186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.796698299999996
   lng: 128.9020548
@@ -34,19 +39,40 @@ place:
 tags:
   - gangneung
   - top attraction
-quickAnswer: Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling loop around its banks. Budget 1.5–2 hours for the loop plus stops at Gyeongpodae Pavilion and the lakeside pine grove; combine it with nearby Gyeongpo Beach for a half-day out. It's free to walk the perimeter, easily reached by city bus from Gangneung Station, and best in spring (cherry blossoms) or autumn (migratory birds).
+quickAnswer: >-
+  Gyeongpo Lake, a shallow lagoon on Gangneung's east coast, is best visited for
+  sunrise or sunset over the water and a flat, roughly 4.3km walking/cycling
+  loop around its banks. Budget 1.5–2 hours for the loop plus stops at
+  Gyeongpodae Pavilion and the lakeside pine grove; combine it with nearby
+  Gyeongpo Beach for a half-day out. It's free to walk the perimeter, easily
+  reached by city bus from Gangneung Station, and best in spring (cherry
+  blossoms) or autumn (migratory birds).
 faq:
   - q: How do I get to Gyeongpo Lake from Gangneung Station?
-    a: It's about 6km; take a local city bus (roughly 20–25 minutes, confirm current route number at the station) or a taxi (about 15 minutes). Many visitors combine it with a trip to nearby Gyeongpo Beach.
+    a: >-
+      It's about 6km; take a local city bus (roughly 20–25 minutes, confirm
+      current route number at the station) or a taxi (about 15 minutes). Many
+      visitors combine it with a trip to nearby Gyeongpo Beach.
   - q: Is there an entrance fee?
-    a: No, walking the lakeside path and viewing the lake is free. Any cost comes from optional bike rentals, food, or transport.
+    a: >-
+      No, walking the lakeside path and viewing the lake is free. Any cost comes
+      from optional bike rentals, food, or transport.
   - q: How long should I spend at Gyeongpo Lake?
-    a: Plan 1.5–2 hours to walk the full 4.3km loop and stop at Gyeongpodae Pavilion; less if you only want the sunset viewpoint and a short stretch of the path.
+    a: >-
+      Plan 1.5–2 hours to walk the full 4.3km loop and stop at Gyeongpodae
+      Pavilion; less if you only want the sunset viewpoint and a short stretch
+      of the path.
   - q: When is the best time to visit?
-    a: Sunrise or sunset for the views, early April for cherry blossoms, and October–November for migratory birds and fall color. Early mornings are quietest.
+    a: >-
+      Sunrise or sunset for the views, early April for cherry blossoms, and
+      October–November for migratory birds and fall color. Early mornings are
+      quietest.
   - q: What else is nearby?
-    a: Gyeongpo Beach is a 5–10 minute walk away, and Ojukheon House, the historic home linked to scholar Yi I, is a short ride from the lake.
+    a: >-
+      Gyeongpo Beach is a 5–10 minute walk away, and Ojukheon House, the
+      historic home linked to scholar Yi I, is a short ride from the lake.
 aiGenerated: true
+updatedDate: '2026-09-02'
 ---
 
 ## Why go

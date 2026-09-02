@@ -1,37 +1,47 @@
 ---
 title: 'Alhambra: Granada Travel Guide'
-description: Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the Nasrid Palaces — this is the one part of the visit that's timed and non-negotiable.
+description: >-
+  Book Alhambra tickets online weeks (in high season, months) ahead at the
+  official site tickets.alhambra-patronato.es, choosing a specific entry slot
+  for the Nasrid Palaces — this is the one part of the visit that's timed and
+  non-negotiable.
 country: Spain
 region: Granada
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6057509_J69PDnXmh5gntzg5LUOI2cAEEMyjr4niyET_SuX-udw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6057509_J69PDnXmh5gntzg5LUOI2cAEEMyjr4niyET_SuX-udw.jpg
   credit: 'Photo: Foursquare user content (Alhambra)'
   license: foursquare
-  source: https://foursquare.com/v/6a17f20bf686d75b940f2e78
+  source: 'https://foursquare.com/v/6a17f20bf686d75b940f2e78'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg/1920px-Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg/1920px-Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg
     credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Stucco_ceiling,_Patio_de_los_Leones,_Alhambra,_Granada,_Spain,_crop.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Stucco_ceiling,_Patio_de_los_Leones,_Alhambra,_Granada,_Spain,_crop.jpg
 place:
   id: ChIJO7l_l7f8cQ0Rf6IhEu_RjYA
   name: Alhambra
-  address: C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain
+  address: 'C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain'
   rating: 4.8
-  userRatingsTotal: 158004
-  googleMapsUrl: https://maps.google.com/?cid=9263290833302561407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 158844
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9263290833302561407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.1760783
   lng: -3.5881412999999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9]
-    weekendQuiet: [9]
+    weekdayQuiet:
+      - 9
+    weekendQuiet:
+      - 9
     weekendBusy:
       - 12
       - 13
@@ -39,7 +49,7 @@ place:
       - 15
       - 16
     venueId: ven_41596a525f754568493666523051633866376c5f6c374f4a496843
-  phone: '+34 958 02 79 71'
+  phone: +34 958 02 79 71
   openingHours:
     - 'Monday: 8:30 AM – 6:00 PM'
     - 'Tuesday: 8:30 AM – 6:00 PM'
@@ -51,21 +61,42 @@ place:
 tags:
   - granada
   - Alhambra
-quickAnswer: Book Alhambra tickets online weeks (in high season, months) ahead at the official site tickets.alhambra-patronato.es, choosing a specific entry slot for the Nasrid Palaces — this is the one part of the visit that's timed and non-negotiable. Plan on 3-4 hours minimum to cover the Nasrid Palaces, Alcazaba fortress, and Generalife gardens, and arrive at least 30 minutes before your palace slot since latecomers are turned away.
+quickAnswer: >-
+  Book Alhambra tickets online weeks (in high season, months) ahead at the
+  official site tickets.alhambra-patronato.es, choosing a specific entry slot
+  for the Nasrid Palaces — this is the one part of the visit that's timed and
+  non-negotiable. Plan on 3-4 hours minimum to cover the Nasrid Palaces,
+  Alcazaba fortress, and Generalife gardens, and arrive at least 30 minutes
+  before your palace slot since latecomers are turned away.
 faq:
   - q: How do I get Alhambra tickets and how far ahead should I book?
-    a: Book online only through the official site, tickets.alhambra-patronato.es. In peak season (spring through autumn) slots for the Nasrid Palaces can sell out weeks in advance, so book as soon as your travel dates are fixed.
+    a: >-
+      Book online only through the official site, tickets.alhambra-patronato.es.
+      In peak season (spring through autumn) slots for the Nasrid Palaces can
+      sell out weeks in advance, so book as soon as your travel dates are fixed.
   - q: How long should I spend at the Alhambra?
-    a: Budget 3-4 hours to properly cover the Nasrid Palaces, Alcazaba fortress, and Generalife gardens without rushing; add extra time if you want to photograph the gardens at leisure.
+    a: >-
+      Budget 3-4 hours to properly cover the Nasrid Palaces, Alcazaba fortress,
+      and Generalife gardens without rushing; add extra time if you want to
+      photograph the gardens at leisure.
   - q: What happens if I'm late for my Nasrid Palaces time slot?
-    a: Entry is strictly timed to the half-hour window on your ticket, and staff generally refuse admission to latecomers, so arrive at least 30 minutes early and go straight to the palace entrance at your slot time.
+    a: >-
+      Entry is strictly timed to the half-hour window on your ticket, and staff
+      generally refuse admission to latecomers, so arrive at least 30 minutes
+      early and go straight to the palace entrance at your slot time.
   - q: What's the best way to get up to the Alhambra without a car?
-    a: Walk 20-25 minutes uphill from Plaza Nueva, or take the small red C3/C4 municipal minibus, which is built for Granada's narrow streets and drops you near the main entrance.
+    a: >-
+      Walk 20-25 minutes uphill from Plaza Nueva, or take the small red C3/C4
+      municipal minibus, which is built for Granada's narrow streets and drops
+      you near the main entrance.
   - q: Is there anything worth seeing near the Alhambra afterward?
-    a: Cross the Darro valley to the Albaicín quarter for the Mirador de San Nicolás viewpoint, which frames the whole Alhambra against the Sierra Nevada, and continue to Sacromonte for Granada's flamenco cave venues.
+    a: >-
+      Cross the Darro valley to the Albaicín quarter for the Mirador de San
+      Nicolás viewpoint, which frames the whole Alhambra against the Sierra
+      Nevada, and continue to Sacromonte for Granada's flamenco cave venues.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-02'
 ---
 
 ## Why go

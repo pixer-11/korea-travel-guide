@@ -1,30 +1,36 @@
 ---
 title: 'Kushida Shrine: Fukuoka Travel Guide (4.3★)'
-description: Kushida Shrine sits in Fukuoka's Hakata Ward, tucked into the old merchant district a short walk from Canal City. 4.3★ (13,968 reviews) — what visitors say, hours, and tips.
+description: >-
+  Kushida Shrine sits in Fukuoka's Hakata Ward, tucked into the old merchant
+  district a short walk from Canal City. 4.3★ (13,985 reviews) — what visitors
+  say, hours, and tips.
 country: Japan
 region: Fukuoka
 category: attraction
 pubDate: '2026-08-26T08:07:23.386Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kushidajinjafukuoka01.jpg/960px-Kushidajinjafukuoka01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kushidajinjafukuoka01.jpg/960px-Kushidajinjafukuoka01.jpg
   credit: 'Photo: Pontafon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kushidajinjafukuoka01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Kushidajinjafukuoka01.jpg'
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/589274763_9iYzvb5IJQmNTSq-1BmNc3kMDuIp-veH8QUI2SGwOIM.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/589274763_9iYzvb5IJQmNTSq-1BmNc3kMDuIp-veH8QUI2SGwOIM.jpg
     credit: 'Photo: Foursquare user content (Kushida Shrine (櫛田神社))'
     license: foursquare
-    source: https://foursquare.com/v/4b68da16f964a5201b902be3
+    source: 'https://foursquare.com/v/4b68da16f964a5201b902be3'
 place:
   id: ChIJV2pTquqRQTURpI1FhH5siaE
   name: Kushida Shrine
-  address: 1-41 Kamikawabatamachi, Hakata Ward, Fukuoka, 812-0026, Japan
+  address: '1-41 Kamikawabatamachi, Hakata Ward, Fukuoka, 812-0026, Japan'
   rating: 4.3
-  userRatingsTotal: 13968
-  googleMapsUrl: https://maps.google.com/?cid=11639954002556587428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 13985
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11639954002556587428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 33.5929546
   lng: 130.41045889999998
@@ -53,20 +59,38 @@ place:
 tags:
   - fukuoka
   - historic site
-quickAnswer: Kushida Shrine sits in Fukuoka's Hakata Ward, tucked into the old merchant district a short walk from Canal City. It's open daily 9am–5pm, and the quietest window to visit is 9–10am on both weekdays and weekends — weekend afternoons between 11am and 4pm get busy. Budget 20–30 minutes, longer if the towering Yamakasa float is on display.
+quickAnswer: >-
+  Kushida Shrine sits in Fukuoka's Hakata Ward, tucked into the old merchant
+  district a short walk from Canal City. It's open daily 9am–5pm, and the
+  quietest window to visit is 9–10am on both weekdays and weekends — weekend
+  afternoons between 11am and 4pm get busy. Budget 20–30 minutes, longer if the
+  towering Yamakasa float is on display.
 faq:
   - q: How do I get to Kushida Shrine from Hakata Station?
-    a: It's about a 15-minute walk, or one stop on the Fukuoka City Subway Kūkō Line to Nakasu-Kawabata Station, then a 5-minute walk from Exit 5.
+    a: >-
+      It's about a 15-minute walk, or one stop on the Fukuoka City Subway Kūkō
+      Line to Nakasu-Kawabata Station, then a 5-minute walk from Exit 5.
   - q: What is the quietest time to visit Kushida Shrine?
-    a: Between 9am and 10am, on both weekdays and weekends, is the calmest window. Weekend afternoons from 11am to 4pm are the busiest, so avoid that period if you can.
+    a: >-
+      Between 9am and 10am, on both weekdays and weekends, is the calmest
+      window. Weekend afternoons from 11am to 4pm are the busiest, so avoid that
+      period if you can.
   - q: Is there an entrance fee?
-    a: The shrine grounds are free to enter. You'll pay a small amount only if you buy an omikuji fortune slip or an omamori charm, and cash is the easiest way to pay.
+    a: >-
+      The shrine grounds are free to enter. You'll pay a small amount only if
+      you buy an omikuji fortune slip or an omamori charm, and cash is the
+      easiest way to pay.
   - q: How long should I plan to spend there?
-    a: Most visits take 20 to 30 minutes, a bit longer if you linger at the Yamakasa float display or explore the side shrines.
+    a: >-
+      Most visits take 20 to 30 minutes, a bit longer if you linger at the
+      Yamakasa float display or explore the side shrines.
   - q: Is Kushida Shrine worth visiting outside festival season?
-    a: Yes — a full-size decorated Yamakasa float is usually on permanent display near the entrance, so you get a sense of the festival even outside July.
+    a: >-
+      Yes — a full-size decorated Yamakasa float is usually on permanent display
+      near the entrance, so you get a sense of the festival even outside July.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,23 +1,28 @@
 ---
 title: Coffee Street in Gangneung
-description: Gangneung's Coffee Street (Anmok Coffee Street, near Anmok Beach) is a stretch of oceanfront cafés on the east coast, about 2.5 hours from Seoul by KTX and bus/taxi.
+description: >-
+  Gangneung's Coffee Street (Anmok Coffee Street, near Anmok Beach) is a stretch
+  of oceanfront cafés on the east coast, about 2.5 hours from Seoul by KTX and
+  bus/taxi.
 region: Gangneung
 country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/BI3GRQFE4FUQKFIVVTD5YU4MYRKNDHEW5UEK2GRRJ0QARAW2.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/BI3GRQFE4FUQKFIVVTD5YU4MYRKNDHEW5UEK2GRRJ0QARAW2.jpg
   credit: 'Photo: Foursquare user content (Angel-in-us Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/4bb57ea91344b7135b6c9c04
+  source: 'https://foursquare.com/v/4bb57ea91344b7135b6c9c04'
 gallery: []
 place:
   id: ChIJb4_vGlfnYTURZKvnWLBhDpY
   name: Gangneung Cafe Street
-  address: Gyeonso-dong, Gangneung-si, Gangwon-do, South Korea
+  address: 'Gyeonso-dong, Gangneung-si, Gangwon-do, South Korea'
   rating: 4.3
-  userRatingsTotal: 1860
-  googleMapsUrl: https://maps.google.com/?cid=10812687165396855652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1869
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10812687165396855652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.7723486
   lng: 128.9476577
@@ -32,20 +37,40 @@ place:
 tags:
   - gangneung
   - coffee street
-quickAnswer: Gangneung's Coffee Street (Anmok Coffee Street, near Anmok Beach) is a stretch of oceanfront cafés on the east coast, about 2.5 hours from Seoul by KTX and bus/taxi. Go in late afternoon for coffee-with-a-view of the East Sea, then walk the pine-lined boardwalk to Gyeongpo Beach at sunset. Budget 2-3 hours, and expect to pay per-cup café prices rather than a ticketed attraction.
+quickAnswer: >-
+  Gangneung's Coffee Street (Anmok Coffee Street, near Anmok Beach) is a stretch
+  of oceanfront cafés on the east coast, about 2.5 hours from Seoul by KTX and
+  bus/taxi. Go in late afternoon for coffee-with-a-view of the East Sea, then
+  walk the pine-lined boardwalk to Gyeongpo Beach at sunset. Budget 2-3 hours,
+  and expect to pay per-cup café prices rather than a ticketed attraction.
 faq:
   - q: How do I get to Coffee Street from Seoul?
-    a: Take the KTX-Gangneung Line high-speed train from Seoul Station or Cheongnyangni Station (about 2-2.5 hours) to Gangneung Station, then a local bus or taxi (10-15 minutes) to Anmok Beach/Coffee Street.
+    a: >-
+      Take the KTX-Gangneung Line high-speed train from Seoul Station or
+      Cheongnyangni Station (about 2-2.5 hours) to Gangneung Station, then a
+      local bus or taxi (10-15 minutes) to Anmok Beach/Coffee Street.
   - q: Is there an entrance fee for Coffee Street?
-    a: No, it's a public street of independent cafés — you only pay for what you order at each café, similar to visiting any commercial street.
+    a: >-
+      No, it's a public street of independent cafés — you only pay for what you
+      order at each café, similar to visiting any commercial street.
   - q: How much time should I budget?
-    a: Plan for at least 2-3 hours to enjoy a coffee with a view and walk part of the coastal boardwalk; add more time if you want to continue on to Gyeongpo Beach.
+    a: >-
+      Plan for at least 2-3 hours to enjoy a coffee with a view and walk part of
+      the coastal boardwalk; add more time if you want to continue on to
+      Gyeongpo Beach.
   - q: What's the best time of day or year to visit?
-    a: Late afternoon to sunset is best for the ocean views; spring and autumn bring milder weather and smaller crowds than the packed summer beach season (July-August).
+    a: >-
+      Late afternoon to sunset is best for the ocean views; spring and autumn
+      bring milder weather and smaller crowds than the packed summer beach
+      season (July-August).
   - q: What else is nearby?
-    a: Gyeongpo Beach and Gyeongpodae Pavilion are connected via a scenic pine-lined boardwalk from Anmok Beach; Ojukheon House and Jumunjin fish market are also within easy reach for a fuller day trip.
+    a: >-
+      Gyeongpo Beach and Gyeongpodae Pavilion are connected via a scenic
+      pine-lined boardwalk from Anmok Beach; Ojukheon House and Jumunjin fish
+      market are also within easy reach for a fuller day trip.
 aiGenerated: true
 draft: true
+updatedDate: '2026-09-02'
 ---
 
 ## Why Coffee Street Exists

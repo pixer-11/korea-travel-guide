@@ -1,23 +1,31 @@
 ---
 title: 'Royal Palace Museum: Genoa Travel Guide (4.5★)'
-description: Palazzo Reale sits on Via Balbi in Genoa's old university district, just a few minutes from Genova Piazza Principe station. 4.5★ (4,036 reviews) — what visitors say, hours, and tips.
+description: >-
+  Palazzo Reale sits on Via Balbi in Genoa's old university district, just a few
+  minutes from Genova Piazza Principe station. 4.5★ (4,069 reviews) — what
+  visitors say, hours, and tips.
 country: Italy
 region: Genoa
 category: attraction
 pubDate: '2026-08-12T08:51:53.127Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Royal_Palace_in_Genoa_%288871320094%29.jpg/1920px-Royal_Palace_in_Genoa_%288871320094%29.jpg
-  credit: 'Photo: Filip Maljković from Pancevo, Serbia / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Royal_Palace_in_Genoa_%288871320094%29.jpg/1920px-Royal_Palace_in_Genoa_%288871320094%29.jpg
+  credit: >-
+    Photo: Filip Maljković from Pancevo, Serbia / Wikimedia Commons (CC BY-SA
+    2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Royal_Palace_in_Genoa_(8871320094).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Royal_Palace_in_Genoa_(8871320094).jpg
 gallery: []
 place:
   id: ChIJMfvc9OJD0xIRZsenpHZnUcw
   name: Royal Palace Museum
-  address: Via Balbi, 10, 16126 Genova GE, Italy
+  address: 'Via Balbi, 10, 16126 Genova GE, Italy'
   rating: 4.5
-  userRatingsTotal: 4036
-  googleMapsUrl: https://maps.google.com/?cid=14722662416117122918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4069
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14722662416117122918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.414981499999996
   lng: 8.9260509
@@ -54,20 +62,41 @@ place:
 tags:
   - genoa
   - top attraction
-quickAnswer: Palazzo Reale sits on Via Balbi in Genoa's old university district, just a few minutes from Genova Piazza Principe station. Go on a weekday morning if you can — Wednesday to Saturday, 9am to 7pm — since weekends from 10am to 7pm draw the heaviest crowds. It's closed Mondays and Sundays, and Tuesday afternoons only (1:30–7pm), so plan around that. Budget an hour to ninety minutes for the state rooms and the Hall of Mirrors.
+quickAnswer: >-
+  Palazzo Reale sits on Via Balbi in Genoa's old university district, just a few
+  minutes from Genova Piazza Principe station. Go on a weekday morning if you
+  can — Wednesday to Saturday, 9am to 7pm — since weekends from 10am to 7pm draw
+  the heaviest crowds. It's closed Mondays and Sundays, and Tuesday afternoons
+  only (1:30–7pm), so plan around that. Budget an hour to ninety minutes for the
+  state rooms and the Hall of Mirrors.
 faq:
   - q: How do I get to Palazzo Reale in Genoa?
-    a: It's on Via Balbi, 10, about a five-minute walk from Genova Piazza Principe train station, or a 15–20 minute walk from Piazza De Ferrari in the old town.
+    a: >-
+      It's on Via Balbi, 10, about a five-minute walk from Genova Piazza
+      Principe train station, or a 15–20 minute walk from Piazza De Ferrari in
+      the old town.
   - q: What are the opening hours?
-    a: Wednesday through Saturday it's open 9am–7pm. Tuesday it opens only 1:30–7pm, and it's closed Monday and Sunday. Confirm hours on the official site before visiting since museum schedules can shift.
+    a: >-
+      Wednesday through Saturday it's open 9am–7pm. Tuesday it opens only
+      1:30–7pm, and it's closed Monday and Sunday. Confirm hours on the official
+      site before visiting since museum schedules can shift.
   - q: When is the quietest time to visit?
-    a: Weekday mornings, especially Wednesday to Friday right at 9am opening, are calmest. Weekends from 10am to 7pm are the busiest stretch, so avoid that window if you can.
+    a: >-
+      Weekday mornings, especially Wednesday to Friday right at 9am opening, are
+      calmest. Weekends from 10am to 7pm are the busiest stretch, so avoid that
+      window if you can.
   - q: How long should I plan for the visit?
-    a: Most visitors spend an hour to ninety minutes seeing the state rooms, Hall of Mirrors, throne room, and gallery without rushing.
+    a: >-
+      Most visitors spend an hour to ninety minutes seeing the state rooms, Hall
+      of Mirrors, throne room, and gallery without rushing.
   - q: Is there anything else to see nearby?
-    a: Palazzo dell'Università, with its grand Baroque courtyard, sits almost directly across Via Balbi and is free to enter — an easy pairing before or after the palace.
+    a: >-
+      Palazzo dell'Università, with its grand Baroque courtyard, sits almost
+      directly across Via Balbi and is free to enter — an easy pairing before or
+      after the palace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

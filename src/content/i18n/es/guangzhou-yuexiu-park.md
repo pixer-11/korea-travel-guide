@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guangzhou-yuexiu-park
-srcHash: '26853a03ec2b'
+srcHash: '1519b1c39aaf'
 title: 'Parque Yuexiu: Guía de Viaje de Guangzhou (4.6★)'
-description: 'El Parque Yuexiu es el mayor espacio verde de Guangzhou: una extensión de colinas con lagos, restos de la antigua muralla y la emblemática estatua de las Cinco Cabras, ideal para recorrer a pie temprano por la mañana. 4.6★ (1.067 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Yuexiu es el mayor espacio verde de Guangzhou: una extensión de colinas con lagos, restos de la antigua muralla y la emblemática estatua de las Cinco Cabras, ideal para recorrer a pie temprano por la mañana. 4.6★ (1.073 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Yuexiu es el mayor espacio verde de Guangzhou: una extensión de colinas con lagos, restos de la antigua muralla y la emblemática estatua de las Cinco Cabras, ideal para recorrer a pie temprano por la mañana. Conviene reservar entre dos y tres horas, entrar por el lado de la Torre Zhenhai si se quiere visitar el museo, e ir antes de las 9 de la mañana para tener los senderos casi para uno solo. La entrada al recinto del parque es gratuita, aunque la torre y el museo del interior cobran entrada aparte.'
 faq:
   - q: ¿La entrada al Parque Yuexiu es gratuita?

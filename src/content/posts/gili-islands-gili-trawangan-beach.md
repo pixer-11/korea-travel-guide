@@ -1,56 +1,90 @@
 ---
-title: "Gili Trawangan Beach: Gili Islands Travel Guide (4.6★)"
-description: "Gili Trawangan's main beach strip is best at sunrise (calm, empty, glassy water) or right at sunset over the Lombok volcano — midday sun and midweek boat arrivals are the main crowds to dodge. 4.6★ (232 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Gili Islands"
-category: "hidden-gem"
-pubDate: "2026-08-14T09:33:10.972Z"
+title: 'Gili Trawangan Beach: Gili Islands Travel Guide (4.6★)'
+description: >-
+  Gili Trawangan's main beach strip is best at sunrise (calm, empty, glassy
+  water) or right at sunset over the Lombok volcano — midday sun and midweek
+  boat arrivals are the main crowds to dodge. 4.6★ (233 reviews) — what visitors
+  say, hours, and tips.
+country: Indonesia
+region: Gili Islands
+category: hidden-gem
+pubDate: '2026-08-14T09:33:10.972Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Beach_-_Gili_Trawangan_%2816950555226%29.jpg/3840px-Beach_-_Gili_Trawangan_%2816950555226%29.jpg"
-  credit: "Photo: Jorge Láscar from Melbourne, Australia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Beach_-_Gili_Trawangan_(16950555226).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Beach_-_Gili_Trawangan_%2816950555226%29.jpg/3840px-Beach_-_Gili_Trawangan_%2816950555226%29.jpg
+  credit: >-
+    Photo: Jorge Láscar from Melbourne, Australia / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Beach_-_Gili_Trawangan_(16950555226).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/People_on_the_beach%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg/3840px-People_on_the_beach%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:People_on_the_beach,_Gili_Trawangan_(island),_Indonesia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/People_on_the_beach%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg/3840px-People_on_the_beach%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:People_on_the_beach,_Gili_Trawangan_(island),_Indonesia.jpg
 place:
-  id: "ChIJjYTyBv_dzS0RtfhUKYlVVFc"
-  name: "Gili Trawangan Beach"
-  address: "Jl. Pantai Gili Trawangan, Gili Indah, Kec. Pemenang, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83352, Indonesia"
+  id: ChIJjYTyBv_dzS0RtfhUKYlVVFc
+  name: Gili Trawangan Beach
+  address: >-
+    Jl. Pantai Gili Trawangan, Gili Indah, Kec. Pemenang, Kabupaten Lombok
+    Utara, Nusa Tenggara Bar. 83352, Indonesia
   rating: 4.6
-  userRatingsTotal: 232
-  googleMapsUrl: "https://maps.google.com/?cid=6292748626935740597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 233
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6292748626935740597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.345178599999999
   lng: 116.04205959999999
-  phone: "+62 812-4678-0807"
+  phone: +62 812-4678-0807
   openingHours:
-    - "Monday: 6:30 AM – 10:00 PM"
-    - "Tuesday: 6:30 AM – 10:00 PM"
-    - "Wednesday: 6:30 AM – 10:00 PM"
-    - "Thursday: 6:30 AM – 9:00 PM"
-    - "Friday: 6:30 AM – 10:00 PM"
-    - "Saturday: 6:30 AM – 8:00 PM"
-    - "Sunday: 6:30 AM – 10:00 PM"
+    - 'Monday: 6:30 AM – 10:00 PM'
+    - 'Tuesday: 6:30 AM – 10:00 PM'
+    - 'Wednesday: 6:30 AM – 10:00 PM'
+    - 'Thursday: 6:30 AM – 9:00 PM'
+    - 'Friday: 6:30 AM – 10:00 PM'
+    - 'Saturday: 6:30 AM – 8:00 PM'
+    - 'Sunday: 6:30 AM – 10:00 PM'
 tags:
-  - "gili islands"
-  - "hidden gem"
-quickAnswer: "Gili Trawangan's main beach strip is best at sunrise (calm, empty, glassy water) or right at sunset over the Lombok volcano — midday sun and midweek boat arrivals are the main crowds to dodge. There's no traffic on the island (no cars, no motorbikes), so plan on walking, cycling, or a horse cart (cidomo) to reach quieter stretches north and east of the harbor."
+  - gili islands
+  - hidden gem
+quickAnswer: >-
+  Gili Trawangan's main beach strip is best at sunrise (calm, empty, glassy
+  water) or right at sunset over the Lombok volcano — midday sun and midweek
+  boat arrivals are the main crowds to dodge. There's no traffic on the island
+  (no cars, no motorbikes), so plan on walking, cycling, or a horse cart
+  (cidomo) to reach quieter stretches north and east of the harbor.
 faq:
-  - q: "How do I get to Gili Trawangan Beach?"
-    a: "By boat only — fast boats from Bali (Padang Bai or Serangan) take 1.5–2 hours, or public boats from Bangsal harbor near Pemenang on Lombok take under an hour. There are no cars or motorbikes on the island, so plan to walk, cycle, or take a cidomo horse cart from the harbor."
-  - q: "What time is Gili Trawangan Beach open?"
-    a: "Most beachfront areas run roughly 6:30am to 9–10pm daily, with Saturdays closing earlier around 8pm. Confirm specific spot hours locally since some beach bars adjust seasonally."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning, right around opening at 6:30am, before day-boats arrive. Midday (noon–3pm) and July–August are the busiest windows to avoid if you want space on the sand."
-  - q: "How long should I spend at the beach?"
-    a: "A half-day covers swimming and sunset; a full day lets you add snorkeling and a bike loop of the island, which takes about 2–3 hours at an easy pace."
-  - q: "Can I combine it with the other Gili Islands?"
-    a: "Yes — Gili Meno and Gili Air are both a short public boat ride away and make an easy day trip or overnight add-on from Trawangan."
+  - q: How do I get to Gili Trawangan Beach?
+    a: >-
+      By boat only — fast boats from Bali (Padang Bai or Serangan) take 1.5–2
+      hours, or public boats from Bangsal harbor near Pemenang on Lombok take
+      under an hour. There are no cars or motorbikes on the island, so plan to
+      walk, cycle, or take a cidomo horse cart from the harbor.
+  - q: What time is Gili Trawangan Beach open?
+    a: >-
+      Most beachfront areas run roughly 6:30am to 9–10pm daily, with Saturdays
+      closing earlier around 8pm. Confirm specific spot hours locally since some
+      beach bars adjust seasonally.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early morning, right around opening at 6:30am, before day-boats arrive.
+      Midday (noon–3pm) and July–August are the busiest windows to avoid if you
+      want space on the sand.
+  - q: How long should I spend at the beach?
+    a: >-
+      A half-day covers swimming and sunset; a full day lets you add snorkeling
+      and a bike loop of the island, which takes about 2–3 hours at an easy
+      pace.
+  - q: Can I combine it with the other Gili Islands?
+    a: >-
+      Yes — Gili Meno and Gili Air are both a short public boat ride away and
+      make an easy day trip or overnight add-on from Trawangan.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

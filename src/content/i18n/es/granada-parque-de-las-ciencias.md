@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: granada-parque-de-las-ciencias
-srcHash: '9afe3ae076f6'
+srcHash: '91d17b510496'
 title: 'Parque de las Ciencias: Guía de viaje de Granada (4.5★)'
-description: El Parque de las Ciencias es el museo de ciencia interactivo de Granada, en el barrio de Ronda, a 15 minutos a pie o un breve trayecto en autobús al sur del centro histórico. 4.5★ (4,758 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Parque de las Ciencias es el museo de ciencia interactivo de Granada, en el barrio de Ronda, a 15 minutos a pie o un breve trayecto en autobús al sur del centro histórico. 4.5★ (4,876 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Parque de las Ciencias es el museo de ciencia interactivo de Granada, en el barrio de Ronda, a 15 minutos a pie o un breve trayecto en autobús al sur del centro histórico, construido en torno a un pabellón principal interactivo, un planetario, un mariposario tropical con cúpula de cristal y una torre de observación con vistas panorámicas a Sierra Nevada. Reserva medio día (3-4 horas) para ver las exposiciones permanentes más una sesión de planetario, y consulta la web oficial antes de ir, ya que los horarios y la programación del planetario cambian según la temporada.
 faq:
   - q: ¿Cuánto tiempo debo planear para la visita?

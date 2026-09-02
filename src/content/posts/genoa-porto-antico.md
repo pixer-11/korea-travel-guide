@@ -1,41 +1,47 @@
 ---
-title: "Porto Antico: Genoa Travel Guide (4.5★)"
-description: "Porto Antico is Genoa's revitalized old harbor, home to Europe's second-largest aquarium, the Bigo panoramic lift, and a palm-lined waterfront promenade. 4.5★ (14,691 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Genoa"
-category: "hidden-gem"
-pubDate: "2026-08-15T07:52:48.408Z"
+title: 'Porto Antico: Genoa Travel Guide (4.5★)'
+description: >-
+  Porto Antico is Genoa's revitalized old harbor, home to Europe's
+  second-largest aquarium, the Bigo panoramic lift, and a palm-lined waterfront
+  promenade. 4.5★ (14,732 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Genoa
+category: hidden-gem
+pubDate: '2026-08-15T07:52:48.408Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Porto_antico_%28Genoa%29_%282%29.jpg/3840px-Porto_antico_%28Genoa%29_%282%29.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Porto_antico_(Genoa)_(2).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Porto_antico_%28Genoa%29_%282%29.jpg/3840px-Porto_antico_%28Genoa%29_%282%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Porto_antico_(Genoa)_(2).jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Porto_Antico_in_2021.02.jpg/3840px-Porto_Antico_in_2021.02.jpg"
-    credit: "Photo: CAPTAIN RAJU / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Porto_Antico_in_2021.02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Porto_Antico_in_2021.02.jpg/3840px-Porto_Antico_in_2021.02.jpg
+    credit: 'Photo: CAPTAIN RAJU / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Porto_Antico_in_2021.02.jpg'
 place:
-  id: "ChIJQ94RKl5B0xIRKDrqaTHbygg"
-  name: "Porto Antico"
-  address: "Calata Molo Vecchio, 15, 16128 Genova GE, Italy"
+  id: ChIJQ94RKl5B0xIRKDrqaTHbygg
+  name: Porto Antico
+  address: 'Calata Molo Vecchio, 15, 16128 Genova GE, Italy'
   rating: 4.5
-  userRatingsTotal: 14691
-  googleMapsUrl: "https://maps.google.com/?cid=633559702875814440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14732
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=633559702875814440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.4085588
   lng: 8.9224716
-  phone: "+39 010 248 5711"
+  phone: +39 010 248 5711
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayBusy:
       - 21
     weekendQuiet:
@@ -51,24 +57,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_676779624854617172444b5249783042356c4b523439514a496843"
+    venueId: ven_676779624854617172444b5249783042356c4b523439514a496843
 tags:
-  - "genoa"
-  - "hidden gem"
-quickAnswer: "Porto Antico is Genoa's revitalized old harbor, home to Europe's second-largest aquarium, the Bigo panoramic lift, and a palm-lined waterfront promenade. It's open 24 hours, but the aquarium and museums keep daytime hours you should check ahead. Weekend mornings between 7am and 9am are calmest — avoid 2pm to 11pm on Saturday and Sunday when crowds peak."
+  - genoa
+  - hidden gem
+quickAnswer: >-
+  Porto Antico is Genoa's revitalized old harbor, home to Europe's
+  second-largest aquarium, the Bigo panoramic lift, and a palm-lined waterfront
+  promenade. It's open 24 hours, but the aquarium and museums keep daytime hours
+  you should check ahead. Weekend mornings between 7am and 9am are calmest —
+  avoid 2pm to 11pm on Saturday and Sunday when crowds peak.
 faq:
-  - q: "How long should I spend at Porto Antico?"
-    a: "Budget at least half a day: two to three hours for the aquarium alone, plus time for the Bigo lift, Galata Museo del Mare, and the waterfront promenade."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend mornings between 7am and 9am are calmest, based on measured foot-traffic data. Avoid Saturday and Sunday afternoons from 2pm to 11pm, when crowds peak."
-  - q: "Is Porto Antico open at night?"
-    a: "The outdoor harbor and promenade are accessible 24 hours a day. The aquarium, museums, and biosphere follow their own daytime hours, so check official times before you go."
-  - q: "How do I get to Porto Antico from Genoa's train station?"
-    a: "From Genova Piazza Principe station it's about a 15-minute walk downhill through the historic caruggi lanes. Buses also stop at Genova Piazzale Marinai d'Italia and Genova Porta Siberia nearby."
-  - q: "Is the aquarium worth the cost?"
-    a: "It's on the pricier side for an Italian attraction, but it's the largest aquarium in Italy and one of Europe's biggest, easily filling a couple of hours."
+  - q: How long should I spend at Porto Antico?
+    a: >-
+      Budget at least half a day: two to three hours for the aquarium alone,
+      plus time for the Bigo lift, Galata Museo del Mare, and the waterfront
+      promenade.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend mornings between 7am and 9am are calmest, based on measured
+      foot-traffic data. Avoid Saturday and Sunday afternoons from 2pm to 11pm,
+      when crowds peak.
+  - q: Is Porto Antico open at night?
+    a: >-
+      The outdoor harbor and promenade are accessible 24 hours a day. The
+      aquarium, museums, and biosphere follow their own daytime hours, so check
+      official times before you go.
+  - q: How do I get to Porto Antico from Genoa's train station?
+    a: >-
+      From Genova Piazza Principe station it's about a 15-minute walk downhill
+      through the historic caruggi lanes. Buses also stop at Genova Piazzale
+      Marinai d'Italia and Genova Porta Siberia nearby.
+  - q: Is the aquarium worth the cost?
+    a: >-
+      It's on the pricier side for an Italian attraction, but it's the largest
+      aquarium in Italy and one of Europe's biggest, easily filling a couple of
+      hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

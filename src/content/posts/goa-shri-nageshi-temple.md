@@ -1,41 +1,49 @@
 ---
-title: "Shri Nageshi Temple,: Goa Travel Guide (4.8★)"
-description: "Shri Nageshi Temple sits in the village of Bandiwade near Ponda, one of Goa's oldest and best-preserved Hindu temples, dedicated to Nageshi (a form of Shiva as serpent-lord). 4.8★ (3,021 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Goa"
-category: "attraction"
-pubDate: "2026-08-15T07:48:33.534Z"
+title: 'Shri Nageshi Temple,: Goa Travel Guide (4.8★)'
+description: >-
+  Shri Nageshi Temple sits in the village of Bandiwade near Ponda, one of Goa's
+  oldest and best-preserved Hindu temples, dedicated to Nageshi (a form of Shiva
+  as serpent-lord). 4.8★ (3,029 reviews) — what visitors say, hours, and tips.
+country: India
+region: Goa
+category: attraction
+pubDate: '2026-08-15T07:48:33.534Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2849%29.jpg/3840px-Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2849%29.jpg"
-  credit: "Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shri_Nageshi_Temple,_Bandiwade,_Donshiwado,_Ponda,_Goa_vrvbgoa2k24_(49).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2849%29.jpg/3840px-Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2849%29.jpg
+  credit: 'Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Shri_Nageshi_Temple,_Bandiwade,_Donshiwado,_Ponda,_Goa_vrvbgoa2k24_(49).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2815%29.jpg/3840px-Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2815%29.jpg"
-    credit: "Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shri_Nageshi_Temple,_Bandiwade,_Donshiwado,_Ponda,_Goa_vrvbgoa2k24_(15).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2815%29.jpg/3840px-Shri_Nageshi_Temple%2C_Bandiwade%2C_Donshiwado%2C_Ponda%2C_Goa_vrvbgoa2k24_%2815%29.jpg
+    credit: 'Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Shri_Nageshi_Temple,_Bandiwade,_Donshiwado,_Ponda,_Goa_vrvbgoa2k24_(15).jpg
 place:
-  id: "ChIJ9Z288fW6vzsRiiAZ44P99zg"
-  name: "Shri Nageshi Temple,"
-  address: "Bandiwade, Donshiwado, Ponda, Bandiwada, Goa 403401, India"
+  id: ChIJ9Z288fW6vzsRiiAZ44P99zg
+  name: 'Shri Nageshi Temple,'
+  address: 'Bandiwade, Donshiwado, Ponda, Bandiwada, Goa 403401, India'
   rating: 4.8
-  userRatingsTotal: 3021
-  googleMapsUrl: "https://maps.google.com/?cid=4105028328264114314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3029
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4105028328264114314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.407464
   lng: 73.9837052
-  phone: "+91 832 233 5039"
+  phone: +91 832 233 5039
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 8:30 PM"
-    - "Wednesday: 6:00 AM – 8:30 PM"
-    - "Thursday: 6:00 AM – 8:30 PM"
-    - "Friday: 6:00 AM – 8:30 PM"
-    - "Saturday: 6:00 AM – 8:30 PM"
-    - "Sunday: 6:00 AM – 8:30 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 8:30 PM'
+    - 'Wednesday: 6:00 AM – 8:30 PM'
+    - 'Thursday: 6:00 AM – 8:30 PM'
+    - 'Friday: 6:00 AM – 8:30 PM'
+    - 'Saturday: 6:00 AM – 8:30 PM'
+    - 'Sunday: 6:00 AM – 8:30 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -50,24 +58,43 @@ place:
       - 14
       - 18
       - 19
-    venueId: "ven_677a39395034345a41696952737a763657663838325a394a496843"
+    venueId: ven_677a39395034345a41696952737a763657663838325a394a496843
 tags:
-  - "goa"
-  - "historic site"
-quickAnswer: "Shri Nageshi Temple sits in the village of Bandiwade near Ponda, one of Goa's oldest and best-preserved Hindu temples, dedicated to Nageshi (a form of Shiva as serpent-lord). Go on a weekday between 7am and 9am for the calmest visit — weekends get busy from noon through 8pm. It's open daily 6am–8:30pm (Mondays until 10pm), and an hour is plenty to see the shrine and wander its old stone courtyard."
+  - goa
+  - historic site
+quickAnswer: >-
+  Shri Nageshi Temple sits in the village of Bandiwade near Ponda, one of Goa's
+  oldest and best-preserved Hindu temples, dedicated to Nageshi (a form of Shiva
+  as serpent-lord). Go on a weekday between 7am and 9am for the calmest visit —
+  weekends get busy from noon through 8pm. It's open daily 6am–8:30pm (Mondays
+  until 10pm), and an hour is plenty to see the shrine and wander its old stone
+  courtyard.
 faq:
-  - q: "What are the opening hours?"
-    a: "6am–8:30pm daily, except Monday when it stays open until 10pm. Hours can shift for festivals, so it's worth confirming locally if you're visiting on a special date."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 9am are calmest. On weekends, arrive between 7am and 8am, before the midday-to-evening rush (12pm–8pm) builds up."
-  - q: "How do I get to Shri Nageshi Temple?"
-    a: "It's in Bandiwade village near Ponda, best reached by scooter, taxi, or rental car — about 45 minutes from Panjim. There's no direct train or bus station nearby, and on-site parking is available."
-  - q: "How long should I plan to spend here?"
-    a: "About 45 minutes to an hour covers the sanctum, courtyard, deepstambha, and tank at an unhurried pace."
-  - q: "Is there an entry fee?"
-    a: "No entry fee is charged, though small cash donations are customary if you join a puja or receive prasad."
+  - q: What are the opening hours?
+    a: >-
+      6am–8:30pm daily, except Monday when it stays open until 10pm. Hours can
+      shift for festivals, so it's worth confirming locally if you're visiting
+      on a special date.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am are calmest. On weekends, arrive between 7am
+      and 8am, before the midday-to-evening rush (12pm–8pm) builds up.
+  - q: How do I get to Shri Nageshi Temple?
+    a: >-
+      It's in Bandiwade village near Ponda, best reached by scooter, taxi, or
+      rental car — about 45 minutes from Panjim. There's no direct train or bus
+      station nearby, and on-site parking is available.
+  - q: How long should I plan to spend here?
+    a: >-
+      About 45 minutes to an hour covers the sanctum, courtyard, deepstambha,
+      and tank at an unhurried pace.
+  - q: Is there an entry fee?
+    a: >-
+      No entry fee is charged, though small cash donations are customary if you
+      join a puja or receive prasad.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

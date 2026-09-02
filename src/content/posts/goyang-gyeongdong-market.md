@@ -1,44 +1,52 @@
 ---
-title: "Gyeongdong Market: Goyang Travel Guide (4.1★)"
-description: "Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun District, Seoul (despite occasionally being filed under the wider Goyang/greater Seoul travel region) — not a Goyang address itself, so double-check your route if you're staying out that way. 4.1★ (11,034 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Goyang"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:11:04.200Z"
+title: 'Gyeongdong Market: Goyang Travel Guide (4.1★)'
+description: >-
+  Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun
+  District, Seoul (despite occasionally being filed under the wider
+  Goyang/greater Seoul travel region) — not a Goyang address itself, so
+  double-check your route if you're staying out that way. 4.1★ (11,034 reviews)
+  — what visitors say, hours, and tips.
+country: South Korea
+region: Goyang
+category: hidden-gem
+pubDate: '2026-08-24T08:11:04.200Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Seoul-Gyeongdong_Market-03.jpg/1920px-Korea-Seoul-Gyeongdong_Market-03.jpg"
-  credit: "Photo: Gaël Chardon / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Gyeongdong_Market-03.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Seoul-Gyeongdong_Market-03.jpg/1920px-Korea-Seoul-Gyeongdong_Market-03.jpg
+  credit: 'Photo: Gaël Chardon / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Korea-Seoul-Gyeongdong_Market-03.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/20240162_3c2-39TOpBE3MU84aRx8Bm6Y_JYgO3XxwoYcudmkgjY.jpg"
-    credit: "Photo: Foursquare user content (Seoul Gyeongdong Market)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4ce67505595cb1f7794bbc14"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/20240162_3c2-39TOpBE3MU84aRx8Bm6Y_JYgO3XxwoYcudmkgjY.jpg
+    credit: 'Photo: Foursquare user content (Seoul Gyeongdong Market)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4ce67505595cb1f7794bbc14'
 place:
-  id: "ChIJX70DR6i8fDURPauG09QnN6s"
-  name: "Gyeongdong Market"
-  address: "3 Gosanja-ro 36-gil, Dongdaemun District, Seoul, South Korea"
+  id: ChIJX70DR6i8fDURPauG09QnN6s
+  name: Gyeongdong Market
+  address: '3 Gosanja-ro 36-gil, Dongdaemun District, Seoul, South Korea'
   rating: 4.1
-  userRatingsTotal: 11034
-  googleMapsUrl: "https://maps.google.com/?cid=12337373499240131389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11044
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12337373499240131389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.57973
   lng: 127.03853999999998
-  phone: "+82 2-967-8721"
+  phone: +82 2-967-8721
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -51,25 +59,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_73364e6e513930477561505255446638693652443037584a496843"
+    venueId: ven_73364e6e513930477561505255446638693652443037584a496843
 tags:
-  - "goyang"
-  - "local market"
-quickAnswer: "Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun District, Seoul (despite occasionally being filed under the wider Goyang/greater Seoul travel region) — not a Goyang address itself, so double-check your route if you're staying out that way. It's open daily 9am–6pm, and the calmest visit is a weekend morning between 9am and 10am, before the 11am–5pm rush sets in. Budget 1–2 hours to wander the alleys, sample roasted grains and ginseng, and grab a bowl of noodles."
+  - goyang
+  - local market
+quickAnswer: >-
+  Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun
+  District, Seoul (despite occasionally being filed under the wider
+  Goyang/greater Seoul travel region) — not a Goyang address itself, so
+  double-check your route if you're staying out that way. It's open daily
+  9am–6pm, and the calmest visit is a weekend morning between 9am and 10am,
+  before the 11am–5pm rush sets in. Budget 1–2 hours to wander the alleys,
+  sample roasted grains and ginseng, and grab a bowl of noodles.
 faq:
-  - q: "Is Gyeongdong Market actually in Goyang?"
-    a: "No — its address is in Dongdaemun District, Seoul, though it's sometimes grouped under the broader Goyang/Seoul travel region. If you're based in Goyang or Ilsan, budget 40–60 minutes for the subway ride in."
-  - q: "How do I get to Gyeongdong Market by subway?"
-    a: "Take Seoul Subway Line 1 to Jegi-dong Station; exits lead close to the market's covered lanes."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend mornings between 9am and 10am, right at opening, are calmest. Weekdays stay fairly even throughout the day, 9am to 6pm."
-  - q: "What's the best time to avoid crowds?"
-    a: "Skip Saturday and Sunday between 11am and 5pm — that's the busiest window, when local shoppers and visitors fill the aisles."
-  - q: "How long should I spend at the market?"
-    a: "One to two hours is enough to wander the herb and produce sections, browse the food alley, and grab a snack or noodle bowl."
+  - q: Is Gyeongdong Market actually in Goyang?
+    a: >-
+      No — its address is in Dongdaemun District, Seoul, though it's sometimes
+      grouped under the broader Goyang/Seoul travel region. If you're based in
+      Goyang or Ilsan, budget 40–60 minutes for the subway ride in.
+  - q: How do I get to Gyeongdong Market by subway?
+    a: >-
+      Take Seoul Subway Line 1 to Jegi-dong Station; exits lead close to the
+      market's covered lanes.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend mornings between 9am and 10am, right at opening, are calmest.
+      Weekdays stay fairly even throughout the day, 9am to 6pm.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Skip Saturday and Sunday between 11am and 5pm — that's the busiest window,
+      when local shoppers and visitors fill the aisles.
+  - q: How long should I spend at the market?
+    a: >-
+      One to two hours is enough to wander the herb and produce sections, browse
+      the food alley, and grab a snack or noodle bowl.
 aiGenerated: true
 draft: true
 heldReason: wrong-region
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

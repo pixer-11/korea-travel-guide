@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: granada-nasrid-palaces
-srcHash: '97b813259cd1'
+srcHash: '8b2e78d25991'
 title: '나스리 궁전(Nasrid Palaces): 그라나다 여행 가이드 (4.9★)'
-description: 나스리 궁전(Palacios Nazaríes, Nasrid Palaces)은 그라나다 알람브라(Alhambra)의 심장부로, 14세기 나스리 왕조 술탄들의 왕궁이었으며 사자의 정원(Court of the Lions), 아라야네스 정원(Court of the Myrtles), 그리고 끝없이 이어지는 조각 회벽과 타일 벽면으로 유명합니다. 4.9★ (32,681개 리뷰) — 방문객들의 후기, 운영 시간, 그리고 팁을 확인하세요.
+description: 나스리 궁전(Palacios Nazaríes, Nasrid Palaces)은 그라나다 알람브라(Alhambra)의 심장부로, 14세기 나스리 왕조 술탄들의 왕궁이었으며 사자의 정원(Court of the Lions), 아라야네스 정원(Court of the Myrtles), 그리고 끝없이 이어지는 조각 회벽과 타일 벽면으로 유명합니다. 4.9★ (33,116개 리뷰) — 방문객들의 후기, 운영 시간, 그리고 팁을 확인하세요.
 quickAnswer: 나스리 궁전(Palacios Nazaríes, Nasrid Palaces)은 그라나다 알람브라(Alhambra)의 심장부로, 14세기 나스리 왕조 술탄들의 왕궁이었으며 사자의 정원(Court of the Lions), 아라야네스 정원(Court of the Myrtles), 그리고 끝없이 이어지는 조각 회벽과 타일 벽면으로 유명합니다. 시간이 지정된 입장권을 미리, 가능하면 몇 주 전에 예약해야 하며, 티켓에 인쇄된 정확한 30분 단위 시간에 맞춰 도착해야 합니다. 가능하다면 개장 직후나 아침 이른 시간대를 노리세요 — 오전 8시대가 가장 여유롭고, 주말에는 오전 11시부터 오후 6시까지 안뜰이 인파로 가득 찹니다.
 faq:
   - q: 나스리 궁전 입장을 위해 별도의 티켓이 필요한가요?

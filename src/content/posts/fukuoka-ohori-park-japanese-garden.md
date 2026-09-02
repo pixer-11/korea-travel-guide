@@ -1,45 +1,53 @@
 ---
-title: "Ohori Park Japanese Garden: Fukuoka Travel Guide (4.5★)"
-description: "Ohori Park Japanese Garden is a small, walled 1.2-acre garden tucked inside Fukuoka's larger Ohori Park in Chuo Ward, open Tuesday to Sunday 9am–6pm (closed Mondays). 4.5★ (1,273 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Fukuoka"
-category: "attraction"
-pubDate: "2026-08-26T08:19:46.467Z"
+title: 'Ohori Park Japanese Garden: Fukuoka Travel Guide (4.5★)'
+description: >-
+  Ohori Park Japanese Garden is a small, walled 1.2-acre garden tucked inside
+  Fukuoka's larger Ohori Park in Chuo Ward, open Tuesday to Sunday 9am–6pm
+  (closed Mondays). 4.5★ (1,278 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Fukuoka
+category: attraction
+pubDate: '2026-08-26T08:19:46.467Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg/3840px-Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg"
-  credit: "Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg/3840px-Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg
+  credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gate_of_Japanese_Garden_of_Ohori_Park_2.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg/3840px-%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg"
-    credit: "Photo: Hirho / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg/3840px-%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg
+    credit: 'Photo: Hirho / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%C5%8Chori_Park_Loop_Path_The_path_near_%C5%8Chori_Park_Japanese_Garden_Park_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260514.jpg
 place:
-  id: "ChIJAQBwwc2TQTURjx-IPrl8IzM"
-  name: "Ohori Park Japanese Garden"
-  address: "1-7 Ōhorikōen, Chuo Ward, Fukuoka, 810-0051, Japan"
+  id: ChIJAQBwwc2TQTURjx-IPrl8IzM
+  name: Ohori Park Japanese Garden
+  address: '1-7 Ōhorikōen, Chuo Ward, Fukuoka, 810-0051, Japan'
   rating: 4.5
-  userRatingsTotal: 1273
-  googleMapsUrl: "https://maps.google.com/?cid=3684926055179100047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1278
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3684926055179100047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.582566199999995
   lng: 130.3787844
-  phone: "+81 92-741-8377"
+  phone: +81 92-741-8377
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayBusy:
       - 12
     weekendBusy:
@@ -50,24 +58,39 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4d7a49386c7250492d786a5255545154326377774251414a496843"
+    venueId: ven_4d7a49386c7250492d786a5255545154326377774251414a496843
 tags:
-  - "fukuoka"
-  - "park"
-quickAnswer: "Ohori Park Japanese Garden is a small, walled 1.2-acre garden tucked inside Fukuoka's larger Ohori Park in Chuo Ward, open Tuesday to Sunday 9am–6pm (closed Mondays). Weekends get busy between 10am and 5pm, so an early morning or late-afternoon visit gets you a much quieter stroll around the ponds and teahouse. Entry is inexpensive and you'll want 30–45 minutes here, more if you sit for matcha at the teahouse."
+  - fukuoka
+  - park
+quickAnswer: >-
+  Ohori Park Japanese Garden is a small, walled 1.2-acre garden tucked inside
+  Fukuoka's larger Ohori Park in Chuo Ward, open Tuesday to Sunday 9am–6pm
+  (closed Mondays). Weekends get busy between 10am and 5pm, so an early morning
+  or late-afternoon visit gets you a much quieter stroll around the ponds and
+  teahouse. Entry is inexpensive and you'll want 30–45 minutes here, more if you
+  sit for matcha at the teahouse.
 faq:
-  - q: "What are the opening hours for Ohori Park Japanese Garden?"
-    a: "Tuesday to Sunday, 9:00 AM to 6:00 PM. It's closed every Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 9am opening tend to be calmest. Avoid weekends between 10am and 5pm, when foot traffic peaks."
-  - q: "How do I get to the garden?"
-    a: "Take the Kuko (Airport) subway line to Ōhorikōen Station, then walk about 10 minutes through Ohori Park to the garden entrance in Chuo Ward."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes walking the paths; add 20 minutes if you stop for matcha at the teahouse."
-  - q: "What's nearby worth combining with this visit?"
-    a: "The main Ohori Park lake loop, Fukuoka Castle ruins, and the Fukuoka Art Museum are all within a short walk."
+  - q: What are the opening hours for Ohori Park Japanese Garden?
+    a: 'Tuesday to Sunday, 9:00 AM to 6:00 PM. It''s closed every Monday.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 9am opening tend to be calmest. Avoid
+      weekends between 10am and 5pm, when foot traffic peaks.
+  - q: How do I get to the garden?
+    a: >-
+      Take the Kuko (Airport) subway line to Ōhorikōen Station, then walk about
+      10 minutes through Ohori Park to the garden entrance in Chuo Ward.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–45 minutes walking the paths; add 20 minutes if you
+      stop for matcha at the teahouse.
+  - q: What's nearby worth combining with this visit?
+    a: >-
+      The main Ohori Park lake loop, Fukuoka Castle ruins, and the Fukuoka Art
+      Museum are all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-02'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
