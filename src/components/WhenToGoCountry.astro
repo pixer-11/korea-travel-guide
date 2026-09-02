@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteHref } from '../lib/urls.mjs';
 import PostCard from './PostCard.astro';
 import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
@@ -67,8 +68,8 @@ const jsonLd = {
   '@graph': [
     { '@type': 'WebPage', name: metaTitle, description: metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
-      { '@type': 'ListItem', position: 2, name: t('wtg.indexTitle'), item: new URL(localizePath('/tools/when-to-go/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: t('wtg.indexTitle'), item: siteHref(localizePath('/tools/when-to-go/', lang), Astro.site) },
       { '@type': 'ListItem', position: 3, name: countryLabel, item: pageUrl },
     ] },
   ],

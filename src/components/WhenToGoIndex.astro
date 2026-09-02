@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -36,7 +37,7 @@ const jsonLd = {
     // The parent trail the country pages already carry (WhenToGoCountry) and
     // this index did not — a hub with no breadcrumb reads as an orphan.
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: title, item: pageUrl },
     ] },
   ],

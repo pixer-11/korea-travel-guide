@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import { createHash } from 'node:crypto';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
@@ -94,11 +95,11 @@ const jsonLd = {
   '@graph': [
     { '@type': 'CollectionPage', name: `${countryLabel} — ${t('nav.destinations')}`, description: blurb, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
-      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: new URL(localizePath('/destinations', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: siteHref(localizePath('/destinations', lang), Astro.site) },
       { '@type': 'ListItem', position: 3, name: countryLabel, item: pageUrl },
     ] },
-    ...(posts.length ? [{ '@type': 'ItemList', itemListElement: latest.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(card.href(p.id), Astro.site).toString(), name: card.title(p.id, p.data.title) })) }] : []),
+    ...(posts.length ? [{ '@type': 'ItemList', itemListElement: latest.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: siteHref(card.href(p.id), Astro.site), name: card.title(p.id, p.data.title) })) }] : []),
   ],
 };
 

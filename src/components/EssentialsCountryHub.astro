@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -74,8 +75,8 @@ const jsonLd = {
   '@graph': [
     { '@type': 'WebPage', name: title, description, url: pageUrl, dateModified: d.lastReviewed.toISOString(), isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
-      { '@type': 'ListItem', position: 2, name: countryLabel, item: new URL(localizePath(`/destinations/${entry.id}`, lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: countryLabel, item: siteHref(localizePath(`/destinations/${entry.id}`, lang), Astro.site) },
       { '@type': 'ListItem', position: 3, name: t('ess.label'), item: pageUrl },
     ] },
   ],

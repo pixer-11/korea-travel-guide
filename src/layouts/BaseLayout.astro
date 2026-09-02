@@ -1,6 +1,7 @@
 ---
 // Self-hosted variable fonts (no CDN, no external requests).
 import '@fontsource-variable/fraunces'; // display serif (라틴)
+import { siteHref } from '../lib/urls.mjs';
 import '@fontsource-variable/inter'; // body sans
 import '../styles/global.css';
 import Header from '../components/Header.astro';
@@ -67,7 +68,7 @@ const canonicalPath = stripLocale(Astro.url.pathname);
 const alternates = localized
   ? availableLangs.map((l) => ({
       hreflang: localeCodes[l],
-      href: new URL(localizePath(canonicalPath, l), Astro.site).toString(),
+      href: siteHref(localizePath(canonicalPath, l), Astro.site),
     }))
   : [];
 // Share cards. 2,529 of 4,869 built pages had no og:image — every region hub,
@@ -101,7 +102,7 @@ const orgLd = {
       '@type': 'Organization',
       '@id': `${siteUrl}/#org`,
       name: siteName,
-      url: siteUrl,
+      url: siteHref('/', Astro.site),
       logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
       description: 'Editor-reviewed, AI-assisted travel guides for destinations around the world.',
       slogan: SITE.tagline,
@@ -128,13 +129,13 @@ const orgLd = {
         'Travel', 'Tourism', 'Travel destinations', 'Local food and restaurants',
         'Public transport', 'Visa requirements', 'Travel events and festivals',
       ],
-      publishingPrinciples: `${siteUrl}/about`,
+      publishingPrinciples: siteHref('/about', Astro.site),
     },
     {
       '@type': 'Person',
       '@id': `${siteUrl}/#editor`,
       name: 'Pixer',
-      url: `${siteUrl}/about`,
+      url: siteHref('/about', Astro.site),
       description: 'Korean travel editor who has personally traveled countries across Asia, Europe, the Americas and Oceania, and keeps traveling. Pixer is a pen name, disclosed on the editorial policy page.',
       worksFor: { '@id': `${siteUrl}/#org` },
       knowsAbout: ['Travel', 'Southeast Asia', 'East Asia', 'Travel planning'],
@@ -143,7 +144,7 @@ const orgLd = {
       '@type': 'WebSite',
       '@id': `${siteUrl}/#site`,
       name: siteName,
-      url: siteUrl,
+      url: siteHref('/', Astro.site),
       description: SITE.description,
       publisher: { '@id': `${siteUrl}/#org` },
       // Was hardcoded 'en' on all 4,400 localized pages, contradicting both
@@ -241,7 +242,7 @@ const orgLd = {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
-    {localized && <link rel="alternate" hreflang="x-default" href={new URL(localizePath(canonicalPath, 'en'), Astro.site).toString()} />}
+    {localized && <link rel="alternate" hreflang="x-default" href={siteHref(localizePath(canonicalPath, 'en'), Astro.site)} />}
     <!-- Allow large image previews (required for Google Discover cards) -->
     <meta name="robots" content={noindex ? 'noindex, follow, max-image-preview:large' : 'max-image-preview:large'} />
     <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />

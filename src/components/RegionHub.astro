@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Hotels from './Hotels.astro';
@@ -125,7 +126,7 @@ const jsonLd = {
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+        { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
         { '@type': 'ListItem', position: 2, name: regionLabel, item: pageUrl },
       ],
     },
@@ -135,7 +136,7 @@ const jsonLd = {
           itemListElement: posts.map((p, i) => ({
             '@type': 'ListItem',
             position: i + 1,
-            url: new URL(cardHref(p), Astro.site).toString(),
+            url: siteHref(cardHref(p), Astro.site),
             name: cardTitle(p),
           })),
         }]

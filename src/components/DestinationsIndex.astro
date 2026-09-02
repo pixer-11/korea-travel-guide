@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
@@ -40,7 +41,7 @@ const jsonLd = {
   '@graph': [
     { '@type': 'CollectionPage', name: t('nav.destinations'), description: t('dest.indexDek'), url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: pageUrl },
     ] },
   ],

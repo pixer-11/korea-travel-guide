@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteHref } from '../lib/urls.mjs';
 import PostCard from './PostCard.astro';
 import Hotels from './Hotels.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -40,9 +41,9 @@ const jsonLd = {
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
-        { name: countryLabel, item: new URL(localizePath(`/destinations/${countrySlug}/`, lang), Astro.site).toString() },
-        { name: regionLabel, item: new URL(localizePath(`/regions/${regionSlug}/`, lang), Astro.site).toString() },
+        { name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+        { name: countryLabel, item: siteHref(localizePath(`/destinations/${countrySlug}/`, lang), Astro.site) },
+        { name: regionLabel, item: siteHref(localizePath(`/regions/${regionSlug}/`, lang), Astro.site) },
         { name: label, item: pageUrl },
       ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
     },
@@ -51,7 +52,7 @@ const jsonLd = {
       itemListElement: items.map((p, i) => ({
         '@type': 'ListItem',
         position: i + 1,
-        url: new URL(card.href(p.id, true), Astro.site).toString(),
+        url: siteHref(card.href(p.id, true), Astro.site),
         name: card.title(p.id, p.data.place?.name ?? p.data.title),
       })),
     },

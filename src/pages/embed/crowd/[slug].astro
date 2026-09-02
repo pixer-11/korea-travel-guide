@@ -4,6 +4,7 @@
 // engineering-as-marketing, so the data itself earns the backlinks.
 // Deliberately standalone: no site header/footer/analytics, tiny CSS, no JS.
 import { getCollection } from 'astro:content';
+import { siteHref } from '../../../lib/urls.mjs';
 import { SITE } from '../../../siteConfig';
 
 export async function getStaticPaths() {
@@ -21,7 +22,7 @@ const d = post.data;
 const b = d.place!.busyness!;
 const slug = post.id.replace(/\.md$/, '');
 const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://wanderatlasguides.com';
-const postUrl = `${site}/posts/${slug}`;
+const postUrl = siteHref(`/posts/${slug}`, site);
 
 const hr = (h: number) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
 // Quiet hours are not one block: Gwangjang is quiet 9–10am AND 7–11pm. Taking

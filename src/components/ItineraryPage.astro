@@ -1,5 +1,6 @@
 ---
 import ShareRow from './ShareRow.astro';
+import { siteHref } from '../lib/urls.mjs';
 // Shared itinerary view for BOTH the English page (/itinerary/<slug>) and the
 // localized pages (/ko/itinerary/<slug> etc). One template, same pattern as
 // PostArticle.astro. `translation` is an itinerariesI18n entry — it supplies
@@ -243,7 +244,7 @@ const graph: Record<string, unknown>[] = [
         item: {
           '@type': 'TouristAttraction',
           name: post.data.place?.name || post.data.title,
-          url: new URL(postHref(post.id), Astro.site).toString(),
+          url: siteHref(postHref(post.id), Astro.site),
         },
       })),
     },

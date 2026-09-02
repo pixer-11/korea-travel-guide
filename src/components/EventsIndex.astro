@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Emoji from './Emoji.astro';
@@ -76,10 +77,10 @@ const jsonLd = {
   '@graph': [
     { '@type': 'CollectionPage', name: t('ev.upcoming'), description: summary, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('nav.events'), item: pageUrl },
     ] },
-    ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(card.href(p.id), Astro.site).toString(), name: card.title(p.id, p.data.title) })) }] : []),
+    ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: siteHref(card.href(p.id), Astro.site), name: card.title(p.id, p.data.title) })) }] : []),
   ],
 };
 ---

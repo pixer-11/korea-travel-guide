@@ -5,6 +5,7 @@
 // like this → genuinely link-worthy. Pure client-side filter over a build-time
 // JSON index; no API calls, no server.
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
@@ -201,7 +202,7 @@ const jsonLd = {
       isPartOf: { '@id': `${site}/#site` },
     },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('tool.h1'), item: pageUrl },
     ] },
   ],

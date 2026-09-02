@@ -1,5 +1,6 @@
 ---
 import { render } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import EssentialsCountryIndex from './EssentialsCountryIndex.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -22,7 +23,7 @@ const jsonLd = {
   '@graph': [
     { '@type': 'WebPage', name: d.metaTitle, description: d.metaDescription, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: d.breadcrumbName, item: pageUrl },
     ] },
     { '@type': 'FAQPage', mainEntity: (d.faq ?? []).map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
