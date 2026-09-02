@@ -217,3 +217,37 @@ test('a synonym for an unverified claim is the same unverified claim', () => {
     'The official programme listed set times.',
   ]) assert.ok(!FABRICATED_AVAILABILITY.test(s), s);
 });
+
+// ─── 2026-09-02, evening ───────────────────────────────────────────────────
+// Tokyo's E-Prix FAQ, live after the month-anchor repair had run on the page:
+// two shapes in one answer that the rule still did not know.
+test('"haven\'t been officially detailed" and "check … closer to the July 25-26" are promises', () => {
+  const tokyo = "The precise street circuit layout and district haven't been officially detailed yet. Check the official Formula E website closer to the July 25-26, 2026 event for the specific loop.";
+  assert.ok(FUTURE_PROMISE.test(tokyo));
+  for (const s of [
+    "The layout hasn't been officially detailed yet.",
+    "The venue hasn't been finalised.",
+    "Set times haven't been fixed.",
+    "The route hasn't been publicly set.",
+    'Check the official Formula E website closer to the July 25-26, 2026 event.',
+    'Confirm timings closer to the 26th.',
+    'Verify the shuttle plan closer to race weekend.',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});
+
+test('a calendar description with no imperative stays clean', () => {
+  for (const s of [
+    'The earlier evenings in the run (closer to August 2–3) tend to be somewhat quieter.',   // aomori
+    'The earlier evenings in the run (closer to August 2-3) tend to be somewhat quieter.',
+    'The lineup was set on July 1 and stayed unchanged.',
+    'Doors opened closer to 7pm than the advertised 6pm.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+});
+
+// "closer to your visit" is relative to the reader's date, not the event's;
+// on an annual festival it is standing advice and stays true. Boryeong's FAQ.
+test('an imperative with "closer to your visit" is standing advice, not a promise', () => {
+  assert.ok(!FUTURE_PROMISE.test('Check official festival information closer to your visit.'));
+  assert.ok(!FUTURE_PROMISE.test('Confirm prices closer to your trip.'));
+  assert.ok(FUTURE_PROMISE.test('Check official festival information closer to the festival.'));
+});

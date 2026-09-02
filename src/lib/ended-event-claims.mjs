@@ -69,7 +69,20 @@ export const NAMED_DIRECTIONS = /(?:metro|subway|train|bus) to [A-Z][\w'\u2019-]
 // promises nothing. "nearer the time" gets the same month form for symmetry.
 // The pattern is built from a template only so MONTH can be spliced in twice.
 const MONTH = String.raw`(?:(?:early|mid|late)[-\s])?(?:January|February|March|April|May|June|July|August|September|October|November|December)(?:\s+\d{4})?\b(?!\s*\d)`;
-export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+(?:the\s+time|(?:to\s+)?${MONTH})|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+(?:the\s+(?:event|date|festival|show)|${MONTH})|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)`, 'i');
+// Two more shapes, 2026-09-02 evening, both from Tokyo's E-Prix FAQ after the
+// month-anchor repair had already run on that page: "haven't been officially
+// detailed yet. Check the official Formula E website closer to the July 25-26,
+// 2026 event". The negated-past branch knew only announced/confirmed/released
+// and no adverb; and the month branch's day-number guard, which exists so that
+// Aomori's "(closer to August 2-3) tend to be quieter" stays clean, also let a
+// dated instruction through. So: an imperative (check / confirm / verify /
+// watch / see) followed within a sentence by "closer to" is a promise whatever
+// comes after it — the imperative is what makes it an instruction.
+// Except "closer to your visit/trip": that is relative to the READER's date, not
+// the event's, and on the annual festivals that say it (Boryeong, Qingdao,
+// Taitung) it stays true every year — the same standing-advice exemption as
+// "reconfirm on official channels before booking".
+export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+(?:the\s+time|(?:to\s+)?${MONTH})|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+(?:the\s+(?:event|date|festival|show)|${MONTH})|\b(?:check|confirm|verify|watch|see|recheck|re-check)\b[^.\n]{0,80}\bcloser\s+to\b(?!\s+your\b)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:(?:officially|publicly|formally|fully)\s+)?(?:announced|confirmed|released|detailed|finali[sz]ed|set|fixed|decided|locked\s+in|published)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)`, 'i');
 
 // (2) The mirror image, and the worse one: the page claims it DID happen.
 //

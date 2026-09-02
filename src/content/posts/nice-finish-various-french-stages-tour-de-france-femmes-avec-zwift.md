@@ -10,7 +10,7 @@ eventEndDate: '2026-08-09'
 tags:
   - nice
   - event
-quickAnswer: The 2026 Tour de France Femmes avec Zwift runs August 1–9, with a Grand Départ in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on the Promenade des Anglais in Nice. Watching is free roadside — pick a mountain stage (Ventoux) for drama and a long wait, or the Nice finish for a shorter, more festive viewing window with easy transit access. Confirm the day-by-day route and start list on the official Tour de France Femmes site closer to race day, since exact hours and roadside access points are published only a few weeks in advance.
+quickAnswer: The 2026 Tour de France Femmes avec Zwift ran August 1–9, with a Grand Départ in Lausanne, Switzerland, a summit stage on Mont Ventoux, and the finale on the Promenade des Anglais in Nice. Watching was free roadside — a mountain stage (Ventoux) offered drama and a long wait, while the Nice finish offered a shorter, more festive viewing window with easy transit access.
 faq:
   - q: When exactly is the 2026 Tour de France Femmes?
     a: It was scheduled for August 1–9, 2026, starting with a Grand Départ in Lausanne, Switzerland, before moving into France.

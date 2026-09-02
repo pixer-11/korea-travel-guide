@@ -19,7 +19,7 @@ gallery: []
 tags:
   - paris
   - event
-quickAnswer: The 113th Tour de France wraps up July 24-26, 2026, with brutal final Alpine stages before the peloton rolls into Paris on July 26 for the closing sprint. Watching is free if you claim a spot along the route (Champs-Élysées or Alpine passes); arrive hours early for a barrier-side view, and confirm the exact Paris route and timing on the official Tour de France site closer to race day, since finish circuits can change year to year.
+quickAnswer: The 113th Tour de France wrapped up July 24-26, 2026, with brutal final Alpine stages before the peloton rolled into Paris on July 26 for the closing sprint. Watching was free for those who claimed a spot along the route (Champs-Élysées or Alpine passes); arriving hours early was needed for a barrier-side view.
 faq:
   - q: Do I need a ticket to watch the Tour de France?
     a: No — roadside viewing along the route, including the Paris finish, is free. Paid grandstand seating near the finish line is sometimes available in past editions, but check the official Tour de France site for 2026 details.

@@ -15,7 +15,7 @@ faq:
   - q: What are the exact dates of the Hong Kong Football Festival 2026?
     a: It was scheduled for July 31 – August 5, 2026, with two exhibition matches taking place within that window.
   - q: Which teams are playing?
-    a: Manchester City, Inter Milan, Chelsea FC and Juventus are confirmed as participating clubs across two exhibition matches. The exact pairings (who plays whom, and on which date) haven't been detailed here, so check the official schedule before booking around a specific team.
+    a: Manchester City, Inter Milan, Chelsea FC and Juventus were confirmed as participating clubs across two exhibition matches.
   - q: How do I get to Kai Tak Stadium?
     a: Take the MTR Tuen Ma line to Kai Tak station, which connects directly into the Kai Tak Sports Park development in Kowloon East. Expect heavy foot traffic on match days and consider allowing extra time or using shuttle buses if available.
   - q: How much are tickets and when do they go on sale?

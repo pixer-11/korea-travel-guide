@@ -11,7 +11,7 @@ gallery: []
 tags:
   - pasay city
   - event
-quickAnswer: British duo HONNE bring their 10th Anniversary world tour to Manila for three nights, August 10–12, 2026, at the Philippine International Convention Center (PICC) Plenary Hall in Pasay City. Ticketing, set times, and support acts haven't been detailed in the facts available here, so confirm all specifics — dates, doors, and price tiers — on HONNE's official channels and the official Philippine promoter/ticketing partner before you book flights or hotels.
+quickAnswer: British duo HONNE brought their 10th Anniversary world tour to Manila for three nights, August 10–12, 2026, at the Philippine International Convention Center (PICC) Plenary Hall in Pasay City.
 faq:
   - q: What are the exact dates and venue for the HONNE 10th Anniversary Tour in Manila?
     a: As announced, the shows run August 10–12, 2026, at the Philippine International Convention Center (PICC) Plenary Hall in Pasay City. Confirm exact dates and any changes on HONNE's official channels and the official ticketing partner before booking travel.

@@ -1,8 +1,6 @@
 ---
 title: 'Kodaline Farewell Tour: What to Know (Bangkok)'
-description: >-
-  Kodaline Farewell Tour in Bangkok, Thailand — August 28-29, 2026. What it is,
-  when and where, and how to plan around it.
+description: Kodaline Farewell Tour in Bangkok, Thailand — August 28-29, 2026. What it is, when and where, and how to plan around it.
 country: Thailand
 region: Bangkok
 category: event
@@ -10,11 +8,10 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-28'
 eventEndDate: '2026-08-29'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kodaline_2015.jpg/1920px-Kodaline_2015.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kodaline_2015.jpg/1920px-Kodaline_2015.jpg
   credit: 'Photo: Kathi Rudminat / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Kodaline_2015.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Kodaline_2015.jpg
   focus:
     x: 55
     'y': 45
@@ -22,48 +19,26 @@ gallery: []
 tags:
   - bangkok
   - event
-quickAnswer: >-
-  Irish band Kodaline bring their farewell tour to Bangkok for two nights,
-  August 28–29, 2026, at UOB Live inside EmSphere on Sukhumvit. Tickets, set
-  times, and any support acts have not been detailed here, so confirm everything
-  on Kodaline's official channels and the venue's site before booking flights or
-  hotels. Arrive early both nights — this is billed as the band's last run
-  through Southeast Asia.
+quickAnswer: Irish band Kodaline bring their farewell tour to Bangkok for two nights, August 28–29, 2026, at UOB Live inside EmSphere on Sukhumvit. Tickets, set times, and any support acts have not been detailed here, so confirm everything on Kodaline's official channels and the venue's site before booking flights or hotels. Arrive early both nights — this is billed as the band's last run through Southeast Asia.
 faq:
   - q: What are the confirmed dates and venue for Kodaline in Bangkok?
-    a: >-
-      August 28–29, 2026, at UOB Live inside EmSphere on Sukhumvit. Treat this
-      as the announced window and confirm on Kodaline's official site or
-      ticketing partner, since details can shift.
+    a: August 28–29, 2026, at UOB Live inside EmSphere on Sukhumvit. Treat this as the announced window and confirm on Kodaline's official site or ticketing partner, since details can shift.
   - q: How do I get to UOB Live / EmSphere?
-    a: >-
-      Take the BTS Sukhumvit Line to Phrom Phong Station — EmSphere connects
-      directly via skywalk to EmQuartier and the station, making it the most
-      reliable option on show nights.
+    a: Take the BTS Sukhumvit Line to Phrom Phong Station — EmSphere connects directly via skywalk to EmQuartier and the station, making it the most reliable option on show nights.
   - q: How much are tickets and where do I buy them?
-    a: >-
-      Prices and ticketing platforms haven't been detailed here; check
-      Kodaline's official channels or UOB Live's venue site for the authorized
-      seller and current pricing tiers.
+    a: The Kodaline Farewell Tour stop was held at UOB Live in Bangkok on 2026-08-29.
   - q: Is this really Kodaline's last tour?
-    a: >-
-      It's billed as their official farewell tour closing out over a decade of
-      hits, so expect a career-spanning setlist and likely stronger-than-usual
-      demand across both Bangkok nights.
+    a: It's billed as their official farewell tour closing out over a decade of hits, so expect a career-spanning setlist and likely stronger-than-usual demand across both Bangkok nights.
   - q: Where should I stay for two nights of shows?
-    a: >-
-      Basing yourself around Sukhumvit — Phrom Phong or Thong Lo — keeps you a
-      few BTS stops from the venue and puts you near plenty of restaurants for
-      the days between shows.
+    a: Basing yourself around Sukhumvit — Phrom Phong or Thong Lo — keeps you a few BTS stops from the venue and puts you near plenty of restaurants for the days between shows.
 aiGenerated: true
 draft: false
 eventRecurring: false
 eventOrganizer:
   name: Live Nation Tero Entertainment
-  url: 'https://www.livenationtero.co.th/'
+  url: https://www.livenationtero.co.th/
 eventOffers:
-  url: >-
-    https://www.livenationtero.co.th/en/event/kodaline-farewell-tour-bangkok-tickets-edp1661899
+  url: https://www.livenationtero.co.th/en/event/kodaline-farewell-tour-bangkok-tickets-edp1661899
 eventPerformer:
   name: Kodaline
   kind: group

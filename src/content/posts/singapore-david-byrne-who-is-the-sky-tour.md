@@ -27,7 +27,7 @@ faq:
   - q: What time should I arrive on the night?
     a: As a general rule for this venue, arriving 45-60 minutes early left buffer for security screening and finding your seat.
   - q: How long is the show?
-    a: Exact runtime hasn't been published, but Byrne's comparable theatrical tours (like American Utopia) have typically run around 100-110 minutes without an opener; treat this as a rough guide, not a guarantee.
+    a: Exact runtime wasn't published, but Byrne's comparable theatrical tours (like American Utopia) have typically run around 100-110 minutes without an opener; that served as a rough guide, not a guarantee.
   - q: What's nearby if I want to make a night of it?
     a: VivoCity mall sits right next to the venue with dining and shopping, and Sentosa Island's attractions (beaches, Universal Studios Singapore, cable car) are a short ride away if you want to extend the visit.
 aiGenerated: true

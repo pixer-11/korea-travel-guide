@@ -4,7 +4,8 @@ import { eventFuturePromise, timelessRetryMessages } from './writer.mjs';
 
 test('08-22 실제 사례 — quickAnswer·FAQ의 미래 약속을 잡는다', () => {
   assert.equal(eventFuturePromise({ quickAnswer: "Tickets and exact set times haven't been confirmed here, so check the official site.", body: '', faq: [] }), "haven't been confirmed");
-  assert.equal(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Date?', a: 'Check the official site closer to the event for updates.' }] }), 'closer to the event');
+  // The imperative branch (09-02) now claims the whole instruction, "Check the official site closer to" — the residue only has to name the phrase.
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Date?', a: 'Check the official site closer to the event for updates.' }] }), /closer to/);
   assert.equal(eventFuturePromise({ quickAnswer: 'x', body: 'Additional acts may be announced closer to the date.', faq: [] }), 'closer to the date');
 });
 
@@ -41,8 +42,8 @@ test('timeless retry answers the tool_use before asking again', () => {
 // the writer reads the one shared pattern, so it cannot learn a shape the
 // audit knows and the writer does not.
 test('월 이름에 걸린 약속도 같은 부류로 잡는다 — "closer to July 2026"', () => {
-  assert.equal(eventFuturePromise({ quickAnswer: 'x', body: 'Check the official event page closer to July 2026 for the loop.', faq: [] }), 'closer to July 2026');
-  assert.equal(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Times?', a: "Set times aren't fixed, so check official updates closer to August." }] }), 'closer to August');
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: 'Check the official event page closer to July 2026 for the loop.', faq: [] }), /closer to/);
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Times?', a: "Set times aren't fixed, so check official updates closer to August." }] }), /closer to/);
   // A dated span that describes the calendar is not a promise.
   assert.equal(eventFuturePromise({ quickAnswer: 'x', body: 'The earlier evenings (closer to August 2-3) tend to be quieter.', faq: [] }), null);
 });
