@@ -28,7 +28,7 @@ faq:
   - q: Where should I stay if Foxborough hotels are full?
     a: Consider Providence, RI, or the Boston/Norwood/Dedham area and drive or train in, especially since this is a two-night stand that will pressure nearby lodging.
   - q: How early should I arrive on show day?
-    a: Attendees were advised to arrive a few hours before the announced set time for security screening and merchandise lines, which moved slowly for major tours.
+    a: Attendees were advised to arrive a few hours before the announced set time for security screening and merchandise lines, which tend to move slowly for major tours. Exact gate times were not set at publication time.
   - q: Is this the same tour stopping elsewhere in the US?
     a: Yes — after Foxborough, the tour continues to AT&T Stadium in Arlington, Texas on August 15–16, 2026, as part of the same 79-date global run.
 aiGenerated: true
@@ -38,32 +38,33 @@ eventOrganizer:
   name: Live Nation
   url: https://www.livenation.com
 ---
+
 ## Why this stop matters
 
 Foxborough's leg of the tour was a big deal for a simple reason: it was BTS's first world tour since the members completed their mandatory South Korean military service, and Gillette Stadium was one of only a handful of North American venues hosting the run. The Foxborough dates (August 5–6, 2026) sat early in a 79-date global tour, with the group also playing AT&T Stadium in Arlington, Texas on August 15–16.
 
-For ARMY on the East Coast, this was the closest full-stadium show to New England, drawing fans from across Massachusetts, Connecticut, Rhode Island, and southern New Hampshire.
+For ARMY on the East Coast, this was expected to be the closest full-stadium show to New England, drawing fans from across Massachusetts, Connecticut, Rhode Island, and southern New Hampshire.
 
 ## Getting to Gillette Stadium
 
-Gillette Stadium sits in Foxborough, about 22 miles southwest of downtown Boston, at the Patriot Place complex. There's no direct subway line to the stadium, so most out-of-town visitors either drove in and used event parking lots on-site, or took the MBTA commuter rail's special event service from Boston's South Station to the Foxboro station, which runs on select event days with a walk of roughly a mile to the stadium gates.
+Gillette Stadium sits in Foxborough, about 22 miles southwest of downtown Boston, at the Patriot Place complex. There's no direct subway line to the stadium, so most out-of-town visitors either drive in and use event parking lots on-site, or take the MBTA commuter rail's special event service from Boston's South Station to the Foxboro station, which runs on select event days with a walk of roughly a mile to the stadium gates.
 
-Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, so extra walking time was worth budgeting. For drivers, lot traffic backing up for hours after the show was the expectation — leaving the parking area promptly or waiting out the initial crush were the two realistic options.
+Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, so extra walking time was worth budgeting. For drivers, lot traffic was expected to back up for hours after the show — leaving the parking area promptly or waiting out the initial crush were the two realistic options.
 
 ## What to expect on show day
 
-Concerts of this scale at Gillette usually mean gates opening a few hours before the announced set time, with stadium-wide security screening (bag policies at NFL/concert stadiums tend to restrict bag size significantly). Merchandise lines for major tours historically form early and move slowly, so fans chasing tour merch often arrived well before doors.
+Concerts of this scale at Gillette usually mean gates opening a few hours before the announced set time, with stadium-wide security screening (bag policies at NFL/concert stadiums tend to restrict bag size significantly). Merchandise lines for major tours historically form early and move slowly, so fans chasing tour merch often arrive well before doors.
 
 ## Where to stay and eat nearby
 
-Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue — useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors based themselves in Providence, RI, or the Boston/Norwood/Dedham area and drove or trained in for the show, especially across the two-night stand when demand for nearby rooms was highest.
+Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue — useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors were expected to base themselves in Providence, RI, or the Boston/Norwood/Dedham area and drive or train in for the show, especially across the two-night stand when demand for nearby rooms was expected to be highest.
 
 ## When to arrive and how long to stay
 
-For a stadium show of this size, a full evening was the expectation: gates hours before the show, the performance itself typically running two-plus hours for major K-pop stadium tours, and then a slow exit process afterward. For those combining the trip with Boston sightseeing, treating show day as its own dedicated day made sense — traffic and crowd logistics around Gillette make it impractical to squeeze in much else beforehand.
+For a stadium show of this size, plan for a full evening: gates hours before the show, the performance itself typically running two-plus hours for major K-pop stadium tours, and then a slow exit process afterward. If you're combining the trip with Boston sightseeing, treat show day as its own dedicated day — traffic and crowd logistics around Gillette make it impractical to squeeze in much else beforehand.
 
 ## How to visit like a local
 
-New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock — arriving at Foxboro station rather than driving was the move for those comfortable with the walk. The crowd for a BTS stadium show tends to be intensely global and multigenerational rather than purely local, so shared-fan etiquette mattered: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants ahead of time helped fans follow along rather than feel lost.
+New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock — arriving at Foxboro station rather than driving is the move if you're comfortable with the walk. The crowd for a BTS stadium show tends to be intensely global and multigenerational rather than purely local, so shared-fan etiquette matters: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants ahead of time helps fans follow along rather than feel lost.
 
-Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so cash wasn't something to rely on. The most common visitor mistake was underestimating exit logistics — leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear were really the only two options, so deciding in advance rather than getting stuck in the scrum was the smarter approach.
+Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so cash isn't something to rely on. The most common visitor mistake is underestimating exit logistics — leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear are really the only two options, so deciding in advance rather than getting stuck in the scrum is the smarter approach.

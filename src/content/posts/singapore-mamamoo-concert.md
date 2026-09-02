@@ -37,6 +37,7 @@ eventRecurring: false
 eventOrganizer:
   name: CK Star Entertainment
 ---
+
 ## Why this show mattered
 
 MAMAMOO — Solar, Moonbyul, Wheein, and Hwasa — are one of K-pop's most durable girl groups, known for vocal firepower, genre-hopping discography (from retro funk to ballads to hip-hop), and a reputation as one of the strongest live-vocal acts in the industry. The Singapore stop put them at the Singapore Indoor Stadium, a venue that regularly anchors the country's biggest K-pop and pop concerts, so this was treated as a marquee date on the 2026 regional touring calendar.
@@ -47,7 +48,7 @@ Fans travel in from Malaysia, Indonesia, Thailand, and beyond for shows at this 
 
 The Singapore Indoor Stadium sits in the Kallang area at 2 Stadium Walk, part of the Singapore Sports Hub. The most straightforward public transport option is the MRT: Stadium station on the Circle Line puts you within a short, well-signed walk of the arena, and Kallang station on the East-West Line is a slightly longer but still walkable alternative if Stadium is congested post-show.
 
-On concert nights, the Sports Hub precinct was expected to be busy with crowd-control barriers and staggered exits, so extra time for the walk from the station was worth budgeting. For those taking a taxi or ride-hail app, designated pickup/drop-off zones around the Sports Hub applied, since roads closest to the stadium are often restricted for arena events. Driving is possible via the on-site OCBC Square multi-storey car park, though it tends to fill up fast on show nights.
+On concert nights, the Sports Hub precinct was expected to be busy with crowd-control barriers and staggered exits, so extra time for the walk from the station was worth budgeting. For those taking a taxi or ride-hail app, designated pickup/drop-off zones around the Sports Hub were expected to apply, since roads closest to the stadium are often restricted for arena events. Driving is possible via the on-site OCBC Square multi-storey car park, though it tends to fill up fast on show nights.
 
 ## What to expect on the night
 
@@ -63,6 +64,6 @@ Given MAMAMOO's fanbase size, popular tiers were expected to sell out quickly af
 
 ## Where to stay and what's nearby
 
-The Kallang/Sports Hub area is well connected to central Singapore, so staying near Bugis, Kallang, or the Marina Bay area kept visitors within a 10–20 minute MRT or taxi ride of the venue. Before or after the show, the Kallang Riverside area and nearby Old Airport Road Food Centre offered a good, low-key hawker food option for a proper Singaporean meal without straying far.
+The Kallang/Sports Hub area is well connected to central Singapore, so staying near Bugis, Kallang, or the Marina Bay area keeps visitors within a 10–20 minute MRT or taxi ride of the venue. Before or after the show, the Kallang Riverside area and nearby Old Airport Road Food Centre offer a good, low-key hawker food option for a proper Singaporean meal without straying far.
 
-For those building a longer trip around the concert, pairing the show with a day at Gardens by the Bay or Marina Bay Sands, both roughly 15–20 minutes away by taxi, was a popular option.
+For those building a longer trip around the concert, pairing the show with a day at Gardens by the Bay or Marina Bay Sands, both roughly 15–20 minutes away by taxi, was an option.

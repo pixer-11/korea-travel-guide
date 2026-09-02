@@ -15,6 +15,15 @@
 //  change nothing else, and shift the tense — it may not invent an outcome
 //  ("the festival was a success"), because nobody here knows what happened.
 //
+//  Saying so in the prompt was not enough. On 2026-09-02 this tool ran over 41
+//  ended events and turned predictions into results in 34 of them — "expect
+//  fans to fly in" became "Fans flew in from across the Gulf", "the shuttle
+//  runs on event days" became "the shuttle ran … the option most concertgoers
+//  used" — and the guard, which measured length, headings and the promise
+//  regexes, let every one through. So the guard now reads the output against
+//  the input (scripts/lib/invented-outcomes.mjs): a sentence that claims an
+//  outcome the source never stated is refused and logged, never written.
+//
 //   DRY=1 node scripts/fix-ended-event-tense.mjs    # show the rewrites
 //   node scripts/fix-ended-event-tense.mjs          # apply
 // ─────────────────────────────────────────────────────────────
@@ -24,11 +33,11 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { isSentenceEnd } from '../src/lib/sentence-boundary.mjs';
 import { preservesSubstance } from '../src/lib/rewrite-guard.mjs';
 // The audit (validate-content.mjs) reads the same two patterns from here, so a
 // shape one side learns cannot go missing on the other.
 import { OFFENDING_CLAIM } from '../src/lib/ended-event-claims.mjs';
+import { inventedOutcomes, splitSentences } from './lib/invented-outcomes.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const DRY = process.env.DRY === '1';
@@ -39,7 +48,7 @@ const MODEL = 'claude-sonnet-5';
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 
-async function rewrite(kind, text, title, endedOn, residue = null) {
+async function rewrite(kind, text, title, endedOn, residue = null, invented = null) {
   const msg = await client.messages.create({
     model: MODEL,
     // Shifting a tense is clerical work — every fact is already in the text and
@@ -67,11 +76,12 @@ async function rewrite(kind, text, title, endedOn, residue = null) {
     messages: [{
       role: 'user',
       content: `This is the ${kind} of a travel guide for "${title}", an event that ENDED on ${endedOn}. It was written before the event, so it still points readers at things that will happen.
-${residue ? `\nA previous attempt left this phrasing in place: "${residue}". That exact phrasing must not survive — rewrite or delete the sentence containing it.\n` : ''}
+${residue ? `\nA previous attempt left this phrasing in place: "${residue}". That exact phrasing must not survive — rewrite or delete the sentence containing it.\n` : ''}${invented ? `\nA previous attempt invented an outcome: "${invented}". The original never said that happened. Say "was scheduled to", "was announced as", "organisers planned", "the published plan was" — or delete the sentence.\n` : ''}
 
 Rewrite it so it reads correctly AFTER the event, following these rules exactly:
 - Keep every concrete fact (dates, venue, city, names, prices, numbers) exactly as written.
 - Change forward-looking guidance into past or neutral phrasing ONLY where the text already carries the fact. "Doors open at 6pm" → "Doors opened at 6pm."
+- The original predicted or advised; your rewrite must not claim that anything happened, ran, drew, was used, applied, took place, or how the crowd behaved, unless the original already stated it as fact. "Expect fans to fly in from across the Gulf" may NOT become "Fans flew in from across the Gulf"; "the shuttle runs on event days" may NOT become "the shuttle ran and was the option most people used". Allowed forms: "was scheduled to", "was announced as", "organisers planned", "the published plan was", a timeless present for a standing fact, or deleting the sentence.
 - If a sentence only told the reader to go and find something out ("check the official site closer to the date", "the lineup will be announced"), that means WE NEVER LEARNED THE ANSWER. DELETE that sentence. Do not convert it into a claim that it happened: writing "details were published on the official site" invents a fact exactly as much as inventing the attendance would. An earlier version of this prompt offered that sentence as a model answer and put it into fifteen live guides.
 - NEVER invent what happened. You do not know attendance, weather, who played, or whether it went well. Do not add any outcome.
 - Do not add a sentence saying the event has ended — the page already shows that.
@@ -99,16 +109,24 @@ ${text}`,
 // Same lesson fix-hours-claims learned on 2026-08-08: tell the model WHICH
 // phrase failed, and try again.
 async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
-  let best = null, residue = null;
+  let residue = null, invented = null;
   for (let i = 0; i < tries; i++) {
-    const out = await rewrite(kind, text, title, endedOn, residue);
+    const out = await rewrite(kind, text, title, endedOn, residue, invented);
     if (!out) continue;
     if (!keptSubstance(text, out, kind)) {
       console.log(`   ⚠️  attempt ${i + 1} came back short or cut off — discarded`);
       continue;
     }
+    // The 09-02 defect: a promise gone, an outcome in its place. Read the
+    // answer against the source and tell the model which sentence it made up.
+    const madeUp = inventedOutcomes(text, out);
+    if (madeUp.length) {
+      console.log(`   ⚠️  attempt ${i + 1} invented an outcome ("${madeUp[0].verb}"): ${madeUp[0].sentence.slice(0, 120)} — discarded`);
+      invented = madeUp[0].sentence;
+      residue = out.match(OFFENDING_CLAIM)?.[0] ?? null;
+      continue;
+    }
     if (!OFFENDING_CLAIM.test(out)) return out;
-    best = out;
     residue = out.match(OFFENDING_CLAIM)?.[0] ?? null;
   }
   // Fall back from the ORIGINAL text, not from a rejected attempt: the
@@ -166,7 +184,9 @@ async function sentenceLevelPass(kind, text, title, endedOn) {
       if (!OFFENDING_CLAIM.test(sentence)) { kept.push(sentence); continue; }
       const fixed = await rewrite('single sentence', sentence.trim(), title, endedOn, sentence.match(OFFENDING_CLAIM)?.[0]);
       touched = true;
-      if (fixed && !OFFENDING_CLAIM.test(fixed) && fixed.length < sentence.length * 3) kept.push(` ${fixed}`);
+      const madeUp = fixed ? inventedOutcomes(sentence, fixed) : [];
+      if (madeUp.length) console.log(`   ↳ sentence pass invented "${madeUp[0].verb}" — sentence dropped instead`);
+      else if (fixed && !OFFENDING_CLAIM.test(fixed) && fixed.length < sentence.length * 3) kept.push(` ${fixed}`);
       // else: dropped
     }
     paras[pi] = kept.join('').replace(/\s+/g, ' ').trim();
@@ -185,17 +205,14 @@ async function sentenceLevelPass(kind, text, title, endedOn) {
     console.log('   ↳ sentence pass lost too much — discarded');
     return null;
   }
-  console.log('   ↳ sentence-level pass cleared it');
-  return out;
-}
-
-function splitSentences(text) {
-  const out = [];
-  let start = 0;
-  for (let i = 0; i < text.length; i++) {
-    if (isSentenceEnd(text, i)) { out.push(text.slice(start, i + 1)); start = i + 1; }
+  // Belt and braces: every sentence was checked on the way in, but the
+  // whole is what gets written, so the whole is what gets refused.
+  const madeUp = inventedOutcomes(text, out);
+  if (madeUp.length) {
+    console.log(`   ↳ sentence pass left an invented outcome ("${madeUp[0].verb}") — discarded`);
+    return null;
   }
-  if (start < text.length) out.push(text.slice(start));
+  console.log('   ↳ sentence-level pass cleared it');
   return out;
 }
 

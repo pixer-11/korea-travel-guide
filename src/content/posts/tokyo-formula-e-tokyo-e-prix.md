@@ -22,7 +22,7 @@ tags:
 quickAnswer: The Formula E Tokyo E-Prix took place on July 25-26, 2026 on the Tokyo Street Circuit, marking one of the first times international open-wheel electric racing ran on closed public roads in central Tokyo. The race weekend was held in the Odaiba/waterfront or central business district area and included practice, qualifying, and the main E-Prix race across the two days.
 faq:
   - q: Where exactly is the Tokyo Street Circuit?
-    a: The precise street circuit layout and district were not detailed in this guide. The event took place on July 25-26, 2026.
+    a: The precise street circuit layout and district were not detailed in this guide. The event was scheduled for July 25-26, 2026.
   - q: How do I get tickets?
     a: Ticket sale dates and pricing were not announced ahead of time. As is typical for street circuit races, ticket releases often come in tiers (general admission, grandstand, hospitality).
   - q: What's the best way to reach the venue from Narita or Haneda airport?
@@ -40,21 +40,22 @@ eventOffers:
   url: https://jp.fiaformulae.com/tickets
 eventFactsAsked: true
 ---
+
 ## Why go
 
-Formula E's arrival in Tokyo was a landmark moment for the all-electric racing series, which had previously raced in cities like London, Monaco, Jakarta, and Sao Paulo on temporary street circuits rather than purpose-built tracks. A Tokyo Street Circuit race meant the cars — silent-ish, fast, and built for tight urban corners — ran through or alongside real city infrastructure, a spectacle very different from watching Formula 1 at a permanent track like Suzuka.
+Formula E's arrival in Tokyo was a landmark moment for the all-electric racing series, which had previously raced in cities like London, Monaco, Jakarta, and Sao Paulo on temporary street circuits rather than purpose-built tracks. A Tokyo Street Circuit race was expected to mean the cars — silent-ish, fast, and built for tight urban corners — would run through or alongside real city infrastructure, a spectacle very different from watching Formula 1 at a permanent track like Suzuka.
 
 For motorsport fans already familiar with Japan's Super Formula and Super GT scenes, this was a chance to see how an all-electric series handled a Japanese street layout, and for general visitors it was a rare "closed roads, race cars, city skyline" event happening in the world's largest metropolitan area.
 
 ## Getting there
 
-Tokyo is served by two major international airports: Narita (NRT), about 60-90 minutes from central Tokyo via the Narita Express or Keisei Skyliner, and Haneda (HND), which is much closer to the city center — often 30-45 minutes by monorail or Keikyu line to Shinagawa. Once in the city, Tokyo's subway and JR train network was the most reliable way to reach the circuit venue, especially since race weekends typically bring road closures that disrupt bus routes and taxis near the track.
+Tokyo is served by two major international airports: Narita (NRT), about 60-90 minutes from central Tokyo via the Narita Express or Keisei Skyliner, and Haneda (HND), which is much closer to the city center — often 30-45 minutes by monorail or Keikyu line to Shinagawa. Once in the city, Tokyo's subway and JR train network is the most reliable way to reach any street circuit venue, especially since race weekends typically bring road closures that disrupt bus routes and taxis near the track.
 
 ## What to expect on race weekend
 
-Formula E weekends typically follow a two-day format: free practice and qualifying on the first day, followed by the main E-Prix race on the second, often bundled with support races, driver appearances, and a fan village with sponsor activations, merchandise stalls, and simulator or interactive exhibits for visitors who weren't glued to the grandstand. The Tokyo edition leaned into local flavor — food vendors, tech and mobility exhibitors, and crossover with Japan's strong automotive and gaming culture.
+Formula E weekends typically follow a two-day format: free practice and qualifying on the first day, followed by the main E-Prix race on the second, often bundled with support races, driver appearances, and a fan village with sponsor activations, merchandise stalls, and simulator or interactive exhibits for visitors who aren't glued to the grandstand. The Tokyo edition was expected to lean into local flavor — food vendors, tech and mobility exhibitors, and likely some crossover with Japan's strong automotive and gaming culture.
 
-Formula E cars are quieter than combustion race cars, though the PA system, crowd noise, and support races could still get loud. Grandstand seating near hairpin turns or the start/finish straight tended to offer the best combination of overtaking action and pit lane views.
+Formula E cars are quieter than combustion race cars, though the PA system, crowd noise, and support races can still get loud. Grandstand seating near hairpin turns or the start/finish straight tends to offer the best combination of overtaking action and pit lane views.
 
 ## Tokyo in July
 
@@ -62,4 +63,4 @@ Late July in Tokyo means peak summer heat and humidity, with temperatures common
 
 ## Nearby & tips
 
-Whichever district hosted the circuit, Tokyo rewarded extending the trip beyond race day — this is a city where world-class food, shopping, and neighborhoods like Shibuya, Asakusa, and Ginza are all within a short train ride of nearly anywhere. Race weekends compressed hotel availability in the surrounding wards.
+Whichever district hosted the circuit, Tokyo rewards extending the trip beyond race day — this is a city where world-class food, shopping, and neighborhoods like Shibuya, Asakusa, and Ginza are all within a short train ride of nearly anywhere. Race weekends were expected to compress hotel availability in the surrounding wards.

@@ -39,23 +39,24 @@ heroImage:
     'y': 55
 eventFactsAsked: true
 ---
+
 ## Why go
 
 The Wuhan Open was one of the stops on the World Snooker Tour's ranking circuit, the same tour that decides world rankings and feeds into the World Championship at the Crucible. For 2026, the tour had Wuhan pencilled in for August 23-29 — a full week of professional snooker, which typically means qualifying-adjacent rounds early on building toward quarterfinals, semifinals and a final at the back end of the week.
 
 If you've never watched top-level snooker live, the thing that surprises most first-timers is the silence: a single arena of a few thousand people holding its breath while a player lines up a long red, then the sharp crack of contact and a ripple of applause that the players barely acknowledge before resetting for the next shot.
 
-China has become a genuine second home for snooker over the past decade, and cities like Wuhan turn out crowds that know the game in real depth — audible reactions to safety shots, not just potted balls. That local sophistication is part of the appeal: watching a serious ranking event in front of a knowledgeable crowd, rather than a novelty exhibition.
+China has become a genuine second home for snooker over the past decade, and cities like Wuhan turn out crowds that know the game in real depth — audible reactions to safety shots, not just potted balls. That local sophistication is part of the appeal: you're not watching a novelty exhibition, you're watching a serious ranking event in front of a knowledgeable crowd.
 
 ## Getting there
 
-Wuhan is a major rail and air hub in central China, so getting into the city itself was straightforward — Wuhan Tianhe International Airport connects to most Chinese cities and a growing number of international routes, and the high-speed rail network puts Wuhan within a few hours of Beijing, Shanghai, and Guangzhou. Wuhan's metro system is extensive and covers most of the city.
+Wuhan is a major rail and air hub in central China, so getting into the city itself is straightforward — Wuhan Tianhe International Airport connects to most Chinese cities and a growing number of international routes, and the high-speed rail network puts Wuhan within a few hours of Beijing, Shanghai, and Guangzhou. The specific venue for the 2026 event wasn't locked into this guide because it was still subject to confirmation. Wuhan's metro system is extensive and covers most of the city.
 
 ## What to expect at the venue
 
 Ranking events on the World Snooker Tour follow a familiar rhythm even when the city changes: practice and early rounds tend to be looser and cheaper to watch, with smaller crowds and players warming into form, while the business end of the week — quarters, semis, and the final on the closing day — draws the fullest houses and the tightest atmosphere.
 
-A single main table under bright, focused lighting is typically used for featured matches, with side tables running earlier rounds simultaneously in a bigger, dimmer hall. Big screens usually show close-ups of the baize so spectators can see the angles being played, which matters more than you'd think given how far spectators sit from the table itself.
+A single main table under bright, focused lighting was typically used for featured matches, with side tables running earlier rounds simultaneously in a bigger, dimmer hall. Big screens usually show close-ups of the baize so spectators can see the angles being played, which matters more than you'd think given how far spectators sit from the table itself.
 
 ## Tickets and planning
 
@@ -69,4 +70,4 @@ Chinese snooker crowds tend to arrive well before a session's advertised start t
 
 Etiquette-wise, snooker crowds go quiet the instant a player is down over the cue, and phones are expected to be silenced, not just muted for calls — a stray photo flash or shutter click during a shot draws visible disapproval from neighbours. The mistake newcomers most often make is treating it like a casual sports match: venue staff hold latecomers at the door until a natural break in play once frames are underway.
 
-Early-week session tickets for the earlier rounds were generally the cheapest and least crowded option, with the semifinal and final sessions drawing the biggest names still in the draw.
+An early-week session ticket for the earlier rounds was generally the cheapest and least crowded option, with the semifinal and final sessions drawing the biggest names still in the draw.

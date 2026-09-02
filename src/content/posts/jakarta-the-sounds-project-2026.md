@@ -13,7 +13,7 @@ eventEndDate: '2026-08-09'
 tags:
   - jakarta
   - event
-quickAnswer: The Sounds Project 2026 ran August 7–9, 2026 in Jakarta, headlined by Australian rock band Jet alongside a strong local lineup — Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara.
+quickAnswer: The Sounds Project 2026 was scheduled to run August 7–9, 2026 in Jakarta, headlined by Australian rock band Jet alongside a strong local lineup — Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara.
 faq:
   - q: What are the exact dates for The Sounds Project 2026?
     a: The Sounds Project 2026 took place August 7–9, 2026, in Jakarta, Indonesia.
@@ -36,19 +36,20 @@ heroImage:
     x: 50
     'y': 55
 ---
+
 ## Why this one's worth planning around
 
-Jakarta's festival calendar is crowded, but The Sounds Project carved out a niche by pairing one international rock or alt act with a deep bench of Indonesian talent that actually headlines in its own right, rather than playing warm-up. The 2026 edition leaned into that formula hard: Jet, the Melbourne band behind "Are You Gonna Be My Girl," shared billing with Pamungkas (Indonesia's biggest bedroom-pop-turned-arena export), R&B crooner Rizky Febian, alt-rockers JUICY LUICY and For Revenge, and Barasuara, whose brooding, literary Indonesian rock has made them a festival institution in their own right.
+Jakarta's festival calendar is crowded, but The Sounds Project carved out a niche by pairing one international rock or alt act with a deep bench of Indonesian talent that actually headlines in its own right, rather than playing warm-up. The 2026 edition was planned around that formula: Jet, the Melbourne band behind "Are You Gonna Be My Girl," was billed alongside Pamungkas (Indonesia's biggest bedroom-pop-turned-arena export), R&B crooner Rizky Febian, alt-rockers JUICY LUICY and For Revenge, and Barasuara, whose brooding, literary Indonesian rock has made them a festival institution in their own right.
 
 For a visitor, that mix was the draw — a genuine cross-section of what's playing on Jakarta radio and in its indie clubs, not just a nostalgia act flown in to sell tickets.
 
 ## The dates
 
-The event ran August 7–9, 2026, a three-day run in Jakarta. Past editions of the festival have used large outdoor event grounds in South and Central Jakarta.
+The event was scheduled for August 7–9, 2026, a three-day run in Jakarta. Past editions of the festival have used large outdoor event grounds in South and Central Jakarta.
 
 ## Getting there and getting around
 
-Jakarta's festival grounds are typically reachable by a combination of the MRT (Jakarta's north-south line through Blok M, Senayan, and Bundaran HI) and ride-hailing apps like Gojek or Grab, which are the default way locals cover the last mile to any large event site. If the venue was near Gelora Bung Karno (GBK) — a frequent host for festivals of this scale — the nearest MRT stations are Senayan and Istora Mandiri.
+Jakarta's festival grounds are typically reachable by a combination of the MRT (Jakarta's north-south line through Blok M, Senayan, and Bundaran HI) and ride-hailing apps like Gojek or Grab, which are the default way locals cover the last mile to any large event site. If the 2026 venue was near Gelora Bung Karno (GBK) — a frequent host for festivals of this scale — the nearest MRT stations are Senayan and Istora Mandiri.
 
 Traffic around big concerts backs up fast, so it's worth budgeting significantly more time than Google Maps suggests for events like this. Taxis and ride-hail surge pricing tend to kick in hard once a show lets out.
 
@@ -60,8 +61,8 @@ Indonesian festival crowds tend to be enthusiastic but good-natured; singing alo
 
 ## How to visit like a local
 
-Jakarta festivals with a strong local lineup like this one tend to sell out their early-bird tiers fast, and locals know the cheapest tickets vanish first. Payment at the gate and inside is increasingly cashless: festival wristbands or app-based balances loaded via QRIS (Indonesia's ubiquitous QR payment standard) are common rather than cash for food and drinks.
+Jakarta festivals with a strong local lineup like this one tend to sell out their early-bird tiers fast, and locals know the cheapest tickets vanish first. Payment at the gate and inside is increasingly cashless: festival wristbands or app-based balances loaded via QRIS (Indonesia's ubiquitous QR payment standard) were expected to be used rather than cash for food and drinks, so set that up in advance if you're visiting from abroad.
 
-Dress light and closed-toe was the general advice — flip-flops are common but standing for hours on packed grounds favors real shoes. Most Jakarta festivalgoers tend to arrive well after doors open and skip the opening acts to avoid standing around in the heat, then move closer to the stage as the sun sets.
+Dress light and closed-toe — flip-flops are common but standing for hours on packed grounds favors real shoes. Most Jakarta festivalgoers tend to arrive well after doors open and skip the opening acts to avoid standing around in the heat, then move closer to the stage as the sun sets; if you actually want a good spot for Jet or Barasuara, plan to arrive earlier than the locals do.
 
 Jakarta festival schedules are often confirmed only days before an event, a detail that catches visitors expecting fixed set times published far in advance, as with a Western festival.

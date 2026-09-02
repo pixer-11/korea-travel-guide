@@ -38,6 +38,7 @@ eventOffers:
   url: https://bwfworldchampionships.bwfbadminton.com/
 eventFactsAsked: true
 ---
+
 ## Why go
 
 Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and 2026 marked the first time in 17 years that India got to host it. That alone made the week a landmark for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young.
@@ -46,22 +47,22 @@ For visitors, it was also a reason to combine world-class sport with a first (or
 
 ## Getting there and venue basics
 
-The tournament ran **August 17–23, 2026** at the **Indira Gandhi Arena** (also known as Indira Gandhi Indoor Stadium), a longstanding multi-purpose indoor venue in central Delhi near India Gate and the Delhi Cantonment area. It's a well-established sporting venue that has hosted Commonwealth Games events and previous international badminton, so it was built for large crowds, media, and international broadcast.
+The tournament was scheduled for **August 17–23, 2026** at the **Indira Gandhi Arena** (also known as Indira Gandhi Indoor Stadium), a longstanding multi-purpose indoor venue in central Delhi near India Gate and the Delhi Cantonment area. It's a well-established sporting venue that has hosted Commonwealth Games events and previous international badminton, so it's built for large crowds, media, and international broadcast.
 
-Delhi's international gateway is Indira Gandhi International Airport (DEL), connected to the city center by the Airport Express Metro Line, which runs into New Delhi Railway Station in around 20 minutes. From there, the Delhi Metro network (Yellow, Blue, and Violet lines connect through central interchange stations like Rajiv Chowk and Central Secretariat) was the most reliable way to reach the arena area, especially during tournament week when road traffic around major venues tends to spike.
+Delhi's international gateway is Indira Gandhi International Airport (DEL), connected to the city center by the Airport Express Metro Line, which runs into New Delhi Railway Station in around 20 minutes. From there, the Delhi Metro network (Yellow, Blue, and Violet lines connect through central interchange stations like Rajiv Chowk and Central Secretariat) is the most reliable way to reach the arena area, especially during tournament week when road traffic around major venues tends to spike.
 
 ## What to expect during the week
 
-The tournament followed the standard World Championships format: five days of qualifying and early rounds (singles and doubles across men's, women's, and mixed draws) building toward quarterfinals, semifinals, and finals on the closing weekend of August 22–23. Session tickets are usually sold separately for morning and evening blocks, with final-day sessions commanding the highest demand and price.
+The tournament was scheduled to follow the standard World Championships format: five days of qualifying and early rounds (singles and doubles across men's, women's, and mixed draws) building toward quarterfinals, semifinals, and finals on the closing weekend of August 22–23. Session tickets are usually sold separately for morning and evening blocks, with final-day sessions commanding the highest demand and price.
 
 Beyond the court, Delhi's badminton culture runs deep — India has produced a run of world-class players over the past two decades, so local crowds tend to be knowledgeable and vocal, especially for matches involving Indian players like Sen and Sindhu.
 
 ## When to go and what else to see
 
-August in Delhi falls within the monsoon season: expect hot, humid days (highs commonly in the low-to-mid 30s°C) with intermittent heavy rain, so indoor comfort at the arena contrasted with wet, sticky weather outside it. It's shoulder season for tourism, meaning hotel rates and flights tend to be more reasonable than in Delhi's popular winter high season (October–March).
+August in Delhi falls within the monsoon season: expect hot, humid days (highs commonly in the low-to-mid 30s°C) with intermittent heavy rain, so plan for indoor comfort at the arena but pack for wet, sticky weather outside it. It's shoulder season for tourism, meaning hotel rates and flights tend to be more reasonable than in Delhi's popular winter high season (October–March).
 
-Downtime between sessions was a chance to see Delhi's landmark sites, many an easy metro ride from the venue: Humayun's Tomb, India Gate, the Lodhi Garden ruins, and the bazaars of Old Delhi around Chandni Chowk and Jama Masjid. Connaught Place, Delhi's central shopping and dining hub, offered a convenient base with metro access on the Yellow and Blue lines.
+Use downtime between sessions to see Delhi's landmark sites, many an easy metro ride from the venue: Humayun's Tomb, India Gate, the Lodhi Garden ruins, and the bazaars of Old Delhi around Chandni Chowk and Jama Masjid. Connaught Place, Delhi's central shopping and dining hub, is a convenient base with metro access on the Yellow and Blue lines.
 
 ## Practical tips
 
-Central Delhi (Connaught Place, Lutyens' Delhi, or South Delhi) worked well as a base for accommodation rather than near the airport alone, since the arena sits close to the city center. Match sessions required time to spare for security screening, standard at major Indian sporting events.
+Book accommodation in central Delhi (Connaught Place, Lutyens' Delhi, or South Delhi) rather than near the airport alone, since the arena sits close to the city center. Arrive at match sessions with time to spare for security screening, standard at major Indian sporting events.

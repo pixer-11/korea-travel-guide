@@ -26,7 +26,7 @@ faq:
   - q: How do I get to Estadi Olímpic Lluís Companys?
     a: Take Metro Line 1 to Plaça Espanya and walk about 20–25 minutes uphill, or use the Montjuïc funicular (linked to Metro Line 2/3 at Paral·lel) for a shorter climb. Event shuttle buses often run from Espanya on show nights.
   - q: Where can I buy tickets and how much do they cost?
-    a: Tickets were sold through official channels like Ticketmaster Spain and The Weeknd's tour site. Prices varied by tier.
+    a: Tickets were sold through official channels like Ticketmaster Spain and The Weeknd's tour site. Prices varied by tier and weren't fixed here — the official listing had current pricing and availability.
   - q: How early should I arrive?
     a: Stadium shows usually open gates several hours before the headline set with a support act beforehand. Arriving in the first hour after doors open, rather than right at opening, tends to avoid the worst entry crush while still giving you time to find a good spot.
   - q: Is there anything to do near the venue before the show?

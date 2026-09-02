@@ -40,23 +40,24 @@ eventOffers:
   url: https://georgetownfestival.com/
 eventFactsAsked: true
 ---
+
 ## Why go
 
-Every August, the UNESCO World Heritage core of George Town stops being just a beautifully preserved backdrop of pastel shophouses, ornate clan jetties, and pre-war godowns, and becomes a working stage. That's the premise of the George Town Festival, in its 17th edition, and for 2026 it ran under the theme "Beyond Boundaries" from August 1 to 9. Over 40 international arts, theatre, dance, and music programmes were promised, spread through the historic enclave rather than boxed into a single venue — meaning the festival essentially annexed the streets, courtyards, and old buildings visitors would already be wandering.
+Every August, the UNESCO World Heritage core of George Town stops being just a beautifully preserved backdrop of pastel shophouses, ornate clan jetties, and pre-war godowns, and becomes a working stage. That's the premise of the George Town Festival, now in its 17th edition, and for 2026 it was scheduled to run under the theme "Beyond Boundaries" from August 1 to 9. Over 40 international arts, theatre, dance, and music programmes were promised, spread through the historic enclave rather than boxed into a single venue — meaning the festival was set to essentially annex the streets, courtyards, and old buildings you'd already be wandering as a visitor.
 
 You come for the performances, but you stay because the setting does half the work: a five-foot-way turned into a queue for a sold-out theatre piece, a converted warehouse humming with a sound installation, laundry still hanging above an alley where a brass band is warming up.
 
 ## Getting there
 
-George Town sits on the northeastern tip of Penang Island, reachable by the Penang International Airport (around 20km south, roughly a 40-minute taxi or Grab ride) or via the Penang Bridge and the newer Sultan Abdul Halim Muadzam Shah Bridge if coming overland from the mainland. Once in George Town, the festival's spread-out nature meant constant walking — the UNESCO core (roughly bounded by Love Lane, Chulia Street, Beach Street, and Armenian Street) is compact enough to cross on foot in 20 minutes, but individual venues could be scattered further into the Little India and Chinatown pockets.
+George Town sits on the northeastern tip of Penang Island, reachable by the Penang International Airport (around 20km south, roughly a 40-minute taxi or Grab ride) or via the Penang Bridge and the newer Sultan Abdul Halim Muadzam Shah Bridge if coming overland from the mainland. Once in George Town, the festival's spread-out nature meant you'd be walking constantly — the UNESCO core (roughly bounded by Love Lane, Chulia Street, Beach Street, and Armenian Street) is compact enough to cross on foot in 20 minutes, but individual venues could be scattered further into the Little India and Chinatown pockets.
 
 Trishaws and Grab were the practical fallback for hopping between far-flung venues without wasting festival time walking in the August heat.
 
 ## What to expect
 
-The festival mixed ticketed theatre and dance in restored heritage buildings, free outdoor performances and installations in public squares, and a visual arts strand that often takes over shopfronts and courtyards for the festival's run.
+The published plan was a mix of ticketed theatre and dance in restored heritage buildings, free outdoor performances and installations in public squares, and a visual arts strand that often takes over shopfronts and courtyards for the festival's run.
 
-Past editions have paired local Penang troupes with touring international companies, so the "Beyond Boundaries" theme likely played out as literal cross-border collaboration as much as thematic content.
+Past editions have paired local Penang troupes with touring international companies, so the "Beyond Boundaries" theme was expected to play out as literal cross-border collaboration as much as thematic content.
 
 ## Where to base yourself
 
@@ -64,7 +65,7 @@ Staying inside or right at the edge of the UNESCO zone was worth the premium dur
 
 ## How to visit like a local
 
-Locals treat the festival as a reason to finally see the inside of buildings they walk past all year — old clan jetties, converted godowns, colonial-era halls — so the free fringe and outdoor programme, which tends to be less crowded, was as much a draw as the headline ticketed shows. Early evening, before the main event slots, was generally calmer for wandering the core streets and catching pop-up or street performances; the crush built after dark as multiple shows let out around the same time and everyone spilled onto the same few lanes.
+Locals treat the festival as a reason to finally see the inside of buildings they walk past all year — old clan jetties, converted godowns, colonial-era halls — so don't just chase headline ticketed shows; the free fringe and outdoor programme tends to be less crowded and just as memorable. Early evening, before the main event slots, is generally calmer for wandering the core streets and catching pop-up or street performances; the crush builds after dark as multiple shows let out around the same time and everyone spills onto the same few lanes.
 
 Street food and small vendors were generally a cash (ringgit) affair, though most cafés and ticketed venues took cards. Popular ticketed slots were the kind that could sell out. The single biggest mistake visitors could make was treating this like a single-site event: the next venue might be a 15-minute walk through narrow streets, not a quick hop next door.
 

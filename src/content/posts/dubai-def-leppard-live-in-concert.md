@@ -22,7 +22,7 @@ tags:
 quickAnswer: Def Leppard are booked to play Coca-Cola Arena in Dubai on August 2, 2026 — a single-night stop, so tickets and exact set times should be confirmed on the venue's official site or Ticketmaster UAE well before you plan travel. Arrive at City Walk / Coca-Cola Arena with time to clear bag checks and find your gate, since arena shows here fill the surrounding plaza fast in the hour before doors.
 faq:
   - q: When exactly is Def Leppard playing Dubai?
-    a: The show took place on August 2, 2026, at Coca-Cola Arena.
+    a: The show was scheduled for August 2, 2026, at Coca-Cola Arena.
   - q: How do I get to Coca-Cola Arena without a car?
     a: Take the Dubai Metro to Business Bay or Burjuman station, then a short taxi or rideshare to City Walk, since no Metro line runs directly to the venue.
   - q: Where can I buy tickets safely?

@@ -19,7 +19,7 @@ gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: ATEEZ brought their IN YOUR FANTASY World Tour to Istanbul on August 16, 2026 — the group's first-ever show in the city. Venue, doors time, and ticket tiers were not recorded in this guide; ATEEZ's official social channels and KQ Entertainment's announcements are the source for any future Istanbul dates.
+quickAnswer: ATEEZ's IN YOUR FANTASY World Tour was scheduled to stop in Istanbul on August 16, 2026 — the group's first-ever show in the city. Venue, doors time, and ticket tiers were not recorded in this guide; ATEEZ's official social channels and KQ Entertainment's announcements are the source for any future Istanbul dates.
 faq:
   - q: Is the venue for the Istanbul show confirmed?
     a: Not as part of the verified details available here — only the date, August 16, 2026, is set. Check ATEEZ's official social media and KQ Entertainment announcements for the confirmed venue before booking travel.

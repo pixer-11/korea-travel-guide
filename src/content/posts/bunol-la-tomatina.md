@@ -22,7 +22,7 @@ tags:
 quickAnswer: La Tomatina takes place on the last Wednesday of August (announced as August 26, 2026) in the small town of Buñol, about 40km west of Valencia. Tickets are required, capped in number, and sell out via the official website — buy in advance, arrive early, and confirm exact start time, entry points, and price on the official La Tomatina site before you travel. The fight itself lasts about an hour, but the town's build-up events run for a full week.
 faq:
   - q: What is the exact date of La Tomatina 2026?
-    a: La Tomatina was held on August 26, 2026, the last Wednesday of August as per tradition.
+    a: It was announced for August 26, 2026, the last Wednesday of August as per tradition.
   - q: Do I need a ticket, and how much does it cost?
     a: Yes, entry to the tomato-fight zone is capped and ticketed; tickets sell out in advance most years. Check the official site for current pricing and packages rather than relying on resellers.
   - q: How do I get from Valencia to Buñol?

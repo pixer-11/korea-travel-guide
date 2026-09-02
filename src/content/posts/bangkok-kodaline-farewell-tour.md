@@ -26,7 +26,7 @@ faq:
   - q: How do I get to UOB Live / EmSphere?
     a: Take the BTS Sukhumvit Line to Phrom Phong Station — EmSphere connects directly via skywalk to EmQuartier and the station, making it the most reliable option on show nights.
   - q: How much are tickets and where do I buy them?
-    a: The Kodaline Farewell Tour stop was held at UOB Live in Bangkok on 2026-08-29.
+    a: The Kodaline Farewell Tour stop was scheduled at UOB Live in Bangkok on 2026-08-29.
   - q: Is this really Kodaline's last tour?
     a: It's billed as their official farewell tour closing out over a decade of hits, so expect a career-spanning setlist and likely stronger-than-usual demand across both Bangkok nights.
   - q: Where should I stay for two nights of shows?

@@ -17,7 +17,7 @@ faq:
   - q: How do I get to Phu Quoc for the festival?
     a: Fly directly into Phu Quoc International Airport (PQC), which has connections from Ho Chi Minh City, Hanoi, and several regional hubs. There's no road or rail bridge to the mainland, so flying (or a slower ferry from Ha Tien/Rach Gia) are the only options.
   - q: Who is performing at VIFF 2026?
-    a: Organizers cited over 40 flute artists from 12 countries, including Grammy-winning flutist Erin Bouriakov.
+    a: Organizers cited over 40 flute artists from 12 countries, including Grammy-winning flutist Erin Bouriakov. A detailed artist-by-artist schedule wasn't available at publication.
   - q: How much do tickets cost?
     a: Pricing has not been published yet for this debut event. Watch VIFF's official channels for ticket announcements rather than relying on third-party estimates.
   - q: Is July a good time to visit Phu Quoc otherwise?

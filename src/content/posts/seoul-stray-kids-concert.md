@@ -19,7 +19,7 @@ gallery: []
 tags:
   - seoul
   - event
-quickAnswer: Stray Kids played KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run. Ticketing, exact set times, and support-act details were not recorded in this guide; Stray Kids' and JYP Entertainment's official channels are the source for any future Seoul dates.
+quickAnswer: Stray Kids were scheduled to play KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run. Ticketing, exact set times, and any lineup or support-act details had not been officially locked in this far out; Stray Kids' and JYP Entertainment's official channels are the source for any future Seoul dates.
 faq:
   - q: Is the August 1–2, 2026 date confirmed?
     a: It's the currently announced date for Stray Kids' Seoul stop, but tour dates, venues, and details can shift — always check Stray Kids' official social channels or JYP Entertainment's site before booking flights or hotels.
@@ -42,7 +42,7 @@ eventOrganizer:
 
 Stray Kids don't play small rooms anymore. What started as a JYP survival-show lineup has turned into one of the biggest self-producing acts in K-pop, the kind of group that can fill an arena two nights running and still leave people outside hoping for a resale ticket. A Seoul date is different from a stop on their world tour — this was a homecoming show, played in front of the fandom base that watched them from trainee days, and that changes the energy in the room.
 
-Chants that need no translation, choreography the crowd already knew cold, and a production scale that a touring stage abroad often can't fully replicate were all part of what a Seoul date like this promised.
+Chants that need no translation, choreography the crowd already knew cold, and a production scale that a touring stage abroad often can't fully replicate were expected to be part of a Seoul date like this.
 
 ## Getting to KSPO Dome
 
@@ -64,12 +64,12 @@ Buying through official or clearly verified channels mattered, since counterfeit
 
 ## How to visit like a local
 
-Korean concertgoers tend to arrive early not for the show itself but for the merch booths and photo zones set up outside the venue, so getting there well before doors was the way to avoid a brutal wait for tour merch. Cash and card are both fine at official merch stands, but mobile pay (Korean apps like Kakao Pay) is common among locals and can move queues faster than fumbling with foreign cards.
+Korean concertgoers tend to arrive early not for the show itself but for the merch booths and photo zones set up outside the venue, so if you want tour merch without a brutal wait, get there well before doors. Cash and card are both fine at official merch stands, but mobile pay (Korean apps like Kakao Pay) is common among locals and can move queues faster than fumbling with foreign cards.
 
-Fans typically queue by ticket section number, not first-come-first-served at the gate, so finding and standing in your section's line rather than the biggest crowd was the move. The single biggest mistake visiting fans tend to make is assuming they can wing the ticket process last-minute — Korean platforms sell out in minutes and international payment methods aren't always accepted, so sorting a ticket route (proxy purchasing service, fan club, or verified resale) weeks ahead, not days, was the safer approach.
+Fans typically queue by ticket section number, not first-come-first-served at the gate, so find and stand in your section's line rather than the biggest crowd. The single biggest mistake visiting fans make is assuming they can wing the ticket process last-minute — Korean platforms sell out in minutes and international payment methods aren't always accepted, so sort your ticket route (proxy purchasing service, fan club, or verified resale) weeks ahead, not days.
 
-Etiquette-wise, following the crowd's lead on fan chants and light-stick colors was the norm — locals often help newcomers pick it up mid-show rather than shushing them for getting it wrong.
+Etiquette-wise, follow the crowd's lead on fan chants and light-stick colors — locals will often help newcomers pick it up mid-show rather than shush them for getting it wrong.
 
 ## Beyond the concert
 
-Since KSPO Dome sits inside Olympic Park, there was time to be built in before or after the show to walk the park itself — the Olympic Museum, the outdoor sculpture park, and the lake loop are all a short stroll from the dome and make for an easy, low-key way to fill the afternoon before an evening of screaming Stray Kids lyrics back at the stage.
+Since KSPO Dome sits inside Olympic Park, fans could build in time before or after the show to walk the park itself — the Olympic Museum, the outdoor sculpture park, and the lake loop are all a short stroll from the dome and make for an easy, low-key way to fill the afternoon before an evening of screaming Stray Kids lyrics back at the stage.

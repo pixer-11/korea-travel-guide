@@ -40,15 +40,15 @@ eventOrganizer:
 
 Sonu Nigam has spent thirty years as one of the most recognizable voices in Bollywood playback singing. This tour wasn't a routine stop — Abu Dhabi was chosen as the launch city for his entire global "Revolution Tour," which made the Etihad Arena date the first chance anywhere in the world to hear this specific career-retrospective set.
 
-For the region's large South Asian diaspora, that was a big deal. Fans flew in from across the Gulf, not just locals.
+For the region's large South Asian diaspora, that was a big deal. The arena was expected to draw fans flying in from across the Gulf, not just locals.
 
 ## Getting to Etihad Arena
 
 Etihad Arena sits on Yas Island, inside the Yas Bay Waterfront development, alongside Yas Mall, Warner Bros. World, and Ferrari World.
 
-- **By car:** Yas Island is roughly 20–30 minutes from central Abu Dhabi and about an hour from Dubai, depending on traffic. Concert nights strain the bridges onto the island, so extra time was worth budgeting.
+- **By car:** Yas Island is roughly 20–30 minutes from central Abu Dhabi and about an hour from Dubai, depending on traffic. Concert nights strain the bridges onto the island, so budget extra time.
 - **By taxi/rideshare:** The simplest option for most visitors — set your drop-off to Etihad Arena, Yas Bay.
-- **Parking:** Yas Bay has multi-story parking, but it fills quickly for major concerts, so arriving well before doors was worth it.
+- **Parking:** Yas Bay has multi-story parking, but it fills quickly for major concerts, so arriving well before doors is worth it.
 
 ## What to expect inside
 
@@ -56,11 +56,13 @@ Etihad Arena is a modern indoor venue built for exactly this kind of large-scale
 
 Given the "30 Years" framing, the setlist was expected to lean on career-spanning hits rather than a single-album promotion. Sonu Nigam is known for filling shows with a mix of his romantic ballads, upbeat dance numbers, and live vocal improvisation — a hallmark of his concerts.
 
+The exact setlist, opening acts, and run time were not announced through official channels ahead of the show.
+
 ## Tickets and how to book
 
 Ticket tiers, pricing, and on-sale dates weren't included in the source announcement, and prices for arena concerts on Yas Island can vary widely by seating category.
 
-- Tickets were sold through Etihad Arena's official site or an authorized ticketing partner.
+- Tickets were available through Etihad Arena's official site or an authorized ticketing partner.
 - Early-bird or presale windows are common for high-demand tour launches.
 - Seat category could be confirmed against the arena's seating chart — sightlines vary a lot between floor and upper tiers.
 
@@ -68,9 +70,9 @@ As the tour's global opening night, the show was expected to see strong demand.
 
 ## Where to stay and what else to do
 
-Basing yourself on Yas Island meant you could walk to the arena, with Yas Mall, Yas Marina Circuit, and the island's theme parks within a short drive. Staying in central Abu Dhabi — closer to Sheikh Zayed Grand Mosque and the Corniche — meant a 20–30 minute taxi to the venue.
+Basing yourself on Yas Island means you can walk to the arena, with Yas Mall, Yas Marina Circuit, and the island's theme parks within a short drive. Staying in central Abu Dhabi — closer to Sheikh Zayed Grand Mosque and the Corniche — means a 20–30 minute taxi to the venue.
 
-Since this was a single-night event on August 21, 2026, many fans built it into a longer Abu Dhabi weekend rather than a single-purpose trip.
+Since this was a single-night event on August 21, 2026, most fans would have built it into a longer Abu Dhabi weekend rather than a single-purpose trip.
 
 ## How to visit like a local
 
@@ -80,3 +82,4 @@ Abu Dhabi concertgoers tend to treat Yas Island traffic as the real obstacle, no
 - **Dress:** Concert crowds dress casually to smart-casual; there's no strict dress code for the arena itself, though modest dress is customary if visiting the nearby mosque before or after.
 - **Etiquette:** Filming short clips is generally tolerated at Bollywood concerts, but full recording setups and professional cameras are usually restricted.
 - **Common mistake:** Assuming Yas Island is a quick in-and-out. Between bridge traffic and parking, travel time to Etihad Arena was worth treating with the same buffer as an airport run.
+

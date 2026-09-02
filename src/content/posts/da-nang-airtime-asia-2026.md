@@ -27,6 +27,7 @@ faq:
 aiGenerated: true
 eventRecurring: false
 ---
+
 ## Why this one's different
 
 Most festivals you fly for are a single field, a single stage, a wristband and a queue for the bar. Airtime Asia isn't built that way. It's a hybrid music-and-conference event that treats an entire coastal stretch of central Vietnam as its venue — Da Nang's riverside bars and warehouse-style spaces, plus the lantern-lit old town of Hoi An half an hour down the coast, both pulled into a single four-day program.
@@ -61,4 +62,4 @@ The most common mistake visitors make with multi-venue festivals like this is ov
 
 ## Before you book
 
-Because this is a newer, distributed event, treat every detail beyond the dates and the two host cities as subject to change. Accommodation in both Da Nang and Hoi An tended to be compressed by the two-city festival format, so travelers were advised to book early in both places at once.
+Because this is a newer, distributed event, treat every detail beyond the dates and the two host cities as subject to change. A two-city festival tends to compress hotel supply in both places at once.
