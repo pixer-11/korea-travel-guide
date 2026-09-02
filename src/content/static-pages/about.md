@@ -5,11 +5,11 @@ eyebrow: "Editorial policy"
 h1: "How this site is made"
 ---
 
-Wander Atlas is a curated, editor-reviewed resource for international visitors. We're transparent about how it's produced.
+Wander Atlas is a curated, editor-led resource for international visitors. We're transparent about how it's produced.
 
 ## The editor
 
-Every guide on this site is reviewed by **Pixer** — a Korean travel editor who has personally traveled and documented countries across Asia, Europe, the Americas and Oceania: all of Vietnam and Thailand, most of South Korea, plus Japan, Singapore, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, France, Spain, Georgia, the Czech Republic, Russia, the US, Australia and New Zealand, among others — and who keeps traveling, growing this site's records and information with every trip. Pixer is a pen name; we tell you that up front rather than inventing a persona. Guides for countries the editor has visited are marked on the home page, and we never claim personal visits we haven't made.
+Every guide on this site is published under the editorial policy of **Pixer** — a Korean travel editor who has personally traveled and documented countries across Asia, Europe, the Americas and Oceania: all of Vietnam and Thailand, most of South Korea, plus Japan, Singapore, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, France, Spain, Georgia, the Czech Republic, Russia, the US, Australia and New Zealand, among others — and who keeps traveling, growing this site's records and information with every trip. Pixer sets the standards every guide is checked against and spot-checks what is published; guides are drafted with AI assistance and verified automatically against live data, not read one by one by a person before they go live. Pixer is a pen name; we tell you that up front rather than inventing a persona. Guides for countries the editor has visited are marked on the home page, and we never claim personal visits we haven't made.
 
 ## AI assistance
 
@@ -30,7 +30,7 @@ Because coverage is broad, we hold every venue guide to concrete, automated stan
 - **Licensed images only:** every image comes from an approved, licensed source (Wikimedia Commons, Foursquare, Openverse, or public/open data) with attribution — never a scraped photo.
 - **No invented details:** our drafting process is explicitly instructed never to fabricate hours, prices, or addresses; specifics come from data, not guesswork.
 
-Guides are produced by the Wander Atlas editorial team using this process, and reviewed by our editor before and after publication. We do not claim personal visits we haven't made — we're a curation-and-verification resource, and we say so.
+Guides are produced with this process — drafted with AI assistance, checked automatically before and after publication, and spot-checked by our editor. We do not claim personal visits we haven't made — we're a curation-and-verification resource, and we say so.
 
 ## Images
 
