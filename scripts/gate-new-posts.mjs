@@ -18,7 +18,7 @@
 //   node scripts/gate-new-posts.mjs            # quarantine offenders
 //   node scripts/gate-new-posts.mjs --dry      # list them, change nothing
 //   node scripts/gate-new-posts.mjs --since=HEAD~1   # only posts added since a ref
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, unlinkSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 
@@ -44,6 +44,11 @@ const run = (cmd) => {
 // A checker that finds something always PRINTS it. So a non-zero exit with no
 // stdout at all is a crash, not a clean bill of health.
 const CRASHED = [];
+// A file the site cannot read is not held — it is removed. Inserting
+// `draft: true` into malformed YAML leaves the build just as dead (Codex,
+// 2026-09-02); the replacement round regenerates the slot. Scope-limited to
+// this run's new posts, like every hold here.
+const UNPARSEABLE = new Set();
 const runChecked = (name, cmd) => {
   try {
     return execSync(cmd, { encoding: 'utf8', maxBuffer: 1e8 });
@@ -113,7 +118,16 @@ const CHECKS = [
       // new arrival — return BOTH and let the scope filter decide.
       const pair = l.match(/(?:DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)\s*,\s*(\S+\.md)/);
       if (pair) return [pair[1], pair[2]];
-      return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates)[^:]*:\s*(\S+\.md)/)?.[1]
+      // Six codes joined 2026-09-02, each written after a page reached readers
+      // and each emitted by the validator for weeks without ever holding a
+      // post, because this list did not name them: STUB-BODY (a 50-char
+      // article), PROMPT-LEAK (the model's scaffolding as the opening line),
+      // EDITOR-NOTE (a repair's own note left in an FAQ answer),
+      // EVENT-VENUE-GUESSED (directions to a station for a venue the text
+      // admits is unconfirmed), SAME-PHOTO-TWICE, and UNPARSEABLE FRONTMATTER.
+      const broken = l.match(/UNPARSEABLE FRONTMATTER:\s*(\S+\.md)/)?.[1];
+      if (broken) UNPARSEABLE.add(broken);
+      return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates|STUB-BODY|PROMPT-LEAK|EDITOR-NOTE in \w+|EVENT-VENUE-GUESSED|SAME-PHOTO-TWICE|UNPARSEABLE FRONTMATTER)[^:]*:\s*(\S+\.md)/)?.[1]
         ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL):\s*(\S+\.md)/)?.[1];
     },
   },
@@ -177,6 +191,15 @@ for (const [f, why] of reasons) {
   const path = join(DIR, f);
   let raw;
   try { raw = readFileSync(path, 'utf8'); } catch { continue; }
+  // Before the "already held" test: a broken file often contains `draft: true`
+  // (a duplicated key was the 08-31 incident), and that line must not read as
+  // "someone already dealt with this".
+  if (UNPARSEABLE.has(f)) {
+    console.log(`  🗑️  ${f}: the site cannot read this file — ${dry ? 'would remove' : 'removed'} rather than held (a draft flag inside broken YAML still breaks the build)`);
+    if (!dry) unlinkSync(path);
+    held.push({ f, why: [...why, 'frontmatter unreadable — file removed; the top-up regenerates the slot'] });
+    continue;
+  }
   if (/^draft:\s*true\s*$/m.test(raw)) continue;          // already held back
 
   if (!dry) {

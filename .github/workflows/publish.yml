@@ -501,6 +501,7 @@ jobs:
       # THOSE through the same gate. One top-up round only — a queue that keeps
       # producing rejects is a problem to be told about, not to loop on.
       - name: Top up the held-back posts
+        id: topup
         if: steps.gate.outputs.held != '' && steps.gate.outputs.held != '0'
         continue-on-error: true
         env:
@@ -521,7 +522,9 @@ jobs:
           # so without this their cards rendered blank (bordeaux-miroir-d-eau,
           # first gated run).
           node scripts/build-wall.mjs || true
-          node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee -a /tmp/gate.log
+          # A crash of THIS gate round must reach the commit condition too; the
+          # step is continue-on-error, so it is recorded as an output instead.
+          node scripts/gate-new-posts.mjs --since=HEAD 2>&1 | tee -a /tmp/gate.log || echo "gate=crashed" >> "$GITHUB_OUTPUT"
 
       # The gate's Telegram message promises the held posts come back fixed;
       # this is the machinery behind that sentence. Hours-contradiction drafts
@@ -579,8 +582,13 @@ jobs:
           # dissolve the control group of the SERP badge pilot.
           node scripts/backfill-descriptions.mjs --fix-truncated-only --apply 2>&1 | tail -2 || true
 
+      # Only when the gate itself ran to completion. continue-on-error keeps a
+      # held post from failing the run (the gate exits 0 for holds), so a
+      # non-success outcome here means GATE-CHECKER-CRASHED: nothing was
+      # checked, and until 2026-09-02 the unchecked batch was committed anyway.
       - name: Commit new posts
         id: commit
+        if: steps.gate.outcome == 'success' && steps.topup.outputs.gate != 'crashed'
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"

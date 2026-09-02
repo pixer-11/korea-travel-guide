@@ -39,9 +39,13 @@ import './lib/env.mjs';
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
-import { verifyHeroImage } from './lib/vision-check.mjs';
+import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
+import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { wrongVenueCredit } from './lib/photo-credit-identity.mjs';
+
+// Region → country map for the identity judge (same world the patrol uses).
+const world = await loadWorld();
 
 const POSTS = 'src/content/posts';
 const DRY = process.argv.includes('--dry') || process.env.DRY === '1';
@@ -121,6 +125,36 @@ for (const f of readdirSync(POSTS).filter((x) => x.endsWith('.md'))) {
     // Record the rejection so the photo patrol knows to look for a replacement.
     audit[`${slug}\x01${url}`] = { slug, verdict: 'MISMATCH', reason: `release check: ${String(v.reason || '').slice(0, 150)}`, at: new Date().toISOString() };
     auditDirty = true;
+    continue;
+  }
+
+  // Gates 1b and 1c — the SAME bar that puts a hero on a page through the
+  // replace path (backfill-photos-alt). Until 2026-09-02 this release checked
+  // one lenient prompt ("when unsure, KEEP") and then overwrote the stored
+  // MISMATCH with MATCH, so the exit from quarantine was lower than the
+  // entrance, and the re-quarantine guard — which keys on that very record —
+  // could never fire again. The strict audit and the Commons/Foursquare
+  // identity check get the last word here too.
+  const second = await auditHeroImage({
+    url, title: data.title, category: data.category, region: data.region,
+    country: data.country || '', eventMode: data.category === 'event',
+    venue: data.category === 'event' ? (data.eventVenue || '') : '',
+  });
+  if (second.verdict === 'MISMATCH') {
+    kept.push({ slug, why: `strict audit still rejects it: ${String(second.reason || '').slice(0, 90)}` });
+    continue; // the stored MISMATCH stands
+  }
+  if (second.verdict === 'UNKNOWN') {
+    kept.push({ slug, why: `audit could not judge it — untouched (${second.reason})` });
+    continue;
+  }
+  const ident = await judgeCandidate(
+    { url, credit: data.heroImage?.credit, license: data.heroImage?.license },
+    { country: data.country || '', region: data.region, venueName },
+    world,
+  );
+  if (ident.verdict === 'contradicts') {
+    kept.push({ slug, why: `identity says another place: ${String(ident.why || '').slice(0, 90)}` });
     continue;
   }
 

@@ -218,7 +218,25 @@ for (const f of files) {
       console.log(`  ⏸️  ${slug}: vision unavailable — leaving post untouched`);
       continue;
     }
-    if (cur.ok) {
+    // A hero the store has flagged is acquitted only if the strict audit — the
+    // prompt that flagged it — now agrees. The lenient re-check alone used to
+    // overwrite MISMATCH with MATCH (2026-09-02), which is the record the
+    // re-quarantine guard reads: one soft "keep" and the guard was blind.
+    let acquit = cur.ok;
+    if (acquit && flaggedNow) {
+      const second = await auditHeroImage({
+        url: data.heroImage.url, title: data.title, category: data.category, region: data.region,
+        country: data.country || '', eventMode: isEvent, venue: isEvent ? (data.eventVenue || '') : '',
+      });
+      if (second.verdict === 'MISMATCH') {
+        console.log(`  ✗  ${slug}: re-check kept it but the strict audit still rejects it (${second.reason}) — replacing`);
+        acquit = false;
+      } else if (second.verdict === 'UNKNOWN') {
+        console.log(`  ⏸️  ${slug}: strict audit could not judge the flagged hero — leaving post untouched`);
+        continue;
+      }
+    }
+    if (acquit) {
       // Record the acquittal. The weekly audit is a single vision call and does
       // get landmarks wrong (2026-07-27: it called Gyeonghoeru "a Gyeongju
       // pavilion" and the Wat Pho reclining Buddha "an upright statue" — both

@@ -1226,6 +1226,10 @@ async function buildPlacelessPost(target) {
     country: target.country,
   });
   if (!vis.ok) {
+    // Same rule as the venue path: an outage or a throttled download says
+    // nothing about the target, so it must stay in the queue (the main loop
+    // reads this flag); a real rejection may fall through to `done`.
+    if (/vision unavailable|no-api-key/i.test(vis.reason)) LAST_SKIP_TRANSIENT = true;
     console.log(`  👁️   skip "${target.query}" — vision check rejected the hero (${vis.reason})`);
     return null;
   }

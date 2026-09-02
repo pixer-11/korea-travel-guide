@@ -43,6 +43,37 @@ const CLOCK_WINDOW_CLAIM =
 const CLOCK_WINDOW_CLAIM_REV =
   /\b(?:around|from)\s+\d{1,2}(?::\d{2})?\s*(?:am|pm)?\s*[-–~to]{1,3}\s*\d{1,2}(?::\d{2})?\s*(?:am|pm)\b[^.\n]{0,60}\b(?:quietest|calmest|busiest|least crowded|most crowded)/i
 ;
+// 두 패턴 다 "between … and" 또는 "around/from" 으로 시작하는 창만 잡았다.
+// 실측 없는 글 12편이 "roughly 9–11am are the quietest", "(12–4pm) are
+// quietest", "9am to 11am is calmest" 로 통과했다(2026-09-02). 이 스크립트는
+// 실측이 있는 글을 위에서 이미 건너뛰므로, 여기 남은 글의 시계창 최상급은
+// 문형이 무엇이든 지어낸 것이다 — 시계 범위와 최상급이 한 문장 안에 있으면 잡는다.
+const CLOCK_RANGE = String.raw`\d{1,2}(?::\d{2})?\s*(?:am|pm)?\s*(?:[-–~]|to|and)\s*\d{1,2}(?::\d{2})?\s*(?:am|pm)`;
+const SUPERLATIVE = String.raw`(?:quietest|calmest|busiest|least crowded|most crowded|least busy|most busy)`;
+const CLOCK_WINDOW_ANY = new RegExp(
+  String.raw`\b${SUPERLATIVE}\b[^.\n]{0,80}\b${CLOCK_RANGE}|\b${CLOCK_RANGE}\b[^.\n]{0,80}\b${SUPERLATIVE}\b`, 'i',
+);
+// An OPENING-HOURS range with a superlative about something else in the same
+// sentence ("open 9am-5pm; the busiest gate is the east one") is not a crowd
+// window. If the words just before the clock range say the range is when the
+// place is open, the sentence is about hours (Codex, 2026-09-02).
+const HOURS_CONTEXT = /\b(?:open|opens|opening|hours?|daily|closes?|closed|until|till)\b[^.\n]{0,25}$/i;
+// All three window shapes go through the same hours-context test; the two
+// older patterns used to run first and unfiltered, so "open daily from 6am to
+// 7pm … with the calmest visits early" still read as a crowd window (Codex,
+// 2026-09-02, nagoya-osu-kannon).
+const clockWindowClaim = (text) => {
+  for (const pat of [CLOCK_WINDOW_CLAIM, CLOCK_WINDOW_CLAIM_REV, CLOCK_WINDOW_ANY]) {
+    const re = new RegExp(pat.source, 'gi');
+    let m;
+    while ((m = re.exec(text))) {
+      const rangeAt = m[0].search(new RegExp(CLOCK_RANGE, 'i'));
+      const before = text.slice(Math.max(0, m.index + Math.max(0, rangeAt) - 40), m.index + Math.max(0, rangeAt));
+      if (!HOURS_CONTEXT.test(before)) return m[0];
+    }
+  }
+  return null;
+};
 
 let findings = 0;
 for (const f of readdirSync(DIR)) {
@@ -64,10 +95,13 @@ for (const f of readdirSync(DIR)) {
     /(?:weekday|weekend)(?:Quiet|Busy):\s*\r?\n\s+-\s*\d/.test(fm);
   if (hasBusynessBlock && hasHourValues) continue;
 
+  // Body AND the frontmatter prose: 9 of the 12 invented windows found on
+  // 2026-09-02 sat in quickAnswer or an FAQ answer, which render on the page
+  // and in the FAQ rich result. audit-hours-claims already reads all of it.
+  const prose = `${body}\n${fm}`;
   const hit =
-    MEASUREMENT_PHRASES.map((re) => body.match(re)?.[0]).find(Boolean) ||
-    body.match(CLOCK_WINDOW_CLAIM)?.[0] ||
-    body.match(CLOCK_WINDOW_CLAIM_REV)?.[0];
+    MEASUREMENT_PHRASES.map((re) => prose.match(re)?.[0]).find(Boolean) ||
+    clockWindowClaim(prose);
   if (hit) {
     console.log(`INVENTED-CROWD-CLAIM: ${f} — "${hit.slice(0, 90)}"`);
     findings++;

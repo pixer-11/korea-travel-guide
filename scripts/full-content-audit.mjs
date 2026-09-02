@@ -29,7 +29,14 @@ async function editorCheck(post) {
   const body = post.content.slice(0, 9000);
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 500,
+    // 500 with the model's default reasoning ON: the reasoning ate the budget
+    // first and the JSON was cut — ten posts sat in data/full-audit.json with
+    // "Expected ',' or ']'" as their verdict, and a reply cut before its first
+    // brace parsed as [] and was banked as CLEAN until the body changed
+    // (2026-09-02). Reasoning off, room for five issues with quotes, and the
+    // cut is named below instead of read as silence.
+    max_tokens: 1500,
+    thinking: { type: 'disabled' },
     messages: [{
       role: 'user',
       content:
@@ -53,8 +60,12 @@ async function editorCheck(post) {
     }],
   });
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+  if (msg.stop_reason === 'max_tokens') throw new Error('editor reply cut at max_tokens');
   const m = text.match(/\{[\s\S]*\}/);
-  return m ? (JSON.parse(m[0]).issues || []) : [];
+  if (!m) throw new Error(`editor reply had no JSON: ${text.slice(0, 60)}`);
+  const parsed = JSON.parse(m[0]);
+  if (!Array.isArray(parsed.issues)) throw new Error('editor reply had no issues array');
+  return parsed.issues;
 }
 
 // The venue's own record, the same one the writer wrote from. Empty when the
@@ -151,7 +162,10 @@ async function main() {
             url: p.data.heroImage.url, name: subject, category: p.data.category,
             region: p.data.region, country: p.data.country, eventMode: p.data.category === 'event',
           });
-          if (!vis.ok) { r.image = vis.reason; imgBad++; }
+          // A download or API failure is not an image defect; as imageError it
+          // is retried next week instead of banked as a finding (2026-09-02).
+          if (!vis.ok && /vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) r.imageError = vis.reason.slice(0, 60);
+          else if (!vis.ok) { r.image = vis.reason; imgBad++; }
         }
       } catch (e) { r.imageError = e.message.slice(0, 60); }
       try {

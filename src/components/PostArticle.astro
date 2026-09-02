@@ -456,9 +456,13 @@ if (d.category === 'event' && d.eventStartDate) {
         byMonth: new Date(d.eventStartDate).getUTCMonth() + 1,
       },
     }),
+    // The verified venue is the Place; the city stays the locality. Every
+    // event with a stored eventVenue used to tell search engines its location
+    // was a place named after the city — "Austin" for Circuit of the Americas
+    // (2026-09-02).
     location: {
       '@type': 'Place',
-      name: d.region,
+      name: d.eventVenue || d.region,
       address: { '@type': 'PostalAddress', addressLocality: d.region, ...(countryISO && { addressCountry: countryISO }) },
     },
     ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),

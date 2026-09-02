@@ -62,7 +62,11 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/full-audit.json
+          # full-audit-seen.json is the memory that makes the audit incremental.
+          # It was never staged, so every weekly runner started from a six-entry
+          # file, re-audited the same newest 400 posts and never reached the
+          # other 970 (2026-09-02).
+          git add data/full-audit.json data/full-audit-seen.json
           if git diff --staged --quiet; then
             echo "No change."
           else
@@ -129,7 +133,7 @@ jobs:
             fi
           done
           echo "reverted=$reverted"
-          git add src/content data/full-audit.json public/wall data/wall.json
+          git add src/content data/full-audit.json data/full-audit-seen.json public/wall data/wall.json
           if git diff --staged --quiet; then
             echo "No repairs to commit."
           else

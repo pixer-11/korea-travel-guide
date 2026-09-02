@@ -220,6 +220,17 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
+  // The faq-only call below already refuses a reply cut at the ceiling; the
+  // main call did not, and body is the LAST field in the schema — a cut body
+  // with every other field intact passed every check, was stamped fresh, and
+  // was never re-queued (2026-09-02). Same treatment as an empty answer.
+  if (msg.stop_reason === 'max_tokens') {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — reply cut at max_tokens, retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`reply cut at max_tokens after ${attempt} attempts`);
+  }
   // An EMPTY answer is stochastic, exactly like the malformed and mangled-
   // syllable cases below — and it was the only one of the three that gave up on
   // the first try. That gap cost one Korean file a night, two nights running:

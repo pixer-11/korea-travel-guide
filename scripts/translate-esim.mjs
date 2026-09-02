@@ -74,7 +74,14 @@ for (const [slug, f] of Object.entries(facts)) {
   const stale = entry._srcHash && entry._srcHash !== hash;
   const todo = FORCE || stale ? LANGS : LANGS.filter((l) => !entry[l]);
   if (!todo.length) { skipped++; continue; }
-  if (stale) console.log(`  ~ ${slug}: source changed, re-translating all languages`);
+  if (stale) {
+    console.log(`  ~ ${slug}: source changed, re-translating all languages`);
+    // Drop the old translations first. The hash is stamped below whether or
+    // not every language succeeded, so a language that failed here used to
+    // keep its OUTDATED prose under the NEW hash — fresh forever (2026-09-02).
+    // Absent, it is simply picked up by the next run.
+    for (const l of LANGS) delete entry[l];
+  }
 
   for (const lang of todo) {
     try {
