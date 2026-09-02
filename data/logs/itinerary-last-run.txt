@@ -15,15 +15,8 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
 Hong Kong, Hong Kong — 65 qualifying post(s), variants: 3, 5
-  ~ Hong Kong 3d — structure changed by 3 slug(s), regenerating prose
-  ⚠ Hong Kong 3d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
-  ⚠ Hong Kong 3d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
-  ⚠ Hong Kong 3d — validator found 1 prose-fixable issue(s); correcting once
-  ✅ Hong Kong 3d — updated
-  ~ Hong Kong 5d — structure changed by 7 slug(s), regenerating prose
-  ⚠ Hong Kong 5d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
-  ⚠ Hong Kong 5d — dropping rain-swap for day 4 (venue name leaked into written prose after retry)
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 3d — unchanged, skipping
+  = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -38,13 +31,10 @@ New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
 Singapore, Singapore — 60 qualifying post(s), variants: 3, 5
-  ~ Singapore 3d — minor structure change (1 slug diff), keeping existing prose
-  ✅ Singapore 3d — updated
-  ~ Singapore 5d — minor structure change (2 slug diff), keeping existing prose
-  ⚠ Singapore 5d — validator found 3 prose-fixable issue(s); correcting once
-  ✅ Singapore 5d — updated
+  = Singapore 3d — unchanged, skipping
+  = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
