@@ -59,9 +59,21 @@ const still = new Set(
     .filter(Boolean)
 );
 
+// A release must clear EVERY hold, not just the one this script repairs. The
+// gate records `heldReason: hours+wrong-region` when both fire, and before this
+// check an hours fix released the post with its wrong region intact (Codex
+// review, 2026-09-02). The region audit tests drafts by itself, so no flag.
+const wrongRegion = new Set(
+  run('node scripts/audit-region-outliers.mjs')
+    .split('\n')
+    .map((l) => l.match(/^REGION-OUTLIER:\s*(\S+)\.md/)?.[1])
+    .filter(Boolean)
+);
+
 const repaired = [];
 for (const slug of before) {
   if (still.has(slug)) { console.log(`  ✗ ${slug} — 수리 후에도 모순 남음, 격리 유지`); continue; }
+  if (wrongRegion.has(slug)) { console.log(`  ✗ ${slug} — 영업시간은 풀렸지만 구역(region)이 여전히 어긋남, 격리 유지`); continue; }
   const p = join(DIR, `${slug}.md`);
   const raw = readFileSync(p, 'utf8');
   writeFileSync(p, raw

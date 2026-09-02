@@ -1,30 +1,63 @@
 // ─────────────────────────────────────────────────────────────
-//  REGION OUTLIERS — 구역(region) 태그가 좌표와 어긋난 글의 발행 차단.
+//  REGION OUTLIERS — 구역(region) 태그가 실제 장소와 어긋난 글의 발행 차단.
 //
 //  2026-09-02 심층검증: 라이브 글 24편의 region이 실제 주소와 다른 구역이었다
 //  (사이궁의 민속박물관이 "Lantau Island", 침사추이의 우주박물관이 "Sai Kung",
 //  마리나베이의 ArtScience Museum이 "Clarke Quay" …). 생성기가 검색에 쓴
-//  구역명을 region에 그대로 적고, 구글이 돌려준 좌표는 대조하지 않았다.
+//  구역명을 region에 그대로 적고, 구글이 돌려준 좌표·주소는 대조하지 않았다.
 //  URL은 유지하고 region·제목만 고쳤다(07-26 URL 변경 사태 재발 금지);
 //  이 검사는 같은 부류가 다시 태어나지 못하게 하는 게이트 쪽 절반이다.
 //
-//  규칙(scripts/lib/region-outlier.mjs): 같은 country+region 에 좌표 있는
-//  라이브 글이 3편 이상일 때, 구역 중앙점에서 10 km 초과 AND 구역 중앙
-//  퍼짐의 4배 초과면 이상치. 게이트가 `heldReason: wrong-region` 으로 붙든다.
+//  규칙(scripts/lib/region-outlier.mjs): (a) 거리 — 같은 country+region 의
+//  커밋된 라이브 글 3편 이상일 때 구역 중앙점에서 2 km 초과 AND 퍼짐 4배
+//  초과 — 그리고 (b) 주소가 같은 나라의 다른 라이브 구역명을 담거나 좌표가
+//  다른 구역 무리 안(3 km)에 있을 것. 둘 다여야 한다: 거리만 쓰던 1차 규칙은
+//  "Hong Kong"의 디즈니랜드 같은 넓은 도시 라벨의 정상 글 62편을 잡았다.
+//  게이트가 `heldReason: wrong-region` 으로 붙든다.
 //
-//    node scripts/audit-region-outliers.mjs            # src/content/posts 전체
-//    node scripts/audit-region-outliers.mjs --dir=<d>  # 테스트용
+//    node scripts/audit-region-outliers.mjs               # src/content/posts 전체
+//    node scripts/audit-region-outliers.mjs --since=HEAD  # 게이트: 이번 발행분은 피어에서 제외
+//    node scripts/audit-region-outliers.mjs --dir=<d>     # 테스트용
 //
-//  출력: `REGION-OUTLIER: <file>.md — <거리> km from <region> centre (…)` ·
+//  --since 가 있으면 게이트와 같은 범위(git status 의 새/수정 글 + 그 ref 이후
+//  추가된 글)를 "이번 발행분"으로 표시한다. 그 글들은 판정은 받되 피어·라이브
+//  구역·포괄 라벨 계산에는 들어가지 않는다 — 같은 구역으로 잘못 태그된 글
+//  n편이 한꺼번에 오면 중앙점이 그쪽으로 끌려가 n≥4 부터 전부 통과하던
+//  뒤집힘(코덱스 리뷰 09-02)을 막는다.
+//
+//  출력: `REGION-OUTLIER: <file>.md — <거리> km from the <region> centre; address names <other>` ·
 //  발견 시 exit 1. 아무것도 못 찾으면 한 줄 요약 후 exit 0.
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { findRegionOutliers, DEFAULTS } from './lib/region-outlier.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
 const DIR = dirArg ? dirArg.slice(6) : 'src/content/posts';
+const since = (process.argv.find((a) => a.startsWith('--since=')) || '').slice(8);
+
+const git = (cmd) => {
+  try { return execSync(cmd, { encoding: 'utf8', maxBuffer: 1e8, stdio: ['ignore', 'pipe', 'ignore'] }); }
+  catch (e) { return String(e.stdout ?? ''); }
+};
+
+// Same scope rule as gate-new-posts.mjs: untracked + modified posts (this run's
+// output is not committed yet) plus files added since the ref.
+const scope = new Set();
+if (since) {
+  for (const l of git(`git status --porcelain -- ${DIR}`).split('\n')) {
+    const p = l.slice(3).trim().replace(/^"|"$/g, '');
+    if (p.endsWith('.md')) scope.add(p.split('/').pop());
+  }
+  if (since !== 'HEAD') {
+    for (const l of git(`git diff --name-only --diff-filter=A ${since} -- ${DIR}`).split('\n')) {
+      const f = l.trim().split('/').pop();
+      if (f?.endsWith('.md')) scope.add(f);
+    }
+  }
+}
 
 const posts = [];
 for (const file of readdirSync(DIR)) {
@@ -37,20 +70,26 @@ for (const file of readdirSync(DIR)) {
     region: data.region ? String(data.region).trim() : '',
     lat: data.place?.lat,
     lng: data.place?.lng,
+    address: data.place?.address ? String(data.place.address) : '',
     draft: data.draft === true,
+    inScope: scope.has(file),
   });
 }
 
 const hits = findRegionOutliers(posts);
 for (const h of hits) {
+  const ev = h.evidence.kind === 'address'
+    ? `address names ${h.evidence.region}`
+    : `sits ${h.evidence.km.toFixed(1)} km inside the ${h.evidence.region} cluster`;
   console.log(
-    `REGION-OUTLIER: ${h.post.file} — ${h.distanceKm.toFixed(1)} km from the ${h.post.region} (${h.post.country}) centre; ` +
-    `${h.peers} other posts there sit within a median ${h.spreadKm.toFixed(1)} km ` +
-    `(rule: > ${DEFAULTS.minKm} km and > ${DEFAULTS.spreadFactor}× spread)`
+    `REGION-OUTLIER: ${h.post.file} — ${h.distanceKm.toFixed(1)} km from the ${h.post.region} (${h.post.country}) centre ` +
+    `(${h.peers} committed posts, median spread ${h.spreadKm.toFixed(1)} km); ${ev}`
   );
 }
 if (hits.length) {
-  console.log(`\n${hits.length} post(s) whose region does not match their coordinates.`);
+  console.log(`\n${hits.length} post(s) whose region does not match their address or coordinates.`);
   process.exit(1);
 }
-console.log(`✓ region outliers: none among ${posts.length} posts (regions with < ${DEFAULTS.minPeers} located posts skipped)`);
+console.log(`✓ region outliers: none among ${posts.length} posts` +
+  (scope.size ? ` (${scope.size} in this run's scope, excluded from peers)` : '') +
+  ` — regions with < ${DEFAULTS.minPeers} committed posts skipped`);
