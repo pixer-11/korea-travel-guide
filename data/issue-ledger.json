@@ -1,26 +1,16 @@
 {
-  "validate-content": {},
-  "audit-translations": {
-    "broken-bold essentials/es/japan.md": {
-      "since": "2026-09-01",
-      "last": "2026-09-01",
+  "validate-content": {
+    "DUPLICATE bangkok-post-malone-the-big-ass-stadium-world-tour.md": {
+      "since": "2026-09-02",
+      "last": "2026-09-02",
       "seen": 1
     },
-    "broken-bold essentials/ja/japan.md": {
-      "since": "2026-09-01",
-      "last": "2026-09-01",
-      "seen": 1
-    },
-    "broken-bold essentials/ko/japan.md": {
-      "since": "2026-09-01",
-      "last": "2026-09-01",
-      "seen": 1
-    },
-    "broken-bold essentials/zh/japan.md": {
-      "since": "2026-09-01",
-      "last": "2026-09-01",
+    "DUPLICATE saitama-the-weeknd-after-hours-til-dawn-tour.md": {
+      "since": "2026-09-02",
+      "last": "2026-09-02",
       "seen": 1
     }
   },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
