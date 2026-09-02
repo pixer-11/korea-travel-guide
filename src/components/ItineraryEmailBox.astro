@@ -8,6 +8,7 @@
 // hidden `itinerary` input becomes fields[itinerary_url] so the welcome
 // email can link straight back to this exact page.
 import { useTranslations, type Lang } from '../i18n/utils';
+import { siteHref } from '../lib/urls.mjs';
 import { interestFields } from '../lib/interest';
 import Emoji from './Emoji.astro';
 
@@ -15,7 +16,7 @@ interface Props { lang: Lang; region: string; country: string; slug: string }
 const { lang, region, country, slug } = Astro.props;
 const t = useTranslations(lang);
 const interest = interestFields({ region, country, lang, source: `itinerary:${slug}` });
-const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderatlasguides.com').toString();
+const itineraryUrl = siteHref(Astro.url.pathname, Astro.site);
 ---
 <aside class="itin-email" aria-labelledby="itin-email-title">
   <p class="itin-email-title" id="itin-email-title"><Emoji name="world-map" /> {t('itin.emailTitle')}</p>

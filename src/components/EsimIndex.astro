@@ -17,7 +17,7 @@ const countries = esimCountries();
 const title = t('esim.indexTitle');
 const dek = t('esim.indexDek');
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const jsonLd = {
   '@context': 'https://schema.org',

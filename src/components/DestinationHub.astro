@@ -82,7 +82,7 @@ const hasWtg = eligibleCountries(countryFactsData).includes(country.name);
 const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)) || regionCoverUrl(r));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);

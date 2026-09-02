@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteHref } from '../lib/urls.mjs';
 import Emoji from './Emoji.astro';
 import { SITE } from '../siteConfig';
 import { useTranslations, type Lang } from '../i18n/utils';
@@ -79,7 +80,7 @@ const T = {
 }[lang];
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [

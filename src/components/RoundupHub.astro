@@ -32,7 +32,7 @@ const title = t('roundup.title').replace('{n}', String(n)).replace('{label}', la
 const dek = t('roundup.dek').replace('{label}', label).replace('{region}', regionLabel).replace('{country}', countryLabel);
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const jsonLd = {
   '@context': 'https://schema.org',

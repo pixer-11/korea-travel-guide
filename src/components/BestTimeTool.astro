@@ -187,7 +187,7 @@ const datasetLd = {
 // four tool pages were the only ones that never did, so Google had no parent
 // for them and printed a bare URL where the other hubs get a Home > ... trail.
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [

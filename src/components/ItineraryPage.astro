@@ -228,7 +228,7 @@ const days = d.itinerary.map((day: any, di: number) => {
 // ---- Structured data: TouristTrip + BreadcrumbList + FAQPage. No aggregateRating
 // (same site precedent as PostArticle — the ratings are Google's, not ours). ----
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const allStopPosts = days.flatMap((day: any) => day.stops.map((s: any) => s.post));
 
 const graph: Record<string, unknown>[] = [
@@ -252,9 +252,9 @@ const graph: Record<string, unknown>[] = [
   {
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { name: t('post.home'), item: `${site}${lang === 'en' ? '/' : `/${lang}/`}` },
-      { name: countryLabel, item: `${site}${localizePath(`/destinations/${countrySlug}`, lang)}/` },
-      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: `${site}${localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}/` }]),
+      { name: t('post.home'), item: siteHref(lang === 'en' ? '/' : `/${lang}/`, Astro.site) },
+      { name: countryLabel, item: siteHref(localizePath(`/destinations/${countrySlug}`, lang), Astro.site) },
+      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: siteHref(localizePath(`/regions/${slugifyRegion(d.city)}`, lang), Astro.site) }]),
       { name: title, item: pageUrl },
     ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
   },

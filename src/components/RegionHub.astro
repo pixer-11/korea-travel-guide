@@ -111,7 +111,7 @@ const groups = CATS.map(([cat, roundup]) => ({
 const ungrouped = posts.filter((p) => !CATS.some(([c]) => c === p.data.category));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const jsonLd = {
   '@context': 'https://schema.org',

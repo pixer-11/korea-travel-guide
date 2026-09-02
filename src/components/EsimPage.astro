@@ -59,7 +59,7 @@ const faqs = [1, 2, 3, 4, 5].map((n) => ({ q: fill(`esim.faqQ${n}`), a: fill(`es
 
 const others = esimCountries().filter((c) => c.slug !== country.slug);
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const jsonLd = {
   '@context': 'https://schema.org',

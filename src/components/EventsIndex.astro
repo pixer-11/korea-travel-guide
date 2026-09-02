@@ -71,7 +71,7 @@ const cardProps = (post: any) => ({
 const summary = t('ev.summaryGlobal').replace('{n}', String(upcoming.length)).replace('{c}', String(countries));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [

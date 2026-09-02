@@ -35,7 +35,7 @@ const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({
 const liveTotal = countries.filter((c) => c.count > 0).length;
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [

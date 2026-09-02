@@ -20,7 +20,7 @@ const monthShort = (m: number) =>
 
 const title = t('wtg.indexTitle');
 const dek = t('wtg.indexDek');
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const path = (c: string, m: number) => localizePath(`/tools/when-to-go/${c}/${monthSlug(m)}`, lang);
 

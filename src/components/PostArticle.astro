@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import ShareRow from './ShareRow.astro';
@@ -230,7 +231,7 @@ const placeType =
     : 'LocalBusiness';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 // Related guides for internal linking (session depth + crawl equity).
 //
@@ -396,9 +397,9 @@ const graph: Record<string, unknown>[] = [
     // SERP, and the schema pulled every localized page into the English tree
     // (found 2026-08-06).
     itemListElement: [
-      { name: t('post.home'), item: `${site}${localizePath('/', lang)}` },
-      { name: localizePlace(country, lang), item: `${site}${localizePath(`/destinations/${countrySlug}`, lang)}/` },
-      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: `${site}${localizePath(`/regions/${slugifyRegion(d.region)}`, lang)}/` }]),
+      { name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { name: localizePlace(country, lang), item: siteHref(localizePath(`/destinations/${countrySlug}`, lang), Astro.site) },
+      ...(sameRegionCountry ? [] : [{ name: regionLabel, item: siteHref(localizePath(`/regions/${slugifyRegion(d.region)}`, lang), Astro.site) }]),
       { name: title, item: pageUrl },
     ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
   },
@@ -777,7 +778,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
             <details class="bz-embed">
               <summary>{t('post.embedChart')}</summary>
               <p class="bz-embed-hint">{t('post.embedHint')}</p>
-              <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${site}/embed/crowd/${post.id.replace(/\.md$/, '')}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${(p.name || '').replace(/"/g, '&quot;')} busy times — Wander Atlas"></iframe>`}</textarea>
+              <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${siteHref(`/embed/crowd/${post.id.replace(/\.md$/, '')}`, Astro.site)}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${(p.name || '').replace(/"/g, '&quot;')} busy times — Wander Atlas"></iframe>`}</textarea>
             </details>
           </div>
         )}
