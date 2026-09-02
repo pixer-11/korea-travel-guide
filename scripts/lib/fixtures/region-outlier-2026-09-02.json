@@ -1,0 +1,2837 @@
+{
+ "note": "Snapshot of bdec9f80^ (before the 2026-09-02 region repair): every non-draft post of the five district-level countries, minimal fields. inScope marks the 24 posts whose region was wrong.",
+ "posts": [
+  {
+   "file": "aberdeen-aberdeen-promenade.md",
+   "country": "Hong Kong",
+   "region": "Aberdeen",
+   "address": "Aberdeen Praya Rd, Aberdeen, Hong Kong",
+   "lat": 22.247002,
+   "lng": 114.1551459
+  },
+  {
+   "file": "aberdeen-ocean-park.md",
+   "country": "Hong Kong",
+   "region": "Aberdeen",
+   "address": "Aberdeen, Hong Kong",
+   "lat": 22.2466607,
+   "lng": 114.1757239
+  },
+  {
+   "file": "abu-dhabi-3fils-abu-dhabi.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "abu-dhabi-art-house-cafe.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "Al Huwelat street - Villa No 15 - 4 Al Falah St - opp. Al Bateen - Bateen Area - W17 03 - Abu Dhabi - United Arab Emirates",
+   "lat": 24.4605119,
+   "lng": 54.348698999999996
+  },
+  {
+   "file": "abu-dhabi-baps-hindu-mandir-abu-dhabi.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "P6 Al Taf Road - E16 - Abu Mreikhah - Abu Dhabi - United Arab Emirates",
+   "lat": 24.6159601,
+   "lng": 54.7314959
+  },
+  {
+   "file": "abu-dhabi-christina-aguilera-live.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "abu-dhabi-flavors-grill-abu-dhabi.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "Mina St - ميناء زايد - المنطقة الحرة 2 - أبو ظبي - United Arab Emirates",
+   "lat": 24.527863500000002,
+   "lng": 54.363940400000004
+  },
+  {
+   "file": "abu-dhabi-khalifa-park.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "Sheikh Zayed Bin Sultan St - opp. ADIB - Al Muntazah - Zone 1 - Abu Dhabi - United Arab Emirates",
+   "lat": 24.4255478,
+   "lng": 54.469402599999995
+  },
+  {
+   "file": "abu-dhabi-louvre-abu-dhabi.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "Saadiyat - جزيرة السعديات - السعديات شمال 1 - أبو ظبي - United Arab Emirates",
+   "lat": 24.5336954,
+   "lng": 54.398136799999996
+  },
+  {
+   "file": "abu-dhabi-middle-east-film-comic-con-mefcc-2026.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "abu-dhabi-qasr-al-hosn.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "Rashid Bin Saeed Al Maktoum St(2nd St) - Al Hisn - W3 - Abu Dhabi - United Arab Emirates",
+   "lat": 24.482236999999998,
+   "lng": 54.354723
+  },
+  {
+   "file": "abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "abu-dhabi-the-corrs-live-in-concert.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr.md",
+   "country": "United Arab Emirates",
+   "region": "Abu Dhabi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "ajman-ajman-museum.md",
+   "country": "United Arab Emirates",
+   "region": "Ajman",
+   "address": "CC7W+96Q - Al Bustan - ليوارة 1 - Ajman - United Arab Emirates",
+   "lat": 25.413457299999997,
+   "lng": 55.4456037
+  },
+  {
+   "file": "ajman-souryana-restaurant-and-cafe.md",
+   "country": "United Arab Emirates",
+   "region": "Ajman",
+   "address": "Souryana Restaurant and cafe - Al Nakhil 2 - Ajman - United Arab Emirates",
+   "lat": 25.4208481,
+   "lng": 55.4438466
+  },
+  {
+   "file": "ajman-the-seat-cafe.md",
+   "country": "United Arab Emirates",
+   "region": "Ajman",
+   "address": "CJ2C+CF2 - Al Heliow - Ajman - United Arab Emirates",
+   "lat": 25.4009191,
+   "lng": 55.6210046
+  },
+  {
+   "file": "al-ain-al-ain-museum.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "Central District - Hai Al Hisn - Abu Dhabi - United Arab Emirates",
+   "lat": 24.2161491,
+   "lng": 55.7740587
+  },
+  {
+   "file": "al-ain-al-ain-oasis.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "Al Tuhaf St - Central District - Al Ain Oasis - Abu Dhabi - United Arab Emirates",
+   "lat": 24.2183697,
+   "lng": 55.762345499999995
+  },
+  {
+   "file": "al-ain-al-fanar-restaurant-cafe.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "Souq Al Zafarana, next to Al Khabisi Wedding Hall – Al Jimi - Al Ain - Al Jimi - Civic Center - Abu Dhabi - United Arab Emirates",
+   "lat": 24.2354496,
+   "lng": 55.722974099999995
+  },
+  {
+   "file": "al-ain-al-jahili-fort.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "6Q82+5XM - Mohammed Bin Khalifa Al Nahyan St - Al Jahili - Hai Al Qalaa - Abu Dhabi - United Arab Emirates",
+   "lat": 24.216157199999998,
+   "lng": 55.7527166
+  },
+  {
+   "file": "al-ain-ethr-al-ain-oasis.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "6Q88+JPQ - Central District - Al Ain Oasis - Abu Dhabi - United Arab Emirates",
+   "lat": 24.2167726,
+   "lng": 55.7668289
+  },
+  {
+   "file": "al-ain-jebel-hafeet-mountain.md",
+   "country": "United Arab Emirates",
+   "region": "Al Ain",
+   "address": "3Q5G+8QC - Jabal Hafeet - Jabal Hafeet 1 - Abu Dhabi - United Arab Emirates",
+   "lat": 24.0583016,
+   "lng": 55.776879799999996
+  },
+  {
+   "file": "al-barsha-dubai-gold-souk.md",
+   "country": "United Arab Emirates",
+   "region": "Al Barsha",
+   "address": "Dubai - Al Ras - Dubai - United Arab Emirates",
+   "lat": 25.270023499999997,
+   "lng": 55.2981361,
+   "inScope": true
+  },
+  {
+   "file": "al-barsha-hindu-temple-dubai.md",
+   "country": "United Arab Emirates",
+   "region": "Al Barsha",
+   "address": "Jabal Ali First - Dubai - United Arab Emirates",
+   "lat": 25.0269209,
+   "lng": 55.113197,
+   "inScope": true
+  },
+  {
+   "file": "alishan-alishan-forest-railway-garage-park.md",
+   "country": "Taiwan",
+   "region": "Alishan",
+   "address": "No. 2號, Linsen W Rd, Beimen Village, East District, Chiayi City, Taiwan 600",
+   "lat": 23.4863428,
+   "lng": 120.45126079999999,
+   "inScope": true
+  },
+  {
+   "file": "alishan-alishan-museum.md",
+   "country": "Taiwan",
+   "region": "Alishan",
+   "address": "605, Taiwan, 嘉義縣阿里山鄉香林村西",
+   "lat": 23.516855,
+   "lng": 120.80833399999999
+  },
+  {
+   "file": "alishan-alishan-national-forest-recreation-area.md",
+   "country": "Taiwan",
+   "region": "Alishan",
+   "address": "No. 59號, 中正村 東, Alishan Township, Chiayi County, Taiwan 605",
+   "lat": 23.5109539,
+   "lng": 120.80349919999998
+  },
+  {
+   "file": "alishan-chiayi-performing-arts-center.md",
+   "country": "Taiwan",
+   "region": "Alishan",
+   "address": "No. 265號, Section 2, Jianguo Rd, Wenlong Village, Minxiong Township, Chiayi County, Taiwan 621",
+   "lat": 23.5441121,
+   "lng": 120.4320576,
+   "inScope": true
+  },
+  {
+   "file": "alishan-fenqihu-old-street.md",
+   "country": "Taiwan",
+   "region": "Alishan",
+   "address": "Zhonghe Village, Zhuqi Township, Chiayi County, Taiwan 604",
+   "lat": 23.5051199,
+   "lng": 120.69493550000001
+  },
+  {
+   "file": "ayutthaya-ayutthaya-historical-park.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "9H45+98Q Ayutthaya Historical Park, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.355867999999997,
+   "lng": 100.5586727
+  },
+  {
+   "file": "ayutthaya-bueng-phra-ram-park.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "9H48+23V, Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.3551133,
+   "lng": 100.565174
+  },
+  {
+   "file": "ayutthaya-the-artisans-ayutthaya.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "42 1, Tambon Ban Run, อำเภอ เมือง, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.300598599999999,
+   "lng": 100.56410439999999
+  },
+  {
+   "file": "ayutthaya-the-summer-house.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "71/1 Tambon Ko Rian, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.324827500000001,
+   "lng": 100.575535
+  },
+  {
+   "file": "ayutthaya-wat-mahathat.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "Soi Chikun, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.3569443,
+   "lng": 100.5675112
+  },
+  {
+   "file": "ayutthaya-wat-phra-si-sanphet.md",
+   "country": "Thailand",
+   "region": "Ayutthaya",
+   "address": "Pratu Chai Sub-district, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "lat": 14.3558722,
+   "lng": 100.5580695
+  },
+  {
+   "file": "bangkok-avenged-sevenfold-asia-tour-2026.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-bangkok-international-festival-of-dance-music.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-chatuchak-weekend-market.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+   "lat": 13.799781,
+   "lng": 100.55042449999999
+  },
+  {
+   "file": "bangkok-cheaper-better-street-food.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+   "lat": 13.725069999999999,
+   "lng": 100.52293379999999
+  },
+  {
+   "file": "bangkok-chinatown-night-market.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "148 Maha Chak Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand",
+   "lat": 13.7410037,
+   "lng": 100.50847379999999
+  },
+  {
+   "file": "bangkok-david-byrne-live-in-bangkok.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-earth-house-restaurant-wine-bar.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "112/2 Soi Sukhumvit 53, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+   "lat": 13.730488099999999,
+   "lng": 100.5784073
+  },
+  {
+   "file": "bangkok-hidden-bangkok-tours.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "113 Soi Wat Nak Klang, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand",
+   "lat": 13.7459714,
+   "lng": 100.48329679999999
+  },
+  {
+   "file": "bangkok-khao-san-sek.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "1121 1123 Song Wat Rd, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand",
+   "lat": 13.7366864,
+   "lng": 100.5102656
+  },
+  {
+   "file": "bangkok-khlong-toei-market.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "121,123, 125 ถนน สุนทรพจน์, Khwaeng Khlong Toei, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+   "lat": 13.7196111,
+   "lng": 100.5601533
+  },
+  {
+   "file": "bangkok-king-power-mahanakhon.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "114 Thanon Naradhiwat Rajanagarindra, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+   "lat": 13.7240107,
+   "lng": 100.52847709999999
+  },
+  {
+   "file": "bangkok-kodaline-farewell-tour.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-national-museum-bangkok.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "4 Soi Na Phra That, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+   "lat": 13.7576171,
+   "lng": 100.4925167
+  },
+  {
+   "file": "bangkok-post-malone-the-big-ass-stadium-world-tour.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-roast8ry-bangkok.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "bangkok-saladaeng.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "Thanon Sala Daeng, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+   "lat": 13.7266044,
+   "lng": 100.5368115
+  },
+  {
+   "file": "bangkok-sea-life-bangkok-ocean-world.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "ชั้น บี1 บี2 สยามพารากอน 991 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+   "lat": 13.7459351,
+   "lng": 100.53520569999999
+  },
+  {
+   "file": "bangkok-somsak.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "1319 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+   "lat": 13.7202108,
+   "lng": 100.58495409999999
+  },
+  {
+   "file": "bangkok-suan-luang-rama-ix.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "Chaloem Phrakiat Ratchakan Thi 9 Rd, เเขวงหนองบอน Khet Prawet, Krung Thep Maha Nakhon 10250, Thailand",
+   "lat": 13.688319,
+   "lng": 100.6641942
+  },
+  {
+   "file": "bangkok-the-grand-palace.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+   "lat": 13.7498558,
+   "lng": 100.4915765
+  },
+  {
+   "file": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+   "lat": 13.763558,
+   "lng": 100.50033599999999
+  },
+  {
+   "file": "bangkok-the-reclining-buddha.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "2 Thanon Sanam Chai, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+   "lat": 13.746525199999999,
+   "lng": 100.4916607
+  },
+  {
+   "file": "bangkok-the-temple-of-the-emerald-buddha.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "Na Phra Lan Rd, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+   "lat": 13.7516435,
+   "lng": 100.4927041
+  },
+  {
+   "file": "bangkok-treehouse-cafe-bar.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+   "lat": 13.7366721,
+   "lng": 100.56697349999999
+  },
+  {
+   "file": "bangkok-view-rooftop-bangkok.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "9th Floor, Novotel Bangkok, Platinum Pratunam, 220 Thanon Phetchaburi, Khwaeng Thanon Phetchaburi, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+   "lat": 13.749584400000002,
+   "lng": 100.54066329999999
+  },
+  {
+   "file": "bangkok-wat-arun-ratchawararam-ratchawaramahawihan.md",
+   "country": "Thailand",
+   "region": "Bangkok",
+   "address": "158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand",
+   "lat": 13.743865200000002,
+   "lng": 100.488444
+  },
+  {
+   "file": "bugis-albert-centre-market-food-centre.md",
+   "country": "Singapore",
+   "region": "Bugis",
+   "address": "270 Queen St, #01-53, Singapore 180270",
+   "lat": 1.3009887999999998,
+   "lng": 103.85409849999999
+  },
+  {
+   "file": "bugis-bugis-street.md",
+   "country": "Singapore",
+   "region": "Bugis",
+   "address": "261 Victoria St, Singapore 189876",
+   "lat": 1.3001991,
+   "lng": 103.85520149999999
+  },
+  {
+   "file": "bugis-kwan-im-thong-hood-cho-temple.md",
+   "country": "Singapore",
+   "region": "Bugis",
+   "address": "178 Waterloo St, Singapore 187964",
+   "lat": 1.3008575999999998,
+   "lng": 103.8529932
+  },
+  {
+   "file": "bugis-lee-kong-chian-natural-history-museum-singapore.md",
+   "country": "Singapore",
+   "region": "Bugis",
+   "address": "2 Conservatory Dr, #01-03, Singapore 117377",
+   "lat": 1.3014156,
+   "lng": 103.7736549,
+   "inScope": true
+  },
+  {
+   "file": "bugis-supertree-grove.md",
+   "country": "Singapore",
+   "region": "Bugis",
+   "address": "18 Marina Gardens Dr, Singapore 018953",
+   "lat": 1.2819616999999999,
+   "lng": 103.86390569999999,
+   "inScope": true
+  },
+  {
+   "file": "bukit-timah-bukit-timah-nature-reserve-visitor-centre.md",
+   "country": "Singapore",
+   "region": "Bukit Timah",
+   "address": "177 Hindhede Dr, Singapore 589333",
+   "lat": 1.3483908999999998,
+   "lng": 103.7766772
+  },
+  {
+   "file": "bukit-timah-bukit-timah-nature-reserve.md",
+   "country": "Singapore",
+   "region": "Bukit Timah",
+   "address": "Hindhede Dr, Singapore 589318",
+   "lat": 1.3483882999999999,
+   "lng": 103.77670099999999
+  },
+  {
+   "file": "causeway-bay-fashion-walk-food-street.md",
+   "country": "Hong Kong",
+   "region": "Causeway Bay",
+   "address": "Causeway Bay, Hong Kong Island, Hong Kong",
+   "lat": 22.2823583,
+   "lng": 114.18525319999999
+  },
+  {
+   "file": "causeway-bay-tin-hau-temple-causeway-bay.md",
+   "country": "Hong Kong",
+   "region": "Causeway Bay",
+   "address": "Ming Tak Mansion, 10號 Tin Hau Temple Rd, Causeway Bay, Hong Kong Island, Hong Kong",
+   "lat": 22.282185899999998,
+   "lng": 114.1927491
+  },
+  {
+   "file": "central-avenue-of-stars-hk.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "Ave of Stars, Tsim Sha Tsui, Kowloon, Hong Kong",
+   "lat": 22.293004600000003,
+   "lng": 114.1741517,
+   "inScope": true
+  },
+  {
+   "file": "central-central-mid-levels-escalators.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "Jubilee St, Central, Hong Kong Island, Hong Kong",
+   "lat": 22.283846399999998,
+   "lng": 114.1549689
+  },
+  {
+   "file": "central-cupping-room-central.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "1/F, Hilltop Plaza, 49 Hollywood Rd, Central, Hong Kong Island, Hong Kong",
+   "lat": 22.282664399999998,
+   "lng": 114.1533882
+  },
+  {
+   "file": "central-hong-kong-zoological-and-botanical-gardens.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "Albany Rd, Hong Kong Island, Hong Kong",
+   "lat": 22.2773967,
+   "lng": 114.1561675
+  },
+  {
+   "file": "central-mak-s-noodle.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "77 Wellington St, Central, Hong Kong Island, Hong Kong",
+   "lat": 22.282999999999998,
+   "lng": 114.1546339
+  },
+  {
+   "file": "central-man-mo-temple.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "Man Mo Temple, 124-130 Hollywood Rd, Sheung Wan, Hong Kong Island, Hong Kong",
+   "lat": 22.283972900000002,
+   "lng": 114.15019989999999
+  },
+  {
+   "file": "central-tai-kwun.md",
+   "country": "Hong Kong",
+   "region": "Central",
+   "address": "Tai Kwun, 10 Hollywood Rd, Central, Hong Kong Island, Hong Kong",
+   "lat": 22.281168599999997,
+   "lng": 114.15402300000001
+  },
+  {
+   "file": "chiang-mai-best-khao-soi-chang-mai.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+   "lat": 18.7812114,
+   "lng": 98.98839889999999
+  },
+  {
+   "file": "chiang-mai-chiang-mai-national-museum.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "451, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+   "lat": 18.8111618,
+   "lng": 98.9764357
+  },
+  {
+   "file": "chiang-mai-garden-to-table-chiangmai.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "136 4 Ratchapakhinai Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+   "lat": 18.786508599999998,
+   "lng": 98.990431
+  },
+  {
+   "file": "chiang-mai-hidden-village-chiang-mai.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "77 หมู่บ้านท่าหลุก 19 บ้านท่าหลุก ซอย 8 หมู่ที่ 7, Tambon San Phi Suea, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+   "lat": 18.833111,
+   "lng": 98.997575
+  },
+  {
+   "file": "chiang-mai-the-baristro-asian-style.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "สุเทพ, 200 Suthep Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+   "lat": 18.789947899999998,
+   "lng": 98.9516702
+  },
+  {
+   "file": "chiang-mai-wat-chedi-luang.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "QXPP+QCQ, 103 Prapokklao Road Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+   "lat": 18.7869693,
+   "lng": 98.9865804
+  },
+  {
+   "file": "chiang-mai-wat-phra-singh-woramahawihan.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "2 Samlarn Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+   "lat": 18.7885265,
+   "lng": 98.9819946
+  },
+  {
+   "file": "chiang-mai-wat-phra-that-doi-suthep.md",
+   "country": "Thailand",
+   "region": "Chiang Mai",
+   "address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+   "lat": 18.804988899999998,
+   "lng": 98.92163370000002
+  },
+  {
+   "file": "chiang-rai-baan-dam-museum.md",
+   "country": "Thailand",
+   "region": "Chiang Rai",
+   "address": "333 Tambon Nang Lae, อำเภอเมือง Chang Wat Chiang Rai 57100, Thailand",
+   "lat": 19.992037,
+   "lng": 99.8607523
+  },
+  {
+   "file": "chiang-rai-khao-soi-restaurant.md",
+   "country": "Thailand",
+   "region": "Chiang Rai",
+   "address": "Prasopsook Rd, Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000, Thailand",
+   "lat": 19.905168700000004,
+   "lng": 99.8347818
+  },
+  {
+   "file": "chiang-rai-king-mangrai-monument.md",
+   "country": "Thailand",
+   "region": "Chiang Rai",
+   "address": "WR6R+536 ถนน ห้าแยก Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000, Thailand",
+   "lat": 19.910419599999997,
+   "lng": 99.84015470000001
+  },
+  {
+   "file": "chiang-rai-rong-suea-ten-temple.md",
+   "country": "Thailand",
+   "region": "Chiang Rai",
+   "address": "306 หมู่ที่ 2 Maekok Rd, Tambon Rim Kok, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57100, Thailand",
+   "lat": 19.923395199999998,
+   "lng": 99.84187349999999
+  },
+  {
+   "file": "chiang-rai-wat-rong-khun.md",
+   "country": "Thailand",
+   "region": "Chiang Rai",
+   "address": "Pa O Don Chai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+   "lat": 19.8232669,
+   "lng": 99.7627085
+  },
+  {
+   "file": "chiayi-chiayi-park.md",
+   "country": "Taiwan",
+   "region": "Chiayi",
+   "address": "600, Taiwan, Chiayi City, East District, Dongchuan Village, 啟明路264號",
+   "lat": 23.483329899999998,
+   "lng": 120.46523069999999
+  },
+  {
+   "file": "chiayi-hinoki-village.md",
+   "country": "Taiwan",
+   "region": "Chiayi",
+   "address": "No. 370號, Gonghe Rd, Linsen Village, East District, Chiayi City, Taiwan 600",
+   "lat": 23.485637699999998,
+   "lng": 120.45481199999999
+  },
+  {
+   "file": "chinatown-chinatown-complex.md",
+   "country": "Singapore",
+   "region": "Chinatown",
+   "address": "335 Smith St, Singapore 050335",
+   "lat": 1.2825735,
+   "lng": 103.8431104
+  },
+  {
+   "file": "chinatown-chinatown-heritage-centre.md",
+   "country": "Singapore",
+   "region": "Chinatown",
+   "address": "48 Pagoda St, Singapore 059207",
+   "lat": 1.2835298,
+   "lng": 103.8442036
+  },
+  {
+   "file": "chinatown-my-awesome-cafe.md",
+   "country": "Singapore",
+   "region": "Chinatown",
+   "address": "202 Telok Ayer St, Singapore 068639",
+   "lat": 1.2801094000000002,
+   "lng": 103.8472056
+  },
+  {
+   "file": "clarke-quay-artscience-museum.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "6 Bayfront Ave, Singapore 018974",
+   "lat": 1.2862738,
+   "lng": 103.8592663,
+   "inScope": true
+  },
+  {
+   "file": "clarke-quay-clarke-quay-jetty.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "7RQW+XFH, Singapore 179203",
+   "lat": 1.2899373,
+   "lng": 103.84622879999999
+  },
+  {
+   "file": "clarke-quay-cq-clarke-quay.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "3 River Valley Rd, Singapore 179024",
+   "lat": 1.2906024,
+   "lng": 103.84647419999999
+  },
+  {
+   "file": "clarke-quay-fort-canning-park.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "Singapore",
+   "lat": 1.2943875999999999,
+   "lng": 103.8458033
+  },
+  {
+   "file": "clarke-quay-home-dawn-cafe-clarke-quay.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "Blk 3A River Valley Rd, #02-03, Singapore 179020",
+   "lat": 1.2900277999999998,
+   "lng": 103.8448322
+  },
+  {
+   "file": "clarke-quay-malayan-settlement.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "3 River Valley Rd, Blk B, #1-03, Singapore 179021",
+   "lat": 1.2905187999999999,
+   "lng": 103.84535969999999
+  },
+  {
+   "file": "clarke-quay-tan-si-chong-su-temple.md",
+   "country": "Singapore",
+   "region": "Clarke Quay",
+   "address": "15 Magazine Rd, Singapore 059568",
+   "lat": 1.2894040999999998,
+   "lng": 103.8428555
+  },
+  {
+   "file": "deira-abra-dubai.md",
+   "country": "United Arab Emirates",
+   "region": "Deira",
+   "address": "90 Baniyas Rd - Al Sabkha - Deira - Dubai - United Arab Emirates",
+   "lat": 25.267213700000003,
+   "lng": 55.303252699999994
+  },
+  {
+   "file": "deira-souk-deira.md",
+   "country": "United Arab Emirates",
+   "region": "Deira",
+   "address": "779X+MQG - Souk Deira St - Al Buteen - Al Sabkha - Dubai - United Arab Emirates",
+   "lat": 25.2691819,
+   "lng": 55.2994439
+  },
+  {
+   "file": "dempsey-hill-pasar-geylang-serai.md",
+   "country": "Singapore",
+   "region": "Dempsey Hill",
+   "address": "Singapore",
+   "lat": 1.3165763,
+   "lng": 103.8982702,
+   "inScope": true
+  },
+  {
+   "file": "dempsey-hill-singapore-botanic-gardens.md",
+   "country": "Singapore",
+   "region": "Dempsey Hill",
+   "address": "1 Cluny Rd, Singapore 259569",
+   "lat": 1.3138397,
+   "lng": 103.8159136
+  },
+  {
+   "file": "downtown-dubai-at-the-top-burj-khalifa.md",
+   "country": "United Arab Emirates",
+   "region": "Downtown Dubai",
+   "address": "Blvd Dubai Unit LG - 089 - burj khalifa - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+   "lat": 25.1974035,
+   "lng": 55.276021500000006
+  },
+  {
+   "file": "downtown-dubai-the-dubai-fountain.md",
+   "country": "United Arab Emirates",
+   "region": "Downtown Dubai",
+   "address": "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+   "lat": 25.195155399999997,
+   "lng": 55.2751579
+  },
+  {
+   "file": "dubai-al-fahidi-historical-neighbourhood.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "Dubai - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates",
+   "lat": 25.2642363,
+   "lng": 55.300264299999995
+  },
+  {
+   "file": "dubai-al-khayma-heritage-restaurant.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates",
+   "lat": 25.2637706,
+   "lng": 55.3007685
+  },
+  {
+   "file": "dubai-creek-park.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "Umm Hurair Second - Dubai - United Arab Emirates",
+   "lat": 25.2353776,
+   "lng": 55.3270689
+  },
+  {
+   "file": "dubai-def-leppard-live-in-concert.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "dubai-dubai-old-city.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "7874+GCV - Al Hamriya - Dubai - United Arab Emirates",
+   "lat": 25.2638684,
+   "lng": 55.3060462
+  },
+  {
+   "file": "dubai-dubai-summer-surprises-dss-2026.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "dubai-etihad-museum.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "Jumeira St - Jumeira First - Al Mina - Dubai - United Arab Emirates",
+   "lat": 25.241295899999997,
+   "lng": 55.2692991
+  },
+  {
+   "file": "dubai-love-lake.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "Dubai - Saih Al Salam - Dubai - United Arab Emirates",
+   "lat": 24.8351908,
+   "lng": 55.4033872
+  },
+  {
+   "file": "dubai-marina-dubai-marina-walk.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai Marina",
+   "address": "Dubai Marina Walk - 34JR+64M - دبي مارينا - دبي - United Arab Emirates",
+   "lat": 25.085563999999998,
+   "lng": 55.147801099999995
+  },
+  {
+   "file": "dubai-marina-marina-walk.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai Marina",
+   "address": "Parking, Marina Mall - Dubai Marina - Dubai - United Arab Emirates",
+   "lat": 25.0774537,
+   "lng": 55.139624299999994
+  },
+  {
+   "file": "dubai-nobu-one-za-abeel.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "One - The Link - 24th floor - زعبيل الأولى - زعبيل - دبي - United Arab Emirates",
+   "lat": 25.2275781,
+   "lng": 55.290918999999995
+  },
+  {
+   "file": "dubai-nobu-the-link-one-za-abeel.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "dubai-richard-marx.md",
+   "country": "United Arab Emirates",
+   "region": "Dubai",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "east-coast-national-museum-of-singapore.md",
+   "country": "Singapore",
+   "region": "East Coast",
+   "address": "93 Stamford Rd, Singapore 178897",
+   "lat": 1.296613,
+   "lng": 103.84850910000002,
+   "inScope": true
+  },
+  {
+   "file": "fujairah-al-bithnah-fort.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "56PQ+H45 - Al Bithnah - Fujairah - United Arab Emirates",
+   "lat": 25.186389,
+   "lng": 56.2378657
+  },
+  {
+   "file": "fujairah-al-meshwar-restaurant.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "Hamad Bin Abdulla Rd - Fujairah City Center - Fujairah - United Arab Emirates",
+   "lat": 25.123008600000002,
+   "lng": 56.331095999999995
+  },
+  {
+   "file": "fujairah-fujairah-fort.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "48QP+FRQ بجوار متحف - Al Sharyah - Fujairah - United Arab Emirates",
+   "lat": 25.1387011,
+   "lng": 56.3371047
+  },
+  {
+   "file": "fujairah-fujairah-museum.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "48PQ+2HC - Al Sharyah - Fujairah - United Arab Emirates",
+   "lat": 25.1350539,
+   "lng": 56.338882999999996
+  },
+  {
+   "file": "fujairah-shees-park.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "Al Dhaid Rd - Shees - Sharjah - United Arab Emirates",
+   "lat": 25.2931283,
+   "lng": 56.236717000000006,
+   "inScope": true
+  },
+  {
+   "file": "fujairah-steki.md",
+   "country": "United Arab Emirates",
+   "region": "Fujairah",
+   "address": "Umbrella Beach - Al Faseel Rd(E99) - Al Faseel - Fujairah - United Arab Emirates",
+   "lat": 25.1463942,
+   "lng": 56.3557086
+  },
+  {
+   "file": "hong-kong-brunch-club.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "70 Peel Street, 70 Peel St, Central, Hong Kong Island, Hong Kong",
+   "lat": 22.281816,
+   "lng": 114.15192599999999
+  },
+  {
+   "file": "hong-kong-east-coast-boardwalk.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "Island Eastern Corridor, Causeway Bay, Hong Kong",
+   "lat": 22.292948,
+   "lng": 114.19660479999999
+  },
+  {
+   "file": "hong-kong-hong-kong-disneyland.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "Lantau Island, Hong Kong",
+   "lat": 22.3129666,
+   "lng": 114.0412819
+  },
+  {
+   "file": "hong-kong-hong-kong-museum-of-art.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "G/F, Hong Kong Museum Of Art, 10號 Salisbury Rd, Tsim Sha Tsui, Hong Kong",
+   "lat": 22.293605499999998,
+   "lng": 114.1721324
+  },
+  {
+   "file": "hong-kong-hong-kong-museum-of-history.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "100 Chatham Rd S, Tsim Sha Tsui, Hong Kong",
+   "lat": 22.3018851,
+   "lng": 114.17726119999999
+  },
+  {
+   "file": "hong-kong-hong-kong-observation-wheel.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "33 Man Kwong St, Central, Hong Kong",
+   "lat": 22.285285899999998,
+   "lng": 114.16172209999999
+  },
+  {
+   "file": "hong-kong-hong-kong-park.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "19號 Cotton Tree Dr, Central, Hong Kong",
+   "lat": 22.276947699999997,
+   "lng": 114.1608187
+  },
+  {
+   "file": "hong-kong-il-presidente.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "hong-kong-montana.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "hong-kong-nan-lian-garden.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "Fung Tak Rd, Diamond Hill, Hong Kong",
+   "lat": 22.3396114,
+   "lng": 114.2045149
+  },
+  {
+   "file": "hong-kong-po-lin-monastery.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "大嶼山昂坪寶蓮禪寺 Ngong Ping, Lantau Island, Hong Kong",
+   "lat": 22.2554932,
+   "lng": 113.9080796
+  },
+  {
+   "file": "hong-kong-tim-ho-wan-central.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "Shop 12A & 12B, Level 1, MTR Hong Kong Station, Central, Hong Kong",
+   "lat": 22.284509399999997,
+   "lng": 114.15814259999999
+  },
+  {
+   "file": "hong-kong-victoria-harbour.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "Admiralty, Hong Kong",
+   "lat": 22.293265200000004,
+   "lng": 114.17262199999999
+  },
+  {
+   "file": "hong-kong-victoria-peak-lookout-point.md",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "address": "The Peak, Hong Kong",
+   "lat": 22.2739191,
+   "lng": 114.1423454
+  },
+  {
+   "file": "hsinchu-green-world-ecological-farm.md",
+   "country": "Taiwan",
+   "region": "Hsinchu",
+   "address": "314, Taiwan, Hsinchu County, Beipu Township, 大湖村尾隘子7鄰20號",
+   "lat": 24.6988096,
+   "lng": 121.07109600000001
+  },
+  {
+   "file": "hsinchu-hsinchu-zoo.md",
+   "country": "Taiwan",
+   "region": "Hsinchu",
+   "address": "300, Taiwan, Hsinchu City, East District, Gongyuan Village, 食品路66號",
+   "lat": 24.800156700000002,
+   "lng": 120.9799245
+  },
+  {
+   "file": "hua-hin-khao-hin-lek-fai.md",
+   "country": "Thailand",
+   "region": "Hua Hin",
+   "address": "527/3 ตำบล หัวหิน หัวเหล็กไฟ Tambon Hua Hin, Amphoe Hua Hin, Chang Wat Prachuap Khiri Khan 77110, Thailand",
+   "lat": 12.5653094,
+   "lng": 99.9438225
+  },
+  {
+   "file": "hua-hin-rajabhakti-park.md",
+   "country": "Thailand",
+   "region": "Hua Hin",
+   "address": "FXX8+H8H, 8 Phet Kasem Rd, Tambon Nong Kae, Amphoe Hua Hin, Chang Wat Prachuap Khiri Khan 77110, Thailand",
+   "lat": 12.503096999999999,
+   "lng": 99.96303669999999
+  },
+  {
+   "file": "hualien-hualien-cultural-and-creative-industries-park.md",
+   "country": "Taiwan",
+   "region": "Hualien",
+   "address": "No. 144號, Zhonghua Rd, Zhugong Village, Hualien City, Hualien County, Taiwan 970",
+   "lat": 23.976243999999998,
+   "lng": 121.6048577
+  },
+  {
+   "file": "hualien-hualien-railway-culture-park.md",
+   "country": "Taiwan",
+   "region": "Hualien",
+   "address": "No. 71號, Zhongshan Rd, Minzu Village, Hualien City, Hualien County, Taiwan 970",
+   "lat": 23.9746392,
+   "lng": 121.61053580000001
+  },
+  {
+   "file": "jiufen-jiufen-old-street.md",
+   "country": "Taiwan",
+   "region": "Jiufen",
+   "address": "Jishan St, Ruifang District, New Taipei City, Taiwan 224",
+   "lat": 25.109807699999998,
+   "lng": 121.8452102
+  },
+  {
+   "file": "jordan-australia-dairy-company.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "47號 Parkes St, Jordan, Hong Kong",
+   "lat": 22.304627999999997,
+   "lng": 114.1705439
+  },
+  {
+   "file": "jordan-hong-kong-heritage-museum.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "1 Man Lam Rd, Sha Tin, New Territories, Hong Kong",
+   "lat": 22.3766464,
+   "lng": 114.1856267,
+   "inScope": true
+  },
+  {
+   "file": "jordan-jordan-valley-park.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "71號 New Clear Water Bay Rd, Cha Liu Au, Hong Kong",
+   "lat": 22.329314399999998,
+   "lng": 114.2204443,
+   "inScope": true
+  },
+  {
+   "file": "jordan-spicy-salt-hk.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "31 Wai Ching St, Yau Ma Tei, Hong Kong",
+   "lat": 22.3066323,
+   "lng": 114.16784179999999
+  },
+  {
+   "file": "jordan-the-astor.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "380 Nathan Rd, Jordan, Hong Kong",
+   "lat": 22.3080401,
+   "lng": 114.1717085
+  },
+  {
+   "file": "jordan-victoria-peak-garden.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "Mount Austin Rd, The Peak, Hong Kong Island, Hong Kong",
+   "lat": 22.274286999999998,
+   "lng": 114.14407779999999,
+   "inScope": true
+  },
+  {
+   "file": "jordan-yat-tung-heen-eaton-hk.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "香港逸東酒店B2樓層 Level B2, Eaton HK 九龍, 380 Nathan Rd, Jordan, Kowloon, Hong Kong",
+   "lat": 22.3080401,
+   "lng": 114.1717085
+  },
+  {
+   "file": "jordan-yaumatei-tin-hau-temple.md",
+   "country": "Hong Kong",
+   "region": "Jordan",
+   "address": "56-58 Temple Street, 56-58 Temple St, Yau Ma Tei, Hong Kong",
+   "lat": 22.3098958,
+   "lng": 114.1706135
+  },
+  {
+   "file": "jumeirah-bu-qtair-restaurant.md",
+   "country": "United Arab Emirates",
+   "region": "Jumeirah",
+   "address": "Fishing Harbour 2 - Old 32B Street - Umm Suqeim Second - Umm Suqeim 2 - Dubai - United Arab Emirates",
+   "lat": 25.1514356,
+   "lng": 55.197186699999996
+  },
+  {
+   "file": "jumeirah-dubai-old-village.md",
+   "country": "United Arab Emirates",
+   "region": "Jumeirah",
+   "address": "7865+X46 - Al Hamriya - Dubai - United Arab Emirates",
+   "lat": 25.2626895,
+   "lng": 55.3076973,
+   "inScope": true
+  },
+  {
+   "file": "jumeirah-dubai-water-canal.md",
+   "country": "United Arab Emirates",
+   "region": "Jumeirah",
+   "address": "شارع - Jumeira Second - Al Safa - Dubai - United Arab Emirates",
+   "lat": 25.191814299999997,
+   "lng": 55.2429717
+  },
+  {
+   "file": "jumeirah-madinat-jumeirah.md",
+   "country": "United Arab Emirates",
+   "region": "Jumeirah",
+   "address": "Al Safouh First - Al Sufouh 1 - Dubai - United Arab Emirates",
+   "lat": 25.1330986,
+   "lng": 55.183465999999996
+  },
+  {
+   "file": "jumeirah-zabeel-park.md",
+   "country": "United Arab Emirates",
+   "region": "Jumeirah",
+   "address": "Zabeel Area - Metro Station - near Al Jafiliya - Al Kifaf - Dubai - United Arab Emirates",
+   "lat": 25.234905299999998,
+   "lng": 55.297449,
+   "inScope": true
+  },
+  {
+   "file": "jurong-japanese-garden.md",
+   "country": "Singapore",
+   "region": "Jurong",
+   "address": "60 Yuan Ching Rd, Singapore 619672",
+   "lat": 1.3356251,
+   "lng": 103.7311955
+  },
+  {
+   "file": "jurong-jurong-lake-gardens.md",
+   "country": "Singapore",
+   "region": "Jurong",
+   "address": "Yuan Ching Rd, Singapore",
+   "lat": 1.3348491999999998,
+   "lng": 103.72645569999999
+  },
+  {
+   "file": "kampong-glam-ayasofya-turkish-restaurant.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "51 Bussorah St, Singapore 199467",
+   "lat": 1.3018398,
+   "lng": 103.8593332
+  },
+  {
+   "file": "kampong-glam-kampong-glam-cafe.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "17 Bussorah St, Singapore 199438",
+   "lat": 1.3012492999999998,
+   "lng": 103.8599309
+  },
+  {
+   "file": "kampong-glam-kampong-glam.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "26 Bussorah St, Singapore 199444",
+   "lat": 1.30137,
+   "lng": 103.8598031
+  },
+  {
+   "file": "kampong-glam-malay-heritage-centre.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "85 Sultan Gate, Singapore 198501",
+   "lat": 1.3027993,
+   "lng": 103.8599265
+  },
+  {
+   "file": "kampong-glam-sultan-mosque.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "3 Muscat St, Singapore 198833",
+   "lat": 1.3022854,
+   "lng": 103.8589636
+  },
+  {
+   "file": "kampong-glam-telok-blangah-hill-park.md",
+   "country": "Singapore",
+   "region": "Kampong Glam",
+   "address": "10, Telok Blangah Green, Singapore 109178",
+   "lat": 1.2788233999999998,
+   "lng": 103.8106681,
+   "inScope": true
+  },
+  {
+   "file": "kanchanaburi-erawan-national-park.md",
+   "country": "Thailand",
+   "region": "Kanchanaburi",
+   "address": "94GV+5HW, Tha Kradan, Si Sawat District, Kanchanaburi 71250, Thailand",
+   "lat": 14.3754962,
+   "lng": 99.1439623
+  },
+  {
+   "file": "kanchanaburi-hellfire-pass-interpretive-centre.md",
+   "country": "Thailand",
+   "region": "Kanchanaburi",
+   "address": "207 Tambon Tha Sao, Amphoe Sai Yok, Chang Wat Kanchanaburi 71150, Thailand",
+   "lat": 14.3527213,
+   "lng": 98.9547228
+  },
+  {
+   "file": "kaohsiung-dome-of-light.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "800, Taiwan, Kaohsiung City, Sinsing District, Mingzhuang Village, Zhongshan 1st Rd, 115號B1",
+   "lat": 22.631365199999998,
+   "lng": 120.3019167
+  },
+  {
+   "file": "kaohsiung-fo-guang-shan-buddha-museum.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "No. 1號, Tongling Rd, Tongling Village, Dashu District, Kaohsiung City, Taiwan 84049",
+   "lat": 22.7549492,
+   "lng": 120.44738699999999
+  },
+  {
+   "file": "kaohsiung-kaohsiung-central-park.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "Zhongshan 1st Rd, Rongzhi Village, Qianjin District, Kaohsiung City, Taiwan 801",
+   "lat": 22.6249002,
+   "lng": 120.30089840000001
+  },
+  {
+   "file": "kaohsiung-kaohsiung-city-temple-of-confucius.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "No. 400, Liantan Rd, Weibei Village, Zuoying District, Kaohsiung City, Taiwan 813",
+   "lat": 22.689332699999998,
+   "lng": 120.29879409999998
+  },
+  {
+   "file": "kaohsiung-kaohsiung-museum-of-fine-arts.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "No. 80號, Meishuguan Rd, Longshui Village, Gushan District, Kaohsiung City, Taiwan 80460",
+   "lat": 22.6566968,
+   "lng": 120.2865511
+  },
+  {
+   "file": "kaohsiung-post-malone-big-ass-world-tour.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "kaohsiung-shoushan-love-lookout.md",
+   "country": "Taiwan",
+   "region": "Kaohsiung",
+   "address": "No. 30號, Zhongyi Rd, Fengnan Village, Gushan District, Kaohsiung City, Taiwan 804",
+   "lat": 22.6254253,
+   "lng": 120.27414809999999
+  },
+  {
+   "file": "katong-east-coast-park.md",
+   "country": "Singapore",
+   "region": "Katong",
+   "address": "Singapore",
+   "lat": 1.3007841999999998,
+   "lng": 103.9121866
+  },
+  {
+   "file": "katong-katong-park.md",
+   "country": "Singapore",
+   "region": "Katong",
+   "address": "59 Fort Rd, Singapore 439105",
+   "lat": 1.2966864,
+   "lng": 103.88611630000001
+  },
+  {
+   "file": "kennedy-town-belcher-bay-park.md",
+   "country": "Hong Kong",
+   "region": "Kennedy Town",
+   "address": "Belcher Bay Park, Belcher Bay Park, Praya, Kennedy Town, Kennedy Town, Hong Kong",
+   "lat": 22.2848102,
+   "lng": 114.1302487
+  },
+  {
+   "file": "kenting-eluanbi-lighthouse.md",
+   "country": "Taiwan",
+   "region": "Kenting",
+   "address": "No. 90號, Dengta Rd, Eluan Village, Hengchun Township, Pingtung County, Taiwan 946",
+   "lat": 21.9022339,
+   "lng": 120.8526297
+  },
+  {
+   "file": "kenting-hengchun-south-gate.md",
+   "country": "Taiwan",
+   "region": "Kenting",
+   "address": "Hengchun Township, Pingtung County, Taiwan 946",
+   "lat": 22.000824899999998,
+   "lng": 120.7447665
+  },
+  {
+   "file": "kenting-kenting-national-forest-recreation-area.md",
+   "country": "Taiwan",
+   "region": "Kenting",
+   "address": "No. 201號, Gongyuan Rd, Kending Village, Hengchun Township, Pingtung County, Taiwan 946",
+   "lat": 21.9600303,
+   "lng": 120.81125949999999
+  },
+  {
+   "file": "kenting-kenting-national-park.md",
+   "country": "Taiwan",
+   "region": "Kenting",
+   "address": "Pingtung County, Taiwan",
+   "lat": 21.9483307,
+   "lng": 120.77975159999998
+  },
+  {
+   "file": "kenting-national-museum-of-marine-biology-aquarium.md",
+   "country": "Taiwan",
+   "region": "Kenting",
+   "address": "No. 2, Houwan Rd, Checheng Township, Pingtung County, Taiwan 944",
+   "lat": 22.0460159,
+   "lng": 120.6989058
+  },
+  {
+   "file": "koh-chang-kai-bae-beach.md",
+   "country": "Thailand",
+   "region": "Koh Chang",
+   "address": "DPT., Tambon Ko Chang, Amphoe Ko Chang, Chang Wat Trat 23170, Thailand",
+   "lat": 12.0246678,
+   "lng": 102.2911505
+  },
+  {
+   "file": "koh-chang-mu-ko-chang-national-park.md",
+   "country": "Thailand",
+   "region": "Koh Chang",
+   "address": "23/7 หมู่ที่ 3 ตำบล เกาะช้าง ตำบล เกาะช้าง อำเภอ กิ่ง Amphoe Ko Chang, Chang Wat Trat 23170, Thailand",
+   "lat": 12.124744,
+   "lng": 102.26925550000001
+  },
+  {
+   "file": "koh-phi-phi-monkey-bay.md",
+   "country": "Thailand",
+   "region": "Koh Phi Phi",
+   "address": "PQC9+HV9, Ao Nang, Mueang Krabi District, Krabi, Thailand",
+   "lat": 7.721416,
+   "lng": 98.7697499
+  },
+  {
+   "file": "koh-phi-phi-phi-phi-lee-island.md",
+   "country": "Thailand",
+   "region": "Koh Phi Phi",
+   "address": "89 ริชาร์ด ทัวร์ Richard Tour 7 ตำบล ไม้ขาว อำเภอถลาง ภูเก็ต 83110, Thailand",
+   "lat": 7.6813173,
+   "lng": 98.76859680000001
+  },
+  {
+   "file": "koh-samui-izzy-s-specialty-coffee.md",
+   "country": "Thailand",
+   "region": "Koh Samui",
+   "address": "H26c+jh6 Fisherman’s Village, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+   "lat": 9.5614575,
+   "lng": 100.0211369
+  },
+  {
+   "file": "koh-samui-salt-oak.md",
+   "country": "Thailand",
+   "region": "Koh Samui",
+   "address": "24/36, Bo Put, Amphoe Koh samui, ตำบล บ่อผุด koh samui, สุราษฎร์ธานี 84320, Thailand",
+   "lat": 9.5605841,
+   "lng": 100.0283669
+  },
+  {
+   "file": "koh-samui-tarnim-magic-garden.md",
+   "country": "Thailand",
+   "region": "Koh Samui",
+   "address": "FXMV+5Q9, Na Mueang, Ko Samui District, Surat Thani 84140, Thailand",
+   "lat": 9.482904099999999,
+   "lng": 99.9944804
+  },
+  {
+   "file": "koh-tao-chalok-baan-kao-bay.md",
+   "country": "Thailand",
+   "region": "Koh Tao",
+   "address": "3R8G+R2M, Ko Tao, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+   "lat": 10.0670936,
+   "lng": 99.82504759999999
+  },
+  {
+   "file": "krabi-into-the-forest.md",
+   "country": "Thailand",
+   "region": "Krabi",
+   "address": "359 หมู่ที่ 1 Tambon Khao Thong, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand",
+   "lat": 8.142995899999999,
+   "lng": 98.8211839
+  },
+  {
+   "file": "krabi-kodam-kitchen-branch-1.md",
+   "country": "Thailand",
+   "region": "Krabi",
+   "address": "228 หมู่ที่ 3 Thanon Khlong Hang, Tambon Ao Nang, Amphoe Mueang Krabi, Chang Wat Krabi 81180, Thailand",
+   "lat": 8.038466399999999,
+   "lng": 98.8196739
+  },
+  {
+   "file": "krabi-railay-beach.md",
+   "country": "Thailand",
+   "region": "Krabi",
+   "address": "Railay Beach, Ao Nang, Krabi, Thailand",
+   "lat": 8.011711,
+   "lng": 98.83777599999999
+  },
+  {
+   "file": "krabi-wat-kaew-korawaram.md",
+   "country": "Thailand",
+   "region": "Krabi",
+   "address": "ถนนอิศรา Krabi, Tambon Pak Nam, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand",
+   "lat": 8.0632606,
+   "lng": 98.9141363
+  },
+  {
+   "file": "krabi-wat-tham-suea.md",
+   "country": "Thailand",
+   "region": "Krabi",
+   "address": "35 Tambon Krabi Noi, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand",
+   "lat": 8.1239259,
+   "lng": 98.92513100000001
+  },
+  {
+   "file": "lantau-island-big-buddha.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "Po Lin Monastery, Ngong Ping, New Territories, Hong Kong",
+   "lat": 22.2554932,
+   "lng": 113.9080796
+  },
+  {
+   "file": "lantau-island-lantau-south-country-park.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "South Lantau Road Mui Wo, Lantau Island, New Territories, Hong Kong",
+   "lat": 22.256640599999997,
+   "lng": 113.9843988
+  },
+  {
+   "file": "lantau-island-po-lin-monastery-restaurant.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "Ngong Ping, Hong Kong",
+   "lat": 22.2558509,
+   "lng": 113.90766389999999
+  },
+  {
+   "file": "lantau-island-sheung-yiu-folk-museum.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "Sai Kung, New Territories, Hong Kong",
+   "lat": 22.392597199999997,
+   "lng": 114.321373,
+   "inScope": true
+  },
+  {
+   "file": "lantau-island-silvermine-bay-beach.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "1號 Tung Wan Tau Rd, Mui Wo, Hong Kong",
+   "lat": 22.2707038,
+   "lng": 113.9991811
+  },
+  {
+   "file": "lantau-island-tian-tan-buddha.md",
+   "country": "Hong Kong",
+   "region": "Lantau Island",
+   "address": "Ngong Ping Rd, Lantau Island, Hong Kong",
+   "lat": 22.2539847,
+   "lng": 113.904984
+  },
+  {
+   "file": "little-india-former-house-of-tan-teng-niah.md",
+   "country": "Singapore",
+   "region": "Little India",
+   "address": "37 Kerbau Rd, Singapore 219168",
+   "lat": 1.3070541,
+   "lng": 103.85096019999999
+  },
+  {
+   "file": "little-india-super-deluxe-kitchen.md",
+   "country": "Singapore",
+   "region": "Little India",
+   "address": "29 Upper Weld Rd, Singapore 207386",
+   "lat": 1.3057785,
+   "lng": 103.8543407
+  },
+  {
+   "file": "little-india-tekka-centre.md",
+   "country": "Singapore",
+   "region": "Little India",
+   "address": "665 Buffalo Road Zhujiao Centre, Tekka, Market, Singapore 210665",
+   "lat": 1.3063839,
+   "lng": 103.85070139999999
+  },
+  {
+   "file": "little-india-veera-flavours.md",
+   "country": "Singapore",
+   "region": "Little India",
+   "address": "41 Kerbau Rd, Singapore 219170",
+   "lat": 1.3071513,
+   "lng": 103.8508975
+  },
+  {
+   "file": "marina-bay-gardens-by-the-bay.md",
+   "country": "Singapore",
+   "region": "Marina Bay",
+   "address": "18 Marina Gardens Dr, Singapore 018953",
+   "lat": 1.2815683,
+   "lng": 103.8636132
+  },
+  {
+   "file": "marina-bay-le-noir.md",
+   "country": "Singapore",
+   "region": "Marina Bay",
+   "address": "2 Bayfront Ave, #01 - 84, Singapore 018972",
+   "lat": 1.2845342,
+   "lng": 103.8589185
+  },
+  {
+   "file": "marina-bay-satay-by-the-bay.md",
+   "country": "Singapore",
+   "region": "Marina Bay",
+   "address": "18 Marina Gardens Dr, #01-19 Gardens by the Bay, Singapore 018953",
+   "lat": 1.2821346,
+   "lng": 103.86887279999999
+  },
+  {
+   "file": "marina-bay-skypark-observation-deck.md",
+   "country": "Singapore",
+   "region": "Marina Bay",
+   "address": "10 Bayfront Avenue, Hotel, Tower 3 Level 56, Marina Bay Sands, Singapore 018956",
+   "lat": 1.2852044,
+   "lng": 103.8610313
+  },
+  {
+   "file": "mong-kok-beans-cafe.md",
+   "country": "Hong Kong",
+   "region": "Mong Kok",
+   "address": "Shop no. 7, Level 4A, Langham Place, 8 Argyle St, Mong Kok, Hong Kong",
+   "lat": 22.318211599999998,
+   "lng": 114.16867429999999
+  },
+  {
+   "file": "mong-kok-dim-dim-sum-mong-kok.md",
+   "country": "Hong Kong",
+   "region": "Mong Kok",
+   "address": "106號 Tung Choi St, Mong Kok, Hong Kong",
+   "lat": 22.3200607,
+   "lng": 114.17053779999999
+  },
+  {
+   "file": "mong-kok-lok-kwan-street-park.md",
+   "country": "Hong Kong",
+   "region": "Mong Kok",
+   "address": "25 Lok Kwan Street Mong Kok, Tai Kok Tsui, Hong Kong",
+   "lat": 22.3236462,
+   "lng": 114.16047800000001
+  },
+  {
+   "file": "mong-kok-one-dim-sum.md",
+   "country": "Hong Kong",
+   "region": "Mong Kok",
+   "address": "G/F, 209A Tung Choi St, Prince Edward, Kowloon, Hong Kong",
+   "lat": 22.3254818,
+   "lng": 114.1691477
+  },
+  {
+   "file": "mong-kok-paradise-dynasty.md",
+   "country": "Hong Kong",
+   "region": "Mong Kok",
+   "address": "Hong Kong, Mong Kok, Nathan Rd, 625 & 639號Shop no.203 and 205, 2/F",
+   "lat": 22.317802099999998,
+   "lng": 114.16945129999999
+  },
+  {
+   "file": "nantou-2026-sun-moon-lake-music-fireworks-festival.md",
+   "country": "Taiwan",
+   "region": "Nantou",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "new-taipei-bopiliao-historical-block.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "Lane 173, Kangding Rd, Fuyin Village, Wanhua District, Taipei City, Taiwan 108",
+   "lat": 25.036838,
+   "lng": 121.50216479999999
+  },
+  {
+   "file": "new-taipei-dalongdong-baoan-temple.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "No. 61, Hami St, Bao'an Village, Datong District, Taipei City, Taiwan 103",
+   "lat": 25.0731088,
+   "lng": 121.51557030000001
+  },
+  {
+   "file": "new-taipei-museum-of-contemporary-art-taipei.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "No. 39, Chang'an W Rd, Jiantai Village, Datong District, Taipei City, Taiwan 103",
+   "lat": 25.0508047,
+   "lng": 121.51897659999999
+  },
+  {
+   "file": "new-taipei-national-palace-museum.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "No. 221, Sec 2, Zhi Shan Rd, Shilin District, Taipei City, Taiwan 111",
+   "lat": 25.1023554,
+   "lng": 121.54849250000001
+  },
+  {
+   "file": "new-taipei-old-place-airplane-observation-deck.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "10491, Taiwan, Taipei City, Zhongshan District, Jiantan Village, Lane 165, Tongbei St, 劍潭山步道",
+   "lat": 25.0904311,
+   "lng": 121.53678260000001
+  },
+  {
+   "file": "new-taipei-shilin-residence-park.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "No. 4號, Lane 460, Section 5, Zhongshan N Rd, Fulin Village, Shilin District, Taipei City, Taiwan 111",
+   "lat": 25.0913793,
+   "lng": 121.5291642
+  },
+  {
+   "file": "new-taipei-yangmingshan-national-park.md",
+   "country": "Taiwan",
+   "region": "New Taipei",
+   "address": "Taiwan",
+   "lat": 25.1942462,
+   "lng": 121.5609363
+  },
+  {
+   "file": "nonthaburi-f-forever-1st-world-tour-in-bangkok.md",
+   "country": "Thailand",
+   "region": "Nonthaburi",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "north-point-mak-kee.md",
+   "country": "Hong Kong",
+   "region": "North Point",
+   "address": "Hong Kong, 香港島北角堡壘街美嘉洋樓21-23號",
+   "lat": 22.2897932,
+   "lng": 114.19659379999999
+  },
+  {
+   "file": "north-point-north-point-promenade.md",
+   "country": "Hong Kong",
+   "region": "North Point",
+   "address": "North Point, Hong Kong",
+   "lat": 22.2933055,
+   "lng": 114.2006821
+  },
+  {
+   "file": "orchard-road-din-tai-fung.md",
+   "country": "Singapore",
+   "region": "Orchard Road",
+   "address": "290 Orchard Rd, #B1 - 03, Singapore 238859",
+   "lat": 1.3039532,
+   "lng": 103.8351014
+  },
+  {
+   "file": "orchard-road-ion-sky.md",
+   "country": "Singapore",
+   "region": "Orchard Road",
+   "address": "2 Orchard Turn, Singapore 238801",
+   "lat": 1.304052,
+   "lng": 103.83176700000001
+  },
+  {
+   "file": "orchard-road-maxwell-food-centre.md",
+   "country": "Singapore",
+   "region": "Orchard Road",
+   "address": "1 Kadayanallur St, Singapore 069184",
+   "lat": 1.2803361,
+   "lng": 103.844767,
+   "inScope": true
+  },
+  {
+   "file": "orchard-road-merci-marcel-orchard.md",
+   "country": "Singapore",
+   "region": "Orchard Road",
+   "address": "390 Orchard Road, 01-03 Palais Renaissance, 390 Orchard Rd, #01 - 03 / 04, Singapore 238871",
+   "lat": 1.3065784,
+   "lng": 103.8296124
+  },
+  {
+   "file": "pai-pai-canyon.md",
+   "country": "Thailand",
+   "region": "Pai",
+   "address": "8F43+F22, Mae Hi, Pai District, Mae Hong Son 58130, Thailand",
+   "lat": 19.3061375,
+   "lng": 98.4525156
+  },
+  {
+   "file": "palm-jumeirah-the-palm-fountain.md",
+   "country": "United Arab Emirates",
+   "region": "Palm Jumeirah",
+   "address": "The Pointe - Frond H - Palm Jumeirah - Dubai - United Arab Emirates",
+   "lat": 25.127869,
+   "lng": 55.1228225
+  },
+  {
+   "file": "palm-jumeirah-the-view-palm-jumeirah.md",
+   "country": "United Arab Emirates",
+   "region": "Palm Jumeirah",
+   "address": "Palm Jumeirah Rd - The Palm Tower - 52nd Floor - نخلة جميرا - دبي - United Arab Emirates",
+   "lat": 25.1141712,
+   "lng": 55.139423799999996
+  },
+  {
+   "file": "pattaya-mamamia-pattaya-street-noodles.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "3, 392, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+   "lat": 12.9474881,
+   "lng": 100.89666749999999
+  },
+  {
+   "file": "pattaya-mini-siam.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "387 Sukhumvit Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+   "lat": 12.9553217,
+   "lng": 100.90890999999999
+  },
+  {
+   "file": "pattaya-nongnooch-pattaya-garden.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "Na Chom Thian, Sattahip District, Chon Buri 20250, Thailand",
+   "lat": 12.765497,
+   "lng": 100.93513139999999
+  },
+  {
+   "file": "pattaya-pattaya-international-fireworks-festival-2026.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "pattaya-prince-of-chumphon-monument.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "WVC8+QCH, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand",
+   "lat": 12.921928399999999,
+   "lng": 100.8661162
+  },
+  {
+   "file": "pattaya-sheeva-cafe.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "146 167 Sukhumvit-Pattaya 75, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+   "lat": 12.9178728,
+   "lng": 100.8981846
+  },
+  {
+   "file": "pattaya-the-collective-pattaya.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "463/68 Beachfront, Holiday Inn Pattaya 463/99 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+   "lat": 12.9477202,
+   "lng": 100.8847605
+  },
+  {
+   "file": "pattaya-the-sanctuary-of-truth-museum.md",
+   "country": "Thailand",
+   "region": "Pattaya",
+   "address": "206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+   "lat": 12.972870499999999,
+   "lng": 100.88913199999999
+  },
+  {
+   "file": "phuket-cafe-phuket-viewpoint.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "255 Phrabaramee Rd, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+   "lat": 7.919899399999999,
+   "lng": 98.2807461
+  },
+  {
+   "file": "phuket-day-night-of-phuket.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "Talat Yai, Mueang Phuket District, Phuket 83000, Thailand",
+   "lat": 7.885960900000001,
+   "lng": 98.39106079999999
+  },
+  {
+   "file": "phuket-green-elephant-sanctuary-park.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "4 Soi Cherngtalay 1, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand",
+   "lat": 7.978758200000001,
+   "lng": 98.3093808
+  },
+  {
+   "file": "phuket-hug-street-food-kata-phuket.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "1 Thanon Kake Kwan Kata Beach, Tambon Karon, Amphoe Mueang Phuket, Chang Wat Phuket 83100, Thailand",
+   "lat": 7.8224830999999995,
+   "lng": 98.30285479999999
+  },
+  {
+   "file": "phuket-khao-rang-viewpoint.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "145/5 Thanon Patiphat Rang Hill, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+   "lat": 7.892360199999999,
+   "lng": 98.38006279999999
+  },
+  {
+   "file": "phuket-phi-phi-islands.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "Phi Phi Islands, Mueang Krabi District, Krabi, Thailand",
+   "lat": 7.740738,
+   "lng": 98.77841,
+   "inScope": true
+  },
+  {
+   "file": "phuket-phuket-thai-hua-museum.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "28 Krabi Old Phuket Town, Tambon Talat Nuea, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+   "lat": 7.8850967,
+   "lng": 98.3867867
+  },
+  {
+   "file": "phuket-phuket-vegetarian-festival.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "phuket-the-big-buddha-phuket.md",
+   "country": "Thailand",
+   "region": "Phuket",
+   "address": "Karon, Mueang Phuket District, Phuket 83100, Thailand",
+   "lat": 7.8275763,
+   "lng": 98.3128423
+  },
+  {
+   "file": "pingxi-shifen-old-street.md",
+   "country": "Taiwan",
+   "region": "Pingxi",
+   "address": "No. 81號, Shifen St, Shifen Village, Pingxi District, New Taipei City, Taiwan 226",
+   "lat": 25.0423966,
+   "lng": 121.77636620000001
+  },
+  {
+   "file": "pingxi-shifen-waterfall.md",
+   "country": "Taiwan",
+   "region": "Pingxi",
+   "address": "Pingxi District, New Taipei City, Taiwan 226",
+   "lat": 25.048960899999997,
+   "lng": 121.78745079999999
+  },
+  {
+   "file": "ras-al-khaimah-dhayah-fort.md",
+   "country": "United Arab Emirates",
+   "region": "Ras Al Khaimah",
+   "address": "Northern، Dhayah Fort - Ar Rams - Ras Al Khaimah - United Arab Emirates",
+   "lat": 25.884188599999998,
+   "lng": 56.060513199999995
+  },
+  {
+   "file": "ras-al-khaimah-jebel-jais.md",
+   "country": "United Arab Emirates",
+   "region": "Ras Al Khaimah",
+   "address": "Wadi Shehah - Ras Al Khaimah - United Arab Emirates",
+   "lat": 25.9436748,
+   "lng": 56.1424297
+  },
+  {
+   "file": "ras-al-khaimah-national-museum-of-ras-al-khaimah.md",
+   "country": "United Arab Emirates",
+   "region": "Ras Al Khaimah",
+   "address": "Al Hisn Rd - Old Town - Ras Al Khaimah - United Arab Emirates",
+   "lat": 25.794551799999997,
+   "lng": 55.945079500000006
+  },
+  {
+   "file": "saadiyat-island-hudayriyat-island.md",
+   "country": "United Arab Emirates",
+   "region": "Saadiyat Island",
+   "address": "Al Hudayriat Island - Al Hidayriyyat - Al Hidayriyyat Island - Abu Dhabi - United Arab Emirates",
+   "lat": 24.412215399999997,
+   "lng": 54.3500419,
+   "inScope": true
+  },
+  {
+   "file": "saadiyat-island-manarat-al-saadiyat.md",
+   "country": "United Arab Emirates",
+   "region": "Saadiyat Island",
+   "address": "Sheikh Khalifa Bin Zayed Al Nahyan Hwy - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates",
+   "lat": 24.5342114,
+   "lng": 54.418909899999996
+  },
+  {
+   "file": "sai-kung-hong-kong-space-museum.md",
+   "country": "Hong Kong",
+   "region": "Sai Kung",
+   "address": "Hong Kong Space Museum, 10 Salisbury Rd, Tsim Sha Tsui, Kowloon, Hong Kong",
+   "lat": 22.294287999999998,
+   "lng": 114.17190099999999,
+   "inScope": true
+  },
+  {
+   "file": "sai-kung-sai-kung-east-country-park.md",
+   "country": "Hong Kong",
+   "region": "Sai Kung",
+   "address": "Sai Kung, New Territories, Hong Kong",
+   "lat": 22.4084695,
+   "lng": 114.34352109999999
+  },
+  {
+   "file": "sai-kung-sai-kung-public-pier.md",
+   "country": "Hong Kong",
+   "region": "Sai Kung",
+   "address": "Sai Kung, Hong Kong",
+   "lat": 22.3819824,
+   "lng": 114.2748135
+  },
+  {
+   "file": "sai-kung-sai-kung-town.md",
+   "country": "Hong Kong",
+   "region": "Sai Kung",
+   "address": "Chan Man St, Sai Kung, Hong Kong",
+   "lat": 22.3821735,
+   "lng": 114.27102839999999
+  },
+  {
+   "file": "sai-kung-tin-hau-temple-joss-house-bay.md",
+   "country": "Hong Kong",
+   "region": "Sai Kung",
+   "address": "Clear Water Bay, New Territories, Hong Kong",
+   "lat": 22.2706153,
+   "lng": 114.28996599999999
+  },
+  {
+   "file": "sentosa-fiamma.md",
+   "country": "Singapore",
+   "region": "Sentosa",
+   "address": "1 The Knolls, Singapore 098297",
+   "lat": 1.2492482,
+   "lng": 103.82445129999999
+  },
+  {
+   "file": "sentosa-flower-dome.md",
+   "country": "Singapore",
+   "region": "Sentosa",
+   "address": "18 Marina Gardens Dr, Singapore 018953",
+   "lat": 1.2846292,
+   "lng": 103.86469749999999
+  },
+  {
+   "file": "sentosa-fort-siloso.md",
+   "country": "Singapore",
+   "region": "Sentosa",
+   "address": "Siloso Rd, Singapore 099981",
+   "lat": 1.259363,
+   "lng": 103.8086242
+  },
+  {
+   "file": "sentosa-sentosa-sensoryscape.md",
+   "country": "Singapore",
+   "region": "Sentosa",
+   "address": "3 Siloso Rd, #01 3, Singapore 098977",
+   "lat": 1.25311,
+   "lng": 103.81877420000001
+  },
+  {
+   "file": "sentosa-skyline-luge-singapore.md",
+   "country": "Singapore",
+   "region": "Sentosa",
+   "address": "1 Imbiah Rd, Singapore 099692",
+   "lat": 1.2549696,
+   "lng": 103.8173674
+  },
+  {
+   "file": "sha-tin-dab-pa-modern-chinese-cuisine.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "Hong Kong, Sha Tin, 新城市廣場第一期第一層112號舖",
+   "lat": 22.382029,
+   "lng": 114.18954459999999
+  },
+  {
+   "file": "sha-tin-hong-kong-science-museum.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "2號 Science Museum Rd, Tsim Sha Tsui East, Kowloon, Hong Kong",
+   "lat": 22.3010111,
+   "lng": 114.177655,
+   "inScope": true
+  },
+  {
+   "file": "sha-tin-sha-tin-che-kung-temple.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "7 Che Kung Miu Rd, Sha Tin, New Territories, Hong Kong",
+   "lat": 22.373419,
+   "lng": 114.182831
+  },
+  {
+   "file": "sha-tin-sha-tin-park.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "2 Yuen Wo Rd, Sha Tin, New Territories, Hong Kong",
+   "lat": 22.3795777,
+   "lng": 114.1901434
+  },
+  {
+   "file": "sha-tin-shing-mun-river-promenade-garden-no-1.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "17 Tai Chung Kiu Rd, Sha Tin, Hong Kong",
+   "lat": 22.3770018,
+   "lng": 114.18995939999999
+  },
+  {
+   "file": "sha-tin-ten-thousand-buddhas-monastery.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "221, Sha Tin, Hong Kong",
+   "lat": 22.387609299999998,
+   "lng": 114.1847775
+  },
+  {
+   "file": "sha-tin-the-alchemist-cafe-shatin.md",
+   "country": "Hong Kong",
+   "region": "Sha Tin",
+   "address": "Hong Kong, 沙田文林路1號香港文化博物馆G6號舖",
+   "lat": 22.3768793,
+   "lng": 114.18537189999999
+  },
+  {
+   "file": "sharjah-al-noor-island.md",
+   "country": "United Arab Emirates",
+   "region": "Sharjah",
+   "address": "89MM+RRC Khalid Lagoon، Buhairah - Corniche Road - Al Majaz 1 - Al Majaz - Sharjah - United Arab Emirates",
+   "lat": 25.3343834,
+   "lng": 55.3848622
+  },
+  {
+   "file": "sharjah-sharjah-museum-of-islamic-civilization.md",
+   "country": "United Arab Emirates",
+   "region": "Sharjah",
+   "address": "Al Mujarrah - Hay Al Sharq - Al Nabba - Sharjah - United Arab Emirates",
+   "lat": 25.364805099999998,
+   "lng": 55.389223799999996
+  },
+  {
+   "file": "sharjah-sharjah-national-park.md",
+   "country": "United Arab Emirates",
+   "region": "Sharjah",
+   "address": "شارع الذيد - E88 - Al Qarayen - Sharjah National Park - Sharjah - United Arab Emirates",
+   "lat": 25.312570899999997,
+   "lng": 55.537894099999995
+  },
+  {
+   "file": "sharjah-tpt-by-late.md",
+   "country": "United Arab Emirates",
+   "region": "Sharjah",
+   "address": "misk - Muwaileh Commercial - Sharjah - United Arab Emirates",
+   "lat": 25.3180212,
+   "lng": 55.4780071
+  },
+  {
+   "file": "sheung-wan-graham-street-market.md",
+   "country": "Hong Kong",
+   "region": "Sheung Wan",
+   "address": "14 Gage St, Central, Hong Kong",
+   "lat": 22.282947099999998,
+   "lng": 114.1535569
+  },
+  {
+   "file": "sheung-wan-hollywood-road-park.md",
+   "country": "Hong Kong",
+   "region": "Sheung Wan",
+   "address": "Hollywood Rd, Sheung Wan, Hong Kong",
+   "lat": 22.285949799999997,
+   "lng": 114.1475646
+  },
+  {
+   "file": "singapore-asian-civilisations-museum.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "1 Empress Pl, Singapore 179555",
+   "lat": 1.2875002000000002,
+   "lng": 103.85138529999999
+  },
+  {
+   "file": "singapore-avenged-sevenfold-asia-tour-2026.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-bop-bartenders-of-pony.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-bouillon-gavroche.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "333A Orchard Rd, #01-16/17, Singapore 238897",
+   "lat": 1.3020467,
+   "lng": 103.83663179999999
+  },
+  {
+   "file": "singapore-casa-mori.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "11 Dempsey Rd, #01-17, Singapore 249673",
+   "lat": 1.3042341,
+   "lng": 103.81007919999999
+  },
+  {
+   "file": "singapore-changi-village-hawker-centre.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "2 Changi Village Rd, Singapore 500002",
+   "lat": 1.3892375,
+   "lng": 103.9883008
+  },
+  {
+   "file": "singapore-cloud-forest.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "18 Marina Gardens Dr, Singapore 018953",
+   "lat": 1.2838676999999998,
+   "lng": 103.8660024
+  },
+  {
+   "file": "singapore-david-byrne-who-is-the-sky-tour.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-formula-1-singapore-grand-prix-2026.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-hachi-restaurant.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-itzy-3rd-world-tour-tunnel-vision.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-lau-pa-sat.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "18 Raffles Quay, Singapore 048582",
+   "lat": 1.2805121,
+   "lng": 103.8503809
+  },
+  {
+   "file": "singapore-mamamoo-concert.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-merlion-park.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "1 Fullerton Rd, Singapore 049213",
+   "lat": 1.2867449,
+   "lng": 103.85438719999999
+  },
+  {
+   "file": "singapore-milli.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-post-malone-big-ass-world-tour.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "singapore-singapore-flyer.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "30 Raffles Ave., Singapore 039803",
+   "lat": 1.2892987999999999,
+   "lng": 103.86313679999999
+  },
+  {
+   "file": "singapore-smash-street.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "50 Amoy St, Singapore 069876",
+   "lat": 1.2802641,
+   "lng": 103.8468326
+  },
+  {
+   "file": "singapore-sri-mariamman-temple.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "244 S Bridge Rd, Singapore 058793",
+   "lat": 1.2826867,
+   "lng": 103.8451462
+  },
+  {
+   "file": "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour.md",
+   "country": "Singapore",
+   "region": "Singapore",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "stanley-stanley-market.md",
+   "country": "Hong Kong",
+   "region": "Stanley",
+   "address": "Stanley New St, Stanley, Hong Kong",
+   "lat": 22.2181259,
+   "lng": 114.21262499999999
+  },
+  {
+   "file": "stanley-stanley-promenade.md",
+   "country": "Hong Kong",
+   "region": "Stanley",
+   "address": "13 Stanley Main St, Stanley, Hong Kong",
+   "lat": 22.2183857,
+   "lng": 114.2114716
+  },
+  {
+   "file": "sukhothai-sukhothai-buddha-park.md",
+   "country": "Thailand",
+   "region": "Sukhothai",
+   "address": "30 Soi Si Sukho, Tambon Thani, Amphoe Mueang Sukhothai, Chang Wat Sukhothai 64000, Thailand",
+   "lat": 17.0056395,
+   "lng": 99.8258986
+  },
+  {
+   "file": "sukhothai-sukhothai-historical-park.md",
+   "country": "Thailand",
+   "region": "Sukhothai",
+   "address": "498 12, Tambon Mueang Kao, Amphoe Mueang Sukhothai, Chang Wat Sukhothai 64210, Thailand",
+   "lat": 17.0187799,
+   "lng": 99.7064501
+  },
+  {
+   "file": "sun-moon-lake-ci-en-pagoda.md",
+   "country": "Taiwan",
+   "region": "Sun Moon Lake",
+   "address": "Yuchi Township, Nantou County, Taiwan 555",
+   "lat": 23.8420255,
+   "lng": 120.92084059999999
+  },
+  {
+   "file": "sun-moon-lake-formosan-aboriginal-culture-village.md",
+   "country": "Taiwan",
+   "region": "Sun Moon Lake",
+   "address": "555, Taiwan, Nantou County, Yuchi Township, Dalin Village, 金天巷45號",
+   "lat": 23.865327999999998,
+   "lng": 120.94818699999999
+  },
+  {
+   "file": "sun-moon-lake-year-of-steps-at-wenwu-temple.md",
+   "country": "Taiwan",
+   "region": "Sun Moon Lake",
+   "address": "No. 63號, Zhongzheng Rd, Shuishe Village, Yuchi Township, Nantou County, Taiwan 555",
+   "lat": 23.8693982,
+   "lng": 120.9269767
+  },
+  {
+   "file": "taichung-dakeng-scenic-area.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "Lane 383, Section 1, Dongshan Rd, Beitun District, Taichung City, Taiwan 406",
+   "lat": 24.180193,
+   "lng": 120.73369799999999
+  },
+  {
+   "file": "taichung-guangfu-new-village.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "413, Taiwan, Taichung City, Wufeng District, Kengkou Village, Heping Rd, 2-3號光復新站",
+   "lat": 24.043207,
+   "lng": 120.69513669999999
+  },
+  {
+   "file": "taichung-maple-garden.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "No. 30號, Chaofu Rd, Chaoyang Village, Xitun District, Taichung City, Taiwan 407",
+   "lat": 24.168004,
+   "lng": 120.63934829999998
+  },
+  {
+   "file": "taichung-national-taiwan-museum-of-fine-arts.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "No. 2號, Section 1, Wuquan W Rd, Gongmin Village, West District, Taichung City, Taiwan 403",
+   "lat": 24.1411864,
+   "lng": 120.6633131
+  },
+  {
+   "file": "taichung-rainbow-village.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "408, Taiwan, Taichung City, Nantun District, Chun'an Village, 春安路56巷25號",
+   "lat": 24.133715199999997,
+   "lng": 120.6098437
+  },
+  {
+   "file": "taichung-taichung-lecheng-temple.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "No. 48號, Hanxi St, Hanxi Village, East District, Taichung City, Taiwan 401",
+   "lat": 24.140701699999997,
+   "lng": 120.69801890000001
+  },
+  {
+   "file": "taichung-taichung-second-market.md",
+   "country": "Taiwan",
+   "region": "Taichung",
+   "address": "No. 87號, Section 2, Sanmin Rd, Dadun Village, Central District, Taichung City, Taiwan 400",
+   "lat": 24.1424184,
+   "lng": 120.67875699999999
+  },
+  {
+   "file": "tainan-anping-old-street.md",
+   "country": "Taiwan",
+   "region": "Tainan",
+   "address": "Yanping St, Anping District, Tainan City, Taiwan 708",
+   "lat": 23.0007174,
+   "lng": 120.1616449
+  },
+  {
+   "file": "tainan-banyan-garden.md",
+   "country": "Taiwan",
+   "region": "Tainan",
+   "address": "National Cheng Kung University, 光復校區No. 1號, Dasyue Rd, Chengda Village, East District, Tainan City, Taiwan 701",
+   "lat": 23.0003294,
+   "lng": 120.21615989999998
+  },
+  {
+   "file": "tainan-shennong-street.md",
+   "country": "Taiwan",
+   "region": "Tainan",
+   "address": "700, Taiwan, Tainan City, West Central District, 神農街",
+   "lat": 22.9975171,
+   "lng": 120.19649489999999
+  },
+  {
+   "file": "tainan-tainan-art-museum.md",
+   "country": "Taiwan",
+   "region": "Tainan",
+   "address": "No. 37號, Nanmen Rd, Yonghua Village, West Central District, Tainan City, Taiwan 700",
+   "lat": 22.9910079,
+   "lng": 120.20507
+  },
+  {
+   "file": "tainan-tainan-confucius-temple.md",
+   "country": "Taiwan",
+   "region": "Tainan",
+   "address": "No. 2號, Nanmen Rd, Yonghua Village, West Central District, Tainan City, Taiwan 700",
+   "lat": 22.9905296,
+   "lng": 120.2040401
+  },
+  {
+   "file": "taipei-addiction-aquatic-development.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "No. 18號, Alley 2, Lane 410, Minzu E Rd, Xingxiao Village, Zhongshan District, Taipei City, Taiwan 10491",
+   "lat": 25.066707899999997,
+   "lng": 121.5370059
+  },
+  {
+   "file": "taipei-din-tai-fung-101.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "110, Taiwan, Taipei City, Xinyi District, Xicun Village, City Hall Rd, 45號B1",
+   "lat": 25.033337099999997,
+   "lng": 121.56465960000001
+  },
+  {
+   "file": "taipei-elephant-mountain.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "No. 31, Alley 401, Lane 150, Section 5, Xinyi Rd, Sanli Village, Xinyi District, Taipei City, Taiwan 110",
+   "lat": 25.027149299999998,
+   "lng": 121.5731954
+  },
+  {
+   "file": "taipei-itzy-tunnel-vision-world-tour-taipei.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taipei-ive-world-tour-2026-show-what-i-am-taipei.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taipei-national-taiwan-museum.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "No. 2號, Xiangyang Rd, Liming Village, Zhongzheng District, Taipei City, Taiwan 100",
+   "lat": 25.0427872,
+   "lng": 121.5151192
+  },
+  {
+   "file": "taipei-official-hige-dandism-asia-tour-2026-taipei.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taipei-taipei-botanical-garden.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "No. 53號, Nanhai Rd, Nanmen Village, Zhongzheng District, Taipei City, Taiwan 100",
+   "lat": 25.031851099999997,
+   "lng": 121.50945929999999
+  },
+  {
+   "file": "taipei-taipei-fringe-festival-2026.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taipei-the-who-cafe.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "106, Taiwan, Taipei City, Da’an District, Lishui St, 2-1號2樓",
+   "lat": 25.033499100000004,
+   "lng": 121.52912210000001
+  },
+  {
+   "file": "taipei-urban-paradise.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taipei-xingtian-temple.md",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "address": "No. 109, Section 2, Minquan E Rd, Xingzheng Village, Zhongshan District, Taipei City, Taiwan 10491",
+   "lat": 25.062865799999997,
+   "lng": 121.53387329999998
+  },
+  {
+   "file": "taitung-taiwan-international-balloon-festival-2026.md",
+   "country": "Taiwan",
+   "region": "Taitung",
+   "address": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "file": "taroko-gorge-silks-place-taroko.md",
+   "country": "Taiwan",
+   "region": "Taroko Gorge",
+   "address": "No. 18號, 天祥路, Fushi Village, Xiulin Township, Hualien County, Taiwan 97253",
+   "lat": 24.1813654,
+   "lng": 121.49406269999999
+  },
+  {
+   "file": "taroko-gorge-taroko-national-park.md",
+   "country": "Taiwan",
+   "region": "Taroko Gorge",
+   "address": "Xiulin Township, Hualien County, Taiwan 972",
+   "lat": 24.1939246,
+   "lng": 121.4906668
+  },
+  {
+   "file": "tiong-bahru-national-gallery-singapore.md",
+   "country": "Singapore",
+   "region": "Tiong Bahru",
+   "address": "Singapore 178957",
+   "lat": 1.2902217,
+   "lng": 103.85151669999999,
+   "inScope": true
+  },
+  {
+   "file": "tiong-bahru-thian-hock-keng-temple.md",
+   "country": "Singapore",
+   "region": "Tiong Bahru",
+   "address": "158 Telok Ayer St, Singapore 068613",
+   "lat": 1.280939,
+   "lng": 103.8476354
+  },
+  {
+   "file": "tiong-bahru-tiong-bahru-market.md",
+   "country": "Singapore",
+   "region": "Tiong Bahru",
+   "address": "30 Seng Poh Rd, Singapore 168898",
+   "lat": 1.2850770999999999,
+   "lng": 103.83280719999999
+  },
+  {
+   "file": "tsim-sha-tsui-tsim-sha-tsui-promenade.md",
+   "country": "Hong Kong",
+   "region": "Tsim Sha Tsui",
+   "address": "Tsim Sha Tsui East, Hong Kong",
+   "lat": 22.297086,
+   "lng": 114.1781281
+  },
+  {
+   "file": "tsim-sha-tsui-tsim-sha-tsui-waterfront-park.md",
+   "country": "Hong Kong",
+   "region": "Tsim Sha Tsui",
+   "address": "Tsim Sha Tsui East, Hong Kong",
+   "lat": 22.297015599999998,
+   "lng": 114.17805969999999
+  },
+  {
+   "file": "wan-chai-golden-bauhinia-square.md",
+   "country": "Hong Kong",
+   "region": "Wan Chai",
+   "address": "1 Expo Dr, Wan Chai, Hong Kong",
+   "lat": 22.284425,
+   "lng": 114.17390089999999
+  },
+  {
+   "file": "wan-chai-kam-s-roast-goose.md",
+   "country": "Hong Kong",
+   "region": "Wan Chai",
+   "address": "226號 Hennessy Rd, Wan Chai, Hong Kong",
+   "lat": 22.277642,
+   "lng": 114.175305
+  },
+  {
+   "file": "yilan-diu-diu-dang-forest-park.md",
+   "country": "Taiwan",
+   "region": "Yilan",
+   "address": "No. 236, Section 1, Yixing Rd, Daxin Village, Yilan City, Yilan County, Taiwan 260",
+   "lat": 24.754636599999998,
+   "lng": 121.75707340000001
+  },
+  {
+   "file": "yilan-fushan-botanical-garden.md",
+   "country": "Taiwan",
+   "region": "Yilan",
+   "address": "264, Taiwan, Yilan County, Yuanshan Township, Huxi Village, 雙埤路福山1號",
+   "lat": 24.7597657,
+   "lng": 121.5854899
+  },
+  {
+   "file": "yilan-lanyang-museum.md",
+   "country": "Taiwan",
+   "region": "Yilan",
+   "address": "No. 750, Section 3, Qingyun Rd, Gangkou Village, Toucheng Township, Yilan County, Taiwan 261",
+   "lat": 24.8686561,
+   "lng": 121.83274080000001
+  },
+  {
+   "file": "yilan-national-center-for-traditional-arts.md",
+   "country": "Taiwan",
+   "region": "Yilan",
+   "address": "No. 201號, Section 2, Wubin Rd, Jixin Village, Wujie Township, Yilan County, Taiwan 268",
+   "lat": 24.685587,
+   "lng": 121.824053
+  },
+  {
+   "file": "yilan-yilan-museum-of-art.md",
+   "country": "Taiwan",
+   "region": "Yilan",
+   "address": "No. 1號, Section 3, Zhongshan Rd, Nanmen Village, Yilan City, Yilan County, Taiwan 260",
+   "lat": 24.7549228,
+   "lng": 121.7517871
+  }
+ ]
+}

@@ -8,11 +8,13 @@
 //  URL은 유지하고 region·제목만 고쳤다(07-26 URL 변경 사태 재발 금지);
 //  이 검사는 같은 부류가 다시 태어나지 못하게 하는 게이트 쪽 절반이다.
 //
-//  규칙(scripts/lib/region-outlier.mjs): (a) 거리 — 같은 country+region 의
-//  커밋된 라이브 글 3편 이상일 때 구역 중앙점에서 2 km 초과 AND 퍼짐 4배
-//  초과 — 그리고 (b) 주소가 같은 나라의 다른 라이브 구역명을 담거나 좌표가
-//  다른 구역 무리 안(3 km)에 있을 것. 둘 다여야 한다: 거리만 쓰던 1차 규칙은
-//  "Hong Kong"의 디즈니랜드 같은 넓은 도시 라벨의 정상 글 62편을 잡았다.
+//  규칙(scripts/lib/region-outlier.mjs): ① 주소가 같은 나라의 다른 라이브
+//  구역명을 담고 자기 구역명은 안 담으면 그것만으로 잡는다(부모·자식 구역명과
+//  포괄 라벨은 제외) — 원래 부류 그 자체. ② 부모·자식 이름이라도 자기 구역
+//  중앙점에서 멀면(1.5 km 초과 AND 퍼짐 4배 초과, 커밋 피어 3편 이상) 잡는다.
+//  ③ 좌표가 자기 구역에서 멀고 다른 구역 무리(커밋 3편 이상) 안 3 km 에 있으면
+//  잡는다. 거리만 쓰던 1차 규칙은 "Hong Kong"의 디즈니랜드 같은 정상 글 62편을
+//  오탐했고, 거리를 전제한 2차 규칙은 수리한 24편 중 12편을 놓쳤다.
 //  게이트가 `heldReason: wrong-region` 으로 붙든다.
 //
 //    node scripts/audit-region-outliers.mjs               # src/content/posts 전체
@@ -81,10 +83,10 @@ for (const h of hits) {
   const ev = h.evidence.kind === 'address'
     ? `address names ${h.evidence.region}`
     : `sits ${h.evidence.km.toFixed(1)} km inside the ${h.evidence.region} cluster`;
-  console.log(
-    `REGION-OUTLIER: ${h.post.file} — ${h.distanceKm.toFixed(1)} km from the ${h.post.region} (${h.post.country}) centre ` +
-    `(${h.peers} committed posts, median spread ${h.spreadKm.toFixed(1)} km); ${ev}`
-  );
+  const geo = h.distanceKm == null
+    ? `${h.peers} committed post(s) in ${h.post.region} (${h.post.country}), no centre to measure from`
+    : `${h.distanceKm.toFixed(1)} km from the ${h.post.region} (${h.post.country}) centre (${h.peers} committed posts, median spread ${h.spreadKm.toFixed(1)} km)`;
+  console.log(`REGION-OUTLIER: ${h.post.file} — ${geo}; ${ev}`);
 }
 if (hits.length) {
   console.log(`\n${hits.length} post(s) whose region does not match their address or coordinates.`);
