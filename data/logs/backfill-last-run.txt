@@ -1,15 +1,14 @@
 Places 예산: backfill 몫 10회 (오늘 사용 5/100)
-Priority: 147 itinerary stop(s) queued first
+Priority: 150 itinerary stop(s) queued first
+  – hong-kong-victoria-harbour.md: nothing new (resting 60d)
+  – jurong-japanese-garden.md: nothing new (resting 60d)
+  – lantau-island-big-buddha.md: nothing new (resting 60d)
+  – north-point-north-point-promenade.md: nothing new (resting 60d)
+  – sai-kung-sai-kung-town.md: nothing new (resting 60d)
+  – sentosa-fort-siloso.md: nothing new (resting 60d)
   – tsim-sha-tsui-tsim-sha-tsui-waterfront-park.md: nothing new (resting 60d)
-  – coron-twin-lagoon.md: nothing new (resting 60d)
-  🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – santiago-de-compostela-casco-historico-de-santiago-de-compostela.md: nothing new (resting 60d)
-  – sanya-sanya-nanshan-cultural-tourism-zone.md: nothing new (resting 60d)
-  ✓ sapporo-shiroi-koibito-park.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
-  – shanghai-people-s-park.md: nothing new (resting 60d)
-  – sheung-wan-graham-street-market.md: nothing new (resting 60d)
-  – siem-reap-old-market.md: nothing new (resting 60d)
-  – siem-reap-wat-bo.md: nothing new (resting 60d)
+  – bukhara-bukhara-tower.md: nothing new (resting 60d)
+  – downtown-dubai-the-dubai-fountain.md: nothing new (resting 60d)
+  – dubai-love-lake.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 415, no-new-data 127, no-place 141, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 323 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 333, no-new-data 75, no-place 129, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 343 (APPLIED).
