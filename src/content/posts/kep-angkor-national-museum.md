@@ -1,45 +1,39 @@
 ---
-title: "Angkor National Museum: Kep Travel Guide (4.4★)"
-description: "The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. 4.4★ (6,295 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kep"
-category: "attraction"
-pubDate: "2026-08-26T09:28:47.896Z"
+title: 'Angkor National Museum: Kep Travel Guide (4.4★)'
+description: The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. 4.4★ (6,295 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Kep
+category: attraction
+pubDate: '2026-08-26T09:28:47.896Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Angkor_National_Museum_%28II%29.jpg/3840px-Angkor_National_Museum_%28II%29.jpg"
-  credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Angkor_National_Museum_(II).jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/1496032_V1NBkhvOE3kU5Hf6bwaYuMR15AW7F3aq_tis_eTb90w.jpg
+  credit: 'Photo: Foursquare user content (Angkor National Museum)'
+  license: foursquare
+  source: https://foursquare.com/v/4c830a6ed4e23704eee26d88
   focus:
-    x: 50
-    y: 50
-gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1496032_V1NBkhvOE3kU5Hf6bwaYuMR15AW7F3aq_tis_eTb90w.jpg"
-    credit: "Photo: Foursquare user content (Angkor National Museum)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4c830a6ed4e23704eee26d88"
+    x: 55
+    'y': 35
 place:
-  id: "ChIJn8MGzAwXEDER469lVTwERp8"
-  name: "Angkor National Museum"
-  address: "968 Vithei Preah Sihanouk Ave, Krong Siem Reap, Cambodia"
+  id: ChIJn8MGzAwXEDER469lVTwERp8
+  name: Angkor National Museum
+  address: 968 Vithei Preah Sihanouk Ave, Krong Siem Reap, Cambodia
   rating: 4.4
   userRatingsTotal: 6295
-  googleMapsUrl: "https://maps.google.com/?cid=11476865357577564131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11476865357577564131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.366446499999999
   lng: 103.8601195
-  phone: "+855 63 966 601"
+  phone: +855 63 966 601
   openingHours:
-    - "Monday: 8:30 AM – 6:00 PM"
-    - "Tuesday: 8:30 AM – 6:00 PM"
-    - "Wednesday: 8:30 AM – 6:00 PM"
-    - "Thursday: 8:30 AM – 6:00 PM"
-    - "Friday: 8:30 AM – 6:00 PM"
-    - "Saturday: 8:30 AM – 6:00 PM"
-    - "Sunday: 8:30 AM – 6:00 PM"
+    - 'Monday: 8:30 AM – 6:00 PM'
+    - 'Tuesday: 8:30 AM – 6:00 PM'
+    - 'Wednesday: 8:30 AM – 6:00 PM'
+    - 'Thursday: 8:30 AM – 6:00 PM'
+    - 'Friday: 8:30 AM – 6:00 PM'
+    - 'Saturday: 8:30 AM – 6:00 PM'
+    - 'Sunday: 8:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -50,25 +44,23 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_387052457754566c393634524544455877417a474d386e4a496843"
+    venueId: ven_387052457754566c393634524544455877417a474d386e4a496843
 tags:
-  - "kep"
-  - "museum"
-quickAnswer: "The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit."
+  - kep
+  - museum
+quickAnswer: The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit.
 faq:
-  - q: "Is the Angkor National Museum actually in Kep?"
-    a: "No — despite how this guide is filed, the museum is in Siem Reap on Vithei Preah Sihanouk Avenue, not in the coastal town of Kep. It's the main museum serving visitors to the Angkor Archaeological Park."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 8:30am to 6pm, with no weekly closure day."
-  - q: "When is the quietest time to visit?"
-    a: "Both on weekdays and weekends, 9am–10am is the calmest window, right after opening. Weekends get heavily crowded from 1pm until closing."
-  - q: "How long should I spend there?"
-    a: "Plan on about two hours for a thorough visit; add extra time if you rent the audio guide and read every gallery panel."
-  - q: "Should I visit before or after the temples?"
-    a: "Before. The galleries explain the history and symbolism behind Angkor Wat and the other temples, so seeing the museum first makes the ruins easier to understand."
+  - q: Is the Angkor National Museum actually in Kep?
+    a: No — despite how this guide is filed, the museum is in Siem Reap on Vithei Preah Sihanouk Avenue, not in the coastal town of Kep. It's the main museum serving visitors to the Angkor Archaeological Park.
+  - q: What are the opening hours?
+    a: It's open daily from 8:30am to 6pm, with no weekly closure day.
+  - q: When is the quietest time to visit?
+    a: Both on weekdays and weekends, 9am–10am is the calmest window, right after opening. Weekends get heavily crowded from 1pm until closing.
+  - q: How long should I spend there?
+    a: Plan on about two hours for a thorough visit; add extra time if you rent the audio guide and read every gallery panel.
+  - q: Should I visit before or after the temples?
+    a: Before. The galleries explain the history and symbolism behind Angkor Wat and the other temples, so seeing the museum first makes the ruins easier to understand.
 aiGenerated: true
-draft: true
-heldReason: wrong-region
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -35,15 +35,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Avenged_Sevenfold.JPG/960px-Avenged_Sevenfold.JPG
-  credit: 'Photo: Sry85 / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Avenged_Sevenfold_in_Bercy_7.jpg
+  credit: 'Photo: Metalheart / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold.JPG
+  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_in_Bercy_7.jpg
   focus:
-    x: 48
-    'y': 38
-    top: 30
-    bottom: 45
+    x: 54
+    'y': 26
+    top: 20
+    bottom: 32
 ---
 You feel the buzz before you even reach the venue. Bangkok hasn't hosted Avenged Sevenfold in over a decade, and the city's metal community has been counting down since the Asia Tour dates dropped. Two nights, back to back, October 6 and 7, 2026 — a rare double-header that tells you exactly how much demand there was.
 

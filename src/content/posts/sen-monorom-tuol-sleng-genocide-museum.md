@@ -6,17 +6,17 @@ region: Sen Monorom
 category: attraction
 pubDate: '2026-08-24T08:08:29.918Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/510015786_0og4xA2P1EFXTsC50FC1oKfLvyQODh66yHQxT9WVBZc.jpg"
-    credit: "Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3"
+  - url: https://fastly.4sqi.net/img/general/original/510015786_0og4xA2P1EFXTsC50FC1oKfLvyQODh66yHQxT9WVBZc.jpg
+    credit: 'Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))'
+    license: foursquare
+    source: https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12207377_B3DZmvQgWO_SrCrhGuTTLL8cGREq6mkbaPKGRVirbZs.jpg
-  credit: 'Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))'
-  license: foursquare
-  source: https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg
+  credit: 'Photo: Michael Gruijters at Dutch Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tuol_Sleng.jpg
   focus:
-    x: 50
+    x: 60
     'y': 45
 place:
   id: ChIJw8jeJSJRCTERp9gvbl8l0hM
@@ -62,8 +62,6 @@ faq:
   - q: What should I see nearby afterward?
     a: Many visitors pair the museum with Choeung Ek Killing Fields (about 40 minutes away) via the same tuk-tuk hire, then decompress along the Tonle Sap riverfront or Royal Palace area back in central Phnom Penh.
 aiGenerated: true
-draft: true
-heldReason: wrong-region
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

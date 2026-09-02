@@ -6,18 +6,13 @@ region: Deira
 category: hidden-gem
 pubDate: '2026-08-24T08:26:28.880Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg/960px-Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg
-  credit: 'Photo: Imre Solt / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg
+  url: https://fastly.4sqi.net/img/general/original/17339105_ELuTRlnZM4JtNeoWymX20Mw2LvsLkfDfF2NHMNk6XaQ.jpg
+  credit: 'Photo: Foursquare user content (Dubai City of Gold (سوق الذهب))'
+  license: foursquare
+  source: https://foursquare.com/v/4b0587eff964a52008a822e3
   focus:
     x: 50
-    'y': 50
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/17339105_ELuTRlnZM4JtNeoWymX20Mw2LvsLkfDfF2NHMNk6XaQ.jpg
-    credit: 'Photo: Foursquare user content (Dubai City of Gold (سوق الذهب))'
-    license: foursquare
-    source: https://foursquare.com/v/4b0587eff964a52008a822e3
+    'y': 40
 place:
   id: ChIJzWDbjkNDXz4RbTVr4eR-BLw
   name: Dubai Gold Souk

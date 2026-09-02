@@ -34,6 +34,7 @@ faq:
     a: Only buy through the official tour ticketing partner or IMPACT Arena's own channels. This is a high-demand reunion show across two nights, so unofficial resale listings carry real risk of inflated prices or invalid tickets.
 aiGenerated: true
 eventRecurring: false
+draft: true
 ---
 
 ## Why this stop matters

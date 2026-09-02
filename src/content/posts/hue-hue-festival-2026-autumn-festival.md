@@ -30,13 +30,15 @@ eventOrganizer:
   name: People's Committee of Hue City
   url: https://hue.gov.vn
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Festival_Hu%E1%BA%BF.jpg/960px-Festival_Hu%E1%BA%BF.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/4/46/Festival_Hu%E1%BA%BF.jpg
   credit: 'Photo: AJ Oswald / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Festival_Hu%E1%BA%BF.jpg
   focus:
-    x: 55
-    'y': 55
+    x: 66
+    'y': 44
+    top: 40
+    bottom: 48
 eventFactsAsked: true
 ---
 

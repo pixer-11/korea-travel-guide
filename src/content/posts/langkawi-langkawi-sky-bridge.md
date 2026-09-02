@@ -6,10 +6,10 @@ region: Langkawi
 category: attraction
 pubDate: '2026-08-18T09:02:58.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Langkawi_sky_bridge.jpg/960px-Langkawi_sky_bridge.jpg
-  credit: 'Photo: Flickr user "The Dilly Lama" / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Langkawi_sky_bridge.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Langkawi_sky_bridge.jpg
+  credit: 'Photo: Flickr user ''The Dilly Lama'' / wikimedia (BY)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=7699372
   focus:
     x: 35
     'y': 40

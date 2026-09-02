@@ -6,10 +6,13 @@ region: Lombok
 category: hidden-gem
 pubDate: '2026-07-23T07:20:43.655Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Keindahan_Bukit_Merese.jpg/960px-Keindahan_Bukit_Merese.jpg
-  credit: 'Photo: Rina Harpani / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Keindahan_Bukit_Merese.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/4/49/Merese.jpg
+  credit: 'Photo: Pradnyanandana / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=78881082
+  focus:
+    x: 50
+    'y': 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg
     credit: 'Photo: Pradnyanandana / Wikimedia Commons (CC BY-SA 4.0)'

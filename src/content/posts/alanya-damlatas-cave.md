@@ -6,11 +6,13 @@ region: Alanya
 category: attraction
 pubDate: '2026-08-12T08:46:45.937Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Damlata%C5%9F_Cave.jpg/960px-Damlata%C5%9F_Cave.jpg
-  credit: 'Photo: BillBl / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Damlata%C5%9F_Cave.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/573551664_FQomjbIWM0LWN-NVYBytHFZv0A4Vkp3j62dCtyl-sFY.jpg
+  credit: 'Photo: Foursquare user content (Damlataş Cave (Damlataş Mağarası))'
+  license: foursquare
+  source: https://foursquare.com/v/4e6f2157a809952e23b959e0
+  focus:
+    x: 60
+    'y': 40
 place:
   id: ChIJF3muFJyi3BQRjLvNQprzYas
   name: Damlataş Cave

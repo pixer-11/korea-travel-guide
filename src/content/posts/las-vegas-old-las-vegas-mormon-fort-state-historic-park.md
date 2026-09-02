@@ -6,11 +6,13 @@ region: Las Vegas
 category: attraction
 pubDate: '2026-08-05T11:47:08.929Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg/960px-Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg
-  credit: 'Photo: Jrozwado / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Las_Vegas,_NV_-_Mormon_Fort_(1).jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/50644146_1oadN5cr7dp0IirLPxHWUk5Zd4BN-2wlqJKo357vEOk.jpg
+  credit: 'Photo: Foursquare user content (Old Las Vegas Mormon Fort)'
+  license: foursquare
+  source: https://foursquare.com/v/4c280493ed0ac9b6e2b65faa
+  focus:
+    x: 50
+    'y': 50
 place:
   id: ChIJ_wmlGw_DyIARlf2qt094FxQ
   name: Old Las Vegas Mormon Fort State Historic Park

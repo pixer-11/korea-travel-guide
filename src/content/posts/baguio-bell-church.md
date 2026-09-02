@@ -6,13 +6,13 @@ region: Baguio
 category: attraction
 pubDate: '2026-08-20T09:09:39.887Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bell_Church_Benguet.jpg/960px-Bell_Church_Benguet.jpg
-  credit: 'Photo: jepoycamboy from Makati, Philippines / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bell_Church_Benguet.jpg
+  url: https://fastly.4sqi.net/img/general/original/585062681_2UpvVUNJbnhy-FkbyZ7myh1H_3bwYJfEjJkPuRzb54Q.jpg
+  credit: 'Photo: Foursquare user content (Bell Church)'
+  license: foursquare
+  source: https://foursquare.com/v/4d7b075e154b3704364a12c2
   focus:
     x: 50
-    'y': 40
+    'y': 60
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg/3840px-Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg
     credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'

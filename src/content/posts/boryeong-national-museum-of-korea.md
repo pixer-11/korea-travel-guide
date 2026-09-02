@@ -6,12 +6,12 @@ region: Boryeong
 category: attraction
 pubDate: '2026-08-24T08:21:07.617Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg
-  credit: 'Photo: Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
+  credit: 'Photo: Ismoon (talk) 21:43, 5 July 2018 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea,_Seoul_(2)_(40236586235).jpg
+  source: https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
   focus:
-    x: 50
+    x: 45
     'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
@@ -68,8 +68,6 @@ faq:
   - q: How long should I plan to spend there?
     a: Budget two to three hours for the permanent collection alone; add more time if a special exhibition interests you, since those require separate paid tickets.
 aiGenerated: true
-draft: true
-heldReason: wrong-region
 updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

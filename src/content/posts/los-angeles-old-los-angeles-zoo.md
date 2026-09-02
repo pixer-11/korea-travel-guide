@@ -6,10 +6,13 @@ region: Los Angeles
 category: hidden-gem
 pubDate: '2026-08-04T10:06:13.644Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Griffith_Park_Zoo_%28B9957%29.jpg/960px-Griffith_Park_Zoo_%28B9957%29.jpg
-  credit: 'Photo: Burton Frasher / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Griffith_Park_Zoo_(B9957).jpg
+  url: https://fastly.4sqi.net/img/general/original/25144522_uo6klYbRYEc2xTQVNxK8l8mr4bGOjGwH4_DnWVga4sQ.jpg
+  credit: 'Photo: Foursquare user content (The Old Zoo)'
+  license: foursquare
+  source: https://foursquare.com/v/42f54f00f964a520ce261fe3
+  focus:
+    x: 50
+    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg/3840px-Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg
     credit: 'Photo: Pacific and Atlantic (Agence photographique). Agence photographique pour le document reproduit (commanditaire) Agence Rol. Agence photographique (commanditaire) / Wikimedia Commons (Public domain)'
