@@ -1,37 +1,38 @@
 ---
 lang: es
 slug: hong-kong-3-days
-sourceHash: faef65bfb27e9d152ad62e3a5ce764e21bb377d0
-title: 'Hong Kong en 3 días: Itinerario por Kowloon, Sai Kung y la Isla de Lantau'
-description: Un itinerario de 3 días por Hong Kong que va desde el paseo marítimo de Kowloon y el Puerto Victoria hasta la costa y el parque natural de Sai Kung, para terminar en la Isla de Lantau con el Buda Grande y más allá.
-quickAnswer: 'Este es un itinerario de 3 días por Hong Kong: el primer día recorre Kowloon, Jordan y Admiralty alrededor del puerto; el segundo día se dirige a Sai Kung y los Nuevos Territorios en busca de costa y montaña; el tercer día viaja a la Isla de Lantau para ver el Buda Grande antes de terminar la noche en Jordan.'
+sourceHash: cddbd2198b098f3dfa4756e7f2853179344444d8
+title: 'Hong Kong en 3 días: el puerto, el Buda de Lantau y Sai Kung'
+description: Un itinerario de 3 días por Hong Kong que recorre el paseo marítimo de Tsim Sha Tsui y el puerto Victoria, una excursión de un día a la isla de Lantau para ver el Buda Tian Tan y el Monasterio Po Lin, y un cierre más pausado entre los muelles y colinas de Sai Kung.
+quickAnswer: Este itinerario de 3 días por Hong Kong avanza desde el paseo marítimo de Kowloon y Admiralty el primer día, hasta el Gran Buda y los terrenos del monasterio en la isla de Lantau el segundo día, con una parada en Tai Kok Tsui, y termina entre el muelle, las colinas y el paseo del pueblo pesquero de Sai Kung, en los Nuevos Territorios, el tercer día.
 faq:
-  - q: ¿Cuánta caminata implica este itinerario?
-    a: Algunos días implican trayectos más largos en transporte entre las paradas en lugar de caminatas, como el trayecto desde el Muelle Público de Sai Kung hasta el parque natural, o el cruce entre la Isla de Lantau y la parada nocturna del tercer día. El primer día tiene una caminata corta desde la zona de la Avenida de las Estrellas, y luego transporte hacia las paradas restantes.
-  - q: ¿Cuál es la mejor manera de moverse entre paradas cada día?
-    a: El transporte público o privado cubre la mayoría de los trayectos más largos, especialmente el segundo día en Sai Kung y el tercer día entre la Isla de Lantau y la parada nocturna. Solo la primera parada del primer día tiene una conexión que se puede hacer a pie hacia lo que sigue.
-  - q: ¿Debería visitar el puerto o las paradas del Buda temprano o tarde en el día?
-    a: Tanto la Avenida de las Estrellas el primer día como el Buda Tian Tan el tercer día están más tranquilos temprano, antes de que se acumulen las multitudes, así que vale la pena empezar ambos días temprano.
-  - q: ¿Este itinerario se centra mucho en un solo tipo de actividad?
-    a: Combina paseos por el paseo marítimo y vistas del horizonte el primer día, senderismo y paisajes costeros el segundo día, y una gran subida a una estatua seguida de una extensa visita a un sitio histórico el tercer día.
-  - q: ¿Necesito un día completo para las paradas de la Isla de Lantau?
-    a: La visita al Buda Tian Tan es la más larga de las dos paradas en Lantau, siendo el segundo mirador del Buda Grande un complemento breve, así que planifica la mayor parte de tu tiempo en Lantau alrededor de la primera parada.
+  - q: ¿Cuánto se camina en este itinerario?
+    a: La mayoría de los días combinan caminatas cortas con transporte para los trayectos más largos, como el cruce desde la meseta de Ngong Ping en la isla de Lantau de vuelta hacia Tai Kok Tsui, o desde el pueblo de Sai Kung hasta el parque natural.
+  - q: ¿Qué día es mejor para una excursión de un día a la isla de Lantau?
+    a: El segundo día está organizado alrededor de la isla de Lantau, dedicando la mañana y buena parte de la tarde al Buda Tian Tan y al Monasterio Po Lin antes de regresar hacia el lado de los Nuevos Territorios.
+  - q: ¿Este itinerario implica mucho senderismo?
+    a: Solo el tercer día se adentra en terreno más montañoso, en el Parque Natural de Sai Kung East; el resto del viaje transcurre por paseos marítimos, una meseta con monasterio y un parque de barrio.
+  - q: ¿Cuál es el mejor momento del día para visitar el Gran Buda en Lantau?
+    a: Ir temprano, antes de que la meseta se llene de visitantes, permite disfrutar de una visita más tranquila al Buda y a los terrenos del monasterio contiguo.
+  - q: ¿Cómo debo planear la visita para evitar las multitudes en el puerto Victoria?
+    a: Llegar al lado de Admiralty a última hora de la tarde permite instalarse antes de que la vista del puerto atraiga a las multitudes nocturnas.
 days:
-  - label: Íconos frente al mar en Kowloon y más allá
-    intro: El primer día comienza en el paseo marítimo de Kowloon antes de dirigirse a Jordan para un almuerzo clásico en un cha chaan teng. Desde ahí, el recorrido gira hacia Admiralty mientras el horizonte se ilumina sobre el Puerto Victoria.
-  - label: La costa y las montañas de Sai Kung
-    intro: El segundo día permanece en Sai Kung y los Nuevos Territorios en general, comenzando en el muelle público y subiendo hacia el montañoso parque natural que se extiende más allá. El recorrido desciende de vuelta hacia el pueblo de Sai Kung para la tarde, donde el paseo marítimo y los puestos de mariscos toman protagonismo.
-  - label: El Buda Grande de Lantau, y luego un salto a Petra
-    intro: El último día comienza en la Isla de Lantau con el Buda Tian Tan y la estatua vecina junto a los terrenos del monasterio en Ngong Ping, Nuevos Territorios. Por la noche, el recorrido salta hasta Petra en Jordan para una exploración larga y completa del sitio antiguo.
+  - label: Neón, paseo marítimo y leyendas del cine
+    intro: El primer día comienza en el paseo marítimo de Tsim Sha Tsui, en Kowloon, y luego continúa hacia Jordan para almorzar en una institución sencilla y sin pretensiones. Desde allí cruza hacia el lado de Admiralty del puerto Victoria para disfrutar de las vistas del horizonte al caer la tarde.
+  - label: El Gran Buda y una subida en Lantau
+    intro: El segundo día se dirige a la isla de Lantau para ver el Buda Tian Tan y los terrenos del monasterio a sus pies, dedicando la mañana y buena parte de la tarde a la meseta de Ngong Ping. Luego cruza hacia el lado de los Nuevos Territorios antes de terminar en un tranquilo banco de un parque en Tai Kok Tsui.
+  - label: El paseo marítimo y las colinas de Sai Kung
+    intro: El tercer día se centra en Sai Kung, comenzando en el muelle público antes de dirigirse hacia el terreno más agreste del Parque Natural de Sai Kung East, en los Nuevos Territorios. Termina de vuelta en el pueblo de Sai Kung, donde el paseo marítimo del pueblo pesquero cobra vida al anochecer.
 whys:
-  central-avenue-of-stars-hk: Este paseo marítimo en Tsim Sha Tsui, Kowloon, es un recorrido gratuito y disponible a toda hora junto al agua, con la estatua de Bruce Lee y las placas con huellas de películas, un inicio de día sencillo y relajado.
-  jordan-australia-dairy-company: Un legendario cha chaan teng de Jordan conocido por sus tortillas de clara de huevo al vapor y sus mesas comunales de ritmo rápido, esta es una parada de almuerzo económica y sin pretensiones.
-  hong-kong-victoria-harbour: La vista emblemática del paseo marítimo de Hong Kong desde el lado de Admiralty, aquí el horizonte y el espectáculo de luces nocturno hacen de este un cierre memorable para la tarde.
-  sai-kung-sai-kung-public-pier: El centro del paseo marítimo del pueblo de Sai Kung, este muelle es donde se reúnen los operadores de sampanes y lanchas rápidas y los tanques de mariscos vivos bordean el paseo, un punto de partida natural para la mañana.
-  sai-kung-sai-kung-east-country-park: Esta extensión montañosa de los Nuevos Territorios alberga el Embalse High Island y formaciones rocosas volcánicas, dando a la tarde una dosis de senderos abiertos y paisajes más allá del propio pueblo.
-  sai-kung-sai-kung-town: Un antiguo pueblo de pescadores convertido en un paseo de restaurantes de mariscos y muelles de sampanes, este es un relajado cierre de tarde con barcos de pesca y puestos flotantes para observar.
-  lantau-island-tian-tan-buddha: Situada en lo alto de la meseta de Ngong Ping, en la Isla de Lantau, esta gigantesca figura de bronce y sus más de 260 escalones son la razón principal para hacer el viaje, con el Monasterio Po Lin justo al lado.
-  lantau-island-big-buddha: La misma estatua de bronce vista desde el Monasterio Po Lin, esta es una breve mirada adicional a la figura y sus escalones antes de continuar.
-  jordan-petra: La ciudad antigua excavada en roca de Jordan cierra el día con una visita larga y completa a través del desfiladero del Siq, que vale el tiempo extra que toma llegar hasta el Monasterio.
+  central-avenue-of-stars-hk: Este paseo marítimo de Tsim Sha Tsui es famoso por la estatua de Bruce Lee y las placas con huellas de manos que homenajean al cine de Hong Kong, y a esta hora está lo bastante tranquilo para recorrerlo sin aglomeraciones.
+  jordan-australia-dairy-company: Este legendario cha chaan teng de Jordan es conocido por sus tortillas de clara de huevo al vapor, bien temblorosas, y sus huevos revueltos sedosos, lo que lo convierte en una parada de almuerzo rápida y económica.
+  hong-kong-victoria-harbour: La pieza central del puerto de Hong Kong se disfruta mejor desde el lado de Admiralty cuando el horizonte se ilumina, lo que lo convierte en un cierre perfecto para el primer día.
+  lantau-island-tian-tan-buddha: Esta gigantesca figura de bronce en lo alto de la meseta de Ngong Ping, a la que se llega en teleférico o autobús, es la principal razón para visitar la isla de Lantau y merece la pena verla antes de que las escaleras y los terrenos se llenen de gente.
+  hong-kong-po-lin-monastery: Los terrenos del monasterio se encuentran justo junto al Gran Buda, y llegar temprano mantiene el lugar tranquilo antes de que lleguen los grupos turísticos del fin de semana.
+  lantau-island-big-buddha: Esta estatua de bronce y su ascenso de 268 escalones se encuentran justo encima del Monasterio Po Lin, completando la visita a Ngong Ping iniciada más temprano en el día.
+  mong-kok-lok-kwan-street-park: Un pequeño parque de barrio en Tai Kok Tsui, ideal para una breve pausa que cierre un largo día en Lantau.
+  sai-kung-sai-kung-public-pier: El centro del paseo marítimo del pueblo de Sai Kung, donde se reúnen los operadores de sampanes y lanchas rápidas y los tanques de mariscos vivos bordean el paseo, es un punto de partida sencillo para el día.
+  sai-kung-sai-kung-east-country-park: Esta zona montañosa de los Nuevos Territorios, hogar del embalse de High Island y de formaciones rocosas volcánicas, es el contrapunto más agreste del día frente al propio pueblo.
+  sai-kung-sai-kung-town: El paseo de restaurantes de mariscos y muelles de sampanes de este antiguo pueblo pesquero es perfecto para un paseo a última hora de la tarde que se prolongue hasta el ambiente de la cena.
 rainWhys: {}
 ---

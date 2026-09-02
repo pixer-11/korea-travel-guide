@@ -15926,5 +15926,35 @@
     "reason": "Distinctive blue tilted building, Lanyang Museum exterior",
     "reasonKo": "독특한 파란색 건물, 란양 박물관 외관",
     "at": "2026-08-19T13:30:07.505Z"
+  },
+  "sapporo-hokkaido-jingu\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg/1920px-%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg": {
+    "slug": "sapporo-hokkaido-jingu",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Hokkaido Jingu shrine exterior, representative view",
+    "at": "2026-09-02T10:37:54.808Z"
+  },
+  "bugis-kwan-im-thong-hood-cho-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kwan_Im_Thong_Hood_Cho_Temple_%E8%A7%80%E9%9F%B3%E5%A0%82%E4%BD%9B%E7%A5%96%E5%BB%9F_%282025%29_-_img_09.jpg/1920px-Kwan_Im_Thong_Hood_Cho_Temple_%E8%A7%80%E9%9F%B3%E5%A0%82%E4%BD%9B%E7%A5%96%E5%BB%9F_%282025%29_-_img_09.jpg": {
+    "slug": "bugis-kwan-im-thong-hood-cho-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Temple facade with signage clearly visible and recognisable",
+    "at": "2026-09-02T10:40:57.847Z"
+  },
+  "sapporo-odori-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hokkaido_Sapporo_Odori_Park.jpg/1920px-Hokkaido_Sapporo_Odori_Park.jpg": {
+    "slug": "sapporo-odori-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Odori Park corridor in Sapporo cityscape",
+    "at": "2026-09-02T10:42:29.970Z"
+  },
+  "sentosa-flower-dome\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flower_Dome_%28II%29.jpg/3840px-Flower_Dome_%28II%29.jpg": {
+    "slug": "sentosa-flower-dome",
+    "verdict": "MATCH",
+    "reason": "publish gate: Conservatory interior matches Flower Dome venue type",
+    "at": "2026-09-02T10:44:55.363Z"
+  },
+  "tiong-bahru-thian-hock-keng-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Singapore_Tempel_Thian_Hock_Keng_1.jpg/1920px-Singapore_Tempel_Thian_Hock_Keng_1.jpg": {
+    "slug": "tiong-bahru-thian-hock-keng-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Chinese temple facade, representative hero shot",
+    "at": "2026-09-02T10:49:32.657Z"
   }
 }

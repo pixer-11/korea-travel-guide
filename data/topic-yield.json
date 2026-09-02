@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 119,
-   "hits": 72
+   "attempts": 123,
+   "hits": 75
   },
   "park": {
-   "attempts": 112,
-   "hits": 64
+   "attempts": 115,
+   "hits": 66
   },
   "viewpoint": {
    "attempts": 51,
@@ -74,7 +74,7 @@
    "hits": 0
   },
   "bar": {
-   "attempts": 16,
+   "attempts": 17,
    "hits": 0
   },
   "vegetarian": {
@@ -162,5 +162,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-01T10:44:04.047Z"
+ "updated": "2026-09-02T10:49:32.674Z"
 }

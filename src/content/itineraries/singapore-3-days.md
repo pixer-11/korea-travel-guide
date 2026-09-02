@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Gardens, Rainforest & Coastal Katong'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage lanes to the rainforest trails of Bukit Timah and the coastal, market-filled corners of Katong.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one covers Marina Bay''s gardens and Kampong Glam''s heritage streets, day two heads into Bukit Timah''s rainforest before winding down at the Botanic Gardens, and day three moves along the East Coast into Geylang Serai and Katong Park.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: 8842737e99696a90c3098a6cd1bf4059c551c198
+stopsHash: 3e5829fc1dad94e21689893a89339fef9cbd55b9
 packedAvailable: true
 faq:
   - q: How should I get around for this 3-day Singapore itinerary?
@@ -44,7 +44,15 @@ itinerary:
         why: Returning to Supertree Grove in the evening times the visit to the free Garden Rhapsody light-and-sound show, the highlight reason to come after dark.
         dwellMin: 45
         walkToNext:
-          km: 2.8
+          km: 0.4
+          minutes: 5
+          transit: false
+      - slug: sentosa-flower-dome
+        slot: afternoon
+        why: A attraction rated 4.7 by visitors, included as a stop on this route.
+        dwellMin: 60
+        walkToNext:
+          km: 2.5
           minutes: null
           transit: true
       - slug: kampong-glam-kampong-glam-cafe
@@ -105,6 +113,6 @@ itinerary:
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-01T10:51:22.955Z'
+updatedDate: '2026-09-02T11:01:20.562Z'
 ---
 
