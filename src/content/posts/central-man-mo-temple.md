@@ -1,8 +1,8 @@
 ---
-title: 'Man Mo Temple: Central Travel Guide (4.3★)'
+title: 'Man Mo Temple: Sheung Wan Travel Guide (4.3★)'
 description: Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the calmest visit is right at opening on a weekend (8–9am) or really any weekday hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays. 4.3★ (7,015 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Central
+region: Sheung Wan
 category: attraction
 pubDate: '2026-08-19T08:09:31.307Z'
 heroImage:

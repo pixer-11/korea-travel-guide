@@ -1,8 +1,8 @@
 ---
-title: 'Tuol Sleng Genocide Museum: Sen Monorom Travel Guide (4.6★)'
-description: Tuol Sleng Genocide Museum sits in central Phnom Penh, not Sen Monorom — this listing's region tag is off, but the museum itself is on Street 113 in the capital's Boeng Keng Kang area. 4.6★ (12,141 reviews) — what visitors say, hours, and tips.
+title: 'Tuol Sleng Genocide Museum: Phnom Penh Travel Guide (4.6★)'
+description: Tuol Sleng Genocide Museum sits in central Phnom Penh — the museum itself is on Street 113 in the capital's Boeng Keng Kang area. 4.6★ (12,141 reviews) — what visitors say, hours, and tips.
 country: Cambodia
-region: Sen Monorom
+region: Phnom Penh
 category: attraction
 pubDate: '2026-08-24T08:08:29.918Z'
 gallery:
@@ -49,7 +49,7 @@ place:
 tags:
   - sen monorom
   - museum
-quickAnswer: Tuol Sleng Genocide Museum sits in central Phnom Penh, not Sen Monorom — this listing's region tag is off, but the museum itself is on Street 113 in the capital's Boeng Keng Kang area. It's open daily 8am–5pm, and the quietest window is 8am–9am, before tour buses arrive by mid-morning. Plan on 1.5–2.5 hours, and pair it with the Killing Fields at Choeung Ek the same day.
+quickAnswer: Tuol Sleng Genocide Museum sits in central Phnom Penh — the museum itself is on Street 113 in the capital's Boeng Keng Kang area. It's open daily 8am–5pm, and the quietest window is 8am–9am, before tour buses arrive by mid-morning. Plan on 1.5–2.5 hours, and pair it with the Killing Fields at Choeung Ek the same day.
 faq:
   - q: Is Tuol Sleng Genocide Museum in Sen Monorom?
     a: No — despite how this guide is labeled, the museum is in Phnom Penh, on Street 113 in the Boeng Keng Kang area. Sen Monorom, in Mondulkiri province, is about a 5–6 hour drive away.

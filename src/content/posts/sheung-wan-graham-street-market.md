@@ -1,8 +1,8 @@
 ---
-title: 'Graham Street Market: Sheung Wan Travel Guide (4.2★)'
+title: 'Graham Street Market: Central Travel Guide (4.2★)'
 description: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. 4.2★ (124 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Sheung Wan
+region: Central
 category: hidden-gem
 pubDate: '2026-08-15T07:51:15.327Z'
 heroImage:

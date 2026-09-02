@@ -1,8 +1,8 @@
 ---
-title: 'Angkor National Museum: Kep Travel Guide (4.4★)'
-description: The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. 4.4★ (6,295 reviews) — what visitors say, hours, and tips.
+title: 'Angkor National Museum: Siem Reap Travel Guide (4.4★)'
+description: The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. 4.4★ (6,295 reviews) — what visitors say, hours, and tips.
 country: Cambodia
-region: Kep
+region: Siem Reap
 category: attraction
 pubDate: '2026-08-26T09:28:47.896Z'
 heroImage:
@@ -48,7 +48,7 @@ place:
 tags:
   - kep
   - museum
-quickAnswer: The Angkor National Museum is actually in Siem Reap, not Kep — its address is on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit.
+quickAnswer: The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit.
 faq:
   - q: Is the Angkor National Museum actually in Kep?
     a: No — despite how this guide is filed, the museum is in Siem Reap on Vithei Preah Sihanouk Avenue, not in the coastal town of Kep. It's the main museum serving visitors to the Angkor Archaeological Park.
