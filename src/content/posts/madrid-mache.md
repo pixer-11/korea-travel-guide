@@ -5,7 +5,6 @@ country: Spain
 region: Madrid
 category: trendy
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - madrid
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there by metro?
     a: Sevilla or Antón Martín on Line 2 are the closest stations, with Sol (Lines 1, 2, 3) also within walking distance if you're coming from elsewhere in central Madrid.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/32101378_gcOv6AR0z-1KO78aIpwOYrYVA5JAwbxs3S1e6ff2KAc.jpg
+  credit: 'Photo: Foursquare user content (Restaurante Maché)'
+  license: foursquare
+  source: https://foursquare.com/v/691b4059093105705d9cda96
+  focus:
+    x: 45
+    'y': 50
 ---
 
 ## Where Maché fits into Barrio de las Letras

@@ -1,44 +1,39 @@
 ---
-title: "Chiayi Cheng Huang Temple: Travel Guide (4.7★)"
-description: "Chiayi Cheng Huang Temple, a nationally recognized historic shrine on Wufeng North Road in Chiayi City's East District, is open daily from 7am to 9pm and free to enter. 4.7★ (2,817 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Chiayi"
-category: "attraction"
-pubDate: "2026-09-03T10:41:04.526Z"
+title: 'Chiayi Cheng Huang Temple: Travel Guide (4.7★)'
+description: Chiayi Cheng Huang Temple, a nationally recognized historic shrine on Wufeng North Road in Chiayi City's East District, is open daily from 7am to 9pm and free to enter. 4.7★ (2,817 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Chiayi
+category: attraction
+pubDate: '2026-09-03T10:41:04.526Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chiayi_Cheng_Huang_tempel.jpg"
-  credit: "Photo: Naplee12 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chiayi_Cheng_Huang_tempel.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg/3840px-Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg
+  credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chiayi_Cheng_Huang_(City_God)_Temple,_Pailou_(Arch)_(Taiwan).jpg
   focus:
     x: 50
-    y: 45
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg/3840px-Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg"
-    credit: "Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chiayi_Cheng_Huang_(City_God)_Temple,_Pailou_(Arch)_(Taiwan).jpg"
+    'y': 40
 place:
-  id: "ChIJ1RbduzaUbjQR5Oqsq4Msa0Q"
-  name: "Chiayi Cheng Huang Temple"
-  address: "No. 168號, Wufeng N Rd, Minzu Village, East District, Chiayi City, Taiwan 600"
+  id: ChIJ1RbduzaUbjQR5Oqsq4Msa0Q
+  name: Chiayi Cheng Huang Temple
+  address: No. 168號, Wufeng N Rd, Minzu Village, East District, Chiayi City, Taiwan 600
   rating: 4.7
   userRatingsTotal: 2817
-  googleMapsUrl: "https://maps.google.com/?cid=4930083161119714020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4930083161119714020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.4783248
   lng: 120.45357189999999
-  phone: "+886 5 222 4116"
+  phone: +886 5 222 4116
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-09-03
+    updated: 2026-09-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,22 +49,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_513061734d347173714f3552516a6255617a75646252314a496843"
+    venueId: ven_513061734d347173714f3552516a6255617a75646252314a496843
 tags:
-  - "chiayi"
-  - "historic site"
-quickAnswer: "Chiayi Cheng Huang Temple, a nationally recognized historic shrine on Wufeng North Road in Chiayi City's East District, is open daily from 7am to 9pm and free to enter. It's calmest on weekday mornings between 7am and 9am; weekends stay busy from 9am to 5pm. Give it 30-45 minutes, longer if you want to study the carvings."
+  - chiayi
+  - historic site
+quickAnswer: Chiayi Cheng Huang Temple, a nationally recognized historic shrine on Wufeng North Road in Chiayi City's East District, is open daily from 7am to 9pm and free to enter. It's calmest on weekday mornings between 7am and 9am; weekends stay busy from 9am to 5pm. Give it 30-45 minutes, longer if you want to study the carvings.
 faq:
-  - q: "What are the opening hours for Chiayi Cheng Huang Temple?"
-    a: "It's open every day from 7am to 9pm, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 9am are calmest. Weekends stay busy from about 9am to 5pm, so aim outside that window if you want fewer crowds."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free, though donations for incense are customary if you plan to make an offering."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30-45 minutes; allow closer to an hour if you want to study the roof carvings and ceiling in detail."
-  - q: "How do I get to the temple from Chiayi Train Station?"
-    a: "It's about a 15-20 minute walk from the station, or a short taxi ride, and can easily be combined with the Chiayi Confucius Temple and Hinoki Village nearby."
+  - q: What are the opening hours for Chiayi Cheng Huang Temple?
+    a: It's open every day from 7am to 9pm, with no weekly closing day.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings between 7am and 9am are calmest. Weekends stay busy from about 9am to 5pm, so aim outside that window if you want fewer crowds.
+  - q: Is there an entrance fee?
+    a: No, entry is free, though donations for incense are customary if you plan to make an offering.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 30-45 minutes; allow closer to an hour if you want to study the roof carvings and ceiling in detail.
+  - q: How do I get to the temple from Chiayi Train Station?
+    a: It's about a 15-20 minute walk from the station, or a short taxi ride, and can easily be combined with the Chiayi Confucius Temple and Hinoki Village nearby.
 aiGenerated: true
 draft: false
 ---

@@ -11,13 +11,13 @@ gallery:
     license: foursquare
     source: https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tuol_Sleng.jpg/960px-Tuol_Sleng.jpg
-  credit: 'Photo: Michael Gruijters at Dutch Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tuol_Sleng.jpg
+  url: https://fastly.4sqi.net/img/general/original/12207377_B3DZmvQgWO_SrCrhGuTTLL8cGREq6mkbaPKGRVirbZs.jpg
+  credit: 'Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))'
+  license: foursquare
+  source: https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3
   focus:
-    x: 60
-    'y': 45
+    x: 40
+    'y': 40
 place:
   id: ChIJw8jeJSJRCTERp9gvbl8l0hM
   name: Tuol Sleng Genocide Museum

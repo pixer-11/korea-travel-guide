@@ -6,18 +6,13 @@ region: Taipei
 category: attraction
 pubDate: '2026-08-21T08:02:42.014Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Taipei_Botanical_Garden_Greenhouse.jpg/960px-Taipei_Botanical_Garden_Greenhouse.jpg
-  credit: 'Photo: Meiguoren / Wikimedia Commons (CC0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Botanical_Garden_Lotus_20240421_06.jpg/3840px-Taipei_Botanical_Garden_Lotus_20240421_06.jpg
+  credit: 'Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Taipei_Botanical_Garden_Greenhouse.jpg
+  source: https://commons.wikimedia.org/wiki/File:Taipei_Botanical_Garden_Lotus_20240421_06.jpg
   focus:
-    x: 50
-    'y': 40
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Botanical_Garden_Lotus_20240421_06.jpg/3840px-Taipei_Botanical_Garden_Lotus_20240421_06.jpg
-    credit: 'Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Taipei_Botanical_Garden_Lotus_20240421_06.jpg
+    x: 57
+    'y': 42
 place:
   id: ChIJe1ASN0-pQjQRIeghXqXkkAg
   name: Taipei Botanical Garden

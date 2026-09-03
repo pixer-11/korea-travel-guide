@@ -5,7 +5,6 @@ country: China
 region: Shanghai
 category: hidden-gem
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - shanghai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it beginner-friendly for visitors who don't speak Chinese?
     a: Not especially. There's likely no English menu or English-speaking staff, so save the dish name in Chinese characters on your phone and be ready to point at what regulars are eating.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/85142592_7xdzOxwpimbRzQlI3x667T-vuyt652fowLJ6Z28JVrI.jpg
+  credit: 'Photo: Foursquare user content (Lao Di Fang Noodle House (老地方面馆))'
+  license: foursquare
+  source: https://foursquare.com/v/4bd7aa4788559521b82388a7
+  focus:
+    x: 55
+    'y': 45
 ---
 
 ## What Panyu Lu actually is

@@ -6,13 +6,13 @@ region: Harbin
 category: attraction
 pubDate: '2026-08-14T08:53:39.101Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg/960px-%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg
-  credit: 'Photo: 朕邦萬広 / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jile_Temple_6.jpg/3840px-Jile_Temple_6.jpg
+  credit: 'Photo: EditQ / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg
+  source: https://commons.wikimedia.org/wiki/File:Jile_Temple_6.jpg
   focus:
     x: 50
-    'y': 30
+    'y': 45
 place:
   id: ChIJVU-_Gf5_RF4Rxwvfygjn450
   name: Jile Temple

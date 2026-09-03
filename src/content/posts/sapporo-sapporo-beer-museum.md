@@ -6,14 +6,13 @@ region: Sapporo
 category: attraction
 pubDate: '2026-09-01T10:44:08.019Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sapporo_Beer_Museum.JPG/960px-Sapporo_Beer_Museum.JPG
-  credit: 'Photo: The original uploader was K. Takeda at Japanese Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.JPG
+  url: https://fastly.4sqi.net/img/general/original/146031718_6VMVLnbJuEr_Bb_LrdRrNgfRsiato7W-7e8YdT4G6Bw.jpg
+  credit: 'Photo: Foursquare user content (Sapporo Beer Museum (サッポロビール博物館))'
+  license: foursquare
+  source: https://foursquare.com/v/4b6d0103f964a52087622ce3
   focus:
-    x: 55
-    'y': 45
-gallery: []
+    x: 30
+    'y': 30
 place:
   id: ChIJ0fYsL4QpC18Ry-fF7_rGYBM
   name: Sapporo Beer Museum

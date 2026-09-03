@@ -5,7 +5,6 @@ country: Turkey
 region: Izmir
 category: restaurant
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - izmir
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What should I check before going?
     a: Since Scappi only recently opened, confirm current opening hours, menu, and pricing directly with the Swissotel Büyük Efes before planning your visit, as these details may still be settling.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/41600728_bBo2Gd2NzsSEvYZXkDP6ch0UY3wTPmEMPPum79h7GoQ.jpg
+  credit: 'Photo: Foursquare user content (Scappi)'
+  license: foursquare
+  source: https://foursquare.com/v/64dfb56950d06e61722b2eaf
+  focus:
+    x: 45
+    'y': 70
 ---
 
 Nine floors above Izmir's waterfront, inside the Swissotel Büyük Efes, a dining room named after a sixteenth-century Italian chef has become the reservation everyone in the city is suddenly trying to make.

@@ -5,7 +5,6 @@ country: India
 region: Mumbai
 category: trendy
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - mumbai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Pali Hill and Bandra West offer plenty to pair with a visit, including Mount Mary Church, Bandra Fort, and a dense strip of other cafés and design stores worth a slow afternoon walk.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/7978579_hlhe3Ca-CSErBzp5TYiZ1g2jgL1L3-GyB7obyeh6CYM.jpg
+  credit: 'Photo: Foursquare user content (Mokai)'
+  license: foursquare
+  source: https://foursquare.com/v/6a27883b4e3cb17df74f0304
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Pali Hill has no shortage of cafés chasing the "aesthetic" crowd, but Mokai is doing something stranger and more specific: it isn't sure if it's a coffee shop or a gallery, and it doesn't seem to want to decide.

@@ -6,11 +6,13 @@ region: Central
 category: hidden-gem
 pubDate: '2026-08-15T07:51:15.327Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HK_Graham_Street_3.jpg/960px-HK_Graham_Street_3.jpg
-  credit: 'Photo: No machine-readable author provided. TangHon~commonswiki assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:HK_Graham_Street_3.jpg
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/d/db/HK_Central_Butterfly_on_122_Wellington_Street_Graham_Street_name_sign_n_Fruit_stall_market_Nov-2012.JPG
+  credit: 'Photo: Ghitangshenho / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=22696865
+  focus:
+    x: 40
+    'y': 75
 place:
   id: ChIJ5ZqMJd8BBDQRhPr6e3ihHVA
   name: Graham Street Market

@@ -6,13 +6,13 @@ region: Cannes
 category: attraction
 pubDate: '2026-07-26T07:10:57.328Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg/960px-%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg
-  credit: 'Photo: Vestemocoso / wikimedia (BY-SA)'
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Cannes_Mural_Cinema_Bus_Station%2C_France_During_Night_in_2018.jpg
+  credit: 'Photo: Envision Studio / wikimedia (BY-SA)'
   license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=81913814
+  source: https://commons.wikimedia.org/w/index.php?curid=106973683
   focus:
-    x: 45
-    'y': 30
+    x: 40
+    'y': 45
 place:
   id: ChIJJ-O4N4mBzhIRXyDTs2nGHDQ
   name: Mural - Cannes Cinema

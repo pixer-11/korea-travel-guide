@@ -16,14 +16,13 @@ eventOffers:
   url: https://tgs.cesa.or.jp/2026/en
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sega_booth%2C_Tokyo_Game_Show_20040926b.jpg/960px-Sega_booth%2C_Tokyo_Game_Show_20040926b.jpg
-  credit: 'Photo: No machine-readable author provided. Calton assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/5/52/Tokyo-Game-Show-2024-Day4---2024-09-29_353.jpg
+  credit: 'Photo: RuinDig/Yuki Uchida / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sega_booth,_Tokyo_Game_Show_20040926b.jpg
+  source: https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2024-Day4---2024-09-29_353.jpg
   focus:
-    x: 50
-    'y': 40
-gallery: []
+    x: 75
+    'y': 35
 tags:
   - chiba
   - event

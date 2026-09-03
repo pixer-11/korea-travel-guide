@@ -6,14 +6,13 @@ region: Naples
 category: attraction
 pubDate: '2026-08-05T11:08:07.569Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg/960px-Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg
-  credit: 'Photo: Mister No / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_(1).jpg
+  url: https://fastly.4sqi.net/img/general/original/28986758_GYMVw7m2IEeZ9e1bhqRBBc9V5osQ-MgHk0u_eP-qIoc.jpg
+  credit: 'Photo: Foursquare user content (National Archeological Museum (Museo Archeologico Nazionale))'
+  license: foursquare
+  source: https://foursquare.com/v/4c1907a2d4d9c9282d53f029
   focus:
-    x: 50
-    'y': 25
-gallery: []
+    x: 55
+    'y': 30
 place:
   id: ChIJI0DJ4mcIOxMRmHwFiRXPjrQ
   name: Museo Archeologico Nazionale di Napoli

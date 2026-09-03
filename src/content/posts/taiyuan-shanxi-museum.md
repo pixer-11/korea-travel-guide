@@ -6,11 +6,13 @@ region: Taiyuan
 category: hidden-gem
 pubDate: '2026-08-02T09:32:03.987Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shanxi_Museum_20110719.jpg/960px-Shanxi_Museum_20110719.jpg
-  credit: 'Photo: Roland Longbow / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shanxi_Museum_20110719.jpg
-gallery: []
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4c/Shanxi_Museum_2009_Taiyuan_892.jpg
+  credit: 'Photo: G41rn8 / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=48428628
+  focus:
+    x: 45
+    'y': 45
 place:
   id: ChIJM2TbRDGpCjYRmrwYkpRi0bY
   name: Shanxi Museum

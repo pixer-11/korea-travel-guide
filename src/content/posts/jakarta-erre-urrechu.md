@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I confirm hours before going?
     a: Yes. Since the restaurant just opened, contact the hotel directly to confirm current opening days, dinner seating times, and menu before visiting.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1529286_cCUuFtOS202qHQvy4DPn4-Rit93r1FBvAl_XGzpdzB4.jpg
+  credit: 'Photo: Foursquare user content (Erre & Urrechu)'
+  license: foursquare
+  source: https://foursquare.com/v/6834239d1bd92124cb9e8dad
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A Basque grill lands in Kuningan

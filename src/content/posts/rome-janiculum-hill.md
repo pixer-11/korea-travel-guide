@@ -6,10 +6,13 @@ region: Rome
 category: hidden-gem
 pubDate: '2026-08-04T10:10:51.439Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Janiculum.jpg/960px-Janiculum.jpg
-  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Janiculum.jpg
+  url: https://fastly.4sqi.net/img/general/original/55016645_oBKiaPdQLmtpEGfhbqWLsHgBpGzWBg_nM_Ce8HAL6Ls.jpg
+  credit: 'Photo: Foursquare user content (Janiculum Hill)'
+  license: foursquare
+  source: https://foursquare.com/v/64733762b11f9d5d4e062542
+  focus:
+    x: 50
+    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg/1920px-Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg
     credit: 'Photo: Stefano Costantini / Wikimedia Commons (CC BY 2.0)'
