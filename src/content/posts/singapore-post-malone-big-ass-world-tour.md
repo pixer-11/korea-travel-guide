@@ -26,13 +26,15 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/1920px-Post_Malone_July_2021_%28cropped%29.jpg
-  credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Post_Malone_EMZYPRODUCTIONFILMS.jpg/1920px-Post_Malone_EMZYPRODUCTIONFILMS.jpg
+  credit: 'Photo: Ahmetml / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_EMZYPRODUCTIONFILMS.jpg
   focus:
-    x: 55
-    'y': 35
+    x: 61
+    'y': 21
+    top: 10
+    bottom: 32
 eventOrganizer:
   name: Live Nation
   url: https://www.livenation.asia

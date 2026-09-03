@@ -62,8 +62,22 @@ export function imageKeys(url) {
   const n = /photo-(\d+)/.exec(u);
   if (n) keys.push(`unum:${n[1]}`);
   const id = photoIdentity(u);
-  if (id) keys.push(id);
+  if (id) keys.push(foldCrop(id));
   return keys;
+}
+
+// A Commons crop of a photograph is the SAME picture to a reader — which is
+// the whole point of the duplicate rule (owner decision, 2026-09-03: Bangkok
+// wore Post_Malone_July_2021.jpg and Singapore wore
+// Post_Malone_July_2021_(cropped).jpg, and validate-content called them two
+// photos). Commons names crops by a trailing marker on the base file name;
+// strip only that marker, never a numbered sibling ("Foo_2", "Foo_(II)" are
+// different photographs).
+const CROP_MARKER = /(?:[ _-]?\((?:cropped|crop)(?:[ _]?\d+)?\)|[ _-]cropped)(?=\.[A-Za-z0-9]+$)/i;
+export function foldCrop(identity) {
+  const s = String(identity ?? '');
+  if (!s.startsWith('commons:')) return s;
+  return `commons:${s.slice(8).replace(CROP_MARKER, '')}`;
 }
 
 /** One string per photo: the Commons file, the Unsplash number, else the URL itself. Null for no URL. */

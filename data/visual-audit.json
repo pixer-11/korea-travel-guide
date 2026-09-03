@@ -7118,9 +7118,9 @@
   },
   "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png": {
     "slug": "singapore-post-malone-big-ass-world-tour",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Post Malone concert tour promotional image",
-    "at": "2026-08-09T04:37:18.161Z"
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 727px < 1024",
+    "at": "2026-09-03T05:50:22.316Z"
   },
   "taipei-ive-world-tour-2026-show-what-i-am-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg/1920px-IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg": {
     "slug": "taipei-ive-world-tour-2026-show-what-i-am-taipei",
@@ -16230,5 +16230,53 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Colonial building with courtyard matches Tuol Sleng's archit",
     "at": "2026-09-02T22:11:31.072Z"
+  },
+  "bugis-supertree-grove\u0001https://fastly.4sqi.net/img/general/original/13678450_2IfSKyHzB5sDdzJGCuOomZ8ZNy0IfFn-fCMUgDRNXkU.jpg": {
+    "slug": "bugis-supertree-grove",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Iconic Supertree Grove night view, Marina Bay",
+    "at": "2026-09-03T05:50:06.290Z"
+  },
+  "jakarta-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
+    "slug": "jakarta-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: This is a bar sign, not the concert/tour event itself",
+    "at": "2026-09-03T05:50:15.154Z"
+  },
+  "jakarta-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/FEQ_July_2018_The_Weeknd_%2844778856382%29_%28cropped%29.jpg": {
+    "slug": "jakarta-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 1015px < 1024",
+    "at": "2026-09-03T05:50:15.476Z"
+  },
+  "jakarta-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/The_Weeknd_Cannes_2023.png": {
+    "slug": "jakarta-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 523px < 1024",
+    "at": "2026-09-03T05:50:15.788Z"
+  },
+  "jakarta-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/The_Weeknd_2015.jpg": {
+    "slug": "jakarta-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 800px < 1024",
+    "at": "2026-09-03T05:50:16.109Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Post_Malone_Stavernfestivalen_2018_%28203039%29.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 900px < 1024",
+    "at": "2026-09-03T05:50:22.642Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Post_Malone_EMZYPRODUCTIONFILMS.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Two men at indoor venue, plausible concert/event context",
+    "at": "2026-09-03T05:50:29.323Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Post_Malone_EMZYPRODUCTIONFILMS.jpg/1920px-Post_Malone_EMZYPRODUCTIONFILMS.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Two men at indoor venue, plausible concert/event context",
+    "at": "2026-09-03T05:50:29.323Z"
   }
 }

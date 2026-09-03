@@ -79,10 +79,12 @@ test('a hero claimed at one width is taken at every width, host and as the origi
   assert.equal(isUsedImage(used2, WK_ORIG), true, 'Saitama was handed this while Singapore wore the 1280px thumb');
 });
 
-test('a different Commons file is free — a crop is a different file', () => {
+// Flipped 2026-09-03 (owner decision): a crop of the photograph IS the same
+// picture to the reader, so it is taken; a genuinely different file stays free.
+test('a Commons crop of a used photo is taken; a different file is free', () => {
   const used = new Set();
   markUsedImage(used, PM_1920);
-  assert.equal(isUsedImage(used, PM_CROP), false);
+  assert.equal(isUsedImage(used, PM_CROP), true, 'Singapore wore the (cropped) twin of the Bangkok portrait');
   assert.equal(isUsedImage(used, WK_1280), false);
 });
 
@@ -105,11 +107,25 @@ test('unsplash photos are keyed by photo number, other URLs by exact string', ()
 test('imageIdentity: one string per photo; empty for no url', () => {
   assert.equal(imageIdentity(PM_1920), imageIdentity(PM_ORIG));
   assert.equal(imageIdentity(PM_1920), 'commons:Post_Malone_July_2021.jpg');
-  assert.notEqual(imageIdentity(PM_1920), imageIdentity(PM_CROP));
+  assert.equal(imageIdentity(PM_1920), imageIdentity(PM_CROP), 'crop folds into the base file');
   assert.equal(imageIdentity(''), null);
   assert.equal(imageIdentity(undefined), null);
   assert.equal(isUsedImage(new Set(['x']), null), false);
   assert.equal(isUsedImage(undefined, PM_1920), false);
+});
+
+test('every Commons crop marker folds into the base file; numbered siblings do not', () => {
+  const base = 'https://upload.wikimedia.org/wikipedia/commons/1/11/Foo_Bar.jpg';
+  const at = (name) => `https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/${encodeURIComponent(name)}.jpg/1280px-${encodeURIComponent(name)}.jpg`;
+  for (const name of ['Foo_Bar_(cropped)', 'Foo_Bar (cropped)', 'Foo_Bar_(crop)', 'Foo_Bar (crop)', 'Foo_Bar-cropped', 'Foo_Bar_cropped', 'Foo_Bar cropped',
+    'Foo_Bar_(cropped 2)', 'Foo_Bar (cropped_3)', 'Foo_Bar_(crop 2)', 'Foo_Bar(cropped)', 'Foo_Bar_(CROPPED)']) {
+    assert.equal(imageIdentity(at(name)), imageIdentity(base), name);
+  }
+  for (const name of ['Foo_Bar_(II)', 'Foo_Bar_2', 'Foo_Bar_(2)', 'Foo_Bar_crop_field', 'Cropped_Foo_Bar', 'Foo_Bar_(cropped)_edit']) {
+    assert.notEqual(imageIdentity(at(name)), imageIdentity(base), name);
+  }
+  // A crop marker inside the middle of the name is not a trailing marker.
+  assert.equal(imageIdentity(at('Foo_Bar_(cropped)')), 'commons:Foo_Bar.jpg');
 });
 
 test('unmarkUsedImage releases every spelling of a reservation', () => {

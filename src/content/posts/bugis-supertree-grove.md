@@ -1,29 +1,25 @@
 ---
 title: 'Supertree Grove: Marina Bay Travel Guide (4.7★)'
-description: >-
-  Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next
-  to Marina Bay Sands. 4.7★ (54,520 reviews) — what visitors say, hours, and
-  tips.
+description: Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next to Marina Bay Sands. 4.7★ (54,520 reviews) — what visitors say, hours, and tips.
 country: Singapore
 region: Marina Bay
 category: attraction
 pubDate: '2026-08-11T08:24:01.086Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/3840px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg
-  credit: 'Photo: Mustang Joe / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/13678450_2IfSKyHzB5sDdzJGCuOomZ8ZNy0IfFn-fCMUgDRNXkU.jpg
+  credit: 'Photo: Foursquare user content (Supertree Grove)'
+  license: foursquare
+  source: https://foursquare.com/v/4ff0299ae4b05815846637b1
+  focus:
+    x: 45
+    'y': 40
 place:
   id: ChIJT4lHCgMZ2jERloDE6WmkdMk
   name: Supertree Grove
-  address: '18 Marina Gardens Dr, Singapore 018953'
+  address: 18 Marina Gardens Dr, Singapore 018953
   rating: 4.7
   userRatingsTotal: 54520
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14516408273722441878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14516408273722441878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.2819616999999999
   lng: 103.86390569999999
@@ -39,35 +35,18 @@ place:
 tags:
   - bugis
   - top attraction
-quickAnswer: >-
-  Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next
-  to Marina Bay Sands. It's open 5am–2am daily, but the reason to go is the free
-  Garden Rhapsody light-and-sound show, nightly at 7:45pm and 8:45pm. Arrive by
-  7pm to claim a spot on the grass before the crowds pack in.
+quickAnswer: Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next to Marina Bay Sands. It's open 5am–2am daily, but the reason to go is the free Garden Rhapsody light-and-sound show, nightly at 7:45pm and 8:45pm. Arrive by 7pm to claim a spot on the grass before the crowds pack in.
 faq:
   - q: How do I get to Supertree Grove from Bugis?
-    a: >-
-      Take the MRT from Bugis station to Bayfront station (two stops via
-      Downtown/Circle Line), then follow the covered walkway into Gardens by the
-      Bay. It's also a 20–25 minute walk along the waterfront if you prefer to
-      stroll.
+    a: Take the MRT from Bugis station to Bayfront station (two stops via Downtown/Circle Line), then follow the covered walkway into Gardens by the Bay. It's also a 20–25 minute walk along the waterfront if you prefer to stroll.
   - q: Is Supertree Grove free to visit?
-    a: >-
-      Yes, walking through the grove and watching the Garden Rhapsody light show
-      are free. Only add-ons like the OCBC Skyway, Flower Dome, and Cloud Forest
-      require separate paid tickets.
+    a: Yes, walking through the grove and watching the Garden Rhapsody light show are free. Only add-ons like the OCBC Skyway, Flower Dome, and Cloud Forest require separate paid tickets.
   - q: What time is the light show?
-    a: >-
-      Garden Rhapsody runs nightly at 7:45pm and 8:45pm. Arrive by 7pm to get a
-      good spot on the lawn before it fills up.
+    a: Garden Rhapsody runs nightly at 7:45pm and 8:45pm. Arrive by 7pm to get a good spot on the lawn before it fills up.
   - q: How long should I spend at Supertree Grove?
-    a: >-
-      Budget 45 minutes to an hour for the grove alone, or two to three hours if
-      you're combining it with the Skyway and conservatories.
+    a: Budget 45 minutes to an hour for the grove alone, or two to three hours if you're combining it with the Skyway and conservatories.
   - q: What's the best time of day to visit?
-    a: >-
-      Late afternoon from around 5pm onward, so you avoid the midday heat and
-      are already settled in before the evening light shows begin.
+    a: Late afternoon from around 5pm onward, so you avoid the midday heat and are already settled in before the evening light shows begin.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
