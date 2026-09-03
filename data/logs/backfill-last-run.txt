@@ -1,14 +1,14 @@
-Places 예산: backfill 몫 10회 (오늘 사용 5/100)
+Places 예산: backfill 몫 10회 (오늘 사용 6/100)
 Priority: 150 itinerary stop(s) queued first
-  – hong-kong-victoria-harbour.md: nothing new (resting 60d)
-  – jurong-japanese-garden.md: nothing new (resting 60d)
-  – lantau-island-big-buddha.md: nothing new (resting 60d)
-  – north-point-north-point-promenade.md: nothing new (resting 60d)
-  – sai-kung-sai-kung-town.md: nothing new (resting 60d)
-  – sentosa-fort-siloso.md: nothing new (resting 60d)
-  – tsim-sha-tsui-tsim-sha-tsui-waterfront-park.md: nothing new (resting 60d)
-  – bukhara-bukhara-tower.md: nothing new (resting 60d)
-  – downtown-dubai-the-dubai-fountain.md: nothing new (resting 60d)
-  – dubai-love-lake.md: nothing new (resting 60d)
+  – dubai-marina-marina-walk.md: nothing new (resting 60d)
+  – guilin-xijie-pedestrian-street.md: nothing new (resting 60d)
+  – harbin-harbin-ice-snow-world.md: nothing new (resting 60d)
+  – komodo-pink-beach.md: nothing new (resting 60d)
+  – kuching-kuching-waterfront.md: nothing new (resting 60d)
+  – lyon-marche-saint-antoine.md: nothing new (resting 60d)
+  – manila-baluarte-de-san-diego.md: nothing new (resting 60d)
+  – mui-ne-mui-ne-fishing-village.md: nothing new (resting 60d)
+  – nice-cascade-du-chateau.md: nothing new (resting 60d)
+  – nusa-penida-broken-beach.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 333, no-new-data 75, no-place 129, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 343 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 396, no-new-data 110, no-place 162, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 333 (APPLIED).
