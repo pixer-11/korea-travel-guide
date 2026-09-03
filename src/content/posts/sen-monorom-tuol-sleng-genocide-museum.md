@@ -47,7 +47,7 @@ place:
       - 11
     venueId: ven_4d68306c386c627667397052455443524a534a656a38774a496843
 tags:
-  - sen monorom
+  - phnom penh
   - museum
 quickAnswer: Tuol Sleng Genocide Museum sits in central Phnom Penh — the museum itself is on Street 113 in the capital's Boeng Keng Kang area. It's open daily 8am–5pm, and the quietest window is 8am–9am, before tour buses arrive by mid-morning. Plan on 1.5–2.5 hours, and pair it with the Killing Fields at Choeung Ek the same day.
 faq:
@@ -113,4 +113,4 @@ The biggest mistake tourists make is rushing through in 30 minutes to squeeze in
 
 Once you leave, the Royal Palace and riverside promenade are a short drive away if you want a change of pace. Many visitors prefer to decompress with a walk along the Tonle Sap riverfront before diving back into Phnom Penh's markets and restaurants.
 
-Note that despite this guide being filed under "Sen Monorom," the museum itself is in Phnom Penh — if you're actually based in Sen Monorom (Mondulkiri province), it's roughly a 5–6 hour drive to the capital.
+Note that the museum is in Phnom Penh, not Mondulkiri — if you're based in Sen Monorom, it's roughly a 5–6 hour drive to the capital.

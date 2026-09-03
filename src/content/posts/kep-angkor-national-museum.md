@@ -46,7 +46,7 @@ place:
       - 17
     venueId: ven_387052457754566c393634524544455877417a474d386e4a496843
 tags:
-  - kep
+  - siem reap
   - museum
 quickAnswer: The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit.
 faq:

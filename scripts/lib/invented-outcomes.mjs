@@ -122,13 +122,19 @@ export function ownEditionOutcomes(text, eventYear) {
     // exec on a non-global copy: with the g flag, match() drops the index.
     const m = new RegExp(OWN_EDITION_VERB.source, 'i').exec(sentence);
     if (!m) continue;
-    if (HISTORY.test(sentence)) continue;
+    // The history exemption reads the WHOLE sentence, so one historical clause
+    // used to carry an own-edition outcome out with it: "The venue has hosted
+    // the festival since 2011, and the 2026 festival sold out in under an hour"
+    // was exempt (Codex 3차, 2026-09-03). A sentence that names this edition is
+    // making a claim about it whatever else it also says.
+    const own = editionMarkers(sentence);
+    const namesThisEdition = own.has(year) || [...own].some((k) => /^this (?:year|edition)$/.test(k));
+    if (HISTORY.test(sentence) && !namesThisEdition) continue;
     // A conditional is advice, not a report ("flexibility if one date sold
     // out"); and a dancer's "feet turned out" is a posture, not a turnout.
     if (/\bif\b/i.test(sentence.slice(0, m.index)) || /\b(?:feet|toes)\s+turned out\b/i.test(sentence)) continue;
-    const markers = editionMarkers(sentence);
-    const otherEdition = [...markers].some((k) => (/^\d{4}$/.test(k) ? k !== year : !/^this (?:year|edition)$/.test(k)));
-    if (otherEdition && !markers.has(year)) continue;
+    const otherEdition = [...own].some((k) => (/^\d{4}$/.test(k) ? k !== year : !/^this (?:year|edition)$/.test(k)));
+    if (otherEdition && !own.has(year)) continue;
     hits.push({ sentence, verb: m[0] });
   }
   return hits;

@@ -48,7 +48,7 @@ place:
       - 17
     venueId: ven_456d59476573707542313552554466693275663078324e4a496843
 tags:
-  - boryeong
+  - seoul
   - museum
 quickAnswer: The National Museum of Korea is in Yongsan District, Seoul — its address is 137 Seobinggo-ro, right by Ichon Station. It's open 9:30am–5:30pm most days, with late nights until 9pm on Wednesdays and Saturdays. Aim for a weekday afternoon (10am–6pm) to dodge the weekend crush, which peaks between noon and 6pm.
 faq:

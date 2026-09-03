@@ -150,6 +150,19 @@ t('own: "was scheduled to run" 은 결과가 아니다', () => {
   return hits.length ? `오탐: ${JSON.stringify(hits)}` : null;
 });
 
+// 코덱스 3차: 역사 면제가 문장 전체를 읽어서, 역사 절 하나가 이번 판의 결과 주장을
+// 통째로 데리고 나갔다.
+t('own: 역사 절이 같은 문장에 있어도 이번 판 연도를 대면 잡는다', () => {
+  const hits = ownEditionOutcomes('The venue has hosted the festival since 2011, and the 2026 festival sold out in under an hour.', 2026);
+  return hits.length === 1 ? null : `1건이어야 하는데 ${hits.length}: ${JSON.stringify(hits)}`;
+});
+
+t('own: 이번 판을 대지 않는 역사·관례는 그대로 면제', () => {
+  const text = 'The venue has hosted the Commonwealth Games. Past editions drew big crowds. Crowds typically arrive early.';
+  const hits = ownEditionOutcomes(text, 2026);
+  return hits.length ? `오탐: ${JSON.stringify(hits)}` : null;
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

@@ -52,7 +52,7 @@ place:
       - 15
     venueId: ven_556853316d3555432d3934525144424173482d4e5f526b4a496843
 tags:
-  - central
+  - sheung wan
   - historic site
 quickAnswer: Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the calmest visit is right at opening on a weekend (8–9am) or really any weekday hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays. Budget 20-30 minutes to take in the incense spirals and the two altars to Man (literature) and Mo (war). It's free to enter, though a small donation is customary.
 faq:

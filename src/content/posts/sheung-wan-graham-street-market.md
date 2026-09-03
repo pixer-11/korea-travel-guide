@@ -47,7 +47,7 @@ place:
       - 12
     venueId: ven_4156486869336536725068525144424238644a4d715a354a496843
 tags:
-  - sheung wan
+  - central
   - local market
 quickAnswer: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. Go for the produce stalls, wet-market butchers, and dried-goods shops rather than a checklist of sights — weekends are calmer from 10am onward, while 8am–1pm draws the heaviest crowds. Budget 30–45 minutes, and pair it with a wander into nearby Tai Ping Shan Street.
 faq:
