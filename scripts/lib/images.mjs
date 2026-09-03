@@ -33,7 +33,7 @@ import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from
 // 무료 사진이 Flickr `_b`=1024px뿐이었고 `_k`·`_h`·`_o`는 전부 410 Gone이라,
 // 1200 하한 아래서는 영원히 사진 없는 글이었다.
 export const EVENT_HERO_MIN_WIDTH = 1024;
-import { heroUrlOf } from './hero-url.mjs';
+import { heroUrlOf, isUsedImage, markUsedImage } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
@@ -54,10 +54,10 @@ export async function selfHostPlacePhoto(place, { maxWidth = 1600, used } = {}) 
     const hash = createHash('sha1').update(`${place.id}|${photos[i].name || i}`).digest('hex').slice(0, 16);
     const file = `${hash}.${extFor(data.contentType)}`;
     const url = `/venue-photos/${file}`;
-    if (used && used.has(url)) continue;
+    if (isUsedImage(used, url)) continue;
     if (!existsSync(VENUE_DIR)) await mkdir(VENUE_DIR, { recursive: true });
     await writeFile(join(VENUE_DIR, file), data.buf);
-    if (used) used.add(url);
+    markUsedImage(used, url);
     return { url, credit: data.credit, license: 'google-places', source: data.source };
   }
   return null;
@@ -308,7 +308,7 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     if (process.env.USE_PLACES_PHOTO === '1' && place?.photos?.length) {
       try {
         const img = await getPlacePhoto(place.photos[0]);
-        if (img?.url && (!used || !used.has(img.url))) return mark(img, used);
+        if (img?.url && !isUsedImage(used, img.url)) return mark(img, used);
       } catch { /* fall through */ }
     }
   }
@@ -421,19 +421,15 @@ export async function loadUsedImageUrls(postsDir) {
     // share one photo (2026-08-19).
     const u = heroUrlOf(await readFile(join(postsDir, f), 'utf8'));
     if (!u) continue;
-    used.add(u);
-    const n = unsplashNum(u);
-    if (n) used.add(n);
+    // Claimed under every spelling — see imageKeys in hero-url.mjs: the same
+    // Commons file at another width or host is the same photo (2026-09-03).
+    markUsedImage(used, u);
   }
   return used;
 }
 
 function mark(img, used) {
-  if (used && img?.url) {
-    used.add(img.url);
-    const n = unsplashNum(img.url);
-    if (n) used.add(n);
-  }
+  markUsedImage(used, img?.url);
   if (!img) return img;
   // Return ONLY the fields the post schema stores — Commons candidates carry
   // internal scoring fields (index, w, h, featured…) that must not leak into
@@ -454,8 +450,7 @@ async function unsplashStrict(query, used) {
   // photo on several posts.
   const free = (c) => {
     if (!used) return true;
-    const n = unsplashNum(c.url);
-    return !used.has(c.url) && !(n && used.has(n)) && !used.has(`unsplash:${c.id}`);
+    return !isUsedImage(used, c.url) && !used.has(`unsplash:${c.id}`);
   };
   // If EVERY candidate is already on another post, return nothing rather than
   // knowingly shipping a duplicate — the caller then falls through to the next
@@ -464,10 +459,8 @@ async function unsplashStrict(query, used) {
   const pick = cands.find(free);
   if (!pick) return null;
   if (used) {
-    used.add(pick.url);
+    markUsedImage(used, pick.url);
     used.add(`unsplash:${pick.id}`);
-    const n = unsplashNum(pick.url);
-    if (n) used.add(n);
   }
   trackUnsplashDownload(pick.downloadLocation);
   return { url: pick.url, credit: pick.credit, license: pick.license, source: pick.source };

@@ -27,13 +27,15 @@ draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg
-  credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Post_Malone_%2828765784595%29.jpg/1920px-Post_Malone_%2828765784595%29.jpg
+  credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_(28765784595).jpg
   focus:
-    x: 45
-    'y': 35
+    x: 27
+    'y': 25
+    top: 8
+    bottom: 42
 eventOrganizer:
   name: Live Nation Malaysia
   url: https://www.livenation.my

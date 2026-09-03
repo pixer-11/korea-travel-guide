@@ -33,6 +33,7 @@ import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-ta
 import { twinIndex } from './lib/live-event-twins.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
+import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -124,12 +125,36 @@ const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 // this path never asked the question release-photoless-events has been asking
 // since 08-16. Same index, same rule, one file: lib/live-event-twins.mjs.
 const liveEvents = twinIndex();
+// One photo, one live page. `used` stops a NEW pick from landing on a photo
+// another post wears — but a post whose CURRENT hero is already worn elsewhere
+// was never a target here: vision approved the (correct) photo and the "keep
+// it" shortcut below kept it. That is how two cities of one tour sat in one
+// portrait for weeks (Bangkok/Kuala Lumpur Post Malone, Singapore/Saitama The
+// Weeknd, 2026-09-03). Index who wears what, by photo identity, so a shared
+// hero is replaced like a stock one — regardless of vision.
+const heroOwners = new Map(); // photo identity → live posts wearing it
 for (const f of files) {
   let d;
   try { d = matter(await readFile(`${POSTS}/${f}`, 'utf8')).data; } catch { continue; }
-  if (d.draft || d.category !== 'event') continue;
+  if (d.draft) continue;
+  const heroId = imageIdentity(d.heroImage?.url);
+  if (heroId && !String(d.heroImage.url).includes('placeholder')) {
+    (heroOwners.get(heroId) || heroOwners.set(heroId, []).get(heroId)).push({ slug: f.replace(/\.md$/, ''), pubDate: d.pubDate });
+  }
+  if (d.category !== 'event') continue;
   liveEvents.note(d);
 }
+/** The other live post wearing this post's hero — or null when the hero is its own, or this post is the one that keeps it. */
+const sharedHeroOf = (slug, data) => {
+  const all = heroOwners.get(imageIdentity(data.heroImage?.url)) || [];
+  const others = all.filter((o) => o.slug !== slug);
+  if (!others.length) return null;
+  // Named by hand (SLUGS): the owner chose which twin changes. Unattended:
+  // the earliest post keeps the photo it has been wearing (heroKeeper — the
+  // same rule reresolve-dupe-heroes applies), so the pair never swaps twice.
+  if (!ONLY.includes(slug) && heroKeeper(all)?.slug === slug) return null;
+  return others[0].slug;
+};
 let fixed = 0, undrafted = 0, unfixed = 0, scanned = 0;
 const rewriteList = [];
 // Consecutive nightly failures per slug. Seven strikes stops the search: these
@@ -215,9 +240,13 @@ for (const f of files) {
   const heroIsStock =
     data.heroImage?.license === 'unsplash' && data.category !== 'event' && namesAPlace;
   if (heroIsStock) console.log(`  ✗  ${slug}: stock hero on a named venue — replacing regardless of vision`);
+  // A hero another live post already wears is not a keeper either, however
+  // correct it looks: the reader who opens both pages sees one photo twice.
+  const sharedWith = data.draft !== true ? sharedHeroOf(slug, data) : null;
+  if (sharedWith) console.log(`  ⧉  ${slug}: hero is already worn by ${sharedWith} — replacing regardless of vision`);
 
   // Current hero first: if the AI approves what's already there, keep it.
-  if (!heroIsStock && data.heroImage?.url && data.draft !== true) {
+  if (!heroIsStock && !sharedWith && data.heroImage?.url && data.draft !== true) {
     const cur = await verifyHeroImage({ url: data.heroImage.url, name: venueName, category: data.category, region: data.region, country: data.country, eventMode: isEvent, existing: true });
     // "Could not check" is NOT "rejected". Vision fails CLOSED (an API outage
     // returns ok:false), which is right when choosing a NEW photo and
@@ -360,7 +389,7 @@ for (const f of files) {
           if (!tokens(o.title || '').includes(anchor)) continue;
           const prior = judgedWrong(slug, o.url, data.category);
           if (prior) continue;
-          if (used.has(o.url)) continue;
+          if (isUsedImage(used, o.url)) continue;
           console.log(`   ${slug}: openverse candidate titled for the act — "${String(o.title).slice(0, 60)}"`);
           cands.push({ ...o, via: 'openverse-act' });
         }
@@ -385,7 +414,7 @@ for (const f of files) {
           if (!cityToks.some((t) => tt.includes(t))) continue;
           const prior = judgedWrong(slug, o.url, data.category);
           if (prior) continue;
-          if (used.has(o.url)) continue;
+          if (isUsedImage(used, o.url)) continue;
           console.log(`   ${slug}: citywide festival — host-city photo as last-resort candidate ("${String(o.title).slice(0, 50)}")`);
           cands.push({ ...o, cityscape: true, via: 'openverse-city' });
         }
@@ -410,13 +439,13 @@ for (const f of files) {
       // loop below skips anything already in `used` — so this rescue was skipped
       // 100% of the time and famous landmarks were quarantined instead of fixed.
       // Un-mark our own reservation; resolveHero already proved no OTHER post has it.
-      if (wiki?.url) { used.delete(wiki.url); cands.push(wiki); }
+      if (wiki?.url) { unmarkUsedImage(used, wiki.url); cands.push(wiki); }
     } catch {}
   }
   let done = false;
   let visionOutage = false; // an unverifiable candidate is not an EMPTY night
   for (const cand of cands) {
-    if (used.has(cand.url)) continue;
+    if (isUsedImage(used, cand.url)) continue;
     // A candidate identical to the hero that got this post quarantined is not a
     // replacement. On 2026-08-05 the pool handed back the current hero for five
     // quarantined posts, verifyHeroImage approved what the audit had rejected,
@@ -605,7 +634,7 @@ for (const f of files) {
     if (heldByGate) console.log(`   ${slug}: hero replaced, but the post stays held (heldReason: ${data.heldReason})`);
     if (twinLive) console.log(`   ${slug}: hero replaced, but the post stays held — an event already live covers the same show`);
     await writeFile(path, out, 'utf8');
-    used.add(cand.url);
+    markUsedImage(used, cand.url);
     fixed++;
     if (wasDraft && otherHolds.length) console.log(`  ✅ ${slug}: photo FIXED, but kept quarantined — ${otherHolds[0]}`);
     else if (wasDraft) { undrafted++; console.log(`  ✅ ${slug}: FIXED + republished (${vis.reason})`); }
@@ -631,10 +660,15 @@ for (const f of files) {
     // has nothing wrong on the page: events publish photoless by policy
     // (wander-atlas-photoless-policy), and drafting one here unpublished two
     // live events the moment their photo hunt came up empty (2026-08-22).
-    if (!DRY && data.draft !== true && data.heroImage?.url) {
+    // A SHARED hero is a correct photo on two pages, not a wrong photo on one:
+    // it stays live (a shared photo is a blemish, an unpublished post is lost
+    // traffic — reresolve-dupe-heroes' rule) and the next night tries again.
+    if (!DRY && data.draft !== true && data.heroImage?.url && !sharedWith) {
       data.draft = true;
       await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
       console.log(`  🚫 ${slug}: quarantined (draft) — no passing candidate (${cands.length} tried)`);
+    } else if (sharedWith) {
+      console.log(`  ⚠️  ${slug}: no distinct candidate passed (${cands.length} tried) — keeps the photo it shares with ${sharedWith}`);
     } else if (!data.heroImage?.url) {
       console.log(`  ⚠️  ${slug}: no candidate passed (${cands.length} tried) — stays live without a photo`);
     } else {

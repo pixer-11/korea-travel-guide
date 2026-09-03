@@ -36,6 +36,7 @@ import { eventProperName } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { probeWidth } from './lib/image-width.mjs';
+import { isUsedImage, markUsedImage, unmarkUsedImage } from './lib/hero-url.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -151,7 +152,7 @@ for (const slug of SLUGS) {
         topic: (data.tags && data.tags[1]) || data.category,
         country: data.country, used, strict: true,
       });
-      if (wiki?.url) { used.delete(wiki.url); cands.push(wiki); }
+      if (wiki?.url) { unmarkUsedImage(used, wiki.url); cands.push(wiki); }
     } catch {}
   }
 
@@ -159,7 +160,7 @@ for (const slug of SLUGS) {
   // is exactly as useless as the current hero, however correct it looks.
   const wide = [];
   for (const cand of cands) {
-    if (!cand?.url || cand.url === curUrl || used.has(cand.url)) continue;
+    if (!cand?.url || cand.url === curUrl || isUsedImage(used, cand.url)) continue;
     if (cand.w && cand.w < MIN_WIDTH) continue; // source metadata already rules it out
     const w = await probeWidth(cand.url);
     if (!w || w < MIN_WIDTH) continue;
@@ -190,7 +191,7 @@ for (const slug of SLUGS) {
     // A width-upgraded hero is a NEW slug+URL key — record its verdict or
     // validate-content reports the fresh, vision-approved photo as unchecked.
     await recordHeroVerdict(slug, cand.url, 'MATCH', `width upgrade: ${vis.reason || 'approved'}`);
-    used.add(cand.url);
+    markUsedImage(used, cand.url);
     replaced.push({ slug, from: curW, to: cand.probedW });
     console.log(`  ✅ ${slug}: hero upgraded ${curW ?? '?'}px → ${cand.probedW}px (${vis.reason})`);
     done = true;

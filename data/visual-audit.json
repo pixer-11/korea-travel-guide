@@ -16170,5 +16170,41 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Old zoo grotto ruins, representative hidden-gem view",
     "at": "2026-09-02T22:17:19.164Z"
+  },
+  "kuala-lumpur-post-malone-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/Post_Malone_%2828765784595%29.jpg": {
+    "slug": "kuala-lumpur-post-malone-live-in-malaysia",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Performer on stage with concert lighting setup",
+    "at": "2026-09-03T00:11:50.192Z"
+  },
+  "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
+    "slug": "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: identity: owner eye-check 2026-09-03 — theme-park bar signage (Universal Studios Halloween), not the performer; the file title names the act, the picture does not show him",
+    "at": "2026-09-03T00:13:42.691Z"
+  },
+  "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/FEQ_July_2018_The_Weeknd_%2844778856382%29_%28cropped%29.jpg": {
+    "slug": "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: width: 1015px < 1024",
+    "at": "2026-09-03T00:13:51.276Z"
+  },
+  "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/The_Weeknd_Bumbershoot_2015.jpg": {
+    "slug": "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Performer on stage, plausibly The Weeknd",
+    "at": "2026-09-03T00:13:57.327Z"
+  },
+  "kuala-lumpur-post-malone-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Post_Malone_%2828765784595%29.jpg/1920px-Post_Malone_%2828765784595%29.jpg": {
+    "slug": "kuala-lumpur-post-malone-live-in-malaysia",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Performer on stage with concert lighting setup",
+    "at": "2026-09-03T00:11:50.192Z"
+  },
+  "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Weeknd_Bumbershoot_2015.jpg/1920px-The_Weeknd_Bumbershoot_2015.jpg": {
+    "slug": "singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Performer on stage, plausibly The Weeknd",
+    "at": "2026-09-03T00:13:57.327Z"
   }
 }

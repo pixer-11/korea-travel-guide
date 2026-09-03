@@ -23,7 +23,7 @@ import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { heroUrlOf } from './lib/hero-url.mjs';
+import { heroUrlOf, imageIdentity, isUsedImage, markUsedImage, heroKeeper } from './lib/hero-url.mjs';
 import { resolveHero, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
@@ -71,15 +71,18 @@ for (const f of files) {
   const url = heroUrlOf(src);
   const { data } = matter(src);
   posts.push({ f, slug: f.replace(/\.md$/, ''), url, data });
-  if (url) used.add(url);
+  markUsedImage(used, url);
 }
 
-// Group by hero URL; placeholders are shared on purpose.
+// Group by PHOTO, not by URL string: the same Commons file at another width
+// or host is the same picture (two tour cities shared one portrait for weeks
+// under two spellings, 2026-09-03). Placeholders are shared on purpose.
 const groups = new Map();
 for (const p of posts) {
   if (isPlaceholder(p.url)) continue;
-  if (!groups.has(p.url)) groups.set(p.url, []);
-  groups.get(p.url).push(p);
+  const key = imageIdentity(p.url);
+  if (!groups.has(key)) groups.set(key, []);
+  groups.get(key).push(p);
 }
 const dupes = [...groups.values()].filter((g) => g.length > 1);
 if (!dupes.length) {
@@ -90,8 +93,8 @@ if (!dupes.length) {
 // The earliest post keeps the photo it has been wearing; later ones re-resolve.
 const targets = [];
 for (const g of dupes) {
-  const sorted = [...g].sort((a, b) =>
-    String(a.data.pubDate || '').localeCompare(String(b.data.pubDate || '')) || a.slug.localeCompare(b.slug));
+  const keeper = heroKeeper(g.map((p) => ({ slug: p.slug, pubDate: p.data.pubDate })));
+  const sorted = [...g].sort((a, b) => (a.slug === keeper.slug ? -1 : b.slug === keeper.slug ? 1 : a.slug.localeCompare(b.slug)));
   console.log(`\n⧉ ${sorted.length} posts share ${sorted[0].url.slice(0, 70)}`);
   console.log(`   keeps it: ${sorted[0].slug}`);
   targets.push(...sorted.slice(1));
@@ -119,7 +122,7 @@ for (const t of targets.slice(0, LIMIT)) {
       });
     } catch {}
     if (!cand?.url || cand.license === 'placeholder') break; // pool exhausted
-    if (used.has(cand.url) || !isImageAllowed(cand)) continue; // resolveHero already marked it in `seen`
+    if (isUsedImage(used, cand.url) || !isImageAllowed(cand)) continue; // resolveHero already marked it in `seen`
     const vis = await verifyHeroImage({
       url: cand.url, name: venueName, category: data.category,
       region: data.region, country: data.country, eventMode: isEvent,
@@ -147,7 +150,7 @@ for (const t of targets.slice(0, LIMIT)) {
     console.log(`  ❌ ${slug}: write-back mismatch (${back}) — reverted`);
     continue;
   }
-  used.add(picked.url);
+  markUsedImage(used, picked.url);
   fixed++;
   console.log(`  ✅ ${slug}: new hero (${vName(picked)})`);
 }

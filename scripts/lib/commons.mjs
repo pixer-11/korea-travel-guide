@@ -5,6 +5,7 @@
 // are content-addressed and permanent, so they're safe to hotlink from a static
 // site. CC-BY/BY-SA require attribution, which we render under the image.
 import { politeFetch } from './polite-fetch.mjs';
+import { isUsedImage } from './hero-url.mjs';
 
 const UA =
   'WanderAtlas/1.0 (https://wanderatlasguides.com; contact via site)';
@@ -407,7 +408,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   if (w && w < minWidth) return null;
   if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
   const url = cleanCommonsUrl(ii.thumburl || ii.url);
-  if (!url || (used && used.has(url))) return null;
+  if (!url || isUsedImage(used, url)) return null;
   const artist = stripHtml(em.Artist?.value) || 'Wikimedia Commons contributor';
   return {
     title: page.pageimage.replace(/\.(jpe?g|png)$/i, ''),
@@ -524,7 +525,9 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && !archival && (!cross || crossN >= minCross || foreignN === 0) };
     })
     .filter((s) => s.ok)
-    .filter((s) => !used || !used.has(s.c.url));
+    // By photo, not by string: a file another post wears at a different width
+    // or host is taken (2026-09-03, two tour cities in one portrait).
+    .filter((s) => !isUsedImage(used, s.c.url));
 
   if (!eligible.length) return null;
   // Prefer Commons-assessed great photos; otherwise keep Commons' own relevance
