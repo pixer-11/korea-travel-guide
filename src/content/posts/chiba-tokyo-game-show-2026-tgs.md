@@ -16,7 +16,7 @@ eventOffers:
   url: https://tgs.cesa.or.jp/2026/en
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/95/Sega_booth%2C_Tokyo_Game_Show_20040926b.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sega_booth%2C_Tokyo_Game_Show_20040926b.jpg/960px-Sega_booth%2C_Tokyo_Game_Show_20040926b.jpg
   credit: 'Photo: No machine-readable author provided. Calton assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sega_booth,_Tokyo_Game_Show_20040926b.jpg

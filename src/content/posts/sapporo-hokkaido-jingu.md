@@ -1,44 +1,44 @@
 ---
-title: "Hokkaido Jingu: Sapporo Travel Guide (4.6★)"
-description: "Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. 4.6★ (16,327 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Sapporo"
-category: "attraction"
-pubDate: "2026-09-02T10:37:54.792Z"
+title: 'Hokkaido Jingu: Sapporo Travel Guide (4.6★)'
+description: Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. 4.6★ (16,327 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Sapporo
+category: attraction
+pubDate: '2026-09-02T10:37:54.792Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg/1920px-%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg"
-  credit: "Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:(JPN-Hokkaido)_Hokkaido_Shrine_2026-06-06.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg/1920px-%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg
+  credit: 'Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:(JPN-Hokkaido)_Hokkaido_Shrine_2026-06-06.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hokkaido_Jingu.JPG"
-    credit: "Photo: Daigaku2051 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hokkaido_Jingu.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hokkaido_Jingu.JPG/960px-Hokkaido_Jingu.JPG
+    credit: 'Photo: Daigaku2051 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hokkaido_Jingu.JPG
 place:
-  id: "ChIJk6jwxNwpC18RCNdmWzXijew"
-  name: "Hokkaido Jingu"
-  address: "474 Miyagaoka, Chuo Ward, Sapporo, Hokkaido 064-0959, Japan"
+  id: ChIJk6jwxNwpC18RCNdmWzXijew
+  name: Hokkaido Jingu
+  address: 474 Miyagaoka, Chuo Ward, Sapporo, Hokkaido 064-0959, Japan
   rating: 4.6
   userRatingsTotal: 16327
-  googleMapsUrl: "https://maps.google.com/?cid=17045528883461805832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17045528883461805832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.054333
   lng: 141.3077928
-  phone: "+81 11-611-0261"
+  phone: +81 11-611-0261
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-02
+    updated: 2026-09-02T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 16
@@ -55,22 +55,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_77656a69587a576d644e435238314370774e78776a366b4a496843"
+    venueId: ven_77656a69587a576d644e435238314370774e78776a366b4a496843
 tags:
-  - "sapporo"
-  - "historic site"
-quickAnswer: "Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. It's open daily from 6am to 5pm, and it's calmest right at opening on weekdays or between 7am and 8am on weekends, since weekend crowds build fast from 9am to 4pm. Budget 45 minutes to an hour, longer if you wander into the park or up Mt. Maruyama afterward."
+  - sapporo
+  - historic site
+quickAnswer: Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. It's open daily from 6am to 5pm, and it's calmest right at opening on weekdays or between 7am and 8am on weekends, since weekend crowds build fast from 9am to 4pm. Budget 45 minutes to an hour, longer if you wander into the park or up Mt. Maruyama afterward.
 faq:
-  - q: "How do I get to Hokkaido Jingu?"
-    a: "Take the Tozai subway line to Maruyama Koen Station, then walk about 15 minutes uphill through Maruyama Park to the shrine's main torii gate."
-  - q: "What are the opening hours?"
-    a: "Hokkaido Jingu is open daily from 6am to 5pm, with no weekly closing day."
-  - q: "When is it least crowded?"
-    a: "Weekdays stay fairly calm all day from 7am to 5pm. On weekends, go between 7am and 8am; crowds build fast from 9am and stay heavy until around 4pm."
-  - q: "How much time should I set aside?"
-    a: "Plan on 45 minutes to an hour for the shrine grounds alone, or half a day if you add a walk in Maruyama Park or the hike up Mt. Maruyama."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to the shrine grounds is free; you'll only spend money if you buy an omamori charm or make an offering."
+  - q: How do I get to Hokkaido Jingu?
+    a: Take the Tozai subway line to Maruyama Koen Station, then walk about 15 minutes uphill through Maruyama Park to the shrine's main torii gate.
+  - q: What are the opening hours?
+    a: Hokkaido Jingu is open daily from 6am to 5pm, with no weekly closing day.
+  - q: When is it least crowded?
+    a: Weekdays stay fairly calm all day from 7am to 5pm. On weekends, go between 7am and 8am; crowds build fast from 9am and stay heavy until around 4pm.
+  - q: How much time should I set aside?
+    a: Plan on 45 minutes to an hour for the shrine grounds alone, or half a day if you add a walk in Maruyama Park or the hike up Mt. Maruyama.
+  - q: Is there an entrance fee?
+    a: No, entry to the shrine grounds is free; you'll only spend money if you buy an omamori charm or make an offering.
 aiGenerated: true
 draft: false
 ---

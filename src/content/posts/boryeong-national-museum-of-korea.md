@@ -6,18 +6,13 @@ region: Boryeong
 category: attraction
 pubDate: '2026-08-24T08:21:07.617Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
   credit: 'Photo: Ismoon (talk) 21:43, 5 July 2018 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
   focus:
     x: 45
     'y': 45
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
-    credit: 'Photo: Ismoon (talk) 21:43, 5 July 2018 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
 place:
   id: ChIJN2x0fu2ifDUR51BupseGYmE
   name: National Museum of Korea

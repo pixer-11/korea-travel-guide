@@ -11,7 +11,7 @@ gallery:
     license: foursquare
     source: https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tuol_Sleng.jpg/960px-Tuol_Sleng.jpg
   credit: 'Photo: Michael Gruijters at Dutch Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tuol_Sleng.jpg

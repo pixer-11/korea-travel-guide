@@ -6,7 +6,7 @@ region: Cannes
 category: attraction
 pubDate: '2026-07-26T07:10:57.328Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg/960px-%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg
   credit: 'Photo: Vestemocoso / wikimedia (BY-SA)'
   license: openverse-cc
   source: https://commons.wikimedia.org/w/index.php?curid=81913814

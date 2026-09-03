@@ -16206,5 +16206,29 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Performer on stage, plausibly The Weeknd",
     "at": "2026-09-03T00:13:57.327Z"
+  },
+  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Avenged_Sevenfold_in_Bercy_7.jpg/1920px-Avenged_Sevenfold_in_Bercy_7.jpg": {
+    "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Musician performing with guitar on stage, fits concert event",
+    "at": "2026-09-02T22:15:33.419Z"
+  },
+  "boryeong-national-museum-of-korea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg": {
+    "slug": "boryeong-national-museum-of-korea",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Ancient Korean pottery vessels in museum display",
+    "at": "2026-09-02T21:59:53.691Z"
+  },
+  "lombok-bukit-merese\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg": {
+    "slug": "lombok-bukit-merese",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Scenic hilltop viewpoint overlooking beach, matches Bukit Merese",
+    "at": "2026-09-02T22:17:14.380Z"
+  },
+  "sen-monorom-tuol-sleng-genocide-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tuol_Sleng.jpg/960px-Tuol_Sleng.jpg": {
+    "slug": "sen-monorom-tuol-sleng-genocide-museum",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Colonial building with courtyard matches Tuol Sleng's archit",
+    "at": "2026-09-02T22:11:31.072Z"
   }
 }

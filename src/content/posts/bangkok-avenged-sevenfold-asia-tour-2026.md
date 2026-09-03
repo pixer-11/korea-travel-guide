@@ -35,7 +35,7 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Avenged_Sevenfold_in_Bercy_7.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Avenged_Sevenfold_in_Bercy_7.jpg/1920px-Avenged_Sevenfold_in_Bercy_7.jpg
   credit: 'Photo: Metalheart / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_in_Bercy_7.jpg
