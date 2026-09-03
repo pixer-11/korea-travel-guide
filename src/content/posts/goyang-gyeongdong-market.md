@@ -1,13 +1,11 @@
 ---
-title: 'Gyeongdong Market: Goyang Travel Guide (4.1★)'
+title: 'Gyeongdong Market: Seoul Travel Guide (4.1★)'
 description: >-
   Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun
-  District, Seoul (despite occasionally being filed under the wider
-  Goyang/greater Seoul travel region) — not a Goyang address itself, so
-  double-check your route if you're staying out that way. 4.1★ (11,034 reviews)
-  — what visitors say, hours, and tips.
+  District, Seoul — Korea's largest traditional herbal medicine market. 4.1★
+  (11,034 reviews) — what visitors say, hours, and tips.
 country: South Korea
-region: Goyang
+region: Seoul
 category: hidden-gem
 pubDate: '2026-08-24T08:11:04.200Z'
 heroImage:
@@ -61,21 +59,18 @@ place:
       - 16
     venueId: ven_73364e6e513930477561505255446638693652443037584a496843
 tags:
-  - goyang
+  - seoul
   - local market
 quickAnswer: >-
   Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun
-  District, Seoul (despite occasionally being filed under the wider
-  Goyang/greater Seoul travel region) — not a Goyang address itself, so
-  double-check your route if you're staying out that way. It's open daily
+  District, Seoul — Korea's largest traditional herbal medicine market. It's open daily
   9am–6pm, and the calmest visit is a weekend morning between 9am and 10am,
   before the 11am–5pm rush sets in. Budget 1–2 hours to wander the alleys,
   sample roasted grains and ginseng, and grab a bowl of noodles.
 faq:
   - q: Is Gyeongdong Market actually in Goyang?
     a: >-
-      No — its address is in Dongdaemun District, Seoul, though it's sometimes
-      grouped under the broader Goyang/Seoul travel region. If you're based in
+      No — its address is in Dongdaemun District, Seoul. If you're based in
       Goyang or Ilsan, budget 40–60 minutes for the subway ride in.
   - q: How do I get to Gyeongdong Market by subway?
     a: >-
@@ -109,7 +104,7 @@ It's a working market first, tourist stop second. Vendors weigh out herbs on han
 
 ## Getting there
 
-Gyeongdong Market sits in Dongdaemun District, on the eastern edge of central Seoul — not in Goyang proper, so if you're staying near Ilsan or Goyang, plan for a 40–60 minute subway ride into the city. The nearest stop is Jegi-dong Station on Seoul Subway Line 1, with exits leading almost directly into the market's covered lanes.
+Gyeongdong Market sits in Dongdaemun District, on the eastern edge of central Seoul. If you're coming in from Ilsan or Goyang, plan for a 40–60 minute subway ride. The nearest stop is Jegi-dong Station on Seoul Subway Line 1, with exits leading almost directly into the market's covered lanes.
 
 From Seoul Station, it's a straightforward ride with one possible transfer depending on the line. Taxis work too, but traffic around the market on a Saturday can eat up any time you'd save.
 

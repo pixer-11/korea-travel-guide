@@ -1,8 +1,8 @@
 ---
-title: "National Museum of Cambodia: Poipet Travel Guide (4.2★)"
-description: "The National Museum of Cambodia is actually in Phnom Penh, not Poipet — the address listed is Preah Ang Eng Street, near the Royal Palace, roughly a 7-8 hour drive or bus ride from the Poipet border crossing. 4.2★ (6,982 reviews) — what visitors say, hours, and tips."
+title: "National Museum of Cambodia: Phnom Penh Travel Guide (4.2★)"
+description: "The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace — a 1920s Khmer-style building holding Angkorian stone sculpture, bronzes and royal barges. 4.2★ (6,982 reviews) — what visitors say, hours, and tips."
 country: "Cambodia"
-region: "Poipet"
+region: "Phnom Penh"
 category: "attraction"
 pubDate: "2026-08-24T08:12:37.025Z"
 heroImage:
@@ -53,9 +53,9 @@ place:
       - 15
     venueId: "ven_6772764431334b4b64614a524554435268454a696f586e4a496843"
 tags:
-  - "poipet"
+  - "phnom penh"
   - "museum"
-quickAnswer: "The National Museum of Cambodia is actually in Phnom Penh, not Poipet — the address listed is Preah Ang Eng Street, near the Royal Palace, roughly a 7-8 hour drive or bus ride from the Poipet border crossing. If you're arriving from Poipet, the museum is best visited once you reach Phnom Penh, ideally right at the 8am opening when it's quietest. Plan on 1-1.5 hours inside, and expect crowds to build steadily from 10am to 4pm on weekends."
+quickAnswer: "The National Museum of Cambodia is on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace, and it's open daily 8am-5pm. It's quietest right at the 8am opening. Plan on 1-1.5 hours inside, and expect crowds to build steadily from 10am to 4pm on weekends. If you're crossing in at Poipet, it's a 7-8 hour road journey away — save it for the capital."
 faq:
   - q: "Is the National Museum of Cambodia actually in Poipet?"
     a: "No. It's in Phnom Penh, on Preah Ang Eng Street near the Royal Palace, roughly 7-8 hours from the Poipet border crossing by road."
@@ -74,19 +74,19 @@ heldReason: wrong-region
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## A border town's namesake, a capital's landmark
+## A capital landmark, not a border stop
 
-Here's the twist: if you searched this expecting a museum in Poipet itself, you won't find one there. The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, several hours southeast of the Poipet border crossing with Thailand. Poipet is a gateway town — dusty, casino-lined, built for transit — while the museum is a destination in its own right, tucked beside the Royal Palace complex in the capital.
+The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, tucked beside the Royal Palace complex. If you arrived at this guide searching Poipet, that is the border town several hours northwest — a gateway built for transit, with no museum of this name. Most travelers who pair the two in one search are routing through the crossing on their way to Siem Reap or the capital.
 
-Most travelers who type "Poipet" and "National Museum" in the same search are routing through the border on their way to Siem Reap or Phnom Penh. Worth knowing before you plan your stops.
+Worth knowing before you plan your stops: the museum is a destination in its own right, not something you fit in near the border.
 
-## Why the museum still belongs on your route
+## Why it belongs on your route
 
-Even from Poipet, this detour earns its keep. The building itself is a reason to go: a 1920s structure in deep red-ochre, its tiered roofline and carved gables borrowed directly from Khmer temple architecture. Walking toward it feels like approaching a shrine, not a gallery.
+The building itself is a reason to go: a 1920s structure in deep red-ochre, its tiered roofline and carved gables borrowed directly from Khmer temple architecture. Walking toward it feels like approaching a shrine, not a gallery.
 
 Inside, the collection runs deep — Angkorian-era stone sculpture, bronze Buddhas, wooden royal barges, and religious artifacts spanning more than a thousand years of Khmer craftsmanship. A central courtyard garden, planted with lotus ponds and frangipani, breaks up the galleries and gives you a place to sit in the shade between rooms.
 
-## Getting there from Poipet
+## Getting there from the Poipet border
 
 The honest logistics: Poipet to Phnom Penh is not a short hop.
 
