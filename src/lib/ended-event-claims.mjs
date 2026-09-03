@@ -138,3 +138,24 @@ export const FABRICATED_AVAILABILITY = /\b(?:was|were|had been|has been|have bee
 // tool tests its own output against this, so a rewrite that trades a future
 // promise for an invented past one is rejected and retried, not written out.
 export const OFFENDING_CLAIM = new RegExp(`${FUTURE_PROMISE.source}|${FABRICATED_AVAILABILITY.source}`, 'i');
+
+// (4) The page still talks to a reader who has not gone yet. An editorial
+// read-through on 2026-09-03 (15 of 50 ended events, 13 "wrong", 0 "fine")
+// found the promise rules satisfied while the description and the FAQ answers
+// still said "always confirm before booking", "watch official channels", "plan
+// your trip around the airport" — one page saying "was scheduled" and "book
+// early" at once. This is the imperative half of the same stale-page class:
+// an instruction to check, confirm, book, plan, arrive or expect something,
+// tied to a time the reader can no longer act on (before / closer / ahead /
+// early / an official announcement), plus the writer's own timestamps ("as of
+// this writing", "this far out", "at publication time").
+//
+// The lookbehind keeps the noun "plan" out of it: "the published plan was
+// announced on the official site" is the repair's own neutral phrasing, and
+// "plan" there is not an instruction. Past forms (checked, booked, planned,
+// arrived, expected) do not match the word boundary and are left alone — they
+// are the record, not the advice. So is a habit: "locals typically arrive an
+// hour before doors" describes the crowd, and the lookbehind lets the habitual
+// adverbs and the crowd nouns through — an editorial run on 2026-09-03 refused
+// Abu Dhabi's guide for exactly that sentence.
+export const ADVICE_IMPERATIVE = /\b(?:always|please)?\s*(?<!\b(?:the|a|published|travel|their|your|our|its|this|that|official|typically|usually|often|generally|routinely|regulars|locals|fans|visitors|concertgoers|who|to)\s)(?:check|confirm|verify|double-check|watch|monitor|book|plan|arrive|expect)\b[^.\n]{0,60}\b(?:before|closer|official|announcement|ahead|early)\b|\bbefore\s+(?:you\s+)?(?:book|booking|travel|travelling|traveling|go|going|finali[sz]e|finali[sz]ing)\b|\bas of this writing\b|\bat publication time\b|\bthis far out\b|\bat the time of (?:this )?writing\b/i;

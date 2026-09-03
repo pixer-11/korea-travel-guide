@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, OFFENDING_CLAIM } from './ended-event-claims.mjs';
+import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, OFFENDING_CLAIM, ADVICE_IMPERATIVE } from './ended-event-claims.mjs';
 
 // The defect: on 2026-08-22 fifteen live guides claimed details "were published
 // on the official site" — invented by the repair prompt's own worked example.
@@ -326,3 +326,39 @@ test('a past auxiliary still wins when an adverb sits between it and the verb', 
   // the present-tense twin of the same sentence is still a promise
   assert.ok(FUTURE_PROMISE.test('The lineup is usually announced closer to the event.'));
 });
+
+// Editorial read-through, 2026-09-03: the promise rules were clean while the
+// description and FAQ answers still told a reader to go and do things about an
+// event that was over. These are the shapes the 15 reviewed pages contained.
+test('an instruction the reader can no longer act on is flagged', () => {
+  for (const s of [
+    'Always confirm dates and ticket details before booking.',
+    'Watch official channels for the announcement of set times.',
+    'Plan your trip around the airport and book accommodation early.',
+    'Check the official Comiket website close to August 2026 for the finalized entry procedure.',
+    'Arrive at least 90 minutes early for security screening.',
+    'Expect the lineup to be confirmed ahead of the festival.',
+    'Verify the current year\'s exact date before finalizing travel plans.',
+    'As of this writing, no venue has been named.',
+    'Ticketing details had not been locked in this far out.',
+    'The exact method was not confirmed at publication time.',
+    'The lineup was not set at the time of writing.',
+  ]) assert.ok(ADVICE_IMPERATIVE.test(s), s);
+});
+
+test('the record of what was planned, and evergreen facts, are not advice', () => {
+  for (const s of [
+    'The published plan was announced on the official site.',
+    'Organisers planned two stages; the official poster listed set times.',
+    'The festival was scheduled for August 22–23, 2026 at JIExpo.',
+    'Tickets were sold through the official ticketing partner.',
+    'Locals arrived early to beat the parking crunch.',
+    'The stadium seats 60,000 and sits beside the airport.',
+    'Doors opened at 6pm.',
+    'Their travel plan was published ahead of the tour.',
+    'Locals typically arrive at the arena complex a good hour before doors.',
+    'Regulars arrive early to beat the parking crunch.',
+    'Fans who plan ahead usually stay on Yas Island.',
+  ]) assert.ok(!ADVICE_IMPERATIVE.test(s), s);
+});
+

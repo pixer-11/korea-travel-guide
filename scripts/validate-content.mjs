@@ -25,7 +25,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
-import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
+import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -412,15 +412,21 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
     const surfaces = [
       ['prose', p.body],
       ['quickAnswer', p.quickAnswer],
+      // The meta description is the SERP copy — the first thing a searcher
+      // reads. It was outside this loop until 2026-09-03, when 9 of 15 reviewed
+      // ended events still said "how to plan around it" there.
+      ['description', p.description],
       // ANSWERS only. A question may legitimately be phrased forward ("Where do
       // tickets go on sale?") — it is the answer that must not promise a future
       // act. Including questions flagged seoul-stray-kids-concert, whose answer
       // is a timeless "K-pop shows typically sell through Interpark or Yes24".
       ['FAQ', Array.isArray(p.faq) ? p.faq.map((x) => x?.a ?? '').join(' ') : ''],
     ];
-    // Two opposite failures, reported separately because they need different
-    // repairs: a leftover promise is stale, an invented past is false.
-    for (const [label, pattern] of [['FUTURE-TENSE', FUTURE_PROMISE], ['FABRICATED-AVAILABILITY', FABRICATED_AVAILABILITY]]) {
+    // Three failures, reported separately because they need different
+    // repairs: a leftover promise is stale, an invented past is false, and an
+    // instruction to a reader who has not gone yet ("always confirm before
+    // booking") is stale advice — the editorial half of the same class.
+    for (const [label, pattern] of [['FUTURE-TENSE', FUTURE_PROMISE], ['FABRICATED-AVAILABILITY', FABRICATED_AVAILABILITY], ['ADVICE', ADVICE_IMPERATIVE]]) {
       for (const [where, text] of surfaces) {
         const m = String(text || '').match(pattern);
         if (m) {

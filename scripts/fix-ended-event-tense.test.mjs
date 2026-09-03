@@ -135,7 +135,7 @@ t('own: 이번 판의 "took place / was held / ran" 을 잡는다', () => {
 });
 
 t('own: 지난 판·역사·관례는 놓아준다', () => {
-  const text = 'The 2025 edition sold out. Last year the race ran on a Sunday. The venue has hosted the Commonwealth Games. Crowds typically arrive early. Past editions drew big crowds.';
+  const text = 'The 2025 edition sold out. Last year the race ran on a Sunday. The venue has hosted the Commonwealth Games. Crowds typically arrive early. Past editions drew big crowds. Their productions on this tour have leaned into elaborate lighting.';
   const hits = ownEditionOutcomes(text, 2026);
   return hits.length ? `오탐: ${JSON.stringify(hits)}` : null;
 });

@@ -1,6 +1,6 @@
 ---
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipei: What to Know (Taipei)'
-description: Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August 29-30, 2026. What it is, when and where, and how to plan around it.
+description: Official HIGE DANDism Asia Tour 2026 in Taipei — two nights at Taipei Dome on August 29–30, 2026, with new songs Stardust and Elderflower announced.
 country: Taiwan
 region: Taipei
 category: event
@@ -10,18 +10,18 @@ eventEndDate: '2026-08-30'
 tags:
   - taipei
   - event
-quickAnswer: Official HIGE DANDism, the Japanese pop-rock five-piece behind hits like "Pretender" and "Cry Baby," play two nights at Taipei Dome on August 29–30, 2026, as part of their 2026 Asia Tour, with new songs "Stardust" and "Elderflower" expected to debut live. Ticket sales, exact doors/showtimes, and seating charts have not been locked in this guide — confirm everything on the band's official site and Taiwan's official ticketing platform before booking flights or hotels.
+quickAnswer: Official HIGE DANDism, the Japanese pop-rock five-piece behind hits like "Pretender" and "Cry Baby," were set for two nights at Taipei Dome on August 29–30, 2026, as part of their 2026 Asia Tour. The announcement included new songs "Stardust" and "Elderflower" as live debuts, alongside the band's established catalog. Ticket prices, exact doors and showtimes, and seating charts were not part of the announcement.
 faq:
   - q: What are the confirmed dates for Official HIGE DANDism in Taipei?
-    a: August 29 and 30, 2026, at Taipei Dome, as announced for their 2026 Asia Tour. Always double-check for any date changes on the band's official site before booking.
+    a: August 29 and 30, 2026, at Taipei Dome, as announced for their 2026 Asia Tour.
   - q: Where exactly is the venue and how do I get there?
-    a: Taipei Dome is in Songshan District, next to Taipei Songshan Cultural and Creative Park. Take the Blue Line to Taipei City Hall Station or the Brown Line to Nanjing Sanmin/Songshan Airport Station, then walk.
+    a: Taipei Dome is in Songshan District, next to Taipei Songshan Cultural and Creative Park. The Blue Line reaches Taipei City Hall Station and the Brown Line reaches Nanjing Sanmin and Songshan Airport stations, all a short walk away.
   - q: Will new songs be performed?
-    a: The tour has been announced with new tracks "Stardust" and "Elderflower" expected to debut live, alongside the band's established catalog, though the exact setlist isn't confirmed.
+    a: The tour was announced with new tracks "Stardust" and "Elderflower" as live debuts, alongside the band's established catalog. The setlist itself was never published.
   - q: How do I buy tickets safely?
-    a: Use only the official ticketing platform linked from the band's or promoter's official channels. Prices and on-sale dates weren't available at the time of writing, so confirm directly before purchasing.
+    a: In Taiwan, the authorised seller for a show like this is the official ticketing platform linked from the band's and promoter's own channels, and resale outside those channels carries risk. Prices and on-sale dates were not part of the announcement.
   - q: Should I attend both nights?
-    a: Many touring fans do, since dome shows on consecutive nights often rotate part of the setlist. If you can only go once, either date should give you the full production, but check official recaps after night one if you're deciding on the second.
+    a: Many touring fans do both, since dome shows on consecutive nights often rotate part of the setlist. Here the two dates were announced as a back-to-back pair, each with the same full production.
 aiGenerated: true
 eventRecurring: false
 eventOrganizer:
@@ -47,7 +47,7 @@ eventFactsAsked: true
 
 Official HIGE DANDism — often shortened to "Higedan" by fans — is one of the few Japanese rock acts that regularly fills domes, and their Asia tours have become genuine events rather than side stops. The band built its following on tight vocal harmonies, jazz-inflected piano runs, and anthemic choruses that translated far beyond Japan through anime tie-ins and streaming hits.
 
-A two-night stand at Taipei Dome signaled how big their regional pull had become, and the promise of new material — "Stardust" and "Elderflower" — meant longtime fans were expecting a preview of the band's next studio chapter rather than a straight greatest-hits set.
+A two-night stand at Taipei Dome signalled how big their regional pull had become, and the new material — "Stardust" and "Elderflower" — pointed to a preview of the band's next studio chapter rather than a straight greatest-hits set.
 
 ## Getting to Taipei Dome
 
@@ -57,14 +57,14 @@ For those flying in, Taipei Songshan Airport is only a couple of MRT stops away 
 
 ## What to expect inside
 
-Domes of this scale in Taiwan are still a relatively new phenomenon, and international acts booking multi-night runs here is part of a broader shift in the city's concert infrastructure. The run promised a full-scale touring production — stage lighting rigs, video screens, and a setlist likely blending established singles with the newly announced tracks. Because "Stardust" and "Elderflower" were being framed as debuts for this tour, fan recaps and setlist-tracking sites were a natural place to look for details of each night shortly after it wrapped.
+Domes of this scale in Taiwan are still a relatively new phenomenon, and international acts booking multi-night runs here is part of a broader shift in the city's concert infrastructure. The run was planned as a full-scale touring production — stage lighting rigs, video screens, and a setlist blending established singles with the newly announced tracks. "Stardust" and "Elderflower" were framed as debuts for this tour, and setlist-tracking sites are where the details of individual dome nights usually surface.
 
 ## When it happened
 
-With two dates back-to-back (August 29 and 30, 2026), touring fans often try to catch both nights to compare setlists and atmosphere, since bands frequently rotate a handful of songs across multi-night dome runs. Late August in Taipei is hot and humid, typically in typhoon season, a factor for anyone whose travel plans depended on flights in or out of Taoyuan or Songshan airports.
+The two dates were set back-to-back, August 29 and 30, 2026. Touring fans often catch both nights to compare setlists and atmosphere, since bands frequently rotate a handful of songs across multi-night dome runs. Late August in Taipei is hot and humid, and falls in typhoon season, which can affect flights in and out of Taoyuan and Songshan airports.
 
 ## Getting around like a local
 
 Taiwanese concertgoers overwhelmingly buy tickets through official local platforms tied to the promoter, and resale outside those channels is common but risky — verified tickets on official apps are the safer route. Doors typically open well before Japanese-artist dome shows in Taipei, and queues for merchandise ("goods") stalls often form hours ahead of doors.
 
-Cash and mobile payment (LINE Pay, EasyCard-linked apps) are both widely used at merch booths and nearby convenience stores, though card acceptance varies stall to stall. Fans typically queue in orderly lines by ticket section number, a habit worth following even if you're used to more casual entry elsewhere. Nearby Songshan Cultural and Creative Park and the Xinyi shopping district stay lively late, making them a natural spot to unwind after a show.
+Cash and mobile payment (LINE Pay, EasyCard-linked apps) are both widely used at merch booths and nearby convenience stores, though card acceptance varies stall to stall. Fans typically queue in orderly lines by ticket section number. Nearby Songshan Cultural and Creative Park and the Xinyi shopping district stay lively late, making them a natural spot to unwind after a show.

@@ -1,8 +1,6 @@
 ---
 title: 'Lollapalooza 2026: What to Know (Chicago)'
-description: >-
-  Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with
-  headliners including Charli XCX, Lorde, and Doja Cat.
+description: Lollapalooza 2026 was set for July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat.
 country: United States
 region: Chicago
 category: event
@@ -10,11 +8,10 @@ eventStartDate: 2026-07-30T00:00:00.000Z
 eventEndDate: 2026-08-02T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png
   credit: 'Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png'
+  source: https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png
   focus:
     x: 55
     'y': 45
@@ -22,75 +19,52 @@ gallery: []
 tags:
   - chicago
   - event
-quickAnswer: >-
-  Lollapalooza 2026 runs July 30–August 2 in Grant Park, Chicago, with
-  headliners including Charli XCX, Lorde, and Doja Cat. Buy tickets and check
-  set times only through the official Lollapalooza site/app for each edition,
-  since gate locations, hours, and lineup slots shift from year to year. Base
-  yourself near the Loop or South Loop so you can walk or take the CTA to Grant
-  Park rather than drive.
+quickAnswer: Lollapalooza 2026 was set for July 30–August 2 in Grant Park, Chicago, with headliners including Charli XCX, Lorde, and Doja Cat. Tickets were sold through the official Lollapalooza site and app, which also carried set times; gate locations, hours, and lineup slots shift from year to year. The Loop and South Loop sit within walking distance or a short CTA ride of Grant Park, which is why most festivalgoers skip driving.
 faq:
   - q: What are the exact dates for Lollapalooza 2026?
-    a: >-
-      As announced, July 30–August 2, 2026, in Grant Park, Chicago. Confirm on
-      the official Lollapalooza website for the edition you are attending, since
-      festival dates and details can be adjusted.
+    a: The announced dates were July 30–August 2, 2026, in Grant Park, Chicago. Dates and details are set edition by edition on the official Lollapalooza website, and they can be adjusted.
   - q: Who is headlining Lollapalooza 2026?
-    a: >-
-      Confirmed headliners so far include Charli XCX, Lorde, and Doja Cat. The
-      rest of the lineup and daily set times are typically released in phases,
-      so check the official site/app for updates.
+    a: Confirmed headliners included Charli XCX, Lorde, and Doja Cat. The rest of the lineup and the daily set times are typically released in phases on the official site and app.
   - q: How do I get to Grant Park without driving?
-    a: >-
-      Take the CTA Red, Orange, or Green Line to Roosevelt, or the Red Line to
-      Harrison; both are a short walk to the festival gates. Metra
-      Electric/South Shore trains to Museum Campus/11th Street are another
-      option.
+    a: The CTA Red, Orange, and Green Lines stop at Roosevelt, and the Red Line also stops at Harrison; both stations are a short walk from the festival gates. Metra Electric and South Shore trains reach Museum Campus/11th Street.
   - q: How much are tickets and when do they go on sale?
-    a: >-
-      Pricing and on-sale dates weren't available at the time of writing and
-      change year to year, so check Lollapalooza's official ticketing page
-      directly rather than relying on past-year prices.
-  - q: 'Is one day enough, or should I get a multi-day pass?'
-    a: >-
-      A single-day pass works if you're mainly there for headliners, but a
-      four-day pass lets you catch smaller acts across Lollapalooza's many
-      stages; four-day passes have historically sold out first.
+    a: Prices and on-sale dates were not part of the announcement, and they change year to year. Lollapalooza's official ticketing page carries the figures for each edition, which past-year prices do not reflect.
+  - q: Is one day enough, or should I get a multi-day pass?
+    a: A single-day pass covers the headliners, while a four-day pass covers smaller acts across Lollapalooza's many stages. Four-day passes have historically sold out first.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: C3 Presents
-  url: 'https://www.c3presents.com'
+  url: https://www.c3presents.com
 eventOffers:
-  url: 'https://www.lollapalooza.com/tickets'
+  url: https://www.lollapalooza.com/tickets
 eventFactsAsked: true
 ---
-
 ## Why go
 
-Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages.
+Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition was set for July 30–August 2, with Charli XCX, Lorde, and Doja Cat announced as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages.
 
-The full lineup, set times and daily posters were published in the months before the festival, and follow the same pattern for each edition.
+Lollapalooza releases the full lineup, set times, and daily posters in the months before each edition, and 2026 followed the same pattern.
 
 ## Getting there
 
-Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roosevelt Road, right against the Loop. The most convenient CTA stops are Roosevelt (Red, Orange, Green Lines) and Harrison (Red Line), both a short walk from the south end of the park; Metra Electric and South Shore trains also stop at Museum Campus/11th Street. If you're staying downtown, walking is realistic from most South Loop, Loop, or Streeterville hotels.
+Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roosevelt Road, right against the Loop. The most convenient CTA stops are Roosevelt (Red, Orange, Green Lines) and Harrison (Red Line), both a short walk from the south end of the park; Metra Electric and South Shore trains also stop at Museum Campus/11th Street. Walking is realistic from most South Loop, Loop, or Streeterville hotels.
 
-Driving is discouraged — Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park but expect them to empty out fast during peak entry/exit windows.
+Driving is the hardest option — Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park, though they empty out fast during peak entry and exit windows.
 
 ## What to expect inside
 
-Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming so you'll walk past house and electronic tents on the way to a rock or hip-hop headliner. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds.
+Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming, so the walk to a rock or hip-hop headliner passes house and electronic tents. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds.
 
-Water refill stations are usually placed throughout the park, worth using given the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and should be checked on the official Lollapalooza site for the edition you are attending.
+Water refill stations are usually placed throughout the park, which matters in the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and are listed on the official Lollapalooza site for each edition.
 
 ## When to go and how long to stay
 
-The festival runs four days, Thursday through Sunday, and single-day and four-day passes are typically both offered, with four-day passes historically selling out first. If you only want the headliners, a single day covers it, but the full experience — including catching rising acts on smaller stages during the afternoon — takes the full weekend. Afternoons in Grant Park in late July regularly hit the high 80s°F with high humidity, so early sets are the most comfortable for walking the grounds and staking out spots before evening headliners draw the biggest crowds. Gates generally open late morning to early afternoon, with exact hours published for each edition.
+The festival was planned as four days, Thursday through Sunday. Single-day and four-day passes are typically both offered, with four-day passes historically selling out first. A single day covers the headliners; the full weekend covers the rising acts on smaller stages during the afternoon. Afternoons in Grant Park in late July regularly hit the high 80s°F with high humidity, and the early sets are the coolest part of the day, while the evening headliners draw the biggest crowds. Gates generally open late morning to early afternoon, with exact hours published for each edition.
 
 ## Nearby & practical tips
 
-Grant Park sits within walking distance of the Art Institute of Chicago, Millennium Park (Cloud Gate/"The Bean"), and the Museum Campus (Field Museum, Shedd Aquarium, Adler Planetarium) — all worth building into a pre- or post-festival day. The South Loop and West Loop have late-serving restaurants for after headliner sets end. Hotels near the park and in the Loop book up well ahead of the July dates, so reserving early is worthwhile if you're traveling from outside Chicago.
+Grant Park sits within walking distance of the Art Institute of Chicago, Millennium Park (Cloud Gate/"The Bean"), and the Museum Campus (Field Museum, Shedd Aquarium, Adler Planetarium), all of which fit into a day either side of the festival. The South Loop and West Loop have late-serving restaurants for after headliner sets end. Hotels near the park and in the Loop fill up for the July dates, especially for travellers coming from outside Chicago.
 
-Because lineup, ticket tiers, venue details, and hours are all subject to change, treat the official Lollapalooza website and app as the single source of truth for confirming dates, prices, and entry logistics before you finalize travel plans.
+Lineup, ticket tiers, venue details, and hours are set edition by edition, and the official Lollapalooza website and app carry the dates, prices, and entry logistics for each one.

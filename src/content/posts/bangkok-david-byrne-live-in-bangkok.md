@@ -1,6 +1,6 @@
 ---
 title: 'David Byrne Live in Bangkok: What to Know (Bangkok)'
-description: David Byrne, the former Talking Heads frontman, is set to perform at UOB Live in Bangkok on Monday, August 10, 2026.
+description: David Byrne, the former Talking Heads frontman, was set to perform at UOB Live in Bangkok on Monday, August 10, 2026.
 country: Thailand
 region: Bangkok
 category: event
@@ -18,25 +18,24 @@ heroImage:
 tags:
   - bangkok
   - event
-quickAnswer: David Byrne, the former Talking Heads frontman, performed at UOB Live in Bangkok on Monday, August 10, 2026. Doors and set times were not confirmed in this summary; the date served as the anchor fact, with ticketing details, exact showtime, and any support acts published via the official UOB Live channels or Byrne's own ticketing partners.
+quickAnswer: David Byrne, the former Talking Heads frontman, was set to perform at UOB Live in Bangkok on Monday, August 10, 2026. Doors and set times were not listed in this summary; the date was the anchor fact, with ticketing details, exact showtime and any support acts published via the official UOB Live channels or Byrne's own ticketing partners.
 faq:
   - q: Is the August 10, 2026 date for David Byrne in Bangkok confirmed?
-    a: It's the announced date as of this writing, but tour dates can shift. Confirm via UOB Live's official site or David Byrne's official tour page before booking travel.
+    a: August 10, 2026 was the announced date for the Bangkok show at UOB Live. It came from the venue's official channels and David Byrne's official tour listings.
   - q: How do I get to UOB Live?
-    a: Take the MRT Blue Line to Sam Yan station, which connects directly into the Samyan Mitrtown complex housing the arena — the easiest way to avoid Bangkok traffic.
+    a: The MRT Blue Line runs to Sam Yan station, which connects directly into the Samyan Mitrtown complex housing the arena — the easiest way to avoid Bangkok traffic.
   - q: What's the best area to stay for this show?
-    a: Silom, Sathorn, or Chinatown (Yaowarat) are all within a short MRT ride or taxi trip of Sam Yan, making them convenient bases for concert-goers.
+    a: Silom, Sathorn, and Chinatown (Yaowarat) are all within a short MRT ride or taxi trip of Sam Yan, making them convenient bases for concert-goers.
   - q: What should I do before the show?
-    a: Grab dinner at Samyan Mitrtown's food court or head to nearby Yaowarat Road in Chinatown for classic Bangkok street food like boat noodles and mango sticky rice.
+    a: Samyan Mitrtown has a food court and sit-down restaurants inside the same complex, and nearby Yaowarat Road in Chinatown is known for classic Bangkok street food like boat noodles and mango sticky rice.
   - q: Where do I buy tickets?
-    a: Check official channels only — typically UOB Live's website or authorized partners like Thai Ticket Major — and avoid unofficial resale sites, since prices and tiers weren't specified in official announcements at publication time.
+    a: Tickets for shows here are sold through official channels — typically UOB Live's website or authorized partners such as Thai Ticket Major. Prices and tiers for this concert were not specified in the official announcements.
 aiGenerated: true
 eventRecurring: false
 eventOrganizer:
   name: Live Nation Tero
   url: https://www.livenationtero.co.th
 ---
-
 ## Why this show mattered
 
 David Byrne isn't just a legacy act cashing in on nostalgia — he's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces.
@@ -45,23 +44,23 @@ A Bangkok date on a global tour was a rare chance for Southeast Asian fans to ca
 
 ## The essentials: date and venue
 
-The show was scheduled for **Monday, August 10, 2026**, at **UOB Live**, one of Bangkok's largest purpose-built indoor arenas. UOB Live sits inside the **Samyan Mitrtown** complex in the Samyan/Chulalongkorn area of central Bangkok — a mixed-use development combining retail, dining, and a 24-hour co-working/library zone above the arena itself.
+The show was set for **Monday, August 10, 2026**, at **UOB Live**, one of Bangkok's largest purpose-built indoor arenas. UOB Live sits inside the **Samyan Mitrtown** complex in the Samyan/Chulalongkorn area of central Bangkok — a mixed-use development combining retail, dining, and a 24-hour co-working/library zone above the arena itself.
 
 ## Getting to UOB Live
 
-UOB Live is one of the more transit-friendly arenas in the city. The closest station is **Sam Yan MRT (Blue Line)**, with an exit that connects directly into the Samyan Mitrtown building — meaning arriving fans can skip Bangkok's often-snarled surface traffic entirely. If coming from Sukhumvit or Silom hotel areas, riding the Blue Line to Sam Yan is typically faster and cheaper than a taxi or ride-hail app, especially on a weekday evening when office traffic in the Silom-Sathorn corridor peaks.
+UOB Live is one of the more transit-friendly arenas in the city. The closest station is **Sam Yan MRT (Blue Line)**, with an exit that connects directly into the Samyan Mitrtown building, so fans can skip Bangkok's often-snarled surface traffic entirely. From Sukhumvit or Silom hotel areas, the Blue Line to Sam Yan is typically faster and cheaper than a taxi or ride-hail app, especially on a weekday evening when office traffic in the Silom-Sathorn corridor peaks.
 
-For those staying near the Chao Phraya river or Chinatown (Yaowarat), it's a short taxi hop or a MRT connection via Hua Lamphong station, one stop away.
+From the Chao Phraya river or Chinatown (Yaowarat), it's a short taxi hop or an MRT connection via Hua Lamphong station, one stop away.
 
 ## Where to eat and what to do beforehand
 
-Samyan Mitrtown itself has a food court and several sit-down restaurants, useful for a pre-show meal without leaving the building. The surrounding neighborhood rewarded a bit of wandering: Chinatown's Yaowarat Road, known for its street food scene, is a short taxi or MRT ride away and made a lively pre-concert stop for those arriving a few hours early. Chulalongkorn University's leafy campus borders the area too, offering a quieter contrast to the neon-lit food streets nearby.
+Samyan Mitrtown itself has a food court and several sit-down restaurants, useful for a pre-show meal without leaving the building. The surrounding neighborhood rewards a bit of wandering: Chinatown's Yaowarat Road, known for its street food scene, is a short taxi or MRT ride away and makes a lively pre-concert stop. Chulalongkorn University's leafy campus borders the area too, offering a quieter contrast to the neon-lit food streets nearby.
 
 ## Practical tips for international visitors
 
-August falls in Bangkok's rainy season, so a compact umbrella or light rain jacket was advisable for the walk between transit and the venue, even though most of the route from Sam Yan MRT is covered. Nights stay warm and humid (typically in the high 20s to low 30s Celsius), so the arena's air conditioning would have been a welcome relief once inside.
+August falls in Bangkok's rainy season, which is why a compact umbrella or light rain jacket is standard kit here, though most of the route from Sam Yan MRT is covered. Nights stay warm and humid (typically in the high 20s to low 30s Celsius), and the arena is air-conditioned.
 
-Tickets for international touring acts at UOB Live often sell through platforms like Thai Ticket Major or the venue's own partners — beware third-party resale sites and confirm authenticity before purchasing. Bangkok has two major airports: Suvarnabhumi (BKK) and Don Mueang (DMK), both connected to the city center by train or taxi, with Suvarnabhumi's Airport Rail Link being the more direct option toward the Sam Yan/Silom side of town.
+Tickets for international touring acts at UOB Live often sell through platforms like Thai Ticket Major or the venue's own partners, rather than third-party resale sites. Bangkok has two major airports: Suvarnabhumi (BKK) and Don Mueang (DMK), both connected to the city center by train or taxi, with Suvarnabhumi's Airport Rail Link being the more direct option toward the Sam Yan/Silom side of town.
 
 ## Nearby & tips
 

@@ -103,7 +103,7 @@ export function inventedOutcomes(original, rewritten) {
 // A sentence that is about the past in general, not about this edition:
 // history ("has hosted", "had previously raced"), habit ("usually", "tend to",
 // "typically"), or an edition other than this one.
-const HISTORY = /\b(?:has|have|had)\s+(?:\w+\s+){0,2}(?:hosted|held|run|played|drawn|sold|been|staged)\b|\b(?:historically|in the past|in past editions|past editions|previous editions|earlier editions|traditionally)\b|\b(?:usually|typically|often|generally|tends? to|tended to|routinely|regularly|every year|each year|annually)\b/i;
+const HISTORY = /\b(?:has|have|had)\s+(?:\w+\s+){0,2}(?:hosted|held|run|played|drawn|sold|been|staged|leaned|attracted|kicked|wrapped|taken)\b|\b(?:historically|in the past|in past editions|past editions|previous editions|earlier editions|traditionally)\b|\b(?:usually|typically|often|generally|tends? to|tended to|routinely|regularly|every year|each year|annually)\b/i;
 
 /**
  * Sentences of `text` that claim an outcome of the event's OWN edition.

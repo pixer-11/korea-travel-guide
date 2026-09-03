@@ -1,6 +1,6 @@
 ---
 title: 'Lee Hi – 808 HI Recordings World Tour 2026: What to Know (Jakarta)'
-description: Lee Hi – 808 HI Recordings World Tour 2026 in Jakarta, Indonesia — August 9, 2026. What it is, when and where, and how to plan around it.
+description: 'Lee Hi – 808 HI Recordings World Tour 2026 in Jakarta: the August 9, 2026 date at Bengkel Hall, SCBD, with special guest DOK2.'
 country: Indonesia
 region: Jakarta
 category: event
@@ -10,18 +10,18 @@ eventEndDate: '2026-08-09'
 tags:
   - jakarta
   - event
-quickAnswer: Lee Hi brings her "808 HI Recordings" world tour to Jakarta for the first time on August 9, 2026, performing at Bengkel Hall in SCBD, South Jakarta, with special guest rapper DOK2. Tickets, exact set times, and gate details will come through the official promoter and Lee Hi's/venue's verified social channels — confirm those before booking flights or making other plans, since dates and lineups for K-pop/K-hip-hop tour stops can shift.
+quickAnswer: The Jakarta stop of Lee Hi's "808 HI Recordings" world tour was set for August 9, 2026 at Bengkel Hall in SCBD, South Jakarta, billed as her first solo concert in Indonesia, with special guest rapper DOK2. Tickets were sold through the official promoter and verified ticketing platforms, and announcements came through Lee Hi's and the venue's verified social channels. Bengkel Hall is a mid-size indoor venue in one of the city's main business and entertainment districts.
 faq:
   - q: Where exactly is the Lee Hi Jakarta concert?
     a: At Bengkel Hall in the SCBD (Sudirman Central Business District) area of South Jakarta, a well-known business and entertainment hub along Jalan Jenderal Sudirman.
   - q: When is the show?
-    a: August 9, 2026, as announced.
+    a: The date announced was August 9, 2026.
   - q: Who else is performing?
-    a: Korean rapper and producer DOK2 is confirmed as a special guest alongside Lee Hi; no other lineup additions have been announced.
+    a: Korean rapper and producer DOK2 was announced as a special guest alongside Lee Hi; no other lineup additions were announced.
   - q: How do I get to Bengkel Hall without a car?
-    a: Take the Jakarta MRT Blue Line to ASEAN or Senayan/Istora station, both within a short walk or quick Gojek/Grab ride of SCBD, especially useful given heavy traffic in the area.
+    a: The Jakarta MRT Blue Line runs to ASEAN and Senayan/Istora stations, both within a short walk or a quick Gojek/Grab ride of SCBD, which helps given the heavy traffic in the area.
   - q: Where can I buy tickets safely?
-    a: Ticket prices and sale dates weren't specified in the initial announcement. Tickets were sold through the official promoter or verified ticketing platform, and buyers were advised to avoid early resale listings to steer clear of scalped or fake tickets.
+    a: Ticket prices and sale dates weren't specified in the initial announcement. Tickets were sold through the official promoter and verified ticketing platforms; early resale listings for shows like this carry the usual risk of scalped or fake tickets.
 aiGenerated: true
 eventRecurring: false
 heroImage:
@@ -35,22 +35,21 @@ heroImage:
     top: 14
     bottom: 36
 ---
-
 ## Why this show matters
 
-Lee Hi, the South Korean singer known for her smoky, soul-inflected vocals on tracks like "1, 2, 3, 4," "Breathe," and "Rose," brought her *808 HI Recordings* world tour to Indonesia for the very first time. This Jakarta date marked her first-ever solo concert in the country, a notable milestone for her local fanbase after years of only catching her at group showcases or festival lineups.
+Lee Hi, the South Korean singer known for her smoky, soul-inflected vocals on tracks like "1, 2, 3, 4," "Breathe," and "Rose," was bringing her *808 HI Recordings* world tour to Indonesia for the very first time. The Jakarta date was announced as her first solo concert in the country, a notable milestone for her local fanbase after years of only catching her at group showcases or festival lineups.
 
-Joining her was special guest DOK2, a veteran Korean rapper and producer, which suggested the night would lean into a hip-hop-and-R&B-flavored set rather than a straight pop showcase. For fans of Korean R&B and AOMG/hip-hop adjacent acts, this was a rare chance to see both artists on Indonesian soil.
+Special guest DOK2, a veteran Korean rapper and producer, joined the bill, which suggested the night would lean into a hip-hop-and-R&B-flavored set rather than a straight pop showcase. For fans of Korean R&B and AOMG/hip-hop adjacent acts, this was a rare pairing of both artists on Indonesian soil.
 
 ## Where and when
 
-The concert was scheduled for August 9, 2026, at Bengkel Hall, located in the SCBD (Sudirman Central Business District) area of South Jakarta. SCBD is one of Jakarta's premier business and entertainment districts, packed with malls, office towers, and event venues, making it a familiar stop for international concerts and brand activations. Bengkel Hall itself is known as a mid-size indoor venue suited to concerts, showcases, and corporate events, with a standing-and-seated hybrid setup typical of this venue type.
+The concert was set for August 9, 2026, at Bengkel Hall, located in the SCBD (Sudirman Central Business District) area of South Jakarta. SCBD is one of Jakarta's premier business and entertainment districts, packed with malls, office towers, and event venues, making it a familiar stop for international concerts and brand activations. Bengkel Hall itself is known as a mid-size indoor venue suited to concerts, showcases, and corporate events, with a standing-and-seated hybrid setup typical of this venue type.
 
 ## Getting to Bengkel Hall, SCBD
 
-SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district — ASEAN and Senayan/Istora stations are the closest, both putting visitors within a short walk or quick ride-hail trip of the SCBD core. Given Jakarta's notorious traffic, especially on a weekend evening, extra time was worth budgeting for those arriving by car or app-based ride service (Gojek and Grab are the standard options locals use).
+SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district — ASEAN and Senayan/Istora stations are the closest, both putting visitors within a short walk or quick ride-hail trip of the SCBD core. Jakarta traffic is notorious, especially on a weekend evening, so car and app-based ride journeys through the area can be slow (Gojek and Grab are the standard options locals use).
 
-Taxis and ride-hailing are plentiful in this district since it's a business and nightlife hub, so getting out after the show was easier than in outer areas of the city.
+Taxis and ride-hailing are plentiful in this district since it's a business and nightlife hub, so leaving after a show here is easier than in outer areas of the city.
 
 ## What to expect from the set
 
@@ -64,5 +63,4 @@ Ticket pricing, seating categories, and on-sale dates were not specified in the 
 
 ## How to visit like a local
 
-Jakarta concertgoers tend to arrive in waves rather than queue for hours outside — unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. Bengkel Hall's numbered or zoned floor system, where applicable, me
-
+Jakarta concertgoers tend to arrive in waves rather than queue for hours outside — unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. Bengkel Hall's numbered or zoned floor system, where applicable, shapes how much of a difference that early queueing makes.
