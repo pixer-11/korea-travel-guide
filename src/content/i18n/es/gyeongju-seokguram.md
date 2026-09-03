@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gyeongju-seokguram
-srcHash: 'e60194d76701'
+srcHash: 'e8ad5356568b'
 title: 'Seokguram: Guía de viaje de Gyeongju (4,4★)'
-description: 'Seokguram es la gruta-santuario de la dinastía Silla en el monte Tohamsan, famosa por su sereno Buda de granito con vistas al mar del Este, y abre todos los días de 9:00 a 18:00. 4,4★ (7.901 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Seokguram es la gruta-santuario de la dinastía Silla en el monte Tohamsan, famosa por su sereno Buda de granito con vistas al mar del Este, y abre todos los días de 9:00 a 18:00. 4,4★ (7.941 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Seokguram es la gruta-santuario de la dinastía Silla en el monte Tohamsan, famosa por su sereno Buda de granito con vistas al mar del Este, y abre todos los días de 9:00 a 18:00. Ve justo a las 9:00 o después de las 17:00 para evitar los autobuses turísticos: los fines de semana se llena mucho entre las 10:00 y las 17:00. Combínalo con el cercano templo Bulguksa (Bulguksa Temple) y reserva medio día para los dos.'
 faq:
   - q: ¿Cuál es el horario de Seokguram?

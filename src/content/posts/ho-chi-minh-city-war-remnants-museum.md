@@ -1,37 +1,48 @@
 ---
 title: 'War Remnants Museum: Ho Chi Minh City Travel Guide'
-description: The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short walk or taxi ride from Reunification Palace and about 10–15 minutes from the Ben Thanh Market area.
+description: >-
+  The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short
+  walk or taxi ride from Reunification Palace and about 10–15 minutes from the
+  Ben Thanh Market area.
 country: Vietnam
 region: Ho Chi Minh City
 category: attraction
 pubDate: '2026-07-22T09:26:54.162Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/40427565_DRRKdHilxlcOXTRllvvz568cKZSlxYRnh7JSSDHGlUY.jpg
-  credit: 'Photo: Foursquare user content (War Remnants Museum (Bảo tàng Chứng tích Chiến tranh))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/40427565_DRRKdHilxlcOXTRllvvz568cKZSlxYRnh7JSSDHGlUY.jpg
+  credit: >-
+    Photo: Foursquare user content (War Remnants Museum (Bảo tàng Chứng tích
+    Chiến tranh))
   license: foursquare
-  source: https://foursquare.com/v/4bb05670f964a5208d413ce3
+  source: 'https://foursquare.com/v/4bb05670f964a5208d413ce3'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Artiller%C3%ADa,_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Artiller%C3%ADa,_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG
 place:
   id: ChIJzwg3ojAvdTERqnQUK99K2Xw
   name: War Remnants Museum
-  address: Phường 6, Quận 3, Hồ Chí Minh 700000, Vietnam
+  address: 'Phường 6, Quận 3, Hồ Chí Minh 700000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 40857
-  googleMapsUrl: https://maps.google.com/?cid=8996304053010199722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 41408
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8996304053010199722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.7795106
   lng: 106.6920916
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8]
-    weekendQuiet: [8]
+    weekdayQuiet:
+      - 8
+    weekendQuiet:
+      - 8
     weekendBusy:
       - 10
       - 11
@@ -40,7 +51,7 @@ place:
       - 14
       - 15
     venueId: ven_7758324b39394b55516e715245546476416a6f3367777a4a496843
-  phone: '+84 28 3930 5587'
+  phone: +84 28 3930 5587
   openingHours:
     - 'Monday: 7:30 AM – 5:30 PM'
     - 'Tuesday: 7:30 AM – 5:30 PM'
@@ -52,21 +63,42 @@ place:
 tags:
   - ho chi minh city
   - top attraction
-quickAnswer: The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short walk or taxi ride from Reunification Palace and about 10–15 minutes from the Ben Thanh Market area. Budget 1.5–2.5 hours to see the outdoor military hardware and the indoor photography galleries, which are graphic and emotionally heavy. Go early on a weekday morning to avoid tour-bus crowds and the worst of the midday heat.
+quickAnswer: >-
+  The War Remnants Museum sits at 28 Vo Van Tan Street in District 3, a short
+  walk or taxi ride from Reunification Palace and about 10–15 minutes from the
+  Ben Thanh Market area. Budget 1.5–2.5 hours to see the outdoor military
+  hardware and the indoor photography galleries, which are graphic and
+  emotionally heavy. Go early on a weekday morning to avoid tour-bus crowds and
+  the worst of the midday heat.
 faq:
   - q: How much time should I budget for the War Remnants Museum?
-    a: Plan on 1.5–2 hours for a focused visit, or up to 3 hours if you read most of the photo captions and see both the outdoor military vehicle courtyard and all indoor floors.
+    a: >-
+      Plan on 1.5–2 hours for a focused visit, or up to 3 hours if you read most
+      of the photo captions and see both the outdoor military vehicle courtyard
+      and all indoor floors.
   - q: How do I get to the War Remnants Museum from central Saigon?
-    a: It's at 28 Vo Van Tan Street, District 3, about a 10-minute walk from Reunification Palace or a 10–15 minute Grab/taxi ride from Ben Thanh Market; there's no direct metro station yet.
+    a: >-
+      It's at 28 Vo Van Tan Street, District 3, about a 10-minute walk from
+      Reunification Palace or a 10–15 minute Grab/taxi ride from Ben Thanh
+      Market; there's no direct metro station yet.
   - q: Is the museum appropriate for children?
-    a: Several galleries, especially the Agent Orange exhibit and war photography sections, contain graphic images of casualties and deformities, so it's generally not recommended for young children.
+    a: >-
+      Several galleries, especially the Agent Orange exhibit and war photography
+      sections, contain graphic images of casualties and deformities, so it's
+      generally not recommended for young children.
   - q: What's the best time of day to visit?
-    a: Weekday mornings shortly after opening are quietest and cooler, before tour groups arrive and before the midday heat makes the outdoor courtyard uncomfortable.
+    a: >-
+      Weekday mornings shortly after opening are quietest and cooler, before
+      tour groups arrive and before the midday heat makes the outdoor courtyard
+      uncomfortable.
   - q: What else is nearby to combine with this visit?
-    a: Reunification Palace, Notre-Dame Cathedral Saigon, and the Central Post Office are all within walking distance, making a natural half-day historical walking loop.
+    a: >-
+      Reunification Palace, Notre-Dame Cathedral Saigon, and the Central Post
+      Office are all within walking distance, making a natural half-day
+      historical walking loop.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-03'
 ---
 
 ## Why go

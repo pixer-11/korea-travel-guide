@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hiroshima-mitaki-temple
-srcHash: 'b45d636af22c'
+srcHash: 'd4a893bbb0bd'
 title: 'Templo Mitaki: Guía de viaje de Hiroshima (4,6★)'
-description: El templo Mitaki (Mitaki-ji) es un templo budista Shingon arbolado y alimentado por cascadas, escondido en un barranco sobre la estación de Mitaki, a unos 10 minutos en tren JR desde la estación de Hiroshima — un contrapunto tranquilo al Parque Memorial de la Paz. 4,6★ (1.230 opiniones) — qué dicen los visitantes, horarios y consejos.
+description: El templo Mitaki (Mitaki-ji) es un templo budista Shingon arbolado y alimentado por cascadas, escondido en un barranco sobre la estación de Mitaki, a unos 10 minutos en tren JR desde la estación de Hiroshima — un contrapunto tranquilo al Parque Memorial de la Paz. 4,6★ (1.237 opiniones) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El templo Mitaki (Mitaki-ji) es un templo budista Shingon arbolado y alimentado por cascadas, escondido en un barranco sobre la estación de Mitaki, a unos 10 minutos en tren JR desde la estación de Hiroshima — un contrapunto tranquilo al Parque Memorial de la Paz. Calcula entre 45 y 75 minutos para recorrer los caminos de piedra cubiertos de musgo que pasan junto a tres cascadas, una pagoda de tres pisos y cientos de estatuas de Jizo desgastadas por el tiempo. Los datos de afluencia muestran que se mantiene tranquilo en la franja de 8:00 a 18:00 incluso los fines de semana, aunque puede llenarse entre las 9:00 y las 16:00 los sábados y domingos, así que una visita temprano o al final del día es tu mejor opción.
 faq:
   - q: ¿Cómo llego al templo Mitaki desde la estación de Hiroshima?

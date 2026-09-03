@@ -1,32 +1,39 @@
 ---
 title: 'La Luna Coffee Hạ Long: Ha Long Bay Travel Guide'
-description: La Luna Coffee Hạ Long is a large, multi-level café on Hạ Long street in Bãi Cháy, built around big glass walls and terrace seating aimed at the bay view — a spot for photos, iced coffee, and a slow hour rather than a historical sight.
+description: >-
+  La Luna Coffee Hạ Long is a large, multi-level café on Hạ Long street in Bãi
+  Cháy, built around big glass walls and terrace seating aimed at the bay view —
+  a spot for photos, iced coffee, and a slow hour rather than a historical
+  sight.
 country: Vietnam
 region: Ha Long Bay
 category: trendy
 pubDate: '2026-07-22T09:37:41.722Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/94704269_Ebv5dhb5FZfdcf3M50ITKoHMSBYDnZwxLkqHHrWpwpY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/94704269_Ebv5dhb5FZfdcf3M50ITKoHMSBYDnZwxLkqHHrWpwpY.jpg
   credit: 'Photo: Foursquare user content (La Luna Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/6468971ae787e834bc77b37a
+  source: 'https://foursquare.com/v/6468971ae787e834bc77b37a'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/94704269_CFWU6XYZ6oPN0r8MYV_plkknuSHy63OMfP5WUHktVSI.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/94704269_CFWU6XYZ6oPN0r8MYV_plkknuSHy63OMfP5WUHktVSI.jpg
     credit: 'Photo: Foursquare user content (La Luna Coffee)'
     license: foursquare
-    source: https://foursquare.com/v/6468971ae787e834bc77b37a
+    source: 'https://foursquare.com/v/6468971ae787e834bc77b37a'
 place:
   id: ChIJ8W4jgzlZSjERUjrTt8bb3BM
   name: La Luna Coffee Hạ Long
-  address: 780 Hạ Long, Bãi Cháy, Quảng Ninh, Vietnam
+  address: '780 Hạ Long, Bãi Cháy, Quảng Ninh, Vietnam'
   rating: 4.4
-  userRatingsTotal: 2028
-  googleMapsUrl: https://maps.google.com/?cid=1431260428131056210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2060
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1431260428131056210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.966998999999998
   lng: 107.0211992
   priceLevel: 1
-  phone: '+84 889 776 886'
+  phone: +84 889 776 886
   openingHours:
     - 'Monday: 7:00 AM – 11:00 PM'
     - 'Tuesday: 7:00 AM – 11:00 PM'
@@ -38,20 +45,41 @@ place:
 tags:
   - ha long bay
   - trendy cafe
-quickAnswer: La Luna Coffee Hạ Long is a large, multi-level café on Hạ Long street in Bãi Cháy, built around big glass walls and terrace seating aimed at the bay view — a spot for photos, iced coffee, and a slow hour rather than a historical sight. Go late afternoon before sunset, expect it to be busy on weekends, and pair it with a walk along the Bãi Cháy waterfront or a trip to the nearby cable car.
+quickAnswer: >-
+  La Luna Coffee Hạ Long is a large, multi-level café on Hạ Long street in Bãi
+  Cháy, built around big glass walls and terrace seating aimed at the bay view —
+  a spot for photos, iced coffee, and a slow hour rather than a historical
+  sight. Go late afternoon before sunset, expect it to be busy on weekends, and
+  pair it with a walk along the Bãi Cháy waterfront or a trip to the nearby
+  cable car.
 faq:
   - q: How do I get to La Luna Coffee Hạ Long?
-    a: It's on Hạ Long street in Bãi Cháy, the main tourist strip along the waterfront. Taxi or Grab is easiest, especially from cruise piers or Hon Gai; if you're staying in Bãi Cháy, it may be within walking distance of your hotel.
+    a: >-
+      It's on Hạ Long street in Bãi Cháy, the main tourist strip along the
+      waterfront. Taxi or Grab is easiest, especially from cruise piers or Hon
+      Gai; if you're staying in Bãi Cháy, it may be within walking distance of
+      your hotel.
   - q: What's the best time to visit?
-    a: Late afternoon, roughly 4:30–6:30pm, for softer light and bay views without full midday sun. Weekday visits mean fewer crowds than weekends and holidays.
+    a: >-
+      Late afternoon, roughly 4:30–6:30pm, for softer light and bay views
+      without full midday sun. Weekday visits mean fewer crowds than weekends
+      and holidays.
   - q: How long should I plan to stay?
-    a: About an hour to 90 minutes is typical — enough for a drink, a good seat, and photos without rushing.
+    a: >-
+      About an hour to 90 minutes is typical — enough for a drink, a good seat,
+      and photos without rushing.
   - q: Is it easy to combine with other Bãi Cháy attractions?
-    a: Yes. It's close to Bãi Cháy Beach, the Ha Long night market, and the Sun World Ha Long cable car and Ferris wheel, so it fits naturally into a half-day loop.
+    a: >-
+      Yes. It's close to Bãi Cháy Beach, the Ha Long night market, and the Sun
+      World Ha Long cable car and Ferris wheel, so it fits naturally into a
+      half-day loop.
   - q: Does it get crowded?
-    a: With over 2,000 reviews and a 4.4 rating, it's a popular stop, so weekends and peak holiday periods can mean waiting for the best window-side or terrace tables.
+    a: >-
+      With over 2,000 reviews and a 4.4 rating, it's a popular stop, so weekends
+      and peak holiday periods can mean waiting for the best window-side or
+      terrace tables.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-03'
 draft: true
 ---
 

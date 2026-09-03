@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gyeongju-seongdong-market
-srcHash: '2437084843e1'
+srcHash: '87795b03eee5'
 title: 'Mercado Seongdong: Guía de Viaje de Gyeongju (4,1★)'
-description: 'Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. 4,1★ (2.398 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. 4,1★ (2.405 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. Para tener espacio para moverte, ve un día entre semana por la mañana, ya que los fines de semana entre las 10:00 y las 18:00 se concentra la mayor multitud. Calcula una hora para recorrer los callejones, comer algo de pie en los puestos y comprar fruta o banchan para llevar a tu alojamiento.
 faq:
   - q: ¿Cuál es el horario del mercado Seongdong?

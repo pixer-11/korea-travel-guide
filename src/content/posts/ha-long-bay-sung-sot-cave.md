@@ -1,27 +1,33 @@
 ---
 title: 'Sung Sot Cave: Ha Long Bay Travel Guide'
-description: Sung Sot (Surprise) Cave, on Bo Hon Island in Ha Long Bay, is the bay's largest and most-visited cave — reachable only by boat, usually as a stop on a day cruise or overnight junk itinerary.
+description: >-
+  Sung Sot (Surprise) Cave, on Bo Hon Island in Ha Long Bay, is the bay's
+  largest and most-visited cave — reachable only by boat, usually as a stop on a
+  day cruise or overnight junk itinerary.
 country: Vietnam
 region: Ha Long Bay
 category: hidden-gem
 pubDate: '2026-07-22T09:35:35.231Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9805412_CUXk2ildix-8yG29Eq52aKw3OlIXLpK1p9PQ_HVDkqA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/9805412_CUXk2ildix-8yG29Eq52aKw3OlIXLpK1p9PQ_HVDkqA.jpg
   credit: 'Photo: Foursquare user content (Hang Sửng Sốt (Surprising Cave))'
   license: foursquare
-  source: https://foursquare.com/v/4d5b304b1287a093ae651d56
+  source: 'https://foursquare.com/v/4d5b304b1287a093ae651d56'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/9924840_b0sdvvGp8sRpjYihUcLJ6L09UxTZy8IW7dzToctXkn4.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/9924840_b0sdvvGp8sRpjYihUcLJ6L09UxTZy8IW7dzToctXkn4.jpg
     credit: 'Photo: Foursquare user content (Hang Sửng Sốt (Surprising Cave))'
     license: foursquare
-    source: https://foursquare.com/v/4d5b304b1287a093ae651d56
+    source: 'https://foursquare.com/v/4d5b304b1287a093ae651d56'
 place:
   id: ChIJL4jvm3xaSjERkLl09IYRBPk
   name: Sung Sot Cave
-  address: Ha Long Bay, Halong City, Hồng Gai
+  address: 'Ha Long Bay, Halong City, Hồng Gai'
   rating: 4.5
-  userRatingsTotal: 12579
-  googleMapsUrl: https://maps.google.com/?cid=17943486086675478928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12730
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17943486086675478928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.843978699999997
   lng: 107.0914838
@@ -36,20 +42,41 @@ place:
 tags:
   - ha long bay
   - hidden gem
-quickAnswer: Sung Sot (Surprise) Cave, on Bo Hon Island in Ha Long Bay, is the bay's largest and most-visited cave — reachable only by boat, usually as a stop on a day cruise or overnight junk itinerary. Budget 45-60 minutes for the walk through two chambers connected by illuminated stone stairways, and go early morning or late afternoon to beat the tour-group crush. It's included in almost every Ha Long Bay cruise ticket, so you rarely need to book it separately.
+quickAnswer: >-
+  Sung Sot (Surprise) Cave, on Bo Hon Island in Ha Long Bay, is the bay's
+  largest and most-visited cave — reachable only by boat, usually as a stop on a
+  day cruise or overnight junk itinerary. Budget 45-60 minutes for the walk
+  through two chambers connected by illuminated stone stairways, and go early
+  morning or late afternoon to beat the tour-group crush. It's included in
+  almost every Ha Long Bay cruise ticket, so you rarely need to book it
+  separately.
 faq:
   - q: How do I get to Sung Sot Cave?
-    a: Only by boat, as part of a Ha Long Bay day cruise or overnight junk tour departing from Tuan Chau or Bai Chay wharf in Ha Long City. It's a standard stop on most itineraries, often combined with Ti Top Island.
+    a: >-
+      Only by boat, as part of a Ha Long Bay day cruise or overnight junk tour
+      departing from Tuan Chau or Bai Chay wharf in Ha Long City. It's a
+      standard stop on most itineraries, often combined with Ti Top Island.
   - q: How much time should I set aside?
-    a: About 45-60 minutes total, including the ~5-10 minute stair climb up from the jetty and the walk through both chambers.
+    a: >-
+      About 45-60 minutes total, including the ~5-10 minute stair climb up from
+      the jetty and the walk through both chambers.
   - q: Is there an entrance fee?
-    a: It's almost always included in your cruise/tour ticket price as part of the Ha Long Bay scenic area fee. If visiting independently, confirm the current park entry fee with your boat operator beforehand.
+    a: >-
+      It's almost always included in your cruise/tour ticket price as part of
+      the Ha Long Bay scenic area fee. If visiting independently, confirm the
+      current park entry fee with your boat operator beforehand.
   - q: Is the cave suitable for kids or people with limited mobility?
-    a: The interior walkways are paved and railed, but reaching the entrance requires climbing roughly 100 outdoor steps, which can be a challenge for young children, older travelers, or anyone with mobility issues.
+    a: >-
+      The interior walkways are paved and railed, but reaching the entrance
+      requires climbing roughly 100 outdoor steps, which can be a challenge for
+      young children, older travelers, or anyone with mobility issues.
   - q: What's the best time of day to visit to avoid crowds?
-    a: Early morning or late afternoon slots see fewer simultaneous tour groups; midday tends to be the most congested as multiple cruise boats often arrive together.
+    a: >-
+      Early morning or late afternoon slots see fewer simultaneous tour groups;
+      midday tends to be the most congested as multiple cruise boats often
+      arrive together.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-03'
 ---
 
 ## Why go

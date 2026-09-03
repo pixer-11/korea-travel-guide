@@ -1,27 +1,33 @@
 ---
 title: 'Leifeng Pagoda: Hangzhou Travel Guide'
-description: Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15 Nan Shan Lu — the golden five-story tower you see gleaming across the water in every classic Hangzhou postcard.
+description: >-
+  Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15
+  Nan Shan Lu — the golden five-story tower you see gleaming across the water in
+  every classic Hangzhou postcard.
 country: China
 region: Hangzhou
 category: attraction
 pubDate: '2026-07-27T11:00:03.738Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg
   credit: 'Photo: David290 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_DJI_0593_(2).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_DJI_0593_(2).jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Leifeng_Pagoda_%2820240729%29.jpg/1920px-Leifeng_Pagoda_%2820240729%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Leifeng_Pagoda_%2820240729%29.jpg/1920px-Leifeng_Pagoda_%2820240729%29.jpg
     credit: 'Photo: HoweyYuan / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_(20240729).jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_(20240729).jpg'
 place:
   id: ChIJcZiMplJ9SzQRbdkqb6FKxzM
   name: Leifeng Pagoda
-  address: 15 Nan Shan Lu, Xi Hu Qu, Hang Zhou Shi, Zhe Jiang Sheng, China, 310007
+  address: '15 Nan Shan Lu, Xi Hu Qu, Hang Zhou Shi, Zhe Jiang Sheng, China, 310007'
   rating: 4.4
-  userRatingsTotal: 771
-  googleMapsUrl: https://maps.google.com/?cid=3731032873515014509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 783
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3731032873515014509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.2315677
   lng: 120.149695
@@ -37,20 +43,43 @@ place:
 tags:
   - hangzhou
   - top attraction
-quickAnswer: 'Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15 Nan Shan Lu — the golden five-story tower you see gleaming across the water in every classic Hangzhou postcard. Budget 1.5–2 hours: ride the escalator up through the excavated ruins of the original 975 AD foundation, then climb the modern tower for a panorama over West Lake. Go early morning or on a weekday afternoon to avoid tour groups, since despite its fame it''s still relatively uncrowded compared to the lake''s other big-name sights.'
+quickAnswer: >-
+  Leifeng Pagoda sits on Sunset Hill at the southern edge of West Lake, at 15
+  Nan Shan Lu — the golden five-story tower you see gleaming across the water in
+  every classic Hangzhou postcard. Budget 1.5–2 hours: ride the escalator up
+  through the excavated ruins of the original 975 AD foundation, then climb the
+  modern tower for a panorama over West Lake. Go early morning or on a weekday
+  afternoon to avoid tour groups, since despite its fame it's still relatively
+  uncrowded compared to the lake's other big-name sights.
 faq:
   - q: How do I get to Leifeng Pagoda without a car?
-    a: Walk along the West Lake southern shore path from Su Causeway or Jingci Temple (about 20–25 minutes), or take bus routes like Y2 or K4 to the nearby stop. There's no direct metro station at the entrance.
+    a: >-
+      Walk along the West Lake southern shore path from Su Causeway or Jingci
+      Temple (about 20–25 minutes), or take bus routes like Y2 or K4 to the
+      nearby stop. There's no direct metro station at the entrance.
   - q: How long should I spend there?
-    a: Plan on 1.5 to 2 hours to see the excavated ruins chamber at the base, ride up through the relief-carved floors, and take in the top-floor view over West Lake.
+    a: >-
+      Plan on 1.5 to 2 hours to see the excavated ruins chamber at the base,
+      ride up through the relief-carved floors, and take in the top-floor view
+      over West Lake.
   - q: When is the best time to visit to avoid crowds?
-    a: Go early morning right after opening or on a weekday afternoon. It's already less crowded than West Lake's other major sights, so these windows make it feel almost quiet.
+    a: >-
+      Go early morning right after opening or on a weekday afternoon. It's
+      already less crowded than West Lake's other major sights, so these windows
+      make it feel almost quiet.
   - q: What's the story behind the pagoda?
-    a: Built in 975 AD, it collapsed in 1924 after locals chipped away its base bricks for good luck, and was rebuilt in 2002 over the original foundation. It's central to the White Snake legend, in which a snake spirit is trapped beneath the tower.
+    a: >-
+      Built in 975 AD, it collapsed in 1924 after locals chipped away its base
+      bricks for good luck, and was rebuilt in 2002 over the original
+      foundation. It's central to the White Snake legend, in which a snake
+      spirit is trapped beneath the tower.
   - q: What else is nearby?
-    a: Jingci Temple and Hupao Spring are both within easy walking distance, and the Su Causeway across West Lake makes a natural next stop.
+    a: >-
+      Jingci Temple and Hupao Spring are both within easy walking distance, and
+      the Su Causeway across West Lake makes a natural next stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

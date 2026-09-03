@@ -1,43 +1,53 @@
 ---
-title: "Tao Dan Park: Ho Chi Minh City Travel Guide (4.5★)"
-description: "Tao Dan Park is a shaded, tree-canopied public park in District 1, a 10-15 minute walk from Ben Thanh Market — great for a calm stroll or people-watching, best visited on weekday mornings (7am-3pm quietest) or, on weekends, during the 1pm-3pm lull. 4.5★ (15,604 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "attraction"
-pubDate: "2026-08-20T08:32:57.257Z"
+title: 'Tao Dan Park: Ho Chi Minh City Travel Guide (4.5★)'
+description: >-
+  Tao Dan Park is a shaded, tree-canopied public park in District 1, a 10-15
+  minute walk from Ben Thanh Market — great for a calm stroll or
+  people-watching, best visited on weekday mornings (7am-3pm quietest) or, on
+  weekends, during the 1pm-3pm lull. 4.5★ (15,622 reviews) — what visitors say,
+  hours, and tips.
+country: Vietnam
+region: Ho Chi Minh City
+category: attraction
+pubDate: '2026-08-20T08:32:57.257Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg/1920px-2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg"
-  credit: "Photo: 源義信 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2023-12-10_Tao_%C4%90%C3%A0n_Park,_Saigon_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg/1920px-2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg
+  credit: 'Photo: 源義信 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2023-12-10_Tao_%C4%90%C3%A0n_Park,_Saigon_01.jpg
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Parque_Tao_Dan%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-15%2C_DD_02.JPG/3840px-Parque_Tao_Dan%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-15%2C_DD_02.JPG"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parque_Tao_Dan,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-15,_DD_02.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Parque_Tao_Dan%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-15%2C_DD_02.JPG/3840px-Parque_Tao_Dan%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-15%2C_DD_02.JPG
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parque_Tao_Dan,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-15,_DD_02.JPG
 place:
-  id: "ChIJsXOVajkvdTERcBdP0Xow8j4"
-  name: "Tao Dan Park"
-  address: "Ben Thanh, Ho Chi Minh 700000, Vietnam"
+  id: ChIJsXOVajkvdTERcBdP0Xow8j4
+  name: Tao Dan Park
+  address: 'Ben Thanh, Ho Chi Minh 700000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 15604
-  googleMapsUrl: "https://maps.google.com/?cid=4535741078771275632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15622
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4535741078771275632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.7755796
   lng: 106.6920797
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 12
@@ -57,24 +67,39 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_346a38776f58305064426352455464766b6a61564f58734a496843"
+    venueId: ven_346a38776f58305064426352455464766b6a61564f58734a496843
 tags:
-  - "ho chi minh city"
-  - "park"
-quickAnswer: "Tao Dan Park is a shaded, tree-canopied public park in District 1, a 10-15 minute walk from Ben Thanh Market — great for a calm stroll or people-watching, best visited on weekday mornings (7am-3pm quietest) or, on weekends, during the 1pm-3pm lull. It's open daily 7am-10pm and free to enter."
+  - ho chi minh city
+  - park
+quickAnswer: >-
+  Tao Dan Park is a shaded, tree-canopied public park in District 1, a 10-15
+  minute walk from Ben Thanh Market — great for a calm stroll or
+  people-watching, best visited on weekday mornings (7am-3pm quietest) or, on
+  weekends, during the 1pm-3pm lull. It's open daily 7am-10pm and free to enter.
 faq:
-  - q: "How do I get to Tao Dan Park?"
-    a: "It's in Ben Thanh ward, District 1, about a 10-15 minute walk from Ben Thanh Market or Reunification Palace. There's no metro line nearby yet, so most visitors walk, cycle, or take a Grab/taxi."
-  - q: "What are the opening hours?"
-    a: "Tao Dan Park is open every day from 7:00 AM to 10:00 PM."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays it stays calm from 7am to 3pm. On weekends, the only real lull is between 1pm and 3pm — otherwise expect crowds from 9am right through to 10pm."
-  - q: "How long should I spend there?"
-    a: "30-45 minutes covers a walk-through; an hour or more if you want to sit near the temple, watch the badminton games, or browse the bonsai displays."
-  - q: "Is there an entrance fee?"
-    a: "No, Tao Dan Park is a free public park with multiple gated entrances around its perimeter."
+  - q: How do I get to Tao Dan Park?
+    a: >-
+      It's in Ben Thanh ward, District 1, about a 10-15 minute walk from Ben
+      Thanh Market or Reunification Palace. There's no metro line nearby yet, so
+      most visitors walk, cycle, or take a Grab/taxi.
+  - q: What are the opening hours?
+    a: 'Tao Dan Park is open every day from 7:00 AM to 10:00 PM.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays it stays calm from 7am to 3pm. On weekends, the only real lull is
+      between 1pm and 3pm — otherwise expect crowds from 9am right through to
+      10pm.
+  - q: How long should I spend there?
+    a: >-
+      30-45 minutes covers a walk-through; an hour or more if you want to sit
+      near the temple, watch the badminton games, or browse the bonsai displays.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Tao Dan Park is a free public park with multiple gated entrances
+      around its perimeter.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

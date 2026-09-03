@@ -1,44 +1,51 @@
 ---
-title: "Thong Nhat Park: Hanoi Travel Guide (4.3★)"
-description: "Thong Nhat Park (also called Lenin Park) is Hanoi's biggest green space, built around Bay Mau Lake with shaded paths, paddle boats, and fitness areas. 4.3★ (16,228 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Hanoi"
-category: "attraction"
-pubDate: "2026-08-22T08:06:49.592Z"
+title: 'Thong Nhat Park: Hanoi Travel Guide (4.3★)'
+description: >-
+  Thong Nhat Park (also called Lenin Park) is Hanoi's biggest green space, built
+  around Bay Mau Lake with shaded paths, paddle boats, and fitness areas. 4.3★
+  (16,244 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Hanoi
+category: attraction
+pubDate: '2026-08-22T08:06:49.592Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Thong_Nhat_Park.jpg/3840px-Thong_Nhat_Park.jpg"
-  credit: "Photo: Ltn12345 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Thong_Nhat_Park.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Thong_Nhat_Park.jpg/3840px-Thong_Nhat_Park.jpg
+  credit: 'Photo: Ltn12345 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Thong_Nhat_Park.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/C%E1%BA%A9m_T%C3%BA_Palace_inside_Th%E1%BB%91ng_Nh%E1%BA%A5t_Park_07-05-2007.jpg"
-    credit: "Photo: fr:Utilisateur:Chuoibk / Wikimedia Commons (CC BY 1.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:C%E1%BA%A9m_T%C3%BA_Palace_inside_Th%E1%BB%91ng_Nh%E1%BA%A5t_Park_07-05-2007.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/4d/C%E1%BA%A9m_T%C3%BA_Palace_inside_Th%E1%BB%91ng_Nh%E1%BA%A5t_Park_07-05-2007.jpg
+    credit: 'Photo: fr:Utilisateur:Chuoibk / Wikimedia Commons (CC BY 1.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:C%E1%BA%A9m_T%C3%BA_Palace_inside_Th%E1%BB%91ng_Nh%E1%BA%A5t_Park_07-05-2007.jpg
 place:
-  id: "ChIJfyTf5o6rNTER6dKWJmY9GOY"
-  name: "Thong Nhat Park"
-  address: "354A Đ. Lê Duẩn, Văn Miếu - Quốc Tử Giám, Hà Nội, Vietnam"
+  id: ChIJfyTf5o6rNTER6dKWJmY9GOY
+  name: Thong Nhat Park
+  address: '354A Đ. Lê Duẩn, Văn Miếu - Quốc Tử Giám, Hà Nội, Vietnam'
   rating: 4.3
-  userRatingsTotal: 16228
-  googleMapsUrl: "https://maps.google.com/?cid=16580069537107858153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16244
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16580069537107858153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.0142709
   lng: 105.8439724
-  phone: "+84 24 3572 5720"
+  phone: +84 24 3572 5720
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -54,24 +61,39 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_594f4739596d4a574b64365245544e72366f35665479664a496843"
+    venueId: ven_594f4739596d4a574b64365245544e72366f35665479664a496843
 tags:
-  - "hanoi"
-  - "park"
-quickAnswer: "Thong Nhat Park (also called Lenin Park) is Hanoi's biggest green space, built around Bay Mau Lake with shaded paths, paddle boats, and fitness areas. It's open daily 6am–10pm, best visited early — quietest 7am–8am — before the afternoon and evening crowds fill it from 3pm onward on weekends. Entry is inexpensive and it's an easy walk or short taxi ride south of the Old Quarter."
+  - hanoi
+  - park
+quickAnswer: >-
+  Thong Nhat Park (also called Lenin Park) is Hanoi's biggest green space, built
+  around Bay Mau Lake with shaded paths, paddle boats, and fitness areas. It's
+  open daily 6am–10pm, best visited early — quietest 7am–8am — before the
+  afternoon and evening crowds fill it from 3pm onward on weekends. Entry is
+  inexpensive and it's an easy walk or short taxi ride south of the Old Quarter.
 faq:
-  - q: "What are the opening hours for Thong Nhat Park?"
-    a: "It's open every day from 6:00 AM to 10:00 PM, with no midday closure."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 8am on both weekdays and weekends — before joggers give way to the bigger afternoon crowds."
-  - q: "How do I get to Thong Nhat Park from the Old Quarter?"
-    a: "It's about a 15-20 minute walk south of Hoan Kiem Lake, or a quick, inexpensive Grab/taxi ride. Gates open onto Le Duan, Tran Nhan Tong, and Dai Co Viet streets."
-  - q: "How long should I spend there?"
-    a: "An hour is enough for a lakeside walk; half a day if you want to paddle-boat, sit at a cafe, and people-watch."
-  - q: "What's nearby if I want to combine a visit?"
-    a: "The Temple of Literature (Van Mieu–Quoc Tu Giam) is a short ride away and pairs well with a morning at the park."
+  - q: What are the opening hours for Thong Nhat Park?
+    a: 'It''s open every day from 6:00 AM to 10:00 PM, with no midday closure.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 7am and 8am on both weekdays and weekends — before joggers give
+      way to the bigger afternoon crowds.
+  - q: How do I get to Thong Nhat Park from the Old Quarter?
+    a: >-
+      It's about a 15-20 minute walk south of Hoan Kiem Lake, or a quick,
+      inexpensive Grab/taxi ride. Gates open onto Le Duan, Tran Nhan Tong, and
+      Dai Co Viet streets.
+  - q: How long should I spend there?
+    a: >-
+      An hour is enough for a lakeside walk; half a day if you want to
+      paddle-boat, sit at a cafe, and people-watch.
+  - q: What's nearby if I want to combine a visit?
+    a: >-
+      The Temple of Literature (Van Mieu–Quoc Tu Giam) is a short ride away and
+      pairs well with a morning at the park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

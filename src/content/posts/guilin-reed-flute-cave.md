@@ -1,27 +1,37 @@
 ---
 title: 'Reed Flute Cave: Guilin Travel Guide'
-description: Reed Flute Cave, on the northwest edge of Guilin city, is a 240-million-year-old limestone cave strung with neon-colored lights that turn its stalactites and reflecting pools into surreal underground scenery.
+description: >-
+  Reed Flute Cave, on the northwest edge of Guilin city, is a
+  240-million-year-old limestone cave strung with neon-colored lights that turn
+  its stalactites and reflecting pools into surreal underground scenery.
 country: China
 region: Guilin
 category: attraction
 pubDate: '2026-07-26T07:53:05.743Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stone_curtains_on_display_at_Reed_Flute_Cave.JPG/1920px-Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stone_curtains_on_display_at_Reed_Flute_Cave.JPG/1920px-Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
   credit: 'Photo: Fremantle99 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Stone_curtains_on_display_at_Reed_Flute_Cave.JPG
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg/1920px-Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg/1920px-Reed_Flute_Cave_89017-Guilin_%2844934927312%29.jpg
     credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Reed_Flute_Cave_89017-Guilin_(44934927312).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Reed_Flute_Cave_89017-Guilin_(44934927312).jpg
 place:
   id: ChIJs8zoz1f0pDYRWhx3YnA2xV0
   name: Reed Flute Cave
-  address: 1 Lu Di Lu, Xiu Feng Qu, Gui Lin Shi, Guang Xi Zhuang Zu Zi Zhi Qu, China, 541002
-  rating: 4.5
-  userRatingsTotal: 356
-  googleMapsUrl: https://maps.google.com/?cid=6756866672255507546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    1 Lu Di Lu, Xiu Feng Qu, Gui Lin Shi, Guang Xi Zhuang Zu Zi Zhi Qu, China,
+    541002
+  rating: 4.4
+  userRatingsTotal: 362
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6756866672255507546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.304409
   lng: 110.273614
@@ -29,20 +39,43 @@ place:
 tags:
   - guilin
   - top attraction
-quickAnswer: Reed Flute Cave, on the northwest edge of Guilin city, is a 240-million-year-old limestone cave strung with neon-colored lights that turn its stalactites and reflecting pools into surreal underground scenery. Plan on 1 to 1.5 hours including the walk-through guided route, and go early on a weekday morning if you want the chambers to yourself rather than shuffling behind a tour flag. Entry is via ticket counter at the cave's park entrance on Lu Di Lu; bring a light jacket, as the cave stays cool and damp year-round.
+quickAnswer: >-
+  Reed Flute Cave, on the northwest edge of Guilin city, is a
+  240-million-year-old limestone cave strung with neon-colored lights that turn
+  its stalactites and reflecting pools into surreal underground scenery. Plan on
+  1 to 1.5 hours including the walk-through guided route, and go early on a
+  weekday morning if you want the chambers to yourself rather than shuffling
+  behind a tour flag. Entry is via ticket counter at the cave's park entrance on
+  Lu Di Lu; bring a light jacket, as the cave stays cool and damp year-round.
 faq:
   - q: How long should I spend at Reed Flute Cave?
-    a: 'Plan for 1 to 1.5 hours: the guided walking loop covers about 500 meters through the main chambers, plus time getting to and from the entrance gate.'
+    a: >-
+      Plan for 1 to 1.5 hours: the guided walking loop covers about 500 meters
+      through the main chambers, plus time getting to and from the entrance
+      gate.
   - q: How do I get to Reed Flute Cave without a tour group?
-    a: Take public bus route 3 or 58 from central Guilin, or grab a taxi/ride-hail car — it's about 5km northwest of downtown and takes under 30 minutes either way.
+    a: >-
+      Take public bus route 3 or 58 from central Guilin, or grab a
+      taxi/ride-hail car — it's about 5km northwest of downtown and takes under
+      30 minutes either way.
   - q: What's the quietest time to visit?
-    a: Weekday mornings, before mid-morning tour buses arrive from the hotels. Avoid Chinese national holidays like Golden Week, when the single walking path gets congested.
+    a: >-
+      Weekday mornings, before mid-morning tour buses arrive from the hotels.
+      Avoid Chinese national holidays like Golden Week, when the single walking
+      path gets congested.
   - q: Is the cave cold or damp — what should I wear?
-    a: It stays cool and humid year-round regardless of the season outside, so bring a light jacket and shoes with good grip; condensation on railings and the path is normal.
+    a: >-
+      It stays cool and humid year-round regardless of the season outside, so
+      bring a light jacket and shoes with good grip; condensation on railings
+      and the path is normal.
   - q: What else is nearby worth combining with this visit?
-    a: Guangming Hill and Ludi Park's other scenic corners are right next door, and Elephant Trunk Hill and the Li River waterfront are an easy taxi ride back toward central Guilin.
+    a: >-
+      Guangming Hill and Ludi Park's other scenic corners are right next door,
+      and Elephant Trunk Hill and the Li River waterfront are an easy taxi ride
+      back toward central Guilin.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

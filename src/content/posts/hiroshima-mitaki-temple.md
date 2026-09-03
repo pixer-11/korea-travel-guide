@@ -1,32 +1,39 @@
 ---
-title: "Mitaki Temple: Hiroshima Travel Guide (4.6★)"
-description: "Mitaki Temple (Mitaki-ji) is a wooded, waterfall-fed Shingon Buddhist temple tucked into a ravine above Mitaki Station, about 10 minutes by JR train from Hiroshima Station — a quiet counterpoint to the Peace Memorial Park. 4.6★ (1,230 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Hiroshima"
-category: "attraction"
-pubDate: "2026-08-05T11:41:46.601Z"
+title: 'Mitaki Temple: Hiroshima Travel Guide (4.6★)'
+description: >-
+  Mitaki Temple (Mitaki-ji) is a wooded, waterfall-fed Shingon Buddhist temple
+  tucked into a ravine above Mitaki Station, about 10 minutes by JR train from
+  Hiroshima Station — a quiet counterpoint to the Peace Memorial Park. 4.6★
+  (1,237 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Hiroshima
+category: attraction
+pubDate: '2026-08-05T11:41:46.601Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mitaki-dera_Taho-to.jpg/1920px-Mitaki-dera_Taho-to.jpg"
-  credit: "Photo: 大江万里 / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mitaki-dera_Taho-to.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mitaki-dera_Taho-to.jpg/1920px-Mitaki-dera_Taho-to.jpg
+  credit: 'Photo: 大江万里 / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mitaki-dera_Taho-to.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mitaki-dera_temple_-_panoramio.jpg/3840px-Mitaki-dera_temple_-_panoramio.jpg"
-    credit: "Photo: BirdsEyeLV / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mitaki-dera_temple_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mitaki-dera_temple_-_panoramio.jpg/3840px-Mitaki-dera_temple_-_panoramio.jpg
+    credit: 'Photo: BirdsEyeLV / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Mitaki-dera_temple_-_panoramio.jpg'
 place:
-  id: "ChIJyyk7L4mYWjURZnuahBFJY_M"
-  name: "Mitaki Temple"
-  address: "411 Mitakiyama, Nishi Ward, Hiroshima, 733-0805, Japan"
+  id: ChIJyyk7L4mYWjURZnuahBFJY_M
+  name: Mitaki Temple
+  address: '411 Mitakiyama, Nishi Ward, Hiroshima, 733-0805, Japan'
   rating: 4.6
-  userRatingsTotal: 1230
-  googleMapsUrl: "https://maps.google.com/?cid=17537941713498831718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1237
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17537941713498831718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.4201433
   lng: 132.43840889999998
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 16
@@ -42,24 +49,46 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4d5f594a46426861756e5a52556a57596d344c376b79794a496843"
+    venueId: ven_4d5f594a46426861756e5a52556a57596d344c376b79794a496843
 tags:
-  - "hiroshima"
-  - "historic site"
-quickAnswer: "Mitaki Temple (Mitaki-ji) is a wooded, waterfall-fed Shingon Buddhist temple tucked into a ravine above Mitaki Station, about 10 minutes by JR train from Hiroshima Station — a quiet counterpoint to the Peace Memorial Park. Budget 45–75 minutes to walk the mossy stone paths past three waterfalls, a three-story pagoda, and hundreds of weathered Jizo statues. Crowd data shows it's calm across an 8am–6pm window even on weekends, though it can fill up between 9am and 4pm on Saturdays and Sundays, so an early or late visit is your best bet."
+  - hiroshima
+  - historic site
+quickAnswer: >-
+  Mitaki Temple (Mitaki-ji) is a wooded, waterfall-fed Shingon Buddhist temple
+  tucked into a ravine above Mitaki Station, about 10 minutes by JR train from
+  Hiroshima Station — a quiet counterpoint to the Peace Memorial Park. Budget
+  45–75 minutes to walk the mossy stone paths past three waterfalls, a
+  three-story pagoda, and hundreds of weathered Jizo statues. Crowd data shows
+  it's calm across an 8am–6pm window even on weekends, though it can fill up
+  between 9am and 4pm on Saturdays and Sundays, so an early or late visit is
+  your best bet.
 faq:
-  - q: "How do I get to Mitaki Temple from Hiroshima Station?"
-    a: "Take the JR Sanyo Line to Mitaki Station (about 10 minutes), then walk uphill roughly 15-20 minutes following signage to the temple entrance."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to just over an hour walking the main paths; add extra time to reach the upper waterfalls, which see fewer visitors."
-  - q: "When is the quietest time to visit?"
-    a: "Foot-traffic data shows it stays calm across an 8am-6pm window on both weekdays and weekends; try to avoid Saturday and Sunday between 9am and 4pm when it's busiest."
-  - q: "Is there an entrance fee?"
-    a: "There's no formal ticket booth; a small donation at the entrance box is customary, so it's worth carrying some cash."
-  - q: "What's the best time of year to visit?"
-    a: "Mid-November to early December for fall foliage around the pagoda and waterfalls; spring offers fresh greenery and light cherry blossoms near the entrance."
+  - q: How do I get to Mitaki Temple from Hiroshima Station?
+    a: >-
+      Take the JR Sanyo Line to Mitaki Station (about 10 minutes), then walk
+      uphill roughly 15-20 minutes following signage to the temple entrance.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to just over an hour walking the main
+      paths; add extra time to reach the upper waterfalls, which see fewer
+      visitors.
+  - q: When is the quietest time to visit?
+    a: >-
+      Foot-traffic data shows it stays calm across an 8am-6pm window on both
+      weekdays and weekends; try to avoid Saturday and Sunday between 9am and
+      4pm when it's busiest.
+  - q: Is there an entrance fee?
+    a: >-
+      There's no formal ticket booth; a small donation at the entrance box is
+      customary, so it's worth carrying some cash.
+  - q: What's the best time of year to visit?
+    a: >-
+      Mid-November to early December for fall foliage around the pagoda and
+      waterfalls; spring offers fresh greenery and light cherry blossoms near
+      the entrance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

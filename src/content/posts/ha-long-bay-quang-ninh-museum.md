@@ -1,40 +1,45 @@
 ---
-title: "Quang Ninh Museum: Ha Long Bay Travel Guide (4.5★)"
-description: "Quang Ninh Museum sits on Tran Quoc Nghiem road along Ha Long's waterfront, easily combined with a Ha Long Bay boat trip. 4.5★ (12,013 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ha Long Bay"
-category: "attraction"
-pubDate: "2026-08-18T09:04:52.601Z"
+title: 'Quang Ninh Museum: Ha Long Bay Travel Guide (4.5★)'
+description: >-
+  Quang Ninh Museum sits on Tran Quoc Nghiem road along Ha Long's waterfront,
+  easily combined with a Ha Long Bay boat trip. 4.5★ (12,101 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Ha Long Bay
+category: attraction
+pubDate: '2026-08-18T09:04:52.601Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Quang_Ninh_Museum_facade_1.jpg/3840px-Quang_Ninh_Museum_facade_1.jpg"
-  credit: "Photo: Hoangkid / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Quang_Ninh_Museum_facade_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Quang_Ninh_Museum_facade_1.jpg/3840px-Quang_Ninh_Museum_facade_1.jpg
+  credit: 'Photo: Hoangkid / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Quang_Ninh_Museum_facade_1.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJmzLqOiFYSjERgtUoW-ny6_0"
-  name: "Quang Ninh Museum"
-  address: "Trần Quốc Nghiễn, Hồng Gai, Quảng Ninh, Vietnam"
+  id: ChIJmzLqOiFYSjERgtUoW-ny6_0
+  name: Quang Ninh Museum
+  address: 'Trần Quốc Nghiễn, Hồng Gai, Quảng Ninh, Vietnam'
   rating: 4.5
-  userRatingsTotal: 12013
-  googleMapsUrl: "https://maps.google.com/?cid=18296984995193476482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12101
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18296984995193476482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9487077
   lng: 107.097508
-  phone: "+84 203 3602 368"
+  phone: +84 203 3602 368
   openingHours:
-    - "Monday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Tuesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Thursday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Friday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Saturday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
-    - "Sunday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM"
+    - 'Monday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Thursday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Friday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Saturday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
+    - 'Sunday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 11
@@ -44,24 +49,42 @@ place:
       - 11
       - 15
       - 16
-    venueId: "ven_305f36796e2d576f55746752456a535946694f714c7a6d4a496843"
+    venueId: ven_305f36796e2d576f55746752456a535946694f714c7a6d4a496843
 tags:
-  - "ha long bay"
-  - "museum"
-quickAnswer: "Quang Ninh Museum sits on Tran Quoc Nghiem road along Ha Long's waterfront, easily combined with a Ha Long Bay boat trip. It's open daily 8am–12pm and 1–5pm, and the calmest window is weekday mornings from 8am to 12pm — weekends stay busy all day (9am–5pm). Budget 1–1.5 hours for the collection, plus time to admire the black-glass building itself."
+  - ha long bay
+  - museum
+quickAnswer: >-
+  Quang Ninh Museum sits on Tran Quoc Nghiem road along Ha Long's waterfront,
+  easily combined with a Ha Long Bay boat trip. It's open daily 8am–12pm and
+  1–5pm, and the calmest window is weekday mornings from 8am to 12pm — weekends
+  stay busy all day (9am–5pm). Budget 1–1.5 hours for the collection, plus time
+  to admire the black-glass building itself.
 faq:
-  - q: "What are the opening hours for Quang Ninh Museum?"
-    a: "It's open daily from 8:00 AM to 12:00 PM and again from 1:00 PM to 5:00 PM, with a midday closure for lunch every day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 8am and 12pm are the calmest window. Weekends stay busy from 9am until closing at 5pm, so avoid those hours if you want breathing room."
-  - q: "How long should I spend at the museum?"
-    a: "Plan on 60-90 minutes to cover the natural history, mining heritage, and cultural exhibits across its three floors without feeling rushed."
-  - q: "How do I get to Quang Ninh Museum from Ha Long Bay's hotel area?"
-    a: "It's located on Tran Quoc Nghiem road in Hong Gai ward. A taxi or Grab from the Bai Chay hotel strip typically takes 15-20 minutes."
-  - q: "What's nearby if I want to combine this with other stops?"
-    a: "The harbor promenade outside offers good views of the building's mirrored exterior, and Ha Long Market and the Sun World Halong Complex are both feasible add-ons for the same day."
+  - q: What are the opening hours for Quang Ninh Museum?
+    a: >-
+      It's open daily from 8:00 AM to 12:00 PM and again from 1:00 PM to 5:00
+      PM, with a midday closure for lunch every day of the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 8am and 12pm are the calmest window. Weekends
+      stay busy from 9am until closing at 5pm, so avoid those hours if you want
+      breathing room.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan on 60-90 minutes to cover the natural history, mining heritage, and
+      cultural exhibits across its three floors without feeling rushed.
+  - q: How do I get to Quang Ninh Museum from Ha Long Bay's hotel area?
+    a: >-
+      It's located on Tran Quoc Nghiem road in Hong Gai ward. A taxi or Grab
+      from the Bai Chay hotel strip typically takes 15-20 minutes.
+  - q: What's nearby if I want to combine this with other stops?
+    a: >-
+      The harbor promenade outside offers good views of the building's mirrored
+      exterior, and Ha Long Market and the Sun World Halong Complex are both
+      feasible add-ons for the same day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

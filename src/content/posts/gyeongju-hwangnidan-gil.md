@@ -1,27 +1,33 @@
 ---
 title: Hwangnidan-Gil in Gyeongju
-description: Hwangnidan-gil is Gyeongju's trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk south of the Daereungwon tomb cluster and Cheomseongdae observatory.
+description: >-
+  Hwangnidan-gil is Gyeongju's trendiest strip of cafes, hanbok rental shops,
+  and boutiques, tucked into a low-rise residential neighborhood a short walk
+  south of the Daereungwon tomb cluster and Cheomseongdae observatory.
 region: Gyeongju
 country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hwangnidan-gil_02.jpg/1920px-Hwangnidan-gil_02.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hwangnidan-gil_02.jpg/1920px-Hwangnidan-gil_02.jpg
   credit: 'Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_02.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_02.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hwangnidan-gil_01.jpg/1920px-Hwangnidan-gil_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hwangnidan-gil_01.jpg/1920px-Hwangnidan-gil_01.jpg
     credit: 'Photo: Seefooddiet / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_01.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Hwangnidan-gil_01.jpg'
 place:
   id: ChIJA8nY8ExPZjURPC-8kcf4l4E
   name: Hwangnidan-gil Street
-  address: South Korea, Gyeongsangbuk-do, Gyeongju, 황남동 Poseok-ro, 일대
+  address: 'South Korea, Gyeongsangbuk-do, Gyeongju, 황남동 Poseok-ro, 일대'
   rating: 4.2
-  userRatingsTotal: 7756
-  googleMapsUrl: https://maps.google.com/?cid=9338205888403222332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7791
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9338205888403222332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.837660899999996
   lng: 129.209724
@@ -36,20 +42,41 @@ place:
 tags:
   - gyeongju
   - Hwangnidan-gil
-quickAnswer: 'Hwangnidan-gil is Gyeongju''s trendiest strip of cafes, hanbok rental shops, and boutiques, tucked into a low-rise residential neighborhood a short walk south of the Daereungwon tomb cluster and Cheomseongdae observatory. Plan for a half-day of wandering: rent a hanbok, browse the side alleys for indie cafes housed in converted hanok, and combine it with a sunset stroll around the illuminated royal tombs nearby. There''s no subway in Gyeongju, so arrival is by bus, taxi, or the Gyeongju/Singyeongju train + intercity bus combo.'
+quickAnswer: >-
+  Hwangnidan-gil is Gyeongju's trendiest strip of cafes, hanbok rental shops,
+  and boutiques, tucked into a low-rise residential neighborhood a short walk
+  south of the Daereungwon tomb cluster and Cheomseongdae observatory. Plan for
+  a half-day of wandering: rent a hanbok, browse the side alleys for indie cafes
+  housed in converted hanok, and combine it with a sunset stroll around the
+  illuminated royal tombs nearby. There's no subway in Gyeongju, so arrival is
+  by bus, taxi, or the Gyeongju/Singyeongju train + intercity bus combo.
 faq:
   - q: How do I get to Hwangnidan-gil from Seoul?
-    a: Take the KTX to Singyeongju Station (about 2 hours from Seoul), then a connecting bus or taxi (15–20 minutes) into central Gyeongju near Daereungwon, from where Hwangnidan-gil is a short walk.
+    a: >-
+      Take the KTX to Singyeongju Station (about 2 hours from Seoul), then a
+      connecting bus or taxi (15–20 minutes) into central Gyeongju near
+      Daereungwon, from where Hwangnidan-gil is a short walk.
   - q: Is there an entrance fee for Hwangnidan-gil?
-    a: No — it's an open neighborhood of streets and shops, so there's no admission fee. You only pay for what you eat, buy, or rent (like hanbok).
+    a: >-
+      No — it's an open neighborhood of streets and shops, so there's no
+      admission fee. You only pay for what you eat, buy, or rent (like hanbok).
   - q: How long should I spend there?
-    a: Two to three hours covers the main lanes; combine it with nearby Daereungwon and Cheomseongdae for a half-day outing.
+    a: >-
+      Two to three hours covers the main lanes; combine it with nearby
+      Daereungwon and Cheomseongdae for a half-day outing.
   - q: What's the best time of day or year to visit?
-    a: Weekday mornings are quieter; weekends and peak spring/autumn foliage seasons bring crowds. Evenings are worthwhile since many cafes stay open after dark and the nearby tomb park is illuminated.
+    a: >-
+      Weekday mornings are quieter; weekends and peak spring/autumn foliage
+      seasons bring crowds. Evenings are worthwhile since many cafes stay open
+      after dark and the nearby tomb park is illuminated.
   - q: What else is within walking distance?
-    a: Daereungwon Tomb Complex and Cheomseongdae Observatory are both a short walk away; Gyeongju National Museum and Wolji Pond (Anapji) are a quick taxi ride further out.
+    a: >-
+      Daereungwon Tomb Complex and Cheomseongdae Observatory are both a short
+      walk away; Gyeongju National Museum and Wolji Pond (Anapji) are a quick
+      taxi ride further out.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 ## Why go
 

@@ -1,9 +1,9 @@
 ---
-srcHash: 'dd3a28b2a535'
+srcHash: 'a5d7bbfbc82e'
 lang: es
 slug: hanoi-banh-mi-25
 title: 'Banh Mi 25: dónde comer en Hanói'
-description: 'Banh Mi 25, en el 25 de Hàng Cá, en el Casco Antiguo de Hanói, es uno de los puestos de banh mi más populares: barato, rápido, sin lujos, con un menú enorme y mesas sencillas al otro lado de la calle. 4.5★ (17.000 reseñas): opiniones, horarios y consejos.'
+description: 'Banh Mi 25, en el 25 de Hàng Cá, en el Casco Antiguo de Hanói, es uno de los puestos de banh mi más populares: barato, rápido, sin lujos, con un menú enorme y mesas sencillas al otro lado de la calle. 4.5★ (17.284 reseñas): opiniones, horarios y consejos.'
 quickAnswer: 'Banh Mi 25, en 25 Hàng Cá, en el Casco Antiguo (Old Quarter) de Hanói, es uno de los puestos de banh mi más populares de la ciudad: una parada de bocadillos barata, rápida y sin pretensiones, con un menú enorme y asientos sencillos al otro lado de la calle. Ve por la mañana o al principio de la tarde-noche, cuenta con comer de pie o en taburetes de plástico, y calcula solo unos pocos dólares para una comida contundente.'
 faq:
   - q: ¿Cuánto cuesta un banh mi aquí?

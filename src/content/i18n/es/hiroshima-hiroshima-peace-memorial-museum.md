@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hiroshima-hiroshima-peace-memorial-museum
-srcHash: '68293e9d1d01'
+srcHash: '965a14e7b29b'
 title: 'Museo Memorial de la Paz de Hiroshima: Guía de viaje (4,7★)'
-description: Reserva entre 90 minutos y dos horas para el Museo Memorial de la Paz de Hiroshima, ubicado en el Parque Memorial de la Paz, en el distrito de Naka, a poca distancia a pie o en tranvía del centro. 4,7★ (29.631 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: Reserva entre 90 minutos y dos horas para el Museo Memorial de la Paz de Hiroshima, ubicado en el Parque Memorial de la Paz, en el distrito de Naka, a poca distancia a pie o en tranvía del centro. 4,7★ (29.905 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Reserva entre 90 minutos y dos horas para el Museo Memorial de la Paz de Hiroshima, ubicado en el Parque Memorial de la Paz, en el distrito de Naka, a poca distancia a pie o en tranvía del centro. Si puedes, ve temprano en una mañana de día laborable: las exposiciones son emocionalmente intensas y querrás recorrer con calma el Edificio Este y el Edificio Principal antes de que los grupos turísticos llenen las salas hacia el mediodía. Combínalo con un paseo hasta la Cúpula de la Bomba Atómica y el Cenotafio, ambos a pocos minutos a pie.'
 faq:
   - q: ¿Cuánto tiempo debería dedicar al museo?

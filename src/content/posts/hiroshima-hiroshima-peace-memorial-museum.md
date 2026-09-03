@@ -1,43 +1,73 @@
 ---
-title: "Hiroshima Peace Memorial Museum: Travel Guide (4.7★)"
-description: "Set aside 90 minutes to two hours for the Hiroshima Peace Memorial Museum, located in Peace Memorial Park in Naka Ward, a short walk or streetcar ride from downtown. 4.7★ (29,631 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Hiroshima"
-category: "attraction"
-pubDate: "2026-08-05T11:11:18.576Z"
+title: 'Hiroshima Peace Memorial Museum: Travel Guide (4.7★)'
+description: >-
+  Set aside 90 minutes to two hours for the Hiroshima Peace Memorial Museum,
+  located in Peace Memorial Park in Naka Ward, a short walk or streetcar ride
+  from downtown. 4.7★ (29,905 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Hiroshima
+category: attraction
+pubDate: '2026-08-05T11:11:18.576Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg"
-  credit: "Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Museum_2009.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg
+  credit: 'Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Museum_2009.jpg
 gallery: []
 place:
-  id: "ChIJtyvayxKiWjURgIGSanFnMPE"
-  name: "Hiroshima Peace Memorial Museum"
-  address: "1-2 Nakajimachō, Naka Ward, Hiroshima, 730-0811, Japan"
+  id: ChIJtyvayxKiWjURgIGSanFnMPE
+  name: Hiroshima Peace Memorial Museum
+  address: '1-2 Nakajimachō, Naka Ward, Hiroshima, 730-0811, Japan'
   rating: 4.7
-  userRatingsTotal: 29631
-  googleMapsUrl: "https://maps.google.com/?cid=17379504698839695744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29905
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17379504698839695744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.3915027
   lng: 132.45315779999999
 tags:
-  - "hiroshima"
-  - "museum"
-quickAnswer: "Set aside 90 minutes to two hours for the Hiroshima Peace Memorial Museum, located in Peace Memorial Park in Naka Ward, a short walk or streetcar ride from downtown. Go early on a weekday morning if you can — the exhibits are emotionally heavy and you'll want unhurried time with the East and Main Buildings before tour groups thicken the halls by midday. Combine it with a walk to the Atomic Bomb Dome and the Cenotaph, both a few minutes away on foot."
+  - hiroshima
+  - museum
+quickAnswer: >-
+  Set aside 90 minutes to two hours for the Hiroshima Peace Memorial Museum,
+  located in Peace Memorial Park in Naka Ward, a short walk or streetcar ride
+  from downtown. Go early on a weekday morning if you can — the exhibits are
+  emotionally heavy and you'll want unhurried time with the East and Main
+  Buildings before tour groups thicken the halls by midday. Combine it with a
+  walk to the Atomic Bomb Dome and the Cenotaph, both a few minutes away on
+  foot.
 faq:
-  - q: "How long should I spend at the museum?"
-    a: "Plan for 90 minutes to two hours to go through both the East and Main Buildings properly; add extra time if you want to read testimonies and watch any recorded survivor talks."
-  - q: "What's the nearest station or stop?"
-    a: "Take the Hiroshima streetcar toward Miyajima-guchi or Eba and get off at Genbaku-Dome-mae, then walk about five minutes south into Peace Memorial Park. It's also a flat 25–30 minute walk from Hiroshima Station."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings tend to be quietest, before tour groups and school parties arrive later in the day. Avoid August 6th if you want a reflective, uncrowded visit, since that's the anniversary of the bombing and draws large ceremonial crowds."
-  - q: "What else is nearby worth seeing?"
-    a: "The Atomic Bomb Dome, the Cenotaph, the Children's Peace Monument, and the free National Peace Memorial Hall for the Atomic Bomb Victims are all within a few minutes' walk in the same park."
-  - q: "Is the museum suitable for children?"
-    a: "Some exhibits are graphic and emotionally intense; many local families start in the East Building's historical context before deciding whether younger children are ready for the Main Building's artifact displays."
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan for 90 minutes to two hours to go through both the East and Main
+      Buildings properly; add extra time if you want to read testimonies and
+      watch any recorded survivor talks.
+  - q: What's the nearest station or stop?
+    a: >-
+      Take the Hiroshima streetcar toward Miyajima-guchi or Eba and get off at
+      Genbaku-Dome-mae, then walk about five minutes south into Peace Memorial
+      Park. It's also a flat 25–30 minute walk from Hiroshima Station.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings tend to be quietest, before tour groups and school
+      parties arrive later in the day. Avoid August 6th if you want a
+      reflective, uncrowded visit, since that's the anniversary of the bombing
+      and draws large ceremonial crowds.
+  - q: What else is nearby worth seeing?
+    a: >-
+      The Atomic Bomb Dome, the Cenotaph, the Children's Peace Monument, and the
+      free National Peace Memorial Hall for the Atomic Bomb Victims are all
+      within a few minutes' walk in the same park.
+  - q: Is the museum suitable for children?
+    a: >-
+      Some exhibits are graphic and emotionally intense; many local families
+      start in the East Building's historical context before deciding whether
+      younger children are ready for the Main Building's artifact displays.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

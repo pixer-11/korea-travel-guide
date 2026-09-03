@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiayi-southern-branch-of-the-national-palace-museum
-srcHash: 'c79933c4592e'
+srcHash: 'a1850fd680a4'
 title: 'Museo del Palacio Nacional, Sede Sur: Guía de Viaje de Chiayi'
-description: 'La Sede Sur del Museo del Palacio Nacional se encuentra en la ciudad de Taibao, condado de Chiayi, a unos 15 minutos en coche o en el transporte gratuito desde la Estación de Alta Velocidad de Chiayi. 4.3★ (41.648 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Sede Sur del Museo del Palacio Nacional se encuentra en la ciudad de Taibao, condado de Chiayi, a unos 15 minutos en coche o en el transporte gratuito desde la Estación de Alta Velocidad de Chiayi. 4.3★ (41.650 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Sede Sur del Museo del Palacio Nacional se encuentra en la ciudad de Taibao, condado de Chiayi, a unos 15 minutos en coche o en el transporte gratuito desde la Estación de Alta Velocidad de Chiayi. Abre de martes a domingo (cerrado los lunes), con horario ampliado de 9:00 a 18:00 los fines de semana. La afluencia de visitantes en fin de semana alcanza su punto máximo entre las 11:00 y las 18:00, así que conviene llegar justo a la apertura para disfrutar de las salas con menos gente.
 faq:
   - q: ¿Cómo llego a la Sede Sur del Museo del Palacio Nacional desde la Estación de Alta Velocidad de Chiayi?

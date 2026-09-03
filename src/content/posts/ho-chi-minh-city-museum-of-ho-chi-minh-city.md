@@ -1,44 +1,52 @@
 ---
-title: "Museum of Ho Chi Minh City: Travel Guide (4.2★)"
-description: "The Museum of Ho Chi Minh City occupies a pale-yellow French colonial building at 65 Lý Tự Trọng in District 1, open daily 8am–5pm. 4.2★ (3,144 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "attraction"
-pubDate: "2026-08-19T09:28:15.211Z"
+title: 'Museum of Ho Chi Minh City: Travel Guide (4.2★)'
+description: >-
+  The Museum of Ho Chi Minh City occupies a pale-yellow French colonial building
+  at 65 Lý Tự Trọng in District 1, open daily 8am–5pm. 4.2★ (3,171 reviews) —
+  what visitors say, hours, and tips.
+country: Vietnam
+region: Ho Chi Minh City
+category: attraction
+pubDate: '2026-08-19T09:28:15.211Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg/1920px-B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg"
-  credit: "Photo: Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg/1920px-B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg
+  credit: 'Photo: Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG/3840px-Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_25.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG/3840px-Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_25.JPG
 place:
-  id: "ChIJlel-En4vdTERc64rKNBbyy0"
-  name: "Museum of Ho Chi Minh City"
-  address: "65 Lý Tự Trọng, Sài Gòn, Hồ Chí Minh, Vietnam"
+  id: ChIJlel-En4vdTERc64rKNBbyy0
+  name: Museum of Ho Chi Minh City
+  address: '65 Lý Tự Trọng, Sài Gòn, Hồ Chí Minh, Vietnam'
   rating: 4.2
-  userRatingsTotal: 3144
-  googleMapsUrl: "https://maps.google.com/?cid=3299832101564296819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3171
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3299832101564296819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.775918200000001
   lng: 106.6996319
-  phone: "+84 28 3829 9741"
+  phone: +84 28 3829 9741
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 16
@@ -49,24 +57,42 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_30797962424e4b723436635245546476346e452d6c656c4a496843"
+    venueId: ven_30797962424e4b723436635245546476346e452d6c656c4a496843
 tags:
-  - "ho chi minh city"
-  - "museum"
-quickAnswer: "The Museum of Ho Chi Minh City occupies a pale-yellow French colonial building at 65 Lý Tự Trọng in District 1, open daily 8am–5pm. Budget 60–90 minutes to walk its two floors of Saigon and revolutionary-era history. Weekends get busy from 9am to 1pm, so aim for a weekday or arrive right at 8am on Saturday or Sunday for the calmest visit."
+  - ho chi minh city
+  - museum
+quickAnswer: >-
+  The Museum of Ho Chi Minh City occupies a pale-yellow French colonial building
+  at 65 Lý Tự Trọng in District 1, open daily 8am–5pm. Budget 60–90 minutes to
+  walk its two floors of Saigon and revolutionary-era history. Weekends get busy
+  from 9am to 1pm, so aim for a weekday or arrive right at 8am on Saturday or
+  Sunday for the calmest visit.
 faq:
-  - q: "How much time should I budget for the Museum of Ho Chi Minh City?"
-    a: "Plan for 60 to 90 minutes to see both floors and the outdoor garden of military vehicles without rushing."
-  - q: "What are the opening hours?"
-    a: "The museum is open daily from 8am to 5pm. Confirm on an official source before visiting, especially around public holidays."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays it stays fairly steady throughout the day. On weekends, go right at opening between 8am and 9am — crowds build fast and peak from 9am to 1pm."
-  - q: "How do I get there from the main sights in District 1?"
-    a: "It's an easy 10-15 minute walk from Notre-Dame Cathedral, the Reunification Palace, and Bến Thành Market. Grab or a metered taxi works well from further away."
-  - q: "Should I combine this with other nearby attractions?"
-    a: "Yes — most visitors pair it with the Reunification Palace and Notre-Dame Cathedral for a half-day loop through the colonial core of District 1."
+  - q: How much time should I budget for the Museum of Ho Chi Minh City?
+    a: >-
+      Plan for 60 to 90 minutes to see both floors and the outdoor garden of
+      military vehicles without rushing.
+  - q: What are the opening hours?
+    a: >-
+      The museum is open daily from 8am to 5pm. Confirm on an official source
+      before visiting, especially around public holidays.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays it stays fairly steady throughout the day. On weekends, go
+      right at opening between 8am and 9am — crowds build fast and peak from 9am
+      to 1pm.
+  - q: How do I get there from the main sights in District 1?
+    a: >-
+      It's an easy 10-15 minute walk from Notre-Dame Cathedral, the
+      Reunification Palace, and Bến Thành Market. Grab or a metered taxi works
+      well from further away.
+  - q: Should I combine this with other nearby attractions?
+    a: >-
+      Yes — most visitors pair it with the Reunification Palace and Notre-Dame
+      Cathedral for a half-day loop through the colonial core of District 1.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

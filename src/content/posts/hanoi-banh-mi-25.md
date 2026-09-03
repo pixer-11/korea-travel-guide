@@ -1,33 +1,43 @@
 ---
 title: 'Banh Mi 25: Where to Eat in Hanoi'
-description: 'Banh Mi 25, at 25 Hàng Cá in Hanoi''s Old Quarter, is one of the city''s most popular banh mi stalls — a cheap, fast, no-frills sandwich stop with a huge menu and simple seating across the street. 4.5★ (17,000 reviews) — what visitors say, hours, and tips.'
+description: >-
+  Banh Mi 25, at 25 Hàng Cá in Hanoi's Old Quarter, is one of the city's most
+  popular banh mi stalls — a cheap, fast, no-frills sandwich stop with a huge
+  menu and simple seating across the street. 4.5★ (17,284 reviews) — what
+  visitors say, hours, and tips.
 country: Vietnam
 region: Hanoi
 category: restaurant
 pubDate: '2026-07-22T09:39:44.001Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/28751378_BWFaz8T07jGn6EmuQUinqLitEi2-S9MeRfsrlmqKVsQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/28751378_BWFaz8T07jGn6EmuQUinqLitEi2-S9MeRfsrlmqKVsQ.jpg
   credit: 'Photo: Foursquare user content (Bánh Mì 25)'
   license: foursquare
-  source: https://foursquare.com/v/54cddaea498ed86c57c8209c
+  source: 'https://foursquare.com/v/54cddaea498ed86c57c8209c'
   focus:
     x: 60
     'y': 40
 place:
   id: ChIJtRY3u3SrNTERs95UQ9jA--s
   name: Banh Mi 25
-  address: 25 P. Hàng Cá, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000, Vietnam
+  address: '25 P. Hàng Cá, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 17000
+  userRatingsTotal: 17284
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=17004396853142544051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17004396853142544051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 21.036113
   lng: 105.84857699999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
-    weekendQuiet: [7, 8]
+    weekdayQuiet:
+      - 7
+      - 8
+    weekendQuiet:
+      - 7
+      - 8
     weekendBusy:
       - 13
       - 14
@@ -37,7 +47,7 @@ place:
       - 18
       - 19
     venueId: ven_732d2d416a3951553539735245544e72533375335952744a496843
-  phone: '+84 942 548 214'
+  phone: +84 942 548 214
   openingHours:
     - 'Monday: 7:00 AM – 9:00 PM'
     - 'Tuesday: 7:00 AM – 9:00 PM'
@@ -49,20 +59,40 @@ place:
 tags:
   - hanoi
   - street food
-quickAnswer: Banh Mi 25, at 25 Hàng Cá in Hanoi's Old Quarter, is one of the city's most popular banh mi stalls — a cheap, fast, no-frills sandwich stop with a huge menu and simple seating across the street. Go in the morning or early evening, expect to eat standing or on plastic stools, and budget just a few dollars for a filling meal.
+quickAnswer: >-
+  Banh Mi 25, at 25 Hàng Cá in Hanoi's Old Quarter, is one of the city's most
+  popular banh mi stalls — a cheap, fast, no-frills sandwich stop with a huge
+  menu and simple seating across the street. Go in the morning or early evening,
+  expect to eat standing or on plastic stools, and budget just a few dollars for
+  a filling meal.
 faq:
   - q: How much does a banh mi cost here?
-    a: It's priced at the budget end even by Hanoi standards — typically just a small number of dollars (or the dong equivalent) per sandwich. Bring small cash denominations.
+    a: >-
+      It's priced at the budget end even by Hanoi standards — typically just a
+      small number of dollars (or the dong equivalent) per sandwich. Bring small
+      cash denominations.
   - q: Is there somewhere to sit?
-    a: Yes, but informally — there's a simple seating area with plastic stools and low tables across the road from the stall, rather than in-house restaurant seating.
+    a: >-
+      Yes, but informally — there's a simple seating area with plastic stools
+      and low tables across the road from the stall, rather than in-house
+      restaurant seating.
   - q: What's the best time to visit to avoid crowds?
-    a: Go before roughly 10am, since banh mi is often eaten as breakfast or mid-morning food in Hanoi and the stall gets busy later. Early evening is a secondary peak; weekends are busiest overall.
+    a: >-
+      Go before roughly 10am, since banh mi is often eaten as breakfast or
+      mid-morning food in Hanoi and the stall gets busy later. Early evening is
+      a secondary peak; weekends are busiest overall.
   - q: How do I get there without a car?
-    a: Walk — it's about 10-15 minutes from Hoan Kiem Lake through the Old Quarter's Hang streets. There's no metro stop directly serving the Old Quarter, so taxis/Grab or walking are the main options.
+    a: >-
+      Walk — it's about 10-15 minutes from Hoan Kiem Lake through the Old
+      Quarter's Hang streets. There's no metro stop directly serving the Old
+      Quarter, so taxis/Grab or walking are the main options.
   - q: What should I order if it's my first banh mi?
-    a: Try a classic combo with pate, cha lua (Vietnamese cold cut), pickled daikon and carrot, cucumber, herbs, and a chili sauce dash — ask for it 'cay' if you want extra spice.
+    a: >-
+      Try a classic combo with pate, cha lua (Vietnamese cold cut), pickled
+      daikon and carrot, cucumber, herbs, and a chili sauce dash — ask for it
+      'cay' if you want extra spice.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-03'
 ---
 
 ## Why go

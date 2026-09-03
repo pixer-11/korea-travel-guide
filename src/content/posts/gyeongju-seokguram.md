@@ -1,25 +1,30 @@
 ---
 title: 'Seokguram: Gyeongju Travel Guide (4.4★)'
-description: Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. 4.4★ (7,901 reviews) — what visitors say, hours, and tips.
+description: >-
+  Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its
+  serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm.
+  4.4★ (7,941 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Gyeongju
 category: attraction
 pubDate: '2026-08-07T08:50:24.174Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/24232909_LZBIl9deJSX_fVEiqUJDjONTLVOcrRAufG67zE_15tU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/24232909_LZBIl9deJSX_fVEiqUJDjONTLVOcrRAufG67zE_15tU.jpg
   credit: 'Photo: Foursquare user content (Seokguram (석굴암))'
   license: foursquare
-  source: https://foursquare.com/v/4b89e01bf964a5202d5332e3
+  source: 'https://foursquare.com/v/4b89e01bf964a5202d5332e3'
   focus:
     x: 35
-    y: 35
+    'y': 35
 place:
   id: ChIJCQ6QQNqyZzUR0ujHdOUux88
   name: Seokguram
-  address: 238 Seokgul-ro, Gyeongju, Gyeongsangbuk-do, South Korea
+  address: '238 Seokgul-ro, Gyeongju, Gyeongsangbuk-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 7901
-  googleMapsUrl: https://maps.google.com/?cid=14971987049258150098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7941
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14971987049258150098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.7951981
   lng: 129.3503599
@@ -52,19 +57,38 @@ place:
 tags:
   - gyeongju
   - historic site
-quickAnswer: Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. Go right at 9am or after 5pm to dodge the tour buses — weekends fill up hard between 10am and 5pm. Pair it with nearby Bulguksa Temple and budget a half-day for both.
+quickAnswer: >-
+  Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its
+  serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm.
+  Go right at 9am or after 5pm to dodge the tour buses — weekends fill up hard
+  between 10am and 5pm. Pair it with nearby Bulguksa Temple and budget a
+  half-day for both.
 faq:
   - q: What are Seokguram's opening hours?
-    a: It's open every day from 9:00 AM to 6:00 PM, with no weekday/weekend variation in hours.
+    a: >-
+      It's open every day from 9:00 AM to 6:00 PM, with no weekday/weekend
+      variation in hours.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the day. On weekends, the quietest window is 5–6pm, right before closing; try to avoid 10am–5pm on Saturday and Sunday when crowds peak.
+    a: >-
+      Weekdays are calm throughout the day. On weekends, the quietest window is
+      5–6pm, right before closing; try to avoid 10am–5pm on Saturday and Sunday
+      when crowds peak.
   - q: How do I get to Seokguram from central Gyeongju?
-    a: It's about a 20-minute drive; most visitors go by taxi, rental car, or local bus. Check current bus timetables locally, as routes can shift seasonally.
+    a: >-
+      It's about a 20-minute drive; most visitors go by taxi, rental car, or
+      local bus. Check current bus timetables locally, as routes can shift
+      seasonally.
   - q: How much time should I budget?
-    a: Plan on 30–45 minutes at the grotto itself. Most travelers pair it with Bulguksa Temple, making a half-day out of both sites.
+    a: >-
+      Plan on 30–45 minutes at the grotto itself. Most travelers pair it with
+      Bulguksa Temple, making a half-day out of both sites.
   - q: Can I go inside and touch the Buddha statue?
-    a: No — a protective glass barrier separates visitors from the sculpture, installed to prevent humidity and touch damage, so you view it from just outside the chamber.
+    a: >-
+      No — a protective glass barrier separates visitors from the sculpture,
+      installed to prevent humidity and touch damage, so you view it from just
+      outside the chamber.
 aiGenerated: true
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

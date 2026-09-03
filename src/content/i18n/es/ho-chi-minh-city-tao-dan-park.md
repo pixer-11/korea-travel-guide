@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ho-chi-minh-city-tao-dan-park
-srcHash: 'a869d4acb2f2'
+srcHash: '87ac6289cf84'
 title: 'Parque Tao Dan: Guía de viaje de Ciudad Ho Chi Minh (4,5★)'
-description: 'El parque Tao Dan es un espacio público arbolado y umbrío en el Distrito 1, a 10-15 minutos a pie del mercado Ben Thanh, ideal para un paseo tranquilo o para observar la vida local. Lo mejor es visitarlo entre semana por la mañana (de 7:00 a 15:00 h está más tranquilo) o, los fines de semana, durante el respiro de 13:00 a 15:00 h. 4,5★ (15.604 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'El parque Tao Dan es un espacio público arbolado y umbrío en el Distrito 1, a 10-15 minutos a pie del mercado Ben Thanh, ideal para un paseo tranquilo o para observar la vida local. Lo mejor es visitarlo entre semana por la mañana (de 7:00 a 15:00 h está más tranquilo) o, los fines de semana, durante el respiro de 13:00 a 15:00 h. 4,5★ (15.622 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El parque Tao Dan es un espacio público arbolado y umbrío en el Distrito 1, a 10-15 minutos a pie del mercado Ben Thanh, ideal para un paseo tranquilo o para observar la vida local. Lo mejor es visitarlo entre semana por la mañana (de 7:00 a 15:00 h está más tranquilo) o, los fines de semana, durante el respiro de 13:00 a 15:00 h. Abre todos los días de 7:00 a 22:00 h y la entrada es gratuita.
 faq:
   - q: ¿Cómo se llega al parque Tao Dan?

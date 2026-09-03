@@ -1,27 +1,35 @@
 ---
 title: 'Donggung Palace & Wolji Pond: Gyeongju Travel Guide'
-description: 'Donggung Palace & Wolji Pond is Gyeongju''s best evening spot: a Silla-era palace complex (circa 674 CE) built around a manmade pond with three islets, best seen at dusk when the reconstructed pavilions and their reflections light up over the water.'
+description: >-
+  Donggung Palace & Wolji Pond is Gyeongju's best evening spot: a Silla-era
+  palace complex (circa 674 CE) built around a manmade pond with three islets,
+  best seen at dusk when the reconstructed pavilions and their reflections light
+  up over the water.
 country: South Korea
 region: Gyeongju
 category: hidden-gem
 pubDate: '2026-07-24T22:20:30.109Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Donggung_Palace_01.jpg/1920px-Donggung_Palace_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Donggung_Palace_01.jpg/1920px-Donggung_Palace_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Donggung_Palace_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Donggung_Palace_01.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/1920px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg
     credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg
 place:
   id: ChIJ9SUiOHBOZjUR_YnH8Lbjzt0
   name: Donggung Palace & Wolji Pond
-  address: 102 Wonhwa-ro, Gyeongju, Gyeongsangbuk-do, South Korea
+  address: '102 Wonhwa-ro, Gyeongju, Gyeongsangbuk-do, South Korea'
   rating: 4.5
-  userRatingsTotal: 20593
-  googleMapsUrl: https://maps.google.com/?cid=15982962502447630845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 20697
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15982962502447630845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.8348173
   lng: 129.2265645
@@ -37,20 +45,43 @@ place:
 tags:
   - gyeongju
   - hidden gem
-quickAnswer: 'Donggung Palace & Wolji Pond is Gyeongju''s best evening spot: a Silla-era palace complex (circa 674 CE) built around a manmade pond with three islets, best seen at dusk when the reconstructed pavilions and their reflections light up over the water. Budget 45–90 minutes, go after sunset for the reflection photos, and pair it with a walk along the nearby Gyeongju Wolseong/Gyerim path or a rental bike loop past Cheomseongdae. With a 4.5 rating across more than 20,000 reviews, it''s well-known — the trick is timing your visit to avoid the densest crowds, not finding an obscure alternative.'
+quickAnswer: >-
+  Donggung Palace & Wolji Pond is Gyeongju's best evening spot: a Silla-era
+  palace complex (circa 674 CE) built around a manmade pond with three islets,
+  best seen at dusk when the reconstructed pavilions and their reflections light
+  up over the water. Budget 45–90 minutes, go after sunset for the reflection
+  photos, and pair it with a walk along the nearby Gyeongju Wolseong/Gyerim path
+  or a rental bike loop past Cheomseongdae. With a 4.5 rating across more than
+  20,000 reviews, it's well-known — the trick is timing your visit to avoid the
+  densest crowds, not finding an obscure alternative.
 faq:
   - q: How do I get to Donggung Palace & Wolji Pond without a car?
-    a: Take KTX to Singyeongju Station, then a local bus or taxi (about 20–25 minutes) into central Gyeongju; from the downtown hotel area it's a 15–20 minute walk or short bike ride.
+    a: >-
+      Take KTX to Singyeongju Station, then a local bus or taxi (about 20–25
+      minutes) into central Gyeongju; from the downtown hotel area it's a 15–20
+      minute walk or short bike ride.
   - q: What's the best time of day to visit?
-    a: Go in the hour before sunset and stay into early evening — the pavilions and night lighting reflected on the pond are the highlight, far more striking than the daytime view.
+    a: >-
+      Go in the hour before sunset and stay into early evening — the pavilions
+      and night lighting reflected on the pond are the highlight, far more
+      striking than the daytime view.
   - q: How long should I plan for the visit?
-    a: Budget 45–90 minutes for the pond loop and pavilions, plus 15–20 minutes if you visit the adjoining relics exhibition hall.
-  - q: Is it crowded, and when should I avoid it?
-    a: It's one of Gyeongju's most-visited sites, so weekend evenings and Korean holidays get busy; a weekday evening or early arrival before dark gives more space along the walkways.
+    a: >-
+      Budget 45–90 minutes for the pond loop and pavilions, plus 15–20 minutes
+      if you visit the adjoining relics exhibition hall.
+  - q: 'Is it crowded, and when should I avoid it?'
+    a: >-
+      It's one of Gyeongju's most-visited sites, so weekend evenings and Korean
+      holidays get busy; a weekday evening or early arrival before dark gives
+      more space along the walkways.
   - q: What else is nearby to combine with this visit?
-    a: Cheomseongdae Observatory, Gyerim Forest, and Wolseong Fortress are all within a 15–20 minute walk, making an easy evening walking or cycling loop through Silla-era Gyeongju.
+    a: >-
+      Cheomseongdae Observatory, Gyerim Forest, and Wolseong Fortress are all
+      within a 15–20 minute walk, making an easy evening walking or cycling loop
+      through Silla-era Gyeongju.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 ## Why go

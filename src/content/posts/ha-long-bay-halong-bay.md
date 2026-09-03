@@ -1,50 +1,76 @@
 ---
 title: 'Halong Bay: Ha Long Bay Travel Guide'
-description: Ha Long Bay is the karst-studded stretch of the Gulf of Tonkin off Bai Chay, Quang Ninh, and the usual way in is an overnight or day cruise from Ha Long City or Hai Phong.
+description: >-
+  Ha Long Bay is the karst-studded stretch of the Gulf of Tonkin off Bai Chay,
+  Quang Ninh, and the usual way in is an overnight or day cruise from Ha Long
+  City or Hai Phong.
 country: Vietnam
 region: Ha Long Bay
 category: attraction
 pubDate: '2026-08-29T15:15:39.933Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg
   credit: 'Photo: Taewangkorea / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg'
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Halong_Bay_in_Vietnam.jpg/1280px-Halong_Bay_in_Vietnam.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Halong_Bay_in_Vietnam.jpg/1280px-Halong_Bay_in_Vietnam.jpg
     credit: 'Photo: Thomas Hirsch / User:Ravn / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg'
 place:
   id: ChIJ-8cXZMZZSjERdKujdJqmaGw
   name: Halong Bay
-  address: X27X+Q63, Bai Chay, Quang Ninh, Vietnam
+  address: 'X27X+Q63, Bai Chay, Quang Ninh, Vietnam'
   rating: 4.8
-  userRatingsTotal: 92
-  googleMapsUrl: https://maps.google.com/?cid=7811676735986183028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 93
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7811676735986183028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.9643837
   lng: 107.04803779999999
 tags:
   - ha long bay
   - historic site
-quickAnswer: Ha Long Bay is the karst-studded stretch of the Gulf of Tonkin off Bai Chay, Quang Ninh, and the usual way in is an overnight or day cruise from Ha Long City or Hai Phong. Best time to visit is October to April, when skies stay clearer and seas calmer; book a boat rather than trying to see it from shore. Give it at least one overnight on the water if you can, since the karsts change character completely at sunrise and dusk.
+quickAnswer: >-
+  Ha Long Bay is the karst-studded stretch of the Gulf of Tonkin off Bai Chay,
+  Quang Ninh, and the usual way in is an overnight or day cruise from Ha Long
+  City or Hai Phong. Best time to visit is October to April, when skies stay
+  clearer and seas calmer; book a boat rather than trying to see it from shore.
+  Give it at least one overnight on the water if you can, since the karsts
+  change character completely at sunrise and dusk.
 faq:
   - q: How do I get to Ha Long Bay from Hanoi?
-    a: Buses, shared shuttles, and private cars run from Hanoi to Ha Long City or Tuan Chau harbor in roughly 2.5-3.5 hours via the newer expressway.
+    a: >-
+      Buses, shared shuttles, and private cars run from Hanoi to Ha Long City or
+      Tuan Chau harbor in roughly 2.5-3.5 hours via the newer expressway.
   - q: Is a day trip enough to see Ha Long Bay?
-    a: A day cruise covers the main sights like Sung Sot Cave and Ti Top Island, but an overnight cruise reaches quieter areas like Lan Ha Bay and lets you see sunrise and sunset over the karsts.
+    a: >-
+      A day cruise covers the main sights like Sung Sot Cave and Ti Top Island,
+      but an overnight cruise reaches quieter areas like Lan Ha Bay and lets you
+      see sunrise and sunset over the karsts.
   - q: When is the best time to visit Ha Long Bay?
-    a: October to April offers the clearest skies and calmest seas. Summer (June-August) is hot, humid, and prone to typhoons that can disrupt sailings.
+    a: >-
+      October to April offers the clearest skies and calmest seas. Summer
+      (June-August) is hot, humid, and prone to typhoons that can disrupt
+      sailings.
   - q: Is Ha Long Bay crowded?
-    a: The bay is vast enough that boats spread out and it rarely feels packed on the water, though popular stops like Ti Top Island get busy around midday.
+    a: >-
+      The bay is vast enough that boats spread out and it rarely feels packed on
+      the water, though popular stops like Ti Top Island get busy around midday.
   - q: Should I book a cruise in advance?
-    a: Yes, book through a licensed operator ahead of time rather than a street tout, and confirm which harbor (Tuan Chau or Ha Long City) your boat departs from.
+    a: >-
+      Yes, book through a licensed operator ahead of time rather than a street
+      tout, and confirm which harbor (Tuan Chau or Ha Long City) your boat
+      departs from.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

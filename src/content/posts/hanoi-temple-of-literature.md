@@ -1,44 +1,52 @@
 ---
-title: "Temple Of Literature: Hanoi Travel Guide (4.6★)"
-description: "The Temple of Literature, Vietnam's first national university, is open daily 8am–5pm at 58 Quốc Tử Giám, Đống Đa district. 4.6★ (24,889 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Hanoi"
-category: "attraction"
-pubDate: "2026-08-19T09:31:33.234Z"
+title: 'Temple Of Literature: Hanoi Travel Guide (4.6★)'
+description: >-
+  The Temple of Literature, Vietnam's first national university, is open daily
+  8am–5pm at 58 Quốc Tử Giám, Đống Đa district. 4.6★ (25,128 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Hanoi
+category: attraction
+pubDate: '2026-08-19T09:31:33.234Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg/3840px-Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Main_gate_of_the_Temple_of_Literature,_Hanoi,_Vietnam,_20240123_0929_3068.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg/3840px-Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Main_gate_of_the_Temple_of_Literature,_Hanoi,_Vietnam,_20240123_0929_3068.jpg
   focus:
     x: 51
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg/3840px-Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg"
-    credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dai_Trung_gate,_Temple_of_Literature,_Hanoi,_Vietnam,_20240123_0929_3066.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg/3840px-Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg
+    credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dai_Trung_gate,_Temple_of_Literature,_Hanoi,_Vietnam,_20240123_0929_3066.jpg
 place:
-  id: "ChIJZ73nJpmrNTERHt_VdIgHDlg"
-  name: "Temple Of Literature"
-  address: "58 Quốc Tử Giám, Văn Miếu, Đống Đa, Hà Nội, Vietnam"
+  id: ChIJZ73nJpmrNTERHt_VdIgHDlg
+  name: Temple Of Literature
+  address: '58 Quốc Tử Giám, Văn Miếu, Đống Đa, Hà Nội, Vietnam'
   rating: 4.6
-  userRatingsTotal: 24889
-  googleMapsUrl: "https://maps.google.com/?cid=6345017207668727582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25128
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6345017207668727582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.0281175
   lng: 105.8356692
-  phone: "+84 24 3845 2917"
+  phone: +84 24 3845 2917
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -52,24 +60,40 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_676c4448674964565f74485245544e726d704a6e33375a4a496843"
+    venueId: ven_676c4448674964565f74485245544e726d704a6e33375a4a496843
 tags:
-  - "hanoi"
-  - "historic site"
-quickAnswer: "The Temple of Literature, Vietnam's first national university, is open daily 8am–5pm at 58 Quốc Tử Giám, Đống Đa district. Budget 60–90 minutes to walk its five courtyards, and go early — weekends get busy from 10am to 4pm, but 8am–9am is calm. Weekdays are quieter throughout."
+  - hanoi
+  - historic site
+quickAnswer: >-
+  The Temple of Literature, Vietnam's first national university, is open daily
+  8am–5pm at 58 Quốc Tử Giám, Đống Đa district. Budget 60–90 minutes to walk its
+  five courtyards, and go early — weekends get busy from 10am to 4pm, but
+  8am–9am is calm. Weekdays are quieter throughout.
 faq:
-  - q: "What are the opening hours?"
-    a: "The Temple of Literature is open daily from 8:00 AM to 5:00 PM, including weekends."
-  - q: "When is it quietest?"
-    a: "On weekends, arrive between 8am and 9am to beat the crowds — it's busiest from 10am to 4pm. Weekdays stay relatively calm throughout the full 8am–5pm window."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 60–90 minutes to see all five courtyards; history enthusiasts reading every stelae inscription can spend over two hours."
-  - q: "How do I get there from the Old Quarter?"
-    a: "It's about 2km southwest of Hoan Kiem Lake — a 10–15 minute taxi or Grab ride, or a flat, walkable/cyclable route if you prefer to go on foot."
-  - q: "Is there a dress code?"
-    a: "Yes — as an active place of worship, shoulders and knees should be covered when visiting."
+  - q: What are the opening hours?
+    a: >-
+      The Temple of Literature is open daily from 8:00 AM to 5:00 PM, including
+      weekends.
+  - q: When is it quietest?
+    a: >-
+      On weekends, arrive between 8am and 9am to beat the crowds — it's busiest
+      from 10am to 4pm. Weekdays stay relatively calm throughout the full
+      8am–5pm window.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 60–90 minutes to see all five courtyards; history
+      enthusiasts reading every stelae inscription can spend over two hours.
+  - q: How do I get there from the Old Quarter?
+    a: >-
+      It's about 2km southwest of Hoan Kiem Lake — a 10–15 minute taxi or Grab
+      ride, or a flat, walkable/cyclable route if you prefer to go on foot.
+  - q: Is there a dress code?
+    a: >-
+      Yes — as an active place of worship, shoulders and knees should be covered
+      when visiting.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

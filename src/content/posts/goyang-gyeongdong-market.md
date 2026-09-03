@@ -3,7 +3,7 @@ title: 'Gyeongdong Market: Seoul Travel Guide (4.1★)'
 description: >-
   Gyeongdong Market is a sprawling covered herb-and-produce market in Dongdaemun
   District, Seoul — Korea's largest traditional herbal medicine market. 4.1★
-  (11,034 reviews) — what visitors say, hours, and tips.
+  (11,044 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Seoul
 category: hidden-gem

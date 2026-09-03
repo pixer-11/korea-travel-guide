@@ -1,23 +1,28 @@
 ---
 title: 'Lingyin Temple: Hangzhou Travel Guide'
-description: Lingyin Temple, tucked into the forested hills west of West Lake, is Hangzhou's oldest Buddhist temple, founded in 328 CE.
+description: >-
+  Lingyin Temple, tucked into the forested hills west of West Lake, is
+  Hangzhou's oldest Buddhist temple, founded in 328 CE.
 country: China
 region: Hangzhou
 category: hidden-gem
 pubDate: '2026-08-01T09:41:53.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lingyin_Temple%2C_Hangzhou_20161003.jpg/1920px-Lingyin_Temple%2C_Hangzhou_20161003.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lingyin_Temple%2C_Hangzhou_20161003.jpg/1920px-Lingyin_Temple%2C_Hangzhou_20161003.jpg
   credit: 'Photo: Tyg728 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lingyin_Temple,_Hangzhou_20161003.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lingyin_Temple,_Hangzhou_20161003.jpg
 gallery: []
 place:
   id: ChIJKaE-rCxjSzQRbBbWRsm-rL4
   name: Lingyin Temple
-  address: Xihu, Hangzhou, China, 310058
+  address: 'Xihu, Hangzhou, China, 310058'
   rating: 4.6
-  userRatingsTotal: 1166
-  googleMapsUrl: https://maps.google.com/?cid=13739566334886680172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1178
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13739566334886680172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.240831
   lng: 120.10148199999999
@@ -25,20 +30,42 @@ place:
 tags:
   - hangzhou
   - hidden gem
-quickAnswer: 'Lingyin Temple, tucked into the forested hills west of West Lake, is Hangzhou''s oldest Buddhist temple, founded in 328 CE. Give yourself a half-day: walk the limestone carvings at Feilai Feng gorge first, then move into the temple halls, ending at the Hall of the Medicine Buddha up the hillside. Go on a weekday morning if you can — it''s still refreshingly uncrowded compared to the lake itself.'
+quickAnswer: >-
+  Lingyin Temple, tucked into the forested hills west of West Lake, is
+  Hangzhou's oldest Buddhist temple, founded in 328 CE. Give yourself a
+  half-day: walk the limestone carvings at Feilai Feng gorge first, then move
+  into the temple halls, ending at the Hall of the Medicine Buddha up the
+  hillside. Go on a weekday morning if you can — it's still refreshingly
+  uncrowded compared to the lake itself.
 faq:
   - q: How do I get to Lingyin Temple from West Lake?
-    a: It's about a 20-minute taxi or rideshare from the main West Lake shoreline, or you can take bus routes Y1, Y2, or 807. There's no direct metro station, so budget 30-40 minutes each way.
+    a: >-
+      It's about a 20-minute taxi or rideshare from the main West Lake
+      shoreline, or you can take bus routes Y1, Y2, or 807. There's no direct
+      metro station, so budget 30-40 minutes each way.
   - q: How much time should I spend there?
-    a: Plan on two to three hours to see both the Feilai Feng rock carvings and the main temple halls without rushing, including the climb up to the Hall of the Medicine Buddha.
+    a: >-
+      Plan on two to three hours to see both the Feilai Feng rock carvings and
+      the main temple halls without rushing, including the climb up to the Hall
+      of the Medicine Buddha.
   - q: When is the best time to visit to avoid crowds?
-    a: Go on a weekday, right at opening in the morning. It's already quieter than West Lake's main sights, but early hours avoid both the tour groups and the thickest incense smoke.
+    a: >-
+      Go on a weekday, right at opening in the morning. It's already quieter
+      than West Lake's main sights, but early hours avoid both the tour groups
+      and the thickest incense smoke.
   - q: Is Feilai Feng part of the same visit?
-    a: Yes — the carved limestone gorge of Feilai Feng sits right at the entrance to the temple grounds and is worth seeing before you go into the halls themselves.
+    a: >-
+      Yes — the carved limestone gorge of Feilai Feng sits right at the entrance
+      to the temple grounds and is worth seeing before you go into the halls
+      themselves.
   - q: What else is nearby?
-    a: West Lake's western shore, with sights like Su Causeway and Yue Fei Temple, is a short taxi ride away and pairs naturally with a Lingyin Temple morning visit.
+    a: >-
+      West Lake's western shore, with sights like Su Causeway and Yue Fei
+      Temple, is a short taxi ride away and pairs naturally with a Lingyin
+      Temple morning visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

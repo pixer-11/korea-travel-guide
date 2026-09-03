@@ -1,40 +1,48 @@
 ---
-title: "Southern Branch of the National Palace Museum: Chiayi Travel Guide"
-description: "The Southern Branch of the National Palace Museum sits in Taibao City, Chiayi County, about a 15-minute drive or free shuttle ride from Chiayi High Speed Rail Station. 4.3★ (41,648 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Chiayi"
-category: "attraction"
-pubDate: "2026-09-03T10:38:35.146Z"
+title: 'Southern Branch of the National Palace Museum: Chiayi Travel Guide'
+description: >-
+  The Southern Branch of the National Palace Museum sits in Taibao City, Chiayi
+  County, about a 15-minute drive or free shuttle ride from Chiayi High Speed
+  Rail Station. 4.3★ (41,650 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Chiayi
+category: attraction
+pubDate: '2026-09-03T10:38:35.146Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/1920px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg"
-  credit: "Photo: B2322858 / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/1920px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg
+  credit: 'Photo: B2322858 / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg
   focus:
     x: 75
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJe6XdK9SbbjQRy7gVi-RqGWk"
-  name: "Southern Branch of the National Palace Museum"
-  address: "No. 888, Gugong Blvd, Dongshi Village, Taibao City, Chiayi County, Taiwan 612"
+  id: ChIJe6XdK9SbbjQRy7gVi-RqGWk
+  name: Southern Branch of the National Palace Museum
+  address: >-
+    No. 888, Gugong Blvd, Dongshi Village, Taibao City, Chiayi County, Taiwan
+    612
   rating: 4.3
-  userRatingsTotal: 41648
-  googleMapsUrl: "https://maps.google.com/?cid=7573201778218744011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 41650
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7573201778218744011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.473129399999998
   lng: 120.29271649999998
-  phone: "+886 5 362 0777"
+  phone: +886 5 362 0777
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-03
+    updated: 2026-09-03T00:00:00.000Z
     weekendBusy:
       - 11
       - 12
@@ -43,24 +51,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6b574771522d695667377952516a626253394b645836654a496843"
+    venueId: ven_6b574771522d695667377952516a626253394b645836654a496843
 tags:
-  - "chiayi"
-  - "museum"
-quickAnswer: "The Southern Branch of the National Palace Museum sits in Taibao City, Chiayi County, about a 15-minute drive or free shuttle ride from Chiayi High Speed Rail Station. It's open Tuesday to Sunday (closed Monday), with extended 9am–6pm hours on weekends. Weekend crowds peak from 11am to 6pm, so arrive right at opening for the emptiest galleries."
+  - chiayi
+  - museum
+quickAnswer: >-
+  The Southern Branch of the National Palace Museum sits in Taibao City, Chiayi
+  County, about a 15-minute drive or free shuttle ride from Chiayi High Speed
+  Rail Station. It's open Tuesday to Sunday (closed Monday), with extended
+  9am–6pm hours on weekends. Weekend crowds peak from 11am to 6pm, so arrive
+  right at opening for the emptiest galleries.
 faq:
-  - q: "How do I get to the Southern Branch of the National Palace Museum from Chiayi HSR Station?"
-    a: "It's about a 15-minute trip by taxi or shuttle bus; shuttles often coordinate loosely with train arrivals, but confirm current schedules before you go."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Friday, 9am–5pm; Saturday and Sunday, 9am–6pm. Closed every Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend crowds build heavily from 11am to 6pm. Arriving right at opening, especially on a weekday, avoids the peak."
-  - q: "How long should I plan for a visit?"
-    a: "Budget two to three hours for the permanent collection; add more time if a special exhibition is running or if you want to walk the lakeside grounds."
-  - q: "Is this the same as the National Palace Museum in Taipei?"
-    a: "It's the official southern branch, sharing the Taipei museum's mandate but focused on broader Asian art and culture rather than a duplicate collection."
+  - q: >-
+      How do I get to the Southern Branch of the National Palace Museum from
+      Chiayi HSR Station?
+    a: >-
+      It's about a 15-minute trip by taxi or shuttle bus; shuttles often
+      coordinate loosely with train arrivals, but confirm current schedules
+      before you go.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Friday, 9am–5pm; Saturday and Sunday, 9am–6pm. Closed every
+      Monday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend crowds build heavily from 11am to 6pm. Arriving right at opening,
+      especially on a weekday, avoids the peak.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget two to three hours for the permanent collection; add more time if a
+      special exhibition is running or if you want to walk the lakeside grounds.
+  - q: Is this the same as the National Palace Museum in Taipei?
+    a: >-
+      It's the official southern branch, sharing the Taipei museum's mandate but
+      focused on broader Asian art and culture rather than a duplicate
+      collection.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

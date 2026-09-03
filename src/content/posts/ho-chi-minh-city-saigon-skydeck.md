@@ -1,43 +1,50 @@
 ---
-title: "Saigon Skydeck: Ho Chi Minh City Travel Guide (4.4★)"
-description: "Saigon Skydeck sits on the 49th floor of the Bitexco Financial Tower at 36 Hồ Tùng Mậu, open daily 9:30am–9:30pm. 4.4★ (12,726 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "attraction"
-pubDate: "2026-08-22T07:50:10.942Z"
+title: 'Saigon Skydeck: Ho Chi Minh City Travel Guide (4.4★)'
+description: >-
+  Saigon Skydeck sits on the 49th floor of the Bitexco Financial Tower at 36 Hồ
+  Tùng Mậu, open daily 9:30am–9:30pm. 4.4★ (12,739 reviews) — what visitors say,
+  hours, and tips.
+country: Vietnam
+region: Ho Chi Minh City
+category: attraction
+pubDate: '2026-08-22T07:50:10.942Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saigon_Skydeck_%2853546400302%29.jpg/3840px-Saigon_Skydeck_%2853546400302%29.jpg"
-  credit: "Photo: Werner Bayer / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Saigon_Skydeck_(53546400302).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saigon_Skydeck_%2853546400302%29.jpg/3840px-Saigon_Skydeck_%2853546400302%29.jpg
+  credit: 'Photo: Werner Bayer / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Saigon_Skydeck_(53546400302).jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg/3840px-Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg"
-    credit: "Photo: Simon_sees / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg/3840px-Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg
+    credit: 'Photo: Simon_sees / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_from_the_Saigon_Skydeck.jpg
 place:
-  id: "ChIJVZKCP0EvdTERfHvs6AfGjok"
-  name: "Saigon Skydeck"
-  address: "36 Hồ Tùng Mậu, Sài Gòn, Hồ Chí Minh 700000, Vietnam"
+  id: ChIJVZKCP0EvdTERfHvs6AfGjok
+  name: Saigon Skydeck
+  address: '36 Hồ Tùng Mậu, Sài Gòn, Hồ Chí Minh 700000, Vietnam'
   rating: 4.4
-  userRatingsTotal: 12726
-  googleMapsUrl: "https://maps.google.com/?cid=9912077567163923324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12739
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9912077567163923324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.7715673
   lng: 106.7042465
   openingHours:
-    - "Monday: 9:30 AM – 9:30 PM"
-    - "Tuesday: 9:30 AM – 9:30 PM"
-    - "Wednesday: 9:30 AM – 9:30 PM"
-    - "Thursday: 9:30 AM – 9:30 PM"
-    - "Friday: 9:30 AM – 9:30 PM"
-    - "Saturday: 9:30 AM – 9:30 PM"
-    - "Sunday: 9:30 AM – 9:30 PM"
+    - 'Monday: 9:30 AM – 9:30 PM'
+    - 'Tuesday: 9:30 AM – 9:30 PM'
+    - 'Wednesday: 9:30 AM – 9:30 PM'
+    - 'Thursday: 9:30 AM – 9:30 PM'
+    - 'Friday: 9:30 AM – 9:30 PM'
+    - 'Saturday: 9:30 AM – 9:30 PM'
+    - 'Sunday: 9:30 AM – 9:30 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -53,24 +60,41 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_6b6f6a47664136737648665245546476453050434b5a564a496843"
+    venueId: ven_6b6f6a47664136737648665245546476453050434b5a564a496843
 tags:
-  - "ho chi minh city"
-  - "viewpoint"
-quickAnswer: "Saigon Skydeck sits on the 49th floor of the Bitexco Financial Tower at 36 Hồ Tùng Mậu, open daily 9:30am–9:30pm. Go on a weekday between 10am and 3pm to skip the crowds, or arrive right at opening for the clearest light and near-empty glass. Budget about an hour, more if you linger at the Café Bar Chill Skybar level."
+  - ho chi minh city
+  - viewpoint
+quickAnswer: >-
+  Saigon Skydeck sits on the 49th floor of the Bitexco Financial Tower at 36 Hồ
+  Tùng Mậu, open daily 9:30am–9:30pm. Go on a weekday between 10am and 3pm to
+  skip the crowds, or arrive right at opening for the clearest light and
+  near-empty glass. Budget about an hour, more if you linger at the Café Bar
+  Chill Skybar level.
 faq:
-  - q: "What are the opening hours for Saigon Skydeck?"
-    a: "It's open every day of the week from 9:30am to 9:30pm, with no listed weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and 3pm are the calmest window; on weekends, only the 10–11am slot is quiet before crowds build."
-  - q: "What time should I avoid?"
-    a: "Skip weekend evenings from 5pm to 9pm — that's the busiest stretch as sunset-chasers and after-dinner visitors overlap."
-  - q: "How long should I plan to spend there?"
-    a: "About 45 minutes to an hour is enough for the full loop of windows; add extra time if you plan to stop at the Skybar one floor up."
-  - q: "How do I get to Bitexco Financial Tower?"
-    a: "It's centrally located at 36 Hồ Tùng Mậu in District 1, a 5–10 minute walk from the Saigon Opera House and Nguyễn Huệ walking street, with Grab and taxi drop-off right at the entrance."
+  - q: What are the opening hours for Saigon Skydeck?
+    a: >-
+      It's open every day of the week from 9:30am to 9:30pm, with no listed
+      weekly closing day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and 3pm are the calmest window; on weekends, only
+      the 10–11am slot is quiet before crowds build.
+  - q: What time should I avoid?
+    a: >-
+      Skip weekend evenings from 5pm to 9pm — that's the busiest stretch as
+      sunset-chasers and after-dinner visitors overlap.
+  - q: How long should I plan to spend there?
+    a: >-
+      About 45 minutes to an hour is enough for the full loop of windows; add
+      extra time if you plan to stop at the Skybar one floor up.
+  - q: How do I get to Bitexco Financial Tower?
+    a: >-
+      It's centrally located at 36 Hồ Tùng Mậu in District 1, a 5–10 minute walk
+      from the Saigon Opera House and Nguyễn Huệ walking street, with Grab and
+      taxi drop-off right at the entrance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-03'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
