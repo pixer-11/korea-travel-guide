@@ -68,8 +68,7 @@ faq:
   - q: "What's nearby if I'm visiting from Poipet via Phnom Penh?"
     a: "The Royal Palace and Silver Pagoda are right next door, making it easy to combine both into one morning."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

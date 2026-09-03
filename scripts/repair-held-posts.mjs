@@ -30,14 +30,17 @@ const run = (cmd) => {
   catch (e) { return String(e.stdout ?? ''); }
 };
 
-// A checker that finds something PRINTS it and exits 1; one that exits non-zero
-// with nothing on stdout has died. Only the first is a verdict.
+// A checker that finds something PRINTS its findings and exits 1; one that
+// exits non-zero without naming a single post has died. This helper only
+// reports the exit — recheck() decides, because "did it name a post" is the
+// pick pattern's question, not this helper's.
+//
+// 2026-09-03 (Codex 3차): `crashed` used to mean "stdout was empty", so a
+// checker that printed one progress line and THEN died read as a clean verdict
+// and released the post. Any output at all was enough to fail open.
 const runChecked = (cmd) => {
-  try { return { out: execSync(cmd, { encoding: 'utf8', maxBuffer: 1e8, stdio: ['ignore', 'pipe', 'pipe'] }), crashed: false }; }
-  catch (e) {
-    const out = String(e.stdout ?? '');
-    return { out, crashed: !out.trim() };
-  }
+  try { return { out: execSync(cmd, { encoding: 'utf8', maxBuffer: 1e8, stdio: ['ignore', 'pipe', 'pipe'] }), failed: false }; }
+  catch (e) { return { out: String(e.stdout ?? ''), failed: true }; }
 };
 
 // Every reason the gate can write → the checker that re-tests DRAFTS for it.
@@ -58,24 +61,33 @@ const flagged = run('node scripts/audit-hours-claims.mjs --drafts')
   .filter(Boolean)
   .filter((slug) => /^draft:\s*true/m.test(readFileSync(join(DIR, `${slug}.md`), 'utf8')));
 
-// Held for hours (gate marker) but passing the audit today — the contradiction
-// vanished by another route (data refresh, direct fix). These need no rewrite,
-// only release; without this branch they stayed held forever with nothing
-// wrong (nice-parc-ph-nix, 2026-08-08). Photo quarantines never carry the
-// marker, so they never enter this list.
+// Every other held draft — one the hours audit does not flag. It needs no
+// rewrite, only a re-check of the reasons the gate recorded: the loop below
+// releases it if every one of them clears, and holds it otherwise. Without
+// this branch an hours hold that healed by another route stayed held forever
+// with nothing wrong (nice-parc-ph-nix, 2026-08-08).
+//
+// 2026-09-03: it used to require 'hours' among the reasons, so the
+// wrong-region checker registered in CHECKERS could never run — a post held
+// for wrong-region ALONE never entered `before` at all. Every one of the 14
+// posts in quarantine that day was held for a non-hours reason, and this
+// script answered "수리할 격리 글 없음" to all of them: the same "no way back
+// out" the file was written to end, reopened for the newer reasons. Reasons
+// with no checker (photo, content, duplicate…) still stay held — that is the
+// fail-closed rule, not a reason to keep them out of the loop.
 const healed = readdirSync(DIR)
   .filter((f) => f.endsWith('.md'))
   .map((f) => f.replace(/\.md$/, ''))
   .filter((slug) => !flagged.includes(slug))
   .filter((slug) => {
     const raw = readFileSync(join(DIR, `${slug}.md`), 'utf8');
-    return /^draft:\s*true/m.test(raw) && reasonsOf(raw).includes('hours');
+    return /^draft:\s*true/m.test(raw) && reasonsOf(raw).length > 0;
   });
 
 const before = [...flagged, ...healed];
 if (!before.length) { console.log('수리할 격리 글 없음'); process.exit(0); }
 console.log(`격리 글 ${before.length}편 수리 시도: ${before.join(', ')}` +
-  (healed.length ? ` (이미 치유되어 해제만 필요: ${healed.join(', ')})` : ''));
+  (healed.length ? ` (영업시간 수리 없이 사유 재검사만 필요: ${healed.join(', ')})` : ''));
 
 if (flagged.length) run(`node scripts/fix-hours-claims.mjs --drafts --only=${flagged.join(',')}`);
 
@@ -89,9 +101,9 @@ const recheck = (reason) => {
   if (!c) v = { noChecker: true };
   else {
     const r = runChecked(c.cmd);
-    v = r.crashed
-      ? { crashed: true }
-      : { still: new Set(r.out.split('\n').map((l) => l.match(c.pick)?.[1]).filter(Boolean)) };
+    const still = new Set(r.out.split('\n').map((l) => l.match(c.pick)?.[1]).filter(Boolean));
+    // A non-zero exit that named nobody is a death, not a clean bill of health.
+    v = r.failed && !still.size ? { crashed: true } : { still };
   }
   verdicts.set(reason, v);
   return v;

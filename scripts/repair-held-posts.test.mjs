@@ -16,6 +16,9 @@ import { execFileSync } from 'node:child_process';
 const SCRIPT = join(process.cwd(), 'scripts', 'repair-held-posts.mjs');
 const NOOP = 'node -e "process.exit(0)"';
 const CRASH = 'node -e "process.exit(2)"'; // exit ≠ 0 인데 stdout 이 없다 = 죽음
+// 진행 한 줄 찍고 죽는 검사기. 예전엔 "stdout 이 비지 않았다"는 이유로 정상 판정이
+// 됐고, 지적이 하나도 없으니 격리가 풀렸다(코덱스 3차).
+const NOISY_CRASH = 'node -e "console.log(1); process.exit(2)"';
 // 사본의 작은따옴표 문자열 안으로 들어가므로 백슬래시를 한 겹 더 입힌다.
 const FLAG_REGION = `node -e "console.log(\\\\"REGION-OUTLIER: fixture.md 18 km from the Sai Kung centre\\\\"); process.exit(1)"`;
 
@@ -83,4 +86,34 @@ test('두 사유가 모두 풀리면 해제한다', () => {
   assert.ok(!/^heldReason:/m.test(r.file), 'heldReason 이 남아 있음');
   assert.match(r.out, /REPAIRED 1 of 1/);
   assert.match(r.out, /hours\+wrong-region 전부 통과/);
+});
+
+// 2026-09-03 3차: 진입 목록이 'hours' 를 요구해서, wrong-region 하나만 적힌 글은
+// CHECKERS 에 검사기가 있는데도 루프에 들어오지도 못했다. 그날 격리된 14편 전부가
+// 비-hours 사유였고 스크립트는 "수리할 격리 글 없음" 만 찍었다.
+
+test('사유가 wrong-region 하나뿐이어도 재검사해서 해제한다', () => {
+  const r = runWith({ heldReason: 'wrong-region' });
+  assert.match(r.file, /^draft: false$/m, `해제 안 됨:\n${r.out}`);
+  assert.ok(!/^heldReason:/m.test(r.file), 'heldReason 이 남아 있음');
+  assert.match(r.out, /REPAIRED 1 of 1/);
+  assert.match(r.out, /wrong-region 전부 통과/);
+});
+
+test('사유가 wrong-region 하나뿐이고 아직 어긋나면 그대로 격리', () => {
+  const r = runWith({ heldReason: 'wrong-region', region: FLAG_REGION });
+  stillHeld(r, 'wrong-region');
+  assert.match(r.out, /wrong-region 결함이 여전함/);
+});
+
+test('검사기 없는 사유 하나뿐이면 루프에는 들어오되 해제되지 않는다', () => {
+  const r = runWith({ heldReason: 'wrong-venue-photo' });
+  stillHeld(r, 'wrong-venue-photo');
+  assert.match(r.out, /wrong-venue-photo 사유는 초안을 재검사할 도구가 없음/);
+});
+
+test('검사기가 뭔가 찍고 죽어도 통과가 아니다 (fail closed)', () => {
+  const r = runWith({ heldReason: 'wrong-region', region: NOISY_CRASH });
+  stillHeld(r, 'wrong-region');
+  assert.match(r.out, /wrong-region 검사기가 결과 없이 죽음/);
 });

@@ -89,8 +89,7 @@ faq:
       One to two hours is enough to wander the herb and produce sections, browse
       the food alley, and grab a snack or noodle bowl.
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 updatedDate: '2026-09-02'
 ---
 
