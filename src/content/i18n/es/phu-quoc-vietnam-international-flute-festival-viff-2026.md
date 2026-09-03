@@ -1,37 +1,37 @@
 ---
 lang: es
 slug: phu-quoc-vietnam-international-flute-festival-viff-2026
-srcHash: '3d3a9bca758d'
+srcHash: '0fa563f992c6'
 title: 'Festival Internacional de Flauta de Vietnam (VIFF) 2026: lo que hay que saber (Phu Quoc)'
-description: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 se celebra del 23 al 28 de julio de 2026 en Phu Quoc y reúne a más de 40 flautistas de 12 países, entre ellos la flautista ganadora de un Grammy Erin Bouriakov, en el primer festival y concurso internacional de flauta de la isla.
-quickAnswer: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 se celebra del 23 al 28 de julio de 2026 en Phu Quoc y reúne a más de 40 flautistas de 12 países, entre ellos la flautista ganadora de un Grammy Erin Bouriakov, en el primer festival y concurso internacional de flauta de la isla. Al tratarse de un evento recién anunciado, conviene confirmar el lugar exacto, el programa diario y la venta de entradas a través de los canales oficiales de VIFF antes de reservar vuelos u hoteles. Lo ideal es combinar el festival con unos días de playa en Phu Quoc, ya que la isla es el principal centro logístico tanto para el alojamiento como para el transporte.
+description: El Festival Internacional de Flauta de Vietnam 2026 estaba previsto del 23 al 28 de julio en Phu Quoc, con más de 40 artistas de 12 países, entre ellos la ganadora del Grammy Erin Bouriakov.
+quickAnswer: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 estaba previsto del 23 al 28 de julio de 2026 en Phu Quoc, y reunía a más de 40 flautistas de 12 países —entre ellos la flautista ganadora de un Grammy Erin Bouriakov— en lo que sería el primer festival y concurso internacional de flauta de la isla. Los organizadores anunciaron las fechas y el listado de artistas, pero no se publicaron precios de entradas ni un horario detallado por sede. La propia Phu Quoc funciona como el principal centro logístico para el alojamiento y el transporte, y el festival se desarrollaba junto a las playas, los arrecifes y los atardeceres de Long Beach que caracterizan a la isla.
 faq:
-  - q: ¿Cuáles son las fechas exactas de VIFF 2026?
-    a: El festival está programado del 23 al 28 de julio de 2026 en Phu Quoc. Como ocurre con cualquier evento recién anunciado, conviene confirmar las fechas definitivas en el sitio web oficial de VIFF antes de reservar.
+  - q: ¿Cuáles son las fechas exactas del VIFF 2026?
+    a: El festival estaba previsto del 23 al 28 de julio de 2026 en Phu Quoc. El calendario anunciado abarcaba seis días, desde el jueves 23 de julio hasta el martes 28 de julio.
   - q: ¿Cómo se llega a Phu Quoc para el festival?
-    a: Lo más directo es volar hasta el Aeropuerto Internacional de Phu Quoc (PQC), que cuenta con conexiones desde Ciudad Ho Chi Minh, Hanói y varios centros regionales. No existe puente por carretera ni por ferrocarril hacia el continente, así que las únicas opciones son el avión o un ferri más lento desde Ha Tien o Rach Gia.
-  - q: ¿Quién actúa en VIFF 2026?
-    a: Los organizadores mencionaron a más de 40 flautistas de 12 países, entre ellos la flautista ganadora de un Grammy Erin Bouriakov. Al momento de esta publicación no se había difundido un programa detallado artista por artista.
+    a: El Aeropuerto Internacional de Phu Quoc (PQC) recibe vuelos directos desde Ciudad Ho Chi Minh, Hanói y varios centros regionales. No existe puente por carretera ni ferrocarril hacia el continente, así que volar —o tomar un ferry más lento desde Ha Tien o Rach Gia— son las únicas formas de llegar.
+  - q: ¿Quién actúa en el VIFF 2026?
+    a: Los organizadores mencionaron a más de 40 flautistas de 12 países, entre ellos Erin Bouriakov, flautista principal de la Filarmónica de Nueva York y ganadora de un Grammy. Nunca se publicó un cronograma detallado artista por artista.
   - q: ¿Cuánto cuestan las entradas?
-    a: Todavía no se ha publicado el precio para esta edición debut. Conviene seguir los canales oficiales de VIFF para conocer el anuncio de entradas en lugar de guiarse por estimaciones de terceros.
-  - q: ¿Es julio, en general, una buena época para visitar Phu Quoc?
-    a: 'Julio corresponde a la temporada de lluvias: hay que esperar chubascos intensos y breves por la tarde, con mañanas más despejadas. Es apto para ir a la playa o hacer excursiones en barco si se organizan las actividades al aire libre temprano en el día, pero conviene llevar tanto protector solar como equipo para la lluvia.'
+    a: No se publicaron precios para esta edición inaugural. Los organizadores anunciaron las fechas y el listado de artistas sin dar a conocer una lista oficial de precios de entradas, y las estimaciones de terceros carecían de respaldo oficial.
+  - q: ¿Es julio una buena época para visitar Phu Quoc por lo demás?
+    a: Julio cae en temporada de lluvias, con chubascos breves e intensos por la tarde y mañanas generalmente más despejadas. Las excursiones a la playa y en barco funcionan bien si se hacen temprano, aunque conviene llevar ropa impermeable junto con el protector solar.
 ---
 
 ## Por qué ir
 
-VIFF 2026 se presentó como el primer festival y concurso internacional de flauta celebrado en Phu Quoc, la isla más grande de Vietnam. La convocatoria resultó inusualmente sólida para tratarse de una primera edición: los organizadores mencionaron a más de 40 flautistas de 12 países, encabezados por Erin Bouriakov, flautista principal de la Filarmónica de Nueva York y ganadora de un Grammy.
+El VIFF 2026 estaba previsto del 23 al 28 de julio de 2026 en Phu Quoc, presentado como el primer festival y concurso internacional de flauta celebrado en la isla más grande de Vietnam. El cartel resultaba inusualmente sólido para tratarse de una edición debut: los organizadores mencionaron a más de 40 flautistas de 12 países, encabezados por Erin Bouriakov, flautista principal de la Filarmónica de Nueva York y ganadora de un Grammy.
 
-Para los viajeros aficionados a la música clásica, el festival ofrecía una oportunidad poco común de presenciar una nutrida convocatoria internacional de flautistas —con clases magistrales, rondas de competencia y conciertos de gala— en un entorno de resort en lugar de una ciudad con salas de concierto convencionales, y de combinarlo con tiempo de playa en una isla conocida por los atardeceres de Long Beach y los arrecifes de coral frente a An Thoi.
+Para los viajeros aficionados a la música clásica, la propuesta prometía algo poco habitual: una programación internacional de flauta concentrada en clases magistrales, rondas de competición y conciertos de gala, todo ello en un entorno de resort en lugar de la típica ciudad con sala de conciertos, combinado con tiempo de playa en una isla conocida por los atardeceres de Long Beach y los arrecifes de coral frente a An Thoi.
 
 ## Cómo llegar
 
-Phu Quoc cuenta con su propio aeropuerto internacional (Aeropuerto Internacional de Phu Quoc, código PQC), con vuelos directos desde Ciudad Ho Chi Minh (alrededor de una hora), Hanói y un número creciente de centros regionales asiáticos. Desde el continente, otra alternativa es volar hasta el aeropuerto de Tan Son Nhat, en Ciudad Ho Chi Minh, y tomar una conexión, ya que Phu Quoc se encuentra en el golfo de Tailandia, frente a la costa sur de Vietnam, y no es accesible por carretera.
+Phu Quoc cuenta con su propio aeropuerto internacional (Aeropuerto Internacional de Phu Quoc, código PQC), con vuelos directos desde Ciudad Ho Chi Minh (alrededor de una hora), Hanói y un número creciente de centros regionales asiáticos. Desde el continente, otra opción es volar hasta el aeropuerto de Tan Son Nhat en Ciudad Ho Chi Minh y tomar una conexión, ya que Phu Quoc se encuentra en el golfo de Tailandia, frente a la costa sur de Vietnam, y no es accesible por carretera.
 
-La isla no tiene conexión ferroviaria; existen ferris que salen de Ha Tien y Rach Gia, en el continente, hacia las terminales de An Thoi o Duong Dong en Phu Quoc, pero volar resulta más rápido y confiable para un viaje al festival con un calendario fijo. Una vez en la isla, los taxis, Grab (la aplicación vietnamita de transporte con conductor) y los traslados de los hoteles son la manera práctica de moverse entre el alojamiento, las playas y las sedes del festival, ya que Phu Quoc no cuenta con metro ni con una red extensa de autobuses públicos.
+No hay conexión ferroviaria con la isla; existen ferris desde Ha Tien y Rach Gia, en el continente, hasta las terminales de An Thoi o Duong Dong en Phu Quoc, pero volar resulta más rápido y fiable para un viaje organizado en torno a un calendario fijo. Una vez en la isla, los taxis, Grab (la aplicación de transporte de Vietnam) y los traslados de los hoteles son la forma práctica de moverse entre el alojamiento, las playas y las sedes del festival, ya que Phu Quoc no dispone de metro ni de una red extensa de autobuses públicos.
 
-## Qué esperar del festival
+## Qué esperar en el festival
 
-Al tratarse de un evento nuevo, en el momento de escribir esta guía todavía no estaba definido el programa detallado: qué salas albergarían las rondas de competencia frente a las presentaciones de gala, si las sesiones requerirían entrada o serían abiertas al público, ni los horarios exactos de cada día. Lo que sí se confirmó fue que el festival se extendería del 23 al 28 de julio de 2026 y que giraría en torno a la interpretación y el concurso de flauta, convocando a un grupo internacional de intérpretes.
+Al tratarse de un evento nuevo, el VIFF nunca contó con un programa detallado y publicado: los organizadores no precisaron qué salas albergaban las rondas de competición frente a las actuaciones de gala, si las sesiones individuales requerían entrada o eran de acceso libre, ni cuáles eran los horarios exactos de cada día. Lo que sí confirmaron fue la estructura general.
 
-El formato combinaba clases magistrales, rondas de competencia y conciertos de gala, de manera similar a otros festivales internacionales de flauta.
+El festival abarcaba seis días, del 23 al 28 de julio de 2026, y giraba en torno a la interpretación y la competición de flauta, con la participación de un campo internacional de intérpretes. El formato anunciado combinaba clases magistrales, rondas de competición y conciertos de gala, de manera similar a otros festivales internacionales de flauta.

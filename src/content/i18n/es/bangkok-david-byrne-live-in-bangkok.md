@@ -1,51 +1,51 @@
 ---
 lang: es
 slug: bangkok-david-byrne-live-in-bangkok
-srcHash: '4b53f948b655'
+srcHash: '908e7f5bc493'
 title: 'David Byrne en directo en Bangkok: lo que hay que saber (Bangkok)'
-description: David Byrne, exlíder de Talking Heads, tiene previsto actuar en el UOB Live de Bangkok el lunes 10 de agosto de 2026.
-quickAnswer: David Byrne, exlíder de Talking Heads, actuó en el UOB Live de Bangkok el lunes 10 de agosto de 2026. En este resumen no se confirmaron los horarios de apertura de puertas ni de inicio del concierto; la fecha fue el dato central, mientras que los detalles de entradas, el horario exacto y posibles teloneros se publicaron a través de los canales oficiales de UOB Live o de los socios de venta de entradas del propio Byrne.
+description: David Byrne, ex vocalista de Talking Heads, tenía previsto actuar en el UOB Live de Bangkok el lunes 10 de agosto de 2026.
+quickAnswer: David Byrne, ex vocalista de Talking Heads, tenía previsto actuar en el UOB Live de Bangkok el lunes 10 de agosto de 2026. Este resumen no incluía horarios de apertura de puertas ni de inicio del concierto; la fecha era el dato central, mientras que los detalles de entradas, el horario exacto y posibles teloneros se publicarían a través de los canales oficiales de UOB Live o de los socios de venta de entradas de Byrne.
 faq:
   - q: ¿Está confirmada la fecha del 10 de agosto de 2026 para David Byrne en Bangkok?
-    a: Es la fecha anunciada hasta el momento de redactar esto, pero las fechas de gira pueden cambiar. Conviene confirmarla en el sitio oficial de UOB Live o en la página oficial de la gira de David Byrne antes de reservar el viaje.
+    a: El 10 de agosto de 2026 fue la fecha anunciada para el concierto en el UOB Live. Esta información procedía de los canales oficiales del recinto y de los listados oficiales de la gira de David Byrne.
   - q: ¿Cómo se llega al UOB Live?
-    a: Tomando la línea azul del MRT hasta la estación Sam Yan, que conecta directamente con el complejo Samyan Mitrtown, donde se encuentra el recinto. Es la forma más sencilla de evitar el tráfico de Bangkok.
+    a: La línea azul del metro (MRT) llega hasta la estación Sam Yan, que conecta directamente con el complejo Samyan Mitrtown, donde se encuentra el recinto. Esta es la forma más sencilla de evitar el tráfico de Bangkok.
   - q: ¿Cuál es la mejor zona para alojarse para este concierto?
-    a: Silom, Sathorn o el barrio chino (Yaowarat) son buenas opciones, ya que están a un corto trayecto en MRT o taxi de la estación Sam Yan, lo que las convierte en bases cómodas para los asistentes al concierto.
+    a: Silom, Sathorn y el barrio chino (Yaowarat) están a poca distancia en MRT o en taxi de la estación Sam Yan, lo que los convierte en bases muy cómodas para quienes asisten al concierto.
   - q: ¿Qué se puede hacer antes del espectáculo?
-    a: Se puede cenar en el patio de comidas de Samyan Mitrtown o acercarse a la cercana calle Yaowarat, en el barrio chino, para probar platos callejeros típicos de Bangkok como los fideos de barco (boat noodles) y el mango con arroz glutinoso.
+    a: Samyan Mitrtown cuenta con un patio de comidas y varios restaurantes dentro del mismo complejo, y la cercana calle Yaowarat, en el barrio chino, es famosa por su comida callejera típica de Bangkok, como los fideos de barco y el mango con arroz glutinoso.
   - q: ¿Dónde se compran las entradas?
-    a: Conviene recurrir únicamente a canales oficiales, normalmente el sitio web de UOB Live o socios autorizados como Thai Ticket Major, y evitar los sitios de reventa no oficiales, ya que los precios y las categorías de entradas no se habían especificado en los anuncios oficiales en el momento de la publicación.
+    a: Las entradas para los espectáculos de este recinto se venden a través de canales oficiales, normalmente la web de UOB Live o socios autorizados como Thai Ticket Major. Los precios y las categorías de este concierto no se especificaron en los anuncios oficiales.
 ---
 
 ## Por qué importaba este concierto
 
-David Byrne no es simplemente un artista consagrado que vive de la nostalgia: es la mente inquieta del art-rock detrás de clásicos de Talking Heads como "Once in a Lifetime" y "This Must Be the Place", y, más recientemente, del aclamado espectáculo escénico "American Utopia" (que tuvo su temporada en Broadway y se convirtió en película-concierto dirigida por Spike Lee). Sus directos son conocidos por la coreografía de movimientos, una estética escénica minimalista y una banda completa que trata los temas antiguos como ideas nuevas, no como piezas de museo.
+David Byrne no es simplemente un artista veterano que vive de la nostalgia: es la mente inquieta detrás de clásicos del art-rock de Talking Heads como "Once in a Lifetime" y "This Must Be the Place", y más recientemente del aclamado espectáculo escénico "American Utopia" (que tuvo su propia temporada en Broadway y una película-concierto dirigida por Spike Lee). Sus actuaciones en vivo se distinguen por la coreografía de movimientos, una estética de escenario desnudo y una banda completa que trata las canciones antiguas como ideas nuevas, no como piezas de museo.
 
-Una fecha en Bangkok dentro de una gira mundial suponía una oportunidad poco frecuente para los fans del sudeste asiático, ya que el artista rara vez pasa por la región.
+Una fecha en Bangkok dentro de una gira mundial suponía una oportunidad poco frecuente para los fanáticos del sudeste asiático, ya que se trata de un artista que rara vez pasa por la región.
 
 ## Lo esencial: fecha y recinto
 
-El concierto estaba programado para el **lunes 10 de agosto de 2026** en **UOB Live**, uno de los recintos cubiertos más grandes construidos específicamente para conciertos en Bangkok. UOB Live se encuentra dentro del complejo **Samyan Mitrtown**, en la zona de Samyan/Chulalongkorn, en el centro de Bangkok: un desarrollo de uso mixto que combina tiendas, restaurantes y una zona de coworking/biblioteca abierta las 24 horas sobre el propio recinto.
+El concierto estaba programado para el **lunes 10 de agosto de 2026** en **UOB Live**, uno de los mayores recintos cubiertos construidos específicamente para espectáculos en Bangkok. UOB Live se encuentra dentro del complejo **Samyan Mitrtown**, en la zona de Samyan/Chulalongkorn, en el centro de Bangkok. Se trata de un desarrollo de uso mixto que combina comercios, restaurantes y una zona de coworking y biblioteca abierta las 24 horas, situada justo encima del propio recinto.
 
 ## Cómo llegar a UOB Live
 
-UOB Live es uno de los recintos de la ciudad mejor conectados con el transporte público. La estación más cercana es **Sam Yan (MRT, línea azul)**, cuya salida conecta directamente con el edificio de Samyan Mitrtown, de modo que quienes lleguen pueden evitar por completo el tráfico superficial, a menudo congestionado, de Bangkok. Para quienes se alojan en las zonas hoteleras de Sukhumvit o Silom, tomar la línea azul hasta Sam Yan suele ser más rápido y económico que un taxi o una aplicación de transporte privado, sobre todo en horario laboral entre semana, cuando el tráfico en el corredor Silom-Sathorn alcanza su punto máximo.
+UOB Live es uno de los recintos con mejor acceso en transporte público de la ciudad. La estación más cercana es **Sam Yan (línea azul del MRT)**, cuya salida conecta directamente con el edificio de Samyan Mitrtown, de modo que los asistentes pueden evitar por completo el tráfico en superficie, a menudo muy congestionado en Bangkok. Desde las zonas hoteleras de Sukhumvit o Silom, la línea azul hasta Sam Yan suele ser más rápida y económica que un taxi o una app de transporte, sobre todo en un anochecer de día laborable, cuando el tráfico de oficinas en el corredor Silom-Sathorn alcanza su punto máximo.
 
-Para quienes se hospedan cerca del río Chao Phraya o en el barrio chino (Yaowarat), el trayecto es un corto salto en taxi o una conexión de MRT a través de la estación Hua Lamphong, una parada más allá.
+Desde el río Chao Phraya o desde el barrio chino (Yaowarat), basta con un breve trayecto en taxi o con una conexión de MRT a través de la estación Hua Lamphong, situada a solo una parada.
 
 ## Dónde comer y qué hacer antes del concierto
 
-El propio Samyan Mitrtown cuenta con un patio de comidas y varios restaurantes con servicio de mesa, ideales para cenar antes del espectáculo sin salir del edificio. Los alrededores merecen también una vuelta a pie: la calle Yaowarat, en el barrio chino, conocida por su ambiente de comida callejera, está a un corto trayecto en taxi o MRT y resultaba una parada animada para quienes llegaban con varias horas de antelación.
+El propio Samyan Mitrtown cuenta con un patio de comidas y varios restaurantes con servicio de mesa, ideales para cenar antes del espectáculo sin salir del edificio. El barrio circundante también invita a pasear un poco: la calle Yaowarat, en el barrio chino, conocida por su animada oferta de comida callejera, está a un corto trayecto en taxi o MRT y resulta una parada muy animada antes del concierto.
 
-El frondoso campus de la Universidad Chulalongkorn bordea también la zona y ofrece un contraste más tranquilo frente a las calles de neones y puestos de comida cercanas.
+El frondoso campus de la Universidad de Chulalongkorn bordea también la zona y ofrece un contraste más tranquilo frente a las calles de comida iluminadas con neones que hay cerca.
 
 ## Consejos prácticos para visitantes internacionales
 
-Agosto cae dentro de la temporada de lluvias en Bangkok, por lo que conviene llevar un paraguas compacto o una chaqueta ligera para el trayecto entre el transporte público y el recinto, aunque la mayor parte del recorrido desde el MRT Sam Yan está cubierta. Las noches se mantienen cálidas y húmedas (generalmente entre los 27 y 32 grados centígrados), así que el aire acondicionado del recinto resulta un alivio bienvenido una vez dentro.
+Agosto cae dentro de la temporada de lluvias de Bangkok, por lo que llevar un paraguas plegable o un chubasquero ligero es algo habitual, aunque buena parte del trayecto desde la estación Sam Yan del MRT está cubierto. Las noches se mantienen cálidas y húmedas, con temperaturas que suelen rondar entre los 27 y los 32 grados Celsius, y el recinto cuenta con aire acondicionado.
 
-Las entradas para artistas internacionales que actúan en UOB Live suelen venderse a través de plataformas como Thai Ticket Major o los socios propios del recinto; conviene desconfiar de los sitios de reventa de terceros y confirmar la autenticidad antes de comprar. Bangkok cuenta con dos aeropuertos principales, Suvarnabhumi (BKK) y Don Mueang (DMK), ambos conectados con el centro de la ciudad en tren o en taxi; el Airport Rail Link de Suvarnabhumi es la opción más directa hacia la zona de Sam Yan/Silom.
+Las entradas para artistas internacionales en gira que se presentan en UOB Live suelen venderse a través de plataformas como Thai Ticket Major o los socios propios del recinto, en lugar de sitios de reventa de terceros. Bangkok cuenta con dos aeropuertos principales, Suvarnabhumi (BKK) y Don Mueang (DMK), ambos conectados con el centro de la ciudad en tren o en taxi. El tren Airport Rail Link de Suvarnabhumi es la opción más directa para llegar al lado de la ciudad donde se encuentran Sam Yan y Silom.
 
-## Cerca del recinto y consejos adicionales
+## Alrededores y consejos
 
-El viaje combina bien con una visita al cercano Wat Traimit (Templo del Buda de Oro), en el barrio chino, o con un paseo nocturno en crucero por el río Chao Phraya, dos opciones fáciles de añadir gracias a la ubicación céntrica del recinto.
+La visita combina bien con una parada en el cercano Wat Traimit (Templo del Buda de Oro), en el barrio chino, o con un paseo nocturno en barco por el río Chao Phraya. Ambas actividades son complementos fáciles de añadir, dada la ubicación céntrica del recinto.

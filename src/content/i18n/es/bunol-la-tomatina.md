@@ -1,59 +1,59 @@
 ---
 lang: es
 slug: bunol-la-tomatina
-srcHash: '1f7b23424b4e'
+srcHash: '10cf3cee6019'
 title: 'La Tomatina: lo que hay que saber (Buñol)'
-description: La Tomatina de Buñol, España, se celebra el 26 de agosto de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
-quickAnswer: 'La Tomatina se celebra el último miércoles de agosto (anunciada para el 26 de agosto de 2026) en Buñol, un pequeño municipio situado a unos 40 km al oeste de Valencia. Es imprescindible contar con entrada, ya que el aforo está limitado y las entradas se agotan a través de la web oficial: conviene comprarlas con antelación, llegar temprano y confirmar en el sitio oficial de La Tomatina la hora exacta de inicio, los puntos de acceso y el precio antes de viajar. La batalla en sí dura aproximadamente una hora, aunque los actos previos del pueblo se prolongan durante toda una semana.'
+description: La Tomatina de Buñol, España, se celebra el 26 de agosto de 2026. Qué es, cuándo y dónde se organizó, y cómo se desarrolló la jornada del festival.
+quickAnswer: La Tomatina se celebra siempre el último miércoles de agosto, y la edición de 2026 quedó fijada para el 26 de agosto en Buñol, una pequeña localidad situada unos 40 km al oeste de Valencia. Es obligatorio contar con entrada, cuyo número está limitado, y las entradas se venden a través de la web oficial, donde suelen agotarse con antelación la mayoría de los años. La batalla en sí dura aproximadamente una hora, mientras que los actos previos del pueblo se prolongan durante toda una semana.
 faq:
   - q: ¿Cuál es la fecha exacta de La Tomatina 2026?
-    a: Se ha anunciado para el 26 de agosto de 2026, último miércoles de agosto, tal como marca la tradición.
+    a: Se fijó para el 26 de agosto de 2026, el último miércoles de agosto, tal como marca la tradición.
   - q: ¿Hace falta entrada y cuánto cuesta?
-    a: Sí, el acceso a la zona de la batalla de tomates está limitado y requiere entrada; la mayoría de los años se agotan con antelación. Es mejor consultar el precio y los paquetes disponibles en la web oficial en lugar de recurrir a reventas.
+    a: Sí, el acceso a la zona de la batalla de tomates está limitado y requiere entrada, que suele agotarse con antelación la mayoría de los años. Las entradas se vendían a través del canal oficial de La Tomatina, que gestionaba tanto los precios como los paquetes, en lugar de a través de reventa.
   - q: ¿Cómo se llega de Valencia a Buñol?
-    a: Se puede tomar un tren de cercanías desde la Estación del Norte de Valencia hasta Buñol, con un trayecto de unos 50-60 minutos; el día del festival también son habituales los traslados organizados en autobús incluidos con la entrada.
+    a: Un tren de cercanías conecta la Estación del Norte de Valencia con Buñol en unos 50-60 minutos; el día del festival también es habitual contratar traslados en autobús organizados junto con las entradas.
   - q: ¿Cuánto dura realmente la batalla de tomates?
-    a: La batalla principal dura aproximadamente una hora y comienza cuando alguien trepa por un palo enjabonado para descolgar un jamón colocado en lo alto; la semana de fiestas que la rodea incluye varios días más de música, desfiles y gastronomía.
-  - q: ¿Qué conviene llevar o vestir?
-    a: Es recomendable llevar ropa vieja y calzado cerrado que se esté dispuesto a desechar, considerar el uso de gafas de piscina para proteger los ojos y llevar una bolsa sellada para el móvil, ya que nada que quede sin proteger sobrevive a la pulpa de tomate.
+    a: La batalla principal dura aproximadamente una hora y comienza cuando alguien trepa por un palo engrasado para soltar un jamón colocado en lo alto; la semana de fiestas que la rodea incluye además varios días más de música, desfiles y comida.
+  - q: ¿Qué hay que llevar o ponerse?
+    a: Los participantes visten ropa vieja y calzado cerrado que están dispuestos a desechar, muchos usan gafas de natación para proteger los ojos, y los teléfonos se guardan en bolsas selladas, ya que nada que quede sin protección sobrevive a la pulpa de tomate.
 ---
 
 ## Por qué ir
 
-La Tomatina es la batalla de comida más fotogénica de España: más de 100 toneladas métricas de tomates demasiado maduros lanzadas por las estrechas calles del casco antiguo de Buñol en una sola y caótica mañana. Todo comenzó en los años 40, al parecer a partir de una pelea espontánea entre vecinos durante un desfile del pueblo, y desde entonces ha crecido hasta convertirse en un festival de fama mundial que atrae a visitantes de decenas de países.
+La Tomatina es la batalla de comida más fotogénica de España: más de 100 toneladas métricas de tomates demasiado maduros lanzados por las calles estrechas del casco antiguo de Buñol en una sola mañana caótica. Todo comenzó en la década de 1940, al parecer a partir de una riña espontánea entre vecinos durante un desfile local, y desde entonces se ha convertido en un festival de fama mundial que atrae a visitantes de decenas de países.
 
-Su atractivo no reside en un espectáculo cultural refinado, sino en la diversión pura, colectiva y algo absurda, y en la oportunidad de ver cómo un pequeño pueblo valenciano se transforma, durante una hora al año, en un mar de pulpa roja.
+Su atractivo no reside en un espectáculo cultural refinado, sino en la diversión pura, colectiva y algo absurda, además de la oportunidad de ver cómo un pequeño pueblo valenciano se transforma, durante una hora al año, en un mar de pulpa roja.
 
 ## Cuándo se celebra
 
-La edición de 2026 está prevista para el 26 de agosto de 2026, que corresponde al último miércoles de agosto según la tradición, dentro de las Fiestas de Buñol, una semana de celebraciones en honor a San Luis Bertrán y a la Virgen de los Desamparados. La batalla de tomates ocupa una sola mañana y suele comenzar a media mañana, una vez que alguien trepa por un palo enjabonado (el *palo jabón*) para descolgar un jamón fijado en la parte superior, la señal tradicional que da inicio a la lucha.
+La edición de 2026 quedó fijada para el 26 de agosto, el último miércoles de agosto según la tradición, dentro de las Fiestas de Buñol, que duran una semana entera en honor a San Luis Bertrán y a la Virgen de los Desamparados. La batalla de tomates en sí ocupa una sola mañana y suele arrancar a media mañana, una vez que alguien trepa por el palo jabón (una pértiga engrasada) para soltar un jamón fijado en la punta, señal tradicional que marca el inicio de la contienda.
 
-Como las fechas, los horarios y la logística del evento pueden variar, conviene confirmar el programa exacto en la web oficial de La Tomatina o en la oficina de turismo de Buñol antes de reservar el viaje.
+El horario, las horas de inicio y la logística del evento proceden de la web oficial de La Tomatina y de la oficina de turismo de Buñol.
 
 ## Cómo llegar
 
-Buñol se encuentra a unos 40 km al oeste de Valencia y se puede llegar en tren de cercanías (línea conectada con Cercanías/Metrovalencia) desde la Estación del Norte de Valencia, con un trayecto de entre 50 y 60 minutos. El día del festival los trenes circulan con más frecuencia, pero van abarrotados; por eso, quienes quieren hacerse un hueco cerca de la acción suelen llegar a Buñol a media mañana.
+Buñol se encuentra a unos 40 km al oeste de Valencia y se puede llegar en tren de cercanías (una línea conectada con Cercanías/Metrovalencia) desde la Estación del Norte de Valencia, en un trayecto de unos 50-60 minutos. El día del festival los trenes circulan con más frecuencia, pero van extremadamente llenos, por lo que es habitual llegar a Buñol a media mañana si se quiere conseguir un buen sitio cerca de la acción.
 
-Muchos visitantes se alojan en la ciudad de Valencia y acuden a Buñol solo por el día, ya que la oferta de alojamiento del propio pueblo es limitada para la cantidad de gente que recibe. También son habituales los traslados organizados en autobús desde Valencia, a menudo incluidos en el precio de la entrada.
+Muchos visitantes se alojan en la ciudad de Valencia y hacen una excursión de un día, ya que el alojamiento en el propio Buñol es limitado para la cantidad de gente que acude. También es frecuente contratar traslados organizados en autobús desde Valencia, a menudo incluidos en paquetes junto con las entradas del festival.
 
 ## Entradas y qué esperar
 
-Para acceder a la zona donde se lanzan los tomates es obligatorio contar con entrada, ya que el aforo está limitado por motivos de seguridad y control de multitudes: ya no se trata de un evento callejero abierto y sin restricciones. Las entradas se venden a través del canal oficial y suelen agotarse mucho antes de agosto, por lo que no conviene planear el viaje pensando en comprarlas de forma espontánea en la puerta.
+El acceso a la zona donde se lanzan los tomates requiere entrada, y el número de participantes está limitado por motivos de seguridad y control de aforo: ya no se trata de un evento callejero libre y sin restricciones. Las entradas se vendían a través del canal oficial y suelen agotarse con bastante antelación respecto a agosto, así que no conviene planear el viaje pensando en comprarlas de forma espontánea en la puerta.
 
-No hay que fiarse de reventas o canales no oficiales para conocer precios o condiciones de entrada: es mejor consultar directamente la web oficial de La Tomatina para ver las categorías de entrada vigentes, los límites de aforo y los extras incluidos (algunos paquetes incorporan transporte o taquillas).
+Las categorías de entrada, los límites de aforo y los extras incluidos proceden de la web oficial de La Tomatina, no de reventas ni canales no oficiales; algunos paquetes incluyen transporte o taquillas.
 
-Aspectos prácticos que conviene tener en cuenta: hay que llevar ropa y calzado que se esté dispuesto a tirar después, proteger los ojos (las gafas de piscina son algo muy habitual entre los participantes) y contar con que, antes del evento, los comercios y vecinos cubran ventanas y fachadas con plástico. El ácido del tomate puede resultar bastante agresivo para la piel y los ojos a lo largo de la hora que dura la batalla, así que muchos participantes también llevan ropa de recambio y aprovechan las mangueras o duchas que el pueblo instala a lo largo del recorrido para enjuagarse justo después.
+Aspectos prácticos esenciales: los participantes llevan ropa y calzado que están dispuestos a tirar y protegen sus ojos, siendo habitual ver gafas de natación, mientras que los comercios y vecinos del pueblo cubren de antemano ventanas y fachadas con plásticos. El ácido del tomate puede resultar agresivo para la piel y los ojos a lo largo de una hora, por lo que muchos participantes también llevan una muda de ropa y se enjuagan justo después en las mangueras y duchas que el pueblo instala a lo largo del recorrido.
 
 ## Qué ver y hacer más allá de la batalla
 
-La batalla de tomates es breve, pero la semana de fiestas que la rodea es mucho más larga. Las Fiestas de Buñol incluyen fuegos artificiales, desfiles, música en directo y puestos de comida tradicional valenciana tanto antes como después del acto principal. El casco antiguo del pueblo, con sus calles estrechas y el Castillo de Buñol dominando el centro, merece una visita más pausada en un día tranquilo, ya que la propia batalla de tomates deja poco margen para hacer turismo.
+La batalla de tomates es breve, pero la semana de fiestas que la rodea es mucho más larga. Las Fiestas de Buñol incluyen fuegos artificiales, desfiles, música en directo y puestos de comida tradicional valenciana tanto antes como después del evento principal. El casco antiguo del pueblo, con sus callejuelas estrechas y el Castillo de Buñol asomando sobre el centro, merece una visita con más calma en un día tranquilo, ya que la propia batalla de tomates deja poco margen para el turismo.
 
-Quienes se alojen en Valencia pueden combinar la excursión con una visita a la Ciudad de las Artes y las Ciencias o al Mercado Central, dos lugares fáciles de incluir junto con la salida de un día a Buñol.
+Los visitantes alojados en Valencia suelen combinar el viaje con la Ciudad de las Artes y las Ciencias o el Mercado Central, ambos fáciles de encajar junto con la excursión de un día a Buñol.
 
-## Cómo vivirlo como un local
+## Cómo visitarlo como un local
 
-Los vecinos y quienes repiten cada año viven la batalla como una hora intensa y física, no como una sesión de fotos relajada: la mayoría lleva el móvil y la cámara guardados en bolsas impermeables, o directamente los deja en casa, porque nada que no esté protegido sobrevive a la pulpa de tomate. Durante la semana de fiestas, los pequeños puestos de comida suelen funcionar sobre todo en efectivo, aunque en los traslados desde Valencia y en los establecimientos más grandes sí se puede pagar con tarjeta.
+Los vecinos de la zona y quienes repiten experiencia viven la batalla como una hora intensa y física, no como una sesión de fotos relajada: la mayoría guarda teléfonos y cámaras en bolsas impermeables selladas o directamente los deja en casa, porque nada sobrevive a la pulpa sin protección. Durante la semana de fiestas, el pago en los pequeños puestos de comida suele hacerse en efectivo, aunque las tarjetas funcionan bien en los traslados desde Valencia y en los establecimientos más grandes.
 
-El error más habitual entre los visitantes es subestimar la logística: presentarse sin haber comprado la entrada con antelación, sin un plan para volver a Valencia esa misma noche o sin calzado cerrado (las sandalias se pierden enseguida entre el puré de tomate).
+El error más común entre los visitantes es subestimar la logística: presentarse sin entrada comprada de antemano, sin forma de volver a Valencia esa misma tarde, o sin calzado cerrado (las sandalias se pierden rápidamente entre la papilla de tomate).
 
-Para tener más espacio de movimiento conviene situarse en la parte central del recorrido en lugar de junto a los camiones que reparten los tomates, ya que es allí, cerca de la fila de camiones, donde más se aprieta la gente. Cuando termina la hora de batalla, lo habitual es sumarse al enjuague improvisado en las mangueras públicas antes de dirigirse a la estación de tren; esperar demasiado significa volver a casa empapado, pegajoso y en un tren abarrotado.
+Los habituales prefieren situarse en el centro del recorrido en lugar de junto a los camiones que reparten los tomates, ya que así disponen de más espacio para moverse; la aglomeración es más densa cerca de la fila de camiones. Cuando termina la hora, la mayoría se une al enjuague informal en las mangueras públicas antes de dirigirse al tren, porque esperar demasiado significa un viaje de vuelta empapado, pegajoso y abarrotado.

@@ -1,53 +1,55 @@
 ---
 lang: es
 slug: singapore-david-byrne-who-is-the-sky-tour
-srcHash: '4140fec04393'
-title: 'David Byrne: Who Is The Sky? Tour: lo que hay que saber (Singapur)'
-description: La gira "Who Is The Sky?" de David Byrne llega a Singapur el 7 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
-quickAnswer: El 7 de agosto de 2026, David Byrne llevó su gira "Who Is The Sky?" al The Star Theatre, dentro del The Star Performing Arts Centre, en la zona de Sentosa Gateway de Singapur, acompañado de una banda de 13 músicos, cantantes y bailarines. Las entradas salieron a la venta con antelación, y tanto el recinto como el cercano centro comercial VivoCity ofrecían mucho que explorar para quienes llegaran con tiempo de sobra.
+srcHash: '042e6b8b2ba8'
+title: 'David Byrne: Who Is The Sky? Tour: Lo que hay que saber (Singapur)'
+description: 'La gira "Who Is The Sky?" de David Byrne en Singapur, el 7 de agosto de 2026 en The Star Theatre. Lo que se anunció: el espectáculo, el recinto y los alrededores.'
+quickAnswer: La gira "Who Is The Sky?" de David Byrne tenía previsto pasar por The Star Theatre, en The Star Performing Arts Centre, en el Sentosa Gateway de Singapur, el 7 de agosto de 2026, con una banda de 13 músicos, cantantes y bailarines. Las entradas salieron a la venta antes del concierto, y el recinto se encuentra junto al centro comercial VivoCity, con suficientes opciones alrededor como para llenar toda una tarde.
 faq:
-  - q: ¿Cómo se llega al The Star Theatre?
-    a: Hay que tomar el MRT hasta la estación HarbourFront (línea North East, NE1, o línea Circle, CC29); desde allí, el teatro queda a poca distancia a pie, atravesando el HarbourFront Centre y el centro comercial VivoCity. Hay aparcamiento cerca, aunque suele llenarse las noches de espectáculo.
+  - q: ¿Cómo se llega a The Star Theatre?
+    a: Hay que tomar el MRT hasta la estación HarbourFront (Línea North East NE1 o Línea Circle CC29); el teatro queda a un breve paseo, atravesando HarbourFront Centre y el centro comercial VivoCity. Hay aparcamiento disponible cerca, pero puede llenarse las noches de espectáculo.
   - q: ¿Cuánto cuestan las entradas y dónde se compran?
-    a: El precio exacto no se confirmó en esta guía; las categorías de entradas y las fechas de venta estaban disponibles en la web oficial de la gira de David Byrne o en la página de taquilla del The Star Performing Arts Centre, con entradas disponibles a través de canales oficiales o de reventa autorizada.
+    a: Aquí no se recoge el precio exacto. Las categorías de entradas y las fechas de salida a la venta procedían de la web oficial de la gira de David Byrne y de la taquilla de The Star Performing Arts Centre, y también se vendían a través de canales de reventa autorizados.
   - q: ¿A qué hora conviene llegar la noche del concierto?
-    a: Como norma general para este recinto, llegar entre 45 y 60 minutos antes deja margen suficiente para pasar el control de seguridad y encontrar el asiento.
+    a: En este recinto, el público suele reservar entre 45 y 60 minutos antes de que empiece el espectáculo, tiempo que cubre el control de seguridad y la búsqueda del asiento.
   - q: ¿Cuánto dura el espectáculo?
-    a: No se publicó una duración exacta, pero las giras teatrales similares de Byrne (como American Utopia) han rondado normalmente los 100-110 minutos sin telonero; tómese esto como una referencia orientativa, no como algo garantizado.
+    a: No se dio una duración exacta. Las giras teatrales comparables de Byrne, como American Utopia, han rondado habitualmente los 100-110 minutos sin telonero.
   - q: ¿Qué hay cerca para aprovechar la noche?
-    a: El centro comercial VivoCity está justo al lado del recinto y ofrece opciones de restauración y tiendas, y las atracciones de la isla de Sentosa (playas, Universal Studios Singapore, teleférico) quedan a un breve trayecto si se quiere alargar la visita.
+    a: El centro comercial VivoCity está justo al lado del recinto, con restaurantes y tiendas, y las atracciones de la isla de Sentosa (playas, Universal Studios Singapore, el teleférico) quedan a un corto trayecto.
 ---
 
-## Por qué importa este concierto
+## Por qué importa este espectáculo
 
-David Byrne, exlíder de Talking Heads y uno de los artistas más singulares del art-rock, lleva su gira "Who Is The Sky?" a Singapur en apoyo a su reciente álbum del mismo nombre. Byrne se ha ganado la reputación de montar sus conciertos como auténticas producciones teatrales y no como espectáculos de rock convencionales: su gira "American Utopia" (2018-2020), que más tarde se convirtió en película dirigida por Spike Lee y en producción de Broadway, marcó un listón muy alto con coreografías sincronizadas, una movilidad al estilo de banda de marcha y un escenario despojado de cables y amplificadores.
+David Byrne, exlíder de Talking Heads y uno de los artistas más singulares del art-rock, tenía previsto llevar su gira "Who Is The Sky?" a Singapur para presentar su reciente álbum del mismo nombre. Byrne se ha ganado la reputación de montar sus conciertos como auténticas producciones teatrales, en lugar de espectáculos de rock convencionales: su gira "American Utopia" (2018-2020), que más tarde se convirtió en película dirigida por Spike Lee y en producción de Broadway, dejó el listón muy alto con coreografías sincronizadas, una puesta en escena con movilidad al estilo de banda de marcha y un escenario despojado de cables y amplificadores.
 
-La fecha en Singapur continúa esa tradición, con un conjunto en directo de 13 músicos, cantantes y bailarines que acompañan a Byrne sobre el escenario. Puede esperarse una mezcla de material nuevo del álbum "Who Is The Sky?" junto a versiones reelaboradas de clásicos de la época de Talking Heads, todo ello presentado con la precisión visual por la que son conocidos los espectáculos de Byrne.
+La fecha en Singapur seguía esa misma tradición, con un elenco en directo de 13 músicos, cantantes y bailarines acompañando a Byrne sobre el escenario. El programa combinaba material nuevo del álbum "Who Is The Sky?" con versiones reelaboradas de clásicos de la época de Talking Heads, todo presentado con la precisión visual por la que son conocidos los espectáculos de Byrne.
 
 ## El recinto: The Star Theatre
 
-El concierto está previsto en el **The Star Theatre**, la sala principal del The Star Performing Arts Centre, situado en la zona de Sentosa Gateway de Singapur, en el distrito de Vivo City / HarbourFront. Se trata de uno de los teatros construidos expresamente para grandes espectáculos más importantes de Singapur, con capacidad para varios miles de espectadores, y acoge habitualmente giras internacionales, musicales y conciertos de orquesta.
+El concierto estaba previsto en **The Star Theatre**, la sala principal de The Star Performing Arts Centre, en el Sentosa Gateway de Singapur, en la zona de VivoCity / HarbourFront. Se trata de uno de los teatros de mayor envergadura construidos específicamente para espectáculos en Singapur, con capacidad para varios miles de espectadores, y acoge con regularidad giras internacionales, musicales y actuaciones orquestales.
 
-La sala destaca por su disposición escalonada de butacas y sus buenas líneas de visión, algo que encaja bien con un espectáculo construido en torno a la coreografía y el movimiento escénico más que al puro espectáculo de estadio.
+La sala destaca por su disposición de asientos escalonados y sus buenas líneas de visión, algo que se adapta bien a un espectáculo construido en torno a la coreografía y el movimiento escénico, más que al espectáculo de arena puro.
 
 ## Cómo llegar
 
-El The Star Theatre se encuentra justo encima de la **estación de MRT HarbourFront**, servida por la línea North East (NE1) y la línea Circle (CC29): el recinto queda conectado a través de un corto paseo por el HarbourFront Centre y el centro comercial VivoCity, por lo que se llega con facilidad sin necesidad de coche. Quienes conduzcan pueden aparcar en VivoCity o en el HarbourFront Centre, aunque conviene contar con que estos aparcamientos se llenen las noches de evento.
+The Star Theatre se encuentra justo encima de la **estación de MRT HarbourFront**, servida por la Línea North East (NE1) y la Línea Circle (CC29). El recinto está conectado mediante un breve paseo a través de HarbourFront Centre y el centro comercial VivoCity, por lo que resulta fácil llegar sin coche. Quienes conduzcan pueden aparcar en VivoCity o en HarbourFront Centre, aunque las plazas se agotan las noches de espectáculo.
 
-Si se llega en taxi o mediante una aplicación de transporte privado, la zona de recogida y dejada del HarbourFront Centre es el punto de acceso más directo. Dada la popularidad del recinto para conciertos, conviene reservar tiempo de sobra para los controles de seguridad y las colas para dejar bolsos, sobre todo si la sala se llena por completo esa noche.
+Para taxis y aplicaciones de transporte privado, la zona de recogida y entrega de HarbourFront Centre es el punto de acceso más directo. Dado lo concurrido que se pone el recinto durante los conciertos, los controles de seguridad y las colas para dejar bolsos pueden añadir tiempo de espera cuando hay lleno.
 
 ## Qué esperar del espectáculo
 
-Los conciertos en directo de Byrne suelen prescindir de la clásica formación de banda: en sus giras anteriores, los intérpretes han vestido trajes a juego y se han movido en formación coreografiada sobre un escenario desnudo, un planteamiento pensado para que todos los músicos resulten visibles y móviles en lugar de quedar ocultos tras amplificadores y monitores. Dado que aquí se emplea el mismo formato de equipo base (13 músicos, cantantes y bailarines), cabe esperar un lenguaje visual igualmente despojado pero muy coreografiado, que combina arreglos con mucho peso de percusión con una puesta en escena de aire dancístico contemporáneo.
+Los conciertos en directo de Byrne suelen prescindir de la configuración tradicional de banda: en giras anteriores, los intérpretes han vestido trajes iguales y se han movido en formación coreografiada sobre un escenario vacío, un planteamiento pensado para que cada músico sea visible y pueda moverse libremente, en lugar de quedar oculto tras amplificadores y monitores. Aquí se mantuvo el mismo formato de equipo base (13 músicos, cantantes y bailarines), con un lenguaje visual igualmente austero pero minuciosamente coreografiado, que combina arreglos con fuerte presencia de percusión con una puesta en escena de inspiración dancística contemporánea.
 
-No se publican listas de canciones exactas con antelación, así que cualquier "setlist predicho" que circule por internet debe tomarse como especulación y no como un hecho confirmado.
+No se publican listas de canciones exactas con antelación, y las "listas de canciones previstas" que circulan en internet son especulación, no datos confirmados.
 
-## Detalles prácticos que conviene confirmar antes de ir
+## Detalles prácticos
 
-El precio de las entradas, la apertura de puertas y los detalles de las localidades variaban según la categoría de entrada y la plataforma de venta: la página oficial de la gira y el sitio de taquilla del The Star Performing Arts Centre recogían el calendario y los precios confirmados. Dada la demanda histórica que suscitan los conciertos de Byrne, se esperaba que la única fecha en Singapur se agotara con rapidez; para cualquier fecha futura, esos mismos canales oficiales son el lugar donde estar atento.
+Los precios de las entradas, la apertura de puertas y las condiciones de asiento variaban según la categoría de entrada y la plataforma de compra. Las entradas se vendían a través de la página oficial de venta de la gira y de la taquilla de The Star Performing Arts Centre, además de canales de reventa autorizados. Dada la demanda que suelen tener los espectáculos de Byrne, se esperaba que la única fecha en Singapur se agotara rápidamente.
 
 ## Cómo visitarlo como un local
 
-Quienes asisten al The Star Theatre en Singapur suelen llegar con margen suficiente para comer algo en VivoCity antes del concierto, en lugar de hacerlo dentro del recinto: la zona de restauración y los restaurantes de las plantas bajas del centro comercial son la opción más práctica y económica frente a los puestos del propio teatro. La cultura de pago en Singapur es muy poco propensa al efectivo: las tarjetas sin contacto, la tarjeta EZ-Link y las billeteras móviles como PayNow son el método habitual tanto para pagar el billete de MRT como para comprar comida en los puestos o en las tiendas de merchandising, así que no conviene dar por hecho que hará falta dinero en metálico.
+Quienes asisten habitualmente a conciertos en The Star Theatre en Singapur suelen llegar con margen suficiente para comer en VivoCity antes del espectáculo, en lugar de hacerlo en el propio recinto: el patio de comidas y los restaurantes de las plantas bajas del centro comercial resultan mucho más prácticos y económicos que los puestos de comida del recinto. La cultura de pago en Singapur es predominantemente sin efectivo: las tarjetas sin contacto, la EZ-Link y las billeteras móviles como PayNow son el método habitual tanto para los billetes del MRT como para los puestos de comida y los stands de merchandising, y rara vez se necesita dinero en efectivo.
 
-En Singapur no es costumbre dejar propina, y en el recinto tampoco se espera. El código de vestimenta es informal: la humedad tropical de Singapur hace que la ropa ligera sea mucho más habitual que el cuero típico de los conciertos, y como el teatro está climatizado, conviene llevar una prenda ligera de abrigo para el cambio de temperatura. El error más habitual entre los visitantes es subestimar la avalancha de gente que se forma en la estación de MRT HarbourFront justo al terminar el concierto: quienes asisten con regularidad suelen quedarse entre 15 y 20 minutos en VivoCity antes de dirigirse al andén, dejando que pase la primera oleada en lugar de luchar contra la multitud en las salidas.
+Dar propina no es costumbre en Singapur y no se espera en el recinto. El código de vestimenta es informal: la humedad tropical de Singapur hace que la ropa ligera sea mucho más habitual que el cuero típico de los conciertos, y el propio teatro está climatizado, lo que supone un cambio notable respecto a la calle. El error más común entre los visitantes es subestimar la avalancha de gente en la estación de MRT HarbourFront justo después de terminar el espectáculo.
+
+Quienes asisten con regularidad suelen quedarse entre 15 y 20 minutos en VivoCity antes de dirigirse al andén, dejando que pase la primera oleada en lugar de pelear contra la multitud en las salidas.
