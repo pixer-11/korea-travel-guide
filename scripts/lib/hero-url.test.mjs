@@ -1,6 +1,8 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { heroUrlOf, imageKeys, imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './hero-url.mjs';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
 const HERO = 'https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG';
 
@@ -133,4 +135,50 @@ test('heroKeeper: earliest pubDate keeps the photo, then the first slug', () => 
   assert.equal(heroKeeper([kl, bkk]).slug, 'bangkok-post-malone');
   assert.equal(heroKeeper([{ slug: 'b', pubDate: new Date('2026-01-02') }, { slug: 'a', pubDate: '2026-01-03' }]).slug, 'b');
   assert.equal(heroKeeper([]), null);
+});
+
+// 2026-09-03 3차: cfc1a051 said "every picker goes through isUsedImage", but
+// the DAILY PUBLISH path (generate.mjs) and six photo scripts still compared
+// exact strings — so a Commons file already worn at another width still looked
+// free exactly where new posts are made. A rule nobody can re-break by hand: a
+// used-image set is only ever read or written through this module. The one
+// legal exception is a namespaced key written as a template literal
+// (`unsplash:${id}` in images.mjs), which is not a URL at all.
+test('no script compares a used-image set by raw string', () => {
+  const EOL = String.fromCharCode(10);
+  // Two `used` sets that hold no image URL at all: newsletter-content keys on
+  // post slugs, refresh-images on Unsplash photo ids within a single run.
+  const NOT_IMAGE_SETS = ['newsletter-content.mjs', 'refresh-images.mjs'];
+  const files = [];
+  const walk = (dir) => {
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      const p = join(dir, e.name);
+      if (e.isDirectory()) walk(p);
+      else if (e.name.endsWith('.mjs') && !e.name.endsWith('.test.mjs') && e.name !== 'hero-url.mjs') files.push(p);
+    }
+  };
+  walk('scripts');
+
+  const offenders = [];
+  for (const p of files) {
+    if (NOT_IMAGE_SETS.some((x) => p.endsWith(x))) continue;
+    const src = readFileSync(p, 'utf8');
+    for (const name of ['used', 'usedUrls', 'USED_IMAGE_URLS']) {
+      for (const method of ['has', 'add']) {
+        const needle = name + '.' + method + '(';
+        let i = src.indexOf(needle);
+        while (i !== -1) {
+          const before = i === 0 ? '' : src[i - 1];
+          const arg = src[i + needle.length];
+          // a longer identifier ending in the same name is a different set
+          const own = !/[A-Za-z0-9_$.]/.test(before);
+          if (own && arg !== String.fromCharCode(96)) {
+            offenders.push(`${p}: ${src.slice(i, i + 46).split(EOL)[0]}`);
+          }
+          i = src.indexOf(needle, i + 1);
+        }
+      }
+    }
+  }
+  assert.deepEqual(offenders, [], 'use isUsedImage / markUsedImage instead — ' + offenders.join(' | '));
 });

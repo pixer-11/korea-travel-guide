@@ -36,6 +36,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { resolveHero } from './lib/images.mjs';
+import { markUsedImage } from './lib/hero-url.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = join(__dirname, '..', 'src', 'content', 'posts');
@@ -119,12 +120,12 @@ async function main() {
 
     if (img.url === oldUrl) {
       same++;
-      used.add(img.url);
+      markUsedImage(used, img.url);
       console.log(`  =  SAME  ${label} [${img.license}]`);
       continue;
     }
 
-    used.add(img.url);
+    markUsedImage(used, img.url);
     if (!/\nheroImage:\n/.test(raw)) {
       console.log(`  ?  ${file} — no heroImage block to replace, skipped`);
       continue;

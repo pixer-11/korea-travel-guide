@@ -29,6 +29,7 @@ import { commonsBest, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
+import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { sendTelegram } from './lib/telegram.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -53,7 +54,7 @@ const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
 const candidates = [];
 for (const f of files) {
   const raw = await readFile(join(POSTS_DIR, f), 'utf8');
-  for (const m of raw.matchAll(/^\s+(?:- )?url:\s*"?([^"\n]+?)"?\s*$/gm)) usedUrls.add(m[1].trim());
+  for (const m of raw.matchAll(/^\s+(?:- )?url:\s*"?([^"\n]+?)"?\s*$/gm)) markUsedImage(usedUrls, m[1].trim());
   let data;
   try { ({ data } = matter(raw)); } catch { continue; }
   if (data.draft === true || !VENUE.has(data.category)) continue;
@@ -110,7 +111,7 @@ for (const { f, data } of candidates) {
 
   let picked = null;
   for (const c of cands) {
-    if (usedUrls.has(c.url)) continue;
+    if (isUsedImage(usedUrls, c.url)) continue;
     let v;
     try {
       v = await verifyGalleryImage({
@@ -151,7 +152,7 @@ for (const { f, data } of candidates) {
   // Recorded only after the file actually changed — a splice failure above
   // must read as "not added" so the next run retries it properly.
   state[slug].added = true;
-  usedUrls.add(picked.entry.url);
+  markUsedImage(usedUrls, picked.entry.url);
   added++;
   wins.push(`  + ${slug} ← ${picked.reason.slice(0, 60)}`);
   console.log(`  🖼  ${slug}: ${picked.reason.slice(0, 70)}`);

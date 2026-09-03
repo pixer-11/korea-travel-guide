@@ -29,6 +29,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { resolveHero, unsplashNum, eventTopic } from './lib/images.mjs';
+import { markUsedImage, unmarkUsedImage } from './lib/hero-url.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
@@ -51,9 +52,7 @@ for (const f of files) {
 const used = new Set();
 for (const p of posts) {
   if (!p.url || p.url.includes('placeholder')) continue;
-  used.add(p.url);
-  const n = unsplashNum(p.url);
-  if (n) used.add(n);
+  markUsedImage(used, p.url);
 }
 
 // Targets: every event post + non-event placeholders + non-event dup extras.
@@ -79,7 +78,7 @@ const targets = [...targetSet.values()];
 console.log(`${targets.length} target(s) (${APPLY ? 'APPLY' : 'dry-run'})\n`);
 let done = 0, failed = 0;
 for (const p of targets) {
-  if (p.url) { used.delete(p.url); const n = unsplashNum(p.url); if (n) used.delete(n); }
+  if (p.url) unmarkUsedImage(used, p.url);
   const isEvent = p.category === 'event';
   const ev = isEvent ? eventName(p.title) : null;
   const hero = await resolveHero({

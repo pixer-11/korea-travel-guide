@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import { searchPlaces, getPlaceById } from './lib/places.mjs';
 import { selfHostPlacePhoto } from './lib/images.mjs';
+import { heroUrlOf, markUsedImage } from './lib/hero-url.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -39,8 +40,7 @@ async function usedUrls() {
   const urls = new Set();
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
-    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/heroImage:\r?\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
-    if (m) urls.add(m[1].trim());
+    markUsedImage(urls, heroUrlOf(await readFile(join(POSTS_DIR, f), 'utf8')));
   }
   return urls;
 }
@@ -84,7 +84,7 @@ for (const slug of slugs) {
   const next = src.replace(/heroImage:\r?\n {2}url:.*\r?\n {2}credit:.*\r?\n {2}license:.*\r?\n {2}source:.*/, block);
   if (next === src) { console.log(`  ⚠️  no heroImage block matched: ${slug}`); skipped++; continue; }
   if (APPLY) await writeFile(path, next, 'utf8');
-  used.add(hosted.url);
+  markUsedImage(used, hosted.url);
   fixed++;
   console.log(`  ✅ ${slug} → ${hosted.url}  (matched: ${place.displayName?.text || place.name || '?'})`);
 }

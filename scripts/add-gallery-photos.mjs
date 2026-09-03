@@ -26,6 +26,7 @@ import yaml from 'js-yaml';
 import { commonsBest, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
+import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 const LIMIT = Number(process.env.LIMIT || 20);
@@ -66,7 +67,7 @@ for (const f of files) {
   let m;
   while ((m = re.exec(raw)) !== null) {
     const u = m[1];
-    if (u.startsWith('http') || u.startsWith('/')) usedUrls.add(u);
+    if (u.startsWith('http') || u.startsWith('/')) markUsedImage(usedUrls, u);
   }
 }
 
@@ -130,7 +131,7 @@ for (const file of files) {
   // the hero, so a rejection is a reason to try the next one, not to give up.
   let cand = null, lastReason = '', okReason = '';
   for (const c of candidates) {
-    if (usedUrls.has(c.url)) continue;   // already the hero or gallery of another post
+    if (isUsedImage(usedUrls, c.url)) continue;   // already the hero or gallery of another post
     const check = await verifyGalleryImage({
       url: c.url,
       heroUrl,
@@ -160,7 +161,7 @@ for (const file of files) {
   }
 
   const entry = { url: cand.url, credit: cand.credit, license: cand.license || 'wikimedia', source: cand.source };
-  usedUrls.add(cand.url);
+  markUsedImage(usedUrls, cand.url);
   if (!DRY_RUN) {
     const out = withGallery(post.raw, [entry]);
     if (!out) { process.stdout.write('  → ⚠️ frontmatter 형식 불명 — 건너뜀'); continue; }

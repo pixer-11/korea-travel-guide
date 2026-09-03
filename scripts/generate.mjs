@@ -28,6 +28,7 @@ import { slugify } from './lib/slugify.mjs';
 import { topicKey } from './lib/topic-key.mjs';
 import { loadYield, saveYield, recordOutcome, orderByYield, describeYield } from './lib/topic-yield.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
+import { heroUrlOf, isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
 import { exitIfSlotServed } from './lib/slot-served.mjs';
@@ -115,7 +116,7 @@ async function retryInBodyPhotos() {
     const { cands, why } = await inBodyCandidates(place, target, heroUrl);
     let picked = null;
     for (const c of cands) {
-      if (USED_IMAGE_URLS.has(c.url)) continue;
+      if (isUsedImage(USED_IMAGE_URLS, c.url)) continue;
       let v;
       try {
         v = await verifyGalleryImage({ url: c.url, heroUrl, name: place.name, category: target.category, region: target.region, country: target.country });
@@ -137,7 +138,7 @@ async function retryInBodyPhotos() {
     const out = raw.replace(/^gallery: \[\]\s*$/m, block);
     if (out === raw) { console.log(`  ⚠ ${slug}: no gallery anchor — left untouched`); continue; }
     await writeFile(p, out, 'utf8');
-    USED_IMAGE_URLS.add(entry.url);
+    markUsedImage(USED_IMAGE_URLS, entry.url);
     recovered++;
     console.log(`  🖼  ${slug}: recovered on second pass — ${String(picked.reason).slice(0, 70)}`);
   }
@@ -806,21 +807,21 @@ async function loadUsedTopicKeys() {
   return keys;
 }
 
-// Every hero image URL already published, so no two posts share the same photo.
-// (The first `  url:` in a post's frontmatter is always the heroImage url —
-// gallery items are indented under `  - url:` and don't match this pattern.)
+// Every hero photo already published, so no two posts share the same one.
+//
+// 2026-09-03: this read the hero with the first-`  url:` regex that hero-url.mjs
+// was written to replace — it captures the literal ">-" of a folded scalar and
+// picks officialLink.url when field order puts it first (~113 heroes invisible
+// to it), and it keyed on the exact string, so the same Commons file at another
+// width or host looked unclaimed. cfc1a051 routed every other picker through
+// imageKeys/isUsedImage and missed the DAILY PUBLISH path — the one that creates
+// the twins. The generator now reads the hero the way the audit does and
+// reserves it under every spelling.
 async function loadUsedImageUrls() {
-  const { unsplashNum } = await import('./lib/images.mjs');
   const urls = new Set();
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
-    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
-    if (m) {
-      const u = m[1].trim();
-      urls.add(u);
-      const n = unsplashNum(u); // also key on photo-id so ?param variants can't dupe
-      if (n) urls.add(n);
-    }
+    markUsedImage(urls, heroUrlOf(await readFile(join(POSTS_DIR, f), 'utf8')));
   }
   return urls;
 }
@@ -959,7 +960,7 @@ async function buildLivePost(target) {
         name: cand.name, lat: cand.lat, lng: cand.lng,
         near: `${target.region}, ${target.country}`,
       })) {
-        if (USED_IMAGE_URLS.has(alt.url)) continue;
+        if (isUsedImage(USED_IMAGE_URLS, alt.url)) continue;
         h = alt;
         break;
       }
@@ -1021,7 +1022,7 @@ async function buildLivePost(target) {
     // thing that ever found out the photo existed (owner, 2026-08-19).
     const { cands, why } = await inBodyCandidates(place, target, heroUrl);
     for (const c of cands) {
-      if (USED_IMAGE_URLS.has(c.url)) { why.push(`${c.license || 'cand'}: already used on another post`); continue; }
+      if (isUsedImage(USED_IMAGE_URLS, c.url)) { why.push(`${c.license || 'cand'}: already used on another post`); continue; }
       let v;
       try {
         v = await verifyGalleryImage({
@@ -1034,7 +1035,7 @@ async function buildLivePost(target) {
       const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
       if (isImageAllowed(entry)) {
         gallery.push(entry);
-        USED_IMAGE_URLS.add(c.url);
+        markUsedImage(USED_IMAGE_URLS, c.url);
         console.log(`  \u{1F5BC}  in-body photo: ${v.reason}`);
       } else why.push(`${c.license || 'cand'}: blocked by guardrails`);
       break;

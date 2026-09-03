@@ -24,6 +24,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { resolveHero } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
+import { heroUrlOf, markUsedImage } from './lib/hero-url.mjs';
 
 const POSTS_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
 
@@ -37,8 +38,8 @@ async function usedUrls() {
   const urls = new Set();
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
-    const m = (await readFile(join(POSTS_DIR, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
-    if (m && !m[1].includes('placeholder')) urls.add(m[1].trim());
+    const u = heroUrlOf(await readFile(join(POSTS_DIR, f), 'utf8'));
+    if (u && !u.includes('placeholder')) markUsedImage(urls, u);
   }
   return urls;
 }
@@ -71,7 +72,7 @@ for (const f of (await readdir(POSTS_DIR)).filter((x) => x.endsWith('.md'))) {
   const next = src.replace(/heroImage:\r?\n {2}url:.*\r?\n {2}credit:.*\r?\n {2}license:.*\r?\n {2}source:.*/, block);
   if (next === src) { console.log(`  ⚠️  no heroImage block matched: ${f}`); failed++; continue; }
   await writeFile(path, next, 'utf8');
-  used.add(hero.url);
+  markUsedImage(used, hero.url);
   fixed++;
   console.log(`  ✅ ${f} → ${hero.license}: ${hero.url.slice(0, 72)}`);
 }

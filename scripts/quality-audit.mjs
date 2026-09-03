@@ -24,6 +24,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlaceById } from './lib/places.mjs';
 import { selfHostPlacePhoto } from './lib/images.mjs';
+import { heroUrlOf, markUsedImage } from './lib/hero-url.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
@@ -54,8 +55,7 @@ const heroUrl = (src) =>
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
 const used = new Set();
 for (const f of files) {
-  const u = heroUrl(await readFile(join(DIR, f), 'utf8'));
-  if (u) used.add(u);
+  markUsedImage(used, heroUrlOf(await readFile(join(DIR, f), 'utf8')));
 }
 
 // Tried-and-unfixable memory. 15 non-Latin addresses were re-fetched EVERY

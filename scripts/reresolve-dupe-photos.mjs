@@ -24,6 +24,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { resolveHero } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
+import { markUsedImage } from './lib/hero-url.mjs';
 
 const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
 const TARGETS = ['dubai-nobu-one-za-abeel', 'kampong-glam-kampong-glam-cafe'];
@@ -37,7 +38,7 @@ const used = new Set();
 for (const file of (await readdir(DIR)).filter((x) => x.endsWith('.md'))) {
   if (TARGETS.includes(file.replace(/\.md$/, ''))) continue;
   const u = heroUrl(await readFile(join(DIR, file), 'utf8'));
-  if (u) { used.add(u); const id = unsplashId(u); if (id) used.add(`unsplash:${id}`); }
+  if (u) { markUsedImage(used, u); const id = unsplashId(u); if (id) used.add(`unsplash:${id}`); }
 }
 
 for (const slug of TARGETS) {
@@ -57,6 +58,6 @@ for (const slug of TARGETS) {
   const next = src.replace(/heroImage:\r?\n {2}url:.*\r?\n {2}credit:.*\r?\n {2}license:.*\r?\n {2}source:.*/, block);
   if (next === src) { console.log(`  ⚠️ no heroImage block: ${slug}`); continue; }
   await writeFile(p, next, 'utf8');
-  const id = unsplashId(hero.url); if (id) used.add(`unsplash:${id}`); used.add(hero.url);
+  const id = unsplashId(hero.url); if (id) used.add(`unsplash:${id}`); markUsedImage(used, hero.url);
   console.log(`  ✅ ${slug} → ${hero.license}: ${hero.url.slice(0, 66)}`);
 }
