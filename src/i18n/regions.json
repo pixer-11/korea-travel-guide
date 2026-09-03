@@ -8465,5 +8465,81 @@
       "getting": "班伦本地的简易机场只是一条废弃的碎石跑道，早已没有定期航班，当地也没有铁路或运营中的机场。旅客通常从区域枢纽金边搭乘长途巴士或小巴陆路前往，车程视运营商和路况而定，大约需要7到11小时。也有部分游客选择经由上丁（Stung Treng）或桔井（Kratie）中转，或是从越南中部高原陆路入境，但从金边出发的巴士路线依然是最常见、最可靠的方式。",
       "days": "建议安排约3到4天：这样才有足够时间在耶浪湖（Yeak Laom）火山湖畔畅游，走访附近的瀑布和少数民族村落，还能在踏上归途前挤出时间去维拉丘国家公园做一趟短途徒步。"
     }
+  },
+  "Civic District": {
+    "en": {
+      "blurb": "Singapore's Civic District is the compact colonial core where the British administration once governed the island: grand institutional buildings, churches and museums sit within walking distance of the Padang and the Singapore River. It is dense with heritage architecture yet still fully wired into the modern city, making it as much a working transit hub as an open-air history lesson.",
+      "getting": "Most travellers arrive via Changi Airport (SIN) and reach the district by MRT, changing at Tanah Merah onto the East-West Line before continuing to City Hall station, an interchange between the North-South and East-West Lines right in the district's centre; the trip takes roughly ~35 to 40 minutes. From City Hall or the neighbouring Raffles Place station, the main sights, including the Padang, the National Gallery and the riverside museums, are within easy walking distance.",
+      "days": "Allow ~1 to 2 days to cover the district's main museums, colonial landmarks and riverside walks at a comfortable pace."
+    },
+    "ko": {
+      "blurb": "싱가포르의 시빅 디스트릭트(Civic District)는 영국 식민 정부가 한때 섬 전체를 다스렸던 아담한 옛 행정 중심지다. 웅장한 관공서 건물과 교회, 박물관들이 파당(Padang)과 싱가포르강에서 걸어갈 수 있는 거리에 모여 있다. 유서 깊은 건축물들이 빼곡히 들어차 있으면서도 현대 도시의 동선과 완벽하게 연결되어 있어, 야외 역사 수업이자 실질적인 교통 허브 역할을 동시에 해낸다.",
+      "getting": "대부분의 여행자는 창이 공항(SIN)을 통해 입국한 뒤 MRT를 이용해 이 지역에 도착한다. 타나 메라(Tanah Merah)역에서 이스트-웨스트 라인으로 환승한 후 시티홀(City Hall)역까지 가면 되는데, 이곳은 노스-사우스 라인과 이스트-웨스트 라인이 만나는 환승역이자 시빅 디스트릭트 한복판에 위치해 있다. 소요 시간은 대략 35~40분 정도다. 시티홀역이나 인근의 래플스 플레이스(Raffles Place)역에서 내리면 파당, 내셔널 갤러리, 강변 박물관들을 비롯한 주요 명소들을 도보로 편하게 둘러볼 수 있다.",
+      "days": "주요 박물관과 식민지 시대 랜드마크, 강변 산책로까지 여유롭게 둘러보려면 1~2일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "シンガポールのシビック・ディストリクトは、かつて英国統治時代の行政の中心地だったコンパクトな旧市街地区です。荘厳な官庁建築や教会、博物館が、パダンやシンガポール川から徒歩圏内に軒を連ねています。歴史的建造物が密集する一方で、現代都市の交通網ともしっかりつながっており、屋外の歴史博物館であると同時に、現役の交通ハブとしての顔も持ち合わせています。",
+      "getting": "多くの旅行者はチャンギ国際空港(SIN)から到着し、MRTを利用してこの地区へ向かいます。タナメラ駅でイースト・ウエスト線に乗り換え、そのままシティホール駅まで進みます。シティホール駅はノース・サウス線とイースト・ウエスト線の乗換駅で、地区の中心部に位置しており、所要時間はおよそ35~40分です。シティホール駅、あるいは隣接するラッフルズプレイス駅からは、パダンやナショナル・ギャラリー、川沿いの博物館群といった主要な見どころまで、徒歩で気軽にアクセスできます。",
+      "days": "主要な博物館や植民地時代の名所、川沿いの散策路をゆったりと巡るには、1~2日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "El Distrito Cívico de Singapur es el compacto núcleo colonial desde donde la administración británica gobernó antaño la isla: majestuosos edificios institucionales, iglesias y museos se encuentran a poca distancia a pie del Padang y del río Singapur. Es una zona densa en arquitectura patrimonial, pero al mismo tiempo plenamente integrada en la ciudad moderna, lo que la convierte tanto en un activo nudo de transporte como en una lección de historia al aire libre.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Changi (SIN) y accede al distrito en MRT, haciendo un cambio en Tanah Merah hacia la línea East-West antes de continuar hasta la estación City Hall, un intercambiador entre las líneas North-South y East-West situado justo en el centro del distrito; el trayecto dura aproximadamente entre 35 y 40 minutos. Desde City Hall o la vecina estación de Raffles Place, los principales atractivos, entre ellos el Padang, la National Gallery y los museos junto al río, están a poca distancia a pie.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer con calma los principales museos, los hitos coloniales y los paseos junto al río del distrito."
+    },
+    "zh": {
+      "blurb": "新加坡的市政区（Civic District）是当年英国殖民政府统治全岛的紧凑核心地带：气派的政府建筑、教堂和博物馆都聚集在此，步行即可到达大草场（Padang）和新加坡河畔。这里遗产建筑云集，却又与现代都市的脉搏紧密相连，既是一座活生生的交通枢纽，也是一部露天的历史教科书。",
+      "getting": "大多数游客从樟宜机场（SIN）出发，乘坐地铁前往市政区：先搭乘东西线，在丹那美拉（Tanah Merah）换乘，之后继续前往政府大厦（City Hall）站——这里是南北线与东西线的换乘站，正好位于市政区中心，全程大约需要35到40分钟。从政府大厦站或邻近的莱佛士坊（Raffles Place）站出发，包括大草场、国家美术馆和河畔各大博物馆等主要景点，都在步行可达的范围内。",
+      "days": "建议预留1到2天时间，以轻松从容的节奏游览市政区内的主要博物馆、殖民地时期地标建筑以及新加坡河畔风光。"
+    }
+  },
+  "Saint-Denis": {
+    "en": {
+      "blurb": "Just north of central Paris, Saint-Denis is home to the Basilica of Saint-Denis, the Gothic royal necropolis where nearly every French monarch from the Middle Ages onward was laid to rest, and to the Stade de France, the national stadium that has hosted World Cup and Olympic finals. It is a working suburb as much as a monument town, dense, multicultural and industrial in parts, with royal history sitting a short walk from housing blocks and markets.",
+      "getting": "Saint-Denis is reached directly from central Paris via Paris Métro Line 13 or the RER D and RER B lines, with Charles de Gaulle airport connected to the area's La Plaine Stade de France station by a direct RER B service in around ~25 to 30 minutes. Travellers arriving from other airports typically continue by train into central Paris first, then take the RER or métro north to Saint-Denis.",
+      "days": "Plan on ~1 day, enough time for a half day at the Basilica and old town centre plus a stadium visit or match if timed right, since Saint-Denis works well as a half-day or full-day add-on from Paris rather than a multi-night base."
+    },
+    "ko": {
+      "blurb": "파리 중심부에서 북쪽으로 조금만 가면 나오는 생드니(Saint-Denis)는 중세 이후 거의 모든 프랑스 군주가 안식을 취한 고딕 양식의 왕실 묘지, 생드니 대성당(Basilica of Saint-Denis)이 있는 곳이자, 월드컵과 올림픽 결승전이 열렸던 국가대표 경기장 스타드 드 프랑스(Stade de France)가 자리한 곳이다. 이곳은 기념비적인 도시라기보다는 실제로 생활이 이루어지는 서민 동네에 가깝다. 인구가 밀집해 있고 다문화적이며 곳곳에 공업 지역이 섞여 있어, 왕실의 유서 깊은 역사가 아파트 단지와 시장에서 걸어서 몇 분 거리에 공존한다.",
+      "getting": "생드니는 파리 중심부에서 지하철 13호선이나 RER D선, RER B선을 이용해 곧바로 갈 수 있다. 샤를 드골 공항(Charles de Gaulle airport)에서는 RER B선을 타면 약 25~30분 만에 이 지역의 라 플렌 스타드 드 프랑스(La Plaine Stade de France) 역까지 직행으로 연결된다. 다른 공항으로 입국하는 여행객이라면 보통 먼저 기차로 파리 중심부까지 이동한 뒤, RER이나 지하철을 타고 북쪽으로 올라가 생드니로 향하는 경우가 많다.",
+      "days": "하루 정도면 충분하다. 오전이나 오후 반나절을 대성당과 구시가지 구경에 쓰고, 시간이 맞으면 경기장 투어나 경기 관람까지 더할 수 있다. 생드니는 여러 날 머무를 숙박 거점으로 삼기보다는, 파리에서 반나절이나 하루짜리로 다녀오는 근교 여행지로 훨씬 잘 어울린다."
+    },
+    "es": {
+      "blurb": "Justo al norte del centro de París, Saint-Denis alberga la Basílica de Saint-Denis, la necrópolis real gótica donde descansan casi todos los monarcas franceses desde la Edad Media, así como el Stade de France, el estadio nacional que ha sido sede de finales de Copa del Mundo y de los Juegos Olímpicos. Es tanto un suburbio obrero como una ciudad monumental: densa, multicultural y con zonas industriales, donde la historia real convive a pocos pasos de bloques de viviendas y mercados populares.",
+      "getting": "Se llega a Saint-Denis directamente desde el centro de París mediante la Línea 13 del Metro de París o las líneas RER D y RER B, y el aeropuerto Charles de Gaulle está conectado con la estación de La Plaine Stade de France mediante un servicio directo de RER B en unos 25 a 30 minutos aproximadamente. Quienes llegan desde otros aeropuertos suelen dirigirse primero al centro de París en tren y luego tomar el RER o el metro hacia el norte para llegar a Saint-Denis.",
+      "days": "Calcula alrededor de 1 día, tiempo suficiente para dedicar medio día a la Basílica y al casco antiguo, además de visitar el estadio o asistir a un partido si coincide con el horario, ya que Saint-Denis funciona muy bien como excursión de medio día o de un día completo desde París, más que como base para pasar varias noches."
+    },
+    "zh": {
+      "blurb": "圣但尼位于巴黎市中心以北,是圣但尼大教堂的所在地——这座哥特式皇家陵墓自中世纪起便安葬着几乎每一位法国君主;同时,这里也坐落着法兰西体育场,这座国家体育场曾举办过世界杯和奥运会决赛。圣但尼与其说是一座纪念碑之城,不如说是一个充满生活气息的近郊城区:人口稠密、多元文化交融,部分区域带有工业色彩,皇家历史遗迹与住宅楼群、市集近在咫尺,步行可达。",
+      "getting": "从巴黎市中心可乘坐地铁13号线,或RER D线、RER B线直达圣但尼。戴高乐机场也有RER B线直达该地区的法兰西体育场-拉普莱讷站(La Plaine Stade de France),车程约25至30分钟。若从其他机场抵达,通常需先乘火车进入巴黎市区,再转乘RER或地铁北上前往圣但尼。",
+      "days": "建议安排约1天时间即可:半天用于游览大教堂和老城区,再加上参观体育场或观看一场比赛(如果时间凑巧的话)。圣但尼更适合作为巴黎行程中的半日游或一日游延伸,而非多晚驻留的旅行基地。"
+    }
+  },
+  "Tangerang": {
+    "en": {
+      "blurb": "Tangerang is best known as the doorstep to Indonesia's busiest airport, yet beyond the runways it is a dense, fast growing satellite city of malls, factories and a historic Chinese quarter around Pasar Lama. Wedged just west of Jakarta on the island of Java, it blurs into the capital's sprawl while remaining Banten province's largest and most industrial city.",
+      "getting": "Almost every visitor arrives via Soekarno-Hatta International Airport (CGK), Indonesia's main international gateway, which sits within Tangerang's own boundaries. From central Jakarta, the city is also reachable by commuter rail on the Tangerang Line, which runs to Tangerang station, or by road links from the capital's western districts.",
+      "days": "A single day covers Tangerang's old town, riverside sights and malls, making it an easy stopover before or after a flight rather than a multi-day base."
+    },
+    "ko": {
+      "blurb": "탕그랑은 인도네시아에서 가장 분주한 공항의 관문으로 가장 잘 알려져 있지만, 활주로 너머로는 쇼핑몰과 공장, 그리고 파사르 라마(Pasar Lama) 주변의 역사적인 중국인 거리로 이루어진 밀집되고 빠르게 성장하는 위성도시이기도 하다. 자바 섬에 위치한 자카르타 바로 서쪽에 자리해 수도의 확장된 도시권과 경계가 모호할 정도로 이어져 있지만, 여전히 반텐(Banten) 주에서 가장 크고 산업화된 도시로 남아 있다.",
+      "getting": "거의 모든 방문객은 인도네시아의 주요 국제 관문인 수카르노-하타 국제공항(CGK)을 통해 도착하는데, 이 공항은 탕그랑 시 경계 안에 자리하고 있다. 자카르타 중심부에서는 탕그랑 역까지 운행하는 통근열차 탕그랑 노선(Tangerang Line)을 이용하거나, 수도 서부 지역에서 이어지는 도로를 통해서도 이 도시에 갈 수 있다.",
+      "days": "탕그랑의 구시가지와 강변 명소, 쇼핑몰은 하루 만에 둘러볼 수 있어, 여러 날 머무는 여행지라기보다는 비행 전후에 들르기 좋은 손쉬운 경유지에 가깝다."
+    },
+    "ja": {
+      "blurb": "タンゲランは、インドネシアで最も利用者数の多い空港の玄関口として知られていますが、滑走路の外に目を向けると、モールや工場が立ち並び、パサール・ラマ周辺には歴史ある中華街も残る、密集した急成長中の衛星都市の姿が見えてきます。ジャワ島でジャカルタのすぐ西に位置し、首都の市街地と一体化しつつも、バンテン州最大かつ最も工業化が進んだ都市であり続けています。",
+      "getting": "訪れる人のほとんどは、タンゲラン市内に位置するインドネシア最大の国際玄関口、スカルノ・ハッタ国際空港(CGK)から入ります。ジャカルタ中心部からは、タンゲラン駅まで通じる近郊鉄道「タンゲラン線」でもアクセスでき、また首都西部の地区からは道路でも行き来できます。",
+      "days": "タンゲランの旧市街、川沿いの見どころ、モールを回るなら1日あれば十分で、数日滞在する拠点というよりは、フライトの前後に立ち寄るのにぴったりの街です。"
+    },
+    "es": {
+      "blurb": "Tangerang es conocida sobre todo como la puerta de entrada al aeropuerto más concurrido de Indonesia, pero más allá de las pistas es una ciudad satélite densa y de rápido crecimiento, con centros comerciales, fábricas y un histórico barrio chino en torno a Pasar Lama. Encajada justo al oeste de Yakarta, en la isla de Java, se funde con la expansión urbana de la capital, aunque sigue siendo la ciudad más grande e industrial de la provincia de Banten.",
+      "getting": "Casi todos los visitantes llegan a través del Aeropuerto Internacional Soekarno-Hatta (CGK), la principal puerta de entrada internacional de Indonesia, que se encuentra dentro de los propios límites de Tangerang. Desde el centro de Yakarta, la ciudad también es accesible mediante el tren de cercanías de la Línea Tangerang, que llega hasta la estación de Tangerang, o por carretera desde los distritos occidentales de la capital.",
+      "days": "Con un solo día basta para recorrer el casco antiguo de Tangerang, sus paseos junto al río y sus centros comerciales, lo que la convierte en una parada fácil antes o después de un vuelo, más que en una base para varios días."
+    },
+    "zh": {
+      "blurb": "丹格朗最广为人知的身份,是印尼最繁忙机场的门户所在地。然而在跑道之外,这里其实是一座密集且快速发展的卫星城市,遍布商场与工厂,还坐拥老巴刹(Pasar Lama)一带历史悠久的华人街区。丹格朗紧邻雅加达西侧,坐落于爪哇岛上,与首都的城市扩张早已连成一片,但它依然是万丹省规模最大、工业最发达的城市。",
+      "getting": "几乎所有游客都会经苏加诺-哈达国际机场(CGK)抵达,这里是印尼主要的国际门户,而机场本身就位于丹格朗境内。从雅加达市中心出发,也可以乘坐通勤铁路丹格朗线(Tangerang Line)直达丹格朗车站,或经首都西部地区的公路前往。",
+      "days": "一天时间足以游览丹格朗的老城区、沿河景点和各大商场,使其更适合作为航班前后的短暂停留地,而非停留数日的旅行据点。"
+    }
   }
 }

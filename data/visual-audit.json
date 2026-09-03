@@ -16290,5 +16290,41 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Portrait of performer plausibly matching event act",
     "at": "2026-09-03T05:54:19.205Z"
+  },
+  "phuket-wat-chalong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Phuket_Thailand_Wat-Chalong-01.jpg/3840px-Phuket_Thailand_Wat-Chalong-01.jpg": {
+    "slug": "phuket-wat-chalong",
+    "verdict": "MATCH",
+    "reason": "publish gate: Thai temple exterior matching Wat Chalong architecture",
+    "at": "2026-09-03T10:37:41.978Z"
+  },
+  "chiayi-southern-branch-of-the-national-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/1920px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg": {
+    "slug": "chiayi-southern-branch-of-the-national-palace-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum building with bridge, matches venue location",
+    "at": "2026-09-03T10:38:34.157Z"
+  },
+  "sheung-wan-liang-yi-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LiangYi-Exterior.jpg/1920px-LiangYi-Exterior.jpg": {
+    "slug": "sheung-wan-liang-yi-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building shot matches Liang Yi Museum location, Hong Kong",
+    "at": "2026-09-03T10:39:14.161Z"
+  },
+  "phuket-sirinat-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg/1920px-Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg": {
+    "slug": "phuket-sirinat-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Beach and sea view representative of national park coastline",
+    "at": "2026-09-03T10:40:08.977Z"
+  },
+  "chiayi-chiayi-cheng-huang-temple\u0001https://upload.wikimedia.org/wikipedia/commons/b/bf/Chiayi_Cheng_Huang_tempel.jpg": {
+    "slug": "chiayi-chiayi-cheng-huang-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Temple facade matches Chiayi Cheng Huang Temple exterior",
+    "at": "2026-09-03T10:41:00.537Z"
+  },
+  "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg/3840px-Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg": {
+    "slug": "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial coastal karst limestone scenery matches national park locale",
+    "at": "2026-09-03T10:55:38.569Z"
   }
 }

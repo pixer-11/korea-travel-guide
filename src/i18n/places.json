@@ -407,6 +407,12 @@
     "es": "Cinque Terre",
     "zh": "五渔村"
   },
+  "Civic District": {
+    "ko": "시빅 디스트릭트",
+    "ja": "シビック・ディストリクト",
+    "es": "Civic District",
+    "zh": "市政区"
+  },
   "Clarke Quay": {
     "ko": "클락 키",
     "ja": "クラークキー",
@@ -1157,11 +1163,23 @@
     "es": "Mandalika",
     "zh": "曼达利卡"
   },
+  "Mandaluyong": {
+    "ko": "만달루용",
+    "ja": "マンダルヨン",
+    "es": "Mandaluyong",
+    "zh": "曼达卢永"
+  },
   "Manila": {
     "ko": "마닐라",
     "ja": "マニラ",
     "es": "Manila",
     "zh": "马尼拉"
+  },
+  "Marbella": {
+    "ko": "마르베야",
+    "ja": "マルベーリャ",
+    "es": "Marbella",
+    "zh": "马贝拉"
   },
   "Margilan": {
     "ko": "마르길란",
@@ -1577,6 +1595,12 @@
     "es": "Saint-Cloud",
     "zh": "圣克卢"
   },
+  "Saint-Denis": {
+    "ko": "생드니",
+    "ja": "サン=ドニ",
+    "es": "Saint-Denis",
+    "zh": "圣但尼"
+  },
   "Saitama": {
     "ko": "사이타마",
     "ja": "埼玉",
@@ -1864,6 +1888,12 @@
     "ja": "太原",
     "es": "Taiyuan",
     "zh": "太原"
+  },
+  "Tangerang": {
+    "ko": "탕에랑",
+    "ja": "タンゲラン",
+    "es": "Tangerang",
+    "zh": "坦格朗"
   },
   "Taroko Gorge": {
     "ko": "타로코 협곡",

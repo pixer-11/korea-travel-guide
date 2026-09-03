@@ -1,6 +1,7 @@
 
-Seoul, South Korea — 15 qualifying post(s), variants: 3
-  = Seoul 3d — unchanged, skipping
+Seoul, South Korea — 17 qualifying post(s), variants: 3
+  ~ Seoul 3d — structure changed by 8 slug(s), regenerating prose
+  ✅ Seoul 3d — updated
 
 Tokyo, Japan — 13 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
@@ -14,7 +15,7 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 65 qualifying post(s), variants: 3, 5
+Hong Kong, Hong Kong — 66 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
 
@@ -34,7 +35,7 @@ Singapore, Singapore — 60 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
