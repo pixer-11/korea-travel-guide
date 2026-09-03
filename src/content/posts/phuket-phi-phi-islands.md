@@ -45,7 +45,7 @@ draft: false
 
 ## Why go
 
-Despite the "Phuket" tag, the Phi Phi Islands actually belong administratively to Krabi province — but Phuket is the most common launch point for visitors, and most tours and ferries are marketed from there. The appeal is simple: sheer limestone cliffs rising straight out of turquoise water, powder-fine beaches, and coves so clear you can see the seabed several meters down.
+The Phi Phi Islands belong administratively to Krabi province, but Phuket is the most common launch point for visitors, and most tours and ferries are marketed from there. The appeal is simple: sheer limestone cliffs rising straight out of turquoise water, powder-fine beaches, and coves so clear you can see the seabed several meters down.
 
 With a 4.6 rating across more than 7,600 reviews, it's consistently one of the most photographed marine landscapes in Southeast Asia — the cliffs of Phi Phi Leh appeared in the 2000 film *The Beach*, filmed at Maya Bay.
 

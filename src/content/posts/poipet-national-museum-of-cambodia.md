@@ -73,9 +73,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## A capital landmark, not a border stop
+## A capital landmark
 
-The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, tucked beside the Royal Palace complex. If you arrived at this guide searching Poipet, that is the border town several hours northwest — a gateway built for transit, with no museum of this name. Most travelers who pair the two in one search are routing through the crossing on their way to Siem Reap or the capital.
+The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, tucked beside the Royal Palace complex.
 
 Worth knowing before you plan your stops: the museum is a destination in its own right, not something you fit in near the border.
 
@@ -85,7 +85,7 @@ The building itself is a reason to go: a 1920s structure in deep red-ochre, its 
 
 Inside, the collection runs deep — Angkorian-era stone sculpture, bronze Buddhas, wooden royal barges, and religious artifacts spanning more than a thousand years of Khmer craftsmanship. A central courtyard garden, planted with lotus ponds and frangipani, breaks up the galleries and gives you a place to sit in the shade between rooms.
 
-## Getting there from the Poipet border
+## Getting there
 
 The honest logistics: Poipet to Phnom Penh is not a short hop.
 

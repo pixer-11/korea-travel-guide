@@ -77,7 +77,7 @@ updatedDate: '2026-08-30'
 
 You smell Man Mo Temple before you see it. Sandalwood smoke drifts out onto Hollywood Road, thick enough to catch in your throat on a still morning.
 
-Step through the door and the daylight vanishes. Dozens of huge incense spirals hang from the ceiling like inverted funnel clouds, each one tagged with a paper wish, slowly burning down over weeks. The result is genuinely disorienting — one of the few interiors in Central that still feels like it belongs to the 1800s, not the glass towers outside.
+Step through the door and the daylight vanishes. Dozens of huge incense spirals hang from the ceiling like inverted funnel clouds, each one tagged with a paper wish, slowly burning down over weeks. The result is genuinely disorienting — one of the few interiors in Sheung Wan that still feels like it belongs to the 1800s, not the glass towers outside.
 
 Built in the 1840s, this is one of Hong Kong Island's oldest and most atmospheric temples, dedicated jointly to Man Cheong, the god of literature, and Mo Tai, the god of war.
 

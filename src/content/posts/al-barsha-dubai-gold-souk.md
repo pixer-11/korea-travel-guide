@@ -30,7 +30,7 @@ tags:
 quickAnswer: The Dubai Gold Souk sits in Deira's Al Ras district, on the north bank of Dubai Creek — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. Come in the early evening, after 4pm and before the after-dinner rush, when the alleys are lit but not yet packed. It's free to walk through and browse; you only pay if you buy.
 faq:
   - q: Is the Dubai Gold Souk actually in Al Barsha?
-    a: No — it's physically located in Al Ras, Deira, on the northern side of Dubai Creek. Some listings tag it under Al Barsha due to regional map filing, but you should head to Al Ras/Deira, not Al Barsha, to find it.
+    a: No — it's physically located in Al Ras, Deira, on the northern side of Dubai Creek. Head to Al Ras/Deira, not Al Barsha, to find it.
   - q: How do I get to the Gold Souk without a car?
     a: Take the Metro Green Line to Al Ras Station and walk 5–8 minutes, or cross Dubai Creek by traditional abra ferry from Bur Dubai for a more scenic route.
   - q: Is entry free?

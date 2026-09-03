@@ -59,7 +59,7 @@ tags:
 quickAnswer: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next door to the Hong Kong Museum of History. It's closed every Thursday, open 10am–7pm most other weekdays and 10am–9pm on weekends, and gets packed between 12pm and 7pm on Saturdays and Sundays. Plan on 2–3 hours, more if you're visiting with curious kids.
 faq:
   - q: Is the Hong Kong Science Museum actually in Sha Tin?
-    a: No — despite the regional tag, it's located in Tsim Sha Tsui East, Kowloon, near East Tsim Sha Tsui MTR Station. From Sha Tin it's about a 20–25 minute ride on the East Rail Line.
+    a: No — it's located in Tsim Sha Tsui East, Kowloon, near East Tsim Sha Tsui MTR Station. From Sha Tin it's about a 20–25 minute ride on the East Rail Line.
   - q: What are the opening hours?
     a: 10am–7pm Monday, Tuesday, Wednesday and Friday; 10am–9pm Saturday and Sunday. It's closed every Thursday, so avoid planning a visit that day.
   - q: When is the best time to visit to avoid crowds?

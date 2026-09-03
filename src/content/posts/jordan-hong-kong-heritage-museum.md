@@ -39,7 +39,7 @@ tags:
 quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
 faq:
   - q: Is the Hong Kong Heritage Museum actually in Jordan?
-    a: No — despite some listings, it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line.
+    a: No — it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line.
   - q: What are the opening hours?
     a: 10am-6pm Wednesday to Friday, 10am-7pm on weekends, and 10am-6pm on Monday. It's closed all day Tuesday.
   - q: How long should I spend there?

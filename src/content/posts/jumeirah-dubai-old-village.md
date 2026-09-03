@@ -1,5 +1,5 @@
 ---
-title: "Dubai Old village: Travel Guide (4.6★)"
+title: "Dubai Old Village: Travel Guide (4.6★)"
 description: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. 4.6★ (1,105 reviews) — what visitors say, hours, and tips."
 country: "United Arab Emirates"
 region: "Dubai"
