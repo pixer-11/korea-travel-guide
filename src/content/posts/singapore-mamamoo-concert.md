@@ -47,7 +47,7 @@ Fans travel in from Malaysia, Indonesia, Thailand, and beyond for shows at this 
 
 The Singapore Indoor Stadium sits in the Kallang area at 2 Stadium Walk, part of the Singapore Sports Hub. The most straightforward public transport option is the MRT: Stadium station on the Circle Line puts you within a short, well-signed walk of the arena, and Kallang station on the East-West Line is a slightly longer but still walkable alternative when Stadium is congested post-show.
 
-On concert nights, the Sports Hub precinct is busy with crowd-control barriers and staggered exits, and the walk from the station takes longer than usual. For taxis and ride-hail apps, the designated pickup and drop-off zones around the Sports Hub were the ones in use for this show, since roads closest to the stadium are often restricted for arena events. Driving is possible via the on-site OCBC Square multi-storey car park, though it tends to fill up fast on show nights.
+On concert nights, the Sports Hub precinct is busy with crowd-control barriers and staggered exits, and the walk from the station takes longer than usual. For taxis and ride-hail apps, the Sports Hub has designated pickup and drop-off zones, since roads closest to the stadium are often restricted for arena events. Driving is possible via the on-site OCBC Square multi-storey car park, though it tends to fill up fast on show nights.
 
 ## What to expect on the night
 

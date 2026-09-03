@@ -21,7 +21,7 @@ faq:
     a: The announced reunion lineup was Jerry Yan, Vanness Wu, and Vic Chou, joined by special guest Ashin of Mayday. Ken Chu was not part of it.
   - q: When do tickets go on sale and how much do they cost?
     a: Exact ticket tiers, prices, and on-sale dates were never made public. Tickets for IMPACT Arena shows go through the venue's ticketing partner, and unofficial resellers are common around high-demand Mandopop dates.
-  - q: How many nights is the show and should I book both?
+  - q: How many nights was the show, and was it worth going to both?
     a: Two nights were on the schedule, August 1–2, 2026. Early reunion-tour stops like this one typically pull fans from across the region, and both dates were sold as full shows rather than one main night plus an extra.
 aiGenerated: true
 draft: true

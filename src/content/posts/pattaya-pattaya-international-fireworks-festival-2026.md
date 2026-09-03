@@ -45,7 +45,7 @@ Pattaya Beach isn't short on spectacle any night of the year — the jet-ski buz
 
 It's the kind of event where the crowd's reaction — the collective intake of breath before a finale — is almost as much a part of the experience as the shells exploding over the water.
 
-## When it happened
+## Dates and schedule
 
 The 2026 edition was set to run July 30 through August 2. Organisers planned a multi-day programme, though the fireworks displays themselves are typically concentrated on two of those nights, with the other days given over to build-up, food stalls, and beachfront entertainment.
 
@@ -71,4 +71,4 @@ Between segments come emcees, sponsor activity, and a festive, slightly chaotic 
 
 Regulars tend to turn up at least 90 minutes before showtime, since the good sightlines along the central beach and the Bali Hai Pier end fill up fast, leaving latecomers squinting from side streets. Small cash (Thai baht) is useful for street food and songthaew fares, since many beachfront vendors don't take cards.
 
-Rooftop bars with beach views tend to fill their reservation lists in the days before the event. The beach sand tends to stay packed underfoot late into the night.
+Rooftop bars with beach views tend to fill their reservation lists in the days before the event.

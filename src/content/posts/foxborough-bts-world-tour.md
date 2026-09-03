@@ -24,13 +24,13 @@ faq:
   - q: What are the confirmed dates for BTS at Gillette Stadium?
     a: August 5–6, 2026, two of the 79 dates on the world tour. Gillette Stadium keeps a public event calendar for its concert schedule.
   - q: How do I get to Gillette Stadium without a car?
-    a: MBTA commuter rail was scheduled to run special event trains from Boston's South Station to the Foxboro station on major event days, with about a mile walk to the stadium.
+    a: MBTA commuter rail runs special event trains from Boston's South Station to the Foxboro station on major event days, with about a mile walk to the stadium.
   - q: Where should I stay if Foxborough hotels are full?
     a: Providence, RI, and the Boston/Norwood/Dedham area are the usual fallbacks, both drivable and reachable by train. Foxborough's own room supply is small, and a two-night stand fills it fast.
   - q: How early should I arrive on show day?
     a: For concerts of this scale, Gillette's gates typically open a few hours before the announced set time, and security screening and merchandise lines for major tours move slowly. Exact gate times were not part of the announcement.
   - q: Is this the same tour stopping elsewhere in the US?
-    a: Yes — after Foxborough, the tour continues to AT&T Stadium in Arlington, Texas on August 15–16, 2026, as part of the same 79-date global run.
+    a: Yes — after Foxborough, the tour was booked into AT&T Stadium in Arlington, Texas on August 15–16, 2026, as part of the same 79-date global run.
 aiGenerated: true
 draft: false
 eventRecurring: false

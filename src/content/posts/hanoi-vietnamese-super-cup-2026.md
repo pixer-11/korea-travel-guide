@@ -42,7 +42,7 @@ eventFactsAsked: true
 
 The Super Cup is Vietnamese football's season-opener curtain-raiser in reverse: rather than kicking off the year, it closes the loop between two separate competitions, matching whoever won the V.League 1 title against whoever lifted the Vietnamese Cup that season. It's a one-off, winner-take-all evening — no away legs, no group stage, just 90 minutes (plus whatever it takes) to settle bragging rights.
 
-The 27th edition was set for Hanoi on August 30, 2026, at Hàng Đẫy Stadium, one of the country's most storied football grounds. If the same club wins both the league and the cup, the runner-up in one of those competitions usually steps in instead, so the two names are only fixed once the season's finalists are known.
+The 27th edition was set for Hanoi on August 30, 2026, at Hàng Đẫy Stadium, one of the country's most storied football grounds. If the same club wins both the league and the cup, the runner-up in one of those competitions usually steps in instead.
 
 ## Getting to Hàng Đẫy Stadium
 
@@ -70,4 +70,4 @@ Late August in Hanoi is deep in the hot, humid, rainy season, a time for a light
 
 Vietnamese fans typically buy tickets in person at the stadium box office in the days leading up to a big match, or through official club/VFF channels online when available. Resale scalping happens outside the gates, but prices and legitimacy there are unpredictable. Cash is still king for the street stalls and stools around Hàng Đẫy; card machines are rare at the outdoor vendors, so small-denomination đồng notes are the useful currency.
 
-Tipping isn't expected. Fans stand and sing through the whole match rather than sitting quietly, and a row can empty into an aisle chant. This is a domestic club-football ground rather than a tourist showcase: English signage is limited and ticketing leans offline. Fixture, kickoff time, venue, and ticket details for the match sat with the Vietnam Football Federation and V.League official channels.
+Tipping isn't expected. Fans stand and sing through the whole match rather than sitting quietly, and a row can empty into an aisle chant. This is a domestic club-football ground rather than a tourist showcase: English signage is limited and ticketing leans offline. Fixture, kickoff time, venue, and ticket details for the match were published by the Vietnam Football Federation and V.League official channels.

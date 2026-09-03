@@ -56,7 +56,7 @@ Here is how K-pop arena shows at this venue generally run: a long pre-show wait 
 
 The official light stick — the "Kandy Bong" — syncs with a show's lighting cues, marking its owner as part of the choir of thousands sending the fan chants back at the stage.
 
-## Tickets and how it was planned around
+## Tickets and the announced plan
 
 Tickets for Korean K-pop concerts at this scale typically go through Korean ticketing platforms like Interpark or Yes24, often with a fan-club presale window before general sale. International fans generally need a Korean phone number verification step, a proxy service, or a fan-club membership to have a realistic shot, and resale prices for sold-out K-pop arena shows in Seoul can run well above face value.
 

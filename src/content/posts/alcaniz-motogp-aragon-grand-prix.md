@@ -19,12 +19,12 @@ gallery: []
 tags:
   - alcañiz
   - event
-quickAnswer: The MotoGP Aragon Grand Prix was set for August 28–30, 2026 at MotorLand Aragón, a purpose-built circuit about 6 km outside Alcañiz in Spain's Teruel province. Tickets were sold online for the three days, with race times and support classes typically settled only in the final weeks, as they are most years. Alcañiz town is the usual base for the weekend, with a short drive or a shuttle out to the track each day.
+quickAnswer: The MotoGP Aragon Grand Prix was set for August 28–30, 2026 at MotorLand Aragón, a purpose-built circuit about 6 km outside Alcañiz in Spain's Teruel province. Tickets for the three days are sold online each year, with race times and support classes typically settled only in the final weeks. Alcañiz town is the usual base for the weekend, with a short drive or a shuttle out to the track each day.
 faq:
   - q: How do I get to MotorLand Aragón from Alcañiz?
     a: The circuit is about 6 km from central Alcañiz, off the A-222. Most visitors drive, rent a car, or use race-weekend shuttle buses; there's no direct train to the track itself.
   - q: What are the exact dates and ticket prices?
-    a: The Grand Prix was set for August 28-30, 2026. Ticket prices, on-sale dates, and grandstand options change from year to year, and the 2026 weekend was sold in the usual mix of single-day and three-day passes.
+    a: The Grand Prix was set for August 28-30, 2026. Ticket prices, on-sale dates, and grandstand options change from year to year, and the usual format is a mix of single-day and three-day passes.
   - q: How many days should I plan for?
     a: Most fans attend Friday practice through Sunday's races, but even a single day works — Sunday for the main races, or Friday and Saturday for a quieter visit.
   - q: Where's the nearest airport or big city?

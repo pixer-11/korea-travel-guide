@@ -17,9 +17,9 @@ faq:
   - q: How do I get to the Chiba venue?
     a: Take the JR Keiyo Line to Kaihin-Makuhari Station, about 30–40 minutes from Tokyo Station, then walk or shuttle to Zozo Marine Stadium and Makuhari Messe, where the stages are located.
   - q: Can one ticket cover both Chiba and Osaka?
-    a: Summer Sonic has offered city-crossing ticket options in past years, though this varies by edition. For 2026, some ticket types covered city-hopping between Chiba and Osaka, while others were tied to a single city.
+    a: Summer Sonic has offered city-crossing ticket options in past years, though this varies by edition. The 2026 announcement did not spell out which ticket types allowed city-hopping.
   - q: Who is headlining in 2026?
-    a: Announced acts included The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa and LE SSERAFIM, spread across the three days and both cities. The daily lineups divided the headliners across the weekend rather than stacking them on one night.
+    a: Announced acts included The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa and LE SSERAFIM, spread across the three days and both cities. Day-by-day splits were not part of the initial announcement.
   - q: What's the weather like, and how should I prepare?
     a: Mid-August in Chiba and Osaka is typically hot and humid, often 30–35°C. The indoor halls at Makuhari Messe are air-conditioned, while the stadium is open air, and headline sets fall in the evening once temperatures dip slightly.
 aiGenerated: true

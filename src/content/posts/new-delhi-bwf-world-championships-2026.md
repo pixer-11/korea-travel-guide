@@ -18,7 +18,7 @@ faq:
     a: The Airport Express Metro Line runs from IGI Airport to New Delhi Railway Station in about 20 minutes. From there, the Delhi Metro network connects toward central Delhi, where the arena is located.
   - q: Who are the star players to watch?
     a: The announced field included China's Shi Yu Qi, Korea's An Se-young, and India's own Lakshya Sen and PV Sindhu, among other top-ranked international players.
-  - q: When should I book tickets and how much will they cost?
+  - q: How were tickets sold and what did they cost?
     a: Official ticket pricing and sale dates were not announced when this guide was written. BWF's official championship page was the source for the release, and official sales channels were the only sanctioned route.
   - q: Is August a good time to visit Delhi otherwise?
     a: August is monsoon season in Delhi — hot, humid, and prone to heavy rain showers. It is shoulder season for general tourism, which can mean better hotel rates outside tournament-driven demand.

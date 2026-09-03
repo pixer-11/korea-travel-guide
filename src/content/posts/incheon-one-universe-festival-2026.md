@@ -17,7 +17,7 @@ faq:
   - q: How do I get from Incheon International Airport to the festival?
     a: Paradise City is just a few minutes from the airport terminals by taxi or shuttle, making it one of the most convenient major festival sites in Asia to reach directly off an international flight.
   - q: Who is confirmed to perform?
-    a: The announced acts were The xx, Pendulum, My Bloody Valentine and Turnstile. That was the lineup published ahead of the weekend, with set times listed on the official poster.
+    a: The announced acts were The xx, Pendulum, My Bloody Valentine and Turnstile. That was the lineup published ahead of the weekend; set times were not part of the announcement.
   - q: Should I stay in Seoul or near the venue?
     a: Paradise City is on Yeongjongdo, and staying nearby saves significant travel time compared with commuting from central Seoul, especially late at night after sets end.
   - q: Where do I buy tickets safely?

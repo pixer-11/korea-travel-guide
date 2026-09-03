@@ -17,7 +17,7 @@ faq:
   - q: Where is the festival held?
     a: It takes place across George Town's UNESCO World Heritage core on Penang Island, using streets, heritage buildings, courtyards, and public squares rather than one central venue.
   - q: Do I need to book tickets in advance?
-    a: Past editions have mixed free outdoor and fringe events with ticketed theatre and dance shows, and the ticketed slots are the kind that sell out. The 2026 programme followed the same pattern, with a mix of free and ticketed events across the nine days.
+    a: Past editions have mixed free outdoor and fringe events with ticketed theatre and dance shows, and the ticketed slots are the kind that sell out. The 2026 programme was announced as nine days of events; the free/ticketed split was not detailed in the announcement.
   - q: How do I get around between venues?
     a: The historic core is walkable in about 20 minutes end to end, but some venues sit further out in Little India or Chinatown, where Grab cars and trishaws close the gap quickly between back-to-back shows.
   - q: Where should I stay for the festival?

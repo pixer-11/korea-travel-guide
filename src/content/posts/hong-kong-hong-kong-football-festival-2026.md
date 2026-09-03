@@ -20,7 +20,7 @@ faq:
     a: The MTR Tuen Ma line runs to Kai Tak station, which connects directly into the Kai Tak Sports Park development in Kowloon East. Match days at a venue this size bring heavy foot traffic, and shuttle buses often supplement the MTR for large events.
   - q: How much are tickets and when do they go on sale?
     a: Pricing and on-sale dates were not part of the festival announcement. With Manchester City, Chelsea, Inter Milan and Juventus on the bill, demand for a two-match programme of this profile is usually high.
-  - q: What's the weather like, and should I book a hotel early?
+  - q: What's the weather like in Hong Kong at that time of year, and how tight are hotels?
     a: Late July and early August in Hong Kong are hot, humid, and prone to thunderstorms or typhoons, though Kai Tak Stadium has a roof and cooling system. It is also peak summer tourist season, when hotels in Kowloon and on Hong Kong Island fill up and rates run high.
 aiGenerated: true
 photoless: true
