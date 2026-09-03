@@ -55,7 +55,7 @@ Concourses circle the bowl with food and drink stalls, so nobody needs to turn u
 
 ## Tickets and timing
 
-Tickets for this single date were sold through the official Coca-Cola Arena website and the authorized ticketing partner for Dubai concerts, which carried the on-sale status along with the date, doors time, and support acts. Price tiers and seating charts were published on those official listings.
+Tickets for this single date were sold through the official Coca-Cola Arena website and the authorized ticketing partner for Dubai concerts, which carried the on-sale status along with the date, doors time, and support acts. Price tiers and seating charts appear on those official listings.
 
 Touring schedules for international acts occasionally get adjusted; the official channels are where any timing changes are posted.
 
