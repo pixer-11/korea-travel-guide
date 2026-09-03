@@ -1,16 +1,5 @@
 {
-  "validate-content": {
-    "DUPLICATE bangkok-post-malone-the-big-ass-stadium-world-tour.md": {
-      "since": "2026-09-02",
-      "last": "2026-09-02",
-      "seen": 1
-    },
-    "DUPLICATE saitama-the-weeknd-after-hours-til-dawn-tour.md": {
-      "since": "2026-09-02",
-      "last": "2026-09-02",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
