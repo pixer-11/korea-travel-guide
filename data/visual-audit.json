@@ -16269,14 +16269,26 @@
   },
   "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Post_Malone_EMZYPRODUCTIONFILMS.jpg": {
     "slug": "singapore-post-malone-big-ass-world-tour",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Two men at indoor venue, plausible concert/event context",
-    "at": "2026-09-03T05:50:29.323Z"
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: identity: owner eye-check 2026-09-03 — posed backstage snapshot with an unnamed second person, not the performer on stage; below the hero bar",
+    "at": "2026-09-03T05:54:00.880Z"
   },
   "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Post_Malone_EMZYPRODUCTIONFILMS.jpg/1920px-Post_Malone_EMZYPRODUCTIONFILMS.jpg": {
     "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: identity: owner eye-check 2026-09-03 — posed backstage snapshot with an unnamed second person, not the performer on stage; below the hero bar",
+    "at": "2026-09-03T05:54:00.880Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Post_Malone_2018.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
     "verdict": "MATCH",
-    "reason": "patrol replace: Two men at indoor venue, plausible concert/event context",
-    "at": "2026-09-03T05:50:29.323Z"
+    "reason": "patrol replace: Portrait of performer plausibly matching event act",
+    "at": "2026-09-03T05:54:19.205Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Post_Malone_2018.jpg/1280px-Post_Malone_2018.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Portrait of performer plausibly matching event act",
+    "at": "2026-09-03T05:54:19.205Z"
   }
 }
