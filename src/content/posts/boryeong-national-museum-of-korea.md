@@ -1,8 +1,8 @@
 ---
-title: 'National Museum of Korea: Boryeong Travel Guide (4.7★)'
-description: The National Museum of Korea is actually in Yongsan District, Seoul, not Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by Ichon Station. 4.7★ (29,015 reviews) — what visitors say, hours, and tips.
+title: 'National Museum of Korea: Seoul Travel Guide (4.7★)'
+description: The National Museum of Korea is in Yongsan District, Seoul — its address is 137 Seobinggo-ro, right by Ichon Station. 4.7★ (29,015 reviews) — what visitors say, hours, and tips.
 country: South Korea
-region: Boryeong
+region: Seoul
 category: attraction
 pubDate: '2026-08-24T08:21:07.617Z'
 heroImage:
@@ -50,10 +50,10 @@ place:
 tags:
   - boryeong
   - museum
-quickAnswer: The National Museum of Korea is actually in Yongsan District, Seoul, not Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by Ichon Station. It's open 9:30am–5:30pm most days, with late nights until 9pm on Wednesdays and Saturdays. Aim for a weekday afternoon (10am–6pm) to dodge the weekend crush, which peaks between noon and 6pm.
+quickAnswer: The National Museum of Korea is in Yongsan District, Seoul — its address is 137 Seobinggo-ro, right by Ichon Station. It's open 9:30am–5:30pm most days, with late nights until 9pm on Wednesdays and Saturdays. Aim for a weekday afternoon (10am–6pm) to dodge the weekend crush, which peaks between noon and 6pm.
 faq:
   - q: Is the National Museum of Korea actually in Boryeong?
-    a: No — despite the regional label, it's in Yongsan District, Seoul, near Ichon Station. Boryeong is a separate coastal city over two hours away.
+    a: No — it's in Yongsan District, Seoul, near Ichon Station. Boryeong is a separate coastal city over two hours away.
   - q: How do I get to the National Museum of Korea?
     a: Take Seoul Subway Line 4 or the Gyeongui-Jungang Line to Ichon Station, Exit 2, then walk through Yongsan Family Park to the entrance.
   - q: What are the opening hours?
@@ -67,9 +67,9 @@ updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## A Seoul landmark, wrongly filed under Boryeong
+## A Seoul landmark
 
-Before anything else: if you searched "Boryeong" expecting mud flats and a west-coast beach town, pause. The National Museum of Korea sits in Yongsan District, central Seoul, over two hours from Boryeong by road. Whoever tagged the region got it wrong — but the museum itself is worth the correction.
+The National Museum of Korea sits in Yongsan District, central Seoul.
 
 You approach it through Yongsan Family Park, past a long reflecting pool that mirrors the building's low, fortress-like silhouette. The structure was completed in 2005, deliberately oversized, meant to signal that Korea's cultural heritage deserves a home this grand.
 

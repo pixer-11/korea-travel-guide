@@ -32,7 +32,12 @@ export function isPhotolessLive({ draft, heroUrl }) {
 // 'cancelled': the organiser called it off (Christina Aguilera Abu Dhabi,
 // 25 Sept 2026). Both keep their photos; neither may be republished by a
 // photo patrol. (2026-08-23)
-export const NON_PHOTO_HOLD = /^(hours|content|generic-topic|duplicate|past-event|cancelled)$/;
+// 'wrong-region' / 'wrong-country': the publish gate's placement holds (2026-09-02).
+// On 2026-09-03 07:18 the photo patrol republished three wrong-region drafts the
+// moment it found them a hero — this list did not know the new reasons, so a
+// misfiled guide went live as soon as it had a photo. Reasons may now also be
+// '+'-joined (hours+wrong-region), so the test matches any component.
+export const NON_PHOTO_HOLD = /(?:^|\+)(hours|content|generic-topic|duplicate|past-event|cancelled|wrong-region|wrong-country)(?:\+|$)/;
 
 /**
  * @param {object} p
