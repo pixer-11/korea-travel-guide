@@ -302,3 +302,27 @@ test('a past-tense report of when something was published is history, not a prom
     'Set times will be published closer to showtime.',
   ]) assert.ok(FUTURE_PROMISE.test(s), s);
 });
+
+// Codex 3차 (2026-09-03). The FN was live: the Hanoi Super Cup page, four days
+// after the match, still told readers the two clubs "won't be known until both
+// domestic competitions conclude". The FP was not live but is the same trap the
+// past-tense lookbehind was added for — an adverb between the auxiliary and the
+// verb walked straight past it.
+test("a plain future promise counts even without \"closer to\": won't be known, should be announced", () => {
+  for (const s of [
+    "The specific two clubs for 2026 won't be known until both domestic competitions conclude.",
+    'The final running order will not be confirmed until the week of the show.',
+    'Set times should be announced closer to showtime.',
+    'Details may be published closer to the date.',
+    'The support act might be confirmed nearer the date.',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});
+
+test('a past auxiliary still wins when an adverb sits between it and the verb', () => {
+  for (const s of [
+    'The lineup was usually announced closer to the event.',
+    'Set times were typically published closer to showtime.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+  // the present-tense twin of the same sentence is still a promise
+  assert.ok(FUTURE_PROMISE.test('The lineup is usually announced closer to the event.'));
+});

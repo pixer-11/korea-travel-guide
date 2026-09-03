@@ -15,7 +15,7 @@ faq:
   - q: Where and when is the 2026 Vietnamese Super Cup?
     a: It was set for August 30, 2026 at Hàng Đẫy Stadium in Đống Đa District, Hanoi.
   - q: Who plays in the Super Cup?
-    a: It's contested by that season's V.League 1 champions against the Vietnamese Cup winners. The specific two clubs for 2026 won't be known until both domestic competitions conclude, so check official sources once the season wraps.
+    a: It's contested by that season's V.League 1 champions against the Vietnamese Cup winners. This guide does not record which two clubs met in 2026 — the Vietnam Football Federation's own channels carry the line-up and the result.
   - q: How do I get tickets?
     a: Tickets are typically sold through the host club or VFF official channels, with in-person sales at the stadium box office common in Vietnam. Avoid unofficial resellers where possible and watch official announcements for on-sale dates.
   - q: How do I get to Hàng Đẫy Stadium?
