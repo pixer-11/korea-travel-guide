@@ -16772,5 +16772,35 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Concert stage with pyrotechnics, massive crowd",
     "at": "2026-09-04T00:09:18.411Z"
+  },
+  "sheung-wan-blake-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%8D%9C%E5%85%AC%E8%8A%B1%E5%9C%92_Blake_Garden_playground_April_2021_SS2_03.jpg/3840px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%8D%9C%E5%85%AC%E8%8A%B1%E5%9C%92_Blake_Garden_playground_April_2021_SS2_03.jpg": {
+    "slug": "sheung-wan-blake-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park exercise area with trees, matches Blake Garden setting",
+    "at": "2026-09-04T10:39:20.722Z"
+  },
+  "poipet-preah-vihear-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/03_Prasat_Preah_Vihear-nX-06478.jpg/1920px-03_Prasat_Preah_Vihear-nX-06478.jpg": {
+    "slug": "poipet-preah-vihear-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple ruins match Preah Vihear architecture",
+    "at": "2026-09-04T10:41:01.273Z"
+  },
+  "east-coast-sri-srinivasa-perumal-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Little_India_SG_-_Sri_Nivasa_Perumal_Temple_Singapore_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%A8%E0%AE%BF%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2_%282025%29_-_img_20.jpg/1920px-Little_India_SG_-_Sri_Nivasa_Perumal_Temple_Singapore_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%A8%E0%AE%BF%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2_%282025%29_-_img_20.jpg": {
+    "slug": "east-coast-sri-srinivasa-perumal-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple gopuram entrance, representative hero view",
+    "at": "2026-09-04T10:46:07.109Z"
+  },
+  "san-sebastian-san-telmo-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg/1920px-MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg": {
+    "slug": "san-sebastian-san-telmo-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of San Telmo Museum building complex",
+    "at": "2026-09-04T10:51:13.893Z"
+  },
+  "seattle-the-museum-of-flight\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_of_Flight%2C_Seattle.jpg/1920px-Museum_of_Flight%2C_Seattle.jpg": {
+    "slug": "seattle-the-museum-of-flight",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior view of Museum of Flight with aircraft displays",
+    "at": "2026-09-04T10:54:28.410Z"
   }
 }

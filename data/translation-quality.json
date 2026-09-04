@@ -18466,11 +18466,11 @@
   "at": "2026-08-15T03:55:37.455Z"
  },
  "zh/incheon-one-universe-festival-2026": {
-  "hash": "2934e61d2e42",
+  "hash": "7db5f464923f",
   "score": 2,
   "registerBreak": false,
-  "worst": "所以行李里既要备好在台前燃烧精力的装备，也别忘了带上能舒服躺平的休闲行头。",
-  "at": "2026-08-16T11:21:09.955Z"
+  "worst": "One Universe Festival 2026公布的阵容颇为罕见地在同一个周末内融合了多种风格",
+  "at": "2026-09-04T10:59:43.643Z"
  },
  "zh/incheon-songdo-central-park": {
   "hash": "b2b61bf2127b",
@@ -20048,11 +20048,11 @@
   "at": "2026-08-15T04:07:38.457Z"
  },
  "zh/nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift": {
-  "hash": "89577a461d83",
+  "hash": "d7e431dbb797",
   "score": 1,
   "registerBreak": false,
-  "worst": "这是大多数包含此赛段的环法赛事中情感最高潮的部分——一座光秃秃、风势强劲的石灰岩山峰",
-  "at": "2026-08-15T04:07:59.614Z"
+  "worst": "这也是极少数观众能够近距离站在几米之外观看顶尖运动员比赛的顶级体育赛事之一。",
+  "at": "2026-09-04T10:57:03.515Z"
  },
  "zh/nice-parc-ph-nix": {
   "hash": "f7b84cf15c6c",
@@ -20482,11 +20482,11 @@
   "at": "2026-08-15T09:23:04.521Z"
  },
  "zh/qingdao-qingdao-international-beer-festival": {
-  "hash": "465a6e6609cb",
+  "hash": "944d577cd02b",
   "score": 1,
   "registerBreak": false,
-  "worst": "与其说这是一场品酒会式的活动，不如说它更像一场热闹非凡、老少皆宜的嘉年华",
-  "at": "2026-08-15T04:11:00.542Z"
+  "worst": "因为并不是所有摊主都能顺畜地接受境外的移动支付方式。",
+  "at": "2026-09-04T10:57:05.840Z"
  },
  "zh/puerto-princesa-luli-island": {
   "hash": "98daeac03ad6",
@@ -26467,7 +26467,7 @@
   "at": "2026-08-15T10:52:59.367Z"
  },
  "zh/sheung-wan-graham-street-market": {
-  "hash": "9ec54b0ada6e",
+  "hash": "449fcdf8164a",
   "score": 1,
   "registerBreak": false,
   "worst": "这个小小的举动本地人看在眼里,也是即使语言不通,也能和摊主搭上几句话的最简单方式。",
@@ -29573,5 +29573,54 @@
   "registerBreak": false,
   "worst": "这座建筑于2005年建成，规模刻意做得宏大，用意很明确：韩国的文化遗产，值得拥有这样气派的归宿。",
   "at": "2026-09-03T10:52:57.987Z"
+ },
+ "es/east-coast-sri-srinivasa-perumal-temple": {
+  "hash": "0d0b6ef31f01",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Basta con caminar por Serangoon Road desde la estación... para que el templo se anuncie",
+  "at": "2026-09-04T10:57:08.455Z"
+ },
+ "es/poipet-preah-vihear-temple": {
+  "hash": "b8106a356d98",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Poipet, el punto de referencia de esta guía, en realidad queda bastante lejos del templo",
+  "at": "2026-09-04T10:57:10.930Z"
+ },
+ "es/san-sebastian-san-telmo-museum": {
+  "hash": "c7ace92f1d44",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los museos vascos suelen rotular las salas en euskera y castellano, aunque las traducciones al i",
+  "at": "2026-09-04T10:57:13.337Z"
+ },
+ "ja/poipet-preah-vihear-temple": {
+  "hash": "313ae4faaea3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "世界の果てに立っているかのような感覚、それは大地とこの寺院が敬うべく建てられた神々の領域との境界線に立つ",
+  "at": "2026-09-04T10:58:44.537Z"
+ },
+ "ja/san-sebastian-san-telmo-museum": {
+  "hash": "f96351de2db8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "何世紀も前の石造りと緑の金属壁が織りなすこのコントラストこそ、ここが堅苦しい地方博物館とは一線を画す存在で...",
+  "at": "2026-09-04T10:58:52.372Z"
+ },
+ "ko/east-coast-sri-srinivasa-perumal-temple": {
+  "hash": "2742b843f182",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "한낮에는 출입이 불가능하므로 점심시간에 맞춰 방문 계획을 세우지 않도록 주의하세요.",
+  "at": "2026-09-04T10:58:59.044Z"
+ },
+ "ko/poipet-preah-vihear-temple": {
+  "hash": "3f4aa6cee06d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 세상의 끝에 서 있는 듯한 느낌, 즉 대지와 사원이 기리고자 했던 신성한 영역 사이의 경계처럼 느껴지도록 만들어졌습니다.",
+  "at": "2026-09-04T10:59:05.609Z"
  }
 }

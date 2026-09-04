@@ -60,8 +60,7 @@ faq:
   - q: "Is there an entry fee separate from the boat tour?"
     a: "Yes, most boat tours charge separately for the park entrance fee, typically collected in cash at the checkpoint, so bring cash and ID."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
