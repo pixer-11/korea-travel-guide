@@ -6,13 +6,13 @@ region: Kenting
 category: attraction
 pubDate: '2026-08-22T07:56:49.020Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kenting_National_Forest_Recreation_Area_entrance_WEI%2C_WAN-CHEN.jpg/960px-Kenting_National_Forest_Recreation_Area_entrance_WEI%2C_WAN-CHEN.jpg
-  credit: 'Photo: WEI, WAN-CHEN / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
+  credit: 'Photo: 阿道 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kenting_National_Forest_Recreation_Area_entrance_WEI,_WAN-CHEN.jpg
+  source: https://commons.wikimedia.org/wiki/File:Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
   focus:
-    x: 65
-    'y': 45
+    x: 50
+    'y': 55
 place:
   id: ChIJ-zAOmNCzcTQRhEu_pVhjoV8
   name: Kenting National Forest Recreation Area

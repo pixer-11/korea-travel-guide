@@ -6,13 +6,13 @@ region: Langkawi
 category: attraction
 pubDate: '2026-08-18T09:02:58.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Langkawi_sky_bridge.jpg/960px-Langkawi_sky_bridge.jpg
-  credit: 'Photo: Flickr user ''The Dilly Lama'' / wikimedia (BY)'
-  license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=7699372
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Langkawi_cablecar_bridge.jpg
+  credit: 'Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Langkawi_cablecar_bridge.jpg
   focus:
-    x: 35
-    'y': 40
+    x: 60
+    'y': 60
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Langkawi_cablecar_bridge.jpg/1280px-Langkawi_cablecar_bridge.jpg
     credit: 'Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
