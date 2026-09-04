@@ -24,7 +24,7 @@ import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
-import { candidateBudget, DEAD_END_REFUSALS } from './lib/candidate-budget.mjs';
+import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
 import { eventProperName } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
@@ -342,7 +342,10 @@ for (const f of files) {
     // How many turns this gets, and when a run of refusals means the search
     // itself is lost rather than the good file being one turn further down,
     // lives in lib/candidate-budget.mjs — shared with the other loop.
-    const budget = candidateBudget();
+    // A shared hero gets a wider net: the act's best files are already worn
+    // by the twin and the tour's other cities, so the first four candidates
+    // are leftovers (see SHARED_HERO_WANT).
+    const budget = candidateBudget(sharedWith ? { want: SHARED_HERO_WANT } : {});
     while (budget.keepGoing()) {
       budget.turned();
       let pick = null;

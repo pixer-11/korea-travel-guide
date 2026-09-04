@@ -8,12 +8,12 @@
 // 긁어왔다. 그 둘을 가르는 신호는 총 거절 수가 아니라 '연속' 거절이다.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { candidateBudget, DEAD_END_REFUSALS, MAX_CANDIDATE_TURNS } from './candidate-budget.mjs';
+import { candidateBudget, DEAD_END_REFUSALS, MAX_CANDIDATE_TURNS, CANDIDATE_TURN_CEILING, SHARED_HERO_WANT } from './candidate-budget.mjs';
 
 // 대본대로 후보를 뱉는 가짜 검색을 예산에 물려 돌린다.
 // 'r' = 파일명 거절, 'j' = 이미 비전이 판정한 파일, 'a' = 비전에 보낼 후보.
-const run = (script) => {
-  const b = candidateBudget();
+const run = (script, opts) => {
+  const b = candidateBudget(opts);
   let turns = 0;
   while (b.keepGoing()) {
     const step = script[turns];
@@ -80,4 +80,23 @@ test('바닥 없는 검색에도 천장이 있다', () => {
   const { turns, found } = run(seq('rrrrrj'.repeat(50)));
   assert.equal(found, 0);
   assert.equal(turns, 30, `천장 30턴에서 멈춘다 (실제 ${turns})`);
+});
+
+// 2026-09-03: 다른 글과 대표사진을 나눠 쓰는 글은 검색 모양이 다르다 — 그 가수의
+// 좋은 파일은 이미 쌍둥이 글과 같은 투어의 다른 도시 글이 쓰고 있어서, 처음
+// 네 장은 남은 찌꺼기(간판 하나, 1024px 미만 셋 — 자카르타 위켄드)였고 큰 공연
+// 사진은 몇 턴 아래 있었다. 공유 사례엔 비전 후보를 두 배 달라고 한다.
+test('공유 히어로 예산은 여덟 장까지 판다 — 천장·막다른 규칙은 그대로', () => {
+  const shared = run('a'.repeat(40), { want: SHARED_HERO_WANT });
+  assert.equal(shared.found, SHARED_HERO_WANT, '네 장에서 멈추지 않는다');
+  assert.equal(shared.turns, SHARED_HERO_WANT, '여덟 장을 채우면 즉시 멈춘다');
+  // 기본 예산은 그대로 네 장이다 — 공유가 아닌 글은 달라지지 않는다.
+  assert.equal(run('a'.repeat(40)).found, 4);
+  // 폭 미달 후보가 비전 후보 자리를 먹는 건 이 예산이 아니라 뒤 단계의 일이므로,
+  // 여기서는 넓어진 만큼만 확인한다. 막다른 검색은 여전히 거기서 멈춘다.
+  const dead = run(seq('r'.repeat(DEAD_END_REFUSALS + 1), 'a'.repeat(8)), { want: SHARED_HERO_WANT });
+  assert.equal(dead.found, 0, '공유 예산도 막다른 검색에서는 비전에 아무것도 올리지 않는다');
+  // 천장도 그대로다.
+  const ceiling = run(seq('rrrrrj'.repeat(50)), { want: SHARED_HERO_WANT });
+  assert.ok(ceiling.turns <= CANDIDATE_TURN_CEILING, `천장 ${CANDIDATE_TURN_CEILING} 안에서 멈춰야 한다 (실제 ${ceiling.turns})`);
 });

@@ -29,6 +29,14 @@
 export const MAX_CANDIDATE_TURNS = 12;
 export const CANDIDATE_TURN_CEILING = 30;
 export const DEAD_END_REFUSALS = 10;
+// A post whose hero is SHARED with another live post is a different search
+// from a post with a wrong hero: the act's best files are usually already
+// taken (by the twin, and by every other city of the same tour), so the first
+// four vision-worthy candidates are the leftovers — a bar sign, three files
+// under 1024px (jakarta-the-weeknd, 2026-09-03) — while the large concert
+// files sat a few turns further down. Ask for twice as many before vision
+// judges; the turn ceiling and the dead-end rule still apply unchanged.
+export const SHARED_HERO_WANT = 8;
 
 export function candidateBudget({ want = 4 } = {}) {
   let turn = 0, free = 0, streak = 0, found = 0;
