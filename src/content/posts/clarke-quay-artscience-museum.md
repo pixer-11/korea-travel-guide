@@ -60,7 +60,7 @@ place:
       - 18
     venueId: ven_4549794846654b7558635352456a325a51514b5164576e4a496843
 tags:
-  - clarke quay
+  - marina bay
   - museum
 quickAnswer: >-
   ArtScience Museum sits at Marina Bay, beside Marina Bay Sands on the

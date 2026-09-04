@@ -35,7 +35,7 @@ place:
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
 tags:
-  - new york city
+  - new york
   - new & trending
 quickAnswer: Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known for its Rigatoni Alla Gricia. It topped Yelp's 2026 Top 100 Places to Eat in the U.S., so reservations are the single hardest part of the visit — book as far ahead as the platform allows and reconfirm hours before you go.
 faq:

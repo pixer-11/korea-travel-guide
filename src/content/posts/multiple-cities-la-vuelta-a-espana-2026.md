@@ -20,7 +20,7 @@ heroImage:
     'y': 35
 gallery: []
 tags:
-  - multiple cities
+  - granada
   - event
 quickAnswer: >-
   La Vuelta a España 2026 runs August 22–September 13, opening in Monaco before

@@ -56,7 +56,7 @@ place:
       - 17
     venueId: ven_6b4f39385f72454b4a585652347a58546f32726d4852414a496843
 tags:
-  - al barsha
+  - dubai
   - historic site
 quickAnswer: >-
   This is Dubai's newer Hindu temple complex in Jebel Ali, open daily

@@ -10,7 +10,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-09-03'
 eventEndDate: '2026-09-04'
 tags:
-  - makati city
+  - makati
   - event
 quickAnswer: >-
   John Legend brings his intimate "An Evening of Songs & Stories" world tour to

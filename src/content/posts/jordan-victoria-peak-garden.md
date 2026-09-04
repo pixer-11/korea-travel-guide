@@ -38,7 +38,7 @@ place:
     - "Saturday: Open 24 hours"
     - "Sunday: Open 24 hours"
 tags:
-  - "jordan"
+  - "hong kong"
   - "park"
 quickAnswer: "Victoria Peak Garden sits at the very top of Mount Austin Road on Hong Kong Island, a short uphill walk past the Peak Tower crowds, and it's open 24 hours with no admission fee. Go early morning or after sunset for the quietest, clearest views over the city and harbour. Give it 30-45 minutes, longer if you bring a picnic."
 faq:

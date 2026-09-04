@@ -17,7 +17,7 @@ heroImage:
     'y': 40
 gallery: []
 tags:
-  - quezon city
+  - manila
   - event
 quickAnswer: MAMAMOO's 2026 World Tour was set to stop in Quezon City, Philippines, with shows reported for August 8-10, 2026 at the Philippine International Convention Center (PICC) in the Diliman/Bagumbayan area. Those were the announced dates. MAMAMOO's official channels and the promoter's ticketing platform carried the final schedule, ticket tiers and door times.
 faq:

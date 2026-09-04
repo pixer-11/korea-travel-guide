@@ -17,6 +17,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
+import { imageIdentity } from './lib/hero-url.mjs';
 import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { keyToken } from './lib/commons.mjs';
@@ -670,7 +671,11 @@ async function main() {
       }
     }
   }
-  dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
+  // 2026-09-04: photos are compared by identity (Commons file / Unsplash id), not URL
+  // string — a 1280px and a 1920px spelling of one file, or a '(cropped)' variant, is
+  // one picture. The sourcing tools switched on 09-03 (hero-url.mjs); the validator
+  // was the last place still counting strings.
+  dupBy((p) => (p.url && !p.url.includes('placeholder') ? imageIdentity(p.url) || unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
   dupBy((p) => p.placeId, 'DUPLICATE place.id');
 
   // One region name = one country. "Chinatown" exists in every big city on

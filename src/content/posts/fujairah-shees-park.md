@@ -45,7 +45,7 @@ place:
     - 'Saturday: 8:00 AM – 10:00 PM'
     - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
-  - fujairah
+  - sharjah
   - park
 quickAnswer: >-
   Shees Park sits just off the Al Dhaid–Masafi mountain road, on the

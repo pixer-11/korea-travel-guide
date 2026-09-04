@@ -8,7 +8,7 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-08-26'
 eventEndDate: '2026-10-31'
 tags:
-  - new york city
+  - new york
   - event
 quickAnswer: Harry Styles is booked for a 30-night residency at Madison Square Garden from August 26 through October 31, 2026, playing every Wednesday, Friday and Saturday, with the run closing out on Halloween night as a "Harryween" finale. Tickets, exact showtimes, and any lineup or setlist specifics haven't been confirmed beyond what's on Ticketmaster and MSG's own site, so check those before you book flights or hotels.
 faq:

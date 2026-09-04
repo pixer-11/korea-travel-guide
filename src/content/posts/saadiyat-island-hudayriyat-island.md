@@ -34,7 +34,7 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - saadiyat island
+  - abu dhabi
   - hidden gem
 quickAnswer: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 25-minute drive from Saadiyat Island — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. It's open 24 hours, so mornings before 8am or the cooler evening hours after sunset are best for exercise, while beach clubs run daytime hours. Plan on two to four hours minimum, longer if you're cycling the full loop or staying for sunset.
 faq:

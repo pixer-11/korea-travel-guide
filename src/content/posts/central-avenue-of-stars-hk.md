@@ -55,7 +55,7 @@ place:
       - 22
     venueId: ven_6f4a455756626c61566a7a525144424145506e724979734a496843
 tags:
-  - central
+  - tsim sha tsui
   - top attraction
 quickAnswer: The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques honoring Hong Kong cinema. It's open 24 hours and free. Go between 7am and 9am to have the promenade nearly to yourself — by mid-afternoon on weekends it's packed straight through to 11pm.
 faq:

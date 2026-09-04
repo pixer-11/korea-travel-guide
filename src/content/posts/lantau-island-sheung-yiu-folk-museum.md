@@ -34,7 +34,7 @@ place:
     - "Saturday: 10:00 AM – 6:00 PM"
     - "Sunday: 10:00 AM – 6:00 PM"
 tags:
-  - "lantau island"
+  - "sai kung"
   - "museum"
 quickAnswer: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, near Pak Tam Chung. It's a small, free-to-enter recreation of an 1800s Hakka walled village with original farming tools and household objects, best visited on a weekday morning when the site is nearly empty. Allow 30–45 minutes; it's open daily except Tuesdays, 10am to 6pm."
 faq:

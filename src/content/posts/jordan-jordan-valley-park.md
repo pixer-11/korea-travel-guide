@@ -35,7 +35,7 @@ place:
     - 'Saturday: 5:00 AM – 11:00 PM'
     - 'Sunday: 5:00 AM – 11:00 PM'
 tags:
-  - jordan
+  - hong kong
   - hidden gem
 quickAnswer: Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. Come for the bougainvillea garden, the hedge maze, and the model-car race track, and give it 1-2 hours. Weekday mornings are quietest; weekends bring families and remote-control car hobbyists.
 faq:

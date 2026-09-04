@@ -54,7 +54,7 @@ place:
       - 17
     venueId: ven_455f7a706c374443335a4752456a32615966536a69636c4a496843
 tags:
-  - bugis
+  - singapore
   - museum
 quickAnswer: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus in the west of the island, so budget time for the trip out from the city centre. Its three mounted diplodocid dinosaur skeletons, nicknamed Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries of preserved specimens. Go on a weekday morning before 11am to beat the weekend crowds that build from 11am to 6pm.
 faq:

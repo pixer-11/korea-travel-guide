@@ -8,7 +8,7 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
 tags:
-  - pasay city
+  - manila
   - event
 quickAnswer: LaLaLa Fest Manila 2026 was set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club. It was a single-day, convention-center festival in Pasay, the district between Manila proper and the airport. The nearest rail stations are LRT-1 Edsa and MRT-3 Taft Avenue, both a short ride or taxi from the venue.
 faq:

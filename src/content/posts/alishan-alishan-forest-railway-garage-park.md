@@ -53,7 +53,7 @@ place:
       - 17
     venueId: ven_41667730696f36736c723052516a62554b4468414e51784a496843
 tags:
-  - alishan
+  - chiayi
   - park
 quickAnswer: This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. It's open daily 8am–6pm and free to wander through. Arrive right at 8am, before the 11am–6pm weekend crush, to have the tracks nearly to yourself.
 faq:

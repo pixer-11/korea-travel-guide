@@ -25,7 +25,7 @@ place:
   lat: 7.740738
   lng: 98.77841
 tags:
-  - phuket
+  - koh phi phi
   - Phi Phi Islands
 quickAnswer: The Phi Phi Islands, in Krabi province, are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier. Go for Maya Bay, the limestone cliffs of Phi Phi Leh, and snorkeling at Pileh Lagoon; budget a full day if you're not staying overnight. Book a tour or ferry a day or two ahead, especially in high season (November–April).
 faq:

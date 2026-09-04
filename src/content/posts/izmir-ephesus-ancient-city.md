@@ -38,7 +38,7 @@ place:
     - "Saturday: 8:00 AM – 6:00 PM, 7:00 – 10:00 PM"
     - "Sunday: 8:00 AM – 6:00 PM"
 tags:
-  - "izmir"
+  - "selcuk"
   - "museum"
 quickAnswer: "Ephesus is the best-preserved Roman city in the eastern Mediterranean, anchored by the Library of Celsus and the Great Theatre. Enter through the Upper (Magnesia) Gate and walk downhill to the Lower Gate to avoid backtracking. Go right at opening, 8am, or in the Wednesday–Saturday evening window (7–10pm) to dodge tour-bus crowds."
 faq:

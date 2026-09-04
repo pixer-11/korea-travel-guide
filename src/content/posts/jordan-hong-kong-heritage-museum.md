@@ -34,7 +34,7 @@ place:
     - 'Saturday: 10:00 AM – 7:00 PM'
     - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
-  - jordan
+  - sha tin
   - museum
 quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
 faq:

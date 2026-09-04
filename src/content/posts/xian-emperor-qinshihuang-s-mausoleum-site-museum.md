@@ -24,7 +24,7 @@ place:
   lat: 34.3841153
   lng: 109.2784918
 tags:
-  - xian
+  - xi'an
   - Terracotta Army
 quickAnswer: 'Emperor Qinshihuang''s Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi''an. Plan a half-day: 2.5–3.5 hours to see the three excavation pits and the bronze chariot hall. Go early on a weekday, hire an official guide or audio guide at the gate, and Pit 1 last for the full-scale "wow" of the army in formation.'
 faq:

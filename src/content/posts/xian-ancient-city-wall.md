@@ -22,7 +22,7 @@ place:
   lng: 108.95029699999999
   phone: +86 28 8556 8847
 tags:
-  - xian
+  - xi'an
   - Xian City Wall
 quickAnswer: Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in China, forming a rectangular loop of roughly 13.7 km around the old city center. Rent a bike at the South Gate (Yongning Men) and ride the full loop in about 1.5–2 hours, or walk a shorter stretch between two gates for 45 minutes. Go early morning or late afternoon for softer light and thinner crowds, since this is a spread-out attraction that rarely feels packed even at its busiest gates.
 faq:

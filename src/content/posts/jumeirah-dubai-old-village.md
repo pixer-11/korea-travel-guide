@@ -26,7 +26,7 @@ place:
   lat: 25.2626895
   lng: 55.3076973
 tags:
-  - "jumeirah"
+  - "dubai"
   - "historic site"
 quickAnswer: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. It stays largely under the radar compared to Al Fahidi and Al Seef, so you'll often have the lanes to yourself. Plan on 45 minutes to an hour, ideally in the cooler morning or late-afternoon hours."
 faq:

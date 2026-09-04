@@ -45,7 +45,7 @@ place:
       - 17
     venueId: "ven_552d596557692d2d364d6752456a325a633652657a51464a496843"
 tags:
-  - "tiong bahru"
+  - "civic district"
   - "museum"
 quickAnswer: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings in the Civic District, opens daily 10am–7pm. Go right at opening — the museum is quietest 10am–11am on both weekdays and weekends — and avoid the noon–6pm weekend crush. Budget two to three hours to see the highlights of its Southeast Asian art collection without rushing."
 faq:

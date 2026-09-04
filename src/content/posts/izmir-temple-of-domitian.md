@@ -29,7 +29,7 @@ place:
   lat: 37.9368254
   lng: 27.343429399999998
 tags:
-  - "izmir"
+  - "selcuk"
   - "historic site"
 quickAnswer: "The Temple of Domitian sits at the top of Curetes Street in the ancient city of Ephesus, near Selçuk in the Izmir region. It's a small, easy-to-miss ruin — a few vaulted substructure chambers, a podium, and a colossal statue head and arm now displayed nearby — best paired with the main Ephesus walk rather than visited alone. Go early, before the tour buses from Kuşadası fill Curetes Street."
 faq:

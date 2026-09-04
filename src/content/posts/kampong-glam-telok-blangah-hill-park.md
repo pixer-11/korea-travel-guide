@@ -62,7 +62,7 @@ place:
       - 22
     venueId: "ven_4d67565a32714d4e78465752456a32626f64394e5731614a496843"
 tags:
-  - "kampong glam"
+  - "singapore"
   - "park"
 quickAnswer: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. It's open 24 hours, and on weekends the calmest window is 7am to 9am before the walking groups and picnic crowds arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into Mount Faber Park via the canopy walk, and catch the skyline from Henderson Waves."
 faq:

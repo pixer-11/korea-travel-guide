@@ -38,7 +38,7 @@ place:
     - "Saturday: Open 24 hours"
     - "Sunday: Open 24 hours"
 tags:
-  - "dempsey hill"
+  - "singapore"
   - "local market"
 quickAnswer: "Pasar Geylang Serai is a wet market and hawker centre in the Geylang Serai district on Singapore's east side, a short walk from Paya Lebar MRT. It's open 24 hours, but the market stalls and food centre really only run from early morning until early afternoon. Go before 9am on a weekday for the calmest browsing and the freshest catch."
 faq:

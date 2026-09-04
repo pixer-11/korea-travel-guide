@@ -45,7 +45,7 @@ place:
     - 'Saturday: 8:00 AM – 10:00 PM'
     - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
-  - orchard road
+  - chinatown
   - street food
 quickAnswer: Maxwell Food Centre is a Chinatown hawker hall near Chinatown MRT (Exit A/E), about a 15-20 minute MRT ride from Orchard Road. Go for Tian Tian Hainanese Chicken Rice and other hawker classics, arrive before noon or after 2pm to beat the lunch crush, and bring small cash. Budget 45-60 minutes and pair the trip with a walk through nearby Chinatown or Ann Siang Hill.
 faq:

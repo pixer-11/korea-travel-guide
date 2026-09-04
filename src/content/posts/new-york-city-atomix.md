@@ -14,7 +14,7 @@ heroImage:
     x: 35
     y: 65
 tags:
-  - new york city
+  - new york
   - new & trending
 quickAnswer: Atomix is the two-Michelin-starred Korean tasting-menu restaurant from Junghyun "JP" and Ellia Park, tucked into the Koreatown-adjacent stretch near Madison Square Park — currently No.7 on North America's 50 Best Restaurants 2026 list. It's a 12-course, hours-long, book-well-ahead experience rather than a walk-in dinner, so reserve as early as the system allows and confirm current hours, seating times, and pricing directly with the restaurant before you plan around it.
 faq:

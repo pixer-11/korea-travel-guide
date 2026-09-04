@@ -46,7 +46,7 @@ place:
       - 17
     venueId: ven_493534526b46664e684c6152456a325a4d61452d7531444a496843
 tags:
-  - east coast
+  - civic district
   - museum
 quickAnswer: The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. It's calmest on weekdays, while weekends between 11am and 6pm draw the heaviest crowds — aim for a weekday morning and set aside two to three hours. It's an easy walk from Bras Basah or Dhoby Ghaut MRT.
 faq:

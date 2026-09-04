@@ -33,7 +33,7 @@ place:
     - 'Saturday: 8:00 AM – 11:00 PM'
     - 'Sunday: 8:00 AM – 11:00 PM'
 tags:
-  - jumeirah
+  - dubai
   - park
 quickAnswer: Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro station) is a 117-acre green space famous for the Dubai Frame and a weekend flea market. It's open daily 8am to 10pm (11pm Friday–Sunday), and given its 4.6-star, well-visited status, weekday mornings right after opening are your best bet to dodge crowds. Budget two to three hours if you want the Frame plus a park loop.
 faq:

@@ -33,7 +33,7 @@ place:
     - 'Saturday: 5:00 AM – 2:00 AM'
     - 'Sunday: 5:00 AM – 2:00 AM'
 tags:
-  - bugis
+  - marina bay
   - top attraction
 quickAnswer: Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next to Marina Bay Sands. It's open 5am–2am daily, but the reason to go is the free Garden Rhapsody light-and-sound show, nightly at 7:45pm and 8:45pm. Arrive by 7pm to claim a spot on the grass before the crowds pack in.
 faq:

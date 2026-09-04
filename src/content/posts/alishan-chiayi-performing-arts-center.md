@@ -33,7 +33,7 @@ place:
     - 'Saturday: Closed'
     - 'Sunday: Closed'
 tags:
-  - alishan
+  - chiayi
   - art gallery
 quickAnswer: Chiayi Performing Arts Center sits in Minxiong Township, a short drive north of Chiayi city proper. It's open weekdays 8am–5pm and closed on weekends, so plan around that if you want to see inside — the building's sculptural concrete exterior and gardens are viewable anytime you pass by. Give it 30–45 minutes unless a performance is on, in which case check the schedule and book ahead.
 faq:

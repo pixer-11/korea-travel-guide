@@ -25,7 +25,7 @@ place:
   lng: 55.2981361
   phone: +971 800 900
 tags:
-  - al barsha
+  - deira
   - local market
 quickAnswer: The Dubai Gold Souk sits in Deira's Al Ras district, on the north bank of Dubai Creek — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. Come in the early evening, after 4pm and before the after-dinner rush, when the alleys are lit but not yet packed. It's free to walk through and browse; you only pay if you buy.
 faq:
