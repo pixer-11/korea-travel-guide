@@ -1,37 +1,42 @@
 ---
-title: "Hsinchu Zoo: Travel Guide (4.1★)"
-description: "Hsinchu Zoo, inside Hsinchu Park in the East District, is Taiwan's oldest zoo — small enough to see in 90 minutes to 2 hours. 4.1★ (19,722 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Hsinchu"
-category: "attraction"
-pubDate: "2026-08-12T08:45:57.344Z"
+title: 'Hsinchu Zoo: Travel Guide (4.1★)'
+description: >-
+  Hsinchu Zoo, inside Hsinchu Park in the East District, is Taiwan's oldest zoo
+  — small enough to see in 90 minutes to 2 hours. 4.1★ (19,765 reviews) — what
+  visitors say, hours, and tips.
+country: Taiwan
+region: Hsinchu
+category: attraction
+pubDate: '2026-08-12T08:45:57.344Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/New_gate_1_of_Hsinchu_Zoo_2020.jpg/1920px-New_gate_1_of_Hsinchu_Zoo_2020.jpg"
-  credit: "Photo: Taiwania Justo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_gate_1_of_Hsinchu_Zoo_2020.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/New_gate_1_of_Hsinchu_Zoo_2020.jpg/1920px-New_gate_1_of_Hsinchu_Zoo_2020.jpg
+  credit: 'Photo: Taiwania Justo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:New_gate_1_of_Hsinchu_Zoo_2020.jpg'
 gallery: []
 place:
-  id: "ChIJl78Wnt01aDQRz1shOsBVUGU"
-  name: "Hsinchu Zoo"
-  address: "300, Taiwan, Hsinchu City, East District, Gongyuan Village, 食品路66號"
+  id: ChIJl78Wnt01aDQRz1shOsBVUGU
+  name: Hsinchu Zoo
+  address: '300, Taiwan, Hsinchu City, East District, Gongyuan Village, 食品路66號'
   rating: 4.1
-  userRatingsTotal: 19722
-  googleMapsUrl: "https://maps.google.com/?cid=7300429280064920527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19765
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7300429280064920527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.800156700000002
   lng: 120.9799245
-  phone: "+886 3 522 2194"
+  phone: +886 3 522 2194
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -40,24 +45,39 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_5547555642734f6873317a525144613130746e5738376c4a496843"
+    venueId: ven_5547555642734f6873317a525144613130746e5738376c4a496843
 tags:
-  - "hsinchu"
-  - "top attraction"
-quickAnswer: "Hsinchu Zoo, inside Hsinchu Park in the East District, is Taiwan's oldest zoo — small enough to see in 90 minutes to 2 hours. It's open 9am–5pm Tuesday to Sunday (closed Monday), and weekends between 10am and 5pm draw the biggest crowds, so an early Tuesday or Wednesday morning visit is calmest. Combine it with the adjacent Hsinchu Park and Glass Gallery for a half-day out."
+  - hsinchu
+  - top attraction
+quickAnswer: >-
+  Hsinchu Zoo, inside Hsinchu Park in the East District, is Taiwan's oldest zoo
+  — small enough to see in 90 minutes to 2 hours. It's open 9am–5pm Tuesday to
+  Sunday (closed Monday), and weekends between 10am and 5pm draw the biggest
+  crowds, so an early Tuesday or Wednesday morning visit is calmest. Combine it
+  with the adjacent Hsinchu Park and Glass Gallery for a half-day out.
 faq:
-  - q: "How long should I spend at Hsinchu Zoo?"
-    a: "Plan on 90 minutes to 2 hours. It's a small, compact zoo, easily paired with a walk through the surrounding Hsinchu Park."
-  - q: "What days is Hsinchu Zoo closed?"
-    a: "It's closed every Monday. It's open 9am–5pm Tuesday through Sunday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, especially Tuesday or Wednesday right after the 9am opening, are calmest. Weekends get busy from 10am to 5pm, so arrive right at open if visiting then."
-  - q: "How do I get to Hsinchu Zoo without a car?"
-    a: "From Hsinchu Railway Station it's about a 20-minute walk or a 10–15 minute taxi/bus ride into Hsinchu Park, where the zoo is located."
-  - q: "Is there anything else to see nearby?"
-    a: "Yes — Hsinchu Park surrounds the zoo, with ponds, a Japanese-era clock tower, and shaded lawns worth combining into a half-day visit."
+  - q: How long should I spend at Hsinchu Zoo?
+    a: >-
+      Plan on 90 minutes to 2 hours. It's a small, compact zoo, easily paired
+      with a walk through the surrounding Hsinchu Park.
+  - q: What days is Hsinchu Zoo closed?
+    a: It's closed every Monday. It's open 9am–5pm Tuesday through Sunday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, especially Tuesday or Wednesday right after the 9am
+      opening, are calmest. Weekends get busy from 10am to 5pm, so arrive right
+      at open if visiting then.
+  - q: How do I get to Hsinchu Zoo without a car?
+    a: >-
+      From Hsinchu Railway Station it's about a 20-minute walk or a 10–15 minute
+      taxi/bus ride into Hsinchu Park, where the zoo is located.
+  - q: Is there anything else to see nearby?
+    a: >-
+      Yes — Hsinchu Park surrounds the zoo, with ponds, a Japanese-era clock
+      tower, and shaded lawns worth combining into a half-day visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

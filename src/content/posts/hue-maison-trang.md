@@ -1,31 +1,37 @@
 ---
 title: 'Maison Trang: Where to Eat in Hue'
-description: Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like bún bò Huế and bánh khoái served in a casual, garden-house setting.
+description: >-
+  Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in
+  Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like
+  bún bò Huế and bánh khoái served in a casual, garden-house setting.
 country: Vietnam
 region: Hue
 category: restaurant
 pubDate: '2026-07-22T09:33:32.321Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/308951_0GbojovagSVisgo2myLH8_ziL9IJZqN1t_ViXpNlxYI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/308951_0GbojovagSVisgo2myLH8_ziL9IJZqN1t_ViXpNlxYI.jpg
   credit: 'Photo: Foursquare user content (Maison Trang)'
   license: foursquare
-  source: https://foursquare.com/v/5e5909b4c237e8000808953c
+  source: 'https://foursquare.com/v/5e5909b4c237e8000808953c'
   focus:
     x: 15
-    y: 25
+    'y': 25
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/308951_8FEeKbqloihBNLt4Btj10UOdLrlGGUrTjmSSonHAB38.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/308951_8FEeKbqloihBNLt4Btj10UOdLrlGGUrTjmSSonHAB38.jpg
     credit: 'Photo: Foursquare user content (Maison Trang)'
     license: foursquare
-    source: https://foursquare.com/v/5e5909b4c237e8000808953c
+    source: 'https://foursquare.com/v/5e5909b4c237e8000808953c'
 place:
   id: ChIJZcMRLOGhQTERVIGTFHwL8D0
   name: Maison Trang
-  address: 24, 26 Võ Thị Sáu, Thuận Hóa, Huế 530000, Vietnam
+  address: '24, 26 Võ Thị Sáu, Thuận Hóa, Huế 530000, Vietnam'
   rating: 4.8
-  userRatingsTotal: 4358
+  userRatingsTotal: 4399
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=4463079858273222996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4463079858273222996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.4700017
   lng: 107.59678579999999
@@ -50,7 +56,7 @@ place:
       - 20
       - 21
     venueId: ven_3044384c774846544749565245545168474f4c524d635a4a496843
-  phone: '+84 935 813 636'
+  phone: +84 935 813 636
   openingHours:
     - 'Monday: 8:00 AM – 10:30 PM'
     - 'Tuesday: 8:00 AM – 10:30 PM'
@@ -62,20 +68,43 @@ place:
 tags:
   - hue
   - local restaurant
-quickAnswer: Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like bún bò Huế and bánh khoái served in a casual, garden-house setting. With a 4.8 rating from over 4,300 reviews, it's worth a lunch or early dinner stop, ideally arriving before 12pm or after 7pm to avoid the peak crowd. Expect to spend 15-30 minutes waiting during high season if you don't reserve or arrive early.
+quickAnswer: >-
+  Maison Trang is a budget-friendly, locally loved spot at 24-26 Võ Thị Sáu in
+  Hue's Thuận Hóa district, known for authentic central Vietnamese dishes like
+  bún bò Huế and bánh khoái served in a casual, garden-house setting. With a 4.8
+  rating from over 4,300 reviews, it's worth a lunch or early dinner stop,
+  ideally arriving before 12pm or after 7pm to avoid the peak crowd. Expect to
+  spend 15-30 minutes waiting during high season if you don't reserve or arrive
+  early.
 faq:
   - q: Where exactly is Maison Trang located?
-    a: At 24-26 Võ Thị Sáu in the Thuận Hóa ward of Hue, on the south side of the Perfume River, close to many central hotels and a short ride from the Imperial City.
+    a: >-
+      At 24-26 Võ Thị Sáu in the Thuận Hóa ward of Hue, on the south side of the
+      Perfume River, close to many central hotels and a short ride from the
+      Imperial City.
   - q: How do I get there without a car?
-    a: Use the Grab app (Vietnam's main ride-hailing service) or a metered taxi — Hue has no metro or extensive public bus network geared to tourists. Walking is feasible if you're staying in Thuận Hóa or Phú Hội.
+    a: >-
+      Use the Grab app (Vietnam's main ride-hailing service) or a metered taxi —
+      Hue has no metro or extensive public bus network geared to tourists.
+      Walking is feasible if you're staying in Thuận Hóa or Phú Hội.
   - q: What should I order first?
-    a: Start with bún bò Huế for the city's signature spicy noodle soup, then share bánh khoái (crispy pancake) and the bánh bèo/nậm/lọc trio of steamed rice cakes for a fuller taste of Hue home-style cooking.
+    a: >-
+      Start with bún bò Huế for the city's signature spicy noodle soup, then
+      share bánh khoái (crispy pancake) and the bánh bèo/nậm/lọc trio of steamed
+      rice cakes for a fuller taste of Hue home-style cooking.
   - q: Is it expensive?
-    a: No — it's listed at the lowest price tier, making it an affordable option even with the standout 4.8 rating from thousands of reviews. Exact prices vary, so check current menu pricing on arrival.
+    a: >-
+      No — it's listed at the lowest price tier, making it an affordable option
+      even with the standout 4.8 rating from thousands of reviews. Exact prices
+      vary, so check current menu pricing on arrival.
   - q: What's the best time to visit to avoid crowds?
-    a: Aim for right at opening or the mid-afternoon lull between lunch and dinner; peak hours (12-1:30pm and 6:30-8pm) can mean a short wait given its popularity.
+    a: >-
+      Aim for right at opening or the mid-afternoon lull between lunch and
+      dinner; peak hours (12-1:30pm and 6:30-8pm) can mean a short wait given
+      its popularity.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 ## Why Maison Trang Stands Out

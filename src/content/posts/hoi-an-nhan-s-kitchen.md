@@ -1,24 +1,29 @@
 ---
 title: 'Nhan''s kitchen: Where to Eat in Hoi An'
-description: Nhan's Kitchen is a budget-friendly, locally run restaurant at 167 Trần Nhân Tông in Hoi An, prized for cheap, home-style Vietnamese and Hoi An specialty dishes (cao lầu, white rose dumplings, bánh xèo) served fast and fresh.
+description: >-
+  Nhan's Kitchen is a budget-friendly, locally run restaurant at 167 Trần Nhân
+  Tông in Hoi An, prized for cheap, home-style Vietnamese and Hoi An specialty
+  dishes (cao lầu, white rose dumplings, bánh xèo) served fast and fresh.
 country: Vietnam
 region: Hoi An
 category: restaurant
 pubDate: '2026-07-22T09:31:54.111Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/14924146_gny4B2db0A82U3asM40PzwZn_GNZ1zmaXF03-28fpVE.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/14924146_gny4B2db0A82U3asM40PzwZn_GNZ1zmaXF03-28fpVE.jpg
   credit: 'Photo: Foursquare user content (Nhan''s Kitchen)'
   license: foursquare
-  source: https://foursquare.com/v/5911b5c6c4df1d4bbb43626a
+  source: 'https://foursquare.com/v/5911b5c6c4df1d4bbb43626a'
 gallery: []
 place:
   id: ChIJ6fB6B84NQjERfBVBuTN3xDU
   name: Nhan's kitchen
-  address: 167 Trần Nhân Tông, Hội An Đông, Đà Nẵng, Vietnam
+  address: '167 Trần Nhân Tông, Hội An Đông, Đà Nẵng, Vietnam'
   rating: 4.9
-  userRatingsTotal: 5651
+  userRatingsTotal: 5796
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=3874352643480556924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3874352643480556924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 15.878230700000001
   lng: 108.34513369999999
@@ -45,7 +50,7 @@ place:
       - 19
       - 20
     venueId: ven_554478334e54754256426652456a514e343842364266364a496843
-  phone: '+84 905 186 867'
+  phone: +84 905 186 867
   openingHours:
     - 'Monday: 10:00 AM – 9:20 PM'
     - 'Tuesday: 10:00 AM – 9:20 PM'
@@ -57,20 +62,41 @@ place:
 tags:
   - hoi an
   - local restaurant
-quickAnswer: Nhan's Kitchen is a budget-friendly, locally run restaurant at 167 Trần Nhân Tông in Hoi An, prized for cheap, home-style Vietnamese and Hoi An specialty dishes (cao lầu, white rose dumplings, bánh xèo) served fast and fresh. With a 4.9 rating from over 5,600 reviews, it's one of the most consistently praised budget eats in town — go for lunch or early dinner and expect a short wait during peak season.
+quickAnswer: >-
+  Nhan's Kitchen is a budget-friendly, locally run restaurant at 167 Trần Nhân
+  Tông in Hoi An, prized for cheap, home-style Vietnamese and Hoi An specialty
+  dishes (cao lầu, white rose dumplings, bánh xèo) served fast and fresh. With a
+  4.9 rating from over 5,600 reviews, it's one of the most consistently praised
+  budget eats in town — go for lunch or early dinner and expect a short wait
+  during peak season.
 faq:
   - q: Is Nhan's Kitchen inside the Old Town walking zone?
-    a: No — the address (167 Trần Nhân Tông, Hội An Đông) is just outside the pedestrian Ancient Town core, so plan a short bike ride, walk, or taxi/Grab rather than expecting to pass it on a stroll through the lantern streets.
+    a: >-
+      No — the address (167 Trần Nhân Tông, Hội An Đông) is just outside the
+      pedestrian Ancient Town core, so plan a short bike ride, walk, or
+      taxi/Grab rather than expecting to pass it on a stroll through the lantern
+      streets.
   - q: What should I order?
-    a: Start with cao lầu and white rose dumplings, both Hoi An specialties, then add bánh xèo (crispy pancake) and spring rolls to share across the table.
+    a: >-
+      Start with cao lầu and white rose dumplings, both Hoi An specialties, then
+      add bánh xèo (crispy pancake) and spring rolls to share across the table.
   - q: How much does a meal cost?
-    a: It's listed at the lowest price tier, meaning a full meal typically runs cheap by international standards — expect casual local-restaurant pricing rather than tourist-menu markups, but confirm current prices on-site.
+    a: >-
+      It's listed at the lowest price tier, meaning a full meal typically runs
+      cheap by international standards — expect casual local-restaurant pricing
+      rather than tourist-menu markups, but confirm current prices on-site.
   - q: When is the best time to visit to avoid crowds?
-    a: Aim for lunch around 11:30am–1pm or dinner before 6pm; the dry season (Feb–July) is busiest, so arriving right at opening helps avoid a wait given its popularity.
+    a: >-
+      Aim for lunch around 11:30am–1pm or dinner before 6pm; the dry season
+      (Feb–July) is busiest, so arriving right at opening helps avoid a wait
+      given its popularity.
   - q: Do I need a reservation?
-    a: It's a casual, high-turnover local kitchen, so reservations aren't typical — just be prepared for a short queue at peak meal times given its strong reputation.
+    a: >-
+      It's a casual, high-turnover local kitchen, so reservations aren't typical
+      — just be prepared for a short queue at peak meal times given its strong
+      reputation.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-04'
 ---
 
 ## Why go

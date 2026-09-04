@@ -1,26 +1,33 @@
 ---
 title: StreetXO Ibiza
-description: StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant inside The Unexpected Ibiza Hotel, built around a central bar and open kitchen.
+description: >-
+  StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant
+  inside The Unexpected Ibiza Hotel, built around a central bar and open
+  kitchen.
 country: Spain
 region: Ibiza
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg
   credit: 'Photo: Foursquare user content (Streetxo Ibiza)'
   license: foursquare
-  source: https://foursquare.com/v/6a285f132f1cf70096f7b73f
+  source: 'https://foursquare.com/v/6a285f132f1cf70096f7b73f'
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJ5__0NVRFmRIRXwojBSrPEFw
   name: StreetXO Ibiza
-  address: Ctra. de Platja d'en Bossa, 10, 07817 Sant Jordi de ses Salines, Illes Balears, Spain
-  rating: 4.8
-  userRatingsTotal: 68
-  googleMapsUrl: https://maps.google.com/?cid=6634030030498499167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    Ctra. de Platja d'en Bossa, 10, 07817 Sant Jordi de ses Salines, Illes
+    Balears, Spain
+  rating: 4.5
+  userRatingsTotal: 141
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6634030030498499167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.8845894
   lng: 1.4035898999999998
@@ -36,19 +43,44 @@ place:
 tags:
   - ibiza
   - new & trending
-quickAnswer: StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant inside The Unexpected Ibiza Hotel, built around a central bar and open kitchen. It's the Ibiza outpost of the same StreetXO brand behind Muñoz's globally ranked DiverXO, so expect theatrical, fusion-driven street food rather than a casual bite. Book ahead, dress the part, and confirm current hours and reservation policy directly with the hotel before you go, since details for a new seasonal opening can shift.
+quickAnswer: >-
+  StreetXO Ibiza is chef Dabiz Muñoz's high-concept street food restaurant
+  inside The Unexpected Ibiza Hotel, built around a central bar and open
+  kitchen. It's the Ibiza outpost of the same StreetXO brand behind Muñoz's
+  globally ranked DiverXO, so expect theatrical, fusion-driven street food
+  rather than a casual bite. Book ahead, dress the part, and confirm current
+  hours and reservation policy directly with the hotel before you go, since
+  details for a new seasonal opening can shift.
 faq:
   - q: Where exactly is StreetXO Ibiza located?
-    a: It's housed inside The Unexpected Ibiza Hotel. Confirm the exact address and any entrance details when you book, since hotel-based restaurants sometimes have a separate entrance from the main hotel lobby.
+    a: >-
+      It's housed inside The Unexpected Ibiza Hotel. Confirm the exact address
+      and any entrance details when you book, since hotel-based restaurants
+      sometimes have a separate entrance from the main hotel lobby.
   - q: Do I need a reservation?
-    a: Yes — given chef Dabiz Muñoz's profile (DiverXO, World's 50 Best), tables are likely to book up quickly during summer. Reserve as early as possible through the hotel's official booking channels.
+    a: >-
+      Yes — given chef Dabiz Muñoz's profile (DiverXO, World's 50 Best), tables
+      are likely to book up quickly during summer. Reserve as early as possible
+      through the hotel's official booking channels.
   - q: What kind of food does StreetXO serve?
-    a: It's a high-end take on global street food, fusing influences from Asian, Latin American, and Mediterranean cuisines with fine-dining technique, served around a central bar and open kitchen. Exact dishes and prices weren't confirmed at the time of writing, so check current offerings directly.
+    a: >-
+      It's a high-end take on global street food, fusing influences from Asian,
+      Latin American, and Mediterranean cuisines with fine-dining technique,
+      served around a central bar and open kitchen. Exact dishes and prices
+      weren't confirmed at the time of writing, so check current offerings
+      directly.
   - q: When is it open?
-    a: It's positioned as a summer concept tied to Ibiza's high season (roughly May–October). Specific opening hours and days should be confirmed with the hotel close to your travel dates, since this is a newly launched venue.
+    a: >-
+      It's positioned as a summer concept tied to Ibiza's high season (roughly
+      May–October). Specific opening hours and days should be confirmed with the
+      hotel close to your travel dates, since this is a newly launched venue.
   - q: How do I get there at night?
-    a: Pre-book a taxi or car service rather than hailing one on the spot — Ibiza's taxi availability tightens considerably during peak summer evenings, particularly around dinner and club hours.
+    a: >-
+      Pre-book a taxi or car service rather than hailing one on the spot —
+      Ibiza's taxi availability tightens considerably during peak summer
+      evenings, particularly around dinner and club hours.
 aiGenerated: true
+updatedDate: '2026-09-04'
 ---
 
 ## Why StreetXO Ibiza Matters

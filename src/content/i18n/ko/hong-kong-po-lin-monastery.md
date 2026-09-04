@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: hong-kong-po-lin-monastery
-srcHash: '34526741a934'
+srcHash: '9bddebfd8875'
 title: '보린사(포린사): 홍콩 여행 가이드 (4.5★)'
-description: 란타우 섬(Lantau Island)의 보린사(Po Lin Monastery)는 매일 오전 9시~오후 6시에 문을 열며, 가장 여유롭게 둘러보는 방법은 첫 능핑 360(Ngong Ping 360) 케이블카를 타고 오전 10시 전에 대불(Big Buddha)에 도착하는 것입니다. 4.5★(리뷰 10,463개) — 방문객들의 후기, 운영시간, 그리고 꿀팁을 소개합니다.
+description: 란타우 섬(Lantau Island)의 보린사(Po Lin Monastery)는 매일 오전 9시~오후 6시에 문을 열며, 가장 여유롭게 둘러보는 방법은 첫 능핑 360(Ngong Ping 360) 케이블카를 타고 오전 10시 전에 대불(Big Buddha)에 도착하는 것입니다. 4.5★(리뷰 10,473개) — 방문객들의 후기, 운영시간, 그리고 꿀팁을 소개합니다.
 quickAnswer: 란타우 섬(Lantau Island)의 보린사(Po Lin Monastery)는 매일 오전 9시~오후 6시에 문을 열며, 가장 여유롭게 둘러보는 방법은 첫 능핑 360(Ngong Ping 360) 케이블카를 타고 오전 10시 전에 대불(Big Buddha)에 도착하는 것입니다. 주말 오전 10시부터 오후 4시 사이에는 단체 관광객으로 매우 혼잡해지므로, 이른 시간이나 오후 4시 이후를 목표로 하세요. 케이블카 탑승과 천단대불(Tian Tan Buddha)까지 이어지는 268개의 계단을 오르는 것까지 포함해 반나절 정도를 계획하세요.
 faq:
   - q: 보린사의 운영시간은 어떻게 되나요?

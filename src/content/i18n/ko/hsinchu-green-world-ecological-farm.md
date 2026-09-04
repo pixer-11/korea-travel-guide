@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: hsinchu-green-world-ecological-farm
-srcHash: '6638313fc06b'
+srcHash: 'd386907075db'
 title: '그린월드 생태농장(Green World Ecological Farm): 신주(Hsinchu) 여행 가이드 (4.6★)'
-description: 그린월드 생태농장(Green World Ecological Farm)은 베이푸 향(Beipu Township)에 위치한 대규모 야외 야생동물원 겸 식물원으로, 신주(Hsinchu) 시내에서 차로 약 40~50분 거리에 있습니다. 4.6★ (32,634건의 리뷰) — 방문객들의 후기, 운영시간, 그리고 여행 팁을 소개합니다.
+description: 그린월드 생태농장(Green World Ecological Farm)은 베이푸 향(Beipu Township)에 위치한 대규모 야외 야생동물원 겸 식물원으로, 신주(Hsinchu) 시내에서 차로 약 40~50분 거리에 있습니다. 4.6★ (32,673건의 리뷰) — 방문객들의 후기, 운영시간, 그리고 여행 팁을 소개합니다.
 quickAnswer: 그린월드 생태농장(Green World Ecological Farm)은 베이푸 향(Beipu Township)에 위치한 대규모 야외 야생동물원 겸 식물원으로, 신주(Hsinchu) 시내에서 차로 약 40~50분 거리에 있습니다. 동물 공연, 걸어서 둘러보는 조류사, 호숫가 산책로까지 둘러보려면 3~4시간 정도를 계획하는 것이 좋습니다. 평일 오전 9시부터 오후 5시까지는 주말보다 눈에 띄게 여유롭지만, 주말에는 오전 10시부터 인파가 꾸준히 늘어납니다.
 faq:
   - q: 방문 시 시간은 얼마나 잡아야 하나요?

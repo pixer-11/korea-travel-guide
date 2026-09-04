@@ -1,27 +1,36 @@
 ---
 title: 'Cova de Can Marçà: Ibiza Travel Guide'
-description: Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant Miquel, reached by a guided walkway tour that ends with a waterfall-and-light show synced to music.
+description: >-
+  Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant
+  Miquel, reached by a guided walkway tour that ends with a waterfall-and-light
+  show synced to music.
 country: Spain
 region: Ibiza
 category: attraction
 pubDate: '2026-07-27T10:56:43.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg
   credit: 'Photo: Saaremees / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1385395585_JztsB34rEMgO06sxdVYQz5l4LFBYo9IyhjiSZ1KZk6E.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1385395585_JztsB34rEMgO06sxdVYQz5l4LFBYo9IyhjiSZ1KZk6E.jpg
     credit: 'Photo: Foursquare user content (Cova de Can Marça)'
     license: foursquare
-    source: https://foursquare.com/v/4c4ea2da9932e21eec760fce
+    source: 'https://foursquare.com/v/4c4ea2da9932e21eec760fce'
 place:
   id: ChIJjWdAtoo7mRIRcu-OCGE2kaU
   name: Cova de Can Marçà
-  address: Cueva de Can Marsa, Port de Balansat, 07815 Puerto de San Miguel - Ibiza, Illes Balears, Spain
+  address: >-
+    Cueva de Can Marsa, Port de Balansat, 07815 Puerto de San Miguel - Ibiza,
+    Illes Balears, Spain
   rating: 4.1
-  userRatingsTotal: 4919
-  googleMapsUrl: https://maps.google.com/?cid=11930376678264467314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4969
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11930376678264467314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.083438
   lng: 1.442341
@@ -37,20 +46,41 @@ place:
 tags:
   - ibiza
   - top attraction
-quickAnswer: Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant Miquel, reached by a guided walkway tour that ends with a waterfall-and-light show synced to music. Budget about an hour for the visit, wear grippy shoes (steps are damp and uneven), and go early morning or late afternoon to dodge the coach-tour crush that peaks midday. Combine it with a swim at Sant Miquel bay right below.
+quickAnswer: >-
+  Cova de Can Marçà is a smugglers' cave on Ibiza's north coast at Port de Sant
+  Miquel, reached by a guided walkway tour that ends with a waterfall-and-light
+  show synced to music. Budget about an hour for the visit, wear grippy shoes
+  (steps are damp and uneven), and go early morning or late afternoon to dodge
+  the coach-tour crush that peaks midday. Combine it with a swim at Sant Miquel
+  bay right below.
 faq:
   - q: How do I get to Cova de Can Marçà?
-    a: It's on Ibiza's north coast at Port de Sant Miquel, best reached by car or taxi via the road down to the bay; there's a small car park near the cave entrance that fills early in peak season.
+    a: >-
+      It's on Ibiza's north coast at Port de Sant Miquel, best reached by car or
+      taxi via the road down to the bay; there's a small car park near the cave
+      entrance that fills early in peak season.
   - q: How long should I plan for the visit?
-    a: The guided walkway tour, including the waterfall light show at the end, takes roughly 45 minutes to an hour.
+    a: >-
+      The guided walkway tour, including the waterfall light show at the end,
+      takes roughly 45 minutes to an hour.
   - q: When is the quietest time to visit?
-    a: Go right at opening or in the last couple of hours before closing — midday, especially in July and August, is when coach tours crowd the entrance and walkway.
+    a: >-
+      Go right at opening or in the last couple of hours before closing —
+      midday, especially in July and August, is when coach tours crowd the
+      entrance and walkway.
   - q: Is the cave suitable for kids or people with mobility issues?
-    a: There are stairs and uneven, often damp walkway sections throughout, so it's manageable for most kids with supervision but difficult for strollers, wheelchairs, or anyone unsteady on their feet.
+    a: >-
+      There are stairs and uneven, often damp walkway sections throughout, so
+      it's manageable for most kids with supervision but difficult for
+      strollers, wheelchairs, or anyone unsteady on their feet.
   - q: What else is nearby?
-    a: Port de Sant Miquel's beach and bay sit just below the cave, making it easy to combine the tour with a swim; the cafeteria and souvenir shop at the entrance cover a quick coffee or snack.
+    a: >-
+      Port de Sant Miquel's beach and bay sit just below the cave, making it
+      easy to combine the tour with a swim; the cafeteria and souvenir shop at
+      the entrance cover a quick coffee or snack.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

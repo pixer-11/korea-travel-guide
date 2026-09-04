@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: iloilo-national-museum-of-the-philippines-iloilo
-srcHash: 'bdf791424ac9'
+srcHash: '440caccf8e40'
 title: 'Museo Nacional de Filipinas: Guía de viaje de Iloilo'
-description: 'El Museo Nacional de Filipinas - Iloilo ocupa la antigua aduana de Iloilo en Bonifacio Drive, justo junto al malecón del río. 4.7★ (166 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Nacional de Filipinas - Iloilo ocupa la antigua aduana de Iloilo en Bonifacio Drive, justo junto al malecón del río. 4.7★ (169 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo Nacional de Filipinas - Iloilo ocupa la antigua aduana de Iloilo en Bonifacio Drive, justo junto al malecón del río. Abre todos los días de 9:00 a 17:00, la entrada es gratuita y se puede recorrer todo con comodidad en 1,5 a 2 horas. Conviene ir un día de semana por la mañana si se quiere tener las salas para uno mismo: incluso para los estándares de Iloilo, sigue siendo un lugar tranquilo y poco conocido.'
 faq:
   - q: ¿Hay que pagar entrada?

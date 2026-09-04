@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hong-kong-victoria-harbour
-srcHash: 'b1aa6a6cf960'
+srcHash: 'ae72f95453d7'
 title: 'Victoria Harbour: guía de viaje de Hong Kong (4,6★)'
-description: 'El puerto de Victoria (Victoria Harbour) es el gran escenario marítimo de Hong Kong, que se disfruta mejor desde el paseo de Tsim Sha Tsui o desde el lado de Central/Admiralty al atardecer, cuando el perfil urbano se ilumina y el espectáculo Symphony of Lights se celebra cada noche a las 20:00. 4,6★ (5.719 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El puerto de Victoria (Victoria Harbour) es el gran escenario marítimo de Hong Kong, que se disfruta mejor desde el paseo de Tsim Sha Tsui o desde el lado de Central/Admiralty al atardecer, cuando el perfil urbano se ilumina y el espectáculo Symphony of Lights se celebra cada noche a las 20:00. 4,6★ (5.721 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El puerto de Victoria es el gran escenario marítimo de Hong Kong, que se disfruta mejor desde el paseo de Tsim Sha Tsui o desde el lado de Central/Admiralty al atardecer, cuando el perfil urbano se ilumina y el espectáculo Symphony of Lights se celebra cada noche a las 20:00. Conviene reservar una hora para pasear, más si se hace la travesía en el Star Ferry (unos 10 minutos y una de las vistas del puerto más baratas que existen). Es un lugar muy concurrido, así que conviene llegar antes de las 19:30 para conseguir un buen sitio junto a la barandilla para el espectáculo de luces.
 faq:
   - q: ¿Cuál es el mejor momento del día para visitar el puerto de Victoria?

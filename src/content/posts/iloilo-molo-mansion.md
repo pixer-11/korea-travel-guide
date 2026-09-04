@@ -1,40 +1,49 @@
 ---
-title: "Molo Mansion: Iloilo Travel Guide (4.5★)"
-description: "Molo Mansion is a restored early-1900s ancestral home in Molo, Iloilo City, now housing a café and souvenir shop full of local artisanal goods. 4.5★ (1,606 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Iloilo"
-category: "attraction"
-pubDate: "2026-08-11T09:00:41.581Z"
+title: 'Molo Mansion: Iloilo Travel Guide (4.5★)'
+description: >-
+  Molo Mansion is a restored early-1900s ancestral home in Molo, Iloilo City,
+  now housing a café and souvenir shop full of local artisanal goods. 4.5★
+  (1,617 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Iloilo
+category: attraction
+pubDate: '2026-08-11T09:00:41.581Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iloilo_Molo_Mansion.jpg/1920px-Iloilo_Molo_Mansion.jpg"
-  credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Iloilo_Molo_Mansion.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iloilo_Molo_Mansion.jpg/1920px-Iloilo_Molo_Mansion.jpg
+  credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Iloilo_Molo_Mansion.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Molo_Mansion%2C_Iloilo_City%2C_Aug_2024.jpg/3840px-Molo_Mansion%2C_Iloilo_City%2C_Aug_2024.jpg"
-    credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Molo_Mansion,_Iloilo_City,_Aug_2024.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Molo_Mansion%2C_Iloilo_City%2C_Aug_2024.jpg/3840px-Molo_Mansion%2C_Iloilo_City%2C_Aug_2024.jpg
+    credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Molo_Mansion,_Iloilo_City,_Aug_2024.jpg
 place:
-  id: "ChIJL4eze1HlrjMRXHVnlSkU4oE"
-  name: "Molo Mansion"
-  address: "Yusay-Consing Mansion, 2 Locsin St, Katilingban, Molo, Iloilo City, 5000 Iloilo, Philippines"
+  id: ChIJL4eze1HlrjMRXHVnlSkU4oE
+  name: Molo Mansion
+  address: >-
+    Yusay-Consing Mansion, 2 Locsin St, Katilingban, Molo, Iloilo City, 5000
+    Iloilo, Philippines
   rating: 4.5
-  userRatingsTotal: 1606
-  googleMapsUrl: "https://maps.google.com/?cid=9359065144462112092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1617
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9359065144462112092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.6965183
   lng: 122.54346149999999
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -50,24 +59,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_456f34556b536c6e564858524d6a726c4831657a65344c4a496843"
+    venueId: ven_456f34556b536c6e564858524d6a726c4831657a65344c4a496843
 tags:
-  - "iloilo"
-  - "top attraction"
-quickAnswer: "Molo Mansion is a restored early-1900s ancestral home in Molo, Iloilo City, now housing a café and souvenir shop full of local artisanal goods. It's open daily (from 9am Sunday, 10am other days, until 7pm), and the calmest time to wander the halls is weekday mornings between 10am and 1pm. Budget an hour, then walk five minutes to Molo Church next door."
+  - iloilo
+  - top attraction
+quickAnswer: >-
+  Molo Mansion is a restored early-1900s ancestral home in Molo, Iloilo City,
+  now housing a café and souvenir shop full of local artisanal goods. It's open
+  daily (from 9am Sunday, 10am other days, until 7pm), and the calmest time to
+  wander the halls is weekday mornings between 10am and 1pm. Budget an hour,
+  then walk five minutes to Molo Church next door.
 faq:
-  - q: "How do I get to Molo Mansion from central Iloilo City?"
-    a: "It's about 15–20 minutes by tricycle, taxi, or ride-hailing app from downtown Iloilo City to Locsin St in Molo district."
-  - q: "What are the opening hours?"
-    a: "10am–7pm Monday through Saturday, and 9am–7pm on Sunday. Confirm before visiting since hours can shift around holidays or private events."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings from 10am to 1pm are calmest, with weekend mornings from 9am to 11am a close second. Avoid weekend afternoons from 3pm to 7pm, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour and a half, longer if you have a full meal at the café."
-  - q: "What else is nearby?"
-    a: "Molo Church (Sto. Domingo Parish) is a five-minute walk away, and Molo Plaza is close by too, making it easy to combine into a half-day heritage walk."
+  - q: How do I get to Molo Mansion from central Iloilo City?
+    a: >-
+      It's about 15–20 minutes by tricycle, taxi, or ride-hailing app from
+      downtown Iloilo City to Locsin St in Molo district.
+  - q: What are the opening hours?
+    a: >-
+      10am–7pm Monday through Saturday, and 9am–7pm on Sunday. Confirm before
+      visiting since hours can shift around holidays or private events.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings from 10am to 1pm are calmest, with weekend mornings from
+      9am to 11am a close second. Avoid weekend afternoons from 3pm to 7pm, when
+      it's busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to an hour and a half, longer if you have a
+      full meal at the café.
+  - q: What else is nearby?
+    a: >-
+      Molo Church (Sto. Domingo Parish) is a five-minute walk away, and Molo
+      Plaza is close by too, making it easy to combine into a half-day heritage
+      walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

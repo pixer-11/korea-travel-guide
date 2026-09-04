@@ -1,43 +1,50 @@
 ---
-title: "Gülhane Park: Istanbul Travel Guide (4.7★)"
-description: "Gülhane Park in Istanbul's Fatih district, right outside Topkapı Palace's outer walls, is open 24 hours and free to enter, making it an easy add-on before or after the palace. 4.7★ (69,119 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Istanbul"
-category: "attraction"
-pubDate: "2026-08-29T15:11:01.191Z"
+title: 'Gülhane Park: Istanbul Travel Guide (4.7★)'
+description: >-
+  Gülhane Park in Istanbul's Fatih district, right outside Topkapı Palace's
+  outer walls, is open 24 hours and free to enter, making it an easy add-on
+  before or after the palace. 4.7★ (69,188 reviews) — what visitors say, hours,
+  and tips.
+country: Turkey
+region: Istanbul
+category: attraction
+pubDate: '2026-08-29T15:11:01.191Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%BClhane_Park%2C_Istanbul.jpg/1920px-G%C3%BClhane_Park%2C_Istanbul.jpg"
-  credit: "Photo: Maurice Flesier / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:G%C3%BClhane_Park,_Istanbul.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%BClhane_Park%2C_Istanbul.jpg/1920px-G%C3%BClhane_Park%2C_Istanbul.jpg
+  credit: 'Photo: Maurice Flesier / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:G%C3%BClhane_Park,_Istanbul.jpg'
   focus:
     x: 50
-    y: 60
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Historical_Gulhane_Park.jpg/3840px-Historical_Gulhane_Park.jpg"
-    credit: "Photo: Rukiye Karakoyun / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Historical_Gulhane_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Historical_Gulhane_Park.jpg/3840px-Historical_Gulhane_Park.jpg
+    credit: 'Photo: Rukiye Karakoyun / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Historical_Gulhane_Park.jpg'
 place:
-  id: "ChIJK9q8Nce5yhQRy0am325qXgY"
-  name: "Gülhane Park"
-  address: "Cankurtaran, Kennedy Cad., 34122 Fatih/İstanbul, Türkiye"
+  id: ChIJK9q8Nce5yhQRy0am325qXgY
+  name: Gülhane Park
+  address: 'Cankurtaran, Kennedy Cad., 34122 Fatih/İstanbul, Türkiye'
   rating: 4.7
-  userRatingsTotal: 69119
-  googleMapsUrl: "https://maps.google.com/?cid=458921236469532363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 69188
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=458921236469532363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.0133079
   lng: 28.981510099999998
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-29
+    updated: 2026-08-29T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -56,24 +63,48 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_596758713532336d613079525168793565634e3871394b4a496843"
+    venueId: ven_596758713532336d613079525168793565634e3871394b4a496843
 tags:
-  - "istanbul"
-  - "park"
-quickAnswer: "Gülhane Park in Istanbul's Fatih district, right outside Topkapı Palace's outer walls, is open 24 hours and free to enter, making it an easy add-on before or after the palace. Weekend mornings between 7am and 9am are the quietest window; from noon to 8pm on weekends it fills up fast, especially near the tulip beds and the tea garden overlooking the Bosphorus. Give it 45 minutes to stroll through, or over an hour if you want to sit by the fountain and visit the Museum of the History of Science and Technology in Islam."
+  - istanbul
+  - park
+quickAnswer: >-
+  Gülhane Park in Istanbul's Fatih district, right outside Topkapı Palace's
+  outer walls, is open 24 hours and free to enter, making it an easy add-on
+  before or after the palace. Weekend mornings between 7am and 9am are the
+  quietest window; from noon to 8pm on weekends it fills up fast, especially
+  near the tulip beds and the tea garden overlooking the Bosphorus. Give it 45
+  minutes to stroll through, or over an hour if you want to sit by the fountain
+  and visit the Museum of the History of Science and Technology in Islam.
 faq:
-  - q: "Is Gülhane Park free to enter?"
-    a: "Yes, the park itself has no admission fee and is open 24 hours daily. The Museum of the History of Science and Technology in Islam inside the park has its own separate hours and ticket, so confirm those before visiting."
-  - q: "When is Gülhane Park least crowded?"
-    a: "Weekend mornings between 7am and 9am are the quietest stretch. Try to avoid noon to 8pm on weekends, when it's at its busiest, especially around the tulip beds and tea garden."
-  - q: "How do I get to Gülhane Park?"
-    a: "Take the T1 tram line to the Gülhane stop, which lets out right at one of the park's main entrances. It's also a flat ten-minute walk from Sultanahmet Square along the outer wall of Topkapı Palace."
-  - q: "What's the best time of year to visit?"
-    a: "April is the standout month, when Gülhane is planted with dense tulip displays as part of Istanbul's annual Tulip Festival. Outside of that, spring through early autumn gives the most pleasant walking weather under the plane and chestnut trees."
-  - q: "How long should I plan to spend there?"
-    a: "A straightforward walk through takes about 45 minutes. Add the science museum and a stop at the tea garden overlooking the Golden Horn and you're looking at 60 to 90 minutes."
+  - q: Is Gülhane Park free to enter?
+    a: >-
+      Yes, the park itself has no admission fee and is open 24 hours daily. The
+      Museum of the History of Science and Technology in Islam inside the park
+      has its own separate hours and ticket, so confirm those before visiting.
+  - q: When is Gülhane Park least crowded?
+    a: >-
+      Weekend mornings between 7am and 9am are the quietest stretch. Try to
+      avoid noon to 8pm on weekends, when it's at its busiest, especially around
+      the tulip beds and tea garden.
+  - q: How do I get to Gülhane Park?
+    a: >-
+      Take the T1 tram line to the Gülhane stop, which lets out right at one of
+      the park's main entrances. It's also a flat ten-minute walk from
+      Sultanahmet Square along the outer wall of Topkapı Palace.
+  - q: What's the best time of year to visit?
+    a: >-
+      April is the standout month, when Gülhane is planted with dense tulip
+      displays as part of Istanbul's annual Tulip Festival. Outside of that,
+      spring through early autumn gives the most pleasant walking weather under
+      the plane and chestnut trees.
+  - q: How long should I plan to spend there?
+    a: >-
+      A straightforward walk through takes about 45 minutes. Add the science
+      museum and a stop at the tea garden overlooking the Golden Horn and you're
+      looking at 60 to 90 minutes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: hong-kong-hong-kong-park
-srcHash: '9591d607c152'
+srcHash: '496e57b78a95'
 title: 홍콩 파크 여행 가이드 (4.5★)
-description: 홍콩 파크(Hong Kong Park)는 센트럴(Central)에 위치한 무료 입장, 연중무휴 개방형 녹지 공간으로, 조류원과 폭포길, 에드워드 유데 온실(Edward Youde Conservatory)로 잘 알려져 있습니다. 4.5★ (2,325개 리뷰) — 방문객들의 후기, 운영시간, 그리고 유용한 팁을 소개합니다.
+description: 홍콩 파크(Hong Kong Park)는 센트럴(Central)에 위치한 무료 입장, 연중무휴 개방형 녹지 공간으로, 조류원과 폭포길, 에드워드 유데 온실(Edward Youde Conservatory)로 잘 알려져 있습니다. 4.5★ (2,331개 리뷰) — 방문객들의 후기, 운영시간, 그리고 유용한 팁을 소개합니다.
 quickAnswer: 홍콩 파크(Hong Kong Park)는 센트럴(Central)에 위치한 무료 입장, 연중무휴 개방형 녹지 공간으로, 조류원과 폭포길, 에드워드 유데 온실(Edward Youde Conservatory)로 잘 알려져 있습니다. 가능하다면 평일 오전에 방문하는 것이 좋습니다 — 공원은 매일 오전 6시부터 오후 11시까지 개방되며, 오전과 저녁 시간대가 가장 여유롭고, 주말에는 오전 10시부터 오후 5시 사이에 사람들이 빠르게 몰립니다.
 faq:
   - q: MTR로 홍콩 파크에 가려면 어떻게 해야 하나요?

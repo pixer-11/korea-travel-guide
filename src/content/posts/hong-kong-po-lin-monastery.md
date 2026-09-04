@@ -1,25 +1,31 @@
 ---
 title: 'Po Lin Monastery: Hong Kong Travel Guide (4.5★)'
-description: Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. 4.5★ (10,463 reviews) — what visitors say, hours, and tips.
+description: >-
+  Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way
+  to see it is to ride the first Ngong Ping 360 cable car out and be at the Big
+  Buddha before 10am. 4.5★ (10,473 reviews) — what visitors say, hours, and
+  tips.
 country: Hong Kong
 region: Hong Kong
 category: attraction
 pubDate: '2026-08-13T08:48:42.545Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12554873_18Z4VgZa4cRZ56nAgNcFrdrQFcgxPL3eifL_kAbRQ0E.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/12554873_18Z4VgZa4cRZ56nAgNcFrdrQFcgxPL3eifL_kAbRQ0E.jpg
   credit: 'Photo: Foursquare user content (Po Lin Monastery (寶蓮禪寺))'
   license: foursquare
-  source: https://foursquare.com/v/4b0588d3f964a520cadb22e3
+  source: 'https://foursquare.com/v/4b0588d3f964a520cadb22e3'
   focus:
     x: 30
     'y': 45
 place:
   id: ChIJP9fVNl9YATQRPBvErn2e8zI
   name: Po Lin Monastery
-  address: 大嶼山昂坪寶蓮禪寺 Ngong Ping, Lantau Island, Hong Kong
+  address: '大嶼山昂坪寶蓮禪寺 Ngong Ping, Lantau Island, New Territories, Hong Kong'
   rating: 4.5
-  userRatingsTotal: 10463
-  googleMapsUrl: https://maps.google.com/?cid=3671452383877274428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 10473
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3671452383877274428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.2554932
   lng: 113.9080796
@@ -54,19 +60,38 @@ place:
 tags:
   - hong kong
   - historic site
-quickAnswer: Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. Weekends between 10am and 4pm get packed with tour groups, so aim either early or after 4pm. Budget half a day including the cable car ride and the 268 steps up to the Tian Tan Buddha.
+quickAnswer: >-
+  Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way
+  to see it is to ride the first Ngong Ping 360 cable car out and be at the Big
+  Buddha before 10am. Weekends between 10am and 4pm get packed with tour groups,
+  so aim either early or after 4pm. Budget half a day including the cable car
+  ride and the 268 steps up to the Tian Tan Buddha.
 faq:
   - q: What are the opening hours for Po Lin Monastery?
-    a: It's open daily from 9:00 AM to 6:00 PM, with no variation across the week — plan your cable car timing around this window.
+    a: >-
+      It's open daily from 9:00 AM to 6:00 PM, with no variation across the week
+      — plan your cable car timing around this window.
   - q: When is the quietest time to visit?
-    a: The site stays comparatively calm across its full 9am–6pm hours on both weekdays and weekends, as long as you avoid the 10am–4pm weekend peak when tour groups converge.
+    a: >-
+      The site stays comparatively calm across its full 9am–6pm hours on both
+      weekdays and weekends, as long as you avoid the 10am–4pm weekend peak when
+      tour groups converge.
   - q: How do I get to Po Lin Monastery from central Hong Kong?
-    a: Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong Ping 360 cable car (about 25 minutes) or bus 23, both ending near the monastery.
+    a: >-
+      Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong
+      Ping 360 cable car (about 25 minutes) or bus 23, both ending near the
+      monastery.
   - q: How long should I spend there?
-    a: Plan for three to four hours total, including the cable car ride, the climb to the Big Buddha, and time to explore the monastery grounds and Ngong Ping Village.
+    a: >-
+      Plan for three to four hours total, including the cable car ride, the
+      climb to the Big Buddha, and time to explore the monastery grounds and
+      Ngong Ping Village.
   - q: Is there anywhere to eat nearby?
-    a: Yes — the monastery runs an on-site vegetarian restaurant serving set meals, and Ngong Ping Village has tea shops and casual food stalls.
+    a: >-
+      Yes — the monastery runs an on-site vegetarian restaurant serving set
+      meals, and Ngong Ping Village has tea shops and casual food stalls.
 aiGenerated: true
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

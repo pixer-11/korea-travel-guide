@@ -1,27 +1,35 @@
 ---
 title: Chinatown in Incheon
-description: 'Incheon''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of Chinatown-ro, eat jajangmyeon (black bean noodles) at one of the old-school Chinese restaurants, then walk up to Jayu (Freedom) Park and down to the Open Port modern history streets and Wangbimarosugil mural alley.'
+description: >-
+  Incheon's Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is
+  best treated as a half-day trip: wander the red-lantern-lined slope of
+  Chinatown-ro, eat jajangmyeon (black bean noodles) at one of the old-school
+  Chinese restaurants, then walk up to Jayu (Freedom) Park and down to the Open
+  Port modern history streets and Wangbimarosugil mural alley.
 region: Incheon
 country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/1920px-Chinatown%2C_incheon_20230430_002.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/1920px-Chinatown%2C_incheon_20230430_002.jpg
   credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chinatown,_incheon_20230430_002.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Chinatown,_incheon_20230430_002.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/61459891_sSCg9lxImWYJR-RX7zl0P6lLSQNbRPKG6UXBpRyvDOc.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/61459891_sSCg9lxImWYJR-RX7zl0P6lLSQNbRPKG6UXBpRyvDOc.jpg
     credit: 'Photo: Foursquare user content (Chinatown (차이나타운))'
     license: foursquare
-    source: https://foursquare.com/v/4b64364ff964a52058a42ae3
+    source: 'https://foursquare.com/v/4b64364ff964a52058a42ae3'
 place:
   id: ChIJ14998Jp4ezURyTMW5UI09Jc
   name: Incheon Chinatown
-  address: 12-17 Chinatown-ro 26beon-gil, Jung-gu, Incheon, South Korea
+  address: '12-17 Chinatown-ro 26beon-gil, Jung-gu, Incheon, South Korea'
   rating: 4
-  userRatingsTotal: 13284
-  googleMapsUrl: https://maps.google.com/?cid=10949434055960441801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 13334
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10949434055960441801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.475589
   lng: 126.61788489999999
@@ -36,20 +44,41 @@ place:
 tags:
   - incheon
   - Chinatown
-quickAnswer: 'Incheon''s Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is best treated as a half-day trip: wander the red-lantern-lined slope of Chinatown-ro, eat jajangmyeon (black bean noodles) at one of the old-school Chinese restaurants, then walk up to Jayu (Freedom) Park and down to the Open Port modern history streets and Wangbimarosugil mural alley. Go on a weekday afternoon to avoid tour-group crowds, and budget 3-4 hours including a meal.'
+quickAnswer: >-
+  Incheon's Chinatown sits right outside Incheon Station (Line 1, Exit 1) and is
+  best treated as a half-day trip: wander the red-lantern-lined slope of
+  Chinatown-ro, eat jajangmyeon (black bean noodles) at one of the old-school
+  Chinese restaurants, then walk up to Jayu (Freedom) Park and down to the Open
+  Port modern history streets and Wangbimarosugil mural alley. Go on a weekday
+  afternoon to avoid tour-group crowds, and budget 3-4 hours including a meal.
 faq:
   - q: How do I get to Incheon Chinatown from Seoul?
-    a: Take Subway Line 1 to Incheon Station (the last stop) and exit through Exit 1, which leads directly to the Chinatown gate. From central Seoul it takes about 60-75 minutes.
+    a: >-
+      Take Subway Line 1 to Incheon Station (the last stop) and exit through
+      Exit 1, which leads directly to the Chinatown gate. From central Seoul it
+      takes about 60-75 minutes.
   - q: What should I eat there?
-    a: Jajangmyeon (black bean noodles) is the signature dish — Incheon's Chinatown is considered its birthplace — usually paired with tangsuyuk (sweet and sour pork). Many restaurants along Chinatown-ro serve both.
+    a: >-
+      Jajangmyeon (black bean noodles) is the signature dish — Incheon's
+      Chinatown is considered its birthplace — usually paired with tangsuyuk
+      (sweet and sour pork). Many restaurants along Chinatown-ro serve both.
   - q: How much time should I budget?
-    a: Around 3-4 hours covers the main street, a meal, the mural alleys, and a walk up to Jayu Park. Add extra time if you want to visit the Jajangmyeon Museum or the Open Port history buildings.
+    a: >-
+      Around 3-4 hours covers the main street, a meal, the mural alleys, and a
+      walk up to Jayu Park. Add extra time if you want to visit the Jajangmyeon
+      Museum or the Open Port history buildings.
   - q: Is Incheon Chinatown worth visiting if I only have one day in Incheon?
-    a: Yes — it can anchor a half-day itinerary alongside Jayu Park and the Open Port Modern History streets, all within walking distance of each other near Incheon Station.
+    a: >-
+      Yes — it can anchor a half-day itinerary alongside Jayu Park and the Open
+      Port Modern History streets, all within walking distance of each other
+      near Incheon Station.
   - q: When is the best time to visit?
-    a: Weekday afternoons are quieter than weekends, and spring or autumn make the uphill walk to Jayu Park more comfortable than summer's heat.
+    a: >-
+      Weekday afternoons are quieter than weekends, and spring or autumn make
+      the uphill walk to Jayu Park more comfortable than summer's heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 ## Why go
 

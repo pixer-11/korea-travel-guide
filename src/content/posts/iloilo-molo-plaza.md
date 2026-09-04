@@ -1,30 +1,37 @@
 ---
 title: 'Molo Plaza: Iloilo Travel Guide (4.5★)'
-description: Molo Plaza is a small, marble-paved park in Iloilo City's Molo district, built around a neoclassical rotunda and facing the striking twin-spired Molo Church. 4.5★ (1,185 reviews) — what visitors say, hours, and tips.
+description: >-
+  Molo Plaza is a small, marble-paved park in Iloilo City's Molo district, built
+  around a neoclassical rotunda and facing the striking twin-spired Molo Church.
+  4.5★ (1,187 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Iloilo
 category: attraction
 pubDate: '2026-08-22T07:57:53.287Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Molo_Plaza_at_Noon.jpg/1920px-Molo_Plaza_at_Noon.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Molo_Plaza_at_Noon.jpg/1920px-Molo_Plaza_at_Noon.jpg
   credit: 'Photo: Gelo Yap / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Molo_Plaza_at_Noon.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Molo_Plaza_at_Noon.jpg'
   focus:
     x: 73
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Molo_Church%2C_Molo_Plaza_wide_dusk_lighted_%28Molo%2C_Iloilo_City%3B_01-25-2023%29.jpg/1920px-Molo_Church%2C_Molo_Plaza_wide_dusk_lighted_%28Molo%2C_Iloilo_City%3B_01-25-2023%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Molo_Church%2C_Molo_Plaza_wide_dusk_lighted_%28Molo%2C_Iloilo_City%3B_01-25-2023%29.jpg/1920px-Molo_Church%2C_Molo_Plaza_wide_dusk_lighted_%28Molo%2C_Iloilo_City%3B_01-25-2023%29.jpg
     credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Molo_Church,_Molo_Plaza_wide_dusk_lighted_(Molo,_Iloilo_City;_01-25-2023).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Molo_Church,_Molo_Plaza_wide_dusk_lighted_(Molo,_Iloilo_City;_01-25-2023).jpg
 place:
   id: ChIJZxQfnFHlrjMRU3H7CW2DeVs
   name: Molo Plaza
-  address: MGWV+RJ5, San Pedro St, Molo, Iloilo City, 5000 Iloilo, Philippines
+  address: 'MGWV+RJ5, San Pedro St, Molo, Iloilo City, 5000 Iloilo, Philippines'
   rating: 4.5
-  userRatingsTotal: 1185
-  googleMapsUrl: https://maps.google.com/?cid=6591444033975578963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1187
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6591444033975578963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.6970084
   lng: 122.5440983
@@ -56,20 +63,40 @@ place:
 tags:
   - iloilo
   - park
-quickAnswer: Molo Plaza is a small, marble-paved park in Iloilo City's Molo district, built around a neoclassical rotunda and facing the striking twin-spired Molo Church. It's open 24 hours and free to visit, best enjoyed in the cooler early morning or after sunset when the plaza lights up. Weekends get busiest from 4pm to 10pm, so aim for a quieter morning visit if you want the place mostly to yourself.
+quickAnswer: >-
+  Molo Plaza is a small, marble-paved park in Iloilo City's Molo district, built
+  around a neoclassical rotunda and facing the striking twin-spired Molo Church.
+  It's open 24 hours and free to visit, best enjoyed in the cooler early morning
+  or after sunset when the plaza lights up. Weekends get busiest from 4pm to
+  10pm, so aim for a quieter morning visit if you want the place mostly to
+  yourself.
 faq:
   - q: How do I get to Molo Plaza from downtown Iloilo City?
-    a: Take a jeepney marked 'Molo' from the city center (about 15-20 minutes) or a short taxi/ride-hailing trip. The plaza is on San Pedro Street, right beside Molo Church.
+    a: >-
+      Take a jeepney marked 'Molo' from the city center (about 15-20 minutes) or
+      a short taxi/ride-hailing trip. The plaza is on San Pedro Street, right
+      beside Molo Church.
   - q: Is there an entrance fee for Molo Plaza?
-    a: No, it's a public park open 24 hours with free access. Only donations are typical if you visit Molo Church itself.
+    a: >-
+      No, it's a public park open 24 hours with free access. Only donations are
+      typical if you visit Molo Church itself.
   - q: When is the quietest time to visit?
-    a: Early morning is calmest, before the day's heat and foot traffic build up. Weekends get busy from 4pm to 10pm, so avoid that stretch if you want a peaceful visit.
+    a: >-
+      Early morning is calmest, before the day's heat and foot traffic build up.
+      Weekends get busy from 4pm to 10pm, so avoid that stretch if you want a
+      peaceful visit.
   - q: How much time should I plan for Molo Plaza?
-    a: 30 to 45 minutes covers the rotunda and a look inside Molo Church, though you can easily linger longer with street food from the surrounding carts.
+    a: >-
+      30 to 45 minutes covers the rotunda and a look inside Molo Church, though
+      you can easily linger longer with street food from the surrounding carts.
   - q: What else is nearby worth visiting?
-    a: Molo's old Spanish-era residential streets and the local public market are both a short walk away, giving a fuller feel for the district beyond the plaza and church.
+    a: >-
+      Molo's old Spanish-era residential streets and the local public market are
+      both a short walk away, giving a fuller feel for the district beyond the
+      plaza and church.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,41 +1,49 @@
 ---
-title: "Egyptian Bazaar: Istanbul Travel Guide (4.5★)"
-description: "The Egyptian Bazaar (Mısır Çarşışı) in Eminönü is a 17th-century covered spice market with well over 190,000 reviews and a 4.5-star rating — it's genuinely popular, not a secret, so go early."
-country: "Turkey"
-region: "Istanbul"
-category: "hidden-gem"
-pubDate: "2026-08-06T10:14:20.328Z"
+title: 'Egyptian Bazaar: Istanbul Travel Guide (4.5★)'
+description: >-
+  The Egyptian Bazaar (Mısır Çarşışı) in Eminönü is a 17th-century covered spice
+  market with well over 190,000 reviews and a 4.5-star rating — it's genuinely
+  popular, not a secret, so go early.
+country: Turkey
+region: Istanbul
+category: hidden-gem
+pubDate: '2026-08-06T10:14:20.328Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul%2C_Turkiye_08.jpg/3840px-PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul%2C_Turkiye_08.jpg"
-  credit: "Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul,_Turkiye_08.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul%2C_Turkiye_08.jpg/3840px-PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul%2C_Turkiye_08.jpg
+  credit: 'Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:PXL_20241211_081724127.MP_Egyptian_Bazaar_M%C4%B1s%C4%B1r_%C3%87ar%C5%9F%C4%B1s%C4%B1_Spice_Bazar_Istanbul,_Turkiye_08.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Spices_on_Spice_Bazaar_in_Istanbul_02.jpg/3840px-Spices_on_Spice_Bazaar_in_Istanbul_02.jpg"
-    credit: "Photo: Miomir Magdevski / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Spices_on_Spice_Bazaar_in_Istanbul_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Spices_on_Spice_Bazaar_in_Istanbul_02.jpg/3840px-Spices_on_Spice_Bazaar_in_Istanbul_02.jpg
+    credit: 'Photo: Miomir Magdevski / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Spices_on_Spice_Bazaar_in_Istanbul_02.jpg
 place:
-  id: "ChIJn9t8b-u5yhQRXVCwl43vu0Q"
-  name: "Egyptian Bazaar"
-  address: "Rüstem Paşa, 34116 Fatih/İstanbul, Türkiye"
+  id: ChIJn9t8b-u5yhQRXVCwl43vu0Q
+  name: Egyptian Bazaar
+  address: 'Rüstem Paşa, 34116 Fatih/İstanbul, Türkiye'
   rating: 4.5
-  userRatingsTotal: 190750
-  googleMapsUrl: "https://maps.google.com/?cid=4952815606638334045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 191487
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4952815606638334045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.016500099999995
   lng: 28.9705194
-  phone: "+90 212 513 65 97"
+  phone: +90 212 513 65 97
   openingHours:
-    - "Monday: 8:00 AM – 7:30 PM"
-    - "Tuesday: 8:00 AM – 7:30 PM"
-    - "Wednesday: 8:00 AM – 7:30 PM"
-    - "Thursday: 8:00 AM – 7:30 PM"
-    - "Friday: 8:00 AM – 7:30 PM"
-    - "Saturday: 8:00 AM – 7:30 PM"
-    - "Sunday: 8:00 AM – 7:30 PM"
+    - 'Monday: 8:00 AM – 7:30 PM'
+    - 'Tuesday: 8:00 AM – 7:30 PM'
+    - 'Wednesday: 8:00 AM – 7:30 PM'
+    - 'Thursday: 8:00 AM – 7:30 PM'
+    - 'Friday: 8:00 AM – 7:30 PM'
+    - 'Saturday: 8:00 AM – 7:30 PM'
+    - 'Sunday: 8:00 AM – 7:30 PM'
   busyness:
-    updated: 2026-08-06
+    updated: 2026-08-06T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -55,24 +63,44 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_5130757633346c774356585251687935752d623874396e4a496843"
+    venueId: ven_5130757633346c774356585251687935752d623874396e4a496843
 tags:
-  - "istanbul"
-  - "local market"
-quickAnswer: "The Egyptian Bazaar (Mısır Çarşışı) in Eminönü is a 17th-century covered spice market with well over 190,000 reviews and a 4.5-star rating — it's genuinely popular, not a secret, so go early. The calmest window is 8–11am on weekdays or 8am–12pm on weekends; avoid the 1–7pm weekend crush. Budget 45–75 minutes, pay in cash lira for the best haggling leverage, and pair it with a walk to the nearby New Mosque or Grand Bazaar."
+  - istanbul
+  - local market
+quickAnswer: >-
+  The Egyptian Bazaar (Mısır Çarşışı) in Eminönü is a 17th-century covered spice
+  market with well over 190,000 reviews and a 4.5-star rating — it's genuinely
+  popular, not a secret, so go early. The calmest window is 8–11am on weekdays
+  or 8am–12pm on weekends; avoid the 1–7pm weekend crush. Budget 45–75 minutes,
+  pay in cash lira for the best haggling leverage, and pair it with a walk to
+  the nearby New Mosque or Grand Bazaar.
 faq:
-  - q: "How do I get to the Egyptian Bazaar?"
-    a: "Take the T1 tram to Eminönü station — the market entrance is a two-minute walk, right beside the New Mosque (Yeni Cami). Ferries to Eminönü pier also arrive practically at the doorstep."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 8:00 AM to 7:30 PM, seven days a week, with no variation by day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays from 8am to 11am are the calmest, and on weekends the lull runs from opening at 8am until around noon. Avoid weekend afternoons from 1pm to 7pm, when it's most crowded."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes for a quick walk-through, or up to 75 minutes if you want to browse, sample, and haggle at a few stalls."
-  - q: "Is the Egyptian Bazaar worth it if I'm also visiting the Grand Bazaar?"
-    a: "Yes — they're a scenic 15–20 minute walk apart and offer different goods; the Egyptian Bazaar focuses on spices, sweets, and food, while the Grand Bazaar leans toward jewelry, textiles, and antiques."
+  - q: How do I get to the Egyptian Bazaar?
+    a: >-
+      Take the T1 tram to Eminönü station — the market entrance is a two-minute
+      walk, right beside the New Mosque (Yeni Cami). Ferries to Eminönü pier
+      also arrive practically at the doorstep.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily from 8:00 AM to 7:30 PM, seven days a week, with no
+      variation by day of the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays from 8am to 11am are the calmest, and on weekends the lull runs
+      from opening at 8am until around noon. Avoid weekend afternoons from 1pm
+      to 7pm, when it's most crowded.
+  - q: How long should I spend there?
+    a: >-
+      Plan for 45 minutes for a quick walk-through, or up to 75 minutes if you
+      want to browse, sample, and haggle at a few stalls.
+  - q: Is the Egyptian Bazaar worth it if I'm also visiting the Grand Bazaar?
+    a: >-
+      Yes — they're a scenic 15–20 minute walk apart and offer different goods;
+      the Egyptian Bazaar focuses on spices, sweets, and food, while the Grand
+      Bazaar leans toward jewelry, textiles, and antiques.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

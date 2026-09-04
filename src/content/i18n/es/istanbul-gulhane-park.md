@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: istanbul-gulhane-park
-srcHash: '261032e05a76'
+srcHash: '85105583c2ab'
 title: 'Parque Gülhane: Guía de Viaje de Estambul (4,7★)'
-description: 'El parque Gülhane, en el distrito de Fatih de Estambul, justo al otro lado de las murallas exteriores del Palacio de Topkapı, está abierto las 24 horas y su entrada es gratuita, lo que lo convierte en un complemento fácil antes o después de visitar el palacio. 4,7★ (69.119 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El parque Gülhane, en el distrito de Fatih de Estambul, justo al otro lado de las murallas exteriores del Palacio de Topkapı, está abierto las 24 horas y su entrada es gratuita, lo que lo convierte en un complemento fácil antes o después de visitar el palacio. 4,7★ (69.188 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Gülhane, en el distrito de Fatih de Estambul, justo al otro lado de las murallas exteriores del Palacio de Topkapı, está abierto las 24 horas y su entrada es gratuita, lo que lo convierte en un complemento fácil antes o después de visitar el palacio. Las mañanas de fin de semana entre las 7 y las 9 son el momento más tranquilo; en cambio, de mediodía a las 20:00 los fines de semana se llena rápido, sobre todo cerca de los parterres de tulipanes y del jardín de té con vistas al Bósforo. Basta con 45 minutos para recorrerlo, o algo más de una hora si además quiere sentarse junto a la fuente y visitar el Museo de Historia de la Ciencia y la Tecnología en el Islam.
 faq:
   - q: ¿Es gratuita la entrada al parque Gülhane?

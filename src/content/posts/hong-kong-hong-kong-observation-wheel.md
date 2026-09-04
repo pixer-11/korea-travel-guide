@@ -1,27 +1,36 @@
 ---
 title: 'Hong Kong Observation Wheel: Travel Guide (4.3★)'
-description: The Hong Kong Observation Wheel sits right on the Central waterfront near the Star Ferry Pier, offering 20-minute rides in enclosed, air-conditioned cabins with harbour and skyline views. 4.3★ (14,386 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Hong Kong Observation Wheel sits right on the Central waterfront near the
+  Star Ferry Pier, offering 20-minute rides in enclosed, air-conditioned cabins
+  with harbour and skyline views. 4.3★ (14,431 reviews) — what visitors say,
+  hours, and tips.
 country: Hong Kong
 region: Hong Kong
 category: attraction
 pubDate: '2026-08-12T17:32:37.564Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hong_Kong_Observation_Wheel_Sept_2018.jpg/1280px-Hong_Kong_Observation_Wheel_Sept_2018.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hong_Kong_Observation_Wheel_Sept_2018.jpg/1280px-Hong_Kong_Observation_Wheel_Sept_2018.jpg
   credit: 'Photo: Erc Chw / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Observation_Wheel_Sept_2018.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hong_Kong_Observation_Wheel_Sept_2018.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/3/36/The_Hong_Kong_Observation_Wheel_2016.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/36/The_Hong_Kong_Observation_Wheel_2016.jpg
     credit: 'Photo: 龔柳菓 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:The_Hong_Kong_Observation_Wheel_2016.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:The_Hong_Kong_Observation_Wheel_2016.jpg
 place:
   id: ChIJ34TIQKsBBDQR6f4B73cc40s
   name: Hong Kong Observation Wheel
-  address: 33 Man Kwong St, Central, Hong Kong
+  address: '33 Man Kwong St, Central, Hong Kong Island, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 14386
-  googleMapsUrl: https://maps.google.com/?cid=5468245673994485481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 14431
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5468245673994485481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.285285899999998
   lng: 114.16172209999999
@@ -56,20 +65,38 @@ place:
 tags:
   - hong kong
   - top attraction
-quickAnswer: The Hong Kong Observation Wheel sits right on the Central waterfront near the Star Ferry Pier, offering 20-minute rides in enclosed, air-conditioned cabins with harbour and skyline views. It's busiest on weekend afternoons between 1pm and 9pm, so aim for a weekday or an early weekend slot instead. Go around sunset for the best light on Victoria Harbour and the Symphony of Lights show afterward.
+quickAnswer: >-
+  The Hong Kong Observation Wheel sits right on the Central waterfront near the
+  Star Ferry Pier, offering 20-minute rides in enclosed, air-conditioned cabins
+  with harbour and skyline views. It's busiest on weekend afternoons between 1pm
+  and 9pm, so aim for a weekday or an early weekend slot instead. Go around
+  sunset for the best light on Victoria Harbour and the Symphony of Lights show
+  afterward.
 faq:
   - q: How long does the ride last?
-    a: Each rotation takes about 20 minutes, giving you a couple of full loops over the harbour.
+    a: >-
+      Each rotation takes about 20 minutes, giving you a couple of full loops
+      over the harbour.
   - q: What's the quietest time to visit?
-    a: Weekdays from 12pm to 10pm are calmer, and on weekends the window from 11am to 1pm sees fewer crowds than the afternoon rush.
+    a: >-
+      Weekdays from 12pm to 10pm are calmer, and on weekends the window from
+      11am to 1pm sees fewer crowds than the afternoon rush.
   - q: When should I avoid going?
-    a: Skip Saturday and Sunday between 1pm and 9pm — that's the busiest stretch, with the longest queues.
+    a: >-
+      Skip Saturday and Sunday between 1pm and 9pm — that's the busiest stretch,
+      with the longest queues.
   - q: How do I get there by MTR?
-    a: Take Hong Kong Station (Tung Chung or Airport Express line), Exit A2, and follow signs to the Star Ferry Pier waterfront — it's a short walk from there.
+    a: >-
+      Take Hong Kong Station (Tung Chung or Airport Express line), Exit A2, and
+      follow signs to the Star Ferry Pier waterfront — it's a short walk from
+      there.
   - q: Is it worth combining with anything else nearby?
-    a: Yes — it sits right by the Star Ferry Pier and Central Harbourfront, and lines up well with the nightly Symphony of Lights show at 8pm.
+    a: >-
+      Yes — it sits right by the Star Ferry Pier and Central Harbourfront, and
+      lines up well with the nightly Symphony of Lights show at 8pm.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

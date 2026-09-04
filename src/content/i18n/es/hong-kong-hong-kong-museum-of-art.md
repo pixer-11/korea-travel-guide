@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-museum-of-art
-srcHash: '5eb0456700ad'
+srcHash: 'd62732d50f44'
 title: 'Museo de Arte de Hong Kong: Guía de viaje (4,5★)'
-description: El Museo de Arte de Hong Kong (Hong Kong Museum of Art) se encuentra justo en el paseo marítimo de Tsim Sha Tsui, a pocos minutos a pie del embarcadero del Star Ferry, con vistas al puerto tan buenas como las pinturas y antigüedades chinas que alberga. 4,5★ (4.693 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: El Museo de Arte de Hong Kong (Hong Kong Museum of Art) se encuentra justo en el paseo marítimo de Tsim Sha Tsui, a pocos minutos a pie del embarcadero del Star Ferry, con vistas al puerto tan buenas como las pinturas y antigüedades chinas que alberga. 4,5★ (4.720 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El Museo de Arte de Hong Kong (Hong Kong Museum of Art) se encuentra justo en el paseo marítimo de Tsim Sha Tsui, a pocos minutos a pie del embarcadero del Star Ferry, con vistas al puerto tan buenas como las pinturas y antigüedades chinas que alberga. Reserva entre dos y tres horas, ve un día de semana por la mañana si puedes, y evita los jueves por completo: es el día de cierre del museo. Los fines de semana el horario se extiende hasta tarde (hasta las 21:00), pero se llena a partir de la 13:00.'
 faq:
   - q: ¿Cómo llego al Museo de Arte de Hong Kong?

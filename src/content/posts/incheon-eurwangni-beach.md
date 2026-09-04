@@ -1,43 +1,70 @@
 ---
 title: 'Eurwangni Beach: Incheon Travel Guide (4.4★)'
-description: Eurwangni Beach is a wide, gently curved stretch of pale sand near Incheon International Airport — close enough for a half-day layover trip, calm enough to feel like a coastal town rather than a city beach. 4.4★ (119 reviews) — what visitors say, hours, and tips.
+description: >-
+  Eurwangni Beach is a wide, gently curved stretch of pale sand near Incheon
+  International Airport — close enough for a half-day layover trip, calm enough
+  to feel like a coastal town rather than a city beach. 4.4★ (123 reviews) —
+  what visitors say, hours, and tips.
 country: South Korea
 region: Incheon
 category: attraction
 pubDate: '2026-08-10T09:08:39.192Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg/1920px-Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg/1920px-Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg
   credit: 'Photo: 골뱅이 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Eurwangni_Beach,_Incheon_(%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5)_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Eurwangni_Beach,_Incheon_(%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5)_-_panoramio.jpg
 gallery: []
 place:
   id: ChIJI7k-oduRezURB6_95x-oTYg
   name: Eurwangni Beach
-  address: 16-15 Yongyuseo-ro 302beon-gil, Jung-gu, Incheon, South Korea
+  address: '16-15 Yongyuseo-ro 302beon-gil, Jung-gu, Incheon, South Korea'
   rating: 4.4
-  userRatingsTotal: 119
-  googleMapsUrl: https://maps.google.com/?cid=9821691217354534663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 123
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9821691217354534663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.4455429
   lng: 126.3729801
 tags:
   - incheon
   - waterfront
-quickAnswer: Eurwangni Beach is a wide, gently curved stretch of pale sand near Incheon International Airport — close enough for a half-day layover trip, calm enough to feel like a coastal town rather than a city beach. Go on a weekday morning or well before sunset, when it's quietest, and bring cash for the seafood shacks along the shore. It's an easy 20–30 minute taxi or bus ride from the airport, making it one of Korea's more convenient "just landed, why not" beaches.
+quickAnswer: >-
+  Eurwangni Beach is a wide, gently curved stretch of pale sand near Incheon
+  International Airport — close enough for a half-day layover trip, calm enough
+  to feel like a coastal town rather than a city beach. Go on a weekday morning
+  or well before sunset, when it's quietest, and bring cash for the seafood
+  shacks along the shore. It's an easy 20–30 minute taxi or bus ride from the
+  airport, making it one of Korea's more convenient "just landed, why not"
+  beaches.
 faq:
   - q: How do I get to Eurwangni Beach from Incheon Airport?
-    a: It's about a 20–30 minute taxi ride, or you can take a local bus from the airport toward Yongyu-dong — check the current route at the airport's tourist information desk.
+    a: >-
+      It's about a 20–30 minute taxi ride, or you can take a local bus from the
+      airport toward Yongyu-dong — check the current route at the airport's
+      tourist information desk.
   - q: When is the quietest time to visit?
-    a: Weekday mornings are the calmest. Weekend afternoons, especially in summer, draw the biggest crowds, so avoid that window if you want open space on the sand.
+    a: >-
+      Weekday mornings are the calmest. Weekend afternoons, especially in
+      summer, draw the biggest crowds, so avoid that window if you want open
+      space on the sand.
   - q: Is there an entrance fee?
-    a: No, the beach itself is free and open to walk onto directly — you only pay for extras like seafood, rentals, or parking.
+    a: >-
+      No, the beach itself is free and open to walk onto directly — you only pay
+      for extras like seafood, rentals, or parking.
   - q: How long should I plan to stay?
-    a: At least an hour or two lets you enjoy the sand, grab food from a seafood tent, and catch the sunset — treating it as a quick stop undersells it.
+    a: >-
+      At least an hour or two lets you enjoy the sand, grab food from a seafood
+      tent, and catch the sunset — treating it as a quick stop undersells it.
   - q: Can I combine it with anything nearby?
-    a: Yes — Wangsan Beach is just south along a coastal path, making an easy add-on for a half-day trip, especially if you're near the airport anyway.
+    a: >-
+      Yes — Wangsan Beach is just south along a coastal path, making an easy
+      add-on for a half-day trip, especially if you're near the airport anyway.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

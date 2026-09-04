@@ -1,32 +1,38 @@
 ---
 title: 'PhinHolic: Hue Travel Guide'
-description: PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong.
+description: >-
+  PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's
+  Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo
+  ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong.
 country: Vietnam
 region: Hue
 category: trendy
 pubDate: '2026-07-22T09:38:47.453Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/15413855_lk07pEpiSkuARS0hGVmlL_XNrHGEVTN-J8eH4i9PRa0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/15413855_lk07pEpiSkuARS0hGVmlL_XNrHGEVTN-J8eH4i9PRa0.jpg
   credit: 'Photo: Foursquare user content (PhinHolic)'
   license: foursquare
-  source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850
+  source: 'https://foursquare.com/v/5ef7f1b4f2be6b0007449850'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/15413855_mvS3uV3YNsiHoqirm58akeNKVzHXEg5Qm3YHE7x-rMo.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/15413855_mvS3uV3YNsiHoqirm58akeNKVzHXEg5Qm3YHE7x-rMo.jpg
     credit: 'Photo: Foursquare user content (PhinHolic)'
     license: foursquare
-    source: https://foursquare.com/v/5ef7f1b4f2be6b0007449850
+    source: 'https://foursquare.com/v/5ef7f1b4f2be6b0007449850'
 place:
   id: ChIJ1x7xMjyhQTERwjTNPo0pYVQ
   name: PhinHolic
-  address: 65 Bến Nghé, Thuận Hóa, Huế 530000, Vietnam
+  address: '65 Bến Nghé, Thuận Hóa, Huế 530000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 903
+  userRatingsTotal: 915
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=6080186658547643586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6080186658547643586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.464765
   lng: 107.59478209999999
-  phone: '+84 911 715 551'
+  phone: +84 911 715 551
   openingHours:
     - 'Monday: 6:30 AM – 10:00 PM'
     - 'Tuesday: 6:30 AM – 10:00 PM'
@@ -38,20 +44,44 @@ place:
 tags:
   - hue
   - trendy cafe
-quickAnswer: PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong. Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or people-watch. Expect to pay roughly 25,000–55,000 VND (about $1–2.50) per drink, cash or QR transfer.
+quickAnswer: >-
+  PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's
+  Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo
+  ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong.
+  Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the
+  trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or
+  people-watch. Expect to pay roughly 25,000–55,000 VND (about $1–2.50) per
+  drink, cash or QR transfer.
 faq:
   - q: How do I get to PhinHolic from central Hue?
-    a: It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume River, about a 10–15 minute walk from Dong Ba Market and Trang Tien Bridge. From the Citadel side, cross the river and continue south, or take a short Grab/taxi ride.
+    a: >-
+      It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume
+      River, about a 10–15 minute walk from Dong Ba Market and Trang Tien
+      Bridge. From the Citadel side, cross the river and continue south, or take
+      a short Grab/taxi ride.
   - q: How much does a coffee cost at PhinHolic?
-    a: It's a moderately priced café by Vietnamese standards, with most phin-brewed drinks and specialty items typically falling in the 25,000–55,000 VND range (roughly $1–2.50 USD). Cash and QR bank transfer are both commonly accepted.
+    a: >-
+      It's a moderately priced café by Vietnamese standards, with most
+      phin-brewed drinks and specialty items typically falling in the
+      25,000–55,000 VND range (roughly $1–2.50 USD). Cash and QR bank transfer
+      are both commonly accepted.
   - q: What should I order?
-    a: Start with the classic ca phe sua da (phin-filtered coffee with condensed milk over ice), and try the salted cream coffee variation if available — a modern spin on a style associated with Hue.
+    a: >-
+      Start with the classic ca phe sua da (phin-filtered coffee with condensed
+      milk over ice), and try the salted cream coffee variation if available — a
+      modern spin on a style associated with Hue.
   - q: What's the best time to visit?
-    a: Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat and, in the rainy months of October–December, reduces the chance of getting caught in a downpour. Weekday visits are quieter than weekends.
+    a: >-
+      Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat
+      and, in the rainy months of October–December, reduces the chance of
+      getting caught in a downpour. Weekday visits are quieter than weekends.
   - q: What else is nearby?
-    a: Dong Ba Market and the Perfume River promenade are both within a 10–15 minute walk, making PhinHolic an easy midday stop between a Citadel visit and an evening river walk or night market browse.
+    a: >-
+      Dong Ba Market and the Perfume River promenade are both within a 10–15
+      minute walk, making PhinHolic an easy midday stop between a Citadel visit
+      and an evening river walk or night market browse.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-04'
 ---
 
 ## Why PhinHolic Matters in Hue's Café Scene

@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: iloilo-jaro-metropolitan-cathedral-of-st-elizabeth-of-hungary-national-shrine-of
-srcHash: '0848ea012231'
+srcHash: '3dd9eb21eb81'
 title: ハロ大聖堂(聖エリザベート・オブ・ハンガリー)とキャンドルの聖母国立聖堂:イロイロ旅行ガイド
-description: ハロ大聖堂(Jaro Metropolitan Cathedral)はイロイロ市のハロ広場に位置し、入場は無料です。評価4.7★(口コミ1,758件)をもとに、訪問者の声や営業時間、訪問のコツをまとめました。
+description: ハロ大聖堂(Jaro Metropolitan Cathedral)はイロイロ市のハロ広場に位置し、入場は無料です。評価4.7★(口コミ1,771件)をもとに、訪問者の声や営業時間、訪問のコツをまとめました。
 quickAnswer: ハロ大聖堂はイロイロ市のハロ広場に位置しており、入場は無料です。開館時間は火曜から土曜が午前8時〜正午と午後1時30分〜5時30分、日曜は午前のみで、月曜は休館となっています。平日の午前遅めの時間帯なら、ミサの人出が落ち着いた頃合いで、なおかつ窓から差し込む光もまだ強く、おすすめのタイミングです。
 faq:
   - q: 入場料はかかりますか?

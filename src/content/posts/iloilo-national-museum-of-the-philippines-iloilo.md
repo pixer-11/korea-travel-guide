@@ -1,59 +1,86 @@
 ---
-title: "National Museum of the Philippines: Iloilo Travel Guide"
-description: "The National Museum of the Philippines - Iloilo occupies the old Iloilo customs house on Bonifacio Drive, right along the river esplanade. 4.7★ (166 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Iloilo"
-category: "attraction"
-pubDate: "2026-08-19T09:21:44.375Z"
+title: 'National Museum of the Philippines: Iloilo Travel Guide'
+description: >-
+  The National Museum of the Philippines - Iloilo occupies the old Iloilo
+  customs house on Bonifacio Drive, right along the river esplanade. 4.7★ (169
+  reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Iloilo
+category: attraction
+pubDate: '2026-08-19T09:21:44.375Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/National_Museum_of_the_Philippines_-_Iloilo_27.jpg/3840px-National_Museum_of_the_Philippines_-_Iloilo_27.jpg"
-  credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_-_Iloilo_27.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/National_Museum_of_the_Philippines_-_Iloilo_27.jpg/3840px-National_Museum_of_the_Philippines_-_Iloilo_27.jpg
+  credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_-_Iloilo_27.jpg
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Museum_of_the_Philippines_-_Iloilo_18.jpg/3840px-National_Museum_of_the_Philippines_-_Iloilo_18.jpg"
-    credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_-_Iloilo_18.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Museum_of_the_Philippines_-_Iloilo_18.jpg/3840px-National_Museum_of_the_Philippines_-_Iloilo_18.jpg
+    credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_-_Iloilo_18.jpg
 place:
-  id: "ChIJX--dFbTlrjMRoKl3LOJ2Jqo"
-  name: "National Museum of the Philippines - Iloilo"
-  address: "PH39+8G4, Bonifacio Dr, Iloilo City Proper, Iloilo City, Iloilo, Philippines"
+  id: ChIJX--dFbTlrjMRoKl3LOJ2Jqo
+  name: National Museum of the Philippines - Iloilo
+  address: 'PH39+8G4, Bonifacio Dr, Iloilo City Proper, Iloilo City, Iloilo, Philippines'
   rating: 4.7
-  userRatingsTotal: 166
-  googleMapsUrl: "https://maps.google.com/?cid=12260617749343480224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 169
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12260617749343480224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.7032702
   lng: 122.56881990000001
-  phone: "+63 33 327 3782"
+  phone: +63 33 327 3782
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "iloilo"
-  - "museum"
-quickAnswer: "The National Museum of the Philippines - Iloilo occupies the old Iloilo customs house on Bonifacio Drive, right along the river esplanade. It's open daily 9am–5pm, admission is free, and you can comfortably see everything in 1.5–2 hours. Go on a weekday morning if you want the galleries to yourself — this is still a quiet, under-the-radar stop even by Iloilo standards."
+  - iloilo
+  - museum
+quickAnswer: >-
+  The National Museum of the Philippines - Iloilo occupies the old Iloilo
+  customs house on Bonifacio Drive, right along the river esplanade. It's open
+  daily 9am–5pm, admission is free, and you can comfortably see everything in
+  1.5–2 hours. Go on a weekday morning if you want the galleries to yourself —
+  this is still a quiet, under-the-radar stop even by Iloilo standards.
 faq:
-  - q: "Is there an entrance fee?"
-    a: "National Museum branches in the Philippines have historically been free to enter; bring ID in case you need to sign a visitor log at the door, but confirm current policy before you go."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 1.5 to 2 hours to see both floors properly; you can do a quicker pass in under an hour if pressed for time."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 9am opening are calmest — the museum stays under-the-radar even on weekends, but midday can draw a few student groups."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "It sits right along the Iloilo River Esplanade, within walking distance of Calle Real's heritage buildings and a short ride from Jaro Cathedral and Molo Church."
-  - q: "Is it open on weekends?"
-    a: "Yes, it keeps the same 9am–5pm hours every day of the week, including Saturday and Sunday."
+  - q: Is there an entrance fee?
+    a: >-
+      National Museum branches in the Philippines have historically been free to
+      enter; bring ID in case you need to sign a visitor log at the door, but
+      confirm current policy before you go.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 1.5 to 2 hours to see both floors properly; you can do
+      a quicker pass in under an hour if pressed for time.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 9am opening are calmest — the museum
+      stays under-the-radar even on weekends, but midday can draw a few student
+      groups.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      It sits right along the Iloilo River Esplanade, within walking distance of
+      Calle Real's heritage buildings and a short ride from Jaro Cathedral and
+      Molo Church.
+  - q: Is it open on weekends?
+    a: >-
+      Yes, it keeps the same 9am–5pm hours every day of the week, including
+      Saturday and Sunday.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

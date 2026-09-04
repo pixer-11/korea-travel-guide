@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: istanbul-hagia-sophia-grand-mosque
-srcHash: '87476956935c'
+srcHash: '581251db6c94'
 title: 'Mezquita Mayor de Santa Sofía: Guía de Viaje de Estambul (4,8★)'
-description: 'La Mezquita Mayor de Santa Sofía se encuentra en el distrito de Sultanahmet, en Estambul, y permanece abierta las 24 horas del día, aunque los horarios de oración limitan el acceso de los turistas a ciertas franjas. 4,8★ (135.070 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Mezquita Mayor de Santa Sofía se encuentra en el distrito de Sultanahmet, en Estambul, y permanece abierta las 24 horas del día, aunque los horarios de oración limitan el acceso de los turistas a ciertas franjas. 4,8★ (135.056 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Mezquita Mayor de Santa Sofía se encuentra en el distrito de Sultanahmet, en Estambul, y permanece abierta las 24 horas del día, aunque los horarios de oración limitan el acceso de los turistas a ciertas franjas. Conviene ir entre las 7:00 y las 9:00 en días laborables, cuando hay menos gente, ya que los fines de semana se llena entre las 10:00 y las 20:00. La entrada es gratuita, pero hay que contar con controles de seguridad tipo aeropuerto y respetar un código de vestimenta modesto.
 faq:
   - q: ¿Es gratis visitar la Mezquita Mayor de Santa Sofía?

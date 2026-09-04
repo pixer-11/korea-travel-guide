@@ -1,31 +1,42 @@
 ---
 title: 'Wolmi Theme Park: Incheon Travel Guide'
-description: Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed by a short taxi or bus ride.
+description: >-
+  Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in
+  Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed
+  by a short taxi or bus ride.
 region: Incheon
 country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/29025250_E1gmsva8dhudPTTcj_v6icgQ5w1UqWQafIytgP7oMe0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/29025250_E1gmsva8dhudPTTcj_v6icgQ5w1UqWQafIytgP7oMe0.jpg
   credit: 'Photo: Foursquare user content (Wolmi Theme Park (월미테마파크))'
   license: foursquare
-  source: https://foursquare.com/v/4c4af0489c8d2d7f376f3f6a
+  source: 'https://foursquare.com/v/4c4af0489c8d2d7f376f3f6a'
   focus:
     x: 50
-    y: 25
+    'y': 25
 place:
   id: ChIJ_99FToiCezURBfrQIL7RhFE
   name: Wolmi Theme Park
-  address: 81 Wolmimunhwa-ro, Jung-gu, Incheon, South Korea
+  address: '81 Wolmimunhwa-ro, Jung-gu, Incheon, South Korea'
   rating: 4
-  userRatingsTotal: 8123
-  googleMapsUrl: https://maps.google.com/?cid=5874050428522527237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 8143
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5874050428522527237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.471363499999995
   lng: 126.59628579999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11, 12, 16, 17, 18, 19]
+    weekdayQuiet:
+      - 11
+      - 12
+      - 16
+      - 17
+      - 18
+      - 19
     weekendQuiet:
       - 22
     weekendBusy:
@@ -50,20 +61,44 @@ place:
 tags:
   - incheon
   - Wolmido
-quickAnswer: Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed by a short taxi or bus ride. Come for a half-day of retro rides, the famous disco pirate ship overlooking the sea, and a sunset stroll along the adjacent Wolmi Culture Street before seafood at nearby Wolmido or Sinpodong. It's especially good for families with young kids and anyone craving a nostalgic, low-key alternative to Seoul's big theme parks.
+quickAnswer: >-
+  Wolmi Theme Park is a compact, old-school amusement park on Wolmido Island in
+  Incheon's Jung-gu, best reached via Incheon Station (Incheon Line 1) followed
+  by a short taxi or bus ride. Come for a half-day of retro rides, the famous
+  disco pirate ship overlooking the sea, and a sunset stroll along the adjacent
+  Wolmi Culture Street before seafood at nearby Wolmido or Sinpodong. It's
+  especially good for families with young kids and anyone craving a nostalgic,
+  low-key alternative to Seoul's big theme parks.
 faq:
   - q: How do I get to Wolmi Theme Park without a car?
-    a: Take Incheon Line 1 to Incheon Station, then either walk about 15–20 minutes along the waterfront to Wolmido, or take a short taxi ride (around 5 minutes) or local bus toward Wolmi Park.
+    a: >-
+      Take Incheon Line 1 to Incheon Station, then either walk about 15–20
+      minutes along the waterfront to Wolmido, or take a short taxi ride (around
+      5 minutes) or local bus toward Wolmi Park.
   - q: How much does it cost and how do rides work?
-    a: There's generally no single all-inclusive entry fee for the whole complex; individual rides are usually paid per-ride or via a ticket booklet rather than one wristband. Prices change periodically, so confirm current per-ride pricing at the ticket booth on arrival.
+    a: >-
+      There's generally no single all-inclusive entry fee for the whole complex;
+      individual rides are usually paid per-ride or via a ticket booklet rather
+      than one wristband. Prices change periodically, so confirm current
+      per-ride pricing at the ticket booth on arrival.
   - q: How long should I plan to spend there?
-    a: 'Most visitors spend 2–4 hours: about 1.5–2 hours on rides, plus 30–45 minutes walking Wolmi Culture Street, and time for a seafood meal nearby if you extend into the evening.'
+    a: >-
+      Most visitors spend 2–4 hours: about 1.5–2 hours on rides, plus 30–45
+      minutes walking Wolmi Culture Street, and time for a seafood meal nearby
+      if you extend into the evening.
   - q: What's the best time of day and year to visit?
-    a: Evenings are popular since rides are lit up and the sea breeze cools things down; weekdays are quieter than weekends. Spring and autumn offer the most comfortable weather, while summer brings heat and humidity offset by water-play options.
+    a: >-
+      Evenings are popular since rides are lit up and the sea breeze cools
+      things down; weekdays are quieter than weekends. Spring and autumn offer
+      the most comfortable weather, while summer brings heat and humidity offset
+      by water-play options.
   - q: What else is nearby worth combining with this visit?
-    a: Wolmido's seafood restaurant strip is right next to the park, and Incheon Chinatown and Jayu Park near Incheon Station make an easy add-on since they're all close to the same subway stop.
+    a: >-
+      Wolmido's seafood restaurant strip is right next to the park, and Incheon
+      Chinatown and Jayu Park near Incheon Station make an easy add-on since
+      they're all close to the same subway stop.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-04'
 ---
 
 ## Why go

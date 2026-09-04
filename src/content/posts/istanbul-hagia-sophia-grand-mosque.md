@@ -1,43 +1,49 @@
 ---
-title: "Hagia Sophia Grand Mosque: Istanbul Travel Guide (4.8★)"
-description: "Hagia Sophia Grand Mosque sits in Istanbul's Sultanahmet district, and it's open 24 hours daily, though prayer times restrict tourist access to certain windows. 4.8★ (135,070 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Istanbul"
-category: "attraction"
-pubDate: "2026-08-29T13:13:45.565Z"
+title: 'Hagia Sophia Grand Mosque: Istanbul Travel Guide (4.8★)'
+description: >-
+  Hagia Sophia Grand Mosque sits in Istanbul's Sultanahmet district, and it's
+  open 24 hours daily, though prayer times restrict tourist access to certain
+  windows. 4.8★ (135,056 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Istanbul
+category: attraction
+pubDate: '2026-08-29T13:13:45.565Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1920px-Hagia_Sophia_%28228968325%29.jpeg"
-  credit: "Photo: Adli Wahid / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1920px-Hagia_Sophia_%28228968325%29.jpeg
+  credit: 'Photo: Adli Wahid / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/3840px-Hagia_Sophia_Mars_2013.jpg"
-    credit: "Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/3840px-Hagia_Sophia_Mars_2013.jpg
+    credit: 'Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg'
 place:
-  id: "ChIJJxwBkr65yhQRrk9EN29vbiM"
-  name: "Hagia Sophia Grand Mosque"
-  address: "Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye"
+  id: ChIJJxwBkr65yhQRrk9EN29vbiM
+  name: Hagia Sophia Grand Mosque
+  address: 'Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye'
   rating: 4.8
-  userRatingsTotal: 135070
-  googleMapsUrl: "https://maps.google.com/?cid=2553100562224926638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 135056
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2553100562224926638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.008583
   lng: 28.980175000000003
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-29
+    updated: 2026-08-29T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -62,24 +68,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4d69627639324e45396b72525168793536726b4277784a4a496843"
+    venueId: ven_4d69627639324e45396b72525168793536726b4277784a4a496843
 tags:
-  - "istanbul"
-  - "historic site"
-quickAnswer: "Hagia Sophia Grand Mosque sits in Istanbul's Sultanahmet district, and it's open 24 hours daily, though prayer times restrict tourist access to certain windows. Go between 7am and 9am on weekdays for the thinnest crowds; weekends get packed from 10am to 8pm. Entry is free but expect airport-style security and a modest-dress requirement."
+  - istanbul
+  - historic site
+quickAnswer: >-
+  Hagia Sophia Grand Mosque sits in Istanbul's Sultanahmet district, and it's
+  open 24 hours daily, though prayer times restrict tourist access to certain
+  windows. Go between 7am and 9am on weekdays for the thinnest crowds; weekends
+  get packed from 10am to 8pm. Entry is free but expect airport-style security
+  and a modest-dress requirement.
 faq:
-  - q: "Is Hagia Sophia Grand Mosque free to visit?"
-    a: "The ground-floor prayer hall is free to enter. The upper gallery with the best mosaics has historically required a separate ticket; confirm the current system before you go, as it has changed in recent years."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 7am and 9am, or weekends between 7am and 8am. Avoid weekends from 10am to 8pm, when it's busiest."
-  - q: "How do I get there?"
-    a: "Take the T1 tram to Sultanahmet station; it's a two-minute walk from there, right next to the Blue Mosque and Topkapı Palace."
-  - q: "How long should I plan for a visit?"
-    a: "45 minutes to an hour for the ground floor alone; add 30-45 minutes if you're also visiting the upper gallery mosaics."
-  - q: "Is there a dress code?"
-    a: "Yes: shoulders and knees covered for all visitors, and women need a headscarf, which is available at the entrance if needed. Shoes come off before entering."
+  - q: Is Hagia Sophia Grand Mosque free to visit?
+    a: >-
+      The ground-floor prayer hall is free to enter. The upper gallery with the
+      best mosaics has historically required a separate ticket; confirm the
+      current system before you go, as it has changed in recent years.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am, or weekends between 7am and 8am. Avoid
+      weekends from 10am to 8pm, when it's busiest.
+  - q: How do I get there?
+    a: >-
+      Take the T1 tram to Sultanahmet station; it's a two-minute walk from
+      there, right next to the Blue Mosque and Topkapı Palace.
+  - q: How long should I plan for a visit?
+    a: >-
+      45 minutes to an hour for the ground floor alone; add 30-45 minutes if
+      you're also visiting the upper gallery mosaics.
+  - q: Is there a dress code?
+    a: >-
+      Yes: shoulders and knees covered for all visitors, and women need a
+      headscarf, which is available at the entrance if needed. Shoes come off
+      before entering.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

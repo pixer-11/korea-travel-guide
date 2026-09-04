@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: iloilo-molo-mansion
-srcHash: 'c66eb02c6ca4'
+srcHash: '51e31d9df183'
 title: Molo Mansion（莫洛大宅）：伊洛伊洛旅游指南（4.5★）
-description: Molo Mansion（莫洛大宅）是位于伊洛伊洛市（Iloilo City）莫洛区（Molo）的一座20世纪初祖宅修复建筑，如今设有咖啡馆和售卖本地手工艺品的纪念品店。4.5★（1,606条评价）——游客怎么说、营业时间与实用建议。
+description: Molo Mansion（莫洛大宅）是位于伊洛伊洛市（Iloilo City）莫洛区（Molo）的一座20世纪初祖宅修复建筑，如今设有咖啡馆和售卖本地手工艺品的纪念品店。4.5★（1,617条评价）——游客怎么说、营业时间与实用建议。
 quickAnswer: Molo Mansion（莫洛大宅）是位于伊洛伊洛市莫洛区的一座20世纪初祖宅修复建筑，如今设有咖啡馆和售卖本地手工艺品的纪念品店。这里每天开放（周日9点、其他日子10点开门，均营业至晚上7点），工作日上午10点到下午1点是漫步宅邸的最佳清静时段。建议预留一小时游览时间，之后步行五分钟即可到达邻近的莫洛教堂（Molo Church）。
 faq:
   - q: 从伊洛伊洛市中心怎么去Molo Mansion？

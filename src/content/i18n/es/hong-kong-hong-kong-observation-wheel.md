@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-observation-wheel
-srcHash: '1728d4f2f4d7'
+srcHash: '50dd9ddeb449'
 title: 'Hong Kong Observation Wheel (noria de observación de Hong Kong): guía de viaje (4.3★)'
-description: 'La Hong Kong Observation Wheel se encuentra justo en el paseo marítimo de Central, cerca del muelle del Star Ferry, y ofrece vueltas de 20 minutos en cabinas cerradas y con aire acondicionado, con vistas al puerto y al perfil urbano. 4.3★ (14,386 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'La Hong Kong Observation Wheel se encuentra justo en el paseo marítimo de Central, cerca del muelle del Star Ferry, y ofrece vueltas de 20 minutos en cabinas cerradas y con aire acondicionado, con vistas al puerto y al perfil urbano. 4.3★ (14,431 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La Hong Kong Observation Wheel se encuentra justo en el paseo marítimo de Central, cerca del muelle del Star Ferry, y ofrece vueltas de 20 minutos en cabinas cerradas y con aire acondicionado, con vistas al puerto y al perfil urbano. Está más concurrida los fines de semana por la tarde, entre la 1pm y las 9pm, así que conviene ir en día de semana o a primera hora del fin de semana. Ve alrededor del atardecer para disfrutar de la mejor luz sobre el puerto de Victoria (Victoria Harbour) y, después, del espectáculo Symphony of Lights.
 faq:
   - q: ¿Cuánto dura la vuelta?

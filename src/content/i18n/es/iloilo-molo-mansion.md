@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: iloilo-molo-mansion
-srcHash: 'c66eb02c6ca4'
+srcHash: '51e31d9df183'
 title: 'Molo Mansion: Guía de Viaje de Iloilo (4.5★)'
-description: 'Molo Mansion es una casa ancestral de principios del siglo XX restaurada en Molo, Iloilo City, que hoy alberga una cafetería y una tienda de recuerdos llena de productos artesanales locales. 4.5★ (1,606 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Molo Mansion es una casa ancestral de principios del siglo XX restaurada en Molo, Iloilo City, que hoy alberga una cafetería y una tienda de recuerdos llena de productos artesanales locales. 4.5★ (1,617 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Molo Mansion es una casa ancestral de principios del siglo XX restaurada en Molo, Iloilo City, que hoy alberga una cafetería y una tienda de recuerdos llena de productos artesanales locales. Abre todos los días (desde las 9am los domingos y las 10am el resto de la semana, hasta las 7pm), y el momento más tranquilo para recorrer sus salones es entre semana por la mañana, de 10am a 1pm. Calcula una hora de visita y luego camina cinco minutos hasta la Iglesia de Molo, justo al lado.
 faq:
   - q: ¿Cómo llego a Molo Mansion desde el centro de Iloilo City?

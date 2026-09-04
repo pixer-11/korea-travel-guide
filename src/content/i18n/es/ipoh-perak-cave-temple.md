@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ipoh-perak-cave-temple
-srcHash: 'a309d076c747'
+srcHash: 'ea43c5804803'
 title: 'Templo de la Cueva Perak: guía de viaje de Ipoh (4,4★)'
-description: 'El Templo de la Cueva Perak (Perak Tong) se encuentra en Jalan Kuala Kangsar, justo al norte del centro de Ipoh, abierto todos los días de 8:00 a 16:30. 4,4★ (3.845 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Templo de la Cueva Perak (Perak Tong) se encuentra en Jalan Kuala Kangsar, justo al norte del centro de Ipoh, abierto todos los días de 8:00 a 16:30. 4,4★ (3.867 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Templo de la Cueva Perak (Perak Tong) se encuentra en Jalan Kuala Kangsar, justo al norte del centro de Ipoh, y abre todos los días de 8:00 a 16:30. Conviene ir temprano: los días de semana el ambiente es más tranquilo entre las 8:00 y las 10:00, mientras que los fines de semana solo el tramo de 8:00 a 9:00 se mantiene despejado antes de que llegue la afluencia de público durante la tarde. Conviene reservar entre 45 y 60 minutos para visitar el santuario de la cueva y subir la empinada escalera que lleva al mirador con vistas sobre el valle calizo de Ipoh.'
 faq:
   - q: ¿Cómo se llega al Templo de la Cueva Perak desde el centro de Ipoh?

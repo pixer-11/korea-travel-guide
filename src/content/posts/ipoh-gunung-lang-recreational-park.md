@@ -1,27 +1,33 @@
 ---
 title: 'Gunung Lang Recreational Park: Ipoh Travel Guide'
-description: Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in northern Ipoh, best visited early morning (before 9am) or late afternoon (after 5pm) when the light softens the karst cliffs and the heat breaks.
+description: >-
+  Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in
+  northern Ipoh, best visited early morning (before 9am) or late afternoon
+  (after 5pm) when the light softens the karst cliffs and the heat breaks.
 country: Malaysia
 region: Ipoh
 category: attraction
 pubDate: '2026-07-26T07:51:52.103Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg
   credit: 'Photo: MohdNiza85 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gunung_Lang_recreational_park.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Gunung_Lang_recreational_park.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taman_Gunung_Lang.jpg/1920px-Taman_Gunung_Lang.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taman_Gunung_Lang.jpg/1920px-Taman_Gunung_Lang.jpg
     credit: 'Photo: Michael / Wikimedia Commons (Public domain)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Taman_Gunung_Lang.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Taman_Gunung_Lang.jpg'
 place:
   id: ChIJcRlUrLnsyjERkKAQRWUhUEg
   name: Gunung Lang Recreational Park
-  address: Jalan Damai, 30100 Ipoh, Perak, Malaysia
+  address: 'Jalan Damai, 30100 Ipoh, Perak, Malaysia'
   rating: 4.1
-  userRatingsTotal: 10808
-  googleMapsUrl: https://maps.google.com/?cid=5210701487701794960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 10850
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5210701487701794960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 4.6258304
   lng: 101.0889885
@@ -37,20 +43,41 @@ place:
 tags:
   - ipoh
   - top attraction
-quickAnswer: Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in northern Ipoh, best visited early morning (before 9am) or late afternoon (after 5pm) when the light softens the karst cliffs and the heat breaks. Come for a slow paddle-boat or pedal-boat ride across the still lake, a walk over the suspension bridge, and a view of the man-made waterfall — plan on 1.5 to 2 hours. It's a well-loved, well-visited park (not a hidden find), so weekends and public holidays get crowded fast.
+quickAnswer: >-
+  Gunung Lang Recreational Park is a limestone-hill lake park on Jalan Damai in
+  northern Ipoh, best visited early morning (before 9am) or late afternoon
+  (after 5pm) when the light softens the karst cliffs and the heat breaks. Come
+  for a slow paddle-boat or pedal-boat ride across the still lake, a walk over
+  the suspension bridge, and a view of the man-made waterfall — plan on 1.5 to 2
+  hours. It's a well-loved, well-visited park (not a hidden find), so weekends
+  and public holidays get crowded fast.
 faq:
   - q: How do I get to Gunung Lang Recreational Park without a car?
-    a: Take a Grab (ride-hailing) from central Ipoh or the old town — it's roughly a 10–15 minute drive. There's no train or bus line that serves the park directly, so a taxi or ride-share is the most practical option.
+    a: >-
+      Take a Grab (ride-hailing) from central Ipoh or the old town — it's
+      roughly a 10–15 minute drive. There's no train or bus line that serves the
+      park directly, so a taxi or ride-share is the most practical option.
   - q: How much time should I plan for a visit?
-    a: About 1.5 to 2 hours covers a boat ride, a walk across the suspension bridge, and a loop past the man-made waterfall without feeling rushed.
+    a: >-
+      About 1.5 to 2 hours covers a boat ride, a walk across the suspension
+      bridge, and a loop past the man-made waterfall without feeling rushed.
   - q: When is the quietest time to visit?
-    a: Weekday mornings before around 9am are calmest, with shorter boat-rental queues and empty stretches of the lake path. Avoid weekends and public holidays, when the park is at its busiest and lines form at the boat dock.
+    a: >-
+      Weekday mornings before around 9am are calmest, with shorter boat-rental
+      queues and empty stretches of the lake path. Avoid weekends and public
+      holidays, when the park is at its busiest and lines form at the boat dock.
   - q: Do I need to book the boat rides in advance?
-    a: No — boat rentals work on a pay-on-the-spot, first-come basis at the rental counter, so bring small cash and expect a wait during busy periods.
+    a: >-
+      No — boat rentals work on a pay-on-the-spot, first-come basis at the
+      rental counter, so bring small cash and expect a wait during busy periods.
   - q: What else can I see near the park?
-    a: The cave temples Perak Tong and Kek Look Tong are a short drive away and make a natural pairing with Gunung Lang for a half-day itinerary around Ipoh's limestone hills.
+    a: >-
+      The cave temples Perak Tong and Kek Look Tong are a short drive away and
+      make a natural pairing with Gunung Lang for a half-day itinerary around
+      Ipoh's limestone hills.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

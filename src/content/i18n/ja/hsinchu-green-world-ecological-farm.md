@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: hsinchu-green-world-ecological-farm
-srcHash: '6638313fc06b'
+srcHash: 'd386907075db'
 title: 緑世界生態農園:新竹旅行ガイド(4.6★)
-description: 緑世界生態農園(Green World Ecological Farm)は、新竹市街から車で約40〜50分、北埔郷(Beipu Township)にある広大な野外動物園兼植物園です。4.6★(32,634件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
+description: 緑世界生態農園(Green World Ecological Farm)は、新竹市街から車で約40〜50分、北埔郷(Beipu Township)にある広大な野外動物園兼植物園です。4.6★(32,673件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: 緑世界生態農園(Green World Ecological Farm)は、新竹市街から車で約40〜50分、北埔郷(Beipu Township)にある広大な野外動物園兼植物園です。動物ショーや通り抜けできる鳥類園、湖畔の散策路を見て回るには3〜4時間ほど見ておきましょう。平日午前9時から午後5時の間は比較的落ち着いていますが、週末は午前10時以降から徐々に混み始めます。
 faq:
   - q: 訪問にはどれくらいの時間を見ておけばよいですか?

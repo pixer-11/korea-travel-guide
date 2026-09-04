@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: hong-kong-po-lin-monastery
-srcHash: '34526741a934'
+srcHash: '9bddebfd8875'
 title: 宝蓮寺（ポーリン寺）：香港旅行ガイド（4.5★）
-description: ランタオ島（Lantau Island）の宝蓮寺（Po Lin Monastery）は毎日午前9時から午後6時まで開いており、最も落ち着いて見学できるのは、始発のNgong Ping 360ケーブルカーに乗って午前10時前に天壇大仏（Big Buddha）に到着する方法です。4.5★（10,463件のレビュー）— 訪問者の声、営業時間、コツをご紹介します。
+description: ランタオ島（Lantau Island）の宝蓮寺（Po Lin Monastery）は毎日午前9時から午後6時まで開いており、最も落ち着いて見学できるのは、始発のNgong Ping 360ケーブルカーに乗って午前10時前に天壇大仏（Big Buddha）に到着する方法です。4.5★（10,473件のレビュー）— 訪問者の声、営業時間、コツをご紹介します。
 quickAnswer: ランタオ島（Lantau Island）の宝蓮寺（Po Lin Monastery）は毎日午前9時から午後6時まで開いており、最も落ち着いて見学できるのは、始発のNgong Ping 360ケーブルカーに乗って午前10時前に天壇大仏（Big Buddha）に到着する方法です。週末の午前10時から午後4時の間はツアー団体で混み合うため、早朝か午後4時以降を狙いましょう。ケーブルカーの乗車と天壇大仏までの268段の階段を含め、半日ほどの時間を確保してください。
 faq:
   - q: 宝蓮寺の営業時間は？

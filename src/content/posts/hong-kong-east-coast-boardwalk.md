@@ -1,41 +1,50 @@
 ---
-title: "East Coast Boardwalk: Hong Kong Travel Guide (4.5★)"
-description: "East Coast Boardwalk is a waterfront path tucked beneath the Island Eastern Corridor in Causeway Bay, popular with runners, cyclists and sunset-watchers rather than tour groups. 4.5★ (154 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:53:09.586Z"
+title: 'East Coast Boardwalk: Hong Kong Travel Guide (4.5★)'
+description: >-
+  East Coast Boardwalk is a waterfront path tucked beneath the Island Eastern
+  Corridor in Causeway Bay, popular with runners, cyclists and sunset-watchers
+  rather than tour groups. 4.5★ (156 reviews) — what visitors say, hours, and
+  tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:53:09.586Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/East_Coast_Boardwalk_30-12-2025%281%29.jpg/3840px-East_Coast_Boardwalk_30-12-2025%281%29.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:East_Coast_Boardwalk_30-12-2025(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/East_Coast_Boardwalk_30-12-2025%281%29.jpg/3840px-East_Coast_Boardwalk_30-12-2025%281%29.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:East_Coast_Boardwalk_30-12-2025(1).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_Coast_Boardwalk_Swing_Bridge.jpg/3840px-East_Coast_Boardwalk_Swing_Bridge.jpg"
-    credit: "Photo: Knowledge Era / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:East_Coast_Boardwalk_Swing_Bridge.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_Coast_Boardwalk_Swing_Bridge.jpg/3840px-East_Coast_Boardwalk_Swing_Bridge.jpg
+    credit: 'Photo: Knowledge Era / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:East_Coast_Boardwalk_Swing_Bridge.jpg
 place:
-  id: "ChIJhRrWbAABBDQR1xVK3hFCLHw"
-  name: "East Coast Boardwalk"
-  address: "Island Eastern Corridor, Causeway Bay, Hong Kong"
+  id: ChIJhRrWbAABBDQR1xVK3hFCLHw
+  name: East Coast Boardwalk
+  address: 'Island Eastern Corridor, Causeway Bay, Hong Kong Island, Hong Kong'
   rating: 4.5
-  userRatingsTotal: 154
-  googleMapsUrl: "https://maps.google.com/?cid=8947599204189607383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 156
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8947599204189607383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.292948
   lng: 114.19660479999999
-  phone: "+852 3620 3944"
+  phone: +852 3620 3944
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -55,24 +64,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_77484c434668334b5678315251444242414162577252684a496843"
+    venueId: ven_77484c434668334b5678315251444242414162577252684a496843
 tags:
-  - "hong kong"
-  - "waterfront"
-quickAnswer: "East Coast Boardwalk is a waterfront path tucked beneath the Island Eastern Corridor in Causeway Bay, popular with runners, cyclists and sunset-watchers rather than tour groups. It's open 24 hours, and the calmest window is 7am–8am on any day of the week — after 11am on weekends it fills up fast. Come for harbour views toward Kowloon and Kai Tak, not for facilities, and bring your own water."
+  - hong kong
+  - waterfront
+quickAnswer: >-
+  East Coast Boardwalk is a waterfront path tucked beneath the Island Eastern
+  Corridor in Causeway Bay, popular with runners, cyclists and sunset-watchers
+  rather than tour groups. It's open 24 hours, and the calmest window is 7am–8am
+  on any day of the week — after 11am on weekends it fills up fast. Come for
+  harbour views toward Kowloon and Kai Tak, not for facilities, and bring your
+  own water.
 faq:
-  - q: "How do I get to East Coast Boardwalk without a car?"
-    a: "Take the MTR Island Line to Tin Hau or Fortress Hill station, then walk downhill toward the harbour — it's about 5–10 minutes from either exit to the waterfront path."
-  - q: "Is there an entry fee?"
-    a: "No. It's an open public waterfront path with no ticket booth or gate, accessible at any point along the Island Eastern Corridor's water side."
-  - q: "When is it quietest?"
-    a: "Between 7am and 8am, on weekdays or weekends — after 11am on weekends it gets steadily busy through to 10pm."
-  - q: "How long should I spend there?"
-    a: "45 minutes to an hour for a walking stretch; longer if you rent a bike and connect to the wider harbourfront cycle path."
-  - q: "Are there food or drink options nearby?"
-    a: "Not directly on the boardwalk — bring your own water. Causeway Bay and North Point's streets, a short walk inland, have plenty of options."
+  - q: How do I get to East Coast Boardwalk without a car?
+    a: >-
+      Take the MTR Island Line to Tin Hau or Fortress Hill station, then walk
+      downhill toward the harbour — it's about 5–10 minutes from either exit to
+      the waterfront path.
+  - q: Is there an entry fee?
+    a: >-
+      No. It's an open public waterfront path with no ticket booth or gate,
+      accessible at any point along the Island Eastern Corridor's water side.
+  - q: When is it quietest?
+    a: >-
+      Between 7am and 8am, on weekdays or weekends — after 11am on weekends it
+      gets steadily busy through to 10pm.
+  - q: How long should I spend there?
+    a: >-
+      45 minutes to an hour for a walking stretch; longer if you rent a bike and
+      connect to the wider harbourfront cycle path.
+  - q: Are there food or drink options nearby?
+    a: >-
+      Not directly on the boardwalk — bring your own water. Causeway Bay and
+      North Point's streets, a short walk inland, have plenty of options.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

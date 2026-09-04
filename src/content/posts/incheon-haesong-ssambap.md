@@ -1,28 +1,34 @@
 ---
 title: 'Haesong Ssambap: Where to Eat in Incheon'
-description: "Haesong Ssambap is a large, well-known ssambap (leaf-wrap rice) restaurant in Jung-gu, Incheon, near Incheon International Airport — a practical, satisfying stop before an early flight or right after landing."
+description: >-
+  Haesong Ssambap is a large, well-known ssambap (leaf-wrap rice) restaurant in
+  Jung-gu, Incheon, near Incheon International Airport — a practical, satisfying
+  stop before an early flight or right after landing.
 country: South Korea
 region: Incheon
 category: restaurant
 pubDate: '2026-07-24T22:22:08.166Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1765243776997-5aa67435723f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SW5jaGVvbiUyMFNvdXRoJTIwS29yZWElMjBzdHJlZXQlMjBmb29kfGVufDB8MHx8fDE3ODQ5MzE2OTF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1765243776997-5aa67435723f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SW5jaGVvbiUyMFNvdXRoJTIwS29yZWElMjBzdHJlZXQlMjBmb29kfGVufDB8MHx8fDE3ODQ5MzE2OTF8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Albert Sidorov on Unsplash
   license: unsplash
-  source: https://unsplash.com/@aldiablos?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@aldiablos?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJRTA16iaRezURSc2ugUohFos
   name: Haesong Ssambap
-  address: 177 Gonghangseo-ro, Nambuk-dong, Jung-gu, Incheon, South Korea
+  address: '177 Gonghangseo-ro, Nambuk-dong, Jung-gu, Incheon, South Korea'
   rating: 4
-  userRatingsTotal: 2983
+  userRatingsTotal: 2988
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=10022234624646630729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10022234624646630729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.4427112
   lng: 126.43043349999999
-  phone: '+82 32-747-0073'
+  phone: +82 32-747-0073
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 10:30 AM – 9:00 PM'
@@ -34,20 +40,43 @@ place:
 tags:
   - incheon
   - street food
-quickAnswer: Haesong Ssambap is a large, well-known ssambap (leaf-wrap rice) restaurant in Jung-gu, Incheon, near Incheon International Airport — a practical, satisfying stop before an early flight or right after landing. Expect a spread of banchan, lettuce and perilla leaves, grilled meat or fish, and doenjang-jjigae for a moderate per-person price. Go outside the 12–1pm and 6–7:30pm rush to avoid a wait, and bring an appetite — portions are meant for sharing.
+quickAnswer: >-
+  Haesong Ssambap is a large, well-known ssambap (leaf-wrap rice) restaurant in
+  Jung-gu, Incheon, near Incheon International Airport — a practical, satisfying
+  stop before an early flight or right after landing. Expect a spread of
+  banchan, lettuce and perilla leaves, grilled meat or fish, and doenjang-jjigae
+  for a moderate per-person price. Go outside the 12–1pm and 6–7:30pm rush to
+  avoid a wait, and bring an appetite — portions are meant for sharing.
 faq:
   - q: How do I get to Haesong Ssambap from Incheon International Airport?
-    a: It's roughly a 10–15 minute taxi ride from either terminal, since it's located on Yeongjong Island in Jung-gu without a direct subway stop nearby. Have the address (177 Gonghangseo-ro, Nambuk-dong, Jung-gu) ready for the driver.
+    a: >-
+      It's roughly a 10–15 minute taxi ride from either terminal, since it's
+      located on Yeongjong Island in Jung-gu without a direct subway stop
+      nearby. Have the address (177 Gonghangseo-ro, Nambuk-dong, Jung-gu) ready
+      for the driver.
   - q: How much does a meal cost?
-    a: It falls in a moderate price bracket for Korean restaurants (price level 2 of 4), typically ordered as a shared set rather than individual dishes. Confirm current menu prices on-site, as they can change.
+    a: >-
+      It falls in a moderate price bracket for Korean restaurants (price level 2
+      of 4), typically ordered as a shared set rather than individual dishes.
+      Confirm current menu prices on-site, as they can change.
   - q: How long should I plan to stay?
-    a: A full ssambap meal with banchan and stew usually takes 45–60 minutes, which fits comfortably into a layover if you allow buffer time for airport security and check-in afterward.
+    a: >-
+      A full ssambap meal with banchan and stew usually takes 45–60 minutes,
+      which fits comfortably into a layover if you allow buffer time for airport
+      security and check-in afterward.
   - q: Is it good for a quick meal before a flight?
-    a: Yes, but avoid the tightest connection windows — go during off-peak hours (mid-afternoon) rather than the noon or early-evening rush when it's busiest with travelers and locals alike.
+    a: >-
+      Yes, but avoid the tightest connection windows — go during off-peak hours
+      (mid-afternoon) rather than the noon or early-evening rush when it's
+      busiest with travelers and locals alike.
   - q: What's nearby if I have extra time?
-    a: Yeongjong Island has beach areas like Eurwangni Beach and the Paradise City resort complex nearby, both reasonable stops if you have a longer layover or are staying near the airport overnight.
+    a: >-
+      Yeongjong Island has beach areas like Eurwangni Beach and the Paradise
+      City resort complex nearby, both reasonable stops if you have a longer
+      layover or are staying near the airport overnight.
 aiGenerated: true
 draft: true
+updatedDate: '2026-09-04'
 ---
 
 ## Why go

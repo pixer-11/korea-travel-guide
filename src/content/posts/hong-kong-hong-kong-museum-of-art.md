@@ -1,37 +1,45 @@
 ---
-title: "Hong Kong Museum of Art: Travel Guide (4.5★)"
-description: "The Hong Kong Museum of Art sits right on the Tsim Sha Tsui waterfront, a few minutes' walk from Star Ferry pier, with harbour views as good as the Chinese paintings and antiquities inside. 4.5★ (4,693 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:50:52.320Z"
+title: 'Hong Kong Museum of Art: Travel Guide (4.5★)'
+description: >-
+  The Hong Kong Museum of Art sits right on the Tsim Sha Tsui waterfront, a few
+  minutes' walk from Star Ferry pier, with harbour views as good as the Chinese
+  paintings and antiquities inside. 4.5★ (4,720 reviews) — what visitors say,
+  hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:50:52.320Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hong_Kong_Museum_of_Art_20250716.jpg/3840px-Hong_Kong_Museum_of_Art_20250716.jpg"
-  credit: "Photo: Ghostingb / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Museum_of_Art_20250716.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hong_Kong_Museum_of_Art_20250716.jpg/3840px-Hong_Kong_Museum_of_Art_20250716.jpg
+  credit: 'Photo: Ghostingb / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Museum_of_Art_20250716.jpg'
 gallery: []
 place:
-  id: "ChIJk6CAx_MABDQRfLjwN6HOZdY"
-  name: "Hong Kong Museum of Art"
-  address: "G/F, Hong Kong Museum Of Art, 10號 Salisbury Rd, Tsim Sha Tsui, Hong Kong"
+  id: ChIJk6CAx_MABDQRfLjwN6HOZdY
+  name: Hong Kong Museum of Art
+  address: >-
+    G/F, Hong Kong Museum Of Art, 10號 Salisbury Rd, Tsim Sha Tsui, Kowloon, Hong
+    Kong
   rating: 4.5
-  userRatingsTotal: 4693
-  googleMapsUrl: "https://maps.google.com/?cid=15448981288587933820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4720
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15448981288587933820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.293605499999998
   lng: 114.1721324
-  phone: "+852 2721 0116"
+  phone: +852 2721 0116
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: Closed"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: Closed'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -44,24 +52,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_59645a4f48364e776a4c6652514442414d5f784143366b4a496843"
+    venueId: ven_59645a4f48364e776a4c6652514442414d5f784143366b4a496843
 tags:
-  - "hong kong"
-  - "art gallery"
-quickAnswer: "The Hong Kong Museum of Art sits right on the Tsim Sha Tsui waterfront, a few minutes' walk from Star Ferry pier, with harbour views as good as the Chinese paintings and antiquities inside. Plan on two to three hours, go on a weekday morning if you can, and skip Thursdays entirely — that's the museum's closed day. Weekends run late (until 9pm) but get busy from 1pm onward."
+  - hong kong
+  - art gallery
+quickAnswer: >-
+  The Hong Kong Museum of Art sits right on the Tsim Sha Tsui waterfront, a few
+  minutes' walk from Star Ferry pier, with harbour views as good as the Chinese
+  paintings and antiquities inside. Plan on two to three hours, go on a weekday
+  morning if you can, and skip Thursdays entirely — that's the museum's closed
+  day. Weekends run late (until 9pm) but get busy from 1pm onward.
 faq:
-  - q: "How do I get to the Hong Kong Museum of Art?"
-    a: "Take the MTR to Tsim Sha Tsui station and leave via exit E, then walk about 8–10 minutes toward the harbour, or take the Star Ferry from Central to Tsim Sha Tsui pier, which is a short walk away."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan on two to three hours to see the permanent galleries and any special exhibition without rushing."
-  - q: "What day is the museum closed?"
-    a: "The museum is closed all day Thursday. It's open 10am–6pm Monday, Tuesday, Wednesday and Friday, and 10am–9pm on Saturday and Sunday."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekends get busy from 1pm to 8pm, so aim for a weekday morning or a weekend before 1pm or in the later evening hours."
-  - q: "What else is nearby?"
-    a: "The Avenue of Stars, Hong Kong Cultural Centre and the Hong Kong Space Museum are all a short walk away along the same Tsim Sha Tsui waterfront promenade."
+  - q: How do I get to the Hong Kong Museum of Art?
+    a: >-
+      Take the MTR to Tsim Sha Tsui station and leave via exit E, then walk
+      about 8–10 minutes toward the harbour, or take the Star Ferry from Central
+      to Tsim Sha Tsui pier, which is a short walk away.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Plan on two to three hours to see the permanent galleries and any special
+      exhibition without rushing.
+  - q: What day is the museum closed?
+    a: >-
+      The museum is closed all day Thursday. It's open 10am–6pm Monday, Tuesday,
+      Wednesday and Friday, and 10am–9pm on Saturday and Sunday.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekends get busy from 1pm to 8pm, so aim for a weekday morning or a
+      weekend before 1pm or in the later evening hours.
+  - q: What else is nearby?
+    a: >-
+      The Avenue of Stars, Hong Kong Cultural Centre and the Hong Kong Space
+      Museum are all a short walk away along the same Tsim Sha Tsui waterfront
+      promenade.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

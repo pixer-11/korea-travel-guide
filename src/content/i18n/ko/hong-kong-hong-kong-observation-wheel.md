@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: hong-kong-hong-kong-observation-wheel
-srcHash: '1728d4f2f4d7'
+srcHash: '50dd9ddeb449'
 title: 홍콩 옵저베이션 휠 여행 가이드 (4.3★)
-description: 홍콩 옵저베이션 휠(Hong Kong Observation Wheel)은 스타페리 선착장(Star Ferry Pier) 인근 센트럴(Central) 워터프론트에 자리하며, 냉방이 되는 밀폐형 캐빈을 타고 20분간 항구와 스카이라인 전망을 즐길 수 있습니다. 4.3★ (14,386개 리뷰) — 방문객들의 후기, 운영시간, 방문 팁을 소개합니다.
+description: 홍콩 옵저베이션 휠(Hong Kong Observation Wheel)은 스타페리 선착장(Star Ferry Pier) 인근 센트럴(Central) 워터프론트에 자리하며, 냉방이 되는 밀폐형 캐빈을 타고 20분간 항구와 스카이라인 전망을 즐길 수 있습니다. 4.3★ (14,431개 리뷰) — 방문객들의 후기, 운영시간, 방문 팁을 소개합니다.
 quickAnswer: 홍콩 옵저베이션 휠(Hong Kong Observation Wheel)은 스타페리 선착장(Star Ferry Pier) 인근 센트럴(Central) 워터프론트에 자리하며, 냉방이 되는 밀폐형 캐빈을 타고 20분간 항구와 스카이라인 전망을 즐길 수 있습니다. 주말 오후 1시~9시 사이가 가장 혼잡하니, 평일이나 주말 오전 이른 시간대를 노리는 것이 좋습니다. 빅토리아 하버(Victoria Harbour)의 멋진 빛을 감상하려면 일몰 무렵에 방문한 뒤, 이어지는 심포니 오브 라이트(Symphony of Lights) 쇼까지 관람해보세요.
 faq:
   - q: 탑승 시간은 얼마나 걸리나요?

@@ -1,25 +1,30 @@
 ---
 title: 'Incheon Grand Park: Travel Guide (4.5★)'
-description: Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. 4.5★ (6,750 reviews) — what visitors say, hours, and tips.
+description: >-
+  Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free
+  zoo, a botanical garden, ponds and wide lawns — worth two to four hours. 4.5★
+  (6,754 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Incheon
 category: attraction
 pubDate: '2026-08-10T09:03:32.618Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/20356139_LH5s25Gxt7bQ0fs4oFDv6I7ddfgYX75B1lvtGPUQoHw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/20356139_LH5s25Gxt7bQ0fs4oFDv6I7ddfgYX75B1lvtGPUQoHw.jpg
   credit: 'Photo: Foursquare user content (Incheon Grand Park (인천대공원))'
   license: foursquare
-  source: https://foursquare.com/v/4cb98a33c7228cfa906c10ce
+  source: 'https://foursquare.com/v/4cb98a33c7228cfa906c10ce'
   focus:
     x: 25
-    y: 35
+    'y': 35
 place:
   id: ChIJD3vd1Jh8ezURbh0AuKzX0Ig
   name: Incheon Grand Park
-  address: 236 Munemi-ro, Namdong-gu, Incheon, South Korea
+  address: '236 Munemi-ro, Namdong-gu, Incheon, South Korea'
   rating: 4.5
-  userRatingsTotal: 6750
-  googleMapsUrl: https://maps.google.com/?cid=9858616721135377774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6754
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9858616721135377774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.459244
   lng: 126.75221970000001
@@ -57,19 +62,36 @@ place:
 tags:
   - incheon
   - park
-quickAnswer: Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. It's open daily 6am–10pm and gets busy on weekends between 9am and 7pm, so aim for a weekday morning or a weekend evening after 9pm for the calmest walk.
+quickAnswer: >-
+  Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free
+  zoo, a botanical garden, ponds and wide lawns — worth two to four hours. It's
+  open daily 6am–10pm and gets busy on weekends between 9am and 7pm, so aim for
+  a weekday morning or a weekend evening after 9pm for the calmest walk.
 faq:
   - q: How much does it cost to enter Incheon Grand Park and its zoo?
-    a: The park itself is free, and the on-site zoo is also free to enter, which is unusual for a zoo of this size. Confirm current details before visiting since policies can change.
+    a: >-
+      The park itself is free, and the on-site zoo is also free to enter, which
+      is unusual for a zoo of this size. Confirm current details before visiting
+      since policies can change.
   - q: What's the best time of day to avoid crowds?
-    a: Weekdays from 7am onward are consistently quiet. On weekends, the calmest window is after 9pm; busiest is 9am–7pm on Saturdays and Sundays.
+    a: >-
+      Weekdays from 7am onward are consistently quiet. On weekends, the calmest
+      window is after 9pm; busiest is 9am–7pm on Saturdays and Sundays.
   - q: How do I get to Incheon Grand Park without a car?
-    a: Take Incheon Subway Line 1 to Incheon Grand Park Station, which exits close to the main entrance. Taxis are also affordable from nearby Incheon neighborhoods.
+    a: >-
+      Take Incheon Subway Line 1 to Incheon Grand Park Station, which exits
+      close to the main entrance. Taxis are also affordable from nearby Incheon
+      neighborhoods.
   - q: How long should I plan to spend there?
-    a: Two hours covers a solid loop of the zoo and botanical garden. Half a day lets you add the hillside hiking trails and a full walk around the lake.
+    a: >-
+      Two hours covers a solid loop of the zoo and botanical garden. Half a day
+      lets you add the hillside hiking trails and a full walk around the lake.
   - q: Is it worth visiting outside spring and autumn?
-    a: Yes, though spring blossoms and autumn foliage are the visual highlights. Summer is hot with limited shade, so mornings are best in July and August.
+    a: >-
+      Yes, though spring blossoms and autumn foliage are the visual highlights.
+      Summer is hot with limited shade, so mornings are best in July and August.
 aiGenerated: true
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

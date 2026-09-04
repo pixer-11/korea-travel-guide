@@ -1,27 +1,34 @@
 ---
 title: 'Nan Lian Garden: Hong Kong Travel Guide (4.6★)'
-description: Nan Lian Garden, next to Chi Lin Nunnery in Diamond Hill, is a Tang Dynasty-style park of gold-hued halls, black timber pavilions and a waterfall-fed lotus pond — free to enter and open daily 7am–9pm. 4.6★ (2,725 reviews) — what visitors say, hours, and tips.
+description: >-
+  Nan Lian Garden, next to Chi Lin Nunnery in Diamond Hill, is a Tang
+  Dynasty-style park of gold-hued halls, black timber pavilions and a
+  waterfall-fed lotus pond — free to enter and open daily 7am–9pm. 4.6★ (2,735
+  reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Hong Kong
 category: hidden-gem
 pubDate: '2026-08-03T11:04:49.740Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nan_Lian_Garden_Overview_201807.jpg/1280px-Nan_Lian_Garden_Overview_201807.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nan_Lian_Garden_Overview_201807.jpg/1280px-Nan_Lian_Garden_Overview_201807.jpg
   credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nan_Lian_Garden_Overview_201807.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Nan_Lian_Garden_Overview_201807.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nan_Lian_Garden_004.jpg/960px-Nan_Lian_Garden_004.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nan_Lian_Garden_004.jpg/960px-Nan_Lian_Garden_004.jpg
     credit: 'Photo: Rutger van der Maar / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Nan_Lian_Garden_004.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Nan_Lian_Garden_004.jpg'
 place:
   id: ChIJA4W7G8UGBDQRz2wLW8y0a-8
   name: Nan Lian Garden
-  address: Fung Tak Rd, Diamond Hill, Hong Kong
+  address: 'Fung Tak Rd, Diamond Hill, Kowloon, Hong Kong'
   rating: 4.6
-  userRatingsTotal: 2725
-  googleMapsUrl: https://maps.google.com/?cid=17252081587366620367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2735
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17252081587366620367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.3396114
   lng: 114.2045149
@@ -58,20 +65,40 @@ place:
 tags:
   - hong kong
   - hidden gem
-quickAnswer: Nan Lian Garden, next to Chi Lin Nunnery in Diamond Hill, is a Tang Dynasty-style park of gold-hued halls, black timber pavilions and a waterfall-fed lotus pond — free to enter and open daily 7am–9pm. It's well-known rather than a secret, so weekend crowds build fast between 10am and 6pm; go right at 7am opening or in the early evening for the calmest, most photogenic light. Budget about an hour, or 90 minutes if you're also crossing into the adjoining nunnery.
+quickAnswer: >-
+  Nan Lian Garden, next to Chi Lin Nunnery in Diamond Hill, is a Tang
+  Dynasty-style park of gold-hued halls, black timber pavilions and a
+  waterfall-fed lotus pond — free to enter and open daily 7am–9pm. It's
+  well-known rather than a secret, so weekend crowds build fast between 10am and
+  6pm; go right at 7am opening or in the early evening for the calmest, most
+  photogenic light. Budget about an hour, or 90 minutes if you're also crossing
+  into the adjoining nunnery.
 faq:
   - q: How much does it cost to enter Nan Lian Garden?
-    a: Entry is free. There's no ticket booth or booking required — you just walk in during opening hours.
+    a: >-
+      Entry is free. There's no ticket booth or booking required — you just walk
+      in during opening hours.
   - q: What's the quietest time to visit?
-    a: Weekday mornings right at the 7am opening are calmest. On weekends, arrive before 10am or after 6pm, since 10am–6pm is the busiest stretch.
+    a: >-
+      Weekday mornings right at the 7am opening are calmest. On weekends, arrive
+      before 10am or after 6pm, since 10am–6pm is the busiest stretch.
   - q: How do I get to Nan Lian Garden by MTR?
-    a: Take the Kwun Tong Line to Diamond Hill Station and leave via Exit C2, which connects to a walkway leading directly to the garden — about a 10-minute walk.
+    a: >-
+      Take the Kwun Tong Line to Diamond Hill Station and leave via Exit C2,
+      which connects to a walkway leading directly to the garden — about a
+      10-minute walk.
   - q: How long should I spend there?
-    a: About an hour for the garden alone, or 90 minutes to also walk through the adjoining Chi Lin Nunnery.
+    a: >-
+      About an hour for the garden alone, or 90 minutes to also walk through the
+      adjoining Chi Lin Nunnery.
   - q: Is Nan Lian Garden worth combining with anything else nearby?
-    a: Yes — it's directly connected to Chi Lin Nunnery, another Tang Dynasty-style site with its own lotus ponds, and most visitors see both in one trip.
+    a: >-
+      Yes — it's directly connected to Chi Lin Nunnery, another Tang
+      Dynasty-style site with its own lotus ponds, and most visitors see both in
+      one trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

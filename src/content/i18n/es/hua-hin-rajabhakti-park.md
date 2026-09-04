@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hua-hin-rajabhakti-park
-srcHash: '086e18655906'
+srcHash: '06f0f936fe26'
 title: 'Parque Rajabhakti: guía de viaje de Hua Hin (4,4★)'
-description: 'El Parque Rajabhakti es un monumento construido por el ejército al sur del centro de Hua Hin, con siete imponentes estatuas de bronce de reyes tailandeses, un pequeño museo y una plaza costera muy ventilada. 4,4★ (11.086 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Rajabhakti es un monumento construido por el ejército al sur del centro de Hua Hin, con siete imponentes estatuas de bronce de reyes tailandeses, un pequeño museo y una plaza costera muy ventilada. 4,4★ (11.108 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Rajabhakti es un monumento construido por el ejército al sur del centro de Hua Hin, con siete imponentes estatuas de bronce de reyes tailandeses, un pequeño museo y una plaza costera muy ventilada. Abre todos los días de 8:00 a 18:00, la entrada es gratuita y conviene dedicarle entre 1 y 1,5 horas. Los fines de semana hay mucho movimiento de 9:00 a 18:00, así que, si puedes, ve un día entre semana temprano por la mañana.
 faq:
   - q: ¿Cuánto cuesta entrar al Parque Rajabhakti?

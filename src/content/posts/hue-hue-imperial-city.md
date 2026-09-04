@@ -1,27 +1,42 @@
 ---
 title: 'Hue Imperial City: Travel Guide'
-description: The Hue Imperial City (Đại Nội) is a walled palace-and-temple complex on the north bank of the Perfume River, built from 1805 under the Nguyen Dynasty.
+description: >-
+  The Hue Imperial City (Đại Nội) is a walled palace-and-temple complex on the
+  north bank of the Perfume River, built from 1805 under the Nguyen Dynasty.
 country: Vietnam
 region: Hue
 category: attraction
 pubDate: '2026-07-22T09:29:23.776Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg/1920px-Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg
-  credit: 'Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg/1920px-Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg
+  credit: >-
+    Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of
+    my images, but please mention me as the author and may send me a message.
+    (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย)
+    Please do not upload an updated image here without consultation with the
+    Author. The author would like to make corrections only at his own source.
+    This ensures that the changes are preserved.Please if you think that any
+    changes should be required, please inform the author.Otherwise you can
+    upload a new image with a new name. Please use one of the templates
+    derivative or extract. / Wikimedia Commons (CC BY 4.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gate_in_Imperial_City,_Hu%E1%BA%BF_(III).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gate_in_Imperial_City,_Hu%E1%BA%BF_(III).jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/3709928_NCzU6P02oFeigsVn9CZK_HBca5Y49q7yAdNMExSyCic.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/3709928_NCzU6P02oFeigsVn9CZK_HBca5Y49q7yAdNMExSyCic.jpg
     credit: 'Photo: Foursquare user content (Hue Imperial City (Kinh Thành Huế))'
     license: foursquare
-    source: https://foursquare.com/v/4d57a31ede8f6dcb827d0191
+    source: 'https://foursquare.com/v/4d57a31ede8f6dcb827d0191'
 place:
   id: ChIJ-zZHO4GhQTER8_Eb9kDoaEE
   name: Hue Imperial City
-  address: Huế, Hue, Vietnam
+  address: 'Huế, Hue, Vietnam'
   rating: 4.6
-  userRatingsTotal: 23527
-  googleMapsUrl: https://maps.google.com/?cid=4713272375747801587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 24208
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4713272375747801587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.469527
   lng: 107.577432
@@ -37,21 +52,42 @@ place:
 tags:
   - hue
   - top attraction
-quickAnswer: The Hue Imperial City (Đại Nội) is a walled palace-and-temple complex on the north bank of the Perfume River, built from 1805 under the Nguyen Dynasty. Plan on 2.5–4 hours to see the Ngo Mon Gate, Thai Hoa Palace, the Forbidden Purple City ruins, and several ancestral temples; go early morning or late afternoon to avoid heat and tour-bus crowds. It's Hue's essential half-day sight and a UNESCO World Heritage Site (part of the Complex of Hue Monuments).
+quickAnswer: >-
+  The Hue Imperial City (Đại Nội) is a walled palace-and-temple complex on the
+  north bank of the Perfume River, built from 1805 under the Nguyen Dynasty.
+  Plan on 2.5–4 hours to see the Ngo Mon Gate, Thai Hoa Palace, the Forbidden
+  Purple City ruins, and several ancestral temples; go early morning or late
+  afternoon to avoid heat and tour-bus crowds. It's Hue's essential half-day
+  sight and a UNESCO World Heritage Site (part of the Complex of Hue Monuments).
 faq:
   - q: How much time should I budget for the Hue Imperial City?
-    a: Plan on 2.5–4 hours for a thorough visit; enthusiasts of history and architecture may want a full morning to also see the temples and residences beyond the main throne hall.
+    a: >-
+      Plan on 2.5–4 hours for a thorough visit; enthusiasts of history and
+      architecture may want a full morning to also see the temples and
+      residences beyond the main throne hall.
   - q: How do I get to the Imperial City from central Hue?
-    a: It's on the north bank of the Perfume River, a 15–20 minute walk or 5-minute taxi/Grab ride from the hotel district south of the river, crossing Trang Tien Bridge to reach Ngo Mon Gate.
+    a: >-
+      It's on the north bank of the Perfume River, a 15–20 minute walk or
+      5-minute taxi/Grab ride from the hotel district south of the river,
+      crossing Trang Tien Bridge to reach Ngo Mon Gate.
   - q: What's the best time of day or year to visit?
-    a: Go early morning (around opening time) or after 3pm to avoid heat and tour groups. October–January is cooler but can be rainy; May–August is hot with little shade inside the walls.
+    a: >-
+      Go early morning (around opening time) or after 3pm to avoid heat and tour
+      groups. October–January is cooler but can be rainy; May–August is hot with
+      little shade inside the walls.
   - q: Is the Imperial City worth combining with other sights?
-    a: Yes — it pairs naturally with a Perfume River boat trip to the nearby Nguyen royal tombs (Tu Duc, Khai Dinh, Minh Mang) and with a food stop near Dong Ba Market for bun bo Hue.
+    a: >-
+      Yes — it pairs naturally with a Perfume River boat trip to the nearby
+      Nguyen royal tombs (Tu Duc, Khai Dinh, Minh Mang) and with a food stop
+      near Dong Ba Market for bun bo Hue.
   - q: Do I need a guide inside the complex?
-    a: English signage is limited, so hiring a guide or audio guide near the ticket entrance helps make sense of the Nguyen Dynasty history, especially in the Forbidden Purple City ruins.
+    a: >-
+      English signage is limited, so hiring a guide or audio guide near the
+      ticket entrance helps make sense of the Nguyen Dynasty history, especially
+      in the Forbidden Purple City ruins.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-04'
 ---
 
 ## Why go

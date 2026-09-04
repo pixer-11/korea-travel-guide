@@ -1,22 +1,28 @@
 ---
 title: 'Hong Kong Museum of History: Travel Guide (4.3★)'
-description: The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by "The Hong Kong Story" walk-through exhibit. 4.3★ (9,101 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Hong Kong Museum of History in Tsim Sha Tsui is the city's best
+  introduction to how a fishing village became a global metropolis, anchored by
+  "The Hong Kong Story" walk-through exhibit. 4.3★ (9,133 reviews) — what
+  visitors say, hours, and tips.
 country: Hong Kong
 region: Hong Kong
 category: attraction
 pubDate: '2026-08-13T08:48:06.361Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/381817_y-nPMWuwSxyloiU6-3IBlyHcWhEm-2JyoiYRoMiyDGg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/381817_y-nPMWuwSxyloiU6-3IBlyHcWhEm-2JyoiYRoMiyDGg.jpg
   credit: 'Photo: Foursquare user content (Hong Kong Museum of History (香港歷史博物館))'
   license: foursquare
-  source: https://foursquare.com/v/4b0588d5f964a5201adc22e3
+  source: 'https://foursquare.com/v/4b0588d5f964a5201adc22e3'
 place:
   id: ChIJzZRAMu8ABDQRImlPUEb6RoI
   name: Hong Kong Museum of History
-  address: 100 Chatham Rd S, Tsim Sha Tsui, Hong Kong
+  address: '100 Chatham Rd S, Tsim Sha Tsui, Kowloon, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 9101
-  googleMapsUrl: https://maps.google.com/?cid=9387465653202413858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9133
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9387465653202413858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.3018851
   lng: 114.17726119999999
@@ -48,20 +54,36 @@ place:
 tags:
   - hong kong
   - museum
-quickAnswer: The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by "The Hong Kong Story" walk-through exhibit. It's open 10am–6pm most days (7pm Saturday and Sunday), closed Tuesdays. Weekend afternoons from noon to 6pm draw the biggest crowds, so aim for a morning visit instead.
+quickAnswer: >-
+  The Hong Kong Museum of History in Tsim Sha Tsui is the city's best
+  introduction to how a fishing village became a global metropolis, anchored by
+  "The Hong Kong Story" walk-through exhibit. It's open 10am–6pm most days (7pm
+  Saturday and Sunday), closed Tuesdays. Weekend afternoons from noon to 6pm
+  draw the biggest crowds, so aim for a morning visit instead.
 faq:
   - q: How do I get to the Hong Kong Museum of History by MTR?
-    a: Take the MTR to Tsim Sha Tsui station and leave via Exit B2. It's about a 10-minute walk north along Chatham Road South.
+    a: >-
+      Take the MTR to Tsim Sha Tsui station and leave via Exit B2. It's about a
+      10-minute walk north along Chatham Road South.
   - q: How long should I spend at the museum?
-    a: Plan for at least two hours to cover 'The Hong Kong Story' properly, and closer to three if you read every caption or visit with children.
+    a: >-
+      Plan for at least two hours to cover 'The Hong Kong Story' properly, and
+      closer to three if you read every caption or visit with children.
   - q: When is the museum closed?
-    a: It's closed every Tuesday. Other days it opens 10am–6pm, except Saturday and Sunday when it stays open until 7pm.
+    a: >-
+      It's closed every Tuesday. Other days it opens 10am–6pm, except Saturday
+      and Sunday when it stays open until 7pm.
   - q: What's the best time to avoid crowds?
-    a: Avoid weekend afternoons between noon and 6pm, which is the busiest stretch. Weekday mornings right at opening tend to be much calmer.
+    a: >-
+      Avoid weekend afternoons between noon and 6pm, which is the busiest
+      stretch. Weekday mornings right at opening tend to be much calmer.
   - q: What else is nearby?
-    a: The Hong Kong Science Museum is on the same block, and Kowloon Park and the Star Ferry pier are both within a 15-minute walk.
+    a: >-
+      The Hong Kong Science Museum is on the same block, and Kowloon Park and
+      the Star Ferry pier are both within a 15-minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-04'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
