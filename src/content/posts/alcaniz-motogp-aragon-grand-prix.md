@@ -55,7 +55,7 @@ No train station serves the circuit directly, so most fans arrive by car, rental
 
 ## What to see and do trackside
 
-Beyond the racing, MotorLand Aragón has a permanent driving experience center and a resort area with hotels and go-karting that stay open outside race weekends. The Grand Prix programme included a fan village with merchandise stalls, food vendors, and paddock-adjacent activities such as rider autograph sessions.
+Beyond the racing, MotorLand Aragón has a permanent driving experience center and a resort area with hotels and go-karting that stay open outside race weekends. The Grand Prix programme was announced to include a fan village with merchandise stalls, food vendors, and paddock-adjacent activities such as rider autograph sessions.
 
 The main grandstands, like those overlooking the final corners and main straight, tend to offer the best value for atmosphere versus price. General admission areas on the hillside give a cheaper but still solid view of multiple corners, since the terrain is naturally banked in places.
 

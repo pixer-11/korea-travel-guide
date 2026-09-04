@@ -132,7 +132,7 @@ export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\
 // And the model, told the phrase must not survive, reached for a synonym twice
 // in the same run: "had been confirmed on the official", "were listed on the
 // official". A synonym for an unverified claim is the same unverified claim.
-export const FABRICATED_AVAILABILITY = /\b(?:was|were|had been|has been|have been)\s+(?:published|announced|released|posted|confirmed|listed|shared)\s+(?:on|through|via|by)\s+(?:[^.\n]|\.(?=\S)){0,40}\bofficial\b/i;
+export const FABRICATED_AVAILABILITY = /(?:\b(?:was|were|had been|has been|have been)\s+(?:published|announced|released|posted|confirmed|listed|shared)\s+(?:on|through|via|by)\s+(?:[^.\n]|\.(?=\S)){0,40}\bofficial\b)|(?:announcements?|updates?|details?|information|news|confirmations?)\s+(?:came|went\s+out|were\s+communicated|was\s+communicated|were\s+shared|was\s+shared|were\s+posted|was\s+posted)\s+(?:through|via|on)\s+[^.\n]{0,60}?\b(?:official|verified)\b/i;
 
 // What a repaired ended-event page may not say, either way round. The repair
 // tool tests its own output against this, so a rewrite that trades a future

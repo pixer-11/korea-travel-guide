@@ -362,3 +362,14 @@ test('the record of what was planned, and evergreen facts, are not advice', () =
   ]) assert.ok(!ADVICE_IMPERATIVE.test(s), s);
 });
 
+
+
+// 2026-09-04: the Lee Hi guide said "announcements came through Lee Hi's and the
+// venue's verified social channels" — nobody checked; same class as "were
+// published on the official site".
+test('an announcement that "came through" official or verified channels is a fabricated availability claim', () => {
+  assert.match("Tickets were sold through the promoter, and announcements came through Lee Hi's and the venue's verified social channels.", FABRICATED_AVAILABILITY);
+  assert.match('Updates went out via the official festival app.', FABRICATED_AVAILABILITY);
+  assert.doesNotMatch("Lee Hi's verified social channels are where the tour's announcements appear.", FABRICATED_AVAILABILITY);
+  assert.doesNotMatch('Announcements come through the official app each year.', FABRICATED_AVAILABILITY);
+});

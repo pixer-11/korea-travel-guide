@@ -19,7 +19,7 @@ gallery: []
 tags:
   - foxborough
   - event
-quickAnswer: BTS was set to play Gillette Stadium in Foxborough, Massachusetts on August 5–6, 2026, two dates on a 79-date world tour and the group's first global run since the members completed military service. Ticketing, set times and gate details came through the official BTS/HYBE and Gillette Stadium channels. Foxborough itself has little hotel inventory, so the Boston area, Norwood, Dedham and Providence are the usual bases for a two-night stand at the stadium.
+quickAnswer: BTS was set to play Gillette Stadium in Foxborough, Massachusetts on August 5–6, 2026, two dates on a 79-date world tour and the group's first global run since the members completed military service. The official BTS/HYBE and Gillette Stadium channels are where ticketing, set times and gate details are published. Foxborough itself has little hotel inventory, so the Boston area, Norwood, Dedham and Providence are the usual bases for a two-night stand at the stadium.
 faq:
   - q: What are the confirmed dates for BTS at Gillette Stadium?
     a: August 5–6, 2026, two of the 79 dates on the world tour. Gillette Stadium keeps a public event calendar for its concert schedule.

@@ -22,7 +22,7 @@ tags:
 quickAnswer: Stray Kids were set to play KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run. Ticketing, exact set times, and lineup or support-act details were not officially announced; Stray Kids' and JYP Entertainment's official channels carried the Seoul dates.
 faq:
   - q: Is the August 1–2, 2026 date confirmed?
-    a: August 1–2, 2026 were the announced dates for Stray Kids' Seoul stop at KSPO Dome. Tour dates, venues, and details came through Stray Kids' official social channels and JYP Entertainment's site.
+    a: August 1–2, 2026 were the announced dates for Stray Kids' Seoul stop at KSPO Dome. Stray Kids' official social channels and JYP Entertainment's site are where tour dates, venues, and details are published.
   - q: How do I get to KSPO Dome?
     a: Subway Line 5 or Line 9 to Olympic Park Station, then a walk of about 10–15 minutes through Olympic Park to the dome. It's the most reliable route, since roads around the venue get congested on show nights.
   - q: Where do tickets go on sale?

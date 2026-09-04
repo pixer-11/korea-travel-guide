@@ -134,6 +134,7 @@ RULES
 - Preserve markdown structure exactly: the same "##" headings (translated text), lists, bold, and links with unchanged URLs.
 - Keep the same number of FAQ items, in the same order.
 - Do not add, remove, or embellish facts. Do not add a translator's note.
+${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way. Do not add any instruction to check, confirm, verify, book, reserve or arrive early, and do not add words meaning "was held" / "took place" / "went ahead" unless the source sentence states it.` : ''}
 
 SOURCE
 Title: ${data.title}
@@ -152,6 +153,35 @@ ${data.body}`;
 // This shipped to 26 live posts before anyone saw it, because nothing checked.
 // Cheap to detect, so check every field and retry rather than ever write it.
 const SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_calls|invoke)\b|<parameter\s+name=/i;
+
+// Phrases a translation of an ENDED event may not contain: reader instructions
+// to check/book, and 'it was held' outcomes. Found live on 2026-09-04 in ko/ja/es
+// translations whose English source had none of it.
+export const ENDED_ADVICE = {
+  ko: /확인하세요|확인하시기 바랍니다|확인해 주세요|예약하세요|미리 예약하(?:세요|시는 것이|는 것이 좋)|서둘러 예약|열렸습니다|개최되었습니다|진행되었습니다/,
+  ja: /確認してください|ご確認ください|予約してください|早めに予約してください|早めの予約を|開催されました|行われました|実施されました/,
+  es: /antes de reservar|reserva con antelación|confirma (?:antes|la fecha|el horario)|verifica antes|se celebró|tuvo lugar|se llevó a cabo/,
+  zh: /请提前预订|请务必确认|出发前请确认|请预订|已举行|已经举行|顺利举行/,
+};
+
+// A sentence about PAST editions or the venue's history may say 'was held'; only
+// a sentence about this edition may not. Judge sentence by sentence.
+const ENDED_HISTORY = {
+  ko: /과거|지난|이전|역대|매년|해마다|이래|이후로|부터 .*(?:열려|개최되어) ?왔|전통/,
+  ja: /過去|これまで|以来|毎年|例年|以前|前回|歴代|伝統/,
+  es: /anteriores|pasad[ao]s?|desde |cada año|históricamente|tradicionalmente|ediciones/,
+  zh: /过去|历届|每年|以来|历来|往届|传统/,
+};
+function endedAdviceHit(text, advice, lang) {
+  const history = ENDED_HISTORY[lang];
+  for (const sentence of String(text).split(/(?<=[.。!?！？])\s+|\n+/)) {
+    // A FAQ question ('when and where was it held?') is not a claim.
+    if (/[?？]\s*$/.test(sentence.trim()) || /^\s*-?\s*q:/i.test(sentence)) continue;
+    const m = sentence.match(advice);
+    if (m && !(history && history.test(sentence))) return m;
+  }
+  return null;
+}
 
 function spilledField(out) {
   for (const [k, v] of Object.entries(out)) {
@@ -275,6 +305,18 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
      (Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a).length : 0) < data.faq.length
       ? `faq(${Array.isArray(out.faq) ? out.faq.length : 0}/${data.faq.length})`
       : null);
+  if (!bad && data.ended) {
+    const advice = ENDED_ADVICE[langCode];
+    const fields = [out.description, out.quickAnswer, ...(Array.isArray(out.faq) ? out.faq.map((f) => `${f?.q} ${f?.a}`) : []), out.body].join('\n');
+    const hit = advice && endedAdviceHit(fields, advice, langCode);
+    if (hit) {
+      if (attempt < 3) {
+        console.log(`     ↻ ${langCode}/${srcId} — ended event, translation added "${hit[0]}", retrying (attempt ${attempt + 1})`);
+        return translateOne(langCode, srcId, data, hash, attempt + 1);
+      }
+      throw new Error(`ended-event translation keeps adding advice/outcome ("${hit[0]}") after ${attempt} attempts — not written`);
+    }
+  }
   if (bad) {
     if (attempt < 3) return translateOne(langCode, srcId, data, hash, attempt + 1);
     // Three identical failures are not bad luck, they are a request the model
@@ -397,7 +439,13 @@ for (const f of files) {
   const body = raw.slice(end + 4).trim();
   if (!body) continue;
 
-  const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body };
+  // An ended event is translated as the record it now is (2026-09-04): the
+  // translator used to add its own '확인하세요 / 確認してください / antes de reservar'
+  // and '열렸습니다' even when the English had none.
+  const endedRaw = fm.eventEndDate || fm.eventStartDate;
+  const endedDay = endedRaw instanceof Date ? endedRaw.toISOString().slice(0, 10) : String(endedRaw || '').slice(0, 10);
+  const ended = fm.category === 'event' && !!endedDay && endedDay < new Date().toISOString().slice(0, 10);
+  const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body, ended };
   // Through the shared reader, so a tool that re-stamps a translation's hash
   // (resync-rating-badges, resync-prose-ratings) computes the identical value.
   // They used to build it from the pieces themselves and got it subtly wrong.

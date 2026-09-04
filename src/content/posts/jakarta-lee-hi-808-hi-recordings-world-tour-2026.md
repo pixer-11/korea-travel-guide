@@ -10,7 +10,7 @@ eventEndDate: '2026-08-09'
 tags:
   - jakarta
   - event
-quickAnswer: The Jakarta stop of Lee Hi's "808 HI Recordings" world tour was set for August 9, 2026 at Bengkel Hall in SCBD, South Jakarta, billed as her first solo concert in Indonesia, with special guest rapper DOK2. Tickets were sold through the official promoter and verified ticketing platforms, and announcements came through Lee Hi's and the venue's verified social channels. Bengkel Hall is a mid-size indoor venue in one of the city's main business and entertainment districts.
+quickAnswer: The Jakarta stop of Lee Hi's "808 HI Recordings" world tour was set for August 9, 2026 at Bengkel Hall in SCBD, South Jakarta, billed as her first solo concert in Indonesia, with special guest rapper DOK2. Tickets are sold through the official promoter and verified ticketing platforms; Lee Hi's and the venue's verified social channels are where the tour's announcements appear. Bengkel Hall is a mid-size indoor venue in one of the city's main business and entertainment districts.
 faq:
   - q: Where exactly is the Lee Hi Jakarta concert?
     a: At Bengkel Hall in the SCBD (Sudirman Central Business District) area of South Jakarta, a well-known business and entertainment hub along Jalan Jenderal Sudirman.
