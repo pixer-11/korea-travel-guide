@@ -1,44 +1,35 @@
 ---
 lang: es
 slug: about
-srcHash: 'aa0f9cc64469'
+srcHash: 'dba3db178ca4'
 metaTitle: Política editorial
-metaDescription: 'Cómo se elabora Wander Atlas: nuestras fuentes, nuestro uso de asistencia de IA y nuestro compromiso con contenido preciso y con licencia.'
+metaDescription: Quién hace Wander Atlas, cómo se reparte el trabajo entre la asistencia de IA y la revisión humana, dónde informar un error y de dónde provienen nuestros datos.
 eyebrow: Política editorial
-h1: Cómo se elabora este sitio
+h1: Cómo se hace este sitio
 ---
 
-Wander Atlas es un recurso curado y revisado por un editor para visitantes internacionales. Somos transparentes sobre cómo se produce.
+Wander Atlas es un recurso curado y revisado por un editor para visitantes internacionales. Esta página trata sobre las personas y las reglas detrás de él. Los datos en sí (gráficos de afluencia, horarios de apertura, calificaciones, tablas climáticas) y de dónde proviene cada uno se explican en la [página de metodología](/methodology).
 
 ## El editor
 
-Cada guía de este sitio es revisada por **Pixer** — un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: todo Vietnam y Tailandia, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Taiwán, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros — y que sigue viajando, ampliando los registros e información de este sitio con cada viaje. Pixer es un seudónimo; te lo decimos abiertamente en lugar de inventar una persona. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos haber realizado visitas personales que no hemos hecho.
+Cada guía de este sitio es revisada por **Pixer**, un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: todo Vietnam y Tailandia, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Taiwán, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros, y que continúa viajando, ampliando los registros de este sitio con cada viaje. Pixer es un seudónimo; lo decimos abiertamente en lugar de inventar un personaje. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos una visita personal que no hemos realizado.
 
 ## Asistencia de IA
 
-Nuestras guías se redactan con asistencia de IA y luego se verifican con datos en tiempo real. Lo indicamos en cada artículo. La IA nos ayuda a mantener una cobertura amplia y actualizada; no sustituye la verificación de los hechos.
+Nuestras guías se redactan con asistencia de IA y luego se verifican con datos en vivo. Lo divulgamos en cada artículo. La IA nos ayuda a mantener una cobertura amplia y actualizada; no reemplaza la revisión del editor ni las verificaciones descritas en la página de metodología. No afirmamos haber visitado un lugar a menos que el editor lo haya hecho; somos un recurso de curaduría y verificación, y lo decimos así.
 
-## De dónde proceden nuestros datos
+## Lo que prometemos
 
-- Detalles comerciales, valoraciones y horarios: proveedores verificados de datos comerciales de mapas y locales.
-- Estimaciones de afluencia y ocupación: datos medidos de tránsito peatonal, ajustados a los horarios de apertura de cada local.
-- Información práctica (visado, emergencias, transporte): fuentes oficiales gubernamentales y turísticas.
+- Solo escribimos sobre lugares que podemos verificar que están abiertos y bien calificados, y una guía se retira cuando ya no podemos confirmar que el lugar está abierto.
+- Nunca inventamos horarios de apertura, precios o direcciones. Si no podemos confirmar un detalle, lo omitimos.
+- Cada foto tiene licencia o licencia abierta, está acreditada y se verifica que muestre el lugar real.
 
-## Nuestros estándares de verificación
-
-Debido a que la cobertura es amplia, aplicamos a cada guía de locales estándares concretos y automatizados en lugar de opiniones:
-
-- **Umbral de calidad:** cuando se dispone de datos de valoración verificados, solo destacamos lugares con una calificación de 4.0★ o superior y un número significativo de reseñas.
-- **Actualidad:** los datos de los locales se vuelven a verificar según un calendario; cualquier lugar que haya cerrado se despublica automáticamente, para que no te enviemos a un lugar que ya no existe.
-- **Solo imágenes con licencia:** cada imagen procede de una fuente aprobada y con licencia (Wikimedia Commons, Foursquare, Openverse o datos públicos/abiertos) con atribución — nunca una foto extraída sin permiso.
-- **Sin detalles inventados:** a nuestro proceso de redacción se le indica explícitamente que nunca invente horarios, precios o direcciones; los datos concretos provienen de la información verificada, no de conjeturas.
-
-Las guías son elaboradas por el equipo editorial de Wander Atlas siguiendo este proceso, y revisadas por nuestro editor antes y después de la publicación. No afirmamos haber realizado visitas personales que no hemos hecho — somos un recurso de curación y verificación, y lo decimos claramente.
+Cómo funciona cada una de estas verificaciones, y con qué frecuencia se realizan, está en la [página de metodología](/methodology).
 
 ## Imágenes
 
-Solo usamos imágenes que tenemos licencia para usar — fuentes de dominio público y con licencia abierta (por ejemplo, Wikimedia Commons, datos abiertos de la Organización de Turismo de Corea, Openverse), o imágenes que acreditamos y enlazamos a su fuente. No republicamos fotos de terceros sin licencia.
+Solo utilizamos imágenes para las que tenemos licencia: fuentes de dominio público y con licencia abierta como Wikimedia Commons, datos abiertos de la Organización de Turismo de Corea y Openverse, o imágenes que acreditamos y enlazamos a su fuente. No republicamos fotos de otras personas sin licencia.
 
 ## Correcciones
 
-¿Encontraste algo desactualizado? Los lugares cierran y los precios cambian. Actualizamos automáticamente, pero si detectas un error, avísanos.
+¿Encontraste algo desactualizado? Los lugares cierran y los precios cambian. Volvemos a verificar según un calendario, pero si detectas un error, [avísanos](/contact) y lo corregiremos.

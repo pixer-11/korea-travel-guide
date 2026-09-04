@@ -1,40 +1,40 @@
 ---
 metaTitle: "How Our Data Works — Methodology"
-metaDescription: "Where Wander Atlas's crowd curves, opening hours, ratings and climate tables come from, how often they refresh, and how to cite them."
+metaDescription: "Where the crowd charts, opening hours, ratings and climate tables on Wander Atlas come from, how often we check them, and how to cite them."
 eyebrow: "Methodology"
 h1: "How our data works"
 ---
 
-Wander Atlas publishes numbers — crowd curves, opening hours, ratings, climate tables — and numbers are only useful if you know where they come from. This page is the source ledger for everything measurable on this site. Journalists, researchers and fellow travel sites are welcome to cite any figure here with a link back to the page it appears on.
+Wander Atlas publishes a lot of numbers: how busy a place gets and when, opening hours, ratings, monthly temperatures and rainfall. A number is only worth something if you know where it came from, so this page explains the source of everything we measure. Journalists, researchers and other travel sites are welcome to quote any figure here, with a link back to the page it appears on.
 
 ## Crowd data
 
-Every "best time to visit" chart on this site is built from **measured foot-traffic data, not surveys or guesswork**. We license venue-level busyness estimates from BestTime.app, which models real visit patterns; we then clamp every curve to the venue's verified opening hours, so a chart can never show a "quiet hour" at 7am for a museum that opens at 10. Charts are refreshed on a rolling schedule, and a venue whose hours change gets its curve re-clamped automatically.
+Every "best time to visit" chart on this site comes from **measured foot traffic, not surveys or guesswork**. We license busyness estimates for each venue from BestTime.app, which builds them from real visit patterns. We then line every chart up with the venue's verified opening hours, so you will never see a "quiet hour" at 7am for a museum that opens at 10. Charts are refreshed on a rolling schedule, and when a venue changes its hours, its chart is adjusted to match.
 
-**What this means in practice:** when a Wander Atlas page says a market peaks on Saturday afternoons, that reflects measured visit patterns at that specific venue — not a generic "weekends are busy" assumption.
+**What this means for you:** when a Wander Atlas page says a market is busiest on Saturday afternoons, that is what was measured at that market, not a general assumption that weekends are busy.
 
 ## Venue facts: ratings, hours, closures
 
-- **Quality floor.** When verified rating data is available, we only feature places rated **4.0★ or higher** with a meaningful number of reviews. Places below the floor simply don't get a guide.
-- **Freshness.** Venue data is re-checked on a rolling schedule (every venue lands in the queue roughly quarterly), and pages for places we can no longer verify as open are automatically unpublished. We would rather have one fewer page than send you to a shuttered door.
-- **No invented details.** Our drafting process is instructed never to fabricate hours, prices or addresses; specifics come from commercial venue-data providers and official sources, and anything we can't verify is left out.
+- **A quality bar.** Where verified rating data exists, we only write about places rated **4.0★ or higher** with a meaningful number of reviews. Places below that bar don't get a guide.
+- **Kept current.** Venue details are re-checked on a rolling schedule (every venue comes up roughly once a quarter), and a page for a place we can no longer confirm is open is taken down. We would rather have one fewer page than send you to a locked door.
+- **Nothing made up.** We never invent opening hours, prices or addresses. Those details come from commercial venue databases and official sources, and if we cannot confirm something, we leave it out.
 
 ## Climate and "when to go" tables
 
-Monthly temperature and rainfall figures are computed from **ten complete years of archived weather observations** (Open-Meteo historical archive), sampled at the city we cover most in each country — at a real venue's coordinates, and the page names which city the figures describe. Public-holiday tables come from national holiday calendars and are refreshed twice a year, covering the current and following year.
+Monthly temperature and rainfall figures are calculated from **ten full years of archived weather observations** (the Open-Meteo historical archive), taken at the coordinates of a real venue in the city we cover most in each country. Each page says which city its figures describe. Public-holiday tables come from national holiday calendars and are updated twice a year to cover the current year and the next.
 
 ## Itineraries
 
-Every day-by-day itinerary is assembled **only from places that already passed the checks above** — verified hours, verified ratings, real coordinates. Routes between stops are computed from those coordinates, so walking-time claims are geometry, not vibes. An itinerary is only published for a city once we have enough verified guides there to fill it honestly.
+Every day-by-day itinerary is built **only from places that have already passed the checks above**: confirmed hours, confirmed ratings, real coordinates. Walking times between stops are worked out from those coordinates, not estimated by feel. We publish an itinerary for a city only once we have enough verified guides there to fill it properly.
 
 ## Photos
 
-Every image is from a licensed or open source (Wikimedia Commons, Foursquare, Openverse, official open-data programs) with attribution, and passes an identity check against the source's own metadata — a photo of a different branch of the same chain gets rejected. If we can't find a verified photo of the actual place, we don't publish the guide.
+Every image comes from a licensed or open source (Wikimedia Commons, Foursquare, Openverse, official open-data programmes), with attribution, and is checked against the source's own record of what it shows. A photo of a different branch of the same chain is rejected. If we cannot find a verified photo of the actual place, we don't publish the guide.
 
 ## The editor
 
-Guides are drafted with AI assistance — disclosed on every article — and reviewed under the editorial policy of **Pixer**, a Korean travel editor who has personally traveled more than twenty countries across Asia, Europe, the Americas and Oceania. Countries the editor has personally visited are marked on the home page, and we never claim personal visits we haven't made. Read the full [editorial policy](/about) for how AI assistance and human review divide the work.
+Guides are drafted with AI assistance, which is disclosed on every article, and reviewed by **Pixer**, a Korean travel editor who has personally travelled to more than twenty countries. Who Pixer is, and how AI assistance and human review divide the work, is on the [editorial policy page](/about).
 
 ## Citing Wander Atlas
 
-You're welcome to reference our charts and tables. Please credit "Wander Atlas" and link to the specific page — every crowd chart, climate table and itinerary has a stable URL. For press or data questions, see the [contact page](/contact).
+You are welcome to reference our charts and tables. Please credit "Wander Atlas" and link to the specific page; every crowd chart, climate table and itinerary has a stable URL. For press or data questions, see the [contact page](/contact).

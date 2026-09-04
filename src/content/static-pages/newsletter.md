@@ -5,7 +5,7 @@ eyebrow: "Newsletter"
 h1: "The Weekly Edit"
 ---
 
-Once a week, we send a short brief built from the same verified data that powers this site — measured crowd curves, checked opening hours, ten-year climate tables — and none of the guesswork.
+Once a week, we send a short brief built from the same verified data that powers this site — measured crowd data, checked opening hours, ten-year climate tables — and none of the guesswork.
 
 ## What you get every week
 

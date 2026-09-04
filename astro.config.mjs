@@ -520,11 +520,12 @@ function sitemapSplitIntegration() {
 }
 
 import rehypeMidCta from './src/lib/rehype-mid-cta.mjs';
+import rehypeLocalizeLinks from './src/lib/rehype-localize-links.mjs';
 
 export default defineConfig({
   site: SITE,
   markdown: {
-    rehypePlugins: [rehypeMidCta],
+    rehypePlugins: [rehypeMidCta, rehypeLocalizeLinks],
   },
   integrations: [
     sitemap({
