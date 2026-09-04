@@ -1,6 +1,6 @@
 ---
 title: 'Hudayriyat Island: Abu Dhabi Travel Guide (4.7★)'
-description: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 25-minute drive from Saadiyat Island — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. 4.7★ (2,190 reviews) — what visitors say, hours, and tips.
+description: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 20-minute drive south of the city centre — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. 4.7★ (2,190 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Abu Dhabi
 category: hidden-gem
@@ -36,9 +36,9 @@ place:
 tags:
   - abu dhabi
   - hidden gem
-quickAnswer: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 25-minute drive from Saadiyat Island — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. It's open 24 hours, so mornings before 8am or the cooler evening hours after sunset are best for exercise, while beach clubs run daytime hours. Plan on two to four hours minimum, longer if you're cycling the full loop or staying for sunset.
+quickAnswer: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 20-minute drive south of the city centre — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. It's open 24 hours, so mornings before 8am or the cooler evening hours after sunset are best for exercise, while beach clubs run daytime hours. Plan on two to four hours minimum, longer if you're cycling the full loop or staying for sunset.
 faq:
-  - q: How do I get to Hudayriyat Island from Saadiyat Island?
+  - q: How do I get to Hudayriyat Island from central Abu Dhabi?
     a: It's about a 20-25 minute drive south through Abu Dhabi city, crossing onto the island via its dedicated bridge. Taxis and ride-hailing apps cover the route easily; there's no direct public bus.
   - q: What are the opening hours?
     a: The island itself is open 24 hours every day. Individual beach clubs, cafés, and rental kiosks keep their own daytime hours, so check specific venues before heading out early or late.
@@ -54,15 +54,15 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## Why Hudayriyat Island earns a detour from Saadiyat
+## Why Hudayriyat Island earns a visit
 
-You come to Saadiyat for the museums and the beach clubs, but Hudayriyat is where Abu Dhabi actually exercises. It's a sprawling reclaimed island south of the city, connected by its own bridge, built around one enormous idea: give people space to move outdoors year-round.
+Saadiyat has the museums and the beach clubs; Hudayriyat is where Abu Dhabi actually exercises. It's a sprawling reclaimed island south of the city, connected by its own bridge, built around one enormous idea: give people space to move outdoors year-round.
 
 The scale hits you first. Wide paved paths stretch for kilometers along the coast, flanked by open scrubland on one side and turquoise shallows on the other. There's no dense urban clutter here — just horizon, tarmac, and the occasional cyclist in full kit blowing past.
 
-## Getting there from Saadiyat Island
+## Getting there
 
-It's about a 20-25 minute drive, heading south through Abu Dhabi city before crossing onto the island via its dedicated bridge. Taxis and ride-hailing apps run this route easily, though there's no direct public bus link.
+From central Abu Dhabi it's about a 20-minute drive south, crossing onto the island via its dedicated bridge; from Saadiyat Island allow 25 minutes. Taxis and ride-hailing apps run this route easily, though there's no direct public bus link.
 
 If you're driving yourself, expect ample free parking near the main clusters of activity — the cycling track, the beach clubs, and the adventure hub. Google Maps handles navigation fine; just search "Hudayriyat Island" rather than a specific venue.
 
@@ -102,4 +102,4 @@ Hudayriyat is well-known among Abu Dhabi residents as the city's default fitness
 
 ## Nearby stops to round out the trip
 
-Since you're already coming from Saadiyat, it's easy to pair Hudayriyat with a museum stop at the Louvre Abu Dhabi or a beach afternoon at Saadiyat's public beach before or after. Yas Island, with its theme parks and Yas Marina Circuit, is roughly another 20 minutes further on, making it a reasonable third stop if you're building a full day around Abu Dhabi's outer islands.
+It's easy to pair Hudayriyat with a museum stop at the Louvre Abu Dhabi or a beach afternoon at Saadiyat's public beach before or after. Yas Island, with its theme parks and Yas Marina Circuit, is roughly another 20 minutes further on, making it a reasonable third stop if you're building a full day around Abu Dhabi's outer islands.

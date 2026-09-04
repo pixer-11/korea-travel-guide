@@ -20,13 +20,13 @@ tags:
   - event
 quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr was set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi. The announced lineup put a light heavyweight bout between Magomed Ankalaev and Khalil Rountree Jr. at the top of the card. Fight-card start times, prelim details and ticket on-sale dates came out in the run-up to the July 25 date in Abu Dhabi.'
 faq:
-  - q: 'When and where is UFC Fight Night: Ankalaev vs Rountree Jr?'
+  - q: 'When and where was UFC Fight Night: Ankalaev vs Rountree Jr held?'
     a: It was set for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, with Magomed Ankalaev and Khalil Rountree Jr. announced as the main event.
   - q: How do I get to Etihad Arena from the airport?
     a: It's about a 20-25 minute taxi or ride-hail trip from Abu Dhabi International Airport, or roughly 45-60 minutes from Dubai International Airport via Sheikh Zayed Road.
-  - q: Where should I stay for the fight?
+  - q: Where do visitors usually stay for events at Etihad Arena?
     a: Yas Island hotels like Yas Viceroy Abu Dhabi, W Abu Dhabi – Yas Island, or Centro Yas Island offer the shortest commute to Etihad Arena; downtown Abu Dhabi or even Dubai are workable alternatives for anyone who doesn't mind commuting.
-  - q: How much are tickets and when do they go on sale?
+  - q: How much did tickets cost and when did they go on sale?
     a: Prices and on-sale dates were not part of the initial announcement. UFC.com and Ticketmaster served as UFC's official ticketing outlets.
   - q: What else can I do around fight weekend?
     a: Yas Island has Ferrari World, Yas Waterworld, and Yas Marina waterfront dining all within a short ride of the arena, and Louvre Abu Dhabi and Sheikh Zayed Grand Mosque are about 30-40 minutes away.
@@ -63,6 +63,6 @@ UFC Fight Night cards typically run a lighter promotional schedule than pay-per-
 
 Yas Island alone can fill a full day or two: Ferrari World's roller coasters, Yas Waterworld, and Yas Marina's waterfront restaurants are all within a short walk or taxi ride of the arena. Abu Dhabi's Sheikh Zayed Grand Mosque and the Louvre Abu Dhabi on Saadiyat Island are worth the 30-40 minute drive for anyone with a free afternoon.
 
-Etihad Arena is indoor and air-conditioned, so July's extreme outdoor heat (commonly 40°C/104°F+) isn't a factor inside, though outdoor sightseeing is most comfortable in the early morning or evening. Alcohol is available at licensed hotel bars and restaurants on Yas Island, alongside general UAE etiquette around public conduct and dress.
+Etihad Arena is indoor and air-conditioned, so July's extreme outdoor heat (commonly 40°C/104°F+) isn't a factor inside, though outdoor sightseeing is most comfortable in the early morning or evening. Alcohol is available at licensed hotel bars and restaurants on Yas Island.
 
 Ticket prices, exact venue doors and start times, and the full undercard lineup were not part of the first announcement. UFC.com and the official UFC app carried those details as they were released.

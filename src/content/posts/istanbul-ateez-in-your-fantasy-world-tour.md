@@ -23,11 +23,11 @@ quickAnswer: ATEEZ's IN YOUR FANTASY World Tour was set to stop in Istanbul on A
 faq:
   - q: Is the venue for the Istanbul show confirmed?
     a: No venue was attached to the date in the announcements — only August 16, 2026 was set. The venue name, doors time, and on-sale schedule were to come from ATEEZ's official social media and KQ Entertainment.
-  - q: How do I buy official tickets?
+  - q: How were official tickets sold?
     a: Tickets were sold through the official ticketing partner announced via ATEEZ's or the promoter's verified channels.
   - q: Has ATEEZ performed in Istanbul before?
     a: No — the date was announced as the group's first appearance in the city, part of the IN YOUR FANTASY World Tour.
-  - q: How many days should I plan for the trip?
+  - q: How many days does a concert trip to Istanbul take?
     a: 'Three to four days covers a trip like this: one for arrival, one for the concert day including queueing, and one or two for Istanbul''s major sights such as Hagia Sophia and Topkapi Palace.'
   - q: What's the weather like in Istanbul in mid-August?
     a: Mid-August in Istanbul is typically warm, often reaching the low-to-mid 30s Celsius during the day, with heat lingering into the evening.
@@ -43,7 +43,7 @@ An ATEEZ date in Istanbul was a genuine milestone on the tour map — the eight-
 
 ## Getting the essentials right
 
-No venue was attached to the Istanbul date in official announcements, and that detail matters more than almost anything else for a trip — it determines which side of the city a hotel sits on, how you get there, and how long the ride from the airport takes. ATEEZ's official Twitter/X and Instagram accounts, along with KQ Entertainment's press releases, were the channels carrying the venue name, doors time, and ticket on-sale schedule.
+No venue was attached to the Istanbul date in official announcements; the venue decides which side of the city a hotel sits on and how long the ride from the airport takes. ATEEZ's official Twitter/X and Instagram accounts, along with KQ Entertainment's press releases, were the channels carrying the venue name, doors time, and ticket on-sale schedule.
 
 Concerts of this scale in Istanbul typically land at one of the city's larger arenas or event halls capable of holding a major international touring production, most of them a metro or tram ride from the centre.
 
@@ -51,13 +51,13 @@ Concerts of this scale in Istanbul typically land at one of the city's larger ar
 
 Istanbul in mid-August is warm, often into the low-to-mid 30s Celsius during the day, and queues for arena shows form outdoors. Three full days in the city beyond the concert itself is a comfortable frame — one for arrival and adjusting, one for the show and its long merch and entry lines, and at least one more for the Old City sights (Hagia Sophia, the Blue Mosque, Topkapi Palace) that make the trip worth extending.
 
-A venue on the European side near the historic peninsula makes it easy to combine sightseeing with concert day. One further out means more transit time, and staying close to the venue often beats staying in the tourist centre.
+A venue on the European side near the historic peninsula makes it easy to combine sightseeing with concert day. One further out means more transit time.
 
 ## Tickets and how not to get burned
 
 Official ticketing for major concerts in Turkey typically runs through established local platforms tied to the promoter, with international fans often needing a VPN-free connection and a card that supports international transactions. Resale and "guaranteed ticket" offers circulate heavily on social media in the weeks after a K-pop tour date is announced, and anything bought outside the officially named platform carries real risk — especially in a first-time market like Istanbul, where scalping tends to spike.
 
-Sellers offering tickets before an official on-sale date has even been announced are the clearest warning sign of all.
+Sellers offering tickets before any official on-sale date is announced are the clearest warning sign of a scam.
 
 ## What the night itself tends to look like
 
@@ -71,4 +71,4 @@ Istanbul residents heading to a big touring concert generally use public transpo
 
 Cash is still useful for street food and small vendors near venues, but contactless card and mobile payment are widely accepted for merch and official concessions. The biggest bottleneck at shows like this is usually the first 30–45 minutes after entry opens, not the stretch right before the lights go down.
 
-The most common trap for international fans is booking non-refundable flights before a venue and final date are locked in.
+The most common trap for international fans at any K-pop tour date is non-refundable flights bought before a venue and final date are published.

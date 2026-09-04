@@ -142,7 +142,7 @@ const CHECKS = [
       // admits is unconfirmed), SAME-PHOTO-TWICE, and UNPARSEABLE FRONTMATTER.
       const broken = l.match(/UNPARSEABLE FRONTMATTER:\s*(\S+\.md)/)?.[1];
       if (broken) UNPARSEABLE.add(broken);
-      return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates|STUB-BODY|PROMPT-LEAK|EDITOR-NOTE in \w+|EVENT-VENUE-GUESSED|SAME-PHOTO-TWICE|UNPARSEABLE FRONTMATTER)[^:]*:\s*(\S+\.md)/)?.[1]
+      return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|DUPLICATE event coverage|CONTRADICTORY event dates|STUB-BODY|PROMPT-LEAK|EDITOR-NOTE in \w+|EVENT-VENUE-GUESSED|SAME-PHOTO-TWICE|UNPARSEABLE FRONTMATTER|ENDED-EVENT-FUTURE-TENSE|ENDED-EVENT-FABRICATED-AVAILABILITY|ENDED-EVENT-ADVICE)[^:]*:\s*(\S+\.md)/)?.[1]
         ?? l.match(/^\s*•\s*(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL):\s*(\S+\.md)/)?.[1];
     },
   },

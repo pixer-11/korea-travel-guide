@@ -66,8 +66,8 @@ tags:
   - "park"
 quickAnswer: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. It's open 24 hours, and on weekends the calmest window is 7am to 9am before the walking groups and picnic crowds arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into Mount Faber Park via the canopy walk, and catch the skyline from Henderson Waves."
 faq:
-  - q: "Is Telok Blangah Hill Park actually near Kampong Glam?"
-    a: "No, it's on the opposite side of the city, near HarbourFront and Mount Faber on Singapore's southern ridge. Expect a 25-30 minute MRT or taxi ride from Kampong Glam."
+  - q: "Where is Telok Blangah Hill Park?"
+    a: "On Singapore's southern ridge, near HarbourFront and Mount Faber. Expect a 25-30 minute MRT or taxi ride from the city centre."
   - q: "How do I get there by public transport?"
     a: "Take the MRT to HarbourFront station (Circle or North East line) and walk uphill into the park; there's no station directly inside it."
   - q: "When is it quietest?"
@@ -86,7 +86,7 @@ draft: false
 
 Telok Blangah Hill Park sits on Singapore's southern ridge, close to HarbourFront and Mount Faber, a good half-hour taxi or MRT-plus-walk from the city centre.
 
-If you're basing yourself in Kampong Glam, treat this as a half-day excursion rather than a stroll after lunch. The nearest MRT is HarbourFront (Circle and North East lines), from which the park is a short uphill walk.
+Treat this as a half-day excursion rather than a stroll after lunch. The nearest MRT is HarbourFront (Circle and North East lines), from which the park is a short uphill walk.
 
 ## What the 34 hectares actually give you
 
@@ -127,4 +127,4 @@ The most common visitor mistake is treating this as a quick stop. Because it's w
 
 If you've walked the full ridge to Mount Faber, the cable car down to HarbourFront or Sentosa saves your knees. Otherwise, retrace your steps to Telok Blangah Hill Park and pick up a taxi or ride-share from the nearest road access point, since MRT stations sit at either end of the ridge rather than in the middle.
 
-Factor the return trip into your day if you're heading back to Kampong Glam for dinner; it's not a quick hop.
+Factor the return trip into your day if you're heading back to the city centre for dinner; it's not a quick hop.

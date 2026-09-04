@@ -1,6 +1,6 @@
 ---
 title: 'La Tomatina: What to Know (Buñol)'
-description: La Tomatina in Buñol, Spain — August 26, 2026. What it is, when and where it was set, and how the festival day was organised.
+description: La Tomatina in Buñol, Spain — August 26, 2026. What it is, where it happens, and how the festival day is organised.
 country: Spain
 region: Buñol
 category: event

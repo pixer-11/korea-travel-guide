@@ -78,7 +78,12 @@ for (const file of readdirSync(DIR)) {
   });
 }
 
-const hits = findRegionOutliers(posts);
+const allHits = findRegionOutliers(posts);
+// A post already quarantined for its region is not a new finding — the repair
+// patrol re-checks drafts itself. They are listed, but only live posts fail the run.
+const held = allHits.filter((h) => h.post.draft);
+for (const h of held) console.log(`   (held draft, not counted) ${h.post.file}`);
+const hits = allHits.filter((h) => !h.post.draft);
 for (const h of hits) {
   const ev = h.evidence.kind === 'address'
     ? `address names ${h.evidence.region}`

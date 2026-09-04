@@ -15,7 +15,7 @@ faq:
   - q: What are the exact dates for Rock en Seine 2026?
     a: Rock en Seine 2026 was scheduled for August 26–30, 2026, in Saint-Cloud, Paris.
   - q: How do I get to the festival from central Paris?
-    a: The RER C runs to Saint-Cloud station, from where it is a walk or festival shuttle uphill to the Domaine national de Saint-Cloud; Métro Line 9 to Pont de Sèvres is an alternative route on the park's south side.
+    a: Transilien lines L (from Paris Saint-Lazare) and U (from La Défense) run to Saint-Cloud station, from where it is a walk or festival shuttle uphill to the Domaine national de Saint-Cloud; Métro Line 9 to Pont de Sèvres is an alternative route on the park's south side.
   - q: Who is headlining in 2026?
     a: The lineup announced The Cure, Nick Cave & The Bad Seeds and Tyler, the Creator at the top of the bill, with Deftones, Turnstile and other acts also confirmed.
   - q: Do I need to book accommodation in Saint-Cloud?
@@ -48,7 +48,7 @@ For visitors, the appeal isn't just the music — it's seeing a top-tier lineup 
 
 ## Getting there
 
-The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is the RER C to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine — the grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
+The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is Transilien line L from Paris Saint-Lazare (or line U from La Défense) to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine — the grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
 
 Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attendees as an alternative approach on the south side of the park. Rock en Seine draws large evening crowds, and transit around headliner sets typically runs slower than usual, with the station walk adding time for anyone coming in for an early-afternoon start.
 

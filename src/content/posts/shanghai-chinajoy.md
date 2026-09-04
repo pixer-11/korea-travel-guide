@@ -1,5 +1,5 @@
 ---
-title: 'ChinaJoy 2026 Shanghai: Dates, Venue & Ticket Prices'
+title: 'ChinaJoy 2026 Shanghai: Dates, Venue & Tickets'
 description: 'ChinaJoy 2026 in Shanghai: the announced dates, the NECC Hongqiao venue, ticket structure, and what the expo covers.'
 country: China
 region: Shanghai

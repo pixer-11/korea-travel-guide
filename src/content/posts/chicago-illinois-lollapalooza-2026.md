@@ -27,7 +27,7 @@ faq:
     a: Confirmed headliners included Charli XCX, Lorde, and Doja Cat. The rest of the lineup and the daily set times are typically released in phases on the official site and app.
   - q: How do I get to Grant Park without driving?
     a: The CTA Red, Orange, and Green Lines stop at Roosevelt, and the Red Line also stops at Harrison; both stations are a short walk from the festival gates. Metra Electric and South Shore trains reach Museum Campus/11th Street.
-  - q: How much are tickets and when do they go on sale?
+  - q: How much did tickets cost and when did they go on sale?
     a: Prices and on-sale dates were not part of the announcement, and they change year to year. Lollapalooza's official ticketing page carries the figures for each edition, which past-year prices do not reflect.
   - q: Is one day enough, or should I get a multi-day pass?
     a: A single-day pass covers the headliners, while a four-day pass covers smaller acts across Lollapalooza's many stages. Four-day passes have historically sold out first.
@@ -45,7 +45,7 @@ eventFactsAsked: true
 
 Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition was set for July 30–August 2, with Charli XCX, Lorde, and Doja Cat announced as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages.
 
-Lollapalooza releases the full lineup, set times, and daily posters in the months before each edition, and 2026 followed the same pattern.
+Lollapalooza releases the full lineup, set times, and daily posters in the months before each edition.
 
 ## Getting there
 

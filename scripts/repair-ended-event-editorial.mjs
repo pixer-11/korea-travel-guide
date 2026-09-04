@@ -93,6 +93,9 @@ function unpack(text, faqCount) {
 }
 
 async function rewrite(title, endedOn, year, doc, feedback = null) {
+  // DRY=1 means 'show what would be rewritten and touch nothing' — including the
+  // API. Before 2026-09-04 the call ran first and only the write was skipped.
+  if (DRY) return null;
   const msg = await client.messages.create({
     model: MODEL,
     max_tokens: 16000,
@@ -159,6 +162,7 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   console.log(`\n📝 ${file} (ended ${end}${cur.fm.draft ? ', draft' : ''})`);
 
   const doc = pack(cur.fm, body);
+  if (DRY) { console.log('   (DRY) would be sent to the model — nothing written, no API call'); continue; }
   let out = null, problems = [], feedback = null;
   for (let attempt = 0; attempt < 2; attempt++) {
     const text = await rewrite(cur.fm.title, end, year, doc, feedback);

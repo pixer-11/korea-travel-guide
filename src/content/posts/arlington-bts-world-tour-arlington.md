@@ -39,11 +39,11 @@ eventOrganizer:
 ---
 ## Why this show mattered
 
-For a fandom that spent nearly three years watching members rotate through service in the South Korean military, two nights at AT&T Stadium were not just tour stops — they were a reunion. The two shows were set for August 15-16, 2026 at AT&T Stadium, part of BTS's fourth world tour, with Arlington one of the marquee North American stops. Promoters built the run as a full stadium bowl-and-floor production rather than an arena show, and everything from the shuttle logistics to the surrounding parking lots was scaled accordingly.
+For a fandom that spent nearly three years watching members rotate through service in the South Korean military, two nights at AT&T Stadium were not just tour stops — they were a reunion. The two shows were set for August 15-16, 2026 at AT&T Stadium, part of BTS's fourth world tour, with Arlington one of the marquee North American stops. The run was announced as a full stadium bowl-and-floor production rather than an arena show.
 
 ## Getting to AT&T Stadium
 
-AT&T Stadium sits in Arlington's Entertainment District, wedged between Globe Life Field and the Texas Rangers ballpark district, roughly halfway between Dallas and Fort Worth. There's no direct rail line into Arlington — this is the one big American city famous for having skipped light rail entirely — so fans reach the stadium three ways: driving and parking in one of the official stadium lots, which sell as advance passes; using the rideshare drop-off zones the stadium designates for event nights; or taking one of the shuttle buses that private operators and some Dallas-area hotels run for major concerts.
+AT&T Stadium sits in Arlington's Entertainment District, next to Globe Life Field, the Texas Rangers ballpark, roughly halfway between Dallas and Fort Worth. There's no direct rail line into Arlington — this is the one big American city famous for having skipped light rail entirely — so fans reach the stadium three ways: driving and parking in one of the official stadium lots, which sell as advance passes; using the rideshare drop-off zones the stadium designates for event nights; or taking one of the shuttle buses that private operators and some Dallas-area hotels run for major concerts.
 
 For anyone flying in, DFW Airport is about a 20-minute drive and Dallas Love Field around 25-30 minutes, depending on traffic on I-30.
 

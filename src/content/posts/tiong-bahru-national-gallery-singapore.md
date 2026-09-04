@@ -75,13 +75,13 @@ That mix of layered history and serious curatorial weight is why it holds one of
 
 ## Getting there
 
-The Gallery sits in the Civic District, on St Andrew's Road beside the Padang. City Hall MRT station (Line 2 East-West, Line 3 North-South) sits right beneath it — take Exit B and you surface almost at the entrance.
+The Gallery sits in the Civic District, on St Andrew's Road beside the Padang. City Hall MRT station (East-West and North-South lines) sits right beneath it — take Exit B and you surface almost at the entrance.
 
 Padang, Esplanade, and the Merlion waterfront are all within a ten-minute walk, so it's easy to fold into a half-day loop through the district.
 
 ## What to see
 
-Start with the permanent galleries: **DiChirico With Love** and the sweeping **Siapa Nama Kamu?** survey of Singapore art from the 1800s onward anchor the old Supreme Court wing.
+Start with the permanent galleries: the sweeping **Siapa Nama Kamu?** survey of Singapore art from the 1800s onward anchor the old Supreme Court wing.
 
 Don't skip the building itself — the former Supreme Court's courtroom domes and the City Hall's colonnaded facade, dating to 1929, are as much the exhibit as the paintings.
 

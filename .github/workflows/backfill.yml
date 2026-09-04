@@ -48,6 +48,11 @@ on:
 
 permissions:
   contents: write
+  # publish.yml (which this workflow CALLS) asked for actions:read on 2026-08-30 for
+  # its day guard. A reusable workflow may not request more than its caller grants,
+  # so from 08-30 to 09-03 every call died as startup_failure with zero jobs and
+  # no log — the country top-up silently stopped for five days (found 09-04).
+  actions: read
 
 # Shared with backfill-details.yml — see the note there.
 concurrency: places-bulk

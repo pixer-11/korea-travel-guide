@@ -57,7 +57,7 @@ draft: false
 
 Zabeel Park spans 117 acres split into themed zones, connected by pedestrian bridges over Sheikh Khalifa bin Zayed Street. The headline attraction is the Dubai Frame, a 150-metre gold-clad rectangle you can see from the park's northern lawns even without buying a ticket up.
 
-Beyond the Frame, expect jogging tracks, a mini-golf course, paddle boats on an artificial lake, and Diera-style shaded picnic groves. A dedicated technology-and-innovation zone and an amphitheatre host occasional events. None of this requires a ticket beyond the Frame itself.
+Beyond the Frame, expect jogging tracks, a mini-golf course, paddle boats on an artificial lake, and Deira-style shaded picnic groves. A dedicated technology-and-innovation zone and an amphitheatre host occasional events. None of this requires a ticket beyond the Frame itself.
 
 ## The flea market and weekend rhythm
 

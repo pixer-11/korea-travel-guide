@@ -58,8 +58,8 @@ tags:
   - museum
 quickAnswer: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus in the west of the island, so budget time for the trip out from the city centre. Its three mounted diplodocid dinosaur skeletons, nicknamed Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries of preserved specimens. Go on a weekday morning before 11am to beat the weekend crowds that build from 11am to 6pm.
 faq:
-  - q: Is the Lee Kong Chian Natural History Museum actually in Bugis?
-    a: No, it's on the NUS Kent Ridge campus at 2 Conservatory Drive. It's tagged to the wider Bugis/Singapore region but sits a fair distance southwest, roughly a 30-minute journey from central Bugis.
+  - q: Where is the Lee Kong Chian Natural History Museum?
+    a: On the NUS Kent Ridge campus at 2 Conservatory Drive, in the southwest of the island — roughly a 30-minute journey from the city centre.
   - q: What's the best time to visit to avoid crowds?
     a: Aim for a weekday morning right at the 10am opening. Weekends get busy from 11am to 6pm, so if you can only go on a Saturday or Sunday, arrive as early as possible.
   - q: How do I get there without driving?
@@ -79,7 +79,7 @@ updatedDate: '2026-09-01'
 
 This museum is on the NUS Kent Ridge campus at 2 Conservatory Drive, a good half-hour drive or bus ride from the city centre. It occupies a low, angular building clad in dark aluminium panels, designed to evoke a rock formation rather than a conventional museum block. Inside, the layout is compact: two main floors wrapped around a central atrium where the dinosaurs stand.
 
-Don't confuse this with a quick Bugis add-on stop. Treat it as a standalone half-day trip, ideally paired with a wander through the adjacent University Cultural Centre or the Kent Ridge Park trails if you have energy left afterward.
+Treat it as a standalone half-day trip, ideally paired with a wander through the adjacent University Cultural Centre or the Kent Ridge Park trails if you have energy left afterward.
 
 ## The three skeletons everyone comes for
 

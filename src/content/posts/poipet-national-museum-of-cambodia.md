@@ -55,17 +55,17 @@ place:
 tags:
   - "phnom penh"
   - "museum"
-quickAnswer: "The National Museum of Cambodia is on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace, and it's open daily 8am-5pm. It's quietest right at the 8am opening. Plan on 1-1.5 hours inside, and expect crowds to build steadily from 10am to 4pm on weekends. If you're crossing in at Poipet, it's a 7-8 hour road journey away — save it for the capital."
+quickAnswer: "The National Museum of Cambodia is on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace, and it's open daily 8am-5pm. It's quietest right at the 8am opening. Plan on 1-1.5 hours inside, and expect crowds to build steadily from 10am to 4pm on weekends."
 faq:
-  - q: "Is the National Museum of Cambodia actually in Poipet?"
-    a: "No. It's in Phnom Penh, on Preah Ang Eng Street near the Royal Palace, roughly 7-8 hours from the Poipet border crossing by road."
+  - q: "Where in Phnom Penh is the National Museum of Cambodia?"
+    a: "On Preah Ang Eng Street, beside the Royal Palace and the Silver Pagoda in the riverside heart of the city."
   - q: "How long does it take to visit the museum?"
     a: "Plan on 60 to 90 minutes to see the four main galleries without rushing, longer if you linger in the courtyard garden."
   - q: "When is the quietest time to visit?"
     a: "Both weekdays and weekends are calmest between 8am and 9am, right at opening. Try to avoid 10am to 4pm on weekends, when tour groups peak."
   - q: "What are the museum's opening hours?"
     a: "It's open daily from 8:00 AM to 5:00 PM, with no weekly closure day."
-  - q: "What's nearby if I'm visiting from Poipet via Phnom Penh?"
+  - q: "What's nearby?"
     a: "The Royal Palace and Silver Pagoda are right next door, making it easy to combine both into one morning."
 aiGenerated: true
 draft: false
@@ -87,13 +87,7 @@ Inside, the collection runs deep — Angkorian-era stone sculpture, bronze Buddh
 
 ## Getting there
 
-The honest logistics: Poipet to Phnom Penh is not a short hop.
-
-- By bus: roughly 7-8 hours, with several daily departures from the border area
-- By private taxi: similar drive time, faster only if traffic cooperates
-- Via Siem Reap first: many travelers break the journey there, since it's roughly halfway and home to Angkor Wat
-
-Once in Phnom Penh, the museum sits close to the Royal Palace and Silver Pagoda, so pair the visit with those rather than treating it as a standalone stop.
+The museum sits on the riverside edge of the old city, a five-minute walk from the Royal Palace and Silver Pagoda, so pair the visit with those. From most central hotels it is a short tuk-tuk or ride-hail trip; from the airport allow 45-60 minutes by taxi. If you are arriving overland from Poipet, the bus takes roughly 7-8 hours and many travellers break the journey in Siem Reap.
 
 ## What to see inside
 
