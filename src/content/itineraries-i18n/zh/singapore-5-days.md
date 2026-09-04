@@ -1,49 +1,49 @@
 ---
 lang: zh
 slug: singapore-5-days
-sourceHash: 31c03954cf1212532ea989b96b0230f05ae9acb7
-title: 新加坡5日游：花园、圣淘沙、雨林与甘榜格南行程
-description: 这份新加坡5日行程从滨海湾花园出发,途经圣淘沙的游乐设施与花园,再到武吉知马的雨林步道、东海岸公园,以及甘榜格南的历史街区。
-quickAnswer: 这份新加坡5日行程第一天游览滨海湾的花园与甘榜格南的历史街区,第二天前往圣淘沙体验游乐设施与花园,第三天穿越雨林步道后走进植物园的静谧,第四天前往东海岸公园与加东,第五天则更深入地漫步甘榜格南。
+sourceHash: bca5d0bdec224718251ef0408453b25b62fee23a
+title: 新加坡5天行程:花园、圣淘沙、自然保护区与小印度
+description: 这份新加坡5天行程从滨海湾的花园和圣淘沙的景点出发,途经武吉知马的雨林步道、东海岸公园,最后以小印度的历史街区收尾。
+quickAnswer: 这是一份新加坡5天行程:开篇是滨海湾花园与甘榜格南,接着用一整天畅游圣淘沙,随后前往武吉知马和新加坡植物园亲近自然,再到东海岸公园和加东走走,最后以小印度和武吉士的历史街区漫步作结。
 faq:
-  - q: 这份新加坡行程需要走很多路吗?
-    a: 大多数日子里,相邻景点之间以短途步行为主,遇到较远距离时则搭乘交通工具,比如武吉知马到新加坡植物园之间,或东海岸公园到芭刹倫芭安路(Pasar Geylang Serai)之间。
+  - q: 这份新加坡5天行程该如何安排交通?
+    a: 行程按区域划分:滨海湾、圣淘沙、武吉知马及丹莱山、东海岸及加东、小印度及武吉士,因此同一天内各个地点之间大多只需步行不远的距离,区域之间则会标注一两段较长的交通换乘。
+  - q: 这份行程需要走很多路吗?
+    a: 每天都会将适合步行的路段与几段较长的交通接驳结合起来,比如从滨海湾花园跨越到甘榜格南,或从东海岸公园转往内陆的芭刹芝兰路(Pasar Geylang Serai)。
+  - q: 如果旅途中下雨怎么办?
+    a: 第1、2、3天都列出了备选的雨天方案可供替换;其余几天没有备选方案,因此这些天的计划仍按原定安排进行。
   - q: 需要提前预订餐厅吗?
-    a: 像Le Noir和Fiamma这类正式餐厅口碑不错,建议提前预订;而像甘榜格南咖啡馆(Kampong Glam Cafe)这样的休闲餐饮则无需预约。
-  - q: 这次旅行最方便的出行方式是什么?
-    a: 行程主要以步行往返相邻景点,再搭配交通工具应对较长距离的移动,尤其是在涉及圣淘沙、武吉知马和东海岸的那几天。
-  - q: 这份行程的户外活动多吗?
-    a: 有几天以户外活动为主,包括滨海湾的花园、圣淘沙的游乐设施与花园,以及武吉知马的雨林步道,建议准备一双舒适的鞋子。
-  - q: 哪一天主要游览甘榜格南?
-    a: 第一天以在此享用晚餐作结,第五天则更充分地漫步甘榜格南,从苏丹清真寺到马来传统文化馆,再到布梳拉路(Bussorah Street)。
+    a: 像Le Noir和Fiamma这类正式餐厅值得提前预订,而小贩中心和市场类的用餐点,比如甘榜格南咖啡馆(Kampong Glam Cafe)或Albert Centre Market & Food Centre,则无需预约。
+  - q: 每天应该安排多少时间?
+    a: 每天都安排得比较充实,包含上午、中午和晚上的一个停留点,不过各处的停留时长有所不同,从快速参观寺庙或公园,到在自然保护区或花园中长时间停留都有。
 days:
-  - label: 滨海湾花园到甘榜格南之夜
-    intro: 第一天从滨海湾花园的巨大穹顶和高耸的超级树开始,在滨海湾金沙享用一顿氛围十足的午餐,随后在超级树丛与花穹间流连,最后前往甘榜格南的老街区享用晚餐。这一天的行程从滨水公园过渡到充满老式风情的街头生活。
-  - label: 圣淘沙游乐设施与感官花园
-    intro: 第二天以一场刺激的滑道车体验开场,搭配一顿精致的坐式午餐,随后以一场光影交织、感官交融的花园漫步收尾。整体节奏从早晨的兴奋刺激,逐渐过渡到日落时分的悠然平静。
-  - label: 雨林步道到植物园的宁静
-    intro: 第三天穿越新加坡最高的山丘及其原始雨林地带,最后在新加坡植物园的园区中收尾。这是一天属于林木与步道的旅程,傍晚则渐渐融入更为柔和的绿意空间。
-  - label: 海岸、市场与静谧公园
-    intro: 第四天从东海岸公园的漫长海滩开场,随后转往内陆逛芭刹倫芭安路的摊档,最后在加东公园以一段悠闲的夜间散步收尾。整天的节奏从开阔的海岸线轻松过渡到街区的静谧。
-  - label: 甘榜格南遗产漫步
-    intro: 第五天全程停留在甘榜格南,从金顶苏丹清真寺出发,前往马来传统文化馆的展厅,最后走入布梳拉路周边的行人街区。这一天专为慢节奏的漫步与历史建筑而设计。
+  - label: 滨海湾花园与灯光秀
+    intro: 第一天从滨海湾开始,先游览新加坡花园(Gardens by the Bay)那片广阔的室内外花园,再到Le Noir小憩片刻。下午穿梭于擎天树丛(Supertree Grove)和花穹(Flower Dome)之间,随后前往甘榜格南,在布梳拉路(Bussorah Street)享用晚间小吃。
+  - label: 圣淘沙的刺激与花园
+    intro: 第二天全天畅游圣淘沙,一开始先体验缆车加雪橇滑道,随后在Fiamma享用一顿正式的意大利午餐。傍晚则在圣淘沙感官园(Sentosa Sensoryscape)的灯光与花园展演中放松收尾。
+  - label: 雨林到植物园
+    intro: 第三天以亲近自然为主线,从武吉知马自然保护区游客中心(Bukit Timah Nature Reserve Visitor Centre)出发,深入保护区内探索步道与采石场风光。接着前往新加坡植物园,观赏兰花并在傍晚绕行天鹅湖(Swan Lake)。
+  - label: 东海岸与加东
+    intro: 第四天从东海岸公园(East Coast Park)的海滨开始,再转往内陆,逛一逛芭刹芝兰路(Pasar Geylang Serai)的湿货市场和小贩中心。最后在福路(Fort Road)上的加东公园(Katong Park)悠闲漫步,为这一天画上安静的句点。
+  - label: 小印度历史街区漫步
+    intro: 第五天探索小印度和武吉士,从实龙岗路(Serangoon Road)上高耸的斯里尼瓦萨伯鲁马庙(Sri Srinivasa Perumal Temple)开始。午餐在Albert Centre Market & Food Centre品尝小贩美食,最后一天以格柏路(Kerbau Road)上色彩柔和的陈金声故居(Former House of Tan Teng Niah)作结。
 whys:
-  marina-bay-gardens-by-the-bay: 滨海湾花园的超级树丛与凉爽的温室是清晨行程的核心,兼具免费户外空间与室内花园亮点。
-  marina-bay-le-noir: Le Noir坐落于滨海湾金沙购物商城内,以艺术氛围浓厚的空间提供轻松的午间小食时光。
-  bugis-supertree-grove: 超级树丛值得再次造访,以观赏其每晚免费的灯光音乐秀,建议提早占据草坪上的好位置。
-  sentosa-flower-dome: 花穹内的主题花园种植橄榄树、猴面包树与沙漠多肉植物,是户外活动后一段轻松、凉爽的漫步选择。
-  kampong-glam-kampong-glam-cafe: 甘榜格南咖啡馆位于行人徒步区布梳拉路上,提供炸鸡或面食等平价快餐,是结束一天行程的好去处。
-  sentosa-skyline-luge-singapore: 新加坡天际线滑道车将风景优美的缆车之旅与自主操控的滑道体验结合,是充满活力的一天开场。
-  sentosa-fiamma: Fiamma坐落于圣淘沙嘉佩乐酒店内,提供精致的意大利坐式料理,与圣淘沙其他热闹区域形成宁静对比。
-  sentosa-sentosa-sensoryscape: 圣淘沙感官景观(Sentosa Sensoryscape)的LED天幕与喷雾花园在黄昏时格外迷人,是免费又合适的收尾方式。
-  bukit-timah-bukit-timah-nature-reserve-visitor-centre: 游客中心是通往新加坡最大片原始雨林的入口,是清晨步道之旅的天然起点。
-  bukit-timah-bukit-timah-nature-reserve: 武吉知马自然保护区的登顶步道与新达石采石场环线,构成午后主要的雨林徒步路段。
-  dempsey-hill-singapore-botanic-gardens: 新加坡植物园以一座免费且宽广的公园为这一天收尾,从国家胡姬花园出发,环绕天鹅湖漫步。
-  katong-east-coast-park: 东海岸公园绵长的海滩地带,适合骑行或步行度过一个轻松的早晨。
-  dempsey-hill-pasar-geylang-serai: 芭刹倫芭安路的湿货市场与小贩摊位,为远离海岸的午后增添一份热闹的市井氛围。
-  katong-katong-park: 加东公园是一处小巧葱郁的休憩点,围绕着老汤马哈克堡(Fort Tomahawk)仅存的遗迹而建,非常适合悠闲的夜间散步。
-  kampong-glam-sultan-mosque: 苏丹清真寺是新加坡最大的清真寺,也是甘榜格南的核心地标,其金顶祈祷厅与庭院值得一游。
-  kampong-glam-malay-heritage-centre: 马来传统文化馆坐落于修复后的甘榜格南王宫(Istana Kampong Gelam)内,就在苏丹清真寺后方,馆内展厅值得慢慢参观。
-  kampong-glam-kampong-glam: 甘榜格南行人徒步区的布梳拉路、阿拉伯街的纺织品店铺,以及哈芝巷的街头艺术,为旅程画上悠然自得的句点。
+  marina-bay-gardens-by-the-bay: 这座滨水公园以擎天树丛、花穹和云雾林为亮点,拉开了上午的序幕,兼具免费户外空间与需付费参观的温室景点。
+  marina-bay-le-noir: 这家氛围独特、装饰满满艺术气息的酒吧餐厅位于滨海湾金沙内,是逛完花园后轻松用午餐的好去处。
+  bugis-supertree-grove: 就在花穹旁边,这片树丛值得傍晚再度造访,以观看免费的Garden Rhapsody灯光音乐秀。
+  sentosa-flower-dome: 这座世界最大的无柱玻璃温室以橄榄树、猴面包树和沙漠多肉植物等主题花园,为下午画上圆满一笔。
+  kampong-glam-kampong-glam-cafe: 在步行街布梳拉路上享用一份平价餐点,距离苏丹回教堂仅几步之遥,一边观察街景一边为这一天画上轻松的结尾。
+  sentosa-skyline-luge-singapore: 缆车登顶后再自驾雪橇滑下,为上午注入满满活力,套票还可畺盖多次滑行。
+  sentosa-fiamma: 这家位于嘉佩乐酒店(Capella Singapore)内的高档意大利餐厅,带来一段精致而宁静的用餐时光,远离圣淘沙热闹的人流。
+  sentosa-sentosa-sensoryscape: 这座免费的多感官花园与灯光装置最适合在黄昏时游览,为圣淘沙的这一天画上恰如其分的结尾。
+  bukit-timah-bukit-timah-nature-reserve-visitor-centre: 游客中心是通往新加坡最大一片原始雨林的门户,也是登山步道的起点。
+  bukit-timah-bukit-timah-nature-reserve: 新加坡最高的山丘提供登顶步道或更轻松的Hindhede采石场环线,延续着上午的雨林主题。
+  dempsey-hill-singapore-botanic-gardens: 这座免费开放、列入联合国教科文组织名录的公园,以国家兰花园和通往天鹅湖的环线步道,为这一天画上圆满结尾。
+  katong-east-coast-park: 这条绵长的海滨地带为这一天提供了开阔的空间,可以骑行、滑轮或单纯沿岸漫步。
+  dempsey-hill-pasar-geylang-serai: 一座湿货市场兼小贩中心,为午后提供了一处远离海岸、可边逛边吃的停留点。
+  katong-katong-park: 这座绿意盎然的小公园围绕着老汤玛哈克堡(Fort Tomahawk)仅存的遗迹而建,为这一天带来安静的收尾。
+  east-coast-sri-srinivasa-perumal-temple: 作为新加坡最受欢迎的印度教庙宇之一,以其高耸、色彩绚丽的塔门(rajagopuram)著称,为小印度的这一天开启序幕。
+  bugis-albert-centre-market-food-centre: 这座位于梧槽河(Rochor Canal)旁的两层小贩中心,提供从湿货市场到美食广场一站式的午餐选择,承接上午与晚间的行程。
+  little-india-former-house-of-tan-teng-niah: 这座小印度仅存的华人别墅,漆上鲜艳的柔和色调,免费参观且耗时不长,为这一天作结。
 rainWhys: {}
 ---

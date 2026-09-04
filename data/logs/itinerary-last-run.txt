@@ -33,15 +33,12 @@ New York, United States — 16 qualifying post(s), variants: 3
 Singapore, Singapore — 61 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   ~ Singapore 5d — structure changed by 6 slug(s), regenerating prose
-  ⚠ Singapore 5d — guard found 1 hours/price + 9 rain-leak issue(s) on first pass; retrying once
+  ⚠ Singapore 5d — guard found 1 hours/price + 12 rain-leak issue(s) on first pass; retrying once
   ⚠ Singapore 5d — dropping rain-swap for day 4 (venue name leaked into written prose after retry)
   ⚠ Singapore 5d — dropping rain-swap for day 5 (venue name leaked into written prose after retry)
-  ⚠ Singapore 5d — validator found 1 prose-fixable issue(s); correcting once
-VALIDATE-FAILED singapore-5-days.md — 2 issue(s):
-  • AREA-CLAIM-UNSUPPORTED: singapore-5-days.md — day 1 names "Bay Gardens" but no stop of that day attests it
-  • AREA-CLAIM-UNSUPPORTED: singapore-5-days.md — day 4 names "Side Beaches" but no stop of that day attests it
+  ✅ Singapore 5d — updated
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
