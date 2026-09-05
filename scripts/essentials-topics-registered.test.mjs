@@ -17,6 +17,7 @@ const slugs = readdirSync(new URL('src/content/essentials-topics/', ROOT))
 const index = read('src/components/EssentialsIndex.astro');
 const llms = read('src/pages/llms.txt.ts');
 const ui = read('src/i18n/ui.ts');
+const icons = JSON.parse(read('src/data/icons-line.json')).icons;
 const LANGS = 5; // en, ko, ja, es, zh
 
 test('every essentials topic has content, both routes, a card, an llms.txt line and ui strings', () => {
@@ -34,6 +35,14 @@ test('every essentials topic has content, both routes, a card, an llms.txt line 
       const defined = ui.split(`'${key}':`).length - 1;
       assert.equal(defined, LANGS, `${key} is defined ${defined}× in ui.ts, expected ${LANGS}`);
     }
+
+    const iconMatch = row.match(/icon:\s*'([A-Za-z0-9-]+)'/);
+    assert.ok(iconMatch, `${slug}: card row has no icon: '...' field`);
+    const iconName = iconMatch[1];
+    assert.ok(
+      Object.prototype.hasOwnProperty.call(icons, iconName),
+      `${slug}: icon '${iconName}' is not defined in src/data/icons-line.json`
+    );
   }
 });
 

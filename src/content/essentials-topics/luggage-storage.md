@@ -3,7 +3,7 @@ icon: luggage
 metaTitle: "Luggage Storage: Lockers, Bag Drops & Where to Leave Bags"
 metaDescription: "Station coin lockers, app-based bag drops, airport counters and hotel storage — how to leave your bags for a few hours or a few days, with a guide for each destination."
 h1: "Luggage storage"
-dek: "Where to leave your bags between check-out and your train."
+dek: "Station lockers, bag-drop apps, airport counters."
 quickAnswer: "Three options cover almost every trip: coin lockers at major stations, a shop or hotel that holds bags through an app-based network, and staffed counters at big airports. Your hotel will also usually hold bags on your arrival and departure days at no charge. Sizes, prices and how you pay differ by country — see your destination's guide below."
 countryHeading: "Luggage storage, by country"
 breadcrumbName: "Luggage storage"
