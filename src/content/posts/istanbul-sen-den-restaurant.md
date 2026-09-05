@@ -1,34 +1,40 @@
 ---
 title: Sen'den Restaurant in Istanbul
-description: Sen'den is a newly opened restaurant in Karaköy, set inside the restored 19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a modern, refined dining concept.
+description: >-
+  Sen'den is a newly opened restaurant in Karaköy, set inside the restored
+  19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a
+  modern, refined dining concept.
 country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12280196_BfuB_jL5K1FVV_WTOVWYrGbpPntLoo6WBGh_v-4w8bU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/12280196_BfuB_jL5K1FVV_WTOVWYrGbpPntLoo6WBGh_v-4w8bU.jpg
   credit: 'Photo: Foursquare user content (Sen_Den)'
   license: foursquare
-  source: https://foursquare.com/v/69b5990c7b82a275fd45c135
+  source: 'https://foursquare.com/v/69b5990c7b82a275fd45c135'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/12280196_az9HZ0eBt69XQFbohsnbMGaZJw19eQHNIGKWkJHAQe0.jpg"
-    credit: "Photo: Foursquare user content (Sen_Den)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/69b5990c7b82a275fd45c135"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/12280196_az9HZ0eBt69XQFbohsnbMGaZJw19eQHNIGKWkJHAQe0.jpg
+    credit: 'Photo: Foursquare user content (Sen_Den)'
+    license: foursquare
+    source: 'https://foursquare.com/v/69b5990c7b82a275fd45c135'
 place:
   id: ChIJV_TZUF65yhQR6CKNYH2RyBY
   name: sen‘den
-  address: Kemankeş Karamustafa Paşa, Kemankeş Cd. 45A, 34425 Beyoğlu/İstanbul, Türkiye
+  address: 'Kemankeş Karamustafa Paşa, Kemankeş Cd. 45A, 34425 Beyoğlu/İstanbul, Türkiye'
   rating: 4.4
-  userRatingsTotal: 66
-  googleMapsUrl: https://maps.google.com/?cid=1641722031853347560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 81
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1641722031853347560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.023889499999996
   lng: 28.978874400000002
-  phone: '+90 212 293 20 20'
+  phone: +90 212 293 20 20
   openingHours:
     - 'Monday: 4:00 PM – 12:00 AM'
     - 'Tuesday: 4:00 PM – 12:00 AM'
@@ -37,23 +43,47 @@ place:
     - 'Friday: 4:00 PM – 1:00 AM'
     - 'Saturday: 4:00 PM – 1:00 AM'
     - 'Sunday: Closed'
+  priceLevel: 4
 tags:
   - istanbul
   - new & trending
-quickAnswer: Sen'den is a newly opened restaurant in Karaköy, set inside the restored 19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a modern, refined dining concept. It's best visited in the evening as part of a Karaköy night out, alongside the neighborhood's galleries, bars, and Bosphorus-front cafés. Because it's a 2026 opening, confirm current hours, menu, and reservation policy directly with the restaurant before heading over.
+quickAnswer: >-
+  Sen'den is a newly opened restaurant in Karaköy, set inside the restored
+  19th-century Hovagimyan Han, pairing historic Ottoman-era architecture with a
+  modern, refined dining concept. It's best visited in the evening as part of a
+  Karaköy night out, alongside the neighborhood's galleries, bars, and
+  Bosphorus-front cafés. Because it's a 2026 opening, confirm current hours,
+  menu, and reservation policy directly with the restaurant before heading over.
 faq:
   - q: How do I get to Sen'den in Karaköy?
-    a: Take the T1 tram to the Karaköy stop, or use the Tünel funicular from İstiklal Avenue/Beyoğlu, which drops you within a short walk. Karaköy's ferry docks are also nearby if you're coming from Kadıköy or Üsküdar.
+    a: >-
+      Take the T1 tram to the Karaköy stop, or use the Tünel funicular from
+      İstiklal Avenue/Beyoğlu, which drops you within a short walk. Karaköy's
+      ferry docks are also nearby if you're coming from Kadıköy or Üsküdar.
   - q: Do I need a reservation?
-    a: As a newly opened, buzzed-about restaurant, booking ahead is strongly recommended. Contact the restaurant directly to confirm reservation policy, since walk-in availability may be limited.
+    a: >-
+      As a newly opened, buzzed-about restaurant, booking ahead is strongly
+      recommended. Contact the restaurant directly to confirm reservation
+      policy, since walk-in availability may be limited.
   - q: What makes this restaurant different from other Karaköy spots?
-    a: It's set inside the restored 19th-century Hovagimyan Han, an Ottoman-era commercial building, giving it historic architectural character combined with a modern, refined dining concept rather than a purely contemporary interior.
+    a: >-
+      It's set inside the restored 19th-century Hovagimyan Han, an Ottoman-era
+      commercial building, giving it historic architectural character combined
+      with a modern, refined dining concept rather than a purely contemporary
+      interior.
   - q: What should I check before visiting?
-    a: Since it opened in 2026, confirm current hours, menu, and price range directly with the restaurant, as these details can change or weren't fully established at publication.
+    a: >-
+      Since it opened in 2026, confirm current hours, menu, and price range
+      directly with the restaurant, as these details can change or weren't fully
+      established at publication.
   - q: What else can I do nearby?
-    a: Istanbul Modern museum, the Galata Tower, specialty coffee shops, and Karaköy Güllüoğlu (a renowned baklava shop) are all within easy walking distance, making it easy to build a full evening around dinner.
+    a: >-
+      Istanbul Modern museum, the Galata Tower, specialty coffee shops, and
+      Karaköy Güllüoğlu (a renowned baklava shop) are all within easy walking
+      distance, making it easy to build a full evening around dinner.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 ## Why Sen'den Stands Out

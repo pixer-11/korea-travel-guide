@@ -1,44 +1,52 @@
 ---
-title: "Istanbul Archaeological Museums: Travel Guide (4.6★)"
-description: "The Istanbul Archaeological Museums sit in Cankurtaran, tucked into the outer gardens of Topkapı Palace in Fatih, and are open daily from 9am to 9pm. 4.6★ (21,307 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Istanbul"
-category: "attraction"
-pubDate: "2026-08-28T19:32:55.742Z"
+title: 'Istanbul Archaeological Museums: Travel Guide (4.6★)'
+description: >-
+  The Istanbul Archaeological Museums sit in Cankurtaran, tucked into the outer
+  gardens of Topkapı Palace in Fatih, and are open daily from 9am to 9pm. 4.6★
+  (21,376 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Istanbul
+category: attraction
+pubDate: '2026-08-28T19:32:55.742Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1920px-Istanbularcheology.jpg"
-  credit: "Photo: Metuboy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Istanbularcheology.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1920px-Istanbularcheology.jpg
+  credit: 'Photo: Metuboy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbularcheology.jpg'
   focus:
     x: 47
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/583694695_h6QfPMHn0Y9k86__hBDG86ypg1IN3U4PgwhDNEoxDcU.jpg"
-    credit: "Photo: Foursquare user content (İstanbul Archaeological Museums (İstanbul Arkeoloji Müzeleri))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4c0b5171009a0f47f7feeabf"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/583694695_h6QfPMHn0Y9k86__hBDG86ypg1IN3U4PgwhDNEoxDcU.jpg
+    credit: >-
+      Photo: Foursquare user content (İstanbul Archaeological Museums (İstanbul
+      Arkeoloji Müzeleri))
+    license: foursquare
+    source: 'https://foursquare.com/v/4c0b5171009a0f47f7feeabf'
 place:
-  id: "ChIJQbdCWr-5yhQRKTjvSx6RF7M"
-  name: "Istanbul Archaeological Museums"
-  address: "Cankurtaran, 34122 Fatih/İstanbul, Türkiye"
+  id: ChIJQbdCWr-5yhQRKTjvSx6RF7M
+  name: Istanbul Archaeological Museums
+  address: 'Cankurtaran, 34122 Fatih/İstanbul, Türkiye'
   rating: 4.6
-  userRatingsTotal: 21307
-  googleMapsUrl: "https://maps.google.com/?cid=12904942816562460713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21376
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12904942816562460713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.0116855
   lng: 28.9813305
-  phone: "+90 212 520 77 40"
+  phone: +90 212 520 77 40
   openingHours:
-    - "Monday: 9:00 AM – 9:00 PM"
-    - "Tuesday: 9:00 AM – 9:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 9:00 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 18
@@ -59,24 +67,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4d374652367853766a544b52516879352d7257436462514a496843"
+    venueId: ven_4d374652367853766a544b52516879352d7257436462514a496843
 tags:
-  - "istanbul"
-  - "museum"
-quickAnswer: "The Istanbul Archaeological Museums sit in Cankurtaran, tucked into the outer gardens of Topkapı Palace in Fatih, and are open daily from 9am to 9pm. Weekends get packed between 12pm and 6pm, so aim for a weekday morning or early evening instead. Budget two to three hours for the three buildings and the sarcophagus halls, especially the Alexander Sarcophagus."
+  - istanbul
+  - museum
+quickAnswer: >-
+  The Istanbul Archaeological Museums sit in Cankurtaran, tucked into the outer
+  gardens of Topkapı Palace in Fatih, and are open daily from 9am to 9pm.
+  Weekends get packed between 12pm and 6pm, so aim for a weekday morning or
+  early evening instead. Budget two to three hours for the three buildings and
+  the sarcophagus halls, especially the Alexander Sarcophagus.
 faq:
-  - q: "How do I get to the Istanbul Archaeological Museums?"
-    a: "They're in Cankurtaran, Fatih, just inside the outer gardens below Topkapı Palace. The closest tram stop is Gülhane on the T1 line, about a 5-10 minute walk through Gülhane Park."
-  - q: "How much time should I plan for a visit?"
-    a: "Two to three hours covers the main building, the Tiled Kiosk, and the Ancient Orient Museum. If you're short on time, prioritize the main building's Alexander Sarcophagus hall."
-  - q: "When is the quietest time to visit?"
-    a: "The museum is calmer on weekdays and in the early morning or evening; weekends between 12pm and 6pm see the heaviest crowds, so avoid that window if you can."
-  - q: "Is it worth combining with Topkapı Palace?"
-    a: "Yes, they're a few minutes apart and pair naturally into a half-day loop with Gülhane Park. Many visitors do the palace first, then the museums as a quieter follow-up."
-  - q: "Do I need to buy tickets in advance?"
-    a: "It's not usually necessary given the museum's size relative to crowds, but buying through official channels like e-Devlet or the on-site counter avoids inflated prices from street sellers nearby."
+  - q: How do I get to the Istanbul Archaeological Museums?
+    a: >-
+      They're in Cankurtaran, Fatih, just inside the outer gardens below Topkapı
+      Palace. The closest tram stop is Gülhane on the T1 line, about a 5-10
+      minute walk through Gülhane Park.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Two to three hours covers the main building, the Tiled Kiosk, and the
+      Ancient Orient Museum. If you're short on time, prioritize the main
+      building's Alexander Sarcophagus hall.
+  - q: When is the quietest time to visit?
+    a: >-
+      The museum is calmer on weekdays and in the early morning or evening;
+      weekends between 12pm and 6pm see the heaviest crowds, so avoid that
+      window if you can.
+  - q: Is it worth combining with Topkapı Palace?
+    a: >-
+      Yes, they're a few minutes apart and pair naturally into a half-day loop
+      with Gülhane Park. Many visitors do the palace first, then the museums as
+      a quieter follow-up.
+  - q: Do I need to buy tickets in advance?
+    a: >-
+      It's not usually necessary given the museum's size relative to crowds, but
+      buying through official channels like e-Devlet or the on-site counter
+      avoids inflated prices from street sellers nearby.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jakarta-national-museum-of-indonesia
-srcHash: '97e2386b0416'
+srcHash: '18880c68a0f8'
 title: 'Museo Nacional de Indonesia: guía de viaje de Yakarta (4,7★)'
-description: Conocido popularmente como Museo Gajah ("Museo del Elefante") por la estatua de bronce que preside su entrada, el Museo Nacional de Indonesia se encuentra en Jl. Medan Merdeka Barat, en Gambir, Yakarta Centro, frente a la plaza Merdeka. Con 4,7★ (20.705 reseñas), esta guía reúne opiniones de visitantes, horarios y consejos prácticos.
+description: Conocido popularmente como Museo Gajah ("Museo del Elefante") por la estatua de bronce que preside su entrada, el Museo Nacional de Indonesia se encuentra en Jl. Medan Merdeka Barat, en Gambir, Yakarta Centro, frente a la plaza Merdeka. Con 4,7★ (20.753 reseñas), esta guía reúne opiniones de visitantes, horarios y consejos prácticos.
 quickAnswer: Conocido popularmente como Museo Gajah ("Museo del Elefante") por la estatua de bronce que preside su entrada, el Museo Nacional de Indonesia se encuentra en Jl. Medan Merdeka Barat, en Gambir, Yakarta Centro, frente a la plaza Merdeka. Permanece cerrado los lunes; el resto de la semana abre a las 8h, y el momento más tranquilo los fines de semana es entre las 8h y las 9h, antes de que lleguen las multitudes. Conviene reservar entre dos y tres horas para recorrer con calma las salas de cerámica, bronce y el Tesoro.
 faq:
   - q: ¿Cuál es el horario del Museo Nacional de Indonesia?

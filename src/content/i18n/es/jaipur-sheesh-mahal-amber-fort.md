@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jaipur-sheesh-mahal-amber-fort
-srcHash: '11863a9d58af'
+srcHash: 'afa9acd7a9b1'
 title: 'Sheesh Mahal, Fuerte Amber: Guía de viaje de Jaipur (4,6★)'
-description: 'El Sheesh Mahal se encuentra dentro de los aposentos reales privados del Fuerte Amber, abierto todos los días de 8:00 a 17:30. 4,6★ (6.271 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Sheesh Mahal se encuentra dentro de los aposentos reales privados del Fuerte Amber, abierto todos los días de 8:00 a 17:30. 4,6★ (6.300 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Sheesh Mahal se encuentra dentro de los aposentos reales privados del Fuerte Amber, abierto todos los días de 8:00 a 17:30. Para evitar las multitudes de autobuses turísticos que lo inundan a media mañana, conviene ir justo a la apertura o después de las 15:30, y conviene llevar una linterna pequeña o usar la del teléfono para apreciar bien el brillo del mosaico de espejos.
 faq:
   - q: ¿Cuál es el horario de apertura del Sheesh Mahal en el Fuerte Amber?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: johor-bahru-legoland-malaysia
-srcHash: 'dac3d2c28035'
+srcHash: '93c1e106a782'
 title: 'LEGOLAND Malaysia: guía de viaje a Johor Bahru (4.4★)'
-description: 'LEGOLAND Malaysia, en Iskandar Puteri (Johor Bahru), abre de 10:00 a 18:00 todos los días excepto los miércoles. Valoración de 4.4★ (28.762 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'LEGOLAND Malaysia, en Iskandar Puteri (Johor Bahru), abre de 10:00 a 18:00 todos los días excepto los miércoles. Valoración de 4.4★ (28.790 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: LEGOLAND Malaysia, en Iskandar Puteri (Johor Bahru), abre de 10:00 a 18:00 todos los días excepto los miércoles. Conviene reservarle un día completo (6-7 horas) para recorrer el parque temático, el Water Park y el acuario Sea Life, y llegar justo a la apertura para adelantarse a las multitudes de las vacaciones escolares. Está a unos 30-40 minutos en coche desde los pasos fronterizos de Woodlands o Johor Bahru.
 faq:
   - q: ¿Cuál es el horario de LEGOLAND Malaysia?

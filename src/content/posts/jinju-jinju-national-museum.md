@@ -1,27 +1,33 @@
 ---
 title: 'Jinju National Museum: Travel Guide'
-description: Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the Namgang River, and is the best place in Korea to understand the brutal 1592–93 Imjin War sieges of Jinju.
+description: >-
+  Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the
+  Namgang River, and is the best place in Korea to understand the brutal 1592–93
+  Imjin War sieges of Jinju.
 country: South Korea
 region: Jinju
 category: attraction
 pubDate: '2026-07-27T11:02:16.041Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg
   credit: 'Photo: kangbyeongkee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Jinju_National_Museum.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:The_Jinju_National_Museum.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/66774434_lNLlQfTif5R-LIfBn2XUHeXWNoMQqB_6UTHI7kzPU4U.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/66774434_lNLlQfTif5R-LIfBn2XUHeXWNoMQqB_6UTHI7kzPU4U.jpg
     credit: 'Photo: Foursquare user content (Jinju National Museum (국립진주박물관))'
     license: foursquare
-    source: https://foursquare.com/v/4c55402c06901b8d848c254d
+    source: 'https://foursquare.com/v/4c55402c06901b8d848c254d'
 place:
   id: ChIJyVTgBRH8bjURWf4_s1eOxZg
   name: Jinju National Museum
-  address: 626-35 Namgang-ro, Jinju, Gyeongsangnam-do, South Korea
+  address: '626-35 Namgang-ro, Jinju, Gyeongsangnam-do, South Korea'
   rating: 4.7
-  userRatingsTotal: 1266
-  googleMapsUrl: https://maps.google.com/?cid=11008361371497659993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1273
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11008361371497659993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.18890040000001
   lng: 128.0769396
@@ -37,20 +43,39 @@ place:
 tags:
   - jinju
   - top attraction
-quickAnswer: Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the Namgang River, and is the best place in Korea to understand the brutal 1592–93 Imjin War sieges of Jinju. Give it 90 minutes to two hours, combine it with a walk around the fortress walls and Chokseongnu Pavilion, and go on a weekday morning if you want the galleries to yourself.
+quickAnswer: >-
+  Jinju National Museum sits inside Jinjuseong (Jinju Fortress), right on the
+  Namgang River, and is the best place in Korea to understand the brutal 1592–93
+  Imjin War sieges of Jinju. Give it 90 minutes to two hours, combine it with a
+  walk around the fortress walls and Chokseongnu Pavilion, and go on a weekday
+  morning if you want the galleries to yourself.
 faq:
   - q: How do I get to Jinju National Museum without a car?
-    a: Take a bus or train to Jinju Station, then a 10–15 minute taxi or local city bus to Jinjuseong (Jinju Fortress); the museum is inside the fortress grounds. It's also a scenic 20-minute riverside walk from downtown Jinju.
+    a: >-
+      Take a bus or train to Jinju Station, then a 10–15 minute taxi or local
+      city bus to Jinjuseong (Jinju Fortress); the museum is inside the fortress
+      grounds. It's also a scenic 20-minute riverside walk from downtown Jinju.
   - q: How much time should I plan for the visit?
-    a: Around 90 minutes for a normal visit, up to two hours if you read the Imjin War exhibits closely and check the special exhibition hall.
+    a: >-
+      Around 90 minutes for a normal visit, up to two hours if you read the
+      Imjin War exhibits closely and check the special exhibition hall.
   - q: What's the best time of day to avoid crowds?
-    a: Weekday mornings are calmest; the museum sees more visitors from weekend day-trippers and school groups later in the day.
+    a: >-
+      Weekday mornings are calmest; the museum sees more visitors from weekend
+      day-trippers and school groups later in the day.
   - q: Is there an entrance fee?
-    a: As a national museum it has historically had free or minimal admission, but confirm current hours and fees on the day, since these can change.
+    a: >-
+      As a national museum it has historically had free or minimal admission,
+      but confirm current hours and fees on the day, since these can change.
   - q: What else is nearby worth combining with the visit?
-    a: Walk the Jinjuseong fortress walls along the Namgang River and visit Chokseongnu Pavilion right next to the museum; if you're there in early October, the Jinju Namgang Lantern Festival lights up the riverbank at night.
+    a: >-
+      Walk the Jinjuseong fortress walls along the Namgang River and visit
+      Chokseongnu Pavilion right next to the museum; if you're there in early
+      October, the Jinju Namgang Lantern Festival lights up the riverbank at
+      night.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

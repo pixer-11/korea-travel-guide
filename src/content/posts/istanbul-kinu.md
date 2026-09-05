@@ -1,25 +1,29 @@
 ---
 title: kinu in Istanbul
-description: 'kinu in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  kinu in Istanbul, Turkey — a new/trending spot: what it is, where it is, and
+  how to visit.
 country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg
   credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
   license: foursquare
-  source: https://foursquare.com/v/69174a2bb0526a28831c6067
+  source: 'https://foursquare.com/v/69174a2bb0526a28831c6067'
   focus:
     x: 25
-    y: 60
+    'y': 60
 place:
   id: ChIJK8B_Fia3yhQRmySyReiPzP4
   name: kinu matcha bar
   address: 'Kuloğlu, Faik Paşa Cd. No: 29/A, 34433 Beyoğlu/İstanbul, Türkiye'
   rating: 4.8
-  userRatingsTotal: 100
-  googleMapsUrl: https://maps.google.com/?cid=18360208008647156891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 127
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18360208008647156891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.0324509
   lng: 28.9809127
@@ -31,23 +35,47 @@ place:
     - 'Friday: 9:00 AM – 10:00 PM'
     - 'Saturday: 9:00 AM – 10:00 PM'
     - 'Sunday: 9:00 AM – 10:00 PM'
+  priceLevel: 2
 tags:
   - istanbul
   - new & trending
-quickAnswer: kinu is a minimalist matcha bar in Beyoğlu, Istanbul, opened in 2026 by local arts and lifestyle platform Illusory Superiority, and it's quickly become one of the city's buzziest spots for matcha aficionados. Go on a weekday morning or early afternoon to avoid the peak crowd, and confirm current hours and whether reservations are needed before heading over, since details at new openings shift fast.
+quickAnswer: >-
+  kinu is a minimalist matcha bar in Beyoğlu, Istanbul, opened in 2026 by local
+  arts and lifestyle platform Illusory Superiority, and it's quickly become one
+  of the city's buzziest spots for matcha aficionados. Go on a weekday morning
+  or early afternoon to avoid the peak crowd, and confirm current hours and
+  whether reservations are needed before heading over, since details at new
+  openings shift fast.
 faq:
   - q: Where exactly is kinu located?
-    a: It's in Beyoğlu, Istanbul's central arts and nightlife district, within walking distance of İstiklal Avenue — easily reached from Taksim Square via the M2 metro line.
+    a: >-
+      It's in Beyoğlu, Istanbul's central arts and nightlife district, within
+      walking distance of İstiklal Avenue — easily reached from Taksim Square
+      via the M2 metro line.
   - q: What makes kinu different from a regular Istanbul café?
-    a: It's a dedicated matcha bar rather than a general café, with a Japanese-minimalist interior of stainless steel, timber, and concrete, built by lifestyle platform Illusory Superiority specifically around matcha culture.
+    a: >-
+      It's a dedicated matcha bar rather than a general café, with a
+      Japanese-minimalist interior of stainless steel, timber, and concrete,
+      built by lifestyle platform Illusory Superiority specifically around
+      matcha culture.
   - q: Do I need a reservation?
-    a: This isn't confirmed publicly yet since kinu is a recent opening — check their current social media or call ahead to confirm whether they take reservations or operate walk-in only.
+    a: >-
+      This isn't confirmed publicly yet since kinu is a recent opening — check
+      their current social media or call ahead to confirm whether they take
+      reservations or operate walk-in only.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings or early afternoons are typically calmer than late afternoon and evening, when Beyoğlu's café crowd peaks.
-  - q: How much should I budget, and what's on the menu?
-    a: Exact prices and menu items aren't fixed public information yet for this newly opened spot — expect matcha-focused drinks and likely light bites, and confirm current offerings and pricing on site or through kinu's official channels before visiting.
+    a: >-
+      Weekday mornings or early afternoons are typically calmer than late
+      afternoon and evening, when Beyoğlu's café crowd peaks.
+  - q: 'How much should I budget, and what''s on the menu?'
+    a: >-
+      Exact prices and menu items aren't fixed public information yet for this
+      newly opened spot — expect matcha-focused drinks and likely light bites,
+      and confirm current offerings and pricing on site or through kinu's
+      official channels before visiting.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 ## Why kinu matters right now

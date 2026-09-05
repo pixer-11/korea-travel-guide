@@ -1,27 +1,34 @@
 ---
 title: 'Yongyeon Suspension Bridge: Jeju Travel Guide'
-description: Yongyeon Suspension Bridge is a small red arched footbridge over a narrow, cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after dark when the bridge, pavilion, and cliff walls are lit up and reflected in the still water.
+description: >-
+  Yongyeon Suspension Bridge is a small red arched footbridge over a narrow,
+  cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after
+  dark when the bridge, pavilion, and cliff walls are lit up and reflected in
+  the still water.
 country: South Korea
 region: Jeju
 category: hidden-gem
 pubDate: '2026-07-24T22:24:56.647Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/38563289_v2eGBmdWJqX8tGiAxVIGnh27OceWyeiQGWadO-KF5vE.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/38563289_v2eGBmdWJqX8tGiAxVIGnh27OceWyeiQGWadO-KF5vE.jpg
   credit: 'Photo: Foursquare user content (Yongyeon Cloud Bridge (용연구름다리))'
   license: foursquare
-  source: https://foursquare.com/v/4be53edd910020a14ec0d214
+  source: 'https://foursquare.com/v/4be53edd910020a14ec0d214'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/26056341_RB4HbUJzwGkuyELQAQ5b7jnqhvcwybf3ZX93i9xoKrA.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/26056341_RB4HbUJzwGkuyELQAQ5b7jnqhvcwybf3ZX93i9xoKrA.jpg
     credit: 'Photo: Foursquare user content (Yongyeon Cloud Bridge (용연구름다리))'
     license: foursquare
-    source: https://foursquare.com/v/4be53edd910020a14ec0d214
+    source: 'https://foursquare.com/v/4be53edd910020a14ec0d214'
 place:
   id: ChIJTamoBq3kDDURccGJpkrWKZQ
   name: Yongyeon Suspension Bridge
-  address: Yongdam 2(i)-dong, Jeju-si, Jeju-do, South Korea
+  address: 'Yongdam 2(i)-dong, Jeju-si, Jeju-do, South Korea'
   rating: 4.2
-  userRatingsTotal: 2667
-  googleMapsUrl: https://maps.google.com/?cid=10676300007768441201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2682
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10676300007768441201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 33.514886499999996
   lng: 126.51436840000001
@@ -36,19 +43,40 @@ place:
 tags:
   - jeju
   - hidden gem
-quickAnswer: Yongyeon Suspension Bridge is a small red arched footbridge over a narrow, cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after dark when the bridge, pavilion, and cliff walls are lit up and reflected in the still water. Budget 20–30 minutes, pair it with nearby Yongduam Rock (a 10-minute walk) and Dragon Head Coastal Road, and go on foot rather than by car since parking nearby is limited.
+quickAnswer: >-
+  Yongyeon Suspension Bridge is a small red arched footbridge over a narrow,
+  cliff-lined inlet in Yongdam-dong, Jeju City — best visited at dusk or after
+  dark when the bridge, pavilion, and cliff walls are lit up and reflected in
+  the still water. Budget 20–30 minutes, pair it with nearby Yongduam Rock (a
+  10-minute walk) and Dragon Head Coastal Road, and go on foot rather than by
+  car since parking nearby is limited.
 faq:
   - q: How do I get to Yongyeon Suspension Bridge from Jeju Airport?
-    a: It's about a 10–15 minute taxi ride from Jeju International Airport, or a similar drive/bus ride if arriving from downtown Jeju City. Tell your driver "Yongyeon" (용연) to avoid confusion with the nearby Yongduam Rock.
+    a: >-
+      It's about a 10–15 minute taxi ride from Jeju International Airport, or a
+      similar drive/bus ride if arriving from downtown Jeju City. Tell your
+      driver "Yongyeon" (용연) to avoid confusion with the nearby Yongduam Rock.
   - q: Is there an entrance fee?
-    a: No, the bridge and viewing platforms are free and open to the public with no ticket booth, though you should confirm current access hours locally since they can change seasonally.
+    a: >-
+      No, the bridge and viewing platforms are free and open to the public with
+      no ticket booth, though you should confirm current access hours locally
+      since they can change seasonally.
   - q: How much time should I plan for a visit?
-    a: 20–30 minutes is enough for the bridge and pavilion; add another 20–30 minutes if you walk the coastal path to Yongduam Rock as well.
+    a: >-
+      20–30 minutes is enough for the bridge and pavilion; add another 20–30
+      minutes if you walk the coastal path to Yongduam Rock as well.
   - q: What's the best time of day to visit?
-    a: Sunset into early evening, when the bridge and pavilion are lit up and reflected in the calm inlet water — this is also when crowds from daytime tours have thinned out.
+    a: >-
+      Sunset into early evening, when the bridge and pavilion are lit up and
+      reflected in the calm inlet water — this is also when crowds from daytime
+      tours have thinned out.
   - q: What else is nearby?
-    a: Yongduam (Dragon Head) Rock is a 10-minute walk along the coast, and central Jeju City with Dongmun Market and Chilsipni Food Street is about a 10–15 minute drive.
+    a: >-
+      Yongduam (Dragon Head) Rock is a 10-minute walk along the coast, and
+      central Jeju City with Dongmun Market and Chilsipni Food Street is about a
+      10–15 minute drive.
 aiGenerated: true
+updatedDate: '2026-09-05'
 ---
 
 ## Why go

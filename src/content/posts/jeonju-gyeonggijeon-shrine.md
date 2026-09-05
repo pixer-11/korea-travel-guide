@@ -1,27 +1,34 @@
 ---
 title: 'Gyeonggijeon Shrine: Jeonju Travel Guide (4.3★)'
-description: Gyeonggijeon Shrine sits right in the heart of Jeonju Hanok Village, open daily 9am–6pm, and holds the portrait hall built in 1410 to honor Joseon Dynasty founder King Taejo. 4.3★ (2,013 reviews) — what visitors say, hours, and tips.
+description: >-
+  Gyeonggijeon Shrine sits right in the heart of Jeonju Hanok Village, open
+  daily 9am–6pm, and holds the portrait hall built in 1410 to honor Joseon
+  Dynasty founder King Taejo. 4.3★ (2,020 reviews) — what visitors say, hours,
+  and tips.
 country: South Korea
 region: Jeonju
 category: hidden-gem
 pubDate: '2026-08-09T08:35:55.713Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gyeonggijeon_Shrine_05.jpg/1920px-Gyeonggijeon_Shrine_05.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gyeonggijeon_Shrine_05.jpg/1920px-Gyeonggijeon_Shrine_05.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_05.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_05.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gyeonggijeon_Shrine_04.jpg/3840px-Gyeonggijeon_Shrine_04.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gyeonggijeon_Shrine_04.jpg/3840px-Gyeonggijeon_Shrine_04.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_04.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_04.jpg'
 place:
   id: ChIJ5WryHGAjcDURMUsEZ8rflR8
   name: Gyeonggijeon Shrine
-  address: 44 Taejo-ro, Wansan-gu, Jeonju, Jeonbuk State, South Korea
+  address: '44 Taejo-ro, Wansan-gu, Jeonju, Jeonbuk State, South Korea'
   rating: 4.3
-  userRatingsTotal: 2013
-  googleMapsUrl: https://maps.google.com/?cid=2275971247110376241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2020
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2275971247110376241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.8153492
   lng: 127.14979380000001
@@ -52,20 +59,38 @@ place:
 tags:
   - jeonju
   - old quarter
-quickAnswer: Gyeonggijeon Shrine sits right in the heart of Jeonju Hanok Village, open daily 9am–6pm, and holds the portrait hall built in 1410 to honor Joseon Dynasty founder King Taejo. Weekdays are noticeably calmer than weekends, when crowds build steadily from 11am onward. Give it 45 minutes to an hour, and pair it with a walk through the surrounding hanok streets in hanbok rental.
+quickAnswer: >-
+  Gyeonggijeon Shrine sits right in the heart of Jeonju Hanok Village, open
+  daily 9am–6pm, and holds the portrait hall built in 1410 to honor Joseon
+  Dynasty founder King Taejo. Weekdays are noticeably calmer than weekends, when
+  crowds build steadily from 11am onward. Give it 45 minutes to an hour, and
+  pair it with a walk through the surrounding hanok streets in hanbok rental.
 faq:
   - q: How much time should I plan for Gyeonggijeon Shrine?
-    a: About 45 minutes to an hour is enough to see the main hall, portrait exhibit, and side courtyards without rushing.
+    a: >-
+      About 45 minutes to an hour is enough to see the main hall, portrait
+      exhibit, and side courtyards without rushing.
   - q: When is the quietest time to visit?
-    a: Weekdays between 9am and 6pm stay calm throughout the day. Weekends get busy from 11am onward, so arrive right at opening if you're going on a Saturday or Sunday.
+    a: >-
+      Weekdays between 9am and 6pm stay calm throughout the day. Weekends get
+      busy from 11am onward, so arrive right at opening if you're going on a
+      Saturday or Sunday.
   - q: How do I get to Gyeonggijeon Shrine?
-    a: It's a five-minute walk from the main entrance of Jeonju Hanok Village, near Pungnammun Gate. From Jeonju Station, a taxi takes roughly 15 minutes.
+    a: >-
+      It's a five-minute walk from the main entrance of Jeonju Hanok Village,
+      near Pungnammun Gate. From Jeonju Station, a taxi takes roughly 15
+      minutes.
   - q: Is Gyeonggijeon Shrine open every day?
-    a: Yes, it's open daily from 9:00 AM to 6:00 PM with no weekday closures, though it's worth confirming hours before a special-holiday visit.
+    a: >-
+      Yes, it's open daily from 9:00 AM to 6:00 PM with no weekday closures,
+      though it's worth confirming hours before a special-holiday visit.
   - q: What's nearby worth combining with a visit?
-    a: Jeondong Catholic Church and the hanok village's food and craft streets are both within walking distance, making it easy to build a half-day loop.
+    a: >-
+      Jeondong Catholic Church and the hanok village's food and craft streets
+      are both within walking distance, making it easy to build a half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

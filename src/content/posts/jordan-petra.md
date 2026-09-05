@@ -1,52 +1,78 @@
 ---
-title: "Petra: Jordan Travel Guide (4.8★)"
-description: "Petra, Jordan's ancient rock-carved city, is the country's must-see historical site — expect a full day, sturdy shoes, and crowds around the Treasury by mid-morning. 4.8★ (45,867 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "attraction"
-pubDate: "2026-08-26T08:10:23.323Z"
+title: 'Petra: Jordan Travel Guide (4.8★)'
+description: >-
+  Petra, Jordan's ancient rock-carved city, is the country's must-see historical
+  site — expect a full day, sturdy shoes, and crowds around the Treasury by
+  mid-morning. 4.8★ (45,867 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: attraction
+pubDate: '2026-08-26T08:10:23.323Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/1920px-Al_Deir_Petra.JPG"
-  credit: "Photo: Azurfrog / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/1920px-Al_Deir_Petra.JPG
+  credit: 'Photo: Azurfrog / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Petra_Jordan_BW_0.jpg/3840px-Petra_Jordan_BW_0.jpg"
-    credit: "Photo: Berthold Werner / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_0.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Petra_Jordan_BW_0.jpg/3840px-Petra_Jordan_BW_0.jpg
+    credit: 'Photo: Berthold Werner / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_0.jpg'
 place:
-  id: "ChIJcWA7cPFuARURkSKaZwj5mxk"
-  name: "Petra"
-  address: "Jordan"
+  id: ChIJcWA7cPFuARURkSKaZwj5mxk
+  name: Petra
+  address: Jordan
   rating: 4.8
-  userRatingsTotal: 45867
-  googleMapsUrl: "https://maps.google.com/?cid=1845342286831559313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 45898
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1845342286831559313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.328454400000002
   lng: 35.4443622
-  phone: "+962 3 215 6044"
+  phone: +962 3 215 6044
 tags:
-  - "jordan"
-  - "historic site"
-quickAnswer: "Petra, Jordan's ancient rock-carved city, is the country's must-see historical site — expect a full day, sturdy shoes, and crowds around the Treasury by mid-morning. Go at opening or in late afternoon for softer light and thinner crowds, and budget at least four to six hours to reach the Monastery. Entry is through the Siq gorge from Wadi Musa, the nearby town."
+  - jordan
+  - historic site
+quickAnswer: >-
+  Petra, Jordan's ancient rock-carved city, is the country's must-see historical
+  site — expect a full day, sturdy shoes, and crowds around the Treasury by
+  mid-morning. Go at opening or in late afternoon for softer light and thinner
+  crowds, and budget at least four to six hours to reach the Monastery. Entry is
+  through the Siq gorge from Wadi Musa, the nearby town.
 faq:
-  - q: "How long does it take to visit Petra?"
-    a: "Budget a full day for a proper visit — around 6-8 hours if you plan to climb to the Monastery, or half a day (3-4 hours) if you're only seeing the Treasury and main street."
-  - q: "What's the best time of day to avoid crowds at Petra?"
-    a: "Arrive right at opening or come in the last two hours before closing. Mid-morning through early afternoon is when tour buses and cruise groups fill the Siq and Treasury area."
-  - q: "How do I get to Petra from Amman?"
-    a: "It's roughly a three-hour drive south from Amman to Wadi Musa, the town at Petra's entrance. Most visitors stay overnight in Wadi Musa to start early the next day."
-  - q: "Can you walk to the Treasury or do you need a horse?"
-    a: "You can walk the entire route through the Siq to the Treasury in about 30-45 minutes. Horses, donkeys, and carriages are offered but are optional, not required."
-  - q: "What should I bring for a day at Petra?"
-    a: "Sturdy closed-toe shoes, plenty of water, sunscreen, and a hat — the valley has little shade. In winter, bring a layer for cold evenings."
+  - q: How long does it take to visit Petra?
+    a: >-
+      Budget a full day for a proper visit — around 6-8 hours if you plan to
+      climb to the Monastery, or half a day (3-4 hours) if you're only seeing
+      the Treasury and main street.
+  - q: What's the best time of day to avoid crowds at Petra?
+    a: >-
+      Arrive right at opening or come in the last two hours before closing.
+      Mid-morning through early afternoon is when tour buses and cruise groups
+      fill the Siq and Treasury area.
+  - q: How do I get to Petra from Amman?
+    a: >-
+      It's roughly a three-hour drive south from Amman to Wadi Musa, the town at
+      Petra's entrance. Most visitors stay overnight in Wadi Musa to start early
+      the next day.
+  - q: Can you walk to the Treasury or do you need a horse?
+    a: >-
+      You can walk the entire route through the Siq to the Treasury in about
+      30-45 minutes. Horses, donkeys, and carriages are offered but are
+      optional, not required.
+  - q: What should I bring for a day at Petra?
+    a: >-
+      Sturdy closed-toe shoes, plenty of water, sunscreen, and a hat — the
+      valley has little shade. In winter, bring a layer for cold evenings.
 aiGenerated: true
 draft: true
 heldReason: wrong-country
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

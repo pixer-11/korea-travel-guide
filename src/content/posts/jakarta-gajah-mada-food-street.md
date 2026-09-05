@@ -1,23 +1,31 @@
 ---
 title: 'Gajah Mada Food Street: Where to Eat in Jakarta'
-description: "Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada No. 83 in Jakarta's old Chinatown-adjacent Krukut area (West Jakarta), mixing Indonesian, Chinese-Indonesian, and Western stalls with cold beer under a spacious canopy of seating."
+description: >-
+  Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada
+  No. 83 in Jakarta's old Chinatown-adjacent Krukut area (West Jakarta), mixing
+  Indonesian, Chinese-Indonesian, and Western stalls with cold beer under a
+  spacious canopy of seating.
 country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-07-23T07:26:32.004Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/30562620_6K2mLfXiPM5puVd0kNQiuFfy4MeJZHTl7hj22kDgZsM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/30562620_6K2mLfXiPM5puVd0kNQiuFfy4MeJZHTl7hj22kDgZsM.jpg
   credit: 'Photo: Foursquare user content (Gajah Mada Food Centre)'
   license: foursquare
-  source: https://foursquare.com/v/5bb21b7a57a5370039722729
+  source: 'https://foursquare.com/v/5bb21b7a57a5370039722729'
 place:
   id: ChIJK0fYLzP1aS4RpGSFn-LBsMM
   name: Gajah Mada Food Street
-  address: Jl. Gajah Mada No.83, RT.4/RW.8, Krukut, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11180, Indonesia
+  address: >-
+    Jl. Gajah Mada No.83, RT.4/RW.8, Krukut, Kec. Taman Sari, Kota Jakarta
+    Barat, Daerah Khusus Ibukota Jakarta 11180, Indonesia
   rating: 4.5
-  userRatingsTotal: 2871
+  userRatingsTotal: 2878
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=14100983612380112036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14100983612380112036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -6.1562788
   lng: 106.817791
@@ -34,7 +42,7 @@ place:
       - 21
       - 22
     venueId: ven_4d4d73424c2d6e465347705234536131507a4c5966304b4a496843
-  phone: '+62 822-1135-7229'
+  phone: +62 822-1135-7229
   openingHours:
     - 'Monday: 5:00 PM – 1:00 AM'
     - 'Tuesday: 5:00 PM – 1:00 AM'
@@ -46,19 +54,42 @@ place:
 tags:
   - jakarta
   - street food
-quickAnswer: Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada No. 83 in Jakarta's old Chinatown-adjacent Krukut area (West Jakarta), mixing Indonesian, Chinese-Indonesian, and Western stalls with cold beer under a spacious canopy of seating. Go on a weeknight (Tue–Thu) around 6:30–8 pm for good energy without a long wait, and expect to pay mid-range prices (rated 4.5 from nearly 2,900 reviews). Budget 1–1.5 hours, and pair it with a walk through nearby Glodok or Pancoran for dessert.
+quickAnswer: >-
+  Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada
+  No. 83 in Jakarta's old Chinatown-adjacent Krukut area (West Jakarta), mixing
+  Indonesian, Chinese-Indonesian, and Western stalls with cold beer under a
+  spacious canopy of seating. Go on a weeknight (Tue–Thu) around 6:30–8 pm for
+  good energy without a long wait, and expect to pay mid-range prices (rated 4.5
+  from nearly 2,900 reviews). Budget 1–1.5 hours, and pair it with a walk
+  through nearby Glodok or Pancoran for dessert.
 faq:
   - q: How do I get to Gajah Mada Food Street without a car?
-    a: Take a Gojek or Grab ride-hail directly to Jl. Gajah Mada No. 83, or ride the KRL Commuterline to Jakarta Kota Station and continue by taxi or app-based ride (about 10–15 minutes depending on traffic).
+    a: >-
+      Take a Gojek or Grab ride-hail directly to Jl. Gajah Mada No. 83, or ride
+      the KRL Commuterline to Jakarta Kota Station and continue by taxi or
+      app-based ride (about 10–15 minutes depending on traffic).
   - q: How much does a meal cost here?
-    a: It's listed as mid-range (price level 2 out of 4), so expect moderate food-court pricing — more than a street warung but less than a full sit-down restaurant. Confirm current prices at each stall since vendors set their own menus.
+    a: >-
+      It's listed as mid-range (price level 2 out of 4), so expect moderate
+      food-court pricing — more than a street warung but less than a full
+      sit-down restaurant. Confirm current prices at each stall since vendors
+      set their own menus.
   - q: What's the best time to visit?
-    a: Evenings are best, since the open-air seating and beer-drinking crowd make it primarily a dinner spot. Weeknights around 6:30–8 pm offer good energy with shorter waits than weekends.
+    a: >-
+      Evenings are best, since the open-air seating and beer-drinking crowd make
+      it primarily a dinner spot. Weeknights around 6:30–8 pm offer good energy
+      with shorter waits than weekends.
   - q: How long should I plan to stay?
-    a: Most visits run 1 to 1.5 hours, enough time to sample a few stalls and enjoy the communal seating without rushing.
+    a: >-
+      Most visits run 1 to 1.5 hours, enough time to sample a few stalls and
+      enjoy the communal seating without rushing.
   - q: What else is nearby?
-    a: The food street sits at the edge of Jakarta's historic Glodok and Pancoran Chinatown district, walkable for temple visits, old shophouses, and additional street-food stops before or after your meal.
+    a: >-
+      The food street sits at the edge of Jakarta's historic Glodok and Pancoran
+      Chinatown district, walkable for temple visits, old shophouses, and
+      additional street-food stops before or after your meal.
 aiGenerated: true
+updatedDate: '2026-09-05'
 ---
 
 ## Why Gajah Mada Food Street Matters

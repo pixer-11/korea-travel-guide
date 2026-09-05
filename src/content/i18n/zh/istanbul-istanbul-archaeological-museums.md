@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: istanbul-istanbul-archaeological-museums
-srcHash: '9be4d07c7381'
+srcHash: 'e1a40d1aa8b1'
 title: 伊斯坦布尔考古博物馆旅行指南（4.6★）
-description: 伊斯坦布尔考古博物馆位于法提赫（Fatih）的坎库尔坦（Cankurtaran），坐落在托普卡帕宫（Topkapı Palace）外花园内，每天9点到21点开放。4.6★（21,307条评价）——游客怎么说、开放时间与游览贴士。
+description: 伊斯坦布尔考古博物馆位于法提赫（Fatih）的坎库尔坦（Cankurtaran），坐落在托普卡帕宫（Topkapı Palace）外花园内，每天9点到21点开放。4.6★（21,376条评价）——游客怎么说、开放时间与游览贴士。
 quickAnswer: 伊斯坦布尔考古博物馆位于法提赫的坎库尔坦，藏身于托普卡帕宫外花园之中，每天9点到21点开放。周末12点到18点人流最为密集，建议改在工作日上午或傍晚前往。三座馆舍加上石棺展厅，尤其是亚历山大石棺，值得预留两到三小时细细游览。
 faq:
   - q: 怎么去伊斯坦布尔考古博物馆？

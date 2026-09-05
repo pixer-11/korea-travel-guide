@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: istanbul-istanbul-archaeological-museums
-srcHash: '9be4d07c7381'
+srcHash: 'e1a40d1aa8b1'
 title: 'Museos Arqueológicos de Istanbul: Guía de Viaje (4.6★)'
-description: 'Los Museos Arqueológicos de Istanbul se encuentran en Cankurtaran, dentro de los jardines exteriores del Palacio de Topkapı, en Fatih, y abren todos los días de 9:00 a 21:00. 4.6★ (21.307 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Los Museos Arqueológicos de Istanbul se encuentran en Cankurtaran, dentro de los jardines exteriores del Palacio de Topkapı, en Fatih, y abren todos los días de 9:00 a 21:00. 4.6★ (21.376 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Museos Arqueológicos de Istanbul se encuentran en Cankurtaran, dentro de los jardines exteriores del Palacio de Topkapı, en Fatih, y abren todos los días de 9:00 a 21:00. Los fines de semana se llenan entre las 12:00 y las 18:00, así que conviene ir un día de semana por la mañana o al final de la tarde. Reserva entre dos y tres horas para recorrer los tres edificios y las salas de sarcófagos, en especial el Sarcófago de Alejandro.
 faq:
   - q: ¿Cómo se llega a los Museos Arqueológicos de Istanbul?

@@ -1,41 +1,47 @@
 ---
-title: "Hallim Park: Jeju Travel Guide (4.4★)"
-description: "Hallim Park on Jeju's west coast packs two lava caves, subtropical gardens, a small zoo and a folk village into one walkable site — plan on 2 to 3 hours. 4.4★ (6,198 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Jeju"
-category: "attraction"
-pubDate: "2026-08-09T08:36:37.972Z"
+title: 'Hallim Park: Jeju Travel Guide (4.4★)'
+description: >-
+  Hallim Park on Jeju's west coast packs two lava caves, subtropical gardens, a
+  small zoo and a folk village into one walkable site — plan on 2 to 3 hours.
+  4.4★ (6,209 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Jeju
+category: attraction
+pubDate: '2026-08-09T08:36:37.972Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hallim_Park_41.jpg/1920px-Hallim_Park_41.jpg"
-  credit: "Photo: Grapesurgeon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hallim_Park_41.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hallim_Park_41.jpg/1920px-Hallim_Park_41.jpg
+  credit: 'Photo: Grapesurgeon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hallim_Park_41.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hallim_Park%2C_Jeju_-_Halim2611.jpg/3840px-Hallim_Park%2C_Jeju_-_Halim2611.jpg"
-    credit: "Photo: lumoplank / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hallim_Park,_Jeju_-_Halim2611.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hallim_Park%2C_Jeju_-_Halim2611.jpg/3840px-Hallim_Park%2C_Jeju_-_Halim2611.jpg
+    credit: 'Photo: lumoplank / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Hallim_Park,_Jeju_-_Halim2611.jpg'
 place:
-  id: "ChIJ83lq-MBgDDURc64bn4fHZe8"
-  name: "Hallim Park"
-  address: "300 Hallim-ro, Hallim-eup, Cheju, Jeju-do, South Korea"
+  id: ChIJ83lq-MBgDDURc64bn4fHZe8
+  name: Hallim Park
+  address: '300 Hallim-ro, Hallim-eup, Cheju, Jeju-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 6198
-  googleMapsUrl: "https://maps.google.com/?cid=17250413333016456819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6209
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17250413333016456819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.3895279
   lng: 126.23928839999998
-  phone: "+82 64-796-0001"
+  phone: +82 64-796-0001
   openingHours:
-    - "Monday: 9:00 AM – 6:30 PM"
-    - "Tuesday: 9:00 AM – 6:30 PM"
-    - "Wednesday: 9:00 AM – 6:30 PM"
-    - "Thursday: 9:00 AM – 6:30 PM"
-    - "Friday: 9:00 AM – 6:30 PM"
-    - "Saturday: 9:00 AM – 6:30 PM"
-    - "Sunday: 9:00 AM – 6:30 PM"
+    - 'Monday: 9:00 AM – 6:30 PM'
+    - 'Tuesday: 9:00 AM – 6:30 PM'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 6:30 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +57,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_38655a4866346e623436635255444467424d2d716c33384a496843"
+    venueId: ven_38655a4866346e623436635255444467424d2d716c33384a496843
 tags:
-  - "jeju"
-  - "park"
-quickAnswer: "Hallim Park on Jeju's west coast packs two lava caves, subtropical gardens, a small zoo and a folk village into one walkable site — plan on 2 to 3 hours. It's open daily 9am–6:30pm, and the calmest visit is a weekday morning, since weekend crowds build steadily from noon to 5pm. Buy tickets at the gate and wear shoes you don't mind scuffing on cave rock."
+  - jeju
+  - park
+quickAnswer: >-
+  Hallim Park on Jeju's west coast packs two lava caves, subtropical gardens, a
+  small zoo and a folk village into one walkable site — plan on 2 to 3 hours.
+  It's open daily 9am–6:30pm, and the calmest visit is a weekday morning, since
+  weekend crowds build steadily from noon to 5pm. Buy tickets at the gate and
+  wear shoes you don't mind scuffing on cave rock.
 faq:
-  - q: "How long should I spend at Hallim Park?"
-    a: "Plan for 2 to 3 hours to comfortably cover both lava caves, the gardens, folk village and zoo without rushing."
-  - q: "What are the opening hours?"
-    a: "Hallim Park is open daily from 9:00 AM to 6:30 PM, with no listed closed days — always confirm on the day if you're visiting a public holiday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays stay calm throughout the day (9am–6pm). On weekends, try to arrive right at 9am, since crowds build steadily from noon to 5pm."
-  - q: "How do I get to Hallim Park without a car?"
-    a: "Intercity buses from Jeju City's bus terminal stop near the entrance, but service is infrequent — a rental car or taxi is the more reliable option for most visitors."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Hyeopjae and Geumneung beaches are about five minutes away by car, making an easy pairing for a coastal half-day itinerary."
+  - q: How long should I spend at Hallim Park?
+    a: >-
+      Plan for 2 to 3 hours to comfortably cover both lava caves, the gardens,
+      folk village and zoo without rushing.
+  - q: What are the opening hours?
+    a: >-
+      Hallim Park is open daily from 9:00 AM to 6:30 PM, with no listed closed
+      days — always confirm on the day if you're visiting a public holiday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays stay calm throughout the day (9am–6pm). On weekends, try to
+      arrive right at 9am, since crowds build steadily from noon to 5pm.
+  - q: How do I get to Hallim Park without a car?
+    a: >-
+      Intercity buses from Jeju City's bus terminal stop near the entrance, but
+      service is infrequent — a rental car or taxi is the more reliable option
+      for most visitors.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      Hyeopjae and Geumneung beaches are about five minutes away by car, making
+      an easy pairing for a coastal half-day itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

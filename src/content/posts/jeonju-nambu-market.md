@@ -1,37 +1,43 @@
 ---
-title: "Nambu Market: Jeonju Travel Guide (4.0★)"
-description: "Nambu Market sits just south of Jeonju's Hanok Village, by the Pungnammun Gate, and it's open daily 6am–10pm. 4.0★ (6,194 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Jeonju"
-category: "hidden-gem"
-pubDate: "2026-08-09T08:26:11.471Z"
+title: 'Nambu Market: Jeonju Travel Guide (4.0★)'
+description: >-
+  Nambu Market sits just south of Jeonju's Hanok Village, by the Pungnammun
+  Gate, and it's open daily 6am–10pm. 4.0★ (6,205 reviews) — what visitors say,
+  hours, and tips.
+country: South Korea
+region: Jeonju
+category: hidden-gem
+pubDate: '2026-08-09T08:26:11.471Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg/3840px-Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg"
-  credit: "Photo: 고려 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_(2).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg/3840px-Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg
+  credit: 'Photo: 고려 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_(2).jpg
 gallery: []
 place:
-  id: "ChIJu6q8_aEkcDURRoFh3-Iz7OI"
-  name: "Nambu Market"
-  address: "19-3 Pungnammun 1-gil, Wansan-gu, Jeonju, Jeonbuk State, South Korea"
+  id: ChIJu6q8_aEkcDURRoFh3-Iz7OI
+  name: Nambu Market
+  address: '19-3 Pungnammun 1-gil, Wansan-gu, Jeonju, Jeonbuk State, South Korea'
   rating: 4
-  userRatingsTotal: 6194
-  googleMapsUrl: "https://maps.google.com/?cid=16351501396578763078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6205
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16351501396578763078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8126868
   lng: 127.1468566
-  phone: "+82 63-284-1344"
+  phone: +82 63-284-1344
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 21
     weekendBusy:
@@ -41,24 +47,40 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_494f377a492d3368466f52525544636b45615f387136754a496843"
+    venueId: ven_494f377a492d3368466f52525544636b45615f387136754a496843
 tags:
-  - "jeonju"
-  - "local market"
-quickAnswer: "Nambu Market sits just south of Jeonju's Hanok Village, by the Pungnammun Gate, and it's open daily 6am–10pm. Come for produce and side dishes by day, then stick around for the youth night market (Fri–Sat evenings) when food stalls take over. It's calmest around 9–10pm on weekdays; weekend afternoons from 4pm onward get packed, so plan around that."
+  - jeonju
+  - local market
+quickAnswer: >-
+  Nambu Market sits just south of Jeonju's Hanok Village, by the Pungnammun
+  Gate, and it's open daily 6am–10pm. Come for produce and side dishes by day,
+  then stick around for the youth night market (Fri–Sat evenings) when food
+  stalls take over. It's calmest around 9–10pm on weekdays; weekend afternoons
+  from 4pm onward get packed, so plan around that.
 faq:
-  - q: "How do I get to Nambu Market from Jeonju Hanok Village?"
-    a: "It's about a 5-minute walk south from the Hanok Village, right by Pungnammun Gate. No subway is needed — most visitors just walk over."
-  - q: "What are the opening hours?"
-    a: "Nambu Market is open daily from 6:00 AM to 10:00 PM, including weekends."
-  - q: "When is the night market held?"
-    a: "The youth-run night market with street food and craft stalls typically runs Friday and Saturday evenings, layered on top of the regular daytime market."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9pm and 10pm are the calmest. Weekend afternoons from 4pm to 10pm are the busiest, so avoid that window if you want space to browse."
-  - q: "How long should I spend there?"
-    a: "Plan for at least an hour to browse the produce section, try a few food stalls, and walk the craft alleys. If you're visiting during the night market, allow two hours or more."
+  - q: How do I get to Nambu Market from Jeonju Hanok Village?
+    a: >-
+      It's about a 5-minute walk south from the Hanok Village, right by
+      Pungnammun Gate. No subway is needed — most visitors just walk over.
+  - q: What are the opening hours?
+    a: 'Nambu Market is open daily from 6:00 AM to 10:00 PM, including weekends.'
+  - q: When is the night market held?
+    a: >-
+      The youth-run night market with street food and craft stalls typically
+      runs Friday and Saturday evenings, layered on top of the regular daytime
+      market.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9pm and 10pm are the calmest. Weekend afternoons from 4pm
+      to 10pm are the busiest, so avoid that window if you want space to browse.
+  - q: How long should I spend there?
+    a: >-
+      Plan for at least an hour to browse the produce section, try a few food
+      stalls, and walk the craft alleys. If you're visiting during the night
+      market, allow two hours or more.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

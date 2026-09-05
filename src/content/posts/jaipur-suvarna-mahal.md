@@ -1,27 +1,33 @@
 ---
 title: 'Suvarna Mahal: Where to Eat in Jaipur'
-description: Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go for a leisurely dinner of royal Rajasthani and North Indian tasting courses in a gilded, chandelier-lit hall.
+description: >-
+  Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the
+  maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go
+  for a leisurely dinner of royal Rajasthani and North Indian tasting courses in
+  a gilded, chandelier-lit hall.
 country: India
 region: Jaipur
 category: restaurant
 pubDate: '2026-07-27T11:03:20.129Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/130998_7q2Ho3bcEweGaDfvt5y6Qqe1cjKWTFkwqvZvDycdaOw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/130998_7q2Ho3bcEweGaDfvt5y6Qqe1cjKWTFkwqvZvDycdaOw.jpg
   credit: 'Photo: Foursquare user content (Suvarna Mahal)'
   license: foursquare
-  source: https://foursquare.com/v/4d766adc41526ea84d98548a
+  source: 'https://foursquare.com/v/4d766adc41526ea84d98548a'
 place:
   id: ChIJ0RfdzAK0bTkRIyPIfI-iC7s
   name: Suvarna Mahal
-  address: RAMBAGH PALACE, Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302015, India
+  address: 'RAMBAGH PALACE, Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302015, India'
   rating: 4.7
-  userRatingsTotal: 3609
+  userRatingsTotal: 3620
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=13478045046993855267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13478045046993855267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.898130899999998
   lng: 75.80823989999999
-  phone: '+91 141 667 1234'
+  phone: +91 141 667 1234
   openingHours:
     - 'Monday: 7:00 – 11:45 PM'
     - 'Tuesday: 7:00 – 11:45 PM'
@@ -33,20 +39,43 @@ place:
 tags:
   - jaipur
   - local restaurant
-quickAnswer: Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go for a leisurely dinner of royal Rajasthani and North Indian tasting courses in a gilded, chandelier-lit hall. Book a table at least a few days ahead, dress smart-casual or better, and set aside two to three hours; this is a splurge, not a quick meal.
+quickAnswer: >-
+  Suvarna Mahal is the flagship dining room inside Rambagh Palace (once the
+  maharaja's residence, now a Taj hotel) on Bhawani Singh Road in Jaipur — go
+  for a leisurely dinner of royal Rajasthani and North Indian tasting courses in
+  a gilded, chandelier-lit hall. Book a table at least a few days ahead, dress
+  smart-casual or better, and set aside two to three hours; this is a splurge,
+  not a quick meal.
 faq:
   - q: Do I need a reservation at Suvarna Mahal?
-    a: Yes — book ahead, ideally a few days in advance, and earlier during Jaipur's peak winter season (November-February) or wedding season, since it's a well-known dining room inside a busy palace hotel.
+    a: >-
+      Yes — book ahead, ideally a few days in advance, and earlier during
+      Jaipur's peak winter season (November-February) or wedding season, since
+      it's a well-known dining room inside a busy palace hotel.
   - q: What should I wear?
-    a: Smart-casual to smart dress is expected — collared shirts for men, no shorts or flip-flops. It's a formal palace dining room, not a casual eatery.
+    a: >-
+      Smart-casual to smart dress is expected — collared shirts for men, no
+      shorts or flip-flops. It's a formal palace dining room, not a casual
+      eatery.
   - q: How much does dinner cost?
-    a: It sits at a mid-range to higher price point for Jaipur — pricier than typical local restaurants, in line with fine dining at a heritage five-star hotel. Confirm current menu pricing directly with the hotel before booking.
+    a: >-
+      It sits at a mid-range to higher price point for Jaipur — pricier than
+      typical local restaurants, in line with fine dining at a heritage
+      five-star hotel. Confirm current menu pricing directly with the hotel
+      before booking.
   - q: How do I get to Rambagh Palace?
-    a: It's on Bhawani Singh Road in the Rambagh area, about 15-20 minutes by taxi or auto-rickshaw from Hawa Mahal and City Palace in the old city. There's no useful direct public transit stop, so a taxi or hotel car is the practical option.
+    a: >-
+      It's on Bhawani Singh Road in the Rambagh area, about 15-20 minutes by
+      taxi or auto-rickshaw from Hawa Mahal and City Palace in the old city.
+      There's no useful direct public transit stop, so a taxi or hotel car is
+      the practical option.
   - q: How long should I plan for the meal?
-    a: Set aside two to three hours. The menu is served course by course in a grand dining room meant to be savored, not rushed.
+    a: >-
+      Set aside two to three hours. The menu is served course by course in a
+      grand dining room meant to be savored, not rushed.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,27 +1,36 @@
 ---
 title: 'Social House Grand Indonesia: Where to Eat in Jakarta'
-description: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge).
+description: >-
+  Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and
+  wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central
+  Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a
+  covered pedestrian bridge).
 country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-07-23T07:15:51.181Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg
   credit: 'Photo: Foursquare user content (SOCIAL HOUSE)'
   license: foursquare
-  source: https://foursquare.com/v/4b87d7aff964a520bcce31e3
+  source: 'https://foursquare.com/v/4b87d7aff964a520bcce31e3'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
   id: ChIJgWKDuiH0aS4RpXOh9dwgKmU
   name: Social House Grand Indonesia
-  address: East Mall Grand Indonesia, Jl. M.H. Thamrin No.1 Lt. 1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia
+  address: >-
+    East Mall Grand Indonesia, Jl. M.H. Thamrin No.1 Lt. 1, RT.1/RW.5, Menteng,
+    Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310,
+    Indonesia
   rating: 4.8
-  userRatingsTotal: 8265
+  userRatingsTotal: 8446
   priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=7289675080238461861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7289675080238461861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -6.1966347
   lng: 106.8225149
@@ -45,7 +54,7 @@ place:
       - 21
       - 22
     venueId: ven_556d4b67776439684f58705234536130486975444b57674a496843
-  phone: '+62 858-1771-0002'
+  phone: +62 858-1771-0002
   openingHours:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
@@ -57,19 +66,41 @@ place:
 tags:
   - jakarta
   - local restaurant
-quickAnswer: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge). Expect an extensive international menu, roughly 300 wine labels by the glass or bottle, and a mid-to-upper price bracket (Rp150,000–400,000+ per person). It's genuinely popular, so aim for an early lunch or a weeknight dinner before 7pm to skip the wait.
+quickAnswer: >-
+  Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and
+  wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central
+  Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a
+  covered pedestrian bridge). Expect an extensive international menu, roughly
+  300 wine labels by the glass or bottle, and a mid-to-upper price bracket
+  (Rp150,000–400,000+ per person). It's genuinely popular, so aim for an early
+  lunch or a weeknight dinner before 7pm to skip the wait.
 faq:
   - q: How do I get to Social House Grand Indonesia by public transport?
-    a: Take the Jakarta MRT to Bundaran HI Station and use the connected pedestrian bridge into Grand Indonesia; Social House is on the ground floor (Lt. 1) of East Mall.
+    a: >-
+      Take the Jakarta MRT to Bundaran HI Station and use the connected
+      pedestrian bridge into Grand Indonesia; Social House is on the ground
+      floor (Lt. 1) of East Mall.
   - q: How much does a meal cost?
-    a: It's priced in the mid-to-upper range for Jakarta — figure roughly Rp150,000–400,000 per person depending on how many wine glasses or shared plates you order.
+    a: >-
+      It's priced in the mid-to-upper range for Jakarta — figure roughly
+      Rp150,000–400,000 per person depending on how many wine glasses or shared
+      plates you order.
   - q: Do I need a reservation?
-    a: Walk-ins work on quieter weekdays, but weekend dinners get busy given its 4.8-star reputation, so booking ahead (by phone or a platform like Chope) is recommended for groups.
+    a: >-
+      Walk-ins work on quieter weekdays, but weekend dinners get busy given its
+      4.8-star reputation, so booking ahead (by phone or a platform like Chope)
+      is recommended for groups.
   - q: What is Social House known for?
-    a: An international comfort-food menu (pizza, pasta, burgers, Asian fusion plates) paired with an extensive wine list of about 300 labels, served in a plant-filled, semi-outdoor-feeling dining room.
+    a: >-
+      An international comfort-food menu (pizza, pasta, burgers, Asian fusion
+      plates) paired with an extensive wine list of about 300 labels, served in
+      a plant-filled, semi-outdoor-feeling dining room.
   - q: What's a good time to visit to avoid crowds?
-    a: Weekday lunch around noon or an early dinner before 6:30pm tends to be calmer than weekend evenings, when it doubles as a post-work wine bar.
+    a: >-
+      Weekday lunch around noon or an early dinner before 6:30pm tends to be
+      calmer than weekend evenings, when it doubles as a post-work wine bar.
 aiGenerated: true
+updatedDate: '2026-09-05'
 ---
 
 ## Why go

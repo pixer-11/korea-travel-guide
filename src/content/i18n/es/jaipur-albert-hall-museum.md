@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jaipur-albert-hall-museum
-srcHash: '25c659a4a9cb'
+srcHash: '5bd0af2baa90'
 title: 'Museo Albert Hall: Guía de Viaje de Jaipur (4,5★)'
-description: 'El Museo Albert Hall se encuentra dentro del Jardín Ram Niwas, en el centro de Jaipur, y abre todos los días de 9:00 a 20:00. 4,5★ (72.982 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Albert Hall se encuentra dentro del Jardín Ram Niwas, en el centro de Jaipur, y abre todos los días de 9:00 a 20:00. 4,5★ (73.144 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Albert Hall se encuentra dentro del Jardín Ram Niwas, en el centro de Jaipur, y abre todos los días de 9:00 a 20:00. Conviene llegar justo a la apertura —entre semana de 9:00 a 11:00, o los fines de semana de 9:00 a 10:00 son los momentos más tranquilos— y calcular entre 1 y 1,5 horas para ver la momia egipcia, las miniaturas pintadas y la fachada del edificio iluminada al atardecer. Es el museo más concurrido de la ciudad, así que es mejor evitar presentarse después de las 11:00 los fines de semana.
 faq:
   - q: ¿Cuál es el horario de apertura?

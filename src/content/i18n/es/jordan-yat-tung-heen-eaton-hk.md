@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jordan-yat-tung-heen-eaton-hk
-srcHash: 'c5e5309ff5a4'
+srcHash: '82cb58cd4418'
 title: 'Yat Tung Heen - Eaton HK: dónde comer en Jordan (4,3★)'
-description: 'Yat Tung Heen es el aclamado restaurante cantonés instalado en el sótano del Eaton HK, en Nathan Road, célebre por su refinado dim sum y sus clásicos de cocción lenta como el ganso asado. 4,3★ (2.157 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Yat Tung Heen es el aclamado restaurante cantonés instalado en el sótano del Eaton HK, en Nathan Road, célebre por su refinado dim sum y sus clásicos de cocción lenta como el ganso asado. 4,3★ (2.172 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Yat Tung Heen es el aclamado restaurante cantonés instalado en el sótano del Eaton HK, en Nathan Road, célebre por su refinado dim sum y sus clásicos de cocción lenta como el ganso asado. Es un local muy conocido y concurrido, así que conviene apuntar al margen del fin de semana entre las 10:00 y las 11:00 si se quiere mesa sin espera, y evitar acudir entre el mediodía y las 22:00 los sábados o domingos.
 faq:
   - q: ¿Hace falta reserva?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ibiza-dalt-vila
-srcHash: '85f619cf6045'
+srcHash: '4f3e8ee29127'
 title: 'Dalt Vila: guía de viaje de Ibiza (4,8★)'
-description: 'Dalt Vila, el casco antiguo amurallado de Ibiza ciudad, permanece abierto las 24 horas y se puede recorrer libremente, aunque la catedral y los museos tienen su propio horario. 4,8★ (176 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Dalt Vila, el casco antiguo amurallado de Ibiza ciudad, permanece abierto las 24 horas y se puede recorrer libremente, aunque la catedral y los museos tienen su propio horario. 4,8★ (178 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Dalt Vila, el casco antiguo amurallado de Ibiza ciudad, permanece abierto las 24 horas y se puede recorrer libremente, aunque la catedral y los museos tienen su propio horario. Los fines de semana la afluencia alcanza su punto máximo entre la 1 y las 2 de la tarde, así que conviene ir a primera hora de la mañana o aprovechar la franja de 19:00 a 21:00, cuando las callejuelas se vacían y la luz se vuelve dorada. Calcule entre dos y tres horas para subir desde la puerta del puerto hasta la plaza de la catedral.
 faq:
   - q: ¿Cuánto tiempo se necesita para visitar Dalt Vila?

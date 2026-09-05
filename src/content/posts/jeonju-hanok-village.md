@@ -1,27 +1,33 @@
 ---
 title: Hanok Village in Jeonju
-description: Jeonju Hanok Village, in the Pungnam-dong/Gyo-dong area near Jeonju's old city center, is South Korea's largest cluster of traditional hanok houses (around 800 structures), best explored on foot over 3–5 hours.
+description: >-
+  Jeonju Hanok Village, in the Pungnam-dong/Gyo-dong area near Jeonju's old city
+  center, is South Korea's largest cluster of traditional hanok houses (around
+  800 structures), best explored on foot over 3–5 hours.
 region: Jeonju
 country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/27324532_K5vzFyJsMqrnYarUXe49Z-MWv2pPYN1uNqIhEO8qg8w.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/27324532_K5vzFyJsMqrnYarUXe49Z-MWv2pPYN1uNqIhEO8qg8w.jpg
     credit: 'Photo: Foursquare user content (Jeonju Hanok Village (전주한옥마을))'
     license: foursquare
-    source: https://foursquare.com/v/4bacdb0af964a52068123be3
+    source: 'https://foursquare.com/v/4bacdb0af964a52068123be3'
 place:
   id: ChIJS73uEmIjcDURjoTQxhu-9I4
   name: Jeonju Hanok Village
-  address: 99 Girin-daero, Wansan-gu, Jeonju, Jeonbuk State, South Korea
+  address: '99 Girin-daero, Wansan-gu, Jeonju, Jeonbuk State, South Korea'
   rating: 4.1
-  userRatingsTotal: 29196
-  googleMapsUrl: https://maps.google.com/?cid=10301067274212115598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 29239
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10301067274212115598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.8175376
   lng: 127.1520417
@@ -37,20 +43,44 @@ place:
 tags:
   - jeonju
   - hanok village
-quickAnswer: Jeonju Hanok Village, in the Pungnam-dong/Gyo-dong area near Jeonju's old city center, is South Korea's largest cluster of traditional hanok houses (around 800 structures), best explored on foot over 3–5 hours. Come for Jeonju bibimbap, hanbok rental photo walks, and the Gyeonggijeon Shrine, and go early morning or on a weekday to beat the crowds. It's reachable by KTX to Jeonju Station followed by a short taxi or bus ride, since there's no subway in the city.
+quickAnswer: >-
+  Jeonju Hanok Village, in the Pungnam-dong/Gyo-dong area near Jeonju's old city
+  center, is South Korea's largest cluster of traditional hanok houses (around
+  800 structures), best explored on foot over 3–5 hours. Come for Jeonju
+  bibimbap, hanbok rental photo walks, and the Gyeonggijeon Shrine, and go early
+  morning or on a weekday to beat the crowds. It's reachable by KTX to Jeonju
+  Station followed by a short taxi or bus ride, since there's no subway in the
+  city.
 faq:
   - q: How do I get to Jeonju Hanok Village from Seoul?
-    a: Take a KTX train from Seoul's Yongsan Station to Jeonju Station (about 1 hour 40 minutes to 2 hours), then a taxi or local bus into the village (15-20 minutes). Intercity buses from Seoul's bus terminals are a cheaper alternative, arriving at Jeonju Bus Terminal.
+    a: >-
+      Take a KTX train from Seoul's Yongsan Station to Jeonju Station (about 1
+      hour 40 minutes to 2 hours), then a taxi or local bus into the village
+      (15-20 minutes). Intercity buses from Seoul's bus terminals are a cheaper
+      alternative, arriving at Jeonju Bus Terminal.
   - q: How much time should I set aside for the hanok village?
-    a: Plan for 3-5 hours to see the main sights (Gyeonggijeon, Omokdae, Jeondong Cathedral) and eat, longer if you rent a hanbok or want to explore Nambu Market nearby.
+    a: >-
+      Plan for 3-5 hours to see the main sights (Gyeonggijeon, Omokdae, Jeondong
+      Cathedral) and eat, longer if you rent a hanbok or want to explore Nambu
+      Market nearby.
   - q: What's the best time of day and year to visit?
-    a: Weekday mornings before 10 a.m. have the fewest crowds. Spring and autumn offer the best weather, though weekends and holidays get busy; winter is quieter with occasional snow.
+    a: >-
+      Weekday mornings before 10 a.m. have the fewest crowds. Spring and autumn
+      offer the best weather, though weekends and holidays get busy; winter is
+      quieter with occasional snow.
   - q: Is renting a hanbok worth it?
-    a: Yes — it's a popular local tradition, not just a tourist photo op, and wearing one often grants free or discounted entry to nearby sites like Gyeonggijeon Shrine.
+    a: >-
+      Yes — it's a popular local tradition, not just a tourist photo op, and
+      wearing one often grants free or discounted entry to nearby sites like
+      Gyeonggijeon Shrine.
   - q: What food should I try there?
-    a: Jeonju bibimbap is the must-try dish, ideally served dolsot-style in a hot stone bowl. Also look for kongnamul gukbap (bean sprout soup) and makgeolli served with side dishes at local taverns.
+    a: >-
+      Jeonju bibimbap is the must-try dish, ideally served dolsot-style in a hot
+      stone bowl. Also look for kongnamul gukbap (bean sprout soup) and
+      makgeolli served with side dishes at local taverns.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 ## Why go

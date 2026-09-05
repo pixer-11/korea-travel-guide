@@ -1,44 +1,52 @@
 ---
-title: "The City Palace: Jaipur Travel Guide (4.4★)"
-description: "The City Palace sits at the heart of Jaipur's Pink City, open daily 9:30am–7:30pm, and needs a solid two to three hours to see properly. 4.4★ (59,207 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Jaipur"
-category: "attraction"
-pubDate: "2026-08-17T08:08:31.711Z"
+title: 'The City Palace: Jaipur Travel Guide (4.4★)'
+description: >-
+  The City Palace sits at the heart of Jaipur's Pink City, open daily
+  9:30am–7:30pm, and needs a solid two to three hours to see properly. 4.4★
+  (59,331 reviews) — what visitors say, hours, and tips.
+country: India
+region: Jaipur
+category: attraction
+pubDate: '2026-08-17T08:08:31.711Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/3840px-Jaipur_03-2016_20_City_Palace_complex.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_20_City_Palace_complex.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/3840px-Jaipur_03-2016_20_City_Palace_complex.jpg
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_20_City_Palace_complex.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/3840px-Jaipur_03-2016_22_City_Palace_complex.jpg"
-    credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_22_City_Palace_complex.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/3840px-Jaipur_03-2016_22_City_Palace_complex.jpg
+    credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_22_City_Palace_complex.jpg
 place:
-  id: "ChIJwbAghgu0bTkRYHt9ATEVgEQ"
-  name: "The City Palace"
-  address: "Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India"
+  id: ChIJwbAghgu0bTkRYHt9ATEVgEQ
+  name: The City Palace
+  address: 'Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India'
   rating: 4.4
-  userRatingsTotal: 59207
-  googleMapsUrl: "https://maps.google.com/?cid=4935968491820645216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 59331
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4935968491820645216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.925794300000003
   lng: 75.8236714
-  phone: "+91 141 408 8888"
+  phone: +91 141 408 8888
   openingHours:
-    - "Monday: 9:30 AM – 7:30 PM"
-    - "Tuesday: 9:30 AM – 7:30 PM"
-    - "Wednesday: 9:30 AM – 7:30 PM"
-    - "Thursday: 9:30 AM – 7:30 PM"
-    - "Friday: 9:30 AM – 7:30 PM"
-    - "Saturday: 9:30 AM – 7:30 PM"
-    - "Sunday: 9:30 AM – 7:30 PM"
+    - 'Monday: 9:30 AM – 7:30 PM'
+    - 'Tuesday: 9:30 AM – 7:30 PM'
+    - 'Wednesday: 9:30 AM – 7:30 PM'
+    - 'Thursday: 9:30 AM – 7:30 PM'
+    - 'Friday: 9:30 AM – 7:30 PM'
+    - 'Saturday: 9:30 AM – 7:30 PM'
+    - 'Sunday: 9:30 AM – 7:30 PM'
   busyness:
-    updated: 2026-08-17
+    updated: 2026-08-17T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -48,24 +56,41 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_5145675645544139744859526b546230756768674162774a496843"
+    venueId: ven_5145675645544139744859526b546230756768674162774a496843
 tags:
-  - "jaipur"
-  - "historic site"
-quickAnswer: "The City Palace sits at the heart of Jaipur's Pink City, open daily 9:30am–7:30pm, and needs a solid two to three hours to see properly. Go right at opening or in the 10am–11am window on a weekday, when it's quietest; weekends between noon and 6pm get packed. Combine it with a walk through Gangori Bazaar afterward since you're already there."
+  - jaipur
+  - historic site
+quickAnswer: >-
+  The City Palace sits at the heart of Jaipur's Pink City, open daily
+  9:30am–7:30pm, and needs a solid two to three hours to see properly. Go right
+  at opening or in the 10am–11am window on a weekday, when it's quietest;
+  weekends between noon and 6pm get packed. Combine it with a walk through
+  Gangori Bazaar afterward since you're already there.
 faq:
-  - q: "How long should I spend at the City Palace?"
-    a: "Plan on two to three hours for the standard museum route, longer if you add the Chandra Mahal upper floors with the royal grandeur ticket."
-  - q: "What is the quietest time to visit?"
-    a: "Weekdays between 10am and 11am see the least foot traffic. Avoid weekends from noon to 6pm, when crowds peak."
-  - q: "How do I get to the City Palace?"
-    a: "It's inside the Pink City walls on Gangori Bazaar Road, walkable from Hawa Mahal and Jantar Mantar, or reachable by autorickshaw or taxi to Virendra Pol gate."
-  - q: "Is the City Palace still a royal residence?"
-    a: "Yes, part of it remains the private residence of Jaipur's royal family, while the rest operates as a public museum."
-  - q: "What's nearby to combine with the visit?"
-    a: "Jantar Mantar observatory and Hawa Mahal are both a five-minute walk away, making a natural half-day Pink City loop."
+  - q: How long should I spend at the City Palace?
+    a: >-
+      Plan on two to three hours for the standard museum route, longer if you
+      add the Chandra Mahal upper floors with the royal grandeur ticket.
+  - q: What is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and 11am see the least foot traffic. Avoid weekends
+      from noon to 6pm, when crowds peak.
+  - q: How do I get to the City Palace?
+    a: >-
+      It's inside the Pink City walls on Gangori Bazaar Road, walkable from Hawa
+      Mahal and Jantar Mantar, or reachable by autorickshaw or taxi to Virendra
+      Pol gate.
+  - q: Is the City Palace still a royal residence?
+    a: >-
+      Yes, part of it remains the private residence of Jaipur's royal family,
+      while the rest operates as a public museum.
+  - q: What's nearby to combine with the visit?
+    a: >-
+      Jantar Mantar observatory and Hawa Mahal are both a five-minute walk away,
+      making a natural half-day Pink City loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

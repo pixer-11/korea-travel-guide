@@ -1,25 +1,29 @@
 ---
 title: 'Topkapi Palace Museum: Istanbul Travel Guide'
-description: Topkapi Palace, the seat of Ottoman sultans for nearly 400 years, sits on the tip of the historic peninsula in Sultanahmet, a short walk from Hagia Sophia.
+description: >-
+  Topkapi Palace, the seat of Ottoman sultans for nearly 400 years, sits on the
+  tip of the historic peninsula in Sultanahmet, a short walk from Hagia Sophia.
 country: Turkey
 region: Istanbul
 category: attraction
 pubDate: '2026-07-23T08:02:25.684Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/8661505_tuj-P--LMRgw99PQS6MwCAwAQFEvg3obizBsFPpbrDM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/8661505_tuj-P--LMRgw99PQS6MwCAwAQFEvg3obizBsFPpbrDM.jpg
   credit: 'Photo: Foursquare user content (Topkapi Palace Museum Shop)'
   license: foursquare
-  source: https://foursquare.com/v/52da816f11d2582c105fd30f
+  source: 'https://foursquare.com/v/52da816f11d2582c105fd30f'
   focus:
     x: 50
-    y: 45
+    'y': 45
 place:
   id: ChIJM_ilr7i5yhQRAFMBw0MZqhU
   name: Topkapi Palace Museum
   address: 'Cankurtaran, Babı Hümayun Cad No: 1, 34122 Fatih/İstanbul, Türkiye'
   rating: 4.6
-  userRatingsTotal: 118624
-  googleMapsUrl: https://maps.google.com/?cid=1561087999662445312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 120120
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1561087999662445312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.0115195
   lng: 28.983378899999995
@@ -38,7 +42,7 @@ place:
       - 15
       - 16
     venueId: ven_5568715a4d3077424d464152516879356937726c695f4d4a496843
-  phone: '+90 212 512 04 80'
+  phone: +90 212 512 04 80
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: Closed'
@@ -50,21 +54,38 @@ place:
 tags:
   - istanbul
   - top attraction
-quickAnswer: Topkapi Palace, the seat of Ottoman sultans for nearly 400 years, sits on the tip of the historic peninsula in Sultanahmet, a short walk from Hagia Sophia. Buy timed tickets online in advance (the palace and the separate Harem section require individual tickets), arrive right at opening, and budget at least three hours to cover the courtyards, treasury, and Harem without rushing.
+quickAnswer: >-
+  Topkapi Palace, the seat of Ottoman sultans for nearly 400 years, sits on the
+  tip of the historic peninsula in Sultanahmet, a short walk from Hagia Sophia.
+  Buy timed tickets online in advance (the palace and the separate Harem section
+  require individual tickets), arrive right at opening, and budget at least
+  three hours to cover the courtyards, treasury, and Harem without rushing.
 faq:
   - q: Do I need separate tickets for the Harem?
-    a: Yes. General admission covers the palace courtyards, Treasury, and Sacred Relics, but the Harem requires an additional ticket purchased at its own entrance near the Second Courtyard — buy both at once online to save time.
+    a: >-
+      Yes. General admission covers the palace courtyards, Treasury, and Sacred
+      Relics, but the Harem requires an additional ticket purchased at its own
+      entrance near the Second Courtyard — buy both at once online to save time.
   - q: What's the nearest public transport?
-    a: Sultanahmet or Gülhane station on the T1 tram line, both about a 10-minute walk through Gülhane Park to the palace entrance on Bab-ı Hümayun Caddesi.
+    a: >-
+      Sultanahmet or Gülhane station on the T1 tram line, both about a 10-minute
+      walk through Gülhane Park to the palace entrance on Bab-ı Hümayun Caddesi.
   - q: How long should I plan to spend there?
-    a: At least three hours for the main palace and Treasury; closer to four if you add the Harem, since the complex spans four large courtyards.
+    a: >-
+      At least three hours for the main palace and Treasury; closer to four if
+      you add the Harem, since the complex spans four large courtyards.
   - q: Which day should I avoid?
-    a: The palace is closed on Tuesdays, so plan around that when booking tickets or building an itinerary.
+    a: >-
+      The palace is closed on Tuesdays, so plan around that when booking tickets
+      or building an itinerary.
   - q: Is it walkable from Hagia Sophia and the Blue Mosque?
-    a: Yes, all three sit on the same historic peninsula in Sultanahmet, within a 10-15 minute walk of each other, making a single half-day itinerary easy to arrange.
+    a: >-
+      Yes, all three sit on the same historic peninsula in Sultanahmet, within a
+      10-15 minute walk of each other, making a single half-day itinerary easy
+      to arrange.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-05'
 ---
 ## Why go
 

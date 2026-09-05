@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jeju-jeju-national-museum
-srcHash: 'f7844dd35e3f'
+srcHash: 'ea4bc2a20d71'
 title: 'Museo Nacional de Jeju: Guía de viaje (4.3★)'
-description: El Museo Nacional de Jeju, cerca de la zona costera de Sammu-ro/Iljudong-ro en Jeju City, es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamanista de la era Tamna y la historia del exilio durante el periodo Joseon antes de salir a los paisajes naturales. 4.3★ (2,967 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Museo Nacional de Jeju, cerca de la zona costera de Sammu-ro/Iljudong-ro en Jeju City, es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamanista de la era Tamna y la historia del exilio durante el periodo Joseon antes de salir a los paisajes naturales. 4.4★ (2,980 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo Nacional de Jeju, cerca de la zona costera de Sammu-ro/Iljudong-ro en Jeju City, es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamanista de la era Tamna y la historia del exilio durante el periodo Joseon antes de salir a los paisajes naturales. Abre de 9am a 6pm de martes a domingo (cerrado los lunes); reserva entre 1 y 1.5 horas. Los fines de semana la mayor afluencia es entre las 11am y las 5pm, así que una visita temprano en la mañana o un día de semana es la opción más tranquila.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Museo Nacional de Jeju?

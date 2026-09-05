@@ -1,23 +1,29 @@
 ---
 title: 'Agora of Smyrna: Izmir Travel Guide'
-description: The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the excavated marketplace of the Roman city rebuilt after a 178 AD earthquake, with a triple-arched basilica, a colonnaded courtyard, and vaulted cisterns you can still walk beneath.
+description: >-
+  The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the
+  excavated marketplace of the Roman city rebuilt after a 178 AD earthquake,
+  with a triple-arched basilica, a colonnaded courtyard, and vaulted cisterns
+  you can still walk beneath.
 country: Turkey
 region: Izmir
 category: hidden-gem
 pubDate: '2026-07-28T10:01:27.793Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/1920px-Izmir_Agora.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/1920px-Izmir_Agora.JPG
   credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Izmir_Agora.JPG
+  source: 'https://commons.wikimedia.org/wiki/File:Izmir_Agora.JPG'
 gallery: []
 place:
   id: ChIJByxmkO_YuxQRx0f1bGicRzs
   name: Agora of Smyrna
-  address: Namazgah, Tarik Sari Sokağı No:29, 35240 Konak/İzmir, Türkiye
+  address: 'Namazgah, Tarik Sari Sokağı No:29, 35240 Konak/İzmir, Türkiye'
   rating: 4.5
-  userRatingsTotal: 3699
-  googleMapsUrl: https://maps.google.com/?cid=4271554743902750663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3746
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4271554743902750663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.418841
   lng: 27.1390592
@@ -33,20 +39,44 @@ place:
 tags:
   - izmir
   - hidden gem
-quickAnswer: The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the excavated marketplace of the Roman city rebuilt after a 178 AD earthquake, with a triple-arched basilica, a colonnaded courtyard, and vaulted cisterns you can still walk beneath. Give it 45–75 minutes, go in the morning before the sun climbs over the open courtyard, and pair it with the nearby Kemeraltı Bazaar and Kadifekale for a full half-day loop through old Izmir.
+quickAnswer: >-
+  The Agora of Smyrna, tucked into Izmir's Namazgah district in Konak, is the
+  excavated marketplace of the Roman city rebuilt after a 178 AD earthquake,
+  with a triple-arched basilica, a colonnaded courtyard, and vaulted cisterns
+  you can still walk beneath. Give it 45–75 minutes, go in the morning before
+  the sun climbs over the open courtyard, and pair it with the nearby Kemeraltı
+  Bazaar and Kadifekale for a full half-day loop through old Izmir.
 faq:
   - q: How do I get to the Agora of Smyrna without a car?
-    a: Take the İZBAN or metro to Konak station, then walk about 15–20 minutes uphill through the edge of Kemeraltı Bazaar toward Namazgah; taxis and dolmuş minibuses also serve the area if you'd rather skip the walk.
+    a: >-
+      Take the İZBAN or metro to Konak station, then walk about 15–20 minutes
+      uphill through the edge of Kemeraltı Bazaar toward Namazgah; taxis and
+      dolmuş minibuses also serve the area if you'd rather skip the walk.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 45 minutes to an hour, longer if you read the on-site information panels and explore the underground vaulted galleries in detail.
+    a: >-
+      Most visitors spend 45 minutes to an hour, longer if you read the on-site
+      information panels and explore the underground vaulted galleries in
+      detail.
   - q: What's the best time of day to visit?
-    a: Go in the morning, around 9–11am — the site has almost no shade, and mornings are cooler and less crowded than midday, when cruise and tour groups tend to arrive.
+    a: >-
+      Go in the morning, around 9–11am — the site has almost no shade, and
+      mornings are cooler and less crowded than midday, when cruise and tour
+      groups tend to arrive.
   - q: Is there an entrance fee and how do I pay?
-    a: Yes, there's a ticketed entrance fee typical of Turkish state/municipal heritage sites; carry some cash as a backup alongside a card, since payment options can vary, and confirm current pricing before you go since it changes periodically.
+    a: >-
+      Yes, there's a ticketed entrance fee typical of Turkish state/municipal
+      heritage sites; carry some cash as a backup alongside a card, since
+      payment options can vary, and confirm current pricing before you go since
+      it changes periodically.
   - q: What else is nearby worth combining with this visit?
-    a: Kemeraltı Bazaar is a short walk downhill for shopping and tea, the Izmir History and Art Museum holds statues excavated from this agora, and Kadifekale fortress overlooks the city from the hill above — all fit into a half-day loop.
+    a: >-
+      Kemeraltı Bazaar is a short walk downhill for shopping and tea, the Izmir
+      History and Art Museum holds statues excavated from this agora, and
+      Kadifekale fortress overlooks the city from the hill above — all fit into
+      a half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

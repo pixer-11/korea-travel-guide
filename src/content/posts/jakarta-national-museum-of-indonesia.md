@@ -1,44 +1,55 @@
 ---
-title: "National Museum of Indonesia: Jakarta Travel Guide (4.7★)"
-description: "The National Museum of Indonesia (often called Museum Gajah, the \"Elephant Museum,\" for the bronze elephant statue out front) sits on Jl. Medan Merdeka Barat in Gambir, Central Jakarta, facing Merdeka Square. 4.7★ (20,705 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Jakarta"
-category: "attraction"
-pubDate: "2026-08-25T08:20:46.850Z"
+title: 'National Museum of Indonesia: Jakarta Travel Guide (4.7★)'
+description: >-
+  The National Museum of Indonesia (often called Museum Gajah, the "Elephant
+  Museum," for the bronze elephant statue out front) sits on Jl. Medan Merdeka
+  Barat in Gambir, Central Jakarta, facing Merdeka Square. 4.7★ (20,753 reviews)
+  — what visitors say, hours, and tips.
+country: Indonesia
+region: Jakarta
+category: attraction
+pubDate: '2026-08-25T08:20:46.850Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg/1920px-Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Front_facade_-_National_Museum_Indonesia,_Jakarta_(2025)_-_img_07.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg/1920px-Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Front_facade_-_National_Museum_Indonesia,_Jakarta_(2025)_-_img_07.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jakarta_Indonesia_National-Museum-01.jpg/3840px-Jakarta_Indonesia_National-Museum-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_National-Museum-01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jakarta_Indonesia_National-Museum-01.jpg/3840px-Jakarta_Indonesia_National-Museum-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_National-Museum-01.jpg
 place:
-  id: "ChIJi_JxtdT1aS4R7Vhgb1ZBFaQ"
-  name: "National Museum of Indonesia"
-  address: "Jl. Medan Merdeka Barat No.12, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia"
+  id: ChIJi_JxtdT1aS4R7Vhgb1ZBFaQ
+  name: National Museum of Indonesia
+  address: >-
+    Jl. Medan Merdeka Barat No.12, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota
+    Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia
   rating: 4.7
-  userRatingsTotal: 20705
-  googleMapsUrl: "https://maps.google.com/?cid=11823428236222683373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20753
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11823428236222683373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.176470300000001
   lng: 106.82181250000001
-  phone: "+62 21 3868172"
+  phone: +62 21 3868172
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekdayBusy:
@@ -60,24 +71,43 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_516146425a3162676856375234536131546474784a5f694a496843"
+    venueId: ven_516146425a3162676856375234536131546474784a5f694a496843
 tags:
-  - "jakarta"
-  - "museum"
-quickAnswer: "The National Museum of Indonesia (often called Museum Gajah, the \"Elephant Museum,\" for the bronze elephant statue out front) sits on Jl. Medan Merdeka Barat in Gambir, Central Jakarta, facing Merdeka Square. It's closed Mondays; on other days it opens at 8am, with the calmest window on weekends between 8am and 9am before crowds build. Plan on two to three hours to cover the ceramics, bronze, and treasure rooms properly."
+  - jakarta
+  - museum
+quickAnswer: >-
+  The National Museum of Indonesia (often called Museum Gajah, the "Elephant
+  Museum," for the bronze elephant statue out front) sits on Jl. Medan Merdeka
+  Barat in Gambir, Central Jakarta, facing Merdeka Square. It's closed Mondays;
+  on other days it opens at 8am, with the calmest window on weekends between 8am
+  and 9am before crowds build. Plan on two to three hours to cover the ceramics,
+  bronze, and treasure rooms properly.
 faq:
-  - q: "What are the National Museum of Indonesia's opening hours?"
-    a: "Closed Mondays. Tuesday to Thursday it's open 8am–6pm, and Friday through Sunday it stays open later, until 8pm."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, go between 8am and 9am right at opening. On weekdays, the calmest hour is 6pm–7pm, so a late Friday visit works well since it's open until 8pm."
-  - q: "How do I get to the museum by public transport?"
-    a: "It's a short walk from Gambir train station, or take TransJakarta to the Monas or Balai Kota busway stop, both a few minutes' walk from the entrance."
-  - q: "How long should I spend at the museum?"
-    a: "Plan for two to three hours to see the bronze and stone sculpture halls, ceramics galleries, ethnographic wing, and the Treasure Room properly."
-  - q: "What's nearby the museum?"
-    a: "It faces Merdeka Square and sits right across from the National Monument (Monas), making it easy to combine both into one half-day visit."
+  - q: What are the National Museum of Indonesia's opening hours?
+    a: >-
+      Closed Mondays. Tuesday to Thursday it's open 8am–6pm, and Friday through
+      Sunday it stays open later, until 8pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, go between 8am and 9am right at opening. On weekdays, the
+      calmest hour is 6pm–7pm, so a late Friday visit works well since it's open
+      until 8pm.
+  - q: How do I get to the museum by public transport?
+    a: >-
+      It's a short walk from Gambir train station, or take TransJakarta to the
+      Monas or Balai Kota busway stop, both a few minutes' walk from the
+      entrance.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan for two to three hours to see the bronze and stone sculpture halls,
+      ceramics galleries, ethnographic wing, and the Treasure Room properly.
+  - q: What's nearby the museum?
+    a: >-
+      It faces Merdeka Square and sits right across from the National Monument
+      (Monas), making it easy to combine both into one half-day visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

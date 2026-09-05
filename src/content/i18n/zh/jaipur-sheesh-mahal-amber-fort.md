@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: jaipur-sheesh-mahal-amber-fort
-srcHash: '11863a9d58af'
+srcHash: 'afa9acd7a9b1'
 title: 琥珀堡镜宫（Sheesh Mahal）：斋浦尔旅行指南（4.6★）
-description: 镜宫（Sheesh Mahal）位于琥珀堡（Amber Fort）内的皇室私人寝宫区域，每日8:00至17:30开放。4.6★（6,271条评价）——游客怎么说、开放时间及实用建议。
+description: 镜宫（Sheesh Mahal）位于琥珀堡（Amber Fort）内的皇室私人寝宫区域，每日8:00至17:30开放。4.6★（6,300条评价）——游客怎么说、开放时间及实用建议。
 quickAnswer: 镜宫（Sheesh Mahal）位于琥珀堡（Amber Fort）内的皇室私人寝宫区域，每日8:00至17:30开放。想避开上午挤满的旅游团人潮，最好一开门就去，或者3:30以后再来。记得带一支小手电，或用手机手电照亮墙面，才能看清镶嵌镜面闪烁的效果。
 faq:
   - q: 琥珀堡镜宫（Sheesh Mahal）的开放时间是几点？

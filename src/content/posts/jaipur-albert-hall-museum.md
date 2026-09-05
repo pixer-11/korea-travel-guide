@@ -1,41 +1,46 @@
 ---
-title: "Albert Hall Museum: Jaipur Travel Guide (4.5★)"
-description: Albert Hall Museum sits inside Ram Niwas Garden in central Jaipur, open daily 9am–8pm. 4.5★ (72,982 reviews) — what visitors say, hours, and tips.
+title: 'Albert Hall Museum: Jaipur Travel Guide (4.5★)'
+description: >-
+  Albert Hall Museum sits inside Ram Niwas Garden in central Jaipur, open daily
+  9am–8pm. 4.5★ (73,144 reviews) — what visitors say, hours, and tips.
 country: India
 region: Jaipur
 category: attraction
-pubDate: "2026-08-16T09:03:21.394Z"
+pubDate: '2026-08-16T09:03:21.394Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albert_Hall_%28_Jaipur_%29.jpg/1920px-Albert_Hall_%28_Jaipur_%29.jpg
-  credit: "Photo: Ajit Kumar Majhi / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albert_Hall_%28_Jaipur_%29.jpg/1920px-Albert_Hall_%28_Jaipur_%29.jpg
+  credit: 'Photo: Ajit Kumar Majhi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Albert_Hall_(_Jaipur_).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Albert_Hall_(_Jaipur_).jpg'
   focus:
     x: 38
-    "y": 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Albert_Hall_%28Museum%29.JPG/3840px-Albert_Hall_%28Museum%29.JPG
-    credit: "Photo: chetan / Wikimedia Commons (CC BY-SA 3.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Albert_Hall_%28Museum%29.JPG/3840px-Albert_Hall_%28Museum%29.JPG
+    credit: 'Photo: chetan / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Albert_Hall_(Museum).JPG
+    source: 'https://commons.wikimedia.org/wiki/File:Albert_Hall_(Museum).JPG'
 place:
   id: ChIJXyn5OrC2bTkRaGk8EzNDuwU
   name: Albert Hall Museum
-  address: Ram Niwas Garden, Ashok Nagar, Jaipur, Rajasthan 302004, India
+  address: 'Ram Niwas Garden, Ashok Nagar, Jaipur, Rajasthan 302004, India'
   rating: 4.5
-  userRatingsTotal: 72982
-  googleMapsUrl: https://maps.google.com/?cid=412997677479651688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 73144
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=412997677479651688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.9115849
   lng: 75.81941200000001
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
     updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
@@ -57,20 +62,37 @@ place:
 tags:
   - jaipur
   - museum
-quickAnswer: Albert Hall Museum sits inside Ram Niwas Garden in central Jaipur, open daily 9am–8pm. Go right at opening — weekdays 9–11am or weekends 9–10am are the calmest — and budget 1–1.5 hours to see the Egyptian mummy, miniature paintings, and the building's illuminated facade at dusk. It's the city's busiest museum, so avoid rolling up after 11am on weekends.
+quickAnswer: >-
+  Albert Hall Museum sits inside Ram Niwas Garden in central Jaipur, open daily
+  9am–8pm. Go right at opening — weekdays 9–11am or weekends 9–10am are the
+  calmest — and budget 1–1.5 hours to see the Egyptian mummy, miniature
+  paintings, and the building's illuminated facade at dusk. It's the city's
+  busiest museum, so avoid rolling up after 11am on weekends.
 faq:
   - q: What are the opening hours?
-    a: The museum is open every day of the week, 9am to 8pm, with no weekly closing day — though it's worth confirming current hours before you go.
+    a: >-
+      The museum is open every day of the week, 9am to 8pm, with no weekly
+      closing day — though it's worth confirming current hours before you go.
   - q: When is the quietest time to visit?
-    a: Weekdays, it's calmest between 9am and 11am. On weekends the quiet window is shorter, just 9am to 10am, before crowds build for the rest of the day.
+    a: >-
+      Weekdays, it's calmest between 9am and 11am. On weekends the quiet window
+      is shorter, just 9am to 10am, before crowds build for the rest of the day.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 60 to 90 minutes, longer if you linger in the miniature painting and textile galleries or wait to see the mummy.
+    a: >-
+      Most visitors spend 60 to 90 minutes, longer if you linger in the
+      miniature painting and textile galleries or wait to see the mummy.
   - q: How do I get there from the old city?
-    a: It's inside Ram Niwas Garden on the southern edge of the Pink City — a short auto-rickshaw or cab ride from Hawa Mahal, and easily combined with a City Palace visit.
+    a: >-
+      It's inside Ram Niwas Garden on the southern edge of the Pink City — a
+      short auto-rickshaw or cab ride from Hawa Mahal, and easily combined with
+      a City Palace visit.
   - q: Is it worth visiting at night?
-    a: Yes — the building is floodlit after dark and is one of Jaipur's most photographed sights from outside the gates, even if you don't go in.
+    a: >-
+      Yes — the building is floodlit after dark and is one of Jaipur's most
+      photographed sights from outside the gates, even if you don't go in.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

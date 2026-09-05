@@ -1,34 +1,41 @@
 ---
 title: TURK Fatih Tutak in Istanbul
-description: 'TURK Fatih Tutak in Istanbul, Turkey — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  TURK Fatih Tutak in Istanbul, Turkey — a new/trending spot: what it is, where
+  it is, and how to visit.
 country: Turkey
 region: Istanbul
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6805087_2loaBh92qzThBVnOM3Lwp49Qw3IWy_dHstFdjO5Y9Vs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6805087_2loaBh92qzThBVnOM3Lwp49Qw3IWy_dHstFdjO5Y9Vs.jpg
   credit: 'Photo: Foursquare user content (Turk Fatih Tutak)'
   license: foursquare
-  source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
+  source: 'https://foursquare.com/v/5e04f7f1bc7b8000086f49b0'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/406099226_X1nDLK4jfURLL16uZBfzRiJw-4ab-qNU3aHu28tNJlk.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/406099226_X1nDLK4jfURLL16uZBfzRiJw-4ab-qNU3aHu28tNJlk.jpg
     credit: 'Photo: Foursquare user content (Turk Fatih Tutak)'
     license: foursquare
-    source: https://foursquare.com/v/5e04f7f1bc7b8000086f49b0
+    source: 'https://foursquare.com/v/5e04f7f1bc7b8000086f49b0'
 place:
   id: ChIJhazqsPa3yhQRWNzo3ScR25k
   name: TURK FATIH TUTAK
-  address: Cumhuriyet Hacıahmet Silahşör Cad, Cumhuriyet, Yeniyol Sk. No:2, 34440 Şişli/İstanbul, Türkiye
+  address: >-
+    Cumhuriyet Hacıahmet Silahşör Cad, Cumhuriyet, Yeniyol Sk. No:2, 34440
+    Şişli/İstanbul, Türkiye
   rating: 4.7
-  userRatingsTotal: 1165
-  googleMapsUrl: https://maps.google.com/?cid=11086473770627030104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1184
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11086473770627030104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.058341899999995
   lng: 28.977767299999996
-  phone: '+90 530 051 83 04'
+  phone: +90 530 051 83 04
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 6:30 – 11:30 PM'
@@ -37,23 +44,44 @@ place:
     - 'Friday: 6:30 – 11:30 PM'
     - 'Saturday: 6:30 – 11:30 PM'
     - 'Sunday: Closed'
+  priceLevel: 4
 tags:
   - istanbul
   - new & trending
-quickAnswer: TURK Fatih Tutak is chef Fatih Tutak's tasting-menu restaurant in Istanbul, built around a modern, research-driven take on Anatolian ingredients and techniques. It holds a place in the Michelin Guide Türkiye 2026 selection plus a Green Star for sustainable practice, and is currently one of the most talked-about tables in the city — so book well ahead and reconfirm hours/reservation policy directly with the restaurant before you go.
+quickAnswer: >-
+  TURK Fatih Tutak is chef Fatih Tutak's tasting-menu restaurant in Istanbul,
+  built around a modern, research-driven take on Anatolian ingredients and
+  techniques. It holds a place in the Michelin Guide Türkiye 2026 selection plus
+  a Green Star for sustainable practice, and is currently one of the most
+  talked-about tables in the city — so book well ahead and reconfirm
+  hours/reservation policy directly with the restaurant before you go.
 faq:
   - q: Do I need a reservation for TURK Fatih Tutak?
-    a: Yes — it's a tasting-menu restaurant with limited seatings, so book ahead through the official website or phone rather than expecting a walk-in table, especially for weekend evenings.
+    a: >-
+      Yes — it's a tasting-menu restaurant with limited seatings, so book ahead
+      through the official website or phone rather than expecting a walk-in
+      table, especially for weekend evenings.
   - q: How much does a meal cost?
-    a: Exact tasting-menu pricing isn't fixed here since it can change seasonally; confirm current pricing directly with the restaurant when you reserve.
+    a: >-
+      Exact tasting-menu pricing isn't fixed here since it can change
+      seasonally; confirm current pricing directly with the restaurant when you
+      reserve.
   - q: How long does the meal take?
-    a: As with most multi-course tasting menus, expect the meal to run a couple of hours or more, so avoid scheduling anything immediately after.
+    a: >-
+      As with most multi-course tasting menus, expect the meal to run a couple
+      of hours or more, so avoid scheduling anything immediately after.
   - q: What kind of food should I expect?
-    a: A modern, research-driven take on Anatolian ingredients and techniques — think reworked regional staples and preservation methods rather than classic kebab or meze fare, presented as a tasting sequence.
+    a: >-
+      A modern, research-driven take on Anatolian ingredients and techniques —
+      think reworked regional staples and preservation methods rather than
+      classic kebab or meze fare, presented as a tasting sequence.
   - q: Is it award-winning?
-    a: Yes — it's part of the Michelin Guide Türkiye 2026 selection and holds a Michelin Green Star for its sustainable approach to gastronomy.
+    a: >-
+      Yes — it's part of the Michelin Guide Türkiye 2026 selection and holds a
+      Michelin Green Star for its sustainable approach to gastronomy.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 ## Why TURK Fatih Tutak stands out

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: johor-bahru-johor-ancient-temple
-srcHash: '53f6e48a8b94'
+srcHash: '6475ee1685b8'
 title: 'Templo Antiguo de Johor: Guía de Viaje de Johor Bahru (4,5★)'
-description: 'El Templo Antiguo de Johor (Johor Old Temple), en Jalan Trus, en pleno centro de Johor Bahru, abre todos los días de 7:30 a 17:30 y su visita completa lleva entre 30 y 45 minutos. 4,5★ (1.912 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Templo Antiguo de Johor (Johor Old Temple), en Jalan Trus, en pleno centro de Johor Bahru, abre todos los días de 7:30 a 17:30 y su visita completa lleva entre 30 y 45 minutos. 4,5★ (1.920 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Templo Antiguo de Johor (Johor Old Temple), en Jalan Trus, en pleno centro de Johor Bahru, abre todos los días de 7:30 a 17:30 y su visita completa lleva entre 30 y 45 minutos. Conviene llegar justo a la apertura o entre las 8:00 y las 9:00 en día laborable para disfrutar casi en solitario de las vigas talladas y la neblina de incienso, ya que los fines de semana el templo se mantiene concurrido de 9:00 a 16:00.
 faq:
   - q: ¿Cuánto cuesta la entrada?

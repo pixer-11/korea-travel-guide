@@ -1,44 +1,53 @@
 ---
-title: "Johor Ancient Temple: Johor Bahru Travel Guide (4.5★)"
-description: "Johor Ancient Temple (Johor Old Temple) on Jalan Trus in downtown Johor Bahru is open daily from 7:30am to 5:30pm and takes about 30–45 minutes to see properly. 4.5★ (1,912 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Johor Bahru"
-category: "attraction"
-pubDate: "2026-08-19T09:36:20.333Z"
+title: 'Johor Ancient Temple: Johor Bahru Travel Guide (4.5★)'
+description: >-
+  Johor Ancient Temple (Johor Old Temple) on Jalan Trus in downtown Johor Bahru
+  is open daily from 7:30am to 5:30pm and takes about 30–45 minutes to see
+  properly. 4.5★ (1,920 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Johor Bahru
+category: attraction
+pubDate: '2026-08-19T09:36:20.333Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_%282025%29_-_img_01.jpg/3840px-Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_%282025%29_-_img_01.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_(2025)_-_img_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_%282025%29_-_img_01.jpg/3840px-Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_%282025%29_-_img_01.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alter_chinesischer_Tempel_-_Old_Chinese_Temple_of_Johor_Bahru_(2025)_-_img_01.jpg
   focus:
     x: 47
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/25871419_DT1Uc_4uR5RCkpbOqUDIAAxXYtuSlX67wyrI5nXMmqo.jpg"
-    credit: "Photo: Foursquare user content (Johor Old Chinese Temple 柔佛古庙)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4cd4f40489eb6dcb55cc251e"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/25871419_DT1Uc_4uR5RCkpbOqUDIAAxXYtuSlX67wyrI5nXMmqo.jpg
+    credit: 'Photo: Foursquare user content (Johor Old Chinese Temple 柔佛古庙)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4cd4f40489eb6dcb55cc251e'
 place:
-  id: "ChIJ3WMd2MIS2jERTTvd4lA3aVw"
-  name: "Johor Ancient Temple"
-  address: "Lot 653, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul Ta'zim, Malaysia"
+  id: ChIJ3WMd2MIS2jERTTvd4lA3aVw
+  name: Johor Ancient Temple
+  address: >-
+    Lot 653, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul
+    Ta'zim, Malaysia
   rating: 4.5
-  userRatingsTotal: 1912
-  googleMapsUrl: "https://maps.google.com/?cid=6658914344587049805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1920
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6658914344587049805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.4606492
   lng: 103.76303370000001
-  phone: "+60 7-213 4098"
+  phone: +60 7-213 4098
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 7:30 AM – 5:30 PM"
-    - "Sunday: 7:30 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendBusy:
@@ -49,24 +58,40 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_77566133416c346476545452456a3253494d32644d57334a496843"
+    venueId: ven_77566133416c346476545452456a3253494d32644d57334a496843
 tags:
-  - "johor bahru"
-  - "historic site"
-quickAnswer: "Johor Ancient Temple (Johor Old Temple) on Jalan Trus in downtown Johor Bahru is open daily from 7:30am to 5:30pm and takes about 30–45 minutes to see properly. Go right at opening or in the 8am–9am window on weekdays to have the carved beams and incense haze mostly to yourself, since weekends stay busy from 9am to 4pm."
+  - johor bahru
+  - historic site
+quickAnswer: >-
+  Johor Ancient Temple (Johor Old Temple) on Jalan Trus in downtown Johor Bahru
+  is open daily from 7:30am to 5:30pm and takes about 30–45 minutes to see
+  properly. Go right at opening or in the 8am–9am window on weekdays to have the
+  carved beams and incense haze mostly to yourself, since weekends stay busy
+  from 9am to 4pm.
 faq:
-  - q: "How much does it cost to enter?"
-    a: "There's no admission fee — it's a working temple, though a donation box is available near the entrance for those who wish to contribute."
-  - q: "What are the opening hours?"
-    a: "The temple is open daily from 7:30am to 5:30pm, with no evening access, so plan your visit within that window."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 8am and 9am are the calmest. Weekends stay busy from 9am to 4pm, so avoid those hours if you want a peaceful look around."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes, enough time to walk the altars, admire the carvings, and take in the roofline details."
-  - q: "How do I get there from the Singapore-Johor border?"
-    a: "From the Johor Bahru CIQ checkpoint, it's about a 15–20 minute walk, or a quick e-hailing ride if you'd rather skip the heat."
+  - q: How much does it cost to enter?
+    a: >-
+      There's no admission fee — it's a working temple, though a donation box is
+      available near the entrance for those who wish to contribute.
+  - q: What are the opening hours?
+    a: >-
+      The temple is open daily from 7:30am to 5:30pm, with no evening access, so
+      plan your visit within that window.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 8am and 9am are the calmest. Weekends stay busy from 9am
+      to 4pm, so avoid those hours if you want a peaceful look around.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–45 minutes, enough time to walk the altars, admire
+      the carvings, and take in the roofline details.
+  - q: How do I get there from the Singapore-Johor border?
+    a: >-
+      From the Johor Bahru CIQ checkpoint, it's about a 15–20 minute walk, or a
+      quick e-hailing ride if you'd rather skip the heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

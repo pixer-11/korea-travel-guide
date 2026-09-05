@@ -1,27 +1,35 @@
 ---
 title: 'Jinjuseong Fortress: Jinju Travel Guide (4.5★)'
-description: Jinjuseong Fortress is Jinju's riverside stone-walled castle, open daily 9am–6pm, home to the Gyeongnam National University museum, Chokseongnu pavilion, and views over the Namgang River. 4.5★ (4,134 reviews) — what visitors say, hours, and tips.
+description: >-
+  Jinjuseong Fortress is Jinju's riverside stone-walled castle, open daily
+  9am–6pm, home to the Gyeongnam National University museum, Chokseongnu
+  pavilion, and views over the Namgang River. 4.5★ (4,142 reviews) — what
+  visitors say, hours, and tips.
 country: South Korea
 region: Jinju
 category: hidden-gem
 pubDate: '2026-08-03T10:56:57.007Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg/1920px-Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg/1920px-Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jinjuseong_Fortress_01.jpg/1920px-Jinjuseong_Fortress_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jinjuseong_Fortress_01.jpg/1920px-Jinjuseong_Fortress_01.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_01.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_01.jpg'
 place:
   id: ChIJu7jQLor8bjURqG7qLhh143w
   name: Jinjuseong Fortress
-  address: 626 Namgang-ro, Jinju, Gyeongsangnam-do, South Korea
+  address: '626 Namgang-ro, Jinju, Gyeongsangnam-do, South Korea'
   rating: 4.5
-  userRatingsTotal: 4134
-  googleMapsUrl: https://maps.google.com/?cid=8999165227143163560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4142
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8999165227143163560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.1890244
   lng: 128.078001
@@ -53,20 +61,39 @@ place:
 tags:
   - jinju
   - hidden gem
-quickAnswer: Jinjuseong Fortress is Jinju's riverside stone-walled castle, open daily 9am–6pm, home to the Gyeongnam National University museum, Chokseongnu pavilion, and views over the Namgang River. Budget 1.5–2 hours, wear good shoes for the wall-top walk, and if you're coming on a weekend, arrive right at 9am — foot traffic climbs fast after 11am. On weekdays the whole 9am–6pm stretch stays comfortably quiet.
+quickAnswer: >-
+  Jinjuseong Fortress is Jinju's riverside stone-walled castle, open daily
+  9am–6pm, home to the Gyeongnam National University museum, Chokseongnu
+  pavilion, and views over the Namgang River. Budget 1.5–2 hours, wear good
+  shoes for the wall-top walk, and if you're coming on a weekend, arrive right
+  at 9am — foot traffic climbs fast after 11am. On weekdays the whole 9am–6pm
+  stretch stays comfortably quiet.
 faq:
   - q: How long should I spend at Jinjuseong Fortress?
-    a: Plan on 1.5 to 2 hours for the wall walk, Chokseongnu pavilion, and the museum; add more time if you want to relax by the river or attend an event.
+    a: >-
+      Plan on 1.5 to 2 hours for the wall walk, Chokseongnu pavilion, and the
+      museum; add more time if you want to relax by the river or attend an
+      event.
   - q: What are the opening hours?
-    a: The fortress is open daily from 9:00 AM to 6:00 PM, with no weekly closing day.
+    a: >-
+      The fortress is open daily from 9:00 AM to 6:00 PM, with no weekly closing
+      day.
   - q: When is the quietest time to visit?
-    a: Weekdays are quiet throughout the full 9am–6pm window. On weekends, go right at 9am, since crowds build noticeably from 11am to closing.
+    a: >-
+      Weekdays are quiet throughout the full 9am–6pm window. On weekends, go
+      right at 9am, since crowds build noticeably from 11am to closing.
   - q: How do I get to Jinjuseong Fortress?
-    a: From Jinju Intercity Bus Terminal or Jinju Station, take a local bus or taxi to 626 Namgang-ro on the north bank of the Namgang River; it's roughly a 15–20 minute walk from the terminal area.
+    a: >-
+      From Jinju Intercity Bus Terminal or Jinju Station, take a local bus or
+      taxi to 626 Namgang-ro on the north bank of the Namgang River; it's
+      roughly a 15–20 minute walk from the terminal area.
   - q: Is there an entrance fee?
-    a: There's typically a modest admission fee payable at the gate by cash or card; check the current price locally since it can change.
+    a: >-
+      There's typically a modest admission fee payable at the gate by cash or
+      card; check the current price locally since it can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

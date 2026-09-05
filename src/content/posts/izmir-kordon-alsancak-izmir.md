@@ -1,30 +1,37 @@
 ---
 title: 'Kordon Alsancak İzmir: Izmir Travel Guide (4.5★)'
-description: Kordon in Alsancak is Izmir's long waterfront promenade along the Gulf of Izmir — free, open 24 hours, and best walked in the early morning (7–10am weekdays, 7–11am weekends) before the crowds and café crowds arrive. 4.5★ (26,833 reviews) — what visitors say, hours, and tips.
+description: >-
+  Kordon in Alsancak is Izmir's long waterfront promenade along the Gulf of
+  Izmir — free, open 24 hours, and best walked in the early morning (7–10am
+  weekdays, 7–11am weekends) before the crowds and café crowds arrive. 4.5★
+  (26,875 reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Izmir
 category: attraction
 pubDate: '2026-08-22T07:55:15.248Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Izmir_Alsancak_Kordon_6345.jpg/1920px-Izmir_Alsancak_Kordon_6345.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Izmir_Alsancak_Kordon_6345.jpg/1920px-Izmir_Alsancak_Kordon_6345.jpg
   credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Izmir_Alsancak_Kordon_6345.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Izmir_Alsancak_Kordon_6345.jpg'
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Izmir_Alsancak_Kordon_5889.jpg/1920px-Izmir_Alsancak_Kordon_5889.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Izmir_Alsancak_Kordon_5889.jpg/1920px-Izmir_Alsancak_Kordon_5889.jpg
     credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Izmir_Alsancak_Kordon_5889.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Izmir_Alsancak_Kordon_5889.jpg'
 place:
   id: ChIJjcvmHlvYuxQRcOJSV83Im2o
   name: Kordon Alsancak İzmir
-  address: Alsancak, 35250 Konak/İzmir, Türkiye
+  address: 'Alsancak, 35250 Konak/İzmir, Türkiye'
   rating: 4.5
-  userRatingsTotal: 26833
-  googleMapsUrl: https://maps.google.com/?cid=7681954373669413488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 26875
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7681954373669413488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.4381638
   lng: 27.1414413
@@ -69,20 +76,39 @@ place:
 tags:
   - izmir
   - park
-quickAnswer: Kordon in Alsancak is Izmir's long waterfront promenade along the Gulf of Izmir — free, open 24 hours, and best walked in the early morning (7–10am weekdays, 7–11am weekends) before the crowds and café crowds arrive. Come for sunset views over the bay, tea gardens, and a stroll past the old ferry pier and Alsancak's café row. Avoid weekend afternoons and evenings (1pm–11pm), when it's packed shoulder-to-shoulder.
+quickAnswer: >-
+  Kordon in Alsancak is Izmir's long waterfront promenade along the Gulf of
+  Izmir — free, open 24 hours, and best walked in the early morning (7–10am
+  weekdays, 7–11am weekends) before the crowds and café crowds arrive. Come for
+  sunset views over the bay, tea gardens, and a stroll past the old ferry pier
+  and Alsancak's café row. Avoid weekend afternoons and evenings (1pm–11pm),
+  when it's packed shoulder-to-shoulder.
 faq:
   - q: Is there an entrance fee for Kordon?
-    a: No — it's a public waterfront promenade, free and open 24 hours a day, every day of the week.
+    a: >-
+      No — it's a public waterfront promenade, free and open 24 hours a day,
+      every day of the week.
   - q: When is the quietest time to visit?
-    a: Weekdays it's calmest from 7am to 10am, and on weekends from 7am to 11am — good windows for a peaceful walk or photos.
+    a: >-
+      Weekdays it's calmest from 7am to 10am, and on weekends from 7am to 11am —
+      good windows for a peaceful walk or photos.
   - q: What's the best time for sunset?
-    a: Spring and early autumn evenings offer the clearest skies and comfortable temperatures; arrive about 20 minutes before sunset to get a good spot on a bench or at a tea garden.
+    a: >-
+      Spring and early autumn evenings offer the clearest skies and comfortable
+      temperatures; arrive about 20 minutes before sunset to get a good spot on
+      a bench or at a tea garden.
   - q: How do I get to Kordon without a car?
-    a: Take the İZBAN suburban rail to Alsancak station, or the tram/bus lines running along the Konak–Alsancak coast road. From central Konak Square it's a flat 20–30 minute walk along the water.
+    a: >-
+      Take the İZBAN suburban rail to Alsancak station, or the tram/bus lines
+      running along the Konak–Alsancak coast road. From central Konak Square
+      it's a flat 20–30 minute walk along the water.
   - q: How long should I plan to spend there?
-    a: A quick walk takes 30–45 minutes; allow 1–2 hours if you want to stop at a tea garden or linger for sunset.
+    a: >-
+      A quick walk takes 30–45 minutes; allow 1–2 hours if you want to stop at a
+      tea garden or linger for sunset.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

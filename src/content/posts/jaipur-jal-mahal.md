@@ -1,23 +1,29 @@
 ---
 title: 'Jal Mahal: Jaipur Travel Guide'
-description: Jal Mahal is the red-sandstone "Water Palace" that appears to float in the middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the lakeshore, since the interior is closed to visitors.
+description: >-
+  Jal Mahal is the red-sandstone "Water Palace" that appears to float in the
+  middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the
+  lakeshore, since the interior is closed to visitors.
 country: India
 region: Jaipur
 category: hidden-gem
 pubDate: '2026-07-31T10:16:15.663Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/1920px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/1920px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg
   credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg
 gallery: []
 place:
   id: ChIJlXJ26RuxbTkR0qsToxFP05c
   name: Jal Mahal
-  address: Jal Mahal, Amer, Jaipur, Rajasthan 302002, India
+  address: 'Jal Mahal, Amer, Jaipur, Rajasthan 302002, India'
   rating: 4.2
-  userRatingsTotal: 40095
-  googleMapsUrl: https://maps.google.com/?cid=10940174856982080466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 40274
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10940174856982080466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.9534584
   lng: 75.84612349999999
@@ -32,20 +38,37 @@ place:
 tags:
   - jaipur
   - hidden gem
-quickAnswer: Jal Mahal is the red-sandstone "Water Palace" that appears to float in the middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the lakeshore, since the interior is closed to visitors. It's open daily 6am–6pm, free to visit from the road, and best seen at sunrise or sunset when the lake mirrors the palace and the Nahargarh hills glow behind it. Budget 30–45 minutes, and don't expect to go inside.
+quickAnswer: >-
+  Jal Mahal is the red-sandstone "Water Palace" that appears to float in the
+  middle of Man Sagar Lake on the Jaipur–Amer road — you view it from the
+  lakeshore, since the interior is closed to visitors. It's open daily 6am–6pm,
+  free to visit from the road, and best seen at sunrise or sunset when the lake
+  mirrors the palace and the Nahargarh hills glow behind it. Budget 30–45
+  minutes, and don't expect to go inside.
 faq:
   - q: Can you go inside Jal Mahal?
-    a: No. The palace interior is closed to the public and there's no official bridge or boat access — you view it from the lakeshore embankment along the Amer road.
+    a: >-
+      No. The palace interior is closed to the public and there's no official
+      bridge or boat access — you view it from the lakeshore embankment along
+      the Amer road.
   - q: What are the opening hours?
-    a: The viewing area is accessible daily from 6:00 AM to 6:00 PM.
+    a: 'The viewing area is accessible daily from 6:00 AM to 6:00 PM.'
   - q: How do I get to Jal Mahal from central Jaipur?
-    a: It's about 6-7km north of the city center on the Amer road, roughly a 20-minute auto-rickshaw or taxi ride, and an easy stop en route to Amer Fort or Nahargarh Fort.
+    a: >-
+      It's about 6-7km north of the city center on the Amer road, roughly a
+      20-minute auto-rickshaw or taxi ride, and an easy stop en route to Amer
+      Fort or Nahargarh Fort.
   - q: How long should I spend there?
-    a: Most visitors spend 20-45 minutes at the viewpoint — enough time for photos and a walk along the embankment, since there's no interior to tour.
+    a: >-
+      Most visitors spend 20-45 minutes at the viewpoint — enough time for
+      photos and a walk along the embankment, since there's no interior to tour.
   - q: When is the best time of day to visit?
-    a: Early morning near opening or the last hour before 6pm closing gives the calmest water for reflections, softer light, and fewer crowds than midday.
+    a: >-
+      Early morning near opening or the last hour before 6pm closing gives the
+      calmest water for reflections, softer light, and fewer crowds than midday.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

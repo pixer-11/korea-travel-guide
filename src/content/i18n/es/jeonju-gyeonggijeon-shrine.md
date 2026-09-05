@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jeonju-gyeonggijeon-shrine
-srcHash: 'caa5d64446f5'
+srcHash: '8bc5db89a65c'
 title: 'Santuario Gyeonggijeon: Guía de viaje de Jeonju (4,3★)'
-description: 'El Santuario Gyeonggijeon se encuentra en pleno corazón de la Aldea Hanok de Jeonju (Jeonju Hanok Village), abierto todos los días de 9:00 a 18:00, y alberga el salón de retratos construido en 1410 para honrar al rey Taejo, fundador de la dinastía Joseon. 4,3★ (2.013 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Santuario Gyeonggijeon se encuentra en pleno corazón de la Aldea Hanok de Jeonju (Jeonju Hanok Village), abierto todos los días de 9:00 a 18:00, y alberga el salón de retratos construido en 1410 para honrar al rey Taejo, fundador de la dinastía Joseon. 4,3★ (2.020 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Santuario Gyeonggijeon se encuentra en pleno corazón de la Aldea Hanok de Jeonju (Jeonju Hanok Village), abierto todos los días de 9:00 a 18:00, y alberga el salón de retratos construido en 1410 para honrar al rey Taejo, fundador de la dinastía Joseon. Los días de semana son notablemente más tranquilos que los fines de semana, cuando las multitudes van en aumento a partir de las 11:00. Dedícale entre 45 minutos y una hora, y combínalo con un paseo por las calles hanok de los alrededores con hanbok alquilado.
 faq:
   - q: ¿Cuánto tiempo debo planear para el Santuario Gyeonggijeon?

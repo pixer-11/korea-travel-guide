@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jordan-the-astor
-srcHash: '30e404a01cbf'
+srcHash: '61944a891ff4'
 title: 'The Astor: Guía de viaje de Jordan (4.0★)'
-description: 'The Astor es un restaurante bufé dentro de un hotel en Nathan Road, en el barrio de Jordan, abierto todos los días de 6:30 a 21:30, y lo mejor es ir a desayunar, cuando hay más tranquilidad: de 7:00 a 9:00 entre semana o de 7:00 a 11:00 los fines de semana. 4.0★ (1.509 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'The Astor es un restaurante bufé dentro de un hotel en Nathan Road, en el barrio de Jordan, abierto todos los días de 6:30 a 21:30, y lo mejor es ir a desayunar, cuando hay más tranquilidad: de 7:00 a 9:00 entre semana o de 7:00 a 11:00 los fines de semana. 4.0★ (1.510 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'The Astor es un restaurante bufé dentro de un hotel en Nathan Road, en el barrio de Jordan, abierto todos los días de 6:30 a 21:30. Lo mejor es ir a desayunar, cuando hay más tranquilidad: de 7:00 a 9:00 entre semana o de 7:00 a 11:00 los fines de semana. Conviene evitar las tardes de sábado y domingo entre las 15:00 y las 19:00, cuando las mesas tardan más en liberarse y se forman colas en las estaciones de corte de carnes y de fideos. Hay que calcular entre 60 y 90 minutos, e ir con hambre y sin prisa.'
 faq:
   - q: ¿Cuál es el horario de apertura de The Astor?

@@ -1,34 +1,42 @@
 ---
 title: 'Johor Zoo: Johor Bahru Travel Guide'
-description: Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor Bahru, best known for camel feeding, pony rides, and paddle boats rather than modern habitats.
+description: >-
+  Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor
+  Bahru, best known for camel feeding, pony rides, and paddle boats rather than
+  modern habitats.
 country: Malaysia
 region: Johor Bahru
 category: attraction
 pubDate: '2026-07-26T08:23:10.574Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3024368_9HY8noyxofVJHwlSLv6oL-eUwm64CqlfhsxEQ5nfOFs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/3024368_9HY8noyxofVJHwlSLv6oL-eUwm64CqlfhsxEQ5nfOFs.jpg
   credit: 'Photo: Foursquare user content (Zoo Johor)'
   license: foursquare
-  source: https://foursquare.com/v/4cd5210976ab721e70466b6a
+  source: 'https://foursquare.com/v/4cd5210976ab721e70466b6a'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zoo_Johor_Sambar_Deer.jpg/1920px-Zoo_Johor_Sambar_Deer.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zoo_Johor_Sambar_Deer.jpg/1920px-Zoo_Johor_Sambar_Deer.jpg
     credit: 'Photo: Stress 043 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Zoo_Johor_Sambar_Deer.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Zoo_Johor_Sambar_Deer.jpg'
 place:
   id: ChIJpTA-wsAS2jERtAhAlaGjg6g
   name: Johor Zoo
-  address: Jalan Gertak Merah, Taman Istana, 80000 Johor Bahru, Johor Darul Ta'zim, Malaysia
+  address: >-
+    Jalan Gertak Merah, Taman Istana, 80000 Johor Bahru, Johor Darul Ta'zim,
+    Malaysia
   rating: 4.1
-  userRatingsTotal: 9538
-  googleMapsUrl: https://maps.google.com/?cid=12142728934710053044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9621
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12142728934710053044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.4575382
   lng: 103.7521843
-  phone: '+60 7-223 0404'
+  phone: +60 7-223 0404
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: Closed'
@@ -40,20 +48,41 @@ place:
 tags:
   - johor bahru
   - top attraction
-quickAnswer: Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor Bahru, best known for camel feeding, pony rides, and paddle boats rather than modern habitats. Go on a weekday morning right at opening to beat both the heat and the weekend family crowds, budget two to three hours, and pair it with the nearby Sultan Abu Bakar State Mosque and Royal Abu Bakar Museum.
+quickAnswer: >-
+  Johor Zoo is a small, old-school municipal animal park in Taman Istana, Johor
+  Bahru, best known for camel feeding, pony rides, and paddle boats rather than
+  modern habitats. Go on a weekday morning right at opening to beat both the
+  heat and the weekend family crowds, budget two to three hours, and pair it
+  with the nearby Sultan Abu Bakar State Mosque and Royal Abu Bakar Museum.
 faq:
   - q: How do I get to Johor Zoo from Singapore or JB Sentral?
-    a: A Grab or taxi from JB Sentral or the CIQ checkpoint takes about 10-15 minutes depending on traffic. There's no MRT/LRT in Johor Bahru, so ride-hailing is the most practical option for visitors.
+    a: >-
+      A Grab or taxi from JB Sentral or the CIQ checkpoint takes about 10-15
+      minutes depending on traffic. There's no MRT/LRT in Johor Bahru, so
+      ride-hailing is the most practical option for visitors.
   - q: How much time should I plan for a visit?
-    a: Two to three hours is enough to walk the full grounds without rushing, including time for camel feeding, a pony ride, or a paddle boat around the lake.
+    a: >-
+      Two to three hours is enough to walk the full grounds without rushing,
+      including time for camel feeding, a pony ride, or a paddle boat around the
+      lake.
   - q: When is the best time to visit to avoid crowds and heat?
-    a: Weekday mornings shortly after opening are best — animals are more active before the midday heat and there are fewer local families around. Avoid Malaysian school holiday weeks and weekends if possible.
+    a: >-
+      Weekday mornings shortly after opening are best — animals are more active
+      before the midday heat and there are fewer local families around. Avoid
+      Malaysian school holiday weeks and weekends if possible.
   - q: Do I need cash?
-    a: Yes, bring small ringgit notes. Extras like camel feed, pony rides, and boat rides are typically paid in cash on the spot at small kiosks, and card acceptance there is inconsistent.
+    a: >-
+      Yes, bring small ringgit notes. Extras like camel feed, pony rides, and
+      boat rides are typically paid in cash on the spot at small kiosks, and
+      card acceptance there is inconsistent.
   - q: What else can I see near the zoo?
-    a: The Sultan Abu Bakar State Mosque and the Royal Abu Bakar Museum are both close by in the Istana Gardens area, making it easy to combine all three into one half-day outing.
+    a: >-
+      The Sultan Abu Bakar State Mosque and the Royal Abu Bakar Museum are both
+      close by in the Istana Gardens area, making it easy to combine all three
+      into one half-day outing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

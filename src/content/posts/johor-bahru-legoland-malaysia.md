@@ -1,30 +1,38 @@
 ---
 title: 'LEGOLAND Malaysia: Johor Bahru Travel Guide (4.4★)'
-description: LEGOLAND Malaysia in Iskandar Puteri, Johor Bahru, is open 10am–6pm every day except Wednesday. 4.4★ (28,762 reviews) — what visitors say, hours, and tips.
+description: >-
+  LEGOLAND Malaysia in Iskandar Puteri, Johor Bahru, is open 10am–6pm every day
+  except Wednesday. 4.4★ (28,790 reviews) — what visitors say, hours, and tips.
 country: Malaysia
 region: Johor Bahru
 category: attraction
 pubDate: '2026-08-19T08:55:34.735Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Legoland_Malaysia_2015_02.jpg/3840px-Legoland_Malaysia_2015_02.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Legoland_Malaysia_2015_02.jpg/3840px-Legoland_Malaysia_2015_02.jpg
   credit: 'Photo: Aumars / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Legoland_Malaysia_2015_02.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Legoland_Malaysia_2015_02.jpg'
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Legoland_Johor_Bahru%2C_Malaysia_%2810607938743%29.jpg/1920px-Legoland_Johor_Bahru%2C_Malaysia_%2810607938743%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Legoland_Johor_Bahru%2C_Malaysia_%2810607938743%29.jpg/1920px-Legoland_Johor_Bahru%2C_Malaysia_%2810607938743%29.jpg
     credit: 'Photo: Abdullah Muashi from Jeddah, KSA / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Legoland_Johor_Bahru,_Malaysia_(10607938743).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Legoland_Johor_Bahru,_Malaysia_(10607938743).jpg
 place:
   id: ChIJM-12PIwL2jERSzVEGdIIW4E
   name: LEGOLAND Malaysia
-  address: 7, Persiaran Medini Utara 3, 79100 Iskandar Puteri, Johor Darul Ta'zim, Malaysia
+  address: >-
+    7, Persiaran Medini Utara 3, 79100 Iskandar Puteri, Johor Darul Ta'zim,
+    Malaysia
   rating: 4.4
-  userRatingsTotal: 28762
-  googleMapsUrl: https://maps.google.com/?cid=9321053552233428299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 28790
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9321053552233428299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.4272364
   lng: 103.62948920000001
@@ -40,20 +48,42 @@ place:
 tags:
   - johor bahru
   - museum
-quickAnswer: LEGOLAND Malaysia in Iskandar Puteri, Johor Bahru, is open 10am–6pm every day except Wednesday. Give it a full day (6-7 hours) to cover the theme park, Water Park and Sea Life aquarium, and arrive right at opening to beat the school-holiday crowds. It's about a 30-40 minute drive from the Woodlands/Johor Bahru border crossings.
+quickAnswer: >-
+  LEGOLAND Malaysia in Iskandar Puteri, Johor Bahru, is open 10am–6pm every day
+  except Wednesday. Give it a full day (6-7 hours) to cover the theme park,
+  Water Park and Sea Life aquarium, and arrive right at opening to beat the
+  school-holiday crowds. It's about a 30-40 minute drive from the
+  Woodlands/Johor Bahru border crossings.
 faq:
   - q: What are LEGOLAND Malaysia's opening hours?
-    a: 10:00 AM to 6:00 PM every day of the week except Wednesday, when the park is fully closed. Always confirm on the official site before traveling, as hours can shift around holidays.
+    a: >-
+      10:00 AM to 6:00 PM every day of the week except Wednesday, when the park
+      is fully closed. Always confirm on the official site before traveling, as
+      hours can shift around holidays.
   - q: How do I get to LEGOLAND Malaysia from Singapore?
-    a: It's about a 30-40 minute drive from the Woodlands or Tuas checkpoints. Direct cross-border coaches also run on weekends and holidays, or you can drive and use the on-site parking.
+    a: >-
+      It's about a 30-40 minute drive from the Woodlands or Tuas checkpoints.
+      Direct cross-border coaches also run on weekends and holidays, or you can
+      drive and use the on-site parking.
   - q: How long should I spend at LEGOLAND Malaysia?
-    a: Budget a full day, roughly 6-7 hours, especially if you want to combine the theme park with the Water Park or Sea Life aquarium. Trying to do all three in one visit with young kids is tiring.
+    a: >-
+      Budget a full day, roughly 6-7 hours, especially if you want to combine
+      the theme park with the Water Park or Sea Life aquarium. Trying to do all
+      three in one visit with young kids is tiring.
   - q: When is the best time to visit to avoid crowds?
-    a: Arrive right at the 10am opening on a Tuesday or Thursday outside Malaysian and Singaporean school holidays. Weekends and school holidays bring the heaviest crowds.
+    a: >-
+      Arrive right at the 10am opening on a Tuesday or Thursday outside
+      Malaysian and Singaporean school holidays. Weekends and school holidays
+      bring the heaviest crowds.
   - q: Is it worth staying at the LEGOLAND hotel?
-    a: It's convenient since it's a short walk from the park gates and themed for kids, which suits families doing multiple park days. If you're only visiting for one day, staying in JB town and driving or Grabbing in works fine too.
+    a: >-
+      It's convenient since it's a short walk from the park gates and themed for
+      kids, which suits families doing multiple park days. If you're only
+      visiting for one day, staying in JB town and driving or Grabbing in works
+      fine too.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

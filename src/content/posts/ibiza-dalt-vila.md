@@ -1,44 +1,52 @@
 ---
-title: "Dalt Vila: Ibiza Travel Guide (4.8★)"
-description: "Dalt Vila, Ibiza Town's walled old quarter, is open around the clock and free to wander, though the cathedral and museums keep their own hours. 4.8★ (176 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Ibiza"
-category: "attraction"
-pubDate: "2026-09-05T10:41:21.681Z"
+title: 'Dalt Vila: Ibiza Travel Guide (4.8★)'
+description: >-
+  Dalt Vila, Ibiza Town's walled old quarter, is open around the clock and free
+  to wander, though the cathedral and museums keep their own hours. 4.8★ (178
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Ibiza
+category: attraction
+pubDate: '2026-09-05T10:41:21.681Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg/3840px-Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg/3840px-Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Eivissa_-_Dalt_Vila_from_Airplane.jpg"
-    credit: "Photo: UnFUG-Fabi / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Eivissa_-_Dalt_Vila_from_Airplane.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/6e/Eivissa_-_Dalt_Vila_from_Airplane.jpg
+    credit: 'Photo: UnFUG-Fabi / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Eivissa_-_Dalt_Vila_from_Airplane.jpg
 place:
-  id: "ChIJoUD2B3RHmRIR29JBhVsICsI"
-  name: "Dalt Vila"
-  address: "Plaça dels Desemparats, 07800 Eivissa, Illes Balears, Spain"
+  id: ChIJoUD2B3RHmRIR29JBhVsICsI
+  name: Dalt Vila
+  address: 'Plaça dels Desemparats, 07800 Eivissa, Illes Balears, Spain'
   rating: 4.8
-  userRatingsTotal: 176
-  googleMapsUrl: "https://maps.google.com/?cid=13981997182295855835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 178
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13981997182295855835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.9081233
   lng: 1.4365922
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-05
+    updated: 2026-09-05T00:00:00.000Z
     weekdayBusy:
       - 20
       - 21
@@ -48,24 +56,48 @@ place:
       - 20
     weekendBusy:
       - 13
-    venueId: "ven_49734349735668424a39325249526d485233423244556f4a496843"
+    venueId: ven_49734349735668424a39325249526d485233423244556f4a496843
 tags:
-  - "ibiza"
-  - "historic site"
-quickAnswer: "Dalt Vila, Ibiza Town's walled old quarter, is open around the clock and free to wander, though the cathedral and museums keep their own hours. Weekend crowds peak between 1pm and 2pm, so aim for early morning or the 7pm–9pm window when the lanes empty out and the light turns gold. Give it two to three hours to climb from the harbour gate to the cathedral square."
+  - ibiza
+  - historic site
+quickAnswer: >-
+  Dalt Vila, Ibiza Town's walled old quarter, is open around the clock and free
+  to wander, though the cathedral and museums keep their own hours. Weekend
+  crowds peak between 1pm and 2pm, so aim for early morning or the 7pm–9pm
+  window when the lanes empty out and the light turns gold. Give it two to three
+  hours to climb from the harbour gate to the cathedral square.
 faq:
-  - q: "How long does it take to visit Dalt Vila?"
-    a: "Plan on two to three hours to walk up from the harbour gate to the cathedral, explore the walls, and stop for a drink along the way. History lovers visiting the museum should add another 45 minutes."
-  - q: "Is Dalt Vila free to visit?"
-    a: "Yes, the walled old town itself is open 24 hours with no entry ticket since it's a public neighbourhood of streets and squares. The cathedral and archaeological museum charge their own separate, modest admission fees."
-  - q: "When is the quietest time to visit Dalt Vila?"
-    a: "Weekend evenings between 7pm and 9pm are the calmest stretch, according to visitor patterns, and the stone walls take on a warm glow at that hour. Try to avoid the 1pm–2pm weekend peak, when day-trip groups cluster near the cathedral."
-  - q: "How do you get to Dalt Vila from the port or airport?"
-    a: "From Ibiza Town's harbour or the main bus station on Avinguda d'Isidor Macabich, it's about a 10 to 15 minute walk uphill. From Ibiza Airport, taxis or the bus into Ibiza Town take roughly 15-20 minutes, then it's on foot from there since the old town is pedestrian-only."
-  - q: "What's nearby if I want to combine the visit?"
-    a: "The old port (Marina Botafoch and Sa Penya) sits right below the walls, good for a post-walk seafood lunch, and the modern town's shopping streets are a five-minute walk from the Portal de ses Taules gate."
+  - q: How long does it take to visit Dalt Vila?
+    a: >-
+      Plan on two to three hours to walk up from the harbour gate to the
+      cathedral, explore the walls, and stop for a drink along the way. History
+      lovers visiting the museum should add another 45 minutes.
+  - q: Is Dalt Vila free to visit?
+    a: >-
+      Yes, the walled old town itself is open 24 hours with no entry ticket
+      since it's a public neighbourhood of streets and squares. The cathedral
+      and archaeological museum charge their own separate, modest admission
+      fees.
+  - q: When is the quietest time to visit Dalt Vila?
+    a: >-
+      Weekend evenings between 7pm and 9pm are the calmest stretch, according to
+      visitor patterns, and the stone walls take on a warm glow at that hour.
+      Try to avoid the 1pm–2pm weekend peak, when day-trip groups cluster near
+      the cathedral.
+  - q: How do you get to Dalt Vila from the port or airport?
+    a: >-
+      From Ibiza Town's harbour or the main bus station on Avinguda d'Isidor
+      Macabich, it's about a 10 to 15 minute walk uphill. From Ibiza Airport,
+      taxis or the bus into Ibiza Town take roughly 15-20 minutes, then it's on
+      foot from there since the old town is pedestrian-only.
+  - q: What's nearby if I want to combine the visit?
+    a: >-
+      The old port (Marina Botafoch and Sa Penya) sits right below the walls,
+      good for a post-walk seafood lunch, and the modern town's shopping streets
+      are a five-minute walk from the Portal de ses Taules gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

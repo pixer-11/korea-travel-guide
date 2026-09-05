@@ -1,27 +1,35 @@
 ---
 title: 'Clock Tower of İzmir: Izmir Travel Guide'
-description: The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir, right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute stop, best folded into a longer walk along the seafront rather than a destination on its own.
+description: >-
+  The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir,
+  right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute
+  stop, best folded into a longer walk along the seafront rather than a
+  destination on its own.
 country: Turkey
 region: Izmir
 category: attraction
 pubDate: '2026-07-26T07:09:09.098Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C4%B0zmir_Clock_Tower%2C_March_2013.jpg/1920px-%C4%B0zmir_Clock_Tower%2C_March_2013.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C4%B0zmir_Clock_Tower%2C_March_2013.jpg/1920px-%C4%B0zmir_Clock_Tower%2C_March_2013.jpg
   credit: 'Photo: AnonymousUnknown author (see also [1]) / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_March_2013.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_March_2013.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Izmir_square_clock_tower.jpg/1920px-Izmir_square_clock_tower.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Izmir_square_clock_tower.jpg/1920px-Izmir_square_clock_tower.jpg
     credit: 'Photo: User:Sailko / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Izmir_square_clock_tower.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Izmir_square_clock_tower.jpg'
 place:
   id: ChIJZ50aMOLYuxQRvGo84DXFhcU
   name: Clock Tower of İzmir
-  address: Kültür, Atatürk Cd., 35220 Konak/İzmir, Türkiye
+  address: 'Kültür, Atatürk Cd., 35220 Konak/İzmir, Türkiye'
   rating: 4.7
-  userRatingsTotal: 26132
-  googleMapsUrl: https://maps.google.com/?cid=14232999032560315068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 26362
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14232999032560315068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.418869
   lng: 27.1286678
@@ -36,20 +44,40 @@ place:
 tags:
   - izmir
   - top attraction
-quickAnswer: The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir, right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute stop, best folded into a longer walk along the seafront rather than a destination on its own. Go early morning or after sunset when the square empties out and the tower is lit up; midday and weekend afternoons bring the heaviest tour groups and photo lines.
+quickAnswer: >-
+  The Clock Tower (Saat Kulesi) sits in the middle of Konak Square in Izmir,
+  right by the waterfront and the Konak Pier tram/ferry hub — it's a five-minute
+  stop, best folded into a longer walk along the seafront rather than a
+  destination on its own. Go early morning or after sunset when the square
+  empties out and the tower is lit up; midday and weekend afternoons bring the
+  heaviest tour groups and photo lines.
 faq:
   - q: How do I get to the Clock Tower of İzmir?
-    a: Take the İzmir Tramway to the Konak stop, or arrive by ferry at Konak İskelesi — both drop you within a couple minutes' walk. The İzmir Metro also connects nearby.
+    a: >-
+      Take the İzmir Tramway to the Konak stop, or arrive by ferry at Konak
+      İskelesi — both drop you within a couple minutes' walk. The İzmir Metro
+      also connects nearby.
   - q: Is there an entrance fee?
-    a: No — it stands in the open, public Konak Square and can be viewed and photographed at any time, free of charge.
+    a: >-
+      No — it stands in the open, public Konak Square and can be viewed and
+      photographed at any time, free of charge.
   - q: When is the best time to visit to avoid crowds?
-    a: Go before 9am or after sunset. Midday and weekend afternoons draw the heaviest tour groups and photo queues since it's one of Izmir's most-visited landmarks.
+    a: >-
+      Go before 9am or after sunset. Midday and weekend afternoons draw the
+      heaviest tour groups and photo queues since it's one of Izmir's
+      most-visited landmarks.
   - q: How long should I spend there?
-    a: About 15–20 minutes at the tower itself is enough; most visitors combine it with an hour or two exploring nearby Kemeraltı Bazaar or the Kordon waterfront.
+    a: >-
+      About 15–20 minutes at the tower itself is enough; most visitors combine
+      it with an hour or two exploring nearby Kemeraltı Bazaar or the Kordon
+      waterfront.
   - q: What else is nearby worth seeing?
-    a: The tile-covered Konak Yalı Mosque sits right beside the tower, and Kemeraltı Bazaar and the Kordon promenade are both a short walk away.
+    a: >-
+      The tile-covered Konak Yalı Mosque sits right beside the tower, and
+      Kemeraltı Bazaar and the Kordon promenade are both a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

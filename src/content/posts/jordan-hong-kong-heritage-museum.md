@@ -1,15 +1,19 @@
 ---
 title: 'Hong Kong Heritage Museum: Sha Tin Travel Guide (4.3★)'
-description: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. 4.3★ (7,824 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the
+  Shing Mun River, and it's one of the territory's largest, most-visited
+  museums. 4.3★ (7,832 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Sha Tin
 category: attraction
 pubDate: '2026-08-25T08:15:22.961Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hong_Kong_Heritage_Museum_201305.jpg/1280px-Hong_Kong_Heritage_Museum_201305.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hong_Kong_Heritage_Museum_201305.jpg/1280px-Hong_Kong_Heritage_Museum_201305.jpg
   credit: 'Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Heritage_Museum_201305.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Heritage_Museum_201305.jpg'
   focus:
     x: 60
     'y': 45
@@ -17,10 +21,11 @@ gallery: []
 place:
   id: ChIJzXjRY6kHBDQRGOILZN_aSWU
   name: Hong Kong Heritage Museum
-  address: 1 Man Lam Rd, Sha Tin, New Territories, Hong Kong
+  address: '1 Man Lam Rd, Sha Tin, New Territories, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 7824
-  googleMapsUrl: https://maps.google.com/?cid=7298605324121661976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7832
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7298605324121661976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.3766464
   lng: 114.1856267
@@ -36,20 +41,38 @@ place:
 tags:
   - sha tin
   - museum
-quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
+quickAnswer: >-
+  The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the
+  Shing Mun River, and it's one of the territory's largest, most-visited
+  museums. Best time to go is a weekday morning right at 10am opening, since it
+  draws big weekend crowds and closes all day Tuesday. Budget two to three hours
+  to properly cover the Bruce Lee gallery, Cantonese opera hall, and design
+  galleries.
 faq:
   - q: Is the Hong Kong Heritage Museum actually in Jordan?
-    a: No — it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line.
+    a: >-
+      No — it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via
+      Che Kung Temple Station on the East Rail Line.
   - q: What are the opening hours?
-    a: 10am-6pm Wednesday to Friday, 10am-7pm on weekends, and 10am-6pm on Monday. It's closed all day Tuesday.
+    a: >-
+      10am-6pm Wednesday to Friday, 10am-7pm on weekends, and 10am-6pm on
+      Monday. It's closed all day Tuesday.
   - q: How long should I spend there?
-    a: Plan on two to three hours to see the Bruce Lee exhibition, Cantonese Opera Heritage Hall, and New Territories galleries properly.
+    a: >-
+      Plan on two to three hours to see the Bruce Lee exhibition, Cantonese
+      Opera Heritage Hall, and New Territories galleries properly.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings right at the 10am opening are calmest. It's a very popular museum, so weekend afternoons and school-holiday periods get busy fast.
+    a: >-
+      Weekday mornings right at the 10am opening are calmest. It's a very
+      popular museum, so weekend afternoons and school-holiday periods get busy
+      fast.
   - q: What's nearby if I want to combine the visit with something else?
-    a: New Town Plaza shopping mall and the Shing Mun River promenade are both a short walk from the museum, near Sha Tin Station.
+    a: >-
+      New Town Plaza shopping mall and the Shing Mun River promenade are both a
+      short walk from the museum, near Sha Tin Station.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

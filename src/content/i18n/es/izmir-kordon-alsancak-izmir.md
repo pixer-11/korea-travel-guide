@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: izmir-kordon-alsancak-izmir
-srcHash: 'a50155b9dc4c'
+srcHash: 'e68a07872c80'
 title: 'Kordon en Alsancak, Esmirna: guía de viaje (4,5★)'
-description: 'El Kordon de Alsancak es el largo paseo marítimo de Esmirna a orillas del golfo de Esmirna: gratuito, abierto las 24 horas y mejor recorrido a primera hora de la mañana (7.00–10.00 entre semana, 7.00–11.00 los fines de semana), antes de que lleguen las multitudes y el ajetreo de las cafeterías. 4,5★ (26.833 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Kordon de Alsancak es el largo paseo marítimo de Esmirna a orillas del golfo de Esmirna: gratuito, abierto las 24 horas y mejor recorrido a primera hora de la mañana (7.00–10.00 entre semana, 7.00–11.00 los fines de semana), antes de que lleguen las multitudes y el ajetreo de las cafeterías. 4,5★ (26.875 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Kordon de Alsancak es el largo paseo marítimo de Esmirna a orillas del golfo de Esmirna: gratuito, abierto las 24 horas y mejor recorrido a primera hora de la mañana (7.00–10.00 entre semana, 7.00–11.00 los fines de semana), antes de que lleguen las multitudes y el ajetreo de las cafeterías. Merece la pena ir para ver la puesta de sol sobre la bahía, disfrutar de los jardines de té y pasear junto al antiguo embarcadero de los ferris y la hilera de cafés de Alsancak. Conviene evitar las tardes y noches de fin de semana (de 13.00 a 23.00), cuando el lugar se llena por completo.'
 faq:
   - q: ¿Hay que pagar entrada para acceder al Kordon?

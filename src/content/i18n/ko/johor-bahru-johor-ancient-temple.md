@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: johor-bahru-johor-ancient-temple
-srcHash: '53f6e48a8b94'
+srcHash: '6475ee1685b8'
 title: '조호 고사원(Johor Ancient Temple): 조호바루 여행 가이드 (4.5★)'
-description: 조호바루(Johor Bahru) 시내 잘란 트루스(Jalan Trus)에 자리한 조호 고사원(Johor Old Temple)은 매일 오전 7시 30분부터 오후 5시 30분까지 문을 열며, 제대로 둘러보는 데 30~45분 정도 걸립니다. 4.5★(리뷰 1,912건) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
+description: 조호바루(Johor Bahru) 시내 잘란 트루스(Jalan Trus)에 자리한 조호 고사원(Johor Old Temple)은 매일 오전 7시 30분부터 오후 5시 30분까지 문을 열며, 제대로 둘러보는 데 30~45분 정도 걸립니다. 4.5★(리뷰 1,920건) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
 quickAnswer: 조호바루(Johor Bahru) 시내 잘란 트루스(Jalan Trus)에 있는 조호 고사원(Johor Old Temple)은 매일 오전 7시 30분부터 오후 5시 30분까지 운영하며, 제대로 둘러보려면 30~45분 정도 잡으면 됩니다. 평일 오픈 직후나 오전 8시~9시 사이에 방문하면 조각된 대들보와 향 연기를 거의 독차지할 수 있는데, 주말에는 오전 9시부터 오후 4시까지 계속 붐비니 참고하세요.
 faq:
   - q: 입장료는 얼마인가요?

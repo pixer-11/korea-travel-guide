@@ -1,40 +1,47 @@
 ---
-title: "The Astor: Jordan Travel Guide (4.0★)"
-description: "The Astor is a buffet restaurant inside a hotel on Nathan Road in Jordan, open daily 6:30am–9:30pm, best tackled at breakfast when it's calmest — 7am–9am on weekdays or 7am–11am on weekends. 4.0★ (1,509 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "trendy"
-pubDate: "2026-08-18T08:09:40.942Z"
+title: 'The Astor: Jordan Travel Guide (4.0★)'
+description: >-
+  The Astor is a buffet restaurant inside a hotel on Nathan Road in Jordan, open
+  daily 6:30am–9:30pm, best tackled at breakfast when it's calmest — 7am–9am on
+  weekdays or 7am–11am on weekends. 4.0★ (1,510 reviews) — what visitors say,
+  hours, and tips.
+country: Hong Kong
+region: Jordan
+category: trendy
+pubDate: '2026-08-18T08:09:40.942Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg/3840px-HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg"
-  credit: "Photo: UREVERY2MI Sadaka N / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg/3840px-HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg
+  credit: 'Photo: UREVERY2MI Sadaka N / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJGWUzcOoABDQR_qcSrQL-aGk"
-  name: "The Astor"
-  address: "380 Nathan Rd, Jordan, Hong Kong"
+  id: ChIJGWUzcOoABDQR_qcSrQL-aGk
+  name: The Astor
+  address: '380 Nathan Rd, Jordan, Kowloon, Hong Kong'
   rating: 4
-  userRatingsTotal: 1509
-  googleMapsUrl: "https://maps.google.com/?cid=7595600059007412222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1510
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7595600059007412222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3080401
   lng: 114.1717085
-  phone: "+852 2710 1901"
+  phone: +852 2710 1901
   openingHours:
-    - "Monday: 6:30 AM – 9:30 PM"
-    - "Tuesday: 6:30 AM – 9:30 PM"
-    - "Wednesday: 6:30 AM – 9:30 PM"
-    - "Thursday: 6:30 AM – 9:30 PM"
-    - "Friday: 6:30 AM – 9:30 PM"
-    - "Saturday: 6:30 AM – 9:30 PM"
-    - "Sunday: 6:30 AM – 9:30 PM"
+    - 'Monday: 6:30 AM – 9:30 PM'
+    - 'Tuesday: 6:30 AM – 9:30 PM'
+    - 'Wednesday: 6:30 AM – 9:30 PM'
+    - 'Thursday: 6:30 AM – 9:30 PM'
+    - 'Friday: 6:30 AM – 9:30 PM'
+    - 'Saturday: 6:30 AM – 9:30 PM'
+    - 'Sunday: 6:30 AM – 9:30 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +59,40 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6b47612d4c51725363715f52514442416f4f637a5557474a496843"
+    venueId: ven_6b47612d4c51725363715f52514442416f4f637a5557474a496843
 tags:
-  - "jordan"
-  - "trendy cafe"
-quickAnswer: "The Astor is a buffet restaurant inside a hotel on Nathan Road in Jordan, open daily 6:30am–9:30pm, best tackled at breakfast when it's calmest — 7am–9am on weekdays or 7am–11am on weekends. Avoid Saturday and Sunday afternoons between 3pm and 7pm, when tables turn over slowly and lines build at the carving and noodle stations. Budget 60–90 minutes and come hungry rather than rushed."
+  - jordan
+  - trendy cafe
+quickAnswer: >-
+  The Astor is a buffet restaurant inside a hotel on Nathan Road in Jordan, open
+  daily 6:30am–9:30pm, best tackled at breakfast when it's calmest — 7am–9am on
+  weekdays or 7am–11am on weekends. Avoid Saturday and Sunday afternoons between
+  3pm and 7pm, when tables turn over slowly and lines build at the carving and
+  noodle stations. Budget 60–90 minutes and come hungry rather than rushed.
 faq:
-  - q: "What are the opening hours for The Astor?"
-    a: "It's open daily from 6:30am to 9:30pm, with the same hours every day of the week — no separate weekend schedule."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 9am, or weekends between 7am and 11am, are the calmest windows for breakfast without a wait."
-  - q: "What time should I avoid?"
-    a: "Skip Saturday and Sunday afternoons between 3pm and 7pm — that's the busiest stretch, with longer lines at the carving and noodle stations."
-  - q: "How do I get to The Astor?"
-    a: "It's at 380 Nathan Road in Jordan, a short walk from Jordan MTR Station (Tsuen Wan Line), Exit A or C."
-  - q: "How long should I plan to stay?"
-    a: "Most visits run 60–90 minutes, enough time for a couple of rounds through the stations without feeling rushed."
+  - q: What are the opening hours for The Astor?
+    a: >-
+      It's open daily from 6:30am to 9:30pm, with the same hours every day of
+      the week — no separate weekend schedule.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am, or weekends between 7am and 11am, are the
+      calmest windows for breakfast without a wait.
+  - q: What time should I avoid?
+    a: >-
+      Skip Saturday and Sunday afternoons between 3pm and 7pm — that's the
+      busiest stretch, with longer lines at the carving and noodle stations.
+  - q: How do I get to The Astor?
+    a: >-
+      It's at 380 Nathan Road in Jordan, a short walk from Jordan MTR Station
+      (Tsuen Wan Line), Exit A or C.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visits run 60–90 minutes, enough time for a couple of rounds through
+      the stations without feeling rushed.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-05'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
