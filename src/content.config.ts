@@ -167,6 +167,9 @@ const essentials = defineCollection({
     title: z.string(),
     description: z.string(),
     lastReviewed: z.coerce.date(),
+    // Per-section review dates (scripts/add-essentials-section.mjs). The
+    // file-level lastReviewed still means "the whole guide was re-researched".
+    sectionsReviewed: z.record(z.string(), z.coerce.date()).optional(),
     draft: z.boolean().default(false),
   }),
 });
