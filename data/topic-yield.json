@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 131,
-   "hits": 79
+   "attempts": 134,
+   "hits": 81
   },
   "park": {
-   "attempts": 119,
-   "hits": 69
+   "attempts": 124,
+   "hits": 72
   },
   "viewpoint": {
    "attempts": 51,
@@ -70,7 +70,7 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 18,
+   "attempts": 19,
    "hits": 0
   },
   "bar": {
@@ -162,5 +162,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-04T10:54:28.432Z"
+ "updated": "2026-09-05T10:42:47.183Z"
 }

@@ -24402,11 +24402,11 @@
   "at": "2026-08-15T06:52:31.681Z"
  },
  "zh/hong-kong-east-coast-boardwalk": {
-  "hash": "76a0a0d9b3c8",
-  "score": 1,
+  "hash": "044ce5fe9534",
+  "score": 2,
   "registerBreak": false,
-  "worst": "长椅每隔一段就面朝海港摆放着，角度是冲着日落设计的,而不是为了遮阴。",
-  "at": "2026-08-15T12:03:57.018Z"
+  "worst": "集装箱货轮和小渔船不时从眼前drift过。",
+  "at": "2026-09-05T10:47:04.697Z"
  },
  "zh/iloilo-molo-mansion": {
   "hash": "57fa1af52f97",
@@ -29629,5 +29629,82 @@
   "registerBreak": false,
   "worst": "이런 배경 지식 없이 사원을 보면 그저 인상적인 돌무더기로 보일 뿐이지만, 알고 보면 조각 하나하나를 읽어낼 수 있게 됩니다.",
   "at": "2026-09-04T12:12:02.315Z"
+ },
+ "zh/iloilo-jaro-metropolitan-cathedral-of-st-elizabeth-of-hungary-national-shrine-of": {
+  "hash": "3d137e24d7a4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这种分离并非设计上的疏忽。怡朗这一带屡遭地震侵袭，1948年一场大地震重创了原有建筑之后，钟楼便被保留为一座独立矗立的纪念物。",
+  "at": "2026-09-05T10:45:43.347Z"
+ },
+ "zh/iloilo-national-museum-of-the-philippines-iloilo": {
+  "hash": "b3f9114be348",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "其中不少正是出土于班乃岛本地，也就是说，你所看到的这些文物，与这座城市脚下的土地有着直接的渊源",
+  "at": "2026-09-05T10:45:52.955Z"
+ },
+ "es/ibiza-dalt-vila": {
+  "hash": "c6fc74097e19",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "así que conviene consultarlos si alguno d",
+  "at": "2026-09-05T10:45:54.556Z"
+ },
+ "es/san-sebastian-alderdi-eder-park": {
+  "hash": "30396576a1d1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al no requerir entrada y ser un espacio al aire libre, aquí no hay grandes normas de etiqueta",
+  "at": "2026-09-05T10:45:56.382Z"
+ },
+ "es/seattle-seattle-washington-temple": {
+  "hash": "659d722bc96a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "lo que ofrece una franja de tarde-noche constante a lo largo de la semana.",
+  "at": "2026-09-05T10:45:58.068Z"
+ },
+ "ja/ibiza-dalt-vila": {
+  "hash": "5a1a125d0939",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "人出のデータを見ても、この時間帯が路地が最も静かになるタイミングです。",
+  "at": "2026-09-05T10:46:02.377Z"
+ },
+ "ja/san-sebastian-alderdi-eder-park": {
+  "hash": "3cc1eaa145dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "数万件におよぶレビューで高評価を得ていることからもそれがうかがえます。",
+  "at": "2026-09-05T10:46:04.051Z"
+ },
+ "ja/seattle-seattle-washington-temple": {
+  "hash": "81e4c1d6a4b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "多くの観光施設が平日に休みを取るのとは異なり、この神殿は日曜と月曜の両日が休館日です。",
+  "at": "2026-09-05T10:46:05.721Z"
+ },
+ "ko/ibiza-dalt-vila": {
+  "hash": "e8aeeac79d90",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공공 도로로서 하루 24시간 개방되어 있는 만큼, 입장권 없이 언제든 낮이든 밤이든 자유롭게 방문할 수 있습니다.",
+  "at": "2026-09-05T10:46:07.496Z"
+ },
+ "ko/san-sebastian-alderdi-eder-park": {
+  "hash": "c4047a721ab9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "알데르디 에데르는 아윤타미엔토 건물(산 세바스티안의 옛 카지노로, 지금은 시청으로 쓰입니다)과 콘차 해변이 그리는 곡선 사이에 놓인 초록빛 쐐기 모양의 공간입니다.",
+  "at": "2026-09-05T10:46:10.157Z"
+ },
+ "ko/seattle-seattle-washington-temple": {
+  "hash": "c5895101f01b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "건물은 하나의 첨탑을 이고 있고 그 꼭대기에는 황금빛 모로나이 천사상이 놓여 있어",
+  "at": "2026-09-05T10:46:15.674Z"
  }
 }

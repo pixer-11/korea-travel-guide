@@ -16915,5 +16915,35 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Shows Langkawi Sky Bridge with surrounding mountain landscape clearly",
     "at": "2026-09-04T22:00:56.509Z"
+  },
+  "seattle-seattle-washington-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_Temple_in_Bellevue.jpg/1920px-Seattle_Temple_in_Bellevue.jpg": {
+    "slug": "seattle-seattle-washington-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple building with fountains, matches venue name on sign",
+    "at": "2026-09-05T10:37:44.358Z"
+  },
+  "seattle-washington-park-arboretum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/UWArboretumwetlands.JPG/1920px-UWArboretumwetlands.JPG": {
+    "slug": "seattle-washington-park-arboretum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Plausible wetland/pond scene matching arboretum landscape",
+    "at": "2026-09-05T10:38:52.862Z"
+  },
+  "san-sebastian-alderdi-eder-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alderdi_Eder_Parkea.jpg/3840px-Alderdi_Eder_Parkea.jpg": {
+    "slug": "san-sebastian-alderdi-eder-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park with trees, benches, and San Sebastian architecture visible",
+    "at": "2026-09-05T10:39:47.857Z"
+  },
+  "ibiza-dalt-vila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg/3840px-Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg": {
+    "slug": "ibiza-dalt-vila",
+    "verdict": "MATCH",
+    "reason": "publish gate: Historic Dalt Vila church/fortress architecture, representative view",
+    "at": "2026-09-05T10:41:18.690Z"
+  },
+  "tiong-bahru-hortpark\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Silver_Garden_HortPark_Singapore.jpg/1920px-Silver_Garden_HortPark_Singapore.jpg": {
+    "slug": "tiong-bahru-hortpark",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park with lawns, trees, water feature matches HortPark setting",
+    "at": "2026-09-05T10:42:47.164Z"
   }
 }

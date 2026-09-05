@@ -6,7 +6,7 @@ title: '5-Day Singapore Itinerary: Gardens, Sentosa, Nature Reserves and Little 
 description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Sentosa's attractions to Bukit Timah's rainforest trails, East Coast Park, and Little India's heritage streets.
 quickAnswer: This is a 5-day Singapore itinerary that opens with Marina Bay's gardens and Kampong Glam, spends a full day on Sentosa, moves to Bukit Timah and Singapore Botanic Gardens for nature, heads to East Coast Park and Katong, and closes with a Little India and Bugis heritage walk.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: bca5d0bdec224718251ef0408453b25b62fee23a
+stopsHash: b8dc67c5ad54f9c2aea1dd71c797576fcf983870
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
@@ -84,6 +84,14 @@ itinerary:
         slot: afternoon
         why: This free multi-sensory garden and light installation is best experienced at dusk, making it a fitting end to the Sentosa day.
         dwellMin: 53
+        walkToNext:
+          km: 4.7
+          minutes: null
+          transit: true
+      - slug: tiong-bahru-hortpark
+        slot: evening
+        why: A attraction rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 45
         walkToNext: null
     rainSwapSlug: sentosa-fort-siloso
   - label: Rainforest to botanic gardens
@@ -135,7 +143,7 @@ itinerary:
         why: A small, leafy park built around the last visible remnant of old Fort Tomahawk makes a quiet finish to the day.
         dwellMin: 38
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: kampong-glam-malay-heritage-centre
   - label: Little India heritage walk
     intro: Day five explores Little India and Bugis, beginning at the towering Sri Srinivasa Perumal Temple on Serangoon Road. Lunch is a hawker stop at Albert Centre Market & Food Centre, before the day ends at the pastel-painted Former House of Tan Teng Niah on Kerbau Road.
     stops:
@@ -160,9 +168,9 @@ itinerary:
         why: The last surviving Chinese villa in Little India, painted in vivid pastel hues, is a quick, free-to-view stop that closes out the day.
         dwellMin: 240
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: little-india-super-deluxe-kitchen
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-04T12:13:10.041Z'
+updatedDate: '2026-09-05T10:47:07.556Z'
 ---
 
