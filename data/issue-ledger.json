@@ -1,5 +1,17 @@
 {
-  "validate-content": {},
-  "audit-translations": {},
+  "validate-content": {
+    "ENDED-EVENT-ADVICE makati-city-john-legend-an-evening-of-songs-stories.md": {
+      "since": "2026-09-05",
+      "last": "2026-09-05",
+      "seen": 1
+    }
+  },
+  "audit-translations": {
+    "TOOL-SPILL topics/ko/luggage-storage.md": {
+      "since": "2026-09-05",
+      "last": "2026-09-05",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
