@@ -17,6 +17,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const FACTS = fileURLToPath(new URL('../data/esim-facts.json', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/esim-i18n.json', import.meta.url));
@@ -96,6 +97,11 @@ for (const [slug, f] of Object.entries(facts)) {
       if (!out?.intro || !out?.coverage || out?.tips?.length !== f.tips.length) {
         throw new Error('incomplete translation');
       }
+      // The model can close one field and open the next in XML *inside* a
+      // value (2026-09-05, essentials topics ko) — the text is then wrong and
+      // the following key is lost. Never keep such a reply.
+      const spill = findToolSpill(out);
+      if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
       entry[lang] = { intro: out.intro, coverage: out.coverage, tips: out.tips };
       done++;
       console.log(`  OK ${slug}/${lang}`);

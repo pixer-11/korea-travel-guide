@@ -20,6 +20,7 @@ import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/venue-names.json', import.meta.url));
@@ -116,7 +117,14 @@ async function translateBatch(batch) {
     console.warn(`  no tool call — stop_reason=${msg.stop_reason}${text ? ` text="${text}"` : ''}`);
     return [];
   }
-  return venues;
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko). Drop those entries — an absent name is
+  // simply re-asked next run; a spilled one would be stored forever.
+  return venues.filter((v) => {
+    if (!findToolSpill(v).length) return true;
+    console.warn(`  ⚠ tool-call spill in "${String(v?.en || '').slice(0, 40)}" — dropped`);
+    return false;
+  });
 }
 
 // Sorted by key so additions land in place and the diff stays additions-only.

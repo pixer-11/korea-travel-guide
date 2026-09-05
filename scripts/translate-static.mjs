@@ -31,6 +31,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { parseSourceFile, srcHashOfSourceFile, storedHashIn, stampSrcHash, quoteSrcHashLine } from './lib/src-hash.mjs';
 import { isTransientApiError, transientBackoffMs } from './lib/api-transient.mjs';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/static-pages/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/static-pages-i18n/', import.meta.url));
@@ -125,6 +126,11 @@ async function translateOne(langCode, slug, fm, body, hash, attempt = 1) {
   if (msg.stop_reason === 'max_tokens') return retry('reply cut at max_tokens');
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.h1) return retry('model returned no translation');
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko) — the text is then wrong and the
+  // following key is lost. Never write such a reply.
+  const spill = findToolSpill(out);
+  if (spill.length) return retry(`tool-call spill in ${spill.join(', ')}`);
   // A body far shorter than its source is a stub with a title for camouflage
   // (posts: dubai-def-leppard ko/es at 2% of the English, 2026-09-02). Same
   // floor as translate-posts: Chinese runs at ~0.4 of English, 0.2 is under

@@ -16,6 +16,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/essentials/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/essentials-i18n/', import.meta.url));
@@ -83,6 +84,11 @@ async function translateOne(langCode, slug, data) {
   }
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.title) throw new Error('model returned no translation');
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko) — the text is then wrong and the
+  // following key is lost. Never keep such a reply.
+  const spill = findToolSpill(out);
+  if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
   // A body far shorter than its source is a stub with a title for camouflage
   // (posts: dubai-def-leppard ko/es at 2% of the English, 2026-09-02). The
   // existence-only skip below would then keep it forever. Same floor as

@@ -30,6 +30,7 @@ import { existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const DEFAULT_SOURCE_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
 const DEFAULT_OUT_DIR = fileURLToPath(new URL('../src/content/itineraries-i18n/', import.meta.url));
@@ -93,6 +94,11 @@ export function stopWhyPairs(itineraryArr) {
 // build-itineraries.mjs's validateAiOutput.
 export function validateTranslationOutput(out, srcDays, stopSlugs, srcFaqCount) {
   if (!out || typeof out !== 'object') throw new Error('model returned no tool_use input');
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko) — the text is then wrong and the
+  // following key is lost entirely.
+  const spill = findToolSpill(out);
+  if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
   if (typeof out.title !== 'string' || !out.title) throw new Error('model output missing title');
   if (typeof out.description !== 'string' || !out.description) throw new Error('model output missing description');
   if (!Array.isArray(out.days) || out.days.length !== srcDays.length) {

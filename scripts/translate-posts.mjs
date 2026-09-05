@@ -31,6 +31,7 @@ import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
 // SAME rules — a detector the writer does not consult is a warning, not a gate.
 import { scriptLeakFlags } from './lib/translation-leak.mjs';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -260,6 +261,17 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       return translateOne(langCode, srcId, data, hash, attempt + 1);
     }
     throw new Error(`reply cut at max_tokens after ${attempt} attempts`);
+  }
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko): the text is then wrong and the
+  // following key is lost entirely. Stochastic, so retry like the cases below.
+  const spill = findToolSpill(out);
+  if (spill.length) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — tool-call spill in ${spill.join(', ')}, retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`tool-call spill in ${spill.join(', ')} after ${attempt} attempts`);
   }
   // An EMPTY answer is stochastic, exactly like the malformed and mangled-
   // syllable cases below — and it was the only one of the three that gave up on

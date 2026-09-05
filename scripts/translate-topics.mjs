@@ -29,6 +29,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { parseSourceFile, srcHashOfSourceFile, storedHashIn, stampSrcHash, quoteSrcHashLine } from './lib/src-hash.mjs';
 import { isTransientApiError, transientBackoffMs } from './lib/api-transient.mjs';
+import { findToolSpill, missingFields } from './lib/tool-spill.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/essentials-topics/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/essentials-topics-i18n/', import.meta.url));
@@ -141,6 +142,14 @@ async function translateOne(langCode, slug, fm, body, hash, attempt = 1) {
   if (msg.stop_reason === 'max_tokens') return retry('reply cut at max_tokens');
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.h1) return retry('model returned no translation');
+  // 2026-09-05: ko/luggage-storage came back with `</quickAnswer><parameter
+  // name="countryHeading">…` inside quickAnswer, so countryHeading was never a
+  // key, yaml.dump dropped it, and the content collection refused the file —
+  // every push after it failed the deploy guard. Refuse the reply instead.
+  const spill = findToolSpill(out);
+  if (spill.length) return retry(`tool-call spill in ${spill.join(', ')}`);
+  const missing = missingFields(out, TOOL.input_schema.required);
+  if (missing.length) return retry(`missing field(s): ${missing.join(', ')}`);
   // A body far shorter than its source is a stub with a title for camouflage
   // (posts: dubai-def-leppard ko/es at 2% of the English, 2026-09-02). Same
   // floor as translate-posts: Chinese runs at ~0.4 of English, 0.2 is under

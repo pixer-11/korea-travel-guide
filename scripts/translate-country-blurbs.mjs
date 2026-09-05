@@ -15,6 +15,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const COUNTRIES = fileURLToPath(new URL('../data/countries.json', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/country-blurbs.json', import.meta.url));
@@ -65,6 +66,10 @@ English: ${en}`,
     });
     const use = msg.content.find((b) => b.type === 'tool_use');
     if (!use) throw new Error('no tool_use in response');
+    // The model can close one field and open the next in XML *inside* a value
+    // (2026-09-05, essentials topics ko). Never store such a blurb.
+    const spill = findToolSpill(use.input);
+    if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
     table[c.slug] = { ...entry, ...Object.fromEntries(LANGS.map((l) => [l, use.input[l]])), _en: en };
     done++;
     console.log(`  ✓ ${c.slug}${staleSource ? ' (source changed)' : ''}`);

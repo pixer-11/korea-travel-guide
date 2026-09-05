@@ -29,6 +29,7 @@ import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const OUT = fileURLToPath(new URL('../src/i18n/holidays.json', import.meta.url));
 const FACTS = fileURLToPath(new URL('../data/country-facts.json', import.meta.url));
@@ -91,7 +92,14 @@ async function translateBatch(langName, rows) {
     }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  const list = Array.isArray(out?.names) ? out.names : [];
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko). Drop those rows — the short tail
+  // retries next run, exactly like a name the model never returned.
+  const list = (Array.isArray(out?.names) ? out.names : []).filter((r) => {
+    if (!findToolSpill(r).length) return true;
+    console.warn(`    ⚠ tool-call spill in "${String(r?.en || '').slice(0, 40)}" — dropped, retries next run`);
+    return false;
+  });
   if (list.length < rows.length) {
     console.warn(`    ⚠ asked for ${rows.length}, got ${list.length} (stop_reason: ${msg.stop_reason}) — the short tail retries next run`);
   }
