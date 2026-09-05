@@ -22,13 +22,13 @@ faq:
     a: It can be, but the standout restaurants (kappo, tempura, yakitori) are course-based and unhurried by design, so build in real buffer time rather than treating it as grab-and-go.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/60424701_5-h9xC_r-eA9Gro87KKkjXysOZCHQl1vyzIevURf-WA.jpg
+  url: https://fastly.4sqi.net/img/general/original/24451503_eXn1dSqtqkFxu0s6Oa5BVykpxsu7WhXzJvWkArT04dE.jpg
   credit: 'Photo: Foursquare user content (TOFROM YAESU)'
   license: foursquare
   source: https://foursquare.com/v/69b607393b24f162760af339
   focus:
     x: 55
-    'y': 50
+    'y': 40
 ---
 
 Tokyo Station has always been a place people pass through, not linger in. Tofrom Yaesu is the district's attempt to flip that: a purpose-built complex fused to the station's Yaesu side, holding 68 restaurants and shops behind one address, opening September 10, 2026.
