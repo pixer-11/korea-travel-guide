@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/54093664_vqjpyrLXciaBB0Hen9pWAr6msZZRlq9d1ll3hICEYIA.jpg"
+    credit: "Photo: Foursquare user content (Nopparat Thara Pier (ท่าเรือนพรัตน์ธารา (ท่าเรือคลองแห้ง)))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4df472ddfa76abc3d8707b31"
 place:
   id: "ChIJmyyg9ADAUTARsgAo9BSyccA"
   name: "Hat Noppharat Thara-Mu Ko Phi Phi National Park"

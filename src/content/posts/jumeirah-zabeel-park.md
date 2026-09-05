@@ -5,6 +5,11 @@ country: United Arab Emirates
 region: Dubai
 category: attraction
 pubDate: '2026-09-01T10:38:36.829Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zabeel_Park.jpg"
+    credit: "Photo: Ranjit Laxman from Cochin, India / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Zabeel_Park.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/52548456_l7_TiNzO9bf9E7gvDGAO26s15FCPVeNJtNwcopBjK2s.jpg
   credit: 'Photo: Foursquare user content (Zabeel Park Running Track)'

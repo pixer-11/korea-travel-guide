@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flower_Dome_y_Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_29.jpg/3840px-Flower_Dome_y_Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_29.jpg"
+    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Flower_Dome_y_Gardens_by_the_Bay,_Marina_Bay,_Singapur,_2023-08-17,_DD_29.jpg"
 place:
   id: "ChIJPYrvewEZ2jERK-pztVWcDig"
   name: "Flower Dome"

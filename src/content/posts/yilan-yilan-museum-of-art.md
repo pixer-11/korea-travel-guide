@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/60277148_5_4bvKPDydOXEHfOVN9lhJZt1VposurDQIuupsw0ayc.jpg"
+    credit: "Photo: Foursquare user content (宜蘭美術館 Yilan Museum of Art)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/51456e21e4b0634be4e6decf"
 place:
   id: "ChIJMyZ6msTkZzQR-ihlfGlEKDw"
   name: "Yilan Museum of Art"

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/53849208_NIC13YuHD2sPkAUXWA6pUURIoYmR5IS1wd54gkEscog.jpg"
+    credit: "Photo: Foursquare user content (Hong Kong Space Museum (香港太空館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0588d5f964a52018dc22e3"
 place:
   id: "ChIJp4NnsfMABDQRAgmAAMI9V08"
   name: "Hong Kong Space Museum"

@@ -7,6 +7,11 @@ country: United States
 region: Chicago
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5950973_-2Ke9yTPd4JOjt_CamjgNOPTjL2nGtGLPxIVTJrZPow.jpg"
+    credit: "Photo: Foursquare user content (Cloud Gate)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0850dff964a520da0823e3"
 heroImage:
   url: >-
     https://fastly.4sqi.net/img/general/original/27331709_IVlEJKmiGf57s05jGa4N7hS1HlDT23pQ7qDxWtC530w.jpg

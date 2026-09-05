@@ -5,6 +5,11 @@ country: Japan
 region: Sapporo
 category: attraction
 pubDate: '2026-09-01T10:44:08.019Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sapporo_Beer_Museum.jpg"
+    credit: "Photo: MIKI Yoshihito derivative work: MrPanyGoff / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/146031718_6VMVLnbJuEr_Bb_LrdRrNgfRsiato7W-7e8YdT4G6Bw.jpg
   credit: 'Photo: Foursquare user content (Sapporo Beer Museum (サッポロビール博物館))'

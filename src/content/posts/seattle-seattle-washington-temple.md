@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13038357_i-Y-0TDKmfkX1fACHdjRFTF0Tg6TjzD2HPvn9I7cjfk.jpg"
+    credit: "Photo: Foursquare user content (Seattle Washington Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4a75d1e1f964a5205be11fe3"
 place:
   id: "ChIJiWCthZ9ukFQR-t_phzUZuQI"
   name: "Seattle Washington Temple"

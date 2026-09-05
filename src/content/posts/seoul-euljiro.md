@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:LED_shop_in_Euljiro_Seoul.jpg
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/9493514__G6EFbkSxJ3cUnirFvv0-chIZ3UCjdUvX_U5InWqBHA.jpg"
+    credit: "Photo: Foursquare user content (PUSH COFFEE EULJI (푸쉬커피 을지))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6336d38edb136b79c024b83b"
 place:
   id: ChIJd1J2vOGifDURsk5kQa1o1NE
   name: Eulji-ro

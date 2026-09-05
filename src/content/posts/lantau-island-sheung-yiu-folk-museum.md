@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/10223070_Gtv_6a_F0Jm6ETZvNwedjPNqoO7rbm-q2UyzPjqykOc.jpg"
+    credit: "Photo: Foursquare user content (Sheung Yiu Folk Museum (上窰民俗文物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f558971e4b0131bc372a27d"
 place:
   id: "ChIJWeBrw1kFBDQRbw_J94TuETE"
   name: "Sheung Yiu Folk Museum"

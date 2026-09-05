@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12878249_qCzJ7dwRphYkOLX8xefrL38IcoCtGxEdN1FZWwewgQo.jpg"
+    credit: "Photo: Foursquare user content (Thian Hock Keng)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05880ef964a520e4ae22e3"
 place:
   id: "ChIJ9e68CQ0Z2jER4G80iFVcJgo"
   name: "Thian Hock Keng Temple"

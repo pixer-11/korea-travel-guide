@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2677075_PvhT8P607q3WHdUA1MvNDYKXP6mm4fxw1ZZjxwR2oig.jpg"
+    credit: "Photo: Foursquare user content (The Museum of Flight)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/49162e2bf964a5206f521fe3"
 place:
   id: "ChIJRxVwIjlCkFQRqroZdomSpAE"
   name: "The Museum of Flight"

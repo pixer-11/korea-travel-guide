@@ -5,6 +5,11 @@ region: Seoul
 country: "South Korea"
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/3840px-Gwangjang_Market%2C_Seoul_02.jpg"
+    credit: "Photo: Bgag / Wikimedia Commons (CC0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/441342_8fuo56XRXl7JPeE1Jz2wuxZE2DrccbejcKU_Chyfdns.jpg
   credit: 'Photo: Foursquare user content (Gwangjang Market (광장시장))'

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     'y': 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/45419292_EK1kLrAYDgX4xsPoLe1UPVPApaTTP4JW9dj-WWYzvXY.jpg"
+    credit: "Photo: Foursquare user content (Shilin Official Residence Park (士林官邸公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5719e64a498e21ffdb95c851"
 place:
   id: ChIJGbWNq1OvQjQR1HoXIbC0hF4
   name: Shilin Residence Park

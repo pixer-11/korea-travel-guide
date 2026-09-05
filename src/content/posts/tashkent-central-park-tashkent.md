@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/3410840_Kp3M6suIg4f_DjmyFuZJl3hxTIvH0mP0d-sw6ff_TDI.jpg"
+    credit: "Photo: Foursquare user content (Azara In Central Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/60d3692aeb2fdf243c49e3c8"
 place:
   id: "ChIJ8etOdRH1rjgRqS5E-f2Wlqk"
   name: "Central Park Tashkent"

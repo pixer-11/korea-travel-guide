@@ -5,6 +5,11 @@ country: Taiwan
 region: Chiayi
 category: attraction
 pubDate: '2026-09-03T10:41:04.526Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chiayi_Cheng_Huang_tempel.jpg"
+    credit: "Photo: Naplee12 / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Chiayi_Cheng_Huang_tempel.jpg"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg/3840px-Chiayi_Cheng_Huang_%28City_God%29_Temple%2C_Pailou_%28Arch%29_%28Taiwan%29.jpg
   credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)'

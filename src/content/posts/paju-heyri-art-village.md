@@ -9,7 +9,11 @@ heroImage:
   credit: 'Photo: Flickr user Seongbin Im / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Art-Service_Studio,_Heyri.jpg
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4835820_1XOSlXDdbOO3ned-SXzapmr4y5J_5DaT30AodxLaaFY.jpg"
+    credit: "Photo: Foursquare user content (Heyri Art Valley (헤이리예술마을))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b5266acf964a5206c7b27e3"
 place:
   id: ChIJcTadCoqLfDURjHexFkzDstI
   name: Paju Heyri Art Village

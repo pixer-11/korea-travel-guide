@@ -8,6 +8,11 @@ country: Japan
 region: Fukuoka
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/146963046_1d5B5BfUldW4Mu6Hbe4nn4caSIXklUdmfHIA_6RaUCI.jpg"
+    credit: "Photo: Foursquare user content (Australian Cafe & Bar Manly)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b5b26f3f964a520dae628e3"
 heroImage:
   url: >-
     https://fastly.4sqi.net/img/general/original/81002774_x_ji6d2X6LgOdAwWt7uq6Nx85lMltF8iAdrMgg2WF3A.jpg

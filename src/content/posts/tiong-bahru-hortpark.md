@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/85142592_Yc6cI44EuZicvPtjxhRlSq5naPDxh4x_f1ae7SxmcRE.jpg"
+    credit: "Photo: Foursquare user content (HortPark)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b399348f964a520d85d25e3"
 place:
   id: "ChIJC_hOgcgb2jERfF9HNB10xfI"
   name: "HortPark"

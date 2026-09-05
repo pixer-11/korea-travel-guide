@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 53
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7510844_qxTVtI2IRpLmlO1O_fIUGADe2OZqLZUdPahAM84asXw.jpg"
+    credit: "Photo: Foursquare user content (Sri Srinivasa Perumal Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05880ff964a520fdae22e3"
 place:
   id: "ChIJS4JLYM8Z2jERUetgLiSW_Q8"
   name: "Sri Srinivasa Perumal Temple"

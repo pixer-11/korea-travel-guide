@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/23116034_t_xxK5YI_E2zl3LajBI6Gy0wivt7FR6S0UdGDAOo7IE.jpg"
+    credit: "Photo: Foursquare user content (Hong Kong Zoological and Botanical Gardens (香港動植物公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0588d2f964a5208adb22e3"
 place:
   id: ChIJEXtKAB0BBDQReQSWfjg2NSI
   name: Hong Kong Zoological and Botanical Gardens

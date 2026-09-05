@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 75
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/40630492_3U8O1TXqwFmbgKRa6wDkb_PrR5M1OmrlmKbr_Fk_8ts.jpg"
+    credit: "Photo: Foursquare user content (Southern Branch of National Palace Museum (國立故宮博物院南部院區))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/55223174498e10c6b2bd87d8"
 place:
   id: ChIJe6XdK9SbbjQRy7gVi-RqGWk
   name: Southern Branch of the National Palace Museum

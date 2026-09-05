@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12204542_epHIjx4SwE0SyNEllh80YVdonbJK82v2gJkWftv8DWg.jpg"
+    credit: "Photo: Foursquare user content (Blake Garden (卜公花園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d6f2bc5641254819261ca93"
 place:
   id: "ChIJKcuSNHkABDQRob0wNzajxcY"
   name: "Blake Garden"

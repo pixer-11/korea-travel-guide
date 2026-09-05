@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 40
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/10002319_T0ebRsCt8gv90_vnkdDd5cDMn5nheC5wD21IJXrjWjY.jpg"
+    credit: "Photo: Foursquare user content (Al Seef Old Dubai)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6613a47d9779971d1fea3e8c"
 place:
   id: "ChIJLfaV_uRDXz4RhlF9MSPrlsw"
   name: "Dubai Old village"

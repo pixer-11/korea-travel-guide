@@ -5,6 +5,11 @@ country: Taiwan
 region: Chiayi
 category: attraction
 pubDate: '2026-08-23T08:08:04.960Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/3/35/Chiayi_Performing_Arts_Center_20090126_night.jpg"
+    credit: "Photo: Outlookxp / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Chiayi_Performing_Arts_Center_20090126_night.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/571961661_f1jEtwU_wQmIKqkNJDUurRX7R0jnG--n4mxo8R9_zVE.jpg
   credit: 'Photo: Foursquare user content (Chiayi Performing Arts Center (嘉義縣表演藝術中心))'

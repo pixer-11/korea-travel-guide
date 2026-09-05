@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/38637391_Ve_1opaLAM0YsqY4h9eg6tzUbuZhsRZD5MXBeVPU3FI.jpg"
+    credit: "Photo: Foursquare user content (Hoi An Art Gallery)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/51233956e4b05baa9ce75108"
 place:
   id: "ChIJIcamUn4OQjER9sY5e1d3zXU"
   name: "Hoi An Art Gallery"

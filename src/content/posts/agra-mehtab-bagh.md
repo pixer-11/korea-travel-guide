@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7390580_sn0sCDKh0qZ-Ni7jEpr6lEa507BNF42mwqPcFTbCGe8.jpg"
+    credit: "Photo: Foursquare user content (Mehtab Bagh)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ed522b999119575feed6630"
 place:
   id: "ChIJLVpWKd5wdDkRfKYlTOV-x5w"
   name: "Mehtab Bagh"
