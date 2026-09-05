@@ -32,10 +32,9 @@ New York, United States — 16 qualifying post(s), variants: 3
 
 Singapore, Singapore — 62 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
-  ~ Singapore 5d — minor structure change (1 slug diff), keeping existing prose
-  ✅ Singapore 5d — updated
+  = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
