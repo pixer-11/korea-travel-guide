@@ -67,6 +67,7 @@ ${itinLines.join('\n')}
 ## Travel essentials
 - [Visa & entry](${base}/essentials/visa): Visa-free rules, e-arrival cards, entry requirements
 - [Getting around](${base}/essentials/transport): Transit cards, trains, subways and map apps
+- [Luggage storage](${base}/essentials/luggage-storage): Station lockers, bag-drop apps, airport counters, hotel storage
 - [Money & costs](${base}/essentials/money): Cards vs cash, ATMs, tipping, tax refunds
 - [Best time to visit](${base}/essentials/best-time-to-visit): Seasons, weather, festivals
 - [Emergency & help](${base}/essentials/emergency): Emergency numbers and traveler help lines

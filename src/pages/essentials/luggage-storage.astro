@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import TopicHub from '../../components/TopicHub.astro';
+const topic = await getEntry('essentialsTopics', 'luggage-storage');
+---
+
+<TopicHub topic={topic} translation={null} lang="en" />

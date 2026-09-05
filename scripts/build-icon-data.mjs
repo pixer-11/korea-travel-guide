@@ -51,6 +51,8 @@ export const MAP = {
   'globe-showing-asia-australia': 'earth',
   // 2026-08-13 growth research A1: itinerary sticky "email me this itinerary".
   'incoming-envelope': 'mail',
+  // 2026-09-05: the sixth essentials topic, luggage storage.
+  luggage: 'luggage',
 };
 
 const set = require('@iconify-json/lucide/icons.json');
