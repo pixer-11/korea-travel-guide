@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -91,7 +90,7 @@ Autorickshaws aren't allowed on this stretch of South Mumbai, so a cab or a walk
 
 Walk the full loop of hedges first — the topiary animals are the postcard shot, especially with soft, low-angle light. Then head to the sea-facing viewpoint for the wide Arabian Sea panorama.
 
-- Topiary garden: elephant, giraffe, and bird shapes clipped from hedges
+- Topiary garden: elephant, camel, and bird shapes clipped from hedges
 - Sea-facing terrace: views toward the Arabian Sea and, at night, the Marine Drive shoreline
 - Children's play corner and shaded benches for a rest
 - A small boot-shaped structure that's a favorite photo spot for kids
@@ -117,4 +116,3 @@ There's no real ordering or tipping culture inside the garden itself — it's a 
 The etiquette here is simple: stay off the sculpted hedges, keep to the paved paths, and don't feed the local birds or stray animals that wander through. The most common visitor mistake is treating this as a quick five-minute photo stop and skipping Kamala Nehru Park across the street, which has its own sea-facing viewpoint and is worth combining into the same visit.
 
 Since this is one of Mumbai's most visited green spaces, don't expect solitude, especially near the topiary section. Go early, move slowly, and let the crowd build around you rather than fighting through it later in the day.
-

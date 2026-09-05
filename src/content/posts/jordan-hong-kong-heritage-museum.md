@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Getting your bearings first
@@ -62,7 +61,7 @@ The building itself gives you a hint of what's inside before you even reach the 
 
 ## Getting there from Jordan
 
-Take the Tsuen Wan Line from Jordan Station to Admiralty, then switch to the East Rail Line toward Lo Wu or Lok Ma Chau and get off at Che Kung Temple Station. From there it's a flat, well-signed 5-minute walk along the river promenade.
+Take the MTR from Jordan Station, changing lines as needed, and get off at Che Kung Temple Station. From there it's a flat, well-signed 5-minute walk along the river promenade.
 
 Alternatively, ride to Sha Tin Station and take a taxi or the free-ish local bus network the last stretch — useful if you're combining the museum with New Town Plaza shopping. Either way, expect the full trip from Jordan to run close to 40 minutes door to door.
 

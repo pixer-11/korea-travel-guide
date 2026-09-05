@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 ## What makes this Nobu different
 
 Dubai already had two Nobu rooms, but neither hangs in midair. This one sits inside The Link, the sky bridge threading through One Za'abeel that holds the Guinness World Record for longest cantilevered building. You're not just eating Nobu's black cod — you're eating it 230 metres above Za'abeel, suspended between two towers with nothing but glass between you and the city.
@@ -55,7 +54,7 @@ Because this is a newly opened, high-demand address, confirm the current menu, d
 
 ## Booking and timing
 
-Reservations move fast for a restaurant this new and this photogenic. Nobu opened here in January 2026, and demand has stayed high since — expect tables at prime sunset and dinner hours to book out days or weeks ahead.
+Reservations move fast for a restaurant this new and this photogenic. This is a recently opened location, and demand has stayed high since — expect tables at prime sunset and dinner hours to book out days or weeks ahead.
 
 Weeknight early dinner or a late lunch, if offered, will likely be your easiest way in without a long lead time. Sunset seating is the most requested slot, since the light over the skyline shifts fast in the twenty minutes around dusk. Always confirm current opening hours and table availability directly with Nobu or through One Za'abeel's channels — hours for new landmark venues can shift in their first year.
 

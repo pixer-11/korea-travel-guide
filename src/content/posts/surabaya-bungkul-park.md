@@ -107,7 +107,7 @@ Prices are budget-friendly across the board; this is street food, not a sit-down
 
 ## How to visit like a local
 
-Come at opening hours on a weekday morning if quiet matters to you; by midmorning on weekends the paths and lawns are already full. Since this is one of Surabaya's most visited public spaces, don't expect a hidden-gem experience, instead plan around the crowd rather than against it.
+Visit on a weekday morning if quiet matters to you; by midmorning on weekends the paths and lawns are already full. Since this is one of Surabaya's most visited public spaces, don't expect a hidden-gem experience, instead plan around the crowd rather than against it.
 
 Cash is king at the food stalls; small bills make transactions faster. Dress modestly if you plan to approach the tomb of Mbah Bungkul, and remove footwear if signage asks you to.
 

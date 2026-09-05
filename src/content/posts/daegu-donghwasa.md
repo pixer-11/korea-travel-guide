@@ -69,7 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Donghwasa is worth the trip
@@ -87,7 +86,7 @@ Driving is easiest if you're staying centrally, and there's paid parking near th
 The path in leads past a stream and through Bongseoru Pavilion before opening onto the main courtyard, anchored by Daeungjeon Hall. Look for:
 
 - **Daeungjeon Hall** — the main worship hall, with intricate dancheong (traditional multicolored) roof paintings
-- **Tongil Daebulsang** — the 30-metre seated stone Buddha, built as a monument to Korean reunification, visible from well below the temple
+- **Tongil Daebulsang** — a large seated stone Buddha, built as a monument to Korean reunification, visible from well below the temple
 - **Yaksayeoraebul statue** — a smaller but revered stone Buddha near the older temple grounds
 - **Palgongsan cable car** — a short walk from the temple, offering mountain views if you want to extend the visit
 
@@ -113,4 +112,3 @@ Donghwasa is a well-known stop on the Daegu temple circuit, not a hidden find, s
 ## Nearby to extend your visit
 
 Palgongsan Provincial Park stretches well beyond the temple, with hiking trails leading toward Gatbawi — another rock-carved Buddha statue perched near a mountain summit, popular with hikers seeking good fortune before exams. If you have a full day, pairing Donghwasa's low-elevation temple grounds with a hike toward Gatbawi gives a good sense of why Palgongsan matters so much to Daegu's identity, both religious and geographic.
-

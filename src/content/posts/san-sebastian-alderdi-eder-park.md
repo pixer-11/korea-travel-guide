@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What you're looking at
@@ -98,7 +97,7 @@ Because it's essentially a corridor between the old town, the Ayuntamiento, and 
 
 ## When to come
 
-This is one of San Sebastián's most-visited green spaces, rated highly by tens of thousands of reviewers, and it shows: weekends from 11am to 11pm bring dense pedestrian traffic, especially with beach crowds spilling in. If you want the gardens and palms without the crush, arrive between 7am and 8am on a weekday, or 7am to 9am on weekends. Early light also suits photos of the Ayuntamiento's facade without people crossing the frame.
+This is one of San Sebastián's most-visited green spaces, rated highly by tens of thousands of reviewers, and it shows: weekends bring dense pedestrian traffic, especially with beach crowds spilling in. If you want the gardens and palms without the crush, arrive early in the morning, before the crowds build. Early light also suits photos of the Ayuntamiento's facade without people crossing the frame.
 
 Midday in high summer means shade is scarce; the tamarind trees give some cover, but the open lawns don't. Late afternoon into evening is when the carousel draws families, so expect more noise and slower walking pace near the seafront path.
 
@@ -109,6 +108,6 @@ Treat Alderdi Eder as a five-to-thirty-minute add-on, not a standalone outing. T
 - Pair it with a Concha beach walk: exit park side, follow the promenade west
 - Combine with the Ayuntamiento's exterior and the nearby funicular to Monte Igueldo, a short walk further along the bay
 - Skip bringing food to eat on the lawns; it's a passage space, not a picnic park, and benches fill fast on weekends
-- If travelling with young kids, time your visit around the carousel's daytime hours rather than early morning, since the ride itself won't be running yet at 7am
+- If travelling with young kids, time your visit around the carousel's daytime hours rather than early morning, since the ride doesn't keep the same hours as the park
 
 Because it's unticketed and open-air, there's no real etiquette minefield here: locals and visitors alike just walk through, sit briefly on a bench, or let kids ride the carousel before continuing to the beach or old town.

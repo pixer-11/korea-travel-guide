@@ -90,12 +90,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What you're looking at
 
-The building itself is the first exhibit: a sweeping black-gold-blue roofline meant to evoke calligraphy brushstrokes, designed by Hong Kong architect Kris Yao. It sits on reclaimed wetland in Taibao City, Chiayi County, ringed by a constructed lake and terraced gardens.
+The building itself is the first exhibit: a sweeping black-gold-blue roofline meant to evoke calligraphy brushstrokes. It sits on reclaimed wetland in Taibao City, Chiayi County, ringed by a constructed lake and terraced gardens.
 
 Inside, the focus is pan-Asian rather than purely Chinese. Permanent galleries rotate through Buddhist sculpture, Ming and Qing ceramics, Tibetan Buddhist art, tea culture, and textiles from India, Persia and Southeast Asia. This is the sister site to Taipei's National Palace Museum, built to spread visitors and artifacts outside the capital.
 

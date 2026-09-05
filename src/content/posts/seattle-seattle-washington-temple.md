@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Finding it in Bellevue, not Seattle
@@ -93,7 +92,7 @@ Because the interior is reserved for church ordinances and not open to the gener
 
 ## Beating the weekend rush
 
-Weekends see steady visitor traffic from 8am to 8pm, largely families and church members attending services or bringing children to see the grounds. If you want a quieter walk, aim for a weekday morning right at opening, either the 5:30 AM slot on Tuesday, Wednesday, or Saturday, or the 6:30 AM slot Thursday and Friday.
+Weekends tend to bring more visitor traffic, largely families and church members attending services or bringing children to see the grounds. If you want a quieter walk, aim for a weekday morning right at opening, either the 5:30 AM slot on Tuesday, Wednesday, or Saturday, or the 6:30 AM slot Thursday and Friday.
 
 Early light also flatters the white exterior and grounds for photos, with fewer cars in the small parking area. Evenings near the 8:15 PM close are another lower-traffic option, especially outside the Saturday peak.
 

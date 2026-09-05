@@ -105,10 +105,10 @@ Give yourself 30 to 60 minutes for a proper walk end to end, longer if you plan 
 
 Locals here treat the park as a functional part of the day, not a sightseeing stop, and that shapes how you should approach it too.
 
-- Come early (7 to 8am) if you want the quiet, uncrowded version locals get on weekday mornings
+- Come early if you want the quiet, uncrowded version locals get on weekday mornings
 - Wear proper walking shoes; the path is long and mostly flat but exposed to sun midday
 - Bring your own water and snacks, since options directly in the park are limited
 - Avoid treating it like a swimming beach; it's better suited to walking, sitting, and watching the water
 - On weekends, expect real crowds from late morning into the evening, especially with families and groups
 
-The most common mistake visitors make is arriving at midday expecting a quiet coastal escape. Between 11am and 10pm on weekends, this is a genuinely popular local hangout, and you'll be sharing the path with a lot of other people. Plan around that rather than fighting it, and the park delivers exactly what it promises: open sea air, easy walking, and a real slice of everyday Yeosu life.
+The most common mistake visitors make is arriving at midday expecting a quiet coastal escape. On weekends, this is a genuinely popular local hangout, and you'll be sharing the path with a lot of other people. Plan around that rather than fighting it, and the park delivers exactly what it promises: open sea air, easy walking, and a real slice of everyday Yeosu life.

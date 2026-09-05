@@ -41,7 +41,6 @@ heroImage:
     top: 24
     bottom: 38
 ---
-
 The first sign you're near the festival isn't a sound — it's a color. Strings of yellow flags snap over shophouse doorways throughout Phuket Town, and vendors selling all-white ritual clothing set up folding tables on street corners days before anything official begins.
 
 ## What the festival actually is
@@ -64,7 +63,7 @@ Processions typically move at different times on different days, often starting 
 
 ## What to eat (and how to order it)
 
-Even if you skip the processions, the food is worth the trip. Street stalls across Phuket Town switch entirely to vegetarian and vegan menus for the nine days, marked by yellow flags and signs reading "เจ" (jay).
+Even if you skip the processions, the food is worth the trip. Street stalls across Phuket Town switch entirely to vegetarian and vegan menus for the nine days, marked by yellow flags and signs reading "jay".
 
 - Look for the yellow flag — it signals a jay-certified stall
 - Try khanom jeen (rice noodles with curry-style sauces made without meat)

@@ -55,12 +55,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Sai Kung East Country Park sits on a peninsula of steep granite ridges and volcanic rock east of Sai Kung town, bordered by Port Shelter and the open waters toward the Ninepin Group. It covers roughly 47 square kilometres, making it one of Hong Kong's largest country parks. Inside its boundaries: the High Island Reservoir, sections of the Maclehose Trail, and some of the territory's most photographed coastline.
 
-The park's headline feature is the Sai Kung Volcanic Rock Region, a UNESCO-recognized geological area on the East Dam of High Island Reservoir. Hexagonal rock columns, formed from cooling volcanic ash 140 million years ago, rise in tilted, folded formations along the shoreline. A short walk from the dam's car park brings you to viewing platforms overlooking them.
+The park's headline feature is the Sai Kung Volcanic Rock Region, a UNESCO-recognized geological area on the East Dam of High Island Reservoir. Hexagonal rock columns, shaped by ancient volcanic activity, rise in tilted, folded formations along the shoreline. A short walk from the dam's car park brings you to viewing platforms overlooking them.
 
 Tai Long Wan, a string of four beaches, is the park's other big draw. Reaching Sai Wan or Ham Tin usually means a hike of one to two hours from Pak Tam Au or Wong Shek, rewarded with white sand and turquoise water rare this close to a major city. Long Ke Wan, near the East Dam, is shorter to reach and often quieter on weekdays.
 

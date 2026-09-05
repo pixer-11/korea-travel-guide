@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 This is where Japanese beer actually started, and the building makes no attempt to hide its age. The Sapporo Beer Museum occupies a former sugar-then-beer factory dating to 1890, all dark red brick and iron trusses, on the northeast edge of central Sapporo in Higashi Ward.
@@ -67,7 +66,7 @@ Look for the brick smokestack visible from several blocks away; it's the easiest
 
 The self-guided route through the permanent exhibit takes most visitors about 45 minutes to an hour. Ground floor displays cover raw ingredients and the brewing process, while upper floors house historical artifacts and marketing memorabilia going back over a century.
 
-Guided tours run on a schedule and go deeper into the building's industrial history, including areas you can't reach unsupervised. Paid tastings are the real draw for most: a flight of Sapporo Classic, the Kaitakushi-era recreation brew, and seasonal limited releases, usually poured in a hall separate from the exhibit space.
+Guided tours run on a schedule and go deeper into the building's industrial history, including areas you can't reach unsupervised. Paid tastings are the real draw for most, usually poured in a hall separate from the exhibit space.
 
 - Self-guided museum: free, \~45-60 minutes
 - Guided tour: paid, check current schedule on arrival
@@ -85,11 +84,10 @@ Ordering at the tasting counter works cafeteria-style: you queue, pick your beer
 
 Sapporo Classic, brewed only in Hokkaido and rarely found elsewhere in Japan, is the one worth ordering if you try nothing else. It's noticeably different from the Sapporo Black Label sold nationwide, maltier and less bitter.
 
-For non-drinkers or kids in your group, a soft-drink option is always on the tasting menu, so nobody has to sit out. Snack pairings, often dried squid or seasoned edamame, are sold alongside the beer if you want something to nibble.
+For non-drinkers or kids in your group, a soft-drink option is always on the tasting menu, so nobody has to sit out. Snack pairings are sold alongside the beer if you want something to nibble.
 
 ## Rounding out the visit
 
 Give yourself roughly two hours total if you're doing the exhibits and a tasting; add more for a guided tour. The on-site restaurant serves Genghis Khan-style lamb barbecue (jingisukan), a Hokkaido specialty that pairs well with anything you just tasted.
 
 Sapporo Garden Park itself is worth a slow lap afterward, especially in autumn when the trees around the brick buildings turn color. It's an easy add-on to a Sapporo Station day rather than a destination requiring a special trip.
-

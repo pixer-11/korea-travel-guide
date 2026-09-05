@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -115,7 +114,7 @@ Signage is bilingual in Indonesian and English throughout most halls, though som
 
 The museum is closed every Monday, so don't build that into your Jakarta itinerary. Tuesday through Thursday it runs 8am to 6pm; Friday, Saturday, and Sunday it stays open until 8pm.
 
-Crowds build steadily through the day. On weekends, the busiest stretch runs from 11am to 7pm, when tour groups and families pack the courtyard.
+Crowds build steadily through the day, with weekends typically busier than weekdays as tour groups and families pack the courtyard.
 
 If you're visiting on a weekend, arrive right at opening — the 8am to 9am window is noticeably quieter. On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening.
 

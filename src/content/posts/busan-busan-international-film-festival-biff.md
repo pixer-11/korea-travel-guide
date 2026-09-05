@@ -36,14 +36,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What the 2026 edition looks like
 
 BIFF's 31st year runs October 6-15, 2026, a ten-day run that anchors Busan's autumn calendar. Expect 316 films from 59 countries, spanning new Asian cinema, world premieres and restored classics. This year's festival honors Michelle Yeoh as Asian Filmmaker of the Year, a slot that usually brings a retrospective screening and a public conversation. BIFF has always used the festival to spotlight Asian cinema first, Hollywood a distant second, so the crowd skews toward serious festival-goers and industry buyers over casual tourists.
 
 ## Finding the Busan Cinema Center
 
-Almost everything funnels through the Busan Cinema Center in Centum City, Haeundae-gu. The building itself is worth the trip regardless of programming: a vast cantilevered roof designed by Austrian firm Coop Himmelb(l)au, with an open-air theater underneath used for the opening and closing ceremonies. Take Busan Metro Line 2 to Centum City Station and follow exit signs toward the Busan Cinema Center; it's a short walk from the station, next to the BEXCO convention center and Shinsegae Centum City, the world's largest department store.
+Almost everything funnels through the Busan Cinema Center in Centum City, Haeundae-gu. The building itself is worth the trip regardless of programming: a vast cantilevered roof designed by Austrian firm Coop Himmelb(l)au, with an open-air theater underneath used for the opening and closing ceremonies. Take Busan Metro Line 2 to Centum City Station and follow exit signs toward the Busan Cinema Center; it's a short walk from the station, next to the BEXCO convention center and Shinsegae Centum City department store.
 
 Screenings during the festival also spread to satellite cinemas nearby, including CGV and Lotte Cinema branches in Centum City and Haeundae, so check your ticket for the exact theater, not just "BIFF."
 

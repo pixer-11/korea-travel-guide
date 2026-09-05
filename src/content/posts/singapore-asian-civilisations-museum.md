@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come down Empress Place with the Singapore River on one side and the old colonial civic district on the other, and the museum's long neoclassical facade, all columns and deep verandahs, sits like it's still waiting for cargo ships to dock. Built in the 1860s as a government office, it now holds one of Southeast Asia's best collections tracing how goods, gods and ideas moved across Asia and washed up in Singapore.
@@ -89,11 +88,11 @@ The Tang Shipwreck gallery is the one people talk about afterward. Its bowls and
 
 ## The river-facing galleries
 
-Upper floors have windows framing the river and the Fullerton Hotel across the water, a good spot to slow down between gallery rooms. Late afternoon light comes in low and warm here, especially near closing on the extended Friday evening hours.
+Upper floors have windows framing the river and the Fullerton Hotel across the water, a good spot to slow down between gallery rooms. Late afternoon light comes in low and warm here, especially near closing during extended Friday evening hours.
 
 ## Timing your visit
 
-Weekday mornings and early afternoons are your best bet, with 10am to 8pm running fairly steady on weekdays. Weekends are trickier: things stay manageable from opening until around 11am, then pick up fast.
+Weekday mornings and early afternoons are your best bet, with visitor traffic running fairly steady on weekdays. Weekends are trickier: things stay manageable from opening until around 11am, then pick up fast.
 
 Try to avoid arriving after 1pm on a Saturday or Sunday, when the museum fills and gallery pacing slows. If a weekend visit is your only option, get there right at 10am and do the ground floor first before tour groups arrive.
 
@@ -112,4 +111,3 @@ Free docent-led tours run on certain days and are worth timing your visit around
 The mistake most first-timers make is trying to see everything. Pick two or three galleries, the Tang Shipwreck room and one faith-focused gallery are a strong combination, and go deep rather than skimming every floor.
 
 Friday's extended hours to 9pm are a genuinely useful local workaround: the museum empties out noticeably after the dinner hour, and the river view from the upper windows looks better lit after dark than in daylight. Locals treat it as a post-work, pre-dinner stop rather than a weekend outing, which is exactly how you should think of it too if you want breathing room in the galleries.
-

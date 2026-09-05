@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -108,7 +107,6 @@ Because this is a heavily visited museum rather than a hidden find, the smart mo
 - **Book ahead online.** Skipping the ticket line matters most on weekend afternoons.
 - **Go early on a weekday.** The 10–11am slot is measurably the quietest; you'll get the suspended-car ramp mostly to yourself for photos.
 - **Avoid Saturday and Sunday 11am–6pm** if you can — that's the peak window locals and repeat visitors know to dodge.
-- **Payment is standard card/contactless** at the ticket desk and café, so don't worry about carrying cash.
 - **Don't rush the top floor.** Most visitors move fast through the modern design section near the end and miss it — it's where the fashion and film crossover exhibits usually live.
 - **Skip the audioguide rush at the entrance** — pick it up, then double back to the first gallery once the entrance crowd has thinned a few minutes in.
 

@@ -72,12 +72,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Tokugawaen Garden sits in Higashi Ward, a short walk from Nagoya's busier tourist circuits, and it still surprises people with how complete a world it creates in a relatively compact space. You enter through a gate that gives no real hint of what's coming, and within a few steps the traffic noise falls away behind clipped hedges and pine.
 
-The garden was built on land once belonging to the Owari Tokugawa family, the powerful branch of the Tokugawa clan that ruled this region for centuries. What you're walking through today is a modern recreation of a Edo-period strolling garden, using the same design principles: a central pond, a winding path that reveals new views at each turn, and borrowed scenery that makes the space feel larger than its actual footprint.
+The garden was built on land once belonging to the Owari Tokugawa family, the powerful branch of the Tokugawa clan that ruled this region for centuries. What you're walking through today is a modern recreation of an Edo-period strolling garden, using the same design principles: a central pond, a winding path that reveals new views at each turn, and borrowed scenery that makes the space feel larger than its actual footprint.
 
 ## The pond and its bridges
 

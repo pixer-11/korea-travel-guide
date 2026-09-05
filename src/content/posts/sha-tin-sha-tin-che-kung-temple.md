@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -113,12 +112,11 @@ Outside of that window, expect shoulder-to-shoulder crowds near the incense burn
 Given how popular this temple is, timing your visit matters more than anything else here.
 
 - Arrive at 8am on a weekend, or anytime on a weekday, to skip the crush
-- Buy a small pinwheel from the outdoor stalls for a few dollars — it's the classic take-home souvenir, not a tourist markup item
+- Buy a small pinwheel from the outdoor stalls — it's the classic take-home souvenir, not a tourist markup item
 - Bring coins or small notes for incense and donations; most stalls and offering boxes still run on cash
 - Dress modestly — shoulders and knees covered is respectful, though not strictly enforced
 - Skip photographing worshippers mid-prayer; step to the side of the main hall instead
 
-The biggest mistake visitors make is treating this purely as a photo stop and missing the ritual underneath it — the spinning windmills, the Qilin rubbing, the incense offerings, all have specific meaning locals take seriously even amid the crowds. Watch how people move through the space before you jump in, and you'll get more out of the fifteen minutes you spend at the altar than any guidebook description could give you.
+The biggest mistake visitors make is treating this purely as a photo stop and missing the ritual underneath it — the spinning windmills, the Qilin rubbing, the incense offerings, all have specific meaning locals take seriously even amid the crowds. Watch how people move through the space before you jump in, and you'll get more out of your time at the altar than any guidebook description could give you.
 
 Afterward, the Shing Mun River cycle path and Sha Tin's malls are both close enough to fold into the same half-day out.
-

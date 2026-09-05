@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You walk in expecting a quiet afternoon of static exhibits and instead get hit with noise: kids cranking gears, a real DC-3 aircraft suspended overhead, the electric hum of the energy machine winding up for its big show. This is not a look-don't-touch museum, and that's the whole point.
@@ -117,7 +116,7 @@ This is a well-known, heavily visited museum, not a quiet find — so the smart 
 - **Wear layers**: the air conditioning is strong, and older visitors especially notice the chill after Hong Kong's humidity outside
 - **Combine it with the Museum of History** next door to make the MTR trip worth a half-day rather than just an hour
 
-Most visitors pay by Octopus card or cash at the ticket counter, and there's rarely a formal queue system beyond busy weekend afternoons — just line up at the counter and expect a short wait during peak hours.
+There's rarely a formal queue system beyond busy weekend afternoons — just line up at the counter and expect a short wait during peak hours.
 
 ## Nearby to pair with
 

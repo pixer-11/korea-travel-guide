@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -58,15 +57,15 @@ It's a smaller, calmer moment than the crowds at Angkor Wat or Bayon proper, and
 
 ## What you actually see
 
-The causeway is lined with 54 statues per side, though weathering and past restorations mean some are replacements and a few are missing heads entirely. Look closely at the naga (serpent) balustrade — its body forms the railing you're walking beside.
+The causeway is lined with rows of statues on either side, though weathering and past restorations mean some are replacements and a few are missing heads entirely. Look closely at the naga (serpent) balustrade — its body forms the railing you're walking beside.
 
-The gate tower itself is narrow, just wide enough for a single vehicle, and elephants once passed through here in Angkor's heyday. Above the arch, the four faces are carved in the same style historians link to Bayon's 216 faces, likely representing Avalokiteshvara or a blend of the king's own image with the bodhisattva.
+The gate tower itself is narrow, just wide enough for a single vehicle, and elephants once passed through here in Angkor's heyday. Above the arch, the four faces are carved in the same style historians link to Bayon's many faces, likely representing Avalokiteshvara or a blend of the king's own image with the bodhisattva.
 
 Once through, you're inside the 3km-square city of Angkor Thom, with Bayon roughly 500 meters ahead.
 
 ## Getting there
 
-South Gate sits on the S Gate Bridge road inside Angkor Archaeological Park, about a 15-20 minute tuk-tuk ride from central Siem Reap. Most drivers include it automatically on the "small circuit" route alongside Angkor Wat, Bayon, and Ta Prohm.
+South Gate sits on the S Gate Bridge road inside Angkor Archaeological Park, a short tuk-tuk ride from central Siem Reap. Most drivers include it automatically on the "small circuit" route alongside Angkor Wat, Bayon, and Ta Prohm.
 
 You'll need a valid Angkor Pass (checked at park entrances) before reaching the gate — buy it at the official ticket office on the road from Siem Reap, not at the gate itself. Cycling is a genuinely good option too: the roads inside the park are flat and shaded by tall trees, and a bike lets you linger at the gate without a driver waiting.
 

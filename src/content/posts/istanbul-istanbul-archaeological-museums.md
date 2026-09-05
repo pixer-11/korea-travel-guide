@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come to the Istanbul Archaeological Museums expecting one building and find three, plus a garden scattered with column capitals and stone lions like a lapidary graveyard. The complex sits just below Topkapı Palace's outer walls in Cankurtaran, and most visitors stumble onto it almost by accident, mid-way between the palace and Gülhane Park.
@@ -113,7 +112,7 @@ The Ancient Orient Museum, smaller and often quieter, holds Hittite treaties, Ba
 
 Plan for two to three hours if you want to see all three buildings properly, less if you're only chasing the Alexander Sarcophagus. The complex connects easily to a half-day loop with Topkapı Palace and Gülhane Park.
 
-Weekends between 12pm and 6pm are the busiest stretch, per measured visitor patterns, so a weekday visit or an early morning start gives you noticeably more breathing room in front of the big sarcophagi.
+Weekends tend to be busier, so a weekday visit or an early morning start gives you noticeably more breathing room in front of the big sarcophagi.
 
 ## How to visit like a local
 

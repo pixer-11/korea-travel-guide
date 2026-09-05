@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Cheng Huang Temple sits mid-block on Wufeng North Road, its blackened incense-smoked beams and layered rooflines making it easy to spot even among Chiayi's dense shophouse streets. This is a City God temple, one of Taiwan's most architecturally important, and the soot-darkened wood alone tells you how long incense has been burning here.
@@ -90,7 +89,7 @@ Temples like this are organized, not random, and knowing the order helps you und
 - **Side halls**: subsidiary deities and ancestor tablets
 - **Rear hall**: quieter, less trafficked, good for a final look at the woodwork
 
-Most visitors move front to back in under 45 minutes, but if you're interested in temple architecture specifically, the coffered ceiling and roof decoration justify lingering closer to an hour.
+A quick walk-through can cover the main halls in a fairly short visit, but if you're interested in temple architecture specifically, the coffered ceiling and roof decoration justify lingering closer to an hour.
 
 ## When to go
 
@@ -102,9 +101,9 @@ Weekends are a different story: crowds build steadily from around 9am and stay h
 
 Nobody is going to hand you instructions, so it helps to know the basics before you're standing at the incense table.
 
-- Buy a bundle of incense sticks from the counter near the entrance, usually for a small donation
+- Incense sticks are typically available near the entrance for those who wish to make an offering
 - Light them from the communal burner, not a personal lighter, and let the smoke, not a flame, remain
-- Bow once at the main entrance before stepping over the threshold, traditionally with the right foot first
+- Bow once at the main entrance before stepping over the threshold
 - Move to the main altar first, then work outward to the side halls
 - Keep voices low; this remains an active place of worship, not a sightseeing stage
 

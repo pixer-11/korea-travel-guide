@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What's actually here
@@ -81,4 +80,4 @@ Dubai's heat dictates the rhythm here more than anything else. October through A
 
 Given how popular this park is, arriving at opening on a weekday is the single most reliable way to beat both heat and crowds. Skip Friday-Saturday afternoons entirely if quiet paths matter more to you than flea-market browsing.
 
-Bring your own water bottle; refill points exist but queue up fast near the Frame entrance. Cash and card both work at market stalls, though small vendors often prefer cash for quicker turnover.
+Bring your own water bottle; refill points exist but queue up fast near the Frame entrance. Cash and card both work at market stalls.

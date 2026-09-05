@@ -68,10 +68,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-This is the largest and oldest of Hong Kong's Tin Hau temples, dating back to 1266 according to a stone tablet on site, though the current structure was rebuilt in 1962 after fire damage. It sits on a slope overlooking Joss House Bay, the small inlet that takes its name directly from the temple. Fishing families have prayed here to Tin Hau, goddess of the sea, for protection on the water for generations.
+This is the largest and oldest of Hong Kong's Tin Hau temples, though the current structure has been rebuilt and renovated over the centuries. It sits on a slope overlooking Joss House Bay, the small inlet that takes its name directly from the temple. Fishing families have prayed here to Tin Hau, goddess of the sea, for protection on the water for generations.
 
 ## Finding your way to the temple
 
@@ -81,7 +80,7 @@ The approach itself is part of the experience: a steep staircase lined with ince
 
 ## Reading the temple grounds
 
-Inside, the smell of sandalwood incense sits thick in the low-ceilinged main hall. The temple's centrepiece is a large carved stone inscribed in 1274, one of the oldest dated inscriptions in Hong Kong, recording the visit of two Song dynasty officials. Side halls hold smaller shrines to other folk deities, including Kwun Yum and the Earth God.
+Inside, the smell of sandalwood incense sits thick in the low-ceilinged main hall. The temple's centrepiece is a large carved stone, one of the oldest dated inscriptions in Hong Kong, recording the visit of two Song dynasty officials. Side halls hold smaller shrines to other folk deities, including Kwun Yum and the Earth God.
 
 Outside, a huge incense burner stands permanently lit, and worshippers circle it clockwise before entering. A separate pavilion nearby houses a giant pair of fortune-telling blocks and a large ceremonial anchor, a nod to the temple's maritime purpose. Photography is generally fine outdoors; be more discreet inside if people are actively praying.
 

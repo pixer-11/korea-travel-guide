@@ -69,7 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You smell the incense before you see the gate. Duck off the covered arcade of Kawabata Shopping Street and Kushida Shrine appears almost suddenly — a compact stone torii, a low tiled roof, and the low murmur of a city that's been praying here since 757 CE.
@@ -88,7 +87,7 @@ The main hall is modest by shrine standards, dark wood softened by decades of vi
 
 In the corner of the grounds stands a giant ginkgo tree, reportedly centuries old, its roots buckling the stone paving. Small side shrines dot the compound, tucked between the main hall and the perimeter wall.
 
-Pick up an omikuji fortune slip at the counter near the entrance for a few hundred yen. Many visitors also buy a small omamori charm — the market-and-business ones are popular here, since Kushida has long been the patron shrine of Hakata's merchants.
+Pick up an omikuji fortune slip at the counter near the entrance. Many visitors also buy a small omamori charm — the market-and-business ones are popular here, since Kushida has long been the patron shrine of Hakata's merchants.
 
 ## Getting there
 
@@ -115,4 +114,3 @@ Kushida Shrine is genuinely popular, not a quiet back-alley find, so timing your
 - Don't just glance at the Yamakasa float case and move on — the painted figures reward a slow look, and small placards nearby explain the festival's history.
 
 The mistake most first-time visitors make is treating this as a five-minute photo stop between Canal City and Hakata Station. Give it the fuller half hour, and it earns the detour.
-

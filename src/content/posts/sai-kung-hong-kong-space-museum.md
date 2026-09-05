@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Finding the egg on the harbourfront
@@ -106,7 +105,7 @@ Sky Show tickets are sold separately from general admission and can sell out for
 
 ## Getting there and paying your way
 
-The museum sits a short walk from Tsim Sha Tsui MTR station (East Rail Line and Tsuen Wan Line), using exits E or J, then following signs toward the Cultural Centre and Star Ferry pier. If you're coming from Hong Kong Island, the Star Ferry from Central drops you almost at the museum's front steps.
+The museum sits a short walk from Tsim Sha Tsui MTR station, then following signs toward the Cultural Centre and Star Ferry pier. If you're coming from Hong Kong Island, the Star Ferry from Central drops you almost at the museum's front steps.
 
 Admission and Sky Show tickets are typically bought at the counter or via the museum's ticketing machines, with both cash and card accepted. Prices are modest by museum standards, but confirm current rates before you go since they do get revised.
 

@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You reach Fort Siloso by walking, cycling, or taking the free Sentosa Bus A to the very end of Siloso Road, where the jungle canopy thickens and the coastline juts out toward the Strait of Singapore. This is the only fully preserved coastal fort left in the country, built by the British in the 1880s and expanded through both World Wars to guard the harbour approach.
@@ -99,7 +98,7 @@ Weekday visits any time between 9am and 6pm tend to stay quiet throughout, since
 
 ## Getting around like a regular visitor
 
-Most people underestimate how large the site is and try to rush it in under an hour. Give yourself closer to two, and use the free intra-fort tram or the Skywalk elevators rather than climbing every set of stairs twice.
+Most people underestimate how large the site is and try to rush it in under an hour. Give yourself closer to two, and use the Skywalk elevators rather than climbing every set of stairs twice.
 
 Wear closed shoes rather than sandals: the tunnel floors and gun platforms are uneven concrete, and some sections are outdoors with tree roots crossing the path. Water refill points are limited, so carry a bottle rather than relying on finding a kiosk mid-route.
 

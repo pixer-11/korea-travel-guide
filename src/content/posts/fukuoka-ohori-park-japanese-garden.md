@@ -92,7 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You step through a plain wooden gate off the main park path, and the traffic noise from Ohori Park's outer loop just falls away. Inside, gravel paths curve around a series of ponds, clipped pines lean at practiced angles, and a stone lantern marks the turn toward the teahouse. It's a pocket garden, only about 1.2 acres, but it's laid out so you can't see the whole thing at once — every bend hides the next view.
@@ -109,7 +108,7 @@ The layout rewards slow walking rather than a quick loop. Expect these features 
 
 - A central pond with koi, crossed by stepping stones and a low bridge
 - A dry rock-and-gravel section representing mountains and water
-- A traditional teahouse where you can sit and order matcha with a small seasonal sweet
+- A traditional teahouse where you can sit and take in the garden view
 - Manicured pines, azaleas, and maples that shift the garden's palette through the seasons
 - Stone lanterns and a raked-sand area near the garden's quieter back corner
 
@@ -138,4 +137,3 @@ Take your shoes off if the teahouse floor requires it, and keep voices low near 
 It's well-known enough to draw a steady stream of visitors, but it's not overwhelmed the way some Kyoto gardens are. Come outside the weekend midday peak and you'll often have entire stretches of path to yourself. Combine it with a walk around the main Ohori Park lake before or after — locals use that loop for jogging and sunset walks, and it makes the contrast with the walled garden feel sharper.
 
 Bring a little extra time to just sit. The teahouse seating facing the pond is the best few minutes of the whole visit, and it's easy to rush past it if you're moving on to the castle ruins or museum next door.
-

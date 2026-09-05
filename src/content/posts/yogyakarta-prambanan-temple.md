@@ -71,12 +71,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Prambanan pulls you in
 
-You see the spires before you see the gate. Rising in a jagged grey silhouette above the palm trees of Sleman, the tallest tower hits 47 metres, and it's stacked with hundreds more that follow the same steep, tapering shape.
+You see the spires before you see the gate. Rising in a jagged grey silhouette above the palm trees of Sleman, the tallest tower rises far above the rest, and it's stacked with hundreds more that follow the same steep, tapering shape.
 
 This is a 9th-century Hindu temple complex, one of the largest in Southeast Asia. Three main shrines face east, dedicated to Brahma, Vishnu, and Shiva, the last one holding a chamber where a Shiva statue still stands watch.
 
@@ -106,7 +105,7 @@ If you have energy left, the Ramayana Ballet stage sits within walking distance,
 
 Early morning is best, both for light and for temperature. The stone has no shade cover, and by 11am the courtyard turns into a heat trap.
 
-Weekday mornings from 7am to 9am are the quietest stretch of the whole week here. On weekends, that window shrinks to 7am–8am before crowds build fast.
+Weekday mornings are the quietest stretch of the week here. On weekends, that window shrinks to 7am–8am before crowds build fast.
 
 Avoid weekend visits between 9am and 4pm if you can help it — that's when tour buses arrive en masse and the walkways around the main shrines bottleneck. A weekday visit generally beats any weekend slot.
 
@@ -119,4 +118,3 @@ Buy tickets online in advance where possible — the counter queue at the gate c
 Dress modestly out of respect for the site's continued religious use — loose trousers or a long skirt save you from needing the loaned sarong. Sun hats and light long sleeves work better here than sunscreen alone, since there's no shade once you're among the temples.
 
 The mistake most visitors make is treating this as a quick photo stop. Give it two to three hours minimum: one for the main shrines, another to walk the outer courtyards and reliefs slowly enough to actually follow the carved story around each base.
-

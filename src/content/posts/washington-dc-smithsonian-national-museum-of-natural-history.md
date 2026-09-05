@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel the scale of this place before you even read a label. Under the rotunda, a 13-foot African bush elephant faces the entrance, tusks curved, standing on a base that's been there since 1959. It's the kind of first impression that tells you exactly what the Smithsonian National Museum of Natural History is about: big, old, and unapologetically full of stuff.
@@ -85,10 +84,10 @@ Street parking around the Mall is scarce and metered; most visitors take the tra
 
 Give yourself two to three hours minimum; a full visit with kids in tow can easily stretch past four.
 
-- **Fossil Hall – Deep Time**: a renovated dinosaur wing with a real T. rex skeleton devouring a Triceratops, plus fossils tracing 3.7 billion years of life.
-- **Hope Diamond**: the 45.52-carat blue diamond anchors the Harry Winston Gallery, alongside a rotating cast of rare gems and minerals.
+- **Fossil Hall – Deep Time**: a dinosaur wing with mounted skeletons, plus fossils tracing 3.7 billion years of life.
+- **Hope Diamond**: a famous blue diamond anchors the Harry Winston Gallery, alongside a rotating cast of rare gems and minerals.
 - **Ocean Hall**: a 45-foot North Atlantic right whale model hangs overhead, with tanks and specimens covering deep-sea life.
-- **Butterfly Pavilion**: a living exhibit with free timed-entry on Tuesdays, otherwise a small paid ticket — worth checking current details at the museum's info desk.
+- **Butterfly Pavilion**: a living exhibit that may require a separate ticket — worth checking current details at the museum's info desk.
 - **Objects of Wonder** and the **Mammal Hall**: quieter rooms that reward visitors who wander past the headline exhibits.
 
 The building itself, a Beaux-Arts limestone landmark finished in 1911, is worth a slow look too — the rotunda's dome and marble columns feel more like a cathedral than a museum lobby.

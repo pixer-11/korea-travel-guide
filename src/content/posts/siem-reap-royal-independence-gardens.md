@@ -100,7 +100,7 @@ Give yourself some time for a proper wander. Highlights include:
 - The independence monument itself, a stepped stupa-like structure that lights up after dark
 - Lotus ponds with wooden footbridges, good for unhurried photos
 - Shaded lawns where local families picnic on weekend evenings
-- Small vendor carts near the entrances selling coconuts, grilled corn, and iced coffee
+- Small vendor carts near the entrances
 
 There's no formal signage explaining the history in depth, so it helps to read up on Cambodia's 1953 independence beforehand if you want context rather than just scenery.
 
@@ -117,7 +117,7 @@ Cambodians treat this park as a genuine neighborhood green space, not a ticketed
 - Wear light, modest clothing; it's a public park near several religious monuments, not a beach.
 - Bring small riel or dollar notes if you want a coconut or snack from a cart vendor; card isn't an option here.
 - Join the crowd rather than photograph it: evening group aerobics sessions are open for anyone to fall in with.
-- Skip the 4pm-10pm weekend rush if you'd rather have the ponds to yourself; early morning is the true local's hour.
+- Skip the weekend afternoon and evening rush if you'd rather have the ponds to yourself; early morning is the true local's hour.
 - Don't expect English signage or a gift shop; this is civic infrastructure, not a tourist installation, and that's exactly its appeal.
 
 Pair it with a stop at nearby Wat Preah Prom Rath or a stroll along the Siem Reap River, both an easy tuk-tuk ride away, to round out a half-day loop that never touches the main temple crowds.

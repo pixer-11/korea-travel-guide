@@ -97,7 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -126,7 +125,7 @@ Give yourself two to three hours to see two exhibitions properly. Tickets are us
 
 ## When to go
 
-Every day here runs the same hours: 10am to 7pm, with last admission typically an hour before close — worth confirming online since ticketed exhibitions sometimes vary.
+Every day here runs the same hours: 10am to 7pm — worth confirming online since ticketed exhibitions sometimes vary.
 
 Crowd patterns are consistent and worth planning around. On weekdays, the calmest window is 10am to noon, right after opening. On weekends, you get an even tighter lull, just 10am to 11am, before things fill in fast.
 

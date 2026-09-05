@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What you're actually walking into
@@ -104,7 +103,7 @@ It has its own gate, its own separate hours, and typically charges a modest admi
 
 ## Beating the weekend rush
 
-This is one of Seattle's most-visited outdoor attractions, and it does not stay quiet for long on weekends. Crowd patterns here are consistent: Saturdays and Sundays fill up between 11am and 6pm, especially near Azalea Way and the Visitor Center parking lot.
+This is one of Seattle's most-visited outdoor attractions, and it does not stay quiet for long on weekends, especially near Azalea Way and the Visitor Center parking lot.
 
 If you want the paths to yourself, arrive right at opening. Weekday mornings run steady and calm throughout the full 8am-8pm window, with none of the weekend surge.
 

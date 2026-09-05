@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Getting your bearings first
@@ -106,9 +105,9 @@ Wear shoes you don't mind sweating in. Even shaded sections stay warm and humid 
 
 ## When to go
 
-The park is open 24 hours, every day, so there's no gate to time your visit around. On weekends, the quietest stretch runs 7am to 9am, before the day's heat and the walking groups build up.
+The park is open 24 hours, every day, so there's no gate to time your visit around. On weekends, mornings tend to be quieter, before the day's heat and the walking groups build up.
 
-Crowds pick up steadily from mid-morning and stay busy right through to 11pm on weekends, since the boardwalks and viewing decks are lit and popular with evening joggers and photographers. If you want the Sky Garden view without other tripods in your shot, early morning is your best bet.
+Crowds pick up steadily from mid-morning and into the evening on weekends, since the boardwalks and viewing decks are lit and popular with evening joggers and photographers. If you want the Sky Garden view without other tripods in your shot, early morning is your best bet.
 
 Midweek mornings tend to be calmer still, though exact quiet hours on weekdays aren't tracked as precisely as weekends.
 

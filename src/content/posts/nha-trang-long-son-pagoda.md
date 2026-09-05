@@ -85,12 +85,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Long Son Pagoda doesn't try to be subtle. From the road on Đ. 23 Tháng 10, the first thing you register is scale: a dragon-flanked staircase climbing a hillside behind the temple roofs, leading your eye up to a huge white concrete Buddha seated against the sky.
 
-That statue, roughly 24 meters tall and visible from much of western Nha Trang, is the reason most people come. The pagoda itself dates to the late 19th century and has been rebuilt more than once, most recently after storm damage in the mid-20th century, so what you see at ground level is a working, active temple rather than a museum piece.
+That statue, a towering presence visible from much of western Nha Trang, is the reason most people come. The pagoda itself dates to the late 19th century and has been rebuilt more than once, most recently after storm damage in the mid-20th century, so what you see at ground level is a working, active temple rather than a museum piece.
 
 ## The ground-level temple
 
@@ -100,7 +99,7 @@ Inside, a large seated Buddha presides over the altar, and you'll usually find m
 
 ## Climbing to the giant Buddha
 
-The staircase up the hill is the main event and it's steeper than it looks from below. Expect around 150 steps to reach the white Buddha statue, with a few landings along the way where smaller shrines and reclining Buddha figures give you an excuse to pause.
+The staircase up the hill is the main event and it's steeper than it looks from below. Expect a long series of steps to reach the white Buddha statue, with a few landings along the way where smaller shrines and reclining Buddha figures give you an excuse to pause.
 
 - Wear shoes you can actually climb steps in; flip-flops get slippery on worn stone
 - Bring water, especially midday, since there's little shade on the open staircase
@@ -112,7 +111,7 @@ At the top, the statue's base offers the pagoda's best panorama: red-tiled roofs
 
 Long Son Pagoda is officially open around the clock, but there's a practical difference between "open" and "worth visiting." The statue and stairs are a daylight experience; after dark there's little lighting for the climb.
 
-The site is genuinely one of Nha Trang's most-visited landmarks, so weekends between 8am and 6pm bring steady tour groups and can make the staircase feel congested. If you want it calmer, aim for weekday evenings between 9pm and 11pm, or weekends from 8pm to 11pm, when foot traffic drops off noticeably, though you'll be viewing the grounds rather than climbing in full light.
+The site is genuinely one of Nha Trang's most-visited landmarks, so weekends between 8am and 6pm bring steady tour groups and can make the staircase feel congested. If you want it calmer, aim for evenings after the tour groups clear out, when foot traffic drops off noticeably, though you'll be viewing the grounds rather than climbing in full light.
 
 For a daytime visit without the peak squeeze, arriving right after sunrise usually beats both the heat and the tour buses that start rolling in mid-morning.
 

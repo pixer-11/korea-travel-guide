@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Waterloo Street's main draw
@@ -92,7 +91,7 @@ Devotees queue with bundles of incense sticks, light them at the outdoor burners
 
 ## When to go
 
-Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays stay manageable throughout, but weekends are a different story: 10am to 5pm is the peak crush, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, weekend mornings between 7am and 8am are the narrow window before the queues build.
+Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays stay manageable throughout, but weekends are a different story, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, arrive shortly after opening on a weekend before the queues build.
 
 ## Moving through the crowd
 

@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Blake Garden sits at the point where Kui In Fong meets Po Hing Fong, a pocket of paved terraces stepped into the slope above Hollywood Road. It's not a destination anyone flies to Hong Kong for, and that's exactly the point. This is a park built for the people who live on the hill above it, and visiting it means slowing down to their pace for half an hour.
@@ -96,7 +95,7 @@ By late morning the court sees a shift toward domestic helpers with young childr
 
 ## When to actually show up
 
-The measured crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before the morning exercise groups thin out and before any midday lunch-break foot traffic builds.
+The measured crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before any midday lunch-break foot traffic builds.
 
 Weekends compress that calm window further, to roughly 8am and 9am, after which local families start arriving for the play area. Avoid Saturday and Sunday afternoons between 4pm and 9pm if you want the space to yourself; that's when it's busiest, as after-work and after-school crowds converge.
 
@@ -121,4 +120,3 @@ Locals treat the benches on the upper terrace as shared seating, so it's normal 
 Blake Garden works best as a five-minute detour rather than a headline stop, folded into a longer walk through Sheung Wan's antique and dried-seafood streets. Man Mo Temple on Hollywood Road is a short walk downhill and east, one of the district's most-visited religious sites.
 
 The PMQ creative complex and the Ladder Street steps themselves are also within easy reach on foot. Because the park is small, most visitors spend 15 to 30 minutes here at most, enough time to sit, take in the terraced layout, and move on.
-

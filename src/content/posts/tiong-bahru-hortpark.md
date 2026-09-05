@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 HortPark sits on a sloped stretch of land off Hyderabad Road, wedged between the Alexandra Arch and the start of the Southern Ridges trail system. It doesn't look like a typical Singapore park from the entrance: no single sweeping lawn, but a series of themed garden "rooms" stepped down the hillside, each demonstrating a different landscaping style. That layout is deliberate. This is the National Parks Board's hub for home gardening ideas, and it's built to be walked slowly, plot by plot.
@@ -87,13 +86,13 @@ Near the main building is a gardening retail shop selling pots, tools, seeds, an
 
 ## Eating among the greenery
 
-The park's restaurant serves European food in a setting that's unusually elegant for a public park eatery, with outdoor seating that looks straight onto the landscaped slopes. It's a reasonable reason to linger past the garden-walking portion of your visit, especially if you've timed your trip for a late morning or early evening. Expect mid-range pricing rather than hawker-stall rates, in keeping with the setting.
+The park's restaurant offers a sit-down menu in a setting that's unusually elegant for a public park eatery, with outdoor seating that looks straight onto the landscaped slopes. It's a reasonable reason to linger past the garden-walking portion of your visit, especially if you've timed your trip for a late morning or early evening. Expect mid-range pricing rather than hawker-stall rates, in keeping with the setting.
 
 ## Timing your visit around the crowds
 
-HortPark is open daily from 6am to 11pm, and unlike a lot of Singapore's parks, it stays genuinely calm across most of that window. Both weekdays and weekends run quiet from 7am right through to closing at 11pm, which is unusual and worth building a trip around. The exception is the weekend stretch between 10am and 9pm, when day-trippers and families heading toward the Southern Ridges trails pass through in bigger numbers.
+HortPark is open daily from 6am to 11pm, and unlike a lot of Singapore's parks, it stays genuinely calm across most of that window. Weekdays run quiet from 7am right through to closing at 11pm. The exception is the weekend stretch between 10am and 9pm, when day-trippers and families heading toward the Southern Ridges trails pass through in bigger numbers.
 
-If you want the plots largely to yourself, an early weekday morning or a evening visit after 9pm on a weekend both fit comfortably within the quiet window. Because HortPark isn't tucked away, it draws a steady, well-known crowd rather than being an under-the-radar find, so treat the busy midday weekend slot as one to route around rather than something you'll have to yourself.
+If you want the plots largely to yourself, an early weekday morning or an evening visit after 9pm on a weekend both fit comfortably within the quiet window. Because HortPark isn't tucked away, it draws a steady, well-known crowd rather than being an under-the-radar find, so treat the busy midday weekend slot as one to route around rather than something you'll have to yourself.
 
 ## Getting there and connecting onward
 

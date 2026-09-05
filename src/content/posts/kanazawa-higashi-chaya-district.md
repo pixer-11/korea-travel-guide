@@ -85,7 +85,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You turn off a fairly ordinary street and the pavement changes first — smooth wood-toned tiles replacing concrete, and suddenly the buildings lean in close, dark timber lattices called kimusuko screening every window.
@@ -113,7 +112,7 @@ Budget an hour just for the two teahouse museums if you want to sit and look pro
 
 From Kanazawa Station, hop on the Kanazawa Loop Bus or a city bus toward Hashiba-cho, then walk about five minutes across the Asano River via Tenjinbashi bridge.
 
-A taxi from the station runs roughly 10–15 minutes and costs a bit more but skips any bus-timing guesswork. Either way, the river crossing itself is worth slowing down for — willow trees lean over the water and the district's rooftops come into view gradually rather than all at once.
+A taxi from the station costs a bit more but skips any bus-timing guesswork. Either way, the river crossing itself is worth slowing down for — willow trees lean over the water and the district's rooftops come into view gradually rather than all at once.
 
 ## When to go
 
@@ -127,7 +126,7 @@ Early morning, especially before 9am, gives you soft light on the dark wood faca
 
 Higashi Chaya draws heavy tour traffic, so plan around the crowd rather than through it. This is not an under-the-radar spot — it's one of Kanazawa's most-visited sights, and the main street reflects that on weekend afternoons.
 
-- **Time it right**: arrive right at 7am, or after 4pm, to have the lanes mostly to yourself
+- **Time it right**: arrive early morning or after the shops close, to have the lanes mostly to yourself
 - **Pay in cash for small shops**: many gold-leaf and craft stores are cash-friendly but not all take cards, so carry yen
 - **Don't photograph private residences or working teahouses' interiors** without permission — most ochaya here are still lived-in or operating businesses, not open-air museums
 - **Skip the group-tour crush**: if you arrive to a wall of people, detour into the quieter side lanes one block back from Higashiyama-Chayagai — same architecture, far fewer people

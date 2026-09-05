@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You wouldn't expect a serious art museum tucked inside Nusa Dua's manicured resort grid, which is exactly why Museum Pasifika Bali catches people off guard. It sits inside the ITDC/BTDC tourism complex in Benoa, surrounded by five-star hotels and golf courses, in a Balinese-Javanese building with courtyards, tiled roofs and stone carvings that feel more temple than gallery.
@@ -75,7 +74,7 @@ Inside, the cool tile floors and quiet air-conditioned rooms are a relief from t
 
 ## Why this museum is worth your time
 
-Eleven pavilions hold roughly 600 works spanning centuries and a dozen countries. You'll move from Balinese masters like Le Mayeur and Affandi to Javanese court paintings, then into rooms of Pacific tribal art, Chinese porcelain and European Impressionist-influenced pieces painted by artists who settled on the island.
+A series of pavilions hold a substantial collection of works spanning many decades and a wide range of countries across the Asia-Pacific region. You'll move from Balinese masters like Le Mayeur and Affandi to Javanese court paintings, then into rooms of Pacific tribal art, Chinese porcelain and European Impressionist-influenced pieces painted by artists who settled on the island.
 
 The collection traces how outsiders — Dutch colonials, wandering painters, Pacific traders — shaped and were shaped by Balinese culture. A courtyard pond with a large mural backdrop is one of the most photographed corners, but the smaller side rooms of ritual objects and woodcarvings are where you'll want to slow down.
 

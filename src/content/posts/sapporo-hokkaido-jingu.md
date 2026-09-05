@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Walk through the first torii gate at Hokkaido Jingu and the city noise from Sapporo's grid streets drops away almost immediately. Tall Katsura and oak trees line the approach, planted when the shrine was founded in 1869 as Sapporo's guardian shrine for the newly settled island of Hokkaido. The gravel path bends twice before the main hall comes into view, a deliberate layout meant to slow your steps and clear your head before you arrive.
@@ -97,7 +96,7 @@ If you have energy left, the trailhead for Mt. Maruyama starts near the shrine a
 
 Hokkaido Jingu is open every day from 6am to 5pm, with no weekly closure. Given how popular it is, timing your visit matters more than at a quieter shrine.
 
-On weekdays, the whole day from 7am to 5pm stays relatively calm, so there's no need to rush. Weekends are different: arrive between 7am and 8am if you want the grounds close to empty, because crowds build steadily from 9am and stay heavy until around 4pm.
+On weekdays, the whole day from 7am to 5pm stays relatively calm, so there's no need to rush. Weekends are different: going early in the morning is your best bet for a quieter visit, since crowds tend to build up as the day goes on.
 
 New Year's is the exception to all of this. Hatsumode, the first shrine visit of the year, draws enormous lines here in early January, and normal crowd patterns don't apply.
 

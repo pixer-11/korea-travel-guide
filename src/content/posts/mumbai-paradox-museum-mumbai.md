@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -83,7 +82,7 @@ It's one of the more consistently well-rated attractions in South Mumbai, and th
 
 ## Getting there
 
-The museum sits inside Shreeniwas House on H Somani Marg, in the Fort area, right behind Bombay Gymkhana and near John Cathedral School at Azad Maidan.
+The museum sits inside Shreeniwas House on H Somani Marg, in the Fort area, right behind Bombay Gymkhana and near Azad Maidan.
 
 Churchgate and CST (Chhatrapati Shivaji Maharaj Terminus) railway stations are both a short taxi or auto ride away, making this an easy add-on if you're already exploring Fort's colonial-era streets.
 

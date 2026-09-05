@@ -30,10 +30,9 @@ heroImage:
     x: 45
     'y': 45
 ---
-
 ## Why Zest matters right now
 
-Zest is the bar Seoul's drinks scene keeps pointing to. On Asia's 50 Best Bars 2026 list it held the No. 2 spot for a third consecutive year, and it's now been named Best Bar in Korea for a fourth straight year running. That's not a fluke — it's a bar that's been consistently at the top of the regional conversation for half a decade.
+Zest is the bar Seoul's drinks scene keeps pointing to. On Asia's 50 Best Bars 2026 list it held the No. 2 spot for a third consecutive year. That's not a fluke — it's a bar that's been consistently at the top of the regional conversation for half a decade.
 
 What sets it apart is its zero-waste ethos. Rather than treating sustainability as a marketing line, Zest builds it into the actual craft: house-made sodas, house-distilled spirits, and citrus, herbs, and off-cuts that would normally hit the bin instead going into syrups, cordials, and garnishes. The signature is the Jeju Garibaldi, built on hallabong — the thick-skinned, sweet Jeju tangerine — reworked into a bar classic that tastes distinctly of Korea rather than a copy-paste of an Italian original.
 

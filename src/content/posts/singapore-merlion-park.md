@@ -81,7 +81,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You round the corner from Fullerton Road and there it is: a lion's head grafted onto a fish's body, spitting a steady arc of water into Marina Bay, with the toothed skyline of the Central Business District rising behind it. This is the image that stands in for the entire country on postcards, and standing in front of the real thing, at nearly 8.6 metres tall and cast in solid concrete-fibreglass, it's bigger and stranger than photos suggest.
@@ -92,17 +91,17 @@ Merlion Park is small, more a landscaped waterfront pocket than a park in the le
 
 The Merlion was designed in 1964 as a logo for the national tourism board, not as ancient mythology. The fish body nods to Singapore's original name, Temasek, "sea town" in old Javanese, and the lion head to the legend of a prince who spotted a lion on the island and named it Singapura, "lion city".
 
-A smaller second Merlion, about 2 metres tall, sits just behind the main statue on a raised platform, a leftover from when the original spot was moved to make way for the Esplanade bridge. Most visitors miss it entirely because every camera is pointed at the big one.
+A smaller second Merlion sits just behind the main statue on a raised platform, a leftover from when the original spot was moved to make way for the Esplanade bridge. Most visitors miss it entirely because every camera is pointed at the big one.
 
 ## The crowd math
 
-This is one of the most visited single spots in Singapore, and it never closes, which is exactly why timing matters. Weekend afternoons and evenings, roughly 11am to 11pm, are consistently the busiest stretch, with tour groups arriving in waves and the waterfront promenade filling shoulder to shoulder.
+This is one of the most visited single spots in Singapore, and it never closes, which is exactly why timing matters. Weekend afternoons and evenings are consistently the busiest stretch, with tour groups arriving in waves and the waterfront promenade filling shoulder to shoulder.
 
-If you want the statue without twenty strangers in your frame, go early. Weekdays the calm window runs 7am to 9am; on weekends it narrows to 7am to 8am, right as the sky is lightening but before breakfast tour buses unload. Early morning light also does something the statue can't manage at noon: it turns the water spout gold and softens the glare off the Marina Bay Sands glass.
+If you want the statue without twenty strangers in your frame, go early, right as the sky is lightening but before breakfast tour buses unload. Early morning light also does something the statue can't manage at noon: it turns the water spout gold and softens the glare off the Marina Bay Sands glass.
 
 ## The 9pm water-and-light rhythm
 
-Come back after dark and the park changes character entirely. The Merlion is lit at night, and most evenings the Marina Bay Sands light and laser show, Spectra, runs from the opposite shore, visible clearly from the park's railing without paying for a rooftop bar seat.
+Come back after dark and the park changes character entirely. The Merlion is lit at night, and the Marina Bay Sands light and laser show, Spectra, runs from the opposite shore, visible clearly from the park's railing without paying for a rooftop bar seat.
 
 Show times shift periodically, so check the current schedule before you plan around it, but arriving 15–20 minutes early to claim railing space at the water's edge is the local move, since the front row fills up fast once the music starts.
 

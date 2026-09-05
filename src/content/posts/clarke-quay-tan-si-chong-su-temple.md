@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You won't stumble on Tan Si Chong Su by accident. It sits a short walk inland from the Clarke Quay riverfront, on Magazine Road, in a pocket of the city that most visitors walk straight past on their way to dinner.
@@ -109,13 +108,13 @@ It's compact. You can see everything in 20 to 30 minutes, though it rewards slow
 
 From Clarke Quay MRT (North East Line), take Exit E and walk north along Merchant Road before cutting onto Magazine Road. It's roughly a 5 to 8 minute walk.
 
-You'll pass the river, a run of shophouses, and eventually the temple's understated frontage on your left. There's no signage screaming for attention here, so keep an eye on street numbers as you approach number 15.
+You'll pass the river, a run of shophouses, and eventually the temple's understated frontage on your left. There's no signage screaming for attention here, so keep an eye out as you approach — it's easy to walk past without noticing.
 
 ## When to go
 
 The temple keeps consistent hours every day, 9am to 9pm, which makes it easy to slot into a Clarke Quay afternoon or evening.
 
-On weekends, it stays calm across the whole 10am–9pm stretch, so there's no real need to plan around a lull. If you want it at its most peaceful, avoid the 6pm–9pm evening window, when a small uptick in visitors and worshippers changes the rhythm.
+If you want it at its most peaceful, avoid the 6pm–9pm evening window, when a small uptick in visitors and worshippers changes the rhythm.
 
 Late morning through early afternoon tends to give you the best light for the courtyard carvings, since the sun sits higher and reaches into the inner hall.
 
@@ -134,4 +133,3 @@ There's no entry fee and no ticket counter, so no cash is needed unless you choo
 Because it's still under the radar for most travelers passing through Clarke Quay, you're unlikely to compete with tour groups here. That's part of the appeal — a quiet, unhurried look at a piece of Singapore's Hokkien immigrant history, a few minutes' walk from the crowds along the river.
 
 Locals who do stop by tend to be clan descendants visiting ancestral tablets, so keep interactions respectful and brief if you cross paths with them. Treat it as a pause between riverside stops rather than a headline destination, and it earns its place on the itinerary easily.
-

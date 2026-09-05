@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's happening on September 10
 
 Jay-Z brings a single stadium date to France in 2026, landing at the Stade de France in Saint-Denis on September 10. The show marks the 30th anniversary of "Reasonable Doubt," the 1996 debut that set up his run as one of hip-hop's defining figures and a artist with well over 100 million albums sold worldwide.
@@ -75,7 +74,7 @@ Third-party resale sites and social media listings are where inflated prices and
 
 ## Making a night of it in Saint-Denis
 
-Saint-Denis itself is worth an hour before or after the show. The Basilica of Saint-Denis, burial site of nearly every French king from the 10th century onward, is a short walk from the stadium and open to visitors most days.
+Saint-Denis itself is worth an hour before or after the show. The Basilica of Saint-Denis, burial site of nearly every French king from the 10th century onward, is a short walk from the stadium.
 
 The area around the stadium fills with food trucks and pop-up bars on show nights, but options are limited and lines build fast. Eating in central Paris beforehand, then taking the RER up just ahead of doors, is the more reliable move than hoping to grab dinner near the venue itself.
 
@@ -83,5 +82,4 @@ The area around the stadium fills with food trucks and pop-up bars on show night
 
 Stadium shows here run on a strict bag-and-security policy: small bags only, no professional cameras, and a search at every gate. Check your ticket for your exact entrance number well before you leave home, since gates correspond to specific seating blocks and walking to the wrong one costs you time.
 
-Cashless payment is standard at Stade de France concessions now, so a card or phone wallet covers food and merchandise without needing euros in hand. For the exit, the crowd empties toward both RER stations simultaneously; if you're not in a rush, letting the first wave clear before you move toward the platforms usually means an easier ride back into Paris.
-
+Bring a card or phone wallet for food and merchandise, just in case cash isn't accepted. For the exit, the crowd empties toward both RER stations simultaneously; if you're not in a rush, letting the first wave clear before you move toward the platforms usually means an easier ride back into Paris.

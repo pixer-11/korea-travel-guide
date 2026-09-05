@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 50
 ---
-
 ## What Terracotta actually is
 
 Terracotta – Osteria con Brace is built around one idea: the *brace*, the live wood-and-charcoal grill, sits at the center of the room rather than hidden in a back kitchen. It's the newest project from the team behind Osteria della Parola and Caligola, two names already known in Rome for treating traditional Italian cooking with a chef's precision rather than a tourist-menu shortcut. Terracotta extends that same instinct into fire cooking.
@@ -55,7 +54,7 @@ Outdoor seating extends the space for warmer months, which matters in Rome from 
 
 ## Booking a table
 
-Terracotta opened in 2026 and has already built a large following in a neighborhood that doesn't get much tourist overflow, which tells you the pull is coming from Romans themselves. That combination, a small-ish room and strong early demand, means walk-ins are a gamble, especially Thursday through Saturday evenings.
+Terracotta is a recent opening and has already built a large following in a neighborhood that doesn't get much tourist overflow, which tells you the pull is coming from Romans themselves. That combination, a small-ish room and strong early demand, means walk-ins are a gamble, especially Thursday through Saturday evenings.
 
 - Reserve ahead by phone or through the restaurant's official channels; don't count on a same-day table
 - Ask specifically about outdoor seating if you want it, since it's likely allocated separately from the indoor room

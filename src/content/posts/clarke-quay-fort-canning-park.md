@@ -119,7 +119,7 @@ Fort Canning is extremely popular, so timing your visit matters more than findin
 - Avoid midday in the dry season, when the exposed lawn areas get intensely hot
 - If visiting for an event, arrive early since seating on the Green fills up fast
 
-There's no admission fee and no single "correct" entrance, so locals treat it as a cut-through as much as a destination, a shortcut from the Singapore River up toward Orchard Road on foot. Because it's Open 24 hours, some residents use the lower paths for early runs before the heat sets in, but the upper historical areas are really made for daylight visits when you can actually see the signage and carvings.
+There's no admission fee and no single "correct" entrance, so locals treat it as a cut-through as much as a destination, a shortcut from the Singapore River up toward Orchard Road on foot. Because it's open 24 hours, some residents use the lower paths for early runs before the heat sets in, but the upper historical areas are really made for daylight visits when you can actually see the signage and carvings.
 
 Tourists' most common mistake is treating it as a quick 15-minute photo stop. The park rewards a slower pace: the layered history only clicks into place if you actually read the plaques near the Fort Gate and Keramat rather than walking straight past them toward the skyline views.
 

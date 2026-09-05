@@ -100,7 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Pura Tirta Empul matters
@@ -111,7 +110,7 @@ This is Bali's spring temple, the one every guidebook photo of people bowing und
 
 Walk in past the parking terraces and the first thing you notice is the smell — clove-cigarette smoke drifting from warung stalls mixing with incense from the inner courtyard. The complex splits into three zones: an outer courtyard for offerings, a middle courtyard with the bathing pools, and an inner sanctum you can view but not enter.
 
-The bathing pools are two long stone troughs lined with around 30 individually named spouts. Water gushes from each at a different pressure, some gentle, some strong enough to make you flinch. Locals move spout to spout in a set order, dunking their heads under each one, murmuring, then moving on.
+The bathing pools are two long stone troughs lined with numerous individually named spouts. Water gushes from each at a different pressure, some gentle, some strong enough to make you flinch. Locals move spout to spout in a set order, dunking their heads under each one, murmuring, then moving on.
 
 Above the bathing area, a separate pool holds the actual sacred spring — a wide, glassy pond so clear you can watch fish hover over sunken coins and offerings. Behind the temple, on higher ground, sits Soekarno's old summer palace, built in the 1950s and worth the short extra walk if you have time.
 
@@ -146,4 +145,3 @@ Because this is a very-visited site, the real local trick isn't secrecy — it's
 Dress modestly beyond the sarong: shoulders covered is appreciated even outside the bathing area, since this remains an active place of worship first. If you're not bathing, keep a respectful distance from those who are mid-ritual rather than photographing them up close.
 
 Pair the visit with nearby Gunung Kawi, a short drive away with rock-cut shrines carved into a river gorge, to make a fuller half-day out of the Tampaksiring area.
-

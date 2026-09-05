@@ -30,7 +30,6 @@ heroImage:
     x: 55
     'y': 45
 ---
-
 ## What Panyu Lu actually is
 
 This is a street-level noodle counter, not a restaurant in any formal sense. It occupies a narrow shopfront on Panyu Lu, the kind of address with a few stools, a steam-fogged window, and a pot that never stops working. Its whole reputation rests on one dish: rice noodles tossed with organ meats, served in a broth pungent enough that it's become the point rather than a flaw.
@@ -39,7 +38,7 @@ Word spread online rather than through critics, which is why it now draws a mixe
 
 ## Why the organ noodles matter here
 
-Offal noodles are a old Shanghainese and broader Jiangnan tradition, but this stall has become a reference point for the style in its current form. The pungency is deliberate: fermented or intensely seasoned broth cutting through liver, intestine, or similar cuts, ladled over rice noodles rather than wheat noodles.
+Offal noodles are an old Shanghainese and broader Jiangnan tradition, but this stall has become a reference point for the style in its current form. The pungency is deliberate: fermented or intensely seasoned broth cutting through liver, intestine, or similar cuts, ladled over rice noodles rather than wheat noodles.
 
 That base of rice noodles, not the more common alkaline wheat noodle, is part of what distinguishes the bowl locally. If organ meat isn't your thing, this isn't the spot to test the waters gently; the whole dish is built around that flavor, not around it as a garnish.
 

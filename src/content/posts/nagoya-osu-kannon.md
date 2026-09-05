@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You smell the incense before you see the gate. Cut through the covered arcades of Osu Shopping District and the vermilion-and-white temple hall appears almost abruptly, its curved roofline rising above the electronics shops and used-kimono stores that crowd right up to its edge.
@@ -66,7 +65,7 @@ Osu Kannon has stood in some form since the 14th century, though what you see to
 
 This isn't a quiet, secluded shrine tucked in a forest. It's a very popular stop, and the crowds are part of the experience.
 
-Pigeons scatter across the courtyard as visitors clap, bow, and toss coins into the offering box. Vendors sell fortune papers nearby. The temple holds a library of classical Japanese texts, including one of the country's few surviving copies of the Kojiki, Japan's oldest chronicle — though the library itself isn't generally open for casual browsing.
+Pigeons scatter across the courtyard as visitors clap, bow, and toss coins into the offering box. Vendors sell fortune papers nearby. The temple holds a library of classical Japanese texts and historical documents — though the library itself isn't generally open for casual browsing.
 
 The real draw is the setting: a genuine 700-year-old religious institution embedded in the middle of one of Nagoya's liveliest shopping streets.
 
@@ -107,4 +106,3 @@ Since this is one of Nagoya's most-visited religious sites, don't expect a hidde
 - The most common mistake is treating it as a five-minute photo stop and missing the arcades — the shopping streets around the temple are as much the destination as the building itself
 
 Bring small bills or coins, wear shoes you don't mind standing in for a while on stone paving, and build in time to get lost in the side streets afterward.
-

@@ -30,7 +30,6 @@ heroImage:
     x: 45
     'y': 70
 ---
-
 Nine floors above Izmir's waterfront, inside the Swissotel Büyük Efes, a dining room named after a sixteenth-century Italian chef has become the reservation everyone in the city is suddenly trying to make.
 
 Bartolomeo Scappi cooked for popes in Renaissance Rome and wrote one of the first great printed cookbooks, the kind of figure whose name a hotel restaurant borrows when it wants to signal ambition rather than novelty. That's the joke and the pitch of Scappi: old-world Italian cooking, delivered from a room with a very modern, very Aegean view.
@@ -43,7 +42,7 @@ Sunset is the obvious hour to angle for. As the light drops over the water and t
 
 ## Why the name matters
 
-Naming an Italian restaurant after Bartolomeo Scappi is a deliberate flex. He was chef to Pope Pius V and author of Opera, a landmark Renaissance cookbook that documented Italian court cooking in unusual technical detail for its time.
+Naming an Italian restaurant after Bartolomeo Scappi is a deliberate flex. He cooked for cardinals and popes in Renaissance Rome and authored Opera, a landmark Renaissance cookbook that documented Italian court cooking in unusual technical detail for its time.
 
 A hotel restaurant that reaches back to him is telling you it wants to be judged on technique and history, not just on having "Italian" in the description. Whether the kitchen fully lives up to that reference is worth judging for yourself, but the ambition is the point of the branding.
 

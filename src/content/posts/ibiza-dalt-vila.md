@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Dalt Vila means "upper town" in Ibicenco, and that's exactly what it is: a fortified hill rising straight out of Ibiza Town's harbour, ringed by Renaissance walls that UNESCO listed as a World Heritage Site in 1999. You enter through the Portal de ses Taules, the main gate facing the sea, flanked by two worn Roman statues and a dry moat that once kept pirates out.
@@ -88,7 +87,7 @@ At sunset, the bastions facing west catch the light hitting the water, and local
 
 ## Beating the midday crush
 
-Dalt Vila is still relatively under-the-radar compared to Ibiza's beach clubs and clumps of day-trippers rarely find their way past the harbour gate. That said, weekends do get busier between 1pm and 2pm, when cruise passengers and day-trip groups tend to cluster around the cathedral square.
+Dalt Vila is still relatively under-the-radar compared to Ibiza's beach clubs, and many day-trippers never make it far past the harbour gate. That said, weekends do get busier between 1pm and 2pm, when cruise passengers and day-trip groups tend to cluster around the cathedral square.
 
 For a quieter walk, come in the early morning before the heat sets in, or return between 7pm and 9pm on a weekend evening, when the crowd data shows the lanes are calmest. That evening window also happens to be when the stone walls glow warmest, so it's not a compromise.
 

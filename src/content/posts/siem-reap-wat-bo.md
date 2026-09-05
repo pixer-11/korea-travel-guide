@@ -48,18 +48,17 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Wat Bo is worth the detour
 
 Most visitors to Siem Reap spend their energy on Angkor Wat and never cross the river into Wat Bo village. That's their loss.
 
-This is one of the oldest temples in the city, believed to date back to the early 1900s on the site of an earlier wooden pagoda, and it still functions as a working monastery. Saffron-robed monks go about daily routines around you, unhurried, while the compound itself stays remarkably calm compared to the crowds swirling through the Angkor complex 20 minutes away.
+This is one of the oldest temples in the city, said to sit on the site of an earlier wooden pagoda, and it still functions as a working monastery. Saffron-robed monks go about daily routines around you, unhurried, while the compound itself stays remarkably calm compared to the crowds swirling through the Angkor complex 20 minutes away.
 
 ## What you'll actually see
 
-The main draw is inside the vihara, the ordination hall, where faded mural paintings wrap the interior walls. These 19th-century paintings depict the Reamker, Cambodia's version of the Ramayana epic, alongside scenes from the Buddha's life.
+The main draw is inside the vihara, the ordination hall, where faded mural paintings wrap the interior walls. These aged paintings depict the Reamker, Cambodia's version of the Ramayana epic, alongside scenes from the Buddha's life.
 
 The colours have softened with age — dusty ochres, cracked blues, patches where the plaster has worn through — but the detail rewards a slow look. Look up near the roofline for gilded naga serpents, and take in the peaked, tiered roof typical of Khmer temple architecture.
 
@@ -69,17 +68,17 @@ Outside, the grounds are shaded by tall trees, with monks' dormitories, stupas h
 
 Wat Bo sits on Street 22 in the Wat Bo neighbourhood, on the east bank of the Siem Reap River.
 
-From Pub Street or the Old Market area, it's a 15–20 minute walk or a five-minute tuk-tuk ride, usually a couple of dollars each way if you're negotiating on the spot. Many boutique hotels and guesthouses cluster in this same leafy residential pocket, so you may already be staying nearby without realizing the temple is around the corner.
+From Pub Street or the Old Market area, it's a 15–20 minute walk or a five-minute tuk-tuk ride if you'd rather not walk in the heat. Many boutique hotels and guesthouses cluster in this same leafy residential pocket, so you may already be staying nearby without realizing the temple is around the corner.
 
 There's no fixed entry fee — a small donation toward the temple's upkeep is customary and appreciated.
 
 ## When to go
 
-Early morning, roughly 7–9am, is when the light through the trees is softest and monks are often visible doing chores or chanting.
+Early morning is when the light through the trees is softest and monks are often visible doing chores or chanting.
 
 Late afternoon, after 4pm, works too, once the midday heat breaks. Because this is an under-the-radar stop compared with Angkor Wat or Bayon, you're unlikely to deal with tour groups at any hour — but avoid arriving during active ceremonies unless you're invited to observe respectfully.
 
-Thirty to forty-five minutes is enough time to see the murals, walk the grounds, and sit for a few quiet minutes.
+Give yourself enough time to see the murals, walk the grounds, and sit for a few quiet minutes.
 
 ## How to visit like a local
 

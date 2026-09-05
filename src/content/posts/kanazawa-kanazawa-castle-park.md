@@ -75,7 +75,6 @@ faq:
     a: Yes, they connect by a bridge and most visitors do both in one trip; combined tickets are usually available on site.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Kanazawa Castle Park anchors the city's historic core at 1-1 Marunouchi, directly across from Kenrokuen Garden. What stands today is a reconstruction: the original 16th-century castle burned repeatedly, and the white lead-plastered walls you see now date mostly from restoration work completed in the 2000s and 2010s.
@@ -99,17 +98,16 @@ The park connects directly to Kenrokuen Garden via a bridge, so most visitors co
 
 The park keeps the same 7am–6pm hours every day of the week, with no seasonal shortening listed.
 
-Crowd data shows no quiet weekday or weekend window separate from opening hours themselves; the whole day sees traffic. The one clear signal: avoid 11am–4pm on weekends, when crowds peak hardest. Arriving right at 7am or after 4pm gives you noticeably more breathing room, especially for photos at Ishikawa-mon.
+Crowd data shows no quiet weekday or weekend window separate from opening hours themselves; the whole day sees traffic. Arriving right at 7am or after 4pm gives you noticeably more breathing room, especially for photos at Ishikawa-mon.
 
 ## How to visit like a local
 
 This is a well-visited landmark, not a quiet find, so plan around the crowds rather than expecting to avoid them entirely.
 
 - Buy interior-tour tickets on site; combined tickets with Kenrokuen Garden next door are usually available and save a walk back to buy separately.
-- Cash and IC cards both work at ticket windows; no need to pre-book online for typical visits.
+- No need to pre-book online for typical visits.
 - Wear socks you don't mind removing: parts of the turret interiors require shoes off.
 - Skip the audio guide rush at the entrance and pick it up mid-visit if lines are long at opening.
 - Locals and repeat visitors treat this as a walk-through park, not a museum stop; most spend under 90 minutes unless doing both castle and Kenrokuen.
 
 The tourist mistake here is treating the castle as a quick photo stop from the Kenrokuen side and skipping the turret interior entirely. That's where the joinery and storehouse displays actually explain how the complex worked. Give yourself the extra 20 minutes; it's the part most day-trippers miss.
-
