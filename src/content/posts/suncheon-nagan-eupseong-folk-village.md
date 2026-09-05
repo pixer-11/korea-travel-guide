@@ -26,13 +26,7 @@ place:
   lng: 127.3411258
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 10
-      - 17
-      - 18
-    weekendQuiet:
-      - 18
+    weekdayQuiet: [9, 10, 17]
     weekendBusy:
       - 10
       - 11
@@ -42,6 +36,15 @@ place:
       - 15
       - 16
     venueId: ven_6f7451506a4255706d6955525554622d3353494c5035494a496843
+  phone: '+82 61-749-8831'
+  openingHours:
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - suncheon
   - Naganeupseong

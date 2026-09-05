@@ -41,6 +41,15 @@ place:
       - 19
       - 20
     venueId: ven_594f374e4e4b715a77304152557a65635a4c303447394d4a496843
+  phone: '+82 31-290-3600'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - suwon
   - hidden gem

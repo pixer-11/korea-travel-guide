@@ -1,14 +1,17 @@
 Places 예산: backfill 몫 10회 (오늘 사용 5/100)
-Priority: 149 itinerary stop(s) queued first
+Priority: 151 itinerary stop(s) queued first
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – palermo-mercato-ballaro.md: nothing new (resting 60d)
-  – phong-nha-phong-nha-ke-bang-national-park.md: nothing new (resting 60d)
-  – pingxi-shifen-old-street.md: nothing new (resting 60d)
+  – tiong-bahru-hortpark.md: nothing new (resting 60d)
   🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – saadiyat-island-hudayriyat-island.md: nothing new (resting 60d)
-  – samarkand-siyob-bozori.md: nothing new (resting 60d)
-  – santiago-de-compostela-casco-historico-de-santiago-de-compostela.md: nothing new (resting 60d)
-  – sanya-sanya-nanshan-cultural-tourism-zone.md: nothing new (resting 60d)
-  – sheung-wan-graham-street-market.md: nothing new (resting 60d)
+  – siena-piazza-del-campo.md: nothing new (resting 60d)
+  ✓ stanley-stanley-market.md +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
+  ✓ suncheon-nagan-eupseong-folk-village.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then) — nothing left
+  ✓ surabaya-monumen-kapal-selam-surabaya.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
+  ✓ suwon-yeonmudae-dongjangdae-eastern-command-post.md +phone +7h hours
+  – suzhou-humble-administrator-s-garden.md: nothing new (resting 60d)
+  – tagaytay-taal-volcano-view.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 417, no-new-data 124, no-place 167, closed-quarantined 2, quota-429 0, api-error 0, api-calls 10, remaining-askable 326 (APPLIED).
+BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 423, no-new-data 130, no-place 169, closed-quarantined 2, quota-429 0, api-error 0, api-calls 10, remaining-askable 322 (APPLIED).

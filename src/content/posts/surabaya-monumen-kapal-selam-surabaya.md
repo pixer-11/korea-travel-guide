@@ -27,15 +27,8 @@ place:
   lng: 112.7503272
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 10
-      - 21
-    weekendQuiet:
-      - 8
-      - 9
-      - 21
+    weekdayQuiet: [8, 9, 10]
+    weekendQuiet: [8, 9]
     weekendBusy:
       - 15
       - 16
@@ -44,6 +37,15 @@ place:
       - 19
       - 20
     venueId: ven_634664444a584132735f4352307931354c576a314453354a496843
+  phone: '+62 31 5490410'
+  openingHours:
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
 tags:
   - surabaya
   - hidden gem
