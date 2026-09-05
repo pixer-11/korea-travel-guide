@@ -16,14 +16,14 @@
 //    SECTION=luggage-storage FORCE=1 node scripts/add-essentials-section.mjs
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
-import { readFile, writeFile, appendFile, mkdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { readFile, writeFile, appendFile, mkdir, stat } from 'node:fs/promises';
+import { existsSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { upsertSection, findSection, stampSectionReviewed } from './lib/essentials-section.mjs';
-import { metaTextIn, unsupportedNumbers, numbersIn } from './lib/section-guards.mjs';
+import { metaTextIn, unsupportedNumbers, numbersIn, commercialSources, proseProblems, unsupportedNames, stripLeadingMeta } from './lib/section-guards.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -51,14 +51,20 @@ const SECTIONS = {
     brief: (country) =>
       `Where a traveller in ${country} can leave bags for a few hours or a few days. Cover only what applies there: ` +
       `station coin lockers (which stations, what sizes, how you pay), staffed left-luggage offices, app-based bag drops ` +
-      `in shops (name the network only if it operates in ${country}), airport baggage counters, and whether hotels hold bags.`,
+      `in shops (name the network only if it operates in ${country}), airport baggage counters, and whether hotels hold bags. ` +
+      `Write exactly two short paragraphs, separated by a blank line: the first on what exists in cities and towns and what ` +
+      `it costs (lockers, staffed offices, app-based drops); the second on airports and hotels specifically.`,
   },
 };
 
 async function research(country, spec) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 4000,
+    max_tokens: 6000,
+    // Reasoning is on unless switched off, and it eats max_tokens before a
+    // single word is written — every country in the 01:20 run came back
+    // "cut off mid-sentence". See sonnet5-thinks-by-default.
+    thinking: { type: 'disabled' },
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 5 }],
     messages: [{
       role: 'user',
@@ -78,13 +84,63 @@ async function research(country, spec) {
     }],
   });
   if (msg.stop_reason === 'max_tokens') throw new Error('cut off mid-sentence');
-  let text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
+  // A search run returns text blocks BETWEEN the searches too — "I have enough
+  // information now to write the section". Joining every text block is what put
+  // that sentence into a published file; the answer is only what comes after
+  // the last search result. metaTextIn stays as the net behind this.
+  const lastTool = msg.content.map((b) => b.type).reduce((last, t, i) => (t.startsWith('server_tool_use') || t.endsWith('tool_result') ? i : last), -1);
+  let text = msg.content.slice(lastTool + 1).filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
   text = text.replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
-  return text;
+  // An opening aside is cut; a monologue anywhere else still refuses the draft.
+  return stripLeadingMeta(text);
 }
 
 function linksIn(md) {
   return [...md.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map((m) => m[1]);
+}
+
+/** HTML → readable text, so the rewrite step can be shown what its own sources
+ *  actually say. Scripts and styles out first, or their contents read as prose. */
+function plainText(html) {
+  return html
+    .replace(/<(script|style|noscript)\b[^>]*>[\s\S]*?<\/\1>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// The first draft is written from web search, but verified against the text of
+// the pages it cites — two different windows onto the same facts, so a figure
+// the search summary carried but the page does not state fails the check. That
+// is the guard working, not a bug; the cure is to show the writer the page text
+// and let it correct itself once. A draft that still cites unsupported figures
+// after seeing its own sources is refused for good.
+async function rewriteFromSources(country, spec, draft, sources, bad) {
+  const excerpts = sources
+    .map((s, i) => `SOURCE ${i + 1} — ${s.url}\n${plainText(s.text).slice(0, 6000)}`)
+    .join('\n\n');
+  const msg = await client.messages.create({
+    model: MODEL,
+    max_tokens: 2000,
+    thinking: { type: 'disabled' },
+    messages: [{
+      role: 'user',
+      content:
+        `Below is a draft section about luggage storage in ${country}, and the text of the pages it cites.\n\n` +
+        `A check found these faults in it:\n${bad.map((b) => `- ${b}`).join('\n')}\n\n` +
+        `Rewrite the draft to fix every one of them. EVERY number that stays must appear in the ` +
+        `source text below; if a figure is not there, drop it and describe the thing without a number — ` +
+        `"lockers take coins or an IC card" is better than an invented price. No headline statistics ` +
+        `("5,000+ lockers"), no dollar conversions, no sales language. Under 200 words. ` +
+        `Keep the same "Sources:" links, unchanged. Keep two short paragraphs. ` +
+        `No preamble, no explanation of what you changed — output only the section text.\n\n` +
+        `DRAFT\n${draft}\n\nSOURCE TEXT\n${excerpts}\n\n${HOUSE_STYLE}`,
+    }],
+  });
+  if (msg.stop_reason === 'max_tokens') throw new Error('rewrite cut off mid-sentence');
+  return msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('')
+    .replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
 }
 
 // A web-search run interleaves the model's working notes between tool calls
@@ -120,7 +176,30 @@ async function fetchSource(url) {
   }
 }
 
+// Two copies of this script ran at once twice on 2026-09-06 — a background run
+// and a per-country retry loop — both rewriting the same country files. The
+// lock costs nothing and removes the whole failure mode.
+const LOCK_FILE = join(ROOT, 'data', 'logs', `.essentials-section-${SECTION}.lock`);
+const STALE_LOCK_MS = 2 * 60 * 60 * 1000;
+
+async function takeLock() {
+  await mkdir(dirname(LOCK_FILE), { recursive: true });
+  if (existsSync(LOCK_FILE)) {
+    const age = Date.now() - (await stat(LOCK_FILE)).mtimeMs;
+    if (age < STALE_LOCK_MS) {
+      const owner = await readFile(LOCK_FILE, 'utf8').catch(() => '?');
+      throw new Error(`another run holds the lock (${owner.trim()}, ${Math.round(age / 1000)}s old) — ${LOCK_FILE}`);
+    }
+    console.log(`  ⚠️   clearing a stale lock (${Math.round(age / 60000)} min old)`);
+  }
+  await writeFile(LOCK_FILE, `pid ${process.pid} since ${new Date().toISOString()}\n`, 'utf8');
+  const release = () => { try { rmSync(LOCK_FILE); } catch {} };
+  process.on('exit', release);
+  for (const sig of ['SIGINT', 'SIGTERM', 'SIGHUP']) process.on(sig, () => { release(); process.exit(1); });
+}
+
 async function main() {
+  await takeLock();
   const spec = SECTIONS[SECTION];
   if (!spec) throw new Error(`unknown SECTION "${SECTION}" — known: ${Object.keys(SECTIONS).join(', ')}`);
   const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
@@ -166,6 +245,15 @@ async function main() {
       continue;
     }
 
+    // A vendor selling luggage storage is not a source about luggage storage.
+    // Its page answers 200 and its own sales figures are in its own text, so
+    // both later checks wave it through — see section-guards.mjs.
+    const vendor = commercialSources(linksIn(text));
+    if (vendor.length) {
+      for (const v of vendor) text = text.split('\n').filter((line) => !line.includes(v)).join('\n');
+      console.log(`  ✂️   ${c.name} — dropped ${vendor.length} vendor source${vendor.length === 1 ? '' : 's'}`);
+    }
+
     const urls = linksIn(text);
     if (!urls.length) {
       console.log(`  ✋  ${c.name} — no sources, skipped`); refused++;
@@ -194,14 +282,47 @@ async function main() {
     // that would have caught the ¥300–400 nationwide claim in commit f48b2afd:
     // its two Narita pages state different, airport-only figures, and no
     // source stated 300–400 for anything.
-    const numbersChecked = numbersIn(text);
-    const bad = unsupportedNumbers(text, fetched.map((f) => f.text));
+    const usd = c.slug === 'united-states';
+    // Their own money is a dollar, so "$12" there is a local price, not a conversion.
+    const dollarCurrency = ['united-states', 'singapore', 'hong-kong', 'taiwan'].includes(c.slug);
+    const faults = (draft) => [
+      ...unsupportedNumbers(draft, fetched.map((f) => f.text)).map((n) => `unsupported number ${n}`),
+      ...unsupportedNames(draft, fetched.map((f) => f.text)).map((n) => `no source mentions "${n}"`),
+      ...proseProblems(draft, { allowUsd: usd, dollarCurrency }),
+    ];
+
+    let numbersChecked = numbersIn(text);
+    let rewrites = 0;
+    let bad = faults(text);
+    const firstFaults = bad;
+    // Up to three attempts: the first rewrite usually drops most of the
+    // unsupported figures, and what is left after that is usually length.
+    while (bad.length && rewrites < 3) {
+      console.log(`  ↻   ${c.name} — ${bad.join('; ')} → rewriting from the source text`);
+      rewrites++;
+      let next = null;
+      try { next = await rewriteFromSources(c.name, spec, text, fetched, bad); }
+      catch (e) { console.log(`  ❌  ${c.name} — rewrite failed: ${e.message}`); break; }
+
+      const nextBad = refusedForMetaText(next) ? ['meta-text leak']
+        : linksIn(next).some((u) => !alive.includes(u)) ? ['rewrite changed its sources']
+        : faults(next);
+      if (nextBad.length && nextBad.length >= bad.length) { bad = nextBad; break; } // not converging
+      text = next;
+      bad = nextBad;
+    }
     if (bad.length) {
-      console.log(`  ✋  ${c.name} — unsupported number(s) ${bad.join(', ')} (checked ${alive.length} source page${alive.length === 1 ? '' : 's'}), refused`);
+      console.log(`  ✋  ${c.name} — still faulty after ${rewrites} rewrite(s) (${bad.join('; ')}), refused`);
       refused++;
-      await logRun({ slug: c.slug, status: 'refused', reason: `unsupported number(s): ${bad.join(', ')}`, sourcesKept: alive, sourcesChecked: urls, numbersChecked });
+      await logRun({
+        slug: c.slug, status: 'refused',
+        reason: `${firstFaults.join('; ')} — after ${rewrites} rewrite(s): ${bad.join('; ')}`,
+        sourcesKept: alive, sourcesChecked: urls, numbersChecked,
+      });
       continue;
     }
+    numbersChecked = numbersIn(text);
+    const rewritten = rewrites > 0;
 
     if (DRY) {
       console.log(`  📄  ${c.name}\n${text.replace(/^/gm, '      ')}\n`);
@@ -213,7 +334,7 @@ async function main() {
     await writeFile(file, next, 'utf8');
     console.log(`  ✓   ${c.name} — ${text.split(/\s+/).length} words, ${alive.length} source${alive.length === 1 ? '' : 's'}`);
     written++;
-    await logRun({ slug: c.slug, status: 'written', reason: `${text.split(/\s+/).length} words`, sourcesKept: alive, numbersChecked });
+    await logRun({ slug: c.slug, status: 'written', reason: `${text.split(/\s+/).length} words${rewritten ? ', after one rewrite' : ''}`, sourcesKept: alive, numbersChecked, rewritten });
   }
   console.log(`\nSECTION_SUMMARY section=${SECTION} written=${written} skipped=${skipped} refused=${refused}\n`);
 }

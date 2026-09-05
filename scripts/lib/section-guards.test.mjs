@@ -8,7 +8,7 @@
 //   node --test scripts/lib/section-guards.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { metaTextIn, unsupportedNumbers, currencyNumbersIn } from './section-guards.mjs';
+import { metaTextIn, unsupportedNumbers, currencyNumbersIn, commercialSources, proseProblems, unsupportedNames, stripLeadingMeta } from './section-guards.mjs';
 
 test('metaTextIn catches the leak actually published in commit f48b2afd', () => {
   const leak =
@@ -215,4 +215,161 @@ test('currencyNumbersIn false-positive guards: "Rome" and "the RM went missing" 
      'yield no currency figures', () => {
   assert.deepEqual(currencyNumbersIn('Rome is lovely'), []);
   assert.deepEqual(currencyNumbersIn('the RM went missing'), []);
+});
+
+// ─── commercialSources / proseProblems ───────────────────────────────────
+// Both were written after South Korea's first drafted section published a
+// bag-drop vendor's sales copy — "273 stations with 5,557+ lockers",
+// ₩3,999 a bag, "$3 USD" — with every earlier guard satisfied.
+
+const KOREA_SLOP = `In Seoul, the T-Locker network covers 273 stations with 5,557+ lockers, booked
+through its own app, with prices starting at 1,000 won for two hours. Stasher integrates its storage
+services within GS25's strategically located branches, with 10+ luggage-storage points across Seoul.
+
+At the airports, Incheon's lockers operate 24/7, providing travelers with round-the-clock storage
+access, while counters are run by professional companies with excellent security. Expect rates from
+about 4,000 KRW (about $3 USD) per day for small items.
+
+Sources:
+- [Incheon Airport](https://www.airport.kr/ap_en/6636/subview.do)
+- [Stasher](https://stasher.com/luggage-storage/south-korea/seoul)`;
+
+const JAPAN_GOOD = `Coin lockers are the default option, found at nearly every JR, subway and
+private-railway station. JR East's own network, Multi Ecube, prices its lockers from about ¥300–400
+for the smallest size up to ¥800–1,000 for the largest; Tokyo's tourism board quotes a similar range
+of roughly ¥400–800, with an extra-large size around ¥1,200. Older machines take only ¥100 coins.
+
+Airports run their own lockers and staffed counters: at Narita, coin lockers charge ¥400 for a small
+bag, ¥600 for medium and ¥800 for large per day. Most hotels will hold bags before check-in.
+
+Sources:
+- [JR East](https://www.jre-sl.co.jp/en/ecube/)`;
+
+test('commercialSources names the vendor link and leaves the airport authority alone', () => {
+  const urls = [
+    'https://www.airport.kr/ap_en/6636/subview.do',
+    'https://stasher.com/luggage-storage/south-korea/seoul',
+    'https://cloak.ecbo.io/en/jpn/city/tokyo/1',
+  ];
+  assert.deepEqual(commercialSources(urls), [
+    'https://stasher.com/luggage-storage/south-korea/seoul',
+    'https://cloak.ecbo.io/en/jpn/city/tokyo/1',
+  ]);
+});
+
+test('commercialSources survives a malformed href', () => {
+  assert.deepEqual(commercialSources(['not a url', '']), []);
+});
+
+test('proseProblems refuses the vendor-voice draft on every count that made it unpublishable', () => {
+  const problems = proseProblems(KOREA_SLOP).join(' | ');
+  assert.match(problems, /headline count "5,557\+"/);
+  assert.match(problems, /headline count "10\+"/);
+  assert.match(problems, /marketing phrase "excellent security"/);
+  assert.match(problems, /marketing phrase "strategically located"/);
+  assert.match(problems, /dollar conversion/);
+});
+
+test('proseProblems passes the reviewed Japan section — prices with commas are prices, not statistics', () => {
+  assert.deepEqual(proseProblems(JAPAN_GOOD), []);
+});
+
+test('proseProblems counts only the body, and wants two paragraphs', () => {
+  const oneParagraph = 'Lockers are everywhere.\n\nSources:\n- [x](https://example.gov)';
+  assert.deepEqual(proseProblems(oneParagraph), ['1 paragraph(s), expected 2']);
+});
+
+test('proseProblems allows dollars for the United States', () => {
+  const us = 'Amtrak charges $10 a bag.\n\nAirports have counters.\n\nSources:\n- [x](https://www.amtrak.com)';
+  assert.deepEqual(proseProblems(us, { allowUsd: true }), []);
+  assert.match(proseProblems(us).join(' '), /dollar conversion/);
+});
+
+test('unsupportedNames names the operators no source mentions, and lets the verified ones through', () => {
+  const draft = `Bangkok BTS stations have coin lockers, such as LOCK BOX Bangkok and Blocker.
+Networks such as Nannybag operate in Thai cities.
+
+At the airports, Bellugg runs staffed counters at Suvarnabhumi.
+
+Sources:
+- [Suvarnabhumi](https://suvarnabhumi.airportthai.co.th/x)`;
+  const source = 'Suvarnabhumi Airport BTS Bellugg left luggage counters Bangkok Thai baht per bag';
+  assert.deepEqual(unsupportedNames(draft, [source]), ['LOCK BOX Bangkok', 'Blocker', 'Nannybag']);
+});
+
+test('unsupportedNames ignores a capitalised word that is only starting a sentence', () => {
+  const draft = 'Lockers are common. Storage is cheap.\n\nHotels hold bags. Airports have counters.';
+  assert.deepEqual(unsupportedNames(draft, ['nothing relevant here']), []);
+});
+
+test('unsupportedNames accepts a qualified name when the name itself is in the source', () => {
+  const draft = 'a. JR East own network, Multi Ecube, prices its lockers.\n\nb. Nothing else.';
+  assert.deepEqual(unsupportedNames(draft, ['JR East Ecube coin locker service']), []);
+});
+
+test('stripLeadingMeta removes the opening aside but leaves a mid-paragraph one to be refused', () => {
+  const opener = 'I have enough information now to write this. Here it is:\n\nCoin lockers sit at every station.';
+  assert.equal(stripLeadingMeta(opener), 'Coin lockers sit at every station.');
+  const middle = 'Coin lockers sit at every station. Let me check the airport too.';
+  assert.equal(stripLeadingMeta(middle), middle);
+  assert.equal(metaTextIn(stripLeadingMeta(middle)), 'Let me');
+});
+
+test('stripLeadingMeta leaves a clean draft untouched', () => {
+  const clean = 'Coin lockers are the default option. Fees are charged per calendar day.';
+  assert.equal(stripLeadingMeta(clean), clean);
+});
+
+test('commercialSources also rejects someone else\'s write-up', () => {
+  assert.deepEqual(
+    commercialSources([
+      'https://www.istairport.com/en/services/left-luggage',
+      'https://www.sleepinginairports.net/guides/phnom-penh-airport-guide.htm',
+      'https://www.reddit.com/r/JapanTravelTips/comments/x',
+    ]),
+    [
+      'https://www.sleepinginairports.net/guides/phnom-penh-airport-guide.htm',
+      'https://www.reddit.com/r/JapanTravelTips/comments/x',
+    ],
+  );
+});
+
+test('unsupportedNames does not invent "Miami International Airport of" by joining across a preposition', () => {
+  const draft = 'a. Lockers sit at Miami International Airport of the sort found elsewhere.\n\nb. Nothing else.';
+  assert.deepEqual(unsupportedNames(draft, ['Miami International Airport left luggage']), []);
+});
+
+test('proseProblems catches a section that is really one operator\'s brochure', () => {
+  const brochure = `At Paris Charles de Gaulle, storage is offered by Bagages du Monde at Terminal 2.
+Bagages du Monde also rents scooters and sells sightseeing tickets.
+
+Bagages du Monde runs a similar counter at Orly, on the arrivals level.
+
+Sources:
+- [x](https://example.fr)`;
+  assert.match(proseProblems(brochure).join(' | '), /"Bagages du Monde" named 3 times/);
+});
+
+test('proseProblems leaves a section that names two operators once each', () => {
+  const fine = `JR East runs Multi Ecube lockers at most stations, and fees are charged per day.
+
+At Narita Airport, coin lockers sit in both terminals and staffed counters take oversized bags.
+
+Sources:
+- [x](https://example.jp)`;
+  assert.deepEqual(proseProblems(fine), []);
+});
+
+test('proseProblems: S$ is Singapore money, not a conversion; US$ is a conversion everywhere but the US', () => {
+  const sgd = 'Lockers at Changi cost S$10 a day.\n\nHotels hold bags free.\n\nSources:\n- [x](https://changiairport.com)';
+  assert.deepEqual(proseProblems(sgd, { dollarCurrency: true }), []);
+  assert.match(proseProblems(sgd).join(' '), /dollar conversion/);
+  const converted = 'Lockers cost S$10 (about US$8) a day.\n\nHotels hold bags free.\n\nSources:\n- [x](https://changiairport.com)';
+  assert.match(proseProblems(converted, { dollarCurrency: true }).join(' '), /dollar conversion/);
+});
+
+test('metaTextIn catches the section talking about its own sourcing', () => {
+  assert.ok(metaTextIn('Malls and hotels help, though none of these are covered by the source used here.'));
+  assert.ok(metaTextIn('There is no equivalent detail available here for Milan Malpensa.'));
+  assert.equal(metaTextIn('Lockers sit here, next to the ticket hall, and cost ¥400 a day.'), null);
 });

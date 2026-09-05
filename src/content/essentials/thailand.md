@@ -4,6 +4,8 @@ title: "Thailand Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Thailand — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-08-01
 draft: false
+sectionsReviewed:
+  luggage-storage: 2026-09-05
 ---
 
 **Quick answer:** Most Western, EU, and many Asian passport holders can currently enter Thailand visa-free (60 days as of mid-2026, though a cut to 30 days is pending) plus a mandatory free Thailand Digital Arrival Card (TDAC); getting around mixes efficient Bangkok trains with cash-friendly regional buses, and 1155 (Tourist Police) is the number to save before you land.
@@ -27,6 +29,15 @@ Bangkok's rail network is the easiest way to beat traffic. The **BTS Skytrain** 
 From Suvarnabhumi Airport, the Airport Rail Link runs to Phaya Thai station in about 26 minutes for 45 baht, where you connect to the BTS. Note that the Airport Rail Link does not accept Rabbit cards used on the BTS — if transferring to the BTS or MRT, you'll need the payment method those systems support. Don't be fooled by headlines about Thailand's flat-fare scheme: the much-publicised 20 baht flat fare applies to Thai citizens registered through a government app, so visitors pay standard fares.
 
 Beyond rail, combine BTS/MRT with river boats for the Old Town, electric tuk-tuks for short hops, and ride-hailing apps like Grab for everything else. For inter-city travel, domestic flights, overnight trains, and long-distance buses/minivans connect major regions cheaply — book flights and trains a few days ahead in high season.
+
+## Luggage storage
+
+At Suvarnabhumi Airport, Bellugg operates a staffed luggage storage service with counters on Level 2 and Level 4. Reservations should be made at least an hour in advance. Bags are charged by size and by 24 hour period: smaller pieces, up to 22 inches, cost 100 baht per piece per day; medium pieces, between 22 and 26 inches, cost 120 baht per piece per day; and larger pieces, over 26 inches, cost 150 baht per piece per day. If storage is needed beyond the booked period, travellers are asked to contact the service counter directly to arrange an extension.
+
+Beyond the airport, travellers in Thailand have other options for storing bags for a few hours or overnight, including lockers at transit stations and shopping centres, staffed counters run by private companies, and hotels, which will often hold luggage at reception both after checkout and before check-in. Anyone relying on these alternatives should confirm opening hours, accepted payment methods and any size limits directly with the provider, since terms vary by location and are not standardised across the city.
+
+Sources:
+- [Suvarnabhumi Airport: Bellugg luggage storage](https://suvarnabhumi.airportthai.co.th/explore/promotion/detail/410)
 
 ## Money & costs
 

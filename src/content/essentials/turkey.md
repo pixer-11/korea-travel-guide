@@ -4,6 +4,8 @@ title: "Turkey Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Turkey — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-01
 draft: false
+sectionsReviewed:
+  luggage-storage: 2026-09-05
 ---
 
 **Quick answer:** Most Western travelers (US, UK, EU, and dozens more) can enter Turkey visa-free for up to 90 days per 180-day period, while several other nationalities (including the US and Canada, oddly enough for some passport types, and others like Australia) need an e-Visa from the official evisa.gov.tr portal before flying; always double-check your specific nationality before you travel.
@@ -25,6 +27,15 @@ Istanbul's transit network is huge and, for a first-time visitor, the single mos
 Fares are cheap by international standards. Depending on the source and route, a single ride runs roughly 15-20 TRY on average, making it significantly cheaper than taxis, though newer 2026 pricing puts a standard ride closer to the low-40s TRY with transfers within 90 minutes discounted. Ferries are one of the best ways to see the Bosphorus while commuting: the most important routes for visitors run from Karaköy, Eminönü, or Beşiktaş on the European side to Kadıköy or Üsküdar on the Asian side, with additional ferries from Kadıköy, Eminönü, and Beşiktaş to the Princes' Islands. The historic T1 tram is especially handy for sightseeing: it runs from Kabataş to Bağcılar through the heart of the old city, stopping at Karaköy, Eminönü, Sirkeci, Gülhane, Sultanahmet, Çemberlitaş, Beyazıt Square (for the Grand Bazaar), Laleli, and Aksaray.
 
 Beyond Istanbul, Turkey has an extensive intercity bus network, domestic flights connecting major cities, and high-speed rail linking Ankara, Istanbul, and Konya. Ride-hailing apps and metered taxis are common in big cities, and many taxis now also accept card payment.
+
+## Luggage storage
+
+Istanbul Airport runs left luggage offices in the terminal building, next to the domestic passenger exit and opposite exit number 13 on the arrivals floor, with further locker locations across exit 8 and exit 14. Luggage lockers are also available on the departures level, near gates 1 and 6. Pricing is tiered by size and billed per 24 hours: a small bag costs TRY 210, a medium (cabin sized) bag costs TRY 270, a large bag costs TRY 550, an XL item such as a bicycle or surfboard costs TRY 690, and an XXL item costs TRY 860.
+
+Away from the airport, staffed left luggage rooms at train stations and city centre locations are uncommon, and travellers generally rely on hotels, which will often hold bags informally before check-in or after check-out. Anyone arriving by rail or needing storage away from the airport should check locally, as consistent nationwide provision cannot be assumed.
+
+Sources:
+- [Istanbul Airport: Left Luggage Offices and Storage Lockers](https://www.istairport.com/en/services/discover/airport-facilities/left-luggage-offices-and-storage-lockers?locale=en)
 
 ## Money & costs
 

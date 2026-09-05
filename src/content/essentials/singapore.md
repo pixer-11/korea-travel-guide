@@ -4,6 +4,8 @@ title: "Singapore Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Singapore — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-01
 draft: false
+sectionsReviewed:
+  luggage-storage: 2026-09-05
 ---
 
 **Quick answer:** Most visitors from major regions (US, UK, EU, Australia, and others) can enter Singapore visa-free for 30 to 90 days, but everyone must complete the free SG Arrival Card online before landing; the island runs on a fast, cashless MRT and bus network, uses the Singapore Dollar, and is safe and easy to navigate year-round, with February to April offering the driest weather.
@@ -25,6 +27,15 @@ Singapore's public transport is famously efficient, and you generally will not n
 If you prefer a physical card, standard EZ-Link cards are sold at 7-Eleven and Cheers convenience stores in addition to SimplyGo ticket offices and station kiosks. For heavy sightseeing days, the Singapore Tourist Pass is worth considering: it offers tourists unlimited public transport travel on Singapore's basic bus services, MRT and LRT trains within the validity period, though it excludes rides on premium services such as the Sentosa Express, RWS8, Night Owl, NightRider, Chinatown Direct, express buses, and other premium and niche services. Note also that usage of the 2-day or 3-day card must be on consecutive days.
 
 Fares themselves are low: adult card fares range from S$1.28 for short trips up to S$2.57 for the longest cross-island journeys, with cash fares costing S$0.22 more per trip, and these rates took effect in late December 2025. Trains run roughly from 5:30am to midnight, and there are no more paper single tickets; everything runs through cards or contactless payment. Taxis and ride-hailing apps such as Grab are widely available and metered or app-priced; both are reliable supplements to the rail network, especially late at night.
+
+## Luggage storage
+
+Public luggage lockers are not a feature of Singapore's train network or city streets. Away from the airport, short-term storage means asking a hotel, a shopping mall concierge or a private storage shop, and rates there are set by whoever is holding the bag.
+
+At Changi Airport, Left Baggage counters run 24 hours a day in the public areas of Jewel Level 1, and in Terminals 2, 3 and 4, with further transit-area counters in Terminals 1, 2, 3 and 4. Rates per 24 hours are S$6 for loose items, S$11 for small items under 10kg, S$16 for big or odd-sized items over 10kg and S$19 for extra-large items, all inclusive of GST. Items are inspected before they can be accepted, and flammable liquids, perishable goods and valuables such as jewellery or important documents are not permitted. A baggage delivery service is also available, taking bags from the storage counters to a hotel or other destination, charged per piece and by size.
+
+Sources:
+- [Changi Airport: Secure Baggage Storage Services](https://www.changiairport.com/en/at-changi/facilities-and-services-directory/baggage-storage.html)
 
 ## Money & costs
 

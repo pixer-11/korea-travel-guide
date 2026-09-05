@@ -31,3 +31,6 @@ dist-discover/
 
 # playwright/browser debug scratch (local only)
 .playwright-mcp/
+
+# run locks (see add-essentials-section.mjs)
+data/logs/.*.lock
