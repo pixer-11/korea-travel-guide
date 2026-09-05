@@ -1,0 +1,2 @@
+{"ts":"2026-09-05T00:55:20.176Z","section":"luggage-storage","slug":"japan","status":"refused","reason":"meta-text leak: \"I have enough\""}
+{"ts":"2026-09-05T00:56:01.703Z","section":"luggage-storage","slug":"japan","status":"dry-preview","reason":"DRY=1, no write","sourcesKept":["https://cloak.ecbo.io/en/jpn/city/tokyo/1","https://www.narita-airport.jp/en/service/delivery/baggage/","https://www.kuronekoyamato.co.jp/ytc/en/send/services/baggage-branch-list/"],"numbersChecked":["300","400","500","800","700","2","30"]}

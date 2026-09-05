@@ -26,12 +26,12 @@ For long-distance travel, weigh up the Japan Rail Pass against buying individual
 
 ## Luggage storage
 
-Coin lockers are the default option: they exist at nearly every JR, subway and private-railway station, from small suburban stops to giants like Tokyo, Shinjuku, Kyoto and Osaka. Prices are typically ¥300–400 for small lockers, ¥400–500 for medium, and ¥500–800 for large per calendar day. Older units take only ¥100 coins; newer touch-panel machines let you pay using either cash or an IC card like Suica or PASMO, with cash payments requiring a PIN and IC users simply tapping their card. If lockers are full, station staff can usually point you to a manned counter. For guaranteed space, the app **ecbo cloak** helps you find the closest shop near you to store your luggage, with over 1,000 locations in Japan, charging roughly ¥400–700 a day depending on bag size, paid mainly by credit card. Narita and Haneda both have luggage storage counters where bags can be handed over, alongside airport coin lockers. Most Japanese hotels, ryokan and hostels will hold bags before check-in or after check-out at the front desk, usually free.
+Coin lockers are the default option, found at nearly every JR, subway and private-railway station, as well as at airports and shopping areas. JR East's own network, Multi Ecube, prices its lockers from about ¥300–400 for the smallest size up to ¥800–1,000 for the largest; Tokyo's official tourism board quotes a similar citywide range of roughly ¥400–800 for small-to-large lockers, with an extra-large size around ¥1,200. Older machines take only ¥100 coins; newer touch-panel units also accept an IC card like Suica or PASMO. Fees are charged per calendar day, so a bag left overnight is billed for two days. Airports run their own separate lockers and staffed baggage counters for anything too big to fit: at Narita, coin lockers charge ¥400 for a small bag, ¥600 for medium and ¥800 for large per day, and staffed counters take oversized items the lockers can't. Most hotels, ryokan and hostels will hold bags before check-in or after check-out at the front desk, and larger hotels can arrange to have bags forwarded ahead to your next stop or back to the airport.
 
 Sources:
-- [Narita Airport – Baggage Storage](https://www.narita-airport.jp/en/service/delivery/storage/)
+- [JR East Smart Logistics – Multi Ecube coin lockers](https://www.jre-sl.co.jp/en/ecube/)
+- [GO TOKYO – Luggage & Storage](https://www.gotokyo.org/en/plan/luggage-storage/index.html)
 - [Narita Airport – Coin-Operated Lockers](https://www.narita-airport.jp/en/service/delivery/locker/)
-- [ecbo cloak – App Store](https://apps.apple.com/us/app/ecbo-cloak-luggage-storage/id1443707795)
 
 ## Money & costs
 
