@@ -4,6 +4,8 @@ title: "Japan Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Japan — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-01
 draft: false
+sectionsReviewed:
+  luggage-storage: 2026-09-05
 ---
 
 **Quick answer:** Most Western passport holders can still enter Japan visa-free for up to 90 days as a tourist, get around easily with an IC card (Suica, Pasmo or Icoca) plus the Shinkansen, and should carry some cash alongside cards; spring (cherry blossoms) and autumn (foliage) are the most rewarding but busiest times to go. Always double-check the latest visa and entry rules before you fly, since Japan is in the middle of rolling out a new pre-travel authorization system.
@@ -21,6 +23,15 @@ A major change is coming, but it is not yet in force. In 2026, Japan's parliamen
 Japan's rail network is the backbone of getting around, and for city and regional travel a rechargeable IC card is essential. Japan has ten different IC cards issued by various rail companies, and since 2013 all ten are interchangeable nationwide. Tourist-specific versions make setup easy on arrival: a special version of Suica called Welcome Suica is available to foreign tourists, valid for only four weeks, without a deposit fee, but with no refunds. An app option exists too, since an app version, Welcome Suica Mobile, is available for iPhones and is valid for 180 days instead of just four weeks. Tokyo's non-JR operators offer their own tourist card as well: the old tourist Pasmo Passport was discontinued in October 2024, but as of May 20, 2026, Tourist Pasmo launched as the replacement, with 28-day validity and no deposit, available at Narita and Haneda airports. Regular (non-tourist) IC cards are also easy to get: IC cards can be purchased at ticket machines and ticket counters of the issuing railway companies, with an initial cost of a refundable 500-yen deposit plus a typical 1,500-yen charge. These cards cover far more than trains: an IC card is accepted on most urban bus systems, including Tokyo, Osaka, and many regional cities, and all major convenience store chains such as 7-Eleven, Lawson, and FamilyMart accept IC card payments with a simple tap.
 
 For long-distance travel, weigh up the Japan Rail Pass against buying individual Shinkansen tickets. As of 2026, the 7-day nationwide JR Pass costs exactly ¥50,000, meaning you must travel the equivalent distance of Tokyo to Hiroshima and back just to break even. A general rule of thumb from recent guides: buy a JR Pass if you're visiting three or more cities in seven days; for single-city deep dives, a Suica IC card is all you need. Remember that IC cards and rail passes serve different purposes, since you can't use Suica or Pasmo balance to buy Shinkansen tickets directly, as IC cards and the JR Pass are separate systems. Booking reserved Shinkansen seats has also gotten easier for visitors, as foreign visitors can use the SmartEX app for reserved seat bookings in 2026, eliminating counter queues.
+
+## Luggage storage
+
+Coin lockers are the default option: they exist at nearly every JR, subway and private-railway station, from small suburban stops to giants like Tokyo, Shinjuku, Kyoto and Osaka. Prices are typically ¥300–400 for small lockers, ¥400–500 for medium, and ¥500–800 for large per calendar day. Older units take only ¥100 coins; newer touch-panel machines let you pay using either cash or an IC card like Suica or PASMO, with cash payments requiring a PIN and IC users simply tapping their card. If lockers are full, station staff can usually point you to a manned counter. For guaranteed space, the app **ecbo cloak** helps you find the closest shop near you to store your luggage, with over 1,000 locations in Japan, charging roughly ¥400–700 a day depending on bag size, paid mainly by credit card. Narita and Haneda both have luggage storage counters where bags can be handed over, alongside airport coin lockers. Most Japanese hotels, ryokan and hostels will hold bags before check-in or after check-out at the front desk, usually free.
+
+Sources:
+- [Narita Airport – Baggage Storage](https://www.narita-airport.jp/en/service/delivery/storage/)
+- [Narita Airport – Coin-Operated Lockers](https://www.narita-airport.jp/en/service/delivery/locker/)
+- [ecbo cloak – App Store](https://apps.apple.com/us/app/ecbo-cloak-luggage-storage/id1443707795)
 
 ## Money & costs
 
