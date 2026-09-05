@@ -8,7 +8,7 @@
 //   node --test scripts/lib/section-guards.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { metaTextIn, unsupportedNumbers } from './section-guards.mjs';
+import { metaTextIn, unsupportedNumbers, currencyNumbersIn } from './section-guards.mjs';
 
 test('metaTextIn catches the leak actually published in commit f48b2afd', () => {
   const leak =
@@ -92,4 +92,66 @@ test('unsupportedNumbers normalizes thousands-separator commas both ways', () =>
   const source = 'Extra-large: 1200 yen per day.';
   const bad = unsupportedNumbers(draft, [source]);
   assert.deepEqual(bad, []);
+});
+
+// ── Round 2 (2026-09-05): currency-aware strict check ──────────────────
+//
+// The plain substring rule above collides constantly with postal codes,
+// route numbers, phone numbers, visitor counts and dates. These tests use
+// the independent reviewer's exact probe plus the brief's other cases.
+
+test('unsupportedNumbers catches the reviewer\'s probe: a fabricated ¥550 ' +
+     'price whose digits happen to appear elsewhere on an unrelated page', () => {
+  const draft = 'A medium locker at this station costs about ¥550 per day.';
+  const unrelatedSourcePage = `
+    Contact us: Building 3, Room 12, 550-0001 Osaka-shi, Kita-ku.
+    Bus route 550 departs every 20 minutes from the west exit.
+    This terminal has served over 12,000,000 passengers since 1978.
+    Nothing here mentions locker pricing at all.
+  `;
+  const bad = unsupportedNumbers(draft, [unrelatedSourcePage]);
+  assert.ok(bad.includes('550'), `expected the fabricated ¥550 to be reported unsupported, got: ${bad}`);
+});
+
+test('unsupportedNumbers passes a currency figure stated near a marker in the source', () => {
+  const draft = 'A small locker costs about ¥400 for a small locker.';
+  const source = 'Small (S) ¥400 per use/day';
+  const bad = unsupportedNumbers(draft, [source]);
+  assert.deepEqual(bad, []);
+});
+
+test('unsupportedNumbers handles thousands separators and a range, including a full-width tilde', () => {
+  const draft = '¥800–1,000 for the largest';
+  const source = '800～1000JPY';
+  const bad = unsupportedNumbers(draft, [source]);
+  assert.deepEqual(bad, []);
+});
+
+test('unsupportedNumbers keeps the loose rule for a non-currency number that is stated', () => {
+  const draft = 'Lockers are open 24 hours.';
+  const source = '... 24 hour access to the locker room ...';
+  const bad = unsupportedNumbers(draft, [source]);
+  assert.deepEqual(bad, []);
+});
+
+test('unsupportedNumbers keeps the loose rule for a non-currency number that is NOT stated', () => {
+  const draft = 'Lockers are open 26 hours.';
+  const source = '... staff are on site around the clock ...';
+  const bad = unsupportedNumbers(draft, [source]);
+  assert.ok(bad.includes('26'), `expected 26 to be reported unsupported, got: ${bad}`);
+});
+
+test('currencyNumbersIn extracts a range yielding both ends, comma-normalized', () => {
+  const nums = currencyNumbersIn('¥800–1,000 for the largest');
+  assert.deepEqual(new Set(nums), new Set(['800', '1000']));
+});
+
+test('currencyNumbersIn extracts a marker-after figure ("12 THB")', () => {
+  const nums = currencyNumbersIn('A locker costs 12 THB per day.');
+  assert.deepEqual(nums, ['12']);
+});
+
+test('currencyNumbersIn does not treat an ordinary number as currency', () => {
+  const nums = currencyNumbersIn('Lockers are open 24 hours.');
+  assert.deepEqual(nums, []);
 });
