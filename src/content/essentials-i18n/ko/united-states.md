@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: united-states
+srcHash: '0b50fba9a5a6'
 title: '미국 여행 필수 정보: 비자, 교통 및 기타 안내'
 description: 미국 여행 전 알아야 할 것들 — 최신 비자 및 입국 정보, 교통수단, 화폐, 여행 최적기, 긴급 연락처를 공식 출처와 함께 안내합니다.
 ---

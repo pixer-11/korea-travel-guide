@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: uzbekistan
+srcHash: '83da6f56dea9'
 title: 'Uzbekistán: Guía de Viaje Esencial – Visado, Transporte y Más'
 description: 'Todo lo que debes saber antes de viajar a Uzbekistán: visado y requisitos de entrada actuales, cómo moverte, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

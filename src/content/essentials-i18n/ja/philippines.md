@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: philippines
+srcHash: 'cfbe54ba016d'
 title: フィリピン旅行の基本情報:ビザ・交通機関ほか
 description: フィリピン渡航前に知っておきたい最新のビザ・入国情報、移動手段、お金、ベストシーズン、緊急連絡先を公式情報源とともに解説します。
 ---

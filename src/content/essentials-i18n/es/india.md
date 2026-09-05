@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: india
+srcHash: 'b019249c9f8b'
 title: 'Información esencial para viajar a la India: visado, transporte y más'
 description: 'Lo que debes saber antes de viajar a la India: visado y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

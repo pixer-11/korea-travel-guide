@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: united-arab-emirates
+srcHash: 'efdf30efe553'
 title: 阿联酋旅行须知：签证、交通及更多信息
 description: 前往阿联酋前必须了解的信息——最新签证与入境规定、市内交通、货币、最佳旅行时间及紧急电话，附官方信息来源。
 ---

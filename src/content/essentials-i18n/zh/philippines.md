@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: philippines
+srcHash: 'cfbe54ba016d'
 title: 菲律宾旅行须知:签证、交通及更多信息
 description: 出行菲律宾前必读——最新签证与入境规定、市内交通、货币兑换、最佳旅行时间及紧急电话,附官方信息来源。
 ---

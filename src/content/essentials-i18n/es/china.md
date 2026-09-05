@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: china
+srcHash: '092da3f84b3a'
 title: 'Guía esencial de viaje a China: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a China: visado y entrada actualizados, cómo moverte, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

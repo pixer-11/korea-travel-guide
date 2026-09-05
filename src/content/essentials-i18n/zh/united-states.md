@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: united-states
+srcHash: '0b50fba9a5a6'
 title: 美国旅行必备指南：签证、交通及更多信息
 description: 赴美旅行前必读——最新签证与入境规定、交通出行、货币、最佳旅行时间及紧急电话，附官方信息来源。
 ---

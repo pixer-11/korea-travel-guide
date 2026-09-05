@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: united-arab-emirates
+srcHash: 'efdf30efe553'
 title: '아랍에미리트 여행 필수 정보: 비자, 교통 등'
 description: 아랍에미리트 여행 전 꼭 알아야 할 정보 — 최신 비자 및 입국 규정, 현지 교통수단, 화폐, 여행 최적기, 긴급 연락처를 공식 출처와 함께 안내합니다.
 ---

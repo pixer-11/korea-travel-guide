@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: malaysia
+srcHash: 'b257d56c288f'
 title: 'Requisitos de viaje a Malasia: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Malasia: visado y entrada actualizados, cómo moverte, dinero, mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---

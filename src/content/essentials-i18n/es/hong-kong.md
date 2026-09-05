@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hong-kong
+srcHash: '019cac9eba42'
 title: 'Hong Kong: Guía esencial de viaje sobre visado, transporte y más'
 description: 'Todo lo que necesitas saber antes de viajar a Hong Kong: visado y requisitos de entrada actuales, cómo moverte por la ciudad, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

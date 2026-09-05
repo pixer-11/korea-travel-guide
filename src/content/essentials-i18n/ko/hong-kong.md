@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hong-kong
+srcHash: '019cac9eba42'
 title: '홍콩 여행 필수 정보: 비자, 교통 등'
 description: 홍콩 방문 전 꼭 알아야 할 정보 — 최신 비자 및 입국 규정, 이동 방법, 화폐, 여행 최적기, 응급 전화번호까지 공식 자료와 함께 안내합니다.
 ---

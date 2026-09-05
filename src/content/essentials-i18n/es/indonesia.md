@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: indonesia
+srcHash: '5f3b0b0cc918'
 title: 'Guía de viaje esencial para Indonesia: Visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Indonesia: visado y requisitos de entrada vigentes, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

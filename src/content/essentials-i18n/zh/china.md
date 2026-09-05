@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: china
+srcHash: '092da3f84b3a'
 title: 中国旅行必备指南：签证、交通及更多信息
 description: 赴华前必读——最新签证与入境政策、市内交通、货币、最佳旅行时间及紧急电话，附官方信息来源。
 ---

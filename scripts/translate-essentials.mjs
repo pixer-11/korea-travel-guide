@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
+import { srcHashOfSourceFile, storedHashIn, stampSrcHash } from './lib/src-hash.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/essentials/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/essentials-i18n/', import.meta.url));
@@ -28,6 +29,13 @@ const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')
 const LIMIT = Number(arg('limit') || 0) || Infinity;
 const ONLY_LANG = arg('lang');
 const FORCE = process.argv.includes('--force');
+
+// The srcHash contract: exactly the fields this script translates, in this
+// order, plus the body. Until 2026-09-06 this writer skipped on existence
+// alone, so an edited English guide was never re-translated — the four
+// luggage-storage sections landed and the ko/ja/es/zh guides kept the old
+// text with no warning. Change the TOOL schema and this list together.
+const HASH_FIELDS = ['title', 'description'];
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -64,7 +72,7 @@ Body (markdown):
 ${data.body}`;
 }
 
-async function translateOne(langCode, slug, data) {
+async function translateOne(langCode, slug, data, hash) {
   const msg = await client.messages.create({
     model: MODEL,
     // 8000 was the source guide's own ceiling; a ja or zh translation of a full
@@ -101,6 +109,7 @@ async function translateOne(langCode, slug, data) {
   const fm = {
     lang: langCode,
     slug,
+    srcHash: hash,
     title: out.title,
     description: out.description || out.title,
   };
@@ -122,6 +131,8 @@ async function translateOne(langCode, slug, data) {
 const files = (await readdir(SRC)).filter((f) => f.endsWith('.md'));
 const langs = ONLY_LANG ? [ONLY_LANG] : Object.keys(LANGS);
 const jobs = [];
+const plan = { missing: 0, stale: 0, fresh: 0, legacy: 0, forced: 0 };
+let stamped = 0;
 let count = 0;
 
 for (const f of files) {
@@ -136,17 +147,35 @@ for (const f of files) {
   if (!body) continue;
 
   const data = { title: fm.title, description: fm.description, body };
+  const hash = srcHashOfSourceFile(raw, HASH_FIELDS);
   let queued = false;
   for (const lang of langs) {
     if (!LANGS[lang]) continue;
-    if (!FORCE && existsSync(join(OUT, lang, `${slug}.md`))) continue;
-    jobs.push({ lang, slug, data });
+    const target = join(OUT, lang, `${slug}.md`);
+    let reason;
+    if (FORCE) reason = 'forced';
+    else if (!existsSync(target)) reason = 'missing';
+    else {
+      const stored = storedHashIn(await readFile(target, 'utf8'));
+      if (stored === hash) reason = 'fresh';
+      else if (stored === null) {
+        // Written before hashing existed. Stamp it as current rather than pay
+        // to re-translate prose nobody changed; the next real edit re-queues it.
+        reason = 'legacy';
+        const out = stampSrcHash(await readFile(target, 'utf8'), hash);
+        if (out) { await writeFile(target, out, 'utf8'); stamped++; }
+        else console.log(`  ⚠ ${lang}/${slug}: legacy file could not be stamped`);
+      } else reason = 'stale';
+    }
+    plan[reason]++;
+    if (reason === 'fresh' || reason === 'legacy') continue;
+    jobs.push({ lang, slug, data, hash });
     queued = true;
   }
   if (queued) count++;
 }
 
-console.log(`${jobs.length} translation(s) across ${count} country guide(s) · model ${MODEL} · concurrency ${CONCURRENCY}`);
+console.log(`${jobs.length} translation(s) across ${count} country guide(s) · missing ${plan.missing} · stale ${plan.stale} · fresh ${plan.fresh} · legacy ${plan.legacy}${stamped ? ` (stamped ${stamped})` : ''}${plan.forced ? ` · forced ${plan.forced}` : ''} · model ${MODEL} · concurrency ${CONCURRENCY}`);
 if (!jobs.length) { console.log('Nothing to translate — all up to date.'); process.exit(0); }
 
 let done = 0, failed = 0, next = 0;
@@ -154,7 +183,7 @@ async function worker() {
   while (next < jobs.length) {
     const j = jobs[next++];
     try {
-      await translateOne(j.lang, j.slug, j.data);
+      await translateOne(j.lang, j.slug, j.data, j.hash);
       done++;
       console.log(`  OK ${j.lang}/${j.slug}  (${done}/${jobs.length})`);
     } catch (e) {

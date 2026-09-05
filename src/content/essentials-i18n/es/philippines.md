@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: philippines
+srcHash: 'cfbe54ba016d'
 title: 'Filipinas: lo esencial para viajar — visado, transporte y más'
 description: 'Lo que debes saber antes de viajar a Filipinas: visado y entrada vigentes, cómo moverte, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

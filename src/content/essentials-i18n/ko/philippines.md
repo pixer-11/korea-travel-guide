@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: philippines
+srcHash: 'cfbe54ba016d'
 title: '필리핀 여행 필수 정보: 비자, 교통 등'
 description: 필리핀 여행 전 알아야 할 것 — 최신 비자 및 입국 정보, 교통편, 환전과 비용, 최적의 여행 시기, 응급 연락처를 공식 자료와 함께 정리했습니다.
 ---

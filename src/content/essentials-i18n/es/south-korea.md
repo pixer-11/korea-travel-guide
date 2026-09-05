@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: south-korea
+srcHash: '371fade324ee'
 title: 'Corea del Sur: guía de viaje esencial (visado, transporte y más)'
 description: 'Todo lo que debes saber antes de viajar a Corea del Sur: visado y requisitos de entrada actuales, cómo moverte por el país, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

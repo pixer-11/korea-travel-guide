@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: france
+srcHash: 'e5590026ce6b'
 title: 'Lo esencial para viajar a Francia: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Francia: visado y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

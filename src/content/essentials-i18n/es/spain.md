@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: spain
+srcHash: '605353623f6e'
 title: 'Lo esencial para viajar a España: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a España: visado y requisitos de entrada actuales, cómo moverte por el país, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

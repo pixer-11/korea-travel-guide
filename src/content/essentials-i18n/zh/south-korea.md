@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: south-korea
+srcHash: '371fade324ee'
 title: 韩国旅行须知：签证、交通及更多信息
 description: 出发前必读的韩国旅行指南——涵盖最新签证与入境规定、交通方式、货币、最佳旅行时间以及紧急联系电话，并附官方信息来源。
 ---

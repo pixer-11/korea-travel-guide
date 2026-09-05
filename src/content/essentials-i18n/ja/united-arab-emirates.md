@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: united-arab-emirates
+srcHash: 'efdf30efe553'
 title: アラブ首長国連邦 旅行の基本情報：ビザ・交通機関など
 description: アラブ首長国連邦へ渡航する前に知っておきたい、最新のビザ・入国情報、交通手段、お金の話、旅行に適した時期、緊急連絡先を公式情報源とともにご紹介します。
 ---

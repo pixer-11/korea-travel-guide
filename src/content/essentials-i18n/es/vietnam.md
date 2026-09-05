@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: vietnam
+srcHash: '321f796b5e6a'
 title: 'Datos esenciales para viajar a Vietnam: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Vietnam: visado y entrada al país, cómo moverte, dinero, la mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---

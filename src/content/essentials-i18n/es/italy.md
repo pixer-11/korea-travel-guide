@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: italy
+srcHash: '3f774d2e6958'
 title: 'Lo esencial para viajar a Italia: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Italia: visado y requisitos de entrada actuales, cómo moverte, dinero, la mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---

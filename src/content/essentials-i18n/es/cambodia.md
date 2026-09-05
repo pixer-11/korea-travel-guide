@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: cambodia
+srcHash: '3620dc85b55d'
 title: 'Lo esencial para viajar a Camboya: visado, transporte y más'
 description: 'Lo que hay que saber antes de viajar a Camboya: visado y requisitos de entrada actuales, cómo moverte, dinero, mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---

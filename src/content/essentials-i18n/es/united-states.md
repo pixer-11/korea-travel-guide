@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: united-states
+srcHash: '0b50fba9a5a6'
 title: 'Estados Unidos: lo esencial para viajar (visado, transporte y más)'
 description: 'Lo que debes saber antes de viajar a Estados Unidos: visado y requisitos de entrada actuales, cómo moverte, dinero, mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

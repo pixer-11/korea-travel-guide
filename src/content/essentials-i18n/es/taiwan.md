@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: taiwan
+srcHash: '085943313ec5'
 title: 'Lo esencial para viajar a Taiwán: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Taiwán: visado y entrada al país, cómo moverte, dinero, la mejor época para viajar y números de emergencia, con fuentes oficiales.'
 ---

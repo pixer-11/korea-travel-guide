@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hong-kong
+srcHash: '019cac9eba42'
 title: 香港旅行须知：签证、交通及更多信息
 description: 出发前必读的香港旅行指南——最新签证与入境规定、市内交通、货币、最佳旅行时间及紧急电话，附官方信息来源。
 ---
