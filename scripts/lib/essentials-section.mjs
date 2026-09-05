@@ -14,12 +14,46 @@ export function detectEol(md) {
   return /\r\n/.test(md) ? '\r\n' : '\n';
 }
 
+/**
+ * A `## Heading` line typed inside a fenced code block (``` or ~~~, with or
+ * without an info string, indented up to three spaces) is prose, not a
+ * boundary. Replace every character on lines that fall inside such a fence
+ * with `x` so heading regexes never match there, while leaving the string
+ * the same length so match indices still point into the real document.
+ */
+function maskFences(md) {
+  const parts = md.split(/(\r\n|\n)/);
+  let fenceChar = null;
+  let fenceLen = 0;
+  let out = '';
+  for (let i = 0; i < parts.length; i += 2) {
+    const line = parts[i];
+    const sep = parts[i + 1] || '';
+    const fenceMatch = /^ {0,3}(`{3,}|~{3,})/.exec(line);
+    if (fenceChar) {
+      out += 'x'.repeat(line.length);
+      if (fenceMatch && fenceMatch[1][0] === fenceChar && fenceMatch[1].length >= fenceLen && /^\s*$/.test(line.slice(fenceMatch[0].length))) {
+        fenceChar = null;
+      }
+    } else if (fenceMatch) {
+      out += 'x'.repeat(line.length);
+      fenceChar = fenceMatch[1][0];
+      fenceLen = fenceMatch[1].length;
+    } else {
+      out += line;
+    }
+    out += sep;
+  }
+  return out;
+}
+
 /** Byte span of `## <heading>` up to the next H2 (or end of file), or null. */
 export function findSection(md, heading) {
-  const m = new RegExp(`^## ${escapeRe(heading)}[ \\t]*$`, 'm').exec(md);
+  const masked = maskFences(md);
+  const m = new RegExp(`^## ${escapeRe(heading)}[ \\t]*$`, 'm').exec(masked);
   if (!m) return null;
   const bodyFrom = m.index + m[0].length;
-  const rel = md.slice(bodyFrom).search(/^## /m);
+  const rel = masked.slice(bodyFrom).search(/^## /m);
   return { start: m.index, end: rel === -1 ? md.length : bodyFrom + rel };
 }
 

@@ -89,6 +89,97 @@ test('findSection returns null for an absent heading', () => {
   assert.ok(findSection(GUIDE, 'Getting around'));
 });
 
+test('a fenced ## heading is not a section boundary and the fence survives untouched', () => {
+  const withFence = [
+    '---',
+    'country: "X"',
+    '---',
+    '',
+    '## Getting around',
+    '',
+    'Buses run late.',
+    '',
+    '```',
+    '## Fake heading inside a fence',
+    'still inside',
+    '```',
+    '',
+    '## Official sources',
+    '',
+    '- [a](https://example.com)',
+    '',
+  ].join('\n');
+  const out = upsertSection(withFence, { heading: 'Luggage storage', body: 'Lockers.' });
+  assert.ok(out.includes('```\n## Fake heading inside a fence\nstill inside\n```'), 'the fence was split or mangled');
+  assert.ok(
+    out.indexOf('## Getting around') < out.indexOf('```\n## Fake heading') &&
+      out.indexOf('```\n## Fake heading') < out.indexOf('## Luggage storage') &&
+      out.indexOf('## Luggage storage') < out.indexOf('## Official sources'),
+    'Luggage storage was not inserted after the whole Getting around section (fence included) and before Official sources',
+  );
+});
+
+test('a section whose own heading text also appears inside a fence resolves to the real heading', () => {
+  const withFence = [
+    '---',
+    'country: "X"',
+    '---',
+    '',
+    '## Getting around',
+    '',
+    'Buses run late.',
+    '',
+    '```',
+    '## Luggage storage',
+    'this looks like the heading but is inside a fence',
+    '```',
+    '',
+    '## Luggage storage',
+    '',
+    'First text.',
+    '',
+    '## Official sources',
+    '',
+    '- [a](https://example.com)',
+    '',
+  ].join('\n');
+  const out = upsertSection(withFence, { heading: 'Luggage storage', body: 'Second text.' });
+  assert.equal((out.match(/^## Luggage storage$/gm) || []).length, 2, 'the fenced look-alike plus the real, now-updated heading');
+  assert.ok(!out.includes('First text.'), 'the real section body was not replaced');
+  assert.ok(out.includes('Second text.'));
+  assert.ok(out.includes('```\n## Luggage storage\nthis looks like the heading but is inside a fence\n```'), 'the fence was split or mangled');
+});
+
+test('a ~~~ fence is treated the same as a ``` fence', () => {
+  const withFence = [
+    '---',
+    'country: "X"',
+    '---',
+    '',
+    '## Getting around',
+    '',
+    'Buses run late.',
+    '',
+    '~~~',
+    '## Fake heading inside a tilde fence',
+    'still inside',
+    '~~~',
+    '',
+    '## Official sources',
+    '',
+    '- [a](https://example.com)',
+    '',
+  ].join('\n');
+  const out = upsertSection(withFence, { heading: 'Luggage storage', body: 'Lockers.' });
+  assert.ok(out.includes('~~~\n## Fake heading inside a tilde fence\nstill inside\n~~~'), 'the fence was split or mangled');
+  assert.ok(
+    out.indexOf('## Getting around') < out.indexOf('~~~\n## Fake heading') &&
+      out.indexOf('~~~\n## Fake heading') < out.indexOf('## Luggage storage') &&
+      out.indexOf('## Luggage storage') < out.indexOf('## Official sources'),
+    'Luggage storage was not inserted after the whole Getting around section (fence included) and before Official sources',
+  );
+});
+
 test('stampSectionReviewed records the section date without touching lastReviewed', () => {
   const out = stampSectionReviewed(GUIDE, 'luggage-storage', '2026-09-05');
   assert.match(out, /sectionsReviewed:\n  luggage-storage: 2026-09-05/);
