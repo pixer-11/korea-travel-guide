@@ -155,3 +155,64 @@ test('currencyNumbersIn does not treat an ordinary number as currency', () => {
   const nums = currencyNumbersIn('Lockers are open 24 hours.');
   assert.deepEqual(nums, []);
 });
+
+// ── Round 3 (2026-09-05): all 20 active-country currencies ─────────────
+//
+// currencyNumbersIn() previously missed ₫ (Vietnam), Rp (Indonesia), ₹
+// (India) and UZS (Uzbekistan) entirely — those figures silently fell
+// through to the loose substring rule, which is exactly the failure mode
+// the strict rule exists to remove. This table covers one realistic price
+// per active country.
+const COUNTRY_CURRENCY_CASES = [
+  ['United States', 'A locker costs $5 per day.', 'Lockers: $5 per day.', '5'],
+  ['South Korea', 'A locker costs ₩5,000 per day.', 'Lockers: ₩5,000 per day.', '5000'],
+  ['Japan', 'A small locker costs ¥400.', 'Small lockers: ¥400 per use.', '400'],
+  ['China', 'A locker costs CNY 30 per day.', 'Lockers: CNY 30 per day.', '30'],
+  ['Thailand', 'A locker costs 50 baht per day.', 'Lockers: 50 baht per day.', '50'],
+  ['France', 'A locker costs €3 per day.', 'Lockers: €3 per day.', '3'],
+  ['Spain', 'A locker costs €4 per day.', 'Lockers: €4 per day.', '4'],
+  ['Italy', 'A locker costs €5 per day.', 'Lockers: €5 per day.', '5'],
+  ['Singapore', 'A locker costs S$4 per day.', 'Lockers: S$4 per day.', '4'],
+  ['Taiwan', 'A locker costs NT$50 per day.', 'Lockers: NT$50 per day.', '50'],
+  ['Hong Kong', 'A locker costs HK$20 per day.', 'Lockers: HK$20 per day.', '20'],
+  ['India', 'A locker costs ₹150 per day.', 'Lockers: ₹150 per day.', '150'],
+  ['Turkey', 'A locker costs ₺150 per day.', 'Lockers: ₺150 per day.', '150'],
+  ['Vietnam', 'A locker costs ₫50,000 per day.', 'Lockers: ₫50,000 per day.', '50000'],
+  ['Indonesia', 'A locker costs Rp 25,000 per day.', 'Lockers: Rp 25,000 per day.', '25000'],
+  ['United Arab Emirates', 'A locker costs 8 AED per day.', 'Lockers: 8 AED per day.', '8'],
+  ['Malaysia', 'A locker costs RM 12 per day.', 'Lockers: RM 12 per day.', '12'],
+  ['Philippines', 'A locker costs ₱100 per day.', 'Lockers: ₱100 per day.', '100'],
+  ['Uzbekistan', 'A locker costs 12,000 som per day.', 'Lockers: 12,000 som per day.', '12000'],
+  ['Cambodia', 'A locker costs 4,000 riel per day.', 'Lockers: 4,000 riel per day.', '4000'],
+];
+
+// The reviewer's postal-code/bus-route style page: full of digits, no
+// currency marker anywhere, so the strict rule must reject every figure
+// regardless of which country's marker was used in the draft.
+function farSourceFor(digits) {
+  return `Building 3, Room 12, ${digits}-0001 District. Bus route ${digits} ` +
+    `departs every 20 minutes from the west exit. This terminal has served ` +
+    `over ${digits}00000 passengers since 1978. Nothing here mentions pricing.`;
+}
+
+test('unsupportedNumbers passes a realistic price for every active country ' +
+     'when the source states the figure near that country\'s marker', () => {
+  for (const [country, draft, near] of COUNTRY_CURRENCY_CASES) {
+    const bad = unsupportedNumbers(draft, [near]);
+    assert.deepEqual(bad, [], `${country}: expected no unsupported numbers, got: ${bad}`);
+  }
+});
+
+test('unsupportedNumbers flags the same 20 prices when the source does not ' +
+     'state the figure near a currency marker (postal-code/bus-route page)', () => {
+  for (const [country, draft, , digits] of COUNTRY_CURRENCY_CASES) {
+    const bad = unsupportedNumbers(draft, [farSourceFor(digits)]);
+    assert.ok(bad.includes(digits), `${country}: expected ${digits} to be reported unsupported, got: ${bad}`);
+  }
+});
+
+test('currencyNumbersIn false-positive guards: "Rome" and "the RM went missing" ' +
+     'yield no currency figures', () => {
+  assert.deepEqual(currencyNumbersIn('Rome is lovely'), []);
+  assert.deepEqual(currencyNumbersIn('the RM went missing'), []);
+});

@@ -90,25 +90,41 @@ function toSearchable(sourceText) {
 //  not merely anywhere on the page.
 // ─────────────────────────────────────────────────────────────
 
-// Multi-character symbols first so "HK$100" / "S$12" are recognized as a
-// single currency token, though matching just the bare "$" would already be
-// enough to flag the position as currency-adjacent.
-const CURRENCY_PREFIXED_SYMBOLS = ['HK\\$', 'NT\\$', 'S\\$'];
-const CURRENCY_BARE_SYMBOLS = ['¥', '\\$', '€', '£', '₩', '฿'];
+// Multi-character symbols first so "HK$100" / "S$12" / "US$5" are recognized
+// as a single currency token, though matching just the bare "$" would already
+// be enough to flag the position as currency-adjacent.
+const CURRENCY_PREFIXED_SYMBOLS = ['HK\\$', 'NT\\$', 'S\\$', 'US\\$'];
+// One bare symbol per remaining active-country currency that isn't already
+// covered by a prefixed or letter marker below (round 3, 2026-09-05 review:
+// ₫, ₹, Rp and UZS were unrecognised and fell through to the loose rule).
+const CURRENCY_BARE_SYMBOLS = ['¥', '\\$', '€', '£', '₩', '฿', '₹', '₺', '₫', '₱', '៛', '元'];
 
 // Letter markers (codes and words) use lookaround instead of \b: a code is
 // routinely glued directly to its digits with no space ("1000JPY",
 // "12THB"), and \w includes digits, so a digit-letter join is never a \b
 // boundary. The lookaround only rejects a LETTER on either side, so "1000JPY"
-// still matches while "arm"/"form"/"wonder" do not falsely match RM/won.
+// still matches while "arm"/"form"/"wonder" do not falsely match JPY/won.
 const CURRENCY_LETTER_MARKERS = [
-  'RM', 'AED', 'USD', 'JPY', 'EUR', 'THB', 'KRW',
+  'AED', 'USD', 'JPY', 'EUR', 'THB', 'KRW', 'CNY', 'RMB', 'TWD', 'HKD',
+  'SGD', 'INR', 'VND', 'IDR', 'MYR', 'PHP', 'UZS', 'TL', 'Rs\\.?',
   'yen', 'won', 'baht', 'euros?', 'dollars?', 'rupees?', 'dirhams?', 'pesos?',
-  'yuan', 'ringgit', 'rupiah', 'dong', 'som', 'riel', 'lira',
+  'yuan', 'ringgit', 'rupiah', 'dong', 'riel', 'lira',
 ];
+
+// Words that double as ordinary English (or, for "Rp"/"RM", as a token that
+// can sit glued next to unrelated text) are not made safe by a letter
+// boundary alone — "Rome", "the RM went missing", "handsome", "consume" and
+// "I'll try 5 times" all pass a plain letter-boundary check. These count as
+// a currency marker only when a digit sits on one side, at most one space
+// away, which a stray word in prose essentially never has.
+const CURRENCY_AMBIGUOUS_WORDS = ['Rp', 'RM', "so'm", 'som', 'sum', 'TRY'];
+const CURRENCY_AMBIGUOUS_MARKER = CURRENCY_AMBIGUOUS_WORDS
+  .map((w) => `(?:(?<=\\d\\s{0,1})${w}(?![A-Za-z])|(?<![A-Za-z])${w}(?=\\s{0,1}\\d))`)
+  .join('|');
 
 const CURRENCY_MARKER = '(?:' + [
   ...CURRENCY_PREFIXED_SYMBOLS,
+  CURRENCY_AMBIGUOUS_MARKER,
   ...CURRENCY_LETTER_MARKERS.map((w) => `(?<![A-Za-z])${w}(?![A-Za-z])`),
   ...CURRENCY_BARE_SYMBOLS,
 ].join('|') + ')';
