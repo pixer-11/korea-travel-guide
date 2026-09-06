@@ -1,0 +1,181 @@
+---
+// "WHAT'S CLOSED ON YOUR DATES" — the date-range question, answered from data we
+// already hold: dated public holidays per country and each venue's ordinary weekly
+// hours. Deliberately one page rather than a country x month grid: indexing has
+// been frozen since 2026-07-25, so a thousand new template URLs would reach nobody.
+// Traffic comes from internal links, not new URLs.
+//
+// The default view (first country, next 14 days) is SERVER-rendered, so the answer
+// exists as text in the delivered HTML — the same reason BestTimeTool renders its
+// cards at build time. The pickers then filter a build-time island.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { holidayLabel } from '../i18n/holidays';
+import { closuresInRange, holidaysInRange } from '../lib/whats-closed.mjs';
+import countryFacts from '../../data/country-facts.json';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+
+// Countries with holiday dates AND at least one venue we cover. A country that can
+// only ever answer "nothing" is not worth offering in the picker.
+const facts = (countryFacts as any).countries ?? {};
+const countries = Object.keys(facts)
+  .filter((c) => (facts[c].holidays ?? []).length > 0)
+  .filter((c) => posts.some((p) => p.data.country === c))
+  .sort();
+
+const today = new Date().toISOString().slice(0, 10);
+const in14 = new Date(Date.now() + 13 * 86400000).toISOString().slice(0, 10);
+
+// The default country is the first one that actually has something to say in the
+// default window, not the first alphabetically. The 2026-09-06 build defaulted to
+// Cambodia, which had neither a holiday nor a closing day in the next fortnight,
+// so the delivered HTML carried an empty answer — and an empty answer is exactly
+// what server-rendering this page was meant to prevent. Alphabetical order among
+// the candidates keeps the choice deterministic for a given day's build.
+const saysSomething = (c: string) =>
+  holidaysInRange(countryFacts, c, today, in14).length > 0 ||
+  closuresInRange(posts, { country: c, fromISO: today, toISO: in14 }).length > 0;
+const initial = countries.find(saysSomething) ?? countries[0] ?? '';
+
+// The island: per country, its holidays and the venues that keep a closing day.
+// Small (20 countries, ~130 venues) and built from the same data as the server
+// view, so the two cannot disagree.
+const island = Object.fromEntries(countries.map((c) => [c, {
+  holidays: (facts[c].holidays ?? []).map((h: any) => ({
+    date: h.date,
+    label: holidayLabel(c, h.localName, h.name, lang),
+  })),
+  venues: posts
+    .filter((p) => p.data.country === c)
+    .map((p) => ({
+      slug: p.id.replace(/\.md$/, ''),
+      name: p.data.place?.name ?? String(p.data.title).split(':')[0].trim(),
+      city: p.data.region ?? null,
+      hours: p.data.place?.hoursOmitted ? [] : (p.data.place?.openingHours ?? []),
+    }))
+    .filter((v) => v.hours.length > 0),
+}]));
+
+const holidays = initial ? holidaysInRange(countryFacts, initial, today, in14) : [];
+const closures = initial ? closuresInRange(posts, { country: initial, fromISO: today, toISO: in14 }) : [];
+---
+
+<BaseLayout title={t('wc.title')} description={t('wc.dek')} lang={lang}>
+  <main class="wc">
+    <h1>{t('wc.title')}</h1>
+    <p class="wc-dek">{t('wc.dek')}</p>
+
+    <form class="wc-form" id="wc-form">
+      <label>{t('wc.country')}
+        <select id="wc-country">
+          {countries.map((c) => <option value={c} selected={c === initial}>{c}</option>)}
+        </select>
+      </label>
+      <label>{t('wc.from')} <input type="date" id="wc-from" value={today} /></label>
+      <label>{t('wc.to')} <input type="date" id="wc-to" value={in14} /></label>
+      <button type="submit">{t('wc.check')}</button>
+    </form>
+
+    <section id="wc-holidays" class="wc-section">
+      <h2>{t('wc.holidaysHeading')}</h2>
+      <ul id="wc-holiday-list" class="wc-list">
+        {holidays.map((h: any) => (
+          <li><time datetime={h.date}>{h.date}</time> — {holidayLabel(initial, h.localName, h.name, lang)}</li>
+        ))}
+      </ul>
+      <p id="wc-holiday-empty" hidden={holidays.length > 0}>{t('wc.noHolidays')}</p>
+      <p class="wc-caveat">{t('wc.caveat')}</p>
+    </section>
+
+    <section id="wc-closures" class="wc-section">
+      <h2>{t('wc.closedHeading')}</h2>
+      <ul id="wc-closure-list" class="wc-list">
+        {closures.map((d: any) => (
+          <li>
+            <time datetime={d.date}>{d.date}</time>
+            <ul>
+              {d.venues.map((v: any) => (
+                <li><a href={localizePath(`/posts/${v.slug}`, lang)}>{v.name}</a>{v.city ? `, ${v.city}` : ''}</li>
+              ))}
+            </ul>
+          </li>
+        ))}
+      </ul>
+      <p id="wc-closure-empty" hidden={closures.length > 0}>{t('wc.noClosures')}</p>
+      <p class="wc-caveat">{t('wc.hoursSource')}</p>
+      <p><a href={localizePath('/tools/best-time', lang)}>{t('wc.quietLink')} →</a></p>
+    </section>
+  </main>
+
+  <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang) }}>
+    // Client filter over the same island the server view was built from.
+    const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+    const closedDays = (hours) => hours
+      .map((l) => /^\s*(\w+day)\s*:\s*closed\s*$/i.exec(l)?.[1])
+      .filter(Boolean)
+      .map((d) => d[0].toUpperCase() + d.slice(1).toLowerCase());
+
+    const spanOf = (from, to) => {
+      const a = Date.parse(from + 'T00:00:00Z');
+      const b = Date.parse(to + 'T00:00:00Z');
+      if (Number.isNaN(a) || Number.isNaN(b) || b < a) return [];
+      const out = [];
+      for (let t = a; t <= b && out.length < 60; t += 86400000) out.push(new Date(t).toISOString().slice(0, 10));
+      return out;
+    };
+
+    document.getElementById('wc-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      const data = island[document.getElementById('wc-country').value];
+      if (!data) return;
+      const span = spanOf(document.getElementById('wc-from').value, document.getElementById('wc-to').value);
+
+      const hs = data.holidays.filter((h) => span.includes(h.date));
+      document.getElementById('wc-holiday-list').innerHTML =
+        hs.map((h) => '<li><time datetime="' + h.date + '">' + h.date + '</time> — ' + esc(h.label) + '</li>').join('');
+      document.getElementById('wc-holiday-empty').hidden = hs.length > 0;
+
+      const byDay = {};
+      for (const v of data.venues) {
+        for (const d of closedDays(v.hours)) {
+          if (!byDay[d]) byDay[d] = [];
+          byDay[d].push(v);
+        }
+      }
+      for (const list of Object.values(byDay)) list.sort((x, y) => x.name.localeCompare(y.name));
+
+      const rows = span
+        .map((d) => ({ date: d, venues: byDay[DAYS[new Date(d + 'T00:00:00Z').getUTCDay()]] || [] }))
+        .filter((r) => r.venues.length);
+
+      document.getElementById('wc-closure-list').innerHTML = rows.map((r) =>
+        '<li><time datetime="' + r.date + '">' + r.date + '</time><ul>' +
+        r.venues.map((v) =>
+          '<li><a href="' + postBase + '/' + esc(v.slug) + '">' + esc(v.name) + '</a>' +
+          (v.city ? ', ' + esc(v.city) : '') + '</li>').join('') +
+        '</ul></li>').join('');
+      document.getElementById('wc-closure-empty').hidden = rows.length > 0;
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  .wc { max-width: 46rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+  .wc-dek { color: var(--muted, #555); margin-bottom: 1.5rem; }
+  .wc-form { display: flex; flex-wrap: wrap; gap: 0.75rem 1rem; align-items: end; margin-bottom: 2rem; }
+  .wc-form label { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.9rem; }
+  .wc-form select, .wc-form input { padding: 0.45rem 0.5rem; font: inherit; }
+  .wc-form button { padding: 0.5rem 1rem; font: inherit; cursor: pointer; }
+  .wc-section { margin-bottom: 2.5rem; }
+  .wc-list { line-height: 1.7; }
+  .wc-list ul { margin: 0.25rem 0 0.75rem 1rem; }
+  .wc-caveat { font-size: 0.88rem; color: var(--muted, #555); margin-top: 0.75rem; }
+</style>

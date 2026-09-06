@@ -159,6 +159,11 @@ const ogPhoto = pickOgPhoto(data.topVenues);
       ) : (
         <p class="section-dek">{t('wtg.noHolidays')}</p>
       )}
+      {/* This page answers the month. Someone who has picked exact dates wants
+          the range, which is the other tool's job. */}
+      <p class="section-more">
+        <a href={localizePath('/tools/whats-closed', lang)}>{t('wc.title')} →</a>
+      </p>
     </section>
 
     {(data.events.length > 0 || (data.eventPosts?.length ?? 0) > 0) && (
