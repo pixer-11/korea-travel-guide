@@ -51,3 +51,14 @@ test('a failing run still counts and shows its findings', () => {
   assert.match(out, /검은 상자/);
   assert.match(out, /다크 모드/);
 });
+
+test('a validator closing tally is chrome, not a second finding', () => {
+  const stdout = [
+    'REGION-OUTLIER: koh-phi-phi-x.md — 36.4 km from the centre; address names Krabi',
+    '',
+    '1 post(s) whose region does not match their address or coordinates.',
+  ].join('\n');
+  const digest = koDigest(stdout);
+  assert.match(digest, /^문제 1건/);
+  assert.ok(!digest.includes('대상 미상'), digest);
+});

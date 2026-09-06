@@ -52,9 +52,36 @@ if (!digest) {
 // Last line of defence. If a translated line still carries an English sentence,
 // send the Korean summary WITHOUT it rather than dropping the item — the owner
 // still learns the count and where to look, and no English goes out.
+//
+// But a finding's EVIDENCE is a quote of the site's own English prose, and the
+// quote is the whole point of the line. Testing the raw line blanked exactly the
+// findings that carried the most detail: on 2026-09-06 the owner got five
+// warnings of which two read "점검 항목 — 실행 로그 확인 필요", because their
+// evidence ran to "confirm exact set times, doors, and remaining tickets…".
+// So the quote is set aside before the test and marked as a quote in the output;
+// what is tested is the framing, which is the part that must be Korean.
+const ENGLISH_SENTENCE = /[A-Za-z]{4,}\s+[A-Za-z]{3,}\s+[A-Za-z]{3,}/;
+
+/** `• slug.md · evidence — 설명` → [before, evidence, after], or null when the
+ *  line has no evidence span. */
+function splitEvidence(line) {
+  const m = /^(.*?·\s*)(.+?)(\s+—\s.*)$/.exec(line);
+  return m ? [m[1], m[2], m[3]] : null;
+}
+
 digest = digest
   .split('\n')
-  .map((line) => (/[A-Za-z]{4,}\s+[A-Za-z]{3,}\s+[A-Za-z]{3,}/.test(line) ? '• 점검 항목 — 실행 로그 확인 필요' : line))
+  .map((line) => {
+    const parts = splitEvidence(line);
+    if (parts) {
+      const [before, evidence, after] = parts;
+      // Framing must be Korean; the quoted evidence may be the site's English.
+      if (!ENGLISH_SENTENCE.test(before + after)) return `${before}「${evidence.trim()}」${after}`;
+    } else if (!ENGLISH_SENTENCE.test(line.replace(/\S+\.md/g, ''))) {
+      return line;
+    }
+    return '• 점검 항목 — 실행 로그 확인 필요';
+  })
   .join('\n');
 
 console.log(digest);

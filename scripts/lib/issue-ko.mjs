@@ -290,9 +290,15 @@ export function koDigest(stdout, { max = 20 } = {}) {
   // chrome silenced the findings themselves: the owner got a count with no
   // content, for the exact audit — English leaking into Korean pages — he has
   // complained about most. Only the tally is chrome.
+  // A validator's closing tally is chrome even without a ❌ on it. audit-region-
+  // outliers ends with "1 post(s) whose region does not match their address or
+  // coordinates." and that line was counted as a second finding, so one bad post
+  // reached the owner as "문제 2건" with a blank second line. An alarm that
+  // overstates gets ignored, and then the one that matters is ignored with it.
+  const isTally = (l) => /^\d+\s+\w+\(s\)\s/.test(l);
   const isChrome = (l) =>
     /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋]/.test(l) || /^-{3,}$/.test(l) ||
-    /^\d+\s*type\(s\) had no pages/.test(l);
+    /^\d+\s*type\(s\) had no pages/.test(l) || isTally(l);
   const issues = all.filter((l) => !isChrome(l));
 
   if (!issues.length) {

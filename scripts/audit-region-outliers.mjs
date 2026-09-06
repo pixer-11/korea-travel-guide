@@ -78,7 +78,24 @@ for (const file of readdirSync(DIR)) {
   });
 }
 
-const allHits = findRegionOutliers(posts);
+// A venue whose OFFICIAL ADDRESS sits in another region while the guide is
+// genuinely about this one. The first case (2026-09-07) is Hat Noppharat Thara–
+// Mu Ko Phi Phi National Park: one park designation over two places, and Google
+// files it at the mainland headquarters in Krabi while the guide is about Maya
+// Bay and the island day-trips from Phi Phi Don. Retagging it to Krabi would
+// make the page wrong, so the exception is recorded here with its reason rather
+// than left to fire every day — an alarm that cries wolf is an alarm nobody reads.
+// Add an entry only after reading the article and confirming the region is right.
+const KNOWN_SPLIT_SITES = new Map([
+  ['koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park.md',
+   'one national park over two places; Google files it at the mainland HQ in Krabi, the guide is about the Phi Phi islands'],
+]);
+
+const allHits = findRegionOutliers(posts).filter((h) => {
+  const why = KNOWN_SPLIT_SITES.get(h.post.file);
+  if (why) console.log(`   (known split site, not counted) ${h.post.file} — ${why}`);
+  return !why;
+});
 // A post already quarantined for its region is not a new finding — the repair
 // patrol re-checks drafts itself. They are listed, but only live posts fail the run.
 const held = allHits.filter((h) => h.post.draft);
