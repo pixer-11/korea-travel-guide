@@ -146,6 +146,24 @@ jobs:
           retention-days: 14
           if-no-files-found: ignore
 
+      # The crawl answers "does this URL resolve". It does NOT answer "does this
+      # link go where the page claims" — on 2026-09-06 a page existed in five
+      # languages, answered 200 in all five, and sent every reader to the locale
+      # root because it never declared itself localized. A person opening a
+      # browser caught it. This runs on the same build the crawl just used.
+      - name: Check where the localized links actually go
+        id: dest
+        run: |
+          set -o pipefail
+          node scripts/audit-link-destinations.mjs 2>&1 | tee /tmp/dest.log || true
+          n=$(grep -c '^LINK-DESTINATION:' /tmp/dest.log || true)
+          echo "dest_bad=${n:-0}" >> "$GITHUB_OUTPUT"
+          {
+            echo "dest_list<<EOF_DEST"
+            grep '^LINK-DESTINATION:' /tmp/dest.log | head -6 || true
+            echo "EOF_DEST"
+          } >> "$GITHUB_OUTPUT"
+
       # The static crawl cannot see /og/* (worker + R2), so probe PRODUCTION
       # with a deterministic daily sample instead — the skip above must not
       # become a blind spot the week the mirror actually breaks.
@@ -178,6 +196,8 @@ jobs:
           UNREACHED: ${{ steps.crawl.outputs.unreached }}
           LIST: ${{ steps.crawl.outputs.list }}
           OG_BAD: ${{ steps.ogsample.outputs.og_bad }}
+          DEST_BAD: ${{ steps.dest.outputs.dest_bad }}
+          DEST_LIST: ${{ steps.dest.outputs.dest_list }}
           OG_SAMPLED: ${{ steps.ogsample.outputs.og_sampled }}
           JOB_STATUS: ${{ job.status }}
         run: |
@@ -204,6 +224,13 @@ jobs:
               echo "$LIST"
               echo ""
               echo "클로드에게 '깨진 링크 고쳐줘'라고 말하면 수정합니다."
+            fi
+            # A separate question from "does it resolve": does the link go where
+            # the page says it goes. Reported even on an otherwise clean week.
+            if [ "${DEST_BAD:-0}" != "0" ]; then
+              echo ""
+              echo "⚠️ 엉뚱한 곳으로 가는 링크 ${DEST_BAD}개 — 페이지가 안내하는 곳과 실제 목적지가 다릅니다:"
+              echo "$DEST_LIST"
             fi
           } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
