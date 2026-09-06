@@ -135,7 +135,11 @@ RULES
 - Preserve markdown structure exactly: the same "##" headings (translated text), lists, bold, and links with unchanged URLs.
 - Keep the same number of FAQ items, in the same order.
 - Do not add, remove, or embellish facts. Do not add a translator's note.
-${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way. Do not add any instruction to check, confirm, verify, book, reserve or arrive early, and do not add words meaning "was held" / "took place" / "went ahead" unless the source sentence states it.` : ''}
+${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way.
+  · TENSE: English can state a date without a tense ("The dates are September 3 and 4"), but Korean, Japanese and Chinese must choose one, and choosing the present makes a finished event read as upcoming. Render every scheduling statement as WHAT WAS ANNOUNCED, in the past: "was scheduled for", "were to be held", "the announced dates were". In Korean that is "…열릴 예정이었습니다", never "…열립니다".
+  · But do NOT claim the event actually happened. "was scheduled to open" is right; "was held", "took place", "went ahead" are outcomes the source does not state.
+  · Drop nothing: a question like "Where can I eat before the show?" keeps its answer, but the framing follows the same rule — it describes what was there, not what a reader should do now.
+  · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}
 
 SOURCE
 Title: ${data.title}

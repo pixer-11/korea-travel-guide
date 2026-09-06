@@ -30,7 +30,7 @@ faq:
   - q: How long should I plan to spend watching a stage?
     a: A stage takes most of a day. The sponsor caravan and buildup precede the riders by up to an hour, and mountain stages involve hours of roadside waiting for a brief pass-through.
   - q: Where can I confirm the official 2026 route and schedule?
-    a: letour.fr, the official Tour de France website, is the authority for stage towns, the Paris circuit and stage timings.
+    a: letour.fr, the official Tour de France website, is the reference for stage towns, the Paris circuit and stage timings.
 aiGenerated: true
 draft: false
 eventRecurring: true
@@ -52,7 +52,7 @@ Unlike most major sporting events, admission to the roadside is free — it's a 
 
 Paris is the obvious base: it's served by two major airports (Charles de Gaulle and Orly) and the Gare du Nord/Gare de Lyon rail hubs, with Eurostar and TGV links from across Europe. The finish traditionally loops through central Paris past the Place de la Concorde and along the Champs-Élysées, and recent editions have included a circuit near the Eiffel Tower and Trocadéro rather than a single straight run to the Champs-Élysées.
 
-The nearest Métro stations to the traditional finish straight are Concorde (Lines 1, 8, 12) and Champs-Élysées–Clemenceau (Lines 1, 13). The preceding Alpine stages were scheduled for July 24-25; host towns and climbs (historically passes like the Col du Galibier, Alpe d'Huez, or the Col de la Loze have featured in recent Tours) are announced separately. Regional TGV plus local shuttle buses are usually the way in, and roads close hours before the riders arrive.
+The nearest Métro stations to the traditional finish straight are Concorde (Lines 1, 8, 12) and Champs-Élysées–Clemenceau (Lines 1, 13). The preceding Alpine stages were scheduled for July 24-25, with host towns and climbs named separately (historically, passes like the Col du Galibier, Alpe d'Huez, or the Col de la Loze have featured in recent Tours). Regional TGV plus local shuttle buses are usually the way in, and roads close hours before the riders arrive.
 
 ## What to see
 
@@ -62,7 +62,7 @@ A common approach for anyone not chasing a specific climb is watching TV coverag
 
 ## When to go
 
-The closing window was July 24-26, 2026, with the decisive Alpine stages leading into the July 26 Paris finish. Sprint finishes in the Champs-Élysées area have historically arrived in the early evening, after a full afternoon of laps. Mountain stage finishes run on their own schedule, dictated by stage length and rider pace, and spectators aiming for an Alpine summit finish are typically in position by early-to-mid afternoon, since roads close well ahead of the peloton.
+The closing window was set for July 24-26, 2026, with the decisive Alpine stages leading into the July 26 Paris finish. Sprint finishes in the Champs-Élysées area have historically arrived in the early evening, after a full afternoon of laps. Mountain stage finishes follow their own schedule, dictated by stage length and rider pace, and spectators aiming for an Alpine summit finish are typically in position by early-to-mid afternoon, since roads close well ahead of the peloton.
 
 ## How to visit like a local
 
@@ -70,4 +70,4 @@ Regular Tour spectators pick a spot and settle in early rather than chasing the 
 
 The biggest mistake first-timers make is treating it like a stadium event with a single dramatic entrance — in reality the race passes multiple times if there's a finishing circuit, and each viewing spot has its own pass times rather than one fleeting moment. Driving to or near an Alpine mountain stage on race day isn't an option either; roads shut down early and stay closed until well after the last rider and broadcast vehicles clear.
 
-Routes and host towns are only fully confirmed a few months ahead, and letour.fr, the official Tour de France website, is where the finalized stage towns, the Paris circuit and any ticketed grandstand options appear.
+Routes and host towns are typically finalized only a few months ahead of each Tour. letour.fr is the official Tour de France website, covering stage towns, the Paris circuit and any ticketed grandstand options.

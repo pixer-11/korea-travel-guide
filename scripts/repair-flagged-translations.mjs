@@ -36,13 +36,25 @@ const fileOf = (key) => {
 // The store is the source of truth; the .txt list is a report of one past run and
 // was already 31 names out of date when this was written.
 const store = JSON.parse(readFileSync(STORE, 'utf8'));
-const flagged = Object.entries(store)
-  .filter(([, v]) => v?.score >= 2)
-  .sort((a, b) => b[1].score - a[1].score)
-  .map(([key, v]) => ({ key, score: v.score, file: fileOf(key) }))
-  .filter((j) => existsSync(j.file));
 
-console.log(`${flagged.length} translation(s) judged poor (score 2+)`);
+// KEYS lets another audit hand its own list to the same safe machinery — delete
+// in small batches, refill at once, restore on failure. The first caller is
+// audit-ended-event-tense-i18n, whose findings the quality judge cannot see:
+// the English is fine, so nothing in the score store points at them.
+//   KEYS="$(node scripts/audit-ended-event-tense-i18n.mjs --list | grep '^ENDED-EVENT-I18N-TENSE:' | awk '{print $2}')" node scripts/repair-flagged-translations.mjs
+const KEYS = (process.env.KEYS || '').split(/[\s,]+/).map((s) => s.trim()).filter(Boolean);
+
+const flagged = KEYS.length
+  ? KEYS.map((key) => ({ key, score: '-', file: fileOf(key) })).filter((j) => existsSync(j.file))
+  : Object.entries(store)
+      .filter(([, v]) => v?.score >= 2)
+      .sort((a, b) => b[1].score - a[1].score)
+      .map(([key, v]) => ({ key, score: v.score, file: fileOf(key) }))
+      .filter((j) => existsSync(j.file));
+
+console.log(KEYS.length
+  ? `${flagged.length} translation(s) named on the command line`
+  : `${flagged.length} translation(s) judged poor (score 2+)`);
 if (DRY) {
   for (const j of flagged.slice(0, LIMIT)) console.log(`  score ${j.score}  ${j.key}`);
   console.log('--dry: nothing deleted, nothing called.');
@@ -58,10 +70,19 @@ for (let i = 0; i < targets.length; i += BATCH) {
 
   for (const j of batch) await unlink(j.file);
 
-  const run = spawnSync(process.execPath, ['scripts/translate-posts.mjs'], {
-    encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], maxBuffer: 5e7,
-  });
-  const summary = /TRANSLATE_SUMMARY .*/.exec(`${run.stdout}\n${run.stderr}`)?.[0] ?? '(no summary)';
+  // translate-posts fills whatever is missing SITE-WIDE, so a batch of twelve can
+  // be crowded out by other gaps and come back with three of its own files still
+  // absent (seen 2026-09-07). Run it again while any of this batch is missing, and
+  // only then fall back to restoring.
+  let summary = '(no summary)';
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const run = spawnSync(process.execPath, ['scripts/translate-posts.mjs'], {
+      encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], maxBuffer: 5e7,
+    });
+    summary = /TRANSLATE_SUMMARY .*/.exec([run.stdout, run.stderr].join('\n'))?.[0] ?? '(no summary)';
+    if (batch.every((j) => existsSync(j.file))) break;
+    if (attempt < 3) console.log(`  ↻ batch incomplete, running the translator again (${attempt + 1}/3)`);
+  }
 
   for (const j of batch) {
     if (existsSync(j.file)) {
