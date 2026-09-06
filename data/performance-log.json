@@ -1100,5 +1100,200 @@
         "delta": -3
       }
     ]
+  },
+  {
+    "week": "2026-09-06",
+    "pageviews": 425,
+    "visits": 332,
+    "top": [
+      {
+        "path": "/",
+        "views": 27
+      },
+      {
+        "path": "/api/",
+        "views": 22
+      },
+      {
+        "path": "/ko/",
+        "views": 21
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 18
+      },
+      {
+        "path": "/posts/singapore-formula-1-singapore-grand-prix-2026/",
+        "views": 13
+      },
+      {
+        "path": "/es/posts/venice-venice-international-film-festival-mostra-del-cinema/",
+        "views": 10
+      },
+      {
+        "path": "/posts/sentosa-sentosa-sensoryscape/",
+        "views": 10
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/february/",
+        "views": 9
+      },
+      {
+        "path": "/ko/methodology/",
+        "views": 7
+      },
+      {
+        "path": "/posts/kuala-lumpur-post-malone-live-in-malaysia/",
+        "views": 6
+      },
+      {
+        "path": "/posts/phuket-phuket-vegetarian-festival/",
+        "views": 6
+      },
+      {
+        "path": "/posts/siena-palio-dell-assunta-palio-di-siena/",
+        "views": 6
+      },
+      {
+        "path": "/flights/",
+        "views": 6
+      },
+      {
+        "path": "/destinations/",
+        "views": 5
+      },
+      {
+        "path": "/zh/posts/jakarta-taman-mini-indonesia-indah/",
+        "views": 5
+      },
+      {
+        "path": "/zh/posts/pasay-city-lalala-fest-manila-2026/",
+        "views": 5
+      },
+      {
+        "path": "/posts/new-york-flushing-queens-us-open-tennis-championships-2026/",
+        "views": 5
+      },
+      {
+        "path": "/tools/when-to-go/italy/september/",
+        "views": 5
+      },
+      {
+        "path": "/posts/phnom-penh-independence-monument/",
+        "views": 4
+      },
+      {
+        "path": "/posts/nantes-chateau-des-ducs-de-bretagne/",
+        "views": 4
+      },
+      {
+        "path": "/itinerary/",
+        "views": 4
+      },
+      {
+        "path": "/posts/pamukkale-hierapolis/",
+        "views": 4
+      },
+      {
+        "path": "/posts/singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour/",
+        "views": 4
+      },
+      {
+        "path": "/about/",
+        "views": 4
+      },
+      {
+        "path": "/tools/when-to-go/vietnam/january/",
+        "views": 3
+      },
+      {
+        "path": "/terms/",
+        "views": 3
+      },
+      {
+        "path": "/zh/",
+        "views": 3
+      },
+      {
+        "path": "/ko/about/",
+        "views": 3
+      },
+      {
+        "path": "/ko/essentials/indonesia/",
+        "views": 3
+      },
+      {
+        "path": "/tools/when-to-go/",
+        "views": 3
+      }
+    ],
+    "risers": [
+      {
+        "path": "/api/",
+        "delta": 22
+      },
+      {
+        "path": "/posts/singapore-formula-1-singapore-grand-prix-2026/",
+        "delta": 13
+      },
+      {
+        "path": "/es/posts/venice-venice-international-film-festival-mostra-del-cinema/",
+        "delta": 10
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/february/",
+        "delta": 9
+      },
+      {
+        "path": "/ko/methodology/",
+        "delta": 7
+      },
+      {
+        "path": "/posts/kuala-lumpur-post-malone-live-in-malaysia/",
+        "delta": 6
+      },
+      {
+        "path": "/posts/phuket-phuket-vegetarian-festival/",
+        "delta": 6
+      },
+      {
+        "path": "/posts/siena-palio-dell-assunta-palio-di-siena/",
+        "delta": 6
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/",
+        "delta": -29
+      },
+      {
+        "path": "/posts/genoa-porto-antico/",
+        "delta": -21
+      },
+      {
+        "path": "/posts/pattaya-mamamia-pattaya-street-noodles/",
+        "delta": -16
+      },
+      {
+        "path": "/ko/events/",
+        "delta": -11
+      },
+      {
+        "path": "/itinerary/tokyo-3-days/",
+        "delta": -11
+      },
+      {
+        "path": "/posts/barcelona-la-merce-festival/",
+        "delta": -9
+      },
+      {
+        "path": "/posts/tokyo-tyler-the-creator-chromakopia-the-world-tour/",
+        "delta": -9
+      },
+      {
+        "path": "/events/",
+        "delta": -8
+      }
+    ]
   }
 ]
