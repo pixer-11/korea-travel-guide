@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jumeirah-zabeel-park
-srcHash: '28b4a5672ca2'
+srcHash: 'a907c1560556'
 title: 'Parque Zabeel: Guía de Viaje de Dubái (4.6★)'
-description: 'El parque Zabeel, situado en el distrito Al Kifaf/Al Jafiliya de Dubái (cerca de la estación de metro Zabeel), es un espacio verde de 117 acres famoso por el Dubai Frame y su mercadillo de fin de semana. 4.6★ (42.040 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El parque Zabeel, situado en el distrito Al Kifaf/Al Jafiliya de Dubái (cerca de la estación de metro Zabeel), es un espacio verde de 117 acres famoso por el Dubai Frame y su mercadillo de fin de semana. 4.6★ (42.058 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Zabeel, situado en el distrito Al Kifaf/Al Jafiliya de Dubái (cerca de la estación de metro Zabeel), es un espacio verde de 117 acres famoso por el Dubai Frame y su mercadillo de fin de semana. Abre todos los días de 8:00 a 22:00 (hasta las 23:00 de viernes a domingo) y, dado lo concurrido que suele estar con su calificación de 4.6 estrellas, las mañanas entre semana justo después de la apertura son la mejor opción para evitar aglomeraciones. Reserva entre dos y tres horas si quieres ver el Frame y recorrer el parque.
 faq:
   - q: ¿Cómo llego al parque Zabeel sin coche?

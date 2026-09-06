@@ -1,36 +1,41 @@
 ---
-title: "Kaş Old town: Kas Travel Guide (4.7★)"
-description: "Kaş Old Town is the tangle of whitewashed, bougainvillea-draped lanes around İbrahim Serin Caddesi in central Kaş, open around the clock with no ticket needed. 4.7★ (223 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Kas"
-category: "attraction"
-pubDate: "2026-08-11T09:15:23.206Z"
+title: 'Kaş Old town: Kas Travel Guide (4.7★)'
+description: >-
+  Kaş Old Town is the tangle of whitewashed, bougainvillea-draped lanes around
+  İbrahim Serin Caddesi in central Kaş, open around the clock with no ticket
+  needed. 4.8★ (236 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Kas
+category: attraction
+pubDate: '2026-08-11T09:15:23.206Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2023-11-16_Ka%C5%9F_Old_Town_3.jpg/3840px-2023-11-16_Ka%C5%9F_Old_Town_3.jpg"
-  credit: "Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2023-11-16_Ka%C5%9F_Old_Town_3.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2023-11-16_Ka%C5%9F_Old_Town_3.jpg/3840px-2023-11-16_Ka%C5%9F_Old_Town_3.jpg
+  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2023-11-16_Ka%C5%9F_Old_Town_3.jpg'
 gallery: []
 place:
-  id: "ChIJeWU9xlrbwRQRYlZP54w9pdg"
-  name: "Kaş Old town"
-  address: "Andifli, İbrahim Serin Cd. No:10, 07580 Kaş/Antalya, Türkiye"
-  rating: 4.7
-  userRatingsTotal: 223
-  googleMapsUrl: "https://maps.google.com/?cid=15610951358735144546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJeWU9xlrbwRQRYlZP54w9pdg
+  name: Kaş Old town
+  address: 'Andifli, İbrahim Serin Cd. No:10, 07580 Kaş/Antalya, Türkiye'
+  rating: 4.8
+  userRatingsTotal: 236
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15610951358735144546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.200049
   lng: 29.641694
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekdayBusy:
@@ -53,24 +58,43 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_67647039773435505a6c595251527762726c78395557654a496843"
+    venueId: ven_67647039773435505a6c595251527762726c78395557654a496843
 tags:
-  - "kas"
-  - "top attraction"
-quickAnswer: "Kaş Old Town is the tangle of whitewashed, bougainvillea-draped lanes around İbrahim Serin Caddesi in central Kaş, open around the clock with no ticket needed. Go early — weekday mornings between 8 and 9am are quietest — and give yourself an hour or two to wander, browse, and stop for tea before the day-trippers arrive. It's a walkable half-day pairing with the harbor and the Hellenistic theatre just above town."
+  - kas
+  - top attraction
+quickAnswer: >-
+  Kaş Old Town is the tangle of whitewashed, bougainvillea-draped lanes around
+  İbrahim Serin Caddesi in central Kaş, open around the clock with no ticket
+  needed. Go early — weekday mornings between 8 and 9am are quietest — and give
+  yourself an hour or two to wander, browse, and stop for tea before the
+  day-trippers arrive. It's a walkable half-day pairing with the harbor and the
+  Hellenistic theatre just above town.
 faq:
-  - q: "Do I need a ticket to visit Kaş Old Town?"
-    a: "No — it's an open neighborhood of streets and houses, not a ticketed site, and it's accessible 24 hours a day."
-  - q: "What's the quietest time to visit?"
-    a: "Weekday mornings between 8am and 9am are calmest. On weekends, crowds build from 8am and stay heavy until around 7pm, so evenings after 9pm are your best bet then."
-  - q: "How long should I spend there?"
-    a: "Plan on at least an hour, though two to three hours lets you also see the nearby rock tombs and Hellenistic theatre without rushing."
-  - q: "How do I get to Kaş Old Town from central Kaş or the bus station?"
-    a: "It's walkable from almost anywhere in Kaş — the otogar (bus station) is about a 10-15 minute walk, and the harbor sits right at its edge."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "The ancient Hellenistic theatre is a short uphill walk, and the harbor promenade with views toward Kastellorizo island is right at the Old Town's edge."
+  - q: Do I need a ticket to visit Kaş Old Town?
+    a: >-
+      No — it's an open neighborhood of streets and houses, not a ticketed site,
+      and it's accessible 24 hours a day.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekday mornings between 8am and 9am are calmest. On weekends, crowds
+      build from 8am and stay heavy until around 7pm, so evenings after 9pm are
+      your best bet then.
+  - q: How long should I spend there?
+    a: >-
+      Plan on at least an hour, though two to three hours lets you also see the
+      nearby rock tombs and Hellenistic theatre without rushing.
+  - q: How do I get to Kaş Old Town from central Kaş or the bus station?
+    a: >-
+      It's walkable from almost anywhere in Kaş — the otogar (bus station) is
+      about a 10-15 minute walk, and the harbor sits right at its edge.
+  - q: What else is nearby worth combining with a visit?
+    a: >-
+      The ancient Hellenistic theatre is a short uphill walk, and the harbor
+      promenade with views toward Kastellorizo island is right at the Old Town's
+      edge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

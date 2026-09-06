@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: jumeirah-dubai-old-village
-srcHash: '7b2389bb2168'
+srcHash: '5b683379856f'
 title: 迪拜老村：旅行指南（4.6★）
-description: 迪拜老村（Dubai Old Village）位于迪拜河（Dubai Creek）巴迪拜（Bur Dubai）一侧的阿哈姆里亚（Al Hamriya），是一处按珊瑚石与石膏建筑复原而成的历史街区，还原了石油繁荣之前迪拜的样貌。4.6★（1,105条评价）——真实游客评价、开放时间与实用建议。
+description: 迪拜老村（Dubai Old Village）位于迪拜河（Dubai Creek）巴迪拜（Bur Dubai）一侧的阿哈姆里亚（Al Hamriya），是一处按珊瑚石与石膏建筑复原而成的历史街区，还原了石油繁荣之前迪拜的样貌。4.6★（1,109条评价）——真实游客评价、开放时间与实用建议。
 quickAnswer: 迪拜老村位于迪拜河巴迪拜一侧的阿哈姆里亚，是一处由珊瑚石与石膏建筑复原而成的历史街区，展现了石油繁荣之前迪拜的原貌。与阿法迪历史街区（Al Fahidi）和阿西夫（Al Seef）相比，这里知名度低得多，因此常常能让你独享整条巷子。建议安排45分钟到1小时游览，最好选在清晨或傍晚较凉爽的时段前往。
 faq:
   - q: 迪拜老村具体在哪里？

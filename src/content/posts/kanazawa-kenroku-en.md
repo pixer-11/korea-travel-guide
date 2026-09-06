@@ -1,27 +1,34 @@
 ---
 title: 'Kenroku-en: Kanazawa Travel Guide'
-description: Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among Japan's "three great gardens" alongside Kairaku-en and Koraku-en, and it's worth 90 minutes to 2 hours.
+description: >-
+  Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among
+  Japan's "three great gardens" alongside Kairaku-en and Koraku-en, and it's
+  worth 90 minutes to 2 hours.
 country: Japan
 region: Kanazawa
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg/1920px-View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg/1920px-View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg
   credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:View_towards_Hanami-bashi_with_sakura,_Kenroku-en,_Kanazawa,_2016.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_towards_Hanami-bashi_with_sakura,_Kenroku-en,_Kanazawa,_2016.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20190705_Kenroku-en-6.jpg/1920px-20190705_Kenroku-en-6.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20190705_Kenroku-en-6.jpg/1920px-20190705_Kenroku-en-6.jpg
     credit: 'Photo: Balon Greyjoy / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:20190705_Kenroku-en-6.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:20190705_Kenroku-en-6.jpg'
 place:
   id: ChIJBVmy-YMz-F8R5PID8D17Cpc
   name: Kenroku-en
-  address: 1 Kenrokumachi, Kanazawa, Ishikawa 920-0936, Japan
+  address: '1 Kenrokumachi, Kanazawa, Ishikawa 920-0936, Japan'
   rating: 4.4
-  userRatingsTotal: 37523
-  googleMapsUrl: https://maps.google.com/?cid=10883646955444237028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 37857
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10883646955444237028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.5621278
   lng: 136.66265149999998
@@ -54,21 +61,46 @@ place:
 tags:
   - kanazawa
   - top attraction
-quickAnswer: Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among Japan's "three great gardens" alongside Kairaku-en and Koraku-en, and it's worth 90 minutes to 2 hours. Enter near the Kenrokuen-shita/Kanko Center bus stop and head straight for the Kasumigaike Pond area to see the iconic Kotoji-toro stone lantern. Go early morning or just after opening to beat tour groups, and check the season — cherry blossoms, summer greenery, autumn maples, and the famous yukizuri rope-tied pines in winter each transform the park.
+quickAnswer: >-
+  Kenroku-en is Kanazawa's celebrated Edo-period stroll garden, ranked among
+  Japan's "three great gardens" alongside Kairaku-en and Koraku-en, and it's
+  worth 90 minutes to 2 hours. Enter near the Kenrokuen-shita/Kanko Center bus
+  stop and head straight for the Kasumigaike Pond area to see the iconic
+  Kotoji-toro stone lantern. Go early morning or just after opening to beat tour
+  groups, and check the season — cherry blossoms, summer greenery, autumn
+  maples, and the famous yukizuri rope-tied pines in winter each transform the
+  park.
 faq:
   - q: How do I get to Kenroku-en from Kanazawa Station?
-    a: Take the Kanazawa Loop Bus or Kenrokuen Shuttle Bus from the station's east exit bus terminal; it's about a 10-15 minute ride to the Kenrokuen-shita/Kanko Center stop right at the garden entrance. Walking takes about 25-30 minutes.
+    a: >-
+      Take the Kanazawa Loop Bus or Kenrokuen Shuttle Bus from the station's
+      east exit bus terminal; it's about a 10-15 minute ride to the
+      Kenrokuen-shita/Kanko Center stop right at the garden entrance. Walking
+      takes about 25-30 minutes.
   - q: How much time should I plan for a visit?
-    a: Most visitors spend 60-90 minutes walking the main loop; add 30 minutes if you want to stop for matcha at Shigure-tei teahouse or continue on into adjacent Kanazawa Castle Park.
+    a: >-
+      Most visitors spend 60-90 minutes walking the main loop; add 30 minutes if
+      you want to stop for matcha at Shigure-tei teahouse or continue on into
+      adjacent Kanazawa Castle Park.
   - q: What is the best time of year to visit?
-    a: Cherry blossoms in late March/April, irises in early summer, red maples in mid-to-late November, and rope-tied 'yukizuri' pines from roughly November through March are the four signature seasonal sights — each gives the garden a different character.
+    a: >-
+      Cherry blossoms in late March/April, irises in early summer, red maples in
+      mid-to-late November, and rope-tied 'yukizuri' pines from roughly November
+      through March are the four signature seasonal sights — each gives the
+      garden a different character.
   - q: What's the one thing I shouldn't miss?
-    a: The Kotoji-toro stone lantern at Kasumigaike Pond, the garden's most iconic and photographed feature, paired with the centuries-old Karasaki Pine behind it.
+    a: >-
+      The Kotoji-toro stone lantern at Kasumigaike Pond, the garden's most
+      iconic and photographed feature, paired with the centuries-old Karasaki
+      Pine behind it.
   - q: Is Kenroku-en near other attractions?
-    a: Yes — it directly connects to Kanazawa Castle Park via the Ishikawa-mon Gate, and it's a short walk to the Ishikawa Prefectural Museum of Art and the D.T. Suzuki Museum.
+    a: >-
+      Yes — it directly connects to Kanazawa Castle Park via the Ishikawa-mon
+      Gate, and it's a short walk to the Ishikawa Prefectural Museum of Art and
+      the D.T. Suzuki Museum.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-06'
 ---
 
 ## Why Kenroku-en Is Worth Your Time

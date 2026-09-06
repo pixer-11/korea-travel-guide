@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jumeirah-dubai-water-canal
-srcHash: 'f010f8ce601d'
+srcHash: '8e8918836a58'
 title: 'Canal de Agua de Dubái: guía de viaje de Jumeirah (4,6★)'
-description: 'El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. 4,6★ (2.080 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. 4,6★ (2.084 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. Conviene ir temprano por la mañana para disfrutar del aire más fresco y la luz más suave; los fines de semana, el tramo más tranquilo va de 7:00 a 15:00, mientras que el más concurrido es de 9:00 a 23:00. Para un paseo basta con reservar entre 1 y 2 horas, más si se recorre en bicicleta todo el circuito.
 faq:
   - q: ¿Cómo se llega al Canal de Agua de Dubái?

@@ -1,27 +1,34 @@
 ---
 title: 'Jurong Lake Gardens: Travel Guide (4.6★)'
-description: Jurong Lake Gardens is Singapore's largest park outside the city centre, wrapped around Jurong Lake with a wetland boardwalk, playgrounds, a dog run and kayaking. 4.6★ (6,475 reviews) — what visitors say, hours, and tips.
+description: >-
+  Jurong Lake Gardens is Singapore's largest park outside the city centre,
+  wrapped around Jurong Lake with a wetland boardwalk, playgrounds, a dog run
+  and kayaking. 4.6★ (6,480 reviews) — what visitors say, hours, and tips.
 country: Singapore
 region: Jurong
 category: attraction
 pubDate: '2026-08-12T09:30:57.788Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chinese_Garden.JPG/1920px-Chinese_Garden.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chinese_Garden.JPG/1920px-Chinese_Garden.JPG
   credit: 'Photo: Brhb25 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chinese_Garden.JPG
+  source: 'https://commons.wikimedia.org/wiki/File:Chinese_Garden.JPG'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jurong_Lake_Gardens_Stoneboat_0005.jpg/1920px-Jurong_Lake_Gardens_Stoneboat_0005.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jurong_Lake_Gardens_Stoneboat_0005.jpg/1920px-Jurong_Lake_Gardens_Stoneboat_0005.jpg
     credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Jurong_Lake_Gardens_Stoneboat_0005.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jurong_Lake_Gardens_Stoneboat_0005.jpg
 place:
   id: ChIJWQLwKP0P2jER-AOMrDbkIW8
   name: Jurong Lake Gardens
-  address: Yuan Ching Rd, Singapore
+  address: 'Yuan Ching Rd, Singapore'
   rating: 4.6
-  userRatingsTotal: 6475
-  googleMapsUrl: https://maps.google.com/?cid=8007932535915676664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6480
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8007932535915676664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3348491999999998
   lng: 103.72645569999999
@@ -56,20 +63,36 @@ place:
 tags:
   - jurong
   - top attraction
-quickAnswer: Jurong Lake Gardens is Singapore's largest park outside the city centre, wrapped around Jurong Lake with a wetland boardwalk, playgrounds, a dog run and kayaking. It's open 24 hours daily, so early morning (before 8am) is your best bet to beat the crowds — weekends get busy from 8am to 10pm. Budget half a day, and wear closed shoes for the swamp forest boardwalk.
+quickAnswer: >-
+  Jurong Lake Gardens is Singapore's largest park outside the city centre,
+  wrapped around Jurong Lake with a wetland boardwalk, playgrounds, a dog run
+  and kayaking. It's open 24 hours daily, so early morning (before 8am) is your
+  best bet to beat the crowds — weekends get busy from 8am to 10pm. Budget half
+  a day, and wear closed shoes for the swamp forest boardwalk.
 faq:
   - q: How do I get to Jurong Lake Gardens without a car?
-    a: Take the East-West Line MRT to either Lakeside or Chinese Garden station — both are about a 10-minute walk from the park's edges.
+    a: >-
+      Take the East-West Line MRT to either Lakeside or Chinese Garden station —
+      both are about a 10-minute walk from the park's edges.
   - q: What time is quietest to visit?
-    a: Weekday mornings before 8am are calmest. Weekends stay busy from 8am to 10pm, so avoid that window if you want space to yourself.
+    a: >-
+      Weekday mornings before 8am are calmest. Weekends stay busy from 8am to
+      10pm, so avoid that window if you want space to yourself.
   - q: How long should I spend there?
-    a: Plan for two to three hours to cover the Grasslands and the Rasau Boardwalk properly; add more if you want to try kayaking.
+    a: >-
+      Plan for two to three hours to cover the Grasslands and the Rasau
+      Boardwalk properly; add more if you want to try kayaking.
   - q: Is there an entry fee?
-    a: No, the gardens are free and open 24 hours a day. Activities like kayaking or dragon boating at Neram Streams may carry their own separate cost.
+    a: >-
+      No, the gardens are free and open 24 hours a day. Activities like kayaking
+      or dragon boating at Neram Streams may carry their own separate cost.
   - q: Is it worth combining with anything nearby?
-    a: Yes — the Chinese Garden and Japanese Garden sit right next door and are an easy add-on walk.
+    a: >-
+      Yes — the Chinese Garden and Japanese Garden sit right next door and are
+      an easy add-on walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

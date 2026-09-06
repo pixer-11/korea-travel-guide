@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kep-kep-national-park
-srcHash: '7138fb2c7c94'
+srcHash: '3285dc646c57'
 title: 'Parque Nacional de Kep: Guía de viaje (4,2★)'
-description: 'El Parque Nacional de Kep es un pequeño parque costero de colina en el sur de Camboya, fácil de recorrer a pie y conocido por su sendero circular de cresta, sus miradores al mar y una pagoda en lo alto. 4,2★ (417 opiniones): qué dicen los visitantes, horarios y consejos.'
+description: 'El Parque Nacional de Kep es un pequeño parque costero de colina en el sur de Camboya, fácil de recorrer a pie y conocido por su sendero circular de cresta, sus miradores al mar y una pagoda en lo alto. 4,2★ (419 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Kep es un pequeño parque costero de colina en el sur de Camboya, fácil de recorrer a pie y conocido por su sendero circular de cresta, sus miradores al mar y una pagoda en lo alto. Calcule entre dos y tres horas para completar el circuito, use calzado adecuado y lleve su propia agua. Los fines de semana el parque está más tranquilo de 13:00 a 20:00, mientras que las llegadas aumentan entre las 9:00 y las 23:00; por eso conviene empezar temprano o tarde para evitar las multitudes.
 faq:
   - q: ¿Cuánto se tarda en recorrer el Parque Nacional de Kep?

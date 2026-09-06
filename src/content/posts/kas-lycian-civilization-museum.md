@@ -1,55 +1,77 @@
 ---
-title: "Lycian Civilization Museum: Kas Travel Guide (4.7★)"
-description: "The Lycian Civilization Museum sits in Büyükkum, just outside Demre (about an hour from Kas), and is open daily 8:30am–7:00pm. 4.7★ (1,893 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Kas"
-category: "attraction"
-pubDate: "2026-08-19T09:30:04.156Z"
+title: 'Lycian Civilization Museum: Kas Travel Guide (4.7★)'
+description: >-
+  The Lycian Civilization Museum sits in Büyükkum, just outside Demre (about an
+  hour from Kas), and is open daily 8:30am–7:00pm. 4.7★ (1,913 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Kas
+category: attraction
+pubDate: '2026-08-19T09:30:04.156Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum_of_Lycian_Civilizations_29012022_006.jpg/3840px-Museum_of_Lycian_Civilizations_29012022_006.jpg"
-  credit: "Photo: Yamen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_of_Lycian_Civilizations_29012022_006.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum_of_Lycian_Civilizations_29012022_006.jpg/3840px-Museum_of_Lycian_Civilizations_29012022_006.jpg
+  credit: 'Photo: Yamen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museum_of_Lycian_Civilizations_29012022_006.jpg
   focus:
     x: 45
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJF9x6FRLuwRQRRMbt_rlzAx0"
-  name: "Lycian Civilization Museum"
-  address: "Büyükkum, 07570 Demre/Antalya, Türkiye"
+  id: ChIJF9x6FRLuwRQRRMbt_rlzAx0
+  name: Lycian Civilization Museum
+  address: 'Büyükkum, 07570 Demre/Antalya, Türkiye'
   rating: 4.7
-  userRatingsTotal: 1893
-  googleMapsUrl: "https://maps.google.com/?cid=2090641894713181764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1913
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2090641894713181764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.225938
   lng: 29.955561099999997
-  phone: "+90 242 871 60 01"
+  phone: +90 242 871 60 01
   openingHours:
-    - "Monday: 8:30 AM – 7:00 PM"
-    - "Tuesday: 8:30 AM – 7:00 PM"
-    - "Wednesday: 8:30 AM – 7:00 PM"
-    - "Thursday: 8:30 AM – 7:00 PM"
-    - "Friday: 8:30 AM – 7:00 PM"
-    - "Saturday: 8:30 AM – 7:00 PM"
-    - "Sunday: 8:30 AM – 7:00 PM"
+    - 'Monday: 8:30 AM – 7:00 PM'
+    - 'Tuesday: 8:30 AM – 7:00 PM'
+    - 'Wednesday: 8:30 AM – 7:00 PM'
+    - 'Thursday: 8:30 AM – 7:00 PM'
+    - 'Friday: 8:30 AM – 7:00 PM'
+    - 'Saturday: 8:30 AM – 7:00 PM'
+    - 'Sunday: 8:30 AM – 7:00 PM'
 tags:
-  - "kas"
-  - "museum"
-quickAnswer: "The Lycian Civilization Museum sits in Büyükkum, just outside Demre (about an hour from Kas), and is open daily 8:30am–7:00pm. Budget 45–60 minutes for the compact but well-curated collection of Lycian sarcophagi, coins and inscriptions. Go in the morning before tour buses heading to nearby Myra and St. Nicholas Church arrive."
+  - kas
+  - museum
+quickAnswer: >-
+  The Lycian Civilization Museum sits in Büyükkum, just outside Demre (about an
+  hour from Kas), and is open daily 8:30am–7:00pm. Budget 45–60 minutes for the
+  compact but well-curated collection of Lycian sarcophagi, coins and
+  inscriptions. Go in the morning before tour buses heading to nearby Myra and
+  St. Nicholas Church arrive.
 faq:
-  - q: "How far is the Lycian Civilization Museum from Kas?"
-    a: "About 45 minutes to an hour by car or dolmuş, since the museum is in Büyükkum on the edge of Demre, east of Kas along the coast road."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 45 minutes to an hour — it's a compact museum, not a sprawling one."
-  - q: "What are the opening hours?"
-    a: "It's open daily, including weekends, from 8:30am to 7:00pm, with no weekly closure day."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go in the first hour or two after opening, before coach tours from Kas and Kalkan arrive for the combined Myra–church–museum circuit."
-  - q: "Can I combine it with other sites nearby?"
-    a: "Yes — Myra's rock tombs are about 5 minutes away and St. Nicholas Church is in central Demre, making a natural half-day loop."
+  - q: How far is the Lycian Civilization Museum from Kas?
+    a: >-
+      About 45 minutes to an hour by car or dolmuş, since the museum is in
+      Büyükkum on the edge of Demre, east of Kas along the coast road.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 45 minutes to an hour — it's a compact museum, not a
+      sprawling one.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily, including weekends, from 8:30am to 7:00pm, with no weekly
+      closure day.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go in the first hour or two after opening, before coach tours from Kas and
+      Kalkan arrive for the combined Myra–church–museum circuit.
+  - q: Can I combine it with other sites nearby?
+    a: >-
+      Yes — Myra's rock tombs are about 5 minutes away and St. Nicholas Church
+      is in central Demre, making a natural half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

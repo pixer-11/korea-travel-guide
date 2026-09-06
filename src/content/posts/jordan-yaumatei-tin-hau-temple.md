@@ -1,52 +1,78 @@
 ---
-title: "Yaumatei Tin Hau Temple: Jordan Travel Guide (4.2★)"
-description: "Yaumatei Tin Hau Temple is a compound of five linked temple halls on a raised square just off Temple Street in Jordan, dedicated mainly to the sea goddess Tin Hau. 4.2★ (1,771 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "attraction"
-pubDate: "2026-08-12T17:20:19.447Z"
+title: 'Yaumatei Tin Hau Temple: Jordan Travel Guide (4.2★)'
+description: >-
+  Yaumatei Tin Hau Temple is a compound of five linked temple halls on a raised
+  square just off Temple Street in Jordan, dedicated mainly to the sea goddess
+  Tin Hau. 4.2★ (1,780 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: attraction
+pubDate: '2026-08-12T17:20:19.447Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg/3840px-Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg"
-  credit: "Photo: Ceeseven / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg/3840px-Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg
+  credit: 'Photo: Ceeseven / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Yaumatei_Tin_Hau_Temple_viewed_from_Yaumatei_Carpark_Building.jpg
 gallery: []
 place:
-  id: "ChIJmzA0NcAABDQRQL35gm6PY0o"
-  name: "Yaumatei Tin Hau Temple"
-  address: "56-58 Temple Street, 56-58 Temple St, Yau Ma Tei, Hong Kong"
+  id: ChIJmzA0NcAABDQRQL35gm6PY0o
+  name: Yaumatei Tin Hau Temple
+  address: '56-58 Temple Street, 56-58 Temple St, Yau Ma Tei, Kowloon, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 1771
-  googleMapsUrl: "https://maps.google.com/?cid=5360285686307601728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1780
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5360285686307601728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3098958
   lng: 114.1706135
-  phone: "+852 2915 3488"
+  phone: +852 2915 3488
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "jordan"
-  - "top attraction"
-quickAnswer: "Yaumatei Tin Hau Temple is a compound of five linked temple halls on a raised square just off Temple Street in Jordan, dedicated mainly to the sea goddess Tin Hau. It's open 8am–5pm daily (from 9am Sundays), free to enter, and worth 20-30 minutes on your way to the Temple Street night market. Go in the morning for quiet incense-lit halls and better light for photos."
+  - jordan
+  - top attraction
+quickAnswer: >-
+  Yaumatei Tin Hau Temple is a compound of five linked temple halls on a raised
+  square just off Temple Street in Jordan, dedicated mainly to the sea goddess
+  Tin Hau. It's open 8am–5pm daily (from 9am Sundays), free to enter, and worth
+  20-30 minutes on your way to the Temple Street night market. Go in the morning
+  for quiet incense-lit halls and better light for photos.
 faq:
-  - q: "How much time should I budget for the visit?"
-    a: "20 to 30 minutes is enough to walk through all five halls and the outer square, longer if you linger under the banyan trees or watch the fortune-tellers."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to Yaumatei Tin Hau Temple is free. You'd only spend money if you buy incense or pay for a fortune-telling session outside."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Go on a weekday morning shortly after it opens at 8am. By late afternoon the surrounding square fills with Temple Street market stalls being set up, which changes the mood considerably."
-  - q: "How do I get there by MTR?"
-    a: "Take the Tsuen Wan Line to Yau Ma Tei Station, use Exit C, and walk north about five minutes. Jordan Station on the same line is a similar walk from the south."
-  - q: "Can I combine this with other nearby sights?"
-    a: "Yes — it sits right at the top of Temple Street night market, close to the Jade Market and the old shophouses along Shanghai Street, so it fits naturally into a Yau Ma Tei walking route."
+  - q: How much time should I budget for the visit?
+    a: >-
+      20 to 30 minutes is enough to walk through all five halls and the outer
+      square, longer if you linger under the banyan trees or watch the
+      fortune-tellers.
+  - q: Is there an entrance fee?
+    a: >-
+      No, entry to Yaumatei Tin Hau Temple is free. You'd only spend money if
+      you buy incense or pay for a fortune-telling session outside.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Go on a weekday morning shortly after it opens at 8am. By late afternoon
+      the surrounding square fills with Temple Street market stalls being set
+      up, which changes the mood considerably.
+  - q: How do I get there by MTR?
+    a: >-
+      Take the Tsuen Wan Line to Yau Ma Tei Station, use Exit C, and walk north
+      about five minutes. Jordan Station on the same line is a similar walk from
+      the south.
+  - q: Can I combine this with other nearby sights?
+    a: >-
+      Yes — it sits right at the top of Temple Street night market, close to the
+      Jade Market and the old shophouses along Shanghai Street, so it fits
+      naturally into a Yau Ma Tei walking route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

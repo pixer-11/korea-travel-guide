@@ -1,46 +1,72 @@
 ---
-title: "Green Cathedral: Kampot Travel Guide (4.2★)"
-description: "The Green Cathedral in Kampot, Cambodia is a bamboo-and-jungle canopy walkway a short drive from Kampot town, best visited in the cooler early morning or late afternoon light before the heat sets in. 4.2★ (134 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kampot"
-category: "attraction"
-pubDate: "2026-08-26T09:36:43.866Z"
+title: 'Green Cathedral: Kampot Travel Guide (4.2★)'
+description: >-
+  The Green Cathedral in Kampot, Cambodia is a bamboo-and-jungle canopy walkway
+  a short drive from Kampot town, best visited in the cooler early morning or
+  late afternoon light before the heat sets in. 4.2★ (135 reviews) — what
+  visitors say, hours, and tips.
+country: Cambodia
+region: Kampot
+category: attraction
+pubDate: '2026-08-26T09:36:43.866Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Almere_-_Groene_Kathedraal.jpg/1920px-Almere_-_Groene_Kathedraal.jpg"
-  credit: "Photo: Stipo team / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Almere_-_Groene_Kathedraal.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Almere_-_Groene_Kathedraal.jpg/1920px-Almere_-_Groene_Kathedraal.jpg
+  credit: 'Photo: Stipo team / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Almere_-_Groene_Kathedraal.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJwW-uaZA3CDERXhs3sIGSlMk"
-  name: "Green Cathedral"
-  address: "M52J+HW, Kampot, Cambodia"
+  id: ChIJwW-uaZA3CDERXhs3sIGSlMk
+  name: Green Cathedral
+  address: 'M52J+HW, Kampot, Cambodia'
   rating: 4.2
-  userRatingsTotal: 134
-  googleMapsUrl: "https://maps.google.com/?cid=14525395783881530206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 135
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14525395783881530206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.651379799999999
   lng: 104.1823719
 tags:
-  - "kampot"
-  - "top attraction"
-quickAnswer: "The Green Cathedral in Kampot, Cambodia is a bamboo-and-jungle canopy walkway a short drive from Kampot town, best visited in the cooler early morning or late afternoon light before the heat sets in. It's still under-the-radar, so you can often have the trail to yourself. Budget 30-45 minutes, and check with your guesthouse or a tuk-tuk driver on current access before heading out."
+  - kampot
+  - top attraction
+quickAnswer: >-
+  The Green Cathedral in Kampot, Cambodia is a bamboo-and-jungle canopy walkway
+  a short drive from Kampot town, best visited in the cooler early morning or
+  late afternoon light before the heat sets in. It's still under-the-radar, so
+  you can often have the trail to yourself. Budget 30-45 minutes, and check with
+  your guesthouse or a tuk-tuk driver on current access before heading out.
 faq:
-  - q: "How do I get to the Green Cathedral in Kampot?"
-    a: "It's about 15-20 minutes from central Kampot by tuk-tuk, moto, or bicycle. There's no street address, so share the map coordinates with your driver rather than a written address."
-  - q: "Is there an entrance fee?"
-    a: "No, it's an open stretch of road and canopy, not a ticketed attraction. There's no booth, signage, or facilities on site."
-  - q: "What's the best time to visit?"
-    a: "Early morning or late afternoon gives the softest light through the canopy and avoids Kampot's midday heat. Dry season (November-April) also keeps the dirt paths easier to walk or cycle."
-  - q: "How much time should I plan for?"
-    a: "Most visitors spend 30-45 minutes walking the canopy and taking photos. It pairs well with other nearby stops like pepper farms or the Phnom Chhnork caves."
-  - q: "Is it crowded?"
-    a: "It's still under-the-radar, so it's usually quiet, especially on weekday mornings. Weekends can bring modest extra traffic from other travelers doing the same loop."
+  - q: How do I get to the Green Cathedral in Kampot?
+    a: >-
+      It's about 15-20 minutes from central Kampot by tuk-tuk, moto, or bicycle.
+      There's no street address, so share the map coordinates with your driver
+      rather than a written address.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's an open stretch of road and canopy, not a ticketed attraction.
+      There's no booth, signage, or facilities on site.
+  - q: What's the best time to visit?
+    a: >-
+      Early morning or late afternoon gives the softest light through the canopy
+      and avoids Kampot's midday heat. Dry season (November-April) also keeps
+      the dirt paths easier to walk or cycle.
+  - q: How much time should I plan for?
+    a: >-
+      Most visitors spend 30-45 minutes walking the canopy and taking photos. It
+      pairs well with other nearby stops like pepper farms or the Phnom Chhnork
+      caves.
+  - q: Is it crowded?
+    a: >-
+      It's still under-the-radar, so it's usually quiet, especially on weekday
+      mornings. Weekends can bring modest extra traffic from other travelers
+      doing the same loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

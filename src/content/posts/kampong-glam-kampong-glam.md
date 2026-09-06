@@ -1,22 +1,28 @@
 ---
 title: 'Kampong Glam: Travel Guide'
-description: Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to it.
+description: >-
+  Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the
+  golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up
+  to it.
 country: Singapore
 region: Kampong Glam
 category: hidden-gem
 pubDate: '2026-07-23T07:38:55.463Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg
   credit: 'Photo: Robert Sim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg
 place:
   id: ChIJBe5vRW8Z2jERwJr2F0Bt0gs
   name: Kampong Glam
-  address: 26 Bussorah St, Singapore 199444
+  address: '26 Bussorah St, Singapore 199444'
   rating: 4.6
-  userRatingsTotal: 94
-  googleMapsUrl: https://maps.google.com/?cid=851863401573817024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 99
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=851863401573817024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.30137
   lng: 103.8598031
@@ -48,19 +54,39 @@ place:
 tags:
   - kampong glam
   - hidden gem
-quickAnswer: Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up to it. Spend 2-3 hours wandering Bussorah Street, Arab Street's textile shops, and the street art of Haji Lane; go on a weekday morning to see it before the lunch and evening crowds arrive. Nearest MRT is Bugis (East-West and Downtown Lines), about a 7-10 minute walk.
+quickAnswer: >-
+  Kampong Glam is Singapore's historic Malay-Muslim quarter, anchored by the
+  golden-domed Masjid Sultan and the pedestrianized Bussorah Street leading up
+  to it. Spend 2-3 hours wandering Bussorah Street, Arab Street's textile shops,
+  and the street art of Haji Lane; go on a weekday morning to see it before the
+  lunch and evening crowds arrive. Nearest MRT is Bugis (East-West and Downtown
+  Lines), about a 7-10 minute walk.
 faq:
   - q: How do I get to Kampong Glam by public transport?
-    a: Take the MRT to Bugis Station (East-West or Downtown Line) and walk about 7-10 minutes northeast via Victoria Street or North Bridge Road. Nicoll Highway on the Circle Line is a nearby alternative.
+    a: >-
+      Take the MRT to Bugis Station (East-West or Downtown Line) and walk about
+      7-10 minutes northeast via Victoria Street or North Bridge Road. Nicoll
+      Highway on the Circle Line is a nearby alternative.
   - q: How long should I spend in Kampong Glam?
-    a: Plan on 2-3 hours to walk Bussorah Street, Arab Street, Haji Lane, and Masjid Sultan at a relaxed pace, longer if you stop for food or shopping.
+    a: >-
+      Plan on 2-3 hours to walk Bussorah Street, Arab Street, Haji Lane, and
+      Masjid Sultan at a relaxed pace, longer if you stop for food or shopping.
   - q: Is it free to enter Masjid Sultan?
-    a: Yes, entry is free outside of prayer times, though visitors should dress modestly (shoulders and knees covered) and may be asked to borrow a robe at the entrance.
+    a: >-
+      Yes, entry is free outside of prayer times, though visitors should dress
+      modestly (shoulders and knees covered) and may be asked to borrow a robe
+      at the entrance.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings between roughly 9 and 11am are quietest. Avoid Friday midday, which is the main congregational prayer time at the mosque.
+    a: >-
+      Weekday mornings between roughly 9 and 11am are quietest. Avoid Friday
+      midday, which is the main congregational prayer time at the mosque.
   - q: What else is nearby?
-    a: Bugis Street market and Bugis Junction mall are a short walk away, and the Civic District and Marina Bay area are reachable within about 15-20 minutes by MRT or taxi.
+    a: >-
+      Bugis Street market and Bugis Junction mall are a short walk away, and the
+      Civic District and Marina Bay area are reachable within about 15-20
+      minutes by MRT or taxi.
 aiGenerated: true
+updatedDate: '2026-09-06'
 ---
 
 ## Why go

@@ -1,44 +1,54 @@
 ---
-title: "Fo Guang Shan Buddha Museum: Kaohsiung Travel Guide (4.6★)"
-description: "Fo Guang Shan Buddha Museum, in Kaohsiung's Dashu District, is a sprawling complex of eight pagodas leading to a 36-meter bronze Amitabha Buddha, free to enter and open 9am–6pm most weekdays (till 7pm weekends, closed Tuesdays). 4.6★ (39,540 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kaohsiung"
-category: "attraction"
-pubDate: "2026-08-18T09:16:29.920Z"
+title: 'Fo Guang Shan Buddha Museum: Kaohsiung Travel Guide (4.6★)'
+description: >-
+  Fo Guang Shan Buddha Museum, in Kaohsiung's Dashu District, is a sprawling
+  complex of eight pagodas leading to a 36-meter bronze Amitabha Buddha, free to
+  enter and open 9am–6pm most weekdays (till 7pm weekends, closed Tuesdays).
+  4.6★ (39,595 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Kaohsiung
+category: attraction
+pubDate: '2026-08-18T09:16:29.920Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg/1920px-Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg"
-  credit: "Photo: Huicheng1967 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg/1920px-Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg
+  credit: 'Photo: Huicheng1967 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/513161622_NFXTm1cKk6H4zPxGy48_gK_sDQ0EmrjOaClICjqW0Iw.jpg"
-    credit: "Photo: Foursquare user content (佛光山佛陀紀念館 Buddha Memorial FGS)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4efd14e79adffb90ca6244af"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/513161622_NFXTm1cKk6H4zPxGy48_gK_sDQ0EmrjOaClICjqW0Iw.jpg
+    credit: 'Photo: Foursquare user content (佛光山佛陀紀念館 Buddha Memorial FGS)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4efd14e79adffb90ca6244af'
 place:
-  id: "ChIJK3DeNq8WbjQRPFlnj_pTDKc"
-  name: "Fo Guang Shan Buddha Museum"
-  address: "No. 1號, Tongling Rd, Tongling Village, Dashu District, Kaohsiung City, Taiwan 84049"
+  id: ChIJK3DeNq8WbjQRPFlnj_pTDKc
+  name: Fo Guang Shan Buddha Museum
+  address: >-
+    No. 1號, Tongling Rd, Tongling Village, Dashu District, Kaohsiung City,
+    Taiwan 84049
   rating: 4.6
-  userRatingsTotal: 39540
-  googleMapsUrl: "https://maps.google.com/?cid=12037088239667337532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 39595
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12037088239667337532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.7549492
   lng: 120.44738699999999
-  phone: "+886 7 656 3033"
+  phone: +886 7 656 3033
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -49,24 +59,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_634b4454705f6a6e6c465052516a625738714e6544334b4a496843"
+    venueId: ven_634b4454705f6a6e6c465052516a625738714e6544334b4a496843
 tags:
-  - "kaohsiung"
-  - "museum"
-quickAnswer: "Fo Guang Shan Buddha Museum, in Kaohsiung's Dashu District, is a sprawling complex of eight pagodas leading to a 36-meter bronze Amitabha Buddha, free to enter and open 9am–6pm most weekdays (till 7pm weekends, closed Tuesdays). Give yourself at least half a day. Weekends run 10am–7pm as the busiest stretch, so arrive right at 9am to beat tour buses and enjoy the front plaza in relative calm."
+  - kaohsiung
+  - museum
+quickAnswer: >-
+  Fo Guang Shan Buddha Museum, in Kaohsiung's Dashu District, is a sprawling
+  complex of eight pagodas leading to a 36-meter bronze Amitabha Buddha, free to
+  enter and open 9am–6pm most weekdays (till 7pm weekends, closed Tuesdays).
+  Give yourself at least half a day. Weekends run 10am–7pm as the busiest
+  stretch, so arrive right at 9am to beat tour buses and enjoy the front plaza
+  in relative calm.
 faq:
-  - q: "How much does it cost to enter?"
-    a: "General admission to the museum grounds and main Buddha area is free. Some rotating special exhibitions inside the pagodas may carry a small separate fee, so check signage at the entrance on the day."
-  - q: "What's the best way to get there without a car?"
-    a: "The most reliable option is the free shuttle bus from Kaohsiung's Zuoying High Speed Rail Station; confirm the current schedule at the station's tourist information counter before setting out."
-  - q: "How long should I plan to spend here?"
-    a: "Budget at least three to four hours to walk the full plaza, visit a few pagoda galleries, and reach the base of the Buddha statue. Add more time if a special exhibition or ceremony is on."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings, especially Wednesday to Friday right after the 9am opening, are calmer. Weekends from 10am to 7pm are consistently the busiest stretch, so avoid that window if you can."
-  - q: "Is the museum open every day?"
-    a: "It's closed every Tuesday. Other weekdays it runs 9am–6pm, and on Saturday and Sunday it stays open an hour later, until 7pm."
+  - q: How much does it cost to enter?
+    a: >-
+      General admission to the museum grounds and main Buddha area is free. Some
+      rotating special exhibitions inside the pagodas may carry a small separate
+      fee, so check signage at the entrance on the day.
+  - q: What's the best way to get there without a car?
+    a: >-
+      The most reliable option is the free shuttle bus from Kaohsiung's Zuoying
+      High Speed Rail Station; confirm the current schedule at the station's
+      tourist information counter before setting out.
+  - q: How long should I plan to spend here?
+    a: >-
+      Budget at least three to four hours to walk the full plaza, visit a few
+      pagoda galleries, and reach the base of the Buddha statue. Add more time
+      if a special exhibition or ceremony is on.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings, especially Wednesday to Friday right after the 9am
+      opening, are calmer. Weekends from 10am to 7pm are consistently the
+      busiest stretch, so avoid that window if you can.
+  - q: Is the museum open every day?
+    a: >-
+      It's closed every Tuesday. Other weekdays it runs 9am–6pm, and on Saturday
+      and Sunday it stays open an hour later, until 7pm.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

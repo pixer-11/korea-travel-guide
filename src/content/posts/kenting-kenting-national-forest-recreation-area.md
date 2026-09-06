@@ -1,25 +1,34 @@
 ---
 title: 'Kenting National Forest Recreation Area: Travel Guide (4.7★)'
-description: Kenting National Forest Recreation Area is a limestone-and-jungle park on the edge of Kenting Village, open daily 8am–5pm, best explored in 2-3 hours along its raised boardwalks through coral-rock caves and banyan-root tunnels. 4.7★ (2,203 reviews) — what visitors say, hours, and tips.
+description: >-
+  Kenting National Forest Recreation Area is a limestone-and-jungle park on the
+  edge of Kenting Village, open daily 8am–5pm, best explored in 2-3 hours along
+  its raised boardwalks through coral-rock caves and banyan-root tunnels. 4.7★
+  (2,209 reviews) — what visitors say, hours, and tips.
 country: Taiwan
 region: Kenting
 category: attraction
 pubDate: '2026-08-22T07:56:49.020Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2d/Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
   credit: 'Photo: 阿道 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kenting_National_Forest_Recreation_Area.2024-01-16.jpg
   focus:
     x: 50
     'y': 55
 place:
   id: ChIJ-zAOmNCzcTQRhEu_pVhjoV8
   name: Kenting National Forest Recreation Area
-  address: No. 201號, Gongyuan Rd, Kending Village, Hengchun Township, Pingtung County, Taiwan 946
+  address: >-
+    No. 201號, Gongyuan Rd, Kending Village, Hengchun Township, Pingtung County,
+    Taiwan 946
   rating: 4.7
-  userRatingsTotal: 2203
-  googleMapsUrl: https://maps.google.com/?cid=6890898137242618756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2209
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6890898137242618756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 21.9600303
   lng: 120.81125949999999
@@ -51,20 +60,41 @@ place:
 tags:
   - kenting
   - park
-quickAnswer: Kenting National Forest Recreation Area is a limestone-and-jungle park on the edge of Kenting Village, open daily 8am–5pm, best explored in 2-3 hours along its raised boardwalks through coral-rock caves and banyan-root tunnels. Go on a weekday, or before 9am on weekends, to beat the tour-bus crowds that build between 10am and 4pm. Wear grippy shoes — the karst terrain is slick and uneven even on the marked paths.
+quickAnswer: >-
+  Kenting National Forest Recreation Area is a limestone-and-jungle park on the
+  edge of Kenting Village, open daily 8am–5pm, best explored in 2-3 hours along
+  its raised boardwalks through coral-rock caves and banyan-root tunnels. Go on
+  a weekday, or before 9am on weekends, to beat the tour-bus crowds that build
+  between 10am and 4pm. Wear grippy shoes — the karst terrain is slick and
+  uneven even on the marked paths.
 faq:
   - q: How long does it take to visit Kenting National Forest Recreation Area?
-    a: Plan for 2–3 hours to walk the main boardwalk loop, explore the caves, and reach the High Point Observation Deck without rushing.
+    a: >-
+      Plan for 2–3 hours to walk the main boardwalk loop, explore the caves, and
+      reach the High Point Observation Deck without rushing.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the 8am–5pm opening hours. On weekends, arrive between 8am and 9am — after that, 10am to 4pm gets crowded with tour groups.
+    a: >-
+      Weekdays are calm throughout the 8am–5pm opening hours. On weekends,
+      arrive between 8am and 9am — after that, 10am to 4pm gets crowded with
+      tour groups.
   - q: How do I get there without a car?
-    a: It's a 15–20 minute walk from most Kenting Village guesthouses, or take the Kenting Express or local Pingtung buses to Kenting Village and walk uphill to the entrance on Gongyuan Road.
+    a: >-
+      It's a 15–20 minute walk from most Kenting Village guesthouses, or take
+      the Kenting Express or local Pingtung buses to Kenting Village and walk
+      uphill to the entrance on Gongyuan Road.
   - q: What should I wear or bring?
-    a: Wear closed, grippy shoes — the limestone and coral rock sections can be slick, even where boardwalks are provided. Bring water, as shade thins out in open sections.
+    a: >-
+      Wear closed, grippy shoes — the limestone and coral rock sections can be
+      slick, even where boardwalks are provided. Bring water, as shade thins out
+      in open sections.
   - q: Is it suitable for young kids or strollers?
-    a: Most of the loop is walkable for kids, but some cave passages and stone steps are low-clearance and uneven, making strollers impractical in places.
+    a: >-
+      Most of the loop is walkable for kids, but some cave passages and stone
+      steps are low-clearance and uneven, making strollers impractical in
+      places.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

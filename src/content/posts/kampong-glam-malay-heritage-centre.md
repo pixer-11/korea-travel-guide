@@ -1,55 +1,76 @@
 ---
-title: "Malay Heritage Centre: Kampong Glam Travel Guide (4.3★)"
-description: "The Malay Heritage Centre in Kampong Glam sits at 85 Sultan Gate, inside the restored Istana Kampong Gelam right behind Sultan Mosque. 4.3★ (1,773 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Kampong Glam"
-category: "attraction"
-pubDate: "2026-08-25T08:06:52.939Z"
+title: 'Malay Heritage Centre: Kampong Glam Travel Guide (4.3★)'
+description: >-
+  The Malay Heritage Centre in Kampong Glam sits at 85 Sultan Gate, inside the
+  restored Istana Kampong Gelam right behind Sultan Mosque. 4.3★ (1,777 reviews)
+  — what visitors say, hours, and tips.
+country: Singapore
+region: Kampong Glam
+category: attraction
+pubDate: '2026-08-25T08:06:52.939Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Malay_Heritage_Centre%2C_2012.jpg/1920px-Malay_Heritage_Centre%2C_2012.jpg"
-  credit: "Photo: Elisa.rolle / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Malay_Heritage_Centre,_2012.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Malay_Heritage_Centre%2C_2012.jpg/1920px-Malay_Heritage_Centre%2C_2012.jpg
+  credit: 'Photo: Elisa.rolle / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Malay_Heritage_Centre,_2012.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJU-yCOrEZ2jER9h_JbDNPFBQ"
-  name: "Malay Heritage Centre"
-  address: "85 Sultan Gate, Singapore 198501"
+  id: ChIJU-yCOrEZ2jER9h_JbDNPFBQ
+  name: Malay Heritage Centre
+  address: '85 Sultan Gate, Singapore 198501'
   rating: 4.3
-  userRatingsTotal: 1773
-  googleMapsUrl: "https://maps.google.com/?cid=1446868462579818486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1777
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1446868462579818486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3027993
   lng: 103.8599265
-  phone: "+65 6391 0450"
+  phone: +65 6391 0450
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "kampong glam"
-  - "museum"
-quickAnswer: "The Malay Heritage Centre in Kampong Glam sits at 85 Sultan Gate, inside the restored Istana Kampong Gelam right behind Sultan Mosque. It's open 10am–6pm daily except Monday, and you'll want 60–90 minutes to see the galleries properly. Go on a weekday morning for the emptiest rooms and pair it with a walk down Arab Street."
+  - kampong glam
+  - museum
+quickAnswer: >-
+  The Malay Heritage Centre in Kampong Glam sits at 85 Sultan Gate, inside the
+  restored Istana Kampong Gelam right behind Sultan Mosque. It's open 10am–6pm
+  daily except Monday, and you'll want 60–90 minutes to see the galleries
+  properly. Go on a weekday morning for the emptiest rooms and pair it with a
+  walk down Arab Street.
 faq:
-  - q: "How much time should I budget for the Malay Heritage Centre?"
-    a: "Plan on 60–90 minutes for the permanent galleries; add extra time if a temporary exhibition or courtyard performance is on."
-  - q: "What's the nearest MRT station?"
-    a: "Bugis MRT station (East-West and Downtown lines), about a five-minute walk via Exit C and Victoria Street."
-  - q: "Is the Malay Heritage Centre open every day?"
-    a: "It's closed on Mondays. The rest of the week, including weekends, it runs 10am to 6pm."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 10am opening tend to be calmest, before tour groups and school visits arrive."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Sultan Mosque, Haji Lane, and Arab Street's textile shops are all within a five-minute walk, making an easy half-day loop."
+  - q: How much time should I budget for the Malay Heritage Centre?
+    a: >-
+      Plan on 60–90 minutes for the permanent galleries; add extra time if a
+      temporary exhibition or courtyard performance is on.
+  - q: What's the nearest MRT station?
+    a: >-
+      Bugis MRT station (East-West and Downtown lines), about a five-minute walk
+      via Exit C and Victoria Street.
+  - q: Is the Malay Heritage Centre open every day?
+    a: >-
+      It's closed on Mondays. The rest of the week, including weekends, it runs
+      10am to 6pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 10am opening tend to be calmest, before
+      tour groups and school visits arrive.
+  - q: What else is nearby worth combining with the visit?
+    a: >-
+      Sultan Mosque, Haji Lane, and Arab Street's textile shops are all within a
+      five-minute walk, making an easy half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jurong-jurong-lake-gardens
-srcHash: '2596d90838db'
+srcHash: '9d6df8a018ee'
 title: 'Jurong Lake Gardens: Guía de viaje (4,6★)'
-description: 'Jurong Lake Gardens es el parque más grande de Singapur fuera del centro de la ciudad y rodea el lago Jurong con un sendero elevado entre humedales, zonas de juego, un área para perros y kayak. 4,6★ (6.475 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Jurong Lake Gardens es el parque más grande de Singapur fuera del centro de la ciudad y rodea el lago Jurong con un sendero elevado entre humedales, zonas de juego, un área para perros y kayak. 4,6★ (6.480 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Jurong Lake Gardens es el parque más grande de Singapur fuera del centro de la ciudad y rodea el lago Jurong con un sendero elevado entre humedales, zonas de juego, un área para perros y kayak. Está abierto las 24 horas del día, así que la mejor opción para evitar las multitudes es ir temprano por la mañana (antes de las 8:00); los fines de semana se llena de 8:00 a 22:00. Calcule medio día para la visita y lleve calzado cerrado para recorrer el sendero del bosque pantanoso.
 faq:
   - q: ¿Cómo llego a Jurong Lake Gardens sin auto?

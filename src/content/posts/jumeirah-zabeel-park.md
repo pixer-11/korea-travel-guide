@@ -1,30 +1,37 @@
 ---
 title: 'Zabeel Park: Dubai Travel Guide (4.6★)'
-description: Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro station) is a 117-acre green space famous for the Dubai Frame and a weekend flea market. 4.6★ (42,040 reviews) — what visitors say, hours, and tips.
+description: >-
+  Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro
+  station) is a 117-acre green space famous for the Dubai Frame and a weekend
+  flea market. 4.6★ (42,058 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Dubai
 category: attraction
 pubDate: '2026-09-01T10:38:36.829Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zabeel_Park.jpg"
-    credit: "Photo: Ranjit Laxman from Cochin, India / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Zabeel_Park.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Zabeel_Park.jpg'
+    credit: 'Photo: Ranjit Laxman from Cochin, India / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Zabeel_Park.jpg'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/52548456_l7_TiNzO9bf9E7gvDGAO26s15FCPVeNJtNwcopBjK2s.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/52548456_l7_TiNzO9bf9E7gvDGAO26s15FCPVeNJtNwcopBjK2s.jpg
   credit: 'Photo: Foursquare user content (Zabeel Park Running Track)'
   license: foursquare
-  source: https://foursquare.com/v/52eb59de498e9893240df814
+  source: 'https://foursquare.com/v/52eb59de498e9893240df814'
   focus:
     x: 50
     'y': 45
 place:
   id: ChIJl_QEkvxCXz4RaDvjU4uu13w
   name: Zabeel Park
-  address: Zabeel Area - Metro Station - near Al Jafiliya - Al Kifaf - Dubai - United Arab Emirates
+  address: >-
+    Zabeel Area - Metro Station - near Al Jafiliya - Al Kifaf - Dubai - United
+    Arab Emirates
   rating: 4.6
-  userRatingsTotal: 42040
-  googleMapsUrl: https://maps.google.com/?cid=8995850694126943080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 42058
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8995850694126943080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.234905299999998
   lng: 55.297449
@@ -40,20 +47,37 @@ place:
 tags:
   - dubai
   - park
-quickAnswer: Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro station) is a 117-acre green space famous for the Dubai Frame and a weekend flea market. It's open daily 8am to 10pm (11pm Friday–Sunday), and given its 4.6-star, well-visited status, weekday mornings right after opening are your best bet to dodge crowds. Budget two to three hours if you want the Frame plus a park loop.
+quickAnswer: >-
+  Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro
+  station) is a 117-acre green space famous for the Dubai Frame and a weekend
+  flea market. It's open daily 8am to 10pm (11pm Friday–Sunday), and given its
+  4.6-star, well-visited status, weekday mornings right after opening are your
+  best bet to dodge crowds. Budget two to three hours if you want the Frame plus
+  a park loop.
 faq:
   - q: How do I get to Zabeel Park without a car?
-    a: Take the Dubai Metro Red Line to Zabeel station; the park's main gates near Al Jafiliya are a short walk from the exit.
+    a: >-
+      Take the Dubai Metro Red Line to Zabeel station; the park's main gates
+      near Al Jafiliya are a short walk from the exit.
   - q: What are Zabeel Park's opening hours?
-    a: 8am to 10pm Monday through Thursday, and 8am to 11pm Friday through Sunday.
+    a: >-
+      8am to 10pm Monday through Thursday, and 8am to 11pm Friday through
+      Sunday.
   - q: Is the flea market open every day?
-    a: No, the flea market in the Al Kifaf zone runs Fridays and Saturdays only, and that's also when the park sees its heaviest foot traffic.
+    a: >-
+      No, the flea market in the Al Kifaf zone runs Fridays and Saturdays only,
+      and that's also when the park sees its heaviest foot traffic.
   - q: How long should I plan for a visit?
-    a: Two to three hours covers the Dubai Frame and a loop through the main park zones; add more if you're cycling the full 117 acres.
+    a: >-
+      Two to three hours covers the Dubai Frame and a loop through the main park
+      zones; add more if you're cycling the full 117 acres.
   - q: When is the best time to avoid crowds?
-    a: Weekday mornings right at the 8am opening, Sunday through Thursday, before the after-work joggers and weekend flea-market crowds arrive.
+    a: >-
+      Weekday mornings right at the 8am opening, Sunday through Thursday, before
+      the after-work joggers and weekend flea-market crowds arrive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,27 +1,33 @@
 ---
 title: 'Kampong Glam Cafe: Travel Guide'
-description: Kampong Glam Cafe sits on pedestrianized Bussorah Street, a two-minute walk from Sultan Mosque, and is best for a budget-friendly plate of fried chicken, noodles, or rice while people-watching along one of Singapore's prettiest heritage streets.
+description: >-
+  Kampong Glam Cafe sits on pedestrianized Bussorah Street, a two-minute walk
+  from Sultan Mosque, and is best for a budget-friendly plate of fried chicken,
+  noodles, or rice while people-watching along one of Singapore's prettiest
+  heritage streets.
 country: Singapore
 region: Kampong Glam
 category: trendy
 pubDate: '2026-07-23T07:42:10.108Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5990381_A8HAh9bYo0eEixBzDVe-KIUErExySV7fgw3ohk-h_Zo.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/5990381_A8HAh9bYo0eEixBzDVe-KIUErExySV7fgw3ohk-h_Zo.jpg
   credit: 'Photo: Foursquare user content (Kampong Glam Cafe)'
   license: foursquare
-  source: https://foursquare.com/v/4b17cff9f964a5206dc823e3
+  source: 'https://foursquare.com/v/4b17cff9f964a5206dc823e3'
   focus:
     x: 50
-    y: 15
+    'y': 15
 gallery: []
 place:
   id: ChIJnwMTELEZ2jER4WqhksUDLFA
   name: Kampong Glam Cafe
-  address: 17 Bussorah St, Singapore 199438
+  address: '17 Bussorah St, Singapore 199438'
   rating: 4.2
-  userRatingsTotal: 3119
+  userRatingsTotal: 3124
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=5776996569112996577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5776996569112996577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3012492999999998
   lng: 103.8599309
@@ -39,7 +45,7 @@ place:
       - 21
       - 22
     venueId: ven_41464c4455736b6871573452456a325a454c45544d776e4a496843
-  phone: '+65 6294 1697'
+  phone: +65 6294 1697
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 7:00 AM – 2:00 AM'
@@ -51,19 +57,42 @@ place:
 tags:
   - kampong glam
   - trendy cafe
-quickAnswer: Kampong Glam Cafe sits on pedestrianized Bussorah Street, a two-minute walk from Sultan Mosque, and is best for a budget-friendly plate of fried chicken, noodles, or rice while people-watching along one of Singapore's prettiest heritage streets. Go on a weekday around 4-6pm to snag outdoor seating before the dinner rush; it's cash- and card-friendly, no reservations needed, and a meal here runs quick — 45 minutes to an hour is plenty.
+quickAnswer: >-
+  Kampong Glam Cafe sits on pedestrianized Bussorah Street, a two-minute walk
+  from Sultan Mosque, and is best for a budget-friendly plate of fried chicken,
+  noodles, or rice while people-watching along one of Singapore's prettiest
+  heritage streets. Go on a weekday around 4-6pm to snag outdoor seating before
+  the dinner rush; it's cash- and card-friendly, no reservations needed, and a
+  meal here runs quick — 45 minutes to an hour is plenty.
 faq:
   - q: How do I get to Kampong Glam Cafe by public transport?
-    a: Take the MRT to Bugis Station (East-West or Downtown Line), exit C, and walk about 8-10 minutes north to Bussorah Street. Nicoll Highway on the Circle Line is a similar walking distance from the east side.
+    a: >-
+      Take the MRT to Bugis Station (East-West or Downtown Line), exit C, and
+      walk about 8-10 minutes north to Bussorah Street. Nicoll Highway on the
+      Circle Line is a similar walking distance from the east side.
   - q: How much does a meal cost?
-    a: It's a budget-friendly, low price-level cafe serving fried chicken, noodles, and rice dishes — expect casual hawker-to-cafe pricing rather than fine-dining rates, though exact menu prices should be confirmed on-site.
+    a: >-
+      It's a budget-friendly, low price-level cafe serving fried chicken,
+      noodles, and rice dishes — expect casual hawker-to-cafe pricing rather
+      than fine-dining rates, though exact menu prices should be confirmed
+      on-site.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday afternoons, roughly 4-6pm, are quieter than weekend lunch and dinner rushes, and the light on Bussorah Street's shophouses is best for photos then too.
+    a: >-
+      Weekday afternoons, roughly 4-6pm, are quieter than weekend lunch and
+      dinner rushes, and the light on Bussorah Street's shophouses is best for
+      photos then too.
   - q: How long should I plan to spend here?
-    a: A meal typically takes 45 minutes to an hour; pair it with a stroll to Sultan Mosque, the Malay Heritage Centre, and Haji Lane for a half-day loop through Kampong Glam.
+    a: >-
+      A meal typically takes 45 minutes to an hour; pair it with a stroll to
+      Sultan Mosque, the Malay Heritage Centre, and Haji Lane for a half-day
+      loop through Kampong Glam.
   - q: What's nearby worth visiting?
-    a: Sultan Mosque is a two-minute walk, the Malay Heritage Centre sits just behind it, and Haji Lane and Arab Street's boutiques and murals are a short stroll further.
+    a: >-
+      Sultan Mosque is a two-minute walk, the Malay Heritage Centre sits just
+      behind it, and Haji Lane and Arab Street's boutiques and murals are a
+      short stroll further.
 aiGenerated: true
+updatedDate: '2026-09-06'
 ---
 
 ## Why go

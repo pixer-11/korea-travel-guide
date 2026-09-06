@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kampot-green-cathedral
-srcHash: '71c7f4f85899'
+srcHash: 'c0c5925ec805'
 title: 'Catedral Verde: Guía de Viaje de Kampot (4.2★)'
-description: 'La Catedral Verde de Kampot, Camboya, es un pasadizo de bambú y follaje selvático a poca distancia en coche del centro de Kampot; conviene visitarla temprano por la mañana o al final de la tarde, con luz suave, antes de que apriete el calor. 4.2★ (134 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Catedral Verde de Kampot, Camboya, es un pasadizo de bambú y follaje selvático a poca distancia en coche del centro de Kampot; conviene visitarla temprano por la mañana o al final de la tarde, con luz suave, antes de que apriete el calor. 4.2★ (135 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Catedral Verde de Kampot, Camboya, es un pasadizo de bambú y follaje selvático a poca distancia en coche del centro de Kampot. Lo mejor es visitarla temprano por la mañana o al final de la tarde, cuando la luz es más suave y el calor todavía no aprieta. Sigue siendo un lugar poco conocido, así que muchas veces se puede recorrer el sendero en soledad. Calcule entre 30 y 45 minutos de visita y consulte con su alojamiento o con un conductor de tuk-tuk el estado actual del acceso antes de salir.
 faq:
   - q: ¿Cómo se llega a la Catedral Verde de Kampot?

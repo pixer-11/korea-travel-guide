@@ -1,56 +1,87 @@
 ---
-title: "Kenting National Park: Travel Guide (4.5★)"
-description: "Kenting National Park sprawls across the southern tip of Taiwan, mixing coral-reef coastline, tropical forest, and grassy highlands — plan on a full day with your own scooter or car to link the highlights. 4.5★ (21,941 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kenting"
-category: "attraction"
-pubDate: "2026-08-11T09:02:44.403Z"
+title: 'Kenting National Park: Travel Guide (4.5★)'
+description: >-
+  Kenting National Park sprawls across the southern tip of Taiwan, mixing
+  coral-reef coastline, tropical forest, and grassy highlands — plan on a full
+  day with your own scooter or car to link the highlights. 4.5★ (21,952 reviews)
+  — what visitors say, hours, and tips.
+country: Taiwan
+region: Kenting
+category: attraction
+pubDate: '2026-08-11T09:02:44.403Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/1920px-Maobitou_Cape_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maobitou_Cape_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/1920px-Maobitou_Cape_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Maobitou_Cape_01.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg/3840px-Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg"
-    credit: "Photo: Harston thtsai / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg/3840px-Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg
+    credit: 'Photo: Harston thtsai / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kenting_National_Park_Tsung_Han_Tsai_9286_1.jpg
 place:
-  id: "ChIJo3zE2vqzcTQRf_VdSaifF_c"
-  name: "Kenting National Park"
-  address: "Pingtung County, Taiwan"
+  id: ChIJo3zE2vqzcTQRf_VdSaifF_c
+  name: Kenting National Park
+  address: 'Pingtung County, Taiwan'
   rating: 4.5
-  userRatingsTotal: 21941
-  googleMapsUrl: "https://maps.google.com/?cid=17804875196966761855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21952
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17804875196966761855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.9483307
   lng: 120.77975159999998
-  phone: "+886 8 886 1321"
+  phone: +886 8 886 1321
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "kenting"
-  - "top attraction"
-quickAnswer: "Kenting National Park sprawls across the southern tip of Taiwan, mixing coral-reef coastline, tropical forest, and grassy highlands — plan on a full day with your own scooter or car to link the highlights. The visitor center and some attraction sites run 9am–5pm and close Mondays, so build your route around that. Go on a weekday morning to beat the tour buses and beach crowds that swell by midday."
+  - kenting
+  - top attraction
+quickAnswer: >-
+  Kenting National Park sprawls across the southern tip of Taiwan, mixing
+  coral-reef coastline, tropical forest, and grassy highlands — plan on a full
+  day with your own scooter or car to link the highlights. The visitor center
+  and some attraction sites run 9am–5pm and close Mondays, so build your route
+  around that. Go on a weekday morning to beat the tour buses and beach crowds
+  that swell by midday.
 faq:
-  - q: "How do I get to Kenting National Park without a car?"
-    a: "Take the Kenting Express bus directly from Kaohsiung's High Speed Rail station or airport — it runs straight into Kenting village in about two hours. Within the park, a rental scooter is far more practical than local buses."
-  - q: "How much time should I budget for a visit?"
-    a: "A full day lets you cover three or four major sites — say Eluanbi, Sheding Nature Park, and one beach — without rushing. Trying to see everything in one day means a lot of time spent riding between stops."
-  - q: "When is Kenting National Park least crowded?"
-    a: "Weekday mornings right at the 9am opening are consistently quietest. Avoid weekends and Taiwanese holidays, when the coast road and main beaches fill with tour groups by mid-morning."
-  - q: "Is there one ticket for the whole national park?"
-    a: "No — attractions like Eluanbi Park, Longpan Park, and the Forest Recreation Area each charge their own small entry fee, usually payable in cash on-site."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Kenting village itself has a well-known night market for evening food, and South Bay and White Sand Bay are both a short scooter ride away for swimming or water sports."
+  - q: How do I get to Kenting National Park without a car?
+    a: >-
+      Take the Kenting Express bus directly from Kaohsiung's High Speed Rail
+      station or airport — it runs straight into Kenting village in about two
+      hours. Within the park, a rental scooter is far more practical than local
+      buses.
+  - q: How much time should I budget for a visit?
+    a: >-
+      A full day lets you cover three or four major sites — say Eluanbi, Sheding
+      Nature Park, and one beach — without rushing. Trying to see everything in
+      one day means a lot of time spent riding between stops.
+  - q: When is Kenting National Park least crowded?
+    a: >-
+      Weekday mornings right at the 9am opening are consistently quietest. Avoid
+      weekends and Taiwanese holidays, when the coast road and main beaches fill
+      with tour groups by mid-morning.
+  - q: Is there one ticket for the whole national park?
+    a: >-
+      No — attractions like Eluanbi Park, Longpan Park, and the Forest
+      Recreation Area each charge their own small entry fee, usually payable in
+      cash on-site.
+  - q: What's nearby if I want to extend the trip?
+    a: >-
+      Kenting village itself has a well-known night market for evening food, and
+      South Bay and White Sand Bay are both a short scooter ride away for
+      swimming or water sports.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bandung-museum-geologi
-srcHash: 'efe869bac54d'
+srcHash: '80d29eee7237'
 title: 地质博物馆：万隆旅行指南（4.7★）
-description: 万隆地质博物馆坐落在芝哈吾格里斯（Cihaur Geulis）的迪波内哥罗路（Jl. Diponegoro）上，靠近萨特大楼（Gedung Sate），从市中心搭乘三轮车或Grab即可短时间到达。4.7★（18,755条评价）——游客怎么说、开放时间与实用建议。
+description: 万隆地质博物馆坐落在芝哈吾格里斯（Cihaur Geulis）的迪波内哥罗路（Jl. Diponegoro）上，靠近萨特大楼（Gedung Sate），从市中心搭乘三轮车或Grab即可短时间到达。4.7★（18,756条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 万隆地质博物馆坐落在芝哈吾格里斯（Cihaur Geulis）的迪波内哥罗路（Jl. Diponegoro）上，从市中心搭乘三轮车或Grab很快就能到，就在萨特大楼（Gedung Sate）附近。开放时间为周一至周四上午9点至下午3点，周末上午9点至下午2点，周五闭馆。周末整个上午9点到下午2点这段时间都比较拥挤，因此工作日的上午是最佳选择。光是化石和矿物展厅就建议预留60至90分钟参观。
 faq:
   - q: 地质博物馆的开放时间是怎样的？

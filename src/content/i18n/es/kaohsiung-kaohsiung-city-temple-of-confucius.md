@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kaohsiung-kaohsiung-city-temple-of-confucius
-srcHash: '6f64cd16db7a'
+srcHash: '06baa1a5600e'
 title: 'Templo de Confucio de Kaohsiung: guía de viaje (4,3★)'
-description: 'El Templo de Confucio de la ciudad de Kaohsiung se encuentra junto al Lago del Loto (Lotus Lake), en el distrito de Zuoying, y abre de martes a domingo de 9:00 a 17:00, con los lunes cerrado. 4,3★ (2.264 reseñas): esto es lo que opinan los visitantes, además de horarios y consejos.'
+description: 'El Templo de Confucio de la ciudad de Kaohsiung se encuentra junto al Lago del Loto (Lotus Lake), en el distrito de Zuoying, y abre de martes a domingo de 9:00 a 17:00, con los lunes cerrado. 4,3★ (2.270 reseñas): esto es lo que opinan los visitantes, además de horarios y consejos.'
 quickAnswer: El Templo de Confucio de la ciudad de Kaohsiung se encuentra junto al Lago del Loto, en el distrito de Zuoying, y abre de martes a domingo de 9:00 a 17:00, con los lunes cerrado. Calcule entre 45 y 60 minutos para recorrer sus patios, los relieves de bronce y los tejados de estilo Ming, y combine la visita con las Pagodas del Dragón y el Tigre, que quedan a poca distancia caminando alrededor del lago. Los fines de semana hay bastante afluencia durante todo el horario (9:00 a 17:00), así que una mañana de entre semana es la mejor opción para una visita más tranquila.
 faq:
   - q: ¿Cuál es el horario de apertura?

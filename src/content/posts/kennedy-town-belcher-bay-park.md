@@ -1,37 +1,44 @@
 ---
-title: "Belcher Bay Park: Kennedy Town Travel Guide (4.0★)"
-description: "Belcher Bay Park is a slim, tree-shaded waterfront strip in Kennedy Town, good for an early jog, a harbour sunset, or letting kids loose in the playground. 4.0★ (1,614 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Kennedy Town"
-category: "attraction"
-pubDate: "2026-08-12T17:19:38.995Z"
+title: 'Belcher Bay Park: Kennedy Town Travel Guide (4.0★)'
+description: >-
+  Belcher Bay Park is a slim, tree-shaded waterfront strip in Kennedy Town, good
+  for an early jog, a harbour sunset, or letting kids loose in the playground.
+  4.0★ (1,615 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Kennedy Town
+category: attraction
+pubDate: '2026-08-12T17:19:38.995Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Belcher_Bay_Park_18-02-2024.jpg/3840px-Belcher_Bay_Park_18-02-2024.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Belcher_Bay_Park_18-02-2024.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Belcher_Bay_Park_18-02-2024.jpg/3840px-Belcher_Bay_Park_18-02-2024.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Belcher_Bay_Park_18-02-2024.jpg'
 gallery: []
 place:
-  id: "ChIJKT8lGZv_AzQRxeNqfFys9EI"
-  name: "Belcher Bay Park"
-  address: "Belcher Bay Park, Belcher Bay Park, Praya, Kennedy Town, Kennedy Town, Hong Kong"
+  id: ChIJKT8lGZv_AzQRxeNqfFys9EI
+  name: Belcher Bay Park
+  address: >-
+    Belcher Bay Park, Belcher Bay Park, Praya, Kennedy Town, Kennedy Town, Hong
+    Kong Island, Hong Kong
   rating: 4
-  userRatingsTotal: 1614
-  googleMapsUrl: "https://maps.google.com/?cid=4824670614044992453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1615
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4824670614044992453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2848102
   lng: 114.1302487
-  phone: "+852 2853 2575"
+  phone: +852 2853 2575
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -55,24 +62,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_49453973794666714e657852517a415f765a476c38544b4a496843"
+    venueId: ven_49453973794666714e657852517a415f765a476c38544b4a496843
 tags:
-  - "kennedy town"
-  - "top attraction"
-quickAnswer: "Belcher Bay Park is a slim, tree-shaded waterfront strip in Kennedy Town, good for an early jog, a harbour sunset, or letting kids loose in the playground. It's open 24 hours, and the calmest window is 7am–8am on weekends, before the exercise crowds and dog walkers fill the paths from mid-morning on. Budget 30–45 minutes unless you're settling in for a picnic."
+  - kennedy town
+  - top attraction
+quickAnswer: >-
+  Belcher Bay Park is a slim, tree-shaded waterfront strip in Kennedy Town, good
+  for an early jog, a harbour sunset, or letting kids loose in the playground.
+  It's open 24 hours, and the calmest window is 7am–8am on weekends, before the
+  exercise crowds and dog walkers fill the paths from mid-morning on. Budget
+  30–45 minutes unless you're settling in for a picnic.
 faq:
-  - q: "How do I get to Belcher Bay Park from the MTR?"
-    a: "Take the Island Line to Kennedy Town Station (the western terminus), leave via Exit A, and walk downhill toward the water for about 8–10 minutes."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends between 7am and 8am are calmest, before joggers, families, and dog walkers arrive. Crowds build steadily and stay heavy from 10am to 10pm on weekends."
-  - q: "Is Belcher Bay Park open at night?"
-    a: "Yes, it's open 24 hours every day of the week. Lighting after dark is functional rather than scenic, so it suits a stroll more than lingering."
-  - q: "How much time should I plan for a visit?"
-    a: "Most people spend 30–45 minutes walking the promenade and playground area. Bring a mat and snacks if you want to stay longer for a sunset picnic."
-  - q: "Is there food and drink inside the park?"
-    a: "No, there are no kiosks inside — bring your own water. Cafés and noodle shops are just outside on Belcher's Street and North Street, and Kennedy Town's main food streets are a short walk uphill."
+  - q: How do I get to Belcher Bay Park from the MTR?
+    a: >-
+      Take the Island Line to Kennedy Town Station (the western terminus), leave
+      via Exit A, and walk downhill toward the water for about 8–10 minutes.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekends between 7am and 8am are calmest, before joggers, families, and
+      dog walkers arrive. Crowds build steadily and stay heavy from 10am to 10pm
+      on weekends.
+  - q: Is Belcher Bay Park open at night?
+    a: >-
+      Yes, it's open 24 hours every day of the week. Lighting after dark is
+      functional rather than scenic, so it suits a stroll more than lingering.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Most people spend 30–45 minutes walking the promenade and playground area.
+      Bring a mat and snacks if you want to stay longer for a sunset picnic.
+  - q: Is there food and drink inside the park?
+    a: >-
+      No, there are no kiosks inside — bring your own water. Cafés and noodle
+      shops are just outside on Belcher's Street and North Street, and Kennedy
+      Town's main food streets are a short walk uphill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

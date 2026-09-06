@@ -1,36 +1,43 @@
 ---
-title: "East Coast Park: Katong Travel Guide (4.6★)"
-description: "East Coast Park is a long, open-24-hours strip of reclaimed beachfront on Singapore's southeast coast, best reached via Katong/Marine Parade and best enjoyed by bike, on skates, or over a plate of chilli crab. 4.6★ (32,062 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Katong"
-category: "attraction"
-pubDate: "2026-08-11T09:19:28.771Z"
+title: 'East Coast Park: Katong Travel Guide (4.6★)'
+description: >-
+  East Coast Park is a long, open-24-hours strip of reclaimed beachfront on
+  Singapore's southeast coast, best reached via Katong/Marine Parade and best
+  enjoyed by bike, on skates, or over a plate of chilli crab. 4.6★ (32,156
+  reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Katong
+category: attraction
+pubDate: '2026-08-11T09:19:28.771Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg/1920px-%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg"
-  credit: "Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_East_Coast_Park_Zone_B_2026-01-25.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg/1920px-%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg
+  credit: 'Photo: S5A-0043 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_East_Coast_Park_Zone_B_2026-01-25.jpg
 gallery: []
 place:
-  id: "ChIJ0QX_Brki2jER-pZKNdqk_a8"
-  name: "East Coast Park"
-  address: "Singapore"
+  id: ChIJ0QX_Brki2jER-pZKNdqk_a8
+  name: East Coast Park
+  address: Singapore
   rating: 4.6
-  userRatingsTotal: 32062
-  googleMapsUrl: "https://maps.google.com/?cid=12681473382849091322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 32156
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12681473382849091322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3007841999999998
   lng: 103.9121866
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekendBusy:
       - 12
       - 13
@@ -43,24 +50,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_38615f6b71644e4b5a702d52456a32696b72425f5851304a496843"
+    venueId: ven_38615f6b71644e4b5a702d52456a32696b72425f5851304a496843
 tags:
-  - "katong"
-  - "top attraction"
-quickAnswer: "East Coast Park is a long, open-24-hours strip of reclaimed beachfront on Singapore's southeast coast, best reached via Katong/Marine Parade and best enjoyed by bike, on skates, or over a plate of chilli crab. Weekends from noon to 11pm are the crush to avoid — aim for a weekday morning or a weeknight instead. Budget half a day for the beach and bike path, longer if you're settling in at one of the seafood restaurants."
+  - katong
+  - top attraction
+quickAnswer: >-
+  East Coast Park is a long, open-24-hours strip of reclaimed beachfront on
+  Singapore's southeast coast, best reached via Katong/Marine Parade and best
+  enjoyed by bike, on skates, or over a plate of chilli crab. Weekends from noon
+  to 11pm are the crush to avoid — aim for a weekday morning or a weeknight
+  instead. Budget half a day for the beach and bike path, longer if you're
+  settling in at one of the seafood restaurants.
 faq:
-  - q: "How do I get to East Coast Park from Katong?"
-    a: "It's a short taxi, bus, or bike ride from Katong along Marine Parade Road — there's no MRT station right at the park, so most visitors combine a bus with a walk or grab a bike at the park entrance."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings before 10am are calmest. Avoid Saturday and Sunday between 12pm and 11pm, which is consistently the busiest stretch."
-  - q: "How long should I spend at East Coast Park?"
-    a: "Plan on at least half a day if you want to cycle a section and eat at a hawker centre; a full day if you're adding water sports or a sit-down seafood dinner."
-  - q: "What should I eat there?"
-    a: "Head to East Coast Lagoon Food Village for barbecued stingray and satay, or one of the park's seafood restaurants for chilli crab and black pepper crab."
-  - q: "Is the park open at night?"
-    a: "Yes, East Coast Park is open 24 hours every day, and evenings are actually one of the more comfortable times to visit thanks to cooler air and sunset views."
+  - q: How do I get to East Coast Park from Katong?
+    a: >-
+      It's a short taxi, bus, or bike ride from Katong along Marine Parade Road
+      — there's no MRT station right at the park, so most visitors combine a bus
+      with a walk or grab a bike at the park entrance.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings before 10am are calmest. Avoid Saturday and Sunday
+      between 12pm and 11pm, which is consistently the busiest stretch.
+  - q: How long should I spend at East Coast Park?
+    a: >-
+      Plan on at least half a day if you want to cycle a section and eat at a
+      hawker centre; a full day if you're adding water sports or a sit-down
+      seafood dinner.
+  - q: What should I eat there?
+    a: >-
+      Head to East Coast Lagoon Food Village for barbecued stingray and satay,
+      or one of the park's seafood restaurants for chilli crab and black pepper
+      crab.
+  - q: Is the park open at night?
+    a: >-
+      Yes, East Coast Park is open 24 hours every day, and evenings are actually
+      one of the more comfortable times to visit thanks to cooler air and sunset
+      views.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

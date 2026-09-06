@@ -1,44 +1,52 @@
 ---
-title: "Telok Blangah Hill Park: Singapore Travel Guide (4.6★)"
-description: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. 4.6★ (2,579 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Singapore"
-category: "attraction"
-pubDate: "2026-08-28T08:59:52.719Z"
+title: 'Telok Blangah Hill Park: Singapore Travel Guide (4.6★)'
+description: >-
+  Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber
+  and HarbourFront, and it's a worthwhile detour if you want city and harbour
+  views without the crowds of Sentosa. 4.6★ (2,581 reviews) — what visitors say,
+  hours, and tips.
+country: Singapore
+region: Singapore
+category: attraction
+pubDate: '2026-08-28T08:59:52.719Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg"
-  credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Telok_Blangah_Hill_Park,_Singapore_(3297044040).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg
+  credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Telok_Blangah_Hill_Park,_Singapore_(3297044040).jpg
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/85142592_s-Eo6VkK7ioEvnqMnsZNJ-eJzN4-27u1LeSy6B7Apvo.jpg"
-    credit: "Photo: Foursquare user content (Telok Blangah Hill Park)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bca492c511f9521cd86afc7"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/85142592_s-Eo6VkK7ioEvnqMnsZNJ-eJzN4-27u1LeSy6B7Apvo.jpg
+    credit: 'Photo: Foursquare user content (Telok Blangah Hill Park)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bca492c511f9521cd86afc7'
 place:
-  id: "ChIJa1WN9dob2jERWFxNMq2ZVgM"
-  name: "Telok Blangah Hill Park"
-  address: "10, Telok Blangah Green, Singapore 109178"
+  id: ChIJa1WN9dob2jERWFxNMq2ZVgM
+  name: Telok Blangah Hill Park
+  address: '10, Telok Blangah Green, Singapore 109178'
   rating: 4.6
-  userRatingsTotal: 2579
-  googleMapsUrl: "https://maps.google.com/?cid=240548599263222872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2581
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=240548599263222872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2788233999999998
   lng: 103.8106681
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayBusy:
       - 9
       - 11
@@ -60,24 +68,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d67565a32714d4e78465752456a32626f64394e5731614a496843"
+    venueId: ven_4d67565a32714d4e78465752456a32626f64394e5731614a496843
 tags:
-  - "singapore"
-  - "park"
-quickAnswer: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. It's open 24 hours, and on weekends the calmest window is 7am to 9am before the walking groups and picnic crowds arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into Mount Faber Park via the canopy walk, and catch the skyline from Henderson Waves."
+  - singapore
+  - park
+quickAnswer: >-
+  Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber
+  and HarbourFront, and it's a worthwhile detour if you want city and harbour
+  views without the crowds of Sentosa. It's open 24 hours, and on weekends the
+  calmest window is 7am to 9am before the walking groups and picnic crowds
+  arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into
+  Mount Faber Park via the canopy walk, and catch the skyline from Henderson
+  Waves.
 faq:
-  - q: "Where is Telok Blangah Hill Park?"
-    a: "On Singapore's southern ridge, near HarbourFront and Mount Faber. Expect a 25-30 minute MRT or taxi ride from the city centre."
-  - q: "How do I get there by public transport?"
-    a: "Take the MRT to HarbourFront station (Circle or North East line) and walk uphill into the park; there's no station directly inside it."
-  - q: "When is it quietest?"
-    a: "On weekends, 7am to 9am is the calmest window before crowds build; things stay busy from mid-morning right through to 11pm."
-  - q: "How long should I plan for a visit?"
-    a: "Give it 1.5 to 2 hours if you're walking the connected route to Henderson Waves and Mount Faber, which most visitors do rather than stopping at just this one park."
-  - q: "Is there food nearby?"
-    a: "There's a restaurant near the park's edge, but options are sparse mid-trail, so carry water and snacks if you're doing the full ridge walk."
+  - q: Where is Telok Blangah Hill Park?
+    a: >-
+      On Singapore's southern ridge, near HarbourFront and Mount Faber. Expect a
+      25-30 minute MRT or taxi ride from the city centre.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the MRT to HarbourFront station (Circle or North East line) and walk
+      uphill into the park; there's no station directly inside it.
+  - q: When is it quietest?
+    a: >-
+      On weekends, 7am to 9am is the calmest window before crowds build; things
+      stay busy from mid-morning right through to 11pm.
+  - q: How long should I plan for a visit?
+    a: >-
+      Give it 1.5 to 2 hours if you're walking the connected route to Henderson
+      Waves and Mount Faber, which most visitors do rather than stopping at just
+      this one park.
+  - q: Is there food nearby?
+    a: >-
+      There's a restaurant near the park's edge, but options are sparse
+      mid-trail, so carry water and snacks if you're doing the full ridge walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

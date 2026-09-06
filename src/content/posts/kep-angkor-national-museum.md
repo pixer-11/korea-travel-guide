@@ -1,25 +1,30 @@
 ---
 title: 'Angkor National Museum: Siem Reap Travel Guide (4.4★)'
-description: The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. 4.4★ (6,295 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a
+  short walk or tuk-tuk ride from the town center, and it's open daily
+  8:30am–6pm. 4.4★ (6,313 reviews) — what visitors say, hours, and tips.
 country: Cambodia
 region: Siem Reap
 category: attraction
 pubDate: '2026-08-26T09:28:47.896Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1496032_V1NBkhvOE3kU5Hf6bwaYuMR15AW7F3aq_tis_eTb90w.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1496032_V1NBkhvOE3kU5Hf6bwaYuMR15AW7F3aq_tis_eTb90w.jpg
   credit: 'Photo: Foursquare user content (Angkor National Museum)'
   license: foursquare
-  source: https://foursquare.com/v/4c830a6ed4e23704eee26d88
+  source: 'https://foursquare.com/v/4c830a6ed4e23704eee26d88'
   focus:
     x: 55
     'y': 35
 place:
   id: ChIJn8MGzAwXEDER469lVTwERp8
   name: Angkor National Museum
-  address: 968 Vithei Preah Sihanouk Ave, Krong Siem Reap, Cambodia
+  address: '968 Vithei Preah Sihanouk Ave, Krong Siem Reap, Cambodia'
   rating: 4.4
-  userRatingsTotal: 6295
-  googleMapsUrl: https://maps.google.com/?cid=11476865357577564131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6313
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11476865357577564131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.366446499999999
   lng: 103.8601195
@@ -48,19 +53,35 @@ place:
 tags:
   - siem reap
   - museum
-quickAnswer: The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a short walk or tuk-tuk ride from the town center, and it's open daily 8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two hours and go before, not after, your Angkor Archaeological Park visit.
+quickAnswer: >-
+  The Angkor National Museum is in Siem Reap, on Vithei Preah Sihanouk Ave, a
+  short walk or tuk-tuk ride from the town center, and it's open daily
+  8:30am–6pm. It's calmest right at opening between 9am and 10am, before tour
+  buses arrive; avoid 1pm–6pm on weekends when crowds peak. Budget about two
+  hours and go before, not after, your Angkor Archaeological Park visit.
 faq:
   - q: Is the Angkor National Museum actually in Kep?
-    a: No — the museum is in Siem Reap on Vithei Preah Sihanouk Avenue, not in the coastal town of Kep. It's the main museum serving visitors to the Angkor Archaeological Park.
+    a: >-
+      No — the museum is in Siem Reap on Vithei Preah Sihanouk Avenue, not in
+      the coastal town of Kep. It's the main museum serving visitors to the
+      Angkor Archaeological Park.
   - q: What are the opening hours?
-    a: It's open daily from 8:30am to 6pm, with no weekly closure day.
+    a: 'It''s open daily from 8:30am to 6pm, with no weekly closure day.'
   - q: When is the quietest time to visit?
-    a: Both on weekdays and weekends, 9am–10am is the calmest window, right after opening. Weekends get heavily crowded from 1pm until closing.
+    a: >-
+      Both on weekdays and weekends, 9am–10am is the calmest window, right after
+      opening. Weekends get heavily crowded from 1pm until closing.
   - q: How long should I spend there?
-    a: Plan on about two hours for a thorough visit; add extra time if you rent the audio guide and read every gallery panel.
+    a: >-
+      Plan on about two hours for a thorough visit; add extra time if you rent
+      the audio guide and read every gallery panel.
   - q: Should I visit before or after the temples?
-    a: Before. The galleries explain the history and symbolism behind Angkor Wat and the other temples, so seeing the museum first makes the ruins easier to understand.
+    a: >-
+      Before. The galleries explain the history and symbolism behind Angkor Wat
+      and the other temples, so seeing the museum first makes the ruins easier
+      to understand.
 aiGenerated: true
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

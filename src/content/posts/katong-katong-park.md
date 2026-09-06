@@ -1,37 +1,43 @@
 ---
-title: "Katong Park: Travel Guide (4.1★)"
-description: "Katong Park is a small, leafy neighborhood park on Fort Road in Katong, open 24 hours, built around the last visible remnant of old Fort Tomahawk and a quiet stretch of park connector. 4.1★ (291 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Katong"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:52:20.861Z"
+title: 'Katong Park: Travel Guide (4.1★)'
+description: >-
+  Katong Park is a small, leafy neighborhood park on Fort Road in Katong, open
+  24 hours, built around the last visible remnant of old Fort Tomahawk and a
+  quiet stretch of park connector. 4.2★ (292 reviews) — what visitors say,
+  hours, and tips.
+country: Singapore
+region: Katong
+category: hidden-gem
+pubDate: '2026-08-13T09:52:20.861Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Katong_Park.jpg/1920px-Katong_Park.jpg"
-  credit: "Photo: Zenney100 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Katong_Park.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Katong_Park.jpg/1920px-Katong_Park.jpg
+  credit: 'Photo: Zenney100 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Katong_Park.jpg'
 gallery: []
 place:
-  id: "ChIJOVwso1wY2jERh5Hlxm0HNMQ"
-  name: "Katong Park"
-  address: "59 Fort Rd, Singapore 439105"
-  rating: 4.1
-  userRatingsTotal: 291
-  googleMapsUrl: "https://maps.google.com/?cid=14137933298292593031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJOVwso1wY2jERh5Hlxm0HNMQ
+  name: Katong Park
+  address: '59 Fort Rd, Singapore 439105'
+  rating: 4.2
+  userRatingsTotal: 292
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14137933298292593031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2966864
   lng: 103.88611630000001
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayBusy:
       - 16
       - 17
@@ -47,24 +53,42 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_514d4e48306d786c48356852456a325977316f7377564f4a496843"
+    venueId: ven_514d4e48306d786c48356852456a325977316f7377564f4a496843
 tags:
-  - "katong"
-  - "hidden gem"
-quickAnswer: "Katong Park is a small, leafy neighborhood park on Fort Road in Katong, open 24 hours, built around the last visible remnant of old Fort Tomahawk and a quiet stretch of park connector. It's calmest on weekends between 7am and 8am, before the joggers and families arrive; give it 30–45 minutes on a walk between Katong's shophouses and the East Coast."
+  - katong
+  - hidden gem
+quickAnswer: >-
+  Katong Park is a small, leafy neighborhood park on Fort Road in Katong, open
+  24 hours, built around the last visible remnant of old Fort Tomahawk and a
+  quiet stretch of park connector. It's calmest on weekends between 7am and 8am,
+  before the joggers and families arrive; give it 30–45 minutes on a walk
+  between Katong's shophouses and the East Coast.
 faq:
-  - q: "How do I get to Katong Park?"
-    a: "Take the Thomson-East Coast Line to Katong Park Station, then walk a few minutes to the entrance on Fort Road. It's also reachable on foot or bike from Katong's shophouse streets or the East Coast Park connector."
-  - q: "Is there an entrance fee?"
-    a: "No, Katong Park is free and open 24 hours every day, with no gates or ticket booth."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, 7am to 8am is the calmest window. Crowds build steadily after that and stay busy until around 9pm."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes, enough to see the old gun emplacement, walk the shaded path, and continue on toward the food streets or the East Coast."
-  - q: "What's nearby worth combining with the visit?"
-    a: "The Katong and Joo Chiat conservation shophouse streets are a short walk away, along with East Coast Park if you're cycling the park connector."
+  - q: How do I get to Katong Park?
+    a: >-
+      Take the Thomson-East Coast Line to Katong Park Station, then walk a few
+      minutes to the entrance on Fort Road. It's also reachable on foot or bike
+      from Katong's shophouse streets or the East Coast Park connector.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Katong Park is free and open 24 hours every day, with no gates or
+      ticket booth.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, 7am to 8am is the calmest window. Crowds build steadily after
+      that and stay busy until around 9pm.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–45 minutes, enough to see the old gun emplacement,
+      walk the shaded path, and continue on toward the food streets or the East
+      Coast.
+  - q: What's nearby worth combining with the visit?
+    a: >-
+      The Katong and Joo Chiat conservation shophouse streets are a short walk
+      away, along with East Coast Park if you're cycling the park connector.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

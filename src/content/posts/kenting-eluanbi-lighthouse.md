@@ -1,36 +1,44 @@
 ---
-title: "Eluanbi Lighthouse: Kenting Travel Guide (4.4★)"
-description: "Eluanbi Lighthouse sits at Taiwan's southernmost tip, a squat white fortress-lighthouse ringed by gun ports and tropical gardens, open Tuesday to Sunday 9am–6pm (closed Mondays). 4.4★ (14,809 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kenting"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:34:17.869Z"
+title: 'Eluanbi Lighthouse: Kenting Travel Guide (4.4★)'
+description: >-
+  Eluanbi Lighthouse sits at Taiwan's southernmost tip, a squat white
+  fortress-lighthouse ringed by gun ports and tropical gardens, open Tuesday to
+  Sunday 9am–6pm (closed Mondays). 4.4★ (14,844 reviews) — what visitors say,
+  hours, and tips.
+country: Taiwan
+region: Kenting
+category: hidden-gem
+pubDate: '2026-08-13T09:34:17.869Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eluanbi_Lighthouse_02.jpg/1920px-Eluanbi_Lighthouse_02.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Eluanbi_Lighthouse_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eluanbi_Lighthouse_02.jpg/1920px-Eluanbi_Lighthouse_02.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Eluanbi_Lighthouse_02.jpg'
 gallery: []
 place:
-  id: "ChIJZV-_DhWxcTQREKTCizrSV1c"
-  name: "Eluanbi Lighthouse"
-  address: "No. 90號, Dengta Rd, Eluan Village, Hengchun Township, Pingtung County, Taiwan 946"
+  id: ChIJZV-_DhWxcTQREKTCizrSV1c
+  name: Eluanbi Lighthouse
+  address: >-
+    No. 90號, Dengta Rd, Eluan Village, Hengchun Township, Pingtung County,
+    Taiwan 946
   rating: 4.4
-  userRatingsTotal: 14809
-  googleMapsUrl: "https://maps.google.com/?cid=6293730153168282640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14844
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6293730153168282640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.9022339
   lng: 120.8526297
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -41,24 +49,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_63315653727a6943544b4552515463785768445f2d565a4a496843"
+    venueId: ven_63315653727a6943544b4552515463785768445f2d565a4a496843
 tags:
-  - "kenting"
-  - "hidden gem"
-quickAnswer: "Eluanbi Lighthouse sits at Taiwan's southernmost tip, a squat white fortress-lighthouse ringed by gun ports and tropical gardens, open Tuesday to Sunday 9am–6pm (closed Mondays). It's genuinely popular — expect company all day on weekends, so arrive right at 9am or after 4pm for breathing room. Budget 45–60 minutes to walk the grounds, climb the viewing terrace, and pop into the small museum."
+  - kenting
+  - hidden gem
+quickAnswer: >-
+  Eluanbi Lighthouse sits at Taiwan's southernmost tip, a squat white
+  fortress-lighthouse ringed by gun ports and tropical gardens, open Tuesday to
+  Sunday 9am–6pm (closed Mondays). It's genuinely popular — expect company all
+  day on weekends, so arrive right at 9am or after 4pm for breathing room.
+  Budget 45–60 minutes to walk the grounds, climb the viewing terrace, and pop
+  into the small museum.
 faq:
-  - q: "What are the opening hours for Eluanbi Lighthouse?"
-    a: "Tuesday to Sunday, 9am–6pm. It's closed all day Monday, so avoid planning your visit around that day."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45–60 minutes to walk the grounds, see the museum, and reach the viewing terrace."
-  - q: "When is it least crowded?"
-    a: "Weekends stay busy from open to close (9am–6pm). Right at 9am opening or in the final hour before 6pm closing tends to be calmer."
-  - q: "How do I get there without a car?"
-    a: "There's no train this far south. The Kenting Express bus connects Kaohsiung and Kenting, but you'll likely need a short taxi from the nearest stop to the entrance."
-  - q: "What else is nearby?"
-    a: "Longpan Park and Sail Rock are both a short drive away, making an easy combined half-day at the southern tip of the peninsula."
+  - q: What are the opening hours for Eluanbi Lighthouse?
+    a: >-
+      Tuesday to Sunday, 9am–6pm. It's closed all day Monday, so avoid planning
+      your visit around that day.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 45–60 minutes to walk the grounds, see the museum, and
+      reach the viewing terrace.
+  - q: When is it least crowded?
+    a: >-
+      Weekends stay busy from open to close (9am–6pm). Right at 9am opening or
+      in the final hour before 6pm closing tends to be calmer.
+  - q: How do I get there without a car?
+    a: >-
+      There's no train this far south. The Kenting Express bus connects
+      Kaohsiung and Kenting, but you'll likely need a short taxi from the
+      nearest stop to the entrance.
+  - q: What else is nearby?
+    a: >-
+      Longpan Park and Sail Rock are both a short drive away, making an easy
+      combined half-day at the southern tip of the peninsula.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

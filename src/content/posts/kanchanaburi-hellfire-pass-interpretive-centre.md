@@ -1,60 +1,90 @@
 ---
-title: "Hellfire Pass Interpretive Centre: Kanchanaburi Travel Guide"
-description: "Hellfire Pass Interpretive Centre, about 80km northwest of Kanchanaburi town in Sai Yok district, is open daily 9am–4pm and admission is free (donations welcome). 4.7★ (5,326 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Kanchanaburi"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:15:05.541Z"
+title: 'Hellfire Pass Interpretive Centre: Kanchanaburi Travel Guide'
+description: >-
+  Hellfire Pass Interpretive Centre, about 80km northwest of Kanchanaburi town
+  in Sai Yok district, is open daily 9am–4pm and admission is free (donations
+  welcome). 4.7★ (5,339 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Kanchanaburi
+category: hidden-gem
+pubDate: '2026-08-24T08:15:05.541Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hellfire_Pass_Interpretive_Centre_2023.jpg/3840px-Hellfire_Pass_Interpretive_Centre_2023.jpg"
-  credit: "Photo: Athikhun.suw / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hellfire_Pass_Interpretive_Centre_2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hellfire_Pass_Interpretive_Centre_2023.jpg/3840px-Hellfire_Pass_Interpretive_Centre_2023.jpg
+  credit: 'Photo: Athikhun.suw / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hellfire_Pass_Interpretive_Centre_2023.jpg
+  via: act
   focus:
     x: 75
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/41798359_6OkKi0_lzp1MSdagS7C9iaNriS1Oq8YqEOjlXanF8bo.jpg"
-    credit: "Photo: Foursquare user content (Hellfire Pass Memorial Museum (พิพิธภัณฑ์สถานแห่งความทรงจำ ช่องเขาขาด))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d215e51bdd7a0935524f5ce"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/41798359_6OkKi0_lzp1MSdagS7C9iaNriS1Oq8YqEOjlXanF8bo.jpg
+    credit: >-
+      Photo: Foursquare user content (Hellfire Pass Memorial Museum
+      (พิพิธภัณฑ์สถานแห่งความทรงจำ ช่องเขาขาด))
+    license: foursquare
+    source: 'https://foursquare.com/v/4d215e51bdd7a0935524f5ce'
 place:
-  id: "ChIJn7JjWCRv5DAR4xwyD6jESuU"
-  name: "Hellfire Pass Interpretive Centre"
-  address: "207 Tambon Tha Sao, Amphoe Sai Yok, Chang Wat Kanchanaburi 71150, Thailand"
+  id: ChIJn7JjWCRv5DAR4xwyD6jESuU
+  name: Hellfire Pass Interpretive Centre
+  address: '207 Tambon Tha Sao, Amphoe Sai Yok, Chang Wat Kanchanaburi 71150, Thailand'
   rating: 4.7
-  userRatingsTotal: 5326
-  googleMapsUrl: "https://maps.google.com/?cid=16522234409050578147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5339
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16522234409050578147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.3527213
   lng: 98.9547228
-  phone: "+66 34 919 605"
+  phone: +66 34 919 605
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
 tags:
-  - "kanchanaburi"
-  - "hidden gem"
-quickAnswer: "Hellfire Pass Interpretive Centre, about 80km northwest of Kanchanaburi town in Sai Yok district, is open daily 9am–4pm and admission is free (donations welcome). Give yourself at least two hours: 45 minutes in the museum plus a walk down into the cutting itself, which is the powerful part. Go as early after 9am as you can manage — the walking trail has zero shade and gets brutally hot by midday."
+  - kanchanaburi
+  - hidden gem
+quickAnswer: >-
+  Hellfire Pass Interpretive Centre, about 80km northwest of Kanchanaburi town
+  in Sai Yok district, is open daily 9am–4pm and admission is free (donations
+  welcome). Give yourself at least two hours: 45 minutes in the museum plus a
+  walk down into the cutting itself, which is the powerful part. Go as early
+  after 9am as you can manage — the walking trail has zero shade and gets
+  brutally hot by midday.
 faq:
-  - q: "How much does it cost to visit Hellfire Pass?"
-    a: "Admission is free, though the site relies on donations to maintain the museum and trail — a small cash contribution at the donation box is appreciated."
-  - q: "How long should I spend at Hellfire Pass Interpretive Centre?"
-    a: "Plan for at least two hours: about 45 minutes in the museum and another 45–60 minutes walking down to the main cutting and back."
-  - q: "What's the best time of day to visit?"
-    a: "Go right when it opens at 9am. The walking trail has no shade, and the rock cutting gets uncomfortably hot by late morning, especially November–February being the milder overall season to visit."
-  - q: "How do I get to Hellfire Pass from Kanchanaburi town?"
-    a: "It's about 80km and 90 minutes by road via Route 323. There's no direct public bus, so most visitors go by rental car, taxi/Grab, or a guided day tour that also covers the Bridge on the River Kwai."
-  - q: "Is Hellfire Pass suitable for kids or people with mobility issues?"
-    a: "The museum itself is flat and accessible, but the trail to the actual cutting involves a steep staircase and uneven, rocky ground, so it's not wheelchair-friendly and can be tough for young children in the heat."
+  - q: How much does it cost to visit Hellfire Pass?
+    a: >-
+      Admission is free, though the site relies on donations to maintain the
+      museum and trail — a small cash contribution at the donation box is
+      appreciated.
+  - q: How long should I spend at Hellfire Pass Interpretive Centre?
+    a: >-
+      Plan for at least two hours: about 45 minutes in the museum and another
+      45–60 minutes walking down to the main cutting and back.
+  - q: What's the best time of day to visit?
+    a: >-
+      Go right when it opens at 9am. The walking trail has no shade, and the
+      rock cutting gets uncomfortably hot by late morning, especially
+      November–February being the milder overall season to visit.
+  - q: How do I get to Hellfire Pass from Kanchanaburi town?
+    a: >-
+      It's about 80km and 90 minutes by road via Route 323. There's no direct
+      public bus, so most visitors go by rental car, taxi/Grab, or a guided day
+      tour that also covers the Bridge on the River Kwai.
+  - q: Is Hellfire Pass suitable for kids or people with mobility issues?
+    a: >-
+      The museum itself is flat and accessible, but the trail to the actual
+      cutting involves a steep staircase and uneven, rocky ground, so it's not
+      wheelchair-friendly and can be tough for young children in the heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

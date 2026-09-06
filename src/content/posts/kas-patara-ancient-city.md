@@ -1,36 +1,44 @@
 ---
-title: "Patara Ancient City: Kas Travel Guide (4.6★)"
-description: "Patara Ancient City sits between Kalkan and Kas on Turkey's Lycian coast, combining a sprawling Roman-era ruin field with one of the country's longest sandy beaches. 4.6★ (7,492 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Kas"
-category: "attraction"
-pubDate: "2026-08-20T08:05:57.974Z"
+title: 'Patara Ancient City: Kas Travel Guide (4.6★)'
+description: >-
+  Patara Ancient City sits between Kalkan and Kas on Turkey's Lycian coast,
+  combining a sprawling Roman-era ruin field with one of the country's longest
+  sandy beaches. 4.6★ (7,631 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Kas
+category: attraction
+pubDate: '2026-08-20T08:05:57.974Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Patara_City_Gate_2019.jpg/3840px-Patara_City_Gate_2019.jpg"
-  credit: "Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Patara_City_Gate_2019.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Patara_City_Gate_2019.jpg/3840px-Patara_City_Gate_2019.jpg
+  credit: 'Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Patara_City_Gate_2019.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/59793983_jgZMZo6NMk2JaVg2CrTVmRNcPtMunRr_8FE2JYkNwVY.jpg"
-    credit: "Photo: Foursquare user content (Ancient Theatre of Patara (Patara Antik Tiyatro))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4e4a4f73d4c0dae7bfc9b5c6"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/59793983_jgZMZo6NMk2JaVg2CrTVmRNcPtMunRr_8FE2JYkNwVY.jpg
+    credit: >-
+      Photo: Foursquare user content (Ancient Theatre of Patara (Patara Antik
+      Tiyatro))
+    license: foursquare
+    source: 'https://foursquare.com/v/4e4a4f73d4c0dae7bfc9b5c6'
 place:
-  id: "ChIJzafpnyktwBQR4YsQf-mOSRU"
-  name: "Patara Ancient City"
-  address: "Kalkan, 07960 Kaş/Antalya, Türkiye"
+  id: ChIJzafpnyktwBQR4YsQf-mOSRU
+  name: Patara Ancient City
+  address: 'Kalkan, 07960 Kaş/Antalya, Türkiye'
   rating: 4.6
-  userRatingsTotal: 7492
-  googleMapsUrl: "https://maps.google.com/?cid=1533914281606679521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7631
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1533914281606679521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.2614096
   lng: 29.3154847
-  phone: "+90 242 843 50 18"
+  phone: +90 242 843 50 18
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 20
@@ -49,24 +57,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_5552534f6d2d665173593452514277746b796e7066617a4a496843"
+    venueId: ven_5552534f6d2d665173593452514277746b796e7066617a4a496843
 tags:
-  - "kas"
-  - "historic site"
-quickAnswer: "Patara Ancient City sits between Kalkan and Kas on Turkey's Lycian coast, combining a sprawling Roman-era ruin field with one of the country's longest sandy beaches. Give it half a day: two to three hours for the ruins, then time to swim. Aim for early morning — the site opens at 8am and stays calmer through the morning than the 12pm–6pm weekend crush."
+  - kas
+  - historic site
+quickAnswer: >-
+  Patara Ancient City sits between Kalkan and Kas on Turkey's Lycian coast,
+  combining a sprawling Roman-era ruin field with one of the country's longest
+  sandy beaches. Give it half a day: two to three hours for the ruins, then time
+  to swim. Aim for early morning — the site opens at 8am and stays calmer
+  through the morning than the 12pm–6pm weekend crush.
 faq:
-  - q: "How long should I spend at Patara?"
-    a: "Plan on two to three hours for the ruins alone. If you're adding the beach, allow half a day total."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest within the 8am–11pm window; the crowd spike is specifically 12pm–6pm on weekends, so arriving near opening is your best bet."
-  - q: "How do I get to Patara without a car?"
-    a: "Seasonal dolmuş (shared minibuses) run from both Kalkan and Kas to the Patara turnoff, or you can take a short taxi ride from either town."
-  - q: "Can I visit the ruins and the beach in one trip?"
-    a: "Yes — the same ticket road leads to both. Most visitors do the ruins first, then walk down to the beach to swim afterward."
-  - q: "What should I bring?"
-    a: "Water, sun protection, closed shoes for uneven paths, and a swimsuit if you plan to hit the beach afterward. Cash as backup for the entrance fee is a good idea."
+  - q: How long should I spend at Patara?
+    a: >-
+      Plan on two to three hours for the ruins alone. If you're adding the
+      beach, allow half a day total.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest within the 8am–11pm window; the
+      crowd spike is specifically 12pm–6pm on weekends, so arriving near opening
+      is your best bet.
+  - q: How do I get to Patara without a car?
+    a: >-
+      Seasonal dolmuş (shared minibuses) run from both Kalkan and Kas to the
+      Patara turnoff, or you can take a short taxi ride from either town.
+  - q: Can I visit the ruins and the beach in one trip?
+    a: >-
+      Yes — the same ticket road leads to both. Most visitors do the ruins
+      first, then walk down to the beach to swim afterward.
+  - q: What should I bring?
+    a: >-
+      Water, sun protection, closed shoes for uneven paths, and a swimsuit if
+      you plan to hit the beach afterward. Cash as backup for the entrance fee
+      is a good idea.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,15 +1,20 @@
 ---
 title: 'Bu Qtair Restaurant: Where to Eat in Jumeirah (4.2★)'
-description: Bu Qtair is a no-frills, pick-your-fish shack near Umm Suqeim's fishing harbour, known for fried and curried seafood eaten at plastic tables by the water. 4.2★ (11,373 reviews) — what visitors say, hours, and tips.
+description: >-
+  Bu Qtair is a no-frills, pick-your-fish shack near Umm Suqeim's fishing
+  harbour, known for fried and curried seafood eaten at plastic tables by the
+  water. 4.2★ (11,402 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Jumeirah
 category: restaurant
 pubDate: '2026-08-18T08:00:56.123Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bu_Qtair_Restaurant_%2825717145503%29.jpg/1920px-Bu_Qtair_Restaurant_%2825717145503%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bu_Qtair_Restaurant_%2825717145503%29.jpg/1920px-Bu_Qtair_Restaurant_%2825717145503%29.jpg
   credit: 'Photo: tutu from Budapest, Hungary / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bu_Qtair_Restaurant_(25717145503).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bu_Qtair_Restaurant_(25717145503).jpg
   focus:
     x: 45
     'y': 60
@@ -17,11 +22,14 @@ gallery: []
 place:
   id: ChIJlbbiwENqXz4RYs-mK1C-G8o
   name: Bu Qtair Restaurant
-  address: Fishing Harbour 2 - Old 32B Street - Umm Suqeim Second - Umm Suqeim 2 - Dubai - United Arab Emirates
+  address: >-
+    Fishing Harbour 2 - Old 32B Street - Umm Suqeim Second - Umm Suqeim 2 -
+    Dubai - United Arab Emirates
   rating: 4.2
-  userRatingsTotal: 11373
+  userRatingsTotal: 11402
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=14563443071571644258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14563443071571644258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.1514356
   lng: 55.197186699999996
@@ -55,20 +63,39 @@ place:
 tags:
   - jumeirah
   - street food
-quickAnswer: Bu Qtair is a no-frills, pick-your-fish shack near Umm Suqeim's fishing harbour, known for fried and curried seafood eaten at plastic tables by the water. It's well-visited, so aim for the calmer 10pm–11pm window on weekdays or 12pm–1pm on weekends — avoid Saturday and Sunday afternoons, when it's busiest from 1pm onward. Expect a mid-range bill, cash and card both fine, and a 20–40 minute wait if you go at peak times.
+quickAnswer: >-
+  Bu Qtair is a no-frills, pick-your-fish shack near Umm Suqeim's fishing
+  harbour, known for fried and curried seafood eaten at plastic tables by the
+  water. It's well-visited, so aim for the calmer 10pm–11pm window on weekdays
+  or 12pm–1pm on weekends — avoid Saturday and Sunday afternoons, when it's
+  busiest from 1pm onward. Expect a mid-range bill, cash and card both fine, and
+  a 20–40 minute wait if you go at peak times.
 faq:
   - q: How do I get to Bu Qtair without a car?
-    a: There's no nearby metro stop, so the easiest way is a taxi or ride-hailing app (Uber/Careem) directly to Old 32B Street in Umm Suqeim 2, behind the fishing harbour.
+    a: >-
+      There's no nearby metro stop, so the easiest way is a taxi or ride-hailing
+      app (Uber/Careem) directly to Old 32B Street in Umm Suqeim 2, behind the
+      fishing harbour.
   - q: What's the best time to avoid crowds?
-    a: On weekdays, it's quietest between 10pm and 11pm. On weekends, aim for 12pm–1pm right at opening, and steer clear of 1pm onward when it gets busiest.
+    a: >-
+      On weekdays, it's quietest between 10pm and 11pm. On weekends, aim for
+      12pm–1pm right at opening, and steer clear of 1pm onward when it gets
+      busiest.
   - q: How much does a meal cost?
-    a: It's mid-range and priced by weight of fish/seafood chosen, so cost varies with what and how much you order — not a fixed set menu.
+    a: >-
+      It's mid-range and priced by weight of fish/seafood chosen, so cost varies
+      with what and how much you order — not a fixed set menu.
   - q: Is Friday different from other days?
-    a: Yes — Bu Qtair opens later on Friday, at 1pm instead of 11:30am, and closes at the usual 11:30pm.
+    a: >-
+      Yes — Bu Qtair opens later on Friday, at 1pm instead of 11:30am, and
+      closes at the usual 11:30pm.
   - q: What should I order?
-    a: Try the fried pomfret or kingfish, jumbo shrimp done curry-style, and garlic naan to soak up the tamarind chili sauce.
+    a: >-
+      Try the fried pomfret or kingfish, jumbo shrimp done curry-style, and
+      garlic naan to soak up the tamarind chili sauce.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

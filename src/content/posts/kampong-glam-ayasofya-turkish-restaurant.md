@@ -1,23 +1,27 @@
 ---
 title: 'Ayasofya Turkish Restaurant: Where to Eat in Kampong Glam'
-description: Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized heritage street leading up to Masjid Sultan in Kampong Glam.
+description: >-
+  Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized
+  heritage street leading up to Masjid Sultan in Kampong Glam.
 country: Singapore
 region: Kampong Glam
 category: restaurant
 pubDate: '2026-07-23T07:36:38.731Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/2552338_bAG_Yj_7AT9up_zUffTOlSKNkXwzPoBQMSug8p-xmLM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/2552338_bAG_Yj_7AT9up_zUffTOlSKNkXwzPoBQMSug8p-xmLM.jpg
   credit: 'Photo: Foursquare user content (Ayasofya Turkish Restaurant)'
   license: foursquare
-  source: https://foursquare.com/v/608fdaaebdb67e4cc8d23436
+  source: 'https://foursquare.com/v/608fdaaebdb67e4cc8d23436'
 place:
   id: ChIJL7m1cy8Z2jERHtaorNYRzuQ
   name: Ayasofya Turkish Restaurant
-  address: 51 Bussorah St, Singapore 199467
+  address: '51 Bussorah St, Singapore 199467'
   rating: 4.8
-  userRatingsTotal: 4592
+  userRatingsTotal: 4921
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16487134899567384094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16487134899567384094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3018398
   lng: 103.8593332
@@ -42,7 +46,7 @@ place:
       - 20
       - 21
     venueId: ven_51757a52594e726f61744852456a325a387963316d374c4a496843
-  phone: '+65 9134 0468'
+  phone: +65 9134 0468
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -54,19 +58,42 @@ place:
 tags:
   - kampong glam
   - local restaurant
-quickAnswer: Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized heritage street leading up to Masjid Sultan in Kampong Glam. It's best for a sit-down lunch or dinner of grilled meats (kebabs, Adana, Turkish pide) rather than a quick bite, and with a 4.8 rating from over 4,500 reviews, it draws steady crowds — go right at opening or mid-afternoon to skip the wait. Budget a moderate, mid-range spend (price level 2) and plan for 45–75 minutes to eat properly.
+quickAnswer: >-
+  Ayasofya is a Turkish restaurant at 51 Bussorah St, on the pedestrianized
+  heritage street leading up to Masjid Sultan in Kampong Glam. It's best for a
+  sit-down lunch or dinner of grilled meats (kebabs, Adana, Turkish pide) rather
+  than a quick bite, and with a 4.8 rating from over 4,500 reviews, it draws
+  steady crowds — go right at opening or mid-afternoon to skip the wait. Budget
+  a moderate, mid-range spend (price level 2) and plan for 45–75 minutes to eat
+  properly.
 faq:
   - q: How do I get to Ayasofya Turkish Restaurant without a car?
-    a: Take the MRT to Bugis Station (East-West or Downtown Line), use Exit C or D, and walk about 8–10 minutes north into Kampong Glam. Bussorah Street is pedestrian-only, so you'll finish the trip on foot regardless of how you arrive.
+    a: >-
+      Take the MRT to Bugis Station (East-West or Downtown Line), use Exit C or
+      D, and walk about 8–10 minutes north into Kampong Glam. Bussorah Street is
+      pedestrian-only, so you'll finish the trip on foot regardless of how you
+      arrive.
   - q: Is Ayasofya expensive?
-    a: It sits at a mid-range price level for Singapore dining — not a cheap hawker meal, but not fine dining either. Expect to pay a moderate amount for shared grill plates, pide, and drinks.
+    a: >-
+      It sits at a mid-range price level for Singapore dining — not a cheap
+      hawker meal, but not fine dining either. Expect to pay a moderate amount
+      for shared grill plates, pide, and drinks.
   - q: What's the best time to visit to avoid crowds?
-    a: A late lunch between roughly 2:30 and 3:30pm is quieter than dinner. Evenings, especially Thursday to Saturday after 6:30pm, are the most atmospheric but also the busiest.
+    a: >-
+      A late lunch between roughly 2:30 and 3:30pm is quieter than dinner.
+      Evenings, especially Thursday to Saturday after 6:30pm, are the most
+      atmospheric but also the busiest.
   - q: How long should I plan to spend there?
-    a: Budget 45–75 minutes for a proper sit-down meal, plus extra time to stroll Bussorah Street and view Masjid Sultan at the end of the road.
+    a: >-
+      Budget 45–75 minutes for a proper sit-down meal, plus extra time to stroll
+      Bussorah Street and view Masjid Sultan at the end of the road.
   - q: What else is worth seeing near the restaurant?
-    a: Masjid Sultan is a two-minute walk to the end of Bussorah Street, the Malay Heritage Centre is 5–10 minutes away, and Arab Street's textile and basket shops are just around the corner.
+    a: >-
+      Masjid Sultan is a two-minute walk to the end of Bussorah Street, the
+      Malay Heritage Centre is 5–10 minutes away, and Arab Street's textile and
+      basket shops are just around the corner.
 aiGenerated: true
+updatedDate: '2026-09-06'
 ---
 
 ## Why Ayasofya belongs on your Kampong Glam list

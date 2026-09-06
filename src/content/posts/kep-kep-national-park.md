@@ -1,31 +1,36 @@
 ---
-title: "Kep National Park: Travel Guide (4.2★)"
-description: "Kep National Park is a small, walkable coastal hill park in southern Cambodia, best known for its circular ridge trail, sea viewpoints, and a hilltop pagoda. 4.2★ (417 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kep"
-category: "attraction"
-pubDate: "2026-08-22T09:21:20.166Z"
+title: 'Kep National Park: Travel Guide (4.2★)'
+description: >-
+  Kep National Park is a small, walkable coastal hill park in southern Cambodia,
+  best known for its circular ridge trail, sea viewpoints, and a hilltop pagoda.
+  4.2★ (419 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Kep
+category: attraction
+pubDate: '2026-08-22T09:21:20.166Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kep_National_Park_6.jpg/1920px-Kep_National_Park_6.jpg"
-  credit: "Photo: Mx. Granger / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kep_National_Park_6.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kep_National_Park_6.jpg/1920px-Kep_National_Park_6.jpg
+  credit: 'Photo: Mx. Granger / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kep_National_Park_6.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJnVcMEE_NCTERJE48MVseQpc"
-  name: "Kep National Park"
-  address: "Krong Kaeb, Cambodia"
+  id: ChIJnVcMEE_NCTERJE48MVseQpc
+  name: Kep National Park
+  address: 'Krong Kaeb, Cambodia'
   rating: 4.2
-  userRatingsTotal: 417
-  googleMapsUrl: "https://maps.google.com/?cid=10899307425206914596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 419
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10899307425206914596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.491930799999999
   lng: 104.2998343
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekendQuiet:
       - 13
       - 17
@@ -41,24 +46,44 @@ place:
       - 18
       - 21
       - 22
-    venueId: "ven_6370516573564d3834454a524554434e5f45454d63566e4a496843"
+    venueId: ven_6370516573564d3834454a524554434e5f45454d63566e4a496843
 tags:
-  - "kep"
-  - "Kep National Park"
-quickAnswer: "Kep National Park is a small, walkable coastal hill park in southern Cambodia, best known for its circular ridge trail, sea viewpoints, and a hilltop pagoda. Budget two to three hours for the full loop, wear real shoes, and bring your own water. Weekends stay quieter from 1pm to 8pm — arrivals pick up between 9am and 11pm, so an early or late start avoids the crowds."
+  - kep
+  - Kep National Park
+quickAnswer: >-
+  Kep National Park is a small, walkable coastal hill park in southern Cambodia,
+  best known for its circular ridge trail, sea viewpoints, and a hilltop pagoda.
+  Budget two to three hours for the full loop, wear real shoes, and bring your
+  own water. Weekends stay quieter from 1pm to 8pm — arrivals pick up between
+  9am and 11pm, so an early or late start avoids the crowds.
 faq:
-  - q: "How long does it take to walk Kep National Park?"
-    a: "The full ridge loop is around 8km and takes about 2-3 hours at a relaxed pace. A shorter walk to the first viewpoint and back takes under an hour."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the park is calmest between 1pm and 8pm. Arrivals pick up from 9am and stay busy until around 11pm, so plan around that stretch if you want the trail to yourself."
-  - q: "Do I need to book or pay an entrance fee?"
-    a: "There's no formal booking system. Bring small cash for any entrance donation and for the cafe near the trailhead, since there's no card payment on the hill."
-  - q: "How do I get to Kep National Park without a car?"
-    a: "Most visitors reach it by tuk-tuk or rented scooter from Kep town, a short ride from the crab market and seafront guesthouses. There's no public shuttle or train service to the trailhead."
-  - q: "What should I bring for the walk?"
-    a: "Closed, grippy shoes, your own water, and sun protection for the exposed viewpoints. The trail is shaded in parts but the lookout clearings get full sun."
+  - q: How long does it take to walk Kep National Park?
+    a: >-
+      The full ridge loop is around 8km and takes about 2-3 hours at a relaxed
+      pace. A shorter walk to the first viewpoint and back takes under an hour.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, the park is calmest between 1pm and 8pm. Arrivals pick up
+      from 9am and stay busy until around 11pm, so plan around that stretch if
+      you want the trail to yourself.
+  - q: Do I need to book or pay an entrance fee?
+    a: >-
+      There's no formal booking system. Bring small cash for any entrance
+      donation and for the cafe near the trailhead, since there's no card
+      payment on the hill.
+  - q: How do I get to Kep National Park without a car?
+    a: >-
+      Most visitors reach it by tuk-tuk or rented scooter from Kep town, a short
+      ride from the crab market and seafront guesthouses. There's no public
+      shuttle or train service to the trailhead.
+  - q: What should I bring for the walk?
+    a: >-
+      Closed, grippy shoes, your own water, and sun protection for the exposed
+      viewpoints. The trail is shaded in parts but the lookout clearings get
+      full sun.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

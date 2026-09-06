@@ -1,60 +1,86 @@
 ---
-title: "La Plantation: Kampot Travel Guide (4.7★)"
-description: "La Plantation is a working pepper farm outside Kampot, Cambodia, in Bosjheng village, open daily 9am–5pm (until 7pm on weekends). 4.7★ (2,376 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kampot"
-category: "attraction"
-pubDate: "2026-08-26T09:29:53.770Z"
+title: 'La Plantation: Kampot Travel Guide (4.7★)'
+description: >-
+  La Plantation is a working pepper farm outside Kampot, Cambodia, in Bosjheng
+  village, open daily 9am–5pm (until 7pm on weekends). 4.7★ (2,375 reviews) —
+  what visitors say, hours, and tips.
+country: Cambodia
+region: Kampot
+category: attraction
+pubDate: '2026-08-26T09:29:53.770Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:03-La_Plantation_Pepper_Farm,_Kampot_Province-nX-1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:03-La_Plantation_Pepper_Farm,_Kampot_Province-nX-1.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-9.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-9.jpg"
-    credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:03-La_Plantation_Pepper_Farm,_Kampot_Province-nX-9.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-9.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-9.jpg
+    credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:03-La_Plantation_Pepper_Farm,_Kampot_Province-nX-9.jpg
 place:
-  id: "ChIJ_4jXyeXKCTER18e4pdCJPdI"
-  name: "La Plantation"
-  address: "J868+CJ, Bosjheng village, ក្រុងកំពត, Cambodia"
+  id: ChIJ_4jXyeXKCTER18e4pdCJPdI
+  name: La Plantation
+  address: 'J868+CJ, Bosjheng village, ក្រុងកំពត, Cambodia'
   rating: 4.7
-  userRatingsTotal: 2376
-  googleMapsUrl: "https://maps.google.com/?cid=15149416250770769879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2375
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15149416250770769879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.609976000000001
   lng: 104.31621949999999
-  phone: "+855 17 842 505"
+  phone: +855 17 842 505
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "kampot"
-  - "museum"
-quickAnswer: "La Plantation is a working pepper farm outside Kampot, Cambodia, in Bosjheng village, open daily 9am–5pm (until 7pm on weekends). Come for a free self-guided or short guided walk through the pepper vines, a tasting of Kampot's famous red, black and white peppercorns, and a farm-to-table lunch with a view over the fields. Aim for a weekday late morning to avoid weekend crowds and catch the best light for photos."
+  - kampot
+  - museum
+quickAnswer: >-
+  La Plantation is a working pepper farm outside Kampot, Cambodia, in Bosjheng
+  village, open daily 9am–5pm (until 7pm on weekends). Come for a free
+  self-guided or short guided walk through the pepper vines, a tasting of
+  Kampot's famous red, black and white peppercorns, and a farm-to-table lunch
+  with a view over the fields. Aim for a weekday late morning to avoid weekend
+  crowds and catch the best light for photos.
 faq:
-  - q: "How do I get to La Plantation from Kampot town?"
-    a: "It's a 20–30 minute tuk-tuk or scooter ride from central Kampot to Bosjheng village. Most guesthouses can arrange a driver, often as part of a half-day loop with other nearby sights."
-  - q: "How long should I plan for a visit?"
-    a: "Budget 1.5 to 2 hours: about 30–45 minutes for the field walk and tasting, plus time for lunch at the on-site restaurant if you stay to eat."
-  - q: "What are the opening hours?"
-    a: "Open daily 9am–5pm Monday through Friday, and 9am–7pm on Saturday and Sunday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday late mornings, roughly 10am on a Tuesday or Wednesday, tend to be calmest — before lunch crowds and after any early tour groups."
-  - q: "Is there anything else to see nearby?"
-    a: "Phnom Chhngok cave temple and Kampot's salt fields are both a short drive away and are commonly combined with a La Plantation visit."
+  - q: How do I get to La Plantation from Kampot town?
+    a: >-
+      It's a 20–30 minute tuk-tuk or scooter ride from central Kampot to
+      Bosjheng village. Most guesthouses can arrange a driver, often as part of
+      a half-day loop with other nearby sights.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget 1.5 to 2 hours: about 30–45 minutes for the field walk and tasting,
+      plus time for lunch at the on-site restaurant if you stay to eat.
+  - q: What are the opening hours?
+    a: >-
+      Open daily 9am–5pm Monday through Friday, and 9am–7pm on Saturday and
+      Sunday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday late mornings, roughly 10am on a Tuesday or Wednesday, tend to be
+      calmest — before lunch crowds and after any early tour groups.
+  - q: Is there anything else to see nearby?
+    a: >-
+      Phnom Chhngok cave temple and Kampot's salt fields are both a short drive
+      away and are commonly combined with a La Plantation visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

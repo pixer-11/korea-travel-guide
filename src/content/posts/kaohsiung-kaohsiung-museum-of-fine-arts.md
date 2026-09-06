@@ -1,64 +1,92 @@
 ---
-title: "Kaohsiung Museum of Fine Arts: Travel Guide (4.5★)"
-description: "Kaohsiung Museum of Fine Arts, in Gushan District, is a contemporary art museum set inside a sprawling public park with a sculpture garden and lakes. 4.5★ (11,487 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kaohsiung"
-category: "attraction"
-pubDate: "2026-08-23T08:03:55.586Z"
+title: 'Kaohsiung Museum of Fine Arts: Travel Guide (4.5★)'
+description: >-
+  Kaohsiung Museum of Fine Arts, in Gushan District, is a contemporary art
+  museum set inside a sprawling public park with a sculpture garden and lakes.
+  4.5★ (11,507 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Kaohsiung
+category: attraction
+pubDate: '2026-08-23T08:03:55.586Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg/1920px-%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg"
-  credit: "Photo: Adece033090 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg/1920px-%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg
+  credit: 'Photo: Adece033090 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A820240704.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJCRAy8VEEbjQRHz0MZ06vkE8"
-  name: "Kaohsiung Museum of Fine Arts"
-  address: "No. 80號, Meishuguan Rd, Longshui Village, Gushan District, Kaohsiung City, Taiwan 80460"
+  id: ChIJCRAy8VEEbjQRHz0MZ06vkE8
+  name: Kaohsiung Museum of Fine Arts
+  address: >-
+    No. 80號, Meishuguan Rd, Longshui Village, Gushan District, Kaohsiung City,
+    Taiwan 80460
   rating: 4.5
-  userRatingsTotal: 11487
-  googleMapsUrl: "https://maps.google.com/?cid=5733275076913806623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11507
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5733275076913806623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.6566968
   lng: 120.2865511
-  phone: "+886 7 555 0331"
+  phone: +886 7 555 0331
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-23
+    updated: 2026-08-23T00:00:00.000Z
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    venueId: "ven_38456b7636305a4d307a4852516a6245455638794152434a496843"
+    venueId: ven_38456b7636305a4d307a4852516a6245455638794152434a496843
 tags:
-  - "kaohsiung"
-  - "art gallery"
-quickAnswer: "Kaohsiung Museum of Fine Arts, in Gushan District, is a contemporary art museum set inside a sprawling public park with a sculpture garden and lakes. It's closed Mondays and open 9:30am–5:30pm the rest of the week; weekends get busy from noon to 5pm, so mornings are calmer. Budget half a day if you want to combine the galleries with a walk or bike ride through the surrounding Museum of Fine Arts Park."
+  - kaohsiung
+  - art gallery
+quickAnswer: >-
+  Kaohsiung Museum of Fine Arts, in Gushan District, is a contemporary art
+  museum set inside a sprawling public park with a sculpture garden and lakes.
+  It's closed Mondays and open 9:30am–5:30pm the rest of the week; weekends get
+  busy from noon to 5pm, so mornings are calmer. Budget half a day if you want
+  to combine the galleries with a walk or bike ride through the surrounding
+  Museum of Fine Arts Park.
 faq:
-  - q: "What are the opening hours for Kaohsiung Museum of Fine Arts?"
-    a: "It's open Tuesday through Sunday, 9:30am to 5:30pm, and closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 9:30am opening tend to be calmest. On weekends, try to arrive before noon, since 12pm–5pm is the busiest stretch."
-  - q: "How do I get to the museum without a car?"
-    a: "The closest MRT stations are Aozihdi or Kaisyuan on the Red Line, but both require a further bus ride or walk. Taxis and scooters are the most direct option."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget about two hours for the galleries alone, and half a day if you also want to walk or cycle through the surrounding park and sculpture garden."
-  - q: "Is there anything else to do nearby?"
-    a: "The museum sits inside a large public park good for a walk, and it's a reasonable add-on to a day exploring Gushan District, including the Cijin Ferry area and Shoushan."
+  - q: What are the opening hours for Kaohsiung Museum of Fine Arts?
+    a: >-
+      It's open Tuesday through Sunday, 9:30am to 5:30pm, and closed all day
+      Monday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 9:30am opening tend to be calmest. On
+      weekends, try to arrive before noon, since 12pm–5pm is the busiest
+      stretch.
+  - q: How do I get to the museum without a car?
+    a: >-
+      The closest MRT stations are Aozihdi or Kaisyuan on the Red Line, but both
+      require a further bus ride or walk. Taxis and scooters are the most direct
+      option.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Budget about two hours for the galleries alone, and half a day if you also
+      want to walk or cycle through the surrounding park and sculpture garden.
+  - q: Is there anything else to do nearby?
+    a: >-
+      The museum sits inside a large public park good for a walk, and it's a
+      reasonable add-on to a day exploring Gushan District, including the Cijin
+      Ferry area and Shoushan.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

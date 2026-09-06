@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jordan-yaumatei-tin-hau-temple
-srcHash: 'edfdf69fffc4'
+srcHash: 'bb051f1ef168'
 title: 'Templo de Tin Hau de Yaumatei: Guía de Viaje de Jordan (4.2★)'
-description: El Templo de Tin Hau de Yaumatei es un conjunto de cinco salas conectadas entre sí sobre una plaza elevada justo al lado de Temple Street, en Jordan, dedicado principalmente a la diosa del mar Tin Hau. 4.2★ (1,771 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Templo de Tin Hau de Yaumatei es un conjunto de cinco salas conectadas entre sí sobre una plaza elevada justo al lado de Temple Street, en Jordan, dedicado principalmente a la diosa del mar Tin Hau. 4.2★ (1,780 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Templo de Tin Hau de Yaumatei es un conjunto de cinco salas conectadas entre sí sobre una plaza elevada justo al lado de Temple Street, en Jordan, dedicado principalmente a la diosa del mar Tin Hau. Abre de 8am a 5pm todos los días (desde las 9am los domingos), la entrada es gratuita y vale la pena dedicarle entre 20 y 30 minutos de camino al mercado nocturno de Temple Street. Ve por la mañana para disfrutar de las salas tranquilas iluminadas por incienso y de mejor luz para las fotos.
 faq:
   - q: ¿Cuánto tiempo debería dedicarle a la visita?

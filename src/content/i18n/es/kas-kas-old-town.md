@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kas-kas-old-town
-srcHash: 'def332943b2d'
+srcHash: '518eec0f752a'
 title: 'Casco Antiguo de Kaş: Guía de viaje de Kas (4.7★)'
-description: El Casco Antiguo de Kaş es el entramado de callejuelas encaladas y cubiertas de buganvillas en torno a İbrahim Serin Caddesi, en el centro de Kaş, abierto las 24 horas y sin necesidad de entrada. 4.7★ (223 reseñas) — lo que opinan los visitantes, horarios y consejos.
+description: El Casco Antiguo de Kaş es el entramado de callejuelas encaladas y cubiertas de buganvillas en torno a İbrahim Serin Caddesi, en el centro de Kaş, abierto las 24 horas y sin necesidad de entrada. 4.8★ (236 reseñas) — lo que opinan los visitantes, horarios y consejos.
 quickAnswer: El Casco Antiguo de Kaş es el entramado de callejuelas encaladas y cubiertas de buganvillas en torno a İbrahim Serin Caddesi, en el centro de Kaş, abierto las 24 horas y sin necesidad de entrada. Ve temprano —las mañanas entre semana de 8 a 9 son las más tranquilas— y date una hora o dos para pasear, curiosear tiendas y parar a tomar un té antes de que lleguen las excursiones de un día. Es un plan de medio día perfecto para combinar caminando con el puerto y el teatro helenístico justo encima del pueblo.
 faq:
   - q: ¿Necesito entrada para visitar el Casco Antiguo de Kaş?

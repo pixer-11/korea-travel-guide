@@ -1,45 +1,53 @@
 ---
-title: "Omicho Market: Kanazawa Travel Guide (4.0★)"
-description: "Omicho Market in central Kanazawa is open daily from 9am to 5pm, and it's a well-visited spot — not a hidden secret — so the trick is timing your visit right at opening. 4.0★ (19,280 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kanazawa"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:23:44.227Z"
+title: 'Omicho Market: Kanazawa Travel Guide (4.0★)'
+description: >-
+  Omicho Market in central Kanazawa is open daily from 9am to 5pm, and it's a
+  well-visited spot — not a hidden secret — so the trick is timing your visit
+  right at opening. 4.0★ (19,332 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kanazawa
+category: hidden-gem
+pubDate: '2026-08-24T08:23:44.227Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg/3840px-Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg"
-  credit: "Photo: DimiTalen / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Omicho_covered_market_western_entrance,_Kanazawa,_2016.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg/3840px-Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg
+  credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Omicho_covered_market_western_entrance,_Kanazawa,_2016.jpg
+  via: act
   focus:
     x: 48
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kanazawa_Omicho_Market%2C_Japan_%2848876956676%29.jpg/3840px-Kanazawa_Omicho_Market%2C_Japan_%2848876956676%29.jpg"
-    credit: "Photo: dconvertini / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kanazawa_Omicho_Market,_Japan_(48876956676).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kanazawa_Omicho_Market%2C_Japan_%2848876956676%29.jpg/3840px-Kanazawa_Omicho_Market%2C_Japan_%2848876956676%29.jpg
+    credit: 'Photo: dconvertini / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kanazawa_Omicho_Market,_Japan_(48876956676).jpg
 place:
-  id: "ChIJ0xPT93Az-F8RpTSlbHwo9L8"
-  name: "Omicho Market"
-  address: "50 Kamiōmichō, Kanazawa, Ishikawa 920-0905, Japan"
+  id: ChIJ0xPT93Az-F8RpTSlbHwo9L8
+  name: Omicho Market
+  address: '50 Kamiōmichō, Kanazawa, Ishikawa 920-0905, Japan'
   rating: 4
-  userRatingsTotal: 19280
-  googleMapsUrl: "https://maps.google.com/?cid=13831724870425457829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19332
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13831724870425457829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5717335
   lng: 136.6558651
-  phone: "+81 76-231-1462"
+  phone: +81 76-231-1462
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -51,24 +59,43 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_384c396f7748626c5354705238462d7a413339545078304a496843"
+    venueId: ven_384c396f7748626c5354705238462d7a413339545078304a496843
 tags:
-  - "kanazawa"
-  - "local market"
-quickAnswer: "Omicho Market in central Kanazawa is open daily from 9am to 5pm, and it's a well-visited spot — not a hidden secret — so the trick is timing your visit right at opening. Come as the shutters roll up rather than between 11am and 3pm on weekends, when the covered lanes fill shoulder-to-shoulder with tourists chasing crab and uni bowls. Budget an hour to wander, plus more if you sit down for a seafood-rice-bowl breakfast."
+  - kanazawa
+  - local market
+quickAnswer: >-
+  Omicho Market in central Kanazawa is open daily from 9am to 5pm, and it's a
+  well-visited spot — not a hidden secret — so the trick is timing your visit
+  right at opening. Come as the shutters roll up rather than between 11am and
+  3pm on weekends, when the covered lanes fill shoulder-to-shoulder with
+  tourists chasing crab and uni bowls. Budget an hour to wander, plus more if
+  you sit down for a seafood-rice-bowl breakfast.
 faq:
-  - q: "What are Omicho Market's opening hours?"
-    a: "It's open daily from 9:00 AM to 5:00 PM, with no variation across the week — so there's no early-morning window before opening to beat the gates."
-  - q: "When is the quietest time to visit Omicho Market?"
-    a: "Right at opening, 9am, on either a weekday or weekend, is calmest. Avoid 11am to 3pm on weekends, when it's busiest with tour groups and day-trippers."
-  - q: "How do I get to Omicho Market from Kanazawa Station?"
-    a: "Take the Kanazawa Loop Bus from the station's east exit to the Omicho Market stop, about 10 minutes. Walking takes 15-20 minutes."
-  - q: "How much time should I budget for a visit?"
-    a: "An hour is enough to wander the stalls, but plan 90 minutes to two hours if you want to sit down for a seafood rice bowl breakfast."
-  - q: "What should I eat at Omicho Market?"
-    a: "Try kaisendon (seafood rice bowls), fresh-shucked oysters, nodoguro (blackthroat sea perch), and Kaga vegetables specific to the Kanazawa region."
+  - q: What are Omicho Market's opening hours?
+    a: >-
+      It's open daily from 9:00 AM to 5:00 PM, with no variation across the week
+      — so there's no early-morning window before opening to beat the gates.
+  - q: When is the quietest time to visit Omicho Market?
+    a: >-
+      Right at opening, 9am, on either a weekday or weekend, is calmest. Avoid
+      11am to 3pm on weekends, when it's busiest with tour groups and
+      day-trippers.
+  - q: How do I get to Omicho Market from Kanazawa Station?
+    a: >-
+      Take the Kanazawa Loop Bus from the station's east exit to the Omicho
+      Market stop, about 10 minutes. Walking takes 15-20 minutes.
+  - q: How much time should I budget for a visit?
+    a: >-
+      An hour is enough to wander the stalls, but plan 90 minutes to two hours
+      if you want to sit down for a seafood rice bowl breakfast.
+  - q: What should I eat at Omicho Market?
+    a: >-
+      Try kaisendon (seafood rice bowls), fresh-shucked oysters, nodoguro
+      (blackthroat sea perch), and Kaga vegetables specific to the Kanazawa
+      region.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

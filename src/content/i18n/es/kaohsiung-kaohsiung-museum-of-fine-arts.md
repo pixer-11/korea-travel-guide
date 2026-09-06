@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kaohsiung-kaohsiung-museum-of-fine-arts
-srcHash: 'd9367c9cb078'
+srcHash: '32815f398d5b'
 title: 'Museo de Bellas Artes de Kaohsiung: Guía de viaje (4,5★)'
-description: 'El Museo de Bellas Artes de Kaohsiung, en el distrito de Gushan, es un museo de arte contemporáneo rodeado de un extenso parque público con jardín de esculturas y lagos. 4,5★ (11.487 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de Bellas Artes de Kaohsiung, en el distrito de Gushan, es un museo de arte contemporáneo rodeado de un extenso parque público con jardín de esculturas y lagos. 4,5★ (11.507 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Bellas Artes de Kaohsiung, en el distrito de Gushan, es un museo de arte contemporáneo rodeado de un extenso parque público con jardín de esculturas y lagos. Permanece cerrado los lunes y abre de 9:30 a 17:30 el resto de la semana; los fines de semana se llena de mediodía a las 17:00, así que las mañanas son más tranquilas. Conviene reservar medio día si se quiere combinar las salas con un paseo o una vuelta en bicicleta por el parque que lo rodea, el Museum of Fine Arts Park.
 faq:
   - q: ¿Cuál es el horario del Museo de Bellas Artes de Kaohsiung?

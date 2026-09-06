@@ -1,50 +1,74 @@
 ---
-title: "Bokor Hill Station: Kampot Travel Guide (4.3★)"
-description: "Bokor Hill Station sits atop Bokor Mountain, about an hour's drive from Kampot town inside Preah Monivong (Bokor) National Park. 4.3★ (2,908 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kampot"
-category: "attraction"
-pubDate: "2026-08-22T09:07:46.253Z"
+title: 'Bokor Hill Station: Kampot Travel Guide (4.3★)'
+description: >-
+  Bokor Hill Station sits atop Bokor Mountain, about an hour's drive from Kampot
+  town inside Preah Monivong (Bokor) National Park. 4.3★ (2,916 reviews) — what
+  visitors say, hours, and tips.
+country: Cambodia
+region: Kampot
+category: attraction
+pubDate: '2026-08-22T09:07:46.253Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bokor_palace_hotel_Cambodia.jpg/1920px-Bokor_palace_hotel_Cambodia.jpg"
-  credit: "Photo: Matnkat / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bokor_palace_hotel_Cambodia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bokor_palace_hotel_Cambodia.jpg/1920px-Bokor_palace_hotel_Cambodia.jpg
+  credit: 'Photo: Matnkat / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bokor_palace_hotel_Cambodia.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/11484027_sKjubjWYuMRfsLHqUWundK4TB3sQm6-9FLZjQzWDD90.jpg"
-    credit: "Photo: Foursquare user content (Le Bokor Palace)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4ccbabe9511b236aaa58ecc9"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/11484027_sKjubjWYuMRfsLHqUWundK4TB3sQm6-9FLZjQzWDD90.jpg
+    credit: 'Photo: Foursquare user content (Le Bokor Palace)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4ccbabe9511b236aaa58ecc9'
 place:
-  id: "ChIJleliBQNbCDER-Hbv947sv8Y"
-  name: "Bokor Hill Station"
-  address: "J2CG+VJ4, Phumi Pôpôk Vil, Cambodia"
+  id: ChIJleliBQNbCDER-Hbv947sv8Y
+  name: Bokor Hill Station
+  address: 'J2CG+VJ4, Phumi Pôpôk Vil, Cambodia'
   rating: 4.3
-  userRatingsTotal: 2908
-  googleMapsUrl: "https://maps.google.com/?cid=14321425438850643704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2916
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14321425438850643704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.6221396
   lng: 104.0265889
 tags:
-  - "kampot"
-  - "Bokor Hill Station"
-quickAnswer: "Bokor Hill Station sits atop Bokor Mountain, about an hour's drive from Kampot town inside Preah Monivong (Bokor) National Park. Go for the fog-wrapped ruins of the old French colonial hill station, the abandoned Bokor Palace Hotel, and sweeping views over the Gulf of Thailand — plan a half or full day, and go early before cloud rolls in and obscures the views."
+  - kampot
+  - Bokor Hill Station
+quickAnswer: >-
+  Bokor Hill Station sits atop Bokor Mountain, about an hour's drive from Kampot
+  town inside Preah Monivong (Bokor) National Park. Go for the fog-wrapped ruins
+  of the old French colonial hill station, the abandoned Bokor Palace Hotel, and
+  sweeping views over the Gulf of Thailand — plan a half or full day, and go
+  early before cloud rolls in and obscures the views.
 faq:
-  - q: "How do I get to Bokor Hill Station from Kampot?"
-    a: "It's about a 40km, roughly one-hour drive up Bokor Mountain. Rent a scooter, hire a tuk-tuk for the day, or book a guided tour — all depart from Kampot town."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan at least half a day for the main ruins and viewpoints. A full day lets you also fit in Popokvil Waterfall and the hilltop pagoda."
-  - q: "What's the best time of day to visit?"
-    a: "Go in the morning. Cloud and fog frequently roll over the plateau by early afternoon and can block the coastal views entirely."
-  - q: "What's the best season to visit?"
-    a: "Dry season (roughly November to April) gives the clearest views. Visit in wet season (June to October) if you specifically want to see Popokvil Waterfall flowing."
-  - q: "Is there an entrance fee?"
-    a: "Rules have changed over time, so confirm current park or site entrance costs locally before you go rather than assuming it's free."
+  - q: How do I get to Bokor Hill Station from Kampot?
+    a: >-
+      It's about a 40km, roughly one-hour drive up Bokor Mountain. Rent a
+      scooter, hire a tuk-tuk for the day, or book a guided tour — all depart
+      from Kampot town.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Plan at least half a day for the main ruins and viewpoints. A full day
+      lets you also fit in Popokvil Waterfall and the hilltop pagoda.
+  - q: What's the best time of day to visit?
+    a: >-
+      Go in the morning. Cloud and fog frequently roll over the plateau by early
+      afternoon and can block the coastal views entirely.
+  - q: What's the best season to visit?
+    a: >-
+      Dry season (roughly November to April) gives the clearest views. Visit in
+      wet season (June to October) if you specifically want to see Popokvil
+      Waterfall flowing.
+  - q: Is there an entrance fee?
+    a: >-
+      Rules have changed over time, so confirm current park or site entrance
+      costs locally before you go rather than assuming it's free.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

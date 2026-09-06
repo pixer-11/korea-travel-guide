@@ -1,51 +1,80 @@
 ---
-title: "Phnom Srei: Kampong Cham Travel Guide (4.3★)"
-description: "Phnom Srei (\"Woman's Mountain\") is a modest hilltop temple in Kampong Siem District, just outside Kampong Cham town in Cambodia, best visited early morning or late afternoon when the heat and glare ease off. 4.3★ (290 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kampong Cham"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:21:50.906Z"
+title: 'Phnom Srei: Kampong Cham Travel Guide (4.3★)'
+description: >-
+  Phnom Srei ("Woman's Mountain") is a modest hilltop temple in Kampong Siem
+  District, just outside Kampong Cham town in Cambodia, best visited early
+  morning or late afternoon when the heat and glare ease off. 4.3★ (292 reviews)
+  — what visitors say, hours, and tips.
+country: Cambodia
+region: Kampong Cham
+category: hidden-gem
+pubDate: '2026-08-24T08:21:50.906Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/03-Phnom_Srei_Kampong_Cham-nX-14.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-14.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:03-Phnom_Srei_Kampong_Cham-nX-14.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/03-Phnom_Srei_Kampong_Cham-nX-14.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-14.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:03-Phnom_Srei_Kampong_Cham-nX-14.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/03-Phnom_Srei_Kampong_Cham-nX-7.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-7.jpg"
-    credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:03-Phnom_Srei_Kampong_Cham-nX-7.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/03-Phnom_Srei_Kampong_Cham-nX-7.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-7.jpg
+    credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:03-Phnom_Srei_Kampong_Cham-nX-7.jpg
 place:
-  id: "ChIJO0c7MWxADDERRRedO4FVPnc"
-  name: "Phnom Srei"
-  address: "2CJC+2PW, Kampong Siem District, Cambodia"
+  id: ChIJO0c7MWxADDERRRedO4FVPnc
+  name: Phnom Srei
+  address: '2CJC+2PW, Kampong Siem District, Cambodia'
   rating: 4.3
-  userRatingsTotal: 290
-  googleMapsUrl: "https://maps.google.com/?cid=8592399152608778053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 292
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8592399152608778053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.0301181
   lng: 105.4218176
 tags:
-  - "kampong cham"
-  - "hidden gem"
-quickAnswer: "Phnom Srei (\"Woman's Mountain\") is a modest hilltop temple in Kampong Siem District, just outside Kampong Cham town in Cambodia, best visited early morning or late afternoon when the heat and glare ease off. It's a quiet counterpart to its taller neighbor Phnom Pros, with a short staircase climb, resident monkeys, and views over the surrounding rice paddies. Budget 45 minutes to an hour, and pair it with Phnom Pros for the full legend and a half-day loop from town."
+  - kampong cham
+  - hidden gem
+quickAnswer: >-
+  Phnom Srei ("Woman's Mountain") is a modest hilltop temple in Kampong Siem
+  District, just outside Kampong Cham town in Cambodia, best visited early
+  morning or late afternoon when the heat and glare ease off. It's a quiet
+  counterpart to its taller neighbor Phnom Pros, with a short staircase climb,
+  resident monkeys, and views over the surrounding rice paddies. Budget 45
+  minutes to an hour, and pair it with Phnom Pros for the full legend and a
+  half-day loop from town.
 faq:
-  - q: "How do I get to Phnom Srei from Kampong Cham town?"
-    a: "It's about a 15-20 minute ride by tuk-tuk, moto, or bicycle in Kampong Siem District. There's no direct public bus, so hiring a tuk-tuk driver for a half-day loop with Phnom Pros is the easiest option."
-  - q: "How much time should I budget for a visit?"
-    a: "About 45 minutes to an hour covers the staircase climb, the pagoda grounds, and the viewpoint. Most people combine it with nearby Phnom Pros for a half-day outing."
-  - q: "Is there an entrance fee?"
-    a: "There's no formal ticket booth, but a small donation at the pagoda is customary. Bring some small riel or dollar bills."
-  - q: "When is the best time to visit?"
-    a: "Early morning or the couple of hours before sunset, especially in the dry season from November to March, when the heat and glare are lowest and the staircase is dry."
-  - q: "Is Phnom Srei worth visiting if I've already seen Phnom Pros?"
-    a: "Yes — it's smaller and quieter than Phnom Pros, with fewer visitors and a calmer atmosphere, making it a good contrast rather than a repeat."
+  - q: How do I get to Phnom Srei from Kampong Cham town?
+    a: >-
+      It's about a 15-20 minute ride by tuk-tuk, moto, or bicycle in Kampong
+      Siem District. There's no direct public bus, so hiring a tuk-tuk driver
+      for a half-day loop with Phnom Pros is the easiest option.
+  - q: How much time should I budget for a visit?
+    a: >-
+      About 45 minutes to an hour covers the staircase climb, the pagoda
+      grounds, and the viewpoint. Most people combine it with nearby Phnom Pros
+      for a half-day outing.
+  - q: Is there an entrance fee?
+    a: >-
+      There's no formal ticket booth, but a small donation at the pagoda is
+      customary. Bring some small riel or dollar bills.
+  - q: When is the best time to visit?
+    a: >-
+      Early morning or the couple of hours before sunset, especially in the dry
+      season from November to March, when the heat and glare are lowest and the
+      staircase is dry.
+  - q: Is Phnom Srei worth visiting if I've already seen Phnom Pros?
+    a: >-
+      Yes — it's smaller and quieter than Phnom Pros, with fewer visitors and a
+      calmer atmosphere, making it a good contrast rather than a repeat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

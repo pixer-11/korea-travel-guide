@@ -1,51 +1,76 @@
 ---
-title: "Dubai Old Village: Travel Guide (4.6★)"
-description: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. 4.6★ (1,105 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Dubai"
-category: "attraction"
-pubDate: "2026-08-31T15:16:35.168Z"
+title: 'Dubai Old Village: Travel Guide (4.6★)'
+description: >-
+  Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a
+  reconstructed heritage quarter of coral-stone and gypsum buildings showing how
+  Dubai looked before the oil boom. 4.6★ (1,109 reviews) — what visitors say,
+  hours, and tips.
+country: United Arab Emirates
+region: Dubai
+category: attraction
+pubDate: '2026-08-31T15:16:35.168Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg/3840px-Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg"
-  credit: "Photo: Philosographer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Al_Seef,_the_historical_village_in_Bur_Dubai_06.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg/3840px-Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg
+  credit: 'Photo: Philosographer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dubai_Al_Seef,_the_historical_village_in_Bur_Dubai_06.jpg
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/10002319_T0ebRsCt8gv90_vnkdDd5cDMn5nheC5wD21IJXrjWjY.jpg"
-    credit: "Photo: Foursquare user content (Al Seef Old Dubai)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/6613a47d9779971d1fea3e8c"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/10002319_T0ebRsCt8gv90_vnkdDd5cDMn5nheC5wD21IJXrjWjY.jpg
+    credit: 'Photo: Foursquare user content (Al Seef Old Dubai)'
+    license: foursquare
+    source: 'https://foursquare.com/v/6613a47d9779971d1fea3e8c'
 place:
-  id: "ChIJLfaV_uRDXz4RhlF9MSPrlsw"
-  name: "Dubai Old village"
-  address: "7865+X46 - Al Hamriya - Dubai - United Arab Emirates"
+  id: ChIJLfaV_uRDXz4RhlF9MSPrlsw
+  name: Dubai Old village
+  address: 7865+X46 - Al Hamriya - Dubai - United Arab Emirates
   rating: 4.6
-  userRatingsTotal: 1105
-  googleMapsUrl: "https://maps.google.com/?cid=14742228966630576518&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1109
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14742228966630576518&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2626895
   lng: 55.3076973
 tags:
-  - "dubai"
-  - "historic site"
-quickAnswer: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. It stays largely under the radar compared to Al Fahidi and Al Seef, so you'll often have the lanes to yourself. Plan on 45 minutes to an hour, ideally in the cooler morning or late-afternoon hours."
+  - dubai
+  - historic site
+quickAnswer: >-
+  Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a
+  reconstructed heritage quarter of coral-stone and gypsum buildings showing how
+  Dubai looked before the oil boom. It stays largely under the radar compared to
+  Al Fahidi and Al Seef, so you'll often have the lanes to yourself. Plan on 45
+  minutes to an hour, ideally in the cooler morning or late-afternoon hours.
 faq:
-  - q: "Where exactly is Dubai Old Village?"
-    a: "It's in Al Hamriya, on the Bur Dubai side of the Creek in Dubai, UAE. The plus-code address is 7865+X46; GPS or a rideshare app will get you there more reliably than street signs."
-  - q: "How do I get there without a car?"
-    a: "There's no metro station within walking distance, so a taxi or rideshare (Careem/Uber) is the practical option."
-  - q: "How long should I plan to spend there?"
-    a: "45 minutes to an hour is enough for most visitors; it's a compact site, not a half-day attraction."
-  - q: "Is it crowded like Al Fahidi or Al Seef?"
-    a: "No. It sees far fewer visitors than those two heritage sites, so you'll often have the alleys largely to yourself."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning or after 4pm, especially outside winter, since there's little shade and midday heat can be uncomfortable."
+  - q: Where exactly is Dubai Old Village?
+    a: >-
+      It's in Al Hamriya, on the Bur Dubai side of the Creek in Dubai, UAE. The
+      plus-code address is 7865+X46; GPS or a rideshare app will get you there
+      more reliably than street signs.
+  - q: How do I get there without a car?
+    a: >-
+      There's no metro station within walking distance, so a taxi or rideshare
+      (Careem/Uber) is the practical option.
+  - q: How long should I plan to spend there?
+    a: >-
+      45 minutes to an hour is enough for most visitors; it's a compact site,
+      not a half-day attraction.
+  - q: Is it crowded like Al Fahidi or Al Seef?
+    a: >-
+      No. It sees far fewer visitors than those two heritage sites, so you'll
+      often have the alleys largely to yourself.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning or after 4pm, especially outside winter, since there's
+      little shade and midday heat can be uncomfortable.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-06'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
