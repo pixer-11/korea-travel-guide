@@ -47,8 +47,9 @@ Two data honesty rules:
 - A post carrying `place.hoursOmitted` is excluded. That field means Google filed
   another entity's schedule under this place, and its "closed Monday" is not this
   venue's fact.
-- Venue hours come from Google Places and are sometimes stale. The page says where
-  the hours come from and when that venue was last refreshed, so a reader can judge.
+- Venue hours come from Google Places and are sometimes stale. Posts carry no
+  per-venue hours-refresh date, so the page does not pretend to one: it names the
+  source and links each venue to its own guide, where the full week is printed.
 
 ## Shape
 
