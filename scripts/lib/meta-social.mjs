@@ -161,6 +161,9 @@ async function graph(base, path, token, { method = 'GET', params = {} } = {}) {
   if (!res.ok) {
     const err = new Error(`${method} ${path} → ${res.status}: ${JSON.stringify(body.error || body).slice(0, 220)}`);
     err.status = res.status;
+    // Meta's own error code, so a caller can tell "not ready yet" (9007) from
+    // "your token is dead" (190) instead of retrying everything or nothing.
+    err.code = body?.error?.code;
     throw err;
   }
   return body;
@@ -178,7 +181,7 @@ async function waitFinished(base, id, token, { tries = 20, delayMs = 3000 } = {}
 }
 
 /** Instagram: single image or carousel (2+). Returns the published media id. */
-export async function igPublish({ token, imageUrls, caption }) {
+export async function igPublish({ token, imageUrls, caption, publishRetryMs = 5000 }) {
   const me = await graph(IG_GRAPH, '/me', token, { params: { fields: 'user_id,username' } });
   const uid = me.user_id || me.id;
   let creationId;
@@ -189,6 +192,10 @@ export async function igPublish({ token, imageUrls, caption }) {
     const children = [];
     for (const u of imageUrls.slice(0, 10)) {
       const c = await graph(IG_GRAPH, `/${uid}/media`, token, { method: 'POST', params: { image_url: u, is_carousel_item: 'true' } });
+      // Wait for the CHILD too. The parent carousel can report FINISHED while a
+      // slide is still being fetched, and publishing then fails with 9007
+      // "Media ID is not available" — which is what happened on 2026-09-07.
+      await waitFinished(IG_GRAPH, c.id, token, { tries: 12, delayMs: 2500 });
       children.push(c.id);
       await sleep(1200);
     }
@@ -198,7 +205,20 @@ export async function igPublish({ token, imageUrls, caption }) {
     creationId = c.id;
   }
   await waitFinished(IG_GRAPH, creationId, token);
-  const pub = await graph(IG_GRAPH, `/${uid}/media_publish`, token, { method: 'POST', params: { creation_id: creationId } });
+  // FINISHED is not quite the same as publishable: Instagram needs a moment more
+  // after the container reports ready, and asking too early returns 9007 rather
+  // than a retryable 5xx. Only 9007 is retried — a dead token must still fail fast.
+  let pub;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      pub = await graph(IG_GRAPH, `/${uid}/media_publish`, token, { method: 'POST', params: { creation_id: creationId } });
+      break;
+    } catch (e) {
+      if (e.code !== 9007 || attempt >= 5) throw e;
+      console.log(`   ↻ instagram not ready to publish yet (9007), waiting (${attempt}/5)`);
+      await sleep(attempt * publishRetryMs);
+    }
+  }
   return { id: pub.id, username: me.username };
 }
 

@@ -130,3 +130,53 @@ test('스레드: 컨테이너 ERROR 는 그대로 실패한다 (삼키고 게시
     assert.ok(!calls.some((c) => c.includes('threads_publish')), 'ERROR 인데 게시를 강행했다');
   } finally { globalThis.fetch = orig; }
 });
+
+// 2026-09-07: the Monday carousel died on `media_publish → 400 code 9007
+// "Media ID is not available"`. The container had reported FINISHED; Instagram
+// simply was not ready to publish it yet. These pin the retry — and pin that a
+// dead token is still a hard failure, not something we sit and retry through.
+test('인스타 캐러셀: 9007(아직 준비 안 됨)은 재시도하고 결국 게시된다', async () => {
+  const { igPublish } = await import('./meta-social.mjs');
+  const calls = [];
+  const realFetch = globalThis.fetch;
+  let publishAttempts = 0;
+  globalThis.fetch = async (url, init) => {
+    const u = String(url);
+    calls.push(u.split('?')[0]);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (/\/me(\?|$)/.test(u)) return json({ user_id: 'U1', username: 'wander' });
+    if (u.includes('/media_publish')) {
+      publishAttempts++;
+      if (publishAttempts < 3) return json({ error: { code: 9007, message: 'Media ID is not available' } }, false, 400);
+      return json({ id: 'PUBLISHED' });
+    }
+    if (u.includes('/U1/media')) return json({ id: `C${calls.length}` });
+    return json({ status_code: 'FINISHED' }); // container status polls
+  };
+  try {
+    const out = await igPublish({ token: 't', imageUrls: ['a.jpg', 'b.jpg'], caption: 'x', publishRetryMs: 1 });
+    assert.equal(out.id, 'PUBLISHED');
+    assert.equal(publishAttempts, 3);
+  } finally { globalThis.fetch = realFetch; }
+});
+
+test('인스타 캐러셀: 토큰 오류(190)는 재시도하지 않고 즉시 실패한다', async () => {
+  const { igPublish } = await import('./meta-social.mjs');
+  const realFetch = globalThis.fetch;
+  let publishAttempts = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (/\/me(\?|$)/.test(u)) return json({ user_id: 'U1', username: 'wander' });
+    if (u.includes('/media_publish')) {
+      publishAttempts++;
+      return json({ error: { code: 190, message: 'Invalid OAuth access token' } }, false, 400);
+    }
+    if (u.includes('/U1/media')) return json({ id: 'C1' });
+    return json({ status_code: 'FINISHED' });
+  };
+  try {
+    await assert.rejects(() => igPublish({ token: 'dead', imageUrls: ['a.jpg'], caption: 'x', publishRetryMs: 1 }));
+    assert.equal(publishAttempts, 1);
+  } finally { globalThis.fetch = realFetch; }
+});
