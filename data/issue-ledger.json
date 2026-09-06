@@ -1,17 +1,31 @@
 {
   "validate-content": {
-    "ENDED-EVENT-ADVICE makati-city-john-legend-an-evening-of-songs-stories.md": {
-      "since": "2026-09-05",
-      "last": "2026-09-05",
+    "ENDED-EVENT-ADVICE hanoi-ho-chi-minh-city-miss-world-2026.md": {
+      "since": "2026-09-06",
+      "last": "2026-09-06",
+      "seen": 1
+    },
+    "ENDED-EVENT-ADVICE paris-plk-stade-de-france-concerts.md": {
+      "since": "2026-09-06",
+      "last": "2026-09-06",
+      "seen": 1
+    },
+    "ENDED-EVENT-ADVICE pasay-city-babymonster-choom-world-tour.md": {
+      "since": "2026-09-06",
+      "last": "2026-09-06",
+      "seen": 1
+    },
+    "ENDED-EVENT-FUTURE-TENSE taipei-itzy-tunnel-vision-world-tour-taipei.md": {
+      "since": "2026-09-06",
+      "last": "2026-09-06",
+      "seen": 1
+    },
+    "ENDED-EVENT-ADVICE taipei-itzy-tunnel-vision-world-tour-taipei.md": {
+      "since": "2026-09-06",
+      "last": "2026-09-06",
       "seen": 1
     }
   },
-  "audit-translations": {
-    "TOOL-SPILL topics/ko/luggage-storage.md": {
-      "since": "2026-09-05",
-      "last": "2026-09-05",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
