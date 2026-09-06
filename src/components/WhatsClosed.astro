@@ -12,6 +12,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { holidayLabel } from '../i18n/holidays';
+import { localizePlace, localizeVenue } from '../i18n/places';
 import { closuresInRange, holidaysInRange } from '../lib/whats-closed.mjs';
 import countryFacts from '../../data/country-facts.json';
 
@@ -55,8 +56,12 @@ const island = Object.fromEntries(countries.map((c) => [c, {
     .filter((p) => p.data.country === c)
     .map((p) => ({
       slug: p.id.replace(/\.md$/, ''),
-      name: p.data.place?.name ?? String(p.data.title).split(':')[0].trim(),
-      city: p.data.region ?? null,
+      // A Korean page printing "Forbidden City, Beijing" is the i18n leak this
+      // site has fought before. localizeVenue is the helper for exactly this
+      // surface — a venue name shown outside a translated article — and it falls
+      // back to the original name when no translation exists, on purpose.
+      name: localizeVenue(p.data.place?.name ?? String(p.data.title).split(':')[0].trim(), lang),
+      city: localizePlace(p.data.region ?? '', lang) || null,
       hours: p.data.place?.hoursOmitted ? [] : (p.data.place?.openingHours ?? []),
     }))
     .filter((v) => v.hours.length > 0),
@@ -74,7 +79,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
     <form class="wc-form" id="wc-form">
       <label>{t('wc.country')}
         <select id="wc-country">
-          {countries.map((c) => <option value={c} selected={c === initial}>{c}</option>)}
+          {countries.map((c) => <option value={c} selected={c === initial}>{localizePlace(c, lang)}</option>)}
         </select>
       </label>
       <label>{t('wc.from')} <input type="date" id="wc-from" value={today} /></label>
@@ -101,7 +106,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
             <time datetime={d.date}>{d.date}</time>
             <ul>
               {d.venues.map((v: any) => (
-                <li><a href={localizePath(`/posts/${v.slug}`, lang)}>{v.name}</a>{v.city ? `, ${v.city}` : ''}</li>
+                <li><a href={localizePath(`/posts/${v.slug}`, lang)}>{localizeVenue(v.name, lang)}</a>{v.city ? `, ${localizePlace(v.city, lang)}` : ''}</li>
               ))}
             </ul>
           </li>

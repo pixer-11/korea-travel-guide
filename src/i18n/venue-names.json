@@ -10,11 +10,18 @@
     "es": "Oasis de Al Ain",
     "zh": "阿尔艾因绿洲"
   },
+  "Albert Centre Market & Food Centre": {},
   "Albert Hall Museum": {
     "ko": "알버트 홀 박물관",
     "ja": "アルバートホール博物館",
     "es": "Museo Albert Hall",
     "zh": "阿尔伯特厅博物馆"
+  },
+  "Alcázar de los Reyes Cristianos": {
+    "ko": "알카사르 데 로스 레예스 크리스티아노스",
+    "ja": "アルカサル・デ・ロス・レイエス・クリスティアノス",
+    "es": "Alcázar de los Reyes Cristianos",
+    "zh": "基督教君主城堡"
   },
   "Alhambra": {
     "ko": "알람브라 궁전",
@@ -45,6 +52,24 @@
     "es": "Aldea folclórica de Hahoe",
     "zh": "安东河回村"
   },
+  "Angkor National Museum": {
+    "ko": "앙코르 국립박물관",
+    "ja": "アンコール国立博物館",
+    "es": "Museo Nacional de Angkor",
+    "zh": "吴哥国家博物馆"
+  },
+  "Ankara Painting and Sculpture Museum": {
+    "ko": "앙카라 회화조각박물관",
+    "ja": "アンカラ絵画彫刻博物館",
+    "es": "Museo de Pintura y Escultura de Ankara",
+    "zh": "安卡拉绘画雕塑博物馆"
+  },
+  "Antalya Toy Museum": {
+    "ko": "안탈리아 장난감 박물관",
+    "ja": "アンタルヤ玩具博物館",
+    "es": "Museo del Juguete de Antalya",
+    "zh": "安塔利亚玩具博物馆"
+  },
   "Arashiyama Bamboo Forest": {
     "ko": "아라시야마 대나무숲",
     "ja": "嵐山竹林の道",
@@ -69,6 +94,12 @@
     "es": "Museo ArtScience",
     "zh": "艺术科学博物馆"
   },
+  "Atsuta Hōraiken Honten": {
+    "ja": "あつた蓬莱軒 本店"
+  },
+  "Australia Dairy Company": {
+    "zh": "澳洲牛奶公司"
+  },
   "Avenue of Stars HK": {
     "ko": "스타의 거리",
     "ja": "スターの大通り",
@@ -81,6 +112,14 @@
     "es": "Museo Baan Dam",
     "zh": "黑屋博物馆"
   },
+  "Baba & Nyonya Heritage Museum": {
+    "zh": "峇峇娘惹文化馆"
+  },
+  "Baclayon Church": {
+    "es": "Iglesia de Baclayon",
+    "zh": "巴克拉扬教堂"
+  },
+  "Bad Roman": {},
   "Baguio Botanical Garden": {
     "ko": "바기오 식물원",
     "ja": "バギオ植物園",
@@ -92,6 +131,12 @@
     "ja": "アブダビBAPSヒンドゥー・マンディル",
     "es": "Templo Hindú BAPS de Abu Dabi",
     "zh": "阿布扎比BAPS印度教神庙"
+  },
+  "Bar Txepetxa": {
+    "es": "Bar Txepetxa"
+  },
+  "Baratti & Milano": {
+    "es": "Baratti & Milano"
   },
   "Basilica of the Sagrada Familia": {
     "ko": "사그라다 파밀리아",
@@ -105,12 +150,30 @@
     "es": "Basílica del Sagrado Corazón de Montmartre",
     "zh": "圣心圣殿"
   },
+  "BenCab Museum": {
+    "es": "Museo BenCab",
+    "zh": "班卡博物馆"
+  },
   "Bengaluru Fort": {
     "ko": "벵갈루루 요새",
     "ja": "ベンガルール城塞",
     "es": "Fuerte de Bengaluru",
     "zh": "班加罗尔堡垒"
   },
+  "Best Khao Soi Chang mai": {},
+  "Biswa Bangla Gate": {
+    "es": "Puerta Biswa Bangla",
+    "zh": "比斯瓦孟加拉门"
+  },
+  "Bokchun Restaurant": {
+    "ko": "복춘식당"
+  },
+  "Bopiliao Historical Block": {
+    "ko": "보피랴오 역사거리",
+    "ja": "剥皮寮歴史街区",
+    "zh": "剥皮寮历史街区"
+  },
+  "Bordeaux Wine Trails - Wine tours": {},
   "Bukit Timah Nature Reserve": {
     "ko": "부킷 티마 자연보호구역",
     "ja": "ブキ・ティマ自然保護区",
@@ -129,17 +192,42 @@
     "es": "Torre de Busan",
     "zh": "釜山塔"
   },
+  "Cafe Arae Heon": {
+    "ko": "카페 아라헌"
+  },
   "Cai Rang Floating Market": {
     "ko": "까이랑 수상시장",
     "ja": "カイラン水上マーケット",
     "es": "Mercado Flotante de Cai Rang",
     "zh": "凯冷水上市场"
   },
+  "Can Tho Museum": {
+    "ko": "껀터 박물관",
+    "ja": "カントー博物館",
+    "es": "Museo de Can Tho",
+    "zh": "芹苴博物馆"
+  },
   "Casa Batlló": {
     "ko": "카사 바트요",
     "ja": "カサ・バトリョ",
     "es": "Casa Batlló",
     "zh": "巴特罗之家"
+  },
+  "Casa Gorordo Museum": {
+    "es": "Museo Casa Gorordo",
+    "zh": "戈罗多故居博物馆"
+  },
+  "Catacombs of San Gennaro": {
+    "ko": "산 젠나로 카타콤",
+    "ja": "サン・ジェンナーロ カタコンベ",
+    "es": "Catacumbas de San Gennaro",
+    "zh": "圣真纳罗地下墓穴"
+  },
+  "Cathedral of Santa Maria del Fiore": {
+    "ko": "산타 마리아 델 피오레 대성당",
+    "ja": "サンタ・マリア・デル・フィオーレ大聖堂",
+    "es": "Catedral de Santa Maria del Fiore",
+    "zh": "圣母百花大教堂"
   },
   "Central Park": {
     "ko": "센트럴 파크",
@@ -153,11 +241,33 @@
     "es": "Castillo de los Duques de Bretaña",
     "zh": "布列塔尼公爵城堡"
   },
+  "Chatuchak Weekend Market": {
+    "ko": "짜뚜짝 주말 시장",
+    "ja": "チャトゥチャック・ウィークエンド・マーケット",
+    "es": "Mercado de Chatuchak",
+    "zh": "恰图恰周末市场"
+  },
   "Chiayi Park": {
     "ko": "자이 공원",
     "ja": "嘉義公園",
     "es": "Parque de Chiayi",
     "zh": "嘉义公园"
+  },
+  "Chiayi Performing Arts Center": {
+    "ko": "자이 공연예술센터",
+    "ja": "嘉義県表演芸術センター",
+    "zh": "嘉義縣表演藝術中心"
+  },
+  "Chin Swee Caves Temple": {
+    "ko": "친수이 동굴사원",
+    "ja": "清水岩寺",
+    "zh": "清水岩庙"
+  },
+  "Chowmahalla Palace": {
+    "ko": "차우마할라 궁전",
+    "ja": "チョウマハラ宮殿",
+    "es": "Palacio Chowmahalla",
+    "zh": "乔玛哈拉宫"
   },
   "Ciudad de las Artes y las Ciencias": {
     "ko": "예술과학 도시",
@@ -189,22 +299,55 @@
     "es": "Parque Creek",
     "zh": "溪流公园"
   },
+  "CURE Bali": {},
+  "Curio Espresso and Vintage Design Café": {},
+  "D.T. Suzuki Museum": {
+    "ko": "스즈키 다이세쓰 관",
+    "ja": "鈴木大拙館",
+    "es": "Museo D.T. Suzuki",
+    "zh": "铃木大拙馆"
+  },
   "Da Nang Museum of Cham Sculpture": {
     "ko": "다낭 참 조각 박물관",
     "ja": "ダナン・チャム彫刻博物館",
     "es": "Museo de Escultura Cham de Da Nang",
     "zh": "岘港占族雕刻博物馆"
   },
+  "Daegu National Museum": {
+    "ko": "국립대구박물관",
+    "ja": "大邱国立博物館",
+    "es": "Museo Nacional de Daegu",
+    "zh": "大邱国立博物馆"
+  },
   "Dago Dreampark": {
     "ko": "다고 드림파크",
     "ja": "ダゴ・ドリームパーク",
     "zh": "达戈梦幻公园"
+  },
+  "Dallas Pizza": {
+    "ko": "달라스 피자"
+  },
+  "Earth House | Restaurant | Wine Bar": {},
+  "Eco Park": {
+    "ko": "에코 파크",
+    "ja": "エコパーク",
+    "es": "Eco Park",
+    "zh": "生态公园"
   },
   "Eiffel Tower": {
     "ko": "에펠탑",
     "ja": "エッフェル塔",
     "es": "Torre Eiffel",
     "zh": "埃菲尔铁塔"
+  },
+  "El Rinconcillo": {
+    "es": "El Rinconcillo"
+  },
+  "Eluanbi Lighthouse": {
+    "ko": "어롼비 등대",
+    "ja": "鵝鑾鼻灯台",
+    "es": "Faro de Eluanbi",
+    "zh": "鵝鑾鼻燈塔"
   },
   "Erawan National Park": {
     "ko": "에라완 국립공원",
@@ -218,17 +361,46 @@
     "es": "Museo Field",
     "zh": "菲尔德自然史博物馆"
   },
+  "Fo Guang Shan Buddha Museum": {
+    "ko": "불광산 불타기념관",
+    "ja": "仏光山仏陀記念館",
+    "es": "Museo del Buda de Fo Guang Shan",
+    "zh": "佛光山佛陀纪念馆"
+  },
+  "Forbidden City": {
+    "ko": "자금성",
+    "ja": "紫禁城",
+    "es": "Ciudad Prohibida",
+    "zh": "紫禁城"
+  },
   "Fort Canning Park": {
     "ko": "포트캐닝 공원",
     "ja": "フォート・カニング公園",
     "es": "Fort Canning Park",
     "zh": "福康宁公园"
   },
+  "Fort Point National Historic Site": {
+    "ko": "포트 포인트 국립 역사 유적지",
+    "ja": "フォート・ポイント国立史跡",
+    "es": "Sitio Histórico Nacional Fort Point",
+    "zh": "要塞角国家历史遗址"
+  },
   "Fort Santiago": {
     "ko": "산티아고 요새",
     "ja": "サンティアゴ要塞",
     "es": "Fuerte Santiago",
     "zh": "圣地亚哥堡"
+  },
+  "Fukuoka City Science Museum": {
+    "ko": "후쿠오카시 과학관",
+    "ja": "福岡市科学館",
+    "es": "Museo de Ciencias de Fukuoka",
+    "zh": "福冈市科学馆"
+  },
+  "Fushan Botanical Garden": {
+    "ko": "푸산 식물원",
+    "ja": "福山植物園",
+    "zh": "福山植物園"
   },
   "Fushimi Inari Taisha": {
     "ko": "후시미 이나리 타이샤",
@@ -242,23 +414,54 @@
     "es": "Galería de la Academia de Florencia",
     "zh": "佛罗伦萨学院美术馆"
   },
+  "Garden to Table Chiangmai": {},
   "Generalife": {
     "ko": "헤네랄리페",
     "ja": "헤네랄리페",
     "es": "Generalife",
     "zh": "赫内拉利费花园"
   },
+  "Genting SkyWorlds Theme Park": {
+    "ko": "겐팅 스카이월드",
+    "ja": "ゲンティン・スカイワールド",
+    "zh": "云顶天城"
+  },
+  "Giyanti Coffee Roastery": {},
   "Government Museum Chennai": {
     "ko": "첸나이 정부박물관",
     "ja": "チェンナイ政府博物館",
     "es": "Museo Gubernamental de Chennai",
     "zh": "金奈政府博物馆"
   },
+  "Grand Bazaar": {
+    "ko": "그랜드 바자르",
+    "ja": "グランドバザール",
+    "es": "Gran Bazar",
+    "zh": "大巴扎"
+  },
   "Griffith Observatory": {
     "ko": "그리피스 천문대",
     "ja": "グリフィス天文台",
     "es": "Observatorio Griffith",
     "zh": "格里菲斯天文台"
+  },
+  "Guangdong Museum": {
+    "ko": "광둥성박물관",
+    "ja": "広東省博物館",
+    "es": "Museo de Guangdong",
+    "zh": "广东省博物馆"
+  },
+  "Gülhane Park": {
+    "ko": "귈하네 공원",
+    "ja": "ギュルハネ公園",
+    "es": "Parque Gülhane",
+    "zh": "居尔哈内公园"
+  },
+  "Gyeongbokgung Palace": {
+    "ko": "경복궁",
+    "ja": "景福宮",
+    "es": "Palacio Gyeongbokgung",
+    "zh": "景福宫"
   },
   "Gyeongju National Museum": {
     "ko": "국립경주박물관",
@@ -272,6 +475,21 @@
     "es": "Templo Haedong Yonggungsa",
     "zh": "海东龙宫寺"
   },
+  "Haesong Ssambap": {
+    "ko": "해송쌈밥"
+  },
+  "Hagia Sophia Grand Mosque": {
+    "ko": "아야소피아",
+    "ja": "アヤソフィア",
+    "es": "Mezquita de Santa Sofía",
+    "zh": "圣索菲亚大清真寺"
+  },
+  "Hallim Park": {
+    "ko": "한림공원",
+    "ja": "翰林公園",
+    "zh": "翰林公园"
+  },
+  "Han Chin Pet Soo": {},
   "Hanoi Old Quarter": {
     "ko": "하노이 구시가지",
     "ja": "ハノイ旧市街",
@@ -290,11 +508,36 @@
     "es": "Templo Hindú de Dubái",
     "zh": "迪拜印度教寺庙"
   },
+  "Hiroshima Breakfast": {},
+  "Hokkaido Jingu": {
+    "ko": "홋카이도 신궁",
+    "ja": "北海道神宮",
+    "es": "Santuario Hokkaidō",
+    "zh": "北海道神宮"
+  },
+  "Hollyhock House": {
+    "ko": "홀리혹 하우스",
+    "ja": "ホリホック・ハウス",
+    "es": "Casa Hollyhock",
+    "zh": "蜀葵之家"
+  },
   "Hollywood Walk of Fame": {
     "ko": "할리우드 명예의 거리",
     "ja": "ハリウッド・ウォーク・オブ・フェーム",
     "es": "Paseo de la Fama de Hollywood",
     "zh": "好莱坞星光大道"
+  },
+  "Hong Kong Heritage Museum": {
+    "ko": "홍콩역사박물관",
+    "ja": "香港文化博物館",
+    "es": "Museo del Patrimonio de Hong Kong",
+    "zh": "香港文化博物館"
+  },
+  "Hong Kong Museum of Art": {
+    "ko": "홍콩예술관",
+    "ja": "香港芸術館",
+    "es": "Museo de Arte de Hong Kong",
+    "zh": "香港藝術館"
   },
   "Hong Kong Museum of History": {
     "ko": "홍콩 역사박물관",
@@ -308,12 +551,40 @@
     "es": "Noria de Hong Kong",
     "zh": "香港摩天轮"
   },
+  "Hong Kong Science Museum": {
+    "ko": "홍콩과학관",
+    "ja": "香港科学館",
+    "es": "Museo de Ciencias de Hong Kong",
+    "zh": "香港科學館"
+  },
+  "Hong Kong Space Museum": {
+    "ko": "홍콩우주박물관",
+    "ja": "香港太空館",
+    "es": "Museo Espacial de Hong Kong",
+    "zh": "香港太空館"
+  },
   "Howrah Bridge": {
     "ko": "하우라 대교",
     "ja": "ハウラー橋",
     "es": "Puente Howrah",
     "zh": "豪拉大桥"
   },
+  "Hsinchu Zoo": {
+    "ko": "신주 동물원",
+    "ja": "新竹市立動物園",
+    "zh": "新竹市立動物園"
+  },
+  "Hualien Cultural and Creative Industries Park": {
+    "ko": "화롄 문화창의산업원구",
+    "ja": "花蓮文化創意産業園区",
+    "zh": "花莲文化创意产业园区"
+  },
+  "Hualien Railway Culture Park": {
+    "ko": "화롄 철도문화원구",
+    "ja": "花蓮鉄道文化園区",
+    "zh": "花莲铁道文化园区"
+  },
+  "Hug Street Food, Kata Phuket": {},
   "Hwaseong Haenggung": {
     "ko": "화성행궁",
     "ja": "華城行宮",
@@ -331,11 +602,32 @@
     "es": "Parque Grande de Incheon",
     "zh": "仁川大公园"
   },
+  "Indian Museum": {
+    "ko": "인도 박물관",
+    "ja": "インド博物館",
+    "es": "Museo Indio",
+    "zh": "印度博物馆"
+  },
+  "Ise Sueyoshi": {
+    "ja": "伊勢すえよし"
+  },
   "Islamic Arts Museum Malaysia": {
     "ko": "말레이시아 이슬람 미술관",
     "ja": "マレーシア・イスラム美術館",
     "es": "Museo de Arte Islámico de Malasia",
     "zh": "马来西亚伊斯兰艺术博物馆"
+  },
+  "Istanbul Archaeological Museums": {
+    "ko": "이스탄불 고고학 박물관",
+    "ja": "イスタンブール考古学博物館",
+    "es": "Museos Arqueológicos de Estambul",
+    "zh": "伊斯坦布尔考古博物馆"
+  },
+  "Itsasmuseum Bilbao": {
+    "ko": "빌바오 해양박물관",
+    "ja": "ビルバオ海洋博物館",
+    "es": "Itsasmuseum Bilbao",
+    "zh": "毕尔巴鄂海事博物馆"
   },
   "Itsukushima Jinja": {
     "ko": "이쓰쿠시마 신사",
@@ -343,11 +635,32 @@
     "es": "Santuario Itsukushima",
     "zh": "严岛神社"
   },
+  "Izzy’s Specialty Coffee": {},
   "Jallianwala Bagh": {
     "ko": "잘리안왈라 바그",
     "ja": "ジャリヤーンワーラー庭園",
     "es": "Jallianwala Bagh",
     "zh": "贾利安瓦拉园"
+  },
+  "Jardín Botánico - Histórico La Concepción": {
+    "es": "Jardín Botánico-Histórico La Concepción"
+  },
+  "Jeju National Museum": {
+    "ko": "국립제주박물관",
+    "ja": "済州国立博物館",
+    "zh": "济州国立博物馆"
+  },
+  "Jinju National Museum": {
+    "ko": "국립진주박물관",
+    "ja": "晋州国立博物館",
+    "zh": "晋州国立博物馆"
+  },
+  "Joe's Stone Crab": {},
+  "Johor Zoo": {
+    "ko": "조호르 동물원",
+    "ja": "ジョホール動物園",
+    "es": "Zoológico de Johor",
+    "zh": "柔佛动物园"
   },
   "Jurong Lake Gardens": {
     "ko": "주롱 레이크 가든",
@@ -355,17 +668,46 @@
     "es": "Jurong Lake Gardens",
     "zh": "裕廊湖花园"
   },
+  "Kampong Glam Cafe": {},
   "Kanazawa Castle Park": {
     "ko": "가나자와성 공원",
     "ja": "金沢城公園",
     "es": "Parque del Castillo de Kanazawa",
     "zh": "金泽城公园"
   },
+  "Kanheri Caves": {
+    "ko": "칸헤리 석굴",
+    "ja": "カーンヘーリー石窟群",
+    "es": "Cuevas de Kanheri",
+    "zh": "坎赫里石窟"
+  },
+  "Kaohsiung City Temple of Confucius": {
+    "ko": "가오슝 공자묘",
+    "ja": "高雄孔子廟",
+    "zh": "高雄市孔庙"
+  },
+  "Kaohsiung Museum of Fine Arts": {
+    "ko": "가오슝 시립미술관",
+    "ja": "高雄市立美術館",
+    "zh": "高雄市立美术馆"
+  },
+  "Kaş": {
+    "ko": "카슈",
+    "ja": "カシュ",
+    "es": "Kaş",
+    "zh": "卡什"
+  },
   "Kenroku-en": {
     "ko": "겐로쿠엔",
     "ja": "兼六園",
     "es": "Kenroku-en",
     "zh": "兼六园"
+  },
+  "Kenting National Park": {
+    "ko": "컨딩 국가공원",
+    "ja": "墾丁国家公園",
+    "es": "Parque Nacional de Kenting",
+    "zh": "垦丁国家公园"
   },
   "Khalifa Park": {
     "ko": "칼리파 공원",
@@ -403,8 +745,17 @@
     "es": "Parque Nacional de Komodo",
     "zh": "科莫多国家公园"
   },
+  "Konya Tropical Butterfly Garden": {
+    "ko": "코니아 열대나비정원",
+    "ja": "コンヤ熱帯蝶園",
+    "es": "Jardín Tropical de Mariposas de Konya",
+    "zh": "科尼亚热带蝴蝶园"
+  },
   "Kordon Alsancak İzmir": {
     "es": "Kordon Alsancak İzmir"
+  },
+  "Kourin Sushi": {
+    "ja": "光琳鮨"
   },
   "Kuğulu Park": {
     "ko": "쿠울루 공원",
@@ -416,6 +767,7 @@
     "ja": "櫛田神社",
     "zh": "檛田神社"
   },
+  "Lafayette Miami": {},
   "Lalbagh Botanical Garden": {
     "ko": "랄바그 식물원",
     "ja": "ラールバーグ植物園",
@@ -439,6 +791,26 @@
     "ja": "キャメロン・ラベンダー・ガーデン",
     "zh": "金馬崙薰衣草花園"
   },
+  "Lee Kong Chian Natural History Museum, Singapore": {
+    "ko": "리콩치안 자연사 박물관",
+    "ja": "リー・コンチェン自然史博物館",
+    "es": "Museo de Historia Natural Lee Kong Chian",
+    "zh": "李光前自然历史博物馆"
+  },
+  "Legazpi Sunday Market": {},
+  "LEGOLAND Malaysia": {
+    "ko": "레고랜드 말레이시아",
+    "ja": "レゴランド・マレーシア",
+    "es": "Legoland Malasia",
+    "zh": "乐高乐园马来西亚"
+  },
+  "Les Grands Buffets Lyonnais": {},
+  "Liang Yi Museum": {
+    "ko": "량이 박물관",
+    "ja": "兩依博物館",
+    "zh": "两依藏博物馆"
+  },
+  "Librairie Passages": {},
   "Los Angeles County Arboretum & Botanic Garden": {
     "ko": "로스앤젤레스 카운티 수목원 및 식물원",
     "ja": "ロサンゼルス郡樹木園・植物園",
@@ -469,10 +841,41 @@
     "es": "Cruz de Magallanes",
     "zh": "麦哲伦十字架"
   },
+  "Malay Heritage Centre": {
+    "ko": "말레이 헤리티지 센터",
+    "ja": "マレー・ヘリテージ・センター",
+    "es": "Centro del Patrimonio Malayo",
+    "zh": "马来传统文化馆"
+  },
   "Man Mo Temple": {
     "ko": "문무 사원",
     "ja": "文武廟",
     "zh": "文武廟"
+  },
+  "Manchinro": {
+    "ko": "만친로",
+    "ja": "萬珍樓",
+    "zh": "万珍楼"
+  },
+  "Marché Saint-Antoine": {},
+  "Mattancherry Palace": {
+    "ko": "마탄체리 궁전",
+    "ja": "マッタンチェリー宮殿",
+    "es": "Palacio de Mattancherry",
+    "zh": "马坦切里宫"
+  },
+  "Mausoleum at Halicarnassus": {
+    "ko": "할리카르나소스의 마우솔레움",
+    "ja": "ハリカルナッソスのマウソロス霊廟",
+    "es": "Mausoleo de Halicarnaso",
+    "zh": "哈利卡纳苏斯陵墓"
+  },
+  "Medinah Temple": {},
+  "Mercat de la Boqueria": {
+    "ko": "보케리아 시장",
+    "ja": "ボケリア市場",
+    "es": "Mercado de la Boquería",
+    "zh": "波盖利亚市场"
   },
   "Merdeka Square": {
     "ko": "메르데카 광장",
@@ -492,11 +895,26 @@
     "es": "Mirador Torre Glòries",
     "zh": "格洛里亚斯塔观景台"
   },
+  "Mizuya Chaya": {
+    "ja": "水谷茶屋"
+  },
+  "Mole Antonelliana": {
+    "ko": "몰레 안토넬리아나",
+    "ja": "モーレ・アントネッリアーナ",
+    "es": "Mole Antonelliana",
+    "zh": "安托内利尖塔"
+  },
   "Monasterio de San Juan de los Reyes": {
     "ko": "산 후안 데 로스 레예스 수도원",
     "ja": "サン・フアン・デ・ロス・レイエス修道院",
     "es": "Monasterio de San Juan de los Reyes",
     "zh": "圣胡安皇家修道院"
+  },
+  "Musée de l'Œuvre-Notre-Dame": {
+    "ko": "노트르담 성당 박물관",
+    "ja": "ノートル・ダム大聖堂美術館",
+    "es": "Museo de la Obra de Nuestra Señora",
+    "zh": "圣母大教堂博物馆"
   },
   "Musée-Château d'Annecy": {
     "ko": "안시 성 박물관",
@@ -534,11 +952,30 @@
     "es": "Museo de Arte Contemporáneo de Barcelona",
     "zh": "巴塞罗那现代艺术博物馆"
   },
+  "Museu Nacional d'Art de Catalunya": {
+    "ko": "카탈루냐 국립미술관",
+    "ja": "カタルーニャ美術館",
+    "es": "Museo Nacional de Arte de Cataluña",
+    "zh": "加泰罗尼亚国家艺术博物馆"
+  },
+  "Muséum de Toulouse": {
+    "ko": "툴루즈 자연사박물관",
+    "ja": "トゥールーズ自然史博物館",
+    "es": "Museo de Historia Natural de Toulouse",
+    "zh": "图卢兹自然历史博物馆"
+  },
   "Museum of Anatolian Civilizations": {
     "ko": "아나톨리아 문명 박물관",
     "ja": "アナトリア文明博物館",
     "es": "Museo de las Civilizaciones de Anatolia",
     "zh": "安纳托利亚文明博物馆"
+  },
+  "Museum of Art & Photography (MAP)": {},
+  "Museum of Contemporary Art Taipei": {
+    "ko": "타이베이 현대미술관",
+    "ja": "台北現代美術館",
+    "es": "Museo de Arte Contemporáneo de Taipéi",
+    "zh": "台北当代艺术馆"
   },
   "Museum of Fine Arts of Lyon": {
     "ko": "리옹 미술관",
@@ -546,6 +983,7 @@
     "es": "Museo de Bellas Artes de Lyon",
     "zh": "里昂美术馆"
   },
+  "Museum Sonobudoyo Unit I": {},
   "My Son": {
     "ko": "미선 유적",
     "ja": "ミーソン聖地",
@@ -564,11 +1002,29 @@
     "es": "Palacios Nazaríes",
     "zh": "纳斯里德宫"
   },
+  "National Museum Bangkok": {
+    "ko": "방콕 국립박물관",
+    "ja": "バンコク国立博物館",
+    "es": "Museo Nacional de Bangkok",
+    "zh": "曼谷国家博物馆"
+  },
   "National Museum of Archaeology": {
     "ko": "국립고고학박물관",
     "ja": "国立考古学博物館",
     "es": "Museo Arqueológico Nacional",
     "zh": "国立考古学博物馆"
+  },
+  "National Museum of China": {
+    "ko": "중국국가박물관",
+    "ja": "中国国家博物館",
+    "es": "Museo Nacional de China",
+    "zh": "中国国家博物馆"
+  },
+  "National Museum of Indonesia": {
+    "ko": "인도네시아 국립박물관",
+    "ja": "インドネシア国立博物館",
+    "es": "Museo Nacional de Indonesia",
+    "zh": "印度尼西亚国家博物馆"
   },
   "National Museum of Korea": {
     "ko": "국립중앙박물관",
@@ -581,17 +1037,54 @@
     "ja": "国立海洋生物博物館",
     "zh": "国立海洋生物博物馆"
   },
+  "National Museum of Ras Al Khaimah": {
+    "ko": "라스알카이마 국립박물관",
+    "ja": "ラスアルハイマ国立博物館",
+    "es": "Museo Nacional de Ras al-Jaima",
+    "zh": "哈伊马角国家博物馆"
+  },
   "National Museum of Singapore": {
     "ko": "싱가포르 국립박물관",
     "ja": "シンガポール国立博物館",
     "es": "Museo Nacional de Singapur",
     "zh": "新加坡国家博物馆"
   },
+  "National Museum, New Delhi": {
+    "ko": "인도 국립박물관",
+    "ja": "インド国立博物館",
+    "es": "Museo Nacional de Nueva Delhi",
+    "zh": "印度国家博物馆"
+  },
   "National Palace Museum": {
     "ko": "국립고궁박물원",
     "ja": "国立故宮博物院",
     "es": "Museo del Palacio Nacional",
     "zh": "国立故宫博物院"
+  },
+  "National Taiwan Museum": {
+    "ko": "국립타이완박물관",
+    "ja": "国立台湾博物館",
+    "es": "Museo Nacional de Taiwán",
+    "zh": "国立台湾博物馆"
+  },
+  "National Taiwan Museum of Fine Arts": {
+    "ko": "국립타이완미술관",
+    "ja": "国立台湾美術館",
+    "es": "Museo Nacional de Bellas Artes de Taiwán",
+    "zh": "国立台湾美术馆"
+  },
+  "Naval Aviation Museum": {},
+  "New Orleans Botanical Garden": {
+    "ko": "뉴올리언스 식물원",
+    "ja": "ニューオーリンズ植物園",
+    "es": "Jardín Botánico de Nueva Orleans",
+    "zh": "新奥尔良植物园"
+  },
+  "New Orleans Museum of Art": {
+    "ko": "뉴올리언스 미술관",
+    "ja": "ニューオーリンズ美術館",
+    "es": "Museo de Arte de Nueva Orleans",
+    "zh": "新奥尔良艺术博物馆"
   },
   "Nikkō Tōshōgū": {
     "ko": "닛코 도쇼구",
@@ -603,6 +1096,12 @@
     "ko": "닌끼에우 부두",
     "ja": "ニンキュウ埠頭",
     "zh": "宁桔码头"
+  },
+  "Nobu One Za'abeel": {},
+  "Noritake Garden": {
+    "ko": "노리다케의 숲",
+    "ja": "ノリタケの森",
+    "zh": "则武之森"
   },
   "Notre-Dame Cathedral of Paris": {
     "ko": "노트르담 대성당",
@@ -622,6 +1121,12 @@
     "es": "Oasis 21",
     "zh": "绿洲21"
   },
+  "Oh My Gulay": {},
+  "Ohori Park Japanese Garden": {
+    "ko": "오호리 공원 일본정원",
+    "ja": "大濠公園日本庭園",
+    "zh": "大濠公园日本庭园"
+  },
   "Oryukdo Skywalk": {
     "ko": "오륙도 스카이워크",
     "ja": "五六島スカイウォーク",
@@ -638,6 +1143,11 @@
     "ja": "パイキャニオン",
     "es": "Cañón de Pai",
     "zh": "拜县大峡谷"
+  },
+  "Paju Heyri Art Village": {
+    "ko": "파주 헤이리 예술마을",
+    "ja": "坡州ヘイリ芸術村",
+    "zh": "坡州嘿哩艺术村"
   },
   "Palace of Versailles": {
     "ko": "베르사유 궁전",
@@ -663,11 +1173,13 @@
     "es": "Park Güell",
     "zh": "奎尔公园"
   },
+  "Philippines Street Food Gonta": {},
   "Phu Quoc Prison History Museum": {
     "ko": "푸꾸옥 감옥 역사박물관",
     "ja": "フーコック監獄歴史博物館",
     "zh": "富国监狱历史博物馆"
   },
+  "Plant Cafe Seoul (Yeonnam)": {},
   "Po Lin Monastery": {
     "ko": "보린 사원",
     "ja": "宝蓮寺",
@@ -680,12 +1192,32 @@
     "es": "Torre Po Nagar",
     "zh": "波那加占婆塔"
   },
+  "Port Antique": {},
   "Pura Tirta Empul": {
     "ko": "티르타 엠풀 사원",
     "ja": "ティルタ・ウンプル寺院",
     "es": "Templo Tirta Empul",
     "zh": "圣泉寺"
   },
+  "Quang Ninh Museum": {
+    "ko": "꽝닌 박물관",
+    "ja": "クアンニン博物館",
+    "es": "Museo de Quảng Ninh",
+    "zh": "广宁博物馆"
+  },
+  "Rainbow Village": {
+    "ko": "레인보우 마을",
+    "ja": "レインボービレッジ",
+    "es": "Pueblo Arcoíris",
+    "zh": "彩虹眷村"
+  },
+  "Reggia di Monza": {
+    "ko": "몬차 왕궁",
+    "ja": "モンツァ王宮",
+    "es": "Villa Real de Monza",
+    "zh": "蒙扎皇宫"
+  },
+  "Regional Museum of Natural History": {},
   "Registan Square": {
     "ko": "레기스탄 광장",
     "ja": "レギスタン広場",
@@ -704,6 +1236,12 @@
     "es": "Templo Azul (Wat Rong Suea Ten)",
     "zh": "蓝庙（龙虎寺）"
   },
+  "Royal Palace Museum": {
+    "ko": "제노바 왕궁 박물관",
+    "ja": "ジェノヴァ王宮美術館",
+    "es": "Palacio Real de Génova",
+    "zh": "热那亚王宫博物馆"
+  },
   "Royal Palace of Cambodia": {
     "ko": "캄보디아 왕궁",
     "ja": "カンボジア王宮",
@@ -715,6 +1253,22 @@
     "ja": "マドリード王宮",
     "es": "Palacio Real de Madrid",
     "zh": "马德里王宫"
+  },
+  "Royal Palace of Turin": {
+    "ko": "토리노 왕궁",
+    "ja": "トリノ王宮",
+    "es": "Palacio Real de Turín",
+    "zh": "都灵王宫"
+  },
+  "Sabah Art Gallery": {
+    "zh": "沙巴艺术馆"
+  },
+  "sahha halal restaurant": {},
+  "Saigon Skydeck": {
+    "ko": "사이공 스카이덱",
+    "ja": "サイゴン・スカイデッキ",
+    "es": "Saigon Skydeck",
+    "zh": "西贡观景台"
   },
   "Saint Mark's Basilica": {
     "ko": "산 마르코 대성당",
@@ -728,6 +1282,12 @@
     "es": "Basílica de San Pedro",
     "zh": "圣伯多禄大殿"
   },
+  "San Telmo Museum": {
+    "ko": "산텔모 박물관",
+    "ja": "サン・テルモ博物館",
+    "es": "Museo San Telmo",
+    "zh": "圣特尔莫博物馆"
+  },
   "Santa Monica Pier": {
     "ko": "산타모니카 부두",
     "ja": "サンタモニカ・ピア",
@@ -740,6 +1300,13 @@
     "es": "SEA LIFE Bangkok Ocean World",
     "zh": "曼谷海洋世界"
   },
+  "Seattle Washington Temple": {
+    "ko": "시애틀 워싱턴 성전",
+    "ja": "シアトル・ワシントン神殿",
+    "es": "Templo de Seattle Washington",
+    "zh": "西雅图华盛顿圣殿"
+  },
+  "sen‘den": {},
   "Seokguram": {
     "ko": "석굴암",
     "ja": "石窟庵",
@@ -751,17 +1318,42 @@
     "ja": "沙田車公廟",
     "zh": "沙田车公庙"
   },
+  "Shanxi Museum": {
+    "ko": "산시 박물관",
+    "ja": "山西博物院",
+    "es": "Museo de Shanxi",
+    "zh": "山西博物院"
+  },
+  "Sheung Yiu Folk Museum": {
+    "ko": "샹유 민속 박물관",
+    "ja": "上窰民俗文物館",
+    "zh": "上窰民俗文物館"
+  },
   "Shifen Waterfall": {
     "ko": "십분 폭포",
     "ja": "十分瀑布",
     "es": "Cascada de Shifen",
     "zh": "十分瀑布"
   },
+  "Shinjuku Gyoen National Garden": {
+    "ko": "신주쿠 교엔",
+    "ja": "新宿御苑",
+    "es": "Jardín Nacional Shinjuku Gyoen",
+    "zh": "新宿御苑"
+  },
+  "SHWI Canal": {},
   "Singapore Botanic Gardens": {
     "ko": "싱가포르 식물원",
     "ja": "シンガポール植物園",
     "es": "Jardín Botánico de Singapur",
     "zh": "新加坡植物园"
+  },
+  "Siola Surabaya Museum": {},
+  "Siyob Bozori": {
+    "ko": "시욥 바자르",
+    "ja": "シヨブ・バザール",
+    "es": "Bazar Siab",
+    "zh": "夏赫布市场"
   },
   "Skyline Luge Singapore": {
     "ko": "스카이라인 루지 싱가포르",
@@ -775,11 +1367,28 @@
     "es": "Mirador SkyPark",
     "zh": "金沙空中花园观景台"
   },
+  "Smash Street": {},
   "Songdo Central Park": {
     "ko": "송도 센트럴파크",
     "ja": "松島セントラルパーク",
     "es": "Parque Central de Songdo",
     "zh": "松岛中央公园"
+  },
+  "Souk Deira": {
+    "ko": "데이라 수크",
+    "ja": "デイラ・スーク",
+    "zh": "迪拉市场"
+  },
+  "Southern Branch of the National Palace Museum": {
+    "ko": "국립고궁박물원 남부원구",
+    "ja": "国立故宮博物院南部院区",
+    "zh": "国立故宫博物院南部院区"
+  },
+  "Springs Preserve": {
+    "ko": "스프링스 프리저브",
+    "ja": "スプリングス・プリザーブ",
+    "es": "Springs Preserve",
+    "zh": "泉源保护区"
   },
   "Suan Luang Rama IX": {
     "ko": "수안루앙 라마 9세 공원",
@@ -787,6 +1396,13 @@
     "es": "Parque Suan Luang Rama IX",
     "zh": "拉玛九世公园"
   },
+  "Sultan Mosque": {
+    "ko": "술탄 모스크",
+    "ja": "スルタン・モスク",
+    "es": "Mezquita del Sultán",
+    "zh": "苏丹回教堂"
+  },
+  "Super Deluxe Kitchen": {},
   "Tai Kwun": {
     "ko": "타이쿤",
     "ja": "大館",
@@ -796,6 +1412,16 @@
     "ko": "타이중 러청궁",
     "ja": "台中楽成宮",
     "zh": "台中乐成宫"
+  },
+  "Taichung Second Market": {
+    "ko": "타이중 제2시장",
+    "ja": "台中第二市場",
+    "zh": "台中第二市场"
+  },
+  "Tainan Art Museum": {
+    "ko": "타이난 미술관",
+    "ja": "台南市美術館",
+    "zh": "台南市美术馆"
   },
   "Taipei Botanical Garden": {
     "ko": "타이베이 식물원",
@@ -815,6 +1441,20 @@
     "es": "Taman Sari",
     "zh": "水宫（塔曼萨里）"
   },
+  "Tanga Market": {
+    "ko": "탄가 시장",
+    "ja": "旦過市場",
+    "zh": "旦过市场"
+  },
+  "Tao Dan Park": {
+    "ko": "타오단 공원",
+    "ja": "タオダン公園",
+    "es": "Parque Tao Dan",
+    "zh": "涛滩公园"
+  },
+  "Tapas Boatella": {
+    "es": "Tapas Boatella"
+  },
   "Tarnim Magic Garden": {
     "ko": "타님 매직가든",
     "ja": "タニム・マジックガーデン",
@@ -825,6 +1465,30 @@
     "ja": "太魯閣国家公園",
     "es": "Parque Nacional de Taroko",
     "zh": "太魯閣國家公園"
+  },
+  "Temple du Change": {
+    "ko": "탕플 뒤 샹주",
+    "ja": "タンプル・デュ・シャンジュ",
+    "es": "Temple du Change",
+    "zh": "兑换神殿"
+  },
+  "Temple of Debod": {
+    "ko": "데보드 신전",
+    "ja": "デボット神殿",
+    "es": "Templo de Debod",
+    "zh": "德波神庙"
+  },
+  "Temple Of Literature": {
+    "ko": "문묘",
+    "ja": "文廟",
+    "es": "Templo de la Literatura",
+    "zh": "文庙"
+  },
+  "The City Palace": {
+    "ko": "시티 팰리스",
+    "ja": "シティ・パレス",
+    "es": "Palacio de la Ciudad",
+    "zh": "城市宫"
   },
   "The Getty": {
     "ko": "게티 센터",
@@ -862,6 +1526,15 @@
     "es": "Museo Nacional de la Segunda Guerra Mundial",
     "zh": "国家二战博物馆"
   },
+  "The Palace Museum": {
+    "ko": "고궁박물원",
+    "ja": "故宮博物院",
+    "es": "Museo del Palacio",
+    "zh": "故宫博物院"
+  },
+  "The Pink Door": {
+    "es": "The Pink Door"
+  },
   "The Reclining Buddha": {
     "ko": "왓포 사원(누워있는 불상)",
     "ja": "涅槃仏（ワット・ポー）",
@@ -873,6 +1546,12 @@
     "ja": "エメラルド寺院（ワット・プラケオ）",
     "es": "Templo del Buda Esmeralda",
     "zh": "玉佛寺"
+  },
+  "Thong Nhat Park": {
+    "ko": "통낫 공원",
+    "ja": "トンニャット公園",
+    "es": "Parque Thong Nhat",
+    "zh": "统一公园"
   },
   "Tian Tan Buddha": {
     "ko": "천단대불",
@@ -920,6 +1599,11 @@
     "es": "Torre de Pisa",
     "zh": "比萨斜塔"
   },
+  "Toyota Commemorative Museum of Industry and Technology": {
+    "ko": "도요타 산업기술기념관",
+    "ja": "トヨタ産業技術記念館",
+    "zh": "丰田产业技术纪念馆"
+  },
   "Trevi Fountain": {
     "ko": "트레비 분수",
     "ja": "トレヴィの泉",
@@ -932,6 +1616,7 @@
     "es": "Museo del Genocidio de Tuol Sleng",
     "zh": "图斯廉屠杀博物馆"
   },
+  "TURK FATIH TUTAK": {},
   "Uchisar Castle": {
     "ko": "우치사르 성",
     "ja": "ウチヒサル城",
@@ -943,6 +1628,24 @@
     "ja": "ウダヤギリ・カンダギリ石窟群",
     "es": "Cuevas de Udayagiri y Khandagiri",
     "zh": "乌达雅吉里和坎达吉里石窟"
+  },
+  "Uffizi Galleries": {
+    "ko": "우피치 미술관",
+    "ja": "ウフィツィ美術館",
+    "es": "Galería Uffizi",
+    "zh": "乌菲兹美术馆"
+  },
+  "Victoria Memorial": {
+    "ko": "빅토리아 메모리얼",
+    "ja": "ヴィクトリア記念堂",
+    "es": "Victoria Memorial",
+    "zh": "维多利亚纪念堂"
+  },
+  "Vietnam Military History Museum": {
+    "ko": "베트남 군사역사박물관",
+    "ja": "ベトナム軍事歴史博物館",
+    "es": "Museo de Historia Militar de Vietnam",
+    "zh": "越南军事历史博物馆"
   },
   "Villa Rufolo": {
     "ko": "빌라 루폴로",
@@ -1023,11 +1726,25 @@
     "es": "Yamuna Ghat",
     "zh": "亚穆纳河阶"
   },
+  "Yatai Mamichan": {
+    "ja": "屋台まみちゃん"
+  },
+  "Yilan Museum of Art": {
+    "ko": "이란 미술관",
+    "ja": "宜蘭美術館",
+    "zh": "宜兰美术馆"
+  },
   "Yongdusan Park": {
     "ko": "용두산공원",
     "ja": "龍頭山公園",
     "es": "Parque Yongdusan",
     "zh": "龙头山公园"
+  },
+  "Yu Garden": {
+    "ko": "예원",
+    "ja": "豫園",
+    "es": "Jardín Yuyuan",
+    "zh": "豫园"
   },
   "Zelve Open Air Museum": {
     "ko": "젤베 야외 박물관",

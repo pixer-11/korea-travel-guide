@@ -29,26 +29,37 @@ const LANGS = ['ko', 'ja', 'es', 'zh'];
 const CHUNK = 20;
 const DRY = process.argv.includes('--dry');
 
-// Same eligibility as the home's crowdDemoPool — this dictionary exists for
-// exactly the venues that can appear there.
+// The pool is every venue whose name can appear on a UI surface OUTSIDE a
+// translated article. Two such surfaces exist:
+//   1. the home page's crowd demo — attraction, 5k+ ratings, has busyness
+//   2. /tools/whats-closed (2026-09-06) — any venue with a weekly closing day,
+//      which is a different set entirely: its first Korean build listed six
+//      Chinese museums in English because none of them met rule 1.
+const CLOSED_DAY = /^\s*-\s*['"]?\w+day:\s*Closed['"]?\s*$/mi;
 const venues = [];
 for (const f of readdirSync(POSTS)) {
   if (!f.endsWith('.md')) continue;
   const s = readFileSync(POSTS + f, 'utf8');
-  if (!s.includes('category: attraction')) continue;
   const ratings = s.match(/userRatingsTotal:\s*(\d+)/);
-  if (!ratings || Number(ratings[1]) < 5000) continue;
-  if (!/weekdayQuiet|weekendBusy/.test(s)) continue;
+  const inDemoPool = s.includes('category: attraction')
+    && ratings && Number(ratings[1]) >= 5000
+    && /weekdayQuiet|weekendBusy/.test(s);
+  // hoursOmitted means Google filed another entity's schedule here, so this
+  // venue never reaches the whats-closed page and needs no name for it.
+  const inClosedPool = CLOSED_DAY.test(s) && !/hoursOmitted:/.test(s);
+  if (!inDemoPool && !inClosedPool) continue;
   // YAML-quoted names (single OR double) must key exactly as Astro parses them —
   // the old double-quote-only strip left keys like 'BAPS Hindu Mandir, Abu Dhabi'
   // that could never match p.data.place.name.
   const unquote = (t) => t.replace(/^(['"])(.*)\1$/, '$2').replace(/''/g, "'");
   const name = unquote(s.match(/^\s*name:\s*(.+)$/m)?.[1]?.trim() ?? '');
   const region = unquote(s.match(/^region:\s*(.+)$/m)?.[1]?.trim() ?? '');
-  if (name) venues.push({ name, region });
+  // A folded/literal block scalar ("name: >-" on its own line) captured the YAML
+  // indicator as the name once the pool widened. It is not a venue.
+  if (name && !/^[>|][-+]?\d*$/.test(name)) venues.push({ name, region });
 }
 const uniq = [...new Map(venues.map((v) => [v.name, v])).values()].sort((a, b) => a.name.localeCompare(b.name));
-console.log(`${uniq.length} venue(s) in the demo pool`);
+console.log(`${uniq.length} venue(s) in the pool (crowd demo + weekly closing days)`);
 
 // Existing dictionary — preserved verbatim; we only add to it.
 const dict = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
@@ -137,14 +148,22 @@ let added = 0;
 for (let i = 0; i < missing.length; i += CHUNK) {
   const batch = missing.slice(i, i + CHUNK);
   const wanted = new Set(batch.map((v) => v.name));
+  // The prompt lists venues as "Name — Region", and the model sometimes echoes the
+  // whole line back as `name`. Matching on the raw string silently dropped entire
+  // chunks (2026-09-06: three in a row, 60 venues, every run, forever — they are
+  // only stored when returned, so they were re-asked and re-lost each time).
+  const bare = (n) => String(n ?? '').split(/\s+—\s+/)[0].trim();
+  const index = (list) => new Map(
+    list.map((g) => [bare(g?.name), g]).filter(([n]) => wanted.has(n)),
+  );
   let got = await translateBatch(batch);
-  let byName = new Map(got.filter((g) => wanted.has(g?.name)).map((g) => [g.name, g]));
+  let byName = index(got);
   if (byName.size !== batch.length) {
     console.warn(`chunk ${i / CHUNK + 1}: expected ${batch.length}, matched ${byName.size} — retrying once`);
-    const unmatched = got.map((g) => g?.name).filter((n) => !wanted.has(n));
+    const unmatched = got.map((g) => bare(g?.name)).filter((n) => !wanted.has(n));
     if (unmatched.length) console.warn(`  returned but not requested: ${JSON.stringify(unmatched.slice(0, 5))}`);
     got = await translateBatch(batch);
-    byName = new Map(got.filter((g) => wanted.has(g?.name)).map((g) => [g.name, g]));
+    byName = index(got);
   }
   for (const v of batch) {
     const g = byName.get(v.name);
