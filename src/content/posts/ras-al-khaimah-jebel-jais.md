@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Jebel Jais: Ras Al Khaimah Travel Guide'
 description: Jebel Jais, the UAE's tallest peak (about 1,934m), sits in Wadi Shehah roughly 1.5 hours from Dubai and 45 minutes from Ras Al Khaimah city.
 country: United Arab Emirates

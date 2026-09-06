@@ -1,17 +1,14 @@
 Places 예산: backfill 몫 10회 (오늘 사용 5/100)
 Priority: 151 itinerary stop(s) queued first
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – tiong-bahru-hortpark.md: nothing new (resting 60d)
   🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – siena-piazza-del-campo.md: nothing new (resting 60d)
-  ✓ stanley-stanley-market.md +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
-  ✓ suncheon-nagan-eupseong-folk-village.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then) — nothing left
-  ✓ surabaya-monumen-kapal-selam-surabaya.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
-  ✓ suwon-yeonmudae-dongjangdae-eastern-command-post.md +phone +7h hours
-  – suzhou-humble-administrator-s-garden.md: nothing new (resting 60d)
-  – tagaytay-taal-volcano-view.md: nothing new (resting 60d)
+  – stanley-stanley-market.md: nothing new (resting 60d)
+  – tainan-shennong-street.md: nothing new (resting 60d)
+  – taroko-gorge-silks-place-taroko.md: nothing new (resting 60d)
+  – tashkent-magic-city-park.md: nothing new (resting 60d)
+  – toledo-mirador-del-valle.md: nothing new (resting 60d)
+  ✓ tongyeong-dongpirang-mural-village.md +7h hours
+  – trabzon-sumela-monastery.md: nothing new (resting 60d)
+  – tsim-sha-tsui-tsim-sha-tsui-promenade.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 423, no-new-data 130, no-place 169, closed-quarantined 2, quota-429 0, api-error 0, api-calls 10, remaining-askable 322 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 434, no-new-data 137, no-place 170, closed-quarantined 2, quota-429 0, api-error 0, api-calls 10, remaining-askable 316 (APPLIED).

@@ -24,6 +24,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.8456408
   lng: 128.4276137
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - tongyeong
   - Dongpirang mural village
