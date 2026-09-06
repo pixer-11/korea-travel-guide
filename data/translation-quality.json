@@ -594,13 +594,6 @@
   "worst": "이런 종류의 다른 기관들과 마찬가지로 이 박물관도 정해진 운영 시간과 주간 휴관일이 있으니",
   "at": "2026-08-24T09:49:50.443Z"
  },
- "ko/beijing-the-palace-museum": {
-  "hash": "ad43e3026fcc",
-  "score": 2,
-  "registerBreak": true,
-  "worst": "그 전망은 들어온 길로 그대로 되돌아가는 대부분의 단체 관광객들이 놓치는 보람이다.",
-  "at": "2026-08-31T12:56:21.222Z"
- },
  "ko/bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open": {
   "hash": "195f857487ec",
   "score": 1,
@@ -783,13 +776,6 @@
   "worst": "사찰은 매일 오전 4시부터 오후 8시까지 일찍부터 문을 열기 때문에, 사람들이 몰릴 것 같은 이미지와 달리",
   "at": "2026-08-31T15:20:37.762Z"
  },
- "ko/busan-gukje-market": {
-  "hash": "4e5bfd11df65",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "국제시장은 관광객을 위해 잘 꾸며진 명소가 아니라... 지금까지도 부산 사람들에게 생필품을 공급해온 실제로 돌아가는 시장이다.",
-  "at": "2026-08-24T09:50:22.310Z"
- },
  "ko/busan-haeundae": {
   "hash": "fcf47c9b1649",
   "score": 1,
@@ -824,13 +810,6 @@
   "registerBreak": false,
   "worst": "간판을 제대로 보기도 전에 냄새로 먼저 이곳을 알아차리게 됩니다 — 장작 연기, 뭉근히 끓는 소프리토(sofrito)...",
   "at": "2026-08-24T09:50:09.832Z"
- },
- "ko/busan-haeundae-traditional-market": {
-  "hash": "068cfa9008fd",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "방문객들이 흔히 하는 실수는 이곳을 해변으로 가는 길에 잠깐 들르는 포토스팟쯔음으로 여기는 것입니다.",
-  "at": "2026-08-31T15:20:38.810Z"
  },
  "ko/busan-songdo-cloud-trails": {
   "hash": "4f8c0d9e9602",
@@ -909,13 +888,6 @@
   "worst": "실제로 이 레스토랑의 주방은 카파도키아의 화산 토양과 고원 지대가 실제로 생산해내는 것들 — 이 지역의 건조 과일...",
   "at": "2026-08-31T15:20:48.531Z"
  },
- "ko/cebu-sirao-garden": {
-  "hash": "80f8c181a7d7",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "가장 현명한 현지인식 방법은 단순히 투어 버스 시간표를 앞지르는 것입니다",
-  "at": "2026-08-31T15:21:07.086Z"
- },
  "ko/causeway-bay-tin-hau-temple-causeway-bay": {
   "hash": "2a16ac53079f",
   "score": 1,
@@ -944,26 +916,12 @@
   "worst": "1987년 구조된 판다 단 여섯 마리로 시작한 이 기지는 오늘날 100마리가 넘는 대왕판다와...",
   "at": "2026-08-31T15:21:19.729Z"
  },
- "ko/chandigarh-quick-style-india-tour-2026": {
-  "hash": "57e2131fa71f",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "티켓은 반드시 퀵스타일이 지정한 공식 판매처를 통해서만 구매할 수 있었습니다.",
-  "at": "2026-08-31T15:21:20.004Z"
- },
  "ko/chennai-government-museum-chennai": {
   "hash": "97736672579f",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳을 찾는 이유는 바로 청동상 때문입니다.",
   "at": "2026-08-31T15:21:22.864Z"
- },
- "ko/chennai-snow-kingdom": {
-  "hash": "1ab1ad2c99fb",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "진짜 다져진 눈 — 간 얼음도, 폼도 아닌 진짜 눈 — 을 처음 마주하는 순간, 문이 닫히자마자 대부분의",
-  "at": "2026-08-31T15:21:34.860Z"
  },
  "ko/chiang-mai-best-khao-soi-chang-mai": {
   "hash": "627356717bcb",
@@ -1013,13 +971,6 @@
   "registerBreak": false,
   "worst": "세부적인 요소를 살펴보기도 전에 이곳의 규모부터 압도적으로 느껴집니다.",
   "at": "2026-08-15T06:02:08.693Z"
- },
- "ko/chiang-rai-baan-dam-museum": {
-  "hash": "20ede070ee30",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "내부의 재료는 뼈입니다: 긴 테이블 위에 펼쳐진 비단뱀 가죽, 피라미드처럼 쌓인 물소 두개골, 코끼리 상아...",
-  "at": "2026-08-31T15:21:33.451Z"
  },
  "ko/chiang-mai-wat-phra-that-doi-suthep": {
   "hash": "13e6f0089b5f",
@@ -1580,13 +1531,6 @@
   "registerBreak": false,
   "worst": "바로 이 범위의 다양함이 이곳의 매력입니다.",
   "at": "2026-08-15T02:25:56.500Z"
- },
- "ko/makati-city-john-legend-an-evening-of-songs-stories": {
-  "hash": "09456fe02b4e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이틀간, 한 도시, 한 극장에서, 2026년 9월 3일부터 4일까지 마카티 록웰 센터의 프로시니엄 시어터에서 펼쳐진 무대였습니다.",
-  "at": "2026-09-05T11:21:18.087Z"
  },
  "ko/makati-kowloon-station": {
   "hash": "34bb210c9015",
@@ -3281,13 +3225,6 @@
   "registerBreak": false,
   "worst": "만다린 갤러리 자체는 패션 부티크와... 여행자들이 어차피 지나가기 쉬운 건물 안에 자리한 셈이라...",
   "at": "2026-08-15T02:37:22.396Z"
- },
- "ko/singapore-bop-bartenders-of-pony": {
-  "hash": "deee6c670b77",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "지거 앤 포니 특유의 정교한 기술력이 뭉뚱그린 \"아시안 퓨전\" 칵테일 리스트가 아니라 한국의 맛과 술자리 문화를 향해 정확히 겨냥되어",
-  "at": "2026-08-16T11:02:27.338Z"
  },
  "ko/singapore-cloud-forest": {
   "hash": "7b9af94ff2f8",
@@ -6488,13 +6425,6 @@
   "worst": "ツアーの合間に訪れてしまうことが、訪問者が最もよくやってしまう失敗です。",
   "at": "2026-08-15T02:54:15.005Z"
  },
- "ja/istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills": {
-  "hash": "d1bd2982096b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "2026年の開催は、世界的なツアーアーティストたちを本気で呼び込むものでした。",
-  "at": "2026-08-25T08:28:50.572Z"
- },
  "ja/istanbul-grand-bazaar": {
   "hash": "fde30cfae0d6",
   "score": 1,
@@ -7125,13 +7055,6 @@
   "worst": "それぞれの鳥居は、開運を願う個人や企業によって奉納されたもので、この慣習は現在も続いており、ほぼすべての柱の裏側に、奉納者の名前と日付が黒い墨で書かれているのを目にすることができます。",
   "at": "2026-08-15T02:57:21.134Z"
  },
- "ja/kuala-lumpur-f-forever-1st-world-tour": {
-  "hash": "50c515f98a56",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "演技界のスターとアリーナロックのソングライティングが融合するこのラインアップは、頻繁にツアーが行われる...",
-  "at": "2026-08-15T02:57:21.615Z"
- },
  "ja/kyoto-imaya-kyoto-coffee": {
   "hash": "3a173df037a0",
   "score": 1,
@@ -7320,13 +7243,6 @@
   "registerBreak": false,
   "worst": "行政機関の建物から物語を伝える装置へと様変わりする様子がすぐに感じられます。",
   "at": "2026-08-15T02:58:18.999Z"
- },
- "ja/los-angeles-grand-central-market": {
-  "hash": "6866c2ad018c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "編集者によるレビューとAIによる作成support。",
-  "at": "2026-08-15T02:58:19.355Z"
  },
  "ja/los-angeles-hollywood-walk-of-fame": {
   "hash": "99b3b504a1a4",
@@ -8623,13 +8539,6 @@
   "worst": "住所は206, 2 Soi Na Kluea 12 Moo 5, Muang Pattayaで、ナクルア地区――パタヤ海岸線の北端",
   "at": "2026-08-15T03:03:52.925Z"
  },
- "ja/pasay-city-babymonster-choom-world-tour": {
-  "hash": "17b459d8d425",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "YGエンターテインメント期待の新人ガールズグループ――ルカ、アヒョン、アサ、パリタといったメンバーを中心に構成されるBABYMONSTER――が降り立った",
-  "at": "2026-09-06T12:20:42.439Z"
- },
  "ja/philadelphia-independence-national-historical-park": {
   "hash": "efa47a2960c7",
   "score": 1,
@@ -9512,13 +9421,6 @@
   "worst": "街に着く前に、尖塔が先に目に入ります。",
   "at": "2026-08-15T03:09:27.103Z"
  },
- "ja/singapore-smash-street": {
-  "hash": "3f02d65bafa0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "その同じセンスを、ここ数年で世界各地の食都を席巻してきたスマッシュバーガーという形式に注ぎ込んでいる点こそ...",
-  "at": "2026-08-16T11:03:27.411Z"
- },
  "ja/strasbourg-christmas-in-alsace": {
   "hash": "5e622580538b",
   "score": 1,
@@ -9924,13 +9826,6 @@
   "registerBreak": false,
   "worst": "チケット販売は多くの場合、米国・英国公演で使われるアーティストのグローバルなチケット販売パートナーではなく…",
   "at": "2026-08-15T03:11:27.745Z"
- },
- "ja/tokushima-tokushima-awa-odori": {
-  "hash": "dd141f6faf09",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "新町橋（Yasaki-machi）や藍場浜（Aiba-hama）といったエリアは、これまで主要な会場ゾーンとして知られてきましたが",
-  "at": "2026-08-16T11:03:39.969Z"
  },
  "ja/toledo-monasterio-de-san-juan-de-los-reyes": {
   "hash": "81d4e6cfe4fa",
@@ -12731,13 +12626,6 @@
   "registerBreak": false,
   "worst": "Cuando Estambul acoge una parte del EuroVolley Femenino 2026... se obtiene esa rara combinación",
   "at": "2026-08-15T03:23:05.313Z"
- },
- "es/istanbul-sen-den-restaurant": {
-  "hash": "8da04c18124a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Karaköy se encuentra en el lado europeo del Bósforo... cruzando el puente de Gálata desde Eminönü.",
-  "at": "2026-08-15T11:59:01.695Z"
  },
  "es/istanbul-tiesto-live-istanbul-festival": {
   "hash": "1ef2e175925d",
@@ -16456,13 +16344,6 @@
   "worst": "从海滨入口踏入园区的那一刻，气氛便截然不同：空气变得湿润、带着咸味，隐约夹杂着山下海港的气息。",
   "at": "2026-08-23T08:55:20.143Z"
  },
- "zh/abu-dhabi-3fils-abu-dhabi": {
-  "hash": "52b05f858863",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "如今3Fils落户阿布扎比...对这座城市的餐饮版图而言，这可不只是又一家酒店餐厅开业那么简单，而是实打实的一件大事。",
-  "at": "2026-08-16T11:20:50.498Z"
- },
  "zh/abu-dhabi-art-house-cafe": {
   "hash": "9b194ee481c8",
   "score": 1,
@@ -16525,13 +16406,6 @@
   "registerBreak": false,
   "worst": "在这样一个相对不大的酋长国里，能积累如此庞大的评价量，说明这家餐厅早已超越小众口碑相传的阶段",
   "at": "2026-08-15T03:41:03.098Z"
- },
- "zh/ajman-the-seat-cafe": {
-  "hash": "c38c299cd9d7",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "像这样评价体系的咖啡馆，室内设计通常才是真正的吸睛点：讲究的灯光、多样的座位形式",
-  "at": "2026-08-16T11:20:49.804Z"
  },
  "zh/al-ain-al-ain-oasis": {
   "hash": "d33eb1fed441",
@@ -16616,13 +16490,6 @@
   "registerBreak": false,
   "worst": "游客最容易犯的错误，就是把这里当成一个十五分钟的拍照打卡点。",
   "at": "2026-08-15T09:12:10.648Z"
- },
- "zh/alcaniz-parador-de-alcaniz": {
-  "hash": "533cc551485e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "但真正让人们特意绕道前往、往返于萨拉戈萨与地中海海岸之间的原因，是能住进这些厚重石墙之内、曾是修道士单间或骑士居所的房间。",
-  "at": "2026-08-16T11:21:01.545Z"
  },
  "zh/ankara-ankara-castle": {
   "hash": "ad00ee7a4d82",
@@ -16813,13 +16680,6 @@
   "worst": "这个数字只能当个参考,不是板上钉钉的承诺。",
   "at": "2026-08-15T06:46:01.091Z"
  },
- "zh/bangkok-david-byrne-live-in-bangkok": {
-  "hash": "b0a0a2c674d6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "UOB Live坐落于曼谷市中心是隆（Samyan）／朱拉隆功（Chulalongkorn）一带的**是隆米德城**（Samyan Mitrtown）综合体内。",
-  "at": "2026-09-02T10:58:57.614Z"
- },
  "zh/bangkok-hidden-bangkok-tours": {
   "hash": "08dd1c2105e4",
   "score": 1,
@@ -16854,13 +16714,6 @@
   "registerBreak": false,
   "worst": "这样距离场馆只有几站BTS的距离,同时也位于曼谷餐饮和夜生活最密集的区域之一",
   "at": "2026-08-15T03:43:07.172Z"
- },
- "zh/bangkok-saladaeng": {
-  "hash": "e8d1aa20cebd",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "店内摆放了100多件Fritz Hansen家具——这家丹麦家具品牌正是Egg Chair蛋椅、Series 7系列椅等经典设计的缔造者——而且这些家具并非统一铺陈",
-  "at": "2026-08-16T11:20:51.461Z"
  },
  "zh/bangkok-sea-life-bangkok-ocean-world": {
   "hash": "aeac514c9556",
@@ -16987,13 +16840,6 @@
   "registerBreak": false,
   "worst": "这里不是为游客精心打造的美食广场...而商业与奇观之间的这种张力，正是它值得一游的原因。",
   "at": "2026-08-15T03:44:22.656Z"
- },
- "zh/barcelona-parada-torres": {
-  "hash": "1848b147ba8c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于餐厅刚开业不久，建议当天直接打电话或查询官方渠道，确认营业时间、是否接受预订以及实际供应的菜品",
-  "at": "2026-08-16T11:20:51.674Z"
  },
  "zh/barcelona-placa-nova": {
   "hash": "1d87b229eedf",
@@ -17401,13 +17247,6 @@
   "worst": "由于这条街比起铜锣湾那些大型商场来说相对低调，就算是在生意不错的晚上，这里通常也会显得更清静一些",
   "at": "2026-08-15T03:46:45.625Z"
  },
- "zh/chandigarh-quick-style-india-tour-2026": {
-  "hash": "7c899209d359",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "可以预期这将延续Quick Style在本次巡演其他站点大获成功的演出形式：以其标志性的同步编舞为核心、制作精良的现场表演",
-  "at": "2026-08-16T11:21:04.667Z"
- },
  "zh/chengdu-chengdu-research-base-of-giant-panda-breeding": {
   "hash": "a6fe0c11dd8c",
   "score": 1,
@@ -17617,13 +17456,6 @@
   "registerBreak": false,
   "worst": "最后一段是陡峭且凹凸不平的石阶下坡路,就算穿着合脚的鞋子,也得步步留心。",
   "at": "2026-08-15T06:48:41.771Z"
- },
- "zh/clarke-quay-home-dawn-cafe-clarke-quay": {
-  "hash": "379b0f63a9f9",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "不要以为好东西都在水边，不妨沿River Valley Road往上走一小段，经过那片店屋群落，看看后面藏着什么。",
-  "at": "2026-08-16T11:20:53.237Z"
  },
  "zh/clarke-quay-malayan-settlement": {
   "hash": "b8176ef8d320",
@@ -18234,13 +18066,6 @@
   "worst": "至于会安招牌的姜黄面——高楼面(cao lầu,配猪肉和酥脆面包丁),更多是在市场旁边的坐堂小店里才能吃到",
   "at": "2026-08-15T03:53:43.627Z"
  },
- "zh/ho-chi-minh-city-nom": {
-  "hash": "91e5090e2534",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "他们盯着米其林推荐名单的认真劲儿，不亚于旁人追球赛积分榜",
-  "at": "2026-08-16T11:21:07.430Z"
- },
  "zh/hoi-an-me-hoi-an-rooftop-coffee-kitchen": {
   "hash": "fb51b1a3e8c5",
   "score": 1,
@@ -18402,13 +18227,6 @@
   "worst": "松岛会展区一带酒店和休闲餐饮林立,步行即可到达音乐节会场,如果你想在压轴演出结束后避免深夜赶回首尔的奔波",
   "at": "2026-08-15T03:55:37.455Z"
  },
- "zh/incheon-one-universe-festival-2026": {
-  "hash": "7db5f464923f",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "One Universe Festival 2026公布的阵容颇为罕见地在同一个周末内融合了多种风格",
-  "at": "2026-09-04T10:59:43.643Z"
- },
  "zh/incheon-songdo-central-park": {
   "hash": "b2b61bf2127b",
   "score": 1,
@@ -18555,13 +18373,6 @@
   "registerBreak": false,
   "worst": "公园规模十分可观——占地约150公顷——因此这里并非走马观花的拍照点，而是值得专门安排行程前往的目的地。",
   "at": "2026-08-15T03:57:07.391Z"
- },
- "zh/jakarta-the-weeknd-after-hours-til-dawn-tour": {
-  "hash": "07eca97ba004",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "跟着这么做就对了，不要考虑租车。",
-  "at": "2026-08-16T11:21:13.615Z"
  },
  "zh/jeju-hyeopjae-beach": {
   "hash": "a9c166a84222",
@@ -19382,13 +19193,6 @@
   "worst": "这样的演出形式最适合在真正亲密的空间里呈现，这也正是这场巡演选在Proscenium剧院、而非马尼拉某个大型体育馆举办的原因。",
   "at": "2026-09-05T11:21:20.414Z"
  },
- "zh/makati-kariton-x-sabi-sounds": {
-  "hash": "57616a10bc25",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这在这条街区并不常见——大多数店铺要么专做白天咖啡生意，要么专做晚间酒吧生意，而这里想把两种角色一次做到底。",
-  "at": "2026-08-16T11:21:07.311Z"
- },
  "zh/makati-kowloon-station": {
   "hash": "d227e1a850a8",
   "score": 1,
@@ -19515,13 +19319,6 @@
   "worst": "由于厨房营业时间很长,这里是Brickell区少数几家既能当迟到的塔可早餐点、工作日午餐地点,又能作为下班后小酒馆、还能在夜店散场后当深夜觅食去处的餐厅之一。",
   "at": "2026-08-15T04:03:55.632Z"
  },
- "zh/miami-lafayette-miami": {
-  "hash": "0d68e6d9d5ca",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这样的成绩不会来自某次爆红的网络时刻，而是靠厨房一餐一餐地把基本功做扎实，才换来了老顾客们一次又一次地光顾。",
-  "at": "2026-08-16T11:21:09.991Z"
- },
  "zh/milan-duomo-di-milano": {
   "hash": "4c4c964e311f",
   "score": 1,
@@ -19570,13 +19367,6 @@
   "registerBreak": false,
   "worst": "大多数MotoGP分站赛给人的感觉，像是把一场大型体育赛事随意安插进某个小镇。",
   "at": "2026-08-15T04:04:21.868Z"
- },
- "zh/milan-sandi": {
-  "hash": "a7015a9b4f9b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "属于那种可以顺路走到、而非需要专程跋涉才能抵达的地址",
-  "at": "2026-08-16T11:21:20.923Z"
  },
  "zh/mong-kok-lok-kwan-street-park": {
   "hash": "c918a356759a",
@@ -19878,13 +19668,6 @@
   "registerBreak": false,
   "worst": "这不是那种可以\"随便逛逛\"的博物馆。它是一场关于\"规模\"的全方位感官体验",
   "at": "2026-08-15T04:07:06.252Z"
- },
- "zh/new-york-city-atomix": {
-  "hash": "e349f2d1a397",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "食物本身还未入眼，你便先注意到了这一点——餐盘本身就在发挥作用",
-  "at": "2026-08-16T11:21:12.428Z"
  },
  "zh/new-york-city-ci-siamo": {
   "hash": "6b0d632e8354",
@@ -20229,13 +20012,6 @@
   "worst": "其布局与仅仅两年前奥运奖牌得主使用时完全相同",
   "at": "2026-08-15T04:09:39.973Z"
  },
- "zh/pasay-city-lalala-fest-manila-2026": {
-  "hash": "1dd7557b194d",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "因菲律宾这一时段的户外相关活动因天气原因调整日程的情况并不少见",
-  "at": "2026-08-22T09:29:48.503Z"
- },
  "zh/pattaya-mamamia-pattaya-street-noodles": {
   "hash": "ecb2dc5bc2cc",
   "score": 1,
@@ -20291,13 +20067,6 @@
   "registerBreak": false,
   "worst": "凭借超过6,000条评论和4.3分的评分，它显然是岛上访问量较高的独立餐厅之一",
   "at": "2026-08-15T04:09:57.489Z"
- },
- "zh/phu-quoc-vietnam-international-flute-festival-viff-2026": {
-  "hash": "7ca382eee6f8",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "对于古典音乐爱好者而言，这是难得一见的机会——可以在度假胜地而非传统的音乐厅城市中，欣赏到高度集中的国际长笛演出阵容",
-  "at": "2026-08-16T11:21:21.073Z"
  },
  "zh/phuket-cafe-phuket-viewpoint": {
   "hash": "cd6ee30e9bad",
@@ -20593,13 +20362,6 @@
   "worst": "考虑到这里早已是码头游览路线上人尽皆知、人气爆棚的热门去处，而非什么低调的街角小店，真正的本地窍门其实在于把握时间",
   "at": "2026-08-15T07:03:15.369Z"
  },
- "zh/san-francisco-the-happy-crane": {
-  "hash": "0b88ea5e684b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这一带的主街——Hayes街与Gough街——精品店和咖啡馆密集，因此建议早点到达、步行前往...",
-  "at": "2026-08-16T11:21:14.359Z"
- },
  "zh/san-francisco-the-painted-ladies": {
   "hash": "5599b747ca54",
   "score": 1,
@@ -20837,13 +20599,6 @@
   "registerBreak": false,
   "worst": "这个词专指韩国人为了抢购而在店铺开门瞬间冲进店内的现象，原因是这里几乎每天都供不应求。",
   "at": "2026-08-15T04:12:48.292Z"
- },
- "zh/seoul-mil-toast": {
-  "hash": "36863aed6ce5",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "去之前心里只认准那一道大家排队为之而来的招牌，菜单上别的东西能遇到就当是意外惊喜，别specifically为它们做计划。",
-  "at": "2026-08-16T11:21:24.209Z"
  },
  "zh/seoul-myeongdong-shopping-street": {
   "hash": "c46bb995d9ad",
@@ -21419,26 +21174,12 @@
   "worst": "它在超过22,000条评论中获得了4.5星的评分，是全城口碑最为稳定的免费景点之一。",
   "at": "2026-08-15T04:17:55.528Z"
  },
- "zh/tokyo-formula-e-tokyo-e-prix": {
-  "hash": "1af9faf95835",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "常见气温在30°C出头到中段（约90华氏度）,加上高湿度，使得全天户外活动对体力要求较高。",
-  "at": "2026-08-16T11:21:33.899Z"
- },
  "zh/tokyo-shinjuku-gyoen-national-garden": {
   "hash": "68502ba8e105",
   "score": 1,
   "registerBreak": false,
   "worst": "新宿御苑因樱花而闻名全国，园内约有1000株、65个品种的樱花，从3月下旬到4月下旬依次错峰绽放",
   "at": "2026-08-15T04:17:57.427Z"
- },
- "zh/tokyo-smith-wollensky": {
-  "hash": "afff696eba38",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "日本没有小费文化，这里也不例外，即便餐厅带着美式基因也不例外",
-  "at": "2026-08-16T11:21:32.436Z"
  },
  "zh/tokyo-teamlab-planets-tokyo-dmm": {
   "hash": "a7a1918c5ad1",
@@ -21460,13 +21201,6 @@
   "registerBreak": false,
   "worst": "从近打律（Tiong Bahru）的咖啡馆街步行不远即可到达，不过严格来说它自成一个片区。",
   "at": "2026-08-15T04:18:03.906Z"
- },
- "zh/tokyo-vannelli-coffee": {
-  "hash": "c3115e9a589e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这种形式对待咖啡溯源的态度，就像酒吧对待品酒套餐一样——注重感官体验、强调亲自动手、不慌不忙。",
-  "at": "2026-08-16T11:21:31.562Z"
  },
  "zh/tokyo-fish-market-tsukiji-outer-market": {
   "hash": "6656bf16b080",
@@ -21734,13 +21468,6 @@
   "worst": "该景点在超过8000条评论中获得4.6分的高评价，一直是游客前往西安旅游的首要理由之一",
   "at": "2026-08-15T04:19:43.637Z"
  },
- "zh/yeosu-keunkkeut-lighthouse": {
-  "hash": "7a549f0f2ceb",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "用这样一顿饭结束这趟以宁静的渔家海岸线为主题、而非人造景点的旅程，再合适不过。",
-  "at": "2026-08-16T11:21:31.590Z"
- },
  "zh/xi-an-tang-paradise": {
   "hash": "af7f2ffe3825",
   "score": 1,
@@ -21776,13 +21503,6 @@
   "worst": "这种极致华丽的室内设计既上镜又实用，其实正是为粤式宴席那种长时间、多道菜依次上桌、六到八人共享的用餐方式而设计的",
   "at": "2026-08-15T04:20:10.625Z"
  },
- "zh/yokohama-yokohama-chinatown": {
-  "hash": "5fdb0e966a78",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "街区中段则藏着供奉关羽的长曾家庙（关帝庙，Kanteibyo Temple），雕花屋檐上香烟袅袅升起",
-  "at": "2026-08-16T11:21:34.852Z"
- },
  "zh/yokohama-yokohama-marine-tower": {
   "hash": "dbded1e321b7",
   "score": 1,
@@ -21811,33 +21531,12 @@
   "worst": "编辑对它的评价是\"时髦、简约的咖啡馆,主打轻食与可持续本地咖啡\"——这个说法相当贴切。",
   "at": "2026-08-15T09:26:14.629Z"
  },
- "ko/agra-taj-terrace": {
-  "hash": "8ffa18da8c18",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "인파가 잦아든 뒤 이곳에서 여유롭게 제대로 된 저녁을 즐기는 것이야말로 따라볼 만한 현지인의 리듬입니다.",
-  "at": "2026-08-17T08:38:11.448Z"
- },
- "ko/abu-dhabi-the-corrs-live-in-concert": {
-  "hash": "1b91caffee56",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "틴 휘슬과 보드란(bodhrán), 그리고 안드레아 코어(Andrea Corr)의 독보적인 보컬을 바탕으로 사운드를 쌓아온 밴드인 만큼",
-  "at": "2026-08-17T08:38:12.568Z"
- },
  "ko/ankara-an-tkabir": {
   "hash": "0ff4f3b7691d",
   "score": 1,
   "registerBreak": false,
   "worst": "넓은 행렬로인 사자의 길(Lion Road, Aslanlı Yol)이 앞으로 뻗어 있고, 그 양옆으로는 돌사자상들이 늘어서 있습니다.",
   "at": "2026-08-17T08:38:38.427Z"
- },
- "ko/avignon-jardin-des-doms": {
-  "hash": "e102503ea3fb",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "주말은 대체로 오전 8시부터 오후 10시까지 전반적으로 한산한 편이지만, 정오부터 오후 8시 사이... 사람이 가장 많이 몰립니다.",
-  "at": "2026-08-24T08:36:08.142Z"
  },
  "ko/barcelona-placa-nova": {
   "hash": "62b29b268da8",
@@ -21888,13 +21587,6 @@
   "worst": "연못을 보기도 전에 강 냄새부터 느껴집니다 — 가론강에서 실려온 은은한 미네랄 습기가 강변 카페들의 와플 반죽과",
   "at": "2026-08-24T09:50:02.988Z"
  },
- "ko/bunol-la-tomatina": {
-  "hash": "4b150b468287",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "티켓은 공식 채널을 통해 판매되며 보통 8월이 되기 훨씨 전에 매진되므로, 즉흥적으로 현장에서 구매할 수 있는 여행이 아닙니다.",
-  "at": "2026-08-24T09:50:20.426Z"
- },
  "ko/chicago-cloud-gate": {
   "hash": "786fb9da99f9",
   "score": 1,
@@ -21908,13 +21600,6 @@
   "registerBreak": false,
   "worst": "이곳의 매력은 짧은 거리 안에 응축된 다양성이다 — 광둥식 가정식, 일본식 그릴, 한국식 매대, 디저트 코너까지",
   "at": "2026-08-31T15:21:02.085Z"
- },
- "ko/chiang-mai-chiang-mai-national-museum": {
-  "hash": "a5dc5b2df1b0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 하는 실수는 사원들 사이에 잠깐 들르는 5분짜리 정류장 정도로 여기는 것입니다.",
-  "at": "2026-08-31T15:21:36.659Z"
  },
  "ko/davao-philippine-eagle-center": {
   "hash": "7cf7055c93b3",
@@ -23197,13 +22882,6 @@
   "worst": "이 신사는 실외에 있고 관리인이 따로 없으며 24시간 개방되어 있는데, 이는 교토의 주요 명소 중에서도 이례적인 점이라",
   "at": "2026-08-15T06:13:27.293Z"
  },
- "ko/kyoto-yoichiba": {
-  "hash": "a8286e4ad1e0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "관광객 발길을 좇는 식당이 넘쳐나는 도시에서 421개 리뷰에 4.8점이라는 평점은 예사롭지 않은 신호입니다.",
-  "at": "2026-08-15T11:55:15.971Z"
- },
  "ko/labuan-bajo-pondok-pohon-tanjung-bunga": {
   "hash": "875c63cc68c9",
   "score": 1,
@@ -23722,13 +23400,6 @@
   "worst": "週末は午後10時から午後1時の間の方が、その後の時間帯よりも落ち着いています。",
   "at": "2026-08-15T06:26:23.398Z"
  },
- "ja/madrid-osa": {
-  "hash": "367b2198c4b2",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "厨房は、季節のスペイン産食材を、あの実験的で食材そのものを問い直すような料理の流派から借りてきた技術で扱う",
-  "at": "2026-08-15T11:58:00.393Z"
- },
  "ja/marseille-parc-national-des-calanques": {
   "hash": "0bd21d166959",
   "score": 1,
@@ -23813,13 +23484,6 @@
   "worst": "すべてが積み重なった歴史ではなく、ひとつの意図された連続的なデザインの一部なのです。",
   "at": "2026-08-15T09:08:55.237Z"
  },
- "ja/shanghai-people-s-park": {
-  "hash": "beea2e9772f3",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "親たちが未婚のour子供のプロフィールを手書きし、傘に吊るして掲げ、見知らぬ誰かの…縁談を願うという光景です。",
-  "at": "2026-08-15T11:58:19.961Z"
- },
  "ja/singapore-milli": {
   "hash": "a6b22a3beeba",
   "score": 1,
@@ -23861,13 +23525,6 @@
   "registerBreak": false,
   "worst": "これは単に快適さの問題ではなく、実際に何が営業しているかに直結します。",
   "at": "2026-08-15T06:31:56.236Z"
- },
- "ja/tokyo-vannelli-coffee": {
-  "hash": "132bd4ec9f46",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "表参道の店舗らしく、空間自体も計算され、写真映えするようにデザインされていると想像され、ショーケース...",
-  "at": "2026-08-15T11:58:44.087Z"
  },
  "ja/washington-dc-old-ebbitt-grill": {
   "hash": "a0fdfb88c935",
@@ -24100,13 +23757,6 @@
   "worst": "conocida localmente como el equivalente a un año de escalones: más de 300, divididos en tramos",
   "at": "2026-08-15T10:40:06.772Z"
  },
- "es/taipei-addiction-aquatic-development": {
-  "hash": "292bf156067e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Road (ambas en las líneas Roja/Verde).",
-  "at": "2026-08-15T12:00:16.564Z"
- },
  "es/tokyo-senso-ji": {
   "hash": "9947c3425eb5",
   "score": 1,
@@ -24261,13 +23911,6 @@
   "worst": "在这座以海滨大道和山景著称、美食反倒不太出名的城市里，能发现这样一家餐厅，着实令人惊喜。",
   "at": "2026-08-15T12:02:24.016Z"
  },
- "zh/gangneung-gangmun-sotdae-bridge": {
-  "hash": "1271067b1cb6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于这里还未成为热门打卡地，不必为了拍照而挤来挤去，也不用排队等空镜头。",
-  "at": "2026-08-16T11:21:45.050Z"
- },
  "zh/granada-generalife": {
   "hash": "3c55e64c816a",
   "score": 1,
@@ -24288,13 +23931,6 @@
   "registerBreak": false,
   "worst": "很多人甚至没意识到自己错过了什么",
   "at": "2026-08-15T06:50:58.764Z"
- },
- "zh/gyeongju-seokguram": {
-  "hash": "67bb8345a7aa",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这里仍是一处活跃的礁佛礌拜场所，不只是博物馆展品。",
-  "at": "2026-08-16T11:21:41.333Z"
  },
  "zh/hangzhou-xixi-national-wetland-park": {
   "hash": "8258938967d4",
@@ -24330,13 +23966,6 @@
   "registerBreak": false,
   "worst": "站在尖沙咀一侧,你会先感受到扑面而来的空间尺度。",
   "at": "2026-08-15T06:52:31.681Z"
- },
- "zh/hong-kong-east-coast-boardwalk": {
-  "hash": "044ce5fe9534",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "集装箱货轮和小渔船不时从眼前drift过。",
-  "at": "2026-09-05T10:47:04.697Z"
  },
  "zh/iloilo-molo-mansion": {
   "hash": "57fa1af52f97",
@@ -24596,13 +24225,6 @@
   "registerBreak": false,
   "worst": "曾光顾过Cantina Agave的食客,不妨对VICE抱有既相关又不同的期待",
   "at": "2026-08-15T09:24:06.208Z"
- },
- "zh/singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour": {
-  "hash": "69ffd476129b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "预计舞台制作会紧扣这种情绪：浓重的红色与琥珀色灯光、剪影效果，整个舞台设计更像是为一位穿梭于不同音乐篇章的独唱艺人量身打造，而非简单的精选金曲串烧演出。",
-  "at": "2026-08-16T11:21:36.036Z"
  },
  "zh/surabaya-blue-doors-surabaya": {
   "hash": "4d6e651d0973",
@@ -25220,13 +24842,6 @@
   "worst": "이스탄불이 2026 유러발리 여자부 대회의 일부, 그중에서도 9월 6일 결승전을 개최한다는 것은",
   "at": "2026-08-15T10:31:31.026Z"
  },
- "ko/istanbul-sankai-by-nagaya": {
-  "hash": "2e3b082ddc19",
-  "score": 2,
-  "registerBreak": true,
-  "worst": "저녁 일정을 짜기 전에 현재 운영 요일과 시간, 예약 방법, 고정 가격제 시행 여부를 반드시 확인하세요.",
-  "at": "2026-08-16T11:01:43.041Z"
- },
  "ko/jakarta-taman-mini-indonesia-indah": {
   "hash": "26df84a27d89",
   "score": 1,
@@ -25591,13 +25206,6 @@
   "worst": "周六和周日夜场时间更长，一直持续到午夜，比平日晚上10点半的收场时间多出更大的游览空间。",
   "at": "2026-08-15T09:22:29.237Z"
  },
- "zh/osaka-cafe-82-osaka": {
-  "hash": "918c76276eb0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于评分虽高、知名度却还没跟上，你不需要提前订位，只要挑对时间，再多一点耐心，等那杯拉花完好无损地端到你面前就好。",
-  "at": "2026-08-16T11:21:50.696Z"
- },
  "zh/phuket-day-night-of-phuket": {
   "hash": "0d6cc802b36d",
   "score": 1,
@@ -25745,13 +25353,6 @@
   "worst": "소수의 엄선된 후기가 아니라 수천 명의 방문객이 한목소리로 보내는 꾸준한 호평이야말로... 가장 확실한 증거입니다.",
   "at": "2026-08-15T11:54:34.997Z"
  },
- "ko/istanbul-sen-den-restaurant": {
-  "hash": "0cd9ebc6048a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "노출된 석재와 역사적인 비례감, 오래된 구조적 디테일이 현대적인 다이닝 공간과 나란히 자리하고 있다고 전해지며",
-  "at": "2026-08-15T11:54:37.743Z"
- },
  "ko/jinju-jinjuseong-fortress": {
   "hash": "9bee77848189",
   "score": 1,
@@ -25780,26 +25381,12 @@
   "worst": "비치 바의 활기찬 소음에서 거의 나 혼자만 있는 듯한 고요함으로 바뀌는 식입니다.",
   "at": "2026-08-15T10:31:51.325Z"
  },
- "ko/jordan-spicy-salt-hk": {
-  "hash": "a57cdeb91860",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "측정된 데이터에 따르면 주말 오후 4시부터 9시까지가 가장 한산한 시간대이고, 오후 7시부터 11시까지가 가장 붐비는 절정 시간대",
-  "at": "2026-08-15T11:54:43.881Z"
- },
  "ko/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
   "hash": "d590712b1f7d",
   "score": 1,
   "registerBreak": false,
   "worst": "동남아시아 전역의 팬들에게 이번 쿠알라룸푸르 공연은 홍콩, 타이베이, 싱가포르까지 가지 않고도 관람할 수 있는 몇 안 되는 기회입니다.",
   "at": "2026-08-15T10:32:07.147Z"
- },
- "ko/kampong-glam-sultan-mosque": {
-  "hash": "0dad2ed5d642",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "1930년대 형편이 어려웠던 신도들이 기부한 수천 개의 유리병 밑동으로 밑단을 두른 황금빛 돔은... 만들어 주었습니다.",
-  "at": "2026-08-15T10:32:10.240Z"
  },
  "ko/mong-kok-beans-cafe": {
   "hash": "8d21908b49cf",
@@ -26158,13 +25745,6 @@
   "worst": "Se viene primero por la vista y después por la casa, y las dos cumplen.",
   "at": "2026-08-15T10:39:50.781Z"
  },
- "es/paris-shwi": {
-  "hash": "b0ee14048672",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Shwi se lee como una derivación construida en torno a una sola idea bien ejecutada",
-  "at": "2026-08-15T11:59:51.469Z"
- },
  "es/phong-nha-phong-nha-ke-bang-national-park": {
   "hash": "fd1ea790d560",
   "score": 1,
@@ -26206,13 +25786,6 @@
   "registerBreak": false,
   "worst": "由于这里坐落在一片仍在正常运作、可供步行穿越的绿洲之中，而非孤立的商业街区里的一家咖啡馆，即便它的评分和点评数量都显示出很高的知名度，这里依然不失一份从容",
   "at": "2026-08-16T11:21:45.254Z"
- },
- "zh/bali-cure-bali": {
-  "hash": "f714f5ca0bbc",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这位级别的主厨选择落户芝古，本身就说明国际餐饮界对巴厘岛美食地位的重视程度。",
-  "at": "2026-08-16T11:21:46.294Z"
  },
  "zh/bangkok-suan-luang-rama-ix": {
   "hash": "94bc31aac9d8",
@@ -26487,27 +26060,6 @@
   "worst": "다만 '열려 있다'는 것은 대부분 공간 자체를 의미할 뿐, 투어 업자나 해산물 가판대는 별개입니다.",
   "at": "2026-08-15T11:56:16.355Z"
  },
- "ko/shanghai-chinajoy": {
-  "hash": "83da13e3e043",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "국가회전중심(National Exhibition and Convention Center, NECC)에서 개최되어 왔습니다",
-  "at": "2026-08-15T11:56:46.899Z"
- },
- "ko/tokyo-fish-market-tsukiji-outer-market": {
-  "hash": "18fae5ef01a5",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이 시장은 수만 건의 리뷰에서 평균 4.2점이라는 높은 평점을 유지하고 있으며, 이는 2018년 경매 이전에도",
-  "at": "2026-08-15T11:56:55.428Z"
- },
- "ja/amalfi-coast-amalfi-coast": {
-  "hash": "dfd0e5ae6975",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "沿岸道路のカーブを曲がると、目の前に景色すべてが広がります — 見上げるほど急な岩肌に段々と連なるレモン畑...",
-  "at": "2026-08-15T11:57:14.229Z"
- },
  "ja/madrid-chocolateria-san-gines": {
   "hash": "ae6ed20982c8",
   "score": 1,
@@ -26521,20 +26073,6 @@
   "registerBreak": false,
   "worst": "pregunta a cualquier miembro del personal de la estación o consulta el horario publicado",
   "at": "2026-08-15T11:59:17.409Z"
- },
- "es/mong-kok-beans-cafe": {
-  "hash": "0d0ef588fc8b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "...no recibe el tráfico casual de los centros comerciales que sí tienen las cadenas...",
-  "at": "2026-08-15T11:59:29.782Z"
- },
- "es/yokohama-manchinro": {
-  "hash": "8271c9a45fcd",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "columnas lacadas en rojo, detalles dorados, biombos tallados y una gran escalinata que hacen que se sienta",
-  "at": "2026-08-15T12:00:11.874Z"
  },
  "zh/bengaluru-visvesvaraya-industrial-technological-museum": {
   "hash": "8e1cf441ee28",
@@ -26550,13 +26088,6 @@
   "worst": "你会先听到它的声音，再看到它的身影——沿着碎石步道往前走时，一声粗哑、近乎原始的鸣叫在林间回荡。",
   "at": "2026-08-15T12:02:11.344Z"
  },
- "zh/genting-highlands-genting-skyworlds-theme-park": {
-  "hash": "9fc3295684bf",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这座公园目前累积了超过17,000条评论，说明无论哪天前往，排队都是需要认真考虑的因素",
-  "at": "2026-08-16T11:21:56.535Z"
- },
  "zh/kenting-eluanbi-lighthouse": {
   "hash": "177ecf872a6b",
   "score": 1,
@@ -26570,13 +26101,6 @@
   "registerBreak": false,
   "worst": "你为科莫多龙而来，但会因风景而留下：泛着粉色的沙滩、绿松石色的海湾...",
   "at": "2026-08-15T12:05:45.209Z"
- },
- "zh/madrid-osa": {
-  "hash": "73f668f8145e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "菜品的出场顺序本身就是叙事的一部分——是一场缓缓展开的旅程，而非一份可以直接点餐的印刷版菜单。",
-  "at": "2026-08-16T11:21:53.002Z"
  },
  "zh/makassar-fort-rotterdam": {
   "hash": "4e9f14b3dcfe",
@@ -26598,13 +26122,6 @@
   "registerBreak": false,
   "worst": "其中一侧的崖壁被海水生生冲出一道天然石拱，浪潮涌入涌出，仿佛整座岛屿都在随之呼吸。",
   "at": "2026-08-15T12:08:15.772Z"
- },
- "zh/osaka-dotonbori": {
-  "hash": "e4b839f2d141",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "在近85,000条谷歌评论中获得4.4的评分，道顿堀已牢牢确立了自己作为日本最受欢迎美食目的地之一的地位",
-  "at": "2026-08-16T11:22:07.149Z"
  },
  "zh/pingxi-shifen-old-street": {
   "hash": "c4fc3e1b172f",
@@ -26830,13 +26347,6 @@
   "worst": "저녁 식사 후, 당일치기 관광버스 무리가 빠져나간 시간대도 그에 못지않게 좋으며, 특히 해질 무렵 golden hour에는 더욱 근사합니다.",
   "at": "2026-08-17T08:38:33.610Z"
  },
- "ko/bengaluru-bengaluru-fort": {
-  "hash": "97d0d8e4b424",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "그저 걸어가서 사진을 찍고, 안내판이 세워져 있다면 그것을 읽어보는 독립된 기념물입니다.",
-  "at": "2026-08-31T12:56:15.879Z"
- },
  "ko/bengaluru-lalbagh-botanical-garden": {
   "hash": "7626e16590db",
   "score": 1,
@@ -26969,13 +26479,6 @@
   "registerBreak": false,
   "worst": "游客最常犯的错误，就是把这里当成一个五分钟的拍照点；不如留出20到30分钟",
   "at": "2026-08-16T11:04:59.049Z"
- },
- "zh/chengdu-gudashengci-temple": {
-  "hash": "70b79f9a45de",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "因为并不是每个人都听得懂更完整的英文说法",
-  "at": "2026-08-16T11:21:58.199Z"
  },
  "zh/chengdu-people-s-park": {
   "hash": "976dc445d467",
@@ -27131,13 +26634,6 @@
   "worst": "訪問者にありがちな失敗は、ここを軽い軽食スポットのように扱ってしまうことです。",
   "at": "2026-08-16T11:03:14.551Z"
  },
- "ja/new-delhi-national-museum-new-delhi": {
-  "hash": "4f8577a2fe8c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "というのも、このギャラリーは主要な観光動線から少し外れた場所にあるからです。",
-  "at": "2026-08-16T11:03:21.035Z"
- },
  "ja/udaipur-maharana-pratap-museum": {
   "hash": "af90d7722db9",
   "score": 1,
@@ -27285,40 +26781,12 @@
   "worst": "이는 식사의 의미를 새롭게 합니다: 단순히 창의적인 인도 요리를 먹는 것이 아니라, 유네스코가 후마윤 묘 세계문화유산",
   "at": "2026-08-16T11:01:32.025Z"
  },
- "ko/granada-nasrid-palaces": {
-  "hash": "bbd13fa0c036",
-  "score": 2,
-  "registerBreak": true,
-  "worst": "건물 곳곳의 회벽에 수천 번 새겨진 이 한 구절은, 어떤 안내판보다도 나스리 왕조가 250년간 그라나다를 불안하게 지배했던 역사를 더",
-  "at": "2026-08-16T11:01:39.267Z"
- },
  "ko/jakarta-the-sounds-project-vol-9": {
   "hash": "dd1a71361a13",
   "score": 2,
   "registerBreak": false,
   "worst": "축제 음식 부스에서 팁은 기대되지 않는다.",
   "at": "2026-08-16T11:01:46.216Z"
- },
- "ko/guilin-reed-flute-cave": {
-  "hash": "6d3e75d44bd1",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이름은 동굴 입구에 자라던, 피리를 만드는 데 쓰이던 갈대에서 따온 것이다",
-  "at": "2026-08-16T11:01:48.915Z"
- },
- "ko/kuching-kubah-national-park": {
-  "hash": "c48935d25a1b",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "렌터카든 대여 차량이든 차를 마련해 두면 하루가 훨씨 편안해집니다.",
-  "at": "2026-08-16T11:01:55.931Z"
- },
- "ko/konya-konya-tropical-butterfly-garden": {
-  "hash": "fe2cd81c2fbf",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이곳의 매력은 바로 이것이다. 유리 너머로 자연을 바라보는 게 아니라, 그 안으로 곧장 걸어 들어가는 경험이라는 점.",
-  "at": "2026-08-16T11:01:56.458Z"
  },
  "ko/kumamoto-kato-shrine": {
   "hash": "e02a557f7a71",
@@ -27334,13 +26802,6 @@
   "worst": "보련선사(포린 몬스터리)는 우연히 들르게 되는 식당이 아닙니다.",
   "at": "2026-08-16T11:01:57.670Z"
  },
- "ko/los-angeles-lielle": {
-  "hash": "1635bddb4693",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "군더더기 없이, 긴 알라카르트 순서로 새지 않고, 시작 코스부터 디저트까지 하나의 흐름으로 이어지는 짜임새 있는 구성으로",
-  "at": "2026-08-16T11:02:01.367Z"
- },
  "ko/los-angeles-los-angeles-county-museum-of-art": {
   "hash": "de3864a22a4b",
   "score": 1,
@@ -27355,61 +26816,12 @@
   "worst": "평평한 물과 모래 위로 솟아오른 회색빛 금빛 원뿔형 실루엣은, 인공적으로 지어졌다기보다 자연스럽게 자라난 것처럼 보입니다.",
   "at": "2026-08-16T11:02:09.668Z"
  },
- "ko/paris-palace-of-versailles": {
-  "hash": "d2f8619294a8",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "거울의 방(Hall of Mirrors)은 대부분의 사람들이 이곳을 찾는 이유이며, 그 명성이 헛되지 않습니다: 정원 창문 열일곱 개와...",
-  "at": "2026-08-16T11:02:14.375Z"
- },
- "ko/provence-abbaye-notre-dame-de-senanque": {
-  "hash": "0409a8a3eb1d",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "도로가 관목 참나무와 향나무 사이로 내려가다가 갑자기 계곡이 펼쳐지며 눈앞에 나타난다: 야트막한 분지에 홀로 자리 잡은...",
-  "at": "2026-08-16T11:02:20.150Z"
- },
- "ko/shanghai-yu-garden": {
-  "hash": "b6cabfa9fdbb",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "곳곳의 연못에는 통통하게 살찐 잉어들이 가득하며, 돌다리들은 곧게 뻗은 것도 있고 악령은 모퉁이를 돌지",
-  "at": "2026-08-16T11:02:23.845Z"
- },
- "ko/rome-luna": {
-  "hash": "32e3b03e7204",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "우주를 테마로 한 메뉴 이름은 오픈 이후 매장의 정체성과 소셜 미디어 존재감의 일부가 된 재치 있는 요소입니다.",
-  "at": "2026-08-16T11:02:24.963Z"
- },
- "ko/tainan-anping-old-street": {
-  "hash": "b4f50a621eca",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "앉을 자리는 많지 않고, 대부분 큰길에서 벗어난 정식 식당들을 위한 자리이기 때문입니다.",
-  "at": "2026-08-16T11:02:31.023Z"
- },
  "ko/ubud-sacred-monkey-forest-sanctuary": {
   "hash": "39564d0e69b3",
   "score": 1,
   "registerBreak": true,
   "worst": "보기도 전에 냄새부터 느껴진다 — 축축한 돌, 향, 짙은 정글의 공기.",
   "at": "2026-08-16T11:02:41.798Z"
- },
- "ko/xi-an-2026-xi-an-grand-prix-snooker": {
-  "hash": "ed0fc853a51e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "과거 중국에서 열린 랭킹 대회들은 조명 아래 메인 테이블 하나와 초반 예선용 보조 테이블들을 갖춘 전용 스포츠홀이나 컨벤션 센터",
-  "at": "2026-08-16T11:02:42.824Z"
- },
- "ja/agra-taj-terrace": {
-  "hash": "708dd50f0fcf",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "これは、アグラが抱えるとても特有の問題に対する、屋上ダイニングという答えです。",
-  "at": "2026-08-16T11:02:44.135Z"
  },
  "ja/busan-haeundae-traditional-market": {
   "hash": "dd138e5a1aff",
@@ -27418,124 +26830,12 @@
   "worst": "ここに来る理由は、ビーチと裏路地の間にあるギャップにある。",
   "at": "2026-08-16T11:03:03.591Z"
  },
- "ja/jakarta-the-sounds-project-vol-9": {
-  "hash": "eb15979693dd",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "アンチョールの娯楽エリア周辺の駐車場はイベント開催週末にはすぐ満車になるためです。",
-  "at": "2026-08-16T11:03:09.333Z"
- },
- "ja/los-angeles-lielle": {
-  "hash": "d78b74c6a2e0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "今この瞬間、予約帳が報いてくれないのはまさに「気まぐれさ」なのです。",
-  "at": "2026-08-16T11:03:16.670Z"
- },
  "ja/makati-kariton-x-sabi-sounds": {
   "hash": "4fb7512308dc",
   "score": 1,
   "registerBreak": false,
   "worst": "日はコーヒーとジェラートの店として、日が沈んだ後はレコードバー件小皿料理の店として機能する、一つの場所が生まれた。",
   "at": "2026-08-16T11:03:17.491Z"
- },
- "ja/valencia-torres-de-serranos": {
-  "hash": "8894735d8451",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "大聖堂のミカレテ塔とシウタット・ベリャの入り組んだ屋根々が広がる。",
-  "at": "2026-08-16T11:03:42.037Z"
- },
- "ja/xi-an-2026-xi-an-grand-prix-snooker": {
-  "hash": "4c32d82f5749",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "こうしたランキングイベントは世界ランキングに直結するため、テーブルに立つ選手たちにとっては賞金以上に賭けるものがあります",
-  "at": "2026-08-16T11:03:42.365Z"
- },
- "ja/miami-lafayette-miami": {
-  "hash": "28aaa9759a27",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "ポーション量や価格帯は、華やかな目的地型レストランというより、本格的な地元密着型レストランに典型的な中価格帯に収まっており",
-  "at": "2026-08-16T11:03:42.847Z"
- },
- "es/chuncheon-1-5-dakgalbi": {
-  "hash": "3315a44e0664",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "con una calificación de 4.4 en casi 1,800 reseñas, lo que lo coloca firmemente entre...",
-  "at": "2026-08-16T11:03:58.246Z"
- },
- "es/jiufen-jiufen-old-street": {
-  "hash": "873626608697",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Jiufen trepa por la ladera de una montaña en el distrito de Ruifang (Ruifang District), en Nueva",
-  "at": "2026-08-16T11:04:05.000Z"
- },
- "es/penang-root-house-by-gen": {
-  "hash": "427afa9c13c1",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Root House by Gēn funciona bien como punto de anclaje para una velada que...",
-  "at": "2026-08-16T11:04:16.781Z"
- },
- "es/shanghai-people-s-park": {
-  "hash": "69f96a7cffc1",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Aquí se viene a bajar el ritmo, no a marcar una casilla.",
-  "at": "2026-08-16T11:04:17.517Z"
- },
- "es/tainan-shennong-street": {
-  "hash": "3221c085fe84",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "el antiguo Gran Templo de Matsu (Grand Matsu Temple) y el Templo de Confucio (Confucius",
-  "at": "2026-08-16T11:04:19.308Z"
- },
- "es/taiyuan-jinci": {
-  "hash": "91c42bc2b55f",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "la estación de tren Taiyuan South Railway Station",
-  "at": "2026-08-16T11:04:19.569Z"
- },
- "es/nantes-chateau-des-ducs-de-bretagne": {
-  "hash": "a748dae60f53",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "El château abre todos los días de 10:00 a 19:00, sin cierre a mediodía que haya que",
-  "at": "2026-08-16T11:04:28.757Z"
- },
- "zh/barcelona-gloria-osteria": {
-  "hash": "05498a98a716",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于集团目前尚未针对这家巴塞罗那门店公布具体菜单、价格或详细营业时间等信息（除了其经营理念和瞬间爆红的人气）",
-  "at": "2026-08-16T11:22:04.592Z"
- },
- "zh/bangkok-khao-san-sek": {
-  "hash": "5711f0d63e37",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这种以食材本身讲故事的手法，在高端日料和北欧料理中并不少见，但用在泰式家常食材上却相对罕见",
-  "at": "2026-08-16T11:22:00.640Z"
- },
- "zh/bangkok-the-temple-of-the-emerald-buddha": {
-  "hash": "f30e2ca81fad",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "沿着Na Phra Lan路白墙环绕的寺院外墙走来，第一眼冲击你视线的是那片刺目的光芒——阳光洒在成千上万块镶嵌玻璃马赛克瓦片上",
-  "at": "2026-08-16T11:22:10.680Z"
- },
- "zh/barcelona-park-guell": {
-  "hash": "5de15a70ac5c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "俯瞰整座巴塞罗那城与远处的大海，在铺满trencadís马赛克瓷片的屋顶之下铺展开来时，你就会明白这一切实至名归",
-  "at": "2026-08-16T11:22:14.051Z"
  },
  "zh/beijing-prince-gong-mansion": {
   "hash": "1c64b6c911e4",
@@ -27558,20 +26858,6 @@
   "worst": "这段扶梯之旅其实是香港岛社会生态的一次动态剖面展示，值得在途中几个地方稍作停留",
   "at": "2026-08-16T11:22:11.925Z"
  },
- "zh/chicago-sawada-coffee": {
-  "hash": "8315fcbc01d0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "游客最常犯的错误，就是在下午4点01分跑来还以为店没关，或者以为这里晚上也能聚会",
-  "at": "2026-08-16T11:22:17.345Z"
- },
- "zh/delhi-nisaba": {
-  "hash": "e326f54c82ba",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这就是NISABA——名厨Manish Mehrotra在执掌Indian Accent(印度这一全国最负盛名的餐厅之一的菜单)二十年后",
-  "at": "2026-08-16T11:22:14.871Z"
- },
  "zh/east-rutherford-bruno-mars-the-romantic-tour": {
   "hash": "b4c6dc0d7192",
   "score": 1,
@@ -27592,20 +26878,6 @@
   "registerBreak": false,
   "worst": "这里彻头彻尾是一座步行公园。",
   "at": "2026-08-16T11:22:40.800Z"
- },
- "zh/fukuoka-fuglen-coffee-keyakidori": {
-  "hash": "0938211838d1",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "据说，随着天色渐暗、夜幕降临，这个空间会转变为酒吧服务模式——这正是 Fuglen 的招牌操作，同一个吧台和座椅摇身一变成为鸡尾酒吧的舞台。",
-  "at": "2026-08-16T11:22:23.292Z"
- },
- "zh/gyeongju-gyeongju-national-museum": {
-  "hash": "5160119a8425",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "博物馆步行或短途乘车即可到达大陵苑古墓群和瞻星台天文台，地处庆州历史核心区，而非现代化的巴士客运站附近。",
-  "at": "2026-08-16T11:22:35.978Z"
  },
  "zh/goa-shri-nageshi-temple": {
   "hash": "f8a7340a70a5",
@@ -27635,34 +26907,6 @@
   "worst": "凑成一个充实的尖沙咀博物馆之旅下午。",
   "at": "2026-08-16T11:05:53.498Z"
  },
- "zh/ibiza-streetxo-ibiza": {
-  "hash": "018d1436b077",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "作为一种餐饮形式,StreetXO 的标志性特征是围绕开放式厨房打造的中央吧台——其重点在于视觉呈现与美食体验并重",
-  "at": "2026-08-16T11:22:25.613Z"
- },
- "zh/ipoh-han-chin-pet-soo": {
-  "hash": "cdc05aa770af",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这些共同勾勒出怡保的财富，以及其独具特色的殖民建筑风格，是如何建立在从近打谷挖出的锡矿石之上的。",
-  "at": "2026-08-16T11:22:35.042Z"
- },
- "zh/istanbul-kinu": {
-  "hash": "e24c80285569",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这份底蕴由此可见一斑：kinu 卖的不只是饮品，它是在向一座早已逐渐培养出自己的抹茶爱好者社群的城市，呈现一整套围绕抹茶的美学与仪式。",
-  "at": "2026-08-16T11:22:39.227Z"
- },
- "zh/incheon-eurwangni-beach": {
-  "hash": "81a13a801765",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这种毫无门槛的开放感，加上头顶不时掠过的飞机景观，正是乙旺里值得在飞行前特意绕道一游，而不仅仅是打卡走过的海滩的原因。",
-  "at": "2026-08-16T11:22:56.171Z"
- },
  "zh/jakarta-the-sounds-project-vol-9": {
   "hash": "cd16bd1a377a",
   "score": 1,
@@ -27670,26 +26914,12 @@
   "worst": "因此依赖公共交通的游客需要预留额外时间，并在最后一段路程搭配打车软件。",
   "at": "2026-08-16T11:22:42.810Z"
  },
- "zh/kaohsiung-dome-of-light": {
-  "hash": "8c12776b4d1f",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "从那个角度能看到整个放射状构图的全貌，而不是中心透视缩短后的样子",
-  "at": "2026-08-16T11:22:43.847Z"
- },
  "zh/kobe-kobe-harborland": {
   "hash": "fc31d8e74665",
   "score": 1,
   "registerBreak": false,
   "worst": "但换来的是规模上的丰富：好几座商场、一座摩天轮、开阔的港湾景色，餐厅数量多到你可以一周每晚都换着花样吃。",
   "at": "2026-08-16T11:06:14.104Z"
- },
- "zh/las-vegas-springs-preserve": {
-  "hash": "556b28d8f5b4",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "没有什么比开车过去却发现大门紧闭更令人沮丧的了。",
-  "at": "2026-08-16T11:23:02.604Z"
  },
  "zh/lantau-island-po-lin-monastery-restaurant": {
   "hash": "4736097e66c4",
@@ -27718,13 +26948,6 @@
   "registerBreak": false,
   "worst": "由于这是一处位于公共街道上的露天古迹，全天24小时、每天都可以参观——没有闸门、售票处，也没有闭馆时间需要顾虑。",
   "at": "2026-08-16T11:22:58.512Z"
- },
- "zh/miami-joe-s-stone-crab": {
-  "hash": "883d6ccb2635",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "当时乔氏为本地顾客提供更丰盛的菜品，穿插在各道海鲜之间。",
-  "at": "2026-08-16T11:22:56.086Z"
  },
  "zh/milan-langosteria-montenapoleone": {
   "hash": "13f5703e8a43",
@@ -27761,26 +26984,12 @@
   "worst": "你不必非得在嘉年华(Carnival)季节到访新奥尔良,才能真正理解狂欢节(Mardi Gras)是什么样子——只要走进",
   "at": "2026-08-16T11:06:55.714Z"
  },
- "zh/new-orleans-napoleon-house": {
-  "hash": "a1daa42dfe7d",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这栋建筑建于1797年，大约在1914年，这座克里奥尔风格(Creole)小屋才逐渐演变成如今的餐厅模样",
-  "at": "2026-08-16T11:23:11.506Z"
- },
  "zh/new-taipei-bopiliao-historical-block": {
   "hash": "a4e011245bdf",
   "score": 1,
   "registerBreak": false,
   "worst": "当地人把这里当成抄近路和拍照的背景,和把它当成历史景点参观差不多常见——看到街区融入日常人流",
   "at": "2026-08-16T11:07:01.688Z"
- },
- "zh/nha-trang-po-nagar-temple": {
-  "hash": "41d0deffb8c8",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "鉴于该景点在数万条评价中获得4.5星的评分，可以预见这里虽历经岁月洗礼，却也深受游客喜爱",
-  "at": "2026-08-16T11:23:09.923Z"
  },
  "zh/phong-nha-phong-nha-ke-bang-national-park": {
   "hash": "cc7c427eafcd",
@@ -27803,47 +27012,12 @@
   "worst": "老城并非后来重建的仿古街区——它就坐落在圣地亚哥最早的非原住民聚居地原址之上。",
   "at": "2026-08-16T11:07:17.925Z"
  },
- "zh/singapore-milli": {
-  "hash": "e4e118d799bd",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于该场所位于国家古迹建筑内，前往天台通常需经由一部专用电梯或独立入口，与美术馆需购票参观的展厅分开",
-  "at": "2026-08-16T11:23:05.203Z"
- },
- "zh/singapore-smash-street": {
-  "hash": "e4bbab493393",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "将同样的理念应用到 smash burger(压制汉堡)这一近年来席卷全球美食城市的风格上，说明这绝非普通的快休闲连锁复制品。",
-  "at": "2026-08-16T11:23:18.746Z"
- },
  "zh/stanley-stanley-promenade": {
   "hash": "bfb8e2565a17",
   "score": 1,
   "registerBreak": false,
   "worst": "相比几分钟外的赤柱市场，这里显得低调得多，也因此成为一处真正能让人放松的对照之地。",
   "at": "2026-08-16T11:07:35.258Z"
- },
- "zh/taipei-urban-paradise": {
-  "hash": "c2d6fa448466",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "多次少量地造访每个站点，既是一种礦仪礦节，也是尝遍所有菜品的更好策略。",
-  "at": "2026-08-16T11:23:19.961Z"
- },
- "zh/washington-dc-old-ebbitt-grill": {
-  "hash": "1a8faa5e0c4a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这里，生蠔壁落在碎冰上会发出清脆声响，浓缩咖啡机在早餐时段嘶嘶作响，噪音水平从早上8点的低声细语",
-  "at": "2026-08-16T11:23:20.335Z"
- },
- "zh/yogyakarta-the-lost-world-castle": {
-  "hash": "092d3eb391a6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "由于地处火山较高处，叫车软件的可用性可能不太稳定，建议提前安排好返程",
-  "at": "2026-08-16T11:23:24.157Z"
  },
  "es/austin-museum-of-the-weird": {
   "hash": "795517c56c27",
@@ -28062,13 +27236,6 @@
   "worst": "두껍고 위로 갈수록 가늘어지는 이 부벽들은 주변의 더 새로운 건물들을 무너뜨린 지진에도 견뎌낼 수 있도록 지어졌습니다.",
   "at": "2026-08-31T12:56:27.543Z"
  },
- "ko/cappadocia-uchisar-castle": {
-  "hash": "f0226b0f0dc5",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이는 주말 낮부터 저녁까지 몰리는 혼잡 시간대를 제외한 오전 7시~오후 9시 개방 시간 전체에 해당합니다.",
-  "at": "2026-08-31T15:20:55.391Z"
- },
  "zh/antalya-perge-ancient-city": {
   "hash": "a4666a7ee4ce",
   "score": 1,
@@ -28188,13 +27355,6 @@
   "worst": "방문객들이 가장 흔히 저지르는 실수는 모든 경기장이 나고야 시내 안에 있다고 생각하는 것일 가능성이 큽니다.",
   "at": "2026-08-20T08:26:42.221Z"
  },
- "zh/bali-oryn": {
-  "hash": "9fb3fc01bd63",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "正因为地处这条街上，从乌布中心大部分住宿步行即可到达——只要你住在乌布皇宫附近，或是猴林路北段一带",
-  "at": "2026-08-20T08:28:30.241Z"
- },
  "zh/mumbai-rameshwaram-cafe": {
   "hash": "75130159e926",
   "score": 1,
@@ -28306,13 +27466,6 @@
   "registerBreak": false,
   "worst": "벤캡 뮤지엄은 바기오 여행 코스에서 이미 잘 알려진 명소인 만큼 숨겨진 장소라기보다는 꾸준히",
   "at": "2026-08-31T12:55:40.400Z"
- },
- "ko/bukhara-bolo-hauz-mosque": {
-  "hash": "e65197a0f6ff",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "많은 방문객이 흔히 하는 실수는 아르크 성채 관람 전에 잠깐 들르는 5분짜리 코스�正 볼로 하우즈를 취급",
-  "at": "2026-08-31T12:55:26.580Z"
  },
  "zh/baguio-bell-church": {
   "hash": "d6f9984951e5",
@@ -28664,13 +27817,6 @@
   "worst": "사흘 동안 이 도시 특유의 느긋한 분위기는 사라지고, 그 자리를 V6 하이브리드 엔진 스무 대가 내지르는 비명 같은 소리와...",
   "at": "2026-08-24T08:36:12.397Z"
  },
- "ko/bali-oryn": {
-  "hash": "d8398cc7afa4",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이곳은 불 — 훈연, 그을림, 향신료 — 을 중심으로 세 가지 모두를 받쳐줄 수 있게 설계된 주류 리스트를 갖춘 레스토랑 겸 바다.",
-  "at": "2026-08-24T08:36:16.715Z"
- },
  "ko/bangkok-roast8ry-bangkok": {
   "hash": "22d6a321ed50",
   "score": 1,
@@ -28993,13 +28139,6 @@
   "worst": "Ese entorno lo es todo en esta propuesta.",
   "at": "2026-08-28T09:07:30.523Z"
  },
- "ja/beijing-arabica-baitasi-store": {
-  "hash": "b8b072be983e",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "エスプレッソ、ラテ、店舗によっては抹茶メニュー、そして最小限の座席数です。",
-  "at": "2026-08-28T09:09:53.620Z"
- },
  "ja/clarke-quay-fort-canning-park": {
   "hash": "5d9c4fa9b273",
   "score": 1,
@@ -29048,13 +28187,6 @@
   "registerBreak": false,
   "worst": "在这一带的新加坡，很少有地方能像这座山丘一样，把殖民历史、古老的王室传说和纯粹的绿意同时收进一处。",
   "at": "2026-08-28T09:08:25.009Z"
- },
- "zh/dubai-nobu-the-link-one-za-abeel": {
-  "hash": "bf5ccb520116",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "这是一家坐落在已然闻名遐迩的工程奇迹之中的目的地餐厅。",
-  "at": "2026-08-28T09:10:13.410Z"
  },
  "zh/al-barsha-dubai-gold-souk": {
   "hash": "ae520e8df37b",
@@ -29489,13 +28621,6 @@
   "registerBreak": false,
   "worst": "对于一个没有固定菜单、摊贩不断轮换的目的地来说，这个评分相当亮眼",
   "at": "2026-09-01T10:48:19.721Z"
- },
- "zh/banlung-virachey-national-park": {
-  "hash": "4350fb48e230",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "地形在一次徒步中就能经历从茂密低地丛林到开阔草原、草地的转变。",
-  "at": "2026-09-01T10:49:20.506Z"
  },
  "zh/boryeong-national-museum-of-korea": {
   "hash": "1cccd0a90ab1",
