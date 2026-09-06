@@ -1,70 +1,70 @@
 ---
 lang: es
 slug: siem-reap-royal-independence-gardens
-srcHash: '8f01379db296'
+srcHash: '143146eb3231'
 title: 'Jardines de la Independencia Real: guía de viaje de Siem Reap (4,4★)'
-description: 'Los Jardines de la Independencia Real son un parque público situado en la Ruta Nacional 6 (Airport Road) de Siem Reap, abierto las 24 horas y de entrada gratuita. 4,4★ (2.951 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Los Jardines de la Independencia Real son un parque público situado en la Ruta Nacional 6 (Airport Road) de Siem Reap, abierto las 24 horas y de entrada gratuita. Conviene visitarlo temprano por la mañana, cuando el calor aún no aprieta, o después del atardecer, ya que los fines de semana la mayor afluencia se concentra entre las 4pm y las 10pm, cuando los habitantes de la ciudad salen a pasear al anochecer. Basta con reservar entre 30 y 45 minutos si lo visita de camino entre el aeropuerto y el centro o Angkor.
+description: 'Los Jardines de la Independencia Real son un parque público sobre la Ruta Nacional 6 (carretera del Aeropuerto) en Siem Reap, abierto las 24 horas y de entrada gratuita. 4,4★ (2.951 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: Los Jardines de la Independencia Real son un parque público sobre la Ruta Nacional 6 (carretera del Aeropuerto) en Siem Reap, abierto las 24 horas y de entrada gratuita. Conviene visitarlo temprano por la mañana, cuando el calor todavía no aprieta, o después de la puesta de sol, ya que los fines de semana se llena entre las 16:00 y las 22:00 h con vecinos que salen a caminar. Basta con reservar entre 30 y 45 minutos si vas de paso entre el aeropuerto y el centro o Angkor.
 faq:
   - q: ¿Hay que pagar entrada para visitar los Jardines de la Independencia Real?
     a: No, el parque es gratuito y está abierto al público las 24 horas del día, todos los días de la semana.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: La mañana temprano, aproximadamente entre las 6am y las 8am, es el momento más calmado. Los fines de semana, conviene evitar el tramo de 4pm a 10pm, cuando la afluencia local alcanza su punto máximo con los paseos vespertinos y el ejercicio en grupo.
-  - q: ¿Cómo se llega desde el aeropuerto o desde el centro?
-    a: Se encuentra justo sobre la Ruta Nacional 6 (Airport Road), así que cualquier tuk-tuk, taxi o servicio de transporte que circule entre el aeropuerto y el centro de Siem Reap puede dejarle allí en pocos minutos.
-  - q: ¿Cuánto tiempo conviene reservar para la visita?
-    a: La mayoría de los visitantes dedica entre 30 y 45 minutos a pasear entre los estanques y el monumento, más tiempo si se detienen a tomar algo en algún puesto ambulante.
+    a: La mañana temprano, aproximadamente entre las 6:00 y las 8:00 h, es cuando hay más calma. Los fines de semana, conviene evitar el horario de 16:00 a 22:00 h, cuando la afluencia local llega a su punto máximo por los paseos vespertinos y el ejercicio en grupo.
+  - q: ¿Cómo se llega desde el aeropuerto o desde la ciudad?
+    a: El parque está directamente sobre la Ruta Nacional 6 (carretera del Aeropuerto), así que cualquier tuk-tuk, taxi o servicio de transporte privado que circule entre el aeropuerto y el centro de Siem Reap puede dejarte allí en pocos minutos.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: La mayoría de los visitantes pasa entre 30 y 45 minutos recorriendo los estanques y el monumento, más tiempo si se detienen a comer algo en algún puesto ambulante.
   - q: ¿Qué más hay cerca?
-    a: El Wat Preah Prom Rath y el malecón del río Siem Reap están a un corto trayecto en tuk-tuk, lo que permite combinarlos fácilmente en un itinerario de medio día.
+    a: Tanto el Wat Preah Prom Rath como el paseo junto al río Siem Reap están a un corto trayecto en tuk-tuk, lo que permite armar fácilmente un itinerario combinado de medio día.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
-Los Jardines de la Independencia Real se encuentran justo sobre la carretera del aeropuerto, un pulmón verde de árboles frondosos y estanques de lirios que la mayoría de los visitantes atraviesa en coche sin detenerse. Es un error no parar.
+Los Jardines de la Independencia Real están justo sobre la carretera del aeropuerto, una franja verde de árboles frondosos y estanques de lirios que la mayoría de los visitantes deja atrás sin detenerse. Es un error.
 
-En cuanto se deja atrás el ruidoso asfalto de la Ruta Nacional 6, el bullicio del tráfico desaparece casi de inmediato. Los frangipanis dejan caer flores blancas sobre los senderos, monjes con túnicas azafranadas cruzan entre los templos y el aire huele levemente a loto y a césped recién cortado. Es un remanso de calma entre el aeropuerto y los templos.
+En cuanto se deja atrás el ruidoso asfalto de la Ruta Nacional 6, el zumbido del tráfico desaparece casi al instante. Los frangipanis dejan caer flores blancas sobre los senderos, monjes con túnicas azafranadas cruzan entre los santuarios y el aire huele levemente a loto y a césped recién cortado. Es un remanso de calma entre el aeropuerto y los templos.
 
-## Por qué merece la pena una parada
+## Por qué vale la pena parar
 
-El parque debe su nombre a la independencia de Camboya respecto a Francia en 1953, y un monumento que conmemora ese momento histórico se alza en uno de los extremos del recinto. A su alrededor se extienden estanques cubiertos de lotos y nenúfares, puentes peatonales en arco y céspedes cuidados salpicados de frangipanis y palmeras.
+El parque debe su nombre a la independencia de Camboya de Francia en 1953, y un monumento que conmemora ese momento histórico se alza en uno de los extremos del terreno. A su alrededor se extienden estanques cubiertos de loto y nenúfar, puentes peatonales en arco y céspedes bien cuidados salpicados de frangipanis y palmeras.
 
-Los habitantes de la zona vienen aquí a caminar, estirar, hacer aeróbic en grupo al atardecer o simplemente sentarse en un banco a contemplar cómo cambia la luz sobre el agua. No se trata de un rincón secreto, sino de un parque público muy conocido que los residentes de Siem Reap usan de verdad, a diario.
+Los vecinos vienen aquí a caminar, a estirar, a hacer aeróbicos en grupo al atardecer o simplemente a sentarse en un banco y ver cómo cambia la luz sobre el agua. No se trata de un hallazgo secreto, sino de un parque cívico muy conocido que los habitantes de Siem Reap usan de verdad todos los días.
 
 ## Cómo llegar
 
-Los jardines se encuentran justo sobre Airport Road (Ruta Nacional 6), entre el Aeropuerto Internacional de Siem Reap y el centro de la ciudad, por lo que la mayoría de los visitantes pasan por delante camino de un vuelo o de regreso de él.
+Los jardines están directamente sobre la carretera del Aeropuerto (Ruta Nacional 6), entre el Aeropuerto Internacional de Siem Reap y el centro de la ciudad, por lo que la mayoría de los visitantes pasa por aquí de camino a o desde un vuelo.
 
-- En tuk-tuk: un trayecto corto y económico desde la zona del Mercado Viejo (Old Market) o Pub Street, normalmente de 10 a 15 minutos.
-- En bicicleta: las carreteras llanas y tranquilas hacen que el pedaleo desde la mayoría de los alojamientos del centro resulte sencillo.
-- En coche o taxi del aeropuerto: si va camino del aeropuerto o viene de él, pida al conductor que haga una breve parada; hay espacio en el arcén para detenerse.
+- En tuk-tuk: un trayecto corto y económico desde el Mercado Viejo (Old Market) o la zona de Pub Street, normalmente de 10 a 15 minutos.
+- En bicicleta: las calles llanas y tranquilas hacen que sea fácil llegar pedaleando desde la mayoría de los alojamientos de la ciudad.
+- En coche o taxi del aeropuerto: pide al conductor que se detenga un momento si vas hacia el aeropuerto o vienes de él; hay espacio junto a la carretera para parar.
 
-No hay que pagar entrada y las puertas nunca se cierran, ya que el parque permanece abierto oficialmente las 24 horas, todos los días de la semana.
+No hay tarifa de entrada y las puertas nunca se cierran, ya que el parque está oficialmente abierto las 24 horas, los siete días de la semana.
 
 ## Qué ver y hacer
 
 Conviene reservar algo de tiempo para pasear con calma. Entre lo más destacado:
 
-- El propio monumento a la independencia, una estructura escalonada con forma de estupa que se ilumina al caer la noche
-- Estanques de lotos con puentes peatonales de madera, ideales para fotografías sin prisas
-- Céspedes con sombra donde las familias del lugar hacen picnic las tardes de fin de semana
-- Pequeños puestos ambulantes cerca de las entradas que venden cocos, maíz asado y café helado
+- El monumento a la independencia, una estructura escalonada similar a una estupa que se ilumina al caer la noche
+- Estanques de loto con puentes peatonales de madera, ideales para fotos tranquilas
+- Céspedes con sombra donde las familias locales hacen pícnic las tardes de fin de semana
+- Pequeños puestos de vendedores cerca de las entradas
 
-No hay carteles que expliquen la historia con detalle, así que conviene informarse de antemano sobre la independencia de Camboya en 1953 si se busca contexto y no solo un buen paisaje.
+No hay carteles que expliquen la historia en detalle, así que conviene informarse de antemano sobre la independencia de Camboya en 1953 si se busca contexto y no solo paisaje.
 
 ## Cuándo ir
 
-La mañana temprano es el momento más agradable: corredores y grupos de tai chi tienen los senderos casi para ellos solos y el calor todavía no ha apretado. La tarde-noche también funciona bien, cuando el sol pierde fuerza y se encienden las luces del monumento.
+La mañana temprano es el momento más apacible: los corredores y los grupos de tai chi tienen los senderos casi para ellos solos y el calor todavía no ha apretado. La tarde-noche también funciona bien, cuando el sol se suaviza y se encienden las luces del monumento.
 
-Los fines de semana cambian el ritmo del lugar. El tramo de mayor afluencia son las tardes y noches del fin de semana, cuando familias y grupos de amigos llenan los céspedes para pasear al anochecer o improvisar sesiones de ejercicio. Si se prefieren senderos tranquilos y fotos sin gente, lo mejor es visitar entre semana o llegar antes de que se forme ese ambiente del sábado y el domingo.
+Los fines de semana cambian el ritmo del lugar. El tramo de mayor afluencia es el de las tardes y noches de fin de semana, cuando familias y grupos de amigos llenan los céspedes para pasear al atardecer y hacer sesiones improvisadas de ejercicio. Si se buscan senderos tranquilos y fotos sin gente, lo mejor es visitar entre semana o llegar antes de que se forme esa multitud del sábado y el domingo.
 
 ## Cómo visitarlo como un local
 
-Para los camboyanos, este parque es un auténtico espacio verde de barrio y no una atracción con entrada, así que las normas no escritas son informales pero respetuosas.
+Los camboyanos tratan este parque como un verdadero espacio verde de barrio, no como una atracción con entrada, así que el ambiente es informal pero respetuoso.
 
-- Vista ropa ligera y recatada; es un parque público cercano a varios monumentos religiosos, no una playa.
-- Lleve billetes pequeños de riel o de dólar si quiere comprar un coco o un tentempié en algún puesto ambulante; aquí no se admite tarjeta.
-- Únase al grupo en lugar de fotografiarlo: las sesiones de aeróbic vespertinas están abiertas a cualquiera que quiera sumarse.
-- Evite la avalancha del fin de semana entre las 4pm y las 10pm si prefiere tener los estanques para usted solo; la mañana temprano es la verdadera hora de los locales.
-- No espere carteles en inglés ni tienda de recuerdos; esto es infraestructura pública, no una instalación turística, y ahí reside precisamente su encanto.
+- Viste ropa ligera y recatada; es un parque público cercano a varios monumentos religiosos, no una playa.
+- Lleva billetes pequeños de riel o de dólar si quieres un coco o un tentempié de algún puesto ambulante; aquí no se puede pagar con tarjeta.
+- Súmate al grupo en lugar de solo fotografiarlo: las sesiones nocturnas de aeróbicos en grupo están abiertas a cualquiera que quiera unirse.
+- Evita el ajetreo de las tardes y noches de fin de semana si prefieres tener los estanques para ti solo; la madrugada es la verdadera hora de los locales.
+- No esperes carteles en inglés ni una tienda de recuerdos; esto es infraestructura cívica, no una instalación turística, y precisamente ahí está su encanto.
 
-Combínelo con una visita al cercano Wat Preah Prom Rath o un paseo por el malecón del río Siem Reap, ambos a un corto trayecto en tuk-tuk, para completar un recorrido de medio día que no se cruza en ningún momento con las multitudes de los templos principales.
+Combínalo con una parada en el cercano Wat Preah Prom Rath o con un paseo por el río Siem Reap, ambos a un corto trayecto en tuk-tuk, para completar un itinerario de medio día que no se cruza en ningún momento con las multitudes de los templos principales.

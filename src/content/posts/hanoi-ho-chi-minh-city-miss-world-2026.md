@@ -18,7 +18,7 @@ heroImage:
 tags:
   - hanoi
   - event
-quickAnswer: Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the grand finale broadcasts live from Ho Chi Minh City on September 5. Hanoi is expected to host early contestant activities and cultural events, while HCMC anchors the finale; confirm the specific venue, host city split, and ticket sales on the official Miss World channels closer to the date, since these logistics were not finalized at the time of writing.
+quickAnswer: Miss World 2026 — the pageant's 75th anniversary edition — was scheduled to run August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the grand finale broadcast live from Ho Chi Minh City on September 5. Hanoi was expected to host early contestant activities and cultural events, while HCMC was set to anchor the finale; these logistics, including the specific venue, host city split, and ticket sales, were not finalized at the time of writing.
 faq:
   - q: When exactly is Miss World 2026?
     a: August 9 to September 5, 2026, with the grand finale broadcast live from Ho Chi Minh City on September 5. Always check the official Miss World website for any date changes.

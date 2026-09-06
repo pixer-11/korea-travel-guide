@@ -1,67 +1,67 @@
 ---
 lang: es
 slug: battambang-banan-temple
-srcHash: '3884fe153639'
-title: 'Templo de Banan: Guía de viaje de Battambang (4.7★)'
-description: 'El templo de Banan, una ruina de la época de Angkor situada en lo alto de una colina a unos 25 km al sur de Battambang, abre todos los días de 6:00 a 18:00 y se mantiene agradablemente al margen del turismo masivo de los grandes sitios de Angkor. 4.7★ (164 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El templo de Banan, una ruina de la época de Angkor situada en lo alto de una colina a unos 25 km al sur de Battambang, abre todos los días de 6:00 a 18:00 y se mantiene agradablemente al margen del turismo masivo de los grandes sitios de Angkor. Conviene planear la visita a primera hora de la mañana o a última de la tarde para esquivar el calor del mediodía durante la subida, y calcular una hora o dos en total, incluida la ascensión de los 358 escalones. La forma más sencilla de llegar es contratando un tuk-tuk en Battambang para medio día.
+srcHash: 'ccad1eeb5b8d'
+title: 'Templo de Banan: guía de viaje de Battambang (4,7★)'
+description: 'El templo de Banan es una ruina de la era de Angkor situada en una colina a unos 25 km al sur de Battambang, abierta todos los días de 6:00 a 18:00, y se mantiene gratamente al margen del circuito turístico frente a los grandes sitios de Angkor. 4,7★ (164 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: El templo de Banan es una ruina de la era de Angkor situada en una colina a unos 25 km al sur de Battambang, abierta todos los días de 6:00 a 18:00, y se mantiene gratamente al margen del circuito turístico frente a los grandes sitios de Angkor. Conviene planear la visita a primera hora de la mañana o al final de la tarde para evitar el calor del mediodía durante el ascenso, y reservar entre una y dos horas, incluida la subida de 358 escalones. La forma más sencilla de llegar es contratar un tuk-tuk en Battambang por medio día.
 faq:
   - q: ¿Cómo se llega al templo de Banan desde Battambang?
     a: Se puede contratar un tuk-tuk en la ciudad de Battambang; el trayecto dura unos 45 minutos en cada sentido. La mayoría de los conductores ofrecen una tarifa de medio día que incluye el tiempo de espera y una parada en Phnom Sampov.
   - q: ¿Cuántos escalones hay que subir?
-    a: Son 358 escalones de piedra los que suben por la ladera de la colina hasta las torres, sin apenas sombra en la mayor parte del trayecto, así que conviene dosificar el esfuerzo y llevar agua.
+    a: Son 358 escalones de piedra los que llevan hasta las torres en lo alto de la colina, y la mayor parte del ascenso carece de sombra, así que conviene ir a un ritmo pausado y llevar agua.
   - q: ¿Cuál es el horario de apertura?
     a: El templo de Banan abre todos los días de 6:00 a 18:00, incluidos los fines de semana.
-  - q: ¿Cuál es el mejor momento para visitarlo y evitar el calor y las aglomeraciones?
-    a: Lo mejor es ir a primera hora de la mañana (antes de las 7 u 8) o unas dos horas antes del cierre, ya avanzada la tarde. El mediodía, entre las 11:00 y las 14:00, es el tramo más caluroso y menos cómodo.
-  - q: ¿Merece la pena combinar el templo de Banan con otras paradas?
-    a: 'Sí: suele combinarse con las cuevas de Phnom Sampov y las llamadas killing caves en la misma excursión de medio día desde Battambang.'
+  - q: ¿Cuál es el mejor momento para visitarlo y evitar el calor y las multitudes?
+    a: Lo ideal es ir a primera hora de la mañana (antes de las 7 u 8) o unas dos horas antes del cierre por la tarde; el mediodía, entre las 11:00 y las 14:00, es el momento más caluroso e incómodo.
+  - q: ¿Vale la pena combinar el templo de Banan con otras paradas?
+    a: 'Sí: suele combinarse con las cuevas de Phnom Sampov y las cuevas de la muerte en la misma excursión de medio día desde Battambang.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
-El templo de Banan se alza sobre una colina empinada y cubierta de selva, a unos 25 km al sur de Battambang, y parece una versión más pequeña y silenciosa de Angkor Wat abandonada a la intemperie. Cinco torres de arenisca en ruinas coronan la cima, con relieves suavizados por siglos de lluvia y líquenes. Las raíces serpentean sobre dinteles caídos. Apenas unos pocos visitantes rompen el silencio del lugar.
+El templo de Banan se alza sobre una colina empinada y cubierta de selva, a unos 25 km al sur de Battambang, y parece una versión más pequeña y silenciosa de Angkor Wat abandonada a merced de los elementos. Cinco torres de arenisca, ya erosionadas, coronan la cima, con tallas suavizadas por siglos de lluvia y líquenes. Las raíces serpentean sobre los dinteles caídos. Pocos visitantes rompen el silencio del lugar.
 
-La subida se siente antes de que las torres siquiera aparezcan a la vista. Una escalinata de 358 escalones de piedra desiguales trepa en línea recta por la ladera, flanqueada por árboles de frangipani y, de vez en cuando, alguna vaca pastando. Casi no hay sombra en la mayor parte del recorrido, así que el calor se intensifica rápido en cuanto el sol despunta por encima de los árboles.
+El ascenso se percibe antes incluso de ver las torres. Una larga escalinata de peldaños de piedra irregulares asciende directamente por la ladera, flanqueada por árboles de frangipani y, de vez en cuando, alguna vaca pastando. Casi no hay sombra en todo el trayecto, por lo que el calor se intensifica rápidamente en cuanto el sol asoma por encima de la línea de árboles.
 
 ## Cómo llegar
 
-La mayoría de los viajeros contrata un tuk-tuk en la ciudad de Battambang por medio día o el día completo, a menudo combinando la visita con las cercanas cuevas de Phnom Sampov o con una parada en algún taller de papel de arroz o pasta de pescado en el camino. El trayecto dura unos 45 minutos por una mezcla de carreteras asfaltadas y caminos de tierra.
+La mayoría de los viajeros contratan un tuk-tuk en la ciudad de Battambang por medio día o el día completo, a menudo combinando la visita con las cercanas cuevas de Phnom Sampov o con una parada en algún taller de papel de arroz o pasta de pescado en el camino. El trayecto dura unos 45 minutos por carreteras que alternan asfalto y tierra.
 
-Alquilar una moto también es una opción válida si se está cómodo circulando por caminos rurales en mal estado. En cualquier caso, conviene acordar el precio y la hora de regreso con el conductor antes de salir, ya que después apenas circula tráfico al que hacer señas.
+Alquilar una moto también es una opción, siempre que uno se sienta cómodo circulando por caminos rurales más accidentados. En cualquier caso, conviene acordar el precio y la hora de regreso con el conductor antes de partir, ya que después apenas circula tráfico al que hacer señas.
 
-## La subida a la cima
+## La subida hasta la cima
 
-La escalinata es el gran protagonista incluso antes de llegar a las ruinas. Algunos lugareños ofrecen llevar a cuestas, tipo caballito, a los visitantes cansados o de mayor edad, a cambio de una propina que se negocia sobre la marcha; es una práctica habitual y sin mayor complicación, no algo de lo que haya que preocuparse.
+La escalinata es, en sí misma, el gran protagonista antes incluso de llegar a las ruinas. Algunos lugareños ofrecen cargar a cuestas a los visitantes cansados o de mayor edad a cambio de una propina negociada; se trata de una pequeña práctica habitual y discreta, no de algo por lo que preocuparse.
 
-Conviene dosificar el ritmo, llevar agua y hacer pausas en los rellanos de las curvas. Cuanto más se asciende, más se despliegan abajo los arrozales, formando un mosaico verde y dorado que se extiende hacia el horizonte.
+Conviene ir a un ritmo pausado, llevar agua y detenerse en los rellanos de las curvas. Cuanto más se asciende, más se despliegan abajo los arrozales, formando un mosaico verde y dorado que se extiende hacia el horizonte.
 
 ## Lo que se encuentra en la cima
 
-Las cinco torres datan de los siglos XI y XII, construidas bajo reyes jemeres antes incluso de que se terminara el propio Angkor Wat. Los dinteles tallados sobre varias puertas todavía muestran apsaras y escenas de la mitología hindú, desgastadas pero reconocibles.
+Las cinco torres datan de los siglos XI y XII, construidas bajo reyes jemeres antes de que se terminara el propio Angkor Wat. Los dinteles tallados sobre varias puertas todavía muestran apsaras y escenas de la mitología hindú, desgastadas pero aún legibles.
 
-A diferencia de los templos restaurados de Angkor, Banan transmite una sensación de reparación inacabada: vigas sostienen piedras a punto de derrumbarse y la vegetación ha reconquistado parte de la estructura. Es un lugar que premia la mirada pausada, no la parada rápida para hacer una foto.
+A diferencia de los templos restaurados de Angkor, Banan conserva un aspecto de reparación inacabada: vigas sostienen piedras inclinadas y la vegetación ha recuperado parte de la estructura. Es un lugar que recompensa la observación pausada, más que una simple parada rápida para fotografiar.
 
-Conviene llevar una linterna para asomarse a las cámaras interiores más oscuras. Merece la pena reservar entre 30 y 45 minutos en la cima antes de emprender el descenso.
+Conviene llevar una linterna para asomarse a las cámaras interiores más oscuras. Se recomienda dedicar entre 30 y 45 minutos a la cima antes de iniciar el descenso.
 
 ## Cuándo ir
 
-El sitio abre todos los días de 6:00 a 18:00, y por la mañana es cuando más conviene ir. Llegar hacia las 7 u 8 significa subir con aire más fresco y ver las torres bañadas por una luz más suave.
+El sitio abre todos los días de 6:00 a 18:00, y la mañana es el momento más recomendable. Llegar hacia las 7 u 8 de la mañana permite subir con temperaturas más frescas y ver las torres bajo una luz más suave.
 
-La otra franja recomendable es a última hora de la tarde, unas dos horas antes del cierre, cuando el calor ha remitido y el sol bajo ilumina de forma rasante los relieves. El tramo más duro es el mediodía, entre las 11:00 y las 14:00: los escalones de piedra irradian calor y no hay sombra que los mitigue.
+Al final de la tarde, unas dos horas antes del cierre, se abre otra buena franja: el calor ha cedido y el sol bajo ilumina las tallas de forma rasante. El mediodía, entre las 11:00 y las 14:00, es el tramo más duro, ya que los escalones de piedra irradian calor sin ofrecer sombra alguna.
 
-La temporada de lluvias, de mayo a octubre, tiñe los arrozales de un verde intenso, aunque puede dejar los escalones resbaladizos. La temporada seca, de noviembre a febrero, ofrece el terreno más firme y las vistas más despejadas del valle.
+La temporada de lluvias, de mayo a octubre, tiñe de un verde intenso los arrozales de los alrededores, aunque puede volver resbaladizos los escalones. La temporada seca, de noviembre a febrero, ofrece el terreno más firme y las vistas más despejadas del valle.
 
 ## Cómo visitarlo como un local
 
-Banan no recibe las multitudes que abarrotan Angkor, así que rara vez hay cola al pie de la escalinata. Esa tranquilidad forma parte de su encanto: conviene tratarlo como un lugar para demorarse, no para tachar rápido de la lista.
+Banan no recibe las multitudes que abarrotan Angkor, así que rara vez hay cola al pie de la escalinata. Precisamente esa tranquilidad es parte de su atractivo: conviene tratarlo como un lugar para demorarse, no para tachar de una lista a toda prisa.
 
-Es recomendable llevar billetes pequeños de riel o de dólar, ya que cerca de la base hay vendedores informales de agua y aperitivos, y aquí todo se paga en efectivo. También conviene vestir con recato, cubriendo hombros y rodillas, puesto que, incluso entre las ruinas, el lugar sigue siendo un sitio de culto activo para algunos visitantes.
+Es recomendable llevar billetes pequeños de riel o de dólar, ya que algunos vendedores informales cerca de la base venden agua y aperitivos, y aquí todo se paga en efectivo. Conviene vestir de forma modesta, cubriendo hombros y rodillas, dado que se trata de un sitio que sigue teniendo un valor espiritual activo para algunos visitantes, incluso entre las ruinas.
 
-- Usar calzado cerrado, no sandalias: los escalones son irregulares y a veces están sueltos
+- Usar calzado cerrado, no sandalias, ya que los escalones son irregulares y a veces inestables
 - Llevar más agua de la que se cree necesaria
-- Evitar el sol del mediodía si el horario lo permite
-- Dar una propina modesta a quien ayude a subir una bolsa o a un niño por la escalinata
+- Evitar el sol del mediodía si es posible ajustar el horario
+- Dar una propina modesta si alguien ayuda a subir una bolsa o a un niño por la escalinata
 - Combinar la visita con Phnom Sampov para aprovechar mejor el trayecto
 
-El error más habitual es tratar esta visita como una parada rápida de 20 minutos. Subir la escalinata con prisa bajo el calor y bajar corriendo después hace perder lo que realmente vale la pena: quedarse un momento en silencio entre torres más antiguas que Angkor Wat, sin nadie más a la vista y con un valle verde extendiéndose abajo.
+El error más frecuente es tratar esta visita como una parada rápida de 20 minutos. Subir la escalinata a toda prisa bajo el calor, para luego bajar igual de deprisa, hace perder lo esencial: la posibilidad de quedarse en silencio entre torres más antiguas que el propio Angkor Wat, sin nadie más a la vista y con un valle verde extendiéndose abajo.

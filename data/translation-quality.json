@@ -28791,32 +28791,32 @@
   "at": "2026-08-31T12:56:34.738Z"
  },
  "es/bali-museum-pasifika-bali": {
-  "hash": "3d8cfdee69cc",
+  "hash": "53a0bc2c82b0",
   "score": 1,
   "registerBreak": false,
-  "worst": "Sección de maestros balineses (Le Mayeur, Affandi, obras de la época de Spies)",
-  "at": "2026-08-25T08:27:47.604Z"
+  "worst": "...moldearon y fueron moldeados por la cultura balinesa.",
+  "at": "2026-09-06T11:17:16.327Z"
  },
  "ja/bali-museum-pasifika-bali": {
-  "hash": "8b4f98c75bab",
+  "hash": "b6b3c85e9671",
   "score": 1,
   "registerBreak": false,
-  "worst": "どちらも実際の混雑データに基づいた、根拠のある空いている時間帯です。",
-  "at": "2026-08-25T08:27:51.949Z"
+  "worst": "一般的な美術館と比べて、子供たちは多彩な質感や展示物を楽しむ傾向があります。",
+  "at": "2026-09-06T11:17:25.931Z"
  },
  "ko/bali-museum-pasifika-bali": {
-  "hash": "7616b6fef9a9",
+  "hash": "0793a0e3cd9e",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 저지르는 실수는 해변 클럽 사이에 잠깐 들르는 20분짜리 코스로 여기는 것입니다.",
-  "at": "2026-08-25T08:27:54.487Z"
+  "worst": "말끔하게 정돈된 누사두아의 리조트 단지 한복판에 본격적인 미술관이 있을 거라고는 누구도 예상하지 못합니다.",
+  "at": "2026-09-06T11:17:39.738Z"
  },
  "zh/bali-museum-pasifika-bali": {
-  "hash": "5212e348bc62",
+  "hash": "a22798b9e7ee",
   "score": 1,
   "registerBreak": false,
-  "worst": "从勒迈耶、阿凡迪等巴厘岛艺术大师的作品，到爪哇宫廷绘画，再到太平洋部落艺术、中国瓷器...",
-  "at": "2026-08-25T08:29:03.944Z"
+  "worst": "这些藏品记录了外来者——荷兰殖民者、四处游历的画家、太平洋商人——如何塑造巴厘文化，又被巴厘文化所塑造。",
+  "at": "2026-09-06T11:17:55.912Z"
  },
  "es/siem-reap-wat-bo": {
   "hash": "6976507c7a7b",
@@ -28854,11 +28854,11 @@
   "at": "2026-08-26T08:29:12.058Z"
  },
  "es/bali-pura-tirta-empul": {
-  "hash": "7b9ef24585a0",
+  "hash": "5bb2eb48c886",
   "score": 1,
   "registerBreak": false,
-  "worst": "El pago de la ent",
-  "at": "2026-08-26T08:29:15.459Z"
+  "worst": "...que merece la pena visitar con el paseo adicional si se dispone de tiempo.",
+  "at": "2026-09-06T11:17:22.613Z"
  },
  "es/clarke-quay-tan-si-chong-su-temple": {
   "hash": "f6d3b028e691",
@@ -28875,11 +28875,11 @@
   "at": "2026-08-26T08:29:27.453Z"
  },
  "ja/bali-pura-tirta-empul": {
-  "hash": "391c5dec3611",
+  "hash": "008a9dd33fe8",
   "score": 1,
   "registerBreak": false,
-  "worst": "石の吐水口の下で頭を垂れる人々の姿——ガイドブックで見かけるあの写真は、まさにここプラ・ティルタ・ウンプルで撮られたものです。",
-  "at": "2026-08-26T08:29:31.609Z"
+  "worst": "非常に多くの人が訪れる場所であるだけに、地元流の本当のコツは「秘密の穴場」ではなく「タイミング」にあります。",
+  "at": "2026-09-06T11:17:31.361Z"
  },
  "ja/clarke-quay-tan-si-chong-su-temple": {
   "hash": "bbb1f785ee52",
@@ -28896,11 +28896,11 @@
   "at": "2026-08-31T12:55:46.123Z"
  },
  "ko/bali-pura-tirta-empul": {
-  "hash": "2d9349c5a7df",
+  "hash": "0b2147322317",
   "score": 1,
   "registerBreak": false,
-  "worst": "각 수로에서는 사진을 찍으려고 오래 머물기보다 줄을 따라 움직이시고, 목욕을 마쳤다면 다음 사람이 이용할 수 있도록 자리를 비켜주시기 바랍니다.",
-  "at": "2026-08-31T12:55:48.405Z"
+  "worst": "이곳은 방문객이 매우 많은 곳이라, 현지인만 아는 진짜 요령은 비밀스러운 정보가 아니라 바로 '타이밍'입니다.",
+  "at": "2026-09-06T11:17:45.361Z"
  },
  "ko/clarke-quay-tan-si-chong-su-temple": {
   "hash": "2998e6dfb55a",
@@ -28917,25 +28917,25 @@
   "at": "2026-08-26T08:30:18.660Z"
  },
  "zh/bali-pura-tirta-empul": {
-  "hash": "05181776a8c8",
+  "hash": "647720398674",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里就是巴厘岛的圣泉寺，游客在石制水口下低头沐浴的经典照片，拍的正是这个地方。",
-  "at": "2026-08-26T08:30:28.378Z"
+  "worst": "庙方工作人员对此看得很清楚。排队轮到自己时该走就走，别为了摆拍多逗留",
+  "at": "2026-09-06T11:17:57.870Z"
  },
  "zh/clarke-quay-tan-si-chong-su-temple": {
-  "hash": "b84a62306181",
+  "hash": "92b8d8c75de3",
   "score": 1,
   "registerBreak": false,
   "worst": "不必把它当作行程中的重头戏，只当作河畔行程间的一次小小停留，它自然而然就值得被写进你的行程单里。",
   "at": "2026-08-26T08:30:35.958Z"
  },
  "es/battambang-banan-temple": {
-  "hash": "8ca6cdce4a7c",
+  "hash": "1897aa5edb6a",
   "score": 0,
   "registerBreak": false,
   "worst": "",
-  "at": "2026-08-26T09:49:19.162Z"
+  "at": "2026-09-06T11:17:24.129Z"
  },
  "es/kampot-green-cathedral": {
   "hash": "340c40b726aa",
@@ -28952,11 +28952,11 @@
   "at": "2026-08-26T09:49:27.280Z"
  },
  "ja/battambang-banan-temple": {
-  "hash": "601876bb5ff2",
-  "score": 1,
+  "hash": "2b8eaf60e704",
+  "score": 0,
   "registerBreak": false,
-  "worst": "アンコールワットより古い塔の間に人影もなく静かに立ち、眼下に広がる緑の谷を眺める。",
-  "at": "2026-08-26T09:49:29.632Z"
+  "worst": "",
+  "at": "2026-09-06T11:17:32.962Z"
  },
  "ja/kampot-green-cathedral": {
   "hash": "2e31d9dc7047",
@@ -28973,11 +28973,11 @@
   "at": "2026-08-26T09:49:34.207Z"
  },
  "ko/battambang-banan-temple": {
-  "hash": "374fc49a3775",
+  "hash": "0aba53ed014c",
   "score": 1,
   "registerBreak": false,
-  "worst": "규모가 작고 조용한, 마치 세월의 손길에 그대로 맡겨진 앙코르 와트의 사촌 같은 모습입니다.",
-  "at": "2026-08-26T09:49:36.736Z"
+  "worst": "마치 앙코르 와트의 작고 조용한 사촌뻘 유적이 세월의 풍파에 그대로 방치된 듯한 모습입니다.",
+  "at": "2026-09-06T11:17:47.666Z"
  },
  "ko/kampot-green-cathedral": {
   "hash": "041b127b3ddc",
@@ -28994,11 +28994,11 @@
   "at": "2026-08-26T09:49:48.176Z"
  },
  "zh/battambang-banan-temple": {
-  "hash": "7ea3901e5eb7",
+  "hash": "a25ce58d7daa",
   "score": 1,
   "registerBreak": false,
-  "worst": "看上去就像是吴哥窟一个更小、更安静的\"表亲\"，被遗留在风雨之中，任凭岁月侵蚀",
-  "at": "2026-08-26T09:49:53.798Z"
+  "worst": "巴南寺坐落在马德望以南约25公里处一座林木葱郁的陡峭山丘上，宛如吴哥窟的一位安静小兄弟，任由岁月和风雨侵蚀。",
+  "at": "2026-09-06T11:18:08.814Z"
  },
  "zh/kampot-green-cathedral": {
   "hash": "f543aade32fd",

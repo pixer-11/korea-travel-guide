@@ -17011,5 +17011,35 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Exterior building shot with venue signage, representative hero image",
     "at": "2026-09-05T21:49:55.639Z"
+  },
+  "washington-dc-lincoln-memorial\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lincoln_Memorial_east_side.JPG/1920px-Lincoln_Memorial_east_side.JPG": {
+    "slug": "washington-dc-lincoln-memorial",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic exterior view of Lincoln Memorial, representative hero shot",
+    "at": "2026-09-06T10:45:15.923Z"
+  },
+  "koh-samui-wat-plai-laem\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/12_Armige_Statue.JPG/1920px-12_Armige_Statue.JPG": {
+    "slug": "koh-samui-wat-plai-laem",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic multi-armed Guanyin statue at Wat Plai Laem",
+    "at": "2026-09-06T10:49:17.892Z"
+  },
+  "bandung-museum-geologi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandung%2C_Museum_Geologi.jpg/3840px-Bandung%2C_Museum_Geologi.jpg": {
+    "slug": "bandung-museum-geologi",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Museum Geologi with clear signage, Bandung",
+    "at": "2026-09-06T10:51:01.005Z"
+  },
+  "seattle-le-panier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_Panier%2C_Seattle_%282022%29_-_02.jpg/1920px-Le_Panier%2C_Seattle_%282022%29_-_02.jpg": {
+    "slug": "seattle-le-panier",
+    "verdict": "MATCH",
+    "reason": "publish gate: Storefront with visible Le Panier sign, exterior view",
+    "at": "2026-09-06T10:55:11.121Z"
+  },
+  "chuncheon-chuncheon-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Chuncheon_National_Museum.jpg": {
+    "slug": "chuncheon-chuncheon-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Museum exterior with sign, plausible representative hero shot",
+    "at": "2026-09-06T10:56:58.906Z"
   }
 }

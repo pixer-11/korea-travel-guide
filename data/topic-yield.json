@@ -6,11 +6,11 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 134,
-   "hits": 81
+   "attempts": 135,
+   "hits": 82
   },
   "park": {
-   "attempts": 124,
+   "attempts": 126,
    "hits": 72
   },
   "viewpoint": {
@@ -30,8 +30,8 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 138,
-   "hits": 81
+   "attempts": 141,
+   "hits": 84
   },
   "noodles": {
    "attempts": 16,
@@ -70,8 +70,8 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 19,
-   "hits": 0
+   "attempts": 20,
+   "hits": 1
   },
   "bar": {
    "attempts": 18,
@@ -162,5 +162,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-05T10:42:47.183Z"
+ "updated": "2026-09-06T10:56:58.914Z"
 }
