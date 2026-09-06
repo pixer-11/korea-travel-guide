@@ -19,7 +19,7 @@ gallery: []
 tags:
   - taipei
   - event
-quickAnswer: ITZY's TUNNEL VISION World Tour stops in Taipei on September 5, 2026, at Taipei Arena (台北小巨蛋), where the group will perform tracks from their 2026 EP Motto alongside past hits. Treat this date and venue as the latest announced info and double-check ticketing platforms and the venue's official channels closer to the show, since concert schedules and on-sale details can shift. Plan to arrive early, as Taipei Arena shows for major K-pop acts routinely sell out and draw large crowds around the surrounding MRT station.
+quickAnswer: ITZY's TUNNEL VISION World Tour was scheduled to stop in Taipei on September 5, 2026, at Taipei Arena (台北小巨蛋), where the group was set to perform tracks from their 2026 EP Motto alongside past hits. Taipei Arena shows for major K-pop acts are known to routinely sell out and draw large crowds around the surrounding MRT station.
 faq:
   - q: What is the exact date of the ITZY Taipei concert?
     a: The announced date is September 5, 2026, at Taipei Arena. Confirm this hasn't shifted by checking ITZY's official social media or JYP Entertainment's tour page closer to the date.

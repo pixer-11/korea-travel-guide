@@ -2562,11 +2562,11 @@
   "at": "2026-08-15T02:31:12.242Z"
  },
  "ko/paris-plk-stade-de-france-concerts": {
-  "hash": "5a70427c19eb",
+  "hash": "3b7a6e419af7",
   "score": 1,
   "registerBreak": false,
-  "worst": "8만 명을 수용하는 생드니(Saint-Denis)의 국립 경기장, 스타드 드 프랑스(Stade de France)에서 이틀간 공연하는 것은 보통 세계적인 팝·록 스타들에게나 주어지는 자리다.",
-  "at": "2026-08-15T02:31:13.002Z"
+  "worst": "경기장 양옆으로 RER 역 두 개가 세워져 있으며",
+  "at": "2026-09-06T12:19:32.864Z"
  },
  "ko/paris-louvre-museum": {
   "hash": "19f822910a3b",
@@ -2583,11 +2583,11 @@
   "at": "2026-08-15T02:31:18.971Z"
  },
  "ko/pasay-city-babymonster-choom-world-tour": {
-  "hash": "c45205a78523",
+  "hash": "1c350e4de2d5",
   "score": 1,
   "registerBreak": false,
-  "worst": "관객 동선, 굿즈 판매, 팬 프로젝트 문화가 즉흥적이라기보다는 이미 숙련되고 체계적으로 운영됩니다.",
-  "at": "2026-08-15T02:31:24.464Z"
+  "worst": "몰 오브 아시아 아레나는 눈에 보이기 전에 먼저 그 존재감이 느껴지는 곳입니다.",
+  "at": "2026-09-06T12:19:34.719Z"
  },
  "ko/pasay-city-lalala-fest-manila-2026": {
   "hash": "0117f991b8c3",
@@ -6202,11 +6202,11 @@
   "at": "2026-08-15T02:52:20.534Z"
  },
  "ja/hanoi-ho-chi-minh-city-miss-world-2026": {
-  "hash": "14e9398e126d",
+  "hash": "07375ce9ab03",
   "score": 1,
   "registerBreak": false,
-  "worst": "ポンチョではなく、軽くて速乾性のある服装とコンパクトな傘を持参するのがおすすめです。",
-  "at": "2026-08-15T02:52:20.690Z"
+  "worst": "詳細は、公式には未確定でした。ネット上で見かける会場名やホテル名は…あくまで仮のものとして扱うべきです。",
+  "at": "2026-09-06T12:19:13.838Z"
  },
  "ja/hiroshima-atomic-bomb-dome": {
   "hash": "ec70069f8865",
@@ -8687,11 +8687,11 @@
   "at": "2026-08-15T03:03:52.925Z"
  },
  "ja/pasay-city-babymonster-choom-world-tour": {
-  "hash": "d2058699b39c",
-  "score": 1,
+  "hash": "17b459d8d425",
+  "score": 2,
   "registerBreak": false,
-  "worst": "そのため観客の動線やグッズ販売の設営、ファンによる企画文化は、即興ではなく長年の経験に裏打ちされたものになっています。",
-  "at": "2026-08-15T06:29:16.244Z"
+  "worst": "YGエンターテインメント期待の新人ガールズグループ――ルカ、アヒョン、アサ、パリタといったメンバーを中心に構成されるBABYMONSTER――が降り立った",
+  "at": "2026-09-06T12:20:42.439Z"
  },
  "ja/philadelphia-independence-national-historical-park": {
   "hash": "efa47a2960c7",
@@ -12390,11 +12390,11 @@
   "at": "2026-08-15T03:21:34.558Z"
  },
  "es/hanoi-ho-chi-minh-city-miss-world-2026": {
-  "hash": "ad5e36d17d6b",
+  "hash": "a6bc0c4d1b75",
   "score": 1,
   "registerBreak": false,
-  "worst": "que se espera que los organizadores celebren con ceremonias adicionales, mayor cobertura mediática",
-  "at": "2026-08-15T03:21:35.100Z"
+  "worst": "probablemente cerca de donde termine ubicándose el recinto de transmisión de la final.",
+  "at": "2026-09-06T12:19:00.532Z"
  },
  "es/hanoi-hanoi-old-quarter": {
   "hash": "32c97470e438",
@@ -14749,11 +14749,11 @@
   "at": "2026-08-15T03:32:14.762Z"
  },
  "es/paris-plk-stade-de-france-concerts": {
-  "hash": "d894685d6cb7",
+  "hash": "357d0e0cff55",
   "score": 1,
   "registerBreak": false,
-  "worst": "Sin embargo, la mayoría de los visitantes se alojan en el centro de París... las con",
-  "at": "2026-08-15T03:32:15.541Z"
+  "worst": "Se esperaba que la mayoría de los visitantes se alojaran en el centro de París y trataran",
+  "at": "2026-09-06T12:19:02.164Z"
  },
  "es/paris-saint-denis-european-aquatics-championships": {
   "hash": "1c0613633b94",
@@ -20265,11 +20265,11 @@
   "at": "2026-08-15T07:02:17.036Z"
  },
  "zh/pasay-city-babymonster-choom-world-tour": {
-  "hash": "d5ab75c363d1",
+  "hash": "82951b20a2fa",
   "score": 1,
   "registerBreak": false,
-  "worst": "由于场馆就在商场区内,你完全可以提前好几个小时到达，先在商场里吃饭、购买周边商品",
-  "at": "2026-08-15T04:09:38.731Z"
+  "worst": "这座竞技场位于更大范围的SM亚洲城购物中心内，就在海湾边上，地处帕塞市，紧邻马尼拉大都会的机场区域。",
+  "at": "2026-09-06T12:19:52.903Z"
  },
  "zh/paris-notre-dame-cathedral-of-paris": {
   "hash": "43cce5eae071",
@@ -20279,11 +20279,11 @@
   "at": "2026-08-15T04:09:38.851Z"
  },
  "zh/paris-plk-stade-de-france-concerts": {
-  "hash": "c0fe346bcbd2",
+  "hash": "ce4d353951e4",
   "score": 1,
   "registerBreak": false,
-  "worst": "这两场演出被视为整个音乐类型的高光时刻，而不仅仅是巡演途中的一站。",
-  "at": "2026-08-15T04:09:39.829Z"
+  "worst": "在圣但尼、可容纳8万人的法国国家体育场——法兰西体育场（Stade de France）连开两晚，这种规格通常只属于全球最顶级的流行乐和摇滚乐巨星。",
+  "at": "2026-09-06T12:19:50.526Z"
  },
  "zh/paris-saint-denis-european-aquatics-championships": {
   "hash": "b419ae65aa42",
@@ -24374,11 +24374,11 @@
   "at": "2026-08-15T06:51:32.021Z"
  },
  "zh/hanoi-ho-chi-minh-city-miss-world-2026": {
-  "hash": "757764f7a784",
+  "hash": "1e0b63a8ed7c",
   "score": 1,
   "registerBreak": false,
-  "worst": "河内的鸡肉米线（bun cha）和北部风味河粉（pho bac），与西贡口味更丰富、偏甜、香草味浓郁的南部菜系及碎米饭（com tam）形成鲜明对比。",
-  "at": "2026-08-15T06:51:44.144Z"
+  "worst": "统一号列车（Reunification Express）是另一种颇具风景的选择，但耗时要长得多（30多个小时）",
+  "at": "2026-09-06T12:19:48.226Z"
  },
  "zh/hiroshima-itsukushima-jinja": {
   "hash": "631c867411c6",
