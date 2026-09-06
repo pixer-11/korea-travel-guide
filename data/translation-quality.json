@@ -34,13 +34,6 @@
   "worst": "카스르 알 호스니는 아부다비가 성장해 나온 바로 그 자리이자, 이 도시가 지금의 위치에 존재하게 된 이유입니다.",
   "at": "2026-08-17T08:38:05.067Z"
  },
- "ko/abu-dhabi-flavors-grill-abu-dhabi": {
-  "hash": "2e8308479a01",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "39,000개가 넘는 평가에 평균 4.9점이라는 기록은 이곳이 조용히 숨겨진 로컬 맛집이 아니라 확실히 '초인기' 지대에",
-  "at": "2026-08-17T08:38:07.457Z"
- },
  "ko/abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr": {
   "hash": "bcfc9f29a399",
   "score": 1,
@@ -68,13 +61,6 @@
   "registerBreak": false,
   "worst": "이 조합은 꽤 잘 어울립니다. 서로 다른 스타일이 섞인 예술 작품, 과감한 벽면 장식, 초록이 우거진 안뜰 같은 분위기까지",
   "at": "2026-08-31T12:53:07.820Z"
- },
- "ko/ajman-souryana-restaurant-and-cafe": {
-  "hash": "337d7405b2cc",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "그 수치가 이를 뒷받침합니다: 거의 8,000개에 달하는 Google 리뷰와 평균 평점 4.8.",
-  "at": "2026-08-17T08:38:13.554Z"
  },
  "ko/ajman-ajman-museum": {
   "hash": "ec8489b2f168",
@@ -159,13 +145,6 @@
   "registerBreak": false,
   "worst": "사각형 연못은 어찌나 잔잔한지 물이 채워졌다기보다 마치 부어놓은 듯 사원의 모습을 거꾸로 비춥니다.",
   "at": "2026-08-17T08:38:29.596Z"
- },
- "ko/amritsar-jallianwala-bagh": {
-  "hash": "6b67e1a103b0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "여기서 지켜야 할 예의는 눈에 띄지 않게 행동하는 것보다는 많은 사람들 속에서도 예의를 지키는 것에 가깝습니다",
-  "at": "2026-08-17T08:38:27.761Z"
  },
  "ko/andong-hahoe-folk-village": {
   "hash": "31f89ca60b58",
@@ -293,13 +272,6 @@
   "worst": "발리의 건기(4~10월)는 대체로 펠리아탄을 도보나 스쿠터로 둘러보기 더 수월한 시기이지만, 이는 식당 자체의 운영 리듬에는 영향을 미치지 않습니다.",
   "at": "2026-08-17T08:38:55.203Z"
  },
- "ko/bali-cure-bali": {
-  "hash": "b53910a7a898",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "복장은 스마트 캐주얼을 추천합니다—발리의 리조트 다이닝은 편안하면서도 세련된 분위기를 지향하므로 비치웨어는 피하고",
-  "at": "2026-08-17T08:39:05.366Z"
- },
  "ko/baguio-baguio-city-market": {
   "hash": "0fb68fe2d633",
   "score": 1,
@@ -334,13 +306,6 @@
   "registerBreak": false,
   "worst": "거의 2만 개에 달하는 리뷰와 4.2점의 평점으로, 같은 도로를 따라 조금 더 올라가면 있는 다고 파카르",
   "at": "2026-08-17T08:38:56.534Z"
- },
- "ko/bali-this-is-bali-balinese-food-desserts": {
-  "hash": "41abbb20b5e5",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이곳은 우붓에서 흔치 않게 발리식 디저트를 곁들이는 정도가 아니라 하나의 정식 코스로 취급하는 몇 안 되는 레스토랑입니다.",
-  "at": "2026-08-17T08:39:12.237Z"
  },
  "ko/bangkok-chatuchak-weekend-market": {
   "hash": "b143089789fa",
@@ -383,13 +348,6 @@
   "registerBreak": false,
   "worst": "이 투어의 매력은 어느 하나의 유적이 아니라, 엽서 속 스카이라인에서 배로 단 10분 거리에 있으면서도...",
   "at": "2026-08-24T08:36:12.010Z"
- },
- "ko/bangkok-earth-house-restaurant-wine-bar": {
-  "hash": "bd5e0132f8ba",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "왓타나(Watthana) 이 지역에서도 평가가 좋은 레스토랑 중 하나로 꼽히며, 빠르게 자리를 회전시키기보다는...",
-  "at": "2026-08-31T12:55:54.680Z"
  },
  "ko/bangkok-khao-san-sek": {
   "hash": "ebbe88836420",
@@ -468,13 +426,6 @@
   "worst": "태국의 대부분 레스토랑과 마찬가지로, 영업시간이나 서비스 요금, 세트 메뉴 가격 등은 음식보다 자주 바뀔 수 있으니",
   "at": "2026-08-24T08:36:23.325Z"
  },
- "ko/bangkok-suan-luang-rama-ix": {
-  "hash": "b9b48738e11d",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "그늘이 도움은 되지만, 방콕의 습도는 공원을 가리지 않으니까요.",
-  "at": "2026-08-31T12:56:04.218Z"
- },
  "ko/bangkok-the-reclining-buddha": {
   "hash": "7d2660302d4c",
   "score": 1,
@@ -488,13 +439,6 @@
   "registerBreak": false,
   "worst": "솜삭은 이런 공식을 태국 동북부 요리에 그대로 적용하면서, 스코틀랜드에서 큰돈을 벌어 고향으로 돌아온 방콕 택시기사",
   "at": "2026-08-24T08:36:26.397Z"
- },
- "ko/bangkok-the-temple-of-the-emerald-buddha": {
-  "hash": "e19dc8a0fa39",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "지구상에서 가장 많은 사람이 찾는 종교 유적지 중 하나로, 그럴 만한 가치가 있습니다 — 가까이서 보는...",
-  "at": "2026-08-31T12:56:03.301Z"
  },
  "ko/bangkok-treehouse-cafe-bar": {
   "hash": "e0998c9db7a9",
@@ -649,13 +593,6 @@
   "registerBreak": false,
   "worst": "이런 종류의 다른 기관들과 마찬가지로 이 박물관도 정해진 운영 시간과 주간 휴관일이 있으니",
   "at": "2026-08-24T09:49:50.443Z"
- },
- "ko/beijing-summer-palace": {
-  "hash": "3c43de62d941",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "동궁문(東宮門)을 지나면 서태후가 접견을 하던 옛 전각들 — 짙은 목재와 붉은 기둥으로 이루어진 — 사이로 인파가",
-  "at": "2026-08-24T09:49:48.182Z"
  },
  "ko/beijing-the-palace-museum": {
   "hash": "ad43e3026fcc",
@@ -21229,13 +21166,6 @@
   "registerBreak": false,
   "worst": "顺天湾是世界上规模最大、保存最完好的潮汐湿地之一，也是顺天以韩国\"花园城市\"自居的底气所在。",
   "at": "2026-08-15T04:15:20.623Z"
- },
- "zh/sun-moon-lake-ci-en-pagoda": {
-  "hash": "8e4262c58184",
-  "score": 3,
-  "registerBreak": false,
-  "worst": "站在那里，湖水向两侧蜿蜒delante开，四周群山环绕成一圈翠绿",
-  "at": "2026-08-16T11:21:20.501Z"
  },
  "zh/surabaya-black-owl-surabaya": {
   "hash": "25b30c32dfd2",
