@@ -708,6 +708,11 @@ jobs:
         run: |
           node scripts/validate-content.mjs
           node scripts/audit-held-but-published.mjs
+          # Written 2026-09-07 to catch finished events still reading as upcoming
+          # in Korean, Japanese, Spanish and Chinese — and then left unwired, so
+          # for a day it was a gate nobody opened. The English validator above
+          # cannot see this class: English lets a date stand without a tense.
+          node scripts/audit-ended-event-tense-i18n.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
@@ -811,6 +816,16 @@ jobs:
         if: steps.distbuild.outcome == 'success'
         continue-on-error: true
         run: node scripts/check-heading-skips.mjs
+
+      # /tools/whats-closed/ renders its default answer at build time so the page
+      # is readable without JavaScript. Its first build shipped empty in all five
+      # languages and returned 200 in all five. This reads the built file and
+      # fails when the answer is not there — written 2026-09-06, wired 2026-09-07,
+      # which is a day it could have been catching nothing.
+      - name: Check the what's-closed answer is in the HTML
+        if: steps.distbuild.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/check-whats-closed-rendered.mjs
 
       # Each check in here is a design slip the owner once caught by eye. It was
       # written on 2026-08-09 to make them machine checks and then wired to

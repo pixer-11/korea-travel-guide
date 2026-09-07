@@ -31,7 +31,22 @@ for (const lang of LANGS) {
   // Only what a reader sees: the client island is stripped first, so a page whose
   // dates exist solely inside <script> counts as empty, which is the point.
   const visible = html.replace(/<script[\s\S]*?<\/script>/gi, ' ');
-  const rows = visible.match(/<time datetime="\d{4}-\d{2}-\d{2}"/g) ?? [];
+
+  // Counting <time> ANYWHERE on the page was too generous: a footer timestamp, a
+  // date input, or a stray dated element elsewhere in the layout would have made
+  // an empty answer look answered — the very failure this file exists to catch.
+  // The answer lives in exactly two lists, so look only in them.
+  const listOf = (id) => {
+    const start = visible.search(new RegExp(`<ul[^>]*id="${id}"`));
+    if (start < 0) return '';
+    const end = visible.indexOf('</ul>', start);
+    return end < 0 ? visible.slice(start) : visible.slice(start, end);
+  };
+  const answer = listOf('wc-holiday-list') + listOf('wc-closure-list');
+  // datetime is not necessarily the first attribute, and the quotes are not
+  // necessarily double — <time class="date" datetime='2026-09-07'> is valid and
+  // visible, and the old pattern read it as nothing.
+  const rows = answer.match(/<time[^>]*\sdatetime=["']\d{4}-\d{2}-\d{2}["']/gi) ?? [];
   if (rows.length === 0) {
     console.log(`  ❌ ${label}: no dated rows in the delivered HTML — the default view is empty`);
     failed++;

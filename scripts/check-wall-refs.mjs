@@ -9,7 +9,9 @@
 //   node scripts/check-wall-refs.mjs        (needs dist/ — run after a build)
 import { readdirSync, readFileSync, existsSync } from 'fs';
 
-if (!existsSync('dist')) { console.log('dist/ 없음 — 빌드 후 실행'); process.exit(0); }
+// 빌드가 성공했다고 하는데 dist가 없다면 그건 '검사할 것이 없다'가 아니라
+// '검사를 못 했다'이다. exit 0으로 초록불을 켜주던 자리 (2026-09-07 부류 수리).
+if (!existsSync('dist')) { console.log('WALL-REF: dist/ 없음 — 아무것도 검사하지 못했다. 빌드 먼저.'); process.exit(1); }
 
 const refs = new Map(); // name -> first page that references it
 (function walk(d) {

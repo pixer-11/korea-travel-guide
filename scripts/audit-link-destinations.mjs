@@ -30,12 +30,22 @@ const DIST = process.argv[2] || 'dist';
 const LOCALES = ['ko', 'ja', 'es', 'zh'];
 // The switcher renders these labels; a link carrying one is a switcher link
 // wherever it sits in the markup.
-const SWITCHER_LABELS = { ko: '한국어', ja: '日本語', es: 'Español', zh: '中文' };
+// English was missing from this list, so the one button every localized page
+// carries back to the source language was the one button nobody checked: a
+// Korean page whose English link went to `/` instead of the English article
+// would have passed with all four of its other buttons correct.
+const SWITCHER_LABELS = { en: 'English', ko: '한국어', ja: '日本語', es: 'Español', zh: '中文' };
 const PER_SHAPE = 2;
+// A path segment counts as a variable (an id, a slug) rather than a template
+// name when its parent has this many siblings under it. See shapeOf.
+const VARIABLE_FANOUT = 25;
 
+// Exit 0 here meant "no dist, nothing wrong" — and the workflow, which reads a
+// non-empty log as a completed audit, painted that green. A missing build is a
+// missing audit. Prefixed LINK-DESTINATION: so the alerting layer counts it.
 if (!existsSync(DIST)) {
-  console.log(`dist not found at ${DIST} — build first`);
-  process.exit(0);
+  console.log(`LINK-DESTINATION: dist not found at ${DIST} — nothing was audited. Build first.`);
+  process.exit(1);
 }
 
 // ── collect the built pages ──────────────────────────────────
@@ -56,10 +66,39 @@ const built = new Set(pages.map(urlOf));
 
 // A route shape is the path with its variable segments blanked, so
 // /ko/posts/abc/ and /ko/posts/xyz/ are one template.
-const shapeOf = (url) => url
-  .split('/')
-  .map((seg, i) => (i > 1 && seg && !/^(posts|regions|essentials|tools|itinerary|ko|ja|es|zh)$/.test(seg) ? '*' : seg))
-  .join('/');
+//
+// This used to blank every segment that was not in a hand-written allowlist, and
+// that quietly merged unrelated TEMPLATES: /es/about/, /es/contact/, /es/events/,
+// /es/flights/ and four more all became /es/*/, of which two were sampled and the
+// rest never looked at. /tools/best-time/, /tools/esim/, /tools/whats-closed/,
+// /tools/when-to-go/ and /tools/widget/ became /tools/*/ — so at least three tool
+// pages went unchecked, including the very page whose broken switcher this file
+// was written for. A whole template could be wrong and the run would end in a tick.
+//
+// So ask the built site instead of a list. Sections are few and named; ids and
+// slugs are many and arbitrary. A segment is a variable when its siblings are
+// numerous: /posts/ has over a thousand children and collapses, /tools/ has five
+// and stays itself. Depth 0 is never blanked — the top level is all sections.
+const trie = {};
+for (const url of built) {
+  let node = trie;
+  for (const seg of url.split('/').filter(Boolean)) {
+    node.kids ??= new Map();
+    if (!node.kids.has(seg)) node.kids.set(seg, {});
+    node = node.kids.get(seg);
+  }
+}
+
+const shapeOf = (url) => {
+  let node = trie;
+  const out = [];
+  url.split('/').filter(Boolean).forEach((seg, depth) => {
+    const siblings = node.kids?.size ?? 0;
+    out.push(depth > 0 && siblings >= VARIABLE_FANOUT ? '*' : seg);
+    node = node.kids?.get(seg) ?? {};
+  });
+  return `/${out.join('/')}${out.length ? '/' : ''}`;
+};
 
 const sampled = [];
 const seenShapes = new Map();
@@ -73,8 +112,23 @@ for (const file of pages) {
 
 // ── check one page ───────────────────────────────────────────
 const problems = [];
-const pathOf = (href) => {
-  try { return new URL(href, 'https://wanderatlasguides.com').pathname; } catch { return null; }
+const SITE = 'https://wanderatlasguides.com';
+// Reducing a link to its pathname threw away the two things that make a link
+// wrong in the most expensive way: an href on somebody else's domain
+// (https://evil.example/ko/about/ "resolved" because /ko/about/ exists here),
+// and an href that does not parse at all (which became null and was then skipped
+// by the `if (target && …)` guards — unreadable read as fine).
+const pathOf = (href, url, what) => {
+  let u;
+  try { u = new URL(href, SITE); } catch {
+    problems.push(`${url} — ${what} is not a usable URL: ${href}`);
+    return null;
+  }
+  if (u.origin !== SITE) {
+    problems.push(`${url} — ${what} points off-site, at ${u.origin}`);
+    return null;
+  }
+  return u.pathname;
 };
 
 for (const file of sampled) {
@@ -85,7 +139,7 @@ for (const file of sampled) {
   for (const m of html.matchAll(/<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"/g)) {
     const [, lang, href] = m;
     if (lang === 'x-default') continue;
-    alternates.set(lang.split('-')[0], pathOf(href));
+    alternates.set(lang.split('-')[0], pathOf(href, url, `the ${lang} alternate`));
   }
 
   for (const [lang, target] of alternates) {
@@ -96,10 +150,18 @@ for (const file of sampled) {
 
   // The switcher: find each locale's labelled anchor and read where it goes.
   for (const [lang, label] of Object.entries(SWITCHER_LABELS)) {
-    const m = new RegExp(`<a[^>]*href="([^"]+)"[^>]*>\\s*${label}\\s*</a>`).exec(html);
+    // The label may be wrapped — <a …><span>한국어</span></a> is the same button —
+    // and the attributes may be single-quoted. The old pattern demanded the label
+    // as the anchor's bare text with double-quoted href, and simply skipped the
+    // language when it did not match: every switcher check could vanish while the
+    // run still printed a tick.
+    const m = new RegExp(`<a[^>]*\\shref=["']([^"']+)["'][^>]*>(?:\\s|<[^>]+>)*${label}(?:\\s|<[^>]+>)*</a>`).exec(html);
     if (!m) continue;
-    const dest = pathOf(m[1]);
-    const isLocaleRoot = dest === `/${lang}/`;
+    const dest = pathOf(m[1], url, `the ${label} button`);
+    if (dest === null) continue;   // already reported as off-site or unparseable
+    // English has no locale prefix: its root is `/`, not `/en/`.
+    const root = lang === 'en' ? '/' : `/${lang}/`;
+    const isLocaleRoot = dest === root;
     const expected = alternates.get(lang);
 
     if (expected && dest !== expected) {
@@ -108,7 +170,12 @@ for (const file of sampled) {
       // No alternates declared AND the switcher falls back to the locale root:
       // the whats-closed shape exactly. Only flagged when the translated page
       // actually exists, so an English-only page is not nagged about.
-      const wouldBe = `/${lang}${url}`;
+      // The page this button should have gone to. For English that means
+      // dropping the current locale prefix, not adding an /en/ that never exists.
+      const wouldBe = lang === 'en'
+        ? url.replace(/^\/(ko|ja|es|zh)\//, '/')
+        : `/${lang}${url}`;
+      if (wouldBe === url) continue;
       if (built.has(wouldBe)) {
         problems.push(`${url} — the ${label} button drops the reader at ${dest}, but ${wouldBe} exists (missing localized={true}?)`);
       }
@@ -117,6 +184,17 @@ for (const file of sampled) {
 }
 
 console.log(`checked ${sampled.length} page(s) across ${seenShapes.size} route shape(s) of ${pages.length} built`);
+
+// Nothing to check is not the same as nothing wrong. An empty or wrong dist made
+// this print a tick and exit 0 — the exact shape of failure this file exists to
+// catch, sitting inside the file itself (found 2026-09-07 by running it against
+// an empty directory). The floor is deliberately low: a real build is 12,000
+// pages, so anything under 50 means the input is wrong, not that the site is.
+const MIN_PAGES = 50;
+if (pages.length < MIN_PAGES) {
+  console.log(`LINK-DESTINATION: only ${pages.length} built page(s) found under ${DIST} — that is not a site, it is a bad input. Refusing to report a pass.`);
+  process.exit(1);
+}
 for (const p of problems) console.log(`LINK-DESTINATION: ${p}`);
 
 if (problems.length) {

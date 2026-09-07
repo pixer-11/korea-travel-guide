@@ -42,7 +42,18 @@ const store = JSON.parse(readFileSync(STORE, 'utf8'));
 // audit-ended-event-tense-i18n, whose findings the quality judge cannot see:
 // the English is fine, so nothing in the score store points at them.
 //   KEYS="$(node scripts/audit-ended-event-tense-i18n.mjs --list | grep '^ENDED-EVENT-I18N-TENSE:' | awk '{print $2}')" node scripts/repair-flagged-translations.mjs
-const KEYS = (process.env.KEYS || '').split(/[\s,]+/).map((s) => s.trim()).filter(Boolean);
+// Deduplicated on purpose. `KEYS="ko/foo ko/foo"` used to pass the existence
+// filter twice: the first unlink succeeded, the second threw ENOENT, and because
+// the restore loop is further down the same block, ko/foo.md was never put back.
+// A repair tool that deletes a reader's page is worse than the clumsy sentence
+// it was sent to fix.
+const KEYS = [...new Set((process.env.KEYS || '').split(/[\s,]+/).map((s) => s.trim()).filter(Boolean))];
+
+// A named key whose file is already gone was silently dropped from the list, and
+// the run then reported `repaired=0 restored=0 remaining=0` — a completed no-op
+// over a page that has no translation at all. Say so instead.
+const absent = KEYS.filter((key) => !existsSync(fileOf(key)));
+for (const key of absent) console.log(`  ⚠ ${key} — no such translation on disk; it is missing, not poor. Not repaired here.`);
 
 const flagged = KEYS.length
   ? KEYS.map((key) => ({ key, score: '-', file: fileOf(key) })).filter((j) => existsSync(j.file))
@@ -68,6 +79,12 @@ for (let i = 0; i < targets.length; i += BATCH) {
   const batch = targets.slice(i, i + BATCH);
   const kept = new Map(batch.map((j) => [j.file, readFileSync(j.file, 'utf8')]));
 
+  // Everything from here to the end of the batch runs inside try/finally. Between
+  // the unlink and the restore loop there was an unprotected window: any throw —
+  // a duplicate key, a disk error, an interrupt — left the batch's translations
+  // deleted, and the publish workflow, which softens a repair failure, would then
+  // stage and commit the deletion. The finally puts back anything still missing.
+  try {
   for (const j of batch) await unlink(j.file);
 
   // translate-posts fills whatever is missing SITE-WIDE, so a batch of twelve can
@@ -85,7 +102,13 @@ for (let i = 0; i < targets.length; i += BATCH) {
   }
 
   for (const j of batch) {
-    if (existsSync(j.file)) {
+    // A file existing is not a file translated. If the translator wrote a stub,
+    // truncated the file, or died mid-write, existsSync is still true — and the
+    // old code counted that as repaired, dropped the stored verdict, and threw
+    // away the good copy. Require a real document: frontmatter and some body.
+    const made = existsSync(j.file) ? readFileSync(j.file, 'utf8') : '';
+    const looksTranslated = /^---\r?\n[\s\S]*?\r?\n---/.test(made) && made.trim().length > 200;
+    if (looksTranslated) {
       repaired++;
       // The judge must look at the new text, not remember the old verdict.
       delete store[j.key];
@@ -93,11 +116,20 @@ for (let i = 0; i < targets.length; i += BATCH) {
       // Never leave a language without its page.
       writeFileSync(j.file, kept.get(j.file), 'utf8');
       restored++;
-      console.log(`  ↩ ${j.key} — translator did not produce it; old text put back`);
+      console.log(`  ↩ ${j.key} — translator produced ${made ? 'an incomplete file' : 'nothing'}; old text put back`);
     }
   }
   writeFileSync(STORE, JSON.stringify(store, null, 1), 'utf8');
   console.log(`batch ${i / BATCH + 1}: ${summary}`);
+  } finally {
+    // Whatever happened above, no reader loses a page to this tool.
+    for (const [file, text] of kept) {
+      if (!existsSync(file)) {
+        writeFileSync(file, text, 'utf8');
+        console.log(`  ↩ ${file} — restored after an interrupted batch`);
+      }
+    }
+  }
 }
 
 console.log(`\nFLAGGED_TRANSLATION_REPAIR repaired=${repaired} restored=${restored} remaining=${flagged.length - repaired}`);

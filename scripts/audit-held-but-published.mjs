@@ -27,14 +27,24 @@ import yaml from 'js-yaml';
 
 const DIR = 'src/content/posts';
 const hits = [];
+// A file this check could not read is a file it did not check. Both of these
+// were `continue` — a post with broken YAML, or with no frontmatter at all,
+// slipped past silently, and a hold hidden behind a syntax error is exactly the
+// hold that would stay live. Counted, listed, and failed on.
+const unreadable = [];
 let held = 0;
+let posts = 0;
 
 for (const file of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
+  posts++;
   const raw = readFileSync(join(DIR, file), 'utf8');
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!m) continue;
+  if (!m) { unreadable.push(`${file} — no frontmatter block`); continue; }
   let fm;
-  try { fm = yaml.load(m[1]); } catch { continue; }
+  try { fm = yaml.load(m[1]); } catch (err) {
+    unreadable.push(`${file} — frontmatter does not parse: ${String(err.message).split('\n')[0]}`);
+    continue;
+  }
   if (!fm?.heldReason) continue;
   held++;
   if (fm.draft !== true) hits.push({ file, reason: String(fm.heldReason) });
@@ -43,8 +53,19 @@ for (const file of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
 console.log(`${held} post(s) carry a hold; ${hits.length} of them are still published`);
 for (const h of hits) console.log(`HELD-BUT-PUBLISHED: ${h.file} — heldReason: ${h.reason}, but draft is not true`);
 
+for (const u of unreadable) console.log(`HELD-BUT-PUBLISHED: ${u}`);
+
 if (hits.length) {
   console.log('\nA hold means the page must not be live. Set draft: true, or clear the reason deliberately.');
+  process.exit(1);
+}
+if (unreadable.length) {
+  console.log(`\n${unreadable.length} post(s) could not be read, so they were not checked. Unreadable is not clean.`);
+  process.exit(1);
+}
+// Reading zero posts means the content path moved, not that the site emptied.
+if (!posts) {
+  console.log(`HELD-BUT-PUBLISHED: no posts found under ${DIR} — nothing was checked.`);
   process.exit(1);
 }
 console.log('✓ every held post is unpublished.');
