@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Former House of Tan Teng Niah: Little India Travel Guide'
 description: The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in vivid pastel hues.
 country: Singapore
@@ -12,8 +11,8 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/59759e0410345b5dd6b9b7a1
   focus:
-    x: 50
-    'y': 40
+    x: 45
+    'y': 45
 place:
   id: ChIJX0z5sbgZ2jERbP7t9-0hs_E
   name: Former House of Tan Teng Niah
