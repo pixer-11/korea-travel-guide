@@ -169,8 +169,15 @@ export function parsePost(f, t) {
     // which made 84 fresh posts look 25 years stale on this check's first run.
     pubDate: isoDay(fm.pubDate),
     updatedDate: isoDay(fm.updatedDate),
-    body: t.slice(t.indexOf(String.fromCharCode(10) + "---", 3) + 4),
+    body: bodyAfterFrontmatter(t),
   };
+}
+
+// Where parsePost's own body slice lives, factored out so the translation
+// disclosure scan below (2026-09-07) can get the same body text without a
+// second copy of this index arithmetic drifting from this one.
+function bodyAfterFrontmatter(t) {
+  return t.slice(t.indexOf(String.fromCharCode(10) + '---', 3) + 4);
 }
 
 /**
@@ -579,6 +586,28 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   return issues;
 }
 
+// The DOUBLE-DISCLOSURE gate below (in postProblems) only ever walked
+// src/content/posts/ — English. The 2026-09 sweep removed the same duplicated
+// blockquote from src/content/i18n/{ko,ja,es,zh}/*.md (6,044 files), and
+// translate-posts.mjs writes those files from a model, so a retranslation
+// could put the blockquote straight back in with nothing to notice. This is
+// the ONE rule that runs against a translation — every other rule in
+// postProblems() is written against English frontmatter shapes (rating,
+// phone, region, price claims aged off `pubDate`, …) and would just be noise
+// read against a translation file. Same detector as the English rule
+// (hasBodyDisclosure), so the two can't drift into disagreeing about what
+// counts as a duplicate disclosure. Pure, so it's testable without a
+// directory of files.
+export function translationDisclosureProblems(files) {
+  const issues = [];
+  for (const { f, body } of files) {
+    if (hasBodyDisclosure(body)) {
+      issues.push(`DOUBLE-DISCLOSURE: ${f} — the AI disclosure is in the body AND in the component`);
+    }
+  }
+  return issues;
+}
+
 /**
  * Cross-checks the posts against the vision audit's verdict store.
  *
@@ -654,6 +683,27 @@ async function main() {
 
   for (const p of posts) issues.push(...postProblems(p, { verdicts }));
   issues.push(...stubBodyProblems(posts));
+
+  // Translations: one rule only (see translationDisclosureProblems above).
+  let i18nChecked = 0;
+  {
+    const files = [];
+    for (const lang of ['ko', 'ja', 'es', 'zh']) {
+      const dir = fileURLToPath(new URL(`../src/content/i18n/${lang}/`, import.meta.url));
+      let names = [];
+      try { names = (await readdir(dir)).filter((f) => f.endsWith('.md')); } catch { /* language dir absent in a partial checkout */ }
+      // Read a language directory concurrently — 1,511 sequential awaits per
+      // language (6,044 total) is what pushed a 5s run to 8s; reading each
+      // directory's files in parallel is what brought it back down.
+      const read = await Promise.all(names.map(async (name) => ({
+        f: `i18n/${lang}/${name}`,
+        body: bodyAfterFrontmatter(await readFile(join(dir, name), 'utf8')),
+      })));
+      files.push(...read);
+    }
+    i18nChecked = files.length;
+    issues.push(...translationDisclosureProblems(files));
+  }
 
   // Two posts about the same event on the same date in the same city = duplicate
   // coverage, and if their dates DISAGREE one of them is telling readers a lie.
@@ -875,7 +925,7 @@ async function main() {
     }
     process.exit(1);
   }
-  console.log(`✓ ${posts.length} posts clean — no slash regions, placeholders, dup images, dup places, or near-dup topics.`);
+  console.log(`✓ ${posts.length} posts clean + ${i18nChecked} translations checked for double-disclosure — no slash regions, placeholders, dup images, dup places, or near-dup topics.`);
 }
 
 // ── CLI (only when executed directly, not when imported) ─────

@@ -6,7 +6,7 @@
 // "절대 걸리면 안 되는 것(FP)"을 쌍으로 고정한다.
 //
 //   node scripts/validate-content.test.mjs
-import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR, parseFailures } from './validate-content.mjs';
+import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR, parseFailures, translationDisclosureProblems } from './validate-content.mjs';
 
 // 아무 규칙에도 걸리지 않는 건강한 글. 모든 케이스는 여기서 한 필드만 바꾼다 —
 // 그래야 실패했을 때 원인이 그 필드 하나로 좁혀진다.
@@ -211,6 +211,23 @@ flags('slash in region', 'SLASH', { region: 'Seoul/Gyeonggi' });
     return out.some((i) => i.includes('9건')) ? null : `총계 누락: ${out.join(' | ')}`;
   }]);
 }
+
+// ── 번역본 중복 AI 고지 (English 전용이던 게이트가 6,044개 번역을 못 보던 문제,
+// 2026-09-07) ──────────────────────────────────────────────
+// translate-posts.mjs 가 모델로 번역 파일을 새로 쓰기 때문에, 재번역이 오늘
+// 지운 고지문을 도로 집어넣어도 postProblems() 는 en 만 걸으니 못 잡는다.
+// translationDisclosureProblems 는 그 한 가지 규칙만 돈다.
+cases.push(['번역본에 고지문이 있으면 잡는다', () => {
+  const out = translationDisclosureProblems([{
+    f: 'i18n/ko/test-post.md',
+    body: '> **이 가이드는 이렇게 만들어졌습니다:** AI의 도움으로 작성했습니다. [편집 정책](/about)을 참고하세요.\n\n조용한 골목.',
+  }]);
+  return has(out, 'DOUBLE-DISCLOSURE') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
+cases.push(['깨끗한 번역본은 조용하다', () => {
+  const out = translationDisclosureProblems([{ f: 'i18n/ja/test-post.md', body: '静かな路地。' }]);
+  return out.length === 0 ? null : `오탐: ${out.join(' | ')}`;
+}]);
 
 // ── parsePost: 프론트매터 읽기 ───────────────────────────────
 cases.push(['parsePost skips drafts', () => {
