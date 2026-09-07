@@ -724,7 +724,16 @@ jobs:
           # `set -e -o pipefail` (GitHub default) would abort this step at the
           # failing command-substitution (validate exits 1 — the very case we warn
           # on), so the curl below never fires and the job goes red. `|| true`.
-          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -25 || true)
+          # The step above runs three checks and fails if ANY of them does, but
+          # this message used to re-run only the first. When the tense audit was
+          # the one that failed, the owner got "⚠️ 콘텐츠 검증 경고" followed by
+          # "이상 없음" — a warning with nothing in it. Ask all three.
+          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -20 || true)
+          HELD=$(node scripts/ko-report.mjs scripts/audit-held-but-published.mjs 2>&1 | head -6 || true)
+          TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | head -8 || true)
+          for extra in "$HELD" "$TENSE"; do
+            case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
+          done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \

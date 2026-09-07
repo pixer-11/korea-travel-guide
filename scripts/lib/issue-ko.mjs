@@ -28,13 +28,18 @@ function facts(rest) {
     (numsAll[m[1]] ??= []).push(m[2]);
   }
   const lang = rest.match(/\b(ko|ja|es|zh|en)\b(?=[/\s\]])/)?.[1] ?? null;
-  return { file, slug: quoted[0] ?? null, quoted, day, nums, numsAll, lang };
+  // Some checks name a live URL rather than a source file — the link-destination
+  // audit reports "/tools/whats-closed/ — the 한국어 button …". Without this the
+  // owner was told a switcher was broken and not which page it was on.
+  const url = file ? null : (rest.match(/(?:^|\s)(\/[\w./-]*\/)/)?.[1] ?? null);
+  return { file, url, slug: quoted[0] ?? null, quoted, day, nums, numsAll, lang };
 }
 
 /** Short "where" prefix: file, day, stop — whatever the line actually carried. */
 function where(f) {
   const parts = [];
   if (f.file) parts.push(f.file.replace(/^.*\//, ''));
+  if (f.url) parts.push(f.url);
   if (f.day) parts.push(`${f.day}일차`);
   if (f.slug) parts.push(f.slug);
   return parts.length ? parts.join(' · ') : '대상 미상';
@@ -220,6 +225,11 @@ export function koIssueLine(raw) {
     [/TRUNCATED-DESCRIPTION/, () => '검색 요약문이 문장 중간에서 잘림'],
     [/TOOL-SPILL/, () => 'AI 도구 출력이 글에 그대로 유출됨 (페이지 깨짐)'],
     [/ENDED-EVENT-FUTURE-TENSE/, () => '끝난 행사인데 본문이 아직 예정처럼 쓰여 있음'],
+    // 2026-09-07에 또 같은 일이 났다 — 새 검사 3종을 만들고 이 표에 등록하지 않아,
+    // 알림이 "점검 필요 (코드 …)"로 나갔다. 검사를 새로 만들면 여기부터.
+    [/ENDED-EVENT-I18N-TENSE/, () => '끝난 행사인데 번역문이 아직 예정처럼 쓰여 있음'],
+    [/HELD-BUT-PUBLISHED/, () => '보류 표시가 붙은 글이 아직 공개돼 있음'],
+    [/LINK-DESTINATION/, () => '언어 전환 링크가 안내와 다른 곳으로 감'],
     [/^IMAGE MISMATCH suspect/, () => '대표사진이 주제와 무관해 보임'],
     [/^EVENT missing eventStartDate/, () => '행사 시작일이 비어 있음 — 정렬·만료·검색 노출 불가'],
     [/^NON-LATIN script in title/, () => '제목에 현지 문자가 섞여 있음'],
@@ -295,7 +305,11 @@ export function koDigest(stdout, { max = 20 } = {}) {
   // coordinates." and that line was counted as a second finding, so one bad post
   // reached the owner as "문제 2건" with a blank second line. An alarm that
   // overstates gets ignored, and then the one that matters is ignored with it.
-  const isTally = (l) => /^\d+\s+\w+\(s\)\s/.test(l);
+  // A count line, not a finding. The second shape covers headers that put a
+  // word between the number and the (s) — "64 finished, published event(s); 1
+  // translation(s) still read as upcoming" was being read as a problem of its
+  // own and reported to the owner as "점검 항목 — 대상 미상".
+  const isTally = (l) => /^\d+\s+\w+\(s\)\s/.test(l) || /^\d+\s+[\w,\s]+\(s\)[;:]/.test(l);
   const isChrome = (l) =>
     /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋]/.test(l) || /^-{3,}$/.test(l) ||
     /^\d+\s*type\(s\) had no pages/.test(l) || isTally(l);
