@@ -73,7 +73,7 @@ if (DRY) {
 }
 
 const targets = flagged.slice(0, LIMIT);
-let repaired = 0, restored = 0;
+let repaired = 0, restored = 0, translatorFailures = 0;
 
 for (let i = 0; i < targets.length; i += BATCH) {
   const batch = targets.slice(i, i + BATCH);
@@ -97,6 +97,14 @@ for (let i = 0; i < targets.length; i += BATCH) {
       encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], maxBuffer: 5e7,
     });
     summary = /TRANSLATE_SUMMARY .*/.exec([run.stdout, run.stderr].join('\n'))?.[0] ?? '(no summary)';
+    // The translator's own verdict was never read. It could write the files and
+    // still exit non-zero — a language that failed, an API limit part-way — and
+    // this reported a clean repair. It does not change what we keep (the files
+    // are judged on their own below), but it must not vanish from the result.
+    if (run.status !== 0) {
+      translatorFailures++;
+      console.log(`  ⚠ translate-posts exited ${run.status}${run.signal ? ` (${run.signal})` : ''} — the files below are judged on their contents, but the translator reported a failure`);
+    }
     if (batch.every((j) => existsSync(j.file))) break;
     if (attempt < 3) console.log(`  ↻ batch incomplete, running the translator again (${attempt + 1}/3)`);
   }
@@ -107,7 +115,14 @@ for (let i = 0; i < targets.length; i += BATCH) {
     // old code counted that as repaired, dropped the stored verdict, and threw
     // away the good copy. Require a real document: frontmatter and some body.
     const made = existsSync(j.file) ? readFileSync(j.file, 'utf8') : '';
-    const looksTranslated = /^---\r?\n[\s\S]*?\r?\n---/.test(made) && made.trim().length > 200;
+    // Measuring the WHOLE file let frontmatter alone clear the bar: a 240-character
+    // description with no article under it counted as a repaired translation, the
+    // stored verdict was dropped, and the good copy was thrown away. Measure the
+    // body, and only the body. A real translated guide runs to several thousand
+    // characters; 400 is a floor no stub reaches and no genuine article approaches.
+    const fm = /^---\r?\n[\s\S]*?\r?\n---\r?\n/.exec(made);
+    const body = fm ? made.slice(fm[0].length) : '';
+    const looksTranslated = Boolean(fm) && body.trim().length > 400;
     if (looksTranslated) {
       repaired++;
       // The judge must look at the new text, not remember the old verdict.
@@ -124,12 +139,23 @@ for (let i = 0; i < targets.length; i += BATCH) {
   } finally {
     // Whatever happened above, no reader loses a page to this tool.
     for (const [file, text] of kept) {
-      if (!existsSync(file)) {
-        writeFileSync(file, text, 'utf8');
-        console.log(`  ↩ ${file} — restored after an interrupted batch`);
+      // A restore that throws must not replace the error that caused the abort:
+      // JavaScript propagates only the exception raised inside finally, so an
+      // ENOSPC here would hide the EACCES that started it. Report and carry on.
+      try {
+        if (!existsSync(file)) {
+          writeFileSync(file, text, 'utf8');
+          console.log(`  ↩ ${file} — restored after an interrupted batch`);
+        }
+      } catch (err) {
+        console.log(`  ❗ ${file} — COULD NOT BE RESTORED: ${err.message}`);
       }
     }
   }
 }
 
-console.log(`\nFLAGGED_TRANSLATION_REPAIR repaired=${repaired} restored=${restored} remaining=${flagged.length - repaired}`);
+// `absent` are keys that were asked for and have no file at all. Leaving them out
+// of `remaining` reported a completed no-op — repaired=0 restored=0 remaining=0 —
+// over pages that have no translation in that language whatsoever.
+const remaining = flagged.length - repaired + absent.length;
+console.log(`\nFLAGGED_TRANSLATION_REPAIR repaired=${repaired} restored=${restored} missing=${absent.length} translator-failures=${translatorFailures} remaining=${remaining}`);

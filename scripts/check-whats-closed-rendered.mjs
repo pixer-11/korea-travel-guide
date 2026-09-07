@@ -30,7 +30,11 @@ for (const lang of LANGS) {
   const html = readFileSync(file, 'utf8');
   // Only what a reader sees: the client island is stripped first, so a page whose
   // dates exist solely inside <script> counts as empty, which is the point.
-  const visible = html.replace(/<script[\s\S]*?<\/script>/gi, ' ');
+  // Comments are not delivered text either — a commented-out row counted as a
+  // rendered one, which is the same lie as the client island.
+  const visible = html
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ');
 
   // Counting <time> ANYWHERE on the page was too generous: a footer timestamp, a
   // date input, or a stray dated element elsewhere in the layout would have made
@@ -46,7 +50,13 @@ for (const lang of LANGS) {
   // datetime is not necessarily the first attribute, and the quotes are not
   // necessarily double — <time class="date" datetime='2026-09-07'> is valid and
   // visible, and the old pattern read it as nothing.
-  const rows = answer.match(/<time[^>]*\sdatetime=["']\d{4}-\d{2}-\d{2}["']/gi) ?? [];
+  // A row must be one the reader can actually read: `hidden` is not rendered,
+  // and <time datetime="…"></time> with nothing between the tags is an empty
+  // answer wearing the markup of a full one. Both counted as rows before.
+  const rows = [...answer.matchAll(/<time([^>]*)>([\s\S]*?)<\/time>/gi)]
+    .filter(([, attrs, inner]) => /\sdatetime=["']\d{4}-\d{2}-\d{2}["']/i.test(attrs)
+      && !/\shidden(\s|=|$)/i.test(attrs)
+      && inner.replace(/<[^>]*>/g, '').trim() !== '');
   if (rows.length === 0) {
     console.log(`  ❌ ${label}: no dated rows in the delivered HTML — the default view is empty`);
     failed++;

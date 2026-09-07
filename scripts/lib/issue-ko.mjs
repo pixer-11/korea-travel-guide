@@ -227,6 +227,11 @@ export function koIssueLine(raw) {
     [/ENDED-EVENT-FUTURE-TENSE/, () => '끝난 행사인데 본문이 아직 예정처럼 쓰여 있음'],
     // 2026-09-07에 또 같은 일이 났다 — 새 검사 3종을 만들고 이 표에 등록하지 않아,
     // 알림이 "점검 필요 (코드 …)"로 나갔다. 검사를 새로 만들면 여기부터.
+    // 검사가 "입력이 없어 아무것도 못 봤다"고 말한 줄이 코드만 보고 내용 결함으로
+    // 번역되던 자리(09-08). "빌드 결과가 0쪽"이 "언어 전환 링크가 잘못됨"으로,
+    // "프론트매터를 못 읽음"이 "보류 글이 공개돼 있음"으로 나갔다. 원인이 아예 다르다.
+    [/(no frontmatter block|does not parse|Nothing was audited|nothing was audited|nothing was checked|built page\(s\) found|dist not found)/i,
+      () => '검사를 하지 못했음 — 입력(빌드 결과·파일)이 없거나 읽히지 않음'],
     [/ENDED-EVENT-I18N-TENSE/, () => '끝난 행사인데 번역문이 아직 예정처럼 쓰여 있음'],
     [/HELD-BUT-PUBLISHED/, () => '보류 표시가 붙은 글이 아직 공개돼 있음'],
     [/LINK-DESTINATION/, () => '언어 전환 링크가 안내와 다른 곳으로 감'],
@@ -309,7 +314,18 @@ export function koDigest(stdout, { max = 20 } = {}) {
   // word between the number and the (s) — "64 finished, published event(s); 1
   // translation(s) still read as upcoming" was being read as a problem of its
   // own and reported to the owner as "점검 항목 — 대상 미상".
-  const isTally = (l) => /^\d+\s+\w+\(s\)\s/.test(l) || /^\d+\s+[\w,\s]+\(s\)[;:]/.test(l);
+  // A count line, not a finding. The second shape covers headers that put a word
+  // between the number and the (s) — "64 finished, published event(s); 1
+  // translation(s) still read as upcoming" was being read as a problem of its own
+  // and reported as "점검 항목 — 대상 미상".
+  //
+  // But a header summarises; it never names the thing. "1 translation(s):
+  // broken.md" matched the broader shape and a real finding was thrown away as
+  // chrome, after which a ✓ line made the whole run look clean. So a line that
+  // names a file or a path is a finding no matter how it starts.
+  const namesSomething = (l) => /\.md\b|\/[\w-]/.test(l);
+  const isTally = (l) => !namesSomething(l)
+    && (/^\d+\s+\w+\(s\)\s/.test(l) || /^\d+\s+[\w,\s]+\(s\)[;:]/.test(l));
   const isChrome = (l) =>
     /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋]/.test(l) || /^-{3,}$/.test(l) ||
     /^\d+\s*type\(s\) had no pages/.test(l) || isTally(l);

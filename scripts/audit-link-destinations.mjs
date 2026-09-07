@@ -38,7 +38,13 @@ const SWITCHER_LABELS = { en: 'English', ko: '한국어', ja: '日本語', es: '
 const PER_SHAPE = 2;
 // A path segment counts as a variable (an id, a slug) rather than a template
 // name when its parent has this many siblings under it. See shapeOf.
-const VARIABLE_FANOUT = 25;
+// Set high on purpose. At 25 the /essentials/ branch — six fixed templates
+// (best-time-to-visit, emergency, money, visa …) plus twenty country pages, 26
+// children in all — tipped over into "these are all slugs", and the sampler took
+// two of the twenty-six. A broken /ko/essentials/visa/ would never have been
+// opened. The real slug collections are in the hundreds or thousands, so there
+// is a wide gap to sit in: posts (1,408) and regions (317) still collapse.
+const VARIABLE_FANOUT = 100;
 
 // Exit 0 here meant "no dist, nothing wrong" — and the workflow, which reads a
 // non-empty log as a completed audit, painted that green. A missing build is a
@@ -149,14 +155,29 @@ for (const file of sampled) {
   }
 
   // The switcher: find each locale's labelled anchor and read where it goes.
+  // Which languages this page actually offers — needed below, because a page
+  // that has a switcher and is missing one of its buttons is a different fault
+  // from a page that has no switcher at all (a 404, a bare redirect stub).
+  const anchorOf = (label) =>
+    new RegExp(`<a[^>]*\\shref=["']([^"']+)["'][^>]*>(?:\\s|<[^>]+>)*${label}(?:\\s|<[^>]+>)*</a>`).exec(html);
+  const hasSwitcher = Object.values(SWITCHER_LABELS).some((l) => anchorOf(l));
+
   for (const [lang, label] of Object.entries(SWITCHER_LABELS)) {
     // The label may be wrapped — <a …><span>한국어</span></a> is the same button —
     // and the attributes may be single-quoted. The old pattern demanded the label
     // as the anchor's bare text with double-quoted href, and simply skipped the
     // language when it did not match: every switcher check could vanish while the
     // run still printed a tick.
-    const m = new RegExp(`<a[^>]*\\shref=["']([^"']+)["'][^>]*>(?:\\s|<[^>]+>)*${label}(?:\\s|<[^>]+>)*</a>`).exec(html);
-    if (!m) continue;
+    const m = anchorOf(label);
+    if (!m) {
+      // A missing button used to be silently fine, so a switcher that lost one
+      // language looked identical to a page that never had one. Only flagged
+      // when the page HAS a switcher and claims this language exists.
+      if (hasSwitcher && alternates.get(lang)) {
+        problems.push(`${url} — declares a ${lang} alternate but has no ${label} button in its switcher`);
+      }
+      continue;
+    }
     const dest = pathOf(m[1], url, `the ${label} button`);
     if (dest === null) continue;   // already reported as off-site or unparseable
     // English has no locale prefix: its root is `/`, not `/en/`.
@@ -179,6 +200,12 @@ for (const file of sampled) {
       if (built.has(wouldBe)) {
         problems.push(`${url} — the ${label} button drops the reader at ${dest}, but ${wouldBe} exists (missing localized={true}?)`);
       }
+    } else if (!built.has(dest)) {
+      // Last, so the two diagnoses above keep their more specific wording. With
+      // no hreflang to compare against, a typo — <a href="/ko/tools/whats-clsoed/">
+      // — was neither the locale root nor a mismatch, so nothing looked at it and
+      // the reader got a 404 from a button the audit had just called correct.
+      problems.push(`${url} — the ${label} button goes to ${dest}, which was not built`);
     }
   }
 }

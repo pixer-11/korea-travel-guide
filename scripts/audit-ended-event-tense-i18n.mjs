@@ -107,11 +107,23 @@ for (const file of readdirSync(POSTS).filter((f) => f.endsWith('.md'))) {
       // reported it as a tense error, sending the repair tool after content
       // that was correct. Drop the whole block: the q: line and everything
       // indented under it.
+      // Only the block scalar's own CONTINUATION lines are dropped. Skipping
+      // everything indented under the q: took the ANSWER with it — `a: Se
+      // celebrará en Madrid.` sits deeper than its `- q:` and vanished, and since
+      // nothing reset the state, every answer in the file went with it. The
+      // answer is the half that must be in the past tense, so that turned this
+      // audit into one that reads questions and ignores answers.
+      //
+      // A continuation line is plain text; a sibling key is `a:`, `title:` and
+      // the like. Our keys are ASCII, and translated prose is not, so the key
+      // pattern cannot match the Korean, Japanese or Chinese text it carries.
       .split('\n').reduce((keep, line) => {
         const indent = /^(\s*)/.exec(line)[1].length;
+        const isKey = /^\s*-?\s*[A-Za-z_][\w-]*:(\s|$)/.test(line);
         if (/^\s*-?\s*q:/i.test(line)) { keep.skipUnder = indent; return keep; }
         if (keep.skipUnder !== null) {
-          if (line.trim() === '' || indent > keep.skipUnder) return keep;
+          if (line.trim() === '') return keep;
+          if (indent > keep.skipUnder && !isKey) return keep;
           keep.skipUnder = null;
         }
         keep.out.push(line);

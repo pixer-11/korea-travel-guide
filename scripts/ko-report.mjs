@@ -80,7 +80,13 @@ const ENGLISH_SENTENCE = /[A-Za-z]{4,}\s+[A-Za-z]{3,}\s+[A-Za-z]{3,}/;
 // quoted words as a leak and replaced the whole line with "점검 항목 — 실행 로그
 // 확인 필요", so the owner learned a problem existed and lost which one it was.
 // Quoted English is evidence; only unquoted English is a leak.
-const withoutQuotes = (s) => s.replace(/"[^"]*"|「[^」]*」|'[^']*'/g, ' ');
+// Straight single quotes are NOT treated as quotation here. They are apostrophes
+// far more often than they are quotes, and pairing them swallowed the sentence
+// between two contractions: "owner's alert has real English prose and it's bad"
+// became "owner s bad", which no longer looks like English, so the untranslated
+// line went out to the owner intact. The diagnoses that legitimately quote
+// English all use double quotes.
+const withoutQuotes = (s) => s.replace(/"[^"]*"|「[^」]*」/g, ' ');
 const leaksEnglish = (s) => ENGLISH_SENTENCE.test(withoutQuotes(s));
 
 /** `• slug.md · evidence — 설명` → [before, evidence, after], or null when the

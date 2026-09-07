@@ -145,3 +145,43 @@ test('an unparseable alternate is reported, not skipped', () => {
     assert.match(r.stdout, /is not a usable URL/);
   } finally { rmSync(dir, { recursive: true, force: true }); }
 });
+
+test('a switcher pointing at a page that was never built is caught', () => {
+  const dir = fresh();
+  try {
+    siteWith(dir, `<html><body>${A('/ko/tools/whats-clsoed/', '한국어')}</body></html>`);
+    const r = run(dir);
+    assert.equal(r.status, 1, `a typo'd destination must be caught: ${r.stdout}`);
+    assert.match(r.stdout, /the 한국어 button goes to \/ko\/tools\/whats-clsoed\/, which was not built/);
+  } finally { rmSync(dir, { recursive: true, force: true }); }
+});
+
+test('a switcher missing one of its languages is caught', () => {
+  const dir = fresh();
+  try {
+    // Declares Korean and Japanese, but only renders the Korean button.
+    for (let i = 0; i < 60; i++) page(dir, `/filler-${i}/`, '<html><body>ok</body></html>');
+    page(dir, '/ja/tools/x/', '<html><body>ja</body></html>');
+    page(dir, '/ko/tools/x/', '<html><body>ko</body></html>');
+    page(dir, '/tools/x/', '<html><head>'
+      + '<link rel="alternate" hreflang="ko" href="https://wanderatlasguides.com/ko/tools/x/">'
+      + '<link rel="alternate" hreflang="ja" href="https://wanderatlasguides.com/ja/tools/x/">'
+      + `</head><body>${A('/ko/tools/x/', '한국어')}</body></html>`);
+    const r = run(dir);
+    assert.equal(r.status, 1, `a missing button must be caught: ${r.stdout}`);
+    assert.match(r.stdout, /declares a ja alternate but has no 日本語 button/);
+  } finally { rmSync(dir, { recursive: true, force: true }); }
+});
+
+test('a page with no switcher at all is not nagged', () => {
+  const dir = fresh();
+  try {
+    for (let i = 0; i < 60; i++) page(dir, `/filler-${i}/`, '<html><body>ok</body></html>');
+    page(dir, '/ko/tools/x/', '<html><body>ko</body></html>');
+    page(dir, '/tools/x/', '<html><head>'
+      + '<link rel="alternate" hreflang="ko" href="https://wanderatlasguides.com/ko/tools/x/">'
+      + '</head><body>a redirect stub, no switcher</body></html>');
+    const r = run(dir);
+    assert.equal(r.status, 0, `a page with no switcher must pass: ${r.stdout}`);
+  } finally { rmSync(dir, { recursive: true, force: true }); }
+});
