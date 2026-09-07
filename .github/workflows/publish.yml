@@ -698,10 +698,16 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # A hold and a published page are a contradiction, and for fifteen days
+      # nothing was looking at the contradiction: a cancelled concert stayed live
+      # and the social picker advertised it (2026-09-07). Runs with the content
+      # validator so one red step covers both.
       - name: Validate content integrity
         id: validate
         continue-on-error: true
-        run: node scripts/validate-content.mjs
+        run: |
+          node scripts/validate-content.mjs
+          node scripts/audit-held-but-published.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'

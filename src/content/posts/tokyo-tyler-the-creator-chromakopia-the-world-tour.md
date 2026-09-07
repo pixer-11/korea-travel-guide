@@ -23,7 +23,7 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: Ariake is close to Odaiba's waterfront attractions, teamLab digital art museums, and Toyosu Market, all reachable within a short train ride, making it easy to pair the concert with sightseeing.
 aiGenerated: true
-draft: false
+draft: true
 heldReason: past-event
 eventRecurring: false
 eventOrganizer:

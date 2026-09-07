@@ -74,6 +74,12 @@ const auditStore = (() => { try { return JSON.parse(readFileSync('data/visual-au
 const GENERIC_TITLE = /^(local|best|top|hidden|popular|trendy|famous|traditional)\s+(restaurant|cafe|market|spot|gem|food|place|attraction|sight)s?\s+in\s+/i;
 const cardEligible = (slug, fm) => {
   if (fm?.draft) return false;
+  // A post the repo has flagged is never social material, whatever its draft
+  // flag says. On 2026-09-07 this picker chose "Christina Aguilera Live (Abu
+  // Dhabi)" — heldReason: cancelled, because the organiser called the show off —
+  // and posted it to Threads AND Instagram. A card is the most public surface we
+  // have, and it advertised a concert that is not happening.
+  if (fm?.heldReason) return false;
   const title = String(fm?.title || '').split(':')[0].trim();
   if (GENERIC_TITLE.test(title)) return false;
   if (fm?.category !== 'event' && !fm?.place?.name) return false;
