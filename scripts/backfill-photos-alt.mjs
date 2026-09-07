@@ -11,6 +11,17 @@
 //  or SLUGS env (comma-separated) for a manual priority run. draft:true EVENT
 //  posts are targets too, but repaired via the event-mode Commons search
 //  (performer/sport photos), not the venue sources below.
+//
+//  QUEUE ORDER (2026-09-07): the quarantine queue is served in Search Console
+//  EARNINGS order, not alphabetical. Measured that day: 4 of the site's 17
+//  four-week clicks land on quarantined pages that 302 away — the best,
+//  yeosu-bokchun-restaurant (3 clicks, position 4.3, 100% CTR), is the
+//  best-performing page on the whole site and never got an attempt because
+//  `readdir` served the alphabetical head of the list first. See
+//  scripts/lib/photo-queue-order.mjs. Never a reason to force-release a
+//  quarantined post (still stock photos / wrong buildings) — only which
+//  draft gets tonight's search budget first. SLUGS still overrides this
+//  entirely, unchanged.
 //  Env: FOURSQUARE_API_KEY / FLICKR_API_KEY (either or both; skips cleanly if
 //  neither), ANTHROPIC_API_KEY (vision), LIMIT (default 300), DRY=1.
 //  Usage: node scripts/backfill-photos-alt.mjs
@@ -34,6 +45,7 @@ import { twinIndex } from './lib/live-event-twins.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
+import { orderPhotoQueue } from './lib/photo-queue-order.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -117,7 +129,21 @@ if (existsSync('data/full-audit.json')) {
 
 const world = await loadWorld();
 const used = await loadUsedImageUrls(POSTS);
-const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
+const rawFiles = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
+
+// Serve the queue in Search Console earnings order (see the header comment
+// and scripts/lib/photo-queue-order.mjs). The ledger is optional and
+// best-effort: a missing or unparseable file must leave tonight's run
+// exactly as alphabetical as it always was, never throw.
+let pagePerf = {};
+try {
+  if (existsSync('data/gsc-page-performance.json')) {
+    pagePerf = JSON.parse(readFileSync('data/gsc-page-performance.json', 'utf8')).pages || {};
+  }
+} catch {}
+const files = orderPhotoQueue(rawFiles, Object.fromEntries(
+  Object.entries(pagePerf).map(([slug, row]) => [`${slug}.md`, row]),
+));
 
 // One event, one live page. A verified new photo lifts the draft flag further
 // down this file — and on 2026-08-31 it lifted two drafts that each duplicated

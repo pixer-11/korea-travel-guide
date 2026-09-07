@@ -8,7 +8,67 @@
 //
 // Auth, the GSC query call and the Telegram post live in lib/gsc.mjs — shared with
 // audit-impression-cohort.mjs so the two can't drift.
+//
+// 2026-09-07: this run also refreshes data/gsc-page-performance.json, the
+// per-slug earnings ledger scripts/backfill-photos-alt.mjs reads to decide
+// which quarantined draft gets tonight's photo-search attempt first (see that
+// file's header). The Telegram report is the deliverable that must never be
+// lost, so the ledger write is best-effort and wrapped separately — a failed
+// write logs and moves on, it never skips or reshapes the report below.
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { getAccessToken, query, telegram, day, serviceAccount } from './lib/gsc.mjs';
+
+const LEDGER_PATH = 'data/gsc-page-performance.json';
+
+// Match https://wanderatlasguides.com/{,ko/,ja/,es/,zh/}posts/<slug>/ and sum
+// clicks/impressions per slug across languages, keeping the best (lowest)
+// position rounded to one decimal — the same aggregation used to build the
+// first hand-measured version of this file on 2026-09-07.
+const PAGE_RE = /^https:\/\/wanderatlasguides\.com\/(?:ko|ja|es|zh)?\/?posts\/([^/]+)\/?$/;
+
+function aggregateBySlug(rows) {
+  const bySlug = {};
+  for (const r of rows ?? []) {
+    const url = r.keys?.[0];
+    const m = url && url.match(PAGE_RE);
+    if (!m) continue;
+    const slug = m[1];
+    bySlug[slug] ??= { clicks: 0, impressions: 0, position: null };
+    const entry = bySlug[slug];
+    entry.clicks += r.clicks ?? 0;
+    entry.impressions += r.impressions ?? 0;
+    if (r.position != null && (entry.position == null || r.position < entry.position)) {
+      entry.position = r.position;
+    }
+  }
+  for (const entry of Object.values(bySlug)) {
+    if (entry.position != null) entry.position = Math.round(entry.position * 10) / 10;
+  }
+  return bySlug;
+}
+
+async function refreshPagePerformanceLedger(token, siteUrl) {
+  // Independent window from the 7-day report above: clicks on a young site
+  // are sparse (17 total site-wide over four weeks, per the 2026-09-07
+  // measurement that motivated this file), so the ledger asks for a full
+  // 4 weeks ending 2 days ago rather than the report's 7-day window — the
+  // same span the first hand-built version of this ledger used.
+  const endDate = day(-2), startDate = day(-30);
+  try {
+    const allPages = await query(token, siteUrl, { startDate, endDate, dimensions: ['page'], rowLimit: 25000 });
+    const pages = aggregateBySlug(allPages.rows);
+    const ledger = {
+      measured: day(0),
+      window: { start: startDate, end: endDate },
+      note: 'Per-slug Search Console performance, languages summed. Written by scripts/gsc-report.mjs on its daily run; consumed by scripts/backfill-photos-alt.mjs to serve the photo queue in earnings order.',
+      pages,
+    };
+    writeFileSync(LEDGER_PATH, JSON.stringify(ledger, null, 1) + '\n');
+  } catch (e) {
+    // A ledger is not worth losing the daily report over — log and move on.
+    console.error(`gsc-page-performance.json refresh failed: ${e.message.slice(0, 300)}`);
+  }
+}
 
 async function main() {
   const sa = serviceAccount();
@@ -30,6 +90,10 @@ async function main() {
     await telegram(`🔎 Wander Atlas — 검색 리포트 오류\n${e.message.slice(0, 300)}`);
     return;
   }
+
+  // Best-effort, self-contained (own try/catch) — never allowed to affect
+  // the report below, which is the actual deliverable of this run.
+  await refreshPagePerformanceLedger(token, GSC_SITE_URL);
 
   const t = totals.rows?.[0] ?? { clicks: 0, impressions: 0, ctr: 0, position: 0 };
   const rows = queries.rows ?? [];
