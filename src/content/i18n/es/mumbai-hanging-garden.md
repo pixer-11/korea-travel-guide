@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-hanging-garden
-srcHash: '5dabf41a8fcc'
+srcHash: 'eeccd488c644'
 title: 'Hanging Garden: guía de viaje de Bombay (4,2★)'
 description: 'El Hanging Garden (también llamado Pherozeshah Mehta Gardens) corona Malabar Hill en Bombay y abre todos los días de 5:00 a 21:00; conviene visitarlo temprano por la mañana o justo después del amanecer para disfrutar de aire fresco y vistas despejadas del mar Arábigo. 4,2★ (37.903 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Hanging Garden (también llamado Pherozeshah Mehta Gardens) corona Malabar Hill en Bombay y abre todos los días de 5:00 a 21:00. Lo mejor es visitarlo temprano por la mañana o justo después del amanecer, cuando el aire es fresco y las vistas del mar Arábigo son más claras. Conviene evitar las tardes de fin de semana, ya que entre las 15:00 y las 21:00 es cuando más gente hay. La entrada es gratuita y una visita dura entre 45 minutos y una hora.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega al Hanging Garden?
     a: No hay una estación de tren directa, así que conviene tomar un taxi o un coche por aplicación que suba por Ridge Road, en Malabar Hill, ya que los autorickshaws no están permitidos en este tramo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

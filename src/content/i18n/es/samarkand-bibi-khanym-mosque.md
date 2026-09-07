@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-bibi-khanym-mosque
-srcHash: 'a9be3eeb7220'
+srcHash: '8ff84056c48a'
 title: 'Mezquita Bibi-Khanym: guía de viaje de Samarcanda (4,6★)'
 description: 'La mezquita Bibi-Khanym es el monumental templo timúrida del siglo XIV de Samarcanda, a cinco minutos a pie al noreste del bazar de Siab y el Registán. 4,6★ (2.873 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La mezquita Bibi-Khanym es el monumental templo timúrida del siglo XIV de Samarcanda, situado a cinco minutos a pie al noreste del bazar de Siab y el Registán. Abre todos los días, de 7:00 a 22:00 entre semana y desde las 9:00 los fines de semana; conviene ir a primera hora de la mañana para tener el patio y la cúpula azul casi para uno mismo, ya que los fines de semana se llena entre el mediodía y las 18:00. Calcule entre 45 y 60 minutos de visita.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene evitar?
     a: 'Evite los fines de semana entre las 12:00 y las 18:00, cuando la afluencia alcanza su punto máximo: es el momento de mayor concurrencia de toda la semana.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Antes de llegar a la puerta, ya se distingue la cúpula. Se alza sobre los tejados de la Samarcanda antigua, y su superficie turquesa acanalada capta la luz de la mañana mucho antes de que se alcance el pórtico de entrada, en la calle Bibikhonim.
 

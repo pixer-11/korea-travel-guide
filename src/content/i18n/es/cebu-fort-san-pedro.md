@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cebu-fort-san-pedro
-srcHash: '8998ebd2e403'
+srcHash: '8788602735ac'
 title: 'Fuerte San Pedro: Guía de viaje de Cebú'
 description: El Fuerte San Pedro se encuentra en el límite de la Plaza Independencia, en el centro de la ciudad de Cebú, una fortaleza de piedra triangular y baja que se puede recorrer en 30-45 minutos.
 quickAnswer: El Fuerte San Pedro se encuentra en el límite de la Plaza Independencia, en el centro de la ciudad de Cebú, una fortaleza de piedra triangular y baja que se puede recorrer en 30-45 minutos. Es un hito muy visitado (4.2 estrellas, casi 8,000 reseñas), así que procura ir a primera hora de la mañana, justo después de la apertura, o más avanzada la tarde para evitar las aglomeraciones de autobuses turísticos. Combínalo con la cercana Malacañang sa Sugbo y la zona del muelle del puerto de Cebú para pasar medio día de historia colonial española.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento para visitar y evitar las multitudes?
     a: 'Ve poco después de la apertura por la mañana o más avanzada la tarde: de media mañana a primera hora de la tarde suele atraer grupos turísticos y excursiones escolares, ya que este es uno de los sitios más visitados de Cebú.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

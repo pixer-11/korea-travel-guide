@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell Lau Pa Sat before you see it properly — a wall of charcoal smoke, chilli, and grilled lemongrass drifting out from under the cast-iron canopy onto Raffles Quay. Then the building itself resolves out of the glass-and-steel skyline around it: an octagonal Victorian market hall, its ironwork painted a deep green-and-cream, looking like it wandered in from another century and got surrounded by bank towers.
 
 It has, more or less. The structure dates to the 1890s, prefabricated in Glasgow and shipped out as one of colonial Singapore's original produce markets, later reassembled and converted into the hawker centre you see today.

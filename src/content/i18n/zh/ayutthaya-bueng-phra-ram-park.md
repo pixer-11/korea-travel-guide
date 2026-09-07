@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-bueng-phra-ram-park
-srcHash: '3fafbe54268e'
+srcHash: '41a8831a5276'
 title: 帕拉姆湖公园（Bueng Phra Ram Park）：大城府（Ayutthaya）旅游指南（4.4★）
 description: 帕拉姆湖公园（Bueng Phra Ram Park）是大城府（Ayutthaya）历史岛核心地带的大型公共湖泊与绿地，坐落于帕拉姆寺（Wat Phra Ram）和玛哈泰寺（Wat Mahathat）之间——免费入场、露天开放，最适合在清晨凉爽时分或日落前散步或野餐。4.4★（2,003条评价）——看看游客怎么说、开放时间和实用贴士。
 quickAnswer: 帕拉姆湖公园（Bueng Phra Ram Park）是大城府（Ayutthaya）历史岛核心地带的大型公共湖泊与绿地，坐落于帕拉姆寺（Wat Phra Ram）和玛哈泰寺（Wat Mahathat）之间——免费入场、露天开放，最适合在清晨凉爽时分或日落前散步或野餐。周末下午4点到晚上11点这段时间，公园会因当地人前来锻炼和光顾小吃摊而变得热闹拥挤，因此如果想在平静的水面上看到古迹倒影、又不想被人群打扰，建议选择上午稍晚或午后时段前往。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一去的地方？
     a: 帕拉姆寺（Wat Phra Ram）就在湖边，而以树根环绕的著名佛头闻名的玛哈泰寺（Wat Mahathat）步行即可到达，两者都很适合和公园串联在一次出行中游览。
 ---
-
-> **本指南制作方式：** 编辑审校，AI辅助生成。数据来自Google Places实时信息；图片为授权或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

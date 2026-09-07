@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-the-last-bookstore
-srcHash: 'ac178b831ab3'
+srcHash: '7297eed1c8f1'
 title: 'The Last Bookstore: guía de viaje de Los Ángeles (4.7★)'
 description: 'The Last Bookstore ocupa un antiguo edificio bancario de 1914 en el 453 S Spring St, en el Historic Core del centro de Los Ángeles: el atractivo son el túnel espiral de libros, la antigua cámara acorazada convertida en sala de terror y varios pisos repletos de títulos usados y nuevos. 4.7★ (12,810 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'The Last Bookstore ocupa un antiguo edificio bancario de 1914 en el 453 S Spring St, en el Historic Core del centro de Los Ángeles: el atractivo son el túnel espiral de libros, la antigua cámara acorazada convertida en sala de terror y varios pisos repletos de títulos usados y nuevos. Con más de 12,000 reseñas y una calificación de 4.7, recibe bastante afluencia, así que lo mejor es ir de noche: los momentos más tranquilos son de 7 a 11 p.m. entre semana y de 8 a 11 p.m. los fines de semana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para completar medio día de paseo?
     a: El Grand Central Market, el edificio Bradbury, Pershing Square y la histórica hilera de teatros de Broadway están todos a poca distancia caminando.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes están licenciadas o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

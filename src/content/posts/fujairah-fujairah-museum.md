@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come to Fujairah Museum for context, not crowds. It sits in Al Sharyah, in the shadow of Fujairah Fort, and most visitors treat the two as a single stop — fort first, museum second, or the other way around.
 
 The building itself is modest from outside, low and sand-colored, easy to mistake for a government office. Inside, the air-conditioning hits you first, a relief if you've walked over from the fort in the midday heat. The galleries are compact and dimly lit to protect the objects, which makes the display cases glow.

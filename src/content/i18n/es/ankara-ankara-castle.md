@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ankara-ankara-castle
-srcHash: '122be7d2be25'
+srcHash: 'e1fad99a1ab2'
 title: 'Castillo de Ankara: Guía de viaje'
 description: El Castillo de Ankara (Ankara Kalesi) corona el antiguo distrito de Kale sobre una colina rocosa que domina el centro de la ciudad — sube a última hora de la tarde para disfrutar de vistas panorámicas sobre los tejados y minaretes de Ankara, y calcula entre 1,5 y 2 horas para recorrer las murallas, las torres y las callejuelas del barrio histórico en su interior.
 quickAnswer: El Castillo de Ankara (Ankara Kalesi) corona el antiguo distrito de Kale sobre una colina rocosa que domina el centro de la ciudad — sube a última hora de la tarde para disfrutar de vistas panorámicas sobre los tejados y minaretes de Ankara, y calcula entre 1,5 y 2 horas para recorrer las murallas, las torres y las callejuelas del barrio histórico en su interior. La entrada a las murallas y calles es gratuita (algunos miradores de las torres pueden cobrar una pequeña tarifa), y se trata de un lugar muy visitado, así que las mañanas entre semana son más tranquilas que las tardes de fin de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Con qué más puedo combinar una visita al castillo?
     a: El Anıtkabir (mausoleo de Atatürk) y el Museo de las Civilizaciones de Anatolia (Museum of Anatolian Civilizations) están a poca distancia de Ulus y encajan de forma natural con una visita al castillo en el mismo día.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 La subida empieza antes de que te des cuenta de que ha comenzado. Desde Ulus, las calles se inclinan hacia arriba, los adoquines sustituyen al asfalto y el ruido de la ciudad moderna se va apagando hasta que caminas entre casas de piedra apiladas unas sobre otras, ropa tendida entre ventanas, gatos tomando el sol en los portales. Este es el distrito de Kale, y sobre él se alza, macizo y desgastado por el tiempo, el doble anillo de murallas que le da al Castillo de Ankara su silueta reconocible desde casi cualquier punto de la ciudad.
 

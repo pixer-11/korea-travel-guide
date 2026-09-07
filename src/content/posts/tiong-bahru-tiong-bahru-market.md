@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tiong Bahru Market matters
 
 This isn't a tourist food hall dressed up for visitors. It's a working wet market with a hawker centre stacked on top, serving the surrounding Tiong Bahru estate the way it has for decades.

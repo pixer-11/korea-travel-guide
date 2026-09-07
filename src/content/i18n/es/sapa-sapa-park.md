@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sapa-sapa-park
-srcHash: '31a046bb9fb2'
+srcHash: '445c492afa27'
 title: 'Parque de Sapa: Guía de viaje (4.2★)'
 description: 'El parque de Sapa es una pequeña plaza verde abierta las 24 horas en el centro de la ciudad de Sapa, ideal para una pausa tranquila de 20-30 minutos entre caminatas o visitas al mercado. 4.2★ (928 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque de Sapa es una pequeña plaza verde abierta las 24 horas en el centro de la ciudad de Sapa, ideal para una pausa tranquila de 20-30 minutos entre caminatas o visitas al mercado. Conviene ir entre las 7:00 y las 8:00 de la mañana los días laborables para disfrutar a solas de los bancos y la vista del lago; las noches de fin de semana, de 17:00 a 23:00, son las más concurridas. La entrada es gratuita, se puede llegar caminando desde la mayoría de los hoteles, y conviene verlo como un lugar de descanso más que como una atracción principal.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El lago de Sapa, la Iglesia de Piedra de Sapa y el mercado central están todos a poca distancia a pie, por lo que resulta fácil combinarlos en un mismo recorrido por la ciudad.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come off the crowded plaza at the Big Wild Goose Pagoda expecting more of the same souvenir-stall crush, and instead find yourself at a lakeside gate with upturned eaves and vermillion columns, the noise dropping away almost immediately. That's the first surprise of Tang Paradise: for a 165-acre theme park built around China's most romanticized dynasty, it feels remarkably uncrowded, even on a clear afternoon in high season.
 
 ## Why go

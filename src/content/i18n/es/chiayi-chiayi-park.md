@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiayi-chiayi-park
-srcHash: '86d1cc56b74c'
+srcHash: '291cb55f164c'
 title: 'Parque de Chiayi: Guía de Viaje (4,4★)'
 description: 'El Parque de Chiayi es un espacio verde de 26,8 hectáreas en el distrito East de la ciudad de Chiayi, con ruinas de un antiguo santuario, un templo de Confucio, una torre de observación de madera, estanques y una zona de juegos infantiles. 4,4★ (15.584 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque de Chiayi es un espacio verde de 26,8 hectáreas situado en el distrito East de la ciudad de Chiayi, que reúne ruinas de un antiguo santuario, un templo de Confucio, una torre de observación de madera, estanques y una zona de juegos infantiles. Está abierto las 24 horas y recibe muchas visitas, sobre todo los fines de semana entre las 8:00 y las 20:00, cuando hay más afluencia. Conviene reservar entre 1,5 y 2 horas para recorrerlo, y se puede combinar con el cercano Museo Municipal de Chiayi o con la Torre Sun Shooting.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: El Museo Municipal de Chiayi se encuentra justo en el límite del parque, mientras que la Torre Sun Shooting y el Templo de Confucio están ambos dentro del propio recinto del parque.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

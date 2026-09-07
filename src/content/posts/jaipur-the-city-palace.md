@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the City Palace still matters
 
 You step through Virendra Pol and the traffic noise of Jaipur just falls away. This isn't a ruin behind glass — it's a working palace complex, part museum, part royal residence, built from the 1720s onward by Maharaja Sawai Jai Singh II. The current royal family still occupies a private wing, which is why certain courtyards feel lived-in rather than roped-off.

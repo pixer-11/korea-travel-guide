@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: margilan-silk-factory
-srcHash: '2e0524600028'
+srcHash: '4139da32318a'
 title: 'Fábrica de seda: Guía de viaje de Margilán (4,9★)'
 description: 'La fábrica de seda de Margilán (en la calle Mustaqillik ko''chasi, en las afueras de la ciudad) es un taller textil en funcionamiento donde se elabora la seda ikat, abierto todos los días de 9:00 a 18:00. Es el mejor lugar cerca del valle de Fergana para presenciar todo el proceso, desde el hervido de los capullos hasta el anudado a mano y el tejido en telares de madera. 4,9★ (113 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La fábrica de seda de Margilán (en la calle Mustaqillik ko'chasi, en las afueras de la ciudad) es un taller textil en funcionamiento donde se elabora la seda ikat, abierto todos los días de 9:00 a 18:00. Es el mejor lugar cerca del valle de Fergana para presenciar todo el proceso, desde el hervido de los capullos hasta el anudado a mano y el tejido en telares de madera. Todavía es un lugar poco conocido, así que a menudo se puede conseguir una visita en grupo reducido o casi privada. Calcule una hora para la visita y combínela con el bazar de Kumtepa si su viaje coincide con un día de mercado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento para visitarla y evitar las multitudes?
     a: Las mañanas entre semana son las más tranquilas. Si además quiere ver el bazar, procure ir un jueves o domingo, cuando funciona el mercado de Kumtepa.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Margilán, y por qué esta fábrica
 

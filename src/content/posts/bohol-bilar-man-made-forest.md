@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel it before you see a sign: the temperature drops, the road narrows into a green tunnel, and sunlight breaks into thin, moving shafts through thousands of mahogany trunks planted arrow-straight on either side of the asphalt. For about two kilometers, the Loay Interior Road cuts through what is essentially a man-made corridor of forest — dense, quiet, and startlingly cool compared to the tropical glare of the rest of Bohol.

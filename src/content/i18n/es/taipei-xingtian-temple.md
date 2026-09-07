@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-xingtian-temple
-srcHash: '4c73e18789a8'
+srcHash: '02c70856b9b6'
 title: 'Templo Xingtian: guía de viaje de Taipéi (4,7★)'
 description: 'El templo Xingtian se encuentra en el número 109 de la sección 2 de Minquan E Rd, en el distrito de Zhongshan, abre a diario de 4:00 a 21:00 y la entrada es gratuita. 4,7★ (19.520 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El templo Xingtian se encuentra en el número 109 de la sección 2 de Minquan E Rd, en el distrito de Zhongshan, abre a diario de 4:00 a 21:00 y la entrada es gratuita. Está dedicado a Guan Gong, la deidad de los negocios y la lealtad, por lo que es habitual ver un flujo constante de oficinistas que buscan bendiciones para su carrera y sus finanzas. Conviene ir a primera hora de la mañana o a media tarde en un día laborable para evitar las mayores aglomeraciones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: La mayoría de los visitantes pasa entre 20 y 30 minutos observando el salón principal; conviene añadir tiempo extra si se quiere probar una lectura de la fortuna en la galería subterránea.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend in the park road and the traffic noise of Mumbai simply stops. In its place: teak and mango trees, the whoop of langurs somewhere up in the canopy, and then, rising out of a basalt hillside, dozens of dark doorways cut straight into the rock. Kanheri isn't one cave — it's a small monastic city, more than a hundred chambers carved between roughly the 1st century BCE and the 10th century CE, when Buddhist monks used this hill as a retreat and teaching centre on the old trade route between the coast and the Deccan plateau.

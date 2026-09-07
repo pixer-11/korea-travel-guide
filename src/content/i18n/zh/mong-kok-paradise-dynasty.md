@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mong-kok-paradise-dynasty
-srcHash: '51f739b6702e'
+srcHash: '6daff0e63ddb'
 title: 鼎泰丰？不，是Paradise Dynasty：旺角美食指南（4.8★）
 description: Paradise Dynasty旺角店最出名的，是一笼八色八味的彩虹小笼包。4.8★（6,314条评价）——食客怎么说、营业时间及实用建议，一文看懂。
 quickAnswer: Paradise Dynasty旺角店最出名的，是一笼八色八味的彩虹小笼包。餐厅位于弥敦道商场二楼，人均消费适中，无论平日还是周末，从上午11:30开门到下午较晚时段都比较清静。要避开的是周末傍晚5点到9点，这段时间排队会拉得很长。
@@ -17,8 +17,6 @@ faq:
   - q: 需要提前订位吗？
     a: 一般直接上门排队即可。平日小队伍通常不用等太久；但周末晚上人多的大桌，就要做好排队的心理准备了。
 ---
-
-> **本指南制作说明：** 编辑审核，AI辅助撰写。数据来自Google Places实时信息，图片均已获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## Paradise Dynasty的过人之处
 

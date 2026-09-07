@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-jose-rizal-monument
-srcHash: '3f74fba4db6c'
+srcHash: '2258e098f7e9'
 title: 'Monumento a José Rizal: Guía de viaje de Manila (4.6★)'
 description: 'El Monumento a José Rizal se encuentra en el extremo de Roxas Boulevard del parque Rizal, en Ermita, Manila, y permanece abierto las 24 horas, aunque el cambio de guardia y la mejor luz se dan a primera hora de la mañana o cerca del atardecer. 4.6★ (3,187 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento a José Rizal se encuentra en el extremo de Roxas Boulevard del parque Rizal, en Ermita, Manila, y permanece abierto las 24 horas, aunque el cambio de guardia y la mejor luz se dan a primera hora de la mañana o cerca del atardecer. Al tratarse de un lugar muy conocido, los fines de semana de 7:00 a 23:00 son los momentos de mayor afluencia, así que conviene ir un día laborable por la mañana. Calcule entre 30 y 45 minutos para el monumento en sí, más tiempo si además recorre el parque que lo rodea.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos merece la pena combinar con esta visita?
     a: El Fuerte Santiago y la ciudad amurallada de Intramuros, donde Rizal estuvo preso antes de su ejecución, están a poca distancia a pie o a un breve trayecto en vehículo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

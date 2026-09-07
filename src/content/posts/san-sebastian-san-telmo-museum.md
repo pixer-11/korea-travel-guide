@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Tucked into the corner of Plaza Zuloaga, San Telmo Museum occupies a former Dominican monastery dating to the 1500s, its cloister still intact and now half-swallowed by a sharp modern extension clad in vegetation. That contrast, centuries-old stone against a green metal wall, is the first clue that this isn't a stuffy regional museum.
 
 Inside, the collection moves from Basque ethnography and rural life through to contemporary art and photography, plus archaeological finds from both Gipuzkoa and further afield. A former church, its walls covered in large 1930s murals by José María Sert depicting Basque history and legend, has been folded into the museum and remains one of the more striking rooms in San Sebastian.

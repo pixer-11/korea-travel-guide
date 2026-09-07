@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-suan-luang-rama-ix
-srcHash: '85254e7f78b4'
+srcHash: '95eb0ea38bd5'
 title: 'Suan Luang Rama IX: Guía de viaje de Bangkok (4.7★)'
 description: En el distrito de Prawet, en el extremo oriental de Bangkok, Suan Luang Rama IX es uno de los parques públicos más grandes y mejor ajardinados de la ciudad, con jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Descubre qué opinan los visitantes, el horario y algunos consejos, con 4.7★ (19,441 reseñas).
 quickAnswer: 'En el distrito de Prawet, en el extremo oriental de Bangkok, se encuentra Suan Luang Rama IX, uno de los parques públicos más grandes y mejor ajardinados de la ciudad: una combinación de jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Para vivir la experiencia con más calma, conviene ir entre semana, de 10:00 a 19:00; los fines de semana el parque se llena de 7:00 a 19:00, así que si solo puedes ir un sábado o domingo, procura llegar después del mediodía. Reserva de dos a tres horas para recorrer bien los jardines, alquilar un bote de pedal y refrescarte bajo la sombra de los árboles.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinarlo con otra actividad?
     a: El parque está en la zona de Prawet/On Nut, en el este de Bangkok, alejada del distrito turístico principal, así que combina bien con un día tranquilo explorando los locales de comida de los Soi de Sukhumvit cerca de On Nut, más que con un recorrido de templos.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Basta con que el ruido del tráfico de la carretera Chaloem Phrakiat Ratchakan Thi 9 quede atrás, tras una pared de árboles de lluvia, para saber que has llegado a un lugar distinto. Suan Luang Rama IX no se anuncia con grandes puertas ni con multitudes agolpadas en la entrada: simplemente se despliega, cuadra tras cuadra de césped recién cortado, setos podados y un lago de aguas cristalinas, en un rincón de la ciudad que la mayoría de los visitantes nunca llega a ver, el distrito de Prawet, en el flanco oriental de Bangkok, lejos del circuito de templos y del río.
 

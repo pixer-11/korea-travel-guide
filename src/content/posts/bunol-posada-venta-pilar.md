@@ -46,8 +46,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the place before you see the sign properly — woodsmoke, simmering sofrito, something with rabbit or duck braising slow. Posada Venta Pilar sits on Av. Pérez Galdós, one of the roads feeding into central Buñol from the direction of Valencia, and the building itself tells you what it is before anyone hands you a menu: thick stone walls, a beamed ceiling gone dark with age, an inner courtyard where the light falls in a single bright rectangle across worn paving.
 
 This was a posada, a traveler's inn, in the 1600s, and it still works that way — rooms upstairs, a bar for coffee and locals passing through, and a restaurant that anchors the whole operation.

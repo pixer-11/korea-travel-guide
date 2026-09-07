@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Central Park doesn't try to dazzle you at the gate. You walk in past rows of plane trees, and the noise of Movarounnahr Street falls away almost immediately.

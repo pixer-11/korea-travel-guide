@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chuncheon-gangchon-rail-park
-srcHash: '115bfe9f7398'
+srcHash: 'c91aab43638e'
 title: 'Gangchon Rail Park: Guía de viaje de Chuncheon'
 description: 'Gangchon Rail Park, en Sindong-myeon, a las afueras de Chuncheon, te permite pedalear en bicicletas sobre raíles de cuatro plazas por una antigua línea de tren, a través de túneles y sobre un puente de caballete con vistas al río: un recorrido de unos 40 a 50 minutos que cubre unos 8 km de ida (con traslado de vuelta en autobús).'
 quickAnswer: 'Gangchon Rail Park, en Sindong-myeon, a las afueras de Chuncheon, te permite pedalear en bicicletas sobre raíles de cuatro plazas por una antigua línea de tren, a través de túneles y sobre un puente de caballete con vistas al río: un recorrido de unos 40 a 50 minutos que cubre unos 8 km de ida (con traslado de vuelta en autobús). Abre todos los días de 9:00 a 17:30; ve un día de semana por la mañana, entre las 9 y las 11, para evitar las multitudes, ya que los fines de semana de 11:00 a 17:00 se llena mucho. Reserva tu horario de salida con antelación, por internet o por teléfono, especialmente si vas a visitarlo en fin de semana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El pueblo de Gangchon tiene cafeterías y restaurantes para almorzar después del recorrido, y los senderos ferroviarios y el paisaje junto al río de la zona son una manera fácil de prolongar la visita antes de volver al centro de Chuncheon.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo primero que llama la atención al acercarse al andén de Gimyujeong-ro es la propia vía ferroviaria: postes de señalización oxidados y una vía de ancho estrecho que antes transportaba trenes de cercanías por las colinas de Gangwon-do, ahora equipada con hileras de carritos de pedales de cuatro plazas en tonos pastel. Este es Gangchon Rail Park, construido sobre un tramo en desuso de la línea Gyeongchun (Gyeongchun Line), y su atractivo es simple: te subes a una bicicleta sobre raíles, empujas y te deslizas por un paisaje de laderas cubiertas de pinos y la amplia y lenta curva del río Bukhan, sin volante ni esfuerzo físico real, ya que la vía se encarga de la mayor parte de la navegación por ti.
 

@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors to Intramuros beeline for Fort Santiago and miss this one entirely. Baluarte de San Diego sits just southwest of it, a sunken circular bastion that predates the more famous fort by decades and rarely has more than a handful of people wandering its ramparts.

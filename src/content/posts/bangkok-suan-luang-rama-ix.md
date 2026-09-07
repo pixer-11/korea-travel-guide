@@ -102,8 +102,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You know you've arrived somewhere different the moment the traffic noise from Chaloem Phrakiat Ratchakan Thi 9 Road drops away behind a wall of rain trees. Suan Luang Rama IX doesn't announce itself with grand gates or crowds pressing at the entrance — it just opens up, block after block of mowed lawn, clipped hedges, and glassy lake, in a corner of the city most visitors never see: Prawet, out on Bangkok's eastern flank, far from the temple circuit and the river.
 
 ## Why go

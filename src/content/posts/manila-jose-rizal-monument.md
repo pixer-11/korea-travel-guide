@@ -76,8 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't just a statue — it's the exact spot where the Philippines' national hero was executed by firing squad in 1896. You come here to stand where that history happened, not just to see a bronze figure on a pedestal.

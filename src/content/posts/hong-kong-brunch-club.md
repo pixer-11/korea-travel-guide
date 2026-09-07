@@ -80,8 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Peel Street climbs steeply out of Central, past dried seafood shops and vintage furniture stores, and Brunch Club sits partway up that slope like a small exhale. It's a Western-style café built for the long, unhurried version of breakfast — the kind where you order a flat white and don't move for an hour.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-janiculum-hill
-srcHash: '4eefd715fd96'
+srcHash: '8806a6e905a5'
 title: 'Colina del Janículo: Guía de viaje de Roma (4.7★)'
 description: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. 4.7★ (25.736 opiniones) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. Ve entre las 7 y las 9 de la mañana —la franja de tranquilidad comprobada tanto en días de semana como en fines de semana— para disfrutar solo de la vista, la fuente y el punto donde dispara el cañón antes de que lleguen las multitudes, que se mantienen densas hasta las 23:00 los fines de semana. Reserva medio día para combinar la colina con un paseo por Trastevere, abajo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento del día para hacer fotos?
     a: A primera hora de la mañana (7–9h) la luz es suave y el primer plano está despejado para tomas amplias; al atardecer se consigue el cielo más espectacular detrás de la cúpula de San Pedro, aunque con más gente junto a la balaustrada.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sales del entramado de edificios ocres y tendederos de Trastevere, pasas junto al muro del Orto Botanico, y el ruido de las motos y el choque de vasos en las trattorias queda atrás, de golpe. La carretera sube en zigzag entre pinos piñoneros, y cada pocas curvas se abre un hueco entre los árboles donde toda la cuenca de Roma se despliega abajo: primero las cúpulas, luego los tejados, después la línea difusa de colinas al fondo.
 

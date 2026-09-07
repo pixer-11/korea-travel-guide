@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the oldest Confucian temple in Taiwan, founded in 1665 under the Ming loyalist Zheng regime. Long before it was a photo stop, it was the island's first official school. That dual identity — shrine and academy — shapes everything you see inside.

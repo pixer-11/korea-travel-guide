@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: harbin-jile-temple
-srcHash: 'e7158292d8d8'
+srcHash: '578defc970c3'
 title: 'Templo Jile: Guía de viaje de Harbin'
 description: El Templo Jile (极乐寺) se encuentra en Dong Da Zhi Jie, en el distrito de Nangang; es un monasterio budista en pleno funcionamiento y no una atracción turística al uso, así que espera humo de incienso, cánticos y muchos menos visitantes que en los grandes emblemas de Harbin.
 quickAnswer: El Templo Jile (极乐寺) se encuentra en Dong Da Zhi Jie, en el distrito de Nangang; es un monasterio budista en pleno funcionamiento y no una atracción turística al uso, así que espera humo de incienso, cánticos y muchos menos visitantes que en los grandes emblemas de Harbin. Calcula entre 45 y 90 minutos, ve un día laborable por la mañana para disfrutar de la visita más tranquila y contemplativa, y combínala con un paseo por Dong Da Zhi Jie o una parada en las atracciones cercanas del lado de Songbei. Viste con recato y lleva billetes pequeños para las donaciones de incienso.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debo llevar puesto o traer?
     a: Viste con recato, con los hombros y las rodillas cubiertos, y lleva billetes pequeños si quieres encender incienso o dejar una pequeña donación.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: new-orleans-new-orleans-museum-of-art
-srcHash: '4695cd6befca'
+srcHash: '4a8579cfeaf1'
 title: ニューオーリンズ美術館(New Orleans Museum of Art):旅行ガイド(4.7★)
 description: NOMAはミッドシティ(Mid-City)のシティパーク(City Park)の端に位置するボザール様式の建物で、ファベルジェの卵から日本の江戸時代の屏風まで、4万点以上の作品を所蔵しています。4.7★(5,370件のレビュー)—訪問者の声、開館時間、訪問のコツをご紹介します。
 quickAnswer: NOMAはミッドシティ(Mid-City)のシティパーク(City Park)の端に位置するボザール様式の建物で、ファベルジェの卵から日本の江戸時代の屏風まで、4万点以上の作品を所蔵しています。2〜3時間ほど見学時間を確保し、その後は隣接するシドニー&ウォルダ・ベストホフ彫刻庭園(Sydney and Walda Besthoff Sculpture Garden)へ足を運びましょう。月曜休館なので、週末の混雑を避けるなら火曜日か木曜日の午前中がおすすめです。
@@ -17,8 +17,6 @@ faq:
   - q: 車を使わずにNOMAへ行くにはどうすればいいですか?
     a: RTAのキャナル・ストリートカー(Canal Streetcar)に乗り、City Park/Museum終点で下車してください。そこからシティパーク(City Park)内を数分歩けば、1 Collins Diboll Circleにある美術館入口に到着します。
 ---
-
-> **このガイドについて:** 編集者によるレビューとAIの支援により作成。データはGoogle Placesのライブ情報を使用し、画像はライセンス取得済みまたはパブリックドメインのものです。詳しくは[編集方針](/about)をご覧ください。
 
 ## 訪れる理由
 

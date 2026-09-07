@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: valencia-torres-de-serranos
-srcHash: 'a986e09efc51'
+srcHash: 'b7a8a2f4be60'
 title: 'Torres de Serranos: Guía de viaje de Valencia (4.6★)'
 description: 'Torres de Serranos es una puerta-torre gótica del siglo XIV que custodiaba la antigua entrada a la Valencia medieval, y merece la pena dedicar una hora a subir por la escalera de caracol para disfrutar de la panorámica desde la azotea sobre los jardines del cauce del Turia y las cúpulas de azulejos del casco antiguo. 4.6★ (50.473 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Torres de Serranos es una puerta-torre gótica del siglo XIV que custodiaba la antigua entrada a la Valencia medieval, y merece la pena dedicar una hora a subir por la escalera de caracol para disfrutar de la panorámica desde la azotea sobre los jardines del cauce del Turia y las cúpulas de azulejos del casco antiguo. Está tranquilo la mayor parte de la semana de 10:00 a 20:00; la aglomeración llega los fines de semana entre el mediodía y las 18:00, así que ese día conviene ir a primera o última hora. La entrada es económica (a menudo gratuita ciertos días; confirma el horario y el precio actuales antes de ir), y la subida en sí lleva entre 45 y 60 minutos, incluido el tiempo arriba.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es accesible para personas con movilidad reducida?
     a: 'No: la única forma de subir es una estrecha escalera de caracol de piedra sin ascensor, por lo que no es apta para sillas de ruedas, cochecitos ni personas con dificultad para caminar por escalones irregulares.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see Torres de Serranos long before you reach it — two squared, crenellated towers rising out of a plaza like the prow of a stone ship, their pale limestone gone honey-colored where centuries of sun have worn it smooth. This was one of twelve gates in Valencia's old city wall, built at the end of the 14th century, and it's the best-preserved of the two that survive.

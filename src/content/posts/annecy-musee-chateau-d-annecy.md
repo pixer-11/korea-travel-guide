@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You climb a short, steep street from the old town and the château appears above the rooftops, all pale stone and round towers. It doesn't look like a museum from outside — it looks like what it is, a fortress that watched over Annecy for the Counts of Geneva since the 12th century.

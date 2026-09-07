@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: agra-agra-fort
-srcHash: '6ffe598c311e'
+srcHash: '83b3dc3c2acc'
 title: 'Fuerte de Agra: Guía de viaje'
 description: El Fuerte de Agra (Agra Fort) es la ciudadela mogol de arenisca roja a orillas del río Yamuna, a unos 2,5 km del Taj Mahal — planea de 2 a 2,5 horas, ve justo a la apertura para evitar tanto el calor como las multitudes de autobuses turísticos, y entra por la Puerta Amar Singh (Amar Singh Gate), la única entrada pública.
 quickAnswer: El Fuerte de Agra (Agra Fort) es la ciudadela mogol de arenisca roja a orillas del río Yamuna, a unos 2,5 km del Taj Mahal — planea de 2 a 2,5 horas, ve justo a la apertura para evitar tanto el calor como las multitudes de autobuses turísticos, y entra por la Puerta Amar Singh (Amar Singh Gate), la única entrada pública. Es uno de los monumentos más visitados de Agra, así que llegar temprano o a última hora de la tarde marca una verdadera diferencia.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Los visitantes extranjeros pagan un precio distinto al de los ciudadanos indios?
     a: Sí, los turistas extranjeros pagan una tarifa de entrada más alta que los ciudadanos indios; consulta las tarifas actuales en línea o en la taquilla antes de tu visita, ya que los precios se actualizan periódicamente.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

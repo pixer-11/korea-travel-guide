@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Triveni Ghat matters
 
 This is Rishikesh's spiritual heart, not a side attraction. Its name means "three streams" — the mythical meeting point of the Ganga, Yamuna, and invisible Saraswati rivers. Pilgrims believe a dip here washes away sins accumulated over lifetimes, and the ghat has drawn bathers for centuries.

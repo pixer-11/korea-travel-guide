@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-09'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it long before you reach it: a squared-off tower and crenellated walls rising off a bare hill above the Guadalope river valley, visible from the highway approach into Alcañiz like something dropped out of a history book. This is the old castle of the Order of Calatrava, built on the bones of a Muslim fortress and later reworked with a Renaissance palace wing and a Gothic-Mudéjar church tower — and since the mid-20th century, it's been one of Spain's state-run Parador hotels.

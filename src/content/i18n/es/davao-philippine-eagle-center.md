@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: davao-philippine-eagle-center
-srcHash: '2476d49254ff'
+srcHash: '0362ed149734'
 title: 'Centro del Águila Filipina: Guía de viaje de Davao'
 description: El Centro del Águila Filipina se encuentra en Malagos, a unos 45–60 minutos del centro de Davao, y abre todos los días de 8:00 a. m. a 4:30 p. m.
 quickAnswer: 'El Centro del Águila Filipina se encuentra en Malagos, a unos 45–60 minutos del centro de Davao, y abre todos los días de 8:00 a. m. a 4:30 p. m. Calcula entre 1.5 y 2 horas para recorrer el sendero boscoso que pasa junto a los recintos con cúpulas de malla, y ve una mañana entre semana si puedes: es un lugar conocido, pero está lo suficientemente alejado de la ciudad como para que rara vez se sienta abarrotado. Combínalo con el cercano Malagos Garden Resort o la finca de chocolate para armar una excursión de medio día.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Con qué más puedo combinar esta visita?
     a: El Malagos Garden Resort, la finca de chocolate Malagos y el Davao Crocodile Park están todos en la misma zona y forman un itinerario natural de medio día junto con el Centro del Águila.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

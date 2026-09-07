@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Ak-Saray for scale, not completeness. Two enormous mosaic-clad towers rise out of a grassy park, all that's left of a gateway once so vast that its full arch is said to have soared some 50 meters high.

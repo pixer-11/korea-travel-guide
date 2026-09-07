@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Taj Mahal for the marble, but you come to Agra Fort for the story. This is where the Mughal empire actually ran its business — a walled river-front city of red sandstone and white marble built by Akbar in 1565 and reworked by his grandson Shah Jahan into a palace complex of courtyards, audience halls and mirrored chambers.

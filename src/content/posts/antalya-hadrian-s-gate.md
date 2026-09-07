@@ -80,8 +80,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the tram stop and suddenly the traffic noise of Atatürk Caddesi falls away behind three deep marble arches. Hadrian's Gate — Üçkapılar, "the three doors," to locals — was raised around 130 AD to mark Emperor Hadrian's visit to Attaleia, and it's one of the few Roman monuments anywhere still standing at its original street level rather than excavated below it.

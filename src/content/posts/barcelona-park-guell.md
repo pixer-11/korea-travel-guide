@@ -89,8 +89,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the metro and start climbing — Park Güell sits on Carmel Hill, well above the grid of Eixample below, and the walk up already gives you a preview of the view you're chasing. What Gaudí originally designed as a failed luxury housing development in the early 1900s is now a park where the retaining walls lean like something out of a fairy tale, where benches ripple in broken ceramic tile, and where the famous dragon fountain guards a staircase like it's been there since the Middle Ages.

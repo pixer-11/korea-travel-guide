@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's worth the detour
 
 Most visitors blow straight past the Temple of Domitian on their way to the Library of Celsus. That's a mistake.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: 'cac2743e3c08'
+srcHash: '1ede0867b8ce'
 title: '유럽지중해문명박물관(MuCEM): 마르세유 여행 가이드'
 description: 비외포르(Vieux-Port) 쪽 입구에서 J4 에스플러네이드로 이어지는 길을 따라 MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)에 가보세요. 박물관이 저녁 개장을 하는 오후 6시~9시대를 노리면 평일과 주말 모두 가장 한산합니다. 4.4★(리뷰 24,438개) — 방문객 후기, 운영시간, 팁을 소개합니다.
 quickAnswer: 비외포르(Vieux-Port) 쪽 입구에서 J4 에스플러네이드로 이어지는 길을 따라 MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)에 가보세요. 박물관이 저녁 개장을 하는 오후 6시~9시대를 노리면 평일과 주말 모두 가장 한산합니다. 주말에는 오전 11시부터 오후 6시까지 인파가 몰리므로, 이 시간대에만 방문할 수 있다면 개장 시각에 맞춰 도착하세요. 관람에는 두세 시간을 잡아두고, 생장 요새(Fort Saint-Jean)로 이어지는 다리도 건너볼 계획이라면 시간을 더 넉넉히 잡으세요.
@@ -17,8 +17,6 @@ faq:
   - q: 관람을 더 이어가고 싶다면 근처에 무엇이 있나요?
     a: 바로 옆에는 어시장과 프리울 제도(Frioul islands)로 가는 보트 투어가 있는 비외포르(Vieux-Port)가 있고, 마르세유에서 가장 오래된 동네인 파니에(Panier) 지구도 북쪽으로 조금만 걸어가면 나옵니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검토, AI 보조 작성. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 MuCEM은 도착하기 전부터 눈에 들어옵니다. 검은 콘크리트 레이스 스크린이 정육면체 건물을 마치 철망을 두른 화물 컨테이너처럼 감싸고 있고, 건물 전체가 삼면이 바다로 둘러싸인 J4 에스플러네이드 가장자리에 떠 있는 듯 보입니다. 비외포르(Vieux-Port)에서 걸어 나오면 지중해가 바로 눈앞에 펼쳐지고, 해안을 따라 늘어선 컨테이너 크레인, 코르시카와 북아프리카로 향하는 페리, 맞은편의 생장(Saint-Jean) 요새 성벽이 한눈에 들어옵니다.
 

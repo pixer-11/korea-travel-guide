@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nukus isn't a city overflowing with polished cafés, which is exactly why Cake "Bumer" stands out. Walk in and you're met with glass cabinets stacked with layered cakes, glossy fruit tarts, and trays of pastries still warm from the oven. It's the kind of place where the smell of butter and sugar hits before you've even reached the counter.

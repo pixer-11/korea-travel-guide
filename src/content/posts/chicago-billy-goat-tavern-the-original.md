@@ -111,8 +111,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You find it almost by accident. Walking along North Michigan Avenue near the river, you spot a small, easy-to-miss stairwell sign pointing down into the lower level of the street — the famous "Lower Wacker" tier of Chicago's double-decked roads. Descend, and the light changes: fluorescent tubes instead of daylight, exposed pipes overhead, the low rumble of traffic passing on the level above. This is Billy Goat Tavern, the original location, tucked into Lower 430 North Michigan Avenue since the 1960s, and it looks like it hasn't redecorated since.
 
 ## Why go

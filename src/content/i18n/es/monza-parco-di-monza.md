@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: monza-parco-di-monza
-srcHash: 'd21888a83cf4'
+srcHash: 'edfe55157d6e'
 title: Guía de viaje del Parco di Monza
 description: El Parco di Monza es uno de los parques amurallados más grandes de Europa (unas 700 hectáreas), y rodea la Villa Reale y el Autodromo Nazionale Monza.
 quickAnswer: 'El Parco di Monza es uno de los parques amurallados más grandes de Europa (unas 700 hectáreas), y rodea la Villa Reale y el Autodromo Nazionale Monza. Ve temprano un día laborable por la mañana para evitar las multitudes: las bicicletas, los picnics y las vías públicas del circuito de F1 hacen que sea fácil dedicarle medio día o un día completo. Entra por la Porta Monza o la Porta Vedano y dirígete a los jardines de la Villa Reale o da una vuelta por las carreteras públicas que rodean el circuito.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinarlo con otros lugares de interés?
     a: El centro histórico de Monza, incluido el Duomo di Monza con su Corona de Hierro, está a poca distancia a pie de la entrada de Porta Monza del parque, lo que facilita combinar ambas visitas en un mismo día.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Entras por una de las antiguas puertas de ladrillo —la Porta Monza es la más evidente, a poca distancia a pie del centro de la ciudad— y el ruido del tráfico simplemente desaparece. Sea lo que sea que esperaras de un "parque urbano", esto no lo es. El Parco di Monza se extiende a lo largo de unas 700 hectáreas, uno de los parques amurallados más grandes de Europa, y la escala es lo primero que llama la atención: avenidas de grava que se pierden entre robles y plátanos, praderas abiertas donde la luz entra dorada y horizontal al final de la tarde y, a lo lejos, si estás allí un fin de semana de carrera, el zumbido continuo de los motores del Autodromo.
 

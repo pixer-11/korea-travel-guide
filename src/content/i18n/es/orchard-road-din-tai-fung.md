@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: orchard-road-din-tai-fung
-srcHash: 'e4a6509501aa'
+srcHash: '4ced79d01b15'
 title: 'Din Tai Fung: dónde comer en Orchard Road (4.4★)'
 description: 'Esta sucursal de Din Tai Fung está en el sótano del centro comercial Paragon, en 290 Orchard Road, abierta todos los días de 11am a 9pm (9:15pm vie-sáb). 4.4★ (2,042 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Esta sucursal de Din Tai Fung está en el sótano del centro comercial Paragon, en 290 Orchard Road, abierta todos los días de 11am a 9pm (9:15pm vie-sáb). Ven por los xiao long bao, con su masa finísima y sus pliegues exactos, no por una comida tranquila: es cuando más gente hay entre las 12pm y las 7pm los fines de semana. Apunta a las 8-9pm en día de semana, cuando el comedor realmente se vacía.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debo planear para la comida?
     a: Calcula entre 45 y 75 minutos, incluyendo una posible cola, especialmente en el almuerzo o los fines de semana, cuando las mesas rotan rápido pero los tiempos de espera se acumulan.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué esta sucursal importa
 

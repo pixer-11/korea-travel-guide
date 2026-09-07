@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you understand it. The rock face rises hundreds of feet out of the pine forest, and halfway up, wedged into a hollow in the cliff like it grew there, sits a monastery. Sümela was a working Greek Orthodox monastery from the 4th century until 1923, when the population exchange emptied it out. What's left is a stack of chapels, dormitories, and a library clinging to the stone, with faded frescoes still visible on the rock-cut church walls.

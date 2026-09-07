@@ -82,8 +82,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The road out of Chiang Rai city toward Nang Lae is flat and green, lined with longan orchards, and gives no hint of what's coming. Then you turn into a compound and the first black roofline appears through the trees — steep, temple-like, but wrong somehow, too severe to be a real wat. That's the point. Thawan Duchanee, one of Thailand's most celebrated modern artists, spent decades building this place as his home and studio, and it reads less like a museum than the inside of someone's dream.
 
 ## Why go

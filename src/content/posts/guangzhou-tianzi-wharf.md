@@ -71,8 +71,6 @@ draft: true
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tianzi Wharf won't headline anyone's Guangzhou bucket list, and that's the point. It's a working pier tucked into the Pearl River's north bank in Yuexiu District, the kind of place you stumble onto rather than plan a whole afternoon around.

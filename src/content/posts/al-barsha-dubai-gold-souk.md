@@ -44,8 +44,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Gold Souk still matters
 
 Forget the mall jewellers with their spotlit cases. The Dubai Gold Souk is a working bazaar, not a display case, and it's been the emirate's gold-trading heart since the 1940s.

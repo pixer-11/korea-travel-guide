@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to One Dim Sum for proof that great dim sum doesn't need chandeliers. This is a narrow, fluorescent-lit shop on Tung Choi Street, closer to Prince Edward than central Mong Kok, and it's spent years on Michelin's radar for exactly this kind of no-frills cooking. The har gow arrive translucent-skinned and tightly pleated. The baked BBQ pork buns come out glazed and faintly sweet, still warm enough to fog the little paper bag they're slid into.

@@ -54,8 +54,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend on Ellipse Road and there they are: 22 Corinthian columns standing alone in a meadow, sandstone gone honey-gold in the late afternoon light, with nothing behind them but sky and grass. These are the original columns pulled from the U.S. Capitol's East Portico in a 1958 renovation, re-erected here in 1990, and the effect is deliberately strange — a ruin that was never a ruin, plopped in the middle of a Washington DC garden.

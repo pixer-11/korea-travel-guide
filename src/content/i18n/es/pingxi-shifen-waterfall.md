@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pingxi-shifen-waterfall
-srcHash: 'c115692a040c'
+srcHash: '314f02c7f2aa'
 title: 'Cascada de Shifen: guía de viaje de Pingxi (4,5★)'
 description: 'La cascada de Shifen —la más ancha de Taiwán, con 40 metros— está a 20 minutos a pie de la estación de Shifen, en el ramal de Pingxi, abierta todos los días de 9:00 a 17:30. 4,5★ (29.020 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La cascada de Shifen —la más ancha de Taiwán, con 40 metros— está a 20 minutos a pie de la estación de Shifen, en el ramal de Pingxi, abierta todos los días de 9:00 a 17:30. Ve un día de semana entre las 9:00 y las 11:00, o antes de las 10:00 los fines de semana, para evitar la avalancha de entre 13:00 y 16:00. Reserva entre 45 minutos y una hora para el circuito y las plataformas de observación.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es difícil la caminata hasta la cascada?
     a: No, es plana y pavimentada en la mayor parte del recorrido, lo que la hace manejable para casi todos los niveles físicos y apta para cochecitos, aunque conviene llevar calzado con buen agarre cerca de la plataforma con neblina.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

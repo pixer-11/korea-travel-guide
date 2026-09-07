@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: qingdao-zhanqiao-pier
-srcHash: '6e24a5408f8e'
+srcHash: '5e9cef752592'
 title: 'Muelle de Zhanqiao: Guía de viaje de Qingdao'
 description: 'El muelle de Zhanqiao (Zhanqiao Pier) es el hito costero más antiguo de Qingdao: un embarcadero de piedra y madera de 440 metros en el distrito de Shinan que termina en el pabellón de doble alero Huilan Ge, el mismo edificio octogonal que probablemente hayas visto en las etiquetas de la cerveza Tsingtao.'
 quickAnswer: 'El muelle de Zhanqiao (Zhanqiao Pier) es el hito costero más antiguo de Qingdao: un embarcadero de piedra y madera de 440 metros en el distrito de Shinan que termina en el pabellón de doble alero Huilan Ge, el mismo edificio octogonal que probablemente hayas visto en las etiquetas de la cerveza Tsingtao. Es gratuito, está abierto todo el día, y lo mejor es recorrerlo al amanecer o justo antes del atardecer, cuando la luz sobre la bahía de Qingdao (Qingdao Bay) tiñe el agua de color cobre. Reserva entre 30 y 45 minutos y luego continúa a pie hacia Badaguan o Zhongshan Road.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca del muelle de Zhanqiao?
     a: La calle comercial histórica de Zhongshan Road, el parque Xiaoyushan (Xiaoyushan Park) y la torre del reloj de construcción alemana de la estación de tren de Qingdao están todos a entre 10 y 20 minutos a pie; Badaguan queda a un corto trayecto en taxi.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué importa el muelle de Zhanqiao
 

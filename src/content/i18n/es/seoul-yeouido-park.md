@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-yeouido-park
-srcHash: '4cc2e6dbc278'
+srcHash: 'f2a1ee3a7258'
 title: 'Parque de Yeouido: guía de viaje de Seúl (4.4★)'
 description: 'El Parque de Yeouido es un extenso corredor verde en la isla de Yeouido, al oeste de Seúl, célebre por su paseo de cerezos (la floración máxima suele darse en la primera semana de abril) y por sus praderas, estanques y sendas para bicicleta libres de tráfico. 4.4★ (6,202 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque de Yeouido es un extenso corredor verde en la isla de Yeouido, al oeste de Seúl, célebre por su paseo de cerezos (la floración máxima suele darse en la primera semana de abril) y por sus praderas, estanques y sendas para bicicleta libres de tráfico. Está abierto las 24 horas, la entrada es gratuita, y se llega más fácilmente por la Estación Yeouinaru (Línea 5, Salida 2 o 3). Conviene ir un día entre semana por la mañana o después de la puesta de sol para evitar las multitudes que lo llenan los fines de semana de primavera.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Una hora o dos bastan para un recorrido tranquilo por las secciones principales; conviene añadir más tiempo si se piensa recorrer en bicicleta todo el parque o continuar por el paseo ciclista del río Han que está justo al lado.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitar el Parque de Yeouido
 

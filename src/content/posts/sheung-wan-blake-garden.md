@@ -75,8 +75,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Blake Garden sits at the point where Kui In Fong meets Po Hing Fong, a pocket of paved terraces stepped into the slope above Hollywood Road. It's not a destination anyone flies to Hong Kong for, and that's exactly the point. This is a park built for the people who live on the hill above it, and visiting it means slowing down to their pace for half an hour.
 
 ## The garden's split personality

@@ -62,8 +62,6 @@ faq:
     a: Yes, if you don't mind crowds — Yokohama Chinatown's Lunar New Year celebrations (typically late January or February) bring lion dances and drumming right around the temple, though it's the busiest possible time to see it.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the incense before you see the gate. Somewhere between the steamed-bun stalls and the souvenir shops selling plastic pandas, the street narrows and the colors shift — reds get deeper, golds get brighter, and suddenly you're standing under a towering ceremonial archway carved with dragons, phoenixes, and gilded lions that look like they've been lifted straight out of a Fujian temple courtyard and dropped into the middle of Yokohama.
 
 That's Yokohama Mazu Miao, and it doesn't announce itself the way you'd expect a landmark to. It sits at 136 Yamashitachō in Naka Ward, folded into the grid of Chinatown's residential-feeling backstreets, a few minutes' walk from the neighborhood's main gates. The building itself is compact — this isn't a sprawling temple complex — but every surface is worked over with an intensity that makes you slow down.

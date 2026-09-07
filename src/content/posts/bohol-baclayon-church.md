@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Baclayon Church matters
 
 You're looking at one of the oldest stone churches in the country, and it shows. The façade is built from massive blocks of coral stone, quarried and hauled by hand centuries ago, their surfaces pitted and honeycombed in a way no modern material replicates.

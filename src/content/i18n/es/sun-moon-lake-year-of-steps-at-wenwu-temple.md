@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sun-moon-lake-year-of-steps-at-wenwu-temple
-srcHash: '04e6e2e8cc0b'
+srcHash: 'a230ab0420e8'
 title: 'Un año de escalones en el Templo Wenwu: guía de viaje del Lago Sol y Luna'
 description: 'El Templo Wenwu se alza sobre un promontorio en la orilla norte del Lago Sol y Luna, con sus puertas rojas y doradas escalonadas sobre un largo tramo de escalones desde el que se ve el lago durante toda la subida. 4.5★ (3.510 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo Wenwu se alza sobre un promontorio en la orilla norte del Lago Sol y Luna, con sus puertas rojas y doradas escalonadas sobre un largo tramo de escalones desde el que se ve el lago durante toda la subida. Está abierto las 24 horas, pero si buscas tranquilidad, ve entre semana de 7:00 a 23:00; los fines de semana se llena de gente de 9:00 a 18:00 y solo se calma después de las 20:00. Calcula entre 45 y 60 minutos, e combínalo con un paseo en bicicleta o una parada en barco cerca de allí.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El templo está justo sobre el circuito de bicicletas y la ruta del autobús lanzadera del lago, cerca de los restaurantes de la aldea de Shuishe y de los embarcaderos que se usan para cruzar el lago hacia el Templo Xuanguang y Ita Thao.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena subir hasta el Templo Wenwu
 

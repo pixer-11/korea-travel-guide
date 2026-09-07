@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel it before you see it — a low hum through the boardwalk, then a hush from the crowd along the rail. The Dubai Fountain sits on the artificial lake beneath Burj Khalifa, and when the jets fire, water shoots up to 140 meters, lit and choreographed to music that ranges from Arabic pop to orchestral swells.

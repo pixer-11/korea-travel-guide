@@ -84,8 +84,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shah-i-Zinda means "the living king" — a reference to the shrine at its heart, said to hold the cousin of the Prophet Muhammad. What you actually experience is a narrow, uphill lane flanked on both sides by 11th-to-15th-century mausoleums, each one tiled floor to dome in glazed majolica.

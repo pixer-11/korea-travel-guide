@@ -54,8 +54,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see the menu: warm butter, roasting coffee, something sweet and yeasty drifting out from the open kitchen. Founding Farmers sits at the base of an office tower on Pennsylvania Avenue NW, just blocks from the World Bank and George Washington University, and the contrast is part of the appeal — glass-and-steel DC outside, reclaimed barn wood, mismatched vintage farm tools, and rough-hewn beams inside.
 
 The dining room is big, loud, and constantly moving, with servers threading between packed tables balancing cast-iron skillets of cornbread and towering plates of chicken and waffles.

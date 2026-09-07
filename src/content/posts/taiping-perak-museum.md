@@ -63,8 +63,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First impressions
 
 You spot the building before you spot the sign. Cream-and-white walls, deep verandahs, a heavy tiled roof holding off the equatorial sun — this is colonial-era Perak in its most photogenic civic form.

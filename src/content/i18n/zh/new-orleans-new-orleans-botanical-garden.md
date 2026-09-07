@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-new-orleans-botanical-garden
-srcHash: '0c273bc5494f'
+srcHash: '767709e84fa0'
 title: 新奥尔良植物园(New Orleans Botanical Garden)旅行指南（4.7★）
 description: 新奥尔良植物园位于城市公园(City Park)内的5 Victory Ave，周二至周日上午10点至下午4点30分开放（周一闭园）。4.7★（1,595条评价）——游客怎么说、开放时间及游览贴士。
 quickAnswer: 新奥尔良植物园位于城市公园(City Park)内的5 Victory Ave，周二至周日上午10点至下午4点30分开放（周一闭园）。逛一逛这里的装饰艺术风格步道、兰花房和仙人掌园区，大约需要90分钟到两小时。周末上午10点到下午4点是人最多的时段，如果可以的话，尽量选在工作日的上午前往。
@@ -17,8 +17,6 @@ faq:
   - q: 值得和城市公园里的其他景点一起游览吗？
     a: 很值得——新奥尔良艺术博物馆(New Orleans Museum of Art)就在附近，而城市公园里的橡树林荫道和迷你火车花园（Train Garden）也很容易安排在同一次行程中一并游览。
 ---
-
-> **本指南制作说明：** 经编辑审校、AI辅助撰写。事实信息来自Google Places实时数据；图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

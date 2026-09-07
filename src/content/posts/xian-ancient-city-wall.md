@@ -39,8 +39,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the wall still matters
 
 Most Chinese cities tore their walls down last century to make way for ring roads. Xi'an didn't, and that's the whole point of coming here. What you're walking on is a Ming-dynasty fortification built in the 1370s atop earlier Tang-dynasty foundations, roughly 12 meters high, wide enough at the top that eight cars could drive abreast. It encloses the old city center — the Bell Tower, the Muslim Quarter, the drum tower — like a giant rammed-earth-and-brick picture frame.

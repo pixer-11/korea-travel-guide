@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shennong Street (神農街) is one of the oldest surviving streets in Tainan, a city that itself was Taiwan's capital for over two centuries under Qing rule. Originally called Sianggou Street, it once ran alongside a canal that connected merchant warehouses to the harbor — Tainan's coastline has since silted up and moved kilometers away, but the street's bones are unchanged.

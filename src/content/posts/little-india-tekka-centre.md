@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tekka Centre matters
 
 This isn't a restaurant so much as a whole neighborhood under one roof. Tekka Centre has anchored Little India since the market itself traces back to 1915, moving into this current two-storey building in 1982.

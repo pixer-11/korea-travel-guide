@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phnom-penh-independence-monument
-srcHash: '4b1128fc70fd'
+srcHash: 'f4aed62215c8'
 title: 'Monumento a la Independencia: Guía de viaje de Phnom Penh (4,5★)'
 description: 'El Monumento a la Independencia de Phnom Penh se encuentra en el cruce de los bulevares Norodom y Sihanouk, en pleno corazón del barrio diplomático de la ciudad. 4,5★ (5.338 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento a la Independencia de Phnom Penh se encuentra en el cruce de los bulevares Norodom y Sihanouk, en pleno corazón del barrio diplomático de la ciudad. Se puede ver desde fuera las 24 horas y de forma gratuita, así que el mejor momento para visitarlo es al atardecer, cuando la torre se ilumina de rojo anaranjado y el tráfico de la rotonda se calma un poco. Basta con dedicarle entre 15 y 20 minutos a pie para luego continuar hacia los rincones cercanos junto al río y completar así la tarde.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega sin coche?
     a: Los tuk-tuks y las aplicaciones de transporte como Grab o PassApp son las opciones más sencillas en Phnom Penh. Basta con decirle al conductor «Vimean Ekareach», el nombre en jemer del monumento.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bunol-posada-venta-pilar
-srcHash: 'ec04ee35fc40'
+srcHash: 'd5cdabe87275'
 title: 'Posada Venta Pilar: dónde comer en Buñol'
 description: En la Av. Pérez Galdós, a poca distancia del casco antiguo de Buñol y de la ruta de la famosa Tomatina, la Posada Venta Pilar es una venta de carretera del siglo XVII donde se sirve una contundente cocina casera valenciana en torno a un patio de piedra.
 quickAnswer: En la Av. Pérez Galdós, a poca distancia del casco antiguo de Buñol y de la ruta de la famosa Tomatina, la Posada Venta Pilar es una venta de carretera del siglo XVII donde se sirve una contundente cocina casera valenciana en torno a un patio de piedra. No es ningún secreto, sino un lugar muy conocido, así que conviene reservar los fines de semana y en las fechas cercanas a finales de agosto, cuando la Tomatina llena el pueblo de visitantes. Lo mejor es pedir el arroz al horno o alargar la comida con el menú del día, y después acercarse al barrio del castillo de Buñol.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la comida?
     a: A poca distancia a pie quedan el castillo de Buñol y el puente del casco antiguo, y si se visita la zona en temporada de fiestas, merece la pena acercarse también al Museo del Tomate.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes de distinguir bien el cartel, ya se percibe el olor: humo de leña, un sofrito a fuego lento, algo con conejo o pato que se cuece despacio. La Posada Venta Pilar está en la Av. Pérez Galdós, una de las vías que llevan al centro de Buñol desde la dirección de Valencia, y el propio edificio anuncia lo que es antes de que nadie te entregue una carta: gruesos muros de piedra, un techo de vigas oscurecido por los años y, en el interior, un patio donde la luz cae en un único rectángulo brillante sobre el pavimento desgastado.
 

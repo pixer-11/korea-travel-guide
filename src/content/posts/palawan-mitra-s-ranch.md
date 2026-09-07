@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Mitra's Ranch for one thing: the view. From the hilltop, Puerto Princesa spreads out below in a patchwork of rooftops and coconut palms, with Honda Bay's islands scattered across the water in the distance.

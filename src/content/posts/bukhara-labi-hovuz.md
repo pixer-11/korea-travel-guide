@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Labi Hovuz means "edge of the pool" in Tajik, and that's exactly what you're getting: a rectangular stone-lined basin dug in 1620, still the social heart of old Bukhara. Mulberry trees planted generations ago lean over the water, their shade dappling the surface where ducks paddle past reflections of carved wood balconies.

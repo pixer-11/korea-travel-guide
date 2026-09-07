@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before Hualien became a jumping-off point for Taroko Gorge day trips, this stretch of Zhongshan Road was the nerve center of the narrow-gauge Hualien Port Line, the railway that hauled marble, sugar and passengers along Taiwan's east coast. The Railway Culture Park preserves the 1932 depot complex almost intact: low wooden dormitories with deep eaves, a red-brick machine shop, rusted turntables and rail spurs half-swallowed by grass.

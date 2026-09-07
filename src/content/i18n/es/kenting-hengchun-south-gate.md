@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-hengchun-south-gate
-srcHash: '04e9a45c6f01'
+srcHash: 'b025101383a8'
 title: 'Puerta Sur de Hengchun: Guía de viaje a Kenting (4,3★)'
 description: 'La Puerta Sur de Hengchun (恆春南門) es una de las cuatro puertas de la dinastía Qing que aún se conservan en Hengchun, situada en medio de una concurrida rotonda en la carretera de acceso a Kenting. 4,3★ (2.533 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Puerta Sur de Hengchun (恆春南門) es una de las cuatro puertas de la dinastía Qing que aún se conservan en Hengchun, situada en medio de una concurrida rotonda en la carretera de acceso a Kenting. La entrada es gratuita, permanece abierta las 24 horas y merece una parada de 15 a 20 minutos; el mejor momento es al atardecer, cuando queda iluminada contra el cielo. La mayoría de los visitantes la combina con un paseo por las murallas del casco antiguo de Hengchun, a poca distancia en coche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Las murallas del casco antiguo de Hengchun y sus otras puertas conservadas (Este y Oeste) están a poca distancia a pie o en coche, junto con varios restaurantes locales en el pueblo de Hengchun.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué merece la parada
 

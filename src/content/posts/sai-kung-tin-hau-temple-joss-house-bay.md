@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 This is the largest and oldest of Hong Kong's Tin Hau temples, though the current structure has been rebuilt and renovated over the centuries. It sits on a slope overlooking Joss House Bay, the small inlet that takes its name directly from the temple. Fishing families have prayed here to Tin Hau, goddess of the sea, for protection on the water for generations.
 
 ## Finding your way to the temple

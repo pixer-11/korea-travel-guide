@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: milan-piazza-del-duomo
-srcHash: 'c62f9654d917'
+srcHash: 'fa3c227c0c11'
 title: 米兰大教堂广场（Piazza del Duomo）旅行指南
 description: 米兰大教堂广场是米兰宏伟的市中心广场，大教堂如林的大理石尖塔矗立其间，两侧是皇宫和玻璃穹顶的埃马努埃莱二世拱廊（Galleria Vittorio Emanuele II）。
 quickAnswer: 米兰大教堂广场（Piazza del Duomo）是米兰宏伟的市中心广场，大教堂如林的大理石尖塔矗立其间，两侧是皇宫（Palazzo Reale）和玻璃穹顶的埃马努埃莱二世拱廊（Galleria Vittorio Emanuele II）。这里人气极高，建议清晨（早上9点前）或晚上7点后前往，才能避开人墙拍到教堂正面全景。仅广场本身就值得预留20-30分钟，如果要排队参观大教堂或其屋顶露台，则需要更长时间。
@@ -17,8 +17,6 @@ faq:
   - q: 米兰大教堂广场附近还有什么？
     a: 皇宫（Palazzo Reale）就坐落在广场上，埃马努埃莱二世拱廊（Galleria Vittorio Emanuele II）的入口也直接连着广场，从这里步行不远即可到达斯卡拉歌剧院（La Scala）。
 ---
-
-> **本指南制作说明：** 经编辑审核，AI辅助生成。内容数据来自谷歌地图（Google Places）实时信息，图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

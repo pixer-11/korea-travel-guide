@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the Humble Administrator's Garden expecting more whitewashed walls and grey roof tiles, and that's exactly what you get — except reimagined in glass, steel, and honed granite. I.M. Pei, who was born in Suzhou and returned late in his career to design this building, took the city's classic black-and-white Ming and Qing dynasty architecture and distilled it into sharp geometric lines and diamond-shaped skylights.

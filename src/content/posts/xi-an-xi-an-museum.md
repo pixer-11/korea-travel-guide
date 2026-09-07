@@ -39,8 +39,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Xi'an has no shortage of history stops, but this is one of the few places where the story is told in the right order, in one visit. The museum building itself is deliberately modern — grey stone, a low domed roofline meant to echo a bronze mirror — and it sits inside a genuinely old religious complex, the Jianfu Temple grounds, which have stood here since the 7th century.

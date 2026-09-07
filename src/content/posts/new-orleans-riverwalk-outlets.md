@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for two things: outlet-price shopping and a genuine river view. Riverwalk Outlets stretches nearly a mile along the Mississippi, and its back windows frame passing tankers and paddlewheelers instead of a parking lot.

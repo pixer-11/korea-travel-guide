@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: miami-lafayette-miami
-srcHash: '64a6efe30141'
+srcHash: '9fa1219538ea'
 title: Lafayette：迈阿密的隐藏美食之选
 description: Lafayette Miami坐落于Brickell/Roads区，地址1111 SW 1st Ave，紧邻迈阿密河（Miami River）西侧，是本地人偶然发现的宝藏小店，而非游客打卡地。
 quickAnswer: Lafayette Miami坐落于Brickell/Roads区，地址1111 SW 1st Ave，紧邻迈阿密河（Miami River）西侧，是本地人偶然发现的宝藏小店，而非游客打卡地。凭借800多条评论中4.9分的高评分，这家小店的名气远超其体量。建议工作日晚间或傍晚早些时候前往，可以省去排队等位的麻烦；菜单走的是主厨精心打磨的精简路线，而非面面俱到的大而全风格。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想顺便逛逛周边，附近有什么好去处？
     a: 迈阿密河（Miami River）和Brickell沿河步道步行或开车都不远，South Miami Avenue一带还聚集着不少酒吧和休闲酒廊。
 ---
-
-> **本指南制作说明：** 编辑审核，AI辅助完成。信息来自Google Places实时数据，图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## Lafayette为何值得专程一去
 

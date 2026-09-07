@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yilan-national-center-for-traditional-arts
-srcHash: '7c3b8bedb996'
+srcHash: 'd2d6a8413713'
 title: 'Centro Nacional de Artes Tradicionales: guía de viaje de Yilan'
 description: 'El Centro Nacional de Artes Tradicionales se encuentra a orillas del río Dongshan, en el municipio de Wujie, a las afueras de la ciudad de Yilan, y abre todos los días de 9:00 a 18:00. 4,5★ (42.045 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: A orillas del río Dongshan, en el municipio de Wujie, justo a las afueras de la ciudad de Yilan, se extiende el Centro Nacional de Artes Tradicionales, abierto todos los días de 9:00 a 18:00. Se trata de un extenso poblado cultural con calles de estilo Qing y de época japonesa, talleres artesanales, teatros de marionetas y de guante, y puestos de comida junto al río; conviene reservar entre tres y cuatro horas para la visita. Los días entre semana son los más tranquilos durante todo el horario, mientras que los fines de semana, entre las 10:00 y las 17:00, se concentra la mayor afluencia de visitantes, así que si vas un sábado o domingo, lo mejor es llegar justo a la apertura.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se puede comer allí?
     a: Vale la pena buscar las tortitas de cebolleta al estilo Yilan y los dulces de arroz glutinoso en los puestos de la calle principal de artesanía; ambas son especialidades regionales que merece la pena probar en el sitio.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

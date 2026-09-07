@@ -40,8 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come to Jinci for a tree and a spring, and you leave having walked through three thousand years of Chinese architectural history without really noticing the transition. That's the strange trick of this place: it doesn't announce its age with velvet ropes and placards every ten steps. Instead you find it in the lean of a cypress trunk, the worn stone of a bridge, the way light falls through carved lattice windows onto painted beams that have not been touched up in decades.
 
 The complex sits at the foot of Xuanweng Mountain in Jinyuan District, a fair distance southwest of central Taiyuan, and was originally built to honor Tang Shuyu, a Zhou-dynasty prince credited with founding the state that became Shanxi. What survives today is largely Song and Ming in construction, layered over far older origins, which is why Jinci reads less like a single monument and more like a walk through accumulated centuries.

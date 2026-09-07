@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-lalbagh-botanical-garden
-srcHash: '1f97f76e7918'
+srcHash: 'cd665116b815'
 title: 'Jardín Botánico Lalbagh: guía de viaje de Bengaluru (4,4★)'
 description: 'El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. 4,4★ (177.977 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. Entre los lugares que no hay que perderse están la Casa de Cristal (inspirada en el Crystal Palace de Londres), la roca de Gneis Peninsular, de 3.000 millones de años de antigüedad, y el jardín de topiaria. Los fines de semana, a partir de la 13:00, el lugar se llena, así que conviene ir a primera hora de la mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: Normalmente se cobra una pequeña tarifa de entrada, y hay un cargo aparte para la Casa de Cristal durante las exposiciones de flores de enero y agosto. Lleva efectivo y confirma las tarifas vigentes en la puerta, ya que pueden cambiar.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

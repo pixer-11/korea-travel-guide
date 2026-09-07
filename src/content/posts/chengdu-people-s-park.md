@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 People's Park isn't a monument you photograph and leave. It's a park you sit in.

@@ -114,8 +114,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chin Swee Caves Temple isn't a quiet countryside shrine — it's a mountainside spectacle. Built into a steep mountain slope, the temple complex unfolds in tiers, with a towering pagoda visible long before you reach the entrance.

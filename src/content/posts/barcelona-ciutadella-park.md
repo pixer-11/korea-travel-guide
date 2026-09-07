@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come out of the metro, cross Passeig de Lluís Companys under the brick arch of the Arc de Triomf, and the city noise just falls away behind a wall of plane trees. Ciutadella Park is Barcelona's largest and most-loved green space, built on the ruins of an 18th-century military citadel that Bourbon troops used to keep the city in check after the War of Spanish Succession.

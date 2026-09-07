@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lantau-island-tian-tan-buddha
-srcHash: '6bdb8996c662'
+srcHash: 'a50188d97d69'
 title: 'Buda Tian Tan: guía de viaje de la isla de Lantau (4.6★)'
 description: 'El Buda Tian Tan se alza sobre la meseta de Ngong Ping, en la isla de Lantau (Lantau Island), a la que se llega en teleférico o autobús desde la estación de metro de Tung Chung. 4.6★ (19,573 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Buda Tian Tan se alza sobre la meseta de Ngong Ping, en la isla de Lantau (Lantau Island), a la que se llega en teleférico o autobús desde la estación de metro de Tung Chung. Abre todos los días de 10am a 5:30pm; conviene ir justo a la apertura, entre las 10 y las 11am, a ser posible en día de semana, para ver los más de 260 escalones y la enorme figura de bronce sin las multitudes. Reserva medio día, incluyendo el trayecto en teleférico, la subida y una visita al Monasterio Po Lin, justo al lado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena combinarlo con otros lugares de la isla de Lantau?
     a: 'Sí: el Monasterio Po Lin está justo al pie de los escalones, y el Sendero de la Sabiduría (Wisdom Path) está a solo 15 minutos a pie desde la aldea de Ngong Ping (Ngong Ping Village), por lo que es fácil ver los tres en una sola salida.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

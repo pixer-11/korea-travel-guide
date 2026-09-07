@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gili-islands-gili-trawangan-beach
-srcHash: 'abc01e5faa35'
+srcHash: '859550f21239'
 title: 'Playa de Gili Trawangan: Guía de viaje de las islas Gili (4.6★)'
 description: La franja principal de playa de Gili Trawangan (Gili Trawangan) es mejor al amanecer (agua en calma, vacía y cristalina) o justo al atardecer sobre el volcán de Lombok — el sol del mediodía y las llegadas de barcos entre semana son las principales aglomeraciones que conviene evitar. 4.6★ (233 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La franja principal de playa de Gili Trawangan es mejor al amanecer (agua en calma, vacía y cristalina) o justo al atardecer sobre el volcán de Lombok — el sol del mediodía y las llegadas de barcos entre semana son las principales aglomeraciones que conviene evitar. En la isla no circulan vehículos (ni coches ni motos), así que hay que planear ir caminando, en bicicleta o en un carro tirado por caballos (cidomo) para llegar a los tramos más tranquilos al norte y al este del puerto.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo combinarla con las otras islas Gili?
     a: 'Sí: tanto Gili Meno como Gili Air están a un corto trayecto en barco público y son una fácil excursión de un día o una escapada de una noche desde Trawangan.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes la diferencia en cuanto bajas del barco: nada de motores, nada de bocinas, solo el crujido de la arena bajo los pies descalzos y el traqueteo de un carro cidomo en algún lugar detrás de ti. En Gili Trawangan no circula ningún vehículo motorizado, y ese único hecho define por completo la sensación que transmite la playa.
 

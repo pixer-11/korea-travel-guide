@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: annecy-pont-des-amours
-srcHash: '9f794bd0bf7c'
+srcHash: '8eb9f641b72d'
 title: 'Pont des Amours: Guía de viaje de Annecy (4,6★)'
 description: 'El Pont des Amours es una pequeña pasarela blanca donde el canal Vassé desemboca en el lago de Annecy, con los Alpes y los Jardines de Europa como telón de fondo. 4,6★ (13.343 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Pont des Amours es una pequeña pasarela blanca donde el canal Vassé desemboca en el lago de Annecy, enmarcada por los Alpes y los Jardines de Europa. Se puede visitar las 24 horas y de forma gratuita, aunque conviene ir al amanecer o después del anochecer para disfrutarlo de verdad, ya que al mediodía y los fines de semana hay mucha afluencia de gente. Calcule entre 15 y 20 minutos, más si se queda un rato junto al agua.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos merece la pena combinar con la visita?
     a: Los Jardines de Europa, justo detrás; los canales del casco antiguo y el Palais de l'Isle; y el alquiler de barcas de pedales en el embarcadero junto al lago.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

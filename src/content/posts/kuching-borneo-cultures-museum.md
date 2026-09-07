@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's worth your time
 
 You walk in expecting a standard regional museum and leave having spent half a day. The Borneo Cultures Museum opened in 2022 as the anchor of Kuching's revamped waterfront museum campus, and it's built at a scale that surprises first-time visitors: five floors, reportedly among the largest museum spaces in Malaysia.

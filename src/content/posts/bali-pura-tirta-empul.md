@@ -100,8 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Pura Tirta Empul matters
 
 This is Bali's spring temple, the one every guidebook photo of people bowing under stone spouts actually shows. Founded around 962 AD, legend says the spring was created by the god Indra to revive his poisoned troops. Balinese Hindus still come here for melukat, ritual purification, not for tourists' cameras.

@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before you reach the entrance, the building itself signals what's inside: a squat, circular drum topped by an arched handle, deliberately shaped to echo an ancient bronze ding vessel. It's a rare piece of 1990s Shanghai architecture that isn't chasing height, and against the surrounding towers of People's Square it reads almost like a monument dropped from another era.

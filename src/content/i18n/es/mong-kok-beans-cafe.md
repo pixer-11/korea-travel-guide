@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mong-kok-beans-cafe
-srcHash: '46671edbb366'
+srcHash: 'dc89ad574901'
 title: 'Beans Cafe: Guía de viaje de Mong Kok (4.7★)'
 description: Beans Cafe es una pequeña cafetería bien valorada, escondida en el nivel 4A del centro comercial Langham Place, en Mong Kok, abierta todos los días de mediodía a 22:00.
 quickAnswer: 'Beans Cafe es una pequeña cafetería bien valorada, escondida en el nivel 4A del centro comercial Langham Place, en Mong Kok, abierta todos los días de mediodía a 22:00. Es un auténtico rincón tranquilo dentro de un centro comercial que suele estar repleto de compradores: conviene ir un día entre semana por la tarde (16:00–22:00) o, los fines de semana, después de las 21:00, para encontrarlo casi vacío. Los precios son asequibles a moderados, y resulta fácil de combinar con una visita de compras a Langham Place.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita?
     a: El propio Langham Place ofrece tiendas y un cine. A poca distancia a pie se encuentran el Mercado de Damas (Ladies' Market), la Calle de las Zapatillas (Sneaker Street) y el Mercado de las Flores.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes están bajo licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

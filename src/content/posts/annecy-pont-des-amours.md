@@ -57,8 +57,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The name means "Bridge of Lovers," and you feel the pull before you reach it. Ahead, the Vassé canal narrows and empties into Lake Annecy, and the whole scene opens up: turquoise water, moored rowboats, and the jagged silhouette of the Alps rising behind the far shore.

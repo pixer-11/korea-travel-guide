@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 NOMA is New Orleans' grandest art collection, and it doesn't announce itself quietly. The building itself, a white marble Beaux-Arts pile from 1911, sits at the end of a long oak-lined drive in City Park like something dropped in from Washington, D.C.

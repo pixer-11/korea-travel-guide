@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Daegu National Museum tells the story of the Yeongnam region — the old name for the area around Daegu and North Gyeongsang — through objects rather than text panels alone. You walk past Bronze Age daggers, Silla-era gold ornaments, and Buddhist stone pagodas that once stood in open fields for a thousand years.

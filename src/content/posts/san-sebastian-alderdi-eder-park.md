@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're looking at
 
 Alderdi Eder is the green wedge between the Ayuntamiento building (San Sebastián's former casino, now city hall) and the curve of Playa de la Concha. Palms and tamarind trees line gravel paths, with flowerbeds cut into geometric patterns that change with the season. A small carousel runs near the seafront edge, a fixture here for generations. The whole park covers only a few thousand square metres, so it reads more as an elegant threshold than a destination park.

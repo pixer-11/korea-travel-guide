@@ -105,8 +105,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Fukuoka City Science Museum packs a full day's curiosity into a few well-organized floors. It's built around hands-on exhibits rather than glass cases, so you're pressing buttons, spinning wheels, and watching cause-and-effect play out in real time.

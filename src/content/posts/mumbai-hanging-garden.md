@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hanging Garden crowns Malabar Hill, one of Mumbai's oldest and wealthiest neighborhoods, and it's built directly over a British-era water reservoir. That's the "hanging" part — the whole terraced garden floats above the tank, not over any cliff.

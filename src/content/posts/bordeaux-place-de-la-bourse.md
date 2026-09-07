@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around the corner from Rue Fernand Philippart and the square opens up all at once — a long curve of pale stone facades, wrought-iron balconies, and, laid flat in front of them, a sheet of water so still it doubles the sky.
 
 This is the Miroir d'Eau, Europe's largest reflecting pool, and it's the reason most people detour here. Every few minutes it switches between glassy mirror and ankle-deep mist, and on hot afternoons kids run shrieking through the fog while it fully soaks their shoes.

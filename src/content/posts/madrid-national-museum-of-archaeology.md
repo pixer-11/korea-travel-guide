@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the Salamanca district's grid of shuttered boutiques and quiet apartment blocks and suddenly there's this long neoclassical façade on Serrano, columns and pale stone, looking more like a ministry than a museum. That's deliberate — the building dates to the 1860s, built to house the royal collections, and it still has the bones of a nineteenth-century palace of learning: high ceilings, long galleries, natural light pooling on stone floors.

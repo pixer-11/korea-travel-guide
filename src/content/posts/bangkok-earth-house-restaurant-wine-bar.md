@@ -93,8 +93,6 @@ heroImage:
   source: 'https://foursquare.com/v/6606b91857de177eaeeb058d'
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You turn off the roar of Sukhumvit Road onto Soi 53, and the traffic noise drops away almost immediately. Low-rise houses, overhanging trees, the occasional motorbike taxi idling in the shade — this is one of Bangkok's quieter residential sois, and Earth House sits inside it like a house that decided to become a restaurant.
 
 That's not far from the truth. The building has a converted-home feel: wooden shutters, plants crowding the windowsills, a garden-adjacent dining room that lets in real daylight rather than the fluorescent glare typical of Sukhumvit eateries. It's the kind of space that makes you lower your voice a little without anyone telling you to.

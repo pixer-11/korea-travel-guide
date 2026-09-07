@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale before you understand it. Standing at the Meridian Gate — Wu Men — the crenellated wings curve around you like a stone embrace, and the crowd funnels through a single opening in a wall that once separated the emperor from everyone else on earth. Completed in 1420 under the Yongle Emperor, this was the seat of Ming and Qing power for nearly five centuries, and it still holds together as one continuous, walled world: 980-odd buildings, nested courtyards, and not a single modern structure to break the spell once you're inside.
 
 ## Orientation: how the palace is built

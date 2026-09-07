@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: konya-konya-tropical-butterfly-garden
-srcHash: 'f272a5f782eb'
+srcHash: 'bce55308db8d'
 title: 'Jardín Tropical de Mariposas de Konya: Guía de Viaje (4,6★)'
 description: 'El Jardín Tropical de Mariposas de Konya (Konya Tropical Butterfly Garden, en Selçuklu, en el extremo norte de Konya) es un parque tropical de cúpula de cristal donde miles de mariposas vuelan libremente entre aire húmedo y una vegetación densa, junto a un museo de insectos. 4,6★ (29.584 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Tropical de Mariposas de Konya (en Selçuklu, en el extremo norte de Konya) es un parque tropical de cúpula de cristal donde miles de mariposas vuelan libremente entre aire húmedo y una vegetación densa, junto a un museo de insectos. Abre de martes a domingo, de 9:30 a 17:30, y cierra los lunes; con muchísimo más de 100.000 visitantes que lo han reseñado en conjunto, hay que esperar aglomeraciones reales los fines de semana entre las 10:00 y las 17:00. Calcula entre 1,5 y 2 horas, y ve justo a la apertura en día de semana para la visita más tranquila.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es adecuado para niños pequeños?
     a: 'Sí: hay un área de actividades infantiles dedicada y programas educativos sobre la metamorfosis, además de la cúpula principal de mariposas y el museo de insectos.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

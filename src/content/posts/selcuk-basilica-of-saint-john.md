@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You climb Ayasuluk Hill on a gravel path lined with fallen marble drums, and before you reach the ticket booth you can already see the brick piers rising against the sky like the ribs of something enormous. This is the Basilica of Saint John, built in the 6th century under Emperor Justinian I on the spot tradition holds is the burial place of the apostle John.
 
 ## Why this ruin matters

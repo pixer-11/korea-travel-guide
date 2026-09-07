@@ -75,8 +75,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the contrast. Step off the roaring traffic of Nathan Road and up onto this raised stone platform, and Kowloon's noise drops away behind you.

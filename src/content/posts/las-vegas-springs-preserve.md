@@ -68,8 +68,6 @@ faq:
     a: The trails are mostly unshaded, so summer afternoons (often over 100°F) can be tough going. Spring and fall, or an early-morning summer visit right at opening, make for a far more comfortable walk.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before neon, there was water here. Springs Preserve sits on the exact site where natural artesian springs once bubbled up out of the Mojave floor, forming the oasis that gave Las Vegas — "the meadows" — its name. Today the springs themselves have run dry, drained by decades of groundwater pumping, but the 180-acre site around them has been turned into a sprawling complex of trails, wetlands habitat, botanical gardens, and museums that tells the story of how a patch of desert became modern Las Vegas.

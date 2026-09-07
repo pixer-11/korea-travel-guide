@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Tam Coc for the moment the boat slides under the first cave mouth and the light drops to almost nothing. Sheer limestone walls close in on either side, dripping and stained dark green, and for a few seconds the only sound is the oar pushing against water. Then you're back out into flat, glinting rice paddies ringed by karst peaks, and the whole scene repeats twice more.

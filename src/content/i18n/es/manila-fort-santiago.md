@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-fort-santiago
-srcHash: 'f1294f1afa2b'
+srcHash: 'b309f4b8b74e'
 title: 'Fuerte de Santiago: Guía de viaje de Manila'
 description: El Fuerte de Santiago, la antigua ciudadela española en la punta de Intramuros, en Manila, abre todos los días de 8am a 11pm y se explora mejor en las primeras horas tras la apertura, antes de que lleguen los autobuses turísticos y las multitudes nocturnas.
 quickAnswer: El Fuerte de Santiago, la antigua ciudadela española en la punta de Intramuros, en Manila, abre todos los días de 8am a 11pm y se explora mejor en las primeras horas tras la apertura, antes de que lleguen los autobuses turísticos y las multitudes nocturnas. Reserva entre 1.5 y 2 horas para recorrer las murallas, visitar el museo del Santuario de Rizal y seguir los últimos pasos de José Rizal hacia el lugar de su ejecución. Es muy popular, así que procura ir entre las 8 y las 11am en días de semana o entre las 8 y las 10am los fines de semana, y evita la avalancha del fin de semana entre las 3pm y las 10pm.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Iglesia de San Agustín, la Catedral de Manila y el museo Casa Manila están todos a poca distancia a pie dentro de Intramuros, lo que facilita combinarlos en un itinerario de medio día a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Entras por una puerta de piedra tallada con un relieve de Santiago Matamoros —san Jacobo a caballo, venciendo al moro— y el ruido del tráfico de Intramuros desaparece casi de inmediato. Gruesos muros de piedra adobe, ennegrecidos en algunos tramos por siglos de lluvia tropical, se alzan a ambos lados. Este es el Fuerte de Santiago (Fort Santiago), la ciudadela que los españoles construyeron en 1571 en la desembocadura del río Pasig, y que todavía carga con el peso de todo lo que ocurrió en su interior: el dominio colonial, la ocupación japonesa y los últimos días del hombre que los filipinos consideran su héroe nacional.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-the-painted-ladies
-srcHash: '62560d6c8131'
+srcHash: '25733713ce69'
 title: 'Las Painted Ladies: Guía de viaje de San Francisco (4.4★)'
 description: 'Las Painted Ladies son la hilera de siete casas victorianas en Steiner Street frente a Alamo Square Park, conocidas sobre todo por ser el telón de fondo de "Full House" y de innumerables postales. 4.4★ (28.008 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Painted Ladies son la hilera de siete casas victorianas en Steiner Street frente a Alamo Square Park, conocidas sobre todo por ser el telón de fondo de "Full House" y de innumerables postales. Se pueden ver gratis en cualquier momento, pero la luz es mejor a última hora de la tarde, y el parque está más tranquilo los días de semana por la mañana, antes de que lleguen los autobuses turísticos. Calcula entre 20 y 30 minutos para las fotos, más si quieres subir la colina y hacer un pícnic en el parque.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede entrar a las casas?
     a: No, son viviendas de propiedad privada, no museos, así que la visita consiste enteramente en la vista exterior desde Alamo Square.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sales caminando desde Western Addition, o bajas de un servicio de viajes compartidos en Hayes Street, y por un momento no las ves: Alamo Square es una colina verde salpicada de palmeras y eucaliptos, y las casas están apenas visibles a lo largo de su borde oriental. Entonces llegas a la cima de la pendiente y ahí están: siete casas victorianas alineadas prolijamente en Steiner Street, con frontones y torretas apilados en colores de caja de bombones, mientras las torres de cristal del Financial District se alzan detrás como el cambio de un decorado. Es una de las vistas más fotografiadas de San Francisco, y el motivo resulta evidente en cuanto la ves.
 

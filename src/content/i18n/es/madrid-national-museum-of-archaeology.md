@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-national-museum-of-archaeology
-srcHash: '99034e217ff8'
+srcHash: 'c8aa544fdebb'
 title: 'Museo Arqueológico Nacional: Guía de viaje de Madrid (4,7★)'
 description: 'El Museo Arqueológico Nacional de Madrid (MAN) se encuentra en la calle de Serrano, en el barrio de Salamanca, junto a la Biblioteca Nacional, y reúne desde escultura ibérica y mosaicos romanos hasta cerámica islámica y una réplica a tamaño real de la cueva de Altamira. 4,7★ (28.588 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Arqueológico Nacional de Madrid (MAN) se encuentra en la calle de Serrano, en el barrio de Salamanca, junto a la Biblioteca Nacional, y reúne desde escultura ibérica y mosaicos romanos hasta cerámica islámica y una réplica a tamaño real de la cueva de Altamira. Dedícale entre dos y tres horas, ve un día entre semana por la tarde-noche, sobre las 20:00–21:00h, cuando hay menos gente, y cuenta con hacer cola si llegas un sábado o domingo por la mañana. Se combina fácilmente con el parque del Retiro o los museos del Triángulo del Arte, todos a poca distancia a pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿El famoso arte rupestre de Altamira es el original?
     a: No, es una réplica a tamaño real y fiel al original, situada en el sótano del museo. La cueva de Altamira real, en Cantabria, está cerrada al público general para preservar las pinturas, así que esta es la forma más accesible de verlas de cerca.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

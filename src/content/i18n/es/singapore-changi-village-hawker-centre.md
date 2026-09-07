@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-changi-village-hawker-centre
-srcHash: 'bf9e88d1d880'
+srcHash: '6e1c5c019ac3'
 title: 'Changi Village Hawker Centre: dónde comer en Singapur'
 description: Changi Village Hawker Centre, en 2 Changi Village Rd, en el extremo noreste de Singapur, es conocido sobre todo por sus puestos de nasi lemak, satay y buñuelos de plátano frito, que se comen en mesas comunales de fórmica bajo ventiladores de techo en constante zumbido.
 quickAnswer: Changi Village Hawker Centre, en 2 Changi Village Rd, en el extremo noreste de Singapur, es conocido sobre todo por sus puestos de nasi lemak, satay y buñuelos de plátano frito, que se comen en mesas comunales de fórmica bajo ventiladores de techo en constante zumbido. Es un lugar muy visitado (4,3 estrellas, casi 14.000 reseñas), así que conviene ir un día entre semana antes del mediodía o después de las 2 de la tarde para evitar las multitudes, y combinarlo con un paseo hasta la cercana Changi Beach o un ferry a Pulau Ubin.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más puedo hacer cerca?
     a: Changi Beach Park está a poca distancia caminando, y la terminal de ferris hacia Pulau Ubin, una isla más tranquila y ideal para andar en bicicleta, también queda cerca; ambas combinan de forma natural con una comida aquí.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo hueles antes de ver las mesas: el humo de carbón que se eleva de las parrillas de satay, el aroma dulce y salado del pandan y la leche de coco que sale de los puestos de nasi lemak. Changi Village Hawker Centre se encuentra en el extremo noreste de Singapur, un edificio de una sola planta al aire libre con techo de chapa ondulada, ventiladores de techo que zumban sin parar, y filas de mesas comunales de fórmica que claramente han visto décadas de codos apoyados y salsa de chile derramada.
 

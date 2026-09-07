@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it long before you reach it — a honey-colored tower rising above the rooftops of the Casco Antiguo, its silhouette instantly readable as Seville. La Giralda began life in the 12th century as the minaret of the city's Almohad mosque, built from the same brick and stone that gives it that warm, weathered glow at sunset. When Seville's Gothic cathedral swallowed the mosque in the 15th century, the tower survived, and in the 1560s the Spanish topped it with a Renaissance belfry and a bronze weathervane statue of Faith — the "Giraldillo" that gives the tower its name, from *girar*, to turn.

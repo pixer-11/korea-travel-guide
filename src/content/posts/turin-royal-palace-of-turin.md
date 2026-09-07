@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Royal Palace of Turin was the seat of the House of Savoy for over two centuries, and it shows. Gilded ceilings stretch overhead in room after room. Chinese silk panels line one salon, a full ceremonial armory fills another. This isn't a palace you glimpse from a courtyard rope line — you walk straight through the lived-in machinery of a European monarchy.

@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## A quick correction before you go
 
 Despite how it's often filed online, Dodamsambong isn't in Damyang. It sits on the Namhangang River in Danyang-gun, Chungcheongbuk-do, a couple of hours southeast of Seoul. Worth knowing before you build an itinerary around the wrong county.

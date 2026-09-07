@@ -99,8 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for scale, not subtlety. The Buddha Museum isn't a single hall you pop into for twenty minutes — it's a monastery city, built around a giant seated bronze Buddha statue visible from kilometers away in the Gaoping River valley.

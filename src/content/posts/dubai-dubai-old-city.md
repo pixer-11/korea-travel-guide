@@ -106,8 +106,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dubai Old City isn't a museum behind glass — it's a reconstructed pocket of the emirate's past you can walk straight into. Wind-tower architecture, thick coral-and-gypsum walls, and shaded courtyards recreate the pearling-era town that stood here before glass towers took over the skyline.

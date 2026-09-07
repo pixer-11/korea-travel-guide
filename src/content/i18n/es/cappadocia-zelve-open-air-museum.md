@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cappadocia-zelve-open-air-museum
-srcHash: '45d1df4e57e4'
+srcHash: '6e96c0cdff2a'
 title: 'Museo al Aire Libre de Zelve: Guía de Viaje de Capadocia (4.7★)'
 description: 'Cerca de Avanos, en Capadocia, el Museo al Aire Libre de Zelve es un extenso pueblo trogloditas abandonado que se extiende por tres valles, habitado por comunidades cristianas y musulmanas hasta 1924. 4.7★ (10.034 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Cerca de Avanos, en Capadocia, el Museo al Aire Libre de Zelve es un extenso pueblo trogloditas abandonado que se extiende por tres valles, habitado por comunidades cristianas y musulmanas hasta 1924. Abre todos los días de 8:00 a 20:00; los fines de semana se llena entre las 10:00 y las 17:00, así que conviene ir a primera hora de la mañana o después de las 17:00 para tener algo de espacio. Calcule entre 1,5 y 2 horas y lleve calzado resistente: esto es una caminata entre rocas, no un simple paseo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay que llevar o ponerse para la visita?
     a: Calzado cerrado y resistente para moverse por la roca irregular, y una linterna o la luz del teléfono para los interiores más oscuros de las cuevas y el túnel de conexión.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Zelve es diferente
 

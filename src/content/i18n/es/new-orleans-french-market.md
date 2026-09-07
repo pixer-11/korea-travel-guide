@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-french-market
-srcHash: '27b959ef812a'
+srcHash: '2fc9ed0d6bba'
 title: 'French Market: Guía de viaje de Nueva Orleans (4.5★)'
 description: 'El French Market es un bazar al aire libre de seis manzanas a lo largo de N Peters St en el Barrio Francés (French Quarter), abierto todos los días de 10:00 a 18:00, que combina un mercadillo cubierto de joyería, arte y souvenirs con puestos de comida que venden pralinés, salsa picante y muffulettas. 4.5★ (15,644 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El French Market es un bazar al aire libre de seis manzanas a lo largo de N Peters St en el Barrio Francés (French Quarter), abierto todos los días de 10am a 6pm, que combina un mercadillo cubierto de joyería, arte y souvenirs con puestos de comida que venden pralinés, salsa picante y muffulettas. Es un lugar muy visitado, no es ningún secreto, así que conviene ir justo a la apertura, a las 10am, o un día de semana por la mañana para evitar las multitudes de los autobuses turísticos. Calcula entre 45 y 90 minutos, más tiempo si te detienes a comer.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debo calcular para la visita?
     a: Entre 45 y 90 minutos es suficiente para recorrer bien tanto los puestos de artesanías y mercadillo como los de comida; suma tiempo extra si planeas sentarte a comer beignets en Café du Monde.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué el French Market sigue siendo importante
 

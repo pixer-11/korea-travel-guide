@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before you reach the entrance, the building itself starts the show. Félix Candela and Santiago Calatrava designed it to look like the bleached skeleton of a whale, and up close the resemblance holds: white ribs of concrete arch over a glass shell, casting long slatted shadows across the plaza in the afternoon sun. Locals call the whole science-museum-plus-planetarium-plus-oceanarium complex simply "the City of Arts and Sciences," and the Príncipe Felipe is its intellectual heart — three floors of exhibits built for touching, cranking, and pressing buttons rather than reading wall text.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mong-kok-lok-kwan-street-park
-srcHash: '1a21162cd025'
+srcHash: '10ae09bccba1'
 title: 'Lok Kwan Street Park: Guía de viaje de Mong Kok (4.0★)'
 description: 'Lok Kwan Street Park es un pequeño parque vecinal sin pretensiones en Tai Kok Tsui, a pocos minutos a pie del centro de Mong Kok, ideal para un descanso de 20-30 minutos entre mercados, aunque no es una atracción destacada. 4.0★ (346 reseñas): opiniones de visitantes, horarios y consejos.'
 quickAnswer: Lok Kwan Street Park es un pequeño parque vecinal sin pretensiones en Tai Kok Tsui, a pocos minutos a pie del centro de Mong Kok. Es un buen lugar para un descanso de 20-30 minutos entre mercados, no una atracción destacada. Abre las 24 horas, así que las mañanas antes de las 8:00 son la mejor opción para encontrar bancos libres, ya que los fines de semana se mantiene concurrido de 7:00 a 23:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: No, es un parque público gratuito con acceso libre desde las calles circundantes.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué molestarse en visitar un parque llamado "Lok Kwan Street"
 

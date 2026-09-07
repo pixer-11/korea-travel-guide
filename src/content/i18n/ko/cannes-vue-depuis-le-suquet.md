@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: cannes-vue-depuis-le-suquet
-srcHash: '852ba422385d'
+srcHash: '6c5fcc6c8dcf'
 title: '르 쉬케(Le Suquet)에서 바라본 전망: 칸 여행 가이드'
 description: '칸(Cannes)의 언덕 위 구시가지 르 쉬케(Le Suquet)에 오르면 라 카스트르 박물관(Musée de La Castre)과 그 앞 쉬케 탑(Tour du Suquet) 광장에서 펼쳐지는 전망이 기다립니다: 칸 만 전체가 한눈에 보입니다.'
 quickAnswer: '칸(Cannes)의 언덕 위 구시가지 르 쉬케(Le Suquet)에 오르면, 라 카스트르 박물관(Musée de La Castre) 옆과 그 앞 쉬케 탑(Tour du Suquet) 광장에서 그만한 보상이 기다립니다: 발아래 펼쳐진 칸 만(Baie de Cannes) 전체, 물가를 따라 굽이치는 라 크루아제트(La Croisette), 앞바다에 떠 있는 레랭 제도(Îles de Lérins), 그리고 일몰 무렵 붉게 물드는 에스테렐 산괴(massif de l''Estérel)까지 한눈에 들어옵니다. 무료이며, 항구에서 걸어 올라가는 데 약 20~30분이 걸리고, 이른 아침이나 해질녘 한 시간 전이 가장 한산합니다.'
@@ -17,8 +17,6 @@ faq:
   - q: 근처에 또 무엇이 있나요?
     a: 비외 포르(Vieux Port)와 그 주변 항구 식당들은 언덕 아래로 조금만 걸어가면 있으며, 마르셰 포르빌(Marché Forville) 식료품 시장과 팔레 데 페스티발(Palais des Festivals)도 모두 도보로 약 15분 이내 거리에 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검수, AI 보조 작성. 사실 정보는 실시간 구글 플레이스(Google Places) 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 왜 다른 전망이 아니라 이곳인가
 

@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pike Place Market is thick with seafood stalls selling flying salmon and souvenir T-shirts, but Jack's Fish Spot is the one where the market's own fishmongers and downtown office workers actually queue for lunch. There's no dining room to speak of — just a glass counter stacked with ice, live tanks bubbling with Dungeness crab and geoduck, and a chalkboard menu that changes with what came off the boats that morning.

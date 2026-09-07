@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-banteay-srei-temple
-srcHash: '876636b12c6b'
+srcHash: 'c4ff61252e28'
 title: 'Templo de Banteay Srei: Guía de Viaje de Siem Reap (4.8★)'
 description: 'El templo de Banteay Srei se encuentra a unos 25–30 km al noreste del centro de Siem Reap, dentro del complejo más amplio del Parque Arqueológico de Angkor, y abre todos los días de 7:30 a 17:30. 4.8★ (2109 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El templo de Banteay Srei se encuentra a unos 25–30 km al noreste del centro de Siem Reap, dentro del complejo más amplio del Parque Arqueológico de Angkor, y abre todos los días de 7:30 a 17:30. Los fines de semana, entre las 9:00 y las 16:00, es cuando más gente hay, así que conviene visitarlo en día de semana: entonces todo el recinto se disfruta con tranquilidad en cualquier momento entre las 8:00 y las 17:00. Reserve entre 45 minutos y una hora solo para las tallas, y aproveche el mismo trayecto para parar en Banteay Samre o en el Museo de Minas Terrestres de Camboya.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: Banteay Samre, Pre Rup y el Museo de Minas Terrestres de Camboya están sobre la misma carretera de regreso a Siem Reap y combinan bien con una excursión de medio día a Banteay Srei.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Banteay Srei es diferente
 

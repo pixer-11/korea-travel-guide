@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amritsar-sri-harmandir-sahib
-srcHash: '168b6cbdfc55'
+srcHash: '6d7e03f54b26'
 title: 'Sri Harmandir Sahib: guía de viaje de Amritsar (4,9★)'
 description: 'Sri Harmandir Sahib (el Templo Dorado) no cierra nunca, así que no hay un mal momento para ir, aunque el tramo más tranquilo es de 7 a 8 de la mañana entre semana, antes de que lleguen los autobuses turísticos y las multitudes del fin de semana. 4,9★ (206.094 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Sri Harmandir Sahib (el Templo Dorado) no cierra nunca, así que no hay un mal momento para ir, aunque el tramo más tranquilo es de 7 a 8 de la mañana entre semana, antes de que lleguen los autobuses turísticos y las multitudes del fin de semana. Evita el horario de 18:00 a 23:00 los fines de semana, cuando el complejo está en su punto más concurrido. Calcula entre 2 y 3 horas, viste con recato, cúbrete la cabeza y prepárate para caminar descalzo por mármol fresco y salones de langar cálidos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuándo conviene evitar la visita?
     a: Evita el horario de 18:00 a 23:00 los fines de semana, cuando el número de turistas nacionales alcanza su punto máximo y la cola para entrar al santuario interior se vuelve considerablemente más larga.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 La cúpula aparece antes que la puerta: un suave resplandor dorado sobre los tejados de Katra Ahluwalia, reflejado boca abajo en un estanque rectangular tan quieto que parece vertido en lugar de lleno. Dejas los zapatos en el mostrador, cruzas un canal de agua a la entrada que cubre hasta el tobillo y pisas un mármol que, según la hora, ya está tibio o frío. Nadie te apresura. Eso es lo primero que se nota.
 

@@ -96,8 +96,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You pass through the Great Portico first, its curved tile roof and stone dragons framing the noise of Quốc Tử Giám street behind you. Inside, the traffic drops away almost instantly. Five walled courtyards unfold one after another, each gate a little more hushed than the last.
 
 This is Văn Miếu — the Temple of Literature — founded in 1070 and dedicated to Confucius, scholars, and sages. In 1076 it became Vietnam's first national university, training the mandarins who ran the imperial court for the next seven centuries.

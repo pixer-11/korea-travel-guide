@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-the-palace-museum
-srcHash: '79f93971d0cc'
+srcHash: 'b232cb725d82'
 title: 'El Museo del Palacio: Guía de viaje de Pekín (4.6★)'
 description: El Museo del Palacio (más conocido como la Ciudad Prohibida) es el imprescindible complejo palaciego imperial de Pekín, abierto de martes a domingo de 8:30 a 16:30 y cerrado los lunes. 4.6★ (16.777 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo del Palacio (más conocido como la Ciudad Prohibida) es el imprescindible complejo palaciego imperial de Pekín, abierto de martes a domingo de 8:30 a 16:30 y cerrado los lunes. Compra las entradas con franja horaria online por adelantado, llega justo a las 8:30am para adelantarte a las multitudes (el flujo de visitantes es más bajo entre las 8:30am y las 9:30am y máximo entre las 10am y las 4pm los fines de semana), y calcula al menos tres horas para recorrer todo el eje norte-sur. Entra por la Puerta del Meridiano, en el lado sur, cerca de la Plaza de Tiananmen, y sal por el norte hacia el Parque Jingshan.
@@ -19,8 +19,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinar mi visita?
     a: La Plaza de Tiananmen está justo al sur de la entrada, y el Parque Jingshan, con su vista desde la colina sobre los tejados del palacio, se encuentra justo al norte de la puerta de salida.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sales del paso subterráneo en la Plaza de Tiananmen, cruzas el foso, y ahí está: la Puerta del Meridiano, un muro de muros de paredes rojas y techo dorado, tan ancho que se traga a la multitud que se agolpa frente a ella. Esta es la única entrada para los visitantes, y una vez que la traspasas, el ruido de la avenida desaparece y te encuentras al borde de un patio de piedra lo bastante grande como para perder a varios miles de personas — algo que, en un día de mucha afluencia, sucederá.
 

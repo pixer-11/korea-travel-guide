@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-washington-park-arboretum
-srcHash: 'fc8d98570457'
+srcHash: '7c1e5afe0b8c'
 title: 'Washington Park Arboretum: Guía de viaje de Seattle (4.8★)'
 description: 'El Washington Park Arboretum, en la zona de Madison Valley/Montlake de Seattle, abre todos los días de 8:00 a 20:00 y su acceso es gratuito durante ese horario. 4.8★ (8,277 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Washington Park Arboretum, en la zona de Madison Valley/Montlake de Seattle, abre todos los días de 8:00 a 20:00 y se puede recorrer gratis en cualquier momento dentro de ese horario. Los fines de semana se llena entre las 11:00 y las 18:00, así que si prefiere senderos más tranquilos, llegue justo a las 8:00. El Jardín Japonés, dentro del arboreto, cobra entrada aparte y tiene su propio horario, así que conviene confirmarlo antes de ir.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Dónde conviene aparcar?
     a: El aparcamiento del Graham Visitor Center, junto a Arboretum Drive East, es el más céntrico, aunque se llena rápido los fines de semana después de las 11:00. Visitar entre semana o llegar temprano el fin de semana facilita mucho encontrar sitio.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Qué es realmente este lugar
 

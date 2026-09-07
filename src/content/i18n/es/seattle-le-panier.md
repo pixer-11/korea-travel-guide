@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-le-panier
-srcHash: '158276c10729'
+srcHash: '602c235a7ae4'
 title: 'Le Panier: Guía de viaje de Seattle (4,7★)'
 description: 'Le Panier es una panadería de estilo francés en Pike Place, dentro del mercado Pike Place Market de Seattle, conocida sobre todo por sus mantecados de lavanda y sus torres de macarons. 4,7★ (3.102 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Le Panier es una panadería de estilo francés en Pike Place, dentro del mercado Pike Place Market de Seattle, conocida sobre todo por sus mantecados de lavanda y sus torres de macarons. Abre todos los días de 7:00 a 18:00, y el momento más tranquilo para visitarla es justo a la apertura entre semana; los fines de semana se mantiene concurrida desde las 9:00 hasta casi la hora de cierre, y solo baja el ritmo en la última hora antes de las 18:00. Durante gran parte del día hay que contar con una pequeña fila en la calle; se acepta tanto efectivo como tarjeta, y el servicio es de mostrador, sin atención en mesa.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay asientos en Le Panier?
     a: Los asientos son escasos, ya que se trata principalmente de un mostrador de venta para llevar; la mayoría de la gente come de pie junto al mostrador o lleva sus dulces a los bancos cercanos con vistas a la bahía de Elliott (Elliott Bay).
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 Pike Place Market reúne cientos de puestos que venden de todo, desde pescado hasta flores, pero hay un aroma que detiene el paso de la gente por completo: el de mantequilla y azúcar que se escapa de un local estrecho cerca del extremo norte del mercado. Se trata de Le Panier, y la fila que se desborda hacia la acera suele ser la primera señal de que lo has encontrado.
 

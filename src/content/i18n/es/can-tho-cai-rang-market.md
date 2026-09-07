@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: can-tho-cai-rang-market
-srcHash: 'b64a4c4c20ee'
+srcHash: '5747a2c11761'
 title: 'Mercado de Cai Rang: guía de viaje de Can Tho (4,4★)'
 description: 'El mercado flotante de Cai Rang funciona todos los días entre las 5 y las 8 de la mañana aproximadamente, antes de que el sol del Mekong apriete y de que los barcos mayoristas se dispersen. 4,4★ (813 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El mercado flotante de Cai Rang funciona todos los días entre las 5 y las 8 de la mañana aproximadamente, antes de que el sol del Mekong apriete y de que los barcos mayoristas se dispersen. Conviene contratar un barco en el embarcadero de Ninh Kieu, en el centro de Can Tho (unos 30-45 minutos de trayecto), o reservar un tour con salida desde un homestay hacia las 5 de la mañana. Vale la pena ir por los barcos cargados de fruta, las varas "bẹo" que anuncian la mercancía y un tazón de fideos cocinados directamente sobre el agua.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Está Cai Rang lleno de turistas?
     a: Se mantiene relativamente poco conocido en comparación con los mercados cercanos a Ciudad Ho Chi Minh, y sigue siendo principalmente un mercado mayorista en funcionamiento. Los días laborables son más tranquilos que los fines de semana, cuando llegan más tours en grupo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena madrugar para ir a Cai Rang
 

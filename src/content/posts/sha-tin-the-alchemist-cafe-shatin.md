@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to The Alchemist Cafe less for a single showstopper dish and more for the pause it offers. Tucked into the ground floor of the Hong Kong Heritage Museum complex, it's the kind of place you land in after two hours of walking galleries, grateful for a chair and a flat white.

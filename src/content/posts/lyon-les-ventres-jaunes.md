@@ -58,8 +58,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First impressions
 
 You spot it before you reach it — the mustard-yellow façade glowing against the grey stone of Place Neuve Saint-Jean, tucked into the tangle of Renaissance lanes that make up Vieux Lyon. Step through the door and the room folds around you: low beams, exposed rafters darkened by decades of use, walls the color of egg yolk, tables pushed close enough that you'll hear your neighbors debating whether to order the quenelle or the andouillette.

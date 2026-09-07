@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The path starts almost accidentally — you leave the lemon-scented lanes behind Amalfi's cathedral, pass the last row of stacked houses, and the road simply narrows into a mule track. Within ten minutes the noise of the coast disappears. Sound in this valley is water: it drips off ferns, rushes through old mill channels, and eventually thunders over the waterfalls that give the reserve its reputation. The air changes too, cooling and thickening with the green, slightly mineral smell of a place that almost never dries out.
 
 Valle delle Ferriere takes its name from the ironworks and paper mills that once lined this gorge — Amalfi was a major papermaking center for centuries, and you'll walk past crumbling stone mill buildings half-swallowed by moss and maidenhair fern, their old machinery slots and channels still visible in the rock. It's an odd, atmospheric mix of industrial archaeology and jungle: the humidity in this microclimate has allowed a handful of relict subtropical plant species to survive here since the last Ice Age, which is the main reason the valley was made a protected nature reserve.

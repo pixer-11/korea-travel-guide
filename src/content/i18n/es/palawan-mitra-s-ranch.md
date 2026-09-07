@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palawan-mitra-s-ranch
-srcHash: 'a205e6338748'
+srcHash: '9313c64fdfcd'
 title: 'Mitra''s Ranch: Guía de Viaje de Palawan (4.2★)'
 description: 'Mitra''s Ranch es un mirador en lo alto de una colina sobre Mitra Road, a las afueras de Puerto Princesa, abierto todos los días de 5:00 a 18:00, con vistas panorámicas sobre la ciudad y el mar, además de una tirolina y cabañas para pícnic. 4.2★ (1,364 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Mitra's Ranch es un mirador en lo alto de una colina sobre Mitra Road, a las afueras de Puerto Princesa, abierto todos los días de 5:00 a 18:00, con vistas panorámicas sobre la ciudad y el mar, además de una tirolina y cabañas para pícnic. Conviene ir entre las 7:00 y las 9:00, cuando hay menos gente tanto entre semana como los fines de semana, y evitar la avalancha del fin de semana entre las 14:00 y las 18:00. Calcule entre 45 minutos y 1.5 horas, más tiempo si se anima a subir a la tirolina.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Combina bien con un tour por la ciudad de Puerto Princesa, y los paseos para conocer las islas de Honda Bay salen de un muelle no muy lejos del centro, lo que facilita combinar en un mismo día la colina y la playa.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -98,8 +98,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this branch, of all the Tim Ho Wan branches
 
 Tim Ho Wan built its reputation as the cheapest Michelin-starred meal on the planet, and while the original Mong Kok stall is long gone, the chain has spread across Hong Kong with the same short, tight menu. The Central branch is arguably the most convenient of them all: it's built directly into Level 1 of Hong Kong Station, the terminus of the Airport Express and a hub for the Tung Chung line.

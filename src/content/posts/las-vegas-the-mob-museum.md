@@ -64,8 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around the corner from Fremont Street, past the neon and the noise, and suddenly you're standing in front of a squared-off, sand-colored Neoclassical building that looks like it belongs in front of a judge, not a slot machine. That's the point. This was Las Vegas's federal courthouse and post office, built in 1933, and it's the same building where, in 1950, Senator Estes Kefauver's traveling committee held hearings on organized crime — one of fourteen cities visited, but the only one where that history now anchors a museum on the very site it happened.
 
 Inside, the transition from municipal building to storytelling machine is immediate. The original courtroom on the second floor is preserved almost exactly as it was, wood benches and all, and you can sit in the gallery and watch archival footage of witnesses being sworn in a few feet from where it actually occurred. That kind of physical authenticity is rare in a city built almost entirely on reproduction and illusion.

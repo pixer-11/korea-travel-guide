@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First impressions
 
 You climb one flight of stairs off Hollywood Road and the street noise falls away. Cupping Room sits on the first floor of Hilltop Plaza, tucked above the antique shops and gallery fronts that line this stretch of Central.

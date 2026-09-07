@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-royal-palace-of-madrid
-srcHash: '69c49ce69ecc'
+srcHash: 'b02b824eb274'
 title: 'Palacio Real de Madrid: Guía de viaje'
 description: 'Llega justo a la apertura, a las 10:00, un día entre semana para evitar las multitudes en el Palacio Real de Madrid: esa es la franja más tranquila (10:00-11:00), mientras que las tardes de fin de semana de 13:00 a 18:00 son las que registran las colas más largas.'
 quickAnswer: 'Llega justo a la apertura, a las 10:00, un día entre semana para evitar las multitudes en el Palacio Real de Madrid: esa es la franja más tranquila (10:00-11:00), mientras que las tardes de fin de semana de 13:00 a 18:00 son las que registran las colas más largas. Reserva de dos a tres horas para las salas reales, la armería y la farmacia, compra las entradas con horario fijo por internet con antelación, y ten en cuenta que los domingos cierra antes, a las 15:00.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Debería reservar las entradas con antelación?
     a: 'Sí: es uno de los lugares más visitados de Madrid, y reservar una entrada con horario fijo por internet evita una posible larga cola en la taquilla.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Subes por la Calle Bailén y el palacio se anuncia antes de que llegues siquiera a la verja: una larga fachada de granito blanco y piedra que se extiende a lo largo de una loma sobre el valle del Manzanares, tan inmensa que cuesta un momento asimilar que se trata de un solo edificio. Esta es la residencia oficial de la familia real española, aunque en realidad ya no vive nadie aquí —se usa solo para ceremonias de Estado—, y precisamente por eso se puede recorrer casi medio centenar de salas de opulencia dorada sin un cordón de terciopelo a la vista.
 

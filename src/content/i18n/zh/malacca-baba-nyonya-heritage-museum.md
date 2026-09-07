@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: malacca-baba-nyonya-heritage-museum
-srcHash: 'e2ad77ff0a7a'
+srcHash: 'e9a4de4ec22a'
 title: 娘惹博物馆（Baba & Nyonya Heritage Museum）：马六甲旅行指南（4.4星）
 description: 娘惹博物馆坐落于马六甲历史街区的陈祯禄街（Jalan Tun Tan Cheng Lock），除周二闭馆外每日上午10点至下午4点45分开放。4.4星（2,395条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 娘惹博物馆坐落于马六甲历史街区的陈祯禄街，除周二闭馆外每日上午10点至下午4点45分开放。这座修复完好的19世纪土生华人（Peranakan）宅邸，跟团参观一趟大约需要45到60分钟。周末从上午10点到下午4点人流都很密集，想避开人潮，最好一开门就到，或者3点以后再来。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些地方适合一起游览？
     a: 从博物馆步行到荷兰广场（Dutch Square）大约只需10分钟，鸡场街（Jonker Street）和青云亭（Cheng Hoon Teng Temple）也都在附近，很方便串联成一条历史街区徒步路线。
 ---
-
-> **本指南制作说明：** 由编辑审校，并借助人工智能辅助完成。文中信息来自谷歌地图（Google Places）实时数据，图片均为授权使用或公开版权。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

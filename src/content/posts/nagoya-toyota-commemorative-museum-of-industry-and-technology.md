@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a car showroom with shiny concept vehicles under spotlights. It's a working history lesson, housed in the actual red-brick factory where Sakichi Toyoda built automatic looms before his son Kiichiro pivoted the family business into cars.

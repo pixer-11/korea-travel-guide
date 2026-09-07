@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-shing-mun-river-promenade-garden-no-1
-srcHash: 'a04bfd6356a1'
+srcHash: 'a3d2facb5f31'
 title: 'Jardín n.º 1 del Paseo del Río Shing Mun: guía de viaje de Sha Tin'
 description: 'El Jardín n.º 1 del Paseo del Río Shing Mun es un tramo de parque junto al río en Tai Chung Kiu Road, en Sha Tin, abierto las 24 horas y sin coste de entrada. 4,1★ (192 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Jardín n.º 1 del Paseo del Río Shing Mun es un tramo de parque junto al río en Tai Chung Kiu Road, en Sha Tin, abierto las 24 horas y sin coste de entrada. Conviene aprovecharlo como un respiro entre los centros comerciales de Sha Tin y el carril bici del río, más que como destino principal: basta con 20-40 minutos. Los fines de semana entre las 9:00 y las 21:00 atraen a la mayoría de corredores, ciclistas y familias, así que las primeras horas de la mañana o después del anochecer resultan más tranquilas.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El centro comercial New Town Plaza está a poca distancia a pie de vuelta hacia la estación de Sha Tin, y el paseo conecta con el carril bici más amplio del río de Sha Tin para quienes quieran prolongar el recorrido.
 ---
-
-> **Cómo se ha elaborado esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

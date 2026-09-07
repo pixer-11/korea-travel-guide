@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lodhi Garden is where Delhi comes to breathe. Domed tombs older than the Mughal Empire rise straight out of manicured lawns, with no ticket booth and no velvet rope separating you from 500-year-old sandstone.

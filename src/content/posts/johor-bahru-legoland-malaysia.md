@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 LEGOLAND Malaysia is the first LEGOLAND built in Asia, and it shows in the details. Life-size brick sculptures line the walkways — dragons, orangutans, a full Kuala Lumpur skyline in Miniland built from millions of studs. It's aimed squarely at families with kids roughly 2 to 12, though the rollercoasters pull in older thrill-seekers too.

@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Most visitors to Agra spend their whole trip circling the Taj Mahal and Agra Fort, and never make it out to Sikandra. That's their loss. The Tomb of Akbar, resting place of the Mughal emperor who built the empire that made those other monuments possible, is quieter, roomier, and in some ways more architecturally curious than either.
 
 Akbar started designing his own mausoleum before he died in 1605, and his son Jahangir finished it around 1613. The result is a strange, layered pyramid of red sandstone terraces topped, unusually for Mughal tombs, with no dome at all. The open-air marble platform at the summit, ringed with delicate screens, holds a symbolic cenotaph under the sky; Akbar's actual grave lies in a plain crypt below, reached by a sloping corridor.

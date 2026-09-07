@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The road up to the Prince of Chumphon Monument climbs a headland at the southern edge of Pattaya, past scrubby hillside and the occasional stray dog dozing in the shade. You know you're close when the trees thin out and the bay opens up below you in a wide grey-blue sweep, container ships anchored offshore like toys.
 
 At the top stands a bronze statue of Prince Abhakara Kiartivongse, popularly known as the "Father of the Thai Navy." He faces the sea he spent his life charting and defending, one hand raised in salute, the plinth wrapped in marigold garlands left by visitors who still come to ask his blessing before a long voyage or a risky venture.

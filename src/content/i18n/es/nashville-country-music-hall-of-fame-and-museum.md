@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nashville-country-music-hall-of-fame-and-museum
-srcHash: 'c4caf91cedf0'
+srcHash: '0fbd9ee68d35'
 title: 'Salón de la Fama y Museo de la Música Country: Guía de viaje de Nashville'
 description: El Salón de la Fama y Museo de la Música Country se encuentra en 222 Rep. John Lewis Way S, en el centro de Nashville, abierto todos los días de 9am a 5pm. 4.6★ (20,281 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Salón de la Fama y Museo de la Música Country se encuentra en 222 Rep. John Lewis Way S, en el centro de Nashville, abierto todos los días de 9am a 5pm. Calcula entre dos y tres horas, más si añades el tour al Historic RCA Studio B. Las mañanas de fin de semana entre las 9am y las 10am son el momento más tranquilo; a partir de las 11am el vestíbulo se llena y sigue concurrido hasta media tarde.
@@ -17,8 +17,6 @@ faq:
   - q: ¿El tour de RCA Studio B está incluido en la entrada?
     a: No, es un boleto adicional que se reserva por separado en el mostrador de recepción, con traslado incluido; vale la pena reservarlo con anticipación porque los cupos son limitados.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

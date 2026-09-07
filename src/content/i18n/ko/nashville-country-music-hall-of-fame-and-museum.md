@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: nashville-country-music-hall-of-fame-and-museum
-srcHash: 'c4caf91cedf0'
+srcHash: '0fbd9ee68d35'
 title: '컨트리 뮤직 홀 오브 페임 앤 뮤지엄: 내슈빌 여행 가이드'
 description: 컨트리 뮤직 홀 오브 페임 앤 뮤지엄(Country Music Hall of Fame and Museum)은 내슈빌 도심의 222 Rep. John Lewis Way S에 위치하며, 매일 오전 9시부터 오후 5시까지 운영합니다. 4.6★(리뷰 20,281개) — 방문객 후기, 운영시간, 팁을 소개합니다.
 quickAnswer: 컨트리 뮤직 홀 오브 페임 앤 뮤지엄(Country Music Hall of Fame and Museum)은 내슈빌 도심의 222 Rep. John Lewis Way S에 위치하며, 매일 오전 9시부터 오후 5시까지 운영합니다. 관람 시간은 두세 시간 정도 잡아두면 되고, 히스토릭 RCA 스튜디오 B(Historic RCA Studio B) 투어를 추가한다면 더 여유를 두세요. 주말 오전 9시에서 10시 사이가 가장 여유로운 시간대이며, 11시가 되면 로비가 붐비기 시작해 오후 중반까지 계속 붐빕니다.
@@ -17,8 +17,6 @@ faq:
   - q: RCA 스튜디오 B 투어는 입장권에 포함되나요?
     a: 아니요, 프런트 데스크에서 별도로 예약하는 추가 티켓이며 셔틀 이용이 포함됩니다. 자리가 한정되어 있으니 미리 예약하는 것이 좋습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터가 검토하고 AI의 도움을 받아 작성했습니다. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가야 하는 이유
 

@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is Vietnam's flagship military museum, and it earns that title. Spread across a large modern campus, it traces conflict on this land from ancient dynasties through the French colonial war to the American War and beyond — told largely through the actual hardware.

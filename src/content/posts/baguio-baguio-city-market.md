@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Baguio City Market is where the mountains meet the marketplace. Sacks of highland vegetables, crates of strawberries, and bundles of sunflowers arrive fresh from Benguet farms, spilling out of covered stalls into narrow, roofed alleys that seem to fold in on themselves.

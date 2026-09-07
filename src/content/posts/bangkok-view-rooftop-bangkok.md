@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bangkok's rooftop scene is famous for its sky-high showstoppers — the ones with the vertigo-inducing glass floors and the price tags to match. View Rooftop is the other kind: a 9th-floor terrace bar at the Novotel Bangkok Platinum Pratunam that doesn't try to out-tower anyone. What it does instead is give you an honest, unpretentious slice of the Bangkok skyline — a jumble of shophouse roofs, condo towers, and the neon wash of the Pratunam wholesale-fashion district spreading out below — without the velvet-rope routine.

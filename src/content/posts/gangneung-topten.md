@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why bother with a clothing chain in Gangneung
 
 You don't come to Gangneung for retail therapy — you come for Anmok Beach sunrises and coffee. But TOPTEN earns a spot on a trendy itinerary precisely because it's unglamorous and useful.

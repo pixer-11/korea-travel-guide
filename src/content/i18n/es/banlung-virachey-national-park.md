@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: banlung-virachey-national-park
-srcHash: '1fd77d7ecb76'
+srcHash: '53afcda2424d'
 title: 'Parque Nacional de Virachey: Guía de Viaje de Banlung (4,3★)'
 description: 'Al noreste de Banlung, en la provincia de Ratanakiri, el Parque Nacional de Virachey es una de las áreas protegidas más grandes y salvajes de Camboya, con selva, llanuras herbosas y sabana de altura que se extienden hasta la frontera con Laos. 4,3★ (198 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Al noreste de Banlung, en la provincia de Ratanakiri, el Parque Nacional de Virachey es una de las áreas protegidas más grandes y salvajes de Camboya, con selva, llanuras herbosas y sabana de altura que se extienden hasta la frontera con Laos. Sigue siendo un destino realmente poco conocido, por lo que los fines de semana se mantienen tranquilos durante todo el horario de 7:00 a 21:00; la mayor afluencia, que tampoco es mucha, se da entre las 10:00 y las 15:00. Conviene reservar al menos dos días completos si se quiere caminar más allá del puesto de guardabosques, ya que este no es un parque para recorrer en coche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede caminar por libre, sin guía?
     a: En la práctica, no. Los senderos no están señalizados y la fauna es abundante, por lo que contar con guías locales, contratados en Banlung o en el puesto de guardabosques, resulta imprescindible tanto para la seguridad como para la orientación.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Qué se visita realmente
 

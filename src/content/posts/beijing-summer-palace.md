@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of the place before you understand any of its history. Past the East Palace Gate, the crowds funnel through a series of courtyards — Empress Dowager Cixi's old reception halls, all dark timber and red pillars — and then the path opens onto Kunming Lake and the whole logic of the Summer Palace suddenly clicks: hill on one side, water on the other, and 300 acres of pavilions, bridges and covered walkways stitched between them.
 
 ## Why go

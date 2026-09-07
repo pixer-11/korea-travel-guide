@@ -98,8 +98,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel Molo before you see it — the traffic noise of the Molo-Arevalo road thins out, and the street opens onto a square of pale marble and old acacia trees. At the center sits a domed rotunda, its columns and balustrades gone slightly gray with age, ringed by benches where old men read newspapers and vendors push carts of taho and boiled peanuts.
 
 Across the square rises Molo Church, officially St. Anne Parish, its coral-stone facade and twin neo-Gothic spires the color of wet sand. Locals call it the "Women's Church" because its interior columns are lined with statues of female saints, a rare arrangement in Philippine church architecture. The pairing of formal European-park geometry with this church makes Molo Plaza feel unlike any other public square in Iloilo City.

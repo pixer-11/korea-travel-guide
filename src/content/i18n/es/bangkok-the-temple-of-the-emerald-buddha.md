@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-the-temple-of-the-emerald-buddha
-srcHash: '175c79290763'
+srcHash: '25e262a829cb'
 title: 'El Templo del Buda de Esmeralda: Guía de viaje de Bangkok'
 description: 'Wat Phra Kaew, dentro del complejo del Gran Palacio en el casco antiguo de Rattanakosin Island, en Bangkok, abre todos los días de 8:30 a 3:30 de la tarde y lo mejor es visitarlo justo a la apertura. 4.7★ (43,725 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Wat Phra Kaew, dentro del complejo del Gran Palacio en el casco antiguo de Rattanakosin Island, en Bangkok, abre todos los días de 8:30am a 3:30pm y lo mejor es visitarlo justo a la apertura. Llega entre las 8:30am y las 9:30am —la franja más tranquila registrada tanto en días de semana como en fines de semana—, porque entre las 10am y el mediodía de los fines de semana se acumulan los autobuses turísticos y la cola para las entradas se extiende a lo largo de Na Phra Lan Road. Reserva entre dos y tres horas, viste con hombros y rodillas cubiertos, y ve en ferry fluvial hasta el muelle de Tha Chang en lugar de lidiar con el tráfico de Bangkok en coche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debo vestir?
     a: Hombros y rodillas completamente cubiertos, sin ropa transparente, se recomienda calzado cerrado; si es necesario, hay sarongs y prendas para cubrirse disponibles en préstamo en la entrada.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you arrive anywhere near it — four stone towers and a gilded Virgin Mary statue catching the light from almost every vantage point in Lyon, sitting on the hill of Fourvière like a crown on the city. Up close, the basilica is stranger and more theatrical than the view from below suggests: an interior crammed with mosaics in gold, blue and deep red, Byzantine-influenced arches, and a lower crypt that feels almost subterranean compared to the light-flooded nave above.

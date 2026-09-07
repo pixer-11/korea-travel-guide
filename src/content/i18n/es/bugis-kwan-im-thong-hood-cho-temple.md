@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-kwan-im-thong-hood-cho-temple
-srcHash: 'd6a7cd186a66'
+srcHash: 'ab58b59b24a5'
 title: 'Templo Kwan Im Thong Hood Cho: guía de viaje por Bugis (4,7★)'
 description: 'El templo Kwan Im Thong Hood Cho se encuentra en Waterloo Street, en Bugis, y abre todos los días de 7:00 a 18:30. 4,7★ (8.260 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Kwan Im Thong Hood Cho se encuentra en Waterloo Street, en Bugis, y abre todos los días de 7:00 a 18:30. Se trata de un templo budista chino muy visitado, así que los fines de semana entre las 10:00 y las 17:00 son cuando hay más aglomeración; si se llega entre las 7:00 y las 8:00 un fin de semana, o prácticamente cualquier día entre semana, se encuentra tranquilo. La entrada es gratuita y la estación de MRT Bugis queda a cinco minutos a pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre veinte y treinta minutos alcanzan para ver el salón principal y el patio; conviene sumar más tiempo si se quiere hacer una lectura de la fortuna con varillas o recorrer los puestos de Waterloo Street.
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## El gran atractivo de Waterloo Street
 

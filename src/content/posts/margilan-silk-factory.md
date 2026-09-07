@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Margilan, and why this factory
 
 Margilan has been a silk town for over a thousand years, sitting on the old Silk Road route through the Fergana Valley. This particular workshop, a modest complex just off Mustaqillik ko'chasi, is where that history is still a daily job rather than a museum display.

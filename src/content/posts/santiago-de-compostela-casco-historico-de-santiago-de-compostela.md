@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the old town before you see it — woodsmoke and grilling octopus drifting from doorways on Rúa do Franco, mixing with the damp mineral scent of wet granite that never quite dries out in this corner of Galicia. That smell is the first clue you're somewhere different: a city built entirely from dark, rain-polished stone, worn smooth by nine centuries of pilgrims' boots.
 
 ## Why the Casco Histórico matters

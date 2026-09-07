@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-bueng-phra-ram-park
-srcHash: '3fafbe54268e'
+srcHash: '41a8831a5276'
 title: 'Parque Bueng Phra Ram: Guía de viaje de Ayutthaya (4.4★)'
 description: Bueng Phra Ram Park es el gran lago público y espacio verde justo en el centro de la isla histórica de Ayutthaya, entre Wat Phra Ram y Wat Mahathat — de entrada gratuita, al aire libre, y ideal para recorrer a pie o hacer un picnic en la fresca mañana temprana o justo antes del atardecer. 4.4★ (2,003 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Bueng Phra Ram Park es el gran lago público y espacio verde justo en el centro de la isla histórica de Ayutthaya, entre Wat Phra Ram y Wat Mahathat — de entrada gratuita, al aire libre, y ideal para recorrer a pie o hacer un picnic en la fresca mañana temprana o justo antes del atardecer. Los fines de semana se llena de 4pm a 11pm cuando los locales llegan a hacer ejercicio y a los puestos de comida, así que conviene visitarlo a media mañana o a media tarde si quieres ver las ruinas reflejadas en aguas tranquilas sin las multitudes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Wat Phra Ram está justo junto al lago, y Wat Mahathat — hogar de la famosa cabeza de Buda envuelta en raíces de árbol — está a poca distancia caminando, por lo que es fácil combinarlos con el parque en una sola salida.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

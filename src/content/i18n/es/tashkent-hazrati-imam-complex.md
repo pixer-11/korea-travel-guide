@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-hazrati-imam-complex
-srcHash: '0bf20a2208bf'
+srcHash: 'ec31270a574e'
 title: 'Complejo Hazrati Imam: Guía de viaje de Taskent (4.7★)'
 description: 'El complejo Hazrati Imam es el corazón espiritual y arquitectónico de Taskent: alberga el Corán de Uthman y un conjunto de madrasas y mezquitas de cúpulas turquesa en el casco antiguo. 4.7★ (3.707 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El complejo Hazrati Imam es el corazón espiritual y arquitectónico de Taskent, y alberga el Corán de Uthman junto a un conjunto de madrasas y mezquitas de cúpulas turquesa en el casco antiguo. Abre todos los días de 9:00 a 21:00, la entrada al recinto es gratuita y conviene reservar entre 1,5 y 2 horas para recorrerlo con calma. Lo mejor es ir a primera hora de la mañana, cuando la luz es más suave y hay menos gente, antes de que lleguen los autobuses turísticos a mediodía.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
     a: Poco después de la apertura, a las 9:00, es cuando hay menos gente. El mediodía suele atraer a la mayoría de los grupos turísticos, así que conviene elegir la mañana o la tarde.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 El cambio se percibe antes de verlo. El ruido del tráfico de la Taskent moderna se desvanece en cuanto se entra en una amplia plaza enmarcada por cúpulas turquesa, y de pronto uno se encuentra en un lugar que parece siglos más antiguo que el resto de la ciudad.
 

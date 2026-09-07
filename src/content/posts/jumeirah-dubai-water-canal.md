@@ -113,8 +113,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The canal isn't a relic — it's a 2016 engineering project that cut a new channel from Business Bay out to the Arabian Gulf. What you get is a ribbon of turquoise water threading between glass towers and low Jumeirah villas, crossed by sculptural bridges that light up at night.

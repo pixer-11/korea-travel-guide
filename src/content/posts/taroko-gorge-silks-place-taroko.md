@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why stay inside the gorge
 
 Most visitors to Taroko day-trip from Hualien city, an hour away by car or bus. Staying at Silks Place Taroko flips that script entirely.

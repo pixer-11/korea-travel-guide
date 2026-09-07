@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seville-la-giralda
-srcHash: '8208cb3f5607'
+srcHash: 'ee70de025bb2'
 title: 吉拉尔达塔:塞维利亚旅行指南
 description: 吉拉尔达塔(La Giralda)是塞维利亚大教堂的钟楼，矗立于旧城区(Casco Antiguo)的宪法大道(Av. de la Constitución, s/n)之上。
 quickAnswer: 吉拉尔达塔是塞维利亚大教堂的钟楼，矗立于旧城区(Casco Antiguo)的宪法大道(Av. de la Constitución, s/n)之上。登塔包含在大教堂门票之内——建议在开门时段(通常上午10:30左右开放，部分日子会更早)或闭馆前最后一小时前往，以避开中午时分挤满坡道的旅行团人潮。登塔加游览预计需要45到60分钟，如果要参观整座大教堂则需要更久。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点?
     a: 皇家城堡(Real Alcázar)和印度群岛综合档案馆(Archivo de Indias)就在同一个广场对面，圣克鲁斯区(Barrio Santa Cruz)也只需步行片刻即可到达——很适合安排成半天的游览路线。
 ---
-
-> **本指南制作说明:** 编辑审核,AI辅助生成。信息来自Google Places实时数据；图片均为授权使用或公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

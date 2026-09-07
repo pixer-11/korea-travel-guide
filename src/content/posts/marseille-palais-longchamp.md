@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see the towers before you see the building. Walking up Boulevard Longchamp from the Cinq Avenues métro stop, the street narrows between plane trees, then suddenly opens onto a wide gravel plaza and there it is: two curved stone wings sweeping toward each other like open arms, water crashing down the middle in a stepped cascade, bronze bulls glinting on the parapet above. It's a strange, theatrical thing to find in the middle of a residential neighborhood, and that's exactly the point — this was built to be seen.
 
 ## Why it exists

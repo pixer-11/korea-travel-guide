@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't need a reason beyond the building itself. Finished in 1888 out of pink Texas granite, it's taller than the U.S. Capitol in Washington — a fact Texans will mention before you can.

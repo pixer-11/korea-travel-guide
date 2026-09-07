@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-galleria-dell-accademia-di-firenze
-srcHash: '7c94524a05e9'
+srcHash: 'd8c31d4e31e8'
 title: 'Galería de la Academia de Florencia: Guía de viaje de Florencia'
 description: La gran atracción de la Academia es el David de Miguel Ángel, situado al final de una larga galería flanqueada por sus estatuas inacabadas de los "Prisioneros" — la visita completa dura entre 60 y 90 minutos. 4.6★ (57,520 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La gran atracción de la Academia es el David de Miguel Ángel, situado al final de una larga galería flanqueada por sus estatuas inacabadas de los "Prisioneros" — la visita completa dura entre 60 y 90 minutos. Reserva una entrada con hora asignada por internet con antelación para evitar la temida cola sin reserva en Via Ricasoli, y si vas un fin de semana, procura ir en la franja de apertura de 8 a 9 de la mañana, ya que la afluencia aumenta progresivamente desde las 10am hasta las 6pm.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: La Piazza San Marco y el Museo di San Marco (con los frescos de Fra Angelico) están a pocos minutos a pie, y el Duomo queda a unos ocho minutos caminando por Via Ricasoli.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

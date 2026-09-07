@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-kenting-national-park
-srcHash: '73b99edd835d'
+srcHash: '8fbafd37a00b'
 title: 'Parque Nacional de Kenting: Guía de viaje (4.5★)'
 description: 'El Parque Nacional de Kenting se extiende por la punta sur de Taiwán, combinando costa de arrecifes de coral, bosque tropical y altiplanos herbosos: planea un día completo con tu propia scooter o coche para recorrer los puntos destacados. 4.5★ (21,952 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Nacional de Kenting se extiende por la punta sur de Taiwán, combinando costa de arrecifes de coral, bosque tropical y altiplanos herbosos: planea un día completo con tu propia scooter o coche para recorrer los puntos destacados. El centro de visitantes y algunos sitios de interés abren de 9am a 5pm y cierran los lunes, así que organiza tu ruta en torno a eso. Ve un día de semana por la mañana para evitar los autobuses turísticos y las multitudes en la playa que aumentan hacia el mediodía.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero extender el viaje?
     a: El propio pueblo de Kenting tiene un conocido mercado nocturno para comer por la noche, y tanto South Bay como White Sand Bay están a un corto trayecto en scooter para nadar o hacer deportes acuáticos.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

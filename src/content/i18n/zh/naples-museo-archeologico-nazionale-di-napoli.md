@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: naples-museo-archeologico-nazionale-di-napoli
-srcHash: '477d8990b835'
+srcHash: '817a19bf6d13'
 title: 那不勒斯国立考古博物馆:那不勒斯旅行指南
 description: 那不勒斯国立考古博物馆(Museo Archeologico Nazionale di Napoli,简称MANN)位于那不勒斯历史中心以北，地址为Piazza Museo 19,收藏着全世界最精美的庞贝(Pompeii)和赫库兰尼姆(Herculaneum)出土文物。4.6★(37,292条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 那不勒斯国立考古博物馆(MANN)位于那不勒斯历史中心(centro storico)以北，地址为Piazza Museo 19,收藏着全世界最精美的庞贝和赫库兰尼姆出土文物。除周二外每天开放，时间为9:00–18:30;建议预留两到三小时游览，如果周末前往，最好在9点开门时立即入场，因为10:00–18:00是人流高峰时段。可乘地铁1号线(Metro Line 1)在Cavour站或Museo站下车，两站均步行不远即可到达。
@@ -17,8 +17,6 @@ faq:
   - q: 应该在参观庞贝之前还是之后来这里?
     a: 两种顺序都可以——许多游客会将庞贝或赫库兰尼姆一日游与本博物馆搭配参观，因为这些遗址出土的最精美壁画、镶嵌画和青铜器如今都收藏于此，而非陈列在遗址现场。
 ---
-
-> **本指南制作说明:** 经编辑审核，并借助AI辅助完成。事实信息来自Google Places实时数据；图片为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-new-orleans-museum-of-art
-srcHash: '4695cd6befca'
+srcHash: '4a8579cfeaf1'
 title: 'Museo de Arte de Nueva Orleans (NOMA): Guía de viaje (4.7★)'
 description: 'El NOMA se encuentra al borde de City Park, en Mid-City, un edificio de estilo Beaux-Arts que alberga más de 40,000 obras, desde huevos Fabergé hasta biombos japoneses de la era Edo. 4.7★ (5,370 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El NOMA se encuentra al borde de City Park, en Mid-City, un edificio de estilo Beaux-Arts que alberga más de 40,000 obras, desde huevos Fabergé hasta biombos japoneses de la era Edo. Dedícale entre dos y tres horas, y luego camina directo hacia el contiguo Sydney and Besthoff Sculpture Garden. Cierra los lunes; ve un martes o jueves por la mañana para evitar las multitudes del fin de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego al NOMA sin auto?
     a: Toma el RTA Canal Streetcar hasta la terminal City Park/Museum, y luego camina unos minutos por City Park hasta la entrada del museo en 1 Collins Diboll Circle.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

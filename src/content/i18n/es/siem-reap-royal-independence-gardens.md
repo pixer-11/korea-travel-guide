@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-royal-independence-gardens
-srcHash: '143146eb3231'
+srcHash: '07e205eb6733'
 title: 'Jardines de la Independencia Real: guía de viaje de Siem Reap (4,4★)'
 description: 'Los Jardines de la Independencia Real son un parque público sobre la Ruta Nacional 6 (carretera del Aeropuerto) en Siem Reap, abierto las 24 horas y de entrada gratuita. 4,4★ (2.951 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines de la Independencia Real son un parque público sobre la Ruta Nacional 6 (carretera del Aeropuerto) en Siem Reap, abierto las 24 horas y de entrada gratuita. Conviene visitarlo temprano por la mañana, cuando el calor todavía no aprieta, o después de la puesta de sol, ya que los fines de semana se llena entre las 16:00 y las 22:00 h con vecinos que salen a caminar. Basta con reservar entre 30 y 45 minutos si vas de paso entre el aeropuerto y el centro o Angkor.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Tanto el Wat Preah Prom Rath como el paseo junto al río Siem Reap están a un corto trayecto en tuk-tuk, lo que permite armar fácilmente un itinerario combinado de medio día.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Los Jardines de la Independencia Real están justo sobre la carretera del aeropuerto, una franja verde de árboles frondosos y estanques de lirios que la mayoría de los visitantes deja atrás sin detenerse. Es un error.
 

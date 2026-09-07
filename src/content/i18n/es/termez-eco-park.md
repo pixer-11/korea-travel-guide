@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: termez-eco-park
-srcHash: '58647c45ca63'
+srcHash: '9c7c22458e78'
 title: 'Eco Park: Guía de Viaje de Termez (4.6★)'
 description: 'Eco Park es el parque urbano frondoso de Termez, con aire de paseo ribereño: carriles para bicicletas, canchas de bádminton, un pabellón junto al lago con noches de cine y una cafetería donde tomar té a la sombra. 4.6★ (1.037 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Eco Park es el parque urbano frondoso de Termez, con aire de paseo ribereño: carriles para bicicletas, canchas de bádminton, un pabellón junto al lago con noches de cine y una cafetería donde tomar té a la sombra. Abre todos los días de 6:00 a 23:00, y se disfruta mejor temprano por la mañana o después del atardecer, cuando cede el calor del desierto. Lleve o alquile una bicicleta, busque un banco junto al lago y calcule una hora o dos para la visita.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: Una hora o dos bastan para pasear, jugar un partido de bádminton o tomar un café junto al lago; conviene quedarse más tiempo si hay proyección de cine nocturna en el pabellón.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

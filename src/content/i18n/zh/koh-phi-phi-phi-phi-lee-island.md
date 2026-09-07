@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: koh-phi-phi-phi-phi-lee-island
-srcHash: 'f5966fca8173'
+srcHash: '1facdff7452c'
 title: 披披莱岛（Phi Phi Lee）旅游指南：披披岛的姊妹岛怎么玩
 description: 披披莱岛（Phi Phi Lee，又称 Ko Phi Phi Le）是披披岛（Koh Phi Phi Don）南边那座较小、无人居住的姊妹岛，玛雅湾（Maya Bay）和四面悬崖环绕的皮莱湾（Pileh Bay）泻湖都在这里。
 quickAnswer: 披披莱岛（Phi Phi Lee，又称 Ko Phi Phi Le）是披披岛（Koh Phi Phi Don）南边那座较小、无人居住的姊妹岛，以玛雅湾（Maya Bay）和四面悬崖环绕的皮莱湾（Pileh Bay）泻湖闻名。岛上没有住宿设施，游客都是从披披岛、普吉岛（Phuket）或甲米（Krabi）出发，当天往返或参加日落快艇团。由于玛雅湾如今执行严格的国家公园保护性开放时段，最好安排在清晨或专门的傍晚时段前往。
@@ -17,8 +17,6 @@ faq:
   - q: 去披披莱岛该带什么？
     a: 珊瑚友好型防晒霜、适合碎珊瑚海岸的水鞋、包船用的泰铢现金，以及如果打算在皮莱泻湖或罗萨玫湾（Loh Samah Bay）浮潜的话，一个防水袋也很有用。
 ---
-
-> **本指南制作说明：** 由编辑审核，AI辅助完成。资料来自 Google Places 实时数据，图片均为授权使用或公开版权。详见我们的[编辑政策](/about)。
 
 ## 为什么要去披披莱岛，而不只是披披岛
 

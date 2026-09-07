@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-lyon-botanical-garden
-srcHash: '3fc760d649e7'
+srcHash: '9e8fbcdf5591'
 title: 'Jardín Botánico de Lyon: Guía de Viaje (4.7★)'
 description: Dentro del Parque de la Tête d'Or, en el distrito 6 de Lyon, el Jardín Botánico es de entrada gratuita y abre de 9:00 a 18:00 todos los días (9:00 a 17:00 los domingos). Con 4.7★ (4,823 reseñas), aquí tienes lo que dicen los visitantes, los horarios y algunos consejos.
 quickAnswer: Dentro del Parque de la Tête d'Or, en el distrito 6 de Lyon, el Jardín Botánico es de entrada gratuita y abre de 9:00 a 18:00 todos los días (9:00 a 17:00 los domingos). Para encontrar los invernaderos casi vacíos, conviene ir un día de semana entre las 9:00 y las 10:00, ya que los fines de semana el lugar se llena a partir de la 1 de la tarde. Para recorrer bien tanto los invernaderos como los parterres al aire libre, hay que reservar entre 90 minutos y dos horas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega en transporte público?
     a: Toma el tranvía T1 hasta una parada cercana a las puertas principales del parque, o alguna de las líneas de autobús que circulan por el Boulevard des Belges, en el extremo occidental del parque. Son unos 15 a 20 minutos desde el centro de Lyon.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

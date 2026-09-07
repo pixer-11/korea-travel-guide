@@ -101,8 +101,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why My Son matters
 
 Long before Hoi An's lanterns or Da Nang's beaches drew a single tourist, this valley was the religious heart of the Champa kingdom. My Son served as a spiritual capital for nearly a thousand years, from the 4th century into the 14th. What's left is a cluster of brick towers, sunk into a jungle bowl ringed by mountains, carved with dancers, deities and serpents that have survived monsoons, moss and a war.

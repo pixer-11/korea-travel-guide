@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually looking at
 
 Jal Mahal sits stranded in Man Sagar Lake, five storeys of pinkish-red sandstone and marble trim, with four floors submerged beneath the waterline and only the top floor and its domed chhatris riding above the surface. It was built and rebuilt across the 18th century, most credit going to Maharaja Madho Singh I, originally as a duck-hunting lodge and pleasure retreat for the royal family.

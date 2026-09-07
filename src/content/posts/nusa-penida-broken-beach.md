@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Broken Beach earns its name honestly. A ring of limestone cliffs encloses a pool of impossibly turquoise water, and the sea has carved a natural arch through one wall so waves surge in and out like the island is breathing.

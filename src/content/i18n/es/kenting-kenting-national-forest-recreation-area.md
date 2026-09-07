@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-kenting-national-forest-recreation-area
-srcHash: '65e242d0a585'
+srcHash: 'c77e4f4aed36'
 title: 'Área Recreativa del Bosque Nacional de Kenting: Guía de Viaje (4,7★)'
 description: 'El Área Recreativa del Bosque Nacional de Kenting es un parque de piedra caliza y selva a las puertas de Kenting Village, abierto todos los días de 8:00 a 17:00, que se recorre mejor en 2-3 horas por sus pasarelas elevadas entre cuevas de roca coralina y túneles de raíces de baniano. 4,7★ (2.209 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Área Recreativa del Bosque Nacional de Kenting es un parque de piedra caliza y selva a las puertas de Kenting Village, abierto todos los días de 8:00 a 17:00, que se recorre mejor en 2-3 horas por sus pasarelas elevadas entre cuevas de roca coralina y túneles de raíces de baniano. Conviene ir un día entre semana, o antes de las 9:00 los fines de semana, para evitar la afluencia de autobuses turísticos que se concentra entre las 10:00 y las 16:00. Use calzado con buen agarre, ya que el terreno kárstico resulta resbaladizo e irregular incluso en los senderos señalizados.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es apto para niños pequeños o cochecitos?
     a: La mayor parte del circuito es transitable para niños, pero algunos pasajes de las cuevas y escalones de piedra tienen poca altura y superficies irregulares, lo que hace poco práctico el uso de cochecitos en ciertos tramos.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

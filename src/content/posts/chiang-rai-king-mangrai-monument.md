@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You won't find crowds of camera-toting tourists here — you'll find locals. Motorbikes pull up, riders duck out for thirty seconds, press their palms together in front of the statue, and pull back into traffic. That rhythm, repeated all day, tells you more about King Mangrai's place in this city than any plaque could. He founded Chiang Rai in 1262 as the capital of the Mangrai dynasty before going on to found Chiang Mai three decades later, and the bronze figure raised in his honor still functions less as a tourist attraction than as a working shrine at the heart of civic life.

@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the closest thing Singapore has to untouched jungle. Bukit Timah protects one of the last patches of primary rainforest on the island, and the humidity hits you the moment you step off the road onto the trail.

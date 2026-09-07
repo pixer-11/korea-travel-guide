@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: vigan-plaza-padre-jose-burgos
-srcHash: '21fe62612457'
+srcHash: '00ac6f8ca65b'
 title: 'Plaza Padre José Burgos: Guía de Viaje de Vigan (4.4★)'
 description: 'La Plaza Padre José Burgos es la plaza central de Vigan, presidida por un monumento al sacerdote ejecutado y rodeada de puestos de comida que cobran vida al caer la noche. 4.4★ (2.092 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Plaza Padre José Burgos es la plaza central de Vigan, presidida por un monumento al sacerdote ejecutado y rodeada de puestos de comida que cobran vida al caer la noche. Está abierta las 24 horas y la entrada es gratuita; conviene ir entre las 7 y las 8 de la mañana para disfrutarla vacía, o bien aceptar la afluencia nocturna (más intensa de 16:00 a 22:00 los fines de semana) como parte del espectáculo. Basta con 20 o 30 minutos si vas solo, más si te quedas a comer.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se puede comer en la plaza?
     a: Busca la empanada al estilo ilocano, el okoy (buñuelos de camarón) y el halo-halo en los puestos de comida que rodean la plaza.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes de ver la plaza, ya se percibe su aroma: carne a la parrilla, arroz con ajo, algo dulce caramelizándose en un palito. La Plaza Padre José Burgos se encuentra en pleno corazón de Vigan, un espacio de senderos de piedra y áreas verdes cuya personalidad cambia por completo entre el día y la noche.
 

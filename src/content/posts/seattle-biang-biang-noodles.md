@@ -66,8 +66,6 @@ heroImage:
     y: 25
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the chili oil before you see the door. On E Pike St in Capitol Hill, Biang Biang Noodles sits behind a wide storefront window, steam fogging the glass even in summer.
 
 ## Why go

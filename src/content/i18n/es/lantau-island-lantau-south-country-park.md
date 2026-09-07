@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lantau-island-lantau-south-country-park
-srcHash: '80ac285caea3'
+srcHash: '9fa271c33393'
 title: 'Lantau South Country Park: Guía de viaje de la isla de Lantau (4,3★)'
 description: 'Lantau South Country Park ocupa la columna montañosa que recorre el sur de la isla de Lantau, desde Mui Wo hasta Pui O, Shek Pik y Fan Lau, y permanece abierto las 24 horas sin coste de entrada. 4,3★ (1.400 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Lantau South Country Park ocupa la columna montañosa que recorre el sur de la isla de Lantau, desde Mui Wo hasta Pui O, Shek Pik y Fan Lau, y permanece abierto las 24 horas sin coste de entrada. Es conocido sobre todo por algunos tramos del Lantau Trail y por sus vistas sobre el mar de China Meridional; los fines de semana entre las 9:00 y las 16:00 son cuando se concentra más gente, así que empezar temprano o más tarde por la jornada permite disfrutar de una caminata más tranquila. Conviene reservar entre medio día y una jornada completa, según el tramo que se elija.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene llevar?
     a: Calzado de montaña resistente, agua en abundancia, protección solar y el teléfono con la batería cargada. Una vez dejadas atrás las aldeas, la sombra y los puntos para rellenar agua escasean.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La mayoría de los visitantes llega a Lantau pensando en el teleférico y en el Gran Buda, y solo entonces descubre que el sur de la isla es harina de otro costal: un muro de crestas verdes que caen directamente hacia el mar, surcado por senderos que apenas han cambiado en décadas. Lantau South Country Park es precisamente esa cresta, y más que un lugar concreto es una larga columna vertebral salvaje que conecta varios de los puntos de partida más conocidos de la isla.
 

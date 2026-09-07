@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yokohama-yokohama-mazu-miao
-srcHash: '41fffc31aa3d'
+srcHash: '4aeb41076240'
 title: 'Yokohama Mazu Miao: Guía de Viaje (4.2★)'
 description: Yokohama Mazu Miao es un templo chino pequeño pero ricamente decorado, escondido en una calle secundaria del barrio chino de Yokohama (Chinatown), dedicado a Mazu, la diosa taoísta del mar que protege a marineros y viajeros. 4.2★ (1,067 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Yokohama Mazu Miao es un templo chino pequeño pero ricamente decorado, escondido en una calle secundaria del barrio chino de Yokohama (Chinatown), dedicado a Mazu, la diosa taoísta del mar que protege a marineros y viajeros. Es gratis entrar al patio y asomarse al interior, toma entre 20 y 30 minutos apreciarlo con calma, y es más tranquilo por la mañana — los fines de semana se llena entre el mediodía y las 5pm, así que conviene ir más temprano. Combina bien con un paseo por los puestos de comida de Chinatown y por el cercano Yamashita Park.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitarlo durante el Año Nuevo Lunar?
     a: Sí, si no te importan las multitudes — las celebraciones del Año Nuevo Lunar en Yokohama Chinatown (normalmente a finales de enero o en febrero) traen danzas del león y tambores justo alrededor del templo, aunque es el momento de mayor afluencia para verlo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Hueles el incienso antes de ver la puerta. En algún punto entre los puestos de bollos al vapor y las tiendas de souvenirs que venden pandas de plástico, la calle se estrecha y los colores cambian — los rojos se vuelven más intensos, los dorados más brillantes — y de repente te encuentras bajo un imponente arco ceremonial tallado con dragones, fénix y leones dorados que parecen haber sido sacados directamente de un patio de templo en Fujian y trasplantados al centro de Yokohama.
 

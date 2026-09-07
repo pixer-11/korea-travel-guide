@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for craftsmanship, not just worship. Dalongdong Baoan Temple, completed in 1831, is one of Taiwan's finest surviving examples of southern Fujian temple architecture, and UNESCO recognized its restoration with an Asia-Pacific Heritage Award in 2003.

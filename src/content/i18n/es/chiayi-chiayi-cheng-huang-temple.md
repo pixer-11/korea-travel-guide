@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiayi-chiayi-cheng-huang-temple
-srcHash: 'cb57edb63d55'
+srcHash: '262baee867a4'
 title: 'Templo Cheng Huang de Chiayi: guía de viaje (4,7★)'
 description: 'El Templo Cheng Huang de Chiayi, santuario histórico reconocido a nivel nacional en Wufeng North Road, en el distrito East de la ciudad de Chiayi, abre todos los días de 7:00 a 21:00 y la entrada es gratuita. 4,7★ (2.817 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo Cheng Huang de Chiayi es un santuario histórico reconocido a nivel nacional, ubicado en Wufeng North Road, en el distrito East de la ciudad de Chiayi. Abre todos los días de 7:00 a 21:00 y la entrada es gratuita. El momento más tranquilo para visitarlo son las mañanas entre semana, de 7:00 a 9:00, mientras que los fines de semana se mantiene concurrido de 9:00 a 17:00. Conviene reservar entre 30 y 45 minutos, más si se quiere apreciar con calma las tallas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega al templo desde la estación de tren de Chiayi?
     a: Está a unos 15-20 minutos a pie de la estación, o a un corto trayecto en taxi, y se puede combinar fácilmente con el Templo de Confucio de Chiayi y el cercano Poblado Hinoki (Hinoki Village).
 ---
-
-> **Cómo se hizo esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El Templo Cheng Huang se encuentra a mitad de cuadra en Wufeng North Road. Sus vigas ennegrecidas por el humo del incienso y sus techos de líneas superpuestas lo hacen fácil de distinguir incluso entre las densas calles de casas-tienda de Chiayi. Se trata de un templo dedicado al Dios de la Ciudad (City God), uno de los más importantes de Taiwán desde el punto de vista arquitectónico, y basta con ver la madera oscurecida por el hollín para saber cuánto tiempo lleva ardiendo el incienso allí.
 

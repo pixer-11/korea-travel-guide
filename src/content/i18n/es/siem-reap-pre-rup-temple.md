@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-pre-rup-temple
-srcHash: '250aca8518e5'
+srcHash: '1b0a9236b4b1'
 title: 'Templo de Pre Rup: Guía de Viaje de Siem Reap (4.7★)'
 description: 'El templo de Pre Rup se encuentra en el Parque Arqueológico de Angkor, al este de Angkor Thom, abierto todos los días de 6:00 a 19:00, y es uno de los mejores miradores para ver el atardecer de todo el complejo. 4.7★ (3.041 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Pre Rup se encuentra en el Parque Arqueológico de Angkor, al este de Angkor Thom, abierto todos los días de 6:00 a 19:00, y es uno de los mejores miradores para ver el atardecer de todo el complejo. Calcule entre 45 y 60 minutos de visita, use calzado con el que pueda subir escalones empinados de laterita y llegue antes de las 4:30 p.m. si quiere un lugar en la terraza superior antes de que se llene de gente. Está incluido en el Angkor Pass estándar, sin necesidad de entrada aparte.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitar Pre Rup si ya vi Angkor Wat?
     a: 'Sí: su diseño de templo-montaña en ladrillo y arenisca, junto con la vista panorámica desde la terraza superior, se siente muy distinto del esquema de foso y galerías de Angkor Wat, sobre todo al atardecer.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Pre Rup merece su reputación
 

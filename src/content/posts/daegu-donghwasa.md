@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Donghwasa is worth the trip
 
 Donghwasa sits tucked into the pine-covered folds of Palgongsan, Daegu's mountain backdrop, and the drive up already feels like a decompression chamber from the city below. Founded in the 5th century and rebuilt many times since, it's one of the oldest continuously active temples in the region. What you notice first is the scale — this isn't a single hall but a sprawling complex of courtyards, gates, and shrines climbing the hillside.

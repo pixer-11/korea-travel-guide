@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The moment you step off the train at Sunny Bay and transfer onto the Disneyland Resort Line, you already know you've left ordinary Hong Kong behind. The carriage windows are shaped like Mickey's ears, the handrails are gold-topped with the same silhouette, and the whole two-minute ride feels like a warm-up act before the curtain rises. When the train pulls into Disneyland Resort Station, the building itself — all copper domes and manicured topiary — sets the tone for what's ahead.
 
 Hong Kong Disneyland is compact by Disney-park standards, which is actually its charm. Seven themed lands radiate out from a central hub anchored by the pink-and-gold turrets of the Castle of Magical Dreams, and you can walk the whole loop in twenty minutes if you're not stopping. But you will be stopping — for the drop and spin of Big Grizzly Mountain Runaway Mine Cars in Grizzly Gulch, for the eerie corridors of Mystic Manor in Mystic Point, and for the sheer sensory overload of Ant-Man and The Wasp: Nano Battle in the newer Marvel-themed zone.

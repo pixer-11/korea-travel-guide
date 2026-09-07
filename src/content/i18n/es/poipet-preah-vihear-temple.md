@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: poipet-preah-vihear-temple
-srcHash: 'b0b472a9e842'
+srcHash: 'e32792a90fdd'
 title: 'Templo de Preah Vihear: Guía de Viaje desde Poipet (4.6★)'
 description: 'El templo de Preah Vihear se alza sobre un acantilado en las montañas Dangrek, a más o menos un día entero de viaje desde Poipet, en el noroeste de Camboya, y abre todos los días de 8:30 a 16:30. 4.6★ (1.658 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El templo de Preah Vihear se alza sobre un acantilado en las montañas Dangrek, a más o menos un día entero de viaje desde Poipet, en el noroeste de Camboya, y abre todos los días de 8:30 a 16:30. No es una parada rápida: conviene reservar un día completo o pasar la noche cerca de la base de la montaña para que el trayecto merezca la pena. Lo ideal es ir en temporada seca (de noviembre a abril), cuando el camino de acceso a la montaña está transitable y las vistas sobre la llanura camboyana no quedan ocultas por la bruma del monzón.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor época para visitarlo?
     a: La temporada seca, de noviembre a abril, ofrece las vistas más despejadas y un camino de acceso transitable. En temporada de lluvias el camino de montaña puede volverse complicado y, además, suele haber neblina que oculta las vistas desde el acantilado.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Preah Vihear no está cerca de nada. Y esa es precisamente la gracia del lugar. Este templo hinduista del siglo XI, dedicado a Shiva, se construyó a lo largo de una cresta natural de las montañas Dangrek, justo en la frontera con Tailandia, y todo el complejo asciende casi 800 metros por el escarpado hasta culminar en un santuario que se asoma, en vertical, sobre las tierras bajas de Camboya.
 

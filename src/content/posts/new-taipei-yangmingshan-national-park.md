@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yangmingshan is the closest thing Taipei has to a volcano in its backyard — literally. The park sits atop Taiwan's largest dormant volcanic group, and you feel it the moment you step off the bus: the air smells faintly of rotten eggs near the vents, the ground steams in patches, and the hillsides are stained yellow-white with sulfur deposits. It's a strange, slightly otherworldly landscape only 40 minutes from the skyscrapers of Xinyi District, and that contrast — dense city one moment, hissing fumaroles the next — is the whole draw.

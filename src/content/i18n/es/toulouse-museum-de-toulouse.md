@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toulouse-museum-de-toulouse
-srcHash: 'ec1b533b49aa'
+srcHash: '62f56c1cfddf'
 title: 'Muséum de Toulouse: guía de viaje (4,5★)'
 description: 'El Muséum de Toulouse da para toda una mañana o una tarde: un museo de historia natural del siglo XIX con una sala principal repleta de taxidermia, huesos de dinosaurio y un jardín botánico (Jardin des Plantes) justo al lado. 4,5★ (5.032 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Muséum de Toulouse da para toda una mañana o una tarde: un museo de historia natural del siglo XIX con una sala principal repleta de taxidermia, huesos de dinosaurio y un jardín botánico (Jardin des Plantes) justo al lado. Abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Los fines de semana hay mucha afluencia durante todo el día, así que si quieres tener las salas para ti solo, llega justo a la apertura.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿El jardín botánico está incluido en la entrada del museo?
     a: No, el Jardin des Plantes, detrás del museo, es un parque público de entrada gratuita, independiente de las salas de pago del museo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

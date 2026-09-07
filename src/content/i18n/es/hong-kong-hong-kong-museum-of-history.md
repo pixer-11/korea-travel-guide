@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-museum-of-history
-srcHash: '07c145185616'
+srcHash: 'a130d72be561'
 title: 'Museo de Historia de Hong Kong: Guía de viaje (4,3★)'
 description: 'El Museo de Historia de Hong Kong, en Tsim Sha Tsui, es la mejor introducción de la ciudad a cómo un pueblo de pescadores se convirtió en una metrópolis global, con "The Hong Kong Story" como exposición central. 4,3★ (9.133 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia de Hong Kong, en Tsim Sha Tsui, es la mejor introducción de la ciudad a cómo un pueblo de pescadores se convirtió en una metrópolis global, con la exposición recorrible "The Hong Kong Story" como eje central. Abre de 10:00 a 18:00 la mayoría de los días (hasta las 19:00 sábados y domingos) y cierra los martes. Las tardes de fin de semana, de 12:00 a 18:00, son cuando hay más gente, así que lo ideal es visitarlo por la mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Museo de Ciencias de Hong Kong (Hong Kong Science Museum) está en la misma manzana, y tanto el Kowloon Park como el muelle del Star Ferry quedan a menos de 15 minutos a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

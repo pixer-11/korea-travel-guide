@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Zhejiang Art Museum not for a single blockbuster masterpiece but for the quiet pleasure of stepping out of the West Lake crowds into cool, high-ceilinged galleries showing contemporary Chinese ink painting, calligraphy, printmaking and photography. Zhejiang has one of China's deepest traditions of ink art — this is the province that produced generations of literati painters — and the museum's rotating exhibitions are how that tradition keeps talking to the present.

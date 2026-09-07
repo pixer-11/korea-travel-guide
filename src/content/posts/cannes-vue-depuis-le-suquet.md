@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this view, and not another one
 
 Cannes has plenty of postcard angles, but almost all of them are taken from sea level, looking flat along the beach. The view from Le Suquet is different because it's looking *down* on the city — from the highest point of the old town, past the crenellated tower of the Musée de La Castre, over terracotta rooftops, past the domes of the Palais des Festivals, out across the bay to the Îles de Lérins.

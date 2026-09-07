@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Most people who come to Sirinat National Park are chasing one specific photo: a jetliner passing so low over the sand at Mai Khao Beach that you can read the airline's name on the fuselage. That's a real thing here, and it happens because the northern tip of the park sits directly under the final approach path into Phuket International Airport.
 
 But the park itself is bigger and quieter than that one viral shot suggests, a protected strip of coast covering roughly 90 square kilometres of beach, casuarina trees, mangrove forest and shallow reef running along Phuket's northwest coast.

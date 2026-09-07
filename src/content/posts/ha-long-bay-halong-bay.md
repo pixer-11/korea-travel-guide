@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually looking at
 
 Ha Long Bay is nearly 2,000 limestone karsts and islets rising straight out of jade-green water, formed over 500 million years of erosion. UNESCO listed it as a World Heritage Site for exactly this geology. Most karsts are uninhabited, cloaked in scrub, and riddled with caves like Sung Sot (Surprise Cave) and Thien Cung.

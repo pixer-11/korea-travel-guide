@@ -68,8 +68,6 @@ faq:
     a: The National Garden and Suncheon Bay Wetland Reserve are adjacent but distinct areas connected by a path, shuttle cart, and cable car — check current combined-ticket options at the entrance before deciding how much time to allot.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of this place before you understand it. From the main gate, the path fans out into a patchwork of national pavilions — a Dutch garden with wooden clogs and tulip beds, a French formal parterre, a US-style prairie planting, a Japanese garden with raked gravel — each one a small, self-contained world planted right next to its neighbor.
 
 It sounds like it could be kitsch. Walking through it, at ground level, with the hedges trimmed into tight geometric lines and the color-blocked flower beds changing with the season, it mostly isn't. This is a genuinely large-scale piece of landscape design, built for the 2013 Suncheon International Garden Expo and kept running ever since as South Korea's first National Garden.

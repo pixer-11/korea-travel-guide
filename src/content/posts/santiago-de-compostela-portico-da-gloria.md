@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Pórtico da Gloria matters
 
 Before you even reach the cathedral's main altar, you pass through its real masterpiece. The Pórtico da Gloria is the original west entrance, carved between 1168 and 1188 by Master Mateo and his workshop.

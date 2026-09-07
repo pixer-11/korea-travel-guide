@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this garden, not just any garden
 
 You come around a bend in the path and the city noise just stops. That's the effect Portland Japanese Garden is built for — 5.5 acres tucked into the forested hillside of Washington Park, designed to feel like a world sealed off from Portland entirely.

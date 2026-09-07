@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: provence-abbaye-notre-dame-de-senanque
-srcHash: 'f965c7fd87ef'
+srcHash: '6d2b119706b2'
 title: 'Abadía de Notre-Dame de Sénanque: guía de viaje de la Provenza'
 description: La abadía de Sénanque, un monasterio cisterciense en activo cerca de Gordes, se disfruta mejor justo al abrir —entre semana de 9:30 a 10h o los domingos de 10 a 11h—, antes de que lleguen los autocares turísticos; conviene evitar el tramo de mediodía a 18h los fines de semana, cuando el aparcamiento junto a los campos de lavanda y la carretera del mirador se colapsan.
 quickAnswer: La abadía de Sénanque, un monasterio cisterciense en activo cerca de Gordes, se disfruta mejor justo al abrir —entre semana de 9:30 a 10h o los domingos de 10 a 11h—, antes de que lleguen los autocares turísticos; conviene evitar el tramo de mediodía a 18h los fines de semana, cuando el aparcamiento junto a los campos de lavanda y la carretera del mirador se colapsan. La lavanda florece de mediados de junio a principios de agosto, pero la abadía de piedra dorada y sus claustros merecen la visita durante todo el año. Calcula entre 45 minutos y una hora, más el tiempo para el corto paseo hasta el mirador sobre el valle.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Entre 45 minutos y una hora para la visita guiada y el claustro, más un rato extra para subir al mirador sobre el valle y curiosear en la pequeña tienda donde venden miel y productos de lavanda elaborados por los monjes.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

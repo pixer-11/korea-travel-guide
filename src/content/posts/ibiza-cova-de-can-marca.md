@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You reach Cova de Can Marçà by driving down through the pine-covered hills above Port de Sant Miquel, on Ibiza's north coast, until the road dead-ends near the bay. From the car park, a path cut into the cliff face leads to the cave mouth — already you feel the temperature drop and hear water dripping somewhere below. This isn't a natural show cave in the polished, artificial sense; it's a genuine former smugglers' hideout, and that history is stitched into everything you walk past.
 
 ## Why it's worth the detour

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-bukhara-tower
-srcHash: 'e33f390bea0a'
+srcHash: 'e18e45cf0199'
 title: 'Torre de Bujará: Guía de Viaje (4,1★)'
 description: 'La Torre de Bujará es una moderna torre mirador y depósito de agua situada en el límite del casco antiguo, abierta todos los días de 8:00 a 22:00, y es la forma más sencilla de contemplar desde las alturas el perfil de adobe de Bujará y el horizonte desértico. 4,1★ (206 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Torre de Bujará es una moderna torre mirador y depósito de agua situada en el límite del casco antiguo, abierta todos los días de 8:00 a 22:00, y es la forma más sencilla de contemplar desde las alturas el perfil de adobe de Bujará y el horizonte desértico. Conviene ir temprano: los fines de semana, el tramo más tranquilo es de 8:00 a 11:00, antes de que se llene entre las 9:00 y las 17:00. Calcule entre 45 y 60 minutos, incluyendo la subida y un paseo tranquilo por la plataforma.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se puede ver desde arriba?
     a: Vistas panorámicas del casco antiguo de Bujará, con el Minarete Kalián, la Fortaleza Ark y el horizonte desértico más allá de los tejados.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

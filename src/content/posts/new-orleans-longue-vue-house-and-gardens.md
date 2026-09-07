@@ -62,8 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You turn off a residential street near City Park and the city noise just stops. Live oaks lean over the drive, clipped hedges line up in tidy rows, and there's no line, no ticket-scanning crowd — just a gravel path and the sound of a fountain somewhere ahead.
 
 ## Why go

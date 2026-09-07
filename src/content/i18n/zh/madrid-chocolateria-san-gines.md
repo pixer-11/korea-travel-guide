@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-chocolateria-san-gines
-srcHash: '203cc9de75ab'
+srcHash: 'e61055dba38a'
 title: 圣吉内斯巧克力店（Chocolatería San Ginés）：马德里美食推荐（4.3★）
 description: 圣吉内斯巧克力店（Chocolatería San Ginés）藏身于太阳门（Puerta del Sol）附近梅奥尔大街（Calle Mayor）旁的一条窄巷内，全年无休、每天24小时供应浓稠热巧克力和现炸churros。4.3★（72,330条评价）——看看游客怎么说，营业时间与实用贴士。
 quickAnswer: 圣吉内斯巧克力店（Chocolatería San Ginés）藏身于太阳门（Puerta del Sol）附近梅奥尔大街（Calle Mayor）旁的一条窄巷内，全年无休、每天24小时供应浓稠热巧克力和现炸churros。它是马德里市中心游客最多的美食地标之一，所以最好选在工作日上午中段，或是午夜过后很久再去，以避开人流最密集的时段。品尝一份churros配一杯浓稠到几乎能立住勺子的热巧克力，通常会花上20-30分钟。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想把它排进更长的行程，附近还有什么值得一去？
     a: 马约尔广场（Plaza Mayor）、太阳门（Puerta del Sol）以及皇家剧院（Teatro Real）／歌剧院（Ópera）一带都在步行5-10分钟范围内，很适合作为Centro区观光路线中的一站顺路加入。
 ---
-
-> **本指南制作方式：** 编辑审校，AI辅助生成。信息来自谷歌地图（Google Places）实时数据，图片均为授权使用或公共版权。详见我们的[编辑政策](/about)。
 
 还没看到店，先闻到味——热油和焦糖的香气从一条玻璃顶的窄巷里飘出来，许多人可能会直接与它擦肩而过。圣吉内斯巷（Pasadizo de San Ginés）窄得几乎只能容两人并肩通过，夹在梅奥尔大街（Calle Mayor）和阿雷纳尔大街（Calle del Arenal）之间，巷子尽头便是这家自1894年起就在炸churros的巧克力店。铺着瓷砖的地面、大理石桌面、柜台上的黄铜栏杆——这一切都没有为了拍照打卡而刻意翻新，也完全不需要。
 

@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Safdarjung Tomb is the last great Mughal garden-tomb built in Delhi, raised in the 1750s for Safdarjung, the powerful viceroy of Awadh. It's smaller and far less crowded than Humayun's Tomb, but the bones of the same architectural idea are here: a charbagh garden split into four quarters, water channels, and a domed mausoleum on a raised platform.

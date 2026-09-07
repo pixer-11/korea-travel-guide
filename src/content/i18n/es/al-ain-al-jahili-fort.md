@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-ain-al-jahili-fort
-srcHash: '04fb59b0c546'
+srcHash: 'd066045af40d'
 title: 'Fuerte Al Jahili: Guía de viaje de Al Ain (4,5★)'
 description: 'El Fuerte Al Jahili abre a diario de 9:00 a 19:00, y el mejor momento para visitarlo es poco después de la apertura o en la última hora antes del atardecer, cuando la luz tiñe de dorado los muros de adobe. 4,5★ (2.657 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Fuerte Al Jahili abre a diario de 9:00 a 19:00, y el mejor momento para visitarlo es poco después de la apertura o en la última hora antes del atardecer, cuando la luz tiñe de dorado los muros de adobe. Reserva entre 45 y 60 minutos: tiempo suficiente para recorrer las murallas, ver la exposición fotográfica de Wilfred Thesiger y sentarte un rato en el patio ajardinado. La entrada ha sido gratuita históricamente, pero conviene confirmar los horarios y posibles tarifas actuales antes de ir.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero dedicarle el día completo?
     a: El Oasis de Al Ain, el Museo Nacional de Al Ain y el Parque Al Jahili están todos a poca distancia a pie o en coche, lo que facilita combinar varios lugares en una sola salida.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

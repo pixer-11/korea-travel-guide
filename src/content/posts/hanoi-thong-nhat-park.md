@@ -96,8 +96,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here to watch Hanoi breathe. Thong Nhat Park is the city's lungs — a sprawling green buffer of lakes, shade trees, and gravel paths where the roar of motorbikes fades within a few steps of the gate.

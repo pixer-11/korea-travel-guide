@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the sandstone gatehouse and the tomb just sits there, framed by a long reflecting pool, symmetrical and enormous, its white marble dome catching the light differently depending on the hour. Built in 1572 for the Mughal emperor Humayun, this is the structure that architectural historians point to as the direct template for the Taj Mahal — the double dome, the charbagh garden split into quadrants by water channels, the raised platform you climb before the building reveals its full scale.

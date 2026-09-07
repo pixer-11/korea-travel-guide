@@ -85,8 +85,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The gate itself tells you what kind of park this is: tall, deliberately grand, flanked by tropical planting that makes the downtown traffic on J. Palma Gil Street feel like it belongs to another city entirely. Step through and the noise drops away almost immediately, replaced by the click of cicadas and the splash coming from the central fountain area.
 
 This is Davao City's answer to a proper civic park — built in the mid-2000s on the site of a former plaza, and now one of the most visited public spaces in Mindanao.

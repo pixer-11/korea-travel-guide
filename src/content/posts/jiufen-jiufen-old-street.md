@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The alley announces itself before you see it: a funnel of red lanterns strung so tightly overhead that daylight comes through in patches, and underneath, a slow-moving river of people shuffling past stalls selling taro balls, fish ball soup, and grilled squid on sticks. This is Jishan Street, the spine of Jiufen Old Street, and it's steep — stone steps worn smooth by decades of feet, narrow enough that two people with umbrellas have to turn sideways to pass.
 
 Jiufen climbs the side of a mountain in New Taipei City's Ruifang District, and that vertical geography is the whole point. Old teahouses stack on wooden stilts above the slope, their windows framing a view that drops to the East China Sea. On a clear afternoon you can see the coastline curve away toward Keelung; on a misty one, the whole town disappears into cloud and the lanterns become the only source of color, which is the scene most people picture when they think of Jiufen (and the reason it's constantly, if inaccurately, linked to Spirited Away).

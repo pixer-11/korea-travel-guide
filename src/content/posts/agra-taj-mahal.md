@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First sight of the dome
 
 You enter through one of three gates: East, West, or South, all funneling into the red sandstone Great Gate, the Darwaza-i-Rauza. Through its arch, the white marble dome appears framed like a photograph. Built in the 17th century by Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal, the complex took roughly two decades to complete.

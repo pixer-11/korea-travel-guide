@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's worth the short detour
 
 You'll spot it before you reach it: a squat, white-painted wooden tower barely taller than the shophouses around it. This is Sabah's oldest surviving structure, built in 1905, and it looks almost modest next to the mirrored high-rises of modern KK.

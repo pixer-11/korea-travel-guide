@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya
-srcHash: 'e586d020a2e3'
+srcHash: 'a014a8526881'
 title: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya）：孟买旅行指南
 description: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya，原威尔士亲王博物馆）坐落在堡区（Fort）一栋带穹顶的印度-撒拉逊风格建筑内，距贾特拉帕蒂·希瓦吉终点站（Chhatrapati Shivaji Terminus）步行约10分钟。
 quickAnswer: 贾特拉帕蒂·希瓦吉·马哈拉吉博物馆（Chhatrapati Shivaji Maharaj Vastu Sangrahalaya，原威尔士亲王博物馆）坐落在堡区（Fort）一栋带穹顶的印度-撒拉逊风格建筑内，距贾特拉帕蒂·希瓦吉终点站（Chhatrapati Shivaji Terminus）步行约10分钟。参观雕塑、装饰艺术和自然历史展厅大约需要1.5至2.5小时；建议选在工作日上午前往，以避开旅游团人潮，因为这里是孟买参观人数最多的博物馆之一，并非什么冷门去处。出发前请务必确认最新的门票价格和开放时间，因为两者都会不定期调整。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点？
     a: 印度门（Gateway of India）、科拉巴堤岸大道（Colaba Causeway）以及卡拉戈达（Kala Ghoda）艺术区都在步行可达范围内，使这座博物馆成为南孟买半日文化徒步游的绝佳起点。
 ---
-
-> **本指南制作说明：** 由编辑审核、AI辅助完成。相关信息来自谷歌地图（Google Places）实时数据；图片均获得授权或来自公共版权领域。详见我们的[编辑政策](/about)。
 
 还没走到博物馆，你就已经能看见它了——蜜色的穹顶从棕榈树和堡区（Fort）那被季风雨水浸染的石墙之间高高升起，看起来更像是一座土邦王公的宫殿，而不是存放陶片和细密画的地方。这其实是刻意为之的效果。这栋建筑建于20世纪初，采用印度-撒拉逊风格，将莫卧儿式拱门、拉杰普特式塔楼与英式市政建筑的恢弘气派糅合在一起，形成了一座自信、甚至略显张扬的建筑。
 

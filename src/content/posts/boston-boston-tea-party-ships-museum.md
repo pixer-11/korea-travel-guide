@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell the museum before you fully see it — salt air off the Fort Point Channel, a whiff of tea leaves, and the low creak of ship timbers straining against their moorings. The Boston Tea Party Ships & Museum isn't a static hall of glass cases; it's a floating reenactment built around two full-scale reproductions of 18th-century merchant brigs, the *Eleanor* and the *Beaver*, tied up exactly where their historical counterparts once sat loaded with British East India Company tea.

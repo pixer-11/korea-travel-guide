@@ -76,8 +76,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The first thing you notice past the entrance is the canopy. Rain trees and tropical hardwoods arch over the main road through the park, dropping the temperature a few degrees and scattering light across the tarmac in moving patches.
 
 Melaka Botanical Garden sits in Ayer Keroh, a leafy pocket a short drive from central Malacca's UNESCO old town. It's less a manicured botanical showcase than a genuine forest reserve threaded with paths, streams and open lawns, which is exactly why locals treat it as a working park rather than a tourist stop.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: komodo-komodo-national-park
-srcHash: '6ac8e4becd35'
+srcHash: '18291bb8f09e'
 title: 'Parque Nacional de Komodo: Guía de Viaje (4.6★)'
 description: 'El Parque Nacional de Komodo, en Nusa Tenggara Oriental, se disfruta mejor con una excursión en barco de varios días desde Labuan Bajo que recorra las islas de Komodo y Rinca para hacer trekking de dragones, además de la Isla Padar y Pink Beach para hacer esnórquel. 4.6★ (7.153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Komodo, en Nusa Tenggara Oriental, se disfruta mejor con una excursión en barco de varios días desde Labuan Bajo que recorra las islas de Komodo y Rinca para hacer trekking de dragones, además de la Isla Padar y Pink Beach para hacer esnórquel. Calcula un mínimo de 2-3 días, reserva una caminata guiada por un ranger autorizado (obligatorio) y sal temprano por la mañana para evitar tanto el calor como las multitudes. Los fines de semana son los más concurridos, entre las 9am y las 7pm, así que si tu itinerario permite flexibilidad, apunta a la calma de una tarde de entre semana, alrededor de las 3-4pm.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es mejor la Isla Rinca o la Isla Komodo para ver dragones?
     a: Rinca está más cerca de Labuan Bajo y por lo general tiene menos gente, mientras que la Isla Komodo tiene una población de dragones más grande; muchos viajes de varios días visitan ambas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

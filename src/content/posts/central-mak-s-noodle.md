@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Mak's Noodle matters
 
 You smell the broth before you see the shop — a clean, slightly smoky pork-bone stock drifting onto Wellington Street. Mak's Noodle is small, bright, and unapologetically single-minded. It has been refining one dish, wonton noodles, since the mid-20th century, and that focus is the whole point.

@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shees Park is the green surprise of the Hajar Mountains. After miles of rust-colored rock and scrubby desert along the Al Dhaid–Masafi road, a wall of planted trees and manicured lawns appears almost out of nowhere, tucked into a valley where the mountains fold in on themselves.

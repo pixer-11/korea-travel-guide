@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chengdu Museum doesn't get the tour-bus traffic of Jinsha or the pandas, and that's exactly its appeal. Walk in on a weekday afternoon and you'll often have entire galleries to yourself, close enough to a Han-dynasty stone carving to see the tool marks.

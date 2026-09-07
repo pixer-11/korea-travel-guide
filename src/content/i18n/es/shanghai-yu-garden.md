@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-yu-garden
-srcHash: 'd5f1c97f6ea7'
+srcHash: 'd82dc03ce829'
 title: 'Jardín Yu: Guía de viaje de Shanghái (4.5★)'
 description: 'El Jardín Yu es un jardín de 2 hectáreas de la dinastía Ming (construido en 1577) en la Ciudad Vieja de Shanghái, repleto de rocallas, estanques con carpas koi, puentes en zigzag y pabellones tallados, abierto de martes a domingo, de 9:00 a 16:30 (cerrado los lunes). 4.5★ (5,303 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Yu es un jardín de 2 hectáreas de la dinastía Ming (construido en 1577) en la Ciudad Vieja de Shanghái, repleto de rocallas, estanques con carpas koi, puentes en zigzag y pabellones tallados, abierto de martes a domingo, de 9:00 a 16:30 (cerrado los lunes). Llega justo a las 9am, ya que es uno de los sitios más visitados de Shanghái y los senderos entre las rocallas son tan estrechos que una tarde concurrida cambia toda la experiencia. Reserva entre 60 y 90 minutos para el jardín en sí, además de tiempo extra para perderte en el bazar que lo rodea.
@@ -17,8 +17,6 @@ faq:
   - q: ¿El jardín y el bazar Yuyuan son lo mismo?
     a: No. El Jardín Yu es el jardín de la dinastía Ming propiamente dicho, con entrada pagada; el bazar Yuyuan (Yuyuan Bazaar) es el laberinto de tiendas, casas de té y puestos de comida que lo rodean, de entrada libre. Muchos visitantes solo se dan cuenta de la diferencia una vez que llegan.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

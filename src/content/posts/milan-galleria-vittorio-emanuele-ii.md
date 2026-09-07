@@ -84,8 +84,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come out of the Duomo, blinking in the light off the cathedral's white marble, and there's this arched entrance to your right that looks almost like a train station gate from another century. Walk through it and the whole mood changes: a soaring cross-shaped arcade of iron and glass rises above you, four storeys of ochre stonework and arched windows, and at the center, directly under the glass dome, an octagon of mosaic floor with the coats of arms of Turin, Florence, Rome and Milan laid out in stone.

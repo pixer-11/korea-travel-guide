@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the old Dongdaemun clothing wholesale blocks — low awnings, mannequins stacked three deep, the smell of tteokbokki carts — and then the street just opens up into this silver, windowless hull the size of a city block. There are no straight lines. No right angles. Zaha Hadid designed DDP to look like it was poured rather than built, and up close you notice the skin is actually 45,000 individual aluminum panels, each one a slightly different shape, riveted together like scales.

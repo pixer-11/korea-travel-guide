@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why bother with a museum when you came for the terraces
 
 Everyone arrives in Pamukkale for the white travertines and the milky blue pools cascading down the hillside, and it's easy to treat the museum as an afterthought. That's a mistake. The building itself is one of the surviving parts of the Roman baths complex — thick stone walls, barrel vaults, the kind of cool, shaded interior that feels like a relief after an hour walking across sun-baked calcium terraces.

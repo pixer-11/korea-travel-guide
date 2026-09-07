@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-jackson-square
-srcHash: '801c9beb3ec5'
+srcHash: '4bb349e69ab1'
 title: 'Jackson Square: guía de viaje de Nueva Orleans'
 description: 'Jackson Square es el corazón histórico del Barrio Francés: una plaza vallada construida en 1721 y enmarcada por la Catedral de San Luis, el Cabildo y los edificios Pontalba.'
 quickAnswer: 'Jackson Square es el corazón histórico del Barrio Francés: una plaza vallada, con verjas, construida en 1721 y enmarcada por la Catedral de San Luis, el Cabildo y los edificios Pontalba. Se puede recorrer gratis en cualquier momento en que las puertas estén abiertas (aproximadamente desde primera hora de la mañana hasta el anochecer), y la verdad es que está concurrida casi todo el día, así que conviene ir en la primera hora tras el amanecer si se quiere ver la plaza sin multitudes. Para la plaza en sí basta con 45 minutos a una hora, más tiempo si te detienes con un retratista o una adivina.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con la visita?
     a: El Café du Monde, famoso por sus beignets, queda a una cuadra; el paseo Moonwalk sobre el río Misisipi está justo detrás de la plaza; y el French Market se extiende a lo largo de la calle Decatur, pasando la catedral.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya
-srcHash: 'e586d020a2e3'
+srcHash: 'a014a8526881'
 title: 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya: guía de viaje de Bombay'
 description: En el barrio de Fort, a solo 10 minutos a pie de la estación Chhatrapati Shivaji Terminus, se alza el Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (antiguo Prince of Wales Museum), instalado en un edificio de cúpula indosarraceno.
 quickAnswer: En el barrio de Fort, a solo 10 minutos a pie de la estación Chhatrapati Shivaji Terminus, se alza el Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (antiguo Prince of Wales Museum), instalado en un edificio de cúpula indosarraceno. Para recorrer con calma las galerías de escultura, artes decorativas e historia natural conviene reservar entre 1,5 y 2,5 horas. Como se trata de uno de los museos más visitados de Bombay y no de un rincón escondido, lo mejor es ir un día laborable por la mañana para evitar las multitudes de los autobuses turísticos. Antes de ir, conviene confirmar los horarios y el precio de la entrada, ya que ambos cambian de vez en cuando.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Puerta de la India (Gateway of India), Colaba Causeway y el barrio artístico de Kala Ghoda quedan todos a poca distancia a pie, lo que convierte a este museo en un buen punto de partida para una caminata cultural de medio día por el sur de Bombay.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes incluso de llegar, ya se divisa el museo: una cúpula color miel que se eleva sobre las palmeras y la piedra manchada por los monzones de Fort, con un aspecto más propio del palacio de un majarajá que de un depósito de fragmentos de cerámica y pinturas en miniatura. Y no es casualidad. El edificio se diseñó a principios del siglo XX en estilo indosarraceno, una mezcla segura y un tanto ostentosa de arcos mogoles, torreones rajputs y la grandeza cívica británica.
 

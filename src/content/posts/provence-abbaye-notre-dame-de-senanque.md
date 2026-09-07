@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the last bend of the D177 through a narrow limestone gorge, the road dropping between scrubby oak and juniper, and then the valley opens and there it is: a honey-colored 12th-century abbey sitting alone in a shallow bowl of land, ringed by hills, with nothing else built anywhere near it. That isolation is the point. The monks who founded Sénanque in 1148 chose this spot precisely because it was hard to reach, and the setting still does the work — no village, no café strip, just stone church, dormitory wing, and, if you've timed it right, rows of lavender running right up to the cloister wall. It's one of the most photographed monasteries in France, and it earns it.

@@ -87,8 +87,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell the espresso before you see the sign — a tight storefront on Green Street with exposed brick, dark wood shelving, and a single Ping-Pong table pushed against the far wall like it's always been there. Sawada Coffee doesn't try to be a third-wave temple with lab equipment and a lecture on origin altitude. It's warmer than that: low lighting, a hum of conversation, the occasional pock-pock of a paddle rally between regulars waiting on their order.

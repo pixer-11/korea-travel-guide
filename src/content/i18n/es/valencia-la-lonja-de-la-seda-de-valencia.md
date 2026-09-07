@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: valencia-la-lonja-de-la-seda-de-valencia
-srcHash: '8cc5df78d87f'
+srcHash: '3855e0820c0f'
 title: 'La Lonja de la Seda de Valencia: Guía de viaje'
 description: La Lonja de la Seda, la antigua lonja de comercio de seda de Valencia declarada Patrimonio de la Humanidad por la UNESCO, se encuentra en Ciutat Vella, en C/ de la Llotja, 2, justo enfrente del Mercado Central.
 quickAnswer: 'La Lonja de la Seda, la antigua lonja de comercio de seda de Valencia declarada Patrimonio de la Humanidad por la UNESCO, se encuentra en Ciutat Vella, en C/ de la Llotja, 2, justo enfrente del Mercado Central. Dedícale entre 45 y 60 minutos, céntrate en las columnas retorcidas de estilo corintio de la Sala de Contratación y en el artesonado del Consulado del Mar, y ve temprano un día laborable para evitar las aglomeraciones: es una parada muy popular y las colas se forman rápido en cuanto llegan los grupos turísticos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿El edificio es completamente interior, así que es buena opción para un día de lluvia?
     a: Sí, salvo por el pequeño patio central, las salas principales son interiores, lo que lo convierte en una opción fiable si el tiempo en Valencia se complica.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

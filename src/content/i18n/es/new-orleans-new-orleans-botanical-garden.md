@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-new-orleans-botanical-garden
-srcHash: '0c273bc5494f'
+srcHash: '767709e84fa0'
 title: 'Jardín Botánico de Nueva Orleans: Guía de viaje (4.7★)'
 description: El Jardín Botánico de Nueva Orleans (New Orleans Botanical Garden) se encuentra dentro de City Park, en 5 Victory Ave, abierto de martes a domingo de 10:00 a 16:30 (cerrado los lunes). 4.7★ (1,595 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Jardín Botánico de Nueva Orleans (New Orleans Botanical Garden) se encuentra dentro de City Park, en 5 Victory Ave, abierto de martes a domingo de 10:00 a 16:30 (cerrado los lunes). Reserva entre 90 minutos y dos horas para recorrer los senderos Art Deco, el invernadero de orquídeas y la colección de cactus. Los fines de semana entre las 10:00 y las 16:00 son los momentos de mayor afluencia, así que intenta ir un día de semana por la mañana si puedes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena combinarlo con otras atracciones de City Park?
     a: Sí — el Museo de Arte de Nueva Orleans (New Orleans Museum of Art) está justo al lado, y los senderos bordeados de robles y el Train Garden de City Park son un complemento fácil para la misma visita.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

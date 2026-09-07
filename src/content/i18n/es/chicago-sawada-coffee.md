@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-sawada-coffee
-srcHash: 'e032c6272569'
+srcHash: '23d8df7a02c3'
 title: 'Sawada Coffee: Guía de viaje de Chicago'
 description: Sawada Coffee es una cafetería de estilo rústico-chic en el West Loop de Chicago, en 112 N Green St, abierta todos los días de 8am a 4pm, conocida por sus creativas bebidas de espresso y su mesa de ping-pong.
 quickAnswer: Sawada Coffee es una cafetería de estilo rústico-chic en el West Loop de Chicago, en 112 N Green St, abierta todos los días de 8am a 4pm, conocida por sus creativas bebidas de espresso y su mesa de ping-pong. Conviene ir temprano —de 8am a 10am es el momento tranquilo todos los días de la semana— y evitar el ajetreo del fin de semana entre 11am y 4pm, cuando las filas llegan hasta la puerta.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es un buen lugar para trabajar o pasar el rato, no solo para un café rápido?
     a: Sí — tiene un interior relajado de estilo rústico-chic con una mesa de ping-pong y asientos pensados para quedarse un rato, aunque puede llenarse bastante durante la hora punta del mediodía en fin de semana.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the subway or round the corner from Fifth Avenue and suddenly the sidewalk crowds thin into something almost formal: a slim, tiled channel of a garden running dead straight between two limestone buildings, six shallow pools stepping down toward the plaza like a staircase made of water. This is the Channel Gardens, and the name isn't poetic license — it sits literally between the British Building (Rockefeller Center's homage to the UK) and La Maison Française, "channeling" the flow of foot traffic the way the English Channel sits between Britain and France.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siargao-cloud-9-surfing-area
-srcHash: 'c66bbae904e5'
+srcHash: 'b90d8ff0e6c0'
 title: 'Zona de surf Cloud 9: guía de viaje de Siargao'
 description: Cloud 9 es el break de arrecife más emblemático de Siargao, a las afueras de General Luna, célebre por sus tubos huecos y su icónico paseo de madera que se adentra en el Pacífico.
 quickAnswer: Cloud 9 es el break de arrecife más emblemático de Siargao, a las afueras de General Luna, célebre por sus tubos huecos y su icónico paseo de madera que se adentra en el Pacífico. Quienes no practican surf suelen ir a ver el amanecer y el atardecer desde la torre mirador, mientras que los surfistas de cualquier nivel pueden alquilar tablas o reservar un instructor allí mismo, en la playa. Es un lugar muy conocido y concurrido, así que conviene ir a primera hora de la mañana (antes de las 8 a. m.) o al final de la tarde para disfrutarlo en su mejor momento.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reservar una clase de surf con anticipación?
     a: 'Por lo general no: junto al acceso a la playa, cerca del paseo de madera, hay puestos de alquiler de equipo e instructores disponibles, y las clases suelen organizarse y pagarse en efectivo en el momento.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

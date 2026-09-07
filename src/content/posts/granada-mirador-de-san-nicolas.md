@@ -110,8 +110,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You climb out of the tangle of the Albaicín's whitewashed lanes, past shuttered carmen houses and walls dripping with bougainvillea, and the streets suddenly open onto a wide stone platform. There it is: the Alhambra, laid out almost at eye level across the ravine of the Darro, its red-brown towers and crenellations sharp against the snowy ridgeline of the Sierra Nevada behind.

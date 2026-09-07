@@ -73,8 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Cheng Huang Temple sits mid-block on Wufeng North Road, its blackened incense-smoked beams and layered rooflines making it easy to spot even among Chiayi's dense shophouse streets. This is a City God temple, one of Taiwan's most architecturally important, and the soot-darkened wood alone tells you how long incense has been burning here.
 
 Cheng Huang, the City God, is the mythological magistrate of Chiayi, judging the dead and protecting the living within his jurisdiction. That civic role shapes everything about the building: the multiple ancestor halls, the courtroom-like main altar, the flanking judges and generals carved into the surrounding niches.

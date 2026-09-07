@@ -81,8 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The building alone is worth the walk over. Guangdong Museum's exterior looks like an ornate carved box — architects call it the "Ivory Carving Box" — with a perforated golden lattice skin that filters sunlight into shifting geometric patterns across the atrium floor.

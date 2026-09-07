@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up out of the Western Addition on foot, or you climb out of a rideshare on Hayes Street, and for a moment you don't see them — Alamo Square is a green hill dotted with palms and eucalyptus, and the houses are tucked along its eastern edge. Then you crest the slope and there they are: seven Victorian houses in a tidy row on Steiner Street, gables and turrets stacked up in candy-box colors, with the glass towers of the Financial District rising behind them like a set change.
 
 It's one of the most photographed views in San Francisco, and the reason is obvious the second you see it.

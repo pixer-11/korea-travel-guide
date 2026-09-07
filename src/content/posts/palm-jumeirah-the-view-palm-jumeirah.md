@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't come here for a casual look — you come for the one view Dubai can't give you from ground level. From 52 floors up, the Palm's fronds finally make sense as a shape, curling out into the Gulf with the Atlantis resort anchoring the far tip.

@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Ark rises out of Bukhara like a raw clay cliff, its sloped ramparts catching the morning light before anything else in the city. This was the seat of Bukhara's rulers for well over a thousand years, and you feel that weight the moment you pass through the gate. It's not a delicate, restored-to-perfection monument — it's rough, sun-baked, and genuinely old.

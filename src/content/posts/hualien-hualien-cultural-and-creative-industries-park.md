@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the buildings as much as anything inside them. This was once the Hualien Port Distillery, built under Japanese rule in the early twentieth century, and the brick-and-timber warehouses still carry that industrial bone structure — high ceilings, exposed beams, thick walls that keep the coastal heat out.

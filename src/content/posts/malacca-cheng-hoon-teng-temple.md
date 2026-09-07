@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Cheng Hoon Teng isn't just old — it's the oldest functioning Chinese temple in Malaysia, dating to the 1640s. Step through the gate and the noise of Jonker Street falls away. What's left is smoke, timber, and centuries of continuous worship.

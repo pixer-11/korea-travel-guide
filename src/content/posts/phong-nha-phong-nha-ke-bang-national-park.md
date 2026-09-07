@@ -58,8 +58,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Karst mountains rise straight out of rice paddies here, riddled with some of the largest cave systems on Earth. This is where Son Doong — the world's biggest cave passage — was found in 1991 and only opened to trekkers years later.

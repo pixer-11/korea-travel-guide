@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the twin white towers before you spot the street sign. Rizal Avenue curves past a strip of banks, sari-sari stores and jeepney stops, and then the cathedral's facade opens up like a pause button on the city's noise.
 
 ## Why go

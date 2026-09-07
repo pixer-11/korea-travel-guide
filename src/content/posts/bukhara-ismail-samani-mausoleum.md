@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This squat cube of baked brick is one of the oldest surviving pieces of Islamic monumental architecture anywhere. Built between 892 and 943 CE, it predates almost everything else standing in Bukhara today, including the Kalyan Minaret. It survived Genghis Khan's sack of the city only because sand had buried it up to its dome.

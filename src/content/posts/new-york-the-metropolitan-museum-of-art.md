@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the subway on the Upper East Side and the museum announces itself before you even see the doors — the banners strung across the colonnaded Beaux-Arts facade, the crowds already pooling on the wide stone steps. The Metropolitan Museum of Art isn't just big, it's disorienting in its range: Egyptian temple stones, Rembrandt self-portraits, a full suit of samurai armor, an entire reconstructed American wing with a real 1805 Wall Street bank facade built into it.

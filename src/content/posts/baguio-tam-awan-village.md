@@ -74,8 +74,6 @@ aiGenerated: true
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You climb a steep, narrow road out of central Baguio and suddenly the city noise drops away. Pine trees crowd the slope, and above them sit a dozen weathered huts on stilts, roofs of cogon grass catching the mist. This is Tam-awan Village — part open-air museum, part artist colony, built to preserve a way of building and living that's vanishing from the Cordillera highlands.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-uffizi-galleries
-srcHash: '0684e1b46048'
+srcHash: 'bbdfb7b3ddd3'
 title: 'Galería Uffizi: Guía de viaje de Florencia'
 description: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de la avalancha de media mañana.
 quickAnswer: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de que llegue la avalancha de media mañana. La Uffizi es uno de los museos más visitados del mundo (valorado con 4.7 sobre más de 93,000 reseñas), así que la fila sin reserva en Piazzale degli Uffizi 6 puede superar la hora de espera sin reserva previa — evítala reservando con antelación.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca de la Uffizi que valga la pena combinar con la visita?
     a: El Ponte Vecchio y el Palazzo Vecchio están a un par de minutos a pie; la Galería de la Academia (Accademia, hogar del David de Miguel Ángel) es una combinación popular, pero requiere una entrada separada propia.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

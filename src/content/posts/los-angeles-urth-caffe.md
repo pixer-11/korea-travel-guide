@@ -49,8 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Urth Caffè's Arts District outpost is the kind of place that photographs better than it should be able to, and then tastes just as good as it looks. You walk in past a glass pastry case stacked with towering slices of cake and rows of croissants, and the whole room smells like scalded milk and roasted beans. Skylights and tall windows throw a soft, even light across the marble-topped tables, and out on the patio, strings of café lights hang over a crowd that skews equal parts industry types on laptops, tourists comparing photos, and locals nursing an oat-milk latte over a paperback.

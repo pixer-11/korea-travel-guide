@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Chiang Mai National Museum not for a quick photo but to actually understand what you've been looking at all over the old city — the naga finials, the stucco lotus buds on temple gables, the seated Buddhas with that distinctive Lanna curve to the shoulders. The building itself signals this intent before you're even through the door: a white, multi-tiered roofline in traditional northern Thai style, deliberately built to echo the region's temple architecture rather than look like a colonial-era hall of artifacts.

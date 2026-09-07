@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-basilica-of-notre-dame-of-fourviere
-srcHash: '99119dc3bde2'
+srcHash: '22be717f3a99'
 title: 富维耶圣母圣殿：里昂旅行指南
 description: 富维耶圣母圣殿（Basilica of Notre-Dame de Fourvière）坐落在里昂老城上方，是一座免费开放、装饰华丽的19世纪教堂，最适合清晨前往参观。
 quickAnswer: 富维耶圣母圣殿（Basilica of Notre-Dame de Fourvière）坐落在里昂老城上方，是一座免费开放、装饰华丽的19世纪教堂，最适合清晨（10点前）或日落时分前往，可以避开旅游大巴的人潮，欣赏城市与阿尔卑斯山上空的光影。从老里昂（Vieux Lyon）地铁站乘坐缆车（"Ficelle"）上山至富维耶站，车程仅两分钟，能省去一段陡峭的攀爬。参观内部和露台大约需要45–60分钟，如果再加上旁边的小型考古博物馆或古罗马剧场，时间会更长。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一看的地方？
     a: 富维耶古罗马剧场遗址（Théâtres Romains de Fourvière）就在山下不远处，步行即可到达；老里昂（Vieux Lyon）的文艺复兴风格街道也可以乘缆车或走楼梯轻松抵达。
 ---
-
-> **本指南制作方式：** 经编辑审校、AI辅助完成。相关信息取自Google Places实时数据；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为何前往
 

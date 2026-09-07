@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: komodo-pink-beach
-srcHash: '0009980d5785'
+srcHash: '95fc17ff1b4b'
 title: 'Playa Rosa (Pink Beach): guía de viaje a Komodo (4,9★)'
 description: 'La Playa Rosa se encuentra dentro del Parque Nacional de Komodo y solo se puede llegar en barco, normalmente como parada dentro de un itinerario en liveaboard o excursión de un día por Komodo/Rinca que sale de Labuan Bajo. 4,9★ (868 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Playa Rosa se encuentra dentro del Parque Nacional de Komodo y solo se puede llegar en barco, normalmente como parada dentro de un itinerario en liveaboard o excursión de un día por Komodo/Rinca que sale de Labuan Bajo. Conviene ir temprano o planificar según los datos de afluencia: los fines de semana se llena entre las 8:00 y las 13:00, mientras que las tardes-noches entre semana (18:00-22:00) y las tardes de fin de semana (después de las 13:00) son mucho más tranquilas. Lleve calzado de agua, equipo de esnórquel y efectivo, ya que en la arena no hay tiendas ni instalaciones.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Lo habitual es dedicar entre 45 minutos y 1,5 horas a la parada, tiempo suficiente para nadar, hacer esnórquel y tomar fotos antes de que el barco se dirija al siguiente punto.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué vale la pena el trayecto en barco hasta la Playa Rosa
 

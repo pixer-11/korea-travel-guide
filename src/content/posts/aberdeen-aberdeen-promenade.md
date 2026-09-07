@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Aberdeen isn't the postcard version of Hong Kong you see on brochures — it's better, in a scruffier way. This promenade runs along the harbour where fishing junks, sampans and the occasional houseboat still jostle for space, a working waterfront that hasn't been polished into a shopping mall.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-chelsea-market
-srcHash: '2bc5e0b85409'
+srcHash: '9021becd624e'
 title: 'Chelsea Market: Guía de viaje de Nueva York (4.6★)'
 description: 'Chelsea Market es una antigua fábrica de galletas del siglo XIX en la Novena Avenida de Manhattan, hoy convertida en un pasaje cubierto de puestos de comida, panaderías y pequeñas tiendas que ocupa toda una manzana entre las calles 15 y 16. 4.6★ (51,880 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Chelsea Market es una antigua fábrica de galletas del siglo XIX en la Novena Avenida de Manhattan, hoy convertida en un pasaje cubierto de puestos de comida, panaderías y pequeñas tiendas que ocupa toda una manzana entre las calles 15 y 16. Abre todos los días de 7am a 10pm, y el momento más tranquilo para recorrerlo es cualquier mañana antes de la 1pm: los fines de semana se llena mucho entre la 1pm y las 7pm, así que conviene evitar esa franja o llegar después de la cena. Calcula una hora para ir picando de aquí y de allá, o dos si lo combinas con un paseo por la High Line, que empieza justo en la puerta.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Chelsea Market es bueno para una comida sentado o solo para picar algo?
     a: 'Está pensado para ir picando más que para una sola comida sentado: la mayoría de los visitantes combina platos pequeños de dos o tres puestos y come en las mesas comunales compartidas del pasillo.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for scale, not subtlety. A retired Sea Harrier fighter jet stands nose-up on a plinth by the entrance, and behind it a lawn is scattered with decommissioned helicopters, missiles and radar units you can walk right up to.

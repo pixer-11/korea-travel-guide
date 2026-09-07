@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the Place de l'Horloge and the palace just stops you — a cliff of pale limestone, crenellated towers stacked like a fortress that forgot it was also supposed to be a church. This was the seat of Western Christianity for most of the 14th century, when seven popes ruled from Avignon instead of Rome, and the building still argues its case: it's the largest Gothic palace on earth, twice the volume of a cathedral, built in two furious phases under Benedict XII and Clement VI.

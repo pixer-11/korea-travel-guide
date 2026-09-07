@@ -62,8 +62,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Nara National Museum for one reason above all: the Buddhas. This isn't a museum of paintings on white walls — it's a place built specifically to hold thirteen centuries of Japanese Buddhist art, and it shows. Founded in 1889, it was one of the first Western-style museums in the country, and its core mission has never wavered: collect, preserve, and display the sculpture, sutras, and ritual objects that once filled the temples of the old capital.

@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around a bend in the path and the tree line opens onto a field of laterite and brick, rows of headless Buddhas seated in rows against a backdrop of low green hills. This is Sukhothai Historical Park, the ruined heart of Thailand's first independent kingdom, and even at a glance you can tell it isn't a single monument but an entire vanished city.
 
 ## Why Sukhothai matters

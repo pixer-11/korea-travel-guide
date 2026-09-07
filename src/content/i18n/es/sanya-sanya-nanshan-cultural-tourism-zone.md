@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sanya-sanya-nanshan-cultural-tourism-zone
-srcHash: 'da67195c1c86'
+srcHash: '09f4ec53b643'
 title: 'Zona Turística Cultural de Nanshan, Sanya: Guía de Viaje (4.7★)'
 description: 'A unos 40 km al oeste del centro de Sanya, en el distrito de Yazhou, la Zona Turística Cultural de Nanshan es célebre por su imponente estatua de Guanyin de 108 metros que se alza sobre el mar. 4.7★ (221 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Zona Turística Cultural de Nanshan se encuentra a unos 40 km al oeste del centro de Sanya, en el distrito de Yazhou, y es célebre por su imponente estatua de Guanyin de 108 metros que se alza sobre el mar. Conviene reservarle medio día completo (entre 4 y 6 horas), ya que el recinto es enorme e incluye templos, jardines y zonas costeras. Lo mejor es ir temprano por la mañana entre semana, para evitar las multitudes de los autobuses turísticos y aprovechar el aire más fresco antes de que apriete el sol tropical.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Con qué se puede combinar una excursión de un día a Nanshan?
     a: Tianya Haijiao (el Fin de la Tierra) queda prácticamente de camino de vuelta a la ciudad, por lo que combina de forma natural si se empieza la visita a Nanshan temprano.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué merece la pena el desplazamiento a Nanshan
 

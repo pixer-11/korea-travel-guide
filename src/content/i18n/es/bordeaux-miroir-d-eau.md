@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bordeaux-miroir-d-eau
-srcHash: '968430d198da'
+srcHash: '88bea104cfa9'
 title: 'Miroir d''eau: Guía de viaje de Burdeos'
 description: 'El Miroir d''eau es el espejo de agua poco profundo de la Place de la Bourse, justo en el paseo del Garona en Burdeos: gratuito, al aire libre y mejor disfrutado a primera hora de la mañana o después del atardecer, cuando las multitudes disminuyen y el agua se transforma en niebla frente a la fachada del siglo XVIII.'
 quickAnswer: 'El Miroir d''eau es el espejo de agua poco profundo de la Place de la Bourse, justo en el paseo del Garona en Burdeos: gratuito, al aire libre y mejor disfrutado a primera hora de la mañana o después del atardecer, cuando las multitudes disminuyen y el agua se transforma en niebla frente a la fachada del siglo XVIII. Calcula entre 20 y 40 minutos, ponte sandalias que no te importe mojar y combínalo con un paseo por el Quai Richelieu.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: La arquitectura del siglo XVIII de la Place de la Bourse, justo detrás del estanque; los cafés junto al río en el Quai Richelieu; y, a un trayecto en tranvía, el museo Cité du Vin y el Jardin Public.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Hueles el río antes de ver el espejo de agua: una tenue humedad mineral que llega desde el Garona, mezclada con el olor a masa de gofres y café de los cafés que bordean el muelle. Luego doblas la esquina desde Rue Fernand Philippart y la Place de la Bourse se despliega ante ti: piedra color miel, columnatas curvas y, a sus pies, una fina lámina de agua extendida sobre 3.450 metros cuadrados de granito negro, que duplica toda la escena como una fotografía doblada por la mitad.
 

@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yuexiu Park is where Guangzhou goes to breathe. Spread across three low hills in the northern part of the city, it mixes red-brick Ming-dynasty wall fragments, three interlinked lakes, and enough shaded footpaths that you can lose the traffic noise within five minutes of walking in.

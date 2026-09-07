@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hoi-an-quan-cong-temple
-srcHash: '611073d6417d'
+srcHash: '9509e936259d'
 title: 'Templo de Quan Cong: Guía de viaje de Hoi An (4,4★)'
 description: 'El templo de Quan Cong es un pequeño templo chino del siglo XVII situado en la calle Trần Phú, en el casco antiguo de Hoi An, dedicado al venerado general Quan Cong. 4,4★ (211 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Quan Cong es un pequeño templo chino del siglo XVII situado en la calle Trần Phú, en el casco antiguo de Hoi An, dedicado al venerado general Quan Cong. Abre todos los días de 7:30 a 15:30 (los jueves hasta las 17:30) y, como pasa algo desapercibido frente a otros puntos de interés cercanos, suele visitarse en 15-20 minutos sin aglomeraciones. Combina bien con un paseo hasta el Puente Japonés Cubierto, a pocos minutos a pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: El Puente Japonés Cubierto está a unos 5 minutos a pie, y el Mercado Central de Hoi An queda un poco más allá, siguiendo la calle Trần Phú.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

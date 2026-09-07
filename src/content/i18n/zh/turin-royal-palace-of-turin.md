@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: turin-royal-palace-of-turin
-srcHash: 'c20791cc9ae1'
+srcHash: 'a9d3da5bc518'
 title: 都灵皇宫旅行指南（4.8星）
 description: 都灵皇宫（Palazzo Reale di Torino）坐落在都灵市中心的皇家小广场（Piazzetta Reale）上，紧邻主教座堂和埃及博物馆（Museo Egizio）。4.8星（11,793条评价）——游客怎么说、开放时间及游览建议，一文看懂。
 quickAnswer: 都灵皇宫（Palazzo Reale di Torino）坐落在都灵市中心的皇家小广场（Piazzetta Reale）上，紧邻主教座堂和埃及博物馆（Museo Egizio）。除周三闭馆外，每天开放时间为上午9点至晚上7点，工作日上午9点到10点是人最少的时段，周末则从上午10点一直到闭馆都比较拥挤。建议至少预留90分钟，用来参观王室套房、军械库和花园。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些景点可以一起游览？
     a: 圣若望洗者主教座堂（都灵裹尸布小堂所在地）和埃及博物馆都离皇家小广场（Piazzetta Reale）很近，步行片刻即到。
 ---
-
-> **本指南制作说明：** 由编辑审校，并借助人工智能辅助完成。相关信息取自谷歌地图（Google Places）实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

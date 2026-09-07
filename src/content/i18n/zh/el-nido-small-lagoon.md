@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: el-nido-small-lagoon
-srcHash: '91180622ebbe'
+srcHash: '51c39a924c3d'
 title: 小泻湖(Small Lagoon):爱妮岛(El Nido)旅行指南(4.9★)
 description: 小泻湖(Small Lagoon)位于米尼洛克岛(Miniloc Island)外的巴库伊特湾(Bacuit Bay)内，只能作为爱妮岛(El Nido)A线(Tour A)行程的一部分乘船前往。要趁早出发，赶在上午跳岛船只成群到来之前，划着皮划艇穿过狭窄的石灰岩缝隙，进入里面那片封闭的水域。4.9★(321条点评)——游客怎么说、开放时间和实用建议。
 quickAnswer: 小泻湖(Small Lagoon)位于米尼洛克岛(Miniloc Island)外的巴库伊特湾(Bacuit Bay)内，只能作为爱妮岛(El Nido)A线(Tour A)行程的一部分乘船前往。要趁早出发，赶在上午跳岛船只成群到来之前，划着皮划艇穿过狭窄的石灰岩缝隙，进入里面那片封闭的水域。记得带上珊瑚礁友好型防晒霜、涉水鞋，以及租皮划艇要用的现金——这里没有码头、道路，也没有商店。
@@ -17,8 +17,6 @@ faq:
   - q: 同一行程中附近还有哪些景点?
     a: 在环绕巴库伊特湾(Bacuit Bay)的标准A线(Tour A)行程中，小泻湖(Small Lagoon)通常会与大泻湖(Big Lagoon)、志水岛(Shimizu Island)和七突击队海滩(Seven Commandos Beach)搭配在一起游览。
 ---
-
-> **本指南的制作方式:** 经编辑审校、并借助AI辅助完成。相关信息取自谷歌地图(Google Places)实时数据；图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 小泻湖(Small Lagoon)为何名副其实
 

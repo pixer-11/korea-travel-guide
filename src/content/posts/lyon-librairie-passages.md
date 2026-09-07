@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Librairie Passages for the kind of browsing that's disappeared from most city centers. This is a real independent bookshop, not a chain outlet with a café bolted on, and it shows in every corner of the room.

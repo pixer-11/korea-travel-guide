@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Graham Street Market isn't a curated tourist market — it's one of Hong Kong's last surviving street markets still doing what it's done for over a century. Stalls run downhill along Graham and Gage Streets, selling produce, fish, poultry, and dried goods to people actually cooking dinner that night, not to visitors with cameras.

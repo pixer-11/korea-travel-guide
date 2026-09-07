@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-royal-palace-museum
-srcHash: '034f66a0bb89'
+srcHash: '1ffc4d2c77c3'
 title: 'Museo del Palacio Real: Guía de Viaje de Génova (4,5★)'
 description: 'En el antiguo barrio universitario de Génova, en Via Balbi, y a pocos minutos de la estación Genova Piazza Principe, se encuentra el Palazzo Reale. 4,5★ (4.069 reseñas): esto opinan los visitantes, además de horarios y consejos.'
 quickAnswer: En el antiguo barrio universitario de Génova, en Via Balbi, y a pocos minutos de la estación Genova Piazza Principe, se encuentra el Palazzo Reale. Si puedes elegir, ve una mañana de entre semana —de miércoles a sábado abre de 9:00 a 19:00—, ya que los fines de semana, de 10:00 a 19:00, son cuando más gente se concentra. Los lunes y domingos permanece cerrado, y los martes solo abre por la tarde (13:30–19:00), así que conviene organizarse teniendo esto en cuenta. Calcula entre una hora y hora y media para recorrer las salas de gala y el Salón de los Espejos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo más que ver cerca?
     a: 'El Palazzo dell''Università, con su majestuoso patio barroco, se encuentra casi justo enfrente, al otro lado de Via Balbi, y su entrada es gratuita: una combinación sencilla para antes o después de la visita al palacio.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Belcher Bay Park for the water, not the greenery. It's a narrow ribbon of reclaimed land along the Praya in Kennedy Town, with the harbour on one side and Hong Kong Island's traffic hum on the other.

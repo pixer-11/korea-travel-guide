@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bousra Waterfall is worth the drive
 
 Mondulkiri's red-dirt roads eventually spit you out at a wall of noise before you see anything. That's Bousra's upper tier, a broad curtain of water dropping onto black basalt rock, the kind of volcanic stone that gives this whole plateau its rust-colored soil.

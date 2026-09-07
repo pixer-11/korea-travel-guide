@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-diego-balboa-park
-srcHash: 'efbb82f6f031'
+srcHash: 'f1e1f834933c'
 title: 'Balboa Park: Guía de viaje de San Diego (4.8★)'
 description: 'Balboa Park es el corazón cultural de San Diego, con 1.200 acres de extensión: un conjunto peatonal de edificios de estilo Spanish Colonial Revival que alberga el Zoológico de San Diego, 17 museos, jardines y teatros, todo de acceso libre. 4.8★ (79.113 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Balboa Park es el corazón cultural de San Diego, con 1.200 acres de extensión: un conjunto peatonal de edificios de estilo Spanish Colonial Revival que alberga el Zoológico de San Diego, 17 museos, jardines y teatros, todo de acceso libre. El parque en sí nunca cierra, pero la mayoría de los museos abren aproximadamente de 10am a 5pm, así que conviene planear medio día o una jornada completa. Llega antes de las 10am los fines de semana para evitar tanto la saturación de estacionamiento como las multitudes en El Prado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Balboa Park está abierto de noche?
     a: Los terrenos del parque están abiertos las 24 horas, pero los museos generalmente cierran a primera hora de la tarde-noche, así que las visitas nocturnas son ideales para la arquitectura y los espacios al aire libre, más que para las exhibiciones.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Balboa Park merece un día entero
 

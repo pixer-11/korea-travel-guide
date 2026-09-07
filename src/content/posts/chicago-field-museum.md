@@ -85,8 +85,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The moment you step through the north doors into Stanley Field Hall, the scale of the place hits you before you've read a single label. Skylights three stories up throw pale light down onto a cast of a titanosaur skeleton stretched almost the length of a football field, its neck curving up toward a mezzanine lined with totem poles. This is the Field Museum's great trick: it doesn't ease you in, it opens with a room built to make you feel small.

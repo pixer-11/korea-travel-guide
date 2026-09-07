@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: boston-boston-tea-party-ships-museum
-srcHash: '18866655afba'
+srcHash: 'f33582e972c9'
 title: ボストン茶会事件船&博物館(Boston Tea Party Ships & Museum):旅行ガイド
 description: ボストン茶会事件船&博物館(Boston Tea Party Ships & Museum)の見学には60〜90分を見ておきましょう。サウスステーション(South Station)のすぐ裏手、フォートポイント・チャンネル(Fort Point Channel)沿いの306 Congress Stに係留されています。
 quickAnswer: ボストン茶会事件船&博物館(Boston Tea Party Ships & Museum)の見学には60〜90分を見ておきましょう。サウスステーション(South Station)のすぐ裏手、フォートポイント・チャンネル(Fort Point Channel)沿いの306 Congress Stに係留されています。俳優によるパフォーマンス、短編映画の上映、復元された18世紀の帆船2隻、そしてティールームまでを含む、時間指定制のガイド付き体験なので、事前にオンラインで枠を予約しておきましょう。ここはボストンで最も人気の高い観光スポットのひとつで、週末の昼どきの枠は売り切れることもあります。開館直後、もしくは午後遅めの時間に訪れると、団体ツアー客による混雑のピークを避けられます。
@@ -17,8 +17,6 @@ faq:
   - q: 時間に余裕がある場合、近くに他にどんな見どころがありますか?
     a: 同じチャンネル沿いに徒歩2分のところにボストン・チルドレンズ・ミュージアム(Boston Children's Museum)があり、ローズ・ケネディ・グリーンウェイ(Rose Kennedy Greenway)、ファニュエル・ホール(Faneuil Hall)、ニューイングランド水族館(New England Aquarium)もいずれも徒歩15〜20分圏内です。
 ---
-
-> **このガイドについて:** 編集者による確認とAIによる支援を組み合わせて作成しています。事実情報はGoogleプレイスのライブデータから取得し、画像はライセンス取得済みまたはパブリックドメインのものを使用しています。詳しくは[編集方針](/about)をご覧ください。
 
 ## なぜ訪れるべきか
 

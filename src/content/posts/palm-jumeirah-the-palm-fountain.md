@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Palm Fountain claims the title of world's largest fountain, and once the water starts climbing you believe it. The jets shoot high into the Dubai sky, lit in shifting colour and timed to music that carries across the whole waterfront promenade.

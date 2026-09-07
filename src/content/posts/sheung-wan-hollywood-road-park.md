@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Hollywood Road Park for a pause, not a spectacle. It sits on a terraced slope in Sheung Wan, stacked in levels connected by ramps and stairs, so the park reveals itself gradually rather than all at once.

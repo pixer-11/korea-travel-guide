@@ -99,8 +99,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The clouds are the first thing you notice. Genting Highlands sits at roughly 1,800 metres, and as your cable car climbs out of the jungle canopy toward the resort, mist often rolls across the ridgeline below you. By the time you step off at the top, the air has that cool, damp mountain bite — a jolt after the tropical heat of Kuala Lumpur an hour and a half down the road.
 
 ## Getting there

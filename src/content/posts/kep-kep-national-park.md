@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kep National Park is not a jungle epic — it's a compact ridge of forest rising straight from the Gulf of Thailand. Opened in 1993, it covers the hill behind Kep town, and the whole loop trail can be walked in a couple of hours. What makes it worth the detour is the payoff: gaps in the tree cover open onto sudden views of the coastline, Rabbit Island, and on clear days the hazy outline of Vietnam's Phu Quoc.

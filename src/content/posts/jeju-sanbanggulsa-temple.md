@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sanbanggulsa isn't a temple complex so much as a single sacred cave, hollowed into the face of Sanbangsan, a lava dome that rises straight out of the fields near Jeju's southwest tip. You come for the setting as much as the shrine itself.

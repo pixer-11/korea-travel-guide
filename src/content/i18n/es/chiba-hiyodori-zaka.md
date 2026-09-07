@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-hiyodori-zaka
-srcHash: 'ebd500869b77'
+srcHash: '7ee8b2703b37'
 title: 'Hiyodori-Zaka: Guía de viaje de Chiba'
 description: Hiyodori-Zaka es una estrecha cuesta bordeada de setos de la era samurái, en la antigua ciudad-castillo de Sakura, Chiba, a unos 15 minutos a pie de la estación de Keisei-Sakura.
 quickAnswer: Hiyodori-Zaka es una estrecha cuesta bordeada de setos de la era samurái, en la antigua ciudad-castillo de Sakura, Chiba, a unos 15 minutos a pie de la estación de Keisei-Sakura (Keisei-Sakura Station). Recorrerla y fotografiarla lleva solo 20-30 minutos, así que combínala con las cercanas antiguas casas samurái y el parque de las Ruinas del Castillo de Sakura (Sakura Castle Ruins Park) para una excursión de medio día. Ve un día laborable por la mañana si quieres tener el callejón completamente para ti.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más vale la pena ver cerca?
     a: Las casas samurái Kyu-Kawara, Kyu-Takahashi y Kyu-Tashiro están a poca distancia a pie, junto con el Museo Nacional de Historia Japonesa (National Museum of Japanese History), dentro del parque de las Ruinas del Castillo de Sakura.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena desviarse hasta Hiyodori-Zaka
 

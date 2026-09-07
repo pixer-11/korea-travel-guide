@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rishikesh-ram-jhula
-srcHash: '6137a934b663'
+srcHash: 'f6f1677e854b'
 title: 'Ram Jhula: Guía de viaje de Rishikesh (4.6★)'
 description: 'Ram Jhula es el puente colgante de hierro que une Swarg Ashram con Shivananda Nagar cruzando el Ganges en Rishikesh, abierto las 24 horas y de cruce gratuito. 4.6★ (34,132 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ram Jhula es el puente colgante de hierro que une Swarg Ashram con Shivananda Nagar cruzando el Ganges en Rishikesh, abierto las 24 horas y de cruce gratuito. Ve al amanecer (antes de las 7am) o después de las 8pm para evitar el intenso tráfico de peatones, motos y vacas que congestiona el puente al mediodía. Reserva entre 45 minutos y una hora para cruzarlo con calma, recorrer los ghats y presenciar el Ganga Aarti nocturno cerca de allí.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: El ghat de Parmarth Niketan para el Ganga Aarti nocturno, las librerías y cafés de Swarg Ashram, y el puente Lakshman Jhula, unos 3 km río arriba.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Ram Jhula es importante
 

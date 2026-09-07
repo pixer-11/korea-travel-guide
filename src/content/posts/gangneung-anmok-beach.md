@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Anmok Beach isn't Gangneung's most dramatic coastline, but it's the one everyone ends up at anyway. The draw isn't the water — it's the wide band of pale sand backed by a road of glass-fronted coffee shops, each with a deck angled toward the East Sea. You come here to walk, drink something, and watch the horizon do its thing.

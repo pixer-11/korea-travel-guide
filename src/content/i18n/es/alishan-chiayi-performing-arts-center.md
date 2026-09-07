@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-chiayi-performing-arts-center
-srcHash: 'bf9031f6b8f0'
+srcHash: '11cd66b702d9'
 title: 'Centro de Artes Escénicas de Chiayi: Guía de viaje (4,4★)'
 description: 'El Centro de Artes Escénicas de Chiayi se encuentra en el municipio de Minxiong, a poca distancia en coche al norte de la ciudad de Chiayi. 4,4★ (3.661 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Centro de Artes Escénicas de Chiayi se encuentra en el municipio de Minxiong, a poca distancia en coche al norte de la ciudad de Chiayi. Abre de lunes a viernes de 8:00 a 17:00 y permanece cerrado los fines de semana, así que conviene organizarse en función de eso si se quiere ver el interior; el exterior de hormigón esculpido y los jardines, en cambio, pueden admirarse en cualquier momento al pasar por allí. Basta con dedicarle entre 30 y 45 minutos, salvo que coincida con alguna función, en cuyo caso conviene consultar la programación y reservar con antelación.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Casa Encantada de Minxiong (la antigua Residencia de Minxiong) está a poca distancia en coche, y la ciudad de Chiayi, con sus mercados nocturnos y la estación del Ferrocarril Forestal de Alishan, queda lo bastante cerca como para combinarla en la misma jornada.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué merece una parada
 

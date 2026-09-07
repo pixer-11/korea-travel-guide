@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Nambu Market is worth the walk
 
 You smell it before you see it. Fermenting soybean paste, grilling mackerel, sugar syrup bubbling for hotteok — the air outside Pungnammun Gate is already telling you what's inside.

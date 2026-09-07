@@ -82,8 +82,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel Golconda before you see all of it. From the ticket gate near the Fateh Darwaza, the "Victory Gate," the path angles up through a scatter of studded iron doors designed to stop war elephants, and the granite underfoot is already worn smooth by six centuries of footsteps. Stand under the dome just inside the gate and clap once — the sound is engineered to ricochet up through the structure to the Bala Hissar pavilion nearly a kilometre away and 130 metres higher, the fort's original early-warning system for approaching danger or a royal arrival. Guides still demonstrate it constantly, and it never stops sounding slightly impossible.
 
 ## Why Golconda matters

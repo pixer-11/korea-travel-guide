@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ha-long-bay-halong-bay
-srcHash: 'f06a63b8920d'
+srcHash: '2c1ee1a7de99'
 title: 'Bahía de Ha Long: guía de viaje'
 description: La bahía de Ha Long es el tramo del golfo de Tonkín salpicado de formaciones kársticas frente a Bai Chay, en Quang Ninh, y la forma habitual de conocerla es mediante un crucero de un día o de una noche desde Ha Long City o Hai Phong.
 quickAnswer: La bahía de Ha Long es el tramo del golfo de Tonkín salpicado de formaciones kársticas frente a Bai Chay, en Quang Ninh, y la forma habitual de conocerla es mediante un crucero de un día o de una noche desde Ha Long City o Hai Phong. La mejor época para visitarla va de octubre a abril, cuando los cielos están más despejados y el mar más en calma; conviene reservar un barco en lugar de intentar verla desde tierra. Si es posible, dedique al menos una noche en el agua, ya que las formaciones kársticas cambian por completo de aspecto al amanecer y al atardecer.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene reservar el crucero con antelación?
     a: Sí, es recomendable reservar con antelación a través de un operador con licencia, en lugar de contratar a un vendedor callejero, y confirmar desde qué puerto (Tuan Chau o Ha Long City) zarpa el barco.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Qué es realmente este lugar
 

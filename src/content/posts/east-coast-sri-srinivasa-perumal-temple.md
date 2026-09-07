@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Walk up Serangoon Road from Little India MRT and the temple announces itself long before the entrance: a five-tiered gopuram crowded with painted deities, stacked in tiers of blue, gold and red against the low shophouse skyline around it. Founded in 1855, it's dedicated to Vishnu in his form as Perumal, and it remains one of the oldest and most active Hindu temples in Singapore.
 
 ## Getting oriented on Serangoon Road

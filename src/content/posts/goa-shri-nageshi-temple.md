@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shri Nageshi Temple isn't a ruin you view from behind a rope — it's a working shrine that has been in continuous use since well before the Portuguese arrived in Goa. The current structure dates to the 15th–16th century, one of the few temples in the Ponda "temple belt" that survived the colonial-era destruction of Hindu sites along the coast.

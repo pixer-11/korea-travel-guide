@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the fort before you spot the sign. A squat, sand-coloured tower with crenellated edges rises over Old Town's low rooftops, looking less like a museum and more like what it actually is — a fortified palace that housed the ruling Al Qawasim family until the 1960s.
 
 That history is the whole point of a visit here. The structure was rebuilt after British naval forces attacked it in 1820, and the repairs are visible if you know where to look: patched coral-stone walls, a watchtower angled for sightlines over the creek and the sea beyond.

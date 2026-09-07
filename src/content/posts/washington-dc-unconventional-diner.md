@@ -50,8 +50,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this place stands out
 
 Unconventional Diner isn't trying to be a greasy-spoon diner or a white-tablecloth bistro. It's both, spliced together.

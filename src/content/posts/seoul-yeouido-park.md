@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Yeouido Park
 
 You come out of the subway stairwell and the first thing that hits you is the sky opening up — after the density of central Seoul, this stretch of Yeouido feels almost improbably wide. Yeouido Park runs roughly a kilometer along the island's northern edge, a former plaza-turned-greenway that the city planted over in 1999 after decades as a paved square used for military parades and National Assembly rallies.

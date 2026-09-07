@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nusa-penida-diamond-beach
-srcHash: '6ac4efc2c360'
+srcHash: '92a25ccabe8f'
 title: 钻石海滩（Diamond Beach）：努沙佩尼达（Nusa Penida）旅行指南（4.7★）
 description: 钻石海滩（Diamond Beach）位于努沙佩尼达（Nusa Penida）东南海岸佩珠库坦村（Pejukutan village）附近，需沿着峭壁上凿出的陡峭阶梯（约300余级台阶）而下，抵达白沙碧水的海滩。4.7★（9,580条评价）——游客怎么说、开放时间及实用建议。
 quickAnswer: 钻石海滩（Diamond Beach）位于努沙佩尼达（Nusa Penida）东南海岸佩珠库坦村（Pejukutan village）附近，需沿着峭壁上凿出的陡峭阶梯（约300余级台阶）而下，抵达白沙碧水的海滩。每天早上6点至晚上6点开放；建议开门即到或下午3点后前往，以避开上午10点到下午3点的周末人潮高峰。算上下行、海滩游玩和爬回上方的时间，建议预留半天时间。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点？
     a: 阿图海滩（Atuh Beach）和千岛观景台（Thousand Islands viewpoint）就在附近，由于共用同一条主要通道和停车区域，游客常常会将它们安排在同一次行程中一起游览。
 ---
-
-> **本指南制作说明：** 编辑审核，AI辅助生成。信息来源于Google Places实时数据，图片均为授权使用或公共版权图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

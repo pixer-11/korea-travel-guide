@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-bayon-temple
-srcHash: 'bd22d0e26100'
+srcHash: 'dbbca49d9355'
 title: 'Templo de Bayon: Guía de Viaje de Siem Reap (4,8★)'
 description: 'El templo de Bayon se encuentra en el centro exacto de Angkor Thom, en Siem Reap, y abre todos los días de 7:30 a 17:30; es uno de los monumentos más visitados del complejo de Angkor, así que conviene evitar la aglomeración de fin de semana entre las 9:00 y las 16:00. 4,8★ (14.729 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Bayon se encuentra en el centro exacto de Angkor Thom, en Siem Reap, y abre todos los días de 7:30 a 17:30; es uno de los monumentos más visitados del complejo de Angkor, así que conviene evitar la aglomeración de fin de semana entre las 9:00 y las 16:00. Reserve entre 60 y 90 minutos para recorrer las terrazas superiores, donde las más de 200 caras de piedra captan la luz de una forma especial. Las primeras horas de la mañana o la hora previa al cierre son los mejores momentos para encontrar menos gente y una luz más suave.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Bayon se encuentra dentro de Angkor Thom, a poca distancia a pie de la Terraza de los Elefantes, la Terraza del Rey Leproso y el templo de Baphuon, todos dentro del mismo recinto amurallado.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Bayon detiene a la gente en seco
 

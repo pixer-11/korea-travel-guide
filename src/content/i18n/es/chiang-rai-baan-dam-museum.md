@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-rai-baan-dam-museum
-srcHash: 'ca4885e90ff2'
+srcHash: '7b941bfd3cc4'
 title: 'Museo Baan Dam: Guía de viaje de Chiang Rai (4,1★)'
 description: El Museo Baan Dam (la "Casa Negra") se encuentra a unos 13 km al norte de la ciudad de Chiang Rai, en Nang Lae, y lo ideal es visitarlo justo al abrir en lugar de por la tarde, cuando la afluencia de fin de semana alcanza su punto máximo entre la 1 pm y las 4 pm. 4,1★ (13.854 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo Baan Dam (la "Casa Negra") se encuentra a unos 13 km al norte de la ciudad de Chiang Rai, en Nang Lae, y lo ideal es visitarlo justo al abrir en lugar de por la tarde, cuando la afluencia de fin de semana alcanza su punto máximo entre la 1 pm y las 4 pm. Calcula entre 1,5 y 2 horas para recorrer sus aproximadamente 40 estructuras de madera de teca oscura, llenas de huesos de animales, pieles y tallas del difunto Thawan Duchanee. Combínalo con el Wat Rong Khun (Templo Blanco), en la misma carretera, para completar una excursión de medio día.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reservar entradas con antelación?
     a: No es necesario reservar con antelación; la entrada se paga en la puerta a la llegada. Lleva efectivo por si el pago con tarjeta no está disponible.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 La carretera que sale de la ciudad de Chiang Rai hacia Nang Lae es llana y verde, bordeada de huertos de longan, y no deja entrever lo que se avecina. Entonces giras hacia un recinto y aparece entre los árboles la primera silueta de un tejado negro: empinado, con aire de templo, pero de algún modo fuera de lugar, demasiado severo para ser un wat de verdad.
 

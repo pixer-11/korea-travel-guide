@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Saint-Sernin for scale. Nothing else in Toulouse prepares you for the sheer length of its nave — over 100 metres of pink brick and stone vaulting, built to funnel medieval pilgrims toward Santiago de Compostela.

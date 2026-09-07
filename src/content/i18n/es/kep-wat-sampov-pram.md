@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kep-wat-sampov-pram
-srcHash: '481b2476a963'
+srcHash: 'd9b4a9e021d7'
 title: 'Wat Sampov Pram: guía de viaje de Kep (4,5★)'
 description: 'Wat Sampov Pram es un templo budista situado en una colina a las afueras de Kep, Camboya; conviene visitarlo temprano por la mañana o al final de la tarde, cuando el calor afloja y la luz ilumina las estupas. 4,5★ (671 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: Wat Sampov Pram es un templo budista situado en una colina a las afueras de Kep, Camboya. Lo mejor es visitarlo temprano por la mañana o al final de la tarde, cuando hace más fresco, la luz ilumina las estupas y la subida no se convierte en un suplicio bajo el calor. Es una parada poco conocida si se compara con el mercado de cangrejos o el parque nacional de Kep, así que es probable que tengas el recinto casi para ti solo durante buena parte de la visita. Calcula entre 30 y 60 minutos, más unos minutos de silencio extra si algún monje anda por allí.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento del día para ir?
     a: Conviene ir antes de las 9:00 o después de las 16:00, cuando las temperaturas son más bajas y la luz favorece las fotos. También se puede visitar al mediodía, aunque entonces hay pocos rincones con sombra.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

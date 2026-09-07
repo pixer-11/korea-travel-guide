@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the trees first, the history second — though the second is the reason the first matters. Twenty-eight live oaks, planted in the early 1700s, form a canopy so dense the sunlight breaks into moving coins on the dirt path beneath them. At the end of that alley stands a white-columned mansion that has become one of the most photographed buildings in Louisiana.

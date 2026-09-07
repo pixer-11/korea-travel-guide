@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-victoria-peak-lookout-point
-srcHash: '3de06a5daa78'
+srcHash: '2083d4019d6f'
 title: 'Mirador de Victoria Peak: guía de viaje de Hong Kong'
 description: El Mirador de Victoria Peak permanece abierto las 24 horas, así que puede disfrutar de la puesta de sol, el perfil urbano de noche o un amanecer tranquilo sobre el puerto de Hong Kong sin preocuparse por horarios de cierre.
 quickAnswer: 'El Mirador de Victoria Peak permanece abierto las 24 horas, así que puede disfrutar de la puesta de sol, el perfil urbano de noche o un amanecer tranquilo sobre el puerto de Hong Kong sin preocuparse por horarios de cierre. En lugar de hacer cola en las taquillas abarrotadas de Sky Terrace, diríjase a este mirador al aire libre cerca de la cima: es más tranquilo, gratuito y igual de espectacular. Vaya en una tarde despejada, unos 30-45 minutos antes del anochecer, para captar la mejor luz sobre los rascacielos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Calcule aproximadamente una hora si recorre todo el circuito de Lugard Road/Harlech Road, o de 15 a 20 minutos si solo quiere echar un vistazo rápido al mirador principal.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

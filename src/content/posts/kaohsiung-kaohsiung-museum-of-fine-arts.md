@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Kaohsiung Museum of Fine Arts for more than the galleries. The building sits inside a 41-hectare park of lakes, lawns and shade trees, so the art experience spills outside the walls before you even step in.

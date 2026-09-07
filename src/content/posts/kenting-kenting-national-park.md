@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kenting was Taiwan's first national park, and it still feels like the island's outdoor decompression chamber. Sun-bleached coral cliffs drop into turquoise water on one side; a limestone plateau of grassland and wind-bent forest rises on the other. You come here for the contrast — beach town energy in Kenting village, near-silence twenty minutes up the road.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: verona-torre-dei-lamberti
-srcHash: 'e7d4618aee98'
+srcHash: '8a57097c6f33'
 title: 'Torre dei Lamberti: Guía de viaje de Verona (4,5★)'
 description: 'La Torre dei Lamberti es la torre medieval más alta de Verona, justo al lado de la Piazza delle Erbe, con ascensor y escaleras hasta dos niveles de miradores sobre los tejados de terracota. 4,5★ (3.954 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La Torre dei Lamberti es la torre medieval más alta de Verona, justo al lado de la Piazza delle Erbe, con ascensor y escaleras hasta dos niveles de miradores sobre los tejados de terracota. Ve un día entre semana entre las 10:00 y las 11:00 para encontrar la plataforma más vacía, y evita las tardes de fin de semana (de 12:00 a 19:00), que son las que más gente atraen. Reserva alrededor de una hora, incluyendo la subida y el tiempo arriba.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay ascensor o hay que subir por las escaleras?
     a: Existen ambas opciones. Puedes subir en ascensor y bajar por las escaleras (o al revés) para ver las vistas por las estrechas ventanas a lo largo de la escalera sin tener que hacer la subida completa dos veces.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 La ves antes de llegar a ella: un fuste de ladrillo que se eleva muy por encima de todos los tejados alrededor de la Piazza delle Erbe, con su tramo superior hecho de una piedra distinta, más pálida, de un siglo posterior. Ese desajuste es la primera pista de su historia: comenzada en 1172, terminada a trompicones a lo largo de 300 años.
 

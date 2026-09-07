@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why bother with a zoo you've never heard of
 
 You won't find this place on many "top Hong Kong attractions" lists, and that's exactly its appeal. It's a genuine slice of colonial-era Central, tucked on the slope above Garden Road, doing exactly what it was built to do since 1864: give office workers, dog walkers and elderly tai chi groups a patch of green to breathe in.

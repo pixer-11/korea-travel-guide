@@ -57,8 +57,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Carmelo pulls a crowd
 
 You spot Carmelo before you reach it — strings of lights, painted signage, and windows fogged faintly from the kitchen heat spilling onto Rue Neuve. Step inside and the room keeps unfolding: it's not one dining room but several, each papered, tiled, and hung with a different accumulation of trinkets, vintage posters, and mismatched lamps, the kind of layered décor that looks assembled over years rather than designed in a weekend.

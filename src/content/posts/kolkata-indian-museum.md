@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Founded in 1814, the Indian Museum is the oldest museum in Asia and one of the largest in the world. Its scale alone is worth the visit — six galleries spread across two floors circling a leafy central courtyard, each one a rabbit hole of Indian natural and cultural history.

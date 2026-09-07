@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kobe-kobe-harborland
-srcHash: '9b0c2e641a0d'
+srcHash: 'cea41764b201'
 title: 'Kobe Harborland: Guía de viaje (4.3★)'
 description: 'Kobe Harborland es un distrito de tiendas y restaurantes junto al mar, construido alrededor de la antigua estación ferroviaria de Kobe. Lo mejor es visitarlo a última hora de la tarde, para poder comprar antes del anochecer y luego ver cómo se encienden las luces del puerto. 4.3★ (11.900 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kobe Harborland es un distrito de tiendas y restaurantes junto al mar, construido alrededor de la antigua estación ferroviaria de Kobe. Conviene visitarlo a última hora de la tarde, para aprovechar las compras antes del anochecer y luego disfrutar de las luces del puerto al encenderse. Las tiendas y centros comerciales abren de 10:00 a 21:00 todos los días, aunque muchos restaurantes cierran más tarde. Al ser un lugar muy concurrido, conviene ir entre semana o llegar antes del mediodía los fines de semana para evitar las aglomeraciones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es Kobe Harborland un buen lugar para probar la carne de Kobe?
     a: 'Sí: alrededor de la zona de Mosaic se concentran varios restaurantes de teppanyaki y steakhouses, desde menús de almuerzo informales hasta experiencias completas de cena. Para las cenas de fin de semana, conviene reservar con antelación.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

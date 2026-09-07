@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the only Frank Lloyd Wright building open to the public in Los Angeles, and it's a UNESCO World Heritage Site to boot. Built between 1919 and 1921 for oil heiress Aline Barnsdall, the house was meant as the centerpiece of an arts complex that never fully materialized.

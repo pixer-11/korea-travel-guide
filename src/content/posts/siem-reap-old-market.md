@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The corrugated roof of Psar Chas has covered this stretch of Pokambor Avenue for over a century, and it still runs on the same rhythm it always has. Locals come at dawn for fish and vegetables. Tourists drift in later for silk scarves and pepper.
 
 ## Why it's worth your time

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hualien-hualien-cultural-and-creative-industries-park
-srcHash: '3ae078ec0d94'
+srcHash: '1a2b373fd045'
 title: 'Parque de las Industrias Culturales y Creativas de Hualien: Guía de viaje'
 description: 'El Parque de las Industrias Culturales y Creativas de Hualien reúne antiguos almacenes de una destilería de la era japonesa, de principios del siglo XX, hoy convertidos en galerías de ladrillo rojo, tiendas de artesanía y cafés de aire industrial en pleno centro de la ciudad de Hualien. 4.1★ (12.815 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque de las Industrias Culturales y Creativas de Hualien reúne antiguos almacenes de una destilería de la era japonesa, de principios del siglo XX, hoy convertidos en galerías de ladrillo rojo, tiendas de artesanía y cafés de aire industrial en pleno centro de la ciudad de Hualien. Abre de martes a domingo, de 10:00 a 18:00 (cerrado los lunes), y la entrada es gratuita. Los fines de semana, entre las 11:00 y las 18:00, es cuando más gente hay, así que conviene ir un día laborable por la mañana si es posible.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre 1,5 y 2 horas, si se quiere entrar de verdad en las tiendas y galerías en lugar de solo pasear entre los edificios.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

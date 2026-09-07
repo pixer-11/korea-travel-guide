@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-summer-palace
-srcHash: 'ccb6d23a8971'
+srcHash: '72613dfb1fea'
 title: 'Palacio de Verano: Guía de viaje de Pekín'
 description: 'Dedica al Palacio de Verano toda una mañana y parte de la tarde: entra por la Puerta Este (Dongong Men), recorre el Corredor Largo, sube a la Torre del Incienso Búdico en la Colina de la Longevidad y cierra el circuito bordeando el Lago Kunming.'
 quickAnswer: 'Dedica al Palacio de Verano toda una mañana y parte de la tarde: entra por la Puerta Este (Dongong Men), recorre el Corredor Largo, sube a la Torre del Incienso Búdico en la Colina de la Longevidad y cierra el circuito bordeando el Lago Kunming. Es un lugar muy popular (4.6 de valoración con casi 10,000 reseñas), así que conviene llegar justo a la apertura o después de las 3pm para evitar las peores aglomeraciones, calculando un mínimo de 3-4 horas.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Las ruinas del Antiguo Palacio de Verano (Yuanmingyuan) están a poca distancia y combinan bien con una visita al Palacio de Verano, y los campus de la Universidad de Pekín y la Universidad de Tsinghua también quedan cerca, en el distrito de Haidian.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes de entender nada de su historia, ya se percibe la magnitud del lugar. Tras cruzar la Puerta Este del Palacio, la multitud avanza por una sucesión de patios —las antiguas salas de recepción de la Emperatriz Viuda Cixi, todas en madera oscura y columnas rojas— y entonces el camino se abre hacia el Lago Kunming, y de golpe toda la lógica del Palacio de Verano se revela: la colina a un lado, el agua al otro, y 300 acres de pabellones, puentes y galerías cubiertas entrelazados entre ambos.
 

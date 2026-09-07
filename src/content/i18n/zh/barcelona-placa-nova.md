@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-placa-nova
-srcHash: '273a17c19727'
+srcHash: '0de6e857fdb6'
 title: 新广场（Plaça Nova）：巴塞罗那旅行指南
 description: 新广场（Plaça Nova）是一座点缀着棕榈树的小广场，正好位于巴塞罗那中世纪城墙与哥特区（Gothic Quarter）的交汇处，夹在大教堂与主教桥街（Carrer del Bisbe）之间。
 quickAnswer: 新广场（Plaça Nova）是一座点缀着棕榈树的小广场，正好位于巴塞罗那中世纪城墙与哥特区（Gothic Quarter）的交汇处，夹在大教堂与主教桥街（Carrer del Bisbe）之间。这里15–20分钟就能逛完，最佳时段是清晨、趁大教堂人潮尚未涌出之前前往，也很适合顺路沿主教桥街走到圣哈梅广场（Plaça Sant Jaume）。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些值得一并游览的地方？
     a: 可以沿主教桥街（Carrer del Bisbe）走到圣哈梅广场（Plaça Sant Jaume），欣赏更多哥特区建筑；也可以走进巴塞罗那大教堂，其正门就正对着这座广场。
 ---
-
-> **本指南制作说明：** 经编辑审核，并借助AI辅助完成。相关信息来自Google Places实时数据，图片均为授权使用或公共领域作品。详见我们的[编辑政策](/about)。
 
 ## 为什么新广场（Plaça Nova）值得绕道一看
 

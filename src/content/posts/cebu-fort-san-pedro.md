@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fort San Pedro is the oldest and smallest triangular fort in the Philippines, and standing inside its thick coral-stone walls is the closest you'll get to the Cebu that Spanish colonizers built from scratch in the 1700s. The current structure dates to 1738, though the site itself traces back to 1565, when Miguel López de Legazpi's expedition first fortified this stretch of coastline.

@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Mitaki Temple is worth the detour
 
 Most visitors spend their Hiroshima day between the Peace Memorial Park and Itsukushima Shrine and never make it up the hill to Mitaki-ji, which is exactly why it feels so different when you do. The name means "three waterfalls," and that's the first thing you register once you're past the gate: the sound of falling water threading through cedar and maple, echoing off wet rock.

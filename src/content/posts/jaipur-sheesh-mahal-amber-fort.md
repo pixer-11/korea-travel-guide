@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sheesh Mahal stops people mid-step
 
 You walk through a series of plain sandstone courtyards at Amber Fort, then step into a room lined entirely in glass. Every wall, every ceiling panel, every niche is inlaid with thousands of convex mirror fragments and coloured glass set into white plaster.

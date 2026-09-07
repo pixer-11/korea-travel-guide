@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up the long, floodlit driveway of Rambagh Palace past clipped hedges and a fountain that used to greet Jaipur's royal family, and by the time a turbaned doorman swings open the heavy wooden door, you already understand this isn't going to be a quick curry-and-rice stop. Suvarna Mahal sits inside the palace itself — Rambagh was the maharaja's home before it became a Taj hotel — and the dining room was once used for state banquets.
 
 The ceilings are high and gilded, the chairs are upholstered like a durbar hall, and a small ensemble of musicians often plays live Indian classical music in the corner while you eat, so the room hums rather than clatters.

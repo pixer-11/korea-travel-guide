@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is where Turkish art history actually lives, not just a stop on a checklist. The Ankara Painting and Sculpture Museum holds the country's oldest state-run collection of modern Turkish art, tracing painters and sculptors from the late Ottoman era through the founding decades of the Republic.

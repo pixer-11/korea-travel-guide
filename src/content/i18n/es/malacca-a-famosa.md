@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malacca-a-famosa
-srcHash: 'd3f21ccae18f'
+srcHash: '6e4532167536'
 title: 'A Famosa: Guía de viaje de Malaca'
 description: Junto a la colina de San Pablo, en Jalan Kota (Banda Hilir), se alza la puerta de Porta de Santiago, el único vestigio en pie de A Famosa. Queda a solo cinco minutos a pie del Stadthuys y de la Christ Church, así que lo mejor es visitarla junto con ellos en lugar de como parada aislada.
 quickAnswer: Junto a la colina de San Pablo, en Jalan Kota (Banda Hilir), se alza la puerta de Porta de Santiago, el único vestigio en pie de A Famosa. Queda a solo cinco minutos a pie del Stadthuys y de la Christ Church, así que lo mejor es visitarla junto con ellos en lugar de como parada aislada. Con más de 19.500 reseñas y una calificación de 4.4, es uno de los sitios más visitados de Melaka, por lo que conviene ir a la hora de apertura o a última hora de la tarde para evitar tanto la avalancha de autobuses turísticos como el calor del mediodía. Con quince o veinte minutos basta para ver la ruina en sí, pero si se suma la subida a la colina y las visitas a los museos de alrededor, conviene reservar medio día.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La iglesia de San Pablo está justo en la colina detrás de la puerta, y el Stadthuys, la Christ Church y Jonker Street quedan todos a menos de 10 minutos caminando.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

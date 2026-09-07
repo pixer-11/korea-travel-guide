@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come out of the crush of the Eastern Gate — the ticket queues, the touts selling marble elephants, the cycle-rickshaws jostling for space — and within a few minutes' walk you're climbing a staircase into something entirely different: a rooftop lit by candles, white tablecloths catching the flicker, and somewhere off to the side, a musician working through a set of instrumental ragas on a sitar or harmonium.
 
 Taj Terrace sits atop Hotel Taj Resorts in Tajganj, the old pilgrim-and-artisan quarter that grew up around the monument centuries ago, and on a clear night you can see the minarets and the curve of the dome from your table.

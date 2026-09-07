@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Central Park isn't a garden bolted onto Manhattan — it's 843 acres carved out of the island before the city grew up around it, and that inversion still shapes how it feels. You step off Fifth Avenue or Central Park West, past a low stone wall, and the traffic noise drops away within a few dozen steps. Frederick Law Olmsted and Calvert Vaux designed it in the 1850s and 60s to give a fast-growing, brick-and-stone city something it didn't have: open sky, water, and winding paths with no straight lines.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sen-monorom-tuol-sleng-genocide-museum
-srcHash: 'd1e73b844e23'
+srcHash: 'b59deef52cd0'
 title: 'Museo del Genocidio de Tuol Sleng: guía de viaje de Phnom Penh (4,6★)'
 description: 'El Museo del Genocidio de Tuol Sleng se encuentra en el centro de Phnom Penh, en la calle 113, dentro del barrio de Boeng Keng Kang. Valoración de 4,6★ (12.141 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo del Genocidio de Tuol Sleng se encuentra en el centro de Phnom Penh, en la calle 113, dentro del barrio de Boeng Keng Kang de la capital. Abre todos los días de 8:00 a 17:00, y el momento con menos gente es entre las 8:00 y las 9:00, antes de que lleguen los autobuses turísticos a media mañana. Conviene reservar entre 1,5 y 2,5 horas para la visita y combinarla el mismo día con los Campos de la Muerte de Choeung Ek.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se puede visitar cerca después?
     a: Muchos visitantes combinan el museo con los Campos de la Muerte de Choeung Ek (a unos 40 minutos), contratando el mismo tuk-tuk, y luego se relajan en la ribera del Tonlé Sap o en la zona del Palacio Real, de vuelta en el centro de Phnom Penh.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitar este lugar, y por qué resulta difícil
 

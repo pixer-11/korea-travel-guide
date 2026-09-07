@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 South Gate Angkor Thom is the most photogenic way into Cambodia's greatest walled city. You approach along a causeway flanked by two rows of enormous stone figures, gods on one side, demons on the other, hauling the body of a giant serpent in a tug-of-war frozen in sandstone. Above the gate itself, a four-faced tower stares down every direction at once, the same serene, slightly smiling expression that repeats across the Bayon deeper inside.

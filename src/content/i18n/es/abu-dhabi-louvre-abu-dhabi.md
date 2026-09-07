@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-louvre-abu-dhabi
-srcHash: '8e023f3eda2d'
+srcHash: '6769df66bb1b'
 title: 'Louvre Abu Dabi: Guía de Viaje (4.7★)'
 description: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. 4.7★ (39.594 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. Conviene llegar justo a las 10:00 en fin de semana para aprovechar la franja más tranquila, de 10:00 a 12:00, antes de que el museo se llene.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene reservar las entradas con antelación?
     a: 'Sí: reservar en línea una entrada con horario asignado antes de la visita es la práctica habitual, ya que permite evitar la cola de venta de entradas, que puede ser larga los fines de semana.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

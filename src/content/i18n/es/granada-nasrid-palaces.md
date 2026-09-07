@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: granada-nasrid-palaces
-srcHash: '8b2e78d25991'
+srcHash: 'c5dbb1d68b35'
 title: 'Palacios Nazaríes: Guía de viaje de Granada (4,9★)'
 description: Los Palacios Nazaríes son el corazón de la Alhambra de Granada, la residencia real del siglo XIV de los sultanes nazaríes, famosa por el Patio de los Leones, el Patio de los Arrayanes y sus techos cubiertos de yeserías talladas y paredes alicatadas. 4,9★ (33.116 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Los Palacios Nazaríes son el corazón de la Alhambra de Granada, la residencia real del siglo XIV de los sultanes nazaríes, famosa por el Patio de los Leones, el Patio de los Arrayanes y sus techos cubiertos de yeserías talladas y paredes alicatadas. Necesitas una entrada con horario reservado con bastante antelación, idealmente con semanas de margen, y debes llegar a la media hora exacta impresa en tu entrada. Ve justo a la apertura o en los primeros turnos de la mañana si puedes: los palacios están más tranquilos en la franja de las 8 de la mañana, antes de la avalancha de entre las 11h y las 18h que llena los patios los fines de semana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego a la entrada de la Alhambra desde el centro de Granada?
     a: Sube caminando desde Plaza Nueva por la Cuesta de Gomérez (unos 20-25 minutos, cuesta arriba), o toma el minibús C3 desde Plaza Nueva o Plaza Isabel la Católica, que para cerca de la puerta principal.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Entras por una sencilla puerta de piedra que da a un camino de grava, pasas junto a un guardia que compara las entradas con los pasaportes, y el ruido de los jardines de la Alhambra desaparece. Dentro, la sala del Mexuar está en penumbra y fresca, con su techo de madera ennegrecido por el paso del tiempo, y tardas un segundo en acostumbrar la vista antes de reparar en las inscripciones que recorren las paredes: bandas repetidas de caligrafía árabe que dicen, una y otra vez, "No hay más vencedor que Dios".
 

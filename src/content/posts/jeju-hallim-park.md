@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Hallim Park is worth the drive
 
 You come to Hallim Park for something Jeju does better than almost anywhere else: volcanic caves you can actually walk into. The park strings together Hyeopjaegul and Ssangyonggul lava tubes, a subtropical garden, a small zoo, a folk village and a bonsai garden along one looping path.

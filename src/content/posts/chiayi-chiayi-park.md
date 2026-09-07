@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chiayi Park isn't just a green lung for the city — it's a layered timeline. Japanese colonial-era shrine ruins sit beside modern fountains, a Confucius temple, and a botanical garden feel that shifts block by block.

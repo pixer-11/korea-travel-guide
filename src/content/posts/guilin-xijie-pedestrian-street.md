@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Xijie isn't a manufactured "old street" — it genuinely is one. Records place a market here since the Sui dynasty, and the current stone-paved lane still runs past centuries-old brick facades, now filled with tea shops, bakeries and bars instead of rice merchants.

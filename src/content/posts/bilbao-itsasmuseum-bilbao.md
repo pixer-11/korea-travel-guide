@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You reach it by following the river, not a street sign. Walk south along the Ría de Bilbao past the Guggenheim's titanium curves, past the Deusto footbridge, and the buildings start to change character — glass towers give way to cranes, dry docks, and rusted ironwork left exactly where the shipwrights left it. This is the old Euskalduna shipyard, once one of the busiest builders of steel-hulled ships on Spain's Atlantic coast, and it's where Itsasmuseum makes its home.
 
 The setting does half the storytelling before you've bought a ticket. Outside, the museum spills into an open-air dry dock — a genuine graving dock you can walk down into, its concrete walls rising around you the way they once rose around hulls under construction. Tugboats and fishing vessels sit in dry berth at odd, dramatic angles, close enough to touch the rivets. It's a strange, quiet feeling to stand at the bottom of a dock built for ships and realize you're now standing where the waterline used to be.

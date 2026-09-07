@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You reach it by crossing the Genil river south of the old town, past the university faculties and the leafy Paseo del Salón, until a low white-and-glass complex opens up with its distinctive angular tower jutting above the treeline. That tower is your landmark from most of southern Granada — a 50-metre observation deck that on a clear day lines up the red-tiled rooftops of the Albaicín against the snow-streaked ridge of the Sierra Nevada.
 
 Before you've even bought a ticket, the building itself signals what's inside: this isn't a museum of glass cases and wall text, it's a place designed for touching, cranking, and testing things with your own hands.

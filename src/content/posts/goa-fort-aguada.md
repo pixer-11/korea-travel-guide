@@ -81,8 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The laterite walls of Fort Aguada rise up in blunt, weathered blocks the colour of dried rust, and the first thing you register as you crest the hill is the sheer scale of the thing — this was built in 1612 by the Portuguese to guard the mouth of the Mandovi River against Dutch and Maratha raids, and it still reads as a serious piece of military engineering rather than a decorative ruin.
 
 You walk in past a dry moat cut straight into the rock, and the bastions still show the sightlines the gunners would have used to track ships coming up from the Arabian Sea.

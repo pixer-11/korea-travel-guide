@@ -55,8 +55,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't plan a special trip for this monument — you walk past it on the way to somewhere else, and then you stop.

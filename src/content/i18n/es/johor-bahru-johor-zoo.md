@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: johor-bahru-johor-zoo
-srcHash: 'f7fdcd9bc2e1'
+srcHash: '77e41b9525e9'
 title: 'Zoológico de Johor: Guía de viaje de Johor Bahru'
 description: El Zoológico de Johor (Johor Zoo) es un pequeño parque zoológico municipal de estilo tradicional en Taman Istana, Johor Bahru, conocido sobre todo por dar de comer a los camellos, los paseos en poni y los botes a pedales, más que por hábitats modernos.
 quickAnswer: El Zoológico de Johor (Johor Zoo) es un pequeño parque zoológico municipal de estilo tradicional en Taman Istana, Johor Bahru, conocido sobre todo por dar de comer a los camellos, los paseos en poni y los botes a pedales, más que por hábitats modernos. Ve un día de semana por la mañana, justo a la apertura, para evitar tanto el calor como las multitudes familiares del fin de semana; calcula entre dos y tres horas, y combínalo con la cercana Mezquita Estatal Sultan Abu Bakar y el Museo Real Abu Bakar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más puedo ver cerca del zoológico?
     a: La Mezquita Estatal Sultan Abu Bakar y el Museo Real Abu Bakar están cerca, en la zona de Istana Gardens, lo que facilita combinar los tres lugares en una sola salida de medio día.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son de licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

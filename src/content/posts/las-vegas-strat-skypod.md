@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors funnel their Strip time between Bellagio's fountains and the Fashion Show Mall, which means the STRAT — planted at the quiet northern tip of Las Vegas Boulevard — gets skipped by people who never look up. That's a mistake. The tower rises higher than almost anything else in the city, and the SkyPod deck wraps around the top with unobstructed views in every direction: the neon spine of the Strip to the south, the dark bulk of the Spring Mountains to the west, and on clear nights, the sprawl of the valley lights stretching out toward the airport.

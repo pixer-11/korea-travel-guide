@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yokohama-yokohama-marine-tower
-srcHash: 'f4e127ad7490'
+srcHash: 'e59ede90cbfd'
 title: 'Torre Marina de Yokohama (Yokohama Marine Tower): Guía de viaje'
 description: La Torre Marina de Yokohama (Yokohama Marine Tower) se alza en el límite del Parque Yamashita, en el distrito de Naka, una antigua torre-faro de 106,2 metros construida en 1961 con un mirador interior/exterior sobre el puerto.
 quickAnswer: La Torre Marina de Yokohama (Yokohama Marine Tower) se alza en el límite del Parque Yamashita, en el distrito de Naka, una antigua torre-faro de 106,2 metros construida en 1961 con un mirador interior/exterior sobre el puerto. Calcula entre 45 y 60 minutos, ve al final de la tarde hasta el anochecer para ver el cambio de luz sobre la bahía, y combínalo con un paseo por el Parque Yamashita o una visita al Hikawa Maru, atracado justo frente a la costa.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena si está nublado?
     a: 'Las vistas del puerto y del parque siguen valiendo la pena, pero si puedes, resérvala para un día más despejado: el principal atractivo es la vista sobre el perfil urbano de Minato Mirai y la bahía, que necesita buena visibilidad para lucir.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Divisas la torre mucho antes de llegar a ella: un esbelto mástil de celosía blanco y rojo que asoma sobre los plátanos de sombra del Parque Yamashita, con un aire de postal salida de los años 60. Y no vas muy desencaminado: la Marine Tower se construyó en 1961 para conmemorar el centenario de la apertura del puerto de Yokohama, y durante años ostentó el título de la estructura de faro más alta del mundo.
 

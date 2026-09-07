@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bukit Larut isn't like Malaysia's other hill resorts. There's no cable car, no theme park, no traffic jam of private cars. Just a single-lane road, jungle pressing in on both sides, and a fleet of aging Land Rovers doing the job they've done since the 1950s.

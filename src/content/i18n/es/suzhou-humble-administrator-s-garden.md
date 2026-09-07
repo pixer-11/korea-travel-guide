@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suzhou-humble-administrator-s-garden
-srcHash: 'a4ecabad5397'
+srcHash: '5f27143b37fb'
 title: 'Jardín del Administrador Humilde: Guía de viaje de Suzhou'
 description: El Jardín del Administrador Humilde (拙政园, Zhuozheng Yuan), en el número 178 de Dong Bei Jie, en el casco antiguo de Suzhou, es el jardín clásico más grande de China y una obra maestra declarada Patrimonio de la Humanidad por la UNESCO.
 quickAnswer: El Jardín del Administrador Humilde (拙政园, Zhuozheng Yuan), en el número 178 de Dong Bei Jie, en el casco antiguo de Suzhou, es el jardín clásico más grande de China y una obra maestra del diseño paisajístico de la dinastía Ming declarada Patrimonio de la Humanidad por la UNESCO. Calcula entre dos y tres horas, llega justo a la apertura para adelantarte a los grupos turísticos, y concéntrate en el Área Central, donde se concentran los mejores pabellones y estanques de loto del jardín. Combínalo con el cercano Museo de Suzhou y el Jardín del Bosque de Leones para dedicar toda una mañana al casco antiguo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Con qué más puedo combinarlo en los alrededores?
     a: El Museo de Suzhou (diseñado por I. M. Pei), el Museo de la Seda de Suzhou y el Jardín del Bosque de Leones están todos a poca distancia a pie, y las callejuelas junto al canal de la calle Pingjiang quedan cerca para después.
 ---
-
-> **Cómo se hizo esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

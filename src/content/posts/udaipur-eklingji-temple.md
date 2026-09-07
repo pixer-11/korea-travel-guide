@@ -55,8 +55,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Eklingji Temple matters
 
 This isn't a ruin or a photo backdrop — it's a living temple the Mewar royal family has worshipped at for over a thousand years. Eklingji, a four-faced black marble form of Shiva, is considered the ruling deity of Udaipur. Even today, the Maharana of Udaipur traditionally visits every Monday, and locals still call him a "diwan" — a mere custodian ruling on the god's behalf.

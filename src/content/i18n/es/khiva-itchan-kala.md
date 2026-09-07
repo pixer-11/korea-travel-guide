@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-itchan-kala
-srcHash: '6f6904490010'
+srcHash: '2fa38884b733'
 title: 'Itchan Kala: Guía de viaje de Jiva (4.7★)'
 description: 'Itchan Kala, la ciudad amurallada del casco antiguo de Jiva (Khiva), abre todos los días de 9am a 7pm y se disfruta mejor temprano: entre las 9am y las 11am es el momento más tranquilo, incluso los fines de semana, antes de que los grupos turísticos llenen las callejuelas a partir del mediodía. 4.7★ (3,862 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Itchan Kala, la ciudad amurallada del casco antiguo de Jiva (Khiva), abre todos los días de 9am a 7pm y se disfruta mejor temprano: entre las 9am y las 11am es el momento más tranquilo, incluso los fines de semana, antes de que los grupos turísticos llenen las callejuelas a partir del mediodía. Reserva entre medio día y un día completo para ver bien el minarete Kalta Minor, la fortaleza Kunya-Ark y el palacio Tosh Hovli. Compra la entrada combinada en una de las puertas en lugar de pagar por cada sitio por separado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debo vestir dentro de Itchan Kala?
     a: Ropa modesta que cubra hombros y rodillas, especialmente cerca de mezquitas y mausoleos. Un calzado cómodo y con buen agarre ayuda para subir las escaleras estrechas del minarete Islom Hoja.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

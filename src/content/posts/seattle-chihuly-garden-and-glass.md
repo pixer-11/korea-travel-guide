@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The first room does the work of convincing you. You walk in through a darkened corridor and the ceiling above you turns into a river of glass — hundreds of blown-glass shapes in amber, cobalt, and blood-orange, backlit so the whole thing glows like something underwater. It's disorienting in a good way. You crane your neck, you slow down, and you realize the rest of the museum is going to ask the same thing of you the whole way through.
 
 ## Why go

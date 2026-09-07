@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bokor Hill Station is a mountaintop leftover from a very different Cambodia. French colonists built it in the 1920s as a cool-air escape from the coastal heat, complete with a casino, church, and grand hotel. War, abandonment, and jungle took over for decades. Today the ruins stand half-restored alongside a modern casino resort, and the contrast between crumbling stone and shiny new construction is the whole reason to make the trip.

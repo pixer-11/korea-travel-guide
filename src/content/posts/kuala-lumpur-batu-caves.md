@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see the statue before you see anything else — a wall of gold rising above the trees as the train slows into Batu Caves station, catching the sun so hard it looks lit from within. This is Lord Murugan, at 42.7 metres one of the tallest statues of a Hindu deity anywhere, and he's been standing guard here since 2006.

@@ -75,8 +75,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most travelers pass through Shakhrisabz for the Timurid ruins and never look up toward the mountains behind them. Zaamin National Park is that mountain range — a stretch of juniper (archa) forest, limestone ridges, and alpine pasture climbing toward the Turkestan range on the Tajikistan border.

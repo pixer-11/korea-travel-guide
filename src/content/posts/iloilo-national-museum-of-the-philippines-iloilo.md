@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a crowded, roped-off museum experience. It's a calm, well-curated walk through Panay's deep past, and you'll likely share the galleries with only a handful of other visitors.

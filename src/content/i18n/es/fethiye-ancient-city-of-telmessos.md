@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fethiye-ancient-city-of-telmessos
-srcHash: '941e1746d6d6'
+srcHash: 'b6352b186430'
 title: 'Ciudad antigua de Telmessos: guía de viaje de Fethiye (4,5★)'
 description: 'Justo encima de la Fethiye actual, tallada en el acantilado sobre Kesikkapı, se encuentra las tumbas rupestres de Telmessos: abren todos los días de 9:00 a 19:30 y se recorren en 30-45 minutos. 4,5★ (966 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Justo encima de la Fethiye actual, talladas en el acantilado sobre Kesikkapı, están las tumbas rupestres de Telmessos: abren todos los días de 9:00 a 19:30 y se recorren fácilmente en 30-45 minutos. Conviene ir un día entre semana por la mañana, de 9:00 a 14:00 (o antes de las 13:00 los fines de semana), para tener casi para uno solo las escalinatas de piedra antes de que lleguen los grupos turísticos y el calor de la tarde.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Anfiteatro de Fethiye y el bazar del casco antiguo están a poca distancia cuesta abajo, así que es fácil combinarlos en una misma salida.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

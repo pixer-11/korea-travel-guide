@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the temperature drop before you even reach the gates. Seville's streets radiate heat off pale stone, but step under the plane trees and palms of Parque de María Luisa and the air thickens with the smell of damp earth, orange blossom, and the mineral tang of fountain spray. Cicadas buzz in the branches. Somewhere a horse-drawn carriage clops past on gravel.
 
 This is not a tidy municipal garden — it's a sprawling, semi-wild green lung on the southern edge of the old city, and it rewards slow wandering more than any checklist.

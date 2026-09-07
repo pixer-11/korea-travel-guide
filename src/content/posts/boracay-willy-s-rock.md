@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Willy's Rock is the single image most people already have of Boracay before they've ever booked a flight: a squat, black volcanic outcrop rising out of turquoise shallows, with a small statue of the Virgin Mary tucked into a shrine niche on its seaward side. It's not a grand monument — it's barely taller than a person standing on the sand beside it — but it anchors Station 1's stretch of White Beach the way a lighthouse anchors a harbor.

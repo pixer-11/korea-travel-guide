@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for one of the oldest Taoist temples in Borneo, tucked between the Sarawak River and the old shophouses of Kuching's Chinatown. The building itself predates much of the modern city around it, and the facade still stops people mid-stride on the waterfront path.

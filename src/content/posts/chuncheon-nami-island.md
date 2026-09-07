@@ -54,8 +54,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step off the ferry and the noise of the mainland just falls away. Nami Island is shaped like a half-moon dropped into the Han River, and its whole reputation rests on a few long, straight avenues of trees — the metasequoia row and the ginkgo lane — planted decades ago and now grown into a cathedral of trunks. This is the island that launched a thousand honeymoon photos after the Korean drama "Winter Sonata" filmed here in 2002, and it still draws couples, school groups, and camera-toting visitors from across Asia in numbers that make it one of Gangwon-do's most-visited attractions.

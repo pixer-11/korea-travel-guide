@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually looking at
 
 Dubai Old Village sits in Al Hamriya, on the Bur Dubai side of the Creek, a cluster of low buildings built from coral stone, gypsum and palm-frond (barasti) roofing. It's a recreation rather than a surviving original quarter, modeled on how Dubai's waterfront looked before the 1966 oil discovery changed everything. Wind towers (barjeel) punctuate the rooflines, an old cooling system that predates air conditioning by centuries.

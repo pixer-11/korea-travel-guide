@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come to Demre for St. Nicholas Church or the rock-cut tombs of Myra, and the Lycian Civilization Museum almost gets treated as an afterthought. That's a mistake. It's a small, purpose-built space, but it does something the open-air sites can't: it explains what you're looking at.
 
 The museum sits in Büyükkum on the outskirts of Demre, roughly an hour's drive east of Kas along the coast road. Most visitors combine it with Myra and the church in a single day trip, and the layout of the town makes that easy — all three are within a few minutes of each other by car or dolmuş.

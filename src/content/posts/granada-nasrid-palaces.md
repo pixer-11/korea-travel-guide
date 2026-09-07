@@ -106,8 +106,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come through a plain stone doorway off a gravel path, past a guard checking tickets against passports, and the noise of the Alhambra's gardens falls away. Inside, the Mexuar hall is dim and cool, its wooden ceiling blackened with age, and it takes a second for your eyes to adjust before you notice the inscriptions running around the walls — repeating bands of Arabic script that read, over and over, "There is no victor but God."
 
 That single phrase, carved into plaster thousands of times across the complex, tells you more about the Nasrid dynasty's precarious 250-year hold on Granada than any placard could.

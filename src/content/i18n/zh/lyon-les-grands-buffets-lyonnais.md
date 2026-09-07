@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-les-grands-buffets-lyonnais
-srcHash: '1c8e41614479'
+srcHash: '5f983aa0ebd0'
 title: 里昂大自助餐厅(Les Grands Buffets Lyonnais)：里昂美食推荐(4.3★)
 description: 里昂大自助餐厅(Les Grands Buffets Lyonnais)位于里昂老城(Vieux Lyon)牛街(Rue du Bœuf)，是一家提供里昂经典美食——熏肉冷盘、肉丸、芝士、烤肉和甜点——的自助餐厅，价格统一。4.3★（4,930条评价）——游客怎么说、营业时间及小贴士。
 quickAnswer: 里昂大自助餐厅(Les Grands Buffets Lyonnais)位于里昂老城(Vieux Lyon)牛街(Rue du Bœuf)，是一家规模庞大的自助餐厅，提供里昂经典美食——熏肉冷盘、肉丸(quenelles)、芝士、烤肉和甜点——统一定价，随吃随取。餐厅周一、周二休息，周三至周六供应午餐和晚餐，周日仅供应午餐。周末从正午到晚上10点都很繁忙，建议开门时间即到店，以获得较为宽松的用餐体验。
@@ -17,8 +17,6 @@ faq:
   - q: 没有车该怎么去？
     a: 乘坐地铁D线到老城圣约翰大教堂站(Vieux Lyon–Cathédrale Saint-Jean)，然后步行几分钟穿过老城街道即可到达牛街(Rue du Bœuf)。
 ---
-
-> **本指南制作说明：** 编辑审校，AI辅助完成。所有信息均取自Google Places实时数据；图片为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

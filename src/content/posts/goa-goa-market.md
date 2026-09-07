@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a market built for tourists. It's the place Panaji actually shops.

@@ -61,8 +61,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Manarat Al Saadiyat matters
 
 Before you even reach Louvre Abu Dhabi, this low white building is where the island's cultural story gets told. "Manarat" means "place of light" in Arabic, and the name fits — the galleries are washed in the kind of even, diffused daylight architects design entire buildings around.

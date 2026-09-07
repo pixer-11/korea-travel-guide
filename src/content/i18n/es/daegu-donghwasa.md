@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: daegu-donghwasa
-srcHash: '4396931c72c6'
+srcHash: 'f5b04ab4acbb'
 title: 'Donghwasa: guía de viaje de Daegu (4,4★)'
 description: 'Donghwasa es un extenso complejo budista situado en las laderas del Palgongsan, en Dong-gu, en el extremo norte de Daegu, célebre por su estatua de Buda de piedra de 30 metros (Seokjoyaksayeoraebulsang). 4,4★ (2.424 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Donghwasa es un extenso complejo budista situado en las laderas del Palgongsan, en Dong-gu, en el extremo norte de Daegu, célebre por su estatua de Buda de piedra de 30 metros (Seokjoyaksayeoraebulsang). Permanece abierto las 24 horas todos los días, aunque los fines de semana, entre las 9:00 y las 18:00, reciben la mayor afluencia de visitantes, así que conviene ir un día de semana por la mañana si se busca tranquilidad. Conviene reservar entre dos y tres horas para recorrer los pabellones del templo, ver el gran Buda y subir en el teleférico del Palgongsan.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Está abierto Donghwasa por la noche?
     a: En teoría, el recinto permanece abierto las 24 horas todos los días, aunque la mayoría de los visitantes acude durante las horas de luz para poder ver bien los pabellones y las estatuas.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué vale la pena visitar Donghwasa
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sharjah-sharjah-museum-of-islamic-civilization
-srcHash: '89784553048f'
+srcHash: 'c06be61cc226'
 title: 'Museo de la Civilización Islámica de Sharjah: guía de viaje (4,6★)'
 description: 'El Museo de la Civilización Islámica de Sharjah se encuentra en la Corniche de Al Mujarrah, cerca del Zoco Azul, y abre todos los días de 8:00 a 20:00 (los viernes solo de 16:00 a 20:00). 4,6★ (6.476 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos.'
 quickAnswer: El Museo de la Civilización Islámica de Sharjah se encuentra en la Corniche de Al Mujarrah, cerca del Zoco Azul, y abre todos los días de 8:00 a 20:00 (los viernes solo de 16:00 a 20:00). Conviene reservar entre 1,5 y 2 horas para recorrer sus dos plantas de manuscritos, astrolabios y cerámicas bajo la cúpula dorada. Es un museo realmente popular, así que lo ideal es ir un día entre semana justo a la apertura, para adelantarse a los grupos de autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo cerca que merezca la pena combinar con la visita?
     a: 'Sí: tanto el Zoco Azul (Souk Al Markazi) como el paseo marítimo de la Corniche de Sharjah están a poca distancia a pie.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

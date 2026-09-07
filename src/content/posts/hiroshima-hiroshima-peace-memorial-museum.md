@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come out of the streetcar or off the bridge and the park opens up green and quiet, and it's hard to reconcile that calm with what you're about to see inside. The Hiroshima Peace Memorial Museum isn't a museum you "enjoy" in the ordinary sense — it's one you sit with. Melted lunchboxes, a child's tricycle, shadows burned into stone steps: the objects do the talking, and they do it without needing much text around them.

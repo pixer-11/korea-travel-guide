@@ -76,8 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 HortPark sits on a sloped stretch of land off Hyderabad Road, wedged between the Alexandra Arch and the start of the Southern Ridges trail system. It doesn't look like a typical Singapore park from the entrance: no single sweeping lawn, but a series of themed garden "rooms" stepped down the hillside, each demonstrating a different landscaping style. That layout is deliberate. This is the National Parks Board's hub for home gardening ideas, and it's built to be walked slowly, plot by plot.
 
 ## Wandering the themed gardens

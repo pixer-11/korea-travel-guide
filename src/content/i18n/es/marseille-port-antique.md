@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-port-antique
-srcHash: 'e5b29417de4f'
+srcHash: 'e63bb2350262'
 title: 'Port Antique: Guía de viaje de Marsella'
 description: El Jardin des Vestiges (Port Antique) es un pequeño parque hundido detrás del centro comercial Centre Bourse, en el primer distrito (1er arrondissement) de Marsella, donde puedes acercarte directamente a las auténticas murallas griegas y a un tramo de calzada romana, todo situado por debajo del nivel de la calle en un tranquilo rincón verde.
 quickAnswer: El Jardin des Vestiges (Port Antique) es un pequeño parque hundido detrás del centro comercial Centre Bourse, en el primer distrito (1er arrondissement) de Marsella, donde puedes acercarte directamente a las auténticas murallas griegas y a un tramo de calzada romana, todo situado por debajo del nivel de la calle en un tranquilo rincón verde. Abre de martes a domingo, de 9:30 a 18:00 (cerrado los lunes), y basta con 20-30 minutos para visitarlo; puedes incluirlo en un paseo desde el Vieux-Port hasta Le Panier. Las tardes de fin de semana son cuando más gente hay, así que empezar más temprano te dejará el lugar más tranquilo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca por si quiero combinarlo con otros lugares?
     a: Está a poca distancia a pie del Vieux-Port, del centro comercial Centre Bourse (que también alberga el Musée d'Histoire de Marseille) y del barrio de Le Panier, por lo que es fácil incluirlo en una ruta de medio día por el casco antiguo de la ciudad.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Bajas un pequeño tramo de escalones desde la Rue Henri Barbusse, pasas junto al costado del centro comercial Centre Bourse, y el ruido del tráfico simplemente desaparece. Abajo tienes un césped hundido salpicado de piedra: una línea curva de enormes bloques de piedra caliza, las rodadas desgastadas de una calzada pavimentada, el muñón de una torre. Visto desde la barandilla de arriba no parece gran cosa, y por eso mucha gente pasa de largo sin fijarse.
 

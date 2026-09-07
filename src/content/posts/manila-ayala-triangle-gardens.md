@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ayala Triangle Gardens is 2.4 hectares of grass, acacia trees, and paved paths wedged between three of Makati's busiest avenues. It's the kind of park you don't expect to find between glass office towers, which is exactly why it works.

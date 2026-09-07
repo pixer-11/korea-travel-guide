@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mui Ne Fishing Village isn't a museum piece — it's a working harbor that happens to be spectacular. Thousands of round, tar-black basket boats (thuyền thúng) crowd the shallows, painted in fading blues and greens, knocking gently against each other on the swell.

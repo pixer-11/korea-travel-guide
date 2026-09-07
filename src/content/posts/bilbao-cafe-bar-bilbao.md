@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Plaza Berria doesn't look like much on a map — a modest square tucked into the grid of Bilbao's Casco Viejo — but Café Bar Bilbao is the reason people detour for it. Push through the door and the room opens up wider than you expect: high ceilings, worn mirrors, tiled floors, wooden fittings gone amber with decades of use.

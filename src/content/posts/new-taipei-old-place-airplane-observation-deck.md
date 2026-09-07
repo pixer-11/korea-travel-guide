@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the deck before you see it: damp earth, crushed leaves, the mineral tang of a hillside forest that never quite dries out. The Jiantanshan trail climbs through it in switchbacks, cicadas droning overhead, until the trees suddenly break and the whole Taipei basin drops open in front of you.
 
 That gap in the canopy is the Old Place Airplane Observation Deck, a simple platform of railings and worn concrete that has become one of the city's most photographed unofficial viewpoints. Below, the runway lights of Songshan Airport line up like a landing strip drawn in a comic book. Beyond them, Taipei 101 stands lit against the ridgeline, and on a clear evening the whole skyline shimmers under a haze of orange streetlight.

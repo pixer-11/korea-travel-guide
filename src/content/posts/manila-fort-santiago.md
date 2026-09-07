@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You enter through a stone gate carved with a relief of Santiago Matamoros — St. James the Moor-slayer astride his horse — and the noise of Intramuros' traffic drops away almost immediately. Thick walls of adobe stone, blackened in patches by centuries of tropical rain, rise up on either side. This is Fort Santiago, the citadel the Spanish built in 1571 at the mouth of the Pasig River, and it still carries the weight of everything that happened inside it: colonial rule, Japanese occupation, and the final days of the man Filipinos consider their national hero.
 
 ## Why go

@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one view, but it rearranges how you see the whole city. From 452 metres up, Downtown Dubai's towers shrink to a scale model, the Palm Jumeirah unfurls into the Gulf, and on a clear day the desert haze swallows the horizon entirely.

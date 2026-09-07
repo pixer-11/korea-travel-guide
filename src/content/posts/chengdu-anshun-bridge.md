@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Anshun Bridge is the kind of stop that rewards patience rather than a rushed photo. It's a covered, pagoda-roofed bridge over the Jin River, rebuilt in a style that echoes its centuries-old predecessor, with dark timber beams and upturned eaves silhouetted against the water.

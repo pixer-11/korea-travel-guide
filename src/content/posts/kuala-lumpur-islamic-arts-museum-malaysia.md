@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You climb the museum's ramp expecting another marble lobby, and instead the roofline stops you first — a rippling blue-and-turquoise tiled dome overhead, cut by shafts of natural light. That dome, visible from the entrance courtyard, is your first clue this isn't a dusty relics hall. It's one of the best-designed museum spaces in Southeast Asia, and it knows it.
 
 Inside, the collection spans more than a thousand years of Islamic art from Spain to China. You'll walk past intricately carved wooden Quran stands, Ottoman ceramics glazed in cobalt and coral, Mughal jade daggers, and a scale architectural model gallery upstairs showing the world's great mosques in miniature.

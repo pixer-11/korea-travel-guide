@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of this place before you even read a label. Under the rotunda, a 13-foot African bush elephant faces the entrance, tusks curved, standing on a base that's been there since 1959. It's the kind of first impression that tells you exactly what the Smithsonian National Museum of Natural History is about: big, old, and unapologetically full of stuff.
 
 This is one of the most-visited museums on earth, and the crowds are real. Weekday mornings right at opening are your best shot at quiet galleries — the crowd data pegs 10am to 11am as the calmest stretch, both on weekdays and weekends. By noon on a Saturday, the halls thicken fast and stay busy until closing at 5:30pm.

@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually looking at
 
 Wat Plai Laem isn't an ancient site; it's a working temple built in the early 2000s, which is why everything gleams instead of weathers. The centrepiece is a square lake stocked with catfish, with a footbridge leading to a pale statue of the eighteen-armed Guanyin, the Chinese goddess of mercy, standing on a lotus base above the water.

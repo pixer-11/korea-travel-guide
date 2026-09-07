@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tōshōgū stops you in your tracks
 
 Nothing prepares you for the color. After the cedar-lined approach through Nikko's forest, you round a corner and the Yomeimon Gate hits you: gold leaf, crimson lacquer, hundreds of carved dragons, lions, and mythical beasts crammed into every surface.

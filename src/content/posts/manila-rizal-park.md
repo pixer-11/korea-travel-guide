@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Rizal Park, still called Luneta by almost everyone in Manila, is the kind of place that reveals the city's whole layered history in one 57-hectare sweep. You arrive expecting a monument and a lawn; you leave having walked past a relief map of the Philippines carved in concrete, a Japanese garden with a koi pond, kite-flying kids, and joggers doing laps around a granite obelisk that marks the exact spot where José Rizal was executed by Spanish colonial authorities in 1896.

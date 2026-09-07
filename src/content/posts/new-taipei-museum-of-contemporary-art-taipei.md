@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Museum of Contemporary Art Taipei is Taiwan's first museum dedicated purely to contemporary art. The draw isn't just the art — it's the building.

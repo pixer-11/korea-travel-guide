@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kaş Old Town is worth your time
 
 This isn't a single monument — it's a neighborhood. Narrow stone streets climb gently from the harbor, lined with low Ottoman-Greek houses whose balconies drip with pink and purple bougainvillea.

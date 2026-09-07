@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bordeaux-tour-pey-berland
-srcHash: 'e2cf1330f2f6'
+srcHash: '87ccedac0189'
 title: 'Torre Pey Berland: Guía de viaje de Burdeos'
 description: 'La Torre Pey Berland (Tour Pey Berland) es el campanario gótico exento del siglo XV situado junto a la Catedral de Burdeos, en la Place Pey Berland, y el motivo para visitarla es la subida: unos 230 estrechos escalones de piedra que llevan hasta una plataforma al aire libre con vistas de 360 grados sobre los tejados de terracota de la ciudad y el río Garona.'
 quickAnswer: 'La Torre Pey Berland (Tour Pey Berland) es el campanario gótico exento del siglo XV situado junto a la Catedral de Burdeos, en la Place Pey Berland, y el motivo para visitarla es la subida: unos 230 estrechos escalones de piedra que llevan hasta una plataforma al aire libre con vistas de 360 grados sobre los tejados de terracota de la ciudad y el río Garona. Calcula entre 30 y 45 minutos, ve a primera hora o a última de la tarde para evitar los grupos organizados, y consulta online los horarios y precios actuales antes de ir, ya que la torre cierra en ciertos días festivos y los lunes en temporada baja.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: La Catedral de Burdeos (Cathédrale Saint-André) está justo enfrente, al otro lado de la plaza, y a poca distancia a pie se encuentran el Grand Théâtre, la Place Gambetta y la calle comercial Rue Sainte-Catherine.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué esta torre, y por qué está sola
 

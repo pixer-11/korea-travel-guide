@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot it long before you reach it — a slim white mast poking above the shophouse roofs of Banda Hilir, with a glass capsule ring slowly rotating around the top. Menara Taming Sari isn't a viewing platform you climb; it's a gyro tower, meaning the entire circular cabin rises up the mast while rotating a full 360 degrees, so you never have to jostle for a window seat.

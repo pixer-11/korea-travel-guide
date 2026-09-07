@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the pines, not a single showpiece attraction. Baguio Botanical Garden is a sloped, forested park where mossy stone steps wind between towering pines and beds of begonias, marigolds, and hydrangeas.

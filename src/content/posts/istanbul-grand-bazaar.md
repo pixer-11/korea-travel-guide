@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You hear the Grand Bazaar before you fully see it — a low hum of vendors calling out in half a dozen languages, the clink of tea glasses on brass trays, the scrape of shutters rolling up. Then you step through one of its stone gates and the ceiling opens above you: barrel vaults painted in faded reds and blues, daylight filtering through arched windows set high in the brick, more than sixty covered streets fanning out in every direction.
 
 This is not a single market hall but a whole neighborhood roofed over, built by order of Mehmed the Conqueror in the 1450s and expanded by successive sultans until it swallowed entire blocks of the old city.

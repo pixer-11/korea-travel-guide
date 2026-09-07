@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Suzhou has nine classical gardens on the UNESCO World Heritage list, but Master of the Nets is the one connoisseurs quietly point to first. It's the smallest of the major gardens, built around a single central pond, and that scale is the whole point.

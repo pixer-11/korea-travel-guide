@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is where Putrajaya comes to move. Taman Saujana Hijau is a long, green stretch of themed gardens threaded together by paved paths, and the scale of it is the first thing that hits you — open lawns rolling toward the water, punctuated by clusters of palms and ornamental planting.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: davao-people-s-park
-srcHash: 'e71ae0bb71ff'
+srcHash: '223580c34351'
 title: 'Parque People''s Park: guía de viaje de Davao'
 description: People's Park es un espacio verde de 4,39 hectáreas en el distrito de Poblacion, en pleno centro de Davao, sobre la calle J. Palma Gil. Conviene visitarlo justo después de la apertura, a la 1 p. m., o por la noche después de las 6 p. m., para evitar tanto el calor de la tarde como las mayores multitudes.
 quickAnswer: 'People''s Park es un espacio verde de 4,39 hectáreas en el distrito de Poblacion, en pleno centro de Davao, sobre la calle J. Palma Gil. Conviene visitarlo justo después de la apertura, a la 1 p. m., o por la noche después de las 6 p. m., para evitar tanto el calor de la tarde como las mayores multitudes. La entrada es gratuita, se puede llegar caminando desde la mayoría de los hoteles del centro, y conviene reservar entre 45 minutos y una hora para recorrer las esculturas, la colección de plantas nativas y la zona de la fuente. Si puedes, ve un día entre semana: los fines de semana llegan familias en masa.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Tanto la Catedral de San Pedro como el Parque Rizal quedan a menos de 10 minutos caminando, por lo que es fácil combinar la visita a People's Park con un paseo más amplio por el centro de Davao.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Basta con ver la entrada para saber qué tipo de parque es este: alta, deliberadamente imponente, flanqueada por vegetación tropical que hace que el tráfico del centro sobre la calle J. Palma Gil parezca pertenecer a otra ciudad. Al cruzar la puerta, el ruido desaparece casi de inmediato, y en su lugar se escucha el canto de las cigarras y el chapoteo de la fuente central.
 

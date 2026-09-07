@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The climb starts before you notice it's begun. From Ulus, the streets tilt upward, cobbles replace asphalt, and the modern city's noise thins out until you're walking between stone houses stacked one on top of the next, laundry strung between windows, cats sunning themselves on doorsteps. This is the Kale district, and above it, blunt and weathered, rises the double ring of walls that gives Ankara Castle its silhouette from almost anywhere in the city.
 
 ## Why go

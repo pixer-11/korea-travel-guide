@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from Chartres Street and the square just opens up in front of you — wrought-iron fences, a carpet of green, and behind it the three spires of St. Louis Cathedral pointing up over the rooftops. This is the spot New Orleans postcards are made from, and for once the postcard undersells it. The cathedral has stood here in some form since the 1720s, flanked by the matching Cabildo and Presbytère, and the whole ensemble is wrapped by the red-brick Pontalba Buildings — reputedly the oldest continuously rented apartment buildings in the country, their cast-iron balconies dripping ferns and ivy.

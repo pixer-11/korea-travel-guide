@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell Hinoki Village before you fully see it. Warm cypress oil drifts off the raised wooden porches, a scent that clings to the whole East District block once used to house forestry officials during Japanese rule.
 
 ## Why go

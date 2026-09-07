@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step through the glass doors and the temperature drops ten degrees in seconds — the air turns damp and cool, like early morning in a highland cloud forest, which is exactly the point. Cloud Forest is the smaller of Gardens by the Bay's two conservatories, but it's the one that stops people mid-sentence. A 35-metre waterfall crashes down the centre of the dome, and mist machines pump a fine, cool fog across an artificial mountain wrapped in orchids, ferns, pitcher plants, and mosses drawn from tropical highlands between 1,000 and 3,500 metres elevation — places most visitors will never actually climb to. The roar of falling water follows you the entire way up.

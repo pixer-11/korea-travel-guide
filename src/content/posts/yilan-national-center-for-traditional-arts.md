@@ -67,8 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for a version of old Taiwan that's been rebuilt rather than merely preserved. The National Center for Traditional Arts isn't a museum behind glass — it's a working village of brick lanes, tile roofs, and open workshops where you watch artisans actually make things.

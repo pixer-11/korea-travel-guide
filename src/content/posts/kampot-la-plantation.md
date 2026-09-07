@@ -82,8 +82,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The road into La Plantation turns to red dirt well before you arrive, and that's your first clue you're headed somewhere rural. Rows of pepper vines climb wooden trellises in tidy lines, stretching toward the limestone hills that ring Kampot province. The air smells faintly peppery and green, especially after rain.
 
 This is a working pepper farm, not a museum recreation. Kampot pepper carries a Protected Geographical Indication, the kind of status usually reserved for champagne or parmesan, and La Plantation is one of the operations that helped put it on the map.

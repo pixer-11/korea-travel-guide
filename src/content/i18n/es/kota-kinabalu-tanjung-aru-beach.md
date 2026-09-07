@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kota-kinabalu-tanjung-aru-beach
-srcHash: '363b84a6b1ee'
+srcHash: 'ff1663710ef8'
 title: 'Playa Tanjung Aru: Guía de viaje de Kota Kinabalu'
 description: 'La playa Tanjung Aru es el clásico lugar para ver el atardecer en Kota Kinabalu: una larga franja de arena a poca distancia en taxi o Grab del centro de la ciudad, bordeada de casuarinas, puestos de comida y los complejos Shangri-La y Tanjung Aru Resort.'
 quickAnswer: 'La playa Tanjung Aru es el clásico lugar para ver el atardecer en Kota Kinabalu: una larga franja de arena a poca distancia en taxi o Grab del centro de la ciudad, bordeada de casuarinas, puestos de comida y los complejos Shangri-La y Tanjung Aru Resort. Ve por la tarde, hazte con un buen sitio en la "First Beach" antes de las 6pm, y quédate a ver cómo el cielo se tiñe de naranja sobre el mar de China Meridional. Es un lugar muy visitado, así que llega temprano o ve en día de semana si quieres algo de espacio.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero alargar la visita?
     a: El Shangri-La Tanjung Aru y el Tanjung Aru Beach Resort están justo en la playa, con restaurantes y bares, y el aeropuerto está lo bastante cerca como para combinar una parada al atardecer con un vuelo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

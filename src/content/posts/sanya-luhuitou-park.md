@@ -41,8 +41,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Luhuitou Park is Sanya's hilltop balcony, the place locals point to when they want you to see the whole city at once. From the summit you get a 360-degree sweep: Sanya Bay curving into the South China Sea on one side, the city's high-rises and harbor on the other, and green ridges rolling off toward the horizon.

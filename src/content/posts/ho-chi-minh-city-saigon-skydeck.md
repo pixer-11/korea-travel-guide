@@ -96,8 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The elevator ride alone tells you this building means business. You step into a mirrored car in the Bitexco lobby, ears popping as it rockets up 49 floors in under a minute, and the doors open onto a hushed, air-conditioned deck wrapped in glass.
 
 Bitexco Financial Tower has been Ho Chi Minh City's most recognizable skyline marker since it opened in 2010, its curved, lotus-inspired form topped by a helipad that juts out like a ship's prow. Saigon Skydeck occupies the 49th floor, well below that helipad, but high enough that the Saigon River bends beneath you like a ribbon and District 1's rooftops shrink to a toy model.

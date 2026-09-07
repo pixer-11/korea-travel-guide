@@ -64,8 +64,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this place, and why it's hard
 
 Tuol Sleng Genocide Museum was once Security Prison 21, the Khmer Rouge's central interrogation center between 1975 and 1979. Before that, it was a high school. You can still see the classroom windows, now laced with barbed wire, and that contrast is what makes the site so disorienting from the moment you walk in.

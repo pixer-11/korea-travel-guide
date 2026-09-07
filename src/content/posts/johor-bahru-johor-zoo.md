@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Johor Zoo isn't trying to be Singapore Zoo across the strait, and that's precisely its charm. Tucked into Taman Istana on Jalan Gertak Merah, this is a small, old-school municipal animal park — shaded, a little worn at the edges, and refreshingly unpretentious. You walk in expecting a quick loop and end up lingering by the camel pen, watching a kid feed a handful of vegetables to a Bactrian camel that's clearly done this ten thousand times before but still leans in for more.

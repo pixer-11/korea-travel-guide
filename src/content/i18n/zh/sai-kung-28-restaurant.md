@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sai-kung-28-restaurant
-srcHash: 'a94b72d3bf4f'
+srcHash: 'c3395ccb2f17'
 title: 28 Restaurant：西贡吃什么、去哪吃
 description: 28 Restaurant是一家评价不错的小型本地餐厅，坐落在宜春街(Yi Chun Street)的民意湾新村(Man Yee Wan San Tsuen)内，距离西贡海滨长廊步行不远。
 quickAnswer: 28 Restaurant是一家评价不错的小型本地餐厅，坐落在宜春街(Yi Chun Street)的民意湾新村(Man Yee Wan San Tsuen)内，距离西贡海滨长廊步行不远。这里主打中价位、偏海鲜口味的粤菜，拥有一批忠实顾客，如果想不用排队就有位子，建议选平日晚上前往。周末从下午1点到晚上9点都很繁忙；平日深夜10点到11点左右则最为清静。
@@ -17,8 +17,6 @@ faq:
   - q: 应该点什么菜？
     a: 清蒸全鱼、椒盐鱿鱼和避风塘炒蟹是这里的招牌菜——建议多点几款一起分享，人数最好三人以上。
 ---
-
-> **本指南制作说明：** 由编辑审核、AI辅助完成。事实信息来自实时的Google Places数据；图片均为授权使用或公开领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么28 Restaurant值得专程一去
 

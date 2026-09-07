@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-nan-lian-garden
-srcHash: '16812b96bd20'
+srcHash: '9d579bc0e85d'
 title: 'Nan Lian Garden: guía de viaje de Hong Kong (4.6★)'
 description: 'Junto al Monasterio de Chi Lin, en Diamond Hill, Nan Lian Garden es un parque de estilo Tang con pabellones dorados, pabellones de madera oscura y un estanque de lotos alimentado por una cascada; la entrada es gratuita y abre todos los días de 7:00 a 21:00. 4.6★ (2.735 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Junto al Monasterio de Chi Lin (Chi Lin Nunnery), en Diamond Hill, Nan Lian Garden es un parque de estilo Tang con pabellones dorados, pabellones de madera oscura y un estanque de lotos alimentado por una cascada. La entrada es gratuita y el horario es de 7:00 a 21:00 todos los días. No es ningún secreto, así que el fin de semana se llena rápido entre las 10:00 y las 18:00; conviene ir justo a la apertura, a las 7:00, o al final de la tarde para disfrutar de la luz más fotogénica y de menos gente. Calcula una hora para la visita, o 90 minutos si también vas a cruzar al monasterio contiguo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena combinar Nan Lian Garden con algo más cerca?
     a: 'Sí: está conectado directamente con el Monasterio de Chi Lin, otro recinto de estilo Tang con sus propios estanques de lotos, y la mayoría de los visitantes recorre ambos en una misma salida.'
 ---
-
-> **Cómo se hizo esta guía:** revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

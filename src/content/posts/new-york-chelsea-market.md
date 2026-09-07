@@ -78,8 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come in off 9th Avenue through unglamorous industrial doors, and the first thing that hits you is the smell — proofing dough, brined lox, roasting garlic — layered under exposed brick, hanging pipes, and old factory ductwork left visibly intact. This was once the National Biscuit Company complex, where the Oreo was invented in 1912, and the market has never fully sanded away that history.

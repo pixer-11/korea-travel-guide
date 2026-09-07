@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: miami-talkin-tacos-brickell
-srcHash: 'ed41834521c6'
+srcHash: '057ed9f623fa'
 title: Talkin' Tacos Brickell:迈阿密美食推荐
 description: Talkin' Tacos Brickell是一家营业到深夜的塔可与龙舌兰酒餐厅，地址位于97 SW 8th St,正好位于Brickell与Downtown交界处，从Brickell Metromover站步行几分钟即可到达。
 quickAnswer: Talkin' Tacos Brickell是一家营业到深夜的塔可与龙舌兰酒餐厅，地址位于97 SW 8th St,正好位于Brickell与Downtown交界处，从Brickell Metromover站步行几分钟即可到达。这里属于中等价位，每天10am–2am营业，最佳到访时间是午餐前段时间(中午12点前),或者晚上10点以后，可以避开happy hour和周末брunch的人潮(如果你想避开高峰期的话)。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得去的地方?
     a: 这个地址正好横跨Brickell和迈阿密市中心(Downtown Miami)两个区域，靠近Brickell金融区的高楼、迈阿密河(Miami River),也可以搭乘Metromover轻松抵达Brickell City Centre,饭后散步很方便。
 ---
-
-> **本指南制作方式:** 编辑审核,AI辅助完成。事实信息来自Google Places实时数据；图片为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

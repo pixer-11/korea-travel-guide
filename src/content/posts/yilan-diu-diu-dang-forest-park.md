@@ -62,8 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step out of Yilan Train Station and the first thing that catches your eye is metal, not foliage. Dozens of steel trunks fan out overhead, branching into a canopy that throws slatted shadows across the pavement. It's not a park in the leafy sense — it's an industrial sculpture doing an impression of a forest, and it works.

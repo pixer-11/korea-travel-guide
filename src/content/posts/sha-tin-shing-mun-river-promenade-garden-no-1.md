@@ -77,8 +77,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a park you plan a whole day around — it's a park you walk into by accident and end up lingering in anyway. Garden No. 1 sits right on the Shing Mun River, a long ribbon of paved promenade that laces together much of Sha Tin. You come here for the water, the breeze, and the sudden quiet after the shopping-mall bustle a few streets back.

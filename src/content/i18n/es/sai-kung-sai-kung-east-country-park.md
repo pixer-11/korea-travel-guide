@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-east-country-park
-srcHash: '3c6a1b2ada8a'
+srcHash: '1747f82dc580'
 title: 'Sai Kung East Country Park: Guía de Viaje (4.5★)'
 description: 'Sai Kung East Country Park es una extensa zona montañosa de los Nuevos Territorios situada al este de la localidad de Sai Kung, que abarca el embalse de High Island (High Island Reservoir), las columnas volcánicas hexagonales de la región volcánica de Sai Kung (Sai Kung Volcanic Rock Region) y playas como Long Ke y Tai Long Wan. 4.5★ (2,192 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Sai Kung East Country Park es una extensa zona montañosa de los Nuevos Territorios situada al este de la localidad de Sai Kung, que abarca el embalse de High Island (High Island Reservoir), las columnas volcánicas hexagonales de la región volcánica de Sai Kung (Sai Kung Volcanic Rock Region) y playas como Long Ke y Tai Long Wan. Permanece abierto las 24 horas durante todo el año, aunque los meses más frescos (de octubre a marzo) son los mejores para recorrer los tramos del Maclehose Trail que lo atraviesan. La mayoría de los visitantes llega en minibús o furgoneta contratada desde la localidad de Sai Kung, ya que el transporte público dentro del propio parque es muy limitado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede nadar en el embalse o en las playas?
     a: El embalse de High Island abastece de agua potable, por lo que está prohibido nadar en él. En las playas de Tai Long Wan sí se puede nadar, pero no hay socorristas fuera del horario limitado de verano.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Sai Kung East Country Park ocupa una península de crestas graníticas escarpadas y roca volcánica al este de la localidad de Sai Kung, limitada por Port Shelter y las aguas abiertas hacia el archipiélago de Ninepin (Ninepin Group). Se extiende a lo largo de unos 47 kilómetros cuadrados, lo que lo convierte en uno de los parques rurales más grandes de Hong Kong. Dentro de sus límites se encuentran el embalse de High Island, varios tramos del Maclehose Trail y parte del litoral más fotografiado del territorio.
 

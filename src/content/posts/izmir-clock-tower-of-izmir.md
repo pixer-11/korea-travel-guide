@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't travel to Izmir specifically for a clock tower, and yet almost everyone who visits ends up standing beneath this one. It's the object every local uses as a meeting point, the silhouette on postcards and Izmir keychains, and the anchor of Konak Square, where the city's trams, ferries, and foot traffic all converge. At just over 25 metres, the tower isn't imposing in size — what it has instead is presence.

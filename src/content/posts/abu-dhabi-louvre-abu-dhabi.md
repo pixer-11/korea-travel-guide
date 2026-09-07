@@ -106,8 +106,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The first glimpse is the dome. Jean Nouvel's star-lattice roof floats above the water, throwing a moving pattern of light onto the plazas below that architecture writers call a "rain of light."

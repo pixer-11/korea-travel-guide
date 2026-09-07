@@ -53,8 +53,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of the Marina before you understand it. Towers rise in a curved wall on both sides of the water, glass catching the light differently depending on the hour — pink-gold at sunrise, mirrored steel by noon, a grid of lit windows once the sun drops.
 
 The walkway itself hugs the canal for roughly seven kilometers, paved wide enough for joggers, strollers, and slow-moving groups to coexist without much friction. Palms line the railing at intervals, casting thin stripes of shade that barely help by midday.

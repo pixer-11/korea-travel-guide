@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-people-s-park
-srcHash: 'da5f2cf81b25'
+srcHash: 'd8e253937106'
 title: 'People''s Park: guía de viaje de Shanghái (4,4★)'
 description: 'People''s Park es un auténtico remanso verde en pleno centro de People''s Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una hilera de rascacielos sobre Nanjing Xi Lu. 4,4★ (903 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: People's Park es un auténtico remanso verde en pleno centro de People's Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una hilera de rascacielos sobre Nanjing Xi Lu. Conviene ir a pie desde la estación de People's Square (líneas 1, 2 y 8) y procurar llegar entre las 7:00 y las 9:00, cuando los datos de afluencia muestran el menor tránsito y el parque todavía pertenece al grupo de tai chi y a los paseadores de perros. Calcule entre 45 minutos y una hora para dar una vuelta al estanque, recorrer los senderos arbolados y tomar un café en el café junto al lago Barbarossa.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái, el MOCA Shanghai (dentro del propio parque) y la calle comercial peatonal de Nanjing Road quedan todos a pocos minutos a pie.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

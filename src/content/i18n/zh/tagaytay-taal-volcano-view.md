@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tagaytay-taal-volcano-view
-srcHash: 'f0bd1a6f2e94'
+srcHash: 'a0854aaa81c2'
 title: 塔阿尔火山观景点（Taal Volcano View）：达沃怡（Tagaytay）旅行攻略（4.8★）
 description: 塔阿尔火山观景点（Taal Volcano View）是位于卡伊巴加尔南（Kaybagal South）达沃怡-纳苏布（Tagaytay-Nasugbu）公路沿线的一处观景点，能让你无遮挡地眺望塔阿尔火山（Taal Volcano）及其火山口湖，且不像主要山脊观景台那样人潮拥挤。4.8★（111条评价）——游客怎么说、开放时间及实用建议。
 quickAnswer: 塔阿尔火山观景点（Taal Volcano View）是位于卡伊巴加尔南（Kaybagal South）达沃怡-纳苏布（Tagaytay-Nasugbu）公路沿线的一处观景点，能让你无遮挡地眺望塔阿尔火山（Taal Volcano）及其火山口湖，且不像主要山脊观景台那样人潮拥挤。它获得了4.8的评分（评价者数量不多但都很喜爱这里），最适合作为20-30分钟的短暂停留，而不是一个完整的旅游目的地。建议在清晨云层尚未笼罩火山口之前前往，此时天空最为晴朗。
@@ -17,8 +17,6 @@ faq:
   - q: 这里可以和达沃怡的其他景点一起游览吗？
     a: 可以——它非常适合与天空人民公园（People's Park in the Sky）、达沃怡天空牧场（Sky Ranch Tagaytay）以及供应巴拉柯咖啡（kapeng barako）的当地咖啡馆搭配游览，这些地方开车都只需很短时间即可到达。
 ---
-
-> **本攻略制作方式：** 编辑审核，AI辅助完成。事实信息来自Google Places实时数据；图片为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

@@ -103,8 +103,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tai Kwun is Hong Kong's old colonial police station, magistracy and prison, reborn as a heritage-and-art compound. You come for the contrast: century-old granite walls butted against two angular new buildings by Herzog & de Meuron, all connected by a raised footbridge.

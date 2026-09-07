@@ -58,8 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ambrai Ghat matters in Udaipur
 
 Lake Pichola has a dozen ghats, but Ambrai is the one where the postcard shot actually lines up. Stand on its worn stone steps in Chandpole and you get the City Palace's honey-colored ramparts on your left, the Lake Palace floating mid-water like it's been airbrushed in, and Jagmandir further out toward the hills. This is the view that ends up on Udaipur brochures, and it earns the reputation — it's not a quiet detour, it's a headline sight, rated among the most-visited and best-reviewed spots on the lake.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: santiago-de-compostela-casco-historico-de-santiago-de-compostela
-srcHash: '3cf4fc04874d'
+srcHash: 'bbda68839ab7'
 title: 'Casco Histórico de Santiago de Compostela: guía de viaje'
 description: 'El Casco Histórico de Santiago es el casco antiguo de granito que envuelve la catedral: un laberinto declarado Patrimonio de la Humanidad, con calles porticadas, plazas de peregrinos y claustros escondidos, ideal para recorrer a pie en medio día. 4.8★ (111 reseñas) — opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Casco Histórico de Santiago es el casco antiguo de granito que envuelve la catedral: un laberinto declarado Patrimonio de la Humanidad, con calles porticadas, plazas de peregrinos y claustros escondidos, ideal para recorrer a pie en medio día. Conviene evitar el gentío de autobuses turísticos que se concentra al mediodía junto a la catedral y pasear en cambio por las callejuelas que salen de la Rúa do Franco a primera hora de la mañana o después de cenar, cuando la piedra brilla bajo las farolas y apenas se cruza uno con algún peregrino rezagado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor época del año para visitarlo?
     a: La primavera tardía (mayo y junio) y el principio del otoño (septiembre) traen un clima más suave y menos aglomeraciones que el pico veraniego del Camino.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El casco antiguo se huele antes de verse: humo de leña y pulpo a la brasa que se escapa de los portales de la Rúa do Franco, mezclado con ese aroma mineral y húmedo del granito mojado que nunca termina de secarse del todo en este rincón de Galicia. Ese olor es la primera señal de que uno ha llegado a un lugar distinto: una ciudad construida enteramente en piedra oscura, pulida por la lluvia y desgastada por nueve siglos de botas de peregrinos.
 

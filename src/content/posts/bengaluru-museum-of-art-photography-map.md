@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 MAP is one of the few Indian museums built from scratch for a permanent collection rather than retrofitted into a colonial building. The result feels different the moment you walk in: daylight-filled atrium, clean concrete lines, art hung at a pace that lets you actually look.

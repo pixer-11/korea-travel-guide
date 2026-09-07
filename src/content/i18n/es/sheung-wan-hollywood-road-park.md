@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sheung-wan-hollywood-road-park
-srcHash: '72bac1c2af4d'
+srcHash: '5a54ce010d13'
 title: 'Hollywood Road Park: guía de viaje de Sheung Wan (4.0★)'
 description: Hollywood Road Park es un pequeño rincón escalonado de calma justo debajo del Templo Man Mo en Sheung Wan, construido alrededor de estanques ornamentales, un pabellón chino de columnas rojas y una tradicional puerta luna. 4.0★ (837 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Hollywood Road Park es un pequeño rincón escalonado de calma justo debajo del Templo Man Mo (Man Mo Temple) en Sheung Wan, construido alrededor de estanques ornamentales, un pabellón chino de columnas rojas y una tradicional puerta luna. Está abierto las 24 horas, y es más tranquilo entre las 7:00 y las 8:00 —tanto en días de semana como fines de semana— antes de que lleguen los grupos de tai chi y los visitantes del fin de semana a media mañana. Dedícale entre 20 y 30 minutos en tu camino entre el Templo Man Mo y las tiendas de antigüedades de Sheung Wan.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Templo Man Mo (Man Mo Temple) está justo al lado, y las tiendas de antigüedades de Hollywood Road, Ladder Street y PMQ están todas a 10-15 minutos a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

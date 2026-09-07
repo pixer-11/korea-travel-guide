@@ -85,8 +85,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Palau Nacional stops people in their tracks
 
 You see it long before you reach it: a domed, honey-stone palace stacked at the top of a long flight of terraces and fountains, built for the 1929 International Exposition and still looking like it was designed to be photographed from below. Climb the steps (or ride the escalators that run alongside them) and the city opens up behind you — Plaça Espanya, the bullring-turned-mall Las Arenas, and on a clear day the towers of the Sagrada Família in the distance.

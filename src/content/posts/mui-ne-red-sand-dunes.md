@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one thing: color. The Red Sand Dunes aren't the tall, golden Sahara-style dunes people picture — they're a compact, undulating field of rust-red and burnt-orange sand that shifts shade with every degree the sun drops.

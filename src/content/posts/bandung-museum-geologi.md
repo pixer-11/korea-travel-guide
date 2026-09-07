@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What's inside a 1928 Dutch colonial hall
 
 Museum Geologi opened in 1928 as a research institute under Dutch colonial rule, and the building itself, a long Art Deco hall with high ceilings and tall shuttered windows, still does the cooling work air conditioning does elsewhere in Bandung. The ground floor west wing covers geology: rock and mineral specimens, volcanic models, and displays on Indonesia's tectonic setting along the Pacific Ring of Fire.

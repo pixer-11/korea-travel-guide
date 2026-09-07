@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Hwaseong Haenggung sits at 825 Jeongjo-ro in Paldal-gu, the beating heart of old Suwon. This was King Jeongjo's temporary palace, built in 1789 so he could stay near his father's tomb and oversee the new fortress town. It's the largest haenggung ever built in Korea, and most of what you see today is a careful post-1996 reconstruction after Japanese colonial authorities demolished the original.
 
 You enter through Sinpungnu Gate, a two-story wooden gatehouse that opens onto a wide gravel courtyard. This is where the guard-changing ceremony and traditional martial arts demonstrations play out, drums first, then the clash of choreographed swordwork. Beyond the gate, low-slung halls with terracotta roof tiles fan out around inner courtyards, each one quieter and more shaded than the last.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bohol-national-museum-of-the-philippines-bohol
-srcHash: 'b607e2dc21b3'
+srcHash: 'ab99ce48ba5a'
 title: 菲律宾国家博物馆薄荷分馆：薄荷岛旅行指南
 description: 菲律宾国家博物馆薄荷分馆坐落在打拉市（Tagbilaran City）波布拉修区（Poblacion）的旧省政厅内，每日上午9点至晚上6点开放。4.6星（409条评价）——游客怎么说、开放时间及实用贴士。
 quickAnswer: 菲律宾国家博物馆薄荷分馆坐落在打拉市波布拉修区的旧省政厅内，每日上午9点至晚上6点开放。这里规模不大但布展用心，涵盖薄荷岛的考古、民族志与艺术，逛完大约需要一个小时左右。周末上午9点到下午5点这段时间人最少，如果可以的话，尽量避开下午3点到5点的人潮高峰。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想顺路游览附近景点，周边有什么？
     a: 博物馆位于打拉市中心，靠近黎刹广场（Plaza Rizal）、达戈霍伊纪念碑（Dagohoy Monument）和市区码头，很适合作为上午行程，之后再前往内陆的巧克力山（Chocolate Hills）或洛博克河（Loboc River）。
 ---
-
-> **本指南制作方式：** 编辑审核，AI辅助撰写。资料来自谷歌地图（Google Places）实时数据，图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 还没看到招牌，你先看到的会是那栋建筑本身：一座低矮的殖民地时期省政厅，粗壮的立柱撑着宽阔的台阶，曾经是治理一省的行政中心，如今静静地收藏着这片土地的故事。这就是菲律宾国家博物馆薄荷分馆，坐落在打拉市（Tagbilaran City）波布拉修区（Poblacion）卡洛斯·加西亚大道（Carlos P. Garcia Avenue）旧省政厅建筑群（Old Capitol Complex）内。
 

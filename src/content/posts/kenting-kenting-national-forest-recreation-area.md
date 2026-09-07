@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a beach park — it's raised coral limestone draped in banyan roots and humid jungle. Millions of years ago this was reef; now it's a forest of fig trees clinging to karst outcrops, honeycombed with caves you walk straight through.

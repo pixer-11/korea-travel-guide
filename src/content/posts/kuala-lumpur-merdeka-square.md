@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come out of the LRT stairwell, cross the road, and suddenly the city opens up. After the shopfronts and scaffolding of central KL, Merdeka Square is startling for its sheer emptiness — a rectangle of clipped grass roughly the size of a football pitch, ringed by colonnades, copper domes, and clock towers instead of glass skyscrapers. At the northern end, a flagpole rises 95 metres, one of the tallest in the world, standing on the exact spot where the Union Jack was lowered and the flag of independent Malaya raised for the first time just after midnight on 31 August 1957.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-legazpi-sunday-market
-srcHash: '036bdb2a88d5'
+srcHash: '7810bfe83129'
 title: 'Mercado Dominical de Legazpi: Guía de Viaje de Manila (4.4★)'
 description: 'El Mercado Dominical de Legazpi funciona todos los domingos, de 7:30 a. m. a 2:00 p. m., en Legazpi Village, Makati, y únicamente ese día, así que conviene planificar en función de eso. 4.4★ (2,183 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Dominical de Legazpi funciona todos los domingos, de 7:30 a. m. a 2:00 p. m., en Legazpi Village, Makati, y únicamente ese día, así que conviene planificar en función de eso. Conviene llegar antes de las 8:30 a. m. para aprovechar los mejores puestos de comida antes de que lleguen el calor y la multitud hacia las 11:00 a. m. Vaya con hambre, lleve efectivo y calcule entre una y dos horas para recorrer y disfrutar del lugar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Aceptan tarjeta los vendedores?
     a: 'En su mayoría, no: conviene llevar efectivo, ya que muchos puestos pequeños solo aceptan dinero en efectivo, y tener el importe exacto ayuda a agilizar la compra en los mostradores más concurridos.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

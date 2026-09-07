@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the strange sensation of standing on a hill that isn't really a hill. Alaaddin Tepesi is actually an artificial mound built up over millennia of settlement, layer on layer, dating back to prehistoric and Hittite times before the Seljuks capped it with a palace and mosque. Today it's Konya's green lung — a round, tree-shaded park rising above the traffic circles of Alaaddin Caddesi.

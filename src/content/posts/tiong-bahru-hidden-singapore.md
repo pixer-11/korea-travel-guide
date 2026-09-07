@@ -45,8 +45,6 @@ aiGenerated: true
 draft: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why HIDDEN Singapore is worth the detour
 
 Most guides to Tiong Bahru send you straight to the market or the bookshop. This one doesn't live in that cluster at all — it's out on Lower Delta Rd, a few minutes' drive from the estate's curved Art Deco blocks.

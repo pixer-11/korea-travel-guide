@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: rishikesh-ram-jhula
-srcHash: '6137a934b663'
+srcHash: 'f6f1677e854b'
 title: Ram Jhula(拉姆吊桥):瑞诗凯诗旅行指南（4.6★）
 description: Ram Jhula 是恒河上连接斯瓦嘉阿什拉姆（Swarg Ashram）与希瓦南达讷格尔（Shivananda Nagar）的铁索吊桥，位于瑞诗凯诗，全天24小时开放，过桥免费。4.6★（34,132条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: Ram Jhula 是恒河上连接斯瓦嘉阿什拉姆（Swarg Ashram）与希瓦南达讷格尔（Shivananda Nagar）的铁索吊桥，位于瑞诗凯诗，全天24小时开放，过桥免费。建议在日出时分（早上7点前）或晚上8点以后前往，以避开正午时段拥挤的行人、摩托车和牛群。慢慢过桥、逛逛河坛（ghats）并顺便看看附近的恒河晚祷仪式（Ganga Aarti），大约需要预留45分钟到1小时。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一起游览的地方？
     a: 帕玛斯尼克坦河坛（可观看晚间恒河晚祷仪式）、斯瓦嘉阿什拉姆的书店与咖啡馆，以及约3公里外上游的拉克斯曼吊桥（Lakshman Jhula）。
 ---
-
-> **本指南制作方式：** 编辑审核，AI辅助生成。内容数据来自谷歌地图（Google Places）实时信息；图片均为授权或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## Ram Jhula 为何值得一去
 

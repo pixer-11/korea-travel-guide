@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cinque-terre-sentiero-monterosso-vernazza
-srcHash: 'e835de05c175'
+srcHash: 'ebf493fb0a2c'
 title: 'Sentiero Monterosso - Vernazza: Guía de viaje de Cinque Terre'
 description: 'El tramo Monterosso–Vernazza es el clásico primer segmento del Sentiero Azzurro (Sendero Azul): unos 3,3 km, 1,5–2 horas subiendo y bajando entre viñedos y vistas al mar desde los acantilados. 4,5★ (1.414 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El tramo Monterosso–Vernazza es el clásico primer segmento del Sentiero Azzurro (Sendero Azul): unos 3,3 km, 1,5–2 horas subiendo y bajando entre viñedos y vistas al mar desde los acantilados. Está abierto las 24 horas y no tiene barrera, pero conviene ir a primera hora de la mañana o después de las 16:00 en días de semana para evitar las aglomeraciones. Suele exigirse un pase de senderismo (Cinque Terre Card) en temporada alta — comprueba las normas vigentes antes de salir.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo hacer esta caminata en un solo sentido y volver en tren?
     a: Sí — así es como la hace la mayoría. Los trenes entre Monterosso y Vernazza son frecuentes y tardan unos 4 minutos, lo que facilita hacer la caminata en un solo sentido.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué este tramo, y no los otros
 

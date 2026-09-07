@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for scale. Seven bronze kings, each cast several times taller than a person, stand in a row against the sea breeze, and the effect is less "photo op" than "small history lesson you feel in your neck" as you crane upward.

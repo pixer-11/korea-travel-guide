@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Chowmahalla for the moment you step through the gate and the noise of Khilwath Road just falls away. Four courtyards unfold in sequence, each one quieter and more formal than the last, until you reach the Khilwat Mubarak — the durbar hall where the Nizams of Hyderabad once held court under rows of chandeliers. The pale yellow arcades, the reflecting pools running down the center of the marble floor, the sheer scale of the place: this is what remains of a dynasty that ruled one of pre-independence India's richest princely states, and it still reads as a working seat of power rather than a museum piece.

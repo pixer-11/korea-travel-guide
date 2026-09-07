@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: valencia-tapas-boatella
-srcHash: '4350a0a9a87d'
+srcHash: 'd29c02c6ab77'
 title: 'Tapas Boatella: dónde comer en Valencia'
 description: Tapas Boatella está justo en la Plaça del Mercat, en Ciutat Vella, entre el Mercado Central y la Lonja de la Seda, y abre todos los días excepto martes y miércoles, de 8:00 a 23:00.
 quickAnswer: Tapas Boatella está justo en la Plaça del Mercat, en Ciutat Vella, entre el Mercado Central y la Lonja de la Seda, y abre todos los días excepto martes y miércoles, de 8:00 a 23:00. Ve a por tapas de marisco recién traído del mercado, un plato de paella y las mesas en la terraza frente a la fachada de azulejos del mercado, pero llega antes de las 9:00 en fin de semana si quieres mesa sin esperar, ya que la terraza se llena rápido a partir de las 11:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería planear quedarme?
     a: Lo habitual es entre una hora y 90 minutos para un par de rondas de tapas; también funciona bien como parada rápida de desayuno o café gracias a su apertura temprana a las 8:00.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

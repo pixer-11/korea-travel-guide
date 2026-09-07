@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Pink Beach is worth the boat ride
 
 The sand really is pink, not a marketing exaggeration. Millions of crushed red Foraminifera shells mix with white coral fragments, and in the midday sun the shoreline glows a soft, dusty rose that deepens toward coral-red at the waterline.

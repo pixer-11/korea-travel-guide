@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-palace-of-versailles
-srcHash: '5ea80c338748'
+srcHash: 'c7789526c2c5'
 title: 'Palacio de Versalles: Guía de viaje de París'
 description: 'Ve un martes, miércoles o viernes, llega justo a las 9am cuando abren las puertas, y reserva online con antelación una entrada con horario asignado: Versalles cierra los lunes y el resto de la semana abre de 9am a 5:30pm.'
 quickAnswer: 'Ve un martes, miércoles o viernes, llega justo a las 9am cuando abren las puertas, y reserva online con antelación una entrada con horario asignado: Versalles cierra los lunes y el resto de la semana abre de 9am a 5:30pm. Evita llegar entre las 11am y las 5pm los fines de semana, cuando el patio y la Galería de los Espejos se llenan de gente. Reserva un día completo: la mitad para el palacio y la otra mitad para los jardines y la finca de María Antonieta.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Versalles abre todos los días?
     a: No — cierra los lunes. De martes a domingo abre de 9:00 a 17:30, sin horario nocturno, así que planifica tu llegada en consecuencia.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Grand Central Market isn't a discovery — it's an institution. Since 1917, this cavernous hall on Broadway has fed Downtown LA, and today it packs in dozens of vendors under one long, high-ceilinged roof.

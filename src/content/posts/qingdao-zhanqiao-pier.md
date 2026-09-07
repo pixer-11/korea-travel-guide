@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Zhanqiao Pier matters
 
 Long before Qingdao became a byword for German colonial villas and cold beer, Zhanqiao was the city's front door. Built in the 1890s as a military pier for the Qing dynasty's Beiyang fleet, it later became the passenger dock where steamers from Shanghai and Japan unloaded, and it's still the reference point locals use to describe the whole bay. Walk to the end and you reach Huilan Ge, a two-story octagonal pavilion with a green tiled roof that curls up at the corners — the same silhouette printed on every bottle of Tsingtao Beer. Recognizing it in person, rather than on a label, is oddly satisfying.

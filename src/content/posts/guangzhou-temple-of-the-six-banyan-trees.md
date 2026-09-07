@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors to Guangzhou never make it here, which is exactly the point. Founded in 537 (with roots going back to 510), this is one of the city's oldest working temples, and it still functions as one — incense smoke curling past worshippers bowing at the main hall, not a museum piece behind glass.

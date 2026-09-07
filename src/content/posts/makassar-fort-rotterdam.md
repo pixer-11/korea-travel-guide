@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the shape as much as the history. Locals call it Benteng Panyyua, "turtle fort," because the original bastions were laid out to mimic a sea turtle — a Gowanese symbol of resilience against invaders. What survives today is mostly the Dutch VOC rebuild from the 1600s, thick coral-stone walls the color of wet sand, and a quiet inner courtyard that feels miles from the traffic outside the gate.

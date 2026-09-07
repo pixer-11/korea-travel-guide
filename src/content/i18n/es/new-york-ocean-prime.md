@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-ocean-prime
-srcHash: '2c6cbb64fdde'
+srcHash: '770c0513fd1f'
 title: 'Ocean Prime: dónde comer en Nueva York (4.6★)'
 description: 'A pocos pasos de la Sexta Avenida, en la calle 52 Oeste, Ocean Prime es un elegante restaurante de carnes y mariscos que conviene visitar en el almuerzo entre semana, entre las 11:30 y las 12:00, cuando el salón está casi vacío, o un fin de semana después de las 16:00, antes de que llegue el ajetreo de la cena de 17:00 a 21:00. 4.6★ (2,638 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: A pocos pasos de la Sexta Avenida, en la calle 52 Oeste, Ocean Prime es un elegante restaurante de carnes y mariscos que conviene visitar en el almuerzo entre semana, entre las 11:30 y las 12:00, cuando el salón está casi vacío, o un fin de semana después de las 16:00, antes de que llegue el ajetreo de la cena de 17:00 a 21:00. Es un lugar para darse un gusto —cortes premium, torres de mariscos fríos y una carta de vinos extensa— así que conviene reservar con antelación, sobre todo para la cena del viernes y el sábado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuáles son los horarios?
     a: De lunes a viernes abre de 11:30 a 22:00 para almuerzo y cena. Los sábados el servicio es solo de cena, de 16:00 a 22:00, y los domingos de 16:00 a 21:00.
 ---
-
-> **Cómo se hizo esta guía:** Revisado por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Primeras impresiones
 

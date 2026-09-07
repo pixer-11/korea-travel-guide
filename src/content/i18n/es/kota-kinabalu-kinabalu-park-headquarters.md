@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kota-kinabalu-kinabalu-park-headquarters
-srcHash: 'b3b5463230ad'
+srcHash: '4763ee1001f7'
 title: 'Sede del Parque Kinabalu: Guía de viaje de Kota Kinabalu'
 description: 'La sede del Parque Kinabalu se encuentra a 1.563 m de altitud, a unas 2 horas en coche de Kota Kinabalu, y abre todos los días de 7:00 a 17:00. 4,4★ (3.516 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La sede del Parque Kinabalu se encuentra a 1.563 m de altitud, a unas 2 horas en coche de Kota Kinabalu, y abre todos los días de 7:00 a 17:00. La mayoría de los visitantes llegan atraídos por el aire fresco, los senderos botánicos y el punto de registro para las ascensiones a la cima del monte Kinabalu. Si solo va a recorrer los senderos naturales, calcule entre 2 y 4 horas; si va a subir a la cima, necesitará varios días. Conviene llegar temprano, ya que la montaña suele nublarse a media mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿La sede del Parque Kinabalu abre todos los días?
     a: Sí, abre a diario de 7:00 a 17:00, sin cierre semanal indicado; de todos modos, conviene confirmar el horario vigente antes de emprender un viaje largo hasta allí, ya que puede variar según la temporada.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

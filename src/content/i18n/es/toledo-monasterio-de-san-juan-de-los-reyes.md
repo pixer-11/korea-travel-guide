@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toledo-monasterio-de-san-juan-de-los-reyes
-srcHash: '2f2e36f7391e'
+srcHash: '5b0ee916a54c'
 title: 'Monasterio de San Juan de los Reyes: Guía de Viaje de Toledo'
 description: San Juan de los Reyes es la gran joya gótico-flamenca de Toledo, construida por Isabel y Fernando en la antigua judería, famosa por su claustro de dos niveles y las cadenas colgadas en su fachada. 4.7★ (9,423 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: San Juan de los Reyes es la gran joya gótico-flamenca de Toledo, construida por Isabel y Fernando en la antigua judería, famosa por su claustro de dos niveles y las cadenas colgadas en su fachada. Abre todos los días, de 10am a 6:45pm. Ve justo a la apertura, entre las 10am y las 11am en días de semana, para evitar las multitudes — los fines de semana se llenan de mediodía a las 6pm.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: El Puente de San Martín, un puente medieval justo debajo del monasterio, ofrece una vista clásica de la fachada desde abajo, y las sinagogas de la antigua judería están a poca distancia a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes de ver el detalle, se percibe el olor de la piedra: ese frescor mineral y silencioso de la caliza vieja que impregna las calles estrechas de la antigua judería de Toledo. Luego la fachada se despliega ante ti, y entiendes por qué esta iglesia dejó de ser solo un edificio para convertirse en un monumento.
 

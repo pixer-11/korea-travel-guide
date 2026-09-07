@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Angkor Wat isn't just a temple — it's the largest religious monument on Earth, built in the early 12th century by King Suryavarman II. You come for the scale first: five lotus-bud towers rising over a moat nearly 200 meters wide, visible from the causeway long before you reach the entrance.

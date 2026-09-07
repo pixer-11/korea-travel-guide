@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Shuri Castle matters
 
 This is not just another Japanese castle. Shuri Castle was the political and spiritual heart of the Ryukyu Kingdom for nearly 450 years, and its architecture shows it — vermilion halls, dragon-carved balustrades, and roof lines that lean toward Fujian and Southeast Asia as much as Kyoto.

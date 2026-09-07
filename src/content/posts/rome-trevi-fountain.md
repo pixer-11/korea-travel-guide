@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You hear the fountain before you see it. Rome's streets around Piazza di Trevi are narrow, sound bounces oddly off the stone, and then you turn a corner and the roar of falling water hits you all at once, echoing off a wall of travertine three storeys high. Nicola Salvi's design, finished in 1762 after his death, backs directly onto the Palazzo Poli, so the whole facade reads like a stage set — Neptune driving a shell-chariot pulled by sea horses, tritons straining against the current, water crashing down artificial rock into a pool the size of a small piazza.

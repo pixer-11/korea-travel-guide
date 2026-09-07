@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Albert Hall Museum is Jaipur's oldest museum, and it looks the part. Built in 1887 in Indo-Saracenic style, its domes and arches rise out of Ram Niwas Garden like a small palace transplanted into a public park.

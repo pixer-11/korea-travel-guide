@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cannes-vue-depuis-le-suquet
-srcHash: '852ba422385d'
+srcHash: '6c5fcc6c8dcf'
 title: 苏凯山丘望景:戛纳旅行指南
 description: 登上戛纳老城区的山丘苏凯(Le Suquet),你将在拉卡斯特博物馆(Musée de La Castre)旁及其方形苏凯塔(Tour du Suquet)一带收获绝佳回报:整个戛纳湾尽收眼底。
 quickAnswer: 登上戛纳老城区的山丘苏凯(Le Suquet),你将在拉卡斯特博物馆(Musée de La Castre)旁及其方形苏凯塔(Tour du Suquet)一带收获绝佳回报:整个戛纳湾(Baie de Cannes)尽收眼底，拉克鲁瓦塞特大道(La Croisette)沿海岸线蜿蜿展开，莱兰群岛(Îles de Lérins)漂浮于海面之上，而埃斯特雷尔山地(Estérel massif)在日落时泛起红光。这里免费开放，从港口步行上山约需20-30分钟，清晨或日落前一小时人最少。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一去的地方?
     a: 老港(Vieux Port)及其沿岸的餐厅只需下坡步行几分钟即可到达，福维尔市场(Marché Forville)和节日宫(Palais des Festivals)也都在约15分钟步行范围内。
 ---
-
-> **本指南制作方式说明:** 经编辑审核、AI辅助完成。内容取自Google Places实时数据，图片均获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为何是这个观景点，而非其他
 

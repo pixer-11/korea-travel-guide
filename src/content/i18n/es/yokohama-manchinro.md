@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yokohama-manchinro
-srcHash: 'b2aa8ccfd917'
+srcHash: '0b988f411152'
 title: 'Manchinro: dónde comer en Yokohama'
 description: Manchinro es el restaurante insignia del barrio chino de Yokohama (Chinatown), donde se sirve una refinada cocina cantonesa en un comedor decorado con esmero, sobre la calle principal de Yamashita-cho.
 quickAnswer: Manchinro es el restaurante insignia del barrio chino de Yokohama (Chinatown), donde se sirve una refinada cocina cantonesa en un comedor decorado con esmero, sobre la calle principal de Yamashita-cho. Los precios son de rango medio-alto, así que conviene ir dispuesto a disfrutar de una comida completa de varios tiempos —un almuerzo de dim sum o una cena estilo banquete— y no de un bocado rápido; además, es mejor reservar con antelación o llegar justo a la apertura para evitar esperas. La estación más cercana es Ishikawacho (línea JR Negishi), a unos 7-8 minutos a pie del corazón de Chinatown.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para seguir el paseo después de comer?
     a: El parque Yamashita y el paseo marítimo quedan a 15-20 minutos a pie, y las puertas principales de Chinatown, sus tiendas y los puestos de bollos al vapor están todos a pocos minutos caminando, ideales para un paseo después de la cena.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Manchinro importa en Chinatown
 

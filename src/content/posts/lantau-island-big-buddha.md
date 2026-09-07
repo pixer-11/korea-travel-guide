@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Lantau Island is Hong Kong's largest outlying island, and its highest-profile landmark sits on a plateau 500 metres up: the Tian Tan Buddha, known to almost everyone simply as the Big Buddha. Cast in bronze and seated on a lotus throne, it faces north toward mainland China, visible from the South China Sea on a clear day.
 
 ## Getting up to Ngong Ping

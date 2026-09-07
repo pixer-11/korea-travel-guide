@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Walk in off Via Accademia delle Scienze and the first thing that hits you is scale: rows of granite sphinxes and colossal statues of Ramesses II lined up under a soft, gallery-grade light, their basalt surfaces polished smooth by three thousand years and several centuries of museum handling. This isn't a side gallery bolted onto a bigger institution — it's a dedicated Egyptology museum, founded in 1824, and after Cairo's own collection, it's considered the most important assembly of Egyptian material anywhere.

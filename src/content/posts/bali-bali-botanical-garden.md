@@ -58,8 +58,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The air changes before you even reach the gate. Candikuling sits over 1,200 metres up near Bedugul, and the temperature drops noticeably from the coast — you'll want a light jacket, not sunscreen alone.

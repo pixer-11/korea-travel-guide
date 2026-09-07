@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Taiping Lake Gardens isn't just a pretty park — it's Malaysia's oldest, laid out in the 1880s over abandoned tin-mining pits. The result feels less like a municipal garden and more like a slow-grown forest that happens to have paths through it.

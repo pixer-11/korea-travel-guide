@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Phu Quoc National Park is the island's wild, quiet half. While the coast fills with resorts and beach clubs, this UNESCO Biosphere Reserve of evergreen forest, granite streams and forgotten trails stays largely overlooked by the crowds heading to Sao Beach or Grand World.

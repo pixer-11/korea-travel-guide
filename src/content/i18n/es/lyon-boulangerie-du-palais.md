@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-boulangerie-du-palais
-srcHash: 'b0e992c0f34d'
+srcHash: '6552cecdb382'
 title: 'Boulangerie Du Palais: Guía de viaje de Lyon (4,3★)'
 description: Boulangerie Du Palais es una panadería económica y de horario continuo en el barrio de Vieux Lyon, en Rue du Palais de Justice, abierta todos los días de 7:00 a 19:00. 4,3★ (1.702 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Boulangerie Du Palais es una panadería económica y de horario continuo en el barrio de Vieux Lyon de Lyon, en Rue du Palais de Justice, abierta todos los días de 7:00 a 19:00. Ve justo a la apertura (7:00–8:00) un día de semana para la visita más tranquila, o después de las 17:00 los fines de semana — evita el ajetreo de 10:00 a 16:00 los fines de semana, cuando se forman colas. Encontrarás bollería, tartas, panes, porciones de pizza y sándwiches, todo fácil de llevar y comer junto al río.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero dedicarle toda la mañana?
     a: La Cathédrale Saint-Jean está a cinco minutos a pie, y se puede llegar a la Basílica de Notre-Dame de Fourvière tomando el funicular desde la estación Vieux Lyon.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

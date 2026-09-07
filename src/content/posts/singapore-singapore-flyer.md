@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see the Flyer before you understand its scale — a slim ring of steel rising over Marina Bay, visible from the Esplanade, from Gardens by the Bay, even from the expressway coming in from Changi. Up close, at 165 metres, it's taller than the London Eye, and the 28 fully air-conditioned capsules look almost toy-like against the sky until you're standing beneath one and it swallows you whole.

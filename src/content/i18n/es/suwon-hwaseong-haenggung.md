@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suwon-hwaseong-haenggung
-srcHash: 'f9c6f115d897'
+srcHash: 'a4fc1a24cd04'
 title: 'Hwaseong Haenggung: Guía de viaje de Suwon (4,5★)'
 description: 'El Hwaseong Haenggung de Suwon es el mayor de los palacios reales temporales de Corea, reconstruido después de 1996 a partir del original de 1789 dentro de las murallas de la Fortaleza Hwaseong. 4,5★ (12.807 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Hwaseong Haenggung de Suwon es el mayor de los palacios reales temporales de Corea, reconstruido después de 1996 a partir del original de 1789 dentro de las murallas de la Fortaleza Hwaseong. Abre todos los días de 9:00 a 18:00, la visita dura entre 45 y 90 minutos, y los días laborables son más tranquilos que los fines de semana, cuando la afluencia aumenta de forma constante a partir de las 11:00. Vale la pena acudir para ver la ceremonia del cambio de guardia y el espectáculo de artes marciales que se representa en el patio delantero.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay alguna ceremonia de guardia o espectáculo para ver?
     a: Sí, en el patio delantero se celebra a diario, en un horario fijo, una ceremonia de cambio de guardia y una demostración de artes marciales tradicionales; el horario está publicado cerca de la puerta Sinpungnu.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El Hwaseong Haenggung se encuentra en 825 Jeongjo-ro, en el distrito de Paldal-gu, el corazón del Suwon histórico. Fue el palacio temporal del rey Jeongjo, construido en 1789 para que pudiera permanecer cerca de la tumba de su padre y supervisar la nueva ciudad amurallada. Se trata del mayor haenggung jamás construido en Corea, y la mayor parte de lo que hoy puede verse es una cuidadosa reconstrucción posterior a 1996, después de que las autoridades coloniales japonesas demolieran el original.
 

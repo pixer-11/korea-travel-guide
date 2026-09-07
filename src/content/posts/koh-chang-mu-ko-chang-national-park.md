@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Mu Ko Chang Is Worth the Trip
 
 Most of Koh Chang, Thailand's second-largest island, actually sits inside this national park boundary. That means the jungle ridge running down its spine, the waterfalls tumbling off it, and the reefs scattered around 40-plus smaller islands nearby are all protected under one designation.

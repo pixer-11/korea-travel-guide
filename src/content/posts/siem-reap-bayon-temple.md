@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bayon stops people mid-step
 
 You walk up a low causeway and the temple looks like a pile of grey rubble from a distance. Then you get close, look up, and a face is looking back at you. Then another, and another — enormous stone faces, eyes half-closed, mouths curled into that famous half-smile, stacked on tower after tower. Bayon has 54 towers and, by most counts, over 200 of these faces, carved in the late 12th century under King Jayavarman VII.

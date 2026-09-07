@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hyderabad-golconda-fort
-srcHash: '1140f6a4f4da'
+srcHash: '2dc5e49c7ca4'
 title: 'Fuerte de Golconda: Guía de viaje de Hyderabad'
 description: El Fuerte de Golconda es la ciudadela en lo alto de una colina de Hyderabad de la era Qutb Shahi, abierta todos los días de 9am a 5pm, con 87 baluartes, ruinas de palacios y un sistema acústico de aplauso y eco que asciende hasta el Baradari en la cima.
 quickAnswer: El Fuerte de Golconda es la ciudadela en lo alto de una colina de Hyderabad de la era Qutb Shahi, abierta todos los días de 9am a 5pm, con 87 baluartes, ruinas de palacios y un sistema acústico de aplauso y eco que asciende hasta el Baradari en la cima. Reserva de dos a tres horas, usa calzado adecuado para caminar por el granito en la subida, y llega lo más cerca posible de las 9am — este es uno de los monumentos más visitados de la ciudad y las rampas y escaleras se llenan rápido después de media mañana. Combínalo con el espectáculo nocturno de luces y sonido si quieres que te cuenten la historia del fuerte en la oscuridad.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay mucha gente?
     a: Es uno de los monumentos más visitados de Hyderabad, así que hay que esperar aglomeraciones hacia el final de la mañana y los fines de semana; llegar cerca de la apertura a las 9am es la mejor forma de verlo con más espacio.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA. Los datos provienen de los datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes Golconda antes de verlo por completo. Desde la puerta de entrada cerca de la Fateh Darwaza, la "Puerta de la Victoria", el camino asciende en zigzag a través de una serie de puertas de hierro tachonadas diseñadas para detener a los elefantes de guerra, y el granito bajo tus pies ya está desgastado y liso tras seis siglos de pisadas.
 

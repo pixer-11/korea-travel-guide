@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: washington-dc-lincoln-memorial
-srcHash: 'c9bb53301791'
+srcHash: 'c713b7cbb447'
 title: 林肯纪念堂：华盛顿特区旅行指南（4.8★）
 description: 林肯纪念堂位于华盛顿特区国家广场西端，正对倒影池与华盛顿纪念碑。4.8★（54,427条评价）——游客怎么说、开放时间与实用建议，一文看懂。
 quickAnswer: 林肯纪念堂坐落在华盛顿特区国家广场的西端，正面朝向倒影池与华盛顿纪念碑。这里全年全天24小时开放，免费入场，工作日和周末的早上7点到9点人最少，而周末从上午10点到晚上10点则是人流高峰期。建议预留45到60分钟，用来登上台阶、参观雕像并阅读碑文演讲。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些景点？
     a: 越战老兵纪念碑（Vietnam Veterans Memorial）和朝鲜战争老兵纪念碑（Korean War Veterans Memorial）都只需步行几分钟即可到达，沿着潮汐湖（Tidal Basin）步行约10分钟则能抵达马丁·路德·金纪念碑（Martin Luther King Jr. Memorial）。
 ---
-
-> **本指南制作方式：** 经编辑审核，并借助AI辅助完成。文中信息取自Google Places实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 先弄清楚方位
 

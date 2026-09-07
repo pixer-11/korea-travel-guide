@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nikko-nikko-national-park
-srcHash: 'e9b397015204'
+srcHash: 'b7f4cfc390eb'
 title: 'Parque Nacional de Nikko: Guía de viaje (4,4★)'
 description: 'El Parque Nacional de Nikko se extiende mucho más allá de los famosos santuarios, hacia las tierras altas volcánicas que rodean el lago Chuzenji, las cataratas Kegon y la meseta pantanosa de Senjogahara. 4,4★ (943 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Nacional de Nikko se extiende mucho más allá de los famosos santuarios, hacia las tierras altas volcánicas que rodean el lago Chuzenji, las cataratas Kegon y la meseta pantanosa de Senjogahara. Está abierto las 24 horas, pero conviene reservarle un día entero: suba en coche o autobús desde la estación de Nikko, recorra las pasarelas de madera de Senjogahara y termine relajándose en las aguas sulfurosas de Yumoto antes del anochecer. Las mejores épocas son de finales de abril a mayo y las semanas de otoño en octubre, cuando el follaje cambia de color; ir temprano por la mañana permite adelantarse a los autobuses turísticos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El santuario Toshogu y el complejo de templos del centro de Nikko se encuentran al pie de la carretera de Irohazaka, justo debajo del parque, por lo que resultan una parada natural antes o después de subir.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 En cuanto la carretera empieza a zigzaguear por la cuesta de Irohazaka y los oídos se taponan, queda claro que este parque ofrece una experiencia muy distinta a la del pueblo de templos que se deja atrás. Los cedros dan paso a los abedules, el aire se enfría y, entre los árboles, el lago Chuzenji aparece como una lámina de peltre martillado.
 

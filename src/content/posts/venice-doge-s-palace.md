@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the Piazzetta and the façade just stops you: pink-and-white Verona marble laid in a diamond pattern, a colonnade of pointed Gothic arches below, and a solid wall of stone above that looks almost fortified by comparison. This was the seat of the Venetian Republic for centuries — where the Doge lived, where the Great Council legislated, and where prisoners were marched across the Bridge of Sighs to cells that still smell faintly of damp stone.

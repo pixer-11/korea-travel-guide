@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sai Kung Public Pier is the front door to Hong Kong's "back garden." This is where fishing town meets island-hopping launchpad, and the energy is unmistakable the moment you arrive.

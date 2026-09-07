@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the lean still stops you in your tracks
 
 You've seen the photo a thousand times, so nothing quite prepares you for the tilt in person. Walk out from the narrow streets of central Pisa into the Piazza dei Miracoli and the tower seems to hang there, defying the eye, white against green lawn.

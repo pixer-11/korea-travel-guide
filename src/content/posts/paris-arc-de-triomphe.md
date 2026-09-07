@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the Arc de Triomphe before you really see it — twelve avenues fanning out around it like spokes, a solid wall of traffic circling below, and this 50-metre stone colossus sitting utterly still in the middle of the chaos. Napoleon commissioned it in 1806 to celebrate his military victories, though he never lived to see it finished; it was completed in 1836.

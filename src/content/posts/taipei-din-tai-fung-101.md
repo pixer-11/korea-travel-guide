@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this branch, specifically
 
 Taipei has a dozen Din Tai Fung locations, but the Xinyi branch — tucked into the basement level of a building on City Hall Rd, right in the shadow of Taipei 101 — is the one most visitors end up at, whether they planned to or not. It's woven into the same block as the Xinyi shopping district, so after you've ridden the elevator up 101 or wandered through the surrounding department stores, this is the obvious place to land when your legs give out and you want soup dumplings.

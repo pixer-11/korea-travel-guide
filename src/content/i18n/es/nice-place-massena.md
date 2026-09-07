@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nice-place-massena
-srcHash: '7001834518d1'
+srcHash: '93bb5a6dd599'
 title: 'Place Masséna: Guía de Viaje de Niza (4.6★)'
 description: 'Place Masséna es la gran plaza de ocre rojizo de Niza, que conecta el Casco Antiguo con la Promenade du Paillasson y el mar. 4.6★ (11.939 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Place Masséna es la gran plaza de ocre rojizo de Niza, que conecta el Casco Antiguo con la Promenade du Paillasson y el mar. Está abierta todo el día, todos los días, pero conviene ir entre las 7:00 y las 9:00 si se quiere disfrutar sin gente; a partir de la 1:00 p.m. de los fines de semana se llena y así se mantiene hasta las 11:00 p.m. Hay que reservar entre 20 y 30 minutos solo para verla, más si coincide con algún evento.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con la visita?
     a: El Casco Antiguo, el Jardin Albert 1er y la Promenade des Anglais quedan todos a menos de 10 minutos caminando.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 Place Masséna se siente antes de verse. El ruido del tráfico de la Avenue Jean Médecin va quedando atrás, la calle se estrecha en un amplio tablero de ajedrez de adoquines blancos y negros y, de pronto, los edificios de alrededor adoptan ese mismo ocre rojizo intenso, como un decorado de teatro que alguien olvidó desmontar.
 

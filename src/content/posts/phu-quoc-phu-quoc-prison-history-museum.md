@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the heat before you see anything — dust and hot tin roofing rising off a compound ringed with rusted barbed wire. This is Coco Prison, formally the Phu Quoc Prison History Museum, and it doesn't ease you in. Within the first few paces you're already looking at reconstructed cages.
 
 The site began under French colonial rule and later became the largest POW camp of the Vietnam War, holding tens of thousands of prisoners at its peak. Walking between the low concrete barracks, you pass life-sized mannequins recreating specific torture methods used here: tiger cages, barbed-wire confinement boxes, men strung up mid-punishment.

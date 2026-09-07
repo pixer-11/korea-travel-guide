@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Fort Canning Park sits on a low hill right above Clarke Quay, and you feel the change the moment you leave the riverside bars behind. The traffic noise drops away, the air cools under rain trees, and gravel paths replace pavement. It's one of the few spots in this part of Singapore where colonial history, ancient royal legend, and pure green space overlap on a single hillside.
 
 Because it's a public park with no gates, Fort Canning is open 24 hours every day. That makes it flexible, but it also means there's no ticket booth, no single "entrance," and no staff to point you around. You choose your own route up, and that's part of the appeal.

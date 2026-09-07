@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-glam-telok-blangah-hill-park
-srcHash: 'ee18a824c9d5'
+srcHash: '59f3b9470602'
 title: 'Telok Blangah Hill Park: Guía de viaje de Singapur (4,6★)'
 description: 'Telok Blangah Hill Park se ubica en la cresta sur de Singapur, cerca de Mount Faber y HarbourFront, y merece un desvío si buscas vistas de la ciudad y del puerto sin las multitudes de Sentosa. 4,6★ (2.581 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: Telok Blangah Hill Park se ubica en la cresta sur de Singapur, cerca de Mount Faber y HarbourFront, y merece un desvío si buscas vistas de la ciudad y del puerto sin las multitudes de Sentosa. Está abierto las 24 horas, y los fines de semana la franja más tranquila va de las 7 a las 9 de la mañana, antes de que lleguen los grupos de caminantes y los picnics a media mañana. Reserva entre 1,5 y 2 horas para recorrer la cresta, cruzar hacia Mount Faber Park por el paseo elevado entre copas de árboles y contemplar el perfil urbano desde Henderson Waves.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay comida cerca?
     a: Hay un restaurante cerca del borde del parque, pero las opciones escasean a mitad de camino, así que conviene llevar agua y algo para picar si se va a recorrer toda la cresta.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Ubicarse primero
 

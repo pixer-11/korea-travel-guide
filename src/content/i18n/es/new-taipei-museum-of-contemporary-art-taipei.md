@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-museum-of-contemporary-art-taipei
-srcHash: 'cdc775880e23'
+srcHash: '7d541626bdc7'
 title: 'Museo de Arte Contemporáneo de Taipéi: guía de viaje de Nueva Taipéi'
 description: 'El Museo de Arte Contemporáneo de Taipéi (MOCA Taipei) se encuentra en el distrito de Datong, en el número 39 de Chang''an W Rd, dentro de un antiguo edificio escolar de ladrillo rojo de principios del siglo XX. En realidad no está en Nueva Taipéi, sino a un breve trayecto en el metro de Taipéi. Valoración de 4,4★ (7.443 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte Contemporáneo de Taipéi (MOCA Taipei) se encuentra en el distrito de Datong, en el número 39 de Chang'an W Rd, dentro de un antiguo edificio escolar de ladrillo rojo de principios del siglo XX. En realidad no está en Nueva Taipéi propiamente dicha, sino a un breve trayecto de allí en el metro de Taipéi. Cierra los lunes y abre de 10:00 a 18:00 el resto de la semana, con más afluencia los fines de semana entre las 11:00 y las 18:00. Conviene reservar entre 90 minutos y dos horas, y lo ideal es ir un día entre semana por la mañana si se quiere tener las salas para uno mismo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: Entre 90 minutos y dos horas son suficientes para ver la arquitectura permanente, las exposiciones principales y el pequeño anexo MOCA Cube.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

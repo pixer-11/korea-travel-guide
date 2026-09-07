@@ -47,8 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this temple matters
 
 Kashi Vishwanath is one of the twelve Jyotirlingas — the sites believed to house a self-manifested form of Shiva's light — and for millions of pilgrims it's the reason to come to Varanasi at all. The current structure dates to the 1780s, rebuilt by Ahilyabai Holkar of Indore after earlier temples on the site were destroyed, and its spire is sheathed in roughly 800 kilograms of gold donated by Maharaja Ranjit Singh in the 1830s.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-view-rooftop-bangkok
-srcHash: '459983d4a97c'
+srcHash: '6682a27ed2dc'
 title: View Rooftop：曼谷旅行指南（4.8★）
 description: View Rooftop 位于诺富特曼谷白金水门酒店（Novotel Bangkok Platinum Pratunam）9楼，是一处低调的观景点（并非那些60多层高的摩天大楼），以性价比取胜——冷饮、泳池吧氛围，以及俯瞰水门（Pratunam）成衣批发区的环幕天际线。4.8★（2,103条评价）——游客怎么说、开放时间及实用小贴士。
 quickAnswer: View Rooftop 位于诺富特曼谷白金水门酒店（Novotel Bangkok Platinum Pratunam）9楼，是一处低调的观景点（并非那些60多层高的摩天大楼），以性价比取胜——冷饮、泳池吧氛围，以及俯瞰水门（Pratunam）成衣批发区的环幕天际线。建议在日落前后（视季节大约傍晚5:30–6:30）前往，趁着酒店和附近铂金百货（Platinum Mall）的人潮涌入之前，欣赏城市光线的变化。预算方面，建议留给一两杯中档价位的饮品而非正餐，出发前最好先向酒店确认当前的营业时间。
@@ -17,8 +17,6 @@ faq:
   - q: 周边有什么景点？
     a: 铂金时尚百货（Platinum Fashion Mall）就在旁边，购物途中来此小憩十分方便；水门市场（Pratunam Market）和拜约克天空塔（Baiyoke Sky Tower）一带也都在不远处，很容易到达。
 ---
-
-> **本指南制作方式：** 由编辑审核、AI辅助完成。资料来源于Google Places实时数据；图片均为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为何前往
 

@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First impressions
 
 You come in off West 52nd Street, past a doorman-height façade that gives almost nothing away, and the room opens up dark and glossy: black-and-gold fixtures, a long marble-topped bar stacked with wine, low lighting that turns every steak knife and coupe glass into a small glint. It's the kind of dining room built for a midtown power dinner or an anniversary that someone's expensing.

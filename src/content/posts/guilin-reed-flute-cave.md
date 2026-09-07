@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The name comes from the reeds that once grew at the cave mouth, used to make flutes — a detail that feels almost quaint once you're inside, because nothing about this cave reads as quaint. Reed Flute Cave has been forming for roughly 240 million years, and the karst dissolution that carved it has left behind a genuinely strange landscape of stone curtains, columns, and flowstone that locals nicknamed "the Palace of Natural Arts" for a reason.

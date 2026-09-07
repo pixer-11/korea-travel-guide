@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this place matters
 
 You arrive expecting a typical war museum. You leave with something heavier and more specific: a room-by-room account of what happened to Okinawan civilians in 1945, told largely in their own words.

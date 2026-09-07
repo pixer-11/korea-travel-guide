@@ -80,8 +80,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Dim Dim Sum, and why here
 
 Mong Kok isn't short on places to eat, but Dim Dim Sum has built a loyal following for one reason: it treats dim sum as an all-day affair, not a brunch-only ritual.

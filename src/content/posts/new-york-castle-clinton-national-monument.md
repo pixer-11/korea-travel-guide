@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before it became the place where you queue for a ferry ticket, this squat, reddish-brown sandstone ring was a fort built to keep the British out of New York Harbor. You walk up and the shape alone tells the story: thick circular walls, no sharp corners, originally ringed by water on three sides until landfill pushed the shoreline out and left it stranded on solid ground.

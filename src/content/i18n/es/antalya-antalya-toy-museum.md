@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: antalya-antalya-toy-museum
-srcHash: '81a040ddc74b'
+srcHash: '710f86f07a3f'
 title: 'Museo del Juguete de Antalya: Guía de viaje (4,6★)'
 description: 'El Museo del Juguete de Antalya ocupa una casa de piedra otomana restaurada en el casco antiguo de Kaleiçi, justo encima del puerto deportivo, y reúne varios miles de juguetes fabricados entre 1860 y 1990. 4,6★ (1.585 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el casco antiguo de Kaleiçi, justo encima del puerto deportivo, una casa de piedra otomana restaurada alberga el Museo del Juguete de Antalya, con varios miles de juguetes fabricados entre 1860 y 1990. Abre de martes a domingo, de 9:00 a 18:00, cierra los lunes, y basta con 30-45 minutos para recorrerlo con calma. Conviene ir temprano un día laborable para tener casi para uno solo las crujientes salas de madera.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena ir con niños?
     a: 'Sí: los juguetes de cuerda, las casas de muñecas y los robots de hojalata suelen fascinar a los niños, aunque las salas pequeñas y las vitrinas de cristal se prestan más a una mirada tranquila y de cerca que a corretear por el lugar.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

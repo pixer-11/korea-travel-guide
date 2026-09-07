@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Library of Celsus stops people mid-step
 
 You round a bend on Curetes Street and it just appears — two tiers of columns, niches, and carved pediments rising against the sky. Nothing else at Ephesus prepares you for the scale of that facade up close.

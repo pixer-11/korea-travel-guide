@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't just a lighthouse — it's a fortified compound with a story. Built in 1883 under the Qing dynasty, Eluanbi was armed with cannons and a moat to fend off hostile locals after shipwrecked sailors had clashed with Indigenous Paiwan communities nearby.

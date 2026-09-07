@@ -46,8 +46,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this view, and not the famous one
 
 Every guidebook sends you to the terrace of Castel Sant'Elmo or the belvedere at San Martino for the classic Naples panorama, and both are worth the ticket. But a five-minute walk further along Via Tito Angelini, past the last souvenir cart and the last tour group, the street simply opens up on one side and Naples spreads out below you again — this time with no barrier, no entrance fee, and almost nobody else standing there.

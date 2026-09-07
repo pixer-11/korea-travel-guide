@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanchanaburi-hellfire-pass-interpretive-centre
-srcHash: '999607aaa0f9'
+srcHash: '7057b768a8b7'
 title: 'Centro de Interpretación de Hellfire Pass: Guía de viaje de Kanchanaburi'
 description: 'El Centro de Interpretación de Hellfire Pass, a unos 80 km al noroeste de la ciudad de Kanchanaburi, en el distrito de Sai Yok, abre todos los días de 9:00 a 16:00 y la entrada es gratuita (se aceptan donativos). 4,7★ (5.339 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Centro de Interpretación de Hellfire Pass, a unos 80 km al noroeste de la ciudad de Kanchanaburi, en el distrito de Sai Yok, abre todos los días de 9:00 a 16:00 y la entrada es gratuita (se aceptan donativos). Reserve al menos dos horas: 45 minutos para el museo y, además, una caminata hasta el propio desfiladero, que es la parte más impactante. Llegue lo antes posible después de las 9:00, ya que el sendero no tiene sombra alguna y el calor se vuelve muy intenso hacia el mediodía.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es Hellfire Pass adecuado para niños o personas con movilidad reducida?
     a: El museo en sí es plano y accesible, pero el sendero hacia el desfiladero incluye una escalera empinada y un terreno irregular y rocoso, por lo que no es apto para sillas de ruedas y puede resultar difícil para niños pequeños debido al calor.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El cambio de temperatura se percibe antes de entender por qué ocurre. Al bajar la larga escalera situada detrás del museo, la selva se cierra a ambos lados y el aire se vuelve denso e inmóvil. Entonces aparecen las paredes de roca —verticales, talladas a mano, de hasta doce metros de altura en algunos tramos— y uno se encuentra, sin más, dentro del propio Hellfire Pass.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-yangmingshan-national-park
-srcHash: '492e29df8046'
+srcHash: 'df271c0b33ed'
 title: 'Parque Nacional de Yangmingshan: guía de viaje de Nuevo Taipéi'
 description: El Parque Nacional de Yangmingshan se encuentra justo al norte del centro de Taipéi, a menos de una hora en autobús, y lo mejor es visitarlo un día de semana por la mañana, cuando los respiraderos de azufre de Xiaoyoukeng todavía están envueltos en niebla y aún no ha llegado la multitud.
 quickAnswer: 'El Parque Nacional de Yangmingshan se encuentra justo al norte del centro de Taipéi, a menos de una hora en autobús, y lo mejor es visitarlo un día de semana por la mañana, cuando los respiraderos de azufre de Xiaoyoukeng todavía están envueltos en niebla y aún no ha llegado la multitud. Vale la pena ir por el cráter del volcán inactivo del monte Qixing, las fumarolas humeantes y, según la temporada, las aguas termales y los cerezos en flor: reserva medio día o un día entero. Los fines de semana y la temporada de flores de primavera saturan los autobuses lanzadera y las plataformas de observación, así que ve temprano o entre semana si puedes.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que valga la pena combinar con la visita?
     a: El distrito de aguas termales de Beitou está justo al sur del parque y se combina fácilmente con una caminata, junto con el Valle Térmico de Beitou (Beitou Thermal Valley) y el museo de aguas termales, a poca distancia a pie de la estación Xin Beitou.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

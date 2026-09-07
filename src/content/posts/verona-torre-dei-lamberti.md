@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot it before you reach it — a brick shaft rising well above every rooftop around Piazza delle Erbe, its upper stage a different, paler stone from a later century. That mismatch is the first clue to its story: begun in 1172, finished in fits and starts over 300 years.
 
 ## Why go

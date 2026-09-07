@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the strange, layered mix of jungle boardwalk and farmyard theme park. Green World Ecological Farm spreads across the hills of Beipu Township, and the moment you pass the gate the traffic noise disappears, replaced by birdsong and the rustle of bamboo groves overhead.

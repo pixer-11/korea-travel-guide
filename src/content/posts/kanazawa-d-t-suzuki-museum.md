@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a museum you rush through. It's a small, deliberately empty building designed to slow you down, built to honor Daisetsu Teitaro Suzuki, the Kanazawa-born scholar who introduced Zen Buddhism to the Western world.

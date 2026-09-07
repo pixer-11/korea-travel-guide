@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long Beach is what people picture when they imagine Koh Rong before it got busy. Seven kilometres of pale sand curve along the island's west coast, backed by scrub and palm rather than bars and speaker stacks. The water is shallow and turquoise for a long way out, and past the small cluster of guesthouses near Sok San village, you can walk for twenty minutes without passing another person.

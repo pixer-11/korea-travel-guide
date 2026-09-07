@@ -66,8 +66,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why climb Taraw Cliff
 
 You see it before you see anything else in El Nido: a jagged wall of grey limestone shooting up behind the rooftops of Buena Suerte. It looks improbable, almost theatrical, and that first glimpse is what pulls most people toward the trailhead.

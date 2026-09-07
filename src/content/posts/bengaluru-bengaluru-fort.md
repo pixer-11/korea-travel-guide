@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for a single carved stone gateway, not a sprawling fortress. Bengaluru Fort once ringed the old city with mud ramparts and later stone walls, but centuries of urban growth swallowed almost all of it. What remains is this Mysore-era gate, its granite blocks worn smooth at the edges, sitting almost incongruously amid the traffic and market stalls of New Tharagupet.

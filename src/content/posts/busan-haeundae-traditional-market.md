@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the gap between the beach and the backstreets. Haeundae Beach draws the crowds with its sand and skyline, but two minutes inland the market alley runs narrow, low-roofed, and thick with steam from a dozen food stalls. It's not a secret — locals and tourists both eat here — but it's where the neighborhood actually feeds itself.

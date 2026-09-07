@@ -97,8 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-09'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of Anıtkabir before you understand it. From the entrance on Anıttepe hill, a broad processional avenue — the Lion Road, Aslanlı Yol — stretches ahead, lined on both sides with stone lions modeled on Hittite originals, spaced with a deliberate, almost military rhythm. There's no rushing this approach; it's built to slow you down, to make you feel small before you reach the vast paved ceremonial square, the Peace Park's pines rustling somewhere behind the limestone facades that flank it.
 
 ## Why it matters

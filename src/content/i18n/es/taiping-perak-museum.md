@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiping-perak-museum
-srcHash: '7d33521f616e'
+srcHash: '768ec7c864aa'
 title: 'Museo Perak: guía de viaje de Taiping (4,3★)'
 description: 'El Museo Perak, en Taiping, es el museo más antiguo de Malasia: un edificio colonial de estilo 1833 repleto de especímenes de historia natural, artefactos tribales y piezas sobre la historia minera del estaño en Perak. 4,3★ (3.324 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo Perak, en Taiping, es el museo más antiguo de Malasia: un edificio colonial de estilo 1833 repleto de especímenes de historia natural, artefactos tribales y piezas sobre la historia minera del estaño en Perak. Abre todos los días de 9:00 a 17:00; conviene ir en fin de semana, ya que apenas se forman aglomeraciones incluso al mediodía. Calcule entre 45 y 60 minutos, más si se detiene un rato en la sala de taxidermia.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitar el Museo Perak?
     a: 'Sí: es el museo más antiguo de Malasia, alojado en un llamativo edificio colonial de la década de 1880, y ofrece una mirada realmente profunda a la historia natural, la cultura tribal y el pasado minero del estaño en Perak.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Primeras impresiones
 

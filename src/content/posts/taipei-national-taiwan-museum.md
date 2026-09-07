@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the dome before you spot the entrance. Modeled on Greco-Roman civic architecture and finished in 1915 under Japanese colonial rule, this is the oldest museum in Taiwan, and it looks it — in the best way. Marble columns, a coffered ceiling, stained glass filtering light onto the terrazzo floor. Inside, the collection spans geology, zoology, and the indigenous cultures of the island, anchored by a taxidermied Formosan black bear that's been startling schoolkids for generations.

@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lalbagh isn't just a park — it's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in the heart of Mavalli.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-hong-kong-heritage-museum
-srcHash: 'ca907129ca00'
+srcHash: '57a02d2c0af6'
 title: 'Museo del Patrimonio de Hong Kong: guía de viaje de Sha Tin (4.3★)'
 description: 'El Museo del Patrimonio de Hong Kong se encuentra en Sha Tin, Nuevos Territorios, junto al río Shing Mun, y es uno de los museos más grandes y visitados del territorio. 4.3★ (7.832 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo del Patrimonio de Hong Kong se encuentra en Sha Tin, Nuevos Territorios, junto al río Shing Mun, y es uno de los museos más grandes y visitados del territorio. La mejor hora para ir es un día de semana por la mañana, justo a la apertura de las 10:00, ya que los fines de semana recibe multitudes y permanece cerrado todo el martes. Conviene reservar entre dos y tres horas para recorrer con calma la galería de Bruce Lee, la sala de ópera cantonesa y las galerías de diseño.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita con otra actividad?
     a: El centro comercial New Town Plaza y el paseo del río Shing Mun están ambos a poca distancia a pie del museo, cerca de la estación de Sha Tin.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Primero, para orientarse
 

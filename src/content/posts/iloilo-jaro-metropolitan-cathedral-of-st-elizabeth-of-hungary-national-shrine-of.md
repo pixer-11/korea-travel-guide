@@ -81,8 +81,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the bell tower before you spot the church itself. It stands across the road from the main façade, not attached to it — a detail that trips up almost every first-time visitor to Jaro.
 
 That separation isn't a design accident. Earthquakes have repeatedly hit this part of Iloilo, and after a major one in 1948 damaged the original structure, the bell tower was left as its own freestanding monument. Locals sometimes call it the "watchtower," and it still functions as a quiet counterpoint to the cathedral's cream-and-white bulk.

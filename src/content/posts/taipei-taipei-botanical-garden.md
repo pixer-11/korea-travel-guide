@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the quiet the moment you step off Nanhai Road. Traffic noise falls away under a canopy of banyans and bamboo, and the air smells faintly of wet soil and lotus. With a rating hovering around 4.6 from nearly 12,000 visitors, it's one of Taipei's most consistently loved green spaces — not a secret, but a genuine local institution.

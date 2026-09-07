@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You round a bend on the coast road and the whole thing opens up below you: lemon terraces stacked on impossibly steep rock, a cluster of pastel houses wedged into a ravine, and the Tyrrhenian Sea somewhere past turquoise. This is why the Amalfi Coast has UNESCO World Heritage status — it's not one sight but a whole landscape, 50-odd kilometres of it, where towns like Positano, Amalfi, Praiano, and Ravello cling to cliffs that seem to leave no room for a road, let alone a town.

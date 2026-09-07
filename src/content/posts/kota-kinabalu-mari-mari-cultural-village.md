@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kota Kinabalu's coastline gets most of the postcards, but Sabah's real story is inland — in the longhouses of the Kadazan-Dusun, Bajau, Murut, Lundayeh, and Rungus peoples who settled this part of Borneo long before it had a name on a map. Mari Mari Cultural Village compresses that story into one walkable jungle clearing along the Kionsom River, rebuilding each tribe's traditional house from bamboo, bark, and thatch, and staffing them with guides who actually demonstrate the skills rather than just narrate them.

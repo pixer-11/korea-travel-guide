@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-valle-delle-ferriere
-srcHash: '7f1f48d0e4b1'
+srcHash: '8dc694165b50'
 title: 'Valle delle Ferriere: guía de viaje de la Costa Amalfitana (4,7★)'
 description: Valle delle Ferriere es una reserva natural umbría en las colinas sobre Amalfi, a la que se llega a pie desde el pueblo de Amalfi o desde la localidad de Scala/Pontone, siguiendo un antiguo valle de molinos de papel entre cascadas, ruinas cubiertas de helechos y bolsones de vegetación subtropical relicta. 4,7★ (710 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Valle delle Ferriere es una reserva natural umbría en las colinas sobre Amalfi, a la que se llega a pie desde el pueblo de Amalfi o desde la localidad de Scala/Pontone, siguiendo un antiguo valle de molinos de papel entre cascadas, ruinas cubiertas de helechos y bolsones de vegetación subtropical relicta. Cuenta con 2,5 a 4 horas ida y vuelta según la ruta que elijas, usa calzado de senderismo adecuado (el camino suele estar mojado y pedregoso) y ve por la mañana para evitar el calor del mediodía y las aglomeraciones de autobuses por la tarde de vuelta en Amalfi.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo acceder a toda la reserva natural?
     a: El tramo inferior y medio del sendero, con las cascadas principales y las ruinas de los molinos, está abierto a caminantes independientes. La zona núcleo estrictamente protegida, hogar de las especies vegetales relictas más raras, por lo general requiere un permiso o un guía local autorizado.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El sendero comienza casi por casualidad: dejas atrás las callejuelas perfumadas de limón detrás de la catedral de Amalfi, pasas la última hilera de casas apiladas y la carretera simplemente se estrecha hasta convertirse en un camino de herradura. En diez minutos el ruido de la costa desaparece. El sonido en este valle es el agua: gotea de los helechos, corre por antiguos canales de molino y finalmente cae con estruendo por las cascadas que le han dado su fama a la reserva.
 

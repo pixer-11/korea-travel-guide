@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The moment your boat noses out of the Kilim River Tourism Jetty and under the limestone bluffs, you understand why this stretch of northeast Langkawi carries UNESCO Global Geopark status. Grey karst towers, pocked and streaked with mineral stains, rise straight out of the mangroves; hornbills clatter overhead; and the water beneath you turns from muddy brown to a strange jade-green where the river meets the Andaman Sea.

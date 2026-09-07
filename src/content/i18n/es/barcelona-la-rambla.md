@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-rambla
-srcHash: 'b87db0cece7f'
+srcHash: '447167e8a034'
 title: 'La Rambla: Guía de viaje de Barcelona (4.3★)'
 description: 'La Rambla es el paseo peatonal de casi dos kilómetros de Barcelona que conecta la Plaça de Catalunya con el antiguo puerto de Port Vell: recórrela una vez por la arquitectura y el ambiente, pero come y compra en otro lugar. 4.3★ (10,122 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Rambla es el paseo peatonal de casi dos kilómetros de Barcelona que conecta la Plaça de Catalunya con el antiguo puerto de Port Vell: recórrela una vez por la arquitectura y el ambiente, pero come y compra en otro lugar. Es una de las calles más visitadas de Europa, así que ve a primera hora (antes de las 9am) si quieres disfrutar de los plátanos de sombra y el pavimento de mosaico sin las multitudes. Reserva entre 30 y 45 minutos para recorrerla de punta a punta, más si te desvías hacia el Barrio Gótico o las calles de El Raval.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Debería comer en los restaurantes de La Rambla?
     a: 'La mayoría de los locales los evitan: los precios suelen ser más altos y la calidad más baja que a una o dos calles de distancia, en El Raval o el Barrio Gótico, donde encontrarás bares de tapas y restaurantes con mejor relación calidad-precio.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

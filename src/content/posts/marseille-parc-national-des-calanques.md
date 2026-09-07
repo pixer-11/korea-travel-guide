@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Calanques are what happens when the limestone spine of Provence decides to meet the Mediterranean head-on. Sheer white cliffs, some over 400 metres high, drop into water that shifts from turquoise in the shallows to a deep, almost ink-blue further out. Created as France's ninth national park in 2012, this is the only park in Europe that is simultaneously mountain, forest, and marine reserve, stretching roughly 20km of coastline between Marseille's southern edge and Cassis.

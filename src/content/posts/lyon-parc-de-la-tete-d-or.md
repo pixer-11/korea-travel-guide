@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You cross Boulevard des Belges and the city noise just drops away. Plane trees a century and a half old form a canopy over gravel paths, and somewhere beyond them you hear the honking of geese on the lake before you see it. Parc de la Tête d'Or is the largest urban park in Lyon, laid out in the 1850s in the English landscape style, and it still reads that way: curving paths instead of straight axes, a lake designed to look like a natural pond rather than a formal basin, statues half-hidden behind hedges.

@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't see Secret Lagoon until you're almost inside it. The boat cuts its engine somewhere off a wall of grey limestone that looks, from the water, like it couldn't possibly hide anything. Then your guide points at a gap barely wider than a doorway, half-submerged, and tells you to swim through. On the other side, the noise of the outboard motors disappears and you're floating in a cupped hollow of rock, the water a flat, glassy green because almost no wind reaches in here.

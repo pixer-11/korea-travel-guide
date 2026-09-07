@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-lincoln-memorial
-srcHash: 'c9bb53301791'
+srcHash: 'c713b7cbb447'
 title: 'Lincoln Memorial: guía de viaje de Washington D. C. (4,8★)'
 description: 'El Lincoln Memorial de Washington D. C. se encuentra en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. 4,8★ (54.427 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Lincoln Memorial de Washington D. C. se encuentra en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. Está abierto las 24 horas del día y la entrada es gratuita; el momento de menor afluencia es entre las 7:00 y las 9:00, tanto entre semana como el fin de semana, mientras que de 10:00 a 22:00 los fines de semana la afluencia es muy alta. Conviene reservar entre 45 y 60 minutos para subir las escalinatas, ver la estatua y leer los discursos grabados.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Vietnam Veterans Memorial y el Korean War Veterans Memorial están a poca distancia a pie, y el Martin Luther King Jr. Memorial queda a unos 10 minutos caminando junto al Tidal Basin.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Para orientarse
 

@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Preah Vihear doesn't sit near anything. That's the point. This 11th-century Hindu temple to Shiva was built along a natural ridge of the Dangrek Mountains, right on the border with Thailand, and the whole complex climbs nearly 800 meters up the escarpment before ending at a sanctuary that looks straight down a sheer cliff onto the Cambodian lowlands.
 
 Poipet, where this guide is anchored, is actually a long way from the temple itself, sitting at the Thai border far to the west. There's no shortcut here: reaching Preah Vihear from Poipet means a full day's drive east across Cambodia, usually routed through Siem Reap or Anlong Veng, before turning north to the mountain.

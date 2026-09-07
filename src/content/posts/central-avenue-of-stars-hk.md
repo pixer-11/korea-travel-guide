@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a museum you tour — it's a stretch of harbourfront you walk along, slowly, with Hong Kong Island glowing across the water. The draw is twofold: the skyline view and the tribute to a century of Hong Kong film.

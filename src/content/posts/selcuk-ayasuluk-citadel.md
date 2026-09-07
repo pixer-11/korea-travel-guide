@@ -54,8 +54,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see it long before you reach it: a ring of crenellated walls crowning a bare hill above Selçuk, visible from the train platform, from the road to Ephesus, even from the storks' nests on the aqueduct downtown. That silhouette is Ayasuluk Citadel, and it's the first clue that this town's history runs deeper than its role as an Ephesus gateway.
 
 ## Why go

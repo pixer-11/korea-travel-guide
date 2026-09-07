@@ -83,8 +83,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Getting your bearings
 
 The Lincoln Memorial anchors the west end of the National Mall in Washington DC, at 2 Lincoln Memorial Cir NW. It faces east across the Reflecting Pool toward the Washington Monument and the Capitol beyond, a sightline designed deliberately when the memorial opened in 1922.

@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Gyeongdong Market is worth the trip
 
 Step under the market's corrugated roof and the air changes first — dry, faintly sweet, threaded with the smell of roasted chestnuts and dried mushrooms. This is Korea's largest traditional herbal medicine market, and it smells like it. Sacks of cinnamon bark, ginseng roots, and dried jujubes are stacked shoulder-high along narrow aisles that have barely changed in decades.

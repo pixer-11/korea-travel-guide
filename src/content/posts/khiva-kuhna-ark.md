@@ -55,8 +55,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot Kuhna Ark before you reach it — a long mud-brick wall punctuated by a gateway flanked by two round towers, standing at the western edge of Ichan Qala, Khiva's walled inner city. This was the seat of the Khivan khans, part fortress and part residence, built up over centuries as successive rulers added rooms, courtyards and defensive walls.
 
 ## Why it's worth the detour

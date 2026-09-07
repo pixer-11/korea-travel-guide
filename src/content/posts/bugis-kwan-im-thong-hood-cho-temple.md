@@ -73,8 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Waterloo Street's main draw
 
 This is the temple locals and tourists both call "the Kuan Im temple," a Chinese Buddhist site on Waterloo Street with a sloped tiled roof and gilded, elevated Buddha statue over the entrance. It's dedicated to Guan Yin, the bodhisattva of mercy, and pulls one of the busiest crowds of any temple in Singapore. Rated 4.7 from over 8,000 reviews, it's not a quiet backstreet find; expect company.

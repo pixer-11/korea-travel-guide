@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-temple-of-heaven
-srcHash: '1287c5763284'
+srcHash: '04f5f37fa70d'
 title: 'Templo del Cielo: guía de viaje de Pekín'
 description: 'Dedícale al Templo del Cielo al menos dos o tres horas: su Salón de Oración por las Buenas Cosechas, de planta circular, el Muro del Eco y el parque de cipreses que lo rodea merecen tiempo con calma.'
 quickAnswer: 'Dedícale al Templo del Cielo al menos dos o tres horas: su Salón de Oración por las Buenas Cosechas, de planta circular, el Muro del Eco y el parque de cipreses que lo rodea merecen tiempo con calma. Entra por la Puerta Sur (la más cercana al eje histórico) y hazlo temprano, porque a media mañana los autobuses turísticos ya han llenado el recinto. No se trata de un lugar escondido, sino de un sitio muy conocido y muy visitado, así que conviene planear en función de las multitudes en lugar de esperar encontrar soledad.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita con otro lugar de interés?
     a: El Templo del Cielo se encuentra al sur de la Ciudad Prohibida y de la plaza de Tiananmén, sobre el eje histórico de Pekín, lo que facilita combinarlo con un día completo de recorrido por el distrito central de Dongcheng.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 La escala del lugar se percibe antes de entender su geometría. Caminando hacia el norte desde la Puerta Sur por el elevado Puente Danbi —que en realidad es una larga calzada de piedra más que un puente propiamente dicho—, el suelo asciende de forma casi imperceptible bajo los pies, elevando al visitante hacia el cielo, al menos en sentido simbólico, para cuando se llega a los altares interiores.
 

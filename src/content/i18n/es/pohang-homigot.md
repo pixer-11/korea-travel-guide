@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pohang-homigot
-srcHash: '73050433945e'
+srcHash: '613b92da43f5'
 title: 'Homigot: Guía de viaje de Pohang'
 description: 'Homigot, en el extremo más oriental de la península coreana, en Nam-gu, Pohang, es famoso por la "Mano de la Armonía": un par de manos de bronce, una que emerge del mar y otra que se alza en la plaza sobre ella.'
 quickAnswer: 'Homigot, en el extremo más oriental de la península coreana, en Nam-gu, Pohang, es famoso por la "Mano de la Armonía" —un par de manos de bronce idénticas, una que emerge del mar y otra que se alza en la plaza sobre ella— y por ofrecer, posiblemente, la mejor vista de amanecer de Corea. Reserva entre 1,5 y 2 horas: observa cómo el sol asoma sobre el horizonte junto a la mano marina, y luego recorre la plaza, el museo del faro y los puestos callejeros de calamar ahumado. Es una excursión sencilla de medio día desde el centro de Pohang en coche o taxi, ideal al amanecer o a última hora de la tarde, mejor que al mediodía.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Homigot está muy concurrido?
     a: Atrae a un público fiel (valoración de 4,4 con más de 400 reseñas), pero no está abarrotado salvo el día de Año Nuevo, cuando se reúnen grandes multitudes para ver el primer amanecer del año; una mañana cualquiera aquí sigue sintiéndose tranquila.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Homigot figura en todos los itinerarios de Pohang
 

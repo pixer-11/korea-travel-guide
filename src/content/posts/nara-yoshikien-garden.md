@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You almost walk past the entrance without noticing it. Yoshikien sits tucked beside its more famous neighbor, Isuien Garden, on a quiet lane near Nara Park's northern edge, and there's rarely a crowd at the gate to tip you off.
 
 That's the appeal. While tour buses empty out at Todai-ji a few minutes' walk away, Yoshikien stays hushed, its gravel paths crunching underfoot and its ponds barely rippling.

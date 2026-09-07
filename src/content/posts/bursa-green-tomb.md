@@ -96,8 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Green Tomb isn't green at all from the outside — it's the tiles inside that earn the name. Built in 1421 for Sultan Mehmed I, this octagonal mausoleum is one of the clearest surviving statements of early Ottoman architecture, before the empire's aesthetic shifted toward Istanbul's domes and imperial scale.

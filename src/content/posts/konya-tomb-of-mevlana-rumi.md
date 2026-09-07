@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the dome before you spot the entrance — a ribbed cone of turquoise tile rising above Karatay's rooftops, catching the light differently depending on whether it's 9am haze or late-afternoon sun. That's the Kubbe-i Hadra, the "Green Dome," and it marks the resting place of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose followers founded the Mevlevi order — the "whirling dervishes."
 
 ## Why go

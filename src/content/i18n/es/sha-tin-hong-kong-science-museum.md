@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-hong-kong-science-museum
-srcHash: '0927feb01337'
+srcHash: '9ebdf50f7fa1'
 title: 'Museo de Ciencias de Hong Kong: Guía de viaje de Tsim Sha Tsui (4.4★)'
 description: 'El Museo de Ciencias de Hong Kong se encuentra en Tsim Sha Tsui East, en el lado de Kowloon, justo al lado del Museo de Historia de Hong Kong. 4.4★ (3.510 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Ciencias de Hong Kong se encuentra en Tsim Sha Tsui East, en el lado de Kowloon, justo al lado del Museo de Historia de Hong Kong. Permanece cerrado los jueves, abre de 10:00 a 19:00 la mayoría de los demás días de la semana y de 10:00 a 21:00 los fines de semana, cuando se llena entre las 12:00 y las 19:00 los sábados y domingos. Conviene reservar entre 2 y 3 horas para la visita, más si se viaja con niños curiosos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para aprovechar el día completo?
     a: El Museo de Historia de Hong Kong está justo al lado, y el paseo marítimo de Tsim Sha Tsui, con la Avenida de las Estrellas, queda a poca distancia caminando.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Uno entra esperando una tarde tranquila de vitrinas estáticas y, en cambio, se topa con el ruido: niños accionando engranajes, un avión DC-3 real suspendido del techo, el zumbido eléctrico de la máquina de energía que se prepara para su gran espectáculo. Este no es un museo de mirar sin tocar, y precisamente ahí está la gracia.
 

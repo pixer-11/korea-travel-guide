@@ -84,8 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the quiet, not for a checklist of sights. Japanese Garden sits on its own island in Jurong Lake Gardens, linked by a short causeway that already slows your pace before you've read a single sign.

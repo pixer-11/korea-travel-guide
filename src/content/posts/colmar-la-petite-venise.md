@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Forget any single sight with a ticket booth. La Petite Venise is a slice of Colmar itself — the old fishmongers' and tanners' district where the River Lauch splits into narrow canals lined with half-timbered houses.

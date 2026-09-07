@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bhubaneswar-regional-museum-of-natural-history
-srcHash: '723d66f1a1f4'
+srcHash: 'bb7875b597b8'
 title: 州立自然史博物館:ブバネーシュワール旅行ガイド
 description: 州立自然史博物館(Regional Museum of Natural History)はアチャリヤ・ヴィハール(Acharya Vihar)のサチヴァラヤ・マーグ(Sachivalaya Marg)沿い、パタニ・サマンタ・プラネタリウム(Pathani Samanta Planetarium)のすぐ隣にあり、月曜を除く毎日午前10時から午後6時まで開館しています。
 quickAnswer: 州立自然史博物館(Regional Museum of Natural History)はアチャリヤ・ヴィハール(Acharya Vihar)のサチヴァラヤ・マーグ(Sachivalaya Marg)沿い、パタニ・サマンタ・プラネタリウム(Pathani Samanta Planetarium)のすぐ隣にあり、月曜を除く毎日午前10時から午後6時まで開館しています。展示ギャラリー、ビバリウム(生体展示室)、視覚障害者向け植物園を見て回るには90分から2時間ほど見ておくとよいでしょう。週末は午前11時から午後6時にかけて混み合うため、早めの時間帯か平日午後に訪れるのがおすすめです。入場料は安価ですが、変更されることがあるので、窓口で最新の料金を確認してください。
@@ -17,8 +17,6 @@ faq:
   - q: 入場料はいくらですか?
     a: チケットは館内の窓口で購入でき、料金は安価ですが、定期的に改定されるため、古い情報を当てにせず、現地到着時に確認してください。
 ---
-
-> **このガイドについて:** 編集者がレビューし、AIの支援を受けて作成しています。事実情報はGoogle Placesのライブデータから取得し、画像はライセンス取得済みまたはパブリックドメインのものです。詳しくは[編集方針](/about)をご覧ください。
 
 ## なぜ訪れるべきか
 

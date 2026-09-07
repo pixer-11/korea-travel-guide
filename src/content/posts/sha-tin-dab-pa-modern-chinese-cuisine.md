@@ -64,8 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Dab-pa is worth the detour
 
 Sha Tin isn't on most Hong Kong itineraries, which is exactly the point here. Dab-pa serves modern Chinese cuisine — familiar Cantonese and pan-Chinese staples reworked with sharper plating and lighter sauces — inside one of the New Territories' biggest shopping malls.

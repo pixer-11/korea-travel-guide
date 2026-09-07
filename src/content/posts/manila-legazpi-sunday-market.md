@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Legazpi Sunday Market is Makati's weekly food-and-flea ritual, tucked into a parking lot turned open-air bazaar. It's the kind of place where a Filipino-Chinese lumpia stall sits three feet from a table of vintage vinyl and a woman selling heirloom tomatoes.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: nice-promenade-du-paillon
-srcHash: '47e3a57168ac'
+srcHash: 'a2b286534e87'
 title: '프롬나드 뒤 파이용: 니스 여행 가이드'
 description: 프롬나드 뒤 파이용(Promenade du Paillon)은 니스 중심부를 가로지르는 12헥타르 규모의 녹지 공원으로, 마세나 광장(Place Masséna)과 현대미술관(MAMAC), 니스 아크로폴리스(Nice Acropolis)를 이어준다.
 quickAnswer: 프롬나드 뒤 파이용(Promenade du Paillon)은 니스 중심부를 가로지르는 12헥타르 규모의 녹지 공원으로, 마세나 광장(Place Masséna)과 현대미술관(MAMAC), 니스 아크로폴리스(Nice Acropolis)를 이어준다. 미러풀(거울처럼 물이 비치는 연못)과 놀이터 주변은 방과 후나 주말에 특히 붐비므로 오전이나 이른 저녁 시간에 방문하는 것이 좋다. 끝에서 끝까지 걷는 데 한 시간 정도 여유를 두고, 아이와 함께라면 좀 더 넉넉히 잡자. 무료이며 언제든 개방되어 있어, 마세나 광장에서 커피 한 잔 즐기거나 바로 옆 구시가지(Old Town)를 둘러보는 코스와 함께하기 좋다.
@@ -17,8 +17,6 @@ faq:
   - q: 근처에 또 무엇이 있나요?
     a: 동쪽으로 몇 분만 걸으면 구시가지(Vieux Nice)와 쿠르 살레야(Cours Saleya) 시장이 있고, 공원 북쪽 끝에는 현대미술관 MAMAC이, 남쪽 입구에는 마세나 광장(Place Masséna)이 자리한다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검수, AI 보조 작성. 사실 정보는 Google Places의 실시간 데이터에서 가져왔으며, 이미지는 라이선스 계약 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 왜 가야 할까
 

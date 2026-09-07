@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-bolo-hauz-mosque
-srcHash: '88fd2adee9ca'
+srcHash: '11b8cba69731'
 title: 'Mezquita Bolo Hauz: guía de viaje de Bujará (4,8★)'
 description: 'La mezquita Bolo Hauz se alza en el extremo noroeste de la fortaleza del Ark de Bujará, frente a un largo estanque de piedra que da nombre al lugar ("bolo hauz" significa "junto al estanque"). 4,8★ (872 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La mezquita Bolo Hauz se alza en el extremo noroeste de la fortaleza del Ark de Bujará, frente a un largo estanque de piedra que da nombre al lugar ("bolo hauz" significa "junto al estanque"). Se trata de una mezquita en activo, no de un museo, así que conviene vestir con recato y contar con que los horarios de oración condicionen la visita. Lo mejor es ir temprano —entre semana de 7 a 10 h o los fines de semana de 7 a 11 h son las horas más tranquilas— y combinarla con la fortaleza del Ark, justo al otro lado de la plaza.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Con 20 a 30 minutos es suficiente para ver el patio, las columnas y el alicatado del mihrab sin prisas. Se combina fácilmente con una visita más larga a la fortaleza del Ark, justo al lado.
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Lo primero que se ve son las columnas de madera. Veinte pilares esbeltos, tallados y pintados en azules y ocres cuyo desgaste parece merecido, sostienen un techo de bóvedas muqarnas tan densas que parecen gotear como miel congelada.
 

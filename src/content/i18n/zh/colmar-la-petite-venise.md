@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: colmar-la-petite-venise
-srcHash: 'a5ca64841944'
+srcHash: '58544378f5cf'
 title: 小威尼斯区(La Petite Venise):科尔马旅游指南(4.7★)
 description: 小威尼斯区是科尔马(Colmar)老城中运河纵横的街区，最适合沿着鱼市码头(Quai de la Poissonnerie)步行游览，或乘坐平底船游船观光。4.7★(57,271条评价)——游客怎么说、开放时间与实用贴士。
 quickAnswer: 小威尼斯区是科尔马老城中运河纵横的街区，最适合沿着鱼市码头(Quai de la Poissonnerie)步行游览，或乘坐平底船游船观光。这里全天全年开放，街区本身无需门票——只需选择清晨或晚饭后前往，以避开中午时段聚集的人潮。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有哪些景点适合一起游览?
     a: 科尔马大教堂(圣马丁教堂,Collégiale Saint-Martin)、恩特林登博物馆(Musée Unterlinden)以及室内市场(Marché Couvert),都在步行10-15分钟范围内。
 ---
-
-> **本指南制作说明:** 编辑审校，并借助AI辅助完成。内容取自Google Places实时数据；图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

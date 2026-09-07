@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 What's left of A Famosa is modest — a single stone gate, weathered and pitted, propped up with buttresses and shaded by rain trees — but it's the last visible fragment of one of Southeast Asia's most fought-over fortresses. The Portuguese built the original fort in 1511 after conquering the Malacca Sultanate, the Dutch took it in 1641, and the British nearly demolished the whole thing in the early 1800s; only intervention from Stamford Raffles saved this gatehouse, Porta de Santiago, from total destruction.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: el-nido-taraw-cliff
-srcHash: '7c315029271a'
+srcHash: '35e795c28d6e'
 title: 'Taraw Cliff: Guía de viaje de El Nido (4.5★)'
 description: 'Taraw Cliff es la escalada por karst calizo de El Nido que se eleva justo desde Buena Suerte, ideal al amanecer o a media mañana antes de que lleguen el calor y la neblina. 4.5★ (360 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Taraw Cliff es la escalada por karst calizo de El Nido que se eleva justo desde Buena Suerte, ideal al amanecer o a media mañana antes de que lleguen el calor y la neblina. Hay que esperar una subida empinada de 30 a 45 minutos con cuerdas, un puente colgante y un paseo elevado entre copas de árboles antes de que se abra la vista de la cima sobre la bahía. Está abierto 24 horas sin portón, pero las tardes de fin de semana (16:00-23:00) son cuando más gente pasa por ahí, así que conviene ir más temprano.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es seguro para niños o personas con miedo a las alturas?
     a: La subida implica trepar con ayuda de cuerdas, cruzar un puente colgante y llegar a un borde en la cima sin barandal, por lo que es más apto para niños mayores y caminantes con confianza que para niños pequeños o cualquiera incómodo con las alturas expuestas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son licenciadas o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué subir a Taraw Cliff
 

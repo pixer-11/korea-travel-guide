@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shifen Waterfall is the widest waterfall in Taiwan, a 40-metre curtain of white water dropping into a green pool. Locals call it "Little Niagara" — not for its height, but for that broad, curved sheet of falling water. It's the single-biggest reason to stretch a Pingxi sky-lantern day trip into a full loop.

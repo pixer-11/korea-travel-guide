@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-basilica-of-notre-dame-of-fourviere
-srcHash: '99119dc3bde2'
+srcHash: '22be717f3a99'
 title: 'Basílica de Notre-Dame de Fourvière: Guía de viaje de Lyon'
 description: Encaramada sobre el casco antiguo de Lyon, la Basílica de Notre-Dame de Fourvière es una iglesia del siglo XIX de entrada gratuita y ricamente decorada, que se disfruta mejor temprano por la mañana (antes de las 10h) o al atardecer, para evitar la avalancha de autocares turísticos y disfrutar de la luz sobre la ciudad y los Alpes.
 quickAnswer: 'Encaramada sobre el casco antiguo de Lyon, la Basílica de Notre-Dame de Fourvière es una iglesia del siglo XIX de entrada gratuita y ricamente decorada, que se disfruta mejor temprano por la mañana (antes de las 10h) o al atardecer, para evitar la avalancha de autocares turísticos y disfrutar de la luz sobre la ciudad y los Alpes. Toma el funicular ("la Ficelle") desde la estación de metro Vieux Lyon hasta la parada Fourvière: el trayecto dura dos minutos y te ahorra una subida empinada. Calcula entre 45 y 60 minutos para el interior y la terraza, más si añades el pequeño museo arqueológico o los teatros romanos de al lado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más merece la pena ver cerca?
     a: Los Théâtres Romains de Fourvière (ruinas del anfiteatro romano) están a un corto paseo cuesta abajo, y las calles renacentistas de Vieux Lyon se alcanzan fácilmente bajando de nuevo por el funicular o por las escalinatas.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

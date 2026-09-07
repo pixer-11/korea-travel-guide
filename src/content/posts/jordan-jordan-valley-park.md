@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Jordan Valley Park surprises people
 
 The name suggests something urban and compact. What you actually find is a sprawling hillside park in Cha Liu Au, closer to Ngau Chi Wan and Diamond Hill than to Jordan MTR station itself. That mismatch is the first thing to get past.

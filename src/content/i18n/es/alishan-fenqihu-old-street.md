@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-fenqihu-old-street
-srcHash: '7be0a5af3589'
+srcHash: 'd1fa781c1c4c'
 title: 'Calle Vieja de Fenqihu: Guía de Viaje de Alishan (4,2★)'
 description: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. 4,2★ (31.926 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. Con 31.898 reseñas y una calificación de 4,2, atrae multitudes con rapidez: conviene llegar justo a las 8:00, hora de apertura, los fines de semana, o visitar cualquier día entre semana para evitar la hora punta de 11:00 a 16:00. Calcule entre 1,5 y 2 horas para comer y recorrer los puestos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si se quiere conocer más de Alishan?
     a: 'Fenqihu es una parada a lo largo de la línea del Ferrocarril Forestal de Alishan en dirección al Área Escénica Nacional de Alishan, hogar de los miradores para ver el amanecer y de los bosques antiguos de cipreses: un complemento muy popular dentro del mismo recorrido en tren.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Fenqihu, y por qué ahora
 

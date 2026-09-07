@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phong-nha-phong-nha-cave
-srcHash: 'dca9a6a28664'
+srcHash: '0e6180c09928'
 title: 'Cueva de Phong Nha: Guía de viaje (4.7★)'
 description: 'La Cueva de Phong Nha es la cueva turística dentro del Parque Nacional Phong Nha-Ke Bang, a la que se llega tras un breve paseo en barca por el río Son desde el pueblo de Phong Nha. 4.7★ (2.804 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Cueva de Phong Nha es la cueva turística dentro del Parque Nacional Phong Nha-Ke Bang, a la que se llega tras un breve paseo en barca por el río Son desde el pueblo de Phong Nha. Reserva medio día: ida en barca, aproximadamente una hora recorriendo y vadeando las cámaras iluminadas de la cueva, y luego el regreso. Ve a primera hora de la mañana en días de semana para evitar las multitudes de autobuses turísticos que se acumulan a media mañana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reservar una barca con antelación?
     a: Normalmente es posible conseguir una barca al llegar al muelle, con un precio por barca y no por persona, así que conviene juntarse con otros viajeros para compartir el costo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

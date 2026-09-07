@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'daa18b3243c5'
+srcHash: '1702196fbad0'
 title: 新加坡植物园：登普西山（Dempsey Hill）旅行指南（4.7★）
 description: 新加坡植物园是位于登普西山（Dempsey Hill）边缘的免费联合国教科文组织世界遗产公园，占地82公顷，每日凌晨5点至午夜开放。4.7★（46,749条评价）——看看游客怎么说，以及开放时间和实用贴士。
 quickAnswer: 新加坡植物园是位于登普西山（Dempsey Hill）边缘的免费联合国教科文组织世界遗产公园，占地82公顷，每日凌晨5点至午夜开放。建议早点前往——周末最好在早上9点前——以避开人群，然后从国家胡姬花园（National Orchid Garden）出发，环绕到天鹅湖（Swan Lake）一带游览。行程建议预留两到三小时，如果之后想在登普西悠闲享用早午餐，时间可以再宽裕一些。
@@ -17,8 +17,6 @@ faq:
   - q: 游玩之后附近有哪里可以吃饭？
     a: 登普西山（Dempsey Hill）距离纳森门（Nassim Gate）或丹戎巴葛门（Tanglin Gate）步行5-10分钟，聚集着不少中高档餐厅，多设在改造后的殖民时期建筑内。
 ---
-
-> **本指南制作说明：** 经编辑审核，并借助AI辅助完成。相关信息来自Google Places实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

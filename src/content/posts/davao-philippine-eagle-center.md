@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You hear it before you see it — a rasping, almost prehistoric call echoing through the trees as you walk the gravel path. Then, through the wire mesh of a towering forest-canopy enclosure, you spot it: a Philippine eagle, one of the largest and rarest raptors on Earth, perched motionless with that shaggy crest catching the light. This isn't a zoo in the conventional sense.

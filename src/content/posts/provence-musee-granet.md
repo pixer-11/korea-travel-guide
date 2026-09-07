@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Aix-en-Provence made Paul Cézanne, and the Musée Granet is where the town squares that debt as honestly as anywhere. But this isn't a one-artist shrine. Walk through the ground-floor rooms and you pass Ingres' luminous portraits, a small but genuine Rembrandt self-portrait, and canvases by Rubens, and you feel the collection's real ambition: to show four centuries of European painting inside a building that was itself once a working priory of the Knights of Malta.

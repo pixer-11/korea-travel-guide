@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this sanctuary, and not the roadside stalls
 
 Drive the inland roads of Bohol and you'll pass several places advertising "tarsier viewing," some of them little more than a shaded pen next to a souvenir stand. The Philippine Tarsier Sanctuary in Corella is different: it's a protected forest reserve run in partnership with the Philippine Tarsier Foundation, set up specifically to give these animals something close to their actual habitat rather than a display case.

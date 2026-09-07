@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel it before you see it: the road narrows, rice paddies open up flat and green on both sides, and suddenly limestone karsts rise straight out of the earth like something drawn rather than formed. This is Hoa Lu, capital of Vietnam a thousand years before Hanoi took the title.
 
 ## Why Hoa Lu matters

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pai-pai-canyon
-srcHash: '08d138dbb6a1'
+srcHash: '98cf136567e0'
 title: 'Cañón de Pai: guía de viaje (4,5★)'
 description: 'El Cañón de Pai (Kang Lom Pai) es una cresta de tierra roja erosionada a unos 8 km al sur de la ciudad de Pai, abierta todos los días de 6 a 19 h. 4,5★ (8.324 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Cañón de Pai (Kang Lom Pai) es una cresta de tierra roja erosionada a unos 8 km al sur de la ciudad de Pai, abierta todos los días de 6 a 19 h. Conviene ir al amanecer o a primera hora de la mañana, ya que los momentos de menor afluencia son de 7 a 11 h entre semana y de 7 a 10 h los fines de semana: a partir de las 16 h y hasta las 19 h las crestas estrechas se llenan de gente que llega a ver la puesta de sol. Calcula entre 1 y 2 horas de visita, usa calzado con buen agarre y, si acaba de llover, mejor no subas.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para aprovechar y hacer una excursión de medio día?
     a: El Land Split (Pai Kong Yao) y las aguas termales de Pai están a un corto trayecto del cañón, sobre la misma carretera, por lo que es habitual combinarlos en una sola salida.
 ---
-
-> **Cómo se hizo esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

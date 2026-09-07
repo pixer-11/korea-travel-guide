@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nukus-cake-bumer
-srcHash: 'cf53b7b78a32'
+srcHash: '3a20e98471d0'
 title: 'Pastelería "Bumer": Guía de Viaje de Nukus (4.1★)'
 description: 'Cake "Bumer" es una pastelería-café ubicada en Т. Кайыпбергенов 54, en Nukus, abierta todos los días de 8:30 a 23:00, conocida por sus tartas, repostería y platos ligeros en un ambiente luminoso y moderno. 4.1★ (166 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Cake "Bumer" es una pastelería-café situada en Т. Кайыпбергенов 54, en Nukus, abierta todos los días de 8:30 a 23:00, famosa por sus tartas, su repostería y sus platos ligeros en un entorno luminoso y moderno. Es de precio medio y cuenta con muy buena valoración (4.1 estrellas), por lo que funciona igual de bien para un café a media mañana, para recoger una tarta de cumpleaños o para un postre a última hora de la noche. Conviene ir fuera del horario más concurrido de la cena (aproximadamente entre las 19:00 y las 21:00) si se quiere conseguir mesa sin esperar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: 'El Museo Savitsky, famoso por su colección de arte de vanguardia soviético, forma una combinación natural: primero la visita cultural y después una parada para tomar tarta y té.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

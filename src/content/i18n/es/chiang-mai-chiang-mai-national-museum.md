@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-chiang-mai-national-museum
-srcHash: 'a95d04acb835'
+srcHash: 'c72a4bf71df8'
 title: 'Museo Nacional de Chiang Mai: Guía de viaje (4.2★)'
 description: El Museo Nacional de Chiang Mai (Chiang Mai National Museum), en el límite norte de la ciudad antigua cerca de Wat Jet Yot, es la mejor parada única para comprender la historia lanna, el arte budista y la cultura del norte de Tailandia antes o después de explorar los templos. 4.2★ (951 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo Nacional de Chiang Mai (Chiang Mai National Museum), en el límite norte de la ciudad antigua cerca de Wat Jet Yot, es la mejor parada única para comprender la historia lanna, el arte budista y la cultura del norte de Tailandia antes o después de explorar los templos. Calcula entre 1.5 y 2 horas, ve en las horas más frescas de la mañana para recorrer el terreno cómodamente, y combínalo con el vecino Wat Jet Yot para una excursión de medio día. Verifica el horario de apertura actual y cualquier tarifa de entrada antes de ir, ya que pueden cambiar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reservar entradas con antelación?
     a: No, normalmente no hay tanta afluencia como para requerir reserva. Lleva efectivo para la entrada y verifica el horario y el precio actuales antes de ir, ya que pueden cambiar.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

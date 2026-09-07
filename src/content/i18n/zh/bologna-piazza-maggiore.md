@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bologna-piazza-maggiore
-srcHash: '99deab08a9f0'
+srcHash: '7d2c30036e3f'
 title: 马焦雷广场:博洛尼亚旅行指南
 description: 马焦雷广场是博洛尼亚的中世纪之心，四周环绕着圣白托略大教堂(Basilica di San Petronio)未完工的大理石立面、雉堞状的阿库尔西奥宫(Palazzo d'Accursio)与公证人宫(Palazzo dei Notai),以及紧邻的海神广场(Piazza del Nettuno),那里矗立着詹博洛尼亚打造的青铜海神喷泉。
 quickAnswer: 马焦雷广场是博洛尼亚的中世纪之心，四周环绕着圣白托略大教堂(Basilica di San Petronio)未完工的大理石立面、雉堞状的阿库尔西奥宫(Palazzo d'Accursio)与公证人宫(Palazzo dei Notai),以及紧邻的海神广场(Piazza del Nettuno),那里矗立着詹博洛尼亚打造的青铜海神喷泉。广场免费开放、全天可入内，最佳游览时间是清晨(上午9点前)或晚饭后，因为正午到傍晚这段时间人流最为密集。建议留出45分钟到1小时，坐下来抬头欣赏砖砌建筑，并沿四周的拱廊走一圈。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一去的地方?
     a: 步行10分钟可到达双塔(Due Torri);阿尔奇金纳西奥宫及其解剖剧场步行仅需2分钟;夸德里拉泰罗(Quadrilatero)美食市场区也在步行可及的范围内。
 ---
-
-> **本指南制作方式说明:** 经编辑审校、AI辅助完成。相关信息来自Google Places实时数据；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

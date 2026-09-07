@@ -60,8 +60,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step through a set of double doors and the air changes first — warm, wet, thick with the smell of wet soil and nectar. Within seconds a butterfly the size of your palm crosses your eyeline, close enough that you flinch. That's the whole appeal here: not looking at nature behind glass, but walking straight into it.

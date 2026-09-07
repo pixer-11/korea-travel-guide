@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the narrow streets of old Madrid and suddenly the buildings pull back and the sky opens above a vast rectangular square, hemmed in on all four sides by uniform façades of dark red brick and grey slate roofs, three storeys of wrought-iron balconies stacked above a continuous stone arcade. Plaza Mayor was built to impress, and after four centuries it still does.

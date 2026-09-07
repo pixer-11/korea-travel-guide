@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-batu-caves
-srcHash: '8a7beb4ffaff'
+srcHash: '9589bf7b8a76'
 title: 'Batu Caves: Guía de viaje de Kuala Lumpur'
 description: Batu Caves es un complejo de cuevas de piedra caliza convertido en santuario hindú en el extremo norte de Kuala Lumpur, marcado por una estatua dorada de 42,7 metros del dios Murugan y una exigente subida de 272 escalones pintados con los colores del arcoíris.
 quickAnswer: Batu Caves es un complejo de cuevas de piedra caliza convertido en santuario hindú en el extremo norte de Kuala Lumpur, marcado por una estatua dorada de 42,7 metros del dios Murugan y una exigente subida de 272 escalones pintados con los colores del arcoíris. Toma el tren KTM Komuter desde KL Sentral hasta la estación de Batu Caves (para justo a la entrada), dedica entre 1,5 y 2 horas a explorar la Cueva del Templo (Temple Cave) y la Cueva Oscura (Dark Cave), y ve temprano por la mañana en día de semana para evitar tanto el calor como las multitudes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es Batu Caves apto para niños o personas con problemas de movilidad?
     a: 'Los 272 escalones al aire libre no tienen alternativa de ascensor, así que es una subida real: manejable para la mayoría de visitantes en buena forma física y para niños, pero difícil para quienes tengan limitaciones de movilidad.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

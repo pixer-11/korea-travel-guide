@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nowhere else will you stand this close to the actual bronzes, mosaics and frescoes pulled from Pompeii and Herculaneum. The Museo Archeologico Nazionale di Napoli isn't a museum of replicas or scattered fragments — it's where the Bourbon kings shipped the best material from the Vesuvian excavations, plus the entire Farnese collection of Roman sculpture inherited through the family line.

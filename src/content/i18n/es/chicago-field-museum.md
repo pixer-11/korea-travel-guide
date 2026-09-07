@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-field-museum
-srcHash: 'd3e334c675ea'
+srcHash: '78c007a8e9ab'
 title: 'Field Museum: guía de viaje de Chicago (4,7★)'
 description: Ve directo al Field Museum a la hora de apertura (9am) un día entre semana y tendrás a Sue la T. rex casi para ti solo. 4,7★ (31,809 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Ve directo al Field Museum a la hora de apertura (9am) un día entre semana y tendrás a Sue la T. rex, las tumbas egipcias y las salas de taxidermia casi para ti solo antes de que se acumulen los grupos turísticos. Calcula de tres a cuatro horas, más si viajas con niños que quieran disfrutar por completo del DNA Discovery Center y la exhibición del Antiguo Egipto. Los fines de semana, la aglomeración se acumula entre las 11am y las 4pm, así que llega justo a las 9am o ven después de las 4pm para moverte a tu propio ritmo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego al Field Museum sin auto?
     a: Toma la línea Roja, Naranja o Verde del CTA hasta la estación Roosevelt, o la parada Roosevelt Road de Metra, y luego camina unos 15–20 minutos hacia el este cruzando el Museum Campus, o toma el autobús gratuito del campus.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

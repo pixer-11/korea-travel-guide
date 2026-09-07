@@ -69,8 +69,6 @@ heroImage:
     'y': 35
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this branch matters
 
 Din Tai Fung was born in Taipei, but its Singapore outposts are where a lot of visitors have their first bite. The Paragon branch on Orchard Road is one of the busiest in the city, and it earns that traffic with a kitchen that still hand-pleats every basket to order.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lijiang-old-town-of-lijiang
-srcHash: 'f14413cfe63e'
+srcHash: 'eb81b39d0ea2'
 title: 'Casco Antiguo de Lijiang: Guía de Viaje (4.6★)'
 description: El Casco Antiguo de Lijiang es un laberinto declarado Patrimonio de la Humanidad por la UNESCO de callejuelas empedradas, canales y casas de madera naxi a los pies de las colinas de Yunnan — abierto las 24 horas, sin puerta que se cierre tras de ti. 4.6★ (1,441 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Casco Antiguo de Lijiang es un laberinto declarado Patrimonio de la Humanidad por la UNESCO de callejuelas empedradas, canales y casas de madera naxi a los pies de las colinas de Yunnan — abierto las 24 horas, sin puerta que se cierre tras de ti. Ven temprano por la mañana (antes de las 9am) o después de las 9pm para cruzar los puentes sin las multitudes de las excursiones de un día. Reserva medio día para pasear, más si quieres sentarte junto al agua por la noche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con una visita?
     a: El Parque del Estanque del Dragón Negro (Black Dragon Pool Park) se encuentra justo al norte del Casco Antiguo y combina bien con una visita a la Torre Wangu para disfrutar de vistas de la montaña; la Montaña Nevada del Dragón de Jade (Jade Dragon Snow Mountain) es una popular excursión de día completo un poco más lejos.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Notas el cambio de superficie antes de ver ningún otro detalle. El asfalto da paso a adoquines lisos e irregulares, y de repente el ruido del tráfico desaparece, sustituido por el sonido del agua corriente. El Casco Antiguo de Lijiang (Lijiang Old Town) provoca eso de inmediato: un núcleo declarado Patrimonio de la Humanidad por la UNESCO de casas de madera naxi, puentes de piedra en arco y canales alimentados por el deshielo de la Montaña Nevada del Dragón de Jade (Jade Dragon Snow Mountain).
 

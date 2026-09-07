@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale before you understand it. Walking down Avenida de la Constitución, the cathedral's flying buttresses and pinnacles rise over the orange trees of the Patio de los Naranjos, and the sheer footprint of the building — officially the largest Gothic cathedral in the world by volume — makes the surrounding plaza feel small. Locals still call the bell tower "la Giralda," a name that gives away the building's real history: this was the minaret of the Almohad mosque that stood here before the Christian reconquest, and the cathedral that replaced it in the 15th century was built specifically, according to the chapter's own founding statement, so grand that "those who see it built will think we were mad."
 
 ## Why go

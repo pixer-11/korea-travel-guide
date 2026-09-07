@@ -64,8 +64,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from the Piazzetta and the facade just stops you — a wall of looted Byzantine columns, porphyry panels, and gilded mosaic lunettes stacked five domes high, the whole thing looking less like a church than a treasure chest turned inside out. That's not an accident: for centuries this was the private chapel of the Doge, built to declare that Venice, a city with no ancient pedigree of its own, had simply taken one — stone by stone, from Constantinople, Alexandria, and everywhere its ships called.

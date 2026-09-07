@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this tower, and why alone
 
 Most bell towers are stuck to the side of their cathedral, but Pey Berland stands apart — literally, a few steps across the square from Bordeaux Cathedral (Cathédrale Saint-André). That separation was deliberate: 15th-century builders worried the cathedral's foundations couldn't support the vibration of heavy bells, so Archbishop Pey Berland ordered a standalone belfry instead. What you're looking at today is a slender Flamboyant Gothic spire, finished around 1500, capped centuries later by a gilded statue of the Virgin Mary that replaced the original spire lost to a lightning strike.

@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of the place before you see a single painting. The glass Pyramid sits in the middle of the Cour Napoléon like a diamond dropped into a stone courtyard, and once you're through security and down the escalator into the Carrousel du Louvre, the sheer size of the building starts to sink in — three wings, Sully, Denon and Richelieu, wrapping around a courtyard so large you could lose an afternoon just walking its perimeter.
 
 ## Why it's worth the trip

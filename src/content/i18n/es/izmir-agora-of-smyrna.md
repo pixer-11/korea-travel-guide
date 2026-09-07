@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: izmir-agora-of-smyrna
-srcHash: 'dd4f5eb37979'
+srcHash: '4ccd36047f40'
 title: 'Ágora de Esmirna: Guía de Viaje de Esmirna (İzmir)'
 description: El Ágora de Esmirna, situada en el barrio de Namazgah en Konak, Esmirna (İzmir), es el mercado excavado de la ciudad romana reconstruida tras un terremoto en el año 178 d. C., con una basílica de triple arco, un patio porticado y cisternas abovedadas por las que todavía se puede caminar.
 quickAnswer: El Ágora de Esmirna, situada en el barrio de Namazgah en Konak, Esmirna (İzmir), es el mercado excavado de la ciudad romana reconstruida tras un terremoto en el año 178 d. C., con una basílica de triple arco, un patio porticado y cisternas abovedadas por las que todavía se puede caminar. Dedícale entre 45 y 75 minutos, ve por la mañana antes de que el sol caiga de lleno sobre el patio abierto, y combínalo con el cercano Bazar de Kemeraltı y Kadifekale para completar un medio día de recorrido por el Esmirna antiguo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que valga la pena combinar con esta visita?
     a: El Bazar de Kemeraltı está a un corto paseo cuesta abajo para comprar y tomar té, el Museo de Historia y Arte de Esmirna alberga estatuas excavadas en este mismo ágora, y la fortaleza de Kadifekale domina la ciudad desde la colina; todo encaja en un recorrido de medio día.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Bajas desde el bullicioso tráfico de la Anafartalar Caddesi, cruzas un hueco entre bloques bajos de apartamentos, y de pronto el suelo simplemente desaparece: un rectángulo hundido de piedra gris blanquecina, columnas de alturas dispares, y de golpe el ruido de la ciudad se atenúa. Ese es el Ágora de Esmirna, el mercado de época romana de la antigua Esmirna, que se encuentra varios metros por debajo del nivel actual de la calle en Konak porque dos mil años de reconstrucciones simplemente la fueron sepultando en su sitio.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malang-pasar-oro-oro-dowo
-srcHash: '1084fd0be238'
+srcHash: '2e0ed86502dd'
 title: 'Pasar Oro Oro Dowo: Guía de viaje de Malang (4.7★)'
 description: El Pasar Oro Oro Dowo es un mercado tradicional muy concurrido y bien valorado en Klojen, en el centro de Malang, abierto todos los días de 5:00 a 17:00, con productos frescos, especias, artículos para el hogar y puestos de comida warung.
 quickAnswer: El Pasar Oro Oro Dowo es un mercado tradicional muy concurrido y bien valorado en Klojen, en el centro de Malang, abierto todos los días de 5:00 a 17:00, con productos frescos, especias, artículos para el hogar y puestos de comida warung. Si quieres curiosear sin pelearte con la multitud, ve un día entre semana por la tarde, entre la 1 y las 5 pm; los fines de semana antes del mediodía son el momento de mayor bullicio, así que conviene evitarlos a menos que te guste el caos. Calcula una hora para la visita, lleva billetes pequeños de rupias y ve con hambre, listo para probar platos locales típicos del desayuno.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito llevar efectivo?
     a: 'Sí: los vendedores aquí trabajan casi exclusivamente en efectivo, así que lleva billetes pequeños de rupias para productos frescos, snacks y artículos para el hogar.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

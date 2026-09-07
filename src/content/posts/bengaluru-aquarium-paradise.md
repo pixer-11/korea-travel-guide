@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Aquarium Paradise doesn't look like much from the road — a modest shopfront wedged into the leafy stretch of Jayamahal Main Road, facing the old Doordarshan TV Tower. Step inside, though, and the space opens up into row after row of glass tanks stacked floor to ceiling, water pumps hissing, blue LED tube lights turning the whole room into a soft aquatic glow.

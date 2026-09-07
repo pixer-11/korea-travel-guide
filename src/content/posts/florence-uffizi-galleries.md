@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Uffizi isn't just a museum, it's the archive of how the Renaissance actually happened. You walk in off a piazza wedged between Palazzo Vecchio and the Arno, and within twenty minutes you're standing in front of Botticelli's "Birth of Venus" and "Primavera," two paintings that basically invented the visual language of Western art. The building itself — commissioned by Cosimo I de' Medici in 1560 as offices ("uffizi") for Florentine magistrates — is a long U-shaped corridor of a structure, and that geometry shapes the whole visit: you move room by room along a single spine, century by century, from Gothic altarpieces to Titian, Caravaggio, and Michelangelo's only finished panel painting, the "Doni Tondo."

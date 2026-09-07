@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't visit the Antalya Toy Museum for scale — it's tiny. You go because it's crammed, room by room, with tin robots, porcelain dolls, wind-up trains and Communist-era Soviet space toys that turn a fifteen-minute detour into an unexpectedly absorbing hour.

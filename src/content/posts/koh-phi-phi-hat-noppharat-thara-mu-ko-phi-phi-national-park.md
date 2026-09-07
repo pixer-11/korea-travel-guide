@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What this park actually covers
 
 The name is confusing because it's really two places under one park designation. Hat Noppharat Thara is the long mainland beach near Ao Nang; Mu Ko Phi Phi is the island group 45km offshore, including Phi Phi Don, Phi Phi Leh, Bamboo Island and Maya Bay.

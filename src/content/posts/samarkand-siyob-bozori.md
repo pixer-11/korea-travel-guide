@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell Siyob Bozori before you see it. Walk down from the turquoise domes of Bibi-Khanym Mosque and the air turns warm with baking flatbread, crushed cumin, and the faint sweetness of dried melon.
 
 The market spills out under a mix of open-air awnings and covered halls, stalls packed shoulder to shoulder. Within a few steps you pass towers of non — the round, stamped Samarkand bread that locals swear doesn't go stale for weeks — stacked in leaning piles taller than the vendors selling them.

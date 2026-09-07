@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it long before you reach it — a honey-coloured arch rising out of the haze at the end of a dead-straight avenue, framed by lawns and reflecting pools. India Gate was designed by Edwin Lutyens and completed in 1931, and it does exactly what a war memorial should do: it makes you stop walking and just look. The names of roughly 13,000 British Indian Army soldiers killed in the First World War and the Third Anglo-Afghan War are carved into the stone.

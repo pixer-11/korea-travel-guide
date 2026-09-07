@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ephesus still matters
 
 You come around a bend in the marble-paved Curetes Way and the Library of Celsus rises out of the dust, two stories of columns and niches glowing gold in the afternoon light. This isn't a reconstruction fantasy — it's a genuine Roman port city, once home to a quarter-million people, laid out street by street in front of you.

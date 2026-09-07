@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mong Kok doesn't do quiet. Neon, market stalls, the crush of Nathan Road — and then you ride the escalators up into Langham Place and find Beans Cafe, a small coffee shop that somehow keeps its calm.

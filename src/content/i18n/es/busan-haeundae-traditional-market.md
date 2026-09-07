@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-haeundae-traditional-market
-srcHash: 'fafd171c6515'
+srcHash: '3a1ec2530049'
 title: 'Mercado Tradicional de Haeundae: Guía de Viaje de Busan (4.2★)'
 description: El Mercado Tradicional de Haeundae (Haeundae Traditional Market) es un callejón techado de puestos de comida callejera y productos frescos, justo detrás de la playa de Haeundae, abierto todos los días de 9:00 a 22:00. 4.2★ (3.486 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Mercado Tradicional de Haeundae es un callejón techado de puestos de comida callejera y productos frescos, justo detrás de la playa de Haeundae, abierto todos los días de 9:00 a 22:00. Ve entre las 9:00 y las 11:00 si quieres moverte con libertad y ver a los vendedores instalando sus puestos; evita el horario de 17:00 a 22:00 los fines de semana, cuando el callejón se llena de gente cenando. Reserva una hora, ve con hambre y lleva efectivo para los puestos más pequeños.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debería pedir?
     a: 'Prueba el ssiat hotteok (panqueque dulce relleno de semillas), el gimbap estilo Chungmu, los pinchos de eomuk (pastel de pescado) y el marisco a la parrilla o fresco cerca del extremo del mercado que da al mar. Lleva efectivo: muchos puestos no aceptan tarjeta.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

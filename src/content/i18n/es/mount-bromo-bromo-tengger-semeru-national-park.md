@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mount-bromo-bromo-tengger-semeru-national-park
-srcHash: '15045a47c13c'
+srcHash: '614d542fccf5'
 title: 'Parque Nacional Bromo Tengger Semeru: Guía de viaje al Monte Bromo'
 description: 'El Parque Nacional Bromo Tengger Semeru es un paisaje volcánico de altura en Java Oriental donde se contempla el amanecer sobre el cráter humeante del Monte Bromo desde un mirador sobre un vasto "Mar de Arena" gris. 4.8★ (47,146 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional Bromo Tengger Semeru es un paisaje volcánico de altura en Java Oriental donde se contempla el amanecer sobre el cráter humeante del Monte Bromo desde un mirador sobre un vasto "Mar de Arena" gris. La mayoría de los visitantes se une a un tour en jeep desde Cemoro Lawang o Malang antes del amanecer; el acceso funciona con entradas y no con una puerta que abre y cierra, y el acceso al amanecer está disponible todos los días de la semana. Ve en la temporada seca, de abril a octubre, para las vistas más despejadas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay mucha gente y cómo evito lo peor de las multitudes?
     a: Sí, este es uno de los lugares naturales más visitados de Indonesia, especialmente en el mirador de Penanjakan. Prueba King Kong Hill o Seruni Point para disfrutar de una vista del amanecer similar con menos jeeps compitiendo por el espacio.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Bromo hace que la gente se levante a las 3am
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: naples-museo-archeologico-nazionale-di-napoli
-srcHash: '477d8990b835'
+srcHash: '817a19bf6d13'
 title: 'Museo Archeológico Nacional de Nápoles: Guía de viaje de Nápoles'
 description: 'El Museo Archeologico Nazionale di Napoli (MANN), justo al norte del centro histórico de Nápoles, en Piazza Museo 19, alberga la mejor colección de arte recuperado de Pompeya y Herculano de todo el mundo. 4.6★ (37,292 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Archeologico Nazionale di Napoli (MANN), justo al norte del centro histórico de Nápoles, en Piazza Museo 19, alberga la mejor colección de arte recuperado de Pompeya y Herculano de todo el mundo. Abre todos los días excepto los martes, de 9:00 a 18:30; conviene reservar entre dos y tres horas, y si lo visitas en fin de semana, ve justo a la apertura, a las 9:00, ya que entre las 10:00 y las 18:00 es cuando hay más aglomeración. Se llega fácilmente a través de las estaciones Cavour o Museo de la Línea 1 del metro, ambas a poca distancia a pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene visitarlo antes o después de Pompeya?
     a: 'Cualquiera de las dos opciones funciona: muchos visitantes combinan una excursión de un día a Pompeya o Herculano con el museo, ya que los mejores frescos, mosaicos y bronces de esos yacimientos se conservan aquí, no en el propio sitio arqueológico.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

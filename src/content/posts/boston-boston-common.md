@@ -85,8 +85,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up out of the Park Street T stop and the city just opens up — traffic noise falls away behind you, and suddenly there's a wide expanse of lawn, gravel paths, and old trees where a parking lot or office tower would be almost anywhere else in America. That's the first thing that hits you about Boston Common: it's been here since 1634, older than the country itself, and it still functions as the front yard for an entire city rather than a museum piece behind glass.
 
 ## Why go

@@ -88,8 +88,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the whitewashed perimeter wall on Na Phra Lan Road and the first thing that hits you is the glare — sunlight bouncing off thousands of mirrored glass mosaic tiles and gilded chedis stacked against the sky. This is Wat Phra Kaew, the Temple of the Emerald Buddha, sitting inside the walls of the Grand Palace and functioning as the spiritual heart of Thailand.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: naples-catacombs-of-san-gennaro
-srcHash: '65300c7fcef5'
+srcHash: '7301c1dcf310'
 title: 'Catacumbas de San Genaro: guía de viaje de Nápoles'
 description: Las Catacumbas de San Genaro (Catacombe di San Gennaro) se encuentran en Via Capodimonte, a un corto paseo cuesta arriba o trayecto en autobús desde el centro histórico, y solo se visitan con tour guiado (unos 60-75 minutos, con salidas en horarios fijos a lo largo del día).
 quickAnswer: Las Catacumbas de San Genaro (Catacombe di San Gennaro) se encuentran en Via Capodimonte, a un corto paseo cuesta arriba o trayecto en autobús desde el centro histórico, y solo se visitan con tour guiado (unos 60-75 minutos, con salidas en horarios fijos a lo largo del día). Reserva tu turno con antelación por internet, ya que se trata de una atracción muy visitada y bien valorada (4.7 estrellas con más de 13,000 reseñas), no de un rincón tranquilo y poco conocido. Combínala con el Museo de Capodimonte, justo al lado, y calcula alrededor de medio día en total, incluyendo los desplazamientos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con la visita?
     a: El Museo di Capodimonte y su parque real están justo al lado, lo que facilita convertir la visita a las catacumbas en una excursión de medio día en la colina de Capodimonte.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes que baja la temperatura antes de que tus ojos se adapten. Al bajar desde Via Capodimonte hacia la roca de toba, el ruido del tráfico napolitano se desvanece casi al instante, sustituido por el silencio de un espacio que ha recibido a los muertos —y a los devotos— desde el siglo II. Se trata de uno de los complejos de catacumbas más antiguos y extensos del sur de Italia, excavado directamente en la ladera volcánica bajo el barrio de Capodimonte, y en parte de su construcción es incluso anterior a las más famosas catacumbas de Roma.
 

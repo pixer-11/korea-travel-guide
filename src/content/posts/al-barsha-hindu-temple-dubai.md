@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the scale, not just the ritual. This is one of the largest Hindu temples in the Gulf, built to serve Dubai's substantial South Asian community, and the architecture alone is worth the trip.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: boston-boston-common
-srcHash: '512fe65e585a'
+srcHash: 'c55b2ce627e7'
 title: 'Boston Common: Guía de viaje'
 description: 'Boston Common es el parque público más antiguo de Estados Unidos: 50 acres de verde que anclan el centro de Boston, delimitados por Beacon Hill, el Theater District y el Public Garden.'
 quickAnswer: 'Boston Common es el parque público más antiguo de Estados Unidos: 50 acres de verde que anclan el centro de Boston, delimitados por Beacon Hill, el Theater District y el Public Garden. Es gratuito, está abierto todo el año, y se disfruta mejor temprano por la mañana o entre semana, ya que las tardes y los fines de semana atraen multitudes. Calcula entre 45 minutos y una hora si vas de paso, o medio día si lo combinas con el Freedom Trail y los botes cisne del Public Garden.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero extender el paseo?
     a: El Public Garden (con sus botes cisne y las estatuas de "Make Way for Ducklings") está justo al lado, cruzando Charles Street, y el Common es la primera milla del Freedom Trail, que lleva hacia el State House y el Granary Burying Ground.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sales de la estación de metro (T) de Park Street y la ciudad simplemente se abre ante ti: el ruido del tráfico queda atrás y, de pronto, aparece una extensa pradera, senderos de grava y árboles centenarios donde en casi cualquier otro lugar de Estados Unidos habría un estacionamiento o una torre de oficinas. Eso es lo primero que te sorprende de Boston Common: existe desde 1634, es más antiguo que el propio país, y todavía funciona como el patio delantero de toda una ciudad, no como una pieza de museo detrás de un vidrio.
 

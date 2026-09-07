@@ -102,8 +102,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The L-shaped stone hall of the Egyptian Bazaar has been selling spice since 1664, built as part of the New Mosque complex to fund its upkeep. You smell it before you see it — the doorway near Eminönü exhales a wall of cumin, sumac, dried mint, and rose petals that hits you the second you step off the sunny cobblestones and into the vaulted shade.

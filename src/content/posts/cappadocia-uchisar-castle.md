@@ -116,8 +116,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Uchisar Castle isn't a castle in the European sense — no drawbridge, no turrets. It's a volcanic rock cone riddled with hand-carved tunnels, rooms, and pigeon holes, rising above the village of Uçhisar like a natural skyscraper.

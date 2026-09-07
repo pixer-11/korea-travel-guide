@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come down the stone steps from Place Bellecour or wander along the Saône from the Vieux Lyon side, and suddenly the quai opens up into a long ribbon of striped awnings, crates of glossy aubergines, and the low murmur of vendors calling out prices in fast, clipped French. Marché Saint-Antoine isn't dressed up for visitors — there's no branding, no gift-shop version of itself — it's simply where a good chunk of the 2nd arrondissement does its actual grocery shopping.

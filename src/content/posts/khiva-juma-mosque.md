@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You step through a low wooden doorway off a sun-bleached lane in Itchan Kala, and the noise of the old city just stops. No dome overhead, no soaring iwan — just a flat mud roof held up by a dark, silent forest of wood.
 
 That's the trick of the Juma Mosque. From outside it barely registers as a mosque at all. Inside, over 200 carved pillars stretch off in every direction, their capitals so densely patterned they look almost textile. A few, near the mihrab, are said to date to the 10th century, salvaged from an earlier structure and reused when the current building went up in the late 1700s.

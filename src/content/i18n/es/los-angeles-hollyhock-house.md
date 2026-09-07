@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-hollyhock-house
-srcHash: 'ffc6ab7a4d8f'
+srcHash: 'c3f878ecaa90'
 title: 'Hollyhock House: Guía de viaje de Los Ángeles (4.5★)'
 description: Hollyhock House, la residencia de 1921 que Frank Lloyd Wright diseñó para la petrolera Aline Barnsdall, se alza en lo alto de Barnsdall Art Park, en East Hollywood, y solo abre de jueves a sábado, de 11am a 4pm. 4.5★ (647 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Hollyhock House, la residencia de 1921 que Frank Lloyd Wright diseñó para la petrolera Aline Barnsdall, se alza en lo alto de Barnsdall Art Park, en East Hollywood, y solo abre de jueves a sábado, de 11am a 4pm. Reserva entre 45 y 60 minutos para el recorrido autoguiado por el interior de la casa y luego aprovecha para pasear por los olivares y terrazas circundantes, con vistas al perfil de la ciudad. Todavía recibe pocas visitas en comparación con otros íconos de Los Ángeles, así que un horario temprano de jueves o viernes es tu mejor opción para tener las salas casi para ti solo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo más para hacer cerca?
     a: El propio Barnsdall Art Park es gratuito todos los días e incluye olivares, vistas al perfil de la ciudad y la pequeña galería Barnsdall Art Center, lo que facilita combinarlo con un día en Hollywood o Los Feliz.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

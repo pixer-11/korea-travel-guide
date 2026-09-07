@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kobe Harborland sits where an old freight rail yard used to run, and you can still feel that industrial bone structure under the shopping malls. Red-brick warehouse facades face the water. Cranes and old train tracks are preserved as sculpture between the storefronts. It's a working monument to Kobe's port history dressed up as a mall district.

@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is one of the largest museums on Earth, and somehow it still feels under-visited compared to the square outside it. Over a million objects live here, from Neolithic pottery to Qing dynasty court robes, spread across galleries so vast your footsteps echo on the marble.

@@ -56,8 +56,6 @@ faq:
     a: Not realistically. Trails are unsigned and wildlife-dense; local guides arranged through Banlung or the ranger station are essential for safety and navigation.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually visiting
 
 Virachey stretches across a huge, sparsely mapped chunk of Ratanakiri province, bordering Laos and Vietnam's tri-point region. The terrain shifts from dense lowland jungle to open savannah and grassland within a single trek. Wildlife here is real, not curated: gibbons, elephants, clouded leopards and hornbills all have confirmed ranges inside the park, though sightings are never guaranteed.

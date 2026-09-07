@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-chen-clan-ancestral-hall
-srcHash: 'df94d381ed1d'
+srcHash: '7e58063e7299'
 title: 'Salón Ancestral del Clan Chen: Guía de viaje de Guangzhou'
 description: El Salón Ancestral del Clan Chen (陈家祠, Chan Sui Chi Study Hall), en el distrito de Liwan, es el templo académico de la dinastía Qing mejor conservado de Guangzhou, construido en 1894 por 72 ramas de la familia Chen como academia clánica y santuario ancestral.
 quickAnswer: El Salón Ancestral del Clan Chen (陈家祠, Chan Sui Chi Study Hall), en el distrito de Liwan, es el templo académico de la dinastía Qing mejor conservado de Guangzhou, construido en 1894 por 72 ramas de la familia Chen como academia clánica y santuario ancestral. Dedica entre 1,5 y 2 horas a recorrer sus nueve salones, seis patios y una techumbre repleta de figurillas de cerámica, y ve un día laborable a primera hora de la mañana justo después de la apertura para admirar las tallas sin multitudes que arruinen la foto. Se encuentra justo encima de la estación Chen Clan Academy de la Línea 1 del metro, así que no hace falta tomar un taxi.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Las calles más antiguas del distrito de Liwan, incluyendo Enping Road y la calle peatonal comercial Shangxiajiu con sus edificios porticados qilou, están a poca distancia para seguir con una jornada de temática del viejo Guangzhou.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sales de las escaleras del metro y ya estás dentro de la experiencia: el propio andén de la estación Chen Clan Academy está decorado con reproducciones de los paneles tallados en madera del salón, una especie de aperitivo de lo que te espera en la superficie. Sales por la salida y el complejo se asienta apartado de la calle, tras un muro bajo y un estanque, con su fachada de ladrillo gris de pronto mucho más silenciosa que el tráfico de Zhongshan Qi Road a tus espaldas.
 

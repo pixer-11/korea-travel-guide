@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-creek-park
-srcHash: 'ed3baf1dd04f'
+srcHash: '4ca4d3ca75ca'
 title: 'Creek Park: Guía de viaje de Dubái (4.5★)'
 description: 'Creek Park es una extensa zona verde a lo largo del Dubai Creek, en Umm Hurair, conocida sobre todo por su teleférico, sus zonas de juegos infantiles, sus senderos botánicos y su oferta gastronómica junto al agua. 4.5★ (15.808 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Creek Park es una extensa zona verde a lo largo del Dubai Creek, en Umm Hurair, conocida sobre todo por su teleférico, sus zonas de juegos infantiles, sus senderos botánicos y su oferta gastronómica junto al agua. Abre de 8:00 a 22:00 entre semana y hasta las 23:00 de viernes a domingo. Conviene ir temprano los fines de semana (de 8:00 a 11:00) para evitar la afluencia que se acumula a partir de las 15:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: 'El parque en sí se divide en zonas con acceso independiente, cada una con su propia tarifa: el teleférico, Children''s City y algunos jardines se pagan por separado. Los precios cambian de vez en cuando, así que conviene confirmarlos en la propia taquilla.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Creek Park sigue siendo importante
 

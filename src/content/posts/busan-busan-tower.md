@@ -88,8 +88,6 @@ aiGenerated: true
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Busan Tower isn't the tallest structure in the city anymore, but it's still the best-placed one. At 118 meters, perched on Yongdusan Park's hilltop in the middle of Jung-gu, it puts you above the tangle of Nampo-dong's alleys and gives you the harbor in one unbroken sweep.

@@ -57,8 +57,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Jahili Fort is one of the largest historic forts in the UAE, and it doesn't try to hide it. Built in the 1890s under Sheikh Zayed bin Khalifa Al Nahyan, it was raised to guard Al Ain's palm groves and the settlement's water sources. You come for the scale of the round central tower, the honey-colored mudbrick walls, and the sense that this was once the real defensive heart of the oasis city.

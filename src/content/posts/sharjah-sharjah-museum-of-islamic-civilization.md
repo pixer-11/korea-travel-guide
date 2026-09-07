@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the gold dome before you spot the building itself, glinting above the Corniche waterfront like a beacon pointed at the creek. This is the Sharjah Museum of Islamic Civilization, and that dome isn't decoration — it's a compass, oriented to echo the mihrab niches inside.

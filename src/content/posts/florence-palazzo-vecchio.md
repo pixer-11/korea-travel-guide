@@ -88,8 +88,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see it before you reach the square: a rough-hewn stone tower punching 94 meters into the Florentine sky, off-center and asymmetrical in a way that no modern architect would allow. That crookedness is the point. Palazzo Vecchio wasn't built to be pretty — it was built to survive, a fortress for a government that genuinely feared being overthrown. Notice the machicolations along the top, the small windows, the sheer defensive bulk of it, and the whole building starts to read less like a museum and more like a bunker with frescoes inside.
 
 ## Why go

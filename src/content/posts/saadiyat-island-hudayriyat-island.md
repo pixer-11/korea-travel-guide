@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Hudayriyat Island earns a visit
 
 Saadiyat has the museums and the beach clubs; Hudayriyat is where Abu Dhabi actually exercises. It's a sprawling reclaimed island south of the city, connected by its own bridge, built around one enormous idea: give people space to move outdoors year-round.

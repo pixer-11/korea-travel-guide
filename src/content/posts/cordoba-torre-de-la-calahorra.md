@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot it before you even cross the river: a squat, sand-colored tower anchoring the far end of the Roman Bridge. Torre de la Calahorra has guarded that crossing since the Moorish period, and it's the one spot in Córdoba where you get the postcard shot — the Mezquita's bell tower and orange rooftops — without fighting for space on the bridge itself.

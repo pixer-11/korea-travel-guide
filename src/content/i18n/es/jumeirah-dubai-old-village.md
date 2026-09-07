@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jumeirah-dubai-old-village
-srcHash: '5b683379856f'
+srcHash: 'd9907812d010'
 title: 'Pueblo Antiguo de Dubái (Dubai Old Village): Guía de Viaje (4.6★)'
 description: 'El Pueblo Antiguo de Dubái, en Al Hamriya, en el lado de Bur Dubái del Creek de Dubái, es un barrio patrimonial reconstruido con edificios de piedra coralina y yeso que muestra cómo era Dubái antes del boom petrolero. 4.6★ (1.109 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Pueblo Antiguo de Dubái, en Al Hamriya, en el lado de Bur Dubái del Creek de Dubái, es un barrio patrimonial reconstruido con edificios de piedra coralina y yeso que muestra cómo era Dubái antes del boom petrolero. Sigue siendo bastante desconocido en comparación con Al Fahidi y Al Seef, por lo que a menudo tendrás los callejones para ti solo. Calcula entre 45 minutos y una hora, idealmente en las horas más frescas de la mañana o al final de la tarde.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento del día para visitarlo?
     a: Temprano por la mañana o después de las 16:00, sobre todo fuera del invierno, ya que hay poca sombra y el calor del mediodía puede resultar incómodo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Qué es realmente este lugar
 

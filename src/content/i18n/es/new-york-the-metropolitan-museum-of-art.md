@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-the-metropolitan-museum-of-art
-srcHash: 'c87debd41738'
+srcHash: 'c9d41ec8ead3'
 title: 'El Museo Metropolitano de Arte: Guía de Viaje de Nueva York (4.8★)'
 description: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. 4.8★ (94.256 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. Ve un viernes o sábado, cuando el museo permanece abierto hasta las 21:00, y aprovecha la última hora antes del cierre (17:00–18:00) para recorrer el Gran Salón (Great Hall) y las galerías principales sin la aglomeración diurna. Cierra los miércoles, así que organiza tu visita teniendo esto en cuenta.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinar visitas?
     a: El museo se encuentra justo junto a Central Park, así que un paseo por el parque es la combinación obvia. El Guggenheim está a unos 10 minutos a pie hacia el norte por la Quinta Avenida, y el Museo Americano de Historia Natural (American Museum of Natural History) está al otro lado del parque, en el West Side.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

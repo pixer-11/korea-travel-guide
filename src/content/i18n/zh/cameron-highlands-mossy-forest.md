@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cameron-highlands-mossy-forest
-srcHash: '9e179c3025dc'
+srcHash: '7b7c67c5edd6'
 title: 苔藓森林(Mossy Forest):金马仑高原(Cameron Highlands)旅行指南(4.4★)
 description: 苔藓森林(Mossy Forest)位于宾嘉兰山(Gunung Brinchang)山顶附近，需沿着从布林昌(Brinchang)上方电信塔路旁起始的木栈道步行前往。4.4★(4,263条评价)——游客怎么说、开放时间及实用建议。
 quickAnswer: 苔藓森林(Mossy Forest)位于宾嘉兰山(Gunung Brinchang)山顶附近，需沿着从布林昌(Brinchang)上方电信塔路旁起始的木栈道步行前往。每天开放时间为上午9点至下午4点，只能通过持牌向导或参加旅行团进入，建议预留1至1.5小时在这条高架步道上游览。尽量在9点左右就抵达——大多数午后云雾和细雨会很快涌来。
@@ -17,8 +17,6 @@ faq:
   - q: 该穿什么、带什么?
     a: 建议穿抓地力好的封闭式鞋子，携带轻便雨衣及保暖衣物——这里比山下的市镇明显更冷、更潮湿。
 ---
-
-> **本指南制作方式:** 经编辑审核、AI辅助撰写。事实信息来自实时的Google Places数据；图片均获授权或为公共领域内容。详见我们的[编辑政策](/about)。
 
 ## 为何苔藓森林值得一登
 

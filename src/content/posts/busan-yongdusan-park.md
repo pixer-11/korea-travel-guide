@@ -105,8 +105,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Yongdusan Park anchors a Busan visit
 
 You climb out of the alleys of Nampo-dong and the city noise just drops away. Pigeons scatter off a stone plinth, cicadas buzz in summer, and suddenly you're under a canopy of pines instead of neon signs.

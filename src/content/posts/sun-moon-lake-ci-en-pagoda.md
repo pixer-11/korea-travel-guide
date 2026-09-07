@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for one thing: the view from the top tier, where Sun Moon Lake spreads out below in a single unbroken sweep. At 9 stories and octagonal in shape, Ci'en Pagoda is deliberately positioned at the lake's highest accessible point on the southern shore. The tower itself, finished in 1971, was built by Chiang Kai-shek as a tribute to his mother — a fact that gives the site a quiet, personal weight beyond its postcard views.

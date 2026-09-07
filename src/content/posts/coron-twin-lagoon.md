@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Twin Lagoon is worth the boat ride
 
 You feel it before you see it: the boat engine cuts, and suddenly there's just water lapping against limestone. Twin Lagoon sits tucked into a cove on Coron Island, its cliffs rising sheer and grey-green, streaked with mineral stains and hanging vines.

@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You've seen the photo a hundred times — the salmon-pink lattice wall rising five stories above a pink city street, punctured by 953 tiny windows — but nothing quite prepares you for standing beneath it at street level. The scale is bigger than it looks in pictures, and the detail is finer: each *jharokha* window is edged in white trim, and the whole facade curves gently, built in the shape of Krishna's crown.

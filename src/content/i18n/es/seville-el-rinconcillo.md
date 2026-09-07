@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seville-el-rinconcillo
-srcHash: '9b869b676daa'
+srcHash: '0b36a53e1a3e'
 title: 'El Rinconcillo: dónde comer en Sevilla (4,3★)'
 description: 'El Rinconcillo, en el Casco Antiguo cerca de la Alameda de Hércules, es el bar de tapas más antiguo de Sevilla, con historia desde 1670: ve por las espinacas con garbanzos, el salmorejo y los embutidos cortados en la barra de mármol, todo regado con una copa de su extensa carta de vinos de Jerez y Rioja. 4,3★ (14.706 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Rinconcillo, en el Casco Antiguo cerca de la Alameda de Hércules, es el bar de tapas más antiguo de Sevilla, con historia desde 1670: ve por las espinacas con garbanzos, el salmorejo y los embutidos cortados en la barra de mármol, todo regado con una copa de su extensa carta de vinos de Jerez y Rioja. Es un lugar muy popular y muy bien valorado, así que el consejo honesto es contar con esperar y ver el ritual de la cuenta anotada con tiza en la barra como parte del espectáculo, no como una molestia.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Está a distancia a pie de los principales lugares de interés?
     a: 'Sí: está a unos 10-12 minutos a pie de la Catedral de Sevilla y del Metropol Parasol, y cerca de la zona de ambiente nocturno de la Alameda de Hércules, lo que facilita combinarlo con una visita al casco antiguo.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisado por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

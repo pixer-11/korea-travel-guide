@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-artscience-museum
-srcHash: '39462214a791'
+srcHash: '4c7a8a7627a0'
 title: 'Museo ArtScience: guía de viaje de Marina Bay (4,4★)'
 description: 'El Museo ArtScience se encuentra en Marina Bay, junto a Marina Bay Sands, en el paseo marítimo de Bayfront, y abre todos los días de 10:00 a 19:00. 4,4★ (18.427 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo ArtScience se encuentra en Marina Bay, junto a Marina Bay Sands, en el paseo marítimo de Bayfront, y abre todos los días de 10:00 a 19:00. Es una parada muy popular, así que conviene llegar a la apertura, a las 10:00, o visitarlo entre semana de 10:00 a 12:00 para evitar las aglomeraciones. Calcule entre dos y tres horas para recorrer sus exposiciones rotativas de diseño, ciencia y tecnología.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para prolongar la visita?
     a: Marina Bay Sands, la Arboleda de los Supertrees de Gardens by the Bay, el puente Helix y el parque Merlion se encuentran todos a entre 5 y 15 minutos a pie por el paseo marítimo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

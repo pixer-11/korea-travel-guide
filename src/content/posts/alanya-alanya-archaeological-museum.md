@@ -57,8 +57,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't come to this museum for scale — you come for concentration. Every case holds something worth stopping for: a marble Herakles statuette, chunky Roman-era gold rings, glass unguentaria still faintly iridescent after two thousand years underground.

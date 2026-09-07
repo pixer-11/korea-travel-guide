@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-palazzo-vecchio
-srcHash: 'dd86d36a71e6'
+srcHash: '01cab25b2f9c'
 title: 'Palazzo Vecchio: Guía de viaje de Florencia'
 description: El Palazzo Vecchio, en la Piazza della Signoria, es el ayuntamiento fortificado del siglo XIII de Florencia convertido en museo, célebre por su torre almenada, el vasto Salone dei Cinquecento y las salas con frescos de Vasari y Ghirlandaio.
 quickAnswer: El Palazzo Vecchio, en la Piazza della Signoria, es el ayuntamiento fortificado del siglo XIII de Florencia convertido en museo, célebre por su torre almenada, el vasto Salone dei Cinquecento y las salas con frescos de Vasari y Ghirlandaio. Calcula entre 1,5 y 2 horas para las salas principales, más tiempo si subes a la torre o bajas a los cimientos de época romana. Llega justo a la apertura o en las dos últimas horas antes del cierre para evitar lo peor de las multitudes que se forman al mediodía.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena la entrada adicional para subir a la torre?
     a: 'Si no te incomodan las escaleras estrechas ni los espacios reducidos, sí: ofrece una de las mejores vistas de cerca de la cúpula del Duomo de Brunelleschi. Es una entrada aparte, con aforo limitado, así que resérvala junto con la entrada principal si quieres asegurarte una plaza.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo ves antes de llegar a la plaza: una tosca torre de piedra que se eleva 94 metros hacia el cielo florentino, descentrada y asimétrica de una manera que ningún arquitecto moderno permitiría hoy. Esa irregularidad es precisamente lo que importa. El Palazzo Vecchio no se construyó para ser bonito, sino para resistir: era la fortaleza de un gobierno que temía de verdad ser derrocado.
 

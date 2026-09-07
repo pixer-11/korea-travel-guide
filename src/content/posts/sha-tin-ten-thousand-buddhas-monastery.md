@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a quiet back-alley temple — it's one of Sha Tin's signature sights, and the reason is visible before you even reach the top. Over 12,000 small Buddha statues, no two quite alike, line the switchback staircase and terraces, donated over decades by worshippers and collectors.

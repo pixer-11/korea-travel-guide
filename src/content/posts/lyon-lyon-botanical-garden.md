@@ -63,8 +63,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to this garden for the greenhouses, not just the lawns. Since 1857, this corner of Parc de la Tête d'Or has been quietly assembling one of France's great living plant collections — some 15,000 species packed into a network of Victorian-style glasshouses and outdoor beds.

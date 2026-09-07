@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-shri-laxmi-narayan-temple-birla-mandir
-srcHash: '853192b1ce95'
+srcHash: 'a36d035bd382'
 title: 'Templo Shri Laxmi Narayan (Birla Mandir): guía de viaje de Nueva Delhi'
 description: 'El Birla Mandir (templo Shri Laxmi Narayan) se encuentra en Mandir Marg, cerca de Gole Market, y abre a diario de 4:30 a 21:00 h, con un descanso al mediodía de 13:30 a 14:30 h. 4,6★ (17.963 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Birla Mandir (templo Shri Laxmi Narayan) se encuentra en Mandir Marg, cerca de Gole Market, y abre a diario de 4:30 a 21:00 h, con un descanso al mediodía de 13:30 a 14:30 h. El momento más tranquilo es entre semana por la mañana, de 7 a 9 h; los fines de semana, en cambio, hay mucho movimiento desde las 10 h hasta el cierre, así que conviene empezar temprano. Calcule entre 45 y 60 minutos de visita, use calzado fácil de quitar y tenga en cuenta que deberá dejarlo en un mostrador gratuito cerca de la entrada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: La mayoría de los visitantes dedica entre 45 y 60 minutos, pero si se llega temprano es posible tomarse con calma hasta 90 minutos para recorrer los jardines y los santuarios laterales sin aglomeraciones.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

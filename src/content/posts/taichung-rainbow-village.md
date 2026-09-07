@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You round a corner off an ordinary residential street in Nantun District and the pavement itself turns into a canvas — cartoon soldiers, owls with human faces, tigers, and planes in cobalt blue, mustard yellow, and fire-engine red climb up the low concrete walls of a row of squat single-story houses. This is Rainbow Village, and the story behind it is as disarming as the paint job: in the early 2010s this was one of hundreds of "military dependents' villages" built for Nationalist soldiers and their families after 1949, and it was slated for demolition once residents moved out.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: valencia-tapas-boatella
-srcHash: '4350a0a9a87d'
+srcHash: 'd29c02c6ab77'
 title: Tapas Boatella:瓦伦西亚美食去处推荐
 description: Tapas Boatella 就坐落在旧城区（Ciutat Vella）的市场广场（Plaça del Mercat）上，紧邻中央市场（Mercado Central）与丝绸交易所（Lonja de la Seda）之间，每周除周二、周三外每天营业，时间为早上8点到晚上11点。
 quickAnswer: Tapas Boatella 就坐落在旧城区（Ciutat Vella）的市场广场（Plaça del Mercat）上，紧邻中央市场（Mercado Central）与丝绸交易所（Lonja de la Seda）之间，每周除周二、周三外每天营业，时间为早上8点到晚上11点。来这里可以品尝市场直供的海鲜小吃、点一份海鲜饭，还能坐在户外座位上，正对着市场那面铺满瓷砖的外墙。不过要是周末想不排队就有座，最好早上9点前到——因为从上午11点起，露台座位很快就会坐满。
@@ -17,8 +17,6 @@ faq:
   - q: 应该安排多长时间？
     a: 点几轮小吃的话，一小时到一个半小时比较合适。由于早上8点就开门，这里也很适合当作快速早餐或喝杯咖啡的地方。
 ---
-
-> **本指南制作说明：** 编辑审校,AI辅助完成。资料来自谷歌地图（Google Places）实时数据，图片均为已获授权或公共版权图片。详见我们的[编辑规范](/about)。
 
 ## 为什么值得一去
 

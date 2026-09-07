@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-changi-village-hawker-centre
-srcHash: 'bf9e88d1d880'
+srcHash: '6e1c5c019ac3'
 title: 樟宜村熟食中心：新加坡美食指南
 description: 樟宜村熟食中心（Changi Village Hawker Centre）位于新加坡东北角的 2 Changi Village Rd，以椰浆饭摊位、沙爹和炸香蕉饼闻名。
 quickAnswer: 樟宜村熟食中心（Changi Village Hawker Centre）位于新加坡东北角的 2 Changi Village Rd，最出名的是椰浆饭摊位、沙爹和炸香蕉饼，食客们在吊扇呼呼作响的公共科明桌（Formica table）旁围坐用餐。这里人气很旺（4.3 星，近 14,000 条评价），建议挑工作日中午12点前或下午2点后前往以避开人潮，还可以顺路去附近的樟宜海滩散步，或搭渡轮前往乌敏岛（Pulau Ubin）。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还能做些什么？
     a: 樟宜海滩公园（Changi Beach Park）步行即可到达，前往乌敏岛（Pulau Ubin，一座节奏更慢、适合骑行的岛屿）的渡轮码头也在附近——这两处都很适合与在这里用餐结合安排。
 ---
-
-> **本指南制作方式：** 经编辑审阅，并借助人工智能辅助完成。相关信息取自 Google Places 实时数据；图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 还没看到桌子，你就先闻到了味道：沙爹烤架上升腾而起的炭火烟气，还有椰浆饭摊位飘出的班兰叶与椰浆那股甜咸交织的香气。樟宜村熟食中心（Changi Village Hawker Centre）坐落在新加坡的东北角尽头，是一栋单层露天建筑，铺着波纹铁皮屋顶，吊扇呼呼转动，一排排公共科明桌（Formica table）显然已经历了几十年食客手肘的摩擦与洒落的辣椒酱。它毫不讲究，却正因如此而迷人——塑料凳子、手写菜单板，还有金属餐盘不断堆叠碰撞的响声。
 

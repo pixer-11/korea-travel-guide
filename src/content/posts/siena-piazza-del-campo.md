@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Campo still stops you
 
 You come up one of the narrow, shadowed lanes that thread through Siena's brickwork — Via di Città, Via Banchi di Sotto, one of the little vicoli off the Terzo di San Martino — and then the street just opens. The Campo doesn't announce itself with a gate or a grand approach; it arrives all at once, a fan-shaped basin of rust-red brick tilting gently downhill toward the Palazzo Pubblico.

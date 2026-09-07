@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're looking at
 
 Wat Chalong is Phuket's biggest and most revered temple complex, founded in the early 1800s and rebuilt many times since. The centrepiece is a soaring chedi housing a fragment of Buddha relic bone, its exterior covered in gold mosaic tile that catches full sun by mid-morning.

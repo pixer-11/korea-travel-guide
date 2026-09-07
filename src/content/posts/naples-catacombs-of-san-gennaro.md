@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the temperature drop before your eyes adjust. Stepping off Via Capodimonte and down into the tufo rock, the noise of Neapolitan traffic falls away almost instantly, replaced by the hush of a space that has been receiving the dead — and the devout — since the 2nd century. This is one of the oldest and largest catacomb complexes in southern Italy, carved directly into the volcanic hillside beneath the Capodimonte district, and it predates the more famous catacombs of Rome in parts of its construction.
 
 ## Why go

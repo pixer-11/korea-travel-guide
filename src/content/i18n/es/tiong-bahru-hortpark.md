@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tiong-bahru-hortpark
-srcHash: '214168e4707d'
+srcHash: '8ccbb29702ac'
 title: 'HortPark: Guía de viaje de Tiong Bahru (4,5★)'
 description: 'HortPark, en Tiong Bahru, es un parque de jardinería de 23 hectáreas, gratuito, ubicado junto a Alexandra Road y abierto todos los días de 6:00 a 23:00. 4,5★ (3.280 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: HortPark, en Tiong Bahru, es un parque de jardinería de 23 hectáreas, gratuito, ubicado junto a Alexandra Road y abierto todos los días de 6:00 a 23:00. Es conocido sobre todo por sus jardines temáticos de demostración, una tienda de artículos de jardinería y un restaurante europeo escondido entre la vegetación. Las horas más tranquilas son de 7:00 a 23:00 tanto entre semana como los fines de semana, aunque los fines de semana la afluencia aumenta rápidamente entre las 10:00 y las 21:00, por lo que conviene visitarlo temprano por la mañana o al final del día.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo combinar HortPark con otras atracciones cercanas?
     a: Sí, se encuentra en un extremo del sendero de Southern Ridges, que conecta con Mount Faber, Telok Blangah Hill Park y Kent Ridge Park, por lo que resulta un punto natural de inicio o final para una caminata más larga.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 HortPark ocupa un terreno en pendiente junto a Hyderabad Road, entre el Alexandra Arch y el inicio del sistema de senderos de Southern Ridges. Desde la entrada no parece un parque típico de Singapur: no hay un único césped extenso, sino una serie de "salas" ajardinadas temáticas que descienden escalonadas por la ladera, cada una con un estilo paisajístico distinto.
 

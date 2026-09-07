@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bugis Street isn't subtle, and it isn't trying to be. Step off Victoria Street into the covered market and you're hit with rows of stalls stacked floor to ceiling with graphic tees, phone cases, keychains, and rack after rack of sundresses swaying under fluorescent light.

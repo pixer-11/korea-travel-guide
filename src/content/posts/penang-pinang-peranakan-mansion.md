@@ -62,8 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Step through the heavy timber doors on Church Street and you leave the traffic behind instantly. The mansion belonged to a wealthy Baba Nyonya (Peranakan Chinese) merchant, and every surface still shows it off.

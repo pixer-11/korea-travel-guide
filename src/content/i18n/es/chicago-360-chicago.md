@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-360-chicago
-srcHash: 'ab7ba4400265'
+srcHash: 'd86154e84926'
 title: '360 CHICAGO: Guía de viaje'
 description: 360 CHICAGO se encuentra en el piso 94 del edificio John Hancock, en 875 N Michigan Ave, abierto todos los días de 9am a 11pm.
 quickAnswer: 360 CHICAGO se encuentra en el piso 94 del edificio John Hancock, en 875 N Michigan Ave, abierto todos los días de 9am a 11pm. Es realmente popular, no un secreto, así que ve justo a las 9am un fin de semana (la franja más tranquila es de 9 a 11am) o a cualquier hora entre semana, y calcula alrededor de una hora, más si haces fila para TILT, la plataforma de cristal que se inclina sobre Michigan Avenue.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero hacer de esto un plan de todo el día?
     a: Estás a pocos pasos de la zona comercial de Magnificent Mile, el Wrigley Building, la Tribune Tower y Oak Street Beach, en el lago Michigan (Lake Michigan), fácil de combinar con la visita al mirador antes o después.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

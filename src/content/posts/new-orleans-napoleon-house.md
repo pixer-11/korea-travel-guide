@@ -67,8 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Napoleon House less for a single dish and more for the room itself. The building dates to 1797, with the current Creole-cottage-turned-restaurant identity taking hold around 1914, and the walls show it — plaster peeling in slow, deliberate patches, oil portraits gone dark with age, a patina no designer could fake. Classical music plays low over the speakers instead of jazz or pop, which throws you off at first and then makes total sense: this place has always run on its own clock.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-u-s-national-arboretum
-srcHash: 'a5e06dbde4ac'
+srcHash: '472ae9998a06'
 title: 'Arboreto Nacional de EE. UU.: Guía de viaje de Washington DC'
 description: El Arboreto Nacional de EE. UU.
 quickAnswer: El Arboreto Nacional de EE. UU. (U.S. National Arboretum), en 3501 New York Ave NE, en el noreste de DC, es un jardín de investigación gratuito de 446 acres conocido sobre todo por sus 22 columnas corintias rescatadas y por su Museo Nacional de Bonsái y Penjing (National Bonsai & Penjing Museum), de primer nivel mundial. Reserva al menos dos o tres horas, idealmente una mañana entre semana, y ve en coche o en bicicleta, ya que no se puede llegar caminando desde ninguna estación de Metro. Con una calificación de 4.7 sobre más de 6,000 reseñas, es realmente uno de los mejores planes gratuitos en Washington DC; eso sí, no esperes tenerlo para ti solo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el lugar imprescindible para tomar fotos?
     a: Las 22 columnas corintias del antiguo Capitolio de EE. UU., que se alzan solas en un prado junto a Ellipse Road, son la postal por excelencia del Arboreto, y se ven mejor con la luz dorada de última hora de la tarde.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

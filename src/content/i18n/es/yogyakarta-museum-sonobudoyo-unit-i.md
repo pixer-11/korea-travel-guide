@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-museum-sonobudoyo-unit-i
-srcHash: '4d384a1f12bc'
+srcHash: 'ba49f0179aff'
 title: 'Museo Sonobudoyo Unidad I: guía de viaje de Yogyakarta (4,8★)'
 description: 'El Museo Sonobudoyo Unidad I se encuentra en el lado norte del Alun-Alun Utara de Yogyakarta, justo al lado del complejo del Kraton (Palacio del Sultán), y abre de martes a domingo de 8:00 a 21:00 (cerrado los lunes). 4,8★ (10.388 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Sonobudoyo Unidad I se encuentra en el lado norte del Alun-Alun Utara de Yogyakarta, justo al lado del complejo del Kraton (Palacio del Sultán), y abre de martes a domingo de 8:00 a 21:00 (cerrado los lunes). Conviene reservar entre 60 y 90 minutos para recorrer la colección de máscaras, dagas keris y marionetas wayang, y organizar la visita en torno al espectáculo nocturno de sombras wayang kulit. Se trata de uno de los museos con más reseñas de Yogyakarta, así que llegar justo a la apertura o ir directamente a la función de la tarde ayuda a evitar la avalancha de autobuses turísticos del mediodía.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Kraton de Yogyakarta (Palacio del Sultán) y el castillo de agua Taman Sari están a poca distancia a pie, lo que permite combinar los tres lugares en una sola media jornada para explorar el antiguo barrio real.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Al cruzar la puerta que da a la calle Jalan Pangurakan, el ruido de la plaza queda atrás casi de inmediato. El Museo Sonobudoyo Unidad I ocupa un par de pabellones tradicionales de estilo javanés pendopo, con techos de tejas sostenidos por oscuros pilares de teca, dispuestos alrededor de un tranquilo patio interior. Es uno de los museos más antiguos de Indonesia, y se nota: no da sensación de polvo, sino de sosiego, como el de una vieja biblioteca.
 

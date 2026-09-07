@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-aquarium-paradise
-srcHash: '31374dd2eda5'
+srcHash: 'e25c6544c7a8'
 title: 'Aquarium Paradise: Guía de viaje de Bengaluru'
 description: Aquarium Paradise es una tienda-showroom compacta de peces ornamentales en Jayamahal Main Road, frente a la TV Tower en J.C. Nagar, abierta todos los días de 10:30am a 8pm.
 quickAnswer: Aquarium Paradise es una tienda-showroom compacta de peces ornamentales en Jayamahal Main Road, frente a la TV Tower en J.C. Nagar, abierta todos los días de 10:30am a 8pm. No es tanto una atracción turística como una tienda de suministros para acuarios en funcionamiento con cientos de peceras llenas de peces, y atrae a aficionados de toda la ciudad — así que conviene ir un día de semana por la mañana o al final de la tarde para evitar la avalancha de después del trabajo y los fines de semana. Calcula entre 30 y 45 minutos, y lleva efectivo o tarjeta para lo que decidas comprar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitarlo si no voy a comprar peces?
     a: Sí — es básicamente un paseo gratuito para curiosear, y la escala y variedad de peceras hace que valga la pena verlo aunque salgas con las manos vacías.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

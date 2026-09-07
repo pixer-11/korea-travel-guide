@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the Ferris wheel long before you reach the gate — a slow-turning silhouette against the ridge, visible from cars still climbing the highway below. That's the giveaway you've arrived at Sky Ranch, Tagaytay's amusement park perched where the land drops toward Taal Lake.
 
 ## Why go

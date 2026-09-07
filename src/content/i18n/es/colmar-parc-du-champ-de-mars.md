@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: colmar-parc-du-champ-de-mars
-srcHash: 'c189d2858986'
+srcHash: 'c66666d4f5d7'
 title: 'Parque del Champ de Mars: guía de viaje de Colmar (4,5★)'
 description: 'El Parque del Champ de Mars es el principal espacio verde de Colmar, situado a pocos minutos a pie al este del Casco Antiguo, en la Avenue de la République, y abierto las 24 horas. 4,5★ (7.330 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque del Champ de Mars es el principal espacio verde de Colmar, situado a pocos minutos a pie al este del Casco Antiguo, en la Avenue de la République, y abierto las 24 horas. El momento más tranquilo es por la mañana entre semana, de 7 a 8h (de 7 a 9h los fines de semana); conviene evitar la afluencia que se acumula de mediodía a las 21h los días de fin de semana. Calcule entre 30 y 60 minutos para el paseo, más tiempo si va con niños que quieran usar el parque infantil.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: No, es un parque público gratuito y de acceso libre, sin necesidad de entrada ni reserva.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

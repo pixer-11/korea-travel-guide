@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ha-long-bay-quang-ninh-museum
-srcHash: '3714b4bc73f2'
+srcHash: '47dd015b055d'
 title: 'Museo de Quang Ninh: guía de viaje de la bahía de Ha Long (4,5★)'
 description: 'El Museo de Quang Ninh se encuentra en la calle Tran Quoc Nghiem, frente al malecón de Ha Long, y se combina fácilmente con un paseo en barco por la bahía de Ha Long. 4,5★ (12.101 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Quang Ninh se encuentra en la calle Tran Quoc Nghiem, frente al malecón de Ha Long, y se combina fácilmente con un paseo en barco por la bahía de Ha Long. Abre todos los días de 8:00 a 12:00 y de 13:00 a 17:00, y el momento más tranquilo son las mañanas entre semana, de 8:00 a 12:00; los fines de semana hay afluencia constante durante toda la jornada (de 9:00 a 17:00). Conviene reservar entre 1 y 1,5 horas para recorrer la colección, además del tiempo para admirar el propio edificio de cristal negro.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita con otras paradas?
     a: El paseo marítimo situado justo enfrente ofrece buenas vistas de la fachada espejada del edificio, y tanto el mercado de Ha Long como el complejo Sun World Halong resultan opciones factibles para completar el mismo día.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

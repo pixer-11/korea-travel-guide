@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-tao-chalok-baan-kao-bay
-srcHash: '46225d5c2a2b'
+srcHash: '057645508b16'
 title: 'Chalok Baan Kao Bay: guía de viaje de Koh Tao (4.4★)'
 description: 'Chalok Baan Kao Bay es una bahía curva bordeada de cocoteros en la costa sur de Koh Tao, más tranquila y con más ambiente local que Sairee Beach, al norte. 4.4★ (644 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Chalok Baan Kao Bay es una bahía curva bordeada de cocoteros en la costa sur de Koh Tao, más tranquila y con más ambiente local que Sairee Beach, al norte. Está abierta las 24 horas y se disfruta mejor al amanecer, cuando prácticamente no hay nadie (de 7:00 a 8:00 los días de semana y de 7:00 a 10:00 los fines de semana). Funciona bien como base para media jornada de nadar, bucear y disfrutar de un almuerzo de mariscos sin prisas. Conviene evitar la franja de 15:00 a 23:00 los fines de semana si se quiere tener la arena para uno mismo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es buena Chalok Baan Kao para el buceo con tubo y el buceo con botellas?
     a: 'Sí: las puntas rocosas de ambos extremos de la bahía ofrecen un buen buceo con tubo, y varios centros de buceo de la zona organizan salidas en barco a puntos cercanos como Chumphon Pinnacle y Southwest Pinnacle.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

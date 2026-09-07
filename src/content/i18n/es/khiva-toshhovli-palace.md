@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-toshhovli-palace
-srcHash: '158a69d67a08'
+srcHash: '477fa2d36bc2'
 title: 'Palacio de Toshhovli: Guía de Viaje de Jiva (4,7★)'
 description: 'El Palacio de Toshhovli se encuentra dentro de Ichan-Qala, la ciudad amurallada de Jiva, a cinco minutos a pie de la ciudadela de Kunya-Ark. 4,7★ (510 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Palacio de Toshhovli se encuentra dentro de Ichan-Qala, la ciudad amurallada de Jiva, a cinco minutos a pie de la ciudadela de Kunya-Ark. Construido entre 1830 y 1840 por el kan Allakuli, recibe menos visitantes que los sitios más famosos de Jiva a pesar de su tamaño, así que conviene ir a media mañana o al final de la tarde y reservar entre 45 y 60 minutos. La entrada suele estar incluida en el ticket combinado de museos de Ichan-Qala, que se vende en las puertas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: La ciudadela de Kunya-Ark está a dos minutos, y la Mezquita de Juma, con sus columnas de madera talladas, se encuentra a un corto paseo dentro de las mismas murallas de la ciudad vieja.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Toshhovli destaca
 

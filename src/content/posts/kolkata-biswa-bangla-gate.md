@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot it long before you arrive: a colossal circular gate straddling the road, lit up like a spaceship parked over Newtown. Biswa Bangla Gate isn't a temple or a museum — it's a piece of civic architecture that doubled as a symbol of West Bengal's push to modernize this planned township east of Kolkata. It's become one of the city's most-photographed landmarks, and the crowds prove it.

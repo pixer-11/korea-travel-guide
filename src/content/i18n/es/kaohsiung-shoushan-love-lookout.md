@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-shoushan-love-lookout
-srcHash: 'a1ff39411801'
+srcHash: 'c72a036fb65a'
 title: 'Mirador LOVE del Shoushan: guía de viaje de Kaohsiung (4,5★)'
 description: 'El mirador LOVE del Shoushan (Monte de los Monos) se encuentra en el distrito de Gushan, en Kaohsiung, y es célebre por su letrero metálico iluminado "LOVE" y sus vistas panorámicas sobre el puerto y el perfil urbano. 4,5★ (8.618 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El mirador LOVE del Shoushan (Monte de los Monos) se encuentra en el distrito de Gushan, en Kaohsiung, y es célebre por su letrero metálico iluminado "LOVE" y sus vistas panorámicas sobre el puerto y el perfil urbano. Permanece abierto las 24 horas todos los días, así que el momento más tranquilo para visitarlo es entre las 7:00 y las 8:00 de la mañana entre semana, mucho antes de que lleguen los autobuses turísticos y las multitudes en busca de fotos. Calcule entre 30 y 45 minutos para la visita y vigile sus pertenencias: este es territorio de macacos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Son peligrosos los monos del Shoushan?
     a: Los macacos de roca de Formosa habitan la zona y están acostumbrados a la gente, pero no son mansos. Conviene mantener la comida escondida y evitar el contacto visual directo para prevenir comportamientos agresivos.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Al subir por las curvas cerradas de la carretera Shoushan, los árboles se abren de pronto para dar paso a una plataforma de concreto que se asoma hacia el estrecho de Taiwán. Ese es el mirador. Las grandes letras metálicas de "LOVE", pintadas de rojo y de la altura del pecho, están orientadas de tal forma que en cada fotografía aparecen de fondo el puerto y los edificios de gran altura de Kaohsiung.
 

@@ -86,6 +86,18 @@ clean('"Here is" mid-paragraph is not a leak', {
 });
 clean('"Here is the market" is a sentence, not scaffolding', { body: 'Here is the market at dawn, before the buses.' });
 
+// ── 중복 AI 고지 (컴포넌트가 이미 렌더한다, 2026-08-31 감사) ──
+flags('disclosure repeated in the body', 'DOUBLE-DISCLOSURE', {
+  body: '> **How this guide was made:** AI-assisted. See our [editorial policy](/about).\n\nThe lanes are quiet.',
+});
+flags('the Korean disclosure counts too', 'DOUBLE-DISCLOSURE', {
+  body: '> **이 가이드는 이렇게 만들어졌습니다:** AI의 도움으로 작성했습니다. [편집 정책](/about)을 참고하세요.\n\n조용한 골목.',
+});
+clean('an /about link in prose is not a duplicate disclosure', {
+  body: 'The lanes are residential. See our [editorial policy](/about) if you like.',
+});
+clean('a pull-quote is not a disclosure', { body: '> The queue moves faster than it looks.\n\nThe lanes are quiet.' });
+
 // ── 장소 데이터 ──────────────────────────────────────────────
 flags('search-query dump as place.name', 'GARBLED', { placeName: 'x / y restaurant / z vegan /' });
 flags('missing country', 'MISSING-COUNTRY', { country: '' });

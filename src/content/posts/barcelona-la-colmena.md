@@ -92,8 +92,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell it before you see the sign: sugared almonds, melted chocolate, something faintly of orange peel and butter. La Colmena sits on a triangular sliver of Plaça de l'Àngel, at the seam where the Gothic Quarter gives way to the wider streets of the Born, and it has been doing more or less the same thing since the 19th century — turning out dense, old-world Catalan and Spanish sweets from a counter that looks like it was carved out of the building itself.

@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Baphuon still stands out
 
 Baphuon is the temple most tour groups walk straight past. It's a three-tiered pyramid built in the mid-11th century under King Udayadityavarman II, dedicated to Shiva, and it predates the Bayon by over a century.

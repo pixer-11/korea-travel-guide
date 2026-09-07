@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-saigon-skydeck
-srcHash: 'db1559313e62'
+srcHash: '690f0020ccf9'
 title: 'Saigon Skydeck: Guía de viaje de Ciudad Ho Chi Minh (4,4★)'
 description: 'El Saigon Skydeck ocupa el piso 49 de la Torre Financiera Bitexco, en 36 Hồ Tùng Mậu, abierto todos los días de 9:30 a 21:30. 4,4★ (12.739 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Saigon Skydeck ocupa el piso 49 de la Torre Financiera Bitexco, en 36 Hồ Tùng Mậu, y abre todos los días de 9:30 a 21:30. Conviene ir un día de semana entre las 10:00 y las 15:00 para evitar las multitudes, o llegar justo a la apertura, cuando la luz es más limpia y los cristales están casi vacíos de gente. Calcule una hora, o más si se queda un rato en el nivel del Café Bar Chill Skybar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega a la Torre Financiera Bitexco?
     a: Está muy céntrica, en 36 Hồ Tùng Mậu, en el Distrito 1, a 5-10 minutos a pie de la Ópera de Saigón y de la calle peatonal Nguyễn Huệ, con parada de Grab y taxis justo en la entrada.
 ---
-
-> **Cómo se hizo esta guía:** Revisado por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Solo el trayecto en ascensor ya deja claro que este edificio va en serio. Se entra en una cabina de espejos en el vestíbulo de Bitexco y, con los oídos taponándose, se sube 49 pisos en menos de un minuto; al abrirse las puertas aparece una plataforma silenciosa y climatizada, envuelta en cristal.
 

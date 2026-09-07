@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-sha-tin-che-kung-temple
-srcHash: 'b1bc04f03f7f'
+srcHash: '46ef401d685a'
 title: 'Templo Che Kung de Sha Tin: guía de viaje (4,5★)'
 description: 'El templo Che Kung de Sha Tin es un templo chino activo en Sha Tin, Nuevos Territorios, al que se llega mejor mediante la estación de MTR Che Kung Temple, en la línea East Rail. 4,5★ (5.679 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El templo Che Kung de Sha Tin es un templo chino activo en Sha Tin, Nuevos Territorios, al que se llega mejor mediante la estación de MTR Che Kung Temple, en la línea East Rail. Abre todos los días de 8:00 a 18:00 y se llena más los fines de semana entre las 10:00 y las 17:00, así que conviene llegar justo a las 8:00 un sábado o domingo si se busca tranquilidad. Calcule entre 30 y 45 minutos de visita y combínela con un paseo por el cercano río Shing Mun.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más se puede hacer cerca?
     a: El paseo junto al río Shing Mun queda a unos 15 minutos a pie y es muy pintoresco, y el centro de Sha Tin con sus centros comerciales se combina fácilmente con la visita.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

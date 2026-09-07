@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the tower long before you reach it — a slim white-and-red lattice mast poking up over the plane trees of Yamashita Park, looking like something that wandered in from a 1960s postcard. That's not far off: Marine Tower went up in 1961 to mark the centennial of Yokohama's port opening, and for years it held the title of tallest lighthouse structure in the world.
 
 It's since been decommissioned as an active lighthouse, but the steel bones and the retro control-room aesthetic in the base are original, and that history is part of the charm — this isn't a slick modern skyscraper, it's a mid-century harbor landmark that's aged into a kind of civic mascot.

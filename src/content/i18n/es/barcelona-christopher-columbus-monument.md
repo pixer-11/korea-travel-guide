@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-christopher-columbus-monument
-srcHash: '1c2269eb67c2'
+srcHash: 'bd82dfc52309'
 title: 'Monumento a Cristóbal Colón: Guía de viaje de Barcelona (4,5★)'
 description: 'El Monumento a Colón se alza en el extremo marítimo de La Rambla, donde la calle más famosa de Barcelona se encuentra con el mar: una columna de hierro fundido y piedra de 60 metros erigida en 1888, con una estatua de Cristóbal Colón en la cima, con un brazo extendido hacia el agua. 4,5★ (53.299 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Monumento a Colón se alza en el extremo marítimo de La Rambla, donde la calle más famosa de Barcelona se encuentra con el mar: una columna de hierro fundido y piedra de 60 metros erigida en 1888, con una estatua de Cristóbal Colón en la cima, con un brazo extendido hacia el agua. Es gratis admirarlo desde la plaza, pero si quieres subir en el pequeño ascensor hasta la plataforma mirador, ve justo a las 8:30 de la mañana, cuando abre, ya que es una parada muy popular y el horario diario cierra a las 2:30 de la tarde. Reserva de 20 a 30 minutos, salvo que tengas que hacer cola para el ascensor, lo cual puede llevar más tiempo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El puerto de Port Vell y la pasarela de la Rambla de Mar hacia Maremagnum y el Acuario de Barcelona están a pocos pasos, y los barcos de las Golondrinas para paseos por el puerto salen del muelle contiguo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué está aquí
 

@@ -78,8 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Oh My Gulay is worth the climb
 
 You won't find this place by looking straight ahead. Oh My Gulay hides on the fifth floor of a nondescript commercial building on Session Road, and the only way up is a stairwell that feels more like an art installation than a fire exit.

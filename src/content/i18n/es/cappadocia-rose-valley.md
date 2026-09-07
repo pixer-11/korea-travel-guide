@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cappadocia-rose-valley
-srcHash: 'ca7154b6230c'
+srcHash: '0ec3667eecf0'
 title: 'Valle de las Rosas: Guía de Viaje de Capadocia (4,7★)'
 description: 'El Valle de las Rosas (Gül Vadisi) es un valle para senderismo justo al norte de Göreme, célebre por sus formaciones rocosas rosadas y blancas que se tiñen de un intenso rosa al atardecer. 4,7★ (2.017 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Valle de las Rosas (Gül Vadisi) es un valle para senderismo justo al norte de Göreme, célebre por sus formaciones rocosas rosadas y blancas que se tiñen de un intenso rosa al atardecer. Conviene reservar entre 2 y 3 horas para recorrer el sendero principal entre Göreme y Çavuşin, y es preferible ir a media tarde en lugar de al mediodía, cuando aprieta el calor. Se trata de un lugar muy conocido y transitado, así que conviene empezar temprano o llegar cerca de la puesta de sol para evitar las aglomeraciones de grupos turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hace falta contratar un guía?
     a: No es obligatorio, ya que los senderos se pueden recorrer por cuenta propia, pero un guía local puede ayudar a encontrar las iglesias con frescos que no están señalizadas y a evitar desvíos equivocados.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

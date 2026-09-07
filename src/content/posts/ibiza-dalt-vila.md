@@ -99,8 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Dalt Vila means "upper town" in Ibicenco, and that's exactly what it is: a fortified hill rising straight out of Ibiza Town's harbour, ringed by Renaissance walls that UNESCO listed as a World Heritage Site in 1999. You enter through the Portal de ses Taules, the main gate facing the sea, flanked by two worn Roman statues and a dry moat that once kept pirates out.
 
 Once inside, the streets narrow and steepen fast. Whitewashed houses lean over cobbled ramps, and every so often a gap in the buildings frames the harbour and Formentera on a clear day. There's no single "route" here; the fun is in getting slightly lost within walls that only span a few hundred metres.

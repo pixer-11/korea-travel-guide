@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ichan Kala is worth the journey
 
 Khiva sits far out in the Khorazm oasis, closer to the Turkmen border than to Uzbekistan's other Silk Road cities. That distance is exactly why Ichan Kala feels different.

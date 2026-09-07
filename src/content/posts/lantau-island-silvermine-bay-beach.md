@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Silvermine Bay is worth the ferry ride
 
 You step off the boat at Mui Wo and already the pace changes. Hong Kong Island's towers give way to low hills, a slow harbourfront, and the smell of salt and diesel from the ferry pier. Silvermine Bay Beach sits a short walk from that pier, backed by green mountains that fold down almost to the sand.

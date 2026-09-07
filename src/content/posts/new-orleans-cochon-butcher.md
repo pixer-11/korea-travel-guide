@@ -49,8 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Cochon Butcher
 
 You smell the smoked meat before you see the door. Cochon Butcher sits half-hidden down a narrow alley off Tchoupitoulas Street in the Warehouse District, part butcher shop, part sandwich counter, part bar.

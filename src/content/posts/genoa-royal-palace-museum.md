@@ -99,8 +99,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Palazzo Reale for the gold. Not literal bullion, but the gilded stucco, the mirrored halls, and the sheer theatrical confidence of a palace built to remind visitors exactly who was in charge.

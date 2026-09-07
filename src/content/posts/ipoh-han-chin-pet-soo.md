@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You almost walk past it. On Jalan Bijeh Timah — literally "Tin Ore Street" — in Ipoh's old town, Han Chin Pet Soo hides behind a plain, colonial-era shophouse facade with a modest signboard, giving no hint that behind the door is one of the most atmospheric small museums in Malaysia. There's no queue snaking out front, no ticket booth blaring signage. You knock, or arrive for your booked slot, and someone lets you in.
 
 ## Why go

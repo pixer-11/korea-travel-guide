@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pantai Losari isn't a swimming beach — it's Makassar's front porch. A long paved seafront on Jl. Somba Opu facing the Makassar Strait, it's where the whole city seems to exhale after the day's heat breaks.

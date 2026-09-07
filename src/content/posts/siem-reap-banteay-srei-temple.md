@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Banteay Srei stands apart
 
 Most Angkor temples are grey sandstone, weathered and mossy. Banteay Srei is pink.

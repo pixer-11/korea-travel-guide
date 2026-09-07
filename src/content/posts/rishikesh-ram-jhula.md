@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ram Jhula matters
 
 You feel the bridge before you see it — a low hum of footsteps and scooter horns rising over the Ganges. Ram Jhula is Rishikesh's second great suspension bridge, built decades after its older cousin Lakshman Jhula upstream, and it's now the busier of the two. It connects the Swarg Ashram side to Shivananda Nagar, and everyone crossing it is headed somewhere with a purpose — to an ashram, a chai stall, a yoga class, or the river itself.

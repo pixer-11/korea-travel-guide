@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: penang-chew-jetty
-srcHash: '3f67dc5ade1b'
+srcHash: '9871bcd6a23e'
 title: 'Chew Jetty: Guía de viaje de Penang'
 description: Chew Jetty es un asentamiento de casas sobre pilotes del siglo XIX, construido sobre el agua en Georgetown, Penang, y uno de los muelles de clanes (clan jetties) abiertos a los visitantes.
 quickAnswer: 'Chew Jetty es un asentamiento de casas sobre pilotes del siglo XIX construido sobre el agua en Georgetown, Penang, y uno de los muelles de clanes (clan jetties) abiertos a los visitantes: espera encontrar multitudes, así que procura ir temprano por la mañana (antes de las 9am) o después de las 5pm, cuando disminuyen los autobuses de excursiones de un día. Caminar por el lugar es gratis, toma entre 30 y 45 minutos, y se encuentra a solo 10 minutos a pie al sur del núcleo UNESCO de Georgetown.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: El arte callejero de Armenian Street y sus casas-tienda patrimoniales, Fort Cornwallis y el ferry de Weld Quay hacia Butterworth están todos a poca distancia a pie.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo hueles antes de verlo: sal, marea baja y creosota de los viejos pilotes de madera, mientras giras desde Pengkalan Weld hacia un callejón estrecho marcado por un cartel descolorido que dice "Chew Jetty". El terreno cambia bajo tus pies casi de inmediato: el pavimento firme da paso a tablones grises y desgastados que crujen y ceden ligeramente al caminar, y de repente ya no estás en tierra firme, sino suspendido sobre marismas y el agua verde del puerto, en un muelle bordeado de casas de madera.
 

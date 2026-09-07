@@ -98,8 +98,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Omicho Market is worth the detour
 
 Kanazawa built its wealth on the Sea of Japan's cold currents, and Omicho Market is where that wealth still lands every morning. Ice-packed crates of snow crab, glossy discs of botan shrimp, and fat scallops in their shells crowd the stalls. Vendors in rubber boots call out prices in a Kanazawa dialect that rolls faster than you'd expect. This has functioned as the city's kitchen for close to 300 years, and it still feels like one.

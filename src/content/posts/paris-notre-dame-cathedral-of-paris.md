@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from Rue de la Cité and there it is, filling the whole width of the square — twin towers, a rose window, that spiky crown of a spire rebuilt after the 2019 fire that nearly took the whole roof with it. Notre-Dame de Paris has stood on the Île de la Cité since the 1160s, and even from across the parvis you can pick out the details that made it a template for Gothic architecture across Europe: the flying buttresses fanning out from the choir like ribs, the rows of gargoyles that were less about decoration and more about drainage, and the sheer vertical pull of a facade designed to make thirteenth-century Parisians feel small.

@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't visit Medinah Temple for a guided tour — there isn't one. You visit for the double-take moment on the sidewalk, when a Moorish Revival fantasy of onion domes, horseshoe arches and glazed terracotta suddenly rises above a stretch of River North storefronts.

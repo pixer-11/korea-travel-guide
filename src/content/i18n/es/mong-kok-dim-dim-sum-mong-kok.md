@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mong-kok-dim-dim-sum-mong-kok
-srcHash: '4d2d834589aa'
+srcHash: 'a56e600a2270'
 title: 'Dim Dim Sum: dónde comer en Mong Kok (4,0★)'
 description: 'Dim Dim Sum, en Tung Choi Street, es un restaurante de precio medio abierto todo el día en pleno Mong Kok, con horario de 10:00 a 00:00 todos los días. 4,0★ (3.425 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Dim Dim Sum, en Tung Choi Street, es un restaurante de precio medio abierto todo el día en pleno Mong Kok, con horario de 10:00 a 00:00 todos los días. Conviene ir entre semana de 10:00 a 13:00 (o antes del mediodía los fines de semana) para evitar las aglomeraciones, ya que de 15:00 a 22:00 los fines de semana el local se llena. Se pueden encontrar clásicos como har gow, char siu bao y sus característicos bollos de cerdo al horno, que se piden marcando una lista.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es una buena opción para comer solo o solo para grupos?
     a: 'También funciona bien para quienes comen solos: los platos vienen en raciones pequeñas, así que se pueden pedir dos o tres sin excederse, aunque resulta más eficiente para compartir entre 2 o 3 personas.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Dim Dim Sum, y por qué aquí
 

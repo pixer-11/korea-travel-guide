@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and — if you're near the bar — the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary.
 
 This is not a sleepy breakfast spot. It's a working San Francisco institution that happens to open when most bars are still dark.

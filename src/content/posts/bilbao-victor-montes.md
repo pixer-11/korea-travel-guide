@@ -76,8 +76,6 @@ aiGenerated: true
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Víctor Montes matters
 
 Plaza Nueva—locals call it Plaza Berria—is the arcaded heart of Bilbao's old town, and Víctor Montes occupies one of its most photographed corners. The building itself used to be part of the old market, and the facade still carries ornate painted lettering and ironwork that make it look more like a 19th-century apothecary than a bar. Step through the door at pintxo hour and you understand why people keep coming back: the counter is a long glass case stacked three rows deep with skewered anchovies, folded slices of tortilla, croquettes glistening under the lights, and towers of jamón perched on bread. It's loud, bright, and unapologetically busy.

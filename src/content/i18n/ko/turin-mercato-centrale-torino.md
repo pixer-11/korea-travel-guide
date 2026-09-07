@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: turin-mercato-centrale-torino
-srcHash: 'ccc753711bc6'
+srcHash: '5518a9111a11'
 title: '메르카토 첸트랄레 토리노: 토리노에서 무엇을 먹을까'
 description: 메르카토 첸트랄레 토리노(Mercato Centrale Torino)는 피아자 델라 레푸블리카(Piazza della Repubblica)에 있는 유서 깊은 포르타 팔라초(Porta Palazzo) 시장 건물 안에 자리한 다양한 매대로 구성된 푸드홀로, 피에몬테 전통 요리와 피자, 베르무트를 맛보며 이곳저곳 돌아다니기 좋은 곳입니다.
 quickAnswer: 메르카토 첸트랄레 토리노(Mercato Centrale Torino)는 피아자 델라 레푸블리카(Piazza della Repubblica)에 있는 유서 깊은 포르타 팔라초(Porta Palazzo) 시장 건물 안에 자리한 다양한 매대로 구성된 푸드홀로, 피에몬테 전통 요리와 피자, 베르무트를 맛보며 이곳저곳 돌아다니기 좋은 곳입니다. 매일 오전 8시부터 자정까지 문을 열기 때문에, 금요일과 토요일 저녁의 혼잡을 피하려면 점심과 아페리티보 사이 평일 오후의 한산한 시간대를 노리는 것이 좋습니다.
@@ -17,8 +17,6 @@ faq:
   - q: 함께 둘러보기 좋은 주변 명소는 어디인가요?
     a: 건물을 둘러싼 야외 포르타 팔라초(Porta Palazzo) 매대는 정오 전이 가장 활기차며, 피아자 카스텔로(Piazza Castello)와 이집트 박물관(Egyptian Museum)은 남쪽으로 도보 약 10분 거리에 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검수, AI 보조 작성. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가볼 만한 이유
 

@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for contrast, not scale. Step off Causeway Bay's traffic-choked streets and through a small gate, and the noise drops away almost immediately.

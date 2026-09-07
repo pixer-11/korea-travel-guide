@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this promenade matters
 
 You come around the base of Monte Urgull and the whole bay opens up at once — a nearly two-kilometer curve of white balustrade, cream-colored belle-époque buildings, and sand that stretches from the Old Town all the way to Ondarreta. This is Paseo de La Concha, and it's the reason San Sebastián's shape gets compared to a shell (a "concha"): the bay is bitten into a near-perfect arc, with the small green hump of Isla de Santa Clara sitting in the middle like a stopper.

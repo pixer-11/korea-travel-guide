@@ -75,8 +75,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The location alone earns attention: a grill restaurant planted at the exact spot where La Rambla dead-ends into the harbor, under the shadow of the Columbus Monument. You've got Port Vell glinting on one side and the medieval tangle of the Gothic Quarter on the other.

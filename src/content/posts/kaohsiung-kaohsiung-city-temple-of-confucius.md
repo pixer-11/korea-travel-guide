@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the largest Confucius temple in Taiwan, and the scale shows the moment you pass through the outer wall. Wide stone courtyards open onto red-columned halls roofed in glazed yellow tile, styled after the great Confucian temple in Qufu, China. It's a place built for quiet contemplation rather than spectacle, and that's exactly its appeal.

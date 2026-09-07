@@ -62,8 +62,6 @@ aiGenerated: true
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Boracay's fame rests on four kilometers of White Beach, the powder sand and the sunset crowds at Station 2. "I Love Boracay" is a different kind of stop — a set of oversized wooden letters and a modest lookout point that hasn't been swallowed by the tourist machine the way the main beachfront has. You won't find tour buses idling outside or a queue snaking around the block.

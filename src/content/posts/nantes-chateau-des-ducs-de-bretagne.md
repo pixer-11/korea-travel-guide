@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You round a corner near the Loire and suddenly there's a moat, ramparts of pale limestone and dark schist, and a castle that looks like it wandered out of a storybook into the middle of a modern French city. This is the seat of the Dukes of Brittany, later home to Anne of Brittany and briefly to a young Louis XIV. It's not a ruin behind a fence — you can walk right into the courtyard for free, which is rare for a monument this significant.

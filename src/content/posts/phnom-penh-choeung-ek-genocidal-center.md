@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Choeung Ek sits about 15km southwest of central Phnom Penh, past rice paddies and roadside noodle stalls that feel worlds away from what happened here. This was one of more than 300 killing fields across Cambodia, used by the Khmer Rouge between 1975 and 1979. Today it's a memorial, not a museum in the traditional sense — and the quiet is the point.
 
 You'll notice it before you see anything: birdsong, the crunch of gravel, no traffic noise. The dirt paths wind between depressions in the ground, sunken pits where mass graves were exhumed in the 1980s. Small signs mark what was found at each one — some list the number of bodies, others simply note "mass grave."

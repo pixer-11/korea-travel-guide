@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kas-patara-ancient-city
-srcHash: 'ac3ce496417d'
+srcHash: '75d09b07d805'
 title: 'Ciudad Antigua de Patara: guía de viaje de Kas (4,6★)'
 description: 'Entre Kalkan y Kas, en la costa licia de Turquía, la Ciudad Antigua de Patara reúne un extenso campo de ruinas de época romana y una de las playas de arena más largas del país. 4,6★ (7.631 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Entre Kalkan y Kas, en la costa licia de Turquía, la Ciudad Antigua de Patara reúne un extenso campo de ruinas de época romana y una de las playas de arena más largas del país. Resérvale medio día: dos o tres horas para las ruinas y luego tiempo para nadar. Lo mejor es llegar a primera hora de la mañana, ya que el sitio abre a las 8:00 y se mantiene más tranquilo durante la mañana que en la franja de mayor afluencia de los fines de semana, entre las 12:00 y las 18:00.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene llevar?
     a: Agua, protección solar, calzado cerrado para los senderos irregulares y bañador si se piensa ir después a la playa. También es buena idea llevar algo de efectivo como respaldo para la entrada.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena desviarse hasta Patara
 

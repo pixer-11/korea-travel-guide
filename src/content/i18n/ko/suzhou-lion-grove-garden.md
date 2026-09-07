@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: suzhou-lion-grove-garden
-srcHash: '0f70ac8a99bd'
+srcHash: 'de62a31a70cf'
 title: '스지린(사자림): 쑤저우 여행 가이드'
 description: 구쑤구(Gusu District) 위안린루(Yuan Lin Lu) 23번지에 위치한 스지린(狮子林, Lion Grove Garden)은 쑤저우의 유네스코 등재 고전 정원 중 하나로, 웅크린 사자를 닮았다고 전해지는 회색 석회암 "가산(假山)" 미로로 유명하다.
 quickAnswer: 구쑤구(Gusu District) 위안린루(Yuan Lin Lu) 23번지에 위치한 스지린(狮子林, Lion Grove Garden)은 쑤저우의 유네스코 등재 고전 정원 중 하나로, 웅크린 사자를 닮았다고 전해지는 회색 석회암 "가산(假山)" 미로로 유명하다. 60~90분 정도를 계획하고, 개장 직후나 늦은 오후에 방문하면 돌 미로를 거의 혼자 즐길 수 있으며, 도보로 몇 분 거리에 있는 졸정원(Humble Administrator's Garden)이나 쑤저우 박물관(Suzhou Museum)과 함께 둘러보기 좋다.
@@ -17,8 +17,6 @@ faq:
   - q: What else is nearby?
     a: 졸정원(Humble Administrator's Garden)과 이오 밍 페이(I.M. Pei)가 설계한 쑤저우 박물관(Suzhou Museum)이 모두 도보 몇 분 거리에 있어, 세 곳을 한 번의 나들이로 묶어 둘러보기 쉽다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검토 및 AI 지원으로 제작되었습니다. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가야 하는 이유
 

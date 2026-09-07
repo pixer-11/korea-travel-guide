@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Genting Highlands is Malaysia's answer to a mountain casino resort, sitting at roughly 1,800 meters where the air runs cool and cloud drifts across the ridgeline. Resorts World Genting anchors the whole hilltop: hotels, a casino, an indoor theme park, an outdoor theme park, and a tangle of malls all stacked on top of a mountain. It's less a single attraction than a self-contained vertical town, and it draws crowds from across Southeast Asia for exactly that reason.

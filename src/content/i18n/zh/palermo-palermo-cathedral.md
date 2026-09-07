@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: palermo-palermo-cathedral
-srcHash: '79618b8074f4'
+srcHash: '5168a46978e5'
 title: 巴勒莫大教堂旅行指南（4.7★）
 description: 巴勒莫大教堂（Palermo Cathedral）位于老城区中心的维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）上，每天上午7点至晚上7点开放。4.7★（50,906条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 巴勒莫大教堂位于老城区中心的维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）上，每天上午7点至晚上7点开放。最好一开门就去——工作日7-9点或周末7-10点人最少——因为上午11点到下午5点之间人流会迅速增多，周末尤其明显。中殿免费进入；王室陵墓、珍宝馆、地下墓室和屋顶露台则需分别购买小额门票。
@@ -17,8 +17,6 @@ faq:
   - q: 怎么去那里？
     a: 大教堂位于巴勒莫历史中心的维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）上，从巴勒莫中央车站（Palermo Centrale）或四角广场（Quattro Canti）步行约10-15分钟即可到达，附近也有多条市内公交线路经过。
 ---
-
-> **本指南制作方式：** 由编辑审核、AI辅助完成。相关信息来自Google Places实时数据；图片均已获得授权或为公共领域内容。详见我们的[编辑政策](/about)。
 
 ## 为什么要去
 

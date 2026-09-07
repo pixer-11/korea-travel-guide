@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-the-channel-gardens
-srcHash: 'e02e975c49de'
+srcHash: '3eb591a79de8'
 title: 'Channel Gardens: Guía de viaje de Nueva York (4.7★)'
 description: 'Los Channel Gardens son el estrecho paseo de seis estanques que separa los edificios británico y francés del Rockefeller Center, y que conecta la Quinta Avenida con la plaza hundida y la pista de patinaje. 4.7★ (739 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Channel Gardens son el estrecho paseo de seis estanques que separa los edificios británico y francés del Rockefeller Center, y que conecta la Quinta Avenida con la plaza hundida y la pista de patinaje. Se puede recorrer las 24 horas y de forma gratuita en cualquier momento; el tramo más tranquilo los fines de semana va de 7:00 a 23:00, mientras que conviene evitar la franja de 17:00 a 18:00 si se quieren disfrutar los parterres sin gente alrededor. Basta con reservar entre 10 y 15 minutos para el paseo, más si uno se detiene a contemplar las plantaciones de temporada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita?
     a: Los jardines desembocan directamente en la plaza hundida de Rockefeller Plaza y en la estatua de Prometeo, mientras que el Radio City Music Hall y la Catedral de San Patricio quedan a solo unos minutos a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

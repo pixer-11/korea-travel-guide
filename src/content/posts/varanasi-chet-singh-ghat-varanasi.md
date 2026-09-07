@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before you reach it, Chet Singh Ghat announces itself: a squat, fortress-like mass of ochre and rose-washed stone rising straight out of the Ganges, its corner turrets rounded like bastions rather than the flat-faced havelis around it. This is the one stretch of the Varanasi waterfront that looks less like a temple town and more like a citadel under siege from the river itself.

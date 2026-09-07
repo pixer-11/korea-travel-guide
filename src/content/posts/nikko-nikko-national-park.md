@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The moment the road switches back up the Irohazaka slope, ears popping, you understand why this park is a different trip from the temple town below. Cedar gives way to birch, the air cools, and Lake Chuzenji appears through the trees like a sheet of hammered pewter.
 
 ## Why Nikko National Park is worth the climb

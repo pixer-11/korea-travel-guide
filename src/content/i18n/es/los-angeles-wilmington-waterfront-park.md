@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-wilmington-waterfront-park
-srcHash: '95616f912bc2'
+srcHash: '34602ca3769f'
 title: 'Wilmington Waterfront Park: Guía de viaje de Los Ángeles (4.4★)'
 description: Wilmington Waterfront Park es un espacio verde de 30 acres a lo largo del muelle de Wilmington, abierto todos los días de 5am a 11pm, ideal para visitar temprano por la mañana o al final de la tarde, cuando la luz suaviza el horizonte industrial y los parques infantiles están más tranquilos. 4.4★ (1,573 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Wilmington Waterfront Park es un espacio verde de 30 acres a lo largo del muelle de Wilmington, abierto todos los días de 5am a 11pm, ideal para visitar temprano por la mañana o al final de la tarde, cuando la luz suaviza el horizonte industrial y los parques infantiles están más tranquilos. Es una parada sencilla si estás cerca del Puerto de Los Ángeles (Port of Los Angeles) — reserva entre 45 minutos y una hora para recorrerlo de punta a punta y cruzar su emblemático puente.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego sin auto?
     a: Las líneas de autobús locales de Metro dan servicio a Wilmington, pero dado el entorno industrial y disperso, conducir o usar un servicio de transporte privado resulta más práctico para la mayoría de los visitantes.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

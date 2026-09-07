@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-the-grill-barcelona
-srcHash: '6e3129385211'
+srcHash: '1355145dfc27'
 title: 'The Grill: dónde comer en Barcelona (4,8★)'
 description: 'The Grill Barcelona se encuentra justo a los pies del Monumento a Colón, en la Plaça Portal de la Pau, donde La Rambla desemboca en el puerto: un asador mediterráneo de gama media con una valoración de 4,8 basada en más de 3.000 reseñas.'
 quickAnswer: 'The Grill Barcelona se encuentra justo a los pies del Monumento a Colón, en la Plaça Portal de la Pau, donde La Rambla desemboca en el puerto: un asador mediterráneo de gama media con una valoración de 4,8 basada en más de 3.000 reseñas. Conviene ir nada más abrir, a las 10:00, o dejar la cena para después de las 20:00, así se evita la avalancha de fin de semana entre las 13:00 y las 20:00. Para una comida a la parrilla como es debido, hay que reservar entre una hora y hora y media.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con la visita?
     a: El Monumento a Colón, el inicio de La Rambla, el puerto deportivo de Port Vell y el Museu Marítim quedan todos a pocos minutos a pie.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

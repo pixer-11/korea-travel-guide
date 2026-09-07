@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the sea before you see the bridge. Walk east from Gyeongpo Beach along the Gangmun stream and the wooden poles come into view first — a row of sotdae, traditional totem posts topped with carved birds, standing guard over the water like sentinels.
 
 This is Gangmun Sotdae Bridge, a modest pedestrian crossing that punches above its size. It's not a landmark you'll find crowded onto every Gangneung itinerary, and that's part of its appeal.

@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot Yilan Museum of Art before you know its name — a low, dark-timbered building with a pitched roof that looks more like a preserved train station than a gallery. That's because it was one, in a sense: the structure began life as a Japanese-era rice storage and administrative building tied to Yilan's old government precinct, and the museum has kept its wooden beams, sliding-door proportions, and quiet dignity intact.
 
 Walk through Nanmen Village and the museum announces itself by contrast. Around it are noodle shops, scooters parked three-deep, and the ordinary hum of Yilan City. Then you step onto the museum's gravel and grass forecourt and the noise drops away.

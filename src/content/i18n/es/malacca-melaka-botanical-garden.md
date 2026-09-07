@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malacca-melaka-botanical-garden
-srcHash: '5a249ceb7dce'
+srcHash: 'a07c7408d73e'
 title: 'Jardín Botánico de Melaka: Guía de Viaje de Malaca (4.4★)'
 description: 'El Jardín Botánico de Melaka, en Ayer Keroh, es un extenso espacio verde para correr, andar en bicicleta, hacer picnic y observar macacos de cola larga, abierto las 24 horas. 4.4★ (2,535 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Melaka, en Ayer Keroh, es un extenso espacio verde para correr, andar en bicicleta, hacer picnic y observar macacos de cola larga, abierto las 24 horas todos los días. Conviene ir temprano por la mañana para disfrutar del aire fresco y el canto de los pájaros, o después de las 9 de la noche, cualquier día, si se busca encontrar los senderos casi vacíos. Los fines de semana, entre las 7 a. m. y las 7 p. m., el parque recibe la mayor afluencia de visitantes, así que conviene planificar en torno a ese horario si se prefiere tranquilidad.
@@ -17,8 +17,6 @@ faq:
   - q: ¿El parque abre por la noche?
     a: Sí, permanece abierto las 24 horas todos los días, aunque la iluminación es limitada en algunos tramos una vez que oscurece, por lo que las visitas diurnas resultan más cómodas para quienes lo visitan por primera vez.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Nada más pasar la entrada, lo primero que llama la atención es el dosel de árboles. Lluvias de árbol (rain trees) y maderas duras tropicales se arquean sobre la vía principal que atraviesa el parque, bajando la temperatura unos cuantos grados y dejando que la luz se filtre en manchas cambiantes sobre el asfalto.
 

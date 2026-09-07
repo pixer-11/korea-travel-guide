@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tiong-bahru-hidden-singapore
-srcHash: '46f836178e99'
+srcHash: 'd39d1122e01b'
 title: 新加坡隐藏秘境 HIDDEN Singapore：直落布兰雅（Tiong Bahru）旅游指南（4.9★）
 description: HIDDEN Singapore 位于 1092 Lower Delta Rd，需搭乘出租车或巴士短程前往,并不在直落布兰雅（Tiong Bahru）常见的店屋聚落之内——出发前请先核实地址,很容易误以为它就在 Yong Siak Street 上。4.9★（140 条评价）——访客怎么说、营业时间与实用贴士。
 quickAnswer: HIDDEN Singapore 位于 1092 Lower Delta Rd，需搭乘出租车或巴士短程前往,并不在直落布兰雅（Tiong Bahru）常见的店屋聚落之内——出发前请先核实地址,很容易误以为它就在 Yong Siak Street 上。这里每天 9am 至 5pm 营业，4.9 的评分背后只有 140 条评价，称得上是真正低调的小众去处。建议安排一小时,选在平日上午前往，之后再顺道逛逛直落布兰雅的装饰艺术风格（Art Deco）街区。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点可以一起游览？
     a: 可以搭配直落布兰雅市场（Tiong Bahru Market）品尝小贩美食,再沿 Yong Siak Street 漫步,穿过本区的装饰艺术（Art Deco）街区,这些地方都只需短程车程即可到达。
 ---
-
-> **本指南制作方式：** 由编辑审核、AI 辅助完成。信息取自 Google Places 实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么 HIDDEN Singapore 值得专程一趟
 

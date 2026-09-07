@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's worth the stop
 
 You spot it before you even mean to. Driving south toward Kenting's beaches, the road suddenly splits around a stone-and-brick arch sitting squarely in a traffic circle, cars and scooters flowing past it on both sides.

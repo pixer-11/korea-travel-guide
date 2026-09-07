@@ -51,8 +51,6 @@ faq:
     a: Da'an Forest Park and Yongkang Street's food stalls and dessert shops are both within easy walking distance, making this a good anchor for a slower-paced Da'an District morning.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You almost walk past it. The entrance is a narrow stairwell squeezed between shopfronts on Lishui Street, marked by little more than a small sign and a cluster of potted plants leaning toward the light. Climb to the second floor and the room opens up — exposed concrete, timber shelving, mismatched vintage chairs, and enough greenery trailing from the windowsills that the street noise outside seems to fade a notch.

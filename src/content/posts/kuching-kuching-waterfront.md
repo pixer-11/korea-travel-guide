@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is Kuching's front porch, the place the whole city turns to face the river. A paved boardwalk runs about a kilometre along the Sarawak River, from the Hilton end near the old Square Tower to the Riverside area near the Grand Margherita. On one bank sits the old colonial town; across the water, the Astana and Fort Margherita catch the last sun of the day.

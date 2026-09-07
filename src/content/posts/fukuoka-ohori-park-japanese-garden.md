@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You step through a plain wooden gate off the main park path, and the traffic noise from Ohori Park's outer loop just falls away. Inside, gravel paths curve around a series of ponds, clipped pines lean at practiced angles, and a stone lantern marks the turn toward the teahouse. It's a pocket garden, only about 1.2 acres, but it's laid out so you can't see the whole thing at once — every bend hides the next view.
 
 ## Why this garden, and why now

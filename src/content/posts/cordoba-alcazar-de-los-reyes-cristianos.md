@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is not just another old fort. The Alcázar de los Reyes Cristianos was built in the 1300s on Roman and Moorish foundations, and it wears every layer of that history at once — Mudéjar brickwork, Gothic towers, Roman stonework underfoot.

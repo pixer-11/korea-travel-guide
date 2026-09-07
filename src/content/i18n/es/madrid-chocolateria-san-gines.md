@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-chocolateria-san-gines
-srcHash: '203cc9de75ab'
+srcHash: 'e61055dba38a'
 title: 'Chocolatería San Ginés: dónde comer en Madrid (4,3★)'
 description: 'La Chocolatería San Ginés, escondida en un estrecho pasadizo junto a la Calle Mayor cerca de la Puerta del Sol, sirve chocolate caliente espeso y churros recién hechos las 24 horas del día, todos los días. 4,3★ (72.330 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Chocolatería San Ginés, escondida en un estrecho pasadizo junto a la Calle Mayor cerca de la Puerta del Sol, sirve chocolate caliente espeso y churros recién hechos las 24 horas del día, todos los días. Es una de las paradas gastronómicas más visitadas del centro de Madrid, así que conviene ir a media mañana entre semana o bien pasada la medianoche (su clásico papel de parada post-fiesta) para evitar las peores aglomeraciones. Cuenta con pasar entre 20 y 30 minutos disfrutando de un plato de churros y una taza de chocolate tan espeso que casi se sostiene la cuchara de pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero convertirlo en parte de un paseo más largo?
     a: La Plaza Mayor, la Puerta del Sol y la zona del Teatro Real/Ópera están todas a entre 5 y 10 minutos a pie, lo que hace que este sea un complemento fácil para una ruta turística por el Centro.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo hueles antes de verlo: aceite caliente y azúcar tostado que se escapa de un estrecho pasadizo con techo de cristal por el que la mayoría de la gente pasaría de largo. El Pasadizo de San Ginés apenas tiene el ancho suficiente para que pasen dos personas, encajado entre la Calle Mayor y la Calle del Arenal, y al final del mismo se encuentra una chocolatería que fríe churros desde 1894.
 

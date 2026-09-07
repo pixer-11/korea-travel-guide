@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sapporo-sapporo-beer-museum
-srcHash: '58c303bca30a'
+srcHash: '4d7fed83552b'
 title: 'Museo de la Cerveza Sapporo: Guía de viaje (4.3★)'
 description: 'El Museo de la Cerveza Sapporo, en el distrito de Higashi Ward, en Sapporo, es el único museo de la cerveza de Japón y ocupa una antigua fábrica de ladrillo rojo cerca del Parque Sapporo Garden. 4.3★ (18.372 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo de la Cerveza Sapporo, en el distrito de Higashi Ward, en Sapporo, es el único museo de la cerveza de Japón y ocupa una antigua fábrica de ladrillo rojo cerca del Parque Sapporo Garden. La entrada a las salas de exposición es gratuita, todos los días de 11:00 a 17:30, aunque las catas y las visitas guiadas tienen un costo aparte. Es muy popular entre los grupos turísticos, así que conviene llegar justo a la apertura o a última hora de la tarde para evitar las aglomeraciones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué cerveza conviene probar en la cata?
     a: Pida la Sapporo Classic, una cerveza más maltosa que se elabora únicamente en Hokkaido y que rara vez se encuentra en otras partes de Japón, además de cualquier edición limitada de temporada que figure en el menú.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Aquí es donde realmente nació la cerveza japonesa, y el edificio no disimula su antigüedad. El Museo de la Cerveza Sapporo ocupa una antigua fábrica —primero de azúcar y luego de cerveza— que data de 1890, toda de ladrillo rojo oscuro y armazones de hierro, en el extremo noreste del centro de Sapporo, en el distrito de Higashi Ward.
 

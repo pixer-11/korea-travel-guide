@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Homigot exists on every Pohang itinerary
 
 Korea has a lot of sunrise spots, but Homigot has the geography to back up the hype: it's the easternmost point on the Korean mainland, the place where the sun is said to strike land first each morning. Locals and the tourism board have leaned into that fact hard, building an entire plaza around the moment of daybreak. The result is the "Sangsaengui Son" — the Hand of Harmony — a pair of matching bronze hands, one planted in the shallow sea about 100 meters offshore, the other set into the stone plaza on land.

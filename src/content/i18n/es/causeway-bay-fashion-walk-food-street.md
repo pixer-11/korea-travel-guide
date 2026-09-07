@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: causeway-bay-fashion-walk-food-street
-srcHash: '773fd6133a63'
+srcHash: 'dd15a5caa1c3'
 title: 'Fashion Walk Food Street: dónde comer en Causeway Bay'
 description: Fashion Walk Food Street es un conjunto de restaurantes al aire libre integrado en la franja comercial de Fashion Walk, en Causeway Bay, abierto todos los días de 11:30 a 22:30.
 quickAnswer: 'Fashion Walk Food Street es un conjunto de restaurantes al aire libre integrado en la franja comercial de Fashion Walk, en Causeway Bay, abierto todos los días de 11:30 a 22:30. Es de precio medio, ambiente relajado y menos concurrido que los centros comerciales cercanos: entre semana, de 16:00 a 22:00, es el momento más tranquilo. Si quieres mesa sin esperar, evita la avalancha del fin de semana entre la 1 y las 9 de la tarde.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita?
     a: El Victoria Park y el centro comercial Times Square quedan a poca distancia caminando, así que es fácil sumar esta parada a un día de compras en Causeway Bay.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Primero llega el olor, después la vista. Brochetas a la parrilla, ajo frito, el aroma dulce que desprende un puesto de bubble waffles: así se anuncia Fashion Walk Food Street desde un callejón lateral del distrito Fashion Walk, en Causeway Bay, un tramo de restaurantes de fachada abierta y mostradores de comida rápida encajados entre boutiques de ropa.
 

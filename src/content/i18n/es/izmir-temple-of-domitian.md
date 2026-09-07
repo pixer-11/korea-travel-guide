@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: izmir-temple-of-domitian
-srcHash: '1ad9cfca4e84'
+srcHash: '9fe2eceb0f6d'
 title: 'Templo de Domiciano: Guía de viaje de Selçuk'
 description: El Templo de Domiciano se alza en lo alto de la calle Curetes, en la antigua ciudad de Éfeso, cerca de Selçuk, en la región de Esmirna (Izmir).
 quickAnswer: El Templo de Domiciano se alza en lo alto de la calle Curetes, en la antigua ciudad de Éfeso, cerca de Selçuk, en la región de Esmirna (Izmir). Se trata de una ruina pequeña y fácil de pasar por alto —unas cuantas cámaras abovedadas de la subestructura, un podio y la cabeza y el brazo de una estatua colosal que hoy se exhiben cerca de allí—, por lo que conviene visitarla como parte del recorrido principal por Éfeso en lugar de por separado. Conviene ir temprano, antes de que los autobuses turísticos procedentes de Kuşadası llenen la calle Curetes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que merezca la pena combinar con esta visita?
     a: El Templo de Adriano, las Casas en Terraza (con entrada aparte) y el Museo de Éfeso en Selçuk, que exhibe objetos hallados en el propio emplazamiento del templo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué merece la pena el desvío
 

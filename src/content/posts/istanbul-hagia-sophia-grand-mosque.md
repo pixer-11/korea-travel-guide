@@ -106,8 +106,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Domes stacked on domes, a nave that swallows sound, and shafts of light falling through high windows onto marble worn smooth by fifteen centuries of feet. That's the first impression inside Hagia Sophia, and it doesn't fade with repetition.
 
 ## What you're actually looking at

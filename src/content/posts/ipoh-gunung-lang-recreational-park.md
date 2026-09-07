@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend on Jalan Damai and the road just opens up — a flat sheet of green-grey water backed by a wall of limestone hills, the kind of jagged, cave-riddled karst that makes Ipoh's skyline so different from anywhere else in Malaysia. Gunung Lang Recreational Park is built around a former quarry lake, and that industrial past is still legible if you look for it: the cliffs behind the water are too sheer, too sculpted, to be entirely natural.

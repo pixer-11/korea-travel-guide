@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-grand-central-market
-srcHash: 'cb2339fb000b'
+srcHash: 'bc2ed74a3291'
 title: 'Grand Central Market: Guía de viaje de Los Ángeles (4.5★)'
 description: Grand Central Market es un mercado gastronómico de 1917 en Broadway, en el centro de Los Ángeles (Downtown LA), repleto de decenas de puestos que van desde tacos hasta ramen y ostras frescas. 4.5★ (36,796 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Grand Central Market es un mercado gastronómico de 1917 en Broadway, en el centro de Los Ángeles (Downtown LA), repleto de decenas de puestos que van desde tacos hasta ramen y ostras frescas. Abre todos los días de 8am a 9pm, y aunque los fines de semana se llena de 11am a 7pm, una visita temprano por la mañana o a última hora de la tarde te permite sentarte sin problema. A pesar del nombre, hoy en día es un lugar muy popular —no un hallazgo escondido—, así que elegir bien el momento importa más que encontrarlo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena por el precio?
     a: Sí — en general es un mercado gastronómico accesible, con la mayoría de los platos a precios de comida callejera informal y no de restaurante.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

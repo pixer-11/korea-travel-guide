@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-ohori-park-japanese-garden
-srcHash: '56ecec5565b0'
+srcHash: 'c4cefd484119'
 title: 'Jardín Japonés de Ohori Park: Guía de viaje de Fukuoka (4,5★)'
 description: 'El Jardín Japonés de Ohori Park es un pequeño jardín amurallado de 0,5 hectáreas ubicado dentro del extenso Ohori Park de Fukuoka, en el distrito de Chuo, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). 4,5★ (1.278 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Japonés de Ohori Park es un pequeño jardín amurallado de 0,5 hectáreas ubicado dentro del extenso Ohori Park de Fukuoka, en el distrito de Chuo, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). Los fines de semana se llena entre las 10:00 y las 17:00, así que si visitas temprano por la mañana o a última hora de la tarde disfrutarás de un paseo mucho más tranquilo por los estanques y la casa de té. La entrada es económica y conviene reservar entre 30 y 45 minutos para el recorrido, más si te detienes a tomar matcha en la casa de té.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con esta visita?
     a: A poca distancia a pie se encuentran el circuito del lago principal de Ohori Park, las ruinas del Castillo de Fukuoka y el Museo de Arte de Fukuoka.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Al cruzar una sencilla puerta de madera que se abre desde el camino principal del parque, el ruido del tráfico del circuito exterior de Ohori Park simplemente desaparece. Dentro, senderos de grava serpentean entre una serie de estanques, pinos podados se inclinan en ángulos cuidadosamente estudiados y una linterna de piedra señala el giro hacia la casa de té. Se trata de un jardín de bolsillo, de apenas 0,5 hectáreas, pero está diseñado de tal forma que resulta imposible verlo entero de un vistazo: cada recodo esconde la siguiente vista.
 

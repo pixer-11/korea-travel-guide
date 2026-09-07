@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before Shanghai had a skyline, it had this garden. Yu Garden was laid out in 1577 by a Ming dynasty official named Pan Yunduan as a private retreat for his father, and what survives today — restored after damage over the centuries, including during the Opium War and Cultural Revolution — is still recognizably a scholar's garden: compressed, layered, designed so that no view repeats.

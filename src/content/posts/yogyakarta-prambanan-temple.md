@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Prambanan pulls you in
 
 You see the spires before you see the gate. Rising in a jagged grey silhouette above the palm trees of Sleman, the tallest tower rises far above the rest, and it's stacked with hundreds more that follow the same steep, tapering shape.

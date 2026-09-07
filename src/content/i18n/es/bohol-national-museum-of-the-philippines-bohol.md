@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bohol-national-museum-of-the-philippines-bohol
-srcHash: 'b607e2dc21b3'
+srcHash: 'ab99ce48ba5a'
 title: 'Museo Nacional de Filipinas: guía de viaje de Bohol'
 description: 'El Museo Nacional de Filipinas – Bohol ocupa el antiguo edificio del Capitolio en Poblacion, ciudad de Tagbilaran, abierto todos los días de 9:00 a 18:00. 4.6★ (409 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Filipinas – Bohol ocupa el antiguo edificio del Capitolio en Poblacion, ciudad de Tagbilaran, y abre todos los días de 9:00 a 18:00. Es una parada compacta y bien curada que recorre la arqueología, la etnografía y el arte de Bohol; calcule una hora aproximadamente. Los fines de semana son más tranquilos entre las 9:00 y las 17:00, así que si puede, evite la avalancha de 15:00 a 17:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con otros atractivos?
     a: Se encuentra en el centro de Tagbilaran, cerca de la Plaza Rizal, el Monumento a Dagohoy y el muelle de la ciudad, por lo que funciona bien como parada matutina antes de dirigirse al interior hacia las Chocolate Hills o el río Loboc.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Antes de ver el cartel, ya se ha visto el edificio: un capitolio bajo de la época colonial, con columnas gruesas y una amplia escalinata, del tipo que antes gobernaba una provincia y que ahora, en cambio, guarda en silencio su historia. Se trata del Museo Nacional de Filipinas – Bohol, situado dentro del Old Capitol Complex, en la avenida Carlos P. Garcia, en el distrito de Poblacion de la ciudad de Tagbilaran.
 

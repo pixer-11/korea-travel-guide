@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a corner from the newer part of Segovia and it just appears — 167 arches, stacked two tiers high, cutting straight through the middle of the city. No mortar holds it together. Just cut granite blocks, fitted so precisely by Roman engineers roughly two thousand years ago that the thing still stands, still (until modern times) carried water.

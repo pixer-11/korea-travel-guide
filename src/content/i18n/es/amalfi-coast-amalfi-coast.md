@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-amalfi-coast
-srcHash: '3b2f8f17e5a4'
+srcHash: '37b2dae7d69c'
 title: 'Costa Amalfitana: Guía de viaje'
 description: La Costa Amalfitana es una cinta de 50 kilómetros de carretera costera (la SS163) que conecta localidades como Positano, Amalfi y Ravello a lo largo de la península Sorrentina, al sur de Nápoles.
 quickAnswer: 'La Costa Amalfitana es una cinta de 50 kilómetros de carretera costera (la SS163) que conecta localidades como Positano, Amalfi y Ravello a lo largo de la península Sorrentina, al sur de Nápoles. Lo mejor es alojarse en una sola localidad y usar los ferris y el autobús SITA para las excursiones de un día en lugar de conducir tú mismo: el tráfico en la carretera costera se colapsa por completo a media mañana en verano. Ve en mayo, junio o a finales de septiembre para disfrutar del paisaje sin el atasco de julio y agosto.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es fácil hacer una excursión de un día desde Nápoles o Roma?
     a: 'Desde Nápoles, sí: tren a Sorrento y luego ferri o autobús, factible en un día largo. Desde Roma es más complicado; dado el tiempo de viaje hasta Nápoles/Salerno más los traslados posteriores, lo más realista es pasar al menos una noche.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

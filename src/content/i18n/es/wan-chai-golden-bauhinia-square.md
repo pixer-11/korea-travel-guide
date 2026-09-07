@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wan-chai-golden-bauhinia-square
-srcHash: 'bec97aa0157a'
+srcHash: '2915db200442'
 title: 'Golden Bauhinia Square: guía de viaje de Wan Chai (4,1★)'
 description: 'Golden Bauhinia Square se encuentra en el paseo marítimo de Wan Chai, junto al Centro de Convenciones y Exposiciones de Hong Kong, abierto las 24 horas, y merece entre 20 y 30 minutos por sus vistas del puerto y la estatua dorada que conmemora el traspaso de soberanía de 1997. 4,1★ (1.568 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Golden Bauhinia Square se encuentra en el paseo marítimo de Wan Chai, junto al Centro de Convenciones y Exposiciones de Hong Kong, abierto las 24 horas, y merece entre 20 y 30 minutos por sus vistas del puerto y la estatua dorada que conmemora el traspaso de soberanía de 1997. Conviene ir temprano: los fines de semana el momento más tranquilo va de las 7:00 a las 8:00, antes de que la afluencia aumente de forma constante entre las 11:00 y las 22:00. Si quiere presenciar el ritual completo, programe la visita para la ceremonia de izado de bandera a las 8:00.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Con qué se puede combinar la visita en los alrededores?
     a: El paseo marítimo de Wan Chai, el Centro de Convenciones y Exposiciones de Hong Kong justo al lado, o un trayecto en Star Ferry hasta Central.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

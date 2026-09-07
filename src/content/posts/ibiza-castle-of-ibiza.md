@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Dalt Vila's summit is worth the climb
 
 You feel the change in the air before you see anything. The moment you pass through one of the old gates into Dalt Vila, the modern port town falls away and the streets narrow into cobbled ramps that switch back on themselves, lined with whitewashed houses, iron balconies, and the occasional orange tree spilling over a wall. The Castle of Ibiza crowns all of it — not a single fairy-tale tower, but a whole fortified hilltop complex of bastions, curtain walls, and a cathedral, built up over centuries by the Catalans, the Aragonese, and later Renaissance military engineers who reinforced the whole thing against pirate raids.

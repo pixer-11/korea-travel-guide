@@ -55,8 +55,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one view: a river vanishing off a cliff, straight into the sea. Lower Duden Waterfalls (Alçak Düden Şelalesi) is that rare waterfall you look down on rather than up at, with the Mediterranean stretching out beyond the spray.

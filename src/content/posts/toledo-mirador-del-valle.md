@@ -42,8 +42,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Toledo folds itself into a bend of the Tagus River, and Mirador del Valle is the one spot that shows you the whole picture at once. From the railing you see the cathedral tower, the Alcázar, the huddled rooftops, and the river looping below like a moat. It's the postcard shot of Toledo, and it's real.

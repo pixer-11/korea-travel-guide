@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-merdeka-square
-srcHash: '346a436c0c48'
+srcHash: '5495e05d8b3e'
 title: 'Merdeka Square: guía de viaje de Kuala Lumpur'
 description: La Plaza Merdeka es la amplia explanada verde, del tamaño de un campo de críquet, que se encuentra en el corazón colonial de Kuala Lumpur, presidida por un mástil de 95 metros que señala el lugar donde bajó la bandera británica y ondeó por primera vez la de Malaya en 1957.
 quickAnswer: En el corazón colonial de Kuala Lumpur se extiende la Plaza Merdeka, una amplia explanada verde del tamaño de un campo de críquet, presidida por un mástil de 95 metros que marca el lugar exacto donde bajó la bandera británica y ondeó por primera vez la de Malaya en 1957. Se puede recorrer libremente las 24 horas del día y la entrada es gratuita. Conviene ir entre las 7 y las 9 de la mañana para disfrutar casi en soledad del césped y del telón de fondo del Royal Selangor Club, de estilo Tudor, ya que por la tarde y noche —sobre todo entre las 16:00 y las 23:00 los fines de semana— se llena de gente. Se puede combinar la visita con el Edificio Sultan Abdul Samad y la Mezquita Jamek (Masjid Jamek), ambos a poca distancia caminando.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay para visitar cerca, caminando?
     a: El Edificio Sultan Abdul Samad y el Royal Selangor Club bordean la plaza directamente; la Mezquita Jamek y la confluencia de los ríos Klang y Gombak quedan a pocos minutos al norte, y las calles con antiguas casas-tienda y puestos de comida se encuentran justo al este.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

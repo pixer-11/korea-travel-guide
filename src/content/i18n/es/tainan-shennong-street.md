@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tainan-shennong-street
-srcHash: 'fa5e4bce39e0'
+srcHash: 'f0793cc43bf0'
 title: 'Calle Shennong: guía de viaje de Tainán'
 description: La calle Shennong es un tramo de 200 metros de casas-tienda de la dinastía Qing en el distrito Oeste-Central de Tainán, que se recorre fácilmente en 45–90 minutos.
 quickAnswer: 'La calle Shennong es un tramo de 200 metros de casas-tienda de la dinastía Qing en el distrito Oeste-Central de Tainán, que se recorre fácilmente en 45–90 minutos. No se trata de un hallazgo secreto, sino de un lugar genuinamente popular: las reseñas la valoran de forma constante con nota alta, así que conviene ir por la mañana entre semana, ya que los fines de semana se mantiene concurrida desde aproximadamente las 9:00 hasta las 23:00. Vale la pena venir por la arquitectura, los dinteles de madera y las tardes iluminadas con faroles, más que esperar encontrar un callejón vacío.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Gran Templo de Matsu, el Templo de Confucio, los grandes almacenes Hayashi y la calle Zhengxing están todos a poca distancia a pie y combinan bien con una visita a la calle Shennong.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

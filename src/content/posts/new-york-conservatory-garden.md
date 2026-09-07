@@ -59,8 +59,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most people who wander into Central Park from the Upper East Side never make it this far north, which is exactly why the Conservatory Garden feels like a different park altogether. There's no traffic noise bleeding through the trees, no tour groups clustered around a statue. Instead you get clipped yew hedges, a long allée of crabapple trees, and the kind of quiet that makes you drop your voice without meaning to.

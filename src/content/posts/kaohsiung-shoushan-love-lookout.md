@@ -108,8 +108,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You climb the switchbacks of Shoushan Road and the trees suddenly open onto a concrete platform jutting toward the Taiwan Strait. That's the lookout. The big metal "LOVE" letters stand chest-high, painted red, angled so every visitor's photo gets the harbor and Kaohsiung's tower blocks stacked behind them in the frame.
 
 Below the railing, the port sprawls out in miniature — container cranes, ferries crossing to Cijin Island, the curve of the coastline fading into haze. At dusk the city lights start switching on grid by grid, and the LOVE letters get illuminated too, which is when most people say the view earns its reputation.

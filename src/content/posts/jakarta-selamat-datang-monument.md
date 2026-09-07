@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot it before you even reach street level — a bronze man and woman, arms raised, frozen mid-wave above a ring of spraying fountains. This is the Selamat Datang Monument, and it sits in the middle of Bundaran HI, the roundabout that has anchored Jakarta's skyline since the early 1960s.
 
 ## Why it matters

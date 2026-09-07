@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phnom-penh-wat-phnom-daun-penh
-srcHash: '39354e850bf5'
+srcHash: '09638b7bc0ce'
 title: 'Wat Phnom Daun Penh: Guía de viaje de Phnom Penh (4,4★)'
 description: 'Wat Phnom Daun Penh es el templo sobre la colina que da nombre a Phnom Penh, ubicado en un pequeño montículo en el extremo norte de la cuadrícula urbana junto al río. 4,4★ (9.539 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Wat Phnom Daun Penh es el templo sobre la colina que da nombre a Phnom Penh, ubicado en un pequeño montículo en el extremo norte de la cuadrícula urbana junto al río. Abre todos los días de 7:00 a 19:00, y el momento más tranquilo es entre las 7:00 y las 9:00, antes de que lleguen los grupos turísticos y los monos; conviene evitar el horario de 17:00 a 19:00 los fines de semana, cuando hay más afluencia. Conviene reservar entre 45 minutos y una hora, además de una pequeña tarifa de entrada para visitantes extranjeros.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay tarifa de entrada?
     a: Los visitantes extranjeros suelen pagar una pequeña tarifa en efectivo al pie de las escaleras; conviene llevar billetes pequeños, ya que no se acepta pago con tarjeta.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Wat Phnom Daun Penh se alza sobre la única colina real de una ciudad por lo demás tan plana como un arrozal, y solo por eso ya tiene su importancia. Cuenta la leyenda que, en el siglo XIV, una mujer llamada Penh encontró cuatro estatuas de Buda arrastradas por las aguas del Mekong y construyó aquí un santuario, dando así a la capital su nombre: "la Colina de Penh".
 

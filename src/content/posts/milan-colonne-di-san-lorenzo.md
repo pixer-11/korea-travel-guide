@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the bend on Corso di Porta Ticinese and there they are, mid-pavement, looking like they've been forgotten by every urban planner since the fall of Rome: sixteen fluted marble columns, weathered grey-brown, holding up nothing but air and a chunk of entablature. Behind them, the red-brick facade of the Basilica di Sant'Eustorgio. In front, tram tracks and scooters weaving past as if this were the most normal thing in the world — which, in Milan, it kind of is.

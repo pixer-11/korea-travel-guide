@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Kokand doesn't announce this one. You turn off a quiet residential road onto an unmarked lane, past low mud-brick walls and a scatter of apricot trees, and the mausoleum appears almost without warning — a squat, domed structure the colour of baked earth, standing alone in a patch of open ground.
 
 ## Why this place matters

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-kuhna-ark
-srcHash: 'a79461b933a1'
+srcHash: '92f68ff00210'
 title: 'Kuhna Ark: guía de viaje de Jiva (4,6★)'
 description: 'Kuhna Ark se encuentra en el extremo occidental de la Ichan Qala de Jiva, justo junto a la Puerta Oeste, y abre todos los días de 9:00 a 17:00. 4,6★ (327 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kuhna Ark se encuentra en el extremo occidental de la Ichan Qala de Jiva, justo junto a la Puerta Oeste, y abre todos los días de 9:00 a 17:00. Conviene reservar entre 45 y 60 minutos para recorrer la sala del trono, la casa de la moneda, el patio del harén y la mezquita de verano con su muro de azulejos azules. Sigue siendo un lugar poco conocido en comparación con los monumentos más famosos de Jiva, así que las mañanas justo después de la apertura son tranquilas y cómodas para visitar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿La entrada incluye otros monumentos de Jiva?
     a: Es habitual que en Jiva se vendan entradas combinadas que cubren varios monumentos de la Ichan Qala; conviene preguntar en la taquilla de entrada, ya que esto puede suponer un ahorro si se visitan varios sitios el mismo día.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Kuhna Ark se distingue desde lejos: un largo muro de adobe interrumpido por una puerta flanqueada por dos torres redondas, en el extremo occidental de la Ichan Qala, la ciudad amurallada de Jiva. Aquí residían los kanes de Jiva, en un conjunto que era a la vez fortaleza y residencia, levantado a lo largo de los siglos a medida que los distintos gobernantes iban añadiendo salas, patios y murallas defensivas.
 

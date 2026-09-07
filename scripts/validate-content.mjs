@@ -28,6 +28,7 @@ import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
 import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
+import { hasBodyDisclosure } from './lib/body-disclosure.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -556,6 +557,14 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
       const claim = p.body.match(NEW_CLAIM)[0];
       issues.push(`STALE-NEW-CLAIM: ${p.f} — "${claim}" written ${p.pubDate} (>${STALE_NEW_DAYS} days ago)`);
     }
+  }
+
+  // The AI disclosure is rendered once by PostArticle.astro as a localized
+  // <details>. A copy in the body means the reader sees it twice — 878 live
+  // guides shipped that way until the 2026-08-31 audit. Sweeping the corpus
+  // without this gate just buys the same cleanup again in six weeks.
+  if (p.body && hasBodyDisclosure(p.body)) {
+    issues.push(`DOUBLE-DISCLOSURE: ${p.f} — the AI disclosure is in the body AND in the component`);
   }
 
   // A post whose in-body photo IS its hero shows the same picture twice. The rule

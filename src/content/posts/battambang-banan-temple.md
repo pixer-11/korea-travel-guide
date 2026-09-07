@@ -56,8 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Banan Temple sits on a steep, jungle-covered hill about 25km south of Battambang, and it looks like a smaller, quieter cousin of Angkor Wat left to the elements. Five crumbling sandstone towers crown the summit, their carvings softened by centuries of rain and lichen. Roots snake across fallen lintels. Few other visitors break the silence.
 
 You feel the climb before you see the towers. A long staircase of uneven stone steps cuts straight up the hillside, flanked by frangipani trees and the occasional grazing cow. There's no shade for most of it, so the heat builds fast once the sun clears the treeline.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aberdeen-aberdeen-promenade
-srcHash: 'e6ac3056a399'
+srcHash: '870dd42012f6'
 title: 'Aberdeen Promenade: Guía de viaje (4.0★)'
 description: 'Aberdeen Promenade es un paseo marítimo arbolado a lo largo de Aberdeen Praya Road, en el lado sur de la isla de Hong Kong, ideal para pasar una hora tranquila observando el pueblo pesquero flotante y el tráfico del puerto. 4.0★ (2,765 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Aberdeen Promenade es un paseo marítimo arbolado a lo largo de Aberdeen Praya Road, en el lado sur de la isla de Hong Kong, ideal para pasar una hora tranquila observando el pueblo pesquero flotante y el tráfico del puerto. Es más tranquilo a primera hora de la mañana, antes de que apriete el calor, o justo al atardecer, cuando los sampanes regresan a puerto. No hay entrada ni horario fijo: es un parque abierto frente al mar, así que basta con acercarse y ver qué ocurre en el agua.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo dar un paseo en barco mientras estoy allí?
     a: Sí, los sampanes cruzan pasajeros por el puerto hasta Ap Lei Chau por una pequeña tarifa en efectivo, una buena forma de ver de cerca los barcos de pesca.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

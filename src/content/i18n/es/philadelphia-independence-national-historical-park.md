@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: philadelphia-independence-national-historical-park
-srcHash: '8cdfbb1b4615'
+srcHash: 'a37d992002fe'
 title: 'Independence National Historical Park: guía de viaje de Filadelfia'
 description: Independence National Historical Park es el tramo de 20 manzanas del Old City de Filadelfia que alberga Independence Hall, el Liberty Bell Center y un conjunto de museos que narran la fundación de Estados Unidos. 4.6★ (26,599 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Independence National Historical Park es el tramo de 20 manzanas del Old City de Filadelfia que alberga Independence Hall, el Liberty Bell Center y un conjunto de museos que narran la fundación de Estados Unidos. Dedícale medio día como mínimo, o un día completo si quieres recorrer Independence Hall y disfrutar con calma de Franklin Court. Llega a la apertura o después de las 3pm para evitar la avalancha de autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿El National Constitution Center forma parte del parque?
     a: No, es una institución sin fines de lucro independiente ubicada al otro lado del mall, pero es fácil combinarla con la visita y ofrece un contexto útil antes o después de visitar Independence Hall.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 Bajas de Market Street y la ciudad moderna simplemente desaparece. Los adoquines reemplazan al asfalto, las casas adosadas de ladrillo con ventanas de contraventanas se alinean en pulcras hileras georgianas, y frente a ti se alza una sencilla torre de ladrillo rojo con un chapitel blanco: Independence Hall, que parece casi demasiado pequeña para lo que ocurrió en su interior.
 

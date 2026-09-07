@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You won't stumble on Tan Si Chong Su by accident. It sits a short walk inland from the Clarke Quay riverfront, on Magazine Road, in a pocket of the city that most visitors walk straight past on their way to dinner.
 
 That's exactly what makes it worth the detour. The temple is a clan ancestral hall, built in the 1870s by the Tan clan associations for Hokkien immigrants, and it still functions as one today rather than as a tourist attraction dressed up for photos.

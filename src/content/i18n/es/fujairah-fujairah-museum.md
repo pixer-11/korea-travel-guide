@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-fujairah-museum
-srcHash: '7f63025c5684'
+srcHash: '13b37fafb436'
 title: 'Museo de Fujairah: guía de viaje (4,3★)'
 description: 'El Museo de Fujairah es un museo del patrimonio pequeño y bien organizado, cercano al Fuerte de Fujairah, abierto todos los días de 9:00 a 17:00, y que merece cerca de una hora de visita. 4,3★ (764 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Fujairah es un museo del patrimonio pequeño y bien organizado, cercano al Fuerte de Fujairah, abierto todos los días de 9:00 a 17:00, y que merece cerca de una hora de visita. Es una parada sencilla y poco concurrida para entender la historia del emirato antes del petróleo, a través de herramientas y armas excavadas y de la antigua vida costera, antes de dirigirse a la playa o al fuerte contiguo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Debería visitar primero el museo o el fuerte?
     a: Cualquier orden funciona, ya que están a pocos minutos uno del otro, pero visitar primero el museo aporta un contexto útil antes de ver el fuerte.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Al Museo de Fujairah se viene por el contexto, no por las multitudes. Está ubicado en Al Sharyah, a la sombra del Fuerte de Fujairah, y la mayoría de los visitantes trata ambos lugares como una sola parada: primero el fuerte y después el museo, o al revés.
 

@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors to Hangzhou pour their time into West Lake's causeways and pavilions, which means the forested valley just to the west gets skipped by people who never realize what they're missing. Lingyin Temple — the name translates roughly as "Temple of the Soul's Retreat" — was founded in 328 CE by an Indian monk named Huili, who is said to have looked up at the limestone peak nearby and declared it a spirit that had flown there from India.

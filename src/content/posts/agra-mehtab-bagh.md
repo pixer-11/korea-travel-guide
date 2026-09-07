@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually looking at
 
 Mehtab Bagh sits directly across the Yamuna River from the Taj Mahal, on its central north-south axis. Mughal emperor Babur laid out the original garden in the 1500s as one of eleven riverside gardens along this stretch. Shah Jahan later used the site as a viewing point for the Taj, then still under construction. Centuries of flooding buried the formal charbagh layout in silt; archaeologists only excavated and partly restored it in the 1990s.

@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around a bend on Park İçi Yolu, past a row of tea gardens and a stork's nest balanced on a pole, and there it is: a marsh-fringed field with one lonely column rising out of the grass. That's the Temple of Artemis. Or what's left of it.
 
 It's hard to overstate what used to stand here. This was one of the Seven Wonders of the Ancient World, a marble temple four times the size of the Parthenon, rebuilt at least twice after fire and flood before finally sinking into the silt of the Cayster River. Today the site is a flat, waterlogged meadow with scattered column drums, a few storks nesting on the single standing pillar, and English-Turkish information boards that do most of the storytelling for you.

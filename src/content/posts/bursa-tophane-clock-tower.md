@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one thing: the view that opens up the moment the park trees part. The clock tower itself is elegant but modest — it's the cliff-edge perch beneath it that makes people stop mid-sentence.

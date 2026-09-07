@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-national-museum-new-delhi
-srcHash: '4e9d75005416'
+srcHash: 'b447cb6a1445'
 title: 'Museo Nacional de Nueva Delhi: guía de viaje (4.6★)'
 description: 'El Museo Nacional, en Janpath, abre de 10:00 a 18:00 todos los días excepto los lunes, y merece una visita de dos a tres horas completas para recorrer con calma los sellos de Harappa, las antigüedades de Asia Central y las miniaturas mogolas. 4.6★ (21.134 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional, en Janpath, abre de 10:00 a 18:00 todos los días excepto los lunes, y merece una visita de dos a tres horas completas para recorrer con calma los sellos de Harappa, las antigüedades de Asia Central y las miniaturas mogolas. Las tardes de fin de semana (11:00 a 18:00) son las de mayor afluencia, así que conviene llegar justo a la apertura o, en día laborable, más tarde. La estación de metro más cercana es Central Secretariat, en la Línea Amarilla o la Línea Violeta, a pocos minutos a pie.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se permite fotografiar dentro del museo?
     a: Por lo general sí, en la mayoría de las galerías, aunque algunas secciones lo restringen; conviene fijarse en los carteles a la entrada.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

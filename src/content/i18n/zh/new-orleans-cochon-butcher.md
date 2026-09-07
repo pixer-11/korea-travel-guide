@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-cochon-butcher
-srcHash: 'ff44346273c9'
+srcHash: 'eadb6bd13987'
 title: Cochon Butcher：新奥尔良美食指南（4.8星）
 description: Cochon Butcher是Cochon餐厅旗下走轻松路线的三明治与熟食店，藏身于仓库区Tchoupitoulas街边的一条小巷里。4.8星（2,631条评价）——看看游客怎么说，附营业时间和实用建议。
 quickAnswer: Cochon Butcher是Cochon餐厅旗下走轻松路线的三明治与熟食店，藏身于仓库区Tchoupitoulas街边的一条小巷里。推荐点一份muffuletta三明治或猪五花古巴三明治，在柜台点单，午餐高峰期要做好排队的心理准备。这里每天11点到22点营业，如果想避开排队直接找到座位，下午2点到4点这段时间是最佳选择。
@@ -17,8 +17,6 @@ faq:
   - q: 这里适合快速用餐还是坐下来慢慢吃？
     a: 两种方式都合适。三明治打包带走很方便，适合赶时间的午餐；不过共用长桌和吧台的设置，也很适合点一份餐配杯啤酒，悠闲地待上一会儿。
 ---
-
-> **本指南制作说明：** 由编辑审核，并借助AI辅助完成。信息来自Google Places实时数据，图片均为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得去Cochon Butcher
 

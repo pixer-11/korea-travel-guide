@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot Tlos long before you reach it. The rock tombs cut into the cliff face above Yakaköy village look like doorways for giants, carved into limestone that glows orange in low light. This is one of the oldest and largest cities in ancient Lycia, and it still feels vast once you're inside.
 
 ## Why Tlos is worth the drive

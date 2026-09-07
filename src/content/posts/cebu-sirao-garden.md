@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sirao Garden is worth the climb
 
 The road up from Busay twists through switchbacks lined with pine and coconut trees, and the temperature drops noticeably as you gain elevation — a welcome shift after the heat of the city below. Sirao Garden itself is a patchwork of flower fields planted across a hillside in Barangay Sirao, part of the Busay uplands that Cebuanos and visitors alike now associate with cooler air and sweeping views back toward the coast.

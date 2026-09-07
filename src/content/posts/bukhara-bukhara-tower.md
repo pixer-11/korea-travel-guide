@@ -67,8 +67,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bukhara's old city is flat-roofed and low-slung, all the same sun-baked ochre color, so the view from above is genuinely disorienting in a good way. Bukhara Tower gives you that view without a minaret climb. From the top you get the whole spread: domes, minarets, and the pale scrub of desert beyond the last rooftops.

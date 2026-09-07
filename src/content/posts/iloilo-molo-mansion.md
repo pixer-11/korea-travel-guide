@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the mansion before you reach it — a pale, wide-eaved silhouette rising behind a low fence on Locsin Street, its wooden shutters and capiz windows catching the afternoon glare. This is the Yusay-Consing Mansion, better known now as Molo Mansion, and stepping through its gate feels like crossing out of the traffic noise of Molo district into someone's parlor from a century ago.
 
 The building dates to the early 1900s, built for a prominent Chinese-Filipino trading family. Its bones are pure turn-of-the-century Iloilo: hardwood floors that creak underfoot, tall ceilings meant to catch a cross-breeze, a grand staircase that still anchors the entry hall. Restoration work has kept the frame and detailing largely intact while opening the ground floor to visitors.

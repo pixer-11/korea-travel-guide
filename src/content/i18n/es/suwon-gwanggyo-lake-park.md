@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suwon-gwanggyo-lake-park
-srcHash: 'f43340ddadee'
+srcHash: '6cbc8a3ea1d6'
 title: 'Parque del Lago Gwanggyo: Guía de viaje de Suwon (4,6★)'
 description: 'El Parque del Lago Gwanggyo, en el distrito de Yeongtong-gu de Suwon, es un parque urbano gratuito y abierto las 24 horas, construido en torno a dos embalses conectados, Woncheon y Sinsan, rodeados de senderos boscosos y un largo paseo de madera junto al agua. 4,6★ (6.153 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque del Lago Gwanggyo, en el distrito de Yeongtong-gu de Suwon, es un parque urbano gratuito y abierto las 24 horas, construido en torno a dos embalses conectados, Woncheon y Sinsan, rodeados de senderos boscosos y un largo paseo de madera junto al agua. Es un lugar muy popular, sobre todo las noches de fin de semana y durante los festivales de luces de primavera y otoño, así que conviene ir un día laborable por la mañana o justo después del amanecer si se quiere disfrutar de los senderos en soledad. Conviene reservar entre dos y tres horas para completar la vuelta al lago, más si se suben los senderos de la colina circundante.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor época para visitarlo?
     a: Principios de abril, por los cerezos en flor a lo largo de los senderos occidentales, o finales de octubre y noviembre, por el color de los arces y los ginkgos. Ambas temporadas coinciden con la mayor afluencia de público los fines de semana, así que una visita entre semana ayuda a evitar las aglomeraciones.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El Parque del Lago Gwanggyo se encuentra en pleno corazón de uno de los distritos más nuevos de Suwon, y se nota: torres de apartamentos de cristal y bloques de oficinas se alzan justo detrás de la línea de árboles, enmarcando el agua con un telón de fondo que pocos esperarían encontrar en un parque coreano. El parque en sí se articula en torno a dos embalses, Woncheon-ho y Sinsan-ho, unidos por un largo puente peatonal y envueltos casi por completo en un paseo de madera.
 

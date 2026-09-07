@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Victoria Peak Garden is the quiet payoff after the noisy climb to the top. Most visitors stop at the Peak Tower and its viewing decks; this garden, a further ten to fifteen minutes uphill along Mount Austin Road, is where the crowds thin out and the view opens up for free.

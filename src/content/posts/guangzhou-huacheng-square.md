@@ -75,8 +75,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Huacheng Square doesn't announce itself the way a temple or a museum does — there's no ticket booth, no single "must-see" object. What you get instead is scale: a stretch of granite paving and clipped lawns big enough to swallow the crowds of Tianhe's office towers at lunchtime and still feel uncrowded. Walk to its edges and you find yourself flanked by some of Guangzhou's most photographed modern architecture — Zaha Hadid's curved, dune-like Guangzhou Opera House on one side, the boxy glass Guangdong Museum and Guangzhou Library on another, with the Canton Tower's latticed silhouette rising across the Pearl River.

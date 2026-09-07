@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell it before you see it — warm butter, toasted crust, a faint sugar haze drifting onto the pavement. Boulangerie Du Palais sits on Rue du Palais de Justice in Vieux Lyon, a few steps from the Palais de Justice's stone columns.

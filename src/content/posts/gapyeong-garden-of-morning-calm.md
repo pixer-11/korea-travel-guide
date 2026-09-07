@@ -77,8 +77,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the choreography of it — not wild nature, but nature arranged with intent. The Garden of Morning Calm sits in a valley near Mount Cheonggye, and its name comes from an old poetic epithet for Korea itself, "Land of Morning Calm." Walking in, you notice how the paths curl rather than run straight, pulling you from one themed section into the next: a hae-oreum garden of ornamental grasses, a herb garden thick with the smell of crushed rosemary and mint underfoot, a bonsai collection clipped into decades-old shapes.

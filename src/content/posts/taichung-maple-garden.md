@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Maple Garden is Xitun District's green lung, a park built almost entirely around water. The centerpiece is a broad pond, its surface broken by koi, freshwater turtles hauling themselves onto half-submerged logs, and egrets picking through the shallows.

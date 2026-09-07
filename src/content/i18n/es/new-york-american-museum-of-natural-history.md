@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-american-museum-of-natural-history
-srcHash: 'a8e5c249e596'
+srcHash: '0f4b24258efb'
 title: 'Museo Americano de Historia Natural: guía de viaje de Nueva York'
 description: 'El Museo Americano de Historia Natural está en Central Park West con la calle 79, frente al parque, y conviene visitarlo entre semana, cuando hay menos gente, o justo a la apertura si solo puedes ir en fin de semana. 4.6★ (25.908 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Americano de Historia Natural está en Central Park West con la calle 79, frente al parque. Lo mejor es visitarlo entre semana, cuando está más tranquilo, o justo a la apertura si solo dispones de un fin de semana. Calcula al menos tres horas, o media jornada si quieres recorrer con calma el Rose Center for Earth and Space y las salas de dinosaurios. Las tardes de fin de semana, entre el mediodía y las 5 de la tarde, son el momento de más aglomeración y conviene evitarlas; en cambio, las mañanas de fin de semana, justo a la apertura a las 10 de la mañana, son mucho más tranquilas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para alargar la visita?
     a: Central Park está justo enfrente, y la New-York Historical Society queda a una manzana al sur, por si quieres sumar una segunda parada museística.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

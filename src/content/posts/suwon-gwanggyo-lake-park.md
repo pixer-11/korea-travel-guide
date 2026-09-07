@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Gwanggyo Lake Park sits in the middle of one of Suwon's newest districts, and it shows: glass apartment towers and office blocks rise directly behind the treeline, framing the water like a backdrop nobody quite expects in a Korean park. The park itself is built around two reservoirs, Woncheon-ho and Sinsan-ho, joined by a long pedestrian bridge and wrapped almost entirely in a wooden boardwalk.
 
 You come here for the contrast: still water, reed beds, herons picking through the shallows, and skyscrapers glowing behind them once the sun starts to drop. It reads as one of the more photogenic public spaces in Gyeonggi-do, which is part of why it draws such steady crowds.

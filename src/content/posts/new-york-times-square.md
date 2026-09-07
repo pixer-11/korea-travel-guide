@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the subway and the light hits you before the sound does — a wall of LED screens three, four, five stories tall, stacked so densely over Broadway and Seventh Avenue that there's no visible sky, just a moving collage of ads, film trailers, and news tickers reflecting off yellow cabs. Times Square isn't subtle, and it isn't trying to be.

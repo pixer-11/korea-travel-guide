@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You step through the gate off Jalan Pangurakan and the noise of the square drops away almost immediately. Museum Sonobudoyo Unit I occupies a pair of traditional Javanese pendopo-style pavilions, their tiled roofs held up by dark teak pillars, arranged around a quiet inner courtyard. It's one of the oldest museums in Indonesia, and it feels like it — not dusty, but settled, the way an old library feels settled.
 
 ## Why it's worth the detour

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-mirador-torre-glories
-srcHash: '3387d71d534d'
+srcHash: '0a3b88061958'
 title: Mirador Torre Glòries：巴塞罗那旅游指南（4.5★）
 description: Mirador Torre Glòries 是巴塞罗那最新的观景台，坐落于让·努维尔（Jean Nouvel）设计的子弹形闪耀高塔内125米高处，塔楼位于对角大道（Avinguda Diagonal）。4.5★（5,078条评价）——游客评价、开放时间与实用建议。
 quickAnswer: Mirador Torre Glòries 是巴塞罗那最新的观景台，坐落于让·努维尔设计的子弹形闪耀高塔内125米高处，塔楼位于对角大道上。每天上午10点至晚上10点开放，工作日晚上8点到10点、城市华灯初上时是最清静的时段。建议提前在线预约限时入场，以免在一楼排队等候。
@@ -17,8 +17,6 @@ faq:
   - q: 需要提前预订门票吗？
     a: 是的——在线预订限时入场是这里的常规做法，可以避免在一楼排队等候。
 ---
-
-> **本指南制作方式：** 编辑审校，AI辅助生成。事实数据来自谷歌地图（Google Places）实时信息；图片均获得授权或来自公共版权领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

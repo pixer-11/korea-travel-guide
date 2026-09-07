@@ -59,8 +59,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this goose has a following
 
 You smell it before you see it: charcoal smoke and rendered fat drifting onto Hennessy Road. Behind the glass, whole geese hang in a row, skin lacquered the colour of dark honey. This is what draws people off a busy Wan Chai sidewalk and into a queue.

@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the museum before you reach it — a honey-coloured dome rising above the palm trees and monsoon-stained stone of Fort, looking more like a maharaja's palace than a repository of pottery shards and miniature paintings. That's deliberate. The building was designed in the early 1900s in the Indo-Saracenic style, stitching together Mughal arches, Rajput turrets, and British civic grandeur into one confident, slightly showy structure.
 
 Walk the perimeter first, before you even buy a ticket, and you'll notice how the corner towers, jaali screens, and the central dome all quote different regional traditions at once — it's practically a lecture on colonial-era architectural politics before you've seen a single artifact.

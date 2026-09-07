@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the French Market still matters
 
 Walk down N Peters St with the Mississippi levee at your back and you're tracing one of the oldest continuously operating public market sites in the United States — vendors have sold goods on this stretch since the late 1700s, when it started as a Native American trading post before becoming a produce and meat market for the French and Spanish colonial city.

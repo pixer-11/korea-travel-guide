@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Picture thousands of quartzite sandstone pillars, some over 200 meters tall, wrapped in fog and pine. That's Zhangjiajie National Forest Park, China's first national forest park and the place that reportedly inspired the floating Hallelujah Mountains in "Avatar."

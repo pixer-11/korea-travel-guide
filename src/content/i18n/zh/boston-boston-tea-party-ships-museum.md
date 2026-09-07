@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: boston-boston-tea-party-ships-museum
-srcHash: '18866655afba'
+srcHash: 'f33582e972c9'
 title: 波士顿倾茶事件船舶博物馆（Boston Tea Party Ships & Museum）旅行指南
 description: 波士顿倾茶事件船舶博物馆停靠在福特角运河（Fort Point Channel）畔的306 Congress St，就在南站（South Station）后面，建议预留60至90分钟参观时间。
 quickAnswer: 建议预留60至90分钟游览波士顿倾茶事件船舶博物馆（Boston Tea Party Ships & Museum），它停靠在福特角运河（Fort Point Channel）畔的306 Congress St，就在南站（South Station）后面。这是一场有真人演员、短片放映、两艘18世纪复原帆船和茶室体验的定时导览项目，因此务必提前在线预约时段——这里是波士顿人气最旺的景点之一，周末的中午时段常常一位难求。建议开门时刻或傍晚时分前往，以避开旅行团最集中的时段。
@@ -17,8 +17,6 @@ faq:
   - q: 如果时间充裕，附近还有什么值得一去的地方？
     a: 波士顿儿童博物馆（Boston Children's Museum）就在同一条运河边，步行两分钟即到；罗斯·肯尼迪绿道（Rose Kennedy Greenway）、法尼尔厅（Faneuil Hall）和新英格兰水族馆（New England Aquarium）都在步行15到20分钟的范围内。
 ---
-
-> **本指南制作方式：** 由编辑审核、AI辅助完成。事实信息来自Google Places实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

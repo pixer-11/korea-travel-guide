@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: lantau-island-tian-tan-buddha
-srcHash: '6bdb8996c662'
+srcHash: 'a50188d97d69'
 title: '톈탄대불(天壇大佛): 란타우 섬(Lantau Island) 여행 가이드 (4.6★)'
 description: 톈탄대불은 란타우 섬(Lantau Island)의 옹핑 고원(Ngong Ping Plateau) 정상에 있으며, 퉁충(Tung Chung) MTR역에서 케이블카나 버스로 갈 수 있습니다. 4.6★(리뷰 19,573개) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 톈탄대불은 란타우 섬(Lantau Island)의 옹핑 고원(Ngong Ping Plateau) 정상에 있으며, 퉁충(Tung Chung) MTR역에서 케이블카나 버스로 갈 수 있습니다. 매일 오전 10시부터 오후 5시 30분까지 운영하며, 가능하면 평일에 개장 시간인 10시에서 11시 사이에 맞춰 가면 260여 개의 계단과 거대한 청동상을 인파 없이 볼 수 있습니다. 케이블카 탑승, 계단 오르기, 바로 옆 포린 사원(Po Lin Monastery) 관람까지 반나절 정도 잡으면 됩니다.
@@ -17,8 +17,6 @@ faq:
   - q: 란타우 섬(Lantau Island)의 다른 명소와 함께 둘러볼 만한가요?
     a: 네 — 포린 사원(Po Lin Monastery)은 계단 바로 아래에 있고, 지혜의 길(Wisdom Path)은 옹핑 빌리지(Ngong Ping Village)에서 도보 15분 거리라 세 곳 모두 한 번에 둘러보기 좋습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검토, AI 지원 작성. 사실 정보는 실시간 구글 플레이스(Google Places) 데이터에서 가져왔으며, 이미지는 라이선스 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가야 하는 이유
 

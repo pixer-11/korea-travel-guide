@@ -102,8 +102,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the view Avignon doesn't show you from street level. The Jardin des Doms sits on the rocky bluff above the Palais des Papes, and from its terraces the Rhône opens out below, the Pont Saint-Bénézet reaching halfway across it like an unfinished sentence.

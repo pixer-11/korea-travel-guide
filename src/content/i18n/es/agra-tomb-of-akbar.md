@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: agra-tomb-of-akbar
-srcHash: '2ce7dc37b81e'
+srcHash: 'b582aaf0c530'
 title: 'Tumba de Akbar: Guía de viaje de Agra (4.4★)'
 description: 'La Tumba de Akbar se encuentra en Sikandra, en el extremo noroeste de Agra, a unos 10-13 km del Taj Mahal y del Fuerte de Agra. 4.4★ (6.341 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Tumba de Akbar se encuentra en Sikandra, en el extremo noroeste de Agra, a unos 10-13 km del Taj Mahal y del Fuerte de Agra. Abre todos los días de 6:00 a 18:00, y el momento más tranquilo para la visita es de 7:00 a 10:00 en días de semana o de 7:00 a 11:00 los fines de semana, mucho antes de la hora punta de 13:00 a 18:00 del fin de semana. Conviene reservar entre 60 y 90 minutos para recorrer los jardines y la cámara funeraria.
@@ -19,8 +19,6 @@ faq:
   - q: ¿Merece la pena combinarla con otros lugares cercanos?
     a: Sí, la Tumba de Mariam, un mausoleo mogol más pequeño, se encuentra a poca distancia en coche y combina bien con la Tumba de Akbar en la misma salida.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La mayoría de los visitantes de Agra pasan todo su viaje entre el Taj Mahal y el Fuerte de Agra, sin llegar nunca hasta Sikandra. Es una pena, porque se lo pierden. La Tumba de Akbar, lugar de descanso del emperador mogol que construyó el imperio que hizo posibles esos otros monumentos, es más tranquila, más espaciosa y, en algunos aspectos, arquitectónicamente más singular que cualquiera de los dos.
 

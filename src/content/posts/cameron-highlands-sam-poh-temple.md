@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sam Poh Temple sits on a hillside just outside Brinchang, and you smell it before you see it — incense smoke drifting through the pines. The complex unfolds in tiers up the slope: a candy-striped gate, a courtyard of stone lanterns, and a hall where a huge gilded Buddha catches whatever light gets through the highland mist.

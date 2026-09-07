@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xi-an-tang-paradise
-srcHash: '6a61b166220c'
+srcHash: 'bb7980797490'
 title: 'Tang Paradise: guía de viaje de Xi''an'
 description: Tang Paradise (大唐芙蓉园) es un extenso jardín imperial que recrea la dinastía Tang en el sureste de Xi'an. Conviene visitarlo a última hora de la tarde para pasear por los pabellones con luz de día y quedarse al espectáculo nocturno de agua y luces junto a la Torre de las Nubes Púrpuras.
 quickAnswer: 'Tang Paradise (大唐芙蓉园) es un extenso jardín imperial que recrea la dinastía Tang en el sureste de Xi''an. Conviene visitarlo a última hora de la tarde: así se pueden recorrer los pabellones con luz natural y quedarse por la noche para el espectáculo de agua y luces junto a la Torre de las Nubes Púrpuras. Calcula entre media jornada y una tarde completa —de 3 a 5 horas— y, si puedes elegir, ve entre semana, ya que recibe muchos menos visitantes que el Ejército de Terracota o la Muralla de la Ciudad. Se combina fácilmente con la cercana Gran Pagoda del Ganso Salvaje, a unos 15-20 minutos caminando o un corto trayecto en taxi.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Gran Pagoda del Ganso Salvaje y el Museo de Historia de Shaanxi están a un corto trayecto en taxi o a pie, así que resulta fácil combinar los tres lugares en un solo día en el distrito de Yanta.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 Sales de la plaza abarrotada de la Gran Pagoda del Ganso Salvaje esperando encontrar más de lo mismo —el bullicio de los puestos de recuerdos— y, en cambio, apareces ante una puerta junto al lago, con aleros curvados y columnas bermellón, mientras el ruido se desvanece casi de inmediato. Esa es la primera sorpresa de Tang Paradise: para tratarse de un parque temático de 165 acres construido en torno a la dinastía más romantizada de China, sorprende lo poco concurrido que se siente, incluso en una tarde despejada de temporada alta.
 

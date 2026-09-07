@@ -61,8 +61,6 @@ faq:
     a: It's a short walk from the Vieux-Port, the Centre Bourse mall (which also houses the Musée d'Histoire de Marseille), and the Le Panier neighborhood, making it easy to fold into a half-day loop of the old city center.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come down a short flight of steps off Rue Henri Barbusse, past the flank of the Centre Bourse mall, and the traffic noise just drops away. Below you is a sunken lawn scattered with stone: a curved line of massive limestone blocks, the worn ruts of a paved road, the stump of a tower. It doesn't look like much from the railing above, which is exactly why so many people walk past it without noticing.
 
 Once you're inside, though, it's obviously old in a way that's hard to fake — these are fragments of the Greek fortifications and harbor works from Massalia, the settlement Phocaean sailors from Asia Minor founded here around 600 BC, plus a length of Roman road laid centuries later when the town became a Roman port. Marseille calls itself France's oldest city, and this patch of grass is about as close as you'll get to physical proof of it.

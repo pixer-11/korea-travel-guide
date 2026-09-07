@@ -97,8 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Porto Antico is where Genoa turned its back on centuries of gritty shipping industry and faced the sea again. Renzo Piano, the architect behind the Pompidou Centre, redesigned this harbor for the 1992 Columbus anniversary, and the result still feels current: glass, steel, and water working together instead of fighting each other.

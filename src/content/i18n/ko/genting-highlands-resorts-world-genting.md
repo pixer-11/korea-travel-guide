@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: genting-highlands-resorts-world-genting
-srcHash: '2195f221f214'
+srcHash: '1763f31863b8'
 title: '리조트 월드 겐팅: 겐팅 하이랜드 여행 가이드 (4.5★)'
 description: 리조트 월드 겐팅(Resorts World Genting)은 겐팅 하이랜드(Genting Highlands) 산 위에 자리한 말레이시아의 구름 위 카지노 겸 테마파크 리조트로, 고퉁 자야(Gohtong Jaya) 인근 겐팅 스카이웨이 역(Genting Skyway Station)에서 10분짜리 케이블카(겐팅 스카이웨이, Genting SkyWay)를 타고 오를 수 있습니다. 4.5★(리뷰 74,519개) — 방문객들의 평가, 운영 시간, 팁을 확인하세요.
 quickAnswer: 리조트 월드 겐팅(Resorts World Genting)은 겐팅 하이랜드(Genting Highlands) 산 위에 자리한 말레이시아의 구름 위 카지노 겸 테마파크 리조트로, 고퉁 자야(Gohtong Jaya) 인근 겐팅 스카이웨이 역(Genting Skyway Station)에서 10분짜리 케이블카(겐팅 스카이웨이, Genting SkyWay)를 타고 오를 수 있습니다. 하루 코스부터 1박 2일 일정까지 가능하니, 아침 일찍 스카이웨이를 타고 올라가 정오 이전 인파가 몰리기 전에 실내외 테마파크를 둘러보세요. 그리고 이곳은 쿠알라룸푸르보다 눈에 띄게 서늘하니 따뜻하게 챙겨 입으시길 바랍니다.
@@ -17,8 +17,6 @@ faq:
   - q: 산악 고지대라는 점을 고려하면 무엇을 챙겨야 하나요?
     a: 가벼운 재킷이나 스웨터를 챙기세요. 해발 약 1,800미터에 위치한 겐팅 하이랜드(Genting Highlands)는 열대 지역인 말레이시아임에도 쿠알라룸푸르보다 눈에 띄게 서늘하고 안개가 자주 낍니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터가 검토하고 AI의 도움을 받아 작성했습니다. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터를 기반으로 하며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 왜 가야 할까
 

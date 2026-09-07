@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-barsha-hindu-temple-dubai
-srcHash: '27ad36602cbd'
+srcHash: '9c1d41de2f44'
 title: 'Templo Hindú de Dubái: Guía de Viaje (4,8★)'
 description: 'Este es el complejo de templos hindúes más reciente de Dubái, ubicado en Jebel Ali, abierto todos los días de 6:00 a 20:30, y que recibe un flujo constante de visitantes durante los fines de semana. 4,8★ (6.449 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Este es el complejo de templos hindúes más reciente de Dubái, ubicado en Jebel Ali, abierto todos los días de 6:00 a 20:30, y que recibe un flujo constante de visitantes durante los fines de semana. Para vivir el espacio con calma, en lugar de recorrerlo entre el gentío, conviene ir entre las 18:00 y las 20:00, el horario más tranquilo tanto entre semana como los fines de semana. Lleva calzado fácil de quitar (unos calcetines no vienen mal), vístete de forma modesta y reserva entre 45 y 60 minutos para la visita.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Calcula entre 45 minutos y una hora para recorrer los santuarios con calma. Añade tiempo extra si coincides con una festividad como Diwali o Navratri, cuando los rituales atraen a más público.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

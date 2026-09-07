@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bilbao-victor-montes
-srcHash: '2acb57b3721c'
+srcHash: '9279a91b79b9'
 title: 维克多·蒙特斯（Víctor Montes）：毕尔巴鄂美食指南
 description: 维克多·蒙特斯坐落在毕尔巴鄂旧城区（Casco Viejo）的新广场（Plaza Nueva / Plaza Berria）上，占据一栋外墙彩绘、曾是市场建筑的漂亮老宅——来这里，在吧台品尝经典巴斯克小食（pintxos），或在后厅享用中等价位的正餐。
 quickAnswer: 维克多·蒙特斯坐落在毕尔巴鄂旧城区（Casco Viejo）的新广场（Plaza Nueva / Plaza Berria）上，占据一栋外墙彩绘、曾是市场建筑的漂亮老宅——来这里，在吧台品尝经典巴斯克小食（pintxos），或在后厅享用中等价位的正餐。这里人气极高（4.4星，超过5,000条评价），建议选在工作日下午1点左右吃午餐，或晚上8点前来一次早场小食巡礼，以避开人潮。站在吧台前吃小食，预算每份€3-5，坐下来正式用餐则花费更高。
@@ -17,8 +17,6 @@ faq:
   - q: 该点些什么？
     a: 可以先从西班牙土豆蛋饼（tortilla de patata）、鳕鱼（bacalao）小食和铺满火腿（jamón）的面包片开始，配一杯查科利（txakoli）白葡萄酒或一杯生啤（caña）。收银台旁黑板上写的时令特色菜也值得一试。
 ---
-
-> **本指南制作方式：** 经编辑审核，AI辅助完成。相关信息取自谷歌地图（Google Places）实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

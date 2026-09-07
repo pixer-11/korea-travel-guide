@@ -71,8 +71,6 @@ heroImage:
     'y': 45
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Eggslut is worth the line
 
 You smell it before you see the sign: butter hitting a flat-top, coffee steam curling up into the market's high skylights, the low roar of a dozen other food stalls clattering around you. Eggslut occupies a narrow corner stall inside Grand Central Market, and even from thirty feet away you can spot it by the queue snaking between the produce stands and the tortilla counter.

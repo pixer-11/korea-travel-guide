@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the pier before you see it — funnel cake and salt air, a faint tang of fish from the bait shops under the deck. The wooden boards give slightly under your feet, worn smooth by more than a century of foot traffic, and somewhere below, the Pacific keeps knocking against the pilings. This is Santa Monica Pier, the spot where Route 66 officially ends, and it has the slightly chaotic, layered feel of a place that's been added to, rebuilt, and reinvented since it first opened in 1909.
 
 ## Why go

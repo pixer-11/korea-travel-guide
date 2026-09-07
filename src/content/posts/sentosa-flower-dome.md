@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Flower Dome sits in the Gardens by the Bay complex at 18 Marina Gardens Dr, on the Marina Bay waterfront across from the Marina Bay Sands hotel.
 
 ## What you're actually walking into

@@ -81,8 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you reach it: a pale, wave-like stone facade that seems to have been poured rather than built, with wrought-iron balconies twisted into knots of seaweed and vine. Antoni Gaudí finished Casa Milà in 1912, and locals nicknamed it "La Pedrera" — the quarry — because the undulating limestone looked like an unfinished rock face rather than a respectable Eixample apartment block.

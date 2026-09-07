@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot it before you reach the water — a lattice of red steel pinched in the middle like an hourglass, rising 108 meters over Kobe's harbor. Kobe Port Tower has anchored Meriken Park since 1963, and it's still the silhouette most people picture when they think of this city.
 
 Up close, the structure looks almost impossibly slender for its height. The steel lattice catches the light differently through the day: dull rust-red at noon, glowing crimson once the sun drops and the tower's lights switch on.

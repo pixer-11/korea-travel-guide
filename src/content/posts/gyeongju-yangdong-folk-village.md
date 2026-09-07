@@ -81,8 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Yangdong is worth the detour
 
 Most visitors to Gyeongju stop at Bulguksa and the tumuli park and call it a day. Yangdong Folk Village sits further out, and that's exactly why it rewards the trip.

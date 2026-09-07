@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-national-taiwan-museum-of-fine-arts
-srcHash: '178017adc21a'
+srcHash: '30be1b498862'
 title: 'Museo Nacional de Bellas Artes de Taiwán: guía de viaje de Taichung'
 description: 'El Museo Nacional de Bellas Artes de Taiwán se encuentra en Wuquan W Rd, en el distrito West de Taichung, y abre de martes a domingo (cerrado los lunes), con entrada gratuita a las galerías permanentes. 4.6★ (25.759 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Bellas Artes de Taiwán se encuentra en Wuquan W Rd, en el distrito West de Taichung, y abre de martes a domingo (cerrado los lunes), con entrada gratuita a las galerías permanentes. Si puede, vaya un día laborable por la mañana, ya que los fines de semana de 10:00 a 18:00 son el tramo de mayor afluencia. Calcule entre dos y tres horas para recorrer las galerías y el parque de esculturas al aire libre.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: 'Calcule entre dos y tres horas: unos noventa minutos para las galerías permanentes y las exposiciones especiales, más el tiempo para recorrer el parque de esculturas al aire libre.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

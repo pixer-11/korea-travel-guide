@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come down Empress Place with the Singapore River on one side and the old colonial civic district on the other, and the museum's long neoclassical facade, all columns and deep verandahs, sits like it's still waiting for cargo ships to dock. Built in the 1860s as a government office, it now holds one of Southeast Asia's best collections tracing how goods, gods and ideas moved across Asia and washed up in Singapore.
 
 Inside, the ceilings are high and the light is cool and even, the kind museums use to protect porcelain and old textiles. You'll hear multiple languages around you; this is a well-visited stop on most Singapore itineraries, not a quiet back-room find.

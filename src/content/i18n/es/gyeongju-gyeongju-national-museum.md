@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-gyeongju-national-museum
-srcHash: 'd5d59d288aaa'
+srcHash: '6b1bb0ae9ed8'
 title: 'Museo Nacional de Gyeongju: Guía de viaje (4,6★)'
 description: 'Situado en Iljeong-ro, justo al sureste del sitio del Palacio de Wolseong, el Museo Nacional de Gyeongju es el mejor lugar para entender los mil años de historia de Silla como capital real; conviene reservar entre dos y tres horas para recorrer las salas principales y los jardines exteriores. 4,6★ (13.323 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Situado en Iljeong-ro, justo al sureste del sitio del Palacio de Wolseong, el Museo Nacional de Gyeongju es el mejor lugar para entender los mil años de historia de Silla como capital real; conviene reservar entre dos y tres horas para recorrer las salas principales y los jardines exteriores. Los días de semana entre las 10:00 y las 19:00 son el momento más tranquilo para visitarlo; si solo puedes ir un fin de semana, mejor ve después de las 18:00 en lugar de enfrentarte a la multitud entre las 11:00 y las 18:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: El complejo de tumbas de Daereungwon, el observatorio de Cheomseongdae y el Palacio Donggung con el estanque Wolji quedan todos a poca distancia caminando, así que forman un recorrido natural de medio día junto con el museo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Al subir por el largo camino de acceso desde Iljeong-ro, lo primero que llama la atención es el espacio que se ha dado el museo a sí mismo: césped, pinos, un estanque reflectante y pabellones bajos de piedra y vidrio dispuestos de manera que ningún edificio domine sobre los demás. Esa contención es deliberada. Todo aquí remite a Silla, el reino que gobernó desde Gyeongju durante casi mil años, y el museo trata sus piezas como reliquias de una capital todavía viva, no como curiosidades polvorientas dentro de vitrinas.
 

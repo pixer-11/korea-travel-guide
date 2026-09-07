@@ -77,8 +77,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Khao Hin Lek Fai is the hill everyone in Hua Hin points to when you ask "where's the view?" A paved road switchbacks up through dry forest to a summit platform overlooking the town, the coastline, and on clear days the hazy outline of the Gulf of Thailand meeting the sky.

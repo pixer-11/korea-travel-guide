@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-biang-biang-noodles
-srcHash: '267bf1fa648d'
+srcHash: 'a910a48bd86f'
 title: Biang Biang面：西雅图美食指南（4.5星）
 description: 前往国会山（Capitol Hill）E Pike St上的Biang Biang面馆，品尝手工摔打的宽面裹满辣椒油，还有饺子和包子，就餐环境嘈杂而工业风十足。4.5星（1,570条评价）——看看食客怎么说，营业时间及实用建议。
 quickAnswer: 前往国会山（Capitol Hill）E Pike St上的Biang Biang面馆，这里的宽面手工摔打而成，裹满辣椒油，还有饺子和包子可选，餐厅嘈杂而带着工业风。工作日11:30am–3pm或周末刚开门的11:30am前后人最少，尽量避开周五、周六的4–9pm，这段时间排队会很长。
@@ -17,8 +17,6 @@ faq:
   - q: 消费贵吗？
     a: 以西雅图的标准来说属于中等价位——面条、饺子和包子价格都算合理，几个人围桌分享几道菜是最推荐的吃法。
 ---
-
-> **本指南制作方式：** 编辑审核，AI辅助完成。相关信息来自Google Places实时数据，图片均已获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 还没看到店门，辣椒油的香气就先扑面而来。在国会山（Capitol Hill）的E Pike St上，Biang Biang面馆藏身于一扇宽大的橱窗后面，哪怕盛夏时节，玻璃上也总蒙着一层水汽。
 

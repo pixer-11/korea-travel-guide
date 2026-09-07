@@ -43,8 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Nanshan is worth the drive
 
 The first thing you register, long before you reach the gate, is the statue itself — a white silhouette of Guanyin standing on an artificial island, visible from the coastal highway. Up close, the scale is disorienting: a towering bronze-clad figure, three faces looking out over the South China Sea, land, and the temple complex.

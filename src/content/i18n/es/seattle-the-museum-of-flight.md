@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-the-museum-of-flight
-srcHash: '3daaf991e693'
+srcHash: '70c0438b5bf3'
 title: 'Museo de Vuelo de Seattle: guía de viaje (4,8★)'
 description: 'El Museo de Vuelo (Museum of Flight), situado en la zona de Georgetown/Tukwila de Seattle junto a Boeing Field, es uno de los museos aeroespaciales más grandes del mundo y abre todos los días de 10:00 a 17:00. 4,8★ (18.548 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Vuelo, en la zona de Georgetown/Tukwila de Seattle junto a Boeing Field, es uno de los museos aeroespaciales más grandes del mundo y abre todos los días de 10:00 a 17:00. Es muy popular, así que conviene aprovechar la franja de apertura, entre las 10:00 y las 11:00, tanto entre semana como el fin de semana, para evitar las aglomeraciones; los sábados y domingos se llena entre las 11:00 y las 16:00. Conviene reservar al menos tres horas para ver la Great Gallery, la cápsula del Apolo y el retirado Air Force One.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es el Museo de Vuelo una buena opción para niños?
     a: Sí, los simuladores de vuelo y las exposiciones sobre coraje personal gustan mucho a los niños, y el diseño interactivo funciona bien para familias.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes están con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 A diez minutos al sur del centro de Seattle, justo en el borde de Boeing Field, una galería acristalada alberga más de 175 aeronaves dispuestas en niveles bajo un atrio de seis pisos de altura. Se trata del Museo de Vuelo (Museum of Flight), y la magnitud del lugar se percibe de inmediato: cazas suspendidos de armazones de acero sobre la cabeza, un Concorde estacionado afuera, en la pista, y un módulo de mando del Apolo a tamaño real posado a nivel del suelo, como si acabara de aterrizar.
 

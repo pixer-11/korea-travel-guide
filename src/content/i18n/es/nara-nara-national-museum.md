@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nara-nara-national-museum
-srcHash: 'a67faf62993d'
+srcHash: 'd49600190349'
 title: 'Museo Nacional de Nara: Guía de viaje (4.4★)'
 description: 'El Museo Nacional de Nara destaca por su colección de escultura budista, sobre todo por la evocadora galería subterránea de budas de bronce dorado y madera en el Salón de Escultura Budista de Nara. 4.4★ (5.399 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Nara merece una visita por su colección de escultura budista, en especial la evocadora galería subterránea con budas de bronce dorado y madera del Salón de Escultura Budista de Nara. Se encuentra dentro del Parque de Nara, a 5-10 minutos a pie de la estación de Kintetsu Nara, por lo que es fácil combinarlo con el Todai-ji y el Kasuga Taisha. Los fines de semana la afluencia se concentra entre las 11:00 y las 16:00, así que lo mejor es ir en la última hora o dos antes del cierre (entre las 17:00 y las 18:00), cuando la visita resulta más tranquila.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena planear la visita en torno a alguna exposición especial?
     a: El museo suele organizar exposiciones especiales de préstamo con arte budista en primavera y otoño; pueden generar bastante afluencia y modificar temporalmente qué salas de la colección permanente están accesibles, así que conviene revisar el calendario del museo antes de ir.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

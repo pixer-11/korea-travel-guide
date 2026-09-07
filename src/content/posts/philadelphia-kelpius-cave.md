@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Down a quiet spur off Hermit Lane, in the wooded folds of the Wissahickon Valley, a small stone grotto marks one of Philadelphia's odder footnotes. This is Kelpius Cave, named for Johannes Kelpius, the mystic who led a small band of German pietists into these woods around 1694 to await the end of the world.
 
 It never came, of course. What's left is a modest rock shelter, part natural, part reinforced with mortared stone, sitting quietly above the creek while joggers and cyclists pass a few yards away on Forbidden Drive.

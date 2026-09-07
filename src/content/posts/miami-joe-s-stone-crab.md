@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see it — that briny, buttery haze drifting off Washington Avenue as valets wave cars into a lot that's never quite big enough. Joe's Stone Crab has been doing this since 1913, and the building itself feels like it's absorbed a century of clattering trays and cracked shells: high ceilings, dark wood booths, black-and-white photos of old Miami on the walls, a dining room so large it swallows a Friday-night crowd and still fills back up an hour later.
 
 ## Why go

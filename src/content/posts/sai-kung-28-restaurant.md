@@ -59,8 +59,6 @@ aiGenerated: true
 draft: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why 28 Restaurant is worth the detour
 
 You won't stumble on this one by accident. It sits on Yi Chun Street, one street back from the crowds photographing Sai Kung's fishing boats, in a low-rise block that looks like housing rather than a dining strip.

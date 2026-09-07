@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sheung-wan-blake-garden
-srcHash: 'b2e11cc3480a'
+srcHash: '87aa88dedac8'
 title: 'Blake Garden: guía de viaje de Sheung Wan (4.0★)'
 description: 'Blake Garden, en Sheung Wan, es un pequeño parque de barrio situado entre Kui In Fong y Po Hing Fong, abierto todos los días de 7:30 a 22:00. 4.0★ (520 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Blake Garden, en Sheung Wan, es un pequeño parque de barrio situado entre Kui In Fong y Po Hing Fong, abierto todos los días de 7:30 a 22:00. Está más tranquilo las mañanas de entre semana, entre las 8:00 y las 10:00, y más concurrido las tardes de fin de semana, entre las 16:00 y las 21:00, así que conviene visitarlo temprano si se quieren los bancos para uno mismo. Basta con 15 a 30 minutos, y combina bien con un paseo por las Ladder Streets o una parada en el cercano Templo Man Mo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: La mayoría de los visitantes pasa entre 15 y 30 minutos, ya que se trata de un pequeño parque de barrio que combina bien con paradas cercanas como el Templo Man Mo o el PMQ.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Blake Garden se encuentra justo en el punto donde Kui In Fong se une con Po Hing Fong, un rincón de terrazas pavimentadas escalonadas en la ladera que se alza sobre Hollywood Road. No es un destino por el que nadie viaje hasta Hong Kong, y precisamente ahí radica su gracia. Se trata de un parque pensado para quienes viven en la colina que lo domina, y visitarlo significa bajar el ritmo durante media hora para adaptarse al suyo.
 

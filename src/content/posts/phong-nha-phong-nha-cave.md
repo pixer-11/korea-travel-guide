@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Phong Nha Cave is the reason this stretch of central Vietnam has a national park at all. It's a river cave you enter by boat, gliding under a limestone mouth wide enough to swallow a house, into chambers hung with stalactites that took hundreds of thousands of years to form.

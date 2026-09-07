@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phnom-penh-royal-palace-of-cambodia
-srcHash: 'f5cf32139c63'
+srcHash: 'b93e86274c78'
 title: 'Palacio Real de Camboya: guía de viaje de Phnom Penh (4,3★)'
 description: 'El Palacio Real de Camboya abre todos los días de 8:00 a 17:00; conviene llegar justo a la apertura, ya que es muy popular y los fines de semana se llena rápido después de las 10:00. 4,3★ (13.715 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Palacio Real de Camboya abre todos los días de 8:00 a 17:00; conviene llegar justo a la apertura, ya que es muy popular y los fines de semana se llena rápido después de las 10:00. Calcule entre 1 y 1,5 horas para recorrer el Salón del Trono, la Pagoda de Plata y los jardines del palacio. La vestimenta debe ser recatada, con hombros y rodillas cubiertos, o no le dejarán entrar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si sobra tiempo?
     a: El Museo Nacional de Camboya está a pocos minutos a pie hacia el norte, y tanto el paseo ribereño de Sisowath Quay como la pagoda Wat Ounalom se encuentran a poca distancia a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

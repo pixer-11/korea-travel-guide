@@ -94,8 +94,6 @@ aiGenerated: true
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Incheon Grand Park for space — the kind that's hard to find elsewhere in this dense port city. Rolling lawns fold into wooded hillside, and paths wind past ponds where herons stalk the shallows.

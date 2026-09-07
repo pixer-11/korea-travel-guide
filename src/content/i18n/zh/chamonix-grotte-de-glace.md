@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chamonix-grotte-de-glace
-srcHash: '8f847a5bbd08'
+srcHash: 'b0a81ce195db'
 title: 冰洞（Grotte de Glace）：夏慕尼（Chamonix）旅行指南（4.5★）
 description: 冰洞（Grotte de Glace）是在夏慕尼（Chamonix）上方的冰海冰川（Mer de Glace）中开凿出的一个冰洞，需先搭乘蒙唐维尔（Montenvers）齿轨小火车，再换乘缆车并沿台阶步行一小段才能到达。4.5★（1,315条评价）——游客怎么说、开放时间与实用小贴士。
 quickAnswer: 冰洞（Grotte de Glace）是在夏慕尼（Chamonix）上方的冰海冰川（Mer de Glace）中开凿出的一个冰洞，需先搭乘蒙唐维尔（Montenvers）齿轨小火车，再换乘缆车并沿台阶步行一小段才能抵达。从镇上往返大约需要预留半天时间，建议尽量早去，或选择平季（非旺季）的工作日前往，以避开正午时段缆车的排队高峰。即使是夏天，也请携带保暖衣物——冰川内部温度只略高于冰点。
@@ -17,8 +17,6 @@ faq:
   - q: 可以和夏慕尼的其他活动结合游览吗？
     a: 可以——许多游客会将其与南针峰缆车（Aiguille du Midi）或夏慕尼镇中心的漫步结合起来，徒步爱好者也常常加上普拉兹（Les Praz）或阿让蒂耶尔（Argentière）附近的步道，从地面高度欣赏同一片冰川景观。
 ---
-
-> **本指南制作方式：** 经编辑审校，并借助AI辅助完成。相关信息取自谷歌地图（Google Places）实时数据，图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么要去
 

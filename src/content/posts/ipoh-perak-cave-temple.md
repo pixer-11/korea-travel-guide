@@ -101,8 +101,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step through the entrance and the temperature drops ten degrees. The cave swallows the traffic noise from Jalan Kuala Kangsar behind you, and what's left is dripping stone, incense smoke curling toward a ceiling you can't quite see, and rows of gilded Buddha statues catching whatever light makes it in.

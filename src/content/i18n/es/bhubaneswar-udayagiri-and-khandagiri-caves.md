@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-udayagiri-and-khandagiri-caves
-srcHash: 'bd11fd1a5b9e'
+srcHash: '8503f2da0c87'
 title: 'Cuevas de Udayagiri y Khandagiri: Guía de viaje de Bhubaneswar'
 description: Udayagiri y Khandagiri son dos colinas gemelas excavadas en roca en el extremo occidental de Bhubaneswar, repletas de cuevas monásticas jainas del siglo I a. C. y coronadas por un templo jainista activo del siglo XVIII.
 quickAnswer: Udayagiri y Khandagiri son dos colinas gemelas excavadas en roca en el extremo occidental de Bhubaneswar, repletas de cuevas monásticas jainas del siglo I a. C. y coronadas por un templo jainista activo del siglo XVIII. Abierto todos los días de 6:30am a 7:30pm, el sitio está tranquilo cualquier mañana de entre semana pero se llena entre las 12pm y las 5pm los fines de semana, así que conviene ir a primera hora o al final de la tarde. Calcula entre 90 minutos y dos horas, concentrándote en Rani Gumpha y Hathi Gumpha en Udayagiri, y luego cruza la carretera hacia el más tranquilo Khandagiri, coronado por un templo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay tarifa de entrada?
     a: Por lo general hay una entrada de precio modesto con una tarifa distinta (más alta) para visitantes extranjeros y un cargo adicional por cámara, pero conviene confirmar los precios actuales en la puerta, ya que las tarifas cambian periódicamente.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

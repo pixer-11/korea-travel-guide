@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: provence-musee-granet
-srcHash: '5117ba961bb6'
+srcHash: 'fc398785f1ce'
 title: 格拉内博物馆(Musée Granet)：普罗旺斯旅行指南（4.4★）
 description: 格拉内博物馆(Musée Granet)位于艾克斯-普罗旺斯(Aix-en-Provence)的圣让德马耳他广场(Place Saint-Jean de Malte)，坐落在一座17世纪马耳他骑士团(Knights of Malta)旧修道院内，馆藏从塞尚(Cézanne)的画作到伦勃朗(Rembrandt)的自画像应有尽有。4.4★（4,877条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 格拉内博物馆(Musée Granet)位于艾克斯-普罗旺斯(Aix-en-Provence)的圣让德马耳他广场(Place Saint-Jean de Malte)，坐落在一座17世纪马耳他骑士团(Knights of Malta)旧修道院内，馆藏从塞尚(Cézanne)的画作到伦勃朗(Rembrandt)的自画像应有尽有。建议预留两到三小时游览时间，如果想让展厅少些人，工作日早上10点开馆时就去最合适——周末从中午到下午6点人流会逐渐增多。可以顺路逛逛马扎兰街区(Mazarin quarter)，因为博物馆离塞尚旧日工作室路线仅几步之遥。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些值得一并游览的地方？
     a: 圣救主大教堂(Cathédrale Saint-Sauveur)在博物馆以北约10分钟步行路程；米拉波大道(Cours Mirabeau)近在咫尺；里舍尔姆广场(Place Richelme)的集市大多数早上都会开市——这些都是安排博物馆行程的绝佳搭配。
 ---
-
-> **本指南制作方式说明：** 由编辑审核，并借助AI辅助完成。信息来自谷歌地图(Google Places)实时数据；图片均为授权使用或公共领域内容。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Madinat Jumeirah is Dubai playing dress-up as an old Arabian trading town, and it's convincing. Wind towers, sandstone facades, and a network of manmade waterways link three hotels — Mina A'Salam, Al Qasr, and the Dar Al Masyaf villas — with restaurants, bars, and a covered souk.

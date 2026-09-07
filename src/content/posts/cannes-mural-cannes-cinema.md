@@ -51,8 +51,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Cannes trades almost entirely on one image of itself — red carpet, tuxedos, flashbulbs on the Palais steps — and this mural is the town's attempt to put that whole mythology on a single wall you can actually walk right up to. It's a large-scale painted tribute to Cannes' century-long love affair with cinema, done in the loose, slightly theatrical style you find on gable walls across the Côte d'Azur, where a blank apartment facade becomes a stage set.

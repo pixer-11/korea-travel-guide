@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Stanley Promenade is the kind of place that rewards slowing down. It's a curved boardwalk hugging Stanley Bay, shaded by old trees, with the water lapping just beyond a low railing.

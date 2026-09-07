@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chengdu-chengdu-museum
-srcHash: '974237032c62'
+srcHash: '928b03c77db3'
 title: 'Museo de Chengdu: Guía de viaje (4,3★)'
 description: 'El Museo de Chengdu se encuentra en la plaza Tianfu, en el distrito de Qingyang, justo frente al Museo de Ciencia y Tecnología de Sichuan. La entrada es gratuita (hay que llevar documento de identidad o pasaporte para registrarse) y solo las galerías de cultura popular y ópera de Sichuan ya merecen dos o tres horas. 4,4★ (132 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Chengdu se encuentra en la plaza Tianfu, en el distrito de Qingyang, justo frente al Museo de Ciencia y Tecnología de Sichuan. La entrada es gratuita (hay que llevar documento de identidad o pasaporte para registrarse) y solo las galerías de cultura popular y ópera de Sichuan ya merecen dos o tres horas. Pasa bastante desapercibido frente al Museo del Sitio de Jinsha, al otro lado de la ciudad, así que aquí sí se puede contemplar las exhibiciones con calma, sin una multitud empujando por detrás.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita?
     a: La propia plaza Tianfu, con su estatua de Mao Zedong, está justo a la salida, y la zona comercial y de restaurantes de la calle Chunxi (Chunxi Road) queda a unos 10-15 minutos caminando.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

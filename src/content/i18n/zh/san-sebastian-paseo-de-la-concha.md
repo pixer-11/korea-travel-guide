@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-sebastian-paseo-de-la-concha
-srcHash: 'b6da33164645'
+srcHash: '84bc7350af4a'
 title: 拉贡查海滨大道（Paseo de La Concha）：圣塞巴斯蒂安旅行指南
 description: 拉贡查海滨大道是圣塞巴斯蒂安沿海的宏伟弧形步道，从港口和乌尔古尔山（Monte Urgull）一直延伸到伊格尔多山（Monte Igueldo）脚下的翁达雷塔海滩（Ondarreta）。
 quickAnswer: 拉贡查海滨大道是圣塞巴斯蒂安沿海的宏伟弧形步道，从港口和乌尔古尔山（Monte Urgull）一直延伸到伊格尔多山（Monte Igueldo）脚下的翁达雷塔海滩（Ondarreta）。清晨或日落时分是最佳漫步时间，此时拉贡查湾（La Concha bay）与圣克拉拉岛（Isla de Santa Clara）的光线最美；如果只是随意走走，安排45-60分钟即可，若中途下海游泳或看人潮，则需要更久。这里免费开放、全天候可通行，也颇负盛名，因此若想独享开阔的海景，最好避开中午旅行团扎堆的时段。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一并游览的地方？
     a: 东端是乌尔古尔山（Monte Urgull）及其古堡，近海处是圣克拉拉岛（Isla de Santa Clara），西端是翁达雷塔海滩（Ondarreta beach）和风之梳雕塑（Peine del Viento），再往前还有通往伊格尔多山（Monte Igueldo）的缆车。
 ---
-
-> **本指南制作说明：** 经编辑审核，AI辅助生成。相关信息取自Google Places实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么这条海滨大道值得一游
 

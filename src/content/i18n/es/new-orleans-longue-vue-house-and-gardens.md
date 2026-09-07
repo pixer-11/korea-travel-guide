@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-longue-vue-house-and-gardens
-srcHash: '0768f42498fc'
+srcHash: '3ee2b7bd3f96'
 title: 'Longue Vue House and Gardens: Guía de viaje de Nueva Orleans'
 description: 'Longue Vue House and Gardens es una finca de los años 40 de 8 acres cerca de City Park, que combina una mansión de artes decorativas con fuentes, estanques y jardines formales. 4.7★ (819 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Longue Vue House and Gardens es una finca de los años 40 de 8 acres cerca de City Park, que combina una mansión de artes decorativas con fuentes, estanques y jardines formales. Es tranquila y poco visitada en comparación con las grandes atracciones de la ciudad: ve justo a la apertura (de 8 a 9 a.m. entre semana) para encontrar los senderos más vacíos. Calcula entre 90 minutos y dos horas para la casa y los jardines.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinar visitas?
     a: City Park, el New Orleans Museum of Art y el Botanical Garden están a solo minutos de distancia, lo que hace que Longue Vue sea un complemento fácil para un día en City Park.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Te desvías de una calle residencial cerca de City Park y el ruido de la ciudad simplemente desaparece. Los robles vivos (live oaks) se inclinan sobre el camino, los setos recortados se alinean en filas ordenadas, y no hay fila ni multitud escaneando entradas: solo un sendero de grava y el sonido de una fuente en algún lugar adelante.
 

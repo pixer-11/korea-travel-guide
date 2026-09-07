@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: battambang-bamboo-train-battambang
-srcHash: '1a4aedd8aaaa'
+srcHash: '0e72933fded1'
 title: 'Tren de Bambú: Guía de Viaje a Battambang (4.0★)'
 description: 'El Tren de Bambú (norry) funciona a diario de 7:30 a 17:30 en un tramo de vía férrea antigua a las afueras de Battambang. 4.0★ (1.038 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Tren de Bambú (norry) funciona a diario de 7:30 a 17:30 en un tramo de vía férrea antigua a las afueras de Battambang. Conviene ir por la mañana, antes de que apriete el calor, y hay que contar con una tarifa por persona para el trayecto de ida y vuelta. Calcule entre una hora y 90 minutos en total, incluida la parada al final del recorrido. Tiene una valoración sólida de 4.0, aunque se trata de una atracción bastante peculiar y tranquila, no de esas imprescindibles que atraen multitudes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena combinarlo con algo más cercano?
     a: 'Sí: la mayoría de los visitantes lo combina con Phnom Sampov, que alberga una cueva de murciélagos y las cuevas de la muerte, ya que ambos lugares están en la misma carretera de salida de la ciudad.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

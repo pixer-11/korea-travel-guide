@@ -102,8 +102,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tao Dan Park is where District 1 comes to breathe. Wedged between busy streets a short walk from Ben Thanh Market, it's a canopy of century-old tропical trees — tamarind, banyan, and towering dầu — that drops the temperature and the noise level the moment you step under the gate.

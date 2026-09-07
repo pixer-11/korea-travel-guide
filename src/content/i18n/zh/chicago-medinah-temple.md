@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-medinah-temple
-srcHash: '79641d0aa3e3'
+srcHash: 'a63b1ed2ff72'
 title: 麦地那神庙：芝加哥旅行指南（4.2★）
 description: 麦地那神庙（Medinah Temple）位于芝加哥河北区（River North）600 N Wabash Ave，如今内部已改造成布鲁明戴尔家居店（Bloomingdale's Home & Furniture），但光是外观就值得专程一看。4.2★（322条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 麦地那神庙位于芝加哥河北区600 N Wabash Ave，如今内部已改造成布鲁明戴尔家居店，但光是外观就值得专程一看。建议选在工作日9am至5pm前往（周末闭店），逛店前后不妨在Wabash街边驻足，好好欣赏一番摩尔式穹顶与陶土立面。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得去的地方？
     a: Tree Studios就在拐角处；The Rookery Building和芝加哥Loop区的建筑群往南坐几站就到；Merchandise Mart及其沿河的建筑游船之旅则在往西几个街区的地方。
 ---
-
-> **本指南制作方式说明：** 编辑审核，AI辅助完成。信息来自Google Places实时数据，图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

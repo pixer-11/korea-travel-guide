@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The view from the Peak is the one postcard image everyone in Hong Kong recognizes, but Victoria Peak Lookout Point gives it to you without the theme-park scrum. You get the same jaw-dropping stack of skyscrapers, the harbour slicing between them, and Kowloon glowing on the far shore.

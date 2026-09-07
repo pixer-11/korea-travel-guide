@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't walk onto this bridge so much as talk yourself into it. The deck is glass, the drop below is close to 300 meters, and the canyon it spans cuts through Zhangjiajie's forested sandstone peaks like a green wound. Even people who've seen the photos underestimate how their knees react to the first few steps.

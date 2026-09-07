@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-ismail-samani-mausoleum
-srcHash: '6f373e581005'
+srcHash: '244d56584b97'
 title: 'Mausoleo de Ismail Samani: Guía de Viaje de Bujará (4.7★)'
 description: 'El Mausoleo de Ismail Samani se encuentra en el Parque Samánida de Bujará, abierto todos los días de 8:00 a 18:00, y basta con 20-30 minutos para visitarlo bien. 4.7★ (1.559 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mausoleo de Ismail Samani se encuentra en el Parque Samánida de Bujará, abierto todos los días de 8:00 a 18:00, y basta con 20-30 minutos para visitarlo bien. Conviene ir justo a la apertura —los momentos de menor afluencia son de 8:00 a 9:00 entre semana y de 8:00 a 10:00 los fines de semana— antes de que lleguen los autobuses turísticos y el ladrillo de terracota se llene de cámaras. Recorrer los jardines que lo rodean es gratuito, lo que convierte a este lugar en uno de los grandes atractivos de Bujará más fáciles de encajar en una mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: El mausoleo se halla dentro de un parque público y no tiene taquilla propia en la propia estructura. El coste de entrada, si lo hubiera para el parque o el sitio, puede variar, así que conviene revisar la señalización vigente o preguntar localmente al llegar.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

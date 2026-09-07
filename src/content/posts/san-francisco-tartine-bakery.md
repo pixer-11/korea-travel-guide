@@ -68,8 +68,6 @@ faq:
     a: There are a handful of tables, but they fill quickly, especially on weekends. Most visitors grab their order to go and eat nearby, such as at Dolores Park a few minutes' walk away.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tartine still pulls a line
 
 You smell it before you see the sign: butter, scorched sugar, the faint tang of fermenting dough drifting out the propped-open door onto Guerrero Street. Tartine Bakery has been a fixture of the Mission District since 2002, and it's the kind of place that shaped how a generation of American bakeries think about bread — that dark, blistered country loaf under the glass, the pastry case stacked with croissants glazed like stained glass.

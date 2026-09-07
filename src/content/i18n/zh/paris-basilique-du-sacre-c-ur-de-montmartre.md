@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-basilique-du-sacre-c-ur-de-montmartre
-srcHash: '47bba2ad564e'
+srcHash: '27fff612bcb2'
 title: 蒙马特圣心大教堂(Basilique du Sacré-Cœur de Montmartre):巴黎旅行指南
 description: 圣心大教堂(Sacré-Cœur)每日开放时间为早上6:30至晚上10:30，教堂本体免费参观(登顶穹顶和参观地下墓室需另付少量费用)。
 quickAnswer: 圣心大教堂(Sacré-Cœur)每日开放时间为早上6:30至晚上10:30，教堂本体免费参观(登顶穹顶和参观地下墓室需另付少量费用)。建议在开门时或周末上午10点前前往，以避开人潮——周六、周日上午11点后，台阶和广场很快就会挤满人。可乘坐地铁2号线(Métro Line 2)至安特韦普站(Anvers)，沿斯坦克尔克街(Rue de Steinkerque)向上步行前往，或从圣皮埃尔广场(Place Saint-Pierre)乘坐缆车上山。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些值得一游的地方？
     a: 小丘广场(Place du Tertre，画像艺术家聚集地)、位于索勒街(Rue des Saules)的蒙马特葡萄园，以及达利博物馆(Dalí Paris)和蒙马特博物馆(Montmartre museums)都在步行10到15分钟的范围内。
 ---
-
-> **本指南制作方式：** 由编辑审校，并借助AI辅助完成。相关信息来自Google Places实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

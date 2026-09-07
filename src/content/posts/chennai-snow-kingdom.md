@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Snow Kingdom feels like a trick
 
 You step off the humid East Coast Road, past the gates of VGP Universal Kingdom, and into a room where your breath actually shows. In a city where March feels like an oven, that's the whole appeal.

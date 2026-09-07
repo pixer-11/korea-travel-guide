@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see it. Grilled skewers, fried garlic, the sugary drift of a bubble-waffle stand — Fashion Walk Food Street announces itself down a side lane of Causeway Bay's Fashion Walk precinct, a stretch of open-fronted restaurants and quick-eat counters wedged between clothing boutiques.
 
 It's not a single restaurant but a strip: a run of independently run kitchens sharing outdoor-facing seating and a shared, unhurried rhythm. Neon signage overhead, plastic stools spilling onto the pavement, staff calling orders through open kitchens — it feels closer to a night-market lane than a mall food court.

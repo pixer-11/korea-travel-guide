@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Sheung Yiu Folk Museum is in Sai Kung Country Park, in the New Territories, near the Pak Tam Chung entrance to the park.
 
 ## What you're actually looking at

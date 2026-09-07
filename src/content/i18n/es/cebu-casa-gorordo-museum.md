@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cebu-casa-gorordo-museum
-srcHash: '9f7833b9bb27'
+srcHash: '972b0c1326dd'
 title: 'Museo Casa Gorordo: Guía de viaje de Cebú (4.6★)'
 description: 'El Museo Casa Gorordo es una casa mestiza filipino-china de la década de 1850 restaurada, situada en el antiguo distrito de Parián, en la ciudad de Cebú, abierta todos los días de 9:00 a 17:00 excepto los domingos. 4.6★ (1.249 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Casa Gorordo es una casa mestiza filipino-china de la década de 1850 restaurada en el antiguo distrito de Parián, en la ciudad de Cebú, abierta todos los días de 9:00 a 17:00 excepto los domingos. Conviene reservar entre 45 y 60 minutos para recorrer esta vivienda de piedra coralina y madera noble, y luego demorarse un rato en el café del patio. Es un lugar conocido, pero rara vez está abarrotado, así que las mañanas de entre semana resultan tranquilas y sin prisas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿La entrada es con guía o de forma libre?
     a: 'La entrada incluye un recorrido guiado por la casa, que es la mejor manera de conocerla: aquí no está pensado para pasear en solitario.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Basta con cruzar una estrecha puerta desde Eduardo Aboitiz Street para que el bullicio de la ciudad de Cebú desaparezca de golpe. Dentro aguarda un patio de piedra en penumbra, una escalera de madera noble pulida por generaciones de pisadas y un silencio que invita a bajar la voz sin siquiera pensarlo.
 

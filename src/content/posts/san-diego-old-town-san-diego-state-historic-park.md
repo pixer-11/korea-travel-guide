@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Old Town isn't a recreation — it sits on the actual site of San Diego's first non-native settlement. You're walking on ground where California became a state, not a studio backlot.

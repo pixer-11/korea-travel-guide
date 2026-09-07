@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a sightseeing ride bolted on for tourists. It's daily infrastructure, built in 1993 to move office workers up a hillside too steep for comfortable walking.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hong-kong-hong-kong-disneyland
-srcHash: '6a4ee21a5544'
+srcHash: '7bcf33bee32c'
 title: 홍콩 디즈니랜드 여행 가이드
 description: 홍콩 디즈니랜드(Hong Kong Disneyland)는 란타우 섬(Lantau Island)에 위치하며, 퉁충선(Tung Chung Line)의 서니 베이(Sunny Bay) MTR 역에서 전용 노선인 디즈니랜드 리조트 라인(Disneyland Resort Line)을 통해 갈 수 있습니다.
 quickAnswer: 홍콩 디즈니랜드(Hong Kong Disneyland)는 란타우 섬(Lantau Island)에 위치하며, 퉁충선(Tung Chung Line)의 서니 베이(Sunny Bay) MTR 역에서 전용 노선인 디즈니랜드 리조트 라인(Disneyland Resort Line)을 통해 갈 수 있습니다. 일곱 개의 테마 랜드를 모두 둘러보려면 하루 종일(9~10시간) 시간을 잡아두는 것이 좋고, 온라인으로 미리 특정 날짜의 티켓을 예약해 두는 것이 좋습니다. 또한 무료 디즈니랜드 앱을 이용해 도착하자마자 놀이기구 대기 시간을 확인하고 가장 인기 있는 어트랙션의 가상 대기열(버추얼 큐) 자리를 잡아두세요.
@@ -17,8 +17,6 @@ faq:
   - q: 방문을 연장하고 싶다면 근처에 무엇이 있나요?
     a: 홍콩 디즈니랜드 호텔(Hong Kong Disneyland Hotel)과 디즈니 익스플로러스 롯지(Disney Explorers Lodge)는 모두 도보 거리에 있어 하룻밤 묵기에 좋습니다. 또한 서니 베이 역(Sunny Bay Station)에서는 퉁충(Tung Chung)이나 응옹핑 360(Ngong Ping 360)을 포함한 란타우 섬의 다른 명소로도 쉽게 연결되어, 여러 명소를 함께 묶어 둘러볼 수 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검토 및 AI 지원으로 제작되었습니다. 사실 정보는 실시간 구글 플레이스(Google Places) 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 서니 베이(Sunny Bay)에서 기차를 내려 디즈니랜드 리조트 라인(Disneyland Resort Line)으로 환승하는 순간, 이미 평범한 홍콩을 벗어났다는 것을 느끼게 됩니다. 객차 창문은 미키마우스 귀 모양을 하고 있고, 손잡이는 같은 실루엣이 새겨진 금빛 장식으로 되어 있어, 단 2분의 짧은 여정이 마치 본 공연에 앞선 워밍업처럼 느껴집니다. 열차가 디즈니랜드 리조트 역(Disneyland Resort Station)에 도착하면, 구리빛 돔 지붕과 잘 다듬어진 조경수로 이루어진 건물 자체가 앞으로 펼쳐질 분위기를 미리 보여줍니다.
 

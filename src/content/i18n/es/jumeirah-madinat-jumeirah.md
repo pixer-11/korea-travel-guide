@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jumeirah-madinat-jumeirah
-srcHash: 'ae13975c74fa'
+srcHash: '77299fd5038a'
 title: 'Madinat Jumeirah: Guía de viaje (4.7★)'
 description: 'Madinat Jumeirah es el resort de estilo árabe surcado de canales de Dubái, en Jumeirah, con un zoco moderno, restaurantes junto al agua y vistas del Burj Al Arab al otro lado del canal. 4.7★ (12.776 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Madinat Jumeirah es el resort de estilo árabe surcado de canales de Dubái, en Jumeirah, con un zoco moderno, restaurantes junto al agua y vistas del Burj Al Arab al otro lado del canal. Ve al final de la tarde para recorrer los callejones sombreados del zoco antes del atardecer, y luego toma un abra hasta un bar frente al agua para ver el perfil de la ciudad iluminarse. Es un lugar muy visitado, así que procura ir un día laborable por la mañana o justo en esa hora dorada previa al atardecer para evitar las horas de más afluencia.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita?
     a: El Burj Al Arab y Jumeirah Beach están prácticamente al lado, y el parque acuático Wild Wadi se encuentra justo junto al complejo del resort.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

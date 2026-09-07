@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kai Bae stands out
 
 Kai Bae doesn't announce itself the way Koh Chang's bigger beaches do. It's really three coves stitched together by rocky headlands, so instead of one uniform stretch of sand you get pockets — some busy with beach chairs, others nearly empty at low tide.

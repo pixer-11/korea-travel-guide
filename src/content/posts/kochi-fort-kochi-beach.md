@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fort Kochi Beach isn't a postcard tropical beach — the sand is grey-brown, the water isn't for swimming. What draws you here is the silhouette of the giant cantilevered Chinese fishing nets, locally called *cheena vala*, strung along the shore like the ribs of some enormous kite.

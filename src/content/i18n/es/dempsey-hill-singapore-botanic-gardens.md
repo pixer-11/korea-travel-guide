@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'daa18b3243c5'
+srcHash: '1702196fbad0'
 title: 'Jardines Botánicos de Singapur: Guía de viaje de Dempsey Hill (4.7★)'
 description: 'Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, ubicado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. 4.7★ (46.749 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, situado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. Conviene llegar temprano —antes de las 9:00 los fines de semana— para evitar las multitudes, y luego comenzar por el Jardín Nacional de Orquídeas antes de dirigirse hacia el Lago de los Cisnes (Swan Lake). Hay que reservar entre dos y tres horas, o más si después se quiere disfrutar de un brunch con calma en Dempsey.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para comer después?
     a: Dempsey Hill queda a 5-10 minutos a pie desde las puertas de Nassim o Tanglin, y reúne un buen número de restaurantes de precio medio a alto instalados en antiguos edificios coloniales.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

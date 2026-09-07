@@ -40,8 +40,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Plaça Nova is worth a detour
 
 Most visitors rush past this square on the way to the Cathedral doors. That's the mistake. Plaça Nova is where Barcelona actually shows you its layers, if you stop for even five minutes.

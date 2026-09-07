@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cappadocia-uchisar-castle
-srcHash: '76c084615423'
+srcHash: 'd85cab4a41d4'
 title: 'Castillo de Uchisar: guía de viaje de Capadocia (4,6★)'
 description: 'El castillo de Uchisar es el punto natural más alto de Capadocia, una ciudadela rocosa horadada como un panal en el pueblo de Uçhisar, abierta todos los días de 7:00 a 21:00, con vistas panorámicas sobre el Valle de las Palomas y Göreme. 4,6★ (32.336 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El castillo de Uchisar es el punto natural más alto de Capadocia: una ciudadela rocosa horadada como un panal en el pueblo de Uçhisar, abierta todos los días de 7:00 a 21:00, con vistas panorámicas sobre el Valle de las Palomas y Göreme. Conviene reservar entre 45 y 60 minutos para la subida y la plataforma de observación. Los fines de semana se llena de gente entre las 10:00 y las 19:00, así que lo mejor es ir a primera hora de la mañana o en la última hora antes del cierre.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es accesible el castillo de Uchisar para personas con problemas de movilidad?
     a: 'No: el camino hasta la cima incluye escalones de piedra empinados e irregulares, además de pasadizos estrechos, sin ascensor ni ruta pavimentada.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

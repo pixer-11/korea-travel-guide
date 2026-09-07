@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Toqi Zargaron matters
 
 You come across it almost by accident, following the flow of the old bazaar streets. Suddenly the ceiling lifts into a cool brick dome pierced with small oculus windows, and the light falls in dusty shafts onto the stalls below. This is Toqi Zargaron, the Dome of the Jewelers, one of the last intact trading domes from Bukhara's Silk Road heyday.

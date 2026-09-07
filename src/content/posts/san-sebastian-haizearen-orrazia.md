@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the change before you see it. Walking west along Ondarreta, the manicured promenade — joggers, prams, ice-cream cones — starts to thin out, the buildings give way to bare cliff, and the wind, funneled between Monte Igueldo and the open Atlantic, suddenly has real weight behind it. That's the point. Eduardo Chillida placed his three rust-red iron claws exactly where the sea narrows and the swell piles up against the rocks, so the sculptures don't just sit in the landscape — they seem to be wrestling with it.

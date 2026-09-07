@@ -110,8 +110,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kordon is the sea-facing spine of Alsancak, the promenade every İzmirli ends up on eventually. It runs along the Gulf of Izmir, palm-lined and wide, with the water on one side and a wall of cafés, tea gardens and old apartment blocks on the other.

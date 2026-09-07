@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-avenue-of-stars-hk
-srcHash: 'f55dce19ffb0'
+srcHash: '8f5f7fd8c085'
 title: 'Avenue of Stars en Hong Kong: Guía de viaje de Tsim Sha Tsui (4.3★)'
 description: 'La Avenue of Stars se encuentra en el paseo marítimo de Tsim Sha Tsui, a poca distancia a pie del embarcadero del Star Ferry, con la estatua de Bruce Lee y decenas de placas de huellas que rinden homenaje al cine de Hong Kong. 4.3★ (17,298 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: La Avenue of Stars se encuentra en el paseo marítimo de Tsim Sha Tsui, a poca distancia a pie del embarcadero del Star Ferry, con la estatua de Bruce Lee y decenas de placas de huellas que rinden homenaje al cine de Hong Kong. Está abierta las 24 horas y la entrada es gratuita. Conviene ir entre las 7:00 y las 9:00 para tener el paseo casi para uno mismo, ya que a media tarde los fines de semana se llena hasta las 23:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Centro Cultural de Hong Kong, el Museo de Arte, el Museo del Espacio y la Torre del Reloj están todos a pocos minutos a pie por el mismo paseo marítimo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

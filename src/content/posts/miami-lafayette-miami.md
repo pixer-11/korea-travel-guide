@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Lafayette earns the detour
 
 You could easily drive past 1111 SW 1st Ave without noticing it — this stretch of the Roads neighborhood, tucked between Brickell's glass towers and the quieter residential grid west of the Miami River, isn't where visitors usually go looking for a meal. That's exactly what makes Lafayette worth seeking out. A 4.9 rating across more than 800 reviews is an unusually high, consistent score for any restaurant, let alone one operating outside the more heavily trafficked corridors of Brickell Avenue or the Design District.

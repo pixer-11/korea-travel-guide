@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-supertree-grove
-srcHash: 'd89c72f46114'
+srcHash: '417ea37f6cb8'
 title: 'Supertree Grove: Guía de viaje de Marina Bay (4,7★)'
 description: 'Supertree Grove se encuentra en Gardens by the Bay, junto al malecón de Marina Bay, al lado de Marina Bay Sands. 4,7★ (54.520 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Supertree Grove se encuentra en Gardens by the Bay, junto al malecón de Marina Bay, al lado de Marina Bay Sands. Abre de 5:00 a 2:00 todos los días, pero el verdadero motivo para ir es el espectáculo gratuito de luz y sonido Garden Rhapsody, que tiene lugar cada noche a las 19:45 y a las 20:45. Conviene llegar antes de las 19:00 para hacerse con un buen sitio en el césped antes de que se llene de gente.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento del día para visitarlo?
     a: A partir de las 17:00, ya avanzada la tarde, para evitar el calor del mediodía y estar ya instalado antes de que comiencen los espectáculos de luces nocturnos.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

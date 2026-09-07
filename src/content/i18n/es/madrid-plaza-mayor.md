@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-plaza-mayor
-srcHash: '626bed81f9be'
+srcHash: '072c2bf81b24'
 title: 'Plaza Mayor: Guía de viaje de Madrid'
 description: 'La Plaza Mayor es la gran plaza porticada del siglo XVII de Madrid, en el distrito de Centro, a cinco minutos a pie al sur de la Puerta del Sol: merece la pena por su arquitectura y la estatua ecuestre de Felipe III, pero conviene comer en otro sitio, ya que los cafés de los soportales tienen precios pensados para turistas.'
 quickAnswer: 'La Plaza Mayor es la gran plaza porticada del siglo XVII de Madrid, en el distrito de Centro, a cinco minutos a pie al sur de la Puerta del Sol: merece la pena por su arquitectura y la estatua ecuestre de Felipe III, pero conviene comer en otro sitio, ya que los cafés de los soportales tienen precios pensados para turistas. Ve a primera hora de la mañana o después del anochecer para verla sin aglomeraciones; al mediodía está abarrotada.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene comer en los cafés de la plaza?
     a: Son prácticos para tomar un café, pero tienen precios para turistas. Para mejor relación calidad-precio y mejor comida, camina dos minutos hasta los bares de tapas de Cava Baja o al Mercado de San Miguel.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

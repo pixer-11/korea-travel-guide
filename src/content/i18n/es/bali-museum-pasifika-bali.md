@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-museum-pasifika-bali
-srcHash: '1bd263103c8f'
+srcHash: '6c27e6fba958'
 title: 'Museo Pasifika: Guía de viaje de Bali (4,6★)'
 description: 'El Museo Pasifika Bali se encuentra dentro del complejo turístico de Nusa Dua (zona BTDC/ITDC), en Benoa, South Kuta, y abre todos los días de 10:00 a 18:00. 4,6★ (821 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Pasifika Bali se encuentra dentro del complejo turístico de Nusa Dua (zona BTDC/ITDC), en Benoa, South Kuta, y abre todos los días de 10:00 a 18:00. Los momentos de menor afluencia son los días laborables entre las 17:00 y las 18:00, o las mañanas de fin de semana entre las 10:00 y las 11:00; conviene evitar las tardes de fin de semana entre las 15:00 y las 17:00, cuando se llena. Conviene reservar entre 1,5 y 2 horas para recorrer sus 11 pabellones de arte asiático-pacífico.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es una buena opción para ir con niños?
     a: 'Sí: la descripción editorial lo señala como apto para niños, gracias a la variedad de formas artísticas, los patios abiertos y el espacio suficiente para que los pequeños se muevan entre pabellones sin sentirse encerrados.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Un museo de arte serio es lo último que uno esperaría encontrar entre los cuidados jardines de los complejos hoteleros de Nusa Dua, y precisamente por eso el Museo Pasifika Bali sorprende a quien lo visita. Está dentro del complejo turístico ITDC/BTDC, en Benoa, rodeado de hoteles de cinco estrellas y campos de golf, en un edificio de estilo balinés-javanés con patios, techos de tejas y tallas de piedra que recuerdan más a un templo que a una galería.
 

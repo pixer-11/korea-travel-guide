@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nowhere else on Earth do Komodo dragons roam wild except this cluster of volcanic islands. You come for the dragons, but you stay for the scenery: pink-tinged beaches, turquoise bays, and hills that turn the color of toasted bread by late afternoon.

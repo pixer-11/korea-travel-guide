@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tsim-sha-tsui-tsim-sha-tsui-promenade
-srcHash: '1c89c51d5710'
+srcHash: '1c64bb99d213'
 title: 'Paseo Marítimo de Tsim Sha Tsui: Guía de Viaje (4.5★)'
 description: 'El Paseo Marítimo de Tsim Sha Tsui (Tsim Sha Tsui Promenade) es el camino frente al mar a lo largo del Puerto Victoria, con vistas al perfil urbano de la Isla de Hong Kong: gratuito, abierto las 24 horas y más tranquilo temprano por la mañana, antes de que lleguen los autobuses turísticos. 4.5★ (119 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Paseo Marítimo de Tsim Sha Tsui es el camino frente al mar a lo largo del Puerto Victoria, con vistas al perfil urbano de la Isla de Hong Kong: gratuito, abierto las 24 horas y más tranquilo temprano por la mañana, antes de que lleguen los autobuses turísticos. Ven por la vista, la Avenida de las Estrellas (Avenue of Stars) y el espectáculo Symphony of Lights a las 8pm, pero puedes pasear por aquí a cualquier hora para disfrutar de aire fresco y cielo abierto, algo poco común en esta ciudad tan densa.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debo destinar a la visita?
     a: Calcula entre 45 minutos y una hora para recorrerlo, o más si te quedas a ver el espectáculo de luces nocturno o continúas hacia el Kowloon Park o Harbour City, que están cerca.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

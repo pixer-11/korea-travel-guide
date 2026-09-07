@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell Man Mo Temple before you see it. Sandalwood smoke drifts out onto Hollywood Road, thick enough to catch in your throat on a still morning.

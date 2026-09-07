@@ -54,8 +54,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this bar, and not another one
 
 Rome has no shortage of corner bars pulling espresso, but Sant' Eustachio has been doing it since 1938, and the difference shows the moment you step through the door. The espresso here is famously dense — almost syrupy — with a thick, persistent crema that sits on top like caramel. The house claims the beans are roasted on an old wood-fired roaster still visible through a window at the back, and that the water used is drawn from a source linked to the ancient Vergine aqueduct, the same underground channel that has fed fountains in this part of Rome since Roman times.

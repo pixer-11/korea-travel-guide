@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-colonne-di-san-lorenzo
-srcHash: '1254f4e8e099'
+srcHash: '855994d59784'
 title: 'Colonne di San Lorenzo: Guía de viaje de Milán (4,4★)'
 description: 'Las Colonne di San Lorenzo son 16 columnas romanas de mármol ubicadas en Corso di Porta Ticinese, justo frente a la Basilica di Sant''Eustorgio, abiertas las 24 horas por tratarse de un monumento callejero al aire libre. 4,4★ (447 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Colonne di San Lorenzo son 16 columnas romanas de mármol ubicadas en Corso di Porta Ticinese, justo frente a la Basilica di Sant'Eustorgio, abiertas las 24 horas por tratarse de un monumento callejero al aire libre. Reserva de 15 a 20 minutos para observarlas, fotografiarlas y leer las placas, y súmalo a un paseo por el barrio Ticinese hasta los canales Navigli. Está menos concurrido temprano por la mañana o entre semana por la tarde, antes de que la multitud del aperitivo tome los escalones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más vale la pena ver cerca?
     a: La Basilica di Sant'Eustorgio, justo detrás de las columnas (no te pierdas la Capilla Portinari), la Basilica di San Lorenzo Maggiore, que es un edificio distinto, con su pequeño parque, y el barrio de los canales Navigli, a pocos minutos caminando hacia el sur.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

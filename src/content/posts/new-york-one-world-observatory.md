@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come out of the security line into a low, dark hallway, and before you've fully adjusted, the elevator doors close and the floor beneath you seems to disappear. In under a minute, LED panels wrapping the elevator car simulate the growth of New York City from forest to skyline, and the actual elevator is climbing over 100 floors at roughly 20 miles an hour while you watch it happen.

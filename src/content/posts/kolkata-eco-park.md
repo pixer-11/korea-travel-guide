@@ -55,8 +55,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Eco Park is worth the trip
 
 You come to Eco Park for space — something Kolkata proper rarely offers. Spread across roughly 480 acres in New Town, it's one of the largest planned urban parks in India, built around a massive central lake called Prakriti Tirtha.

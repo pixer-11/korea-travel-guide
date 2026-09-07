@@ -116,8 +116,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot it long before you reach it — a tapering column of honey-colored brick punching through the skyline of old Bukhara. Built in 1127, the Kalan Minaret has survived earthquakes, Genghis Khan's army (legend says he spared it, awed by its height), and nearly nine centuries of desert wind. It's the anchor of the Poi Kalan complex, and once you're standing at its base, you understand why it dominated this city's skyline for so long.

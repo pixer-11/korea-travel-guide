@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-national-museum-of-archaeology
-srcHash: '99034e217ff8'
+srcHash: 'c8aa544fdebb'
 title: 国家考古博物馆:马德里旅行指南(4.7★)
 description: 马德里国家考古博物馆(Museo Arqueológico Nacional, MAN)位于萨拉曼卡区(Salamanca)的塞拉诺大街(Calle de Serrano)上，毗邻国家图书馆，馆藏包罗万象，从伊比利亚雕塑、罗马镶嵌画到伊斯兰陶器，还有阿尔塔米拉洞穴的等比例复制品。4.7★(28,588条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 马德里国家考古博物馆(Museo Arqueológico Nacional, MAN)位于萨拉曼卡区(Salamanca)的塞拉诺大街(Calle de Serrano)上，毗邻国家图书馆，馆藏包罗万象，从伊比利亚雕塑、罗马镶嵌画到伊斯兰陶器，还有阿尔塔米拉洞穴的等比例复制品。建议预留两到三个小时，最好在工作日晚上8点到9点左右前往，这时人最少;如果周末上午到访，则要预料到会排队。步行即可轻松串联丽池公园(Retiro park)或"黄金三角"艺术博物馆群，距离都不远。
@@ -17,8 +17,6 @@ faq:
   - q: 著名的阿尔塔米拉洞穴壁画是真品吗?
     a: 不是，这是博物馆地下层一件等比例、忠实还原的复制品。位于坎塔布里亚(Cantabria)的真正阿尔塔米拉洞穴为保护壁画已不对公众开放参观，因此这是近距离欣赏它们最便捷的方式。
 ---
-
-> **本指南制作方式:** 由编辑审核、AI辅助完成。事实信息来自Google Places实时数据；图片均获得授权或属于公共领域。参见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

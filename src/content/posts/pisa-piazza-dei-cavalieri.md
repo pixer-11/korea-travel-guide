@@ -83,8 +83,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why bother with a second square
 
 Everyone in Pisa beelines for the Tower and never looks back. That's the reason to come here.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-strat-skypod
-srcHash: '4965ef53a780'
+srcHash: '49047da87c44'
 title: STRAT SkyPod（云霄塔）：拉斯维加斯旅行指南
 description: STRAT SkyPod 位于 STRAT 酒店塔楼顶部，地址为 2000 S Las Vegas Blvd，坐落在拉斯维加斯大道（the Strip）北端，从100多层高处俯瞰360度全景。
 quickAnswer: STRAT SkyPod 位于 STRAT 酒店塔楼顶部，地址为 2000 S Las Vegas Blvd，坐落在拉斯维加斯大道（the Strip）北端，能从100多层高处欣赏360度全景，还有一组刺激的游乐设施（Big Shot、Insanity、X-Scream、SkyJump）。建议预留1.5-2小时游玩时间，日落时分光线最佳，而且排队时间明显比大道南段的热门景点要短。这里获得超过1,000条评价、4.5分的好评，如果你住在主赌场区以北的话，这绝对是一个被低估的加分项目。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想顺路游览其他景点，附近有什么？
     a: 霓虹博物馆（Neon Museum）和弗里蒙特街体验区（Fremont Street Experience）向北乘车不远即可到达，而 Sahara 和 Circus Circus 度假村则在南边步行可达的距离内。
 ---
-
-> **本指南制作方式：** 经编辑审核，AI辅助完成。数据来自 Google Places 实时信息；图片均为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

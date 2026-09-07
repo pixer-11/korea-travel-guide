@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bunol-posada-venta-pilar
-srcHash: 'ec04ee35fc40'
+srcHash: 'd5cdabe87275'
 title: Posada Venta Pilar：布尼奥尔（Buñol）美食何处寻
 description: Posada Venta Pilar 是一家17世纪的路边客栈，坐落在 Av. Pérez Galdós 大道上，从布尼奥尔（Buñol）老城及著名的番茄大战（Tomatina）路线步行即可到达，供应丰盛地道的瓦伦西亚家常菜。
 quickAnswer: Posada Venta Pilar 是一家17世纪的路边客栈，坐落在 Av. Pérez Galdós 大道上，从布尼奥尔（Buñol）老城及著名的番茄大战（Tomatina）路线步行即可到达，围绕着一处石砌庭院供应丰盛地道的瓦伦西亚家常菜。这里名气不小，算不上什么秘密去处，因此周末及8月下旬前后（此时番茄大战人潮涌入小镇）最好提前预订。不妨点一份烤饭（arroz al horno）或享用一顿悠长的午市套餐，然后再去布尼奥尔的城堡区逛逛。
@@ -17,8 +17,6 @@ faq:
   - q: 用餐之余，附近还有哪些值得一并游览的地方？
     a: 布尼奥尔城堡（Buñol Castle）和老城的桥梁步行即可到达，如果正值节庆季节前来，番茄博物馆（Museo del Tomate）也值得一去。
 ---
-
-> **本指南制作说明：** 经编辑审校，并借助人工智能辅助完成。相关信息来自 Google Places 实时数据；图片均为授权使用或来自公共版权领域。详见我们的[编辑政策](/about)。
 
 还没看清招牌，你就已经先闻到了这里的味道——柴烟味、慢炖酱汁（sofrito）翻滚的香气，还有兔肉或鸭肉小火慢煨的气息。Posada Venta Pilar 坐落在 Av. Pérez Galdós 大道上，这是从瓦伦西亚方向通往布尼奥尔（Buñol）市中心的道路之一，而这栋建筑本身，早在有人递上菜单之前，就已经说明了一切：厚实的石墙、因岁月而变得深沉的木梁天花板，还有一处内庭院，光线在其中洒下一道明亮的矩形，落在斑驳的石板路上。
 

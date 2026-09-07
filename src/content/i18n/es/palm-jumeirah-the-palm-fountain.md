@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palm-jumeirah-the-palm-fountain
-srcHash: '5972809bf339'
+srcHash: '2b7492ac7d30'
 title: 'The Palm Fountain: guía de viaje de Palm Jumeirah (4,5★)'
 description: 'The Palm Fountain se encuentra en The Pointe, en Palm Jumeirah, con espectáculos todas las noches de 18:00 a 22:30 (los sábados y domingos se extiende hasta medianoche). 4,5★ (2.898 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: The Palm Fountain se encuentra en The Pointe, en Palm Jumeirah, con espectáculos todas las noches de 18:00 a 22:30 (los sábados y domingos se extiende hasta medianoche). Conviene llegar antes de las 19:30 para conseguir un sitio junto a la barandilla antes de los primeros grandes espectáculos, y aprovechar para cenar en alguno de los restaurantes frente al agua de The Pointe. Ver el espectáculo es gratis, y una vez cae la noche las funciones se repiten aproximadamente cada 30 minutos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: La mayoría de los visitantes dedica entre 45 minutos y una hora, tiempo suficiente para ver uno o dos ciclos del espectáculo y recorrer el paseo. Conviene sumar tiempo extra si antes se va a cenar en alguno de los restaurantes de The Pointe.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

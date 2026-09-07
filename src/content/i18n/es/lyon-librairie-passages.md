@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-librairie-passages
-srcHash: '0fd664f1dab3'
+srcHash: 'b69e41d1db15'
 title: 'Librairie Passages: guía de viaje de Lyon (4,8★)'
 description: 'Librairie Passages es una librería independiente situada en 11 Rue de Brest, en el distrito 2 de Lyon, abierta de martes a sábado y cerrada domingo y lunes. 4,8★ (809 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Librairie Passages es una librería independiente situada en 11 Rue de Brest, en el distrito 2 de Lyon, abierta de martes a sábado y cerrada domingo y lunes. Ve un día de la semana a media mañana, justo después de la apertura a las 10:00, antes de que lleguen los que curiosean a la hora del almuerzo, para disfrutar de un paseo tranquilo entre las estanterías. Calcula entre 30 y 45 minutos, más si te gusta rebuscar entre los estantes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Tienen libros en inglés?
     a: 'No demasiados: se trata principalmente de una librería independiente en francés. Si tu nivel de francés es limitado, pide al personal libros ilustrados, novela gráfica o títulos de fotografía.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

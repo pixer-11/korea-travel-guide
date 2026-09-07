@@ -102,8 +102,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this place, not just another aquarium
 
 You notice the scale before anything else. This isn't a mall aquarium bolted onto a shopping complex — it's a national research institution with its own campus of pavilions facing the Taiwan Strait, and the building itself, with its sail-like white roofline, is visible from the coast road well before you arrive.

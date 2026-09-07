@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genting-highlands-skytropolis-indoor-theme-park
-srcHash: '5902e60cc250'
+srcHash: '6821c27b4dcb'
 title: 'Skytropolis Indoor Theme Park: guía de viaje de Genting Highlands'
 description: 'Skytropolis Indoor Theme Park está en el Nivel 1 de First World Plaza, en Resorts World Genting, abierto todos los días de 11:00 a 21:00 (hasta las 22:00 los sábados). 4.0★ (3,070 reseñas): esto dicen los visitantes, horarios y consejos.'
 quickAnswer: Skytropolis Indoor Theme Park está en el Nivel 1 de First World Plaza, en Resorts World Genting, y abre todos los días de 11:00 a 21:00 (hasta las 22:00 los sábados). Es una alternativa climatizada al clima brumoso y a menudo lluvioso de las Highlands, con más de 20 atracciones —desde carruseles hasta montañas rusas— bajo un techo abovedado de cristal. Conviene ir justo a la apertura, a las 11:00, o después de las 19:00 para evitar la avalancha de las vacaciones escolares.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitarlo si el clima afuera es malo?
     a: 'Sí: es completamente cerrado y climatizado, lo que lo convierte en una de las mejores opciones en Genting Highlands cuando la cima está cubierta de niebla o lluvia.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué existe Skytropolis
 

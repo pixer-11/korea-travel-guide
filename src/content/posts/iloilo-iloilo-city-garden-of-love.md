@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You won't find this one on the standard Iloilo itinerary, and that's exactly the point. Tucked into La Paz, the Garden of Love is a modest, well-tended patch of green built around a simple, romantic theme — arches, heart motifs, benches angled for quiet conversation rather than crowds. It's the kind of place you stumble into between errands and end up lingering in longer than planned.

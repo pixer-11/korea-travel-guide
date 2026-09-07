@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Paradise Dynasty stands out
 
 You smell the broth before you see the dumplings. Steam curls off bamboo baskets stacked three high behind the glass kitchen wall, and inside each one sits a tiny pleated parcel colored like a paint sample card.

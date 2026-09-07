@@ -65,8 +65,6 @@ faq:
     a: Central Park is directly across the street, and the New-York Historical Society is about a block south for a second museum stop.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from Central Park and the building announces itself before you've even crossed the street: pink granite turrets, a triumphal equestrian arch out front, and a facade that looks more like a fortress than a museum. Inside, the scale keeps escalating. The Barosaurus rearing up in Theodore Roosevelt Rotunda is just the opening act — beyond it are 45 halls spread across four floors, covering dinosaurs, ocean life, human origins, gems and minerals, and the planetarium sphere that seems to float, unsupported, inside its glass cube.

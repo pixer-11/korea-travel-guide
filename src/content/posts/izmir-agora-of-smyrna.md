@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come down off the busy Anafartalar Caddesi traffic, cut through a gap between low apartment blocks, and the ground just drops away — a sunken rectangle of grey-white stone, columns standing at odd heights, and suddenly the city noise thins out. That's the Agora of Smyrna, the Roman-era marketplace of ancient Smyrna, sitting several meters below the modern street grade of Konak because two thousand years of rebuilding simply buried it in place.
 
 ## Why it's worth the detour

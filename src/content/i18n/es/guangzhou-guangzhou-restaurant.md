@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-guangzhou-restaurant
-srcHash: '1b7ca39e4b08'
+srcHash: '8c31bd4fee76'
 title: 'Restaurante Guangzhou: dónde comer (4,1★)'
 description: 'El Restaurante Guangzhou (广州酒家), en Wen Chang Nan Lu, dentro de la calle peatonal de Shangxiajiu (上下九) en Liwan, es una institución cantonesa conocida por su dim sum clásico y sus platos de banquete tradicionales a precios medios. 4,1★ (221 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Restaurante Guangzhou (广州酒家), en Wen Chang Nan Lu, dentro de la calle peatonal de Shangxiajiu (上下九) en Liwan, es una institución cantonesa conocida por su dim sum clásico y sus platos de banquete tradicionales a precios medios. Abre todos los días de 11am a 11pm; ve un día de semana entre las 8pm y las 11pm, o después de las 7pm el fin de semana, si quieres evitar las aglomeraciones, ya que el tramo de 11am a 3pm en fin de semana es el más concurrido. Calcula entre 1 y 1,5 horas para una comida completa, y combina la visita con un paseo por los soportales cercanos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: Entre 1 y 1,5 horas para una comida completa sentado a la mesa, además de tiempo extra antes o después para recorrer los soportales de Shangxiajiu, que merecen la pena explorarse por sí mismos.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

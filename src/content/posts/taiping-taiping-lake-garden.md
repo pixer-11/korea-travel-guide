@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the trees before anything else. Taiping Lake Garden was carved out of abandoned tin-mining pits in the early 1880s, and the rain trees planted along its paths have had well over a century to grow into a dense, arching canopy that meets overhead like a green tunnel.

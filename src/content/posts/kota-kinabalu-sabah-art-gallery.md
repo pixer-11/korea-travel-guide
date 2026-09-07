@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for a quiet, air-conditioned hour that most visitors to Kota Kinabalu never bother with. The building itself is the first surprise: a tiered, pyramid-like structure with sloping roofs that nods to traditional longhouse rooflines rather than the glass towers along the waterfront. Step inside and the noise of the city drops away almost instantly.

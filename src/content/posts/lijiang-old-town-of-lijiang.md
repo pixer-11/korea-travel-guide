@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the change in surface before you see anything else. Asphalt gives way to smooth, uneven cobblestones, and suddenly the traffic noise is gone, replaced by running water. Lijiang's Old Town does that to you immediately — a UNESCO World Heritage core of Naxi timber houses, arched stone bridges and canals fed by meltwater from the Jade Dragon Snow Mountain.
 
 ## Why the Old Town still matters

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuching-kuching-waterfront
-srcHash: '79d7ecfdce2a'
+srcHash: '3daa002b1f20'
 title: 'Kuching Waterfront: Guía de Viaje (4,7★)'
 description: 'El Kuching Waterfront es el paseo de casi dos kilómetros que bordea el río Sarawak en pleno centro de la ciudad; lo mejor es recorrerlo a última hora de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. 4,7★ (2.565 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Kuching Waterfront es el paseo de casi dos kilómetros que bordea el río Sarawak en pleno centro de la ciudad; lo mejor es recorrerlo a última hora de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. Está abierto las 24 horas y pasear por él es gratis; cuenta con puestos de comida, paseos en barca por el río y vistas del edificio de la asamblea legislativa estatal, que se ilumina al caer la noche. Como es un lugar muy conocido y concurrido, conviene ir a primera hora de la mañana o después de las 21:00 si se quiere tener el paseo para uno mismo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se puede comer allí?
     a: Vale la pena probar la laksa de Sarawak, el kolo mee y el bizcocho en capas kek lapis en los puestos cercanos al patio de comidas, en el extremo del paseo próximo al Hilton.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

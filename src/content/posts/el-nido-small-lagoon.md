@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Small Lagoon earns the name
 
 Small Lagoon is the quieter sibling of El Nido's famous Big Lagoon, tucked into the limestone cliffs of Miniloc Island. Where Big Lagoon draws crowds for its wide, photogenic sweep, Small Lagoon is tighter, shadier, and easy to miss if your boatman doesn't point it out.

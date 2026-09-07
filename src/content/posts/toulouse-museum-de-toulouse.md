@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Toulouse's Muséum sits inside a former Jesuit college, and the building itself is half the draw. Wooden galleries stacked with glass cases climb around a central atrium, the kind of layout that makes you crane your neck upward before you've even read a single label.

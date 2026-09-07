@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The gates open onto something closer to a mountainside village than a theme park. Terraced gardens climb the slope in tiers, European-style fountains sit oddly beside thatched-roof tribal houses, and somewhere above you a cable car glides silently over the treeline toward the lake.

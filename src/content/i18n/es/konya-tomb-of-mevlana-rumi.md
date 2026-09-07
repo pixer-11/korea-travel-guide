@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: konya-tomb-of-mevlana-rumi
-srcHash: '273ed1fe1450'
+srcHash: '5550f523cd4b'
 title: 'Tumba de Mevlana Rumi: guía de viaje de Konya (4,9★)'
 description: 'La Tumba de Mevlana Rumi (el Museo Mevlana), en el distrito de Karatay, en Konya, abre todos los días de 9:00 a 16:40, los lunes desde las 10:00, y requiere entre 60 y 90 minutos de visita. 4,9★ (239 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Tumba de Mevlana Rumi (el Museo Mevlana), en el distrito de Karatay, en Konya, abre todos los días de 9:00 a 16:40, los lunes desde las 10:00, y requiere entre 60 y 90 minutos de visita. Conviene llegar temprano en una mañana de entre semana para contemplar la cúpula acanalada de color turquesa y el sarcófago de Rumi sin aglomeraciones. El lugar todavía pasa bastante desapercibido para el turismo internacional, así que no encontrará el tumulto que hay en los grandes sitios de Istanbul.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Existe algún código de vestimenta?
     a: 'Sí: hay que vestir con recato, con los hombros y las rodillas cubiertos, y es un gesto de respeto que las mujeres lleven un pañuelo para la cabeza. Además, habrá que quitarse los zapatos antes de entrar en la cámara de la tumba.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La cúpula se distingue antes que la entrada: un cono acanalado de azulejos turquesa que se alza sobre los tejados de Karatay y que cambia de tono según la hora, ya sea con la bruma de las nueve de la mañana o con el sol de última hora de la tarde. Se trata de la Kubbe-i Hadra, la "Cúpula Verde", que señala el lugar de descanso de Jalal ad-Din Muhammad Rumi, el poeta y místico del siglo XIII cuyos seguidores fundaron la orden mevleví, conocida como los "dervices giróvagos".
 

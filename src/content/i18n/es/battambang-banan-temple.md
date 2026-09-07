@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: battambang-banan-temple
-srcHash: 'ccad1eeb5b8d'
+srcHash: '9ce2394415b7'
 title: 'Templo de Banan: guía de viaje de Battambang (4,7★)'
 description: 'El templo de Banan es una ruina de la era de Angkor situada en una colina a unos 25 km al sur de Battambang, abierta todos los días de 6:00 a 18:00, y se mantiene gratamente al margen del circuito turístico frente a los grandes sitios de Angkor. 4,7★ (164 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Banan es una ruina de la era de Angkor situada en una colina a unos 25 km al sur de Battambang, abierta todos los días de 6:00 a 18:00, y se mantiene gratamente al margen del circuito turístico frente a los grandes sitios de Angkor. Conviene planear la visita a primera hora de la mañana o al final de la tarde para evitar el calor del mediodía durante el ascenso, y reservar entre una y dos horas, incluida la subida de 358 escalones. La forma más sencilla de llegar es contratar un tuk-tuk en Battambang por medio día.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena combinar el templo de Banan con otras paradas?
     a: 'Sí: suele combinarse con las cuevas de Phnom Sampov y las cuevas de la muerte en la misma excursión de medio día desde Battambang.'
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El templo de Banan se alza sobre una colina empinada y cubierta de selva, a unos 25 km al sur de Battambang, y parece una versión más pequeña y silenciosa de Angkor Wat abandonada a merced de los elementos. Cinco torres de arenisca, ya erosionadas, coronan la cima, con tallas suavizadas por siglos de lluvia y líquenes. Las raíces serpentean sobre los dinteles caídos. Pocos visitantes rompen el silencio del lugar.
 

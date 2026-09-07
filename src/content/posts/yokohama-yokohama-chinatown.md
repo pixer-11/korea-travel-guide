@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Yokohama Chinatown for the sheer density of it — ten city blocks where nearly every storefront is a steamer basket, a butcher's window hung with glazed ducks, or a doorway perfumed with five-spice and hot oil. It's Japan's largest Chinatown by a wide margin, and it doesn't try to be subtle about it: vermilion columns, gold dragons, and ornate paifang gates mark the district's edges, so you always know exactly when you've crossed the threshold.

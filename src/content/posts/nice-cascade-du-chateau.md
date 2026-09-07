@@ -74,8 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you understand what it is: a pale ribbon of white water streaking down the green cliff above the Old Town, visible from the beach, from the port, from half the rooftop bars in Nice. Climb up to it and the illusion holds — the Cascade du Château is an artificial waterfall, built into the rock in the 19th century, but it doesn't feel staged.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '72b1752bc44e'
+srcHash: '41c8bc247e2f'
 title: 로스앤젤레스 카운티 미술관(LACMA) 여행 가이드 (4.6★)
 description: LACMA는 윌셔 대로(Wilshire Boulevard)에 위치한 20에이커 규모의 미술관으로, 브로드 현대미술관(Broad Contemporary Art Museum)과 상징적인 어반 라이트(Urban Light) 가로등 설치 작품이 대표적입니다. 4.6★ (리뷰 21,013개) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: LACMA는 윌셔 대로(Wilshire Boulevard)에 위치한 20에이커 규모의 미술관으로, 브로드 현대미술관(Broad Contemporary Art Museum)과 정문 앞 상징적인 어반 라이트(Urban Light) 가로등 설치 작품이 중심입니다. 수요일을 제외하고 매일 문을 열며, 평일 중 가장 한산한 시간대는 오후 6시부터 7시 사이입니다 — 주말은 정오부터 폐관 시간까지 계속 붐비니 오전 방문을 추천합니다. 상설 전시의 일부만 보더라도 최소 세 시간은 잡아두세요.
@@ -17,8 +17,6 @@ faq:
   - q: 어반 라이트(Urban Light)를 보려면 티켓이 필요한가요?
     a: 아니요 — 이 가로등 설치 작품은 유료 전시관 밖, 윌셔 대로(Wilshire Boulevard)를 따라 위치해 있어 언제든 무료로 걸어서 관람할 수 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검토, AI 보조 작성. 정보는 실시간 Google Places 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 주차를 하기도 전에 눈에 들어옵니다: 자갈 부지 위에 가지런히 늘어선 복원된 주철 가로등들이 한낮에도 호박색으로 빛나고 있죠. 이것이 바로 크리스 버든(Chris Burden)의 *어반 라이트(Urban Light)*이며, 로스앤젤레스를 배경으로 한 인스타그램 사진 절반의 이유이기도 합니다. 이 작품은 무료로 걸어서 관람할 수 있고, 윌셔 대로(Wilshire Boulevard) 인도에서 바로 보이며, 티켓도 필요 없습니다.
 

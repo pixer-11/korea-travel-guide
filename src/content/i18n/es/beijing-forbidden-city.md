@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-forbidden-city
-srcHash: 'd2c2fdc3adef'
+srcHash: 'f5a91dbd3793'
 title: 'Ciudad Prohibida: Guía de viaje a Pekín'
 description: Entra por la Puerta del Meridiano (Wu Men) en el lado sur, frente a la plaza de Tiananmén, y sal por el norte a través de la Puerta Shenwu hacia el parque Jingshan; recorrer todo el eje norte-sur toma entre 2,5 y 3 horas.
 quickAnswer: Entra por la Puerta del Meridiano (Wu Men) en el lado sur, frente a la plaza de Tiananmén, y sal por el norte a través de la Puerta Shenwu hacia el parque Jingshan; recorrer todo el eje norte-sur toma entre 2,5 y 3 horas. Reserva las entradas con horario fijo por internet con antelación (la Ciudad Prohibida limita el número de visitantes diarios y suele agotarse), y procura ir un día laborable a primera hora de la apertura para evitar las multitudes, que aumentan de forma constante a partir de las 10 de la mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debería ver cerca después de la visita?
     a: Sal por el norte a través de la Puerta Shenwu y camina unos minutos hasta el parque Jingshan, donde el pabellón en la cima de la colina ofrece una vista panorámica sobre los tejados dorados del palacio.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes la escala antes de comprenderla. De pie ante la Puerta del Meridiano —Wu Men—, las alas almenadas se curvan a tu alrededor como un abrazo de piedra, y la multitud se cuela por una única abertura en un muro que en su día separaba al emperador del resto del mundo. Terminada en 1420 bajo el emperador Yongle, esta fue la sede del poder Ming y Qing durante casi cinco siglos, y todavía se mantiene como un mundo amurallado y continuo: unos 980 edificios, patios anidados y ni una sola estructura moderna que rompa el hechizo una vez que estás dentro.
 

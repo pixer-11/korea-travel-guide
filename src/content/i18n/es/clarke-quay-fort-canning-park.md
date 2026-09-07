@@ -1,14 +1,12 @@
 ---
 lang: es
 slug: clarke-quay-fort-canning-park
-srcHash: '293fd5a3dda9'
+srcHash: 'f8a28e8bc60b'
 title: 'Fort Canning Park: Guía de viaje de Clarke Quay (4,6★)'
 description: 'Fort Canning Park, en Clarke Quay, es un espacio verde en lo alto de una colina, abierto las 24 horas, en el centro de Singapur, a poca distancia a pie del río en Clarke Quay y de la estación de MRT Fort Canning. 4,6★ (12.006 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Fort Canning Park, en Clarke Quay, es un espacio verde en lo alto de una colina, abierto las 24 horas, en el centro de Singapur, a poca distancia a pie del río en Clarke Quay y de la estación de MRT Fort Canning. Lo mejor es visitarlo temprano por la mañana o después de las 6 de la tarde, para evitar el calor y las multitudes de fin de semana, que aumentan progresivamente entre las 9 de la mañana y las 8 de la noche. Conviene reservar entre una y dos horas para recorrer los principales puntos históricos, más si uno se detiene en el Jardín de las Especias o coincide con algún evento nocturno.
 faq: []
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 Fort Canning Park se alza sobre una pequeña colina justo encima de Clarke Quay, y el cambio se percibe en cuanto uno deja atrás los bares junto al río. El ruido del tráfico desaparece, el aire se refresca bajo los árboles de lluvia y el pavimento da paso a senderos de grava. Es uno de los pocos lugares de esta zona de Singapur donde la historia colonial, la antigua leyenda real y un espacio verde puro conviven en una misma ladera.
 

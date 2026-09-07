@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Banyan Garden is a pocket of shade in the middle of a working university campus. You come for one tree, really — a banyan so old and so wide that its aerial roots have dropped down and thickened into secondary trunks, turning a single organism into something that reads like a small grove.

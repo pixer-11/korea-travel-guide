@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kumamoto-kumamoto-castle
-srcHash: '6aea04749b7b'
+srcHash: 'fb7255cc7f8e'
 title: 'Castillo de Kumamoto: Guía de viaje (4,5★)'
 description: 'El Castillo de Kumamoto, en el distrito de Chuo, en la ciudad de Kumamoto, es una fortaleza reconstruida de 1607 situada en lo alto de una colina, con un museo de historia dentro de su torre principal, y es uno de los tres grandes castillos de Japón. 4,5★ (25.502 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Castillo de Kumamoto, en el distrito de Chuo, en la ciudad de Kumamoto, es una fortaleza reconstruida de 1607 situada en lo alto de una colina, con un museo de historia dentro de su torre principal, y es uno de los tres grandes castillos de Japón. Abre todos los días de 9:00 a 17:00, y el momento más tranquilo para visitarlo es cualquier hora de un día entre semana dentro de ese horario, ya que los fines de semana se llena entre las 10:00 y las 16:00. Conviene reservar unas dos horas, o más si se dedica tiempo a recorrer Sakuranobaba Josaien, la calle comercial situada a sus pies.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para comer o ir de compras?
     a: Sakuranobaba Josaien, la calle de tiendas y restaurantes situada justo a los pies del castillo, ofrece especialidades locales de Kumamoto y tiendas de artesanía.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué el Castillo de Kumamoto sigue dejando a la gente sin palabras
 

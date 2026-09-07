@@ -67,8 +67,6 @@ aiGenerated: true
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You reach it down a narrow hutong west of Shichahai Lake, where the traffic noise drops away and grey brick walls close in on either side. There's no dome, no golden roofline visible from the street — just a modest gate with stone lions, easy to walk past if you didn't know what was behind it. That's part of what makes Prince Gong Mansion different from Beijing's headline sights: it doesn't announce itself.
 
 ## Why go

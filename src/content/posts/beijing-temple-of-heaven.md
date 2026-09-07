@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the scale of the place before you understand its geometry. Walking north from the South Gate along the raised Danbi Bridge — really a long stone causeway rather than a bridge — the ground rises almost imperceptibly beneath you, lifting you toward heaven, at least symbolically, by the time you reach the inner altars. Cypress trees, some planted more than five centuries ago, close in on either side, their bark cracked and silvered, and the traffic noise of Dongcheng District falls away behind you.
 
 ## Why go

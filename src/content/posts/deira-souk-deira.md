@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Souk Deira isn't the souk on the postcards. It sits a short walk inland from the creek, in the tangle of streets around Al Buteen and Al Sabkha, and it doesn't perform for cameras.

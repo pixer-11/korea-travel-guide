@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: izmir-ephesus-ancient-city
-srcHash: '231c81448442'
+srcHash: 'ded885c4220a'
 title: 'Éfeso, la ciudad antigua: guía de viaje de Selçuk (4,8★)'
 description: 'Éfeso es la ciudad romana mejor conservada del Mediterráneo oriental, con la Biblioteca de Celso y el Gran Teatro como sus grandes protagonistas. 4,8★ (40.623 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Éfeso es la ciudad romana mejor conservada del Mediterráneo oriental, con la Biblioteca de Celso y el Gran Teatro como sus grandes protagonistas. Entra por la Puerta Superior (Magnesia) y baja caminando hasta la Puerta Inferior para no tener que desandar el camino. Para esquivar a los grupos de autobuses turísticos, acude justo a la apertura, a las 8:00, o aprovecha el horario nocturno de miércoles a sábado (19:00–22:00).
@@ -17,8 +17,6 @@ faq:
   - q: ¿Por qué entrada conviene acceder?
     a: 'Entra por la Puerta Superior (Magnesia) y sal por la Puerta Inferior: el recorrido va en descenso y evita tener que desandar el camino a contracorriente de la multitud.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes son de uso libre o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Éfeso sigue siendo relevante
 

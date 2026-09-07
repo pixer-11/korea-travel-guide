@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Lake Pichola anchors Udaipur
 
 Everything in this city orients itself around the water. Palaces, havelis, temples and ghats all face the lake, and once you're standing on its banks you understand why Udaipur calls itself the City of Lakes.

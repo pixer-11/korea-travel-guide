@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: segovia-alcazar-de-segovia
-srcHash: '3987f58e3bdc'
+srcHash: 'ca16f5614152'
 title: 'Alcázar de Segovia: Guía de viaje (4.7★)'
 description: 'El Alcázar de Segovia abre todos los días de 10:00 a 19:30, y este castillo con forma de proa recompensa a quienes llegan temprano: conviene presentarse justo a la apertura para adelantarse a los autocares turísticos que llegan hacia el mediodía. 4.7★ (65.038 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Alcázar de Segovia abre todos los días de 10:00 a 19:30, y este castillo con forma de proa recompensa a quienes llegan temprano: conviene presentarse justo a la apertura para adelantarse a los autocares turísticos que llegan hacia el mediodía. Conviene reservar entre 90 minutos y dos horas para recorrer las salas, la armería y subir a la torre. Es uno de los castillos más visitados de España, así que no se trata de un secreto tranquilo: hay que organizar la visita en torno a las multitudes en lugar de esperar evitarlas.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega al Alcázar desde el centro de Segovia?
     a: Se llega caminando 15-20 minutos desde el Acueducto Romano atravesando el casco antiguo; el castillo se encuentra en el extremo occidental del centro histórico, y no hace falta metro ni autobús dentro de la ciudad.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

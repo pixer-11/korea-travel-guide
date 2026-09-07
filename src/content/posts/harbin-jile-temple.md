@@ -42,8 +42,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jile Temple means "Temple of Ultimate Bliss," and it's the largest active Buddhist monastery in Harbin. Unlike the city's Russian-influenced landmarks, this is a genuinely functioning religious site — monks in grey robes cross the courtyards, and the smell of sandalwood incense hangs over everything.

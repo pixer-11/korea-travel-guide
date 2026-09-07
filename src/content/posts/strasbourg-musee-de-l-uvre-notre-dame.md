@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You almost walk past it. The entrance sits in the shadow of Strasbourg Cathedral's rose-pink sandstone spire, squeezed between half-timbered gables on Place du Château, and unless you already know to look for the low wooden door and small sign, the crowds streaming toward the cathedral's west front carry right on past it. That's the first thing that makes this museum feel different from almost everything else in the old town: even at peak tourist season, you can stand in front of a 13th-century stained-glass window here in near silence.
 
 ## Why go

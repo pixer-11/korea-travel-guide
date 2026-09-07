@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Jinju National Museum matters
 
 Most visitors come to Jinju for the fortress and the river festival, then discover almost by accident that the museum tucked inside the fortress walls is one of the more thoughtfully built history museums in the country. The permanent collection isn't a generic run through Korean prehistory — it's built specifically around the Imjin War (1592–98), the Japanese invasions that turned Jinjuseong into the site of two of the war's bloodiest sieges.

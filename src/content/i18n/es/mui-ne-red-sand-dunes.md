@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mui-ne-red-sand-dunes
-srcHash: 'c3892e7acc35'
+srcHash: 'd035a8cd38f8'
 title: 'Dunas Rojas: Guía de viaje de Mui Ne (4,1★)'
 description: 'Las Dunas Rojas (Đồi Cát Đỏ) se encuentran junto a la carretera ĐT716, cerca de Hòn Rơm: un paisaje ondulado de tonos naranja-rojizo que luce mejor al amanecer o en la hora previa al atardecer, cuando la luz tiñe la arena de un color casi carmesí. 4,1★ (6.922 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Junto a la carretera ĐT716, cerca de Hòn Rơm, se encuentran las Dunas Rojas (Đồi Cát Đỏ), un paisaje ondulado de arena naranja-rojiza que luce mejor al amanecer o durante la hora previa al atardecer, cuando la luz tiñe la arena de un tono casi carmesí. El acceso está abierto las 24 horas, pero conviene ir temprano (antes de las 6:30) o al final de la tarde (después de las 16:30) para evitar los autobuses turísticos y el calor del mediodía. Es habitual encontrar niños alquilando trineos de plástico para deslizarse por la arena; se trata de un lugar realmente concurrido, sin sombra y sin caseta de entradas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Suele haber mucha gente en las Dunas Rojas?
     a: Sí, es una de las paradas más visitadas de Mui Ne, con autobuses turísticos y convoyes de jeeps que son habituales al atardecer. Llegar al amanecer o bastante antes de la afluencia de última hora de la tarde es la mejor manera de evitar las aglomeraciones.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlas
 

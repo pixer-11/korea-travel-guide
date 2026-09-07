@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 East Coast Park is Singapore's front porch on the sea. It's a nearly continuous ribbon of sand, grass, and cycling path stretching for kilometres along the southeast coast, built entirely on reclaimed land.

@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You climb out of Trastevere's tangle of ochre buildings and washing lines, past the Orto Botanico wall, and the noise of scooters and clinking trattoria glasses just falls away behind you. The road switchbacks up through umbrella pines, and every few turns there's a gap in the trees where the whole basin of Rome opens up below — domes first, then rooftops, then the hazy line of hills beyond.
 
 This is the Gianicolo, one of Rome's highest points, and unlike the Colosseum or the Vatican museums, there's no ticket, no queue, no closing time. It's open around the clock, every day of the week.

@@ -94,8 +94,6 @@ aiGenerated: true
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors come to this stretch of Rattanakosin Island for the Grand Palace and Wat Phra Kaew, snap their photos, and leave without realizing that a few hundred meters north, inside a converted 18th-century palace, sits one of Asia's great collections of Siamese art and history. The National Museum Bangkok occupies the former Wang Na, the "Front Palace" built in 1782 for the deputy king, and that alone makes it worth the detour — you're walking through royal architecture, not a purpose-built exhibition hall.

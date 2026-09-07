@@ -106,8 +106,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Getting your bearings first
 
 Telok Blangah Hill Park sits on Singapore's southern ridge, close to HarbourFront and Mount Faber, a good half-hour taxi or MRT-plus-walk from the city centre.

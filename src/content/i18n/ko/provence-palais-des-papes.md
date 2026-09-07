@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: provence-palais-des-papes
-srcHash: 'defe1da98212'
+srcHash: '3cc326d3ef50'
 title: '교황청(Palais des Papes): 프로방스 여행 가이드'
 description: 교황청(Palais des Papes)은 아비뇽(Avignon) 구시가지 중심 팔레 광장(Place du Palais)에 위치하며, 생베네제 다리(Pont Saint-Bénézet)와 기차역에서 포르트 드 라 레퓌블리크(Porte de la République)를 지나 도보 5분 거리에 있습니다.
 quickAnswer: 교황청(Palais des Papes)은 아비뇽(Avignon) 구시가지 중심 팔레 광장(Place du Palais)에 위치하며, 생베네제 다리(Pont Saint-Bénézet)와 기차역에서 포르트 드 라 레퓌블리크(Porte de la République)를 지나 도보 5분 거리에 있습니다. 관광버스 인파를 피하려면 개장 직후(보통 오전 9시)나 폐장 전 마지막 두 시간대에 방문하는 것이 좋고, 개방된 25개 방을 둘러보는 데 90분에서 2시간 정도 여유를 두는 것이 좋습니다. 세계에서 가장 큰 고딕 양식 궁전으로 5만 2천 개 이상의 리뷰에서 평점 4.5를 기록하고 있으니, 상당한 인파는 각오해야 합니다 — 완전히 피하려 하기보다는 인파를 감안해 일정을 짜는 편이 낫습니다.
@@ -17,8 +17,6 @@ faq:
   - q: 방문과 함께 묶어 볼 만한 주변 명소는 무엇인가요?
     a: 생베네제 다리(Pont Saint-Bénézet, 퐁 다비뇽), 로셰 데 돔(Rocher des Doms) 정원, 프티 팔레 미술관(Petit Palais museum)이 모두 도보 5분 거리 안에 있어 궁전과 함께 둘러보기 좋습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검수, AI 보조 작성. 정보는 실시간 구글 플레이스(Google Places) 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가봐야 할 이유
 

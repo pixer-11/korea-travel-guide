@@ -85,8 +85,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Long Son Pagoda doesn't try to be subtle. From the road on Đ. 23 Tháng 10, the first thing you register is scale: a dragon-flanked staircase climbing a hillside behind the temple roofs, leading your eye up to a huge white concrete Buddha seated against the sky.
 
 That statue, a towering presence visible from much of western Nha Trang, is the reason most people come. The pagoda itself dates to the late 19th century and has been rebuilt more than once, most recently after storm damage in the mid-20th century, so what you see at ground level is a working, active temple rather than a museum piece.

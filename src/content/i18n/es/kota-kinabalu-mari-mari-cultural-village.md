@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kota-kinabalu-mari-mari-cultural-village
-srcHash: '846bfe6b85fc'
+srcHash: '325453b6100f'
 title: 'Mari Mari Cultural Village: Guía de viaje de Kota Kinabalu'
 description: Mari Mari Cultural Village, a unos 25 minutos tierra adentro desde el centro de Kota Kinabalu, en Inanam, es un tour guiado de medio día por cinco poblados étnicos reconstruidos.
 quickAnswer: 'Mari Mari Cultural Village, a unos 25 minutos tierra adentro desde el centro de Kota Kinabalu, en Inanam, es un tour guiado de medio día por cinco longhouses (casas comunales) étnicas reconstruidas (Kadazan-Dusun, Bajau, Murut, Lundayu, Rungus), con demostraciones de encendido de fuego, tatuajes y cerbatana, una sesión de cocina y un cierre con danza tribal. Con una calificación de 4.7 sobre casi 4,000 reseñas, es la forma más popular en la ciudad de tener una introducción condensada y sensorial a las culturas indígenas de Sabah: reserva el horario de la mañana o de la tarde con antelación, ya que opera con salidas fijas e incluye recogida en el hotel. Calcula entre tres y cuatro horas en total, incluido el transporte, y usa calzado cerrado, ya que los senderos del poblado son de tierra y tablones de madera a través de terreno de selva.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿La comida está incluida y es auténtica?
     a: 'Sí: los tours suelen incluir una degustación de comida cocinada en bambú sobre fuego abierto, como pollo a la parrilla y arroz glutinoso, además de una muestra de vino de arroz tradicional (lihing/tapai), todo dentro del precio estándar del paquete.'
 ---
-
-> **Cómo se hizo esta guía:** Revisado por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

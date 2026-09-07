@@ -52,8 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Hierapolis, not just Pamukkale
 
 Most people come for the postcard shot — bare feet on blinding-white calcium terraces, turquoise pools stepping down the hillside. But the terraces are only the ground floor. Climb the travertine and you walk straight into Hierapolis, a Greco-Roman spa city the Attalid kings of Pergamon founded in the 2nd century BC precisely because of the mineral hot springs beneath it.

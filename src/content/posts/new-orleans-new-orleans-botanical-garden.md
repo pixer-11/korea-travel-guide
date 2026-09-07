@@ -62,8 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the layering of eras as much as the plants. The bones of the garden are 1930s Works Progress Administration — geometric fountains, low limestone walls, Art Deco relief carvings tucked into corners you'd walk past if you weren't looking.

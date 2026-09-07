@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the old Legislative Building, and you feel it the moment you walk in. Neoclassical columns, a grand staircase, ceilings that swallow sound — the building itself is half the exhibit before you've seen a single canvas.

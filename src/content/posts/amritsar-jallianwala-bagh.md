@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You enter through a narrow brick passage, the same lane thousands walked through in 1919, and the noise of the bazaar behind you drops away almost instantly. That corridor is the point: it's still too tight for more than a few people abreast, and standing in it is the first thing that makes this place land differently than a typical city park.
 
 Inside, the garden opens up green and quiet, bounded by the original brick walls of the old city. Bullet marks are still visible in the brickwork, fenced off and labeled. A well on the grounds marks where many fleeing the gunfire jumped to escape and drowned. None of this is dressed up or dramatized — it's plain, preserved, and left to speak for itself.

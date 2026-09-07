@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here to see faces carved a thousand years ago still looking back at you. This is the world's largest collection of Cham sculpture, the art of the Hindu-Buddhist kingdom that ruled central Vietnam for over a millennium. The French-built galleries hold sandstone deities, dancers, and lingas pulled from temple sites like My Son, Dong Duong, and Tra Kieu.

@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the building before you know what it is. Five interlocking cubes stacked at odd angles, wrapped in white aluminum panels that catch the Tainan sun differently every hour, rising above the low-rise rooftops of the West Central District like folded origami.

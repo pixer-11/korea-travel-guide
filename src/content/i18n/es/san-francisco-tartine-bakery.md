@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-tartine-bakery
-srcHash: '63d2ea863c7b'
+srcHash: '27e4bad82118'
 title: 'Tartine Bakery: Guía de viaje de San Francisco (4.5★)'
 description: 'Tartine Bakery, en la esquina de Guerrero y 18th en el Mission District, es una de las panaderías más visitadas de San Francisco: ve justo a la apertura (7:30am) para evitar la fila, sobre todo los fines de semana, cuando de 9am a 5pm se llena mucho. 4.5★ (5,942 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Tartine Bakery, en la esquina de Guerrero y 18th en el Mission District, es una de las panaderías más visitadas de San Francisco: ve justo a la apertura (7:30am) para evitar la fila, sobre todo los fines de semana, cuando de 9am a 5pm se llena mucho. Ve por el morning bun y el country loaf, prepárate para hacer fila de pie, y calcula un gasto de gama media para pastelería y un sándwich caliente prensado. Abre todos los días de 7:30am a 6pm, y la ventana más tranquila los fines de semana es esa primera hora tras la apertura.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay asientos y debería planear quedarme?
     a: Hay unas pocas mesas, pero se llenan rápido, especialmente los fines de semana. La mayoría de los visitantes pide para llevar y come cerca, como en Dolores Park, a pocos minutos a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Tartine sigue atrayendo fila
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genting-highlands-chin-swee-caves-temple
-srcHash: '453f4682c2f7'
+srcHash: '32a687bf6109'
 title: 'Templo de las Cuevas Chin Swee: guía de viaje de Genting Highlands'
 description: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. 4,6★ (11.070 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. Conviene reservar entre 45 y 90 minutos para recorrerlo: la pagoda escalonada, el arqueado Puente del Arcoíris y los empinados tramos de escaleras que pasan junto a santuarios y estanques de koi son lo más destacado. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad, así que llegar temprano o al final del horario de apertura es la mejor forma de disfrutar de una visita más tranquila.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede combinar con una excursión de un día a Genting Highlands?
     a: 'Sí: el templo se encuentra justo debajo de Genting, en la antigua carretera de montaña, por lo que la mayoría de los visitantes paran aquí por la mañana antes de subir a disfrutar de las atracciones, los casinos y el teleférico del complejo turístico.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

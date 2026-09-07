@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Lecheng Temple isn't a quiet backstreet shrine — it's one of Taichung's most visited places of worship, and the moment you step through the front gate you can see why. The roofline alone is worth the walk: layers of glazed ceramic figures, coiling dragons, and phoenixes catch the light against the East District skyline.

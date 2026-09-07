@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: mount-bromo-bromo-tengger-semeru-national-park
-srcHash: '15045a47c13c'
+srcHash: '614d542fccf5'
 title: '브로모 텡거 스메루 국립공원: 브로모산 여행 가이드'
 description: 브로모 텡거 스메루 국립공원(Bromo Tengger Semeru National Park)은 동자바(East Java)에 위치한 고원 화산 지대로, 광활한 회색 "바다의 모래(Sea of Sand)" 위 전망대에서 연기가 피어오르는 브로모산(Mount Bromo)의 분화구 너머로 해돋이를 감상할 수 있는 곳입니다. 4.8★ (47,146개 리뷰) — 방문객들의 후기, 운영 시간, 그리고 팁을 확인하세요.
 quickAnswer: 브로모 텡거 스메루 국립공원(Bromo Tengger Semeru National Park)은 동자바(East Java)에 위치한 고원 화산 지대로, 광활한 회색 "바다의 모래(Sea of Sand)" 위 전망대에서 연기가 피어오르는 브로모산(Mount Bromo)의 분화구 너머로 해돋이를 감상할 수 있는 곳입니다. 대부분의 방문객은 새벽이 되기 전 체모로 라왕(Cemoro Lawang)이나 말랑(Malang)에서 지프 투어에 참여합니다. 입장은 게이트가 아닌 티켓제로 운영되며, 일출 관람은 매일 가능합니다. 가장 맑은 풍경을 보려면 건기인 4월부터 10월 사이에 방문하세요.
@@ -17,8 +17,6 @@ faq:
   - q: 많이 붐비나요? 혼잡을 피하려면 어떻게 해야 하나요?
     a: 네, 이곳은 인도네시아에서 가장 많이 찾는 자연 명소 중 하나이며, 특히 프난자칸(Penanjakan) 전망대가 붐빕니다. 킹콩 힐(King Kong Hill)이나 세루니 포인트(Seruni Point)를 이용하면 비슷한 일출 풍경을 지프 혼잡 없이 즐길 수 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검수, AI 지원 제작. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 브로모가 사람들을 새벽 3시에 깨우는 이유
 

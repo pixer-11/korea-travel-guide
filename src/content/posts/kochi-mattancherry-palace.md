@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, built by the Portuguese in 1555 as a peace offering to the Raja of Kochi, then renovated decades later by the Dutch — which is why most people here still call it the Dutch Palace.
 
 ## Why it's worth the stop

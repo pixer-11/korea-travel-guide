@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-national-museum-bangkok
-srcHash: '064d1f9f9f9c'
+srcHash: '9ca5f47a5d79'
 title: 'Museo Nacional: Guía de viaje de Bangkok (4,7★)'
 description: 'El Museo Nacional de Bangkok, justo al norte de Sanam Luang y cerca del Gran Palacio, es el museo más grande del sudeste asiático y el mejor lugar del país para ver insignias reales, carrozas funerarias y arte budista bajo un mismo techo. 4,7★ (9.789 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Bangkok, justo al norte de Sanam Luang y cerca del Gran Palacio, es el museo más grande del sudeste asiático y el mejor lugar del país para ver insignias reales, carrozas funerarias y arte budista bajo un mismo techo. Dedícale entre dos y tres horas, viste algo que cubra hombros y rodillas, y si puedes coincidir con el horario, participa en una visita guiada gratuita en inglés (miércoles o jueves por la mañana). Procura ir en la mañana de un día de semana para evitar las multitudes de los buses turísticos y el calor más intenso.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego sin auto?
     a: Toma el Chao Phraya Express Boat hasta el muelle Tha Chang y camina unos 10 minutos, o toma un taxi directamente a Na Phra That Road, ya que no hay ninguna estación de BTS/MRT a una distancia cómoda a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

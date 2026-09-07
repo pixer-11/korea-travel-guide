@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kaohsiung is a city built around water and heat, and Central Park is where both get tamed. Banyan trees with roots like folded curtains lean over the paths, their canopy thick enough that even at noon the light comes through in broken coins on the pavement. It's not a monument or a museum — it's a working piece of city infrastructure that happens to be genuinely pleasant, which is exactly why it pulls in nearly everyone who lives nearby: joggers before work, retirees doing slow tai chi loops, students sprawled on the grass with bubble tea, couples circling the lake at dusk.

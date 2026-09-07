@@ -74,8 +74,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Alishan pulls people up the mountain
 
 The road climbs for hours before the air changes. Suddenly the roadside shifts from banana groves to cloud forest, and you're inside stands of red cypress that have stood for over a thousand years. Alishan isn't one single sight — it's a whole recreation area of trails, shrines, a historic railway and viewing platforms, all wrapped in mist that rolls through the trees most mornings.

@@ -95,8 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tanga Market is worth the detour
 
 Kitakyushu doesn't get the tourist traffic that Fukuoka City or Hakata does, and that's precisely what makes Tanga Market feel different from the polished food halls you might already know. This is a working arcade — a long, low-roofed corridor of more than a hundred stalls that has supplied the city's kitchens for decades, nicknamed locally as "Kitakyushu's kitchen." The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales — none of it has been redesigned for Instagram.

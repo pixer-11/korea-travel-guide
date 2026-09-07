@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the difference before you see it — cooking oil and clove cigarettes drifting from open kitchen doors as you duck off the main Klojen street into an alley barely wide enough for two people to pass.
 
 Then the blue hits you. Not a pastel wash but a saturated, almost electric cobalt, running up walls, over door frames, across corrugated roofs and even onto the pavement underfoot.

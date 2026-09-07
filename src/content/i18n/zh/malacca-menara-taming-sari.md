@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: malacca-menara-taming-sari
-srcHash: '931ce2c5f83a'
+srcHash: '249cd191da25'
 title: 咏薇斜塔（Menara Taming Sari）：马六甲旅游指南
 description: 咏薇斜塔（Menara Taming Sari）是位于班达希利尔（Banda Hilir）Jalan Merdeka路上的一座80米高旋转陀螺塔，紧邻马六甲河入海口，距离法摩沙古堡（A Famosa）和红屋（Stadthuys）仅5分钟步行路程。
 quickAnswer: 咏薇斜塔（Menara Taming Sari）是位于班达希利尔（Banda Hilir）Jalan Merdeka路上的一座80米高旋转陀螺塔，紧邻马六甲河入海口，距离法摩沙古堡（A Famosa）和红屋（Stadthuys）仅5分钟步行路程。一次乘坐大约7分钟，封闭式座舱缓缓旋转上升再下降，让游客能360度全方位俯瞰古城、马六甲海峡以及远处的港口起重机。这里非常热闹，建议选在开门后的第一个小时，或者日落前不久前往，以避开最严重的排队高峰。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些景点可以顺路游览？
     a: 法摩沙古堡（A Famosa）、红屋（Stadthuys）、基督教堂（Christ Church）、圣保罗山（St Paul's Hill）以及马六甲河游船码头都在步行距离内。
 ---
-
-> **本指南制作说明：** 经编辑审核，并借助AI辅助完成。信息来自谷歌地图（Google Places）实时数据，图片均为授权使用或公共领域内容。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

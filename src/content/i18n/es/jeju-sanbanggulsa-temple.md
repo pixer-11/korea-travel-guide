@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeju-sanbanggulsa-temple
-srcHash: '1cfd239f79ba'
+srcHash: 'a4d2e89209a6'
 title: 'Templo Sanbanggulsa: Guía de viaje de Jeju (4.2★)'
 description: Sanbanggulsa es un pequeño templo-gruta excavado en un acantilado volcánico en la costa suroeste de Jeju, justo al lado de la costa de Yongmeori, en Sagye-ri. 4.2★ (179 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Sanbanggulsa es un pequeño templo-gruta excavado en un acantilado volcánico en la costa suroeste de Jeju, justo al lado de la costa de Yongmeori, en Sagye-ri. Calcula entre 45 minutos y una hora, incluyendo la breve subida hasta el santuario de la cueva; ve a primera hora de la mañana o a última de la tarde para evitar las multitudes de autobuses turísticos y disfrutar de la luz costera. Combina de forma natural con un paseo por la plataforma rocosa tallada por las olas de Yongmeori.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La plataforma de roca volcánica de la costa de Yongmeori se encuentra justo debajo del templo, y tanto la playa de Sagye como Songaksan están a poca distancia en coche para hacer un recorrido costero más largo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

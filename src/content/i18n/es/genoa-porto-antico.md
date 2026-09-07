@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-porto-antico
-srcHash: 'cf92afaf6ec6'
+srcHash: '5b6856cca3dc'
 title: 'Porto Antico: Guía de viaje de Génova (4,5★)'
 description: 'El Porto Antico es el viejo puerto revitalizado de Génova, sede del segundo acuario más grande de Europa, el elevador panorámico Bigo y un paseo marítimo bordeado de palmeras. 4,5★ (14.732 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Porto Antico es el viejo puerto revitalizado de Génova, sede del segundo acuario más grande de Europa, el elevador panorámico Bigo y un paseo marítimo bordeado de palmeras. Permanece abierto las 24 horas, aunque el acuario y los museos tienen horarios diurnos que conviene consultar con antelación. Las mañanas de fin de semana entre las 7:00 y las 9:00 son las más tranquilas; conviene evitar el tramo de 14:00 a 23:00 los sábados y domingos, cuando la afluencia alcanza su punto máximo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena pagar la entrada al acuario?
     a: El precio es algo elevado para tratarse de una atracción italiana, pero se trata del acuario más grande de Italia y uno de los mayores de Europa, con contenido de sobra para llenar un par de horas.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see the spire before you see the city. From the train, from the Vosges foothills, from almost any bridge over the Ill, a single asymmetric tower of pink-gold Vosges sandstone pokes above Strasbourg's half-timbered rooftops. For 227 years, from 1647 to 1874, this was reputedly the tallest building on Earth. Up close in the tight medieval square, the west façade is so densely carved — kings, prophets, gargoyles, a rose window over 13 metres wide — that you have to actually step back into the surrounding streets to take it all in, and even then your neck won't thank you.

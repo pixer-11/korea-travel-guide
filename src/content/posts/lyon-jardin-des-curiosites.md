@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You climb the last few steps and the view just opens up. Rooftops of Vieux Lyon tumble down toward the Saône, church spires poke through the haze, and on a clear day you can trace the river all the way past the Presqu'île.

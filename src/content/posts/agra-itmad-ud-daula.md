@@ -54,8 +54,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come to Itmad-ud-Daula expecting a warm-up act for the Taj Mahal and leave realizing it's the more intimate, more finely worked building of the two. Built between 1622 and 1628 by Nur Jahan, wife of Emperor Jahangir, as a tomb for her father Mirza Ghiyas Beg — the courtier titled Itmad-ud-Daula, or "Pillar of the State" — this was the first Mughal structure built entirely of white marble rather than red sandstone, and the first to use pietra dura, the inlay technique of semi-precious stone set into marble that would later reach its peak at the Taj.
 
 Historians consider it the architectural bridge between the two eras, and once you're standing in front of its lattice-screened walls, that lineage is obvious.

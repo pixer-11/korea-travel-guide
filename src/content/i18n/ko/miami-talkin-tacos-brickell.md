@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: miami-talkin-tacos-brickell
-srcHash: 'ed41834521c6'
+srcHash: '057ed9f623fa'
 title: '토킨 타코스 브리켈(Talkin'' Tacos Brickell): 마이애미 맛집 탐방'
 description: 토킨 타코스 브리켈(Talkin' Tacos Brickell)은 97 SW 8th St에 위치한, 늦은 시간까지 영업하는 타코 앤 테킬라 맛집으로, 브리켈(Brickell)과 다운타운(Downtown)의 경계에 자리해 브리켈 메트로무버(Brickell Metromover) 역에서 도보 몇 분 거리에 있습니다.
 quickAnswer: 토킨 타코스 브리켈(Talkin' Tacos Brickell)은 97 SW 8th St에 위치한, 늦은 시간까지 영업하는 타코 앤 테킬라 맛집으로, 브리켈(Brickell)과 다운타운(Downtown)의 경계에 자리해 브리켈 메트로무버(Brickell Metromover) 역에서 도보 몇 분 거리에 있습니다. 가격대는 중간 수준이며 매일 오전 10시부터 새벽 2시까지 영업합니다. 해피아워와 주말 브런치 시간의 혼잡을 피하고 싶다면 정오 이전의 늦은 점심이나 밤 10시 이후 방문이 가장 좋습니다.
@@ -17,8 +17,6 @@ faq:
   - q: 주변에 또 뭐가 있나요?
     a: 이곳은 브리켈(Brickell)과 다운타운 마이애미(Downtown Miami)에 걸쳐 있어 브리켈 금융가의 고층 빌딩들, 마이애미 강(Miami River)과 가깝고, 메트로무버를 이용해 저녁 식사 후 산책하기 좋은 브리켈 시티 센터(Brickell City Centre)로도 쉽게 이동할 수 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 편집자 검토 및 AI 보조 작성. 사실 정보는 구글 플레이스(Google Places)의 실시간 데이터에서 가져왔으며, 이미지는 라이선스 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 왜 가야 할까
 

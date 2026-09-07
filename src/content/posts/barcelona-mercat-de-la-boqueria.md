@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell it before you see it: charcoal smoke, ripe melon, brine from the anchovy tubs, the faint iron tang of the meat counters. La Boqueria sits right off La Rambla behind a wrought-iron Modernista arch, and once you step under it the city noise drops away and gets replaced by something louder in a different key — vendors calling out prices, knives going through jamón, blenders screaming through mango and papaya.

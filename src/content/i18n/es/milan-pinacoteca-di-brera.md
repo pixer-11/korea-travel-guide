@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-pinacoteca-di-brera
-srcHash: '5ba96503db3b'
+srcHash: 'a24bc1ac234a'
 title: 'Pinacoteca di Brera: Guía de viaje de Milán (4.7★)'
 description: La Pinacoteca di Brera es la gran galería renacentista de Milán, ubicada en el piso superior de un palacio del siglo XVII en el distrito de Brera, a poca distancia a pie del metro Montenapoleone o Lanza (Línea 2). 4.7★ (34,976 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: La Pinacoteca di Brera es la gran galería renacentista de Milán, ubicada en el piso superior de un palacio del siglo XVII en el distrito de Brera, a poca distancia a pie del metro Montenapoleone o Lanza (Línea 2). En unas dos horas puedes ver el escorzo del "Cristo muerto" de Mantegna, el retablo de Montefeltro de Piero della Francesca y "Los desposorios de la Virgen" de Rafael. Ve justo a la apertura o después de las 18h para evitar la aglomeración de fin de semana que se forma entre las 10h y las 18h.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Las calles de artesanos del distrito de Brera, el Castillo Sforzesco (a poca distancia caminando por Cairoli) y el Duomo (a unos 15-20 minutos a pie) combinan bien con una visita a la Pinacoteca.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

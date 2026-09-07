@@ -73,8 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend on the park road and suddenly there's a row of concrete caves cut into the hillside, bars still bolted into some of the openings, moss furring the shadows inside. This is what's left of the original Los Angeles Zoo, which operated here from 1912 until 1966, when the animals were relocated to the current LA Zoo a couple of miles north.

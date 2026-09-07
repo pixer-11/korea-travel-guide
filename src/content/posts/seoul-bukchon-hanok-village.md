@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bukchon feels different from the rest of Seoul
 
 You come up out of the modern grid of Jongno District and the streets suddenly narrow, tilt uphill, and go quiet in a way that Myeongdong or Hongdae never do. Grey tiled roofs — giwa — curve and overlap down the hillside in rows, and between them run alleys barely wide enough for two people to pass. This is Bukchon, "north village," sitting in the saddle between Gyeongbokgung Palace and Changdeokgung Palace, on land that's been settled since the 14th-century founding of the Joseon dynasty.

@@ -80,8 +80,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hsinchu Zoo isn't trying to be Taipei Zoo. It's compact, old-fashioned, and walkable in a couple of hours — which is exactly the appeal.

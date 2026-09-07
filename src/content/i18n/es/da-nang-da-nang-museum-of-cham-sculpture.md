@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-da-nang-museum-of-cham-sculpture
-srcHash: 'b5f663e8edb1'
+srcHash: '82a80efda17f'
 title: 'Museo de Esculturas Cham de Da Nang: Guía de viaje (4,2★)'
 description: 'El Museo de Esculturas Cham de Da Nang se encuentra en 02 Đ. 2 Tháng 9, en Hải Châu, junto al río Han, y abre todos los días de 7:00 a 17:00. 4,2★ (8.160 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Esculturas Cham de Da Nang se encuentra en 02 Đ. 2 Tháng 9, en Hải Châu, junto al río Han, y abre todos los días de 7:00 a 17:00. Es de tamaño reducido, así que basta con reservar entre 45 minutos y hora y media. Conviene llegar entre las 7:00 y las 9:00 para recorrer las galerías de piedra arenisca antes de que lleguen los autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la pieza más destacada de la colección?
     a: El Altar de Tra Kieu y las figuras guardianas de Thap Mam son las piezas más sobresalientes, junto con el Buda de bronce de Dong Duong.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena visitarlo
 

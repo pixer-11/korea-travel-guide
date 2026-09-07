@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mother's has been dishing out roast beef po' boys and red beans since 1938, and the room still feels like it hasn't updated its playbook since — in a good way. You order at a steam-table counter under a wall of yellowed newspaper clippings and photos of regulars, then carry your own tray to a Formica table while a cafeteria line of staff calls out orders behind glass.

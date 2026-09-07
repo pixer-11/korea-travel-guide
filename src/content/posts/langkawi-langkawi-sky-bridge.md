@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for one view: a curved steel walkway hanging 100 metres above the rainforest canopy, with the Andaman Sea and Thai islands spread out beyond it. The bridge itself curves like a drawn bow, anchored to the mountain by a single pylon. Look down through the mesh grating and you see treetops, not safety railing.

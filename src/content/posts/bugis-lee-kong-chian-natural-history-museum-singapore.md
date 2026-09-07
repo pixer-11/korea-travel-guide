@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Getting your bearings
 
 This museum is on the NUS Kent Ridge campus at 2 Conservatory Drive, a good half-hour drive or bus ride from the city centre. It occupies a low, angular building clad in dark aluminium panels, designed to evoke a rock formation rather than a conventional museum block. Inside, the layout is compact: two main floors wrapped around a central atrium where the dinosaurs stand.

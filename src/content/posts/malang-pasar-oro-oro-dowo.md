@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Pasar Oro Oro Dowo is not a tourist market dressed up for visitors. It's a working neighborhood market in the Klojen district of Malang, and that's exactly the point.

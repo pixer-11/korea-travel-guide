@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sha Tin Park is the green ribbon that runs along the Shing Mun River, and it's the easiest way to see this side of the New Territories without an itinerary. You come for the contrast: fountains and clipped topiary hedges on one side, the river's slow brown current on the other, with high-rise housing blocks stacked up behind the tree line. It's not a wilderness escape. It's a working neighbourhood park that happens to be unusually well landscaped.

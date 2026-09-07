@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-balthazar
-srcHash: '6155f6049925'
+srcHash: 'c038135a6c30'
 title: 'Balthazar: dónde comer en Nueva York'
 description: 'En el 80 de Spring St, en SoHo, Balthazar es la brasserie neoyorquina de estilo parisino por excelencia: banquetas de cuero rojo, barandillas de latón, una barra de mariscos, steak frites y un mostrador de panadería abierto todo el día.'
 quickAnswer: 'En el 80 de Spring St, en SoHo, Balthazar es la brasserie neoyorquina de estilo parisino por excelencia: banquetas de cuero rojo, barandillas de latón, una barra de mariscos, steak frites y un mostrador de panadería abierto todo el día. Abre de 8 a. m. a medianoche entre semana (desde las 9 a. m. los fines de semana) y su hora más concurrida es de 2 a 6 p. m. los fines de semana, así que conviene ir una mañana de entre semana o reservar para última hora de la noche si se busca algo de tranquilidad.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo que hacer cerca?
     a: 'Está a pocos pasos del distrito comercial de fachadas de hierro fundido de SoHo y de Crosby Street, con el New Museum en el Bowery y las boutiques de Nolita a poca distancia caminando: fácil de combinar con unas horas de paseo y compras.'
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes son de licencia libre o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Balthazar
 

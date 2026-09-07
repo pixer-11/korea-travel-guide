@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chiba Park doesn't try to dazzle you the way a famous shrine or castle garden might. What it offers instead is space — open lawns, a big central pond, tall pines and cherry trees, and enough elbow room that on an ordinary weekday afternoon you can hear gravel crunch under your own shoes. It's the kind of park where joggers loop the perimeter path, retirees sit on benches with a thermos of tea, and kids chase pigeons near the fountain.

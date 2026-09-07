@@ -73,8 +73,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the building before you find the entrance — a pale yellow palace with a low, tiled roof, tucked behind a screen of trees just off Sultan Gate. This is Istana Kampong Gelam, once home to Singapore's Malay royalty, and now the Malay Heritage Centre.
 
 ## Why go

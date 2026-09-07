@@ -75,8 +75,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't need a ticket or an itinerary to feel the pull of this place. Singapore Botanic Gardens is the country's only UNESCO World Heritage Site, and it earns that status without ever feeling like a monument. It's a working park — joggers, wedding photographers, retirees doing tai chi under rain trees — that happens to also hold one of the great tropical plant collections on earth.

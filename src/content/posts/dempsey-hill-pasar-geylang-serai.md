@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## A market that plays by its own rules
 
 This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar — a good twenty-minute drive or MRT ride from the city centre.

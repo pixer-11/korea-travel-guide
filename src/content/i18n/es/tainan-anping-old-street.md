@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tainan-anping-old-street
-srcHash: '3b889b65581b'
+srcHash: '224c12189a07'
 title: 'Calle Vieja de Anping: Guía de viaje de Tainan'
 description: La Calle Vieja de Anping (Anping Old Street) es la calle más antigua de Taiwán, un callejón estrecho repleto de tiendas en el distrito de Anping de Tainan que se remonta a la época colonial holandesa.
 quickAnswer: La Calle Vieja de Anping (Anping Old Street) es la calle más antigua de Taiwán, un callejón estrecho repleto de tiendas en el distrito de Anping de Tainan que se remonta a la época colonial holandesa. Calcula entre 1,5 y 2 horas para recorrer los callejones, ir probando bocados por el camino y combinarla con el cercano Fuerte Zeelandia (Anping Old Fort) y la Casa del Árbol de Anping (Anping Tree House). Es una parada muy popular, así que ve temprano un día laborable por la mañana o después de cenar para evitar las horas de mayor afluencia.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué lugares cercanos merece la pena combinar con la visita?
     a: El Fuerte Zeelandia (Anping Old Fort), la Casa del Árbol de Anping, cubierta de raíces de banián, y el Templo de Matsu de Anping están todos a poca distancia a pie y combinan de forma natural con la Calle Vieja.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué importa la Calle Vieja de Anping
 

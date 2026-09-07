@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the incense before you see the gate. Duck off the covered arcade of Kawabata Shopping Street and Kushida Shrine appears almost suddenly — a compact stone torii, a low tiled roof, and the low murmur of a city that's been praying here since 757 CE.
 
 This is Hakata's guardian shrine, and it doesn't need a grand approach to prove it. The precinct is small enough to take in at a glance, but every corner holds something worth slowing down for.

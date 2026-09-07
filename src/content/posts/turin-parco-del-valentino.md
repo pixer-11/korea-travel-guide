@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You enter from Corso Massimo d'Azeglio and the traffic noise drops away almost immediately. Plane trees and horse chestnuts, some over a century old, arch over gravel paths that trace the curve of the Po river. Rowing crews slice past below the embankment; joggers and cyclists share the same wide lanes without much friction.
 
 ## Castello del Valentino and the Borgo Medievale

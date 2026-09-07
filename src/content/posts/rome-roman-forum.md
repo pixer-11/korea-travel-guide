@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come down the ramp from the Capitoline Hill and the modern city just stops. Traffic noise fades behind a screen of umbrella pines, and what's left is a jumble of broken columns, brick foundations, and marble fragments spread across a valley that was, for close to a thousand years, the beating administrative and religious heart of Rome. This is where senators debated, where triumphal processions marched up the Via Sacra, where Julius Caesar was cremated after his assassination.

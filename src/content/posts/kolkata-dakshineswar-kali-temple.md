@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nine ornate spires rise over the river the moment you round the approach road. The red-and-cream temple, built in the 1800s, is the spiritual home of Ramakrishna Paramahamsa, the 19th-century mystic who lived and taught here. It's dedicated to the goddess Kali, with a courtyard of twelve smaller Shiva shrines and separate temples to Radha-Krishna and Vishnu ringing the main sanctum.

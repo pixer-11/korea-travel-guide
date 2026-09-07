@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sheung-wan-liang-yi-museum
-srcHash: '671178d64377'
+srcHash: 'd92b2601693a'
 title: 'Museo Liang Yi: Guía de viaje de Sheung Wan'
 description: El Museo Liang Yi, en Hollywood Road, en Sheung Wan, reúne una colección privada de muebles chinos antiguos y raros neceseres europeos de lujo, y solo abre de lunes a viernes, de 10:00 a 18:00, permaneciendo cerrado todo el fin de semana.
 quickAnswer: El Museo Liang Yi, en Hollywood Road, en Sheung Wan, reúne una colección privada de muebles chinos antiguos y raros neceseres europeos de lujo, y solo abre de lunes a viernes, de 10:00 a 18:00, permaneciendo cerrado todo el fin de semana. Como la entrada es solo con cita previa y el aforo se mantiene reducido, es una de las pocas visitas a museos verdaderamente tranquilas que quedan en la Isla de Hong Kong. Conviene reservar con antelación por correo electrónico o a través de la web del museo, ya que no existe taquilla para compras sin reserva.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es el Museo Liang Yi un lugar turístico o concurrido?
     a: No; se mantiene como un rincón poco conocido incluso dentro de un barrio muy visitado, ya que las visitas se organizan en grupos reducidos y solo con cita previa, sin venta de entradas abierta al público.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La mayoría de quienes recorren Hollywood Road van tras las tiendas de antigüedades y el aroma a mariscos secos que sube desde Des Voeux Road. El Museo Liang Yi se esconde tras una fachada sin ningún letrero, casi como una fortaleza, en el número 181-199 de Hollywood Road, y quien no sepa de antemano que está ahí, pasará de largo sin darse cuenta.
 

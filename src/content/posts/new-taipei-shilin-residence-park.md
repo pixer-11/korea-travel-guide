@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Shilin Residence Park is the former home of Chiang Kai-shek and Soong Mei-ling, wrapped in one of Taipei's most meticulously kept public gardens. You come for the layered history, but you stay for the roses.

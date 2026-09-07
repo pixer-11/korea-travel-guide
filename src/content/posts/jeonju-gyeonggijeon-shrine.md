@@ -93,8 +93,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Gyeonggijeon matters
 
 You step through the outer gate and the noise of the hanok village drops away. Gravel crunches underfoot instead of pavement. Pine trees, some centuries old, lean over stone paths that lead toward a compound built in 1410 to house a single object: a portrait of King Taejo, founder of the Joseon Dynasty.

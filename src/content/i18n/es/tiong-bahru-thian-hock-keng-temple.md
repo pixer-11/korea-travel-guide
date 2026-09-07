@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tiong-bahru-thian-hock-keng-temple
-srcHash: 'c19546606786'
+srcHash: '2d661904c7a6'
 title: 'Templo Thian Hock Keng: Guía de viaje de Tiong Bahru (4,5★)'
 description: 'El templo Thian Hock Keng se encuentra en Telok Ayer Street, a pocos minutos a pie de las estaciones de MRT Tanjong Pagar y Telok Ayer, y en realidad no está en Tiong Bahru propiamente dicho a pesar de aparecer bajo esa zona. 4,5★ (2.411 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Thian Hock Keng se encuentra en Telok Ayer Street, a pocos minutos a pie de las estaciones de MRT Tanjong Pagar y Telok Ayer, y en realidad no está en Tiong Bahru propiamente dicho a pesar de aparecer bajo esa zona. Abre todos los días de 7:30 a 17:00 y la entrada es gratuita. Conviene ir un día de semana, o antes de las 9:00 los fines de semana, para ver las vigas talladas y los altares del patio sin grupos turísticos de por medio.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca por si se quiere alargar la visita?
     a: La mezquita Al-Abrar y el santuario Nagore Dargah están a pocos minutos a pie por la misma calle. La zona de restaurantes y bares de Tanjong Pagar también queda cerca, ideal para comer algo después.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Telok Ayer Street discurre por lo que antes era la línea de costa de Singapur, en la época previa a que la recuperación de tierras empujara el mar casi un kilómetro más allá. El templo Thian Hock Keng se levanta justo en el lugar donde los inmigrantes hokkien desembarcaban de sus juncos y caminaban directamente hacia la Diosa del Mar para agradecerle haber sobrevivido a la travesía.
 

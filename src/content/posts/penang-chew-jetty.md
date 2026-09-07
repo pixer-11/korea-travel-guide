@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see it — salt, low tide, and creosote off old timber pilings — as you turn off Pengkalan Weld onto a narrow lane marked by a faded signboard reading "Chew Jetty." The ground changes underfoot almost immediately: solid pavement gives way to grey, weathered planks that creak and flex slightly as you walk, and suddenly you're not on land anymore, you're suspended over mudflats and green harbor water on a boardwalk lined with wooden houses.
 
 ## Why go

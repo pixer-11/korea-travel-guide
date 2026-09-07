@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-chihuly-garden-and-glass
-srcHash: '6cdcf75f994a'
+srcHash: 'fe424779e723'
 title: 'Chihuly Garden and Glass: Guía de viaje de Seattle'
 description: Chihuly Garden and Glass se encuentra a los pies del Space Needle, en el Seattle Center, y merece dos horas de tu día, hagas o no la visita al Needle en sí.
 quickAnswer: Chihuly Garden and Glass se encuentra a los pies del Space Needle, en el Seattle Center, y merece dos horas de tu día, hagas o no la visita al Needle en sí. Ve justo a la apertura entre semana, o después de las 19:00 los fines de semana, para ver el cristal sin una multitud de hombros por delante. Cuenta con pagar una entrada de precio medio (consulta las tarifas actuales en línea, y ten en cuenta que las entradas combinadas con el Space Needle suelen salir más económicas).
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena combinarlo con el Space Needle?
     a: Sí, están a dos minutos a pie el uno del otro, y las entradas combinadas son muy utilizadas por quienes visitan ambos en un mismo día, lo que evita hacer una segunda cola.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se extraen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 La primera sala ya se encarga de convencerte. Entras por un pasillo en penumbra y el techo sobre tu cabeza se convierte en un río de cristal: cientos de formas de vidrio soplado en ámbar, azul cobalto y naranja sangre, iluminadas desde atrás para que todo el conjunto brille como algo submarino. Es desorientador, pero de la buena manera. Estiras el cuello, aminoras el paso, y te das cuenta de que el resto del museo te va a pedir lo mismo durante todo el recorrido.
 

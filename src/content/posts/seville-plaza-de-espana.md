@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the scale before you understand it. The plaza opens up in a vast brick-and-tile semicircle, a moat-like canal curving in front of it, four bridges representing Spain's medieval kingdoms crossing the water at intervals. Built for the 1929 Ibero-American Exposition, it was never a palace or a fort — it was a stage set, designed by architect Aníbal González to show off what Andalusian craft could do, and it still works exactly that way.

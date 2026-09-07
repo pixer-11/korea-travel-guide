@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: medan-tjong-a-fie-mansion
-srcHash: '436752cb884d'
+srcHash: 'c671d646cd26'
 title: 'Casa Tjong A Fie: Guía de Viaje de Medan (4.6★)'
 description: La Casa Tjong A Fie es la mansión de un comerciante de 1895 bellamente restaurada en el antiguo distrito de Kesawan de Medan, abierta todos los días de 9am a 5pm con recorridos guiados por sus patios, salón de baile y altar familiar. 4.6★ (3,603 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La Casa Tjong A Fie es la mansión de un comerciante de 1895 bellamente restaurada en el antiguo distrito de Kesawan de Medan, abierta todos los días de 9am a 5pm con recorridos guiados por sus patios, salón de baile y altar familiar. Es más tranquila justo a la apertura entre semana (9–10am); los fines de semana se mantiene concurrida de 11am a 4pm. Calcula entre 45 y 60 minutos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena combinarlo con otros lugares cercanos?
     a: Sí — combínalo con un paseo por las casas-tienda coloniales de Kesawan y la antigua estación de tren de Medan, y termina en Merdeka Walk para comer o tomar un café.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

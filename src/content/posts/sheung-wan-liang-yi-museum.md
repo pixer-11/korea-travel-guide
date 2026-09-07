@@ -53,8 +53,6 @@ draft: true
 heldReason: hours
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Most visitors walking Hollywood Road are chasing antique shops and the smell of dried seafood drifting up from Des Voeux Road. Liang Yi Museum sits behind an unmarked, almost fortress-like facade at 181-199 Hollywood Rd, and unless you already know it's there, you'll walk straight past it.
 
 That anonymity is deliberate. This is a private museum, founded by collector Peggy Lee, and it doesn't chase footfall the way its neighbours do. Inside, four floors hold one of the world's more significant private collections of classical Chinese furniture, alongside a separate collection of European gold and silver vanity cases from the early 20th century.

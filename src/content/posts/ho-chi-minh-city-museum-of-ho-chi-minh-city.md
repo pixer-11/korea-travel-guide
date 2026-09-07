@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the building before you spot the sign: a mustard-yellow colonial pile with a squat clock tower, wide verandas, and shutters painted the same green as the tamarind trees lining Lý Tự Trọng street. This was once the Gia Long Palace, home to French governors and later South Vietnamese officials. Now it's a municipal museum tracing Ho Chi Minh City's path from colonial outpost to reunified Vietnam.
 
 ## Why go

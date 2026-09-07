@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: cannes-vue-depuis-le-suquet
-srcHash: '852ba422385d'
+srcHash: '6c5fcc6c8dcf'
 title: ル・シュケからの絶景:カンヌ旅行ガイド
 description: カンヌの旧市街の丘、ル・シュケ(Le Suquet)に登れば、その労力に見合う景色が待っています。ラ・カストル美術館(Musée de La Castre)とその広場にあるシュケの塔(Tour du Suquet)のそばから見渡す、カンヌ湾全体の眺め。
 quickAnswer: カンヌの旧市街の丘、ル・シュケ(Le Suquet)に登れば、その労力に見合う景色が待っています。ラ・カストル美術館(Musée de La Castre)とその広場にあるシュケの塔(Tour du Suquet)のそばから見渡すと、カンヌ湾(Baie de Cannes)の全景が眼下に広がり、ラ・クロワゼット(La Croisette)が海岸線に沿ってカーブを描き、レラン諸島(Îles de Lérins)が沖に浮かび、夕暮れにはエステレル山地(massif de l'Estérel)が赤く染まります。入場無料で、港から歩いて20~30分ほど。早朝か日没の1時間前が最も静かです。
@@ -17,8 +17,6 @@ faq:
   - q: 近くには他に何がありますか?
     a: 旧港(Vieux Port)とその湾岸沿いのレストランは丘を下ってすぐの距離にあり、マルシェ・フォルヴィル(Marché Forville)の食品市場やパレ・デ・フェスティバル(Palais des Festivals)もいずれも徒歩約15分圏内です。
 ---
-
-> **このガイドについて:** 編集者による確認済み、AIアシスト作成。データはGoogle Placesのライブ情報から取得し、画像はライセンス取得済みまたはパブリックドメインのものを使用しています。詳細は[編集方針](/about)をご覧ください。
 
 ## なぜこの景色が特別なのか
 

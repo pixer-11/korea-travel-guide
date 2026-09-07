@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hua-hin-khao-hin-lek-fai
-srcHash: 'c234adc6b565'
+srcHash: '16b02143c2ff'
 title: 'Khao Hin Lek Fai: Guía de viaje de Hua Hin (4.3★)'
 description: Khao Hin Lek Fai es el mirador en la colina de Hua Hin, a un breve pero empinado trayecto en coche o a pie sobre la ciudad, abierto todos los días de 6:00 a 20:00. 4.3★ (2,072 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Khao Hin Lek Fai es el mirador en la colina de Hua Hin, a un breve pero empinado trayecto en coche o a pie sobre la ciudad, abierto todos los días de 6:00 a 20:00. Ve cerca de la apertura para disfrutar del aire fresco y la luz suave, o llega a media tarde para ver la puesta de sol sobre el perfil del golfo de Tailandia.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitarlo si tengo poco tiempo?
     a: Sí — la mayoría de las visitas toman entre 30 y 60 minutos ida y vuelta, incluyendo fotos, lo que lo convierte en un complemento fácil para un día en Hua Hin más que en una excursión de medio día.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

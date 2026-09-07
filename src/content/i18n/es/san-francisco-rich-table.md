@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-rich-table
-srcHash: 'f782aea95bf3'
+srcHash: '064b03fca3f5'
 title: 'Rich Table: dónde comer en San Francisco'
 description: 'En el límite de Hayes Valley, sobre Gough Street, Rich Table sirve solo cenas y hay que reservar: cocina californiana inventiva (piensa en donuts de porcini y chips de sardina) en un comedor cálido de madera de granero, con vista a la cocina abierta.'
 quickAnswer: 'En el límite de Hayes Valley, sobre Gough Street, Rich Table sirve solo cenas y hay que reservar: cocina californiana inventiva (piensa en donuts de porcini y chips de sardina) en un comedor cálido de madera de granero, con vista a la cocina abierta. Abre todas las noches de 5 a 10 pm; si quieres tener el salón casi para ti solo, ve justo a las 5 pm un día entre semana, y evita el tumulto de 7 a 9 pm los fines de semana. Los precios están en el rango medio-alto, así que conviene reservar con anticipación: este lugar es conocido, no un secreto.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto debería planear gastar?
     a: Se ubica en el rango de precios medio-alto para la oferta gastronómica de San Francisco. No es el lugar de menú degustación más caro de la ciudad, pero conviene planear una cena completa con platos para compartir, más que una comida casual y económica.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Rich Table
 

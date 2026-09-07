@@ -94,8 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Nokor BaChey is worth the detour
 
 You come around a bend past rice paddies and suddenly there's laterite and grey sandstone rising out of the dust. Nokor BaChey, better known locally as Wat Nokor, is one of Cambodia's odder architectural survivors: an 11th-century Angkorian temple with a fully functioning modern pagoda built inside its old walls.

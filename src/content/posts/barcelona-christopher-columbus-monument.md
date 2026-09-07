@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's here
 
 Walk the full length of La Rambla, past the flower stalls and the Boqueria's fruit stands, and the street eventually spills out into an open plaza where the smell of the Mediterranean starts to reach you before you see the water. That's when the column comes into view: a fluted, deep-red Corinthian shaft rising out of a stone base crowded with allegorical bronze figures — lions, winged victories, women representing the old Catalan kingdoms.

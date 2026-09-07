@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-strand-bookstore
-srcHash: 'a2e9eb98e7cf'
+srcHash: '867ea5dec9d1'
 title: 'Strand Bookstore: Guía de viaje de Nueva York (4.8★)'
 description: Strand Bookstore, en el 828 Broadway (18 millas de estanterías, en la calle East 12th Street), abre todos los días de 10am a 9pm. 4.8★ (16,778 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Strand Bookstore, en el 828 Broadway (18 millas de estanterías, en la calle East 12th Street), abre todos los días de 10am a 9pm. Realmente tiene más movimiento de 12pm a 7pm los fines de semana, así que las mañanas justo a la apertura o las visitas en días de semana son tu opción más tranquila. Reserva al menos una hora —tres si eres de los que se pierden mirando libros— y ve directo a la Rare Book Room del sótano y a los carritos rojos de la entrada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es Strand un buen lugar para comprar regalos y recuerdos?
     a: Sí — la planta baja tiene sus conocidas bolsas de lona (totes), pines y regalos con temática literaria, y vale la pena revisar los carritos de la acera, con libros de bolsillo desde $1 hasta $5.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Strand sigue siendo importante
 

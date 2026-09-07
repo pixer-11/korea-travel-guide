@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wat Sampov Pram sits on a low hill just outside central Kep, its name translating roughly to "five boats," a nod to a local legend about boats turned to stone. You come here less for grandeur and more for atmosphere: gilded stupas catching the light, frangipani trees dropping petals on the concrete, and views that stretch toward the Gulf of Thailand's haze.

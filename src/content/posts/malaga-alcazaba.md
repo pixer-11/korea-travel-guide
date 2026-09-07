@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the shift the moment you step off Calle Alcazabilla and start climbing. Traffic noise falls away, replaced by trickling fountains and the rustle of palm fronds, and the honey-colored stone walls close in around a switchback path that was built, deliberately, to confuse invaders. The Alcazaba is Málaga's 11th-century Moorish palace-fortress, and it's the best-preserved structure of its kind in the region — better kept, many say, than the Alhambra's outer walls in Granada.

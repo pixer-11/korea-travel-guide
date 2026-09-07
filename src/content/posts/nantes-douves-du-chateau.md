@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around the corner from Place Marc Elder and the ground just drops away — a wide, grassy trench circling the château's granite walls, sunk below street level like the city forgot it was there. This is the Douves du Château, the old dry moat of the Château des Ducs de Bretagne, and it's one of those Nantes spots that photographs of the castle rarely show you.
 
 ## Why the moat, not just the castle

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pisa-piazza-dei-cavalieri
-srcHash: '80a4a3643b7f'
+srcHash: '66cdc6f2ec94'
 title: 'Piazza dei Cavalieri: Guía de viaje de Pisa (4,6★)'
 description: 'Piazza dei Cavalieri es la segunda plaza de Pisa, a cinco minutos a pie de la Torre Inclinada, y está más tranquila entre las 7 y las 9 de la mañana entre semana (de 7 a 10 los fines de semana) antes de que lleguen los grupos turísticos. 4,6★ (12.114 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Piazza dei Cavalieri es la segunda plaza de Pisa, a cinco minutos a pie de la Torre Inclinada, y está más tranquila entre las 7 y las 9 de la mañana entre semana (de 7 a 10 los fines de semana) antes de que lleguen los grupos turísticos. Está abierta las 24 horas y es de acceso libre, aunque el Palazzo della Carovana y la iglesia de Santo Stefano tienen sus propios horarios de visita. Calcula entre 20 y 30 minutos, más si te quedas tomando un café en el borde de la plaza.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Jardín Botánico de Pisa, uno de los más antiguos de Europa, está a un corto paseo, junto con cafés de ambiente universitario y trattorias que sirven platos locales como la cecina.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena una segunda plaza
 

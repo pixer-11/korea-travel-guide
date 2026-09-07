@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-alishan-forest-railway-garage-park
-srcHash: '3cf09c7d5efa'
+srcHash: 'd553a4f3d363'
 title: 'Parque del Garaje del Ferrocarril Forestal de Alishan: Guía de viaje de Chiayi (4.3★)'
 description: 'Este es el histórico patio ferroviario junto a la Estación de Chiayi (distrito Este), no el complejo de montaña de Alishan — un parque verde y transitable a pie con locomotoras de vapor y diésel retiradas, vagones de carga y antiguos talleres de reparación. 4.3★ (8.630 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Este es el histórico patio ferroviario junto a la Estación de Chiayi (distrito Este), no el complejo de montaña de Alishan propiamente dicho: un parque verde y transitable a pie donde descansan locomotoras de vapor y diésel retiradas, vagones de carga y antiguos talleres de reparación. Abre todos los días de 8:00 a 18:00 y la entrada es gratuita. Conviene llegar justo a las 8:00, antes de la avalancha del fin de semana entre las 11:00 y las 18:00, para tener las vías casi para uno solo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay entrada?
     a: El parque suele ser de acceso libre y sin boleto, aunque conviene confirmar la política de admisión vigente antes de ir, ya que estos detalles pueden cambiar.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

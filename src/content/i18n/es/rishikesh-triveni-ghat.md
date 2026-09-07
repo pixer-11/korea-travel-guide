@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rishikesh-triveni-ghat
-srcHash: 'f2831d336f64'
+srcHash: 'a9f14971739f'
 title: 'Triveni Ghat: Guía de viaje de Rishikesh (4.6★)'
 description: 'Triveni Ghat es el principal ghat de baño de Rishikesh a orillas del Ganges (sin cremaciones), célebre por su ceremonia nocturna del fuego, la Ganga Aarti, al atardecer. 4.6★ (62.144 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Triveni Ghat es el principal ghat de baño de Rishikesh a orillas del Ganges, sin cremaciones, célebre sobre todo por su ceremonia nocturna del fuego, la Ganga Aarti, al atardecer. Es un lugar muy visitado y nada secreto, así que conviene ir a primera hora de la mañana (hacia el amanecer) para un baño y un darshan tranquilos, o llegar bastante antes de que suene la campana de la aarti si se quiere un sitio en los escalones junto al río en vez de quedarse en las filas de atrás.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Para una visita al amanecer basta con 30-45 minutos; por la tarde conviene calcular cerca de una hora si se quiere llegar con tiempo y ver la ceremonia completa de la Ganga Aarti.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Triveni Ghat es tan importante
 

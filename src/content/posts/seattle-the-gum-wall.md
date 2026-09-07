@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nobody plans a trip around a wall of used chewing gum, and yet here you are, phone out, half-laughing, half-grossed out, looking for a bare patch of brick to press your own wad onto. That's the whole appeal. The Gum Wall is one of those attractions that shouldn't work — it's sticky, it's a little unhygienic, city health officials have scraped it clean more than once — and it keeps coming back because visitors keep feeding it.

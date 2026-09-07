@@ -44,8 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a corner in Lion Grove Garden and the path just stops being a path — it dissolves into a knot of grey, pitted limestone that loops back on itself, dips underground, and pops out somewhere you didn't expect. This is the garden's whole reason for being: a Yuan-dynasty rockery labyrinth, piled up by Buddhist monks in the 1300s, in which the eroded Taihu stones were said to look like lions crouched mid-roar.

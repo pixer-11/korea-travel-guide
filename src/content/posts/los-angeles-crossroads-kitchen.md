@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Crossroads Kitchen stands out
 
 You don't expect a vegan restaurant to feel like this. Crossroads Kitchen, tucked into a low-slung building on Melrose Avenue, greets you with dim amber lighting, a marble bar, and the low hum of conversation over cocktails.

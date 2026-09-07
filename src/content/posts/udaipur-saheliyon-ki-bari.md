@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Saheliyon ki Bari not for scale but for the fine-grained craftsmanship of it: black marble kiosks (chhatris) ringed by fountains, lotus-shaped pools flecked with green algae in the heat, and stone elephants with trunks raised as if mid-trumpet, water once meant to spray from them in looping arcs during monsoon celebrations. The name translates to "Garden of the Maidens," built in the early 1700s under Maharana Sangram Singh II as a retreat for the queen and the forty-eight attendants who accompanied her as dowry.

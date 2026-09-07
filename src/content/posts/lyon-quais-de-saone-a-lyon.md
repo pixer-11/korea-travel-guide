@@ -76,8 +76,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Saône doesn't get the postcard fame of the Rhône, and that's exactly the point. This is Lyon at walking pace: honey-stone buildings leaning over the water, plane trees dropping dappled light onto the paving, the occasional barge sliding past without a sound.

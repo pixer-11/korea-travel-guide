@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-seoul-forest-park
-srcHash: '245fe3fe292b'
+srcHash: '611845f038f0'
 title: 'Parque Forestal de Seúl (Seoul Forest Park): Guía de viaje (4,6★)'
 description: 'El Parque Forestal de Seúl (Seoul Forest, en Seongdong-gu) es un parque público gratuito y abierto las 24 horas junto al río Han, conocido sobre todo por su recinto de ciervos, su jardín de mariposas, su jardín de rosas y sus sendas para bicicleta a orillas del río. 4,6★ (10.886 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Forestal de Seúl (Seoul Forest, en Seongdong-gu) es un parque público gratuito y abierto las 24 horas junto al río Han, conocido sobre todo por su recinto de ciervos, su jardín de mariposas, su jardín de rosas y sus sendas para bicicleta a orillas del río. Es muy popular, especialmente los fines de semana, por lo que las mañanas de entre semana son el momento más tranquilo para visitarlo. No se necesita entrada, pero conviene confirmar en la web oficial de Seoul Forest los horarios de las exposiciones especiales antes de ir.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre dos y tres horas bastan para recorrer con calma las zonas principales (la zona de los ciervos, la casa de las mariposas, el jardín de rosas y el sendero junto al río).
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Qué es realmente Seoul Forest
 

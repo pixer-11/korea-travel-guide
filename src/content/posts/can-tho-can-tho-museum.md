@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why bother with a provincial history museum
 
 You don't come to Can Tho Museum for polish. You come because it lays out, room by room, how this Mekong Delta city actually formed — floating markets, wartime resistance, rice-farming life — in a way the riverfront alone won't tell you.

@@ -101,8 +101,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step off Cotton Tree Drive and the traffic noise just drops away. Glass towers loom on every side, but inside the park's walls it's water sounds, birdsong, and shade.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: 'cac2743e3c08'
+srcHash: '1ede0867b8ce'
 title: 欧洲与地中海文明博物馆(MuCEM):马赛旅游指南
 description: 前往老港(Vieux-Port)入口处、J4广场上的欧洲与地中海文明博物馆(MuCEM,Musée des Civilisations de l'Europe et de la Méditerranée),并尽量选在傍晚6点至9点的夜间开放时段前往——无论工作日还是周末，这都是人最少的时段。4.4星(24,438条评价)——游客怎么说、开放时间及游览贴士。
 quickAnswer: 前往老港(Vieux-Port)入口处、J4广场上的欧洲与地中海文明博物馆(MuCEM,Musée des Civilisations de l'Europe et de la Méditerranée),并尽量选在傍晚6点至9点的夜间开放时段前往——无论工作日还是周末，这都是人最少的时段。周末人流高峰出现在上午11点至下午6点，如果你只能在这个时间段来，一定要在开馆时准时到达。建议预留两到三个小时，如果还要走天桥去圣让堡(Fort Saint-Jean),时间要更长一些。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想延长行程，附近有什么可以去的地方?
     a: 老港(Vieux-Port)就在旁边，那里有鱼市和前往弗里乌尔群岛(Frioul islands)的船票;马赛最古老的街区帕尼耶(Panier)也在往北步行不远处。
 ---
-
-> **本指南制作方式:** 经编辑审核、由AI辅助生成。事实信息来自谷歌地图(Google Places)实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 还没走到MuCEM,你就已经能看见它了。黑色混凝土镂空外墙如蕾丝一般包裹着这座立方体建筑，仿佛一只裹上铁艺花纹的集装箱，整栋建筑仿佛悬浮在J4广场的边缘，三面环海。从老港(Vieux-Port)往外走，地中海便在眼前豁然展开——海岸线上排列着集装箱起重机，渡轮缓缓驶向科西嘉岛和北非，对面则是圣让堡(Fort Saint-Jean)的城墙。
 

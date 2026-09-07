@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-founding-farmers-dc
-srcHash: '6c13b7bd7404'
+srcHash: 'd317de40d5cf'
 title: 'Founding Farmers DC: dónde comer en Washington DC'
 description: Founding Farmers DC, en 1924 Pennsylvania Ave NW cerca de Foggy Bottom/George Washington University, es un local americano de la granja a la mesa conocido por sus bizcochos de buttermilk, el chicken and waffles y su brunch de todo el día — cuenta con esperar, ya que es uno de los restaurantes con más reseñas de la ciudad (más de 23,000 reseñas, 4.5 estrellas).
 quickAnswer: Founding Farmers DC, en 1924 Pennsylvania Ave NW cerca de Foggy Bottom/George Washington University, es un local americano de la granja a la mesa conocido por sus bizcochos de buttermilk, el chicken and waffles y su brunch de todo el día — cuenta con esperar, ya que es uno de los restaurantes con más reseñas de la ciudad (más de 23,000 reseñas, 4.5 estrellas). Ve entre semana antes del mediodía o después de las 2pm para evitar lo peor de las multitudes, y reserva con anticipación para el brunch de fin de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si tengo que esperar mesa?
     a: La terraza junto al río del Kennedy Center y el complejo Watergate están ambos a poca distancia caminando, lo que permite dar un paseo tranquilo mientras esperas el mensaje de que tu mesa está lista.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de datos en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo hueles antes de ver el menú: mantequilla tibia, café tostándose, algo dulce y con aroma a levadura que se escapa de la cocina abierta. Founding Farmers está en la base de una torre de oficinas en Pennsylvania Avenue NW, a pocas cuadras del World Bank y de George Washington University, y el contraste es parte del encanto — afuera, el DC de vidrio y acero; adentro, madera reciclada de granero, herramientas agrícolas vintage sin combinar y vigas de madera rústica.
 

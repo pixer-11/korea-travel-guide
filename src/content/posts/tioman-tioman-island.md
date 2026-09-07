@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Tioman pulls you in
 
 You feel it as the ferry rounds the headland and the island's granite peaks appear through the haze. Rainforest runs straight down to the waterline, no buildings breaking the green until you're nearly on top of the beach. This is a proper nature reserve, not a resort strip, and it shows in how quickly the jungle takes over past the last chalet.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-central-mid-levels-escalators
-srcHash: '3810aebdcf81'
+srcHash: '4adca8aafa27'
 title: 'Escaleras Mecánicas Central-Mid-Levels: Guía de Viaje (4.1★)'
 description: 'Las Escaleras Mecánicas Central-Mid-Levels son el sistema de escaleras mecánicas cubiertas al aire libre más largo del mundo: 800 metros de escaleras y pasillos rodantes que suben desde Central, atraviesan Soho y llegan hasta Mid-Levels. 4.1★ (10,425 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Las Escaleras Mecánicas Central-Mid-Levels son el sistema de escaleras mecánicas cubiertas al aire libre más largo del mundo: 800 metros de escaleras y pasillos rodantes que suben desde Central, atraviesan Soho y llegan hasta Mid-Levels. Funcionan cuesta abajo de 6 a 10 a. m. y cuesta arriba de 10:20 a. m. a medianoche, son gratuitas y el recorrido completo dura unos 20 minutos. Los fines de semana de 10 a. m. a 8 p. m. concentran la mayor afluencia, así que un paseo temprano por la mañana o por la noche resulta más tranquilo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena visitar?
     a: Central Market en la base, Lan Kwai Fong y las calles de bares de Soho a mitad de camino, y el Man Mo Temple a poca distancia caminando desde Hollywood Road.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

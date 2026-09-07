@@ -106,8 +106,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this stretch, and not the others
 
 Of the four connecting paths in Cinque Terre, Monterosso to Vernazza is the one people talk about for a reason.

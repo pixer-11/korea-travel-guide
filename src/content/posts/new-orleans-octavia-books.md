@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Octavia Books is worth the detour
 
 You won't stumble onto this one by accident. Octavia Books sits on a quiet residential corner in Uptown New Orleans, tucked into a strip that feels more neighborhood than tourist trail.

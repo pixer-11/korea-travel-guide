@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: langkawi-dataran-lang
-srcHash: '6df99141895b'
+srcHash: 'caad3167f887'
 title: 'Dataran Lang: guía de viaje de Langkawi'
 description: Dataran Lang (Eagle Square) se encuentra en el paseo marítimo de Kuah, en Langkawi, a cinco minutos en coche o 15 minutos a pie del muelle de Kuah (Kuah jetty), donde atracan los ferris procedentes de Penang y de la península.
 quickAnswer: Dataran Lang (Eagle Square) se encuentra en el paseo marítimo de Kuah, en Langkawi, a cinco minutos en coche o 15 minutos a pie del muelle de Kuah (Kuah jetty), donde atracan los ferris procedentes de Penang y de la península. Es una parada muy popular y muy fotografiada, más que un rincón escondido, así que calcula entre 30 y 45 minutos y procura ir a primera hora de la mañana o justo antes de la puesta de sol para fotografiar la enorme estatua del águila sin que se llene de grupos turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La zona de tiendas libres de impuestos (duty-free) de Kuah está justo enfrente, cruzando la carretera, y el muelle de Kuah, con sus cafés frente al mar, está a un corto paseo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El águila te ve antes de que tú la veas. Avanzando por Persiaran Putera en Kuah, la carretera serpentea entre tiendas y almacenes de productos libres de impuestos, y de repente se abre la plaza y ahí está: un águila de hormigón y fibra de vidrio con una envergadura de 12 metros, alas echadas hacia atrás, garras aferradas a una gran roca esculpida, mirando hacia el estrecho en dirección a Tailandia.
 

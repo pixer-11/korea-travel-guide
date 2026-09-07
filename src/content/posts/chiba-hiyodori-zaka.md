@@ -81,8 +81,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Hiyodori-Zaka is worth the detour
 
 Sakura sits about an hour east of central Tokyo, and most visitors to Chiba blow straight past it on the way to Narita Airport. That's the reason Hiyodori-Zaka still feels so undisturbed. This is a sunken lane, cut between two earthen embankments and topped with clipped hedges (*ikegaki*), that once connected the homes of mid-ranking samurai serving the Sakura Domain.

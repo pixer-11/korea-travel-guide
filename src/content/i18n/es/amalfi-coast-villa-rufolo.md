@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-villa-rufolo
-srcHash: '912d637b2f41'
+srcHash: 'c07f7458bdfc'
 title: 'Villa Rufolo: Guía de viaje de la Costa Amalfitana (4.6★)'
 description: 'Villa Rufolo se encuentra justo en la Piazza Duomo de Ravello, una villa del siglo XIII con influencia morisca cuyos jardines escalonados enmarcan una de las vistas al mar más fotografiadas de la Costa Amalfitana. 4.6★ (20,676 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Villa Rufolo se encuentra justo en la Piazza Duomo de Ravello, una villa del siglo XIII con influencia morisca cuyos jardines escalonados enmarcan una de las vistas al mar más fotografiadas de la Costa Amalfitana. Reserva entre 45 y 60 minutos para recorrer las torres, el claustro y el mirador. Las multitudes disminuyen antes de las 9am y se mantienen más ligeras hasta primera hora de la mañana y por la noche; los fines de semana entre el mediodía y las 5pm son el tramo más concurrido, así que procura ir antes o después de esa franja.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor temporada para visitarla?
     a: De primavera a principios de verano para ver los jardines en flor, y de junio a septiembre si quieres asistir a un concierto del Festival de Ravello celebrado en el mirador.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Subes por las curvas desde Amalfi o Minori, con los oídos todavía taponados por la subida, y Ravello se abre plano y silencioso tras el drama vertical de la carretera de la costa. La Piazza Duomo es tan pequeña que se cruza en veinte pasos, y la entrada de Villa Rufolo está justo al lado, escondida tras un arco de piedra que apenas revela nada.
 

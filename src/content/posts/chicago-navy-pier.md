@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the shift before you even reach the entrance — the crowd thickens, the lake wind picks up, and the skyline suddenly opens up behind you as Lake Michigan spreads out to the horizon. Navy Pier juts nearly a mile out into the water, and it's less a single attraction than a small self-contained district: fairground rides, a stained-glass museum, formal gardens, restaurants, a marina full of tour boats, and — most evenings from Memorial Day through Labor Day — fireworks that light up over the water.

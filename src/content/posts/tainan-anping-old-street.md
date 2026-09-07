@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Anping Old Street matters
 
 Long before Tainan became Taiwan's food-obsessed cultural capital, Anping was its front door. This is where Dutch traders set up shop in the 1620s, building the fort that would become the seed of Dutch colonial rule on the island. Yanping Street, the spine of today's Old Street, is generally recognized as Taiwan's oldest commercial street — and walking it, you're tracing a trade route that predates the Qing dynasty's arrival, let alone modern Taipei.

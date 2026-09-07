@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Yat Tung Heen for the kind of Cantonese cooking that takes decades to get right. It's on Level B2 of Eaton HK, one flight down from the Nathan Road traffic, and the contrast is immediate — hushed, dim-lit, waiters in crisp uniforms gliding between rosewood-toned tables.

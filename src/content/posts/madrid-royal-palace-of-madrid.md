@@ -68,8 +68,6 @@ faq:
     a: Yes — it's one of the most-visited sites in Madrid, and booking a timed-entry ticket online avoids a potentially long walk-up line at the ticket counter.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up from Calle Bailén and the palace announces itself before you've even reached the gate: a long white-granite and stone façade stretched along a ridge above the Manzanares valley, so vast it takes a moment to register that it's a single building. This is the official residence of the Spanish royal family, though no one actually lives here anymore — it's used only for state ceremonies — which is exactly why you're allowed to wander through nearly fifty rooms of gilded excess without a velvet rope in sight.
 
 ## Why go

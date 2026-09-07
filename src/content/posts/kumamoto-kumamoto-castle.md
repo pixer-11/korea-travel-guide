@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kumamoto Castle still stops people in their tracks
 
 The first view hits you from the moat road below: black-and-white walls stacked on a stone base that curves outward like a wave frozen mid-break. Locals call that curve *musha-gaeshi* — "warrior repeller" — because the overhang made the walls nearly impossible to scale. Even now, with scaffolding gone from the 2016 earthquake repairs, the main keep looks less built than grown out of the hill.

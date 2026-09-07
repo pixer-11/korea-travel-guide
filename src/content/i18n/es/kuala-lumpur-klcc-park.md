@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-klcc-park
-srcHash: '5512dd93210b'
+srcHash: '3f7f1d45076e'
 title: 'Parque KLCC: Guía de viaje de Kuala Lumpur (4,7★)'
 description: 'El Parque KLCC es la zona verde de 20 hectáreas a los pies de las Torres Petronas, abierta todos los días de 6:00 a 22:00, famosa por sus espectáculos coreografiados de fuentes y las vistas del Lake Symphony hacia las torres. 4,7★ (63.893 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque KLCC es la zona verde de 20 hectáreas a los pies de las Torres Petronas, abierta todos los días de 6:00 a 22:00, famosa por sus espectáculos coreografiados de fuentes y las vistas del Lake Symphony hacia las torres. Conviene ir entre las 7:00 y las 9:00-10:00 si se quieren los senderos y el parque infantil sin gente; los fines de semana, a partir de las 17:00, se llena rápido de fotógrafos que persiguen el atardecer sobre el perfil urbano. Lleve agua, use sandalias para la piscina infantil y calcule una hora para recorrer el circuito y ver un espectáculo de fuentes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿La entrada al Parque KLCC es gratuita?
     a: 'Sí, no hay tarifa de admisión ni se necesita entrada: es un parque público abierto a los pies de las Torres Petronas.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

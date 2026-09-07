@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Pre Rup Earns Its Reputation
 
 Pre Rup looks like a mountain built by hand, because that's essentially what it is. Constructed in 961 under King Rajendravarman, it's a state temple-mountain of brick, laterite and sandstone, meant to represent Mount Meru, the cosmic axis of Hindu belief.

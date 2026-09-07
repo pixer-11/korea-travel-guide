@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't climb Elephant Mountain for solitude — you climb it for the single most photographed skyline shot in Taiwan. From a cluster of granite boulders on the ridge, Taipei 101 rises directly across the valley, close enough that you can pick out the lights blinking on its spire as the sky turns orange behind it. It's a short, punishing staircase and a big payoff, which is exactly why it's become the city's signature after-work and sunset ritual for both residents and every visitor with a phone camera.

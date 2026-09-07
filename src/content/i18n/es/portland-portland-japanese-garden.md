@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: portland-portland-japanese-garden
-srcHash: '08c60d19044f'
+srcHash: '9db246d578f4'
 title: 'Jardín Japonés de Portland: Guía de Viaje (4.6★)'
 description: 'El Jardín Japonés de Portland (Portland Japanese Garden) se encuentra en Washington Park, en Portland, Oregón, y conviene organizar la visita en torno a las horas de más gente en lugar de intentar evitarlas del todo: es una atracción muy popular, no un rincón escondido. 4.6★ (8,314 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Jardín Japonés de Portland se encuentra en Washington Park, en Portland, Oregón, y conviene organizar la visita en torno a las horas de más gente en lugar de intentar evitarlas del todo: es una atracción muy popular, no un rincón escondido. Los fines de semana hay mucha afluencia entre las 10:00 y las 17:00, así que lo ideal es ir un día laborable a primera hora de la mañana, justo a la apertura. Conviene reservar entre 90 minutos y dos horas para recorrer con calma los ocho estilos de jardín.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay aparcamiento disponible en el propio recinto?
     a: Washington Park cuenta con aparcamiento de pago que se llena rápido los fines de semana; llegar antes de media mañana o tomar el MAX son opciones más fiables.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué este jardín y no cualquier otro
 

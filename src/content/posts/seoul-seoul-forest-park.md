@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What Seoul Forest actually is
 
 This is a 120-hectare public park in Seongdong-gu, built on former military and golf-course land along the Jungnangcheon stream near the Han River. Five zones make up the park: Culture and Arts Park, Ecological Forest, Nature Experience Learning Center, Han River Waterside Park, and a wetland zone with an observation deck. The Ecological Forest is where the deer live, roaming a fenced meadow you can view up close along a boardwalk.

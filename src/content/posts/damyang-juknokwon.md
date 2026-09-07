@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step through the entrance gate and the temperature drops before you've walked ten meters — that's the bamboo doing its work, filtering the Jeolla sunlight into a shifting green-gold haze. Juknokwon isn't a single grove; it's a 31-hectare park stitched together from eight named paths — Unhyang-gil, Sasibudae-gil, Jeongsimpumseong-gil among them — that thread through stands of moso bamboo so dense the culms creak and knock together overhead when the wind picks up.

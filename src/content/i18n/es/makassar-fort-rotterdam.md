@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: makassar-fort-rotterdam
-srcHash: 'ed2c8d7f9f37'
+srcHash: '033700660cc0'
 title: 'Fuerte Rotterdam: guía de viaje de Makassar (4,5★)'
 description: 'El Fuerte Rotterdam es una fortificación holandesa-gowanesa del siglo XVII en el centro de Makassar, abierta todos los días de 8:00 a 18:00, que se recorre fácilmente en 1-2 horas. 4,5★ (14.441 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Fuerte Rotterdam es una fortificación holandesa-gowanesa del siglo XVII situada en el centro de Makassar, abierta todos los días de 8:00 a 18:00, y se recorre fácilmente en 1-2 horas. Al tratarse de uno de los lugares más visitados de la ciudad, conviene ir a primera hora de la mañana o a última de la tarde para esquivar los grupos turísticos y el calor del mediodía. La entrada es económica y el fuerte queda a poca distancia a pie de la playa de Losari y del puerto de Paotere.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para prolongar la visita?
     a: La playa de Losari queda a poca distancia a pie y es ideal para ver la puesta de sol, mientras que el puerto de Paotere, un tradicional puerto de goletas bugis, está a un breve trayecto en coche y permite sumar un toque de historia marítima.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son de uso libre o con licencia. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sentosa-fort-siloso
-srcHash: 'aaa82acba8b9'
+srcHash: '5192ed17a9e3'
 title: 'Fort Siloso: Guía de viaje de Sentosa (4,6★)'
 description: 'Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. 4,6★ (2.611 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. Las mañanas de fin de semana entre las 9:00 y las 11:00 son el momento más tranquilo, así que aprovecha esa franja si quieres tener las baterías de artillería y los túneles para ti solo. Reserva al menos dos horas para recorrer todo el recinto, y más si te apasiona la historia militar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca de Fort Siloso?
     a: Siloso Beach está a un corto paseo, y el Sentosa Merlion y la estación del teleférico se pueden alcanzar en la misma ruta de autobús lanzadera gratuito.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Se llega a Fort Siloso caminando, en bicicleta o en el autobús gratuito Sentosa Bus A hasta el final de Siloso Road, donde el dosel de la jungla se espesa y la costa se adentra hacia el estrecho de Singapur. Se trata del único fuerte costero completamente conservado que queda en el país, construido por los británicos en la década de 1880 y ampliado durante las dos guerras mundiales para proteger el acceso al puerto.
 

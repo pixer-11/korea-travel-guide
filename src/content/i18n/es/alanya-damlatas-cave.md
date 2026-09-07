@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alanya-damlatas-cave
-srcHash: '42a58a0a0889'
+srcHash: '7b0ecde88c10'
 title: 'Cueva de Damlataş: guía de viaje de Alanya (4,2★)'
 description: 'La Cueva de Damlataş se encuentra justo detrás de la playa de Damlataş, en Alanya, a cinco minutos a pie del puerto, y abre todos los días de 9:00 a 19:00. 4,2★ (27.451 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Cueva de Damlataş se encuentra justo detrás de la playa de Damlataş, en Alanya, a cinco minutos a pie del puerto, y abre todos los días de 9:00 a 19:00. Basta con dedicarle entre 20 y 30 minutos, ya que se trata de una sola sala, famosa por sus estalactitas y por el aire cálido y húmedo que, según los lugareños, alivia el asma. Es una parada muy popular, así que conviene ir a primera hora de la mañana para evitar las aglomeraciones de los autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es recomendable la Cueva de Damlataş para personas con asma?
     a: Desde hace tiempo, los lugareños la consideran beneficiosa para las afecciones respiratorias gracias a su microclima cálido y muy húmedo, aunque conviene tomarlo como una creencia popular tradicional y no como una garantía médica.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarla
 

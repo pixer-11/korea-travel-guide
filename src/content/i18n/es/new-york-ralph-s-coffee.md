@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-ralph-s-coffee
-srcHash: '6ec201424f05'
+srcHash: 'f8281a62994e'
 title: 'Ralph''s Coffee: Guía de viaje de Nueva York (4.2★)'
 description: 'Ralph''s Coffee es la cafetería de la marca Ralph Lauren instalada dentro de la tienda insignia de estilo mansión en el 888 Madison Ave (con 72nd St), en el Upper East Side: aquí se pide un capuchino o el Ralph''s Coffee Ice Cream para disfrutarlo bajo el toldo de rayas verdes y blancas, ya sea dentro o en el pequeño patio. 4.2★ (1,609 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Ralph''s Coffee es la cafetería de la marca Ralph Lauren instalada dentro de la tienda insignia de estilo mansión en el 888 Madison Ave (con 72nd St), en el Upper East Side: aquí se pide un capuchino o el Ralph''s Coffee Ice Cream para disfrutarlo bajo el toldo de rayas verdes y blancas, ya sea dentro o en el pequeño patio. Abre todos los días de 8am a 6pm (hasta las 7pm los viernes y sábados); conviene ir justo a la apertura o cualquier mañana entre semana para evitar la afluencia de la tarde, ya que los fines de semana el mayor ajetreo se da entre la 1pm y las 6pm.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con la visita?
     a: La Frick Collection, el Met y la entrada Engineers' Gate de Central Park están todos a unos 15 minutos a pie, lo que hace de Ralph's una parada natural para tomar un café antes o después de visitar un museo o el parque.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

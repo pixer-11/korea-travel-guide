@@ -54,8 +54,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The first thing you notice climbing toward Alanya Castle is how the road keeps switching back on itself, the sea dropping away on both sides. This isn't one building but a whole fortified peninsula, walls snaking nearly 6.5km around a rocky headland the Seljuks fortified in the 13th century.

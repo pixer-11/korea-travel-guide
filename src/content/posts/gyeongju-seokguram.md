@@ -91,8 +91,6 @@ aiGenerated: true
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You climb through pine forest before you see it. The road up Mt. Tohamsan switchbacks through cool shade, cicadas buzzing in summer, and then the shrine appears almost without ceremony — a low stone structure set into the hillside, facing east toward a hidden slice of ocean.
 
 ## Why Seokguram matters

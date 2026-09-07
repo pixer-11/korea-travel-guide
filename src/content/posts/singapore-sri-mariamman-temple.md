@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot Sri Mariamman Temple before you reach it: a five-tiered gopuram tower rising over South Bridge Road, crammed with hundreds of painted deities in reds, golds, and turquoise. It's a jolt of colour against the shophouse rooftops of Chinatown, and it doesn't get less startling the closer you get.
 
 This is Singapore's oldest Hindu temple, founded in 1827 by an Indian immigrant, Naraina Pillai, who arrived on the same ship as Stamford Raffles. What stands today has been rebuilt and expanded since, but it's remained a working shrine to Mariamman, a goddess associated with protection from disease, for nearly two centuries.

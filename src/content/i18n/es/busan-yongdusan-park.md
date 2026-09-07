@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-yongdusan-park
-srcHash: 'b23d98dd3777'
+srcHash: '76a371dc6786'
 title: 'Parque Yongdusan: Guía de viaje de Busan (4,3★)'
 description: El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. 4,3★ (6.575 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. Está abierto las 24 horas, así que aprovecha para ir temprano: los fines de semana el momento más tranquilo es entre las 7 y las 8 de la mañana, mientras que las mañanas y tardes de días de semana (7am–11pm) también se mantienen manejables. Evita la avalancha de 10am a 9pm los fines de semana si quieres disfrutar de las escaleras mecánicas y los miradores sin agobios.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero hacer de esto una media jornada?
     a: Las calles comerciales de Nampo-dong y el mercado Gukje están a poca distancia caminando cuesta abajo, por lo que es fácil combinar el parque con un paseo más largo por el centro de Busan.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué el parque Yongdusan es un punto clave en una visita a Busan
 

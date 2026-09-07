@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Luli Island isn't really an island — it's a sandbar that surfaces and vanishes with the tide. At low tide, a long tongue of pale sand stretches out into water so shallow and clear you can see your own shadow on the seabed. At high tide, much of that sand disappears, leaving just a small mound with a few nipa huts on stilts. That transformation is the whole point of visiting.

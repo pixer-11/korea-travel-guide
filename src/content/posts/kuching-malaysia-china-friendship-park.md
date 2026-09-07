@@ -83,8 +83,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the river, not the monuments. Malaysia-China Friendship Park sits along a bend of the Sarawak River in Tabuan Heights, a few kilometres from the city center, and its whole appeal is the open sky over slow brown water.

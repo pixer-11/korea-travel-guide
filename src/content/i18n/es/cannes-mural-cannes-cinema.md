@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cannes-mural-cannes-cinema
-srcHash: '0109669c43ad'
+srcHash: '5bf70a7532e0'
 title: 'Mural del Cine de Cannes: Guía de viaje'
 description: El mural del Cine de Cannes se encuentra en el Quai Saint-Pierre, justo donde el puerto viejo se une con el Palais des Festivals, y es una parada de cinco minutos más que un destino en sí mismo.
 quickAnswer: El mural del Cine de Cannes se encuentra en el Quai Saint-Pierre, justo donde el puerto viejo se une con el Palais des Festivals, y es una parada de cinco minutos más que un destino en sí mismo — combínalo con un paseo por el muelle. Es realmente poco conocido, así que normalmente puedes conseguir una foto limpia sin pelearte por el espacio, incluso en temporada alta. Ve con la luz suave de la mañana o del atardecer para conseguir el mejor color en el muro.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena visitarlo si no soy un gran cinéfilo?
     a: Sí — tiene tanto que ver con el entorno (el puerto viejo, los barcos, el telón de fondo de Le Suquet) como con la obra en sí, y es una parada natural en el paseo entre la estación de tren y La Croisette.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

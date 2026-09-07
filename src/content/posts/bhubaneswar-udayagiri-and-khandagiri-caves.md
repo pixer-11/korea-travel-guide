@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Two low, scrub-covered hills rise on the outskirts of Bhubaneswar, and cut straight into their sandstone are dozens of cells, verandas, and courtyards hollowed out more than two thousand years ago for Jain monks. This isn't a reconstruction or a museum diorama — you're walking through the actual chiselled rooms where ascetics sat out the monsoon, tracing carved friezes of elephants, dancers, and hunting scenes that have weathered but not vanished.

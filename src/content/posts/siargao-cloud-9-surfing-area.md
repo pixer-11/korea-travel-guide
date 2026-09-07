@@ -49,8 +49,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You hear Cloud 9 before you see it — a low, rhythmic boom carrying over the coconut palms as you approach General Luna. Then the boardwalk appears: a long, weathered wooden pier zigzagging out over the reef flat, ending in a stilted tower where a knot of people always seems to be leaning on the rail, watching the swell. This is the wave that put Siargao on the surfing map in the 1990s, named by American surfers after the "Cloud 9" candy bar and the sense of euphoria riding it gives.

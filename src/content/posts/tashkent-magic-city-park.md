@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Magic City Park for the skyline it builds after dark. Turreted towers glow pink and gold against the Tashkent night, and for a couple of hours you could be in a storybook rather than the middle of a modern capital.

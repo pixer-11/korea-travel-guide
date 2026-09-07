@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one view: the Petronas Twin Towers rising straight out of a lake, framed by rain trees and joggers cutting across the grass. KLCC Park is 50 acres of curated jungle squeezed between shopping malls and traffic, and somehow it still feels like a genuine break from the city.

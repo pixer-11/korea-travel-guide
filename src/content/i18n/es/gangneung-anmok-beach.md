@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-anmok-beach
-srcHash: '438fe7f63f20'
+srcHash: '994150e02f87'
 title: 'Playa Anmok: Guía de viaje de Gangneung (4,3★)'
 description: 'La playa Anmok es la playa urbana de fácil acceso de Gangneung, conocida menos por el baño y más por la hilera de cafeterías que bordea la orilla, entre ellas el local original de Coffee Cupper Bohemian, al que se le atribuye haber iniciado la tendencia de las calles del café en Corea. 4,3★ (10.215 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La playa Anmok es la playa urbana de fácil acceso de Gangneung, conocida menos por el baño y más por la hilera de cafeterías que bordea la orilla, entre ellas el local original de Coffee Cupper Bohemian, al que se le atribuye haber iniciado la tendencia de las calles del café en Corea. Está abierta las 24 horas, recibe visitantes durante todo el año, y lo mejor es recorrerla al amanecer o al atardecer, cuando la arena y las terrazas de los cafés se vacían.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es gratis visitar la playa Anmok?
     a: Sí, está abierta las 24 horas y no tiene costo de entrada; solo se paga por los cafés, la comida o las actividades a lo largo de la calle.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

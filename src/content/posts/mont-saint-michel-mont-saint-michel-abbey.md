@@ -76,8 +76,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it from miles across the bay before you see anything else. The abbey rises straight out of flat sand and sky, granite spire needling upward, and it looks less like a building than something that grew there. Up close, the illusion holds: the whole village spirals up a rocky islet toward the church at its summit, one continuous climb from tidal flat to nave.

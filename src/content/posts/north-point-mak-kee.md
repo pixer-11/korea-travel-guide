@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Mak Kee isn't chasing anyone's attention, and that's exactly the appeal. This is a working noodle shop on Fortress Street, the kind of place North Point residents duck into between errands, not a destination restaurant dressed up for tourists.

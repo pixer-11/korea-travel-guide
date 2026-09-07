@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-tin-hau-temple-joss-house-bay
-srcHash: 'b44488bbf12e'
+srcHash: 'df64a51321e9'
 title: 'Templo de Tin Hau, Joss House Bay: Guía de Viaje de Sai Kung (4,2★)'
 description: 'El templo de Tin Hau, en Joss House Bay, se alza sobre Clear Water Bay, dentro del distrito de Sai Kung, y abre todos los días de 8:00 a 17:00. 4,2★ (173 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Tin Hau, en Joss House Bay, se alza sobre Clear Water Bay, dentro del distrito de Sai Kung, y abre todos los días de 8:00 a 17:00. Es un rincón tranquilo y poco conocido, incluso el día del festival dedicado a la propia diosa, y el momento más apacible para visitarlo es entre semana, de 8:00 a 9:00. Los fines de semana se llena rápido entre las 9:00 y las 16:00, así que conviene madrugar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: No hay tarifa de admisión; las donaciones para incienso y ofrendas son opcionales y se depositan en las cajas señalizadas del recinto.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Se trata del más grande y antiguo de los templos dedicados a Tin Hau en Hong Kong, aunque la estructura actual ha sido reconstruida y renovada a lo largo de los siglos. Se asienta en una ladera con vistas a Joss House Bay, la pequeña ensenada que toma su nombre directamente del templo. Durante generaciones, las familias de pescadores han venido aquí a rezar a Tin Hau, diosa del mar, para pedir protección en sus travesías.
 

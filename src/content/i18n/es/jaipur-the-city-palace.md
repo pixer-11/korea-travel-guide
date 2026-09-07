@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jaipur-the-city-palace
-srcHash: '6b55adc3821b'
+srcHash: '52735cf0ecf4'
 title: 'Palacio de la Ciudad de Jaipur (City Palace): guía de viaje (4,4★)'
 description: 'El Palacio de la Ciudad se encuentra en pleno corazón de la Ciudad Rosa de Jaipur, abre todos los días de 9:30 a 19:30 y requiere entre dos y tres horas para recorrerlo con calma. 4,4★ (59.331 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Palacio de la Ciudad se encuentra en pleno corazón de la Ciudad Rosa de Jaipur, abre todos los días de 9:30 a 19:30 y requiere entre dos y tres horas para recorrerlo con calma. Conviene ir justo a la apertura o entre las 10:00 y las 11:00 en día laborable, cuando hay menos gente, ya que los fines de semana entre el mediodía y las 18:00 se llena de visitantes. Aprovechando que ya se está en la zona, es buena idea combinar la visita con un paseo por el Gangori Bazaar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué lugares cercanos se pueden combinar con la visita?
     a: El observatorio de Jantar Mantar y el Hawa Mahal están a solo cinco minutos a pie, por lo que forman un recorrido natural de media jornada por la Ciudad Rosa.
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué el Palacio de la Ciudad sigue siendo imprescindible
 

@@ -109,8 +109,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Step through the colonnaded entrance and the first thing you notice is scale. Vaulted ceilings, marble floors, and rows of stone statuary that once stood in Javanese temples fill a courtyard bathed in filtered daylight.

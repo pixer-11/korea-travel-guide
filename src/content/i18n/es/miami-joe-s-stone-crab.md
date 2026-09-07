@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: miami-joe-s-stone-crab
-srcHash: '42da7fef9dcf'
+srcHash: 'f8dfec06cefa'
 title: 'Joe''s Stone Crab: dónde comer en Miami (4.5★)'
 description: Joe's Stone Crab, en 11 Washington Ave, en el barrio de South of Fifth de Miami Beach, es la institución centenaria donde la temporada de cangrejo (aproximadamente de mediados de octubre a mediados de mayo) provoca filas hasta la puerta. 4.5★ (11,615 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Joe's Stone Crab, en 11 Washington Ave, en el barrio de South of Fifth de Miami Beach, es la institución centenaria donde la temporada de cangrejo (aproximadamente de mediados de octubre a mediados de mayo) provoca filas hasta la puerta. Cierra los lunes y martes, y la cocina solo abre de 5 a 10pm los miércoles y jueves, sumando servicio de almuerzo (11:30am–2:30pm) de viernes a domingo — espera que todo el fin de semana, desde el mediodía hasta el cierre, esté concurrido, así que prepárate para esperar sin importar a qué hora vayas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego a Joe's Stone Crab sin auto?
     a: Está en South of Fifth, en Miami Beach, a unos 15–20 minutos caminando desde el distrito Art Deco de Ocean Drive, o un breve trayecto en rideshare/taxi; no hay línea de metro directa a Miami Beach.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo hueles antes de verlo: esa bruma salada y mantecosa que flota sobre Washington Avenue mientras los valets hacen señas a los autos hacia un estacionamiento que nunca alcanza. Joe's Stone Crab lleva haciendo esto desde 1913, y el edificio mismo parece haber absorbido un siglo de bandejas tintineantes y caparazones rotos: techos altos, reservados de madera oscura, fotos en blanco y negro del viejo Miami en las paredes, un comedor tan grande que engulle a la multitud de un viernes por la noche y aun así se vuelve a llenar una hora después.
 

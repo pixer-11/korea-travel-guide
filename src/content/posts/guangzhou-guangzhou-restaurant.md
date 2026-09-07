@@ -100,8 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Guangzhou Restaurant isn't a discovery you stumble on by accident — it's a landmark of Cantonese cooking that's been feeding this city for generations, and the name itself (广州酒家, literally "Guangzhou Restaurant") tells you exactly what it's proud of representing. You come here not for novelty but for the real thing: barbecue pork with a lacquered, slightly charred edge, silky rice-flour rolls, and the kind of old-fashioned banquet dishes — whole steamed fish, clay-pot rice, double-boiled soups — that a lot of newer restaurants have quietly stopped bothering to make properly.

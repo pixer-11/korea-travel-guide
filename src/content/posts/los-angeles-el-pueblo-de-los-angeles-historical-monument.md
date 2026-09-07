@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is where Los Angeles actually began. In 1781, forty-four settlers founded a pueblo here on the banks of the Los Angeles River, and the plaza they laid out is still the heart of the monument today.

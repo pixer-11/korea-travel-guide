@@ -48,8 +48,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Rose Valley earns its name honestly. As the sun drops toward the horizon, the layered volcanic rock — soft tuff carved by centuries of wind and rain — turns from beige to a deep, dusty pink, then almost red.

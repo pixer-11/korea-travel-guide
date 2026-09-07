@@ -100,8 +100,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot Telmessos before you reach it. Climb any of the narrow streets above Fethiye's harbor and your eye catches rectangular black openings punched into the pale limestone, columns and pediments carved straight into the rock like a temple front glued to a cliff.

@@ -85,8 +85,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What's inside
 
 Chuncheon National Museum sits on Useok-ro, a short drive from central Chuncheon, purpose-built to tell the story of Gangwon-do rather than Korea at large. Its permanent galleries move chronologically: Paleolithic and Neolithic tools from local excavations, Bronze Age dolmens, Goguryeo and Silla-era artifacts, then Joseon Confucian and folk material tied to the region's mountain culture. A standout is the museum's collection tied to Cheongdong-ri and other Gangwon dig sites, rarely seen outside this building.

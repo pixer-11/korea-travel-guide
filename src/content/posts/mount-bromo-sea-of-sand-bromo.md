@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What the Sea of Sand actually is
 
 You crest a ridge above Cemorolawang and the landscape just stops being green. Ahead is a flat, pale-grey expanse ringed by crater walls, with Bromo's cone smoking gently in the middle.

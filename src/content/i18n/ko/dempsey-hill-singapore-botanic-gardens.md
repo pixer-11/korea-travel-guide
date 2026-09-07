@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'daa18b3243c5'
+srcHash: '1702196fbad0'
 title: '싱가포르 보태닉 가든: 뎀시 힐(Dempsey Hill) 여행 가이드 (4.7★)'
 description: 싱가포르 보태닉 가든(Singapore Botanic Gardens)은 뎀시 힐(Dempsey Hill) 초입에 자리한 무료 입장 82헥타르 규모의 유네스코 세계문화유산 공원으로, 매일 오전 5시부터 자정까지 개방됩니다. 4.7★ (리뷰 46,749개) — 방문객 후기, 운영 시간, 방문 팁을 확인해보세요.
 quickAnswer: 싱가포르 보태닉 가든(Singapore Botanic Gardens)은 뎀시 힐(Dempsey Hill) 초입에 위치한 무료 입장 82헥타르 규모의 유네스코 세계문화유산 공원으로, 매일 오전 5시부터 자정까지 개방됩니다. 주말이라면 오전 9시 이전에 일찍 방문해 인파를 피한 뒤, 내셔널 오키드 가든(National Orchid Garden)에서 시작해 스완 레이크(Swan Lake) 쪽으로 도는 코스를 추천합니다. 2~3시간 정도 잡으면 되고, 이후 뎀시에서 여유롭게 브런치까지 즐기려면 시간을 더 넉넉히 잡으세요.
@@ -17,8 +17,6 @@ faq:
   - q: 방문 후 식사할 만한 곳이 근처에 있나요?
     a: 뎀시 힐(Dempsey Hill)은 나심 게이트(Nassim Gate)나 탱글린 게이트(Tanglin Gate)에서 도보 5~10분 거리에 있으며, 옛 식민지풍 건물을 개조한 중가에서 고급까지 다양한 레스토랑들이 모여 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검수 및 AI 보조로 작성되었습니다. 정보는 구글 플레이스(Google Places)의 실시간 데이터를 기반으로 하며, 이미지는 라이선스 또는 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 가봐야 할 이유
 

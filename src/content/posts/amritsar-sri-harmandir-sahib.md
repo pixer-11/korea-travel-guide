@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The dome comes into view before the gate does — a soft gold blur above the rooftops of Katra Ahluwalia, reflected upside-down in a rectangular pool so still it looks poured rather than filled. You leave your shoes at the counter, wade through an ankle-deep water trough at the entrance, and step onto marble that's already warm or cold depending on the hour. Nobody rushes you. That's the first thing you notice.
 
 ## Why it holds you

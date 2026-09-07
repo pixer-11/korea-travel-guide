@@ -62,8 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the bend on Viale Brianza and the palace simply keeps unfolding — wing after wing of pale ochre stucco, hundreds of shuttered windows, a facade so long it seems designed to be seen from a passing carriage rather than on foot. This was the summer residence built in the 1770s for the Austrian Habsburgs' governor of Lombardy, later a favourite of Napoleon's viceroy, and later still the place where King Umberto I was assassinated in 1900.

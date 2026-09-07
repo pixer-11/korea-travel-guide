@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xi-an-xi-an-museum
-srcHash: '4fb772a87d17'
+srcHash: '6ef344079900'
 title: 'Museo de Xi''an: Guía de viaje (4.6★)'
 description: 'El Museo de Xi''an, en Youyi Xi Lu, en el distrito de Beilin, cerca de la Puerta Sur de la antigua muralla de la ciudad, es un museo gratuito y bien gestionado que abarca más de 3.000 años de historia de Xi''an, con el Templo Jianfu de la dinastía Tang y su Pequeña Pagoda del Ganso Salvaje como eje central, dentro del mismo parque. 4.6★ (193 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de Xi''an, en Youyi Xi Lu, en el distrito de Beilin, cerca de la Puerta Sur de la antigua muralla de la ciudad, es un museo gratuito y bien gestionado que abarca más de 3.000 años de historia de Xi''an, con el Templo Jianfu de la dinastía Tang y su Pequeña Pagoda del Ganso Salvaje como eje central, dentro del mismo parque. Calcula entre 2 y 2,5 horas: alrededor de una hora en las salas y luego un paseo tranquilo por los jardines y los terrenos de la pagoda. Ve un día de semana por la mañana para tener los patios casi para ti antes de que lleguen los grupos turísticos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿La Pequeña Pagoda del Ganso Salvaje está incluida en la misma visita?
     a: 'Sí: la pagoda y los terrenos de su jardín forman parte del mismo complejo que el museo, así que puedes ver ambos en una sola visita sin necesidad de planificar salidas separadas.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

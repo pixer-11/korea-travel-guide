@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-castle-clinton-national-monument
-srcHash: '0c9a38496903'
+srcHash: '20a607016e38'
 title: 'Castle Clinton National Monument: guía de viaje de Nueva York'
 description: Castle Clinton National Monument se encuentra en la punta sur de Battery Park, en Manhattan, justo junto al agua. 4.4★ (21,588 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'Castle Clinton National Monument se encuentra en la punta sur de Battery Park, en Manhattan, justo junto al agua. La entrada es gratuita y merece 20-30 minutos por tu cuenta: la mayoría de la gente pasa por aquí simplemente para comprar los billetes del ferry a la Estatua de la Libertad/Ellis Island, así que llega a primera hora de la mañana, antes de que se formen las colas del ferry, si realmente quieres recorrer el fuerte con calma.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si tengo tiempo de más?
     a: El carrusel SeaGlass (SeaGlass Carousel) de Battery Park y los caminos junto al agua están a un paso, y el 9/11 Memorial, Wall Street y el Skyscraper Museum quedan todos a unos 15-20 minutos a pie.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

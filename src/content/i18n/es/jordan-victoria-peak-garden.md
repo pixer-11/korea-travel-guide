@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-victoria-peak-garden
-srcHash: '6e74b4491a44'
+srcHash: '734301068d89'
 title: 'Victoria Peak Garden: Guía de viaje de Hong Kong (4.5★)'
 description: 'En lo alto de Mount Austin Road, en la isla de Hong Kong, se encuentra Victoria Peak Garden, al que se llega tras una breve caminata cuesta arriba dejando atrás las multitudes de la Peak Tower. Abre las 24 horas y la entrada es gratuita. 4.5★ (2.755 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de Mount Austin Road, en la isla de Hong Kong, se encuentra Victoria Peak Garden, al que se llega tras una breve caminata cuesta arriba dejando atrás las multitudes de la Peak Tower. Abre las 24 horas y no cobra entrada. Para disfrutar de las vistas más despejadas y tranquilas sobre la ciudad y el puerto, conviene ir a primera hora de la mañana o después del atardecer. Basta con 30-45 minutos, aunque si se lleva algo para picar puede alargarse la visita.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca si se quiere ver algo más?
     a: Las tiendas y los miradores de la Peak Tower quedan a un corto paseo cuesta abajo, y los senderos circulares de Lugard Road y Harlech Road ofrecen vistas panorámicas adicionales alrededor de la cima.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

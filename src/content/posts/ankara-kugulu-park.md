@@ -107,8 +107,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kuğulu Park is Ankara's most recognizable green space, and its name gives away the draw: "kuğulu" means "with swans." A round pond sits at the center, ringed by black and white swans gliding past mallards, with willow-lined paths circling the water in a loop you can walk in under ten minutes.

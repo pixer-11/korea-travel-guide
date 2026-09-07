@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The name isn't hype. Diamond Beach earns it with a limestone arch jutting from the shallows and sand so pale it looks bleached, framed by cliffs on both sides.

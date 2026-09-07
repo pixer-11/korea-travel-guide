@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Hoi An's Old Town is a gauntlet of tailor shops, lantern stalls and tour groups shuffling toward the Japanese Covered Bridge. Hoi An Art Gallery, tucked along Nguyễn Thái Học, is the antidote: a small, cool, quiet room where the only soundtrack is a fan turning overhead and the muffled street noise outside.

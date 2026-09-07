@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the stone before you see the detail — that cool, mineral hush of old limestone that hangs in the narrow streets of Toledo's former Jewish quarter. Then the facade opens up above you, and you understand why this church stopped being just a building and became a monument.
 
 Isabella and Ferdinand commissioned San Juan de los Reyes in the late 15th century to mark a military victory and to serve, eventually, as their burial place. Plans changed and they ended up in Granada instead, but the monastery they left behind is arguably the finer building. It's Gothic-Flemish architecture at its most theatrical, dense with heraldic eagles, pomegranates, and the yoke-and-arrow emblems of the Catholic Monarchs.

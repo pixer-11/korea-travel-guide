@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sukhothai-sukhothai-historical-park
-srcHash: 'f2a18da316f4'
+srcHash: '8601a977203b'
 title: 'Parque Histórico de Sukhothai: Guía de viaje (4.7★)'
 description: 'El Parque Histórico de Sukhothai, en la zona de la Ciudad Vieja (Mueang Kao) a las afueras de la actual Sukhothai, fue la capital tailandesa del siglo XIII declarada Patrimonio de la Humanidad por la UNESCO, y abre a diario de 6:30 a 19:30. 4.7★ (18.365 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Histórico de Sukhothai, en la zona de la Ciudad Vieja (Mueang Kao) a las afueras de la actual Sukhothai, fue la capital tailandesa del siglo XIII declarada Patrimonio de la Humanidad por la UNESCO, y abre a diario de 6:30 a 19:30. Es un lugar muy concurrido, así que conviene ir a primera hora de la mañana o en la última hora antes del cierre para contemplar los chedis de ladrillo y las imágenes de Buda sin aglomeraciones. Reserve medio día y alquile una bicicleta en la entrada, ya que solo la Zona Central abarca unas 70 hectáreas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega desde la ciudad de Sukhothai hasta el parque histórico?
     a: Los songthaews compartidos circulan con regularidad desde la estación de autobuses de la ciudad nueva hasta la entrada del parque, a unos 12 km de distancia, por una tarifa baja.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Al doblar un recodo del camino, la línea de árboles se abre a un campo de laterita y ladrillo donde hileras de budas decapitados permanecen sentados con un telón de fondo de colinas verdes y bajas. Este es el Parque Histórico de Sukhothai, el corazón en ruinas del primer reino independiente de Tailandia, y basta una mirada para comprender que no se trata de un monumento aislado, sino de toda una ciudad desaparecida.
 

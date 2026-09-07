@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot it before you know its name — the tower on the Silom skyline that looks like a giant pixel grid got sliced open, as if a bite were taken out of a block of mirrored glass. That's King Power Mahanakhon, and the "notch" isn't just an architectural gimmick: it's the visual signature of the building's spiraling glass cladding, a design meant to look unfinished, in-progress, alive.

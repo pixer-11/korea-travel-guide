@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Khalifa Park is Abu Dhabi's answer to a proper city park — not a patch of grass with a bench, but a genuinely designed landscape with water features, palm-lined walkways, and enough shade structures to make a midday walk bearable.

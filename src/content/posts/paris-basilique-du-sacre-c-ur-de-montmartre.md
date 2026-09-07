@@ -75,8 +75,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The white travertine dome of Sacré-Cœur is one of those Paris silhouettes you recognize before you've ever seen it in person — floating above the rooftops of the 18th arrondissement, self-cleaning stone gone paler with every rain. Completed in 1914 after decades of construction (the site was chosen in the 1870s as a national penance after the Franco-Prussian War and the Paris Commune), it's a working basilica, not a museum piece, and that changes how it feels once you're inside: candles burning, a low murmur of prayer, the enormous gold-and-blue apse mosaic of Christ in Majesty glowing over the choir even on a grey afternoon.

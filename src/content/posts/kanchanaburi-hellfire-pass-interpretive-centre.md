@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the temperature change before you understand why. Down a long staircase behind the museum, the jungle presses in on both sides and the air goes still and thick. Then the rock walls appear — sheer, hand-chiseled, twelve metres high in places — and you're standing in Hellfire Pass itself.
 
 ## Why this place hits differently

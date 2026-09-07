@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What this park actually is
 
 Royal Palace Park isn't a fenced botanical garden with a ticket booth. It's the open green buffer between the Royal Palace's yellow walls and the Tonle Sap riverfront, a strip of lawns, palm trees and paved walkways along Samdach Sothearos Boulevard.

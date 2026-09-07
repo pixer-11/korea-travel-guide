@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this café stands out
 
 Walk down Rue Ferrandière on a weekday morning and Café Joyeux announces itself before you even reach the door — the yellow-and-white signage, the chalkboard menu, the low hum of the espresso machine spilling onto the pavement. This is one of a small chain of French cafés (there are others in Paris, Bordeaux, Rennes) built around a genuinely useful idea: nearly all the baristas and servers have intellectual or cognitive disabilities, working real jobs at a real café, not a charity storefront pretending to be one.

@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Telok Ayer Street runs along what used to be Singapore's shoreline, back before land reclamation pushed the sea nearly a kilometre away. Thian Hock Keng stands exactly where Hokkien immigrants once stepped off their junks and walked straight to the Goddess of the Sea to give thanks for surviving the crossing. That's the whole reason it's here: this patch of ground was the first solid land many of them touched.
 
 ## A temple built without a single nail

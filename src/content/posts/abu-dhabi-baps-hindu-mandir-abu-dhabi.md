@@ -97,8 +97,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see the pink-and-cream sandstone spires before you even park — seven of them, rising out of the desert flatness like something airlifted from Rajasthan. This is the first traditional Hindu stone temple in the Gulf, opened in 2024, and it was carved by hand in India before being shipped and assembled here piece by piece.

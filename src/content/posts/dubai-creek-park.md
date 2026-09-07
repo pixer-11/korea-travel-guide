@@ -93,8 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Creek Park still matters
 
 Long before Dubai had its glass towers, the creek was the city's lifeline. Creek Park runs for kilometers along its southern bank, and it's still where families come to escape the concrete.

@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Les Deux Magots less for a single dish and more for the room itself — the wicker chairs lined up like theatre seats facing Place Saint-Germain-des-Prés, the brass rails worn smooth, the two carved wooden figures of Chinese dignitaries (the "magots" that give the place its name) watching over the interior from their perch near the bar.

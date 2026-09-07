@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Skytropolis exists
 
 You step off the cable car at Genting Highlands and the air is cool, sometimes fogged in cloud. Skytropolis is the resort's answer to that unpredictable mountaintop weather — an entire theme park moved indoors.

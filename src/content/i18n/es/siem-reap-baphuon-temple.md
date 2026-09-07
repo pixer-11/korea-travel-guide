@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-baphuon-temple
-srcHash: '28710cea06ef'
+srcHash: '6dc1869bd4e1'
 title: 'Templo de Baphuon: guía de viaje de Siem Reap (4.7★)'
 description: 'El templo de Baphuon se encuentra dentro de Angkor Thom, justo al norte del Bayon y a pocos minutos a pie de la Terraza de los Elefantes, abierto todos los días de 5:00 a 18:30. 4.7★ (2,173 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Baphuon se encuentra dentro de Angkor Thom, justo al norte del Bayon y a pocos minutos a pie de la Terraza de los Elefantes, abierto todos los días de 5:00 a 18:30. Recibe menos visitantes que Angkor Wat o el Bayon, así que conviene ir a media mañana o al final de la tarde para tener la terraza superior casi para uno solo. Calcule entre 30 y 45 minutos, incluida la empinada subida, y use calzado con buen agarre.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero seguir explorando Angkor Thom?
     a: El Bayon está a 5 minutos a pie hacia el sureste, y la Terraza de los Elefantes y la Terraza del Rey Leproso quedan justo al norte de Baphuon.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Baphuon sigue destacando
 

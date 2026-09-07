@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suzhou-suzhou-museum
-srcHash: 'fd4bdefa7ae8'
+srcHash: '1e0b08db42ab'
 title: 'Museo de Suzhou: Guía de viaje (4.4★)'
 description: El Museo de Suzhou, en Dongbei Jie junto al Jardín del Administrador Humilde, es una parada de medio día para quienes visitan el casco antiguo — entrada gratuita (reserva franja horaria en línea o en la puerta), diseñado por I.M. 4.4★ (478 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Museo de Suzhou, en Dongbei Jie junto al Jardín del Administrador Humilde, es una parada de medio día para quienes visitan el casco antiguo — entrada gratuita (reserva franja horaria en línea o en la puerta), diseñado por I.M. Pei, y se disfruta mejor justo al abrir en una mañana entre semana, antes de que lleguen los grupos turísticos. Calcula entre 90 minutos y dos horas, más si te detienes a disfrutar del patio-jardín.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Jardín del Administrador Humilde (Humble Administrator's Garden) está justo al lado, la Mansión del Príncipe Zhong (Prince Zhong's Mansion) linda con el museo, y tanto las tiendas de la calle Guanqian (Guanqian Street) como las casas de té junto al canal de la calle Pingjiang (Pingjiang Road) están a un corto paseo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

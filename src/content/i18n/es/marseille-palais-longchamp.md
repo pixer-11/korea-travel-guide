@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-palais-longchamp
-srcHash: '8365dd53d6c4'
+srcHash: 'f813c055fc9c'
 title: 'Palacio Longchamp: guía de viaje de Marsella (4,6★)'
 description: 'El Palacio Longchamp es el monumento decimonónico más grandioso de Marsella: un castillo de agua con columnata y una cascada central rugiente, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público en el distrito 4. 4,6★ (20.279 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Palacio Longchamp es el monumento decimonónico más grandioso de Marsella: un castillo de agua con columnata y una cascada central rugiente, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público en el distrito 4. Recorrer los jardines y las fuentes es gratis (los museos cobran una pequeña entrada), y se pueden ver los puntos destacados en menos de una hora, aunque también se puede pasear con calma dos horas por los jardines de alrededor. Conviene llegar justo a la apertura, sobre las 8 de la mañana, antes de que la plaza se llene de familias y fotógrafos más tarde.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con la visita?
     a: El barrio de Cours Julien, con su arte urbano y sus cafés, queda a un paseo de 20 minutos caminando hacia el sur, mientras que La Canebière y el Puerto Viejo se pueden alcanzar tanto a pie como con la misma línea de metro.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 Las torres se ven antes que el propio edificio. Subiendo por el Boulevard Longchamp desde la parada de metro Cinq Avenues, la calle se estrecha entre plátanos de sombra y, de pronto, se abre a una amplia plaza de grava donde aparece: dos alas de piedra curvas que se extienden una hacia la otra como brazos abiertos, con agua cayendo por el centro en una cascada escalonada y toros de bronce que brillan sobre el parapeto.
 

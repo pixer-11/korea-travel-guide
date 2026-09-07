@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampot-la-plantation
-srcHash: '2d6721ef41c5'
+srcHash: '5c84be7a767f'
 title: 'La Plantation: guía de viaje de Kampot (4,7★)'
 description: 'La Plantation es una finca de pimienta en funcionamiento a las afueras de Kampot, Camboya, en la aldea de Bosjheng, abierta todos los días de 9:00 a 17:00 (hasta las 19:00 los fines de semana). 4,7★ (2.375 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Plantation es una finca de pimienta en funcionamiento a las afueras de Kampot, Camboya, en la aldea de Bosjheng, abierta todos los días de 9:00 a 17:00 (hasta las 19:00 los fines de semana). Vale la pena venir para hacer un recorrido libre o una breve visita guiada por los viñedos de pimienta, probar las famosas pimientas roja, negra y blanca de Kampot, y disfrutar de un almuerzo de la granja a la mesa con vistas a los campos. Lo ideal es ir un día de semana a media mañana para evitar las multitudes del fin de semana y aprovechar la mejor luz para las fotos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo más para ver cerca?
     a: El templo-cueva de Phnom Chhngok y los campos de sal de Kampot están a poca distancia en auto, y suelen combinarse con una visita a La Plantation.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Mucho antes de llegar a La Plantation, el camino se convierte en tierra roja, una primera señal de que uno se dirige a una zona rural. Hileras de vides de pimienta trepan por enrejados de madera formando líneas ordenadas que se extienden hacia las colinas calizas que rodean la provincia de Kampot. El aire huele ligeramente a pimienta y a vegetación, sobre todo después de la lluvia.
 

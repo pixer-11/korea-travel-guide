@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cordoba-torre-de-la-calahorra
-srcHash: '95b2ee1ce276'
+srcHash: '1ade296fba61'
 title: 'Torre de la Calahorra: Guía de viaje de Córdoba (4,5★)'
 description: 'La Torre de la Calahorra es la torre-puerta fortificada de origen musulmán que vigila el extremo sur del Puente Romano de Córdoba, y hoy alberga un pequeño museo sobre Al-Ándalus y una azotea con las mejores vistas de la Mezquita de la ciudad. 4,5★ (4.582 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Torre de la Calahorra es la torre-puerta fortificada de origen musulmán que vigila el extremo sur del Puente Romano de Córdoba, y hoy alberga un pequeño museo sobre Al-Ándalus y una azotea con las mejores vistas de la Mezquita de la ciudad. Calcule entre 45 y 60 minutos para la visita. Abre todos los días de 10:00 a 14:00 y de 16:30 a 20:30; el momento con menos gente es entre las 19:00 y las 20:00, así que lo mejor es acudir en la última hora antes del cierre.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena si ya he visto la Alhambra?
     a: 'Sí: el principal atractivo es la propia torre, las vistas del río y el paseo por el Puente Romano, algo independiente de la maqueta a escala que hay en el interior.'
 ---
-
-> **Cómo se ha elaborado esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-museum-of-fine-arts-of-lyon
-srcHash: '577043455253'
+srcHash: '1745ccea014c'
 title: 'Museo de Bellas Artes de Lyon: Guía de viaje (4,5★)'
 description: 'El Musée des Beaux-Arts de Lyon, en la Place des Terreaux, alberga una de las mayores colecciones de bellas artes de Francia fuera del Louvre, instalada en una antigua abadía benedictina del siglo XVII. 4,5★ (9.269 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El Musée des Beaux-Arts de Lyon, en la Place des Terreaux, alberga una de las mayores colecciones de bellas artes de Francia fuera del Louvre, instalada en una antigua abadía benedictina del siglo XVII. Reserva entre dos y tres horas, ve a primera hora de la mañana entre semana si puedes, y ten en cuenta que cierra todo el día los martes. Los fines de semana se llena rápido entre las 11:00 y las 18:00, así que llega justo a la apertura para evitar las aglomeraciones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar la visita con otros lugares de interés?
     a: Las traboules del Vieux Lyon están a 15-20 minutos a pie cruzando el Saona, y el Musée Gadagne y la calle comercial Rue de la République están ambos muy cerca.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

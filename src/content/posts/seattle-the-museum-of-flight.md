@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Ten minutes south of downtown Seattle, right at the edge of Boeing Field, a glass-walled gallery holds more than 175 aircraft stacked in tiers under a six-story atrium. This is the Museum of Flight, and the scale hits you immediately: fighter jets suspended from steel trusses overhead, a Concorde parked outside on the tarmac, and a full-size Apollo command module sitting at floor level like it just landed.
 
 ## Orienting yourself in the Great Gallery

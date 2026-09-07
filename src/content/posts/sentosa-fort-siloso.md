@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You reach Fort Siloso by walking, cycling, or taking the free Sentosa Bus A to the very end of Siloso Road, where the jungle canopy thickens and the coastline juts out toward the Strait of Singapore. This is the only fully preserved coastal fort left in the country, built by the British in the 1880s and expanded through both World Wars to guard the harbour approach.
 
 What you're walking into isn't a single building but a hillside complex of gun emplacements, barracks, tunnels, and lookout points connected by covered walkways and a network of stairs. A free Segway-style "Skywalk" bridge and elevator system helps with the elevation change, which matters here since the fort is spread across a ridge rather than laid out flat.

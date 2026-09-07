@@ -65,8 +65,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the building as much as the collection. The glass-and-stone rotunda glows at dusk, a dome grafted onto a 19th-century Neoclassical shell, and the contrast between old colonial facade and glass extension tells its own story before you've read a single label.

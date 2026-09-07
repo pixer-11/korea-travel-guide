@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '72b1752bc44e'
+srcHash: '41c8bc247e2f'
 title: 'Museo de Arte del Condado de Los Ángeles (LACMA): Guía de viaje (4.6★)'
 description: El LACMA se extiende por 20 acres sobre Wilshire Boulevard, con el Broad Contemporary Art Museum como eje y la icónica instalación de faroles Urban Light en la entrada. 4.6★ (21,013 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El LACMA se extiende por 20 acres sobre Wilshire Boulevard, con el Broad Contemporary Art Museum como eje y la icónica instalación de faroles Urban Light justo en la entrada. Abre todos los días excepto los miércoles, y las horas más tranquilas en días de semana son entre las 6pm y las 7pm — los fines de semana se mantiene concurrido desde el mediodía hasta el cierre, así que conviene visitar por la mañana. Reserva al menos tres horas para recorrer aunque sea una fracción de la colección permanente.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito boleto para ver Urban Light?
     a: No — la instalación de faroles está fuera de las galerías de pago, justo sobre Wilshire Boulevard, y se puede ver y recorrer gratis en cualquier momento.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo ves antes de estacionar: hileras de faroles de hierro fundido restaurados que brillan en tono ámbar incluso al mediodía, plantados en una cuadrícula ordenada sobre un terreno de grava. Esta es *Urban Light*, de Chris Burden, y es la razón de la mitad de las fotos de Instagram de Los Ángeles. También es gratis recorrerla, visible directamente desde la acera de Wilshire Boulevard, sin necesidad de boleto.
 

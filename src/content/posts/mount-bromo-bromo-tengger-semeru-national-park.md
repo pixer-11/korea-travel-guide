@@ -46,8 +46,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bromo pulls people out of bed at 3am
 
 You feel the cold before you see anything. At Penanjakan or King Kong Hill, the air at 2,700 metres bites through a borrowed jacket while you wait in the dark.

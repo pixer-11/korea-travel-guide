@@ -49,8 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Brickell doesn't lack for slick restaurants with good lighting and mediocre food, so a taco counter that's consistently packed and consistently well rated stands out. Talkin' Tacos Brickell has built its name on exactly that combination: a big, loud, neon-lit room serving tacos, tequila, and mezcal. It's the kind of place where a work happy hour bleeds into a birthday party bleeds into a 1am plate of queso, and nobody at any of those tables looks out of place.

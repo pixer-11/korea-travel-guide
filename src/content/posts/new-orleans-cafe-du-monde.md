@@ -49,8 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You smell it before you see it: hot oil and powdered sugar drifting across Decatur Street, thick enough to cut through the mule-and-carriage smell of Jackson Square next door. Cafe Du Monde has been frying beignets and pouring chicory coffee on this corner since 1862, and the green-and-white striped awning has become as much a symbol of New Orleans as the streetcars.

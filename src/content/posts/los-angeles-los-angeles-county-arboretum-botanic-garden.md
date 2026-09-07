@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the strange collision of worlds packed into 127 acres. One minute you're under a canopy of towering Moreton Bay fig trees, roots buckling the pathway like something out of a jungle epic. The next, a peacock struts across the lawn in front of a white Queen Anne cottage, tail dragging through the grass like it owns the place. It does, more or less.

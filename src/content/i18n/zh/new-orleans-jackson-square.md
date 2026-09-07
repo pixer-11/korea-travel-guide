@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-jackson-square
-srcHash: '801c9beb3ec5'
+srcHash: '4bb349e69ab1'
 title: 杰克逊广场：新奥尔良旅行指南
 description: 杰克逊广场是法国区（French Quarter）的历史核心地带——一座建于1721年、四周设有围栏大门的公园，周围环绕着圣路易主教座堂、卡比尔多和庞塔尔巴大楼。
 quickAnswer: 杰克逊广场是法国区（French Quarter）的历史核心地带——一座建于1721年、四周设有围栏大门的公园，周围环绕着圣路易主教座堂（St. Louis Cathedral）、卡比尔多（the Cabildo）和庞塔尔巴大楼（the Pontalba Buildings）。只要大门开放（大致从清晨到黄昏），随时都可以免费进入游览，而且几乎全天都相当热闹，如果想避开人群，最好在日出后的第一个小时前往。游览广场本身建议预留45分钟到1小时，若想驻足欣赏肖像画家作画或算命，则需要更多时间。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有什么值得一并游览的地方？
     a: 咖啡厅Café du Monde（可以品尝法式甜甜圈beignets）就在一个街区外，密西西比河月光步道（Mississippi River Moonwalk）就在广场正后方，而法国市场（French Market）沿着迪凯特街一直延伸到主教座堂附近。
 ---
-
-> **本指南制作方式：** 经编辑审核、AI辅助完成。事实信息来自谷歌地图（Google Places）实时数据；图片均为授权使用或公共版权图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

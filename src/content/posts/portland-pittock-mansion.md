@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for the view first, the house second — and both deliver. From the terrace, downtown Portland spreads out below you, with Mt. Hood and Mt. St. Helens on the horizon on a clear day.

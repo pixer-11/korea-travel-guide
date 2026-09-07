@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is where Christianity in the Philippines is said to have begun. In April 1521, Ferdinand Magellan's expedition planted a wooden cross here after baptizing the local rajah and his family. Five centuries on, that moment still pulls crowds daily.

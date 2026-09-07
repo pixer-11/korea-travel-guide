@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: monza-reggia-di-monza
-srcHash: '0e09549f232d'
+srcHash: '1205de72075d'
 title: 'Guía de viaje: la Reggia di Monza'
 description: La Reggia di Monza es un vasto palacio real neoclásico ubicado justo al norte de Milán, abierto de miércoles a viernes de 14:30 a 19:30 h y los fines de semana (sábado de 10:30 a 18:30 h, domingo de 10:00 a 18:30 h), cerrado los lunes y martes.
 quickAnswer: La Reggia di Monza es un vasto palacio real neoclásico ubicado justo al norte de Milán, abierto de miércoles a viernes de 14:30 a 19:30 h y los fines de semana (sábado de 10:30 a 18:30 h, domingo de 10:00 a 18:30 h), cerrado los lunes y martes. Es un lugar muy visitado y no precisamente un secreto, así que conviene llegar justo a la apertura en una tarde de entre semana o temprano el domingo para adelantarse a las multitudes, que aumentan progresivamente entre las 10:00 y las 19:00 h los fines de semana. Reserva entre dos y tres horas para los apartamentos reales y al menos una hora más para recorrer el parque que lo rodea.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Está la Reggia di Monza conectada con el circuito del Gran Premio?
     a: 'Sí: el parque del palacio, el Parco di Monza, limita con el Autodromo Nazionale Monza, sede del Gran Premio de Italia, lo que hace muy fácil combinar ambas visitas para los aficionados al motor.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-ephesus-archaeological-site
-srcHash: 'b8d43eca22ed'
+srcHash: '03b9f841a37f'
 title: 'Sitio Arqueológico de Éfeso: Guía de viaje de Selçuk (4,8★)'
 description: 'Éfeso es una de las ciudades antiguas mejor conservadas del Mediterráneo, y con 4,8 estrellas de casi 15.000 reseñas, no es ningún secreto: ve justo a las 8 de la mañana, a la apertura, o después de las 16h para evitar la avalancha de autobuses turísticos.'
 quickAnswer: 'Éfeso es una de las ciudades antiguas mejor conservadas del Mediterráneo, y con 4,8 estrellas de casi 15.000 reseñas, no es ningún secreto: ve justo a las 8 de la mañana, a la apertura, o después de las 16h para evitar la avalancha de autobuses turísticos. Calcula al menos dos o tres horas, entra por la puerta superior (Magnesia) y camina cuesta abajo hasta la Biblioteca de Celso y el Gran Teatro. Usa calzado adecuado; las calles de mármol son resbaladizas y casi no hay sombra.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitar también el Templo de Artemisa?
     a: Es una parada rápida —solo queda una columna reconstruida en un campo cerca de la ciudad— pero muchos visitantes la combinan con el Museo Arqueológico de Éfeso en Selçuk, que conserva objetos del templo original.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Éfeso sigue dejando a la gente sin palabras
 

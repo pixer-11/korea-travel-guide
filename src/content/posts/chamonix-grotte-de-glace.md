@@ -68,8 +68,6 @@ aiGenerated: true
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here to walk inside a glacier, not just look at one. The Mer de Glace is France's largest glacier, and the Grotte de Glace is a tunnel of ice carved fresh into it every year.

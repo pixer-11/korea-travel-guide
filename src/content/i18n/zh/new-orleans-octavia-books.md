@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-octavia-books
-srcHash: 'e77778e1fcf2'
+srcHash: '5d99f0c6e2f5'
 title: Octavia Books：新奥尔良旅行指南（4.8★）
 description: Octavia Books 是新奥尔良（New Orleans）Uptown 街区一家精心挑选书目的独立小书店，靠近有轨电车线路，步行即可到达花园区（Garden District）。4.8★（460条评价）——游客怎么说、营业时间及游览贴士。
 quickAnswer: Octavia Books 是新奥尔良 Uptown 街区一家精心挑选书目的独立小书店，靠近有轨电车线路，步行即可到达花园区（Garden District）。工作日上午10点到11点，或周末下午4点到6点最为清静——尽量避开周六、周日中午到下午4点这段最繁忙的时段。建议预留30到45分钟，如遇作者活动可适当延长。
@@ -17,8 +17,6 @@ faq:
   - q: 如果我不是很爱读书，这里还值得一去吗？
     a: 值得——庭院、本地作者专区以及整体氛围，即便只是简单逛逛也会让人心情愉悦，而且很适合和 Magazine Street 的漫步行程搭配在一起。
 ---
-
-> **本指南制作说明：** 由编辑审核、AI辅助完成。事实信息来自 Google Places 实时数据；图片均为授权使用或公共领域。详见我们的[编辑政策](/about)。
 
 ## Octavia Books 为什么值得专程一去
 

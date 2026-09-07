@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-chang-mu-ko-chang-national-park
-srcHash: '315e6a85f8b1'
+srcHash: '1de92027e897'
 title: 'Parque Nacional Mu Ko Chang: guía de viaje de Koh Chang (4,5★)'
 description: 'El parque nacional Mu Ko Chang abarca la mayor parte de la isla de Koh Chang y el archipiélago que la rodea, en la provincia tailandesa de Trat, con senderos a cascadas en la selva, arrecifes para bucear y bahías bordeadas de manglares. 4,5★ (4.337 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El parque nacional Mu Ko Chang abarca la mayor parte de la isla de Koh Chang y el archipiélago que la rodea, en la provincia tailandesa de Trat, con senderos a cascadas en la selva, arrecifes para bucear y bahías bordeadas de manglares. La oficina del parque y los principales accesos a los senderos abren todos los días de 8:30 a 16:30, y el momento más tranquilo para explorar es una mañana entre semana, antes de que los barcos turísticos llenen los muelles. Conviene reservar entre medio día y un día completo para las cascadas o el senderismo, y más tiempo si se va a recorrer las islas cercanas para bucear.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuándo hay menos gente para evitar las aglomeraciones?
     a: Llegar justo a la apertura, a las 8:30, antes de que los autobuses turísticos alcancen las cascadas, y visitar el parque entre semana en lugar de en fin de semana, son dos formas de evitar los momentos de mayor afluencia.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué merece la pena visitar Mu Ko Chang
 

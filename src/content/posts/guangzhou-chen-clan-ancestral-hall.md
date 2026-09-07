@@ -71,8 +71,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up out of the metro stairwell already inside the experience — Chen Clan Academy Station's own platform is decorated with reproductions of the hall's woodcarving panels, a kind of warm-up act for what's above ground. Walk out the exit and the complex sits back from the road behind a low wall and a pond, its grey brick facade suddenly much quieter than the traffic on Zhongshan Qi Road behind you.
 
 ## Why this place, not another temple

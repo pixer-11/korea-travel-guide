@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kayangan Lake pulls people in
 
 The water here looks retouched, but it isn't. Kayangan sits inside a jagged limestone karst, and on a calm morning it turns into a sheet of glass so clear you can watch fish move over sunken rock twenty feet down.

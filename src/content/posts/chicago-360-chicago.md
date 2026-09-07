@@ -102,8 +102,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The elevator ride alone resets your ears — a fast, pressurized climb that dumps you out on the 94th floor before you've fully registered leaving the ground. Then the windows hit you: Lake Michigan spread out flat and silver to the east, the grid of the Loop stacked up to the south, and directly below, Michigan Avenue reduced to a thin ribbon of yellow cabs.

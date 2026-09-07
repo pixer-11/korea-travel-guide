@@ -93,8 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ninh Kieu Wharf is where Can Tho meets its river. This curved boardwalk along the Hau River has been the city's civic front porch for over a century, and it still works that way — locals jog here at dawn, families stroll after dinner, boat touts call out from the pier.

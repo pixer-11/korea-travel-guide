@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toulouse-basilique-saint-sernin-de-toulouse
-srcHash: '40cea4eb93f8'
+srcHash: '95955ea2a48b'
 title: 'Basílica de Saint-Sernin de Toulouse: guía de viaje (4.7★)'
 description: 'Cerca del Capitolio de Toulouse, la Basílica de Saint-Sernin es la iglesia románica más grande de Europa que aún se conserva en pie y alberga reliquias de 128 santos. 4.7★ (15.631 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Cerca del Capitolio de Toulouse, la Basílica de Saint-Sernin es la iglesia románica más grande de Europa que aún se conserva en pie y alberga reliquias de 128 santos. Abre de 8:30 a 18:00 de lunes a sábado, y de 10:00 a 17:30 los domingos. Conviene llegar justo a la apertura, ya que el tramo entre las 9:00 y las 10:00 es el más tranquilo todos los días: las multitudes aumentan rápido y se mantienen numerosas de 11:00 a 18:00 los fines de semana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: El acceso a la basílica en sí suele ser gratuito, pero la cripta con sus reliquias generalmente tiene un coste modesto. Conviene confirmar el precio actual en la puerta, ya que puede variar.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarla
 

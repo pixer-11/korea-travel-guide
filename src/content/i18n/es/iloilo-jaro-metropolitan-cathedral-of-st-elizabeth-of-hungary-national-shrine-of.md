@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: iloilo-jaro-metropolitan-cathedral-of-st-elizabeth-of-hungary-national-shrine-of
-srcHash: '3dd9eb21eb81'
+srcHash: 'b03409cd7c6a'
 title: 'Catedral Metropolitana de Jaro de Santa Isabel de Hungría y Santuario Nacional de Nuestra Señora de las Candelas: Guía de viaje de Ilóilo'
 description: 'La Catedral Metropolitana de Jaro se ubica en la plaza de Jaro, en la ciudad de Ilóilo, y su entrada es gratuita. 4.7★ (1771 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Catedral Metropolitana de Jaro se ubica en la plaza de Jaro, en la ciudad de Ilóilo, y su entrada es gratuita. Puede visitarla de martes a sábado, de 8:00 a 12:00 o de 13:30 a 17:30 (los domingos solo por la mañana, y los lunes permanece cerrada); lo ideal es ir a media mañana en día de semana, cuando ya ha pasado el ajetreo de las misas pero la luz todavía entra con fuerza por las ventanas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más vale la pena ver cerca?
     a: El campanario de Jaro (Jaro Belfry), separado de la catedral y ubicado justo enfrente en la plaza, los acacias centenarios y varias casas ancestrales conservadas que reflejan la herencia colonial de Jaro.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Antes de ver la iglesia, se ve el campanario. Se levanta al otro lado de la calle, frente a la fachada principal, sin estar unido a ella; un detalle que sorprende a casi todos los que visitan Jaro por primera vez.
 

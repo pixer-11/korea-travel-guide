@@ -91,8 +91,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Colmar's half-timbered lanes are gorgeous but tight, and by mid-morning they're shoulder to shoulder with visitors. Parc du Champ de Mars is the release valve: a broad, tree-canopied park just outside the historic core where the pace slows and the sightlines open up.

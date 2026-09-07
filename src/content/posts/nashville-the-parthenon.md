@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend in Centennial Park's walking path and there it is: full-scale Doric columns, a pediment carved with tumbling gods, rising out of a Tennessee city park like a mirage. It's jarring in the best way. This is a complete, full-size reconstruction of the Athenian original, built for Nashville's 1897 Centennial Exposition and later rebuilt in permanent materials because the crowds wouldn't let it go.

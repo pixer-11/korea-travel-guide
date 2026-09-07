@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Victoria Harbour is the reason Hong Kong's skyline looks the way it does. The water itself is the show — a working channel still crossed by green-and-white Star Ferries, red-sailed junk boats, and container barges, all framed by a wall of towers on both shores.

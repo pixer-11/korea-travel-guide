@@ -64,8 +64,6 @@ heroImage:
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for a name, not a spectacle. Al-Farghani — astronomer, mathematician, geographer — was born in this stretch of the Fergana Valley over a thousand years ago, and his calculations on the Earth's circumference once traveled as far as Baghdad's House of Wisdom.

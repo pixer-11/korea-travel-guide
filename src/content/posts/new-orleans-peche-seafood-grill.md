@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Pêche is worth the wait
 
 You smell it before you see the menu. The whole room runs on smoke from a coal-fired grill set behind the bar, and that char follows every plate that comes out of the kitchen. Pêche isn't subtle — it's loud, packed, and built around fire and fish.

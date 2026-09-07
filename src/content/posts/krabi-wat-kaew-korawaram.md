@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't come to Wat Kaew Korawaram expecting a ruin or a relic on the scale of Ayutthaya — you come because it's the temple that Krabi Town actually uses, and it shows. The main viharn (ordination hall) is a modern construction, finished in the early 1990s, but it's built with an unapologetic wow factor: white walls trimmed in gold, a multi-tiered roof that catches the light, and naga serpents guarding every staircase.

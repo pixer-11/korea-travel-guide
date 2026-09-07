@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goyang-gyeongdong-market
-srcHash: '823af59f1b43'
+srcHash: 'e3136336765b'
 title: 'Mercado de Gyeongdong: guía de viaje de Seúl (4,1★)'
 description: 'El mercado de Gyeongdong es un extenso mercado cubierto de hierbas y productos frescos en el distrito de Dongdaemun, Seúl, y el mayor mercado de medicina herbal tradicional de Corea. 4,1★ (11.044 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Gyeongdong es un extenso mercado cubierto de hierbas y productos frescos en el distrito de Dongdaemun, Seúl, y el mayor mercado de medicina herbal tradicional de Corea. Abre todos los días de 9:00 a 18:00, y el momento más tranquilo para visitarlo es un sábado o domingo por la mañana entre las 9:00 y las 10:00, antes de que llegue el ajetreo de 11:00 a 17:00. Conviene reservar entre 1 y 2 horas para recorrer sus callejones, probar granos tostados y ginseng, y tomar un plato de fideos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle al mercado?
     a: Con una o dos horas basta para recorrer las secciones de hierbas y productos frescos, curiosear en el callejón de comida y tomar un tentempié o un plato de fideos.
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué merece la pena visitar el mercado de Gyeongdong
 

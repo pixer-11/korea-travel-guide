@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taroko-gorge-taroko-national-park
-srcHash: 'a9101eb21568'
+srcHash: '8ba39c5cdd92'
 title: 'Parque Nacional de Taroko: Guía de viaje del Desfiladero de Taroko (4.6★)'
 description: 'El Desfiladero de Taroko (Taroko Gorge), en el Parque Nacional de Taroko, en la costa este de Taiwán cerca de Hualien, es un cañón de mármol tallado por el río Liwu con senderos, templos y puentes colgantes. 4.6★ (24.681 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Desfiladero de Taroko (Taroko Gorge), en el Parque Nacional de Taroko, en la costa este de Taiwán cerca de Hualien, es un cañón de mármol tallado por el río Liwu con senderos, templos y puentes colgantes. Dedícale un día entero, aloja en la ciudad de Hualien e intenta ir a primera hora de la mañana o por la tarde-noche: los fines de semana se llena entre las 9:00 y las 17:00, mientras que de 18:00 a 23:00 se mantiene tranquilo. Alquila un scooter o únete a un tour en shuttle, ya que el transporte público dentro del desfiladero es limitado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero alargar el viaje?
     a: La ciudad de Hualien, la base habitual para visitar el desfiladero, tiene un mercado nocturno y su propio paisaje costero, y está a un corto trayecto en tren de Taipéi por la línea ferroviaria de la costa este.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué el Desfiladero de Taroko atrae a tanta gente
 

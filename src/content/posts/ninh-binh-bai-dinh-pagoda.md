@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bai Dinh isn't a quiet countryside temple — it's a mountain-sized monument to scale. Spread across a limestone hillside in Hoa Lu, it holds a string of Southeast Asia superlatives: the tallest bronze Buddha cast in Vietnam, the largest bell, the longest corridor of arhat statues.

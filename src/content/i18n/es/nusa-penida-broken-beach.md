@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nusa-penida-broken-beach
-srcHash: '761a1ca88076'
+srcHash: '28f70f941e2f'
 title: 'Broken Beach: Guía de Viaje a Nusa Penida (4.6★)'
 description: 'Broken Beach (Pasih Uug) es un arco de roca natural en la costa oeste de Nusa Penida, donde el mar ha horadado los acantilados de piedra caliza hasta formar una laguna turquesa. 4.6★ (8.056 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Broken Beach (Pasih Uug) es un arco de roca natural en la costa oeste de Nusa Penida, donde el mar ha horadado los acantilados de piedra caliza hasta formar una laguna turquesa. Es una de las paradas más fotografiadas de la isla, así que conviene ir temprano, antes de las 9 de la mañana, para evitar las aglomeraciones de los tours en autobús. Lleva calzado resistente: no hay acceso a la playa, solo se puede ver desde el borde del acantilado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay tarifa de entrada?
     a: Sí, normalmente se cobra una pequeña tarifa de estacionamiento o acceso en efectivo en el mismo lugar. Los montos pueden cambiar, así que lleva billetes pequeños y no esperes poder pagar con tarjeta.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

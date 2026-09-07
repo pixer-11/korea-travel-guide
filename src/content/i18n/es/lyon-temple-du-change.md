@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-temple-du-change
-srcHash: 'db2b663f88fc'
+srcHash: '204bf6a2c5f5'
 title: 'Temple du Change: Guía de viaje de Lyon (4,7★)'
 description: 'Temple du Change es una antigua bolsa de comercio del siglo XVIII convertida en iglesia protestante, en pleno corazón del Vieux Lyon, que abre solo los sábados por la tarde (15:00–18:00) y los domingos por la mañana (10:00–12:30). 4,7★ (435 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Temple du Change es una antigua bolsa de comercio del siglo XVIII convertida en iglesia protestante, en pleno corazón del Vieux Lyon, que abre solo los sábados por la tarde (15:00–18:00) y los domingos por la mañana (10:00–12:30). Su fachada neoclásica y su interior luminoso con galerías merecen el pequeño desvío, y como pocos visitantes acierten con el horario, a menudo tendrás el lugar casi para ti solo. Calcula entre 15 y 20 minutos, y combínalo con un paseo por la Place du Change y las callejuelas renacentistas de los alrededores.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay mucha gente?
     a: 'No: pasa desapercibido incluso con su horario tan reducido, así que suele ser una visita tranquila comparada con otros lugares emblemáticos cercanos del Vieux Lyon.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

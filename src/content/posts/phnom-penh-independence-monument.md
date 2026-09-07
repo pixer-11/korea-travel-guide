@@ -56,8 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Independence Monument isn't a museum you tour — it's a landmark you circle, photograph, and use as a compass point. Built in 1958, its lotus-bud silhouette rises 20 meters over a roundabout where Norodom and Sihanouk Boulevards cross, and it marks the moment Cambodia shook off French colonial rule.

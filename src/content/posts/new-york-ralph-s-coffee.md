@@ -66,8 +66,6 @@ faq:
     a: The Frick Collection, the Met, and Central Park's Engineers' Gate are all within about a 15-minute walk, making Ralph's a natural coffee break before or after a museum or park visit.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't stumble onto Ralph's Coffee by accident — you go because the idea of drinking a cappuccino inside a Ralph Lauren mansion is, frankly, irresistible. The café sits inside the brand's flagship store on Madison Avenue, occupying a wood-paneled corner that feels less like a coffee counter and more like a private club library that happens to serve espresso.

@@ -58,8 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 At 632 metres, Shanghai Tower is the tallest building in China and the second-tallest habitable structure on Earth, and you feel that scale the moment you stand at its base and try to find the top with your neck craned all the way back. The twisting glass facade — nine cylindrical zones stacked and rotated as it rises — was engineered specifically to cut wind loads on a megatall tower, and from the street it reads less like a wall of glass than a slow-motion corkscrew of light.

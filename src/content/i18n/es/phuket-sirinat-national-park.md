@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-sirinat-national-park
-srcHash: '3d5d8af1c46e'
+srcHash: 'c716d4984b71'
 title: 'Parque Nacional Sirinat: Guía de viaje de Phuket (4.4★)'
 description: 'El Parque Nacional Sirinat, en el distrito de Thalang, en Phuket, une las playas de Nai Yang, Mai Khao y Nai Thon con un bosque de manglares y los célebres aviones que pasan a baja altura sobre el extremo norte de Mai Khao, cerca del Aeropuerto de Phuket. 4.4★ (6.205 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional Sirinat, en el distrito de Thalang, en Phuket, une las playas de Nai Yang, Mai Khao y Nai Thon con un bosque de manglares y los célebres aviones que pasan a baja altura sobre el extremo norte de Mai Khao, cerca del Aeropuerto de Phuket. La oficina del parque y el acceso principal a la playa abren todos los días de 8:30 a 16:30; conviene llegar temprano en días de semana para adelantarse a los grupos turísticos y evitar el peor calor del mediodía. Reserva medio día si quieres combinar un paseo por la playa con el tramo de avistamiento de aviones y una visita al paseo elevado del manglar.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo puedo evitar las multitudes en Sirinat?
     a: Llega cerca de la hora de apertura, a las 8:30, en un día de semana, sobre todo si quieres tener la valla principal de avistamiento de aviones para ti antes de que lleguen los grupos turísticos. Para garantizar tranquilidad, evita directamente la valla y dirígete a la playa de Nai Thon o al tramo sur más alejado de Mai Khao.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 La mayoría de quienes llegan al Parque Nacional Sirinat persiguen una foto muy concreta: un avión de pasajeros pasando tan bajo sobre la arena de la playa de Mai Khao que se puede leer el nombre de la aerolínea en el fuselaje. Esto ocurre de verdad, porque el extremo norte del parque queda justo bajo la trayectoria final de aproximación al Aeropuerto Internacional de Phuket.
 

@@ -75,8 +75,6 @@ heldReason: wrong-country
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Petra stops you in your tracks
 
 You walk through the Siq, a narrow sandstone canyon barely wide enough for two camels, walls rising 80 metres on either side. Then it splits open into a sliver of light, and there it is: Al Khazneh, the Treasury, 45 metres of carved pink rock glowing at the end of the passage.

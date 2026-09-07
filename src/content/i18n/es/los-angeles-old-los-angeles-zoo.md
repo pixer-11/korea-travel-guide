@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-old-los-angeles-zoo
-srcHash: '2cf56d2f46b3'
+srcHash: 'fa74bd6c93bb'
 title: 'Antiguo Zoológico de Los Ángeles: Guía de viaje (4.6★)'
 description: 'El Antiguo Zoológico de Los Ángeles es un sitio en ruinas, gratuito y al aire libre, dentro de Griffith Park, donde se puede caminar entre grutas de concreto agrietadas y cubiertas de grafiti que albergaron animales desde 1912 hasta el cierre del zoológico en 1966. 4.6★ (1,507 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Antiguo Zoológico de Los Ángeles es un sitio en ruinas, gratuito y al aire libre, dentro de Griffith Park, donde se puede caminar entre grutas de concreto agrietadas y cubiertas de grafiti que albergaron animales desde 1912 hasta el cierre del zoológico en 1966. Abre todos los días de 5:30 a. m. a 10:30 p. m., y el momento más tranquilo es los fines de semana por la mañana, entre las 7 y las 9, antes de que los grupos con picnics y los niños que trepan por las jaulas tomen el lugar a media mañana. Calcula entre 45 y 90 minutos para la visita, usa calzado que no te importe ensuciar y lleva una linterna frontal si quieres asomarte a las jaulas más oscuras.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con esta visita?
     a: El Autry Museum of the American West, el carrusel de Griffith Park y los senderos hacia el Griffith Observatory y Mount Hollywood están todos a poca distancia caminando o en auto.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -90,8 +90,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for two things at once: world-class Chinese art, and the view framed behind it. Floor-to-ceiling windows on the upper levels look straight across Victoria Harbour to the Hong Kong Island skyline, so the museum doubles as one of the best free vantage points in Tsim Sha Tsui.

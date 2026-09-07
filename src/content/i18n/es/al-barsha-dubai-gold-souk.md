@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-barsha-dubai-gold-souk
-srcHash: '8a7f58a13341'
+srcHash: '484056b7ab63'
 title: 'Zoco del Oro de Dubái: Guía de viaje de Deira (4,4★)'
 description: 'El Zoco del Oro de Dubái se encuentra en el barrio de Al Ras, en Deira, en la orilla norte del Dubai Creek: es el histórico mercado cubierto con cientos de tiendas de oro tras un arco de madera tallada. 4,4★ (10.705 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Zoco del Oro de Dubái se encuentra en el barrio de Al Ras, en Deira, en la orilla norte del Dubai Creek: es el histórico mercado cubierto con cientos de tiendas de oro tras un arco de madera tallada. Conviene ir a primera hora de la tarde-noche, después de las 16:00 y antes de la avalancha posterior a la cena, cuando los callejones ya están iluminados pero aún no abarrotados. Recorrerlo y curiosear es gratis; solo se paga si se compra algo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Basta con calcular entre 45 minutos y una hora para un paseo general; hay que reservar más tiempo si se piensa comparar tiendas y negociar una compra.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué el Zoco del Oro sigue siendo relevante
 

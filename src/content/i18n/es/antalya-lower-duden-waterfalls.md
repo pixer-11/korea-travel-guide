@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: antalya-lower-duden-waterfalls
-srcHash: '86ea7daad71d'
+srcHash: '7d6c4761f2dc'
 title: 'Cataratas de Duden Bajo: Guía de viaje de Antalya (4.7★)'
 description: 'Las Cataratas de Duden Bajo se forman donde el río Duden cae directamente desde un acantilado hacia el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. 4.7★ (32.603 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Cataratas de Duden Bajo se forman donde el río Duden cae directamente desde un acantilado hacia el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. El acceso es de 24 horas, pero conviene ir a primera hora de la mañana o al final de la tarde para evitar las multitudes de autobuses turísticos y disfrutar de la mejor luz en las plataformas de observación junto al acantilado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para completar una media jornada?
     a: La playa de Lara y el Acuario de Antalya están a poca distancia en taxi y combinan bien con una visita a las Cataratas de Duden.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

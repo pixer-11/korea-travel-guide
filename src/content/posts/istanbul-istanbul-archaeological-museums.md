@@ -107,8 +107,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come to the Istanbul Archaeological Museums expecting one building and find three, plus a garden scattered with column capitals and stone lions like a lapidary graveyard. The complex sits just below Topkapı Palace's outer walls in Cankurtaran, and most visitors stumble onto it almost by accident, mid-way between the palace and Gülhane Park.
 
 That accident is worth having. This is one of the world's great archaeological collections, built on finds from across the Ottoman Empire's former territories, and it rarely gets the crowds that swamp Topkapı or the Blue Mosque next door.

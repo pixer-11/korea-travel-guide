@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Second Market isn't a polished night-market spectacle — it's where Taichung actually eats breakfast and lunch. Built during the Japanese colonial era, the market still runs through the same octagonal covered hall, with narrow lanes radiating out from a central hub lined with butchers, produce sellers and dry-goods stalls.

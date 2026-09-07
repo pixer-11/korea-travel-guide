@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Toshhovli stands apart
 
 You expect another mudbrick fortress. Instead you get 150 rooms wrapped around two courtyards, tiled floor to ceiling in blues and golds that took nearly a decade to build.

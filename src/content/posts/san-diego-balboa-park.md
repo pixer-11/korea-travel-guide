@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Balboa Park is worth a full day
 
 You come around a bend on El Prado and the domes hit you first — ochre stone, tiled cupolas, carved facades left over from the 1915 Panama-California Exposition. Palm and jacaranda canopies throw moving shade across the walkway. Somewhere a street musician is working a saxophone under the arcade, and the sound carries for a block.

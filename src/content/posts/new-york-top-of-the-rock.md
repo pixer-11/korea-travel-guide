@@ -78,8 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You ride a bank of elevators lined in brushed metal and Art Deco lighting, ears popping slightly, and step out onto three stacked open-air terraces with nothing between you and Manhattan but a glass barrier. This is the view that includes the Empire State Building itself — something you obviously can't get if you're standing on top of the Empire State Building instead.

@@ -84,8 +84,6 @@ aiGenerated: true
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go before the temples
 
 Start here before you start climbing over sandstone. The Angkor National Museum exists to explain what you're about to see at Angkor Wat, Bayon, and Ta Prohm, and it does that job well.

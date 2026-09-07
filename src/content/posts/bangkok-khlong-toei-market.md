@@ -104,8 +104,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is not a market dressed up for visitors — it's the engine room that feeds much of Bangkok. Trucks back up along Thanon Rama IV before dawn, porters haul ice-packed baskets of mackerel and squid off flatbeds, and by first light the covered lanes are a wall of color: durian stacked in golden husks, banana blossoms still closed tight, chilies sorted by heat into red, green, and the tiny, vicious prik khi nu.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jinju-jinju-national-museum
-srcHash: '5a482df82c17'
+srcHash: '3ee8f8153187'
 title: 'Museo Nacional de Jinju: Guía de viaje'
 description: El Museo Nacional de Jinju se encuentra dentro de Jinjuseong (Fortaleza de Jinju), justo a orillas del río Namgang, y es el mejor lugar de Corea para comprender los brutales asedios de Jinju durante la Guerra Imjin de 1592-93.
 quickAnswer: El Museo Nacional de Jinju se encuentra dentro de Jinjuseong (Fortaleza de Jinju), justo a orillas del río Namgang, y es el mejor lugar de Corea para comprender los brutales asedios de Jinju durante la Guerra Imjin de 1592-93. Dedícale entre 90 minutos y dos horas, combínalo con un paseo por las murallas de la fortaleza y el Pabellón Chokseongnu, y visítalo un día laborable por la mañana si quieres tener las salas para ti solo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que valga la pena combinar con la visita?
     a: Camina por las murallas de la fortaleza Jinjuseong a lo largo del río Namgang y visita el Pabellón Chokseongnu, justo al lado del museo; si estás allí a principios de octubre, el Festival de Faroles del Namgang de Jinju (Jinju Namgang Lantern Festival) ilumina la ribera del río por la noche.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué el Museo Nacional de Jinju es importante
 

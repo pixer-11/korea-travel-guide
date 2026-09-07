@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why MUSEUM 1 stands out in Haeundae
 
 Centum City isn't where most visitors expect to find a serious art stop — it's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate.

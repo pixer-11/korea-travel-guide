@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-taipei-botanical-garden
-srcHash: '52f3da5c64e9'
+srcHash: 'b11c69c51580'
 title: 'Jardín Botánico de Taipéi: Guía de viaje (4,6★)'
 description: 'El Jardín Botánico de Taipéi es un refugio al aire libre y gratuito en el distrito de Zhongzheng, cuyo acceso principal está cerca de la estación de Xiaonanmen (línea Songshan-Xindian del metro) y que abre todos los días de 5:30 a 21:00. 4,6★ (11.991 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Taipéi es un refugio al aire libre y gratuito en el distrito de Zhongzheng. Conviene entrar por la zona cercana a la estación de Xiaonanmen (línea Songshan-Xindian del metro) y abre todos los días de 5:30 a 21:00. Entre semana, después de las 18:00, es el momento más tranquilo; los fines de semana el ajetreo se mantiene durante todo el día, de 7:00 a 21:00, así que conviene ir a primera hora. Basta con 45 a 90 minutos para recorrer los estanques de lotos y el Jardín de Hierbas, ya sea antes o después de visitar el Museo Nacional de Historia, que está justo al lado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: El Museo Nacional de Historia y el parque Nanmen están justo al lado del jardín, lo que facilita combinarlo con una visita al museo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

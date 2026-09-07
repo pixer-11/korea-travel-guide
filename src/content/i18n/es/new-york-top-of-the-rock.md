@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-top-of-the-rock
-srcHash: '80a9d3bdec60'
+srcHash: 'e4dce36e8324'
 title: 'Top of The Rock: Guía de viaje de Nueva York (4.7★)'
 description: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. 4.7★ (87,214 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. Reserva un boleto con hora asignada en línea con anticipación; este es uno de los miradores con más reseñas de la ciudad, y las filas sin reserva las tardes de fin de semana pueden quitarte una hora de tu día.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería pasar allí?
     a: Planea entre 60 y 90 minutos para recorrer los tres niveles del mirador (67, 69 y 70) en lugar de apresurarte para tomar una foto rápida.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

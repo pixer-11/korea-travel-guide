@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Taroko Gorge pulls people in
 
 The road drops into a slot of white and grey marble, and the Liwu River churns green-white far below. Cliffs rise so sheer that sunlight only reaches the canyon floor at midday. This is Taiwan's most dramatic landscape, and it's been protected as a national park since 1986, covering 920 square kilometers of mountains, gorges and coastline.

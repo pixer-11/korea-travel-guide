@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Yamuna Ghat isn't pretty in the postcard sense. It's a working riverside staircase near Kashmere Gate where Delhi's spiritual life and its most photogenic wildlife spectacle collide.

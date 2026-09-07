@@ -1,14 +1,12 @@
 ---
 lang: es
 slug: new-orleans-the-national-wwii-museum
-srcHash: '00e33c0e6b77'
+srcHash: 'febdd15f1ada'
 title: 'El Museo Nacional de la Segunda Guerra Mundial: Guía de viaje de Nueva Orleans (4.8★)'
 description: El Museo Nacional de la Segunda Guerra Mundial (The National WWII Museum) se encuentra en el Warehouse District de Nueva Orleans, en 945 Magazine St, abierto todos los días de 9am a 5pm. 4.8★ (30,266 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo Nacional de la Segunda Guerra Mundial se encuentra en el Warehouse District de Nueva Orleans, en 945 Magazine St, abierto todos los días de 9am a 5pm. Reserva medio día completo (4-5 horas) para recorrer bien todos los pabellones, y ve justo a las 9am o después de las 3pm para evitar la aglomeración de mediodía en los fines de semana (el horario más concurrido es de 12pm a 3pm). Se trata de un museo muy popular y con gran afluencia de visitantes, así que reserva entradas con horario asignado en línea antes de ir.
 faq: []
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, asistida por IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

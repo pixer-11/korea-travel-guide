@@ -69,8 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You climb a wide stone staircase off a quiet courtyard, past a bronze Napoleon posing as a nude Mars, and you're already somewhere unlike the rest of Milan. The Pinacoteca di Brera isn't a sprawling, exhausting museum — it's a tight, curated run of rooms that happens to hold some of the most important paintings of the Italian Renaissance, especially from the Veneto and Lombardy.

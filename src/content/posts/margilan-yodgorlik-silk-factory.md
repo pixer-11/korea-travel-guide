@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Margilan has spun silk for over a thousand years, and Yodgorlik is the one factory still doing it almost entirely by hand. No conveyor belts, no automated looms drowning out conversation — just rows of workers doing what generations before them did.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ubud-campuhan-ridge-walk
-srcHash: '00ef6c42fe6f'
+srcHash: 'caa81b1dd555'
 title: 'Campuhan Ridge Walk: Guía de viaje de Ubud (4.3★)'
 description: 'Campuhan Ridge Walk es un sendero gratuito por la cresta, abierto las 24 horas, en el centro de Ubud, a unos 10 minutos a pie del Palacio de Ubud (Ubud Palace). 4.3★ (17,992 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Campuhan Ridge Walk es un sendero gratuito por la cresta, abierto las 24 horas, en el centro de Ubud, a unos 10 minutos a pie del Palacio de Ubud (Ubud Palace). Ve entre las 7 y las 8 de la mañana en un día laborable para encontrarlo casi vacío; los fines de semana se mantiene concurrido desde las 8am hasta el anochecer, así que planifica en función de eso. La caminata de ida y vuelta hasta Karsa Kafe y de regreso toma aproximadamente entre 1 y 1.5 horas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debo llevar?
     a: El agua y la protección solar son esenciales, ya que casi no hay sombra en la mayor parte de la cresta. El efectivo es útil para los pequeños warungs y para Karsa Kafe al final del sendero.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-bopiliao-historical-block
-srcHash: 'c1df258942f5'
+srcHash: '664292e251d7'
 title: 'Manzana Histórica de Bopiliao: Guía de Viaje (4.2★)'
 description: 'La Manzana Histórica de Bopiliao se encuentra en el distrito de Wanhua, en la ciudad de Taipéi (a poca distancia a pie de la zona de Ximending y el Templo Longshan, no en Nueva Taipéi), abierta de martes a domingo de 9:00 a 18:00, cerrada los lunes. 4.2★ (13,713 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La Manzana Histórica de Bopiliao se encuentra en el distrito de Wanhua, en la ciudad de Taipéi (a poca distancia a pie de la zona de Ximending y el Templo Longshan, no en Nueva Taipéi), abierta de martes a domingo de 9:00 a 18:00, cerrada los lunes. Calcula entre 45 y 60 minutos y combínala con la cercana visita al Templo Longshan. Ve un día entre semana justo a la apertura para evitar los grupos turísticos y las excursiones escolares.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuándo hay menos gente?
     a: Las mañanas entre semana justo a la apertura de las 9:00, especialmente de martes a jueves. Las tardes de fin de semana atraen a la mayor cantidad de visitantes.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

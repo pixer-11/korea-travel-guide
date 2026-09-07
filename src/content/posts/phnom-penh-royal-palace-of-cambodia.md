@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the working royal residence of Cambodia's king, not a museum piece. Built as the Cambodian monarchy resettled in Phnom Penh, it's one of the country's clearest showcases of Khmer palace architecture — tiered roofs, gilded spires, and walls that glow ochre-yellow in the late afternoon sun.

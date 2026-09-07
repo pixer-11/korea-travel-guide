@@ -51,8 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Termez sits in one of Uzbekistan's hottest corners, and Eco Park is the city's answer to that heat. It's a stretch of genuine shade — mature trees, mown lawns, paved paths — built for people who need somewhere green that isn't a museum courtyard or a mosque forecourt.

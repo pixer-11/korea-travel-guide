@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it long before you arrive: a grey-gold cone rising out of flat water and sand, looking less built than grown. Mont Saint-Michel has drawn pilgrims for over a thousand years, and it still works the same trick on day-trippers.

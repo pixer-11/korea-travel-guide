@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-museu-d-art-contemporani-de-barcelona
-srcHash: '2231098c1bba'
+srcHash: 'abec0397b598'
 title: 巴塞罗那当代艺术博物馆(MACBA)旅行指南(4.3★)
 description: MACBA坐落于埃尔拉瓦尔区(El Raval)的天使广场(Plaça dels Àngels),是理查德·迈耶(Richard Meier)设计的一艘引人注目的白色"巨轮"建筑，馆藏涵盖1940年代至今的加泰罗尼亚及国际艺术作品。4.3★(15,260条评论)——游客怎么说、开放时间及实用贴士。
 quickAnswer: MACBA坐落于埃尔拉瓦尔区(El Raval)的天使广场(Plaça dels Àngels),是理查德·迈耶(Richard Meier)设计的一艘引人注目的白色"巨轮"建筑，馆藏涵盖1940年代至今的加泰罗尼亚及国际艺术作品。建议工作日上午10点到11点前往，此时展厅人最少，行程可安排约两小时。博物馆周二闭馆，周日提前至下午3点关闭，出发前请务必查看开放日历。
@@ -17,8 +17,6 @@ faq:
   - q: 需要提前订票吗?
     a: 值得提前在网上订票，尤其是在周末下午2点到8点这段容易排队的时段。
 ---
-
-> **本指南制作方式:** 经编辑审核，并借助AI辅助完成。相关信息来自Google Places实时数据；图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

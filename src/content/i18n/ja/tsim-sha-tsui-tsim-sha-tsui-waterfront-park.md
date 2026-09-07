@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: tsim-sha-tsui-tsim-sha-tsui-waterfront-park
-srcHash: 'f827c54750d3'
+srcHash: 'dd2dc42492a2'
 title: 尖沙咀海濱公園（Tsim Sha Tsui Waterfront Park）旅行ガイド（4.4★）
 description: 尖沙咀海濱公園（Tsim Sha Tsui Waterfront Park）は、ヴィクトリア・ハーバー（Victoria Harbour）沿いに続く遊歩道で、香港島のスカイラインを望む絶景スポット。特に夕暮れ時、午後8時頃に始まるシンフォニー・オブ・ライツ（Symphony of Lights）は必見です。4.4★（2,121件のレビュー）— 訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: 尖沙咀海濱公園（Tsim Sha Tsui Waterfront Park）は、ヴィクトリア・ハーバー（Victoria Harbour）沿いに続く遊歩道で、香港島のスカイラインを望む絶景スポットです。特に夕暮れ時、午後8時頃に始まるシンフォニー・オブ・ライツ（Symphony of Lights）が見どころです。24時間開放されており、入園は無料。平日は午前7時から9時、週末は午前7時から10時の時間帯に行けば、柵を独り占めできるほど空いています。週末の午後4時から午後11時は混雑するので避けましょう。
@@ -17,8 +17,6 @@ faq:
   - q: 近くで一緒に訪れるのにおすすめの場所は？
     a: 同じ遊歩道を西へ少し歩くとアベニュー・オブ・スターズ（Avenue of Stars）があります。また、スターフェリー乗り場（Star Ferry Pier）やK11 Musea複合商業施設も徒歩圏内です。
 ---
-
-> **このガイドについて：** 編集者による確認済み、AIアシスト作成。データはGoogle Placesのライブ情報から取得し、画像はライセンス済みまたはパブリックドメインのものを使用しています。詳細は[編集方針](/about)をご覧ください。
 
 ## 訪れる理由
 

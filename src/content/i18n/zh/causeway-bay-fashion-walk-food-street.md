@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: causeway-bay-fashion-walk-food-street
-srcHash: '773fd6133a63'
+srcHash: 'dd15a5caa1c3'
 title: 时尚汇美食街：铜锣湾吃什么、去哪吃
 description: 时尚汇美食街（Fashion Walk Food Street）是坐落在铜锣湾时尚汇（Fashion Walk）购物区内的一片露天餐饮聚集地，每天11:30am–10:30pm营业。
 quickAnswer: 时尚汇美食街（Fashion Walk Food Street）是坐落在铜锣湾时尚汇（Fashion Walk）购物区内的一片露天餐饮聚集地，每天11:30am–10:30pm营业。这里价位中等、氛围轻松，比附近的商场要清静不少——工作日下午4点到晚上10点是人最少的时段。如果想不用排队就有位子，最好避开周末下午1点到晚上9点的高峰期。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有什么地方可以顺路一起逛？
     a: 维多利亚公园（Victoria Park）和时代广场（Times Square）购物中心都在步行可达的范围内，很适合安排在铜锣湾购物行程中顺便一游。
 ---
-
-> **本指南制作说明：** 经编辑审校，并借助AI辅助完成。相关信息取自Google Places实时数据，图片均为已获授权或公共领域素材。详见我们的[编辑政策](/about)。
 
 还没看到，先闻到味道。炭烤串烧、爆香蒜蓉、还有鸡蛋仔摊飘来的阵阵甜香——时尚汇美食街（Fashion Walk Food Street）就藏在铜锣湾时尚汇（Fashion Walk）商圈的一条小巷里，未见其形先闻其香。这里是一整排开放式餐厅和快餐摊档，夹在各式服装精品店之间。
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aberdeen-ocean-park
-srcHash: '79feb1d2aca8'
+srcHash: 'e291e206f88a'
 title: 'Ocean Park: guía de viaje de Aberdeen (4,3★)'
 description: 'Ocean Park se extiende sobre un promontorio que domina Aberdeen y se divide en una zona baja junto al mar y una zona en lo alto de la colina, unidas por teleférico y funicular. 4,3★ (33.745 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Ocean Park se extiende sobre un promontorio que domina Aberdeen y se divide en una zona baja junto al mar y una zona en lo alto de la colina, unidas por teleférico y funicular. Conviene reservarle un día entero: llegue justo a la apertura, a las 10:00, y suba en teleférico antes de que la neblina de la tarde cubra el paisaje. Las mañanas entre semana son las más tranquilas; los fines de semana y los días festivos de Hong Kong atraen a las multitudes más numerosas.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene subir en teleférico o en el tren Ocean Express?
     a: 'Lo mejor es probar los dos: suba con uno hasta el Summit y baje con el otro, para disfrutar de las vistas del puerto desde el teleférico y de un trayecto más rápido en el funicular a la vuelta.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

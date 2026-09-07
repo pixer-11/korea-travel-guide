@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jinju-jinju-national-museum
-srcHash: '5a482df82c17'
+srcHash: '3ee8f8153187'
 title: 晋州国立博物馆旅行指南
 description: 晋州国立博物馆坐落于晋州城(Jinjuseong,晋州要塞)内，紧邻南江(Namgang River)，是韩国了解1592-93年惨烈壬辰战争晋州围城战的最佳去处。
 quickAnswer: 晋州国立博物馆坐落于晋州城(Jinjuseong，晋州要塞)内，紧邻南江(Namgang River)，是韩国了解1592-93年惨烈壬辰战争晋州围城战的最佳去处。安排90分钟到两小时参观时间，再结合环绕要塞城墙和矗石楼(Chokseongnu Pavilion)的散步一起游览；若想独享展厅的清静，建议选在平日上午前往。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些值得一起游览的地方？
     a: 可以沿南江(Namgang River)漫步晋州城的城墙，并参观博物馆旁边的矗石楼(Chokseongnu Pavilion)；如果恰逢十月初前往，晋州南江灯节(Jinju Namgang Lantern Festival)会将江岸装点得灯火璀璨，非常值得一看。
 ---
-
-> **本指南制作说明：** 经编辑审阅，AI辅助生成。资料来源于Google Places实时数据；图片均获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 晋州国立博物馆为何值得一去
 

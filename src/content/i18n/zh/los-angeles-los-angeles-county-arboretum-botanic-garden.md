@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-los-angeles-county-arboretum-botanic-garden
-srcHash: '38af71ee0aa0'
+srcHash: '1097e9cb7912'
 title: 洛杉矶县植物园（LA County Arboretum & Botanic Garden）旅行指南
 description: 位于阿卡迪亚（Arcadia）的洛杉矶县植物园占地127英亩，孔雀自由漫步其间，还有一座历史悠久的安妮女王式小屋，园内的泻湖曾是《梦幻岛》（Fantasy Island）取景地。4.8★（5,602条评价）——游客怎么说、开放时间及游览贴士。
 quickAnswer: 位于阿卡迪亚（Arcadia）的洛杉矶县植物园占地127英亩，孔雀自由漫步其间，还有一座历史悠久的安妮女王式小屋，园内的泻湖曾是《梦幻岛》（Fantasy Island）取景地。植物园每天9点至晚上7点开放；周末10点到下午5点人潮拥挤，建议选择工作日前往，或下午4点后到访以享受最静谧的光线。建议预留两到三小时才能好好逛完全园。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有没有值得一起游览的地方？
     a: 圣安尼塔公园赛马场（Santa Anita Park）就在隔壁，阿卡迪亚市中心的餐厅也只需短途车程即可到达，方便游览后用餐。
 ---
-
-> **本指南制作方式：** 经编辑审核，AI辅助完成。事实信息来自Google Places实时数据；图片均获得授权或为公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

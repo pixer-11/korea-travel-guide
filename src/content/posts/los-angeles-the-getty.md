@@ -64,8 +64,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel it before you see a single painting: the tram pulls away from the parking garage on Sepulveda Boulevard and climbs slowly through chaparral-covered hillside, the 405 freeway shrinking below, until the white travertine towers of Richard Meier's building crest into view. The Getty isn't just an art museum — it's a piece of architecture, a garden, and one of the best free views in Los Angeles rolled into one hilltop campus.

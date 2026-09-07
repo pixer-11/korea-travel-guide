@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Pike Place Market has hundreds of stalls selling everything from fish to flowers, but the smell that stops foot traffic cold is butter and sugar drifting out of a narrow storefront near the market's north end. That's Le Panier, and the queue spilling onto the sidewalk is usually the first sign you've found it.
 
 ## What's actually on the counter

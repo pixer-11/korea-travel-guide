@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bodrum Castle doesn't announce itself with a grand approach road or a ticket plaza visible from miles away — you round the curve of the harbor promenade, past the fishing boats and gulet charters, and it's simply there: a fortress of grey-gold stone rising straight out of the Aegean, its towers named for the nations that built them. The Knights Hospitaller of St. John raised it in the early 1400s using stones scavenged from the nearby Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World — so the walls themselves are a kind of ancient recycling project, and you can still spot carved fragments and coats of arms embedded in the masonry as you walk the ramparts.

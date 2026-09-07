@@ -50,8 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Kaş doesn't announce itself. You come down a switchback road from the Antalya highway and suddenly the sea is on three sides of you, the Greek island of Meis sitting close enough to feel like part of the view rather than another country.

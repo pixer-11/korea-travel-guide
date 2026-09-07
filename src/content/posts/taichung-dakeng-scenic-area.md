@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around a bend on Dongshan Road and the city noise just drops away. One minute you're in Taichung traffic, the next you're staring up at a wall of green — betel palm groves, bamboo stands, and forested ridgeline folding back into the Central Mountain Range. Dakeng isn't one trail, it's a whole system of them, numbered 1 through 10ish, scattered across the hills of Beitun District on the city's northeastern edge.

@@ -72,8 +72,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the river before you see the pool — a faint mineral dampness carried off the Garonne, mixing with waffle batter and coffee from the cafés lining the quay. Then you round the corner from Rue Fernand Philippart and the Place de la Bourse opens up in front of you: honey-colored stone, curved colonnades, and at its feet, a thin sheet of water stretched across 3,450 square meters of black granite, doubling the whole scene like a photograph folded in half.
 
 This is the Miroir d'eau, the "water mirror," and it's genuinely one of the largest reflecting pools anywhere in the world.

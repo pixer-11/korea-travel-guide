@@ -80,8 +80,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Tapas Boatella for the location as much as the food: a wraparound terrace angled straight at the wrought-iron and stained-glass front of the Mercado Central, one of Europe's great covered markets. The plaza itself does a lot of the work — pigeons scattering across the cobbles, the modernista ironwork catching the morning light, the low murmur of a neighborhood that's equal parts tourists photographing the market doors and locals cutting through on their way to buy fish.

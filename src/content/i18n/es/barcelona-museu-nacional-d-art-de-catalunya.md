@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-museu-nacional-d-art-de-catalunya
-srcHash: '7559fc0ad92d'
+srcHash: '1f90a170574b'
 title: 'Museu Nacional d''Art de Catalunya: guía de viaje de Barcelona'
 description: 'El MNAC se encuentra dentro del Palau Nacional, en Montjuïc, y la mejor razón para visitarlo es su colección de arte románico: un conjunto de murales de iglesias pirenaicas de los siglos XI y XII sin parangón en el mundo. 4.7★ (39.228 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El MNAC se encuentra dentro del Palau Nacional, en Montjuïc, y la mejor razón para visitarlo es su colección de arte románico: un conjunto de murales de iglesias pirenaicas de los siglos XI y XII sin parangón en el mundo. Dedícale entre dos y tres horas, ve primero directo a las salas románicas y termina en la terraza principal del museo a la hora dorada, para disfrutar de una de las mejores vistas del horizonte de Barcelona. Comprueba el horario oficial antes de ir, ya que el museo cierra los lunes y tiene un horario más reducido los domingos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca en Montjuïc?
     a: La Fundació Joan Miró, el Estadio Olímpico y el teleférico hasta el Castillo de Montjuïc están todos a poca distancia a pie, y el espectáculo de la Font Màgica se celebra en las terrazas debajo del museo las noches de fin de semana.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué el Palau Nacional detiene a la gente en seco
 

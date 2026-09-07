@@ -91,8 +91,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The first thing you notice as you approach the platform at Gimyujeong-ro is the old railbed itself — rusted signal posts and a narrow-gauge track that once carried commuter trains through Gangwon-do's hills, now fitted with rows of pastel-colored four-seat pedal carts. This is Gangchon Rail Park, built on a decommissioned stretch of the Gyeongchun Line, and its whole appeal is simple: you climb into a rail bike, push off, and coast through a landscape of pine-covered slopes and the wide, slow curve of the Bukhan River without a steering wheel or any real physical strain, since the track does most of the navigating for you.
 
 The ride itself runs close to 8km one-way, taking somewhere around 40 to 50 minutes depending on how much you pedal versus let momentum carry you on the downhill stretches. You pass through a couple of dim tunnels, where the temperature drops and someone's cart inevitably has fairy lights or a speaker playing music, then emerge onto an open trestle bridge with the river spread out below and hills stacked in layers toward the horizon.

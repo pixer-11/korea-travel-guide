@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sapporo-odori-park
-srcHash: 'b1fcd11b7535'
+srcHash: '965389dbd276'
 title: 'Parque Odori: Guía de Viaje de Sapporo (4,5★)'
 description: 'El parque Odori es la larga franja verde que divide el centro de Sapporo en norte y sur, extendiéndose desde la estación Odori hasta la Torre de Televisión, en Nishi 1-chome. 4,5★ (3.721 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Odori es la larga franja verde que divide el centro de Sapporo en norte y sur, y se extiende desde la estación Odori hasta la Torre de Televisión, en Nishi 1-chome. Se puede recorrer a pie las 24 horas del día, todos los días del año, sin coste alguno. El mejor momento para visitarlo es temprano por la mañana, cuando los bancos están vacíos, o en febrero, si no le importan las multitudes que atrae el famoso Festival de la Nieve.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: La Torre de Televisión de Sapporo se encuentra en el extremo este, la Torre del Reloj está a pocas manzanas al norte, y el Jardín Botánico queda cerca del extremo oeste del parque.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Distribución y cómo orientarse
 

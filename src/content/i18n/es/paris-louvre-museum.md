@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-louvre-museum
-srcHash: 'fd5dbbbdf6ab'
+srcHash: 'f50d0623fc26'
 title: 'Museo del Louvre: guía de viaje de París'
 description: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de la mañana.
 quickAnswer: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de la mañana. Entra por la Pirámide o, mejor aún, por la entrada subterránea del Carrousel du Louvre (Metro Palais-Royal–Musée du Louvre, Línea 1) para evitar la cola en superficie. Reserva medio día si quieres ver bien lo más destacado, o un día completo si prefieres pasear con calma.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Debería reservar las entradas con antelación?
     a: 'Sí: se recomienda encarecidamente reservar en línea entradas con horario asignado, ya que las colas sin reserva pueden ser largas, sobre todo en temporada alta y a mediodía.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes la escala del lugar antes de ver un solo cuadro. La Pirámide de cristal se alza en medio de la Cour Napoléon como un diamante caído en un patio de piedra, y una vez que pasas el control de seguridad y bajas por la escalera mecánica hacia el Carrousel du Louvre, empiezas a percibir la inmensidad del edificio: tres alas, Sully, Denon y Richelieu, que rodean un patio tan grande que podrías perder una tarde entera solo recorriendo su perímetro.
 

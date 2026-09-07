@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nowhere else builds an entire city out of frozen river blocks every winter. Harbin Ice and Snow World turns tens of thousands of tons of ice, cut straight from the Songhua River, into towers, bridges, and slides lit from within by colored LED tubes.

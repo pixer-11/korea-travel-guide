@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: turin-mercato-centrale-torino
-srcHash: 'ccc753711bc6'
+srcHash: '5518a9111a11'
 title: 'Mercato Centrale Torino: dónde comer en Turín'
 description: 'Mercato Centrale Torino es un mercado gastronómico con múltiples puestos dentro del histórico edificio del mercado de Porta Palazzo, en Piazza della Repubblica: ideal para ir de puesto en puesto probando clásicos piamonteses, pizza y vermú.'
 quickAnswer: 'Mercato Centrale Torino es un mercado gastronómico con múltiples puestos dentro del histórico edificio del mercado de Porta Palazzo, en Piazza della Repubblica: ideal para ir de puesto en puesto probando clásicos piamonteses, pizza y vermú. Abre todos los días de 8am a medianoche, así que conviene ir un día entre semana por la tarde, en el hueco entre el almuerzo y el aperitivo, para evitar la avalancha del viernes y sábado por la noche.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: Los puestos al aire libre del mercado de Porta Palazzo rodean el edificio y están más animados antes del mediodía; Piazza Castello y el Museo Egipcio quedan a unos 10 minutos a pie hacia el sur.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

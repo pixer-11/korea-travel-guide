@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-phu-quoc-national-park
-srcHash: '93131273043a'
+srcHash: '634432d5f30c'
 title: 'Parque Nacional de Phu Quoc: Guía de viaje (4.2★)'
 description: 'El Parque Nacional de Phu Quoc ocupa cerca del 70% de la mitad norte de la isla y forma parte de una Reserva de la Biosfera de la UNESCO de bosque perennifolio denso, cascadas y fauna singular. 4.2★ (1.103 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Phu Quoc ocupa cerca del 70% de la mitad norte de la isla y forma parte de una Reserva de la Biosfera de la UNESCO de bosque perennifolio denso, cascadas y fauna singular. La mayoría de los visitantes combina una excursión de medio día en moto hasta las cascadas de Suoi Tranh o Suoi Da Ban con una parada en el pueblo pesquero de Ham Ninh. Conviene ir en temporada seca (de noviembre a abril) y salir temprano, ya que los senderos apenas ofrecen sombra y en los meses húmedos las tormentas de la tarde llegan muy rápido.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay que llevar?
     a: Calzado cerrado adecuado para el granito resbaladizo, agua, algo de comer, protección solar y el depósito de combustible lleno, ya que dentro del parque apenas hay infraestructura.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

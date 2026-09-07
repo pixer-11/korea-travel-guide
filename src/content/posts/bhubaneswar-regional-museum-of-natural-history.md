@@ -99,8 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Bhubaneswar is a city built on temples — Lingaraj, Mukteshwar, the whole Old Town skyline of curved shikharas — so a natural history museum can feel like an odd detour on a temple-hopping itinerary. That's exactly why it's worth the detour. This is a science museum run under India's Ministry of Environment, Forest and Climate Change, and it does something most temple visits don't: it hands you a fossil to touch, lets you press a button and watch a model volcano light up, and walks you through Odisha's own ecology — its mangroves, its Similipal forest tigers, its Chilika Lake birdlife — before you ever set foot in the wild version of any of it.

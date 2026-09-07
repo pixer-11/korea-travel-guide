@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-the-temple-of-artemis
-srcHash: '20bcbd47e53c'
+srcHash: 'b04f09f51045'
 title: 'Templo de Artemisa: guía de viaje de Selçuk (4,2★)'
 description: 'El yacimiento del Templo de Artemisa en Selçuk es un terreno abierto y gratuito donde una sola columna reconstruida señala el lugar donde se alzó una de las Siete Maravillas del Mundo Antiguo. 4,2★ (6.299 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'El yacimiento del Templo de Artemisa en Selçuk es un terreno abierto y gratuito donde una sola columna reconstruida señala el lugar donde se alzó una de las Siete Maravillas del Mundo Antiguo. Abre todos los días de 8:00 a 19:00, y el momento más tranquilo para visitarlo es cualquier mañana entre semana, bien antes de la avalancha de fin de semana entre las 14:00 y las 18:00. Calcula entre 20 y 30 minutos: es una parada breve y sobrecogedora, no una ruina para pasar media jornada.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más se puede ver cerca?
     a: La Basílica de San Juan y la colina de Ayasuluk están a poca distancia a pie y combinan bien con la visita al templo en un mismo recorrido.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Tras doblar una curva en Park İçi Yolu, dejando atrás una hilera de jardines de té y un nido de cigüeña en equilibrio sobre un poste, aparece de pronto: un campo bordeado de marismas con una única columna solitaria que se alza entre la hierba. Eso es el Templo de Artemisa. O lo que queda de él.
 

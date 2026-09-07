@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to The Astor for volume and variety, not quiet romance. It's a sprawling hotel buffet on Nathan Road, the kind of place where trays of dim sum, roast meats, congee and made-to-order noodles rotate under warming lamps in a steady, practiced rhythm.

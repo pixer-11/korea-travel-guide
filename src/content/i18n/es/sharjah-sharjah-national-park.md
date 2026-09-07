@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sharjah-sharjah-national-park
-srcHash: 'a96a272c4bf6'
+srcHash: '0b505c6e626e'
 title: 'Parque Nacional de Sharjah: Guía de viaje (4.4★)'
 description: 'El Parque Nacional de Sharjah es un amplio y cuidado espacio verde situado en Al Dhaid Road (E88), en Al Qarayen, abierto todos los días de 8:00 a 22:00, con céspedes, un parque infantil, campos de fútbol y senderos sombreados. 4.4★ (9.271 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Sharjah es un amplio y cuidado espacio verde situado en Al Dhaid Road (E88), en Al Qarayen, abierto todos los días de 8:00 a 22:00, con céspedes, un parque infantil, campos de fútbol y senderos sombreados. Conviene visitarlo en las horas frescas de la mañana o después del atardecer, cuando las familias llenan el césped; si se busca tranquilidad, es mejor evitar las tardes de jueves y viernes. Basta con reservar una hora o dos, aunque la visita puede alargarse si se lleva un pícnic o los niños se entretienen en el parque infantil.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Lo habitual es pasar allí una hora o dos para pasear y visitar el parque infantil, aunque las familias que llevan pícnic suelen quedarse mucho más tiempo, sobre todo por la tarde.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en tiempo real de Google Places; las imágenes son de uso libre o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

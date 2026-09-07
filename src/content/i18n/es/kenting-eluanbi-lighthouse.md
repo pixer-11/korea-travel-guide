@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-eluanbi-lighthouse
-srcHash: 'fef746db9e1a'
+srcHash: '77521a232931'
 title: 'Faro de Eluanbi: Guía de viaje de Kenting (4.4★)'
 description: El Faro de Eluanbi (Eluanbi Lighthouse) se alza en el extremo más meridional de Taiwán, una robusta fortaleza-faro blanca rodeada de troneras y jardines tropicales, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). 4.4★ (14.844 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'El Faro de Eluanbi (Eluanbi Lighthouse) se alza en el extremo más meridional de Taiwán, una robusta fortaleza-faro blanca rodeada de troneras y jardines tropicales, abierto de martes a domingo de 9:00 a 18:00 (cerrado los lunes). Es realmente popular: espera encontrar mucha gente durante todo el día los fines de semana, así que llega justo a las 9:00 o después de las 16:00 para tener algo más de espacio. Calcula entre 45 y 60 minutos para recorrer los terrenos, subir a la terraza mirador y visitar el pequeño museo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Parque Longpan (Longpan Park) y la Roca de la Vela (Sail Rock) están a poca distancia en coche, lo que permite combinar fácilmente una media jornada en el extremo sur de la península.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

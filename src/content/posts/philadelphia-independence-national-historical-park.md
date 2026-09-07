@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You step off Market Street and the modern city just falls away. Cobblestones replace asphalt, brick rowhouses with shuttered windows line up in neat Georgian rows, and ahead of you rises a plain red-brick tower with a white steeple — Independence Hall, looking almost too small for what happened inside it.
 
 That's the trick of this place. It doesn't shout. The Declaration of Independence and the Constitution were both debated in a room you can actually walk into, and the park around it keeps the same understated scale.

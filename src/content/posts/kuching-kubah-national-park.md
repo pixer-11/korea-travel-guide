@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Kubah is worth the drive
 
 You don't come to Kubah for one famous sight. You come for the forest itself — dipterocarp trees leaning over sandstone ridges, wild palms crowding the understory, the air thick and green.

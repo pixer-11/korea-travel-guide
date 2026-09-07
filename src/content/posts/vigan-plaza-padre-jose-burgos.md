@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the plaza before you fully see it — grilled meat, garlic rice, something sweet caramelizing on a stick. Plaza Padre Jose Burgos sits at the heart of Vigan City, a patch of green and stone paths that shifts personality completely between morning and night.
 
 At its center stands the bronze monument to Father Jose Burgos, one of the three martyred priests (Gomburza) executed by Spanish colonial authorities in 1872. Their deaths are widely credited with lighting the fuse of Filipino nationalism that eventually led to the 1896 revolution. The statue faces outward toward the old city, a quiet nod to a man Vigan claims as its own.

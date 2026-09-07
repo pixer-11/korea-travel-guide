@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ocean Park isn't just rides. It's a hillside marine park where aquariums, pandas, and a genuinely thrilling coaster share the same ticket.

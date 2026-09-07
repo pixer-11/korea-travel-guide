@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one thing: the drop beneath your feet. The Skywalk is a horseshoe-shaped cantilever deck that pushes 11 meters out over the open water, and the last stretch of it is reinforced glass.

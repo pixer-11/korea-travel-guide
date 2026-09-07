@@ -73,8 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the pinwheels. Stalls outside sell them in every size, spinning in the breeze, and locals buy one each New Year believing it turns their luck. Che Kung Temple is named for a Song Dynasty general credited with saving the area from plague, and the site has been rebuilt and expanded since Ming times, with the current main halls dating to the 20th century.

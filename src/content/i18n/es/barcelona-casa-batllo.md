@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-casa-batllo
-srcHash: '3a8fdfa018c5'
+srcHash: '6521917928cf'
 title: 'Casa Batlló: Guía de viaje de Barcelona (4,7★)'
 description: 'Casa Batlló, en el Passeig de Gràcia, en el distrito del Eixample de Barcelona, abre todos los días de 8:30 a 22:30, y las horas más tranquilas para recorrer sus pasillos ondulantes son justo después de la apertura, antes de la avalancha de fin de semana que se acumula desde el mediodía hasta las 20:00. 4,7★ (217.295 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: 'Casa Batlló, en el Passeig de Gràcia, en el distrito del Eixample de Barcelona, abre todos los días de 8:30 a 22:30, y las horas más tranquilas para recorrer sus pasillos ondulantes son justo después de la apertura, antes de la avalancha de fin de semana que se acumula desde el mediodía hasta las 20:00. Reserva una entrada con hora fija en línea con antelación: es uno de los monumentos más visitados de la ciudad, y las colas el mismo día en la puerta son habituales. Reserva entre 1 y 1,5 horas para la visita, más si te detienes en la azotea.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más merece la pena visitar cerca?
     a: La Casa Milà (La Pedrera) de Gaudí está a unos siete minutos a pie por el mismo bulevar, lo que facilita combinar ambos emblemas del Modernismo en una sola salida.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You walk in expecting a quiet afternoon of static exhibits and instead get hit with noise: kids cranking gears, a real DC-3 aircraft suspended overhead, the electric hum of the energy machine winding up for its big show. This is not a look-don't-touch museum, and that's the whole point.
 
 ## Why it's worth the detour

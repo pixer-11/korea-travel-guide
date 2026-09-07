@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the roofline before anything else. Seven curved white pillars rise out of the ground like pages caught mid-turn, each representing one of the seven emirates that signed the union in 1971. That structural gesture isn't decoration — it's the whole point of the building, and it sets the tone for what's inside.
 
 ## Why this spot matters

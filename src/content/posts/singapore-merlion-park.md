@@ -81,8 +81,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You round the corner from Fullerton Road and there it is: a lion's head grafted onto a fish's body, spitting a steady arc of water into Marina Bay, with the toothed skyline of the Central Business District rising behind it. This is the image that stands in for the entire country on postcards, and standing in front of the real thing, at nearly 8.6 metres tall and cast in solid concrete-fibreglass, it's bigger and stranger than photos suggest.
 
 Merlion Park is small, more a landscaped waterfront pocket than a park in the leafy sense, but its position is the whole point. It sits at the mouth of the Singapore River, facing Marina Bay Sands' three towers and the ArtScience Museum's lotus-shaped roof directly across the water. You're standing at the literal spot where old trading-port Singapore meets the glass-and-steel version.

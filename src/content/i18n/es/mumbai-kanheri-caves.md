@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-kanheri-caves
-srcHash: 'ffa36ee2b15e'
+srcHash: '1517a90272df'
 title: 'Cuevas de Kanheri: Guía de viaje de Bombay'
 description: Las Cuevas de Kanheri (Kanheri Caves), escondidas en pleno Parque Nacional Sanjay Gandhi, en la zona de Borivali/Kanheri, al norte de Bombay, forman un extenso complejo de más de 100 cuevas budistas excavadas en la roca con unos 2.000 años de antigüedad.
 quickAnswer: Las Cuevas de Kanheri (Kanheri Caves), escondidas en pleno Parque Nacional Sanjay Gandhi, en la zona de Borivali/Kanheri, al norte de Bombay, forman un extenso complejo de más de 100 cuevas budistas excavadas en la roca con unos 2.000 años de antigüedad. Abren de martes a domingo, de 8am a 5:30pm (cerrado los lunes), y el momento más tranquilo es la primera hora tras la apertura, de 8am a 9am entre semana, antes de que lleguen los grupos turísticos y las multitudes del fin de semana. Reserva de 2 a 3 horas, usa calzado cerrado para las subidas y combina la visita con un paseo o un safari por el bosque que la rodea.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algo más para ver cerca?
     a: Dado que las cuevas están dentro del Parque Nacional Sanjay Gandhi, puedes combinar la visita con las zonas de safari de leones y tigres del parque, con un paseo en bote por el lago del parque o simplemente dedicar más tiempo a recorrer los senderos del bosque alrededor de las cuevas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

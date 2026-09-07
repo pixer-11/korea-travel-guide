@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Canton Tower is worth your time
 
 You spot it long before you arrive. The twisted steel lattice narrows in the middle like a woman's waist, then flares out again near the top — a shape that gave it the nickname "Slender Waist."

@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Alishan for the cypress forest and the sunrise, not for indoor exhibits — but this small museum fills in the gaps those hikes leave behind. It sits quietly within the Alishan National Scenic Area, a short walk from the main train station and lodge cluster, and it rarely has more than a handful of visitors at a time.

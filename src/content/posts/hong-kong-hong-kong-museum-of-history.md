@@ -86,8 +86,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is the museum that explains everything else you'll see in Hong Kong. Before the skyline, before the harbour ferries, there were typhoon shelters, walled villages, and a British colonial outpost — and this museum lays that whole arc out for you in one building.

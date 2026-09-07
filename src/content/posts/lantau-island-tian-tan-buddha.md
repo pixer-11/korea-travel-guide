@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the Buddha long before you reach it. From the Ngong Ping cable car, bronze shoulders rise out of green hillside, visible through the cabin window minutes before you land. It's one of the largest seated bronze Buddha statues in the world, and the scale only registers once you're standing at its base looking up.

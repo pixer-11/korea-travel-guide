@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bohol-bilar-man-made-forest
-srcHash: '1ab2bb970a8d'
+srcHash: '5d0d527ae73e'
 title: 'Bosque Artificial de Bilar: Guía de Viaje de Bohol'
 description: El Bosque Artificial de Bilar (Bilar Man-Made Forest) es un tramo de 2 kilómetros de densos árboles de caoba que bordea la Loay Interior Road entre Bilar y Sevilla, a unos 45-55 minutos en auto o van desde Tagbilaran City, y se combina fácilmente con las Chocolate Hills y el río Loboc en una excursión de un solo día.
 quickAnswer: El Bosque Artificial de Bilar (Bilar Man-Made Forest) es un tramo de 2 kilómetros de densos árboles de caoba que bordea la Loay Interior Road entre Bilar y Sevilla, a unos 45-55 minutos en auto o van desde Tagbilaran City, y se combina fácilmente con las Chocolate Hills y el río Loboc en una excursión de un solo día. Reserva entre 15 y 30 minutos para tomar fotos en los apartaderos junto a la carretera y en el mirador; es más bien una parada de paso para hacer fotos que un destino de senderismo. Ve temprano por la mañana o al final de la tarde, cuando la luz se filtra en ángulo a través del dosel de árboles y los autobuses turísticos todavía no han saturado el arcén.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Las Chocolate Hills, el río Loboc (popular por sus cruceros en restaurantes flotantes) y el Santuario de Tarsiers suelen combinarse con el Bosque Artificial de Bilar en un tour rural de un solo día desde Tagbilaran o Panglao.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

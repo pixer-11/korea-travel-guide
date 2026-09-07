@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-afrasiyab-museum
-srcHash: 'd45414025aa7'
+srcHash: '74298ddba698'
 title: 'Museo de Afrasiyab: Guía de viaje de Samarcanda (4.0★)'
 description: 'El Museo de Afrasiyab se encuentra en el extremo norte del antiguo montículo arqueológico de Samarcanda, abierto todos los días de 9:00 a 17:00, y alberga el célebre fresco sogdiano de palacio de los siglos VII-VIII con embajadores, elefantes y barcas. 4.0★ (944 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Afrasiyab se encuentra en el extremo norte del antiguo montículo arqueológico de Samarcanda, abierto todos los días de 9:00 a 17:00, y alberga el célebre fresco sogdiano de palacio de los siglos VII-VIII con embajadores, elefantes y barcas. Calcule entre 45 y 60 minutos para la visita. Lo mejor es ir justo a la apertura o antes de las 10:00 en día laborable, ya que las mañanas de fin de semana entre las 10:00 y las 13:00 son las de mayor afluencia.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Mezquita de Bibi-Khanym y la necrópolis de Shah-i-Zinda están a poca distancia en coche, y el propio montículo de Afrasiyab se encuentra justo detrás del museo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

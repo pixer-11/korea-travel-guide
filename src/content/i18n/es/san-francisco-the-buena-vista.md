@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-the-buena-vista
-srcHash: '8fffe8071400'
+srcHash: 'a1a57f3ee7fe'
 title: 'The Buena Vista: Guía de viaje de San Francisco'
 description: The Buena Vista es el bar de la esquina de Hyde y North Point, en la zona de Fisherman's Wharf de San Francisco, que afirma haber introducido el Irish coffee en Estados Unidos en 1952.
 quickAnswer: The Buena Vista es el bar de la esquina de Hyde y North Point, en la zona de Fisherman's Wharf de San Francisco, que afirma haber introducido el Irish coffee en Estados Unidos en 1952. Ve justo a la hora de apertura —9am entre semana, 8am los fines de semana— para conseguir sitio antes de que lleguen las multitudes del cable car; el tramo más concurrido los fines de semana es de 11am a 8pm. Pide el Irish coffee, toma el cable car de Hyde Street hasta la puerta, y ten en cuenta que se acepta efectivo y tarjeta, no hay reservas y el sistema es por orden de llegada en el mostrador.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto debo presupuestar y qué hay cerca?
     a: Espera precios de rango medio para comida y bebida según los estándares de San Francisco. Está a poca distancia a pie de Ghirardelli Square, el Hyde Street Pier y el resto de Fisherman's Wharf, así que combina fácilmente con una mañana de turismo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo primero que notas en The Buena Vista es el sonido: el choque de los vasos, el rumor bajo de las conversaciones que rebota en los paneles de madera oscura y, si estás cerca de la barra, el traqueteo rítmico de un bartender alineando jarras de tres y cuatro en cuatro. Son las 9am de un martes y el lugar ya está medio lleno, con el vapor del café enroscándose junto a los espejos de estilo antiguo mientras alguien pide un Bloody Mary.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-temple-of-the-six-banyan-trees
-srcHash: '9be882c05905'
+srcHash: 'b4c675ade5a2'
 title: 'Templo de los Seis Árboles de Banyán: Guía de viaje de Guangzhou'
 description: 'El Templo de los Seis Árboles de Banyán es un templo budista en activo en el centro de Guangzhou, célebre por su Pagoda de las Flores (Hua Ta), una torre de nueve pisos con forma floral. 4.6★ (832 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo de los Seis Árboles de Banyán es un templo budista en activo en el centro de Guangzhou, célebre por su Pagoda de las Flores (Hua Ta), una torre de nueve pisos con forma floral. Abre todos los días de 8:00 a 17:00 y, como recibe muchos menos visitantes extranjeros que el Salón Ancestral del Clan Chen o el Templo Guangxiao, normalmente se pueden recorrer sus patios sin aglomeraciones. Para una visita tranquila y contemplativa, lo mejor es llegar un día laborable por la mañana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con esta visita?
     a: El Templo Guangxiao está a 10-15 minutos caminando, y el Salón Ancestral del Clan Chen se encuentra un poco más al oeste, a un corto trayecto en taxi.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

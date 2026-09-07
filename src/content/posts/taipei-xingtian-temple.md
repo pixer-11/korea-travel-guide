@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the difference before you're even through the gate. No incense smoke curls up from burners here — Xingtian Temple famously banned incense and paper offerings back in 2014, so the air is startlingly clear for a place of worship this busy. What replaces the haze is sound: low murmured prayers, the rhythmic clack of wooden divination blocks hitting the stone floor, and the constant shuffle of people moving toward the main hall.

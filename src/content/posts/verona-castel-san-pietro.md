@@ -59,8 +59,6 @@ faq:
     a: Most visitors spend 30–45 minutes at the terrace, plus 10–20 minutes each way for the walk or funicular ride up and down.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one thing: the view. From the terrace in front of Castel San Pietro, Verona unrolls beneath you — orange rooftops, the curve of the Adige, the Roman Theatre tucked into the hillside just below.

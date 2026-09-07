@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: provence-palais-des-papes
-srcHash: 'defe1da98212'
+srcHash: '3cc326d3ef50'
 title: 'Palais des Papes: Guía de viaje de la Provenza'
 description: El Palais des Papes se encuentra en la Place du Palais, en el corazón del casco antiguo de Aviñón (Avignon), a cinco minutos a pie del Pont Saint-Bénézet y de la estación de tren pasando por la Porte de la République.
 quickAnswer: 'El Palais des Papes se encuentra en la Place du Palais, en el corazón del casco antiguo de Aviñón (Avignon), a cinco minutos a pie del Pont Saint-Bénézet y de la estación de tren pasando por la Porte de la République. Ve justo a la apertura (normalmente a las 9am) o en las últimas dos horas antes del cierre para evitar la avalancha de autobuses turísticos, y calcula entre 90 minutos y dos horas para recorrer las 25 salas abiertas al público. Es el palacio gótico más grande del mundo, con una valoración de 4.5 sobre más de 52,000 reseñas, así que espera bastante afluencia de gente: es mejor organizarse en torno a ella que confiar en evitarla del todo.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: El Pont Saint-Bénézet (Pont d'Avignon), el jardín del Rocher des Doms y el museo del Petit Palais están todos a cinco minutos a pie y combinan bien con la visita al palacio.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

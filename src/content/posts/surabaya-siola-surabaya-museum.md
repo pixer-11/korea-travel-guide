@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the building before you spot the sign: a pale, colonnaded facade with arched windows on Jalan Tunjungan, Surabaya's old commercial spine. This is Siola, once the city's grandest department store, now a free museum tracing how Surabaya grew from a colonial trading post into Indonesia's second-largest city.
 
 ## Why Siola matters

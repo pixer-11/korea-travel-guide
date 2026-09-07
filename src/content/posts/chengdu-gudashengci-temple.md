@@ -68,8 +68,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors to this part of Chengdu are heading straight for Taikoo Li's glass storefronts. Gudashengci Temple sits just behind that noise, and stepping through its gate feels like stepping back several centuries.

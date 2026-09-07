@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Piazza della Repubblica is already Turin's beating heart — home to Porta Palazzo, reputedly the largest open-air market in Europe — and Mercato Centrale Torino sits right inside that same square, occupying a handsome 19th-century iron-and-glass market hall that's been reworked into a two-level food emporium. You come here not for one restaurant but for a whole roster of them under one roof: a dozen-plus stalls run by Piedmontese producers and artisans, each specializing in a single thing — agnolotti, fritto misto, Neapolitan-style pizza, craft beer, gelato, vermouth — rather than a jack-of-all-trades menu.

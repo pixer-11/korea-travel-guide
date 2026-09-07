@@ -98,8 +98,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bu Qtair matters
 
 You smell it before you see it — hot oil, garlic, and the salt tang of the Gulf. Bu Qtair started as a fisherman's shack decades ago, and even after a formal relocation a few doors down, it's kept that same rough, plastic-chair charm near the Umm Suqeim fishing harbour.

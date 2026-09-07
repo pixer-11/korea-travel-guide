@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-delhi-humayun-s-tomb
-srcHash: 'feee96144ec3'
+srcHash: '7e2dd4d6546c'
 title: 胡马雍陵：新德里旅行指南
 description: 胡马雍陵（Humayun's Tomb）是德里最伟大的莫卧儿建筑之一——泰姬陵的红砂岩“前身”，坐落在马图拉路（Mathura Road）旁一座围墙环绕的波斯式花园中，位于尼扎穆丁（Nizamuddin）。
 quickAnswer: 胡马雍陵是德里最伟大的莫卧儿建筑之一——泰姬陵的红砂岩“前身”，坐落在马图拉路（Mathura Road）旁一座围墙环绕的波斯式花园中，位于尼扎穆丁（Nizamuddin）。这里非常受欢迎，建议选在工作日开门时段前往，以避开旅游大巴和正午的酷热。安排1.5到2小时游览时间，还可以顺路参观附近的尼扎穆丁圣陵（Nizamuddin Dargah）或神达苗圃（Sunder Nursery），凑成充实的半日行程。
@@ -17,8 +17,6 @@ faq:
   - q: 需要提前订票吗？
     a: 不是必须的，但提前在线订票可以省去在窗口排队的时间，尤其是考虑到这里通常非常繁忙。
 ---
-
-> **本指南的制作方式：** 由编辑审核、AI辅助完成。信息来自谷歌地图（Google Places）实时数据；图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

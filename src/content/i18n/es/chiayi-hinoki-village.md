@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiayi-hinoki-village
-srcHash: 'c2bd0492d0b5'
+srcHash: '681ea38a04c4'
 title: 'Aldea Hinoki: Guía de viaje de Chiayi (4.3★)'
 description: La Aldea Hinoki es un conjunto de casi 30 dormitorios de madera restaurados de la era japonesa en la ciudad de Chiayi, abierto todos los días de 10:00 a 18:00, y se explora mejor entre las 10:00 y el mediodía en días laborables antes de que lleguen los grupos turísticos. 4.3★ (40,614 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: La Aldea Hinoki es un conjunto de casi 30 dormitorios de madera restaurados de la era japonesa en la ciudad de Chiayi, abierto todos los días de 10:00 a 18:00, y se explora mejor entre las 10:00 y el mediodía en días laborables antes de que lleguen los grupos turísticos. Calcula entre 1.5 y 2 horas para recorrer las callejuelas con aroma a ciprés, curiosear en las tiendas de artesanía y detenerte a tomar un té. Los fines de semana, evita el tramo de 12:00 a 17:00, cuando se llena rápidamente.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que valga la pena combinar con esta parada?
     a: El Parque de Chiayi (Chiayi Park) y el antiguo distrito de talleres del Ferrocarril Forestal de Alishan (Alishan Forest Railway) están a poca distancia a pie o en un corto trayecto en taxi, y comparten la misma historia de la era forestal.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Hueles la Aldea Hinoki (Hinoki Village) antes de verla del todo. El cálido aroma del aceite de ciprés se desprende de los porches elevados de madera, un olor que impregna toda la manzana del Distrito Este (East District), antes utilizada para alojar a los funcionarios forestales durante el dominio japonés.
 

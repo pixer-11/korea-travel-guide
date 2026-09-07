@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nagoya-tokugawaen-garden
-srcHash: '4f9d5c946438'
+srcHash: 'e09bafd93787'
 title: 'Jardín Tokugawaen: Guía de viaje de Nagoya (4,3★)'
 description: 'El jardín Tokugawaen, en el distrito de Higashi (Higashi Ward), Nagoya, es un jardín paisajístico de estilo Edo construido alrededor de un gran estanque, puentes de piedra y casas de té, abierto todos los días excepto los lunes de 9:30 a 17:30. 4,3★ (6.681 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El jardín Tokugawaen, en el distrito de Higashi (Higashi Ward), Nagoya, es un jardín paisajístico de estilo Edo construido alrededor de un gran estanque, puentes de piedra y casas de té, abierto todos los días excepto los lunes de 9:30 a 17:30. Es un lugar muy popular, así que los fines de semana entre las 10:00 y las 17:00 son cuando más gente se concentra; conviene llegar a la apertura para disfrutar de un paseo más tranquilo. Calcule entre una hora y noventa minutos de visita, y combínelo con el vecino Museo de Arte Tokugawa para completar una mañana entera.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es Tokugawaen un buen lugar para ver los cerezos en flor o los colores de otoño?
     a: 'Sí: en primavera los cerezos florecen a lo largo de los caminos, y en otoño los arces que rodean el estanque central se tiñen de rojos y naranjas intensos, el momento del año que más interés despierta entre el público local.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El jardín Tokugawaen se encuentra en el distrito de Higashi (Higashi Ward), a poca distancia a pie de los circuitos turísticos más concurridos de Nagoya, y aún hoy sorprende por lo completo que resulta el mundo que crea en un espacio relativamente compacto. Se entra por una puerta que no deja entrever nada de lo que vendrá después, y a los pocos pasos el ruido del tráfico queda atrás, silenciado por setos recortados y pinos.
 

@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Shifen Old Street pulls you in
 
 You smell the scorched paper before you see it. Sky lanterns — waist-high paper cylinders on bamboo frames — hang in every shopfront, stacked in reds, yellows, blues, each panel waiting for someone's marker-penned wish.

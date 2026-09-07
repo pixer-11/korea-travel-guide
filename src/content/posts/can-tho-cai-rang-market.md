@@ -83,8 +83,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Cai Rang is worth the early wake-up
 
 The alarm goes off absurdly early, and that's the point. Cai Rang is a working wholesale market, not a staged photo-op, and by mid-morning the boats have already sold off and scattered.

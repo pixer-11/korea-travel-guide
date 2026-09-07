@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-museum-of-the-weird
-srcHash: '19b4e8dbd749'
+srcHash: '6c762d4c42fd'
 title: 'Museum of the Weird: Guía de viaje de Austin (4,2★)'
 description: 'El Museum of the Weird está justo en East 6th Street, en el centro de Austin, y reúne carteles de espectáculos circenses, cabezas reducidas y un número en vivo de "Freak Show" escondido detrás de la tienda de regalos. 4,2★ (3.875 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museum of the Weird está justo en East 6th Street, en el centro de Austin, y reúne carteles de espectáculos circenses, cabezas reducidas y un número en vivo de "Freak Show" escondido detrás de la tienda de regalos. Abre todos los días a las 10:00, y el momento más tranquilo para visitarlo los fines de semana es entre las 10:00 y las 11:00; conviene evitar los sábados y domingos por la tarde a partir de la 13:00, cuando el gentío de la 6th Street se cuela dentro del museo. Calcule entre 45 y 60 minutos, más si hay función en vivo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para aprovechar el día?
     a: El Austin Convention Center y los bares y locales de música en vivo de Dirty Sixth quedan a pocos minutos a pie, lo que facilita combinar la visita con una salida nocturna.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

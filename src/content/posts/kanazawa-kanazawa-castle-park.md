@@ -99,8 +99,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Kanazawa Castle Park anchors the city's historic core at 1-1 Marunouchi, directly across from Kenrokuen Garden. What stands today is a reconstruction: the original 16th-century castle burned repeatedly, and the white lead-plastered walls you see now date mostly from restoration work completed in the 2000s and 2010s.
 
 The Ishikawa-mon Gate and the Hishi Yagura and Gojukken Nagaya turret complex are the standout structures. Their timber joinery is cut using traditional methods, visible if you look up into the eaves during the paid interior tour. The stonework varies wall by wall, a deliberate showcase of different Edo-era masonry styles.

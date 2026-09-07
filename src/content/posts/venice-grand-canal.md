@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The moment your water bus pulls away from the dock and swings into the current, you understand why Venice never bothered building roads. The Grand Canal isn't a sight you visit so much as a route you move through — a broad, brown-green ribbon of water tracing a backwards "S" through the city, lined on both banks with palazzi whose stucco has been softened by centuries of tide and salt air.
 
 Gondolas rock in the wake of passing boats, laundry lines flutter above water-level doorways, and every few hundred meters a bridge or a bell tower interrupts the skyline just enough to make you reach for your camera.

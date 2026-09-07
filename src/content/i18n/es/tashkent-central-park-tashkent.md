@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-central-park-tashkent
-srcHash: 'ccca555c6f02'
+srcHash: 'a8200187f90a'
 title: 'Central Park: guía de viaje de Taskent (4,7★)'
 description: 'El Central Park de Taskent (antes parque Mirzo Ulugbek/Telman) es un frondoso parque de atracciones y recreo en la calle Movarounnahr, abierto todos los días de 10:00 a 23:00. 4,7★ (932 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Central Park de Taskent (antes parque Mirzo Ulugbek/Telman) es un frondoso parque de atracciones y recreo situado en la calle Movarounnahr, abierto todos los días de 10:00 a 23:00. Es una opción más tranquila y poco conocida frente a las grandes atracciones de Taskent; los momentos de menor afluencia son los días laborables de 10:00 a 12:00 y las mañanas de fin de semana de 11:00 a 16:00. Conviene reservar entre dos y tres horas para las atracciones, un paseo junto al lago y una vuelta nocturna cuando se encienden las fuentes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Merece la pena visitarlo si el tiempo en Taskent es limitado?
     a: 'Es un buen complemento más que una parada imprescindible: resulta ideal para quienes buscan un lado más pausado y verde de la ciudad, alejado de los principales sitios históricos.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

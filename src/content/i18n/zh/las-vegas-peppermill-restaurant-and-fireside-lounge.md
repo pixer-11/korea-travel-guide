@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-peppermill-restaurant-and-fireside-lounge
-srcHash: '4f3e3acf9638'
+srcHash: '091ca19b2f6f'
 title: Peppermill Restaurant and Fireside Lounge：拉斯维加斯美食指南
 description: Peppermill Restaurant and Fireside Lounge位于2985 Las Vegas Blvd S，是拉斯维加斯大道上经典的餐厅+酒廊组合，以其火坑鸡尾酒廊和超大分量闻名。
 quickAnswer: Peppermill Restaurant and Fireside Lounge位于2985 Las Vegas Blvd S，是拉斯维加斯大道上经典的餐厅+酒廊组合，以其火坑鸡尾酒廊和超大分量闻名。建议一开门就去——每天早上7点到8点是全天最安静的时段，因为其余时间从上午中段一直到周末将近午夜都很繁忙。周四到周日全天24小时营业，所以凌晨2点来这里吃点东西也完全可行。
@@ -17,8 +17,6 @@ faq:
   - q: 去Fireside Lounge需要预订吗？
     a: 不需要，这里是直接入座（walk-in）的形式。由于这里一直很受欢迎，一开门（早上7点）就去，或者晚一点深夜再去，是拿到火坑旁卡座且不用等位的最佳办法。
 ---
-
-> **本指南制作说明：** 经编辑审核、AI辅助完成。内容基于Google Places实时数据，图片均已获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么要去
 

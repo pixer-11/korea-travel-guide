@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-visvesvaraya-industrial-technological-museum
-srcHash: 'b0906f451e34'
+srcHash: 'bf56048eecac'
 title: 'Museo Industrial y Tecnológico Visvesvaraya: guía de viaje de Bengaluru'
 description: 'En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. 4.6★ (17.113 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. Conviene ir justo a la apertura o entre las 10:00 y las 11:00 para evitar las aglomeraciones, ya que las tardes de fin de semana (de 12:00 a 18:00) se llenan de gente. Calcula entre dos y tres horas para la visita y aprovecha para combinarla con un paseo por el vecino Cubbon Park.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si tengo tiempo extra?
     a: Cubbon Park está a cinco minutos a pie y es una buena parada para después. Las tiendas y cafés de MG Road también quedan a poca distancia caminando.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

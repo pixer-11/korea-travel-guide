@@ -96,8 +96,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the bronzes. The Government Museum's Chola-era bronze gallery is one of the finest collections of South Indian metal casting anywhere, and the Nataraja figures alone are worth the trip.

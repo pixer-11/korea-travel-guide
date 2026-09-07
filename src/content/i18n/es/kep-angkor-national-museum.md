@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kep-angkor-national-museum
-srcHash: 'd9761b78739b'
+srcHash: 'e87f3a7d1fe5'
 title: 'Museo Nacional de Angkor: guía de viaje de Siem Reap (4.4★)'
 description: 'El Museo Nacional de Angkor está en Siem Reap, en la avenida Vithei Preah Sihanouk, a poca distancia a pie o en tuk-tuk del centro de la ciudad, y abre todos los días de 8:30 a 18:00. 4.4★ (6.313 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Angkor está en Siem Reap, en la avenida Vithei Preah Sihanouk, a poca distancia a pie o en tuk-tuk del centro de la ciudad, y abre todos los días de 8:30 a 18:00. El momento más tranquilo es justo al abrir, entre las 9:00 y las 10:00, antes de que lleguen los autobuses turísticos; conviene evitar el tramo de 13:00 a 18:00 los fines de semana, cuando la afluencia es máxima. Calcule unas dos horas de visita y vaya antes, no después, de su recorrido por el Parque Arqueológico de Angkor.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Conviene visitarlo antes o después de los templos?
     a: Antes. Las salas explican la historia y el simbolismo detrás de Angkor Wat y del resto de templos, así que ver primero el museo ayuda a entender mejor las ruinas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir antes de los templos
 

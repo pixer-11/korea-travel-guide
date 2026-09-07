@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step off the RER and the first thing that hits you is the sheer scale of the place before you've even reached the gates — gilded ironwork, a cobbled courtyard the size of a small town square, and a facade that keeps unfolding as you walk toward it. This is Louis XIV's old hunting lodge turned into the most extravagant royal address in Europe, and it still shows: gold leaf catching the light on the gates, marble busts lining the entrance, the low murmur of a few thousand people all craning their necks at once.

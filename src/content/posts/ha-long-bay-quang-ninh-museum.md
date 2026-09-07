@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for the building before you even think about the exhibits. Quang Ninh Museum is a black-mirrored cube perched right on the waterfront, its glass panels reflecting sky and sea so the whole structure seems to dissolve depending on the light.

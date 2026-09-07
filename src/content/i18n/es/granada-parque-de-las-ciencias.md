@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: granada-parque-de-las-ciencias
-srcHash: '91d17b510496'
+srcHash: 'a1342b80d0ea'
 title: 'Parque de las Ciencias: Guía de viaje de Granada (4.5★)'
 description: El Parque de las Ciencias es el museo de ciencia interactivo de Granada, en el barrio de Ronda, a 15 minutos a pie o un breve trayecto en autobús al sur del centro histórico. 4.5★ (4,876 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Parque de las Ciencias es el museo de ciencia interactivo de Granada, en el barrio de Ronda, a 15 minutos a pie o un breve trayecto en autobús al sur del centro histórico, construido en torno a un pabellón principal interactivo, un planetario, un mariposario tropical con cúpula de cristal y una torre de observación con vistas panorámicas a Sierra Nevada. Reserva medio día (3-4 horas) para ver las exposiciones permanentes más una sesión de planetario, y consulta la web oficial antes de ir, ya que los horarios y la programación del planetario cambian según la temporada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinarlo con otros lugares de interés?
     a: Se encuentra al sur del centro histórico, cerca del río Genil y la zona universitaria, por lo que es fácil combinarlo con un paseo junto al río de vuelta hacia el Paseo del Salón y la zona de la Catedral/Plaza Nueva.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Se llega cruzando el río Genil al sur del casco antiguo, pasando por las facultades universitarias y el frondoso Paseo del Salón, hasta que se abre ante ti un complejo bajo de blanco y cristal con su característica torre angular asomando por encima de los árboles. Esa torre es tu punto de referencia desde buena parte del sur de Granada: una plataforma de observación de 50 metros que, en un día despejado, alinea los tejados rojos del Albaicín con la cresta nevada de Sierra Nevada.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-jordan-valley-park
-srcHash: '163b1f25fb3f'
+srcHash: '67b5cc33add8'
 title: 'Jordan Valley Park: Guía de viaje de Hong Kong (4.3★)'
 description: 'Jordan Valley Park se encuentra junto a New Clear Water Bay Road, en Cha Liu Au: a pesar del nombre, no se llega a pie desde Jordan, sino en autobús o taxi. 4.3★ (3.410 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'Jordan Valley Park se encuentra junto a New Clear Water Bay Road, en Cha Liu Au: a pesar del nombre, no se llega caminando desde el barrio de Jordan, sino en autobús o taxi. Merece la pena venir por el jardín de buganvillas, el laberinto de setos y la pista de coches teledirigidos; calcule entre 1 y 2 horas de visita. Las mañanas entre semana son las más tranquilas, mientras que los fines de semana atraen a familias y a aficionados a los coches teledirigidos.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo llevar mi propio coche teledirigido a la pista?
     a: 'Sí, la pista está abierta a los aficionados. El ambiente es informal: conviene observar unas cuantas vueltas antes de sumarse, para entender la etiqueta local.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Jordan Valley Park sorprende a quienes lo visitan
 

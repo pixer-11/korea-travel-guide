@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-grand-bazaar
-srcHash: '04b359e79012'
+srcHash: 'a159e09f875f'
 title: 'Gran Bazar: Guía de viaje de Istanbul'
 description: El Gran Bazar abre de 8:30 a 19:00 todos los días excepto el domingo, cuando permanece cerrado por completo.
 quickAnswer: El Gran Bazar abre de 8:30 a 19:00 todos los días excepto el domingo, cuando permanece cerrado por completo. Con más de 4.000 tiendas bajo sus techos abovedados y pintados, es uno de los sitios más visitados de Istanbul, así que ve justo a la apertura en un día de semana para disfrutar de un paseo tranquilo antes de que lleguen los grupos turísticos a media mañana. Entra por la Puerta de Nuruosmaniye (Nuruosmaniye Gate) para una primera impresión más imponente, y reserva al menos dos horas — más si piensas negociar precios en serio.
@@ -17,8 +17,6 @@ faq:
   - q: ¿De verdad se espera que se negocie el precio?
     a: Sí — es una práctica habitual en todo el bazar. Un enfoque común es empezar la contraoferta en aproximadamente la mitad del precio pedido y negociar desde ahí, y pagar en efectivo suele conseguir mejores tratos finales que con tarjeta.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Se escucha el Gran Bazar antes de verlo por completo: un murmullo bajo de vendedores que gritan en media docena de idiomas, el tintineo de los vasos de té en bandejas de latón, el chirrido de las persianas al subir. Luego cruzas una de sus puertas de piedra y el techo se abre sobre ti: bóvedas de cañón pintadas en rojos y azules desvaídos, luz del día filtrándose por ventanas arqueadas en lo alto del ladrillo, más de sesenta calles cubiertas que se despliegan en todas direcciones.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kampong-glam-malay-heritage-centre
-srcHash: 'd009c813bd99'
+srcHash: '4956920b80e0'
 title: 马来传统文化馆：甘榜格南（Kampong Glam）旅行指南（4.3★）
 description: 马来传统文化馆位于甘榜格南（Kampong Glam）苏丹门（Sultan Gate）85号，坐落在苏丹回教堂（Sultan Mosque）后方、修复一新的甘榜格南王宫（Istana Kampong Gelam）内。4.3★（1,777条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 马来传统文化馆坐落在甘榜格南苏丹门（Sultan Gate）85号，就在苏丹回教堂（Sultan Mosque）背后那座修复一新的甘榜格南王宫（Istana Kampong Gelam）内。除周一闭馆外，每天上午10点开放至下午6点，逛完各个展厅大约需要60到90分钟。建议选平日上午前往，人最少，逛完后不妨顺路走一走阿拉伯街（Arab Street）。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些地方适合安排在一起参观？
     a: 苏丹回教堂、哈芝巷，以及阿拉伯街上的织物店，都在五分钟步程之内，很适合安排成一个轻松的半日行程。
 ---
-
-> **本指南制作说明：** 编辑审阅、AI辅助完成。信息来自Google Places实时数据，图片均已获得授权或属公共领域。详见我们的[编辑政策](/about)。
 
 还没找到大门，你就先看到了这栋建筑——一座淡黄色的宫殿，铺着低矮的瓦顶，藏在苏丹门（Sultan Gate）旁一排树影之后。这里便是甘榜格南王宫（Istana Kampong Gelam），曾是新加坡马来王室的居所，如今则是马来传统文化馆。
 

@@ -96,8 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jeju is sold to most visitors as a landscape — volcanic cones, black-sand beaches, waterfalls tumbling out of basalt cliffs — but the island has a distinct human history that's easy to miss if you only chase views. Jeju National Museum is where that story gets filled in: the ancient Tamna kingdom that ruled the island independently for centuries, the haenyeo women divers, the shamanist belief system with its own pantheon, and the darker chapters of Joseon-era political exile, when the island was used as a place to banish disgraced officials and scholars.

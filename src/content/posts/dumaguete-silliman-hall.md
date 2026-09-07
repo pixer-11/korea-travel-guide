@@ -78,8 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Silliman Hall is the oldest building on Silliman University's campus, and one of the oldest American-built structures in the Visayas. Wooden, stick-style, and painted the soft white you'd expect of an early-1900s missionary school, it now works as a small museum rather than a lecture hall. You come here for a compact hit of deep history, not a sprawling attraction.

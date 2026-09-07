@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot it long before you reach it. Above the mud-brick rooftops of Itchan Kala, a slim tapering tower catches the light in rings of turquoise and cobalt, the tallest thing for miles in this flat Khorezm oasis town.
 
 Built in 1910, the Islam Khoja Minaret is a late arrival by Khiva's standards — most of the old city's monuments are centuries older — but it's become the emblem everyone photographs. At around 45 meters it's the tallest minaret in Khiva, and its proportions are unusually slender, almost fragile-looking against the sky.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: philadelphia-independence-national-historical-park
-srcHash: '8cdfbb1b4615'
+srcHash: 'a37d992002fe'
 title: '독립 국립역사공원: 필라델피아 여행 가이드'
 description: 독립 국립역사공원(Independence National Historical Park)은 독립기념관(Independence Hall), 자유의 종 센터(Liberty Bell Center)를 비롯해 미국 건국 역사를 담은 여러 박물관이 모여 있는 올드 시티 필라델피아(Old City Philadelphia)의 20블록 구역입니다. 4.6★ (리뷰 26,599개) — 방문객 후기, 운영시간, 방문 팁을 소개합니다.
 quickAnswer: 독립 국립역사공원(Independence National Historical Park)은 독립기념관(Independence Hall), 자유의 종 센터(Liberty Bell Center)를 비롯해 미국 건국 역사를 담은 여러 박물관이 모여 있는 올드 시티 필라델피아(Old City Philadelphia)의 20블록 구역입니다. 최소 반나절은 잡아야 하며, 독립기념관 투어와 프랭클린 코트(Franklin Court)까지 여유롭게 둘러보려면 하루를 온전히 써야 합니다. 관광버스로 붐비는 시간을 피하려면 개장 시간에 맞춰 가거나 오후 3시 이후에 방문하세요.
@@ -17,8 +17,6 @@ faq:
   - q: 국립헌법센터도 공원에 포함되나요?
     a: 아니요, 몰(mall) 건너편에 있는 별도의 비영리 기관입니다. 하지만 함께 둘러보기 좋고, 독립기념관 방문 전후로 유용한 배경 지식을 얻을 수 있습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검토 및 AI 보조 작성. 사실 정보는 구글 플레이스(Google Places) 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 마켓 스트리트(Market Street)에서 한 발짝만 벗어나면 현대적인 도시 풍경이 순식간에 사라집니다. 아스팔트 대신 자갈길이 펼쳐지고, 덧창을 단 벽돌 연립주택들이 조지 왕조풍으로 가지런히 늘어서 있으며, 그 끝에는 흰색 첨탑을 얹은 수수한 붉은 벽돌 탑이 보입니다 — 바로 독립기념관(Independence Hall)입니다. 그 안에서 벌어진 일들을 생각하면 놀라울 만큼 소박한 규모입니다.
 

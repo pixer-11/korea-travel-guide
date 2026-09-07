@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bordeaux-miroir-d-eau
-srcHash: '968430d198da'
+srcHash: '88bea104cfa9'
 title: 水之镜:波尔多旅行指南
 description: 水之镜(Miroir d'eau)是位于波尔多加龙河(Garonne)畔证券交易所广场(Place de la Bourse)上的浅水倒影池——免费开放、露天可赏，最佳游览时间是清晨或日落之后。
 quickAnswer: 水之镜(Miroir d'eau)是位于波尔多加龙河(Garonne)畔证券交易所广场(Place de la Bourse)上的浅水倒影池——免费开放、露天可赏。最佳体验时间是清晨或日落之后，此时人群渐少，水面在18世纪的立面前化作薄雾。建议安排20-40分钟游览，穿上不介意弄湿的凉鞋，再顺路沿黎塞留河堤(Quai Richelieu)散步一圈。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有哪些值得一并游览的地方?
     a: 水池后方就是18世纪风格的证券交易所广场(Place de la Bourse)建筑群，沿黎塞留河堤(Quai Richelieu)分布着河畔咖啡馆;再搭一段电车，还能到达葡萄酒之城博物馆(Cité du Vin)和公共花园(Jardin Public)。
 ---
-
-> **本指南制作方式说明:** 编辑审核、AI辅助完成。内容数据来自谷歌地图(Google Places)实时信息；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 还没看到水池，你就先闻到了河的气息——加龙河(Garonne)带来的一丝矿物质般的潮湿气味，与河堤边咖啡馆飘出的华夫饼面糊香和咖啡香交织在一起。从费尔南·菲利帕尔街(Rue Fernand Philippart)拐过街角，证券交易所广场(Place de la Bourse)豁然展现在眼前：蜜色的石材、弧形的柱廊，脚下则是一层薄薄的水面，铺展在3,450平方米的黑色花岗岩上，将整个场景对折般地映照出双份影像。这就是水之镜(Miroir d'eau,意为"水的镜子"),它堪称世界上最大的倒影池之一。
 

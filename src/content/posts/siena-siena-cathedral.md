@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner from Via del Capitano and the facade just stops you: bands of green-black and white marble climbing toward a roofline crowded with gilded mosaics and pinnacles, the whole thing lit gold in late-afternoon sun. Siena Cathedral was built mostly between 1215 and 1263, and the striping isn't decoration for its own sake — black and white were Siena's civic colors, tied to the legendary horses of the city's mythical founders.

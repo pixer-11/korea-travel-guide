@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-brunch-club
-srcHash: '68cfeec1933d'
+srcHash: '90369f117b44'
 title: 'Brunch Club: dónde comer en Hong Kong (4.1★)'
 description: 'Brunch Club es un café informal de horario continuo en Peel Street, en Central, célebre por sus huevos benedictinos, su tostada de aguacate y su café bien cargado, todo en una sala pequeña y llena de plantas. 4.1★ (462 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: Brunch Club es un café informal de horario continuo en Peel Street, en Central, célebre por sus huevos benedictinos, su tostada de aguacate y su café bien cargado, todo en una sala pequeña y llena de plantas. Los fines de semana, entre las 10:00 y las 16:00, es cuando más gente hay, así que conviene ir un día laborable por la mañana o por la noche (17:00–21:00) si se quiere mesa sin esperar. Ten en cuenta que los domingos el horario termina a las 17:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para visitar después?
     a: PMQ, la escalera mecánica Central-Mid-Levels y el templo Man Mo quedan a poca distancia a pie, lo que permite montar fácilmente una ruta de medio día por SoHo alrededor de la comida.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: las-vegas-the-mob-museum
-srcHash: '807c81884df1'
+srcHash: '02a50ea056c1'
 title: 'El Mob Museum: guía de viaje de Las Vegas (4.7★)'
 description: 'El Mob Museum se encuentra en un antiguo tribunal federal de 1933 en 300 Stewart Ave, en el centro de Las Vegas, a pocos minutos a pie de Fremont Street. 4.7★ (20,069 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mob Museum se encuentra en un antiguo tribunal federal de 1933 en 300 Stewart Ave, en el centro de Las Vegas, a pocos minutos a pie de Fremont Street. Dedícale entre dos y tres horas, llega justo cuando abren las puertas para evitar las multitudes de los autobuses turísticos, y ten en cuenta que los fines de semana se llena rápido entre las 11am y las 7pm. Es una de las atracciones mejor valoradas de la ciudad de forma constante, así que reserva las entradas con horario fijo en línea antes de tu visita.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero combinar la visita con otros sitios?
     a: El Fremont Street Experience y casinos del centro como el Golden Nugget y el El Cortez están a unos 10-15 minutos a pie, lo que facilita combinar la visita al museo con una tarde o noche en el centro.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Doblas la esquina desde Fremont Street, dejando atrás el neón y el ruido, y de repente te encuentras frente a un edificio neoclásico de líneas rectas y color arena que parece pertenecer a los tribunales, no a las máquinas tragamonedas. Y es que ese es justamente el punto. Este fue el tribunal federal y la oficina de correos de Las Vegas, construido en 1933, y es el mismo edificio donde, en 1950, el comité itinerante del senador Estes Kefauver celebró audiencias sobre el crimen organizado —una de las catorce ciudades visitadas, pero la única donde esa historia ahora sostiene un museo en el mismísimo lugar donde ocurrió.
 

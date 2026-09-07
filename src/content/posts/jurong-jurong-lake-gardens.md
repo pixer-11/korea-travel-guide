@@ -94,8 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Jurong Lake Gardens is worth the trip out west
 
 You come here for space — the kind that's hard to find in central Singapore. This is the country's largest park outside downtown, built around the still, wide surface of Jurong Lake.

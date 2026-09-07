@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't just another museum stop bolted onto a Taipei itinerary. The National Palace Museum holds one of the largest collections of Chinese art and artifacts anywhere on earth, much of it spirited out of Beijing's Forbidden City in the 1930s and 40s ahead of war and revolution.

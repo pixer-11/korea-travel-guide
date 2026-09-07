@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you reach it: a façade that looks like it's been iced rather than built, studded with broken ceramic in blues, greens, and violets that catch the light differently every hour. Antoni Gaudí redesigned this apartment block between 1904 and 1906, and the whole building reads like a fever dream translated into stone and glass — no straight lines, no flat surfaces, bones instead of columns.

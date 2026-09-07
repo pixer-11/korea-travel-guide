@@ -118,8 +118,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You turn off a fairly ordinary street and the pavement changes first — smooth wood-toned tiles replacing concrete, and suddenly the buildings lean in close, dark timber lattices called kimusuko screening every window.
 
 This is Higashi Chaya, Kanazawa's largest preserved geisha teahouse district, a few blocks of Edo-period ochaya where geisha once entertained wealthy patrons behind those very screens. Some still do, in a handful of teahouses that keep the tradition alive today.

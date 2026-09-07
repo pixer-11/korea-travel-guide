@@ -58,8 +58,6 @@ faq: []
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the scale before you understand it. Locomotive-sized landing craft hang overhead, a real Higgins boat sits at eye level, and the noise of newsreel footage drifts between buildings. This isn't a room of glass cases — it's five connected pavilions built to move you through the war chronologically, from mobilization to victory.

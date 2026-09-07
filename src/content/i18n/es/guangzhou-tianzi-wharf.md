@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-tianzi-wharf
-srcHash: 'af68e2cb2b04'
+srcHash: '358e0a9c476d'
 title: 'Muelle Tianzi: Guía de Viaje de Guangzhou (4.3★)'
 description: 'El muelle Tianzi es un pequeño embarcadero junto al río, en la calle Yanjiang Middle Road, en el distrito de Yuexiu, Guangzhou: un rincón tranquilo desde donde ver el tráfico de barcos del río de las Perlas y el horizonte encendiéndose sin las multitudes de los muelles turísticos principales. 4.3★ (153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El muelle Tianzi es un pequeño embarcadero junto al río, en la calle Yanjiang Middle Road, en el distrito de Yuexiu, Guangzhou: un rincón tranquilo desde donde ver el tráfico de barcos del río de las Perlas y el horizonte encendiéndose sin las multitudes de los muelles turísticos principales. Conviene reservar entre 20 y 30 minutos para la visita, idealmente al atardecer, y combinarla con un paseo por el malecón. Antes de ir, es recomendable confirmar el horario, ya que este rincón discreto no tiene ninguno publicado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: La calle peatonal Beijing Road y la Plaza Haizhu están a 10-15 minutos caminando, por lo que es fácil combinar la visita con algo de compras o con otro mirador sobre el río.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

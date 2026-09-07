@@ -49,8 +49,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You clock the palace long before you reach its gate — grey stone turrets and crenellated parapets rising above the traffic on Palace Road, oddly medieval against Bengaluru's glass office towers. Built in the 1880s for the Wadiyar royal family and consciously modeled on Windsor Castle, it's one of the few places in the city where the 19th-century Mysore court life is still tangible: teak-panelled corridors, faded oil portraits, Belgian glass, and ceilings painted with mythological scenes.

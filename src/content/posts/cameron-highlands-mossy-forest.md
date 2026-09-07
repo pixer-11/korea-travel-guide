@@ -54,8 +54,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Mossy Forest is worth the climb
 
 The air changes before you even see it. Around 2,000 metres up Gunung Brinchang, the temperature drops, mist thickens, and the jungle turns from tall dipterocarp forest into something stranger — stunted, twisted trees wrapped in thick cushions of moss.

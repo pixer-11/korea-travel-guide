@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: provence-musee-granet
-srcHash: '5117ba961bb6'
+srcHash: 'fc398785f1ce'
 title: 'Museo Granet: Guía de Viaje por la Provenza (4,4★)'
 description: 'En un antiguo priorato de los Caballeros de Malta del siglo XVII, en la Place Saint-Jean de Malte de Aix-en-Provence, el Museo Granet reúne desde lienzos de Cézanne hasta un autorretrato de Rembrandt. 4,4★ (4.877 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: En un antiguo priorato de los Caballeros de Malta del siglo XVII, en la Place Saint-Jean de Malte de Aix-en-Provence, el Museo Granet reúne desde lienzos de Cézanne hasta un autorretrato de Rembrandt. Conviene reservarle entre dos y tres horas, y si se quiere disfrutar de las salas casi en soledad, lo mejor es llegar justo a la apertura, a las 10 de la mañana, entre semana, ya que los fines de semana la afluencia aumenta desde el mediodía hasta las 18:00. Como el museo queda a un paso de la antigua ruta de Cézanne, conviene combinar la visita con un paseo por el barrio Mazarin.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: 'La Catedral de Saint-Sauveur queda a unos 10 minutos a pie hacia el norte, el Cours Mirabeau está a un paso, y el mercado de la Place Richelme funciona la mayoría de las mañanas: un buen complemento para completar la visita al museo.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

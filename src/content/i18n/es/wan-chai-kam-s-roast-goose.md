@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wan-chai-kam-s-roast-goose
-srcHash: 'e5eceedbd632'
+srcHash: '6ada9ece0bee'
 title: 'Kam''s Roast Goose: dónde comer en Wan Chai (4.1★)'
 description: 'Kam''s Roast Goose, en Hennessy Road, es la dirección de referencia en Wan Chai para el ganso asado reconocido por la guía Michelin: piel ampollada y de un tono caoba oscuro, carne jugosa por dentro. 4.1★ (6.260 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Kam''s Roast Goose, en Hennessy Road, es la dirección de referencia en Wan Chai para el ganso asado reconocido por la guía Michelin: piel ampollada y de un tono caoba oscuro, carne jugosa por dentro. Ve justo a la apertura, a las 11:30 a.m., o después de las 2 p.m. para evitar la hora punta del almuerzo; los fines de semana, toda la tarde, de 12 del mediodía a 9 p.m., es más tranquila que en la mayoría de los asadores cantoneses. Cuenta con una cuenta de precio medio, mesas que rotan rápido y una cola que avanza más rápido de lo que parece.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reserva?
     a: 'Kam''s funciona con el sistema típico de los asadores cantoneses: sin reserva, por orden de llegada. La rotación de mesas es rápida, así que incluso si la fila se ve larga, suele avanzar deprisa.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué este ganso tiene tantos seguidores
 

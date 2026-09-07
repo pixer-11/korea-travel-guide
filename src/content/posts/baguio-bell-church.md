@@ -47,8 +47,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bell Church stands out
 
 You smell the incense before you see the gate. It drifts down Bell Church Road ahead of the first archway, a giveaway that you're close.

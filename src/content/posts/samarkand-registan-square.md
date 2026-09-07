@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the corner and the square just opens up in front of you. Three enormous tiled facades face each other across a stone plaza, turquoise and cobalt catching the light, and for a second you stop walking because the scale doesn't compute from photos.

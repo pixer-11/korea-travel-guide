@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Parc Phœnix for the contrast: glass, greenery and animals a few minutes from the airport runway. It's one of Nice's biggest green spaces, split between open-air gardens and a soaring tropical glasshouse that fogs your glasses the second you step inside.

@@ -64,8 +64,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the building before you spot the sign: a squat, colonial-era capitol with thick columns and a wide staircase, the kind of structure that used to run a province and now quietly houses its story instead. That's the National Museum of the Philippines – Bohol, tucked into the Old Capitol Complex on Carlos P. Garcia Avenue in Tagbilaran City's Poblacion district.
 
 ## Why go

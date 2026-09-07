@@ -43,8 +43,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this theater stops people in their tracks
 
 You climb the path up from the Hierapolis ruins, past scattered column drums and sarcophagi baking in the sun, and the theater opens up almost without warning. Tiered limestone seating curves around a stage wall that still stands two stories tall, carved with columns, niches and relief panels that once held statues of gods and emperors.

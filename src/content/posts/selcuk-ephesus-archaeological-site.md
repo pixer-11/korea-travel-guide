@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ephesus still stops people cold
 
 You come around a bend in the marble-paved Curetes Street and the façade of the Library of Celsus just appears, two stories of carved columns glowing pale gold in the sun. It was reconstructed from fallen pieces in the 1970s, but the effect is the same one Roman visitors had 1,900 years ago — a jolt of scale.

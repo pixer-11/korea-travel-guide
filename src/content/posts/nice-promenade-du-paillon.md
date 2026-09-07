@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of Place Masséna's checkerboard paving and the city just opens up — palm trees, lawns, and a long shallow sheet of water that mirrors the sky and the belle-époque façades around it. The Promenade du Paillon is what Nice did with a river: the Paillon itself was covered over decades ago, and this park now traces its old course from the sea almost up to the hills, a green spine cutting the city in two.

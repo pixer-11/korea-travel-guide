@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see the wooden columns before anything else. Twenty slender pillars, carved and painted in blues and ochres that have faded just enough to look earned, hold up a ceiling of muqarnas vaulting so dense it seems to drip downward like frozen honey.
 
 This is Bolo Hauz Mosque, built in 1712 as the official mosque for Bukhara's ruling emirs, who worshipped here on Fridays without having to leave the citadel. The Ark fortress looms just across the open square, close enough that you can walk between the two in under five minutes.

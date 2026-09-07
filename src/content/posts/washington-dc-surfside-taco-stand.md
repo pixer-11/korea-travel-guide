@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the place before you see the sign — charred tortilla and lime cutting through the diesel-and-dry-cleaning air of N Street. Surfside Taco Stand sits mid-block in Dupont Circle, its facade painted in the kind of saturated turquoise and coral that looks like it got airlifted in from a Tulum boardwalk and dropped into the middle of a very buttoned-up DC neighborhood of embassies and law offices. That contrast is the whole charm of the place: suits and backpacks and 2am stragglers all queuing at the same counter.
 
 ## Why go

@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You walk in expecting a few gimmicky photo ops and instead find yourself questioning basic physics. Paradox Museum Mumbai is built entirely around illusions — rooms that trick your eye, your camera, and occasionally your sense of balance.

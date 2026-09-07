@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hualien-hualien-railway-culture-park
-srcHash: '027e7a96947c'
+srcHash: '7eceb24744e1'
 title: 'Parque Cultural Ferroviario de Hualien: Guía de viaje'
 description: El Parque Cultural Ferroviario de Hualien (Hualien Railway Culture Park) es un conjunto de edificios administrativos ferroviarios y patios de talleres de la era japonesa de 1932, restaurados, en la ciudad de Hualien, a poca distancia a pie o en bicicleta del casco antiguo, cerca del Parque Nan Bin (Nan Bin Park).
 quickAnswer: El Parque Cultural Ferroviario de Hualien (Hualien Railway Culture Park) es un conjunto de edificios administrativos ferroviarios y patios de talleres de la era japonesa de 1932, restaurados, en la ciudad de Hualien, a poca distancia a pie o en bicicleta del casco antiguo, cerca del Parque Nan Bin (Nan Bin Park). Dedícale entre 45 y 90 minutos para recorrer los bajos dormitorios de madera, los talleres de maquinaria y los terrenos del patio ferroviario; caminar por las áreas exteriores es gratis, aunque hay algunas salas de exhibición interiores. Ve a media tarde para disfrutar de una luz más suave y menos multitudes, y combínalo con un paseo hasta el cercano mercado nocturno o el paseo marítimo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca si quiero seguir explorando?
     a: El Parque Nan Bin (Nan Bin Park) y el paseo marítimo de Hualien están a poca distancia a pie, y la zona del mercado nocturno de Dongdamen (Dongdamen Night Market) queda muy cerca para comer algo después.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

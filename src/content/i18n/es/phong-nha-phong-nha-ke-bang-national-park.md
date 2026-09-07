@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phong-nha-phong-nha-ke-bang-national-park
-srcHash: '80bbbfc8ea41'
+srcHash: '5e1379a67596'
 title: 'Parque Nacional Phong Nha - Ke Bang: Guía de viaje (4.7★)'
 description: 'El Parque Nacional Phong Nha - Ke Bang, en la provincia de Quang Binh, es la capital de las cuevas en Vietnam: aquí se encuentran Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva Phong Nha. 4.7★ (1.001 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Nacional Phong Nha - Ke Bang, en la provincia de Quang Binh, es la capital de las cuevas en Vietnam: aquí se encuentran Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva Phong Nha. Lo mejor es alojarse en el pueblo de Phong Nha, reservar los tours a las cuevas con unos días de antelación y aprovechar la franja de 8:00 a 9:00 entre semana (o de 7:00 a 8:00 los fines de semana) para tener el muelle y los senderos de la selva casi para uno solo. Conviene dedicarle al menos dos o tres días; la propia expedición a Son Doong ya requiere varios días por sí sola.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para descansar de las cuevas?
     a: El Jardín Botánico y el Valle de Ma Da ofrecen caminatas más cortas hasta cascadas, mientras que el ramal occidental del Camino Ho Chi Minh, que atraviesa el parque, conserva vestigios de la guerra y rutas tranquilas para recorrer en moto.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

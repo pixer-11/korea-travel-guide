@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-hong-kong-space-museum
-srcHash: '0b0c35dde1a0'
+srcHash: '65aa931e7c7a'
 title: 'Museo Espacial de Hong Kong: guía de viaje de Tsim Sha Tsui (4.2★)'
 description: 'El Museo Espacial de Hong Kong se encuentra en Salisbury Road, en Tsim Sha Tsui, justo frente al puerto de Kowloon. 4.2★ (6.972 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Espacial de Hong Kong se encuentra en Salisbury Road, en Tsim Sha Tsui, justo frente al puerto de Kowloon. Su cúpula ovoide y sin ventanas alberga un planetario, un cine Omnimax y salas dedicadas al espacio, y permanece cerrado los martes. Los fines de semana son los más concurridos entre las 12:00 y las 19:00, así que conviene ir a primera hora, justo cuando abre a las 10:00.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo llego en transporte público?
     a: Toma el metro (MTR) hasta la estación de Tsim Sha Tsui y usa la salida E o J, siguiendo las señales hacia el Centro Cultural; otra opción es el Star Ferry desde Central, que te deja a poca distancia caminando.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Encontrar el huevo en el paseo marítimo
 

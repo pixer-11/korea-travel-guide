@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: malacca-a-famosa
-srcHash: 'd3f21ccae18f'
+srcHash: '6e4532167536'
 title: 法摩沙城堡（A Famosa）：马六甲旅行指南
 description: 法摩沙城堡遗留下来的圣地亚哥城门（Porta de Santiago）坐落在班达蕙尔（Banda Hilir）的哥打路（Jalan Kota）上，紧邻圣保罗山，是马六甲最受欢迎的历史景点之一。
 quickAnswer: 法摩沙城堡遗留下来的圣地亚哥城门（Porta de Santiago）坐落在班达蕙尔（Banda Hilir）的哥打路（Jalan Kota）上，紧邻圣保罗山（St Paul's Hill）——从荷兰红屋（Stadthuys）和基督教堂（Christ Church）步行五分钟即可到达，所以最好把它和这两处一起游览，而不是当作单独的一站。凭借19,500多条评价和4.4分的评分，它是马六甲最热门的景点之一，建议开门时段或傍晚前往，避开旅游大巴人潮和正午酷暑。仅参观城门遗址本身15到20分钟就够了，但如果还要爬山并参观周边的博物馆，最好预留半天时间。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点？
     a: 圣保罗教堂就位于城门后方的山上，而荷兰红屋（Stadthuys）、基督教堂（Christ Church）和鸡场街（Jonker Street）都在步行10分钟范围内。
 ---
-
-> **本指南制作方式：** 经编辑审核，并借助AI辅助完成。信息来自Google Places实时数据，图片均为授权或公共领域内容。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: north-point-mak-kee
-srcHash: 'f5925bf9de11'
+srcHash: '3371e8cd813b'
 title: 'Mak Kee: dónde comer en North Point (4.0★)'
 description: 'Mak Kee es un puesto de fideos sin pretensiones en Fortress Street, en North Point, célebre por sus fideos con wonton y sus fideos con hueva de camarón en un caldo oscuro y sabroso. 4.0★ (702 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Mak Kee es un puesto de fideos sin pretensiones en Fortress Street, en North Point, célebre por sus fideos con wonton y sus fideos con hueva de camarón en un caldo oscuro y sabroso. Abre todos los días, salvo los martes, cuando el horario empieza más temprano, a las 9:30. Los fines de semana suele haber más gente entre el mediodía y las 20:00, así que lo mejor es ir a comer temprano o a media tarde si quiere asegurarse un asiento.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto cuesta comer allí?
     a: 'Es de precio medio para un puesto de fideos: más caro que un puesto de comida callejera barato, pero muy por debajo de lo que cuesta un restaurante con servicio de mesa. Pagar en efectivo es la opción más segura.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## A Seoul landmark
 
 The National Museum of Korea sits in Yongsan District, central Seoul.

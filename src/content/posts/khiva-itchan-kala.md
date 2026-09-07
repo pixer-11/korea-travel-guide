@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Itchan Kala is the old walled city of Khiva, sealed inside earthen ramparts that have stood since the 17th century. Inside, sand-colored madrasas, minarets, and mausoleums crowd together along narrow lanes, largely untouched by modern construction. UNESCO listed it as a World Heritage Site in 1990, and walking through it still feels like stepping into a single, continuous museum.

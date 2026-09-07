@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seville-plaza-de-espana
-srcHash: 'b134ee8f73a0'
+srcHash: 'f1c6d3daa8a0'
 title: 西班牙广场：塞维利亚旅行指南
 description: 西班牙广场坐落在玛丽亚·路易莎公园（María Luisa Park）内，从大教堂步行前往约需15-20分钟，也可乘坐C1/C2路公交车或有轨电车到圣塞巴斯蒂安草坪站（Prado de San Sebastián）短途即达。
 quickAnswer: 西班牙广场坐落在玛丽亚·路易莎公园（María Luisa Park）内，从大教堂步行前往约需15-20分钟，也可乘坐C1/C2路公交车或有轨电车到圣塞巴斯蒂安草坪站（Prado de San Sebastián）短途即达。这里免费入场，全天开放，但建议在开门后不久（大约早上8-9点）或日落前一小时前往，这样可以避开旅行团人潮，静静欣赏瓷砖装饰和运河景色。建议预留45-90分钟游览时间，如果打算在运河上划船，或想在每个省份的陶瓷壁龛前多做停留，则需要更长时间。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些值得一起游览的地方？
     a: 玛丽亚·路易莎公园环绕着广场，园内有喷泉和花园；艺术与民俗博物馆（Museum of Arts and Traditions）和考古博物馆（Archaeological Museum）就在不远处的美洲广场（Plaza de América）；从广场步行回市中心，还能轻松抵达以塔帕斯闻名的圣克鲁斯区（Santa Cruz）。
 ---
-
-> **本指南制作说明：** 经编辑审核，并借助AI辅助完成。内容素材来自Google Places实时数据；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

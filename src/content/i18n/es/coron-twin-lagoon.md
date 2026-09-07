@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coron-twin-lagoon
-srcHash: '6980e8ce8282'
+srcHash: '158953f9e1bf'
 title: 'Twin Lagoon: guía de viaje de Coron (4,8★)'
 description: 'Twin Lagoon es un par de piscinas de agua salada rodeadas de paredes de piedra caliza cerca de la isla de Coron, a las que solo se llega en barco, donde se puede nadar o bucear con esnórquel entre una cuenca turquesa poco profunda y una laguna más honda y fría, conectadas por un estrecho canal de roca. 4,8★ (974 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Twin Lagoon es un par de piscinas de agua salada rodeadas de paredes de piedra caliza cerca de la isla de Coron, a las que solo se llega en barco, donde se puede nadar o bucear con esnórquel entre una cuenca turquesa poco profunda y una laguna más honda y fría, conectadas por un estrecho canal de roca. La mayoría de los visitantes la incluyen como una parada dentro de un tour de día completo por las islas de Coron (Tour A). Conviene llegar temprano, antes de las 9 a.m., antes de que las lanchas se amontonen frente a la escalera de entrada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿En qué época del año el agua está más clara?
     a: La temporada seca, aproximadamente de noviembre a mayo, ofrece el mar más calmo y la mejor visibilidad. De junio a octubre llueve más y las travesías en barco son más movidas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena el trayecto en barco hasta Twin Lagoon
 

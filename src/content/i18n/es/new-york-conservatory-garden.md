@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-conservatory-garden
-srcHash: 'db33956b34e5'
+srcHash: '1043c3657f94'
 title: 'Conservatory Garden: guía de viaje de Nueva York (4.8★)'
 description: 'Se entra a Central Park por la 5th Avenue con la calle 105, cruzando la verja de hierro forjado Vanderbilt Gate, y ahí está el Conservatory Garden: un jardín formal de seis acres dividido en secciones italiana, francesa e inglesa, abierto de 8am hasta el anochecer. 4.8★ (2.944 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Se entra a Central Park por la 5th Avenue con la calle 105, cruzando la verja de hierro forjado Vanderbilt Gate, y ahí está el Conservatory Garden: un jardín formal de seis acres dividido en secciones italiana, francesa e inglesa, abierto de 8am hasta el anochecer. Es uno de los rincones más tranquilos del parque: según los datos de afluencia, entre semana de 2pm a 9pm y los fines de semana de 1pm a 9pm son las horas más silenciosas, así que conviene ir a media tarde en lugar de un sábado o domingo por la mañana en verano. Calcula entre 45 minutos y una hora, más si te quedas junto a las fuentes.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares cercanos vale la pena combinar con la visita?
     a: El Conservatory Water (el estanque de los barcos a escala) y el North Woods quedan a poca distancia caminando dentro del propio Central Park, mientras que el Museum of the City of New York y El Museo del Barrio están justo cruzando la 5th Avenue.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-petra
-srcHash: 'ad5613c28253'
+srcHash: '73d13ba35730'
 title: 'Petra: Guía de Viaje de Jordania (4,8★)'
 description: 'Petra, la antigua ciudad excavada en roca de Jordania, es la visita histórica obligada del país: hay que reservar el día entero, calzado resistente y contar con aglomeraciones junto al Tesoro a media mañana. 4,8★ (45.867 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Petra, la antigua ciudad excavada en roca de Jordania, es la visita histórica obligada del país: hay que reservar el día entero, llevar calzado resistente y contar con aglomeraciones junto al Tesoro a media mañana. Conviene ir a la apertura o a última hora de la tarde para disfrutar de una luz más suave y menos gente, y calcular al menos entre cuatro y seis horas si se quiere llegar hasta el Monasterio. Se entra por el desfiladero del Siq desde Wadi Musa, el pueblo cercano.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene llevar para un día en Petra?
     a: Calzado cerrado y resistente, mucha agua, protector solar y sombrero, ya que el valle apenas ofrece sombra. En invierno conviene llevar una prenda de abrigo para las noches frías.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Petra te deja sin palabras
 

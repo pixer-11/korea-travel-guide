@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seville-catedral-de-sevilla
-srcHash: 'b71fa183a09f'
+srcHash: '63b9f6e67877'
 title: 'Catedral de Sevilla: guía de viaje de Sevilla'
 description: 'La Catedral de Sevilla es la catedral gótica más grande del mundo, construida sobre la antigua mezquita almohade, y merece una mañana entera: sube a la Giralda para ver las vistas de los tejados y la ciudad, y luego busca la tumba de Colón sostenida en alto por cuatro reyes de bronce.'
 quickAnswer: 'La Catedral de Sevilla es la catedral gótica más grande del mundo, construida sobre la antigua mezquita almohade, y merece una mañana entera: sube a la Giralda para ver las vistas de los tejados y la ciudad, y luego busca la tumba de Colón sostenida en alto por cuatro reyes de bronce. Reserva online una entrada con hora asignada con antelación: es uno de los lugares más visitados de Sevilla, con más de 59.000 reseñas en Google y una valoración de 4,8, así que llegar justo a la apertura o en las últimas dos horas antes del cierre marca una diferencia real.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El Real Alcázar, el Archivo de Indias y la Plaza de España están todos a poca distancia a pie, lo que convierte esta zona en un itinerario natural para todo un día.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Se percibe la escala del edificio antes de entenderla del todo. Al bajar por la Avenida de la Constitución, los arbotantes y pináculos de la catedral se alzan sobre los naranjos del Patio de los Naranjos, y la enorme superficie del edificio —oficialmente la catedral gótica más grande del mundo por volumen— hace que la plaza que la rodea parezca pequeña.
 

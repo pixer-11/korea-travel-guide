@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see the tables: charcoal smoke curling up from the satay grills, the sweet-savoury tang of pandan and coconut milk drifting out from the nasi lemak stalls. Changi Village Hawker Centre sits at the far northeastern edge of Singapore, a single-storey open-air building with a corrugated roof, whirring ceiling fans, and rows of communal Formica tables that have clearly seen decades of elbows and spilled chilli sauce.
 
 It's unglamorous in the best way — plastic stools, hand-written menu boards, the constant clatter of metal trays being stacked.

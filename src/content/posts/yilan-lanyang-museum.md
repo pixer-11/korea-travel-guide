@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see the building before you understand it. Architect Kris Yao modeled the museum on a "single-slope cliff," the kind of eroded rock formation you find along Yilan's coast, and the result is a huge tilted wedge of glass and dark stone that looks like it's sliding into the wetland pond beside it.

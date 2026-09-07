@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-temple-of-literature
-srcHash: 'f1640d2f8dac'
+srcHash: '704e616982cb'
 title: 'Templo de la Literatura: guía de viaje de Hanói (4,6★)'
 description: 'El Templo de la Literatura, la primera universidad nacional de Vietnam, abre todos los días de 8:00 a 17:00 en el número 58 de la calle Quốc Tử Giám, distrito de Đống Đa. 4,6★ (25.128 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Templo de la Literatura, la primera universidad nacional de Vietnam, abre todos los días de 8:00 a 17:00 en el número 58 de la calle Quốc Tử Giám, distrito de Đống Đa. Conviene reservar entre 60 y 90 minutos para recorrer sus cinco patios, y lo mejor es ir temprano: los fines de semana se llena de 10:00 a 16:00, aunque entre las 8:00 y las 9:00 el ambiente es tranquilo. Entre semana hay menos gente durante todo el día.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Existe algún código de vestimenta?
     a: 'Sí: al tratarse de un lugar de culto activo, es necesario cubrirse los hombros y las rodillas durante la visita.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Lo primero que se atraviesa es el Gran Pórtico, con su tejado curvo de tejas y sus dragones de piedra que enmarcan, a la espalda, el bullicio de la calle Quốc Tử Giám. Al entrar, el ruido del tráfico desaparece casi de inmediato. Cinco patios amurallados se despliegan uno tras otro, y cada puerta parece envolver un silencio un poco más profundo que el anterior.
 

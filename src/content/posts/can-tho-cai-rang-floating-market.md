@@ -103,8 +103,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Cai Rang exists
 
 Cai Rang isn't a tourist stage set — it's a working wholesale market that happens to float. Farmers and traders from across the Mekong Delta have converged here for generations, swapping produce boat-to-boat before it ever reaches a land market.

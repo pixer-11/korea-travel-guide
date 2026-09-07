@@ -101,8 +101,6 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why everyone queues here
 
 You smell the place before you see the menu. Butter hitting a hot griddle, condensed milk swirled into tea, the clatter of stainless steel plates hitting Formica tables. Australia Dairy Company has been doing this on Parkes Street since the 1960s, and the queue snaking along the pavement most mornings tells you nothing has slowed down.

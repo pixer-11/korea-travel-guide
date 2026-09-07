@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-the-gum-wall
-srcHash: '94c77171ac60'
+srcHash: '4c757d65eed7'
 title: 'El Muro de Chicles: Guía de Viaje de Seattle'
 description: El Muro de Chicles (Gum Wall) es un muro de ladrillo cubierto de chicles en Post Alley, ubicado bajo el Pike Place Market, cuesta abajo desde el Market Theater.
 quickAnswer: El Muro de Chicles (Gum Wall) es un muro de ladrillo cubierto de chicles en Post Alley, ubicado bajo el Pike Place Market, cuesta abajo desde el Market Theater. Es gratuito, se ve en unos 10-15 minutos, y lo mejor es visitarlo justo a la apertura (alrededor de las 9am) antes de que lleguen los grupos turísticos y las multitudes de los cruceros. Trae tu propio chicle si quieres añadir el tuyo, y prepárate para un olor fuerte, dulce y algo agrio de cerca.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La tienda original de Starbucks, el Pike Place Fish Market, el Victor Steinbrueck Park y el paseo marítimo de Elliott Bay están todos a pocos minutos caminando.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

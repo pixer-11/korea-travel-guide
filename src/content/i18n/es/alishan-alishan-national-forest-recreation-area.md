@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-alishan-national-forest-recreation-area
-srcHash: 'cc6ba5211f45'
+srcHash: '935522e9d570'
 title: 'Área Recreativa del Bosque Nacional de Alishan: Guía de viaje (4,6★)'
 description: 'En las altas montañas del condado de Chiayi, el Área Recreativa del Bosque Nacional de Alishan es el gran refugio alpino de Taiwán: senderos entre cipreses y cedros, un ferrocarril de vía estrecha aún en funcionamiento y un mirador de amanecer célebre. 4,6★ (42.526 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'En las altas montañas del condado de Chiayi, el Área Recreativa del Bosque Nacional de Alishan es el gran refugio alpino de Taiwán: senderos entre cipreses y cedros, un ferrocarril de vía estrecha aún en funcionamiento y un mirador de amanecer célebre. El parque nunca cierra, pero conviene llegar antes de las 7:00-8:00 en día laborable para recorrer los senderos casi en silencio, antes de que los autobuses turísticos los llenen entre las 9:00 y las 17:00. Conviene reservar un día completo, o pasar la noche cerca para ver el amanecer.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor época del año para ir?
     a: Los cerezos alcanzan su máximo esplendor en marzo y principios de abril, mientras que las mañanas despejadas de otoño, entre octubre y diciembre, ofrecen las mejores probabilidades de ver un mar de nubes al amanecer.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué Alishan atrae a tanta gente hacia la montaña
 

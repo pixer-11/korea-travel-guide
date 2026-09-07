@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the temperature drop before you see anything. The road climbs out of the lowland heat of Kota Kinabalu, the windows fog slightly, and by the time you step out of the car at park headquarters the air has that damp, cool, pine-and-moss smell of highland forest. This is the administrative and visitor heart of Kinabalu Park, a UNESCO World Heritage Site built around Southeast Asia's highest peak.

@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You walk in off Spring Street and the ceiling just keeps rising. Marble columns, gold-leaf bank details, and shelves stacked two stories high under skylights that used to light a lobby full of tellers.

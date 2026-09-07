@@ -63,8 +63,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one man's story, told through his own walls. Tjong A Fie was a Chinese-Indonesian tycoon who helped build modern Medan, and this mansion was his home from 1895 until his death in 1921.

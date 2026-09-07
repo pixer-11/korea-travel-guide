@@ -101,8 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a landmark you tick off a list — it's a strip of reclaimed waterfront that locals use, not a stage set for visitors. You come here for open water, moving air, and a horizon line that most of Hong Kong Island doesn't offer.

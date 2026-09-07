@@ -80,8 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Finding it in Bellevue, not Seattle
 
 Despite the name, this temple stands in Bellevue, on 148th Ave SE, about a 20-minute drive east of downtown Seattle across Lake Washington. It belongs to The Church of Jesus Christ of Latter-day Saints and serves the wider Puget Sound region. The building rises with a single spire topped by the golden Angel Moroni statue, visible from the surrounding residential streets well before you reach the gate.

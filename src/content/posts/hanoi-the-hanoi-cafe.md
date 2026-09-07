@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Finding It
 
 The Hanoi Cafe hides on P. Yên Thái, a lane so narrow you'll wonder if your map is wrong. It isn't — keep walking past the motorbikes wedged against the walls.

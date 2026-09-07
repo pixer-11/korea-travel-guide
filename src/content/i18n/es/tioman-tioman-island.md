@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tioman-tioman-island
-srcHash: '1c8bf3829971'
+srcHash: '60c7d1c97b23'
 title: 'Isla Tioman: Guía de viaje (4.8★)'
 description: 'La isla Tioman se encuentra frente a la costa este de Malasia, en Pahang, a la que se llega en ferri desde Mersing o Tanjung Gemok, o con un vuelo corto al aeropuerto de Tioman. 4.8★ (1.517 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La isla Tioman se encuentra frente a la costa este de Malasia, en Pahang, a la que se llega en ferri desde Mersing o Tanjung Gemok, o con un vuelo corto al aeropuerto de Tioman. Ven por sus playas respaldadas por selva, el buceo con tubo y submarinismo en arrecifes de coral justo desde la arena, y las cómodas caminatas de un día entre kampungs. Elige entre marzo y octubre, cuando el mar está en calma y la visibilidad para el buceo es mejor.
@@ -17,8 +17,6 @@ faq:
   - q: ¿En qué pueblo debería alojarme?
     a: Air Batang (ABC) es ideal para mochileros y un ambiente relajado, Kampung Tekek está más desarrollado y cerca del aeropuerto, y Salang y Genting ofrecen estancias más tranquilas y centradas en el buceo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Tioman te atrapa
 

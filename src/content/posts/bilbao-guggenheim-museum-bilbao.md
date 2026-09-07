@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see it before you understand it. Walking along the Nervión River, the building unfolds in curved sheets of titanium that catch the light differently every few steps — silver-grey under cloud, almost gold at sunset. Frank Gehry's structure, finished in 1997, isn't just a container for art; it's the reason Bilbao stopped being a rust-belt shipping city and became a destination in its own right.

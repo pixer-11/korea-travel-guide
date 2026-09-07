@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: antalya-hadrian-s-gate
-srcHash: '8c43314e370d'
+srcHash: 'b8c5fa14f162'
 title: 'Puerta de Adriano: guía de viaje de Antalya'
 description: 'La Puerta de Adriano (Üçkapılar) se encuentra en Atatürk Caddesi, en el casco antiguo de Antalya, Kaleiçi, justo donde el bulevar moderno se une con las murallas antiguas: una puerta romana de tres arcos construida hacia el año 130 d. C. con motivo de la visita del emperador Adriano.'
 quickAnswer: 'La Puerta de Adriano (Üçkapılar) se encuentra en Atatürk Caddesi, en el casco antiguo de Antalya, Kaleiçi, justo donde el bulevar moderno se une con las murallas antiguas: una puerta romana de tres arcos construida hacia el año 130 d. C. con motivo de la visita del emperador Adriano. Es gratuita, al aire libre, y basta con 15-20 minutos para verla con calma, aunque merece la pena combinarla con un paseo por las callejuelas de Kaleiçi. Ve a primera hora de la mañana o después del atardecer para evitar los grupos turísticos y el calor del mediodía que llenan la puerta a media mañana.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: El antiguo puerto de Kaleiçi, la Torre de Hıdırlık, la torre del reloj (Saat Kulesi) y el Museo Arqueológico de Antalya están todos a poca distancia a pie o a un corto trayecto en tranvía.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

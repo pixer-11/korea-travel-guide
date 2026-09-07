@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You step off a street lined with souvenir shops and suddenly you're in someone's ancestral home. The Baba & Nyonya Heritage Museum occupies a converted 19th-century townhouse, and unlike a typical museum, nothing here is roped off behind glass cabinets in sterile rooms.

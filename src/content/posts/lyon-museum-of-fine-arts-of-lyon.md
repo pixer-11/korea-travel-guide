@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You walk into Place des Terreaux and the museum's honey-stone facade already looks like a palace, because it was one — a Benedictine abbey before the Revolution repurposed it. Inside, cloistered courtyards give way to grand staircases and gallery after gallery of Impressionists, Egyptian antiquities, and medieval sculpture. Few museums outside Paris pack this much range under one roof.

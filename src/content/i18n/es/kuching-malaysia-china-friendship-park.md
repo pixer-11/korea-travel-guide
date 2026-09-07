@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuching-malaysia-china-friendship-park
-srcHash: '0960c0d1298f'
+srcHash: 'cf9aac7c0619'
 title: 'Parque de la Amistad Malasia-China: Guía de viaje de Kuching (4.6★)'
 description: 'El Parque de la Amistad Malasia-China es un espacio verde junto al río en Tabuan Heights, Kuching, abierto todos los días de 5:00 a 22:00. 4.6★ (4,937 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque de la Amistad Malasia-China es un espacio verde junto al río en Tabuan Heights, Kuching, abierto todos los días de 5:00 a 22:00. Conviene ir en horario de mañana entre semana (7:00–15:00) o temprano el fin de semana (7:00–11:00) para disfrutar de un paseo tranquilo, evitando las tardes y noches de fin de semana (16:00–22:00), cuando se llena de gente. Lo mejor es verlo como una parada gratuita y sencilla de 45 a 60 minutos para caminar, salir a trotar o tomar fotos a la hora dorada sobre el río Sarawak.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería planear pasar aquí?
     a: La mayoría de los visitantes pasa entre 45 minutos y una hora recorriendo los senderos, contemplando la pagoda y sentándose junto al río. Quienes salen a trotar o las familias con niños suelen quedarse más tiempo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

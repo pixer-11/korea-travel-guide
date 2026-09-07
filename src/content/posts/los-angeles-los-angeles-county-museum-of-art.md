@@ -63,8 +63,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see it before you park: rows of restored cast-iron lampposts glowing amber even at midday, planted in neat grids on a gravel lot. This is Chris Burden's *Urban Light*, and it's the reason half the Instagram photos of Los Angeles exist. It's also free to walk through, visible right from the Wilshire Boulevard sidewalk, no ticket required.
 
 Behind it sits LACMA proper — not one building but a scattered campus of them, the largest encyclopedic art museum in the western United States. The Broad Contemporary Art Museum (BCAM) holds much of the modern and contemporary work. The Resnick Pavilion runs the big rotating shows. Levitated Mass, Michael Heizer's 340-ton granite boulder suspended over a walkway, sits just south of the lampposts.

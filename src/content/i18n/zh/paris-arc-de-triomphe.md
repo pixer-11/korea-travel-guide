@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-arc-de-triomphe
-srcHash: 'fa27d205ba75'
+srcHash: 'd8420939426c'
 title: 凯旋门:巴黎旅行指南
 description: 登上位于戴高乐广场(Place Charles de Gaulle)的凯旋门，俯瞰巴黎最美的天际线之一——一侧是延伸的香榭丽舍大道(Champs-Élysées),另一侧是拉德芳斯大拱门(Grande Arche de la Défense)。
 quickAnswer: 登上位于戴高乐广场(Place Charles de Gaulle)的凯旋门，俯瞰巴黎最美的天际线之一——一侧是延伸的香榭丽舍大道(Champs-Élysées),另一侧是拉德芳斯大拱门(Grande Arche de la Défense)。它每天开放(周一、周三至周日上午10点至晚上11点;周二从上午11点开始),一天中最安静的时段是较早的时间，避开周末下午1点至晚上8点的人流高峰。请通过戴高乐-星形广场站(Charles de Gaulle–Étoile)的行人地下通道前往——切勿徒步穿越环岛。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有哪些地方可以一并游览?
     a: 凯旋门位于香榭丽舍大道的顶端，因此很适合与沿大道漫步至协和广场(Place de la Concorde)的行程结合，或者朝对面的福煦大道(Avenue Foch)和布洛涅森林(Bois de Boulogne)方向散步。
 ---
-
-> **本指南制作说明:** 编辑审校,AI辅助生成。事实信息来自Google Places实时数据；图片为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么要去
 

@@ -56,8 +56,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 There's no other ride quite like this one. A flat bamboo platform, roughly the size of a door, sits on two axles with car wheels and gets powered by a small gasoline engine connected to the rear axle by a fan belt. You sit cross-legged or dangle your legs off the edge, and the driver guns it.

@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The eagle sees you before you see it. Coming along Persiaran Putera in Kuah, the road curves past shopfronts and duty-free warehouses, and then the plaza opens up and there it is: a concrete-and-fibreglass eagle with a 12-metre wingspan, wings thrown back, talons gripping a giant sculpted rock, looking out over the strait toward Thailand. It's the reason Langkawi ("island of the reddish-brown eagle" in old Malay, some say) uses the bird as its emblem, and it's been the island's unofficial welcome sign since the square was built in the 1990s.
 
 ## Why go

@@ -89,8 +89,6 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Galleria dell'Accademia for one reason, and that reason is five metres tall. But the museum's real trick is how it makes you wait for him. You enter through rooms of gilded Byzantine-style altarpieces and Florentine Gothic panels, and just when you've settled into a slower rhythm, the corridor opens and there he is — David, lit from above by a skylight added specifically to show him the way Michelangelo intended, seen in raking Tuscan daylight rather than torchlight. It's a staged reveal, and it works even when you know it's coming.

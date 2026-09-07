@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yeosu-ungcheon-beach-park
-srcHash: '0b7b1934ab59'
+srcHash: '4a1de1d9af71'
 title: 'Parque de la Playa de Ungcheon: Guía de viaje de Yeosu (4,4★)'
 description: 'El Parque de la Playa de Ungcheon, en el barrio de Sicheon-dong de Yeosu, es una amplia franja costera que conviene recorrer temprano, cuando está más tranquilo, entre las 7 y las 8 de la mañana tanto entre semana como los fines de semana. 4,4★ (2.088 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque de la Playa de Ungcheon, en el barrio de Sicheon-dong de Yeosu, es una amplia franja costera que conviene recorrer temprano, cuando está más tranquilo, entre las 7 y las 8 de la mañana tanto entre semana como los fines de semana. Permanece abierto las 24 horas todos los días, y los fines de semana el parque se mantiene concurrido de 11 a 22 h, así que la mejor opción para disfrutar de espacio es visitarlo temprano o ya de noche. Vale la pena venir por el paseo llano junto al agua, la vista hacia el mar y el fácil acceso desde el centro de Yeosu.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: Calcula entre 30 y 60 minutos para pasear por el paseo marítimo, más si quieres sentarte, hacer un pícnic o contemplar la puesta de sol sobre el mar.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Al doblar una curva cerca de Yeulmaru-ro, el paisaje se abre de golpe: un amplio tramo de costa, un paseo pavimentado que corre paralelo a la orilla y ese tipo de espacio horizontal tan poco común en una ciudad tan encajada entre colinas como Yeosu. El Parque de la Playa de Ungcheon no es una playa de postal espectacular. Es un tramo funcional del litoral urbano, y precisamente eso es lo que hace que valga la pena recorrerlo con calma una mañana.
 

@@ -93,8 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This 19th-century temple isn't just old — it's a working shrine to five deities under one roof, a rarity even in Malaysia. It's one of the oldest buildings in Johor Bahru, predating most of the city around it.

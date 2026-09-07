@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-glam-malay-heritage-centre
-srcHash: 'd009c813bd99'
+srcHash: '4956920b80e0'
 title: 'Centro del Patrimonio Malayo: guía de viaje de Kampong Glam (4.3★)'
 description: 'El Centro del Patrimonio Malayo, en Kampong Glam, se encuentra en 85 Sultan Gate, dentro del restaurado Istana Kampong Gelam, justo detrás de la Mezquita del Sultán. 4.3★ (1.777 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Centro del Patrimonio Malayo, en Kampong Glam, se encuentra en 85 Sultan Gate, dentro del restaurado Istana Kampong Gelam, justo detrás de la Mezquita del Sultán. Abre todos los días de 10:00 a 18:00 salvo los lunes, y conviene reservar entre 60 y 90 minutos para recorrer bien las galerías. Lo mejor es ir un día laborable por la mañana, cuando las salas están más vacías, y aprovechar para pasear después por Arab Street.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca para combinar con la visita?
     a: La Mezquita del Sultán, Haji Lane y las tiendas de telas de Arab Street están todas a cinco minutos a pie, lo que permite armar fácilmente una salida de medio día.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El edificio se distingue antes que la propia entrada: un palacio de color amarillo pálido, de tejado bajo y con tejas, escondido tras una hilera de árboles junto a Sultan Gate. Se trata del Istana Kampong Gelam, antiguo hogar de la realeza malaya de Singapur y hoy sede del Centro del Patrimonio Malayo.
 

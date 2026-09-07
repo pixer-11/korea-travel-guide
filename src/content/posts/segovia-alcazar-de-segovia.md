@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You've probably seen this silhouette before, even if you didn't know its name. The turreted, ship's-prow profile of the Alcázar de Segovia is said to have influenced Walt Disney's fairy-tale castles, and standing at the base of it, on the rocky spur where the Eresma and Clamores rivers meet, you understand why immediately.

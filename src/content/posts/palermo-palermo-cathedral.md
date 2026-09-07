@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the cathedral before you reach it — four bell towers and a jumble of domes rising over the rooftops of Palermo's old center. Up close, the building reads like a timeline. Norman battlements sit beside Gothic spires, Catalan arches, and an 18th-century neoclassical dome dropped on top almost as an afterthought.

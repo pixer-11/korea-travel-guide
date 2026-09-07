@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## First impression
 
 You come off a dusty side street and the striped minaret towers hit first — glazed turquoise, white and ochre banding climbing above a wall that looks almost fortress-plain from outside. That contrast is deliberate. Khudáyár Khán, the last ruler of the Kokand Khanate, wanted a residence that guarded its splendor for those who made it through the gate.

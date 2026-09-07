@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most visitors to Huangpu District come for the Shanghai Museum or the neon canyon of Nanjing Road and never notice the park stitched in between them. That's the appeal. People's Park isn't a monument — it's a working lung for a district otherwise made of glass and concrete, and it earns its 4.4-star reputation among the people who actually use it rather than photograph it. You come here to slow down, not to check a box.

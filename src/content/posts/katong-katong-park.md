@@ -90,8 +90,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Katong Park isn't a destination in itself — it's a pause button. You come here to break up a walk through Katong's peranakan shophouses and coffee shops with something green and unhurried.

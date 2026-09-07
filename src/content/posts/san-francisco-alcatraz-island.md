@@ -38,8 +38,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The first thing you notice, as the ferry pulls away from Pier 33, is how quickly the city noise drops away and the island starts to dominate the view — a jagged lump of rock with a white lighthouse and the crumbling silhouette of the cellhouse on top. Alcatraz sits about 1.25 miles offshore in San Francisco Bay, close enough that inmates could reportedly hear New Year's Eve parties drifting across the water from the city, and far enough that the cold currents and sharks (real, if somewhat exaggerated as a deterrent) made escape attempts nearly hopeless. That contradiction — so close, so unreachable — is what makes the place stick with you.

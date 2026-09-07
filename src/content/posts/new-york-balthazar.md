@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Balthazar
 
 You smell it before you see the room: butter, roasted garlic, the faint yeasty warmth of the bakery ovens tucked behind the dining room. Push through the door on Spring Street and you're dropped into something that looks like it's been lifted whole from the Marais — mirrored walls gone slightly foxed with age, a pressed-tin ceiling, a long zinc-topped bar, and that wall of wine bottles stacked to the ceiling like a wine merchant's cellar.

@@ -69,8 +69,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Konya for one building, and this is it. The Mevlana Museum houses the tomb of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose verses on love and divine union still shape Sufi thought worldwide.

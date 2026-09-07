@@ -55,8 +55,6 @@ faq:
     a: Crissy Field's beach and marsh trails, the Golden Gate Bridge Welcome Center, and the Presidio's forested trails are all within easy walking or biking distance.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come around the bend on Marine Drive and the road just... ends, at a squat brick fortress with the underside of the Golden Gate Bridge roaring quietly overhead. That juxtaposition is the whole draw: a 19th-century masonry fort, all arched casemates and cast-iron gun ports, wedged directly beneath one of the most photographed steel structures on Earth. Fort Point was built between 1853 and 1861 to guard the entrance to San Francisco Bay, and it's one of the few brick "Third System" coastal forts left standing on the West Coast.

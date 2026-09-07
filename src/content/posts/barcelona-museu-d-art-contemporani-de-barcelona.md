@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You see MACBA before you reach it. The glass-and-white-panel facade throws back the Mediterranean light so hard it feels like a beacon planted in the middle of grittier El Raval.

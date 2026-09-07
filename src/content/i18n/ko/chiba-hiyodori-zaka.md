@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chiba-hiyodori-zaka
-srcHash: 'ebd500869b77'
+srcHash: '7ee8b2703b37'
 title: '히요도리자카: 지바 여행 가이드'
 description: 히요도리자카(Hiyodori-Zaka)는 지바현 사쿠라(Sakura)의 옛 성곽 마을에 자리한, 산울타리가 늘어선 좁다란 사무라이 시대 언덕길로, 게이세이사쿠라역(Keisei-Sakura Station)에서 도보 약 15분 거리에 있다.
 quickAnswer: 히요도리자카(Hiyodori-Zaka)는 지바현 사쿠라(Sakura)의 옛 성곽 마을에 자리한, 산울타리가 늘어선 좁다란 사무라이 시대 언덕길로, 게이세이사쿠라역(Keisei-Sakura Station)에서 도보 약 15분 거리에 있다. 걸으며 사진을 찍는 데 20-30분이면 충분하므로, 인근의 옛 사무라이 저택들과 사쿠라 성터 공원(Sakura Castle Ruins Park)을 함께 묶어 반나절 코스로 다녀오기 좋다. 골목을 오롯이 혼자 즐기고 싶다면 평일 아침에 방문하자.
@@ -17,8 +17,6 @@ faq:
   - q: 근처에 함께 둘러볼 만한 곳이 있나요?
     a: 구 가와라(Kyu-Kawara), 구 다카하시(Kyu-Takahashi), 구 다시로(Kyu-Tashiro) 사무라이 저택이 도보로 가까운 거리에 있으며, 사쿠라 성터 공원(Sakura Castle Ruins Park) 안에 자리한 국립역사민속박물관(National Museum of Japanese History)도 함께 둘러볼 만합니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검수, AI 보조 작성. 정보는 구글 플레이스(Google Places)의 실시간 데이터를 기반으로 하며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 ## 히요도리자카가 일부러 찾아갈 만한 이유
 

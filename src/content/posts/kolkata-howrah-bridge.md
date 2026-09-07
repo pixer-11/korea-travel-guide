@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel Howrah Bridge before you see it clearly — the low rumble of trucks, the honking, the shuffle of thousands of feet crossing steel grating that has carried Kolkata's traffic since 1943.
 
 Officially called Rabindra Setu, nobody here calls it that. It's just "Howrah Bridge," the riveted cantilever span that ties Howrah's railway station to the older city across the Hooghly River.

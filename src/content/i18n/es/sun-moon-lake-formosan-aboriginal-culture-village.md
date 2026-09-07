@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sun-moon-lake-formosan-aboriginal-culture-village
-srcHash: '8b8e1010b943'
+srcHash: 'cd8937244747'
 title: 'Formosan Aboriginal Culture Village: guía de viaje del lago Sun Moon'
 description: 'Formosan Aboriginal Culture Village es un parque temático en la ladera de la orilla sur del lago Sun Moon que combina un recorrido en teleférico, espectáculos de danza indígena y atracciones. 4.4★ (32,653 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Formosan Aboriginal Culture Village es un parque temático en la ladera de la orilla sur del lago Sun Moon que combina un recorrido en teleférico, espectáculos de danza indígena y atracciones. Dedícale entre 4 y 6 horas, sube en el teleférico Sun Moon Lake Ropeway desde la entrada junto al lago y organiza tu horario según el tablón de espectáculos de la entrada. Los días laborables de 10:00 a 17:00 son los más tranquilos; los fines de semana se llena a partir de las 11:00, así que conviene llegar a la apertura.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué no hay que perderse dentro del parque?
     a: Los espectáculos de danza indígena en vivo y las nueve réplicas de viviendas tribales a lo largo del sendero son los puntos más destacados; conviene revisar el horario de los espectáculos en la entrada para no perderse ninguna función.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

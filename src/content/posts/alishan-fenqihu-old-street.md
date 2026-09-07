@@ -91,8 +91,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Fenqihu, and why now
 
 The train slows before you see the town — a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, a old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice.

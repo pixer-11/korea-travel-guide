@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel Place Masséna before you see it. The traffic noise of Avenue Jean Médecin drops away, the street narrows into a wide checkerboard of black-and-white pavement, and suddenly the buildings around you turn the same deep red-ochre, like a stage set someone forgot to strike.
 
 ## Why go

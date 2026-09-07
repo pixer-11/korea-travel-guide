@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-billy-goat-tavern-the-original
-srcHash: '73bee6c692fe'
+srcHash: 'e3f03f506f9e'
 title: 'Billy Goat Tavern (el original): dónde comer en Chicago'
 description: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. 4.5★ (6,121 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. Pide una "cheezborger" (o dos), una bolsa de papas fritas de bolsa y una Coca-Cola: se acepta efectivo y tarjeta, es un lugar cómodo para pagar en efectivo pero no exclusivo de efectivo, y toda la visita cuesta menos que un almuerzo sentado en cualquier otro lugar del Loop. Calcula entre 30 y 45 minutos; es una experiencia de mostrador para comer de pie, no una comida relajada sentado.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería planear quedarme?
     a: 'La mayoría de las visitas duran entre 30 y 45 minutos: es un mostrador para comer de pie o en una mesa rápida, no una comida sentado para prolongarse, y al ser una parada popular las mesas rotan rápido.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo encuentras casi por accidente. Caminando por North Michigan Avenue cerca del río, ves un pequeño letrero de escalera, fácil de pasar por alto, que señala hacia abajo, al nivel inferior de la calle: el famoso nivel "Lower Wacker" de las calles de doble nivel de Chicago. Bajas, y la luz cambia: tubos fluorescentes en lugar de luz de día, tuberías expuestas sobre tu cabeza, el rumor bajo del tráfico que pasa en el nivel de arriba.
 

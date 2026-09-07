@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: katong-katong-park
-srcHash: 'ef344b4bc98b'
+srcHash: '9a31f2c47912'
 title: 'Katong Park: Guía de viaje (4,1★)'
 description: 'Katong Park es un pequeño y frondoso parque de barrio en Fort Road, en Katong, abierto las 24 horas, construido alrededor del último vestigio visible del antiguo Fort Tomahawk y un tramo tranquilo del corredor conector de parques. 4,2★ (292 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Katong Park es un pequeño y frondoso parque de barrio en Fort Road, en Katong, abierto las 24 horas, construido alrededor del último vestigio visible del antiguo Fort Tomahawk y un tramo tranquilo del corredor conector de parques. Está más tranquilo los fines de semana entre las 7 y las 8 de la mañana, antes de que lleguen los corredores y las familias; conviene reservarle entre 30 y 45 minutos dentro de un paseo entre las casas-tienda de Katong y la East Coast.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
     a: Las calles de casas-tienda protegidas de Katong y Joo Chiat quedan a un corto paseo, al igual que East Coast Park si se está recorriendo el corredor conector en bicicleta.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -107,8 +107,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're walking into
 
 Gülhane Park sits just north of Topkapı Palace, on the site of what was once the palace's outer gardens. As you pass through the gates off Kennedy Caddesi, the traffic noise from the coastal road drops away almost immediately, replaced by plane trees, chestnut trees and the sound of a small creek running down through the middle of the grounds.

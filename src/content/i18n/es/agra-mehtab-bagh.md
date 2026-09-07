@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: agra-mehtab-bagh
-srcHash: '66a4a03dbc47'
+srcHash: '79055a099468'
 title: 'Mehtab Bagh: guía de viaje de Agra (4,2★)'
 description: 'Mehtab Bagh es un jardín mogol junto al río, situado en la orilla opuesta del Yamuna frente al Taj Mahal en Agra, abierto todos los días de 6:00 a 18:00. Es el lugar ideal para la clásica vista frontal del Taj al amanecer o al atardecer. 4,2★ (7.246 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Mehtab Bagh es un jardín mogol junto al río, situado en la orilla opuesta del Yamuna frente al Taj Mahal en Agra, abierto todos los días de 6:00 a 18:00. Es el lugar ideal para la clásica vista frontal del Taj al amanecer o al atardecer. Hoy en día es un sitio muy visitado, ya no un secreto, así que conviene llegar cerca de la apertura para adelantarse a los grupos turísticos. Calcule una hora en el lugar, más el tiempo dedicado a las fotos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: La Tumba de Itmad-ud-Daulah (conocida como el Pequeño Taj) está a poca distancia en coche, más adelante por la orilla oriental del río, y combina bien para una sola salida matutina.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en tiempo real de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Qué es realmente este lugar
 

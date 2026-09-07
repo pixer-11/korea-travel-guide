@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bhubaneswar-regional-museum-of-natural-history
-srcHash: '723d66f1a1f4'
+srcHash: 'bb7875b597b8'
 title: 地区自然历史博物馆:布巴内斯瓦尔旅行指南
 description: 地区自然历史博物馆坐落在阿查里亚维哈尔(Acharya Vihar)的萨奇瓦拉雅大道(Sachivalaya Marg)上，紧邻帕塔尼·萨曼塔天文馆(Pathani Samanta Planetarium),除周一外每天上午10点至晚上6点开放。
 quickAnswer: 地区自然历史博物馆坐落在阿查里亚维哈尔(Acharya Vihar)的萨奇瓦拉雅大道(Sachivalaya Marg)上，紧邻帕塔尼·萨曼塔天文馆(Pathani Samanta Planetarium),除周一外每天上午10点至晚上6点开放。建议预留90分钟到两小时来参观展厅、活体动物馆(vivarium)以及专为视障人士打造的植物园，最好尽早到访或选在工作日下午前往，因为周末上午11点到下午6点这段时间人会很多。门票价格不贵，但由于会有变动，请以现场售票窗口的价格为准。
@@ -17,8 +17,6 @@ faq:
   - q: 门票价格是多少?
     a: 门票不贵，在现场售票窗口购买，但具体价格会不定期调整，所以到达时请以现场价格为准，不要参考网上的旧数据。
 ---
-
-> **本指南制作说明:** 经编辑审核，并借助AI辅助完成。文中信息来自Google Places实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

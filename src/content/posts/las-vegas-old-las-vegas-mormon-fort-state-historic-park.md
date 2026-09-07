@@ -41,8 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this patch of adobe matters
 
 Everything about modern Las Vegas — the casinos, the airport, the sprawl of subdivisions pushing into the Mojave — traces back to a small square of sun-baked mud brick a few blocks north of Fremont Street. In 1855, a group of Mormon missionaries sent from Salt Lake City built an adobe fort here to protect a way station along the Old Spanish Trail, drawn by a natural artesian spring that made this one of the only reliable water sources between Utah and Southern California.

@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Getting your bearings first
 
 The Hong Kong Heritage Museum is in Sha Tin, New Territories, beside the Shing Mun River. If you're starting from Jordan or elsewhere on the Kowloon peninsula, budget 30–40 minutes to get there.

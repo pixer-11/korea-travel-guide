@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-old-las-vegas-mormon-fort-state-historic-park
-srcHash: 'ba9b6029bad2'
+srcHash: '6ef1485259d5'
 title: 拉斯维加斯老摩门堡州立历史公园旅行指南
 description: 拉斯维加斯老摩门堡州立历史公园（Old Las Vegas Mormon Fort State Historic Park）位于市中心以北不远的500 E Washington Ave，是内华达州现存最古老的非原住民建筑——一段1855年的土坯墙被保存在一个小型游客中心和户外博物馆内。评分4.6星（833条评价）——游客怎么说、开放时间和游览建议。
 quickAnswer: 拉斯维加斯老摩门堡州立历史公园（Old Las Vegas Mormon Fort State Historic Park）位于市中心以北不远的500 E Washington Ave，是内华达州现存最古老的非原住民建筑——一段1855年的土坯墙被保存在一个小型游客中心和户外博物馆内。建议预留45分钟到1小时，最好选在工作日上午、沙漠热浪来临之前前往，可以顺便去附近的泉水保护区（Springs Preserve）走走，或去市中心的弗里蒙特街（Fremont Street）逛逛。这是一个轻松易加入拉斯维加斯行程的小景点，而不是能耗上一整天的目的地。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么景点？
     a: 泉水保护区（Springs Preserve）大约10分钟车程即可到达，进一步展现了同一天然泉水系统的历史。市中心的弗里蒙特街体验区（Fremont Street Experience）、霓虹博物馆（Neon Museum）和艺术区（Arts District）都在向南不远的车程或步行距离内。
 ---
-
-> **本指南制作说明：** 经编辑审核，AI辅助生成。事实信息来自Google Places实时数据；图片为授权或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么这片土坯遗迹意义重大
 

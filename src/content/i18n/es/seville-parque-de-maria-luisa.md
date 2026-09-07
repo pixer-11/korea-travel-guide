@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seville-parque-de-maria-luisa
-srcHash: '8da205cfeee1'
+srcHash: '4956e7e5d55f'
 title: 'Parque de María Luisa: Guía de viaje de Sevilla (4,8★)'
 description: 'El Parque de María Luisa es el gran parque sevillano del siglo XIX situado justo al sur del centro de la ciudad, ideal para recorrer a pie o en bicicleta alquilada a primera hora de la mañana. 4,8★ (42.231 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque de María Luisa es el gran parque sevillano del siglo XIX situado justo al sur del centro de la ciudad, ideal para recorrer a pie o en bicicleta alquilada a primera hora de la mañana. Con más de 42.000 reseñas y una valoración de 4,8, no es ningún secreto: está firmemente en la ruta turística, así que conviene llegar a la hora de apertura. Entre semana, las 8 de la mañana es el momento más tranquilo; los fines de semana, la franja antes de las 10am es mejor que el tramo de 11am a 6pm, cuando se llena de gente. Calcula entre dos y tres horas para recorrer la Plaza de España, la Plaza de América y las avenidas sombreadas que las conectan.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca por si quiero combinarlo con otros lugares de interés?
     a: El parque limita al norte con la Plaza de España y conecta fácilmente con la Catedral, el Real Alcázar y el Barrio de Santa Cruz, todo ello a 15-20 minutos a pie.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 Antes incluso de llegar a las puertas, ya se nota cómo baja la temperatura. Las calles de Sevilla irradian calor desde la piedra clara, pero basta con dar un paso bajo los plátanos de sombra y las palmeras del Parque de María Luisa para que el aire se espese con olor a tierra húmeda, azahar y el toque mineral del agua de las fuentes. Las cigarras zumban entre las ramas. En algún lugar, una calesa avanza sobre la grava con su característico repiqueteo.
 

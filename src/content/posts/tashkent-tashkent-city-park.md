@@ -54,8 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Tashkent City Park is the newest green lung of a city better known for its Soviet-era boulevards and mosaic-tiled metro stations. It's a landscaped stretch of lawns, walking paths, and modern sculpture set against the glass towers of the Tashkent City business district. By day it's pleasant. By night, when the fountains and light installations switch on, it becomes something else entirely.

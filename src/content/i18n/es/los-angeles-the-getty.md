@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-the-getty
-srcHash: 'b95b584a4531'
+srcHash: '8713c5985ea5'
 title: 'The Getty: guía de viaje de Los Ángeles (4,8★)'
 description: 'La entrada al Getty Center, en Brentwood, es gratuita (solo se paga el estacionamiento); abre de martes a domingo y conviene reservarle entre medio día y un día completo. 4,8★ (37.110 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La entrada al Getty Center, en Brentwood, es gratuita (solo se paga el estacionamiento); abre de martes a domingo y conviene reservarle entre medio día y un día completo. Suba en el tranvía automático que lleva hasta la colina, comience por los jardines o por un solo pabellón antes de que aumente la afluencia y, si va un fin de semana, procure llegar después de las 18:00: la mayor afluencia de público se da entre las 11:00 y las 19:00, el momento más tranquilo es alrededor de las 20:00-21:00, y entre semana la calma llega entre las 18:00 y las 18:30.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca por si quiero combinar la visita con otros planes?
     a: El Getty Center se encuentra en Brentwood, cerca de la autopista 405, lo que facilita combinarlo el mismo día con una parada en Westwood o en Santa Mónica.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

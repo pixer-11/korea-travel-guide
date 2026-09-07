@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the moment the boardwalk peels away from the beach and juts out over open water. Waves slap the pylons beneath your feet, spray sometimes reaching the railing, while the Songdo cable car cabins slide silently overhead on their way to Amnam Park. It's a short walk, but it's a dramatic one.

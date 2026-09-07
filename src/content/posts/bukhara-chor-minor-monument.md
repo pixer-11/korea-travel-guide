@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chor Minor isn't a mosque or a madrasa — it's a doorway to one that no longer exists. Built in 1807, it once marked the entrance to a religious school that has since crumbled away, leaving this odd, top-heavy structure standing alone like a stage set with the play removed.

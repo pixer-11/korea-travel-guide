@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-29'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up out of the underpass at Tiananmen Square, cross the moat, and there it is: the Meridian Gate, a red-walled, gold-roofed wall of a building so wide it swallows the crowd milling in front of it. This is the only way in for visitors, and once you're through, the noise of the avenue drops away and you're standing at the edge of a stone courtyard big enough to lose a few thousand people in — which, on a busy day, it will.
 
 The Palace Museum is the modern name for what everyone still calls the Forbidden City, the seat of Chinese emperors from the Ming dynasty in the 1420s through the end of the Qing in 1912. It's not one building but nearly a thousand, arranged along a strict north-south spine that Beijing's whole downtown grid is built around. You walk that spine — through the Hall of Supreme Harmony, the Hall of Central Harmony, the Hall of Preserving Harmony — and the scale keeps escalating: wider terraces, taller thrones, more dragons carved into more marble balustrades, until you reach the private inner court where emperors actually lived, a warren of smaller courtyards, sleeping quarters, and gardens that feels almost domestic after the ceremonial halls out front.

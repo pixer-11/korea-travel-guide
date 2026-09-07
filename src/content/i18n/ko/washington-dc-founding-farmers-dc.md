@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: washington-dc-founding-farmers-dc
-srcHash: '6c13b7bd7404'
+srcHash: 'd317de40d5cf'
 title: '파운딩 파머스 DC: 워싱턴 DC 맛집 가이드'
 description: 파운딩 파머스 DC(Founding Farmers DC)는 폭보텀/조지워싱턴대학교(Foggy Bottom/George Washington University) 인근 1924 Pennsylvania Ave NW에 위치한 팜투테이블 아메리칸 레스토랑으로, 버터밀크 비스킷과 치킨 앤 와플, 그리고 하루 종일 즐길 수 있는 브런치로 유명합니다 — 이 도시에서 가장 리뷰가 많은 레스토랑 중 하나(리뷰 23,000개 이상, 평점 4.5점)인 만큼 대기는 각오해야 합니다.
 quickAnswer: 파운딩 파머스 DC(Founding Farmers DC)는 폭보텀/조지워싱턴대학교(Foggy Bottom/George Washington University) 인근 1924 Pennsylvania Ave NW에 위치한 팜투테이블 아메리칸 레스토랑으로, 버터밀크 비스킷과 치킨 앤 와플, 그리고 하루 종일 즐길 수 있는 브런치로 유명합니다 — 이 도시에서 가장 리뷰가 많은 레스토랑 중 하나(리뷰 23,000개 이상, 평점 4.5점)인 만큼 대기는 각오해야 합니다. 평일 정오 이전이나 오후 2시 이후에 방문하면 가장 붐비는 시간대를 피할 수 있고, 주말 브런치는 미리 예약하는 것이 좋습니다.
@@ -17,8 +17,6 @@ faq:
   - q: 테이블을 기다려야 한다면 근처에 뭐가 있나요?
     a: 케네디 센터(Kennedy Center)의 강변 테라스와 워터게이트(Watergate) 단지 모두 도보로 짧은 거리에 있어, 테이블 준비 완료 문자를 기다리는 동안 산책하기 좋습니다.
 ---
-
-> **이 가이드는 이렇게 만들어졌습니다:** 에디터 검수, AI 보조 작성. 사실 정보는 구글 플레이스(Google Places) 실시간 데이터에서 가져왔으며, 이미지는 라이선스를 취득했거나 퍼블릭 도메인입니다. 자세한 내용은 [편집 정책](/about)을 참고하세요.
 
 메뉴를 보기도 전에 냄새로 먼저 알아차리게 됩니다: 따뜻한 버터 향, 로스팅되는 커피 향, 그리고 오픈 키친에서 흘러나오는 달콤하고 발효된 반죽 냄새. 파운딩 파머스(Founding Farmers)는 펜실베이니아 애비뉴 NW(Pennsylvania Avenue NW)의 오피스 타워 아래층, 세계은행(World Bank)과 조지워싱턴대학교(George Washington University)에서 몇 블록 떨어진 곳에 자리하고 있는데, 그 대비 자체가 매력 포인트입니다 — 밖은 유리와 강철로 이루어진 전형적인 DC의 모습이지만, 안으로 들어서면 재활용 헛간 목재, 짝이 맞지 않는 빈티지 농기구, 거칠게 다듬은 목재 들보가 반겨줍니다.
 

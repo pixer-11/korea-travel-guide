@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dumaguete-silliman-hall
-srcHash: '571412431ed8'
+srcHash: 'f032c67f79c2'
 title: 诗礼曼堂：杜马格特旅行指南
 description: 诗礼曼堂坐落在诗礼曼大学（Silliman University）绿树成荫的主校区内，位于希巴德大道（Hibbard Avenue），每天上午7点至晚上9点开放。
 quickAnswer: 诗礼曼堂坐落在诗礼曼大学绿树成荫的主校区内，位于希巴德大道，每天上午7点至晚上9点开放。这是杜马格特（Dumaguete）现存最古老的美式建筑，如今已改建成一座博物馆，馆藏人类学文物最早可追溯至公元前200年。建议预留30到45分钟参观时间，最好选在工作日的上午前往，那时校园安静，透过老式窗户洒进的光线也最好看。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有哪些地方可以顺路游览？
     a: Silliman University校园其余种满金合欢树的区域也值得慢慢走一走，此外从正门步行不远即可到达Rizal Boulevard和Dumaguete市中心。
 ---
-
-> **本指南制作说明：** 编辑审校，AI辅助完成。数据来自谷歌地图（Google Places）实时信息，图片均获得授权或来自公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

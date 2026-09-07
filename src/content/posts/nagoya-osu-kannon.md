@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell the incense before you see the gate. Cut through the covered arcades of Osu Shopping District and the vermilion-and-white temple hall appears almost abruptly, its curved roofline rising above the electronics shops and used-kimono stores that crowd right up to its edge.
 
 Osu Kannon has stood in some form since the 14th century, though what you see today is a postwar rebuild after fire destroyed the original structure. The current concrete hall dates to 1970, styled after the original wooden design. It's still a working temple, not a museum piece, and that's part of what makes it interesting.

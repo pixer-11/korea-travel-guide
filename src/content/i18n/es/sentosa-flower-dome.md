@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sentosa-flower-dome
-srcHash: '7243c67913b9'
+srcHash: '4167216457f1'
 title: 'Flower Dome: guía de viaje de Marina Bay (4,7★)'
 description: 'El Flower Dome de Gardens by the Bay es el invernadero de cristal sin columnas más grande del mundo, ubicado en 18 Marina Gardens Dr, en el lado de Bay South, dentro de Marina Bay. 4,7★ (26.669 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Flower Dome de Gardens by the Bay es el invernadero de cristal sin columnas más grande del mundo, ubicado en 18 Marina Gardens Dr, en el lado de Bay South, dentro de Marina Bay. Abre todos los días de 9:00 a 21:00 y, dado que es muy popular, conviene ir un día de semana justo a la apertura o después de las 18:00 para evitar los grupos turísticos. Calcule entre 45 y 75 minutos para recorrer sus jardines temáticos de olivos, baobabs y suculentas del desierto.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería planear pasar allí?
     a: La mayoría de los visitantes pasa entre 45 y 75 minutos solo en el Flower Dome. Combínelo con Cloud Forest, justo al lado, para una visita de medio día bajo techo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El Flower Dome se encuentra dentro del complejo Gardens by the Bay, en 18 Marina Gardens Dr, sobre el frente costero de Marina Bay, frente al hotel Marina Bay Sands.
 

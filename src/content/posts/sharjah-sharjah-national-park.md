@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is Sharjah's answer to a proper city park: flat, green, and built for unhurried afternoons. You come here not for a single monument but for the whole slow ritual of a park visit — walking, picnicking, letting kids run.

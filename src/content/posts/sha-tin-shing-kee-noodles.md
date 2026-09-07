@@ -63,8 +63,6 @@ aiGenerated: true
 draft: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Shing Kee Noodles is worth the detour
 
 Shing Kee isn't polished, and that's the point. It sits inside the Lek Yuen Estate market building, one of Sha Tin's older public housing blocks, where fluorescent tubes buzz over battered steel tables and the menu is taped up in Chinese.

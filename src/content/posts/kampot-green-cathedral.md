@@ -69,8 +69,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The Green Cathedral isn't a building at all — it's a stretch of riverside road and pathway where trees on either side have grown together overhead, forming a tunnel of green that filters the Kampot light into something soft and dappled. You come here for that light: the way it falls in patches on the dirt track, the rustle of leaves overhead drowning out the distant hum of traffic.

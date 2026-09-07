@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palermo-mercato-ballaro
-srcHash: '4cb6513a8469'
+srcHash: 'c66cbdb7ae23'
 title: 'Mercato Ballarò: guía de viaje de Palermo (4,3★)'
 description: 'El Mercato Ballarò es el mercado callejero más antiguo de Palermo y se extiende por el barrio de Albergheria, detrás de Piazza Ballarò. 4,3★ (3.335 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercato Ballarò es el mercado callejero más antiguo de Palermo y se extiende por el barrio de Albergheria, detrás de Piazza Ballarò. Para pasear con calma, conviene ir un día entre semana de 8 a 9 de la mañana; si se prefiere ir en fin de semana, lo mejor es aceptar el bullicio como parte del espectáculo. Abre todos los días, aunque los domingos cierra antes, a las 14:00, así que ese día conviene planear el almuerzo en otro sitio.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es fácil comer comida callejera allí?
     a: 'Muy fácil: panelle, crocché y sfincione se venden listos para comer y pensados para llevarse en la mano. Los precios suelen ser asequibles, y pagar en efectivo es la opción más práctica.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

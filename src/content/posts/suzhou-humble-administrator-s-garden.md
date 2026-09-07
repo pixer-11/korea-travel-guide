@@ -45,8 +45,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Suzhou calls itself the "Venice of the East," and nowhere makes the case better than the Humble Administrator's Garden. Laid out in the early 1500s by a disgraced Ming-dynasty official named Wang Xianchen, it's the largest of the city's classical gardens and one of the finest surviving examples of the genre anywhere in China. Walk through the moon gates and you understand immediately why UNESCO put Suzhou's gardens on the World Heritage list: every sightline is composed like a painting, with a rock, a pavilion roofline, or a bent pine positioned exactly where your eye lands.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-crossroads-kitchen
-srcHash: 'ca8157df67d7'
+srcHash: '637da91e9c4c'
 title: Crossroads Kitchen:洛杉矶美食指南(4.6★)
 description: Crossroads Kitchen 是一家由主厨主理的纯素餐厅，位于西好莱坞(West Hollywood)的梅尔罗斯大道(Melrose Avenue)上，以偏意式风格的植物性料理、精致鸡尾酒著称，用餐氛围更像高档意式小酒馆，而非健康素食馆。4.6★(2,289条评价)——看看游客怎么说、营业时间及实用建议。
 quickAnswer: Crossroads Kitchen 是一家由主厨主理的纯素餐厅，位于西好莱坞(West Hollywood)的梅尔罗斯大道(Melrose Avenue)上，以偏意式风格的植物性料理、精致鸡尾酒著称，用餐氛围更像高档意式小酒馆，而非健康素食馆。建议选择工作日晚上前往，避开周末人潮，并提前订位——这里是名气响亮的餐厅，而非小众秘境。午市时间为11:30am–2:30pm(周六、周日从10:30am开始),晚市大多数日子从5:30pm开始。
@@ -17,8 +17,6 @@ faq:
   - q: 大概要花多少钱?
     a: 这里的定价属于高档晚餐水准——每人份的共享前菜、一份意面主菜，再加一杯鸡尾酒或葡萄酒，预算大致处于中高档区间。
 ---
-
-> **本指南制作方式:** 编辑审核,AI辅助生成。事实信息来自Google Places实时数据；图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## Crossroads Kitchen的独到之处
 

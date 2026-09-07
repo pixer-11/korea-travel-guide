@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-mardi-gras-world
-srcHash: '6a7e82df762d'
+srcHash: '9b68a414bb9a'
 title: 'Mardi Gras World: guía de viaje de Nueva Orleans'
 description: Junto al Misisipi, justo al oeste del Convention Center, Mardi Gras World es un taller en pleno funcionamiento donde se construyen las carrozas del Mardi Gras, abierto todo el año, todos los días de 9:00 a 17:30, con visitas guiadas aproximadamente cada hora.
 quickAnswer: Junto al Misisipi, justo al oeste del Convention Center, Mardi Gras World es un taller en pleno funcionamiento donde se construyen las carrozas del Mardi Gras. Se puede visitar todo el año, todos los días de 9:00 a 17:30, con visitas guiadas aproximadamente cada hora. Conviene reservar entre 60 y 90 minutos para recorrer las figuras gigantes de fibra de vidrio, ver a los artistas trabajando y probar la muestra gratuita de king cake. Es un lugar realmente concurrido, así que conviene llegar justo a la apertura o ir a primera hora de la tarde, cuando bajan las multitudes de los autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Mardi Gras World solo interesa durante la temporada de Carnaval?
     a: 'No: es un taller en funcionamiento todo el año, así que las carrozas se construyen y se guardan sin importar la temporada, y en cualquier visita se pueden ver obras genuinamente en proceso.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

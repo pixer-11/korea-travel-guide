@@ -54,8 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come off the main road into Al-Bithnah village and the fort appears almost without warning — a squat, sand-colored tower rising off a rocky outcrop above a dry wadi bed. There's no ticket booth crowd, no tour buses idling out front. Just the fort, the mountains behind it, and the low hum of the village going about its day.
 
 ## A fort that actually watched the road

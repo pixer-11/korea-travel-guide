@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-po-lin-monastery
-srcHash: '9bddebfd8875'
+srcHash: 'a0140985a621'
 title: 'Monasterio Po Lin: Guía de viaje de Hong Kong (4,5★)'
 description: 'El Monasterio Po Lin, en la isla de Lantau, abre todos los días de 9:00 a 18:00, y la forma más tranquila de visitarlo es tomar el primer teleférico de Ngong Ping 360 y llegar al Gran Buda antes de las 10:00. 4,5★ (10.473 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monasterio Po Lin, en la isla de Lantau, abre todos los días de 9:00 a 18:00, y la forma más tranquila de visitarlo es tomar el primer teleférico de Ngong Ping 360 y llegar al Gran Buda antes de las 10:00. Los fines de semana entre las 10:00 y las 16:00 se llena de grupos turísticos, así que conviene ir a primera hora o después de las 16:00. Reserva medio día, incluyendo el trayecto en teleférico y los 268 escalones hasta el Buda de Tian Tan.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay algún lugar para comer cerca?
     a: 'Sí: el monasterio tiene un restaurante vegetariano propio que ofrece menús fijos, y la aldea de Ngong Ping cuenta con casas de té y puestos de comida informal.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

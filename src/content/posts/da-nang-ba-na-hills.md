@@ -47,8 +47,6 @@ aiGenerated: true
 updatedDate: '2026-09-01'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ba Na Hills pulls in the crowds
 
 The draw is simple: cool mountain air, a fantasy French village, and a bridge that looks like two enormous stone hands cradling a ribbon of gold. Ba Na Hills sits around 1,500 meters above sea level, about 25km west of Da Nang, and the temperature drop alone feels like stepping into another country.

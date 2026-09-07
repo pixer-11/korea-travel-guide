@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-hollywood-walk-of-fame
-srcHash: 'be0a80d6b143'
+srcHash: 'ba3711677f8b'
 title: 'Paseo de la Fama de Hollywood: Guía de viaje de Los Ángeles'
 description: Camina por Hollywood Boulevard entre La Brea y Vine (con una desviación por Vine hasta Sunset) a cualquier hora — está abierto las 24 horas — pero ve entre las 7 y las 10 de la mañana entre semana o de 7 a 9 de la mañana los fines de semana para ver las estrellas de terrazo sin abrirte paso entre la multitud.
 quickAnswer: Camina por Hollywood Boulevard entre La Brea y Vine (con una desviación por Vine hasta Sunset) a cualquier hora — está abierto las 24 horas — pero ve entre las 7 y las 10 de la mañana entre semana o de 7 a 9 de la mañana los fines de semana para ver las estrellas de terrazo sin abrirte paso entre la multitud. Calcula unos 45–90 minutos, ponte zapatos que no te importe rozar contra el concreto, y combínalo con el atrio del TCL Chinese Theatre y el Dolby Theatre, justo al lado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca que valga la pena combinar con la visita?
     a: El Dolby Theatre, el El Capitan Theatre y el complejo comercial Ovation Hollywood están todos a pocos minutos a pie, lo que facilita combinar las estrellas con un recorrido por los palacios de cine o una pausa a la sombra para ir de compras.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo primero que notas no es una estrella, sino el ruido. Hombres araña disfrazados pidiendo propinas a gritos, un tipo con una radiograbadora haciendo giros en la acera, autobuses turísticos echando humo sobre la capa marina. En algún punto bajo todo ese alboroto se extienden, cuadra tras cuadra, losetas rosadas de terrazo con estrellas bordeadas en bronce, y toma un segundo antes de que tus ojos se ajusten y empieces a leer nombres en lugar de esquivar codazos.
 

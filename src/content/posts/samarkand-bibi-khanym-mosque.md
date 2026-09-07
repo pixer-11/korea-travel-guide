@@ -81,8 +81,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see the dome before you see the gate. Rising above the rooftops of old Samarkand, its ribbed turquoise surface catches the morning light long before you reach the entrance portal on Bibikhonim Street.
 
 Once through the towering iwan, the scale hits you. This was, when Timur commissioned it in the 1400s, meant to be the largest mosque in the Islamic world — and even in its weathered, part-restored state, the courtyard still feels vast.

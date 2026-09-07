@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Al Ain Museum won't overwhelm you with scale, and that's the point. It's a compact, old-school museum tucked into the Hai Al Hisn district, and it tells the story of this oasis city before oil money reshaped the Emirates. You walk through flint tools, Bronze Age pottery, Bedouin silver jewelry, and grainy black-and-white photographs of Al Ain when it was still a scatter of mudbrick settlements around date palms.

@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Phi Phi Lee, not just Phi Phi Don
 
 You come to Phi Phi Don for the bars and the ferry pier. You come to Phi Phi Lee for the limestone.

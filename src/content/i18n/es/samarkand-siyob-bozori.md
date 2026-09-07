@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-siyob-bozori
-srcHash: '8bbbaf8c08b4'
+srcHash: '5c745da5cb47'
 title: 'Siyob Bozori: guía de viaje de Samarcanda (4,5★)'
 description: 'El Siyob Bozori se extiende justo detrás de la mezquita Bibi-Khanym en Samarcanda, y abre de martes a domingo de 7:00 a 19:00 (cerrado los lunes). 4,5★ (4.225 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Siyob Bozori se extiende justo detrás de la mezquita Bibi-Khanym en Samarcanda, y abre de martes a domingo de 7:00 a 19:00 (cerrado los lunes). Conviene ir entre las 7:00 y las 9:00, cuando hay menos gente tanto entre semana como el fin de semana, antes de que los puestos de pan con cúpula y las pirámides de especias se llenen de gente después de las 11:00. Calcule una hora para recorrerlo, más si piensa comer mientras lo explora.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede pagar con tarjeta?
     a: Es mejor llevar efectivo. La mayoría de los vendedores solo acepta som uzbeko en efectivo, y los lectores de tarjeta son poco habituales en los puestos.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 El Siyob Bozori se huele antes de verse. Al bajar desde las cúpulas turquesa de la mezquita Bibi-Khanym, el aire se va cargando del calor del pan recién horneado, el comino molido y el dulzor tenue del melón seco.
 

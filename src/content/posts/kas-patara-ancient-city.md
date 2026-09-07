@@ -94,8 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Patara is worth the detour
 
 You come around a bend on the road from Kalkan and the valley opens up — flat, green, ringed by hills, with fragments of marble poking out of fennel and wild grass. This is Patara, once the chief port of the Lycian League, now a ruin field so large you'll walk a good kilometer before you've seen half of it.

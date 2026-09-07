@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Penang Botanical Gardens for the same reason George Town residents have for over 150 years: a genuine patch of rainforest inside the city limits. Rain trees form a canopy over the main road in, their branches meeting overhead like a green tunnel, and the air turns noticeably cooler and damper the further you walk from the entrance gate.

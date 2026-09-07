@@ -78,8 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for one gold statue and a slice of harbour that photographs better than it sounds on paper. The Golden Bauhinia — a stylised version of Hong Kong's emblem flower, cast in bronze and gilded — marks the spot where sovereignty passed from Britain to China in 1997. It sits low on a stone plinth, ringed by flagpoles, with the water and Kowloon skyline stacked up behind it.

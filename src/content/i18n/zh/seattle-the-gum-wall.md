@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-the-gum-wall
-srcHash: '94c77171ac60'
+srcHash: '4c757d65eed7'
 title: 口香糖墙:西雅图旅行指南
 description: 口香糖墙是一面贴满口香糖的砖墙，位于派克市场(Pike Place Market)下方的邮政巷(Post Alley),就在市场剧院(Market Theater)下坡处不远。
 quickAnswer: 口香糖墙是一面贴满口香糖的砖墙，位于派克市场(Pike Place Market)下方的邮政巷(Post Alley),就在市场剧院(Market Theater)下坡处不远。参观免费，大约需要10-15分钟，最佳游览时间是开市前后(大约上午9点),这样可以避开旅行团和游轮游客人潮。如果想贴上自己的口香糖记得自备，凑近了会闻到一股浓郁、甜中带酸的气味。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一去的地方?
     a: 星巴克首店、派克市场鱼市(Pike Place Fish Market)、维克多·斯坦布鲁克公园(Victor Steinbrueck Park)以及埃利奥特湾(Elliott Bay)海滨，都在步行几分钟范围内。
 ---
-
-> **本指南制作说明:** 经编辑审校，并借助AI辅助完成。相关信息来自Google Places实时数据；图片均已获得授权或属于公共版权。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

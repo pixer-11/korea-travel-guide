@@ -52,8 +52,6 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You duck under a low stone doorway and the temperature changes instantly. Outside, the Mediterranean sun is doing its usual work on the promenade; inside, the air turns thick, warm, and mineral-smelling within a few steps.

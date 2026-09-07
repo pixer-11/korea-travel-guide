@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tainan-banyan-garden
-srcHash: '363ccdd3f5be'
+srcHash: 'ce95fa53d77c'
 title: 'Jardín de los Banianos (Banyan Garden): guía de viaje de Tainan (4,7★)'
 description: 'El Jardín de los Banianos (榕園) se encuentra dentro del Campus Guang-Fu de la Universidad Nacional Cheng Kung, en el distrito East de Tainan, y permanece abierto las 24 horas con entrada gratuita. 4,7★ (3.949 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: 'El Jardín de los Banianos (榕園) se encuentra dentro del Campus Guang-Fu de la Universidad Nacional Cheng Kung, en el distrito East de Tainan, y permanece abierto las 24 horas con entrada gratuita. Conviene ir a última hora de la tarde, cuando la luz se filtra en ángulo bajo entre las raíces aéreas del gran baniano, o muy temprano por la mañana, cuando el césped está casi vacío. Lleve una esterilla: estudiantes y familias suelen hacer picnic aquí, y no hay entrada que comprobar porque el acceso es gratuito.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: La mayoría de los visitantes pasa entre 20 y 40 minutos en el jardín propiamente dicho, o hasta una hora si se combina con un paseo por el resto del histórico campus.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: venice-grand-canal
-srcHash: 'c49bb11fd9eb'
+srcHash: '282a0bca399b'
 title: 'Gran Canal: Guía de viaje de Venecia'
 description: 'El Gran Canal es la "calle" principal de Venecia: una vía navegable en forma de S de casi 4 km bordeada de palazzi, que se aprecia mejor desde un vaporetto (la Línea 1 es la opción lenta y panorámica), cruzando en traghetto o desde los puentes de Rialto y Ponte degli Scalzi.'
 quickAnswer: 'El Gran Canal es la "calle" principal de Venecia: una vía navegable en forma de S de casi 4 km bordeada de palazzi, que se aprecia mejor desde un vaporetto (la Línea 1 es la opción lenta y panorámica), cruzando en traghetto o desde los puentes de Rialto y Ponte degli Scalzi. Recórrelo temprano por la mañana o después del atardecer para evitar lo peor de las multitudes y el tráfico de embarcaciones. Cuenta con al menos 45 minutos de punta a punta en el vaporetto, más si te bajas en Rialto o en la Salute.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuáles son los principales monumentos a tener en cuenta desde el agua?
     a: El Ponte di Rialto, el Ponte dell'Accademia, la Ca' d'Oro, Santa Maria della Salute y el Palazzo Venier dei Leoni (Colección Peggy Guggenheim) son los puntos más destacados a lo largo del recorrido.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 En el momento en que tu vaporetto se aparta del muelle y gira hacia la corriente, entiendes por qué Venecia nunca se molestó en construir carreteras. El Gran Canal no es tanto un lugar que se visita como una ruta que se recorre: una amplia cinta de agua de color pardo verdoso que traza una "S" invertida a través de la ciudad, flanqueada en ambas orillas por palazzi cuyo estuco ha sido suavizado por siglos de marea y aire salino.
 

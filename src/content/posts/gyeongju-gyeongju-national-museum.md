@@ -92,8 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up the long approach road off Iljeong-ro and the first thing that registers is how much space the museum gives itself — lawns, pine trees, a reflecting pond, and low stone-and-glass pavilions arranged so no single building dominates. That restraint is deliberate. Everything here exists to point back to Silla, the kingdom that ruled from Gyeongju for close to a thousand years, and the museum treats its objects like the relics of a still-living capital rather than dusty curiosities in glass boxes.
 
 ## Why go

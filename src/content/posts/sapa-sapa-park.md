@@ -69,8 +69,6 @@ faq:
     a: Sapa Lake, Sapa Stone Church, and the central market are all within walking distance, making it easy to combine into one town loop.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Sapa Park won't be the reason you book a trip to Lào Cai. It's a modest square of paved paths, benches, and a small lake on Đ. Thạch Sơn, right in the heart of Sapa town.

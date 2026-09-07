@@ -78,8 +78,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Mausoleum at Halicarnassus not for spectacle but for the strange thrill of standing in a hole in the ground that used to be one of the Seven Wonders of the Ancient World. This was the tomb Mausolus, satrap of Caria, had built for himself around 350 BC — so enormous and so lavishly carved with friezes and freestanding statuary that his name became the root of the word "mausoleum" in every language that borrowed it afterward.

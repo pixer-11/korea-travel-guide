@@ -84,8 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the turnstiles expecting just another transit hall, and instead the ceiling stops you cold: a 30-meter dome of fused glass panels swirling in reds, blues, ambers, and violets, radiating out from a central point like a compressed galaxy. This is the Dome of Light (光之穹頂), designed by Italian artist Narcissus Quagliata and set into the concourse of Formosa Boulevard Station, where Kaohsiung's Red and Orange MRT lines cross.

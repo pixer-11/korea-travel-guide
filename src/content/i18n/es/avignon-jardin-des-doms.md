@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-jardin-des-doms
-srcHash: '1ecab7ac18ad'
+srcHash: 'fed732d98601'
 title: 'Jardin des Doms: guía de viaje de Aviñón (4,5★)'
 description: 'El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. 4,5★ (3.955 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. Conviene subir a última hora de la tarde para disfrutar de la mejor luz, y acudir a primera hora de la mañana o después de las 20:00 si se busca tener los caminos para uno mismo, ya que los fines de semana el parque se llena entre el mediodía y las 20:00. Calcule entre 45 minutos y una hora, más si se entretiene junto al estanque o en la cafetería.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: Tanto el Palacio de los Papas como el puente Saint-Bénézet quedan a un corto paseo cuesta abajo, lo que convierte al jardín en un complemento fácil de cualquiera de las dos visitas.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes son de uso libre o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

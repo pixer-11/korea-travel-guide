@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: krabi-wat-kaew-korawaram
-srcHash: '744840db1fbe'
+srcHash: '30432d6b3a9a'
 title: 'Wat Kaew Korawaram: Guía de viaje de Krabi (4.6★)'
 description: 'Wat Kaew Korawaram es el templo budista más emblemático de Krabi Town, a poca distancia a pie o en tuk-tuk del mercado junto al río, famoso por su reluciente salón de ordenación blanco y dorado y por la gigantesca estatua de Buda dorada en la colina detrás de él. 4.6★ (350 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Wat Kaew Korawaram es el templo budista más emblemático de Krabi Town, a poca distancia a pie o en tuk-tuk del mercado junto al río, famoso por su reluciente salón de ordenación blanco y dorado y por la gigantesca estatua de Buda dorada en la colina detrás de él. Dedícale entre 45 minutos y una hora, viste con recato (hombros y rodillas cubiertos) y ve a media tarde, cuando el calor ya ha bajado y la luz incide sobre las tejas doradas del techo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento del día para visitarlo?
     a: Temprano por la mañana, antes de las 9am, o a media tarde, después de las 4pm, evitando así el calor intenso del mediodía y, en la temporada de lluvias de junio a octubre, los chaparrones repentinos que dejan resbaladizas las escaleras exteriores.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

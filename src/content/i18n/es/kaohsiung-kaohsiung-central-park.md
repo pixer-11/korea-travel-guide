@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-kaohsiung-central-park
-srcHash: 'ad7dab8195c9'
+srcHash: '9a0e7c6cd5e9'
 title: 'Parque Central de Kaohsiung: Guía de viaje'
 description: El Parque Central de Kaohsiung (Kaohsiung Central Park) es un gran parque urbano arbolado en el distrito de Qianjin, construido alrededor de un lago, fuentes y senderos circulares para caminar, al que se llega directamente por la estación Central Park (Línea Roja del metro de Kaohsiung, R9).
 quickAnswer: El Parque Central de Kaohsiung (Kaohsiung Central Park) es un gran parque urbano arbolado en el distrito de Qianjin, construido alrededor de un lago, fuentes y senderos circulares para caminar, al que se llega directamente por la estación Central Park (Línea Roja del metro de Kaohsiung, R9). Calcula entre 45 y 90 minutos para dar una vuelta completa y tomar un café; las primeras horas de la mañana o después de la cena son los momentos más agradables, ya que el calor del mediodía y las tardes-noches de fin de semana atraen a las mayores multitudes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca?
     a: El parque se encuentra a poca distancia en metro o a pie de las calles residenciales más antiguas y los puestos de comida del distrito de Qianjin, y está a solo unas paradas de la estación principal de Kaohsiung (Kaohsiung Main Station) y de la zona del río Love (Love River).
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ocean Expo Park anchors a trip to northern Okinawa
 
 You come here for the Churaumi Aquarium, but the park is bigger than that one building. It sprawls across a former 1975 World's Fair site on the Motobu Peninsula, mixing a beach, botanical gardens, and an open-air museum of traditional Okinawan houses into one free-to-enter park.

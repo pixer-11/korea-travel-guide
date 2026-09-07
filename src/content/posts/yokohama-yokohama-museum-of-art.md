@@ -63,8 +63,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Yokohama Museum of Art expecting a regional art museum and instead find yourself standing in a cathedral-scaled entrance hall, symmetrical and pale, with grey stone floors that seem to swallow the sound of footsteps. This is Kenzo Tange's design from the late 1980s, part of the larger Minatomirai 21 waterfront redevelopment, and the building itself is worth the visit before you've seen a single canvas.

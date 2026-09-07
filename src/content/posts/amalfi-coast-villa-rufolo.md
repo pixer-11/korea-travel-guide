@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up out of the switchbacks from Amalfi or Minori, ears still popping from the climb, and Ravello opens out flat and quiet after the vertical drama of the coast road. Piazza Duomo is small enough to cross in twenty steps, and Villa Rufolo's entrance is tucked just off it, behind a stone archway that gives almost nothing away.
 
 That's part of the effect: you walk through a dim, low passage past the old watchtower and courtyard, and then the garden hits you all at once — clipped hedges, towering pines, and beyond them nothing but blue.

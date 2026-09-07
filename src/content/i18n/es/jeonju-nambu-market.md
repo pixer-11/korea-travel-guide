@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeonju-nambu-market
-srcHash: '2cdccf0f9712'
+srcHash: '3cff0ead792c'
 title: 'Mercado Nambu: guía de viaje de Jeonju (4.0★)'
 description: 'El mercado Nambu está justo al sur del Pueblo Hanok de Jeonju, junto a la puerta Pungnammun, y abre todos los días de 6:00 a 22:00. 4.0★ (6.205 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado Nambu está justo al sur del Pueblo Hanok de Jeonju, junto a la puerta Pungnammun, y abre todos los días de 6:00 a 22:00. De día es el lugar para comprar verduras y guarniciones, y por la tarde-noche conviene quedarse para el mercado nocturno juvenil (viernes y sábado), cuando los puestos de comida toman el relevo. Entre semana, entre las 9 y las 10 de la noche, el ambiente es más tranquilo; los fines de semana, a partir de las 4 de la tarde, se llena bastante, así que conviene organizarse teniendo esto en cuenta.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Hay que calcular al menos una hora para recorrer la sección de verduras, probar algunos puestos de comida y caminar por los callejones de artesanía. Si se visita durante el mercado nocturno, conviene reservar dos horas o más.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué vale la pena caminar hasta el mercado Nambu
 

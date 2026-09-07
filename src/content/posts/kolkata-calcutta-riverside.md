@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Calcutta Riverside is a slice of the Hooghly you won't find in the guidebooks' first pages. It's a landscaped riverside development built around restored colonial-industrial architecture from Batanagar's old shoe-factory township, repurposed into gardens, walkways, a boutique hotel and riverfront eateries.

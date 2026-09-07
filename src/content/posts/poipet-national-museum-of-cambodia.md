@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## A capital landmark
 
 The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, tucked beside the Royal Palace complex.

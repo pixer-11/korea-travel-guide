@@ -74,8 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What you're actually walking into
 
 Washington Park Arboretum sits on 230 acres between Lake Washington and the Montlake neighborhood, run jointly by the University of Washington and Seattle Parks. It's not a single garden but a working plant collection: rare maples, a camellia collection, magnolias that bloom absurdly early, and stands of native Pacific Northwest conifers all mixed along winding paths.

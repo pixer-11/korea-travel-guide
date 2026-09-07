@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Most travelers passing through Shanxi head straight for Pingyao's old city walls or the hanging monasteries further north, and Taiyuan itself gets treated as a transit stop. That's a mistake, because the provincial capital holds one of the most underrated collections in China: bronze ritual vessels pulled from Shanxi's own Bronze Age tombs, Buddhist statuary carved from local sandstone, and painted tomb murals that rarely get the attention they deserve.

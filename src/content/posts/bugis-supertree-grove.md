@@ -52,8 +52,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You'll spot the Supertrees long before you reach them. These concrete-and-steel structures rise up to 16 storeys, draped in over 200 species of ferns, orchids, and vines that ripple slightly in the breeze.

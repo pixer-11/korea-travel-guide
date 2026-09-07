@@ -102,8 +102,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Seongdong Market is worth the detour
 
 Gyeongju is built around its tumuli parks, Bulguksa, and the glassy new museums — so a plain neighborhood market feels like a strange stop until you're actually inside it. Seongdong Market isn't dressed up for visitors. It's where residents of the old town buy their doenjang, their sesame oil, their morning fish, and that ordinariness is exactly the point. Under the market's low steel roof, the light comes in dusty and diffuse, striped by the gaps in the corrugated panels overhead.

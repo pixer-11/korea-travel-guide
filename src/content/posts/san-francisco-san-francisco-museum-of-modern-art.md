@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You walk in off 3rd Street and the ceiling just keeps climbing — SFMOMA's atrium is one of those spaces that resets your sense of scale before you've seen a single painting. This is one of the largest modern art museums in the country, seven floors wrapped around that central void, and the collection backs up the architecture: Diebenkorn's California light, Rothko color fields, a deep well of Bay Area photography (Adams, Arbus, Sherman), plus rotating installations that spill out onto the outdoor sculpture terrace.

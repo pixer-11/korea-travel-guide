@@ -49,8 +49,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come through one of the old brick gates — Porta Monza is the most obvious, a short walk from the city center — and the traffic noise just falls away. Whatever you expected from a "city park," this isn't it. Parco di Monza spreads out over roughly 700 hectares, one of the largest walled parks in Europe, and the scale is the first thing that registers: gravel avenues disappearing into stands of oak and plane trees, open meadows where the light comes in flat and gold in late afternoon, and somewhere off in the distance, if you're there on a race weekend, the flat drone of engines from the Autodromo.
 
 That mix — manicured 18th-century garden design butting up against a working Formula 1 circuit — is what makes this place unlike anywhere else. The park was laid out in the early 1800s under Eugène de Beauharnais as the grounds for the Villa Reale, a Neoclassical royal residence commissioned by the Habsburgs. Then in 1922 a chunk of the park's woodland was carved out for a new racetrack, and the Autodromo Nazionale Monza has hosted the Italian Grand Prix nearly every year since.

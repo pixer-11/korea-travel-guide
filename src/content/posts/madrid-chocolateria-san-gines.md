@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see it — hot oil and scorched sugar drifting out of a narrow, glass-roofed passage that most people would walk straight past. Pasadizo de San Ginés is barely wide enough for two people to pass, wedged between Calle Mayor and Calle del Arenal, and at its far end sits a chocolatería that's been frying churros since 1894. The tiled floor, the marble-topped tables, the brass rails on the counter — none of it has been prettied up for Instagram, and it doesn't need to be.
 
 ## Why go

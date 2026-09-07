@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-lee-kong-chian-natural-history-museum-singapore
-srcHash: '9c0b32a6ac81'
+srcHash: 'a1e551baec57'
 title: 'Museo de Historia Natural Lee Kong Chian, Singapur: Guía de viaje'
 description: 'El Museo de Historia Natural Lee Kong Chian se encuentra en el campus de Kent Ridge de la Universidad Nacional de Singapur, al oeste de la isla, así que conviene calcular bien el tiempo del trayecto desde el centro. Valoración de 4,6★ (2.680 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia Natural Lee Kong Chian se encuentra en el campus de Kent Ridge de la Universidad Nacional de Singapur, al oeste de la isla, así que conviene calcular bien el tiempo del trayecto desde el centro. Su gran atractivo son los tres esqueletos montados de dinosaurios diplodócidos, apodados Apollonia, Prince y Twinky, junto a amplias galerías de especímenes conservados. Lo mejor es ir un día laborable por la mañana, antes de las 11h, para evitar la afluencia de fin de semana, que se concentra entre las 11h y las 18h.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Abre el museo todos los días?
     a: No, permanece cerrado los lunes. De martes a domingo abre de 10h a 18h, y la última entrada suele ser aproximadamente una hora antes del cierre.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son de uso libre o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Ubicación y cómo orientarse
 

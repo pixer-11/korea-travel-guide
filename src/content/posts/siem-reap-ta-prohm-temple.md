@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ta Prohm stops you mid-step
 
 Most Angkor temples were cleared and restored. Ta Prohm mostly wasn't.

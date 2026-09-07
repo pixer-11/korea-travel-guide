@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-santa-monica-pier
-srcHash: 'b32ae55e1d10'
+srcHash: '739caace6b3d'
 title: 'Muelle de Santa Mónica: Guía de Viaje de Los Ángeles'
 description: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar.
 quickAnswer: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar. Caminar por él es gratis (las atracciones y el acuario tienen costo aparte), y los fines de semana se llena de verdad después del mediodía; llega antes de las 11 a.m. para verlo como lo hacen los locales, en las horas tranquilas de la mañana antes de que lleguen las multitudes.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito una licencia para pescar desde el muelle?
     a: 'No: la ley de California exime a los muelles públicos como este del requisito de licencia de pesca, así que puedes lanzar la caña desde la baranda del extremo sin costo alguno.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El muelle se percibe antes de verlo: pastel frito (funnel cake) y aire salado, un ligero olor a pescado proveniente de las tiendas de carnada bajo la plataforma. Las tablas de madera ceden ligeramente bajo los pies, desgastadas y lisas tras más de un siglo de tránsito peatonal, y allá abajo, el Pacífico sigue golpeando contra los pilotes. Este es el Muelle de Santa Mónica (Santa Monica Pier), el punto donde termina oficialmente la Ruta 66, y tiene esa sensación un poco caótica y superpuesta de un lugar que ha sido ampliado, reconstruido y reinventado desde que abrió por primera vez en 1909.
 

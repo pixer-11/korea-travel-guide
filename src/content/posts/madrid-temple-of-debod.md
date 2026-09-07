@@ -65,8 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the trees at the western edge of Parque del Oeste and there it is: sandstone gateways, a stumpy pylon, a squat temple building sitting on a reflecting pool, all of it looking faintly out of place among the plane trees and joggers of central Madrid. That's the point. The Temple of Debod was carved and built over 2,200 years ago on the banks of the Nile, near Aswan, dedicated to the goddess Isis.

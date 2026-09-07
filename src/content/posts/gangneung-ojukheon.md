@@ -77,8 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Ojukheon isn't just an old house — it's the closest thing Korea has to a shrine for its most famous mother-son pair. Shin Saimdang, celebrated painter and calligrapher, raised her son Yi Yulgok here, and he went on to become one of the Joseon Dynasty's most influential Confucian scholars. Both now appear on Korean banknotes, which tells you how deeply this site sits in the national memory.

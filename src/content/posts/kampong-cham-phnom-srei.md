@@ -77,8 +77,6 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Phnom Srei is worth the detour
 
 Phnom Srei means "Woman's Mountain," and it sits opposite its male counterpart, Phnom Pros, a few kilometers outside Kampong Cham. Locals tell a folk tale about a wager between the sexes over who could build their hill faster — the women supposedly won by trickery, which is why their mountain is smaller.

@@ -50,8 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Bueng Phra Ram not for a single monument but for the view that ties several of them together. This is the large rectangular lake at the historic heart of Ayutthaya island, and from its grassy banks you get one of the best free vantage points in the city: the laterite spires of Wat Phra Ram rising directly across the water, with Wat Mahathat's tree-choked prangs just a short walk beyond.

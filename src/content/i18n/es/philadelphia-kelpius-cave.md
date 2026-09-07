@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: philadelphia-kelpius-cave
-srcHash: '4811c28bee39'
+srcHash: 'aa2d95ae95cf'
 title: 'Cueva de Kelpius: guía de viaje de Filadelfia (4,5★)'
 description: 'La Cueva de Kelpius se encuentra en la sección de Wissahickon Valley Park, dentro de Fairmount Park, en Filadelfia, escondida cerca de Hermit Lane, junto al arroyo Wissahickon. 4,5★ (219 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Cueva de Kelpius se encuentra en la sección de Wissahickon Valley Park, dentro de Fairmount Park, en Filadelfia, escondida cerca de Hermit Lane, junto al arroyo Wissahickon. La entrada es gratuita y el lugar abre todos los días de 9:00 a 20:00; las visitas más tranquilas son las de las mañanas entre semana, antes de que el sendero se llene de excursionistas y paseadores de perros. Conviene reservar entre 45 minutos y una hora si se combina con un breve paseo junto al arroyo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares interesantes hay cerca?
     a: Valley Green Inn, el puente cubierto de Livezey (Livezey Covered Bridge) y la poza de Devil's Pool se encuentran todos a un corto paseo, dentro del mismo sistema de senderos de Wissahickon.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 Por un desvío tranquilo que sale de Hermit Lane, entre los pliegues boscosos del valle de Wissahickon, una pequeña gruta de piedra marca una de las notas más curiosas de la historia de Filadelfia. Se trata de la Cueva de Kelpius, llamada así en honor a Johannes Kelpius, el místico que hacia 1694 condujo a un pequeño grupo de pietistas alemanes hasta estos bosques para esperar el fin del mundo.
 

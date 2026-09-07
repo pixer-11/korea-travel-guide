@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-songdo-cloud-trails
-srcHash: '50c64e94edb6'
+srcHash: '6e6f3613ca78'
 title: 'Songdo Cloud Trails: Guía de viaje de Busan (4.4★)'
 description: 'Songdo Cloud Trails (송도구름산책로) es un sinuoso paseo de madera y acero que recorre las rocas junto a la playa de Songdo, en el distrito de Seo-gu de Busan, con el teleférico de Songdo deslizándose por encima y un faro rojo y blanco al final. 4.4★ (6,289 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Songdo Cloud Trails (송도구름산책로) es un sinuoso paseo de madera y acero que recorre las rocas junto a la playa de Songdo, en el distrito de Seo-gu de Busan, con el teleférico de Songdo deslizándose por encima y un faro rojo y blanco al final. Está abierto todos los días de 6am a 11pm, es gratuito y toma entre 30 y 45 minutos ida y vuelta. Ve temprano por la mañana o después del atardecer para evitar las multitudes que se forman al mediodía y los fines de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Puedo combinarlo con otras atracciones cercanas?
     a: 'Sí: la estación del Songdo Cable Car está justo en el inicio del sendero, y el paseo se conecta con los senderos costeros de Amnam Park.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

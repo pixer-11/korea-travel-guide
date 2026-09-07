@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't stumble onto Museum of the Weird — the barker-style storefront on East 6th Street makes sure of that. Carnival lettering, a taxidermy grin in the window, a hand-painted sign promising "odditorium" wonders inside. It's part sideshow revival, part cabinet of curiosities, and it knows exactly what it is.

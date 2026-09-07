@@ -95,8 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Erawan is worth the drive
 
 The name comes from Erawan, the three-headed elephant of Hindu myth — the topmost tier is said to resemble its head. What you actually get is a staircase of seven waterfalls climbing nearly 2km through mixed deciduous and bamboo forest, each tier pooling into a pond the color of pale jade.

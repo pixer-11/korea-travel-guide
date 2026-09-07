@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't a park pretending to be somewhere else. Wilmington Waterfront Park sits right up against refineries, rail lines, and the working Port of Los Angeles, and it makes no attempt to hide that.

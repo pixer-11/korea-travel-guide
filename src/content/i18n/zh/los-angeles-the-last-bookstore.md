@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-the-last-bookstore
-srcHash: 'ac178b831ab3'
+srcHash: '7297eed1c8f1'
 title: 最后书店：洛杉矶旅行指南（4.7★）
 description: 最后书店（The Last Bookstore）坐落在洛杉矶市中心历史核心区（Historic Core）一栋1914年银行大楼改建而成的建筑内，地址为453 S Spring St——不妨来看看螺旋书隧道、由金库改造的恐怖小说房，以及好几层新旧书籍。4.7★（12,810条评价）——看看游客怎么说，营业时间及实用建议。
 quickAnswer: 最后书店（The Last Bookstore）坐落在洛杉矶市中心历史核心区（Historic Core）一栋1914年银行大楼改建而成的建筑内，地址为453 S Spring St——不妨来看看螺旋书隧道、由金库改造的恐怖小说房，以及好几层新旧书籍。凭借12,000多条评价和4.7的评分，这里人气颇高，建议傍晚前往：工作日晚上7-11点、周末晚上8-11点是人最少的时段。
@@ -17,8 +17,6 @@ faq:
   - q: 如果想安排半天行程，附近有什么值得一去的地方？
     a: 大中央市场（Grand Central Market）、布拉德伯里大厦（Bradbury Building）、珍珠广场（Pershing Square），以及百老汇大街（Broadway）的历史剧院街区都在步行可达的范围内。
 ---
-
-> **本指南制作说明：** 经编辑审校，AI辅助生成。事实信息来自Google Places实时数据；图片已获授权或属公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

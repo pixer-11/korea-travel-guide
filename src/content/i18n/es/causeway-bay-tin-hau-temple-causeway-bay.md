@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: causeway-bay-tin-hau-temple-causeway-bay
-srcHash: '283be8696901'
+srcHash: 'e0f1119971af'
 title: 'Templo de Tin Hau: Guía de Viaje de Causeway Bay (4.0★)'
 description: 'El templo de Tin Hau está en Tin Hau Temple Road, a poca distancia a pie del bullicio comercial de Causeway Bay, y abre todos los días de 9:00 a 16:00. 4.0★ (326 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El templo de Tin Hau está en Tin Hau Temple Road, a poca distancia a pie del bullicio comercial de Causeway Bay, y abre todos los días de 9:00 a 16:00. El momento de mayor calma es justo a la apertura, entre las 9:00 y las 10:00, antes de que el humo del incienso se espese y lleguen los visitantes del fin de semana entre las 11:00 y las 15:00. Basta con 20-30 minutos, ya que se trata de un pequeño santuario de barrio y no de un gran complejo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: La mayoría de los visitantes pasa entre 20 y 30 minutos. Es un templo pequeño de una sola sala, no un complejo extenso, por lo que resulta fácil combinarlo con una visita al cercano Victoria Park.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

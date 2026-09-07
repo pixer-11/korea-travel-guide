@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-jardin-des-curiosites
-srcHash: '406d6902ea9c'
+srcHash: 'f1a58aeedd5d'
 title: 奇趣花园(Jardin des Curiosités):里昂旅行指南 (4.7★)
 description: 奇趣花园(Jardin des Curiosités)是位于里昂富维耶区(Fourvière)山顶的一座小花园(8 Pl. de l'Abbé Larue,69005)。4.7★(2,109条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 奇趣花园(Jardin des Curiosités)是里昂富维耶区(Fourvière)山顶的一座小花园(地址:8 Pl. de l'Abbé Larue,69005),可俯瞰索恩河(Saône)与全城屋顶的壮阔景色。花园每天8:00–22:00开放，一天中最清静的时段是每天8:00–12:00——周末从下午1点起会变得热闹起来。建议带上野餐食物，坐在层层叠叠的草坪上，顺路再逛一逛旧里昂(Vieux Lyon)。
@@ -17,8 +17,6 @@ faq:
   - q: 附近有什么景点?
     a: 花园正好位于旧里昂(Vieux Lyon)与富维耶圣母大教堂(Fourvière basilica)之间的山坡上，非常适合与穿廊(traboules)漫步或大教堂参观顺路结合游览。
 ---
-
-> **本指南制作方式:** 经编辑审核、AI辅助完成。相关信息取自Google Places实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

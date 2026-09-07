@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-san-francisco-museum-of-modern-art
-srcHash: '181cbf152388'
+srcHash: '8329339d3ca7'
 title: 'Museo de Arte Moderno de San Francisco (SFMOMA): Guía de viaje (4.6★)'
 description: El SFMOMA se ubica en 151 3rd St, en SoMa, a cinco minutos a pie de la estación Powell St BART/Muni, y bien merece medio día dado que tiene siete plantas de arte contemporáneo y moderno. 4.6★ (16,586 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El SFMOMA se ubica en 151 3rd St, en SoMa, a cinco minutos a pie de la estación Powell St BART/Muni, y bien merece medio día dado que tiene siete plantas de arte contemporáneo y moderno. Ve al final del día — los datos de afluencia muestran que de 5pm a 6pm es la franja más tranquila tanto en días de semana como en fines de semana — y evita la avalancha de fin de semana entre las 11am y las 5pm si puedes. Consulta los horarios y precios de entradas actuales en línea antes de ir, ya que ambos cambian según la temporada.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Necesito reservar entradas con anticipación?
     a: Es buena idea, especialmente para los fines de semana, ya que el ingreso es por franja horaria en los periodos de mayor afluencia. Consulta el sitio oficial del SFMOMA para conocer los horarios y precios de entradas actuales antes de ir, ya que ambos pueden cambiar según la temporada.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

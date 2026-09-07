@@ -97,8 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The lotus-shaped building alone is worth the walk. Ten "fingers" fan out from a central base, each one a gallery, and the whole structure seems to float over the water at the mouth of Marina Bay.

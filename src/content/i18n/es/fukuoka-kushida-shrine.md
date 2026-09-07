@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-kushida-shrine
-srcHash: 'd4518c56b7ee'
+srcHash: '83e6f65d5e26'
 title: 'Santuario Kushida: Guía de viaje de Fukuoka (4,3★)'
 description: 'El santuario Kushida se encuentra en el distrito de Hakata, en Fukuoka, escondido en el antiguo barrio comercial, a poca distancia a pie de Canal City. 4,3★ (13.985 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El santuario Kushida se encuentra en el distrito de Hakata, en Fukuoka, escondido en el antiguo barrio comercial, a poca distancia a pie de Canal City. Abre todos los días de 9:00 a 17:00, y el momento más tranquilo para visitarlo es entre las 9:00 y las 10:00, tanto entre semana como los fines de semana; las tardes de fin de semana, entre las 11:00 y las 16:00, se llenan de gente. Calcule entre 20 y 30 minutos, más si la imponente carroza Yamakasa está expuesta.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitar el santuario Kushida fuera de la temporada de festivales?
     a: 'Sí: cerca de la entrada suele haber expuesta de forma permanente una carroza Yamakasa decorada a tamaño real, por lo que se puede sentir el espíritu del festival incluso fuera de julio.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El incienso llega antes que la vista de la puerta. Basta con desviarse de la arcada cubierta de la calle comercial Kawabata para que el santuario Kushida aparezca casi de repente: un torii de piedra de tamaño modesto, un tejado bajo de tejas y el murmullo apagado de una ciudad que reza allí desde el año 757.
 

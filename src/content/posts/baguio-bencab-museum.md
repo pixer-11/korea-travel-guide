@@ -79,8 +79,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself — low, dark-timbered, half-buried into the slope — appears almost camouflaged against the ridge.
 
 This is the museum of Benedicto "BenCab" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.

@@ -70,8 +70,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 La Rambla isn't a single street so much as five short ones stitched together — Rambla de Canaletes, dels Estudis, de Sant Josep, dels Caputxins, and de Santa Mònica — each named for what used to stand there before the boulevard was paved over an old seasonal riverbed (a "ramla" in Arabic) in the 18th century. What you notice first is the canopy: a double row of plane trees arching over a wide central pedestrian median, with narrow traffic lanes running on either side.

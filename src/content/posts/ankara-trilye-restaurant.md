@@ -83,8 +83,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Trilye matters in Ankara's dining scene
 
 Ankara isn't a coastal city, yet Trilye has spent years convincing landlocked diners that it can plate seafood as confidently as any restaurant in Istanbul or İzmir. Walk in and the room tells you what to expect before the menu does: white tablecloths, glass panels that flood the space with daylight, and an open, airy layout that feels more like a Bosphorus-facing dining room than something tucked into Çankaya.

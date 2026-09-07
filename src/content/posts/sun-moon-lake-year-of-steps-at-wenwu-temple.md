@@ -80,8 +80,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Wenwu Temple earns the climb
 
 You see it before you arrive: a wall of vermilion pillars and yellow roof tiles stacked against the hillside, mirrored in the lake below on a still morning. Wenwu Temple isn't subtle. It's grand on purpose, built to be seen from the water, and the effect works.

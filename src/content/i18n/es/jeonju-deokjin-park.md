@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeonju-deokjin-park
-srcHash: 'ffaff9947ed3'
+srcHash: 'e2fbac86463f'
 title: 'Parque Deokjin: Guía de viaje de Jeonju (4,2★)'
 description: 'El Parque Deokjin, en el distrito de Deokjin-gu de Jeonju, es célebre por su lago cubierto de lotos, cruzado por un largo puente de madera que conduce a un pabellón en forma de pagoda. 4,2★ (4.133 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Deokjin, en el distrito de Deokjin-gu de Jeonju, es célebre por su lago cubierto de lotos, cruzado por un largo puente de madera que conduce a un pabellón en forma de pagoda. Está abierto las 24 horas, y el momento más tranquilo para visitarlo es temprano por la mañana, entre las 7:00 y las 9:00 los fines de semana, bastante antes de que se instale la afluencia de público de 11:00 a 23:00 propia del fin de semana. La floración máxima de los lotos se extiende de mediados de julio a agosto.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se cobra entrada y cuál es el horario?
     a: El parque permanece abierto las 24 horas todos los días de la semana, sin ninguna puerta que abrir, lo que facilita las visitas al amanecer.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 El lago se anuncia antes de que se llegue a la entrada: una lámina verde y uniforme de hojas de loto que se extiende hacia un pabellón de techo rojo. El Parque Deokjin se encuentra en Deokjin-gu, a poca distancia del centro de Jeonju, y está construido casi por completo alrededor de esta única extensión de agua.
 

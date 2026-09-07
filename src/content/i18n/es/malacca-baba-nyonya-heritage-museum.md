@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malacca-baba-nyonya-heritage-museum
-srcHash: 'e2ad77ff0a7a'
+srcHash: 'e9a4de4ec22a'
 title: 'Museo del Patrimonio Baba & Nyonya: guía de viaje de Malaca (4,4★)'
 description: 'El Museo del Patrimonio Baba & Nyonya se encuentra en Jalan Tun Tan Cheng Lock, en el barrio histórico de Malaca, y abre todos los días de 10:00 a 16:45 excepto los martes. 4,4★ (2.395 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo del Patrimonio Baba & Nyonya se encuentra en Jalan Tun Tan Cheng Lock, en el barrio histórico de Malaca, y abre todos los días de 10:00 a 16:45 excepto los martes. Conviene reservar entre 45 y 60 minutos para el recorrido guiado por esta casa peranakan restaurada del siglo XIX. Los fines de semana hay mucha afluencia de 10:00 a 16:00, así que lo mejor es llegar justo a la apertura o después de las 15:00 para evitar las aglomeraciones.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para combinar con la visita?
     a: El museo está a unos 10 minutos a pie de la Plaza Holandesa (Dutch Square) y muy cerca de Jonker Street y del Templo Cheng Hoon Teng, lo que facilita incluirlo en una ruta a pie por el barrio histórico.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-bugis-street
-srcHash: '10272ef309d3'
+srcHash: '76005a8ba331'
 title: 'Bugis Street: Guía de viaje (4,4★)'
 description: 'Bugis Street es el mercado callejero más grande de Singapur: cientos de puestos que venden ropa, fundas de celular, souvenirs y comida callejera, todo concentrado en unos pocos pasillos techados junto a Victoria Street. 4,4★ (21.959 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Bugis Street es el mercado callejero más grande de Singapur: cientos de puestos que venden ropa, fundas de celular, souvenirs y comida callejera, todo concentrado en unos pocos pasillos techados junto a Victoria Street. Abre todos los días de 10am a 10pm; ve justo a la apertura en día de semana (10am–12pm) para ver el lugar sin aglomeraciones. La estación de MRT más cercana es Bugis (EW12/DT14), Salida C.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería quedarme?
     a: La mayoría de los visitantes pasa entre 1 y 2 horas recorriendo el mercado; suma tiempo extra si planeas comer en los puestos de comida o explorar el cercano Kampong Glam.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

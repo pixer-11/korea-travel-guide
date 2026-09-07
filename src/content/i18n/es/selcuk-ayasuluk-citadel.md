@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-ayasuluk-citadel
-srcHash: 'd5106e10923b'
+srcHash: '570630e5a53e'
 title: 'Ciudadela de Ayasuluk: Guía de Viaje de Selçuk (4.6★)'
 description: 'La Ciudadela de Ayasuluk se alza en la colina sobre Selçuk, rodeando la Basílica de San Juan, y abre todos los días de 9:00 a 16:30. 4.6★ (1.395 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Ciudadela de Ayasuluk se alza en la colina sobre Selçuk, rodeando la Basílica de San Juan, y abre todos los días de 9:00 a 16:30. Calcule entre 45 y 60 minutos para subir y recorrer las murallas. Es conocida, pero rara vez está masificada si se compara con la cercana Éfeso, así que las mañanas justo después de la apertura son tranquilas y frescas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es el mejor momento para evitar el calor y las aglomeraciones?
     a: Vaya justo después de la apertura, a las 9:00. Rara vez está tan concurrida como Éfeso, pero las mañanas ofrecen igualmente temperaturas más frescas y una luz más suave para las murallas y los senderos, que están al descubierto.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Se ve mucho antes de llegar: un anillo de murallas almenadas que corona una colina desnuda sobre Selçuk, visible desde el andén del tren, desde la carretera a Éfeso e incluso desde los nidos de cigüeña del acueducto en pleno centro. Esa silueta es la Ciudadela de Ayasuluk, y es la primera señal de que la historia de este pueblo va mucho más allá de su papel como puerta de entrada a Éfeso.
 

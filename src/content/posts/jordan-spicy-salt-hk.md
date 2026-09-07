@@ -85,8 +85,6 @@ aiGenerated: true
 updatedDate: '2026-09-05'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Jordan doesn't lack for dai pai dong energy, but Spicy Salt HK earns its name honestly. This is a small, brightly-lit room built around one idea: things fried hard, salted well, and eaten fast with beer.

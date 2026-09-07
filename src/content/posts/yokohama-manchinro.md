@@ -54,8 +54,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Manchinro matters in Chinatown
 
 Walk into Yokohama's Chinatown from any of its ornamental gates and you'll notice the crowds thin and thicken around certain landmarks — Manchinro is one of them. It's one of the oldest and most storied names in a neighborhood that's been serving Cantonese food since Chinese merchants settled here in the 1860s. The building itself announces its ambitions before you've even opened the menu: red lacquered columns, gold detailing, carved screens, and a grand staircase that make it feel less like a restaurant and more like a banquet hall built for celebration.

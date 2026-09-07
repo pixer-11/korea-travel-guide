@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Finding the egg on the harbourfront
 
 You won't mistake the building. It's a windowless, pale dome wedged between the Hong Kong Cultural Centre and the Star Ferry pier on Salisbury Road, Tsim Sha Tsui, its curved shell built specifically to house a planetarium sphere inside.

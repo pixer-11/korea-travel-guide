@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suncheon-suncheon-bay-national-garden
-srcHash: '8d148d9bc2fc'
+srcHash: '8085f0b5856a'
 title: 'Jardín Nacional de la Bahía de Suncheon: Guía de viaje'
 description: El Jardín Nacional de la Bahía de Suncheon es un extenso complejo de jardines temáticos en Jeollanam-do, ideal para combinar con una caminata o un paseo en carrito lanzadera hasta la vecina Reserva de Humedales de la Bahía de Suncheon.
 quickAnswer: El Jardín Nacional de la Bahía de Suncheon es un extenso complejo de jardines temáticos en Jeollanam-do, ideal para combinar con una caminata o un paseo en carrito lanzadera hasta la vecina Reserva de Humedales de la Bahía de Suncheon. Abre todos los días de 9am a 8pm, y aunque los fines de semana se llena entre las 11am y las 6pm, la última hora antes del cierre (7–8pm) es notablemente más tranquila. Reserva al menos medio día, más si lo combinas con los juncales del humedal y el cerro del observatorio.
@@ -17,8 +17,6 @@ faq:
   - q: ¿La reserva de humedales forma parte del mismo boleto o visita?
     a: El Jardín Nacional y la Reserva de Humedales de la Bahía de Suncheon son áreas contiguas pero distintas, conectadas por un sendero, un carrito lanzadera y un teleférico; revisa en la entrada las opciones de boleto combinado vigentes antes de decidir cuánto tiempo dedicarle.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Sientes la escala de este lugar antes de comprenderla del todo. Desde la puerta principal, el camino se abre en un mosaico de pabellones nacionales: un jardín holandés con zuecos de madera y parterres de tulipanes, un parterre formal francés, una plantación al estilo de la pradera estadounidense, un jardín japonés con grava rastrillada, cada uno un pequeño mundo autónomo plantado justo al lado del siguiente.
 

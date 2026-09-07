@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-wat-bo
-srcHash: '376402957908'
+srcHash: 'a0da8d1ac93d'
 title: 'Wat Bo: Guía de viaje de Siem Reap (4.5★)'
 description: 'Wat Bo es un templo budista en activo situado en el barrio de Wat Bo, en Siem Reap, a poca distancia a pie o en tuk-tuk al este del río y de la zona de Pub Street. 4.5★ (1.074 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Wat Bo es un templo budista en activo situado en el barrio de Wat Bo, en Siem Reap, a poca distancia a pie o en tuk-tuk al este del río y de la zona de Pub Street. Es una de las pagodas más antiguas de la ciudad, conocida por sus pinturas murales del siglo XIX, y se mantiene tranquila incluso en temporada alta de turismo hacia Angkor. Reserva entre 30 y 45 minutos, ve por la mañana o a última hora de la tarde, y viste de forma recatada, ya que se trata de un monasterio en funcionamiento y no de un museo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene llevar puesto o saber antes de entrar?
     a: 'Viste de manera recatada, con hombros y rodillas cubiertos, quítate el calzado antes de entrar en el vihara y mantén un tono de voz bajo: se trata de un monasterio en funcionamiento, no de un sitio turístico.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué merece la pena el desvío hacia Wat Bo
 

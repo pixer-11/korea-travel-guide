@@ -72,8 +72,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up Via della Conciliazione and the basilica just keeps getting bigger, which is the point — Bernini built this axis so the whole city funnels your eye straight toward Michelangelo's dome. Cross into Piazza San Pietro and the colonnades wrap around you like arms, four rows of Doric columns holding up a parade of saints against the sky.
 
 It's only once you're standing under that dome, craning your neck at the gilded coffering 130-odd meters overhead, that the scale actually lands: this building can hold up to 20,000 people and somehow still doesn't feel crowded once you're inside its footprint, even when the piazza outside is jammed.

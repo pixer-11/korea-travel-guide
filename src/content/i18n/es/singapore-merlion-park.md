@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-merlion-park
-srcHash: 'cf47cfb6f9de'
+srcHash: '32f7236e0919'
 title: 'Merlion Park: guía de viaje de Singapur (4,6★)'
 description: 'Merlion Park se encuentra justo en el borde de Marina Bay, en Singapur, abierto las 24 horas, y el momento más tranquilo para ver la estatua del Merlion de 70 toneladas sin multitudes es de 7:00 a 9:00 los días laborables o de 7:00 a 8:00 los fines de semana. 4,6★ (76.522 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Merlion Park se encuentra justo en el borde de Marina Bay, en Singapur, abierto las 24 horas, y el momento más tranquilo para ver la estatua del Merlion de 70 toneladas sin multitudes es de 7:00 a 9:00 los días laborables o de 7:00 a 8:00 los fines de semana. Las tardes y noches de fin de semana (11:00–23:00) son el tramo de mayor afluencia, así que si quieres espacio despejado para las fotos, ven mejor al amanecer. Ver la estatua y el perfil urbano lleva unos 20-30 minutos, más si te quedas para el espectáculo de luces de la noche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Suele haber mucha gente en Merlion Park?
     a: Sí, es una de las atracciones individuales más concurridas de Singapur, sobre todo las tardes y noches de fin de semana, de 11:00 a 23:00, así que las mañanas son la mejor opción si buscas espacio.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes están bajo licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Al doblar la esquina desde Fullerton Road, ahí está: una cabeza de león injertada en un cuerpo de pez que escupe un chorro constante de agua hacia Marina Bay, con el perfil dentado del Distrito Central de Negocios elevándose detrás. Esta es la imagen que representa a todo el país en las postales, y frente al original, de casi 8,6 metros de altura y fundido en concreto y fibra de vidrio, resulta más grande y más extraño de lo que sugieren las fotos.
 

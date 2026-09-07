@@ -71,8 +71,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Most visitors reach Lantau expecting the cable car and the Big Buddha, then discover the island's south side is something else entirely: a wall of green ridges dropping straight into the sea, laced with paths that have barely changed in decades. Lantau South Country Park is that ridge, and it's less a single site than a long, wild backbone connecting several of the island's best-known trailheads.
 
 The park runs roughly from Mui Wo in the east to Fan Lau in the west, taking in the hills above Pui O, Cheung Sha and Shek Pik Reservoir along the way. Sections 3 to 8 of the Lantau Trail cut straight through it, so hikers rarely walk the whole park in one go; instead they pick a segment that matches their legs and their schedule.

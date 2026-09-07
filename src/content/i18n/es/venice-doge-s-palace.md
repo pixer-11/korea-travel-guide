@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: venice-doge-s-palace
-srcHash: '149c7636f015'
+srcHash: 'ea586faee620'
 title: 'Palacio Ducal: Guía de viaje de Venecia (4.7★)'
 description: 'Ve justo a la apertura (9h) o en las últimas dos horas antes del cierre para evitar lo peor de las multitudes: los fines de semana se llena de 11h a 17h, así que intenta ir un día laborable por la mañana si puedes. 4.7★ (39.262 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Ve justo a la apertura (9h) o en las últimas dos horas antes del cierre para evitar lo peor de las multitudes: los fines de semana se llena de 11h a 17h, así que intenta ir un día laborable por la mañana si puedes. Compra una entrada con horario asignado online con antelación, calcula entre dos y tres horas, y combínala con el tour del Puente de los Suspiros y los Itinerarios Secretos si tienes tiempo. Está justo en la Piazza San Marco, a dos minutos a pie de la parada de vaporetto del mismo nombre.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para ampliar la visita?
     a: La Basílica di San Marco y su Campanile están a un paso, y el Museo Correr se encuentra al otro lado de la misma plaza, a menudo incluido en el mismo billete.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

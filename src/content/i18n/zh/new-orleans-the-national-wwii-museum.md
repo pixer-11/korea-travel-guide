@@ -1,14 +1,12 @@
 ---
 lang: zh
 slug: new-orleans-the-national-wwii-museum
-srcHash: '00e33c0e6b77'
+srcHash: 'febdd15f1ada'
 title: 美国国家二战博物馆:新奥尔良旅行指南 (4.8星)
 description: 美国国家二战博物馆位于新奥尔良仓库区(Warehouse District)945 Magazine St,每日9am–5pm开放。4.8星(30,266条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 美国国家二战博物馆位于新奥尔良仓库区(Warehouse District)945 Magazine St,每日9am–5pm开放。建议预留半天时间(4-5小时)才能好好逛完所有展馆，最好选在开馆时9am或3pm之后前往，以避开周末中午的人流高峰(最拥挤时段为12pm–3pm)。这是一家非常热门、游客众多的博物馆，出发前请务必在线预订限时门票。
 faq: []
 ---
-
-> **本指南制作方式:** 经编辑审校、AI辅助完成。事实信息来自实时的Google Places数据；图片为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

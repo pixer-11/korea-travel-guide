@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: agra-itmad-ud-daula
-srcHash: 'd21c0ff7f4d8'
+srcHash: '867a52bb40ec'
 title: 'Itmad-ud-Daula: Guía de viaje de Agra'
 description: Itmad-ud-Daula, el "Baby Taj" de mármol, se encuentra en la orilla este del Yamuna, en Moti Bagh, a unos 20-25 minutos en coche o auto-rickshaw del centro de Agra.
 quickAnswer: Itmad-ud-Daula, el "Baby Taj" de mármol, se encuentra en la orilla este del Yamuna, en Moti Bagh, a unos 20-25 minutos en coche o auto-rickshaw del centro de Agra. Reserva entre 45 y 90 minutos, ve justo a la apertura, al amanecer, para disfrutar de la luz más suave y las multitudes más reducidas, y confirma en la puerta los horarios y precios de entrada vigentes, ya que cambian periódicamente. Es un monumento muy visitado, no un secreto, así que elegir bien el momento de la visita importa más que encontrarlo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Chini ka Rauza y Mehtab Bagh están, ambos, a un corto trayecto más adelante sobre la misma orilla oriental del río, y combinan bien con Itmad-ud-Daula para un itinerario de medio día alejado de los sitios más concurridos de la orilla oeste.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en tiempo real de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Llegas a Itmad-ud-Daula esperando un anticipo del Taj Mahal y te vas comprendiendo que, de los dos, es el edificio más íntimo y más finamente trabajado. Construido entre 1622 y 1628 por Nur Jahan, esposa del emperador Jahangir, como tumba para su padre Mirza Ghiyas Beg —el cortesano titulado Itmad-ud-Daula, o "Pilar del Estado"—, esta fue la primera estructura mogol construida enteramente de mármol blanco en lugar de arenisca roja, y la primera en emplear la pietra dura, la técnica de incrustación de piedras semipreciosas en mármol que más tarde alcanzaría su máxima expresión en el Taj.
 

@@ -65,8 +65,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The dome catches you first. It rises white and improbable over the Maidan's green flatness, a chunk of Raj-era ambition dropped into the middle of modern Kolkata.

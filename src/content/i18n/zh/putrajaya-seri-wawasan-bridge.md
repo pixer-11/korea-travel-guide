@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: putrajaya-seri-wawasan-bridge
-srcHash: '9363902d3a04'
+srcHash: '71fe24c4825f'
 title: 思韵大桥（Seri Wawasan Bridge）：布城旅行指南（4.5★）
 description: 思韵大桥（Seri Wawasan Bridge）是一座造型独特的单塔不对称桥梁，横跨布城湖（Putrajaya Lake）8区（Presint 8）水域，黄昏时分景色最美——灯光变幻多彩，桥塔的缆索也映着最后一抹夕阳。4.5★（2,948条评价）——游客怎么说、开放时间与实用贴士。
 quickAnswer: 思韵大桥（Seri Wawasan Bridge）是一座造型独特的单塔不对称桥梁，横跨布城湖（Putrajaya Lake）8区（Presint 8）水域，黄昏时分景色最美——灯光变幻多彩，桥塔的缆索也映着最后一抹夕阳。这里全天24小时开放，免费参观，工作日早上7点到8点人最少——尽量避开周末傍晚5点到晚上11点的高峰时段。
@@ -17,8 +17,6 @@ faq:
   - q: 应该在这里游览多久？
     a: 大多数游客会花30-45分钟走完全程并拍照；如果想多留一会儿欣赏夜间灯光表演，时间会更长。
 ---
-
-> **本指南制作说明：** 经编辑审核，并借助AI辅助完成。相关信息来自Google Places实时数据，图片均为授权使用或公共领域图片。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

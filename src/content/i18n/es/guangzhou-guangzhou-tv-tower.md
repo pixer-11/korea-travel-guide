@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-guangzhou-tv-tower
-srcHash: '1bc09913515c'
+srcHash: 'f228efe094dd'
 title: 'Torre de Guangzhou (Canton Tower): Guía de viaje (4,6★)'
 description: 'La Torre de Guangzhou —apodada "Canton Tower" y conocida localmente por su silueta de reloj de arena— se alza en la orilla sur del río de las Perlas, en Haizhu, frente al distrito de Yuexiu. 4,6★ (118 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Torre de Guangzhou —apodada "Canton Tower" y conocida localmente por su silueta de reloj de arena— se alza en la orilla sur del río de las Perlas, en Haizhu, frente al distrito de Yuexiu. Conviene ir al atardecer, hasta bien entrada la hora azul, para ver el perfil de la ciudad iluminado y disfrutar también del propio espectáculo de luces de la torre. Sigue siendo un destino poco conocido si se compara con las torres de Shanghái o Shenzhen, así que rara vez hay aglomeraciones importantes, incluso los fines de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más hay cerca?
     a: Los embarcaderos para los cruceros nocturnos por el río de las Perlas quedan a poca distancia a pie de la base de la torre, y las calles más antiguas del distrito de Yuexiu están justo al otro lado del río.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué vale la pena visitar la Canton Tower
 

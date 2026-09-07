@@ -80,8 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The lake announces itself before the gate does: a flat green sheet of lotus pads stretching toward a red-roofed pavilion. Deokjin Park sits in Deokjin-gu, a short ride from central Jeonju, and it's built almost entirely around this one body of water.
 
 A long wooden bridge, Yeonhwagyo, zigzags across the lake to a small island pagoda. In July and August the lotus flowers open pink and white across the surface, and the walk out to the pavilion turns into a slow, crowded shuffle for photos.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-sant-eustachio-caffe
-srcHash: 'da1d3b6851ce'
+srcHash: '4d84f2a615b7'
 title: 'Sant'' Eustachio Caffè: Guía de viaje de Roma'
 description: Sant' Eustachio Caffè se encuentra en Piazza di Sant'Eustachio, a cinco minutos a pie al sur del Panteón, y es uno de los bares de café históricos más famosos de Roma, así que ve sabiendo que está concurrido, no que es un lugar desconocido.
 quickAnswer: Sant' Eustachio Caffè se encuentra en Piazza di Sant'Eustachio, a cinco minutos a pie al sur del Panteón, y es uno de los bares de café históricos más famosos de Roma, así que ve sabiendo que está concurrido, no que es un lugar desconocido. Pide primero en la caja y luego entrega tu recibo al personal de la barra y pide "un caffè" (asumirán que lo quieres endulzado a menos que digas "senza zucchero"). Quédate de pie en la barra como todo el mundo, bébetelo en dos sorbos y calcula entre 10 y 15 minutos, no un brunch sentado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debería planear pasar allí?
     a: 'La mayoría de los visitantes entran y salen en 10-15 minutos, de pie en la barra para un espresso rápido: es una parada en una ruta a pie por el centro histórico, no un café para sentarse.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué este bar, y no otro
 

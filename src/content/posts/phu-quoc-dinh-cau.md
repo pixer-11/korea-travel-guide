@@ -73,8 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Dinh Cậu sits on a jagged outcrop of coral rock where the Duong Dong River meets the sea, right in the heart of Duong Dong town. It's a shrine, not a monument — fishermen still stop to pray here before heading out, and the blue-and-white striped lighthouse above it has become the unofficial symbol of Phu Quoc.

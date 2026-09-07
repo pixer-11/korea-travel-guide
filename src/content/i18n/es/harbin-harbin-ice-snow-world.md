@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: harbin-harbin-ice-snow-world
-srcHash: 'de36f02043f2'
+srcHash: 'b0aa88d3f90a'
 title: 'Harbin Ice and Snow World: Guía de viaje (4,7★)'
 description: 'Harbin Ice and Snow World es un enorme parque de temporada invernal con edificios de hielo iluminados y toboganes junto al río Songhua, que suele funcionar aproximadamente desde finales de diciembre hasta febrero. 4,7★ (179 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Harbin Ice and Snow World es un enorme parque de temporada invernal con edificios de hielo iluminados y toboganes junto al río Songhua, que suele funcionar aproximadamente desde finales de diciembre hasta febrero. Ve después de que anochezca, idealmente en un día entre semana, cuando los LED de colores dentro de los bloques de hielo brillan más intensamente y las multitudes disminuyen. Calcula entre dos y tres horas y vístete para temperaturas muy por debajo de cero.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debería ponerme?
     a: 'Ropa de invierno por capas completa: capas térmicas base, una capa exterior cortavientos, botas aislantes y protección para las orejas. Las temperaturas suelen bajar bien por debajo de cero, y los vendedores del lugar alquilan abrigos más gruesos y calentadores de manos si los necesitas.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

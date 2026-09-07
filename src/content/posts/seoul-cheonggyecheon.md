@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come down a short flight of steps off a six-lane road and the city noise drops by half. That's the trick of Cheonggyecheon: it sits several meters below street level, so the honking taxis and glass towers of downtown Jongno recede into a kind of backdrop while you walk beside shallow, moving water. It's not a wilderness — you're never more than a few meters from a footbridge or an office worker on a lunchtime phone call — but the contrast with the traffic overhead is real, and it's the reason this stream, once buried under an elevated highway, has become one of the most-visited public spaces in the city.

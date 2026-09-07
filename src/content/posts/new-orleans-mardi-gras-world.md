@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You don't need to be in New Orleans during Carnival season to understand what Mardi Gras actually looks like — you just need to walk into this cavernous warehouse on the river's edge. Mardi Gras World is Blaine Kern Studios' working production facility, where the floats for Krewe of Bacchus, Endymion, and dozens of other parades get sculpted, painted, and stored between years.

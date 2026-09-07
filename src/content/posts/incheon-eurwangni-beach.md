@@ -67,8 +67,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to Eurwangni for the strange novelty of watching jets climb out over the water while your feet are still in the sand. Incheon International Airport sits just up the coast, so every few minutes a plane lifts off the runway and banks out over the Yellow Sea. It sounds like it should be intrusive. Instead it's oddly hypnotic — the beach's own private soundtrack.

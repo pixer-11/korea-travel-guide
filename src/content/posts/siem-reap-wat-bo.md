@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Wat Bo is worth the detour
 
 Most visitors to Siem Reap spend their energy on Angkor Wat and never cross the river into Wat Bo village. That's their loss.

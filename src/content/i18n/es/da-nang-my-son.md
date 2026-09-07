@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-my-son
-srcHash: '53cb43350bb3'
+srcHash: 'c4205ca9cb3d'
 title: 'My Son: guía de viaje desde Da Nang (4.5★)'
 description: 'My Son es un conjunto de templos hinduistas de ladrillo rojo, ya erosionados por el tiempo, construidos por el reino de Champa entre los siglos IV y XIV, a unos 40 minutos de Hoi An o 1.5 horas al suroeste de Da Nang. 4.5★ (12,888 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: My Son es un conjunto de templos hinduistas de ladrillo rojo, ya erosionados por el tiempo, construidos por el reino de Champa entre los siglos IV y XIV, a unos 40 minutos de Hoi An o 1.5 horas al suroeste de Da Nang. Abre todos los días de 6am a 5pm; conviene llegar justo a la apertura o después de las 3pm para evitar la avalancha de autobuses turísticos que se concentra entre las 9am y la 1pm los fines de semana. Calcule medio día, contando el traslado, y use calzado adecuado, ya que el terreno es selva irregular y piedra rota.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debería llevar o usar?
     a: Calzado cerrado y resistente para los senderos irregulares de ladrillo y tierra, sombrero y agua, ya que la sombra escasea entre las torres, y efectivo en dong vietnamitas para la entrada y los pequeños vendedores del lugar.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué My Son es importante
 

@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The draw here isn't a waterfall or a temple — it's the walk itself. Pai Canyon is a spine of eroded red-clay ridges, some barely a foot wide, dropping away into green valley on both sides. You're not viewing the landscape from a platform; you're balancing on top of it.

@@ -101,8 +101,6 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Nan Lian Garden is the closest Hong Kong gets to stepping into a Tang Dynasty scroll painting. Built in the architectural style of that era — timber joinery without a single nail, gold-leafed pavilions, dark tiled roofs curling up at the eaves — it sits in Diamond Hill, wedged between a busy MTR interchange and one of the densest housing estates in the city.

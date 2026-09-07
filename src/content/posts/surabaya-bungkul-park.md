@@ -60,8 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Bungkul Park matters
 
 Taman Bungkul is Surabaya's living room. It's a compact city park on Jalan Raya Darmo that somehow holds a skate ramp, a jogging loop, a historic tomb, playground equipment and a nightly food market without feeling like it's trying too hard.

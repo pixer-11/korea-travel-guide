@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampot-bokor-hill-station
-srcHash: '26b603038744'
+srcHash: 'e166a8ceb521'
 title: 'Bokor Hill Station: guía de viaje de Kampot (4,3★)'
 description: 'Bokor Hill Station se alza en lo alto de la montaña Bokor, a una hora en coche desde la ciudad de Kampot, dentro del Parque Nacional Preah Monivong (Bokor). 4,3★ (2.916 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Bokor Hill Station se alza en lo alto de la montaña Bokor, a una hora en coche desde la ciudad de Kampot, dentro del Parque Nacional Preah Monivong (Bokor). Merece la pena ir por las ruinas envueltas en niebla de la antigua estación colonial francesa, por el abandonado Bokor Palace Hotel y por las amplias vistas sobre el golfo de Tailandia. Conviene reservar medio día o un día completo, y llegar temprano antes de que las nubes cubran el paisaje.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: Las normas han ido cambiando con el tiempo, así que conviene confirmar in situ el coste actual de entrada al parque o al lugar, en lugar de dar por hecho que es gratuito.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de inteligencia artificial. Los datos proceden de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

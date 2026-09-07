@@ -53,8 +53,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Long before Valencia had a skyline of Santiago Calatrava's white ribs and glass, it had this: a hulking, honey-colored Gothic building where merchants once traded raw silk fresh off boats from Genoa and Byzantium. La Lonja de la Seda ("Silk Exchange") isn't a museum full of roped-off objects — it's an empty, echoing shell of a building, and that emptiness is the point.

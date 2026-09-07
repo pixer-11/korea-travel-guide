@@ -60,8 +60,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here hungry, and you leave defeated in the best way. Les Grands Buffets Lyonnais isn't about one perfect dish — it's about the sheer sprawl of a Lyonnais table laid out for grazing, all at a fixed price.

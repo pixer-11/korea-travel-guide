@@ -82,8 +82,6 @@ draft: false
 updatedDate: '2026-09-03'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 The pagoda you photograph from the West Lake shoreline isn't the original — it's a 2002 rebuild standing over the excavated bones of the real thing, and that layering of legend, ruin, and reconstruction is exactly what makes a visit worthwhile. The first Leifeng Pagoda went up in 975 AD, commissioned by a local king to mark the birth of his son, and stood for nearly a thousand years before collapsing in 1924 — partly because superstitious locals kept chipping bricks from its base, believing pagoda dust warded off illness.

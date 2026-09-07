@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-prince-of-chumphon-monument
-srcHash: '68a6593cba1d'
+srcHash: '0b5c59999a34'
 title: 'Monumento al Príncipe de Chumphon: guía de viaje de Pattaya (4,7★)'
 description: 'El Monumento al Príncipe de Chumphon en Pattaya se alza sobre un promontorio que domina el distrito de Bang Lamung y abre todos los días de 7:30 a 19:00 sin cargo de entrada. 4,7★ (1.390 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento al Príncipe de Chumphon en Pattaya se alza sobre un promontorio que domina el distrito de Bang Lamung y abre todos los días de 7:30 a 19:00 sin cargo de entrada. El momento más tranquilo para visitarlo es entre las 8:00 y las 9:00, tanto entre semana como en fin de semana, antes de que lleguen los autobuses turísticos; conviene evitar el tramo de 10:00 a 19:00 los fines de semana si se quiere disfrutar del mirador en soledad. Calcule entre 45 minutos y una hora, más si se queda a ver la puesta de sol sobre la bahía.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre 45 minutos y una hora bastan para ver la estatua, leer las placas sobre la carrera naval del príncipe Abhakara y disfrutar de las vistas de la bahía; más tiempo si se decide quedar hasta la puesta de sol.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La carretera que sube hasta el Monumento al Príncipe de Chumphon serpentea por un promontorio en el extremo sur de Pattaya, entre matorrales de ladera y algún perro callejero que dormita a la sombra. Se sabe que se está llegando cuando los árboles se aclaran y, abajo, la bahía se despliega en una amplia franja gris azulada, salpicada de barcos de contenedores fondeados que, desde la distancia, parecen de juguete.
 

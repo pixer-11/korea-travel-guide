@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-yangdong-folk-village
-srcHash: '574c9a5ba5ff'
+srcHash: 'c56c2d6ba111'
 title: 'Aldea Folclórica de Yangdong: Guía de Viaje de Gyeongju (4.1★)'
 description: 'La Aldea Folclórica de Yangdong es una aldea de clanes de 500 años de antigüedad, aún habitada, situada a unos 16 km al noreste de Gyeongju, abierta todos los días de 9am a 5pm. 4.1★ (3.301 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Aldea Folclórica de Yangdong es una aldea de clanes de 500 años de antigüedad, aún habitada, situada a unos 16 km al noreste de Gyeongju, abierta todos los días de 9am a 5pm. Calcula entre 2 y 3 horas para recorrer los senderos de la cresta entre las casas de campo con techo de paja y las mansiones yangban de tejas. Si puedes, ve un día de semana por la mañana: los autobuses turísticos suelen llegar a partir de primera hora de la tarde.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede entrar en las casas?
     a: La mayoría de los edificios son residencias privadas donde todavía viven familias locales, así que generalmente se observan desde el exterior en lugar de entrar. Algunas estructuras cerca de la entrada pueden estar abiertas para verlas más de cerca.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por editores, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué Yangdong merece el desvío
 

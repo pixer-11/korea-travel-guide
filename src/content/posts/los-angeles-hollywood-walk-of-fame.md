@@ -81,8 +81,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The first thing you notice isn't a star — it's the noise. Costumed Spider-Men heckling for tips, a guy with a boombox doing sidewalk spins, tour buses idling exhaust into the marine layer. Somewhere under all that commotion, pink terrazzo squares with brass-rimmed stars stretch for blocks, and it takes a second before your eyes adjust and you start reading names instead of dodging elbows.
 
 ## Why go

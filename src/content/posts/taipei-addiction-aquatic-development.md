@@ -72,8 +72,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's unlike a normal restaurant
 
 You don't so much "arrive" at Addiction Aquatic Development as get swallowed by it. It's a working seafood wholesale market that's been reengineered into a food hall, and the layout still shows it: refrigerated glass cases of tuna loins, spot prawns, and oysters on ice run down one side, a sushi counter wraps around the fish-butchery station, and beyond that sits a raw bar, a grill station, and a proper sit-down restaurant with its own menu.

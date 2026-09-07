@@ -57,8 +57,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Some restaurants sell food; El Rinconcillo sells continuity. The building has operated as a tavern since 1670, and the room itself does most of the talking before a plate ever arrives: dark wood shelving stacked with bottles up to the ceiling, hand-painted azulejo tiles gone soft at the edges, hams hanging over the zinc-topped bar, and a century and a half of waiters' chalk tallies still scratched onto the wooden counter instead of printed on a receipt.

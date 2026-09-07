@@ -73,8 +73,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This is one of the largest repositories of Indian art and archaeology anywhere, and it earns its reputation fast. Within the first gallery you're standing over 5,000-year-old Harappan seals and terracotta toys, the kind of objects that make the Indus Valley feel suddenly close rather than textbook-distant.

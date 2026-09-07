@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chuncheon-chuncheon-national-museum
-srcHash: '2247428ad0e8'
+srcHash: 'b0c87b7a0795'
 title: 'Museo Nacional de Chuncheon: Guía de viaje (4.5★)'
 description: 'El Museo Nacional de Chuncheon, ubicado en Useok-ro, en la zona de Geunhwa-dong de Chuncheon, es un museo regional gratuito y muy valorado que recorre la historia de Gangwon-do desde la prehistoria hasta la era Joseon. 4.5★ (1,577 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Chuncheon, ubicado en Useok-ro, en la zona de Geunhwa-dong de Chuncheon, es un museo regional gratuito y muy valorado que recorre la historia de Gangwon-do desde la prehistoria hasta la era Joseon. Abre de martes a domingo, de 9 a 18 horas, permanece cerrado los lunes, y los fines de semana son los días de mayor afluencia, especialmente entre las 10 y las 18 horas. Conviene reservar entre 60 y 90 minutos para la visita; lo ideal es ir un día laborable por la mañana o justo al abrir para evitar las multitudes del fin de semana.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega al museo sin auto?
     a: Un taxi desde la estación de Chuncheon o desde la terminal del tren ITX-Cheongchun tarda entre 10 y 15 minutos aproximadamente; también hay autobuses locales, aunque con menor frecuencia, por lo que conviene revisar los horarios con anticipación.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Qué encontrarás dentro
 

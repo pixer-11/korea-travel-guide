@@ -107,8 +107,6 @@ draft: false
 updatedDate: '2026-08-31'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Five villages, one impossibly steep coastline, and almost no flat ground anywhere. That's the whole premise of Cinque Terre, and it works.

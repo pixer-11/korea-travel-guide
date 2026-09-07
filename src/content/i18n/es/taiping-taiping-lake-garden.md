@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiping-taiping-lake-garden
-srcHash: 'bce83dc7b404'
+srcHash: '1228049cf07e'
 title: 'Taiping Lake Garden: guía de viaje'
 description: Taiping Lake Garden (Taman Tasik Taiping) es un parque gratuito y al aire libre, formado por antiguas balsas de extracción de estaño convertidas en un frondoso jardín lacustre. La mejor hora para visitarlo es temprano por la mañana o al final de la tarde, cuando la luz se filtra entre los enormes árboles de lluvia.
 quickAnswer: Taiping Lake Garden (Taman Tasik Taiping) es un parque gratuito y al aire libre, formado por antiguas balsas de extracción de estaño convertidas en un frondoso jardín lacustre. La mejor hora para visitarlo es temprano por la mañana o al final de la tarde, cuando la luz se filtra entre los enormes árboles de lluvia. Recorrer el circuito completo, observar los cálaos residentes y cruzar los puentes arqueados lleva entre 1,5 y 2 horas. Entre semana hay tan poca gente que a menudo se puede disfrutar de tramos enteros de la orilla en soledad.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Suele haber mucha gente?
     a: Es un lugar realmente poco conocido y rara vez está concurrido, aunque los sábados y domingos por la mañana llegan familias locales a hacer pícnic. Entre semana es cuando está más tranquilo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

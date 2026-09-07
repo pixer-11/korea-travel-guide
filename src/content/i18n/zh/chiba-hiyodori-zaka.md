@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiba-hiyodori-zaka
-srcHash: 'ebd500869b77'
+srcHash: '7ee8b2703b37'
 title: 鸱尾坂（Hiyodori-Zaka）：千叶旅行指南
 description: 鸱尾坂（Hiyodori-Zaka）是位于千叶佐仓（Sakura）古城下町的一条狭窄的武家时代坡道，两旁绿篱夹道，从京成佐仓站（Keisei-Sakura Station）步行约15分钟可达。
 quickAnswer: 鸱尾坂（Hiyodori-Zaka）是位于千叶佐仓（Sakura）古城下町的一条狭窄的武家时代坡道，两旁绿篱夹道，从京成佐仓站（Keisei-Sakura Station）步行约15分钟可达。步行游览并拍照大约只需20-30分钟，因此可以将它与附近的旧武家宅邸和佐仓城址公园（Sakura Castle Ruins Park）结合起来，安排半天的行程。如果想让这条小巷完全属于你一个人，建议选择工作日的早晨前往。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一看的地方？
     a: 旧河原家（Kyu-Kawara）、旧高桥家（Kyu-Takahashi）和旧田代家（Kyu-Tashiro）武家宅邸步行即可到达，佐仓城址公园内还有国立历史民俗博物馆（National Museum of Japanese History）。
 ---
-
-> **本指南制作方式：** 经编辑审校，并由AI辅助完成。相关信息来自谷歌地图（Google Places）实时数据，图片均已获得授权或属于公共领域。详见我们的[编辑政策](/about)。
 
 ## 为什么鸱尾坂值得专程一去
 

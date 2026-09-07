@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tainan-tainan-confucius-temple
-srcHash: 'd9d3f8523837'
+srcHash: '3d99d21cae47'
 title: 'Templo de Confucio de Tainan: Guía de viaje (4,4★)'
 description: 'El Templo de Confucio de Tainan, en el Distrito Centro-Oeste (West Central District), cerca de Fucheng Road y Nanmen Road, es el templo confuciano más antiguo de Taiwán, construido en 1665. 4,4★ (12.763 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Templo de Confucio de Tainan, situado en el Distrito Centro-Oeste (West Central District) cerca de Fucheng Road y Nanmen Road, es el templo confuciano más antiguo de Taiwán, construido en 1665. Abre todos los días de 8:30 a 17:30; conviene ir justo a la apertura o entre las 9:00 y las 10:00 en días laborables para adelantarse a los grupos turísticos que llenan el patio de 10:00 a 17:00 los fines de semana. Calcule entre 45 y 60 minutos de visita y combínela con las cercanas Calles Antiguas (Old Streets) y el Jardín Wu (Wu Garden).
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cómo se llega sin coche?
     a: Tainan no tiene metro, así que lo habitual es ir en taxi, alquilar un escúter o tomar el Autobús Turístico de Tainan (Tainan Sightseeing Bus). También se puede llegar caminando desde la Torre Chihkan (Chihkan Tower) en unos 15-20 minutos.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué visitarlo
 

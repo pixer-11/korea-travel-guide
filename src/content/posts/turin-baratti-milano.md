@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You smell it before you see it: warm sugar, roasted hazelnut, and the faint bitterness of espresso drifting out from under the arcade at Piazza Castello. Step through the door of Baratti & Milano and the noise of the square drops away instantly, replaced by the click of spoons on saucers and the soft murmur of a room that hasn't changed its manners in over a century.
 
 Gilt mirrors run floor to ceiling, brass fittings catch the light from etched-glass lamps, and the marble-topped counter glows under a row of chandeliers. This isn't a café dressed up to look historic — it opened in 1873 and has been serving Torinesi ever since, tucked at the entrance to the Galleria Subalpina, one of the city's great 19th-century glass-roofed arcades.

@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Sai Kung Town is worth the trip
 
 Sai Kung Town sits on the east side of the New Territories, where Hong Kong's density suddenly gives way to open water. It was a fishing settlement long before it was a day-trip destination, and that history is still visible in the harbour.

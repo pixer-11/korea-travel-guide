@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chengdu-gudashengci-temple
-srcHash: 'e65054be2033'
+srcHash: '8cc05ed3049c'
 title: 'Templo Gudashengci: guía de viaje de Chengdu'
 description: El templo Gudashengci (大慈寺, también conocido como templo Daci) se encuentra en el centro del distrito de Jinjiang, justo al lado de la calle Dacisi, a poca distancia a pie del complejo comercial Taikoo Li.
 quickAnswer: El templo Gudashengci (大慈寺, también conocido como templo Daci) se encuentra en el centro del distrito de Jinjiang, justo al lado de la calle Dacisi, a poca distancia a pie del complejo comercial Taikoo Li. Se trata de un templo budista en activo con más de mil años de historia, lo bastante tranquilo como para recorrer sus patios sin aglomeraciones. Reserve entre 45 minutos y una hora, idealmente por la mañana, antes de que las calles cercanas se llenen de gente.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué conviene llevar o cómo hay que vestir?
     a: Vista con recato, con hombros y rodillas cubiertos, ya que se trata de un lugar de culto en activo, y lleve algo de efectivo en billetes pequeños por si desea hacer una ofrenda.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos proceden de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

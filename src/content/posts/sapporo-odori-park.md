@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Layout and how to navigate it
 
 Odori Park stretches roughly 1.5km east to west, split into 12 numbered blocks (chome) from Nishi 1 to Nishi 12. Odori Station, served by the Namboku, Tozai and Toho subway lines, sits right underneath the park's midsection, so most visitors surface directly into it.

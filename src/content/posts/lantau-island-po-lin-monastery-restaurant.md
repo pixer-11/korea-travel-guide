@@ -56,8 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why eat at a monastery
 
 Po Lin isn't a restaurant you stumble onto — you come for the Tian Tan Buddha and the incense-thick courtyard, and the vegetarian hall is what feeds you afterward.

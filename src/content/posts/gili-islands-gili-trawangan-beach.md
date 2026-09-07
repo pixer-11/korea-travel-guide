@@ -87,8 +87,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the difference the moment you step off the boat: no engines, no horns, just the crunch of sand under bare feet and the clop of a cidomo horse cart somewhere behind you. Gili Trawangan runs on no motorized traffic at all, and that single fact shapes everything about how the beach feels.
 
 ## Why this beach, not just any Gili

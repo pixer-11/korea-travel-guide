@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kochi-mattancherry-palace
-srcHash: '6cfa0507bf0f'
+srcHash: '71543af6ae95'
 title: 'Palacio de Mattancherry: Guía de viaje de Kochi (4,2★)'
 description: 'El Palacio de Mattancherry (también llamado Palacio Holandés) abre de 10:00 a 17:00 todos los días excepto los viernes, y es lo bastante pequeño como para verlo bien en 45–60 minutos. 4,2★ (19.858 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Palacio de Mattancherry (también llamado Palacio Holandés) abre de 10:00 a 17:00 todos los días excepto los viernes, y es lo bastante pequeño como para verlo bien en 45–60 minutos. Si puedes, llega justo a la apertura, a las 10:00 — los fines de semana se llena rápido de 11:00 a 17:00 — y combínalo con un paseo por Jew Town y Jew Street, justo al lado.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más vale la pena visitar cerca?
     a: La Sinagoga Paradesi y las tiendas de antigüedades y especias de Jew Street están a cinco minutos a pie, lo que facilita combinarlo en un recorrido de medio día por Mattancherry.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Al bajar de Bazaar Road entras en un patio bajo de muros de laterita, y el ruido de los tuk-tuks de Mattancherry desaparece casi de inmediato. Este no es un palacio de cúpulas imponentes ni puertas doradas. Es una estructura achaparrada, de un solo piso y estilo Kerala, con techo inclinado de tejas, construida por los portugueses en 1555 como ofrenda de paz al rajá de Kochi, y renovada décadas después por los holandeses, razón por la cual la mayoría aquí sigue llamándolo el Palacio Holandés.
 

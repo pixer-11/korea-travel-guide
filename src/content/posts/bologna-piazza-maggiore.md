@@ -76,8 +76,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of a side street — via Rizzoli or via Indipendenza, it doesn't matter which — and the space just opens up. No warning, no long approach: one moment you're under a low stone portico, the next you're standing in a rectangle of open sky bigger than a football pitch, with a wall of pink-and-grey brick rising in front of you.

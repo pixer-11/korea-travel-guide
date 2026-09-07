@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 North Point Promenade isn't a landmark you plan a whole trip around. It's a working harbourfront that locals actually use, and that's exactly the appeal.

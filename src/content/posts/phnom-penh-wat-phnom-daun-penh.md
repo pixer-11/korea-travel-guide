@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Wat Phnom Daun Penh sits on the only real hill in a city that's otherwise flat as a rice paddy, and that alone explains why it matters. Legend says a woman named Penh found four Buddha statues washed up on the Mekong and built a shrine here in the 14th century — giving the capital its name, "Penh's Hill." What stands today is newer, but the site's gravity as the spiritual anchor of Phnom Penh hasn't changed in six centuries.
 
 You climb a long flight of stone steps flanked by naga balustrades, incense smoke drifting down to meet you before you even reach the top. Vendors sell birds in cages for release, lotus flowers, and joss sticks along the way. At the summit, the vatta (the tall central stupa) contains the ashes of King Ponhea Yat, and the main pagoda's interior is dense with murals, gilded Buddha images, and the low murmur of chanting.

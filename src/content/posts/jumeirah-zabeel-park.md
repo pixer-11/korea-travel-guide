@@ -79,8 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## What's actually here
 
 Zabeel Park spans 117 acres split into themed zones, connected by pedestrian bridges over Sheikh Khalifa bin Zayed Street. The headline attraction is the Dubai Frame, a 150-metre gold-clad rectangle you can see from the park's northern lawns even without buying a ticket up.

@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 This is where Japanese beer actually started, and the building makes no attempt to hide its age. The Sapporo Beer Museum occupies a former sugar-then-beer factory dating to 1890, all dark red brick and iron trusses, on the northeast edge of central Sapporo in Higashi Ward.
 
 You come here for the story more than a museum-shop polish. Exhibits trace Hokkaido's German-influenced brewing history through vintage equipment, old posters, and copper kettles too large to photograph in one frame. Labels are in Japanese and English, and free admission means you can wander at your own pace without an entrance fee eating into your day.

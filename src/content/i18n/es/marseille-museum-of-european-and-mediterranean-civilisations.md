@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: 'cac2743e3c08'
+srcHash: '1ede0867b8ce'
 title: 'Museo de las Civilizaciones de Europa y el Mediterráneo: guía de viaje de Marsella'
 description: 'Dirígete al MuCEM (Musée des Civilisations de l''Europe et de la Méditerranée) desde la entrada del Vieux-Port hacia la explanada J4, y apunta a la franja de última hora de la tarde, de 18:00 a 21:00, cuando el museo tiene horario nocturno: es el momento más tranquilo tanto entre semana como los fines de semana. 4.4★ (24.438 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Dirígete al MuCEM (Musée des Civilisations de l''Europe et de la Méditerranée) desde la entrada del Vieux-Port hacia la explanada J4, y apunta a la franja de última hora de la tarde, de 18:00 a 21:00, cuando el museo tiene horario nocturno: es el momento más tranquilo tanto entre semana como los fines de semana. Las multitudes de fin de semana alcanzan su punto máximo de 11:00 a 18:00, así que si solo puedes ir en ese horario, llega justo a la apertura. Calcula entre dos y tres horas, más si además cruzas la pasarela hacia el Fort Saint-Jean.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca por si quiero alargar la visita?
     a: El Vieux-Port está justo al lado, con su mercado de pescado y excursiones en barco a las islas de Frioul, y el barrio del Panier, el más antiguo de Marsella, está a un corto paseo hacia el norte.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Ves el MuCEM antes de llegar a él. La fachada de encaje de hormigón negro envuelve el edificio cúbico como un contenedor de carga bañado en herrería, y el conjunto parece flotar en el borde de la explanada J4, con el mar en tres de sus lados. Sales del Vieux-Port y el Mediterráneo se abre de golpe ante ti: grúas portuarias a lo largo de la costa, ferris deslizándose hacia Córcega y el norte de África, y las murallas del Fort Saint-Jean enfrente.
 

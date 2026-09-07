@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-28-restaurant
-srcHash: 'a94b72d3bf4f'
+srcHash: 'c3395ccb2f17'
 title: '28 Restaurant: Dónde comer en Sai Kung'
 description: 28 Restaurant es un pequeño local bien valorado, escondido en Man Yee Wan San Tsuen, en Yi Chun Street, a poca distancia a pie del paseo marítimo de Sai Kung.
 quickAnswer: 28 Restaurant es un pequeño local bien valorado, escondido en Man Yee Wan San Tsuen, en Yi Chun Street, a poca distancia a pie del paseo marítimo de Sai Kung. Es de precio medio, con cocina cantonesa orientada al marisco y una clientela fiel, así que conviene ir un día de semana por la noche si quieres mesa sin esperar. Los fines de semana está concurrido de 1pm a 9pm; las noches de días de semana, más tarde, hacia las 10-11pm, son las más tranquilas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué debería pedir?
     a: 'El pescado entero al vapor, el calamar con sal y pimienta, y el cangrejo estilo refugio tifón (typhoon shelter crab) son los platos destacados: pide una combinación y compártela entre al menos tres personas.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué 28 Restaurant merece el desvío
 

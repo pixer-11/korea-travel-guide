@@ -91,8 +91,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Wat Phra Singh isn't just another stop on the temple circuit. Founded in 1345, it houses the Phra Singh Buddha, one of Thailand's most venerated images, and its Lai Kham viharn holds some of the finest surviving temple murals in the north.

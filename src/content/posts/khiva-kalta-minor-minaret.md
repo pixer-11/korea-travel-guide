@@ -86,8 +86,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see it before you reach it — a fat turquoise barrel rising over the mud-brick skyline of Ichan-Qala, looking less like a minaret and more like the base of something that was supposed to keep going.
 
 That's the point. Kalta Minor means "short minaret" in Uzbek, and it was never finished.

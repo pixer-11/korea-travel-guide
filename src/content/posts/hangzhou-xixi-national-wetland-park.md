@@ -48,8 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Xixi feels different from anywhere else in Hangzhou
 
 Everyone who comes to Hangzhou goes to West Lake. Fewer make the trip out to Xixi, and that's the point. This is China's first — and still one of very few — national wetland parks, a low-lying tangle of six waterways and hundreds of ponds threaded between stands of reed and century-old camphor trees. Where West Lake feels curated and postcard-perfect, Xixi feels like you've wandered into a working landscape: fishermen's cottages with black-tiled roofs, persimmon trees leaning over the water, egrets picking through the shallows.

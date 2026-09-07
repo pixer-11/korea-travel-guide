@@ -94,8 +94,6 @@ aiGenerated: true
 updatedDate: '2026-09-04'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come for one silhouette: a 34-metre bronze Buddha seated on a lotus throne, visible from the cable car long before you reach it. Po Lin Monastery sits beneath it on a high plateau on Lantau Island, incense smoke drifting between vermilion pillars and gold-tipped roofs.

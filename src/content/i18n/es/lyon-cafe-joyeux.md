@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-cafe-joyeux
-srcHash: '9bb110cbd822'
+srcHash: 'fa398fcb18f1'
 title: 'Café Joyeux: Guía de viaje de Lyon'
 description: Café Joyeux, en el 13 Rue Ferrandière, se encuentra en la zona comercial de la Rue de la République, en la Presqu'île, a dos minutos a pie del metro Cordeliers (Línea A).
 quickAnswer: Café Joyeux, en el 13 Rue Ferrandière, se encuentra en la zona comercial de la Rue de la République, en la Presqu'île, a dos minutos a pie del metro Cordeliers (Línea A). Es una parada de café y repostería atendida en su mayoría por personal con discapacidad intelectual y cognitiva, y goza de muy buena valoración, no es solo un gesto para sentirse bien. Ve un día de semana por la mañana, entre las 8:30 y las 10:00, si quieres conseguir mesa sin esperar; las tardes de fin de semana después de las 11:00 se llenan.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto cuesta y cómo se paga?
     a: 'Es de precio medio para el centro de Lyon: ni la panadería más barata ni un lujo. Se acepta tanto tarjeta como efectivo, como en la mayoría de los cafés de Lyon.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con ayuda de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué destaca este café
 

@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Seri Wawasan Bridge is one of Putrajaya's signature engineering landmarks, a leaning white pylon holding up a deck of cables like a half-open fan. Locals call it the "Millennium Bridge" for the way its single mast tilts dramatically over the water. By day it's a sculptural curiosity against the lake; by night it becomes a slow-motion light show, cycling through colors reflected on the surface of Putrajaya Lake.

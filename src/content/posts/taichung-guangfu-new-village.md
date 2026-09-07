@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 GuangFu New Village isn't a temple or a night market — it's a village that refused to disappear. Built in the 1950s to house military families, its low concrete rowhouses sat half-abandoned for decades until artists and small businesses moved in and quietly rewired the place.

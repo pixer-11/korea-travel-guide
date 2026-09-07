@@ -66,8 +66,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Strand still matters
 
 You smell it before you see the far wall: that dry, papery mustiness of old bindings mixed with fresh ink. Strand has occupied this stretch of Broadway since 1957, and the building still feels like it's straining to hold everything inside it.

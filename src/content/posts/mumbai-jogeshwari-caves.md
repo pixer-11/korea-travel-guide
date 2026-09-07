@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You'd walk past the entrance without knowing it's there. Jogeshwari Caves sit below street level, reached down a narrow lane off the main road in Jogeshwari East, hemmed in on all sides by apartment blocks that have crept right up to the cave mouth over the decades.
 
 That's the first thing that hits you: this isn't a fenced-off monument on a hilltop. It's a living temple wedged into the city's fabric, with laundry lines and satellite dishes visible above the ancient rock.

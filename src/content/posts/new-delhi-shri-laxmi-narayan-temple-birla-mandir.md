@@ -74,8 +74,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Birla Mandir isn't a quiet backstreet shrine — it's a full temple complex spread across more than three hectares, and it shows the moment you walk in. Built by industrialist B.D. Birla in the 1930s and opened by Mahatma Gandhi on the condition that people of all castes could enter, it was a genuinely radical gesture for its time.

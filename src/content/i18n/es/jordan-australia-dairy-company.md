@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-australia-dairy-company
-srcHash: 'd4d4af78d301'
+srcHash: '3e14914877b5'
 title: 'Australia Dairy Company: dónde comer en Jordan (4,0★)'
 description: 'Australia Dairy Company, en Jordan, es un legendario cha chaan teng célebre por su tembloroso omelette de claras al vapor, sus sedosos huevos revueltos sobre tostada y un personal que se mueve rápido y espera lo mismo de ti. 4,0★ (6.362 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Australia Dairy Company, en Jordan, es un legendario cha chaan teng célebre por su tembloroso omelette de claras al vapor, sus sedosos huevos revueltos sobre tostada y un personal que se mueve rápido y espera lo mismo de ti. Abre de 7:30 a 22:00 todos los días excepto los jueves, y siempre está lleno, así que conviene ir justo a la apertura o a media tarde para esquivar lo peor de la cola. Hay mesas compartidas, se paga sobre todo en efectivo y la cuenta se mantiene claramente económica.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto se puede esperar pagar?
     a: 'Es económico para los estándares de Hong Kong: una comida completa de huevos, tostada y té cuesta relativamente poco, aunque el efectivo es la forma de pago más segura.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué todo el mundo hace cola aquí
 

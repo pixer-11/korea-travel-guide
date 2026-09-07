@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-khlong-toei-market
-srcHash: 'a36004800748'
+srcHash: 'bc34cbb042eb'
 title: 'Mercado de Khlong Toei: Guía de viaje de Bangkok (4,1★)'
 description: 'El mercado de Khlong Toei (Talat Khlong Toei) es el mayor mercado mayorista y minorista de alimentos frescos de Bangkok, abierto las 24 horas del día, todos los días, y se disfruta mejor temprano por la mañana (entre las 5 y las 8 a. m. aproximadamente), cuando los productos están más frescos y los pasillos funcionan sin aglomeraciones. 4,1★ (12.755 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Khlong Toei (Talat Khlong Toei) es el mayor mercado mayorista y minorista de alimentos frescos de Bangkok, abierto las 24 horas del día, todos los días, y se disfruta mejor temprano por la mañana (entre las 5 y las 8 a. m. aproximadamente), cuando los productos están más frescos y los pasillos funcionan sin aglomeraciones. Los fines de semana, conviene evitar ir entre las 4 p. m. y las 11 p. m., cuando la afluencia es máxima. Está justo al lado de la estación de MRT Khlong Toei, así que puedes entrar caminando sin necesidad de taxi.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Es fácil de visitar para turistas sin conocimientos de tailandés?
     a: 'Hay poca señalización en inglés, pero señalar con el dedo, hacer gestos básicos y pagar en efectivo funciona bien: es un mercado de trabajo, no orientado al turismo, así que conviene tener paciencia.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

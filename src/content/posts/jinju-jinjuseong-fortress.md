@@ -95,8 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up from the riverside path and the first thing you see is stone — grey, weathered, stacked in long curving courses that follow the natural bend of the Namgang River rather than fighting it. That's the tell that this wall is old and rebuilt many times: 1,760 meters of it, tracing the original medieval perimeter, with the modern city humming on one side and the slow green water on the other.
 
 Locals just call it Jinjuseong — "seong" simply meaning fortress — and it doesn't need a foreign name to feel monumental.

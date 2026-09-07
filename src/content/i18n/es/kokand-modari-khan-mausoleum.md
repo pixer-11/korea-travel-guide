@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kokand-modari-khan-mausoleum
-srcHash: 'f58b71d75d71'
+srcHash: '3300e47fb0a3'
 title: 'Mausoleo de Modari Khan: guía de viaje de Kokand'
 description: El mausoleo de Modari Khan es una tranquila tumba real del siglo XIX en el extremo norte de Kokand, fácil de combinar con el cercano Palacio de Khudayar Khan en un recorrido de medio día por la ciudad.
 quickAnswer: 'El mausoleo de Modari Khan es una tranquila tumba real del siglo XIX en el extremo norte de Kokand, fácil de combinar con el cercano Palacio de Khudayar Khan en un recorrido de medio día por la ciudad. Basta con 20-30 minutos: casi nunca hay nadie más, así que se puede observar de cerca el trabajo de azulejos sin tener que hacerse hueco entre la gente. Conviene ir en taxi o coche de alquiler, ya que se encuentra en una calle secundaria sin nombre, alejada de la ruta turística principal.'
@@ -17,8 +17,6 @@ faq:
   - q: ¿Suele haber mucha gente?
     a: 'No: es un lugar realmente poco conocido, sin grupos turísticos ni colas, por lo que lo más probable es que tenga el sitio para usted solo a cualquier hora del día.'
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Kokand no anuncia este lugar. Se sale de una tranquila calle residencial hacia un camino sin señalizar, se pasa junto a bajos muros de adobe y algunos albaricoqueros dispersos, y el mausoleo aparece casi sin previo aviso: una estructura achaparrada y abovedada, del color de la tierra cocida, aislada en un terreno abierto.
 

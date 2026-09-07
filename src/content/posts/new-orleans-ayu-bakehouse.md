@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Ayu Bakehouse is worth the detour
 
 You smell it before you see it — browned butter and something faintly floral, maybe pandan or lemongrass, drifting onto Frenchmen Street. Ayu Bakehouse sits a few doors down from the jazz clubs that make this street famous at night, but in the morning it's a different world: quiet, sunlit, smelling like a French patisserie that took a detour through Vietnam.

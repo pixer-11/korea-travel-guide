@@ -39,8 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why the Thai Hua Museum matters
 
 Long before Phuket meant beach resorts, it meant tin. In the 19th century, waves of Hokkien and Teochew Chinese migrants arrived to work the mines, and their descendants built the shophouse-and-mansion architecture that still defines Old Phuket Town. The Thai Hua Museum, housed in a mansion built in 1934 as the Thai Hua School, is the place that explains all of this in one visit — not as a dry history lecture, but through the personal objects, photographs, and trades of the families who shaped the island.

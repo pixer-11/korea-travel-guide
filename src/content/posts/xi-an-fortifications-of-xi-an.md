@@ -39,8 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come up the ramp expecting a ruin and instead find a fully intact rampart wide enough to drive a bus down. That's the first surprise of Xi'an's city wall: it isn't a fragment behind glass, it's a continuous, walkable fortress loop encircling the entire old city, thick grey brick underfoot, crenellations marching off in both directions until they disappear around a curve you can't see the end of.
 
 ## Why it's worth your time

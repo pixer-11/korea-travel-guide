@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kas-lycian-civilization-museum
-srcHash: 'd543ce6134e7'
+srcHash: 'b3cd4e4ab49a'
 title: 'Museo de la Civilización Licia: guía de viaje desde Kas (4,7★)'
 description: 'El Museo de la Civilización Licia se encuentra en Büyükkum, a las afueras de Demre (a una hora aproximadamente de Kas), y abre todos los días de 8:30 a 19:00. 4,7★ (1.913 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de la Civilización Licia se encuentra en Büyükkum, a las afueras de Demre (a una hora aproximadamente de Kas), y abre todos los días de 8:30 a 19:00. Reserve entre 45 y 60 minutos para recorrer esta colección compacta pero muy bien curada de sarcófagos, monedas e inscripciones licias. Conviene ir por la mañana, antes de que lleguen los autobuses turísticos que se dirigen a Myra y a la Iglesia de San Nicolás, ambas cercanas.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se puede combinar con otros lugares cercanos?
     a: 'Sí: las tumbas rupestres de Myra están a unos 5 minutos y la Iglesia de San Nicolás se encuentra en el centro de Demre, lo que permite completar un recorrido natural de medio día.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 La mayoría de los visitantes llega a Demre por la Iglesia de San Nicolás o por las tumbas rupestres de Myra, y el Museo de la Civilización Licia queda casi como algo secundario. Es un error. Se trata de un espacio pequeño y construido con un propósito claro, pero logra algo que los yacimientos al aire libre no pueden: explicar lo que se está viendo.
 

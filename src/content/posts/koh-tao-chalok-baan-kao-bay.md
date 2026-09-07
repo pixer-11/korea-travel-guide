@@ -79,8 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Chalok Baan Kao sits on Koh Tao's southern tip, a shallow curve of sand hemmed in by coconut palms and low limestone headlands. It's calmer than the island's main strip at Sairee Beach, both in the water and in the mood.

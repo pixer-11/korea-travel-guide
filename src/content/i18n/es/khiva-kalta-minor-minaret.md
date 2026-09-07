@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-kalta-minor-minaret
-srcHash: 'fc663e1dc9ef'
+srcHash: '8603444e4e78'
 title: 'Minarete Kalta Minor: Guía de viaje de Jiva (4,8★)'
 description: 'Kalta Minor es el minarete rechoncho de azulejos turquesa que se alza en el casco antiguo de Ichan-Qala, en Jiva; se puede ver desde la calle a cualquier hora y de forma gratuita (la pequeña plaza interior que lo rodea tiene una entrada modesta incluida en el ticket del complejo de Ichan-Qala). 4,8★ (1.447 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Kalta Minor es el minarete rechoncho de azulejos turquesa que se alza en el casco antiguo de Ichan-Qala, en Jiva; se puede ver desde la calle a cualquier hora y de forma gratuita (la pequeña plaza interior que lo rodea tiene una entrada modesta incluida en el ticket del complejo de Ichan-Qala). Conviene ir entre las 7:00 y las 9:00, cuando el patio está casi vacío y el sol bajo resalta los azulejos, y basta con dedicarle entre 20 y 30 minutos antes de seguir explorando el resto del casco antiguo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Con 20 a 30 minutos en el propio minarete es suficiente, aunque si se combina con la vecina ciudadela de Kunya-Ark y la madraza de Muhammad Amin Khan, la visita puede extenderse a una hora completa, o incluso a medio día si se quiere recorrer todo el casco antiguo.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 Lo ves antes de llegar hasta él: un grueso cilindro turquesa que se eleva sobre el perfil de adobe de Ichan-Qala, con un aspecto que recuerda menos a un minarete que a la base de algo que debía seguir creciendo.
 

@@ -51,8 +51,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You feel the shift before you see it. The traffic noise of modern Tashkent falls away as you walk into a wide plaza framed by turquoise domes, and suddenly you're standing somewhere that feels centuries older than the rest of the city.
 
 Hazrati Imam complex is Tashkent's religious center, built around the tomb of Imam al-Bukhari's teacher, Kaffal Shashi. The current ensemble is mostly a 2007 reconstruction, but it's built in the spirit of the older structures it replaced, and it reads as genuinely historic rather than showy.

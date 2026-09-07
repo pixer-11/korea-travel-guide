@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taroko-gorge-silks-place-taroko
-srcHash: 'd283ddb61b9c'
+srcHash: '04c3fd460004'
 title: 'Silks Place Taroko: Guía de viaje del Cañón de Taroko (4.7★)'
 description: Silks Place Taroko es el único hotel de servicio completo dentro del Parque Nacional de Taroko, ubicado en Tianxiang, en lo profundo del cañón junto a la Carretera Transversal Central. 4.7★ (9,318 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Silks Place Taroko es el único hotel de servicio completo dentro del Parque Nacional de Taroko, ubicado en Tianxiang, en lo profundo del cañón junto a la Carretera Transversal Central. Es muy visitado y tiene una calificación alta (4.7 estrellas con más de 9,000 reseñas) por su piscina en la azotea, su spa y sus vistas al cañón de mármol. Reserva con bastante anticipación, especialmente para fines de semana y festivos taiwaneses, ya que las habitaciones son limitadas y la demanda es alta.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor época del año para visitar el Cañón de Taroko?
     a: La primavera y el otoño ofrecen el clima más estable, evitando el riesgo de tifones del verano y los frentes fríos del invierno; los días de semana son más tranquilos que los fines de semana durante todo el año.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se obtienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué alojarse dentro del cañón
 

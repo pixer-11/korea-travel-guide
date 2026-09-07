@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sapporo-hokkaido-jingu
-srcHash: '8ff62a70d8fb'
+srcHash: 'e9b5d15bd8e5'
 title: 'Hokkaido Jingu: guía de viaje de Sapporo (4,6★)'
 description: 'Hokkaido Jingu es un santuario sintoísta situado en Maruyama, en el centro de Sapporo, dentro de los terrenos boscosos del parque Maruyama. 4,6★ (16.327 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Hokkaido Jingu es un santuario sintoísta situado en Maruyama, en el centro de Sapporo, dentro de los terrenos boscosos del parque Maruyama. Abre todos los días de 6:00 a 17:00, y el momento más tranquilo para visitarlo es justo a la apertura entre semana, o entre las 7:00 y las 8:00 los fines de semana, ya que a partir de las 9:00 y hasta las 16:00 se llena rápido de gente. Conviene reservar entre 45 minutos y una hora, más si después se pasea por el parque o se sube al monte Maruyama.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: No, el acceso al recinto del santuario es gratuito; el único gasto sería comprar un amuleto omamori o hacer una ofrenda.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes están licenciadas o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Nada más cruzar el primer torii de Hokkaido Jingu, el ruido de las calles en cuadrícula de Sapporo desaparece casi por completo. Altos árboles de katsura y roble flanquean el camino de acceso, plantados cuando el santuario se fundó en 1869 como santuario guardián de Sapporo, en la recién colonizada isla de Hokkaido. El sendero de grava traza dos curvas antes de que aparezca el salón principal, un trazado deliberado pensado para aminorar el paso y despejar la mente antes de llegar.
 

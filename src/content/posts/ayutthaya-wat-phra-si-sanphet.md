@@ -107,8 +107,6 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see the three chedis before you see anything else. They rise in a line above the treetops as you approach from Naresuan Road, bell-shaped and the color of old terracotta, and it's only once you're through the gate and standing on the open field of the former palace grounds that you understand the scale of what's left. There's no roof, no walls to speak of — just brick platforms, headless Buddha images, and stubs of columns that once held up a royal residence.
 
 That absence is the point. This was the spiritual center of the Ayutthaya Kingdom for four centuries, and what survives is what fire and time couldn't fully erase.

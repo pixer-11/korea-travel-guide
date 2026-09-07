@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-seattle-washington-temple
-srcHash: '254b489b3111'
+srcHash: '7400ae2a2278'
 title: 'Templo de Seattle Washington: Guía de viaje (4,9★)'
 description: 'El Templo de Seattle Washington se encuentra en Bellevue, en el 2808 148th Ave SE, y no en la propia Seattle, así que conviene planear el trayecto en auto o con servicio de transporte privado. 4,9★ (1.791 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo de Seattle Washington se encuentra en Bellevue, en el 2808 148th Ave SE, y no en la propia Seattle, así que conviene planear el trayecto en auto o con servicio de transporte privado. Permanece cerrado los domingos y lunes, y el resto de la semana abre aproximadamente entre las 5:30 o 6:30 a. m. y las 8:15 p. m. Los fines de semana suele haber mucha afluencia entre las 8:00 a. m. y las 8:00 p. m., por lo que las primeras horas de la mañana o una tarde entre semana cerca del cierre suelen ser momentos más tranquilos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Hay que pagar entrada o reservar con anticipación?
     a: No se cobra entrada ni es necesario reservar para recorrer los jardines públicos durante el horario de apertura.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de inteligencia artificial. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Se encuentra en Bellevue, no en Seattle
 

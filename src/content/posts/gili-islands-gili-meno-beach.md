@@ -84,8 +84,6 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 The boat cuts its engine and drifts the last few meters onto sand so pale it looks bleached. No cars honk, no scooters buzz — just the slap of water on the hull and someone raking a beach path with a bamboo broom. This is Gili Meno, the smallest and sleepiest of the three Gili Islands off Lombok's northwest coast.
 
 ## Why Gili Meno beach stands out

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: east-coast-sri-srinivasa-perumal-temple
-srcHash: 'd38b355339c4'
+srcHash: 'c244c6685824'
 title: 'Templo Sri Srinivasa Perumal: Guía de Viaje East Coast (4,8★)'
 description: 'El templo Sri Srinivasa Perumal se encuentra en Serangoon Road, en Little India, y no en la zona de East Coast propiamente dicha, y es uno de los templos hindúes más visitados de Singapur gracias a su imponente rajagopuram de vivos colores. 4,8★ (5.576 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Sri Srinivasa Perumal se encuentra en Serangoon Road, en Little India, y no en la zona de East Coast propiamente dicha, y es uno de los templos hindúes más visitados de Singapur gracias a su imponente rajagopuram de vivos colores. Conviene ir entre las 6:00 y las 12:00 o entre las 18:00 y las 21:00, que es cuando abre, y hay que contar con más afluencia los fines de semana de 8:00 a 21:00. Reserve entre 30 y 45 minutos, más si visita durante la procesión anual de Thaipusam, que comienza aquí.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Se paga entrada?
     a: No, el acceso es gratuito, aunque cerca del santuario principal hay huchas de donativos para quienes deseen contribuir.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Basta con caminar por Serangoon Road desde la estación Little India MRT para que el templo se anuncie mucho antes de llegar a la entrada: un gopuram de cinco niveles repleto de deidades pintadas, escalonado en capas de azul, dorado y rojo que contrastan con el perfil bajo de las shophouses vecinas. Fundado en 1855, está dedicado a Visnú en su forma de Perumal y sigue siendo uno de los templos hindúes más antiguos y activos de Singapur.
 

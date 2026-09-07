@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: katong-east-coast-park
-srcHash: '83325d4413d1'
+srcHash: '0b847fef7877'
 title: 'East Coast Park: Guía de viaje de Katong (4.6★)'
 description: 'East Coast Park es una larga franja de playa ganada al mar, abierta las 24 horas, en la costa sureste de Singapur; se llega mejor desde Katong/Marine Parade y se disfruta mejor en bicicleta, patines o con un plato de cangrejo con chili. 4.6★ (32,156 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: East Coast Park es una larga franja de playa ganada al mar, abierta las 24 horas, en la costa sureste de Singapur; se llega mejor desde Katong/Marine Parade y se disfruta mejor en bicicleta, patines o con un plato de cangrejo con chili. Los fines de semana de mediodía a las 11pm son la hora punta que hay que evitar; mejor ir un día entre semana por la mañana o una noche de semana. Reserva medio día para la playa y el camino de bicicletas, o más si vas a quedarte en uno de los restaurantes de mariscos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Está abierto el parque por la noche?
     a: Sí, East Coast Park está abierto las 24 horas todos los días, y las noches son en realidad uno de los momentos más agradables para visitarlo gracias al aire más fresco y las vistas del atardecer.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

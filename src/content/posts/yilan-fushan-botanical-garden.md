@@ -67,8 +67,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Fushan is worth the paperwork
 
 You don't just show up here. Fushan Botanical Garden sits inside a protected watershed in the mountains above Yilan, and that isolation is exactly why it feels different from any other park in Taiwan.

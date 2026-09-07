@@ -70,8 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You come around a bend near Yeulmaru-ro and the road just opens up: a wide stretch of waterfront, a paved promenade running parallel to the shore, and the kind of horizontal space that's rare in a city as packed into its hills as Yeosu is. Ungcheon Beach Park isn't a dramatic postcard beach. It's a working stretch of civic waterfront, and that's exactly what makes it worth a slow morning walk.
 
 The tide line here is more mudflat and rock than powder sand, but that's part of what locals actually use it for: walking dogs, jogging before work, sitting on a bench with coffee and watching boats move along the coast. At 4.4 stars across more than 2,000 reviews, it's clearly a well-liked fixture of daily life here, not a tourist set piece.

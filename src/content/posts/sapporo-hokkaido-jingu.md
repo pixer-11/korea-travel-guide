@@ -74,8 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Walk through the first torii gate at Hokkaido Jingu and the city noise from Sapporo's grid streets drops away almost immediately. Tall Katsura and oak trees line the approach, planted when the shrine was founded in 1869 as Sapporo's guardian shrine for the newly settled island of Hokkaido. The gravel path bends twice before the main hall comes into view, a deliberate layout meant to slow your steps and clear your head before you arrive.
 
 ## The shrine and its four deities

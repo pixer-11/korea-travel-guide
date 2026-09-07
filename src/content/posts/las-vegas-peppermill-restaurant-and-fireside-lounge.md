@@ -83,8 +83,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come to the Peppermill for the same reason people have come since the late 1970s: it's the last big free-standing coffee shop on the Strip that still feels like Vegas before the mega-resorts swallowed everything. Step off Las Vegas Boulevard, past the fake palm fronds and neon script sign, and the volume drops — the casino-floor clang gives way to dim lighting, mirrored ceilings, and a sunken cocktail lounge built around a fire pit ringed by water.

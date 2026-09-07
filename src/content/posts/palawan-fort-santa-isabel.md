@@ -55,8 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Fort Santa Isabel is one of the oldest Spanish-era structures left standing in Palawan, and almost nobody stops for it. Most travelers barrel past Taytay on the long drive between Puerto Princesa and El Nido. That's their loss.

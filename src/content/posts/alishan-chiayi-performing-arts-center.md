@@ -56,8 +56,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why it's worth a stop
 
 You come around the bend on Jianguo Road and the building just appears — a stack of raw concrete forms, angular and almost brutalist, rising out of a lawn that softens the whole thing.

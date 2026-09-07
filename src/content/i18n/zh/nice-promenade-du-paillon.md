@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nice-promenade-du-paillon
-srcHash: '47e3a57168ac'
+srcHash: 'a2b286534e87'
 title: 帕永大道(Promenade du Paillon):尼斯旅行指南
 description: 帕永大道(Promenade du Paillon)是一条占地12公顷的带状公园，贯穿尼斯市中心，连接马塞纳广场(Place Masséna)与现当代艺术博物馆(MAMAC)及尼斯卫城会展中心(Nice Acropolis)。
 quickAnswer: 帕永大道(Promenade du Paillon)是一条占地12公顷的带状公园，贯穿尼斯市中心，连接马塞纳广场(Place Masséna)与现当代艺术博物馆(MAMAC)及尼斯卫城会展中心(Nice Acropolis)。建议选择早晨或傍晚前来，以避开放学后及周末时段镜面水池和游乐场周围的人潮，全程走完大约需要一小时，若带孩子同行则需更久。这里免费开放、全天无休，非常适合与马塞纳广场上的一杯咖啡，或就近漫步老城区搭配在一起。
@@ -17,8 +17,6 @@ faq:
   - q: 附近还有什么值得一看?
     a: 老城区(Vieux Nice)和萨莱亚市场(Cours Saleya)向东步行几分钟即可到达,MAMAC现代艺术博物馆位于公园北端，而马塞纳广场则是公园南侧入口的地标。
 ---
-
-> **本指南制作方式:** 经编辑审阅、AI辅助完成。事实数据来自谷歌地图(Google Places)实时信息；图片均为授权使用或公共版权。详见我们的[编辑政策](/about)。
 
 ## 为什么要去
 

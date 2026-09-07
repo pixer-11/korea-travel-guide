@@ -50,8 +50,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You feel the history before you read a word of it. Old Ebbitt Grill occupies a cavernous, gaslamp-lit room a block and a half from the White House, all dark mahogany, brass rails, taxidermy heads mounted above the booths, and mirrors gone slightly smoky with age. The place traces its roots to an 1856 boarding-house saloon and has been at this 15th Street address since the 1980s, but the Victorian tavern atmosphere — carved wood bar, marble-top counters, globe lamps — is thick enough that you half expect a senator from a black-and-white photo to slide onto the next stool.

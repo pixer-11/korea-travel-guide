@@ -66,8 +66,6 @@ faq:
     a: Yes — the open plazas, riverside seating, and casual food stalls make it an easy, low-key stop for families, especially in the cooler evening hours.
 aiGenerated: true
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You spot the tower before you spot the town. Kuantan 188 rises above the low rooftops of Jalan Besar, its lattice frame catching the last orange light as the Kuantan River slides past below.
 
 That river is really the point. Kuantan grew up on its banks, and this stretch has been reworked into a promenade of food stalls, open-air seating, and a viewing platform that puts you above the rooftops and out toward the South China Sea.

@@ -99,8 +99,6 @@ draft: false
 updatedDate: '2026-08-23'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why this museum matters
 
 You don't come here for a quick photo. You come because this domed former bazaar holds the finds that define what "Anatolian" even means — nine thousand years of it, arranged room by room from the Stone Age through Rome.

@@ -66,8 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 You see MuCEM before you reach it. The black concrete lace screen wraps the cube-shaped building like a shipping crate dipped in ironwork, and the whole thing seems to float at the edge of the J4 esplanade, sea on three sides. Walk out from the Vieux-Port and the Mediterranean just opens up in front of you — container cranes down the coast, ferries sliding toward Corsica and North Africa, the fort walls of Saint-Jean opposite.
 
 This is Marseille's port announcing itself as a museum, and the building alone justifies the trip before you've bought a ticket.

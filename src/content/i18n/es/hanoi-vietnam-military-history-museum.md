@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-vietnam-military-history-museum
-srcHash: '10232141f73c'
+srcHash: '8d0814ceded7'
 title: 'Museo de Historia Militar de Vietnam: guía de viaje de Hanói (4,5★)'
 description: 'El Museo de Historia Militar de Vietnam se encuentra en su nueva sede del Km6+500, camino a Xuân Phương, al oeste del Casco Antiguo, y abre martes, miércoles, jueves, sábado y domingo de 8:00 a 16:30, permaneciendo cerrado los lunes y viernes. 4,5★ (12.712 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia Militar de Vietnam se encuentra en su nueva sede del Km6+500, camino a Xuân Phương, al oeste del Casco Antiguo, y abre martes, miércoles, jueves, sábado y domingo de 8:00 a 16:30, permaneciendo cerrado los lunes y viernes. Conviene reservar entre dos y tres horas para recorrer tanto el patio exterior con los aviones como las galerías interiores repartidas en varios pisos. Es un museo realmente popular, así que lo mejor es ir a primera hora de la mañana, justo al abrir, para evitar las aglomeraciones de los autobuses turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Por qué es conocido principalmente el museo?
     a: Por su colección exterior de tanques, artillería y aviones, entre ellos un MiG-21 y un llamativo montón de restos de aviones franceses y estadounidenses derribados, además de las galerías interiores que recorren la historia militar de Vietnam desde las antiguas dinastías hasta la guerra de Vietnam.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

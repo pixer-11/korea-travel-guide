@@ -61,8 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Rich Table
 
 You smell it before you see the menu: something rendering in butter, a whiff of char from the open kitchen that runs along one wall like a stage. Rich Table sits on Gough Street at the southern edge of Hayes Valley, in a dining room built from salvaged barn wood — pale, knotted planks on the walls and ceiling that make the space feel like a converted hayloft rather than a restaurant in the middle of a dense San Francisco neighborhood.

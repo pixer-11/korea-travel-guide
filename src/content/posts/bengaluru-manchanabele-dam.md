@@ -53,8 +53,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the view the city doesn't have: still water stretching between low, forested hills, with egrets picking along the shoreline and not a mall in sight. Manchanabele Dam holds back the Arkavathy River, and the reservoir it creates has become one of Bengaluru's default weekend escapes for anyone who wants water and hills without a multi-day trip.

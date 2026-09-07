@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-asian-civilisations-museum
-srcHash: '2c2a6d012457'
+srcHash: 'aeb79b0cc62f'
 title: 'Museo de las Civilizaciones Asiáticas: Guía de Viaje de Singapur (4.6★)'
 description: 'El Museo de las Civilizaciones Asiáticas de Singapur se encuentra justo a orillas del río Singapur, en Empress Place, a pocos pasos del Raffles Landing Site y a poca distancia a pie de la estación Raffles Place MRT. 4.6★ (6.348 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de las Civilizaciones Asiáticas de Singapur se encuentra justo a orillas del río Singapur, en Empress Place, a pocos pasos del Raffles Landing Site y a poca distancia a pie de la estación Raffles Place MRT. Abre todos los días de 10:00 a 19:00 (los viernes hasta las 21:00), y el momento más tranquilo para visitarlo son las mañanas entre semana o el sábado y domingo de 10:00 a 11:00, antes de que se acumule el público de la tarde. Conviene reservar entre dos y tres horas para recorrer bien sus galerías dedicadas al comercio asiático, la fe y la cultura material.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Vale la pena visitarlo en fin de semana?
     a: Sí, pero conviene llegar justo a las 10:00. Es mejor evitar presentarse después de la 13:00 un sábado o domingo, ya que a partir de esa hora se nota más concurrido y así se mantiene hasta la noche.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes están licenciadas o son de dominio público. Consulte nuestra [política editorial](/about).
 
 Al bajar por Empress Place, con el río Singapur a un lado y el antiguo distrito cívico colonial al otro, aparece la larga fachada neoclásica del museo, toda columnas y profundos porches, como si aún esperara la llegada de barcos de carga al puerto. Construido en la década de 1860 como oficina gubernamental, hoy alberga una de las mejores colecciones del sudeste asiático sobre cómo mercancías, dioses e ideas circularon por Asia y terminaron llegando a Singapur.
 

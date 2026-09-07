@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ninh-binh-tam-coc-bich-dong
-srcHash: 'b0d9b738928a'
+srcHash: '1f4ca0afa95f'
 title: 'Tam Coc - Bich Dong: Guía de viaje de Ninh Binh (4.5★)'
 description: Tam Coc - Bich Dong es un sistema fluvial de karst calizo al sur de la ciudad de Ninh Binh donde una barca de remos te lleva por arrozales y tres bajos túneles de cueva; suma el complejo de la pagoda Bich Dong, tallado en un acantilado cercano. 4.5★ (17,936 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Tam Coc - Bich Dong es un sistema fluvial de karst calizo al sur de la ciudad de Ninh Binh donde una barca de remos te lleva por arrozales y tres bajos túneles de cueva; suma el complejo de la pagoda Bich Dong, tallado en un acantilado cercano. Abre todos los días de 7:30am a 5pm, y realmente hay mucha gente, así que ve justo a la apertura o después de las 3pm. Reserva medio día, incluyendo el paseo en barca y una breve caminata o subida en Bich Dong.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuál es la mejor temporada para visitar?
     a: Mayo y junio para ver los arrozales dorados en plena madurez, o primavera y otoño para un clima más fresco. El sitio está abierto todo el año, de 7:30am a 5pm todos los días.
 ---
-
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 

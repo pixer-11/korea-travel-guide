@@ -95,8 +95,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come here for the kind of museum that rewards curiosity rather than punishing it with glass cases and "do not touch" signs. Named after engineer-statesman Sir M. Visvesvaraya, this is Bengaluru's landmark science museum, and it earns its reputation as a family outing rather than a dusty relic.

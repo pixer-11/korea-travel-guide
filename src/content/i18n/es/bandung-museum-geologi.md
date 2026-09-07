@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bandung-museum-geologi
-srcHash: '80d29eee7237'
+srcHash: '7a8643c900fe'
 title: 'Museo Geológico de Bandung: guía de viaje (4.7★)'
 description: 'El Museo Geológico de Bandung (Museum Geologi) está en Jl. Diponegoro, en Cihaur Geulis, a poca distancia en becak o Grab del centro de la ciudad, cerca de Gedung Sate. 4.7★ (18.756 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos.'
 quickAnswer: El Museo Geológico de Bandung (Museum Geologi) está en Jl. Diponegoro, en Cihaur Geulis, a poca distancia en becak o Grab del centro de la ciudad, cerca de Gedung Sate. Abre de 9:00 a 15:00 de lunes a jueves, de 9:00 a 14:00 los fines de semana y permanece cerrado los viernes. Los fines de semana suele haber mucha afluencia durante todo el horario de 9:00 a 14:00, así que lo mejor es ir un día laborable por la mañana. Conviene reservar entre 60 y 90 minutos solo para las salas de fósiles y minerales.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué otros lugares hay cerca para combinar con la visita al museo?
     a: Gedung Sate está justo enfrente, por lo que resulta fácil combinar ambas visitas en una sola salida por la zona de Cibeunying Kaler.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Lo que guarda un salón colonial holandés de 1928
 

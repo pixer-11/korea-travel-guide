@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-cafe-du-monde
-srcHash: 'd5084c977219'
+srcHash: '0db0019f27b2'
 title: Cafe Du Monde:新奥尔良旅行指南
 description: Cafe Du Monde位于法国区(French Quarter)Decatur St 800号，是新奥尔良最早的贝奈特饼配菊苣咖啡老店，每天7:15am开门营业(大多数晚上营业至11pm,周五、周六延长至午夜)。
 quickAnswer: Cafe Du Monde位于法国区(French Quarter)Decatur St 800号，是新奥尔良最早的贝奈特饼配菊苣咖啡老店，每天7:15am开门营业(大多数晚上营业至11pm,周五、周六延长至午夜)。这里几乎总是很忙，所以最清静的时段是刚开门时，或工作日午餐与晚餐高峰之间的下午时段;其他大多数时间都要排队，尤其是周末早上。
@@ -17,8 +17,6 @@ faq:
   - q: 需要提前预订吗?
     a: 不接受预订，采取先到先得制，高峰时段需要排队等候。
 ---
-
-> **本指南制作方式:** 编辑审校、AI辅助完成。事实信息来自Google Places实时数据；图片为授权使用或公共领域素材。详见我们的[编辑政策](/about)。
 
 ## 为什么值得一去
 

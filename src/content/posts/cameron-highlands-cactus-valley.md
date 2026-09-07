@@ -70,8 +70,6 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Cactus Valley is worth the stop
 
 You spot it before you arrive: a hillside stacked with terraces, spiky silhouettes catching the Cameron Highlands light. This isn't a manicured botanical park — it's a working nursery-turned-attraction, and it feels that way the moment you step in.

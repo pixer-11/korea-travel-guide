@@ -44,8 +44,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 Puerto Princesa Subterranean River National Park is one of the few places on earth where a river runs entirely underground before meeting the sea, and it does so inside a limestone karst mountain range that's been quietly forming stalactites for millions of years. A UNESCO World Heritage Site and one of the New7Wonders of Nature, the park draws visitors for a single, specific experience: gliding by paddle-powered boat into total darkness, lamp beam sweeping over cathedral-sized chambers, bats wheeling overhead, and rock formations that guides name for what they resemble — a candle, a cob of corn, the Virgin Mary. It's not a long visit, but it's a genuinely rare one.

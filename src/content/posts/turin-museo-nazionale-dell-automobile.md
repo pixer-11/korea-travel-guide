@@ -68,8 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 MAUTO isn't a shed of shiny cars — it's a design museum that happens to use automobiles as its medium. Turin built the Italian car industry, and this building, opened in 1960 and redone in 2011, tells that story with an eye for staging that rivals any modern art gallery.

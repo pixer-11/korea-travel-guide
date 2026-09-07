@@ -48,8 +48,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Jebel Hafeet is worth the drive
 
 You feel it before you see it: the flat, beige sprawl of Al Ain suddenly interrupted by a limestone massif jutting more than 1,200 metres out of the desert floor. Jebel Hafeet straddles the border between the UAE and Oman, and it's one of the few places in this part of the country where the land actually goes up.

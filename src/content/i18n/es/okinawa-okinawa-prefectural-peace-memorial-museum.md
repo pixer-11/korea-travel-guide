@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-okinawa-prefectural-peace-memorial-museum
-srcHash: '77a56a3ff16f'
+srcHash: '11dc9cc99d47'
 title: 'Museo Memorial de la Paz de la Prefectura de Okinawa: Guía de viaje'
 description: 'El Museo Memorial de la Paz de la Prefectura de Okinawa se encuentra dentro del Parque Memorial de la Paz, en Mabuni, ciudad de Itoman, en el extremo sur de Okinawa, donde tuvieron lugar los últimos combates de la batalla de Okinawa. 4,5★ (2.003 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Memorial de la Paz de la Prefectura de Okinawa se encuentra dentro del Parque Memorial de la Paz, en Mabuni, ciudad de Itoman, en el extremo sur de Okinawa, donde tuvieron lugar los últimos combates de la batalla de Okinawa. Abre todos los días de 9:00 a 17:00, y el momento con menos gente para visitarlo es entre las 9:00 y las 11:00, cualquier día de la semana; los fines de semana se llena entre el mediodía y las 16:00. Conviene reservar al menos dos horas y combinar la visita con el cercano monumento Cornerstone of Peace y el Peace Memorial Hall.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué más merece la pena visitar cerca?
     a: El monumento Cornerstone of Peace y el Peace Memorial Hall se encuentran dentro del mismo parque, a poca distancia caminando. El Museo Himeyuri de la Paz (Himeyuri Peace Museum), que narra la historia de las estudiantes enfermeras reclutadas durante la batalla, está a poca distancia en coche y suele visitarse junto con este museo.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué este lugar importa
 

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: philadelphia-independence-national-historical-park
-srcHash: '8cdfbb1b4615'
+srcHash: 'a37d992002fe'
 title: 独立国立歴史公園:フィラデルフィア旅行ガイド
 description: 独立国立歴史公園(Independence National Historical Park)は、独立記念館(Independence Hall)、自由の鐘センター(Liberty Bell Center)、そしてアメリカ建国の歴史をたどる博物館群が集まる、フィラデルフィアのオールドシティ(Old City)にある20ブロックに及ぶ一帯です。4.6★(26,599件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: 独立国立歴史公園(Independence National Historical Park)は、独立記念館(Independence Hall)、自由の鐘センター(Liberty Bell Center)、そしてアメリカ建国の歴史をたどる博物館群が集まる、フィラデルフィアのオールドシティ(Old City)にある20ブロックに及ぶ一帯です。最低でも半日、独立記念館の見学とフランクリン・コート(Franklin Court)でゆっくり過ごしたいなら丸一日を見ておきましょう。ツアーバスの混雑を避けるには、開園直後か午後3時以降に訪れるのがおすすめです。
@@ -17,8 +17,6 @@ faq:
   - q: 国立憲法センター(National Constitution Center)は公園の一部ですか?
     a: いいえ、モール(mall)を挟んだ向かいにある別の非営利団体の施設です。ただし気軽に立ち寄れる場所で、独立記念館を訪れる前後に見ておくと有用な背景知識が得られます。
 ---
-
-> **このガイドについて:** 編集者による確認とAIによる制作支援を経て作成しています。事実情報はGoogle Placesのライブデータから取得し、画像はライセンス取得済みまたはパブリックドメインのものを使用しています。詳しくは[編集方針](/about)をご覧ください。
 
 マーケット・ストリート(Market Street)を一歩離れると、現代的な街並みがふっと消えていきます。アスファルトの代わりに石畳が現れ、鎧戸のついたレンガ造りのタウンハウスがジョージ王朝様式できちんと並び、その先には白い尖塔を頂いた簡素な赤レンガの塔がそびえています——独立記念館(Independence Hall)です。あの歴史的な出来事の舞台にしては、少し小さすぎるようにさえ見えます。
 

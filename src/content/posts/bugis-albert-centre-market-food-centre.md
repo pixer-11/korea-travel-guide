@@ -94,8 +94,6 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why Albert Centre is worth the detour
 
 You smell it before you see the stalls: charcoal smoke, frying garlic, the sweetness of steamed rice cakes. Albert Centre sits a few minutes' walk from Bugis MRT, wedged between the bustle of Bugis Street market and the quieter stretch along Rochor Canal.

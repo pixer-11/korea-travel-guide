@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-mother-s-restaurant
-srcHash: 'e7857bfbb8de'
+srcHash: '852a7cec6e64'
 title: 'Mother''s Restaurant: dónde comer en Nueva Orleans (4.2★)'
 description: 'Mother''s Restaurant, ubicado en el 401 de Poydras St, en el Distrito Central de Negocios, es una institución de estilo cafetería abierta todos los días de 7:00 a 22:00, famosa por su po'' boy "Ferdi Special" cargado de debris (carne de res y jamón deshebrados) y por su jamón horneado. 4.2★ (17,308 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Mother's Restaurant, ubicado en el 401 de Poydras St, en el Distrito Central de Negocios, es una institución de estilo cafetería abierta todos los días de 7:00 a 22:00, famosa por su po' boy "Ferdi Special" cargado de debris (carne de res y jamón deshebrados) y por su jamón horneado. Conviene ir a las 7:00 en punto para desayunar o durante la calma de media tarde; los fines de semana, de 11:00 a 21:00, se forman las filas más largas hasta la puerta.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto cuesta una comida?
     a: 'Los precios son de rango medio para Nueva Orleans: hay que esperar una comida informal de po'' boy con acompañamientos a precio moderado, más que precios de alta cocina, aunque conviene confirmar los precios vigentes del menú en el lugar.'
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

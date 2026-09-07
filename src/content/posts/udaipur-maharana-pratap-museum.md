@@ -68,8 +68,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 This isn't just a museum — it's the actual ground where Rajasthan's most famous battle happened. Haldighati gets its name from the yellow, turmeric-colored soil underfoot, and standing here, with that ochre earth stretching toward the Aravalli hills, gives the exhibits inside a weight they wouldn't have anywhere else.

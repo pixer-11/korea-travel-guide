@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-national-taiwan-museum
-srcHash: '942fdba2bf8b'
+srcHash: '0241a93de286'
 title: 'Museo Nacional de Taiwán: guía de viaje de Taipéi (4,6★)'
 description: 'El Museo Nacional de Taiwán se encuentra en el Parque Conmemorativo de la Paz 228, a dos minutos a pie de la estación de metro NTU Hospital (Línea Roja, salida 1). 4,6★ (13.710 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Taiwán se encuentra en el Parque Conmemorativo de la Paz 228, a dos minutos a pie de la estación de metro NTU Hospital (Línea Roja, salida 1). Abre de martes a domingo, de 9:30 a 17:00, y cierra los lunes. Conviene reservar una o dos horas para recorrer el edificio de cúpula de 1915 y sus exposiciones de historia natural y cultura indígena formosana, e ir justo a la apertura o después de las 15:00 para evitar los grupos turísticos.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué hay cerca para dedicarle media jornada?
     a: El Parque Conmemorativo de la Paz 228 rodea el museo, y tanto el Land Bank Exhibition Hall como el Edificio de la Oficina Presidencial quedan a poca distancia caminando.
 ---
-
-> **Cómo se elaboró esta guía:** revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 

@@ -85,8 +85,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You spot the tower long before you reach it. Its curved glass skin, dotted with thousands of colored panels, catches the light differently every hour — muted silver at midday, a deep blue-violet glow after dark. The Mirador Torre Glòries puts you on an open-air deck near the top of that skin, 125 meters above the Plaça de les Glòries Catalanes, with a 360-degree sweep that takes in Sagrada Família's spires, the Mediterranean, and the grid of the Eixample laid out like a circuit board.

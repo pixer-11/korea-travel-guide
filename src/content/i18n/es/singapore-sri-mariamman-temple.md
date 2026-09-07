@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-sri-mariamman-temple
-srcHash: 'b615dde5ceb5'
+srcHash: '2cbb8cbec4b2'
 title: 'Templo Sri Mariamman: Guía de viaje de Singapur (4,5★)'
 description: 'El templo Sri Mariamman, en el barrio chino (Chinatown) de Singapur, es el templo hindú más antiguo de la ciudad, construido en 1827. Abre a diario de 6:00 a 12:00 y de 18:00 a 21:00. 4,5★ (5.829 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El templo Sri Mariamman, en el barrio chino (Chinatown) de Singapur, es el templo hindú más antiguo de la ciudad, construido en 1827, y abre a diario de 6:00 a 12:00 y de 18:00 a 21:00. Se encuentra en South Bridge Road, a poca distancia a pie de la estación Chinatown MRT, y lo mejor es visitarlo a primera hora de la mañana, antes de que aprieten el calor y las multitudes. Allí encontrarás la torre gopuram, la entrada descalzo obligatoria y un santuario realmente activo, no una pieza de museo.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: Calcula entre 20 y 30 minutos para una visita sencilla, o hasta 45 minutos si quieres observar con detenimiento las tallas del gopuram y los santuarios interiores.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El templo Sri Mariamman se anuncia antes de llegar a él: una torre gopuram de cinco niveles se alza sobre South Bridge Road, repleta de cientos de deidades pintadas en rojos, dorados y turquesas. Es un estallido de color frente a los tejados de las shophouses del barrio chino (Chinatown), y la impresión no disminuye a medida que uno se acerca, más bien al contrario.
 

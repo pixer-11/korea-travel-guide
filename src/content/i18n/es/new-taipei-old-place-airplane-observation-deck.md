@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-old-place-airplane-observation-deck
-srcHash: '2a125acba210'
+srcHash: '7f332d22bc99'
 title: 'Mirador de Aviones Old Place: Guía de Viaje de Nueva Taipéi'
 description: 'El Mirador de Aviones Old Place (老地方看飛機觀景台) se alza sobre Jiantan, en la Ruta de Senderismo de Jiantanshan, dentro del distrito de Zhongshan en Taipéi. Aunque técnicamente queda fuera del centro de Nueva Taipéi, combina de forma natural con una excursión de un día. 4.6★ (4.735 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mirador de Aviones Old Place (老地方看飛機觀景台) se alza sobre Jiantan, en la Ruta de Senderismo de Jiantanshan, dentro del distrito de Zhongshan en Taipéi. Aunque técnicamente queda fuera del centro de Nueva Taipéi, combina de forma natural con una excursión de un día. Está abierto las 24 horas, pero el mejor momento para disfrutarlo —cuando los aviones descienden hacia el Aeropuerto de Songshan con la Torre Taipéi 101 iluminada de fondo— es durante la hora dorada o después del anochecer. Los fines de semana, de 7 a.m. a 6 p.m., el lugar se llena, así que conviene subir un día entre semana por la tarde-noche.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Cuánto tiempo debo reservar para la visita?
     a: 'Conviene calcular entre 1.5 y 2 horas en total: de 20 a 30 minutos de subida, un rato en el mirador para ver algunos vuelos, y el descenso de regreso a la Estación Jiantan.'
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 El mirador se anuncia antes de verse: tierra húmeda, hojas trituradas, ese aroma mineral propio de un bosque de ladera que nunca termina de secarse. El sendero de Jiantanshan asciende entre esos olores en una serie de zigzags, con el zumbido constante de las cigarras en lo alto, hasta que de pronto los árboles se abren y toda la cuenca de Taipéi se despliega frente a quien camina.
 

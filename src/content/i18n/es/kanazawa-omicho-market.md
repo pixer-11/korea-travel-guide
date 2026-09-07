@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-omicho-market
-srcHash: '20787ba4d49d'
+srcHash: 'bfd43215c7d8'
 title: 'Mercado de Omicho: Guía de Viaje de Kanazawa (4.0★)'
 description: 'El mercado de Omicho, en pleno centro de Kanazawa, abre todos los días de 9:00 a 17:00, y al tratarse de un lugar muy visitado —nada de secreto escondido—, el truco está en calcular bien la hora de llegada, justo a la apertura. 4.0★ (19,332 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Omicho, en pleno centro de Kanazawa, abre todos los días de 9:00 a 17:00, y al tratarse de un lugar muy visitado —nada de secreto escondido—, el truco está en calcular bien la hora de llegada, justo a la apertura. Conviene presentarse cuando suben las persianas, en vez de entre las 11:00 y las 15:00 los fines de semana, cuando los pasillos cubiertos se llenan de turistas hombro con hombro en busca de cuencos de cangrejo y erizo de mar. Calcule una hora para recorrerlo, y más si se sienta a desayunar un bol de arroz con marisco.
@@ -17,8 +17,6 @@ faq:
   - q: ¿Qué se debe comer en el mercado de Omicho?
     a: Vale la pena probar el kaisendon (bol de arroz con marisco), las ostras recién abiertas, el nodoguro (perca del Pacífico de garganta negra) y las verduras Kaga, propias de la región de Kanazawa.
 ---
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué vale la pena desviarse hasta el mercado de Omicho
 

@@ -71,8 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 Royal Independence Gardens sits right on the airport road, a green buffer of shade trees and lily ponds that most visitors drive past without stopping. That's a mistake.
 
 As you step off the noisy tarmac of National Route 6, the traffic hum drops away almost immediately. Frangipani trees drop white blossoms onto the paths, monks in saffron robes cross between shrines, and the air smells faintly of lotus and cut grass. It's a pocket of calm between the airport and the temples.

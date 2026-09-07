@@ -52,8 +52,6 @@ aiGenerated: true
 draft: false
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
-
 ## Why go
 
 You come up out of the metro and the light changes first — the street narrows, then suddenly opens, and there it is: the Duomo's facade, white and grey-veined marble stacked with spires, saints, and gargoyles, over three thousand statues in total if you believe the guides (and it's roughly true). Piazza del Duomo isn't a quiet monument you admire from a distance; it's Milan's living room, ringed by pigeons, street performers, gelato carts, and the constant low hum of a city that never quite stops moving through it.
