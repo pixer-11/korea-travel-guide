@@ -89,7 +89,15 @@ const ogPhoto = pickOgPhoto(data.topVenues);
 // while it stops competing for crawl budget. astro.config.mjs excludes the
 // same slug from the sitemap using the identical predicate imported from
 // thin-page-policy.mjs, so the two can't drift apart.
-const monthNoindex = !isIndexableMonthPage(monthPageSignals(data));
+//
+// Computed ONCE here and reused below for the holidays/events section
+// conditions (2026-09-07) — those two `.length > 0` checks used to be
+// re-typed inline at each section, which is the exact shape that let
+// slugify and isRecurringEvent drift into two disagreeing copies elsewhere
+// in this repo. monthPageSignals() is the one place that reads `data` this
+// way now.
+const { hasHolidays, hasEvents } = monthPageSignals(data);
+const monthNoindex = !isIndexableMonthPage({ hasHolidays, hasEvents });
 
 ---
 
@@ -130,7 +138,7 @@ const monthNoindex = !isIndexableMonthPage(monthPageSignals(data));
 
     <section class="wtg-hol">
       <h2>{fill('wtg.holidays', { month: thisMonth })}</h2>
-      {data.holidays.length > 0 ? (
+      {hasHolidays ? (
         <>
           <p class="section-dek">{t('wtg.holidaysDek')}</p>
           <ul class="wtg-list">
@@ -152,7 +160,7 @@ const monthNoindex = !isIndexableMonthPage(monthPageSignals(data));
       </p>
     </section>
 
-    {(data.events.length > 0 || (data.eventPosts?.length ?? 0) > 0) && (
+    {hasEvents && (
       <section class="wtg-ev">
         <h2>{fill('wtg.events', { month: thisMonth })}</h2>
         <ul class="wtg-list">
