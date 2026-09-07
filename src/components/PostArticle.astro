@@ -14,6 +14,7 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
+import { eventLocation } from '../lib/eventLocation.mjs';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
 import { resolveBusyness } from '../lib/busyness.mjs';
 import { hotellookUrl } from '../lib/hotellook.mjs';
@@ -461,11 +462,7 @@ if (d.category === 'event' && d.eventStartDate) {
     // event with a stored eventVenue used to tell search engines its location
     // was a place named after the city — "Austin" for Circuit of the Americas
     // (2026-09-02).
-    location: {
-      '@type': 'Place',
-      name: d.eventVenue || d.region,
-      address: { '@type': 'PostalAddress', addressLocality: d.region, ...(countryISO && { addressCountry: countryISO }) },
-    },
+    location: eventLocation({ venue: d.eventVenue, region: d.region, countryISO }),
     ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
     description: description,
     // Organizer only when it is the REAL one, verified and stored in the
