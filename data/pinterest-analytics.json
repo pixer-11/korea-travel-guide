@@ -13,12 +13,19 @@
    "impressions": 166,
    "saves": 0,
    "outboundClicks": 2
+  },
+  {
+   "at": "2026-09-07",
+   "pins": 107,
+   "impressions": 219,
+   "saves": 0,
+   "outboundClicks": 2
   }
  ],
- "at": "2026-08-31T06:02:13.898Z",
+ "at": "2026-09-07T05:10:32.400Z",
  "window": {
-  "start": "2026-08-01",
-  "end": "2026-08-31"
+  "start": "2026-08-08",
+  "end": "2026-09-07"
  },
  "pins": [
   {
@@ -36,7 +43,7 @@
    "pinId": "1103100502523683749",
    "country": "South Korea",
    "category": "attraction",
-   "impressions": 32,
+   "impressions": 39,
    "saves": 0,
    "pinClicks": 1,
    "outboundClicks": 1
@@ -56,7 +63,7 @@
    "pinId": "1103100502523766821",
    "country": "Thailand",
    "category": "attraction",
-   "impressions": 5,
+   "impressions": 6,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -86,7 +93,7 @@
    "pinId": "1103100502523894543",
    "country": "South Korea",
    "category": "hidden-gem",
-   "impressions": 8,
+   "impressions": 10,
    "saves": 0,
    "pinClicks": 1,
    "outboundClicks": 0
@@ -106,7 +113,7 @@
    "pinId": "1103100502523972471",
    "country": "China",
    "category": "attraction",
-   "impressions": 34,
+   "impressions": 42,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -126,7 +133,7 @@
    "pinId": "1103100502524049921",
    "country": "Thailand",
    "category": "attraction",
-   "impressions": 4,
+   "impressions": 5,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -146,7 +153,7 @@
    "pinId": "1103100502524129697",
    "country": "Spain",
    "category": "event",
-   "impressions": 6,
+   "impressions": 10,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -156,7 +163,7 @@
    "pinId": "1103100502524494994",
    "country": "Philippines",
    "category": "event",
-   "impressions": 1,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -166,7 +173,7 @@
    "pinId": "1103100502524537492",
    "country": "France",
    "category": "event",
-   "impressions": 1,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -306,7 +313,7 @@
    "pinId": "1103100502524854815",
    "country": "United States",
    "category": "event",
-   "impressions": 1,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -416,7 +423,7 @@
    "pinId": "1103100502525108289",
    "country": "South Korea",
    "category": "attraction",
-   "impressions": 0,
+   "impressions": 4,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -426,7 +433,7 @@
    "pinId": "1103100502525108290",
    "country": "South Korea",
    "category": "hidden-gem",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -466,7 +473,7 @@
    "pinId": "1103100502525208472",
    "country": "Thailand",
    "category": "event",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -596,9 +603,9 @@
    "pinId": "1103100502525352786",
    "country": "Japan",
    "category": "attraction",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
-   "pinClicks": 0,
+   "pinClicks": 1,
    "outboundClicks": 0
   },
   {
@@ -622,148 +629,78 @@
    "outboundClicks": 0
   },
   {
-   "slug": "krabi-railay-beach",
-   "pinId": "1103100502525374131",
-   "country": "Thailand",
+   "slug": "new-york-statue-of-liberty",
+   "pinId": "1103100502525669602",
+   "country": "United States",
    "category": "attraction",
-   "impressions": 0,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "kyoto-arashiyama-bamboo-forest",
-   "pinId": "1103100502525374132",
-   "country": "Japan",
+   "slug": "nice-promenade-des-anglais",
+   "pinId": "1103100502525669606",
+   "country": "France",
    "category": "attraction",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "kyoto-fushimi-inari-taisha",
-   "pinId": "1103100502525377285",
-   "country": "Japan",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae",
-   "pinId": "1103100502525377287",
+   "slug": "okinawa-chatan-steam-seafood",
+   "pinId": "1103100502525669610",
    "country": "Japan",
    "category": "restaurant",
-   "impressions": 0,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "kyoto-kinkaku-ji",
-   "pinId": "1103100502525377291",
+   "slug": "okinawa-okinawa-world",
+   "pinId": "1103100502525710868",
    "country": "Japan",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "las-vegas-las-vegas-strip",
-   "pinId": "1103100502525410635",
-   "country": "United States",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "los-angeles-griffith-observatory",
-   "pinId": "1103100502525410636",
-   "country": "United States",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "lyon-vieux-lyon",
-   "pinId": "1103100502525410637",
-   "country": "France",
    "category": "hidden-gem",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "madrid-museo-nacional-del-prado",
-   "pinId": "1103100502525458081",
-   "country": "Spain",
+   "slug": "okinawa-southeast-botanical-gardens",
+   "pinId": "1103100502525710870",
+   "country": "Japan",
    "category": "attraction",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "marseille-notre-dame-de-la-garde",
-   "pinId": "1103100502525458084",
-   "country": "France",
-   "category": "attraction",
-   "impressions": 0,
+   "slug": "okinawa-zhyvago-coffee-works-okinawa",
+   "pinId": "1103100502525710872",
+   "country": "Japan",
+   "category": "trendy",
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
   },
   {
-   "slug": "miami-vizcaya-museum-gardens",
-   "pinId": "1103100502525458085",
-   "country": "United States",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "phuket-phuket-vegetarian-festival",
-   "pinId": "1103100502525503317",
-   "country": "Thailand",
-   "category": "event",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "milan-duomo-di-milano",
-   "pinId": "1103100502525503319",
-   "country": "Italy",
-   "category": "attraction",
-   "impressions": 0,
-   "saves": 0,
-   "pinClicks": 0,
-   "outboundClicks": 0
-  },
-  {
-   "slug": "nagoya-atsuta-horaiken-honten",
-   "pinId": "1103100502525503321",
+   "slug": "osaka-dotonbori",
+   "pinId": "1103100502525710874",
    "country": "Japan",
    "category": "restaurant",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
-   "pinClicks": 0,
+   "pinClicks": 1,
    "outboundClicks": 0
   },
   {
-   "slug": "nagoya-glitch-coffee-roasters-nagoya",
-   "pinId": "1103100502525550769",
+   "slug": "osaka-lilo-coffee-roasters",
+   "pinId": "1103100502525746951",
    "country": "Japan",
    "category": "trendy",
    "impressions": 0,
@@ -772,9 +709,227 @@
    "outboundClicks": 0
   },
   {
-   "slug": "nagoya-noritake-garden",
-   "pinId": "1103100502525550772",
+   "slug": "osaka-osaka-castle",
+   "pinId": "1103100502525746952",
    "country": "Japan",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "paju-the-third-tunnel",
+   "pinId": "1103100502525746955",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "paris-eiffel-tower",
+   "pinId": "1103100502525746956",
+   "country": "France",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "singapore-bigbang-xx-cosmos-world-tour",
+   "pinId": "1103100502525791089",
+   "country": "Singapore",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tangerang-indonesia-comic-con-2026",
+   "pinId": "1103100502525791091",
+   "country": "Indonesia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "phuket-the-big-buddha-phuket",
+   "pinId": "1103100502525791092",
+   "country": "Thailand",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "provence-lavender-fields",
+   "pinId": "1103100502525791093",
+   "country": "France",
+   "category": "attraction",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "rome-colosseum",
+   "pinId": "1103100502525825012",
+   "country": "Italy",
+   "category": "attraction",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "san-francisco-golden-gate-bridge",
+   "pinId": "1103100502525825016",
+   "country": "United States",
+   "category": "attraction",
+   "impressions": 2,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "san-sebastian-bar-txepetxa",
+   "pinId": "1103100502525825018",
+   "country": "Spain",
+   "category": "restaurant",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "sapporo-mermaid-coffee-roasters",
+   "pinId": "1103100502525825021",
+   "country": "Japan",
+   "category": "trendy",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "sapporo-sapporo-tv-tower",
+   "pinId": "1103100502525870530",
+   "country": "Japan",
+   "category": "attraction",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "sapporo-shiroi-koibito-park",
+   "pinId": "1103100502525870531",
+   "country": "Japan",
+   "category": "hidden-gem",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seattle-pike-place-market",
+   "pinId": "1103100502525870536",
+   "country": "United States",
+   "category": "restaurant",
+   "impressions": 2,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seoul-eid-halal-korean-food",
+   "pinId": "1103100502525870538",
+   "country": "South Korea",
+   "category": "restaurant",
+   "impressions": 1,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seoul-gyeongbokgung-palace",
+   "pinId": "1103100502525909594",
+   "country": "South Korea",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seoul-plant-cafe-seoul-yeonnam",
+   "pinId": "1103100502525909597",
+   "country": "South Korea",
+   "category": "trendy",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seoul-sanchon",
+   "pinId": "1103100502525909598",
+   "country": "South Korea",
+   "category": "restaurant",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seville-royal-alcazar-of-seville",
+   "pinId": "1103100502525909600",
+   "country": "Spain",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "shanghai-the-bund",
+   "pinId": "1103100502525957174",
+   "country": "China",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "sokcho-seoraksan-cable-car",
+   "pinId": "1103100502525957175",
+   "country": "South Korea",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "strasbourg-christmas-in-alsace",
+   "pinId": "1103100502525957178",
+   "country": "France",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "suncheon-nagan-eupseong-folk-village",
+   "pinId": "1103100502525957180",
    "category": "hidden-gem",
    "impressions": 0,
    "saves": 0,
@@ -782,9 +937,158 @@
    "outboundClicks": 0
   },
   {
-   "slug": "nagoya-oasis-21",
-   "pinId": "1103100502525550775",
+   "slug": "suwon-yeonmudae-dongjangdae-eastern-command-post",
+   "pinId": "1103100502525999367",
+   "country": "South Korea",
+   "category": "hidden-gem",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "suzhou-classical-gardens-of-suzhou",
+   "pinId": "1103100502525999371",
+   "country": "China",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-fish-market-tsukiji-outer-market",
+   "pinId": "1103100502525999374",
    "country": "Japan",
+   "category": "restaurant",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-meiji-jingu",
+   "pinId": "1103100502525999377",
+   "country": "Japan",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-senso-ji",
+   "pinId": "1103100502526045627",
+   "country": "Japan",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-shibuya-crossing",
+   "pinId": "1103100502526045628",
+   "country": "Japan",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-teamlab-planets-tokyo-dmm",
+   "pinId": "1103100502526045631",
+   "country": "Japan",
+   "category": "trendy",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tokyo-tokyo-tower",
+   "pinId": "1103100502526045633",
+   "country": "Japan",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "tongyeong-tongyeong-cablecar-skywalk",
+   "pinId": "1103100502526084582",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "valencia-ciudad-de-las-artes-y-las-ciencias",
+   "pinId": "1103100502526084583",
+   "country": "Spain",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "venice-piazza-san-marco",
+   "pinId": "1103100502526084586",
+   "country": "Italy",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "xian-emperor-qinshihuang-s-mausoleum-site-museum",
+   "pinId": "1103100502526084587",
+   "country": "China",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "yeosu-keunkkeut-lighthouse",
+   "pinId": "1103100502526131694",
+   "country": "South Korea",
+   "category": "hidden-gem",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "boryeong-mud-festival",
+   "pinId": "1103100502526131697",
+   "country": "South Korea",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "busan-cheongsapo",
+   "pinId": "1103100502526131699",
+   "country": "South Korea",
+   "category": "trendy",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "busan-haeundae",
+   "pinId": "1103100502526131702",
+   "country": "South Korea",
    "category": "attraction",
    "impressions": 0,
    "saves": 0,
