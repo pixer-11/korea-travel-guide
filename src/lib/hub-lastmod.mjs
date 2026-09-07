@@ -16,8 +16,17 @@
 // src/lib/slug.ts and astro.config.mjs delegate to the same module.
 import { readFileSync } from 'node:fs';
 import { slugify } from '../../scripts/lib/slugify.mjs';
+import { MONTH_SLUGS } from './when-to-go.mjs';
 
-const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december'];
+// The month-slug list used to be re-typed here as `MONTHS` — a second copy of
+// the exact twelve strings when-to-go.mjs already exports as MONTH_SLUGS, and
+// a name that collided with when-to-go.mjs's OWN `MONTHS` (the numbers 1-12),
+// both imported into astro.config.mjs's module scope. 2026-09-07: the same
+// shape had already produced two real bugs this week — a re-inlined `slugify`
+// that drifted for accented region names (fixed in be40164d6, see the comment
+// above), and a re-inlined `isRecurringEvent` that let the sitemap and the
+// page disagree. The two month lists were still identical when this was
+// caught; importing the one definition closes the gap before it opens one.
 
 // Country → continent, read from the same file the continent route reads. A
 // continent hub is a grid of its countries WITH THEIR POST COUNTS, so publishing
@@ -54,7 +63,7 @@ export function hubPathsFor(post) {
     // A month page shows the events falling in THAT month. One month, not twelve.
     if (post.eventStartDate) {
       const m = new Date(post.eventStartDate).getUTCMonth();
-      if (Number.isInteger(m) && MONTHS[m]) out.push(`/tools/when-to-go/${countrySlug}/${MONTHS[m]}`);
+      if (Number.isInteger(m) && MONTH_SLUGS[m]) out.push(`/tools/when-to-go/${countrySlug}/${MONTH_SLUGS[m]}`);
     }
   }
 
