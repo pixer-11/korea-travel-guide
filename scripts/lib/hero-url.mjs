@@ -20,6 +20,7 @@
 // same way — one juror, not two.
 import matter from 'gray-matter';
 import { photoIdentity } from './photo-verdict.mjs';
+import { dateKey } from './date-key.mjs';
 
 /** Hero image URL of a post's raw file text, or null. */
 export function heroUrlOf(src) {
@@ -112,7 +113,12 @@ export function unmarkUsedImage(used, url) {
  * @param {{slug: string, pubDate?: unknown}[]} owners
  */
 export function heroKeeper(owners) {
-  const day = (p) => (p?.pubDate instanceof Date ? p.pubDate.toISOString().slice(0, 10) : String(p?.pubDate || ''));
+  // This was the only one of the repo's three hand-written "a Date or a string"
+  // date keys that got it right, but it compared a Date sliced to the DAY
+  // against a raw ISO string, so a bare-YAML twin beat a quoted one published
+  // hours earlier the same day. dateKey normalises both to full ISO. Measured
+  // 2026-09-07 over every duplicate-hero group in the corpus: zero keepers
+  // change, so this is the sweep, not a behaviour change.
   return [...(owners || [])].sort((a, b) =>
-    day(a).localeCompare(day(b)) || String(a?.slug || '').localeCompare(String(b?.slug || '')))[0] || null;
+    dateKey(a?.pubDate).localeCompare(dateKey(b?.pubDate)) || String(a?.slug || '').localeCompare(String(b?.slug || '')))[0] || null;
 }

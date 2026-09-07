@@ -22,6 +22,7 @@ import matter from 'gray-matter';
 import sharp from 'sharp';
 import { getAccessToken } from './lib/pinterest-token.mjs';
 import { imageFetch } from './lib/image-fetch.mjs';
+import { dateKey } from './lib/date-key.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -242,7 +243,11 @@ async function main() {
     const days = (new Date(start) - new Date(today)) / 864e5;
     return days >= 30 && days <= 150 ? 1 : 0;
   };
-  posts.sort((a, b) => seasonScore(b) - seasonScore(a) || String(b.pubDate).localeCompare(String(a.pubDate)));
+  // dateKey, not String(): gray-matter hands back a Date for the 118 posts whose
+  // pubDate is unquoted in YAML and a string for the other 1,290, so a bare
+  // String() compared "Sun Jul 26 2026 …" against "2026-08-01T…" and queued
+  // those 118 by the English name of their weekday (found 2026-09-07).
+  posts.sort((a, b) => seasonScore(b) - seasonScore(a) || dateKey(b.pubDate).localeCompare(dateKey(a.pubDate)));
 
   // One magnet pin per run takes the first slot while unpinned targets remain.
   state.magnetPinned = state.magnetPinned || {};

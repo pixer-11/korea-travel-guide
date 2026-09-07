@@ -17,6 +17,7 @@
 // in the config would be the fourth-copy mistake that left three region hubs
 // dated at a URL no route builds (2026-09-07).
 import { slugify } from '../../scripts/lib/slugify.mjs';
+import { dateKey } from '../../scripts/lib/date-key.mjs';
 
 const NEAR_KM = 140;
 const MIN_ANCHOR_POSTS = 6;
@@ -85,8 +86,14 @@ export function computeDayTrips(posts) {
       if (om.count < MIN_NEIGHBOR_POSTS) continue;
       const km = distKm(m, om);
       if (km < 8 || km > NEAR_KM) continue; // <8km is the same urban area, not a trip
+      // Attractions first, then newest. The tie-break used to be
+      // String(pubDate).localeCompare, and z.coerce.date() makes pubDate a Date
+      // — so it compared "Sun Jul 26 2026 …" against "Mon Aug 03 2026 …" and
+      // ordered the cards by the ENGLISH NAME OF THE WEEKDAY. 26 of the 27 hubs
+      // were mis-ordered and ten cards showed an older guide than they should
+      // have (measured 2026-09-07). dateKey normalises both YAML spellings.
       const list = [...byRegion.get(other)]
-        .sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5) || String(b.data.pubDate).localeCompare(String(a.data.pubDate)))
+        .sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5) || dateKey(b.data.pubDate).localeCompare(dateKey(a.data.pubDate)))
         .slice(0, MAX_POSTS_PER_NEIGHBOR);
       neighbors.push({ region: other, km: Math.round(km), posts: list, total: om.count });
     }
