@@ -1,10 +1,10 @@
 {
  "ko/aberdeen-aberdeen-promenade": {
-  "hash": "5f4d9306fab9",
+  "hash": "f0d0eb8600cf",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳을 찾는 이유는 공원 자체가 아니라 바로 그 물 때문입니다.",
-  "at": "2026-08-17T08:38:01.033Z"
+  "worst": "산책로 자체보다 배들과 새들을 구경하는 것이 진짜 볼거리입니다.",
+  "at": "2026-09-07T10:45:34.088Z"
  },
  "ko/abu-dhabi-3fils-abu-dhabi": {
   "hash": "5662e0fd5a0c",
@@ -14,18 +14,11 @@
   "at": "2026-08-17T08:38:02.387Z"
  },
  "ko/aberdeen-ocean-park": {
-  "hash": "39b2f274d26e",
+  "hash": "48ab46499f30",
   "score": 1,
   "registerBreak": false,
-  "worst": "아래쪽 항구에서 올라오는 짠내와 함께 공기는 한층 습하고 짙어집니다.",
-  "at": "2026-08-23T08:55:12.516Z"
- },
- "ko/abu-dhabi-christina-aguilera-live": {
-  "hash": "b6343fdbe02e",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "공연 후 퇴장 혼잡을 피할 수 있다는 점에서 공연 당일 밤에는 이 정도의 추가 비용을 감수할 만한 가치가 있습니다.",
-  "at": "2026-08-15T05:59:54.591Z"
+  "worst": "머리 위로는 케이블카가 소리 없이 산비탈을 타고 올라가며, 저 멀리 홍콩의 스카이라인이 눈에 들어옵니다.",
+  "at": "2026-09-07T10:45:36.631Z"
  },
  "ko/abu-dhabi-qasr-al-hosn": {
   "hash": "01d413045623",
@@ -35,25 +28,25 @@
   "at": "2026-08-17T08:38:05.067Z"
  },
  "ko/abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr": {
-  "hash": "bcfc9f29a399",
+  "hash": "28abd1579786",
   "score": 1,
   "registerBreak": false,
-  "worst": "미국 밖에서 열리는 이 정도 수준의 205파운드급 경기는 열성 팬들에게는 놓칠 수 없는 카드이며...",
-  "at": "2026-09-03T10:52:39.615Z"
+  "worst": "미국 밖에서 열리는 이 정도 수준의 205파운드급 경기는 골수 팬들에게 진짜 볼거리이며, 여기에...",
+  "at": "2026-09-07T10:45:38.393Z"
  },
  "ko/agra-agra-fort": {
-  "hash": "de8fcf6d5ddc",
+  "hash": "09a13687a514",
   "score": 1,
   "registerBreak": false,
-  "worst": "성에서 타지마할로 이어지는 그 한 줄기 시선만으로도 입장료가 아깝지 않습니다.",
-  "at": "2026-08-17T08:38:04.784Z"
+  "worst": "타지마할은 대리석을 보러 가는 곳이지만, 아그라 성은 이야기를 보러 가는 곳입니다.",
+  "at": "2026-09-07T10:45:38.290Z"
  },
  "ko/agra-itmad-ud-daula": {
-  "hash": "22ad68a18d10",
+  "hash": "a57c0f8e776f",
   "score": 1,
   "registerBreak": false,
-  "worst": "즉 강이 다르기 때문에 잠깐이면 갈 수 있을 거라 생각하지 말고 두 곳 사이 이동 시간을 넉넉히 잡아야 합니다.",
-  "at": "2026-08-17T08:38:09.930Z"
+  "worst": "이 무덤은 1622년부터 1628년 사이에, 자한기르 황제의 왕비인 누르 자한(Nur Jahan)이 자신의 아버지이자 \"국가의 기둥\"이라는",
+  "at": "2026-09-07T10:45:39.446Z"
  },
  "ko/abu-dhabi-art-house-cafe": {
   "hash": "9e53e0515d5e",
@@ -91,32 +84,25 @@
   "at": "2026-08-17T08:38:14.599Z"
  },
  "ko/alanya-alanya-castle": {
-  "hash": "932b9a6f0632",
+  "hash": "30e986152f64",
   "score": 1,
   "registerBreak": false,
-  "worst": "부지가 넓고, 길은 고르지 않은 자갈과 흙길이며, 여름철 한낮에는 더위가 상당히 매섭습니다.",
-  "at": "2026-08-17T08:38:14.815Z"
+  "worst": "이렇게 하면 오르는 데 다리를 쓰지 않고 내부를 걸어다닐 힘을 아낄 수 있습니다.",
+  "at": "2026-09-07T10:45:50.138Z"
  },
  "ko/alcaniz-motogp-aragon-grand-prix": {
-  "hash": "a92768b834f4",
+  "hash": "82498c82ab38",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 흔히 하는 실수 중 하나는 이 대회를 하루짜리 이벤트로만 생각하는 것입니다.",
-  "at": "2026-08-31T12:53:10.479Z"
+  "worst": "모터랜드 아라곤 자체는 A-222번 도로를 타고 시내에서 약 6km 떨어진 곳에 있습니다.",
+  "at": "2026-09-07T10:45:49.764Z"
  },
  "ko/alanya-damlatas-cave": {
-  "hash": "7cda886345b3",
+  "hash": "7d342e2b75f9",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 동굴은 단순한 사진 명소가 아니라 진짜로 호흡기 휴식처라는 명성을 가지고 있습니다.",
-  "at": "2026-08-17T08:37:34.638Z"
- },
- "ko/alishan-alishan-national-forest-recreation-area": {
-  "hash": "979e47cbe6d1",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "아리산은 단 하나의 명소가 아닙니다. 숲길과 사당, 역사적인 철도, 전망대까지 아우르는 하나의 커다란 유락구이며",
-  "at": "2026-08-17T08:38:18.482Z"
+  "worst": "이것이 바로 이 지역 전통이 살아있는 방식입니다. 이 동굴은 단순한 사진 명소가 아니라 진짜로 호흡기 휴식처라는 명성을 가지고 있습니다.",
+  "at": "2026-09-07T10:45:47.538Z"
  },
  "ko/amalfi-coast-positano": {
   "hash": "8a8f0d59a23a",
@@ -126,25 +112,25 @@
   "at": "2026-08-17T08:38:20.434Z"
  },
  "ko/amalfi-coast-valle-delle-ferriere": {
-  "hash": "6506e4484c3e",
+  "hash": "777d486c2c18",
   "score": 1,
   "registerBreak": false,
-  "worst": "보호구역 전체는 더 안쪽의 엄격하게 보호되는 핵심 구역까지 이어지며 이곳은 접근이 제한되어 있다(때로는 허가증이나",
-  "at": "2026-08-17T08:38:31.120Z"
+  "worst": "트레일 러닝화나 등산화가 여기서는 정말 큰 차이를 만든다.",
+  "at": "2026-09-07T10:46:03.871Z"
  },
  "ko/amalfi-coast-villa-rufolo": {
-  "hash": "0e3d7fb62bf5",
+  "hash": "8f5da16410fb",
   "score": 1,
   "registerBreak": false,
-  "worst": "실제 방문 패턴을 분석해보면, 정원을 가장 여유롭게 둘러볼 수 있는 시간대는 평일과 주말 모두 오전 9시부터...",
-  "at": "2026-08-17T08:38:21.808Z"
+  "worst": "돌난간 아래로 수백 피트 펼쳐진 살레르노 만(Bay of Salerno)이 눈에 들어오고",
+  "at": "2026-09-07T10:46:01.416Z"
  },
  "ko/amritsar-sri-harmandir-sahib": {
-  "hash": "af91027047d5",
+  "hash": "48192d4fdf0d",
   "score": 1,
   "registerBreak": false,
-  "worst": "사각형 연못은 어찌나 잔잔한지 물이 채워졌다기보다 마치 부어놓은 듯 사원의 모습을 거꾸로 비춥니다.",
-  "at": "2026-08-17T08:38:29.596Z"
+  "worst": "시간에 따라 이미 따뜻하거나 차가워진 대리석 바닥을 밟게 됩니다.",
+  "at": "2026-09-07T10:46:00.632Z"
  },
  "ko/andong-hahoe-folk-village": {
   "hash": "31f89ca60b58",
@@ -154,18 +140,11 @@
   "at": "2026-08-17T08:38:25.535Z"
  },
  "ko/ankara-trilye-restaurant": {
-  "hash": "f15df747537e",
+  "hash": "22df79d467ce",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 하는 실수는 이곳을 빠른 저녁 식사 장소로 취급하는 것이다.",
-  "at": "2026-08-17T08:38:30.674Z"
- },
- "ko/ankara-ankara-castle": {
-  "hash": "925efb73331b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "매년 약 23,000명의 리뷰어를 이곳으로 끌어들이는 것은 단일한 유물이 아니라, 황금빛 시간에 내성 성벽 위에 서서...",
-  "at": "2026-08-17T08:38:29.224Z"
+  "worst": "매장에 들어서면 메뉴를 보기 전부터 무엇을 기대해야 할지 알 수 있다: 화이트 테이블클로스, 자연광이 가득 들어오는 유리 패널...",
+  "at": "2026-09-07T10:46:06.441Z"
  },
  "ko/antalya-duden-waterfalls": {
   "hash": "cc942c35021f",
@@ -175,53 +154,53 @@
   "at": "2026-08-17T08:38:33.602Z"
  },
  "ko/annecy-musee-chateau-d-annecy": {
-  "hash": "0734a2c2a47c",
+  "hash": "5d04316370c2",
   "score": 1,
   "registerBreak": false,
-  "worst": "성이 문을 닫는 유일한 날인 화요일에 방문했다가 헛걸음하는 것이 방문객들이 가장 흔히 저지르는 실수입니다.",
-  "at": "2026-08-17T08:38:33.561Z"
+  "worst": "이 길 자체가 여정에서 벗어난 코스가 아니라 여행의 일부라 할 만합니다.",
+  "at": "2026-09-07T10:46:08.807Z"
  },
  "ko/antalya-hadrian-s-gate": {
-  "hash": "a32cef10ed2f",
+  "hash": "defac455d289",
   "score": 1,
   "registerBreak": false,
-  "worst": "규모는 작아서 한 시간씩 유적 사이를 걸어 다닐 곳은 아니지만, 이곳은 안탈리아의 옛 성곽 구역인 칼레이치로 들어가는 문자 그대로의 입구이며",
-  "at": "2026-08-17T08:38:34.667Z"
+  "worst": "택시나 차량 호출 앱을 이용해도 바로 이 교차 지점에 내려줍니다.",
+  "at": "2026-09-07T10:46:10.818Z"
  },
  "ko/alishan-fenqihu-old-street": {
-  "hash": "6cbcfafa7e0e",
+  "hash": "609e46e7e212",
   "score": 1,
   "registerBreak": false,
-  "worst": "펀치후는 이제 누가 봐도 명백한 관광지이며, 아리산 철도 노선 전체에서 가장 많은 사람이 찾는 곳 중 하나입니다.",
-  "at": "2026-08-17T08:38:22.152Z"
+  "worst": "이때가 바로 관광버스가 손님들을 쏟아내는 시간입니다",
+  "at": "2026-09-07T10:45:55.790Z"
  },
  "ko/aomori-aomori-nebuta-matsuri": {
-  "hash": "a8abd8765f81",
+  "hash": "dd75926492d9",
   "score": 1,
   "registerBreak": false,
-  "worst": "아오모리의 관광 정체성이 거의 전적으로 8월의 이 한 주에 집중되어 있는 이유를 이해하게 되는 그런 행사다.",
-  "at": "2026-08-17T08:38:46.047Z"
+  "worst": "유료 좌석은 관람석 구역에 마련되어 있으며 일찍 매진되는 편이니... 가장 먼저 해결해야 할 문제입니다.",
+  "at": "2026-09-07T10:46:16.753Z"
  },
  "ko/amalfi-coast-amalfi-coast": {
-  "hash": "91c9105d261e",
+  "hash": "1eccb0cca2f4",
   "score": 1,
   "registerBreak": false,
-  "worst": "92,000개가 넘는 리뷰에서 평점 4.7을 기록한 이곳은 유럽에서 가장 꾸준히 사랑받는 해안 지역 중 하나이자",
-  "at": "2026-08-17T08:38:19.970Z"
+  "worst": "이것이 바로 아말피 코스트가 유네스코 세계문화유산으로 지정된 이유입니다 — 이곳은 하나의 명소가 아니라 하나의 풍경 전체이며",
+  "at": "2026-09-07T10:45:53.771Z"
  },
  "ko/austin-texas-capitol": {
-  "hash": "3a424fd80e67",
+  "hash": "57453a1d8052",
   "score": 1,
   "registerBreak": false,
   "worst": "9만 평 가까이 되는 22에이커 부지도 실내 못지않게 둘러볼 가치가 있습니다.",
-  "at": "2026-08-17T08:38:40.957Z"
+  "at": "2026-09-07T10:46:19.430Z"
  },
  "ko/ayutthaya-bueng-phra-ram-park": {
-  "hash": "2e4b3b84326f",
+  "hash": "74e2941eaa0d",
   "score": 1,
   "registerBreak": false,
-  "worst": "물 그 자체도 5세기에 걸친 도시 계획의 일부 역할을 하고 있는 셈입니다.",
-  "at": "2026-08-17T08:38:40.603Z"
+  "worst": "왓 프라람은 호수 바로 가장자리에 있고, 왓 마하탓은 북동쪽으로 도보 5~10분 거리에 있어 — 둘 다 공원 방문과",
+  "at": "2026-09-07T10:46:21.111Z"
  },
  "ko/ayutthaya-the-artisans-ayutthaya": {
   "hash": "7b4d1411341f",
@@ -243,13 +222,6 @@
   "registerBreak": false,
   "worst": "단 하나의, 거의 우연에서 비롯된 이미지다.",
   "at": "2026-08-17T08:38:49.021Z"
- },
- "ko/ayutthaya-wat-phra-si-sanphet": {
-  "hash": "8662669735a9",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이곳은 오직 왕이 공덕을 쌓고 국가 의례를 치르기 위한 왕실 예배당으로 지어졌기 때문에, 승려가 상주한 적이 없었습니다.",
-  "at": "2026-08-31T12:55:37.815Z"
  },
  "ko/bali-bukit-peninsula-uluwatu-avli": {
   "hash": "68cba9e10303",
@@ -273,11 +245,11 @@
   "at": "2026-08-17T08:38:55.203Z"
  },
  "ko/baguio-baguio-city-market": {
-  "hash": "0fb68fe2d633",
+  "hash": "05c0faf7b05c",
   "score": 1,
   "registerBreak": false,
-  "worst": "그 방향으로 가는 사람들은 모두 같은 목적지로 향하고 있습니다.",
-  "at": "2026-08-31T12:55:44.750Z"
+  "worst": "현지인들은 일상 장을 보러 이곳을 찾고, 방문객들은 한 지붕 아래 펼쳐진 볼거리, 냄새, 살거리의 밀도를 경험하러 옵니다.",
+  "at": "2026-09-07T10:46:23.387Z"
  },
  "ko/bali-livingstone": {
   "hash": "b6d225738bf0",
@@ -3569,13 +3541,6 @@
   "worst": "5만 4천 개가 넘는 리뷰에서 평점 4.5점을 기록하며 도쿄를 대표하는 '핫플레이스'로 자리 잡은 이곳은...",
   "at": "2026-08-15T10:35:06.751Z"
  },
- "ko/tokyo-tyler-the-creator-chromakopia-the-world-tour": {
-  "hash": "99bb8c6b8947",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "크로마코피아(Chromakopia)는 이번 투어의 근간이 된 앨범 사이클이며, 타일러의 라이브 공연은...",
-  "at": "2026-08-15T02:40:46.858Z"
- },
  "ko/toledo-monasterio-de-san-juan-de-los-reyes": {
   "hash": "fbb1349f2e48",
   "score": 1,
@@ -3974,13 +3939,6 @@
   "registerBreak": false,
   "worst": "",
   "at": "2026-08-15T02:43:31.352Z"
- },
- "ja/abu-dhabi-christina-aguilera-live": {
-  "hash": "7c9f66b7987b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "開場は通常メインアクトのかなり前に行われ、入場時のセキュリティチェック、前座(あれば)、そしてメインパフォーマンスを含めると...",
-  "at": "2026-08-15T02:43:35.856Z"
  },
  "ja/abu-dhabi-the-corrs-live-in-concert": {
   "hash": "3b66e3b8eb59",
@@ -9505,13 +9463,6 @@
   "worst": "そのスケール感と柔らかな光の質感が、スマートフォンの画面には収まりきりません。",
   "at": "2026-08-15T03:11:21.822Z"
  },
- "ja/tokyo-tyler-the-creator-chromakopia-the-world-tour": {
-  "hash": "e5d57fcecbd5",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "チケット販売は多くの場合、米国・英国公演で使われるアーティストのグローバルなチケット販売パートナーではなく…",
-  "at": "2026-08-15T03:11:27.745Z"
- },
  "ja/toledo-monasterio-de-san-juan-de-los-reyes": {
   "hash": "81d4e6cfe4fa",
   "score": 1,
@@ -9952,13 +9903,6 @@
   "registerBreak": false,
   "worst": "así que es la multitud, y no el edificio, lo que determina si la visita resultará apresurada.",
   "at": "2026-08-15T03:13:34.793Z"
- },
- "es/abu-dhabi-christina-aguilera-live": {
-  "hash": "d663e80cd371",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "...las entradas para eventos en los EAU suelen estar vinculadas a la identificación del compra",
-  "at": "2026-08-15T03:13:35.238Z"
  },
  "es/agra-taj-terrace": {
   "hash": "97574d9f11f3",
@@ -15637,13 +15581,6 @@
   "worst": "El local tiene un horario amplio, así que cubre sin problema la bollería del desayuno...",
   "at": "2026-08-15T03:39:08.314Z"
  },
- "es/tokyo-tyler-the-creator-chromakopia-the-world-tour": {
-  "hash": "c8dcd08c5e65",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "conviene tomar las fechas del 9 y 10 de septiembre como la mejor información disponible hasta el momento",
-  "at": "2026-08-15T06:44:00.722Z"
- },
  "es/tsim-sha-tsui-tsim-sha-tsui-waterfront-park": {
   "hash": "0aadfdf9d99c",
   "score": 1,
@@ -20698,13 +20635,6 @@
   "worst": "缆车站位于统营市南端三养邑(Sanyang-eup)永雲里(Yeong-un-ri)910-2号",
   "at": "2026-08-15T04:18:09.443Z"
  },
- "zh/tokyo-tyler-the-creator-chromakopia-the-world-tour": {
-  "hash": "708e47af69df",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "在日本，黄牛票或转售门票有很大风险在入场时被作废，建议只通过官方渠道购票。",
-  "at": "2026-08-15T07:06:58.702Z"
- },
  "zh/tsim-sha-tsui-tsim-sha-tsui-promenade": {
   "hash": "df27c51f9937",
   "score": 1,
@@ -20993,11 +20923,11 @@
   "at": "2026-08-15T09:26:14.629Z"
  },
  "ko/ankara-an-tkabir": {
-  "hash": "0ff4f3b7691d",
+  "hash": "6acf0a34795c",
   "score": 1,
   "registerBreak": false,
-  "worst": "넓은 행렬로인 사자의 길(Lion Road, Aslanlı Yol)이 앞으로 뻗어 있고, 그 양옆으로는 돌사자상들이 늘어서 있습니다.",
-  "at": "2026-08-17T08:38:38.427Z"
+  "worst": "아느트테페 언덕 위 입구에서부터 넓은 행렬로인 사자의 길이 앞으로 뻗어 있고...",
+  "at": "2026-09-07T10:46:06.735Z"
  },
  "ko/barcelona-placa-nova": {
   "hash": "62b29b268da8",
@@ -23702,11 +23632,11 @@
   "at": "2026-08-15T07:08:22.193Z"
  },
  "ko/al-barsha-hindu-temple-dubai": {
-  "hash": "1e3194682c71",
+  "hash": "5b1d4f38e320",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳을 찾는 이유는 의례 자체보다 그 규모에 있습니다.",
-  "at": "2026-08-17T08:37:28.249Z"
+  "worst": "여유롭게 둘러보고 싶다면 방문객 데이터가 일관되게 보여주는 답이 있습니다.",
+  "at": "2026-09-07T10:45:48.411Z"
  },
  "ko/ajman-the-seat-cafe": {
   "hash": "cb9a54dbe3a8",
@@ -23716,11 +23646,11 @@
   "at": "2026-08-15T10:29:52.120Z"
  },
  "ko/arlington-bts-world-tour-arlington": {
-  "hash": "d8ae6268f908",
+  "hash": "8130a8c1ed9e",
   "score": 1,
   "registerBreak": false,
-  "worst": "알링턴은 미국 대도시 중 경전철 자체를 아예 도입하지 않은 유명한 도시이기도 합니다.",
-  "at": "2026-08-22T08:20:01.652Z"
+  "worst": "공연이 있는 밤에는 교통 통제 요원들이 정문 근처 차량을 우회시키기 때문에, 이로 인해 대기 시간이 20~30분 더 늘어날 수 있습니다.",
+  "at": "2026-09-07T10:46:18.295Z"
  },
  "ko/bangkok-wat-arun-ratchawararam-ratchawaramahawihan": {
   "hash": "2d277a772e4e",
@@ -24393,13 +24323,6 @@
   "registerBreak": false,
   "worst": "La estación más cercana es Roppongi Station, servida tanto por la línea Toei Oedo...",
   "at": "2026-08-15T09:11:57.768Z"
- },
- "zh/abu-dhabi-christina-aguilera-live": {
-  "hash": "1e86b142308b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "经验丰富的观众往往会在最后一曲结束后，在场内多停留15到20分钟，喝杯饮料或去趟洗手间，而不是立刻涌向网约车接客点",
-  "at": "2026-08-15T12:00:14.102Z"
  },
  "zh/alanya-damlatas-cave": {
   "hash": "8b744e436837",
@@ -25382,11 +25305,11 @@
   "at": "2026-08-15T10:55:23.894Z"
  },
  "ko/alcaniz-parador-de-alcaniz": {
-  "hash": "a3033910291e",
+  "hash": "f107fbe93e60",
   "score": 1,
   "registerBreak": false,
-  "worst": "목적지에 도착하기 훨씬 전부터 눈에 들어옵니다: 과달로페(Guadalope)강 계곡 위 헐벗은 언덕 위로",
-  "at": "2026-08-17T08:38:18.076Z"
+  "worst": "목적지에 도착하기 훨씬 전부터 눈에 들어옵니다: 과달로페(Guadalope)강 계곡 위 헐벗은 언덕 위로 솟은...",
+  "at": "2026-09-07T10:45:49.730Z"
  },
  "ko/clarke-quay-malayan-settlement": {
   "hash": "6ea738f4e229",
@@ -25704,11 +25627,11 @@
   "at": "2026-08-16T11:03:22.321Z"
  },
  "ko/annecy-pont-des-amours": {
-  "hash": "2ffe5332b93d",
+  "hash": "17ae627ed17a",
   "score": 1,
   "registerBreak": false,
-  "worst": "저녁 식사 후, 당일치기 관광버스 무리가 빠져나간 시간대도 그에 못지않게 좋으며, 특히 해질 무렵 golden hour에는 더욱 근사합니다.",
-  "at": "2026-08-17T08:38:33.610Z"
+  "worst": "이곳은 문이 달린 관광 명소가 아니라 그저 공공 보행자 다리일 뿐입니다.",
+  "at": "2026-09-07T10:46:10.528Z"
  },
  "ko/bengaluru-lalbagh-botanical-garden": {
   "hash": "7626e16590db",
@@ -26404,11 +26327,11 @@
   "at": "2026-08-18T08:22:27.094Z"
  },
  "ko/austin-museum-of-the-weird": {
-  "hash": "6f8fdb3d2c2b",
+  "hash": "8f9c03943849",
   "score": 1,
   "registerBreak": false,
-  "worst": "서커스풍 글씨체 간판, 창문 속 박제 동물의 미소, 그리고 안에 \"괴이 박물관\"의 경이로움이...",
-  "at": "2026-08-31T12:55:37.709Z"
+  "worst": "사이드쇼의 부활이자 진기한 물건들의 캐비닛, 이곳은 자신이 무엇인지를 정확히 알고 있습니다.",
+  "at": "2026-09-07T10:46:13.182Z"
  },
  "ko/avignon-place-du-palais": {
   "hash": "5fe83e3c48aa",
@@ -26481,11 +26404,11 @@
   "at": "2026-08-18T09:25:02.278Z"
  },
  "ko/antalya-antalya-toy-museum": {
-  "hash": "620ff84ee40e",
+  "hash": "62f42fa00f67",
   "score": 1,
   "registerBreak": false,
-  "worst": "두꺼운 회벽, 나지막한 출입구, 나무 덧창을 그대로 간직한 19세기 칼레이치 석조 가옥을 복원한 곳이라, 전시물을 보기도 전에 이미 타임캡슐 속에 들어온 듯한 느낌을 줍니다.",
-  "at": "2026-08-24T08:35:58.027Z"
+  "worst": "돌바닥과 낮은 문틀은 서두르는 걸음을 봐주지 않습니다",
+  "at": "2026-09-07T10:46:07.999Z"
  },
  "ko/bohol-national-museum-of-the-philippines-bohol": {
   "hash": "cfe7d29474f8",
@@ -26565,11 +26488,11 @@
   "at": "2026-08-19T08:18:52.720Z"
  },
  "ko/antalya-perge-ancient-city": {
-  "hash": "06d4eaec9dd9",
+  "hash": "5ed49b94206e",
   "score": 1,
   "registerBreak": false,
-  "worst": "페르게는 관광버스 코스에 확실히 포함되어 있는 만큼, 다른 무엇보다 방문 시간을 잘 맞추는 것이 중요합니다.",
-  "at": "2026-08-24T08:35:58.777Z"
+  "worst": "관중석 아래로 이어졌던 아치형 상점 자리가 지금도 남아 있습니다.",
+  "at": "2026-09-07T10:46:13.792Z"
  },
  "ko/bohol-baclayon-church": {
   "hash": "f5b0ab84df1f",
@@ -26642,25 +26565,25 @@
   "at": "2026-08-19T09:51:10.428Z"
  },
  "ko/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "e31a0e56c2b7",
+  "hash": "fa0f6ad52657",
   "score": 1,
   "registerBreak": false,
-  "worst": "장 누벨(Jean Nouvel)이 설계한 별무늬 격자 지붕이 물 위에 떠 있는 듯한 모습으로, 그 아래 광장에는 움직이는 빛의 무늬가 드리워집니다.",
-  "at": "2026-08-31T12:55:34.938Z"
+  "worst": "인간의 창조성이란 각 나라별로 나뉜 이야기가 아니라 하나로 이어진 이야기라는 것을, 이 미술관은 온몸으로 증명해 보입니다.",
+  "at": "2026-09-07T10:45:36.321Z"
  },
  "ko/al-ain-al-ain-museum": {
-  "hash": "e960fbc4b09d",
+  "hash": "14e294c9d7f8",
   "score": 1,
   "registerBreak": false,
-  "worst": "현지인이나 재방문객들은 대체로 박물관을 본 요리가 아닌 애피타이저처럼 여기는 편입니다.",
-  "at": "2026-08-24T08:35:48.542Z"
+  "worst": "시장 풍경, 그리고 나라 다른 어느 곳에서도 시각 기록이 거의 남아 있지 않은 시절 알아인 주민들의 초상 사진",
+  "at": "2026-09-07T10:45:47.264Z"
  },
  "ko/alanya-alanya-archaeological-museum": {
-  "hash": "a451494f9077",
+  "hash": "be2883391578",
   "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-08-24T08:35:53.035Z"
+  "worst": "소장품은 알란야 지역 곳곳의 발굴지에서 나온 것들이라, 만들어진 그 땅을 벗어나지 않은 유물들을 마주하는 셈입니다.",
+  "at": "2026-09-07T10:45:45.758Z"
  },
  "zh/abu-dhabi-louvre-abu-dhabi": {
   "hash": "e1696ec268d4",
@@ -26740,18 +26663,18 @@
   "at": "2026-08-20T08:28:43.288Z"
  },
  "ko/abu-dhabi-baps-hindu-mandir-abu-dhabi": {
-  "hash": "86682971c420",
+  "hash": "39bee1290287",
   "score": 1,
   "registerBreak": false,
-  "worst": "이제는 UAE에서 손꼽히는 인기 명소가 되어 조용히 숨어 있는 장소가 아니므로, 이곳을 대형 랜드마크로 여기고...",
-  "at": "2026-08-24T08:35:52.766Z"
+  "worst": "사막의 평평한 지형 위로 마치 라자스탄에서 통째로 옮겨온 듯 솟아 있는 모습입니다.",
+  "at": "2026-09-07T10:45:34.633Z"
  },
  "ko/al-ain-al-jahili-fort": {
-  "hash": "89cd61ed9535",
+  "hash": "9c594fad6c27",
   "score": 1,
   "registerBreak": false,
-  "worst": "알 자힐리 요새는... 그 위용을 굳이 감추려 들지 않습니다.",
-  "at": "2026-08-24T08:35:50.153Z"
+  "worst": "알 자힐리 요새는 아랍에미리트에서 손꼽히는 규모의 역사적 요새로, 그 위용을 굳이 감추려 들지 않습니다.",
+  "at": "2026-09-07T10:45:45.484Z"
  },
  "es/baguio-bell-church": {
   "hash": "b24707020bd5",
@@ -26796,18 +26719,18 @@
   "at": "2026-08-31T12:53:05.162Z"
  },
  "ko/baguio-bell-church": {
-  "hash": "4c0738dd0a48",
+  "hash": "802d8fe40c09",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳이 일부러 들를 만한 가치가 있는 이유는 바로 층층이 쌓인 구조 때문입니다.",
-  "at": "2026-08-31T12:55:45.051Z"
+  "at": "2026-09-07T10:46:22.910Z"
  },
  "ko/baguio-bencab-museum": {
-  "hash": "f825e03c7327",
+  "hash": "52d80f774914",
   "score": 1,
   "registerBreak": false,
-  "worst": "벤캡 뮤지엄은 바기오 여행 코스에서 이미 잘 알려진 명소인 만큼 숨겨진 장소라기보다는 꾸준히",
-  "at": "2026-08-31T12:55:40.400Z"
+  "worst": "왼편으로는 소나무 뒤덮인 언덕이 깊은 계곡으로 떨어져 내리고, 나지막하고 짙은 목조 건물은...",
+  "at": "2026-09-07T10:46:26.069Z"
  },
  "zh/baguio-bell-church": {
   "hash": "d6f9984951e5",
@@ -26873,25 +26796,25 @@
   "at": "2026-08-21T08:32:51.347Z"
  },
  "ko/abu-dhabi-khalifa-park": {
-  "hash": "42c6347e01c0",
+  "hash": "bfb8176996cc",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳을 찾는 이유는 다양한 풍경이 한데 어우러져 있기 때문입니다.",
-  "at": "2026-08-24T08:35:47.716Z"
+  "worst": "현장에 주차장이 있지만, 공원이 가장 붐비는 주말 저녁에는 자리가 금방 찹니다.",
+  "at": "2026-09-07T10:45:34.769Z"
  },
  "ko/alanya-mustafa-kemal-ataturk-monument": {
-  "hash": "2bb09ea0e6f7",
+  "hash": "5cebf7bdfc02",
   "score": 1,
   "registerBreak": false,
-  "worst": "열린 거리 풍경의 일부라 하루 종일 언제든 접근할 수 있습니다.",
-  "at": "2026-08-24T08:35:52.000Z"
+  "worst": "그가 튀르키예 영토로 지켜낸 바다를 바라보는 모습입니다.",
+  "at": "2026-09-07T10:45:49.437Z"
  },
  "ko/antalya-lower-duden-waterfalls": {
-  "hash": "b051b3857d44",
+  "hash": "52740d15d6f4",
   "score": 1,
   "registerBreak": false,
-  "worst": "물이 바위를 박차고 쏟아지며 앞바다에 떠 있는 관광객 사진 촬영용 보트들에 물보라를 뿌리는 모습을 내려다볼 수 있습니다",
-  "at": "2026-08-24T08:36:03.527Z"
+  "worst": "메인 전망대에서는 폭포 거의 바로 위에 서서, 물이 바위를 박차고 쏟아지며 앞바다에 떠 있는 관광객 사진 촬영용 보트들에 물보라를 뿌리는 모습을 내려다볼 수 있습니다.",
+  "at": "2026-09-07T10:46:10.540Z"
  },
  "zh/abu-dhabi-khalifa-park": {
   "hash": "bfd864972891",
@@ -26977,13 +26900,6 @@
   "worst": "llevar efectivo no es imprescindible.",
   "at": "2026-09-02T10:56:43.812Z"
  },
- "ko/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
-  "hash": "396090a2eed6",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이번 투어는 평범한 공연 일정 중 하나가 아니었습니다.",
-  "at": "2026-09-02T10:57:25.948Z"
- },
  "zh/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
   "hash": "f6cb4a2e40c0",
   "score": 1,
@@ -27041,18 +26957,18 @@
   "at": "2026-08-23T08:55:27.996Z"
  },
  "ko/alishan-alishan-forest-railway-garage-park": {
-  "hash": "5a744ce76b25",
+  "hash": "c707f17bd515",
   "score": 1,
   "registerBreak": false,
-  "worst": "주소는 동구 베이먼촌 린썬시로 2번지(No. 2, Linsen W. Road, Beimen Village, East District)입니다.",
-  "at": "2026-08-24T08:35:53.602Z"
+  "worst": "근처 안내판에는 각 기관차의 모델과 운행 이력이 설명되어 있는데, 영어와 중국어가 섞여 표기되어 있습니다.",
+  "at": "2026-09-07T10:45:51.826Z"
  },
  "ko/ankara-museum-of-anatolian-civilizations": {
-  "hash": "a1bac52ed3dc",
+  "hash": "fc776da1656a",
   "score": 1,
   "registerBreak": false,
-  "worst": "놓치지 말아야 할 주요 볼거리는 다음과 같습니다:",
-  "at": "2026-08-24T08:34:07.312Z"
+  "worst": "언덕 위 성이 사람들로 가득 차면 그 여파로 단체 관광객들이 물결처럼 몰려듭니다.",
+  "at": "2026-09-07T10:46:06.173Z"
  },
  "zh/ankara-ankara-painting-and-sculpture-museum": {
   "hash": "f995a4cb8bc0",
@@ -27097,53 +27013,53 @@
   "at": "2026-09-03T10:52:37.205Z"
  },
  "ko/al-barsha-dubai-gold-souk": {
-  "hash": "dc143f1a3438",
+  "hash": "7e04d30d3cc4",
   "score": 1,
   "registerBreak": false,
-  "worst": "눈에 무언가 제대로 들어오기도 전에 냄새부터 느껴집니다.",
-  "at": "2026-08-31T12:55:35.631Z"
+  "worst": "눈에 무언가가 제대로 보이기도 전에 냄새가 먼저 다가옵니다.",
+  "at": "2026-09-07T10:45:44.217Z"
  },
  "ko/al-ain-jebel-hafeet-mountain": {
-  "hash": "43894090c4a2",
+  "hash": "5111fcc7a3ab",
   "score": 1,
   "registerBreak": false,
   "worst": "이 호텔을 보면 내가 얼마나 높이 올라왔는지 가늠할 수 있습니다.",
-  "at": "2026-08-24T08:35:50.554Z"
+  "at": "2026-09-07T10:45:43.464Z"
  },
  "ko/alishan-alishan-museum": {
-  "hash": "9268c07a8443",
+  "hash": "e7023cbd3c62",
   "score": 1,
   "registerBreak": false,
   "worst": "많은 방문객이 흔히 저지르는 실수는 이 박물관을 아예 건너뛰고 나무 사진만 찍고 지나가는 것입니다.",
-  "at": "2026-08-24T08:35:54.025Z"
+  "at": "2026-09-07T10:45:51.165Z"
  },
  "ko/ankara-ankara-painting-and-sculpture-museum": {
-  "hash": "5ac711ec490c",
+  "hash": "ed42094ddbc4",
   "score": 1,
   "registerBreak": false,
   "worst": "많은 작품이 국가가 초기에 공공미술을 통해 국민적 시각 정체성을 세우려 했던 시도를 보여줍니다.",
-  "at": "2026-08-24T08:35:56.266Z"
+  "at": "2026-09-07T10:46:03.601Z"
  },
  "ko/ankara-kugulu-park": {
-  "hash": "60cc9c87a39d",
+  "hash": "e0efa8bacdaf",
   "score": 1,
   "registerBreak": false,
-  "worst": "이름부터가 그 매력을 말해주는데, \"쿠울루(kuğulu)\"는 튀르키예어로 \"백조가 있는\"이라는 뜻입니다.",
-  "at": "2026-08-31T12:55:41.740Z"
+  "worst": "현지인들 사이에서도 빵 부스러기는 점점 지양하는 분위기입니다.",
+  "at": "2026-09-07T10:46:05.279Z"
  },
  "ko/alishan-chiayi-performing-arts-center": {
-  "hash": "9bb827917c46",
+  "hash": "5af6c914b85e",
   "score": 1,
   "registerBreak": false,
-  "worst": "각진, 거의 브루탈리즘에 가까운 날것의 콘크리트 덩어리들이 켜켜이 쌓여 있는데, 주변을 감싼 잔디밭 덕분에...",
-  "at": "2026-08-24T08:35:58.612Z"
+  "worst": "그 진입 과정 자체가 이곳을 경험하는 일부입니다.",
+  "at": "2026-09-07T10:45:55.931Z"
  },
  "ko/baguio-baguio-botanical-garden": {
-  "hash": "f2935aa7e667",
+  "hash": "36f3a2e9f646",
   "score": 1,
   "registerBreak": false,
-  "worst": "바기오는 기후가 서늘해 건기에도 한낮 방문이 쾌적하지만, 이른 아침에는 기온이 섭씨 십몇 도까지 떨어질 수 있으니...",
-  "at": "2026-08-31T12:55:38.024Z"
+  "worst": "현지인들은 이곳을 공식 명칭만큼이나 '이고롯 가든(Igorot Garden)'이라는 이름으로도 자주 부르는데",
+  "at": "2026-09-07T10:46:20.504Z"
  },
  "ko/austin-formula-1-united-states-grand-prix": {
   "hash": "17ac8276fcd9",
@@ -27699,11 +27615,11 @@
   "at": "2026-08-29T15:21:35.019Z"
  },
  "ko/agra-taj-mahal": {
-  "hash": "fcfcf8e19af2",
+  "hash": "5e6088f34236",
   "score": 1,
   "registerBreak": false,
-  "worst": "인파를 피하려 하기보다는 인파를 감안해서 일정을 짜는 편이 현명합니다.",
-  "at": "2026-08-31T12:55:33.341Z"
+  "worst": "관광객들이 가장 흔히 저지르는 실수는 서문 진입로를 놓쳐 대표적인 일몰 사진 각도를 못 찍거나, 인쇄본이나...",
+  "at": "2026-09-07T10:45:41.044Z"
  },
  "ko/ha-long-bay-halong-bay": {
   "hash": "7f0188411aff",
@@ -27727,18 +27643,18 @@
   "at": "2026-08-29T15:22:51.477Z"
  },
  "ko/agra-tomb-of-akbar": {
-  "hash": "306b6113c081",
+  "hash": "9d939ccb093e",
   "score": 1,
   "registerBreak": false,
-  "worst": "아크바르 대제의 묘는 저 두 기념물을 가능케 한 무굴 제국의 황제가 잠든 곳으로, 오히려 더 한적하고...",
-  "at": "2026-08-31T12:55:34.220Z"
+  "worst": "",
+  "at": "2026-09-07T10:45:42.337Z"
  },
  "ko/agra-mehtab-bagh": {
-  "hash": "1cf682226415",
+  "hash": "bc6a3b6e65c3",
   "score": 1,
   "registerBreak": false,
   "worst": "무굴 황제 바부르가 1500년대에 이 강변을 따라 조성한 열한 개의 정원 중 하나로 원래의 정원을 처음 만들었습니다.",
-  "at": "2026-08-31T12:55:34.673Z"
+  "at": "2026-09-07T10:45:39.403Z"
  },
  "ko/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
   "hash": "60bebb8532e8",
@@ -27922,26 +27838,12 @@
   "worst": "El pico relativo de afluencia, modesto en cualquier caso, suele darse los fines de semana",
   "at": "2026-09-01T10:49:05.829Z"
  },
- "es/yokohama-babymonster-choom-world-tour-japan-yokohama-leg": {
-  "hash": "32b7f7f2fa56",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "marcado por la coreografía, por lo que cabe esperar un set de gran energía basado en sus EP",
-  "at": "2026-09-01T10:47:33.250Z"
- },
  "ja/banlung-virachey-national-park": {
   "hash": "cbb6ee3f1355",
   "score": 1,
   "registerBreak": false,
   "worst": "この公園はもともと、写真映えを狙う人混みのためではなく、静寂を味わうためにつくられた場所であり、数字もそれを裏付けています。",
   "at": "2026-09-01T10:47:39.402Z"
- },
- "ja/yokohama-babymonster-choom-world-tour-japan-yokohama-leg": {
-  "hash": "f84fc2f8461b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "PIA ARENA MMは2020年、横浜の再開発された臨海エリア「みなとみらい」(\"harbor of the future\"、未来の港という意味)に開業しました。",
-  "at": "2026-09-01T10:47:43.489Z"
  },
  "ko/banlung-virachey-national-park": {
   "hash": "74f69372dffd",
@@ -28096,5 +27998,124 @@
   "registerBreak": false,
   "worst": "건물은 하나의 첨탑을 이고 있고 그 꼭대기에는 황금빛 모로나이 천사상이 놓여 있어",
   "at": "2026-09-05T10:46:15.674Z"
+ },
+ "zh/bangkok-the-temple-of-the-emerald-buddha": {
+  "hash": "44a3f9307b2d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "光是抱着这份心态，就已经胜过上午11点那些走马观花的旅行团了。",
+  "at": "2026-09-07T10:43:40.965Z"
+ },
+ "zh/clarke-quay-home-dawn-cafe-clarke-quay": {
+  "hash": "262df98d2826",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "门牌号#02-03说明这是楼里位置偏上层的一间，座位通常更安静，也有可能眺望到部分河景或周围店屋屋顶的景致。",
+  "at": "2026-09-07T10:43:55.196Z"
+ },
+ "es/bandung-gedung-sate": {
+  "hash": "69608a4c439f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "vale la pena mirar hacia la torre... así que merece la pena comprobarlo con los propios ojos",
+  "at": "2026-09-07T10:44:03.826Z"
+ },
+ "es/chinatown-buddha-tooth-relic-temple": {
+  "hash": "52f570618e3d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El calzado se mantiene puesto en el salón principal, pero debe quitarse antes de entrar a algunas salas superiores",
+  "at": "2026-09-07T10:44:05.550Z"
+ },
+ "es/koh-samui-mu-ko-ang-thong-national-marine-park": {
+  "hash": "065441e13586",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-07T10:44:07.238Z"
+ },
+ "ja/bandung-gedung-sate": {
+  "hash": "52927b70a29c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これは建物内部が開いているかどうかにかかわらず起こります。",
+  "at": "2026-09-07T10:44:15.121Z"
+ },
+ "ja/chinatown-buddha-tooth-relic-temple": {
+  "hash": "e8dbc3569ab4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "約320キログラムの金で鋳造されたこの仏塔はガラス越しに見ることができますが、部屋に入ることはできても撮影は禁止されています。",
+  "at": "2026-09-07T10:44:17.287Z"
+ },
+ "ja/koh-samui-mu-ko-ang-thong-national-marine-park": {
+  "hash": "3b7e50a63432",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "翡翠色の水面が海とのつながりが見えないほど完全に岩に囲まれている様子を目にすることができます。",
+  "at": "2026-09-07T10:44:20.923Z"
+ },
+ "ko/bandung-gedung-sate": {
+  "hash": "a72f82e01aca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "식민지 시대 정부 청사 건물이라면 응당 그래야 했던 것이죠.",
+  "at": "2026-09-07T10:44:28.362Z"
+ },
+ "ko/chinatown-buddha-tooth-relic-temple": {
+  "hash": "bcceca91d71e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "1층과 옥상을 잇는 통로쯔음으로 여기고 서둘러 지나치기보다는 이곳에서 충분히 시간을 들여 보시는 것이 좋습니다.",
+  "at": "2026-09-07T10:44:34.326Z"
+ },
+ "ko/koh-samui-mu-ko-ang-thong-national-marine-park": {
+  "hash": "b034f37f942f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "해양공원에서는 일반 자외선 차단제를 바르고 바로 물에 들어가면 의미가 없으므로, 산호 보호 성분의 자외선 차단제를 승선 전에 미리 발라두세요.",
+  "at": "2026-09-07T10:44:36.260Z"
+ },
+ "ko/abu-dhabi-flavors-grill-abu-dhabi": {
+  "hash": "4e43600600e8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "플레이버스 그릴 아부다비는 에미리트 전역의 어느 식당과 비교해도 손꼽힐 만큼 많은 리뷰를 쌓아왔습니다.",
+  "at": "2026-09-07T10:45:34.887Z"
+ },
+ "ko/abu-dhabi-the-corrs-live-in-concert": {
+  "hash": "2b0b4766fdde",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "밴드이기 때문인데요, UAE 관객층은 그 시절 음반을 들으며 자란 오랜 팬들과, 본국에서는 끝내 라이브로",
+  "at": "2026-09-07T10:45:37.362Z"
+ },
+ "ko/agra-taj-terrace": {
+  "hash": "51686193bfc7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "타지 테라스는 바로 이 지점을 정확히 짚어내는 곳입니다.",
+  "at": "2026-09-07T10:45:40.163Z"
+ },
+ "ko/ajman-souryana-restaurant-and-cafe": {
+  "hash": "1c4bf927893c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "비교적 작은 토후국에서 이 정도 리뷰 수를 쌓았다는 것은 단순히 소수의 입소문을 넘어섰다는 뜻이며...",
+  "at": "2026-09-07T10:45:41.579Z"
+ },
+ "ko/amritsar-jallianwala-bagh": {
+  "hash": "03605ae6de78",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 모든 것은 과장되거나 극적으로 꾸며지지 않은 채, 있는 그대로 보존되어 스스로 이야기하도록 남겨져",
+  "at": "2026-09-07T10:46:04.185Z"
+ },
+ "ko/avignon-jardin-des-doms": {
+  "hash": "8b86c5720566",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주말에는 대체로 오전 8시부터 오후 10시까지 한산한 편이지만, 정오부터 오후 8시 사이에는 특히 여름철에 인파가 몰립니다.",
+  "at": "2026-09-07T10:46:22.510Z"
  }
 }
