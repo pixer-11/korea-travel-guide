@@ -1,45 +1,54 @@
 ---
-title: "Hat Noppharat Thara-Mu Ko Phi Phi National Park: Koh Phi Phi Travel Guide"
-description: "Hat Noppharat Thara-Mu Ko Phi Phi National Park is the marine park covering Koh Phi Phi, Maya Bay and the mainland beach near Ao Nang in Krabi province. 4.6★ (2,145 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Phi Phi"
-category: "attraction"
-pubDate: "2026-09-03T10:55:38.552Z"
+title: 'Hat Noppharat Thara-Mu Ko Phi Phi National Park: Koh Phi Phi Travel Guide'
+description: >-
+  Hat Noppharat Thara-Mu Ko Phi Phi National Park is the marine park covering
+  Koh Phi Phi, Maya Bay and the mainland beach near Ao Nang in Krabi province.
+  4.6★ (2,153 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Koh Phi Phi
+category: attraction
+pubDate: '2026-09-03T10:55:38.552Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg/3840px-Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg"
-  credit: "Photo: Nata Mostova / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg/3840px-Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg
+  credit: 'Photo: Nata Mostova / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/54093664_vqjpyrLXciaBB0Hen9pWAr6msZZRlq9d1ll3hICEYIA.jpg"
-    credit: "Photo: Foursquare user content (Nopparat Thara Pier (ท่าเรือนพรัตน์ธารา (ท่าเรือคลองแห้ง)))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4df472ddfa76abc3d8707b31"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/54093664_vqjpyrLXciaBB0Hen9pWAr6msZZRlq9d1ll3hICEYIA.jpg
+    credit: >-
+      Photo: Foursquare user content (Nopparat Thara Pier (ท่าเรือนพรัตน์ธารา
+      (ท่าเรือคลองแห้ง)))
+    license: foursquare
+    source: 'https://foursquare.com/v/4df472ddfa76abc3d8707b31'
 place:
-  id: "ChIJmyyg9ADAUTARsgAo9BSyccA"
-  name: "Hat Noppharat Thara-Mu Ko Phi Phi National Park"
-  address: "79, Tambon Ao Nang, Amphoe Mueang Krabi, Chang Wat Krabi 81180, Thailand"
+  id: ChIJmyyg9ADAUTARsgAo9BSyccA
+  name: Hat Noppharat Thara-Mu Ko Phi Phi National Park
+  address: '79, Tambon Ao Nang, Amphoe Mueang Krabi, Chang Wat Krabi 81180, Thailand'
   rating: 4.6
-  userRatingsTotal: 2145
-  googleMapsUrl: "https://maps.google.com/?cid=13867060530715820210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2153
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13867060530715820210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.0470726
   lng: 98.7991751
-  phone: "+66 75 656 150"
+  phone: +66 75 656 150
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-09-03
+    updated: 2026-09-03T00:00:00.000Z
     weekdayQuiet:
       - 12
     weekdayBusy:
@@ -47,24 +56,45 @@ place:
     weekendBusy:
       - 8
       - 9
-    venueId: "ven_416363795342396f41677352415455414441396779796d4a496843"
+    venueId: ven_416363795342396f41677352415455414441396779796d4a496843
 tags:
-  - "koh phi phi"
-  - "park"
-quickAnswer: "Hat Noppharat Thara-Mu Ko Phi Phi National Park is the marine park covering Koh Phi Phi, Maya Bay and the mainland beach near Ao Nang in Krabi province. Gates and ticket booths run 8am-4:30pm daily; the quietest weekday window is 12pm-1pm, while 8am-10am on weekends brings the heaviest speedboat traffic. Budget a full day for Phi Phi Leh's coves, half a day if you're only doing Maya Bay."
+  - koh phi phi
+  - park
+quickAnswer: >-
+  Hat Noppharat Thara-Mu Ko Phi Phi National Park is the marine park covering
+  Koh Phi Phi, Maya Bay and the mainland beach near Ao Nang in Krabi province.
+  Gates and ticket booths run 8am-4:30pm daily; the quietest weekday window is
+  12pm-1pm, while 8am-10am on weekends brings the heaviest speedboat traffic.
+  Budget a full day for Phi Phi Leh's coves, half a day if you're only doing
+  Maya Bay.
 faq:
-  - q: "How do I get to Hat Noppharat Thara-Mu Ko Phi Phi National Park?"
-    a: "For the islands, take a ferry or speedboat from Phi Phi Don pier, or a day-trip boat from Ao Nang/Krabi on the mainland. The mainland beach section (Hat Noppharat Thara) is reachable by road from Ao Nang."
-  - q: "What are the park's opening hours?"
-    a: "Gates and ticket checkpoints operate 8:00 AM to 4:30 PM daily, seven days a week. Boats must clear the park before closing, so confirm your tour's return time."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekdays between 12pm and 1pm are the quietest recorded window. Avoid weekends between 8am and 10am, when speedboats from multiple ports arrive at once."
-  - q: "How long should I spend at Maya Bay and the islands?"
-    a: "A full island-hopping day (6-8 hours) covers Maya Bay, Pileh Lagoon, Monkey Beach and Bamboo Island. A half-day trip usually covers Maya Bay alone."
-  - q: "Is there an entry fee separate from the boat tour?"
-    a: "Yes, most boat tours charge separately for the park entrance fee, typically collected in cash at the checkpoint, so bring cash and ID."
+  - q: How do I get to Hat Noppharat Thara-Mu Ko Phi Phi National Park?
+    a: >-
+      For the islands, take a ferry or speedboat from Phi Phi Don pier, or a
+      day-trip boat from Ao Nang/Krabi on the mainland. The mainland beach
+      section (Hat Noppharat Thara) is reachable by road from Ao Nang.
+  - q: What are the park's opening hours?
+    a: >-
+      Gates and ticket checkpoints operate 8:00 AM to 4:30 PM daily, seven days
+      a week. Boats must clear the park before closing, so confirm your tour's
+      return time.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekdays between 12pm and 1pm are the quietest recorded window. Avoid
+      weekends between 8am and 10am, when speedboats from multiple ports arrive
+      at once.
+  - q: How long should I spend at Maya Bay and the islands?
+    a: >-
+      A full island-hopping day (6-8 hours) covers Maya Bay, Pileh Lagoon,
+      Monkey Beach and Bamboo Island. A half-day trip usually covers Maya Bay
+      alone.
+  - q: Is there an entry fee separate from the boat tour?
+    a: >-
+      Yes, most boat tours charge separately for the park entrance fee,
+      typically collected in cash at the checkpoint, so bring cash and ID.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 ## What this park actually covers
 

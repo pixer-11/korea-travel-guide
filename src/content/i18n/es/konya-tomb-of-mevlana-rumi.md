@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: konya-tomb-of-mevlana-rumi
-srcHash: '5550f523cd4b'
+srcHash: '42325faa4fad'
 title: 'Tumba de Mevlana Rumi: guía de viaje de Konya (4,9★)'
-description: 'La Tumba de Mevlana Rumi (el Museo Mevlana), en el distrito de Karatay, en Konya, abre todos los días de 9:00 a 16:40, los lunes desde las 10:00, y requiere entre 60 y 90 minutos de visita. 4,9★ (239 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Tumba de Mevlana Rumi (el Museo Mevlana), en el distrito de Karatay, en Konya, abre todos los días de 9:00 a 16:40, los lunes desde las 10:00, y requiere entre 60 y 90 minutos de visita. 4,9★ (241 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Tumba de Mevlana Rumi (el Museo Mevlana), en el distrito de Karatay, en Konya, abre todos los días de 9:00 a 16:40, los lunes desde las 10:00, y requiere entre 60 y 90 minutos de visita. Conviene llegar temprano en una mañana de entre semana para contemplar la cúpula acanalada de color turquesa y el sarcófago de Rumi sin aglomeraciones. El lugar todavía pasa bastante desapercibido para el turismo internacional, así que no encontrará el tumulto que hay en los grandes sitios de Istanbul.
 faq:
   - q: ¿Cuánto tiempo hay que dedicarle a la visita de la Tumba de Mevlana Rumi?

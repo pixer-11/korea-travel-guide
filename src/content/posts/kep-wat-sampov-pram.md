@@ -1,51 +1,77 @@
 ---
-title: "Wat Sampov Pram: Kep Travel Guide (4.5★)"
-description: "Wat Sampov Pram is a hillside Buddhist temple on the edge of Kep, Cambodia, best visited in the cooler early morning or late afternoon when the light hits the stupas and the climb up isn't a sweat-fest. 4.5★ (671 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Kep"
-category: "attraction"
-pubDate: "2026-08-27T18:22:51.360Z"
+title: 'Wat Sampov Pram: Kep Travel Guide (4.5★)'
+description: >-
+  Wat Sampov Pram is a hillside Buddhist temple on the edge of Kep, Cambodia,
+  best visited in the cooler early morning or late afternoon when the light hits
+  the stupas and the climb up isn't a sweat-fest. 4.5★ (674 reviews) — what
+  visitors say, hours, and tips.
+country: Cambodia
+region: Kep
+category: attraction
+pubDate: '2026-08-27T18:22:51.360Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/05-Wat_Sampov_Pram-nX-9.jpg/3840px-05-Wat_Sampov_Pram-nX-9.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:05-Wat_Sampov_Pram-nX-9.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/05-Wat_Sampov_Pram-nX-9.jpg/3840px-05-Wat_Sampov_Pram-nX-9.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:05-Wat_Sampov_Pram-nX-9.jpg'
+  via: act
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/469719543_cAitWhc6DqKtREIw0QcdUOIKUXmsU_Re4Nm4pKWNmsI.jpg"
-    credit: "Photo: Foursquare user content (Wat Sampov Pram)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/63e4866ae651857af358b73a"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/469719543_cAitWhc6DqKtREIw0QcdUOIKUXmsU_Re4Nm4pKWNmsI.jpg
+    credit: 'Photo: Foursquare user content (Wat Sampov Pram)'
+    license: foursquare
+    source: 'https://foursquare.com/v/63e4866ae651857af358b73a'
 place:
-  id: "ChIJX94vv884CDERSOrMhyiBoL8"
-  name: "Wat Sampov Pram"
-  address: "Cambodia"
+  id: ChIJX94vv884CDERSOrMhyiBoL8
+  name: Wat Sampov Pram
+  address: Cambodia
   rating: 4.5
-  userRatingsTotal: 671
-  googleMapsUrl: "https://maps.google.com/?cid=13808178468594969160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 674
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13808178468594969160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.629872299999999
   lng: 104.0173641
 tags:
-  - "kep"
-  - "historic site"
-quickAnswer: "Wat Sampov Pram is a hillside Buddhist temple on the edge of Kep, Cambodia, best visited in the cooler early morning or late afternoon when the light hits the stupas and the climb up isn't a sweat-fest. It's an under-the-radar stop compared to Kep's crab market and national park, so you'll likely have long stretches of the grounds to yourself. Plan for 30-60 minutes, plus a few minutes of quiet if a monk happens to be around."
+  - kep
+  - historic site
+quickAnswer: >-
+  Wat Sampov Pram is a hillside Buddhist temple on the edge of Kep, Cambodia,
+  best visited in the cooler early morning or late afternoon when the light hits
+  the stupas and the climb up isn't a sweat-fest. It's an under-the-radar stop
+  compared to Kep's crab market and national park, so you'll likely have long
+  stretches of the grounds to yourself. Plan for 30-60 minutes, plus a few
+  minutes of quiet if a monk happens to be around.
 faq:
-  - q: "How do I get to Wat Sampov Pram from central Kep?"
-    a: "There's no direct bus or train; hire a tuk-tuk or rent a motorbike for the short drive, or ask your guesthouse to arrange a taxi. It's easy to combine with Kep National Park or the crab market in the same trip."
-  - q: "Is there an entrance fee?"
-    a: "There's no formal ticket booth. Small voluntary donations toward the temple's upkeep are customary but not required."
-  - q: "How long should I plan for a visit?"
-    a: "Most people spend 30 to 60 minutes here, enough time to walk the stupas, climb the staircases, and take in the coastal views without rushing."
-  - q: "What should I wear?"
-    a: "Dress modestly, covering shoulders and knees, and be ready to remove your shoes before entering the prayer hall, standard etiquette at any active Cambodian wat."
-  - q: "When is the best time of day to visit?"
-    a: "Aim for before 9am or after 4pm, when temperatures are lower and the light is best for photos. Midday is fine too but shadier spots are limited."
+  - q: How do I get to Wat Sampov Pram from central Kep?
+    a: >-
+      There's no direct bus or train; hire a tuk-tuk or rent a motorbike for the
+      short drive, or ask your guesthouse to arrange a taxi. It's easy to
+      combine with Kep National Park or the crab market in the same trip.
+  - q: Is there an entrance fee?
+    a: >-
+      There's no formal ticket booth. Small voluntary donations toward the
+      temple's upkeep are customary but not required.
+  - q: How long should I plan for a visit?
+    a: >-
+      Most people spend 30 to 60 minutes here, enough time to walk the stupas,
+      climb the staircases, and take in the coastal views without rushing.
+  - q: What should I wear?
+    a: >-
+      Dress modestly, covering shoulders and knees, and be ready to remove your
+      shoes before entering the prayer hall, standard etiquette at any active
+      Cambodian wat.
+  - q: When is the best time of day to visit?
+    a: >-
+      Aim for before 9am or after 4pm, when temperatures are lower and the light
+      is best for photos. Midday is fine too but shadier spots are limited.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

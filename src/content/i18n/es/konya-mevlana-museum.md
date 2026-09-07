@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: konya-mevlana-museum
-srcHash: 'cba98ec300bd'
+srcHash: 'a062ad5c118b'
 title: 'Museo Mevlana: Guía de viaje de Konya (4.7★)'
-description: 'El Museo Mevlana, mausoleo y convento de derviches de Rumi, abre todos los días de 9:00 a 18:30. 4.7★ (75.105 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Mevlana, mausoleo y convento de derviches de Rumi, abre todos los días de 9:00 a 18:30. 4.7★ (75.899 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo Mevlana, mausoleo y convento de derviches de Rumi, abre todos los días de 9:00 a 18:30. Ve justo a la apertura o después de las 17:00 para evitar las multitudes: los fines de semana entre las 12:00 y las 17:00 son el tramo más concurrido. Calcula entre 45 y 90 minutos, viste de forma recatada y combínalo con la cercana Mezquita Selimiye.'
 faq:
   - q: ¿Cuál es el horario de apertura?

@@ -1,37 +1,45 @@
 ---
-title: "Victoria Memorial: Kolkata Travel Guide (4.6★)"
-description: "Victoria Memorial is Kolkata's grand white-marble monument-turned-museum in the Maidan, open Tuesday to Sunday, 10am–6pm (closed Monday). 4.6★ (90,492 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "hidden-gem"
-pubDate: "2026-08-12T08:48:27.894Z"
+title: 'Victoria Memorial: Kolkata Travel Guide (4.6★)'
+description: >-
+  Victoria Memorial is Kolkata's grand white-marble monument-turned-museum in
+  the Maidan, open Tuesday to Sunday, 10am–6pm (closed Monday). 4.6★ (91,892
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: Kolkata
+category: hidden-gem
+pubDate: '2026-08-12T08:48:27.894Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Victoria_Memorial_situated_in_Kolkata.jpg/1920px-Victoria_Memorial_situated_in_Kolkata.jpg"
-  credit: "Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Victoria_Memorial_situated_in_Kolkata.jpg/1920px-Victoria_Memorial_situated_in_Kolkata.jpg
+  credit: 'Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg
 gallery: []
 place:
-  id: "ChIJXQGuRhN3AjoRY5fjvORAtQA"
-  name: "Victoria Memorial"
-  address: "Victoria Memorial Hall, 1, Queens Way, Maidan, Kolkata, West Bengal 700071, India"
+  id: ChIJXQGuRhN3AjoRY5fjvORAtQA
+  name: Victoria Memorial
+  address: >-
+    Victoria Memorial Hall, 1, Queens Way, Maidan, Kolkata, West Bengal 700071,
+    India
   rating: 4.6
-  userRatingsTotal: 90492
-  googleMapsUrl: "https://maps.google.com/?cid=51018321950381923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 91892
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=51018321950381923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.5448082
   lng: 88.3425578
-  phone: "+91 33 2223 1890"
+  phone: +91 33 2223 1890
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -45,24 +53,39 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_41517441524f766a663559526f6a41334e6852754751584a496843"
+    venueId: ven_41517441524f766a663559526f6a41334e6852754751584a496843
 tags:
-  - "kolkata"
-  - "hidden gem"
-quickAnswer: "Victoria Memorial is Kolkata's grand white-marble monument-turned-museum in the Maidan, open Tuesday to Sunday, 10am–6pm (closed Monday). It's genuinely popular — not a secret — so aim for an early slot on a weekday morning and skip weekend afternoons, when crowds peak from 11am to 6pm. Budget 1.5–2 hours for the museum galleries plus a slow lap of the gardens."
+  - kolkata
+  - hidden gem
+quickAnswer: >-
+  Victoria Memorial is Kolkata's grand white-marble monument-turned-museum in
+  the Maidan, open Tuesday to Sunday, 10am–6pm (closed Monday). It's genuinely
+  popular — not a secret — so aim for an early slot on a weekday morning and
+  skip weekend afternoons, when crowds peak from 11am to 6pm. Budget 1.5–2 hours
+  for the museum galleries plus a slow lap of the gardens.
 faq:
-  - q: "What are the opening hours?"
-    a: "Open Tuesday to Sunday, 10am–6pm. Closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 10am opening tend to be calmest. Avoid weekends between 11am and 6pm, when crowds peak."
-  - q: "How do I get there by metro?"
-    a: "Take the Kolkata Metro Blue Line (Line 1) to Maidan station, then walk about 5–10 minutes. Rabindra Sadan station is a similar distance from the southern entrance."
-  - q: "How long should I plan to spend there?"
-    a: "Around 1.5–2 hours for the main galleries and Calcutta Gallery, or 2–3 hours if you also walk the gardens."
-  - q: "Is it worth combining with other sights?"
-    a: "Yes — St. Paul's Cathedral and the Indian Museum are both within easy walking or short-cab distance and pair well with a Maidan morning."
+  - q: What are the opening hours?
+    a: 'Open Tuesday to Sunday, 10am–6pm. Closed all day Monday.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 10am opening tend to be calmest. Avoid
+      weekends between 11am and 6pm, when crowds peak.
+  - q: How do I get there by metro?
+    a: >-
+      Take the Kolkata Metro Blue Line (Line 1) to Maidan station, then walk
+      about 5–10 minutes. Rabindra Sadan station is a similar distance from the
+      southern entrance.
+  - q: How long should I plan to spend there?
+    a: >-
+      Around 1.5–2 hours for the main galleries and Calcutta Gallery, or 2–3
+      hours if you also walk the gardens.
+  - q: Is it worth combining with other sights?
+    a: >-
+      Yes — St. Paul's Cathedral and the Indian Museum are both within easy
+      walking or short-cab distance and pair well with a Maidan morning.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

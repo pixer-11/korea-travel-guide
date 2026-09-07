@@ -1,43 +1,49 @@
 ---
-title: "Wat Phra Yai: Koh Samui Travel Guide (4.5★)"
-description: "Wat Phra Yai (the \"Big Buddha Temple\") sits on its own small island connected by causeway to Bo Put in northeast Koh Samui, open daily 7:00 AM–6:30 PM with free entry. 4.5★ (11,482 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Samui"
-category: "attraction"
-pubDate: "2026-09-07T10:38:17.820Z"
+title: 'Wat Phra Yai: Koh Samui Travel Guide (4.5★)'
+description: >-
+  Wat Phra Yai (the "Big Buddha Temple") sits on its own small island connected
+  by causeway to Bo Put in northeast Koh Samui, open daily 7:00 AM–6:30 PM with
+  free entry. 4.5★ (11,484 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Koh Samui
+category: attraction
+pubDate: '2026-09-07T10:38:17.820Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Budda_kuju.jpg/1920px-Budda_kuju.jpg"
-  credit: "Photo: Abrget47j / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Budda_kuju.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Budda_kuju.jpg/1920px-Budda_kuju.jpg
+  credit: 'Photo: Abrget47j / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Budda_kuju.jpg'
   focus:
     x: 51
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Koh_Samui%2C_Big_Buddha_01.jpg/3840px-Koh_Samui%2C_Big_Buddha_01.jpg"
-    credit: "Photo: Golfer70 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Koh_Samui,_Big_Buddha_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Koh_Samui%2C_Big_Buddha_01.jpg/3840px-Koh_Samui%2C_Big_Buddha_01.jpg
+    credit: 'Photo: Golfer70 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Koh_Samui,_Big_Buddha_01.jpg'
 place:
-  id: "ChIJGycOnAzwVDAR4IZEMPSKJds"
-  name: "Wat Phra Yai"
-  address: "H3C6+87P, Bo Put, Ko Samui District, Surat Thani 84320, Thailand"
+  id: ChIJGycOnAzwVDAR4IZEMPSKJds
+  name: Wat Phra Yai
+  address: 'H3C6+87P, Bo Put, Ko Samui District, Surat Thani 84320, Thailand'
   rating: 4.5
-  userRatingsTotal: 11482
-  googleMapsUrl: "https://maps.google.com/?cid=15791180449830962912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11484
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15791180449830962912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.5707832
   lng: 100.05979819999999
   openingHours:
-    - "Monday: 7:00 AM – 6:30 PM"
-    - "Tuesday: 7:00 AM – 6:30 PM"
-    - "Wednesday: 7:00 AM – 6:30 PM"
-    - "Thursday: 7:00 AM – 6:30 PM"
-    - "Friday: 7:00 AM – 6:30 PM"
-    - "Saturday: 7:00 AM – 6:30 PM"
-    - "Sunday: 7:00 AM – 6:30 PM"
+    - 'Monday: 7:00 AM – 6:30 PM'
+    - 'Tuesday: 7:00 AM – 6:30 PM'
+    - 'Wednesday: 7:00 AM – 6:30 PM'
+    - 'Thursday: 7:00 AM – 6:30 PM'
+    - 'Friday: 7:00 AM – 6:30 PM'
+    - 'Saturday: 7:00 AM – 6:30 PM'
+    - 'Sunday: 7:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-09-07
+    updated: 2026-09-07T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,26 +60,49 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_73644a4b53504d455a493452414456777a416e4f6379474a496843"
+    venueId: ven_73644a4b53504d455a493452414456777a416e4f6379474a496843
 tags:
-  - "koh samui"
-  - "historic site"
-quickAnswer: "Wat Phra Yai (the \"Big Buddha Temple\") sits on its own small island connected by causeway to Bo Put in northeast Koh Samui, open daily 7:00 AM–6:30 PM with free entry. Go right at opening, between 7am and 9am, to beat the tour buses that pack the causeway and stairs from 10am to 3pm on weekends. Budget 30–45 minutes for the statue and temple grounds, more if you linger at the market stalls below."
+  - koh samui
+  - historic site
+quickAnswer: >-
+  Wat Phra Yai (the "Big Buddha Temple") sits on its own small island connected
+  by causeway to Bo Put in northeast Koh Samui, open daily 7:00 AM–6:30 PM with
+  free entry. Go right at opening, between 7am and 9am, to beat the tour buses
+  that pack the causeway and stairs from 10am to 3pm on weekends. Budget 30–45
+  minutes for the statue and temple grounds, more if you linger at the market
+  stalls below.
 faq:
-  - q: "What are the opening hours for Wat Phra Yai?"
-    a: "It's open daily from 7:00 AM to 6:30 PM, with the same hours every day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 7am and 9am, right after opening. Weekend afternoons from 10am to 3pm see the heaviest tour bus traffic."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free, though there's a donation box near the main statue and small change is appreciated."
-  - q: "How do I get to Wat Phra Yai?"
-    a: "It's on the northeast coast in Bo Put, about a 10-15 minute drive from Chaweng and just a few minutes from Samui Airport. Rental scooters, taxis, and coastal songthaews all serve the area."
-  - q: "What should I wear?"
-    a: "Cover your shoulders and knees; this is an active temple and the dress code is enforced. A scarf or sarong works if you're in shorts or a tank top, and you'll need to remove shoes on any raised temple floor."
-  - q: "What else is nearby?"
-    a: "Bo Put's Fisherman's Village is just a few minutes away, with restored shophouses turned into cafes and restaurants, plus a Friday-night walking street market."
+  - q: What are the opening hours for Wat Phra Yai?
+    a: >-
+      It's open daily from 7:00 AM to 6:30 PM, with the same hours every day of
+      the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 7am and 9am, right after
+      opening. Weekend afternoons from 10am to 3pm see the heaviest tour bus
+      traffic.
+  - q: Is there an entrance fee?
+    a: >-
+      No, entry is free, though there's a donation box near the main statue and
+      small change is appreciated.
+  - q: How do I get to Wat Phra Yai?
+    a: >-
+      It's on the northeast coast in Bo Put, about a 10-15 minute drive from
+      Chaweng and just a few minutes from Samui Airport. Rental scooters, taxis,
+      and coastal songthaews all serve the area.
+  - q: What should I wear?
+    a: >-
+      Cover your shoulders and knees; this is an active temple and the dress
+      code is enforced. A scarf or sarong works if you're in shorts or a tank
+      top, and you'll need to remove shoes on any raised temple floor.
+  - q: What else is nearby?
+    a: >-
+      Bo Put's Fisherman's Village is just a few minutes away, with restored
+      shophouses turned into cafes and restaurants, plus a Friday-night walking
+      street market.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 The 12-metre gilded Buddha at Wat Phra Yai has watched over Koh Samui's northeast coast since 1972, seated cross-legged on a raised platform on a tiny rock islet joined to Bo Put by a short causeway. You see it from the road long before you arrive: a wall of gold leaf catching the light above the palm line, visible from planes on final approach into Samui Airport just a couple of kilometres away.

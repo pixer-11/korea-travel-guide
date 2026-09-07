@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kolkata-howrah-bridge
-srcHash: '2a7123f6491e'
+srcHash: '904ce61cbd62'
 title: 'Puente Howrah: Guía de viaje de Calcuta (4.6★)'
-description: 'El puente Howrah es el icónico puente cantilever de Calcuta, construido en 1943 sobre el río Hooghly, abierto las 24 horas y que se disfruta mejor al amanecer o desde un ferry fluvial que a pie entre el tráfico. 4.6★ (136,048 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El puente Howrah es el icónico puente cantilever de Calcuta, construido en 1943 sobre el río Hooghly, abierto las 24 horas y que se disfruta mejor al amanecer o desde un ferry fluvial que a pie entre el tráfico. 4.6★ (136,227 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El puente Howrah es el icónico puente cantilever de Calcuta, construido en 1943 sobre el río Hooghly, abierto las 24 horas y que se disfruta mejor al amanecer o desde un ferry fluvial que a pie entre el tráfico. Es un lugar sumamente visitado, así que los fines de semana durante el día (con mayor afluencia aproximadamente de 9am a 10pm) es cuando hay más gente. Dedícale entre 30 y 60 minutos, más si añades un paseo en barco o una caminata por el mercado de flores de Mullick Ghat, justo debajo del puente.
 faq:
   - q: ¿Cómo llego al puente Howrah en transporte público?

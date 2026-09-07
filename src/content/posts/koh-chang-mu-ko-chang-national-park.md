@@ -1,59 +1,90 @@
 ---
-title: "Mu Ko Chang National Park: Koh Chang Travel Guide (4.5★)"
-description: "Mu Ko Chang National Park covers most of Koh Chang island and its surrounding archipelago in Trat province, Thailand, with jungle waterfall trails, snorkeling reefs, and mangrove-lined bays. 4.5★ (4,337 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Chang"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:20:22.159Z"
+title: 'Mu Ko Chang National Park: Koh Chang Travel Guide (4.5★)'
+description: >-
+  Mu Ko Chang National Park covers most of Koh Chang island and its surrounding
+  archipelago in Trat province, Thailand, with jungle waterfall trails,
+  snorkeling reefs, and mangrove-lined bays. 4.5★ (4,336 reviews) — what
+  visitors say, hours, and tips.
+country: Thailand
+region: Koh Chang
+category: hidden-gem
+pubDate: '2026-08-24T08:20:22.159Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moo_Koh_Chang5.JPG/1920px-Moo_Koh_Chang5.JPG"
-  credit: "Photo: Toey19863 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Moo_Koh_Chang5.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moo_Koh_Chang5.JPG/1920px-Moo_Koh_Chang5.JPG
+  credit: 'Photo: Toey19863 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Moo_Koh_Chang5.JPG'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg/3840px-Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Koh_Wai,_Thailand,_Mu_Ko_Chang_National_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg/3840px-Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Koh_Wai,_Thailand,_Mu_Ko_Chang_National_Park.jpg
 place:
-  id: "ChIJf9d2GnIRBDERoq03lJjSEQk"
-  name: "Mu Ko Chang National Park"
-  address: "23/7 หมู่ที่ 3 ตำบล เกาะช้าง ตำบล เกาะช้าง อำเภอ กิ่ง Amphoe Ko Chang, Chang Wat Trat 23170, Thailand"
+  id: ChIJf9d2GnIRBDERoq03lJjSEQk
+  name: Mu Ko Chang National Park
+  address: >-
+    23/7 หมู่ที่ 3 ตำบล เกาะช้าง ตำบล เกาะช้าง อำเภอ กิ่ง Amphoe Ko Chang, Chang
+    Wat Trat 23170, Thailand
   rating: 4.5
-  userRatingsTotal: 4337
-  googleMapsUrl: "https://maps.google.com/?cid=653534973708971426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4336
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=653534973708971426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.124744
   lng: 102.26925550000001
-  phone: "+66 39 510 928"
+  phone: +66 39 510 928
   openingHours:
-    - "Monday: 8:30 AM – 4:30 PM"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: 8:30 AM – 4:30 PM"
-    - "Sunday: 8:30 AM – 4:30 PM"
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
 tags:
-  - "koh chang"
-  - "hidden gem"
-quickAnswer: "Mu Ko Chang National Park covers most of Koh Chang island and its surrounding archipelago in Trat province, Thailand, with jungle waterfall trails, snorkeling reefs, and mangrove-lined bays. The park office and main trailheads keep daily hours of 8:30am to 4:30pm, and the calmest time to explore is on a weekday morning before tour boats fill the piers. Plan on a half to full day for waterfalls or hiking, longer if you're island-hopping to the offshore reefs."
+  - koh chang
+  - hidden gem
+quickAnswer: >-
+  Mu Ko Chang National Park covers most of Koh Chang island and its surrounding
+  archipelago in Trat province, Thailand, with jungle waterfall trails,
+  snorkeling reefs, and mangrove-lined bays. The park office and main trailheads
+  keep daily hours of 8:30am to 4:30pm, and the calmest time to explore is on a
+  weekday morning before tour boats fill the piers. Plan on a half to full day
+  for waterfalls or hiking, longer if you're island-hopping to the offshore
+  reefs.
 faq:
-  - q: "How much does it cost to enter Mu Ko Chang National Park?"
-    a: "Rangers collect a small entry fee (often a few hundred baht for foreign visitors) at trailheads like Klong Plu Waterfall; this is separate from any boat tour price, so bring cash."
-  - q: "What are the opening hours?"
-    a: "The park operates daily from 8:30am to 4:30pm. Aim to finish waterfall hikes or beach time before closing, as rangers do clear the trails."
-  - q: "When is the best time to visit for good weather?"
-    a: "November through April is dry season, with calm seas for island-hopping; December and January are the coolest months. June to October brings rain and rougher boat conditions."
-  - q: "How long should I spend in the park?"
-    a: "A half-day covers a waterfall hike like Klong Plu; a full day is better if you're combining a hike with a snorkeling boat trip from Bang Bao pier."
-  - q: "When is it quietest to avoid crowds?"
-    a: "Arriving right at the 8:30am opening, before tour buses reach the falls, and visiting on weekdays rather than weekends both help you avoid the busiest windows."
+  - q: How much does it cost to enter Mu Ko Chang National Park?
+    a: >-
+      Rangers collect a small entry fee (often a few hundred baht for foreign
+      visitors) at trailheads like Klong Plu Waterfall; this is separate from
+      any boat tour price, so bring cash.
+  - q: What are the opening hours?
+    a: >-
+      The park operates daily from 8:30am to 4:30pm. Aim to finish waterfall
+      hikes or beach time before closing, as rangers do clear the trails.
+  - q: When is the best time to visit for good weather?
+    a: >-
+      November through April is dry season, with calm seas for island-hopping;
+      December and January are the coolest months. June to October brings rain
+      and rougher boat conditions.
+  - q: How long should I spend in the park?
+    a: >-
+      A half-day covers a waterfall hike like Klong Plu; a full day is better if
+      you're combining a hike with a snorkeling boat trip from Bang Bao pier.
+  - q: When is it quietest to avoid crowds?
+    a: >-
+      Arriving right at the 8:30am opening, before tour buses reach the falls,
+      and visiting on weekdays rather than weekends both help you avoid the
+      busiest windows.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why Mu Ko Chang Is Worth the Trip

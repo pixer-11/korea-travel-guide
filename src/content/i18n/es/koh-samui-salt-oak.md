@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-samui-salt-oak
-srcHash: 'aaa814bc61c4'
+srcHash: '01fe50fab09a'
 title: 'Salt & Oak: dónde comer en Koh Samui'
 description: Salt & Oak es un restaurante de cocina abierta y parrilla a leña en Bo Put, en el noreste de Koh Samui, cerca de Fisherman's Village, con una calificación de 4.8 sobre más de 1,200 reseñas.
 quickAnswer: Salt & Oak es un restaurante de cocina abierta y parrilla a leña en Bo Put, en el noreste de Koh Samui, cerca de Fisherman's Village, con una calificación de 4.8 sobre más de 1,200 reseñas. Conviene ir a cenar (reservando con antelación, sobre todo en temporada alta, de noviembre a marzo) y calcular entre 90 minutos y dos horas para una comida de varios platos. Si vas un viernes, puedes combinarlo con un paseo nocturno por el mercado callejero de Fisherman's Village.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué Salt & Oak destaca
 
-La escena gastronómica de Koh Samui gira sobre todo en torno a chiringuitos de mariscos frente a la playa y bufés de hotel, así que un restaurante centrado en la cocción al fuego vivo y un menú cuidadosamente seleccionado no tarda en llamar la atención. Eso es justo lo que ha logrado Salt & Oak, con una calificación de 4.8 acumulada en más de 1,200 reseñas.
+La escena gastronómica de Koh Samui gira sobre todo en torno a chiringuitos de mariscos frente a la playa y bufés de hotel, así que un restaurante centrado en la cocción al fuego vivo y un menú cuidadosamente seleccionado no tarda en llamar la atención. Eso es justo lo que ha logrado Salt & Oak, con una calificación de 4.9 acumulada en más de 1,200 reseñas.
 
 Se trata de un volumen inusualmente alto para un solo restaurante en la isla, lo que indica un flujo constante de clientes recurrentes y no una simple moda pasajera de una temporada.
 
@@ -40,7 +40,7 @@ La identidad del restaurante gira en torno a la cocción a leña y a fuego abier
 
 Dado el nombre y el formato del restaurante, se puede esperar una combinación de mariscos a la parrilla (una elección casi obligada en una isla rodeada de mar), carnes maduradas o cocinadas en seco, y verduras chamuscadas en lugar de cocidas al vapor.
 
-Las porciones y el ritmo del servicio están pensados para compartir: conviene pedir varias entradas para la mesa y luego dividir uno o dos platos principales grandes a la parrilla, en lugar de que cada persona pida un plato individual completo. Un volumen de reseñas tan alto con un promedio de 4.8 suele reflejar consistencia general más que un solo plato estrella, así que conviene confiar en la recomendación del día que haga el personal antes que en un favorito fijo.
+Las porciones y el ritmo del servicio están pensados para compartir: conviene pedir varias entradas para la mesa y luego dividir uno o dos platos principales grandes a la parrilla, en lugar de que cada persona pida un plato individual completo. Un volumen de reseñas tan alto con un promedio de 4.9 suele reflejar consistencia general más que un solo plato estrella, así que conviene confiar en la recomendación del día que haga el personal antes que en un favorito fijo.
 
 ## Cuándo ir
 

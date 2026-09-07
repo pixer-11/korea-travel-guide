@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park
-srcHash: '74028b00176e'
+srcHash: '4e0835cef192'
 title: 'Parque Nacional Hat Noppharat Thara-Mu Ko Phi Phi: guía de viaje a Koh Phi Phi'
-description: 'Hat Noppharat Thara-Mu Ko Phi Phi es el parque marino que abarca Koh Phi Phi, Maya Bay y la playa continental cercana a Ao Nang, en la provincia de Krabi. 4.6★ (2.145 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
+description: 'Hat Noppharat Thara-Mu Ko Phi Phi es el parque marino que abarca Koh Phi Phi, Maya Bay y la playa continental cercana a Ao Nang, en la provincia de Krabi. 4.6★ (2.153 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: Hat Noppharat Thara-Mu Ko Phi Phi es el parque marino que abarca Koh Phi Phi, Maya Bay y la playa continental cercana a Ao Nang, en la provincia de Krabi. Las puertas y los puestos de venta de entradas funcionan de 8:00 a 16:30 todos los días; entre semana, la franja de menor afluencia va de 12:00 a 13:00, mientras que los fines de semana de 8:00 a 10:00 se concentra el mayor tráfico de lanchas rápidas. Conviene reservar un día completo para explorar las calas de Phi Phi Leh, o medio día si solo se va a visitar Maya Bay.
 faq:
   - q: ¿Cómo se llega al Parque Nacional Hat Noppharat Thara-Mu Ko Phi Phi?

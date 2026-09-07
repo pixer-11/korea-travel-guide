@@ -1,50 +1,74 @@
 ---
-title: "Toshhovli Palace: Khiva Travel Guide (4.7★)"
-description: "Toshhovli Palace sits inside Khiva's walled old city, Ichan-Qala, a five-minute walk from the Kunya-Ark citadel. 4.7★ (510 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Khiva"
-category: "attraction"
-pubDate: "2026-08-20T09:19:12.744Z"
+title: 'Toshhovli Palace: Khiva Travel Guide (4.7★)'
+description: >-
+  Toshhovli Palace sits inside Khiva's walled old city, Ichan-Qala, a
+  five-minute walk from the Kunya-Ark citadel. 4.7★ (525 reviews) — what
+  visitors say, hours, and tips.
+country: Uzbekistan
+region: Khiva
+category: attraction
+pubDate: '2026-08-20T09:19:12.744Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Room_in_Tach_Khaouli.jpg/1920px-Room_in_Tach_Khaouli.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Room_in_Tach_Khaouli.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Room_in_Tach_Khaouli.jpg/1920px-Room_in_Tach_Khaouli.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Room_in_Tach_Khaouli.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/48/Toshhovli.jpg"
-    credit: "Photo: Aza Olimjonovv / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Toshhovli.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/4/48/Toshhovli.jpg'
+    credit: 'Photo: Aza Olimjonovv / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Toshhovli.jpg'
 place:
-  id: "ChIJVVWVhRGk30ER4MGxvBEN5Ds"
-  name: "Toshhovli Palace"
-  address: "Khiva, Xorazm Region, Uzbekistan"
+  id: ChIJVVWVhRGk30ER4MGxvBEN5Ds
+  name: Toshhovli Palace
+  address: 'Khiva, Xorazm Region, Uzbekistan'
   rating: 4.7
-  userRatingsTotal: 510
-  googleMapsUrl: "https://maps.google.com/?cid=4315588712759149024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 525
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4315588712759149024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3784175
   lng: 60.3616671
 tags:
-  - "khiva"
-  - "Tash Hauli Palace"
-quickAnswer: "Toshhovli Palace sits inside Khiva's walled old city, Ichan-Qala, a five-minute walk from the Kunya-Ark citadel. Built in the 1830s-40s by Khan Allakuli, it's less crowded than Khiva's headline sights despite its scale, so aim for mid-morning or late afternoon and give it 45-60 minutes. Entry is usually covered by Ichan-Qala's combined museum ticket, sold at the gates."
+  - khiva
+  - Tash Hauli Palace
+quickAnswer: >-
+  Toshhovli Palace sits inside Khiva's walled old city, Ichan-Qala, a
+  five-minute walk from the Kunya-Ark citadel. Built in the 1830s-40s by Khan
+  Allakuli, it's less crowded than Khiva's headline sights despite its scale, so
+  aim for mid-morning or late afternoon and give it 45-60 minutes. Entry is
+  usually covered by Ichan-Qala's combined museum ticket, sold at the gates.
 faq:
-  - q: "How much time should I budget for Toshhovli Palace?"
-    a: "Plan for 45-60 minutes to see both courtyards, the throne room, and the handicraft museum rooms without rushing."
-  - q: "Is entry included in a general Khiva ticket?"
-    a: "Yes — Ichan-Qala sells a combined museum ticket at its main gates that typically covers Toshhovli along with most other old-city monuments. Buy it at the gate rather than seeking a separate ticket booth."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning gives the best light on the tiled courtyards and fewer tour groups. It's less visited overall than Khiva's other headline sites, so even midday rarely feels crowded."
-  - q: "How do I get to Toshhovli from outside Khiva?"
-    a: "Fly or take the train to Urgench, then a taxi of roughly 30-40 minutes into Khiva. Once inside the Ichan-Qala walls, it's a short walk east of the Kunya-Ark citadel."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "Kunya-Ark citadel is two minutes away, and the Juma Mosque with its carved wooden columns is an easy walk within the same old-city walls."
+  - q: How much time should I budget for Toshhovli Palace?
+    a: >-
+      Plan for 45-60 minutes to see both courtyards, the throne room, and the
+      handicraft museum rooms without rushing.
+  - q: Is entry included in a general Khiva ticket?
+    a: >-
+      Yes — Ichan-Qala sells a combined museum ticket at its main gates that
+      typically covers Toshhovli along with most other old-city monuments. Buy
+      it at the gate rather than seeking a separate ticket booth.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning gives the best light on the tiled courtyards and fewer tour
+      groups. It's less visited overall than Khiva's other headline sites, so
+      even midday rarely feels crowded.
+  - q: How do I get to Toshhovli from outside Khiva?
+    a: >-
+      Fly or take the train to Urgench, then a taxi of roughly 30-40 minutes
+      into Khiva. Once inside the Ichan-Qala walls, it's a short walk east of
+      the Kunya-Ark citadel.
+  - q: What else is nearby worth combining with the visit?
+    a: >-
+      Kunya-Ark citadel is two minutes away, and the Juma Mosque with its carved
+      wooden columns is an easy walk within the same old-city walls.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why Toshhovli stands apart

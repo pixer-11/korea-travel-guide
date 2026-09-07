@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-samui-wat-plai-laem
-srcHash: '7aef4cd74707'
+srcHash: 'c1d9140c3f6e'
 title: 'Wat Plai Laem: guía de viaje de Koh Samui (4,7★)'
-description: 'Wat Plai Laem, en la costa noreste de Koh Samui, cerca de Bophut y Big Buddha Beach, es un templo moderno de tradición budista-china famoso por su lago y por la estatua de Guanyin de dieciocho brazos que se alza sobre el agua. 4,7★ (8.428 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Wat Plai Laem, en la costa noreste de Koh Samui, cerca de Bophut y Big Buddha Beach, es un templo moderno de tradición budista-china famoso por su lago y por la estatua de Guanyin de dieciocho brazos que se alza sobre el agua. 4,7★ (8.429 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la costa noreste de Koh Samui, cerca de Bophut y Big Buddha Beach, se encuentra Wat Plai Laem, un templo moderno de tradición budista-china famoso por su lago y por la estatua de Guanyin de dieciocho brazos que emerge del agua. Abre de martes a domingo, de 11:00 a 23:30, y permanece cerrado los lunes. Conviene ir a última hora de la tarde, cuando la luz es más suave sobre las estatuas y las temperaturas bajan para el paseo alrededor del estanque.
 faq:
   - q: ¿Cuál es el horario de Wat Plai Laem?

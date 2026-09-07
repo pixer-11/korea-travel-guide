@@ -1,43 +1,50 @@
 ---
-title: "Alaaddin Hill Park: Konya Travel Guide (4.4★)"
-description: "Alaaddin Hill Park (Alaaddin Tepesi) is a mound-top park in the heart of Konya's Selçuklu district, wrapped around the ruins of the Seljuk Alaaddin Mosque and a stubby fragment of the old Seljuk palace. 4.4★ (26,151 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Konya"
-category: "attraction"
-pubDate: "2026-08-20T08:14:15.146Z"
+title: 'Alaaddin Hill Park: Konya Travel Guide (4.4★)'
+description: >-
+  Alaaddin Hill Park (Alaaddin Tepesi) is a mound-top park in the heart of
+  Konya's Selçuklu district, wrapped around the ruins of the Seljuk Alaaddin
+  Mosque and a stubby fragment of the old Seljuk palace. 4.4★ (26,281 reviews) —
+  what visitors say, hours, and tips.
+country: Turkey
+region: Konya
+category: attraction
+pubDate: '2026-08-20T08:14:15.146Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Konya_Alaaddin_Hill_2280.jpg/3840px-Konya_Alaaddin_Hill_2280.jpg"
-  credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Konya_Alaaddin_Hill_2280.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Konya_Alaaddin_Hill_2280.jpg/3840px-Konya_Alaaddin_Hill_2280.jpg
+  credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Konya_Alaaddin_Hill_2280.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1414663068_z8R3Ts6khy9PT_GQ9a08XPTnYAc_afbYxJR3DW3nH8o.jpg"
-    credit: "Photo: Foursquare user content (Alaaddin Tepesi)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4e4f6b7e62844166698e332e"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1414663068_z8R3Ts6khy9PT_GQ9a08XPTnYAc_afbYxJR3DW3nH8o.jpg
+    credit: 'Photo: Foursquare user content (Alaaddin Tepesi)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4e4f6b7e62844166698e332e'
 place:
-  id: "ChIJrVKzKqiF0BQRsIbEwZy3HzY"
-  name: "Alaaddin Hill Park"
-  address: "Hamidiye Mh, 42060 Selçuklu/Konya, Türkiye"
+  id: ChIJrVKzKqiF0BQRsIbEwZy3HzY
+  name: Alaaddin Hill Park
+  address: 'Hamidiye Mh, 42060 Selçuklu/Konya, Türkiye'
   rating: 4.4
-  userRatingsTotal: 26151
-  googleMapsUrl: "https://maps.google.com/?cid=3900037686219802288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26281
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3900037686219802288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.872516499999996
   lng: 32.4923363
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -60,24 +67,40 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_597a4833795a7745624973525142304669714b7a4b56724a496843"
+    venueId: ven_597a4833795a7745624973525142304669714b7a4b56724a496843
 tags:
-  - "konya"
-  - "historic site"
-quickAnswer: "Alaaddin Hill Park (Alaaddin Tepesi) is a mound-top park in the heart of Konya's Selçuklu district, wrapped around the ruins of the Seljuk Alaaddin Mosque and a stubby fragment of the old Seljuk palace. It's open 24 hours, free to walk into, and best visited early — weekend mornings between 7am and 10am are calmest, before the benches and paths fill up from noon onward. Give it 30–60 minutes, ideally paired with a walk down to the Mevlana Museum nearby."
+  - konya
+  - historic site
+quickAnswer: >-
+  Alaaddin Hill Park (Alaaddin Tepesi) is a mound-top park in the heart of
+  Konya's Selçuklu district, wrapped around the ruins of the Seljuk Alaaddin
+  Mosque and a stubby fragment of the old Seljuk palace. It's open 24 hours,
+  free to walk into, and best visited early — weekend mornings between 7am and
+  10am are calmest, before the benches and paths fill up from noon onward. Give
+  it 30–60 minutes, ideally paired with a walk down to the Mevlana Museum
+  nearby.
 faq:
-  - q: "Is there an entrance fee for Alaaddin Hill Park?"
-    a: "No — it's a free, open public park with no ticket or gate."
-  - q: "What are the opening hours?"
-    a: "It's open 24 hours every day of the week, though the mosque on top keeps its own limited access."
-  - q: "When is it least crowded?"
-    a: "Weekend mornings between 7am and 10am are the quietest; try to avoid noon to 9pm on Saturdays and Sundays, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30–60 minutes, usually combined with a walk to the nearby Mevlana Museum."
-  - q: "How do I get there without a car?"
-    a: "Take the Konya tram to the Alaaddin stop, or walk about 10–15 minutes uphill from the Mevlana Museum."
+  - q: Is there an entrance fee for Alaaddin Hill Park?
+    a: 'No — it''s a free, open public park with no ticket or gate.'
+  - q: What are the opening hours?
+    a: >-
+      It's open 24 hours every day of the week, though the mosque on top keeps
+      its own limited access.
+  - q: When is it least crowded?
+    a: >-
+      Weekend mornings between 7am and 10am are the quietest; try to avoid noon
+      to 9pm on Saturdays and Sundays, when it's busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 30–60 minutes, usually combined with a walk to the
+      nearby Mevlana Museum.
+  - q: How do I get there without a car?
+    a: >-
+      Take the Konya tram to the Alaaddin stop, or walk about 10–15 minutes
+      uphill from the Mevlana Museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 ## Why go
 

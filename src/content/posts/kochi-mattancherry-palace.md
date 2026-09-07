@@ -1,40 +1,47 @@
 ---
-title: "Mattancherry Palace: Kochi Travel Guide (4.2★)"
-description: "Mattancherry Palace (also called the Dutch Palace) is open 10am–5pm daily except Friday, and it's small enough to see properly in 45–60 minutes. 4.2★ (19,858 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kochi"
-category: "attraction"
-pubDate: "2026-08-11T09:25:23.842Z"
+title: 'Mattancherry Palace: Kochi Travel Guide (4.2★)'
+description: >-
+  Mattancherry Palace (also called the Dutch Palace) is open 10am–5pm daily
+  except Friday, and it's small enough to see properly in 45–60 minutes. 4.2★
+  (19,985 reviews) — what visitors say, hours, and tips.
+country: India
+region: Kochi
+category: attraction
+pubDate: '2026-08-11T09:25:23.842Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mattancherry_Palace_DSC_0899.JPG/1920px-Mattancherry_Palace_DSC_0899.JPG"
-  credit: "Photo: Ranjith Siji / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_DSC_0899.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mattancherry_Palace_DSC_0899.JPG/1920px-Mattancherry_Palace_DSC_0899.JPG
+  credit: 'Photo: Ranjith Siji / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_DSC_0899.JPG'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mattancherry_Palace_-_Throne_Room.jpg/3840px-Mattancherry_Palace_-_Throne_Room.jpg"
-    credit: "Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_-_Throne_Room.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mattancherry_Palace_-_Throne_Room.jpg/3840px-Mattancherry_Palace_-_Throne_Room.jpg
+    credit: 'Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_-_Throne_Room.jpg
 place:
-  id: "ChIJG3_h00RtCDsRyLV04bOkgGg"
-  name: "Mattancherry Palace"
-  address: "X755+8P9, Mattancherry, Kochi, Kerala 682002, India"
+  id: ChIJG3_h00RtCDsRyLV04bOkgGg
+  name: Mattancherry Palace
+  address: 'Mattancherry, Kochi, Kerala 682002, India'
   rating: 4.2
-  userRatingsTotal: 19858
-  googleMapsUrl: "https://maps.google.com/?cid=7530199669452092872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19985
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7530199669452092872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.958277299999999
   lng: 76.25935079999999
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: Closed"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -46,24 +53,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6747676b4f623430564c795273444374523030685f33474a496843"
+    venueId: ven_6747676b4f623430564c795273444374523030685f33474a496843
 tags:
-  - "kochi"
-  - "top attraction"
-quickAnswer: "Mattancherry Palace (also called the Dutch Palace) is open 10am–5pm daily except Friday, and it's small enough to see properly in 45–60 minutes. Come right at 10am opening if you can — weekends fill up fast from 11am to 5pm — and pair it with a walk through Jew Town and Jew Street just outside."
+  - kochi
+  - top attraction
+quickAnswer: >-
+  Mattancherry Palace (also called the Dutch Palace) is open 10am–5pm daily
+  except Friday, and it's small enough to see properly in 45–60 minutes. Come
+  right at 10am opening if you can — weekends fill up fast from 11am to 5pm —
+  and pair it with a walk through Jew Town and Jew Street just outside.
 faq:
-  - q: "What are the opening hours for Mattancherry Palace?"
-    a: "10am–5pm every day except Friday, when it's closed. This applies across the whole week, including weekends."
-  - q: "How long should I spend at Mattancherry Palace?"
-    a: "45 minutes to an hour is enough for most visitors — it's a compact single-storey building, though the murals reward slower viewing."
-  - q: "When is the least crowded time to visit?"
-    a: "Arrive right at 10am opening on a weekday. Weekends get busy specifically from 11am to 5pm, so avoid that window if you can."
-  - q: "How do I get to Mattancherry Palace?"
-    a: "Take the ferry from Ernakulam to Mattancherry jetty, then walk or take an auto-rickshaw about 10 minutes. From Fort Kochi it's a 20–25 minute walk or short tuk-tuk ride."
-  - q: "What else is nearby worth visiting?"
-    a: "Paradesi Synagogue and Jew Street's antique and spice shops are a five-minute walk away, making it easy to combine into a half-day Mattancherry loop."
+  - q: What are the opening hours for Mattancherry Palace?
+    a: >-
+      10am–5pm every day except Friday, when it's closed. This applies across
+      the whole week, including weekends.
+  - q: How long should I spend at Mattancherry Palace?
+    a: >-
+      45 minutes to an hour is enough for most visitors — it's a compact
+      single-storey building, though the murals reward slower viewing.
+  - q: When is the least crowded time to visit?
+    a: >-
+      Arrive right at 10am opening on a weekday. Weekends get busy specifically
+      from 11am to 5pm, so avoid that window if you can.
+  - q: How do I get to Mattancherry Palace?
+    a: >-
+      Take the ferry from Ernakulam to Mattancherry jetty, then walk or take an
+      auto-rickshaw about 10 minutes. From Fort Kochi it's a 20–25 minute walk
+      or short tuk-tuk ride.
+  - q: What else is nearby worth visiting?
+    a: >-
+      Paradesi Synagogue and Jew Street's antique and spice shops are a
+      five-minute walk away, making it easy to combine into a half-day
+      Mattancherry loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, built by the Portuguese in 1555 as a peace offering to the Raja of Kochi, then renovated decades later by the Dutch — which is why most people here still call it the Dutch Palace.

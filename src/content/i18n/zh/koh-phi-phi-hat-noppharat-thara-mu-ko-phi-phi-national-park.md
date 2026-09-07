@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park
-srcHash: '74028b00176e'
+srcHash: '4e0835cef192'
 title: 诺帕拉塔拉海滩—披披群岛国家公园（Hat Noppharat Thara-Mu Ko Phi Phi National Park）：攀牙湾外披披岛（Koh Phi Phi）旅行指南
-description: 诺帕拉塔拉海滩—披披群岛国家公园覆盖披披岛、玛雅湾（Maya Bay），以及甲米府（Krabi）奥南（Ao Nang）附近的一段大陆海滩。4.6★（2,145条评价）——看看游客怎么说，附开放时间和实用建议。
+description: 诺帕拉塔拉海滩—披披群岛国家公园覆盖披披岛、玛雅湾（Maya Bay），以及甲米府（Krabi）奥南（Ao Nang）附近的一段大陆海滩。4.6★（2,153条评价）——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: 诺帕拉塔拉海滩—披披群岛国家公园是一片海洋保护区，范围涵盖披披岛、玛雅湾，以及甲米府奥南附近的大陆海滩。园区大门和售票处每天上午8点到下午4点半开放，工作日中午12点到下午1点人最少，周末上午8点到10点则是快艇最拥挤的时段。如果要玩遍披披勒岛（Phi Phi Leh）各个海湾，建议留一整天；如果只去玛雅湾，半天就够了。
 faq:
   - q: 怎么去诺帕拉塔拉海滩—披披群岛国家公园？

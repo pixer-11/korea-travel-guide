@@ -1,31 +1,39 @@
 ---
 title: 'Izzy s Specialty Coffee: Koh Samui Travel Guide'
-description: Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before 10am to snag a seat and try a slow-bar pour-over alongside their house-roasted beans.
+description: >-
+  Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse
+  lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before
+  10am to snag a seat and try a slow-bar pour-over alongside their house-roasted
+  beans.
 country: Thailand
 region: Koh Samui
 category: trendy
 pubDate: '2026-07-22T09:19:32.395Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg
   credit: 'Photo: Foursquare user content (Izzy‘s Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/64950fd7be119a7c0e7f7ca9
+  source: 'https://foursquare.com/v/64950fd7be119a7c0e7f7ca9'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJszhAI4DxVDAR2IAOFd7moUM
   name: Izzy’s Specialty Coffee
-  address: H26c+jh6 Fisherman’s Village, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand
+  address: >-
+    H26c+jh6 Fisherman’s Village, Tambon Bo Put, Amphoe Ko Samui, Chang Wat
+    Surat Thani 84320, Thailand
   rating: 5
-  userRatingsTotal: 1046
-  googleMapsUrl: https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1137
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.5614575
   lng: 100.0211369
   priceLevel: 1
-  phone: '+66 63 269 1525'
+  phone: +66 63 269 1525
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: Closed'
@@ -37,20 +45,41 @@ place:
 tags:
   - koh samui
   - trendy cafe
-quickAnswer: Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before 10am to snag a seat and try a slow-bar pour-over alongside their house-roasted beans. It's walkable from the Fisherman's Village Walking Street and pairs well with a beach morning at Bo Put Pier. Budget 30-45 minutes; it gets busy by midday given its 1,000+ near-perfect reviews.
+quickAnswer: >-
+  Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse
+  lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before
+  10am to snag a seat and try a slow-bar pour-over alongside their house-roasted
+  beans. It's walkable from the Fisherman's Village Walking Street and pairs
+  well with a beach morning at Bo Put Pier. Budget 30-45 minutes; it gets busy
+  by midday given its 1,000+ near-perfect reviews.
 faq:
   - q: Where exactly is Izzy's Specialty Coffee located?
-    a: It's inside Fisherman's Village in Bo Put, on Koh Samui's north coast, within the pedestrian shophouse lanes near the walking street — about 15-20 minutes by car from Chaweng.
+    a: >-
+      It's inside Fisherman's Village in Bo Put, on Koh Samui's north coast,
+      within the pedestrian shophouse lanes near the walking street — about
+      15-20 minutes by car from Chaweng.
   - q: How do I get there without a rental car?
-    a: Arrange a taxi or app-based ride from your hotel (agree on price beforehand, as meters aren't standard), or stay in Bophut itself and walk, since many guesthouses there are within easy walking distance.
+    a: >-
+      Arrange a taxi or app-based ride from your hotel (agree on price
+      beforehand, as meters aren't standard), or stay in Bophut itself and walk,
+      since many guesthouses there are within easy walking distance.
   - q: How long should I plan to stay?
-    a: 30-45 minutes for a coffee and light bite is typical; seating is limited given the shophouse-sized space, so it suits solo travelers or couples more easily than large groups.
+    a: >-
+      30-45 minutes for a coffee and light bite is typical; seating is limited
+      given the shophouse-sized space, so it suits solo travelers or couples
+      more easily than large groups.
   - q: What's the best time of day to visit?
-    a: Early morning, before roughly 10-11am, avoids both the crowds and the midday heat; the village is also worth returning to in the evening, especially on walking street market nights.
+    a: >-
+      Early morning, before roughly 10-11am, avoids both the crowds and the
+      midday heat; the village is also worth returning to in the evening,
+      especially on walking street market nights.
   - q: What else can I combine with a visit?
-    a: Bo Put Pier for sunrise views, the Fisherman's Village Walking Street shops and seafood restaurants, and Big Buddha Temple (Wat Phra Yai), about 10 minutes away by car.
+    a: >-
+      Bo Put Pier for sunrise views, the Fisherman's Village Walking Street
+      shops and seafood restaurants, and Big Buddha Temple (Wat Phra Yai), about
+      10 minutes away by car.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-07'
 ---
 
 ## Why Izzy's Stands Out

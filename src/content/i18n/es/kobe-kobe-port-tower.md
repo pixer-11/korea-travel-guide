@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kobe-kobe-port-tower
-srcHash: '4a43e6e3cdb3'
+srcHash: 'd8bff5937bdd'
 title: 'Kobe Port Tower: Guía de viaje (4.2★)'
-description: 'Kobe Port Tower es el emblemático edificio rojo con forma de reloj de arena en Naka Pier, dentro del Meriken Park de Kobe, abierto todos los días de 9:00 a 23:00 con un mirador a unos 90-100 m de altura. 4.2★ (11,709 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Kobe Port Tower es el emblemático edificio rojo con forma de reloj de arena en Naka Pier, dentro del Meriken Park de Kobe, abierto todos los días de 9:00 a 23:00 con un mirador a unos 90-100 m de altura. 4.2★ (11,835 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kobe Port Tower es el emblemático edificio rojo con forma de reloj de arena en Naka Pier, dentro del Meriken Park de Kobe, abierto todos los días de 9:00 a 23:00 con un mirador a unos 90-100 m de altura. Es más concurrida entre las 11:00 y las 20:00 los fines de semana, así que lo ideal es visitarla por la mañana justo tras la apertura o después del anochecer para ver el perfil urbano iluminado. Dedícale entre 45 y 60 minutos, y luego camina por el paseo marítimo hasta el Kobe Maritime Museum, justo al lado.
 faq:
   - q: ¿Cuál es el horario de apertura?

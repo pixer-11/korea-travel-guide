@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kota-kinabalu-atkinson-clock-tower
-srcHash: '84ba13b144f5'
+srcHash: '354331d48812'
 title: 'Torre del Reloj Atkinson: guía de viaje de Kota Kinabalu (4,3★)'
-description: 'La Torre del Reloj Atkinson es un pequeño hito de madera de 1905 situado en Signal Hill Road, en pleno centro de Kota Kinabalu, y merece una parada de 10 a 15 minutos camino de la plataforma de observación de Signal Hill. 4,3★ (1.640 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Torre del Reloj Atkinson es un pequeño hito de madera de 1905 situado en Signal Hill Road, en pleno centro de Kota Kinabalu, y merece una parada de 10 a 15 minutos camino de la plataforma de observación de Signal Hill. 4,3★ (1.645 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Torre del Reloj Atkinson es un pequeño hito de madera de 1905 situado en Signal Hill Road, en pleno centro de Kota Kinabalu, y merece una parada de 10 a 15 minutos camino de la plataforma de observación de Signal Hill. Abre todos los días de 7:00 a 19:00 y se puede ver desde fuera de forma gratuita. Lo mejor es ir a mediodía entre semana (el momento más tranquilo es de 12:00 a 13:00) o en cualquier hora del fin de semana, ya que los datos de afluencia muestran que los sábados y domingos se mantiene la calma durante todo el día.
 faq:
   - q: ¿Cuánto tiempo hay que reservar para visitar la Torre del Reloj Atkinson?

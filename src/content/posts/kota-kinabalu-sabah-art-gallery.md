@@ -1,59 +1,84 @@
 ---
-title: "Sabah Art Gallery: Kota Kinabalu Travel Guide (4.4★)"
-description: "Sabah Art Gallery sits on Jalan Shantung in Kota Kinabalu, open 9am–4pm daily except Monday. 4.4★ (786 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kota Kinabalu"
-category: "attraction"
-pubDate: "2026-08-18T09:11:52.560Z"
+title: 'Sabah Art Gallery: Kota Kinabalu Travel Guide (4.4★)'
+description: >-
+  Sabah Art Gallery sits on Jalan Shantung in Kota Kinabalu, open 9am–4pm daily
+  except Monday. 4.4★ (794 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kota Kinabalu
+category: attraction
+pubDate: '2026-08-18T09:11:52.560Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KotaKinabalu_Sabah_SabahArtGallery-03.jpg/1920px-KotaKinabalu_Sabah_SabahArtGallery-03.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_SabahArtGallery-03.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KotaKinabalu_Sabah_SabahArtGallery-03.jpg/1920px-KotaKinabalu_Sabah_SabahArtGallery-03.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_SabahArtGallery-03.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg/3840px-KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg/3840px-KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg
 place:
-  id: "ChIJD5vbv6xpOzIRUgx9DoD3eYs"
-  name: "Sabah Art Gallery"
-  address: "14, Jalan Shantung, 88300 Kota Kinabalu, Sabah, Malaysia"
+  id: ChIJD5vbv6xpOzIRUgx9DoD3eYs
+  name: Sabah Art Gallery
+  address: '14, Jalan Shantung, 88300 Kota Kinabalu, Sabah, Malaysia'
   rating: 4.4
-  userRatingsTotal: 786
-  googleMapsUrl: "https://maps.google.com/?cid=10050336172824923218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 794
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10050336172824923218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.9531484
   lng: 116.08138040000001
-  phone: "+60 88-268 748"
+  phone: +60 88-268 748
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
 tags:
-  - "kota kinabalu"
-  - "museum"
-quickAnswer: "Sabah Art Gallery sits on Jalan Shantung in Kota Kinabalu, open 9am–4pm daily except Monday. It's an easy, under-the-radar hour or two indoors — good for a hot afternoon or a break between beach days — showing local Bornean and international artists inside a striking pyramid-shaped building. Go on a weekday morning for the quietest, most unhurried look at the galleries."
+  - kota kinabalu
+  - museum
+quickAnswer: >-
+  Sabah Art Gallery sits on Jalan Shantung in Kota Kinabalu, open 9am–4pm daily
+  except Monday. It's an easy, under-the-radar hour or two indoors — good for a
+  hot afternoon or a break between beach days — showing local Bornean and
+  international artists inside a striking pyramid-shaped building. Go on a
+  weekday morning for the quietest, most unhurried look at the galleries.
 faq:
-  - q: "What are the opening hours for Sabah Art Gallery?"
-    a: "It's open Tuesday to Sunday, 9:00 AM to 4:00 PM, and closed all day Monday. Always double-check before visiting in case of holiday closures."
-  - q: "How much time should I budget for a visit?"
-    a: "Most visitors spend 60–90 minutes walking through the exhibition halls at a relaxed pace."
-  - q: "How do I get to Sabah Art Gallery from central Kota Kinabalu?"
-    a: "There's no rail system in the city, so a Grab ride or taxi from the waterfront/Gaya Street area is the easiest option, taking roughly 10–15 minutes depending on traffic."
-  - q: "Is Sabah Art Gallery crowded?"
-    a: "It's still under-the-radar compared to Kota Kinabalu's beaches and markets, so crowds are rarely an issue — weekday mornings right after opening are the quietest."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "The Sabah State Museum is a short trip away and makes a natural pairing if you want to combine art with the region's natural history and ethnography."
+  - q: What are the opening hours for Sabah Art Gallery?
+    a: >-
+      It's open Tuesday to Sunday, 9:00 AM to 4:00 PM, and closed all day
+      Monday. Always double-check before visiting in case of holiday closures.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Most visitors spend 60–90 minutes walking through the exhibition halls at
+      a relaxed pace.
+  - q: How do I get to Sabah Art Gallery from central Kota Kinabalu?
+    a: >-
+      There's no rail system in the city, so a Grab ride or taxi from the
+      waterfront/Gaya Street area is the easiest option, taking roughly 10–15
+      minutes depending on traffic.
+  - q: Is Sabah Art Gallery crowded?
+    a: >-
+      It's still under-the-radar compared to Kota Kinabalu's beaches and
+      markets, so crowds are rarely an issue — weekday mornings right after
+      opening are the quietest.
+  - q: What else is nearby worth combining with this visit?
+    a: >-
+      The Sabah State Museum is a short trip away and makes a natural pairing if
+      you want to combine art with the region's natural history and ethnography.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

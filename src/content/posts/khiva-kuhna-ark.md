@@ -1,58 +1,84 @@
 ---
-title: "Kuhna Ark: Khiva Travel Guide (4.6★)"
-description: "Kuhna Ark sits at the western end of Khiva's Ichan Qala, right by the West Gate, and is open daily 9am–5pm. 4.6★ (327 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Khiva"
-category: "attraction"
-pubDate: "2026-08-20T09:13:10.344Z"
+title: 'Kuhna Ark: Khiva Travel Guide (4.6★)'
+description: >-
+  Kuhna Ark sits at the western end of Khiva's Ichan Qala, right by the West
+  Gate, and is open daily 9am–5pm. 4.6★ (336 reviews) — what visitors say,
+  hours, and tips.
+country: Uzbekistan
+region: Khiva
+category: attraction
+pubDate: '2026-08-20T09:13:10.344Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kuhna_Ark_-_Jiva.jpg/3840px-Kuhna_Ark_-_Jiva.jpg"
-  credit: "Photo: Uviein / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kuhna_Ark_-_Jiva.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kuhna_Ark_-_Jiva.jpg/3840px-Kuhna_Ark_-_Jiva.jpg
+  credit: 'Photo: Uviein / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuhna_Ark_-_Jiva.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg
 place:
-  id: "ChIJe-_HJBGk30ERej48wLdY7Aw"
-  name: "Kuhna Ark"
-  address: "99H5+P5R, 220900, Khiva, Xorazm Region, Uzbekistan"
+  id: ChIJe-_HJBGk30ERej48wLdY7Aw
+  name: Kuhna Ark
+  address: '99H5+P5R, 220900, Khiva, Xorazm Region, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 327
-  googleMapsUrl: "https://maps.google.com/?cid=931216769186283130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 336
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=931216769186283130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.379351
   lng: 60.35788509999999
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "khiva"
-  - "Kunya-Ark"
-quickAnswer: "Kuhna Ark sits at the western end of Khiva's Ichan Qala, right by the West Gate, and is open daily 9am–5pm. Budget 45–60 minutes for the throne room, mint (coin house), harem courtyard and the summer mosque with its wall of blue tiles. It's still under-the-radar compared to Khiva's bigger monuments, so mornings right after opening are calm and easy."
+  - khiva
+  - Kunya-Ark
+quickAnswer: >-
+  Kuhna Ark sits at the western end of Khiva's Ichan Qala, right by the West
+  Gate, and is open daily 9am–5pm. Budget 45–60 minutes for the throne room,
+  mint (coin house), harem courtyard and the summer mosque with its wall of blue
+  tiles. It's still under-the-radar compared to Khiva's bigger monuments, so
+  mornings right after opening are calm and easy.
 faq:
-  - q: "What are Kuhna Ark's opening hours?"
-    a: "It's open every day of the week from 9:00 AM to 5:00 PM, with no late-night access, so plan your visit inside that window."
-  - q: "How long should I spend at Kuhna Ark?"
-    a: "Budget 45–60 minutes to cover the throne room, summer mosque, harem quarters, mint museum and the watchtower climb."
-  - q: "When is the quietest time to visit?"
-    a: "Right after the 9am opening tends to be calmest, since Kuhna Ark is still under-the-radar next to Khiva's bigger draws like Kalta Minor, and day-trip groups from Urgench arrive later in the morning."
-  - q: "How do I get to Kuhna Ark?"
-    a: "It's inside the western wall of Ichan Qala, walkable from anywhere in Khiva's old town. From Urgench airport or train station, it's about a 35-minute taxi or shared van ride to the West Gate."
-  - q: "Is admission combined with other Khiva sites?"
-    a: "Khiva frequently sells combined tickets covering several Ichan Qala monuments — ask at the entrance desk, since this can save money if you're visiting multiple sites the same day."
+  - q: What are Kuhna Ark's opening hours?
+    a: >-
+      It's open every day of the week from 9:00 AM to 5:00 PM, with no
+      late-night access, so plan your visit inside that window.
+  - q: How long should I spend at Kuhna Ark?
+    a: >-
+      Budget 45–60 minutes to cover the throne room, summer mosque, harem
+      quarters, mint museum and the watchtower climb.
+  - q: When is the quietest time to visit?
+    a: >-
+      Right after the 9am opening tends to be calmest, since Kuhna Ark is still
+      under-the-radar next to Khiva's bigger draws like Kalta Minor, and
+      day-trip groups from Urgench arrive later in the morning.
+  - q: How do I get to Kuhna Ark?
+    a: >-
+      It's inside the western wall of Ichan Qala, walkable from anywhere in
+      Khiva's old town. From Urgench airport or train station, it's about a
+      35-minute taxi or shared van ride to the West Gate.
+  - q: Is admission combined with other Khiva sites?
+    a: >-
+      Khiva frequently sells combined tickets covering several Ichan Qala
+      monuments — ask at the entrance desk, since this can save money if you're
+      visiting multiple sites the same day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 You spot Kuhna Ark before you reach it — a long mud-brick wall punctuated by a gateway flanked by two round towers, standing at the western edge of Ichan Qala, Khiva's walled inner city. This was the seat of the Khivan khans, part fortress and part residence, built up over centuries as successive rulers added rooms, courtyards and defensive walls.

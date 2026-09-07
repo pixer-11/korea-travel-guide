@@ -1,44 +1,55 @@
 ---
-title: "Indian Museum: Kolkata Travel Guide (4.5★)"
-description: "The Indian Museum on Jawaharlal Nehru Road is Asia's oldest and largest museum, worth two to three hours for its Egyptian mummy, meteorite collection and Bharhut Buddhist railings. 4.5★ (57,534 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "attraction"
-pubDate: "2026-08-16T08:56:04.415Z"
+title: 'Indian Museum: Kolkata Travel Guide (4.5★)'
+description: >-
+  The Indian Museum on Jawaharlal Nehru Road is Asia's oldest and largest
+  museum, worth two to three hours for its Egyptian mummy, meteorite collection
+  and Bharhut Buddhist railings. 4.5★ (57,744 reviews) — what visitors say,
+  hours, and tips.
+country: India
+region: Kolkata
+category: attraction
+pubDate: '2026-08-16T08:56:04.415Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg/1920px-Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg"
-  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Indian_Museum,_Courtyard,_Kolkata,_India.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg/1920px-Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Indian_Museum,_Courtyard,_Kolkata,_India.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg/3840px-Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg"
-    credit: "Photo: Kritzolina / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dancing_Bhairava_in_the_Indian_Museum,_Kolkata_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg/3840px-Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg
+    credit: 'Photo: Kritzolina / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dancing_Bhairava_in_the_Indian_Museum,_Kolkata_02.jpg
 place:
-  id: "ChIJ33o0YBF3AjoRrAtN-RkG158"
-  name: "Indian Museum"
-  address: "27, Jawaharlal Nehru Rd, Colootola, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700016, India"
+  id: ChIJ33o0YBF3AjoRrAtN-RkG158
+  name: Indian Museum
+  address: >-
+    27, Jawaharlal Nehru Rd, Colootola, New Market Area, Dharmatala, Taltala,
+    Kolkata, West Bengal 700016, India
   rating: 4.5
-  userRatingsTotal: 57534
-  googleMapsUrl: "https://maps.google.com/?cid=11517681280649857964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 57744
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11517681280649857964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.557885799999998
   lng: 88.3511268
-  phone: "+91 33 2252 1790"
+  phone: +91 33 2252 1790
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -54,24 +65,38 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_383531476b522d4e744172526f6a4133464259306f33334a496843"
+    venueId: ven_383531476b522d4e744172526f6a4133464259306f33334a496843
 tags:
-  - "kolkata"
-  - "museum"
-quickAnswer: "The Indian Museum on Jawaharlal Nehru Road is Asia's oldest and largest museum, worth two to three hours for its Egyptian mummy, meteorite collection and Bharhut Buddhist railings. It's open 10am–6pm every day except Monday. Arrive right at opening, especially on weekends, since crowds build fast between 12pm and 6pm — the calmest window is 10am–11am."
+  - kolkata
+  - museum
+quickAnswer: >-
+  The Indian Museum on Jawaharlal Nehru Road is Asia's oldest and largest
+  museum, worth two to three hours for its Egyptian mummy, meteorite collection
+  and Bharhut Buddhist railings. It's open 10am–6pm every day except Monday.
+  Arrive right at opening, especially on weekends, since crowds build fast
+  between 12pm and 6pm — the calmest window is 10am–11am.
 faq:
-  - q: "How much time should I set aside for the Indian Museum?"
-    a: "Plan on two to three hours to see the main galleries properly, including the mummy, Bharhut railings and geology hall."
-  - q: "What are the opening hours?"
-    a: "It's open 10am–6pm Tuesday through Sunday, and closed all day Monday."
-  - q: "When is it least crowded?"
-    a: "On weekends, the quietest window is 10am–11am right after opening. Crowds build steadily from noon and stay heavy until closing at 6pm."
-  - q: "How do I get there by public transport?"
-    a: "Take the Blue Line to Esplanade Metro Station, then walk about 10-15 minutes to Jawaharlal Nehru Road."
-  - q: "What's within walking distance afterward?"
-    a: "New Market and Park Street are both a short walk away for food and shopping, while the Victoria Memorial is a quick cab ride south."
+  - q: How much time should I set aside for the Indian Museum?
+    a: >-
+      Plan on two to three hours to see the main galleries properly, including
+      the mummy, Bharhut railings and geology hall.
+  - q: What are the opening hours?
+    a: 'It''s open 10am–6pm Tuesday through Sunday, and closed all day Monday.'
+  - q: When is it least crowded?
+    a: >-
+      On weekends, the quietest window is 10am–11am right after opening. Crowds
+      build steadily from noon and stay heavy until closing at 6pm.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the Blue Line to Esplanade Metro Station, then walk about 10-15
+      minutes to Jawaharlal Nehru Road.
+  - q: What's within walking distance afterward?
+    a: >-
+      New Market and Park Street are both a short walk away for food and
+      shopping, while the Victoria Memorial is a quick cab ride south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

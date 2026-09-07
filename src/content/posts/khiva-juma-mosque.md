@@ -1,30 +1,35 @@
 ---
 title: 'Juma Mosque: Khiva Travel Guide (4.7★)'
-description: The Juma Mosque sits in the heart of Itchan Kala, Khiva's walled inner city, open daily 9am–6pm. 4.7★ (985 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Juma Mosque sits in the heart of Itchan Kala, Khiva's walled inner city,
+  open daily 9am–6pm. 4.7★ (995 reviews) — what visitors say, hours, and tips.
 country: Uzbekistan
 region: Khiva
 category: attraction
 pubDate: '2026-08-20T09:14:02.332Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juma_Mosque_%28Khiva%29_01.jpg/1920px-Juma_Mosque_%28Khiva%29_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juma_Mosque_%28Khiva%29_01.jpg/1920px-Juma_Mosque_%28Khiva%29_01.jpg
   credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Juma_Mosque_(Khiva)_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Juma_Mosque_(Khiva)_01.jpg'
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Juma_Mosque_%28Khiva%29_03.jpg/1920px-Juma_Mosque_%28Khiva%29_03.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Juma_Mosque_%28Khiva%29_03.jpg/1920px-Juma_Mosque_%28Khiva%29_03.jpg
     credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Juma_Mosque_(Khiva)_03.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Juma_Mosque_(Khiva)_03.jpg'
 place:
   id: ChIJxYTeLBCk30EREcCtEEWv7j8
   name: Juma Mosque
-  address: 99G5+XXV, Khiva, Xorazm Region, Uzbekistan
+  address: '99G5+XXV, Khiva, Xorazm Region, Uzbekistan'
   rating: 4.7
-  userRatingsTotal: 985
-  googleMapsUrl: https://maps.google.com/?cid=4606812180014022673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 995
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4606812180014022673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3774984
   lng: 60.359911000000004
@@ -54,20 +59,38 @@ place:
 tags:
   - khiva
   - Juma Mosque
-quickAnswer: The Juma Mosque sits in the heart of Itchan Kala, Khiva's walled inner city, open daily 9am–6pm. Go right at opening on a weekday (9am–11am is calmest, 9am–10am on weekends) to have its forest of 213 carved wooden pillars almost to yourself. Budget 20–30 minutes — this is a small, quiet detour, not a long stop.
+quickAnswer: >-
+  The Juma Mosque sits in the heart of Itchan Kala, Khiva's walled inner city,
+  open daily 9am–6pm. Go right at opening on a weekday (9am–11am is calmest,
+  9am–10am on weekends) to have its forest of 213 carved wooden pillars almost
+  to yourself. Budget 20–30 minutes — this is a small, quiet detour, not a long
+  stop.
 faq:
   - q: What are the Juma Mosque's opening hours?
-    a: It's open daily from 9:00 AM to 6:00 PM, with no variation across the week.
+    a: >-
+      It's open daily from 9:00 AM to 6:00 PM, with no variation across the
+      week.
   - q: When is the quietest time to visit?
-    a: Weekdays between 9am and 11am are calmest; on weekends, arrive right at 9am–10am before tour groups build up.
+    a: >-
+      Weekdays between 9am and 11am are calmest; on weekends, arrive right at
+      9am–10am before tour groups build up.
   - q: How do I get in — is there a separate ticket?
-    a: There's no standalone ticket booth; entry is generally included with the Itchan Kala combined admission ticket sold at the city gates. Confirm current arrangements on arrival.
+    a: >-
+      There's no standalone ticket booth; entry is generally included with the
+      Itchan Kala combined admission ticket sold at the city gates. Confirm
+      current arrangements on arrival.
   - q: How long should I spend there?
-    a: 20 to 30 minutes is enough to walk the pillared hall and take in the details, since it's a compact single-room mosque rather than a sprawling complex.
+    a: >-
+      20 to 30 minutes is enough to walk the pillared hall and take in the
+      details, since it's a compact single-room mosque rather than a sprawling
+      complex.
   - q: What's nearby to combine with a visit?
-    a: The Kalta Minor Minaret and Kunya-Ark fortress are both a short walk away inside Itchan Kala, making an easy half-day loop.
+    a: >-
+      The Kalta Minor Minaret and Kunya-Ark fortress are both a short walk away
+      inside Itchan Kala, making an easy half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 You step through a low wooden doorway off a sun-bleached lane in Itchan Kala, and the noise of the old city just stops. No dome overhead, no soaring iwan — just a flat mud roof held up by a dark, silent forest of wood.
 

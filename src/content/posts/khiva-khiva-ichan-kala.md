@@ -1,50 +1,81 @@
 ---
-title: "Khiva Ichan Kala: Travel Guide"
-description: "Ichan Kala is the walled inner city of Khiva, a compact open-air museum of mud-brick madrasas, minarets and khan's palaces you can walk end to end in under 20 minutes."
-country: "Uzbekistan"
-region: "Khiva"
-category: "attraction"
-pubDate: "2026-08-22T09:12:25.118Z"
+title: 'Khiva Ichan Kala: Travel Guide'
+description: >-
+  Ichan Kala is the walled inner city of Khiva, a compact open-air museum of
+  mud-brick madrasas, minarets and khan's palaces you can walk end to end in
+  under 20 minutes.
+country: Uzbekistan
+region: Khiva
+category: attraction
+pubDate: '2026-08-22T09:12:25.118Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg"
-  credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg
+  credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_%28Ichan-kal%E2%80%99a_devori%2C_Itchan_Kala_walls%29.jpg/3840px-%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_%28Ichan-kal%E2%80%99a_devori%2C_Itchan_Kala_walls%29.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_(Ichan-kal%E2%80%99a_devori,_Itchan_Kala_walls).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_%28Ichan-kal%E2%80%99a_devori%2C_Itchan_Kala_walls%29.jpg/3840px-%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_%28Ichan-kal%E2%80%99a_devori%2C_Itchan_Kala_walls%29.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B5%D0%BD%D0%B0_%D0%98%D1%87%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BB%D1%8B_(Ichan-kal%E2%80%99a_devori,_Itchan_Kala_walls).jpg
 place:
-  id: "ChIJQUuoZeel30ERgvVY0VZDlBI"
-  name: "Khiva Ichan Kala"
-  address: "99H5+P5M, Qo‘qon ko'chasi, Xiva, Xorazm Viloyati, Uzbekistan"
+  id: ChIJQUuoZeel30ERgvVY0VZDlBI
+  name: Khiva Ichan Kala
+  address: '99H5+P5M, Qo‘qon ko''chasi, Xiva, Xorazm Viloyati, Uzbekistan'
   rating: 4.7
-  userRatingsTotal: 66
-  googleMapsUrl: "https://maps.google.com/?cid=1338769029394396546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 70
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1338769029394396546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3793334
   lng: 60.357922099999996
 tags:
-  - "khiva"
-  - "historic site"
-quickAnswer: "Ichan Kala is the walled inner city of Khiva, a compact open-air museum of mud-brick madrasas, minarets and khan's palaces you can walk end to end in under 20 minutes. Give it a full day (or two) to actually see everything inside the walls, and go at sunrise or late afternoon when the light turns the clay walls gold and the tour buses haven't arrived yet. It's still relatively under-the-radar compared to Samarkand or Bukhara, so you can often have entire courtyards to yourself."
+  - khiva
+  - historic site
+quickAnswer: >-
+  Ichan Kala is the walled inner city of Khiva, a compact open-air museum of
+  mud-brick madrasas, minarets and khan's palaces you can walk end to end in
+  under 20 minutes. Give it a full day (or two) to actually see everything
+  inside the walls, and go at sunrise or late afternoon when the light turns the
+  clay walls gold and the tour buses haven't arrived yet. It's still relatively
+  under-the-radar compared to Samarkand or Bukhara, so you can often have entire
+  courtyards to yourself.
 faq:
-  - q: "How long do I need to see Ichan Kala?"
-    a: "Walking the whole walled city takes under 20 minutes, but plan a full day to actually enter the palaces, minarets and museums. Many visitors stay overnight to see it at both sunset and sunrise."
-  - q: "How do I get to Khiva?"
-    a: "Fly into Urgench airport, about 35km away, or take an overnight train or shared taxi from Bukhara. From Urgench, taxis and shuttles run regularly into Khiva."
-  - q: "Is there an entrance fee for Ichan Kala?"
-    a: "Yes, a combined ticket sold at the main gates covers entry to the walled city and most museums inside. Prices and validity periods change, so check current rates locally before buying."
-  - q: "When is the best time to visit?"
-    a: "April-May and September-October offer mild weather and good light. Early morning or the last couple of hours before sunset are best any time of year, both for light and for avoiding tour groups."
-  - q: "Is Ichan Kala crowded?"
-    a: "It's still relatively under-the-radar compared to Samarkand or Bukhara. Arriving through the West Gate (Ota Darvoza) early in the day is the easiest way to get quiet courtyards to yourself."
+  - q: How long do I need to see Ichan Kala?
+    a: >-
+      Walking the whole walled city takes under 20 minutes, but plan a full day
+      to actually enter the palaces, minarets and museums. Many visitors stay
+      overnight to see it at both sunset and sunrise.
+  - q: How do I get to Khiva?
+    a: >-
+      Fly into Urgench airport, about 35km away, or take an overnight train or
+      shared taxi from Bukhara. From Urgench, taxis and shuttles run regularly
+      into Khiva.
+  - q: Is there an entrance fee for Ichan Kala?
+    a: >-
+      Yes, a combined ticket sold at the main gates covers entry to the walled
+      city and most museums inside. Prices and validity periods change, so check
+      current rates locally before buying.
+  - q: When is the best time to visit?
+    a: >-
+      April-May and September-October offer mild weather and good light. Early
+      morning or the last couple of hours before sunset are best any time of
+      year, both for light and for avoiding tour groups.
+  - q: Is Ichan Kala crowded?
+    a: >-
+      It's still relatively under-the-radar compared to Samarkand or Bukhara.
+      Arriving through the West Gate (Ota Darvoza) early in the day is the
+      easiest way to get quiet courtyards to yourself.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why Ichan Kala is worth the journey

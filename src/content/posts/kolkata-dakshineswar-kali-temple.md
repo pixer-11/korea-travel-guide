@@ -1,44 +1,52 @@
 ---
-title: "Dakshineswar Kali Temple: Kolkata Travel Guide (4.7★)"
-description: "Dakshineswar Kali Temple sits on the Hooghly's east bank in north Kolkata, open daily 5–12:30pm and 3:30–7:30pm. 4.7★ (103,064 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "attraction"
-pubDate: "2026-08-17T08:06:02.091Z"
+title: 'Dakshineswar Kali Temple: Kolkata Travel Guide (4.7★)'
+description: >-
+  Dakshineswar Kali Temple sits on the Hooghly's east bank in north Kolkata,
+  open daily 5–12:30pm and 3:30–7:30pm. 4.7★ (103,394 reviews) — what visitors
+  say, hours, and tips.
+country: India
+region: Kolkata
+category: attraction
+pubDate: '2026-08-17T08:06:02.091Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/1920px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG"
-  credit: "Photo: Knath / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dakhineshwar_Temple_beside_the_Hoogly,_West_Bengal.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/1920px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG
+  credit: 'Photo: Knath / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dakhineshwar_Temple_beside_the_Hoogly,_West_Bengal.JPG
   focus:
     x: 55
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dakshineswar_Kali_Temple%2C_Dakshineswar%2C_North_24_Parganas_district%2C_India.jpg/3840px-Dakshineswar_Kali_Temple%2C_Dakshineswar%2C_North_24_Parganas_district%2C_India.jpg"
-    credit: "Photo: Ravi Dwivedi / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_North_24_Parganas_district,_India.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dakshineswar_Kali_Temple%2C_Dakshineswar%2C_North_24_Parganas_district%2C_India.jpg/3840px-Dakshineswar_Kali_Temple%2C_Dakshineswar%2C_North_24_Parganas_district%2C_India.jpg
+    credit: 'Photo: Ravi Dwivedi / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_North_24_Parganas_district,_India.jpg
 place:
-  id: "ChIJKXjZ3QOd-DkRTF0w7e-Ao_8"
-  name: "Dakshineswar Kali Temple"
-  address: "Dakshineswar, Kolkata, West Bengal 700035, India"
+  id: ChIJKXjZ3QOd-DkRTF0w7e-Ao_8
+  name: Dakshineswar Kali Temple
+  address: 'Dakshineswar, Kolkata, West Bengal 700035, India'
   rating: 4.7
-  userRatingsTotal: 103064
-  googleMapsUrl: "https://maps.google.com/?cid=18420708668840369484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 103394
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18420708668840369484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.654884
   lng: 88.3576911
-  phone: "+91 33 2564 5222"
+  phone: +91 33 2564 5222
   openingHours:
-    - "Monday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Tuesday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Wednesday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Thursday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Friday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Saturday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
-    - "Sunday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM"
+    - 'Monday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Tuesday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Wednesday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Thursday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Friday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Saturday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
+    - 'Sunday: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM'
   busyness:
-    updated: 2026-08-17
+    updated: 2026-08-17T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendBusy:
@@ -49,24 +57,43 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_385f6f412d653777304654526b442d644f51335a6a584b4a496843"
+    venueId: ven_385f6f412d653777304654526b442d644f51335a6a584b4a496843
 tags:
-  - "kolkata"
-  - "historic site"
-quickAnswer: "Dakshineswar Kali Temple sits on the Hooghly's east bank in north Kolkata, open daily 5–12:30pm and 3:30–7:30pm. Go right at opening or during the 7–8am lull on weekdays to avoid the crush — weekends stay busy from 8am to 7pm. Budget 1–1.5 hours, dress modestly, and expect to leave shoes at a counter before entering."
+  - kolkata
+  - historic site
+quickAnswer: >-
+  Dakshineswar Kali Temple sits on the Hooghly's east bank in north Kolkata,
+  open daily 5–12:30pm and 3:30–7:30pm. Go right at opening or during the 7–8am
+  lull on weekdays to avoid the crush — weekends stay busy from 8am to 7pm.
+  Budget 1–1.5 hours, dress modestly, and expect to leave shoes at a counter
+  before entering.
 faq:
-  - q: "What are the opening hours?"
-    a: "Daily, 5:00 AM–12:30 PM and 3:30–7:30 PM, with a closure in between. This schedule is the same every day of the week — always check for festival-day changes before you go."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 8am see the lightest crowds. Weekends stay busy from 8am to 7pm, so early arrival near the 5am opening is your best bet then."
-  - q: "How do I get there by public transport?"
-    a: "Take the Kolkata Metro Blue Line to Dakshineswar station, the northern terminus — the temple is a short walk from the exit."
-  - q: "How long should I spend at the temple?"
-    a: "Plan for 1 to 1.5 hours to see the main shrine, the twelve Shiva temples, Ramakrishna's preserved room, and the riverside ghat."
-  - q: "Is there anything nearby worth combining with this visit?"
-    a: "Belur Math, the Ramakrishna Mission's headquarters, sits directly across the Hooghly River and is reachable by a short ferry ride, making it a natural pairing for a half-day trip."
+  - q: What are the opening hours?
+    a: >-
+      Daily, 5:00 AM–12:30 PM and 3:30–7:30 PM, with a closure in between. This
+      schedule is the same every day of the week — always check for festival-day
+      changes before you go.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 7am and 8am see the lightest crowds. Weekends
+      stay busy from 8am to 7pm, so early arrival near the 5am opening is your
+      best bet then.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the Kolkata Metro Blue Line to Dakshineswar station, the northern
+      terminus — the temple is a short walk from the exit.
+  - q: How long should I spend at the temple?
+    a: >-
+      Plan for 1 to 1.5 hours to see the main shrine, the twelve Shiva temples,
+      Ramakrishna's preserved room, and the riverside ghat.
+  - q: Is there anything nearby worth combining with this visit?
+    a: >-
+      Belur Math, the Ramakrishna Mission's headquarters, sits directly across
+      the Hooghly River and is reachable by a short ferry ride, making it a
+      natural pairing for a half-day trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 ## Why go
 

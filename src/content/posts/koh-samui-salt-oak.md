@@ -1,34 +1,42 @@
 ---
 title: 'Salt & Oak: Where to Eat in Koh Samui'
-description: Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over 1,200 reviews.
+description: >-
+  Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the
+  northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over
+  1,200 reviews.
 country: Thailand
 region: Koh Samui
 category: restaurant
 pubDate: '2026-07-22T09:12:54.745Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/16727607_JUaXnSVY8CqSojXqr16w59Lh2alup5XenQX3z56z_RE.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/16727607_JUaXnSVY8CqSojXqr16w59Lh2alup5XenQX3z56z_RE.jpg
   credit: 'Photo: Foursquare user content (Salt & Oak)'
   license: foursquare
-  source: https://foursquare.com/v/68adbcc34ed70a61c469a08a
+  source: 'https://foursquare.com/v/68adbcc34ed70a61c469a08a'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/176210106_YFAkrR0uXM9htLJEm2gyPCxNPVBR60h2Bh2b9pcjaS4.jpg"
-    credit: "Photo: Foursquare user content (Salt & Oak)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/68adbcc34ed70a61c469a08a"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/176210106_YFAkrR0uXM9htLJEm2gyPCxNPVBR60h2Bh2b9pcjaS4.jpg
+    credit: 'Photo: Foursquare user content (Salt & Oak)'
+    license: foursquare
+    source: 'https://foursquare.com/v/68adbcc34ed70a61c469a08a'
 place:
   id: ChIJR3PLtNjxVDARKME5gaIWlaw
   name: Salt & Oak
-  address: 24/36, Bo Put, Amphoe Koh samui, ตำบล บ่อผุด koh samui, สุราษฎร์ธานี 84320, Thailand
-  rating: 4.8
-  userRatingsTotal: 1269
-  googleMapsUrl: https://maps.google.com/?cid=12435870833262051624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    24/36, Bo Put, Amphoe Koh samui, ตำบล บ่อผุด koh samui, สุราษฎร์ธานี 84320,
+    Thailand
+  rating: 4.9
+  userRatingsTotal: 1418
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12435870833262051624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.5605841
   lng: 100.0283669
-  phone: '+66 80 636 0391'
+  phone: +66 80 636 0391
   openingHours:
     - 'Monday: 1:00 – 11:00 PM'
     - 'Tuesday: 1:00 – 11:00 PM'
@@ -37,27 +45,48 @@ place:
     - 'Friday: 1:00 – 11:00 PM'
     - 'Saturday: 1:00 – 11:00 PM'
     - 'Sunday: 1:00 – 11:00 PM'
+  priceLevel: 2
 tags:
   - koh samui
   - local restaurant
-quickAnswer: Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over 1,200 reviews. Go for dinner (book ahead, especially in high season from November to March), plan on 90 minutes to two hours for a multi-course meal, and pair it with an evening stroll through Fisherman's Village's walking street market if you go on a Friday.
+quickAnswer: >-
+  Salt & Oak is a wood-fired grill and open-kitchen restaurant in Bo Put, on the
+  northeast side of Koh Samui near Fisherman's Village, rated 4.8 from over
+  1,200 reviews. Go for dinner (book ahead, especially in high season from
+  November to March), plan on 90 minutes to two hours for a multi-course meal,
+  and pair it with an evening stroll through Fisherman's Village's walking
+  street market if you go on a Friday.
 faq:
   - q: Where exactly is Salt & Oak located?
-    a: It's in Bo Put, on Koh Samui's north coast, close to Fisherman's Village — address 24/36, Bo Put, Koh Samui, Surat Thani 84320.
+    a: >-
+      It's in Bo Put, on Koh Samui's north coast, close to Fisherman's Village —
+      address 24/36, Bo Put, Koh Samui, Surat Thani 84320.
   - q: How do I get there without a rental car?
-    a: Use Grab or a hotel-arranged taxi/driver; Samui has no metered taxi system, so agree on a fare upfront if hailing a car directly. From Chaweng it's about a 15-20 minute drive.
+    a: >-
+      Use Grab or a hotel-arranged taxi/driver; Samui has no metered taxi
+      system, so agree on a fare upfront if hailing a car directly. From Chaweng
+      it's about a 15-20 minute drive.
   - q: Do I need a reservation?
-    a: It's advisable, especially during high season (November-March) and on weekends, given its high review volume and small, intimate setting typical of independent Samui restaurants.
+    a: >-
+      It's advisable, especially during high season (November-March) and on
+      weekends, given its high review volume and small, intimate setting typical
+      of independent Samui restaurants.
   - q: How long should I plan for a meal here?
-    a: Budget 90 minutes to two hours for a full dinner with shared starters and grilled mains, more if you linger over drinks.
+    a: >-
+      Budget 90 minutes to two hours for a full dinner with shared starters and
+      grilled mains, more if you linger over drinks.
   - q: What's nearby to combine with dinner?
-    a: Fisherman's Village is a short 5-10 minute ride away, best visited on Friday evenings for its walking street market, or pair with a sunset walk on quieter Bo Put beach.
+    a: >-
+      Fisherman's Village is a short 5-10 minute ride away, best visited on
+      Friday evenings for its walking street market, or pair with a sunset walk
+      on quieter Bo Put beach.
 aiGenerated: true
+updatedDate: '2026-09-07'
 ---
 
 ## Why Salt & Oak stands out
 
-Koh Samui's dining scene leans heavily on beachfront seafood shacks and hotel buffets, so a restaurant built around live-fire cooking and a tightly edited menu tends to stand out fast. Salt & Oak has done exactly that, building a 4.8 rating across more than 1,200 reviews — an unusually high volume for a single restaurant on the island, which signals steady repeat traffic rather than a one-season novelty.
+Koh Samui's dining scene leans heavily on beachfront seafood shacks and hotel buffets, so a restaurant built around live-fire cooking and a tightly edited menu tends to stand out fast. Salt & Oak has done exactly that, building a 4.9 rating across more than 1,200 reviews — an unusually high volume for a single restaurant on the island, which signals steady repeat traffic rather than a one-season novelty.
 
 The name itself telegraphs the concept: minimal seasoning, maximum char, dishes built around wood and smoke rather than heavy sauces. Expect an open kitchen where you can watch the grill work, a menu that changes with what's available, and a wine or cocktail list built to match richer, smokier flavors rather than the usual tropical fruit cocktails.
 
@@ -71,7 +100,7 @@ From Mae Nam, it's closer, often under 10 minutes. Samui doesn't have metered ta
 
 The restaurant's identity is built around wood-fired and open-flame cooking, so lean into whatever the grill is doing that night — this is the kind of place where asking your server "what's best off the fire tonight" gets a more useful answer than picking blind from a printed menu. Given the name and format, expect a mix of grilled seafood (a near-mandatory move on an island surrounded by it), aged or dry-cooked meats, and vegetable dishes charred rather than steamed.
 
-Portions and pacing suit sharing — order a few starters for the table, then split one or two larger grilled mains rather than each person ordering a full individual entrée. Reviews at this volume with a 4.8 average typically reflect consistency more than any single showstopper dish, so trust the staff's recommendation of the day over a fixed favorite.
+Portions and pacing suit sharing — order a few starters for the table, then split one or two larger grilled mains rather than each person ordering a full individual entrée. Reviews at this volume with a 4.9 average typically reflect consistency more than any single showstopper dish, so trust the staff's recommendation of the day over a fixed favorite.
 
 ## When to go
 

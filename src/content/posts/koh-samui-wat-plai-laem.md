@@ -1,59 +1,86 @@
 ---
-title: "Wat Plai Laem: Koh Samui Travel Guide (4.7★)"
-description: "Wat Plai Laem, on Koh Samui's northeast coast near Bophut and Big Buddha Beach, is a modern Buddhist-Chinese temple complex famous for its lake and the 18-armed Guanyin statue rising from the water. 4.7★ (8,428 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Samui"
-category: "attraction"
-pubDate: "2026-09-06T10:49:18.881Z"
+title: 'Wat Plai Laem: Koh Samui Travel Guide (4.7★)'
+description: >-
+  Wat Plai Laem, on Koh Samui's northeast coast near Bophut and Big Buddha
+  Beach, is a modern Buddhist-Chinese temple complex famous for its lake and the
+  18-armed Guanyin statue rising from the water. 4.7★ (8,429 reviews) — what
+  visitors say, hours, and tips.
+country: Thailand
+region: Koh Samui
+category: attraction
+pubDate: '2026-09-06T10:49:18.881Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/12_Armige_Statue.JPG/1920px-12_Armige_Statue.JPG"
-  credit: "Photo: Gunther Dihlmann / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:12_Armige_Statue.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/12_Armige_Statue.JPG/1920px-12_Armige_Statue.JPG
+  credit: 'Photo: Gunther Dihlmann / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:12_Armige_Statue.JPG'
   focus:
     x: 49
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wat_Plai_Laem%2C_Koh_Samui%2C_Thailand.jpg/3840px-Wat_Plai_Laem%2C_Koh_Samui%2C_Thailand.jpg"
-    credit: "Photo: Ozkartman / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Wat_Plai_Laem,_Koh_Samui,_Thailand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wat_Plai_Laem%2C_Koh_Samui%2C_Thailand.jpg/3840px-Wat_Plai_Laem%2C_Koh_Samui%2C_Thailand.jpg
+    credit: 'Photo: Ozkartman / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Wat_Plai_Laem,_Koh_Samui,_Thailand.jpg
 place:
-  id: "ChIJQc1OzAjwVDARv0towXonUM8"
-  name: "Wat Plai Laem"
-  address: "Wat Plai Laem, 4171, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+  id: ChIJQc1OzAjwVDARv0towXonUM8
+  name: Wat Plai Laem
+  address: >-
+    Wat Plai Laem, 4171, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani
+    84320, Thailand
   rating: 4.7
-  userRatingsTotal: 8428
-  googleMapsUrl: "https://maps.google.com/?cid=14938483372172266431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8429
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14938483372172266431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.5712837
   lng: 100.0672883
-  phone: "+66 93 980 1366"
+  phone: +66 93 980 1366
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 11:00 AM – 11:30 PM"
-    - "Wednesday: 11:00 AM – 11:30 PM"
-    - "Thursday: 11:00 AM – 11:30 PM"
-    - "Friday: 11:00 AM – 11:30 PM"
-    - "Saturday: 11:00 AM – 11:30 PM"
-    - "Sunday: 11:00 AM – 11:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 11:30 PM'
+    - 'Wednesday: 11:00 AM – 11:30 PM'
+    - 'Thursday: 11:00 AM – 11:30 PM'
+    - 'Friday: 11:00 AM – 11:30 PM'
+    - 'Saturday: 11:00 AM – 11:30 PM'
+    - 'Sunday: 11:00 AM – 11:30 PM'
 tags:
-  - "koh samui"
-  - "museum"
-quickAnswer: "Wat Plai Laem, on Koh Samui's northeast coast near Bophut and Big Buddha Beach, is a modern Buddhist-Chinese temple complex famous for its lake and the 18-armed Guanyin statue rising from the water. It's open Tuesday to Sunday, 11am to 11:30pm, and closed Mondays. Go around late afternoon for softer light on the statues and cooler temperatures for the walk around the pond."
+  - koh samui
+  - museum
+quickAnswer: >-
+  Wat Plai Laem, on Koh Samui's northeast coast near Bophut and Big Buddha
+  Beach, is a modern Buddhist-Chinese temple complex famous for its lake and the
+  18-armed Guanyin statue rising from the water. It's open Tuesday to Sunday,
+  11am to 11:30pm, and closed Mondays. Go around late afternoon for softer light
+  on the statues and cooler temperatures for the walk around the pond.
 faq:
-  - q: "What are the opening hours for Wat Plai Laem?"
-    a: "It's open 11am to 11:30pm Tuesday through Sunday, and closed all day Monday."
-  - q: "Is there an entrance fee?"
-    a: "Entry to the temple grounds is generally free, though donation boxes sit near the main shrines and a small donation is customary."
-  - q: "How do I get to Wat Plai Laem from Chaweng or Bophut?"
-    a: "It's a short taxi, scooter, or songthaew ride of under 20 minutes from either area; there's free parking on site."
-  - q: "What should I wear to visit?"
-    a: "Cover your shoulders and knees; sarongs are often available to borrow near the entrance if needed, and shoes come off before entering the ordination hall."
-  - q: "Can I combine this with the Big Buddha temple?"
-    a: "Yes, Wat Phra Yai (the Big Buddha) is just a few minutes away and commonly visited on the same trip."
+  - q: What are the opening hours for Wat Plai Laem?
+    a: >-
+      It's open 11am to 11:30pm Tuesday through Sunday, and closed all day
+      Monday.
+  - q: Is there an entrance fee?
+    a: >-
+      Entry to the temple grounds is generally free, though donation boxes sit
+      near the main shrines and a small donation is customary.
+  - q: How do I get to Wat Plai Laem from Chaweng or Bophut?
+    a: >-
+      It's a short taxi, scooter, or songthaew ride of under 20 minutes from
+      either area; there's free parking on site.
+  - q: What should I wear to visit?
+    a: >-
+      Cover your shoulders and knees; sarongs are often available to borrow near
+      the entrance if needed, and shoes come off before entering the ordination
+      hall.
+  - q: Can I combine this with the Big Buddha temple?
+    a: >-
+      Yes, Wat Phra Yai (the Big Buddha) is just a few minutes away and commonly
+      visited on the same trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## What you're actually looking at

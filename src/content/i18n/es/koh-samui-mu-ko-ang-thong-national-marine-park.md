@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-samui-mu-ko-ang-thong-national-marine-park
-srcHash: 'b2d95bab7aa9'
+srcHash: 'e3b29be37337'
 title: 'Parque Nacional Marino Mu Ko Ang Thong: guía de viaje desde Koh Samui'
-description: 'Mu Ko Ang Thong es un archipiélago de 42 islas de piedra caliza frente a Koh Samui, al que solo se llega en tour organizado o chárter privado desde el muelle de Bangrak o Nathon. 4,7★ (4.671 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Mu Ko Ang Thong es un archipiélago de 42 islas de piedra caliza frente a Koh Samui, al que solo se llega en tour organizado o chárter privado desde el muelle de Bangrak o Nathon. 4,7★ (4.672 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Mu Ko Ang Thong es un archipiélago de 42 islas de piedra caliza frente a Koh Samui, al que solo se llega en tour organizado o chárter privado desde el muelle de Bangrak o Nathon. La entrada al parque abre de 8:00 a 17:00 todos los días, y como los barcos suelen llegar a media mañana, la franja más tranquila es de 8:00 a 10:00, antes de que desembarque la mayoría de los grupos. Conviene reservar el día completo: la mayoría de los tours duran de 8:00 a 17:00 e incluyen la caminata al mirador, el Lago Esmeralda y una parada para hacer esnórquel.'
 faq:
   - q: ¿Cómo se llega al Parque Nacional Marino Mu Ko Ang Thong desde Koh Samui?

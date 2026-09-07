@@ -1,37 +1,44 @@
 ---
-title: "Konya Tropical Butterfly Garden: Travel Guide (4.6★)"
-description: "Konya Tropical Butterfly Garden (in Selçuklu, on the northern edge of Konya) is a glass-domed tropical park where thousands of free-flying butterflies drift through humid, plant-choked air alongside an insect museum. 4.6★ (29,584 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Konya"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:49:03.013Z"
+title: 'Konya Tropical Butterfly Garden: Travel Guide (4.6★)'
+description: >-
+  Konya Tropical Butterfly Garden (in Selçuklu, on the northern edge of Konya)
+  is a glass-domed tropical park where thousands of free-flying butterflies
+  drift through humid, plant-choked air alongside an insect museum. 4.6★ (30,017
+  reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Konya
+category: hidden-gem
+pubDate: '2026-08-13T09:49:03.013Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cethosia_cyane_-_Leopard_Lacewing_05.jpg/1920px-Cethosia_cyane_-_Leopard_Lacewing_05.jpg"
-  credit: "Photo: Zeynel Cebeci / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cethosia_cyane_-_Leopard_Lacewing_05.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cethosia_cyane_-_Leopard_Lacewing_05.jpg/1920px-Cethosia_cyane_-_Leopard_Lacewing_05.jpg
+  credit: 'Photo: Zeynel Cebeci / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cethosia_cyane_-_Leopard_Lacewing_05.jpg
 gallery: []
 place:
-  id: "ChIJ7SyncCeP0BQRt0FvygZcOTo"
-  name: "Konya Tropical Butterfly Garden"
-  address: "Parsana, İsmail Kaya Cd. NO:244, 42250 Selçuklu/Konya, Türkiye"
+  id: ChIJ7SyncCeP0BQRt0FvygZcOTo
+  name: Konya Tropical Butterfly Garden
+  address: 'Parsana, İsmail Kaya Cd. NO:244, 42250 Selçuklu/Konya, Türkiye'
   rating: 4.6
-  userRatingsTotal: 29584
-  googleMapsUrl: "https://maps.google.com/?cid=4195485712108175799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30017
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4195485712108175799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.9483683
   lng: 32.4615916
-  phone: "+90 332 211 11 20"
+  phone: +90 332 211 11 20
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -40,24 +47,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f544f635a67797646307452514230506543636e7953374a496843"
+    venueId: ven_6f544f635a67797646307452514230506543636e7953374a496843
 tags:
-  - "konya"
-  - "hidden gem"
-quickAnswer: "Konya Tropical Butterfly Garden (in Selçuklu, on the northern edge of Konya) is a glass-domed tropical park where thousands of free-flying butterflies drift through humid, plant-choked air alongside an insect museum. It's open Tuesday to Sunday, 9:30am–5:30pm, closed Mondays — with well over 100,000 combined visitors reviewing it, expect real crowds on weekends between 10am and 5pm. Budget 1.5–2 hours, go right at opening on a weekday for the calmest visit."
+  - konya
+  - hidden gem
+quickAnswer: >-
+  Konya Tropical Butterfly Garden (in Selçuklu, on the northern edge of Konya)
+  is a glass-domed tropical park where thousands of free-flying butterflies
+  drift through humid, plant-choked air alongside an insect museum. It's open
+  Tuesday to Sunday, 9:30am–5:30pm, closed Mondays — with well over 100,000
+  combined visitors reviewing it, expect real crowds on weekends between 10am
+  and 5pm. Budget 1.5–2 hours, go right at opening on a weekday for the calmest
+  visit.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 9:30am–5:30pm. The garden is closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings right at the 9:30am opening tend to be calmest. Weekends are busy throughout the full 10am–5pm window, so avoid those hours if you can."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 1.5 to 2 hours walking the dome, insect museum and children's area at an unhurried pace."
-  - q: "How do I get there from central Konya?"
-    a: "It's about a 20–25 minute taxi or drive to Parsana in Selçuklu. On-site parking is available; public buses also serve the area, but confirm the current route locally before relying on one."
-  - q: "Is it good for young children?"
-    a: "Yes — there's a dedicated children's activity area and educational programs on metamorphosis alongside the main butterfly dome and insect museum."
+  - q: What are the opening hours?
+    a: >-
+      Tuesday through Sunday, 9:30am–5:30pm. The garden is closed all day
+      Monday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings right at the 9:30am opening tend to be calmest. Weekends
+      are busy throughout the full 10am–5pm window, so avoid those hours if you
+      can.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 1.5 to 2 hours walking the dome, insect museum and
+      children's area at an unhurried pace.
+  - q: How do I get there from central Konya?
+    a: >-
+      It's about a 20–25 minute taxi or drive to Parsana in Selçuklu. On-site
+      parking is available; public buses also serve the area, but confirm the
+      current route locally before relying on one.
+  - q: Is it good for young children?
+    a: >-
+      Yes — there's a dedicated children's activity area and educational
+      programs on metamorphosis alongside the main butterfly dome and insect
+      museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

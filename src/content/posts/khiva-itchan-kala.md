@@ -1,41 +1,49 @@
 ---
-title: "Itchan Kala: Khiva Travel Guide (4.7★)"
-description: "Itchan Kala, Khiva's walled inner city, is open daily 9am–7pm and is best explored early — between 9am and 11am is the calmest window, even on weekends, before tour groups fill the lanes from noon onward. 4.7★ (3,862 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Khiva"
-category: "attraction"
-pubDate: "2026-08-13T09:43:07.145Z"
+title: 'Itchan Kala: Khiva Travel Guide (4.7★)'
+description: >-
+  Itchan Kala, Khiva's walled inner city, is open daily 9am–7pm and is best
+  explored early — between 9am and 11am is the calmest window, even on weekends,
+  before tour groups fill the lanes from noon onward. 4.7★ (3,939 reviews) —
+  what visitors say, hours, and tips.
+country: Uzbekistan
+region: Khiva
+category: attraction
+pubDate: '2026-08-13T09:43:07.145Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Islam_Khodja_Madrasa_01.jpg/1920px-Islam_Khodja_Madrasa_01.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Islam_Khodja_Madrasa_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Islam_Khodja_Madrasa_01.jpg/1920px-Islam_Khodja_Madrasa_01.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Islam_Khodja_Madrasa_01.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Konya_Ark_towers_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA,_Ko%CA%BBhna_ark),_Itchan_Kala,_Khiva.jpg
 place:
-  id: "ChIJcwzlqBGk30ERxrlEP2bUIDk"
-  name: "Itchan Kala"
-  address: "А, Болтаева-41, 220900, Xiva, Xorazm Viloyati, Uzbekistan"
+  id: ChIJcwzlqBGk30ERxrlEP2bUIDk
+  name: Itchan Kala
+  address: 'А, Болтаева-41, 220900, Xiva, Xorazm Viloyati, Uzbekistan'
   rating: 4.7
-  userRatingsTotal: 3862
-  googleMapsUrl: "https://maps.google.com/?cid=4116523595029854662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3939
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4116523595029854662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.378069499999995
   lng: 60.35932999999999
-  phone: "+998 62 377 63 40"
+  phone: +998 62 377 63 40
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -50,24 +58,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6b444955623250456c7278524530336b4742716c7a77634a496843"
+    venueId: ven_6b444955623250456c7278524530336b4742716c7a77634a496843
 tags:
-  - "khiva"
-  - "top attraction"
-quickAnswer: "Itchan Kala, Khiva's walled inner city, is open daily 9am–7pm and is best explored early — between 9am and 11am is the calmest window, even on weekends, before tour groups fill the lanes from noon onward. Budget half a day to a full day to see the Kalta Minor minaret, Kunya-Ark fortress, and the Tosh Hovli palace properly. Buy the combined entry ticket at one of the gates rather than paying per site."
+  - khiva
+  - top attraction
+quickAnswer: >-
+  Itchan Kala, Khiva's walled inner city, is open daily 9am–7pm and is best
+  explored early — between 9am and 11am is the calmest window, even on weekends,
+  before tour groups fill the lanes from noon onward. Budget half a day to a
+  full day to see the Kalta Minor minaret, Kunya-Ark fortress, and the Tosh
+  Hovli palace properly. Buy the combined entry ticket at one of the gates
+  rather than paying per site.
 faq:
-  - q: "How much time do I need at Itchan Kala?"
-    a: "Plan on at least half a day to see the main monuments — Kalta Minor, Kunya-Ark, Tosh Hovli, and Islom Hoja minaret. A full day lets you explore smaller madrasas and museums inside the walls without rushing."
-  - q: "When is the quietest time to visit?"
-    a: "Between 9am and 11am, on both weekdays and weekends. Weekend afternoons from noon to 7pm are the busiest, as tour groups arrive in waves."
-  - q: "How do I get to Itchan Kala from outside Khiva?"
-    a: "Most travelers fly or take a train to Urgench, then drive about 35 minutes to Khiva. From central Khiva, the walled city is walkable, with taxis dropping passengers at the main gates."
-  - q: "Do I need to buy separate tickets for each monument?"
-    a: "No — a combined entry ticket sold at the gates covers most major sites inside Itchan Kala. Keep your ticket stub, as some individual monuments check it on entry."
-  - q: "What should I wear inside Itchan Kala?"
-    a: "Modest clothing covering shoulders and knees, especially near mosques and mausoleums. Comfortable, grippy shoes help for climbing the narrow stairs of the Islom Hoja minaret."
+  - q: How much time do I need at Itchan Kala?
+    a: >-
+      Plan on at least half a day to see the main monuments — Kalta Minor,
+      Kunya-Ark, Tosh Hovli, and Islom Hoja minaret. A full day lets you explore
+      smaller madrasas and museums inside the walls without rushing.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 9am and 11am, on both weekdays and weekends. Weekend afternoons
+      from noon to 7pm are the busiest, as tour groups arrive in waves.
+  - q: How do I get to Itchan Kala from outside Khiva?
+    a: >-
+      Most travelers fly or take a train to Urgench, then drive about 35 minutes
+      to Khiva. From central Khiva, the walled city is walkable, with taxis
+      dropping passengers at the main gates.
+  - q: Do I need to buy separate tickets for each monument?
+    a: >-
+      No — a combined entry ticket sold at the gates covers most major sites
+      inside Itchan Kala. Keep your ticket stub, as some individual monuments
+      check it on entry.
+  - q: What should I wear inside Itchan Kala?
+    a: >-
+      Modest clothing covering shoulders and knees, especially near mosques and
+      mausoleums. Comfortable, grippy shoes help for climbing the narrow stairs
+      of the Islom Hoja minaret.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## Why go

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kolkata-victoria-memorial
-srcHash: '4b4a23f48b68'
+srcHash: 'c713ceeef77a'
 title: 'Victoria Memorial: guía de viaje de Calcuta (4,6★)'
-description: 'El Victoria Memorial es el gran monumento de mármol blanco de Calcuta, convertido en museo, ubicado en el Maidan, abierto de martes a domingo de 10:00 a 18:00 (cerrado los lunes). 4,6★ (90.492 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Victoria Memorial es el gran monumento de mármol blanco de Calcuta, convertido en museo, ubicado en el Maidan, abierto de martes a domingo de 10:00 a 18:00 (cerrado los lunes). 4,6★ (91.892 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Victoria Memorial es el gran monumento de mármol blanco de Calcuta (Kolkata), convertido en museo, ubicado en el Maidan, abierto de martes a domingo de 10:00 a 18:00 (cerrado los lunes). Es realmente popular —no es ningún secreto—, así que lo mejor es ir temprano en un día de semana y evitar las tardes de fin de semana, cuando la afluencia es máxima entre las 11:00 y las 18:00. Calcula entre 1,5 y 2 horas para las salas del museo, más un paseo tranquilo por los jardines.
 faq:
   - q: ¿Cuál es el horario de apertura?

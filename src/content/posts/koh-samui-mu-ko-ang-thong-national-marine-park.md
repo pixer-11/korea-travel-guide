@@ -1,39 +1,46 @@
 ---
-title: "Mu Ko Ang Thong National Marine Park: Koh Samui Travel Guide"
-description: Mu Ko Ang Thong National Marine Park is an archipelago of 42 limestone islands off Koh Samui, reached only by organized boat tour or private charter from Bangrak or Nathon pier. 4.7★ (4,671 reviews) — what visitors say, hours, and tips.
+title: 'Mu Ko Ang Thong National Marine Park: Koh Samui Travel Guide'
+description: >-
+  Mu Ko Ang Thong National Marine Park is an archipelago of 42 limestone islands
+  off Koh Samui, reached only by organized boat tour or private charter from
+  Bangrak or Nathon pier. 4.7★ (4,672 reviews) — what visitors say, hours, and
+  tips.
 country: Thailand
 region: Koh Samui
 category: attraction
-pubDate: "2026-09-07T10:40:37.093Z"
+pubDate: '2026-09-07T10:40:37.093Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg/3840px-Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg
-  credit: "Photo: Livingfilms23 / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg/3840px-Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg
+  credit: 'Photo: Livingfilms23 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mu_Ko_Ang_Thong_Marine_Park_Stairway.jpg
   via: act
   focus:
     x: 50
-    "y": 35
+    'y': 35
 gallery: []
 place:
   id: ChIJ5x4DAX7-VDARkJi8xghaoRg
   name: Mu Ko Ang Thong National Marine Park
-  address: Ang Thong, Ko Samui District, Surat Thani 84280, Thailand
+  address: 'Ang Thong, Ko Samui District, Surat Thani 84280, Thailand'
   rating: 4.7
-  userRatingsTotal: 4671
-  googleMapsUrl: https://maps.google.com/?cid=1774798721901172880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4672
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1774798721901172880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.6352349
   lng: 99.671822
   phone: +66 77 286 025
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
     updated: 2026-09-07T00:00:00.000Z
     weekdayQuiet:
@@ -56,20 +63,41 @@ place:
 tags:
   - koh samui
   - park
-quickAnswer: "Mu Ko Ang Thong National Marine Park is an archipelago of 42 limestone islands off Koh Samui, reached only by organized boat tour or private charter from Bangrak or Nathon pier. The park gate opens 8am–5pm daily, and boats time arrivals for late morning, so the calmest window is 8am–10am before the bulk of day-trip groups land. Budget a full day: most tours run 8am to 5pm and include the viewpoint hike, Emerald Lake, and a snorkel stop."
+quickAnswer: >-
+  Mu Ko Ang Thong National Marine Park is an archipelago of 42 limestone islands
+  off Koh Samui, reached only by organized boat tour or private charter from
+  Bangrak or Nathon pier. The park gate opens 8am–5pm daily, and boats time
+  arrivals for late morning, so the calmest window is 8am–10am before the bulk
+  of day-trip groups land. Budget a full day: most tours run 8am to 5pm and
+  include the viewpoint hike, Emerald Lake, and a snorkel stop.
 faq:
   - q: How do you get to Mu Ko Ang Thong National Marine Park from Koh Samui?
-    a: By organized boat tour or private charter only; there's no public ferry. Most tours depart Bangrak or Nathon pier between 8am and 9am for a 60-90 minute speedboat crossing, or longer on a catamaran.
+    a: >-
+      By organized boat tour or private charter only; there's no public ferry.
+      Most tours depart Bangrak or Nathon pier between 8am and 9am for a 60-90
+      minute speedboat crossing, or longer on a catamaran.
   - q: How much time do you need for a visit?
-    a: Plan for a full day. Most tours run from around 8am to 5pm and cover the Emerald Lake boardwalk, the Ko Wua Talap viewpoint hike, kayaking, and a snorkel stop.
+    a: >-
+      Plan for a full day. Most tours run from around 8am to 5pm and cover the
+      Emerald Lake boardwalk, the Ko Wua Talap viewpoint hike, kayaking, and a
+      snorkel stop.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest between 8am and 10am, right as the earliest boats arrive. Avoid the viewpoint trail and Emerald Lake boardwalk between 11am and 4pm on weekends, when tour groups stack up.
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 10am, right as the
+      earliest boats arrive. Avoid the viewpoint trail and Emerald Lake
+      boardwalk between 11am and 4pm on weekends, when tour groups stack up.
   - q: What should you bring?
-    a: Real shoes for the steep viewpoint climb, water shoes for rocky shore entries, reef-safe sunscreen applied before boarding, a dry bag, and motion sickness tablets if you're prone to seasickness.
+    a: >-
+      Real shoes for the steep viewpoint climb, water shoes for rocky shore
+      entries, reef-safe sunscreen applied before boarding, a dry bag, and
+      motion sickness tablets if you're prone to seasickness.
   - q: Is the park open every day?
-    a: Yes, the park operates 8am to 5pm daily, though your actual visiting hours depend on your tour's schedule rather than the gate times themselves.
+    a: >-
+      Yes, the park operates 8am to 5pm daily, though your actual visiting hours
+      depend on your tour's schedule rather than the gate times themselves.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## What you're actually visiting

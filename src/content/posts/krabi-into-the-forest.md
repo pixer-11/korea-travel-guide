@@ -1,35 +1,44 @@
 ---
 title: 'Into the forest: Krabi Travel Guide'
-description: Into the Forest is a jungle-set café and photo-friendly attraction in Khao Thong, on the outskirts of Krabi town — best visited on a weekday morning (before 10am) or late afternoon to avoid tour-bus crowds and harsh midday light.
+description: >-
+  Into the Forest is a jungle-set café and photo-friendly attraction in Khao
+  Thong, on the outskirts of Krabi town — best visited on a weekday morning
+  (before 10am) or late afternoon to avoid tour-bus crowds and harsh midday
+  light.
 country: Thailand
 region: Krabi
 category: trendy
 pubDate: '2026-07-22T09:17:53.767Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Krabi_Urban_Forest_03.jpg/3840px-Krabi_Urban_Forest_03.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Krabi_Urban_Forest_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Krabi_Urban_Forest_03.jpg/3840px-Krabi_Urban_Forest_03.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Krabi_Urban_Forest_03.jpg'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/473551293_UD9FW15KBf9W3kLmWsOP1YD9IRiN7X1eYf9dqNYn_Qw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/473551293_UD9FW15KBf9W3kLmWsOP1YD9IRiN7X1eYf9dqNYn_Qw.jpg
   credit: 'Photo: Foursquare user content (Into The Forest)'
   license: foursquare
-  source: https://foursquare.com/v/6075519ce1da285aeb7cf417
+  source: 'https://foursquare.com/v/6075519ce1da285aeb7cf417'
   focus:
     x: 50
-    y: 35
+    'y': 35
 place:
   id: ChIJf1t8FN-9UTARbL_N-UlnN3I
   name: Into the forest
-  address: 359 หมู่ที่ 1 Tambon Khao Thong, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand
+  address: >-
+    359 หมู่ที่ 1 Tambon Khao Thong, Amphoe Mueang Krabi, Chang Wat Krabi 81000,
+    Thailand
   rating: 4.9
-  userRatingsTotal: 5018
+  userRatingsTotal: 5282
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=8230160411464154988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8230160411464154988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 8.142995899999999
   lng: 98.8211839
-  phone: '+66 75 819 219'
+  phone: +66 75 819 219
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'
@@ -41,19 +50,41 @@ place:
 tags:
   - krabi
   - trendy cafe
-quickAnswer: Into the Forest is a jungle-set café and photo-friendly attraction in Khao Thong, on the outskirts of Krabi town — best visited on a weekday morning (before 10am) or late afternoon to avoid tour-bus crowds and harsh midday light. Budget 1–2 hours, bring cash for entry/drinks, and pair it with a stop at Krabi Town's night market or Wat Tham Sua since it's roughly a 15–20 minute drive from the city center. It's a moderately priced (mid-range) spot, so expect café prices rather than street-food prices.
+quickAnswer: >-
+  Into the Forest is a jungle-set café and photo-friendly attraction in Khao
+  Thong, on the outskirts of Krabi town — best visited on a weekday morning
+  (before 10am) or late afternoon to avoid tour-bus crowds and harsh midday
+  light. Budget 1–2 hours, bring cash for entry/drinks, and pair it with a stop
+  at Krabi Town's night market or Wat Tham Sua since it's roughly a 15–20 minute
+  drive from the city center. It's a moderately priced (mid-range) spot, so
+  expect café prices rather than street-food prices.
 faq:
   - q: Where exactly is Into the Forest located?
-    a: It's at 359 Moo 1, Tambon Khao Thong, Amphoe Mueang Krabi, about 15–20 minutes by car or scooter from Krabi Town, on the way toward Khao Thong and the inland limestone hills.
+    a: >-
+      It's at 359 Moo 1, Tambon Khao Thong, Amphoe Mueang Krabi, about 15–20
+      minutes by car or scooter from Krabi Town, on the way toward Khao Thong
+      and the inland limestone hills.
   - q: How do I get there without a rental car?
-    a: Most visitors arrange a Grab, taxi, or hotel-booked songthaew from Krabi Town since there's no direct public bus route; renting a scooter is the cheapest flexible option if you're comfortable riding on Thai roads.
+    a: >-
+      Most visitors arrange a Grab, taxi, or hotel-booked songthaew from Krabi
+      Town since there's no direct public bus route; renting a scooter is the
+      cheapest flexible option if you're comfortable riding on Thai roads.
   - q: How much does it cost to visit?
-    a: It's a moderately priced (price level 2) café-attraction — expect to pay a small entrance or minimum-spend fee plus café prices for drinks and snacks; bring cash as card acceptance can be inconsistent in rural Krabi.
+    a: >-
+      It's a moderately priced (price level 2) café-attraction — expect to pay a
+      small entrance or minimum-spend fee plus café prices for drinks and
+      snacks; bring cash as card acceptance can be inconsistent in rural Krabi.
   - q: How long should I plan to stay?
-    a: 'One to two hours is typical: enough time to walk the jungle boardwalks, take photos at the scenic spots, and relax over a drink at the café.'
+    a: >-
+      One to two hours is typical: enough time to walk the jungle boardwalks,
+      take photos at the scenic spots, and relax over a drink at the café.
   - q: What's nearby I can combine with this visit?
-    a: Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and the weekend night market are all within a short drive, making it easy to build a half-day loop.
+    a: >-
+      Wat Tham Sua (Tiger Cave Temple), the Krabi Town riverside promenade, and
+      the weekend night market are all within a short drive, making it easy to
+      build a half-day loop.
 aiGenerated: true
+updatedDate: '2026-09-07'
 ---
 ## Why go
 

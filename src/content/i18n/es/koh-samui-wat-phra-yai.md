@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-samui-wat-phra-yai
-srcHash: '71c049205aff'
+srcHash: '9ce054b39741'
 title: 'Wat Phra Yai: guía de viaje de Koh Samui (4,5★)'
-description: 'El Wat Phra Yai (el "Templo del Gran Buda") se alza en su propia islita, unida por una calzada a Bo Put, en el noreste de Koh Samui, y abre todos los días de 7:00 a 18:30 con entrada gratuita. 4,5★ (11.482 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Wat Phra Yai (el "Templo del Gran Buda") se alza en su propia islita, unida por una calzada a Bo Put, en el noreste de Koh Samui, y abre todos los días de 7:00 a 18:30 con entrada gratuita. 4,5★ (11.484 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Wat Phra Yai (el "Templo del Gran Buda") se alza en su propia islita, unida por una calzada a Bo Put, en el noreste de Koh Samui, y abre todos los días de 7:00 a 18:30 con entrada gratuita. Conviene llegar justo al abrir, entre las 7:00 y las 9:00, para adelantarse a los autobuses turísticos que abarrotan la calzada y las escaleras de 10:00 a 15:00 los fines de semana. Calcule entre 30 y 45 minutos para ver la estatua y el recinto del templo, más si se detiene en los puestos del mercado de abajo.
 faq:
   - q: ¿Cuál es el horario del Wat Phra Yai?

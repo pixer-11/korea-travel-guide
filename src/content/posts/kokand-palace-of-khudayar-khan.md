@@ -1,41 +1,49 @@
 ---
-title: "Palace of Khudáyár Khán: Kokand Travel Guide (4.7★)"
-description: "The Palace of Khudáyár Khán, on Istiqlol St 1 in Kokand, is open daily 9am–10pm and rarely feels crowded — go weekdays 9am–11am or weekend mornings before noon for the quietest look at its tiled courtyards. 4.7★ (915 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Kokand"
-category: "attraction"
-pubDate: "2026-08-14T08:40:53.630Z"
+title: 'Palace of Khudáyár Khán: Kokand Travel Guide (4.7★)'
+description: >-
+  The Palace of Khudáyár Khán, on Istiqlol St 1 in Kokand, is open daily
+  9am–10pm and rarely feels crowded — go weekdays 9am–11am or weekend mornings
+  before noon for the quietest look at its tiled courtyards. 4.7★ (927 reviews)
+  — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Kokand
+category: attraction
+pubDate: '2026-08-14T08:40:53.630Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Palace_of_Khudayar_Khan.jpg/1920px-Palace_of_Khudayar_Khan.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Palace_of_Khudayar_Khan.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Palace_of_Khudayar_Khan.jpg/1920px-Palace_of_Khudayar_Khan.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Palace_of_Khudayar_Khan.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n%2C_Kokand_%28%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0%2C_Xudoyorxon_o%CA%BBrdasi%29.jpg/3840px-Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n%2C_Kokand_%28%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0%2C_Xudoyorxon_o%CA%BBrdasi%29.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n,_Kokand_(%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0,_Xudoyorxon_o%CA%BBrdasi).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n%2C_Kokand_%28%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0%2C_Xudoyorxon_o%CA%BBrdasi%29.jpg/3840px-Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n%2C_Kokand_%28%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0%2C_Xudoyorxon_o%CA%BBrdasi%29.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n,_Kokand_(%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A5%D1%83%D0%B4%D0%BE%D1%8F%D1%80-%D1%85%D0%B0%D0%BD%D0%B0,_Xudoyorxon_o%CA%BBrdasi).jpg
 place:
-  id: "ChIJR3M9w8PuujgR3ql3-GXHxsI"
-  name: "Palace of Khudáyár Khán"
-  address: "Istiqlol St 1, Kokand, Fergana Region, Uzbekistan"
+  id: ChIJR3M9w8PuujgR3ql3-GXHxsI
+  name: Palace of Khudáyár Khán
+  address: 'Istiqlol St 1, Kokand, Fergana Region, Uzbekistan'
   rating: 4.7
-  userRatingsTotal: 915
-  googleMapsUrl: "https://maps.google.com/?cid=14035124529520945630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 927
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14035124529520945630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.53881330000001
   lng: 70.93768
-  phone: "+998 97 764 68 62"
+  phone: +998 97 764 68 62
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +59,42 @@ place:
       - 15
       - 16
       - 21
-    venueId: "ven_4973784858472d336c713352676a7575503877394d33524a496843"
+    venueId: ven_4973784858472d336c713352676a7575503877394d33524a496843
 tags:
-  - "kokand"
-  - "top attraction"
-quickAnswer: "The Palace of Khudáyár Khán, on Istiqlol St 1 in Kokand, is open daily 9am–10pm and rarely feels crowded — go weekdays 9am–11am or weekend mornings before noon for the quietest look at its tiled courtyards. Budget 60–90 minutes to see the surviving rooms and museum displays. It's an easy add-on to a Fergana Valley trip and still flies under most tourists' radar."
+  - kokand
+  - top attraction
+quickAnswer: >-
+  The Palace of Khudáyár Khán, on Istiqlol St 1 in Kokand, is open daily
+  9am–10pm and rarely feels crowded — go weekdays 9am–11am or weekend mornings
+  before noon for the quietest look at its tiled courtyards. Budget 60–90
+  minutes to see the surviving rooms and museum displays. It's an easy add-on to
+  a Fergana Valley trip and still flies under most tourists' radar.
 faq:
-  - q: "What are the opening hours?"
-    a: "The palace is open daily from 9:00 AM to 10:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 11am are calmest; weekend mornings before noon are a close second. Avoid weekends after 11am, when crowds build through the evening."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 60-90 minutes to walk the courtyard, tour the surviving rooms and browse the museum exhibits."
-  - q: "How do I get to Kokand from Tashkent?"
-    a: "It's roughly a 4-5 hour drive or train journey through the Fergana Valley. Many travelers base in Fergana city and visit Kokand as a day trip."
-  - q: "Is it worth combining with other sights?"
-    a: "Yes — the Jami Mosque and the mausoleum of Modari Khan are both within walking distance, making it easy to build a half-day around Kokand's old town."
+  - q: What are the opening hours?
+    a: >-
+      The palace is open daily from 9:00 AM to 10:00 PM, with no weekly closing
+      day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 11am are calmest; weekend mornings before noon
+      are a close second. Avoid weekends after 11am, when crowds build through
+      the evening.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 60-90 minutes to walk the courtyard, tour the surviving
+      rooms and browse the museum exhibits.
+  - q: How do I get to Kokand from Tashkent?
+    a: >-
+      It's roughly a 4-5 hour drive or train journey through the Fergana Valley.
+      Many travelers base in Fergana city and visit Kokand as a day trip.
+  - q: Is it worth combining with other sights?
+    a: >-
+      Yes — the Jami Mosque and the mausoleum of Modari Khan are both within
+      walking distance, making it easy to build a half-day around Kokand's old
+      town.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 ## First impression

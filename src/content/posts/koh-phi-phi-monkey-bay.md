@@ -1,43 +1,71 @@
 ---
-title: "Monkey Bay: Koh Phi Phi Travel Guide (4.2★)"
-description: "Monkey Bay is a small, cliff-hemmed cove off Koh Phi Phi Don, reachable only by longtail boat, speedboat, or a rough overland trail — famous for the troop of long-tailed macaques that patrols its narrow strip of sand. 4.2★ (1,666 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Phi Phi"
-category: "attraction"
-pubDate: "2026-08-12T08:55:00.340Z"
+title: 'Monkey Bay: Koh Phi Phi Travel Guide (4.2★)'
+description: >-
+  Monkey Bay is a small, cliff-hemmed cove off Koh Phi Phi Don, reachable only
+  by longtail boat, speedboat, or a rough overland trail — famous for the troop
+  of long-tailed macaques that patrols its narrow strip of sand. 4.2★ (1,683
+  reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Koh Phi Phi
+category: attraction
+pubDate: '2026-08-12T08:55:00.340Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monkey_Bay.jpg/3840px-Monkey_Bay.jpg"
-  credit: "Photo: Kris Martyn / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Monkey_Bay.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monkey_Bay.jpg/3840px-Monkey_Bay.jpg
+  credit: 'Photo: Kris Martyn / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Monkey_Bay.jpg'
 gallery: []
 place:
-  id: "ChIJR4QBmXAhTjARwAh5hDNjFkE"
-  name: "Monkey Bay"
-  address: "PQC9+HV9, Ao Nang, Mueang Krabi District, Krabi, Thailand"
+  id: ChIJR4QBmXAhTjARwAh5hDNjFkE
+  name: Monkey Bay
+  address: 'PQC9+HV9, Ao Nang, Mueang Krabi District, Krabi, Thailand'
   rating: 4.2
-  userRatingsTotal: 1666
-  googleMapsUrl: "https://maps.google.com/?cid=4690045134869956800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1683
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4690045134869956800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.721416
   lng: 98.7697499
 tags:
-  - "koh phi phi"
-  - "top attraction"
-quickAnswer: "Monkey Bay is a small, cliff-hemmed cove off Koh Phi Phi Don, reachable only by longtail boat, speedboat, or a rough overland trail — famous for the troop of long-tailed macaques that patrols its narrow strip of sand. It's a stop on most Phi Phi island-hopping tours rather than a solo destination, so go early morning or via a private longtail charter to beat the tour-boat crush. Budget 20-30 minutes on the beach itself; it's a photo-and-swim stop, not an all-day base."
+  - koh phi phi
+  - top attraction
+quickAnswer: >-
+  Monkey Bay is a small, cliff-hemmed cove off Koh Phi Phi Don, reachable only
+  by longtail boat, speedboat, or a rough overland trail — famous for the troop
+  of long-tailed macaques that patrols its narrow strip of sand. It's a stop on
+  most Phi Phi island-hopping tours rather than a solo destination, so go early
+  morning or via a private longtail charter to beat the tour-boat crush. Budget
+  20-30 minutes on the beach itself; it's a photo-and-swim stop, not an all-day
+  base.
 faq:
-  - q: "How do I get to Monkey Bay?"
-    a: "By boat only for practical purposes — longtail or speedboat from Tonsai pier on Koh Phi Phi Don, usually as part of an island-hopping tour or a private charter. A rough walking trail exists from Laem Tong but is steep and unmarked."
-  - q: "How much time should I spend at Monkey Bay?"
-    a: "20-30 minutes is typical. It's a compact cove used mainly for monkey-watching and a quick snorkel, not a full-day beach."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Aim for a morning departure before 10am, ahead of the main wave of day-tour boats. Dry season (November-April) also brings calmer seas for the crossing."
-  - q: "Is it safe to be around the monkeys?"
-    a: "Generally yes if you keep distance and carry no food or loose bags. Long-tailed macaques will grab dangling items or bite if they feel cornered, so watch rather than approach."
-  - q: "What else is nearby to combine with Monkey Bay?"
-    a: "Pileh Lagoon and Maya Bay are both close by and commonly combined with Monkey Bay on the same island-hopping route from Tonsai."
+  - q: How do I get to Monkey Bay?
+    a: >-
+      By boat only for practical purposes — longtail or speedboat from Tonsai
+      pier on Koh Phi Phi Don, usually as part of an island-hopping tour or a
+      private charter. A rough walking trail exists from Laem Tong but is steep
+      and unmarked.
+  - q: How much time should I spend at Monkey Bay?
+    a: >-
+      20-30 minutes is typical. It's a compact cove used mainly for
+      monkey-watching and a quick snorkel, not a full-day beach.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Aim for a morning departure before 10am, ahead of the main wave of
+      day-tour boats. Dry season (November-April) also brings calmer seas for
+      the crossing.
+  - q: Is it safe to be around the monkeys?
+    a: >-
+      Generally yes if you keep distance and carry no food or loose bags.
+      Long-tailed macaques will grab dangling items or bite if they feel
+      cornered, so watch rather than approach.
+  - q: What else is nearby to combine with Monkey Bay?
+    a: >-
+      Pileh Lagoon and Maya Bay are both close by and commonly combined with
+      Monkey Bay on the same island-hopping route from Tonsai.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 ## Why go
 

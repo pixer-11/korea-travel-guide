@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: konya-alaaddin-hill-park
-srcHash: 'e34cfc193dc7'
+srcHash: 'eed08171c973'
 title: 'Parque de la Colina de Alaaddin: Guía de viaje de Konya (4.4★)'
-description: 'El Parque de la Colina de Alaaddin (Alaaddin Tepesi) es un parque situado sobre un montículo en pleno corazón del distrito de Selçuklu, en Konya, que envuelve las ruinas de la Mezquita selyúcida de Alaaddin y un pequeño fragmento del antiguo palacio selyúcida. 4.4★ (26.151 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque de la Colina de Alaaddin (Alaaddin Tepesi) es un parque situado sobre un montículo en pleno corazón del distrito de Selçuklu, en Konya, que envuelve las ruinas de la Mezquita selyúcida de Alaaddin y un pequeño fragmento del antiguo palacio selyúcida. 4.4★ (26.281 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque de la Colina de Alaaddin (Alaaddin Tepesi) es un parque situado sobre un montículo en pleno corazón del distrito de Selçuklu, en Konya, que envuelve las ruinas de la Mezquita selyúcida de Alaaddin y un pequeño fragmento del antiguo palacio selyúcida. Permanece abierto las 24 horas, la entrada es gratuita y lo mejor es visitarlo temprano: las mañanas de fin de semana entre las 7:00 y las 10:00 son las más tranquilas, antes de que los bancos y senderos se llenen a partir del mediodía. Conviene dedicarle entre 30 y 60 minutos, idealmente combinados con un paseo hasta el cercano Museo de Mevlana.'
 faq:
   - q: ¿Hay que pagar entrada para visitar el Parque de la Colina de Alaaddin?

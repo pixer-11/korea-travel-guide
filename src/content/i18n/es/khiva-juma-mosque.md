@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: khiva-juma-mosque
-srcHash: '513699202358'
+srcHash: 'eaa49e8855fb'
 title: 'Mezquita Juma: Guía de Viaje de Jiva (4,7★)'
-description: 'La Mezquita Juma se alza en pleno corazón de Itchan Kala, la ciudad amurallada de Jiva, abierta todos los días de 9:00 a 18:00. 4,7★ (985 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Mezquita Juma se alza en pleno corazón de Itchan Kala, la ciudad amurallada de Jiva, abierta todos los días de 9:00 a 18:00. 4,7★ (995 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'La Mezquita Juma se alza en pleno corazón de Itchan Kala, la ciudad amurallada de Jiva, abierta todos los días de 9:00 a 18:00. Conviene llegar justo a la apertura entre semana (de 9:00 a 11:00 es cuando hay menos gente, y de 9:00 a 10:00 los fines de semana) para disfrutar casi en solitario de su bosque de 213 columnas de madera talladas. Con 20 a 30 minutos basta: es una parada breve y tranquila, no una visita larga.'
 faq:
   - q: ¿Cuál es el horario de la Mezquita Juma?

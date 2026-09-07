@@ -1,31 +1,39 @@
 ---
 title: 'Kodam Kitchen branch 1: Where to Eat in Krabi'
-description: Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries at street-food-level prices with sit-down comfort.
+description: >-
+  Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao
+  Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries
+  at street-food-level prices with sit-down comfort.
 country: Thailand
 region: Krabi
 category: restaurant
 pubDate: '2026-07-22T09:11:24.860Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/71246663_n2iAo7hfXLNho5Bi8hlsYo7Hfohzr3RxpkYARqS2jjg.jpg"
-    credit: "Photo: Foursquare user content (Kodam Kitchen)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4f5ca790e4b05cd76a6a7341"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/71246663_n2iAo7hfXLNho5Bi8hlsYo7Hfohzr3RxpkYARqS2jjg.jpg
+    credit: 'Photo: Foursquare user content (Kodam Kitchen)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4f5ca790e4b05cd76a6a7341'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/3535474_Meq_6n1EN8s3FtzpnbjL1WvJmgPjiaSu1wWVfEHkIug.jpg
   credit: 'Photo: Foursquare user content (Kodam Kitchen)'
   license: foursquare
-  source: https://foursquare.com/v/4f5ca790e4b05cd76a6a7341
+  source: 'https://foursquare.com/v/4f5ca790e4b05cd76a6a7341'
   focus:
     x: 50
-    y: 45
+    'y': 45
 place:
   id: ChIJJSWrBQrAUTARg5DFe2jio2w
   name: Kodam Kitchen branch 1
-  address: 228 หมู่ที่ 3 Thanon Khlong Hang, Tambon Ao Nang, Amphoe Mueang Krabi, Chang Wat Krabi 81180, Thailand
+  address: >-
+    228 หมู่ที่ 3 Thanon Khlong Hang, Tambon Ao Nang, Amphoe Mueang Krabi, Chang
+    Wat Krabi 81180, Thailand
   rating: 4.7
-  userRatingsTotal: 10081
+  userRatingsTotal: 10251
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=7828349515681075331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7828349515681075331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 8.038466399999999
   lng: 98.8196739
@@ -53,7 +61,7 @@ place:
       - 20
       - 21
     venueId: ven_77326f696a32654644356752415455417251427257534a4a496843
-  phone: '+66 62 723 1234'
+  phone: +66 62 723 1234
   openingHours:
     - 'Monday: 11:00 AM – 10:30 PM'
     - 'Tuesday: 11:00 AM – 10:30 PM'
@@ -65,21 +73,41 @@ place:
 tags:
   - krabi
   - local restaurant
-quickAnswer: Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries at street-food-level prices with sit-down comfort. With a 4.7 rating from over 10,000 reviews, it's one of the most consistently praised places to eat in the Ao Nang area — go for lunch or early dinner to beat the queue, and expect a casual, fast-turnover setup rather than a fine-dining experience.
+quickAnswer: >-
+  Kodam Kitchen branch 1 is a budget-friendly, high-volume Thai restaurant in Ao
+  Nang, Krabi, best known for classic dishes like pad Thai, tom yum, and curries
+  at street-food-level prices with sit-down comfort. With a 4.7 rating from over
+  10,000 reviews, it's one of the most consistently praised places to eat in the
+  Ao Nang area — go for lunch or early dinner to beat the queue, and expect a
+  casual, fast-turnover setup rather than a fine-dining experience.
 faq:
   - q: Where exactly is Kodam Kitchen branch 1 located?
-    a: It's at 228 Moo 3, Thanon Khlong Hang, in Ao Nang, Amphoe Mueang Krabi — a short ride inland from the main Ao Nang beach strip, not directly on the waterfront.
+    a: >-
+      It's at 228 Moo 3, Thanon Khlong Hang, in Ao Nang, Amphoe Mueang Krabi — a
+      short ride inland from the main Ao Nang beach strip, not directly on the
+      waterfront.
   - q: How much does a meal cost?
-    a: It's listed at the lowest price tier (level 1), meaning dishes are budget-friendly by Ao Nang standards — expect local, street-food-adjacent pricing rather than resort-restaurant rates.
+    a: >-
+      It's listed at the lowest price tier (level 1), meaning dishes are
+      budget-friendly by Ao Nang standards — expect local, street-food-adjacent
+      pricing rather than resort-restaurant rates.
   - q: How do I get there without a car?
-    a: Use Grab (widely used in southern Thailand) for a metered ride, or take a local songthaew from Ao Nang's main road; there's no train or bus system serving this specific street.
+    a: >-
+      Use Grab (widely used in southern Thailand) for a metered ride, or take a
+      local songthaew from Ao Nang's main road; there's no train or bus system
+      serving this specific street.
   - q: What should I order?
-    a: 'Classic Thai staples are the strength here: pad Thai, tom yum goong, curries, cashew stir-fries, and Thai-style fish dishes are the safest, most representative picks.'
+    a: >-
+      Classic Thai staples are the strength here: pad Thai, tom yum goong,
+      curries, cashew stir-fries, and Thai-style fish dishes are the safest,
+      most representative picks.
   - q: How long should I plan for a meal?
-    a: Budget 45–75 minutes, including possible wait time for a table during lunch and dinner peaks, especially in the November–March high season.
+    a: >-
+      Budget 45–75 minutes, including possible wait time for a table during
+      lunch and dinner peaks, especially in the November–March high season.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-07'
 ---
 
 ## Why Kodam Kitchen Is Worth the Trip

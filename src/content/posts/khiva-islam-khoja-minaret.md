@@ -1,55 +1,80 @@
 ---
-title: "Islam Khoja Minaret: Khiva Travel Guide (4.6★)"
-description: "The Islam Khoja Minaret is the tallest and most photogenic landmark inside Khiva's walled old town, Itchan Kala, rising in bold bands of turquoise, dark blue, and cream tile. 4.6★ (465 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Khiva"
-category: "attraction"
-pubDate: "2026-08-20T09:16:53.232Z"
+title: 'Islam Khoja Minaret: Khiva Travel Guide (4.6★)'
+description: >-
+  The Islam Khoja Minaret is the tallest and most photogenic landmark inside
+  Khiva's walled old town, Itchan Kala, rising in bold bands of turquoise, dark
+  blue, and cream tile. 4.6★ (471 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Khiva
+category: attraction
+pubDate: '2026-08-20T09:16:53.232Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg/3840px-%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg"
-  credit: "Photo: ほっきー / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg/3840px-%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg
+  credit: 'Photo: ほっきー / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg
   focus:
     x: 45
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJ7_GqMxCk30ERk9LzZUsdXjY"
-  name: "Islam Khoja Minaret"
-  address: "Islomxoʻja madrasasi va minorasi, Xiva, Xorazm Viloyati, Uzbekistan"
+  id: ChIJ7_GqMxCk30ERk9LzZUsdXjY
+  name: Islam Khoja Minaret
+  address: 'Islomxoʻja madrasasi va minorasi, Xiva, Xorazm Viloyati, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 465
-  googleMapsUrl: "https://maps.google.com/?cid=3917600935529140883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 471
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3917600935529140883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.376598099999995
   lng: 60.360102499999996
-  phone: "+998 62 375 31 69"
+  phone: +998 62 375 31 69
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "khiva"
-  - "Islam Khodja Minaret"
-quickAnswer: "The Islam Khoja Minaret is the tallest and most photogenic landmark inside Khiva's walled old town, Itchan Kala, rising in bold bands of turquoise, dark blue, and cream tile. It's open daily, 8am–8pm Monday to Friday and 8am–6pm on weekends, and pairs with the adjoining madrasa museum. Go early morning or near closing for soft light and far fewer people climbing the narrow stairs ahead of you."
+  - khiva
+  - Islam Khodja Minaret
+quickAnswer: >-
+  The Islam Khoja Minaret is the tallest and most photogenic landmark inside
+  Khiva's walled old town, Itchan Kala, rising in bold bands of turquoise, dark
+  blue, and cream tile. It's open daily, 8am–8pm Monday to Friday and 8am–6pm on
+  weekends, and pairs with the adjoining madrasa museum. Go early morning or
+  near closing for soft light and far fewer people climbing the narrow stairs
+  ahead of you.
 faq:
-  - q: "What are the opening hours for the Islam Khoja Minaret?"
-    a: "8am–8pm Monday through Friday, and 8am–6pm on Saturday and Sunday. Confirm locally before visiting, as hours can shift seasonally."
-  - q: "How much time should I plan for a visit?"
-    a: "About an hour total: 20–30 minutes for the climb and view, plus 20–30 minutes in the attached madrasa museum."
-  - q: "Do I need a separate ticket to climb the minaret?"
-    a: "A combined Itchan Kala pass usually covers entry to the monument grounds, but climbing the tower itself sometimes needs a small extra fee paid on site."
-  - q: "When is the best time of day to visit?"
-    a: "Right at 8am opening or in the last hour before closing, when light is softer, the stairwell is cooler, and tour groups have thinned out."
-  - q: "What else is nearby?"
-    a: "The Kalta Minor minaret, the Kunya-Ark fortress, and the Juma Mosque with its carved wooden pillar forest are all a short walk away inside Itchan Kala's walls."
+  - q: What are the opening hours for the Islam Khoja Minaret?
+    a: >-
+      8am–8pm Monday through Friday, and 8am–6pm on Saturday and Sunday. Confirm
+      locally before visiting, as hours can shift seasonally.
+  - q: How much time should I plan for a visit?
+    a: >-
+      About an hour total: 20–30 minutes for the climb and view, plus 20–30
+      minutes in the attached madrasa museum.
+  - q: Do I need a separate ticket to climb the minaret?
+    a: >-
+      A combined Itchan Kala pass usually covers entry to the monument grounds,
+      but climbing the tower itself sometimes needs a small extra fee paid on
+      site.
+  - q: When is the best time of day to visit?
+    a: >-
+      Right at 8am opening or in the last hour before closing, when light is
+      softer, the stairwell is cooler, and tour groups have thinned out.
+  - q: What else is nearby?
+    a: >-
+      The Kalta Minor minaret, the Kunya-Ark fortress, and the Juma Mosque with
+      its carved wooden pillar forest are all a short walk away inside Itchan
+      Kala's walls.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-07'
 ---
 
 You spot it long before you reach it. Above the mud-brick rooftops of Itchan Kala, a slim tapering tower catches the light in rings of turquoise and cobalt, the tallest thing for miles in this flat Khorezm oasis town.
