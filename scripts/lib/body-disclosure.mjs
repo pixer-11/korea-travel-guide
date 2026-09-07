@@ -1,6 +1,6 @@
 // The in-body AI disclosure blockquote that generate.mjs prepended to every
 // guide until 2026-09. PostArticle.astro already renders the same disclosure
-// as a localized <details> on EVERY post, so 878 live pages said it twice —
+// as a localized <details> on EVERY post, so 922 live pages said it twice —
 // the 08-31 SEO audit's cheapest finding. This removes the body copy only.
 //
 // Language-agnostic by SHAPE, not by wording: the disclosure is the first

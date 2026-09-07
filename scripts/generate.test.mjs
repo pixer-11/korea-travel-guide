@@ -115,13 +115,13 @@ import { readFileSync } from 'node:fs';
 
 test('generate.mjs no longer prepends the in-body AI disclosure', () => {
   // The localized <details> in PostArticle.astro is the single source. Two
-  // copies on one page is what the 08-31 audit found on 878 live guides.
+  // copies on one page is what the 08-31 audit found on 922 live guides.
   const src = readFileSync(new URL('./generate.mjs', import.meta.url), 'utf8');
   assert.equal(/How this guide was made/.test(src), false);
 });
 
 test('hasBodyDisclosure still recognises the legacy line', () => {
   // Guards the sweep: if the detector ever stops matching, the corpus check
-  // below goes quietly green on a corpus that still has 883 of them.
+  // below goes quietly green on a corpus that still has 922 of them.
   assert.equal(hasBodyDisclosure('> **How this guide was made:** x [editorial policy](/about).\n'), true);
 });

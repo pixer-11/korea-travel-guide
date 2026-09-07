@@ -5,7 +5,7 @@
 //   node scripts/strip-body-disclosure.mjs
 //   node scripts/strip-body-disclosure.mjs --only=agra-taj-mahal
 //
-// 883 English guides carry it; PostArticle.astro renders the same disclosure
+// 922 English guides carry it; PostArticle.astro renders the same disclosure
 // as a localized <details> on every post, so those pages say it twice.
 //
 // srcHash: the hash covers the body, so stripping English alone would mark

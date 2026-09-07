@@ -567,7 +567,7 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   }
 
   // The AI disclosure is rendered once by PostArticle.astro as a localized
-  // <details>. A copy in the body means the reader sees it twice — 878 live
+  // <details>. A copy in the body means the reader sees it twice — 922 live
   // guides shipped that way until the 2026-08-31 audit. Sweeping the corpus
   // without this gate just buys the same cleanup again in six weeks.
   if (p.body && hasBodyDisclosure(p.body)) {
