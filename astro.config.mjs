@@ -7,6 +7,8 @@ import { dirname, join } from 'node:path';
 import { isRecurringEvent } from './src/lib/eventRecurrence.mjs';
 import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/sitemap-split.mjs';
 import { hubPathsFor } from './src/lib/hub-lastmod.mjs';
+import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
+import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -80,7 +82,90 @@ function noindexSlugs() {
   } catch { /* partial checkout */ }
   return out;
 }
-const NOINDEX_SLUGS = noindexSlugs();
+
+// Task 6 (2026-09-01 SEO uniformity plan, task-6-brief.md, decided 2026-08-31):
+// 45 of the 240 when-to-go country x month pages have neither a public holiday
+// nor an event that month — nothing beyond the climate numbers every other
+// month for that country already carries. Those get noindex'd and dropped
+// from the sitemap here; WhenToGoPage.astro noindexes the same pages at
+// render time using the identical predicate (isIndexableMonthPage /
+// monthPageSignals, src/lib/thin-page-policy.mjs) so the sitemap and the page
+// can't disagree — this repo already shipped that exact bug once for event
+// posts (see the isRecurringEvent comment on noindexSlugs() above).
+//
+// whenToGoPages() (src/lib/when-to-go-paths.mjs) cannot be called from here:
+// it imports `astro:content`, a virtual module that only exists inside an
+// Astro build, not in this plain-Node config file. So this calls the pure
+// function it wraps, whenToGo() (src/lib/when-to-go.mjs), directly, feeding
+// it the same three JSON files and a hand-built posts DTO — the same
+// frontmatter-scanning convention noindexSlugs() above uses, since a config
+// file has no collection to read from either.
+//
+// Getting the SLUG list wrong here — pages/countries this predicate should
+// cover but silently skips — has less blast radius than getting it wrong in
+// the route: at worst a page that should be noindexed still gets submitted
+// (caught by the reversibility check below), whereas noindexSlugs() drifting
+// would submit and hide the same set of URLs inconsistently across the two
+// files. Kept as its own function, reversible to zero by deleting the one
+// line that folds its result into NOINDEX_SLUGS below.
+export function thinMonthPageSlugs() {
+  const out = new Set();
+  try {
+    const countryFacts = JSON.parse(readFileSync(join(__dirname, 'data/country-facts.json'), 'utf8'));
+    const eventsData = JSON.parse(readFileSync(join(__dirname, 'data/events.json'), 'utf8'));
+    const countriesData = JSON.parse(readFileSync(join(__dirname, 'data/countries.json'), 'utf8'));
+    const slugOf = new Map(countriesData.countries.map((/** @type {{name: string, slug: string}} */ c) => [c.name, c.slug]));
+
+    // Same frontmatter-scanning convention as noindexSlugs() above (a config
+    // file has no `astro:content` collection to read from), but the DTO shape
+    // whenToGo() needs: category/draft/country/eventStartDate/eventRecurring
+    // (when-to-go.mjs:81-94), not the event-post fields noindexSlugs() reads.
+    /** @type {{ data: { category: string, draft: boolean, country: string | undefined, eventStartDate: string | undefined, eventRecurring: boolean } }[]} */
+    const posts = [];
+    const dir = join(__dirname, 'src/content/posts');
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const raw = readFileSync(join(dir, f), 'utf8');
+      const fm = raw.slice(4, raw.indexOf(String.fromCharCode(10) + '---', 3));
+      /** @param {string} k */
+      const val = (k) => {
+        const line = fm.split(String.fromCharCode(10)).find((l) => l.trimStart().startsWith(k + ':'));
+        return line ? line.trimStart().slice(k.length + 1).trim().replace(/^["']|["']$/g, '') : '';
+      };
+      const stored = val('eventRecurring');
+      posts.push({
+        data: {
+          category: val('category'),
+          draft: val('draft') === 'true',
+          country: val('country') || undefined,
+          eventStartDate: val('eventStartDate') || undefined,
+          eventRecurring: stored === 'true',
+        },
+      });
+    }
+
+    for (const country of eligibleCountries(countryFacts)) {
+      const countrySlug = slugOf.get(country);
+      if (!countrySlug) continue;
+      for (const month of MONTHS) {
+        // whenToGo()'s `posts` default (`= []`) makes TS infer its parameter
+        // type as `never[]` for any caller with no JSDoc override — the same
+        // reason when-to-go-paths.mjs (its only other caller) has no
+        // `// @ts-check`. This file does, so the options object is cast
+        // rather than reshaping the shared pure function's inferred type for
+        // every caller.
+        const data = whenToGo(country, month, /** @type {any} */ ({ countryFacts, events: eventsData, posts }));
+        if (!data) continue;
+        if (!isIndexableMonthPage(monthPageSignals(data))) {
+          out.add(`/tools/when-to-go/${countrySlug}/${monthSlug(month)}`);
+        }
+      }
+    }
+  } catch { /* partial checkout */ }
+  return out;
+}
+
+const NOINDEX_SLUGS = new Set([...noindexSlugs(), ...thinMonthPageSlugs()]);
 
 const LASTMOD = contentLastmod();
 

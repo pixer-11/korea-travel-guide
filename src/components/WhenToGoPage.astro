@@ -10,6 +10,7 @@ import { localizeEvent } from '../i18n/events';
 import { holidayLabel } from '../i18n/holidays';
 import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { isIndexableMonthPage, monthPageSignals } from '../lib/thin-page-policy.mjs';
 
 // One country × month page. Every sentence is assembled from measured values —
 // climate normals, holiday dates, our own foot-traffic records — so these build
@@ -80,9 +81,19 @@ const jsonLd = {
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
 const ogPhoto = pickOgPhoto(data.topVenues);
 
+// Task 6 (2026-09-01 SEO uniformity plan, task-6-brief.md): a month with
+// neither a holiday nor an event is nothing more than the climate numbers
+// every other month for this country already shows — noindex it rather than
+// pull it from getStaticPaths, so the page keeps existing for internal links
+// and readers (pulling routes cost the site 40% of its traffic on 2026-07-26)
+// while it stops competing for crawl budget. astro.config.mjs excludes the
+// same slug from the sitemap using the identical predicate imported from
+// thin-page-policy.mjs, so the two can't drift apart.
+const monthNoindex = !isIndexableMonthPage(monthPageSignals(data));
+
 ---
 
-<BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true} suppressPopup={true}>
+<BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true} suppressPopup={true} noindex={monthNoindex}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtg">
