@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { isRecurringEvent } from './src/lib/eventRecurrence.mjs';
 import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/sitemap-split.mjs';
+import { hubPathsFor } from './src/lib/hub-lastmod.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -95,8 +96,6 @@ function hubLastmod() {
     const prev = map.get(path);
     if (!prev || date > prev) map.set(path, date);
   };
-  /** @param {unknown} s */
-  const slugify = (s) => String(s).toLowerCase().trim().replace(/\s+/g, '-');
   try {
     const dir = join(__dirname, 'src/content/posts');
     for (const f of readdirSync(dir)) {
@@ -112,26 +111,12 @@ function hubLastmod() {
       };
       const date = (val('updatedDate') || val('pubDate') || '').slice(0, 10);
       if (!date) continue;
-      const region = val('region');
-      const country = val('country') || 'South Korea';
-      const countrySlug = slugify(country);
-      if (region) {
-        const r = slugify(region);
-        bump(`/regions/${r}`, date);
-        for (const k of ['things-to-do', 'best-restaurants', 'cafes', 'hidden-gems']) {
-          bump(`/regions/${r}/${k}`, date);
-        }
-      }
-      bump(`/destinations/${countrySlug}`, date);
-      bump(`/essentials/${countrySlug}`, date);
-      bump(`/events/${countrySlug}`, date);
-      for (const m of ['january','february','march','april','may','june','july','august','september','october','november','december']) {
-        bump(`/tools/when-to-go/${countrySlug}/${m}`, date);
-      }
-      bump('/destinations', date);
-      bump('/regions', date);
-      bump('/tools/when-to-go', date);
-      bump('/', date);
+      for (const path of hubPathsFor({
+        region: val('region'),
+        country: val('country'),
+        category: val('category'),
+        eventStartDate: val('eventStartDate'),
+      })) bump(path, date);
     }
   } catch { /* a partial checkout just means no hub dates */ }
   return map;
