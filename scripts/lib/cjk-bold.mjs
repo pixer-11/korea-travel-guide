@@ -25,6 +25,18 @@ export const rendersBold = (line) => !micromark(line, OPTS).includes('**');
 const PAREN = /\*\*([^*\n]+?)([(（][^)）\n]*[)）])\*\*(?=[^\s*])/g;
 // **text、** → **text**、               — closer moved before trailing punctuation
 const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*])/g;
+// **「text」** → 「**text**」            — brackets pushed outside the emphasis.
+// The mirror image of the two above: punctuation immediately AFTER the opener,
+// with a word character in front of it, stops ** from OPENING at all. That is
+// how a glossed proper noun written 尾根道**「神々の小径」** ships with literal
+// asterisks even though nothing is wrong with its closer (found 2026-09-07, ja).
+const LEAD = /\*\*([「『（【〈《〔“‘]+)(?=[^\s*])/g;
+const TRAIL = /([」』）】〉》〕”’]+)\*\*/g;
+
+// Each rule with the replacement that lifts its punctuation out of the span.
+const MOVES = new Map([[PAREN, '**$1**$2'], [PUNCT, '**$1**$2'], [LEAD, '$1**'], [TRAIL, '**$1']]);
+// Tried in order; the first rewrite that actually renders wins.
+const SEQUENCES = [[PAREN], [PUNCT], [LEAD, TRAIL], [LEAD], [TRAIL], [PAREN, PUNCT], [LEAD, TRAIL, PAREN, PUNCT]];
 
 /**
  * Repair one line's unclosable bold. Returns the line unchanged when there is
@@ -33,13 +45,12 @@ const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*])
  */
 export function fixCjkBoldLine(line) {
   if (!line.includes('**') || rendersBold(line)) return line;
-  for (const re of [PAREN, PUNCT]) {
-    const candidate = line.replace(re, '**$1**$2');
+  for (const seq of SEQUENCES) {
+    let candidate = line;
+    for (const re of seq) candidate = candidate.replace(re, MOVES.get(re));
     if (candidate !== line && rendersBold(candidate)) return candidate;
   }
-  // Both rules in sequence, for a line carrying one of each.
-  const both = line.replace(PAREN, '**$1**$2').replace(PUNCT, '**$1**$2');
-  return both !== line && rendersBold(both) ? both : line;
+  return line;
 }
 
 /** Same, over a whole body. Line-by-line: bold never spans a line break. */

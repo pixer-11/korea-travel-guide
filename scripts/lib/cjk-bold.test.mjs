@@ -56,3 +56,23 @@ test('works over a whole body and leaves other lines alone', () => {
   assert.equal(out[3], '- **정상 볼드**: 이건 그대로.');
   assert.ok(rendersBold(out[2]), out[2]);
 });
+
+test('the opener punctuation blocks — a bracketed proper noun', () => {
+  // 2026-09-07: the mirror image of the closer bug. `**` cannot OPEN when a
+  // bracket follows it and a word character sits in front, so the whole line
+  // shows literal asterisks. Fix is the same shape: brackets outside the bold.
+  const line = 'ボメラーノとノチェッレを結ぶ尾根道**「神々の小径」**(センティエロ)がおすすめです。';
+  assert.equal(rendersBold(line), false, 'premise: this shape must not render');
+  const out = fixCjkBoldLine(line);
+  assert.ok(rendersBold(out), `still broken: ${out}`);
+  assert.ok(out.includes('**'), 'bold was dropped entirely');
+  assert.equal(out.replace(/\*/g, ''), line.replace(/\*/g, ''), 'no words may be lost');
+});
+
+test('leaves correct bracketed bold untouched', () => {
+  const fine = [
+    '「**神々の小径**」がおすすめ。',
+    '**「神々の小径」** で始まる行はそのまま。',
+  ];
+  for (const line of fine) assert.equal(fixCjkBoldLine(line), line);
+});
