@@ -13,6 +13,7 @@ import { fmtEventRange } from '../lib/eventDates.mjs';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { eventsHubDescription } from '../lib/eventsHubMeta.mjs';
 
 // Shared per-country events hub for /events/<country> (en) + /[lang]/events/<country>.
 interface Props { country: any; events: any[]; lang: Lang }
@@ -92,7 +93,7 @@ const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
 
 <BaseLayout image={ogPhoto}
   title={t('ev.upcomingIn').replace('{country}', countryLabel)}
-  description={t('ev.upcomingIn').replace('{country}', countryLabel)}
+  description={eventsHubDescription({ t, countryLabel, upcomingCount: upcoming.length })}
   jsonLd={jsonLd}
   localized={true}
 >
