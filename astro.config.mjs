@@ -9,6 +9,15 @@ import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/
 import { hubPathsFor } from './src/lib/hub-lastmod.mjs';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
 import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
+// Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
+// of 125 pages, e.g. /regions/abu%20dhabi/) to a proper slug; regionRedirects()
+// below emits the 301s from the old encoded paths. This was a hand-copied body
+// told by comment to stay identical to src/lib/slug.ts. Three such copies
+// existed and one had quietly drifted (src/lib/hub-lastmod.mjs), which sent
+// three regions' sitemap lastmod to a URL no route builds. One definition now:
+// src/lib/slug.ts (the routes) and src/lib/hub-lastmod.mjs (the sitemap's hub
+// dates) call this same function.
+import { slugify as regionSlug } from './scripts/lib/slugify.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -208,20 +217,6 @@ function hubLastmod() {
 }
 const HUB_LASTMOD = hubLastmod();
 
-// Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
-// of 125 pages, e.g. /regions/abu%20dhabi/) to a proper slug. Emit 301s from the
-// old encoded paths so any already-indexed %20 URL passes its equity to the new
-// clean path instead of 404ing. Keep this slugify identical to src/lib/slug.ts.
-/** @param {string} input */
-function regionSlug(input) {
-  return String(input)
-    .normalize('NFKD')
-    .replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .slice(0, 80);
-}
 // Region NAME normalizations: an old region spelling 301s to the canonical city
 // so an indexed URL keeps its equity.
 //
