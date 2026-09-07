@@ -6,7 +6,9 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { isRecurringEvent } from './src/lib/eventRecurrence.mjs';
 import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/sitemap-split.mjs';
-import { hubPathsFor } from './src/lib/hub-lastmod.mjs';
+import { hubPathsFor, dayTripHubDates } from './src/lib/hub-lastmod.mjs';
+import { computeDayTrips } from './src/lib/dayTrips.mjs';
+import { parseSourceFile } from './scripts/lib/src-hash.mjs';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
 import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
 // Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
@@ -51,6 +53,10 @@ function contentLastmod() {
   // (posts: params.slug = post.id; essentials: params.country = entry.id).
   grab(join(__dirname, 'src/content/posts'), (/** @type {string} */ slug) => `/posts/${slug}`);
   grab(join(__dirname, 'src/content/essentials'), (/** @type {string} */ slug) => `/essentials/${slug}`);
+  // The six topic hubs share that namespace — /essentials/visa, /essentials/money
+  // — but live in a different collection, so they were the only /essentials/
+  // URLs the sitemap submitted with no date. They now carry lastReviewed too.
+  grab(join(__dirname, 'src/content/essentials-topics'), (/** @type {string} */ slug) => `/essentials/${slug}`);
   return map;
 }
 
@@ -213,6 +219,46 @@ function hubLastmod() {
       })) bump(path, date);
     }
   } catch { /* a partial checkout just means no hub dates */ }
+
+  // Day-trip hubs need the geography, not the post. /day-trips/kyoto/ renders
+  // guides from Nara and Osaka and none of Kyoto's own, so no per-post rule can
+  // reach it — all 27 of them were in the sitemap dateless in five languages.
+  // This pass parses the frontmatter properly (the line reader above cannot see
+  // place.lat/lng, which is nested) and hands the real graph the same shape the
+  // route does, so the hubs and their post slices are identical to the built
+  // pages. pubDate is coerced to a Date because the collection schema does the
+  // same, and computeDayTrips orders neighbour cards by String(pubDate) —
+  // feeding raw strings would pick a different six than the page shows.
+  try {
+    const dir = join(__dirname, 'src/content/posts');
+    const dto = [];
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const raw = readFileSync(join(dir, f), 'utf8');
+      const parsed = parseSourceFile(raw);
+      if (!parsed || parsed.fm.draft === true) continue;
+      const fm = parsed.fm;
+      // js-yaml gives a string for a quoted date and a Date for a bare one, and
+      // the corpus has both. String(Date) is "Sun Jul 26 2026…", not a date.
+      const stamped = fm.updatedDate ?? fm.pubDate;
+      const lastmod = stamped instanceof Date
+        ? stamped.toISOString().slice(0, 10)
+        : String(stamped ?? '').slice(0, 10);
+      dto.push({
+        id: f.replace(/\.md$/, ''),
+        data: {
+          region: fm.region,
+          country: fm.country,
+          category: fm.category,
+          place: fm.place,
+          pubDate: fm.pubDate ? new Date(fm.pubDate) : undefined,
+          lastmod: /^\d{4}-\d{2}-\d{2}$/.test(lastmod) ? lastmod : undefined,
+        },
+      });
+    }
+    for (const [path, date] of dayTripHubDates(dto, computeDayTrips)) bump(path, date);
+  } catch { /* a partial checkout just means no day-trip dates */ }
+
   return map;
 }
 const HUB_LASTMOD = hubLastmod();

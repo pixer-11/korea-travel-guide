@@ -1,5 +1,6 @@
 ---
 icon: metro
+lastReviewed: 2026-07-24
 metaTitle: "Getting Around: Transport Guide by Country"
 metaDescription: "Transit cards, subways, intercity trains, taxis, ride apps, and airport transfers — the practical basics, plus a guide for each destination."
 h1: "Getting around"

@@ -289,7 +289,15 @@ const topicShape = {
 };
 const essentialsTopics = defineCollection({
   loader: glob({ pattern: '*.md', base: './src/content/essentials-topics' }),
-  schema: z.object({ icon: z.string(), ...topicShape }),
+  // lastReviewed is what gives these six hubs a sitemap <lastmod>. Nothing dated
+  // lives beneath them — the country list under the prose shows names only — so
+  // until 2026-09-07 they were the only /essentials/ URLs submitted with no
+  // freshness date at all. Required, not optional: a seventh topic added without
+  // one would silently rejoin that group. Deliberately NOT in topicShape, which
+  // the translated copies share — a translation carries prose, not authority,
+  // and would have no date to put here. It is also outside translate-topics.mjs's
+  // HASH_FIELDS, so stamping it re-translated nothing.
+  schema: z.object({ icon: z.string(), lastReviewed: z.coerce.date(), ...topicShape }),
 });
 const essentialsTopicsI18n = defineCollection({
   loader: glob({

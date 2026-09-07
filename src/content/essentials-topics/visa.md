@@ -1,5 +1,6 @@
 ---
 icon: passport-control
+lastReviewed: 2026-07-24
 metaTitle: "Visa & Entry Requirements by Country"
 metaDescription: "How visas, ETAs, and digital arrival cards work — plus per-country entry guides and the official sources to confirm your case."
 h1: "Visa & entry requirements"

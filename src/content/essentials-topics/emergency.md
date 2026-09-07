@@ -1,5 +1,6 @@
 ---
 icon: police-car-light
+lastReviewed: 2026-07-24
 metaTitle: "Emergency Numbers & Safety by Country"
 metaDescription: "How emergency numbers work abroad — 112, 911, and local tourist hotlines — plus medical, insurance, and safety basics, with the exact numbers for each destination."
 h1: "Emergency & safety"

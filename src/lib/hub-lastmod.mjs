@@ -14,14 +14,29 @@
 // roundup, 20 sitemap URLs across five languages, carried no lastmod at all.
 // Import the one definition instead of keeping a fourth copy honest by comment;
 // src/lib/slug.ts and astro.config.mjs delegate to the same module.
+import { readFileSync } from 'node:fs';
 import { slugify } from '../../scripts/lib/slugify.mjs';
 
 const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december'];
 
+// Country → continent, read from the same file the continent route reads. A
+// continent hub is a grid of its countries WITH THEIR POST COUNTS, so publishing
+// one guide genuinely changes it — but nothing emitted that path, and the three
+// /continents/ URLs sat in the sitemap dateless in all five languages.
+// readFileSync, not a JSON import: this module is loaded both by plain Node (the
+// tests) and by Vite (astro.config), and it never reaches a browser bundle.
+/** @type {Map<string, string>} */
+const CONTINENT_OF = new Map();
+try {
+  const raw = JSON.parse(readFileSync(new URL('../../data/countries.json', import.meta.url), 'utf8'));
+  for (const c of raw.countries) if (c.continent) CONTINENT_OF.set(c.name, c.continent);
+} catch { /* a partial checkout just means no continent hubs */ }
+
 /** @param {{region?: string, country?: string, category?: string, eventStartDate?: string}} post */
 export function hubPathsFor(post) {
   const out = [];
-  const countrySlug = slugify(post.country || 'South Korea');
+  const country = post.country || 'South Korea';
+  const countrySlug = slugify(country);
 
   if (post.region) {
     const r = slugify(post.region);
@@ -29,6 +44,9 @@ export function hubPathsFor(post) {
     for (const k of ['things-to-do', 'best-restaurants', 'cafes', 'hidden-gems']) out.push(`/regions/${r}/${k}`);
   }
   out.push(`/destinations/${countrySlug}`, `/essentials/${countrySlug}`);
+
+  const continent = CONTINENT_OF.get(country);
+  if (continent) out.push(`/continents/${slugify(continent)}`);
 
   // The events hub lists event posts. Nothing else changes it.
   if (post.category === 'event') {
@@ -41,5 +59,39 @@ export function hubPathsFor(post) {
   }
 
   out.push('/destinations', '/regions', '/tools/when-to-go', '/');
+  return out;
+}
+
+/**
+ * Day-trip hubs can't come out of hubPathsFor(), because which hubs a post
+ * freshens is a question about GEOGRAPHY, not about the post: /day-trips/kyoto/
+ * lists guides from Nara and Osaka, never Kyoto's own. So it takes the whole
+ * corpus and returns the hub graph's dates directly.
+ *
+ * Only the cards the page actually renders count — six per neighbour, six
+ * neighbours, exactly the slice computeDayTrips() hands the route. A seventh
+ * guide in Nara does not change /day-trips/kyoto/, and saying it did is the
+ * same lie this module exists to stop telling.
+ *
+ * @param {{id: string, data: {lastmod?: string}}[]} posts DTOs carrying whatever
+ *   computeDayTrips needs plus `data.lastmod` — the post's own YYYY-MM-DD.
+ * @param {(posts: any[]) => {slug: string, neighbors: {posts: {data: {lastmod?: string}}[]}[]}[]} computeHubs
+ *   src/lib/dayTrips.mjs's computeDayTrips, injected so this module stays free
+ *   of the geo maths (and so a test can hand it a two-city fixture).
+ * @returns {Map<string, string>} path → newest date among the cards it shows
+ */
+export function dayTripHubDates(posts, computeHubs) {
+  /** @type {Map<string, string>} */
+  const out = new Map();
+  for (const hub of computeHubs(posts)) {
+    let newest = '';
+    for (const n of hub.neighbors) {
+      for (const p of n.posts) {
+        const d = p.data.lastmod;
+        if (d && d > newest) newest = d;
+      }
+    }
+    if (newest) out.set(`/day-trips/${hub.slug}`, newest);
+  }
   return out;
 }

@@ -1,5 +1,6 @@
 ---
 icon: luggage
+lastReviewed: 2026-09-05
 metaTitle: "Luggage Storage: Lockers, Bag Drops & Where to Leave Bags"
 metaDescription: "Station coin lockers, app-based bag drops, airport counters and hotel storage — how to leave your bags for a few hours or a few days, with a guide for each destination."
 h1: "Luggage storage"

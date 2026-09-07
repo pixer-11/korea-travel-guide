@@ -1,5 +1,6 @@
 ---
 icon: credit-card
+lastReviewed: 2026-07-24
 metaTitle: "Money & Costs: Cards, Cash & Tipping by Country"
 metaDescription: "Local currency, cards vs cash, ATMs and exchange, tipping norms, and tourist tax refunds — the money basics, plus a guide for each destination."
 h1: "Money & costs"

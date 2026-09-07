@@ -1,5 +1,6 @@
 ---
 icon: cherry-blossom
+lastReviewed: 2026-07-24
 metaTitle: "Best Time to Visit: When to Go, by Country"
 metaDescription: "How seasons, weather, crowds, and festivals shape the best time to travel — plus the ideal months for each destination we cover."
 h1: "Best time to visit"

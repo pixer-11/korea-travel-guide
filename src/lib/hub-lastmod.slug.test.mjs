@@ -32,11 +32,16 @@ test('every hub path the real corpus produces names a slug some route can build'
   const postsDir = new URL('../content/posts/', import.meta.url);
   const countries = JSON.parse(readFileSync(new URL('../../data/countries.json', import.meta.url), 'utf8')).countries;
   const countrySlugs = new Set(countries.map((c) => c.slug));
-  const essentialsIds = new Set(
-    readdirSync(new URL('../content/essentials/', import.meta.url))
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.slice(0, -3)),
+  // What the continent route builds: one page per continent named in countries.json.
+  const continentSlugs = new Set(
+    countries.map((c) => c.continent || 'Other').map((n) => slugifyRegion(n)),
   );
+  // /essentials/<x> is served by TWO collections: a country guide, or one of the
+  // six cross-country topic hubs. Both are real URLs and both need a date.
+  const essentialsIds = new Set([
+    ...readdirSync(new URL('../content/essentials/', import.meta.url)),
+    ...readdirSync(new URL('../content/essentials-topics/', import.meta.url)),
+  ].filter((f) => f.endsWith('.md')).map((f) => f.slice(0, -3)));
   const MONTH_SLUGS = new Set([
     'january', 'february', 'march', 'april', 'may', 'june',
     'july', 'august', 'september', 'october', 'november', 'december',
@@ -88,6 +93,8 @@ test('every hub path the real corpus produces names a slug some route can build'
         ok = seg.length === 2 && countrySlugs.has(seg[1]);
       } else if (seg[0] === 'essentials') {
         ok = seg.length === 2 && essentialsIds.has(seg[1]);
+      } else if (seg[0] === 'continents') {
+        ok = seg.length === 2 && continentSlugs.has(seg[1]);
       } else if (seg[0] === 'tools' && seg[1] === 'when-to-go') {
         ok = seg.length === 4 && countrySlugs.has(seg[2]) && MONTH_SLUGS.has(seg[3]);
       }

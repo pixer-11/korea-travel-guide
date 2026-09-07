@@ -2,13 +2,16 @@
 import { getCollection } from 'astro:content';
 import ContinentHub from '../../../components/ContinentHub.astro';
 import countriesData from '../../../../data/countries.json';
+// slugifyRegion, not an ad-hoc lowercase-and-dash: the sitemap keys these hubs
+// by the same function, and a private copy is exactly how three region hubs
+// ended up dated at a URL no route builds (2026-09-07).
+import { slugifyRegion } from '../../../lib/slug';
 import type { Lang } from '../../../i18n/utils';
 
 export async function getStaticPaths() {
   const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
-  const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
   const byContinent: Record<string, any[]> = {};
   for (const c of countriesData.countries) {
@@ -20,7 +23,7 @@ export async function getStaticPaths() {
   }));
   return LANGS.flatMap((lang) =>
     entries.map(({ name, countries }) => ({
-      params: { lang, continent: slugify(name) },
+      params: { lang, continent: slugifyRegion(name) },
       props: { continentName: name, countries, lang },
     }))
   );
