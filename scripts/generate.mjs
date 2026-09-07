@@ -1373,10 +1373,6 @@ function assemble(target, place, title, heroImage, gallery, content) {
     draft: false,
   };
 
-  const src = place
-    ? 'Facts are pulled from live Google Places data; images are licensed or public domain.'
-    : 'Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting.';
-  const disclosure = `> **How this guide was made:** Editor-reviewed, AI-assisted. ${src} See our [editorial policy](/about).\n\n`;
   // A bare ~ is markdown syntax, and the writer reaches for it as "about":
   // "~2 hours by direct bus" renders with a strikethrough through the number,
   // so the one fact in the line is the one thing the reader cannot read
@@ -1386,7 +1382,9 @@ function assemble(target, place, title, heroImage, gallery, content) {
   // source was ever wrong. Escape it here, where every post is written, rather
   // than asking the model to remember.
   const escapeTildes = (s) => String(s).replace(/(^|[^\\])~/g, '$1\\~');
-  const markdown = `---\n${toYaml(fm)}---\n\n${disclosure}${escapeTildes(body)}\n`;
+  // The disclosure now lives ONLY in PostArticle.astro's localized <details>.
+  // Emitting it here too put it on the page twice (08-31 audit).
+  const markdown = `---\n${toYaml(fm)}---\n\n${escapeTildes(body)}\n`;
   return { slug, markdown };
 }
 

@@ -60,13 +60,6 @@ function factsFor(data) {
   };
 }
 
-function disclosureFor(hasPlace) {
-  const src = hasPlace
-    ? 'Facts such as ratings and location come from live Google Places data; images are licensed or public domain.'
-    : 'Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting.';
-  return `> **How this guide was made:** Editor-reviewed, AI-assisted. ${src} See our [editorial policy](/about).`;
-}
-
 async function main() {
   const files = (await readdir(POSTS_DIR))
     .filter((f) => f.endsWith('.md'))
