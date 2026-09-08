@@ -675,7 +675,11 @@ jobs:
         continue-on-error: true
         run: |
           set -o pipefail
-          node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30 \n            || echo "사진 신원 확인" >> /tmp/soft-fail.txt
+          # One line on purpose. The first version carried a literal backslash-n
+          # here (a heredoc ate the line break), so `tail` looked for a file named
+          # "n", the pipeline failed, and the owner got "사진 신원 확인 실패" for an
+          # audit that had run fine (2026-09-08, the night it was wired).
+          node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30 || echo "사진 신원 확인" >> /tmp/soft-fail.txt
 
       # --strip edits post files on the RUNNER — and the day's content
       # commit+push sits ABOVE this step, so for six days the strip removed

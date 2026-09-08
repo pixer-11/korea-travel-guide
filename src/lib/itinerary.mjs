@@ -66,7 +66,13 @@ export function closedDaysOf(openingHours) {
 // duration, but only within their own CLAUSE — Cheonggyecheon's real "…which takes 30–45
 // minutes at an easy pace" sits in the same sentence as "Most visitors don't walk the
 // whole 11 km", and sentence-level guarding threw the good number away with the bad one.
-const NUM = '(?:\\d+(?:\\.\\d+)?|one|two|three|four|five|six|seven|eight|nine|ten|twelve)';
+// "an"/"a" count as one: "Budget an hour" is the most common way a guide states
+// its stay, and without this it was skipped, so the parser fell through to a
+// bare minute figure further down — Busan Tower came out at 30 from "walk about
+// 10 minutes uphill" once the comma split it from its station context
+// (2026-09-09, DWELL-STALE on busan-3-days). 94 posts say "an hour"; 12
+// itinerary stops moved, every one to the hour the post itself recommends.
+const NUM = '(?:\\d+(?:\\.\\d+)?|an?|one|two|three|four|five|six|seven|eight|nine|ten|twelve|fifteen|twenty|thirty|forty-five|forty|sixty|ninety)';
 const SEP = '(?:\\s*(?:-|–|—|to|or)\\s*)';
 const HEDGE = '(?:(?:about|around|roughly|at least|up to)\\s+)?';
 // "plan on / allow / budget / spend" is somebody telling you how long to stay.
@@ -75,10 +81,17 @@ const HEDGE = '(?:(?:about|around|roughly|at least|up to)\\s+)?';
 // only in a clause that is not describing the journey.
 const STRONG_VERB = '(?:plan(?:\\s+on)?|allow|budget|spend|set\\s+aside|give\\s+it|reserve|expect\\s+to\\s+spend)';
 const WEAK_VERB = '(?:takes?)';
-const WORD_NUM = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9, ten: 10, twelve: 12 };
+const WORD_NUM = { a: 1, an: 1, fifteen: 15, twenty: 20, thirty: 30, 'forty-five': 45, forty: 40, sixty: 60, ninety: 90, one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9, ten: 10, twelve: 12 };
 const numOf = (s) => (s == null ? null : (Number.isFinite(Number(s)) ? Number(s) : WORD_NUM[String(s).toLowerCase()] ?? null));
 
 const TAIL = '\\s+' + HEDGE + '(' + NUM + ')' + SEP + '?(' + NUM + ')?\\s*';
+const STRONG_VERB_RE = new RegExp(STRONG_VERB, 'i');
+// "an hour and a half" → [1]='half'; "an hour or two (hours)" / "an hour to
+// ninety minutes" → [2]=number, [3]=unit if written. The unit between the
+// numbers is what the N–M shape in TAIL cannot express.
+const AN_HOUR_PLUS = new RegExp(
+  '\\ban\\s+hour\\s+(?:and\\s+a\\s+(half|quarter)|(?:or|to)\\s+' + HEDGE + '(' + NUM + ')\\s*(hours?|minutes?|min)?)\\b', 'i',
+);
 const TIER1_HOURS = new RegExp(STRONG_VERB + TAIL + 'hours?', 'i');
 const TIER1_MINS = new RegExp(STRONG_VERB + TAIL + 'min', 'i');
 const TIER1B_HOURS = new RegExp(WEAK_VERB + TAIL + 'hours?', 'i');
@@ -139,6 +152,19 @@ export function dwellMinutes(post) {
 
   // Tier 1 — an explicit "how long to stay" recommendation. First one in the post wins.
   for (const c of clauses) {
+    // "an hour or two", "an hour to ninety minutes", "an hour and a half": the
+    // unit sits BETWEEN the two numbers, which the N–M shape below cannot see.
+    // 89 posts phrase it this way. Before 2026-09-09 the parser took the second
+    // number alone ("or two" → 120); with "an" counted as one it took the first
+    // alone (60). Both are wrong; the guide means the middle.
+    if (STRONG_VERB_RE.test(c)) {
+      const p = AN_HOUR_PLUS.exec(c);
+      if (p) {
+        if (p[1]) return clamp(p[1] === 'half' ? 90 : 75);            // "and a half" / "and a quarter"
+        const n = numOf(p[2]);
+        if (n != null) return clamp(avg(60, /min/i.test(p[3] || 'hour') ? n : n * 60));
+      }
+    }
     const h = TIER1_HOURS.exec(c);
     if (h && numOf(h[1]) != null) return clamp(avg(numOf(h[1]), numOf(h[2])) * 60);
     const m = TIER1_MINS.exec(c);

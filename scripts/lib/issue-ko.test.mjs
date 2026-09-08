@@ -62,3 +62,25 @@ test('a validator closing tally is chrome, not a second finding', () => {
   assert.match(digest, /^문제 1건/);
   assert.ok(!digest.includes('대상 미상'), digest);
 });
+
+// 2026-09-08: the tense audit prints two parenthesised asides after its count
+// line. Neither names a file, neither is a finding, and both are English — so
+// they reached the owner as two "점검 항목 — 실행 로그 확인 필요" lines above the
+// two real ones. Context in parentheses is chrome, exactly like a tally.
+test('a parenthesised aside is chrome, not a finding', () => {
+  const stdout = [
+    '64 finished, published event(s); 2 translation(s) still read as upcoming',
+    '(13 finished event(s) are quarantined drafts — not published, not counted)',
+    '(4 more say "before the show", which is not a tense error — not counted)',
+    'ENDED-EVENT-I18N-TENSE: ko/barcelona-the-weeknd — ended 2026-09-01, still says "진행됩니다"',
+    'ENDED-EVENT-I18N-TENSE: ko/bhubaneswar-meet — ended 2026-08-22, still says "진행됩니다"',
+  ].join('\n');
+  const digest = koDigest(stdout);
+  assert.match(digest, /^문제 2건/, digest);
+  assert.ok(!digest.includes('실행 로그 확인 필요') && !digest.includes('대상 미상'), digest);
+});
+
+test('a parenthesised line that names a file is still a finding', () => {
+  const digest = koDigest('(see broken-post.md — the hero is missing)');
+  assert.match(digest, /문제 1건/, digest);
+});

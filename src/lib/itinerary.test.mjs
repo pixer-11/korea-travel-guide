@@ -629,3 +629,28 @@ test('dwellMinutes: a combined-outing duration is not this venue dwell', () => {
   assert.equal(d('The museum a short taxi ride away is close enough to combine into a half-day.'), 60);
   assert.equal(d('Pair it with a walk along the nearby park for a full half-day itinerary.', 'trendy'), 90);
 });
+
+// 2026-09-09: "Budget an hour" is how most guides state their stay, and "an"
+// was not a number the parser knew. It fell through to a bare minute figure —
+// Busan Tower came out at 30 from "walk about 10 minutes uphill" after the comma
+// split it from "Nampo Station", so the ACCESS guard never saw the station.
+test('"an hour" / "a half" count as one hour', () => {
+  const post = { data: { category: 'attraction' }, body: 'Budget an hour, including the walk up through the park.' };
+  assert.equal(dwellMinutes(post), 60);
+});
+
+test('"an hour or two" averages to ninety', () => {
+  const post = { data: { category: 'attraction' }, body: 'Allow an hour or two for the deck and the park.' };
+  assert.equal(dwellMinutes(post), 90);
+});
+
+test('the explicit hour outranks a walking time that lost its station context', () => {
+  const post = { data: { category: 'attraction' }, body:
+    'Take Metro Line 1 to Nampo Station, use Exit 1 or 7, then walk about 10 minutes uphill through the park. Budget an hour, including the walk.' };
+  assert.equal(dwellMinutes(post), 60);
+});
+
+test('"an hour to ninety minutes" lands in the middle', () => {
+  const post = { data: { category: 'attraction' }, body: 'Budget an hour to ninety minutes; rooftop photographers move slowly.' };
+  assert.equal(dwellMinutes(post), 75);
+});

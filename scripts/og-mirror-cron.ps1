@@ -11,9 +11,16 @@ Set-Location 'C:\Users\user\wa-main'
 # stash/pop below would otherwise carry any damage into the commit.
 node scripts\heal-worktree.mjs 2>&1 | Out-File -Encoding utf8 "$env:TEMP\og-mirror-last.log"
 
+# Pop ONLY the stash this run created. With a clean tree `git stash` makes
+# nothing, and the old unconditional pop then re-applied whatever stash was
+# already sitting there - on 2026-09-09 that was a session's abandoned WIP from
+# the afternoon, which landed on top of newer commits as three UU conflicts and
+# blocked the commit below. (ASCII only in this file.)
+$before = (git stash list | Measure-Object -Line).Lines
 git stash --quiet
+$after = (git stash list | Measure-Object -Line).Lines
 git pull --rebase origin main 2>&1 | Out-Null
-git stash pop --quiet 2>&1 | Out-Null
+if ($after -gt $before) { git stash pop --quiet 2>&1 | Out-Null }
 
 node scripts\mirror-og-images.mjs 2>&1 | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
 # Region tiles without a photo: resumable, skips regions already covered.
