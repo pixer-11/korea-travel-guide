@@ -29,7 +29,7 @@ faq:
   - q: How much time should I budget?
     a: Two to three hours covers eating a few things, browsing craft and produce stalls, and a quick detour to the Gum Wall in Post Alley.
   - q: When is the market least crowded?
-    a: Weekday mornings between roughly 8:30 and 10am, before tour groups and cruise passengers arrive; weekends are the busiest, especially Saturday.
+    a: Weekday mornings between roughly 8:30 and 10am, before tour groups and cruise passengers arrive; weekends draw the biggest crowds, especially Saturday.
   - q: Is the market only for tourists, or do locals actually shop there?
     a: It's a working farmers' and fishmongers' market dating to 1907, and locals still buy produce, flowers, and fish there daily, especially early in the morning.
 aiGenerated: true
@@ -58,7 +58,7 @@ For produce, the farm stalls in the main arcade (especially toward the north end
 
 ## When to go and how long to stay
 
-Weekday mornings, roughly 8:30–10am, are the calmest window before cruise-ship and tour groups arrive by midday. Weekends are the busiest, especially Saturday. Plan on two to three hours to eat a few small things, browse the craft stalls and bookshops, and step outside to see street performers on the busker spots (officially sanctioned and marked with painted circles on the pavement). Summer (June–September) has the fullest produce selection and longest daylight for market-front views, but also the thickest crowds; late fall and winter are quieter with a good chowder-weather payoff.
+Weekday mornings, roughly 8:30–10am, come before cruise-ship and tour groups arrive by midday. Weekends draw the biggest crowds, especially Saturday. Plan on two to three hours to eat a few small things, browse the craft stalls and bookshops, and step outside to see street performers on the busker spots (officially sanctioned and marked with painted circles on the pavement). Summer (June–September) has the fullest produce selection and longest daylight for market-front views, but also the thickest crowds; late fall and winter are quieter with a good chowder-weather payoff.
 
 ## Nearby and practical tips
 

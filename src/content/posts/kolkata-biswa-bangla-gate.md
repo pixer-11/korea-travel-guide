@@ -66,7 +66,7 @@ faq:
       nearest station before you travel.
   - q: What's the best time to visit to avoid crowds?
     a: >-
-      Weekday afternoons (12–4pm) are quietest overall. If you want the lit-up
+      Weekday afternoons (12–4pm) come before the evening crowd the lit-up gate draws. If you want the lit-up
       night look with fewer crowds, arrive right at the 7pm reopening on a
       weekday rather than the weekend.
   - q: Is it worth eating at the restaurant inside?

@@ -33,6 +33,12 @@ place:
     - 'Friday: Open 24 hours'
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
+  busyness:
+    updated: '2026-09-08'
+    weekdayBusy: [17, 18, 19, 20, 21, 22]
+    weekendQuiet: [7]
+    weekendBusy: [9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22]
+    venueId: 'ven_775961747573583937362d5251444246634a31437437394a496843'
 tags:
   - sai kung
   - hidden gem

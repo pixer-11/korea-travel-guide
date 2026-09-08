@@ -39,7 +39,7 @@ faq:
   - q: How do I get to Cochon Butcher?
     a: It's at 930 Tchoupitoulas St, Ste B, in the Warehouse District — look for the alley entrance rather than a street-facing door. It's walkable from the Convention Center and about 20 minutes on foot from the French Quarter.
   - q: What's the best time to visit to avoid a line?
-    a: Aim for 2pm to 4pm on a weekday. The noon-to-1:30pm lunch rush, especially near the Convention Center, is when it's busiest.
+    a: Aim for 2pm to 4pm on a weekday. The noon-to-1:30pm lunch rush, especially near the Convention Center, is when the line builds.
   - q: Do I need a reservation?
     a: No — it's counter service. Order at the register, take a number, and find a seat at the communal tables or bar.
   - q: What should I order?
@@ -85,7 +85,7 @@ At peak lunch, noon to 1:30pm on weekdays, every seat fills and the line snakes 
 
 Cochon Butcher is open daily with no midday closure, which gives you flexibility. Lunch rush hits hard between noon and 1:30pm, especially on weekdays when convention center crowds spill over.
 
-Dinner tends to be calmer, and a mid-afternoon visit, say 2pm to 4pm, is usually your quietest window for grabbing a table without waiting. Weekends bring a steady crowd all day, but rarely the same crunch as a Tuesday lunch hour.
+Dinner tends to be calmer, and a mid-afternoon visit, say 2pm to 4pm, usually means a table without waiting. Weekends bring a steady crowd all day, but rarely the same crunch as a Tuesday lunch hour.
 
 ## How to visit like a local
 

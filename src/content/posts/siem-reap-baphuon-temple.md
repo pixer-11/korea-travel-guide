@@ -85,7 +85,7 @@ Give yourself:
 
 ## When to go
 
-Baphuon gets a fraction of the foot traffic that piles up at Angkor Wat's sunrise viewpoint or the Bayon's carved faces. Even so, tour buses cluster through Angkor Thom mid-morning, so the terrace is calmest either right after opening or in the later afternoon light, closer to 4-5 PM.
+Baphuon gets a fraction of the foot traffic that piles up at Angkor Wat's sunrise viewpoint or the Bayon's carved faces. Even so, tour buses cluster through Angkor Thom mid-morning, so the terrace clears either right after opening or in the later afternoon light, closer to 4-5 PM.
 
 The dry season, roughly November through February, brings cooler temperatures that make the stair climb far more comfortable. April and May are brutally hot; the wet season (June-October) cools things down but brings sudden downpours that turn the stone steps slick.
 

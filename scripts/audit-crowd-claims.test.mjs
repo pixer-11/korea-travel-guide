@@ -81,3 +81,22 @@ test('초안(draft: true)은 검사하지 않는다', () => {
   });
   assert.equal(r.code, 0, r.out);
 });
+
+// 2026-09-08: 한 문장에 "항구가 가장 잔잔하다"(혼잡 아님)와 관공서 영업시간이
+// 나란히 있었다. 앞 40자만 보던 hours 예외는 두 절을 한 주장으로 읽었고,
+// 실측이 필요 없는 정상 글이 지적됐다(kas-kas).
+test('괄호 안이 영업시간이면 옆 절의 최상급과 묶어 잡지 않는다', () => {
+  const r = runOn({
+    'f.md': post('draft: false\n',
+      'Visit on weekday mornings when the harbor is calmest and the municipal office listed here (9am–12:30pm, 1–5pm, closed weekends) is actually open.'),
+  });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('괄호 안이 혼잡 이야기면 예외로 봐주지 않는다', () => {
+  const r = runOn({
+    'g.md': post('draft: false\n',
+      'The courtyard is calmest in the window listed here (9am–11am, the quietest stretch of the day).'),
+  });
+  assert.equal(r.code, 1, r.out);
+});

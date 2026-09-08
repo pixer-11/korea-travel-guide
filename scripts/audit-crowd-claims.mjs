@@ -69,8 +69,19 @@ const clockWindowClaim = (text) => {
     let m;
     while ((m = re.exec(text))) {
       const rangeAt = m[0].search(new RegExp(CLOCK_RANGE, 'i'));
-      const before = text.slice(Math.max(0, m.index + Math.max(0, rangeAt) - 40), m.index + Math.max(0, rangeAt));
-      if (!HOURS_CONTEXT.test(before)) return m[0];
+      const at = m.index + Math.max(0, rangeAt);
+      const before = text.slice(Math.max(0, at - 40), at);
+      if (HOURS_CONTEXT.test(before)) continue;
+      // 괄호 안에 시계 범위가 있고 그 괄호가 영업시간을 말하면 혼잡 창이 아니다.
+      // kas-kas: "the harbor is calmest and the municipal office listed here
+      // (9am–12:30pm, 1–5pm, closed weekends) is actually open" — 최상급은 항구,
+      // 시각은 관공서. 앞 40자만 보던 검사는 두 절을 한 주장으로 읽었다(2026-09-08).
+      const open = text.lastIndexOf('(', at);
+      const close = text.indexOf(')', at);
+      if (open !== -1 && close !== -1 && close > at
+        && /\b(?:closed|open|opens|opening|hours?|daily|weekends?|weekdays?)\b/i.test(text.slice(open, close + 1))
+        && !/\b(?:quiet|calm|busy|crowded|packed)\w*/i.test(text.slice(open, close + 1))) continue;
+      return m[0];
     }
   }
   return null;

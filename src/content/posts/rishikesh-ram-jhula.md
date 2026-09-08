@@ -43,7 +43,7 @@ faq:
   - q: Is there an entry fee?
     a: No, crossing Ram Jhula is free and it's open 24 hours every day.
   - q: When is the best time to visit to avoid crowds?
-    a: Early morning between 6 and 7am is quietest, along with after 8pm once Ganga Aarti crowds have dispersed. Midday and just before the evening Aarti are the busiest, most congested times.
+    a: Early morning between 6 and 7am is a calm stretch, along with after 8pm once Ganga Aarti crowds have dispersed. Midday and the hour before the evening Aarti are the most congested.
   - q: How long should I spend there?
     a: Crossing takes 10–15 minutes, but plan 45 minutes to an hour if you want to explore the ghats, shops, and cafes on either end.
   - q: What's nearby worth combining with a visit?

@@ -62,7 +62,7 @@ On the piazza's south side, the **Doge's Palace** (Palazzo Ducale) was the seat 
 
 ## When to go
 
-Arrive before 9am or after 7pm to see the square with breathing room; midday between roughly 10am and 4pm is consistently the most crowded window, especially when cruise ships are in port. Acqua alta (seasonal high tide flooding) is most common between autumn and early spring, particularly November and December, raised walkways go up when it happens, so it's rarely a dealbreaker, just check forecasts.
+Arrive before 9am or after 7pm to see the square with breathing room; midday between roughly 10am and 4pm fills with day-trippers, especially when cruise ships are in port. Acqua alta (seasonal high tide flooding) is most common between autumn and early spring, particularly November and December, raised walkways go up when it happens, so it's rarely a dealbreaker, just check forecasts.
 
 Late spring (May) and early autumn (late September–October) bring milder weather and thinner crowds than peak summer. Winter mornings, especially December through February, can be near-empty and beautifully atmospheric with mist over the lagoon.
 

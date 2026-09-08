@@ -70,7 +70,7 @@ The bar program is the headline act, with signature cocktails often built to be 
 
 ## When to go
 
-Early evening, roughly 6 to 7:30pm, tends to offer the calmest atmosphere, before the after-dinner and late-night bar crowd arrives. Weeknights are noticeably quieter than Friday and Saturday, when the bar leans into a livelier, later-night energy with a younger crowd and higher noise levels. If you want conversation-friendly seating, an early booking is the safer bet; if you want the full theatrical bar energy, go later on a weekend.
+Early evening, roughly 6 to 7:30pm, comes before the after-dinner and late-night bar crowd arrives. Weeknights are noticeably quieter than Friday and Saturday, when the bar leans into a livelier, later-night energy with a younger crowd and higher noise levels. If you want conversation-friendly seating, an early booking is the safer bet; if you want the full theatrical bar energy, go later on a weekend.
 
 ## How to visit like a local
 

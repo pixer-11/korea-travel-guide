@@ -44,7 +44,7 @@ faq:
   - q: How long does a Kilim mangrove tour take?
     a: The standard boat tour runs about two hours, covering mangrove channels, a fish-feeding stop, a limestone cave, and open-lagoon eagle watching. Add extra time if you want to kayak or eat at the floating restaurant.
   - q: When is the quietest time to visit?
-    a: Roughly 9am to 11am is calmest, with cooler air, smoother water, and fewer boats before the mid-morning tour groups arrive. Afternoons get busier and choppier as wind picks up.
+    a: Roughly 9am to 11am brings cooler air, smoother water, and fewer boats, before the mid-morning tour groups arrive. Afternoons get busier and choppier as wind picks up.
   - q: What's the best time of year to go?
     a: November to March is Langkawi's drier season and generally gives the most reliable weather, though tours run year-round since Kilim is a rainforest ecosystem and rain is always possible.
   - q: Is Kilim Geoforest Park good for kids or non-swimmers?
@@ -72,7 +72,7 @@ Many tours end at the floating restaurant moored mid-river, a stilted, pontoon-b
 
 ## When to go
 
-Mornings, roughly 9am to 11am, give you the calmest water, cooler air, and the best light for photographing the karst walls before the midday haze sets in. Afternoons bring more boat traffic and choppier water as the wind picks up. Tides matter too. Some cave entries and shallower creeks are only accessible at certain tide levels, so operators may adjust the route on the day.
+Mornings, roughly 9am to 11am, give you smoother water, cooler air, and the best light for photographing the karst walls before the midday haze sets in. Afternoons bring more boat traffic and choppier water as the wind picks up. Tides matter too. Some cave entries and shallower creeks are only accessible at certain tide levels, so operators may adjust the route on the day.
 
 Malaysia's dry season, roughly November through March, generally offers the most reliable weather, though Kilim runs tours year-round; the mangroves are a rainforest ecosystem, so a passing shower is always possible.
 

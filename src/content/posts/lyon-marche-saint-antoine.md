@@ -41,7 +41,7 @@ faq:
   - q: What days is Marché Saint-Antoine open?
     a: Tuesday, Thursday, Saturday and Sunday mornings only. It's closed Monday, Wednesday and Friday.
   - q: What are the exact hours?
-    a: Tuesday and Thursday 6:00 AM–1:00 PM, Saturday 6:00 AM–1:30 PM, and Sunday 6:00 AM–2:00 PM, which is the longest and busiest session.
+    a: Tuesday and Thursday 6:00 AM–1:00 PM, Saturday 6:00 AM–1:30 PM, and Sunday 6:00 AM–2:00 PM, the longest session of the week.
   - q: How do I get there by metro?
     a: The closest stop is Vieux Lyon on Line D, about a 10-minute walk across the Saône; alternatively take Line A or D to Bellecour and walk down to the Quai des Célestins.
   - q: How long should I spend there?

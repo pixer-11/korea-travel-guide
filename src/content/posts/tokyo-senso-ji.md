@@ -38,7 +38,7 @@ faq:
   - q: How long should I spend there?
     a: Budget 1.5–2 hours to see the gates, Main Hall, Five-Story Pagoda, and Asakusa Shrine, plus browsing Nakamise-dōri. Add extra time if visiting during a festival.
   - q: What's the best time to visit to avoid crowds?
-    a: Early morning before 8-9am or evening after shops close are quietest. Weekends, holidays, cherry blossom season, and the mid-May Sanja Matsuri festival draw the largest crowds.
+    a: Early morning before 8-9am, or the evening after the shops close, is when the approach empties out. Weekends, holidays, cherry blossom season, and the mid-May Sanja Matsuri festival draw the largest crowds.
   - q: What else is nearby?
     a: Kappabashi kitchenware street, the Sumida River promenade, and views of Tokyo Skytree are all within a 10-15 minute walk of the temple.
 aiGenerated: true

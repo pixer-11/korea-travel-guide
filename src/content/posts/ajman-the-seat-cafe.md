@@ -59,8 +59,8 @@ faq:
       longer if you plan to work or linger over a pastry.
   - q: What's the best time of day to avoid crowds?
     a: >-
-      Weekday mornings between roughly 9 and 11am are the quietest; evenings
-      from Thursday to Saturday tend to be busiest as that's the UAE weekend.
+      Weekday mornings between roughly 9 and 11am come before the lunch crowd;
+      evenings from Thursday to Saturday fill up, as that's the UAE weekend.
   - q: Do they accept cash or card?
     a: >-
       Card and mobile tap-to-pay are the norm across UAE cafés, though it's
@@ -93,7 +93,7 @@ Since this is a coffee shop rather than a landmark, budget somewhere between 45 
 
 ## When to go
 
-Weekday mornings (roughly 9–11am) tend to be the calmest window, before lunch crowds and before the after-work rush that many Gulf cafés see from around 6pm onward. Because Ajman's climate is intensely hot from May through September, cafés like this one become more of a refuge than a leisure stop in peak summer. Expect heavier midday traffic during those months as people seek air conditioning. Cooler months (November through March) make outdoor seating, if available, genuinely pleasant, and evenings after sunset are popular for that reason.
+Weekday mornings (roughly 9–11am) land before the lunch crowd and well before the after-work rush that many Gulf cafés see from around 6pm onward. Because Ajman's climate is intensely hot from May through September, cafés like this one become more of a refuge than a leisure stop in peak summer. Expect heavier midday traffic during those months as people seek air conditioning. Cooler months (November through March) make outdoor seating, if available, genuinely pleasant, and evenings after sunset are popular for that reason.
 
 ## How to visit like a local
 

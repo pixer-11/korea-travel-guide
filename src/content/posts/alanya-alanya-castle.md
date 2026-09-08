@@ -44,7 +44,7 @@ faq:
   - q: How long should I spend at Alanya Castle?
     a: Plan on at least half a day — the fortified area is large, with uneven paths connecting the tower, church ruins, and cisterns spread across the peninsula.
   - q: When is the best time to visit to avoid crowds?
-    a: Arrive right at 8am opening or in the last two hours before closing (around 6:30–8:30pm). Midday, roughly 11am to 3pm, is when it's busiest with tour groups.
+    a: Arrive right at 8am opening or in the last two hours before closing (around 6:30–8:30pm). Midday, roughly 11am to 3pm, is when the tour groups arrive.
   - q: How do you get up to Alanya Castle?
     a: Take a local dolmuş or municipal bus marked 'Kale' from town, a 15–20 minute taxi ride up the switchback road, or combine it with the cable car from the harbor area.
   - q: What's the must-see part if I don't have much time?

@@ -37,7 +37,7 @@ faq:
   - q: "How do I get to Triveni Ghat from central Rishikesh?"
     a: "It's about a 15–20 minute auto-rickshaw ride from Laxman Jhula or Ram Jhula, and roughly 2km from Rishikesh Railway Station. The final approach is on foot through a market lane."
   - q: "When is Triveni Ghat least crowded?"
-    a: "Early morning, around sunrise (roughly 6–7am), is calmest — most tourists come for the evening aarti, so mornings are left mainly to local bathers and pilgrims."
+    a: "Early morning, around sunrise (roughly 6–7am), belongs mainly to local bathers and pilgrims. Most tourists come for the evening aarti."
   - q: "How long should I plan to spend there?"
     a: "Allow 30–45 minutes for a sunrise visit, or closer to an hour in the evening if you want to arrive early and watch the full Ganga Aarti ceremony."
 aiGenerated: true

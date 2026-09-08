@@ -21,6 +21,12 @@ const LIMIT = (() => {
   const i = process.argv.indexOf('--limit');
   return i !== -1 ? Number(process.argv[i + 1]) : Infinity;
 })();
+// 특정 글만. 없으면 busyness 가 없는 글 전부를 도는데, 한 곳당 New Forecast 2크레딧이라
+// "이 16편만 채워라" 같은 일에 전체를 돌릴 수는 없다(2026-09-08).
+const ONLY = (() => {
+  const a = process.argv.find((x) => x.startsWith('--only='));
+  return a ? new Set(a.slice(7).split(',').map((s) => s.trim()).filter(Boolean)) : null;
+})();
 
 if (!process.env.BESTTIME_API_KEY) {
   console.error('❌ BESTTIME_API_KEY not set in .env — add your private key (pri_…) first.');
@@ -36,6 +42,7 @@ let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0;
 
 for (const f of files) {
   if (processed >= LIMIT) break;
+  if (ONLY && !ONLY.has(f.replace(/\.md$/, ''))) continue;
   const p = join(DIR, f);
   const t = await readFile(p, 'utf8');
 

@@ -37,7 +37,7 @@ faq:
   - q: "How do I get to Tiong Bahru Market?"
     a: "Take the East-West Line to Tiong Bahru Station, Exit A, then walk about 10 minutes through the estate. Taxis and ride-hailing can drop you directly outside on Seng Poh Road."
   - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings around 7:30–9am are calmest with the freshest food. If you can't make breakfast, try the early-afternoon lull between roughly 2–4pm, and avoid weekend lunch peaks."
+    a: "Weekday mornings around 7:30–9am have the freshest food. If you can't make breakfast, try the early-afternoon lull between roughly 2–4pm, and avoid weekend lunch peaks."
   - q: "How much should I budget for a meal?"
     a: "It's a budget-friendly hawker centre — most dishes cost just a few Singapore dollars each, so trying food from three or four stalls is still an inexpensive meal."
   - q: "How long should I spend there?"
