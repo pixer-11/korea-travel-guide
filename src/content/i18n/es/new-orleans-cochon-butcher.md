@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: new-orleans-cochon-butcher
-srcHash: '76cc22443cbb'
-title: 'Cochon Butcher: dónde comer en Nueva Orleans (4.8★)'
-description: 'Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del Warehouse District junto a Tchoupitoulas Street. 4.8★ (2.631 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del Warehouse District junto a Tchoupitoulas Street. Ve por la muffuletta o el cubano de panceta de cerdo, pide en el mostrador y cuenta con esperar en las horas pico del almuerzo. Abre todos los días de 11am a 10pm, así que una visita a media tarde (2–4pm) es tu mejor opción para conseguir mesa sin fila.
+srcHash: '7f8da18d339c'
+title: 'Cochon Butcher: dónde comer en Nueva Orleans (4,8★)'
+description: 'Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del distrito de los almacenes (Warehouse District), cerca de Tchoupitoulas Street. 4,8★ (2.631 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del distrito de los almacenes (Warehouse District), cerca de Tchoupitoulas Street. Lo mejor es pedir la muffuletta o el cubano de panceta de cerdo en el mostrador, aunque hay que contar con esperar en las horas punta del almuerzo. Abre todos los días de 11:00 a 22:00, así que una visita a media tarde (14:00–16:00) es la mejor opción para conseguir mesa sin hacer cola.
 faq:
-  - q: ¿Cómo llego a Cochon Butcher?
-    a: Está en 930 Tchoupitoulas St, Ste B, en el Warehouse District — busca la entrada por el callejón en lugar de una puerta que dé directamente a la calle. Se puede llegar a pie desde el Centro de Convenciones y está a unos 20 minutos caminando desde el Barrio Francés (French Quarter).
-  - q: ¿Cuál es el mejor momento para ir y evitar filas?
-    a: Intenta ir entre las 2pm y las 4pm en un día de semana. El horario de más movimiento por el almuerzo, entre el mediodía y la 1:30pm, especialmente cerca del Centro de Convenciones, es cuando hay más gente.
-  - q: ¿Necesito reservar?
-    a: No — es servicio de mostrador. Pides en la caja, tomas un número y buscas asiento en las mesas comunales o en la barra.
-  - q: ¿Qué debería pedir?
-    a: La muffuletta y el cubano de panceta de cerdo son los platos destacados, junto con las boudin balls y el po'boy de ostras a la leña que esté disponible ese día.
-  - q: ¿Es bueno para una comida rápida o para quedarse a comer con calma?
-    a: Funciona para ambos casos. Los sándwiches se transportan bien si buscas un almuerzo rápido para llevar, pero las mesas comunales y la barra hacen fácil quedarse un rato disfrutando de un plato y una cerveza.
+  - q: ¿Cómo se llega a Cochon Butcher?
+    a: Está en 930 Tchoupitoulas St, Ste B, en el Warehouse District; hay que buscar la entrada del callejón en lugar de una puerta sobre la calle. Se puede ir caminando desde el Convention Center, y desde el Barrio Francés (French Quarter) el trayecto a pie es de unos 20 minutos.
+  - q: ¿Cuál es el mejor horario para evitar filas?
+    a: Conviene apuntar a la franja de 14:00 a 16:00 en un día laborable. La hora punta del almuerzo, entre el mediodía y la 13:30, sobre todo cerca del Convention Center, es cuando se forma la fila.
+  - q: ¿Hace falta reserva?
+    a: 'No: el servicio es en mostrador. Se pide en la caja, se toma un número y se busca sitio en las mesas comunales o en la barra.'
+  - q: ¿Qué conviene pedir?
+    a: La muffuletta y el cubano de panceta de cerdo son los platos destacados, junto con las bolas de boudin y el po'boy de ostras a la parrilla de leña que toque ese día.
+  - q: ¿Es buena opción para comer algo rápido o para una comida más tranquila?
+    a: Sirve para ambas cosas. Los sándwiches se transportan bien para un almuerzo rápido para llevar, pero las mesas comunales y la barra invitan a quedarse un rato con un plato y una cerveza.
 ---
 
 ## Por qué Cochon Butcher
 
-Hueles la carne ahumada antes de ver la puerta. Cochon Butcher se encuentra medio escondido en un callejón estrecho junto a Tchoupitoulas Street, en el Warehouse District — parte carnicería, parte mostrador de sándwiches, parte bar.
+El olor a carne ahumada llega antes que la vista de la puerta. Cochon Butcher se esconde a medias en un callejón estrecho junto a Tchoupitoulas Street, en el Warehouse District, y es a la vez carnicería, mostrador de sándwiches y bar.
 
-Es la propuesta informal del Cochon de al lado, dirigida por los chefs Donald Link y Stephen Stryjewski, ambos profundamente vinculados a las tradiciones cajún y de cochon-de-lait de Luisiana. El nombre significa "cerdo" en francés, y la vitrina de vidrio a la entrada lo confirma — rollos de boudin casero, trozos de tasso, frascos de encurtidos de todo tipo.
+Es la propuesta informal del Cochon de al lado, dirigida por los chefs Donald Link y Stephen Stryjewski, ambos muy ligados a las tradiciones cajún y al cochon-de-lait de Luisiana. El nombre significa "cerdo" en francés, y la vitrina de la entrada lo confirma: rollos de boudin casero, trozos de tasso y frascos de encurtidos de todo tipo.
 
 Esto no es alta cocina. Es un mostrador de carnicería que, de paso, prepara algunos de los mejores sándwiches de Nueva Orleans.
 
 ## Cómo llegar
 
-La dirección es 930 Tchoupitoulas St, Ste B — busca la entrada por el callejón, no un local que dé directamente a la acera principal. Está a poca distancia a pie del Ernest N. Morial Convention Center y a un cómodo paseo de diez minutos de las paradas del tranvía de la línea St. Charles.
+La dirección es 930 Tchoupitoulas St, Ste B. Hay que buscar la entrada del callejón, no un escaparate sobre la acera principal. Se llega caminando en poco tiempo desde el Ernest N. Morial Convention Center, y las paradas del tranvía de la línea St. Charles quedan a un paseo fácil de diez minutos.
 
-Si vienes desde el Barrio Francés (French Quarter), son unos 20 minutos caminando o un viaje rápido en rideshare. Hay estacionamiento en la calle, pero es limitado; en las cercanías del Warehouse District hay varios estacionamientos de pago.
+Desde el Barrio Francés (French Quarter), el trayecto es de unos 20 minutos a pie, o bien un viaje corto en coche compartido. Existe aparcamiento en la calle, aunque es escaso; hay varios aparcamientos de pago cerca, repartidos por el Warehouse District.
 
 ## Qué pedir
 
-Todo el menú se inclina hacia el cerdo, aunque no exclusivamente. El menú del mostrador cambia ligeramente con el tiempo, así que toma esto como opciones confiables más que como reglas fijas:
+Casi todo en el menú gira en torno al cerdo, aunque no de forma exclusiva. La carta del mostrador cambia un poco con el tiempo, así que estas son apuestas seguras más que reglas fijas:
 
-- **Muffuletta** — el clásico de Nueva Orleans, ensalada de aceitunas y carnes curadas sobre pan de la casa
-- **Cubano de panceta de cerdo** — prensado, salado, con un toque dulce de los encurtidos
-- **Po'boy de ostras a la leña** (cuando está disponible) — ahumado y salado a partes iguales
-- **Boudin balls** — crujientes por fuera, suaves de arroz y cerdo por dentro
-- **Plato Cochon Butcher** — una muestra de la charcutería de la casa, ideal si prefieres picar en vez de decidirte por un solo sándwich
+- **Muffuletta**, el clásico de Nueva Orleans, con ensalada de aceitunas y embutidos curados sobre pan de la casa
+- **Cubano de panceta de cerdo**, prensado, salado y algo dulce por los encurtidos
+- **Po'boy de ostras a la parrilla de leña** (cuando lo hay), ahumado y salado a partes iguales
+- **Bolas de boudin**, crujientes por fuera y tiernas por dentro, de arroz y cerdo
+- **Plato Cochon Butcher**, una selección de charcutería de la casa para quienes prefieren picar en vez de decidirse por un solo sándwich
 
-Pide en la caja, toma un número y busca asiento en las mesas comunales o en la barra. Entre las bebidas hay cerveza local y una breve carta de vinos, además de un bloody mary que los habituales piden con el almuerzo.
+Se pide en la caja registradora, se toma un número y se busca sitio en las mesas comunales o en la barra. Entre las bebidas hay cerveza local y una carta de vinos breve, además de un bloody mary que los habituales suelen pedir con el almuerzo.
 
 ## Cómo se siente el ambiente
 
-Por dentro, es un espacio reducido y ruidoso, pero en el buen sentido. Papel de carnicero cubre las mesas pequeñas, la cocina abierta hace ruido detrás del mostrador, y el aroma a cerdo curado y pan recién horneado llena el lugar.
+Por dentro, el espacio es reducido y ruidoso, pero en el buen sentido. Papel de carnicero cubre las mesas pequeñas, la cocina abierta resuena tras el mostrador, y el aroma a cerdo curado y pan recién horneado inunda la sala.
 
-En el horario pico del almuerzo — de mediodía a 1:30pm entre semana — se llenan todos los asientos y la fila serpentea hasta la puerta. Es una parada conocida tanto para locales que buscan almorzar como para visitantes que se desvían de eventos del centro de convenciones de al lado, así que no esperes un rincón tranquilo.
+En la hora punta del almuerzo, entre el mediodía y la 13:30 en días laborables, se ocupan todos los asientos y la fila serpentea hasta la puerta. Es una parada muy conocida tanto para vecinos que buscan almorzar como para visitantes que hacen una pausa entre las actividades del centro de convenciones de al lado, así que no hay que esperar un rincón tranquilo.
 
 ## Cuándo ir
 
-Cochon Butcher abre todos los días sin cerrar al mediodía, lo que da flexibilidad. El horario pico del almuerzo golpea fuerte entre el mediodía y la 1:30pm, especialmente entre semana, cuando se desbordan las multitudes del centro de convenciones.
+Cochon Butcher abre todos los días sin cerrar a mediodía, lo que da bastante flexibilidad. El bullicio del almuerzo golpea fuerte entre el mediodía y la 13:30, sobre todo en días laborables, cuando se suman las multitudes del centro de convenciones.
 
-La cena suele ser más tranquila, y una visita a media tarde — digamos entre las 2pm y las 4pm — suele ser tu ventana más silenciosa para conseguir mesa sin esperar. Los fines de semana atraen un flujo constante de gente todo el día, pero rara vez con la misma intensidad que un almuerzo de martes.
+La cena suele ser más tranquila, y una visita a media tarde, entre las 14:00 y las 16:00, normalmente garantiza mesa sin espera. Los fines de semana traen un flujo constante de gente durante todo el día, pero rara vez con la intensidad de un almuerzo de martes.
 
 ## Cómo visitarlo como un local
 
-Pide y paga en el mostrador — dejar uno o dos dólares de propina en el frasco junto a la caja es costumbre, ya que no hay servicio a la mesa. Aquí nadie se complica con reservas; no existen, ni hacen falta.
+Se pide y se paga en el mostrador; es costumbre dejar uno o dos dólares de propina en el bote junto a la caja, ya que no hay servicio de mesa. Aquí nadie se complica con reservas: no existen, ni hacen falta.
 
-- Evita el horario pico del mediodía si puedes — entre las 2pm y las 4pm está mucho más tranquilo
-- Pide la muffuletta para llevar si solo buscas algo rápido; el empaque aguanta bien el transporte
-- Aprovecha para comprar algunas cosas de la vitrina de la carnicería (tasso, boudin, encurtidos) si vas a cocinar esa noche — los locales lo tratan como una tienda de especialidades, no solo como un mostrador de almuerzo
-- Tanto el efectivo como la tarjeta funcionan sin problema, pero espera una fila corta incluso para una sola caja en horas pico
+- Evitar la hora punta del mediodía si es posible: entre las 14:00 y las 16:00 el ambiente es mucho más tranquilo
+- Pedir la muffuletta para llevar si solo se busca algo rápido; el envase aguanta bien el traslado
+- Aprovechar para comprar algo de la vitrina de la carnicería (tasso, boudin, encurtidos) si se va a cocinar esa noche; los locales lo tratan como una tienda de productos gourmet, no solo como un mostrador de almuerzo
+- Tanto el efectivo como la tarjeta funcionan sin problema, aunque hay que contar con una fila corta incluso con una sola caja en las horas de más movimiento
 
-El error más común entre los recién llegados es presentarse justo al mediodía esperando entrar y salir rápido. Con solo mover la visita 90 minutos más tarde, toda la experiencia mejora — fila más corta, ambiente más tranquilo, el mismo sándwich.
+El error más común entre los recién llegados es presentarse justo al mediodía esperando entrar y salir rápido. Basta con retrasar la visita 90 minutos para que todo resulte más sencillo: fila más corta, sala más tranquila y el mismo sándwich de siempre.

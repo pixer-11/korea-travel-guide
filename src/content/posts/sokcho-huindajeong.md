@@ -1,6 +1,6 @@
 ---
 title: 'Huindajeong: Sokcho Travel Guide'
-description: Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a
+description: "Huindajeong is a stylish café-and-seafood stop in Sokcho's Subok-ro area, best known for ocean-view seating and a laid-back East Sea vibe rather than a single must-order dish."
 country: South Korea
 region: Sokcho
 category: trendy

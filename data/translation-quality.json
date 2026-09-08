@@ -84,11 +84,11 @@
   "at": "2026-08-17T08:38:14.599Z"
  },
  "ko/alanya-alanya-castle": {
-  "hash": "30e986152f64",
+  "hash": "7729c050de32",
   "score": 1,
   "registerBreak": false,
-  "worst": "이렇게 하면 오르는 데 다리를 쓰지 않고 내부를 걸어다닐 힘을 아낄 수 있습니다.",
-  "at": "2026-09-07T10:45:50.138Z"
+  "worst": "오르막을 오르는 데 다리 힘을 쓰는 대신 내부를 걷는 데 힘을 아낄 수 있습니다.",
+  "at": "2026-09-08T14:37:42.270Z"
  },
  "ko/alcaniz-motogp-aragon-grand-prix": {
   "hash": "82498c82ab38",
@@ -3947,13 +3947,6 @@
   "worst": "太陽の動きにつれて、ジャリ(透かし彫りの大理石格子)が内部の墓碑にひし形の影を移ろわせます。",
   "at": "2026-08-15T06:22:39.039Z"
  },
- "ja/ajman-the-seat-cafe": {
-  "hash": "eab09e4c9e2c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "数字がそれを裏付けています——873件のレビューで4.7という評価は、まだ観光の定番スポットになっていないカフェとしては異例の高さです。",
-  "at": "2026-08-15T02:44:04.882Z"
- },
  "ja/al-ain-al-ain-oasis": {
   "hash": "66cb83532029",
   "score": 1,
@@ -3983,11 +3976,11 @@
   "at": "2026-08-31T12:52:59.103Z"
  },
  "ja/alanya-alanya-castle": {
-  "hash": "d69e8e3748e5",
+  "hash": "ee01da0ed75c",
   "score": 1,
   "registerBreak": false,
-  "worst": "アラニヤ城(Alanya Castle)へ向かう道を登り始めてまず気づくのは、道が幾度もつづら折りになりながら続き、両側に海がぐっと落ち込んでいく様子です。",
-  "at": "2026-08-15T02:44:07.976Z"
+  "worst": "入場は通常、門でカードまたは現金で支払う形式ですが、料金やチケットの仕組みは変更されることが多いため",
+  "at": "2026-09-08T14:37:35.565Z"
  },
  "ja/alishan-alishan-national-forest-recreation-area": {
   "hash": "fa061359f699",
@@ -9919,11 +9912,11 @@
   "at": "2026-08-15T03:13:44.347Z"
  },
  "es/alanya-alanya-castle": {
-  "hash": "6a1ce0e34b9f",
+  "hash": "26eb08830605",
   "score": 1,
   "registerBreak": false,
-  "worst": "Ehmedek en lugar de intentar recorrer toda la longitud de las murallas.",
-  "at": "2026-08-15T03:13:46.146Z"
+  "worst": "ya que las sandalias no se desenvuelven bien sobre los adoquines sueltos",
+  "at": "2026-09-08T14:37:20.522Z"
  },
  "es/al-ain-ethr-al-ain-oasis": {
   "hash": "9dd38ce95ee2",
@@ -9975,11 +9968,11 @@
   "at": "2026-08-15T03:13:54.313Z"
  },
  "es/ajman-the-seat-cafe": {
-  "hash": "e52ea35991d5",
+  "hash": "fa0f8622e957",
   "score": 1,
   "registerBreak": false,
-  "worst": "cafeterías con estilo del Golfo que compiten tanto en sabor como en presentación.",
-  "at": "2026-08-15T06:32:48.582Z"
+  "worst": "The Seat Cafe se ha ganado en silencio una de las mejores reputaciones entre las cafeterí",
+  "at": "2026-09-08T14:37:18.887Z"
  },
  "es/alishan-fenqihu-old-street": {
   "hash": "f382ffdb0bca",
@@ -15967,11 +15960,11 @@
   "at": "2026-08-15T03:41:04.110Z"
  },
  "zh/alanya-alanya-castle": {
-  "hash": "c2bb9d72b2f1",
+  "hash": "ffc686a1582b",
   "score": 1,
   "registerBreak": false,
-  "worst": "很适合顺路漫步阶下方的阿兰亚老城，狭窄的巷道一路通向港口和克利奥帕特拉海滩",
-  "at": "2026-08-15T03:41:11.014Z"
+  "worst": "这里过去是一座实实在在运作的要塞，而非单一的纪念性建筑。",
+  "at": "2026-09-08T14:38:03.702Z"
  },
  "zh/al-ain-al-fanar-restaurant-cafe": {
   "hash": "1491fcf80fff",
@@ -23611,11 +23604,11 @@
   "at": "2026-09-07T10:45:48.411Z"
  },
  "ko/ajman-the-seat-cafe": {
-  "hash": "cb9a54dbe3a8",
+  "hash": "71b6f9ebd67b",
   "score": 1,
   "registerBreak": false,
-  "worst": "숫자로도 이를 확인할 수 있는데, 873개의 리뷰에서 4.7이라는 평점은 아직 관광객들에게 널리...",
-  "at": "2026-08-15T10:29:52.120Z"
+  "worst": "아직 관광객들에게 널리 알려지지 않은 카페치고 리뷰 873개에 4.7점이라는 평점은 이례적으로 높은 수치입니다.",
+  "at": "2026-09-08T14:37:40.515Z"
  },
  "ko/arlington-bts-world-tour-arlington": {
   "hash": "8130a8c1ed9e",
@@ -28153,13 +28146,6 @@
   "worst": "이번 페어웰 투어는 더블린 출신 4인조 밴드가 공식적으로 활동을 마무리하는 장이었으며, 방콕은...",
   "at": "2026-09-07T13:34:04.958Z"
  },
- "ko/bangkok-the-temple-of-the-emerald-buddha": {
-  "hash": "cf7803771d64",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "평일 오전 8시 30분부터 9시 30분 사이가 언제나 가장 한산하며, 같은 시간대인 오전 8시 30분부터 9시 30분은 주말에도",
-  "at": "2026-09-07T13:34:07.145Z"
- },
  "ko/beijing-china-open-tennis": {
   "hash": "0b92005b9550",
   "score": 1,
@@ -28181,13 +28167,6 @@
   "worst": "왔던 길로 그대로 되돌아 나가는 단체 관광객들은 대부분 놓치는 보상 같은 순간입니다.",
   "at": "2026-09-07T13:34:17.404Z"
  },
- "ko/barcelona-the-weeknd-live-in-concert": {
-  "hash": "421fc3c7da20",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "바르셀로나 공연일은 2026년 9월 1일로, 그의 월드 투어 일정 중 하루였습니다.",
-  "at": "2026-09-07T13:34:17.483Z"
- },
  "ko/bengaluru-bengaluru-fort": {
   "hash": "ea9635846d0a",
   "score": 1,
@@ -28195,11 +28174,25 @@
   "worst": "주소는 XH7G+49C, Krishna Rajendra Road, New Tharagupet, Bengaluru 560002이며...",
   "at": "2026-09-07T13:34:19.486Z"
  },
- "ko/bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open": {
-  "hash": "3d5a03e40958",
-  "score": 2,
+ "es/kolkata-biswa-bangla-gate": {
+  "hash": "290d3fca5283",
+  "score": 1,
   "registerBreak": false,
-  "worst": "가볍고 통기성 좋은 옷차림에 접이식 우산이나 방수 재킷, 물을 챙기기에 알맞은 날씨였습니다.",
-  "at": "2026-09-07T13:34:23.834Z"
+  "worst": "Al tratarse de una parada \"muy popular\" dentro del circuito de Newtown",
+  "at": "2026-09-08T14:37:22.325Z"
+ },
+ "ja/kolkata-biswa-bangla-gate": {
+  "hash": "5fdf6708f4d1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ここで支払うお金は、味を求める美食巡礼のためというより、眺めとランドマークの中で食事をするという非日常感に対するものだと考えたほうがよいでしょう。",
+  "at": "2026-09-08T14:37:38.111Z"
+ },
+ "ko/kolkata-biswa-bangla-gate": {
+  "hash": "91cda204c7b7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "미식 순례라기보다는 랜드마크 안에서 식사하는 전망과 특별한 경험에 값을 치른다고 보면 됩니다.",
+  "at": "2026-09-08T14:37:44.371Z"
  }
 }

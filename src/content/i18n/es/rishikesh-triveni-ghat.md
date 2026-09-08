@@ -1,64 +1,64 @@
 ---
 lang: es
 slug: rishikesh-triveni-ghat
-srcHash: '6a4f6b695374'
-title: 'Triveni Ghat: Guía de viaje de Rishikesh (4.6★)'
-description: 'Triveni Ghat es el principal ghat de baño de Rishikesh a orillas del Ganges (sin cremaciones), célebre por su ceremonia nocturna del fuego, la Ganga Aarti, al atardecer. 4.6★ (62.144 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: Triveni Ghat es el principal ghat de baño de Rishikesh a orillas del Ganges, sin cremaciones, célebre sobre todo por su ceremonia nocturna del fuego, la Ganga Aarti, al atardecer. Es un lugar muy visitado y nada secreto, así que conviene ir a primera hora de la mañana (hacia el amanecer) para un baño y un darshan tranquilos, o llegar bastante antes de que suene la campana de la aarti si se quiere un sitio en los escalones junto al río en vez de quedarse en las filas de atrás.
+srcHash: '04061d641130'
+title: 'Triveni Ghat: guía de viaje de Rishikesh (4,6★)'
+description: 'Triveni Ghat es el ghat principal de baño en Rishikesh, sin cremaciones, a orillas del Ganges, conocido sobre todo por su ceremonia nocturna de fuego, el Ganga Aarti, al anochecer. 4,6★ (62.144 reseñas): qué dicen los visitantes, horarios y consejos.'
+quickAnswer: Triveni Ghat es el ghat principal de baño en Rishikesh, sin cremaciones, a orillas del Ganges, conocido sobre todo por su ceremonia nocturna de fuego, el Ganga Aarti, al anochecer. Es un lugar muy visitado, nada secreto, así que conviene ir a primera hora de la mañana (alrededor del amanecer) para un baño tranquilo y un darshan sin aglomeraciones, o llegar con bastante antelación a la campana del aarti para conseguir un escalón junto al río en lugar de quedarse en las filas de atrás.
 faq:
-  - q: ¿Hay que pagar entrada para visitar Triveni Ghat o ver la Ganga Aarti?
-    a: No hace falta ningún ticket para entrar al ghat ni para presenciar la aarti. Los sacerdotes aceptan donativos voluntarios en efectivo, y pequeños extras como los diyas o los artículos de puja cuestan solo unas rupias.
-  - q: ¿A qué hora es la Ganga Aarti en Triveni Ghat?
-    a: 'Se celebra todos los días hacia el atardecer, así que la hora exacta varía según la temporada: alrededor de las 6 de la tarde en invierno y más cerca de las 7 en verano. Lo mejor es preguntar en el lugar o confirmar la hora esa misma mañana.'
+  - q: ¿Hay que pagar entrada para visitar Triveni Ghat o ver el Ganga Aarti?
+    a: No se necesita ninguna entrada para visitar el ghat ni para presenciar el aarti. Los sacerdotes aceptan donativos voluntarios en efectivo, y pequeños extras como los diyas o los artículos de puja cuestan solo unas pocas rupias.
+  - q: ¿A qué hora es el Ganga Aarti en Triveni Ghat?
+    a: 'Se celebra todos los días alrededor del atardecer, así que la hora exacta varía según la temporada: cerca de las 18:00 en invierno y algo más tarde, sobre las 19:00, en verano. Lo mejor es preguntar en el lugar o confirmar la hora esa misma mañana.'
   - q: ¿Cómo se llega a Triveni Ghat desde el centro de Rishikesh?
-    a: Desde Laxman Jhula o Ram Jhula el trayecto en auto-rickshaw dura unos 15-20 minutos, y desde la estación de tren de Rishikesh (Rishikesh Railway Station) hay aproximadamente 2 km. El último tramo se hace a pie, atravesando una calle de mercado.
+    a: El trayecto en autorickshaw desde Laxman Jhula o Ram Jhula dura entre 15 y 20 minutos, y la distancia desde la estación de tren de Rishikesh (Rishikesh Railway Station) es de unos 2 km. El último tramo se recorre a pie por una callejuela de mercado.
   - q: ¿Cuándo hay menos gente en Triveni Ghat?
-    a: 'A primera hora de la mañana, hacia el amanecer (entre las 6 y las 7 aproximadamente), es cuando más tranquilo está: la mayoría de los turistas llegan para la aarti del atardecer, así que las mañanas quedan sobre todo para los bañistas locales y los peregrinos.'
+    a: A primera hora de la mañana, alrededor del amanecer (entre las 6:00 y las 7:00 aproximadamente), el lugar pertenece sobre todo a los bañistas y peregrinos locales. La mayoría de los turistas llega para el aarti de la tarde.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
-    a: Para una visita al amanecer basta con 30-45 minutos; por la tarde conviene calcular cerca de una hora si se quiere llegar con tiempo y ver la ceremonia completa de la Ganga Aarti.
+    a: Para una visita al amanecer basta con 30-45 minutos. Para la tarde, conviene calcular cerca de una hora si se quiere llegar temprano y presenciar la ceremonia completa del Ganga Aarti.
 ---
 
-## Por qué Triveni Ghat es tan importante
+## Por qué importa Triveni Ghat
 
-No se trata de una atracción secundaria: es el corazón espiritual de Rishikesh. Su nombre significa "tres corrientes", en referencia al mítico punto de encuentro entre el Ganges, el Yamuna y el invisible río Saraswati. Los peregrinos creen que un baño aquí purifica los pecados acumulados a lo largo de varias vidas, y el ghat lleva siglos atrayendo a bañistas.
+Este no es un atractivo secundario, sino el corazón espiritual de Rishikesh. Su nombre significa "tres corrientes", en referencia al punto mítico donde se unen los ríos Ganga, Yamuna y el invisible Saraswati. Los peregrinos creen que un baño aquí borra los pecados acumulados a lo largo de varias vidas, y el ghat lleva siglos atrayendo bañistas.
 
-La magnitud del lugar se percibe antes incluso de entenderla. Anchos escalones de piedra se abren en abanico hacia el río, llenos de vendedores de caléndulas, sacerdotes bajo sombrillas de bambú y familias que entran al agua completamente vestidas. En los bordes se alzan estatuas de deidades hindúes, doradas y engalanadas con guirnaldas, vigilando el agua.
+La magnitud del lugar se percibe antes de entenderla del todo. Anchos escalones de piedra se abren en abanico hacia el río, repletos de vendedores de caléndulas, sacerdotes bajo sombrillas de bambú y familias que se adentran en el agua completamente vestidas. A lo largo de los bordes se alzan estatuas de deidades hindúes, doradas y engalanadas con guirnaldas, vigilando las aguas.
 
 ## Qué se puede ver y hacer
 
-Por la mañana, el ambiente aquí es a la vez práctico y devocional. Los vecinos llegan a bañarse, lavar ropa y rezar antes de que apriete el calor del día. Se puede ver a sacerdotes oficiando puja para familias concretas, niños correteando entre los escalones y barqueros que ofrecen breves paseos por el río.
+Por las mañanas, el ambiente es a la vez práctico y devocional. Los lugareños llegan a bañarse, lavar ropa y rezar antes de que apriete el calor del día. Se pueden ver sacerdotes oficiando puja para familias concretas, niños correteando entre los escalones y barqueros que ofrecen breves paseos por el río.
 
-Hacia última hora de la tarde el ambiente cambia. Los vendedores instalan puestos con diyas —pequeños cuencos de hoja con una vela y flores— para que cada visitante los deje flotar en la corriente, un pequeño ritual de deseos que casi todo el que pasa por aquí prueba al menos una vez.
+Hacia última hora de la tarde, el ambiente cambia. Los vendedores instalan puestos con diyas —pequeños cuencos de hoja con una vela y flores— para que los visitantes los suelten en la corriente en un pequeño ritual de deseos que casi todo el mundo prueba al menos una vez.
 
-Después llega el momento culminante: la Ganga Aarti, que se celebra cada día al atardecer. Los sacerdotes balancean al unísono lámparas de latón de varios niveles, suenan las campanas y un canto devocional se eleva sobre la multitud mientras el cielo se oscurece sobre el agua.
+Después llega el momento principal: el Ganga Aarti, que se celebra a diario al atardecer. Los sacerdotes balancean al unísono lámparas de bronce de varios niveles, suenan las campanas y un canto devocional se eleva sobre la multitud mientras el cielo se oscurece sobre el agua.
 
 ## Cómo llegar
 
-Triveni Ghat se encuentra en la zona de Mayakund, en pleno centro de Rishikesh, a poca distancia a pie o a un corto trayecto en auto-rickshaw tanto de la estación de autobuses de Rishikesh (Rishikesh Bus Stand) como de la estación de tren (Rishikesh Railway Station).
+Triveni Ghat se encuentra en la zona de Mayakund, en el centro de Rishikesh, a un paseo corto o a pocos minutos en autorickshaw desde la estación de autobuses de Rishikesh (Rishikesh Bus Stand) y la estación de tren de Rishikesh (Rishikesh Railway Station).
 
-- Desde Laxman Jhula o Ram Jhula, el trayecto en auto-rickshaw dura unos 15-20 minutos
-- La principal terminal de transporte cercana es la estación de tren de Rishikesh, a unos 2 km
-- Una vez dentro de los callejones que llevan al ghat, el acceso es solo peatonal, así que el último tramo se hace caminando
+- Desde Laxman Jhula o Ram Jhula, el trayecto en autorickshaw dura entre 15 y 20 minutos
+- El nudo de transporte principal más cercano es la estación de tren de Rishikesh, a unos 2 km
+- Una vez dentro de las callejuelas que llevan al ghat, el acceso es solo peatonal, así que el último tramo se hace a pie
 
-Los conductores de rickshaw lo conocen bien de nombre y la señalización desde la carretera principal es aceptable, aunque los últimos cientos de metros serpentean por un mercado estrecho; cerca del atardecer basta con seguir el flujo de la gente para no perderse.
+Los conductores de rickshaw conocen bien el lugar por su nombre, y la señalización desde la carretera principal es aceptable, aunque los últimos cientos de metros serpentean por un mercado estrecho. Basta con seguir el flujo de la gente cerca del atardecer para no perderse.
 
 ## Cuándo ir
 
-El amanecer (entre las 6 y las 7 de la mañana aproximadamente, según la temporada) es el momento más tranquilo y fresco, ideal para hacer fotos sin una pared de hombros en el encuadre. Es también cuando ocurre la mayor parte del baño real y de la oración personal.
+El amanecer (entre las 6:00 y las 7:00 aproximadamente, según la temporada) ofrece calma, frescor y buenas condiciones para fotografiar sin una pared de hombros en el encuadre. Es también el momento en que se produce la mayor parte del baño real y de la oración personal.
 
-El atardecer ofrece la experiencia opuesta: denso, ruidoso y lleno de energía, todo girando en torno a la ceremonia de la aarti. Si se dispone de dos días en Rishikesh, vale la pena hacer ambas visitas; si solo hay uno, conviene priorizar la aarti de la tarde por el ambiente.
+El atardecer es la experiencia opuesta: denso, ruidoso y cargado de energía, todo en torno a la ceremonia del aarti. Si se dispone de dos días en Rishikesh, vale la pena vivir ambos momentos; si solo hay uno, conviene priorizar el aarti de la tarde por el ambiente.
 
-En las mañanas de invierno (noviembre-febrero) puede hacer tanto frío que pocos turistas se bañan, pero la ceremonia sigue reuniendo a una multitud completa todas las noches, durante todo el año.
+En las mañanas de invierno (de noviembre a febrero) puede hacer frío suficiente como para que pocos turistas se bañen, pero la ceremonia sigue reuniendo a una multitud completa cada tarde durante todo el año.
 
 ## Cómo visitarlo como un local
 
-Triveni Ghat es uno de los lugares más visitados de Rishikesh, así que conviene ver la aarti de la tarde como un espectáculo popular y no como un ritual íntimo que se disfrutará en soledad.
+Triveni Ghat es uno de los lugares más visitados de Rishikesh, así que conviene tratar el aarti de la tarde como un espectáculo popular, no como un ritual tranquilo que se disfrutará en soledad.
 
-- Llega 20-30 minutos antes del atardecer para conseguir un escalón junto al río en vez de quedarte de pie al fondo
-- Quítate los zapatos antes de subir a la plataforma principal, cerca de las deidades; suele haber cestos o encargados cerca para dejarlos
-- Vístete con recato: en un lugar de culto en pleno funcionamiento conviene llevar hombros y rodillas cubiertos
-- Compra un diya a alguno de los vendedores del ghat por apenas unas rupias en lugar de buscarlo en otro sitio; los precios son bajos de forma constante y regatear no es lo habitual aquí
-- Las donaciones a los sacerdotes suelen hacerse en efectivo y en billetes pequeños; no existe una tarifa fija para asistir a la aarti
-- Evita el error más común entre quienes visitan el lugar por primera vez: llegar justo al atardecer y tener que ver la ceremonia desde los escalones de arriba, por encima de la multitud, en lugar de estar abajo junto al agua
+- Llegar entre 20 y 30 minutos antes del atardecer para conseguir un escalón junto al río en lugar de quedarse de pie al fondo
+- Quitarse los zapatos antes de subir a la plataforma principal cercana a las deidades; suele haber cerca contenedores o encargados para dejarlos
+- Vestir con recato: en un lugar de culto en activo es apropiado cubrir hombros y rodillas
+- Comprar un diya a alguno de los vendedores del ghat por unas pocas rupias, en lugar de negociar en otro sitio. Los precios son constantemente bajos y aquí no es habitual regatear
+- Los donativos a los sacerdotes suelen hacerse en efectivo y en billetes pequeños; no se cobra ninguna tarifa fija por asistir al aarti
+- Conviene evitar el error más común entre quienes visitan el lugar por primera vez: llegar justo al atardecer y verse obligado a observar desde los escalones superiores, por encima de la multitud, en lugar de estar junto al agua
 
-Si prefieres el ghat sin tanta gente, ve al amanecer: es el mismo lugar sagrado, con una fracción de la afluencia y el mismo río de siempre.
+Para disfrutar del ghat sin tanta densidad de gente, lo mejor es ir al amanecer. Es el mismo lugar sagrado, con una fracción de la multitud, y el mismo río.
