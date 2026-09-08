@@ -31,6 +31,16 @@ eventOffers:
   free: true
   currency: INR
 eventFactsAsked: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/7/76/Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  credit: 'Photo: filip bossuyt / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  focus:
+    x: 39
+    'y': 20
+    top: 8
+    bottom: 32
 ---
 ## Why this meet matters
 

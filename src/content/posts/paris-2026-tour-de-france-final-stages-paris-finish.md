@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-24'
 eventEndDate: '2026-07-26'
-gallery: []
 tags:
   - paris
   - event
@@ -33,6 +32,16 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tour_de_France%2C_2014_02.jpg/3840px-Tour_de_France%2C_2014_02.jpg
+  credit: 'Photo: QuentinCurran / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tour_de_France,_2014_02.jpg
+  focus:
+    x: 65
+    'y': 27
+    top: 21
+    bottom: 33
 ---
 ## Why go
 

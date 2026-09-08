@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
-gallery: []
 tags:
   - jakarta
   - event
@@ -32,6 +31,14 @@ eventOrganizer:
 eventOffers:
   url: https://lalalafest.com/tickets
 eventFactsAsked: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Lalala_Napoli_%2828351605671%29.jpg
+  credit: 'Photo: Nicolas Buffler from Guilherand Granges, France / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lalala_Napoli_(28351605671).jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 ## Why go
 

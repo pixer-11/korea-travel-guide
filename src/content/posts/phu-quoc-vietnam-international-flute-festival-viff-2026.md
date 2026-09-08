@@ -27,6 +27,14 @@ eventRecurring: true
 eventOffers:
   url: https://vietnaminternationalflutefestival.com/registeration
 eventFactsAsked: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flute_with_musicial_notes.jpg/3840px-Flute_with_musicial_notes.jpg
+  credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Flute_with_musicial_notes.jpg
+  focus:
+    x: 45
+    'y': 40
 ---
 ## Why go
 

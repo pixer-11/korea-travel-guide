@@ -28,6 +28,14 @@ eventOrganizer:
   name: World Snooker Tour and Chinese Billiards and Snooker Association (CBSA)
   url: https://www.wst.tv
 eventFactsAsked: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG
+  credit: 'Photo: DmitryYakunin / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Snooker_table_selby.JPG
+  focus:
+    x: 50
+    'y': 50
 ---
 ## Why go
 
