@@ -58,6 +58,7 @@ const retry = existsSync('data/photo-retry.json')
 
 const picked = [];
 const why = [];
+const unreadable = [];
 
 for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const raw = readFileSync(join(DIR, f), 'utf8');
@@ -71,7 +72,13 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   // flag; and a `draft: true` line inside a body code sample was edited instead
   // of the real one. A parser sees what YAML sees.
   let fm;
-  try { fm = matter(raw); } catch { continue; }
+  try { fm = matter(raw); } catch (err) {
+    // A post this script cannot read is a post it did not consider. Swallowing
+    // the error let `published=0 of=0` mean two different things: "nothing
+    // qualified" and "I could not read the input".
+    unreadable.push(`${slug}: ${err.message.split('\n')[0]}`);
+    continue;
+  }
   if (fm.data?.draft !== true) continue;
 
   // A stated hold is a decision someone made for a reason that is not the
@@ -98,7 +105,7 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const words = fm.content.split(/\s+/).filter(Boolean).length;
   if (words < MIN_WORDS) { why.push(`${slug}: ${words} words — too thin to stand without a photo`); continue; }
 
-  picked.push({ slug, file: join(DIR, f), fm, clicks, imp, pos, tries, words });
+  picked.push({ slug, file: join(DIR, f), fm, raw, clicks, imp, pos, tries, words });
 }
 
 picked.sort((a, b) => b.clicks - a.clicks || b.imp - a.imp);
@@ -109,6 +116,7 @@ for (const r of picked) {
   console.log(`     ${r.clicks} click(s) · ${r.imp} impression(s) · position ${r.pos} · ${r.tries} photo attempts · ${r.words} words`);
 }
 for (const line of why) console.log(`  – skipped ${line}`);
+for (const u of unreadable) console.log(`  ❗ could not read ${u}`);
 
 if (!APPLY) {
   console.log('\n--apply to strip the quarantined hero and publish these.');
@@ -117,36 +125,77 @@ if (!APPLY) {
 
 let done = 0;
 for (const r of picked) {
-  // Edit the parsed object and re-serialise. The hero has to go: every one of
-  // these is still carrying the stock or wrong-venue photo it was quarantined
-  // FOR, and publishing without removing it would put exactly that picture back
-  // in front of readers.
-  const data = { ...r.fm.data };
-  delete data.heroImage;
-  data.draft = false;
-  // `photoless: true` is the repo's existing, documented way to say "a venue
-  // guide that ships without a picture, deliberately" — validate-content reads
-  // it, and it was written for this situation after the 2026-07-26 deletions.
-  // Assigned, not inserted as a line: a file that already said `photoless: false`
-  // used to end up with the key twice and no longer parsed.
-  data.photoless = true;
+  // The hero has to go: every one of these is still carrying the stock or
+  // wrong-venue photo it was quarantined FOR, and publishing without removing it
+  // would put exactly that picture back in front of readers.
+  //
+  // NOTHING is re-serialised. An earlier version rebuilt the file with
+  // matter.stringify, and that turned out to do two destructive things:
+  //
+  //  · it re-parses the body it is handed, so a body that BEGINS with `---`
+  //    (a Markdown horizontal rule) is read as another frontmatter block and
+  //    swallowed. Reproduced: 414 words became 2, and the checks below all
+  //    passed because they only looked at three flags.
+  //  · it drops quotes that carry meaning. `description: "09"` came back as
+  //    `description: 09`. gray-matter's js-yaml 3 still reads that as a string,
+  //    so a verification pass sees nothing wrong — but Astro's js-yaml 4 reads
+  //    it as the number 9, which violates `description: z.string()` and stops
+  //    the build.
+  //
+  // So the body is never touched, and the frontmatter keeps every line it
+  // already had. Only the three lines that must change are edited.
+  const fmMatch = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?/.exec(r.raw);
+  if (!fmMatch) { console.log(`  ⚠️ ${r.slug}: no frontmatter block — left alone`); continue; }
+  const body = r.raw.slice(fmMatch[0].length);
 
-  const out = matter.stringify(r.fm.content, data);
+  // Drop the heroImage key and the lines indented under it.
+  const kept = [];
+  let under = null;
+  for (const line of fmMatch[1].split('\n')) {
+    const indent = /^(\s*)/.exec(line)[1].length;
+    if (/^heroImage\s*:/.test(line)) { under = indent; continue; }
+    if (under !== null) {
+      if (line.trim() === '' || indent > under) continue;
+      under = null;
+    }
+    kept.push(line);
+  }
 
-  // Never write a file without reading back what was written. Three of the
-  // regex failures above produced frontmatter that no longer parsed, and the
-  // script reported them as published.
+  let fmText = kept
+    .map((l) => (/^draft\s*:/.test(l) ? 'draft: false' : l))
+    .filter((l) => !/^photoless\s*:/.test(l))
+    .join('\n');
+  fmText += '\nphotoless: true';
+
+  const out = `---\n${fmText}\n---\n${body}`;
+
+  // Verify against the ORIGINAL, not against three flags. The body must come
+  // back byte for byte, and every field except the three we meant to change
+  // must be unchanged — that is what makes "the rewrite is safe" a fact rather
+  // than a hope.
   let check;
   try { check = matter(out); } catch (err) {
     console.log(`  ⚠️ ${r.slug}: the rewrite would not parse (${err.message.split('\n')[0]}) — left alone`);
+    continue;
+  }
+  if (check.content !== r.fm.content) {
+    console.log(`  ⚠️ ${r.slug}: the body changed — left alone`);
     continue;
   }
   if (check.data.heroImage || check.data.draft !== false || check.data.photoless !== true) {
     console.log(`  ⚠️ ${r.slug}: the rewrite did not take — left alone`);
     continue;
   }
+  const untouched = (o) => Object.fromEntries(Object.entries(o)
+    .filter(([k]) => !['heroImage', 'draft', 'photoless'].includes(k)));
+  if (JSON.stringify(untouched(check.data)) !== JSON.stringify(untouched(r.fm.data))) {
+    console.log(`  ⚠️ ${r.slug}: a frontmatter field other than the three changed — left alone`);
+    continue;
+  }
   writeFileSync(r.file, out, 'utf8');
   console.log(`  ✅ ${r.slug} — hero removed, published`);
   done++;
 }
-console.log(`\nPHOTOLESS_RELEASE published=${done} of=${picked.length}`);
+console.log(`\nPHOTOLESS_RELEASE published=${done} of=${picked.length} unreadable=${unreadable.length}`);
+// Input this script could not read is not a clean run, whatever the other counts say.
+if (unreadable.length) process.exit(1);

@@ -752,9 +752,13 @@ if (!DRY && auditDirty && auditStore) {
 // down costs nothing and leaves the photo hunt running.
 const exhaustedNow = [];
 for (const [slug, n] of Object.entries(retryCount)) {
-  if (n < GIVE_UP_AFTER) continue;
+  // Existence FIRST. The threshold check used to come before it, so a slug for a
+  // post that no longer exists was only cleaned up once its count reached seven —
+  // one that stopped at six stayed in the ledger for ever. None are in there
+  // today, but the ledger should not be able to collect them.
   const p = `${POSTS}/${slug}.md`;
   if (!existsSync(p)) { delete retryCount[slug]; continue; }
+  if (n < GIVE_UP_AFTER) continue;
   let fm;
   try { fm = matter(readFileSync(p, 'utf8')).data; } catch { continue; }
   // "live again" used to mean "delete the count", but a post published WITHOUT a

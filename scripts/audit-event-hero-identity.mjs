@@ -60,11 +60,24 @@ const weak = [];
 // A post whose frontmatter will not parse was not examined; say so rather than
 // counting it as clean.
 const unreadable = [];
+// 이 실행이 실제로 몇 편의 행사 글을 열어봤는가. 기준선이 차 있다는 것은
+// 과거의 증거일 뿐, 이번 실행이 무언가를 봤다는 증거가 아니다.
+let examined = 0;
 for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const raw = readFileSync(join(DIR, f), 'utf8');
   const slug = f.replace(/\.md$/, '');
-  if (/^draft:\s*true\s*$/m.test(raw)) continue;
-  if (!/^category:\s*['"]?event/m.test(raw)) continue;
+
+  // Parse FIRST, then decide. Filtering with patterns before parsing was the
+  // third regex mistake in this file: `"category": event` is valid YAML that
+  // `/^category:/` misses, and a body code sample containing an unindented
+  // `draft: true` made a live post look like a draft. Either way the post was
+  // dropped before the parser ever saw it, and a malformed one never reached
+  // `unreadable` — so the audit could print its tick over files it had skipped.
+  let fm;
+  try { fm = matter(raw).data; } catch { unreadable.push(slug); continue; }
+  if (fm?.draft === true) continue;
+  if (!/^event/.test(String(fm?.category ?? ''))) continue;
+  examined++;
 
   // Read the frontmatter with a YAML parser, not a pattern. Two regexes have
   // already been wrong here: the first took the event's ticket link as the hero
@@ -79,8 +92,6 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   // success over photos it had never looked at (found 2026-09-08 by Codex).
   // A parser reads every spelling YAML allows, including quoted keys and inline
   // mappings.
-  let fm;
-  try { fm = matter(raw).data; } catch { unreadable.push(slug); continue; }
   const url = String(fm?.heroImage?.url ?? '');
   if (!/wikimedia\.org/.test(url)) continue;   // thumb.wikimedia.org counts too
 
@@ -124,6 +135,12 @@ for (const w of (LIST ? weak : fresh)) {
 // Only run this after reading the list. It means "a person has looked at every
 // one of these and each photo really is this event or this artist".
 if (process.argv.includes('--record')) {
+  // 읽지 못한 글이 있으면 기준선을 쓰지 않는다. --record 만 이 검사를 건너뛰어
+  // 일반 실행·--list 는 실패하는 입력에도 성공으로 끝났다.
+  if (unreadable.length) {
+    console.log('\nRefusing to record a baseline while posts cannot be read. Fix those first.');
+    process.exit(1);
+  }
   for (const w of weak) reviewed[w.slug] = w.url;
   mkdirSync('data', { recursive: true });
   writeFileSync(BASELINE, JSON.stringify(reviewed, null, 1) + '\n', 'utf8');
@@ -137,8 +154,10 @@ if (fresh.length || unreadable.length) {
   console.log('If it does not, strip the heroImage block; an event may publish photoless.');
   process.exit(1);
 }
-if (!weak.length && !Object.keys(reviewed).length) {
-  console.log('EVENT-HERO-IDENTITY: no event heroes were examined at all — the content path or the category field must have changed.');
+// 기준선이 차 있어도 소용없다. 빈 posts 디렉터리 + 과거 기준선이면 0편을 보고도
+// "사람이 다 읽었다"를 출력했다. 이번 실행이 연 파일 수로 판단한다.
+if (!examined) {
+  console.log('EVENT-HERO-IDENTITY: no published event post was opened at all — the content path or the category field must have changed. Nothing was audited.');
   process.exit(1);
 }
 console.log('✓ every weakly-matched event hero has been read by a person.');
