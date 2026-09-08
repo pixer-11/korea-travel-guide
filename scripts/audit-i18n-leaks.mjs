@@ -11,6 +11,7 @@
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { requireExamined } from './lib/examined.mjs';
 
 const DIST = 'dist';
 const LANGS = ['ko', 'ja', 'es', 'zh'];
@@ -178,6 +179,7 @@ function main() {
   console.log(`\n📋 checked ${checked} page(s) across ${TYPES.length} type(s) × ${LANGS.length} language(s)`);
   if (emptyTypes) console.log(`   ${emptyTypes} type(s) had no pages — verify that is expected.`);
   if (failures) { console.log(`❌ ${failures} leak(s)/problem(s).`); process.exit(1); }
+  requireExamined(checked, '번역 페이지', 'dist 가 비어 있거나 빌드를 안 돌렸다');
   console.log('✅ no English leaks in localized pages.');
 }
 

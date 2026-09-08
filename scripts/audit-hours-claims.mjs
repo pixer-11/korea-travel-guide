@@ -24,6 +24,7 @@ import { readdirSync, readFileSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const DIR = 'src/content/posts';
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -292,6 +293,7 @@ if (process.argv[1]?.endsWith('audit-hours-claims.mjs')) {
     console.log(`BUSYNESS-OUTSIDE-HOURS: ${i.f}`);
     if (verbose) i.found.forEach((x) => console.log(`    ${x}`));
   }
+  requireExamined(files.length, '글', 'src/content/posts 가 비어 있나?');
   const total = issues.length + bzIssues.length;
   console.log(total
     ? `\n❌ ${issues.length} post(s) whose prose contradicts their own opening hours, ` +

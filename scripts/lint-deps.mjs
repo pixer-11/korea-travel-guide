@@ -17,6 +17,7 @@
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import { builtinModules } from 'node:module';
+import { requireExamined } from './lib/examined.mjs';
 
 // `import { execSync } from 'child_process'` — no node: prefix — is still a
 // builtin, not a missing package. Checking the real list beats maintaining one.
@@ -73,6 +74,8 @@ for (const [name, where] of missing) {
   for (const w of where.slice(0, 4)) console.log(`     ${w}`);
   if (where.length > 4) console.log(`     … and ${where.length - 4} more`);
 }
+requireExamined(files.length, '소스 파일');
+
 console.log(missing.size
   ? `\n${missing.size} undeclared package(s). A fresh npm ci can lose these without warning.`
   : `✓ ${files.length} file(s) scanned — every imported package is declared.`);

@@ -17,6 +17,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { requireExamined } from './lib/examined.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CSS = path.join(ROOT, 'src', 'styles', 'global.css');
@@ -60,6 +61,8 @@ const files = [];
 
 const emojiUsers = files.filter((f) => /<Emoji\s/.test(fs.readFileSync(f, 'utf8')))
   .map((f) => path.relative(ROOT, f));
+
+requireExamined(files.length, '컴포넌트 파일', 'src 아래에서 .astro/.ts 를 하나도 못 찾았다');
 
 let bad = false;
 console.log('── 제목 굵기 통일 ──');

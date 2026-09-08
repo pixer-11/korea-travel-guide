@@ -13,6 +13,7 @@
 //
 //   node scripts/check-heading-skips.mjs   (needs dist/ — run after a build)
 import { readdirSync, readFileSync, existsSync } from 'fs';
+import { requireExamined } from './lib/examined.mjs';
 
 // 빌드가 성공했다고 하는데 dist가 없다면 그건 '검사할 것이 없다'가 아니라
 // '검사를 못 했다'이다. exit 0으로 초록불을 켜주던 자리 (2026-09-07 부류 수리).
@@ -43,6 +44,8 @@ let pages = 0;
     }
   }
 })('dist');
+
+requireExamined(pages, '빌드된 페이지', 'dist 가 비어 있거나 빌드를 안 돌렸다');
 
 for (const [jump, info] of bad) console.log(`HEADING-SKIP ${jump} ×${info.n} — first: ${info.page}`);
 console.log(bad.size

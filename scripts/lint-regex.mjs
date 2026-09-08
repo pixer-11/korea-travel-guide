@@ -15,6 +15,7 @@
 //   node scripts/lint-regex.mjs [dir]
 import { readdirSync, readFileSync, statSync } from 'fs';
 import { join } from 'path';
+import { requireExamined } from './lib/examined.mjs';
 
 const ROOT = process.argv[2] || 'scripts';
 
@@ -94,6 +95,8 @@ for (const f of files) {
     }
   });
 }
+
+requireExamined(files.length, '소스 파일');
 
 for (const h of hits) console.log(`${h.f}:${h.n}  ${h.why}\n    ${h.src}`);
 console.log(hits.length

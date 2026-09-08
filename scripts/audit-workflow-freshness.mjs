@@ -20,6 +20,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { requireExamined } from './lib/examined.mjs';
 
 const WF_DIR = process.argv[2] || '.github/workflows';
 const REPO = process.env.GITHUB_REPOSITORY;
@@ -51,6 +52,10 @@ for (const f of readdirSync(WF_DIR).filter((x) => /\.ya?ml$/.test(x))) {
   if (!crons.length) continue;               // event-driven or disabled — not "late"
   workflows.push({ f, name, gap: Math.min(...crons.map(expectedGapDays)) });
 }
+
+// 스케줄 워크플로가 하나도 안 잡혔다면 폴더를 잘못 봤거나 파싱이 깨진 것이다 —
+// "늦은 작업 없음"이 아니다. 이 저장소에는 항상 여러 개가 있다.
+requireExamined(workflows.length, '스케줄 워크플로', `${WF_DIR} 를 읽었는데 cron 이 있는 파일이 없다`);
 
 if (!REPO || !TOKEN) {
   console.log(`ℹ️  ${workflows.length} scheduled workflow(s) found; set GITHUB_REPOSITORY and GITHUB_TOKEN to check their run history.`);

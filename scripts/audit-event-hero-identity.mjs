@@ -38,6 +38,7 @@
 import { readFileSync, readdirSync, existsSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
+import { requireExamined } from './lib/examined.mjs';
 
 const DIR = 'src/content/posts';
 const BASELINE = 'data/event-hero-identity-reviewed.json';
@@ -156,8 +157,6 @@ if (fresh.length || unreadable.length) {
 }
 // 기준선이 차 있어도 소용없다. 빈 posts 디렉터리 + 과거 기준선이면 0편을 보고도
 // "사람이 다 읽었다"를 출력했다. 이번 실행이 연 파일 수로 판단한다.
-if (!examined) {
-  console.log('EVENT-HERO-IDENTITY: no published event post was opened at all — the content path or the category field must have changed. Nothing was audited.');
-  process.exit(1);
-}
+requireExamined(examined, '발행된 이벤트 글',
+  '콘텐츠 경로나 category 필드가 바뀌었나 — 기준선이 차 있어도 이번 실행이 연 파일이 0이면 판정이 아니다');
 console.log('✓ every weakly-matched event hero has been read by a person.');

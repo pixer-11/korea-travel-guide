@@ -8,6 +8,7 @@
 //
 //   node scripts/check-wall-refs.mjs        (needs dist/ — run after a build)
 import { readdirSync, readFileSync, existsSync } from 'fs';
+import { requireExamined } from './lib/examined.mjs';
 
 // 빌드가 성공했다고 하는데 dist가 없다면 그건 '검사할 것이 없다'가 아니라
 // '검사를 못 했다'이다. exit 0으로 초록불을 켜주던 자리 (2026-09-07 부류 수리).
@@ -76,6 +77,8 @@ for (const [what, page] of blank) console.log(`BLANK-TILE ${what} — ${page}`);
 
 const missing = [...refs].filter(([name]) => !existsSync(`dist/wall/${name}`));
 for (const [name, page] of missing.slice(0, 10)) console.log(`WALL-REF-MISSING: ${name} — first used on ${page}`);
+requireExamined(refs.size + blank.size, '사진벽 썸네일 참조', 'dist 가 비어 있거나 빌드를 안 돌렸다');
+
 const bad = missing.length + blank.size;
 console.log(bad
   ? `❌ ${missing.length} missing thumbnail(s) + ${blank.size} tile(s) with no image at all.`

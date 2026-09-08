@@ -14,6 +14,7 @@ import { readdirSync, readFileSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';
 import { heroTitleProblem } from './lib/commons.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 // The same store the vision audit writes and backfill-photos-alt.mjs drains, so
@@ -53,6 +54,7 @@ for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
 }
 
 for (const b of bad) console.log(`${b.problem.padEnd(12)} ${b.f}\n             "${b.fileName}"  (subject: ${b.subject})`);
+requireExamined(examined, '커먼즈 히어로 사진', 'src/content/posts 가 비어 있나?');
 console.log(`\n${bad.length} of ${examined} Commons hero(es) named as something other than a photo of the place.`);
 
 if (fix && bad.length) {

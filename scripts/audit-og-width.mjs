@@ -16,6 +16,7 @@
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import { probeWidth } from './lib/image-width.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const DIST = 'dist';
 const MIN_WIDTH = 1200;
@@ -52,6 +53,7 @@ for (const file of pages(DIST)) {
 }
 
 console.log(`probing ${byUrl.size} distinct og:image(s) from ${ALL ? 'all pages' : 'home + hubs'}…`);
+requireExamined(byUrl.size, '공유 이미지', 'dist 가 비어 있거나 빌드를 안 돌렸다');
 
 const narrow = [];
 const unmeasured = [];

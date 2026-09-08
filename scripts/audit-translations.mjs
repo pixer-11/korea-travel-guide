@@ -26,6 +26,7 @@ import { koBrokenSyllables } from './lib/ko-syllables.mjs';
 // Paragraph-level wrong-language rules live in lib/ so they can be tested
 // without running the whole corpus audit (2026-08-15).
 import { scriptLeakFlags } from './lib/translation-leak.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const ROOTS = [
   ['src/content/i18n', 'posts'],
@@ -185,4 +186,5 @@ if (report.length) {
   for (const r of report) console.log(`  • ${r}`);
   process.exit(1);
 }
+requireExamined(files, '번역 파일', 'src/content/i18n 이 비어 있나?');
 console.log('✓ no wrong-language content found in any translation.');

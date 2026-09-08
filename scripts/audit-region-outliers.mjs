@@ -36,6 +36,7 @@ import { join } from 'node:path';
 import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { findRegionOutliers, DEFAULTS } from './lib/region-outlier.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
 const DIR = dirArg ? dirArg.slice(6) : 'src/content/posts';
@@ -122,6 +123,7 @@ if (hits.length) {
   console.log(`\n${hits.length} post(s) whose region does not match their address or coordinates.`);
   process.exit(1);
 }
+requireExamined(posts.length, '글', `${DIR} 가 비어 있나?`);
 console.log(`✓ region outliers: none among ${posts.length} posts` +
   (scope.size ? ` (${scope.size} in this run's scope, excluded from peers)` : '') +
   ` — regions with < ${DEFAULTS.minPeers} committed posts skipped`);

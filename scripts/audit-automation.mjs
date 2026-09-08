@@ -26,6 +26,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { requireExamined } from './lib/examined.mjs';
 
 // Directory is an argument so the tests can point it at fixtures — a checker
 // that cannot be tested is the next thing to go quietly wrong.
@@ -170,6 +171,8 @@ for (const [f, src] of sources) {
 const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
+
+requireExamined(files.length, '워크플로 파일', `${WF_DIR} 가 비어 있거나 없다`);
 
 const counts = order.map((k) => `${k}=${findings.filter((x) => x.kind === k).length}`).join(' ');
 console.log(`📋 ${files.length} workflow(s) audited — ${findings.length} finding(s): ${counts}`);

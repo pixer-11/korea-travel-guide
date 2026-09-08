@@ -30,6 +30,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, makeJudgedIndex } from './lib/commons-identity.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const POSTS = 'src/content/posts';
 const JUDGED = 'data/photo-identity-judged.json';
@@ -212,4 +213,5 @@ if (STRIP && removable.length) {
   }
 }
 
+requireExamined(files.length, '글', 'src/content/posts 가 비어 있나?');
 console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqOpen.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearbyOpen.length} judged=${judgedOk.length}`);

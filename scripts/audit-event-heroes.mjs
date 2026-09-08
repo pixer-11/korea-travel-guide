@@ -26,6 +26,8 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const STORE = fileURLToPath(new URL('../data/visual-audit.json', import.meta.url));
@@ -83,5 +85,9 @@ for (const f of files) {
     }
   }
 }
+// 판정할 게 없는 것(judged 0)은 정상이지만, 글을 하나도 못 읽은 것은 감사가 아니다.
+// 기억(STORE)을 덮어쓰기 전에 막는다 — 빈 입력으로 기억을 갱신하면 안 된다.
+requireExamined(files.length, '글', `${POSTS} 를 읽었는데 .md 가 없다`);
+
 if (!DRY) await writeFile(STORE, JSON.stringify(store, null, 2), 'utf8');
 console.log(`\n📸 event back-audit: ${judged} judged · ${ok} ok · ${rejected} rejected${rejected && !DRY ? ' (heroes stripped)' : ''} · ${failed} unreadable (left unjudged)${DRY ? ' · DRY' : ''}`);

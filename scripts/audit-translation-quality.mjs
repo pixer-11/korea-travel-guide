@@ -30,6 +30,7 @@ import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import matter from 'gray-matter';
 import { judgeTranslation, judgeStats, LANGS } from './lib/translation-quality.mjs';
+import { requireExamined } from './lib/examined.mjs';
 
 const STORE = 'data/translation-quality.json';
 const CONCURRENCY = 5;
@@ -64,10 +65,12 @@ for (const key of Object.keys(store)) {
 
 // Collect every translated post with its current content hash.
 const jobs = [];
+let seenFiles = 0;
 for (const lang of Object.keys(LANGS)) {
   if (ONLY_LANGS && !ONLY_LANGS.has(lang)) continue;
   const dir = `src/content/i18n/${lang}`;
   for (const f of readdirSync(dir).filter((x) => x.endsWith('.md'))) {
+    seenFiles++;
     const slug = f.replace(/\.md$/, '');
     if (isDraft(slug)) continue;
     const raw = readFileSync(`${dir}/${f}`, 'utf8');
@@ -77,6 +80,10 @@ for (const lang of Object.keys(LANGS)) {
     jobs.push({ key, lang, raw, h });
   }
 }
+// 판정할 게 남지 않은 것(jobs 0)은 정상이지만, 번역 파일 자체를 하나도 못 본 것은
+// 심사한 게 아니다 — 말뭉치 경로가 바뀌면 조용히 "전부 심사됨"으로 보인다.
+requireExamined(seenFiles, '번역 파일', 'src/content/i18n 이 비어 있나?');
+
 if (pruned) console.log(`격리(draft)된 글의 옛 판정 ${pruned}건 제거 — 재공개되면 다시 심사합니다.`);
 
 let done = 0, failed = 0;
