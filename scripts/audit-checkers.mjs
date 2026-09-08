@@ -93,6 +93,30 @@ function sourceWithLocalImports(name, seen = new Set()) {
   return out;
 }
 
+// 두 번째 계약: **검사기는 어딘가에서 실제로 돌아야 한다.**
+// 2026-09-08: 5개가 저장소에 있으면서 어느 워크플로에도, 어느 스크립트에도 걸려
+// 있지 않았다. 그중 셋은 픽서님이 직접 요청해서 만든 것이었다(크론 지각, AI 냄새,
+// 은퇴 리다이렉트). 쓴 사람만 아는 검사는 없는 검사다.
+// 손으로만 쓸 물건은 헤더에 `MANUAL-ONLY: <이유>` 를 적어 그렇다고 밝힌다.
+const WORKFLOWS = join(REPO, '.github', 'workflows');
+const wiredText = (() => {
+  let t = '';
+  try { for (const f of readdirSync(WORKFLOWS)) t += readFileSync(join(WORKFLOWS, f), 'utf8'); } catch { /* 없으면 빈 문자열 */ }
+  try { t += readFileSync(join(REPO, 'package.json'), 'utf8'); } catch { /* 무시 */ }
+  for (const f of readdirSync(SCRIPTS)) {
+    if (!f.endsWith('.mjs') || f.includes('.test.')) continue;
+    try { t += readFileSync(join(SCRIPTS, f), 'utf8'); } catch { /* 무시 */ }
+  }
+  return t;
+})();
+const orphans = checkers.filter((n) => {
+  if (/MANUAL-ONLY:/.test(sourceOf(n))) return false;
+  // 자기 파일에서의 언급은 빼고 센다
+  const mentions = wiredText.split(`scripts/${n}.mjs`).length - 1;
+  const self = (sourceOf(n).split(`scripts/${n}.mjs`).length - 1);
+  return mentions - self <= 0;
+});
+
 const passed = [];   // 빈 저장소에서 통과를 보고함 = 계약 위반
 const held = [];     // 제대로 비-0
 const unclear = [];  // 시간 초과 — 판정 못 함
@@ -136,6 +160,9 @@ const declaresContract = (n) => {
   return /from\s+['"][^'"]*examined\.mjs['"]/.test(src) && /requireExamined\s*\(/.test(src);
 };
 const unproven = [...mutating, ...unsandboxed].filter((n) => !declaresContract(n));
+for (const n of orphans) {
+  console.log(`CHECKER-ORPHAN: ${n} — 어느 워크플로도, 어느 스크립트도 부르지 않는다. 걸어두거나 헤더에 'MANUAL-ONLY: <이유>' 를 적을 것`);
+}
 for (const n of unproven) {
   console.log(`CHECKER-CONTRACT-UNDECLARED: ${n} — 실행으로 잴 수 없는데 requireExamined() 도 부르지 않는다`);
 }
@@ -153,6 +180,6 @@ if (held.length + passed.length + mutating.length + unsandboxed.length === 0) {
 }
 // 시간 초과는 "괜찮다"가 아니라 "모른다"다. 모르는 채로 초록불을 켜는 것이
 // 바로 이 하네스가 잡으려는 부류다(코덱스 09-08).
-if (passed.length || unproven.length || unclear.length) process.exit(1);
+if (passed.length || unproven.length || unclear.length || orphans.length) process.exit(1);
 console.log('✅ 모든 검사기가 "볼 것이 없으면 통과하지 않는다"는 계약을 지킨다 ' +
   `(${held.length}개는 실행으로, ${mutating.length + unsandboxed.length}개는 소스로 확인).`);

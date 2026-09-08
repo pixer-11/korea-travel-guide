@@ -141,6 +141,42 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # 세 검사기가 저장소에 있으면서 어느 워크플로에도 걸려 있지 않았다(2026-09-08).
+      # 쓴 사람만 아는 검사는 없는 검사다:
+      #  · AI 냄새   — 픽서님이 직접 요청한 측정. 글을 막지 않고 재기만 한다.
+      #  · 은퇴 리다이렉트 — 301 이 "같은 주제"로 가는지. 07-26 에 92편을 허브로 보내고
+      #    끝에서 200 이 나온다는 이유로 성공이라 불렀던 그 실수를 다시 재는 검사.
+      #  · 타이포그래피 — 픽서님이 눈으로 잡던 디자인 슬립들.
+      - name: Checks that had no home
+        id: homeless
+        continue-on-error: true
+        run: |
+          # 이름을 그대로 적는다. 반복문 변수로 부르면 "이 검사기가 어디서 도는가"를
+          # 이름으로 검색해도 안 나오고, 그건 걸어둔 것이 아니다(audit-checkers 가
+          # 바로 그렇게 판정했다).
+          set +e
+          fail=0
+          run() { echo "── $1 ──" >> /tmp/homeless.log; shift; "$@" >> /tmp/homeless.log 2>&1 || { echo "$1" >> /tmp/homeless-failed.txt; fail=1; }; }
+          run "AI 냄새"        node scripts/audit-ai-tells.mjs
+          run "은퇴 리다이렉트" node scripts/audit-retired-redirects.mjs
+          run "타이포그래피"    node scripts/audit-typography.mjs
+          exit $fail
+
+      - name: Report those checks
+        if: steps.homeless.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🔎 주간 점검에서 지적이 나왔습니다 (발행·배포에는 영향 없음)"
+            echo "지적한 검사: $(paste -sd', ' /tmp/homeless-failed.txt 2>/dev/null)"
+            echo
+            tail -c 1500 /tmp/homeless.log
+          } > /tmp/homeless-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/homeless-msg.txt" >/dev/null || true
+
       - name: Notify Telegram
         if: always()
         env:

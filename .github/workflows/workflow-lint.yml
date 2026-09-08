@@ -89,6 +89,33 @@ jobs:
           } > /tmp/fresh-msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/fresh-msg.txt" >/dev/null || true
 
+      # 픽서님 08-31 지시("앞으로도 이렇게 예약작업들이 안되면 안된다")로 만든 검사인데
+      # 어느 워크플로에도 걸려 있지 않아 한 번도 돌지 않았다. 지각은 배포를 막을 일이
+      # 아니므로 보고만 한다.
+      - name: Were the scheduled jobs on time?
+        id: punctuality
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          set -o pipefail
+          node scripts/audit-cron-punctuality.mjs 2>&1 | tee /tmp/punctuality.log
+
+      - name: Report lateness
+        if: steps.punctuality.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⏱ 예약 작업이 제 시각에 울리지 않았습니다"
+            echo
+            tail -c 1200 /tmp/punctuality.log
+          } > /tmp/punct-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/punct-msg.txt" >/dev/null || true
+
       - name: Alert on broken workflow files
         if: failure()
         env:

@@ -16,6 +16,9 @@
 //  events are allowed to publish photoless, exactly what the gate does at
 //  publish time ("publishing without hero").
 //
+//  MANUAL-ONLY: 한 번 쓰고 마는 소급 감사다. 비전 API 를 글마다 쓰고 사진을
+//  떼어내므로 예약으로 돌리지 않는다 — 새로 발행되는 글은 발행 게이트가 본다.
+//
 //    node scripts/audit-event-heroes.mjs --dry     # judge, print, change nothing
 //    node scripts/audit-event-heroes.mjs           # judge, record, strip rejects
 // ─────────────────────────────────────────────────────────────
