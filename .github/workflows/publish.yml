@@ -713,6 +713,12 @@ jobs:
           # for a day it was a gate nobody opened. The English validator above
           # cannot see this class: English lets a date stand without a tense.
           node scripts/audit-ended-event-tense-i18n.mjs
+          # The vision gate asks "is this a concert photo?" and a photo of some
+          # OTHER concert says yes. Twelve event guides were carrying a picture of
+          # a different event entirely (2026-09-08) — a Mexican jazz festival on
+          # the Hanoi one, a US Independence Day reception on Uzbekistan's. This
+          # fails when a new event hero turns up whose filename nobody has read.
+          node scripts/audit-event-hero-identity.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'

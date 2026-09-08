@@ -233,6 +233,7 @@ export function koIssueLine(raw) {
     [/(no frontmatter block|does not parse|Nothing was audited|nothing was audited|nothing was checked|built page\(s\) found|dist not found)/i,
       () => '검사를 하지 못했음 — 입력(빌드 결과·파일)이 없거나 읽히지 않음'],
     [/ENDED-EVENT-I18N-TENSE/, () => '끝난 행사인데 번역문이 아직 예정처럼 쓰여 있음'],
+    [/EVENT-HERO-IDENTITY/, () => '행사 대표사진이 다른 행사 사진일 수 있음 — 파일명 확인 필요'],
     [/HELD-BUT-PUBLISHED/, () => '보류 표시가 붙은 글이 아직 공개돼 있음'],
     [/LINK-DESTINATION/, () => '언어 전환 링크가 안내와 다른 곳으로 감'],
     [/^IMAGE MISMATCH suspect/, () => '대표사진이 주제와 무관해 보임'],

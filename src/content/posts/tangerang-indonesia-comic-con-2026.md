@@ -15,16 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://indonesiacomiccon.com
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Darth_Vader%2C_Comic_Con_2026_Chile.jpg/3840px-Darth_Vader%2C_Comic_Con_2026_Chile.jpg
-  credit: 'Photo: Rjcastillo / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Darth_Vader,_Comic_Con_2026_Chile.jpg
-  focus:
-    x: 42
-    'y': 25
-    top: 10
-    bottom: 40
 gallery: []
 tags:
   - tangerang

@@ -24,16 +24,6 @@ faq:
     a: Ticket prices and sale dates weren't specified in the initial announcement. Tickets were sold through the official promoter and verified ticketing platforms; early resale listings for shows like this carry the usual risk of scalped or fake tickets.
 aiGenerated: true
 eventRecurring: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jackie_Lee_in_concert_2017.jpg/3840px-Jackie_Lee_in_concert_2017.jpg
-  credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jackie_Lee_in_concert_2017.jpg
-  focus:
-    x: 39
-    'y': 25
-    top: 14
-    bottom: 36
 ---
 ## Why this show matters
 

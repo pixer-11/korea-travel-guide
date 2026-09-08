@@ -27,14 +27,6 @@ eventRecurring: true
 eventOrganizer:
   name: World Snooker Tour and Chinese Billiards and Snooker Association (CBSA)
   url: https://www.wst.tv
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Masters_Snooker_Final.jpg/1920px-Masters_Snooker_Final.jpg
-  credit: 'Photo: Bvayb / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Masters_Snooker_Final.jpg
-  focus:
-    x: 50
-    'y': 55
 eventFactsAsked: true
 ---
 ## Why go

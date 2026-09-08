@@ -25,14 +25,6 @@ faq:
 aiGenerated: true
 eventRecurring: true
 photoless: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg/3840px-Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
-  credit: 'Photo: Frank Schwichtenberg / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
-  focus:
-    x: 45
-    'y': 35
 eventOrganizer:
   name: Peaches. (피치스그룹코리아 / Peaches Group Korea)
 eventOffers:
