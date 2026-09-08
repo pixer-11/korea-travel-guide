@@ -87,3 +87,51 @@ test('JPEG SOF 헤더에서 폭을 읽는다', () => {
 test('이미지가 아니면 null', () => {
   assert.equal(parseImageWidth(Buffer.from('<html>not an image</html>')), null);
 });
+
+// 2026-09-08: 우리가 직접 만드는 공유 이미지(/og/*.webp)는 전부 WebP 인데
+// 파서는 PNG·JPEG 만 읽었다. 허브 og:image 458장 중 456장이 "못 잼"으로 나왔고,
+// 폭 감사는 원래부터 그 456장을 한 번도 본 적이 없다. WebP 세 변종의 헤더를
+// 직접 만들어 확인한다 — 실제 파일로 sharp 와 대조해 값이 같음을 확인했고,
+// 이 테스트는 그 계산을 네트워크 없이 고정한다.
+const riff = (fourcc, payload) => {
+  const b = Buffer.alloc(12 + 8 + payload.length);
+  b.write('RIFF', 0, 'ascii');
+  b.writeUInt32LE(4 + 8 + payload.length, 4);
+  b.write('WEBP', 8, 'ascii');
+  b.write(fourcc, 12, 'ascii');
+  b.writeUInt32LE(payload.length, 16);
+  payload.copy(b, 20);
+  return b;
+};
+
+test('WebP 손실(VP8 ) 의 폭을 읽는다', () => {
+  const p = Buffer.alloc(20);
+  p[3] = 0x9d; p[4] = 0x01; p[5] = 0x2a;      // payload+3 = 동기 코드
+  p.writeUInt16LE(777, 6);                     // 14비트 폭
+  assert.equal(parseImageWidth(riff('VP8 ', p)), 777);
+});
+
+test('WebP 무손실(VP8L) 의 폭을 읽는다 — 저장값은 폭-1', () => {
+  const p = Buffer.alloc(20);
+  p[0] = 0x2f;
+  p.writeUInt32LE(777 - 1, 1);
+  assert.equal(parseImageWidth(riff('VP8L', p)), 777);
+});
+
+test('WebP 확장(VP8X, 알파) 의 캔버스 폭을 읽는다', () => {
+  const p = Buffer.alloc(20);
+  const w = 333 - 1;
+  p[4] = w & 0xff; p[5] = (w >> 8) & 0xff; p[6] = (w >> 16) & 0xff;
+  assert.equal(parseImageWidth(riff('VP8X', p)), 333);
+});
+
+test('WebP 인데 키프레임이 아니면 짐작하지 않고 null', () => {
+  const p = Buffer.alloc(20); // 동기 코드 없음
+  assert.equal(parseImageWidth(riff('VP8 ', p)), null);
+});
+
+test('RIFF 지만 WEBP 가 아니면 손대지 않는다', () => {
+  const b = riff('VP8 ', Buffer.alloc(20));
+  b.write('WAVE', 8, 'ascii');
+  assert.equal(parseImageWidth(b), null);
+});

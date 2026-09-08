@@ -31,7 +31,37 @@ export function widthVerdict(trueW, needW) {
 // and the very same run quarantined both. One constant, both directions.
 export const UNUSABLE_WIDTH = 640;
 
+// WebP, in its three flavours. Our own mirrored share images are WebP — every
+// one of them — and this parser read only PNG and JPEG, so `probeWidth` came
+// back null for all 456 of the hub og:images on 2026-09-08 and the width audit
+// could see exactly the two that weren't ours. It reported that honestly (it
+// fails when most of a run is unmeasurable) but it had never measured them.
+//
+// Layout: "RIFF" size "WEBP" fourcc size payload…  — payload starts at byte 20.
+//   VP8  (lossy):    3-byte frame tag, 3-byte sync 9d 01 2a, then width (14 bits, LE)
+//   VP8L (lossless): 0x2f signature, then width-1 in the low 14 bits (LE)
+//   VP8X (extended): 4-byte flags, then canvas width-1 as 24-bit LE
+function parseWebpWidth(buf) {
+  if (buf.length < 30) return null;
+  const fourcc = buf.toString('ascii', 12, 16);
+  if (fourcc === 'VP8 ') {
+    if (buf[23] !== 0x9d || buf[24] !== 0x01 || buf[25] !== 0x2a) return null; // not a keyframe
+    return buf.readUInt16LE(26) & 0x3fff;
+  }
+  if (fourcc === 'VP8L') {
+    if (buf[20] !== 0x2f) return null;
+    return (buf.readUInt32LE(21) & 0x3fff) + 1;
+  }
+  if (fourcc === 'VP8X') {
+    return (buf[24] | (buf[25] << 8) | (buf[26] << 16)) + 1;
+  }
+  return null;
+}
+
 export function parseImageWidth(buf) {
+  if (buf.length >= 30 && buf.toString('ascii', 0, 4) === 'RIFF' && buf.toString('ascii', 8, 12) === 'WEBP') {
+    return parseWebpWidth(buf);
+  }
   if (buf.length >= 24 && buf[0] === 0x89 && buf[1] === 0x50) return buf.readUInt32BE(16); // PNG IHDR
   if (buf.length >= 4 && buf[0] === 0xff && buf[1] === 0xd8) { // JPEG: scan for SOFn
     let i = 2;
