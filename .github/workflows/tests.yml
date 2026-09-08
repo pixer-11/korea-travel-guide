@@ -76,6 +76,21 @@ jobs:
         # drops it, and then 34 files die at once on a fresh npm ci (2026-08-06).
         run: node scripts/lint-deps.mjs
 
+      # A helper used without its import is a ReferenceError on a branch tests
+      # rarely walk, and both places it happened were inside a try/catch that
+      # turned it into one warning line while the defect it was meant to repair
+      # stayed live (audit-event-heroes, reresolve-images — 2026-09-08, both
+      # from the same refactor the day before). No linter here catches that.
+      - name: Our own helpers must be imported where they are used
+        run: node scripts/lint-undeclared.mjs
+
+      # The check on the checks: a checker that reports "clean" when it found
+      # nothing to look at is reporting on the environment, not the site. Three
+      # of them did exactly that on 2026-09-08. Runs every checker against an
+      # empty repository and requires it to refuse to pass.
+      - name: Checkers must not pass when they examined nothing
+        run: node scripts/audit-checkers.mjs
+
       # `astro check` had never run anywhere — not in CI, not in a script — so
       # 113 type errors had accumulated where nobody would see them, including
       # real ones (a prop the layout does not declare, a Map lookup that can be

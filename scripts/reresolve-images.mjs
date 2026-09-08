@@ -30,6 +30,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { resolveHero, unsplashNum, eventTopic } from './lib/images.mjs';
 import { markUsedImage, unmarkUsedImage } from './lib/hero-url.mjs';
+import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
