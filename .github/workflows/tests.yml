@@ -84,6 +84,13 @@ jobs:
       - name: Our own helpers must be imported where they are used
         run: node scripts/lint-undeclared.mjs
 
+      # Eleven repair tools rewrite a whole post with matter.stringify, which
+      # re-parses the body it is handed — a body that starts with `---` gets
+      # eaten (414 words to 2, on 2026-09-07). No live post is shaped that way
+      # today, so the tools stay as they are; this catches the day one is.
+      - name: No post is damaged by being rewritten
+        run: node scripts/check-writer-safety.mjs
+
       # The check on the checks: a checker that reports "clean" when it found
       # nothing to look at is reporting on the environment, not the site. Three
       # of them did exactly that on 2026-09-08. Runs every checker against an
