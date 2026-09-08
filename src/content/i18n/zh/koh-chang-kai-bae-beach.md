@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: koh-chang-kai-bae-beach
-srcHash: 'a8a2521b33e9'
+srcHash: '40d25b4ff9e3'
 title: 白艾湾海滩(Kai Bae Beach)：象岛旅行指南（4.5★)
 description: 白艾湾海滩位于象岛西岸，一整片浅色沙滩被礁石分割成三段各具特色的海湾。4.5★（1,351条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 白艾湾海滩位于象岛西岸，一整片浅色沙滩被礁石分割成三段各具特色的海湾。比起克隆普拉奥海滩（Klong Prao）或白沙滩（White Sand Beach），这里更安静、更有生活气息，浅水区适合游泳，沿岸还有一排海鲜大排档。想拍出最美的光线又想避开人群，最好选日出或傍晚时分前往；海滩每天officially开放时间为早上5点到晚上6点。

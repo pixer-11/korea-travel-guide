@@ -76,11 +76,11 @@ updatedDate: '2026-08-29'
 
 You come across it almost by accident, following the flow of the old bazaar streets. Suddenly the ceiling lifts into a cool brick dome pierced with small oculus windows, and the light falls in dusty shafts onto the stalls below. This is Toqi Zargaron, the Dome of the Jewelers, one of the last intact trading domes from Bukhara's Silk Road heyday.
 
-Built in the 16th century under the Shaybanid dynasty, it once housed the city's goldsmiths and jewelers — hence the name. Unlike a museum piece behind glass, it's still a working market. Merchants sell rings, embroidered suzani textiles, and lacquered miniature boxes under the same brickwork that sheltered traders four centuries ago.
+Built in the 16th century under the Shaybanid dynasty, it once housed the city's goldsmiths and jewelers, hence the name. Unlike a museum piece behind glass, it's still a working market. Merchants sell rings, embroidered suzani textiles, and lacquered miniature boxes under the same brickwork that sheltered traders four centuries ago.
 
 ## Getting there and what you'll find
 
-The dome sits at the junction of Bukhara's historic covered bazaar streets, an easy walk from Lyabi-Hauz plaza. Most travelers reach it on foot as part of a loop through the old city — taxis and hotel shuttles can drop you within a few minutes' walk since much of this core is pedestrianized.
+The dome sits at the junction of Bukhara's historic covered bazaar streets, an easy walk from Lyabi-Hauz plaza. Most travelers reach it on foot as part of a loop through the old city, taxis and hotel shuttles can drop you within a few minutes' walk since much of this core is pedestrianized.
 
 Inside, the layout is simple: a raised central octagon under the dome, ringed by smaller shop cells and radiating corridors. Look up first. The brickwork ribbing and small skylights are the real architectural payoff, not the modern souvenir tables beneath them.
 
@@ -109,12 +109,12 @@ If photographs of the empty dome interior matter to you, an early start is non-n
 
 Bukhara's old city rewards a slow, early rhythm, and Toqi Zargaron is no exception. Arriving early, before the stalls are in full swing, tends to make for a quieter visit.
 
-- Pay in Uzbek som — cash is still preferred at most stalls, though card readers are becoming more common for larger jewelry purchases
+- Pay in Uzbek som, cash is still preferred at most stalls, though card readers are becoming more common for larger jewelry purchases
 - Bargaining is expected and normal; a friendly, unhurried tone works better than a hard opening lowball
-- Greet with "Assalomu alaykum" before diving into a price conversation — it's a small courtesy that softens the negotiation
+- Greet with "Assalomu alaykum" before diving into a price conversation. It's a small courtesy that softens the negotiation
 - Skip the urge to photograph vendors or their wares up close without asking first
 - The most common mistake visitors make is treating this as a quick five-minute photo stop and missing the connected domes nearby (Toqi Sarrafon and Toqi Telpak Furushon), which together tell the fuller story of Bukhara's covered trade routes
 
-Because this spot stays under the radar compared to the big-ticket monuments nearby, you won't find organized tour buses stopping here specifically. That's exactly what makes an early, unhurried visit worth the effort — you get the architecture without the crowd noise, and a more genuine read on how the bazaar still functions today.
+Because this spot stays under the radar compared to the big-ticket monuments nearby, you won't find organized tour buses stopping here specifically. That's exactly what makes an early, unhurried visit worth the effort, you get the architecture without the crowd noise, and a more genuine read on how the bazaar still functions today.
 
 Pair it with a walk to Lyabi-Hauz for tea afterward, or continue toward the Kalyan Minaret and Mir-i-Arab Madrasa, both within easy walking distance and part of the same historic core.

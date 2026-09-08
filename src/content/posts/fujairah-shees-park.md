@@ -90,7 +90,7 @@ That contrast is the whole appeal. You come down from the switchbacks, the tempe
 
 ## Getting there
 
-The park sits directly on Al Dhaid Road in Shees, straddling the inland route between Sharjah and Fujairah. Most visitors arrive by car, since there's no practical public transit link out here — it's roughly a 40-50 minute drive from Fujairah city and about an hour from Sharjah or Dubai.
+The park sits directly on Al Dhaid Road in Shees, straddling the inland route between Sharjah and Fujairah. Most visitors arrive by car, since there's no practical public transit link out here. It's roughly a 40-50 minute drive from Fujairah city and about an hour from Sharjah or Dubai.
 
 The road itself is part of the experience: a twisting mountain highway through the Hajar range, with pull-offs for photos before you even reach the gate. Parking is on-site, and on busy weekends it fills quicker than you'd expect for a park this remote.
 
@@ -104,11 +104,11 @@ Inside, the layout is straightforward but effective:
 - Barbecue pits, popular with UAE families on weekend outings
 - Mountain backdrops on nearly every side, good for photos
 
-None of it is flashy — this isn't a landscaped botanical garden — but the setting does the heavy lifting. Bring your own charcoal and grill gear if you want to barbecue, and pack a football or frisbee; the open grass invites it.
+None of it is flashy, this isn't a landscaped botanical garden, but the setting does the heavy lifting. Bring your own charcoal and grill gear if you want to barbecue, and pack a football or frisbee; the open grass invites it.
 
 ## When to go
 
-The park runs 8am to 10pm every day of the week, which makes early evening a sweet spot in warmer months — the mountains cut the sun earlier than you'd expect, and the grounds cool down well before closing. Winter mornings, roughly November through March, are the most comfortable stretch for a full visit with kids.
+The park runs 8am to 10pm every day of the week, which makes early evening a sweet spot in warmer months, the mountains cut the sun earlier than you'd expect, and the grounds cool down well before closing. Winter mornings, roughly November through March, are the most comfortable stretch for a full visit with kids.
 
 Because this is a well-known stop on the inland Sharjah–Fujairah route, weekends and public holidays draw large family groups, especially in the late afternoon and evening. If you want the paths and lawns to yourself, a weekday morning shortly after 8am opening is your best bet.
 
@@ -116,11 +116,11 @@ Because this is a well-known stop on the inland Sharjah–Fujairah route, weeken
 
 Families here treat Shees Park as a half-day outing, not a quick photo stop, so plan accordingly.
 
-- **Pack your own picnic**: coolers, folding chairs, and a portable grill are standard gear — there's little in the way of on-site food vendors to rely on.
+- **Pack your own picnic**: coolers, folding chairs, and a portable grill are standard gear. There's little in the way of on-site food vendors to rely on.
 - **Go early or go late**: arrive close to 8am or after 6pm to skip the midday heat and the thickest crowds, especially Thursday through Saturday.
 - **Pay in cash**: small entry or parking fees at parks like this are typically collected in cash rather than by card, so keep small dirham notes on hand.
 - **Watch your footing**: paths near the rockeries and water features can be uneven, so proper shoes matter more than they look like they would.
-- **Combine it with the drive**: most visitors treat Shees Park as one stop on a bigger Hajar Mountains loop rather than a standalone destination — pair it with a scenic drive toward Masafi or the Fujairah coast.
+- **Combine it with the drive**: most visitors treat Shees Park as one stop on a bigger Hajar Mountains loop rather than a standalone destination, pair it with a scenic drive toward Masafi or the Fujairah coast.
 
 The most common misstep is treating this as a quick 20-minute stop. Given the drive to get here, budget at least an hour or two to actually use the lawns, paths, and play areas rather than just snapping photos at the entrance.
 

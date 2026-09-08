@@ -39,15 +39,15 @@ You feel it the moment you step off the street. Hollywood Road hums with antique
 
 ## What the space feels like
 
-Walk in and the room does the talking before a drink ever hits the counter. Expect the same instinct for atmosphere that made Bar Leone a reservation-only phenomenon — considered lighting, a bar built for watching the shake, staff who move with the unhurried confidence of people who've done this at the world's best rooms.
+Walk in and the room does the talking before a drink ever hits the counter. Expect the same instinct for atmosphere that made Bar Leone a reservation-only phenomenon, considered lighting, a bar built for watching the shake, staff who move with the unhurried confidence of people who've done this at the world's best rooms.
 
-The name nods to a wider, wilder identity than a typical hotel bar, and the design likely leans into that mood rather than shouting it. Come dressed the way you would for a smart Central dinner — Hollywood Road crowds skew polished but not stiff.
+The name nods to a wider, wilder identity than a typical hotel bar, and the design likely leans into that mood rather than shouting it. Come dressed the way you would for a smart Central dinner, Hollywood Road crowds skew polished but not stiff.
 
 ## Sister act: Montana and Bar Leone
 
 Knowing the Bar Leone connection changes how you read this place. Bar Leone made its name as an Italian-accented aperitivo bar that became one of the hardest seats in the city to snag. Montana arrives as its sibling, sharing DNA but carving its own identity under the same two bartenders.
 
-That combination — Antinori's and Caporale's shared eye, sharpened at Sips — is the real draw here, more than any single signature drink you might read about online.
+That combination (Antinori's and Caporale's shared eye, sharpened at Sips) is the real draw here, more than any single signature drink you might read about online.
 
 ## Getting there
 
@@ -70,9 +70,9 @@ Given the buzz around both the bar and its Bar Leone sibling, arriving right at 
 Treat a reservation as close to essential. Hong Kong's most-talked-about bars, Bar Leone included, built their reputations partly on being hard to walk into, and Montana is following the same script.
 
 - Book through the bar's official channels rather than third-party sites, and confirm the reservation the same day.
-- If you can't get a table, ask about walk-in seats at the counter — many Hollywood Road bars hold a few spots for exactly this.
-- Order by asking what the bartenders are excited about that night rather than requesting something off a menu you saw online — programs at bars like this shift often.
+- If you can't get a table, ask about walk-in seats at the counter, many Hollywood Road bars hold a few spots for exactly this.
+- Order by asking what the bartenders are excited about that night rather than requesting something off a menu you saw online, programs at bars like this shift often.
 - Tipping isn't customary in Hong Kong bars the way it is in the US; check your bill, as service charge is often already included.
-- Pace yourself for a night that continues elsewhere — Hollywood Road and nearby Staunton Street have enough bars to wander between, so treat Montana as one stop on a longer crawl rather than the whole evening.
+- Pace yourself for a night that continues elsewhere, Hollywood Road and nearby Staunton Street have enough bars to wander between, so treat Montana as one stop on a longer crawl rather than the whole evening.
 
 Confirm current hours, dress expectations, and booking policy directly with the bar before you set out, since details for a spot this new are still settling.

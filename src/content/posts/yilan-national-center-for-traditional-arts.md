@@ -69,13 +69,13 @@ draft: false
 ---
 ## Why go
 
-You come here for a version of old Taiwan that's been rebuilt rather than merely preserved. The National Center for Traditional Arts isn't a museum behind glass — it's a working village of brick lanes, tile roofs, and open workshops where you watch artisans actually make things.
+You come here for a version of old Taiwan that's been rebuilt rather than merely preserved. The National Center for Traditional Arts isn't a museum behind glass. It's a working village of brick lanes, tile roofs, and open workshops where you watch artisans actually make things.
 
 Blacksmiths hammer, papermakers press pulp, glove-puppet carvers shave wood into tiny faces. The Dongshan River runs alongside the whole site, giving the place an unhurried, waterside pace even when the lanes are busy.
 
 ## Getting there
 
-The center sits in Wujie Township, on Wubin Road, about 15 minutes by car or taxi from Yilan Train Station. There's no direct rail link, so most visitors either drive, taxi, or catch one of the shuttle buses that run from Yilan or Luodong station on weekends and holidays — check current shuttle schedules before you go, since they shift seasonally.
+The center sits in Wujie Township, on Wubin Road, about 15 minutes by car or taxi from Yilan Train Station. There's no direct rail link, so most visitors either drive, taxi, or catch one of the shuttle buses that run from Yilan or Luodong station on weekends and holidays. Check current shuttle schedules before you go, since they shift seasonally.
 
 If you're staying in Yilan City, a taxi is the simplest option and shouldn't take long given the short distance. Some visitors combine the trip with a stop at nearby Luodong Night Market or the Choua Ang Marsh area, both within easy driving distance.
 
@@ -83,11 +83,11 @@ If you're staying in Yilan City, a taxi is the simplest option and shouldn't tak
 
 Inside, the village splits into themed lanes: Wenchang Street for crafts, a waterfront promenade for river views, and a cluster of performance venues.
 
-- **Heping Bridge** — the arched footbridge over the Dongshan River, best for a wide photo of the whole complex.
-- **Formosa Puppet Art Museum area** — glove-puppet (budaixi) demonstrations, a Taiwanese art form with centuries of history.
-- **Craft workshops** — indigo dyeing, paper umbrella painting, and traditional pastry-making, most with hands-on stations.
-- **Xiqu Center / outdoor theatres** — scheduled Taiwanese opera and puppet shows throughout the day.
-- **Snack stalls** — look for regional Yilan snacks along the lanes if you want a quick bite between workshops.
+- **Heping Bridge**, the arched footbridge over the Dongshan River, best for a wide photo of the whole complex.
+- **Formosa Puppet Art Museum area**, glove-puppet (budaixi) demonstrations, a Taiwanese art form with centuries of history.
+- **Craft workshops**, indigo dyeing, paper umbrella painting, and traditional pastry-making, most with hands-on stations.
+- **Xiqu Center / outdoor theatres**, scheduled Taiwanese opera and puppet shows throughout the day.
+- **Snack stalls**. Look for regional Yilan snacks along the lanes if you want a quick bite between workshops.
 
 Give yourself three to four hours minimum. If you want to catch a full performance schedule or linger in the workshops, a half day is more realistic.
 
@@ -97,17 +97,17 @@ The center is open every day, 9am to 6pm, with no weekday variation. That daily 
 
 Weekends between 10am and 5pm are the busiest stretch, with tour groups and family crowds filling the main lanes. Weekday visits stay calm across the entire 9am–6pm window, so if your schedule allows a Tuesday or Wednesday, take it.
 
-Spring and autumn bring mild temperatures for walking the riverside paths. Summer in Yilan runs hot and humid, and the region is known for rain — bring a light rain jacket regardless of season, since weather here changes quickly.
+Spring and autumn bring mild temperatures for walking the riverside paths. Summer in Yilan runs hot and humid, and the region is known for rain. Bring a light rain jacket regardless of season, since weather here changes quickly.
 
 ## How to visit like a local
 
 This is one of Taiwan's most-visited cultural sites, so the smart move is beating the crowds rather than pretending you'll find it quiet.
 
-- **Arrive at 9am**, especially on weekends — the first hour before tour buses arrive is the closest you'll get to empty lanes.
+- **Arrive at 9am**, especially on weekends. The first hour before tour buses arrive is the closest you'll get to empty lanes.
 - **Weekdays are calm all day**, not just in the morning, if your trip dates are flexible.
 - **Pay by mobile or card** at most craft stalls and larger shops; smaller food vendors may prefer cash, so carry some in Taiwan dollars.
-- **Check the daily performance board** near the entrance when you arrive — puppet and opera show times shift, and locals plan their loop around them rather than the other way around.
+- **Check the daily performance board** near the entrance when you arrive, puppet and opera show times shift, and locals plan their loop around them rather than the other way around.
 - **Skip the main lane at midday on weekends** and cut through the riverside promenade instead; it's the same route with far less foot traffic.
-- The common tourist mistake is treating this as a quick one-hour photo stop. The workshops and performances are the actual substance — rushing through misses most of what makes it worthwhile.
+- The common tourist mistake is treating this as a quick one-hour photo stop. The workshops and performances are the actual substance, rushing through misses most of what makes it worthwhile.
 
 Wear shoes you don't mind getting a little dusty; the lanes are brick and gravel, and the site is large enough that you'll cover real ground between the river paths and the craft streets.

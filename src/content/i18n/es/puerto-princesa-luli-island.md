@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puerto-princesa-luli-island
-srcHash: '90f563c7c882'
+srcHash: '71fe53673689'
 title: 'Isla Luli: Guía de viaje de Puerto Princesa (4.3★)'
 description: 'La isla Luli es una franja de arena blanca frente a Puerto Princesa que solo aparece por completo con la marea baja, a la que se llega tras un viaje en bote de 30 a 40 minutos desde el muelle de Santa Lourdes, en la bahía de Honda. 4.3★ (1.043 reseñas): esto es lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La isla Luli es una franja de arena blanca frente a Puerto Princesa que solo aparece por completo con la marea baja, a la que se llega tras un viaje en bote de 30 a 40 minutos desde el muelle de Santa Lourdes, en la bahía de Honda. Normalmente se visita como parte de un tour de island-hopping por la bahía de Honda, junto con la isla Starfish o la isla Cowrie. Los fines de semana la afluencia llega a su punto máximo entre las 8am y las 3pm, así que conviene salir temprano o, si te alojas cerca y pasas la noche, aprovechar el tramo más tranquilo de la tarde-noche.

@@ -78,11 +78,11 @@ Given Nha Trang's traffic patterns, Grab (Vietnam's dominant ride-hailing app) i
 
 ## What to eat
 
-Là Nhà's menu leans into the strengths of central Vietnamese and coastal cooking: expect hotpot (lẩu) options bubbling tableside, grilled meats and seafood cooked on small tabletop braziers, fresh spring rolls, and clay-pot dishes. The format rewards going in a group — three or four diners can order a spread of 4-5 dishes plus rice and share everything, which is both more economical and more representative of how the food is meant to be eaten.
+Là Nhà's menu leans into the strengths of central Vietnamese and coastal cooking: expect hotpot (lẩu) options bubbling tableside, grilled meats and seafood cooked on small tabletop braziers, fresh spring rolls, and clay-pot dishes. The format rewards going in a group. Three or four diners can order a spread of 4-5 dishes plus rice and share everything, which is both more economical and more representative of how the food is meant to be eaten.
 
 Portion sizes are built for this kind of communal dining rather than individual plates, so solo diners may find better value elsewhere unless they're comfortable ordering smaller portions or leftovers.
 
-Price level is moderate for Nha Trang — not a budget street stall, but far from upscale hotel dining. Expect the bill per person to land in a mid-range bracket by Vietnamese restaurant standards, though exact menu prices should be confirmed on-site since they can shift with seasonal seafood costs.
+Price level is moderate for Nha Trang, not a budget street stall, but far from upscale hotel dining. Expect the bill per person to land in a mid-range bracket by Vietnamese restaurant standards, though exact menu prices should be confirmed on-site since they can shift with seasonal seafood costs.
 
 ## When to go
 
@@ -92,6 +92,6 @@ Nha Trang's dry season (roughly February through August) is the most comfortable
 
 ## Nearby & tips
 
-Because Hồng Bàng is a few streets back from the shoreline, pair a meal here with an evening stroll along Trần Phú Beach promenade afterward, or combine it with a visit to the Nha Trang Night Market if timing allows — both are a short ride away. Given the restaurant's popularity, consider that peak-hour service can be busier and slightly slower than off-peak times; if you're not in a rush, this is a place to settle in rather than eat and run.
+Because Hồng Bàng is a few streets back from the shoreline, pair a meal here with an evening stroll along Trần Phú Beach promenade afterward, or combine it with a visit to the Nha Trang Night Market if timing allows. Both are a short ride away. Given the restaurant's popularity, consider that peak-hour service can be busier and slightly slower than off-peak times; if you're not in a rush, this is a place to settle in rather than eat and run.
 
 As with most high-volume Vietnamese restaurants, cash and major e-wallets are commonly accepted, but it's worth carrying some Vietnamese đồng as backup. Vegetarian and lighter options exist on the menu alongside the meat- and seafood-heavy staples, so mixed dietary groups shouldn't have trouble finding something to order.

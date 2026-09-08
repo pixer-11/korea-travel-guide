@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: incheon-edc-korea-electric-daisy-carnival
-srcHash: 'dd0c2688766c'
+srcHash: 'f5a26073fd1f'
 title: EDC Korea（电子雏菊嘉年华）：日期、门票与场地指南（仁川）
 description: EDC Korea（电子雏菊嘉年华）将于2026年10月3日至4日在韩国仁川举行——本文告诉你这是一场怎样的活动、时间地点，以及该如何提前规划行程。
 quickAnswer: EDC Korea将于2026年10月3日至4日回归仁川INSPIRE娱乐度假村（INSPIRE Entertainment Resort），压轴阵容包括Tiësto、DJ Snake、FISHER、Alok，以及ILLENIUM与Dabin的b2b场次。门票一旦开售，请务必只通过EDC Korea或Insomniac官方渠道购买，行程安排可以仁川国际机场为中心，度假村距机场仅几分钟车程。具体的表演时间、开场时间及最终阵容，请在活动临近时以官网信息为准。

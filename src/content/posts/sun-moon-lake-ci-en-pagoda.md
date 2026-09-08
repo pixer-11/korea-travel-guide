@@ -57,13 +57,13 @@ draft: false
 ---
 ## Why go
 
-You come for one thing: the view from the top tier, where Sun Moon Lake spreads out below in a single unbroken sweep. At 9 stories and octagonal in shape, Ci'en Pagoda is deliberately positioned at the lake's highest accessible point on the southern shore. The tower itself, finished in 1971, was built by Chiang Kai-shek as a tribute to his mother — a fact that gives the site a quiet, personal weight beyond its postcard views.
+You come for one thing: the view from the top tier, where Sun Moon Lake spreads out below in a single unbroken sweep. At 9 stories and octagonal in shape, Ci'en Pagoda is deliberately positioned at the lake's highest accessible point on the southern shore. The tower itself, finished in 1971, was built by Chiang Kai-shek as a tribute to his mother, a fact that gives the site a quiet, personal weight beyond its postcard views.
 
 ## Getting there
 
 Ci'en Pagoda sits in Yuchi Township, on the lake's south side, away from the main Shuishe village cluster. Most visitors reach it by the lake's round-the-lake shuttle bus, getting off at the Ci'en Pagoda stop, or by bike along the lakeside path that connects to Xuanguang Temple.
 
-If you're driving or scootering, there's parking near the base, but the final approach is on foot. Boats also stop nearby at the Xuanzang Temple pier — a scenic, if slightly longer, way in.
+If you're driving or scootering, there's parking near the base, but the final approach is on foot. Boats also stop nearby at the Xuanzang Temple pier, a scenic, if slightly longer, way in.
 
 ## The climb and the view
 
@@ -71,7 +71,7 @@ From the entrance, a paved path winds uphill through forest before reaching the 
 
 Inside, a spiral staircase takes you up through all nine levels. Each floor has small window openings that frame slices of the lake below, but the real payoff is the open-air top platform.
 
-From there, the water curves away in both directions, ringed by green hills and, on clear days, cut through with the shifting light that gives Sun Moon Lake its name. Bring water — there's little shade on the final stretch, and the stairwell inside the pagoda can feel close and warm in summer.
+From there, the water curves away in both directions, ringed by green hills and, on clear days, cut through with the shifting light that gives Sun Moon Lake its name. Bring water. There's little shade on the final stretch, and the stairwell inside the pagoda can feel close and warm in summer.
 
 ## What else to see nearby
 
@@ -87,12 +87,12 @@ Arriving close to opening, or after 3pm, gives you a real chance at having the t
 
 ## How to visit like a local
 
-This is a well-known stop on every Sun Moon Lake itinerary, so the smart move isn't finding a secret entrance — it's timing your visit around everyone else's.
+This is a well-known stop on every Sun Moon Lake itinerary, so the smart move isn't finding a secret entrance. It's timing your visit around everyone else's.
 
 - Go right at 9:00am opening or in the last hour before 4:30pm close, when tour buses have moved on.
 - Wear real shoes; the uphill path and interior stairs are steep enough that sandals become a liability.
-- Skip the shuttle bus queue at midday and cycle or walk the lakeside path instead — it's flatter and quieter than it looks on the map.
+- Skip the shuttle bus queue at midday and cycle or walk the lakeside path instead. It's flatter and quieter than it looks on the map.
 - Combine the visit with Xuanguang Temple's food stalls rather than eating near the pagoda itself, since options at the top are limited.
 - Carry small NT$ cash for snack stalls along the trail; card acceptance is inconsistent at these smaller vendors.
 
-The most common tourist mistake here is treating it as a five-minute photo stop. Give the climb time, and give the top platform a few extra minutes once you're there — the light and lake color shift noticeably as clouds move, and a longer pause pays off more than a quick loop of the stairs.
+The most common tourist mistake here is treating it as a five-minute photo stop. Give the climb time, and give the top platform a few extra minutes once you're there, the light and lake color shift noticeably as clouds move, and a longer pause pays off more than a quick loop of the stairs.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lombok-sendang-gile-waterfall
-srcHash: '7fbff7c6f655'
+srcHash: '9a9049ed2bb6'
 title: 仙当吉勒瀑布(Sendang Gile Waterfall):龙目岛旅行指南
 description: 仙当吉勒(Sendang Gile)是位于林贾尼火山(Mount Rinjani)南坡的一处双层瀑布，从龙目岛北部的塞纳鲁村(Senaru)出发，沿一段短途且维护良好的步道即可抵达。
 quickAnswer: 仙当吉勒是位于林贾尼火山南坡的一处双层瀑布，从龙目岛北部的塞纳鲁村出发，沿一段短途且维护良好的步道即可抵达。建议预留1.5-2小时游览仙当吉勒和地势更高的丘克莱普瀑布(Tiu Kelep),穿防滑凉鞋或徒步鞋前往，并尽量选择清晨(上午9点前)出发，以避开旅行团和午后降雨。

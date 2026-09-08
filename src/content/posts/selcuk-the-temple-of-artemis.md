@@ -79,17 +79,17 @@ It's hard to overstate what used to stand here. This was one of the Seven Wonder
 
 There's a strange power in how little remains. You stand where Pliny the Elder, Alexander the Great, and pilgrims from across the ancient Mediterranean once stood, and all you see is grass, water, and rubble.
 
-Bring the mental image, not the expectation of grandeur. The information panels near the entrance help — read them before you walk the loop, not after.
+Bring the mental image, not the expectation of grandeur. The information panels near the entrance help, read them before you walk the loop, not after.
 
 ## Getting there
 
 The site sits about 1.5km northwest of central Selçuk, an easy 20-minute walk from the train station or Selçuk's Ephesus Museum. Most visitors combine it on foot with the Basilica of St. John and Isa Bey Mosque, both a short walk away on the same side of town.
 
-If you're coming from Ephesus itself, it's roughly 3km — a short taxi or dolmuş ride, or a flat 35-minute walk if you don't mind the roadside stretch. There's no dedicated parking lot to speak of, but street parking near the site is usually easy to find.
+If you're coming from Ephesus itself, it's roughly 3km, a short taxi or dolmuş ride, or a flat 35-minute walk if you don't mind the roadside stretch. There's no dedicated parking lot to speak of, but street parking near the site is usually easy to find.
 
 ## What you'll actually see
 
-Manage expectations here — this is a field, not a reconstructed monument.
+Manage expectations here. This is a field, not a reconstructed monument.
 
 - One re-erected column, assembled from mismatched fragments, often topped with a stork's nest in spring and summer
 - Scattered column bases and marble chunks half-submerged in marshy water
@@ -100,18 +100,18 @@ Wear shoes you don't mind getting muddy near the water's edge, especially after 
 
 ## When to go
 
-The site is open daily from 8am to 7pm, with no midday closure. Weekday mornings are consistently the quietest stretch, and weekends stay calm right through the same 8am–7pm window too — except for one predictable dip. Tour groups tend to cluster on weekend afternoons, busiest from about 2pm to 6pm, so aim earlier if you want the field to yourself.
+The site is open daily from 8am to 7pm, with no midday closure. Weekday mornings are consistently the quietest stretch, and weekends stay calm right through the same 8am–7pm window too, except for one predictable dip. Tour groups tend to cluster on weekend afternoons, busiest from about 2pm to 6pm, so aim earlier if you want the field to yourself.
 
 Spring brings the storks back to nest on the column, which is arguably the best reason to time a visit for April through June.
 
 ## How to visit like a local
 
-This isn't a ticketed site, so there's no booking, no gate, and no queue to navigate — just walk in.
+This isn't a ticketed site, so there's no booking, no gate, and no queue to navigate, just walk in.
 
 - Pair it with Ayasuluk Hill and the Basilica of St. John in one loop rather than a special trip alone
 - Go early or late in the day; because it's free and outdoors, there's no opening rush, so arriving right at 8am gets you the field with almost nobody in it
-- Skip the urge to linger for photos of "ruins" in the traditional sense — locals treat this as a 20-minute reflective stop, not a landmark to explore for hours
+- Skip the urge to linger for photos of "ruins" in the traditional sense, locals treat this as a 20-minute reflective stop, not a landmark to explore for hours
 - Don't confuse this with the Ephesus archaeological site itself; taxi drivers sometimes assume you mean Ephesus, so specify "Artemis Tapınağı" (Temple of Artemis) by name
-- Carry small cash for the tea garden near the entrance if you want a çay afterward — it's a popular pause spot for both visitors and locals passing through
+- Carry small cash for the tea garden near the entrance if you want a çay afterward. It's a popular pause spot for both visitors and locals passing through
 
 Since this is a well-visited landmark rather than a hidden find, the smartest local trick is simply timing: come outside the weekend afternoon peak and you'll likely have long stretches of the column and marsh entirely to yourself.

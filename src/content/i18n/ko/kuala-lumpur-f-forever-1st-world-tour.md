@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-f-forever-1st-world-tour
-srcHash: 'c421917c8259'
+srcHash: 'bd48735cc72b'
 title: 'F✦FOREVER 1st 월드투어: 알아두어야 할 것들 (쿠알라룸푸르)'
 description: F✦FOREVER 1st 월드투어가 2026년 8월 7일 쿠알라룸푸르 부킷 잘릴의 악시아타 아레나에서 열릴 예정이었습니다. 어떤 공연이었고 누가 무대에 올랐는지 정리했습니다.
 quickAnswer: F✦FOREVER는 F4로 유명한 저동욱(Jerry Yan), 오건호(Van Ness Wu), 주효천(Vic Chou)에 메이데이(Mayday)의 아신(Ashin)이 합류한 슈퍼그룹으로, 2026년 8월 7일 쿠알라룸푸르 부킷 잘릴의 악시아타 아레나에서 1st 월드투어를 선보일 예정이었습니다. 티켓은 공식 프로모터와 인증받은 티켓 판매 파트너를 통해 판매되었습니다.

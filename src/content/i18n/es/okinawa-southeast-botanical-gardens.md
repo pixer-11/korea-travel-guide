@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-southeast-botanical-gardens
-srcHash: 'a5d76fcea7f3'
+srcHash: '839b04fee918'
 title: 'Jardines Botánicos del Sudeste: Guía de viaje de Okinawa'
 description: Los Jardines Botánicos del Sudeste (東南植物楽園) en Okinawa City son un extenso jardín tropical con lagos, invernaderos de orquídeas y encuentros con animales, ideales para visitar en una escapada de medio día combinada con un coche de alquiler, ya que se encuentran en el interior, alejados de las rutas de autobús costeras.
 quickAnswer: Los Jardines Botánicos del Sudeste (東南植物楽園) en Okinawa City son un extenso jardín tropical con lagos, invernaderos de orquídeas y encuentros con animales, ideales para visitar en una escapada de medio día combinada con un coche de alquiler, ya que se encuentran en el interior, alejados de las rutas de autobús costeras. Ve por la mañana para evitar el calor del mediodía y comprueba si la temporada de iluminación nocturna está en marcha si quieres disfrutar de una versión muy distinta de los mismos jardines, iluminados con farolillos.

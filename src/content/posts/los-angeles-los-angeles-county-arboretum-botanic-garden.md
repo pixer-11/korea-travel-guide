@@ -99,7 +99,7 @@ Bring good shoes. Paths are mostly flat but stretch out further than they look o
 
 ## When to go
 
-Crowds build steadily on weekends, peaking between 10am and 5pm — that's the window to avoid if you want breathing room around the lagoon or cottage. Weekday afternoons, especially 4pm to 7pm, are noticeably calmer. On weekends, the last hour before closing, 6pm to 7pm, is your quietest option.
+Crowds build steadily on weekends, peaking between 10am and 5pm. That's the window to avoid if you want breathing room around the lagoon or cottage. Weekday afternoons, especially 4pm to 7pm, are noticeably calmer. On weekends, the last hour before closing, 6pm to 7pm, is your quietest option.
 
 Spring brings blooming jacarandas and camellias, while fall light through the oaks is softer and better for photos. Midsummer afternoons run hot with little breeze, so morning visits work better if you're set on a weekend trip.
 
@@ -107,13 +107,13 @@ The garden is open daily from 9am to 7pm year-round, though it's worth double-ch
 
 ## How to visit like a local
 
-Because this is a heavily visited garden rather than a quiet secret, the smart move is timing, not stealth. Go on a weekday afternoon after 4pm if your schedule allows — the crowds thin dramatically and the peacocks tend to wander into more open, photogenic spots once the foot traffic drops.
+Because this is a heavily visited garden rather than a quiet secret, the smart move is timing, not stealth. Go on a weekday afternoon after 4pm if your schedule allows, the crowds thin dramatically and the peacocks tend to wander into more open, photogenic spots once the foot traffic drops.
 
 - Entry is ticketed at the gate; card payment is standard, though it's worth carrying a little cash as backup.
-- There's no need to book ahead for general admission — lines move quickly outside of holiday weekends.
+- There's no need to book ahead for general admission, lines move quickly outside of holiday weekends.
 - Peacocks are wild and protected here; don't chase or feed them, no matter how photogenic they get.
-- Skip the midday weekend crush — 10am to 5pm on Saturdays and Sundays is when tour groups and families cluster hardest around the cottage and lagoon.
+- Skip the midday weekend crush, 10am to 5pm on Saturdays and Sundays is when tour groups and families cluster hardest around the cottage and lagoon.
 - Pack water and a hat. Shade is inconsistent, and the walk between sections adds up faster than expected.
 
-The mistake most first-timers make is treating this as a quick 45-minute stop. The grounds reward a slower pace — budget two to three hours if you want to actually see the tropical greenhouse, the bird sanctuary, and the historic buildings without rushing between them.
+The mistake most first-timers make is treating this as a quick 45-minute stop. The grounds reward a slower pace. Budget two to three hours if you want to actually see the tropical greenhouse, the bird sanctuary, and the historic buildings without rushing between them.
 

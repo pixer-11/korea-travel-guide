@@ -31,11 +31,11 @@ draft: false
 
 ## Why NÔM matters right now
 
-Every dining scene has a moment when a single opening reshuffles the conversation, and in Ho Chi Minh City that opening is NÔM. Chef Chris Fong's restaurant didn't just get a nod from the newly-arrived Vietnam MICHELIN Guide — it took home the 2026 Opening of the Year award, the kind of recognition that turns a restaurant into a talking point across the city's food circles almost overnight.
+Every dining scene has a moment when a single opening reshuffles the conversation, and in Ho Chi Minh City that opening is NÔM. Chef Chris Fong's restaurant didn't just get a nod from the newly-arrived Vietnam MICHELIN Guide, it took home the 2026 Opening of the Year award, the kind of recognition that turns a restaurant into a talking point across the city's food circles almost overnight.
 
 Saigon has no shortage of buzzy new rooms, but few arrive with this level of validation attached before the first anniversary candles are even lit.
 
-You feel that momentum before you've tasted anything. Word like this travels fast among a city's serious eaters — the kind who track Michelin Selected lists the way others track football tables — and a fresh Opening of the Year title means tables fill quickly and stay hard to get. If you're building a food-focused trip to Vietnam and want to see where the local scene is heading rather than where it's already been, this is a name worth prioritizing on the list.
+You feel that momentum before you've tasted anything. Word like this travels fast among a city's serious eaters, the kind who track Michelin Selected lists the way others track football tables, and a fresh Opening of the Year title means tables fill quickly and stay hard to get. If you're building a food-focused trip to Vietnam and want to see where the local scene is heading rather than where it's already been, this is a name worth prioritizing on the list.
 
 ## What sets it apart
 
@@ -43,22 +43,22 @@ NÔM's calling card is modern Vietnamese cooking under Chef Chris Fong, the kind
 
 Exact dishes and pricing shift as any new menu settles in, so rather than promise you a specific plate, treat a visit as a chance to see a chef's current thinking rather than a fixed script.
 
-The "Opening of the Year" framing also tells you something practical: this is a newer address, still finding its rhythm, which means details like table turnover, seating layout, and even the exact hours can change faster than at an established institution. Treat anything you read online — including this guide — as a starting point, and verify the specifics directly with the restaurant before you plan an evening around it.
+The "Opening of the Year" framing also tells you something practical: this is a newer address, still finding its rhythm, which means details like table turnover, seating layout, and even the exact hours can change faster than at an established institution. Treat anything you read online, including this guide, as a starting point, and verify the specifics directly with the restaurant before you plan an evening around it.
 
 ## Getting there and planning around it
 
-Ho Chi Minh City's most talked-about new openings tend to cluster in and around the central districts favored by both residents and visitors, and a restaurant with this profile is easiest to reach by taxi or ride-hailing app (Grab is the standard here) rather than trying to navigate exact bus routes. Because the address, hours, and reservation system for a newly awarded restaurant can shift in its first year — sometimes expanding seating, sometimes tightening booking windows in response to demand — confirm the current location and opening hours through the restaurant's official channels or a trusted reservation platform shortly before you go, rather than relying on older listings.
+Ho Chi Minh City's most talked-about new openings tend to cluster in and around the central districts favored by both residents and visitors, and a restaurant with this profile is easiest to reach by taxi or ride-hailing app (Grab is the standard here) rather than trying to navigate exact bus routes. Because the address, hours, and reservation system for a newly awarded restaurant can shift in its first year (sometimes expanding seating, sometimes tightening booking windows in response to demand) confirm the current location and opening hours through the restaurant's official channels or a trusted reservation platform shortly before you go, rather than relying on older listings.
 
 Build in a full evening rather than a quick stop. Restaurants that cook with this level of intention are generally built around a paced, multi-course rhythm, not a fast in-and-out meal, so this suits a dedicated dinner rather than a stop wedged between other plans.
 
 ## How to visit like a local
 
-In a city where a fresh Michelin accolade can mean a restaurant is booked out weeks in advance, the single biggest mistake visitors make is assuming they can walk in. Reserve as early as you can once your travel dates are set, and reconfirm the booking a day or two ahead — a courtesy that's increasingly expected at in-demand Saigon restaurants, where no-shows can cost a table to someone else on a waiting list.
+In a city where a fresh Michelin accolade can mean a restaurant is booked out weeks in advance, the single biggest mistake visitors make is assuming they can walk in. Reserve as early as you can once your travel dates are set, and reconfirm the booking a day or two ahead, a courtesy that's increasingly expected at in-demand Saigon restaurants, where no-shows can cost a table to someone else on a waiting list.
 
 Dress a notch smarter than typical Saigon streetwear; a room with this kind of recognition tends to draw an evening crowd doing the same. Payment at contemporary fine-dining and Michelin-recognized spots across the city is almost always by card, with service charges sometimes built in, so it's worth asking when you book whether tipping on top is expected or unnecessary.
 
-And if you want the fullest picture of what makes NÔM distinct, go in with curiosity rather than a fixed idea of "authentic" Vietnamese food — this is a kitchen being celebrated precisely for pushing past that expectation.
+And if you want the fullest picture of what makes NÔM distinct, go in with curiosity rather than a fixed idea of "authentic" Vietnamese food. This is a kitchen being celebrated precisely for pushing past that expectation.
 
 ## Nearby, before or after
 
-Pair a NÔM dinner with a wander through whichever central district it sits in — Ho Chi Minh City's downtown core rewards an unhurried walk past colonial-era architecture, rooftop bars, and late-night café culture. Since exact neighboring streets depend on NÔM's current address, check a map once you've confirmed the reservation so you can plan a pre-dinner coffee or a post-dinner nightcap within easy walking distance.
+Pair a NÔM dinner with a wander through whichever central district it sits in, Ho Chi Minh City's downtown core rewards an unhurried walk past colonial-era architecture, rooftop bars, and late-night café culture. Since exact neighboring streets depend on NÔM's current address, check a map once you've confirmed the reservation so you can plan a pre-dinner coffee or a post-dinner nightcap within easy walking distance.

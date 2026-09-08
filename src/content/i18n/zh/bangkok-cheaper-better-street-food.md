@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-cheaper-better-street-food
-srcHash: 'b034828afcbb'
+srcHash: 'cfccca3e7a55'
 title: 曼谷街头美食新去处:物美价廉的西罗街20巷
 description: 曼谷挽叻区(Bang Rak)西罗路(Silom Road)边上，藏着一条只在午市营业的窄巷——西罗20巷(Soi Silom 20)。这里聚集了多个小吃摊位，其中人气很高的一家就是"物美价廉街头美食"(Cheaper & Better Street Food)。塑料小凳、一盘不到100泰铢的简餐、满眼是本地上班族，就是这里的日常。
 quickAnswer: 曼谷挽叻区(Bang Rak)西罗路(Silom Road)边上，藏着一条只在午市营业的窄巷——西罗20巷(Soi Silom 20)。这里聚集了多个小吃摊位，其中人气很高的一家就是"物美价廉街头美食"(Cheaper & Better Street Food)。塑料小凳、一盘不到100泰铢的简餐、满眼是本地上班族，就是这里的日常。建议工作日中午12点到下午1点半之间前往，这段时间巷子里人气最旺、食材也最新鲜，记得多备些零钱。从沙拉当(Sala Daeng)BTS站或西罗(Silom)MRT站步行大约5-8分钟即可到达。

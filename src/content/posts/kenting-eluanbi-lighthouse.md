@@ -89,7 +89,7 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-This isn't just a lighthouse — it's a fortified compound with a story. Built in 1883 under the Qing dynasty, Eluanbi was armed with cannons and a moat to fend off hostile locals after shipwrecked sailors had clashed with Indigenous Paiwan communities nearby.
+This isn't just a lighthouse. It's a fortified compound with a story. Built in 1883 under the Qing dynasty, Eluanbi was armed with cannons and a moat to fend off hostile locals after shipwrecked sailors had clashed with Indigenous Paiwan communities nearby.
 
 The tower itself is squat, gleaming white, and still an active aid to navigation, marking the point where the Taiwan Strait meets the Pacific and the Bashi Channel. You come as much for the setting as the structure: coral reef terrain, wind-bent pandanus trees, and a coastline that feels genuinely like land running out.
 
@@ -97,7 +97,7 @@ The tower itself is squat, gleaming white, and still an active aid to navigation
 
 The grounds are bigger than photos suggest. A paved loop path winds through gardens studded with old cannon replicas and interpretive signs on the lighthouse's military past.
 
-Inside the base, a modest museum covers Taiwan's lighthouse history and the 1867 Rover incident that led to this outpost being built. You can't climb the tower itself, but a nearby viewing platform gets you close enough for the classic shot — white tower, blue sky, ocean stretching to the horizon.
+Inside the base, a modest museum covers Taiwan's lighthouse history and the 1867 Rover incident that led to this outpost being built. You can't climb the tower itself, but a nearby viewing platform gets you close enough for the classic shot, white tower, blue sky, ocean stretching to the horizon.
 
 - Cannon replicas along the perimeter wall
 - Small museum with lighthouse and maritime history
@@ -108,13 +108,13 @@ Inside the base, a modest museum covers Taiwan's lighthouse history and the 1867
 
 Eluanbi sits at the southern tip of the Hengchun Peninsula, about a 15-minute drive from Kenting's main strip and roughly 25 minutes from Hengchun town.
 
-There's no train service this far south — most visitors arrive by scooter, rental car, or taxi from Kenting. If you're relying on public transport, the Kenting Express bus routes running between Kaohsiung and Kenting stop in the area, though you'll still need a short taxi or walk from the nearest stop to the gate.
+There's no train service this far south, most visitors arrive by scooter, rental car, or taxi from Kenting. If you're relying on public transport, the Kenting Express bus routes running between Kaohsiung and Kenting stop in the area, though you'll still need a short taxi or walk from the nearest stop to the gate.
 
 Parking is available right outside the entrance, which fills up fast on weekends.
 
 ## When to go
 
-The lighthouse is open Tuesday through Sunday, 9am to 6pm, and closed all day Monday — plan around that if you're building a peninsula loop.
+The lighthouse is open Tuesday through Sunday, 9am to 6pm, and closed all day Monday. Plan around that if you're building a peninsula loop.
 
 Weekends are consistently busy from open to close, so if you have flexibility, come on a weekday instead. Late afternoon, an hour or so before closing, tends to thin out even on busier days as tour groups move on to sunset spots elsewhere on the peninsula.
 
@@ -124,8 +124,8 @@ Midday sun here is intense with almost no shade on the coastal path, so bring a 
 
 This is one of Kenting's most-visited sites, not a quiet find, so the goal is managing the crowd rather than avoiding it. Arrive right at 9am opening or in the last 90 minutes before the 6pm close for noticeably thinner paths and better photos without other tourists in frame.
 
-Entry is ticketed at a small booth near the gate — bring cash in small NT dollar notes, since card payment isn't always reliable this far from central Kenting. Confirm the current admission fee before you go, as it does get adjusted periodically.
+Entry is ticketed at a small booth near the gate. Bring cash in small NT dollar notes, since card payment isn't always reliable this far from central Kenting. Confirm the current admission fee before you go, as it does get adjusted periodically.
 
-Locals and repeat visitors treat this as a 45-minute stop, not a half-day outing — see the tower, walk the loop, check the museum, move on. The mistake first-timers make is skipping the coastal trail beyond the main lawn, which loops past coral rock formations most people miss because they only walk straight to the tower and back.
+Locals and repeat visitors treat this as a 45-minute stop, not a half-day outing, see the tower, walk the loop, check the museum, move on. The mistake first-timers make is skipping the coastal trail beyond the main lawn, which loops past coral rock formations most people miss because they only walk straight to the tower and back.
 
 Pair the visit with Kenting National Park's other southern-tip sights, like Longpan Park or Sail Rock, since they're all within a short drive and make for an efficient half-day loop.

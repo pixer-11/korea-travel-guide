@@ -76,7 +76,7 @@ updatedDate: '2026-09-06'
 
 You come to Demre for St. Nicholas Church or the rock-cut tombs of Myra, and the Lycian Civilization Museum almost gets treated as an afterthought. That's a mistake. It's a small, purpose-built space, but it does something the open-air sites can't: it explains what you're looking at.
 
-The museum sits in Büyükkum on the outskirts of Demre, roughly an hour's drive east of Kas along the coast road. Most visitors combine it with Myra and the church in a single day trip, and the layout of the town makes that easy — all three are within a few minutes of each other by car or dolmuş.
+The museum sits in Büyükkum on the outskirts of Demre, roughly an hour's drive east of Kas along the coast road. Most visitors combine it with Myra and the church in a single day trip, and the layout of the town makes that easy. All three are within a few minutes of each other by car or dolmuş.
 
 Inside, the collection is organized around the Lycian civilization that once controlled this stretch of Mediterranean coast. You'll walk past carved sarcophagus fragments, funerary reliefs, coins stamped with Lycian script, and household objects pulled from sites across the region.
 
@@ -84,13 +84,13 @@ Inside, the collection is organized around the Lycian civilization that once con
 
 Lycia isn't a name most visitors arrive already knowing, and that's exactly the gap this place fills. The Lycians built rock tombs and pillar sarcophagi you'll see scattered across Kas, Myra, and Fethiye, but without context they just look like weathered stone.
 
-Here, English and Turkish placards walk you through the Lycian League — often cited as an early model of federal government — and the funerary customs behind those distinctive sarcophagus lids. Once you've seen the museum, the tombs outside town suddenly make sense.
+Here, English and Turkish placards walk you through the Lycian League, often cited as an early model of federal government, and the funerary customs behind those distinctive sarcophagus lids. Once you've seen the museum, the tombs outside town suddenly make sense.
 
 ## Getting there
 
 From Kas, drive or take a dolmuş toward Demre (around 45 minutes to an hour depending on traffic). The museum is signposted from the main road into Büyükkum, on the edge of central Demre.
 
-- No direct public bus serves the museum door — dolmuş drops you in central Demre, then it's a short taxi or 15-minute walk.
+- No direct public bus serves the museum door, dolmuş drops you in central Demre, then it's a short taxi or 15-minute walk.
 - Parking is available on-site if you're driving.
 - Pair the visit with Myra (5 minutes away) and St. Nicholas Church (in the town center).
 
@@ -113,10 +113,10 @@ If you're visiting in summer, aim for the first couple of hours after opening. T
 
 ## How to visit like a local
 
-Treat this as the first stop of your Demre day, not the last. Reading the context here before you walk through Myra's rock tombs changes how you see them — the reliefs and burial customs on the museum walls give real meaning to the carved facades you'll find twenty minutes later.
+Treat this as the first stop of your Demre day, not the last. Reading the context here before you walk through Myra's rock tombs changes how you see them, the reliefs and burial customs on the museum walls give real meaning to the carved facades you'll find twenty minutes later.
 
 Buy your ticket at the museum counter; there's no need to book ahead for a collection this size. Payment by card is standard practice at Turkish state museums now, though carrying some cash covers you if a terminal is down.
 
-Because this is a well-known stop on the Demre circuit rather than a quiet find, the crowd-avoidance move is simple: go early, before the coach groups roll in from Kas and Kalkan. Don't rush the sarcophagus room — it's the heart of the museum and easy to walk past if you're moving fast toward the exit.
+Because this is a well-known stop on the Demre circuit rather than a quiet find, the crowd-avoidance move is simple: go early, before the coach groups roll in from Kas and Kalkan. Don't rush the sarcophagus room. It's the heart of the museum and easy to walk past if you're moving fast toward the exit.
 
 Dress is casual; there's no religious-site dress code as there might be at the nearby church. A short visit of 45 minutes to an hour is enough for most people, longer if you like reading every placard.

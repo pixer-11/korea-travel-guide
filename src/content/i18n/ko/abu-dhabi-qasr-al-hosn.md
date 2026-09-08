@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-qasr-al-hosn
-srcHash: 'cb20fc57fbe5'
+srcHash: 'c16a4a47f041'
 title: '카스르 알 호스니: 아부다비 여행 가이드'
 description: 카스르 알 호스니(Qasr Al Hosn)는 아부다비에서 가장 오래된 석조 건축물로, 시내 중심부 라시드 빈 사이드 알 막툼(Rashid Bin Saeed Al Maktoum) 거리에 자리한 흰색 요새이자 궁전, 그리고 지금은 박물관이 된 곳입니다.
 quickAnswer: 카스르 알 호스니(Qasr Al Hosn)는 아부다비에서 가장 오래된 석조 건축물로, 알 히스니(Al Hisn) 지구의 라시드 빈 사이드 알 막툼 거리(2번가, Rashid Bin Saeed Al Maktoum Street)에 위치한 흰색 요새이자 궁전이었다가 지금은 박물관이 된 곳입니다. 이너 포트(Inner Fort)와 팰리스(Palace) 관, 그리고 석유 발견 이전 아부다비 토후국의 역사를 다루는 훌륭한 전시들을 둘러보려면 1.5~2시간 정도를 예상하세요. 4.6점이라는 높은 평점 덕에 몰리는 인파를 피하려면 평일 오전에 방문하는 것이 좋습니다.

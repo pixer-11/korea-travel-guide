@@ -55,11 +55,11 @@ draft: false
 
 ## Why Ci Siamo Matters Right Now
 
-Ci Siamo isn't a legacy institution — it's a newer addition to Danny Meyer's Union Square Hospitality Group portfolio, the same team behind Union Square Cafe, Gramercy Tavern, and Shake Shack. What's put it on every traveler's radar in 2026 is a single ranking: it landed at No. 1 on Yelp's Top 100 Places to Eat in the U.S., a list that draws on millions of reviews nationwide.
+Ci Siamo isn't a legacy institution. It's a newer addition to Danny Meyer's Union Square Hospitality Group portfolio, the same team behind Union Square Cafe, Gramercy Tavern, and Shake Shack. What's put it on every traveler's radar in 2026 is a single ranking: it landed at No. 1 on Yelp's Top 100 Places to Eat in the U.S., a list that draws on millions of reviews nationwide.
 
 For a New York restaurant to top a national list, rather than just a local "best Italian in NYC" roundup, is unusual, and it's why Ci Siamo has shifted from "well-regarded neighborhood spot" to "reservation you plan a trip around."
 
-The kitchen's calling card is Rigatoni Alla Gricia — the Roman classic built on guanciale, Pecorino Romano, and black pepper, done without tomato so the technique has nowhere to hide. It's the dish reviewers and food writers mention first, and it's a reasonable barometer for whether the rest of the menu is worth exploring on a return visit.
+The kitchen's calling card is Rigatoni Alla Gricia, the Roman classic built on guanciale, Pecorino Romano, and black pepper, done without tomato so the technique has nowhere to hide. It's the dish reviewers and food writers mention first, and it's a reasonable barometer for whether the rest of the menu is worth exploring on a return visit.
 
 ## Where It Is and How to Get There
 
@@ -69,14 +69,14 @@ By subway, the closest station is 34th St–Hudson Yards on the 7 line, which dr
 
 ## What to Expect at the Table
 
-The restaurant is built around modern interpretations of Italian regional classics rather than red-sauce tradition, with Rigatoni Alla Gricia as the headline dish worth ordering on a first visit. Beyond that, menu specifics — pricing, seasonal rotations, pasta shapes beyond the signature dish — shift often enough that this guide won't guess at them. Check the restaurant's own site or a reservation platform like Resy the week of your visit for the current offerings, since USHG restaurants are known for adjusting menus seasonally.
+The restaurant is built around modern interpretations of Italian regional classics rather than red-sauce tradition, with Rigatoni Alla Gricia as the headline dish worth ordering on a first visit. Beyond that, menu specifics (pricing, seasonal rotations, pasta shapes beyond the signature dish) shift often enough that this guide won't guess at them. Check the restaurant's own site or a reservation platform like Resy the week of your visit for the current offerings, since USHG restaurants are known for adjusting menus seasonally.
 
 Expect the polished, service-forward atmosphere associated with Danny Meyer restaurants generally: attentive but not stiff, with an emphasis on hospitality as a defining value rather than a marketing line. That reputation, paired with the Yelp ranking, means walk-in availability is unlikely, especially at dinner.
 
 ## When to Go and How to Book
 
-Given the No. 1 national ranking is fresh news in the food-media cycle, demand is likely to be elevated through 2026 before it normalizes. Lunch reservations tend to be easier to secure than dinner at USHG restaurants generally, and booking windows typically open a set number of weeks in advance on Resy — set a calendar reminder and be ready right when the window opens if you want a specific date. Solo diners or pairs sometimes have better luck with last-minute cancellations than larger parties.
+Given the No. 1 national ranking is fresh news in the food-media cycle, demand is likely to be elevated through 2026 before it normalizes. Lunch reservations tend to be easier to secure than dinner at USHG restaurants generally, and booking windows typically open a set number of weeks in advance on Resy, set a calendar reminder and be ready right when the window opens if you want a specific date. Solo diners or pairs sometimes have better luck with last-minute cancellations than larger parties.
 
 ## Nearby & Practical Tips
 
-Pair a meal here with a walk through Hudson Yards' public art and retail, or extend into a stroll on the High Line, which runs a few blocks away. Because this is a trending, recently spotlighted restaurant, confirm current hours, reservation policy, and any dress expectations directly through the restaurant's official channels before you finalize plans — details like these are the most likely to change as demand from the ranking settles.
+Pair a meal here with a walk through Hudson Yards' public art and retail, or extend into a stroll on the High Line, which runs a few blocks away. Because this is a trending, recently spotlighted restaurant, confirm current hours, reservation policy, and any dress expectations directly through the restaurant's official channels before you finalize plans, details like these are the most likely to change as demand from the ranking settles.

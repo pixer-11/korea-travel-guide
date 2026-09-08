@@ -98,17 +98,17 @@ updatedDate: '2026-08-16'
 
 You come here for the scale, not just the ritual. This is one of the largest Hindu temples in the Gulf, built to serve Dubai's substantial South Asian community, and the architecture alone is worth the trip.
 
-Cream-and-pink stone carved into tight, repeating patterns catches the desert light differently morning versus evening. Multiple shrines sit under one roof — Shiva, Krishna, Ganesh, Balaji among them — so you're not visiting one deity's space but a whole pantheon under a single complex.
+Cream-and-pink stone carved into tight, repeating patterns catches the desert light differently morning versus evening. Multiple shrines sit under one roof (Shiva, Krishna, Ganesh, Balaji among them), so you're not visiting one deity's space but a whole pantheon under a single complex.
 
 ## Getting there
 
-The temple sits in Jebel Ali First, on Dubai's western industrial edge. It's a fair drive or taxi ride from the Metro system — there's no station right outside.
+The temple sits in Jebel Ali First, on Dubai's western industrial edge. It's a fair drive or taxi ride from the Metro system. There's no station right outside.
 
 Most visitors arrive by car, taxi, or ride-hailing app. Give yourself extra time on Fridays and weekends, when traffic into the compound itself can bottleneck at the gate.
 
 ## What you'll see inside
 
-Leave your shoes at the designated racks near the entrance — this is non-negotiable and staff will point you there immediately. Inside, the air is thick with incense and marigold, and bells ring intermittently as devotees complete their circuits of the shrines.
+Leave your shoes at the designated racks near the entrance. This is non-negotiable and staff will point you there immediately. Inside, the air is thick with incense and marigold, and bells ring intermittently as devotees complete their circuits of the shrines.
 
 - Multiple deity shrines arranged around a central hall
 - Intricately carved stone pillars and ceiling work
@@ -125,15 +125,15 @@ If you want breathing room, the crowd data is consistent: both weekdays and week
 
 ## How to visit like a local
 
-This is a genuinely popular stop — one of the most-reviewed religious sites in the city — so don't expect to have it to yourself. Plan around the crowds rather than pretending they're not there.
+This is a genuinely popular stop, one of the most-reviewed religious sites in the city, so don't expect to have it to yourself. Plan around the crowds rather than pretending they're not there.
 
 - Go between 6pm and 8pm on any day of the week; it's the calmest stretch, weekday or weekend
 - Avoid 8am–6pm on weekends if you want to skip the thickest crowds
 - Dress modestly: shoulders and knees covered, nothing sheer or sleeveless
-- Remove shoes before entering — wear socks if the stone floor bothers your feet
+- Remove shoes before entering. Wear socks if the stone floor bothers your feet
 - No formal entry fee, but small cash donations toward the temple or prasad are customary
 - Stay quiet and unhurried near active shrines; devotees are mid-ritual, not posing for your photo
-- Check for festival dates before you go — Diwali and Navratri bring the biggest surges
+- Check for festival dates before you go, Diwali and Navratri bring the biggest surges
 
 Tourists most often misstep by treating it like a photo backdrop rather than an active place of worship. Slow your pace, watch what regular visitors do, and follow their lead at each shrine.
 
@@ -141,4 +141,4 @@ Tourists most often misstep by treating it like a photo backdrop rather than an 
 
 The temple is a bit removed from Al Barsha's malls and metro stops, so pair it with other Jebel Ali or Dubai Marina errands rather than a Mall of the Emirates day. Budget 45 minutes to an hour inside, more if a festival ritual is underway.
 
-There's no entry ticket to buy and no booking system — you simply arrive within opening hours and join the flow. Confirm the daily hours before you go, since religious sites occasionally adjust timing around major festivals.
+There's no entry ticket to buy and no booking system, you simply arrive within opening hours and join the flow. Confirm the daily hours before you go, since religious sites occasionally adjust timing around major festivals.

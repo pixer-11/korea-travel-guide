@@ -79,13 +79,13 @@ draft: false
 
 ## Why go
 
-Lecheng Temple isn't a quiet backstreet shrine — it's one of Taichung's most visited places of worship, and the moment you step through the front gate you can see why. The roofline alone is worth the walk: layers of glazed ceramic figures, coiling dragons, and phoenixes catch the light against the East District skyline.
+Lecheng Temple isn't a quiet backstreet shrine. It's one of Taichung's most visited places of worship, and the moment you step through the front gate you can see why. The roofline alone is worth the walk: layers of glazed ceramic figures, coiling dragons, and phoenixes catch the light against the East District skyline.
 
 Inside, the density of detail is what stays with you. Carved stone pillars twist with dragons so deep-cut you could lose a finger in the grooves. Red lanterns hang in rows down the main hall, and the air carries the sweet, slightly smoky smell of incense that never fully clears, even with the doors open.
 
 ## What you'll actually see
 
-This isn't a single-room shrine — it's a working temple complex with shrines to multiple deities under one roof.
+This isn't a single-room shrine. It's a working temple complex with shrines to multiple deities under one roof.
 
 - Elaborate jiannian (cut-porcelain mosaic) work along the roof ridges
 - Multiple altar halls, each dedicated to a different god
@@ -96,25 +96,25 @@ Give yourself 30 to 45 minutes if you want to actually look up at the ceiling be
 
 ## Getting there
 
-The temple is on Hanxi Street in Hanxi Village, East District — a short taxi or scooter-share ride from central Taichung, and easily combined with a visit to the nearby Taichung Park or the Fengjia Night Market area if you're mapping out a full day.
+The temple is on Hanxi Street in Hanxi Village, East District, a short taxi or scooter-share ride from central Taichung, and easily combined with a visit to the nearby Taichung Park or the Fengjia Night Market area if you're mapping out a full day.
 
 There's no dedicated MRT line reaching this address yet, so most visitors arrive by bus, taxi, or rented YouBike. If you're using a ride-hailing app, plug in "Hanxi St, East District" directly, since the temple's small side-street location can confuse general searches for "Taichung temple."
 
 ## When to go
 
-The temple opens early, 6:30am, and stays open until 10pm every day of the week — there's no closed day to plan around.
+The temple opens early, 6:30am, and stays open until 10pm every day of the week. There's no closed day to plan around.
 
 Weekends get genuinely crowded between 9am and 7pm, when tour groups and local families overlap. If you want the halls closer to yourself, aim for the window from 7am to 10pm on quieter weekdays, or slip in right after opening before the day's foot traffic builds.
 
-Early morning is also when you'll see the temple at its most functional — regulars lighting the first incense of the day, the halls still cool, the light coming in low through the front doors.
+Early morning is also when you'll see the temple at its most functional, regulars lighting the first incense of the day, the halls still cool, the light coming in low through the front doors.
 
 ## How to visit like a local
 
 This is an active place of worship first, tourist stop second, and the etiquette matters more here than at a purely secular sight.
 
-- Step over the threshold at the main entrance, never directly on it — an old superstition still widely observed
+- Step over the threshold at the main entrance, never directly on it, an old superstition still widely observed
 - Enter and move through in a clockwise direction, following the flow of worshippers
-- Keep photography respectful — avoid flash near people actively praying, and don't photograph anyone's face without asking
+- Keep photography respectful. Avoid flash near people actively praying, and don't photograph anyone's face without asking
 - If you want to take part, buy or bring incense at the entrance stalls and follow the lead of people around you for where to bow and place it
 - There's no entrance fee, so any donation into the temple's offering box is optional, not expected
 

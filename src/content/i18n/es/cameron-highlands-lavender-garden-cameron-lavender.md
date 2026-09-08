@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cameron-highlands-lavender-garden-cameron-lavender
-srcHash: 'f1c647a30c70'
+srcHash: '6334d2f6d0d8'
 title: 'Lavender Garden (Cameron Lavender): Guía de viaje de las Cameron Highlands'
 description: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. 4.1★ (12,044 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. La afluencia de público es real: los fines de semana se llena de gente entre las 10:00 y las 17:00, así que conviene ir un día laborable o aprovechar la última hora antes del cierre (17:00–18:00) los fines de semana. Calcule entre 1 y 1.5 horas, incluyendo la cafetería y la tienda de regalos.'

@@ -77,13 +77,13 @@ draft: false
 ---
 ## Why go
 
-Most travelers pass through Shakhrisabz for the Timurid ruins and never look up toward the mountains behind them. Zaamin National Park is that mountain range — a stretch of juniper (archa) forest, limestone ridges, and alpine pasture climbing toward the Turkestan range on the Tajikistan border.
+Most travelers pass through Shakhrisabz for the Timurid ruins and never look up toward the mountains behind them. Zaamin National Park is that mountain range, a stretch of juniper (archa) forest, limestone ridges, and alpine pasture climbing toward the Turkestan range on the Tajikistan border.
 
 It's still under-the-radar by regional standards. You won't find tour buses here, just a scattering of hikers, birdwatchers, and local families escaping the valley heat.
 
 ## Getting there
 
-The park sits along route R-40 in Jizzakh Region, a couple of hours' drive from Shakhrisabz through Kitob district and up into the foothills. Most visitors arrange a taxi, private driver, or rental car — there's no direct public bus into the park itself.
+The park sits along route R-40 in Jizzakh Region, a couple of hours' drive from Shakhrisabz through Kitob district and up into the foothills. Most visitors arrange a taxi, private driver, or rental car. There's no direct public bus into the park itself.
 
 The road climbs steadily once you leave the plains, switching from wheat fields to walnut groves to bare rock. Give yourself the better part of a day: two hours each way plus time to actually walk the trails.
 
@@ -102,7 +102,7 @@ Streams cut through several valleys, running clear and cold even in summer, and 
 
 ## When to go
 
-The park is open every day, 8am to 8pm, year-round. Late spring through early autumn is the easiest window — snow can close higher trails in winter, while summer mornings stay cool at altitude even when Shakhrisabz below is baking.
+The park is open every day, 8am to 8pm, year-round. Late spring through early autumn is the easiest window, snow can close higher trails in winter, while summer mornings stay cool at altitude even when Shakhrisabz below is baking.
 
 Crowd patterns here are unusually predictable. Weekdays tend to be quieter than weekends, and mornings are calmer than afternoons. After that, especially on weekends, crowds build steadily and the park stays busy right up until closing at 8pm.
 
@@ -112,14 +112,14 @@ If you want the trails to yourself, aim for a weekday morning. If a weekend is y
 
 Arrive early and treat it as a half-day hike, not a drive-by photo stop. Rangers and picnicking families follow the same rhythm: up early, out before the afternoon heat and weekend crowds settle in.
 
-- **Payment**: cash (som) is the safe assumption for any entry fee, guide, or roadside snack — card machines are unreliable this far from town.
+- **Payment**: cash (som) is the safe assumption for any entry fee, guide, or roadside snack, card machines are unreliable this far from town.
 - **What to bring**: sturdy shoes, layers (temperature drops fast with altitude), and your own water and snacks, since options inside the park are limited.
-- **Etiquette**: stick to marked trails — this is a protected reserve, not open scrubland, and off-trail wandering damages the juniper root systems.
+- **Etiquette**: stick to marked trails. This is a protected reserve, not open scrubland, and off-trail wandering damages the juniper root systems.
 - **Language**: a few words of Uzbek or Russian go a long way with rangers at the entrance, few of whom speak English.
-- **Common mistake**: visitors underestimate the drive time and arrive mid-afternoon with only an hour before the light — or the crowds — turn against them.
+- **Common mistake**: visitors underestimate the drive time and arrive mid-afternoon with only an hour before the light, or the crowds, turn against them.
 
-Because it's still relatively unknown outside Uzbekistan, you're more likely to share the trail with local hikers and rangers than with fellow tourists. That's the appeal — bring the patience for a bumpy access road and you're rewarded with genuine quiet.
+Because it's still relatively unknown outside Uzbekistan, you're more likely to share the trail with local hikers and rangers than with fellow tourists. That's the appeal. Bring the patience for a bumpy access road and you're rewarded with genuine quiet.
 
 ## Nearby
 
-Pair the park with Shakhrisabz's UNESCO-listed old town — the Ak-Saray ruins, Dorut Tilavat complex, and Kok Gumbaz Mosque are all within the city itself, making a natural two-stop day: ruins in the morning, mountains in the afternoon, or vice versa depending on when you want the cooler air.
+Pair the park with Shakhrisabz's UNESCO-listed old town, the Ak-Saray ruins, Dorut Tilavat complex, and Kok Gumbaz Mosque are all within the city itself, making a natural two-stop day: ruins in the morning, mountains in the afternoon, or vice versa depending on when you want the cooler air.

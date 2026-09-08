@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taipei-urban-paradise
-srcHash: 'cc728e1394b1'
+srcHash: '926d175911fb'
 title: 'URBAN PARADISE: 타이베이 여행 가이드'
 description: 타이베이 신이구에 새로 떠오르는 핫플레이스 URBAN PARADISE — 어떤 곳인지, 어디에 있는지, 어떻게 가야 하는지 안내합니다.
 quickAnswer: URBAN PARADISE는 타이베이 신이구(信義區) 브리즈 송가오(Breeze Song Gao) 몰 안에 자리한 부티크 뷔페 레스토랑으로, 2025년에 문을 열었습니다. "가스트로펍-뷔페"라는 개념을 도시 속 오아시스로 재해석한 곳이라, 스팀 트레이가 늘어선 전형적인 뷔페 대신 무성한 녹음과 바 스타일 카운터, 오픈형 다이닝 스테이션이 눈에 띕니다. 타이베이시청역(Taipei City Hall MRT station, 블루라인/반차오-난강선) 바로 근처라 신이 쇼핑이나 타이베이 101 나들이에 곁들이기 좋습니다. 신규 오픈에 인기까지 많은 곳이라, 방문 전 미리 예약하고 브리즈 측에 현재 영업시간과 예약 정책을 다시 한번 확인하시는 것이 좋습니다.

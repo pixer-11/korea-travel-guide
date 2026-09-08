@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-saigon-skydeck
-srcHash: '690f0020ccf9'
+srcHash: '5ebb2487905a'
 title: 西贡天空甲板：胡志明市旅行指南（4.4★）
 description: 西贡天空甲板（Saigon Skydeck）位于滨城金融塔（Bitexco Financial Tower）49层，地址为36 Hồ Tùng Mậu，每天9:30至21:30开放。4.4★（12,739条评价）——游客怎么说、开放时间及实用建议，一并奉上。
 quickAnswer: 西贡天空甲板位于滨城金融塔49层，地址36 Hồ Tùng Mậu，每天9:30至21:30开放。想避开人潮，最好选在工作日上午10点到下午3点之间前往；若想拍到最通透的光线和几乎无人的玻璃幕墙，开门那一刻抵达最合适。行程预留一小时左右即可，如果打算在Café Bar Chill Skybar多待一会儿，时间还要再宽裕些。

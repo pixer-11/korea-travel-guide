@@ -82,7 +82,7 @@ This isn't a Tokyo-style military history exhibit. The Battle of Okinawa killed 
 
 The exhibition unfolds chronologically across several halls, moving from pre-war Okinawan life through the invasion, the ground battle, and the aftermath.
 
-The most affecting sections are the testimony rooms — walls of handwritten and recorded accounts from survivors, many recorded decades after the war when people finally felt able to speak. Photographs of cave shelters, replica tunnel interiors, and personal belongings recovered from battle sites sit alongside these testimonies.
+The most affecting sections are the testimony rooms, walls of handwritten and recorded accounts from survivors, many recorded decades after the war when people finally felt able to speak. Photographs of cave shelters, replica tunnel interiors, and personal belongings recovered from battle sites sit alongside these testimonies.
 
 Expect English-language panels throughout, though some are denser reading than others. Give yourself real time here:
 
@@ -94,13 +94,13 @@ Expect English-language panels throughout, though some are denser reading than o
 
 The museum sits inside the much larger Okinawa Prefectural Peace Memorial Park, and you shouldn't treat it as a standalone stop.
 
-Just outside, the Cornerstone of Peace is a sweeping arrangement of black granite walls inscribed with the names of everyone who died in the battle — Okinawan, Japanese, American, Korean — regardless of nationality or which side they fought on. It's worth walking the full length of it.
+Just outside, the Cornerstone of Peace is a sweeping arrangement of black granite walls inscribed with the names of everyone who died in the battle (Okinawan, Japanese, American, Korean) regardless of nationality or which side they fought on. It's worth walking the full length of it.
 
 The clifftops nearby look straight out over the Pacific, toward the waters where the fighting reached its final, brutal endgame. The Peace Memorial Hall, with its large seated peace statue, is a short walk further into the park.
 
 ## Getting there
 
-The museum sits at 614-1 Mabuni, in Itoman, at Okinawa's southern tip — roughly 40–50 minutes by car from central Naha.
+The museum sits at 614-1 Mabuni, in Itoman, at Okinawa's southern tip, roughly 40–50 minutes by car from central Naha.
 
 There's no monorail or train connection this far south, so most visitors arrive one of three ways:
 
@@ -112,20 +112,20 @@ Because of the distance from Naha's main tourist strip, most people build this i
 
 ## When to go
 
-The museum is open daily, 9am to 5pm, with no weekly closing day listed — but always confirm current hours before you set out, since museums occasionally adjust for holidays.
+The museum is open daily, 9am to 5pm, with no weekly closing day listed, but always confirm current hours before you set out, since museums occasionally adjust for holidays.
 
-If you want the exhibition halls to yourself, arrive between 9am and 11am — that's the quietest window on both weekdays and weekends. Weekend afternoons, especially 12pm to 4pm, draw the heaviest crowds, including school groups and tour buses. Plan around that window if you can.
+If you want the exhibition halls to yourself, arrive between 9am and 11am. That's the quietest window on both weekdays and weekends. Weekend afternoons, especially 12pm to 4pm, draw the heaviest crowds, including school groups and tour buses. Plan around that window if you can.
 
-June 23rd, Okinawa's Memorial Day (Irei no Hi), draws large crowds and a formal ceremony in the park — moving to witness, but not the day for a quiet, reflective visit.
+June 23rd, Okinawa's Memorial Day (Irei no Hi), draws large crowds and a formal ceremony in the park, moving to witness, but not the day for a quiet, reflective visit.
 
 ## How to visit like a local
 
-Treat this as an educational site, not a photo stop — Okinawans visit here to learn and remember, not to sightsee quickly.
+Treat this as an educational site, not a photo stop, Okinawans visit here to learn and remember, not to sightsee quickly.
 
 - Arrive right at 9am opening if you want near-empty testimony rooms
 - Speak quietly inside; this is treated as a place of mourning, not a typical attraction
 - Combine your visit with Himeyuri Peace Museum and the Cornerstone of Peace in one southern-Okinawa itinerary
-- Bring a rental car if possible — public transit here is infrequent and slow
+- Bring a rental car if possible, public transit here is infrequent and slow
 - Read at least a few full survivor testimonies rather than skimming captions; that's the museum's real purpose
 - Check current admission fees and hours online before setting out, since these can shift seasonally
 

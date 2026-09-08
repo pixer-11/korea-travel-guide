@@ -77,13 +77,13 @@ Yamuna Ghat isn't pretty in the postcard sense. It's a working riverside stairca
 
 Every winter morning, thousands of Siberian gulls descend on this stretch of the Yamuna, wheeling low over the water in tight, noisy flocks. Vendors sell bags of bread and puffed rice, and visitors line the steps to fling it skyward as birds swoop within arm's reach. It's chaotic, loud, and genuinely thrilling the first time a gull snatches food from your hand.
 
-Below the spectacle, the ghat keeps doing what it's done for generations — priests performing aarti, families arriving for religious rites, and boatmen ferrying visitors along the water.
+Below the spectacle, the ghat keeps doing what it's done for generations, priests performing aarti, families arriving for religious rites, and boatmen ferrying visitors along the water.
 
 ## Getting there
 
 The ghat sits close to Kashmere Gate, one of Delhi's major transit hubs.
 
-Kashmere Gate Metro station serves both the Red and Yellow lines, plus the Violet Line, making it one of the easiest interchange points in the city. From the station, it's a short auto-rickshaw ride to the ghat — most drivers know it as "Yamuna Ghat" or "Seagull Point," so use either name.
+Kashmere Gate Metro station serves both the Red and Yellow lines, plus the Violet Line, making it one of the easiest interchange points in the city. From the station, it's a short auto-rickshaw ride to the ghat, most drivers know it as "Yamuna Ghat" or "Seagull Point," so use either name.
 
 Traffic near Kashmere Gate's ISBT bus terminal can be dense, so budget extra time if you're arriving by road during morning rush hour.
 
@@ -91,7 +91,7 @@ Traffic near Kashmere Gate's ISBT bus terminal can be dense, so budget extra tim
 
 The main draw is the seagull spectacle, best from a low viewing angle right at the water's edge.
 
-Bring your own bread or buy it from the stalls that line the approach — vendors also rent binoculars and offer short boat rides for a closer look at the flocks. Beyond the birds:
+Bring your own bread or buy it from the stalls that line the approach, vendors also rent binoculars and offer short boat rides for a closer look at the flocks. Beyond the birds:
 
 - Watch the aarti ceremonies performed by priests along the steps
 - Observe (respectfully, from a distance) religious rituals and cremation-adjacent rites that take place here
@@ -104,27 +104,27 @@ Don't expect a manicured riverfront. The Yamuna here is heavily polluted, and th
 
 Winter mornings, roughly November through February, are peak gull season and the reason most visitors make the trip.
 
-Arrive as close to sunrise as the day's hours allow — the light is softer, the birds are most active, and the heat hasn't set in. Opening hours vary through the week: most days it's accessible 24 hours, but Thursday runs 1:30am–8pm and Friday–Saturday 7am–9pm, so check before a late visit.
+Arrive as close to sunrise as the day's hours allow. The light is softer, the birds are most active, and the heat hasn't set in. Opening hours vary through the week: most days it's accessible 24 hours, but Thursday runs 1:30am–8pm and Friday–Saturday 7am–9pm, so check before a late visit.
 
-This is a very popular spot, especially on weekends. If you want the steps to yourself, visit later in the evening instead, when the crowds and vendors have largely cleared out — though the seagull show will be over by then.
+This is a very popular spot, especially on weekends. If you want the steps to yourself, visit later in the evening instead, when the crowds and vendors have largely cleared out, though the seagull show will be over by then.
 
 ## How to visit like a local
 
-Come early and come hungry — for the birds, not yourself.
+Come early and come hungry, for the birds, not yourself.
 
-Locals arrive with their own bread rather than paying vendor prices, so bringing a bag from home saves a little money. Cash is the standard currency here — small denominations for bread, boat rides, or the odd donation box near the shrines.
+Locals arrive with their own bread rather than paying vendor prices, so bringing a bag from home saves a little money. Cash is the standard currency here, small denominations for bread, boat rides, or the odd donation box near the shrines.
 
 Queuing isn't really a thing at the ghat itself, but boat rides do form informal lines during peak morning hours, so arrive early if that's on your list.
 
-- Dress modestly — this remains an active site of religious ritual
+- Dress modestly, this remains an active site of religious ritual
 - Keep a respectful distance from cremation-adjacent ceremonies and mourning families
 - Watch your footing on the wet, algae-slicked steps near the water
-- Don't feed the birds processed or salty snacks — plain bread or puffed rice is the local norm
+- Don't feed the birds processed or salty snacks, plain bread or puffed rice is the local norm
 
 The mistake most first-timers make is treating this purely as a photo op and forgetting it's a living religious space. Slow down, watch how locals move through it, and follow their lead.
 
 ## Nearby
 
-Once you're done at the ghat, Kashmere Gate itself is worth a wander — it's one of the last surviving gateways of the old Mughal-era city wall.
+Once you're done at the ghat, Kashmere Gate itself is worth a wander. It's one of the last surviving gateways of the old Mughal-era city wall.
 
 The Old Delhi neighborhoods of Chandni Chowk and the Red Fort are a short ride away, making the ghat an easy add-on to a half-day loop through the historic core.

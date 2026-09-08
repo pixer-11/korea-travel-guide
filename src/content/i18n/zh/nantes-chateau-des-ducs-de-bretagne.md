@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nantes-chateau-des-ducs-de-bretagne
-srcHash: '4dfdcf51b5cc'
+srcHash: '155120850921'
 title: 南特城堡（布列塔尼公爵城堡）：南特旅行指南（4.5星）
 description: 布列塔尼公爵城堡（Château des ducs de Bretagne）就坐落在南特市中心的4 Pl. Marc Elder，每天10:00至19:00开放。4.5星（24,636条评论）——游客怎么说、开放时间和实用建议，一次看懂。
 quickAnswer: 布列塔尼公爵城堡就坐落在南特市中心的4 Pl. Marc Elder，每天10:00至19:00开放。免费的庭院和城墙随时都能逛，但如果要买票参观里面的历史博物馆，建议选工作日前往，或者周末18点以后再去，可以避开人流高峰。参观博物馆预留1.5到2小时比较合适，如果只逛城墙和护城河，时间可以更短。

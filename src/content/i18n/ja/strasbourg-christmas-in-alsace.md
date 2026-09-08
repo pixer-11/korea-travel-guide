@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: strasbourg-christmas-in-alsace
-srcHash: '3d9918cc1dd3'
+srcHash: '933c74022bcb'
 title: アルザスのクリスマス
 description: ストラスブールのクリスマスマーケット(Marché de Noël)は11月下旬から12月24日から31日まで開催され、市内中心部の十数カ所の広場に広がる。クレベール広場(Place Kléber)の巨大なツリーとカテドラル広場(Place de la Cathédrale)が中心的なスポットとなっている。
 quickAnswer: ストラスブールのクリスマスマーケット(Marché de Noël)は11月下旬から12月24日から31日まで開催され、市内中心部の十数カ所の広場に広がる。クレベール広場(Place Kléber)の巨大なツリーとカテドラル広場(Place de la Cathédrale)が中心的なスポットとなっている。丸一日かけて回るのがおすすめで、点灯の様子を見るために午後遅めに到着するとよい。ヨーロッパ最古かつ最も賑わうクリスマスマーケットのひとつなので、宿泊先は早めに予約しておこう。大聖堂近くの10 Rue des Dentellesにある店「Christmas in Alsace」は、マーケットのシーズン外に訪れる場合でも、アルザスのオーナメントやギフトを扱う一年中立ち寄れるスポットとしておすすめだ。

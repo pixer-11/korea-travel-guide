@@ -92,17 +92,17 @@ Karaköy has spent the last decade transforming from a gritty port district into
 
 Exposed stone, historic proportions, and old structural details reportedly share space with a contemporary dining room, giving the restaurant a layered, old-meets-new atmosphere that's become a signature of Karaköy's best openings.
 
-For visitors, this matters because Sen'den isn't just another new restaurant — it's a small case study in how Istanbul is repurposing its Ottoman and Levantine-era commercial architecture (hans, warehouses, customs buildings) for contemporary use, a trend also visible nearby in galleries and boutique hotels that occupy similarly historic shells.
+For visitors, this matters because Sen'den isn't just another new restaurant. It's a small case study in how Istanbul is repurposing its Ottoman and Levantine-era commercial architecture (hans, warehouses, customs buildings) for contemporary use, a trend also visible nearby in galleries and boutique hotels that occupy similarly historic shells.
 
 ## Getting There
 
-Karaköy sits on the European side of the Bosphorus, right where the Golden Horn meets the strait, just across the Galata Bridge from Eminönü. The easiest way in is the Karaköy stop on the T1 tram line, which connects directly to Sultanahmet, Eminönü, and the historic peninsula — making it simple to combine a Sen'den dinner with a day of sightseeing.
+Karaköy sits on the European side of the Bosphorus, right where the Golden Horn meets the strait, just across the Galata Bridge from Eminönü. The easiest way in is the Karaköy stop on the T1 tram line, which connects directly to Sultanahmet, Eminönü, and the historic peninsula, making it simple to combine a Sen'den dinner with a day of sightseeing.
 
 Alternatively, the Tünel funicular (one of the oldest underground lines in the world, opened in 1875) connects Karaköy to Beyoğlu/İstiklal Avenue in under two minutes, and the Karaköy ferry docks put the neighborhood within easy reach of Kadıköy and Üsküdar on the Asian side. Since Hovagimyan Han is a specific historic building, it's worth confirming the exact street address and entrance with the restaurant or a map app before setting out, as han buildings in this district can have discreet, easy-to-miss entrances tucked between storefronts.
 
 ## What to Expect
 
-As a 2026 opening, Sen'den's exact menu, price range, and hours weren't independently confirmed at the time of writing — avoid trusting any secondhand menu listings online without double-checking. What is established is the concept: a refined, modern dining experience layered into a genuinely historic setting, distinguishing it from the more casual meyhanes and street-food stalls Karaköy is also known for.
+As a 2026 opening, Sen'den's exact menu, price range, and hours weren't independently confirmed at the time of writing. Avoid trusting any secondhand menu listings online without double-checking. What is established is the concept: a refined, modern dining experience layered into a genuinely historic setting, distinguishing it from the more casual meyhanes and street-food stalls Karaköy is also known for.
 
 Expect this to be a reservation-worthy destination rather than a walk-in-anytime spot, particularly given the buzz around new Karaköy openings. Call ahead or book online, and ask specifically about dress code or seating (courtyard vs. interior han spaces), since restored historic buildings often have limited or unusually configured seating.
 

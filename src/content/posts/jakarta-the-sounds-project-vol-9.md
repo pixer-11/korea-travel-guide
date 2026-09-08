@@ -43,13 +43,13 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 was planned in that mould: three days, August 7–9, 2026, with a lineup that spanned homegrown stars — Pamungkas and Rizky Febian among them — alongside international names like Australian rock veterans Jet.
+The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 was planned in that mould: three days, August 7–9, 2026, with a lineup that spanned homegrown stars, Pamungkas and Rizky Febian among them, alongside international names like Australian rock veterans Jet.
 
 For visitors, festivals like this are a window into how Jakarta's live-music crowd behaves: loud, enthusiastic, and heavy on phone-light sing-alongs, but generally well organised for an outdoor event of this scale.
 
 ## Where and when
 
-The festival was set for Ecovention Ecopark in Ancol, North Jakarta — the same coastal recreation zone that houses Ancol Dreamland, Jakarta's largest seaside entertainment complex. Ecovention is an open-air and semi-covered event space, so sun and sea breeze come with the territory, along with the odd downpour: August falls in Jakarta's dry season, but tropical rain isn't unheard of. The announced dates were August 7–9, 2026.
+The festival was set for Ecovention Ecopark in Ancol, North Jakarta, the same coastal recreation zone that houses Ancol Dreamland, Jakarta's largest seaside entertainment complex. Ecovention is an open-air and semi-covered event space, so sun and sea breeze come with the territory, along with the odd downpour: August falls in Jakarta's dry season, but tropical rain isn't unheard of. The announced dates were August 7–9, 2026.
 
 ## Getting there
 
@@ -65,12 +65,12 @@ The space is largely open-air, so daytime sets sit under full sun or the occasio
 
 ## When to go each day
 
-Set times for headliners like Jet and Rizky Febian were released close to the event. Early evening into night is when the bigger-name sets usually land, while afternoons tend to carry emerging and supporting acts. The wider Ancol area — Dunia Fantasi, Sea World, and the beachfront — sits a short ride from the venue for anyone with a spare day in Jakarta.
+Set times for headliners like Jet and Rizky Febian were released close to the event. Early evening into night is when the bigger-name sets usually land, while afternoons tend to carry emerging and supporting acts. The wider Ancol area (Dunia Fantasi, Sea World, and the beachfront) sits a short ride from the venue for anyone with a spare day in Jakarta.
 
 ## How to visit like a local
 
-Jakarta festival-goers tend to arrive fashionably late for opening acts and time their entry for whichever set they actually want, so lines are usually calmest in the first hour after gates open. Payment at most stalls and merch booths leans cashless — QRIS (Indonesia's universal QR payment system) is widely accepted alongside cards, and a QRIS-linked e-wallet app (GoPay, OVO, or Dana) moves faster than cash.
+Jakarta festival-goers tend to arrive fashionably late for opening acts and time their entry for whichever set they actually want, so lines are usually calmest in the first hour after gates open. Payment at most stalls and merch booths leans cashless, QRIS (Indonesia's universal QR payment system) is widely accepted alongside cards, and a QRIS-linked e-wallet app (GoPay, OVO, or Dana) moves faster than cash.
 
-Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and the distance from the ticket gate to the stage area — real shoes beat sandals given the walk from parking or drop-off points. Locals also dress light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
+Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and the distance from the ticket gate to the stage area, real shoes beat sandals given the walk from parking or drop-off points. Locals also dress light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
 
 The Sounds Project is an annual festival, and each new edition is announced through the official Sounds Project website and its social media channels.

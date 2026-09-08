@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kochi-mattancherry-palace
-srcHash: '072880c292f2'
+srcHash: '4c89fb146e6d'
 title: 马坦切利宫（荷兰宫）：科钦旅游指南（4.2★）
 description: 马坦切利宫（Mattancherry Palace，又称荷兰宫）每天上午10点至下午5点开放，周五休息，规模不大，45–60分钟即可细细游览。4.2★（19,985条评价）——游客怎么说、开放时间及实用贴士。
 quickAnswer: 马坦切利宫（Mattancherry Palace，又称荷兰宫）每天上午10点至下午5点开放，周五休息，规模不大，45–60分钟即可细细游览。如果条件允许，尽量在上午10点开门时就到——周末从上午11点到下午5点会迅速人满为患——不妨顺道漫步宫殿外的犹太镇（Jew Town）和犹太街（Jew Street）。

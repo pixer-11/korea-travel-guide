@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: phnom-penh-sora-sky-bar
-srcHash: 'ad83aebfdccb'
+srcHash: '81d519278153'
 title: '소라 스카이 바: 프놈펜 여행 가이드'
 description: 캄보디아 프놈펜의 요즘 뜨는 명소, 소라 스카이 바(Sora Sky Bar)를 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 알려드립니다.
 quickAnswer: 소라 스카이 바는 소테아로스 대로(Sothearos Boulevard)에 위치한 프놈펜에서 가장 높은 건물, 로즈우드 프놈펜(Rosewood Phnom Penh)의 상층부에 자리하고 있으며, 현재 캄보디아에서 가장 화제가 되는 루프탑 바입니다. 아시아 50대 베스트 바(Asia's 50 Best Bars) 2026 리스트에 이름을 올렸고 지속가능성 부문 상(Sustainable Bar Award)까지 수상했으니, 세련된 손님들로 붐비고 예약 없이는 자리를 잡기 어려울 것을 각오해야 합니다. 톤레삽강과 메콩강이 만나는 지점 위로 지는 노을을 보러 가되, 반드시 사전 예약을 하시기 바랍니다. 주말에는 예약 없이 찾아가서 들어갈 수 있는 곳이 아닙니다.

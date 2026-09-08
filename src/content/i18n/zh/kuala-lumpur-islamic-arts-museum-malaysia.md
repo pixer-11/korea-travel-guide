@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-islamic-arts-museum-malaysia
-srcHash: '7f04434d77e7'
+srcHash: '8a25d341c762'
 title: 马来西亚伊斯兰艺术博物馆：吉隆坡旅行指南
 description: 马来西亚伊斯兰艺术博物馆坐落在吉隆坡的湖滨花园（Perdana Botanical Gardens）一带，每日9:30至18:00开放。4.7星（5,949条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 马来西亚伊斯兰艺术博物馆坐落在吉隆坡的湖滨花园（Perdana Botanical Gardens）一带，每日9:30至18:00开放。周末几乎全天（10:00至18:00）都比较清静，工作日则以闭馆前的17:00至18:00人最少。建议预留两到三小时游览，顺路逛逛周边的花园或不远处的国家清真寺。

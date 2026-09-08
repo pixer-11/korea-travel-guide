@@ -68,30 +68,30 @@ draft: false
 ---
 You smell it before you see it: warm sugar, roasted hazelnut, and the faint bitterness of espresso drifting out from under the arcade at Piazza Castello. Step through the door of Baratti & Milano and the noise of the square drops away instantly, replaced by the click of spoons on saucers and the soft murmur of a room that hasn't changed its manners in over a century.
 
-Gilt mirrors run floor to ceiling, brass fittings catch the light from etched-glass lamps, and the marble-topped counter glows under a row of chandeliers. This isn't a café dressed up to look historic — it opened in 1873 and has been serving Torinesi ever since, tucked at the entrance to the Galleria Subalpina, one of the city's great 19th-century glass-roofed arcades.
+Gilt mirrors run floor to ceiling, brass fittings catch the light from etched-glass lamps, and the marble-topped counter glows under a row of chandeliers. This isn't a café dressed up to look historic, it opened in 1873 and has been serving Torinesi ever since, tucked at the entrance to the Galleria Subalpina, one of the city's great 19th-century glass-roofed arcades.
 
 ## Why it's worth your time
 
-Turin, not Switzerland, is where modern chocolate-making really took shape, and Baratti & Milano is one of the houses that built that reputation. This is the birthplace-adjacent home turf of the gianduiotto — the foil-wrapped, boat-shaped hazelnut chocolate you'll find sold by weight at the counter — and of the bicerin, a small glass of espresso, drinking chocolate, and whipped cream served unstirred so you get all three layers in one sip.
+Turin, not Switzerland, is where modern chocolate-making really took shape, and Baratti & Milano is one of the houses that built that reputation. This is the birthplace-adjacent home turf of the gianduiotto (the foil-wrapped, boat-shaped hazelnut chocolate you'll find sold by weight at the counter), and of the bicerin, a small glass of espresso, drinking chocolate, and whipped cream served unstirred so you get all three layers in one sip.
 
 Sit at one of the small marble tables and order a bicerin with a plate of the house chocolates; it's a slow, deliberate ritual, not a grab-and-go coffee.
 
 ## What to see and eat
 
-Beyond the bicerin, the counter cases are worth studying properly: pralines, marrons glacés in season, and boxed assortments meant as gifts as much as indulgences. The espresso here is properly Torinese — small, dense, and usually taken standing at the bar if you're in a hurry, though the tables are the point of coming here. Look up while you're inside: the painted ceiling and the ironwork of the Galleria Subalpina just outside the door are part of the same architectural moment, and a five-minute walk gets you to the Palazzo Reale and Piazza Castello's Palazzo Madama, so this fits naturally into a wander through Turin's Baroque core.
+Beyond the bicerin, the counter cases are worth studying properly: pralines, marrons glacés in season, and boxed assortments meant as gifts as much as indulgences. The espresso here is properly Torinese, small, dense, and usually taken standing at the bar if you're in a hurry, though the tables are the point of coming here. Look up while you're inside: the painted ceiling and the ironwork of the Galleria Subalpina just outside the door are part of the same architectural moment, and a five-minute walk gets you to the Palazzo Reale and Piazza Castello's Palazzo Madama, so this fits naturally into a wander through Turin's Baroque core.
 
 ## Getting there
 
-The café sits directly on Piazza Castello, at the mouth of the Galleria Subalpina — you can't really miss it if you're crossing the square. It's an easy walk from Turin's Porta Nuova station (about 20 minutes on foot, or a short tram/bus ride) and sits within the pedestrianised heart of the centro storico, alongside Via Po and Via Roma. If you're touring the Egyptian Museum, the Royal Palace, or the Mole Antonelliana, this is a natural stop to fold into the same afternoon.
+The café sits directly on Piazza Castello, at the mouth of the Galleria Subalpina. You can't really miss it if you're crossing the square. It's an easy walk from Turin's Porta Nuova station (about 20 minutes on foot, or a short tram/bus ride) and sits within the pedestrianised heart of the centro storico, alongside Via Po and Via Roma. If you're touring the Egyptian Museum, the Royal Palace, or the Mole Antonelliana, this is a natural stop to fold into the same afternoon.
 
 ## When to go
 
-Baratti & Milano keeps regular café hours typical of central Turin's historic establishments. Measured foot-traffic patterns show it's quietest on weekdays between 9am and 10am, right at opening — that's your window if you want a table without waiting. Weekends run busy the entire day, from opening until close, so if you're visiting on a Saturday or Sunday, expect a fuller room whenever you arrive. This is a well-known, well-reviewed address, not a quiet back-street find, so plan around the crowds rather than expecting to dodge them entirely.
+Baratti & Milano keeps regular café hours typical of central Turin's historic establishments. Measured foot-traffic patterns show it's quietest on weekdays between 9am and 10am, right at opening. That's your window if you want a table without waiting. Weekends run busy the entire day, from opening until close, so if you're visiting on a Saturday or Sunday, expect a fuller room whenever you arrive. This is a well-known, well-reviewed address, not a quiet back-street find, so plan around the crowds rather than expecting to dodge them entirely.
 
 ## How to visit like a local
 
-Torinesi treat this as a place to sit, not rush through — if you only want a quick espresso, stand at the bar, which is cheaper and faster than table service. For the full bicerin experience, take a table and let the waiter bring it to you unstirred; stirring it yourself is fine, but tasting the layers separately first is part of the tradition.
+Torinesi treat this as a place to sit, not rush through, if you only want a quick espresso, stand at the bar, which is cheaper and faster than table service. For the full bicerin experience, take a table and let the waiter bring it to you unstirred; stirring it yourself is fine, but tasting the layers separately first is part of the tradition.
 
-Payment is by card or cash as you'd expect anywhere in central Turin, and a modest rounding-up rather than a large tip is the norm. The mistake visitors make is treating this purely as a chocolate shop and rushing the sit-down side, or arriving mid-morning on a weekend expecting calm — go right at 9am on a weekday instead, or accept the buzz as part of the experience.
+Payment is by card or cash as you'd expect anywhere in central Turin, and a modest rounding-up rather than a large tip is the norm. The mistake visitors make is treating this purely as a chocolate shop and rushing the sit-down side, or arriving mid-morning on a weekend expecting calm. Go right at 9am on a weekday instead, or accept the buzz as part of the experience.
 
 If you want chocolates to take home, ask the counter staff to box an assortment rather than picking blind; they're used to explaining what's what.

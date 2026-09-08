@@ -76,9 +76,9 @@ updatedDate: '2026-08-28'
 
 ## Why go
 
-You climb a steep, narrow road out of central Baguio and suddenly the city noise drops away. Pine trees crowd the slope, and above them sit a dozen weathered huts on stilts, roofs of cogon grass catching the mist. This is Tam-awan Village — part open-air museum, part artist colony, built to preserve a way of building and living that's vanishing from the Cordillera highlands.
+You climb a steep, narrow road out of central Baguio and suddenly the city noise drops away. Pine trees crowd the slope, and above them sit a dozen weathered huts on stilts, roofs of cogon grass catching the mist. This is Tam-awan Village, part open-air museum, part artist colony, built to preserve a way of building and living that's vanishing from the Cordillera highlands.
 
-The huts aren't replicas standing empty. They were dismantled from actual Ifugao and Kalinga villages decades ago and rebuilt here piece by piece, so the wood is genuinely old, the joinery genuinely traditional — no nails, just notched beams locking together.
+The huts aren't replicas standing empty. They were dismantled from actual Ifugao and Kalinga villages decades ago and rebuilt here piece by piece, so the wood is genuinely old, the joinery genuinely traditional, no nails, just notched beams locking together.
 
 ## What you'll actually see
 
@@ -98,11 +98,11 @@ Give yourself 90 minutes to two hours. Longer if you linger at the cafe or catch
 
 Tam-awan Village sits on Long-Long Road in Barangay Tam-awan, about 15–20 minutes by taxi or Grab from central Baguio, depending on traffic climbing out of downtown. There's no direct jeepney route, so a taxi, Grab, or a tricycle arranged through your accommodation is the practical way in.
 
-Drivers know the name — just confirm "Tam-awan Village, Long-Long Road" since there are similarly named streets nearby. A return trip usually costs more than the ride in, since taxis rarely wait around up there for a fare back down.
+Drivers know the name, just confirm "Tam-awan Village, Long-Long Road" since there are similarly named streets nearby. A return trip usually costs more than the ride in, since taxis rarely wait around up there for a fare back down.
 
 ## When to go
 
-The village is open daily, 7am to 8pm, which is generous for a hillside site like this. Early morning is genuinely the best light anyway — mist still sitting in the pine valleys, the huts quiet before anyone else arrives.
+The village is open daily, 7am to 8pm, which is generous for a hillside site like this. Early morning is genuinely the best light anyway, mist still sitting in the pine valleys, the huts quiet before anyone else arrives.
 
 Weekends between 9am and 6pm are the busiest stretch, when tour groups and day-trippers from Manila fill the paths and the small parking area. If you want the huts and viewpoints to yourself for photos, aim for the first hour or two after opening instead.
 
@@ -110,15 +110,15 @@ Rainy season (June–October) turns the paths muddy and views hazy, so the dry m
 
 ## How to visit like a local
 
-Arrive right at opening if you can — 7am to 9am on weekdays, or 7am to 8am on weekends, are the calmest windows before the day's crowds build. This isn't a hidden spot; it's a well-known stop on Baguio itineraries, so timing your visit matters more than trying to avoid the place altogether.
+Arrive right at opening if you can, 7am to 9am on weekdays, or 7am to 8am on weekends, are the calmest windows before the day's crowds build. This isn't a hidden spot; it's a well-known stop on Baguio itineraries, so timing your visit matters more than trying to avoid the place altogether.
 
 Practical notes:
 
-- Entrance fees are collected in cash at the gate — bring small peso bills
+- Entrance fees are collected in cash at the gate. Bring small peso bills
 - Wear closed shoes with grip; the log steps and dirt paths are uneven and slippery when wet
 - Bargaining is generally not expected at the on-site art shop, though small vendors near the entrance may flex a little
 - If a painting or weaving workshop is running that day, it's usually worth the extra time and small added cost
-- Don't rush through in 20 minutes — the huts reward slow walking, since captions and context are sparse and it helps to imagine how each one was actually used
+- Don't rush through in 20 minutes, the huts reward slow walking, since captions and context are sparse and it helps to imagine how each one was actually used
 
 Pair the visit with nearby BenCab Museum, a short drive further along the same road, for a fuller sense of Cordillera art and history in one trip.
 

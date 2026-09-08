@@ -29,7 +29,7 @@ draft: true
 
 You don't stumble onto La Sociedad Gastronomika. You book it, weeks or months out, because the room only holds twelve people at a time.
 
-That's the whole idea. Eneko Atxa, the Basque chef behind Azurmendi near Bilbao, has built a counter-style tasting experience around an open kitchen, so the twelve of you watch the plates come together a few feet away. No dining room theater, no distance between cooks and guests — just the pans, the flame, and the quiet choreography of a small brigade working a tight, exposed space.
+That's the whole idea. Eneko Atxa, the Basque chef behind Azurmendi near Bilbao, has built a counter-style tasting experience around an open kitchen, so the twelve of you watch the plates come together a few feet away. No dining room theater, no distance between cooks and guests, just the pans, the flame, and the quiet choreography of a small brigade working a tight, exposed space.
 
 Upstairs, the mood flips entirely. A 350-square-metre rooftop opens up for cocktails and tapas, with Madrid's skyline doing the work the tasting room deliberately doesn't.
 
@@ -37,13 +37,13 @@ Upstairs, the mood flips entirely. A 350-square-metre rooftop opens up for cockt
 
 Walk in and the scale hits you first. Twelve seats means every plate is basically served to you personally, not delivered to a table of strangers across the room.
 
-The open kitchen puts the whole process on display — the searing, the plating, the low conversation between cooks. Atxa's style elsewhere leans on Basque technique and Spanish produce treated with restraint, so expect a tasting menu built course by course rather than a printed à la carte list.
+The open kitchen puts the whole process on display, the searing, the plating, the low conversation between cooks. Atxa's style elsewhere leans on Basque technique and Spanish produce treated with restraint, so expect a tasting menu built course by course rather than a printed à la carte list.
 
 Because the format and offerings are still new for 2026, don't assume a fixed menu or price point. Call or check the restaurant's own channels before you go.
 
 ## The rooftop side
 
-After — or instead of — the tasting counter, the rooftop is its own destination. At 350 square metres, it's built for lingering: cocktails, tapas, and space to actually move around, which is rare in central Madrid.
+After, or instead of, the tasting counter, the rooftop is its own destination. At 350 square metres, it's built for lingering: cocktails, tapas, and space to actually move around, which is rare in central Madrid.
 
 This is the part of La Sociedad Gastronomika you could visit more casually. It reads less like a reservation-only tasting room and more like a rooftop bar that happens to sit above one of the city's most talked-about kitchens.
 
@@ -57,15 +57,15 @@ Build in extra time. Traffic and metro transfers in central Madrid can eat fifte
 
 ## How to visit like a local
 
-Book the tasting counter as early as you possibly can — a twelve-seat room tied to a name like Eneko Atxa fills fast, especially in its opening year.
+Book the tasting counter as early as you possibly can, a twelve-seat room tied to a name like Eneko Atxa fills fast, especially in its opening year.
 
 - Reserve directly through the restaurant's own booking channel rather than a third-party app, so any menu or timing changes reach you first
 - Treat the rooftop as the flexible option if the tasting room is booked out
 - Ask about dress code and any pre-payment or deposit policy when you book, since small tasting rooms often require it
-- Confirm the seating time in writing — with only twelve seats, service usually runs in fixed sittings rather than open hours
+- Confirm the seating time in writing, with only twelve seats, service usually runs in fixed sittings rather than open hours
 - Arrive on time; a small room can't absorb a late table the way a larger dining room can
 
-Madrileños tend to eat dinner late, often after 9pm, but a tasting counter like this one may run its own fixed seatings regardless of local habit. Don't assume typical Madrid dinner hours apply here — check first.
+Madrileños tend to eat dinner late, often after 9pm, but a tasting counter like this one may run its own fixed seatings regardless of local habit. Don't assume typical Madrid dinner hours apply here. Check first.
 
 ## Before you book
 

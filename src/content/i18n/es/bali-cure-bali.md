@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-cure-bali
-srcHash: 'edb53ad010ef'
+srcHash: '3ee0bdee0082'
 title: Cure Bali, en Bali
 description: 'Cure Bali, en Bali (Indonesia), es una de las aperturas más comentadas del momento: qué es, dónde está y cómo reservar una visita.'
 quickAnswer: Cure Bali es el primer restaurante que el chef Andrew Walsh abre fuera de Singapur, y acaba de inaugurarse dentro del recién estrenado Regent Bali Canggu. Combina la técnica europea con los sabores asiáticos y es una de las aperturas más comentadas de Canggu, por lo que conviene reservar con antelación en lugar de presentarse sin más. Dado el linaje Michelin que hay detrás, lo mejor es planteárselo como una cena (o un almuerzo) de destino, y no como una parada informal.

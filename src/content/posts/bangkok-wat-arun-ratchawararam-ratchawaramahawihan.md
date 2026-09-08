@@ -103,7 +103,7 @@ updatedDate: '2026-08-28'
 
 ## Why Wat Arun Matters
 
-Wat Arun Ratchawararam Ratchawaramahawihan — usually shortened to Wat Arun, the "Temple of Dawn" — is one of Bangkok's most photographed landmarks, and one of only a handful of Thai temples where visitors can climb partway up the central structure itself. The temple's fame rests on its 82-meter Khmer-style prang (spire), encrusted with thousands of pieces of Chinese porcelain and seashells that were reportedly recycled from ships' ballast in the 19th century.
+Wat Arun Ratchawararam Ratchawaramahawihan (usually shortened to Wat Arun, the "Temple of Dawn") is one of Bangkok's most photographed landmarks, and one of only a handful of Thai temples where visitors can climb partway up the central structure itself. The temple's fame rests on its 82-meter Khmer-style prang (spire), encrusted with thousands of pieces of Chinese porcelain and seashells that were reportedly recycled from ships' ballast in the 19th century.
 
 It predates Bangkok as capital: the site held a temple as far back as the Ayutthaya period, and King Taksin enshrined the Emerald Buddha here briefly after the fall of Ayutthaya before it moved to Wat Phra Kaew. With a 4.7 rating across nearly 45,000 reviews, it's consistently ranked among the city's top temple visits.
 
@@ -115,18 +115,18 @@ Many visitors combine this with Wat Pho and the Grand Palace, both a short walk 
 
 ## What to See
 
-The central prang dominates: steep steps (with handrails) lead to two viewing terraces, from which you get sweeping views over the river toward the Grand Palace and Wat Pho's spires. The steps are narrow and steep, so those with mobility or knee concerns may prefer the base terrace only. Up close, the mosaic work rewards slow looking — floral patterns and demon guardians (yaksha) made entirely from broken ceramic shards, a Rattanakosin-era practice of turning discarded Chinese trade porcelain into decoration.
+The central prang dominates: steep steps (with handrails) lead to two viewing terraces, from which you get sweeping views over the river toward the Grand Palace and Wat Pho's spires. The steps are narrow and steep, so those with mobility or knee concerns may prefer the base terrace only. Up close, the mosaic work rewards slow looking, floral patterns and demon guardians (yaksha) made entirely from broken ceramic shards, a Rattanakosin-era practice of turning discarded Chinese trade porcelain into decoration.
 
 Around the base, statues of Kinnari (half-woman, half-bird) and mythical guardian figures flank the stairways. The ordination hall (ubosot) to the west of the prang houses a Buddha image said to have been designed with assistance from King Rama II himself, and its murals depict scenes from the life of the Buddha. Budget 60-90 minutes to see the prang, ordination hall, and surrounding smaller chedis.
 
 ## When to Go
 
-Early morning (soon after opening, generally around 8am) avoids both heat and crowds, while late afternoon light around 4-5pm makes the mosaics glow gold. Despite its name, sunrise viewing from the temple itself isn't the main draw — instead, sunset is the classic photo moment, best captured from across the river at Tha Tien or from a riverside bar on the Wat Pho side, when the prang is lit against the darkening sky.
+Early morning (soon after opening, generally around 8am) avoids both heat and crowds, while late afternoon light around 4-5pm makes the mosaics glow gold. Despite its name, sunrise viewing from the temple itself isn't the main draw, instead, sunset is the classic photo moment, best captured from across the river at Tha Tien or from a riverside bar on the Wat Pho side, when the prang is lit against the darkening sky.
 
 Avoid midday in the dry season (March-May) when the stone steps and open terraces get punishingly hot. Admission fees and opening hours shift periodically, so check with your hotel or the temple's official signage on the day; Thai nationals typically enter free.
 
 ## Nearby & Practical Tips
 
-Dress modestly — shoulders and knees covered — as with any active Buddhist site; sarongs are often available to rent near the entrance if needed. After visiting, cross back to Tha Tien for the famous boat-noodle stalls near the pier, or continue on to Wat Pho (reclining Buddha) and the Grand Palace, both within a 10-15 minute walk of each other on the east bank.
+Dress modestly, shoulders and knees covered, as with any active Buddhist site; sarongs are often available to rent near the entrance if needed. After visiting, cross back to Tha Tien for the famous boat-noodle stalls near the pier, or continue on to Wat Pho (reclining Buddha), and the Grand Palace, both within a 10-15 minute walk of each other on the east bank.
 
-Riverside restaurants and rooftop bars on the Thonburi side, such as those near Arun Residence, offer close-up prang views without the daytime crowds — worth returning to after dark when the temple is illuminated.
+Riverside restaurants and rooftop bars on the Thonburi side, such as those near Arun Residence, offer close-up prang views without the daytime crowds, worth returning to after dark when the temple is illuminated.

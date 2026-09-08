@@ -71,7 +71,7 @@ Yoshikien isn't one garden but three, laid out side by side on the same grounds.
 
 Each style shifts the mood completely as you move between them. The moss garden in particular has that deep, almost velvet-green carpet that Kyoto gardens get famous for, minus the crowds.
 
-Isuien next door is older and more manicured, borrowing the hills of Mount Wakakusa into its view. Yoshikien is scrappier, quieter, and — as of recent years — free for overseas visitors, which makes pairing both an easy, low-cost afternoon.
+Isuien next door is older and more manicured, borrowing the hills of Mount Wakakusa into its view. Yoshikien is scrappier, quieter, and, as of recent years, free for overseas visitors, which makes pairing both an easy, low-cost afternoon.
 
 ## Getting there
 
@@ -79,10 +79,10 @@ Yoshikien sits at 60-1 Noboriōjichō, an easy walk from central Nara. From JR N
 
 Most visitors combine it with nearby sights on foot:
 
-- Todai-ji's Great Buddha Hall — 5–10 minutes
-- Isuien Garden — right next door
-- Kasuga Taisha — 15–20 minutes further on
-- Nara Park's deer meadows — surrounding the whole route
+- Todai-ji's Great Buddha Hall, 5–10 minutes
+- Isuien Garden, right next door
+- Kasuga Taisha, 15–20 minutes further on
+- Nara Park's deer meadows, surrounding the whole route
 
 There's no train station directly at the garden, so budget the walk into your day rather than relying on transit right to the gate.
 
@@ -90,7 +90,7 @@ There's no train station directly at the garden, so budget the walk into your da
 
 The teahouse is the visual anchor of the whole property, its dark timber and paper screens framed by clipped shrubs and a still pond. You can sit on the veranda and look out at koi drifting under lily pads.
 
-Paths loop between the three gardens without much signage, which is part of the charm — you're meant to wander, not follow arrows. Benches appear at just the right moments, usually facing a pond or a particularly good stand of maples.
+Paths loop between the three gardens without much signage, which is part of the charm. You're meant to wander, not follow arrows. Benches appear at just the right moments, usually facing a pond or a particularly good stand of maples.
 
 Autumn is when Yoshikien earns its reputation. Maple color usually peaks in late November, when the moss garden and pond reflect a rush of red and orange overhead.
 
@@ -98,18 +98,18 @@ Spring brings fresh green and occasional plum or cherry blossom along the edges,
 
 ## When to go
 
-The garden opens daily during standard daytime hours, with last entry typically around 4:30pm — worth checking on arrival. Weekends get busiest between noon and 3pm, exactly when day-trippers from Osaka and Kyoto pass through Nara Park.
+The garden opens daily during standard daytime hours, with last entry typically around 4:30pm, worth checking on arrival. Weekends get busiest between noon and 3pm, exactly when day-trippers from Osaka and Kyoto pass through Nara Park.
 
 If you're visiting on a weekend, the calm window is 4pm to 5pm, right before closing, when the light goes gold and the crowds have thinned to almost nobody. Weekday mornings shortly after opening are also a safe bet, before the tour groups finish breakfast and head this way.
 
 ## How to visit like a local
 
-Locals treat Yoshikien as a decompression stop after the intensity of Todai-ji and the deer crowds, not a headline destination — visit it in that spirit. Go late afternoon, especially near closing, for the emptiest paths and softest light.
+Locals treat Yoshikien as a decompression stop after the intensity of Todai-ji and the deer crowds, not a headline destination, visit it in that spirit. Go late afternoon, especially near closing, for the emptiest paths and softest light.
 
-Bring your passport or ID. As an international visitor, you typically get free admission, unlike domestic guests who pay a small entry fee — the staff at the gate will ask.
+Bring your passport or ID. As an international visitor, you typically get free admission, unlike domestic guests who pay a small entry fee. The staff at the gate will ask.
 
 Pace yourself: this isn't a garden to rush through in ten minutes. Thirty to forty-five minutes lets you sit at the teahouse veranda rather than just photograph it.
 
-Wear shoes you can slip off easily if you enter the tea house structure, and keep voices low — it's a contemplative space, not a photo-op backdrop. Cash isn't really needed once inside; the ticket process at the entrance is simple and quick.
+Wear shoes you can slip off easily if you enter the tea house structure, and keep voices low. It's a contemplative space, not a photo-op backdrop. Cash isn't really needed once inside; the ticket process at the entrance is simple and quick.
 
-Skip the gift-shop instinct — there isn't much of one here, and that's rather the point.
+Skip the gift-shop instinct. There isn't much of one here, and that's rather the point.

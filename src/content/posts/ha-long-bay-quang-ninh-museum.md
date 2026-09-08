@@ -97,7 +97,7 @@ Inside, the collection covers three floors: natural history, mining heritage, an
 
 The museum sits on Tran Quoc Nghiem road in Hong Gai ward, on Ha Long City's harbor side, close to the Bai Chay–Hon Gai passenger ferry area. Most visitors arrive by taxi or Grab from Bai Chay's hotel strip, a ride of roughly 15-20 minutes depending on traffic and bridge crossings.
 
-If you're already touring Ha Long Bay by boat, ask your operator whether a stop here fits the itinerary — some day tours pair it with the nearby Ha Long Market or Sun World Halong Complex. Walking is only realistic if you're staying in Hon Gai itself.
+If you're already touring Ha Long Bay by boat, ask your operator whether a stop here fits the itinerary, some day tours pair it with the nearby Ha Long Market or Sun World Halong Complex. Walking is only realistic if you're staying in Hon Gai itself.
 
 ## What's inside
 
@@ -120,13 +120,13 @@ Aim for a weekday morning. Crowd data for the museum shows the quietest stretch 
 
 Weekends are a different story: expect a steady flow of visitors from 9am straight through to closing at 5pm, with no real lull. If a weekend visit is your only option, arriving right at 8am opening still beats midday.
 
-Note the midday closure — the museum shuts from 12pm to 1pm daily for lunch, so don't plan to arrive right at noon expecting to walk straight in.
+Note the midday closure, the museum shuts from 12pm to 1pm daily for lunch, so don't plan to arrive right at noon expecting to walk straight in.
 
 ## How to visit like a local
 
 Because this museum draws heavy weekend traffic, the smartest move is treating it like a weekday errand rather than a weekend headline stop. Locals and repeat visitors favor that quiet 8am–12pm weekday window specifically to avoid tour-bus clusters that build up later in the day.
 
-Buy tickets at the front desk on arrival — this isn't a place where advance online booking is standard practice, so just show up and queue briefly if needed.
+Buy tickets at the front desk on arrival. This isn't a place where advance online booking is standard practice, so just show up and queue briefly if needed.
 
 A few practical notes:
 
@@ -134,7 +134,7 @@ A few practical notes:
 - Budget 60-90 minutes to move through all three floors without rushing
 - Skip the mistake most tourists make: racing through for photos of the exterior and skimping on the mining-heritage floor, which is genuinely the most locally specific section
 - Pair the visit with a walk along the harbor promenade outside, where you get the best full view of the building's mirrored facade
-- Modest, comfortable clothing is fine — there's no strict dress code, but it's an air-conditioned indoor space so bring a light layer
+- Modest, comfortable clothing is fine. There's no strict dress code, but it's an air-conditioned indoor space so bring a light layer
 
 Since the museum is very much on the mainstream circuit rather than a hidden find, the real "local" move is timing your visit well, not seeking out a secret entrance or backdoor tip.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: selcuk-basilica-of-saint-john
-srcHash: '8f4703a2be77'
+srcHash: 'acb27742f880'
 title: 圣约翰大教堂：塞尔丘克旅行指南（4.7★）
 description: 塞尔丘克的圣约翰大教堂坐落在阿亚苏鲁克山（Ayasuluk Hill）上，俯瞰市中心，每日8:00–18:00开放。4.7★（3,057条评价）——游客怎么说、开放时间及游览贴士，一一为你整理。
 quickAnswer: 塞尔丘克的圣约翰大教堂坐落在阿亚苏鲁克山（Ayasuluk Hill）上，俯瞰市中心，每日8:00–18:00开放。沿着残破的中殿漫步，再往上爬到城堡处眺望风景，预留45到60分钟即可。这里离以弗所（Ephesus）和山下的伊萨贝清真寺（Isa Bey Mosque）都不远，步行或开车很快就能到，很适合安排在同一天游览。

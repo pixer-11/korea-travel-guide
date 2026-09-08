@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-bwf-world-championships-2026
-srcHash: '94d8fe970c29'
+srcHash: '491f034afca4'
 title: 'Campeonato Mundial de Bádminton BWF 2026: lo que hay que saber (Nueva Delhi)'
 description: El Campeonato Mundial de Bádminton BWF 2026 estaba previsto del 17 al 23 de agosto de 2026 en el Indira Gandhi Arena de Nueva Delhi, la primera vez que India sería sede del torneo en 17 años.
 quickAnswer: El Campeonato Mundial de Bádminton BWF 2026 estaba previsto del 17 al 23 de agosto de 2026 en el Indira Gandhi Arena de Nueva Delhi, la primera vez que India sería sede del torneo en 17 años. Entre los jugadores anunciados figuraban Shi Yu Qi, An Se-young, Lakshya Sen y PV Sindhu. Las sesiones de las finales suelen atraer al público más numeroso durante el fin de semana de clausura.

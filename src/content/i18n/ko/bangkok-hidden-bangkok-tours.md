@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-hidden-bangkok-tours
-srcHash: '6d38893d6a5e'
+srcHash: 'a4bf0bc3b6a9'
 title: '히든 방콕 투어스(Hidden Bangkok Tours): 여행 가이드'
 description: 히든 방콕 투어스(Hidden Bangkok Tours)는 왕궁 건너편 강가의 옛 운하 지역인 톤부리와 방콕야이(Thonburi, Bangkok Yai)를 둘러보는 소규모 도보 투어를 운영하며, 현지 사원, 숍하우스 골목, 길거리 음식에 중점을 둡니다.
 quickAnswer: 히든 방콕 투어스(Hidden Bangkok Tours)는 왕궁 건너편 강가의 옛 운하 지역인 톤부리와 방콕야이(Thonburi, Bangkok Yai)를 도는 소규모 도보 투어를 운영하며, 관광 중심가에서는 볼 수 없는 현지 사원, 숍하우스 골목, 길거리 음식에 초점을 맞춥니다. 왓 아룬(Wat Arun)이나 원위안야이 BTS(Wongwian Yai BTS) 인근에 숙소를 잡고, 더위를 피할 수 있는 오전이나 늦은 오후 시간대를 예약하며, 3~4시간 정도를 배정해 두세요. 거의 400개에 달하는 리뷰에서 4.9점의 평점을 받은 이 투어는 이미 왕궁 코스를 다녀왔고 서민적이고 주거색이 짙은 도시의 이면을 보고 싶은 여행자에게 안성맞춤입니다.

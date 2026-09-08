@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-pike-place-market
-srcHash: 'ede4af1d0878'
+srcHash: '8a16600eb68a'
 title: 'Pike Place Market: Dónde comer en Seattle'
 description: 'Olvídate de las multitudes que lanzan pescado y disfruta comiendo por todo Pike Place Market: empieza con un piroshky en Piroshky Piroshky, prueba un cóctel de cangrejo o salmón en las pescaderías de la galería principal, cómprate una rosquilla recién hecha en Daily Dozen y termina con clam chowder servido en un panecillo hueco de masa madre (bread bowl).'
 quickAnswer: 'Olvídate de las multitudes que lanzan pescado y disfruta comiendo por todo Pike Place Market: empieza con un piroshky en Piroshky Piroshky, prueba un cóctel de cangrejo o salmón en las pescaderías de la galería principal, cómprate una rosquilla recién hecha en Daily Dozen y termina con clam chowder servido en un panecillo hueco de masa madre (bread bowl). Ve un día de semana por la mañana (entre 8:30 y 10:00) para evitar los autobuses turísticos, y calcula entre dos y tres horas para comer, pasear por los puestos y ver de cerca el Starbucks original y el Gum Wall cercano.'

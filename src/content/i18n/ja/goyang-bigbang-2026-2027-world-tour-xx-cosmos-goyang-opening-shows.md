@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows
-srcHash: 'f233ba5c56a0'
+srcHash: '62a4b03a73b6'
 title: 'BIGBANG 2026-2027ワールドツアー「XX: COSMOS」高陽公演オープニング公演について(高陽)'
 description: 'BIGBANGのワールドツアー「XX: COSMOS」は、2026年8月21日から23日までの3夜にわたり高陽(コヤン)スタジアムで開催される予定でした。会場情報、交通アクセス、発表内容をまとめました。'
 quickAnswer: 'BIGBANGは、デビュー20周年を記念したワールドツアー「XX: COSMOS」の一環として、2026年8月21日から23日にかけて高陽スタジアムでスタジアム公演を3回行う予定でした。最寄りのアクセスはソウル地下鉄3号線の元興(ウォンフン)駅です。'

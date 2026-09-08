@@ -78,13 +78,13 @@ Pasar Oro Oro Dowo is not a tourist market dressed up for visitors. It's a worki
 
 You come here for the unfiltered version of daily life: piles of chilies sorted by heat level, baskets of galangal and turmeric root stacked next to plastic buckets of live catfish, and vendors calling out prices over the hum of scooters idling outside.
 
-With a rating of 4.7 from well over 13,000 reviews, it's clearly not a secret — this is one of the most visited markets in the city, not an undiscovered corner.
+With a rating of 4.7 from well over 13,000 reviews, it's clearly not a secret. This is one of the most visited markets in the city, not an undiscovered corner.
 
 ## Getting there
 
 The market sits on Jl. Guntur No. 20, in Oro-oro Dowo, a short ride from central Malang landmarks like Ijen Boulevard and the Malang train station area.
 
-Most visitors arrive by taxi app or private car, since there's no direct rail or major bus line serving the street. Tell your driver "Pasar Oro Oro Dowo" — it's well known enough that any local driver will recognize it immediately.
+Most visitors arrive by taxi app or private car, since there's no direct rail or major bus line serving the street. Tell your driver "Pasar Oro Oro Dowo". It's well known enough that any local driver will recognize it immediately.
 
 Parking is informal and fills up fast during morning hours, so arriving by ride-hail scooter or car saves you the hassle of circling the block.
 
@@ -93,14 +93,14 @@ Parking is informal and fills up fast during morning hours, so arriving by ride-
 The layout is classic Indonesian wet market: covered aisles, low ceilings, concrete floors slick from ice and water runoff, and narrow lanes packed tight with stalls.
 
 Look for:
-- Fresh tropical fruit — rambutan, salak, jackfruit, and seasonal mangoes piled in crates
+- Fresh tropical fruit, rambutan, salak, jackfruit, and seasonal mangoes piled in crates
 - Spice vendors selling ground and whole rempah-rempah by the kilo or in small paper twists
 - Warung stalls serving nasi pecel, soto, and fried snacks straight off the wok
-- Household goods sections — cookware, woven baskets, cleaning supplies — tucked toward the back
+- Household goods sections (cookware, woven baskets, cleaning supplies) tucked toward the back
 
 The smell is the first thing that hits you: charcoal smoke from the food stalls mixing with the sharp, green scent of crushed lemongrass and the earthy funk of dried shrimp paste.
 
-Don't expect polished signage or English menus. Point, ask, and follow what the vendor next to you is eating — it's usually the right call.
+Don't expect polished signage or English menus. Point, ask, and follow what the vendor next to you is eating. It's usually the right call.
 
 ## When to go
 
@@ -108,15 +108,15 @@ The market runs daily from 5am to 5pm, but the personality of the place changes 
 
 Weekend mornings between 7am and noon are the busiest stretch by far, when the market fills with families doing their weekly shop and the aisles narrow to a shuffle. If you want breathing room, weekday afternoons from 1pm to 5pm are noticeably calmer, and weekend afternoons from 2pm to 5pm are your best quiet window if a weekday doesn't work.
 
-Early morning (5–7am) is when the produce is freshest and the food stalls are just firing up, but it's also when locals do their own shopping — expect elbow-to-elbow lanes.
+Early morning (5–7am) is when the produce is freshest and the food stalls are just firing up, but it's also when locals do their own shopping. Expect elbow-to-elbow lanes.
 
 ## How to visit like a local
 
-Come with small rupiah notes and coins — vendors here deal almost entirely in cash, and breaking a large bill for a small produce purchase is a minor social friction you can avoid.
+Come with small rupiah notes and coins, vendors here deal almost entirely in cash, and breaking a large bill for a small produce purchase is a minor social friction you can avoid.
 
 There's no formal queue system at food stalls; you order directly at the counter or find a seat and someone will come to you. Pointing at what you want is completely normal and expected, especially if your Bahasa Indonesia is limited.
 
-Haggling happens, but gently — a polite "boleh kurang?" (can it be less?) is enough at produce stalls, though most household goods and prepared food have fixed prices.
+Haggling happens, but gently, a polite "boleh kurang?" (can it be less?) is enough at produce stalls, though most household goods and prepared food have fixed prices.
 
 The mistake first-time visitors make is treating this like a tourist attraction to photograph rather than a market to actually shop and eat at. Buy something, eat a warung meal, and you'll get a warmer response than if you just wander with a camera.
 

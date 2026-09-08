@@ -87,13 +87,13 @@ faq:
 aiGenerated: true
 ---
 
-You come up Rue de la Peyrolerie or Rue Peyrollerie and the street just opens. One moment you're between narrow honey-stone buildings, the next the Palais des Papes fills the whole sky in front of you. That's Place du Palais — not a monument itself, but the stage the monuments stand on.
+You come up Rue de la Peyrolerie or Rue Peyrollerie and the street just opens. One moment you're between narrow honey-stone buildings, the next the Palais des Papes fills the whole sky in front of you. That's Place du Palais, not a monument itself, but the stage the monuments stand on.
 
 The square is enormous by old-town standards, a flat expanse of pale stone ringed by the papal palace, the Petit Palais museum, and the Romanesque bulk of Avignon Cathedral with its gilded Virgin glinting on top. In summer the light bounces hard off the limestone by midday; go early and it's soft and low, raking across the palace's turrets and buttresses.
 
 ## Why this square matters
 
-This isn't a leftover gap between buildings — it's the reason Avignon looks the way it does. When the papacy relocated here in the 14th century, this plaza became the ceremonial front yard of Christendom's other capital.
+This isn't a leftover gap between buildings. It's the reason Avignon looks the way it does. When the papacy relocated here in the 14th century, this plaza became the ceremonial front yard of Christendom's other capital.
 
 Processions, coronations, and crowds gathered exactly where you're standing. The scale of the square only makes sense once you look up at the fortress-palace it was built to serve.
 
@@ -101,9 +101,9 @@ Processions, coronations, and crowds gathered exactly where you're standing. The
 
 Three landmarks anchor the space, each worth a slow look before you move on:
 
-- **Palais des Papes** — the largest Gothic palace in Europe, its facade a wall of towers and arrow-slit windows
-- **Avignon Cathedral (Notre-Dame des Doms)** — 12th-century, with a 19th-century gilded statue of the Virgin Mary crowning its tower
-- **Petit Palais** — a former archbishops' residence, now a museum of Italian Renaissance paintings
+- **Palais des Papes**, the largest Gothic palace in Europe, its facade a wall of towers and arrow-slit windows
+- **Avignon Cathedral (Notre-Dame des Doms)**, 12th-century, with a 19th-century gilded statue of the Virgin Mary crowning its tower
+- **Petit Palais**, a former archbishops' residence, now a museum of Italian Renaissance paintings
 
 The square itself is free and open around the clock, since it's a public plaza rather than a ticketed site. The buildings around it keep their own hours and admission fees, so check those separately if you plan to go inside the palace.
 
@@ -115,14 +115,14 @@ If you're coming from Avignon TGV station outside the walls, hop the shuttle bus
 
 ## When to go
 
-The square has no opening hours to worry about, which means you can shape your visit around the crowds instead. Midday brings the heaviest footfall — tour groups clustering for palace tickets and photos in front of the facade.
+The square has no opening hours to worry about, which means you can shape your visit around the crowds instead. Midday brings the heaviest footfall, tour groups clustering for palace tickets and photos in front of the facade.
 
 Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd.
 
 ## How to visit like a local
 
-Skip the midday crush and come at first light or after 9pm instead — the square empties out and the palace facade photographs far better without a hundred people in the frame. There's no queue system for the square itself since it's open public space; only the Palais des Papes ticket line requires patience.
+Skip the midday crush and come at first light or after 9pm instead, the square empties out and the palace facade photographs far better without a hundred people in the frame. There's no queue system for the square itself since it's open public space; only the Palais des Papes ticket line requires patience.
 
-If you want a coffee facing the palace, expect café prices, not old-town-backstreet prices — you're paying for the view. Cash and card are both accepted almost everywhere in central Avignon.
+If you want a coffee facing the palace, expect café prices, not old-town-backstreet prices. You're paying for the view. Cash and card are both accepted almost everywhere in central Avignon.
 
-The etiquette here is simple: this is a working public square with a cathedral still holding services, so keep noise down near the church entrance and be mindful during any wedding or Mass. Most visitors make the mistake of beelining straight for the palace ticket office and never turning around — pause and take in the cathedral and Petit Palais too, since all three sit on the same stone stage.
+The etiquette here is simple: this is a working public square with a cathedral still holding services, so keep noise down near the church entrance and be mindful during any wedding or Mass. Most visitors make the mistake of beelining straight for the palace ticket office and never turning around, pause and take in the cathedral and Petit Palais too, since all three sit on the same stone stage.

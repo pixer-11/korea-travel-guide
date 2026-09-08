@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-incheon-pentaport-rock-festival-2026
-srcHash: 'b36605d5a432'
+srcHash: 'fa4b8f7e4341'
 title: 'Incheon Pentaport Rock Festival 2026: lo que hay que saber (Incheon)'
 description: El Incheon Pentaport Rock Festival 2026 estaba programado para el 31 de julio al 2 de agosto de 2026 en el Songdo Moonlight Festival Park, con Pixies, hyukoh y LEE SEUNG YOON.
 quickAnswer: El Incheon Pentaport Rock Festival 2026 estaba programado para el 31 de julio al 2 de agosto de 2026 en el Songdo Moonlight Festival Park, en Incheon. Pixies fueron anunciados como cabeza de cartel, junto a los artistas coreanos hyukoh y LEE SEUNG YOON. La información sobre las entradas del festival se publicó en el sitio oficial de Pentaport.

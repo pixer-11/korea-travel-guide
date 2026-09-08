@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-sebastian-bar-txepetxa
-srcHash: '4f968c130a5a'
+srcHash: '5fd83d0cb896'
 title: Bar Txepetxa：圣塞巴斯蒂安美食指南
 description: Bar Txepetxa位于圣塞巴斯蒂安老城区（Parte Vieja）Arrandegi Kalea 5号，是一家只专注一件事的albacor pintxos酒吧：把凤尾鱼做出十几种花样。
 quickAnswer: Bar Txepetxa位于圣塞巴斯蒂安老城区（Parte Vieja）Arrandegi Kalea 5号，是一家只专注一件事的pintxos酒吧：把凤尾鱼做出十几种花样。建议早点去（下午1点或晚上8点），才能占到吧台位置，点上3-4份凤尾鱼pintxos，配一杯txakoli白葡萄酒，在吧台前站着吃20-30分钟即可——这里是pintxos巡礼路上的一站，不是坐下来慢慢吃的正餐。

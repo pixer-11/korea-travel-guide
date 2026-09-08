@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: milan-tyler-the-creator-concert
-srcHash: '95d9b4e85267'
+srcHash: 'f75c74f8187c'
 title: Tyler, The Creator米兰演唱会须知
 description: Tyler, The Creator原定于2026年8月25日在米兰罗（Rho）的米兰国际展览中心现场馆（Fiera Milano Live）演出。以下是关于演出、场馆和交通方式的已公布信息。
 quickAnswer: Tyler, The Creator的米兰站演出原定于2026年8月25日在罗（Rho）的米兰国际展览中心现场馆（Fiera Milano Live）举行，属于其最新专辑巡演的一站。按照这个场馆的惯例，开场前几个小时通常就会开放入场。官方公布的内容只涉及日期和场馆，开门时间、暖场嘉宾和票价档位均未公开。

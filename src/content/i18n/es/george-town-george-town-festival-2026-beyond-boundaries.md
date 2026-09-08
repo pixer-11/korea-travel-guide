@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: george-town-george-town-festival-2026-beyond-boundaries
-srcHash: 'b51514d073f3'
+srcHash: 'b326c6675add'
 title: 'Festival de George Town 2026 (Beyond Boundaries): lo que hay que saber (George Town)'
 description: El Festival de George Town 2026 ("Beyond Boundaries") se celebra en George Town, Malasia, del 1 al 9 de agosto de 2026. Qué es, cuándo y dónde se celebra, y el programa anunciado.
 quickAnswer: El Festival de George Town 2026 ("Beyond Boundaries") estaba previsto del 1 al 9 de agosto en el casco histórico de Penang declarado Patrimonio de la Humanidad por la UNESCO, con más de 40 programas internacionales de teatro, danza, música y artes repartidos por calles y edificios históricos. La zona patrimonial cercana a Armenian Street y Love Lane queda a poca distancia a pie de la mayoría de los espacios, y el programa combinaba funciones gratuitas y con entrada de pago.

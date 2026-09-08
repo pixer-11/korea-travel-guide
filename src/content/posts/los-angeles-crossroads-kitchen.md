@@ -53,13 +53,13 @@ draft: false
 
 You don't expect a vegan restaurant to feel like this. Crossroads Kitchen, tucked into a low-slung building on Melrose Avenue, greets you with dim amber lighting, a marble bar, and the low hum of conversation over cocktails.
 
-Co-founded with backing from Chef Tal Ronnen, it's built its reputation on proving plant-based fine dining doesn't need to announce itself. The menu reads like an upscale Italian-American spot — house-made pastas, wood-fired flatbreads, a raw bar — until you notice everything on it is vegan.
+Co-founded with backing from Chef Tal Ronnen, it's built its reputation on proving plant-based fine dining doesn't need to announce itself. The menu reads like an upscale Italian-American spot (house-made pastas, wood-fired flatbreads, a raw bar) until you notice everything on it is vegan.
 
 That's the trick. You're not here for "vegan food." You're here for good food that happens to be vegan.
 
 ## Getting there and what to expect
 
-The restaurant sits at 8284 Melrose Ave, near the border of West Hollywood and the Fairfax District. It's a short drive or rideshare from Sunset Boulevard's hotel strip, and street parking on Melrose is tight — valet is the easier call most evenings.
+The restaurant sits at 8284 Melrose Ave, near the border of West Hollywood and the Fairfax District. It's a short drive or rideshare from Sunset Boulevard's hotel strip, and street parking on Melrose is tight, valet is the easier call most evenings.
 
 There's no nearby Metro rail stop, so most visitors arrive by car or rideshare. If you're already exploring Melrose's boutiques and vintage shops, it's an easy walk-in stop for lunch.
 
@@ -69,13 +69,13 @@ The kitchen's strength is texture and technique, not substitution. Expect dishes
 
 Regulars point to a handful of standouts:
 
-- The artichoke oysters — a signature starter using hearts of palm and hen-of-the-woods mushroom
+- The artichoke oysters, a signature starter using hearts of palm and hen-of-the-woods mushroom
 - House-made cashew cheese boards, good for sharing before the main course
 - Wood-fired flatbreads with seasonal vegetable toppings
 - Handmade pastas, often the kitchen's most talked-about course
 - Craft cocktails and a wine list that leans natural and organic
 
-Portions and pricing sit in the upscale-dinner range — this is a special-occasion or date-night spot more than a quick bite.
+Portions and pricing sit in the upscale-dinner range. This is a special-occasion or date-night spot more than a quick bite.
 
 ## When to go
 
@@ -85,16 +85,16 @@ Sunday dinner wraps earliest, at 9pm, so don't plan a late Sunday-night booking.
 
 ## How to visit like a local
 
-This is a well-known name on the LA vegan-dining circuit, not a quiet discovery — treat it accordingly and plan ahead rather than walking in and hoping.
+This is a well-known name on the LA vegan-dining circuit, not a quiet discovery, treat it accordingly and plan ahead rather than walking in and hoping.
 
 - **Book ahead.** Weekend dinners fill fast; a reservation is the difference between a table and a long wait at the bar.
 - **Go on a weeknight.** Tuesday or Wednesday dinner is calmer than Friday or Saturday, when the later 10pm closing signals a busier crowd.
 - **Lunch is the quieter play.** If you want the food without the wait, the weekday 11:30am–2:30pm window is your best bet.
-- **Dress a notch up.** The room skews upscale-casual — think date night, not flip-flops.
-- **Tipping and payment follow standard US restaurant norms** — card is expected, and 18–20% gratuity is the local standard for full-service dining.
-- **The rookie mistake:** treating it as a casual salad stop. Order like you would at any serious restaurant — start with a shareable plate, order pasta as your main, and let the cocktail list do some of the work.
+- **Dress a notch up.** The room skews upscale-casual, think date night, not flip-flops.
+- **Tipping and payment follow standard US restaurant norms**, card is expected, and 18–20% gratuity is the local standard for full-service dining.
+- **The rookie mistake:** treating it as a casual salad stop. Order like you would at any serious restaurant. Start with a shareable plate, order pasta as your main, and let the cocktail list do some of the work.
 
 ## Nearby and worth combining
 
-Melrose Avenue itself is the draw around it — vintage clothing stores, design galleries, and street art murals stretch for several blocks in both directions. Pair an early dinner with a pre-meal wander, since the strip is at its most walkable in the late afternoon light before shops start closing.
+Melrose Avenue itself is the draw around it, vintage clothing stores, design galleries, and street art murals stretch for several blocks in both directions. Pair an early dinner with a pre-meal wander, since the strip is at its most walkable in the late afternoon light before shops start closing.
 

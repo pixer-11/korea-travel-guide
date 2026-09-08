@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-vagabond
-srcHash: '42d5857b7890'
+srcHash: '894b58c054ba'
 title: 'Vagabond: guía de viaje de Yakarta'
 description: 'Vagabond, en Yakarta (Indonesia), es uno de los lugares de moda del momento: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: 'Vagabond es un bar de cócteles junto a la azotea del piso 25 de la Multivision Tower, en Kuningan, Yakarta Sur, y hoy es uno de los puntos nocturnos más comentados de la ciudad por su coctelería creativa y su selección musical cuidada. Conviene ir en día de semana si se quiere charlar tranquilamente con la pareja, o sumarse al bullicio de viernes y sábado, cuando el lugar alcanza su plenitud. Es recomendable reservar con antelación: por ahora no es un sitio al que se pueda llegar sin reserva y esperar mesa.'

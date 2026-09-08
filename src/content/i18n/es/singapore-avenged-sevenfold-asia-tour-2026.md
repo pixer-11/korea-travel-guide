@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-avenged-sevenfold-asia-tour-2026
-srcHash: '4f69f2f22fe6'
+srcHash: '958edda6777b'
 title: 'Gira asiática de Avenged Sevenfold 2026: fechas, entradas y recinto (Singapur)'
 description: La gira asiática de Avenged Sevenfold 2026 llega a Singapur el 13 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
 quickAnswer: La gira asiática de Avenged Sevenfold 2026 trae a la banda de metal californiana al Singapore Indoor Stadium el 13 de octubre de 2026. El recinto se encuentra en Kallang, a poca distancia a pie de la estación de MRT Stadium, lo que lo convierte en uno de los conciertos de arena más fáciles de la ciudad a los que llegar sin coche. Confirme el horario y las entradas en la web oficial antes de reservar vuelos u hotel.

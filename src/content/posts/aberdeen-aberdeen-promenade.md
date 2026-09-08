@@ -51,13 +51,13 @@ draft: false
 
 ## Why go
 
-Aberdeen isn't the postcard version of Hong Kong you see on brochures — it's better, in a scruffier way. This promenade runs along the harbour where fishing junks, sampans and the occasional houseboat still jostle for space, a working waterfront that hasn't been polished into a shopping mall.
+Aberdeen isn't the postcard version of Hong Kong you see on brochures. It's better, in a scruffier way. This promenade runs along the harbour where fishing junks, sampans and the occasional houseboat still jostle for space, a working waterfront that hasn't been polished into a shopping mall.
 
 You come here for the water, not the park itself. Egrets pick through the shallows near the moored boats. Old men fish off the railing with hand lines. The air smells faintly of diesel and salt, cut through by whatever's frying at a nearby dai pai dong.
 
 ## What you'll actually see
 
-The boardwalk is dotted with quirky public sculptures and oddly shaped benches — some curved like waves, some tiled in bright mosaic. Kids climb on them; nobody minds.
+The boardwalk is dotted with quirky public sculptures and oddly shaped benches, some curved like waves, some tiled in bright mosaic. Kids climb on them; nobody minds.
 
 Across the harbour you'll spot Ap Lei Chau and the hulking shape of a floating restaurant that's long been an Aberdeen landmark. Sampans still ferry passengers across for a small fare, a genuinely useful and atmospheric way to cross rather than a gimmick.
 
@@ -72,7 +72,7 @@ Look out for:
 
 Aberdeen sits on the south side of Hong Kong Island, a world away from the Central skyline in feel if not in distance.
 
-- **Bus:** Routes from Central (Exchange Square) and Causeway Bay run directly to Aberdeen — journey is roughly 20–30 minutes depending on traffic.
+- **Bus:** Routes from Central (Exchange Square) and Causeway Bay run directly to Aberdeen, journey is roughly 20–30 minutes depending on traffic.
 - **Taxi:** Straightforward from Central or Ocean Park, usually 15–20 minutes.
 - **On foot:** If you're coming from Ocean Park, it's a manageable downhill walk of about 15–20 minutes.
 
@@ -82,7 +82,7 @@ There's no MTR station right in Aberdeen, which is part of why it feels less ove
 
 Go early morning, before 9am, when the light is soft and the fishing boats are still stirring. It's noticeably cooler and quieter than midday, when the concrete boardwalk radiates heat with almost no shade.
 
-Late afternoon into sunset is the other sweet spot — boats returning, the sky turning orange behind Ap Lei Chau, temperatures dropping enough to walk comfortably.
+Late afternoon into sunset is the other sweet spot, boats returning, the sky turning orange behind Ap Lei Chau, temperatures dropping enough to walk comfortably.
 
 Avoid the hottest hours in summer, roughly 11am to 3pm; there's little shelter and humidity in Aberdeen runs high.
 
@@ -98,11 +98,11 @@ Budget an hour for the promenade alone, or half a day if you're combining it wit
 
 ## How to visit like a local
 
-Nobody dresses up for Aberdeen Promenade — it's a public park, and locals treat it as a place to walk the dog, fish, or sit with a takeaway coffee rather than a sight to photograph.
+Nobody dresses up for Aberdeen Promenade. It's a public park, and locals treat it as a place to walk the dog, fish, or sit with a takeaway coffee rather than a sight to photograph.
 
 - **Sampan rides:** Negotiate the fare with the boat operator before boarding, or ask a local nearby what the going rate is that day; it's typically a small cash amount per person.
-- **Payment:** Bring cash for sampans and any street food stalls — most small vendors here don't take cards.
+- **Payment:** Bring cash for sampans and any street food stalls. Most small vendors here don't take cards.
 - **Etiquette:** Keep noise down near the fishing boats early morning; people are working, not posing for tourists.
-- **Common mistake:** Visitors often rush through en route to Ocean Park without pausing at the water. Slow down — the boats and birdlife are the actual draw, not the boardwalk itself.
+- **Common mistake:** Visitors often rush through en route to Ocean Park without pausing at the water. Slow down. The boats and birdlife are the actual draw, not the boardwalk itself.
 - **Best pace:** Walk the full length one way, then loop back on the inland side past the seating sculptures rather than retracing the same path.
 

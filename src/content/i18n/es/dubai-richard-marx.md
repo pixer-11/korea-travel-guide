@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-richard-marx
-srcHash: '81e2b1d8087f'
+srcHash: '6e2efc43e12d'
 title: 'Richard Marx en Dubái: fechas, entradas y recinto'
 description: Richard Marx actúa en Dubái, Emiratos Árabes Unidos, el 3 de octubre de 2026. Qué es, cuándo y dónde será, y cómo organizar tu visita.
 quickAnswer: 'Richard Marx se presentará en el Coca-Cola Arena de Dubái el 3 de octubre de 2026, en lo que será su primera actuación en Oriente Medio. Es un único concierto en el distrito de City Walk, así que conviene confirmar las entradas y los horarios exactos en el sitio oficial del Coca-Cola Arena o con sus socios autorizados de venta. Reserva con antelación: los conciertos individuales de cantautores veteranos en este recinto suelen atraer a un público amplio y fiel.'

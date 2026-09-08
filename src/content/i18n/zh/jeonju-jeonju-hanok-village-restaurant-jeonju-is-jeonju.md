@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju
-srcHash: '8ea744a35a56'
+srcHash: 'f3ece419fd07'
 title: 全州韩屋村餐厅指南:去哪儿吃
 description: 前往全州韩屋村(完山区)品尝这座城市的招牌菜拌饭，同时别错过马格利酒(米酒)和豆芽汤饭。
 quickAnswer: 前往全州韩屋村(完山区)品尝这座城市的招牌菜拌饭，同时别错过马格利酒(米酒)和豆芽汤饭。可以先锁定一个地址作为起点——完山区太祖路31号(31 Taejo-ro),这是一家韩屋村餐厅，评分4.1,315条评价——但最好把它当作一个起点，计划在附近多逛几家摊位和小餐馆，而不是只吃一顿饭。建议预留2-3小时用于用餐和漫步周边巷弄。

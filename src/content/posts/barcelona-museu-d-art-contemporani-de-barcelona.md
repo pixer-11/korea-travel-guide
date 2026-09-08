@@ -73,13 +73,13 @@ You see MACBA before you reach it. The glass-and-white-panel facade throws back 
 
 Richard Meier designed the building in the early 1990s, and it still reads as an architectural argument: rational, luminous, faintly futuristic against the medieval alleys around it. Inside, ramps and a long glass wall pull natural light deep into the galleries, so the art changes character with the hour.
 
-The collection runs from the 1940s to now, heavy on Catalan and Spanish postwar work — Tàpies, Barceló, Dau al Set — alongside international conceptual and post-war pieces. It's not the Prado's kind of museum; it rewards people who like being unsettled a little.
+The collection runs from the 1940s to now, heavy on Catalan and Spanish postwar work (Tàpies, Barceló, Dau al Set) alongside international conceptual and post-war pieces. It's not the Prado's kind of museum; it rewards people who like being unsettled a little.
 
 ## Getting there
 
 MACBA sits at Plaça dels Àngels, 1, in Ciutat Vella, a five-minute walk from Barcelona's old town core. The nearest metro stops are Universitat (Lines 1 and 2) and Catalunya (Lines 1 and 3), both roughly 8–10 minutes on foot.
 
-If you're coming from La Rambla, cut west through Carrer del Bonsuccés — you'll pass the skateboarders who've colonized the museum's front plaza, part of the square's daily texture.
+If you're coming from La Rambla, cut west through Carrer del Bonsuccés. You'll pass the skateboarders who've colonized the museum's front plaza, part of the square's daily texture.
 
 ## What to see inside
 
@@ -90,7 +90,7 @@ Look for:
 - Antoni Tàpies' matter paintings, thick with sand and texture
 - Works from the Dau al Set group, Catalonia's postwar avant-garde
 - Rotating international exhibitions, often photography or installation-based
-- The building itself — pause on the ramps for the framed views back over the plaza
+- The building itself, pause on the ramps for the framed views back over the plaza
 
 Temporary shows change the rhythm of a visit considerably, so check what's currently up before you go if you have a favorite artist in mind.
 
@@ -100,7 +100,7 @@ MACBA is closed Tuesdays, open regular daytime hours the rest of the week, with 
 
 Crowd patterns are predictable here. Weekdays, the calm window is 10am–11am, right at opening, before tour groups and school visits build up.
 
-On weekends, avoid the stretch from 2pm to 8pm — that's when the museum fills fastest. Instead, weekend visitors do best arriving right at 10am or coming back between 3pm and 4pm, the quietest weekend slot.
+On weekends, avoid the stretch from 2pm to 8pm. That's when the museum fills fastest. Instead, weekend visitors do best arriving right at 10am or coming back between 3pm and 4pm, the quietest weekend slot.
 
 ## How to visit like a local
 
@@ -108,13 +108,13 @@ MACBA is a heavily visited museum, so treat the crowd data as your main planning
 
 - **Best time**: weekday mornings, 10–11am, or the 3–4pm lull on weekends
 - **Avoid**: Saturday and Sunday afternoons, especially 2pm onward
-- **Tickets**: buy online in advance during peak season to skip the ticket-counter line — locals rarely queue when they don't have to
+- **Tickets**: buy online in advance during peak season to skip the ticket-counter line, locals rarely queue when they don't have to
 - **Payment**: card is standard for tickets and the museum shop; cash isn't necessary
-- **Etiquette**: photography is generally allowed in permanent galleries without flash, but some temporary exhibitions restrict it — look for signage at the entrance
+- **Etiquette**: photography is generally allowed in permanent galleries without flash, but some temporary exhibitions restrict it. Look for signage at the entrance
 
-The mistake most first-time visitors make is arriving Sunday afternoon expecting a full day — the museum closes at 3pm, well before typical lunch-then-museum plans elsewhere in the city. Build your day around that early close and pair it with a slow lunch in El Raval afterward instead.
+The mistake most first-time visitors make is arriving Sunday afternoon expecting a full day. The museum closes at 3pm, well before typical lunch-then-museum plans elsewhere in the city. Build your day around that early close and pair it with a slow lunch in El Raval afterward instead.
 
-Also worth knowing: the plaza outside functions as an unofficial skate park most afternoons, so if you're photographing the facade, expect wheels in the frame — it's part of the scene, not a nuisance to route around.
+Also worth knowing: the plaza outside functions as an unofficial skate park most afternoons, so if you're photographing the facade, expect wheels in the frame. It's part of the scene, not a nuisance to route around.
 
 ## Nearby
 

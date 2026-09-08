@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-shanghai-museum
-srcHash: '5c1e21046d20'
+srcHash: '48f9d7f17508'
 title: 'Museo de Shanghái: Guía de viaje (4.3★)'
 description: El Museo de Shanghái (Shanghai Museum), en el lado sur de la Plaza del Pueblo (People's Square), es una colección gratuita de talla mundial de bronces, cerámica, jade, pintura y caligrafía chinos, que fácilmente merece 2-3 horas. 4.3★ (1,301 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Museo de Shanghái (Shanghai Museum), en el lado sur de la Plaza del Pueblo (People's Square), es una colección gratuita de talla mundial de bronces, cerámica, jade, pintura y caligrafía chinos, que fácilmente merece 2-3 horas. Ve un día de semana por la mañana justo a la apertura para adelantarte a los grupos turísticos, y reserva tu entrada gratuita en línea con antelación, ya que quienes llegan sin reserva pueden enfrentar largas colas los fines de semana y días festivos.

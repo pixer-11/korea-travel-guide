@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-naif-restaurant
-srcHash: 'ea759642ae54'
+srcHash: 'b19f4693ef9c'
 title: Naif Restaurant：伊斯坦布尔旅行指南
 description: 土耳其伊斯坦布尔的Naif Restaurant——一家新晋人气餐厅：它是什么、位于何处，以及如何前往。
 quickAnswer: Naif是一家位于卡拉柯伊（Karaköy）的主厨驱动型小餐厅，食材全部来自土耳其本地——推荐尝试章鱼烩通心粉（octopus orzo）和铺在农家手工面上的羊膝。从卡拉柯伊有轨电车站（T1线）和加拉塔大桥（Galata Bridge）步行即可到达；由于这是一家新开、备受追捧的餐厅，出发前请务必提前订位并确认最新营业时间。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bunol-la-tomatina
-srcHash: '075b2ed918f9'
+srcHash: '8df20f6bdcb1'
 title: 'La Tomatina: lo que hay que saber (Buñol)'
 description: La Tomatina en Buñol, España, se celebra el 26 de agosto de 2026. Qué es, dónde se celebra y cómo se organiza el día del festival.
 quickAnswer: La Tomatina se celebra siempre el último miércoles de agosto, y en 2026 la fecha elegida fue el 26 de agosto, en la pequeña localidad de Buñol, a unos 40 km al oeste de Valencia. Es necesario comprar entrada, ya que el aforo está limitado, y las entradas se venden a través de la web oficial, donde suelen agotarse con antelación la mayoría de los años. La propia batalla dura cerca de una hora, mientras que los actos previos del pueblo se extienden durante toda una semana.

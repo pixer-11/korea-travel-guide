@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ha-long-bay-la-luna-coffee-ha-long
-srcHash: 'a20b6e8ad8b6'
+srcHash: 'cbd3a986cc58'
 title: La Luna Coffee Hạ Long：下龙湾旅行指南
 description: La Luna Coffee Hạ Long 是位于拜柴（Bãi Cháy）下龙街（Hạ Long street）上的一家多层大型咖啡馆，以大片玻璃墙和面朝海湾的露台座位为特色——与其说是历史景点，不如说是拍照打卡、喝杯冰咖啡、悠闲消磨一小时的好去处。
 quickAnswer: La Luna Coffee Hạ Long 是位于拜柴（Bãi Cháy）下龙街（Hạ Long street）上的一家多层大型咖啡馆，以大片玻璃墙和面朝海湾的露台座位为特色——与其说是历史景点，不如说是拍照打卡、喝杯冰咖啡、悠闲消磨一小时的好去处。建议在傍晚日落前过去，周末通常会比较热闹，可以顺便沿拜柴海滨走一走，或去附近的缆车景点逛逛。

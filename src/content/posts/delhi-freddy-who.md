@@ -25,7 +25,7 @@ aiGenerated: true
 draft: true
 ---
 
-Walk into Freddy Who on a weekend and the first thing that hits you is the ceiling — a wall of mirrors throwing back fractured reflections of amber light and moving bodies. It's the kind of entrance that makes you slow down before you even reach the bar.
+Walk into Freddy Who on a weekend and the first thing that hits you is the ceiling, a wall of mirrors throwing back fractured reflections of amber light and moving bodies. It's the kind of entrance that makes you slow down before you even reach the bar.
 
 This is Vasant Vihar's newest cocktail room, tucked into one of South Delhi's quieter, leafier residential-commercial pockets. The neighborhood is more used to embassy gates and old-money bungalows than late-night buzz, which makes the drama inside Freddy Who land even harder.
 
@@ -33,13 +33,13 @@ This is Vasant Vihar's newest cocktail room, tucked into one of South Delhi's qu
 
 Vintage glamour is the whole point here. Think plush leather seating worn just enough to feel lived-in, low gold-toned lighting that flatters every face, and surfaces that catch and scatter light rather than flood it.
 
-It reads like a supper club from another decade reimagined with a contemporary hand — nothing precious, nothing overly polished. The mirrored ceiling isn't just a design flourish; it makes a mid-size room feel bigger, busier, more alive after dark.
+It reads like a supper club from another decade reimagined with a contemporary hand, nothing precious, nothing overly polished. The mirrored ceiling isn't just a design flourish; it makes a mid-size room feel bigger, busier, more alive after dark.
 
 ## What's in the Glass
 
-Freddy Who's draw is a cocktail menu built on creativity rather than convention — expect bartenders leaning into original builds and unexpected flavor pairings rather than a standard classics list. Menus and pricing at new openings like this shift often in the first months.
+Freddy Who's draw is a cocktail menu built on creativity rather than convention. Expect bartenders leaning into original builds and unexpected flavor pairings rather than a standard classics list. Menus and pricing at new openings like this shift often in the first months.
 
-Rather than lock in specifics that may already be outdated, treat the drinks list as something to discover on arrival, and ask your server what's new — that's usually where the best pours are.
+Rather than lock in specifics that may already be outdated, treat the drinks list as something to discover on arrival, and ask your server what's new. That's usually where the best pours are.
 
 ## Getting There
 
@@ -49,7 +49,7 @@ Parking in Vasant Vihar's market areas can be tight on weekend nights, so budget
 
 ## Why It's Worth the Trip
 
-Delhi's cocktail scene has leaned heavily into industrial-chic and rooftop concepts in recent years. Freddy Who breaks that pattern by going backward in mood — velvet, mirror, low light — while keeping the drinks menu firmly forward-looking.
+Delhi's cocktail scene has leaned heavily into industrial-chic and rooftop concepts in recent years. Freddy Who breaks that pattern by going backward in mood (velvet, mirror, low light) while keeping the drinks menu firmly forward-looking.
 
 That contrast between old-world glamour and modern mixology is what's generating buzz. It's a bar built for a proper night out, not a quick drink on the way somewhere else.
 
@@ -58,10 +58,10 @@ That contrast between old-world glamour and modern mixology is what's generating
 Book ahead. New Delhi cocktail openings this talked-about tend to fill up fast on Friday and Saturday nights, and walk-ins can mean a wait at the door.
 
 - Aim for an early weeknight slot if you want to actually hear your conversation and get unhurried attention from the bartenders.
-- Dress a notch smarter than casual — the vintage-glamour styling invites it, and it's the norm at this tier of Delhi bar.
+- Dress a notch smarter than casual, the vintage-glamour styling invites it, and it's the norm at this tier of Delhi bar.
 - Payment is overwhelmingly by card or UPI across Delhi's bar scene now; carrying cash as backup is still wise but rarely essential.
 - Tipping isn't mandatory but rounding up or leaving 10% for good service is standard practice at bars like this.
-- The mistake most first-timers make is treating it as a quick stop — Freddy Who rewards lingering, so pace your evening rather than rushing to the next place.
+- The mistake most first-timers make is treating it as a quick stop, Freddy Who rewards lingering, so pace your evening rather than rushing to the next place.
 
 Since this is a newly opened venue, opening hours, reservation policy and the exact menu are still the kind of details that change in the early months. Check Freddy Who's official Instagram or call ahead the same day to confirm timings before you plan your night around it.
 

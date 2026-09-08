@@ -72,11 +72,11 @@ draft: false
 
 This is where Los Angeles actually began. In 1781, forty-four settlers founded a pueblo here on the banks of the Los Angeles River, and the plaza they laid out is still the heart of the monument today.
 
-You come for the layered history, not a single postcard shot. Adobe buildings from the 1800s sit beside a Mexican marketplace, a Chinese-American heritage site, and a firehouse turned museum — all within a few minutes' walk.
+You come for the layered history, not a single postcard shot. Adobe buildings from the 1800s sit beside a Mexican marketplace, a Chinese-American heritage site, and a firehouse turned museum, all within a few minutes' walk.
 
 ## Getting there
 
-Union Station is your landmark, and El Pueblo sits directly across Alameda Street from it. If you're on Metro, take the Red, Purple, or Gold Line to Union Station and walk south — five minutes, tops.
+Union Station is your landmark, and El Pueblo sits directly across Alameda Street from it. If you're on Metro, take the Red, Purple, or Gold Line to Union Station and walk south, five minutes, tops.
 
 Driving in, expect to hunt for downtown parking; several paid lots ring the plaza on Los Angeles and Spring Streets. The address to punch in is 125 Paseo de la Plaza, 90012.
 
@@ -84,11 +84,11 @@ Driving in, expect to hunt for downtown parking; several paid lots ring the plaz
 
 Start at the Old Plaza itself, a circular brick clearing shaded by a huge Moreton Bay fig tree planted in the 1870s. From there, everything else radiates outward.
 
-- **Olvera Street** — a narrow, colorful marketplace lined with vendor stalls selling leather goods, hand-painted pottery, and churros
-- **Avila Adobe** — LA's oldest surviving house, built in 1818, now a small free museum you can walk through in ten minutes
-- **Plaza Firehouse No. 1** — an 1884 firehouse with vintage equipment on display
-- **Chinese American Museum** — housed in the last remaining building of LA's original Chinatown
-- **Plaza Church (La Placita)** — an active Catholic parish dating to 1861, still holding daily Mass
+- **Olvera Street**, a narrow, colorful marketplace lined with vendor stalls selling leather goods, hand-painted pottery, and churros
+- **Avila Adobe**, LA's oldest surviving house, built in 1818, now a small free museum you can walk through in ten minutes
+- **Plaza Firehouse No. 1**, an 1884 firehouse with vintage equipment on display
+- **Chinese American Museum**, housed in the last remaining building of LA's original Chinatown
+- **Plaza Church (La Placita)**, an active Catholic parish dating to 1861, still holding daily Mass
 
 Budget 90 minutes to two hours to see the plaza, walk Olvera Street, and pop into two or three of the small museums.
 
@@ -96,20 +96,20 @@ Budget 90 minutes to two hours to see the plaza, walk Olvera Street, and pop int
 
 The monument is open every day from 8am to 10pm, so there's no risk of arriving to locked gates. But timing still matters if you want breathing room.
 
-Weekday mornings between 8am and 9am are the quietest stretch by far — vendors are still setting up, and you'll have the brick plaza mostly to yourself. Weekend evenings, from 9pm to 10pm, are the calmest window on Saturday or Sunday.
+Weekday mornings between 8am and 9am are the quietest stretch by far, vendors are still setting up, and you'll have the brick plaza mostly to yourself. Weekend evenings, from 9pm to 10pm, are the calmest window on Saturday or Sunday.
 
 Avoid weekends between noon and 7pm if you dislike crowds. That's when tour groups, families, and street performers fill Olvera Street shoulder to shoulder.
 
 ## How to visit like a local
 
-El Pueblo is well-known and busy, so the smart move is timing, not secrecy. Aim for that early weekday slot — 8am to 9am — when the market is stirring but not swarmed.
+El Pueblo is well-known and busy, so the smart move is timing, not secrecy. Aim for that early weekday slot, 8am to 9am, when the market is stirring but not swarmed.
 
-Most vendors on Olvera Street prefer cash, though many now take cards; carry a mix to avoid friction at small stalls. Museums here are free or ask only for a modest donation, so tipping isn't the local custom — a few dollars in the donation box at Avila Adobe is appreciated.
+Most vendors on Olvera Street prefer cash, though many now take cards; carry a mix to avoid friction at small stalls. Museums here are free or ask only for a modest donation, so tipping isn't the local custom, a few dollars in the donation box at Avila Adobe is appreciated.
 
 No advance booking is needed for the plaza or Olvera Street. The Chinese American Museum and Firehouse Museum sometimes close for city holidays, so it's worth a quick check before you go.
 
-The mistake first-time visitors make is treating this as a five-minute photo stop on the way to Chinatown or Union Station. Locals who do come here treat it as a slow half-day loop — plaza, adobe, church, market — rather than a drive-by.
+The mistake first-time visitors make is treating this as a five-minute photo stop on the way to Chinatown or Union Station. Locals who do come here treat it as a slow half-day loop (plaza, adobe, church, market) rather than a drive-by.
 
-Skip the touristy restaurants right on Olvera Street if you want a better meal; wander a block or two into the surrounding blocks of downtown for more authentic, less marked-up options. Save your appetite for a churro or fresh-pressed juice from a plaza stall instead — that part's worth doing right where you stand.
+Skip the touristy restaurants right on Olvera Street if you want a better meal; wander a block or two into the surrounding blocks of downtown for more authentic, less marked-up options. Save your appetite for a churro or fresh-pressed juice from a plaza stall instead, that part's worth doing right where you stand.
 
 Dress for sun with little shade beyond the fig tree, and wear shoes that handle uneven brick and cobblestone comfortably.

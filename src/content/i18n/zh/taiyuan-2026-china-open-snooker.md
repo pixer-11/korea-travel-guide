@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taiyuan-2026-china-open-snooker
-srcHash: 'b03f6eeaa9a2'
+srcHash: 'fde5eee51bf5'
 title: 2026年中国公开赛（斯诺克）参赛指南（太原）
 description: 2026年中国公开赛（斯诺克）曾计划于2026年8月8日至16日在中国太原滨河体育中心举行。本文记录了官方公布的赛程、场馆及参赛球员信息。
 quickAnswer: 2026年中国公开赛斯诺克赛事原定于2026年8月8日至16日在山西省太原市滨河体育中心举行，卫冕冠军尼尔·罗伯逊（Neil Robertson）及其他多位排名靠前的职业选手位列参赛名单。门票并非以全程通票形式出售，而是通过世界斯诺克巡回赛（World Snooker Tour）官方渠道按场次单独出售。

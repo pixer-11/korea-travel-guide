@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: east-rutherford-bruno-mars-the-romantic-tour
-srcHash: '73cc9d361121'
+srcHash: 'd0468a2579dd'
 title: ブルーノ・マーズ「The Romantic Tour」基本ガイド(イーストラザフォード)
 description: ブルーノ・マーズ「The Romantic Tour」は、2026年8月21日から26日にかけて、ニュージャージー州イーストラザフォードのメットライフ・スタジアムで開催予定でした。発表内容と会場情報をまとめます。
 quickAnswer: ブルーノ・マーズ「The Romantic Tour」は、2026年8月21日から26日にかけて、ニュージャージー州イーストラザフォードのメットライフ・スタジアムで6夜連続の公演が予定されていました。「Die with a Smile」や「APT.」といった近年のヒット曲を軸に、スタジアム規模の演出が展開される予定でした。チケットはチケットマスター(Ticketmaster)で販売されました。会場へはNJトランジットのミードウランズ鉄道線(Meadowlands Rail Line)が利用でき、施設内の駐車には事前購入制のパスが必要です。

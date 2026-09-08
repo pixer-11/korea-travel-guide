@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: delhi-nisaba
-srcHash: 'cad2e2bbe293'
+srcHash: 'a653d6f4f3aa'
 title: NISABA：德里美食新去处
 description: NISABA是德里一家新晋热门餐厅——这里介绍它是什么、位于何处，以及如何前往。
 quickAnswer: NISABA是主厨马尼什·梅罗特拉（Manish Mehrotra）离开Indian Accent之后开设的首家个人餐厅，于2026年1月17日开业，坐落在德里的桑德纳斯里花园（Sunder Nursery）与胡马雍陵（Humayun's Tomb）建筑群内。餐厅的理念是以谷物为核心，将印度日常街头美食与达巴（dhaba，路边小馆）风味做成更精致的呈现。由于这是一家刚开业不久、又地处历史园林建筑群内的餐厅，前往之前请务必提前订位，并确认最新的营业时间与订位政策。

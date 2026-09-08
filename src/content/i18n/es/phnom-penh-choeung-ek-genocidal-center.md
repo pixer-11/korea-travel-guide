@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phnom-penh-choeung-ek-genocidal-center
-srcHash: 'ad984aed3429'
+srcHash: '63d21d9302fa'
 title: 'Centro Genocida de Choeung Ek: Guía de viaje de Phnom Penh (4,6★)'
 description: 'El Centro Genocida de Choeung Ek, los llamados "Campos de la Muerte" en el extremo sur de Phnom Penh, abre todos los días de 7:30 a 17:30. 4,6★ (2.148 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Centro Genocida de Choeung Ek, los llamados "Campos de la Muerte" en el extremo sur de Phnom Penh, abre todos los días de 7:30 a 17:30. El momento de mayor tranquilidad es entre las 8:00 y las 9:00, tanto en días laborables como en fin de semana, así que llegar temprano garantiza una visita más reflexiva. Conviene reservar entre 90 minutos y dos horas, incluida la audioguía, y evitar la avalancha de visitantes que se produce los fines de semana entre las 11:00 y las 13:00.

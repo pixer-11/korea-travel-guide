@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taipei-itzy-tunnel-vision-world-tour-taipei
-srcHash: '4d5bc0faba6d'
+srcHash: '44e7e8bdbd31'
 title: ITZY“TUNNEL VISION”世界巡演台北站须知
 description: ITZY“TUNNEL VISION”世界巡演台北站原定于2026年9月5日在台北小巨蛋举行，演出曲目涵盖2026年EP专辑《Motto》及过往热门单曲。
 quickAnswer: ITZY“TUNNEL VISION”世界巡演台北站原定于2026年9月5日在台北小巨蛋举行。演出内容围绕组合2026年发行的EP专辑《Motto》曲目展开，同时也会加入过往热门歌曲。台北小巨蛋举办的大型K-pop演出场次向来一票难求，周边捷运站也常常人潮涌动。

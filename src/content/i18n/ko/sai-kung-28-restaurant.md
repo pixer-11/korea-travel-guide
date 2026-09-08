@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: sai-kung-28-restaurant
-srcHash: 'c3395ccb2f17'
+srcHash: '38ffee44e5c7'
 title: '28 레스토랑: 사이쿵(Sai Kung)에서 밥 먹기 좋은 곳'
 description: 28 레스토랑은 사이쿵(Sai Kung) 해변 산책로에서 도보로 잠깐 거리에 있는 이춘 스트리트(Yi Chun Street)의 만이완신촌(Man Yee Wan San Tsuen)에 자리한, 평가가 좋은 소규모 로컬 식당입니다.
 quickAnswer: 28 레스토랑은 사이쿵(Sai Kung) 해변 산책로에서 도보로 잠깐 거리에 있는 이춘 스트리트(Yi Chun Street)의 만이완신촌(Man Yee Wan San Tsuen)에 자리한, 평가가 좋은 소규모 로컬 식당입니다. 가격대는 중간 정도이며 해산물 위주의 광둥식 요리로 단골손님이 많은 편이니, 줄 서지 않고 자리를 잡고 싶다면 평일 저녁에 방문하는 것이 좋습니다. 주말에는 오후 1시부터 9시까지 계속 붐비고, 평일 늦은 저녁 10~11시경이 가장 한산합니다.

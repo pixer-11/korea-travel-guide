@@ -47,13 +47,13 @@ draft: true
 
 ## Why HIDDEN Singapore is worth the detour
 
-Most guides to Tiong Bahru send you straight to the market or the bookshop. This one doesn't live in that cluster at all — it's out on Lower Delta Rd, a few minutes' drive from the estate's curved Art Deco blocks.
+Most guides to Tiong Bahru send you straight to the market or the bookshop. This one doesn't live in that cluster at all. It's out on Lower Delta Rd, a few minutes' drive from the estate's curved Art Deco blocks.
 
 That distance is exactly why it stays quiet. With only 140 reviews on record, you won't fight crowds here, even though the rating sits at an almost unheard-of 4.9.
 
 ## Getting there without the guesswork
 
-The address, 1092 Lower Delta Rd, Singapore 169203, doesn't sit inside the walkable Tiong Bahru core around Seng Poh Road. Grab a taxi or ride-hail app straight to the door — it's the most reliable option.
+The address, 1092 Lower Delta Rd, Singapore 169203, doesn't sit inside the walkable Tiong Bahru core around Seng Poh Road. Grab a taxi or ride-hail app straight to the door. It's the most reliable option.
 
 If you're coming from the MRT, Tiong Bahru Station (East-West Line) is the nearest landmark, but you'll still need a short ride from there. Budget 10–15 minutes depending on traffic.
 
@@ -61,7 +61,7 @@ Don't assume it's walkable from the market or the famous bakery row. Check the m
 
 ## What to expect once you're inside
 
-Because it's off the main tourist track, the pace here feels unhurried. Expect a smaller, personal-feeling space rather than a sprawling attraction — the kind of place where the low review count reflects genuine under-the-radar status, not a lack of quality.
+Because it's off the main tourist track, the pace here feels unhurried. Expect a smaller, personal-feeling space rather than a sprawling attraction, the kind of place where the low review count reflects genuine under-the-radar status, not a lack of quality.
 
 Bring your curiosity rather than a checklist. Part of the appeal is that it hasn't been fully mapped out by every visitor blog yet, so go in ready to explore rather than tick boxes.
 
@@ -81,18 +81,18 @@ Doing it in this order means you front-load the quiet spot before the estate get
 
 ## When to go
 
-Opening hours run 9am to 5pm every day of the week, so there's no need to plan around a single opening day. That said, arriving earlier in the window — closer to 9 or 10am — tends to mean fewer other visitors, especially on weekdays.
+Opening hours run 9am to 5pm every day of the week, so there's no need to plan around a single opening day. That said, arriving earlier in the window, closer to 9 or 10am, tends to mean fewer other visitors, especially on weekdays.
 
 Avoid turning up right before 5pm expecting a leisurely visit; give yourself at least an hour of buffer before closing.
 
 ## How to visit like a local
 
-Locals treat under-the-radar spots like this one with a light touch — no big production, just curiosity and respect for a place that hasn't been overrun yet.
+Locals treat under-the-radar spots like this one with a light touch, no big production, just curiosity and respect for a place that hasn't been overrun yet.
 
 - **Book ahead if possible.** With so few reviews, availability or space may be limited; a quick call or message confirms you won't be turned away.
 - **Go on a weekday morning.** Weekends bring more visitors from the wider Tiong Bahru sightseeing crowd.
-- **Pay by card or mobile wallet** where possible — most independent Singapore venues now accept both, but carry a little cash as backup.
+- **Pay by card or mobile wallet** where possible, most independent Singapore venues now accept both, but carry a little cash as backup.
 - **Don't rush the visit.** The appeal here is the unhurried pace; treat it as a stop to slow down, not a photo-and-go.
 - **The common mistake:** assuming this is inside the main Tiong Bahru shophouse strip. Confirm the Lower Delta Rd address on your map app before you leave your hotel, so you're not backtracking across the neighborhood.
 
-Because it's still relatively undiscovered, the best etiquette is simply to keep it low-key — enjoy it without turning it into the next must-do stop that erases what makes it work.
+Because it's still relatively undiscovered, the best etiquette is simply to keep it low-key, enjoy it without turning it into the next must-do stop that erases what makes it work.

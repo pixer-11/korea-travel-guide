@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hsinchu-green-world-ecological-farm
-srcHash: '0bf89cd2f28e'
+srcHash: 'c39886f3a74b'
 title: 绿世界生态农场:新竹旅游指南(4.6★)
 description: 绿世界生态农场(Green World Ecological Farm)是位于北埔乡的大型露天野生动物园与植物园，从新竹市区开车约需40至50分钟。4.6★(32,673条评论)——游客怎么说、营业时间与实用小贴士。
 quickAnswer: 绿世界生态农场是位于北埔乡的大型露天野生动物园与植物园，从新竹市区开车约需40至50分钟。建议安排3至4小时游览动物表演、穿越式鸟园与湖畔步道。工作日上午9点到下午5点期间明显较为清静，而周末则从上午10点开始人潮逐渐增多。

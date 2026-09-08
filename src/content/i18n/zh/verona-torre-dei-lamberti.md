@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: verona-torre-dei-lamberti
-srcHash: '8a57097c6f33'
+srcHash: '9ba698a61306'
 title: 兰贝蒂塔（Torre dei Lamberti）：维罗纳旅行指南（4.5★）
 description: 兰贝蒂塔是维罗纳最高的中世纪塔楼，紧邻香草广场（Piazza delle Erbe），设有电梯和楼梯，可登上两层观景台，俯瞰赭红色的屋顶。4.5★（3,954条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 兰贝蒂塔是维罗纳最高的中世纪塔楼，紧邻香草广场（Piazza delle Erbe），设有电梯和楼梯，可登上两层观景台，俯瞰赭红色的屋顶。建议选择工作日上午10点到11点前往，此时观景台人最少；尽量避开周末下午（正午到晚上7点），那是人流最密集的时段。整个行程（包括攀登和在顶层停留的时间）大约需要一个小时。

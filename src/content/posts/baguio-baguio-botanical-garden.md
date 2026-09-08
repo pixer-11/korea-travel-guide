@@ -105,7 +105,7 @@ Locals call it Igorot Garden as often as its official name, a nod to the cluster
 
 The garden sits on Leonard Wood Road, a short jeepney or taxi ride from central Baguio. Most visitors combine it with nearby Wright Park, just a few minutes' walk downhill, and the Mansion House gate.
 
-If you're coming from Session Road or Burnham Park, a taxi takes about 10–15 minutes depending on traffic. Jeepneys marked "Mines View" or "Loakan" pass close by — ask the driver to drop you at the botanical garden gate. There's no admission fee, though small donation boxes sometimes appear near the huts.
+If you're coming from Session Road or Burnham Park, a taxi takes about 10–15 minutes depending on traffic. Jeepneys marked "Mines View" or "Loakan" pass close by. Ask the driver to drop you at the botanical garden gate. There's no admission fee, though small donation boxes sometimes appear near the huts.
 
 ## What to see and do
 
@@ -116,13 +116,13 @@ Give yourself 45 minutes to an hour to wander the full loop.
 - **Pine grove paths**: shaded stone stairways that climb the hillside, the coolest part of the park at midday
 - **Souvenir stalls**: woven textiles, wooden carvings, and pasalubong (gift) items sold by vendors along the main walkways
 
-Wear shoes with grip — the stone paths get slick after Baguio's frequent afternoon drizzle, especially from June through October.
+Wear shoes with grip. The stone paths get slick after Baguio's frequent afternoon drizzle, especially from June through October.
 
 ## When to go
 
 The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm all day, from opening to close.
 
-Weekends are a different story. Crowds build fast after 8am and stay heavy from 9am to 5pm, when families and day-trippers pack the main paths and hut area. If you want the quiet version of the garden on a Saturday or Sunday, arrive right at 7am — you'll have barely an hour before it fills in.
+Weekends are a different story. Crowds build fast after 8am and stay heavy from 9am to 5pm, when families and day-trippers pack the main paths and hut area. If you want the quiet version of the garden on a Saturday or Sunday, arrive right at 7am. You'll have barely an hour before it fills in.
 
 Baguio's cool climate means midday visits are comfortable even in the dry season, but bring a light jacket for early mornings, when temperatures can dip into the mid-teens Celsius.
 
@@ -131,7 +131,7 @@ Baguio's cool climate means midday visits are comfortable even in the dry season
 This is a very popular stop on the Baguio circuit, not a hidden find, so plan around the crowds rather than expecting to avoid them entirely.
 
 - **Time it right**: weekdays are calm start to finish; on weekends, come between 7 and 8am before the 9am rush
-- **Pay as you go**: entry is free, but vendors and hut photo-ops often ask small cash amounts — keep loose bills and coins handy
+- **Pay as you go**: entry is free, but vendors and hut photo-ops often ask small cash amounts. Keep loose bills and coins handy
 - **Skip the group-tour pace**: many visitors arrive by van in large tour groups and move quickly through the huts; hang back and you'll get the paths to yourself
 - **Don't just photograph the huts and leave**: the upper pine paths, past the main flower beds, are where the garden feels genuinely peaceful
 - **Combine your trip**: pair it with a walk down to Wright Park or a stop at Mansion House, both a few minutes away on foot, so you're not making a special trip just for the garden

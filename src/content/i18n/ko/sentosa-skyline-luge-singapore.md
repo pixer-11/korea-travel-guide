@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: sentosa-skyline-luge-singapore
-srcHash: '4abe48be7902'
+srcHash: 'a547f43ac580'
 title: '스카이라인 루지 싱가포르: 센토사 여행 가이드'
 description: 센토사(Sentosa) 1 Imbiah Rd에 위치한 스카이라인 루지 싱가포르는 경치 좋은 체어리프트를 타고 올라간 뒤, 드래곤 트레일(Dragon Trail)과 정글 트레일(Jungle Trail) 같은 코스를 직접 조종하는 카트형 루지를 타고 내려오는 액티비티입니다.
 quickAnswer: 센토사(Sentosa) 1 Imbiah Rd에 위치한 스카이라인 루지 싱가포르는 경치 좋은 체어리프트를 타고 올라간 뒤, 드래곤 트레일(Dragon Trail)과 정글 트레일(Jungle Trail) 같은 코스를 직접 조종하는 카트형 루지를 타고 내려오는 액티비티입니다. 온라인으로 콤보 티켓(체어리프트 + 루지 여러 회 이용권)을 미리 구매하고, 평일 오전이나 오후 4시 이후에 방문하면 혼잡을 피할 수 있습니다. 줄 서는 시간을 포함해 전체 1.5~2시간 정도를 예상하시면 됩니다.

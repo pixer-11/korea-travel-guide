@@ -44,15 +44,15 @@ aiGenerated: true
 draft: false
 ---
 
-You come up out of the Western Addition on foot, or you climb out of a rideshare on Hayes Street, and for a moment you don't see them — Alamo Square is a green hill dotted with palms and eucalyptus, and the houses are tucked along its eastern edge. Then you crest the slope and there they are: seven Victorian houses in a tidy row on Steiner Street, gables and turrets stacked up in candy-box colors, with the glass towers of the Financial District rising behind them like a set change.
+You come up out of the Western Addition on foot, or you climb out of a rideshare on Hayes Street, and for a moment you don't see them, Alamo Square is a green hill dotted with palms and eucalyptus, and the houses are tucked along its eastern edge. Then you crest the slope and there they are: seven Victorian houses in a tidy row on Steiner Street, gables and turrets stacked up in candy-box colors, with the glass towers of the Financial District rising behind them like a set change.
 
 It's one of the most photographed views in San Francisco, and the reason is obvious the second you see it.
 
 ## Why they matter
 
-These particular seven houses — built in the 1890s in the Queen Anne style — are known as "Postcard Row," and they've been famous for decades as shorthand for San Francisco itself, appearing on postcards, in ads, and most famously as the opening-credits backdrop of the sitcom "Full House." The Painted Ladies name actually applies more broadly to any of the city's colorfully repainted Victorians, but this row is the one everyone means when they say it.
+These particular seven houses, built in the 1890s in the Queen Anne style, are known as "Postcard Row," and they've been famous for decades as shorthand for San Francisco itself, appearing on postcards, in ads, and most famously as the opening-credits backdrop of the sitcom "Full House." The Painted Ladies name actually applies more broadly to any of the city's colorfully repainted Victorians, but this row is the one everyone means when they say it.
 
-The houses themselves are private residences — you can't go inside — so the entire experience is the view from the park itself.
+The houses themselves are private residences, you can't go inside, so the entire experience is the view from the park itself.
 
 ## Getting there
 
@@ -60,16 +60,16 @@ Alamo Square sits in the Western Addition, roughly between the Haight and Japant
 
 ## What you'll actually see and do
 
-The postcard shot is taken from the sidewalk on Alamo Square's east side, near Steiner and Hayes, looking across the grass at the houses with downtown skyscrapers behind them. Most visitors spend twenty to thirty minutes here: find the classic angle, take photos, maybe walk the perimeter path for a slightly different vantage. The park itself is worth lingering in beyond the photo op — it's a genuine neighborhood green space with sweeping views west toward the Haight and Twin Peaks, and it's common to see locals picnicking, walking dogs, or doing yoga on the lawn.
+The postcard shot is taken from the sidewalk on Alamo Square's east side, near Steiner and Hayes, looking across the grass at the houses with downtown skyscrapers behind them. Most visitors spend twenty to thirty minutes here: find the classic angle, take photos, maybe walk the perimeter path for a slightly different vantage. The park itself is worth lingering in beyond the photo op. It's a genuine neighborhood green space with sweeping views west toward the Haight and Twin Peaks, and it's common to see locals picnicking, walking dogs, or doing yoga on the lawn.
 
 If you want a longer outing, the square connects easily to a walking route through Hayes Valley, a few blocks east, which is dense with boutiques, cafés, and places to eat.
 
 ## When to go
 
-Because the row faces roughly east, morning light comes from behind the houses and can leave them slightly backlit, while afternoon and early evening light rakes across their facades and tends to make the colors pop — late afternoon is generally considered the most flattering time for photos. The park has no gates and no admission, so it's accessible essentially any time it's light out, though like most city parks it's best visited in daylight hours rather than after dark.
+Because the row faces roughly east, morning light comes from behind the houses and can leave them slightly backlit, while afternoon and early evening light rakes across their facades and tends to make the colors pop, late afternoon is generally considered the most flattering time for photos. The park has no gates and no admission, so it's accessible essentially any time it's light out, though like most city parks it's best visited in daylight hours rather than after dark.
 
 ## How to visit like a local
 
-Come on a weekday morning if you want the sidewalk to yourself; tour buses and larger groups tend to cluster there through the middle of the day and on weekends, especially in summer. There's no ticket, no booking, and no fee — you simply walk up and look, so the only real "etiquette" is respecting that these are someone's actual homes: stay on the public sidewalk and park paths, don't approach the porches or gates, and keep noise down given it's a residential block.
+Come on a weekday morning if you want the sidewalk to yourself; tour buses and larger groups tend to cluster there through the middle of the day and on weekends, especially in summer. There's no ticket, no booking, and no fee, you simply walk up and look, so the only real "etiquette" is respecting that these are someone's actual homes: stay on the public sidewalk and park paths, don't approach the porches or gates, and keep noise down given it's a residential block.
 
 The common mistake visitors make is treating this as a quick drive-by stop; because the row is a private residence with no formal entrance or facility, the value is entirely in the view and the park around it, so it's worth the walk up the hill rather than just snapping a photo from the car. Pair it with a stroll into Hayes Valley for coffee or lunch afterward, which turns a fifteen-minute photo stop into a half-day neighborhood visit.

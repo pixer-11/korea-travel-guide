@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-mamamoo-concert
-srcHash: '3fb23ab955d7'
+srcHash: '67cfa74f27fc'
 title: 마마무 콘서트 참고 정보 (싱가포르)
 description: 마마무는 2026년 7월 31일 칼랑 스포츠 허브 구역에 위치한 싱가포르 인도어 스타디움에서 공연할 예정이었습니다.
 quickAnswer: 마마무의 싱가포르 공연은 2026년 7월 31일 싱가포르 인도어 스타디움에서 열릴 예정이었습니다. 이 공연장은 칼랑(Kallang)에 위치해 있으며, MRT 스타디움역이나 칼랑역을 통해 갈 수 있고, 동남아시아 전역에서 K팝 팬들이 꾸준히 모여드는 곳입니다.

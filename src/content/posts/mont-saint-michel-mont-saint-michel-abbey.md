@@ -80,7 +80,7 @@ draft: false
 
 You see it from miles across the bay before you see anything else. The abbey rises straight out of flat sand and sky, granite spire needling upward, and it looks less like a building than something that grew there. Up close, the illusion holds: the whole village spirals up a rocky islet toward the church at its summit, one continuous climb from tidal flat to nave.
 
-This isn't a quiet corner of France. It's one of the country's most-photographed landmarks, and the crowds reflect that. Go anyway — just go smart about when.
+This isn't a quiet corner of France. It's one of the country's most-photographed landmarks, and the crowds reflect that. Go anyway, just go smart about when.
 
 ## Getting there
 
@@ -88,7 +88,7 @@ Mont Saint-Michel sits just off the Normandy coast, technically an island though
 
 Most visitors arrive by car or coach, parking on the mainland (the lot is a couple of kilometres out) and either walking in or catching the free shuttle. The nearest train hub is Pontorson or Rennes, with connecting buses to the site.
 
-Once you're at the base, everything is on foot. The Grande Rue — the single medieval street winding up through the ramparts — is the only way in, cobbled and lined with shops before it narrows toward the abbey stairs.
+Once you're at the base, everything is on foot. The Grande Rue, the single medieval street winding up through the ramparts, is the only way in, cobbled and lined with shops before it narrows toward the abbey stairs.
 
 ## What to see and do
 
@@ -96,10 +96,10 @@ The abbey itself is the reason to make the climb. Founded in the 8th century and
 
 Highlights worth slowing down for:
 
-- **La Merveille** — the Gothic cloister and refectory complex on the north side, famous for its slender double-columned arcades
-- **The abbey church** — perched at the very top, with views over the bay on a clear day stretching for kilometres
-- **The crypts and Romanesque halls** — cooler, dimmer spaces beneath the church that reveal how the structure was engineered to support the weight above
-- **The ramparts walk** — a loop around the fortified walls, good for photos back down over the rooftops
+- **La Merveille**, the Gothic cloister and refectory complex on the north side, famous for its slender double-columned arcades
+- **The abbey church**, perched at the very top, with views over the bay on a clear day stretching for kilometres
+- **The crypts and Romanesque halls**, cooler, dimmer spaces beneath the church that reveal how the structure was engineered to support the weight above
+- **The ramparts walk**, a loop around the fortified walls, good for photos back down over the rooftops
 
 Plan for two to three hours to do the abbey properly, more if you linger in the village or watch the tide come in.
 
@@ -107,19 +107,19 @@ Plan for two to three hours to do the abbey properly, more if you linger in the 
 
 The abbey keeps consistent hours all week, 9am to 6pm, so there's no day with a shorter window to plan around. That predictability makes timing purely about crowds, not access.
 
-Weekends get busiest between 11am and 5pm — that's the stretch to avoid if you can. Both weekday and weekend visits are calmest right at opening or in the final couple of hours before closing.
+Weekends get busiest between 11am and 5pm. That's the stretch to avoid if you can. Both weekday and weekend visits are calmest right at opening or in the final couple of hours before closing.
 
 Arriving by 9am also means cooler air and softer light for photos, before coach groups fill the Grande Rue. Check tide times before you go, too: the bay's famous tides can flood the causeway approach and dramatically change the view.
 
 ## How to visit like a local
 
-This is a heavily visited pilgrimage and tourist site, not a quiet find — so the smart move is beating the pattern rather than expecting solitude.
+This is a heavily visited pilgrimage and tourist site, not a quiet find, so the smart move is beating the pattern rather than expecting solitude.
 
 - **Time it early or late.** Aim for the 9am opening or arrive after 4pm; both sit outside the 11am–5pm weekend peak.
 - **Book ahead where you can.** Timed tickets or guided tours, when available, cut down time spent queuing at the entrance.
 - **Pay by card.** Most ticket counters and shops accept cards; carrying some cash covers smaller stalls in the village.
-- **Wear proper shoes.** The stairs inside the abbey and the cobblestones outside are steep and slick when wet — sandals are a mistake you'll regret by the second staircase.
+- **Wear proper shoes.** The stairs inside the abbey and the cobblestones outside are steep and slick when wet, sandals are a mistake you'll regret by the second staircase.
 - **Skip the mid-Grande-Rue cafés.** Prices climb and quality drops the closer you get to the entrance; better food is usually a short walk into the village side streets or back on the mainland.
-- **Respect it as a working site of worship.** Parts of the abbey still hold religious significance — keep voices down in the church and crypts.
+- **Respect it as a working site of worship.** Parts of the abbey still hold religious significance. Keep voices down in the church and crypts.
 
-The single biggest mistake tourists make here is treating the Mont as a quick photo stop. Rushing the climb means missing the crypts and cloister — the parts that explain why this place has drawn visitors, and pilgrims, for over a thousand years.
+The single biggest mistake tourists make here is treating the Mont as a quick photo stop. Rushing the climb means missing the crypts and cloister. The parts that explain why this place has drawn visitors, and pilgrims, for over a thousand years.

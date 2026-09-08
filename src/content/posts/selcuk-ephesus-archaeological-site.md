@@ -55,7 +55,7 @@ draft: false
 
 ## Why Ephesus still stops people cold
 
-You come around a bend in the marble-paved Curetes Street and the façade of the Library of Celsus just appears, two stories of carved columns glowing pale gold in the sun. It was reconstructed from fallen pieces in the 1970s, but the effect is the same one Roman visitors had 1,900 years ago — a jolt of scale.
+You come around a bend in the marble-paved Curetes Street and the façade of the Library of Celsus just appears, two stories of carved columns glowing pale gold in the sun. It was reconstructed from fallen pieces in the 1970s, but the effect is the same one Roman visitors had 1,900 years ago, a jolt of scale.
 
 This was once a Roman port city of a quarter-million people, folded into the empire in 129 BC, and what's excavated so far is only a fraction of it.
 
@@ -65,7 +65,7 @@ Ephesus sits about 3km from central Selçuk, on the road toward the site's own s
 
 Dolmuş minibuses run from the Selçuk otogar toward the site in high season; ask the driver to drop you at the upper gate. Many travelers also come as a day trip from Kuşadası, about 20 minutes further south.
 
-There are two entrances — Upper Gate (near Magnesia) and Lower Gate. Enter at the top and walk downhill; it's far easier on your knees and you finish near the exit and cafés.
+There are two entrances, Upper Gate (near Magnesia) and Lower Gate. Enter at the top and walk downhill; it's far easier on your knees and you finish near the exit and cafés.
 
 ## What you'll actually see
 
@@ -73,29 +73,29 @@ The site is open daily from 8:00 AM to 6:45 PM, and you'll want a minimum of two
 
 Highlights along the main route:
 
-- **The Great Theatre** — carved into the hillside, seated 25,000
-- **Library of Celsus** — the postcard shot, best in soft morning or late light
-- **Curetes Street** — marble-slabbed main avenue lined with statue bases and shop fronts
-- **Terrace Houses** — a separate ticket, covered roof, mosaic floors and frescoed rooms of wealthy Ephesians
+- **The Great Theatre**, carved into the hillside, seated 25,000
+- **Library of Celsus**, the postcard shot, best in soft morning or late light
+- **Curetes Street**, marble-slabbed main avenue lined with statue bases and shop fronts
+- **Terrace Houses**, a separate ticket, covered roof, mosaic floors and frescoed rooms of wealthy Ephesians
 - **Temple of Hadrian** and the **Odeon**, further uphill near the entrance
 
-Bring water — there's little shade once you're past the entrance gate, and the marble underfoot reflects heat hard in summer.
+Bring water. There's little shade once you're past the entrance gate, and the marble underfoot reflects heat hard in summer.
 
 ## The bigger picture around the ruins
 
 Ephesus isn't an isolated ruin field. The House of the Virgin Mary and the Basilica of St. John are both a short drive away, and the Ephesus Archaeological Museum in central Selçuk holds artifacts pulled straight from the site, including items from the Temple of Artemis.
 
-The temple itself, one of the Seven Wonders of the Ancient World, survives now as a single reconstructed column in a field outside town — worth a quick stop, not a special trip.
+The temple itself, one of the Seven Wonders of the Ancient World, survives now as a single reconstructed column in a field outside town, worth a quick stop, not a special trip.
 
 Give yourself a full day in Selçuk if you want the ruins plus these companion sites without rushing.
 
 ## How to visit like a local
 
-Ephesus draws heavy cruise-ship and tour-bus traffic out of Kuşadası, arriving in waves through the late morning. This is a very popular site — don't expect to have it to yourself, but you can dodge the worst of it.
+Ephesus draws heavy cruise-ship and tour-bus traffic out of Kuşadası, arriving in waves through the late morning. This is a very popular site. Don't expect to have it to yourself, but you can dodge the worst of it.
 
-- **Go at opening (8:00 AM) or after 4:00 PM** — the light is better for photos and the crowds thin noticeably
+- **Go at opening (8:00 AM) or after 4:00 PM**. The light is better for photos and the crowds thin noticeably
 - **Buy tickets online or via Turkey's official e-Devlet/Müze Kart system in advance** where possible to skip the entrance line
-- **Hire a licensed guide at the gate** if you want context — many locals do this rather than book ahead, since guides cluster at both entrances
+- **Hire a licensed guide at the gate** if you want context. Many locals do this rather than book ahead, since guides cluster at both entrances
 - **Carry cash in small lira notes** for water, guide tips, and the Terrace Houses add-on ticket
 - **The common mistake**: entering at the Lower Gate and walking uphill in midday heat. Enter high, exit low.
 

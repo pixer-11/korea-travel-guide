@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika
-srcHash: '3c18cd755928'
+srcHash: 'c585f8e06f8f'
 title: '프르타미나 그랑프리 오브 인도네시아(모토GP 만달리카): 일정, 티켓 및 경기장 안내 (만달리카)'
 description: 2026년 10월 9일부터 11일까지 인도네시아 만달리카에서 열리는 프르타미나 그랑프리 오브 인도네시아(모토GP 만달리카)에 대해 소개합니다. 대회 개요와 일정, 장소, 그리고 여행 계획을 세우는 방법을 안내합니다.
 quickAnswer: 프르타미나 그랑프리 오브 인도네시아(모토GP 만달리카)는 2026년 10월 9일부터 11일까지 롬복(Lombok)의 프르타미나 만달리카 인터내셔널 서킷(Pertamina Mandalika International Circuit)에서 모토GP 월드 챔피언십 18라운드로 다시 개최됩니다. 2025년 대회에는 14만 명이 넘는 관중이 몰렸으니, 롬복 국제공항(Lombok International Airport)행 항공편과 서킷 인근 숙소는 미리 예약해두시는 것이 좋습니다. 출발 전에는 모토GP와 만달리카 서킷 공식 홈페이지에서 일정과 티켓 정보를 반드시 확인하시기 바랍니다.

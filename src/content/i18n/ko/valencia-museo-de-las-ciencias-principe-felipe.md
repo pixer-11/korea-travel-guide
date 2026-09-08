@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: valencia-museo-de-las-ciencias-principe-felipe
-srcHash: '9606d973eff2'
+srcHash: '6111126f3abe'
 title: '프린시페 펠리페 과학박물관: 발렌시아 여행 가이드'
 description: 프린시페 펠리페 과학박물관(Museo de las Ciencias Príncipe Felipe)은 발렌시아 예술과학의 도시(Ciudad de las Artes y de las Ciencias)의 중심에 자리한 인상적인 갈비뼈 모양 유리·콘크리트 건축의 과학박물관으로, 3개 층에 걸친 체험형 전시를 둘러보는 데 2~3시간 정도 예상하면 좋습니다. 4.4★ (57,652개 리뷰) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 프린시페 펠리페 과학박물관(Museo de las Ciencias Príncipe Felipe)은 발렌시아 예술과학의 도시(Ciudad de las Artes y de las Ciencias)의 중심에 자리한 인상적인 갈비뼈 모양 유리·콘크리트 건축의 과학박물관으로, 3개 층에 걸친 체험형 전시를 둘러보는 데 2~3시간 정도 예상하면 좋습니다. 평일은 오전 10시부터 오후 10시까지 하루 종일 한산한 편이며, 주말에는 붐비는 오전 11시~오후 7시대는 피하고 오후 7시~10시 사이에 방문하는 것이 좋습니다. 지하철 3호선 또는 5호선을 타고 알라메다(Alameda) 역에서 내린 뒤, 옛 투리아(Turia) 강바닥에 조성된 공원을 따라 도보 20분이면 도착합니다.

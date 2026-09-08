@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour
-srcHash: 'ff564efd1ba8'
+srcHash: 'f38052b07cb0'
 title: The Weeknd「After Hours Til Dawn / Hurry Up Tomorrow」巡演须知（新加坡站）
 description: The Weeknd「After Hours Til Dawn / Hurry Up Tomorrow」巡演将于2026年9月25日登陆新加坡——演出内容、时间地点，以及如何提前规划行程。
 quickAnswer: The Weeknd将于2026年9月25日在新加坡国家体育场（National Stadium）举办「After Hours Til Dawn / Hurry Up Tomorrow」巡演，由日本嘻哈组合Creepy Nuts担任开场嘉宾。这场演出将横跨他的多张专辑曲目，涵盖《Starboy》《After Hours》《Dawn FM》以及《Hurry Up Tomorrow》，舞台设在该地区最大的场馆之一，因此交通方式、购票渠道和到场时间都需要提前规划。预订前请务必在Ticketmaster新加坡官方页面或主办方页面确认具体开场时间、入场时间和购票链接。

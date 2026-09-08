@@ -60,7 +60,7 @@ draft: false
 
 ## Why go
 
-Karst mountains rise straight out of rice paddies here, riddled with some of the largest cave systems on Earth. This is where Son Doong — the world's biggest cave passage — was found in 1991 and only opened to trekkers years later.
+Karst mountains rise straight out of rice paddies here, riddled with some of the largest cave systems on Earth. This is where Son Doong, the world's biggest cave passage, was found in 1991 and only opened to trekkers years later.
 
 You don't need a headlamp and rope to feel it, though. Even a boat ride into Phong Nha Cave's underground river delivers the same low murmur of water on limestone, the same cool, mineral-smelling air rolling off the rock.
 
@@ -68,17 +68,17 @@ You don't need a headlamp and rope to feel it, though. Even a boat ride into Pho
 
 Most travelers fly into Dong Hoi's airport, about 45 minutes from Phong Nha town by taxi or hotel shuttle. Overnight trains from Hanoi or Hue also stop in Dong Hoi, with onward buses or transfers into the park.
 
-Phong Nha town itself sits right at the park's eastern edge, walkable to the boat dock for the main cave. From there, most cave and jungle tours are arranged through licensed operators based in town — nothing here is really a solo drive-up.
+Phong Nha town itself sits right at the park's eastern edge, walkable to the boat dock for the main cave. From there, most cave and jungle tours are arranged through licensed operators based in town, nothing here is really a solo drive-up.
 
 ## What to see and do
 
 The park's fame rests on its caves, but the range of experiences is wider than most visitors expect:
 
-- **Phong Nha Cave** — a boat glides you straight into the mountain along an underground river, past stalactites lit in warm amber.
-- **Paradise Cave (Thien Duong)** — a dry cave with a boardwalk winding past cathedral-sized chambers of white and gold formations.
-- **Dark Cave (Hang Toi)** — ziplining, mud baths and kayaking make this the rowdier, family-friendly option.
-- **Son Doong Cave** — multi-day expedition treks, capped at a small number of permits yearly, booked many months ahead.
-- **Botanical Garden and Ma Da Valley** — shorter jungle walks with waterfalls, good for half a day.
+- **Phong Nha Cave**, a boat glides you straight into the mountain along an underground river, past stalactites lit in warm amber.
+- **Paradise Cave (Thien Duong)**, a dry cave with a boardwalk winding past cathedral-sized chambers of white and gold formations.
+- **Dark Cave (Hang Toi)**, ziplining, mud baths and kayaking make this the rowdier, family-friendly option.
+- **Son Doong Cave**, multi-day expedition treks, capped at a small number of permits yearly, booked many months ahead.
+- **Botanical Garden and Ma Da Valley**, shorter jungle walks with waterfalls, good for half a day.
 
 Outside the caves, the Ho Chi Minh Trail's western branch cuts through park territory, dotted with wartime relics and quiet, forested stretches worth a slow motorbike ride.
 
@@ -88,18 +88,18 @@ Dry season, roughly February through August, gives you the clearest water and sa
 
 Crowds are genuinely light here compared to Vietnam's coastal hotspots. The quietest stretch is 8am–9am on weekdays, or 7am–8am on weekends if that's your only option.
 
-Weekend afternoons and evenings, roughly 2pm to 11pm, are the busiest window — domestic tourists arrive in tour-bus waves and the boat dock queue backs up.
+Weekend afternoons and evenings, roughly 2pm to 11pm, are the busiest window, domestic tourists arrive in tour-bus waves and the boat dock queue backs up.
 
 ## How to visit like a local
 
-Book cave tours two to three days ahead directly through operators in Phong Nha town rather than last-minute online — permit numbers for Son Doong and even Paradise Cave's deeper sections are limited.
+Book cave tours two to three days ahead directly through operators in Phong Nha town rather than last-minute online, permit numbers for Son Doong and even Paradise Cave's deeper sections are limited.
 
 Arrive at the Phong Nha Cave boat dock right at opening in the 7-8am or 8-9am window above; you'll share the river with almost no one and the light on the limestone is softer.
 
-- Pay guides and drivers in Vietnamese dong, cash — cards are rarely accepted outside hotels.
+- Pay guides and drivers in Vietnamese dong, cash, cards are rarely accepted outside hotels.
 - Tip boat crews and trekking porters modestly; it's appreciated, not obligatory.
 - Rent a motorbike from your homestay to reach Paradise Cave and the Botanical Garden independently rather than joining a big group tour.
-- Wear river shoes or sandals with grip for wet caves — flip-flops slide on algae-covered rock.
+- Wear river shoes or sandals with grip for wet caves, flip-flops slide on algae-covered rock.
 
 This park doesn't get the same crush as Ha Long Bay or Hoi An, so there's little pressure to rush. Slow down, spend an extra day, and let a jungle trek or kayak paddle fill the gap between cave visits.
 

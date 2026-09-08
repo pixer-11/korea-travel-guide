@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-smithsonian-national-museum-of-natural-history
-srcHash: '77a3f3d9b9d5'
+srcHash: 'ce2eb8c930a4'
 title: 'Museo Nacional de Historia Natural del Smithsonian: Guía de viaje de Washington DC'
 description: 'El Museo Nacional de Historia Natural del Smithsonian se encuentra en el National Mall, en la calle 10 con Constitution Avenue NW, en Washington DC, y su entrada es gratuita todos los días de 10:00 a 17:30. 4.8★ (58,597 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Historia Natural del Smithsonian se encuentra en el National Mall, en la calle 10 con Constitution Avenue NW, en Washington DC, y su entrada es gratuita todos los días de 10:00 a 17:30. Es uno de los museos más visitados del país, así que el momento más tranquilo es justo al abrir, entre las 10:00 y las 11:00, antes de que los grupos turísticos y los autobuses escolares llenen las salas hacia el mediodía. Conviene reservar entre dos y tres horas para recorrer con calma la sala de dinosaurios, el Diamante Hope y la Sala del Océano.

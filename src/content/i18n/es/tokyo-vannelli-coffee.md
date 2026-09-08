@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-vannelli-coffee
-srcHash: '7452e0cbd669'
+srcHash: 'a65847d2894b'
 title: 'Vannelli Coffee: guía de viaje por Tokio'
 description: 'Vannelli Coffee en Tokio, Japón: un lugar nuevo y de moda del que todo el mundo habla. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'En febrero de 2026 abrió en Omotesando, Tokio, la primera tienda insignia mundial de Vannelli Coffee, una marca italiana de café de especialidad fundada por baristas campeones. Aquí el atractivo no está tanto en un solo espresso como en todo el ritual que lo rodea: una vitrina móvil de café pensada para explorar los granos por aroma y origen antes incluso de pedir la taza. Si puedes, ve un día laborable por la mañana, ya que aperturas como esta en Omotesando suelen generar largas colas los fines de semana, y confirma antes de ir el horario vigente y si hace falta reserva, porque estos detalles todavía se están definiendo en las primeras semanas.'

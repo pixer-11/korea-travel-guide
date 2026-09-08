@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: manila-fort-santiago
-srcHash: 'b309f4b8b74e'
+srcHash: 'e4f5a05a4ce7'
 title: 圣地亚哥堡:马尼拉旅行指南
 description: 圣地亚哥堡(Fort Santiago)是马尼拉内城区(Intramuros)尖端的西班牙老城堡，每天上午8点至晚上11点开放，最佳游览时间是开门后的头两个小时，可以避开旅游大巴和夜间人潮。
 quickAnswer: 圣地亚哥堡(Fort Santiago)是马尼拉内城区(Intramuros)尖端的西班牙老城堡，每天上午8点至晚上11点开放，最佳游览时间是开门后的头两个小时，可以避开旅游大巴和夜间人潮。建议预留1.5至2小时，用来漫步城墙、参观黎刹圣殿(Rizal Shrine)博物馆，并沿着何塞·黎刹(José Rizal)走向刑场的最后足迹寻访。这里人气很高，建议工作日上午8点至11点或周末上午8点至10点前往，并避开周末下午3点至晚上10点的高峰时段。

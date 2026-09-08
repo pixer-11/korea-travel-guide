@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-roast8ry-bangkok
-srcHash: '0d0adafe4e4c'
+srcHash: '603333b2db43'
 title: 'Roast8ry: guía de viaje de Bangkok'
 description: 'Roast8ry Bangkok, en Bangkok, Tailandia: un local nuevo y de moda del que te contamos qué es, dónde está y cómo llegar.'
 quickAnswer: Roast8ry Bangkok es la primera sucursal en la capital de la aclamada marca de café de especialidad nacida en Chiang Mai y fundada por Arnon Thitiprasert, campeón mundial de latte art en 2017. El local se esconde entre las viejas calles de shophouses cerca de Song Wat, en el barrio chino. Vale la pena ir por su espresso y su café de filtro de nivel competitivo, y hay que estar preparado para un latte art tan cuidado que dan ganas de fotografiarlo antes de probarlo. Conviene confirmar el horario antes de ir, ya que los locales recién abiertos suelen cambiar de horario con frecuencia en sus primeros meses.

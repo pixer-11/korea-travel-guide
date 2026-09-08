@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: miami-talkin-tacos-brickell
-srcHash: '057ed9f623fa'
+srcHash: 'b1d457dc4ce1'
 title: トーキン・タコス・ブリッケル(Talkin' Tacos Brickell):マイアミのおすすめグルメスポット
 description: トーキン・タコス・ブリッケル(Talkin' Tacos Brickell)は、97 SW 8th Stに位置する、遅くまで営業しているタコスとテキーラの店。ブリッケル(Brickell)とダウンタウンの境界エリアにあり、ブリッケル・メトロムーバー(Brickell Metromover)駅から徒歩数分。
 quickAnswer: トーキン・タコス・ブリッケル(Talkin' Tacos Brickell)は、97 SW 8th Stに位置する、遅くまで営業しているタコスとテキーラの店。ブリッケル(Brickell)とダウンタウンの境界エリアにあり、ブリッケル・メトロムーバー(Brickell Metromover)駅から徒歩数分の場所にあります。価格帯は中程度で、営業時間は毎日10am–2am。ハッピーアワーや週末ブランチの混雑を避けたいなら、遅めのランチ(正午前)か、夜10時以降の来店がおすすめです。

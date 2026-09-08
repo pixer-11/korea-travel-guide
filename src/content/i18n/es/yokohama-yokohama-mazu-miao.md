@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yokohama-yokohama-mazu-miao
-srcHash: '4aeb41076240'
+srcHash: '0731f2ae991e'
 title: 'Yokohama Mazu Miao: Guía de Viaje (4.2★)'
 description: Yokohama Mazu Miao es un templo chino pequeño pero ricamente decorado, escondido en una calle secundaria del barrio chino de Yokohama (Chinatown), dedicado a Mazu, la diosa taoísta del mar que protege a marineros y viajeros. 4.2★ (1,067 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Yokohama Mazu Miao es un templo chino pequeño pero ricamente decorado, escondido en una calle secundaria del barrio chino de Yokohama (Chinatown), dedicado a Mazu, la diosa taoísta del mar que protege a marineros y viajeros. Es gratis entrar al patio y asomarse al interior, toma entre 20 y 30 minutos apreciarlo con calma, y es más tranquilo por la mañana — los fines de semana se llena entre el mediodía y las 5pm, así que conviene ir más temprano. Combina bien con un paseo por los puestos de comida de Chinatown y por el cercano Yamashita Park.

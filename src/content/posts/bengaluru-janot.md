@@ -27,29 +27,29 @@ draft: true
 
 ## Why Janot matters right now
 
-Janot isn't just another new opening — it's chef Avinash Martins carrying his Goa restaurant's name and philosophy into Bengaluru for the first time. Martins built his reputation reworking Goan home cooking, Catholic and Hindu village recipes alike, into refined restaurant plates. That his flagship has never left Goa until now is exactly why Bengaluru's food crowd has been watching for this one.
+Janot isn't just another new opening. It's chef Avinash Martins carrying his Goa restaurant's name and philosophy into Bengaluru for the first time. Martins built his reputation reworking Goan home cooking, Catholic and Hindu village recipes alike, into refined restaurant plates. That his flagship has never left Goa until now is exactly why Bengaluru's food crowd has been watching for this one.
 
-You feel the weight of that reputation the moment you sit down. This isn't a generic "coastal" menu chasing a trend. It's a chef translating a specific regional food culture — recheado pastes, coconut, kokum, toddy vinegar — for a new city's palate without diluting it into something safer.
+You feel the weight of that reputation the moment you sit down. This isn't a generic "coastal" menu chasing a trend. It's a chef translating a specific regional food culture (recheado pastes, coconut, kokum, toddy vinegar) for a new city's palate without diluting it into something safer.
 
 ## What makes the food distinct
 
-Goan food outside Goa often gets flattened into just fish curry rice and vindaloo. Martins' cooking pushes past that shorthand. His Goa restaurant is known for digging into lesser-seen dishes — offal, foraged greens, temple-food influences — alongside the coastal classics most diners expect.
+Goan food outside Goa often gets flattened into just fish curry rice and vindaloo. Martins' cooking pushes past that shorthand. His Goa restaurant is known for digging into lesser-seen dishes (offal, foraged greens, temple-food influences) alongside the coastal classics most diners expect.
 
 Expect that same instinct at the Bengaluru outpost: familiar Goan flavours plated with more technique, but rooted in genuinely local recipes rather than invented fusion. The exact dishes on the Bengaluru menu can shift, so treat any specific dish name you hear beforehand as a preview, not a guarantee.
 
 ## Setting and atmosphere
 
-A restaurant carrying a chef's name and story like this usually leans into designing a room that evokes its origin — warm light, coastal textures, an open kitchen or bar that puts the cooking on display. Janot Bengaluru is built to give diners a sense of Goa's pace and warmth without leaving the city.
+A restaurant carrying a chef's name and story like this usually leans into designing a room that evokes its origin, warm light, coastal textures, an open kitchen or bar that puts the cooking on display. Janot Bengaluru is built to give diners a sense of Goa's pace and warmth without leaving the city.
 
 Go in expecting a sit-down, occasion-worthy meal rather than a quick bite. New chef-led openings like this tend to draw a mixed crowd of serious food writers, curious locals, and Goa-cuisine loyalists in the first months.
 
 ## Getting there and what to expect
 
-Bengaluru's dining scene is spread across distinct pockets — Indiranagar, Koramangala, UB City, and the CBD each have their own restaurant clusters. Since Janot is a new arrival, confirm its exact neighbourhood, address, and nearest metro station directly through the restaurant's official channels or a maps app before heading out.
+Bengaluru's dining scene is spread across distinct pockets, Indiranagar, Koramangala, UB City, and the CBD each have their own restaurant clusters. Since Janot is a new arrival, confirm its exact neighbourhood, address, and nearest metro station directly through the restaurant's official channels or a maps app before heading out.
 
 Because this is a recently opened, buzzy restaurant, a few things are worth locking down ahead of time:
 
-- **Reservations**: Book in advance, especially for weekend dinners — new high-profile openings fill up fast.
+- **Reservations**: Book in advance, especially for weekend dinners, new high-profile openings fill up fast.
 - **Hours**: Confirm current opening and closing times directly, as these can shift in a restaurant's first months.
 - **Pricing**: Expect this to sit in the mid-to-upper range for Bengaluru dining, in line with a chef-led destination restaurant, but verify current menu pricing before you go.
 - **Dress and occasion**: Treat it as a proper sit-down dinner out rather than a casual walk-in meal.
@@ -58,9 +58,9 @@ Because this is a recently opened, buzzy restaurant, a few things are worth lock
 
 Bengaluru diners chasing a new opening like this typically avoid the first rush of opening-week crowds and instead go a few weeks in, once the kitchen has settled into its rhythm. If you want a calmer meal, aim for an early weeknight seating rather than peak Friday or Saturday dinner hours, when demand for a buzzy new chef restaurant tends to spike.
 
-Call or book online rather than walking in — restaurants riding this much opening buzz often can't accommodate walk-ins, especially for larger groups. Payment across Bengaluru's restaurant scene is overwhelmingly digital: UPI and cards are standard, and a service charge or tip of around ten percent is customary if not already added to the bill.
+Call or book online rather than walking in, restaurants riding this much opening buzz often can't accommodate walk-ins, especially for larger groups. Payment across Bengaluru's restaurant scene is overwhelmingly digital: UPI and cards are standard, and a service charge or tip of around ten percent is customary if not already added to the bill.
 
-If you know Goan cuisine, order a mix of something familiar (a fish preparation, a coconut-based curry) alongside a dish you don't recognise — that's usually where a chef like Martins is doing his most interesting work. Ask your server what's changed recently on the menu; kitchens like this often rotate dishes based on seasonal produce and what's working from the Goa original.
+If you know Goan cuisine, order a mix of something familiar (a fish preparation, a coconut-based curry) alongside a dish you don't recognise. That's usually where a chef like Martins is doing his most interesting work. Ask your server what's changed recently on the menu; kitchens like this often rotate dishes based on seasonal produce and what's working from the Goa original.
 
 The biggest mistake newcomers make with destination chef restaurants is treating them like a quick meal. Give it the time a proper dinner deserves, and don't rush the courses.
 

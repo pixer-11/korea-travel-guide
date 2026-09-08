@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: lombok-elamu-lombok
-srcHash: 'c425fcaf57c9'
+srcHash: '9c5a1782de84'
 title: エラム:ロンボク島でのおすすめレストラン(4.8★)
 description: Elamu Lombok(エラム・ロンボク)は、南ロンボクのクタビーチ(Kuta Beach)近く、メインストリートのJalan Pariwisata Pantai Kutaから車で少し行ったところにあるギリシャ料理レストラン。4.8★(2,407件のレビュー)——訪問者の声、営業時間、訪問のコツを紹介します。
 quickAnswer: Elamu Lombok(エラム・ロンボク)は、南ロンボクのクタビーチ(Kuta Beach)近く、メインストリートのJalan Pariwisata Pantai Kutaから車で少し行ったところにあるギリシャ料理レストランです。2,400件を超えるレビューで4.8星という高評価を獲得しており、グリル肉、新鮮なサラダ、ディップなど地中海料理を、リラックスしたトロピカルな雰囲気の中で楽しめると評判です。早めのディナーがおすすめで、ピークシーズンは事前予約を。訪問前にはクタビーチやタンジュン・アン(Tanjung Aan)でのサンセットを組み合わせるのも良いでしょう。

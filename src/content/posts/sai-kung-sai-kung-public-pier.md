@@ -58,7 +58,7 @@ Sai Kung Public Pier is the front door to Hong Kong's "back garden." This is whe
 
 Boats bob three-deep against the concrete edge. Weathered sampan operators call out destinations. Tanks along the promenade churn with grouper, garoupa, and mantis shrimp still very much alive.
 
-You're not visiting a monument here — you're stepping into a working waterfront that happens to double as Hong Kong's easiest gateway to the Sai Kung Peninsula's islands and beaches.
+You're not visiting a monument here. You're stepping into a working waterfront that happens to double as Hong Kong's easiest gateway to the Sai Kung Peninsula's islands and beaches.
 
 ## Getting there
 
@@ -68,7 +68,7 @@ The pier sits at the harbor-front end of Sai Kung town, an easy walk from the to
 - From Hang Hau Station (Tseung Kwan O Line), take minibus 101M
 - A taxi from Kowloon side runs roughly 30-40 minutes depending on traffic
 
-Once in town, follow the waterfront promenade — you'll see the pier and its cluster of tour touts within a few minutes.
+Once in town, follow the waterfront promenade. You'll see the pier and its cluster of tour touts within a few minutes.
 
 ## What to see and do
 
@@ -82,11 +82,11 @@ Popular options include:
 
 Prices are negotiated on the spot with individual operators, so it's worth comparing two or three boats before committing. Nothing is metered or fixed, and that's part of the pier's slightly chaotic charm.
 
-Along the promenade, seafood restaurants keep tanks out front — you pick your fish, crab, or shrimp live, and kitchens across the street cook it to order.
+Along the promenade, seafood restaurants keep tanks out front, you pick your fish, crab, or shrimp live, and kitchens across the street cook it to order.
 
 ## When to go
 
-The pier never closes — it's open 24 hours every day — but "open" mostly means the physical space, not the tour operators or seafood stalls. Boat touts and most restaurants keep daytime and evening hours, roughly late morning through dinner.
+The pier never closes, it's open 24 hours every day, but "open" mostly means the physical space, not the tour operators or seafood stalls. Boat touts and most restaurants keep daytime and evening hours, roughly late morning through dinner.
 
 Weekday late mornings, before the lunch crowd and before weekend day-trippers pour in, are noticeably calmer. Weekend afternoons see the heaviest crush of both tourists and locals heading to the islands, with queues for boats and tables alike.
 
@@ -94,13 +94,13 @@ Evenings bring a different rhythm: cooler air, lantern-lit seafood restaurants, 
 
 ## How to visit like a local
 
-Sai Kung Public Pier is firmly on the tourist circuit now, so don't expect a quiet secret spot — plan around the crowds instead of hoping to avoid them entirely.
+Sai Kung Public Pier is firmly on the tourist circuit now, so don't expect a quiet secret spot. Plan around the crowds instead of hoping to avoid them entirely.
 
 - Go early-to-mid morning on a weekday for the calmest boat negotiations and clearest photos of the harbor
 - Avoid Saturday and Sunday afternoons, when both boat queues and restaurant waits stretch longest
-- Bring cash — most sampan and speedboat operators expect payment in Hong Kong dollars, not cards
+- Bring cash, most sampan and speedboat operators expect payment in Hong Kong dollars, not cards
 - Agree on the price and return time with your boat operator before boarding, since routes and durations aren't fixed
-- Order seafood by weight at the tanks, then walk it across to a restaurant that will cook it — this is standard practice, not an upsell
+- Order seafood by weight at the tanks, then walk it across to a restaurant that will cook it. This is standard practice, not an upsell
 
 The single biggest mistake visitors make is wandering up expecting a formal ticket booth. There isn't one. It's an informal, personality-driven marketplace of independent operators, and a bit of friendly haggling is simply how it works.
 

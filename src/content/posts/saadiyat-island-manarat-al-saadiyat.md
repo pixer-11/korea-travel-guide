@@ -63,13 +63,13 @@ draft: false
 
 ## Why Manarat Al Saadiyat matters
 
-Before you even reach Louvre Abu Dhabi, this low white building is where the island's cultural story gets told. "Manarat" means "place of light" in Arabic, and the name fits — the galleries are washed in the kind of even, diffused daylight architects design entire buildings around.
+Before you even reach Louvre Abu Dhabi, this low white building is where the island's cultural story gets told. "Manarat" means "place of light" in Arabic, and the name fits. The galleries are washed in the kind of even, diffused daylight architects design entire buildings around.
 
 It's less a single museum than a switchboard for everything Saadiyat is becoming. Walk in and you'll find scale models of the Cultural District's landmark museums, alongside whatever contemporary exhibition happens to be running that season.
 
 ## What you'll actually see
 
-The permanent centerpiece is the exhibition on Saadiyat's museum masterplan — architectural models and renderings of Louvre Abu Dhabi, the future Zayed National Museum, and Guggenheim Abu Dhabi, all shown together under one roof. It's the best single place to understand how the island's ambitions fit together before you go see the real buildings.
+The permanent centerpiece is the exhibition on Saadiyat's museum masterplan, architectural models and renderings of Louvre Abu Dhabi, the future Zayed National Museum, and Guggenheim Abu Dhabi, all shown together under one roof. It's the best single place to understand how the island's ambitions fit together before you go see the real buildings.
 
 Beyond that, Manarat Al Saadiyat runs a steady rotation of:
 
@@ -78,31 +78,31 @@ Beyond that, Manarat Al Saadiyat runs a steady rotation of:
 - Film screenings and talks in its on-site theatre
 - Occasional workshops tied to current exhibitions
 
-Because the program changes, check what's actually on before you go — a visit built around a specific show is far more rewarding than a walk-through with no context.
+Because the program changes, check what's actually on before you go. A visit built around a specific show is far more rewarding than a walk-through with no context.
 
 ## Getting there and getting in
 
-Manarat Al Saadiyat sits directly on Sheikh Khalifa Bin Zayed Al Nahyan Highway in the Cultural District of Saadiyat Island, a short drive from central Abu Dhabi — figure 20–25 minutes from downtown by car or taxi, longer in peak traffic.
+Manarat Al Saadiyat sits directly on Sheikh Khalifa Bin Zayed Al Nahyan Highway in the Cultural District of Saadiyat Island, a short drive from central Abu Dhabi, figure 20–25 minutes from downtown by car or taxi, longer in peak traffic.
 
 There's no metro on Saadiyat Island, so most visitors arrive by taxi, ride-hailing app, or rental car; there's on-site parking. It's an easy pairing with Louvre Abu Dhabi, which sits a few minutes away by road, and with Saadiyat's public beach if you want to bookend culture with sand.
 
-Doors open daily at 10am and close at 8pm, seven days a week — no weekday closure to plan around.
+Doors open daily at 10am and close at 8pm, seven days a week, no weekday closure to plan around.
 
 ## How much time to give it
 
 An hour to ninety minutes covers the permanent architectural displays and a single current exhibition at a comfortable pace. Add time if there's a major touring show, a film screening you want to catch, or if you're visiting with kids drawn to the interactive elements.
 
-Most people treat it as a warm-up or a pairing — an hour here before or after a longer Louvre Abu Dhabi visit next door, rather than a full afternoon on its own.
+Most people treat it as a warm-up or a pairing, an hour here before or after a longer Louvre Abu Dhabi visit next door, rather than a full afternoon on its own.
 
 ## When to go
 
-Weekend afternoons between 4pm and 8pm are the busiest stretch, when families and day-trippers cluster in after the midday heat eases. If you want the galleries closer to yourself, aim for the 10am–1pm window on a Saturday or Sunday instead — measurably quieter and cooler outside too.
+Weekend afternoons between 4pm and 8pm are the busiest stretch, when families and day-trippers cluster in after the midday heat eases. If you want the galleries closer to yourself, aim for the 10am–1pm window on a Saturday or Sunday instead, measurably quieter and cooler outside too.
 
 Weekdays tend to run calmer across the board, especially mornings right after opening.
 
 ## How to visit like a local
 
-Locals and residents who use Manarat Al Saadiyat treat it as a cultural calendar stop, not a one-time tourist checkbox — they check the current exhibition listing online before deciding to go, since the draw changes every few months.
+Locals and residents who use Manarat Al Saadiyat treat it as a cultural calendar stop, not a one-time tourist checkbox, they check the current exhibition listing online before deciding to go, since the draw changes every few months.
 
 A few practical habits worth copying:
 
@@ -110,6 +110,6 @@ A few practical habits worth copying:
 - Pair the visit with Louvre Abu Dhabi or the beach rather than treating it as a standalone trip
 - Dress for serious air conditioning inside and serious sun in the parking area outside
 - Card and mobile payment are the norm across Abu Dhabi venues; cash isn't necessary
-- Don't rush the architectural models near the entrance — they're the clearest primer on the island's museum district you'll find anywhere
+- Don't rush the architectural models near the entrance. They're the clearest primer on the island's museum district you'll find anywhere
 
-The most common visitor mistake is skipping Manarat entirely to head straight for Louvre Abu Dhabi. Given it's well-known rather than obscure, expect other visitors too — but the context it gives makes the rest of Saadiyat's museums click into place, and it's worth the short stop either way.
+The most common visitor mistake is skipping Manarat entirely to head straight for Louvre Abu Dhabi. Given it's well-known rather than obscure, expect other visitors too, but the context it gives makes the rest of Saadiyat's museums click into place, and it's worth the short stop either way.

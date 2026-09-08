@@ -95,13 +95,13 @@ updatedDate: '2026-08-28'
 
 Baguio City Market is where the mountains meet the marketplace. Sacks of highland vegetables, crates of strawberries, and bundles of sunflowers arrive fresh from Benguet farms, spilling out of covered stalls into narrow, roofed alleys that seem to fold in on themselves.
 
-It's not a single building but a whole district — wet market, dry goods, textiles, souvenirs — stitched together over decades. Locals shop here for daily produce; visitors come for the density of sights, smells, and things to buy under one sprawling roof.
+It's not a single building but a whole district (wet market, dry goods, textiles, souvenirs) stitched together over decades. Locals shop here for daily produce; visitors come for the density of sights, smells, and things to buy under one sprawling roof.
 
 ## Getting there
 
 The market sits right on Magsaysay Avenue, an easy 10–15 minute walk downhill from Session Road, Baguio's main commercial spine. Jeepneys marked "Market" run constantly from around the city center and drop you at the main entrance.
 
-If you're coming from Burnham Park, just follow the crowd flow northwest — everyone in that direction is headed to the same place. Taxis and Grab cars know it simply as "Baguio Public Market."
+If you're coming from Burnham Park, just follow the crowd flow northwest, everyone in that direction is headed to the same place. Taxis and Grab cars know it simply as "Baguio Public Market."
 
 ## What to see and eat
 
@@ -109,30 +109,30 @@ The produce section is the heart of it: mountains of carrots, cabbage, broccoli,
 
 Beyond food, look for:
 
-- **Ube jam and strawberry preserves** — Baguio's classic edible souvenirs
+- **Ube jam and strawberry preserves**, Baguio's classic edible souvenirs
 - **Arabica and Benguet coffee beans**, often roasted locally
-- **Ikat-woven textiles and Cordillera handicrafts** — bags, table runners, ponchos
+- **Ikat-woven textiles and Cordillera handicrafts**, bags, table runners, ponchos
 - **Dried mangoes, peanut brittle (peanut kisses), and rice cakes**
 - **Wet market fish and meat sections**, if you want the full, unfiltered market experience
 
-The smell shifts block by block — sharp and briny near the fish stalls, sweet and yeasty near the bakeries, earthy where the sacks of rice and root vegetables are stacked chest-high.
+The smell shifts block by block, sharp and briny near the fish stalls, sweet and yeasty near the bakeries, earthy where the sacks of rice and root vegetables are stacked chest-high.
 
 ## When to go
 
-The market runs daily from 4am to 7pm, so there's no single "opening rush" to avoid — it's already alive well before sunrise. Weekdays between 7am and 9am are noticeably quieter, with room to actually browse stalls without shuffling in a crowd.
+The market runs daily from 4am to 7pm, so there's no single "opening rush" to avoid. It's already alive well before sunrise. Weekdays between 7am and 9am are noticeably quieter, with room to actually browse stalls without shuffling in a crowd.
 
-On weekends, that quiet window shrinks to 7am–8am. After that, especially from noon to 6pm on Saturdays and Sundays, the aisles fill with both locals doing their weekly shopping and tour groups passing through — expect shoulder-to-shoulder movement in the narrower covered lanes.
+On weekends, that quiet window shrinks to 7am–8am. After that, especially from noon to 6pm on Saturdays and Sundays, the aisles fill with both locals doing their weekly shopping and tour groups passing through. Expect shoulder-to-shoulder movement in the narrower covered lanes.
 
 Baguio's cool climate means even midday visits are comfortable temperature-wise, so timing here is about crowd density, not heat.
 
 ## How to visit like a local
 
-Cash is essential — most stalls have no card or QR payment setup, and prices are often per kilo or per small unit, not fixed retail. Small bills help; vendors rarely have change for large notes.
+Cash is essential. Most stalls have no card or QR payment setup, and prices are often per kilo or per small unit, not fixed retail. Small bills help; vendors rarely have change for large notes.
 
-Bargaining is common but keep it friendly and modest — a little negotiation on textiles or souvenirs is normal, but haggling hard over a basket of strawberries isn't the local style. For produce, prices are usually already fair and fixed.
+Bargaining is common but keep it friendly and modest, a little negotiation on textiles or souvenirs is normal, but haggling hard over a basket of strawberries isn't the local style. For produce, prices are usually already fair and fixed.
 
 Wear shoes you don't mind getting a bit wet or muddy near the wet market sections, and carry your own reusable bag. Many vendors still use plastic, but bringing your own is appreciated and practical for the amount you'll likely buy.
 
-The biggest mistake visitors make is treating this like a quick photo-op market. It's enormous and maze-like — budget real time, or you'll miss entire sections (the textile area and the upper dry-goods floors are easy to walk past without noticing).
+The biggest mistake visitors make is treating this like a quick photo-op market. It's enormous and maze-like. Budget real time, or you'll miss entire sections (the textile area and the upper dry-goods floors are easy to walk past without noticing).
 
-Since this is one of Baguio's most-visited landmarks, don't expect a quiet, undiscovered experience — plan around the crowd data above instead of hoping for empty aisles. Early morning is your best strategy any day of the week.
+Since this is one of Baguio's most-visited landmarks, don't expect a quiet, undiscovered experience. Plan around the crowd data above instead of hoping for empty aisles. Early morning is your best strategy any day of the week.

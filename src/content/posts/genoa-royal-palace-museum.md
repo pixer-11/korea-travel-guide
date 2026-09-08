@@ -109,7 +109,7 @@ This was the residence of the Balbi and Durazzo families before the Savoy monarc
 
 The palace sits at Via Balbi, 10, in the heart of Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.
 
-From the station, head down Via Balbi past the university's Baroque courtyard — itself worth a glance — and the palace facade appears on your right, unassuming from the street. That modesty is deliberate: the real spectacle waits inside.
+From the station, head down Via Balbi past the university's Baroque courtyard, itself worth a glance, and the palace facade appears on your right, unassuming from the street. That modesty is deliberate: the real spectacle waits inside.
 
 If you're coming from the old port or Piazza De Ferrari, it's a flat 15–20 minute walk through the historic center, or a short hop on local buses running along Via Balbi.
 
@@ -131,7 +131,7 @@ Set aside roughly an hour to ninety minutes to see it properly without feeling h
 
 Hours here are specific enough to trip people up. The palace is closed Monday and Sunday entirely, and Tuesday it only opens from 1:30 to 7pm.
 
-Wednesday through Saturday, hours run 9am to 7pm — your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds building steadily from 10am through closing at 7pm.
+Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds building steadily from 10am through closing at 7pm.
 
 If your schedule allows any flexibility, aim for a Wednesday or Thursday morning. You'll get the state rooms with far fewer people drifting through your photos.
 
@@ -139,15 +139,15 @@ If your schedule allows any flexibility, aim for a Wednesday or Thursday morning
 
 Genoa's museum-goers treat Palazzo Reale as a considered stop, not a five-minute photo dash, and the building rewards that pace.
 
-Buy your ticket at the door rather than worrying about advance booking — this isn't the Uffizi, and lines are rarely long outside weekend peak hours. Payment is standard card or cash at the counter.
+Buy your ticket at the door rather than worrying about advance booking. This isn't the Uffizi, and lines are rarely long outside weekend peak hours. Payment is standard card or cash at the counter.
 
 A few practical notes:
 
-- Avoid Saturday and Sunday midday if you want the Hall of Mirrors to yourself for even a minute — weekend crowds run 10am to 7pm
+- Avoid Saturday and Sunday midday if you want the Hall of Mirrors to yourself for even a minute. Weekend crowds run 10am to 7pm
 - Wednesday to Friday mornings, right after the 9am opening, tend to be calmest
 - Speak softly in the state rooms; they're still used for concerts and official events, and echo accordingly
-- Check the official site before you go — Tuesday's short afternoon-only hours catch out plenty of visitors who assume standard museum hours
+- Check the official site before you go, Tuesday's short afternoon-only hours catch out plenty of visitors who assume standard museum hours
 
 The most common mistake is treating this like a quick add-on between the port and the cathedral. Locals who bring visitors here budget real time, then follow it with a coffee at one of the small bars along Via Balbi, where university students and museum staff mix over espresso rather than tourist menus.
 
-Combine your visit with the nearby Palazzo dell'Università, whose courtyard is free to enter and sits almost directly across the street — a natural bookend to the palace's gilded interior.
+Combine your visit with the nearby Palazzo dell'Università, whose courtyard is free to enter and sits almost directly across the street, a natural bookend to the palace's gilded interior.

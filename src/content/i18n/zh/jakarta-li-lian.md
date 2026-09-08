@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-li-lian
-srcHash: '47cc4244f3f0'
+srcHash: 'e15f87e3f302'
 title: 丽莲(Li Lian):在雅加达吃什么、去哪吃
 description: 丽莲(Li Lian)位于印度尼西亚雅加达——一处新兴的热门餐厅：它是什么、位于哪里,以及如何前往。
 quickAnswer: 丽莲(Li Lian)是雅加达柏悦酒店(Park Hyatt Jakarta)的第一家中餐厅,位于酒店19楼,坐落在中雅加达的Thamrin/Menteng一带,供应新派中式料理与精致点心,可俯瞰城市天际线。这是一家新开不久、颇受关注的热门餐厅,因此建议提前预订,并在前往之前直接向酒店确认最新营业时间——这里不是可以随意走进去吃碗面的地方,而是需要正装出席、提前订位的用餐场合。

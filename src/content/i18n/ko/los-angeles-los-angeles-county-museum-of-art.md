@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '41c8bc247e2f'
+srcHash: '99e461937b84'
 title: 로스앤젤레스 카운티 미술관(LACMA) 여행 가이드 (4.6★)
 description: LACMA는 윌셔 대로(Wilshire Boulevard)에 위치한 20에이커 규모의 미술관으로, 브로드 현대미술관(Broad Contemporary Art Museum)과 상징적인 어반 라이트(Urban Light) 가로등 설치 작품이 대표적입니다. 4.6★ (리뷰 21,013개) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: LACMA는 윌셔 대로(Wilshire Boulevard)에 위치한 20에이커 규모의 미술관으로, 브로드 현대미술관(Broad Contemporary Art Museum)과 정문 앞 상징적인 어반 라이트(Urban Light) 가로등 설치 작품이 중심입니다. 수요일을 제외하고 매일 문을 열며, 평일 중 가장 한산한 시간대는 오후 6시부터 7시 사이입니다 — 주말은 정오부터 폐관 시간까지 계속 붐비니 오전 방문을 추천합니다. 상설 전시의 일부만 보더라도 최소 세 시간은 잡아두세요.

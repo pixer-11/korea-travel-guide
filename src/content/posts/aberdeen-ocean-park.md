@@ -67,23 +67,23 @@ The park sits on a headland above Aberdeen, on Hong Kong Island's south side.
 - **Bus/taxi**: routes from Central or Admiralty take 20–30 minutes; taxis are quick but pricier on weekends.
 - **On foot from Aberdeen**: roughly 15–20 minutes uphill if you're already exploring the harbor.
 
-The MTR is the move — it's fast, air-conditioned, and drops you steps from the gate.
+The MTR is the move. It's fast, air-conditioned, and drops you steps from the gate.
 
 ## What to see and do
 
-The park splits into two levels: the Waterfront (lowland, near the entrance) and the Summit (hilltop). A cable car and a funicular train called the Ocean Express both connect them — ride one up, the other down for two different views.
+The park splits into two levels: the Waterfront (lowland, near the entrance) and the Summit (hilltop). A cable car and a funicular train called the Ocean Express both connect them. Ride one up, the other down for two different views.
 
 On the Waterfront side:
 
-- **Aqua City** — the main aquarium, home to a vast Grand Aquarium tank
-- **Panda Village** — giant pandas and red pandas in shaded enclosures
-- **Amazing Asian Animals** — smaller mammals and birds from across the continent
+- **Aqua City**, the main aquarium, home to a vast Grand Aquarium tank
+- **Panda Village**, giant pandas and red pandas in shaded enclosures
+- **Amazing Asian Animals**, smaller mammals and birds from across the continent
 
 On the Summit side:
 
-- **Hair Raiser** — a steel coaster that launches over the cliff edge with a harbor backdrop
-- **Bumper Blaster and Whirly Bird** — gentler thrill rides for families
-- **Marine World** — home to dolphins and a walk-through polar exhibit with penguins and walruses
+- **Hair Raiser**, a steel coaster that launches over the cliff edge with a harbor backdrop
+- **Bumper Blaster and Whirly Bird**, gentler thrill rides for families
+- **Marine World**, home to dolphins and a walk-through polar exhibit with penguins and walruses
 
 Budget a full day, six to eight hours, to cover both levels without rushing. Water rides operate seasonally, so if you're visiting in cooler months, check which splash attractions are running before you plan around them.
 
@@ -94,7 +94,7 @@ Hours vary by day, so check which schedule applies before you go.
 - **Monday–Tuesday**: 10:00 AM – 6:30 PM
 - **Wednesday–Sunday**: 10:00 AM – 7:00 PM
 
-Weekday mornings, especially Tuesday through Thursday, are noticeably quieter than weekends. Hong Kong school holidays and public holidays bring the heaviest crowds — expect longer queues at Hair Raiser and the cable car during those stretches.
+Weekday mornings, especially Tuesday through Thursday, are noticeably quieter than weekends. Hong Kong school holidays and public holidays bring the heaviest crowds. Expect longer queues at Hair Raiser and the cable car during those stretches.
 
 Aim for the shoulder seasons: spring (March–April) or autumn (October–November) bring milder heat and less humidity than the peak summer months, when the hilltop sun can be brutal by early afternoon.
 
@@ -102,11 +102,11 @@ Aim for the shoulder seasons: spring (March–April) or autumn (October–Novemb
 
 Ocean Park is a major draw for both Hong Kong families and visitors, so beating the crowds is the real skill here.
 
-- **Arrive at opening.** The gates open at 10:00 AM sharp — being there five minutes early gets you onto the cable car before the first wave forms.
+- **Arrive at opening.** The gates open at 10:00 AM sharp, being there five minutes early gets you onto the cable car before the first wave forms.
 - **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.
 - **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.
 - **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.
 - **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park; grabbing lunch at 11:30 AM or after 2 PM saves real time.
-- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it — cable car up, funicular down (or vice versa) — so you're not backtracking through the same queue twice.
+- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it (cable car up, funicular down (or vice versa)), so you're not backtracking through the same queue twice.
 
 Wear sturdy shoes; the Summit paths are steep, and you'll be on your feet most of the day.

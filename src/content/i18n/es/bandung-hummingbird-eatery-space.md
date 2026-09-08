@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bandung-hummingbird-eatery-space
-srcHash: '796434d17127'
+srcHash: 'feb34e455c6a'
 title: 'Hummingbird Eatery & Space: dónde comer en Bandung'
 description: En la zona de Citarum de Bandung, sobre Jl. Progo, Hummingbird Eatery & Space es un café-restaurante de todo el día con patio ajardinado, conocido por una carta que combina clásicos indonesios, platos occidentales, crepes y jugos naturales.
 quickAnswer: En la zona de Citarum de Bandung, sobre Jl. Progo, Hummingbird Eatery & Space es un café-restaurante de todo el día con patio ajardinado, conocido por una carta que combina clásicos indonesios, platos occidentales, crepes y jugos naturales. Con una calificación de 4.7 basada en casi 13,000 reseñas, es un lugar realmente popular y muy visitado, así que conviene ir un día de semana por la mañana o a media tarde para evitar la avalancha del fin de semana. Calcula entre IDR 40,000 y 90,000 por plato (rango medio, nivel de precio 2).

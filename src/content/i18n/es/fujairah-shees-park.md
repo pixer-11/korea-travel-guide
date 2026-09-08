@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-shees-park
-srcHash: 'a7dba22f1a8d'
+srcHash: 'b1bf5d8f1341'
 title: 'Shees Park: guía de viaje de Sharjah (4,4★)'
 description: 'Shees Park se encuentra junto a la carretera de montaña Al Dhaid–Masafi, en la frontera entre Sharjah y Fujairah, y abre todos los días de 8:00 a 22:00. 4,4★ (6.665 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Shees Park se encuentra junto a la carretera de montaña Al Dhaid–Masafi, en la frontera entre Sharjah y Fujairah, y abre todos los días de 8:00 a 22:00. Conviene ir un día laborable por la mañana o al atardecer, cuando refresca, ya que se trata de un lugar muy popular entre las familias y los fines de semana se llena rápido. Lleve un picnic, calzado adecuado para las colinas de los alrededores y efectivo para el aparcamiento o los tentempiés.

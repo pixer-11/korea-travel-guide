@@ -76,9 +76,9 @@ updatedDate: '2026-09-04'
 ---
 ## Why go
 
-Victoria Harbour is the reason Hong Kong's skyline looks the way it does. The water itself is the show — a working channel still crossed by green-and-white Star Ferries, red-sailed junk boats, and container barges, all framed by a wall of towers on both shores.
+Victoria Harbour is the reason Hong Kong's skyline looks the way it does. The water itself is the show, a working channel still crossed by green-and-white Star Ferries, red-sailed junk boats, and container barges, all framed by a wall of towers on both shores.
 
-You feel the scale first. Standing on the Tsim Sha Tsui side, Hong Kong Island rises directly across the water — IFC, Central Plaza, the jagged ridge of Victoria Peak behind them. At night, the buildings outline themselves in light and the harbour turns into a mirror.
+You feel the scale first. Standing on the Tsim Sha Tsui side, Hong Kong Island rises directly across the water, IFC, Central Plaza, the jagged ridge of Victoria Peak behind them. At night, the buildings outline themselves in light and the harbour turns into a mirror.
 
 ## Getting there
 
@@ -104,19 +104,19 @@ Don't skip the water itself:
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot — you get the skyline in daylight, then watch it switch to night lighting without moving. The harbour is at its most crowded in the evening around the light show, especially on weekends and holidays.
+Late afternoon into early evening is the sweet spot, you get the skyline in daylight, then watch it switch to night lighting without moving. The harbour is at its most crowded in the evening around the light show, especially on weekends and holidays.
 
-For a calmer visit, come in the mid-morning or early afternoon when the promenades are walkable rather than shoulder-to-shoulder. Firework displays are occasional, tied to specific holidays like Chinese New Year and National Day — check current schedules before planning around one, since these are announced separately each year.
+For a calmer visit, come in the mid-morning or early afternoon when the promenades are walkable rather than shoulder-to-shoulder. Firework displays are occasional, tied to specific holidays like Chinese New Year and National Day. Check current schedules before planning around one, since these are announced separately each year.
 
 ## How to visit like a local
 
 Victoria Harbour is one of Hong Kong's most visited sites, not a quiet corner, so plan around the crowds rather than expecting to avoid them.
 
-- Arrive early if you want a clear railing spot for the evening light show — latecomers end up several rows back.
-- Pay for the Star Ferry with an Octopus card, the same contactless card locals use for MTR, buses, and convenience stores — it's faster than buying single tickets.
+- Arrive early if you want a clear railing spot for the evening light show, latecomers end up several rows back.
+- Pay for the Star Ferry with an Octopus card, the same contactless card locals use for MTR, buses, and convenience stores. It's faster than buying single tickets.
 - Skip the most congested stretch of Avenue of Stars around show time; walk 5–10 minutes further along the promenade for a less packed view with nearly the same sightline.
 - The Central/Admiralty side empties out earlier than Tsim Sha Tsui, since the after-work crowd disperses once the show ends.
-- No tipping is expected at the ferry piers or along the promenade — this isn't a restaurant transaction.
+- No tipping is expected at the ferry piers or along the promenade. This isn't a restaurant transaction.
 
 The biggest mistake visitors make is treating the harbour as a five-minute photo stop. Budget at least an hour, and let the view change as the light does.
 

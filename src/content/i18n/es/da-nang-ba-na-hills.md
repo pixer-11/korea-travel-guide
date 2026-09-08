@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-ba-na-hills
-srcHash: '49f1884898e8'
+srcHash: '964216815f07'
 title: 'Ba Na Hills: guía de viaje de Da Nang (4,4★)'
 description: 'Ba Na Hills es una estación de montaña de estilo colonial francés y parque temático situado sobre Da Nang, a la que se llega en uno de los teleféricos monocable más largos del mundo, famosa por el Puente Dorado sostenido por gigantescas manos de piedra. 4,4★ (103.012 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ba Na Hills es una estación de montaña de estilo colonial francés y parque temático situado sobre Da Nang, a la que se llega en uno de los teleféricos monocable más largos del mundo, famosa por el Puente Dorado sostenido por gigantescas manos de piedra. Conviene ir un día entre semana, llegar a la estación del teleférico justo a la apertura y reservar un día completo (de 8 a 10 horas) contando el transporte. Es un lugar muy concurrido, así que llegar temprano es, sin duda, la mejor decisión que se puede tomar.

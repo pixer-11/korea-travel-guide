@@ -80,17 +80,17 @@ These caves predate Elephanta and the Ajanta-Ellora complexes further inland, ca
 
 The main hall centers on a shrine to Jogeshwari, a form of the goddess Durga, still actively worshipped today. Massive stone pillars hold up a ceiling blackened by centuries of oil lamps and incense smoke.
 
-Look for the weathered dvarapala guardian figures flanking the entrances and the Nataraja carving inside — worn by time but still legible if the light catches it right.
+Look for the weathered dvarapala guardian figures flanking the entrances and the Nataraja carving inside, worn by time but still legible if the light catches it right.
 
 ## Getting there
 
-The nearest station is Jogeshwari on the Western Railway suburban line, about a 10-15 minute walk or a short auto-rickshaw ride from the caves. From the station, head east and ask for "Gupha Tekdi" — locals know it by that name even if a map doesn't.
+The nearest station is Jogeshwari on the Western Railway suburban line, about a 10-15 minute walk or a short auto-rickshaw ride from the caves. From the station, head east and ask for "Gupha Tekdi", locals know it by that name even if a map doesn't.
 
 If you're coming from South Mumbai or the airport, a taxi or app-cab is easiest, though the last stretch is narrow and you'll likely finish on foot. There's no dedicated parking lot, so plan to park on a side street or arrive by train.
 
 ## What you'll actually see inside
 
-The caves are compact compared to Elephanta, and you can cover the main hall and shrine in 30-45 minutes. Bring a small torch or use your phone light — the interior lighting is dim and uneven in places.
+The caves are compact compared to Elephanta, and you can cover the main hall and shrine in 30-45 minutes. Bring a small torch or use your phone light. The interior lighting is dim and uneven in places.
 
 Things worth noticing:
 
@@ -103,7 +103,7 @@ Because it's a working temple, you'll see devotees alongside sightseers, especia
 
 ## When to go
 
-The caves keep split hours daily: 6am to 1pm, then 4:30pm to 9pm. Plan around that midday closure — arriving at 2pm means a locked gate and a wasted trip.
+The caves keep split hours daily: 6am to 1pm, then 4:30pm to 9pm. Plan around that midday closure, arriving at 2pm means a locked gate and a wasted trip.
 
 Arriving soon after the 6am opening tends to be quieter, both on weekdays and weekends. That early slot also gives you softer light filtering into the hall, which helps for photos of the carvings.
 
@@ -111,7 +111,7 @@ Avoid weekend evenings between 5pm and 9pm. That's when the temple fills with lo
 
 ## How to visit like a local
 
-Dress modestly since this is an active place of worship, not just a monument — cover shoulders and knees. You'll need to remove your shoes before entering the inner shrine area, so wear something easy to slip on and off.
+Dress modestly since this is an active place of worship, not just a monument, cover shoulders and knees. You'll need to remove your shoes before entering the inner shrine area, so wear something easy to slip on and off.
 
 There's no formal entry ticket at the gate, and donations at the shrine are given in cash, usually small denominations. Keep some loose change or small notes handy rather than expecting a payment counter.
 

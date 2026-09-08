@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-kurarie
-srcHash: '17d62bac7878'
+srcHash: 'cc6075260bfe'
 title: 'Kurarie (쿠라리에): guía de viaje de Seúl'
 description: 'Kurarie (쿠라리에) en Seúl, Corea del Sur, es un local nuevo y de moda: qué es, dónde se encuentra y cómo visitarlo.'
 quickAnswer: 'Kurarie es una cafetería de postres de reciente apertura y estética muy cuidada, ubicada en la calle Eonju-ro de Apgujeong y gestionada por Daewon Media. Su ambiente recuerda al de una elegante cafetería americana, donde la presentación artística importa más que servir un café rápido. Conviene planearla como una parada relajada de una o dos horas antes que como un lugar de paso rápido: si quieres conseguir mesa sin complicaciones, ve un día entre semana por la tarde. Antes de ir, confirma el horario y la política de reservas, ya que al tratarse de un local tan nuevo estos detalles pueden cambiar.'

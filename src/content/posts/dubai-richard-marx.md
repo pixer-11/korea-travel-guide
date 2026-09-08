@@ -48,13 +48,13 @@ You've probably had "Right Here Waiting" or "Hazard" stuck in your head since yo
 
 ## Why this show matters
 
-Richard Marx built his career on a run of soft-rock and pop staples from the late 1980s and 90s — chart-topping ballads and radio hits that still fill arenas decades later. This particular date is billed as his first-ever performance in the Middle East, which makes it a genuine milestone rather than just another stop on a tour. For longtime fans in the Gulf region, it's a rare chance to hear those songs live without booking a flight to London or Los Angeles.
+Richard Marx built his career on a run of soft-rock and pop staples from the late 1980s and 90s, chart-topping ballads and radio hits that still fill arenas decades later. This particular date is billed as his first-ever performance in the Middle East, which makes it a genuine milestone rather than just another stop on a tour. For longtime fans in the Gulf region, it's a rare chance to hear those songs live without booking a flight to London or Los Angeles.
 
 ## Getting to Coca-Cola Arena
 
 The show is set for Coca-Cola Arena on October 3, 2026. The venue sits in City Walk, one of Dubai's newer mixed-use districts, wedged between Al Wasl Road and Jumeirah, a few minutes' drive from Downtown Dubai and the Burj Khalifa.
 
-If you're not driving, ride-hailing apps are the simplest option — drop-off points are clearly marked right outside the arena's main entrance. Dubai's Metro doesn't run directly to City Walk, so a taxi or rideshare for the last stretch is normal, even for residents.
+If you're not driving, ride-hailing apps are the simplest option, drop-off points are clearly marked right outside the arena's main entrance. Dubai's Metro doesn't run directly to City Walk, so a taxi or rideshare for the last stretch is normal, even for residents.
 
 - Drive or taxi: easiest, with paid parking on-site and around City Walk
 - Ride-hailing: convenient for arena drop-off/pickup
@@ -64,21 +64,21 @@ If you're not driving, ride-hailing apps are the simplest option — drop-off po
 
 Concert pricing at Coca-Cola Arena typically scales by seating tier, with floor and lower-bowl seats commanding a premium over upper-level tickets. Expect a range from budget-friendly upper seats to pricier floor packages, though exact figures for this show weren't part of what's publicly locked in here.
 
-Confirm timing and tickets on the official Coca-Cola Arena site or its authorized partners before you buy. Avoid resale sites you don't recognize — arena shows in Dubai are usually sold through a small number of verified platforms, and duplicate or fake listings do circulate around high-demand announcements.
+Confirm timing and tickets on the official Coca-Cola Arena site or its authorized partners before you buy. Avoid resale sites you don't recognize, arena shows in Dubai are usually sold through a small number of verified platforms, and duplicate or fake listings do circulate around high-demand announcements.
 
 ## What to expect on the night
 
 Coca-Cola Arena holds around 17,000 people, but for a seated singer-songwriter show like this, expect a more intimate configuration than you'd see for a stadium pop act. Doors typically open well before the advertised set time, giving you room to grab a drink or snack at the concourse stalls before finding your seat.
 
-Richard Marx is known for storytelling between songs — expect banter about the writing behind hits like "Should've Known Better" or "Don't Mean Nothing" alongside the music itself. Sets from artists of this era commonly run 90 minutes to two hours, often without a support act, though that's worth verifying once the show's own details are published.
+Richard Marx is known for storytelling between songs. Expect banter about the writing behind hits like "Should've Known Better" or "Don't Mean Nothing" alongside the music itself. Sets from artists of this era commonly run 90 minutes to two hours, often without a support act, though that's worth verifying once the show's own details are published.
 
 ## How to visit like a local
 
 Dubai concertgoers tend to arrive later than door time, so if you want an unrushed entry, aim to get there as soon as doors open rather than at the last minute. Traffic around City Walk builds fast in the hour before showtime.
 
-- Pay by card or Dubai's tap-to-pay options — cash is accepted but less common at arena kiosks
+- Pay by card or Dubai's tap-to-pay options, cash is accepted but less common at arena kiosks
 - Dress code is casual to smart-casual; Dubai crowds skew slightly dressier for arena shows than you might expect elsewhere
-- Book official parking or a ride in advance if you're coming straight from work — City Walk's street parking fills quickly on event nights
+- Book official parking or a ride in advance if you're coming straight from work, City Walk's street parking fills quickly on event nights
 - The biggest mistake newcomers make is assuming the Metro reaches the venue directly; plan the last mile by road
 
 Arrive with time to explore City Walk itself. It's a pedestrian-friendly strip of restaurants and cafés, so grabbing dinner nearby before the show is far easier than eating inside the arena.

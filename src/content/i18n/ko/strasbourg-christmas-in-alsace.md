@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: strasbourg-christmas-in-alsace
-srcHash: '3d9918cc1dd3'
+srcHash: '933c74022bcb'
 title: 알자스의 크리스마스
 description: 스트라스부르 크리스마스 마켓(Marché de Noël)은 11월 말부터 12월 24일 또는 31일까지 시내 중심가의 약 12개 광장에서 열리며, 클레베르 광장(Place Kléber)의 대형 트리와 대성당 광장(Place de la Cathédrale)이 중심축을 이룹니다.
 quickAnswer: 스트라스부르 크리스마스 마켓(Marché de Noël)은 11월 말부터 12월 24일 또는 31일까지 시내 중심가의 약 12개 광장에서 열리며, 클레베르 광장(Place Kléber)의 대형 트리와 대성당 광장(Place de la Cathédrale)이 중심축을 이룹니다. 하루 전체 일정을 잡고, 조명이 켜지는 늦은 오후 시간에 맞춰 도착하는 것이 좋으며, 유럽에서 가장 오래되고 붐비는 크리스마스 마켓 중 하나이므로 숙소는 미리 예약해두세요. 대성당 근처 10 Rue des Dentelles에 위치한 상점 "Christmas in Alsace"는 마켓 시즌이 아닐 때 방문한다면 알자스 지역 오너먼트와 선물을 구경하기 좋은 연중 상시 매장입니다.

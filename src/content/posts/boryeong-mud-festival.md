@@ -43,13 +43,13 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Boryeong Mud Festival is Korea's most famous summer event, built around the simple idea that the mineral-rich mud from the tidal flats near Daecheon Beach is good for your skin — and even better for a party. What began in the 1990s as a marketing push for a local cosmetics line has grown into a two-week beach festival drawing hundreds of thousands of visitors, including a large share of foreign tourists and expats.
+Boryeong Mud Festival is Korea's most famous summer event, built around the simple idea that the mineral-rich mud from the tidal flats near Daecheon Beach is good for your skin, and even better for a party. What began in the 1990s as a marketing push for a local cosmetics line has grown into a two-week beach festival drawing hundreds of thousands of visitors, including a large share of foreign tourists and expats.
 
-The grounds hold mud wrestling rings, mud slides, giant inflatable mud pools, body-painting stations, a mud prison photo zone, and free-for-all mud fights on the sand, followed by K-pop stage shows, fireworks, and foam parties once the sun goes down. It's messy, loud, and unapologetically fun — closer to a beach carnival than a cultural heritage site.
+The grounds hold mud wrestling rings, mud slides, giant inflatable mud pools, body-painting stations, a mud prison photo zone, and free-for-all mud fights on the sand, followed by K-pop stage shows, fireworks, and foam parties once the sun goes down. It's messy, loud, and unapologetically fun, closer to a beach carnival than a cultural heritage site.
 
 ## Getting there
 
-Daecheon Beach sits in Boryeong, South Chungcheong Province, on Korea's west coast. The easiest way from Seoul is by train: a Janghang Line service from Yongsan Station to Daecheon Station takes roughly two to two and a half hours depending on the train type (ITX-Saemaeul or Mugunghwa). From Daecheon Station, the beach is about 3 km away — taxis take 10–15 minutes, and during the festival period extra shuttle buses and local buses run directly between the station and the festival grounds.
+Daecheon Beach sits in Boryeong, South Chungcheong Province, on Korea's west coast. The easiest way from Seoul is by train: a Janghang Line service from Yongsan Station to Daecheon Station takes roughly two to two and a half hours depending on the train type (ITX-Saemaeul or Mugunghwa). From Daecheon Station, the beach is about 3 km away, taxis take 10–15 minutes, and during the festival period extra shuttle buses and local buses run directly between the station and the festival grounds.
 
 Intercity buses also connect Boryeong to Seoul's Central City Terminal and other major cities, with journeys similar in length to the train. For drivers, congestion is heavy and parking near the beach is limited on peak festival weekends, which is why most visitors use public transit.
 

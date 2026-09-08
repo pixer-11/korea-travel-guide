@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: tokyo-september-grand-sumo-tournament-aki-basho
-srcHash: 'a16fec7e3981'
+srcHash: 'f145a07a6aec'
 title: '9월 오즈모 대회(아키 바쇼): 알아야 할 것들 (도쿄)'
 description: 일본 도쿄에서 열리는 9월 오즈모 대회(아키 바쇼) — 2026년 9월 13일-27일. 대회의 의미, 일정과 장소, 그리고 방문 계획을 세우는 방법을 소개합니다.
 quickAnswer: 아키 바쇼(9월 오즈모 대회)는 2026년 9월 13일부터 27일까지 도쿄 료고쿠(Ryogoku) 지역의 료고쿠 고쿠기칸(Ryogoku Kokugikan)에서 15일 연속으로 열립니다. 하위 순위 선수들은 늦은 오전에 경기를 치르고, 최상위 부인 마쿠우치(makuuchi)는 오후 중반부터 늦은 오후에 경기를 시작하므로 이른 오후까지 도착해 저녁 6시경 마지막 경기까지 관람하는 것이 좋습니다. 주말과 대회 마지막 날들은 가장 빨리 매진되므로 일본스모협회(Japan Sumo Association)의 공식 채널을 통해 최대한 일찍 티켓을 구매하세요.

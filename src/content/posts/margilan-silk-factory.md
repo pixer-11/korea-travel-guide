@@ -67,7 +67,7 @@ You won't find crowds here. It reads as an educational institution as much as a 
 
 The tour moves room to room, following the thread from cocoon to cloth. First stop is usually a vat of steaming water where silkworm cocoons soften, releasing a single continuous filament that workers reel by hand.
 
-Next comes the part that makes Margilan's silk famous: the ikat dyeing. Bundles of thread are tied off in patterns with string, dipped in natural dye baths — pomegranate skin, walnut husk, indigo — then untied and re-tied for each new colour.
+Next comes the part that makes Margilan's silk famous: the ikat dyeing. Bundles of thread are tied off in patterns with string, dipped in natural dye baths (pomegranate skin, walnut husk, indigo) then untied and re-tied for each new colour.
 
 - Cocoon boiling and hand-reeling
 - Ikat thread-tying and dip-dyeing
@@ -80,13 +80,13 @@ The looms clatter in a steady rhythm as weavers throw the shuttle back and forth
 
 At the end of the tour, most visits pass through a small shop selling scarves, wall hangings, and bolts of atlas and adras cloth woven on-site. Prices are generally lower here than in Tashkent boutiques since you're buying direct from the workshop.
 
-Nobody pressures you to buy. It's worth handling the fabric anyway — the difference between machine-loomed and hand-loomed ikat is obvious once someone points out the slightly irregular, hand-tied edges of the pattern.
+Nobody pressures you to buy. It's worth handling the fabric anyway, the difference between machine-loomed and hand-loomed ikat is obvious once someone points out the slightly irregular, hand-tied edges of the pattern.
 
 ## Getting there from Fergana or Tashkent
 
 Margilan sits about 12km from Fergana city and is an easy stop if you're already touring the valley. Most travelers arrive by shared taxi or private car from Fergana, Kokand, or Andijan, since there's no direct rail passenger service into Margilan itself.
 
-From central Margilan, a taxi to Mustaqillik ko'chasi takes only a few minutes. Ask your driver for "ipak fabrikasi" (silk factory) — it's a locally understood landmark even without a street number.
+From central Margilan, a taxi to Mustaqillik ko'chasi takes only a few minutes. Ask your driver for "ipak fabrikasi" (silk factory). It's a locally understood landmark even without a street number.
 
 ## When to go
 
@@ -100,7 +100,7 @@ Treat this as a working factory, not a staged performance, and time your visit a
 
 - Pay in Uzbek som cash for anything you buy in the shop; card acceptance this far from Tashkent is unreliable
 - A small tip for your guide is appreciated but not expected
-- Wear closed shoes — the dye and boiling rooms have wet floors
+- Wear closed shoes. The dye and boiling rooms have wet floors
 - Ask before photographing individual weavers up close; general shots of the looms are fine
 
-The mistake most visitors make is rushing through in fifteen minutes. Slow down at the ikat-tying station — it's the step that explains everything else, and it's easy to miss if you're moving with a group. Combine the visit with a walk through Margilan's old town streets afterward, where you'll spot the same fabrics being worn rather than sold.
+The mistake most visitors make is rushing through in fifteen minutes. Slow down at the ikat-tying station. It's the step that explains everything else, and it's easy to miss if you're moving with a group. Combine the visit with a walk through Margilan's old town streets afterward, where you'll spot the same fabrics being worn rather than sold.

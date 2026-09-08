@@ -97,15 +97,15 @@ updatedDate: '2026-09-06'
 ---
 ## Why Erawan is worth the drive
 
-The name comes from Erawan, the three-headed elephant of Hindu myth — the topmost tier is said to resemble its head. What you actually get is a staircase of seven waterfalls climbing nearly 2km through mixed deciduous and bamboo forest, each tier pooling into a pond the color of pale jade.
+The name comes from Erawan, the three-headed elephant of Hindu myth. The topmost tier is said to resemble its head. What you actually get is a staircase of seven waterfalls climbing nearly 2km through mixed deciduous and bamboo forest, each tier pooling into a pond the color of pale jade.
 
 The water here runs through limestone, which is why it carries that milky turquoise tint instead of the murky brown of most tropical rivers. Fish nibble at your ankles in the calmer pools. Macaques rustle in the canopy overhead.
 
 ## Getting there and getting around
 
-Erawan sits deep in Si Sawat District, roughly 65km from Kanchanaburi town — plan on 1.5 to 2 hours by car or minibus. Songthaews run from Kanchanaburi's bus terminal most mornings, but a rented car or scooter gives you more control over timing.
+Erawan sits deep in Si Sawat District, roughly 65km from Kanchanaburi town. Plan on 1.5 to 2 hours by car or minibus. Songthaews run from Kanchanaburi's bus terminal most mornings, but a rented car or scooter gives you more control over timing.
 
-From the park entrance, a marked trail follows the stream past all seven tiers. There's no shuttle — you walk, and the path gets rockier and steeper as you climb.
+From the park entrance, a marked trail follows the stream past all seven tiers. There's no shuttle, you walk, and the path gets rockier and steeper as you climb.
 
 - Tier 1–2: flat, paved, wheelchair/stroller-friendly
 - Tier 3–5: dirt trail, some rope-assisted scrambles
@@ -120,10 +120,10 @@ Tier 2 and Tier 4 are usually the most photographed for their layered, staircase
 Bring:
 - Water shoes (the rocks are sharp and slick)
 - A dry bag for phone/camera
-- Reef-safe or no sunscreen — the park restricts oil-based lotions to protect the water
+- Reef-safe or no sunscreen, the park restricts oil-based lotions to protect the water
 - Cash for locker rental and food stalls at the entrance
 
-Note that swimwear here trends conservative — locals typically wear t-shirts and shorts over swimsuits rather than bikinis.
+Note that swimwear here trends conservative, locals typically wear t-shirts and shorts over swimsuits rather than bikinis.
 
 ## When to go
 
@@ -136,13 +136,13 @@ During and just after monsoon (roughly June to October) the falls run fuller and
 Erawan draws heavy weekend crowds, especially domestic tour groups from Bangkok, so timing matters more than any other decision you'll make here.
 
 - Go on a weekday if possible; weekends get packed from 11am to 4pm
-- Arrive right at 8am opening — both weekday and weekend, 8am–10am is the calmest window
+- Arrive right at 8am opening, both weekday and weekend, 8am–10am is the calmest window
 - Pay entrance fees in cash at the gate; card payment isn't reliable this far out
 - Rent a locker near the entrance rather than carrying valuables up the trail
-- Don't leave food scraps or feed the macaques — rangers actively discourage it
+- Don't leave food scraps or feed the macaques, rangers actively discourage it
 - Start climbing before eating; the trail back down is far easier on a full stomach than the climb up
 
-This isn't an undiscovered spot — it's one of Thailand's most-visited national parks, and the entrance area shows it. But the crowd thins fast once you're past Tier 3, since most day-trippers stop at the lower, easier pools.
+This isn't an undiscovered spot. It's one of Thailand's most-visited national parks, and the entrance area shows it. But the crowd thins fast once you're past Tier 3, since most day-trippers stop at the lower, easier pools.
 
 If you only have energy for part of the trail, prioritize an early start over trying to do all seven tiers late in the day. The upper tiers, quieter and more rewarding, are the first casualty of a late arrival.
 

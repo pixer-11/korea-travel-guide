@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-balthazar
-srcHash: 'c038135a6c30'
+srcHash: '6ee28e66fbd7'
 title: 巴尔萨扎:纽约美食指南
 description: 巴尔萨扎(Balthazar)位于苏荷区(SoHo)Spring St 80号，是纽约最经典的巴黎式小酒馆——红色皮质卡座、黄铜栏杆、生蚝吧台、法式牛排薯条，还有一整天营业的面包柜台。
 quickAnswer: 巴尔萨扎(Balthazar)位于苏荷区(SoHo)Spring St 80号，是纽约最经典的巴黎式小酒馆——红色皮质卡座、黄铜栏杆、生蚝吧台、法式牛排薯条，还有一整天营业的面包柜台。工作日营业时间为早上8点到午夜(周末从早上9点开始),周末下午2点到6点是人最多的时段，想图个清静的话，不如选工作日早上或者晚些时候再去。

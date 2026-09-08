@@ -70,7 +70,7 @@ draft: false
 
 ## Why go
 
-Old Town isn't a recreation — it sits on the actual site of San Diego's first non-native settlement. You're walking on ground where California became a state, not a studio backlot.
+Old Town isn't a recreation, it sits on the actual site of San Diego's first non-native settlement. You're walking on ground where California became a state, not a studio backlot.
 
 The park covers six blocks around a dusty central plaza, ringed by adobe and wood-frame buildings from the 1820s-1870s. Costumed docents work blacksmith forges and print period newspapers. It's a genuinely popular stop, so expect company, especially midday.
 
@@ -82,7 +82,7 @@ Driving in, you'll find paid lots along Congress Street and Juan Street. Street 
 
 ## What to see and do
 
-Start at the Robinson-Rose House, the visitor center, for a free map and short film on the district's history. From there, the layout is walkable and flat — no serious hills.
+Start at the Robinson-Rose House, the visitor center, for a free map and short film on the district's history. From there, the layout is walkable and flat, no serious hills.
 
 Highlights worth building time around:
 
@@ -91,28 +91,28 @@ Highlights worth building time around:
 - **La Casa de Estudillo**, a grand adobe hacienda with period-furnished rooms and a courtyard garden
 - **Whaley House**, just across the street, one of the most-visited reputedly haunted houses in the country (separate admission)
 
-Most of the park's museum buildings are free to enter. Interpretive performances — blacksmithing demos, historic reenactments — run on a rotating schedule, so check the day's posted times when you arrive.
+Most of the park's museum buildings are free to enter. Interpretive performances (blacksmithing demos, historic reenactments) run on a rotating schedule, so check the day's posted times when you arrive.
 
 ## When to go
 
 The park is open daily, 10am to 5pm, every day of the week. Crowds build fast after lunch on weekends, with the busiest stretch running 12pm to 5pm.
 
-Weekdays between 10am and noon are the calmest window — plan your visit right at opening if you want the plaza and stables to yourself. Mornings also mean softer light for photos and cooler temperatures, useful since there's little shade in the open plaza.
+Weekdays between 10am and noon are the calmest window. Plan your visit right at opening if you want the plaza and stables to yourself. Mornings also mean softer light for photos and cooler temperatures, useful since there's little shade in the open plaza.
 
 Spring and fall bring mild weather without San Diego's occasional midsummer heat spikes. Give yourself two to three hours to see the buildings properly and grab a meal.
 
 ## Where to eat
 
-Old Town is one of San Diego's best-known Mexican food destinations, and the two anchor restaurants — Old Town Mexican Cafe and Cafe Coyote — both draw lines by early afternoon. Expect the smell of griddled tortillas and carne asada drifting across the plaza well before you reach either door.
+Old Town is one of San Diego's best-known Mexican food destinations, and the two anchor restaurants, Old Town Mexican Cafe and Cafe Coyote, both draw lines by early afternoon. Expect the smell of griddled tortillas and carne asada drifting across the plaza well before you reach either door.
 
 For something quicker, look for the small taco and churro stands tucked along San Diego Avenue's shopping arcades. Most restaurants take cards, though some smaller vendors are cash-preferred.
 
 ## How to visit like a local
 
-Come on a weekday morning if your schedule allows it — 10am to noon is measurably the quietest window, and you'll get the docents and blacksmith shop without shuffling around tour groups. Weekend afternoons are the opposite: this is a heavily visited park, so plan around the crowds rather than expecting to dodge them entirely.
+Come on a weekday morning if your schedule allows it, 10am to noon is measurably the quietest window, and you'll get the docents and blacksmith shop without shuffling around tour groups. Weekend afternoons are the opposite: this is a heavily visited park, so plan around the crowds rather than expecting to dodge them entirely.
 
-Wear shoes that handle packed dirt and gravel paths — the plaza and side lots aren't paved. Bring a refillable water bottle; shade is limited and there's no charge to walk the grounds.
+Wear shoes that handle packed dirt and gravel paths, the plaza and side lots aren't paved. Bring a refillable water bottle; shade is limited and there's no charge to walk the grounds.
 
-Skip the sit-down restaurant queues at peak lunch hour by eating at 11am or after 2pm instead. If you want Whaley House's interior, buy that ticket separately and early — it's a distinct historic site next door, not part of the free state park, and it sells out on weekends.
+Skip the sit-down restaurant queues at peak lunch hour by eating at 11am or after 2pm instead. If you want Whaley House's interior, buy that ticket separately and early. It's a distinct historic site next door, not part of the free state park, and it sells out on weekends.
 
-Locals treat the shaded benches near the Estudillo courtyard as the best rest stop — quieter than the main plaza, and a good spot to read the placards without dodging foot traffic.
+Locals treat the shaded benches near the Estudillo courtyard as the best rest stop, quieter than the main plaza, and a good spot to read the placards without dodging foot traffic.

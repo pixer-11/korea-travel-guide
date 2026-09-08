@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-el-campero
-srcHash: '836b57f4e456'
+srcHash: '70ff5199be88'
 title: 埃尔坎佩罗（El Campero）：马德里美食新去处
 description: 西班牙马德里的埃尔坎佩罗（El Campero）——一家备受关注的新店：它是什么、坐落何处、如何前往品尝。
 quickAnswer: 来自巴尔巴特（Barbate）的金枪鱼专门店埃尔坎佩罗，如今已在马德里萨拉曼卡区（Salamanca）一座19世纪的宫殿式建筑中落户。主厨胡里奥·巴斯克斯（Julio Vázquez）在这里几乎将整条蓝鳍金枪鱼物尽其用，从冰凉的刺身切片，到炭烤鱼腰，再到慢炖的做法，一应俱全。这里是马德里目前最受热议的新店之一，位子相当紧俏，务必提前订位；出发前也请务必确认最新的营业时间和订位政策。

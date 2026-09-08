@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-cloud-gate
-srcHash: '9b69fa5c4bb8'
+srcHash: '2326b1eafb75'
 title: 云门:芝加哥旅行指南
 description: 云门(Cloud Gate)——因其外形而被普遍称为"豆子"(The Bean)——坐落于千禧公园(Millennium Park)西北角的AT&T广场，地址为201 E Randolph St。
 quickAnswer: 云门(Cloud Gate)——因其外形而被普遍称为"豆子"(The Bean)——坐落于千禧公园(Millennium Park)西北角的AT&T广场，地址为201 E Randolph St。它免费开放，全天24小时可参观，最佳游览时间是清晨或日落后以避开人群;建议预留20-30分钟，若想在凹面"omphalos"(脐眼)下方拍照则需更多时间。

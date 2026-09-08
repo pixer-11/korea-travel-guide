@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: osaka-bible-club-osaka
-srcHash: 'b3fb1c8cdd60'
+srcHash: 'ff6d2a74edca'
 title: Bible Club：大阪旅行指南
 description: 大阪Bible Club Osaka——一处新兴热门去处：它是什么、位于何处，以及如何前往游览。
 quickAnswer: Bible Club是一家复古美式风格鸡尾酒吧，藏身于大阪心斋桥/难波（Shinsaibashi/Namba）夜生活街区，目前入选2026年“亚洲最佳酒吧100强”（Asia's 100 Best Bars）榜单。最适合在工作日夜晚前往,那时吧台边的节奏更慢、更适合闲谈——去这里是为了品尝稀有酒款和感受氛围,而不是匆匆喝一杯就走。如果可以的话请提前预订,出发前也务必确认最新营业时间,因为这样一家热度正高的酒吧,其预订政策很可能会随着需求增加而调整。

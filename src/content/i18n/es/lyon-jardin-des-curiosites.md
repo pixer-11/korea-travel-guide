@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-jardin-des-curiosites
-srcHash: 'f1a58aeedd5d'
+srcHash: 'f07865fd341e'
 title: 'Jardin des Curiosités: guía de viaje de Lyon (4,7★)'
 description: 'El Jardin des Curiosités es un pequeño jardín en lo alto del barrio de Fourvière, en Lyon (8 Pl. de l''Abbé Larue, 69005), con vistas amplias sobre el Saona y los tejados de la ciudad. 4,7★ (2.109 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin des Curiosités es un pequeño jardín en lo alto del barrio de Fourvière, en Lyon (8 Pl. de l'Abbé Larue, 69005), con vistas amplias sobre el Saona y los tejados de la ciudad. Abre todos los días de 8:00 a 22:00, y el momento más tranquilo para visitarlo es de 8:00 a 12:00, cualquier día de la semana; las tardes de fin de semana, a partir de la 13:00, se llena bastante. Lleva un picnic, siéntate en el césped escalonado y aprovecha para bajar después a pasear por Vieux Lyon.

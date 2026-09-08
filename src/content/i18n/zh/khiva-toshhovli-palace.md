@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: khiva-toshhovli-palace
-srcHash: '087de08dd495'
+srcHash: '013dabeadd25'
 title: 托什霍夫利宫（Toshhovli Palace）：希瓦旅行指南（4.7★）
 description: 托什霍夫利宫坐落在希瓦（Khiva）内城伊钦卡拉（Ichan-Qala）的城墙之内，距库尼亚阿尔克城堡（Kunya-Ark）步行仅五分钟。4.7★（525条评价）——游客怎么说、开放时间及游览贴士，一文看懂。
 quickAnswer: 托什霍夫利宫坐落在希瓦内城伊钦卡拉的城墙之内，距库尼亚阿尔克城堡步行仅五分钟。这座宫殿由阿拉库利汗（Khan Allakuli）建于19世纪30至40年代，尽管规模不小，游客却比希瓦的几大热门景点少得多，因此不妨选在上午十点前后或傍晚时分前往，安排45到60分钟游览时间即可。门票通常已包含在伊钦卡拉的联票中，可在城门口购买。

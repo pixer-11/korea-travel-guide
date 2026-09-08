@@ -93,13 +93,13 @@ updatedDate: '2026-09-06'
 
 You come to Kaohsiung Museum of Fine Arts for more than the galleries. The building sits inside a 41-hectare park of lakes, lawns and shade trees, so the art experience spills outside the walls before you even step in.
 
-Inside, the collection leans into Taiwanese and broader Asian contemporary work: ink painting, calligraphy, sculpture, and rotating exhibitions that mix local and international artists. It's not a huge encyclopedic museum like you'd find in Taipei — it's focused, walkable, and easy to digest in an afternoon.
+Inside, the collection leans into Taiwanese and broader Asian contemporary work: ink painting, calligraphy, sculpture, and rotating exhibitions that mix local and international artists. It's not a huge encyclopedic museum like you'd find in Taipei. It's focused, walkable, and easy to digest in an afternoon.
 
 ## Getting there
 
 The museum sits in Gushan District, northwest of downtown Kaohsiung, a bit removed from the MRT network. Most visitors arrive by taxi, scooter, or city bus, since the nearest MRT stations (Aozihdi or Kaisyuan on the Red Line) are still a fair walk or short bus ride away.
 
-If you're driving or riding a YouBike, the park has multiple entrances and bike paths threading through it — plugging "高雄市立美術館" (Kaohsiung Museum of Fine Arts) into a map app or taxi driver's GPS is the simplest way in.
+If you're driving or riding a YouBike, the park has multiple entrances and bike paths threading through it, plugging "高雄市立美術館" (Kaohsiung Museum of Fine Arts) into a map app or taxi driver's GPS is the simplest way in.
 
 ## What to see
 
@@ -110,17 +110,17 @@ The permanent galleries rotate, but a few things anchor most visits:
 - Temporary international exhibitions, which change every few months and are worth checking before you go
 - The lakeside and lawn areas just outside the museum, popular for a slow walk after the galleries
 
-Give yourself around two hours inside for the exhibits, then extend that if you want to explore the park itself — locals jog, cycle, and picnic here on weekends.
+Give yourself around two hours inside for the exhibits, then extend that if you want to explore the park itself, locals jog, cycle, and picnic here on weekends.
 
 ## When to go
 
 The museum is closed Mondays, so don't build a trip around that day. The rest of the week it runs 9:30am to 5:30pm, with no late-night hours to plan around.
 
-This is one of the more visited attractions in the city, and weekends between noon and 5pm are the busiest stretch — expect fuller galleries and a livelier park. If you'd rather see the art without the crowd, aim for a weekday morning shortly after opening, or a weekend visit before noon.
+This is one of the more visited attractions in the city, and weekends between noon and 5pm are the busiest stretch. Expect fuller galleries and a livelier park. If you'd rather see the art without the crowd, aim for a weekday morning shortly after opening, or a weekend visit before noon.
 
 ## How to visit like a local
 
-Because this is a well-loved museum rather than a quiet find, the smart move is timing, not secrecy. Arrive right at 9:30am on a weekday if you can — the first hour tends to be the calmest stretch of the whole week.
+Because this is a well-loved museum rather than a quiet find, the smart move is timing, not secrecy. Arrive right at 9:30am on a weekday if you can, the first hour tends to be the calmest stretch of the whole week.
 
 Ticketing here has historically been low-cost or free for the permanent collection, with separate charges sometimes applying to special exhibitions, so check current pricing at the entrance or museum website before you go rather than assuming either way.
 
@@ -128,11 +128,11 @@ Payment at the ticket counter and museum shop typically accepts both cash and ca
 
 A few practical habits locals use:
 
-- Wear comfortable shoes — you'll likely walk the park as much as the galleries
+- Wear comfortable shoes. You'll likely walk the park as much as the galleries
 - Bring a water bottle in warmer months; the outdoor sculpture areas offer little shade midday
 - Check the current exhibition schedule online first, since the special shows are often the real draw
 - If cycling, use the park's bike paths rather than cutting across lawns
 
-The mistake most visitors make is treating this as a quick indoor stop and rushing out. The park surrounding the museum — with its lakes, sculpture trails and tree-lined paths — is as much a part of the experience as the galleries, and it's where you'll see the museum functioning as a genuine neighborhood gathering space rather than just a tourist checkbox.
+The mistake most visitors make is treating this as a quick indoor stop and rushing out. The park surrounding the museum (with its lakes, sculpture trails and tree-lined paths) is as much a part of the experience as the galleries, and it's where you'll see the museum functioning as a genuine neighborhood gathering space rather than just a tourist checkbox.
 
 Pair a visit here with Gushan's other attractions, like the nearby Kaohsiung Cijin Ferry area or Shoushan (Monkey Mountain), if you want to make a full day of this side of the city.

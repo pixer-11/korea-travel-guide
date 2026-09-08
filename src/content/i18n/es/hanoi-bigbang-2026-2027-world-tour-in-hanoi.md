@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-bigbang-2026-2027-world-tour-in-hanoi
-srcHash: 'ac29db18c065'
+srcHash: 'f53150ed66b6'
 title: 'Gira mundial 2026-2027 de BigBang en Hanói: fechas, entradas y recinto (Hanói)'
 description: La gira mundial 2026-2027 de BigBang llega a Hanói, Vietnam, el 24 y 25 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
 quickAnswer: La gira mundial 2026-2027 de BigBang trae a G-Dragon, Taeyang y Daesung al Estadio Nacional My Dinh durante dos noches, el 24 y 25 de octubre de 2026, en su primera gira mundial como trío completo en nueve años. Se espera una producción a escala de estadio, una zona general de pie junto con gradas escalonadas, y un público que llenará el recinto más grande de Hanói ambas noches. Conviene confirmar horarios y entradas en el sitio oficial antes de reservar vuelos u hoteles.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ninh-binh-bai-dinh-pagoda
-srcHash: '3dffb7b8abf2'
+srcHash: 'aa2d27b0c1b8'
 title: 'Pagoda Bai Dinh: Guía de viaje de Ninh Binh (4,9★)'
 description: La pagoda Bai Dinh, a las afueras del distrito de Hoa Lu en Ninh Binh, es el complejo budista más grande de Vietnam y abre todos los días de 7:00 a 17:30. Descubre qué opinan los visitantes, los horarios y algunos consejos, con una valoración de 4,9★ (25.303 reseñas).
 quickAnswer: 'La pagoda Bai Dinh, a las afueras del distrito de Hoa Lu en Ninh Binh, es el complejo budista más grande de Vietnam y abre todos los días de 7:00 a 17:30. Conviene reservarle medio día: un trayecto en carrito de golf o buggy eléctrico para subir, y luego una hora o más recorriendo a pie los pabellones del Buda gigante y el corredor de los 500 arhats. Lo mejor es ir justo a la apertura o después de las 15:00 para evitar las multitudes de autobuses turísticos que llenan los patios a media mañana.'

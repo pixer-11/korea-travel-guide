@@ -54,13 +54,13 @@ aiGenerated: true
 draft: false
 ---
 
-You smell it before you see the menu: warm butter, roasting coffee, something sweet and yeasty drifting out from the open kitchen. Founding Farmers sits at the base of an office tower on Pennsylvania Avenue NW, just blocks from the World Bank and George Washington University, and the contrast is part of the appeal — glass-and-steel DC outside, reclaimed barn wood, mismatched vintage farm tools, and rough-hewn beams inside.
+You smell it before you see the menu: warm butter, roasting coffee, something sweet and yeasty drifting out from the open kitchen. Founding Farmers sits at the base of an office tower on Pennsylvania Avenue NW, just blocks from the World Bank and George Washington University, and the contrast is part of the appeal, glass-and-steel DC outside, reclaimed barn wood, mismatched vintage farm tools, and rough-hewn beams inside.
 
 The dining room is big, loud, and constantly moving, with servers threading between packed tables balancing cast-iron skillets of cornbread and towering plates of chicken and waffles.
 
 ## Why go
 
-This isn't a quiet, secret find — it's one of the most reviewed restaurants in Washington, with well over 23,000 reviews and a 4.5-star average, and it earns that volume by being reliably good rather than flashy. The concept, backed by a cooperative of American family farmers, leans into a farm-to-table identity without pretension: the food is comfort-driven American cooking — biscuits, mac and cheese, pot roast, strong brunch cocktails — done with better-than-average ingredients and genuine consistency.
+This isn't a quiet, secret find (it's one of the most reviewed restaurants in Washington, with well over 23,000 reviews and a 4.5-star average, and it earns that volume by being reliably good rather than flashy. The concept, backed by a cooperative of American family farmers, leans into a farm-to-table identity without pretension: the food is comfort-driven American cooking) biscuits, mac and cheese, pot roast, strong brunch cocktails, done with better-than-average ingredients and genuine consistency.
 
 It's a solid mid-range choice, not cheap but not a splurge either, and it works equally well for a business breakfast, a weekend brunch with a group, or a late dinner after the Kennedy Center.
 
@@ -70,18 +70,18 @@ The restaurant sits in the Foggy Bottom neighborhood at 1924 Pennsylvania Ave NW
 
 ## What to eat
 
-Breakfast and brunch are the reason most people show up, and they run all day — the chicken and waffles, the strata, and the "farmers breakfast" (eggs, potatoes, bacon, toast) all show up on tables at every hour. The bread basket, baked in-house, arrives unbidden and is worth ordering seconds of on its own. For lunch or dinner, the pot roast, the meatloaf, and the mac and cheese (there are several versions) lean hard into American comfort food, while the bar program does a respectable list of bourbon-forward cocktails and a rotating draft list.
+Breakfast and brunch are the reason most people show up, and they run all day, the chicken and waffles, the strata, and the "farmers breakfast" (eggs, potatoes, bacon, toast) all show up on tables at every hour. The bread basket, baked in-house, arrives unbidden and is worth ordering seconds of on its own. For lunch or dinner, the pot roast, the meatloaf, and the mac and cheese (there are several versions) lean hard into American comfort food, while the bar program does a respectable list of bourbon-forward cocktails and a rotating draft list.
 
 Portions run generous, and the menu is long enough that a table of four can order across categories and share.
 
 ## When to go
 
-Weekend mornings, especially Saturday and Sunday between roughly 10am and 1pm, are when the wait is longest — groups form in the lobby and can stretch 30-45 minutes without a reservation. Weekday mornings before the 9-to-5 rush, or the stretch after 2pm and before the dinner crowd resettles around 6pm, are noticeably calmer and a better bet if you want a table without queuing. Given its location near GWU and several major office buildings, weekday lunch (noon to 1:30pm) also gets busy with the local office crowd.
+Weekend mornings, especially Saturday and Sunday between roughly 10am and 1pm, are when the wait is longest, groups form in the lobby and can stretch 30-45 minutes without a reservation. Weekday mornings before the 9-to-5 rush, or the stretch after 2pm and before the dinner crowd resettles around 6pm, are noticeably calmer and a better bet if you want a table without queuing. Given its location near GWU and several major office buildings, weekday lunch (noon to 1:30pm) also gets busy with the local office crowd.
 
 ## How to visit like a local
 
-Reserve ahead for brunch, especially Friday through Sunday — the restaurant takes bookings and walk-ins fill the waitlist fast given how well-known it is. If you can't get a slot, put your name in and wander the nearby Watergate complex or the Kennedy Center's riverside terrace while you wait; they'll text when your table's ready. Order the bread basket immediately, before your entrée arrives, since it's baked to order and best warm.
+Reserve ahead for brunch, especially Friday through Sunday. The restaurant takes bookings and walk-ins fill the waitlist fast given how well-known it is. If you can't get a slot, put your name in and wander the nearby Watergate complex or the Kennedy Center's riverside terrace while you wait; they'll text when your table's ready. Order the bread basket immediately, before your entrée arrives, since it's baked to order and best warm.
 
-Payment is standard American restaurant style — cards and mobile pay both accepted, tip 18-20% on the pretax total, and the bill comes as one check unless you ask them to split it. The mistake first-timers make is treating it as a quick bite: portions and pacing are built for lingering, so build in more time than you'd expect for a "casual" breakfast spot.
+Payment is standard American restaurant style, cards and mobile pay both accepted, tip 18-20% on the pretax total, and the bill comes as one check unless you ask them to split it. The mistake first-timers make is treating it as a quick bite: portions and pacing are built for lingering, so build in more time than you'd expect for a "casual" breakfast spot.
 
 If you're solo or don't want to wait, the bar seating usually turns over faster than the dining room and serves the full menu.

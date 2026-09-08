@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-merce-festival
-srcHash: 'a26f855f2bae'
+srcHash: 'e77895b66920'
 title: 'Festival de La Mercè: lo que hay que saber (Barcelona)'
 description: La Mercè en Barcelona, España — del 20 al 24 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: La Mercè, la fiesta callejera más grande de Barcelona, se celebra del 20 al 24 de septiembre de 2026, con eventos gratuitos en casi todos los distritos — correfocs (corridas de fuego), castellers (torres humanas), desfiles de gigantes y conciertos al aire libre. Casi todo es gratis y al aire libre; a cambio, hay que contar con multitudes densas, así que planifica tu visita en torno a la Plaça Sant Jaume y Via Laietana para los momentos estrella, y consulta la web oficial de cultura del Ajuntament de Barcelona más cerca de la fecha para el programa confirmado.

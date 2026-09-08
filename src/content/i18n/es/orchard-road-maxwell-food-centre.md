@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: orchard-road-maxwell-food-centre
-srcHash: '79e6eb8ecbe0'
+srcHash: 'f5d77c857ff5'
 title: 'Maxwell Food Centre: dónde comer en Chinatown'
 description: Maxwell Food Centre es un mercado de comida (hawker centre) de Chinatown cercano a la estación Chinatown MRT (salidas A/E), a unos 15-20 minutos en metro desde Orchard Road.
 quickAnswer: Maxwell Food Centre es un mercado de comida de Chinatown cercano a la estación Chinatown MRT (salidas A/E), a unos 15-20 minutos en metro desde Orchard Road. Vale la pena ir por el Tian Tian Hainanese Chicken Rice y otros clásicos callejeros; conviene llegar antes del mediodía o después de las 14:00 para evitar el ajetreo del almuerzo, y es buena idea llevar algo de efectivo. Calcule entre 45 y 60 minutos para la visita y aprovéchela para combinarla con un paseo por el cercano Chinatown o por Ann Siang Hill.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: incheon-songdo-central-park
-srcHash: '3f7a2f457628'
+srcHash: '0cc7d40a77ab'
 title: 松島セントラルパーク(Songdo Central Park):仁川旅行ガイド
 description: 松島セントラルパーク(Songdo Central Park)は、仁川・松島国際業務団地(Songdo International Business District)内にある40ヘクタールの緑地で、園内を通る海水の運河沿いでは水上タクシーやペダルボートを楽しめます。
 quickAnswer: 松島セントラルパーク(Songdo Central Park)は、仁川・松島国際業務団地(Songdo International Business District)内にある40ヘクタールの緑地で、園内を通る海水の運河沿いでは水上タクシーやペダルボートを楽しめます。仁川地下鉄1号線でセントラルパーク駅(Central Park Station)まで行き、4番出口を出れば、そのまま公園に入ることができます。散策には1.5〜2時間ほど見ておくとよく、周回路をサイクリングしたり、夕暮れ時のスカイラインの眺めをゆっくり楽しみたい場合はさらに時間をとりましょう。

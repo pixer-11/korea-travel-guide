@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: downtown-dubai-the-dubai-fountain
-srcHash: '4c8dbd8a63e6'
+srcHash: 'd4c9d1de919d'
 title: 'La Fuente de Dubái: Guía de viaje de Downtown Dubái (4,8★)'
 description: La Fuente de Dubái (The Dubai Fountain) actúa en el lago artificial a los pies del Burj Khalifa, con chorros que alcanzan hasta 140 metros al ritmo de la música y las luces de colores. 4,8★ (138.727 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'La Fuente de Dubái actúa en el lago artificial a los pies del Burj Khalifa, con chorros que alcanzan hasta 140 metros al ritmo de la música y las luces de colores. Los espectáculos se realizan por la noche cada 30 minutos, y verlos desde el paseo marítimo es gratis: llega al menos 20 minutos antes para conseguir un buen sitio junto a la barandilla. Es una de las atracciones más concurridas de Downtown Dubái, así que conviene planificar la visita teniendo en cuenta las multitudes en lugar de esperar tranquilidad.'

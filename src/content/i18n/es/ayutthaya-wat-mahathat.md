@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-wat-mahathat
-srcHash: '5274739c0ffe'
+srcHash: 'f720274e9629'
 title: 'Wat Mahathat: Guía de viaje de Ayutthaya'
 description: Wat Mahathat, en el corazón de la isla histórica de Ayutthaya, es famoso por la cabeza de Buda de piedra arenisca envuelta entre las raíces de un árbol cerca del lado este del templo, posiblemente la imagen más fotografiada de la ciudad.
 quickAnswer: Wat Mahathat, en el corazón de la isla histórica de Ayutthaya, es famoso por la cabeza de Buda de piedra arenisca envuelta entre las raíces de un árbol cerca del lado este del templo, posiblemente la imagen más fotografiada de la ciudad. Conviene ir temprano (antes de las 8 a. m.) o a última hora de la tarde para evitar tanto el calor como las multitudes, y hay que reservar entre 45 y 60 minutos para recorrer los prangs en ruinas y las plataformas del monasterio. Se llega caminando o en tuk-tuk en poco tiempo desde la mayoría de los alojamientos de Soi Chao Phrom.

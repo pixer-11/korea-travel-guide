@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-registan-square
-srcHash: '565efc5c836c'
+srcHash: '6e01043985ca'
 title: 'Plaza Registán: guía de viaje de Samarcanda (4,8★)'
 description: 'La Plaza Registán abre todos los días de 8:00 a 20:00, y las tres madrasas de mosaicos lucen mejor a primera hora de la mañana o una hora antes del cierre. 4,8★ (16.404 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Plaza Registán abre todos los días de 8:00 a 20:00, y las tres madrasas de mosaicos lucen mejor a primera hora de la mañana o una hora antes del cierre. Conviene ir un día entre semana, de 8:00 a 11:00 (o antes de las 10:00 los fines de semana), para evitar las aglomeraciones, ya que las tardes de fin de semana a partir de la 13:00 se llenan de grupos turísticos. Calcula entre 1,5 y 2 horas para recorrer los tres patios.

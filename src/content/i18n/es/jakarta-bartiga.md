@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-bartiga
-srcHash: '411e60f61df1'
+srcHash: '46051583b1f9'
 title: 'Bartiga: Guía de viaje de Yakarta'
 description: 'Bartiga en Yakarta, Indonesia — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Bartiga es un pequeño listening bar (bar centrado en el sonido) escondido en el nivel del sótano de The Darmawangsa Square, en la zona de Kebayoran Baru, en el sur de Yakarta — el tipo de lugar al que vas para escuchar realmente la música, no para gritar por encima de ella. Acaba de abrir y está generando expectación entre el público noctámbulo de Yakarta, así que conviene reservar con antelación o llegar temprano los fines de semana. Confirma los horarios actuales y la política de reservas antes de ir, ya que los detalles todavía se están definiendo mientras el local encuentra su ritmo.

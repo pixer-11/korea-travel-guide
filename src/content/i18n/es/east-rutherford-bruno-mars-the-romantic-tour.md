@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: east-rutherford-bruno-mars-the-romantic-tour
-srcHash: '73cc9d361121'
+srcHash: 'd0468a2579dd'
 title: 'Bruno Mars: The Romantic Tour: lo que hay que saber (East Rutherford)'
 description: 'Bruno Mars: The Romantic Tour estaba previsto para el 21–26 de agosto de 2026 en el MetLife Stadium de East Rutherford, Nueva Jersey. Qué se anunció y cómo es el recinto.'
 quickAnswer: 'Bruno Mars: The Romantic Tour tenía programadas seis noches en el MetLife Stadium de East Rutherford, Nueva Jersey, del 21 al 26 de agosto de 2026. La gira prometía una producción a escala de estadio construida en torno a éxitos recientes como "Die with a Smile" y "APT.". Las entradas se vendían a través de Ticketmaster. Al estadio se llega mediante la línea ferroviaria Meadowlands Rail Line de NJ Transit, y el estacionamiento en el complejo requiere un pase comprado con antelación.'

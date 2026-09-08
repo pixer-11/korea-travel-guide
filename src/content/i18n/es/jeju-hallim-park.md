@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeju-hallim-park
-srcHash: '36de003cf2a6'
+srcHash: 'd88bac050115'
 title: 'Hallim Park: Guía de viaje de Jeju (4,4★)'
 description: 'En la costa oeste de Jeju, Hallim Park reúne dos cuevas de lava, jardines subtropicales, un pequeño zoológico y una aldea folclórica en un solo recorrido a pie: calcula entre 2 y 3 horas. 4,4★ (6.209 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En la costa oeste de Jeju, Hallim Park reúne dos cuevas de lava, jardines subtropicales, un pequeño zoológico y una aldea folclórica en un solo recorrido a pie: calcula entre 2 y 3 horas. Abre todos los días de 9:00 a 18:30, y el momento más tranquilo para visitarlo es una mañana entre semana, ya que los fines de semana la afluencia aumenta de forma constante entre el mediodía y las 17:00. Compra la entrada en la puerta y usa calzado que no te importe rozar con la roca de las cuevas.'

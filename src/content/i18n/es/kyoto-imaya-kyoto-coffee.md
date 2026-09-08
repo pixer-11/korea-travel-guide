@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-imaya-kyoto-coffee
-srcHash: '6baba619d15f'
+srcHash: 'd7b34b24249b'
 title: 'IMAYA Kyoto &COFFEE: Guía de viaje'
 description: IMAYA Kyoto &COFFEE es una cafetería compacta y de diseño cuidado en el distrito de Nakagyo (Nakagyo Ward), que sirve bebidas de espresso al estilo italiano, vino natural, cerveza y bocados ligeros en un espacio austero de hormigón y madera.
 quickAnswer: IMAYA Kyoto &COFFEE es una cafetería compacta y de diseño cuidado en el distrito de Nakagyo (Nakagyo Ward), que sirve bebidas de espresso al estilo italiano, vino natural, cerveza y bocados ligeros en un espacio austero de hormigón y madera. Lo mejor es visitarla a media mañana entre semana para conseguir asiento, y combina bien con un paseo por los pasajes comerciales de Nishiki Market/Teramachi, a pocos minutos de distancia. Calcula entre 30 y 45 minutos para una parada de café, más si te quedas a picar algo o tomar una bebida.

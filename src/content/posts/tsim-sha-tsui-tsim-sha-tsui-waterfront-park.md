@@ -80,7 +80,7 @@ draft: false
 
 You come here for one thing: the view across Victoria Harbour, unobstructed, at eye level with the water.
 
-The skyline of Hong Kong Island rises directly across the harbour — IFC2, Bank of China, the cluster of towers stacked up Victoria Peak behind them. By day it's hazy blue-grey glass. By night it's a wall of light, and at 8pm the buildings on both shores run a synchronized light show, the Symphony of Lights, that's been running since 2004.
+The skyline of Hong Kong Island rises directly across the harbour, IFC2, Bank of China, the cluster of towers stacked up Victoria Peak behind them. By day it's hazy blue-grey glass. By night it's a wall of light, and at 8pm the buildings on both shores run a synchronized light show, the Symphony of Lights, that's been running since 2004.
 
 ## Getting there
 
@@ -92,31 +92,31 @@ The park runs along the water in Tsim Sha Tsui East, an easy walk from several M
 
 ## What you'll actually see
 
-The park is a long, paved waterfront promenade with sections of lawn, benches facing the water, and a raised viewing platform near the middle. There's a small area with a fountain and, further along, the Avenue of Stars a short walk west — worth combining with your visit if you want handprints of Hong Kong film stars along with the skyline.
+The park is a long, paved waterfront promenade with sections of lawn, benches facing the water, and a raised viewing platform near the middle. There's a small area with a fountain and, further along, the Avenue of Stars a short walk west, worth combining with your visit if you want handprints of Hong Kong film stars along with the skyline.
 
-Joggers use the promenade early morning. Photographers set up tripods well before sunset to claim a spot at the railing. Ferries and the occasional junk boat with red sails cut across your sightline, which is part of the charm — this isn't a static view, it changes by the minute.
+Joggers use the promenade early morning. Photographers set up tripods well before sunset to claim a spot at the railing. Ferries and the occasional junk boat with red sails cut across your sightline, which is part of the charm. This isn't a static view, it changes by the minute.
 
 ## When to go
 
-The park never closes — it's open 24 hours every day — so timing is entirely about crowds and light, not access.
+The park never closes, it's open 24 hours every day, so timing is entirely about crowds and light, not access.
 
 Early morning, 7am to 9am on weekdays and 7am to 10am on weekends, is the quietest window. You'll have long stretches of railing with no one else in frame, good light for photos, and a cooler temperature before Hong Kong's humidity sets in.
 
-Avoid the weekend window of 4pm to 11pm if you dislike crowds — that's when the promenade fills with people arriving for sunset and the light show. If you want the Symphony of Lights without the crush, arrive by 6:30pm to stake out a spot before it fills in.
+Avoid the weekend window of 4pm to 11pm if you dislike crowds. That's when the promenade fills with people arriving for sunset and the light show. If you want the Symphony of Lights without the crush, arrive by 6:30pm to stake out a spot before it fills in.
 
 ## What to bring and skip
 
-- Water — there's little shade along the open promenade sections.
+- Water. There's little shade along the open promenade sections.
 - A light layer for evening; harbour breeze picks up after dark.
-- Skip bringing a full tripod setup unless you arrive early — space at the railing is limited during peak sunset hours.
+- Skip bringing a full tripod setup unless you arrive early, space at the railing is limited during peak sunset hours.
 - Cash or an Octopus card if you plan to grab a drink or snack from a nearby stall or the K11 Musea complex a few minutes' walk away.
 
 ## How to visit like a local
 
-Locals treat this as a through-route as much as a destination — a place to jog, walk a dog, or cut between Tsim Sha Tsui East and the ferry pier, not just a photo stop.
+Locals treat this as a through-route as much as a destination, a place to jog, walk a dog, or cut between Tsim Sha Tsui East and the ferry pier, not just a photo stop.
 
 If you want to beat the crowds rather than avoid the place entirely, come at dawn. The 7am–9am weekday window and 7am–10am weekend window are genuinely calm, with mostly exercisers and a handful of photographers.
 
-Nobody pays for entry — it's a public park, always free, no ticket booth to look for. There's no formal queue system for the light show; people simply claim a spot along the railing, so arriving 60–90 minutes early on weekends is the practical move if you want an unobstructed view.
+Nobody pays for entry. It's a public park, always free, no ticket booth to look for. There's no formal queue system for the light show; people simply claim a spot along the railing, so arriving 60–90 minutes early on weekends is the practical move if you want an unobstructed view.
 
-The common tourist mistake is showing up right at 8pm expecting open space at the rail — by then the best spots near the viewing platform are taken. Walk a bit further east or west of the main platform; the view is nearly as good and noticeably less crowded.
+The common tourist mistake is showing up right at 8pm expecting open space at the rail, by then the best spots near the viewing platform are taken. Walk a bit further east or west of the main platform; the view is nearly as good and noticeably less crowded.

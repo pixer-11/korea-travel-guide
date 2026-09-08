@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: quezon-city-mamamoo-2026-world-tour
-srcHash: 'ef2f2e133f87'
+srcHash: 'a941c252982b'
 title: 'Gira Mundial 2026 de MAMAMOO: lo que hay que saber (Quezon City)'
 description: La Gira Mundial 2026 de MAMAMOO en Quezon City, Filipinas, tenía fecha para el 8 al 10 de agosto de 2026 en el PICC. Esto es lo que se anunció sobre fechas, recinto y desplazamientos.
 quickAnswer: La Gira Mundial 2026 de MAMAMOO tenía previsto pasar por Quezon City, Filipinas, con conciertos anunciados para el 8 al 10 de agosto de 2026 en el Philippine International Convention Center (PICC), en la zona de Diliman/Bagumbayan. Esas fueron las fechas anunciadas. Los canales oficiales de MAMAMOO y la plataforma de venta de entradas de la promotora difundieron el calendario definitivo, las categorías de entradas y los horarios de apertura de puertas.

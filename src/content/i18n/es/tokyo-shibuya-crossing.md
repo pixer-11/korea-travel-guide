@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-shibuya-crossing
-srcHash: '36f5db23f289'
+srcHash: '934bb9cd189f'
 title: 'Cruce de Shibuya: Guía de viaje de Tokio'
 description: El cruce de Shibuya es el enorme cruce peatonal que se encuentra justo a la salida Hachiko de la estación de Shibuya, donde hasta ocho corrientes de peatones se cruzan al mismo tiempo en unos 30 segundos.
 quickAnswer: El cruce de Shibuya es el enorme cruce peatonal que se encuentra justo a la salida Hachiko de la estación de Shibuya, donde hasta ocho corrientes de peatones se cruzan al mismo tiempo en unos 30 segundos. Se puede visitar gratis a cualquier hora, aunque el momento entre el atardecer y el anochecer ofrece la mejor combinación de luz natural y neones; para la clásica vista desde arriba, lo mejor es el mirador Shibuya Sky o el Starbucks situado sobre la tienda Tsutaya. Conviene reservar entre 20 y 30 minutos para cruzarlo varias veces y fotografiarlo, y algo más si se hace fila para acceder a los miradores elevados.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
-srcHash: '40673096fb23'
+srcHash: '5c64e1aba158'
 title: イ・ハイ「808 HI Recordings」ワールドツアー2026:ジャカルタ公演について知っておきたいこと
 description: イ・ハイの「808 HI Recordings」ワールドツアー、ジャカルタ公演は2026年8月9日、会場はSCBDのBengkel Hall。特別ゲストにはDOK2の参加が予定されていました。
 quickAnswer: イ・ハイの「808 HI Recordings」ワールドツアーのジャカルタ公演は、2026年8月9日、南ジャカルタのSCBD(スジルマン中央ビジネス地区)にあるBengkel Hallで開催される予定でした。インドネシアでの初のソロコンサートと銘打たれ、特別ゲストとしてラッパーのDOK2が出演する予定でした。チケットは公式プロモーターおよび正規のチケット販売プラットフォームを通じて販売され、ツアーに関する発表はイ・ハイ本人および会場の公式SNSで確認できるものとされていました。Bengkel Hallは、市内有数のビジネス・エンターテインメント地区にある中規模の屋内会場です。

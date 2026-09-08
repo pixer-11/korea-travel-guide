@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-gyeongpo-beach
-srcHash: '22a1a65001d5'
+srcHash: '6c72c1c9e471'
 title: 'Playa de Gyeongpo: Guía de viaje de Gangneung'
 description: La playa de Gyeongpo (Gyeongpo Beach) es el tramo de arena insignia de Gangneung en la costa este de Corea del Sur, una playa ancha y de suave pendiente respaldada por un pinar y bordeada de cafés, restaurantes de mariscos y hoteles.
 quickAnswer: La playa de Gyeongpo (Gyeongpo Beach) es el tramo de arena insignia de Gangneung en la costa este de Corea del Sur, una playa ancha y de suave pendiente respaldada por un pinar y bordeada de cafés, restaurantes de mariscos y hoteles. Es más concurrida de finales de junio a agosto, pero merece la pena visitarla durante todo el año por sus vistas del amanecer, la ruta circular junto al lago Gyeongpo (Gyeongpo Lake) y un grupo de museos y cafés cercanos. Calcula entre 2 y 3 horas para la playa y el lago, o medio día si le sumas los cafés de la calle del café y Ojukheon.

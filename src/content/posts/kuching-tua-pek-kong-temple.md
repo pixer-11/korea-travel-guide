@@ -74,13 +74,13 @@ draft: false
 
 You come for one of the oldest Taoist temples in Borneo, tucked between the Sarawak River and the old shophouses of Kuching's Chinatown. The building itself predates much of the modern city around it, and the facade still stops people mid-stride on the waterfront path.
 
-Red pillars carved with dragons flank the entrance. Gold leaf catches the afternoon light on the roof ridges, where ceramic figures — deities, phoenixes, curling clouds — perch in tiers against the sky. Incense smoke drifts out through the open doors, thick and sweet, mixing with the river breeze.
+Red pillars carved with dragons flank the entrance. Gold leaf catches the afternoon light on the roof ridges, where ceramic figures (deities, phoenixes, curling clouds) perch in tiers against the sky. Incense smoke drifts out through the open doors, thick and sweet, mixing with the river breeze.
 
 ## What you'll see inside
 
 Step through the entrance and the noise of Jalan Tunku Abdul Rahman falls away almost instantly. The main hall is dim, lit by hanging lanterns and the glow of votive candles, and it smells of sandalwood and melted wax.
 
-The temple is dedicated to Tua Pek Kong, a deity associated with prosperity and protection, particularly for traders and seafarers — fitting for a temple built beside a working river port. Look for:
+The temple is dedicated to Tua Pek Kong, a deity associated with prosperity and protection, particularly for traders and seafarers, fitting for a temple built beside a working river port. Look for:
 
 - The carved wooden altar and its aged patina
 - Ornate ceramic roof figures visible from the courtyard
@@ -97,7 +97,7 @@ Grab or a local taxi are the simplest options if you're coming from further out,
 
 ## When to go
 
-The temple opens daily from 6am to 6pm, so plan your visit inside that window — there's no evening access. Early morning brings soft light and the smell of fresh incense as caretakers open up for the day.
+The temple opens daily from 6am to 6pm, so plan your visit inside that window. There's no evening access. Early morning brings soft light and the smell of fresh incense as caretakers open up for the day.
 
 Midday sun is strong and the courtyard offers little shade, so many visitors prefer late afternoon instead. Foot-traffic data backs this up: weekdays it's quietest from 5pm to 6pm, and on weekends the calm stretch runs from 3pm to 6pm.
 
@@ -105,13 +105,13 @@ Aim for one of those windows if you want the courtyard to yourself, and remember
 
 ## How to visit like a local
 
-This is still a working place of worship, not a museum, so treat it that way. Dress modestly — shoulders and knees covered — and speak quietly once you're past the entrance pillars.
+This is still a working place of worship, not a museum, so treat it that way. Dress modestly, shoulders and knees covered, and speak quietly once you're past the entrance pillars.
 
 Because it's under-the-radar compared to Kuching's bigger sights, you can usually walk right in without waiting. There's no ticket booth and no formal entry fee; if you'd like to leave a donation, small boxes near the altar are the customary way, and cash is the only option.
 
 - Remove hats before entering the main hall
 - Avoid pointing your feet toward the altar when sitting nearby
 - Photograph the exterior and courtyard freely; ask before photographing worshippers mid-prayer
-- Skip midday if you want it quiet — the 5-6pm weekday and 3-6pm weekend windows are your best bet
+- Skip midday if you want it quiet. The 5-6pm weekday and 3-6pm weekend windows are your best bet
 
 The mistake most visitors make is treating it as a five-minute photo stop and rushing off. Slow down, watch the smoke curl off the incense coils, and you'll get a far better sense of why this building has anchored the waterfront for so long.

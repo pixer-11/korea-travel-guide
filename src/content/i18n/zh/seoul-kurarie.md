@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seoul-kurarie
-srcHash: '17d62bac7878'
+srcHash: 'cc6075260bfe'
 title: Kurarie（쿠라리에）首尔旅行指南
 description: Kurarie（쿠라리에）位于韩国首尔，是一处新晋人气打卡地——本文介绍它是什么、地址在哪，以及如何前往游览。
 quickAnswer: Kurarie是一家新开业的设计感甜品咖啡馆，坐落在狎鸥亭（Apgujeong）的彦州路（Eonju-ro）上，由大元传媒（Daewon Media）打造，走的是精致美式咖啡馆风格，讲究艺术呈现，而非追求出杯速度。比起“到此一游”，更适合把它当作能悠闲坐上1至2小时的小憩之地——如果想真正坐到位子，建议挑工作日下午前往。由于是刚开业不久的新店，营业时间和预约政策都可能有变，出发前务必再次确认。

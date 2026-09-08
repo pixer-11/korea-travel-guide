@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-riverwalk-outlets
-srcHash: 'a45a27f12c90'
+srcHash: '0778001d082b'
 title: 'Riverwalk Outlets: Guía de viaje de Nueva Orleans (4.4★)'
 description: Riverwalk Outlets es un centro comercial outlet de casi un kilómoro y medio, cubierto de cristal, junto al río Misisipi, a pocos pasos del Ernest N. 4.4★ (9,376 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Riverwalk Outlets es un centro comercial outlet de casi una milla de largo, cubierto de cristal, junto al río Misisipi, a pocos pasos del Ernest N. Morial Convention Center y a un corto paseo o viaje en streetcar del Barrio Francés (French Quarter). Abre de 10am a 7pm todos los días (10am–6pm los domingos) y es más concurrido a mediodía los fines de semana, así que lo mejor es visitarlo por la mañana. Calcula entre una y dos horas, más si quieres disfrutar del paseo junto al río en el exterior.

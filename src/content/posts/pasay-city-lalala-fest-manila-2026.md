@@ -39,21 +39,21 @@ heroImage:
 ---
 ## Why go
 
-LaLaLa Fest has built a reputation across Asia as a festival that mixes global indie and alt-pop names with strong production values, and the 2026 Manila stop carried that formula to the Philippines with Steve Lacy and Two Door Cinema Club topping the bill. For international fans, it was a rare chance to catch acts of this caliber without needing a Coachella-sized travel budget — Manila is a well-connected regional hub, and the festival was set for a single day, August 21, 2026, which made it feasible as a long weekend trip built around one big night out.
+LaLaLa Fest has built a reputation across Asia as a festival that mixes global indie and alt-pop names with strong production values, and the 2026 Manila stop carried that formula to the Philippines with Steve Lacy and Two Door Cinema Club topping the bill. For international fans, it was a rare chance to catch acts of this caliber without needing a Coachella-sized travel budget, Manila is a well-connected regional hub, and the festival was set for a single day, August 21, 2026, which made it feasible as a long weekend trip built around one big night out.
 
 ## Getting there
 
-The venue was the World Trade Center Manila, a long-running convention and events complex on Roxas Boulevard in Pasay City — the same district that hosts the Mall of Asia, the SMX Convention Center, and Manila's diplomatic and embassy row. Pasay sits between Manila's historic core and the airport, which is a practical advantage: Ninoy Aquino International Airport (NAIA) is roughly a 15-20 minute drive away depending on terminal and traffic, making this one of the more airport-adjacent major venues in the city.
+The venue was the World Trade Center Manila, a long-running convention and events complex on Roxas Boulevard in Pasay City, the same district that hosts the Mall of Asia, the SMX Convention Center, and Manila's diplomatic and embassy row. Pasay sits between Manila's historic core and the airport, which is a practical advantage: Ninoy Aquino International Airport (NAIA) is roughly a 15-20 minute drive away depending on terminal and traffic, making this one of the more airport-adjacent major venues in the city.
 
 For public transit, the closest rail options are LRT-1's EDSA or Libertad stations and MRT-3's Taft Avenue station, all of which require a short tricycle, jeepney, or ride-hailing (Grab) hop to reach WTC itself, since the complex isn't directly on a rail line.
 
 ## What to expect on-site
 
-WTC Manila is a large indoor/hybrid events complex, historically used for trade expos, concerts, and large-scale conventions, so it lends itself to a big-room festival experience — proper stage, sound, and lighting infrastructure — rather than an outdoor field setup. The bill paired Steve Lacy, known for genre-bending guitar-driven R&B and hits like "Bad Habit," with Two Door Cinema Club, the Northern Irish indie rock trio behind "What You Know" and "Something Good Can Work" — two very different live sets.
+WTC Manila is a large indoor/hybrid events complex, historically used for trade expos, concerts, and large-scale conventions, so it lends itself to a big-room festival experience (proper stage, sound, and lighting infrastructure) rather than an outdoor field setup. The bill paired Steve Lacy, known for genre-bending guitar-driven R&B and hits like "Bad Habit," with Two Door Cinema Club, the Northern Irish indie rock trio behind "What You Know" and "Something Good Can Work", two very different live sets.
 
 ## When to go and how to plan around it
 
-August in Manila falls squarely in the southwest monsoon (habagat) season, meaning heavy rain and even typhoon risk are real possibilities for events during this period — weather-related schedule shifts do happen with outdoor-adjacent events in the Philippines at this time of year. Since WTC has substantial indoor space, a show there is far less exposed to rain than an open-field festival, though getting to and from the venue in monsoon downpours is its own logistical hurdle.
+August in Manila falls squarely in the southwest monsoon (habagat) season, meaning heavy rain and even typhoon risk are real possibilities for events during this period, weather-related schedule shifts do happen with outdoor-adjacent events in the Philippines at this time of year. Since WTC has substantial indoor space, a show there is far less exposed to rain than an open-field festival, though getting to and from the venue in monsoon downpours is its own logistical hurdle.
 
 ## Nearby & practical tips
 

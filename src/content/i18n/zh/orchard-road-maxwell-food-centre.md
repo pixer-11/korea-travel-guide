@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: orchard-road-maxwell-food-centre
-srcHash: '79e6eb8ecbe0'
+srcHash: 'f5d77c857ff5'
 title: 麦士威熟食中心：牛车水觅食指南
 description: 麦士威熟食中心（Maxwell Food Centre）是牛车水（Chinatown）的一处小贩中心，靠近牛车水地铁站（Chinatown MRT，A/E出口），从乌节路（Orchard Road）乘地铁约需15-20分钟。
 quickAnswer: 麦士威熟食中心是牛车水的一处小贩中心，靠近牛车水地铁站（A/E出口），从乌节路乘地铁约15-20分钟即可抵达。天天海南鸡饭以及其他各式小贩美食都值得一试，建议中午12点前或下午2点后前往，可以避开午餐高峰。记得随身带些零钱。行程预留45-60分钟，还可以顺路逛逛附近的牛车水街区或安祥山（Ann Siang Hill）。

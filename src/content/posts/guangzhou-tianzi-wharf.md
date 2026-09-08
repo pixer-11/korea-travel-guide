@@ -75,47 +75,47 @@ updatedDate: '2026-09-02'
 
 Tianzi Wharf won't headline anyone's Guangzhou bucket list, and that's the point. It's a working pier tucked into the Pearl River's north bank in Yuexiu District, the kind of place you stumble onto rather than plan a whole afternoon around.
 
-What you get is unfiltered river life: the slap of water against concrete pilings, tour boats idling past, the low hum of Yanjiang Middle Road traffic behind you. No ticket booth, no souvenir stalls pressing in on you — just a wide stretch of water and the city going about its business.
+What you get is unfiltered river life: the slap of water against concrete pilings, tour boats idling past, the low hum of Yanjiang Middle Road traffic behind you. No ticket booth, no souvenir stalls pressing in on you, just a wide stretch of water and the city going about its business.
 
 ## Getting there
 
 The wharf sits on Yanjiang Middle Road (沿江中路), near its junction with Taikang Street, in central Yuexiu. It's an easy walk from Haizhu Square or Beijing Road, both well-trodden shopping and sightseeing corridors.
 
-The nearest metro stop is Haizhu Square Station on Line 2, about a 10–15 minute walk north to the riverbank. From there, simply follow the water — the promenade runs along the river's edge and the wharf appears as a break in the railing where boats dock.
+The nearest metro stop is Haizhu Square Station on Line 2, about a 10–15 minute walk north to the riverbank. From there, simply follow the water. The promenade runs along the river's edge and the wharf appears as a break in the railing where boats dock.
 
 Taxis and ride-hailing apps can drop you directly on Yanjiang Middle Road, though traffic along this stretch can be slow during evening rush hour.
 
 ## What to see and do
 
-There isn't a marquee attraction here — the wharf itself is the experience. You come for the river, the passing barges and tour boats, and the wide-open sightlines across to the south bank towers.
+There isn't a marquee attraction here. The wharf itself is the experience. You come for the river, the passing barges and tour boats, and the wide-open sightlines across to the south bank towers.
 
 A few things worth doing once you're there:
 
-- Watch the boat traffic — a mix of cargo barges, local ferries, and Pearl River cruise boats.
+- Watch the boat traffic, a mix of cargo barges, local ferries, and Pearl River cruise boats.
 - Walk the adjoining riverside promenade in either direction; it links up with several small parks and viewpoints.
 - Time your visit for early evening, when the skyline across the water starts lighting up and the light on the water turns gold, then pink.
-- Bring a camera with a wide lens — the river's breadth makes for sweeping shots you won't get from the narrower streets inland.
+- Bring a camera with a wide lens, the river's breadth makes for sweeping shots you won't get from the narrower streets inland.
 
 Nearby, Beijing Road pedestrian street is a 10-minute walk for food and shopping, and Haizhu Square offers a busier, more built-up river viewpoint if you want contrast.
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot, when the heat of the day has broken and the light softens for photos. Because it's an outdoor, unticketed spot, there's no official opening or closing time to work around — it's accessible whenever the surrounding streets are.
+Late afternoon into early evening is the sweet spot, when the heat of the day has broken and the light softens for photos. Because it's an outdoor, unticketed spot, there's no official opening or closing time to work around. It's accessible whenever the surrounding streets are.
 
 Spring and autumn bring the most comfortable temperatures for lingering by the water. Summer afternoons in Guangzhou run hot and humid, so if you're visiting then, aim for after 5pm.
 
 ## How to visit like a local
 
-Tianzi Wharf isn't set up for tour groups, and that's exactly its appeal — it currently sees relatively little foot traffic compared to Guangzhou's bigger river attractions, so you can actually hear the water.
+Tianzi Wharf isn't set up for tour groups, and that's exactly its appeal, it currently sees relatively little foot traffic compared to Guangzhou's bigger river attractions, so you can actually hear the water.
 
 Nobody collects a fee here and there's no queue system, so there's nothing to book and nothing to pay. Just walk up.
 
 A few practical notes:
 
-- Treat it as a stop along a longer riverside walk rather than a standalone destination — 20 to 30 minutes is plenty.
+- Treat it as a stop along a longer riverside walk rather than a standalone destination, 20 to 30 minutes is plenty.
 - Combine it with Beijing Road or Haizhu Square so the trip feels worthwhile even on a quiet evening.
 - Skip the midday sun; locals who do use this stretch of riverfront tend to appear after work, around dusk.
-- The biggest mistake visitors make is treating it like a major sight with facilities — there are no ticket counters, restrooms, or vendors, so plan accordingly before you arrive.
+- The biggest mistake visitors make is treating it like a major sight with facilities. There are no ticket counters, restrooms, or vendors, so plan accordingly before you arrive.
 - Since no official hours are posted, it's worth checking recent visitor reports or the surrounding businesses' hours if you're coming very early or very late.
 
-Come here for the pause, not the spectacle — a few quiet minutes of river breeze between the busier stops on your Guangzhou itinerary.
+Come here for the pause, not the spectacle, a few quiet minutes of river breeze between the busier stops on your Guangzhou itinerary.

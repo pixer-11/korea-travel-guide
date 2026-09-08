@@ -79,7 +79,7 @@ updatedDate: '2026-09-07'
 
 You spot it long before you reach it. Above the mud-brick rooftops of Itchan Kala, a slim tapering tower catches the light in rings of turquoise and cobalt, the tallest thing for miles in this flat Khorezm oasis town.
 
-Built in 1910, the Islam Khoja Minaret is a late arrival by Khiva's standards — most of the old city's monuments are centuries older — but it's become the emblem everyone photographs. At around 45 meters it's the tallest minaret in Khiva, and its proportions are unusually slender, almost fragile-looking against the sky.
+Built in 1910, the Islam Khoja Minaret is a late arrival by Khiva's standards, most of the old city's monuments are centuries older, but it's become the emblem everyone photographs. At around 45 meters it's the tallest minaret in Khiva, and its proportions are unusually slender, almost fragile-looking against the sky.
 
 ## Why it's worth the climb
 
@@ -93,22 +93,22 @@ At the top, a small gallery opens onto a 360-degree view over Itchan Kala's flat
 
 The madrasa attached to the minaret now houses a museum, part of Khiva's applied arts collection.
 
-Cabinets display embroidered suzani textiles, carved wooden doors, and craftsman tools that explain how this desert city became a center for woodcarving and tilework. It's a quiet, unhurried stop — give it 20 to 30 minutes.
+Cabinets display embroidered suzani textiles, carved wooden doors, and craftsman tools that explain how this desert city became a center for woodcarving and tilework. It's a quiet, unhurried stop, give it 20 to 30 minutes.
 
 Combined with the minaret climb, budget around an hour here, more if you linger over the exhibits.
 
 ## Getting there and tickets
 
-Itchan Kala is pedestrian-only, so you'll walk in through one of its four gates — most visitors enter via the West Gate (Ata Darvoza).
+Itchan Kala is pedestrian-only, so you'll walk in through one of its four gates, most visitors enter via the West Gate (Ata Darvoza).
 
 - The minaret sits near the city's center, close to the Juma Mosque and its famous carved wooden pillars
-- A combined Itchan Kala entry ticket usually covers access to multiple monuments, including this one — buy it at the main gate
+- A combined Itchan Kala entry ticket usually covers access to multiple monuments, including this one, buy it at the main gate
 - Climbing the minaret itself sometimes requires a small separate fee paid on site
 - Confirm current prices locally, as they shift from year to year
 
 ## When to go
 
-Hours run 8am to 8pm Monday through Friday, and 8am to 6pm on Saturday and Sunday — plan a weekend visit with that earlier closing in mind.
+Hours run 8am to 8pm Monday through Friday, and 8am to 6pm on Saturday and Sunday. Plan a weekend visit with that earlier closing in mind.
 
 Midday sun in Khorazm is intense, especially from June to August, and the brick staircase holds heat. Early morning, right after opening, gives you softer light for photos and a cooler climb.
 
@@ -118,10 +118,10 @@ Late afternoon works too, especially in spring and autumn when the tilework glow
 
 This is still a relatively under-the-radar corner of Khiva's must-see list, so you can often get the tower gallery to yourself if you time it right.
 
-- Arrive close to 8am opening or in the final hour before closing — tour groups tend to cluster mid-morning to early afternoon
+- Arrive close to 8am opening or in the final hour before closing, tour groups tend to cluster mid-morning to early afternoon
 - Wear shoes you can climb narrow stone stairs in; there's no railing for much of the ascent
 - Pay for tickets in local currency, cash in hand, since card machines aren't reliable at small ticket booths
-- Skip flash photography inside the madrasa museum — natural light through the windows is enough and staff will ask you to stop
+- Skip flash photography inside the madrasa museum, natural light through the windows is enough and staff will ask you to stop
 - Look up before you climb: the muqarnas brickwork above the entrance is easy to miss if you're focused on the stairs
 - Pair the visit with a slow walk to the Kalta Minor minaret and Kunya-Ark fortress, both a short stroll away within the same walls
 

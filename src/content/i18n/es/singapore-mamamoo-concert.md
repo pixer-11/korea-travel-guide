@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-mamamoo-concert
-srcHash: '3fb23ab955d7'
+srcHash: '67cfa74f27fc'
 title: 'Concierto de MAMAMOO: lo que hay que saber (Singapur)'
 description: MAMAMOO tenía previsto actuar en el Singapore Indoor Stadium el 31 de julio de 2026, dentro del recinto de Kallang Sports Hub.
 quickAnswer: El concierto de MAMAMOO en Singapur estaba previsto para el 31 de julio de 2026 en el Singapore Indoor Stadium. El recinto se encuentra en Kallang, al que se llega en MRT por las estaciones Stadium o Kallang, y es el escenario que habitualmente reúne a público de K-pop de todo el sudeste asiático.

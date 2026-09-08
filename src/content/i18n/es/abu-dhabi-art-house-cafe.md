@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-art-house-cafe
-srcHash: '59ea6971461d'
+srcHash: '6da6b3636be4'
 title: 'Art House Cafe: guía de viaje de Abu Dabi'
 description: 'Art House Cafe se encuentra dentro de la Etihad Modern Art Gallery, en el barrio de Al Bateen, en Abu Dabi: un local colorido y lleno de plantas, conocido por sus desayunos disponibles todo el día, sus sándwiches y su café de especialidad.'
 quickAnswer: 'Art House Cafe se encuentra dentro de la Etihad Modern Art Gallery, en el barrio de Al Bateen, en Abu Dabi: un local colorido y lleno de plantas, conocido por sus desayunos disponibles todo el día, sus sándwiches y su café de especialidad. Conviene ir un día laborable por la mañana para disfrutar del ambiente de la galería sin esperas, y calcular entre 45 y 90 minutos para comer y recorrer las obras expuestas. Es un sitio popular y concurrido los fines de semana, así que lo mejor es reservar con antelación o llegar temprano.'

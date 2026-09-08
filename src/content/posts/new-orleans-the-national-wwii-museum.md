@@ -60,7 +60,7 @@ draft: false
 ---
 ## Why go
 
-You feel the scale before you understand it. Locomotive-sized landing craft hang overhead, a real Higgins boat sits at eye level, and the noise of newsreel footage drifts between buildings. This isn't a room of glass cases — it's five connected pavilions built to move you through the war chronologically, from mobilization to victory.
+You feel the scale before you understand it. Locomotive-sized landing craft hang overhead, a real Higgins boat sits at eye level, and the noise of newsreel footage drifts between buildings. This isn't a room of glass cases. It's five connected pavilions built to move you through the war chronologically, from mobilization to victory.
 
 The Higgins boat connection matters here: these landing craft were built in New Orleans, which is part of why the museum anchors in this city rather than Washington. Ken Burns himself narrates parts of the experience, and the detail is dense enough that history buffs and casual visitors both leave saying they underestimated it.
 
@@ -74,9 +74,9 @@ Driving in, there's a paid parking garage on-site, though street parking and nea
 
 Start at the Louisiana Memorial Pavilion for orientation, then move into the Road to Berlin and Road to Tokyo galleries, which split the war into two immersive tracks. Don't skip:
 
-- **The submarine experience** — a walk-through re-creation with tight corridors and sonar pings that puts you inside the claustrophobia of undersea warfare
-- **Boeing Center's restored aircraft** — a B-17 and Japanese Zero suspended at angles that make the hangar feel alive
-- **Beyond All Boundaries** — the 4-D theater with rumbling seats and snow that falls from the ceiling during the Battle of the Bulge sequence
+- **The submarine experience**, a walk-through re-creation with tight corridors and sonar pings that puts you inside the claustrophobia of undersea warfare
+- **Boeing Center's restored aircraft**, a B-17 and Japanese Zero suspended at angles that make the hangar feel alive
+- **Beyond All Boundaries**, the 4-D theater with rumbling seats and snow that falls from the ceiling during the Battle of the Bulge sequence
 
 Downstairs, the American Sector restaurant and the Soda Shop handle lunch if you don't want to leave the grounds. Neither is fine dining, but both are convenient enough to keep your momentum through a full day of exhibits.
 
@@ -88,13 +88,13 @@ Arrive right at opening or after 3pm and you'll move through galleries at your o
 
 ## How to visit like a local
 
-This museum draws visitors from across the country, so treat it like the major attraction it is rather than a quiet find. Book timed-entry tickets online in advance — walk-up lines build fast, especially once tour buses arrive.
+This museum draws visitors from across the country, so treat it like the major attraction it is rather than a quiet find. Book timed-entry tickets online in advance. Walk-up lines build fast, especially once tour buses arrive.
 
 Pay for tickets and the 4-D theater add-on together at checkout; it saves a second transaction at the door. Most transactions on-site are card or mobile pay, though cash still works at the cafes.
 
 A common mistake: treating this as a one-hour stop between other sights. Locals and repeat visitors know it takes a genuine four to five hours to see the Road to Berlin, Road to Tokyo, and submarine exhibit without rushing.
 
-If you only have half a day, prioritize the Road to Tokyo and submarine walk-through — they're the least like anything you'll see elsewhere in the city. Wear shoes you can stand in for hours; the galleries wind further than the building's footprint suggests from outside.
+If you only have half a day, prioritize the Road to Tokyo and submarine walk-through. They're the least like anything you'll see elsewhere in the city. Wear shoes you can stand in for hours; the galleries wind further than the building's footprint suggests from outside.
 
 ## Nearby to pair with your visit
 

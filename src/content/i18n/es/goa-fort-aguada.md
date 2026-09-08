@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goa-fort-aguada
-srcHash: 'e4f94393b6dd'
+srcHash: 'af00993044a9'
 title: 'Fuerte Aguada: Guía de viaje de Goa'
 description: El Fuerte Aguada (Fort Aguada) se encuentra en el promontorio sobre la playa de Sinquerim, en la desembocadura del río Mandovi, a unos 30–40 minutos en taxi del aeropuerto de Dabolim/Goa y 15 minutos de Panaji.
 quickAnswer: El Fuerte Aguada (Fort Aguada) se encuentra en el promontorio sobre la playa de Sinquerim, en la desembocadura del río Mandovi, a unos 30–40 minutos en taxi del aeropuerto de Dabolim/Goa y 15 minutos de Panaji. Ve temprano por la mañana (antes de las 9:30am) o al final de la tarde, hacia el atardecer, para evitar la avalancha de autobuses turísticos, y reserva entre 1 y 1.5 horas para recorrer las murallas y el faro. Es un lugar realmente muy visitado, no un secreto, así que conviene planificar en torno a las multitudes en lugar de esperar soledad.

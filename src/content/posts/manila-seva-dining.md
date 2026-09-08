@@ -35,16 +35,16 @@ It's landed on the Michelin Guide's radar as a "New American" kitchen, a label t
 
 The two dishes everyone mentions first tell you what kind of kitchen this is.
 
-- **Spicy Vodka Rigatoni with Burrata** — a rich, Italian-American classic pushed further with heat and a molten core of cheese.
-- **Octopus with Chermoula and Longganisa** — North African chermoula spice meeting grilled octopus and Filipino sausage on the same plate.
+- **Spicy Vodka Rigatoni with Burrata**, a rich, Italian-American classic pushed further with heat and a molten core of cheese.
+- **Octopus with Chermoula and Longganisa**, North African chermoula spice meeting grilled octopus and Filipino sausage on the same plate.
 
-That pairing sums up SEVA's approach: take a familiar comfort dish, then splice in a flavor from somewhere else entirely, often with a Filipino ingredient anchoring it home. Expect the rest of the menu to follow that same logic — confident, unafraid of contrast, not shy about spice.
+That pairing sums up SEVA's approach: take a familiar comfort dish, then splice in a flavor from somewhere else entirely, often with a Filipino ingredient anchoring it home. Expect the rest of the menu to follow that same logic, confident, unafraid of contrast, not shy about spice.
 
 ## The room and the mood
 
 Speakeasy-style doesn't just mean a hidden entrance. Inside, expect close-set tables, moody lighting, and a hum that stays conversational rather than cavernous.
 
-It's built for a slow dinner rather than a quick bite — the kind of place you settle into over multiple courses and a cocktail or two, not somewhere you duck into between errands. That intimacy also means seating is limited, which matters a lot for how you should plan your visit.
+It's built for a slow dinner rather than a quick bite, the kind of place you settle into over multiple courses and a cocktail or two, not somewhere you duck into between errands. That intimacy also means seating is limited, which matters a lot for how you should plan your visit.
 
 ## Getting there and planning your visit
 
@@ -53,7 +53,7 @@ SEVA Dining is in Manila, Philippines, and given its recent buzz and Michelin re
 Because this is a newly-trending spot, published hours and reservation policies can shift as the restaurant settles into a routine. Before you plan a night around it:
 
 - Confirm current opening hours directly with the restaurant or its official booking channel.
-- Reserve ahead — speakeasy-style rooms rarely have walk-in overflow space.
+- Reserve ahead, speakeasy-style rooms rarely have walk-in overflow space.
 - Ask about any dress code or minimum spend when you book, since intimate concept restaurants sometimes have one.
 - Double-check the exact address and entrance details, as hidden-door concepts can be easy to walk past.
 
@@ -63,10 +63,10 @@ Don't treat any menu or price details you find online as final. Fusion menus at 
 
 Treat SEVA Dining the way Manila's regular fine-dining crowd treats any hot new opening: book early, book direct, and don't expect to walk in cold.
 
-- **Reserve well ahead** — a Michelin-Selected label plus a trending status means demand is outpacing the small room.
-- **Go on a weeknight if you can** — smaller, speakeasy-format rooms fill fastest on Friday and Saturday nights, so a Tuesday or Wednesday booking is your best shot at both a table and a calmer pace.
-- **Pace yourself over courses** — this isn't a fast-turnover restaurant; the format rewards ordering a few shared plates rather than rushing a single dish.
-- **Ask your server for pairing suggestions** — with a menu this eclectic, staff are usually the fastest route to understanding how the flavors are meant to work together.
-- **Pay by card** — most contemporary Manila restaurants at this level are cashless-friendly, but it's worth confirming when you book, along with whether service charge is already included.
+- **Reserve well ahead**, a Michelin-Selected label plus a trending status means demand is outpacing the small room.
+- **Go on a weeknight if you can**, smaller, speakeasy-format rooms fill fastest on Friday and Saturday nights, so a Tuesday or Wednesday booking is your best shot at both a table and a calmer pace.
+- **Pace yourself over courses**. This isn't a fast-turnover restaurant; the format rewards ordering a few shared plates rather than rushing a single dish.
+- **Ask your server for pairing suggestions**, with a menu this eclectic, staff are usually the fastest route to understanding how the flavors are meant to work together.
+- **Pay by card**, most contemporary Manila restaurants at this level are cashless-friendly, but it's worth confirming when you book, along with whether service charge is already included.
 
 The mistake most first-timers make is showing up expecting a casual, drop-in meal. SEVA rewards the opposite approach: plan ahead, come hungry for contrast on the plate, and let the room's low light and hidden-door theatrics set the pace for the evening.

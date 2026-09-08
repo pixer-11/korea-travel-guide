@@ -90,13 +90,13 @@ updatedDate: '2026-08-30'
 
 ## Why go
 
-You come here for the gap between the beach and the backstreets. Haeundae Beach draws the crowds with its sand and skyline, but two minutes inland the market alley runs narrow, low-roofed, and thick with steam from a dozen food stalls. It's not a secret — locals and tourists both eat here — but it's where the neighborhood actually feeds itself.
+You come here for the gap between the beach and the backstreets. Haeundae Beach draws the crowds with its sand and skyline, but two minutes inland the market alley runs narrow, low-roofed, and thick with steam from a dozen food stalls. It's not a secret, locals and tourists both eat here, but it's where the neighborhood actually feeds itself.
 
 ## Getting there
 
 The market sits at 22-1 Gunam-ro 41beon-gil, in Haeundae, a short walk from the beach's main strip.
 
-Take **Busan Metro Line 2 to Haeundae Station**, and leave via **Exit 5**. From there it's roughly a 10-minute walk northeast, following the signs toward the beach — the market alley branches off Gunam-ro before you reach the sand.
+Take **Busan Metro Line 2 to Haeundae Station**, and leave via **Exit 5**. From there it's roughly a 10-minute walk northeast, following the signs toward the beach, the market alley branches off Gunam-ro before you reach the sand.
 
 Taxis from anywhere in Haeundae are cheap and simple if you're carrying beach gear.
 
@@ -105,8 +105,8 @@ Taxis from anywhere in Haeundae are cheap and simple if you're carrying beach ge
 This is a grazing market, not a sit-down meal. Stalls sell small portions meant for eating standing up or walking.
 
 Look for:
-- **Ssiat hotteok** — a Busan specialty, a fried sweet pancake stuffed with seeds and nuts, molten in the center
-- **Chungmu-style gimbap** — small, sauceless rice rolls served with spicy squid
+- **Ssiat hotteok**, a Busan specialty, a fried sweet pancake stuffed with seeds and nuts, molten in the center
+- **Chungmu-style gimbap**, small, sauceless rice rolls served with spicy squid
 - **Fresh sashimi and grilled seafood** stalls near the market's seaward end
 - **Fish cakes (eomuk)** on skewers, served in their own hot broth
 - **Korean-Chinese noodles and dumplings** from a few sit-down counters mid-alley
@@ -115,7 +115,7 @@ Portions are small and cheap enough that the right move is to buy from three or 
 
 ## What to see
 
-Beyond the food, it's a working market. Produce sellers, dried anchovies stacked in wooden crates, banchan vendors ladling kimchi into plastic tubs for regulars who've shopped here for years. The covered roof keeps it usable in rain, and strings of bulbs light the alley once the sun drops, which is when it gets genuinely atmospheric — steam rising off grills, the clatter of tongs on hot plates, vendors calling out prices.
+Beyond the food, it's a working market. Produce sellers, dried anchovies stacked in wooden crates, banchan vendors ladling kimchi into plastic tubs for regulars who've shopped here for years. The covered roof keeps it usable in rain, and strings of bulbs light the alley once the sun drops, which is when it gets genuinely atmospheric, steam rising off grills, the clatter of tongs on hot plates, vendors calling out prices.
 
 It's compact. You can walk the full length in ten minutes, though eating your way through takes longer.
 
@@ -123,20 +123,20 @@ It's compact. You can walk the full length in ten minutes, though eating your wa
 
 The market runs 9am to 10pm every day of the week, so there's no wrong day to time your visit.
 
-**Crowds are lightest from 9am to 11am**, on both weekdays and weekends — early enough that some stalls are still setting up, but the alley is easy to move through. Weekend evenings are the opposite: **5pm to 10pm sees the heaviest foot traffic**, as dinner crowds stack up alongside beachgoers heading in after the sand cools.
+**Crowds are lightest from 9am to 11am**, on both weekdays and weekends, early enough that some stalls are still setting up, but the alley is easy to move through. Weekend evenings are the opposite: **5pm to 10pm sees the heaviest foot traffic**, as dinner crowds stack up alongside beachgoers heading in after the sand cools.
 
-If your priority is photos and breathing room, morning wins. If you want the full sensory hit — grills roaring, crowds three-deep at the busiest stalls — go at dusk and accept the squeeze.
+If your priority is photos and breathing room, morning wins. If you want the full sensory hit (grills roaring, crowds three-deep at the busiest stalls) go at dusk and accept the squeeze.
 
 ## How to visit like a local
 
 Come with small bills. Many stalls are cash-preferred or cash-only, and card readers can be slow or absent at the smallest counters.
 
-Order by pointing — most vendors are used to gesturing customers, and menus are often just photos taped to the stall.
+Order by pointing. Most vendors are used to gesturing customers, and menus are often just photos taped to the stall.
 
 Don't sit down expecting table service; most of this market is built for eating on your feet, plate in hand, standing near the stall you bought from. That's normal here, not a sign you're doing it wrong.
 
-The mistake visitors make is treating this as a quick photo-op on the way to the beach. Give it a real hour — walk the alley once end-to-end scoping out stalls, then double back and actually eat.
+The mistake visitors make is treating this as a quick photo-op on the way to the beach. Give it a real hour. Walk the alley once end-to-end scoping out stalls, then double back and actually eat.
 
 If you're here on a weekend evening and the crowd feels like too much, the market's daily 9am opening means you can simply return the next morning during the 9–11am lull instead of fighting the crowd.
 
-Pair it with a beach walk before or after — Haeundae Beach is close enough that sandy feet and market food go together naturally, and it's the easiest way to bookend a visit without backtracking across the neighborhood.
+Pair it with a beach walk before or after, Haeundae Beach is close enough that sandy feet and market food go together naturally, and it's the easiest way to bookend a visit without backtracking across the neighborhood.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-busan-tower
-srcHash: '5ed546294c6c'
+srcHash: '28f3064e46c3'
 title: 'Torre de Busan: Guía de viaje (4.2★)'
 description: La Torre de Busan se alza sobre el Parque Yongdusan, en Jung-gu, y ofrece una vista de 360 grados sobre el puerto, los tejados de Nampo-dong y las colinas circundantes, todo por el precio de un breve trayecto en ascensor. 4.2★ (9.777 reseñas) — qué opinan los visitantes, horarios y consejos.
 quickAnswer: 'La Torre de Busan se alza sobre el Parque Yongdusan (Yongdusan Park), en Jung-gu, y ofrece una vista de 360 grados sobre el puerto, los tejados de Nampo-dong y las colinas circundantes, todo por el precio de un breve trayecto en ascensor. Abre todos los días de 10am a 10pm y se llena los fines de semana por la tarde: ve un día de semana, o después de las 9pm los fines de semana, cuando las multitudes ya han disminuido pero la torre sigue iluminada. Reserva una hora, incluyendo la caminata de subida por el parque.'

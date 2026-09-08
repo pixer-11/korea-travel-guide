@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shakhrisabz-ak-saray-palace
-srcHash: 'de5034e57fd3'
+srcHash: '2524063baa2f'
 title: 'Palacio Ak-Saray: Guía de viaje de Shakhrisabz (4.5★)'
 description: El Palacio Ak-Saray es un par de colosales torres-puerta en ruinas en Shakhrisabz, Uzbekistán, todo lo que queda del palacio de verano de Timur del siglo XIV. 4.5★ (626 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Palacio Ak-Saray es un par de colosales torres-puerta en ruinas en Shakhrisabz, Uzbekistán, todo lo que queda del palacio de verano de Timur del siglo XIV. Está abierto las 24 horas y es gratis acercarse a pie, así que conviene ir entre las 7:00 y las 8:00 en días laborables o antes de las 10:00 los fines de semana, bien antes de la avalancha de visitantes de 11:00 a 20:00 en fin de semana. Calcula entre 30 y 45 minutos, y luego pasea por el parque circundante y el casco antiguo.

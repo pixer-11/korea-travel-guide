@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: iloilo-jaro-metropolitan-cathedral-of-st-elizabeth-of-hungary-national-shrine-of
-srcHash: 'b03409cd7c6a'
+srcHash: '69d9b257d816'
 title: 哈罗天主教圣伊丽莎白都主教座堂与烛光圣母国家朝圣地：怡朗旅游指南
 description: 哈罗都主教座堂坐落于怡朗市哈罗广场，免费对外开放。4.7星（1,771条评价）——游客怎么说、开放时间与实用建议，一文看懂。
 quickAnswer: 哈罗都主教座堂坐落于怡朗市哈罗广场，免费对外开放。开放时间为周二至周六上午8点至中午12点、下午1:30至5:30（周日仅上午开放，周一闭馆），建议选在平日临近中午时段前往，这时弥撒人潮已散，透过窗户洒入的光线依旧充足。

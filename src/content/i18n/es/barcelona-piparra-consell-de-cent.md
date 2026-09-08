@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-piparra-consell-de-cent
-srcHash: 'e3fa573d534c'
+srcHash: '393699e1a682'
 title: 'Piparra (Consell de Cent): Guía de viaje de Barcelona'
 description: 'Piparra (Consell de Cent) en Barcelona, España — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Piparra (Consell de Cent) es un bar de tapas y pintxos vasco-español recién inaugurado en Eixample Dreta, a poca distancia a pie de Passeig de Gràcia, ideal para un almuerzo animado o un vermut a última hora de la tarde, más que para una cena tranquila y pausada. Ve más temprano si quieres hacerte con un hueco en la barra, y confirma el horario actual y si aceptan reservas antes de acercarte, ya que se trata de una apertura reciente que todavía está encontrando su ritmo.

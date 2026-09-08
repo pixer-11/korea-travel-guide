@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aomori-aomori-nebuta-matsuri
-srcHash: '4d33b5a4ddbc'
+srcHash: '7544f4b59baa'
 title: 'Aomori Nebuta Matsuri: lo que hay que saber (Aomori)'
 description: El Aomori Nebuta Matsuri se celebra en Aomori, Japón, del 2 al 7 de agosto de 2026. Qué es, cuándo y dónde tiene lugar, y qué se anunció para la semana del festival.
 quickAnswer: El Aomori Nebuta Matsuri estaba previsto para el 2 al 7 de agosto de 2026, en la ciudad de Aomori, al norte de Honshu. Cada noche, enormes carrozas iluminadas con figuras de guerreros (nebuta) desfilan por las calles del centro, acompañadas de bailarines haneto y tambores taiko, y la última noche cierra con el desfile de premios. Las primeras noches de la semana suelen ser las menos concurridas, y el festival ofrece tanto la opción de ver el desfile gratis desde la acera como asientos de tribuna de pago.

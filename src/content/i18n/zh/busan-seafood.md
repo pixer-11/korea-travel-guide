@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: busan-seafood
-srcHash: 'fe0bc8e15b29'
+srcHash: '265c839c2a0b'
 title: 釜山海鲜指南
 description: 釜山的海鲜体验以札嘎其市场（Jagalchi Market）为中心——韩国最大的水产市场，在这里挑选新鲜海产，再拿到楼上现烤或做成生鱼片（hoe）享用。
 quickAnswer: 釜山的海鲜体验以札嘎其市场（Jagalchi Market）为中心——韩国最大的水产市场，在这里挑选新鲜海产，再拿到楼上现烤或做成生鱼片（hoe）享用。建议早上前往感受市场的热闹氛围，顺便去附近的国际市场（Gukje Market）品尝街头小吃，可乘坐釜山地铁1号线到札嘎其站（10号出口）。

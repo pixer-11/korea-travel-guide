@@ -78,16 +78,16 @@ draft: false
 ---
 ## Why go
 
-This isn't just a statue — it's the exact spot where the Philippines' national hero was executed by firing squad in 1896. You come here to stand where that history happened, not just to see a bronze figure on a pedestal.
+This isn't just a statue. It's the exact spot where the Philippines' national hero was executed by firing squad in 1896. You come here to stand where that history happened, not just to see a bronze figure on a pedestal.
 
-The monument itself is modest in scale: a bronze sculpture of José Rizal standing in a long coat, book in hand, backed by a granite obelisk. What makes it resonate is the setting — an open plaza facing Manila Bay, with the low murmur of Roxas Boulevard traffic behind you and, most days, a scatter of schoolchildren on field trips sitting cross-legged on the pavement.
+The monument itself is modest in scale: a bronze sculpture of José Rizal standing in a long coat, book in hand, backed by a granite obelisk. What makes it resonate is the setting. An open plaza facing Manila Bay, with the low murmur of Roxas Boulevard traffic behind you and, most days, a scatter of schoolchildren on field trips sitting cross-legged on the pavement.
 
 ## Getting there
 
 The monument anchors the southwestern edge of Rizal Park (Luneta), right where Roxas Boulevard meets the bay. The address is 1225 Roxas Blvd, Ermita.
 
 - **By LRT-1:** Get off at United Nations Station, then walk about 10-15 minutes north through the park.
-- **By taxi or ride-hailing:** Ask for "Rizal Park" or "Luneta" — drivers know both names.
+- **By taxi or ride-hailing:** Ask for "Rizal Park" or "Luneta", drivers know both names.
 - **On foot:** It's an easy add-on if you're already at Intramuros or the Manila Ocean Park, both a short walk or quick tricycle ride away.
 
 ## What you'll see
@@ -96,30 +96,30 @@ The monument stands inside a shallow reflecting area, often ringed by a low chai
 
 Behind the monument, an eternal flame marker and a relief sculpture depicting his death add weight to the visit. Around it, Rizal Park opens up into wide lawns, fountains, and a Chinese and Japanese garden a short walk away.
 
-Most visitors spend 30 to 45 minutes here — enough to read the plaques, watch the guard ceremony if timed right, and take in the bay view before wandering deeper into the park.
+Most visitors spend 30 to 45 minutes here, enough to read the plaques, watch the guard ceremony if timed right, and take in the bay view before wandering deeper into the park.
 
 ## The changing of the guard
 
 If you time it well, you'll catch the ceremonial guards performing a formal changeover, complete with slow marching and rifle drills. This happens at set intervals through the day, though exact times can shift, so treat any schedule you find online as a guide rather than gospel.
 
-Arrive a few minutes early and post up near the fence line — the ceremony draws a small crowd fast, especially on weekends.
+Arrive a few minutes early and post up near the fence line, the ceremony draws a small crowd fast, especially on weekends.
 
 ## When to go
 
 The monument is open 24 hours every day, so there's no gate schedule to work around. That said, the experience changes a lot depending on when you show up.
 
 - **Early morning (6-8am):** Cooler air, joggers circling the park, softer light for photos.
-- **Midday:** Direct sun with little shade — bring water and a hat.
+- **Midday:** Direct sun with little shade. Bring water and a hat.
 - **Sunset:** The bay-facing side glows orange, and the crowd thins as day-trippers head out.
 - **Weekends:** This is the busiest stretch, with families, tour groups, and vendors filling the plaza. If you want breathing room, go on a weekday morning instead.
 
 ## How to visit like a local
 
-Manileños treat Rizal Park as a genuine public square, not just a tourist stop — people jog, picnic, and fly kites on the surrounding lawns.
+Manileños treat Rizal Park as a genuine public square, not just a tourist stop, people jog, picnic, and fly kites on the surrounding lawns.
 
 - **Dress and behave respectfully** near the monument itself; it's a solemn site despite the lively park around it.
 - **Photography is free and unrestricted**, but keep a respectful distance during the guard ceremony.
-- **No entrance fee** to view the monument or walk the immediate plaza — it's a public memorial, not a ticketed site.
+- **No entrance fee** to view the monument or walk the immediate plaza. It's a public memorial, not a ticketed site.
 - **Cash is still king** for the snack carts and souvenir stalls ringing the park, so carry small bills.
-- **The most common tourist mistake** is treating it as a five-minute photo stop and skipping the rest of Rizal Park — the Chinese Garden, Japanese Garden, and the old Spanish-era Kilometer Zero marker nearby all deserve a look.
-- **Combine it** with a walk into Intramuros, the old walled city, which sits just a few minutes away and pairs naturally with Rizal's story — he was imprisoned at Fort Santiago before his execution.
+- **The most common tourist mistake** is treating it as a five-minute photo stop and skipping the rest of Rizal Park, the Chinese Garden, Japanese Garden, and the old Spanish-era Kilometer Zero marker nearby all deserve a look.
+- **Combine it** with a walk into Intramuros, the old walled city, which sits just a few minutes away and pairs naturally with Rizal's story. He was imprisoned at Fort Santiago before his execution.

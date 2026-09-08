@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jakarta-bartiga
-srcHash: '411e60f61df1'
+srcHash: '46051583b1f9'
 title: '바티가(Bartiga): 자카르타 여행 가이드'
 description: 인도네시아 자카르타의 새롭게 떠오르는 명소, 바티가(Bartiga) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 알아보세요.
 quickAnswer: 바티가(Bartiga)는 남자카르타 케바요란 바루(Kebayoran Baru) 지역의 다르마왕사 스퀘어(The Darmawangsa Square) 지하층에 자리한, 사운드에 집중한 아담한 리스닝 바(listening bar)입니다. 소리를 압도하려고 목청을 높이는 곳이 아니라, 실제로 음악을 '듣기' 위해 가는 곳이죠. 최근 문을 열어 자카르타 나이트라이프 애호가들 사이에서 입소문이 나는 중이니, 미리 예약하거나 주말에는 일찍 도착하는 것이 좋습니다. 매장이 아직 운영 방식을 다듬어가는 단계이므로 방문 전에 현재 영업시간과 예약 정책을 확인하세요.

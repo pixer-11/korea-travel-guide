@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: clarke-quay-cq-clarke-quay
-srcHash: '13ebef0354d3'
+srcHash: 'cdb8dca46ec3'
 title: クラーク・キーのCQ(CQ @ Clarke Quay)旅行ガイド
 description: CQ @ クラーク・キーは、リバー・バレー・ロード3番地(3 River Valley Road)にある19世紀の川沿い倉庫群(ゴダウン)を改装した複合施設で、シンガポール川沿いに広がるクラーク・キーのレストラン&ナイトライフの中心地です。
 quickAnswer: CQ @ クラーク・キーは、リバー・バレー・ロード3番地(3 River Valley Road)にある19世紀の川沿い倉庫群(ゴダウン)を改装した複合施設で、シンガポール川沿いに広がるクラーク・キーのレストラン&ナイトライフの中心地となっています。昼から夜にかけては川沿いでの食事やバー巡りを楽しむのがおすすめですが、日が落ちると特に木曜〜土曜は賑やかで混雑した雰囲気になります。ボート・キー(Boat Quay)やフォート・カニング公園(Fort Canning Park)への川沿い散策と組み合わせるのもおすすめです。最寄り駅はクラーク・キー駅(Clarke Quay、North East Line)で、E出口を出るとすぐ目の前がこのエリアです。

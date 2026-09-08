@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: yogyakarta-taman-sari-tourist-village
-srcHash: '5ba4bf4825e1'
+srcHash: 'c8550ff35790'
 title: '타만사리 마을: 족자카르타 여행 가이드'
 description: 타만사리(Taman Sari, 물의 궁전)는 족자카르타 크라톤(Kraton) 지구에 있는 18세기 왕실 정원이자 목욕 시설로, 더위와 단체 관광객을 피하려면 이른 아침(오전 8-9시경)에 방문하는 것이 가장 좋습니다.
 quickAnswer: 타만사리(Taman Sari, 물의 궁전)는 족자카르타 크라톤(Kraton) 지구에 있는 18세기 왕실 정원이자 목욕 시설로, 더위와 단체 관광객을 피하려면 이른 아침(오전 8-9시경)에 방문하는 것이 가장 좋습니다. 1-1.5시간 정도 시간을 잡고, 좁은 골목길을 걸을 수 있는 편한 신발을 신으세요. 그리고 근처에 있는 술탄 왕궁(Kraton)과 걸어서 잠깐이면 갈 수 있는 지하 모스크 수무르 구물링(Sumur Gumuling)을 함께 둘러보는 것을 추천합니다.

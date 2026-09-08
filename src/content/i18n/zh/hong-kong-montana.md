@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hong-kong-montana
-srcHash: '612816ce075e'
+srcHash: 'ba4d9c126208'
 title: 蒙大拿（Montana）：香港旅行指南
 description: 蒙大拿（Montana）是香港近来大热的新去处，本文带你了解它是什么、位于何处，以及该怎么去。
 quickAnswer: 蒙大拿（Montana）是香港上环／中环一带荷李活道（Hollywood Road）上新开的鸡尾酒吧，由 Lorenzo Antinori 和 Simone Caporale——巴塞罗那 Sips 的创始搭档——打造，是 Bar Leone 的姊妹项目。如果你正在找位子或订座，要提醒一句：这里的预订非常抢手，最好提前预订，或者选在工作日刚开门时试试运气排队入场。最佳到访时间是傍晚早些时候，赶在中环下班人潮涌上山之前。

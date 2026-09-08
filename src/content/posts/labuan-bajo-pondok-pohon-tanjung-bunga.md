@@ -45,35 +45,35 @@ Pondok Pohon Tanjung Bunga is essentially a viewpoint-and-shelter setup built in
 
 With a 4.8 rating across 185 reviews, it has quietly built a loyal following among travelers who want a Labuan Bajo sunset spot without the crowds and touts that gather at some of the more heavily marketed lookout points closer to the town center.
 
-Unlike Labuan Bajo's marquee attractions — Padar Island, Pink Beach, the Komodo dragon treks — this is a low-key, low-cost stop that rewards travelers who have their own transport and a spare hour in the late afternoon.
+Unlike Labuan Bajo's marquee attractions (Padar Island, Pink Beach, the Komodo dragon treks) this is a low-key, low-cost stop that rewards travelers who have their own transport and a spare hour in the late afternoon.
 
 ## Getting there
 
 The location sits at HV67+4GX in the Komodo district of West Manggarai Regency, on the Tanjung Bunga peninsula that curls around the western edge of Labuan Bajo's bay. From the town center (near the harbor and the main strip of dive shops and restaurants on Jl. Soekarno Hatta), it's roughly a 10-15 minute ride by scooter or car, following the coastal road that climbs and winds along the cape.
 
-There's no public bus route out here — rented scooters (widely available in town for daily hire) or a chartered car/driver are the practical options. The road has some unpaved and uneven stretches typical of Flores' back roads, so allow extra time if you're driving right at dusk when the light fades fast near the equator. A local driver or your homestay/hotel can usually arrange transport if you'd rather not self-drive.
+There's no public bus route out here, rented scooters (widely available in town for daily hire) or a chartered car/driver are the practical options. The road has some unpaved and uneven stretches typical of Flores' back roads, so allow extra time if you're driving right at dusk when the light fades fast near the equator. A local driver or your homestay/hotel can usually arrange transport if you'd rather not self-drive.
 
 ## What to see and do
 
 The setup here is unpretentious: a wooden pondok (open-sided shelter/pavilion) and a few tree-shaded platforms positioned to catch the view down toward the harbor and the sea beyond. Expect:
 
-- **Sunset views** over the bay, with silhouetted island chains stacking up toward the horizon — this is the main reason people make the trip.
+- **Sunset views** over the bay, with silhouetted island chains stacking up toward the horizon. This is the main reason people make the trip.
 - **Photo spots** along the slope, with the shelter itself framed by the sloped, grassy terrain typical of this part of Flores' dry savanna coastline.
-- **A quiet perch for boats-watching** — liveaboards and traditional phinisi-style boats heading out toward Komodo National Park often pass below in the late afternoon.
+- **A quiet perch for boats-watching**, liveaboards and traditional phinisi-style boats heading out toward Komodo National Park often pass below in the late afternoon.
 
-Plan on 45-90 minutes: enough time to walk up, settle into the shelter, watch the light change, and head back down before it's fully dark. There isn't a formal ticket booth or structured facility here, so don't expect restrooms, a café, or English-language signage — treat it as a simple viewpoint, not a developed tourist park.
+Plan on 45-90 minutes: enough time to walk up, settle into the shelter, watch the light change, and head back down before it's fully dark. There isn't a formal ticket booth or structured facility here, so don't expect restrooms, a café, or English-language signage, treat it as a simple viewpoint, not a developed tourist park.
 
 ## When to go
 
-Late afternoon, roughly 90 minutes before sunset, is the sweet spot — enough time to settle in before the sky starts changing color. Flores sits close to the equator, so sunset timing stays fairly consistent year-round (typically between 5:30 and 6:15 pm), but it's worth checking the local time before you head out. The dry season (April to October) gives the clearest skies and least chance of rain disrupting the view; the wet season (November to March) can bring dramatic cloud formations but also sudden downpours.
+Late afternoon, roughly 90 minutes before sunset, is the sweet spot, enough time to settle in before the sky starts changing color. Flores sits close to the equator, so sunset timing stays fairly consistent year-round (typically between 5:30 and 6:15 pm), but it's worth checking the local time before you head out. The dry season (April to October) gives the clearest skies and least chance of rain disrupting the view; the wet season (November to March) can bring dramatic cloud formations but also sudden downpours.
 
-Avoid midday visits — the hillside offers little shade outside the pondok itself, and the haze can mute the island views that make the spot worth the trip.
+Avoid midday visits, the hillside offers little shade outside the pondok itself, and the haze can mute the island views that make the spot worth the trip.
 
 ## How to visit like a local
 
-Go on a weekday, later in the afternoon, and treat it as a low-key wind-down stop rather than a headline attraction — this keeps it calm even during Labuan Bajo's busier tourist months. There's no formal entrance fee structure reported, so bring small-denomination rupiah in cash in case a caretaker collects a small donation or if a nearby warung sells drinks and snacks; card payments aren't a realistic option this far from town.
+Go on a weekday, later in the afternoon, and treat it as a low-key wind-down stop rather than a headline attraction, this keeps it calm even during Labuan Bajo's busier tourist months. There's no formal entrance fee structure reported, so bring small-denomination rupiah in cash in case a caretaker collects a small donation or if a nearby warung sells drinks and snacks; card payments aren't a realistic option this far from town.
 
-Wear shoes with grip for the sloped path up to the shelter, and pack a flashlight or use your phone's light for the ride back down after dark, since the coastal road has minimal lighting. The most common mistake visitors make is arriving right at sunset with no buffer time — leave town earlier than feels necessary, since traffic, road conditions, and the light fading quickly near the equator can eat into your margin.
+Wear shoes with grip for the sloped path up to the shelter, and pack a flashlight or use your phone's light for the ride back down after dark, since the coastal road has minimal lighting. The most common mistake visitors make is arriving right at sunset with no buffer time. Leave town earlier than feels necessary, since traffic, road conditions, and the light fading quickly near the equator can eat into your margin.
 
 Keep noise low and pack out any trash; as an under-the-radar spot, part of its appeal is that it hasn't been overrun, and quiet, respectful visits help keep it that way.
 

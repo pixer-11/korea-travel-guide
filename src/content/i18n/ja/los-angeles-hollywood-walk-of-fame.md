@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: los-angeles-hollywood-walk-of-fame
-srcHash: 'ba3711677f8b'
+srcHash: '57d6101c01ff'
 title: ハリウッド・ウォーク・オブ・フェイム:ロサンゼルス旅行ガイド
 description: ラ・ブレア(La Brea)からバイン(Vine)までのハリウッド大通り(Hollywood Boulevard)を歩こう(バイン通りをサンセット(Sunset)まで少し寄り道するのもおすすめ)。24時間いつでも歩けるが、テラゾ製の星を人混みをかき分けずに見たいなら、平日は午前7時〜10時、週末は午前7時〜9時がベスト。
 quickAnswer: ラ・ブレア(La Brea)からバイン(Vine)までのハリウッド大通り(Hollywood Boulevard)を歩こう(バイン通りをサンセット(Sunset)まで少し寄り道するのもおすすめ)。24時間いつでも歩けるが、テラゾ製の星を人混みをかき分けずに見たいなら、平日は午前7時〜10時、週末は午前7時〜9時がベスト。所要時間の目安は45〜90分。コンクリートの上で擦れても構わない靴を履き、TCLチャイニーズシアター(TCL Chinese Theatre)前庭や隣のドルビーシアター(Dolby Theatre)と組み合わせて回ろう。

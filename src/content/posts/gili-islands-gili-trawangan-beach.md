@@ -97,9 +97,9 @@ The sand is pale and fine, the shallows a clear turquoise that shelves gently be
 
 ## Getting there
 
-There's no airport on Trawangan — you reach it by boat from Bali (Padang Bai or Serangan) or from Lombok's Bangsal harbor near Pemenang.
+There's no airport on Trawangan, you reach it by boat from Bali (Padang Bai or Serangan) or from Lombok's Bangsal harbor near Pemenang.
 
-Fast boats from Bali take around 1.5–2 hours; public boats from Bangsal are cheaper but slower, often under an hour. Once you land at the harbor, everything on the island is on foot, bicycle, or cidomo — there is no other option.
+Fast boats from Bali take around 1.5–2 hours; public boats from Bangsal are cheaper but slower, often under an hour. Once you land at the harbor, everything on the island is on foot, bicycle, or cidomo. There is no other option.
 
 Budget 10–20 minutes walking from the harbor to reach the main beach stretch near Jl. Pantai Gili Trawangan.
 
@@ -107,7 +107,7 @@ Budget 10–20 minutes walking from the harbor to reach the main beach stretch n
 
 Days here move slowly and mornings are the clearest time to swim, before the wind picks up.
 
-- Snorkel the reef just offshore — turtles are commonly spotted close to shore
+- Snorkel the reef just offshore, turtles are commonly spotted close to shore
 - Rent a bike and circle the island (roughly 2–3 hours at an easy pace)
 - Take a sunset cruise or paddleboard out as the sky turns orange
 - Try a beachfront swing photo spot, a Gili Trawangan signature
@@ -126,11 +126,11 @@ The dry season (April to October) brings the calmest seas and best snorkeling vi
 Trawangan still feels under-the-radar compared to Bali's beaches, and a few habits keep it that way for you.
 
 - Go at sunrise: the beach is nearly empty from 6:30am, before day-trip boats arrive
-- Pay cash for cidomo rides and small beach warungs — cards are unreliable outside main hotels
+- Pay cash for cidomo rides and small beach warungs, cards are unreliable outside main hotels
 - Bike counter-clockwise from the harbor to reach the quieter northeast coast within 20 minutes
 - Skip midday between noon and 3pm, when sun and crowds both peak
-- Tip small amounts in cash for boat crew and beach masseuses — it's expected, not obligatory
-- Don't rent a motorbike — the island bans them, and offers to "rent one anyway" are a scam tourists fall for
+- Tip small amounts in cash for boat crew and beach masseuses. It's expected, not obligatory
+- Don't rent a motorbike, the island bans them, and offers to "rent one anyway" are a scam tourists fall for
 
 The biggest mistake visitors make is staying only on the built-up harbor-side strip. Walk five minutes further and the crowds thin out fast, even in high season.
 
@@ -140,4 +140,4 @@ Gili Trawangan pairs easily with its quieter neighbors, Gili Meno and Gili Air, 
 
 Meno is the sparsest of the three and good for a half-day escape; Air sits closer to Lombok and has a mellower, family-friendly stretch of sand. Many visitors base themselves on Trawangan and boat-hop for a day to compare all three.
 
-If you have an extra day, Lombok's Bangsal harbor area and the base trailheads for Mount Rinjani are within a couple of hours by car and boat combined — worth it if you're staying more than three or four days total in the region.
+If you have an extra day, Lombok's Bangsal harbor area and the base trailheads for Mount Rinjani are within a couple of hours by car and boat combined, worth it if you're staying more than three or four days total in the region.

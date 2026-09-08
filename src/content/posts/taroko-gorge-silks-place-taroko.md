@@ -57,7 +57,7 @@ That head start is the whole point of sleeping in Tianxiang rather than commutin
 
 The hotel sits at Tianxiang, the small village at the eastern end of Taroko Gorge, reached via the Central Cross-Island Highway (Route 8). Most guests arrive by car or taxi from Hualien Airport or Hualien Train Station, a drive of roughly 60-75 minutes depending on road conditions.
 
-Shuttle buses also run between Hualien and Tianxiang, though schedules are limited, so check timings before relying on one. The gorge road narrows in places and occasionally closes after heavy rain or typhoons — worth confirming conditions the day before you travel.
+Shuttle buses also run between Hualien and Tianxiang, though schedules are limited, so check timings before relying on one. The gorge road narrows in places and occasionally closes after heavy rain or typhoons, worth confirming conditions the day before you travel.
 
 Once you're at the hotel, you don't need a car. Trailheads for Baiyang Waterfall Trail and the suspension bridge across the Liwu River are a short walk from the lobby.
 
@@ -65,13 +65,13 @@ Once you're at the hotel, you don't need a car. Trailheads for Baiyang Waterfall
 
 The hotel itself is worth building time around, not just a base to sleep in.
 
-- **Rooftop pool** — open-air, framed by cliff walls, especially striking at dusk when the rock face catches the last light
-- **Indoor pool and spa** — a warm option on cooler days or after a long hike
-- **Baiyang Waterfall Trail** — starts near the hotel, an easy walk through tunnels to a waterfall and swaying suspension bridge
-- **Xiangde Temple and Tianfeng Pagoda** — a steep but short climb across the river, with views back down the gorge
-- **Wenshan Hot Spring trail** — nearby, though access has varied over the years, so ask the front desk about current status
+- **Rooftop pool**, open-air, framed by cliff walls, especially striking at dusk when the rock face catches the last light
+- **Indoor pool and spa**, a warm option on cooler days or after a long hike
+- **Baiyang Waterfall Trail**, starts near the hotel, an easy walk through tunnels to a waterfall and swaying suspension bridge
+- **Xiangde Temple and Tianfeng Pagoda**, a steep but short climb across the river, with views back down the gorge
+- **Wenshan Hot Spring trail**, nearby, though access has varied over the years, so ask the front desk about current status
 
-Give the gorge itself at least a full day beyond your hotel stay — Swallow Grotto and Eternal Spring Shrine further down the canyon are both worth the drive.
+Give the gorge itself at least a full day beyond your hotel stay, Swallow Grotto and Eternal Spring Shrine further down the canyon are both worth the drive.
 
 ## When to go
 
@@ -83,12 +83,12 @@ If you can, time your arrival for a weekday afternoon and save weekend mornings 
 
 This is a very popular hotel, so beating the crowds is about timing, not secrecy.
 
-- **Book the rooftop pool early morning or right at sunset** — midday gets crowded and the light is flatter
+- **Book the rooftop pool early morning or right at sunset**, midday gets crowded and the light is flatter
 - **Reserve well in advance**, especially for weekends, summer, and Lunar New Year, when rooms sell out months ahead
-- **Pay by card** — international cards are accepted, though it's worth carrying some Taiwan dollars for trailside vendors and temple donations
-- **Start hikes early** — trailheads near the hotel get busy once day-trippers arrive from Hualien around mid-morning
-- **Check permit requirements** — some Taroko trails need a permit arranged in advance; the front desk can usually help with current rules
-- **Bring a light rain jacket** — the gorge's microclimate shifts fast, even on clear mornings
+- **Pay by card**, international cards are accepted, though it's worth carrying some Taiwan dollars for trailside vendors and temple donations
+- **Start hikes early**, trailheads near the hotel get busy once day-trippers arrive from Hualien around mid-morning
+- **Check permit requirements**, some Taroko trails need a permit arranged in advance; the front desk can usually help with current rules
+- **Bring a light rain jacket**, the gorge's microclimate shifts fast, even on clear mornings
 
 The mistake most visitors make is treating this as a one-night stopover. Two nights lets you actually use the pool, hike unrushed, and see the gorge in both morning and evening light.
 

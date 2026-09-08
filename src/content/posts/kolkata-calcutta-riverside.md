@@ -56,13 +56,13 @@ draft: false
 
 Calcutta Riverside is a slice of the Hooghly you won't find in the guidebooks' first pages. It's a landscaped riverside development built around restored colonial-industrial architecture from Batanagar's old shoe-factory township, repurposed into gardens, walkways, a boutique hotel and riverfront eateries.
 
-The draw isn't a single monument — it's the whole setting. Wide lawns run down to the river, red-brick heritage buildings anchor the grounds, and boats drift past on water that's usually thick with silt and traffic downstream in the city proper.
+The draw isn't a single monument. It's the whole setting. Wide lawns run down to the river, red-brick heritage buildings anchor the grounds, and boats drift past on water that's usually thick with silt and traffic downstream in the city proper.
 
 ## Getting there
 
 Batanagar sits in Maheshtala, south of central Kolkata, on the west bank side of the metropolitan area. It's roughly an hour's drive from the city center depending on traffic, so factor that into your day.
 
-The easiest way in is by car or app-based cab — Ola and Uber both operate reliably in this stretch of the city. Public transport exists (local trains to Batanagar station, then a short auto-rickshaw ride) but it's slower and less predictable if you're short on time.
+The easiest way in is by car or app-based cab, Ola and Uber both operate reliably in this stretch of the city. Public transport exists (local trains to Batanagar station, then a short auto-rickshaw ride) but it's slower and less predictable if you're short on time.
 
 If you're combining this with other sights, treat it as a half-day or full-day trip rather than a quick stop.
 
@@ -75,13 +75,13 @@ The grounds themselves are the main event. Expect:
 - River-view seating for lunch, tea or an evening drink
 - A boutique heritage hotel if you want to extend the visit overnight
 
-Walk the length of the riverfront promenade first, before the light gets harsh, then loop back through the garden courtyards. The architecture rewards a slow pass — old ironwork, brick facades and repurposed industrial shells sit next to newer landscaping in a way that feels deliberate rather than patched together.
+Walk the length of the riverfront promenade first, before the light gets harsh, then loop back through the garden courtyards. The architecture rewards a slow pass, old ironwork, brick facades and repurposed industrial shells sit next to newer landscaping in a way that feels deliberate rather than patched together.
 
-If you're hungry, plan to eat here rather than rushing back into the city — the riverside restaurant setting is a big part of the appeal.
+If you're hungry, plan to eat here rather than rushing back into the city. The riverside restaurant setting is a big part of the appeal.
 
 ## When to go
 
-Calcutta Riverside is open daily from 10am to 6pm, with no variation by day of the week — so there's no need to avoid a particular weekday.
+Calcutta Riverside is open daily from 10am to 6pm, with no variation by day of the week, so there's no need to avoid a particular weekday.
 
 Because it's genuinely under the radar rather than a bucket-list stop, it rarely feels busy, but the cooler months (November through February) are still the most comfortable time to be outdoors here. Kolkata's summer heat and monsoon humidity make the riverside walks far less pleasant between April and September.
 
@@ -89,7 +89,7 @@ Late afternoon, an hour or two before closing, is a good window: the sun softens
 
 ## How to visit like a local
 
-This isn't a place with crowds to dodge — it's quiet enough most days that you can take your time. Still, a few practical notes help:
+This isn't a place with crowds to dodge. It's quiet enough most days that you can take your time. Still, a few practical notes help:
 
 - **Book ahead if eating**: the riverside restaurant can fill up on weekend evenings with Kolkata families making a day trip out of it, so a quick call or online check before you go is worth it.
 - **Carry cash and card**: larger vendors on-site take cards, but smaller stalls or auto-rickshaw drivers on the way in often prefer cash.
@@ -97,4 +97,4 @@ This isn't a place with crowds to dodge — it's quiet enough most days that you
 - **Confirm hours before a special trip**: opening hours are consistent daily, but it's always worth a quick check online if you're coming from far away, since venues occasionally adjust for private events.
 - **Dress for walking**: paths are mostly flat, but there's a fair amount of ground to cover between the gardens, riverfront and heritage buildings.
 
-Because it sits outside Kolkata's usual sightseeing loop, most visitors are Kolkata residents on a day out rather than international tourists — which is exactly what gives it its unhurried, lived-in feel.
+Because it sits outside Kolkata's usual sightseeing loop, most visitors are Kolkata residents on a day out rather than international tourists, which is exactly what gives it its unhurried, lived-in feel.

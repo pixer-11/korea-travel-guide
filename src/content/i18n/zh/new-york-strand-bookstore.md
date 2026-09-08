@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-strand-bookstore
-srcHash: '867ea5dec9d1'
+srcHash: '171e2a2385ac'
 title: Strand书店:纽约旅行指南(4.8★)
 description: Strand书店位于828 Broadway(18英里长的书架,East 12th Street路口),每日上午10点至晚上9点营业。4.8★(16,778条评价)——游客怎么说、营业时间和实用建议。
 quickAnswer: Strand书店位于828 Broadway(18英里长的书架,East 12th Street路口),每日上午10点至晚上9点营业。周末中午12点到晚上7点确实是最拥挤的时段，所以开门时刻的清晨或工作日前来最为清静。至少预留一小时——如果你是真正的书虫，不妨留出三小时——直奔地下室的珍本书室(Rare Book Room)和门口的红色书车。

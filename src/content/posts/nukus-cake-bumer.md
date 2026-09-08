@@ -61,19 +61,19 @@ draft: false
 
 Nukus isn't a city overflowing with polished cafés, which is exactly why Cake "Bumer" stands out. Walk in and you're met with glass cabinets stacked with layered cakes, glossy fruit tarts, and trays of pastries still warm from the oven. It's the kind of place where the smell of butter and sugar hits before you've even reached the counter.
 
-This is a bakery first, café second — the cakes are the reason people come, and they're built for looking at as much as eating.
+This is a bakery first, café second. The cakes are the reason people come, and they're built for looking at as much as eating.
 
 ## What to see and eat
 
 The display case is the main event. Expect multi-tier cakes with cream frosting, chocolate-glazed entremets, honey cakes (medovik-style), and individual pastries sized for a quick bite or a coffee pairing.
 
-Beyond sweets, Cake "Bumer" typically runs a light food menu too — think salads, sandwiches, and simple hot dishes for those who want something savory before dessert.
+Beyond sweets, Cake "Bumer" typically runs a light food menu too, think salads, sandwiches, and simple hot dishes for those who want something savory before dessert.
 
-- Ask what's fresh that day — cake selections rotate
+- Ask what's fresh that day, cake selections rotate
 - Try a slice with black or green tea rather than ordering a whole cake if you're solo
 - If it's someone's birthday, this is a solid spot to order a whole cake in advance
 
-The interior tends toward bright, modern décor — clean lines, good lighting, the kind of space that photographs well, which fits its "trendy" reputation in a city where such spots are still relatively rare.
+The interior tends toward bright, modern décor, clean lines, good lighting, the kind of space that photographs well, which fits its "trendy" reputation in a city where such spots are still relatively rare.
 
 ## Getting there
 
@@ -83,24 +83,24 @@ Taxis and ride-hailing apps are the easiest way to get around Nukus, since stree
 
 ## When to go
 
-Cake "Bumer" is open every day of the week, from 8:30am to 11pm — a long window that covers breakfast pastries, afternoon coffee, and late dessert runs alike.
+Cake "Bumer" is open every day of the week, from 8:30am to 11pm, a long window that covers breakfast pastries, afternoon coffee, and late dessert runs alike.
 
 Mornings suit a quiet coffee-and-pastry combo before sightseeing. Evenings, especially after dinner elsewhere in town, work well for cake and tea since the place stays open late into the night.
 
-Because it's not yet a major tourist draw, there's no sharply defined rush hour to dodge — just use common sense and expect it to be busier around typical Uzbek dinner hours, roughly 7–9pm.
+Because it's not yet a major tourist draw, there's no sharply defined rush hour to dodge, just use common sense and expect it to be busier around typical Uzbek dinner hours, roughly 7–9pm.
 
 ## How to visit like a local
 
-Order at the counter or ask for table service — both are common in Nukus cafés of this style. Payment is usually a mix of cash and card, though it's wise to carry som in cash as a backup in case card machines are down, which still happens occasionally outside the capital.
+Order at the counter or ask for table service. Both are common in Nukus cafés of this style. Payment is usually a mix of cash and card, though it's wise to carry som in cash as a backup in case card machines are down, which still happens occasionally outside the capital.
 
 Tipping isn't obligatory here the way it is in Western countries; rounding up or leaving small change is appreciated but not expected.
 
-Nobody's in a rush at Cake "Bumer" — lingering over tea and cake is normal, not something that gets you side-eyed by staff.
+Nobody's in a rush at Cake "Bumer", lingering over tea and cake is normal, not something that gets you side-eyed by staff.
 
 The most common visitor mistake is treating this purely as a quick grab-and-go bakery. Locals often sit, order tea, and treat it as a proper café stop rather than a five-minute stop-in.
 
-If you want to order a custom cake for an occasion, it's worth calling ahead or visiting a day early — walk-in whole-cake orders may not always be available same-day.
+If you want to order a custom cake for an occasion, it's worth calling ahead or visiting a day early. Walk-in whole-cake orders may not always be available same-day.
 
 ## Nearby
 
-Nukus itself is a low-key stop on the Uzbekistan circuit, best known for the Savitsky Museum and its extraordinary collection of Soviet avant-garde art. Pair a museum morning with an afternoon cake break here — it's a natural way to break up a day of sightseeing in a city that rewards slower exploration rather than a checklist approach.
+Nukus itself is a low-key stop on the Uzbekistan circuit, best known for the Savitsky Museum and its extraordinary collection of Soviet avant-garde art. Pair a museum morning with an afternoon cake break here. It's a natural way to break up a day of sightseeing in a city that rewards slower exploration rather than a checklist approach.

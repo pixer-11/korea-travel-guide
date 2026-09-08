@@ -124,13 +124,13 @@ Parking is available near the beach entrance, though it fills up quickly on summ
 
 The main draw is simply the water: wade out along the shallow shelf, or bring snorkel gear to look at the seagrass and small fish near the rocks at the bay's edges. The beach is flanked by a pine grove that provides shade for picnic mats, a common local habit rather than lounging directly on the sand at midday. Photographers should walk to the northern end of the beach, where the sightline to Biyangdo Island is cleanest and least obstructed by beach umbrellas.
 
-For an active add-on, small boats occasionally run from nearby Hallim Port out to Biyangdo, where a short hiking loop leads up to a lighthouse and panoramic views back toward Jeju's coastline — check current ferry schedules locally, as they're seasonal and weather-dependent. Just a few minutes' walk or drive from Hyeopjae is Hallim Park, a long-established botanical and cave park with subtropical gardens, palm groves, and the Hyeopjae and Ssangyong lava tube caves — a good complement if you want shade and a change of pace from sand and sun.
+For an active add-on, small boats occasionally run from nearby Hallim Port out to Biyangdo, where a short hiking loop leads up to a lighthouse and panoramic views back toward Jeju's coastline (check current ferry schedules locally, as they're seasonal and weather-dependent. Just a few minutes' walk or drive from Hyeopjae is Hallim Park, a long-established botanical and cave park with subtropical gardens, palm groves, and the Hyeopjae and Ssangyong lava tube caves) a good complement if you want shade and a change of pace from sand and sun.
 
 Food-wise, the streets just back from the beach have simple seafood restaurants serving Jeju specialties like grilled mackerel (godeungeo gui) and abalone porridge (jeonbokjuk), along with cafés facing the water that make a good perch for the sunset.
 
 ## When to go
 
-Swimming season officially runs from June to August, when Jeju's official beaches open with lifeguards, changing facilities, and rented parasols; outside these months the water is cold and services scale back, though the beach itself stays open and scenic year-round. Early morning (before 9am) or late afternoon into sunset are the best windows to avoid both crowds and the harshest midday sun — Jeju's UV index climbs fast in summer. Weekday visits are noticeably calmer than weekends, when day-trippers from Jeju City and package tours arrive by the busload.
+Swimming season officially runs from June to August, when Jeju's official beaches open with lifeguards, changing facilities, and rented parasols; outside these months the water is cold and services scale back, though the beach itself stays open and scenic year-round. Early morning (before 9am) or late afternoon into sunset are the best windows to avoid both crowds and the harshest midday sun, Jeju's UV index climbs fast in summer. Weekday visits are noticeably calmer than weekends, when day-trippers from Jeju City and package tours arrive by the busload.
 
 ## Nearby & tips
 

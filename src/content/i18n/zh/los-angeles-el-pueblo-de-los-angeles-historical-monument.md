@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-el-pueblo-de-los-angeles-historical-monument
-srcHash: '209fa28272a6'
+srcHash: '2affdcecd180'
 title: 埃尔普韦布洛洛杉矶历史古迹（El Pueblo de Los Ángeles Historical Monument）：洛杉矶旅行指南
 description: 埃尔普韦布洛洛杉矶历史古迹（El Pueblo de Los Ángeles Historical Monument）占地44英亩，是这座城市的发源地，以奥维拉街（Olvera Street）的市集摊位为核心，距离联合车站（Union Station）仅几步之遥，位于洛杉矶市中心。4.5星（1,522条评价）——看看游客怎么说，以及开放时间和实用贴士。
 quickAnswer: 埃尔普韦布洛洛杉矶历史古迹占地44英亩，是这座城市的发源地，以奥维拉街的市集摊位为核心，距离联合车站仅几步之遥，位于洛杉矶市中心。每天上午8点到晚上10点开放，免费参观。建议工作日上午8点到9点前往，此时砖石步道几乎空无一人；应避开周末中午到傍晚的人流高峰。

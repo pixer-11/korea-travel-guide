@@ -82,17 +82,17 @@ The collection moves chronologically and thematically, so give yourself a route 
 - **Natural history**: taxidermy and specimens covering Borneo's rainforest biodiversity
 - **Maritime and trade history**: ceramics and shipwreck cargo tracing centuries of trade with China and the Middle East
 
-Labels are detailed and in both Malay and English, which is part of why a proper visit runs long — you can't skim this one in forty minutes.
+Labels are detailed and in both Malay and English, which is part of why a proper visit runs long. You can't skim this one in forty minutes.
 
 ## Getting there
 
-The museum sits on the Kuching waterfront, an easy walk from the old courthouse and the Sarawak Steamship building. If you're staying near the Kuching Waterfront or the Old Bazaar area, it's a 10–15 minute walk along the river promenade — genuinely pleasant in the early morning before the heat sets in.
+The museum sits on the Kuching waterfront, an easy walk from the old courthouse and the Sarawak Steamship building. If you're staying near the Kuching Waterfront or the Old Bazaar area, it's a 10–15 minute walk along the river promenade, genuinely pleasant in the early morning before the heat sets in.
 
 From further out, a Grab (the regional ride-hailing app) is the simplest option; taxis are also available and inexpensive by international standards. There's no dedicated public bus route worth relying on for tourists, so don't plan around one.
 
 ## When to go
 
-The museum runs 9am to 4:45pm Monday through Friday, and a slightly shorter 9:30am to 4:30pm on Saturday and Sunday. Note the earlier weekend closing — don't arrive at 3:30pm on a Saturday expecting a leisurely two-hour visit.
+The museum runs 9am to 4:45pm Monday through Friday, and a slightly shorter 9:30am to 4:30pm on Saturday and Sunday. Note the earlier weekend closing. Don't arrive at 3:30pm on a Saturday expecting a leisurely two-hour visit.
 
 Weekday mornings, specifically 9am to 10am, are the quietest window by far. If you can visit on a weekday rather than a weekend, do it: the busiest stretch is weekend afternoons between 12pm and 4pm, when tour groups and families cluster in the ground-floor galleries and queue for tickets.
 
@@ -100,14 +100,14 @@ Plan for two to three hours minimum. History or textile enthusiasts can easily l
 
 ## How to visit like a local
 
-This museum is well-known and draws steady crowds, so the smart move isn't finding a secret entrance — it's timing.
+This museum is well-known and draws steady crowds, so the smart move isn't finding a secret entrance. It's timing.
 
 - **Arrive right at opening**, ideally on a weekday between 9am and 10am, when the galleries are close to empty and you can actually read the labels without jostling for space.
-- **Avoid weekend afternoons** (12pm–4pm) entirely if you have flexibility — that's when the museum is at its most crowded.
+- **Avoid weekend afternoons** (12pm–4pm) entirely if you have flexibility. That's when the museum is at its most crowded.
 - **Buy tickets on arrival** rather than assuming online booking is necessary; queues are manageable outside peak hours.
-- **Wear comfortable shoes for ramps, not stairs** — the building uses long sloped walkways between floors rather than elevators as the primary route, which adds distance but no real difficulty.
+- **Wear comfortable shoes for ramps, not stairs**, the building uses long sloped walkways between floors rather than elevators as the primary route, which adds distance but no real difficulty.
 - **Bring a light jacket**: the air conditioning is strong, especially noticeable after Kuching's humidity outside.
-- **Don't rush the top floor** — many visitors run out of energy by floor four and skip the final galleries, which hold some of the strongest textile and beadwork displays.
+- **Don't rush the top floor**. Many visitors run out of energy by floor four and skip the final galleries, which hold some of the strongest textile and beadwork displays.
 
 Locals and repeat visitors treat this as a half-day outing rather than a quick stop, and pace yourself accordingly.
 

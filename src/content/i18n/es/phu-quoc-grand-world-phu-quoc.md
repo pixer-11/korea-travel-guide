@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-grand-world-phu-quoc
-srcHash: 'd0d4e4eb7870'
+srcHash: 'ed53c92f503e'
 title: 'Grand World: Guía de viaje de Phu Quoc'
 description: Grand World Phu Quoc es un complejo de entretenimiento y compras de entrada gratuita en Bãi Dài (la costa norte de Long Beach), ideal para visitar desde media tarde hasta la noche, cuando los canales estilo "Venecia", los espectáculos de luces y el Teddy Bear Museum cobran vida.
 quickAnswer: Grand World Phu Quoc es un complejo de entretenimiento y compras de entrada gratuita en Bãi Dài (la costa norte de Long Beach), ideal para visitar desde media tarde hasta la noche, cuando los canales estilo "Venecia", los espectáculos de luces y el Teddy Bear Museum cobran vida. Reserva entre medio día y una noche completa, lleva efectivo o tarjeta para la comida y los espectáculos de pago (como las funciones de marionetas o de fuego), y combínalo con el cercano Vinpearl Safari o Corona Casino, ya que todos están dentro de la misma zona de Phu Quoc United Center.

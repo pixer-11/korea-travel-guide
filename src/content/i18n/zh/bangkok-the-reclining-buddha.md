@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-the-reclining-buddha
-srcHash: '3a9d97faba72'
+srcHash: '23bb2c20c114'
 title: 卧佛寺：曼谷旅行指南
 description: 卧佛（Reclining Buddha）供奉于卧佛寺（Wat Pho，又称 Wat Phra Chetuphon）内，位于大皇宫以南的 2 Thanon Sanam Chai，曼谷。
 quickAnswer: 卧佛供奉于卧佛寺（Wat Pho，又称 Wat Phra Chetuphon）内，位于大皇宫以南的 2 Thanon Sanam Chai，曼谷。建议早上9点前抵达，避开旅游团和高温，预留60-90分钟游览时间，并可与大皇宫或乘船前往郑王庙（Wat Arun）的行程结合。入内需脱鞋，着装须遮住肩膀和膝盖，别错过佛像脚底那108个用于投币积德的青铜钵。

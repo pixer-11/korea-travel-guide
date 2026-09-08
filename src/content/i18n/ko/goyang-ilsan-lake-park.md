@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: goyang-ilsan-lake-park
-srcHash: '7d2ae1e8f4b6'
+srcHash: '6e388ef37ac7'
 title: '일산호수공원: 고양 여행 가이드'
 description: 고양시 일산동구에 있는 일산호수공원(Ilsan Lake Park)은 한국 최대의 인공호수공원으로, 8.5km 순환로와 정원, 조각품, 소규모 동물원, 호수변 음악분수를 갖추고 있습니다.
 quickAnswer: 고양시 일산동구에 있는 일산호수공원(Ilsan Lake Park)은 한국 최대의 인공호수공원으로, 8.5km 순환로와 정원, 조각품, 소규모 동물원, 호수변 음악분수를 갖추고 있습니다. 조깅객과 축제 인파를 피하려면 평일 아침 일찍 방문하는 것이 좋고, 호수 한 바퀴를 돌고 꽃 전시를 둘러본 뒤 인근 라페스타(Lafesta)나 웨스턴돔(Western Dom) 쇼핑거리까지 다녀오려면 반나절 정도 여유를 두는 것이 좋습니다.

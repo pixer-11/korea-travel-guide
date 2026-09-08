@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hangzhou-zhejiang-art-museum
-srcHash: '2957a8995bbb'
+srcHash: '762c781bd243'
 title: '저장 미술관: 항저우 여행 가이드'
 description: 저장 미술관(Zhejiang Art Museum)은 시후(West Lake) 남쪽 기슭 난산루(Nanshan Road)에 자리해 있으며, 중산공원(Zhongshan Park)/레이펑탑(Leifeng Pagoda) 일대에서 걸어서 금방입니다 — 무료이거나 입장료가 저렴한 편이니(신분증을 챙기세요) 갤러리가 거의 비어 있고 바깥 호숫가 산책로가 여전히 시원하고 그늘진 평일 오전에 방문하는 것이 가장 좋습니다.
 quickAnswer: 저장 미술관(Zhejiang Art Museum)은 시후(West Lake) 남쪽 기슭 난산루(Nanshan Road)에 자리해 있으며, 중산공원(Zhongshan Park)/레이펑탑(Leifeng Pagoda) 일대에서 걸어서 금방입니다 — 무료이거나 입장료가 저렴한 편이니(신분증을 챙기세요) 갤러리가 거의 비어 있고 바깥 호숫가 산책로가 여전히 시원하고 그늘진 평일 오전에 방문하는 것이 가장 좋습니다. 현재 진행 중인 전시에 따라 45~90분 정도 시간을 잡고, 호수 주변을 좀 더 넓게 산책하는 일정에 포함시켜 보세요.

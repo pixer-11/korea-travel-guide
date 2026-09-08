@@ -53,31 +53,31 @@ draft: false
 ---
 ## Why go
 
-You don't climb Elephant Mountain for solitude — you climb it for the single most photographed skyline shot in Taiwan. From a cluster of granite boulders on the ridge, Taipei 101 rises directly across the valley, close enough that you can pick out the lights blinking on its spire as the sky turns orange behind it. It's a short, punishing staircase and a big payoff, which is exactly why it's become the city's signature after-work and sunset ritual for both residents and every visitor with a phone camera.
+You don't climb Elephant Mountain for solitude, you climb it for the single most photographed skyline shot in Taiwan. From a cluster of granite boulders on the ridge, Taipei 101 rises directly across the valley, close enough that you can pick out the lights blinking on its spire as the sky turns orange behind it. It's a short, punishing staircase and a big payoff, which is exactly why it's become the city's signature after-work and sunset ritual for both residents and every visitor with a phone camera.
 
 ## Getting there
 
-Take the MRT Red Line (Xinyi line) to Xiangshan Station and leave through Exit 2. From there it's a five-to-ten-minute walk through a small park and past a temple before the official trailhead — signposted in English and Chinese as the Xiangshan / Elephant Mountain Hiking Trail — begins. You'll know you're close when you see the stone steps start climbing steeply between tree roots and railings. There's no ticket gate and no admission fee, and access isn't restricted to fixed hours.
+Take the MRT Red Line (Xinyi line) to Xiangshan Station and leave through Exit 2. From there it's a five-to-ten-minute walk through a small park and past a temple before the official trailhead, signposted in English and Chinese as the Xiangshan / Elephant Mountain Hiking Trail, begins. You'll know you're close when you see the stone steps start climbing steeply between tree roots and railings. There's no ticket gate and no admission fee, and access isn't restricted to fixed hours.
 
 ## What to see and do
 
-The trail itself is short — most people reach the main viewing platform, a set of six large boulders known locally as the "Elephant Mountain rocks," in 20 to 40 minutes depending on fitness and how many photo stops you make. The stairs are relentless and uneven in places, so pace yourself rather than sprint. Along the way, small side platforms give you glimpses of the skyline through the trees before the trail opens up completely.
+The trail itself is short, most people reach the main viewing platform, a set of six large boulders known locally as the "Elephant Mountain rocks," in 20 to 40 minutes depending on fitness and how many photo stops you make. The stairs are relentless and uneven in places, so pace yourself rather than sprint. Along the way, small side platforms give you glimpses of the skyline through the trees before the trail opens up completely.
 
-At the top, the boulders double as a natural grandstand: people queue politely to stand on them for photos with Taipei 101 as backdrop, then step aside for the next group. If you keep climbing past the main platform, the trail continues along the ridge toward Thumb Mountain (Muzhishan) and further peaks in the "Nangang Mountain" system, with fewer people and equally good, if slightly more distant, views. Bring water — there are no shops on the trail itself, though vending machines and convenience stores cluster near the entrance.
+At the top, the boulders double as a natural grandstand: people queue politely to stand on them for photos with Taipei 101 as backdrop, then step aside for the next group. If you keep climbing past the main platform, the trail continues along the ridge toward Thumb Mountain (Muzhishan) and further peaks in the "Nangang Mountain" system, with fewer people and equally good, if slightly more distant, views. Bring water. There are no shops on the trail itself, though vending machines and convenience stores cluster near the entrance.
 
 ## When to go
 
-This is one of Taipei's most visited outdoor spots, and the summit boulders fill up fast in the hour before sunset — expect to share rock space with dozens of other people angling for the same shot. If you want breathing room, come at sunrise instead: the light on the skyline is just as dramatic, the stairs are cooler to climb, and you'll likely have long stretches of trail to yourself.
+This is one of Taipei's most visited outdoor spots, and the summit boulders fill up fast in the hour before sunset. Expect to share rock space with dozens of other people angling for the same shot. If you want breathing room, come at sunrise instead: the light on the skyline is just as dramatic, the stairs are cooler to climb, and you'll likely have long stretches of trail to yourself.
 
-Midday during Taipei's hot, humid summer is the least comfortable time to climb — the stairs are fully exposed to sun in sections, so early morning or early evening is far more bearable. Because it's open 24 hours, there's no risk of arriving to locked gates, but the trail is unlit in parts, so bring a phone flashlight if you're descending after dark.
+Midday during Taipei's hot, humid summer is the least comfortable time to climb. The stairs are fully exposed to sun in sections, so early morning or early evening is far more bearable. Because it's open 24 hours, there's no risk of arriving to locked gates, but the trail is unlit in parts, so bring a phone flashlight if you're descending after dark.
 
 ## How to visit like a local
 
-Go on a weekday if you can — weekends compress the already-narrow viewing platform into a genuine bottleneck. If sunset is the goal, arrive at least 30-45 minutes before the sun actually sets so you have time to climb, catch your breath, and claim a spot on the boulders before they fill in. Everyone photographs from the same rocks, so the etiquette is simple: take your shot, then move aside for the next person rather than lingering.
+Go on a weekday if you can, weekends compress the already-narrow viewing platform into a genuine bottleneck. If sunset is the goal, arrive at least 30-45 minutes before the sun actually sets so you have time to climb, catch your breath, and claim a spot on the boulders before they fill in. Everyone photographs from the same rocks, so the etiquette is simple: take your shot, then move aside for the next person rather than lingering.
 
-There's no entry fee, no ticket booth, and nothing to pay for on the trail itself, so this isn't a place where tipping or cash matters — just bring water and decent shoes, since the stone steps get slippery when humid or after rain. The biggest mistake first-timers make is underestimating the stairs because the total distance looks short on a map; treat it like a real, sweaty climb, not a stroll.
+There's no entry fee, no ticket booth, and nothing to pay for on the trail itself, so this isn't a place where tipping or cash matters, just bring water and decent shoes, since the stone steps get slippery when humid or after rain. The biggest mistake first-timers make is underestimating the stairs because the total distance looks short on a map; treat it like a real, sweaty climb, not a stroll.
 
-If the main viewpoint feels too packed, walk another ten minutes along the ridge trail toward Thumb Mountain — the crowd thins dramatically and the skyline view barely changes.
+If the main viewpoint feels too packed, walk another ten minutes along the ridge trail toward Thumb Mountain, the crowd thins dramatically and the skyline view barely changes.
 
 ## Nearby
 

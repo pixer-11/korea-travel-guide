@@ -76,31 +76,31 @@ aiGenerated: true
 
 You don't so much "arrive" at Addiction Aquatic Development as get swallowed by it. It's a working seafood wholesale market that's been reengineered into a food hall, and the layout still shows it: refrigerated glass cases of tuna loins, spot prawns, and oysters on ice run down one side, a sushi counter wraps around the fish-butchery station, and beyond that sits a raw bar, a grill station, and a proper sit-down restaurant with its own menu.
 
-There's no single "table" experience here — you build your own meal by walking the aisles, tray in hand, the way you'd move through a food court, except the ingredients are still glistening from the morning auction.
+There's no single "table" experience here, you build your own meal by walking the aisles, tray in hand, the way you'd move through a food court, except the ingredients are still glistening from the morning auction.
 
 ## What to actually eat
 
-The move that most people make first is the sushi and sashimi counter, where chefs slice tuna to order from whole loins racked up behind the glass — you can watch your otoro get cut. Trays of nigiri and chirashi bowls go fast, so don't dawdle if you spot a good-looking piece. The self-grill section (烤鮮) lets you pick live or fresh shellfish, scallops, and fish from the case and have it grilled on the spot, char and all — this is where the place smells like a Japanese izakaya crossed with a fish market, salt and smoke drifting over the ice bins.
+The move that most people make first is the sushi and sashimi counter, where chefs slice tuna to order from whole loins racked up behind the glass (you can watch your otoro get cut. Trays of nigiri and chirashi bowls go fast, so don't dawdle if you spot a good-looking piece. The self-grill section (烤鮮) lets you pick live or fresh shellfish, scallops, and fish from the case and have it grilled on the spot, char and all) this is where the place smells like a Japanese izakaya crossed with a fish market, salt and smoke drifting over the ice bins.
 
 There's also a dedicated oyster bar for slurping them raw with lemon, and a hot-food counter serving seafood congee, chowders, and grilled fish set meals if you want to sit and eat properly rather than graze standing up. Don't skip the salmon roe and uni, both usually cheaper here than at standalone sushi restaurants in the city.
 
 ## The rhythm of the place
 
-By late morning on weekends the aisles between the ice cases fill in with trays and elbows, and the queue for the sushi counter can snake well past the oyster bar — the data on foot traffic backs this up, with 9am to 3pm on Saturday and Sunday being the peak crush. Weekday mornings feel like a completely different building: fishmongers restocking cases, a scattering of locals doing actual grocery shopping, and short or no lines at the counters.
+By late morning on weekends the aisles between the ice cases fill in with trays and elbows, and the queue for the sushi counter can snake well past the oyster bar, the data on foot traffic backs this up, with 9am to 3pm on Saturday and Sunday being the peak crush. Weekday mornings feel like a completely different building: fishmongers restocking cases, a scattering of locals doing actual grocery shopping, and short or no lines at the counters.
 
 If you're set on going on a weekend, the calm window is late, from around 9pm to closing at 10:30pm, when the crowds have thinned and the fish is still fresh from the day's turnover.
 
 ## Getting there
 
-The market sits in Zhongshan District on Minzu E Road, tucked down a lane off the main road — it's not walkable from a nearby MRT exit, so plan for a taxi or the Minzu/Zhongshan bus lines, or a ten-to-fifteen minute cab ride from Zhongshan or Minquan W. Road MRT stations (both on the Red/Green lines). Confirm your route with a map app before setting off, since the alley entrance is easy to miss on foot.
+The market sits in Zhongshan District on Minzu E Road, tucked down a lane off the main road. It's not walkable from a nearby MRT exit, so plan for a taxi or the Minzu/Zhongshan bus lines, or a ten-to-fifteen minute cab ride from Zhongshan or Minquan W. Road MRT stations (both on the Red/Green lines). Confirm your route with a map app before setting off, since the alley entrance is easy to miss on foot.
 
 ## How to visit like a local
 
-Bring a bit of patience and treat it like a market, not a restaurant with a host stand — there's no reservation system for the sushi or grill counters, you simply join whichever line looks shortest and pay per station as you go, mostly by card or mobile pay (Line Pay and major cards are widely accepted, though a bit of cash is handy for smaller stalls).
+Bring a bit of patience and treat it like a market, not a restaurant with a host stand. There's no reservation system for the sushi or grill counters, you simply join whichever line looks shortest and pay per station as you go, mostly by card or mobile pay (Line Pay and major cards are widely accepted, though a bit of cash is handy for smaller stalls).
 
-The biggest tourist mistake is trying to eat everything from one counter — locals hop between stations, buying a little sashimi here, a grilled scallop there, an oyster or two elsewhere, then eating standing at the shared counters or wandering tables. Go hungry but order in small rounds so nothing sits and loses its chill. Since this is a very popular, often-packed spot rather than a quiet find, the smartest play for avoiding the scrum is timing: weekday mornings right after the 7am opening, or the last hour before the 10:30pm close, when the aisles are far easier to move through than the weekend midday rush.
+The biggest tourist mistake is trying to eat everything from one counter, locals hop between stations, buying a little sashimi here, a grilled scallop there, an oyster or two elsewhere, then eating standing at the shared counters or wandering tables. Go hungry but order in small rounds so nothing sits and loses its chill. Since this is a very popular, often-packed spot rather than a quiet find, the smartest play for avoiding the scrum is timing: weekday mornings right after the 7am opening, or the last hour before the 10:30pm close, when the aisles are far easier to move through than the weekend midday rush.
 
 ## Beyond the market
 
-Once you're done, the surrounding Zhongshan/Minzu neighborhood is mostly residential and low-key, so most visitors treat Addiction as a standalone destination rather than one stop on a longer itinerary — budget 45 minutes to an hour and a half depending on how many counters you want to work through, longer if you sit down for a full meal at the restaurant section.
+Once you're done, the surrounding Zhongshan/Minzu neighborhood is mostly residential and low-key, so most visitors treat Addiction as a standalone destination rather than one stop on a longer itinerary. Budget 45 minutes to an hour and a half depending on how many counters you want to work through, longer if you sit down for a full meal at the restaurant section.
 

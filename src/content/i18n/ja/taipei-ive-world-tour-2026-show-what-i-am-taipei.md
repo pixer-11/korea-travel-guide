@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: taipei-ive-world-tour-2026-show-what-i-am-taipei
-srcHash: '16423356a91f'
+srcHash: '09948e6d9ba9'
 title: IVE ワールドツアー 2026「SHOW WHAT I AM」台北公演:知っておきたいこと(台北)
 description: 2026年9月11日~13日、台湾・台北で開催されるIVEワールドツアー「SHOW WHAT I AM」台北公演について。概要、日時と会場、旅程の立て方を解説します。
 quickAnswer: IVEはワールドツアー「SHOW WHAT I AM」で、2026年9月11日から13日までの3夜連続、台北アリーナ(Taipei Arena)に登場します。「After Like」や「Love Dive」、最新EPの楽曲を軸にしたアリーナ規模のステージが予想され、松山区(Songshan District)の会場には毎晩数万人のファンが集結します。チケットの詳細、正式な開場時間、セットリストの詳細は日程以外まだ公式に確定していないため、フライトやホテルを予約する前に必ず公式ツアー・チケット販売チャンネルを確認してください。

@@ -46,7 +46,7 @@ eventFactsAsked: true
 ---
 ## Why this show matters
 
-Kodaline built their name on widescreen, emotionally direct indie-rock — "All I Want," "High Hopes," "The One" — the kind of songs that turned festival fields and arenas alike into singalongs for over a decade. This farewell tour marked the Dublin quartet's official closing chapter, and Bangkok was one of the stops with two dates instead of one, a sign of how deep their fanbase runs in Thailand.
+Kodaline built their name on widescreen, emotionally direct indie-rock ("All I Want," "High Hopes," "The One") the kind of songs that turned festival fields and arenas alike into singalongs for over a decade. This farewell tour marked the Dublin quartet's official closing chapter, and Bangkok was one of the stops with two dates instead of one, a sign of how deep their fanbase runs in Thailand.
 
 The two nights promised a career-spanning setlist in a purpose-built live venue rather than a converted stadium or a multi-act festival bill.
 
@@ -56,21 +56,21 @@ The shows were set for **August 28–29, 2026** at **UOB Live**, the live-music 
 
 ## Getting to EmSphere / UOB Live
 
-EmSphere sits directly beside **Phrom Phong BTS Station** (Sukhumvit Line), connected via skywalk — this is by far the easiest way in, especially with concert-night traffic on Sukhumvit. From the station, signage points toward EmQuartier/EmSphere; the complex links all three "Em" buildings (Emporium, EmQuartier, EmSphere) at upper levels, so you can cut through air-conditioned malls rather than walking the street. Taxis and ride-hailing apps (Grab is standard in Bangkok) are workable but slow on show nights; the BTS is the more dependable option.
+EmSphere sits directly beside **Phrom Phong BTS Station** (Sukhumvit Line), connected via skywalk. This is by far the easiest way in, especially with concert-night traffic on Sukhumvit. From the station, signage points toward EmQuartier/EmSphere; the complex links all three "Em" buildings (Emporium, EmQuartier, EmSphere) at upper levels, so you can cut through air-conditioned malls rather than walking the street. Taxis and ride-hailing apps (Grab is standard in Bangkok) are workable but slow on show nights; the BTS is the more dependable option.
 
 ## What to expect inside
 
 UOB Live hosts touring pop, rock, and K-pop-scale acts, with a professional sound and lighting rig sized for a proper arena set rather than a club gig. Bag checks and security screening are standard at Bangkok's larger venues, and concertgoers commonly turn up 45 minutes to an hour before doors.
 
-Merchandise stands and simple food/drink kiosks are typical for this size of venue, though not a full meal — EmQuartier and EmSphere have plenty of restaurants and food courts beforehand.
+Merchandise stands and simple food/drink kiosks are typical for this size of venue, though not a full meal, EmQuartier and EmSphere have plenty of restaurants and food courts beforehand.
 
 ## Making a trip of it
 
-Since the run spanned two consecutive nights, fans travelling from abroad often base themselves in the Sukhumvit/Phrom Phong/Thong Lo area to minimise commute fatigue — it sits within a few BTS stops of the venue and inside one of Bangkok's densest restaurant-and-nightlife corridors. August falls in Bangkok's rainy season, when a light poncho or umbrella earns its keep, though most of the route between transit and the venue is covered by the mall skywalks.
+Since the run spanned two consecutive nights, fans travelling from abroad often base themselves in the Sukhumvit/Phrom Phong/Thong Lo area to minimise commute fatigue, it sits within a few BTS stops of the venue and inside one of Bangkok's densest restaurant-and-nightlife corridors. August falls in Bangkok's rainy season, when a light poncho or umbrella earns its keep, though most of the route between transit and the venue is covered by the mall skywalks.
 
 ## How to visit like a local
 
-Bangkok concertgoers overwhelmingly arrive by BTS rather than driving — the Sukhumvit Line to Phrom Phong Station beats fighting traffic. Tickets for major touring shows in Thailand are typically sold through official online platforms rather than at the door, and entry lines build fast in the hour before doors, so locals who care about floor position show up well ahead rather than at showtime.
+Bangkok concertgoers overwhelmingly arrive by BTS rather than driving, the Sukhumvit Line to Phrom Phong Station beats fighting traffic. Tickets for major touring shows in Thailand are typically sold through official online platforms rather than at the door, and entry lines build fast in the hour before doors, so locals who care about floor position show up well ahead rather than at showtime.
 
 Cash is still widely used at food stalls and small vendors around EmQuartier/EmSphere, but the malls themselves are fully card- and mobile-payment friendly, so little Thai baht is needed for the venue itself. Tipping isn't expected at concerts or in mall food courts; it's more a restaurant-and-service custom, and even then it's modest. The single biggest mistake international fans make is underestimating Sukhumvit traffic and cutting the commute close.
 

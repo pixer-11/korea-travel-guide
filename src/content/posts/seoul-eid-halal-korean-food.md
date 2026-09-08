@@ -70,11 +70,11 @@ aiGenerated: true
 
 ## Why go
 
-Halal Korean food sounds like a contradiction to many first-time visitors — soy sauce, gochujang, and pork are the backbone of most Korean menus — but Itaewon's Usadan-ro neighborhood has quietly built a small halal food district around the Seoul Central Mosque, and EID Halal Korean Food is one of the standout kitchens there. It takes staples like bulgogi, dak-galbi, and fried chicken and reworks them with halal-certified meat and modified sauces, so Muslim travelers (and anyone curious) can eat Korean comfort food without compromise. With a 4.5-star rating across nearly 1,200 reviews, it's become a reliable stop rather than a novelty act.
+Halal Korean food sounds like a contradiction to many first-time visitors (soy sauce, gochujang, and pork are the backbone of most Korean menus), but Itaewon's Usadan-ro neighborhood has quietly built a small halal food district around the Seoul Central Mosque, and EID Halal Korean Food is one of the standout kitchens there. It takes staples like bulgogi, dak-galbi, and fried chicken and reworks them with halal-certified meat and modified sauces, so Muslim travelers (and anyone curious) can eat Korean comfort food without compromise. With a 4.5-star rating across nearly 1,200 reviews, it's become a reliable stop rather than a novelty act.
 
 ## Getting there
 
-The restaurant sits at 15 Usadan-ro 10-gil in Yongsan District, on the hill just below the Seoul Central Mosque — Korea's largest and oldest mosque, built in 1976. The easiest approach is Itaewon Station (Line 6), Exit 3. From there, walk uphill along Usadan-ro; the street climbs steadily and narrows into the alleys that make up what locals call the "Muslim street" or Halal Row, lined with Turkish, Pakistani, Egyptian, and Korean-halal-fusion eateries.
+The restaurant sits at 15 Usadan-ro 10-gil in Yongsan District, on the hill just below the Seoul Central Mosque, Korea's largest and oldest mosque, built in 1976. The easiest approach is Itaewon Station (Line 6), Exit 3. From there, walk uphill along Usadan-ro; the street climbs steadily and narrows into the alleys that make up what locals call the "Muslim street" or Halal Row, lined with Turkish, Pakistani, Egyptian, and Korean-halal-fusion eateries.
 
 It's roughly a 10–12 minute uphill walk from the station, so budget extra time if you're visiting in summer heat or with kids.
 
@@ -82,7 +82,7 @@ It's roughly a 10–12 minute uphill walk from the station, so budget extra time
 
 The draw here is Korean dishes most non-halal visitors take for granted, made accessible: halal bulgogi (marinated beef slices grilled and served with rice), dak-galbi (spicy stir-fried chicken with vegetables and rice cakes), and Korean-style fried chicken, often glazed in a sweet-spicy sauce. Portions tend to be generous for the price level (a solid mid-range value, roughly ₩10,000–20,000 depending on the dish), and many dishes come with the expected banchan (side dishes) like kimchi and pickled radish, though preparation methods are adapted for halal compliance.
 
-Menus typically list halal certification info, and staff are used to fielding questions from visitors unfamiliar with how Korean flavors translate without pork or alcohol-based ingredients — don't hesitate to ask before ordering if you have specific dietary concerns.
+Menus typically list halal certification info, and staff are used to fielding questions from visitors unfamiliar with how Korean flavors translate without pork or alcohol-based ingredients. Don't hesitate to ask before ordering if you have specific dietary concerns.
 
 ## When to go
 
@@ -90,6 +90,6 @@ Lunch (roughly 12–2pm) and early dinner (6–7:30pm) are the busiest windows, 
 
 ## Nearby & tips
 
-Since you're already climbing the hill, extend the visit: the Seoul Central Mosque itself is open to respectful visitors outside prayer times and is worth a quiet ten-minute look, and the surrounding lanes have small halal grocery stores, Turkish bakeries, and hijab and modest-fashion shops worth browsing. Itaewon's main strip — with its bars, international restaurants, and the Leeum Museum of Art a short taxi ride away — is close enough to combine into a half-day itinerary.
+Since you're already climbing the hill, extend the visit: the Seoul Central Mosque itself is open to respectful visitors outside prayer times and is worth a quiet ten-minute look, and the surrounding lanes have small halal grocery stores, Turkish bakeries, and hijab and modest-fashion shops worth browsing. Itaewon's main strip (with its bars, international restaurants, and the Leeum Museum of Art a short taxi ride away) is close enough to combine into a half-day itinerary.
 
 Cash and card are both generally accepted, but as with most small independent Seoul eateries, having some cash on hand smooths things over if the card reader is briefly down. Seating is limited, so groups larger than four might have a short wait during peak hours.

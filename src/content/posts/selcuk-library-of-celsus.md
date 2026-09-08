@@ -70,31 +70,31 @@ draft: false
 ---
 ## Why the Library of Celsus stops people mid-step
 
-You round a bend on Curetes Street and it just appears — two tiers of columns, niches, and carved pediments rising against the sky. Nothing else at Ephesus prepares you for the scale of that facade up close.
+You round a bend on Curetes Street and it just appears, two tiers of columns, niches, and carved pediments rising against the sky. Nothing else at Ephesus prepares you for the scale of that facade up close.
 
-Built around 117 AD as a monument to the Roman senator Tiberius Julius Celsus Polemaeanus, it once held thousands of scrolls. The four statues in the lower niches — copies of Sophia, Arete, Ennoia, and Episteme (Wisdom, Virtue, Thought, Knowledge) — still stare out over the square where crowds gather for photos.
+Built around 117 AD as a monument to the Roman senator Tiberius Julius Celsus Polemaeanus, it once held thousands of scrolls. The four statues in the lower niches (copies of Sophia, Arete, Ennoia, and Episteme (Wisdom, Virtue, Thought, Knowledge)) still stare out over the square where crowds gather for photos.
 
 ## Getting there and getting in
 
 Selçuk is the base town, about 3km from the Ephesus site entrance. Taxis, dolmuş minibuses, and organized tours from Selçuk or Kuşadası all run here regularly.
 
-Ephesus has two entrances: the upper gate near Magnesia and the lower gate on Harbor Street. Most people enter upper and walk downhill, arriving at the Library of Celsus roughly two-thirds through the route — plan on it being a highlight partway through your visit, not the very start.
+Ephesus has two entrances: the upper gate near Magnesia and the lower gate on Harbor Street. Most people enter upper and walk downhill, arriving at the Library of Celsus roughly two-thirds through the route. Plan on it being a highlight partway through your visit, not the very start.
 
 The site is open daily from 8am to 6pm. There's no midday closure, so a slow start or a late-afternoon arrival both work within those hours.
 
 ## What you'll actually see up close
 
-The facade itself is what everyone comes for — two stories of Corinthian columns, curved and triangular pediments, and detailed relief carving that's survived reconstruction after an earthquake toppled much of it centuries ago. What stands today is largely a 1970s anastylosis (reassembly of original fragments), not a full ruin left untouched.
+The facade itself is what everyone comes for, two stories of Corinthian columns, curved and triangular pediments, and detailed relief carving that's survived reconstruction after an earthquake toppled much of it centuries ago. What stands today is largely a 1970s anastylosis (reassembly of original fragments), not a full ruin left untouched.
 
 Just behind the library's grand entrance sits the Gate of Mazeus and Mithridates, a smaller triple archway leading into the agora. A few practical notes:
 
-- The library facade faces east, so morning light hits it directly — better for photos than midday glare
+- The library facade faces east, so morning light hits it directly, better for photos than midday glare
 - The marble terrace gets slick and crowded fast once tour groups converge, so don't expect to linger undisturbed after mid-morning
-- Wear real walking shoes — the surrounding streets are uneven ancient stone, not pavement
+- Wear real walking shoes. The surrounding streets are uneven ancient stone, not pavement
 
 ## When to go to avoid the crush
 
-This is one of the most visited ruins in Turkey, and it shows. On weekends, the calmest window is right at opening, 8am to 10am, before buses from coastal resorts arrive. Weekend crowds peak hard between 11am and 5pm — try not to arrive then if you have any flexibility.
+This is one of the most visited ruins in Turkey, and it shows. On weekends, the calmest window is right at opening, 8am to 10am, before buses from coastal resorts arrive. Weekend crowds peak hard between 11am and 5pm. Try not to arrive then if you have any flexibility.
 
 Weekdays are steadier throughout the full 8am–6pm stretch, without the same sharp midday spike. If your schedule allows only a weekday visit, you're already ahead of the crowds without needing to chase a specific hour.
 
@@ -102,11 +102,11 @@ Spring and autumn bring milder temperatures than the brutal Aegean summer heat, 
 
 ## How to visit like a local
 
-Ephesus draws heavy tour-bus traffic, so timing matters more than any other single decision you'll make here. Arrive at opening, or if it's a weekend, come before 10am — you'll get the library's terrace with a fraction of the later crowd.
+Ephesus draws heavy tour-bus traffic, so timing matters more than any other single decision you'll make here. Arrive at opening, or if it's a weekend, come before 10am. You'll get the library's terrace with a fraction of the later crowd.
 
-- Buy tickets and any required Terrace Houses add-on ticket online or at the entrance before entering — there's no ticket booth once you're inside the site
+- Buy tickets and any required Terrace Houses add-on ticket online or at the entrance before entering. There's no ticket booth once you're inside the site
 - Bring water; there are no useful shade breaks along Curetes Street
-- A licensed guide at the entrance can add real context, but isn't required — informational signage exists throughout
+- A licensed guide at the entrance can add real context, but isn't required, informational signage exists throughout
 - Budget three to four hours to walk the full site at an unhurried pace, more if you add the Terrace Houses
 
-The single biggest mistake visitors make is treating the Library of Celsus as a quick photo stop rather than pacing themselves for the whole site. Ephesus is large, mostly unshaded, and the library sits roughly two-thirds along the standard route — arrive tired and rushed, and you'll shortchange the very thing you came to see.
+The single biggest mistake visitors make is treating the Library of Celsus as a quick photo stop rather than pacing themselves for the whole site. Ephesus is large, mostly unshaded, and the library sits roughly two-thirds along the standard route. Arrive tired and rushed, and you'll shortchange the very thing you came to see.

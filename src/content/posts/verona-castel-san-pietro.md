@@ -61,7 +61,7 @@ aiGenerated: true
 ---
 ## Why go
 
-You come here for one thing: the view. From the terrace in front of Castel San Pietro, Verona unrolls beneath you — orange rooftops, the curve of the Adige, the Roman Theatre tucked into the hillside just below.
+You come here for one thing: the view. From the terrace in front of Castel San Pietro, Verona unrolls beneath you, orange rooftops, the curve of the Adige, the Roman Theatre tucked into the hillside just below.
 
 It's the kind of vista postcards can't quite capture, because postcards don't have wind, or the smell of cut grass drifting up from the park, or the low hum of the city traffic far below.
 
@@ -73,7 +73,7 @@ Castel San Pietro sits on Piazzale Castel San Pietro, on the east bank of the Ad
 
 You have two realistic ways up:
 
-- **Walk**: cross Ponte Pietra, the old Roman bridge, then climb the stepped path (Scalone Castel San Pietro) — about 10–15 minutes of steady uphill effort.
+- **Walk**: cross Ponte Pietra, the old Roman bridge, then climb the stepped path (Scalone Castel San Pietro), about 10–15 minutes of steady uphill effort.
 - **Ride**: a small funicular connects the riverside near Ponte Pietra to the hilltop in under two minutes, sparing you the stairs.
 
 Either way, you land right at the terrace, with the fortress gates just behind you.
@@ -84,28 +84,28 @@ The terrace itself is the main event, and it's worth lingering rather than snapp
 
 Look for:
 
-- **The full skyline sweep** — Torre dei Lamberti, the Duomo's bell tower, and the Arena roofline all visible in one frame.
-- **The Roman Theatre directly below**, still used for summer performances — you get a bird's-eye view of its stage and seating bowl.
+- **The full skyline sweep**, Torre dei Lamberti, the Duomo's bell tower, and the Arena roofline all visible in one frame.
+- **The Roman Theatre directly below**, still used for summer performances, you get a bird's-eye view of its stage and seating bowl.
 - **The Adige's hairpin bend**, which explains why this hill was fortified by nearly every power that ever held Verona, from Romans to Visconti to Austrians.
 
 Give yourself 30–45 minutes: enough time to walk the terrace end to end, read the information panels, and just sit for a while.
 
 ## When to go
 
-The site is open every day from 10:30am to 4:30pm — there's no evening access, so sunset visits aren't possible here.
+The site is open every day from 10:30am to 4:30pm. There's no evening access, so sunset visits aren't possible here.
 
 Weekends get busy between 11am and 4pm, which is exactly the window most day-trippers arrive after climbing up from the old town. If you can, aim for a weekday morning, arriving close to opening at 10:30am, when the light is softer and the terrace has more breathing room.
 
-Because it's a well-visited spot with a strong reputation among visitors, don't expect solitude even off-peak — just less of a crowd than midday on a Saturday.
+Because it's a well-visited spot with a strong reputation among visitors, don't expect solitude even off-peak, just less of a crowd than midday on a Saturday.
 
 ## How to visit like a local
 
-Treat this as a short, focused outing rather than a half-day excursion — that's how most people who live nearby actually use it.
+Treat this as a short, focused outing rather than a half-day excursion. That's how most people who live nearby actually use it.
 
 - **Pay nothing, or almost nothing**: the terrace itself is free to access; only the funicular ride typically carries a small fare, payable at the base station.
-- **Time it around the theatre**: if there's a daytime rehearsal or matinee at the Roman Theatre below, the terrace fills with people watching or listening from above — worth checking the schedule before you climb up, since the site itself closes in the late afternoon.
+- **Time it around the theatre**: if there's a daytime rehearsal or matinee at the Roman Theatre below, the terrace fills with people watching or listening from above, worth checking the schedule before you climb up, since the site itself closes in the late afternoon.
 - **Skip the queue logic**: there's no ticket booth to reserve ahead for the terrace itself, so the only real strategy is arriving before the late-morning surge.
 - **Bring water, not much else**: there are no shops or cafés right at the top, so grab something to drink before you climb or ride up.
-- **The common mistake**: tourists often assume they can tour the castle's interior. They can't — it's closed to visitors — so don't build your schedule around going inside.
+- **The common mistake**: tourists often assume they can tour the castle's interior. They can't, it's closed to visitors, so don't build your schedule around going inside.
 
 Combine the visit with a walk across Ponte Pietra on the way back down; the bridge itself, rebuilt after WWII bombing using original Roman stones where possible, is worth the slow crossing.

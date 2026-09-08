@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bocaue-post-malone-live-in-manila
-srcHash: 'e07924a398ef'
+srcHash: '060a1fa56a99'
 title: 波斯特·马龙马尼拉演唱会须知(布拉考)
 description: 波斯特·马龙(Post Malone)菲律宾马尼拉区演唱会，地点在布拉考(Bocaue)——2026年9月29日举行。演出详情、时间地点，以及行程规划建议。
 quickAnswer: 波斯特·马龙将于2026年9月29日在布拉考(Bocaue)、布拉干省(Bulacan)的菲律宾大竞技场(Philippine Arena)举办演唱会，这是他最新世界巡演的一站。入场及开场时间目前尚未正式公布，因此请将这个日期作为基准，在预订机票、酒店或门票之前，务必查阅菲律宾大竞技场官方渠道及波斯特·马龙本人的巡演页面以获取最新信息。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yeosu-keunkkeut-lighthouse
-srcHash: '94488672ad4e'
+srcHash: '622e9205212d'
 title: 'Faro Keunkkeut (큰끝등대): Guía de viaje de Yeosu'
 description: El 큰끝등대 (Faro Keunkkeut) es un pequeño faro blanco situado en la punta sureste de la isla Dolsan, en Yeosu, ideal para visitar al atardecer o al amanecer por sus vistas abiertas hacia el estrecho de Namhae.
 quickAnswer: El 큰끝등대 (Faro Keunkkeut) es un pequeño faro blanco situado en la punta sureste de la isla Dolsan, en Yeosu, ideal para visitar al atardecer o al amanecer por sus vistas abiertas hacia el estrecho de Namhae. Es un rincón costero tranquilo y poco concurrido, al que se llega mejor en coche o taxi desde el centro de Yeosu, con un breve paseo desde el aparcamiento más cercano; conviene planear entre 30 y 60 minutos allí, más si se combina con un paseo por la costa. Con una valoración de 4.3 sobre 124 reseñas, es una auténtica joya escondida para quienes ya han recorrido Odongdo y Hyangiram.

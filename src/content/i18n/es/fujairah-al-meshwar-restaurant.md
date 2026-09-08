@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-al-meshwar-restaurant
-srcHash: '84e02f5fdfa2'
+srcHash: 'ff83ad8e18fb'
 title: 'Restaurante Al Meshwar: dónde comer en Fujairah'
 description: Al Meshwar es un concurrido restaurante libanés de parrilla, sin lujos, ubicado en Hamad Bin Abdulla Road en Fujairah City, cerca del centro comercial Fujairah City Centre. Es una opción segura para probar parrilladas mixtas, shawarma y mezze a precios moderados (nivel de precio 2 de 4, calificación de 4.1 con más de 3,600 reseñas).
 quickAnswer: Al Meshwar es un concurrido restaurante libanés de parrilla, sin lujos, ubicado en Hamad Bin Abdulla Road en Fujairah City, cerca del centro comercial Fujairah City Centre. Es una opción segura para probar parrilladas mixtas, shawarma y mezze a precios moderados (nivel de precio 2 de 4, calificación de 4.1 con más de 3,600 reseñas). Conviene ir a almorzar o cenar temprano para evitar la hora pico de la noche, y lo mejor es concentrarse en las carnes a la parrilla y el mezze fresco, que es justamente lo que mantiene a este lugar siempre lleno.

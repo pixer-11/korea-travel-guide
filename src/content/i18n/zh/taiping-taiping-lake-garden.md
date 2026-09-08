@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taiping-taiping-lake-garden
-srcHash: '1228049cf07e'
+srcHash: '5fa6643a9994'
 title: 太平湖滨公园（Taiping Lake Garden）旅行指南
 description: 太平湖滨公园（Taman Tasik Taiping）由废弃锡矿湖改造而成，是一座免费开放的露天公园，清晨或傍晚时分光线穿过巨型雨树的树冠，是最佳游览时机。
 quickAnswer: 太平湖滨公园（Taman Tasik Taiping）由废弃锡矿湖改造而成，是一座免费开放的露天公园，清晨或傍晚时分光线穿过巨型雨树的树冠，是最佳游览时机。沿湖走一圈、留意园内常见的犀鸟、穿过几座拱桥，大约需要1.5—2小时。平日这里十分清静，很多时候一整段湖岸都只有你一人。

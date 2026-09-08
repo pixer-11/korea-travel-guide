@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-ain-al-ain-museum
-srcHash: 'b23394f1372f'
+srcHash: 'dae32fb8ddd5'
 title: 'Museo de Al Ain: Guía de viaje (4,4★)'
 description: 'El Museo de Al Ain se encuentra dentro del recinto del Oasis de Al Ain (Al Ain Oasis), justo al lado del Fuerte Al Jahili, y recorre desde las herramientas de la Edad de Piedra hasta la era de los Estados de la Tregua previa al petróleo en un puñado de salas tranquilas. 4,4★ (1.088 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de Al Ain se encuentra dentro del recinto del Oasis de Al Ain, justo al lado del Fuerte Al Jahili, y recorre desde las herramientas de la Edad de Piedra hasta la era de los Estados de la Tregua previa al petróleo en un puñado de salas tranquilas. Abre todos los días de 9:00 a 19:00, la entrada tiene un precio modesto y una hora basta salvo que se detenga a fondo en el archivo fotográfico. Conviene ir una mañana de entre semana: es uno de los museos más tranquilos de Al Ain, así que a menudo tendrá las salas para usted solo.'

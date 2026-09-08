@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ubud-campuhan-ridge-walk
-srcHash: 'caa81b1dd555'
+srcHash: '974766eee532'
 title: 干普安山脊步道(Campuhan Ridge Walk):乌布(Ubud)旅行指南(4.3★)
 description: 干普安山脊步道(Campuhan Ridge Walk)是乌布(Ubud)市中心一条免费、24小时开放的山脊步道，距乌布皇宫(Ubud Palace)约10分钟步行路程。4.3★(17,992条评价)——游客怎么说、开放时间及实用小贴士。
 quickAnswer: 干普安山脊步道(Campuhan Ridge Walk)是乌布(Ubud)市中心一条免费、24小时开放的山脊步道，距乌布皇宫(Ubud Palace)约10分钟步行路程。建议工作日早上7点到8点前往，这时游客最少;周末从早上8点到晚上人流一直较多，出行时最好避开这个时段。往返步行至卡萨咖啡馆(Karsa Kafe)再返回大约需要1到1.5小时。

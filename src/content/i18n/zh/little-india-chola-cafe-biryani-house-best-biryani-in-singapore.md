@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: little-india-chola-cafe-biryani-house-best-biryani-in-singapore
-srcHash: '4e4dce7071cc'
+srcHash: 'db0d6c015a28'
 title: Chola Cafe - Biryani House——新加坡最好吃的印度香饭：小印度旅行指南
 description: Chola Cafe - Biryani House 坐落在小印度一条僻静的小街上，距小印度地铁站（Little India MRT，E出口）步行不远，建议避开午餐高峰时段前往（刚开门的12:10，或1:30以后），这样才能不用排队就有位子。
 quickAnswer: Chola Cafe - Biryani House 坐落在小印度一条僻静的小街上，距小印度地铁站（Little India MRT，E出口）步行不远，建议避开午餐高峰时段前往（刚开门的12:10，或1:30以后），这样才能不用排队就有位子。这里主打慢煮羊肉或鸡肉香饭（biryani），配上常见的酸奶黄瓜（raita）和茄子咖喱（brinjal curry），店内是朴实的大排档式布置，而非精致的用餐环境。如果你想找一家低调、不用排长队的香饭小店，而非实龙岗路（Serangoon Road）上那些常常大排长龙的名店，这里绝对是个好选择。

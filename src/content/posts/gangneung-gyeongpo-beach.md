@@ -85,7 +85,7 @@ updatedDate: '2026-09-02'
 
 Gyeongpo Beach is the best-known beach in Gangwon-do for good reason: roughly 6 kilometers of wide, firm sand facing due east, backed by a dense pine forest (the Gyeongpo Pine Grove) that gives the shoreline shade and a windbreak most Korean beach towns lack. It's rated 4.4 by over 8,000 reviewers, and it's one of the more reliable spots on the east coast to watch a sunrise, since the beach faces open water with no headland blocking the horizon.
 
-Locals also come for the adjoining Gyeongpo Lake, a lagoon just inland separated from the sea by a thin strip of dunes and pines — a rare pairing of lake and ocean scenery within walking distance of each other.
+Locals also come for the adjoining Gyeongpo Lake, a lagoon just inland separated from the sea by a thin strip of dunes and pines, a rare pairing of lake and ocean scenery within walking distance of each other.
 
 ## Getting there
 
@@ -95,15 +95,15 @@ Gyeongpo Beach sits in Gangmun-dong, on the northern edge of Gangneung city, abo
 
 - **Walk the pine grove boardwalk**: A wooden path runs through the Gyeongpo Pine Grove between the parking area and the sand, shaded and good for a slow stroll even in midday heat.
 - **Circle Gyeongpo Lake**: A flat, paved path of about 4 km rings the lake, popular with cyclists and walkers; it passes lotus ponds, a small botanical garden, and Gyeongpodae Pavilion, a Joseon-era pavilion on a hill overlooking the lake, long celebrated in Korean poetry for its reflected-moon views.
-- **Ojukheon House**: A short distance from the lake, this preserved hanok complex is the birthplace of Yi I (Yulgok), one of Korea's most influential Confucian scholars, and his mother Sin Saimdang, the noted painter and calligrapher — worth 30-45 minutes if you're interested in Joseon-dynasty history.
-- **Gangneung coffee street (Anmok)**: Just south along the coast, Anmok Beach's "coffee street" has dozens of independent roasteries and cafés with sea-view seating — Gangneung has branded itself a coffee capital, and this strip (a 10-15 minute drive or bus ride from Gyeongpo) is the reason.
+- **Ojukheon House**: A short distance from the lake, this preserved hanok complex is the birthplace of Yi I (Yulgok), one of Korea's most influential Confucian scholars, and his mother Sin Saimdang, the noted painter and calligrapher, worth 30-45 minutes if you're interested in Joseon-dynasty history.
+- **Gangneung coffee street (Anmok)**: Just south along the coast, Anmok Beach's "coffee street" has dozens of independent roasteries and cafés with sea-view seating, Gangneung has branded itself a coffee capital, and this strip (a 10-15 minute drive or bus ride from Gyeongpo) is the reason.
 - **Seafood and local eats**: The streets behind the beach are packed with restaurants serving grilled fish, *hoe* (raw fish), and *makguksu* (cold buckwheat noodles), a Gangwon specialty worth seeking out.
 - **Swim or just wade**: The water is shallow for a good distance out, making it manageable for families, though lifeguard-patrolled swimming is generally limited to the official summer season.
 
 ## When to go
 
-Late June through August is peak season, when the beach hosts sea-bathing crowds, temporary tent cafés, and evening festivals; expect dense crowds and premium accommodation prices. Spring (April-May) and autumn (September-October) bring milder weather, thinner crowds, and clearer views for sunrise photography. Winter is quiet and cold but atmospheric — the pine grove and empty sand have their own appeal, and it's an easy pairing with a trip to nearby Odaesan or Seoraksan for those visiting Gangwon-do outside summer.
+Late June through August is peak season, when the beach hosts sea-bathing crowds, temporary tent cafés, and evening festivals; expect dense crowds and premium accommodation prices. Spring (April-May) and autumn (September-October) bring milder weather, thinner crowds, and clearer views for sunrise photography. Winter is quiet and cold but atmospheric. The pine grove and empty sand have their own appeal, and it's an easy pairing with a trip to nearby Odaesan or Seoraksan for those visiting Gangwon-do outside summer.
 
 ## Nearby & tips
 
-Combine Gyeongpo with Anmok coffee street, Ojukheon, and the Gangneung Seongyojang historic house (one of Korea's largest surviving traditional aristocratic residences) for a full day around Gangneung. Sunrise is worth setting an alarm for — arrive 20-30 minutes before official sunrise time, which shifts seasonally. Confirm current swimming-season dates, lifeguard hours, and any beach facility fees locally, since these are set annually by the city.
+Combine Gyeongpo with Anmok coffee street, Ojukheon, and the Gangneung Seongyojang historic house (one of Korea's largest surviving traditional aristocratic residences) for a full day around Gangneung. Sunrise is worth setting an alarm for. Arrive 20-30 minutes before official sunrise time, which shifts seasonally. Confirm current swimming-season dates, lifeguard hours, and any beach facility fees locally, since these are set annually by the city.

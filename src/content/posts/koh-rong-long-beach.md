@@ -56,14 +56,14 @@ Long Beach sits on the western side of Koh Rong, facing Sok San village. Most vi
 From Koh Touch, options include:
 
 - A long-tail or speedboat transfer around the coast to Sok San (fastest, usually arranged through your guesthouse)
-- A motorbike taxi or rented bike along the island's central dirt track — scenic but rough, especially after rain
+- A motorbike taxi or rented bike along the island's central dirt track, scenic but rough, especially after rain
 - A guided tuk-tuk trip, common with day-trippers based in Koh Touch
 
 There's no paved road system here, so build extra time into any land crossing.
 
 ## What to see and do
 
-The beach itself is the attraction — walkable, swimmable, and largely undeveloped compared to the rest of Koh Rong. A handful of low-key bungalow resorts and beach bars sit clustered near Sok San, thinning out fast as you head south.
+The beach itself is the attraction, walkable, swimmable, and largely undeveloped compared to the rest of Koh Rong. A handful of low-key bungalow resorts and beach bars sit clustered near Sok San, thinning out fast as you head south.
 
 Worth building into your visit:
 
@@ -72,7 +72,7 @@ Worth building into your visit:
 - Watch sunset from the southern end, away from the resort clusters
 - Snorkel just offshore in calmer weather, though visibility varies with season
 
-Bring your own snorkel gear if you have it — rental options are limited outside the main resorts.
+Bring your own snorkel gear if you have it, rental options are limited outside the main resorts.
 
 ## When to go
 
@@ -84,11 +84,11 @@ Avoid the June-to-October wet season if you can. Storms roll in fast off the Gul
 
 ## How to visit like a local
 
-Come for the day or stay a night in Sok San — either works, but staying over lets you catch the beach at both ends of the light. Cash is essential; there are no ATMs on this side of the island, so bring riel or dollars from Sihanoukville or Koh Touch before you cross.
+Come for the day or stay a night in Sok San, either works, but staying over lets you catch the beach at both ends of the light. Cash is essential; there are no ATMs on this side of the island, so bring riel or dollars from Sihanoukville or Koh Touch before you cross.
 
 Pack out what you bring in. There's minimal rubbish collection infrastructure this far from the main pier, and locals appreciate visitors who treat the beach as it deserves.
 
-Wear sandals for the walk between Koh Touch and Sok San if you go overland — the middle stretch has rocky sections and roots. Locals and long-term expats use "Sok San Beach" interchangeably with "Long Beach," so don't be thrown if a boat driver or guesthouse only recognises one name.
+Wear sandals for the walk between Koh Touch and Sok San if you go overland. The middle stretch has rocky sections and roots. Locals and long-term expats use "Sok San Beach" interchangeably with "Long Beach," so don't be thrown if a boat driver or guesthouse only recognises one name.
 
-The biggest mistake visitors make is treating this as a quick add-on to a Koh Touch party trip. Long Beach rewards slowing down — an afternoon here, unhurried, beats a rushed hour squeezed between boat transfers.
+The biggest mistake visitors make is treating this as a quick add-on to a Koh Touch party trip. Long Beach rewards slowing down, an afternoon here, unhurried, beats a rushed hour squeezed between boat transfers.
 

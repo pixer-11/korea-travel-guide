@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sapporo-mermaid-coffee-roasters
-srcHash: '61d2af8f3c70'
+srcHash: '9a8a93fe959c'
 title: 'Mermaid Coffee Roasters: guía de viaje de Sapporo'
 description: Mermaid Coffee Roasters es una cafetería y tostaduría de especialidad de lotes pequeños en el barrio de Susukino/Minami 3 de Sapporo, a pocos minutos a pie de la estación de Susukino, en la línea Namboku.
 quickAnswer: Mermaid Coffee Roasters es una cafetería y tostaduría de especialidad de lotes pequeños situada en el barrio de Susukino/Minami 3 de Sapporo, a pocos minutos a pie de la estación de Susukino (línea Namboku). Merece la pena ir a tomarse con calma un café de filtro o un espresso en un espacio minimalista lleno de plantas, aunque hay que contar con una pequeña espera, ya que el local tiene legiones de seguidores (4.8 estrellas y más de 1.500 reseñas). Calcula entre 30 y 45 minutos y, si puedes, ve una mañana entre semana para evitar la mayor afluencia de la tarde.

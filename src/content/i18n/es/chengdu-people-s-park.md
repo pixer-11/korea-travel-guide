@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chengdu-people-s-park
-srcHash: 'fe805b2d9cbf'
+srcHash: '2cdd5087fb99'
 title: 'Parque de la Gente: Guía de viaje de Chengdu (4,5★)'
 description: 'El Parque de la Gente es la estampa más cotidiana de Chengdu: un parque arbolado junto a un estanque en el distrito de Qing Yang, célebre por la Casa de Té Heming, los limpiadores de oídos y los vecinos que juegan al mahjong bajo los árboles. 4,5★ (1.069 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque de la Gente es la estampa más cotidiana de Chengdu: un parque arbolado junto a un estanque en el distrito de Qing Yang, célebre por la Casa de Té Heming, los limpiadores de oídos y los vecinos que juegan al mahjong bajo los árboles. Conviene ir un día laborable por la mañana, pedir una taza de té de jazmín por apenas unos yuanes y quedarse sentado durante una hora. Es fácil combinarlo con la cercana Callejuela Kuanzhai (Kuanzhai Alley) para una excursión de medio día.'

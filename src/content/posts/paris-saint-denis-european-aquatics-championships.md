@@ -43,7 +43,7 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The European Aquatics Championships bring together the continent's best swimmers, divers, artistic swimmers, water polo teams and open-water athletes for over two weeks of competition. The 2026 edition was set in the exact infrastructure built for the Paris 2024 Olympic Games — spectators had world-class venues on the programme, such as the Olympic Aquatics Centre, in the same configuration used by Olympic medalists just two years earlier.
+The European Aquatics Championships bring together the continent's best swimmers, divers, artistic swimmers, water polo teams and open-water athletes for over two weeks of competition. The 2026 edition was set in the exact infrastructure built for the Paris 2024 Olympic Games, spectators had world-class venues on the programme, such as the Olympic Aquatics Centre, in the same configuration used by Olympic medalists just two years earlier.
 
 For swimming and diving fans, that meant an Olympic-legacy pool at continental-championship scale rather than Olympic scale, in both atmosphere and price.
 
@@ -53,7 +53,7 @@ The event spanned two adjacent host areas: Paris proper and Saint-Denis, just no
 
 ## What to see
 
-Swimming finals are typically the marquee sessions, drawing the largest crowds and the loudest atmosphere, especially evening finals when relay teams and headline sprinters compete. Diving and artistic swimming (formerly synchronized swimming) tend to run in more intimate venues and are worth catching for the technical precision on display, often overlooked compared to pool swimming. Open water swimming is usually staged outdoors in a natural body of water rather than in a pool — past editions have used rivers or lakes near the host city, and the 2026 open water course was not named in the first round of announcements.
+Swimming finals are typically the marquee sessions, drawing the largest crowds and the loudest atmosphere, especially evening finals when relay teams and headline sprinters compete. Diving and artistic swimming (formerly synchronized swimming) tend to run in more intimate venues and are worth catching for the technical precision on display, often overlooked compared to pool swimming. Open water swimming is usually staged outdoors in a natural body of water rather than in a pool, past editions have used rivers or lakes near the host city, and the 2026 open water course was not named in the first round of announcements.
 
 Water polo matches, often held earlier in the day, are a good lower-key option for competition without the finals-night crowds.
 
@@ -65,6 +65,6 @@ For anyone combining the meet with general Paris tourism, swimming finals in pas
 
 ## Nearby & tips
 
-Saint-Denis itself is worth a couple of hours beyond the aquatics venue — the Basilica of Saint-Denis, burial site of French kings, is a short walk from the RER stations serving the Olympic Centre. In La Défense, the Grande Arche and the open-air sculpture-lined esplanade make for an easy pre- or post-session wander. Because this is a multi-venue, multi-day championship rather than a single-site festival, transport passes covering both central Paris and the northern suburbs (a Navigo day pass, for instance) are more practical than single tickets.
+Saint-Denis itself is worth a couple of hours beyond the aquatics venue, the Basilica of Saint-Denis, burial site of French kings, is a short walk from the RER stations serving the Olympic Centre. In La Défense, the Grande Arche and the open-air sculpture-lined esplanade make for an easy pre- or post-session wander. Because this is a multi-venue, multi-day championship rather than a single-site festival, transport passes covering both central Paris and the northern suburbs (a Navigo day pass, for instance) are more practical than single tickets.
 
 Venue assignments, daily schedules and ticket sales for an event of this scale are usually settled in stages rather than all at once, and late venue or schedule changes are common.

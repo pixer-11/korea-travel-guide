@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-chinajoy
-srcHash: '35f86966e322'
+srcHash: 'bd965e09565f'
 title: 'ChinaJoy 2026 en Shanghái: fechas, sede y entradas'
 description: 'ChinaJoy 2026 en Shanghái: las fechas anunciadas, la sede del NECC en Hongqiao, la estructura de entradas y qué incluye la feria.'
 quickAnswer: ChinaJoy 2026 (China Digital Entertainment Expo) tenía previstas sus fechas del 31 de julio al 3 de agosto de 2026 en Shanghái, en el National Exhibition and Convention Center (NECC), en Hongqiao, sede histórica del evento. La feria combina un segmento profesional (B2B) con uno abierto al público (B2C), y es célebre por sus enormes multitudes, el cosplay y los elaborados pabellones, con categorías de entrada y horarios distintos para cada segmento.

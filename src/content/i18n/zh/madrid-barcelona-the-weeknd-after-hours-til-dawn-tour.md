@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
-srcHash: 'd7d7cfd3e24e'
+srcHash: 'a0cff5fff445'
 title: The Weeknd“After Hours Til Dawn”巡演须知（马德里篇）
 description: The Weeknd的After Hours Til Dawn巡演原定在马德里的Riyadh Air Metropolitano球场连开三场，时间为2026年8月28日至30日，随后于9月1日移师巴塞罗那举办一场。
 quickAnswer: The Weeknd的After Hours Til Dawn巡演在西班牙共安排了四场演出：马德里Riyadh Air Metropolitano球场连开三晚（2026年8月28日至30日），随后是巴塞罗那奥林匹克体育场（Estadi Olímpic Lluís Companys）的一场演出（2026年9月1日），公布的暖场嘉宾是Playboi Carti。马德里场次结束到巴塞罗那演出之间，只留出了一天的休整时间。往返两座城市最实用的方式是AVE高铁，车程约2.5至3小时，对于同时持有两地门票的观众来说是最方便的衔接方式。

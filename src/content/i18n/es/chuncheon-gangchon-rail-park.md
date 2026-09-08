@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chuncheon-gangchon-rail-park
-srcHash: 'c91aab43638e'
+srcHash: '3d0e9659260c'
 title: 'Gangchon Rail Park: Guía de viaje de Chuncheon'
 description: 'Gangchon Rail Park, en Sindong-myeon, a las afueras de Chuncheon, te permite pedalear en bicicletas sobre raíles de cuatro plazas por una antigua línea de tren, a través de túneles y sobre un puente de caballete con vistas al río: un recorrido de unos 40 a 50 minutos que cubre unos 8 km de ida (con traslado de vuelta en autobús).'
 quickAnswer: 'Gangchon Rail Park, en Sindong-myeon, a las afueras de Chuncheon, te permite pedalear en bicicletas sobre raíles de cuatro plazas por una antigua línea de tren, a través de túneles y sobre un puente de caballete con vistas al río: un recorrido de unos 40 a 50 minutos que cubre unos 8 km de ida (con traslado de vuelta en autobús). Abre todos los días de 9:00 a 17:30; ve un día de semana por la mañana, entre las 9 y las 11, para evitar las multitudes, ya que los fines de semana de 11:00 a 17:00 se llena mucho. Reserva tu horario de salida con antelación, por internet o por teléfono, especialmente si vas a visitarlo en fin de semana.'

@@ -66,11 +66,11 @@ The temple sits at 86s, Jalan Balik Pulau, in Ayer Itam, about 20 minutes by car
 
 Rapid Penang bus routes 201, 203, 204, and 502 all stop near the base of the hill, or you can grab a Grab ride, which is cheap and simple for most visitors.
 
-From the drop-off point, a covered market of souvenir stalls and snack vendors leads uphill toward the ticket booths — follow the crowd and the smell of grilled satay.
+From the drop-off point, a covered market of souvenir stalls and snack vendors leads uphill toward the ticket booths, follow the crowd and the smell of grilled satay.
 
 ## What to see
 
-Start at the base with the Ban Po (Ten Thousand Buddhas) Pagoda, a seven-tier tower mixing Chinese octagonal and Thai crown designs — climbing it costs a small separate fee and rewards you with views over Ayer Itam's rooftops.
+Start at the base with the Ban Po (Ten Thousand Buddhas) Pagoda, a seven-tier tower mixing Chinese octagonal and Thai crown designs, climbing it costs a small separate fee and rewards you with views over Ayer Itam's rooftops.
 
 From there, wind up through terraces of smaller shrines, turtle ponds, and prayer-wheel corridors before reaching the inclined lift that saves you the steepest climb to the Kuan Yin statue.
 
@@ -80,7 +80,7 @@ Don't skip:
 - The Hall of Bodhisattvas, thick with incense smoke and murmured chanting
 - The open plaza beneath the Kuan Yin statue, where the wind off the hillside actually cools you down
 
-Up close, the statue's pavilion roof, tiled in green and gold, glints hard in the midday sun — bring sunglasses.
+Up close, the statue's pavilion roof, tiled in green and gold, glints hard in the midday sun. Bring sunglasses.
 
 ## When to go
 
@@ -88,7 +88,7 @@ The temple opens daily from 8:30am to 5:30pm, and arriving close to opening is t
 
 Tour buses from George Town hotels tend to land mid-morning, so the first hour is noticeably calmer, especially on the walkways near the pagoda.
 
-During Chinese New Year, the whole complex is strung with thousands of illuminated lanterns and stays busy well into the evening — spectacular, but crowded, so plan for slower movement through the corridors.
+During Chinese New Year, the whole complex is strung with thousands of illuminated lanterns and stays busy well into the evening, spectacular, but crowded, so plan for slower movement through the corridors.
 
 Afternoon heat builds fast on the exposed upper terraces, so an early or late-afternoon visit is more comfortable than a midday one.
 
@@ -97,12 +97,12 @@ Afternoon heat builds fast on the exposed upper terraces, so an early or late-af
 Kek Lok Si is a working temple, not a museum, so dress and behave accordingly.
 
 - Cover shoulders and knees; sarongs are sometimes available to borrow near the main shrines
-- Pay small fees (pagoda climb, inclined lift, some donation boxes) in cash — ringgit only, and keep small notes handy
+- Pay small fees (pagoda climb, inclined lift, some donation boxes) in cash, ringgit only, and keep small notes handy
 - Remove shoes where signs indicate before entering inner shrine halls
 - Don't point your feet toward Buddha statues when sitting to rest
 - Give way quietly to worshippers lighting incense or praying; this isn't just a photo backdrop for them
 
-Because this is a very popular stop on Penang's tour-bus circuit, the real local trick is timing rather than avoiding it altogether — go at opening, or in the last hour before closing, when the tour groups have mostly cleared out. Walk up rather than taking the lift on the way down; it's free, shaded in parts, and lets you see shrine details you'll otherwise miss riding past.
+Because this is a very popular stop on Penang's tour-bus circuit, the real local trick is timing rather than avoiding it altogether. Go at opening, or in the last hour before closing, when the tour groups have mostly cleared out. Walk up rather than taking the lift on the way down; it's free, shaded in parts, and lets you see shrine details you'll otherwise miss riding past.
 
 ## Nearby to combine
 

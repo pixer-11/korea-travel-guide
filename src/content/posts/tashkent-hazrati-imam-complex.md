@@ -89,13 +89,13 @@ Spring and autumn are the most comfortable seasons weather-wise. Summer in Tashk
 
 ## How to visit like a local
 
-Dress modestly, as this remains an active religious site — shoulders and knees covered for everyone, and a headscarf for women entering prayer areas. Shoes come off before entering the mosque interiors, so slip-on footwear saves you time.
+Dress modestly, as this remains an active religious site, shoulders and knees covered for everyone, and a headscarf for women entering prayer areas. Shoes come off before entering the mosque interiors, so slip-on footwear saves you time.
 
 Entry to the grounds is generally free, though the Quran room sometimes has a small separate fee. Confirm current details on arrival, since these things shift over time.
 
-Photography is allowed in the courtyards but often restricted inside the room holding the Uthman Quran — watch for posted signs rather than assuming. Friday mornings can be busier with worshippers arriving for prayer, so plan around that if you'd rather explore without disruption.
+Photography is allowed in the courtyards but often restricted inside the room holding the Uthman Quran, watch for posted signs rather than assuming. Friday mornings can be busier with worshippers arriving for prayer, so plan around that if you'd rather explore without disruption.
 
-The mistake most first-time visitors make is treating this as a quick photo stop. Slow down, sit on the plaza benches, and watch how locals actually use the space — it's a living mosque complex, not a museum set piece.
+The mistake most first-time visitors make is treating this as a quick photo stop. Slow down, sit on the plaza benches, and watch how locals actually use the space. It's a living mosque complex, not a museum set piece.
 
 Cash is useful for the small artisan stalls inside Barak Khan Madrasah, where woodworkers and miniature painters sell directly from their workshops. Card payment isn't reliably accepted at these smaller stands.
 

@@ -89,7 +89,7 @@ That effort is exactly why the beach still feels open and uncrowded compared to 
 
 Diamond Beach is on Nusa Penida's southeastern flank, near Pejukutan village, within reach of Atuh Beach and Thousand Islands viewpoint. Most visitors come by scooter or hired driver from Sampalan or Toyapakeh harbor, a bumpy 45-60 minute ride over unpaved stretches near the end.
 
-There's no public bus network on Penida — scooter rental or a private car-and-driver package are the realistic options. Park at the clifftop lot, where warungs and drink stalls cluster before the staircase begins.
+There's no public bus network on Penida, scooter rental or a private car-and-driver package are the realistic options. Park at the clifftop lot, where warungs and drink stalls cluster before the staircase begins.
 
 The path down is concrete with rails, but it's steep in sections and can turn slick right after rain.
 
@@ -102,7 +102,7 @@ Bring:
 - Cash for the small beachside warungs
 - Sturdy sandals for the staircase, not flip-flops
 
-Give yourself a good two hours minimum — twenty minutes down, unhurried beach time, and a slower climb back with rest stops.
+Give yourself a good two hours minimum, twenty minutes down, unhurried beach time, and a slower climb back with rest stops.
 
 ## When to go
 
@@ -110,14 +110,14 @@ Gates run 6am to 6pm every day, so there's no early sunrise or late sunset acces
 
 The exception is 10am to 3pm on weekends, when tour groups and day-trippers stack up on the staircase and sand. If you can, aim for the first or last couple of hours the gate is open.
 
-Dry season, roughly April through October, gives you calmer seas and a firmer staircase surface — useful given how exposed the descent is to weather.
+Dry season, roughly April through October, gives you calmer seas and a firmer staircase surface, useful given how exposed the descent is to weather.
 
 ## How to visit like a local
 
 Diamond Beach is firmly on the Nusa Penida circuit now, not a quiet find, so the smart move is timing rather than hoping for solitude. Arrive close to 6am opening or after 3pm, matching the crowd data's low-traffic window, and you'll get long stretches of empty sand.
 
-Pay at the warungs in cash — small denominations, since change can be scarce this far from a bank. There's typically no formal entry fee to the beach itself, but parking and staircase-adjacent stalls run small, informal charges; keep some rupiah loose for that.
+Pay at the warungs in cash, small denominations, since change can be scarce this far from a bank. There's typically no formal entry fee to the beach itself, but parking and staircase-adjacent stalls run small, informal charges; keep some rupiah loose for that.
 
-The staircase has no real shoulder for passing, so locals and drivers move single file and let faster walkers go first — do the same rather than pushing past on the outside edge. Don't attempt to swim past the shallows; the undertow here is a genuine hazard, not a formality.
+The staircase has no real shoulder for passing, so locals and drivers move single file and let faster walkers go first. Do the same rather than pushing past on the outside edge. Don't attempt to swim past the shallows; the undertow here is a genuine hazard, not a formality.
 
-Most visitors combine Diamond Beach with Atuh Beach in the same trip since they share a parking and access area — plan the pairing rather than doing separate round trips. The single biggest mistake newcomers make is underestimating the climb back up in full midday sun; carry more water than feels necessary and pace the ascent with breaks at the rest points built into the stairs.
+Most visitors combine Diamond Beach with Atuh Beach in the same trip since they share a parking and access area. Plan the pairing rather than doing separate round trips. The single biggest mistake newcomers make is underestimating the climb back up in full midday sun; carry more water than feels necessary and pace the ascent with breaks at the rest points built into the stairs.

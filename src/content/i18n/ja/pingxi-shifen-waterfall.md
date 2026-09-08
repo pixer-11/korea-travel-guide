@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: pingxi-shifen-waterfall
-srcHash: '314f02c7f2aa'
+srcHash: '35f8c1274532'
 title: 十分瀑布(Shifen Waterfall):平溪旅行ガイド(4.5★)
 description: 十分瀑布(Shifen Waterfall)は幅40メートルという台湾最大幅の瀑布で、平溪線(Pingxi branch line)の十分駅(Shifen Station)から徒歩20分。営業時間は毎日9:00〜17:30。4.5★(29,020件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介。
 quickAnswer: 十分瀑布(Shifen Waterfall)—幅40メートルという台湾最大幅の瀑布—は、平溪線(Pingxi branch line)の十分駅(Shifen Station)から徒歩20分の場所にあり、毎日9:00〜17:30に開いています。週末の13:00〜16:00の混雑を避けるには、平日の9:00〜11:00、または週末なら10:00前に訪れるのがおすすめです。ループ状の遊歩道と展望台を巡るには45分から1時間ほど確保しておきましょう。

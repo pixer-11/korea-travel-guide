@@ -99,7 +99,7 @@ updatedDate: '2026-09-07'
 
 ## First impression
 
-You come off a dusty side street and the striped minaret towers hit first — glazed turquoise, white and ochre banding climbing above a wall that looks almost fortress-plain from outside. That contrast is deliberate. Khudáyár Khán, the last ruler of the Kokand Khanate, wanted a residence that guarded its splendor for those who made it through the gate.
+You come off a dusty side street and the striped minaret towers hit first, glazed turquoise, white and ochre banding climbing above a wall that looks almost fortress-plain from outside. That contrast is deliberate. Khudáyár Khán, the last ruler of the Kokand Khanate, wanted a residence that guarded its splendor for those who made it through the gate.
 
 Only a fraction of the original palace survives. Built in the early 1870s, it once held over a hundred rooms across several courtyards; Russian conquest and later Soviet-era changes stripped most of it away. What's left is still enough to stop you mid-step.
 
@@ -107,7 +107,7 @@ Only a fraction of the original palace survives. Built in the early 1870s, it on
 
 Push through the carved wooden entrance and the tile work opens up on every wall. Panels of majolica in deep blue, green and yellow cover the facades in geometric and floral patterns, unfaded despite a century and a half of Fergana sun.
 
-Wooden columns support carved ceiling beams inside the surviving reception halls. Look up — the painted woodwork here is some of the finest decorative craftsmanship left from 19th-century Central Asian court life.
+Wooden columns support carved ceiling beams inside the surviving reception halls. Look up. The painted woodwork here is some of the finest decorative craftsmanship left from 19th-century Central Asian court life.
 
 A small museum now fills several of the rooms, with displays on Kokand's khanate history, regional archaeology and local applied arts. Signage leans toward Uzbek and Russian, so a guidebook or offline translation app helps fill gaps.
 
@@ -115,7 +115,7 @@ A small museum now fills several of the rooms, with displays on Kokand's khanate
 
 Kokand sits in the Fergana Valley, roughly a 4-5 hour drive or train ride from Tashkent. Most visitors base themselves in Fergana city or Rishtan and day-trip in, since Kokand's own sights cluster tightly enough for a single morning.
 
-The palace stands at Istiqlol St 1, right in the town center. From Kokand's main square it's a walkable distance — a taxi or short stroll past low Soviet-era buildings gets you there without hassle.
+The palace stands at Istiqlol St 1, right in the town center. From Kokand's main square it's a walkable distance, a taxi or short stroll past low Soviet-era buildings gets you there without hassle.
 
 Pair the visit with the nearby Jami Mosque and the mausoleum of Modari Khan, both within easy reach on foot, to make a fuller half-day of Kokand's old town.
 
@@ -125,7 +125,7 @@ The palace opens daily from 9am to 10pm, so there's no rush to arrive at dawn. T
 
 - Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself
 - Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday
-- Weekends 11am–10pm: the busiest window — local families and tour groups fill the courtyard
+- Weekends 11am–10pm: the busiest window, local families and tour groups fill the courtyard
 
 Given the long evening hours, a late-afternoon visit after the weekend crowds thin out is another quiet option worth considering.
 
@@ -135,9 +135,9 @@ This is a well-kept museum, not a bustling bazaar, so the etiquette here leans q
 
 - Buy tickets at the small booth near the entrance; cash in Uzbek som is the safe assumption, though card readers are becoming more common at Uzbek museums.
 - Tipping isn't expected for museum staff or gate attendants.
-- Dress modestly — this was a royal and religious-adjacent residence, and light shoulder/knee coverage is appreciated, especially for photos near the mosque section.
+- Dress modestly. This was a royal and religious-adjacent residence, and light shoulder/knee coverage is appreciated, especially for photos near the mosque section.
 - Ask before photographing museum staff or other visitors; photographing the tilework and architecture itself is generally fine.
-- The mistake most visitors make is rushing through in fifteen minutes en route to Fergana. Slow down at the majolica panels — the pattern work rewards a closer look than a quick pass allows.
+- The mistake most visitors make is rushing through in fifteen minutes en route to Fergana. Slow down at the majolica panels, the pattern work rewards a closer look than a quick pass allows.
 
-Because it's still under-the-radar compared to Samarkand or Bukhara's big-ticket sites, you're unlikely to fight for space even at moderately busy hours. That makes it one of the more relaxed stops on a Fergana Valley itinerary — a genuine, unhurried look at what remains of a 19th-century khanate court.
+Because it's still under-the-radar compared to Samarkand or Bukhara's big-ticket sites, you're unlikely to fight for space even at moderately busy hours. That makes it one of the more relaxed stops on a Fergana Valley itinerary, a genuine, unhurried look at what remains of a 19th-century khanate court.
 

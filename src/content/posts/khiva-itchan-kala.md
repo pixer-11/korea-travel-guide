@@ -107,24 +107,24 @@ Itchan Kala is the old walled city of Khiva, sealed inside earthen ramparts that
 
 Khiva sits in Uzbekistan's far west, in Khorazm Province near the Turkmenistan border. Most visitors arrive via Urgench, the nearest city with an airport and train station, about 35 minutes away by taxi or shared car.
 
-Itchan Kala itself is compact and walkable — once you're in Khiva, everything worth seeing is inside or just outside the walls. Taxis and hotel pickups will drop you at one of the main gates, usually the West Gate (Ota Darvoza).
+Itchan Kala itself is compact and walkable, once you're in Khiva, everything worth seeing is inside or just outside the walls. Taxis and hotel pickups will drop you at one of the main gates, usually the West Gate (Ota Darvoza).
 
 ## What to see inside the walls
 
-The turquoise-and-brown Kalta Minor minaret is the first thing that pulls your eye upward — squat, unfinished, and covered in glazed tile that catches the afternoon light differently every hour. It was meant to be the tallest minaret in Central Asia; construction stopped in 1855 when the khan who commissioned it died.
+The turquoise-and-brown Kalta Minor minaret is the first thing that pulls your eye upward, squat, unfinished, and covered in glazed tile that catches the afternoon light differently every hour. It was meant to be the tallest minaret in Central Asia; construction stopped in 1855 when the khan who commissioned it died.
 
 From there, the lanes fan out toward other essentials:
 
-- **Kunya-Ark** — the khan's fortress and former seat of power, with a working watchtower view over the rooftops
-- **Tosh Hovli Palace** — carved wooden columns and tiled courtyards, once the khan's harem quarters
-- **Islom Hoja Minaret** — the tallest structure in the city, worth the climb for the view over the old town's flat roofs
-- **Juma Mosque** — dim and cool inside, held up by 213 wooden columns, some dating to the 10th century
+- **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops
+- **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters
+- **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs
+- **Juma Mosque**, dim and cool inside, held up by 213 wooden columns, some dating to the 10th century
 
 Give yourself a half-day minimum; a full day lets you also duck into the smaller madrasas that most tour groups skip.
 
 ## When to go
 
-Itchan Kala is open every day from 9am to 7pm, with no variation across the week. Weekend afternoons, especially 12pm to 7pm, are the busiest stretch — tour buses from Urgench and cruise-style itineraries tend to cluster then.
+Itchan Kala is open every day from 9am to 7pm, with no variation across the week. Weekend afternoons, especially 12pm to 7pm, are the busiest stretch, tour buses from Urgench and cruise-style itineraries tend to cluster then.
 
 Arrive between 9am and 11am instead. That window stays quiet on both weekdays and weekends, and the low morning light makes the tilework glow rather than glare.
 
@@ -132,13 +132,13 @@ Spring (April–May) and early autumn (September–October) bring mild daytime t
 
 ## How to visit like a local
 
-Entry works on a combined ticket system — pay once at a ticket booth near the main gates rather than at each monument, and hold onto the stub since some sites check it. Prices and exact ticket structures shift year to year, so confirm current rates at the gate rather than relying on older guides.
+Entry works on a combined ticket system, pay once at a ticket booth near the main gates rather than at each monument, and hold onto the stub since some sites check it. Prices and exact ticket structures shift year to year, so confirm current rates at the gate rather than relying on older guides.
 
 Cash (Uzbek som) is still the safest bet for small vendors and tea stalls inside the walls, though card acceptance has grown at larger shops. Tipping isn't expected but small change for a guide or photo request is appreciated.
 
 Itchan Kala is genuinely popular, not a hidden corner of Khiva, so the way to "beat" it is timing rather than route. Skip the noon rush; come at opening instead, when the vendors are still setting up their stalls and the courtyards are close to empty.
 
-Dress modestly, especially around mosque and mausoleum entrances — shoulders and knees covered is the norm. Remove shoes where signage indicates, generally at mosque interiors.
+Dress modestly, especially around mosque and mausoleum entrances, shoulders and knees covered is the norm. Remove shoes where signage indicates, generally at mosque interiors.
 
-A few families still live inside the walls, so keep voices down in residential side-alleys away from the main monuments. If you want a rooftop photo over the old town, the Islom Hoja minaret climb is narrow and steep — go early before it queues up, and wear shoes with grip.
+A few families still live inside the walls, so keep voices down in residential side-alleys away from the main monuments. If you want a rooftop photo over the old town, the Islom Hoja minaret climb is narrow and steep. Go early before it queues up, and wear shoes with grip.
 

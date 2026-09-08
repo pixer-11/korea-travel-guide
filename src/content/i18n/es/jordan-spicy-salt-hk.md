@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-spicy-salt-hk
-srcHash: 'da1257c290a9'
+srcHash: '7d1b05cb998f'
 title: 'Spicy Salt HK: Dónde comer en Jordan'
 description: Spicy Salt HK es un local nocturno y sin pretensiones en Yau Ma Tei/Jordan, especializado en platos fritos estilo sal y pimienta y cerveza fría, abierto de 4pm a 4am (5am los fines de semana).
 quickAnswer: Spicy Salt HK es un local nocturno y sin pretensiones en Yau Ma Tei/Jordan, especializado en platos fritos estilo sal y pimienta y cerveza fría, abierto de 4pm a 4am (5am los fines de semana). Está tranquilo y con espacio de sobra de 4pm a 9pm los fines de semana — ve en ese horario para evitar la multitud de 7pm a 11pm. Lo normal es pagar en efectivo o con una app local de pago móvil; no esperes traducciones al inglés de todos los platos del menú, así que señala y pregunta.

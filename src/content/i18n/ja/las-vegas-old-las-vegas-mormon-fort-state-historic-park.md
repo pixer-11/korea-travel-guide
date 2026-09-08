@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: las-vegas-old-las-vegas-mormon-fort-state-historic-park
-srcHash: '6ef1485259d5'
+srcHash: '8faa9c3c4fa4'
 title: オールド・ラスベガス・モルモン砦州立史跡公園 旅行ガイド
 description: ダウンタウンのすぐ北、500 E Washington Aveに位置するオールド・ラスベガス・モルモン砦州立史跡公園(Old Las Vegas Mormon Fort State Historic Park)は、ネバダ州最古の非先住民建造物です。1855年建造のアドベ(泥レンガ)壁の一部が、小さなビジターセンターと屋外博物館の中に保存されています。評価4.6★(833件のレビュー)——訪問者の声、営業時間、訪問のヒントを紹介します。
 quickAnswer: ダウンタウンのすぐ北、500 E Washington Aveに位置するオールド・ラスベガス・モルモン砦州立史跡公園(Old Las Vegas Mormon Fort State Historic Park)は、ネバダ州最古の非先住民建造物です。1855年建造のアドベ壁の一部が、小さなビジターセンターと屋外博物館の中に保存されています。所要時間は45分から1時間ほどを目安にし、砂漠の暑さが本格化する前の平日午前中に訪れるのがおすすめです。近くのスプリングス・プレザーブ(Springs Preserve)への散策やダウンタウンのフリーモント・ストリート(Fremont Street)散歩と組み合わせるとよいでしょう。一日がかりの目的地というより、ラスベガス旅行に軽く付け足せる気軽な立ち寄りスポットです。

@@ -42,7 +42,7 @@ draft: false
 
 ## Why go
 
-Mui Ne Fishing Village isn't a museum piece — it's a working harbor that happens to be spectacular. Thousands of round, tar-black basket boats (thuyền thúng) crowd the shallows, painted in fading blues and greens, knocking gently against each other on the swell.
+Mui Ne Fishing Village isn't a museum piece. It's a working harbor that happens to be spectacular. Thousands of round, tar-black basket boats (thuyền thúng) crowd the shallows, painted in fading blues and greens, knocking gently against each other on the swell.
 
 You come here to watch Vietnam's fishing economy happen in real time: nets hauled over the sides, fish flipped into plastic tubs, buyers haggling before the catch even reaches dry sand.
 
@@ -57,13 +57,13 @@ Look for:
 - Small trucks idling on the sand, ready to haul fish to market
 - Squid laid out to dry on bamboo racks nearby
 
-The smell is briny and sharp — diesel, salt, and fish all at once. It's not manicured for tourists, and that's the point.
+The smell is briny and sharp, diesel, salt, and fish all at once. It's not manicured for tourists, and that's the point.
 
 ## Getting there
 
 The village sits along Huỳnh Thúc Kháng street in Mui Ne, Binh Thuan province, a short stretch of coast easy to reach from the town's main resort strip.
 
-Most visitors arrive by rented motorbike or taxi from their hotel — there's no train or bus stop directly at the harbor. If you're staying along Nguyen Dinh Chieu, the main beach road, it's typically a 10–15 minute ride.
+Most visitors arrive by rented motorbike or taxi from their hotel. There's no train or bus stop directly at the harbor. If you're staying along Nguyen Dinh Chieu, the main beach road, it's typically a 10–15 minute ride.
 
 Ask your hotel to point you toward the harbor road; locals know it well since it's one of the town's defining landmarks.
 
@@ -71,7 +71,7 @@ Ask your hotel to point you toward the harbor road; locals know it well since it
 
 Early morning is non-negotiable here. Boats typically return between 5:30am and 7am, when the harbor is at its most chaotic and colorful.
 
-By mid-morning, much of the catch has already been sold and moved, and the boats sit quiet and empty. Afternoons are sleepier — fine for photos of the boats themselves, but you'll miss the actual unloading.
+By mid-morning, much of the catch has already been sold and moved, and the boats sit quiet and empty. Afternoons are sleepier, fine for photos of the boats themselves, but you'll miss the actual unloading.
 
 Sunrise light also does the scene favors: low, golden, and forgiving on the water.
 
@@ -79,7 +79,7 @@ Sunrise light also does the scene favors: low, golden, and forgiving on the wate
 
 Several open-air seafood stalls and small restaurants line the road near the harbor, many serving fish, squid, and shellfish pulled from boats just meters away.
 
-Prices vary by season and catch, so ask before ordering — a rough sense of cost upfront avoids surprises. Grilled squid and steamed clams are common orders, often served with little more than chili salt and lime.
+Prices vary by season and catch, so ask before ordering. A rough sense of cost upfront avoids surprises. Grilled squid and steamed clams are common orders, often served with little more than chili salt and lime.
 
 Eating here isn't fine dining; it's plastic stools, a hosed-down concrete floor, and fish so fresh it barely needs seasoning.
 
@@ -87,11 +87,11 @@ Eating here isn't fine dining; it's plastic stools, a hosed-down concrete floor,
 
 Fishermen and traders treat this as a workplace, not a photo set, so move with that in mind.
 
-- Arrive by 6am if you want to see boats actually landing catch — later and you'll only see leftovers
+- Arrive by 6am if you want to see boats actually landing catch, later and you'll only see leftovers
 - Keep a respectful distance from the unloading and sorting; step aside for carts and trucks
-- Ask before photographing individual workers up close — a smile and gesture usually gets a nod
+- Ask before photographing individual workers up close. A smile and gesture usually gets a nod
 - Pay for food or fish in cash; small bills help, since change can be limited this early
-- Wear shoes you don't mind getting wet or fish-scented — the sand and walkways get slick
+- Wear shoes you don't mind getting wet or fish-scented. The sand and walkways get slick
 
 Because this is a well-known stop on the Mui Ne circuit, expect other visitors at sunrise too. Going slightly before official sunrise, or lingering an extra 20 minutes after the tour groups leave, gives you a quieter stretch of the same scene.
 

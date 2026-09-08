@@ -75,29 +75,29 @@ draft: false
 
 ## Why go
 
-The draw here isn't a waterfall or a temple — it's the walk itself. Pai Canyon is a spine of eroded red-clay ridges, some barely a foot wide, dropping away into green valley on both sides. You're not viewing the landscape from a platform; you're balancing on top of it.
+The draw here isn't a waterfall or a temple. It's the walk itself. Pai Canyon is a spine of eroded red-clay ridges, some barely a foot wide, dropping away into green valley on both sides. You're not viewing the landscape from a platform; you're balancing on top of it.
 
 The trails have no railings. That's the whole point, and also the thing every review mentions.
 
 ## Getting there
 
-Pai Canyon sits about 8km south of Pai town, just off Route 1095 toward Chiang Mai. Most visitors rent a scooter in town — it's a straight 15-minute ride, well signed, with a dirt parking area at the base.
+Pai Canyon sits about 8km south of Pai town, just off Route 1095 toward Chiang Mai. Most visitors rent a scooter in town. It's a straight 15-minute ride, well signed, with a dirt parking area at the base.
 
 No motorbike? Songthaews and organized minivan tours run from Pai's main strip, often bundled with the nearby Land Split and hot springs. There's no public bus stop here, so scooter or tour is really it.
 
 ## What you'll actually do
 
-From the car park, a short staircase climbs to the ridge system. There's no single fixed loop — paths fork and rejoin along the crest, some flat and wide, others narrowing to a single-file edge with a real drop either side.
+From the car park, a short staircase climbs to the ridge system. There's no single fixed loop, paths fork and rejoin along the crest, some flat and wide, others narrowing to a single-file edge with a real drop either side.
 
-Give yourself 1 to 2 hours to wander the main ridges and find a viewpoint. Wear shoes with grip, not flip-flops — the clay turns slick and crumbly, especially near the edges. Skip the outer ledges entirely after rain; the surface loses traction fast and there's no barrier to catch a slip.
+Give yourself 1 to 2 hours to wander the main ridges and find a viewpoint. Wear shoes with grip, not flip-flops, the clay turns slick and crumbly, especially near the edges. Skip the outer ledges entirely after rain; the surface loses traction fast and there's no barrier to catch a slip.
 
-Come sunset, the western-facing ridges fill with people angling for the same photo. It's genuinely scenic — the sky goes orange over layers of hills — but you'll be sharing the narrowest sections with a crowd, which changes the whole feel of the place.
+Come sunset, the western-facing ridges fill with people angling for the same photo. It's genuinely scenic, the sky goes orange over layers of hills, but you'll be sharing the narrowest sections with a crowd, which changes the whole feel of the place.
 
 ## When to go
 
 This is where the crowd data actually matters. On weekdays the calmest window is 7am to 11am; on weekends it's tighter, 7am to 10am. After that, tour buses start arriving.
 
-Try to avoid showing up between 4pm and 7pm on weekends — that's the peak sunset crush, when the ridge paths bottleneck with people waiting to shoot the same angle. Morning light here is softer anyway, and you'll have long stretches of ridge to yourself.
+Try to avoid showing up between 4pm and 7pm on weekends. That's the peak sunset crush, when the ridge paths bottleneck with people waiting to shoot the same angle. Morning light here is softer anyway, and you'll have long stretches of ridge to yourself.
 
 Dry season, roughly November through February, gives the most reliable footing and clearest valley views. Rainy season (June–October) turns the clay treacherous and often fogs out the views entirely.
 
@@ -106,14 +106,14 @@ Dry season, roughly November through February, gives the most reliable footing a
 Pai Canyon is firmly on the tourist circuit now, not a quiet local spot, so the smartest move is timing rather than seeking out a secret entrance.
 
 - Arrive right at opening, 6am, or by 7am at the latest, for empty ridges and cooler air before the midday heat sets in.
-- Bring your own water — there's minimal shade and limited vendor presence right at the trailhead.
+- Bring your own water. There's minimal shade and limited vendor presence right at the trailhead.
 - Wear closed shoes with real tread; sandals are the top cause of slips reported here.
-- Don't push out onto narrow ledges for a photo if you feel unsteady — falls have happened, and there's no safety infrastructure to catch you.
-- Pay any parking or entry fee in cash (small bills) — it's an informal roadside setup, not a ticketed gate with cards.
+- Don't push out onto narrow ledges for a photo if you feel unsteady, falls have happened, and there's no safety infrastructure to catch you.
+- Pay any parking or entry fee in cash (small bills). It's an informal roadside setup, not a ticketed gate with cards.
 - Pair it with the Land Split (Pai Kong Yao) or nearby hot springs on the same ride out, since it's a short detour from the same road.
 
 ## Good to know before you go
 
-Entry hours run 6am to 7pm daily, so there's no early sneak-in before dawn for a proper sunrise from the very top — you'll catch early morning light instead, which is still soft and uncrowded.
+Entry hours run 6am to 7pm daily, so there's no early sneak-in before dawn for a proper sunrise from the very top. You'll catch early morning light instead, which is still soft and uncrowded.
 
 There's no real cover from sun or rain up on the ridges, so check the forecast. And bring a headlamp only if you're cutting it close to the 7pm closing, since the descent down loose clay stairs is not one to do blind.

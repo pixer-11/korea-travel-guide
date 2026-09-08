@@ -54,7 +54,7 @@ updatedDate: '2026-08-31'
 ---
 ## Why go
 
-You don't visit Medinah Temple for a guided tour — there isn't one. You visit for the double-take moment on the sidewalk, when a Moorish Revival fantasy of onion domes, horseshoe arches and glazed terracotta suddenly rises above a stretch of River North storefronts.
+You don't visit Medinah Temple for a guided tour. There isn't one. You visit for the double-take moment on the sidewalk, when a Moorish Revival fantasy of onion domes, horseshoe arches and glazed terracotta suddenly rises above a stretch of River North storefronts.
 
 Built in 1912 for a Shriners' fraternal organization, the building once held concerts, circuses and even elephants on its stage. Today the shell survives as a Chicago landmark, its interior reworked into a Bloomingdale's Home & Furniture store.
 
@@ -72,13 +72,13 @@ Medinah Temple sits at 600 N Wabash Ave, right at the edge of River North, a few
 - **Brown, Purple, Orange, Pink Lines**: Merchandise Mart or Washington/Wells stops, roughly 10–12 minutes on foot
 - **On foot from Michigan Avenue**: 5–8 minutes west along Grand or Ohio
 
-Parking in River North is metered street parking or pricier garage lots — walking or transit is simpler.
+Parking in River North is metered street parking or pricier garage lots, walking or transit is simpler.
 
 ## When to go
 
 The building keeps retail hours during the week. It's closed Saturday and Sunday, so don't build a weekend River North itinerary around it.
 
-Weekday mornings right after opening tend to be calmest, before lunchtime shoppers and nearby office workers filter through. Since it functions as a working store, there's no rush — you're not competing with tour groups or timed-entry lines.
+Weekday mornings right after opening tend to be calmest, before lunchtime shoppers and nearby office workers filter through. Since it functions as a working store, there's no rush. You're not competing with tour groups or timed-entry lines.
 
 ## Pair it with the neighborhood
 
@@ -97,8 +97,8 @@ Because this is a functioning store inside a landmark, the etiquette is simple: 
 
 - **Photograph the exterior from across Wabash Ave**, where you can fit the domes and full facade in frame without traffic clutter
 - **Go on a weekday**, since weekend closures rule that option out entirely
-- **Pay by card** as you would in any US department store — cash isn't needed
-- **Don't expect docents or plaques inside** — the landmark story lives on the outside, so read up beforehand if you want the history rather than expecting it on-site
+- **Pay by card** as you would in any US department store, cash isn't needed
+- **Don't expect docents or plaques inside**, the landmark story lives on the outside, so read up beforehand if you want the history rather than expecting it on-site
 - **Skip the rush hours around lunch** near the Loop's office towers if you want the sidewalk to yourself for photos
 
-Because it's under most visitors' radar compared to Chicago's marquee sights, you'll likely have the exterior view mostly to yourself, even on a busy River North afternoon. That's the real appeal here — a five-minute architectural surprise tucked into an ordinary shopping block, not a ticketed attraction demanding hours of your day.
+Because it's under most visitors' radar compared to Chicago's marquee sights, you'll likely have the exterior view mostly to yourself, even on a busy River North afternoon. That's the real appeal here, a five-minute architectural surprise tucked into an ordinary shopping block, not a ticketed attraction demanding hours of your day.

@@ -83,19 +83,19 @@ updatedDate: '2026-08-29'
 
 You're looking at one of the oldest stone churches in the country, and it shows. The façade is built from massive blocks of coral stone, quarried and hauled by hand centuries ago, their surfaces pitted and honeycombed in a way no modern material replicates.
 
-Jesuit missionaries began construction here in the 1590s, with the present structure largely dating to the early 1700s. Walk up and run your eyes along the buttresses — thick, tapering, built to survive earthquakes that have leveled newer buildings around them.
+Jesuit missionaries began construction here in the 1590s, with the present structure largely dating to the early 1700s. Walk up and run your eyes along the buttresses, thick, tapering, built to survive earthquakes that have leveled newer buildings around them.
 
 ## Getting there
 
 Baclayon town sits roughly 8km east of Tagbilaran City, an easy 15-20 minute tricycle or habal-habal ride along the coastal road. Many visitors fold it into a Bohol countryside tour alongside the Chocolate Hills and the Loboc River cruise.
 
-If you're driving yourself, the church fronts the main road through town — it's hard to miss the twin-tiered belfry rising above the rooftops. Parking is informal but generally available on side streets near the plaza.
+If you're driving yourself, the church fronts the main road through town. It's hard to miss the twin-tiered belfry rising above the rooftops. Parking is informal but generally available on side streets near the plaza.
 
 ## What to see inside
 
 Step through the heavy wooden doors and the temperature drops. Thick coral walls do their job, muffling street noise and keeping the nave shadowed even at midday.
 
-Look up at the ceiling murals and the carved retablo behind the altar — faded, water-stained in places, but original in spirit to the colonial-era craftsmanship. The air carries a faint mineral smell, that particular scent of old stone and candle wax.
+Look up at the ceiling murals and the carved retablo behind the altar, faded, water-stained in places, but original in spirit to the colonial-era craftsmanship. The air carries a faint mineral smell, that particular scent of old stone and candle wax.
 
 Next door, the Baclayon Church Museum holds one of the more substantial collections of religious relics in the Visayas:
 
@@ -104,23 +104,23 @@ Next door, the Baclayon Church Museum holds one of the more substantial collecti
 - Carved ivory and wooden santos (religious statues)
 - Old photographs documenting the church's restoration after earthquake damage
 
-Budget 20-30 minutes for the museum if it's open when you visit — hours can shift independently of the church itself, so ask locally on arrival.
+Budget 20-30 minutes for the museum if it's open when you visit, hours can shift independently of the church itself, so ask locally on arrival.
 
 ## When to go
 
-The church keeps a tight, split schedule: 8:30–11:30am and 1:30–4:30pm, Wednesday through Saturday, plus Monday. It's closed both Tuesday and Sunday, which surprises visitors expecting a Sunday Mass crowd — check ahead so you don't arrive to locked doors.
+The church keeps a tight, split schedule: 8:30–11:30am and 1:30–4:30pm, Wednesday through Saturday, plus Monday. It's closed both Tuesday and Sunday, which surprises visitors expecting a Sunday Mass crowd. Check ahead so you don't arrive to locked doors.
 
 Mornings bring softer light through the windows and cooler air, which makes the coral stone interior more comfortable to linger in. Aim to arrive shortly after the 8:30am opening if you want the nave to yourself before day-tour groups start rolling through.
 
 ## How to visit like a local
 
-Dress matters here — this is an active parish, not a museum piece, so cover shoulders and knees out of respect. Flip-flops and tank tops draw looks from parishioners going about ordinary business.
+Dress matters here. This is an active parish, not a museum piece, so cover shoulders and knees out of respect. Flip-flops and tank tops draw looks from parishioners going about ordinary business.
 
-Entry to the church itself is typically free, though the adjoining museum usually asks a small, separate admission — bring small bills in pesos, as card payment isn't the norm in a town this size.
+Entry to the church itself is typically free, though the adjoining museum usually asks a small, separate admission. Bring small bills in pesos, as card payment isn't the norm in a town this size.
 
 Since it's well-known and often folded into group itineraries, the mid-morning slot right after opening or the mid-afternoon slot after 3pm tend to be calmer than the late-morning rush before lunch. Speak quietly inside; it's still used for baptisms, weddings, and daily devotion, not just sightseeing.
 
-The mistake most visitors make is treating this like a quick photo stop and skipping the museum entirely — the vestments and santos inside give context you can't get from the façade alone. Give yourself 45 minutes total, not 10.
+The mistake most visitors make is treating this like a quick photo stop and skipping the museum entirely, the vestments and santos inside give context you can't get from the façade alone. Give yourself 45 minutes total, not 10.
 
 ## Nearby stops worth combining
 

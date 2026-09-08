@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-sweeney
-srcHash: '29df96c864f0'
+srcHash: '3e045940e451'
 title: 'Sweeney: Guía de viaje de Mumbai'
 description: 'Sweeney en Mumbai, India — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Sweeney es un animado restaurante-bar nuevo instalado en un edificio patrimonial de Ballard Estate, en la zona de Fort, copropiedad de Malaika Arora y el restaurador Dhaval Udeshi. El atractivo es tanto botánico como culinario: un mangotón de 140 años cubre casi la mitad de la zona de asientos al aire libre, y según cuentan, el personal reparte frascos de mermelada de mango si te cae fruta encima mientras estás sentado debajo. Ve un día de semana por la noche, reserva con antelación ya que es un lugar recién puesto de moda en la ciudad, y confirma el horario actual antes de ir.'

@@ -29,13 +29,13 @@ eventRecurring: false
 ---
 ## Why this one's different
 
-Most festivals you fly for are a single field, a single stage, a wristband and a queue for the bar. Airtime Asia isn't built that way. It's a hybrid music-and-conference event that treats an entire coastal stretch of central Vietnam as its venue — Da Nang's riverside bars and warehouse-style spaces, plus the lantern-lit old town of Hoi An half an hour down the coast, both pulled into a single four-day programme set for August 13–16, 2026.
+Most festivals you fly for are a single field, a single stage, a wristband and a queue for the bar. Airtime Asia isn't built that way. It's a hybrid music-and-conference event that treats an entire coastal stretch of central Vietnam as its venue, Da Nang's riverside bars and warehouse-style spaces, plus the lantern-lit old town of Hoi An half an hour down the coast, both pulled into a single four-day programme set for August 13–16, 2026.
 
 The premise is regional: underground radio stations, independent labels, broadcasters and artists from across Asia converge here, which means the lineup leans toward names you won't have seen on a major festival poster before, alongside talks and panels aimed at people who work in music as much as people who just want to dance.
 
 ## Getting there and getting around
 
-Da Nang International Airport (DAD) is the obvious entry point — it's one of Vietnam's busier international airports and has direct connections from regional hubs like Bangkok, Singapore, Seoul and several Chinese cities, so a connection through Hanoi or Ho Chi Minh City is rarely necessary. From the airport, the city center is a short taxi or ride-hail trip, typically well under 20 minutes.
+Da Nang International Airport (DAD) is the obvious entry point. It's one of Vietnam's busier international airports and has direct connections from regional hubs like Bangkok, Singapore, Seoul and several Chinese cities, so a connection through Hanoi or Ho Chi Minh City is rarely necessary. From the airport, the city center is a short taxi or ride-hail trip, typically well under 20 minutes.
 
 The Hoi An side of the festival is another 30–45 minutes by car or scheduled shuttle down the coastal road, a route scenic enough in daylight that many people do it at least once by taxi rather than shuttle bus.
 
@@ -45,17 +45,17 @@ The event covered two cities and 15+ venues, and not all of it is walkable. Da N
 
 With over 40 artists across four days, the shape of Airtime Asia is less "headliner and support" and more a running current of showcases, club sets, open-air sessions and live radio broadcasts, interspersed with talks and panels that bring in the label and broadcaster side of the festival's identity. That conference layer is what separates it from a standard music festival lineup: the programme included daytime sessions on running independent stations, distribution and the regional music scene, not just nightly sets.
 
-The announcement set out that shape — the artist count, the venue count, the two host cities — rather than a finished list of stages, rooms and set times.
+The announcement set out that shape (the artist count, the venue count, the two host cities) rather than a finished list of stages, rooms and set times.
 
 ## When to go and what to plan around
 
-August in central Vietnam is hot, humid, and squarely in the region's rainy season — short, heavy downpours are common and usually clear quickly, which matters more for what you pack than for which day you attend, and the festival dates were fixed at August 13–16, 2026. Visitors who want both cities properly rather than just event-hopping often add a day or two on either side for Hoi An's Ancient Town and Da Nang's beaches, without festival fatigue.
+August in central Vietnam is hot, humid, and squarely in the region's rainy season, short, heavy downpours are common and usually clear quickly, which matters more for what you pack than for which day you attend, and the festival dates were fixed at August 13–16, 2026. Visitors who want both cities properly rather than just event-hopping often add a day or two on either side for Hoi An's Ancient Town and Da Nang's beaches, without festival fatigue.
 
 ## How to visit like a local
 
-Vietnamese festival crowds skew toward late starts — the night's real energy rarely arrives before 9 or 10pm, even where a schedule lists earlier set times. Cash still moves faster than cards at smaller bars and street vendors in both cities, so Vietnamese dong is the practical currency outside main ticketed venues, while cards and e-wallets cover official festival transactions.
+Vietnamese festival crowds skew toward late starts, the night's real energy rarely arrives before 9 or 10pm, even where a schedule lists earlier set times. Cash still moves faster than cards at smaller bars and street vendors in both cities, so Vietnamese dong is the practical currency outside main ticketed venues, while cards and e-wallets cover official festival transactions.
 
-Tipping isn't a strong local custom at bars, though rounding up for table service is appreciated. For trips between Da Nang and Hoi An during peak festival hours, a ride arranged in advance beats hailing one curbside near a busy venue — that half-hour coastal road is the bottleneck everyone hits at once.
+Tipping isn't a strong local custom at bars, though rounding up for table service is appreciated. For trips between Da Nang and Hoi An during peak festival hours, a ride arranged in advance beats hailing one curbside near a busy venue, that half-hour coastal road is the bottleneck everyone hits at once.
 
 The most common mistake visitors make with multi-venue festivals like this is over-scheduling: two or three must-see acts a night, with the rest left to discovery, works better than sprinting between every venue on the map.
 

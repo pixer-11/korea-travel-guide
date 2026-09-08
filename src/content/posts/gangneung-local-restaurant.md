@@ -34,11 +34,11 @@ heroImage:
 ---
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out
 
-Gangneung, on Korea's Gangwon-do coast, built its food identity on two things: the East Sea and Chodang Village's centuries-old tofu tradition. Unlike Seoul's trend-driven dining scene, Gangneung's local restaurants tend to be small, generational operations — a grandmother's sundubu house, a market stall selling grilled mackerel, a noodle shop that's been serving the same broth recipe for decades. Eating here is less about spectacle and more about tasting a specific place: brackish seawater tofu found almost nowhere else in Korea, and noodles and seafood shaped by a cold-water fishing economy.
+Gangneung, on Korea's Gangwon-do coast, built its food identity on two things: the East Sea and Chodang Village's centuries-old tofu tradition. Unlike Seoul's trend-driven dining scene, Gangneung's local restaurants tend to be small, generational operations, a grandmother's sundubu house, a market stall selling grilled mackerel, a noodle shop that's been serving the same broth recipe for decades. Eating here is less about spectacle and more about tasting a specific place: brackish seawater tofu found almost nowhere else in Korea, and noodles and seafood shaped by a cold-water fishing economy.
 
 ## Getting There
 
-Gangneung is reachable from Seoul via the KTX high-speed rail (Gangneung Line), with the trip from Seoul Station or Cheongnyangni Station taking around two hours — one of the easiest coastal day trips from the capital. From Gangneung Station, most of the restaurant districts worth visiting are a short taxi or bus ride away rather than walkable:
+Gangneung is reachable from Seoul via the KTX high-speed rail (Gangneung Line), with the trip from Seoul Station or Cheongnyangni Station taking around two hours, one of the easiest coastal day trips from the capital. From Gangneung Station, most of the restaurant districts worth visiting are a short taxi or bus ride away rather than walkable:
 
 - **Jungang Market (Jungang-dong)**: about 15–20 minutes on foot, or a quick taxi ride, from Gangneung Station. This market and its surrounding alleys are the densest concentration of old-school local eateries in the city.
 - **Chodang Sundubu Village**: roughly 15 minutes by taxi from the station, or reachable by city bus toward Gyeongpo Beach. This is the birthplace of Gangneung-style tofu, with a cluster of tofu restaurants along one street.
@@ -47,13 +47,13 @@ Gangneung is reachable from Seoul via the KTX high-speed rail (Gangneung Line), 
 ## What to Eat
 
 - **Chodang sundubu (초당순두부)**: Soft, custard-like tofu coagulated with seawater instead of standard nigari, served plain, in a spicy stew (sundubu jjigae), or as a cold dish with soy sauce and scallions. Chodang Village's dozen-plus tofu restaurants line a single street near Gyeongpo, making it easy to compare a few.
-- **Makguksu (막국수)**: Cold buckwheat noodles in a tangy, slightly spicy sauce or chilled broth — a Gangwon-do specialty that pairs well with the region's mountain buckwheat farming.
-- **Grilled or raw fish**: Anmok and Gangmun's harbor-adjacent restaurants serve East Sea catch — mackerel, pollock (myeongtae, a Gangwon-do icon), and seasonal hoe (raw sliced fish) — often at simple, no-frills tables with a sea view.
+- **Makguksu (막국수)**: Cold buckwheat noodles in a tangy, slightly spicy sauce or chilled broth, a Gangwon-do specialty that pairs well with the region's mountain buckwheat farming.
+- **Grilled or raw fish**: Anmok and Gangmun's harbor-adjacent restaurants serve East Sea catch (mackerel, pollock (myeongtae, a Gangwon-do icon), and seasonal hoe (raw sliced fish)) often at simple, no-frills tables with a sea view.
 - **Gamja-ongshimi and other potato dishes**: Gangwon-do's mountainous terrain historically favored potatoes over rice, so look for potato dumplings or potato noodle soup on local menus as a regional signature rather than an afterthought.
 
 ## When to Go
 
-Late morning to early afternoon is when Jungang Market's food stalls and surrounding restaurants are liveliest and dishes are freshest, especially seafood delivered that morning. Avoid Korean public holidays like Seollal and Chuseok, when many family-run spots close entirely. Autumn and winter bring the best pollock and cold-water fish, while summer draws crowds to Gyeongpo Beach's restaurants — expect longer waits July through August.
+Late morning to early afternoon is when Jungang Market's food stalls and surrounding restaurants are liveliest and dishes are freshest, especially seafood delivered that morning. Avoid Korean public holidays like Seollal and Chuseok, when many family-run spots close entirely. Autumn and winter bring the best pollock and cold-water fish, while summer draws crowds to Gyeongpo Beach's restaurants. Expect longer waits July through August.
 
 ## Nearby & Practical Tips
 

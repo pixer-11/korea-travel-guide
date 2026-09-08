@@ -51,45 +51,45 @@ draft: false
 
 ## Why go
 
-Taiping Lake Gardens isn't just a pretty park — it's Malaysia's oldest, laid out in the 1880s over abandoned tin-mining pits. The result feels less like a municipal garden and more like a slow-grown forest that happens to have paths through it.
+Taiping Lake Gardens isn't just a pretty park. It's Malaysia's oldest, laid out in the 1880s over abandoned tin-mining pits. The result feels less like a municipal garden and more like a slow-grown forest that happens to have paths through it.
 
 Century-old rain trees arch over the main road, their canopies meeting overhead to form a green tunnel dripping with epiphytes. Below them, eight interconnected lakes reflect the hills of the Bintang Range, which sit close enough that clouds often snag on the peaks by mid-morning.
 
 ## Getting there
 
-The gardens sit right at the edge of Taiping town, on Jalan Pekeliling, an easy walk or short tuk-tuk ride from most hotels in the old town. There's no MRT or train station here — Taiping is reached by bus or car, usually via the North-South Expressway if you're coming from Kuala Lumpur or Penang.
+The gardens sit right at the edge of Taiping town, on Jalan Pekeliling, an easy walk or short tuk-tuk ride from most hotels in the old town. There's no MRT or train station here, Taiping is reached by bus or car, usually via the North-South Expressway if you're coming from Kuala Lumpur or Penang.
 
-Once you arrive, the park itself has no single "entrance" — it's a network of roads and paths you can join from several points. Most visitors start near the Lake Club or the Taiping Zoo car park, both well signposted.
+Once you arrive, the park itself has no single "entrance". It's a network of roads and paths you can join from several points. Most visitors start near the Lake Club or the Taiping Zoo car park, both well signposted.
 
 ## What to see and do
 
 The park rewards wandering more than checklist-ticking, but a few spots are worth building your walk around.
 
-- **The perimeter road** — flat, shaded, and popular with joggers and cyclists; a full loop takes about an hour on foot
-- **Taman Tasik Taiping's rain tree avenue** — the most photographed stretch, especially in early light
-- **Taiping Zoo and Night Safari** — bordering the gardens, good for families
-- **All Saints' Church and the old Commonwealth war cemetery** — quiet, moss-covered, and historically resonant
-- **Perak Museum** — Malaysia's oldest museum, a short walk from the lakes
+- **The perimeter road**, flat, shaded, and popular with joggers and cyclists; a full loop takes about an hour on foot
+- **Taman Tasik Taiping's rain tree avenue**, the most photographed stretch, especially in early light
+- **Taiping Zoo and Night Safari**, bordering the gardens, good for families
+- **All Saints' Church and the old Commonwealth war cemetery**, quiet, moss-covered, and historically resonant
+- **Perak Museum**, Malaysia's oldest museum, a short walk from the lakes
 
 Paddle boats are usually available on the main lake if you want to get out on the water rather than just around it.
 
 ## When to go
 
-Aim for the early morning, right after the 8am opening, when the light is soft and the humidity hasn't built up yet. Taiping sits at the base of the Bintang Range and gets some of the highest rainfall in Peninsular Malaysia, so afternoon showers are common — bring a light rain jacket even in the "dry" season.
+Aim for the early morning, right after the 8am opening, when the light is soft and the humidity hasn't built up yet. Taiping sits at the base of the Bintang Range and gets some of the highest rainfall in Peninsular Malaysia, so afternoon showers are common. Bring a light rain jacket even in the "dry" season.
 
 The park stays open until 10pm daily, and evenings bring a different mood: families picnicking on the lawns, the trees lit by scattered lamps, a cooler breeze off the water.
 
 ## How to visit like a local
 
-This is a well-loved park, not a hidden one — it draws heavy weekend crowds, so if you want the lawns and paths to yourself, come on a weekday morning instead.
+This is a well-loved park, not a hidden one, it draws heavy weekend crowds, so if you want the lawns and paths to yourself, come on a weekday morning instead.
 
-- Entry is free and there's no ticket booth to plan around, so there's no queue to game — just crowd timing
+- Entry is free and there's no ticket booth to plan around, so there's no queue to game, just crowd timing
 - Payment only comes up if you rent a paddle boat or buy from a snack stall; cash is the safer bet at these small vendors
-- Locals treat this as an exercise loop — walking, jogging, and cycling before the heat sets in, roughly 7–9am
+- Locals treat this as an exercise loop, walking, jogging, and cycling before the heat sets in, roughly 7–9am
 - The tourist habit to avoid is treating it as a quick 20-minute photo stop; the gardens are big enough that rushing through misses the point
 - If you're driving, park near the Lake Club or zoo and walk the loop rather than trying to drive from viewpoint to viewpoint
 
-Bring mosquito repellent regardless of season — the lakes and dense planting mean insects are a constant, not just a rainy-season issue. Comfortable shoes matter more than fancy ones; the paths are paved but long.
+Bring mosquito repellent regardless of season. The lakes and dense planting mean insects are a constant, not just a rainy-season issue. Comfortable shoes matter more than fancy ones; the paths are paved but long.
 
-Pair your visit with the Perak Museum or a wander through the old colonial-era shophouses in Taiping town — both are close enough to fold into the same half-day out without needing transport.
+Pair your visit with the Perak Museum or a wander through the old colonial-era shophouses in Taiping town. Both are close enough to fold into the same half-day out without needing transport.
 

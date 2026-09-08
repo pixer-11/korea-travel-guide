@@ -33,13 +33,13 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The One Universe Festival 2026 lineup announced an unusually eclectic bill for a single weekend — indie/electronic mainstays The xx, drum-and-bass heavyweights Pendulum, shoegaze pioneers My Bloody Valentine, and hardcore-punk breakout Turnstile. That range was the festival's selling point: not a single-genre rave or a K-pop showcase, but a curated mix aimed at fans of guitar music, electronic dance, and heavier sounds alike.
+The One Universe Festival 2026 lineup announced an unusually eclectic bill for a single weekend, indie/electronic mainstays The xx, drum-and-bass heavyweights Pendulum, shoegaze pioneers My Bloody Valentine, and hardcore-punk breakout Turnstile. That range was the festival's selling point: not a single-genre rave or a K-pop showcase, but a curated mix aimed at fans of guitar music, electronic dance, and heavier sounds alike.
 
-Add the setting — Paradise City, a resort and entertainment complex rather than a bare festival field — and the weekend doubled as a mini getaway near one of Asia's busiest air hubs.
+Add the setting (Paradise City, a resort and entertainment complex rather than a bare festival field), and the weekend doubled as a mini getaway near one of Asia's busiest air hubs.
 
 ## Where and when
 
-The festival was set for July 25–26, 2026, at Paradise City in Incheon. Paradise City sits in the Unseo-dong area near Incheon International Airport, on Incheon's Yeongjongdo (Yeongjong Island), and is known for its casino, hotel towers, spa, and art-filled public spaces — a very different backdrop from a typical outdoor festival site.
+The festival was set for July 25–26, 2026, at Paradise City in Incheon. Paradise City sits in the Unseo-dong area near Incheon International Airport, on Incheon's Yeongjongdo (Yeongjong Island), and is known for its casino, hotel towers, spa, and art-filled public spaces, a very different backdrop from a typical outdoor festival site.
 
 ## Getting there
 
@@ -47,13 +47,13 @@ Incheon International Airport is the obvious gateway: international travellers c
 
 ## What to expect on site
 
-Paradise City's complex includes indoor and outdoor event spaces, and organisers planned a mix of open-air stages and indoor or covered areas — useful given Incheon's late-July heat and humidity, and the chance of summer rain showers. Beyond the music, the resort has dining options, an art wing (Paradise City is known for large-scale installation art in its public areas), and a casino for breaks between sets.
+Paradise City's complex includes indoor and outdoor event spaces, and organisers planned a mix of open-air stages and indoor or covered areas, useful given Incheon's late-July heat and humidity, and the chance of summer rain showers. Beyond the music, the resort has dining options, an art wing (Paradise City is known for large-scale installation art in its public areas), and a casino for breaks between sets.
 
 The format sat closer to a resort-festival hybrid than a rural campground festival, combining stage-front energy with lounge-around comfort.
 
 ## Tickets and lineup
 
-The artists named ahead of the event — The xx, Pendulum, My Bloody Valentine, and Turnstile — were the announced acts. Tickets were sold through the festival's official ticketing partner.
+The artists named ahead of the event (The xx, Pendulum, My Bloody Valentine, and Turnstile) were the announced acts. Tickets were sold through the festival's official ticketing partner.
 
 ## How to visit like a local
 

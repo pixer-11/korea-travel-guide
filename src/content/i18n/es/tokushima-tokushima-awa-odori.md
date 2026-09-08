@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokushima-tokushima-awa-odori
-srcHash: '07666ed186cd'
+srcHash: '51ca98d04e7e'
 title: 'Awa Odori de Tokushima: lo que hay que saber (Tokushima)'
 description: El Awa Odori de Tokushima, en Tokushima (Japón), se celebra del 11 al 15 de agosto de 2026. Esto es lo que se ha anunciado sobre las fechas, los escenarios y la forma que tomará el festival.
 quickAnswer: El Awa Odori de Tokushima quedó fijado para el 11 al 15 de agosto de 2026, cinco noches en las que el baile toma las calles del centro de la ciudad de Tokushima durante el Obon, la festividad japonesa dedicada a los antepasados. Los principales escenarios —Yasaki-machi, Aiba-hama y otros puntos repartidos por las calles del centro— reciben el baile al caer la noche, cuando las agrupaciones de tambor y shamisen alcanzan su mejor momento. Las noches del 11 y el 12 suelen ser más tranquilas que las siguientes. El sitio oficial de turismo del Awa Odori es donde se anuncian la ubicación de los escenarios, los detalles de las entradas y el calendario completo.

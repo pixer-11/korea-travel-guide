@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-san-francisco-museum-of-modern-art
-srcHash: '8329339d3ca7'
+srcHash: 'd2e7bffe1633'
 title: 旧金山现代艺术博物馆（San Francisco Museum of Modern Art）旅行指南（4.6★）
 description: SFMOMA 位于 SoMa 区的 151 3rd St，距离 Powell St BART/Muni 站步行仅五分钟，七层楼的当代与现代艺术收藏足以让你花上半天时间细细游览。4.6★（16,586 条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: SFMOMA 位于 SoMa 区的 151 3rd St，距离 Powell St BART/Muni 站步行仅五分钟，七层楼的当代与现代艺术收藏足以让你花上半天时间细细游览。建议傍晚前往——人流数据显示，无论工作日还是周末，下午5点到6点都是相对清静的时段——如果可以的话，尽量避开周末上午11点到下午5点的高峰期。出发前请在网上确认最新开放时间和门票价格，因为两者都会随季节调整。

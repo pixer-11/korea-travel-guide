@@ -65,7 +65,7 @@ draft: false
 
 ## Why go
 
-You come here for scale as much as art. National Gallery Singapore occupies two former colonial civic buildings — the old City Hall and the old Supreme Court — joined by a soaring glass-and-steel canopy that floods the atrium with light.
+You come here for scale as much as art. National Gallery Singapore occupies two former colonial civic buildings, the old City Hall and the old Supreme Court, joined by a soaring glass-and-steel canopy that floods the atrium with light.
 
 Under Japanese occupation, Japan's surrender was signed in the City Hall chambers. Now the same rooms hold the world's largest public collection of Singapore and Southeast Asian modern art.
 
@@ -73,7 +73,7 @@ That mix of layered history and serious curatorial weight is why it holds one of
 
 ## Getting there
 
-The Gallery sits in the Civic District, on St Andrew's Road beside the Padang. City Hall MRT station (East-West and North-South lines) sits right beneath it — take Exit B and you surface almost at the entrance.
+The Gallery sits in the Civic District, on St Andrew's Road beside the Padang. City Hall MRT station (East-West and North-South lines) sits right beneath it. Take Exit B and you surface almost at the entrance.
 
 Padang, Esplanade, and the Merlion waterfront are all within a ten-minute walk, so it's easy to fold into a half-day loop through the district.
 
@@ -81,10 +81,10 @@ Padang, Esplanade, and the Merlion waterfront are all within a ten-minute walk, 
 
 Start with the permanent galleries: the sweeping **Siapa Nama Kamu?** survey of Singapore art from the 1800s onward anchor the old Supreme Court wing.
 
-Don't skip the building itself — the former Supreme Court's courtroom domes and the City Hall's colonnaded facade, dating to 1929, are as much the exhibit as the paintings.
+Don't skip the building itself, the former Supreme Court's courtroom domes and the City Hall's colonnaded facade, dating to 1929, are as much the exhibit as the paintings.
 
 - Rooftop terrace and bar for skyline views over the Padang
-- Basement Keppel Centre for Art Education — good with kids
+- Basement Keppel Centre for Art Education, good with kids
 - Padang Atrium light well, a striking photo spot on sunny afternoons
 
 Give yourself two to three hours minimum; the collection spans multiple floors and two connected buildings, so it's easy to lose track of time.
@@ -95,20 +95,20 @@ The museum runs the same hours every day of the week: 10am to 7pm, no early or l
 
 Crowd patterns are consistent too. Both weekdays and weekends are calmest between 10am and 11am, right after doors open.
 
-Weekend afternoons are the opposite — foot traffic builds steadily from noon and stays heavy until 6pm, so if you're visiting on a Saturday or Sunday, arriving before noon makes a real difference.
+Weekend afternoons are the opposite, foot traffic builds steadily from noon and stays heavy until 6pm, so if you're visiting on a Saturday or Sunday, arriving before noon makes a real difference.
 
 ## How to visit like a local
 
 This is one of Singapore's most-visited museums, so plan around the crowds rather than hoping to dodge them entirely.
 
-- Arrive at 10am sharp — the 10–11am window is measurably quieter on every day of the week
+- Arrive at 10am sharp. The 10–11am window is measurably quieter on every day of the week
 - If you can only manage a weekend visit, come before noon and leave the noon–6pm stretch to everyone else
 - Book timed-entry tickets online in advance; walk-up queues form fast once doors open
-- Payment is cashless-friendly — tap cards or mobile wallets work at ticketing and the café
+- Payment is cashless-friendly, tap cards or mobile wallets work at ticketing and the café
 - Check for free admission windows for Singapore residents and confirm current visitor rates online, since museum pricing shifts periodically
-- Wear a light layer — the atrium's air-conditioning is strong against Singapore's outdoor heat
+- Wear a light layer. The atrium's air-conditioning is strong against Singapore's outdoor heat
 
-The mistake most first-timers make is treating this as a quick stop between the Marina Bay sights. The two buildings are genuinely large, and rushing means missing the courtroom architecture entirely — that's often the part people remember most.
+The mistake most first-timers make is treating this as a quick stop between the Marina Bay sights. The two buildings are genuinely large, and rushing means missing the courtroom architecture entirely. That's often the part people remember most.
 
 ## Nearby and practical notes
 

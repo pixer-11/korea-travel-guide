@@ -40,11 +40,11 @@ heroImage:
 ---
 ## Why this run of shows matters
 
-BIGBANG doesn't tour as a full group very often anymore, and that's exactly why the announcement of "XX: COSMOS" landed like a shockwave through K-pop fandom. It was billed as the trio's first complete world tour in nine years, arriving as G-Dragon, Taeyang, and Daesung mark two decades since their 2006 debut. Three consecutive nights — August 21, 22, and 23, 2026 — were set for Goyang Stadium, and the fact that a group with this much stadium and arena history worldwide chose Goyang, just northwest of Seoul, rather than an Olympic Stadium slot in the capital itself, tells you something about how the venue landscape for mega K-pop tours has shifted in recent years. The announcement made this one of the most talked-about live-music weekends on Korea's 2026 calendar.
+BIGBANG doesn't tour as a full group very often anymore, and that's exactly why the announcement of "XX: COSMOS" landed like a shockwave through K-pop fandom. It was billed as the trio's first complete world tour in nine years, arriving as G-Dragon, Taeyang, and Daesung mark two decades since their 2006 debut. Three consecutive nights (August 21, 22, and 23, 2026) were set for Goyang Stadium, and the fact that a group with this much stadium and arena history worldwide chose Goyang, just northwest of Seoul, rather than an Olympic Stadium slot in the capital itself, tells you something about how the venue landscape for mega K-pop tours has shifted in recent years. The announcement made this one of the most talked-about live-music weekends on Korea's 2026 calendar.
 
 ## Getting to Goyang Stadium
 
-Goyang Stadium sits in Goyang, a city that borders northwestern Seoul and is easiest to think of as a satellite hub rather than a distant trip. From central Seoul, the subway is the simplest route — Goyang is well connected via Seoul's metro network, and Wonheung Station on Seoul Subway Line 3 is the stop most concertgoers use for this venue, though crowd-control routing for stadium shows sometimes pushes foot traffic through specific exits.
+Goyang Stadium sits in Goyang, a city that borders northwestern Seoul and is easiest to think of as a satellite hub rather than a distant trip. From central Seoul, the subway is the simplest route, Goyang is well connected via Seoul's metro network, and Wonheung Station on Seoul Subway Line 3 is the stop most concertgoers use for this venue, though crowd-control routing for stadium shows sometimes pushes foot traffic through specific exits.
 
 For anyone flying in from abroad, Incheon International Airport is the natural gateway; from there, airport buses and the AREX line connect into Seoul, and transfers continue toward Goyang. Three nights of a group this size put pressure on local transit and taxis at the same time, and journeys on show nights are slower than the timetable suggests.
 
@@ -56,12 +56,12 @@ Merchandise booths, lightstick sales (the group's official "Crown" lightstick is
 
 ## Tickets and timing
 
-Pricing, seating charts, and the on-sale schedule were not announced alongside the dates. Tickets for a tour of this profile are sold through the major Korean platforms — historically Interpark and similar large sellers handle tours of this size — with separate phases for fan-club presales and general public sales. Global on-sale windows and official resale mechanisms are common on tours at this level, and demand for past BIGBANG-related tours has far outstripped early allocations.
+Pricing, seating charts, and the on-sale schedule were not announced alongside the dates. Tickets for a tour of this profile are sold through the major Korean platforms, historically Interpark and similar large sellers handle tours of this size, with separate phases for fan-club presales and general public sales. Global on-sale windows and official resale mechanisms are common on tours at this level, and demand for past BIGBANG-related tours has far outstripped early allocations.
 
 ## How to visit like a local
 
 Korean concert culture treats the hours before doors as part of the event. Long queues form outside Goyang Stadium's gates well ahead of time, and merchandise lines are separate from entry lines. Payment at on-site vendors and official merch booths is almost entirely card or mobile pay, since Korea is a heavily cashless live-event market, though smaller food stalls near transit stations sometimes take cash.
 
-Lightsticks are typically purchased in advance online or picked up at designated booths rather than bought casually at the gate, which is how most fans end up waving the right color in sync with everyone else. The usual sting for international visitors at Korean stadium shows is the post-show transit crush — trains and buses near the venue get overwhelmed the moment the final encore ends, and the wait can stretch long past the last song.
+Lightsticks are typically purchased in advance online or picked up at designated booths rather than bought casually at the gate, which is how most fans end up waving the right color in sync with everyone else. The usual sting for international visitors at Korean stadium shows is the post-show transit crush, trains and buses near the venue get overwhelmed the moment the final encore ends, and the wait can stretch long past the last song.
 
 Fans loitering around the stadium plaza before and after a show is normal and generally welcomed, and the plaza has an atmosphere of its own even without a queue to join.

@@ -117,11 +117,11 @@ The easiest approach is Nampo Station (Busan Metro Line 1), Exit 7, which puts y
 
 From there you have three options:
 
-- Walk up through the stone stairways and garden paths — 10-15 minutes, shaded most of the way
+- Walk up through the stone stairways and garden paths, 10-15 minutes, shaded most of the way
 - Take the outdoor escalators that cut through the hillside, a local shortcut that skips most of the climb
 - Ride the free elevator inside the Lotte Department Store Gwangbok branch, which lets out near the top
 
-Because the park never closes, there's no gate and no ticket for the grounds themselves — only Busan Tower has its own admission.
+Because the park never closes, there's no gate and no ticket for the grounds themselves, only Busan Tower has its own admission.
 
 ## What to see once you're up top
 
@@ -147,13 +147,13 @@ Evenings bring a different draw: Busan Tower lit up against the dark, and the su
 
 ## How to visit like a local
 
-Yongdusan Park is one of central Busan's most visited attractions, so the goal isn't finding a quiet corner nobody knows — it's timing your visit to dodge the peak crush.
+Yongdusan Park is one of central Busan's most visited attractions, so the goal isn't finding a quiet corner nobody knows. It's timing your visit to dodge the peak crush.
 
 - Go early. Weekday mornings, or that narrow 7am-8am weekend window, are your best shot at empty pathways.
-- Skip the stairs if you're short on time — the escalators or the Lotte Department Store elevator save real effort.
+- Skip the stairs if you're short on time, the escalators or the Lotte Department Store elevator save real effort.
 - Pay for the tower ticket at the counter; cash and card are both fine, and there's rarely a need to book ahead outside peak holiday weeks.
 - Combine it with Nampo-dong and Gukje Market, both within walking distance, so the hill becomes one stop on a bigger loop rather than a separate trip.
-- The mistake most visitors make is arriving midday on a weekend expecting a peaceful hilltop walk — it's the busiest stretch of the whole week here.
+- The mistake most visitors make is arriving midday on a weekend expecting a peaceful hilltop walk. It's the busiest stretch of the whole week here.
 
 Because the park is open around the clock, there's genuine freedom to build it around the rest of your Busan day rather than the other way around.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nantes-douves-du-chateau
-srcHash: '0f0708ecf8aa'
+srcHash: 'a2fc727424ab'
 title: 'Douves du Château: guía de viaje de Nantes (4,5★)'
 description: 'Las Douves du Château son el foso de césped que rodea el Château des Ducs de Bretagne, en el centro de Nantes, abierto a diario de 8:30 a 19:00 h y de acceso gratuito. 4,5★ (369 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Douves du Château son el foso de césped que rodea el Château des Ducs de Bretagne, en el centro de Nantes, abierto a diario de 8:30 a 19:00 h y de acceso gratuito. Es una forma poco conocida de ver las murallas del castillo sin pagar la entrada al museo del interior, y resulta más tranquila a primera hora de la mañana, antes de que se llene el patio. Calcule entre 20 y 30 minutos para recorrerlo, o más si se queda un rato tumbado en el césped.

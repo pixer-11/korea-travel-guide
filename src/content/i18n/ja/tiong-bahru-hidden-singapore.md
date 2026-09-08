@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: tiong-bahru-hidden-singapore
-srcHash: 'd39d1122e01b'
+srcHash: 'a54a27634e6a'
 title: HIDDEN Singapore:ティオンバル(Tiong Bahru)旅行ガイド(4.9★)
 description: HIDDEN Singaporeは1092 Lower Delta Rdにあり、いつものショップハウスが並ぶティオンバル(Tiong Bahru)エリアの中ではなく、そこからタクシーやバスで少し行った場所にあります。Yong Siak Streetにあると思い込みがちなので、行く前に住所を確認しておきましょう。4.9★(140件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: HIDDEN Singaporeは1092 Lower Delta Rdにあり、いつものショップハウスが並ぶティオンバル(Tiong Bahru)エリアの中ではなく、そこからタクシーやバスで少し行った場所にあります。Yong Siak Streetにあると思い込みがちなので、行く前に住所を確認しておきましょう。毎日午前9時から午後5時まで営業しており、4.9の評価に対してレビュー数はわずか140件と、今なお本当に知る人の少ないスポットです。1時間ほど時間を取り、平日の午前中に訪れ、その後はティオンバルのアールデコ様式の建物街を散策するのと組み合わせるのがおすすめです。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tsim-sha-tsui-tsim-sha-tsui-waterfront-park
-srcHash: 'dd2dc42492a2'
+srcHash: '97a3a95ec9fb'
 title: 'Tsim Sha Tsui Waterfront Park: Guía de viaje (4.4★)'
 description: 'Tsim Sha Tsui Waterfront Park es el paseo marítimo junto a Victoria Harbour desde donde se obtiene esa vista de postal del perfil de Hong Kong Island, sobre todo al atardecer, cuando arranca el Symphony of Lights hacia las 8pm. 4.4★ (2,121 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Tsim Sha Tsui Waterfront Park es el paseo marítimo junto a Victoria Harbour desde donde se obtiene esa vista de postal del perfil de Hong Kong Island, sobre todo al atardecer, cuando arranca el Symphony of Lights hacia las 8pm. Está abierto 24 horas y es gratuito. Conviene ir temprano —de 7am a 9am entre semana, de 7am a 10am los fines de semana— para tener la barandilla para uno solo; hay que evitar el tramo de 4pm a 11pm los fines de semana, cuando se llena de gente.

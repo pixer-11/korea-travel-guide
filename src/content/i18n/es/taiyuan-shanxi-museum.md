@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiyuan-shanxi-museum
-srcHash: '8a627ca90f7f'
+srcHash: '05e347bd4da1'
 title: 'Museo de Shanxi: Guía de viaje de Taiyuan'
 description: El Museo de Shanxi se encuentra en la orilla oeste del río Fen, en el número 13 de Bin He Xi Lu, en el distrito de Wanbolin, abierto de martes a domingo de 9:00 a 17:00 (cerrado los lunes).
 quickAnswer: 'El Museo de Shanxi se encuentra en la orilla oeste del río Fen, en el número 13 de Bin He Xi Lu, en el distrito de Wanbolin, abierto de martes a domingo de 9:00 a 17:00 (cerrado los lunes). Dedica entre dos y tres horas para recorrer con calma las salas de bronces y arte budista, y ve una mañana entre semana si puedes: es una de las atracciones principales de Taiyuan con menos afluencia, así que a menudo tendrás galerías enteras para ti solo. La última entrada suele ser una hora antes del cierre, así que procura llegar como muy tarde a primera o media tarde.'

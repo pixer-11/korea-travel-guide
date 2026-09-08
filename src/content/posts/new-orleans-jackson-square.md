@@ -54,7 +54,7 @@ draft: false
 ---
 ## Why go
 
-You come around the corner from Chartres Street and the square just opens up in front of you — wrought-iron fences, a carpet of green, and behind it the three spires of St. Louis Cathedral pointing up over the rooftops. This is the spot New Orleans postcards are made from, and for once the postcard undersells it. The cathedral has stood here in some form since the 1720s, flanked by the matching Cabildo and Presbytère, and the whole ensemble is wrapped by the red-brick Pontalba Buildings — reputedly the oldest continuously rented apartment buildings in the country, their cast-iron balconies dripping ferns and ivy.
+You come around the corner from Chartres Street and the square just opens up in front of you (wrought-iron fences, a carpet of green, and behind it the three spires of St. Louis Cathedral pointing up over the rooftops. This is the spot New Orleans postcards are made from, and for once the postcard undersells it. The cathedral has stood here in some form since the 1720s, flanked by the matching Cabildo and Presbytère, and the whole ensemble is wrapped by the red-brick Pontalba Buildings) reputedly the oldest continuously rented apartment buildings in the country, their cast-iron balconies dripping ferns and ivy.
 
 Jackson Square isn't a museum piece behind glass; it's a working public square where the city's street life still happens in real time.
 
@@ -66,20 +66,20 @@ Brass bands cluster near the Cabildo steps, trumpets bright and a little raw in 
 
 ## The buildings worth a closer look
 
-St. Louis Cathedral is open to visitors outside of services — the ceiling murals and the hush after the square's noise are worth the two minutes it takes. The Cabildo, where the Louisiana Purchase transfer documents were signed in 1803, and the Presbytère next door now house Louisiana State Museum exhibits (Mardi Gras history in the Presbytère, in particular, is a good one if you have another half hour). Both charge admission, so check current hours and ticket prices before you go, since museum schedules shift seasonally.
+St. Louis Cathedral is open to visitors outside of services, the ceiling murals and the hush after the square's noise are worth the two minutes it takes. The Cabildo, where the Louisiana Purchase transfer documents were signed in 1803, and the Presbytère next door now house Louisiana State Museum exhibits (Mardi Gras history in the Presbytère, in particular, is a good one if you have another half hour). Both charge admission, so check current hours and ticket prices before you go, since museum schedules shift seasonally.
 
 ## Getting there
 
 Jackson Square sits in the French Quarter at Decatur and St. Peter Streets, one block from the Mississippi River and the Moonwalk promenade. There's no subway in New Orleans, but the RTA streetcar (Canal or Rampart-St. Claude lines) and most Quarter-bound buses drop you within a few blocks. If you're coming from the Riverfront streetcar line, get off at the Toulouse or French Market stop and walk one block inland.
 
-Most visitors simply walk in from wherever they're already staying in the Quarter or the CBD — it's flat, short, and impossible to miss once you're within a few blocks.
+Most visitors simply walk in from wherever they're already staying in the Quarter or the CBD. It's flat, short, and impossible to miss once you're within a few blocks.
 
 ## When to go
 
-This is a very popular, very well-photographed landmark, and it earns that popularity — expect company at almost any hour of the daylight. Mornings, right after the gates open, are your best shot at empty benches and clear sightlines to the cathedral before the tour groups and the heat both build. Late afternoon brings the biggest crowds, street performers in full swing, and the golden light that makes the ironwork glow — worth it if you want the atmosphere, not the quiet. Evenings are lively too, with the cathedral often floodlit, though the artists and readers mostly pack up by nightfall.
+This is a very popular, very well-photographed landmark, and it earns that popularity (expect company at almost any hour of the daylight. Mornings, right after the gates open, are your best shot at empty benches and clear sightlines to the cathedral before the tour groups and the heat both build. Late afternoon brings the biggest crowds, street performers in full swing, and the golden light that makes the ironwork glow) worth it if you want the atmosphere, not the quiet. Evenings are lively too, with the cathedral often floodlit, though the artists and readers mostly pack up by nightfall.
 
 ## How to visit like a local
 
-Skip the urge to linger right at the main gate on Decatur Street — that's where every tour group funnels through, and it's the slowest, most photographed stretch of sidewalk in the Quarter. Walk the perimeter instead; the St. Ann and St. Peter sides are usually calmer. If you want a caricature or portrait done, look at a few artists' existing work clipped to their easels before you pick one — prices aren't posted, so agree on a fee before they start drawing, not after.
+Skip the urge to linger right at the main gate on Decatur Street (that's where every tour group funnels through, and it's the slowest, most photographed stretch of sidewalk in the Quarter. Walk the perimeter instead; the St. Ann and St. Peter sides are usually calmer. If you want a caricature or portrait done, look at a few artists' existing work clipped to their easels before you pick one) prices aren't posted, so agree on a fee before they start drawing, not after.
 
-Tips for musicians and performers are cash, dropped in an open case or hat — small bills, no need to overthink it. Locals treat the square as a through-route more than a destination, cutting across it between Decatur Street shopping and the Cabildo or Café du Monde rather than posing for long. The most common tourist mistake is trying to see the square at midday in summer — the heat and glare are brutal and the shade is minimal, so if you can only come once, make it morning or after 6pm.
+Tips for musicians and performers are cash, dropped in an open case or hat (small bills, no need to overthink it. Locals treat the square as a through-route more than a destination, cutting across it between Decatur Street shopping and the Cabildo or Café du Monde rather than posing for long. The most common tourist mistake is trying to see the square at midday in summer) the heat and glare are brutal and the shade is minimal, so if you can only come once, make it morning or after 6pm.

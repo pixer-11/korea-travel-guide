@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: gyeongju-history
-srcHash: 'e1a35c051659'
+srcHash: 'db627b84f32a'
 title: 慶州で歴史を巡る旅
 description: 慶州で丸2日間を過ごす旅程:1日は市街地の古墳公園(Tumuli Park)・瞻星台(Cheomseongdae)・雁鴨池(Wolji Pond)を巡るループ、もう1日は東の山あいにある仏国寺(Bulguksa Temple)と石窟庵(Seokguram Grotto)へ。
 quickAnswer: 慶州では丸2日間を確保しましょう。1日は市街地にある古墳公園(Tumuli Park)・瞻星台(Cheomseongdae)・雁鴨池(Wolji Pond)を巡るループに、もう1日は東の山あいにある仏国寺(Bulguksa Temple)と石窟庵(Seokguram Grotto)にあてます。滞在拠点は歩きやすい皇理団街(Hwangnidan-gil)周辺がおすすめで、平坦な市街地の古墳エリアはレンタサイクルで回り、仏国寺方面へはタクシーか10・11・12番のバス路線の利用を予算に組み込んでおきましょう。

@@ -82,13 +82,13 @@ Nearly 17,000 reviews and a 4.5 rating make it one of the most reviewed restaura
 
 ## Getting there
 
-The restaurant sits on Jl. Dharmahusada No. 144 in Mojo, Gubeng district — a part of Surabaya close to Airlangga University's medical campus and a short taxi or ride-hailing (Gojek/Grab) trip from the city center and from Surabaya's main train stations, Gubeng and Pasar Turi. There's no direct rail or metro line to this address, so a car or motorbike taxi is the practical way in; expect the drive from central Surabaya (around Tunjungan or Jembatan Merah) to take roughly 15-25 minutes depending on traffic.
+The restaurant sits on Jl. Dharmahusada No. 144 in Mojo, Gubeng district. A part of Surabaya close to Airlangga University's medical campus and a short taxi or ride-hailing (Gojek/Grab) trip from the city center and from Surabaya's main train stations, Gubeng and Pasar Turi. There's no direct rail or metro line to this address, so a car or motorbike taxi is the practical way in; expect the drive from central Surabaya (around Tunjungan or Jembatan Merah) to take roughly 15-25 minutes depending on traffic.
 
 On-site or roadside parking exists but fills up fast during peak hours, so allow extra time to park or ask your driver to circle back.
 
 ## What to eat
 
-The menu centers on Surabaya/East Javanese comfort food: ayam goreng (fried chicken) and bebek goreng (fried duck), both served with a choice of sambal that ranges from sweetish to fiercely spicy. Empal (fried seasoned beef) and the various sayur (vegetable side dishes) round out a typical plate. The signature item most people mention is rempeyek — the brittle, deep-fried cracker studded with peanuts or tiny anchovies — which is sold in take-away packs precisely because so many diners want to bring it home or give it as oleh-oleh (a travel gift) for family back home.
+The menu centers on Surabaya/East Javanese comfort food: ayam goreng (fried chicken), and bebek goreng (fried duck), both served with a choice of sambal that ranges from sweetish to fiercely spicy. Empal (fried seasoned beef), and the various sayur (vegetable side dishes) round out a typical plate. The signature item most people mention is rempeyek (the brittle, deep-fried cracker studded with peanuts or tiny anchovies), which is sold in take-away packs precisely because so many diners want to bring it home or give it as oleh-oleh (a travel gift) for family back home.
 
 Portions are generous and pricing sits in the mid-range for Surabaya (price level 2), making it accessible for a full family meal without being a splurge.
 
@@ -98,12 +98,12 @@ Because this is a very popular, high-traffic address, timing is less about seaso
 
 ## How to visit like a local
 
-Given the volume of visitors here, the smartest strategy is timing, not secrecy — this is not an under-the-radar spot, so plan around the crowds rather than expecting to beat them by discovery. Go on a weekday if possible, and avoid the traditional Indonesian lunch rush (12-1pm) and the dinner rush after 6:30pm. Expect a queue-and-seat system rather than reservations for casual walk-ins; larger groups sometimes call ahead, so if you're arriving with more than four people, it's worth asking your hotel or driver to check on your behalf.
+Given the volume of visitors here, the smartest strategy is timing, not secrecy. This is not an under-the-radar spot, so plan around the crowds rather than expecting to beat them by discovery. Go on a weekday if possible, and avoid the traditional Indonesian lunch rush (12-1pm) and the dinner rush after 6:30pm. Expect a queue-and-seat system rather than reservations for casual walk-ins; larger groups sometimes call ahead, so if you're arriving with more than four people, it's worth asking your hotel or driver to check on your behalf.
 
-Payment is typically cash or card, and mobile payment via QRIS (Indonesia's universal QR payment standard) is increasingly common in Surabaya restaurants, so having that option on your phone doesn't hurt. Tipping isn't customary or expected at Indonesian depot-style restaurants like this one. Order rempeyek both as a table side and as a sealed take-home pack — the crackers are sold specifically for this, and skipping the take-home version is the most common visitor oversight.
+Payment is typically cash or card, and mobile payment via QRIS (Indonesia's universal QR payment standard) is increasingly common in Surabaya restaurants, so having that option on your phone doesn't hurt. Tipping isn't customary or expected at Indonesian depot-style restaurants like this one. Order rempeyek both as a table side and as a sealed take-home pack. The crackers are sold specifically for this, and skipping the take-home version is the most common visitor oversight.
 
 If your sambal tolerance is untested, ask staff which variety is mild before committing, since the spice range here goes well beyond what many international visitors expect from a "medium" label.
 
 ## Nearby and practical tips
 
-The restaurant's location near Airlangga University's medical faculty means the surrounding streets have a steady, practical footfall rather than a touristy strip, so don't expect much else to browse nearby — treat this as a destination stop rather than part of a walking itinerary. Budget 45-75 minutes for a sit-down meal, more if you're visiting during a peak window. Confirm current hours before heading out, as Depot Bu Rudy, like most Indonesian restaurants, can adjust hours around major holidays such as Idul Fitri.
+The restaurant's location near Airlangga University's medical faculty means the surrounding streets have a steady, practical footfall rather than a touristy strip, so don't expect much else to browse nearby, treat this as a destination stop rather than part of a walking itinerary. Budget 45-75 minutes for a sit-down meal, more if you're visiting during a peak window. Confirm current hours before heading out, as Depot Bu Rudy, like most Indonesian restaurants, can adjust hours around major holidays such as Idul Fitri.

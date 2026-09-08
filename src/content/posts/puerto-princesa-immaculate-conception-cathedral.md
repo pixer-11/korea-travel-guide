@@ -52,15 +52,15 @@ You spot the twin white towers before you spot the street sign. Rizal Avenue cur
 
 ## Why go
 
-This isn't a grand cathedral stuffed with gilded altars. It's spare, whitewashed, almost plain — and that's the point. The dual bell towers frame a simple pediment, and a Virgin Mary statue stands out front, weathered by Palawan's sun and salt air.
+This isn't a grand cathedral stuffed with gilded altars. It's spare, whitewashed, almost plain, and that's the point. The dual bell towers frame a simple pediment, and a Virgin Mary statue stands out front, weathered by Palawan's sun and salt air.
 
-Step inside and the drop in temperature hits you first. Thick walls and high ceilings keep the tropical heat out, and the interior's restraint — bare walls, simple pews, light pouring through modest windows — feels more like a place people actually pray than a photo backdrop.
+Step inside and the drop in temperature hits you first. Thick walls and high ceilings keep the tropical heat out, and the interior's restraint (bare walls, simple pews, light pouring through modest windows) feels more like a place people actually pray than a photo backdrop.
 
 ## Getting there
 
 The cathedral sits at 58 Rizal Avenue, right in Puerto Princesa's downtown grid. If you're staying near the airport, it's about a 10-minute tricycle ride into the city center.
 
-Most travelers combine it with a walk down Rizal Avenue itself, since it runs past the plaza, the old capitol building, and several of the city's oldest commercial blocks. No need to book a driver specifically — any tricycle or grab car heading downtown will pass near it.
+Most travelers combine it with a walk down Rizal Avenue itself, since it runs past the plaza, the old capitol building, and several of the city's oldest commercial blocks. No need to book a driver specifically, any tricycle or grab car heading downtown will pass near it.
 
 ## What to see
 
@@ -76,15 +76,15 @@ Set aside 15 to 20 minutes for a look around, longer if you want to sit in a pew
 
 ## When to go
 
-Early morning on a weekday is your best window — the church is open, light is soft, and you won't be dodging a service. Sundays bring Mass crowds, especially late morning, so if you just want to see the building rather than attend, avoid that slot.
+Early morning on a weekday is your best window. The church is open, light is soft, and you won't be dodging a service. Sundays bring Mass crowds, especially late morning, so if you just want to see the building rather than attend, avoid that slot.
 
 Because it's an active parish, hours can shift around religious holidays like Holy Week or the Immaculate Conception feast day itself. Check locally or ask your accommodation before planning a specific time.
 
 ## How to visit like a local
 
-Dress like you would for any active church in the Philippines — shoulders and knees covered, nothing beach-casual, even though Puerto Princesa is a beach town. Flip-flops are fine; tank tops aren't.
+Dress like you would for any active church in the Philippines, shoulders and knees covered, nothing beach-casual, even though Puerto Princesa is a beach town. Flip-flops are fine; tank tops aren't.
 
-If Mass is in session, slip in quietly at the back rather than walking up the center aisle. Locals here don't treat the cathedral as a tourist attraction first — it's a working parish, so keep phone photography low-key and skip flash near the altar.
+If Mass is in session, slip in quietly at the back rather than walking up the center aisle. Locals here don't treat the cathedral as a tourist attraction first. It's a working parish, so keep phone photography low-key and skip flash near the altar.
 
 There's no entrance fee and no ticket line, so there's nothing to "beat" crowd-wise except Mass times. Weekday mid-mornings tend to be quiet enough that you can wander freely.
 

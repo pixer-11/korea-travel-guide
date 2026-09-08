@@ -31,34 +31,34 @@ eventRecurring: true
 
 The Coupang Play Series has become Korea's marquee pre-season football event, and the 2026 edition was its biggest billing yet: Manchester City against a Team K League selection on August 5, then Atlético Madrid in a second showcase match on August 9. The venue for both was Seoul World Cup Stadium, the 66,000-capacity ground built for the 2002 FIFA World Cup.
 
-For fans in East Asia, the series was a rare chance to see Premier League and La Liga heavyweights without flying to Europe. The two dates sat within a single week in early August, with Sangam-dong — the football district that grew up around the stadium — as the focal point.
+For fans in East Asia, the series was a rare chance to see Premier League and La Liga heavyweights without flying to Europe. The two dates sat within a single week in early August, with Sangam-dong, the football district that grew up around the stadium, as the focal point.
 
 ## Getting there
 
-Seoul World Cup Stadium sits in Mapo-gu's Sangam-dong district and is directly served by World Cup Stadium Station (Line 6) — Exits 1 and 2 feed straight into the stadium plaza. From Gangnam or Myeongdong, the trip runs roughly 40–50 minutes by subway with a transfer. Airport Railroad (AREX) travelers can connect to Line 6 at Digital Media City station, one stop from the stadium, making it an easy add-on for anyone flying in via Incheon.
+Seoul World Cup Stadium sits in Mapo-gu's Sangam-dong district and is directly served by World Cup Stadium Station (Line 6), Exits 1 and 2 feed straight into the stadium plaza. From Gangnam or Myeongdong, the trip runs roughly 40–50 minutes by subway with a transfer. Airport Railroad (AREX) travelers can connect to Line 6 at Digital Media City station, one stop from the stadium, making it an easy add-on for anyone flying in via Incheon.
 
-Taxis are an option, but traffic around the stadium backs up heavily on matchdays, so the subway is the more reliable route — the case for both the August 5 and August 9 dates.
+Taxis are an option, but traffic around the stadium backs up heavily on matchdays, so the subway is the more reliable route, the case for both the August 5 and August 9 dates.
 
 ## What to expect at the venue
 
 Seoul World Cup Stadium is a full-scale international venue with tiered seating, large concourses, and a stadium-adjacent shopping and dining complex in the Sangam World Cup Park area, which includes a mall with cinemas and restaurants for pre- or post-match downtime. The surrounding World Cup Park is a green, walkable space with themed sections (Peace Park, Sky Park among them) worth a stroll.
 
-For a double-header on the scale of Manchester City and Atlético Madrid, vendor areas, fan zones, and merchandise stalls tend to be more elaborate than at a typical K League match — closer in feel to an international friendly tour stop.
+For a double-header on the scale of Manchester City and Atlético Madrid, vendor areas, fan zones, and merchandise stalls tend to be more elaborate than at a typical K League match, closer in feel to an international friendly tour stop.
 
 ## Tickets, dates, and what's still unconfirmed
 
-The organizers confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — with exact kickoff times, ticket price tiers, and seating maps published on the official site. In a pre-season series featuring two of Europe's most-followed clubs, marquee sections are the ones that draw demand fastest.
+The organizers confirmed the dates (August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid) with exact kickoff times, ticket price tiers, and seating maps published on the official site. In a pre-season series featuring two of Europe's most-followed clubs, marquee sections are the ones that draw demand fastest.
 
 Coupang Play's official event page and authorized ticket partners were listed as the sources for dates, kickoff times, venue details, and pricing. Pre-season football calendars can shift with club schedules.
 
 ## When to go and how long to stay
 
-Gates and security lines for high-demand international matches move slower than at routine league fixtures, and most fans reach the stadium grounds at least 90 minutes before kickoff. Early August in Seoul is peak summer — hot, humid, and prone to sudden downpours — so evening kickoffs, typical for this kind of event, are more comfortable than day matches. The full evening runs roughly 4–5 hours door to door, counting subway travel, entry screening, and a post-match crowd exit that can take 30–45 minutes on its own.
+Gates and security lines for high-demand international matches move slower than at routine league fixtures, and most fans reach the stadium grounds at least 90 minutes before kickoff. Early August in Seoul is peak summer (hot, humid, and prone to sudden downpours), so evening kickoffs, typical for this kind of event, are more comfortable than day matches. The full evening runs roughly 4–5 hours door to door, counting subway travel, entry screening, and a post-match crowd exit that can take 30–45 minutes on its own.
 
 ## How to visit like a local
 
-Korean fans overwhelmingly buy tickets online in advance through official platforms and pay by card or mobile pay (Naver Pay, Kakao Pay, or a Korean-linked card) — walk-up ticket booths are unreliable for high-demand matches like this. Locals dress light and carry a small hand fan or portable battery fan, standard gear for sitting through August heat.
+Korean fans overwhelmingly buy tickets online in advance through official platforms and pay by card or mobile pay (Naver Pay, Kakao Pay, or a Korean-linked card). Walk-up ticket booths are unreliable for high-demand matches like this. Locals dress light and carry a small hand fan or portable battery fan, standard gear for sitting through August heat.
 
 Most fans eat before entering or grab something from the stalls near Exits 1–2 rather than relying on limited in-stadium options. The most common visitor mistake is underestimating exit congestion: locals typically linger 15–20 minutes at their seats or grab a coffee nearby rather than rushing the packed platform at World Cup Stadium Station right after the final whistle.
 
-Cheering sections tend to organize call-and-response chants led by ultras near the lower tiers — following along, even without knowing the words, is welcomed rather than seen as intrusive.
+Cheering sections tend to organize call-and-response chants led by ultras near the lower tiers, following along, even without knowing the words, is welcomed rather than seen as intrusive.

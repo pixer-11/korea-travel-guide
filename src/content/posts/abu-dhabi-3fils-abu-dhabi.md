@@ -36,11 +36,11 @@ draft: false
 
 Before this opened, if you wanted 3Fils you had to make the drive to Dubai's Jumeirah Fishing Harbour, where the original became one of the most talked-about restaurants in the region and climbed to No.1 on MENA's 50 Best Restaurants list. Its arrival in Abu Dhabi, inside The Abu Dhabi Edition on Al Maryah Island, is a genuine event for the city's dining scene rather than just another hotel restaurant opening.
 
-The pull isn't novelty for its own sake — it's the reputation the Dubai original built on precise, punchy Japanese-inflected small plates, and the promise that the Abu Dhabi version keeps that same DNA while adding its own room, its own energy, and a cocktail bar built to match.
+The pull isn't novelty for its own sake. It's the reputation the Dubai original built on precise, punchy Japanese-inflected small plates, and the promise that the Abu Dhabi version keeps that same DNA while adding its own room, its own energy, and a cocktail bar built to match.
 
 ## What to expect on the plate
 
-The menu leans Japanese, but this isn't a sushi-counter experience — it's Japanese technique dialed up with luxury ingredients that signal a night out rather than a routine dinner. Foie gras and truffle both feature, threaded through dishes designed for sharing across a table rather than solitary bowls. The format rewards ordering widely: small, intensely flavoured plates meant to keep arriving rather than one main course you commit to early.
+The menu leans Japanese, but this isn't a sushi-counter experience. It's Japanese technique dialed up with luxury ingredients that signal a night out rather than a routine dinner. Foie gras and truffle both feature, threaded through dishes designed for sharing across a table rather than solitary bowls. The format rewards ordering widely: small, intensely flavoured plates meant to keep arriving rather than one main course you commit to early.
 
 Pair that with a cocktail list built with the same creative intent as the food, and the bar is very much part of the draw here, not an afterthought bolted onto a restaurant.
 
@@ -58,12 +58,12 @@ This is the kind of place where the room and the plate are meant to work togethe
 
 ## When to go
 
-Because this is a newly opened, high-profile outpost of an already-famous name, demand is almost certainly front-loaded — expect dinner service, particularly Thursday through Saturday nights, to be the busiest and hardest to book. As with any buzzy new opening in a five-star hotel, exact opening hours and reservation policies were still being finalized around launch, so confirm current hours and book a table directly through the hotel or restaurant's official channels before you go, rather than assuming a walk-in table will be available.
+Because this is a newly opened, high-profile outpost of an already-famous name, demand is almost certainly front-loaded. Expect dinner service, particularly Thursday through Saturday nights, to be the busiest and hardest to book. As with any buzzy new opening in a five-star hotel, exact opening hours and reservation policies were still being finalized around launch, so confirm current hours and book a table directly through the hotel or restaurant's official channels before you go, rather than assuming a walk-in table will be available.
 
 ## How to visit like a local
 
-Treat this as a dinner reservation you make in advance, not a spontaneous stop — a restaurant carrying this much buzz from its Dubai original will fill fastest in its opening months, and turning up without a booking on a weekend night is the classic tourist misstep. Dress smart-casual to elevated; the Edition crowd skews polished rather than beach-casual, even though you're minutes from the Corniche.
+Treat this as a dinner reservation you make in advance, not a spontaneous stop, a restaurant carrying this much buzz from its Dubai original will fill fastest in its opening months, and turning up without a booking on a weekend night is the classic tourist misstep. Dress smart-casual to elevated; the Edition crowd skews polished rather than beach-casual, even though you're minutes from the Corniche.
 
-Go hungry and order to share — the format rewards a table of three or four splitting several dishes rather than everyone ordering their own starter and main. If you want the full experience without overcommitting on price, consider starting at the bar for a cocktail before or after your table is ready; it's built as a destination in its own right.
+Go hungry and order to share, the format rewards a table of three or four splitting several dishes rather than everyone ordering their own starter and main. If you want the full experience without overcommitting on price, consider starting at the bar for a cocktail before or after your table is ready; it's built as a destination in its own right.
 
-And because this is a recent opening, double-check hours, dress code specifics, and reservation requirements directly with the hotel shortly before you visit — details at a brand-new outpost can shift in the first months of operation.
+And because this is a recent opening, double-check hours, dress code specifics, and reservation requirements directly with the hotel shortly before you visit, details at a brand-new outpost can shift in the first months of operation.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-fuglen-tokyo
-srcHash: '775ddda2bcf4'
+srcHash: 'ca7d89369544'
 title: 'Fuglen: Guía de viaje de Tokio'
 description: Fuglen Tokyo es un café-bar de importación noruega en la zona de Tomigaya, en Shibuya, cerca del parque Yoyogi, conocido por su café de tercera ola y su repostería nórdica de día, y por sus cócteles originales de noche.
 quickAnswer: Fuglen Tokyo es un café-bar de importación noruega en la zona de Tomigaya, en Shibuya, cerca del parque Yoyogi, conocido por su café de tercera ola y su repostería nórdica de día, y por sus cócteles originales de noche. Ve un día de semana por la mañana para tomar café y bollos de canela sin esperas, o después de las 20:00 para disfrutar de la carta de bar en una sala acogedora amueblada con piezas escandinavas vintage de los años 60. Está a unos 10-12 minutos a pie de las estaciones de Yoyogi-Hachiman o Yoyogi-Koen, acepta efectivo y tarjeta, y tiene precios moderados (nivel de precio 2).

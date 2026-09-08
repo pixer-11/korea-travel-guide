@@ -84,11 +84,11 @@ The building itself gives you a hint of what's inside before you even reach the 
 
 Take the MTR from Jordan Station, changing lines as needed, and get off at Che Kung Temple Station. From there it's a flat, well-signed 5-minute walk along the river promenade.
 
-Alternatively, ride to Sha Tin Station and take a taxi or the free-ish local bus network the last stretch — useful if you're combining the museum with New Town Plaza shopping. Either way, expect the full trip from Jordan to run close to 40 minutes door to door.
+Alternatively, ride to Sha Tin Station and take a taxi or the free-ish local bus network the last stretch, useful if you're combining the museum with New Town Plaza shopping. Either way, expect the full trip from Jordan to run close to 40 minutes door to door.
 
 ## What's inside worth your time
 
-The permanent Bruce Lee exhibition is the single biggest draw, filling a gallery with his handwritten notes, film costumes, and nunchaku — genuinely absorbing even if you're only a casual fan. Give it 30–40 minutes alone.
+The permanent Bruce Lee exhibition is the single biggest draw, filling a gallery with his handwritten notes, film costumes, and nunchaku, genuinely absorbing even if you're only a casual fan. Give it 30–40 minutes alone.
 
 Beyond Lee, don't skip:
 
@@ -96,7 +96,7 @@ Beyond Lee, don't skip:
 - The New Territories Heritage Hall, tracing rural clan life, fishing villages, and walled settlements before the city swallowed them
 - Rotating design and contemporary art galleries on the upper floor, which change every few months
 
-Most visitors move through the whole museum in two to three hours. If you're tight on time, prioritize Bruce Lee and Cantonese Opera — they're the two halls people talk about afterward.
+Most visitors move through the whole museum in two to three hours. If you're tight on time, prioritize Bruce Lee and Cantonese Opera. They're the two halls people talk about afterward.
 
 ## When to go
 
@@ -106,11 +106,11 @@ Given how popular this museum is with both visitors and school groups, weekday m
 
 ## How to visit like a local
 
-Buy your ticket with an Octopus card if you have one — it's the standard way Hong Kong residents pay for almost everything, museum admission included, and it saves fumbling with cash at the counter.
+Buy your ticket with an Octopus card if you have one. It's the standard way Hong Kong residents pay for almost everything, museum admission included, and it saves fumbling with cash at the counter.
 
-The mistake most first-time visitors make is treating this as a quick add-on to a Sha Tin shopping trip and rushing through in under an hour. The Bruce Lee gallery and Cantonese Opera hall both reward slowing down — read the wall text, watch the short video loops, don't just photograph and move on.
+The mistake most first-time visitors make is treating this as a quick add-on to a Sha Tin shopping trip and rushing through in under an hour. The Bruce Lee gallery and Cantonese Opera hall both reward slowing down, read the wall text, watch the short video loops, don't just photograph and move on.
 
-Because this is a genuinely busy museum rather than a quiet local secret, the best crowd-beating tactic is timing, not location: weekday mornings, right at the 10am opening, before school groups arrive mid-morning. Photography without flash is generally fine in most permanent galleries, but some rotating exhibitions restrict it — signage at the entrance to each hall will tell you.
+Because this is a genuinely busy museum rather than a quiet local secret, the best crowd-beating tactic is timing, not location: weekday mornings, right at the 10am opening, before school groups arrive mid-morning. Photography without flash is generally fine in most permanent galleries, but some rotating exhibitions restrict it, signage at the entrance to each hall will tell you.
 
 Pair the visit with a walk along the Shing Mun River promenade afterward, a genuinely pleasant, unhurried stretch that most tourists skip entirely on their way back to the station.
 
@@ -118,4 +118,4 @@ Pair the visit with a walk along the Shing Mun River promenade afterward, a genu
 
 Check the museum's official site for current admission prices before visiting, since these can shift with special exhibitions. Special ticketed shows sometimes run alongside the free permanent galleries, so confirm what's included when you buy.
 
-Wear comfortable shoes for the walk from Che Kung Temple Station, and note that the museum is fully air-conditioned — a genuine relief if you're visiting in Hong Kong's humid summer months.
+Wear comfortable shoes for the walk from Che Kung Temple Station, and note that the museum is fully air-conditioned, a genuine relief if you're visiting in Hong Kong's humid summer months.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: fujairah-steki
-srcHash: '3789092efbe9'
+srcHash: 'b8bcc48826eb'
 title: Steki:福查伊拉(Fujairah)美食指南
 description: Steki是一家位于福查伊拉(Fujairah)阳伞海滩(Umbrella Beach)附近、阿尔法塞尔路(Al Faseel Road，E99）上的希腊餐厅，近600条点评给出4.8分的高评价，慕萨卡、串烤肉和烤海鲜都是招牌，价格适中，值得一试。
 quickAnswer: Steki是一家位于福查伊拉(Fujairah)阳伞海滩(Umbrella Beach)附近、阿尔法塞尔路(Al Faseel Road，E99）上的希腊餐厅，近600条点评给出4.8分的高评价，慕萨卡、串烤肉和烤海鲜都是招牌，价格适中，值得一试。建议选在日落前后早一点去吃晚餐，饭后可以沿阳伞海滩散散步消消食；由于座位有限，最好提前订位，或是一开门就到店。

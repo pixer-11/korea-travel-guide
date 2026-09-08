@@ -94,9 +94,9 @@ updatedDate: '2026-08-30'
 ---
 ## Why go
 
-Sam Poh Temple sits on a hillside just outside Brinchang, and you smell it before you see it — incense smoke drifting through the pines. The complex unfolds in tiers up the slope: a candy-striped gate, a courtyard of stone lanterns, and a hall where a huge gilded Buddha catches whatever light gets through the highland mist.
+Sam Poh Temple sits on a hillside just outside Brinchang, and you smell it before you see it, incense smoke drifting through the pines. The complex unfolds in tiers up the slope: a candy-striped gate, a courtyard of stone lanterns, and a hall where a huge gilded Buddha catches whatever light gets through the highland mist.
 
-It's not subtle. The gate alone is painted in reds, yellows and greens bright enough to stop traffic, and that's the point — it announces itself as one of the largest Buddhist temple complexes in Malaysia's hill-station belt.
+It's not subtle. The gate alone is painted in reds, yellows and greens bright enough to stop traffic, and that's the point, it announces itself as one of the largest Buddhist temple complexes in Malaysia's hill-station belt.
 
 ## What you'll see
 
@@ -105,10 +105,10 @@ Climb the steps and the layout reveals itself in stages. There's a lower courtya
 Inside the main hall, look for:
 
 - The large gilded Buddha statue flanked by smaller relics
-- Prayer wheels along the side walls — give them a spin as you pass
+- Prayer wheels along the side walls, give them a spin as you pass
 - The bell tower, if it's open, for a view over the tea-country ridgelines
 
-Photographers linger longest at the gate itself — its tiled roofline and dragon motifs are the most-photographed corner of the whole site.
+Photographers linger longest at the gate itself, its tiled roofline and dragon motifs are the most-photographed corner of the whole site.
 
 ## Getting there
 
@@ -118,9 +118,9 @@ Many visitors fold it into a loop with the Big Red Strawberry Farm and the Boh S
 
 ## When to go
 
-The temple is open daily from 8am to 5pm, so plan your visit inside that window — there's no early-morning or evening access.
+The temple is open daily from 8am to 5pm, so plan your visit inside that window. There's no early-morning or evening access.
 
-Weekdays are quiet almost all day, which makes them the easiest time to wander without dodging tour groups. On weekends, going early — before tour groups arrive — tends to be the calmer option.
+Weekdays are quiet almost all day, which makes them the easiest time to wander without dodging tour groups. On weekends, going early, before tour groups arrive, tends to be the calmer option.
 
 Try to avoid the busiest midday hours on weekends, when the courtyards fill up and the gate becomes a bottleneck for photos. If you're only in the highlands on a Saturday or Sunday, get there right at opening.
 
@@ -130,7 +130,7 @@ Cameron Highlands' cooler climate means midday sun rarely gets brutal, but after
 
 This is a working temple, not a museum, so dress and behave accordingly.
 
-- Cover shoulders and knees — modest clothing is expected in the halls
+- Cover shoulders and knees, modest clothing is expected in the halls
 - Remove shoes before entering interior shrine spaces
 - Keep voices low near people praying or making offerings
 - Entry is generally free, though a small donation box sits near the main hall
@@ -139,4 +139,4 @@ The mistake most visitors make is treating the gate as the whole visit and skipp
 
 Because it's well known and easy to combine with other Brinchang stops, tour buses do treat it as a checklist item. Going early on a weekday, or right at 8am on a weekend, is the simplest way to have the courtyards mostly to yourself before the coaches roll in.
 
-No booking is needed — you simply walk in during opening hours. If you want a calmer, more contemplative visit rather than a crowded photo-op, timing is really the only variable that matters here.
+No booking is needed, you simply walk in during opening hours. If you want a calmer, more contemplative visit rather than a crowded photo-op, timing is really the only variable that matters here.

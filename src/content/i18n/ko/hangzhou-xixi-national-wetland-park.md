@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hangzhou-xixi-national-wetland-park
-srcHash: '5d0999a3a670'
+srcHash: 'cde080282c32'
 title: '시시국가습지공원(Xixi National Wetland Park): 항저우 여행 가이드 (4.5★)'
 description: 시시국가습지공원(Xixi National Wetland Park)은 항저우 서쪽 끝자락에 자리한 운하와 갈대 늪, 오래된 어촌 마을이 얽혀 있는 광활한 습지입니다 — 매일 오전 7:30~오후 6:30 운영. 4.5★(리뷰 210개) — 방문객들의 후기, 운영 시간, 팁을 소개합니다.
 quickAnswer: 시시국가습지공원(Xixi National Wetland Park)은 항저우 서쪽 끝자락에 자리한 운하와 갈대 늪, 오래된 어촌 마을이 얽혀 있는 광활한 습지입니다 — 매일 오전 7:30~오후 6:30 운영. 반나절에서 하루 정도 시간을 두고, 가능하면 배를 타고 둘러보는 것이 좋으며, 이른 아침에 가면 목재 산책로를 거의 혼자 독차지할 수 있습니다. 서호(West Lake)보다 한적한 대안이라, 이곳에서는 인파를 피하는 것보다 방문 시간대와 계절을 잘 잡는 것이 더 중요합니다.

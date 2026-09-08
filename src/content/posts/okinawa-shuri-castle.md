@@ -58,7 +58,7 @@ draft: false
 
 ## Why Shuri Castle matters
 
-This is not just another Japanese castle. Shuri Castle was the political and spiritual heart of the Ryukyu Kingdom for nearly 450 years, and its architecture shows it — vermilion halls, dragon-carved balustrades, and roof lines that lean toward Fujian and Southeast Asia as much as Kyoto.
+This is not just another Japanese castle. Shuri Castle was the political and spiritual heart of the Ryukyu Kingdom for nearly 450 years, and its architecture shows it, vermilion halls, dragon-carved balustrades, and roof lines that lean toward Fujian and Southeast Asia as much as Kyoto.
 
 The complex has burned and been rebuilt repeatedly, most recently after a devastating 2019 fire gutted the main hall. Reconstruction is ongoing, and that's part of what makes a visit right now genuinely interesting rather than a letdown.
 
@@ -66,7 +66,7 @@ The complex has burned and been rebuilt repeatedly, most recently after a devast
 
 Take the Okinawa Urban Monorail (Yui Rail) to Shuri Station, then walk about 15–20 minutes uphill, or hop a short taxi ride if the heat has you beat.
 
-Local buses also stop near the castle entrance from central Naha. If you're driving, there's paid parking nearby, but on weekends and holidays it fills fast — arrive early or expect to circle.
+Local buses also stop near the castle entrance from central Naha. If you're driving, there's paid parking nearby, but on weekends and holidays it fills fast. Arrive early or expect to circle.
 
 - Nearest station: Shuri Station (Yui Rail)
 - Walk time from station: 15–20 minutes, mostly uphill
@@ -74,22 +74,22 @@ Local buses also stop near the castle entrance from central Naha. If you're driv
 
 ## What you'll see
 
-You enter through a series of stone gates — Kankaimon, then Zuisenmon — each framing the next courtyard like a stage curtain pulling back. The Seiden, the main hall, is the visual anchor, though as of recent years it's still being rebuilt behind protective scaffolding you can actually walk through and observe.
+You enter through a series of stone gates (Kankaimon, then Zuisenmon) each framing the next courtyard like a stage curtain pulling back. The Seiden, the main hall, is the visual anchor, though as of recent years it's still being rebuilt behind protective scaffolding you can actually walk through and observe.
 
 That's the unexpected highlight: viewing platforms let you watch traditional carpentry and lacquer techniques used to restore the hall, a rare window into craftsmanship you won't see at most reconstructed monuments.
 
-Beyond the main halls, the grounds open onto ramparts with panoramic views over Naha and, on clear days, out to the coast. Give yourself time to walk the full loop rather than just the central courtyard — the quieter garden paths and side gates thin out the crowds noticeably.
+Beyond the main halls, the grounds open onto ramparts with panoramic views over Naha and, on clear days, out to the coast. Give yourself time to walk the full loop rather than just the central courtyard, the quieter garden paths and side gates thin out the crowds noticeably.
 
-- Seiden (main hall) — under active reconstruction, viewable via walkways
-- Kankaimon and Zuisenmon gates — classic photo points
-- Ryukyu-style stone walls (Ishigaki) — some of the best-preserved in Okinawa
-- Hilltop ramparts — city and coastal views
+- Seiden (main hall), under active reconstruction, viewable via walkways
+- Kankaimon and Zuisenmon gates, classic photo points
+- Ryukyu-style stone walls (Ishigaki), some of the best-preserved in Okinawa
+- Hilltop ramparts, city and coastal views
 
 ## When to go
 
 Shuri Castle is open every day from 8:30 AM to 7:00 PM, with no weekly closing day listed, though it's worth double-checking official hours before you go since seasonal changes do happen.
 
-Mornings right at opening are noticeably calmer than midday, when tour groups from cruise ships and package tours cluster through the main gates. Late afternoon, an hour or two before the 7 PM close, is another good window — the light turns golden on the red walls and the crowds have mostly cleared out.
+Mornings right at opening are noticeably calmer than midday, when tour groups from cruise ships and package tours cluster through the main gates. Late afternoon, an hour or two before the 7 PM close, is another good window, the light turns golden on the red walls and the crowds have mostly cleared out.
 
 Summer brings intense heat and humidity, so spring and autumn mornings are the most comfortable time to explore on foot.
 
@@ -97,11 +97,11 @@ Summer brings intense heat and humidity, so spring and autumn mornings are the m
 
 Shuri Castle draws heavy tourist traffic year-round, so timing your visit is the single biggest lever you have. Go right at 8:30 AM or in the final hour before closing to avoid the worst of the bus-tour surges.
 
-Most visitors buy entry tickets at the gate or via machine, and both cash and card are widely accepted these days — but carrying some yen still smooths things along if a machine is card-only that day. There's no real bargaining or tipping culture here; just queue and pay as posted.
+Most visitors buy entry tickets at the gate or via machine, and both cash and card are widely accepted these days, but carrying some yen still smooths things along if a machine is card-only that day. There's no real bargaining or tipping culture here; just queue and pay as posted.
 
 The etiquette that matters most: this is a sacred and historically loaded site for Okinawans, not a theme park backdrop. Keep voices down near shrine areas like Sonohyan-utaki, and don't climb on walls or gates for photos.
 
-The mistake most first-timers make is rushing straight to the main hall and leaving. Walk the full perimeter path instead — the eastern side has quieter courtyards, old wells, and views that most people never reach because they turn back too soon.
+The mistake most first-timers make is rushing straight to the main hall and leaving. Walk the full perimeter path instead. The eastern side has quieter courtyards, old wells, and views that most people never reach because they turn back too soon.
 
 If you want context before wandering, the small on-site exhibition halls near the entrance explain the kingdom's trade history with China and Southeast Asia, which makes the architecture click into place once you're inside the gates.
 

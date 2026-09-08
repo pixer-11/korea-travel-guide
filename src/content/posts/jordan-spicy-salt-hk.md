@@ -89,13 +89,13 @@ updatedDate: '2026-09-05'
 
 Jordan doesn't lack for dai pai dong energy, but Spicy Salt HK earns its name honestly. This is a small, brightly-lit room built around one idea: things fried hard, salted well, and eaten fast with beer.
 
-You come here hungry after midnight, not for a leisurely dinner. The menu leans into peppery, salt-crusted plates — think fried squid, chicken cartilage, pork chops — the kind of food built to survive a long night out.
+You come here hungry after midnight, not for a leisurely dinner. The menu leans into peppery, salt-crusted plates (think fried squid, chicken cartilage, pork chops) the kind of food built to survive a long night out.
 
 ## Getting there
 
 The restaurant sits at 31 Wai Ching St, in Yau Ma Tei, just north of the Jordan MTR stop on the Tsuen Wan line. From Exit A, it's a short walk up past the fruit stalls and hardware shops that give this stretch its texture.
 
-Wai Ching Street itself is narrow and low-key — no neon spectacle, just shopfronts and the occasional cart. You're close enough to Jordan's night market strip to make this part of a longer wander rather than a single stop.
+Wai Ching Street itself is narrow and low-key, no neon spectacle, just shopfronts and the occasional cart. You're close enough to Jordan's night market strip to make this part of a longer wander rather than a single stop.
 
 ## What to eat
 
@@ -113,7 +113,7 @@ Portions are meant for sharing across a table, not plating solo. Order two or th
 
 ## When to go
 
-This kitchen runs from 4pm to 4am most nights, and until 5am on Friday and Saturday — genuinely late-night territory, built for shift workers, clubbers, and anyone who's hungry after the MTR stops running.
+This kitchen runs from 4pm to 4am most nights, and until 5am on Friday and Saturday, genuinely late-night territory, built for shift workers, clubbers, and anyone who's hungry after the MTR stops running.
 
 Weekend evenings get busy fast. The measured quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush to avoid if you want a table without a wait.
 
@@ -123,18 +123,18 @@ If you're after a calmer meal with room to actually hear your table talk, aim fo
 
 Yau Ma Tei and Jordan blur into each other here, and both reward a slow walk. The Jade Market and Temple Street Night Market are close enough to fold into the same evening.
 
-This stretch is still mostly locals doing errands and eating dinner, not a tourist thoroughfare — Spicy Salt HK sits comfortably under the radar even by Jordan standards, without a queue snaking down the block.
+This stretch is still mostly locals doing errands and eating dinner, not a tourist thoroughfare, Spicy Salt HK sits comfortably under the radar even by Jordan standards, without a queue snaking down the block.
 
 That's part of the appeal. You're eating where the neighborhood eats, at the hours the neighborhood actually eats.
 
 ## How to visit like a local
 
-Skip the early-evening rush hour block if you can — 7pm to 11pm on weekends is when it fills up, per measured crowd patterns. Weekend afternoons, from 4pm to about 9pm, are noticeably calmer.
+Skip the early-evening rush hour block if you can, 7pm to 11pm on weekends is when it fills up, per measured crowd patterns. Weekend afternoons, from 4pm to about 9pm, are noticeably calmer.
 
 - **Pay**: cash is safest to have on hand; some small Yau Ma Tei kitchens haven't fully switched to card or mobile pay, so don't rely on Apple Pay alone.
-- **Order**: point at what looks good if the menu isn't translated — salt-and-pepper dishes are usually labeled clearly enough to recognize by the fry style.
+- **Order**: point at what looks good if the menu isn't translated, salt-and-pepper dishes are usually labeled clearly enough to recognize by the fry style.
 - **Seating**: there's no formal reservation system at spots like this; you show up and wait if it's full, same as everyone else.
-- **Etiquette**: sharing plates is standard — order a few dishes for the table rather than one dish per person.
+- **Etiquette**: sharing plates is standard, order a few dishes for the table rather than one dish per person.
 - **Tourist mistake**: showing up right at dinnertime (7–9pm) expecting a quiet meal. This place runs best either right after opening or deep into the night, closer to 1 or 2am.
 
 Go hungry, go late, and bring an appetite for pepper.

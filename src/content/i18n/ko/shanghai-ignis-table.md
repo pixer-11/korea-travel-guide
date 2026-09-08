@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: shanghai-ignis-table
-srcHash: '0a365d0c1eed'
+srcHash: 'bf89fc814434'
 title: '이그니스 테이블: 상하이 맛집 탐방'
 description: 중국 상하이의 새롭게 떠오르는 맛집, 이그니스 테이블(Ignis Table)을 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 알려드립니다.
 quickAnswer: 이그니스 테이블은 중화맨션(Zhonghua Mansion)에 새로 문을 연 셰프 테이블 레스토랑으로, 얼티바이올렛(Ultraviolet)과 레브(Rêver)를 거친 쥘리앙 쉬(Julien Xu) 셰프가 이끌고 있습니다. 고급 해산물을 중심으로 구성한 단일 테이스팅 메뉴를 1,880위안에 선보이는데, 좌석이 한정되어 있는 데다 입소문이 나면서 예약이 빠르게 차고 있으니 여유 있게 예약하시고, 방문 전 정확한 운영 시간을 레스토랑에 직접 확인하시길 권합니다.

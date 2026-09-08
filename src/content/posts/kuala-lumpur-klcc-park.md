@@ -95,24 +95,24 @@ Most people spend somewhere between 45 minutes and two hours here, depending on 
 
 ## Getting there
 
-The park sits directly beneath the Petronas Twin Towers in KLCC, Kuala Lumpur's central business and shopping district. The closest station is KLCC LRT (Kelana Jaya Line), which lets out almost at the park's edge — follow signs through the underground concourse toward Suria KLCC.
+The park sits directly beneath the Petronas Twin Towers in KLCC, Kuala Lumpur's central business and shopping district. The closest station is KLCC LRT (Kelana Jaya Line), which lets out almost at the park's edge, follow signs through the underground concourse toward Suria KLCC.
 
 If you're coming from Bukit Bintang or the Golden Triangle, it's a 15–20 minute walk, or a short ride on the free GO KL city bus, which loops through the area. Grab or taxi drop-off points are along Jalan Ampang, a short walk from the park's northern entrance.
 
 ## When to go
 
-The park is open daily from 6am to 10pm, so you have a wide window to work with. Early morning is genuinely the best time — quiet, cooler air, and the towers catching soft light without the haze that builds later.
+The park is open daily from 6am to 10pm, so you have a wide window to work with. Early morning is genuinely the best time, quiet, cooler air, and the towers catching soft light without the haze that builds later.
 
 On weekdays the calmest stretch is 7am–10am. Weekends are quietest even earlier, from 7am–9am, before families and joggers arrive in force.
 
-Avoid weekend evenings between 5pm and 10pm if you dislike crowds — that's when the fountain shows draw the biggest gatherings and every bench and lakeside rail fills up.
+Avoid weekend evenings between 5pm and 10pm if you dislike crowds. That's when the fountain shows draw the biggest gatherings and every bench and lakeside rail fills up.
 
 ## How to visit like a local
 
-KLCC Park is heavily visited, so the trick isn't finding a secret entrance — it's timing your visit around the crowd data. Early risers get the park mostly to themselves; if photos without a hundred strangers in frame matter to you, come before 9am.
+KLCC Park is heavily visited, so the trick isn't finding a secret entrance. It's timing your visit around the crowd data. Early risers get the park mostly to themselves; if photos without a hundred strangers in frame matter to you, come before 9am.
 
 Entry is free and there's no ticket booth or turnstile, so there's nothing to queue for beyond good sightlines at fountain time. Locals treat the jogging track seriously in the early hours, so keep to the outer path if you're strolling rather than exercising.
 
-There's no food service inside the park itself — most people bring a bottle of water or grab something from Suria KLCC beforehand and eat on a bench. The wading pool is genuinely for kids to get wet, so pack a change of clothes if yours will be tempted.
+There's no food service inside the park itself, most people bring a bottle of water or grab something from Suria KLCC beforehand and eat on a bench. The wading pool is genuinely for kids to get wet, so pack a change of clothes if yours will be tempted.
 
-The mistake first-timers make is arriving right at a fountain showtime with no plan for where to stand — the good lakeside spots fill fifteen to twenty minutes ahead. Walk the full loop once first, pick your spot, then wait it out.
+The mistake first-timers make is arriving right at a fountain showtime with no plan for where to stand, the good lakeside spots fill fifteen to twenty minutes ahead. Walk the full loop once first, pick your spot, then wait it out.

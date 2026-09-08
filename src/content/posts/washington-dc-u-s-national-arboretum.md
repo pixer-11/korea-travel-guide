@@ -56,31 +56,31 @@ draft: false
 
 ## Why go
 
-You come around a bend on Ellipse Road and there they are: 22 Corinthian columns standing alone in a meadow, sandstone gone honey-gold in the late afternoon light, with nothing behind them but sky and grass. These are the original columns pulled from the U.S. Capitol's East Portico in a 1958 renovation, re-erected here in 1990, and the effect is deliberately strange — a ruin that was never a ruin, plopped in the middle of a Washington DC garden.
+You come around a bend on Ellipse Road and there they are: 22 Corinthian columns standing alone in a meadow, sandstone gone honey-gold in the late afternoon light, with nothing behind them but sky and grass. These are the original columns pulled from the U.S. Capitol's East Portico in a 1958 renovation, re-erected here in 1990, and the effect is deliberately strange. A ruin that was never a ruin, plopped in the middle of a Washington DC garden.
 
 It's the single most photographed spot in the U.S. National Arboretum, and it tells you everything about this place: part serious botanical research station, part unexpected folly, part quiet green escape from a city built on marble and traffic.
 
-The Arboretum is a federal research facility run by the USDA, which is why it feels different from a manicured city park — 446 acres of curated collections, working plant science, and long empty roads through woodland, all completely free to enter.
+The Arboretum is a federal research facility run by the USDA, which is why it feels different from a manicured city park, 446 acres of curated collections, working plant science, and long empty roads through woodland, all completely free to enter.
 
 ## Getting there
 
-The honest downside first: there's no direct Metro access. The nearest stations are Stadium-Armory (Blue/Orange/Silver) and Minnesota Ave (Orange/Silver), both roughly a 20-25 minute walk or short bus/rideshare away, so most visitors arrive by car, bike, or taxi. There's free parking on-site near the R Street NE entrance and at the Administration Building, and honestly, having a car (or at least a bike) lets you actually cover ground — the property is big enough that the Azalea Collections, the National Grove of State Trees, and the bonsai museum can each feel like separate destinations.
+The honest downside first: there's no direct Metro access. The nearest stations are Stadium-Armory (Blue/Orange/Silver) and Minnesota Ave (Orange/Silver), both roughly a 20-25 minute walk or short bus/rideshare away, so most visitors arrive by car, bike, or taxi. There's free parking on-site near the R Street NE entrance and at the Administration Building, and honestly, having a car (or at least a bike) lets you actually cover ground. The property is big enough that the Azalea Collections, the National Grove of State Trees, and the bonsai museum can each feel like separate destinations.
 
 ## What to see
 
-Start at the National Bonsai & Penjing Museum, home to a Japanese white pine that has been in continuous training since 1625 — it survived the Hiroshima bombing in a nursery two miles from ground zero and was later gifted to the U.S. for the Bicentennial. The trees sit under open-air pavilions, each one decades or centuries in the making, roots gripping the same shallow pot for generations.
+Start at the National Bonsai & Penjing Museum, home to a Japanese white pine that has been in continuous training since 1625, it survived the Hiroshima bombing in a nursery two miles from ground zero and was later gifted to the U.S. for the Bicentennial. The trees sit under open-air pavilions, each one decades or centuries in the making, roots gripping the same shallow pot for generations.
 
-From there, wander the National Herb Garden's boxwood-edged knot garden, then climb toward Mount Hamilton for the Arboretum's best skyline view over Washington. If you're visiting in April, the Azalea Collections along Azalea Road turn entire hillsides pink and magenta — it's the single busiest, most beautiful week of the Arboretum's year. Fall brings its own reward: the Asian Collections and the National Grove of State Trees turn deep red and copper by late October and November.
+From there, wander the National Herb Garden's boxwood-edged knot garden, then climb toward Mount Hamilton for the Arboretum's best skyline view over Washington. If you're visiting in April, the Azalea Collections along Azalea Road turn entire hillsides pink and magenta. It's the single busiest, most beautiful week of the Arboretum's year. Fall brings its own reward: the Asian Collections and the National Grove of State Trees turn deep red and copper by late October and November.
 
-Pack a picnic. There are scattered tables and open lawns throughout, but no real food service inside, so bring your own water and snacks — this trips up a lot of first-time visitors.
+Pack a picnic. There are scattered tables and open lawns throughout, but no real food service inside, so bring your own water and snacks, this trips up a lot of first-time visitors.
 
 ## When to go
 
-This is a very popular stop on DC itineraries, and it shows: weekend afternoons, especially during April azalea bloom, bring real crowds and full parking lots near the main entrances. Weekday mornings are consistently calmer — arrive shortly after opening and you can walk long stretches of Ellipse Road or the Fern Valley trail without passing another visitor. Spring (azaleas) and fall (foliage) are the two seasons worth planning a trip around; midsummer is green but muted, and midwinter is starkly beautiful if you don't mind bare branches.
+This is a very popular stop on DC itineraries, and it shows: weekend afternoons, especially during April azalea bloom, bring real crowds and full parking lots near the main entrances. Weekday mornings are consistently calmer. Arrive shortly after opening and you can walk long stretches of Ellipse Road or the Fern Valley trail without passing another visitor. Spring (azaleas) and fall (foliage) are the two seasons worth planning a trip around; midsummer is green but muted, and midwinter is starkly beautiful if you don't mind bare branches.
 
 ## How to visit like a local
 
-Treat it as a driving-and-walking loop rather than a single stroll — get a paper map at the Administration Building or check the posted map at the entrance, then drive between the Capitol Columns, the bonsai museum, and Mount Hamilton, parking at each and walking the short trails around them. Entry is free and there's no ticket line or booking system, so there's nothing to reserve in advance — just show up.
+Treat it as a driving-and-walking loop rather than a single stroll (get a paper map at the Administration Building or check the posted map at the entrance, then drive between the Capitol Columns, the bonsai museum, and Mount Hamilton, parking at each and walking the short trails around them. Entry is free and there's no ticket line or booking system, so there's nothing to reserve in advance) just show up.
 
 Because it's a working federal facility, it closes earlier than most parks (confirm current hours before you go, as they shift seasonally) and closes entirely on Christmas Day. The single biggest mistake visitors make is underestimating the distances between collections and trying to see everything on foot in an afternoon; pick two or three highlights rather than attempting the whole 446 acres.
 

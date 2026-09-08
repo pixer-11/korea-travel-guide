@@ -83,31 +83,31 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-The Uffizi isn't just a museum, it's the archive of how the Renaissance actually happened. You walk in off a piazza wedged between Palazzo Vecchio and the Arno, and within twenty minutes you're standing in front of Botticelli's "Birth of Venus" and "Primavera," two paintings that basically invented the visual language of Western art. The building itself — commissioned by Cosimo I de' Medici in 1560 as offices ("uffizi") for Florentine magistrates — is a long U-shaped corridor of a structure, and that geometry shapes the whole visit: you move room by room along a single spine, century by century, from Gothic altarpieces to Titian, Caravaggio, and Michelangelo's only finished panel painting, the "Doni Tondo."
+The Uffizi isn't just a museum, it's the archive of how the Renaissance actually happened. You walk in off a piazza wedged between Palazzo Vecchio and the Arno, and within twenty minutes you're standing in front of Botticelli's "Birth of Venus" and "Primavera," two paintings that basically invented the visual language of Western art. The building itself, commissioned by Cosimo I de' Medici in 1560 as offices ("uffizi") for Florentine magistrates, is a long U-shaped corridor of a structure, and that geometry shapes the whole visit: you move room by room along a single spine, century by century, from Gothic altarpieces to Titian, Caravaggio, and Michelangelo's only finished panel painting, the "Doni Tondo."
 
 ## Getting there
 
-The Uffizi sits at Piazzale degli Uffizi 6, in the historic center, a five-minute walk from Ponte Vecchio and directly behind Piazza della Signoria. If you're coming by train, it's about a 12-15 minute walk from Firenze Santa Maria Novella station — head down Via de' Panzani toward the Duomo, then continue south past Piazza della Signoria. There's no metro in Florence, so most visitors walk or take a taxi from the station; the historic center is largely pedestrianized around the museum anyway, so driving in isn't practical.
+The Uffizi sits at Piazzale degli Uffizi 6, in the historic center, a five-minute walk from Ponte Vecchio and directly behind Piazza della Signoria. If you're coming by train, it's about a 12-15 minute walk from Firenze Santa Maria Novella station. Head down Via de' Panzani toward the Duomo, then continue south past Piazza della Signoria. There's no metro in Florence, so most visitors walk or take a taxi from the station; the historic center is largely pedestrianized around the museum anyway, so driving in isn't practical.
 
 ## What to see inside
 
 Give yourself a minimum of two to three hours, longer if you want to sit with the Botticelli room rather than pass through it. The must-see arc runs: the Medici family portraits and Gothic gold-ground altarpieces near the entrance, then the Botticelli rooms (Sala 10-14), Leonardo da Vinci's unfinished "Adoration of the Magi" and his "Annunciation," the octagonal Tribuna with Medici antiquities, Michelangelo's "Doni Tondo," Raphael's portraits, and the Venetian rooms with Titian's "Venus of Urbino."
 
-Don't skip the corridor windows themselves — the U-shape frames the Arno and the hills of the Oltrarno in a way that's easy to walk past without noticing.
+Don't skip the corridor windows themselves, the U-shape frames the Arno and the hills of the Oltrarno in a way that's easy to walk past without noticing.
 
 ## When to go
 
 This is one of the most-visited museums in the world, so treat crowd management as part of the plan, not an afterthought. Early morning, right at opening, and the last entry slot of the day are consistently calmer than midday. Weekday mornings in November through February are the closest thing to breathing room the Uffizi offers; April through June and September are the peak crush, especially around midday on weekends.
 
-The museum is typically closed Mondays — always confirm current hours before you go, since seasonal schedules and holiday closures shift year to year.
+The museum is typically closed Mondays, always confirm current hours before you go, since seasonal schedules and holiday closures shift year to year.
 
 ## How to visit like a local
 
-Book your timed-entry ticket online in advance through the official Uffizi reservation system — this is standard practice here, not a workaround, and without it you're gambling on a walk-up line that regularly stretches past an hour outside Piazzale degli Uffizi. Arrive at your actual entry time rather than early; queuing well ahead of your slot just means standing in the sun for no benefit.
+Book your timed-entry ticket online in advance through the official Uffizi reservation system. This is standard practice here, not a workaround, and without it you're gambling on a walk-up line that regularly stretches past an hour outside Piazzale degli Uffizi. Arrive at your actual entry time rather than early; queuing well ahead of your slot just means standing in the sun for no benefit.
 
-Payment inside is by card or cash at the few in-museum services, but your ticket itself should be settled online beforehand. There's no tipping expected. The single biggest mistake visitors make is trying to see everything at museum-marathon pace — the layout rewards picking a handful of rooms (Botticelli, Leonardo, the Tribuna) and lingering, rather than speed-walking the full chronological sweep.
+Payment inside is by card or cash at the few in-museum services, but your ticket itself should be settled online beforehand. There's no tipping expected. The single biggest mistake visitors make is trying to see everything at museum-marathon pace, the layout rewards picking a handful of rooms (Botticelli, Leonardo, the Tribuna) and lingering, rather than speed-walking the full chronological sweep.
 
-If you want quiet with your Venus, go for the first hour after opening or the final ninety minutes before closing, and expect it to be busy in between regardless of season — this isn't an under-the-radar spot, and the crowds are simply the terms of admission.
+If you want quiet with your Venus, go for the first hour after opening or the final ninety minutes before closing, and expect it to be busy in between regardless of season. This isn't an under-the-radar spot, and the crowds are simply the terms of admission.
 
 ## Nearby to pair with your visit
 

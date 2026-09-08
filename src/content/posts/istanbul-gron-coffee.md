@@ -33,27 +33,27 @@ heroImage:
 
 ## Why GRŌN is worth the detour
 
-You won't find GRŌN in older guidebooks — it's too new for that. But walk into Kadıköy on a weekday morning and ask around, and you'll notice how fast this one small café has embedded itself into the neighborhood's daily rhythm.
+You won't find GRŌN in older guidebooks. It's too new for that. But walk into Kadıköy on a weekday morning and ask around, and you'll notice how fast this one small café has embedded itself into the neighborhood's daily rhythm.
 
 The draw is simple: coffee made with real care, and a menu that doesn't force you to choose between virtuous and delicious. That combination, done well, is rarer than it sounds.
 
 ## Getting there
 
-Kadıköy sits on the Asian side of Istanbul, reachable by ferry from Eminönü, Karaköy, or Beşiktaş — arguably the most scenic way in, with the skyline receding behind you as gulls trail the boat.
+Kadıköy sits on the Asian side of Istanbul, reachable by ferry from Eminönü, Karaköy, or Beşiktaş, arguably the most scenic way in, with the skyline receding behind you as gulls trail the boat.
 
 Alternatively, take the Marmaray under the Bosphorus from the European side, or the M4 metro line if you're coming from further out in Asian Istanbul. From the ferry terminal or Kadıköy metro stop, it's a walkable neighborhood of narrow streets, so expect a short stroll through the district's market lanes and side alleys to reach the café itself.
 
 ## What to expect inside
 
-The space reads as unmistakably modern — think clean counters, considered lighting, and an open feel that invites you to linger rather than grab-and-go. Baristas work with visible precision, the kind of setup where you can tell the beans and the pours are taken seriously.
+The space reads as unmistakably modern, think clean counters, considered lighting, and an open feel that invites you to linger rather than grab-and-go. Baristas work with visible precision, the kind of setup where you can tell the beans and the pours are taken seriously.
 
 The menu leans into that same philosophy applied to food: dishes built to feel nourishing without skimping on flavor, alongside options that lean more toward treat than health food. It's the kind of place suited equally to a solo morning with a laptop or a slow catch-up over coffee with a friend.
 
-One detail that stands out — it's pet-friendly, so don't be surprised to see a dog curled under a nearby table while its owner works through a coffee.
+One detail that stands out. It's pet-friendly, so don't be surprised to see a dog curled under a nearby table while its owner works through a coffee.
 
-## Coffee and menu — what to know before you go
+## Coffee and menu, what to know before you go
 
-Because this is a recently opened, fast-trending spot, specifics like exact prices and a fixed menu aren't something to pin down here — treat them as fluid for now. What's consistent is the reputation: locals already speak of it as a standout for coffee quality in a neighborhood that has no shortage of cafés to choose from.
+Because this is a recently opened, fast-trending spot, specifics like exact prices and a fixed menu aren't something to pin down here, treat them as fluid for now. What's consistent is the reputation: locals already speak of it as a standout for coffee quality in a neighborhood that has no shortage of cafés to choose from.
 
 Before you go:
 
@@ -69,10 +69,10 @@ If you want a calmer visit, aim for a weekday morning or early afternoon, when t
 
 ## How to visit like a local
 
-Locals treat Kadıköy cafés as a place to settle in, not just refuel — so don't feel rushed to finish and leave. Order at the counter as is standard at most Istanbul cafés, and expect to pay by card or cash; contactless payment is widely accepted across the city now.
+Locals treat Kadıköy cafés as a place to settle in, not just refuel, so don't feel rushed to finish and leave. Order at the counter as is standard at most Istanbul cafés, and expect to pay by card or cash; contactless payment is widely accepted across the city now.
 
 If you're bringing a dog, this is one of the more welcoming spots to do it, but keep them close in the compact indoor space.
 
-The mistake visitors make in Kadıköy generally is sticking only to the main pedestrian strip and missing the quieter side streets where newer places like this one tend to open. Wander a block or two off the obvious route — that's usually how these spots get found in the first place.
+The mistake visitors make in Kadıköy generally is sticking only to the main pedestrian strip and missing the quieter side streets where newer places like this one tend to open. Wander a block or two off the obvious route. That's usually how these spots get found in the first place.
 
 Since this is a fast-moving, recently opened business, double-check hours, reservation policy, and menu specifics on the day you plan to visit rather than relying on older information.

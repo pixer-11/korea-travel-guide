@@ -94,34 +94,34 @@ updatedDate: '2026-08-30'
 ---
 ## Why Mak's Noodle matters
 
-You smell the broth before you see the shop — a clean, slightly smoky pork-bone stock drifting onto Wellington Street. Mak's Noodle is small, bright, and unapologetically single-minded. It has been refining one dish, wonton noodles, since the mid-20th century, and that focus is the whole point.
+You smell the broth before you see the shop, a clean, slightly smoky pork-bone stock drifting onto Wellington Street. Mak's Noodle is small, bright, and unapologetically single-minded. It has been refining one dish, wonton noodles, since the mid-20th century, and that focus is the whole point.
 
 ## What you'll find inside
 
-Step through the door and you're in a narrow room of marble-topped tables and stools, walls tiled in cream, a steel counter where cooks portion noodles into individual metal strainers. Bowls arrive small — deliberately so, meant to be a snack-sized portion rather than a full meal. Each holds a knot of thin, springy egg noodles, three or four shrimp wontons with a visible pink curl of prawn, and a light, savory broth built from pork bones and dried flounder.
+Step through the door and you're in a narrow room of marble-topped tables and stools, walls tiled in cream, a steel counter where cooks portion noodles into individual metal strainers. Bowls arrive small, deliberately so, meant to be a snack-sized portion rather than a full meal. Each holds a knot of thin, springy egg noodles, three or four shrimp wontons with a visible pink curl of prawn, and a light, savory broth built from pork bones and dried flounder.
 
-Order at the table or counter, in Cantonese or English — staff are used to both. The classic order is simply "wonton noodle," sometimes with a side of blanched choi sum in oyster sauce. Portions are small enough that pairing two dishes is normal here, not greedy.
+Order at the table or counter, in Cantonese or English. Staff are used to both. The classic order is simply "wonton noodle," sometimes with a side of blanched choi sum in oyster sauce. Portions are small enough that pairing two dishes is normal here, not greedy.
 
 ## Getting there
 
-The restaurant sits on Wellington Street, deep in Central's old commercial grid, a short walk from Central MTR Station or Sheung Wan Station (Exit E2). It's roughly a 5-8 minute walk from either, weaving past the escalators and dai pai dong-style eateries that define this stretch of the neighborhood. Look for a modest shopfront sign — it doesn't shout for attention, but the queue outside usually gives it away.
+The restaurant sits on Wellington Street, deep in Central's old commercial grid, a short walk from Central MTR Station or Sheung Wan Station (Exit E2). It's roughly a 5-8 minute walk from either, weaving past the escalators and dai pai dong-style eateries that define this stretch of the neighborhood. Look for a modest shopfront sign. It doesn't shout for attention, but the queue outside usually gives it away.
 
 ## When to go
 
-Mak's is open daily from 11am to 9pm, with no weekly closing day listed, which makes it easy to slot in around sightseeing. The bind is timing within those hours. Weekends from 11am to 3pm are the busiest stretch by far — lunchtime crowds and tourists overlap and the small room fills fast.
+Mak's is open daily from 11am to 9pm, with no weekly closing day listed, which makes it easy to slot in around sightseeing. The bind is timing within those hours. Weekends from 11am to 3pm are the busiest stretch by far, lunchtime crowds and tourists overlap and the small room fills fast.
 
 For a calmer bowl, aim for weekday afternoons between 5pm and 9pm, or weekends after 8pm, both measurably quieter windows. Arriving right at 11am on a weekday, before the lunch rush builds, is another solid option if you want a table without waiting.
 
 ## How to visit like a local
 
-Mak's is well-known, not a hidden find, so don't expect an empty room — the smart move is beating the crowd rather than pretending it isn't there.
+Mak's is well-known, not a hidden find, so don't expect an empty room. The smart move is beating the crowd rather than pretending it isn't there.
 
 - **Time it right:** aim for the quiet windows above, especially weekday late afternoons.
 - **Expect to share a table.** Communal seating is normal in small Central eateries; don't wait for a private table to open up.
-- **Order small, order more.** Portions are intentionally modest — regulars often add an extra portion of noodles or a vegetable side rather than expecting one bowl to fill them up.
+- **Order small, order more.** Portions are intentionally modest, regulars often add an extra portion of noodles or a vegetable side rather than expecting one bowl to fill them up.
 - **Turnover is fast.** This is a quick meal, not a lingering one. Staff appreciate quick decisions, especially at busy times.
-- **Pay in cash or card** — either works, but having small notes ready speeds things along if a queue is forming behind you.
-- **Skip the fanciest description.** Locals don't call this "artisanal" — it's a fast, no-fuss bowl of noodles, and treating it that way is part of doing it right.
+- **Pay in cash or card**, either works, but having small notes ready speeds things along if a queue is forming behind you.
+- **Skip the fanciest description.** Locals don't call this "artisanal". It's a fast, no-fuss bowl of noodles, and treating it that way is part of doing it right.
 
 The most common tourist mistake is arriving at midday on a Saturday expecting a relaxed sit-down experience. Come instead in a mid-afternoon lull, order simply, eat quickly, and you'll get exactly what generations of regulars have come for.
 

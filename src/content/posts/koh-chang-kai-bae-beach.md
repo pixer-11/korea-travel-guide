@@ -82,7 +82,7 @@ updatedDate: '2026-09-07'
 
 ## Why Kai Bae stands out
 
-Kai Bae doesn't announce itself the way Koh Chang's bigger beaches do. It's really three coves stitched together by rocky headlands, so instead of one uniform stretch of sand you get pockets — some busy with beach chairs, others nearly empty at low tide.
+Kai Bae doesn't announce itself the way Koh Chang's bigger beaches do. It's really three coves stitched together by rocky headlands, so instead of one uniform stretch of sand you get pockets, some busy with beach chairs, others nearly empty at low tide.
 
 The middle section is the liveliest, backed by a row of open-air seafood grills and beach bars. Walk ten minutes either direction and the crowds thin fast. The southern tip, where the rocks jut out toward Klong Prao, is where you'll find tide pools and a handful of longtail boats bobbing on their moorings.
 
@@ -92,38 +92,38 @@ Kai Bae sits roughly midway down Koh Chang's west coast, about 15–20 minutes b
 
 Most visitors arrive by:
 - Songthaew from the pier or from White Sand Beach (negotiate the fare before boarding)
-- Rented scooter along the coastal road — the ride itself, with sea views on one side and jungle hills on the other, is part of the appeal
+- Rented scooter along the coastal road, the ride itself, with sea views on one side and jungle hills on the other, is part of the appeal
 - Taxi arranged through a resort
 
 There's no train or public bus network on the island, so plan around these three options.
 
 ## What to see and do
 
-The swimming here is genuinely good — the seafloor slopes gently and the water stays calm for long stretches, especially in the northern cove near the main cluster of resorts.
+The swimming here is genuinely good. The seafloor slopes gently and the water stays calm for long stretches, especially in the northern cove near the main cluster of resorts.
 
 Snorkeling gear rents cheaply from stalls right on the sand, though the better reef is a short longtail ride out toward Koh Yuak and Koh Rang, not directly offshore. Kayaks are easy to rent by the hour if you want to explore the rocky points yourself.
 
-At low tide, the exposed rock shelves toward the southern end are worth wandering — small crabs, tide pools, and a decent vantage point back across the bay. Come evening, the beachfront restaurants fire up charcoal grills for fresh-caught snapper, squid, and prawns, plastic tables spilling almost to the waterline.
+At low tide, the exposed rock shelves toward the southern end are worth wandering, small crabs, tide pools, and a decent vantage point back across the bay. Come evening, the beachfront restaurants fire up charcoal grills for fresh-caught snapper, squid, and prawns, plastic tables spilling almost to the waterline.
 
 ## When to go
 
 The beach is open 5am to 6pm daily, and both ends of that window reward you. Early morning brings soft light, a nearly empty shoreline, and cooler air before the day's heat sets in.
 
-Late afternoon, roughly 4–6pm, is when the sand cools down and the seafood shacks start prepping for dinner service — a good window for a sunset walk before the light fades.
+Late afternoon, roughly 4–6pm, is when the sand cools down and the seafood shacks start prepping for dinner service, a good window for a sunset walk before the light fades.
 
 Peak tourist season on Koh Chang runs November through March, when skies are driest. April and May turn hot and humid; June through October brings the rainy season, with short, heavy downpours rather than all-day washouts.
 
 ## How to visit like a local
 
-Kai Bae is well-known enough that midday on a high-season weekend can feel crowded near the central stalls — plan around that rather than fighting it.
+Kai Bae is well-known enough that midday on a high-season weekend can feel crowded near the central stalls. Plan around that rather than fighting it.
 
 - Arrive early (before 9am) or after 4pm to have longer runs of sand to yourself
-- Pay for beach chairs, snorkel rental, and food in cash — small bills are easiest, and card readers are rare at beachfront stalls
+- Pay for beach chairs, snorkel rental, and food in cash, small bills are easiest, and card readers are rare at beachfront stalls
 - Order what looks freshest at the grill stalls rather than from a printed menu; pointing at the catch of the day is completely normal here
-- Skip the middle section's densest cluster of vendors if you want quiet — the northern and southern ends are far less trafficked
+- Skip the middle section's densest cluster of vendors if you want quiet. The northern and southern ends are far less trafficked
 - Respect the tide pools at the southern rocks; they're a fragile little ecosystem, not a photo prop
 
-The most common visitor mistake is treating Kai Bae like a single beach and staying put in the busiest middle stretch. Walking even five minutes changes the character of the place entirely — from beach-bar buzz to near-solitude.
+The most common visitor mistake is treating Kai Bae like a single beach and staying put in the busiest middle stretch. Walking even five minutes changes the character of the place entirely, from beach-bar buzz to near-solitude.
 
 ## Nearby to combine with your visit
 

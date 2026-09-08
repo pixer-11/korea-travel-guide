@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: quezon-city-mamamoo-2026-world-tour
-srcHash: 'ef2f2e133f87'
+srcHash: 'a941c252982b'
 title: MAMAMOO 2026世界巡演须知（奎松市站）
 description: MAMAMOO 2026世界巡演菲律宾奎松市站原定于2026年8月8日至10日在菲律宾国际会议中心（PICC）举行。以下是关于日期、场馆和出行方面已公布的信息。
 quickAnswer: MAMAMOO 2026世界巡演原定停靠菲律宾奎松市，据报道演出场次定于2026年8月8日至10日，地点在迪利曼／班加曼湾（Diliman/Bagumbayan）一带的菲律宾国际会议中心（PICC）。这是当时公布的日期。MAMAMOO官方渠道以及主办方的售票平台曾公布最终日程、票价档位和入场时间。

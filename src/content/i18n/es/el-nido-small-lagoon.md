@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: el-nido-small-lagoon
-srcHash: '51c39a924c3d'
+srcHash: '50df6921cc1c'
 title: 'Small Lagoon: Guía de viaje de El Nido (4.9★)'
 description: Small Lagoon se encuentra dentro de la bahía de Bacuit (Bacuit Bay), frente a la isla de Miniloc, y solo se puede llegar en barco como parte del Tour A de El Nido. 4.9★ (321 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'Small Lagoon se encuentra dentro de la bahía de Bacuit (Bacuit Bay), frente a la isla de Miniloc, y solo se puede llegar en barco como parte del Tour A de El Nido. Ve temprano, antes de que llegue el convoy de barcos de island-hopping a media mañana, y navega en kayak a través de la estrecha grieta de piedra caliza hasta la laguna cerrada que hay al otro lado. Lleva protector solar apto para arrecifes, calzado acuático y efectivo para el alquiler de kayaks: aquí no hay muelle, carretera ni tiendas.'

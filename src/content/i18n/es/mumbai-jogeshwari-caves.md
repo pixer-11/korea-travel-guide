@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-jogeshwari-caves
-srcHash: '7254dbb571db'
+srcHash: 'c3591c1176c8'
 title: 'Cuevas de Jogeshwari: Guía de viaje de Bombay (4.4★)'
 description: 'Las cuevas de Jogeshwari, escondidas en Jogeshwari East, en los suburbios del norte de Bombay, se encuentran entre los templos rupestres más antiguos de la India, tallados a mediados del siglo I. 4.4★ (3.233 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Las cuevas de Jogeshwari, escondidas en Jogeshwari East, en los suburbios del norte de Bombay, se encuentran entre los templos rupestres más antiguos de la India, tallados a mediados del siglo I. Abren todos los días de 6:00 a 13:00 y de 16:30 a 21:00, y el mejor momento para visitarlas con tranquilidad es entre las 7:00 y las 8:00, cualquier día de la semana. Evita las tardes de fin de semana entre las 17:00 y las 21:00, cuando el templo registra más afluencia de fieles.

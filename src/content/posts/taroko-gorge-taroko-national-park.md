@@ -93,19 +93,19 @@ A rental car works too, but note that some trail sections require a free permit 
 
 ## What to see inside the park
 
-Start at the Taroko Gorge Visitor Center for trail maps and current closure updates — landslides periodically shut sections after typhoons or earthquakes.
+Start at the Taroko Gorge Visitor Center for trail maps and current closure updates, landslides periodically shut sections after typhoons or earthquakes.
 
-- **Shakadang Trail** — a flat, easy path along a turquoise tributary, good for families
-- **Swallow Grotto (Yanzikou)** — a narrow, pothole-riddled cliff walk, one of the park's signature views
-- **Eternal Spring Shrine** — a temple built into the cliff beside a waterfall, memorializing road workers who died building the highway
-- **Tianxiang** — the gorge's inner hub, with a pagoda, suspension bridge and food stalls
-- **Baiyang Waterfall Trail** — includes a tunnel walk ending at a curtain waterfall
+- **Shakadang Trail**, a flat, easy path along a turquoise tributary, good for families
+- **Swallow Grotto (Yanzikou)**, a narrow, pothole-riddled cliff walk, one of the park's signature views
+- **Eternal Spring Shrine**, a temple built into the cliff beside a waterfall, memorializing road workers who died building the highway
+- **Tianxiang**, the gorge's inner hub, with a pagoda, suspension bridge and food stalls
+- **Baiyang Waterfall Trail**, includes a tunnel walk ending at a curtain waterfall
 
 Most of these sit along the Central Cross-Island Highway, so a day trip can string together four or five stops without much backtracking.
 
 ## When to go
 
-Weekends between 9am and 5pm are the park's busiest stretch — tour buses converge on the main viewpoints and parking fills up fast. If you can, visit on a weekday.
+Weekends between 9am and 5pm are the park's busiest stretch, tour buses converge on the main viewpoints and parking fills up fast. If you can, visit on a weekday.
 
 Evenings are noticeably calmer: the quietest window runs 7pm–11pm on weekdays and 6pm–11pm on weekends, though note some trails and shuttle services wind down after dark, so evening visits suit driving the highway and viewpoints rather than hiking.
 
@@ -113,12 +113,12 @@ For daytime visits, arriving right when gates open gives you an hour or two befo
 
 ## How to visit like a local
 
-Because this is one of Taiwan's most visited natural sites, the smart move isn't finding a quiet corner — it's timing your visit around the crowds.
+Because this is one of Taiwan's most visited natural sites, the smart move isn't finding a quiet corner. It's timing your visit around the crowds.
 
 - Arrive at opening time on a weekday, or explore in the evening hours (6–11pm) when the roads are emptiest
-- Wear a hard hat where provided at rockfall-prone sections like Swallow Grotto — this isn't tourist theater, it's a real hazard zone
+- Wear a hard hat where provided at rockfall-prone sections like Swallow Grotto. This isn't tourist theater, it's a real hazard zone
 - Check the visitor center's trail-status board first thing, since sections close without much notice after heavy rain
 - Pay for shuttle tours and permits in cash or by mobile payment (Line Pay is common among local operators); don't assume card machines everywhere
-- Bring your own water and snacks — options thin out fast between Tianxiang and the outer gorge
+- Bring your own water and snacks, options thin out fast between Tianxiang and the outer gorge
 
 The most common visitor mistake is trying to see the whole park on foot from a single base. Distances between trailheads are long, and without a vehicle or tour you'll burn most of your day just getting between stops. Plan your route around three or four highlights rather than everything at once, and you'll leave with time to actually stand at the railings and look up.

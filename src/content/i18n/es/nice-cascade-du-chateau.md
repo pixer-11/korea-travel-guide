@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nice-cascade-du-chateau
-srcHash: '435d31e70b49'
+srcHash: 'b775a1d3a946'
 title: 'Cascade du Château: Guía de viaje de Niza'
 description: La Cascade du Château es la cascada que se ve desde la Promenade des Anglais, cayendo por la ladera de la Colline du Château, la antigua colina del castillo de Niza.
 quickAnswer: La Cascade du Château es la cascada que se ve desde la Promenade des Anglais, cayendo por la ladera de la Colline du Château, la antigua colina del castillo de Niza. Abre todos los días de 8:30 a 20:00 y la entrada es gratuita; conviene ir a primera hora de la mañana o después de las 17:00, ya que la franja de 12:00 a 17:00 (especialmente los fines de semana) es la que atrae más gente. Calcula unos 20-30 minutos en la cascada, más una hora o dos si subes más adentro del parque para llegar a los miradores panorámicos sobre la Baie des Anges.

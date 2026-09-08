@@ -117,7 +117,7 @@ Because entry is free, there's little financial reason for anyone to skip it, wh
 
 ## How to visit like a local
 
-Reserve your free ticket online in advance through the museum's official booking channel or a linked platform — you cannot simply walk up and enter. You'll need to enter passport details matching whoever is attending, and bring the physical passport for the security check.
+Reserve your free ticket online in advance through the museum's official booking channel or a linked platform. You cannot simply walk up and enter. You'll need to enter passport details matching whoever is attending, and bring the physical passport for the security check.
 
 Payment barely factors in here since entry costs nothing, but special exhibitions occasionally carry a separate ticketed fee, so check signage near the entrance before assuming everything inside is included.
 

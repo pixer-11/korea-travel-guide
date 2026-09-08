@@ -35,25 +35,25 @@ eventFactsAsked: true
 ---
 ## Why go
 
-LaLaLa Festival has become one of Jakarta's headline international music weekends, drawing an audience that mixes Southeast Asian festival-goers with fans flying in specifically for the lineup. The 2026 edition was set for August 22–23, 2026, at Jakarta International Expo (JIExpo), and the announced headliners were Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo — a lineup that spans indie rock, alt-pop, psych-rock, and R&B-leaning acts, so it appeals to a broader crowd than a single-genre festival.
+LaLaLa Festival has become one of Jakarta's headline international music weekends, drawing an audience that mixes Southeast Asian festival-goers with fans flying in specifically for the lineup. The 2026 edition was set for August 22–23, 2026, at Jakarta International Expo (JIExpo), and the announced headliners were Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo, a lineup that spans indie rock, alt-pop, psych-rock, and R&B-leaning acts, so it appeals to a broader crowd than a single-genre festival.
 
 For anyone building a Southeast Asia trip around live music, this is one of the region's bigger tentpole events, roughly on par with other multi-day festivals in Manila, Singapore, or Kuala Lumpur in terms of international drawing power.
 
 ## Getting there
 
-JIExpo is in Kemayoran, Central Jakarta, a large convention-and-exhibition complex that regularly hosts concerts, trade fairs, and the Jakarta Fair. It's roughly 20–30 minutes by car from central Jakarta (Sudirman/Thamrin area) depending on traffic, and about 45–60 minutes from Soekarno-Hatta International Airport (CGK) outside peak hours — though Jakarta traffic is notoriously unpredictable, and roads around Kemayoran get congested with rideshare drop-offs on concert nights.
+JIExpo is in Kemayoran, Central Jakarta, a large convention-and-exhibition complex that regularly hosts concerts, trade fairs, and the Jakarta Fair. It's roughly 20–30 minutes by car from central Jakarta (Sudirman/Thamrin area) depending on traffic, and about 45–60 minutes from Soekarno-Hatta International Airport (CGK) outside peak hours, though Jakarta traffic is notoriously unpredictable, and roads around Kemayoran get congested with rideshare drop-offs on concert nights.
 
 Grab and Gojek are the easiest way to get around; for arrivals from the airport, the Damri airport bus or a pre-booked airport taxi are reliable alternatives to street-hailing. There's no MRT or LRT station directly at JIExpo, so most attendees reach it by ride-hailing app or by festival shuttle services from central hubs like Grand Indonesia or Sudirman.
 
 ## What to expect on-site
 
-Organisers planned the standard large-format festival layout: multiple stages spread across JIExpo's expansive outdoor and covered halls, food and beverage vendors (a mix of Indonesian street-food-style stalls and international festival fare), merchandise booths, and designated smoking and rest areas. Jakarta in August sits in the dry season, so days are hot and humid and nights stay warm — light, breathable clothing, a refillable water bottle, and sun protection suit the daytime sets, while a light rain layer is still sensible since tropical downpours can happen even outside peak wet season.
+Organisers planned the standard large-format festival layout: multiple stages spread across JIExpo's expansive outdoor and covered halls, food and beverage vendors (a mix of Indonesian street-food-style stalls and international festival fare), merchandise booths, and designated smoking and rest areas. Jakarta in August sits in the dry season, so days are hot and humid and nights stay warm, light, breathable clothing, a refillable water bottle, and sun protection suit the daytime sets, while a light rain layer is still sensible since tropical downpours can happen even outside peak wet season.
 
 With a two-day format and a headliner-heavy bill, overlapping set times are typical at festivals this size, and gates at large Jakarta venues usually open a couple of hours before the first main-stage act.
 
 ## Tickets and practical planning
 
-Festival ticket tiers — early bird, regular, VIP, day passes — typically shift as an event date approaches. LaLaLa's official website and verified social media accounts are the festival's own sources for pricing, entry gates, bag policies, and age restrictions; secondhand resellers are not. Because this is a large-scale international event, popular tiers and VIP packages have sold out in past editions.
+Festival ticket tiers (early bird, regular, VIP, day passes) typically shift as an event date approaches. LaLaLa's official website and verified social media accounts are the festival's own sources for pricing, entry gates, bag policies, and age restrictions; secondhand resellers are not. Because this is a large-scale international event, popular tiers and VIP packages have sold out in past editions.
 
 ## Nearby & tips
 

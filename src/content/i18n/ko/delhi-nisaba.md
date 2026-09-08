@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: delhi-nisaba
-srcHash: 'cad2e2bbe293'
+srcHash: 'a653d6f4f3aa'
 title: '니사바(NISABA): 델리 맛집 탐방'
 description: '인도 델리의 니사바(NISABA) — 새롭게 떠오르는 핫플레이스: 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 소개합니다.'
 quickAnswer: 니사바(NISABA)는 셰프 마니시 메로트라(Manish Mehrotra)가 인디안 액센트(Indian Accent)를 떠난 후 처음으로 연 단독 레스토랑으로, 2026년 1월 17일 델리의 선더 너서리(Sunder Nursery) / 후마윤 묘(Humayun's Tomb) 단지 안에서 문을 열었습니다. 콘셉트는 인도인들이 일상적으로 즐기는 길거리 음식과 다바(dhaba) 요리를 곡물 중심으로 한 단계 격상시킨 요리에 초점을 맞추고 있습니다. 이제 막 문을 연 곳이며 유서 깊은 정원 단지 안에 위치해 있는 만큼, 방문 전 미리 예약하고 현재 운영 시간과 예약 정책을 확인하는 것이 좋습니다.

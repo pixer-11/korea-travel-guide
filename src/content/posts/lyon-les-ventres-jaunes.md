@@ -60,32 +60,32 @@ draft: false
 
 ## First impressions
 
-You spot it before you reach it — the mustard-yellow façade glowing against the grey stone of Place Neuve Saint-Jean, tucked into the tangle of Renaissance lanes that make up Vieux Lyon. Step through the door and the room folds around you: low beams, exposed rafters darkened by decades of use, walls the color of egg yolk, tables pushed close enough that you'll hear your neighbors debating whether to order the quenelle or the andouillette.
+You spot it before you reach it, the mustard-yellow façade glowing against the grey stone of Place Neuve Saint-Jean, tucked into the tangle of Renaissance lanes that make up Vieux Lyon. Step through the door and the room folds around you: low beams, exposed rafters darkened by decades of use, walls the color of egg yolk, tables pushed close enough that you'll hear your neighbors debating whether to order the quenelle or the andouillette.
 
-It's the kind of interior that doesn't perform "rustic" — it simply is, worn in by years of service rather than styled to look that way.
+It's the kind of interior that doesn't perform "rustic", it simply is, worn in by years of service rather than styled to look that way.
 
 ## What's on the plate
 
-This is homestyle Lyonnais cooking, the kind built for appetite rather than plating contests. Expect the city's signature dishes done properly: quenelle de brochet drowned in a rich crayfish (nantua) sauce, andouillette grilled and sauced with mustard, saucisson lyonnais with warm potatoes, and gratins that arrive bubbling and too hot to touch for the first five minutes. Portions lean generous, and the pricing sits in the mid-range bracket — not cheap, but fair for the quality and quantity you get, and firmly in line with what you'd expect from a traditional bouchon rather than a tourist trap charging for atmosphere alone. Save room, or don't order a starter — the mains alone can be a full meal.
+This is homestyle Lyonnais cooking, the kind built for appetite rather than plating contests. Expect the city's signature dishes done properly: quenelle de brochet drowned in a rich crayfish (nantua) sauce, andouillette grilled and sauced with mustard, saucisson lyonnais with warm potatoes, and gratins that arrive bubbling and too hot to touch for the first five minutes. Portions lean generous, and the pricing sits in the mid-range bracket (not cheap, but fair for the quality and quantity you get, and firmly in line with what you'd expect from a traditional bouchon rather than a tourist trap charging for atmosphere alone. Save room, or don't order a starter) the mains alone can be a full meal.
 
 ## Getting there
 
-The restaurant sits at 1 Place Neuve Saint-Jean, right in the heart of Vieux Lyon, Lyon's UNESCO-listed old town. The closest metro stop is Vieux Lyon–Cathédrale Saint-Jean on Line D, a two-minute walk through pedestrian streets lined with traboules — the hidden passageways that once let silk workers cut through buildings. If you're coming from Presqu'île, it's an easy walk across the Saône via the Palais de Justice footbridge.
+The restaurant sits at 1 Place Neuve Saint-Jean, right in the heart of Vieux Lyon, Lyon's UNESCO-listed old town. The closest metro stop is Vieux Lyon–Cathédrale Saint-Jean on Line D, a two-minute walk through pedestrian streets lined with traboules, the hidden passageways that once let silk workers cut through buildings. If you're coming from Presqu'île, it's an easy walk across the Saône via the Palais de Justice footbridge.
 
-Because the streets here are narrow and cobbled, don't count on driving — this is a neighborhood built for wandering, not parking.
+Because the streets here are narrow and cobbled, don't count on driving. This is a neighborhood built for wandering, not parking.
 
 ## When to go
 
-The restaurant keeps the same rhythm every day of the week: lunch from 11:30am to 2:30pm, dinner from 6:30 to 10:30pm, with no weekly closing day — useful to know in a neighborhood where plenty of places shut on Mondays. That consistency is part of why it's busy: weekends see a steady crowd from noon straight through to 10pm, with no real lull in between.
+The restaurant keeps the same rhythm every day of the week: lunch from 11:30am to 2:30pm, dinner from 6:30 to 10:30pm, with no weekly closing day, useful to know in a neighborhood where plenty of places shut on Mondays. That consistency is part of why it's busy: weekends see a steady crowd from noon straight through to 10pm, with no real lull in between.
 
 If you're hoping for a table without a wait, aim for a weekday lunch right at 11:30am, or a weeknight dinner service starting at 6:30, before the room fills.
 
 ## How to visit like a local
 
-This is a well-known address, not a hidden one — it draws a loyal, mixed crowd of regulars and visitors, and word has clearly gotten around, so don't expect to slip in on a whim during peak hours. Reserve ahead, especially for Friday and Saturday dinner, since walk-ins can mean a long wait in the doorway. If you didn't book, your best shot is showing up the moment service opens at 11:30am or 6:30pm.
+This is a well-known address, not a hidden one, it draws a loyal, mixed crowd of regulars and visitors, and word has clearly gotten around, so don't expect to slip in on a whim during peak hours. Reserve ahead, especially for Friday and Saturday dinner, since walk-ins can mean a long wait in the doorway. If you didn't book, your best shot is showing up the moment service opens at 11:30am or 6:30pm.
 
-Order the way regulars do: skip anything resembling a shortcut menu and go straight for the quenelle nantua or the andouillette, share a gratin dauphinois on the side, and pace yourself — Lyonnais meals here are built in courses, not rushed. Payment is by card or cash as usual in French restaurants; a service charge is already included in French dining by law, so tipping is a small optional rounding-up rather than an expectation. Dress is casual — this is a place for eating well, not for dressing up.
+Order the way regulars do: skip anything resembling a shortcut menu and go straight for the quenelle nantua or the andouillette, share a gratin dauphinois on the side, and pace yourself (Lyonnais meals here are built in courses, not rushed. Payment is by card or cash as usual in French restaurants; a service charge is already included in French dining by law, so tipping is a small optional rounding-up rather than an expectation. Dress is casual) this is a place for eating well, not for dressing up.
 
 ## Nearby to pair with your visit
 
-Vieux Lyon rewards lingering after your meal. The Cathédrale Saint-Jean-Baptiste is a five-minute walk, and the funicular up to Fourvière — with its basilica and Roman ruins overlooking the city — starts nearby. Wander the traboules threading between Rue du Bœuf and Rue Saint-Jean on your way back, and you'll get a proper sense of why this old silk-weavers' quarter is worth the extra hour before or after eating.
+Vieux Lyon rewards lingering after your meal. The Cathédrale Saint-Jean-Baptiste is a five-minute walk, and the funicular up to Fourvière, with its basilica and Roman ruins overlooking the city, starts nearby. Wander the traboules threading between Rue du Bœuf and Rue Saint-Jean on your way back, and you'll get a proper sense of why this old silk-weavers' quarter is worth the extra hour before or after eating.

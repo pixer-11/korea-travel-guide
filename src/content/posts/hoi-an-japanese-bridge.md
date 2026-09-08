@@ -85,28 +85,28 @@ updatedDate: '2026-09-03'
 ---
 ## Why go
 
-Few structures pack as much symbolism into 18 meters as the Japanese Bridge (locally called Chùa Cầu, or "Pagoda Bridge"). Built by Hoi An's Japanese merchant community in the late 16th or early 17th century and rebuilt several times since, it's the only bridge in Vietnam with a Buddhist temple built directly into its structure. The curved tiled roof, weathered wood, and pairs of guardian statues (monkeys on one end, dogs on the other, believed to mark the years the bridge's construction began and ended in the Vietnamese zodiac) make it the most photographed spot in town — and it's even printed on the Vietnamese 20,000-dong note.
+Few structures pack as much symbolism into 18 meters as the Japanese Bridge (locally called Chùa Cầu, or "Pagoda Bridge"). Built by Hoi An's Japanese merchant community in the late 16th or early 17th century and rebuilt several times since, it's the only bridge in Vietnam with a Buddhist temple built directly into its structure. The curved tiled roof, weathered wood, and pairs of guardian statues (monkeys on one end, dogs on the other, believed to mark the years the bridge's construction began and ended in the Vietnamese zodiac) make it the most photographed spot in town, and it's even printed on the Vietnamese 20,000-dong note.
 
 ## Getting there
 
-The bridge sits at the western edge of Hoi An's pedestrian Ancient Town, on Nguyễn Thị Minh Khai Street where it meets Trần Phú Street. If you're staying near An Bang Beach or the Cua Dai area, a taxi or Grab into the old town takes roughly 15-20 minutes. From central Hoi An, everything is walkable — the bridge is about a 5-minute stroll from the riverside market and just off the main tourist strip of Trần Phú.
+The bridge sits at the western edge of Hoi An's pedestrian Ancient Town, on Nguyễn Thị Minh Khai Street where it meets Trần Phú Street. If you're staying near An Bang Beach or the Cua Dai area, a taxi or Grab into the old town takes roughly 15-20 minutes. From central Hoi An, everything is walkable. The bridge is about a 5-minute stroll from the riverside market and just off the main tourist strip of Trần Phú.
 
 Since the Ancient Town is closed to cars and largely closed to motorbikes during the day, most visitors park a scooter or bicycle at the edge of the pedestrian zone and walk in. There's no dedicated parking at the bridge itself, so use one of the paid lots along Bạch Đằng Street near the river.
 
 ## What to see and do
 
-The bridge itself is short — you'll cross it in under a minute — but the details reward slow looking. Step inside the small shrine on the north side, dedicated to Tran Vo Bac De, a deity believed to control weather and protect against floods, which were (and remain) a real threat to this low-lying river town. Look for the carved wooden panels, the slightly sagging roofline from centuries of settling, and the stone tablet with an inscription dating a renovation.
+The bridge itself is short, you'll cross it in under a minute, but the details reward slow looking. Step inside the small shrine on the north side, dedicated to Tran Vo Bac De, a deity believed to control weather and protect against floods, which were (and remain) a real threat to this low-lying river town. Look for the carved wooden panels, the slightly sagging roofline from centuries of settling, and the stone tablet with an inscription dating a renovation.
 
 Photographers tend to shoot from the small side street just downstream, which frames the bridge with its own reflection in the canal.
 
-Entry to the bridge is included in Hoi An's Ancient Town heritage ticket, sold at booths around the old town's perimeter; the ticket also covers entry into a handful of historic houses, assembly halls, and museums, so it's worth using it for more than just the bridge. Keep in mind the bridge itself is quite small and gets crowded fast — most people spend 15-20 minutes here, longer if the queue for photos is long.
+Entry to the bridge is included in Hoi An's Ancient Town heritage ticket, sold at booths around the old town's perimeter; the ticket also covers entry into a handful of historic houses, assembly halls, and museums, so it's worth using it for more than just the bridge. Keep in mind the bridge itself is quite small and gets crowded fast, most people spend 15-20 minutes here, longer if the queue for photos is long.
 
 ## When to go
 
-Early morning is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below.
+Early morning is the best window for photos without the crowd, Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below.
 
 Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
 
 ## Nearby and tips
 
-The bridge anchors one end of the old town's most concentrated cluster of heritage sites — the Tan Ky House, Phung Hung House, and the riverside market are all within a five-minute walk. Cross the bridge and continue along Trần Phú to reach the assembly halls of the old Chinese merchant quarters. For food, a handful of well-known cao lầu and white rose dumpling stalls sit within a block or two, making the bridge a natural starting or ending point for an Ancient Town walking loop rather than a standalone stop.
+The bridge anchors one end of the old town's most concentrated cluster of heritage sites, the Tan Ky House, Phung Hung House, and the riverside market are all within a five-minute walk. Cross the bridge and continue along Trần Phú to reach the assembly halls of the old Chinese merchant quarters. For food, a handful of well-known cao lầu and white rose dumpling stalls sit within a block or two, making the bridge a natural starting or ending point for an Ancient Town walking loop rather than a standalone stop.

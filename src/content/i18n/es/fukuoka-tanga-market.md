@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-tanga-market
-srcHash: '7a5b1035539c'
+srcHash: '2aa73ca569a3'
 title: 'Mercado Tanga: Guía de viaje de Fukuoka (4,0★)'
 description: 'En el barrio de Kokurakita, en Kitakyushu, el mercado Tanga reúne más de cien puestos bajo un mismo techo: es la respuesta de Kyushu al Kuromon de Osaka, pero sin las multitudes de turistas extranjeros. 4,0★ (5.739 reseñas): esto es lo que dicen los visitantes, además de horarios y consejos prácticos.'
 quickAnswer: 'El mercado Tanga es una galería cubierta con más de cien puestos en el barrio de Kokurakita, Kitakyushu: la respuesta de Kyushu al Kuromon de Osaka, pero sin las multitudes de turistas extranjeros. Conviene ir en la mañana de un día de semana, entre las 10:00 y el mediodía, para encontrar el pescado más fresco y espacio para moverte; los domingos permanece cerrado y todos los días cierra a las 17:00, así que esta es una salida para la media mañana o el almuerzo, no para la noche. Calcula una hora para recorrerlo, más si piensas ir probando comida puesto por puesto.'

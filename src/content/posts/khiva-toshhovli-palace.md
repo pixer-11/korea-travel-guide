@@ -75,16 +75,16 @@ updatedDate: '2026-09-07'
 
 You expect another mudbrick fortress. Instead you get 150 rooms wrapped around two courtyards, tiled floor to ceiling in blues and golds that took nearly a decade to build.
 
-Khan Allakuli commissioned it in the 1830s because the old Kunya-Ark citadel felt too cramped for his household and administration. He wanted something that announced Khiva's wealth to any visiting envoy. Walking in, you understand immediately why locals nicknamed it the "Stone House" — toshhovli — even though the walls are mudbrick beneath the ceramic skin.
+Khan Allakuli commissioned it in the 1830s because the old Kunya-Ark citadel felt too cramped for his household and administration. He wanted something that announced Khiva's wealth to any visiting envoy. Walking in, you understand immediately why locals nicknamed it the "Stone House", toshhovli, even though the walls are mudbrick beneath the ceramic skin.
 
 ## What you actually see inside
 
 The layout splits into distinct zones, and each one changes the mood underfoot.
 
-- **Harem courtyard** — smaller, more private, with carved wooden columns and a shaded arcade where the khan's wives and children lived.
-- **Reception courtyard (Ishrat-hovli)** — taller, more formal, built to impress visiting dignitaries with floor-to-ceiling majolica tile.
-- **Throne room and reception hall** — carved ceilings, a raised platform for the khan, and some of the finest tilework in the complex.
-- **Handicraft museum rooms** — cases of embroidery, jewelry, and woodwork made by Khorazm artisans, tucked into former living quarters.
+- **Harem courtyard**, smaller, more private, with carved wooden columns and a shaded arcade where the khan's wives and children lived.
+- **Reception courtyard (Ishrat-hovli)**, taller, more formal, built to impress visiting dignitaries with floor-to-ceiling majolica tile.
+- **Throne room and reception hall**, carved ceilings, a raised platform for the khan, and some of the finest tilework in the complex.
+- **Handicraft museum rooms**, cases of embroidery, jewelry, and woodwork made by Khorazm artisans, tucked into former living quarters.
 
 Look closely at the tiles rather than just photographing the wide shot. Panels repeat geometric stars and floral scrolls, but no two rooms use quite the same palette. The wood carving on the harem columns is deep enough to cast real shadow by midday.
 
@@ -92,7 +92,7 @@ Look closely at the tiles rather than just photographing the wide shot. Panels r
 
 Toshhovli sits inside Ichan-Qala, Khiva's walled inner city, near the eastern Palvan-Darvoza gate. If you're staying anywhere within the old city walls, it's walkable in under ten minutes from almost any guesthouse.
 
-Coming from outside Khiva, you'll land at Urgench airport or train station, then take a taxi roughly 30-40 minutes into Khiva. Once through any of Ichan-Qala's gates, follow signs toward Kunya-Ark — Toshhovli is just east of it, hard to miss given its scale.
+Coming from outside Khiva, you'll land at Urgench airport or train station, then take a taxi roughly 30-40 minutes into Khiva. Once through any of Ichan-Qala's gates, follow signs toward Kunya-Ark, Toshhovli is just east of it, hard to miss given its scale.
 
 ## When to go
 
@@ -104,13 +104,13 @@ Because it draws fewer visitors than Kalta Minor or the Juma Mosque despite bein
 
 Buy the combined Ichan-Qala ticket at any of the main gates rather than paying per-site. It typically covers Toshhovli along with most other monuments inside the walls, and it's the standard way residents' guests and visiting family see the city.
 
-- Pay in cash (Uzbek som) — card acceptance at ticket booths is inconsistent.
+- Pay in cash (Uzbek som), card acceptance at ticket booths is inconsistent.
 - Don't rush the harem quarters; tour groups linger in the reception courtyard, so slip into the smaller rooms while they're occupied.
-- Ask the on-site attendants which rooms hold the newest handicraft displays — the museum rotates pieces and staff will point you toward what's currently up.
-- Wear socks you don't mind showing — some rooms expect shoes off, though not all.
+- Ask the on-site attendants which rooms hold the newest handicraft displays. The museum rotates pieces and staff will point you toward what's currently up.
+- Wear socks you don't mind showing, some rooms expect shoes off, though not all.
 - Visit before or after the two big tour-bus windows (mid-morning and late afternoon) for a quieter walk through.
 
-The mistake most first-time visitors make is treating Toshhovli as a five-minute photo stop because it's "just another palace" on the map. It rewards slower looking — the tilework alone justifies circling both courtyards twice, once for the wide view and once at close range.
+The mistake most first-time visitors make is treating Toshhovli as a five-minute photo stop because it's "just another palace" on the map. It rewards slower looking, the tilework alone justifies circling both courtyards twice, once for the wide view and once at close range.
 
 ## Nearby to pair with your visit
 

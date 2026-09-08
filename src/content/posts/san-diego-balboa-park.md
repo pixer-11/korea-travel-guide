@@ -55,7 +55,7 @@ draft: false
 
 ## Why Balboa Park is worth a full day
 
-You come around a bend on El Prado and the domes hit you first — ochre stone, tiled cupolas, carved facades left over from the 1915 Panama-California Exposition. Palm and jacaranda canopies throw moving shade across the walkway. Somewhere a street musician is working a saxophone under the arcade, and the sound carries for a block.
+You come around a bend on El Prado and the domes hit you first, ochre stone, tiled cupolas, carved facades left over from the 1915 Panama-California Exposition. Palm and jacaranda canopies throw moving shade across the walkway. Somewhere a street musician is working a saxophone under the arcade, and the sound carries for a block.
 
 This isn't one attraction. It's a whole cultural district disguised as a park, and it rewards people who slow down.
 
@@ -63,20 +63,20 @@ This isn't one attraction. It's a whole cultural district disguised as a park, a
 
 Balboa Park sits just northeast of downtown San Diego, bordered by Sixth Avenue and Park Boulevard. If you're downtown, the free Balboa Park shuttle and several MTS bus routes (including the 7) stop right along Park Boulevard.
 
-Driving in, head for the parking structure near the Spanish Village Art Center or the lots off Presidents Way — both fill fast on weekends. Once parked, everything radiates from the Prado, the park's main pedestrian promenade lined with museums.
+Driving in, head for the parking structure near the Spanish Village Art Center or the lots off Presidents Way, both fill fast on weekends. Once parked, everything radiates from the Prado, the park's main pedestrian promenade lined with museums.
 
-Grab a map at the visitor center inside the House of Hospitality. The park is genuinely large — plan which corner you're exploring rather than trying to cover all of it.
+Grab a map at the visitor center inside the House of Hospitality. The park is genuinely large. Plan which corner you're exploring rather than trying to cover all of it.
 
 ## The zoo, the museums, and what to actually prioritize
 
-The San Diego Zoo anchors the park's northern edge and deserves its own separate ticket and its own day — don't try to bolt it onto a museum crawl.
+The San Diego Zoo anchors the park's northern edge and deserves its own separate ticket and its own day. Don't try to bolt it onto a museum crawl.
 
 For the museum cluster along the Prado, pick two or three rather than rushing all seventeen:
 
-- **San Diego Museum of Art** — Spanish and American collections in a Plateresque-style building
-- **Museum of Us** — anthropology inside the iconic California Building, the one with the blue-tiled dome
-- **Fleet Science Center** — hands-on exhibits and an IMAX dome, good with kids
-- **Botanical Building** — a lath-and-redwood structure over a reflecting pond, free to enter
+- **San Diego Museum of Art**, Spanish and American collections in a Plateresque-style building
+- **Museum of Us**, anthropology inside the iconic California Building, the one with the blue-tiled dome
+- **Fleet Science Center**, hands-on exhibits and an IMAX dome, good with kids
+- **Botanical Building**, a lath-and-redwood structure over a reflecting pond, free to enter
 
 Most of these museums run something close to 10am–5pm, though hours shift by venue and season, so check the specific museum's site before you go.
 
@@ -84,21 +84,21 @@ Most of these museums run something close to 10am–5pm, though hours shift by v
 
 Past the crowds near the Prado, the park loosens up. The Rose Garden and Desert Garden sit south of the Naturalization ceremony lawn, both free, both far less trafficked than the museum row. Balboa Park's Japanese Friendship Garden asks a separate small admission but delivers koi ponds and a teahouse worth the detour.
 
-Walk out toward the Cabrillo Bridge at the park's western entrance for the classic postcard view — the bridge's arches framing the California Tower against the sky. Spreckels Organ Pavilion, home to one of the world's largest outdoor pipe organs, hosts free concerts on many Sunday afternoons.
+Walk out toward the Cabrillo Bridge at the park's western entrance for the classic postcard view, the bridge's arches framing the California Tower against the sky. Spreckels Organ Pavilion, home to one of the world's largest outdoor pipe organs, hosts free concerts on many Sunday afternoons.
 
 ## When to go
 
 Because this is a very popular stop for both tourists and cruise-ship day-trippers, midday on weekends is when the Prado gets genuinely congested. Come on a weekday morning, or arrive right after opening on weekends, for open pathways and easier parking.
 
-Spring brings jacaranda bloom and mild temperatures; December adds the December Nights festival, which draws enormous crowds but transforms the park after dark. The park grounds themselves are open 24 hours, though wandering after dark away from lit paths isn't the point — the museums and gardens are the draw, and those keep daytime hours.
+Spring brings jacaranda bloom and mild temperatures; December adds the December Nights festival, which draws enormous crowds but transforms the park after dark. The park grounds themselves are open 24 hours, though wandering after dark away from lit paths isn't the point. The museums and gardens are the draw, and those keep daytime hours.
 
 ## How to visit like a local
 
-Don't try to see the whole park in one visit — locals treat it like a rotating backyard, coming back for one museum or garden at a time rather than a single marathon day.
+Don't try to see the whole park in one visit, locals treat it like a rotating backyard, coming back for one museum or garden at a time rather than a single marathon day.
 
 - Skip the paid parking structures if they're full; free street parking exists along Presidents Way and near the Organ Pavilion, just a longer walk in.
 - Most museums accept card payment only for tickets; cash still works for food trucks and street performers' tip jars.
-- The free Tuesday museum rotation (different museums waive admission on different Tuesdays each month) is a genuine local money-saver — check the current schedule before visiting.
+- The free Tuesday museum rotation (different museums waive admission on different Tuesdays each month) is a genuine local money-saver. Check the current schedule before visiting.
 - The biggest tourist mistake is pairing the zoo and the museums in one day. Pick one, and save the other for a return trip.
 - For lunch, the Panama 66 restaurant behind the art museum has an easy patio without the Prado's foot traffic.
 

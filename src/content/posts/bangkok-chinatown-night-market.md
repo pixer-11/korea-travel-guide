@@ -65,25 +65,25 @@ updatedDate: '2026-08-28'
 
 ## Why Go
 
-Bangkok's Chinatown, known locally as Yaowarat, has been a center of Chinese-Thai commerce and street food since the late 18th century, when Chinese merchants settled along the Chao Phraya River. Today the Chinatown Night Market (centered around Maha Chak Road and Yaowarat Road, Samphanthawong district) is one of the most concentrated stretches of street-food stalls in the city, with a Google rating of 4.5 from nearly 3,900 reviews — a strong signal for a destination with no fixed menu and constantly rotating vendors. This isn't a curated food hall; it's a living, chaotic market where woks fire up after dark and the smell of charcoal-grilled seafood mixes with incense from nearby shrines.
+Bangkok's Chinatown, known locally as Yaowarat, has been a center of Chinese-Thai commerce and street food since the late 18th century, when Chinese merchants settled along the Chao Phraya River. Today the Chinatown Night Market (centered around Maha Chak Road and Yaowarat Road, Samphanthawong district) is one of the most concentrated stretches of street-food stalls in the city, with a Google rating of 4.5 from nearly 3,900 reviews, a strong signal for a destination with no fixed menu and constantly rotating vendors. This isn't a curated food hall; it's a living, chaotic market where woks fire up after dark and the smell of charcoal-grilled seafood mixes with incense from nearby shrines.
 
 ## Getting There
 
-The easiest approach is the MRT Blue Line to **Wat Mangkon station**, using **Exit 1**, which drops you directly onto Charoen Krung Road within a five-minute walk of Yaowarat Road. If coming from the river side, take a Chao Phraya Express Boat to Ratchawong Pier, then walk east about 10 minutes into the market streets. Taxis are an option but traffic through Chinatown after 6pm is notoriously slow, so the MRT is the more reliable choice. The market itself sits at 148 Maha Chak Road, in the Chakkrawat sub-district — a short walk from the Odeon Circle Gate, a good landmark to orient yourself before diving into the smaller sois.
+The easiest approach is the MRT Blue Line to **Wat Mangkon station**, using **Exit 1**, which drops you directly onto Charoen Krung Road within a five-minute walk of Yaowarat Road. If coming from the river side, take a Chao Phraya Express Boat to Ratchawong Pier, then walk east about 10 minutes into the market streets. Taxis are an option but traffic through Chinatown after 6pm is notoriously slow, so the MRT is the more reliable choice. The market itself sits at 148 Maha Chak Road, in the Chakkrawat sub-district, a short walk from the Odeon Circle Gate, a good landmark to orient yourself before diving into the smaller sois.
 
 ## What to Eat
 
 The stretch of Yaowarat Road between Odeon Circle and the Chinatown Gate is packed with stalls, but a few categories are worth targeting specifically:
 
-- **Grilled seafood** — charcoal-grilled prawns, scallops with glass noodles, and grilled squid are staples, often sold from carts with visible ice trays so you can pick your own.
-- **Guay Jub (rolled rice noodle soup)** — a peppery, crispy-pork-belly broth associated with this neighborhood.
-- **Kuay Chap** — a Chinese-Thai rolled noodle in dark broth, popular at stalls near Soi Texas.
-- **Bird's nest soup and shark fin soup stalls** — controversial to some, but historically tied to Chinatown's identity as a Chinese trading district; skip if you prefer not to.
+- **Grilled seafood**, charcoal-grilled prawns, scallops with glass noodles, and grilled squid are staples, often sold from carts with visible ice trays so you can pick your own.
+- **Guay Jub (rolled rice noodle soup)**, a peppery, crispy-pork-belly broth associated with this neighborhood.
+- **Kuay Chap**, a Chinese-Thai rolled noodle in dark broth, popular at stalls near Soi Texas.
+- **Bird's nest soup and shark fin soup stalls**, controversial to some, but historically tied to Chinatown's identity as a Chinese trading district; skip if you prefer not to.
 - **Roast duck and char siu** hanging in shopfront windows are a reliable, low-risk option if you want something familiar.
 - **Ba-mee** (egg noodles with wonton) and **oyster omelets (oh suan)** round out the savory side.
 - For dessert, look for **gui chai** (Chinese chive dumplings) and mango sticky rice carts near the market's edges.
 
-Portions are small and inexpensive by design — the point is to sample five or six different stalls rather than fill up on one.
+Portions are small and inexpensive by design. The point is to sample five or six different stalls rather than fill up on one.
 
 ## When to Go
 
@@ -91,4 +91,4 @@ The market comes alive after **6pm** and runs until around midnight, with the pe
 
 ## Nearby & Tips
 
-Wat Traimit, home to the 5.5-ton Golden Buddha, is a 10-minute walk south and worth combining with an early evening visit before the market gets crowded. Sampeng Lane, a narrow wholesale market street, runs parallel and is worth a daytime detour if you're in the area before dark. Bring small cash denominations in Thai baht — most stalls don't take cards, and change for large notes can be hard to come by from cart vendors. Finally, treat this as a walking meal: wear something you don't mind smelling like charcoal smoke afterward, and pace yourself between stalls rather than committing to the first queue you see.
+Wat Traimit, home to the 5.5-ton Golden Buddha, is a 10-minute walk south and worth combining with an early evening visit before the market gets crowded. Sampeng Lane, a narrow wholesale market street, runs parallel and is worth a daytime detour if you're in the area before dark. Bring small cash denominations in Thai baht. Most stalls don't take cards, and change for large notes can be hard to come by from cart vendors. Finally, treat this as a walking meal: wear something you don't mind smelling like charcoal smoke afterward, and pace yourself between stalls rather than committing to the first queue you see.

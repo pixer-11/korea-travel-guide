@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: siem-reap-baphuon-temple
-srcHash: '6dc1869bd4e1'
+srcHash: 'd091dd13bb41'
 title: 巴戎寺旁的巴普昂寺：暹粒旅行指南（4.7★）
 description: 巴普昂寺（Baphuon Temple）坐落在吴哥通王城（Angkor Thom）内，紧邻巴戎寺（Bayon）以北，从斗象台（Elephant Terrace）步行即可到达，每日5:00–18:30开放。4.7★（2,173条评价）——游客评价、开放时间与实用建议一网打尽。
 quickAnswer: 巴普昂寺坐落在吴哥通王城内，紧邻巴戎寺以北，从斗象台步行即到，每日5:00–18:30开放。相比吴哥窟或巴戎寺，这里游客要少得多，建议选在上午十点前后或傍晚时分前往，几乎能独享山顶平台。算上陡峭的攀爬，游览时间预留30到45分钟，鞋子要挑防滑的。

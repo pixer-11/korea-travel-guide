@@ -52,7 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You spot the Ferris wheel long before you reach the gate — a slow-turning silhouette against the ridge, visible from cars still climbing the highway below. That's the giveaway you've arrived at Sky Ranch, Tagaytay's amusement park perched where the land drops toward Taal Lake.
+You spot the Ferris wheel long before you reach the gate, a slow-turning silhouette against the ridge, visible from cars still climbing the highway below. That's the giveaway you've arrived at Sky Ranch, Tagaytay's amusement park perched where the land drops toward Taal Lake.
 
 ## Why go
 
@@ -62,7 +62,7 @@ The Ferris wheel is the signature ride. At the top, on a clear day, you get an o
 
 ## Getting there
 
-Sky Ranch sits right on the Tagaytay-Nasugbu Highway (Km. 60), in Kaybagal South — hard to miss if you're driving the main Tagaytay strip. Most visitors arrive by private car, rented van, or a Grab booked from elsewhere in town.
+Sky Ranch sits right on the Tagaytay-Nasugbu Highway (Km. 60), in Kaybagal South, hard to miss if you're driving the main Tagaytay strip. Most visitors arrive by private car, rented van, or a Grab booked from elsewhere in town.
 
 If you're coming by public transport, buses and jeepneys running along the Tagaytay-Nasugbu Highway pass close by; ask the driver to drop you at Sky Ranch. There's parking on site, though it fills up fast on weekends.
 
@@ -70,7 +70,7 @@ If you're coming by public transport, buses and jeepneys running along the Tagay
 
 Rides here skew toward classic carnival fare rather than thrill-park extremes:
 
-- The Ferris wheel — the main event, with lake views from the top
+- The Ferris wheel, the main event, with lake views from the top
 - A roller coaster and swinging ship for a bit more speed
 - Bumper cars, a carousel, and kiddie rides for younger children
 - A viewing deck area good for photos even if you skip the rides
@@ -89,9 +89,9 @@ Nighttime has its own appeal: the rides light up, and the park stays open until 
 
 Sky Ranch is genuinely one of Tagaytay's most-visited attractions, so the main local skill is timing your visit around the crowds rather than finding a quiet version of it.
 
-- **Arrive at opening.** On weekends that's 8am — well before tour buses and day-trippers fill the lot.
+- **Arrive at opening.** On weekends that's 8am, well before tour buses and day-trippers fill the lot.
 - **Or come late.** The last two hours before the 10pm close are usually thin, and the Ferris wheel lit up at night is worth it on its own.
-- **Pay by cash or card at the ticket counter**, and expect rides to be sold either as single tickets or ride-all-you-can packages — check current options at the booth since these change.
+- **Pay by cash or card at the ticket counter**, and expect rides to be sold either as single tickets or ride-all-you-can packages. Check current options at the booth since these change.
 - **Skip the Ferris wheel queue on hazy days.** If Taal isn't visible, save your wait for clearer weather or the golden-hour window.
 - **Don't treat it as a quick stop.** Traffic on the Tagaytay-Nasugbu Highway near the entrance can back up on weekends, so build extra time into arrival and departure.
 

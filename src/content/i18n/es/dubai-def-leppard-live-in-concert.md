@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-def-leppard-live-in-concert
-srcHash: 'aae51cfbcee0'
+srcHash: '520815d20bfa'
 title: 'Def Leppard en concierto: lo que se sabía (Dubái)'
 description: 'Def Leppard tenían previsto tocar en el Coca-Cola Arena de Dubái el 2 de agosto de 2026. Esto es lo que se anunció: la fecha, el recinto, las entradas y cómo llegar.'
 quickAnswer: Def Leppard tenían previsto actuar en el Coca-Cola Arena de Dubái el 2 de agosto de 2026, en una única noche. Las entradas se vendían a través del sitio web oficial del recinto y de Ticketmaster UAE, que además indicaba los horarios de las actuaciones. El recinto se encuentra dentro de City Walk, junto a Al Wasl Road; ninguna línea de Metro llega directamente hasta allí, por lo que la mayoría de los asistentes optaban por taxi o coche compartido, y la plaza que lo rodea se llenaba en la hora previa a la apertura de puertas.

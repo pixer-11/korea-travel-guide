@@ -74,11 +74,11 @@ Inside, the cool tile floors and quiet air-conditioned rooms are a relief from t
 
 A series of pavilions hold a substantial collection of works spanning many decades and a wide range of countries across the Asia-Pacific region. You'll move from Balinese masters like Le Mayeur and Affandi to Javanese court paintings, then into rooms of Pacific tribal art, Chinese porcelain and European Impressionist-influenced pieces painted by artists who settled on the island.
 
-The collection traces how outsiders — Dutch colonials, wandering painters, Pacific traders — shaped and were shaped by Balinese culture. A courtyard pond with a large mural backdrop is one of the most photographed corners, but the smaller side rooms of ritual objects and woodcarvings are where you'll want to slow down.
+The collection traces how outsiders (Dutch colonials, wandering painters, Pacific traders) shaped and were shaped by Balinese culture. A courtyard pond with a large mural backdrop is one of the most photographed corners, but the smaller side rooms of ritual objects and woodcarvings are where you'll want to slow down.
 
 ## Getting there
 
-Museum Pasifika is inside the BTDC/ITDC Nusa Dua complex, Jalan ITDC Nusa Dua Lot BC, Benoa, South Kuta, Badung Regency. If you're staying in Nusa Dua or Tanjung Benoa, it's a short taxi or scooter ride through the gated complex — tell the security guard at the entrance gate you're headed to the museum.
+Museum Pasifika is inside the BTDC/ITDC Nusa Dua complex, Jalan ITDC Nusa Dua Lot BC, Benoa, South Kuta, Badung Regency. If you're staying in Nusa Dua or Tanjung Benoa, it's a short taxi or scooter ride through the gated complex, tell the security guard at the entrance gate you're headed to the museum.
 
 From Kuta, Seminyak or Denpasar, expect a 30–45 minute drive depending on traffic. There's no direct public bus route, so a Grab/GoJek ride-hail, hotel shuttle, or private driver is the practical way in. Parking is straightforward and free for cars and scooters.
 
@@ -90,13 +90,13 @@ Crowd patterns here are worth knowing:
 
 - **Quietest on weekdays:** 5pm–6pm
 - **Quietest on weekends:** 10am–11am, right at opening
-- **Busiest on weekends:** 3pm–5pm — avoid this window if you want the galleries to yourself
+- **Busiest on weekends:** 3pm–5pm. Avoid this window if you want the galleries to yourself
 
 Since it's still under-the-radar compared to Bali's beach clubs and temples, even its "busy" periods are mild by museum standards elsewhere.
 
 ## What to see first
 
-Start at the entrance pavilion for historical context, then work chronologically rather than jumping around — the layout is designed to move you through eras and regions in sequence. Don't rush the modern Indonesian art rooms near the end; they're often the least crowded and most overlooked.
+Start at the entrance pavilion for historical context, then work chronologically rather than jumping around. The layout is designed to move you through eras and regions in sequence. Don't rush the modern Indonesian art rooms near the end; they're often the least crowded and most overlooked.
 
 - Balinese masters section (Le Mayeur, Affandi, Spies-era works)
 - Pacific and tribal art pavilion
@@ -107,8 +107,8 @@ Kids tend to enjoy the variety of textures and objects here more than a typical 
 
 ## How to visit like a local
 
-Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms — both are measured quiet windows, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day.
+Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms. Both are measured quiet windows, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day.
 
-There's no strict dress code, but this is still a cultural institution — leave beach cover-ups for the resort and wear something you'd wear into a temple. Photography is generally allowed without flash, so skip the tripod and be considerate of other visitors in smaller rooms.
+There's no strict dress code, but this is still a cultural institution. Leave beach cover-ups for the resort and wear something you'd wear into a temple. Photography is generally allowed without flash, so skip the tripod and be considerate of other visitors in smaller rooms.
 
 The most common visitor mistake is treating it as a quick 20-minute stop between beach clubs. Give it the full 1.5–2 hours it deserves, and pair it with lunch at one of the cafés inside the Nusa Dua complex afterward.

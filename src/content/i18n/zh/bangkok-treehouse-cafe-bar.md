@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-treehouse-cafe-bar
-srcHash: '1971b0fc1bd5'
+srcHash: '0a4f4e6d86c9'
 title: Treehouse Cafe & Bar：曼谷旅游指南
 description: Treehouse Cafe & Bar是隐藏在Watthana区素坤逸31巷（Sukhumvit Soi 31）里的丛林主题咖啡馆，最好选在工作日下午前往，趁晚间人潮涌来之前，先在藤蔓与灯串之间占到一个好位置。
 quickAnswer: Treehouse Cafe & Bar是隐藏在Watthana区素坤逸31巷（Sukhumvit Soi 31）里的丛林主题咖啡馆，最好选在工作日下午前往，趁晚间人潮涌来之前，先在藤蔓与灯串之间占到一个好位置。从Phrom Phong BTS站步行（或打车短程即达）大约10到15分钟就能到。这里评分高达4.9分，评论超过2600条，周末最好提前订位，或是早点到场。喝咖啡拍照的话，预留1到1.5小时就够了；要是想留下来吃晚饭、喝一杯，时间就得再拉长一些。

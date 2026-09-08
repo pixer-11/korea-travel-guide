@@ -114,11 +114,11 @@ updatedDate: '2026-09-05'
 
 Kordon is the sea-facing spine of Alsancak, the promenade every İzmirli ends up on eventually. It runs along the Gulf of Izmir, palm-lined and wide, with the water on one side and a wall of cafés, tea gardens and old apartment blocks on the other.
 
-There's no ticket, no gate, no opening time to plan around — it's open 24 hours, every day. That's part of why it's so woven into daily life here: people jog it at dawn, meet friends on its benches at midnight, and everything in between.
+There's no ticket, no gate, no opening time to plan around. It's open 24 hours, every day. That's part of why it's so woven into daily life here: people jog it at dawn, meet friends on its benches at midnight, and everything in between.
 
 ## What you'll see and do
 
-The walkway itself is the attraction — a long, breezy stretch for strolling, cycling, or just sitting with a glass of tea while ferries cross the gulf in front of you. Along the way you'll pass:
+The walkway itself is the attraction, a long, breezy stretch for strolling, cycling, or just sitting with a glass of tea while ferries cross the gulf in front of you. Along the way you'll pass:
 
 - Fishermen casting lines off the railings
 - Tea gardens with plastic chairs facing the water
@@ -132,11 +132,11 @@ Sunset is the signature moment. As the sky over the gulf turns orange and pink, 
 
 Alsancak sits in Konak district, on Izmir's central waterfront, and it's easy to reach without a car. The İZBAN suburban rail line stops at Alsancak station, a short walk inland from the water. The Konak–Alsancak tram line and city buses also run along or near the coast road.
 
-If you're coming from the historic center around Konak Square, it's a flat, pleasant walk of 20–30 minutes along the water — arguably the nicer option if the weather's cooperating.
+If you're coming from the historic center around Konak Square, it's a flat, pleasant walk of 20–30 minutes along the water, arguably the nicer option if the weather's cooperating.
 
 ## When to go
 
-Mornings are the calm window here. On weekdays it tends to be quieter earlier on, with weekends staying busier for a bit longer — good news if you want photos without dodging crowds.
+Mornings are the calm window here. On weekdays it tends to be quieter earlier on, with weekends staying busier for a bit longer, good news if you want photos without dodging crowds.
 
 Try to avoid weekend afternoons and evenings, when Kordon turns into the social hub of the whole city. It's lively, but not relaxing if you're after open space.
 
@@ -144,12 +144,12 @@ Spring and early autumn evenings bring the best light for sunset watching, with 
 
 ## How to visit like a local
 
-Locals don't treat Kordon as a sight to check off — it's a place to slow down. A few habits worth borrowing:
+Locals don't treat Kordon as a sight to check off. It's a place to slow down. A few habits worth borrowing:
 
 - **Go early or go late.** Regulars walk it at sunrise for the quiet, or after 11pm when the day-trip crowds thin but the tea gardens are still open.
 - **Order çay, not coffee.** The waterside tea gardens run on small glasses of black tea, usually paid in cash at the table when your order arrives.
-- **Don't rush the sunset.** The move is to grab a bench or a plastic chair a good 20 minutes before sunset — spots fill fast once the light starts changing.
+- **Don't rush the sunset.** The move is to grab a bench or a plastic chair a good 20 minutes before sunset, spots fill fast once the light starts changing.
 - **Skip the 1pm–11pm weekend rush** if you want breathing room; that's when the promenade is at its most packed, wall-to-wall with families, cyclists, and vendors.
-- **Bring small cash** for simit carts and tea gardens — cards aren't always the default at the smaller stalls.
+- **Bring small cash** for simit carts and tea gardens, cards aren't always the default at the smaller stalls.
 
-The most common visitor mistake is showing up on a Saturday evening expecting a peaceful walk. It's a wonderful scene, but it's a crowd scene — come at dawn instead if quiet is what you're after, then return in the evening for the atmosphere once you know what you're walking into.
+The most common visitor mistake is showing up on a Saturday evening expecting a peaceful walk. It's a wonderful scene, but it's a crowd scene, come at dawn instead if quiet is what you're after, then return in the evening for the atmosphere once you know what you're walking into.

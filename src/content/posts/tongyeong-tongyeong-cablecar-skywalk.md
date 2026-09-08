@@ -43,7 +43,7 @@ country: South Korea
 
 Tongyeong is often called the "Naples of the East" for its island-studded coastline, and the best way to grasp why is from above. The Tongyeong Cablecar Skywalk pairs a scenic cable car ascent up Mireuksan with a glass-floor observation deck, giving visitors a rare 360-degree vantage over the harbor city, its shipyards, and the dozens of islands scattered across Hallyeohaesang National Park.
 
-With a 4.4 rating across more than 5,500 reviews, it's one of the most consistently praised attractions in the region — not a gimmick stop but a genuine geographic highlight.
+With a 4.4 rating across more than 5,500 reviews, it's one of the most consistently praised attractions in the region, not a gimmick stop but a genuine geographic highlight.
 
 ## Getting There
 
@@ -51,7 +51,7 @@ The station sits at 910-2 Yeong-un-ri, Sanyang-eup, on the southern edge of Tong
 
 ## What to See and Do
 
-The cable car itself is the longest of its kind in Korea, stretching over 1.9km and climbing to near the 461-meter summit of Mireuksan in about 10 minutes. Cabins run continuously, so wait times vary with the crowd rather than a fixed schedule — arrive early on weekends if you want to skip long queues.
+The cable car itself is the longest of its kind in Korea, stretching over 1.9km and climbing to near the 461-meter summit of Mireuksan in about 10 minutes. Cabins run continuously, so wait times vary with the crowd rather than a fixed schedule. Arrive early on weekends if you want to skip long queues.
 
 At the upper station, a short uphill walking trail (10–15 minutes, partly stairs) leads to the summit area where the Skywalk is located. The Skywalk is a horseshoe-shaped glass-floor platform cantilevered off the ridge, letting visitors look straight down through reinforced glass while taking in the view of Tongyeong Harbor, Hansan Island, and the wider Hallyeohaesang National Park marine islands. On clear days, visibility extends well out into the archipelago, and it's a popular spot for photos of the sea dotted with small green islands.
 
@@ -59,7 +59,7 @@ Beyond the Skywalk, the summit area has additional lookout points and a small sn
 
 ## When to Go
 
-Spring (April–May) and autumn (October–November) offer the clearest skies and most comfortable hiking weather. Early morning departures (right after opening) or the last couple of hours before closing tend to have the thinnest crowds and the best light for photos — sunset from the summit, with the harbor lighting up below, is a particular highlight in the warmer months. Summer brings haze and higher humidity that can dull the long-distance views, while winter offers crisp, clear air but colder, windier conditions at the exposed summit and Skywalk platform.
+Spring (April–May) and autumn (October–November) offer the clearest skies and most comfortable hiking weather. Early morning departures (right after opening) or the last couple of hours before closing tend to have the thinnest crowds and the best light for photos, sunset from the summit, with the harbor lighting up below, is a particular highlight in the warmer months. Summer brings haze and higher humidity that can dull the long-distance views, while winter offers crisp, clear air but colder, windier conditions at the exposed summit and Skywalk platform.
 
 Check the operating hours and any weather-related closures (the cable car sometimes suspends operation in high winds) before heading out, since schedules can shift seasonally.
 
@@ -67,4 +67,4 @@ Check the operating hours and any weather-related closures (the cable car someti
 
 Plan on 2–3 hours total: roughly 20 minutes each way for the cable car, 30–45 minutes at the summit and Skywalk, and time for the connecting walking trail. Wear shoes with good grip, since the summit trail includes uneven stone steps and can be slippery after rain. Shoe covers are typically required to walk on the glass Skywalk surface, and lockers or bag storage may not be available at the summit, so travel light.
 
-After descending, Tongyeong's downtown area is worth combining with the cable car visit — Dongpirang Mural Village and Jungang Market (known for its fresh seafood and the local specialty chungmu gimbap) are both a short drive away, making for an easy half-day or full-day itinerary that pairs the mountain views with a taste of the city's fishing-port culture.
+After descending, Tongyeong's downtown area is worth combining with the cable car visit, Dongpirang Mural Village and Jungang Market (known for its fresh seafood and the local specialty chungmu gimbap) are both a short drive away, making for an easy half-day or full-day itinerary that pairs the mountain views with a taste of the city's fishing-port culture.

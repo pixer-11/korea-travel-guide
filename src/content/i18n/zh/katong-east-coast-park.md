@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: katong-east-coast-park
-srcHash: '0b847fef7877'
+srcHash: 'f3be0c92bb00'
 title: 东海岸公园：如切(Katong)旅行指南（4.6★）
 description: 东海岸公园（East Coast Park）是位于新加坡东南海岸的一条狭长填海海滩地带，全天24小时开放，从如切/马林百列（Katong/Marine Parade）前往最为便捷，最适合骑车、溜冰或来一盘辣椒螃蟹尽情享受。4.6★（32,156条评价）——游客怎么说、开放时间及实用贴士。
 quickAnswer: 东海岸公园（East Coast Park）是位于新加坡东南海岸的一条狭长填海海滩地带，全天24小时开放，从如切/马林百列（Katong/Marine Parade）前往最为便捷，最适合骑车、溜冰或来一盘辣椒螃蟹尽情享受。周末中午到晚上11点是人流最拥挤的时段，最好避开——尽量选在工作日的上午，或工作日的晚上前往。逛海滩和骑行道大约需要半天时间，如果打算在某家海鲜餐厅坐下来慢慢吃，则需要更久。

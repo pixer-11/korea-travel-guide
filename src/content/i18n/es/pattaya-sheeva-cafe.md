@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-sheeva-cafe
-srcHash: 'c41349ba53c3'
+srcHash: 'f92744a8b50b'
 title: 'Sheeva Cafe: Guía de viaje de Pattaya'
 description: Sheeva Cafe es un café-restaurante con temática de jungla en Sukhumvit-Pattaya 75 (Soi 75) en Pattaya, conocido por su vegetación densa, cascadas, estanques de koi y fotogénicos túneles de enredaderas entrelazadas alrededor de rincones para comer.
 quickAnswer: Sheeva Cafe es un café-restaurante con temática de jungla en Sukhumvit-Pattaya 75 (Soi 75) en Pattaya, conocido por su vegetación densa, cascadas, estanques de koi y fotogénicos túneles de enredaderas entrelazadas alrededor de rincones para comer. Conviene ir a almorzar temprano o a media tarde para tomar un café y ver el follaje con luz natural, calcular precios de gama media para platos tailandeses e internacionales, y reservar entre 1,5 y 2 horas para comer y recorrer el lugar tomando fotos.

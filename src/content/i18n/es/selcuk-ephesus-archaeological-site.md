@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-ephesus-archaeological-site
-srcHash: '03b9f841a37f'
+srcHash: '379f7af429f2'
 title: 'Sitio Arqueológico de Éfeso: Guía de viaje de Selçuk (4,8★)'
 description: 'Éfeso es una de las ciudades antiguas mejor conservadas del Mediterráneo, y con 4,8 estrellas de casi 15.000 reseñas, no es ningún secreto: ve justo a las 8 de la mañana, a la apertura, o después de las 16h para evitar la avalancha de autobuses turísticos.'
 quickAnswer: 'Éfeso es una de las ciudades antiguas mejor conservadas del Mediterráneo, y con 4,8 estrellas de casi 15.000 reseñas, no es ningún secreto: ve justo a las 8 de la mañana, a la apertura, o después de las 16h para evitar la avalancha de autobuses turísticos. Calcula al menos dos o tres horas, entra por la puerta superior (Magnesia) y camina cuesta abajo hasta la Biblioteca de Celso y el Gran Teatro. Usa calzado adecuado; las calles de mármol son resbaladizas y casi no hay sombra.'

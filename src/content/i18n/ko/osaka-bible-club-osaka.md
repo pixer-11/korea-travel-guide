@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: osaka-bible-club-osaka
-srcHash: 'b3fb1c8cdd60'
+srcHash: 'ff6d2a74edca'
 title: '바이블 클럽(Bible Club): 오사카 여행 가이드'
 description: 일본 오사카의 바이블 클럽(Bible Club Osaka) — 요즘 뜨는 이곳은 어떤 곳이고, 어디에 있으며, 어떻게 가야 하는지 안내합니다.
 quickAnswer: 바이블 클럽은 오사카 신사이바시(Shinsaibashi)/난바(Namba) 유흥가 안쪽에 자리한 레트로 아메리칸 스타일 칵테일 바로, 현재 2026년 아시아 베스트 바 100(Asia's 100 Best Bars) 리스트에 이름을 올리며 화제를 모으고 있다. 바 카운터에서 여유롭게 대화를 나누며 즐기기엔 평일 저녁이 제격이며, 후딱 한 잔 마시고 나오는 곳이 아니라 희귀 스피릿과 분위기를 음미하러 가는 곳이다. 가능하다면 미리 예약하고, 출발 전에 현재 영업시간을 확인하자. 이렇게 화제가 되는 바는 수요가 늘어나면서 예약 정책이 자주 바뀌는 편이다.

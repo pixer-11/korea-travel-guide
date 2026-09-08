@@ -45,9 +45,9 @@ eventFactsAsked: true
 ---
 ## Why this show matters
 
-Official HIGE DANDism — often shortened to "Higedan" by fans — is one of the few Japanese rock acts that regularly fills domes, and their Asia tours have become genuine events rather than side stops. The band built its following on tight vocal harmonies, jazz-inflected piano runs, and anthemic choruses that translated far beyond Japan through anime tie-ins and streaming hits.
+Official HIGE DANDism, often shortened to "Higedan" by fans, is one of the few Japanese rock acts that regularly fills domes, and their Asia tours have become genuine events rather than side stops. The band built its following on tight vocal harmonies, jazz-inflected piano runs, and anthemic choruses that translated far beyond Japan through anime tie-ins and streaming hits.
 
-A two-night stand at Taipei Dome signalled how big their regional pull had become, and the new material — "Stardust" and "Elderflower" — pointed to a preview of the band's next studio chapter rather than a straight greatest-hits set.
+A two-night stand at Taipei Dome signalled how big their regional pull had become, and the new material, "Stardust" and "Elderflower", pointed to a preview of the band's next studio chapter rather than a straight greatest-hits set.
 
 ## Getting to Taipei Dome
 
@@ -57,7 +57,7 @@ For those flying in, Taipei Songshan Airport is only a couple of MRT stops away 
 
 ## What to expect inside
 
-Domes of this scale in Taiwan are still a relatively new phenomenon, and international acts booking multi-night runs here is part of a broader shift in the city's concert infrastructure. The run was planned as a full-scale touring production — stage lighting rigs, video screens, and a setlist blending established singles with the newly announced tracks. "Stardust" and "Elderflower" were framed as debuts for this tour, and setlist-tracking sites are where the details of individual dome nights usually surface.
+Domes of this scale in Taiwan are still a relatively new phenomenon, and international acts booking multi-night runs here is part of a broader shift in the city's concert infrastructure. The run was planned as a full-scale touring production, stage lighting rigs, video screens, and a setlist blending established singles with the newly announced tracks. "Stardust" and "Elderflower" were framed as debuts for this tour, and setlist-tracking sites are where the details of individual dome nights usually surface.
 
 ## When it happened
 
@@ -65,6 +65,6 @@ The two dates were set back-to-back, August 29 and 30, 2026. Touring fans often 
 
 ## Getting around like a local
 
-Taiwanese concertgoers overwhelmingly buy tickets through official local platforms tied to the promoter, and resale outside those channels is common but risky — verified tickets on official apps are the safer route. Doors typically open well before Japanese-artist dome shows in Taipei, and queues for merchandise ("goods") stalls often form hours ahead of doors.
+Taiwanese concertgoers overwhelmingly buy tickets through official local platforms tied to the promoter, and resale outside those channels is common but risky, verified tickets on official apps are the safer route. Doors typically open well before Japanese-artist dome shows in Taipei, and queues for merchandise ("goods") stalls often form hours ahead of doors.
 
 Cash and mobile payment (LINE Pay, EasyCard-linked apps) are both widely used at merch booths and nearby convenience stores, though card acceptance varies stall to stall. Fans typically queue in orderly lines by ticket section number. Nearby Songshan Cultural and Creative Park and the Xinyi shopping district stay lively late, making them a natural spot to unwind after a show.

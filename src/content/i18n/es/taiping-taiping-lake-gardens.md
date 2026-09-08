@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiping-taiping-lake-gardens
-srcHash: 'f3e0f59d56dc'
+srcHash: '4f284bf1dd8a'
 title: 'Taiping Lake Gardens: Guía de viaje (4.6★)'
 description: Taiping Lake Gardens es el parque público más antiguo de Malasia, una antigua mina de estaño convertida en amplios césped, árboles de lluvia y ocho lagos conectados, abierto todos los días de 8am a 10pm. 4.6★ (10,342 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Taiping Lake Gardens es el parque público más antiguo de Malasia, una antigua mina de estaño convertida en amplios césped, árboles de lluvia y ocho lagos conectados, abierto todos los días de 8am a 10pm. Dedícale de dos a tres horas: camina o pedalea por la carretera perimetral, visita el Museo de Perak y el antiguo cementerio de guerra contiguo, y ve temprano por la mañana para ver la niebla sobre el agua y disfrutar del aire más fresco. Los fines de semana después de las 4pm atraen a las mayores multitudes, así que procura ir en día de semana si puedes.'

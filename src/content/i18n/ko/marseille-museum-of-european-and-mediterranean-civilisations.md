@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: '1ede0867b8ce'
+srcHash: '1761e672244c'
 title: '유럽지중해문명박물관(MuCEM): 마르세유 여행 가이드'
 description: 비외포르(Vieux-Port) 쪽 입구에서 J4 에스플러네이드로 이어지는 길을 따라 MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)에 가보세요. 박물관이 저녁 개장을 하는 오후 6시~9시대를 노리면 평일과 주말 모두 가장 한산합니다. 4.4★(리뷰 24,438개) — 방문객 후기, 운영시간, 팁을 소개합니다.
 quickAnswer: 비외포르(Vieux-Port) 쪽 입구에서 J4 에스플러네이드로 이어지는 길을 따라 MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)에 가보세요. 박물관이 저녁 개장을 하는 오후 6시~9시대를 노리면 평일과 주말 모두 가장 한산합니다. 주말에는 오전 11시부터 오후 6시까지 인파가 몰리므로, 이 시간대에만 방문할 수 있다면 개장 시각에 맞춰 도착하세요. 관람에는 두세 시간을 잡아두고, 생장 요새(Fort Saint-Jean)로 이어지는 다리도 건너볼 계획이라면 시간을 더 넉넉히 잡으세요.

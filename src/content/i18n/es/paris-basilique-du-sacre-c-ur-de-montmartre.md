@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-basilique-du-sacre-c-ur-de-montmartre
-srcHash: '27fff612bcb2'
+srcHash: '79bdaacc96ff'
 title: 'Basílica del Sagrado Corazón de Montmartre (Sacré-Cœur): Guía de viaje de París'
 description: El Sacré-Cœur está abierto todos los días de 6:30 a 22:30, y la entrada a la basílica en sí es gratuita (la cúpula y la cripta cobran una pequeña tarifa aparte).
 quickAnswer: 'El Sacré-Cœur está abierto todos los días de 6:30 a 22:30, y la entrada a la basílica en sí es gratuita (la cúpula y la cripta cobran una pequeña tarifa aparte). Ve justo a la apertura o los fines de semana antes de las 10:00 para evitar las multitudes: después de las 11:00 los sábados y domingos, las escaleras y la plaza se llenan rápidamente. Toma la Línea 2 del Metro hasta Anvers y sube caminando por la Rue de Steinkerque, o utiliza el funicular desde la Place Saint-Pierre.'

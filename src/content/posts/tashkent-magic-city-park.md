@@ -55,7 +55,7 @@ aiGenerated: true
 
 You come to Magic City Park for the skyline it builds after dark. Turreted towers glow pink and gold against the Tashkent night, and for a couple of hours you could be in a storybook rather than the middle of a modern capital.
 
-By day it's a theme park like any other, with rides and queues. By evening it turns into something stranger and more photogenic — a miniature fantasy town where every façade is a different candy color.
+By day it's a theme park like any other, with rides and queues. By evening it turns into something stranger and more photogenic, a miniature fantasy town where every façade is a different candy color.
 
 ## What to see and do
 
@@ -72,7 +72,7 @@ None of it is subtle, and that's the point. Kids move fast between rides; adults
 
 ## Getting there
 
-The park sits on Bobur Street in Tashkent, easy to reach by taxi or ride-hailing app from most central districts. If you're coming from the old town or Chorsu area, a short cab ride is the simplest option — traffic on Bobur Street can bunch up in the early evening as families arrive.
+The park sits on Bobur Street in Tashkent, easy to reach by taxi or ride-hailing app from most central districts. If you're coming from the old town or Chorsu area, a short cab ride is the simplest option, traffic on Bobur Street can bunch up in the early evening as families arrive.
 
 Public buses run along Bobur Street too, though a taxi is far less hassle if you're traveling with kids or after dark. Ride-share apps are widely used in Tashkent and tend to be the cheapest, most predictable way in.
 
@@ -92,8 +92,8 @@ Since Magic City Park is firmly on the well-visited list rather than a quiet fin
 - **Pay by card or app**: most food stalls and ticket counters in Tashkent's bigger venues now take cards, but keep some cash for smaller vendors just in case.
 - **Skip the main gate scrum**: weekend entry lines build fast after 6pm; buying tickets online or arriving right at opening avoids the worst of it.
 - **Dress for a park, not a museum**: paths are outdoors and can get dusty or hot in summer, so comfortable shoes matter more than fashion.
-- **The rookie mistake**: showing up right at sunset expecting an empty park — that's exactly when everyone else arrives too. Come earlier, stay for the lights.
+- **The rookie mistake**: showing up right at sunset expecting an empty park. That's exactly when everyone else arrives too. Come earlier, stay for the lights.
 
 Photographers should note the houses look flattest in harsh midday sun. The half-hour after the lights switch on, before full darkness, is when the colors and the glow both read clearly in photos.
 
-Bring the family, budget your evening around the light switch-on, and treat the rides as a bonus rather than the main event — the town itself is the attraction.
+Bring the family, budget your evening around the light switch-on, and treat the rides as a bonus rather than the main event. The town itself is the attraction.

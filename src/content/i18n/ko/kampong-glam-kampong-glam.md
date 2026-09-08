@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kampong-glam-kampong-glam
-srcHash: '04e9a89e0b62'
+srcHash: '99ca219f932b'
 title: 캄퐁글람(Kampong Glam) 여행 가이드
 description: 캄퐁글람(Kampong Glam)은 싱가포르의 유서 깊은 말레이-무슬림 지구로, 황금빛 돔이 인상적인 술탄 모스크(Masjid Sultan)와 그 앞으로 이어지는 보행자 전용 도로 부소라 스트리트(Bussorah Street)가 중심을 이룹니다.
 quickAnswer: 캄퐁글람(Kampong Glam)은 싱가포르의 유서 깊은 말레이-무슬림 지구로, 황금빛 돔이 인상적인 술탄 모스크(Masjid Sultan)와 그 앞으로 이어지는 보행자 전용 도로 부소라 스트리트(Bussorah Street)가 중심을 이룹니다. 부소라 스트리트, 직물 상점이 늘어선 아랍 스트리트(Arab Street), 스트리트 아트로 유명한 하지 레인(Haji Lane)을 둘러보는 데 2-3시간이면 충분하며, 점심 및 저녁 인파가 몰리기 전인 평일 오전에 가는 것이 좋습니다. 가장 가까운 MRT역은 부기스(Bugis)역(동서선 및 다운타운선)으로, 도보로 약 7-10분 거리입니다.

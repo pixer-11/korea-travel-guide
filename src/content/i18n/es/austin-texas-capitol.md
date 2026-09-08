@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-texas-capitol
-srcHash: 'b393bed21327'
+srcHash: '5d42444a2cad'
 title: 'Capitolio de Texas: Guía de viaje de Austin (4.7★)'
 description: 'El Capitolio de Texas, en 1100 Congress Ave., abre todos los días (7:00-20:00 en días de semana, 9:00-20:00 los fines de semana) y la entrada es gratuita. 4.7★ (5,096 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Capitolio de Texas, en 1100 Congress Ave., abre todos los días (7:00-20:00 en días de semana, 9:00-20:00 los fines de semana) y la entrada es gratuita. Se puede recorrer el terreno, admirar la cúpula desde debajo de la rotonda y unirse a una visita guiada o autoguiada gratuita por las cámaras de la Cámara de Representantes y el Senado. Conviene llegar justo a la apertura en un día de semana para verlo antes de que lleguen los grupos turísticos y los autobuses escolares.

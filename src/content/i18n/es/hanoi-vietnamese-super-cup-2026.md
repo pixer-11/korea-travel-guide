@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-vietnamese-super-cup-2026
-srcHash: '16bc80b9b4ed'
+srcHash: 'a12638642a45'
 title: 'Supercopa de Vietnam 2026: lo que hay que saber (Hanói)'
 description: La Supercopa de Vietnam 2026 se disputa en Hanói el 30 de agosto de 2026. Qué es, cuándo y dónde se juega, y qué se anunció sobre el partido.
 quickAnswer: La Supercopa de Vietnam 2026, que enfrenta al campeón de la V.League 1 con el ganador de la Copa de Vietnam, estaba prevista para el 30 de agosto de 2026 en el estadio Hàng Đẫy, en el centro de Hanói.

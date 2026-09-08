@@ -93,18 +93,18 @@ Despite how it's often filed online, Dodamsambong isn't in Damyang. It sits on t
 
 ## Why go
 
-You come around a bend in the riverside path and the three peaks appear almost without warning. Two slender rocks flank a taller, pine-tufted third, all three shouldering straight up out of green water. It's one of those views that looks staged, except nobody built it — this is limestone shaped by the river over centuries, and it's the reason Danyang shows up on so many Korean travel itineraries.
+You come around a bend in the riverside path and the three peaks appear almost without warning. Two slender rocks flank a taller, pine-tufted third, all three shouldering straight up out of green water. It's one of those views that looks staged, except nobody built it. This is limestone shaped by the river over centuries, and it's the reason Danyang shows up on so many Korean travel itineraries.
 
-A small pavilion, Samdodang, perches on the tallest rock, added centuries ago by a local scholar-official. Local legend ties the rocks to a folk story from upstream in Gangwon-do, about peaks that "floated" down the river — it's the kind of tale a guide or plaque will tell you on the spot, and it's part of why the site carries more folklore weight than its size suggests.
+A small pavilion, Samdodang, perches on the tallest rock, added centuries ago by a local scholar-official. Local legend ties the rocks to a folk story from upstream in Gangwon-do, about peaks that "floated" down the river. It's the kind of tale a guide or plaque will tell you on the spot, and it's part of why the site carries more folklore weight than its size suggests.
 
 ## What to see and do
 
 Most visits centre on the river promenade that runs along the bank facing the peaks. Give yourself time to walk it slowly rather than snap one photo and leave.
 
-- **The fountain show** — jets choreographed near the rocks, typically running at set intervals through the day
-- **Speedboat rides** — short river runs that get you close to the peaks from the water
-- **Seokmun (Stone Gate)** — a short walk from the peaks, a natural rock arch worth the extra ten minutes
-- **Danyang riverside cycling path** — rentable bikes if you want to extend the visit along the water
+- **The fountain show**, jets choreographed near the rocks, typically running at set intervals through the day
+- **Speedboat rides**, short river runs that get you close to the peaks from the water
+- **Seokmun (Stone Gate)**, a short walk from the peaks, a natural rock arch worth the extra ten minutes
+- **Danyang riverside cycling path**, rentable bikes if you want to extend the visit along the water
 
 The rocks themselves change character with the light. Midday sun flattens them into postcard-clean shapes; late afternoon brings long shadows across the pine on top and warmer color in the water.
 
@@ -114,23 +114,23 @@ Dodamsambong sits at 644-13 Sambong-ro, Maepo-eup, Danyang-gun. Most visitors ar
 
 If you're coming from Seoul, it's roughly a two-and-a-half to three-hour drive, and Danyang also connects to the wider Chungju Lake cruise routes if you want to combine it with a boat trip on the lake itself.
 
-There's no subway link — this is a small river town, not a metro city — so build in transfer time if you're relying on buses.
+There's no subway link (this is a small river town, not a metro city), so build in transfer time if you're relying on buses.
 
 ## When to go
 
-The site is open daily, 9am to 6pm, with no variation across the week according to posted hours. That's your full window — there's no early or late slot to sneak in outside it.
+The site is open daily, 9am to 6pm, with no variation across the week according to posted hours. That's your full window. There's no early or late slot to sneak in outside it.
 
 Weekday mornings and afternoons within those hours are consistently the calmest time to visit. Weekends, especially from 10am onward, are when the crowds peak, so if you have flexibility, shift your trip to a weekday.
 
-Spring and autumn are the classic windows for this stretch of the Namhangang — cherry blossoms or foliage frame the peaks — though the rocks themselves are a year-round draw.
+Spring and autumn are the classic windows for this stretch of the Namhangang, cherry blossoms or foliage frame the peaks, though the rocks themselves are a year-round draw.
 
 ## How to visit like a local
 
-This is a well-visited, well-photographed stop — not a hidden find — so the real skill is timing, not discovery.
+This is a well-visited, well-photographed stop, not a hidden find, so the real skill is timing, not discovery.
 
 - **Go on a weekday.** The site draws heavy weekend traffic from 10am, and a weekday visit inside normal hours is noticeably quieter.
 - **Arrive early in the window.** Even on a weekday, the first couple of hours after 9am tend to be easier for photos without other visitors in frame.
-- **Pay as you go for extras.** Fountain shows are typically free to watch from the promenade; speedboat rides are a separate paid add-on — budget a bit extra if you want one.
+- **Pay as you go for extras.** Fountain shows are typically free to watch from the promenade; speedboat rides are a separate paid add-on. Budget a bit extra if you want one.
 - **Don't rush the pavilion view.** Most visitors photograph the peaks from one spot and leave. Walk further along the bank toward Seokmun for a different angle and far fewer people.
-- **Bring cash or card for small vendors** near the riverside — larger transactions like boat tickets usually take card.
+- **Bring cash or card for small vendors** near the riverside, larger transactions like boat tickets usually take card.
 

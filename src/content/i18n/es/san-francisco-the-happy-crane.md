@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-the-happy-crane
-srcHash: '1fdfe40a059c'
+srcHash: '785a0a4e3958'
 title: 'The Happy Crane: guía de viaje de San Francisco'
 description: 'The Happy Crane, en San Francisco (Estados Unidos), es uno de los locales del momento: qué es, dónde está y cómo conseguir mesa.'
 quickAnswer: 'The Happy Crane es un restaurante de cocina china moderna situado en Hayes Valley, San Francisco, a cargo del chef James Yeun Leong Parry (con paso por Bo Innovation y Benu), instalado en el antiguo local de Monsieur Benjamin, sobre la calle principal de restaurantes del barrio. Ahora mismo es una de las reservas más difíciles de conseguir en la ciudad: Eater lo eligió mejor restaurante nuevo y Condé Nast lo incluyó en su Hot List 2026, así que conviene reservar online con la mayor antelación posible que permita el sistema y confirmar el horario vigente antes de ir.'

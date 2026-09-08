@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-the-summer-house
-srcHash: '66a3b03c1a73'
+srcHash: '87d9e20650c2'
 title: The Summer House：大城府旅行指南
 description: The Summer House是位于大城府（Ayutthaya）高廉岛（Ko Rian）的一家河畔咖啡餐厅，坐落在湄南河（昭披耶河）与巴塞河交汇的河岸绿意花园中，将泰式家常菜与法式甜点融合在一起。
 quickAnswer: The Summer House是一家河畔咖啡餐厅，坐落在大城府高廉岛上，在昭披耶河与巴塞河沿岸的绿荫花园里，把泰式家常菜和法式甜点结合在了一起。建议选在晚早餐或日落晚餐时段前往，人均预算大约300-600泰铢，还可以顺路去不远处的柴瓦塔那兰寺（Wat Chaiwatthanaram）逛逛——开车或坐长尾船过去用不了多久。由于人气很高（超过3000条评价，评分4.5星），周末最好提前订位。

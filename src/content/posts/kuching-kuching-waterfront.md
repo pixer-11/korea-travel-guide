@@ -57,7 +57,7 @@ This is Kuching's front porch, the place the whole city turns to face the river.
 
 ## What you'll see along the way
 
-The waterfront isn't one attraction but a string of small ones. You'll pass the Chinese History Museum, the ornate Round Tower, and the ‘cat fountain' near the old Square Tower — a nod to Kuching's name, which means "cat" in Malay.
+The waterfront isn't one attraction but a string of small ones. You'll pass the Chinese History Museum, the ornate Round Tower, and the ‘cat fountain' near the old Square Tower, a nod to Kuching's name, which means "cat" in Malay.
 
 Look across the river and you'll spot:
 
@@ -69,7 +69,7 @@ Small wooden *tambang* boats still ferry passengers across the river for a token
 
 ## Best time to walk it
 
-Midday here is brutal — flat light, heavy humidity, little shade. The waterfront rewards patience instead.
+Midday here is brutal, flat light, heavy humidity, little shade. The waterfront rewards patience instead.
 
 Come around 5pm as the heat breaks and vendors start wheeling out food carts. By 7pm the legislative building and fort are floodlit, and the promenade fills with families, joggers and couples taking photos against the river.
 
@@ -98,10 +98,10 @@ Once you're there, the whole strip is flat, paved and stroller-friendly, so most
 
 Sarawakians treat the waterfront as a place to cool off in the evening, not a photo-stop to rush through. Do the same: walk slowly, stop for laksa, sit on one of the benches facing the river.
 
-- **Pay in cash** at the food stalls and tambang boats — small notes and coins move things faster than cards
+- **Pay in cash** at the food stalls and tambang boats, small notes and coins move things faster than cards
 - **Skip midday** entirely; heat and glare make it the least rewarding time to be out
 - **Avoid the main food court rush** around 7–8pm on weekends if you dislike queues; eat slightly earlier or later
-- **Don't just photograph the Astana from afar** — the short boat crossing is inexpensive and gives a much better view
+- **Don't just photograph the Astana from afar**. The short boat crossing is inexpensive and gives a much better view
 - **Bring small bills and a bottle of water**, since the walk is longer and more exposed to sun than it looks on a map
 
 The mistake most visitors make is treating this as a five-minute photo stop between the museum and dinner. Give it an hour instead, ideally straddling sunset, and you'll see why it's the spot Kuching itself gathers at every evening.

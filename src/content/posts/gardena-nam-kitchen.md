@@ -37,21 +37,21 @@ heroImage:
 
 Fusion restaurants are common in Los Angeles County, but few pair Vietnamese and Peruvian cooking traditions in one kitchen, and fewer still do it well enough to catch national attention. NAM Kitchen did both: it placed No. 3 on Yelp's 2026 Top 100 U.S. Restaurants list, and it was singled out as the single most-reviewed business among every entry on that list.
 
-That combination — a top-three national ranking plus an outsized volume of reviews — signals a restaurant that has moved fast from neighborhood favorite to a genuine culinary destination, all while staying in Gardena rather than a flashier LA neighborhood.
+That combination, a top-three national ranking plus an outsized volume of reviews, signals a restaurant that has moved fast from neighborhood favorite to a genuine culinary destination, all while staying in Gardena rather than a flashier LA neighborhood.
 
 Vietnamese and Peruvian cuisines share more overlap than diners might expect: both lean on bright acidity, fresh herbs, chiles, and char-grilled proteins, and both cultures have long histories of adapting French and Chinese influences into something distinct. A kitchen built around that overlap has room to be genuinely creative rather than gimmicky, which appears to be a big part of the buzz.
 
 ## Where it is
 
-NAM Kitchen sits in Gardena, a diverse South Bay suburb roughly 15 miles south of downtown Los Angeles, tucked between Torrance, Hawthorne, and Compton. Gardena has one of the region's longest-standing Japanese-American communities and a broader South Bay food scene that mixes Japanese, Filipino, Vietnamese, and Latin American kitchens along its main commercial corridors — a fitting backdrop for a Vietnamese-Peruvian menu that doesn't fit neatly into one category.
+NAM Kitchen sits in Gardena, a diverse South Bay suburb roughly 15 miles south of downtown Los Angeles, tucked between Torrance, Hawthorne, and Compton. Gardena has one of the region's longest-standing Japanese-American communities and a broader South Bay food scene that mixes Japanese, Filipino, Vietnamese, and Latin American kitchens along its main commercial corridors, a fitting backdrop for a Vietnamese-Peruvian menu that doesn't fit neatly into one category.
 
-Because exact hours and the current reservation system can shift quickly for a restaurant riding a fresh wave of national attention, confirm both directly with the restaurant or through its official listings before you drive out. Treat any online menu or price screenshot from before the Yelp list as outdated — a sudden jump in demand often means adjusted hours, temporary waitlists, or a revised menu.
+Because exact hours and the current reservation system can shift quickly for a restaurant riding a fresh wave of national attention, confirm both directly with the restaurant or through its official listings before you drive out. Treat any online menu or price screenshot from before the Yelp list as outdated. A sudden jump in demand often means adjusted hours, temporary waitlists, or a revised menu.
 
 ## What to expect at the table
 
 Specific dishes and prices aren't set in stone here, precisely because a newly trending kitchen tends to adjust its offerings as it scales. What is safe to expect, based on the fusion concept itself, is a menu built around shared techniques: think grilled and marinated meats, herb-forward sauces, rice- or noodle-based mains, and a nod to Peruvian staples like aji-based condiments alongside Vietnamese staples like fish sauce and fresh herbs.
 
-Go in curious rather than with a fixed dish in mind, and ask staff what's distinctive that day — a good approach at any restaurant balancing two cuisines rather than defaulting to one.
+Go in curious rather than with a fixed dish in mind, and ask staff what's distinctive that day, a good approach at any restaurant balancing two cuisines rather than defaulting to one.
 
 ## Getting there
 
@@ -61,10 +61,10 @@ Ride-share is a reasonable fallback if you're coming from the airport (LAX is ro
 
 ## When to go
 
-Newly-ranked restaurants almost always see a surge in walk-in traffic right after a list like Yelp's Top 100 publishes, so the first few months after the ranking are likely to be the busiest. If flexibility allows, aim for an early weekday dinner or a weekday lunch rather than Friday or Saturday night, when word-of-mouth crowds peak. Because this is a recently-trending spot rather than an established institution with decades of predictable patterns, there isn't yet a long track record of "quiet season" — the safest bet is simply avoiding peak weekend dinner windows.
+Newly-ranked restaurants almost always see a surge in walk-in traffic right after a list like Yelp's Top 100 publishes, so the first few months after the ranking are likely to be the busiest. If flexibility allows, aim for an early weekday dinner or a weekday lunch rather than Friday or Saturday night, when word-of-mouth crowds peak. Because this is a recently-trending spot rather than an established institution with decades of predictable patterns, there isn't yet a long track record of "quiet season". The safest bet is simply avoiding peak weekend dinner windows.
 
 ## How to visit like a local
 
 Call ahead or check the restaurant's official page the same day you plan to go, since a sudden national ranking can mean shifting hours, a temporary reservation requirement, or a wait even on off-peak nights. If reservations aren't available, arrive right at opening for lunch or dinner rather than in the middle of the rush. South Bay diners generally tip in the standard U.S. range (typically 18-20% at sit-down restaurants) and pay by card as the default, though it's worth carrying some cash as backup for smaller, older-school businesses nearby.
 
-The biggest mistake visitors make with a suddenly-trending spot like this is treating a months-old online menu or Google hours listing as current — always verify same-day before making the drive out to Gardena.
+The biggest mistake visitors make with a suddenly-trending spot like this is treating a months-old online menu or Google hours listing as current, always verify same-day before making the drive out to Gardena.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hue-maison-trang
-srcHash: '6081f4612c79'
+srcHash: 'aeeafdb6ec56'
 title: Maison Trang：在顺化吃什么、去哪吃
 description: Maison Trang位于顺化顺化坊(Thuận Hóa)武氏柳街(Võ Thị Sáu)24-26号，是一家深受当地人喜爱的平价餐厅，以顺化牛肉米线（bún bò Huế）、煎饼（bánh khoái）等地道中越菜闻名，用餐环境是休闲的花园老宅风格。
 quickAnswer: Maison Trang位于顺化顺化坊武氏柳街24-26号，是一家深受当地人喜爱的平价餐厅，以顺化牛肉米线（bún bò Huế）、煎饼（bánh khoái）等地道中越菜闻名，用餐环境是休闲的花园老宅风格。这里坐拥4300多条点评、4.8分的超高评分，值得安排一顿午餐或早一点的晚餐前往——最好赶在中午12点前或晚上7点后到店，避开人流高峰。旺季如果没有提前预订或提早到店，通常要等上15到30分钟。

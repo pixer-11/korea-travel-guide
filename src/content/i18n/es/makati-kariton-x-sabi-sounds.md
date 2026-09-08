@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: makati-kariton-x-sabi-sounds
-srcHash: '4bdc4965d07b'
+srcHash: 'da9f54cf8907'
 title: 'Kariton x Sabi Sounds: Guía de viaje de Makati'
 description: 'Kariton x Sabi Sounds en Makati, Filipinas — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Kariton x Sabi Sounds es un nuevo café, heladería (gelateria) y listening bar de todo el día en Salcedo Village, Makati, que combina el gelato de Erwan Heussaff (Kariton) con el concepto de vinilos y cócteles de la importación de Melbourne, Sabi Sounds. Funciona desde el café de la mañana hasta los discos de la madrugada, así que conviene ir temprano para una hora tranquila de espresso y gelato, o después del anochecer, cuando los tocadiscos y los platos pequeños toman el protagonismo. Confirma los horarios actuales y si hace falta reservar mesa antes de ir, ya que un lugar tan nuevo aún puede estar ajustando su programación.

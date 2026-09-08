@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-gyeongju-national-museum
-srcHash: '6b1bb0ae9ed8'
+srcHash: '0032049d8a90'
 title: 'Museo Nacional de Gyeongju: Guía de viaje (4,6★)'
 description: 'Situado en Iljeong-ro, justo al sureste del sitio del Palacio de Wolseong, el Museo Nacional de Gyeongju es el mejor lugar para entender los mil años de historia de Silla como capital real; conviene reservar entre dos y tres horas para recorrer las salas principales y los jardines exteriores. 4,6★ (13.323 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Situado en Iljeong-ro, justo al sureste del sitio del Palacio de Wolseong, el Museo Nacional de Gyeongju es el mejor lugar para entender los mil años de historia de Silla como capital real; conviene reservar entre dos y tres horas para recorrer las salas principales y los jardines exteriores. Los días de semana entre las 10:00 y las 19:00 son el momento más tranquilo para visitarlo; si solo puedes ir un fin de semana, mejor ve después de las 18:00 en lugar de enfrentarte a la multitud entre las 11:00 y las 18:00.

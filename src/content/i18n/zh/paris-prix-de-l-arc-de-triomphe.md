@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-prix-de-l-arc-de-triomphe
-srcHash: 'f4e3dcaafdaf'
+srcHash: '3af9f7821d2b'
 title: 凯旋门大赛：赛事日期、门票与举办地（巴黎）
 description: 凯旋门大赛将于2026年10月3日至4日在法国巴黎举行——本文介绍赛事内容、举办时间地点，以及如何提前规划行程。
 quickAnswer: 凯旋门大赛将于2026年10月3日至4日在巴黎隆尚赛马场（Paris-Longchamp Racecourse）举行，重头戏的正赛安排在周六举行。门票种类丰富，从普通草坪区到看台席、包厢套票均有涵盖——具体时间和购票信息请以法国赛马会（France Galop）及巴黎隆尚官网公布的信息为准。由于布洛�涅森林（Bois de Boulogne）沿线在比赛日容易拥堵，建议在正赛开始前留足时间提早抵达。

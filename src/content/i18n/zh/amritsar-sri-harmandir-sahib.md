@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: amritsar-sri-harmandir-sahib
-srcHash: '6d7e03f54b26'
+srcHash: 'aa2f2d10bee5'
 title: 锡克黄金圣殿（Sri Harmandir Sahib）阿姆利则旅行指南（4.9星）
 description: 锡克黄金圣殿（Sri Harmandir Sahib，即Golden Temple）全年无休、全天开放，因此没有所谓"不适合"的参观时间——但工作日早上7点到8点人最少，可以避开旅游团和周末的人潮。这里汇集了4.9星（206,094条评论）的真实游客评价、开放时间与实用建议。
 quickAnswer: 锡克黄金圣殿（Sri Harmandir Sahib，即Golden Temple）全天开放、从不闭门，因此什么时候去都不算错——不过工作日早上7点到8点是人最少的时段，可以赶在旅游大巴和周末人潮到来之前。尽量避开周末晚上6点到11点，这段时间整个建筑群最为拥挤。建议预留2到3小时，穿着得体、包好头巾，并做好赤脚走过清凉大理石地面和温暖朗格尔（langar）大厅的准备。

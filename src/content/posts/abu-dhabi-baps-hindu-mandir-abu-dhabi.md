@@ -99,17 +99,17 @@ updatedDate: '2026-08-23'
 
 ## Why go
 
-You see the pink-and-cream sandstone spires before you even park — seven of them, rising out of the desert flatness like something airlifted from Rajasthan. This is the first traditional Hindu stone temple in the Gulf, opened in 2024, and it was carved by hand in India before being shipped and assembled here piece by piece.
+You see the pink-and-cream sandstone spires before you even park, seven of them, rising out of the desert flatness like something airlifted from Rajasthan. This is the first traditional Hindu stone temple in the Gulf, opened in 2024, and it was carved by hand in India before being shipped and assembled here piece by piece.
 
-Walk closer and the scale hits you. Every surface — pillars, ceilings, archways — is covered in relief carving: elephants, peacocks, deities, geometric borders that repeat and shift as you circle the base.
+Walk closer and the scale hits you. Every surface (pillars, ceilings, archways) is covered in relief carving: elephants, peacocks, deities, geometric borders that repeat and shift as you circle the base.
 
 ## Getting there
 
-The mandir is in Abu Mreikhah, just off Sheikh Mohammed bin Zayed Road between Abu Dhabi and Dubai — closer to a 45-minute drive from central Abu Dhabi and roughly 40 minutes from Dubai.
+The mandir is in Abu Mreikhah, just off Sheikh Mohammed bin Zayed Road between Abu Dhabi and Dubai, closer to a 45-minute drive from central Abu Dhabi and roughly 40 minutes from Dubai.
 
 There's no metro link, so a taxi, ride-hail app, or rental car is the practical option. On-site parking is free and sizeable, built to handle the crowds.
 
-Some hotels and tour operators run shuttle buses on weekends — worth checking if you're without a car.
+Some hotels and tour operators run shuttle buses on weekends, worth checking if you're without a car.
 
 ## What you'll see inside
 
@@ -122,26 +122,26 @@ Once inside, you move through:
 - An exhibition area explaining the temple's construction and the philosophy behind it
 - Gardens and courtyards where the sandstone catches different light through the day
 
-Give yourself 1.5 to 2 hours minimum — longer if you want to sit in the gardens or read the exhibition panels properly.
+Give yourself 1.5 to 2 hours minimum, longer if you want to sit in the gardens or read the exhibition panels properly.
 
 ## When to go
 
 The temple is closed Mondays, so don't plan a visit that day. Every other day it runs 9am to 8pm.
 
-Weekends are the busiest stretch, with steady crowds across the full 9am–8pm window — there's no quiet lull to aim for on a Saturday or Sunday here. If your schedule allows, a weekday morning shortly after opening is your best bet for breathing room.
+Weekends are the busiest stretch, with steady crowds across the full 9am–8pm window. There's no quiet lull to aim for on a Saturday or Sunday here. If your schedule allows, a weekday morning shortly after opening is your best bet for breathing room.
 
-Evenings bring a different atmosphere: the sandstone floodlit against the dark sky, cooler air, and the call to prayer from a nearby mosque occasionally drifting across the site — a small reminder of how mixed this stretch of desert has become.
+Evenings bring a different atmosphere: the sandstone floodlit against the dark sky, cooler air, and the call to prayer from a nearby mosque occasionally drifting across the site, a small reminder of how mixed this stretch of desert has become.
 
 ## How to visit like a local
 
 This is one of the most-visited sites in the UAE now, not a quiet find, so treat it like a major landmark and plan around the crowds rather than expecting to avoid them.
 
 - **Dress modestly**: shoulders and knees covered for both men and women; shawls are usually available at the entrance if you arrive underdressed.
-- **Remove shoes** before entering the main shrine areas — racks are provided, and it's expected, not optional.
+- **Remove shoes** before entering the main shrine areas, racks are provided, and it's expected, not optional.
 - **Go early on a weekday** if you want fewer crowds; weekends stay busy the entire day.
-- **Book free timed-entry tickets online in advance** rather than turning up — this is standard practice here and skips a longer wait at the gate.
+- **Book free timed-entry tickets online in advance** rather than turning up. This is standard practice here and skips a longer wait at the gate.
 - **Silence phones** inside the shrine hall; photography rules are enforced by volunteers stationed throughout.
-- **Donations** are welcome but never demanded — there's no entry fee, and card or cash donation boxes are available if you want to contribute.
+- **Donations** are welcome but never demanded. There's no entry fee, and card or cash donation boxes are available if you want to contribute.
 
 The mistake most first-time visitors make is underestimating security and entry lines on weekends. Arrive with time to spare, especially around midday when tour groups tend to cluster.
 

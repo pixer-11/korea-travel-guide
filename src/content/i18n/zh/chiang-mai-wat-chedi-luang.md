@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-wat-chedi-luang
-srcHash: 'f7217442c202'
+srcHash: 'd8358f72e5ee'
 title: 契迪龙寺完全攻略：清迈古城必访地标
 description: 契迪龙寺坐落在清迈古城中心的帕蓬克劳路（Prapokklao Road）上，寺内那座残缺却气势恢宏的15世纪大佛塔，以及供奉在庙中的城市柱（lak mueang）神龛，都是不容错过的看点。
 quickAnswer: 契迪龙寺位于清迈古城中心的帕蓬克劳路（Prapokklao Road）上，寺内那座虽已部分损毁却依然气势恢宏的15世纪大佛塔，以及供奉在庙中的城市柱（lak mueang）神龛，都值得专程一看。建议安排45到90分钟游览时间，最好选在清晨或傍晚前往，既能避开炎热天气，也能错开人潮，还可以顺路走去附近的帕辛寺（Wat Phra Singh），或是赶上周日的步行街市集。门票不贵，但只收现金，记得多备些零钞，并注意穿着要遮住肩膀和膝盖。

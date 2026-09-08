@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-jo-s-burger
-srcHash: 'da847c37f195'
+srcHash: '2f7402012b78'
 title: 乔的汉堡(Jo's Burger):马赛美食新去处
 description: 法国马赛乔的汉堡(Jo's Burger)——一家正在走红的新店：它是什么、地址在哪、怎么去吃上。
 quickAnswer: 乔的汉堡是一家新开业的精品汉堡店，位于马赛老港(Vieux-Port)以南、时下最受欢迎的美食街圣特街(rue Sainte)上，主理人自封“世界汉堡冠军”。这家店已经在本地人中引发热议，高峰时段免不了要排队，建议开餐时段一到就去，或者选晚一点的时段前往，出发前最好先确认一下营业时间以及是否接受预订。

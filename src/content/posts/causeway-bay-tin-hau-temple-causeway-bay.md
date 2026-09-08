@@ -96,7 +96,7 @@ updatedDate: '2026-08-30'
 
 You come here for contrast, not scale. Step off Causeway Bay's traffic-choked streets and through a small gate, and the noise drops away almost immediately.
 
-The temple itself is modest — a single-hall shrine dating back centuries, dedicated to Tin Hau, the Taoist goddess of the sea. Fishing communities once worshipped here when this stretch of Causeway Bay was still shoreline, long before land reclamation pushed the water back and the skyscrapers rose.
+The temple itself is modest, a single-hall shrine dating back centuries, dedicated to Tin Hau, the Taoist goddess of the sea. Fishing communities once worshipped here when this stretch of Causeway Bay was still shoreline, long before land reclamation pushed the water back and the skyscrapers rose.
 
 Red lanterns hang from the eaves. Coils of incense, thick as dinner plates, spiral from the ceiling and burn slowly for days, dropping ash in lazy curls.
 
@@ -104,7 +104,7 @@ Red lanterns hang from the eaves. Coils of incense, thick as dinner plates, spir
 
 The temple gives its name to Tin Hau MTR station, on the Island Line, one stop east of Causeway Bay station. Exit A2 puts you almost directly on Tin Hau Temple Road.
 
-From there it's a two-minute walk. Look for the temple along Tin Hau Temple Road — it's tucked into the ground level of a residential block, easy to miss if you're not watching for the incense smoke drifting above the doorway.
+From there it's a two-minute walk. Look for the temple along Tin Hau Temple Road. It's tucked into the ground level of a residential block, easy to miss if you're not watching for the incense smoke drifting above the doorway.
 
 ## What you'll see inside
 
@@ -112,11 +112,11 @@ Inside, the layout is compact: a main altar to Tin Hau flanked by smaller shrine
 
 Elderly worshippers come to light incense sticks, bow three times, and leave small offerings of fruit or flowers. Fortune-telling sticks rattle in wooden cups near the entrance for those seeking guidance.
 
-The air carries the specific, resinous smell of sandalwood incense mixed with the damp stone of the courtyard — a smell that clings to your clothes long after you leave.
+The air carries the specific, resinous smell of sandalwood incense mixed with the damp stone of the courtyard, a smell that clings to your clothes long after you leave.
 
 ## When to go
 
-Opening hours run 9am to 4pm every day, so plan your visit inside that window — there's no evening access.
+Opening hours run 9am to 4pm every day, so plan your visit inside that window. There's no evening access.
 
 The quietest stretch is right at opening, between 9am and 10am, on both weekdays and weekends. That's when you'll have the courtyard largely to yourself, with just a handful of regulars tending the altar.
 
@@ -126,20 +126,20 @@ Weekends get busier between 11am and 3pm, when local worshippers and curious vis
 
 Tin Hau Temple pairs naturally with a slower morning loop before you head into Causeway Bay's retail crush.
 
-- Victoria Park — Hong Kong's largest park, a five-minute walk south, good for a bench and a coffee after the temple
-- Causeway Bay's shopping strip — Times Square and the SOGO department store, ten minutes away for the contrast of old and new
-- Noon Day Gun — a short taxi ride, a quirky colonial-era cannon fired daily at noon
+- Victoria Park, Hong Kong's largest park, a five-minute walk south, good for a bench and a coffee after the temple
+- Causeway Bay's shopping strip, Times Square and the SOGO department store, ten minutes away for the contrast of old and new
+- Noon Day Gun, a short taxi ride, a quirky colonial-era cannon fired daily at noon
 
 ## How to visit like a local
 
-This is a working place of worship, not a tourist attraction dressed up as one — treat it that way.
+This is a working place of worship, not a tourist attraction dressed up as one, treat it that way.
 
 - Keep your voice low; people are here to pray, not pose
-- Dress modestly — shoulders and knees covered is respectful, though not strictly enforced
+- Dress modestly, shoulders and knees covered is respectful, though not strictly enforced
 - No entrance fee; if you'd like to light incense, small donation boxes are provided rather than a fixed price
 - Photography is generally tolerated but avoid pointing your camera directly at worshippers mid-prayer
-- Don't step on the threshold beam at the entrance — a small but widely observed superstition in Chinese temples
+- Don't step on the threshold beam at the entrance, a small but widely observed superstition in Chinese temples
 
-The most common mistake visitors make is treating this as a quick photo stop and rushing through in five minutes. Slow down. Sit on the stone bench in the courtyard for a few minutes and let your eyes adjust to the dim, smoke-hazed interior — that's where the temple actually reveals itself, not in the doorway snapshot.
+The most common mistake visitors make is treating this as a quick photo stop and rushing through in five minutes. Slow down. Sit on the stone bench in the courtyard for a few minutes and let your eyes adjust to the dim, smoke-hazed interior. That's where the temple actually reveals itself, not in the doorway snapshot.
 
 Cash isn't really needed beyond a few coins for the donation box or fortune sticks. There's no ticket, no queue system, and no staff pushing you along, which is rare for anything this close to Causeway Bay's shopping core.

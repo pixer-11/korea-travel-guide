@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-notre-dame-cathedral-of-paris
-srcHash: 'da5fe180f033'
+srcHash: '36a135cef864'
 title: 'Catedral de Notre-Dame de París: guía de viaje'
 description: Notre-Dame reabrió sus puertas al público en diciembre de 2024 tras el incendio de 2019 y su posterior restauración, y vuelve a ser uno de los lugares más visitados de París, así que conviene llegar justo a la apertura (7:50 h entre semana, 8:15 h los fines de semana) o, los jueves, aprovechar el horario ampliado hasta las 22:00 h.
 quickAnswer: Notre-Dame reabrió sus puertas al público en diciembre de 2024 tras el incendio de 2019 y su posterior restauración, y vuelve a ser uno de los lugares más visitados de París, así que conviene llegar justo a la apertura (7:50 h entre semana, 8:15 h los fines de semana) o, los jueves, aprovechar el horario ampliado hasta las 22:00 h. Las mañanas de fin de semana entre las 8:15 h y las 10:00 h son la franja más tranquila; evita el intervalo de 11:00 h a 18:00 h los sábados y domingos, cuando las colas se extienden por todo el atrio. La entrada a la nave es gratuita, y conviene reservar entre 45 minutos y una hora para el interior, además de tiempo para rodear el exterior.

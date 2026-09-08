@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-rukn-al-falafel-cafeteria
-srcHash: 'd0c9a7b52b84'
+srcHash: '32eb2a1588f4'
 title: 'Rukn Al Falafel Cafeteria: Dónde comer en Ras Al Khaimah'
 description: Rukn Al Falafel Cafeteria es un local árabe sencillo, de estilo mostrador, en la zona de Sidrow, en Ras Al Khaimah, ideal para un sándwich de falafel o shawarma rápido y económico, más que para una comida sentada.
 quickAnswer: Rukn Al Falafel Cafeteria es un local árabe sencillo, de estilo mostrador, en la zona de Sidrow, en Ras Al Khaimah, ideal para un sándwich de falafel o shawarma rápido y económico, más que para una comida sentada. Con una calificación de 4.3 basada en 659 reseñas y precios accesibles (nivel de precio 2), es una buena opción cuando estás explorando los distritos comerciales más antiguos de RAK y buscas un bocado honesto y sin pretensiones en lugar de un restaurante de hotel. Ve a la hora del almuerzo en un día de semana para probar las tandas de falafel más frescas y con la espera más corta.

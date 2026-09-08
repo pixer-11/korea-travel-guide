@@ -34,7 +34,7 @@ eventFactsAsked: true
 ---
 ## Why this meet matters
 
-Bhubaneswar has spent the last decade building a reputation as India's most credible host city for elite sport, and the Indian Open was the latest addition to that record. After hosting a Continental Tour bronze-level meet at Kalinga Stadium in 2025, Bhubaneswar was upgraded to Silver status for 2026 — putting it a tier above most regional meets on World Athletics' global circuit and a notch below Diamond League events.
+Bhubaneswar has spent the last decade building a reputation as India's most credible host city for elite sport, and the Indian Open was the latest addition to that record. After hosting a Continental Tour bronze-level meet at Kalinga Stadium in 2025, Bhubaneswar was upgraded to Silver status for 2026, putting it a tier above most regional meets on World Athletics' global circuit and a notch below Diamond League events.
 
 A Silver designation typically draws a stronger international start list, more world-ranking points on the line, and tighter competition standards, meaning athletes chasing qualification marks for global championships alongside strong Indian national talent.
 
@@ -44,11 +44,11 @@ Kalinga Stadium sits in the Kalinga Nagar/Nayapalli area of Bhubaneswar, a few k
 
 ## What to expect at Kalinga Stadium
 
-Kalinga Stadium is Odisha's flagship multi-sport venue, previously used for the Hockey World Cup and the Indian Grand Prix athletics meets. Its athletics stretch includes a synthetic track and stands that regularly host domestic and international competitions, so the infrastructure is well-tested for exactly this kind of event. For a Continental Tour meet, the programme usually runs across a single day with heats or field events in the afternoon building toward marquee finals — sprints, middle-distance races, and jumps/throws — in the evening session, when temperatures drop and crowds are at their largest.
+Kalinga Stadium is Odisha's flagship multi-sport venue, previously used for the Hockey World Cup and the Indian Grand Prix athletics meets. Its athletics stretch includes a synthetic track and stands that regularly host domestic and international competitions, so the infrastructure is well-tested for exactly this kind of event. For a Continental Tour meet, the programme usually runs across a single day with heats or field events in the afternoon building toward marquee finals (sprints, middle-distance races, and jumps/throws) in the evening session, when temperatures drop and crowds are at their largest.
 
 ## When to go
 
-August in Bhubaneswar is deep in the monsoon season — hot, humid, and prone to sudden showers. It is weather for light breathable clothing, a compact umbrella or rain shell, and water. Evening sessions are more comfortable than afternoon ones. This was the city's first Silver-level meet, a step up from the bronze-level editions that came before it.
+August in Bhubaneswar is deep in the monsoon season, hot, humid, and prone to sudden showers. It is weather for light breathable clothing, a compact umbrella or rain shell, and water. Evening sessions are more comfortable than afternoon ones. This was the city's first Silver-level meet, a step up from the bronze-level editions that came before it.
 
 ## Beyond the track
 

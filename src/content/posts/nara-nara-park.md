@@ -77,13 +77,13 @@ draft: false
 
 ## Why go
 
-Nara Park (Nara Kōen) is less a single attraction than a green, temple-studded district covering roughly 500 hectares at the base of Mount Wakakusa. It's rated 4.6 across tens of thousands of reviews, and the reason is twofold: the deer, and the density of world-class heritage sites packed into walking distance of each other. The sika deer here — over 1,000 of them — are considered sacred messengers of the Shinto gods in local tradition, descended from a deer said to have carried a deity to nearby Kasuga Taisha on a white stag.
+Nara Park (Nara Kōen) is less a single attraction than a green, temple-studded district covering roughly 500 hectares at the base of Mount Wakakusa. It's rated 4.6 across tens of thousands of reviews, and the reason is twofold: the deer, and the density of world-class heritage sites packed into walking distance of each other. The sika deer here (over 1,000 of them) are considered sacred messengers of the Shinto gods in local tradition, descended from a deer said to have carried a deity to nearby Kasuga Taisha on a white stag.
 
 Centuries of contact with visitors have made them tame enough to bow for crackers, though they're still wild animals and can nip or headbutt if you're slow handing over food.
 
 ## Getting there
 
-The park sits in the heart of Nara City. From **Kintetsu Nara Station**, it's about a 5-minute walk east through Sanjo-dori to reach the park's edge. From **JR Nara Station**, it's roughly 20 minutes on foot, or a short bus ride (buses run frequently toward Todai-ji/Kasuga Taisha and stop right along the park's main paths). Nara is an easy day trip from Kyoto (about 45 minutes by Kintetsu limited express) or Osaka (around 40-50 minutes by JR or Kintetsu), which is how most international visitors arrive — few stay overnight, though an evening walk through the park with fewer crowds is worth considering if you do.
+The park sits in the heart of Nara City. From **Kintetsu Nara Station**, it's about a 5-minute walk east through Sanjo-dori to reach the park's edge. From **JR Nara Station**, it's roughly 20 minutes on foot, or a short bus ride (buses run frequently toward Todai-ji/Kasuga Taisha and stop right along the park's main paths). Nara is an easy day trip from Kyoto (about 45 minutes by Kintetsu limited express) or Osaka (around 40-50 minutes by JR or Kintetsu), which is how most international visitors arrive. Few stay overnight, though an evening walk through the park with fewer crowds is worth considering if you do.
 
 ## What to see and do
 
@@ -93,16 +93,16 @@ Budget a half day minimum, a full day if you want to see the temples properly ra
 - **Kasuga Taisha**: A vermillion Shinto shrine famous for its thousands of bronze and stone lanterns lining the approach path through cedar forest; lanterns are lit twice a year during the Mantoro festivals (early February and mid-August).
 - **Kofuku-ji**: Recognizable by its five-story pagoda, the second-tallest in Japan, and a national treasure hall with historic Buddhist statuary.
 - **Nara National Museum**: Focused on Buddhist art, with a strong collection of statues and ritual objects; a good rainy-day option.
-- **Deer feeding**: Shika senbei (rice-bran crackers) are sold from carts throughout the park, typically for a couple hundred yen a stack. Deer will bow if you make them wait a beat before feeding — a learned behavior, not politeness.
+- **Deer feeding**: Shika senbei (rice-bran crackers) are sold from carts throughout the park, typically for a couple hundred yen a stack. Deer will bow if you make them wait a beat before feeding, a learned behavior, not politeness.
 
 Wakakusayama, the grassy hill on the park's eastern edge, is a worthwhile detour for panoramic views and is usually open to climb outside winter fire-prevention closures.
 
 ## When to go
 
-Early morning (before 9am) is quietest, both for deer encounters and for beating tour groups at Todai-ji. Autumn (November) brings striking maple color around Todai-ji and Kasuga Taisha; spring (late March-early April) draws crowds for cherry blossoms along the park's paths. Deer are shedding their antlers and calving in late spring/summer, and does with fawns are kept in a separate enclosure during birthing season for safety — check current signage.
+Early morning (before 9am) is quietest, both for deer encounters and for beating tour groups at Todai-ji. Autumn (November) brings striking maple color around Todai-ji and Kasuga Taisha; spring (late March-early April) draws crowds for cherry blossoms along the park's paths. Deer are shedding their antlers and calving in late spring/summer, and does with fawns are kept in a separate enclosure during birthing season for safety. Check current signage.
 
 Avoid feeding sessions around midday in peak season if crowds bother you; deer congregate most heavily near cracker vendors and the Todai-ji approach.
 
 ## Nearby and practical tips
 
-Naramachi, the old merchant quarter with narrow lanes, machiya houses, and small cafés, sits a short walk south of the park and pairs well with an afternoon here. Keep food (including snacks in bags) zipped away — deer will go after anything that smells edible, including paper maps. Admission to the park itself is free; individual sites like Todai-ji's Daibutsuden and the National Museum charge separate entry fees, which are worth confirming on official sites before visiting since they change periodically. Wear shoes you don't mind removing, as several temple interiors require it.
+Naramachi, the old merchant quarter with narrow lanes, machiya houses, and small cafés, sits a short walk south of the park and pairs well with an afternoon here. Keep food (including snacks in bags) zipped away, deer will go after anything that smells edible, including paper maps. Admission to the park itself is free; individual sites like Todai-ji's Daibutsuden and the National Museum charge separate entry fees, which are worth confirming on official sites before visiting since they change periodically. Wear shoes you don't mind removing, as several temple interiors require it.

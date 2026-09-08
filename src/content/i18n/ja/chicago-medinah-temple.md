@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chicago-medinah-temple
-srcHash: 'a63b1ed2ff72'
+srcHash: '68891f7ae19b'
 title: メディナ・テンプル:シカゴ旅行ガイド(4.2★)
 description: シカゴのリバーノース(River North)にある600 N Wabash Aveのメディナ・テンプル(Medinah Temple)は、今ではブルーミングデールズ(Bloomingdale's)のホーム&ファニチャー店の外殻となっていますが、その外観だけでも足を運ぶ価値があります。4.2★(322件のレビュー)—訪問者の声、営業時間、訪問のヒントをご紹介します。
 quickAnswer: シカゴのリバーノース(River North)にある600 N Wabash Aveのメディナ・テンプル(Medinah Temple)は、今ではブルーミングデールズ(Bloomingdale's)のホーム&ファニチャー店の外殻となっていますが、その外観だけでも足を運ぶ価値があります。平日の午前9時から午後5時の間に訪れましょう(週末は休業)。店内を見て回る前後に、Wabash通りで足を止めてムーア様式のドームとテラコッタの装飾をじっくり眺めてみてください。

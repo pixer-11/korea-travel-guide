@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chandigarh-quick-style-india-tour-2026
-srcHash: '30baad3eef0f'
+srcHash: 'b4090550a4c2'
 title: 'Gira de Quick Style por India 2026: lo que hay que saber (Chandigarh)'
 description: La gira de Quick Style por India 2026 llega a Chandigarh el 29 de agosto de 2026. Esto es lo que se anunció sobre el show y cómo es la ciudad alrededor del evento.
 quickAnswer: Quick Style, el trío noruego de baile famoso por sus coreografías virales de estilo urbano, tenía previsto llevar su gira 2026 por India a Chandigarh el 29 de agosto de 2026, después de pasar por Delhi, Mumbai y Bengaluru.

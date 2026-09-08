@@ -78,7 +78,7 @@ updatedDate: '2026-09-01'
 
 You won't drive here. That's the point.
 
-Gemiler Island sits in a bay between Ölüdeniz and Kaya Köyü, reachable only by boat, and the crossing itself sets the mood — turquoise water, pine-covered slopes, and a silhouette of broken domes rising from the scrubland ahead. Locals call it Gemiler Adası, and once ancient sailors called it Saint Nicholas Island, believing it briefly held the relics of the saint later moved to Bari.
+Gemiler Island sits in a bay between Ölüdeniz and Kaya Köyü, reachable only by boat, and the crossing itself sets the mood, turquoise water, pine-covered slopes, and a silhouette of broken domes rising from the scrubland ahead. Locals call it Gemiler Adası, and once ancient sailors called it Saint Nicholas Island, believing it briefly held the relics of the saint later moved to Bari.
 
 ## What you'll actually see
 
@@ -93,13 +93,13 @@ Things to look for as you climb:
 - The so-called "Tomb of St. Nicholas," a stone structure locals link to the saint's original burial
 - Faded fresco traces in a few sheltered wall niches
 
-Bring water — there's no shop on the island, and the path is exposed rock and gravel for stretches.
+Bring water. There's no shop on the island, and the path is exposed rock and gravel for stretches.
 
 ## Getting there
 
 Most visitors reach Gemiler Island on a day-boat trip from Ölüdeniz, Fethiye harbor, or Kaya Köyü, often bundled with stops at nearby coves like Aquarium Bay or Cold Water Bay.
 
-Private boat charters and small water taxis also run from Ölüdeniz beach in season. There's no bridge or ferry timetable — you're at the mercy of whoever's running the boat that day, so ask your captain how long you'll actually get ashore.
+Private boat charters and small water taxis also run from Ölüdeniz beach in season. There's no bridge or ferry timetable. You're at the mercy of whoever's running the boat that day, so ask your captain how long you'll actually get ashore.
 
 The island itself is officially open daily, 9am to 8pm (Sundays until 9pm), though your actual window depends entirely on your boat's schedule.
 
@@ -113,15 +113,15 @@ Spring and early autumn (April–June, September–October) bring cooler climbs 
 
 ## How to visit like a local
 
-Skip the big-name boat tours if you can and book a smaller private charter or water taxi directly from Ölüdeniz — you'll get more time ashore and less waiting around for a group.
+Skip the big-name boat tours if you can and book a smaller private charter or water taxi directly from Ölüdeniz. You'll get more time ashore and less waiting around for a group.
 
 - Wear closed-toe shoes; the path is uneven stone, not sandals-friendly
 - Bring cash for a boat captain's tip and any drinks sold dockside
-- Pack your own water and a hat — there's no café or shade at the summit
+- Pack your own water and a hat. There's no café or shade at the summit
 - Combine it with a swim stop in the bay, since most boats anchor for exactly that
-- Ask your boat operator upfront how long you'll get on the island — some trips only allow 45 minutes
+- Ask your boat operator upfront how long you'll get on the island, some trips only allow 45 minutes
 
-Because it isn't yet a mass-tourism fixture, there's no ticket booth or formal entry queue — you simply land, climb, and explore at your own pace. Treat the ruins gently: nothing is roped off, so the informality is a privilege, not an invitation to climb on fragile walls.
+Because it isn't yet a mass-tourism fixture, there's no ticket booth or formal entry queue, you simply land, climb, and explore at your own pace. Treat the ruins gently: nothing is roped off, so the informality is a privilege, not an invitation to climb on fragile walls.
 
 ## Nearby to pair with your trip
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-one-world-observatory
-srcHash: '3e304be29d85'
+srcHash: '271f02662e12'
 title: 纽约"世贸一号观景台"(One World Observatory)旅行指南(4.7星)
 description: 世贸一号观景台位于曼哈顿下城世贸一号大楼(One World Trade Center)第100至102层，乘坐高速电梯上楼的过程本身就是体验的一部分。4.7星(26,074条评价)——看看游客怎么说，附开放时间和实用贴士。
 quickAnswer: 世贸一号观景台位于曼哈顿下城世贸一号大楼第100至102层，乘坐高速电梯上楼的过程本身就是整个体验的开场戏。建议提前在网上购买预约时段门票，开馆后第一个小时或闭馆前最后一个小时人最少、光线也最好，整趟游览预留1.5到2小时比较合适。

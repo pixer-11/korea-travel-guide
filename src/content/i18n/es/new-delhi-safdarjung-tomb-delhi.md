@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-safdarjung-tomb-delhi
-srcHash: '451e3eb89be7'
+srcHash: '799091fd35d0'
 title: 'Tumba de Safdarjung, Delhi: guía de viaje de Nueva Delhi (4.4★)'
 description: 'La Tumba de Safdarjung es un mausoleo ajardinado de la época mogol situado en el centro-sur de Delhi, abierto todos los días de 9:00 a 19:00. Valoración de 4.4★ (16.275 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Tumba de Safdarjung es un mausoleo ajardinado de la época mogol situado en el centro-sur de Delhi, abierto todos los días de 9:00 a 19:00. Conviene ir entre semana, de 9:00 a 11:00, para disfrutar casi en soledad de la tumba de arenisca y mármol y de sus jardines charbagh, ya que las tardes de fin de semana a partir de las 16:00 son cuando más gente se reúne. Calcule entre 45 y 60 minutos de visita, más si sube a las terrazas para ver los jardines desde arriba.

@@ -27,7 +27,7 @@ draft: true
 
 ## Why San Damian matters right now
 
-Enrique Olvera doesn't open restaurants casually. The chef behind Pujol in Mexico City and Cosme in New York has spent two decades refining a particular idea — that Mexican food can be both rooted and rigorous, simple-looking on the plate but deeply considered underneath. San Damian is his newest expression of that idea, and it landed on one of LA's most-watched restaurant streets.
+Enrique Olvera doesn't open restaurants casually. The chef behind Pujol in Mexico City and Cosme in New York has spent two decades refining a particular idea, that Mexican food can be both rooted and rigorous, simple-looking on the plate but deeply considered underneath. San Damian is his newest expression of that idea, and it landed on one of LA's most-watched restaurant streets.
 
 The space itself carries history. This is the sunny corner unit on Abbott Kinney that used to house ATLA, another well-regarded Mexican spot. Walking in, you're stepping into a lineage of good cooking rather than a blank slate.
 
@@ -35,13 +35,13 @@ The space itself carries history. This is the sunny corner unit on Abbott Kinney
 
 Abbott Kinney Boulevard is Venice's main strip for design shops, galleries, and restaurants that draw a crowd willing to circle the block twice for parking. San Damian sits right in that stretch, meaning you can fold a visit into a longer afternoon of browsing.
 
-The light is part of the appeal. Given the building's past life as ATLA, expect the same bright, open feel — big windows, a room that reads more California than Roma Norte, even as the food leans the other way.
+The light is part of the appeal. Given the building's past life as ATLA, expect the same bright, open feel, big windows, a room that reads more California than Roma Norte, even as the food leans the other way.
 
 Parking on Abbott Kinney itself is limited and metered. Side streets like Westminster or California Avenue tend to have more luck, or you can walk over from a spot near Venice Beach if you're already in the neighborhood.
 
 ## What makes the food stand out
 
-The kitchen's approach is elegant restraint rather than maximalism. Olvera's cooking has always favored a short list of excellent ingredients over a crowded plate, and San Damian applies that philosophy to hyperlocal California sourcing — produce, seafood, and other ingredients pulled from the region rather than flown in.
+The kitchen's approach is elegant restraint rather than maximalism. Olvera's cooking has always favored a short list of excellent ingredients over a crowded plate, and San Damian applies that philosophy to hyperlocal California sourcing, produce, seafood, and other ingredients pulled from the region rather than flown in.
 
 That's a deliberate contrast to the richer, more traditional Mexican cooking you'll find elsewhere in LA. Here, the emphasis is on letting a handful of components speak clearly, which is very much Olvera's signature move across his other restaurants worldwide.
 
@@ -53,7 +53,7 @@ San Damian is new enough that hours, reservation windows, and walk-in policy are
 
 - Check the restaurant's official booking page or a reservation platform the same day you plan to visit
 - Confirm current opening hours directly, since early-stage schedules can change
-- Have a backup plan on Abbott Kinney in case of a wait — the street has no shortage of other strong options
+- Have a backup plan on Abbott Kinney in case of a wait. The street has no shortage of other strong options
 
 Given Olvera's track record and the buzz around any of his openings, expect demand to outpace easy walk-in availability, especially on weekends.
 
@@ -63,7 +63,7 @@ Angelenos who eat their way down Abbott Kinney regularly know the rhythm of this
 
 Book ahead rather than counting on a walk-in seat, particularly in these first months when word is still spreading. If a same-day table opens up, it's more likely to appear for an early lunch or an early evening slot than for peak dinner hour.
 
-Dress for Venice, not for a formal dining room — the neighborhood's whole ethos is relaxed, even when the cooking is precise. Tipping follows standard US restaurant norms, and most places on this strip take cards without issue, though it's worth having a little cash on hand for smaller vendors nearby.
+Dress for Venice, not for a formal dining room. The neighborhood's whole ethos is relaxed, even when the cooking is precise. Tipping follows standard US restaurant norms, and most places on this strip take cards without issue, though it's worth having a little cash on hand for smaller vendors nearby.
 
-The mistake visitors make on Abbott Kinney generally is treating it as a five-minute stop. Give the street, and San Damian itself, real time — this is a corridor built for slow browsing between bites, not a quick photo and a dash back to the car.
+The mistake visitors make on Abbott Kinney generally is treating it as a five-minute stop. Give the street, and San Damian itself, real time. This is a corridor built for slow browsing between bites, not a quick photo and a dash back to the car.
 

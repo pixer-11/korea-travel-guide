@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-chinatown-night-market
-srcHash: 'cd953af867f1'
+srcHash: 'b36075d60ffb'
 title: 唐人街夜市：曼谷觅食指南
 description: 晚上6点后前往曼谷唐人街（耀华力），霓虹灯次第亮起，街边摊贩把小推车推上耀华力路以及德士古巷（Soi Texas）、帕敦告路（Phadungdao）等横街窄巷。
 quickAnswer: 晚上6点后前往曼谷唐人街（耀华力），霓虹灯次第亮起，街边摊贩把小推车推上耀华力路以及德士古巷（Soi Texas）、帕敦告路（Phadungdao）等横街窄巷。从奥迪安圆环（Odeon Circle）牌楼附近出发，一路吃到金佛寺（Wat Traimit），沿途尝尝烤海鲜、船面和烧鸭。步行觅食大概安排2到3个小时，出发前别吃饱，最好空着肚子来。

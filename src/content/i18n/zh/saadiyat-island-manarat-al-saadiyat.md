@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: saadiyat-island-manarat-al-saadiyat
-srcHash: '9a43bbfd71ca'
+srcHash: '878e12b4d179'
 title: 萨迪亚特灯塔文化中心（Manarat Al Saadiyat）：萨迪亚特岛旅行指南（4.6★）
 description: 萨迪亚特灯塔文化中心（Manarat Al Saadiyat）是萨迪亚特岛（Saadiyat Island）文化区的文化枢纽，每日上午10点至晚上8点开放，集轮展艺术展览、影院/剧场以及阿布扎比博物馆项目展示于一体。4.6★（3,426条评价）——游客评价、开放时间及游览建议。
 quickAnswer: 萨迪亚特灯塔文化中心（Manarat Al Saadiyat）是萨迪亚特岛文化区的文化枢纽，每日上午10点至晚上8点开放，集轮展艺术展览、影院/剧场以及阿布扎比博物馆项目展示于一体。建议预留1到1.5小时，如遇大型展览可适当延长。周末上午10点至下午1点之间人最少——尽量避开下午4点至晚上8点的高峰时段，那时家庭游客和逛展的人会大量涌入。

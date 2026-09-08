@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
-srcHash: '40673096fb23'
+srcHash: '5c64e1aba158'
 title: 'Lee Hi – 808 HI Recordings World Tour 2026: lo que hay que saber (Yakarta)'
 description: 'Lee Hi – 808 HI Recordings World Tour 2026 en Yakarta: la fecha del 9 de agosto de 2026 en Bengkel Hall, SCBD, con la participación especial de DOK2.'
 quickAnswer: La parada de Yakarta de la gira mundial "808 HI Recordings" de Lee Hi quedó fijada para el 9 de agosto de 2026 en Bengkel Hall, en el SCBD, Yakarta Sur, presentada como su primer concierto en solitario en Indonesia y con la participación especial del rapero DOK2. Las entradas se vendían a través del promotor oficial y de plataformas de venta de entradas verificadas, y los anuncios de la gira aparecían en los canales sociales verificados de Lee Hi y del recinto. Bengkel Hall es un recinto cerrado de tamaño mediano ubicado en uno de los principales distritos de negocios y entretenimiento de la ciudad.

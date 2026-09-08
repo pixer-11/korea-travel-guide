@@ -59,13 +59,13 @@ draft: false
 
 Fort Santa Isabel is one of the oldest Spanish-era structures left standing in Palawan, and almost nobody stops for it. Most travelers barrel past Taytay on the long drive between Puerto Princesa and El Nido. That's their loss.
 
-The fort was built in the 1600s by Spanish friars and soldiers to guard the coast against Moro raids, and it still stands sentinel over Taytay Bay. Coral-stone walls, thick and sun-bleached, wrap around a small chapel and a scatter of rusted cannons. You climb a short set of stone steps and the bay opens up in front of you — stilt houses, fishing boats, mangrove-lined shoreline stretching toward the hills.
+The fort was built in the 1600s by Spanish friars and soldiers to guard the coast against Moro raids, and it still stands sentinel over Taytay Bay. Coral-stone walls, thick and sun-bleached, wrap around a small chapel and a scatter of rusted cannons. You climb a short set of stone steps and the bay opens up in front of you, stilt houses, fishing boats, mangrove-lined shoreline stretching toward the hills.
 
 ## Getting there
 
 Taytay is roughly 2.5 to 3 hours by van from Puerto Princesa, and about an hour south of El Nido along the national highway. Vans and buses running the Puerto Princesa–El Nido route pass directly through Taytay's town proper.
 
-From the town center, the fort is a short tricycle ride or a 15-minute walk along the waterfront. Ask for "Fort Santa Isabel" or "Fuerte de Santa Isabel" — locals know it by both names. There's no dedicated parking lot, but tricycle drivers will wait for a small fee while you look around.
+From the town center, the fort is a short tricycle ride or a 15-minute walk along the waterfront. Ask for "Fort Santa Isabel" or "Fuerte de Santa Isabel", locals know it by both names. There's no dedicated parking lot, but tricycle drivers will wait for a small fee while you look around.
 
 ## What you'll find inside
 
@@ -73,22 +73,22 @@ The fort itself is compact, so don't expect a sprawling complex. A single-room c
 
 Old Spanish cannons, pitted with rust, point out toward the water where raiders once approached. The perimeter walls are low enough in places to climb up on, giving you an unobstructed view of Taytay Bay and, on a clear day, the mountains beyond.
 
-Bring a hat — there's almost no shade inside the fort walls, and the coral stone radiates heat by midday.
+Bring a hat. There's almost no shade inside the fort walls, and the coral stone radiates heat by midday.
 
 ## When to go
 
 The fort is open daily from 8:00 AM to 4:30 PM. Arrive in the first hour or two after opening, when the light is softer and the heat hasn't built up yet.
 
-Because it sits right on the bay, sunset light in the late afternoon can be striking too — just make sure you're inside before the 4:30 PM close. Dry season, roughly November through May, gives you the clearest views and easiest walking; rainy months can leave the grounds muddy and the stone steps slick.
+Because it sits right on the bay, sunset light in the late afternoon can be striking too, just make sure you're inside before the 4:30 PM close. Dry season, roughly November through May, gives you the clearest views and easiest walking; rainy months can leave the grounds muddy and the stone steps slick.
 
 ## How to visit like a local
 
 Taytay locals treat the fort as a quiet corner of town rather than a tourist checkpoint, and that's exactly how to approach it.
 
-- **Carry cash.** Small peso bills are handy for tricycle fares and any small entrance donation you might encounter — cash is the norm at small heritage sites like this.
+- **Carry cash.** Small peso bills are handy for tricycle fares and any small entrance donation you might encounter, cash is the norm at small heritage sites like this.
 - **Skip the crowds by timing it right.** There usually aren't crowds here at all, but weekday mornings are calmest if you want the ramparts to yourself.
-- **Pair it with the old town.** Walk the waterfront afterward toward Taytay's other Spanish-era church, San Jose, and the stilt-house neighborhoods nearby — locals treat the fort as one stop on a longer coastal stroll, not a standalone destination.
-- **Greet the caretaker.** A local caretaker or guard is often on site and happy to point out details like the original well or the direction the cannons faced — a quick "kumusta" and a few minutes of conversation goes a long way.
-- **The mistake visitors make:** treating it as a five-minute photo stop. Sit on the wall facing the bay for a while — the view of fishing boats and mangroves is the real reward, not just the ruins themselves.
+- **Pair it with the old town.** Walk the waterfront afterward toward Taytay's other Spanish-era church, San Jose, and the stilt-house neighborhoods nearby, locals treat the fort as one stop on a longer coastal stroll, not a standalone destination.
+- **Greet the caretaker.** A local caretaker or guard is often on site and happy to point out details like the original well or the direction the cannons faced, a quick "kumusta" and a few minutes of conversation goes a long way.
+- **The mistake visitors make:** treating it as a five-minute photo stop. Sit on the wall facing the bay for a while. The view of fishing boats and mangroves is the real reward, not just the ruins themselves.
 
-Because Fort Santa Isabel remains genuinely under-the-radar, it rewards travelers willing to slow down. There's no ticket booth, no gift shop, no queue — just old stone, salt air, and a bay that's watched over Taytay for four centuries.
+Because Fort Santa Isabel remains genuinely under-the-radar, it rewards travelers willing to slow down. There's no ticket booth, no gift shop, no queue, just old stone, salt air, and a bay that's watched over Taytay for four centuries.

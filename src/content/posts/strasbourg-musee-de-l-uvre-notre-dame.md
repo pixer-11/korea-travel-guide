@@ -60,30 +60,30 @@ You almost walk past it. The entrance sits in the shadow of Strasbourg Cathedral
 
 ## Why go
 
-The Musée de l'Œuvre-Notre-Dame exists because Strasbourg Cathedral needed somewhere to keep the things too fragile, too valuable, or too displaced to leave outside. Original stone figures pulled from the cathedral facade to protect them from weather and pollution now stand at eye level here instead of forty metres up a tower — gargoyles, tympanum carvings, and the haunting original statues of Ecclesia and Synagoga, whose blindfolded, serene faces are among the most reproduced images of medieval French sculpture.
+The Musée de l'Œuvre-Notre-Dame exists because Strasbourg Cathedral needed somewhere to keep the things too fragile, too valuable, or too displaced to leave outside. Original stone figures pulled from the cathedral facade to protect them from weather and pollution now stand at eye level here instead of forty metres up a tower, gargoyles, tympanum carvings, and the haunting original statues of Ecclesia and Synagoga, whose blindfolded, serene faces are among the most reproduced images of medieval French sculpture.
 
 Add in luminous 12th- and 13th-century stained glass, a room of Rhineland Gothic altarpieces, and furniture and silverware tracing Strasbourg's civic life from the Middle Ages through the French Revolution, and you get a museum that's really a portrait of the city itself, not just a side gallery to the cathedral.
 
 ## The building itself
 
-Part of the experience is architectural. The museum occupies a row of connected medieval and Renaissance townhouses — the actual historic "Œuvre Notre-Dame," the foundation that has managed the cathedral's fabric and finances since the 1200s and still exists today. You move through low-ceilinged rooms, a Gothic courtyard, creaking wooden staircases, and small mullioned windows that throw slanted light across the stone carvings. It doesn't feel like a purpose-built museum, and that's the point — you're inside a working piece of the cathedral's own history.
+Part of the experience is architectural. The museum occupies a row of connected medieval and Renaissance townhouses (the actual historic "Œuvre Notre-Dame," the foundation that has managed the cathedral's fabric and finances since the 1200s and still exists today. You move through low-ceilinged rooms, a Gothic courtyard, creaking wooden staircases, and small mullioned windows that throw slanted light across the stone carvings. It doesn't feel like a purpose-built museum, and that's the point) you're inside a working piece of the cathedral's own history.
 
 ## What to see
 
-Set aside time for the ground-floor sculpture rooms, where original cathedral statuary — including the famous 13th-century figures later replicated in stone outside — lets you see tool marks and pigment traces invisible from the street. Upstairs, the stained-glass collection includes some of the oldest figurative glass in France, predating most of what survives in the cathedral itself. Don't skip the smaller rooms of goldsmith work and painted panels from Alsatian workshops; they're where the "social and political history" the museum is known for really comes through, tracking guild life, religious upheaval, and revolutionary-era changes in the city.
+Set aside time for the ground-floor sculpture rooms, where original cathedral statuary, including the famous 13th-century figures later replicated in stone outside, lets you see tool marks and pigment traces invisible from the street. Upstairs, the stained-glass collection includes some of the oldest figurative glass in France, predating most of what survives in the cathedral itself. Don't skip the smaller rooms of goldsmith work and painted panels from Alsatian workshops; they're where the "social and political history" the museum is known for really comes through, tracking guild life, religious upheaval, and revolutionary-era changes in the city.
 
 ## Getting there
 
-The museum sits at 3 Place du Château, directly behind (east of) Strasbourg Cathedral, in the heart of the pedestrianized Grande Île old town — a UNESCO World Heritage site. There's no metro in Strasbourg, but tram lines A, D, or C to Langstross–Grand'Rue or Broglie stop you within a 10-minute walk; many visitors simply walk from Place Kléber or the train station (about 20 minutes on foot).
+The museum sits at 3 Place du Château, directly behind (east of) Strasbourg Cathedral, in the heart of the pedestrianized Grande Île old town, a UNESCO World Heritage site. There's no metro in Strasbourg, but tram lines A, D, or C to Langstross–Grand'Rue or Broglie stop you within a 10-minute walk; many visitors simply walk from Place Kléber or the train station (about 20 minutes on foot).
 
-Because it's wedged into the cathedral quarter, there's no dedicated parking — use one of the Grande Île's public car parks and walk in.
+Because it's wedged into the cathedral quarter, there's no dedicated parking, use one of the Grande Île's public car parks and walk in.
 
 ## When to go
 
-Weekday mornings, shortly after opening, are consistently the calmest time — before cathedral tour groups spill over into the surrounding streets. Afternoons and weekends bring more foot traffic to the square outside, though the museum's popularity lags well behind the cathedral's, so even a modest effort to avoid midday crowds pays off. Plan for 90 minutes if you're moving briskly through the highlights, two hours if you want to read the panels on Strasbourg's political history in detail.
+Weekday mornings, shortly after opening, are consistently the calmest time, before cathedral tour groups spill over into the surrounding streets. Afternoons and weekends bring more foot traffic to the square outside, though the museum's popularity lags well behind the cathedral's, so even a modest effort to avoid midday crowds pays off. Plan for 90 minutes if you're moving briskly through the highlights, two hours if you want to read the panels on Strasbourg's political history in detail.
 
 ## How to visit like a local
 
-Buy your ticket at the door rather than expecting long queues — this isn't a place that sells out, and that's exactly its appeal. Cash and card are both accepted at most Strasbourg museum counters, but carry a little cash as backup for smaller cultural sites. There's no need to book ahead. The etiquette here is quiet and unhurried: it's a small-scale museum, so voices carry in the stone rooms, and locals treat it as a place for slow looking rather than a checklist stop.
+Buy your ticket at the door rather than expecting long queues. This isn't a place that sells out, and that's exactly its appeal. Cash and card are both accepted at most Strasbourg museum counters, but carry a little cash as backup for smaller cultural sites. There's no need to book ahead. The etiquette here is quiet and unhurried: it's a small-scale museum, so voices carry in the stone rooms, and locals treat it as a place for slow looking rather than a checklist stop.
 
-The mistake most visitors make is treating it as an afterthought squeezed in after the cathedral and clock — instead, go first, before the square fills up, then step outside into the cathedral crowds with the context already in your head. Ask for the free floor plan at the entrance; the layout across several joined houses is easy to get turned around in otherwise.
+The mistake most visitors make is treating it as an afterthought squeezed in after the cathedral and clock, instead, go first, before the square fills up, then step outside into the cathedral crowds with the context already in your head. Ask for the free floor plan at the entrance; the layout across several joined houses is easy to get turned around in otherwise.

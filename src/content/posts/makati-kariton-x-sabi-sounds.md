@@ -41,25 +41,25 @@ Put together, you get a single address that functions as a coffee-and-gelato spo
 
 The location is Salcedo Village, the grid of low-rise streets in Makati wedged between the Ayala Avenue business spine and the residential blocks toward Rockwell. It's the same pocket of the city known for the Salcedo Saturday Market and a dense cluster of restaurants, wine bars, and specialty coffee shops, so the area already draws a mixed crowd of expats, office workers, and locals hunting for something newer than the mall food court.
 
-Being an all-day operation from morning until late night is unusual for this strip, where most places lean either strictly daytime café or strictly evening bar — this one is trying to be both, back to back.
+Being an all-day operation from morning until late night is unusual for this strip, where most places lean either strictly daytime café or strictly evening bar, this one is trying to be both, back to back.
 
 ## What actually happens inside
 
-Picture a counter doing double duty: espresso machine and gelato case on one side, a turntable and shelves of records on the other. Sabi Sounds' original Melbourne branch built its reputation on treating the sound system as seriously as the drinks list, so expect the same instinct here — records chosen for the hour, played through speakers rather than background Spotify.
+Picture a counter doing double duty: espresso machine and gelato case on one side, a turntable and shelves of records on the other. Sabi Sounds' original Melbourne branch built its reputation on treating the sound system as seriously as the drinks list, so expect the same instinct here, records chosen for the hour, played through speakers rather than background Spotify.
 
-Kariton's gelato adds a sweeter, more casual layer to that: this is a place where you can order a scoop the same way you'd order a flat white, no ceremony required. Between the two brands you get coffee, gelato, small plates, and a bar program, all under one roof, which is precisely why the collaboration has generated buzz since opening — it's an unusually broad menu for a single small space.
+Kariton's gelato adds a sweeter, more casual layer to that: this is a place where you can order a scoop the same way you'd order a flat white, no ceremony required. Between the two brands you get coffee, gelato, small plates, and a bar program, all under one roof, which is precisely why the collaboration has generated buzz since opening. It's an unusually broad menu for a single small space.
 
 ## Morning versus night: two different visits
 
-Because the hours stretch from early morning into late night, this is really two venues depending on when you arrive. Morning is coffee-and-gelato territory: quieter, more functional, good for solo laptop time or a quick catch-up before work. By evening, the room shifts register — the small plates come out, the volume of the records probably climbs, and it reads more like a proper bar than a café.
+Because the hours stretch from early morning into late night, this is really two venues depending on when you arrive. Morning is coffee-and-gelato territory: quieter, more functional, good for solo laptop time or a quick catch-up before work. By evening, the room shifts register. The small plates come out, the volume of the records probably climbs, and it reads more like a proper bar than a café.
 
 If you're after the record-listening side of the concept, evening is the obvious call; if you just want a scoop of gelato and quiet, mid-morning on a weekday is your window.
 
 ## How to visit like a local
 
-Treat it as a walk-in during the day — a solo espresso or gelato run doesn't need planning. For an evening visit, especially on a weekend, it's worth calling ahead or checking if the venue takes reservations, since new listening bars in Manila tend to fill up fast once word spreads on social media. Order at the counter the way you would at any Makati café — cash and cards are both standard across Salcedo Village, though it's worth having a card ready as most newer concept spots here lean cashless.
+Treat it as a walk-in during the day (a solo espresso or gelato run doesn't need planning. For an evening visit, especially on a weekend, it's worth calling ahead or checking if the venue takes reservations, since new listening bars in Manila tend to fill up fast once word spreads on social media. Order at the counter the way you would at any Makati café) cash and cards are both standard across Salcedo Village, though it's worth having a card ready as most newer concept spots here lean cashless.
 
-Dress is casual-smart rather than club wear; this is a sit-and-listen bar, not a dance floor, so the etiquette is closer to a jazz café — keep conversation at a level that doesn't compete with the speakers. The mistake newcomers make is showing up expecting a full club sound system or loud DJ set: the whole point of the Sabi Sounds format is records played at a level meant for talking, not shouting.
+Dress is casual-smart rather than club wear; this is a sit-and-listen bar, not a dance floor, so the etiquette is closer to a jazz café. Keep conversation at a level that doesn't compete with the speakers. The mistake newcomers make is showing up expecting a full club sound system or loud DJ set: the whole point of the Sabi Sounds format is records played at a level meant for talking, not shouting.
 
 ## Getting there and pairing the visit
 

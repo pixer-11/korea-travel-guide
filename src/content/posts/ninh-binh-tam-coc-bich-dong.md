@@ -56,19 +56,19 @@ draft: false
 
 You come to Tam Coc for the moment the boat slides under the first cave mouth and the light drops to almost nothing. Sheer limestone walls close in on either side, dripping and stained dark green, and for a few seconds the only sound is the oar pushing against water. Then you're back out into flat, glinting rice paddies ringed by karst peaks, and the whole scene repeats twice more.
 
-This is the postcard image of Ninh Binh — the one with a lone rower in a conical hat gliding between the mountains. It's touristy for good reason: the geography here is genuinely dramatic, and little else in northern Vietnam matches it from water level.
+This is the postcard image of Ninh Binh, the one with a lone rower in a conical hat gliding between the mountains. It's touristy for good reason: the geography here is genuinely dramatic, and little else in northern Vietnam matches it from water level.
 
 ## Getting there and getting on the water
 
 Tam Coc sits in Ninh Hai commune, Hoa Lu district, about 7km from Ninh Binh city center and roughly 100km south of Hanoi. Most visitors base themselves in Ninh Binh city or Tam Coc village and reach the boat dock by taxi, scooter, or hotel shuttle.
 
-The site runs 7:30am to 5pm every day. Buy your boat ticket at the entrance station — a fixed-price ticket covers the boat, usually shared by two passengers per rower.
+The site runs 7:30am to 5pm every day. Buy your boat ticket at the entrance station, a fixed-price ticket covers the boat, usually shared by two passengers per rower.
 
 The row takes around two hours round trip, covering roughly 7km through the three cave tunnels that give the area its name (Tam Coc means "three caves").
 
 ## What you'll actually see
 
-The boat route is calm, flat water hemmed in by rice fields that turn gold in early summer and green the rest of the year. You pass under three limestone tunnels — Hang Ca, Hang Hai, and Hang Ba — each one lower and darker than the last, forcing you to duck.
+The boat route is calm, flat water hemmed in by rice fields that turn gold in early summer and green the rest of the year. You pass under three limestone tunnels (Hang Ca, Hang Hai, and Hang Ba) each one lower and darker than the last, forcing you to duck.
 
 Rowers, many of them local women, often work the oars with their feet, a technique you'll notice within the first few minutes. Vendors occasionally paddle alongside selling drinks and snacks; you're not obligated to buy.
 
@@ -86,11 +86,11 @@ Seasonally, May and June bring the golden rice harvest, considered the most phot
 
 Tam Coc is one of Vietnam's most-visited natural attractions, so plan around the crowds rather than pretending they aren't there.
 
-- **Arrive at opening (7:30am)** or after 3pm — midday and weekends see long boat queues.
+- **Arrive at opening (7:30am)** or after 3pm, midday and weekends see long boat queues.
 - **Pay at the official ticket counter**, not through unofficial touts who approach near the parking area.
 - **Bring cash** in small denominations for tipping your rower or buying drinks from boat vendors.
-- **Tipping is customary but not obligatory** — a small amount at the end of the ride is appreciated, not expected.
-- **Wear a hat and sunscreen** — there's no shade once you're out on the paddies.
+- **Tipping is customary but not obligatory**. A small amount at the end of the ride is appreciated, not expected.
+- **Wear a hat and sunscreen**. There's no shade once you're out on the paddies.
 - **Skip the hard sell**: vendors may offer photos or snacks mid-ride; a polite "no" works fine.
 
 The most common visitor mistake is treating this as a quick photo stop. Budget a full half-day if you're pairing the boat ride with Bich Dong pagoda, since the climb and the row both take real time.

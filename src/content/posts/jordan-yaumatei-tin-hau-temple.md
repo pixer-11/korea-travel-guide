@@ -85,7 +85,7 @@ Five temple halls stand shoulder to shoulder under curved grey-tiled roofs, thei
 
 The temple sits at 56-58 Temple Street, right at the top of the market that shares its name.
 
-The nearest MTR stop is Yau Ma Tei Station on the Tsuen Wan Line — take Exit C and walk north about five minutes. Jordan Station on the same line works too, a few minutes further south.
+The nearest MTR stop is Yau Ma Tei Station on the Tsuen Wan Line. Take Exit C and walk north about five minutes. Jordan Station on the same line works too, a few minutes further south.
 
 You'll likely pass the temple naturally if you're exploring the surrounding blocks:
 - Temple Street night market (stalls set up from late afternoon)
@@ -98,7 +98,7 @@ Smoke curls upward from thick coils of incense hanging from the ceiling, their t
 
 Elderly worshippers kneel at low altars, shaking bundles of fortune sticks in bamboo cups before laying them at Tin Hau's feet. The air smells of sandalwood and melted wax.
 
-Outside, under the old banyan trees along the square, a handful of fortune-tellers still set up small tables and cloth awnings — a tradition tied to this spot for decades. You don't need to stop, but it's worth watching for a few minutes.
+Outside, under the old banyan trees along the square, a handful of fortune-tellers still set up small tables and cloth awnings, a tradition tied to this spot for decades. You don't need to stop, but it's worth watching for a few minutes.
 
 ## When to go
 
@@ -112,12 +112,12 @@ By late afternoon, Temple Street starts assembling its stalls right up to the te
 
 This is a working place of worship, not a museum, so move and speak quietly inside the halls.
 
-- Dress modestly — shoulders and knees covered is a safe rule.
+- Dress modestly, shoulders and knees covered is a safe rule.
 - Don't point your camera directly at people mid-prayer; step to the side for photos.
-- If you want to light incense yourself, small bundles are usually available near the entrance for a modest donation — follow what other visitors do rather than guessing at ritual.
+- If you want to light incense yourself, small bundles are usually available near the entrance for a modest donation, follow what other visitors do rather than guessing at ritual.
 - Walk clockwise through the halls, the customary direction in Chinese temples.
 
-The mistake most visitors make is treating it as a two-minute photo stop between market stalls. Slow down instead. Sit on the stone benches under the banyan trees for a few minutes and watch the square work the way it has for generations — worshippers, fortune-tellers, and incense smoke, all still going about the same routine long after the market stalls arrive each evening.
+The mistake most visitors make is treating it as a two-minute photo stop between market stalls. Slow down instead. Sit on the stone benches under the banyan trees for a few minutes and watch the square work the way it has for generations, worshippers, fortune-tellers, and incense smoke, all still going about the same routine long after the market stalls arrive each evening.
 
-Cash is only needed if you plan to buy incense or get a fortune reading outside; entry itself costs nothing. There's no formal queue system — it's simply a case of stepping in when a hall isn't crowded and being patient near the main altar during festival days, particularly around Tin Hau's birthday in the third lunar month, when the square gets considerably busier than an average afternoon.
+Cash is only needed if you plan to buy incense or get a fortune reading outside; entry itself costs nothing. There's no formal queue system. It's simply a case of stepping in when a hall isn't crowded and being patient near the main altar during festival days, particularly around Tin Hau's birthday in the third lunar month, when the square gets considerably busier than an average afternoon.
 

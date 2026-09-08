@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: yogyakarta-the-tree-restaurant-yogyakarta
-srcHash: '71f5c38039b4'
+srcHash: '07d93a30d4bc'
 title: The Tree Restaurant:ジョグジャカルタで食事するならここ
 description: The Tree Restaurant Yogyakartaは、サンビレジョ村(Sambirejo)プランバナン地区にある、緑に囲まれた静かなレストラン——ジョグジャカルタ中心部から東へ車で25〜30分ほどの場所にあります。
 quickAnswer: The Tree Restaurant Yogyakartaは、サンビレジョ村(Sambirejo)プランバナン地区(Prambanan)にある、庭園に囲まれた静かなレストランです。ジョグジャカルタ中心部から東へ車で25〜30分ほど、プランバナン寺院(Prambanan Temple)からは数分の距離にあります。街の中心部からは離れているため、単独の目的地としてではなく、寺院観光の前後に立ち寄るゆったりしたランチスポットとして考えるのがおすすめです。130件を超えるレビューで評価4.8を獲得しており、定番の「寺院とタクシー」の周遊コースから少し寄り道する価値のある場所です。

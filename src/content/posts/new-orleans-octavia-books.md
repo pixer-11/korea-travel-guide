@@ -65,19 +65,19 @@ draft: false
 
 You won't stumble onto this one by accident. Octavia Books sits on a quiet residential corner in Uptown New Orleans, tucked into a strip that feels more neighborhood than tourist trail.
 
-The signage is modest — a simple storefront window stacked with staff picks. Step inside and the ceiling-high shelves, warm wood floors, and hand-written recommendation cards tell you immediately this isn't a chain.
+The signage is modest, a simple storefront window stacked with staff picks. Step inside and the ceiling-high shelves, warm wood floors, and hand-written recommendation cards tell you immediately this isn't a chain.
 
 At 4.8 stars across hundreds of reviews, it's one of the better-loved small bookstores in the city, even though most visitors never hear of it.
 
 ## Getting there
 
-The address is 513 Octavia St, right where it meets Magazine Street — a boutique-and-café corridor worth wandering regardless. It's a few blocks off the St. Charles Avenue streetcar line, an easy walk or short rideshare from the Garden District.
+The address is 513 Octavia St, right where it meets Magazine Street, a boutique-and-café corridor worth wandering regardless. It's a few blocks off the St. Charles Avenue streetcar line, an easy walk or short rideshare from the Garden District.
 
 If you're staying Downtown or in the French Quarter, plan on a 15–20 minute drive or a combination of streetcar plus a short walk. There's no dedicated lot, so expect to circle for street parking, which is generally manageable outside peak hours.
 
 ## What you'll find inside
 
-The selection is small but sharply edited — this is a hand-picked shop, not a warehouse. Expect deep shelves of Southern literature, New Orleans history, and staff-favorite fiction, plus a strong kids' and local-authors section.
+The selection is small but sharply edited. This is a hand-picked shop, not a warehouse. Expect deep shelves of Southern literature, New Orleans history, and staff-favorite fiction, plus a strong kids' and local-authors section.
 
 - Signed first editions from past author events
 - A dedicated Louisiana/New Orleans nonfiction table
@@ -92,23 +92,23 @@ Confirm current hours before visiting, since small shops occasionally adjust for
 
 Foot traffic data shows the calmest weekday window is 10am–11am, right at opening. On weekends, things quiet down again from 4pm to 6pm.
 
-The busiest stretch is Saturday and Sunday between noon and 4pm — that's when browsers, families, and event crowds overlap. If you want the shelves to yourself, steer clear of that window.
+The busiest stretch is Saturday and Sunday between noon and 4pm. That's when browsers, families, and event crowds overlap. If you want the shelves to yourself, steer clear of that window.
 
 ## How to visit like a local
 
-Come on a weekday morning if you can — 10am to 11am is genuinely quiet, and staff have more time to talk through recommendations. This is a place where the booksellers actually read what they sell, so ask.
+Come on a weekday morning if you can, 10am to 11am is genuinely quiet, and staff have more time to talk through recommendations. This is a place where the booksellers actually read what they sell, so ask.
 
 - Pay by card or cash; both are standard, no reservation needed to browse
-- Check the store's events calendar ahead — signings can fill the small floor space
+- Check the store's events calendar ahead, signings can fill the small floor space
 - If there's a reading, arrive 10–15 minutes early; seating is limited, not ticketed
 - Buy local: the Louisiana nonfiction and local-fiction tables are the shop's real specialty
 
-The mistake most visitors make is treating this as a five-minute photo stop. It rewards slowing down — read a few staff cards, sit on the patio, let the selection actually surprise you.
+The mistake most visitors make is treating this as a five-minute photo stop. It rewards slowing down, read a few staff cards, sit on the patio, let the selection actually surprise you.
 
-Because it's under-the-radar rather than a bucket-list stop, you'll often get real one-on-one attention from staff, something harder to find at bigger New Orleans bookshops. Combine it with a Magazine Street stroll — coffee, boutiques, and galleries are all within a few blocks — and you've got an easy, unhurried half-day loop that most itineraries skip entirely.
+Because it's under-the-radar rather than a bucket-list stop, you'll often get real one-on-one attention from staff, something harder to find at bigger New Orleans bookshops. Combine it with a Magazine Street stroll (coffee, boutiques, and galleries are all within a few blocks), and you've got an easy, unhurried half-day loop that most itineraries skip entirely.
 
 ## Nearby to pair with your visit
 
 Magazine Street itself is the natural add-on, lined with antique shops, po-boy counters, and local design stores for blocks in either direction. The Garden District's mansions and Lafayette Cemetery No. 1 are a short streetcar ride away if you want to make a full afternoon of it.
 
-For a light bite after browsing, the Magazine Street cafés nearby are geared toward locals, not tour buses — another reason this pocket of Uptown rewards a slower pace.
+For a light bite after browsing, the Magazine Street cafés nearby are geared toward locals, not tour buses, another reason this pocket of Uptown rewards a slower pace.

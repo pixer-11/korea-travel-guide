@@ -31,17 +31,17 @@ heroImage:
     'y': 45
 ---
 
-You smell the neighborhood before you see the cafe: coal-warmed brick, dust off the hutong lanes, the faint incense drift from White Stupa Temple's courtyard a few minutes' walk away. Then you turn a corner and the gray brick gives way to a clean white "%" logo, glass, and pale wood — % Arabica's signature look, dropped almost jarringly into one of Beijing's oldest surviving neighborhoods.
+You smell the neighborhood before you see the cafe: coal-warmed brick, dust off the hutong lanes, the faint incense drift from White Stupa Temple's courtyard a few minutes' walk away. Then you turn a corner and the gray brick gives way to a clean white "%" logo, glass, and pale wood, % Arabica's signature look, dropped almost jarringly into one of Beijing's oldest surviving neighborhoods.
 
 ## Why this location matters
 
 % Arabica started in Kyoto and built its identity on a single visual promise: white walls, exposed espresso machines, "See The World Through Coffee" stenciled somewhere in view. The Baitasi branch takes that formula and folds it into a genuinely old structure instead of a shopping mall or airport terminal, which is where you usually find this brand.
 
-A French design team led the renovation. They kept the original timber framework overhead and the gray brick masonry on the walls, then opened up a courtyard at the center — so you're drinking espresso under exposed beams that may be a century old, with sky instead of a ceiling above the seating.
+A French design team led the renovation. They kept the original timber framework overhead and the gray brick masonry on the walls, then opened up a courtyard at the center, so you're drinking espresso under exposed beams that may be a century old, with sky instead of a ceiling above the seating.
 
 ## The Baitasi hutong context
 
-Baitasi — literally "White Stupa Temple" — is one of Beijing's older residential hutong districts, centered on a Yuan-dynasty white dagoba that's still an active temple site. In the last several years, the area has quietly become a small showcase for adaptive reuse: courtyard homes and old shopfronts converted into design studios, independent bookstores, and cafes like this one, rather than torn down for redevelopment.
+Baitasi, literally "White Stupa Temple", is one of Beijing's older residential hutong districts, centered on a Yuan-dynasty white dagoba that's still an active temple site. In the last several years, the area has quietly become a small showcase for adaptive reuse: courtyard homes and old shopfronts converted into design studios, independent bookstores, and cafes like this one, rather than torn down for redevelopment.
 
 That makes % Arabica less a standalone destination and more one stop on a walk. You can pair it with:
 
@@ -51,7 +51,7 @@ That makes % Arabica less a standalone destination and more one stop on a walk. 
 
 ## What to expect inside
 
-Don't expect a big menu or an elaborate food program — % Arabica worldwide keeps things tight: espresso, lattes, a matcha option at most locations, minimal seating. The draw here is less about variety and more about the fifteen minutes you spend holding a cup in that courtyard, watching light move across old brick.
+Don't expect a big menu or an elaborate food program, % Arabica worldwide keeps things tight: espresso, lattes, a matcha option at most locations, minimal seating. The draw here is less about variety and more about the fifteen minutes you spend holding a cup in that courtyard, watching light move across old brick.
 
 Seating is limited, as it tends to be at every % Arabica location. On a clear afternoon the open-air courtyard fills fast with people as interested in the architecture as the coffee.
 
@@ -63,11 +63,11 @@ Because this is a trending, relatively recent opening, opening hours and any res
 
 ## How to visit like a local
 
-Treat it as a coffee break inside a hutong walk, not a sit-down cafe visit. Order at the counter — that's standard for the brand everywhere in the world, cash or mobile pay (WeChat Pay or Alipay) both work fine in Beijing generally, so bring one loaded on your phone if you can.
+Treat it as a coffee break inside a hutong walk, not a sit-down cafe visit. Order at the counter. That's standard for the brand everywhere in the world, cash or mobile pay (WeChat Pay or Alipay) both work fine in Beijing generally, so bring one loaded on your phone if you can.
 
 - Skip the counter photo everyone takes and instead find a courtyard corner where the old timber frame is visible overhead
-- Come on foot from the temple rather than by car — hutong lanes are narrow and not built for parking
+- Come on foot from the temple rather than by car, hutong lanes are narrow and not built for parking
 - Don't expect to camp out with a laptop; turnover is part of the culture at these small locations
-- If the courtyard's full, walk the lane a few extra minutes rather than waiting — several other cafes have opened nearby
+- If the courtyard's full, walk the lane a few extra minutes rather than waiting, several other cafes have opened nearby
 
-The mistake most visitors make is treating it purely as an Instagram stop and rushing back out. Slow down for ten minutes instead. The building's history — old brick and beams repurposed rather than replaced — is the actual reason this branch is worth the detour, more than the espresso itself.
+The mistake most visitors make is treating it purely as an Instagram stop and rushing back out. Slow down for ten minutes instead. The building's history, old brick and beams repurposed rather than replaced, is the actual reason this branch is worth the detour, more than the espresso itself.

@@ -87,13 +87,13 @@ The complex opens daily from 6:00 AM to 4:30 PM. Buy tickets at the main entranc
 
 - Combined tickets with nearby Ratu Boko palace ruins are usually available
 - Sarongs are provided free if your knees or shoulders are showing
-- Bring water — the paved courtyard has almost no shade at midday
+- Bring water. The paved courtyard has almost no shade at midday
 
 ## What to see once you're inside
 
 Head straight for the Shiva temple, the tallest structure, and climb the steep stone stairs to the inner chamber. It's tight, dim, and worth the queue.
 
-Circle the base of each shrine to read the Ramayana reliefs in sequence — they're meant to be read clockwise, starting from the east-facing stairs. Guides stationed near the entrance can point out the sequence if the story isn't obvious.
+Circle the base of each shrine to read the Ramayana reliefs in sequence. They're meant to be read clockwise, starting from the east-facing stairs. Guides stationed near the entrance can point out the sequence if the story isn't obvious.
 
 Beyond the three main temples, dozens of smaller shrines and perwara (guardian) temples fill the outer courtyards, many still in ruins from the 2006 earthquake. The scale only really lands once you're standing in the middle of them.
 
@@ -105,14 +105,14 @@ Early morning is best, both for light and for temperature. The stone has no shad
 
 Weekday mornings are the quietest stretch of the week here. On weekends, that window shrinks to 7am–8am before crowds build fast.
 
-Avoid weekend visits between 9am and 4pm if you can help it — that's when tour buses arrive en masse and the walkways around the main shrines bottleneck. A weekday visit generally beats any weekend slot.
+Avoid weekend visits between 9am and 4pm if you can help it. That's when tour buses arrive en masse and the walkways around the main shrines bottleneck. A weekday visit generally beats any weekend slot.
 
 ## How to visit like a local
 
 Prambanan draws heavy crowds year-round, so timing your visit matters more than almost anything else. Aim for the 6am opening or arrive by 7am to get the towers to yourself for an hour.
 
-Buy tickets online in advance where possible — the counter queue at the gate can be slow once tour groups arrive mid-morning. Payment is typically by card or cash at official counters; avoid touts offering "skip the line" tickets outside the gate.
+Buy tickets online in advance where possible. The counter queue at the gate can be slow once tour groups arrive mid-morning. Payment is typically by card or cash at official counters; avoid touts offering "skip the line" tickets outside the gate.
 
-Dress modestly out of respect for the site's continued religious use — loose trousers or a long skirt save you from needing the loaned sarong. Sun hats and light long sleeves work better here than sunscreen alone, since there's no shade once you're among the temples.
+Dress modestly out of respect for the site's continued religious use, loose trousers or a long skirt save you from needing the loaned sarong. Sun hats and light long sleeves work better here than sunscreen alone, since there's no shade once you're among the temples.
 
 The mistake most visitors make is treating this as a quick photo stop. Give it two to three hours minimum: one for the main shrines, another to walk the outer courtyards and reliefs slowly enough to actually follow the carved story around each base.

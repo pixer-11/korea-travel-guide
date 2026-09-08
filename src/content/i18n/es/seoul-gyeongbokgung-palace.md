@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-gyeongbokgung-palace
-srcHash: '962f5f05849f'
+srcHash: '51d93749f347'
 title: 'Palacio Gyeongbokgung: Guía de viaje de Seúl'
 description: El Palacio Gyeongbokgung, el palacio real más grande y majestuoso de la era Joseon en Seúl, se accede mejor por la Estación Gyeongbokgung (Línea 3), Salida 5, que conduce casi directamente a la puerta principal.
 quickAnswer: El Palacio Gyeongbokgung, el palacio real más grande y majestuoso de la era Joseon en Seúl, se accede mejor por la Estación Gyeongbokgung (Línea 3), Salida 5, que conduce casi directamente a la puerta principal. Calcula entre 2 y 3 horas para ver el Salón del Trono Geunjeongjeon, el Pabellón Gyeonghoeru y el Museo Folclórico Nacional dentro del recinto, y trata de coordinar tu visita con la Ceremonia del Cambio de la Guardia Real en la puerta principal. El palacio cierra los martes, así que consulta el horario oficial antes de ir.

@@ -27,27 +27,27 @@ draft: true
 
 ## Why go
 
-Bartolomeo isn't chasing a single meal. It's built to hold an entire day — cappuccino at nine, a spritz at seven, a nightcap at eleven — under one roof and one relaxed attitude.
+Bartolomeo isn't chasing a single meal. It's built to hold an entire day (cappuccino at nine, a spritz at seven, a nightcap at eleven) under one roof and one relaxed attitude.
 
 That all-day format is still unusual in Milan, where cafés, aperitivo bars and cocktail spots tend to stay in their lanes. Here the room doesn't reset when the sun goes down; it just shifts gear, the lighting warms, and the crowd changes from laptop-and-cornetto to loosened-tie aperitivo.
 
 ## Where it sits
 
-The address is the giveaway: Via Bartolomeo Eustachi, in the residential streets northeast of central Milan, closer to Piazza Lima and the Buenos Aires shopping strip than to the postcard sights. This isn't Brera or the Duomo — it's a working neighborhood of apartment blocks, small bakeries and tobacco shops.
+The address is the giveaway: Via Bartolomeo Eustachi, in the residential streets northeast of central Milan, closer to Piazza Lima and the Buenos Aires shopping strip than to the postcard sights. This isn't Brera or the Duomo. It's a working neighborhood of apartment blocks, small bakeries and tobacco shops.
 
 That location matters. You're not stepping into a tourist set piece; you're dropping into a street that Milanese actually live on, which is exactly the point of a spot built to be a daily habit rather than a one-off destination.
 
 ## What it's like inside
 
-Expect an informal-but-refined register — the kind of place where you could show up in gym clothes for a morning coffee or dressed up for evening drinks and feel equally at home. It's the through-line Milan's new wave of café-bars keeps chasing: relaxed enough for a solo laptop hour, polished enough for a first date.
+Expect an informal-but-refined register. The kind of place where you could show up in gym clothes for a morning coffee or dressed up for evening drinks and feel equally at home. It's the through-line Milan's new wave of café-bars keeps chasing: relaxed enough for a solo laptop hour, polished enough for a first date.
 
-Since its 2026 opening it has folded itself into the rhythm of Milanese summer — the kind of place regulars pass on a bike, duck into for ten minutes, and end up staying for an hour.
+Since its 2026 opening it has folded itself into the rhythm of Milanese summer, the kind of place regulars pass on a bike, duck into for ten minutes, and end up staying for an hour.
 
 ## Getting there
 
 Via Bartolomeo Eustachi sits within easy reach of the Buenos Aires–Piazza Lima retail corridor, one of Milan's busiest shopping streets. The area is well served by public transport connecting to the wider Porta Venezia and Loreto districts.
 
-Because exact bus and metro details can shift, plug the street name directly into a map app before you leave — it will route you straight there from wherever you're staying, whether that's central Milan or the Isola or Città Studi neighborhoods nearby.
+Because exact bus and metro details can shift, plug the street name directly into a map app before you leave. It will route you straight there from wherever you're staying, whether that's central Milan or the Isola or Città Studi neighborhoods nearby.
 
 ## When to go
 
@@ -59,10 +59,10 @@ Milan's aperitivo hour typically runs from around 6:30 to 9pm, and a spot this n
 
 Treat it the way Milanese treat their neighborhood bar: as a habit, not an event.
 
-- **Order like a regular** — a straightforward espresso or cappuccino at the counter in the morning, a classic spritz or negroni later on. Ordering at the bar is often cheaper than sitting at a table, as in most Italian cafés.
-- **Pay by card or contactless** — standard across Milan now, though carrying a little cash is never a bad habit.
-- **Don't linger over morning coffee** — Italians drink espresso standing at the counter in a few minutes; treat a slow sit-down breakfast as the exception, not the rule.
-- **Book ahead for evening drinks if you can** — a new, buzzed-about opening like this fills up fast on warm-weather nights. Call or check online to confirm they take reservations.
-- **Skip the obvious tourist hour** — arriving right at the start of aperitivo, rather than at its 7:30–8pm peak, is the easiest way to actually get a seat.
+- **Order like a regular**, a straightforward espresso or cappuccino at the counter in the morning, a classic spritz or negroni later on. Ordering at the bar is often cheaper than sitting at a table, as in most Italian cafés.
+- **Pay by card or contactless**, standard across Milan now, though carrying a little cash is never a bad habit.
+- **Don't linger over morning coffee**, Italians drink espresso standing at the counter in a few minutes; treat a slow sit-down breakfast as the exception, not the rule.
+- **Book ahead for evening drinks if you can**, a new, buzzed-about opening like this fills up fast on warm-weather nights. Call or check online to confirm they take reservations.
+- **Skip the obvious tourist hour**, arriving right at the start of aperitivo, rather than at its 7:30–8pm peak, is the easiest way to actually get a seat.
 
-The biggest mistake visitors make with new Milanese openings like this is treating them as a single-visit photo stop. Locals build them into a routine — a coffee here, a drink there, spread across a week rather than crammed into one rushed stop. Confirm current opening hours and reservation policy before you visit, since both are still settling in as the place finds its footing.
+The biggest mistake visitors make with new Milanese openings like this is treating them as a single-visit photo stop. Locals build them into a routine, a coffee here, a drink there, spread across a week rather than crammed into one rushed stop. Confirm current opening hours and reservation policy before you visit, since both are still settling in as the place finds its footing.

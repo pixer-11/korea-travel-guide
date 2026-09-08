@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-steki
-srcHash: '3789092efbe9'
+srcHash: 'b8bcc48826eb'
 title: 'Steki: dónde comer en Fujairah'
 description: 'Steki es un restaurante griego en Al Faseel Road (E99), cerca de Umbrella Beach, en Fujairah, con una calificación de 4.8 sobre unas 600 reseñas: una gran opción para probar musaka, souvlaki y mariscos a la parrilla a precios moderados.'
 quickAnswer: 'Steki es un restaurante griego en Al Faseel Road (E99), cerca de Umbrella Beach, en Fujairah, con una calificación de 4.8 sobre unas 600 reseñas: una gran opción para probar musaka, souvlaki y mariscos a la parrilla a precios moderados. Conviene ir a cenar temprano, alrededor de la puesta de sol, y después dar un paseo por Umbrella Beach para bajar la comida. Como los asientos son limitados, lo mejor es reservar con anticipación o llegar justo a la hora de apertura.'

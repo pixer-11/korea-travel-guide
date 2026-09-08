@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-topkapi-palace-museum
-srcHash: '88ae2eb1be50'
+srcHash: '09ee9fa7f30d'
 title: 'Museo del Palacio de Topkapi: guía de viaje de Estambul'
 description: El Palacio de Topkapi, sede de los sultanes otomanos durante casi 400 años, se alza en la punta de la península histórica de Sultanahmet, a poca distancia a pie de Santa Sofía.
 quickAnswer: El Palacio de Topkapi, sede de los sultanes otomanos durante casi 400 años, se alza en la punta de la península histórica de Sultanahmet, a poca distancia a pie de Santa Sofía (Hagia Sophia). Compra las entradas con horario fijado por internet con antelación (el palacio y la sección del Harén, aparte, requieren entradas individuales), llega justo a la apertura y reserva al menos tres horas para recorrer los patios, el Tesoro y el Harén sin prisas.

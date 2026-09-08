@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-times-square
-srcHash: '030edbf30db3'
+srcHash: '4f49e4a1af8e'
 title: 时代广场:纽约旅行指南(4.7星)
 description: 时代广场是曼哈顿剧院区(Theater District)第42街至47街之间百老汇大道(Broadway)与第七大道(Seventh Avenue)交汇处那片霓虹闪烁的十字路口——来这里是为了感受屏幕带来的极致视觉冲击，而不是为了悠闲漫步。4.7星(244,209条评价)——网友怎么说、开放时间及游玩贴士。
 quickAnswer: 时代广场是曼哈顿剧院区(Theater District)第42街至47街之间百老汇大道(Broadway)与第七大道(Seventh Avenue)交汇处那片霓虹闪烁的十字路口——来这里是为了感受屏幕带来的极致视觉冲击，而不是为了悠闲漫步。这里是地球上游客最多的广场之一，如果想真正看清脚下的地面，建议在早上7点到10点之间前往;周末一到下午1点，这里就变得摩肩接踵，而且会一直持续到晚上11点之后。

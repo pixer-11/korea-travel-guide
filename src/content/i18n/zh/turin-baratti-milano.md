@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: turin-baratti-milano
-srcHash: 'a8a6b86b9fe4'
+srcHash: 'ed93f598a9a7'
 title: 巴拉蒂与米兰咖啡馆(Baratti & Milano):都灵旅行指南
 description: 巴拉蒂与米兰咖啡馆(Baratti & Milano)是位于城堡广场(Piazza Castello)、萨巴迪纳拱廊(Galleria Subalpina)入口处的一家19世纪镀金镜面咖啡馆，以金杜亚巧克力(gianduiotto)、比切林咖啡(bicerin,都灵特有的分层咖啡-巧克力-奶油饮品)以及大理石与黄铜装饰的美好年代风格内饰而闻名。
 quickAnswer: 巴拉蒂与米兰咖啡馆(Baratti & Milano)是位于城堡广场(Piazza Castello)、萨巴迪纳拱廊(Galleria Subalpina)入口处的一家19世纪镀金镜面咖啡馆，以金杜亚巧克力(gianduiotto)、比切林咖啡(bicerin,都灵特有的分层咖啡-巧克力-奶油饮品)以及大理石与黄铜装饰的美好年代风格内饰而闻名。除周一外每天开放，营业时间为上午9点至晚上8点;工作日刚开门时(上午9点至10点)前往可以免排队入座，若条件允许，尽量避开周末上午10点至晚上8点的人流高峰。

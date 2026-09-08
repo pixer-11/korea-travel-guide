@@ -82,9 +82,9 @@ updatedDate: '2026-09-05'
 
 ## Why Ephesus still matters
 
-You come around a bend in the marble-paved Curetes Way and the Library of Celsus rises out of the dust, two stories of columns and niches glowing gold in the afternoon light. This isn't a reconstruction fantasy — it's a genuine Roman port city, once home to a quarter-million people, laid out street by street in front of you.
+You come around a bend in the marble-paved Curetes Way and the Library of Celsus rises out of the dust, two stories of columns and niches glowing gold in the afternoon light. This isn't a reconstruction fantasy. It's a genuine Roman port city, once home to a quarter-million people, laid out street by street in front of you.
 
-Ephesus was a capital of Roman Asia Minor and a major early Christian site, visited by Paul the Apostle. What survives today — theatre, library, terrace houses, temple ruins — is one of the most complete ancient cities anywhere in the Mediterranean.
+Ephesus was a capital of Roman Asia Minor and a major early Christian site, visited by Paul the Apostle. What survives today (theatre, library, terrace houses, temple ruins) is one of the most complete ancient cities anywhere in the Mediterranean.
 
 ## Getting there
 
@@ -92,17 +92,17 @@ Ephesus sits inland from the Aegean coast, about 3km from the town of Selçuk an
 
 From İzmir, regional trains and buses run to Selçuk; from there, taxis and dolmuş minibuses cover the short final stretch. Cruise passengers usually arrive via organized shuttle from Kuşadası port.
 
-The site has two entrances: the Upper Gate (near Magnesia) and the Lower Gate. Enter at the top and walk down — the whole site slopes gently, so you avoid climbing in the heat.
+The site has two entrances: the Upper Gate (near Magnesia) and the Lower Gate. Enter at the top and walk down, the whole site slopes gently, so you avoid climbing in the heat.
 
 ## What you'll actually see
 
 Budget two to three hours minimum, longer if you want the Terrace Houses.
 
-- **Great Theatre** — carved into the hillside, seated 25,000, still used for concerts
-- **Library of Celsus** — the postcard shot, a two-story Roman façade from the 2nd century AD
-- **Curetes Way** — the main marble street connecting the gates, lined with statue bases and shop fronts
-- **Terrace Houses** — separately ticketed, mosaic-floored Roman residences under a modern roof, worth the extra entry
-- **Temple of Hadrian** and the **Odeon** — smaller but well-preserved along the same route
+- **Great Theatre**, carved into the hillside, seated 25,000, still used for concerts
+- **Library of Celsus**, the postcard shot, a two-story Roman façade from the 2nd century AD
+- **Curetes Way**, the main marble street connecting the gates, lined with statue bases and shop fronts
+- **Terrace Houses**, separately ticketed, mosaic-floored Roman residences under a modern roof, worth the extra entry
+- **Temple of Hadrian** and the **Odeon**, smaller but well-preserved along the same route
 
 Wear real shoes. The marble paving is uneven, polished smooth by two thousand years of feet, and slick after rain.
 
@@ -119,10 +119,10 @@ Cruise-ship days can flood the site with groups by mid-morning, so build your vi
 Given how consistently busy Ephesus is, the smartest move is timing, not avoidance.
 
 - Arrive right at 8am opening, before tour buses from Kuşadası and İzmir converge mid-morning.
-- If you're staying in Selçuk, take an evening slot (7–10pm, Wed–Sat) — the light softens and the crowds thin dramatically.
+- If you're staying in Selçuk, take an evening slot (7–10pm, Wed–Sat), the light softens and the crowds thin dramatically.
 - Enter at the Upper Gate and exit at the Lower Gate; walking against this flow means constantly fighting groups coming the other way.
-- Buy Terrace House tickets alongside your main entry — it's a separate fee, and skipping it means missing the best-preserved mosaics on site.
+- Buy Terrace House tickets alongside your main entry. It's a separate fee, and skipping it means missing the best-preserved mosaics on site.
 - Bring your own water and a hat. Shade and vendors inside the site are limited.
-- Hire a licensed guide at the gate or book ahead if you want context — the ruins carry minimal on-site signage, and Ephesus rewards someone explaining what you're looking at.
+- Hire a licensed guide at the gate or book ahead if you want context, the ruins carry minimal on-site signage, and Ephesus rewards someone explaining what you're looking at.
 
-The single biggest mistake visitors make is treating this as a quick photo stop. Ephesus is a full archaeological city — rushing the Curetes Way in twenty minutes means missing side streets, latrines, and inscriptions that make the place click into focus as somewhere people actually lived.
+The single biggest mistake visitors make is treating this as a quick photo stop. Ephesus is a full archaeological city, rushing the Curetes Way in twenty minutes means missing side streets, latrines, and inscriptions that make the place click into focus as somewhere people actually lived.

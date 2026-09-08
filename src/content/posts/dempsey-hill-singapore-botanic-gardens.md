@@ -77,7 +77,7 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-You don't need a ticket or an itinerary to feel the pull of this place. Singapore Botanic Gardens is the country's only UNESCO World Heritage Site, and it earns that status without ever feeling like a monument. It's a working park — joggers, wedding photographers, retirees doing tai chi under rain trees — that happens to also hold one of the great tropical plant collections on earth.
+You don't need a ticket or an itinerary to feel the pull of this place. Singapore Botanic Gardens is the country's only UNESCO World Heritage Site, and it earns that status without ever feeling like a monument. It's a working park (joggers, wedding photographers, retirees doing tai chi under rain trees) that happens to also hold one of the great tropical plant collections on earth.
 
 ## What you'll actually see
 
@@ -85,17 +85,17 @@ Start at the National Orchid Garden, a paid enclosure within the free park, wher
 
 Look for:
 - The Sundial Garden's open lawns, good for a breather
-- Tembusu tree near the Music Garden — its low, gnarled branch is the one on the old Singapore $5 note
+- Tembusu tree near the Music Garden, its low, gnarled branch is the one on the old Singapore $5 note
 - Bandstand, a Victorian-era gazebo on a small hill
 - Ginger Garden, thick with heliconias and torch ginger
 
-Sculptures are tucked throughout rather than clustered — you'll come across bronze figures mid-stride on a path with no warning.
+Sculptures are tucked throughout rather than clustered. You'll come across bronze figures mid-stride on a path with no warning.
 
 ## Getting there
 
 The gardens sit right against Dempsey Hill, so it's easy to combine both in one outing. Take the Circle Line to Botanic Gardens MRT station and use Exit B, which drops you almost directly at the Tanglin Gate entrance.
 
-If you're coming from Dempsey Hill itself, it's a flat 10-minute walk down Napier Road to the Nassim or Tanglin Gate. Multiple entrances — Tanglin, Nassim, Bukit Timah, Cluny — mean it's worth checking which is closest to where you actually want to end up.
+If you're coming from Dempsey Hill itself, it's a flat 10-minute walk down Napier Road to the Nassim or Tanglin Gate. Multiple entrances (Tanglin, Nassim, Bukit Timah, Cluny) mean it's worth checking which is closest to where you actually want to end up.
 
 ## When to go
 
@@ -107,14 +107,14 @@ If you want the lawns and lake paths to yourself, aim for a weekday morning or g
 
 Dempsey Hill itself, a former British military barracks turned dining enclave, is a five-minute stroll from the Nassim Gate. It's dotted with restaurants set in colonial-era black-and-white bungalows shaded by rain trees.
 
-Expect mid-range to pricier options — Italian, Mediterranean, contemporary Asian — rather than hawker-stall prices. Inside the gardens themselves, casual cafés near the Visitor Centre and Botany Centre serve coffee and light meals if you just want a bench and a cold drink.
+Expect mid-range to pricier options (Italian, Mediterranean, contemporary Asian) rather than hawker-stall prices. Inside the gardens themselves, casual cafés near the Visitor Centre and Botany Centre serve coffee and light meals if you just want a bench and a cold drink.
 
 ## How to visit like a local
 
-This is one of Singapore's most-visited attractions, so beating the crowds is the real skill here, not finding a secret corner. Come at opening or after the dinner hour — the gardens stay lit and walkable until midnight, and evenings are noticeably cooler and quieter.
+This is one of Singapore's most-visited attractions, so beating the crowds is the real skill here, not finding a secret corner. Come at opening or after the dinner hour. The gardens stay lit and walkable until midnight, and evenings are noticeably cooler and quieter.
 
-Entry to the main gardens is free; only the National Orchid Garden charges admission, payable by card or via the SingPass-linked booking system in recent years — confirm current pricing before you go. Bring a reusable water bottle; refill stations are scattered near the visitor centres.
+Entry to the main gardens is free; only the National Orchid Garden charges admission, payable by card or via the SingPass-linked booking system in recent years, confirm current pricing before you go. Bring a reusable water bottle; refill stations are scattered near the visitor centres.
 
-Wear proper walking shoes, not sandals — paths are paved but the park is genuinely large and shadeless stretches add up. The most common tourist mistake is treating this as a quick 45-minute photo stop; locals treat it as a proper morning or evening outing, often pairing it with brunch or dinner up at Dempsey Hill.
+Wear proper walking shoes, not sandals, paths are paved but the park is genuinely large and shadeless stretches add up. The most common tourist mistake is treating this as a quick 45-minute photo stop; locals treat it as a proper morning or evening outing, often pairing it with brunch or dinner up at Dempsey Hill.
 
-Cycling isn't allowed inside most of the gardens, so don't bring a bike expecting to ride through — it's a walking park through and through.
+Cycling isn't allowed inside most of the gardens, so don't bring a bike expecting to ride through. It's a walking park through and through.

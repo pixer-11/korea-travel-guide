@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-pedrera-casa-mila
-srcHash: '60d6df1a7b9d'
+srcHash: 'e9d00747a9e9'
 title: 'La Pedrera - Casa Milà: Guía de viaje de Barcelona (4.6★)'
 description: La Pedrera (Casa Milà) es el ondulante edificio de piedra de Gaudí en Passeig de Gràcia 92, abierto todos los días de 9:00 a 23:00 — ve justo a las 9:00 o después de las 19:00 para recorrer la ondulante terraza y el ático sin la avalancha de gente que se forma entre las 11:00 y las 19:00 los fines de semana. 4.6★ (113.490 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: La Pedrera (Casa Milà) es el ondulante edificio de piedra de Gaudí en Passeig de Gràcia 92, abierto todos los días de 9:00 a 23:00 — ve justo a las 9:00 o después de las 19:00 para recorrer la ondulante terraza y el ático sin la avalancha de gente que se forma entre las 11:00 y las 19:00 los fines de semana. Calcula entre 1,5 y 2 horas, y reserva tu entrada con hora fija en línea antes de ir, ya que es uno de los lugares más visitados de Barcelona, no un hallazgo escondido.

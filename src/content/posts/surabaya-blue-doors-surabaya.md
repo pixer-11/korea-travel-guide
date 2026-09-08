@@ -69,11 +69,11 @@ draft: false
 
 Surabaya's café scene has exploded over the past decade, but Blue Doors stands out for its look before its menu: whitewashed walls, cobalt-blue shutters and doors, and greenery spilling over a courtyard that feels more Mediterranean than East Java. With a 4.7 rating across nearly 1,200 reviews, it has built a loyal following among people chasing a good flat white and an even better photo backdrop, without becoming an overrun tourist stop.
 
-This is a trendy, design-forward hangout rather than a heritage landmark, which is exactly its appeal — a calm, aesthetic pocket in a busy commercial pocket of the city.
+This is a trendy, design-forward hangout rather than a heritage landmark, which is exactly its appeal, a calm, aesthetic pocket in a busy commercial pocket of the city.
 
 ## Getting there
 
-Blue Doors sits on Jl. Imam Bonjol No. 21, in the DR. Soetomo area of Tegalsari district — one of Surabaya's older, leafier commercial corridors, roughly midway between the city's northern old town and the southern Darmo/Wonokromo area. There's no MRT or light rail in Surabaya, so the practical options are:
+Blue Doors sits on Jl. Imam Bonjol No. 21, in the DR. Soetomo area of Tegalsari district, one of Surabaya's older, leafier commercial corridors, roughly midway between the city's northern old town and the southern Darmo/Wonokromo area. There's no MRT or light rail in Surabaya, so the practical options are:
 
 - **Ride-hailing (Gojek/Grab):** the simplest route from almost anywhere in the city center or from hotels around Jl. Basuki Rahmat or Tunjungan; expect a short 10–20 minute ride depending on traffic.
 - **Taxi:** widely available and metered; give the driver the Jl. Imam Bonjol address directly, as it's a known street rather than an obscure lane.
@@ -83,9 +83,9 @@ The street itself is lined with clinics, schools, and older Dutch-era houses, so
 
 ## What to see and order
 
-The main draw is the building itself — a converted house with tall white walls, blue-framed windows and doors, and enough climbing plants and potted greenery to make almost any corner photogenic. The courtyard and interior are arranged in distinct nooks, so it doesn't feel like one big dining room; expect a mix of indoor air-conditioned seating and open-air garden tables.
+The main draw is the building itself, a converted house with tall white walls, blue-framed windows and doors, and enough climbing plants and potted greenery to make almost any corner photogenic. The courtyard and interior are arranged in distinct nooks, so it doesn't feel like one big dining room; expect a mix of indoor air-conditioned seating and open-air garden tables.
 
-On the menu, expect a standard specialty-coffee lineup — espresso-based drinks, manual brews, and often a matcha or non-coffee option — alongside an all-day brunch menu of Western-leaning dishes (think eggs, toast, pasta, and rice bowls) that Surabaya's café crowd favors. Portions and exact prices shift over time, so treat any number you see online as approximate and check the current menu on arrival.
+On the menu, expect a standard specialty-coffee lineup (espresso-based drinks, manual brews, and often a matcha or non-coffee option) alongside an all-day brunch menu of Western-leaning dishes (think eggs, toast, pasta, and rice bowls) that Surabaya's café crowd favors. Portions and exact prices shift over time, so treat any number you see online as approximate and check the current menu on arrival.
 
 Plan for **60–90 minutes** if you're there for coffee and photos, or up to two hours if you're settling in for brunch and work.
 
@@ -95,10 +95,10 @@ Surabaya is hot and humid year-round, so the covered/air-conditioned indoor seat
 
 ## How to visit like a local
 
-Because Blue Doors hasn't been swallowed by mass tourism, the smartest move is timing rather than avoidance — go on a weekday between opening and late morning, or after the mid-afternoon lull, to get the courtyard's best light and fewest people in your photos. Order at the counter or via table service as directed by staff (Indonesian cafés at this price point typically take both cash and cards, plus QRIS mobile payment, which is now standard across Surabaya), and a modest rounding-up rather than a large percentage tip is the norm — table tipping isn't a strong local expectation.
+Because Blue Doors hasn't been swallowed by mass tourism, the smartest move is timing rather than avoidance (go on a weekday between opening and late morning, or after the mid-afternoon lull, to get the courtyard's best light and fewest people in your photos. Order at the counter or via table service as directed by staff (Indonesian cafés at this price point typically take both cash and cards, plus QRIS mobile payment, which is now standard across Surabaya), and a modest rounding-up rather than a large percentage tip is the norm) table tipping isn't a strong local expectation.
 
-If you want a specific table or the courtyard on a weekend, arrive close to opening rather than assuming you can walk in and sit down at peak hours. The most common visitor mistake is treating it purely as a photo backdrop and rushing off — locals and regulars tend to actually settle in for a coffee or brunch, which is also the easiest way to justify lingering for photos without feeling rushed by other guests waiting for your table.
+If you want a specific table or the courtyard on a weekend, arrive close to opening rather than assuming you can walk in and sit down at peak hours. The most common visitor mistake is treating it purely as a photo backdrop and rushing off, locals and regulars tend to actually settle in for a coffee or brunch, which is also the easiest way to justify lingering for photos without feeling rushed by other guests waiting for your table.
 
 ## Nearby
 
-The surrounding Tegalsari/DR. Soetomo area rewards a short walk — it's dotted with colonial-period residential architecture and local eateries. Combine a visit with a stop at Surabaya's better-known food streets or the Darmo area's parks if you're spending a half-day in this part of the city, rather than treating Blue Doors as an isolated stop.
+The surrounding Tegalsari/DR. Soetomo area rewards a short walk. It's dotted with colonial-period residential architecture and local eateries. Combine a visit with a stop at Surabaya's better-known food streets or the Darmo area's parks if you're spending a half-day in this part of the city, rather than treating Blue Doors as an isolated stop.

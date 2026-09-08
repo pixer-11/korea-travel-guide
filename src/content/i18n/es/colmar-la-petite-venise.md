@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: colmar-la-petite-venise
-srcHash: '58544378f5cf'
+srcHash: '52c1467408f0'
 title: 'La Petite Venise: Guía de viaje de Colmar (4,7★)'
 description: 'La Petite Venise es el barrio surcado de canales del casco antiguo de Colmar, que se disfruta mejor a pie por el Quai de la Poissonnerie y en un paseo en barco de fondo plano. 4,7★ (57.271 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Petite Venise es el barrio surcado de canales del casco antiguo de Colmar, que se disfruta mejor a pie por el Quai de la Poissonnerie y en un paseo en barco de fondo plano. Está abierto todo el día, todos los días, y no se necesita entrada para visitar el barrio en sí; basta con llegar a primera hora de la mañana o después de cenar para evitar las multitudes que se forman al mediodía.

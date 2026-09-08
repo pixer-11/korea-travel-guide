@@ -103,7 +103,7 @@ You feel the shift the moment you walk in from Umm Hurair. Traffic noise drops a
 
 The park is split into gated zones, each with its own small entry fee, so it's worth deciding what you want before you arrive.
 
-- Cable car gliding over the creek — the best low-cost view of the skyline you'll get in Dubai
+- Cable car gliding over the creek, the best low-cost view of the skyline you'll get in Dubai
 - Children's City, an interactive museum built for younger kids
 - An open-air amphitheatre that hosts occasional concerts and festivals
 - Botanical trails and rose gardens threading between the play areas
@@ -115,13 +115,13 @@ Bring joggers or cyclists in your group and they'll be glad to know there's a de
 
 The park sits in Umm Hurair, on the Bur Dubai side of the creek, an easy taxi ride from Downtown or the Dubai Mall area. The nearest metro stops are Emirates Towers or ADCB on the Red Line, but honestly a taxi or the Dubai Water Bus/Abra from the creek itself gets you closer to the gates.
 
-Multiple entrances dot the perimeter — Gate 1 near Wonderland is the one most taxi drivers default to, so confirm which section you want before you set off.
+Multiple entrances dot the perimeter, Gate 1 near Wonderland is the one most taxi drivers default to, so confirm which section you want before you set off.
 
 ## When to go
 
 Weekday mornings and evenings are calm, and late nights on weekdays tend to be quiet too.
 
-On weekends, arrive between 8am and 11am if you want the paths to yourself. Crowds build steadily from midday and by 3pm through closing — as late as 11pm Friday and Saturday nights — the park fills with families, picnickers, and joggers escaping the daytime heat.
+On weekends, arrive between 8am and 11am if you want the paths to yourself. Crowds build steadily from midday and by 3pm through closing, as late as 11pm Friday and Saturday nights, the park fills with families, picnickers, and joggers escaping the daytime heat.
 
 Winter (November through March) is objectively the better season here. Summer mornings are bearable before 9am, but the humidity by afternoon makes the shaded botanical trails far more appealing than open lawns.
 
@@ -130,10 +130,10 @@ Winter (November through March) is objectively the better season here. Summer mo
 This is a genuinely busy, well-loved park, not a hidden find, so timing your visit matters more than finding a secret entrance.
 
 - Skip weekend afternoons entirely if you dislike queues at the cable car or Children's City ticket booths
-- Pay by card or cash at each attraction's gate — the park itself has no single unified ticket
+- Pay by card or cash at each attraction's gate. The park itself has no single unified ticket
 - Bring a picnic; there are open lawns and shaded spots where this is completely normal and expected
 - Wear proper shoes if you plan to use the running track, which locals treat seriously, especially at dawn
-- Don't assume every zone is free — the cable car, Children's City, and some gardens each charge separately, and prices change, so check current rates at the gate
+- Don't assume every zone is free, the cable car, Children's City, and some gardens each charge separately, and prices change, so check current rates at the gate
 
 The mistake most first-time visitors make is treating this as a quick 20-minute stroll. Give it at least two hours if you want to actually ride the cable car and let kids loose in the play areas without feeling rushed.
 

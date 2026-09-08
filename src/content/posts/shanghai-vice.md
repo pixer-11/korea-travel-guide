@@ -35,7 +35,7 @@ draft: false
 
 ## Why VICE Stands Out
 
-Shanghai's restaurant scene turns over constantly, but VICE has arrived with a pedigree worth noting: chef Carlos Sotomayor, whose cooking draws on Peruvian tradition, has teamed up with Raffe Ibrahamian, the operator behind Cantina Agave, one of the city's established agave-and-Mexican-food destinations. Together they've built a menu that threads Peruvian technique and flavor through an Asian-influenced lens — a combination that's still rare in Shanghai, where Latin American cooking remains a small niche compared to the city's deep bench of French, Italian, and Cantonese fine dining.
+Shanghai's restaurant scene turns over constantly, but VICE has arrived with a pedigree worth noting: chef Carlos Sotomayor, whose cooking draws on Peruvian tradition, has teamed up with Raffe Ibrahamian, the operator behind Cantina Agave, one of the city's established agave-and-Mexican-food destinations. Together they've built a menu that threads Peruvian technique and flavor through an Asian-influenced lens, a combination that's still rare in Shanghai, where Latin American cooking remains a small niche compared to the city's deep bench of French, Italian, and Cantonese fine dining.
 
 The result is being watched closely by the city's food press as one of the more distinctive concept launches of the season.
 
@@ -43,7 +43,7 @@ The result is being watched closely by the city's food press as one of the more 
 
 Rather than a glass-tower dining room, VICE occupies a restored heritage lane house on Yongjia Lu, a leafy street in the former French Concession known for its plane-tree canopy and a steady mix of independent boutiques, wine bars, and chef-driven restaurants tucked into converted shikumen and villa buildings. The choice of a lane house is very much in step with how the neighborhood's best newer openings present themselves: intimate, residential-feeling spaces that preserve original brick, timber, or window details rather than stripping them for a generic modern fit-out.
 
-Expect the kind of layout typical of these conversions — multiple smaller rooms or floors rather than one big hall, which tends to make reservations for prime slots and larger groups tighter than a standalone building would allow.
+Expect the kind of layout typical of these conversions, multiple smaller rooms or floors rather than one big hall, which tends to make reservations for prime slots and larger groups tighter than a standalone building would allow.
 
 ## Getting There
 
@@ -53,14 +53,14 @@ Given the address is inside a converted lane house rather than a street-facing s
 
 ## What to Expect at the Table
 
-Details on the actual menu were not confirmed at the time of writing, so it's best to treat any online rundowns of specific dishes as unconfirmed until you've checked directly with the restaurant or a very recent source. What is established is the concept: a fusion of Sotomayor's Peruvian cooking roots — think the kind of citrus-forward, chile-driven, seafood-savvy techniques associated with that cuisine — filtered through Asian ingredients and sensibility, under the same ownership hand that's built a following for Cantina Agave's approach to Latin American food in Shanghai.
+Details on the actual menu were not confirmed at the time of writing, so it's best to treat any online rundowns of specific dishes as unconfirmed until you've checked directly with the restaurant or a very recent source. What is established is the concept: a fusion of Sotomayor's Peruvian cooking roots (think the kind of citrus-forward, chile-driven, seafood-savvy techniques associated with that cuisine) filtered through Asian ingredients and sensibility, under the same ownership hand that's built a following for Cantina Agave's approach to Latin American food in Shanghai.
 
 Diners coming from Cantina Agave should expect a related but distinct experience: VICE is its own concept, not a spinoff menu.
 
 ## Practical Tips Before You Go
 
 - **Reserve ahead.** New, buzzed-about openings in the French Concession fill up fast, especially on weekends; a same-day walk-in is a gamble.
-- **Confirm hours directly.** As a recent opening, VICE's schedule may still be settling — check the restaurant's official social channels or call ahead rather than relying on aggregator sites.
+- **Confirm hours directly.** As a recent opening, VICE's schedule may still be settling. Check the restaurant's official social channels or call ahead rather than relying on aggregator sites.
 - **Pair the visit with a Yongjia Lu wander.** The street and its surrounding lanes (near Wulumuqi Lu and Julu Lu) are dense with cafés, wine bars, and design shops, so budget time before or after dinner to walk the neighborhood rather than treating it as a single-stop destination.
-- **Dress and pacing.** Lane-house restaurants in this area tend to lean smart-casual, and multi-course, chef-driven menus in Shanghai often run longer than a typical quick dinner — plan for a leisurely two hours or so.
+- **Dress and pacing.** Lane-house restaurants in this area tend to lean smart-casual, and multi-course, chef-driven menus in Shanghai often run longer than a typical quick dinner. Plan for a leisurely two hours or so.
 - **Ask about seating layout when booking.** Given the converted-house format, request a specific room or table type in advance if you have a preference, since configurations vary floor to floor.

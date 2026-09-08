@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nantou-2026-sun-moon-lake-music-fireworks-festival
-srcHash: '5c60fd6a0486'
+srcHash: 'c93a1cdd8d44'
 title: 'Festival de Música y Fuegos Artificiales del Lago Sun Moon 2026: lo que hay que saber (Nantou)'
 description: Festival de Música y Fuegos Artificiales del Lago Sun Moon 2026 en Nantou, Taiwán — del 12 de septiembre al 14 de noviembre de 2026. Qué es, cuándo y dónde se celebra, y cómo planificar tu visita.
 quickAnswer: El Festival de Música y Fuegos Artificiales del Lago Sun Moon 2026 se celebra del 12 de septiembre al 14 de noviembre de 2026, y arranca con el Concierto de Ita Thau en la orilla de Ita Thau (Yizu) del lago. Se puede esperar una temporada completa de conciertos al aire libre y espectáculos de fuegos artificiales sobre el agua, además de un carnaval de natación, repartidos en varios fines de semana en lugar de concentrarse en una sola noche — así que conviene elegir una fecha y confirmar el programa exacto en los canales oficiales de turismo del Lago Sun Moon antes de reservar transporte y alojamiento. Para una noche de fuegos artificiales, llega a media tarde; los puntos de observación junto al lago cerca de Ita Thau y Shuishe se llenan rápido después de la cena.

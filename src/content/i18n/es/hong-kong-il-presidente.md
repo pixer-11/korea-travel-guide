@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-il-presidente
-srcHash: 'e44211826df4'
+srcHash: '7ba022d39cc3'
 title: 'Il Presidente: Guía de viaje de Hong Kong'
 description: 'Il Presidente, en Hong Kong, es uno de los locales nuevos que están dando de qué hablar: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Il Presidente es el flamante restaurante y bar italiano del equipo de Trattoria Felino, que se ha instalado en la escena gastronómica de Hong Kong con una sala de tonos atardecer inspirada en la Italia de los años ochenta y la cocina regional "nuevo clásico" del chef Marcello Scognamiglio. Conviene ir a cenar o a tomar un cóctel a última hora de la tarde antes que al mediodía, y reservar con antelación, ya que es una de las aperturas más comentadas de la ciudad en este momento. Confirme directamente el horario actual y la política de reservas antes de ir, porque en aperturas tan recientes los detalles cambian con rapidez.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: sai-kung-28-restaurant
-srcHash: 'c3395ccb2f17'
+srcHash: '38ffee44e5c7'
 title: 28 Restaurant:西貢での食事はこちら
 description: 28 Restaurantは、西貢(サイクン)のウォーターフロント・プロムナードから徒歩すぐ、以正街(Yi Chun Street)の民意灣新村(Man Yee Wan San Tsuen)にひっそりと佇む、評価の高い小さな地元食堂です。
 quickAnswer: 28 Restaurantは、西貢(サイクン)のウォーターフロント・プロムナードから徒歩すぐ、以正街(Yi Chun Street)の民意灣新村(Man Yee Wan San Tsuen)にひっそりと佇む、評価の高い小さな地元食堂です。価格帯は中程度で、海鮮を得意とする広東料理を出し、常連客に支持されています。待たずに席に着きたいなら、平日の夜に訪れるのがおすすめです。週末は午後1時から午後9時まで混み合い、平日の夜遅く、午後10時から11時頃が最も落ち着いています。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taguig-june-eatery
-srcHash: '3ba3ce419156'
+srcHash: 'b01489afbdb5'
 title: June Eatery：塔吉格美食新去处
 description: June Eatery 位于菲律宾塔吉格（Taguig）——一家新晋人气餐厅：它是什么、地址在哪，以及如何前往。
 quickAnswer: June Eatery 是塔吉格 BGC（Bonifacio Global City，博尼法西奥全球城）新开的一家全天候餐厅，出自 Bibio 团队之手，由行政主厨 Kier Ibañez 掌勺，主打融合各地风味、可供分享的菜单，从早餐一路延续到晚餐，衔接自然流畅。适合悠闲的早午餐或早场晚餐，由于是新开且人气很高的店，出发前请务必确认最新营业时间和订位政策。

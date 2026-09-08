@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: busan-gamcheon-culture-village
-srcHash: '0602d7642b57'
+srcHash: 'bc26135113d3'
 title: 甘川文化村：釜山旅游指南
 description: 甘川文化村（Gamcheon Culture Village）是釜山沙下区（Saha-gu）一处山坡社区，以彩色房屋、壁画和小型画廊闻名——建议从土城站（Toseong Station，1号线，6号出口）搭乘出租车或巴士前往。
 quickAnswer: 甘川文化村是釜山沙下区一处山坡社区，以彩色房屋、壁画和小型画廊闻名——建议从土城站（1号线，6号出口）搭乘出租车或巴士前往。建议安排2-3小时在阶梯小巷间漫步，在游客中心领取印章地图，并在柔和的晨光或午后光线下拍摄层叠屋顶的照片。这里是热门的拍照打卡景点，建议尽早前往或选择工作日出行，以避开最拥挤的人群。

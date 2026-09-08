@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: boryeong-mud-festival
-srcHash: '67b1684fbb1a'
+srcHash: '5c30624d0b7e'
 title: Festival del Barro de Boryeong
 description: El Festival del Barro de Boryeong se celebra durante unas dos semanas cada mes de julio en la playa de Daecheon, en la costa oeste de Corea, a unas dos horas de Seúl en tren o autobús.
 quickAnswer: El Festival del Barro de Boryeong se celebra durante unas dos semanas cada mes de julio en la playa de Daecheon, en la costa oeste de Corea, a unas dos horas de Seúl en tren o autobús. El principal atractivo son las piscinas de barro, los toboganes de barro y los conciertos en la playa, y las horas de más ambiente llegan tras la puesta de sol, por lo que la mayoría de los visitantes se queda a pasar la noche. La oferta de alojamiento en la zona de Daecheon es escasa, y las pocas pensiones del pueblo se agotan rápidamente durante las fechas del festival.

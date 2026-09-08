@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-american-museum-of-natural-history
-srcHash: '0f4b24258efb'
+srcHash: '1825ad890b8c'
 title: 美国自然历史博物馆:纽约旅行指南
 description: 美国自然历史博物馆位于中央公园西大道(Central Park West)与79街交界处，正对中央公园，最适合在人流最少的工作日前往，如果只能安排周末出行，则应在开馆时第一时间进入。4.6★(25,908条评价)——游客怎么说、开放时间及实用建议。
 quickAnswer: 美国自然历史博物馆位于中央公园西大道(Central Park West)与79街交界处，正对中央公园，最适合在人流最少的工作日前往，如果只能安排周末出行，则应在开馆时第一时间进入。至少留出三个小时——如果想不慌不忙地参观地球与太空罗斯中心(Rose Center for Earth and Space)和恐龙展厅，建议安排半天时间。周末中午12点到下午5点是人流最集中、最需要避开的时段;而周末上午10点开馆时段则要宽松得多。

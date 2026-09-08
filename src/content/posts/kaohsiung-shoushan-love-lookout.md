@@ -110,13 +110,13 @@ updatedDate: '2026-09-06'
 
 You climb the switchbacks of Shoushan Road and the trees suddenly open onto a concrete platform jutting toward the Taiwan Strait. That's the lookout. The big metal "LOVE" letters stand chest-high, painted red, angled so every visitor's photo gets the harbor and Kaohsiung's tower blocks stacked behind them in the frame.
 
-Below the railing, the port sprawls out in miniature — container cranes, ferries crossing to Cijin Island, the curve of the coastline fading into haze. At dusk the city lights start switching on grid by grid, and the LOVE letters get illuminated too, which is when most people say the view earns its reputation.
+Below the railing, the port sprawls out in miniature, container cranes, ferries crossing to Cijin Island, the curve of the coastline fading into haze. At dusk the city lights start switching on grid by grid, and the LOVE letters get illuminated too, which is when most people say the view earns its reputation.
 
 ## Why it's worth the climb
 
 This is Shoushan, also called Monkey Mountain, and the name is literal. Troops of Formosan rock macaques live in the surrounding forest and wander onto the lookout's railings and bins looking for food.
 
-They're used to people, which makes them bold, not friendly. Keep snacks zipped away and don't make eye contact or lunge for a photo — a startled macaque will swipe first.
+They're used to people, which makes them bold, not friendly. Keep snacks zipped away and don't make eye contact or lunge for a photo. A startled macaque will swipe first.
 
 ## Getting there
 
@@ -130,26 +130,26 @@ There's limited roadside parking near the platform, and it fills fast on weekend
 
 ## What to expect at the top
 
-The deck itself is small — you won't need more than half an hour unless you're waiting out sunset. Expect a steady churn of visitors posing with the LOVE letters, so a clean shot without strangers in it usually means a short queue.
+The deck itself is small. You won't need more than half an hour unless you're waiting out sunset. Expect a steady churn of visitors posing with the LOVE letters, so a clean shot without strangers in it usually means a short queue.
 
-Beyond the sign, the panorama is the real draw: Kaohsiung Harbor to the west, the city grid to the east, and on clear days the outline of Cijin's lighthouse across the water. Bring water — there's little shade and no food stalls right at the lookout itself.
+Beyond the sign, the panorama is the real draw: Kaohsiung Harbor to the west, the city grid to the east, and on clear days the outline of Cijin's lighthouse across the water. Bring water. There's little shade and no food stalls right at the lookout itself.
 
 ## When to go
 
 The lookout never closes; it's open 24 hours every day, so timing is entirely up to you. Quietest is 7am–8am on weekdays, before the day-trip crowds and school groups arrive.
 
-Weekends are a different story — foot traffic stays heavy from around 9am until 11pm, so if you want breathing room, aim for a weekday morning or a late weeknight visit instead. Sunset draws the biggest crowds of all, since that's when the LOVE sign lights up against the darkening skyline.
+Weekends are a different story, foot traffic stays heavy from around 9am until 11pm, so if you want breathing room, aim for a weekday morning or a late weeknight visit instead. Sunset draws the biggest crowds of all, since that's when the LOVE sign lights up against the darkening skyline.
 
 ## How to visit like a local
 
-Kaohsiung residents treat Shoushan as an early-morning hiking spot rather than a sunset photo stop, so if you want the mountain without the tour groups, go when they do — right after 7am on a weekday.
+Kaohsiung residents treat Shoushan as an early-morning hiking spot rather than a sunset photo stop, so if you want the mountain without the tour groups, go when they do, right after 7am on a weekday.
 
 - Wear closed shoes if you're combining the lookout with any of the connecting trails; the path surface gets slick after rain
-- Don't feed or provoke the macaques — it's discouraged and makes the monkeys more aggressive toward the next visitor
+- Don't feed or provoke the macaques. It's discouraged and makes the monkeys more aggressive toward the next visitor
 - Cash isn't really needed at the lookout itself since there's nothing to buy on-site, but keep some on hand for parking or a taxi
 - Skip weekend afternoons entirely if crowds bother you; the platform is small and fills up fast between 9am and 11pm
 
-Since this spot is genuinely one of Kaohsiung's most-visited viewpoints, don't expect solitude at peak hours — the trade-off for that photo is sharing the railing with everyone else who wants it too.
+Since this spot is genuinely one of Kaohsiung's most-visited viewpoints, don't expect solitude at peak hours. The trade-off for that photo is sharing the railing with everyone else who wants it too.
 
 ## Nearby to pair with your visit
 

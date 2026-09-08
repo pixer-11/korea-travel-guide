@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yilan-lanyang-museum
-srcHash: '8a5192492b97'
+srcHash: '1a83dff186b4'
 title: 'Museo Lanyang: guía de viaje de Yilan (4,4★)'
 description: 'El Museo Lanyang se alza junto a los antiguos humedales del puerto de Wushi, en el municipio de Toucheng, con una fachada inclinada, a modo de acantilado, que parece brotar directamente de un estanque reflectante. 4,4★ (22.695 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Lanyang se alza junto a los antiguos humedales del puerto de Wushi, en el municipio de Toucheng, con una fachada inclinada, a modo de acantilado, que parece brotar directamente de un estanque reflectante. Abre todos los días de 9:00 a 17:00, excepto los miércoles, y los fines de semana la afluencia se dispara entre las 10:00 y las 17:00, así que lo ideal es ir un día laborable justo a la apertura. Conviene reservar entre dos y tres horas para recorrer las tres plantas y el paseo elevado sobre el humedal.

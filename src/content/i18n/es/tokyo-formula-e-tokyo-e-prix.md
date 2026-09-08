@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-formula-e-tokyo-e-prix
-srcHash: '710785f486af'
+srcHash: 'b2e88ac41505'
 title: 'Fórmula E Tokyo E-Prix 2026: ubicación del circuito, fechas y cómo llegar'
 description: El Tokyo E-Prix de Fórmula E estaba previsto para el 25 y 26 de julio de 2026 en el Tokyo Street Circuit, con entrenamientos, clasificación y carrera repartidos en dos jornadas.
 quickAnswer: El Tokyo E-Prix de Fórmula E estaba previsto para el 25 y 26 de julio de 2026 en el Tokyo Street Circuit, un trazado temporal sobre calles públicas cerradas en el centro de Tokio, en la zona de Odaiba, frente al mar, o en el distrito financiero central. El programa de dos días incluía entrenamientos, clasificación y la carrera principal del E-Prix.

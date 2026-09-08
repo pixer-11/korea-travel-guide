@@ -1,5 +1,5 @@
 ---
-srcHash: 'e1fbb4ee5cbf'
+srcHash: '6d199e5f4e19'
 lang: ja
 slug: labuan-bajo-mimamori-cafe-labuan-bajo
 title: 'MIMAMORI CAFE(ミマモリ カフェ):ラブアンバジョ旅行ガイド'

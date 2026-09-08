@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nara-todai-ji
-srcHash: '00fd980eacc6'
+srcHash: '0a3559a15fee'
 title: 'Tōdai-ji: Guía de viaje de Nara'
 description: Tōdai-ji es el templo imprescindible de Nara, hogar del Daibutsu (Gran Buda), una de las estatuas de bronce más grandes de Japón, albergada en el Daibutsuden, uno de los edificios de madera más grandes del mundo.
 quickAnswer: Tōdai-ji es el templo imprescindible de Nara, hogar del Daibutsu (Gran Buda), una de las estatuas de bronce más grandes de Japón, albergada en el Daibutsuden, uno de los edificios de madera más grandes del mundo. Reserva entre 1,5 y 2 horas, llega temprano para evitar a los grupos turísticos y a los ciervos, y combina la visita con un paseo por el Parque de Nara (Nara Park). Se llega fácilmente caminando entre 20 y 25 minutos, o en un corto trayecto en autobús, desde las estaciones de JR Nara o Kintetsu Nara.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-plk-stade-de-france-concerts
-srcHash: 'bf51a88b28d2'
+srcHash: '918f683ceb10'
 title: PLK法兰西大球场演唱会须知（巴黎）
 description: PLK原定于2026年9月4日至5日连续两晚登台圣但尼（Saint-Denis）的法兰西大球场（Stade de France）。这两场演出涉及哪些安排，以及这座场馆的运作方式如何，本文一一道来。
 quickAnswer: PLK原定于2026年9月4日至5日在法兰西大球场连开两场——对于这位从未刻意迎合主流、却在法国拿下最高流媒体数据之一的说唱歌手来说，这是一个里程碑式的时刻。球场坐落在巴黎市中心以北的圣但尼，RER B线和RER D线两个车站分列两侧，从任一车站步行到场馆大门都用不了多久。具体开场时间、开门时间和票价并未包含在官方公告中，门票通过PLK的艺人渠道及球场的官方票务合作方发售。

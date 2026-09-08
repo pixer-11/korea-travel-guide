@@ -63,23 +63,23 @@ aiGenerated: true
 
 ## Why go
 
-Pompeii isn't a ruin in the usual sense — it's an entire Roman city frozen mid-day, sealed under volcanic ash and pumice when Vesuvius erupted in 79 AD. Streets, bakeries, brothels, temples, gladiator barracks, and private villas with intact frescoes and mosaics all survive because the eruption smothered rather than destroyed them. With a 4.7 rating across more than 85,000 reviews, it's one of the most consistently praised sites in Italy, and it remains the best place on earth to see how an ordinary Roman city actually functioned — down to the wheel ruts worn into the stone streets and the fast-food counters (thermopolia) still lining them.
+Pompeii isn't a ruin in the usual sense (it's an entire Roman city frozen mid-day, sealed under volcanic ash and pumice when Vesuvius erupted in 79 AD. Streets, bakeries, brothels, temples, gladiator barracks, and private villas with intact frescoes and mosaics all survive because the eruption smothered rather than destroyed them. With a 4.7 rating across more than 85,000 reviews, it's one of the most consistently praised sites in Italy, and it remains the best place on earth to see how an ordinary Roman city actually functioned) down to the wheel ruts worn into the stone streets and the fast-food counters (thermopolia) still lining them.
 
 ## Getting there from Naples
 
-The easiest route is the Circumvesuviana train from Napoli Centrale (or Napoli Porta Nolana) toward Sorrento — get off at the "Pompei Scavi – Villa dei Misteri" stop, which sits right at the park's main entrance. The ride takes roughly 30-40 minutes and runs frequently through the day. This is different from the regular "Pompei" stop on the Naples–Salerno regional line, which drops you in the modern town center, a longer walk from the site — Circumvesuviana is the one you want.
+The easiest route is the Circumvesuviana train from Napoli Centrale (or Napoli Porta Nolana) toward Sorrento (get off at the "Pompei Scavi – Villa dei Misteri" stop, which sits right at the park's main entrance. The ride takes roughly 30-40 minutes and runs frequently through the day. This is different from the regular "Pompei" stop on the Naples–Salerno regional line, which drops you in the modern town center, a longer walk from the site) Circumvesuviana is the one you want.
 
 Drivers can use the Pompei Ovest exit off the A3 motorway; there are paid car parks near the Porta Marina and Piazza Anfiteatro entrances.
 
-There are three entrances — Porta Marina, Piazza Esedra, and Piazza Anfiteatro — but Porta Marina (nearest the Circumvesuviana stop) is the classic starting point and puts you closest to the Forum.
+There are three entrances (Porta Marina, Piazza Esedra, and Piazza Anfiteatro), but Porta Marina (nearest the Circumvesuviana stop) is the classic starting point and puts you closest to the Forum.
 
 ## What to see
 
-The site is vast — about 66 hectares, of which roughly two-thirds have been excavated — so prioritize rather than try to see everything:
+The site is vast (about 66 hectares, of which roughly two-thirds have been excavated), so prioritize rather than try to see everything:
 
 - **Forum**: the civic and religious heart of the city, flanked by the Temple of Jupiter and the Basilica.
 - **Casa del Fauno** and **Casa dei Vettii**: two of the best-preserved patrician houses, with vivid frescoes and mosaic floors (the House of the Vettii's mythological wall paintings are among the finest in Pompeii).
-- **Lupanar**: the city's brothel, with explicit frescoes — one of the most-visited (and queued-for) small buildings on site.
+- **Lupanar**: the city's brothel, with explicit frescoes, one of the most-visited (and queued-for) small buildings on site.
 - **Amphitheatre**: one of the oldest surviving Roman amphitheatres, older than the Colosseum, used for gladiator games.
 - **Terme Stabiane** and the **Forum Baths**: public bathing complexes showing Roman engineering for heating water and floors.
 - **Garden of the Fugitives** and the **plaster body casts**: haunting casts made from voids left by victims, showing the final positions of people caught in the eruption.
@@ -89,9 +89,9 @@ Give yourself a minimum of three to four hours; serious history travelers often 
 
 ## When to go and practical tips
 
-Arrive at opening time (check current hours before you go, as they shift seasonally) to avoid both tour-group crowds and the punishing midday sun — there's almost no shade across most of the site. Spring (April-May) and early autumn (September-October) offer the most comfortable walking temperatures; midsummer heat on unshaded volcanic stone can be brutal by early afternoon. Bring water, sun protection, and sturdy shoes, since original Roman paving is uneven and slippery when worn smooth.
+Arrive at opening time (check current hours before you go, as they shift seasonally) to avoid both tour-group crowds and the punishing midday sun. There's almost no shade across most of the site. Spring (April-May) and early autumn (September-October) offer the most comfortable walking temperatures; midsummer heat on unshaded volcanic stone can be brutal by early afternoon. Bring water, sun protection, and sturdy shoes, since original Roman paving is uneven and slippery when worn smooth.
 
-Buy tickets online in advance where possible — lines at the gate can be long, especially on weekends and holidays. A combined ticket sometimes covers Pompeii, Herculaneum, and other Vesuvian sites within a set validity window, which is worth it if you're doing more than one.
+Buy tickets online in advance where possible, lines at the gate can be long, especially on weekends and holidays. A combined ticket sometimes covers Pompeii, Herculaneum, and other Vesuvian sites within a set validity window, which is worth it if you're doing more than one.
 
 ## Nearby & tips
 

@@ -94,9 +94,9 @@ updatedDate: '2026-09-05'
 
 ## Why Gajah Mada Food Street Matters
 
-Jakarta's food-court culture usually means air-conditioned mall basements, but Gajah Mada Food Street flips that script with an open-air, semi-covered courtyard lined with independent stalls and long communal tables. It sits on Jl. Gajah Mada, the old commercial spine connecting Central Jakarta to the historic Glodok and Pancoran Chinatown district in West Jakarta (Kecamatan Taman Sari). The address puts it right in the Krukut neighborhood, an area layered with colonial-era shophouses, temples, and decades-old eateries — so the food street works as both a dinner destination and a jumping-off point for exploring one of the city's oldest quarters.
+Jakarta's food-court culture usually means air-conditioned mall basements, but Gajah Mada Food Street flips that script with an open-air, semi-covered courtyard lined with independent stalls and long communal tables. It sits on Jl. Gajah Mada, the old commercial spine connecting Central Jakarta to the historic Glodok and Pancoran Chinatown district in West Jakarta (Kecamatan Taman Sari). The address puts it right in the Krukut neighborhood, an area layered with colonial-era shophouses, temples, and decades-old eateries, so the food street works as both a dinner destination and a jumping-off point for exploring one of the city's oldest quarters.
 
-With a 4.5 rating from close to 2,900 reviews, it's firmly established on Jakarta's dining map — not a hidden find, but a dependable, well-known gathering spot for a casual night out with a broad crowd of regulars, families, and after-work groups.
+With a 4.5 rating from close to 2,900 reviews, it's firmly established on Jakarta's dining map, not a hidden find, but a dependable, well-known gathering spot for a casual night out with a broad crowd of regulars, families, and after-work groups.
 
 ## Getting There
 
@@ -106,19 +106,19 @@ If you're coming from the TransJakarta busway network, corridors running along G
 
 ## What to Eat
 
-Expect an "upmarket outdoor food court" format: a rotating lineup of stalls under one roofed, open-sided structure, rather than a single kitchen. The strength here is variety — expect stalls doing Chinese-Indonesian classics (think kwetiau goreng, bebek/babi panggang-style dishes typical of Jakarta's Chinatown food scene), Indonesian standards like sate and nasi campur, plus grilled seafood and Western-leaning options for mixed groups.
+Expect an "upmarket outdoor food court" format: a rotating lineup of stalls under one roofed, open-sided structure, rather than a single kitchen. The strength here is variety. Expect stalls doing Chinese-Indonesian classics (think kwetiau goreng, bebek/babi panggang-style dishes typical of Jakarta's Chinatown food scene), Indonesian standards like sate and nasi campur, plus grilled seafood and Western-leaning options for mixed groups.
 
-Cold beer service is a defining feature (uncommon at many Jakarta food courts), which is part of why it draws an evening crowd rather than a lunch one. Price level sits in the mid-range (moderate) bracket — plan for a step up from a street-side warung but well below a sit-down restaurant, and confirm current menu prices at the stall since food-court vendors set their own.
+Cold beer service is a defining feature (uncommon at many Jakarta food courts), which is part of why it draws an evening crowd rather than a lunch one. Price level sits in the mid-range (moderate) bracket. Plan for a step up from a street-side warung but well below a sit-down restaurant, and confirm current menu prices at the stall since food-court vendors set their own.
 
 ## When to Go
 
-This is fundamentally a dinner destination — the open-air seating and beer-forward atmosphere come alive after dark, roughly from early evening onward. Jakarta's tropical climate means daytime heat makes the uncovered sections less comfortable at midday, so evenings (and the relative cool after sunset) are when the space is most pleasant. Weekends draw the heaviest crowds and longest waits for tables; if your schedule allows, a weeknight visit gets you the same food with more breathing room.
+This is fundamentally a dinner destination. The open-air seating and beer-forward atmosphere come alive after dark, roughly from early evening onward. Jakarta's tropical climate means daytime heat makes the uncovered sections less comfortable at midday, so evenings (and the relative cool after sunset) are when the space is most pleasant. Weekends draw the heaviest crowds and longest waits for tables; if your schedule allows, a weeknight visit gets you the same food with more breathing room.
 
 ## How to visit like a local
 
-Since this is a well-known, well-reviewed spot rather than an under-the-radar one, the practical challenge is crowd management, not discovery. Arrive by 6:30–7 pm on a weeknight to snag a table before the after-work and dinner rush fills the communal seating. Tables are shared-style — it's normal to sit near strangers, so don't wait for a private table to open up.
+Since this is a well-known, well-reviewed spot rather than an under-the-radar one, the practical challenge is crowd management, not discovery. Arrive by 6:30–7 pm on a weeknight to snag a table before the after-work and dinner rush fills the communal seating. Tables are shared-style. It's normal to sit near strangers, so don't wait for a private table to open up.
 
-Order at each stall individually rather than expecting one central menu; cash is still commonly used at smaller stalls, though many now accept QRIS mobile payment or cards, so carry some rupiah as backup. Tipping isn't standard practice at Indonesian food courts — round up or leave small change if service was notably good, but it's not expected. The most common visitor mistake is treating it like a single restaurant with one bill: keep track of what you order at each stall, since payment is typically settled per vendor, not at a central counter.
+Order at each stall individually rather than expecting one central menu; cash is still commonly used at smaller stalls, though many now accept QRIS mobile payment or cards, so carry some rupiah as backup. Tipping isn't standard practice at Indonesian food courts, round up or leave small change if service was notably good, but it's not expected. The most common visitor mistake is treating it like a single restaurant with one bill: keep track of what you order at each stall, since payment is typically settled per vendor, not at a central counter.
 
-After eating, it's worth walking a few minutes into the surrounding Glodok/Pancoran area, one of the oldest Chinatowns in Southeast Asia, for dessert or a look at nearby temples and old shophouse architecture — a natural extension of the same night out.
+After eating, it's worth walking a few minutes into the surrounding Glodok/Pancoran area, one of the oldest Chinatowns in Southeast Asia, for dessert or a look at nearby temples and old shophouse architecture, a natural extension of the same night out.
 

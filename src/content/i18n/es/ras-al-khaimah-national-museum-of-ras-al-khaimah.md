@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-national-museum-of-ras-al-khaimah
-srcHash: '74612b33a1f6'
+srcHash: 'ff1da6866bb2'
 title: 'Museo Nacional de Ras Al Khaimah: Guía de viaje (4,3★)'
 description: 'El Museo Nacional de Ras Al Khaimah ocupa el antiguo fuerte de los Qawasim en el casco antiguo de RAK (Old Town), abierto de martes a domingo de 8:00 a 18:00 (cerrado los lunes). 4,3★ (1.591 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Ras Al Khaimah ocupa el antiguo fuerte de los Qawasim en el casco antiguo de RAK (Old Town), abierto de martes a domingo de 8:00 a 18:00 (cerrado los lunes). Conviene reservar entre 45 y 60 minutos para recorrer sus salas de bloques de coral, dedicadas a las herramientas de perlería, las armas y la arqueología. Lo mejor es ir temprano en una mañana de entre semana, cuando el patio todavía está tranquilo y la luz aún no ha convertido los muros de piedra en un horno.

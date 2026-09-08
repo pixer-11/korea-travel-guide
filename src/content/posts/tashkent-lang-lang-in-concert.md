@@ -67,13 +67,13 @@ draft: true
 
 ## Why this concert matters
 
-Lang Lang doesn't tour through Central Asia often, which is exactly why this date has been circulating on Tashkent's cultural calendars. He's one of the few classical pianists whose name draws a crowd well beyond regular concertgoers — casual listeners, piano students, and diplomats alike tend to show up for these dates. A September 6, 2026 stop in Tashkent puts the city on a very short list of regional tour cities for a performer of his stature.
+Lang Lang doesn't tour through Central Asia often, which is exactly why this date has been circulating on Tashkent's cultural calendars. He's one of the few classical pianists whose name draws a crowd well beyond regular concertgoers, casual listeners, piano students, and diplomats alike tend to show up for these dates. A September 6, 2026 stop in Tashkent puts the city on a very short list of regional tour cities for a performer of his stature.
 
 ## Likely venue and what to expect
 
 Tashkent has two rooms built for a concert of this scale: the Uzbekistan State Conservatory's main hall and the State Academic Bolshoi Theatre, both in the city center near Amir Timur Square. Either would suit a solo piano recital or a piano-with-orchestra program, which is Lang Lang's usual format on tour.
 
-Expect a night that runs a little over two hours with an intermission, heavy on Chopin, Liszt, or a concerto with a local or touring orchestra. None of this is guaranteed for this specific date — treat it as the pattern his tours usually follow, not a confirmed program.
+Expect a night that runs a little over two hours with an intermission, heavy on Chopin, Liszt, or a concerto with a local or touring orchestra. None of this is guaranteed for this specific date, treat it as the pattern his tours usually follow, not a confirmed program.
 
 ## Getting there and around
 
@@ -93,11 +93,11 @@ Confirm timing and tickets on the official site of the promoter or the listed ve
 
 ## How to visit like a local
 
-Tashkent concertgoers dress a notch smarter than casual for evenings at the Conservatory or Bolshoi Theatre — think smart-casual rather than jeans and sneakers. Arrive twenty to thirty minutes early: doors and seating checks can take a while when a big-name international act draws a full house.
+Tashkent concertgoers dress a notch smarter than casual for evenings at the Conservatory or Bolshoi Theatre, think smart-casual rather than jeans and sneakers. Arrive twenty to thirty minutes early: doors and seating checks can take a while when a big-name international act draws a full house.
 
 Cash is still widely used in Uzbekistan, but cards and mobile payment apps like Payme or Click are increasingly accepted at venue kiosks and nearby cafés. Tipping isn't expected inside the concert hall itself.
 
-If you want a pre-show meal, skip the tourist strip near the square and walk a few minutes further into the surrounding streets, where local plov and shashlik spots serve the same evening crowd without the markup. Locals also tend to linger outside after the show rather than rush the metro immediately — a good moment to take in the square's fountains and lit facades before the crowd disperses.
+If you want a pre-show meal, skip the tourist strip near the square and walk a few minutes further into the surrounding streets, where local plov and shashlik spots serve the same evening crowd without the markup. Locals also tend to linger outside after the show rather than rush the metro immediately. A good moment to take in the square's fountains and lit facades before the crowd disperses.
 
 ## Nearby things to fill your day
 

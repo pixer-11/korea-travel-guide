@@ -41,15 +41,15 @@ The chef trained under Joël Robuchon, and it shows in the way dishes are plated
 
 Changkat Bukit Bintang is KL's classic night-out strip, lined with terrace bars and restaurants that spill onto the pavement after dark. NIJI occupies a standalone building here rather than a shoplot unit, which gives it room to spread across multiple levels.
 
-You move between a ground-floor dining room, upper seating, and an open-air terrace depending on the night and the mood you're after. That terrace is worth asking for if the KL evening humidity has broken and there's a breeze — it turns dinner into people-watching over the street below.
+You move between a ground-floor dining room, upper seating, and an open-air terrace depending on the night and the mood you're after. That terrace is worth asking for if the KL evening humidity has broken and there's a breeze, it turns dinner into people-watching over the street below.
 
 ## What to expect at the table
 
-The kitchen's signature move is air-freighting fish rather than relying on local supply, which is the backbone of any serious modern sushi program. Layered onto that is a fusion sensibility — expect nigiri and sashimi, but also cooked dishes that borrow French plating logic and technique.
+The kitchen's signature move is air-freighting fish rather than relying on local supply, which is the backbone of any serious modern sushi program. Layered onto that is a fusion sensibility. Expect nigiri and sashimi, but also cooked dishes that borrow French plating logic and technique.
 
 Because the menu leans premium and specifics shift with what's flown in that week, don't go in expecting fixed set prices or a printed menu you can look up in advance. Ask your server what's freshest that day; at a place built around air-freighted fish, the daily catch is the real menu.
 
-- Come hungry for both raw and cooked courses — this isn't a sashimi-only counter
+- Come hungry for both raw and cooked courses. This isn't a sashimi-only counter
 - Expect a fusion, chef-driven approach rather than a strict traditional izakaya format
 - Save room to explore the drinks list; izakaya-style venues in KL usually pair sake and shochu with the food
 
@@ -57,7 +57,7 @@ Because the menu leans premium and specifics shift with what's flown in that wee
 
 NIJI sits on Changkat Bukit Bintang, walkable from the Bukit Bintang monorail station and a short stroll from Pavilion KL and the Bintang Walk shopping strip. Most visitors combine it with an evening out along Changkat rather than a standalone daytime trip.
 
-Grab, KL's dominant ride-hailing app, is the easiest way in if you're coming from further out, since parking along Changkat itself is tight on weekend nights. Given it's a newly opened, fast-trending restaurant, hours and table availability can shift — confirm both directly with NIJI or through its booking channel before you go.
+Grab, KL's dominant ride-hailing app, is the easiest way in if you're coming from further out, since parking along Changkat itself is tight on weekend nights. Given it's a newly opened, fast-trending restaurant, hours and table availability can shift, confirm both directly with NIJI or through its booking channel before you go.
 
 ## How to visit like a local
 
@@ -65,9 +65,9 @@ Book ahead rather than walking in. New, buzzy openings in this part of KL fill u
 
 Weeknight dinners, especially earlier in the evening, are your best shot at a quieter table and unhurried service from a kitchen that's clearly built for careful plating rather than speed. If you want the terrace specifically, say so when booking rather than hoping to snag it on arrival.
 
-Payment across KL's mid-range and upscale dining scene is overwhelmingly card and e-wallet friendly, though carrying some cash for smaller tabs or tips never hurts. Tipping isn't obligatory in Malaysia — restaurants typically already add a service charge — so check your bill before adding more.
+Payment across KL's mid-range and upscale dining scene is overwhelmingly card and e-wallet friendly, though carrying some cash for smaller tabs or tips never hurts. Tipping isn't obligatory in Malaysia, restaurants typically already add a service charge, so check your bill before adding more.
 
-Dress leans smart-casual for Changkat's dinner crowd; it's not black-tie, but flip-flops and beachwear will feel out of place in a room this considered. Treat the fusion menu as an invitation to ask questions — staff at a concept this new are generally used to explaining the day's fish and the reasoning behind less familiar dishes.
+Dress leans smart-casual for Changkat's dinner crowd; it's not black-tie, but flip-flops and beachwear will feel out of place in a room this considered. Treat the fusion menu as an invitation to ask questions. Staff at a concept this new are generally used to explaining the day's fish and the reasoning behind less familiar dishes.
 
 ## Nearby to pair with your visit
 

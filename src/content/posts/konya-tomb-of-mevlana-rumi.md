@@ -75,7 +75,7 @@ draft: false
 updatedDate: '2026-09-07'
 ---
 
-You spot the dome before you spot the entrance — a ribbed cone of turquoise tile rising above Karatay's rooftops, catching the light differently depending on whether it's 9am haze or late-afternoon sun. That's the Kubbe-i Hadra, the "Green Dome," and it marks the resting place of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose followers founded the Mevlevi order — the "whirling dervishes."
+You spot the dome before you spot the entrance (a ribbed cone of turquoise tile rising above Karatay's rooftops, catching the light differently depending on whether it's 9am haze or late-afternoon sun. That's the Kubbe-i Hadra, the "Green Dome," and it marks the resting place of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose followers founded the Mevlevi order) the "whirling dervishes."
 
 ## Why go
 
@@ -85,7 +85,7 @@ Inside, silver-railed sarcophagi belonging to Rumi, his father, and other key Me
 
 ## Getting there and what to expect
 
-The address is Aziziye, Şehit Nazım Bey Caddesi No:2, in Karatay — central Konya, walkable from most of the old city's hotels and from the Alaeddin Hill area. Tram lines running through the city center stop within a short walk; ask your hotel for the nearest stop, as routes get renumbered.
+The address is Aziziye, Şehit Nazım Bey Caddesi No:2, in Karatay, central Konya, walkable from most of the old city's hotels and from the Alaeddin Hill area. Tram lines running through the city center stop within a short walk; ask your hotel for the nearest stop, as routes get renumbered.
 
 Budget 60–90 minutes: 20–30 minutes for the mausoleum itself, the rest for the surrounding museum halls and gardens. Expect to remove your shoes before entering the tomb chamber, and to see visitors covering their heads out of respect even where it isn't strictly required.
 
@@ -93,25 +93,25 @@ Budget 60–90 minutes: 20–30 minutes for the mausoleum itself, the rest for t
 
 - **Opening hours:** Tuesday–Sunday 9:00am–4:40pm; Monday 10:00am–4:40pm
 - **Best window:** first hour after opening, before tour groups arrive from other Anatolian cities
-- **Best season:** spring or autumn — Konya's summer sun turns the courtyard stone into a griddle by midday
+- **Best season:** spring or autumn, Konya's summer sun turns the courtyard stone into a griddle by midday
 - **Seasonal bonus:** if you're here in mid-December, the Şeb-i Arus commemorations mark Rumi's death anniversary with citywide dervish ceremonies
 
-Because it closes at 4:40pm daily, don't plan this as a dusk visit — arrive with real daylight left.
+Because it closes at 4:40pm daily, don't plan this as a dusk visit. Arrive with real daylight left.
 
 ## What to see inside
 
 Beyond the main sarcophagus hall, slow down in these spots:
 
-- **The Semahane** — the former ceremonial hall, where whirling rituals once took place, now displaying instruments and dervish artifacts
-- **The dervish cells** — small rooms furnished to show how Mevlevi initiates actually lived
-- **The manuscript hall** — illuminated copies of the Masnavi and Divan-i Kebir, Rumi's major poetic works
-- **The garden courtyard** — a good spot to pause and look back up at the tiled dome before you leave
+- **The Semahane**, the former ceremonial hall, where whirling rituals once took place, now displaying instruments and dervish artifacts
+- **The dervish cells**, small rooms furnished to show how Mevlevi initiates actually lived
+- **The manuscript hall**, illuminated copies of the Masnavi and Divan-i Kebir, Rumi's major poetic works
+- **The garden courtyard**, a good spot to pause and look back up at the tiled dome before you leave
 
 ## How to visit like a local
 
-Come right at opening on a weekday rather than midday or weekend — this site sees far fewer international tourists than Istanbul's major sights, so an early slot often means having whole rooms to yourself. Dress modestly: shoulders and knees covered, and a headscarf for women is respectful, though enforcement varies.
+Come right at opening on a weekday rather than midday or weekend, this site sees far fewer international tourists than Istanbul's major sights, so an early slot often means having whole rooms to yourself. Dress modestly: shoulders and knees covered, and a headscarf for women is respectful, though enforcement varies.
 
-Move quietly near the sarcophagus chamber — this is an active site of reverence, not purely a museum stop, and you'll notice locals praying or reciting quietly beside the railings. Photography is generally tolerated in the outer halls but be discreet and avoid flash near the tomb itself.
+Move quietly near the sarcophagus chamber. This is an active site of reverence, not purely a museum stop, and you'll notice locals praying or reciting quietly beside the railings. Photography is generally tolerated in the outer halls but be discreet and avoid flash near the tomb itself.
 
 Most visitors pair this with a walk through Karatay's old quarter or the nearby Karatay Medrese, so there's no need to rush straight back out. If you want context beforehand, reading even a short primer on Rumi's poetry and the Mevlevi order's history transforms the visit from "nice old building" into something considerably more affecting.
 

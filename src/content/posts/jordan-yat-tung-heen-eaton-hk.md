@@ -97,7 +97,7 @@ updatedDate: '2026-09-05'
 
 ## Why go
 
-You come to Yat Tung Heen for the kind of Cantonese cooking that takes decades to get right. It's on Level B2 of Eaton HK, one flight down from the Nathan Road traffic, and the contrast is immediate — hushed, dim-lit, waiters in crisp uniforms gliding between rosewood-toned tables.
+You come to Yat Tung Heen for the kind of Cantonese cooking that takes decades to get right. It's on Level B2 of Eaton HK, one flight down from the Nathan Road traffic, and the contrast is immediate, hushed, dim-lit, waiters in crisp uniforms gliding between rosewood-toned tables.
 
 This isn't a place chasing trends. The menu leans on double-boiled soups, barbecued meats glistening under warm light, and a tea list long enough that someone will need to walk you through it.
 
@@ -110,17 +110,17 @@ Dim sum is the reason most people book. Go for:
 - Roast goose, carved tableside if you order in advance
 - Double-boiled soup of the day, usually chalked up seasonally
 
-Portions are generous by Hong Kong dim-sum standards, and the kitchen doesn't rush the barbecue meats — you can taste the extra time in the lacquered skin.
+Portions are generous by Hong Kong dim-sum standards, and the kitchen doesn't rush the barbecue meats. You can taste the extra time in the lacquered skin.
 
 ## Getting there
 
 The restaurant sits inside Eaton HK at 380 Nathan Road, in Jordan. Take the MTR to Jordan Station (Tsuen Wan Line) and use Exit C2, which puts you almost directly outside the hotel entrance.
 
-Walk into the lobby and head down to Level B2 — staff at the door can point you to the lift if you miss the signage. From Tsim Sha Tsui, it's a fifteen-minute walk up Nathan Road past the neon-lit shopfronts if you'd rather stroll than ride.
+Walk into the lobby and head down to Level B2. Staff at the door can point you to the lift if you miss the signage. From Tsim Sha Tsui, it's a fifteen-minute walk up Nathan Road past the neon-lit shopfronts if you'd rather stroll than ride.
 
 ## When to go
 
-Lunch runs 11am to 4pm on weekdays, and opens an hour earlier — 10am — on Saturdays and Sundays. Dinner service is 6pm to 10:30pm every day.
+Lunch runs 11am to 4pm on weekdays, and opens an hour earlier, 10am, on Saturdays and Sundays. Dinner service is 6pm to 10:30pm every day.
 
 Weekend crowds build fast: the busiest stretch runs from noon straight through to 10pm, so a walk-in during that window usually means a wait. The measured quiet spot is 10am to 11am on weekends, right after opening, when tables are still empty and the tea hasn't gone cold twice yet.
 
@@ -132,14 +132,14 @@ Book ahead. This is a well-known dining room inside a hotel that draws both gues
 
 - Call or book online at least a day ahead for weekend lunch
 - Arrive right at 10am on Saturday or Sunday if you want the room to yourself for a bit
-- Order roast goose or other whole-bird dishes in advance — they're not something the kitchen fires on the spot
+- Order roast goose or other whole-bird dishes in advance. They're not something the kitchen fires on the spot
 - Expect card and mobile payment to be standard; cash isn't necessary
 - A service charge is typically added to the bill, so extra tipping isn't expected
 
-Don't rush the tea. Part of the ritual here is picking a variety — pu-erh and oolong are safe, classic choices — and letting the waiter walk you through steeping times rather than treating it as an afterthought.
+Don't rush the tea. Part of the ritual here is picking a variety (pu-erh and oolong are safe, classic choices), and letting the waiter walk you through steeping times rather than treating it as an afterthought.
 
 The mistake visitors most often make is treating this like a quick hotel breakfast stop. Yat Tung Heen rewards a slower pace: two hours for a proper dim sum lunch, longer if you're working through a multi-course dinner with roast meats and soup.
 
 ## Nearby, after you eat
 
-Once you're back at street level, Nathan Road's stretch of Jordan is dense with things to fold into the same afternoon. The Jade Market is a short walk north, and Temple Street's night market comes alive a few blocks over once the sun drops — useful if you've timed a late lunch here and want somewhere to walk it off before dinner elsewhere.
+Once you're back at street level, Nathan Road's stretch of Jordan is dense with things to fold into the same afternoon. The Jade Market is a short walk north, and Temple Street's night market comes alive a few blocks over once the sun drops, useful if you've timed a late lunch here and want somewhere to walk it off before dinner elsewhere.

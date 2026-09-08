@@ -89,7 +89,7 @@ updatedDate: '2026-08-30'
 
 ## Why MUSEUM 1 stands out in Haeundae
 
-Centum City isn't where most visitors expect to find a serious art stop — it's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate.
+Centum City isn't where most visitors expect to find a serious art stop. It's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate.
 
 You notice the light first: large windows filter it across polished concrete floors, throwing soft shadows over whatever installation happens to be filling the main hall that season.
 
@@ -97,24 +97,24 @@ With a rating around 4.3 from well over a thousand visitors, it's clearly doing 
 
 ## Getting there
 
-The museum sits at 20 Centum-seo-ro in Haeundae-gu, right in the Centum City complex. The easiest approach is Busan Metro Line 2 to Centum City Station — take the exit that feeds directly into the underground concourse connecting to Shinsegae department store, and you can walk there almost entirely indoors, which matters if it's raining or during Busan's humid summer months. From Haeundae Beach itself it's a short taxi ride or a couple of stops on the metro, so it pairs naturally with a beach morning and a museum afternoon.
+The museum sits at 20 Centum-seo-ro in Haeundae-gu, right in the Centum City complex. The easiest approach is Busan Metro Line 2 to Centum City Station. Take the exit that feeds directly into the underground concourse connecting to Shinsegae department store, and you can walk there almost entirely indoors, which matters if it's raining or during Busan's humid summer months. From Haeundae Beach itself it's a short taxi ride or a couple of stops on the metro, so it pairs naturally with a beach morning and a museum afternoon.
 
 ## What you'll actually see
 
-Expect rotating contemporary exhibitions — photography, installation work, design-focused shows — rather than a static permanent collection you might associate with older, encyclopedic museums. The galleries are arranged so you move through distinct rooms rather than one sprawling open floor, which keeps each show feeling contained and considered. Give yourself a good 90 minutes to two hours if you want to actually read the wall text and sit with the bigger installation pieces rather than speed-walk the halls.
+Expect rotating contemporary exhibitions (photography, installation work, design-focused shows) rather than a static permanent collection you might associate with older, encyclopedic museums. The galleries are arranged so you move through distinct rooms rather than one sprawling open floor, which keeps each show feeling contained and considered. Give yourself a good 90 minutes to two hours if you want to actually read the wall text and sit with the bigger installation pieces rather than speed-walk the halls.
 
-Because the program changes, it's worth checking what's currently on before you go — the building's appeal is consistent, but the specific draw shifts show to show.
+Because the program changes, it's worth checking what's currently on before you go. The building's appeal is consistent, but the specific draw shifts show to show.
 
 ## When to go
 
-The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–7pm stretch, so there's no real rush hour to dodge. Weekends are a different story — the museum runs quieter from 10am to 8pm overall, but a distinct crush builds between noon and 6pm as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
+The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–7pm stretch, so there's no real rush hour to dodge. Weekends are a different story. The museum runs quieter from 10am to 8pm overall, but a distinct crush builds between noon and 6pm as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
 
 ## Pairing it with the neighborhood
 
-Because MUSEUM 1 sits inside the Centum City complex, it's easy to build a half-day around it. Shinsegae Centum City Mall — with its rooftop park, ice rink, and spa — is essentially next door, and BEXCO convention center is a short walk away if there's an event or design fair running concurrently. Haeundae Beach and the restaurant strips around it are close enough for dinner afterward, making this a sensible rainy-day or midday slot in a Haeundae-based itinerary rather than a destination requiring its own dedicated trip across town.
+Because MUSEUM 1 sits inside the Centum City complex, it's easy to build a half-day around it. Shinsegae Centum City Mall (with its rooftop park, ice rink, and spa) is essentially next door, and BEXCO convention center is a short walk away if there's an event or design fair running concurrently. Haeundae Beach and the restaurant strips around it are close enough for dinner afterward, making this a sensible rainy-day or midday slot in a Haeundae-based itinerary rather than a destination requiring its own dedicated trip across town.
 
 ## How to visit like a local
 
-Buy your ticket at the counter or through the museum's own kiosk rather than expecting elaborate advance-booking machinery — this isn't a blockbuster touring show requiring timed entry, so walk-ins are normal. Payment leans heavily toward card and mobile pay (T-money and phone tap are everywhere in Busan), though it's sensible to carry a little cash as backup for smaller counters nearby.
+Buy your ticket at the counter or through the museum's own kiosk rather than expecting elaborate advance-booking machinery. This isn't a blockbuster touring show requiring timed entry, so walk-ins are normal. Payment leans heavily toward card and mobile pay (T-money and phone tap are everywhere in Busan), though it's sensible to carry a little cash as backup for smaller counters nearby.
 
-There's no tipping expected anywhere in Korean museums or cafés. The most common mistake visitors make is treating this as a quick five-minute detour between shopping stops — the exhibitions reward slower looking, and arriving with an hour or two set aside rather than squeezing it between mall errands changes the experience considerably. If you want the building closest to empty, weekday mornings right after opening are your best window, before school groups and shoppers on lunch break start filtering through.
+There's no tipping expected anywhere in Korean museums or cafés. The most common mistake visitors make is treating this as a quick five-minute detour between shopping stops, the exhibitions reward slower looking, and arriving with an hour or two set aside rather than squeezing it between mall errands changes the experience considerably. If you want the building closest to empty, weekday mornings right after opening are your best window, before school groups and shoppers on lunch break start filtering through.

@@ -53,7 +53,7 @@ Below the surface, fringing coral reefs wrap much of the coastline, which is why
 
 Most visitors reach Tioman by ferry from Mersing or Tanjung Gemok on the Pahang/Johor coast, a crossing of roughly one to two and a half hours depending on the jetty and sea conditions. There's also a small airport with occasional flights from Kuala Lumpur or Singapore, useful if you want to skip the boat entirely.
 
-Ferries drop passengers at several jetties around the island — Kampung Tekek, Air Batang (ABC), Salang and Genting are the main ones. Pick your jetty based on where you're staying, since road links between villages are limited and boat taxis or short jungle trails fill the gaps.
+Ferries drop passengers at several jetties around the island, Kampung Tekek, Air Batang (ABC), Salang and Genting are the main ones. Pick your jetty based on where you're staying, since road links between villages are limited and boat taxis or short jungle trails fill the gaps.
 
 ## What to see and do
 
@@ -69,7 +69,7 @@ Diving here draws a genuinely international crowd, and most operators are set up
 
 ## When to go
 
-The best window runs from March to October, outside the northeast monsoon that brings rough seas and reduced ferry schedules from roughly November to February. Some resorts and dive operators scale back or close entirely during the monsoon months, so this isn't just a comfort preference — it affects what's actually open.
+The best window runs from March to October, outside the northeast monsoon that brings rough seas and reduced ferry schedules from roughly November to February. Some resorts and dive operators scale back or close entirely during the monsoon months, so this isn't just a comfort preference, it affects what's actually open.
 
 Within the dry season, June to August tends to be busiest with school-holiday travelers from Malaysia and Singapore. Shoulder months like April, May, September and October give you calmer crowds with similarly good conditions.
 
@@ -79,9 +79,9 @@ Tioman is well-known enough now that peak-season beaches and dive boats fill up,
 
 - Book ferries and popular dive trips a few days ahead in July and August
 - Pay dive operators and homestays in cash (ringgit); card acceptance is patchy outside the larger resorts
-- Wear reef-safe sunscreen and rinse off before swimming — the coral here is genuinely fragile and easily damaged by sunscreen runoff
+- Wear reef-safe sunscreen and rinse off before swimming. The coral here is genuinely fragile and easily damaged by sunscreen runoff
 - Use the jungle trail between villages instead of always paying for a boat taxi; it's free, scenic and well-marked
-- Respect the marine park rules — Tioman sits within a protected marine park, and touching or standing on coral is discouraged everywhere, not just at signposted sites
+- Respect the marine park rules, Tioman sits within a protected marine park, and touching or standing on coral is discouraged everywhere, not just at signposted sites
 - Bring a printed or downloaded ferry schedule, since departures can shift with weather and aren't always posted clearly online
 
 Tourists most often underestimate how limited infrastructure is between villages, expecting continuous roads and shops. Pack essentials with you when you head to quieter beaches, and don't assume every jetty has an ATM or a reliable food stall.

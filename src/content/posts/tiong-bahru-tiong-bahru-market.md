@@ -58,7 +58,7 @@ Downstairs, vendors hack up fish, stack mangosteens and sell cut chicken to gran
 
 The market sits at 30 Seng Poh Road, in the heart of the low-rise Tiong Bahru estate.
 
-- **Nearest MRT**: Tiong Bahru Station (East-West Line), Exit A — about a 10-minute walk through the estate's Art Deco housing blocks.
+- **Nearest MRT**: Tiong Bahru Station (East-West Line), Exit A, about a 10-minute walk through the estate's Art Deco housing blocks.
 - **Alternative**: taxis and ride-hailing drop directly on Seng Poh Road, right outside.
 - Pair the trip with a wander through Tiong Bahru's famous flat blocks and independent bookshops nearby.
 
@@ -79,26 +79,26 @@ Portions are small and cheap by design, so ordering from three or four stalls an
 
 Even if you're not cooking, the ground floor is worth ten minutes. Butchers, fishmongers and produce sellers work fast, calling out prices and wrapping purchases in plastic in seconds flat.
 
-It smells of ice, citrus and raw seafood — a sharp contrast to the fried, smoky air upstairs. Go before mid-morning; stalls start closing or running low on stock as the day heats up.
+It smells of ice, citrus and raw seafood, a sharp contrast to the fried, smoky air upstairs. Go before mid-morning; stalls start closing or running low on stock as the day heats up.
 
 ## When to go
 
-Tiong Bahru Market is genuinely busy — it's one of the most-reviewed hawker centres in Singapore, and it earns that traffic. Weekday breakfast, roughly 7:30–9am, is your best window for a table and fresh cooking straight off the stove.
+Tiong Bahru Market is genuinely busy. It's one of the most-reviewed hawker centres in Singapore, and it earns that traffic. Weekday breakfast, roughly 7:30–9am, is your best window for a table and fresh cooking straight off the stove.
 
 Weekends bring a heavier crowd, including plenty of visitors doing exactly what you're doing. If you can only come later, aim for the early afternoon lull between the breakfast and lunch rushes, roughly 2–4pm, when queues thin out noticeably.
 
-Confirm individual stall hours before you go — most open early and some sell out and close once their day's batch is gone, which can be well before evening.
+Confirm individual stall hours before you go. Most open early and some sell out and close once their day's batch is gone, which can be well before evening.
 
 ## How to visit like a local
 
-Locals treat this as a fast, functional meal, not a leisurely sit-down — match that pace and you'll blend right in.
+Locals treat this as a fast, functional meal, not a leisurely sit-down, match that pace and you'll blend right in.
 
 - **Scout before you queue.** Walk the whole upper floor once to see what's fresh and what has a line, then decide.
-- **Save your seat first.** Place a packet of tissues on a table to "chope" (reserve) it before you order — this is standard practice islandwide.
+- **Save your seat first.** Place a packet of tissues on a table to "chope" (reserve) it before you order. This is standard practice islandwide.
 - **Pay in cash or local e-payment.** Many stalls take PayNow or cards now, but small notes and coins keep things quick.
 - **Order at the counter, not the table.** Staff will bring food to your seat once it's ready, but you queue and pay stall by stall.
-- **Skip peak lunch on weekends** if you want breathing room — that's when both tourists and estate residents converge at once.
+- **Skip peak lunch on weekends** if you want breathing room. That's when both tourists and estate residents converge at once.
 - **Don't expect air conditioning.** Ceiling fans keep it bearable, but it's an open-air hawker centre, so dress light.
 
-The most common mistake is treating it like a single restaurant with one bill. It's dozens of independent stalls under one roof — each is cash-in-hand, first-come-first-served, and proud of specializing in exactly one or two dishes done well.
+The most common mistake is treating it like a single restaurant with one bill. It's dozens of independent stalls under one roof. Each is cash-in-hand, first-come-first-served, and proud of specializing in exactly one or two dishes done well.
 

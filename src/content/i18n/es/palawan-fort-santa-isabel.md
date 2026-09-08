@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palawan-fort-santa-isabel
-srcHash: '5a0d4a6a309f'
+srcHash: '269ecec61166'
 title: 'Fuerte de Santa Isabel: Guía de viaje de Palawan (4,4★)'
 description: 'El Fuerte de Santa Isabel se alza sobre un pequeño promontorio en las afueras de la localidad de Taytay, en la costa norte de Palawan, y abre a diario de 8:00 a 16:30. 4,4★ (454 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Fuerte de Santa Isabel se alza sobre un pequeño promontorio en las afueras de la localidad de Taytay, en la costa norte de Palawan, y abre a diario de 8:00 a 16:30. Se trata de un modesto fuerte de piedra español del siglo XVII con amplias vistas sobre la bahía de Taytay: merece una visita de 30 a 45 minutos, y lo mejor es ir por la mañana, con la luz más fresca, antes de continuar rumbo a El Nido. Sigue siendo un lugar poco conocido, así que lo más probable es que tenga las murallas casi para usted solo.'

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: pasay-city-babymonster-choom-world-tour
-srcHash: '995184b1acb0'
+srcHash: 'd90d09cdf8b2'
 title: BABYMONSTER 'CHOOM' 월드투어 안내(파사이시)
 description: BABYMONSTER의 CHOOM 월드투어는 2026년 9월 5일 파사이시 SM 몰 오브 아시아 아레나에서 열릴 예정으로 발표되었습니다. 공연장, 교통편, 시간 등 발표된 내용을 정리했습니다.
 quickAnswer: BABYMONSTER의 CHOOM 월드투어는 2026년 9월 5일 파사이시 SM 몰 오브 아시아 아레나에서 열릴 예정으로 발표되었으며, 입장 시간은 오후 6시로 공지되었습니다. 티켓은 BABYMONSTER 공식 채널과 SM 티켓/공연장 판매처를 통해 판매되었으며, 티켓 등급 또한 이곳에서 함께 관리되었습니다.

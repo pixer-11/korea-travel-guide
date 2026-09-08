@@ -77,11 +77,11 @@ updatedDate: '2026-09-02'
 
 Yuexiu Park is where Guangzhou goes to breathe. Spread across three low hills in the northern part of the city, it mixes red-brick Ming-dynasty wall fragments, three interlinked lakes, and enough shaded footpaths that you can lose the traffic noise within five minutes of walking in.
 
-It's the largest park in the city, and locals treat it as a working green space rather than a tourist checkbox — badminton games, tai chi circles, and retirees fishing along Beixiu Lake are the norm, not a show put on for visitors.
+It's the largest park in the city, and locals treat it as a working green space rather than a tourist checkbox, badminton games, tai chi circles, and retirees fishing along Beixiu Lake are the norm, not a show put on for visitors.
 
 ## What to see
 
-The unmistakable symbol here is the Five Rams statue, a granite sculpture depicting the five goats said to have brought rice to a famine-stricken Guangzhou in legend — it's the reason the city carries the nickname "Goat City."
+The unmistakable symbol here is the Five Rams statue, a granite sculpture depicting the five goats said to have brought rice to a famine-stricken Guangzhou in legend. It's the reason the city carries the nickname "Goat City."
 
 Climb toward Zhenhai Tower, the five-story red pavilion built as part of the old city wall, now home to the Guangzhou Museum. Inside you'll find ceramics, old photographs, and exhibits tracing the city's Canton-era trade history.
 
@@ -89,33 +89,33 @@ Beyond the monuments, the appeal is the walking itself:
 
 - Zhenhai Tower and its surviving stretch of Ming-era wall
 - The Five Rams sculpture near the park's southern paths
-- Three connected lakes — Beixiu, Nanxiu, and Dongxiu — with paddle boats on the largest
+- Three connected lakes (Beixiu, Nanxiu, and Dongxiu) with paddle boats on the largest
 - A restored section of the Guangzhou city wall, one of the few left standing
 - Basketball courts, a swimming pool, and open lawns used daily by residents
 
 ## Getting there
 
-The park sits at 988 Jiefang Beilu in Yuexiu District, and the easiest approach is Metro Line 2, Yuexiu Park Station — take Exit B1 and you're at one of the main gates within a few minutes' walk.
+The park sits at 988 Jiefang Beilu in Yuexiu District, and the easiest approach is Metro Line 2, Yuexiu Park Station. Take Exit B1 and you're at one of the main gates within a few minutes' walk.
 
-If you're coming from the Canton Tower or Shamian Island, it's a straightforward ride with no transfers on Line 2. Several other gates dot the park's perimeter, so if you're arriving from the Guangzhou Museum of Art side, check which entrance lines up with what you want to see first — the site is large enough that entering on the wrong side adds real walking time.
+If you're coming from the Canton Tower or Shamian Island, it's a straightforward ride with no transfers on Line 2. Several other gates dot the park's perimeter, so if you're arriving from the Guangzhou Museum of Art side, check which entrance lines up with what you want to see first. The site is large enough that entering on the wrong side adds real walking time.
 
 ## When to go
 
 Mornings here are quietest, especially before 9am, when the mist still sits over Beixiu Lake and the tai chi groups have the paths mostly to themselves. By late morning on weekends, families and tour groups fill the main routes near the Five Rams statue.
 
-Spring and autumn are the most comfortable seasons — Guangzhou's summer humidity makes the hill climbs to Zhenhai Tower considerably more work. If you want photos of the tower without crowds in frame, aim for right after opening.
+Spring and autumn are the most comfortable seasons, Guangzhou's summer humidity makes the hill climbs to Zhenhai Tower considerably more work. If you want photos of the tower without crowds in frame, aim for right after opening.
 
 ## How to visit like a local
 
 Because this is genuinely a neighborhood park rather than a staged attraction, the etiquette is simple: keep to the right on shared paths, and don't interrupt the tai chi or fan-dance groups that gather on the open plazas most mornings.
 
-Entry to the park grounds is free, so there's no ticket queue to plan around — just walk in through any gate. The Zhenhai Tower museum and a few smaller attractions inside do charge admission separately, and it's worth having some cash or a mobile payment app like Alipay or WeChat Pay ready, since card acceptance is inconsistent at small kiosks.
+Entry to the park grounds is free, so there's no ticket queue to plan around, just walk in through any gate. The Zhenhai Tower museum and a few smaller attractions inside do charge admission separately, and it's worth having some cash or a mobile payment app like Alipay or WeChat Pay ready, since card acceptance is inconsistent at small kiosks.
 
-Because this spot still flies under most international visitors' radar, you won't find the dense tour-group crush that hits places like Chimelong or the Canton Tower — it's a good pick if you want a slower, less scripted few hours.
+Because this spot still flies under most international visitors' radar, you won't find the dense tour-group crush that hits places like Chimelong or the Canton Tower. It's a good pick if you want a slower, less scripted few hours.
 
 A few practical notes:
 
-- Wear shoes suited to hill paths — the terrain around Zhenhai Tower is genuinely uphill
+- Wear shoes suited to hill paths. The terrain around Zhenhai Tower is genuinely uphill
 - Bring small bills or a payment app for boat rentals and snack stalls
 - Check current opening hours for the museum before you climb up, since park gates and the tower keep different schedules
 - Budget two to three hours minimum if you want to see the wall, the tower, and a lake loop without rushing

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: singapore-bop-bartenders-of-pony
-srcHash: '530a642341f8'
+srcHash: 'a5e0b1c0c79e'
 title: BOP(Bartenders of Pony)シンガポール旅行ガイド
 description: シンガポールに新しく登場し、今注目を集めているスポット「BOP(Bartenders of Pony)」。その魅力、場所、訪れ方を紹介します。
 quickAnswer: BOP(Bartenders of Pony)は、Jigger & PonyのチームとバーテンダーのUno Jang氏が手がける韓国スタイルのカクテルダイニングバーで、タンジョンパガー(Tanjong Pagar)のバーが密集する裏通りにある、ショップハウスを改装した店舗に入っています。2026年1月31日にオープンし、店内は賑やかなフロントバーと、韓国式の団体飲み・食事のために作られた静かな奥のラウンジルームに分かれています。オープンしたばかりで急速に注目を集めているため、事前予約と最新の営業時間の確認をおすすめします。

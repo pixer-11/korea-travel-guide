@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kennedy-town-belcher-bay-park
-srcHash: '86302a1e4f66'
+srcHash: '88734ab62cfc'
 title: 'Belcher Bay Park: Guía de viaje de Kennedy Town (4.0★)'
 description: 'El Belcher Bay Park es una franja estrecha y arbolada junto al mar en Kennedy Town, perfecta para correr al amanecer, ver el atardecer sobre la bahía o dejar que los niños disfruten del parque infantil. 4.0★ (1,615 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Belcher Bay Park es una franja estrecha y arbolada junto al mar en Kennedy Town, perfecta para correr al amanecer, ver el atardecer sobre la bahía o dejar que los niños disfruten del parque infantil. Abre las 24 horas, y el momento más tranquilo es de 7:00 a 8:00 los fines de semana, antes de que los grupos de ejercicio y los paseadores de perros llenen los caminos desde media mañana. Calcula entre 30 y 45 minutos, a menos que quieras quedarte a hacer un pícnic.

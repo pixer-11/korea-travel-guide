@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: izmir-clock-tower-of-izmir
-srcHash: '64dfe19a1b3c'
+srcHash: '9493a783b9ff'
 title: 伊兹密尔钟楼:伊兹密尔旅行指南
 description: 钟楼(Saat Kulesi)位于伊兹密尔科纳克广场(Konak Square)的中心，紧邻海滨和科纳克码头(Konak Pier)的有轨电车/渡轮枢纽——这里只需停留五分钟，最适合融入沿海滨的长途漫步，而不必单独作为一个目的地前往。
 quickAnswer: 钟楼(Saat Kulesi)位于伊兹密尔科纳克广场(Konak Square)的中心，紧邻海滨和科纳克码头(Konak Pier)的有轨电车/渡轮枢纽——这里只需停留五分钟，最适合融入沿海滨的长途漫步，而不必单独作为一个目的地前往。最好在清晨或日落后前往，此时广场人少，钟楼也会点灯;正午和周末下午则会迎来最多的旅行团和排队拍照的人群。

@@ -118,7 +118,7 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-You turn off a fairly ordinary street and the pavement changes first — smooth wood-toned tiles replacing concrete, and suddenly the buildings lean in close, dark timber lattices called kimusuko screening every window.
+You turn off a fairly ordinary street and the pavement changes first, smooth wood-toned tiles replacing concrete, and suddenly the buildings lean in close, dark timber lattices called kimusuko screening every window.
 
 This is Higashi Chaya, Kanazawa's largest preserved geisha teahouse district, a few blocks of Edo-period ochaya where geisha once entertained wealthy patrons behind those very screens. Some still do, in a handful of teahouses that keep the tradition alive today.
 
@@ -143,24 +143,24 @@ Budget an hour just for the two teahouse museums if you want to sit and look pro
 
 From Kanazawa Station, hop on the Kanazawa Loop Bus or a city bus toward Hashiba-cho, then walk about five minutes across the Asano River via Tenjinbashi bridge.
 
-A taxi from the station costs a bit more but skips any bus-timing guesswork. Either way, the river crossing itself is worth slowing down for — willow trees lean over the water and the district's rooftops come into view gradually rather than all at once.
+A taxi from the station costs a bit more but skips any bus-timing guesswork. Either way, the river crossing itself is worth slowing down for, willow trees lean over the water and the district's rooftops come into view gradually rather than all at once.
 
 ## When to go
 
 The district is outdoors and unticketed, so it's technically accessible 24 hours a day, every day. That doesn't mean every hour is equal.
 
-Foot traffic data shows things stay calm from 7am to 11pm on both weekdays and weekends — but weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane shoulder to shoulder. If you want photos of the empty lattice-fronted street, avoid that window entirely.
+Foot traffic data shows things stay calm from 7am to 11pm on both weekdays and weekends, but weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane shoulder to shoulder. If you want photos of the empty lattice-fronted street, avoid that window entirely.
 
 Early morning, especially before 9am, gives you soft light on the dark wood facades and almost nobody else around. Evening after the shops close down brings a quieter, moodier version of the same streets, with lanterns lit outside a few teahouses.
 
 ## How to visit like a local
 
-Higashi Chaya draws heavy tour traffic, so plan around the crowd rather than through it. This is not an under-the-radar spot — it's one of Kanazawa's most-visited sights, and the main street reflects that on weekend afternoons.
+Higashi Chaya draws heavy tour traffic, so plan around the crowd rather than through it. This is not an under-the-radar spot. It's one of Kanazawa's most-visited sights, and the main street reflects that on weekend afternoons.
 
 - **Time it right**: arrive early morning or after the shops close, to have the lanes mostly to yourself
 - **Pay in cash for small shops**: many gold-leaf and craft stores are cash-friendly but not all take cards, so carry yen
-- **Don't photograph private residences or working teahouses' interiors** without permission — most ochaya here are still lived-in or operating businesses, not open-air museums
-- **Skip the group-tour crush**: if you arrive to a wall of people, detour into the quieter side lanes one block back from Higashiyama-Chayagai — same architecture, far fewer people
+- **Don't photograph private residences or working teahouses' interiors** without permission. Most ochaya here are still lived-in or operating businesses, not open-air museums
+- **Skip the group-tour crush**: if you arrive to a wall of people, detour into the quieter side lanes one block back from Higashiyama-Chayagai, same architecture, far fewer people
 - **Book an evening geisha performance in advance** if you want to see one; these are limited-seating and by reservation through specific teahouses, not walk-in
 
 Pair the visit with a short walk to Kazuemachi, a smaller, calmer teahouse district on the opposite riverbank, if you want a second dose of this atmosphere without the density of visitors that Higashi Chaya now attracts.

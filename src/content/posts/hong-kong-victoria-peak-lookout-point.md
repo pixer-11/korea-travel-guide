@@ -83,33 +83,33 @@ Unlike the paid Sky Terrace 428 observation deck, this lookout point is an open,
 
 Most people ride the Peak Tram from the Garden Road terminus in Central, a steep funicular climb through dense green hillside. Buses (like the 15) and taxis also make the trip if the tram queue looks brutal.
 
-From the upper tram terminus, follow Lugard Road or Harlech Road — the loop path that circles the Peak — rather than heading straight into the Peak Tower shopping complex. The lookout point sits along this circuit, a short, mostly flat walk from the tram exit.
+From the upper tram terminus, follow Lugard Road or Harlech Road, the loop path that circles the Peak, rather than heading straight into the Peak Tower shopping complex. The lookout point sits along this circuit, a short, mostly flat walk from the tram exit.
 
 ## What to see
 
 The panorama stretches from Central's skyline across Victoria Harbour to Kowloon and, on clear days, out toward the surrounding islands. Ferries and cargo ships thread the water below like slow-moving toys.
 
-Bring a light jacket even in summer — it's noticeably cooler and breezier up here than at street level. A few things worth building your visit around:
+Bring a light jacket even in summer. It's noticeably cooler and breezier up here than at street level. A few things worth building your visit around:
 
 - Sunset transitioning into the city lights switching on, roughly 20–30 minutes after dusk
 - The Lugard Road/Harlech Road loop, about an hour at an easy pace
-- Banyan trees and dense subtropical foliage framing the view — a reminder the Peak is still a real hillside, not just an observation deck
+- Banyan trees and dense subtropical foliage framing the view. A reminder the Peak is still a real hillside, not just an observation deck
 
 ## When to go
 
 Because it's outdoors and unmanaged, the lookout point is accessible 24 hours a day, every day. That's a real advantage over the ticketed Sky Terrace, which keeps fixed hours and sells timed slots.
 
-Clear, dry days between October and December tend to give the sharpest visibility, since Hong Kong's summer haze and humidity can flatten the view. Early morning is another underused window — the light is soft, the air often clearer, and the loop path is nearly empty.
+Clear, dry days between October and December tend to give the sharpest visibility, since Hong Kong's summer haze and humidity can flatten the view. Early morning is another underused window. The light is soft, the air often clearer, and the loop path is nearly empty.
 
 ## How to visit like a local
 
-Because it's under-the-radar relative to the Sky Terrace, you can treat this as the quieter alternative rather than the main event tourists queue for. Locals doing the Lugard Road loop tend to come for exercise and fresh air, not just photos — walk it at an easy pace rather than stopping only at the marked viewpoint.
+Because it's under-the-radar relative to the Sky Terrace, you can treat this as the quieter alternative rather than the main event tourists queue for. Locals doing the Lugard Road loop tend to come for exercise and fresh air, not just photos. Walk it at an easy pace rather than stopping only at the marked viewpoint.
 
-Avoid the trap of assuming this is the "official" Sky Terrace lookout — it isn't, and that's the point. No ticket, no gate, no fee.
+Avoid the trap of assuming this is the "official" Sky Terrace lookout. It isn't, and that's the point. No ticket, no gate, no fee.
 
 - Wear real walking shoes; the loop has some incline and uneven paving
-- Carry water — there are few vendors directly along the path
+- Carry water. There are few vendors directly along the path
 - Time a visit for dusk on a clear evening, then linger 20 minutes past sunset for the skyline lighting up
 - If the Peak Tram queue is long, walk up via Old Peak Road instead, or take a bus/taxi and save the tram for the descent
 
-There's no admission fee and no fixed hours to plan around, so the main cost is transport — tram fare or a bus/taxi ride each way. Confirm current Peak Tram fares and schedules before you go, since those do change periodically, even though the lookout point itself never closes.
+There's no admission fee and no fixed hours to plan around, so the main cost is transport, tram fare or a bus/taxi ride each way. Confirm current Peak Tram fares and schedules before you go, since those do change periodically, even though the lookout point itself never closes.

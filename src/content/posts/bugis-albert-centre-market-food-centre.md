@@ -98,7 +98,7 @@ updatedDate: '2026-08-29'
 
 You smell it before you see the stalls: charcoal smoke, frying garlic, the sweetness of steamed rice cakes. Albert Centre sits a few minutes' walk from Bugis MRT, wedged between the bustle of Bugis Street market and the quieter stretch along Rochor Canal.
 
-It's not polished. Fluorescent tubes hum over plastic stools, ceiling fans turn slowly, and the tiled floor still carries the damp smell of the wet market below. That's the appeal — this is a working food centre, not a stage set for tourists.
+It's not polished. Fluorescent tubes hum over plastic stools, ceiling fans turn slowly, and the tiled floor still carries the damp smell of the wet market below. That's the appeal. This is a working food centre, not a stage set for tourists.
 
 ## Getting there
 
@@ -110,7 +110,7 @@ Take Exit C and head north along Queen Street, keeping Bugis Street's covered ma
 
 The building works on two levels, and knowing the split saves you a wasted lap.
 
-- **Ground floor**: a wet market — fresh produce, fish, meat, and dried goods stalls that open early and wind down by early afternoon.
+- **Ground floor**: a wet market, fresh produce, fish, meat, and dried goods stalls that open early and wind down by early afternoon.
 - **Second floor**: the food centre proper, dozens of cooked-food stalls ringing a communal seating hall.
 
 Head straight upstairs if you're there to eat. The ground floor is worth a quick look on your way up, mostly for the produce and the theatre of vendors calling out prices.
@@ -126,13 +126,13 @@ Expect to find:
 - Nasi lemak and mixed economy rice stalls
 - Fresh fruit juice and traditional dessert stalls (chendol, ice kachang)
 
-Portions and prices sit firmly in budget territory — this is everyday hawker eating, not a destination restaurant, and that's precisely its charm. Grab a table first, since the hall fills fast, then split up to order from different stalls before regrouping.
+Portions and prices sit firmly in budget territory. This is everyday hawker eating, not a destination restaurant, and that's precisely its charm. Grab a table first, since the hall fills fast, then split up to order from different stalls before regrouping.
 
 ## When to go
 
 The centre keeps unusual hours: 11am to 7:30pm most days, but it's closed entirely on Thursdays. Double-check before you plan a special trip around that day.
 
-Weekends are the crunch point — foot traffic stays heavy from 11am straight through to 7pm, with no real lull. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives.
+Weekends are the crunch point, foot traffic stays heavy from 11am straight through to 7pm, with no real lull. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives.
 
 Because it closes at 7:30pm, this isn't a dinner destination in the way some 24-hour hawker centres are. Treat it as a lunch or early-evening stop instead.
 
@@ -140,11 +140,11 @@ Because it closes at 7:30pm, this isn't a dinner destination in the way some 24-
 
 Albert Centre draws a genuinely mixed, very busy crowd, so the smart move is timing, not secrecy.
 
-- **Arrive close to 11am opening on a weekday** — stalls are fresh, seating is easy, and you avoid the weekend crush entirely.
+- **Arrive close to 11am opening on a weekday**, stalls are fresh, seating is easy, and you avoid the weekend crush entirely.
 - **Bring small notes and coins.** Most stalls are cash-only or accept only local payment apps like PayNow; card acceptance is patchy at best.
 - **Claim a table before ordering.** Hawker centre etiquette here is to leave a packet of tissues on a seat to "chope" (reserve) it, then order.
-- **Order at the stall counter, not from a server** — most stalls have no table service, and dishes are called out or numbered when ready.
+- **Order at the stall counter, not from a server**. Most stalls have no table service, and dishes are called out or numbered when ready.
 - **Skip Thursdays.** The whole centre is closed, and it's a common tourist mistake to show up expecting normal hours.
-- **Clear your own tray** where bins are provided, or stack it neatly near the stall — increasingly expected hawker-centre practice in Singapore.
+- **Clear your own tray** where bins are provided, or stack it neatly near the stall, increasingly expected hawker-centre practice in Singapore.
 
 Budget 30-45 minutes for a meal, though the wet market alone rewards a slower browse if you're curious about local produce and dried goods vendors selling ingredients you won't find in a supermarket.

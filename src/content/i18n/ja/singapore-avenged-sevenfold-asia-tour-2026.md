@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: singapore-avenged-sevenfold-asia-tour-2026
-srcHash: '4f69f2f22fe6'
+srcHash: '958edda6777b'
 title: Avenged Sevenfold アジアツアー2026:日程・チケット・会場情報(シンガポール)
 description: Avenged Sevenfold アジアツアー2026、シンガポール公演は2026年10月13日開催。公演の概要、日時と会場、そして観戦計画の立て方をご紹介します。
 quickAnswer: Avenged Sevenfold アジアツアー2026では、カリフォルニア出身のこのメタルバンドが2026年10月13日にシンガポール・インドア・スタジアムに登場します。会場はカラン(Kallang)地区にあり、スタジアム駅(Stadium MRT駅)から徒歩すぐという好立地。車がなくても訪れやすい、市内でも屈指のアクセスの良いアリーナ公演です。フライトやホテルを予約する前に、公式サイトで日時とチケット情報を必ず確認してください。

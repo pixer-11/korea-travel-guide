@@ -53,7 +53,7 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-You feel the scale of the Marina before you understand it. Towers rise in a curved wall on both sides of the water, glass catching the light differently depending on the hour — pink-gold at sunrise, mirrored steel by noon, a grid of lit windows once the sun drops.
+You feel the scale of the Marina before you understand it. Towers rise in a curved wall on both sides of the water, glass catching the light differently depending on the hour, pink-gold at sunrise, mirrored steel by noon, a grid of lit windows once the sun drops.
 
 The walkway itself hugs the canal for roughly seven kilometers, paved wide enough for joggers, strollers, and slow-moving groups to coexist without much friction. Palms line the railing at intervals, casting thin stripes of shade that barely help by midday.
 
@@ -76,7 +76,7 @@ Parking exists at Dubai Marina Mall and along side streets, but it fills fast on
 
 ## What to see and do along the way
 
-Walk it in one direction rather than doubling back — the loop naturally connects to Jumeirah Beach Residence (JBR) at one end, adding The Walk at JBR's beachfront strip if you want to extend the route.
+Walk it in one direction rather than doubling back, the loop naturally connects to Jumeirah Beach Residence (JBR) at one end, adding The Walk at JBR's beachfront strip if you want to extend the route.
 
 Along the promenade itself, expect:
 
@@ -89,7 +89,7 @@ Dubai Marina Mall sits roughly midway, useful for air conditioning breaks, a foo
 
 ## When to go
 
-The walkway never closes — it's open 24 hours every day — so timing is about comfort, not access. Between November and March, daytime temperatures are mild enough to walk the full loop comfortably.
+The walkway never closes, it's open 24 hours every day, so timing is about comfort, not access. Between November and March, daytime temperatures are mild enough to walk the full loop comfortably.
 
 From May through September, midday heat and humidity make anything past a short stroll uncomfortable; locals and repeat visitors shift outdoor time to early morning or after dark. Evening is also when the towers light up and the promenade fills with its liveliest crowd, food stalls, and street performers near the main plazas.
 
@@ -99,10 +99,10 @@ Given how popular this stretch is, the smartest move is simply timing your walk 
 
 - Go before 9am for a near-empty promenade, cooler air, and better photos of the towers without crowds in frame
 - Or go after 9pm, once the dinner rush thins and the lit skyline becomes the main draw
-- Avoid Friday and Saturday evenings if you want breathing room — that's peak family and tourist traffic
+- Avoid Friday and Saturday evenings if you want breathing room. That's peak family and tourist traffic
 - Cafes and restaurants along the walk generally accept cards and mobile payment; tipping around 10% at sit-down restaurants is customary, though not obligatory
-- No booking needed for the walk itself — just wear breathable shoes, since the full loop is a genuine multi-kilometer walk, not a quick photo stop
-- The common tourist mistake is trying to do the whole 7km loop at 2pm in July — pace yourself, or split it across a morning and evening visit instead
+- No booking needed for the walk itself, just wear breathable shoes, since the full loop is a genuine multi-kilometer walk, not a quick photo stop
+- The common tourist mistake is trying to do the whole 7km loop at 2pm in July, pace yourself, or split it across a morning and evening visit instead
 
 Bring water regardless of season; shade is thin and kiosks aren't evenly spaced.
 

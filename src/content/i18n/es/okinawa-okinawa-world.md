@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-okinawa-world
-srcHash: 'ed72ea10dc59'
+srcHash: '30562b0efdd9'
 title: 'Okinawa World: Guía de viaje'
 description: Okinawa World, en la ciudad de Nanjo, se disfruta mejor como una excursión de medio día desde Naha (unos 30–40 minutos en coche), combinando un paseo por la iluminada cueva Gyokusendo (Gyokusendo Cave), una zona de artesanía tradicional al estilo de una aldea Ryukyu y un espectáculo de tambores Eisa.
 quickAnswer: Okinawa World, en la ciudad de Nanjo, se disfruta mejor como una excursión de medio día desde Naha (unos 30–40 minutos en coche), combinando un paseo por la iluminada cueva Gyokusendo (Gyokusendo Cave), una zona de artesanía tradicional al estilo de una aldea Ryukyu y un espectáculo de tambores Eisa. Calcula entre 2,5 y 3,5 horas, ve temprano en las mañanas de días laborables para evitar las aglomeraciones de autobuses turísticos, y combínalo después con los puntos costeros cercanos de Nanjo/Itoman.

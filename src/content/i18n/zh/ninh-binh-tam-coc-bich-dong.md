@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ninh-binh-tam-coc-bich-dong
-srcHash: '1f4ca0afa95f'
+srcHash: 'd4d3c02341e3'
 title: 三谷-碧洞(Tam Coc - Bich Dong):宁平旅游指南 (4.5★)
 description: 三谷-碧洞(Tam Coc - Bich Dong)是宁平市(Ninh Binh)以南的一片喀斯特石灰岩河流景观，乘坐小船穿过稻田和三个低矮的溶洞;附近悬崖上还有碧洞寺庙群可供游览。4.5★(17,936条评价)——游客怎么说、开放时间和实用建议。
 quickAnswer: 三谷-碧洞(Tam Coc - Bich Dong)是宁平市(Ninh Binh)以南的一片喀斯特石灰岩河流景观，乘坐小船穿过稻田和三个低矮的溶洞;附近悬崖上还有碧洞寺庙群可供游览。这里每天上午7:30至下午5点开放，游客确实很多，所以最好在开门时或下午3点后前往。建议预留半天时间，包括乘船游览和在碧洞的短途步行或攀登。

@@ -35,11 +35,11 @@ heroImage:
 
 You hear about Broken Mouth before you ever see it. It's the food hall that shot to No. 7 on Yelp's 2026 Top 100 U.S. Restaurants list, and in a city with no shortage of buzzy openings, that kind of ranking travels fast through group chats and Instagram grids alike.
 
-What sets it apart isn't one signature dish — it's the format. Multiple independent stalls operate under a single roof, each with its own kitchen team, its own specialty, its own line. You walk in undecided and walk out having eaten three different cuisines in one sitting.
+What sets it apart isn't one signature dish. It's the format. Multiple independent stalls operate under a single roof, each with its own kitchen team, its own specialty, its own line. You walk in undecided and walk out having eaten three different cuisines in one sitting.
 
 ## The first impression
 
-Step through the entrance and the sound hits you first — overlapping orders being called, the clatter of expo windows, a low hum of conversation bouncing off hard surfaces. Food halls like this are built for exactly that kind of controlled chaos.
+Step through the entrance and the sound hits you first, overlapping orders being called, the clatter of expo windows, a low hum of conversation bouncing off hard surfaces. Food halls like this are built for exactly that kind of controlled chaos.
 
 Expect an open floor plan with shared seating rather than a single dining room. You'll likely see clusters of people standing near their chosen stall, watching cooks work an open kitchen while they wait for a number to be called. It's casual, loud, and unmistakably built for a younger, social crowd.
 
@@ -55,22 +55,22 @@ Menus, specific dishes, and pricing at a hall like this tend to shift as vendors
 
 ## Getting there and planning your visit
 
-Los Angeles's trendiest food halls tend to cluster in walkable, transit-adjacent neighborhoods, and a spot generating this much national attention is almost certainly reachable by rideshare or a short walk from major bus or rail lines. Because exact hours, reservation policy, and location details can shift for a fast-rising venue, confirm all of it — address, hours, whether they take reservations or walk-ins only — directly through Broken Mouth's official channels before you set out.
+Los Angeles's trendiest food halls tend to cluster in walkable, transit-adjacent neighborhoods, and a spot generating this much national attention is almost certainly reachable by rideshare or a short walk from major bus or rail lines. Because exact hours, reservation policy, and location details can shift for a fast-rising venue, confirm all of it (address, hours, whether they take reservations or walk-ins only) directly through Broken Mouth's official channels before you set out.
 
 Budget more time than you think. With multiple stalls to browse, lines at the popular ones, and seating that may take a few minutes to free up, treat this as a leisurely hour-plus outing rather than a quick bite.
 
 ## When to go
 
-A newly minted Top 10 Yelp entry draws a rush of first-time visitors eager to see what the fuss is about, so weekends and prime dinner hours are where you'll feel it most. If your schedule allows it, aim for an early lunch on a weekday — you'll not only skip the worst of the line, you'll also get a calmer read on the space itself.
+A newly minted Top 10 Yelp entry draws a rush of first-time visitors eager to see what the fuss is about, so weekends and prime dinner hours are where you'll feel it most. If your schedule allows it, aim for an early lunch on a weekday. You'll not only skip the worst of the line, you'll also get a calmer read on the space itself.
 
 ## How to visit like a local
 
 Treat Broken Mouth the way Angelenos treat any hot new hall: scope it out before committing to a full stall-by-stall crawl.
 
 - **Time it right.** Arrive right when it opens or in the mid-afternoon lull between lunch and dinner rushes to skip the longest lines.
-- **Decide fast.** Regulars scan two or three stalls, pick, and order — lingering over every menu just backs up the line behind you.
+- **Decide fast.** Regulars scan two or three stalls, pick, and order, lingering over every menu just backs up the line behind you.
 - **Split and share.** Going with friends means you can order from different stalls and share, which is the whole point of a hall like this.
 - **Pay digitally.** Multi-vendor halls in LA typically lean toward card and mobile payment at each individual stall, so don't assume one universal tab.
-- **Don't skip confirming hours.** The most common mistake with a fast-trending spot is showing up on old information — check current hours and reservation policy the same day you plan to visit.
+- **Don't skip confirming hours.** The most common mistake with a fast-trending spot is showing up on old information. Check current hours and reservation policy the same day you plan to visit.
 
-Come hungry, come flexible, and treat the ranking as a reason to explore rather than a guarantee of what you'll find — trending food halls evolve their lineups fast.
+Come hungry, come flexible, and treat the ranking as a reason to explore rather than a guarantee of what you'll find, trending food halls evolve their lineups fast.

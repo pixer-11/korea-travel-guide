@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kaohsiung-post-malone-big-ass-world-tour
-srcHash: '5a093c70622a'
+srcHash: '299b1ecf2aa9'
 title: Post Malone「Big Ass World Tour」世界巡演：高雄站演出日期、门票与场馆信息
 description: Post Malone「Big Ass World Tour」世界巡演将于2026年9月19日抵达台湾高雄。这场演出是什么、何时何地举行，以及该如何提前规划行程。
 quickAnswer: 作为「Big Ass World Tour」亚洲站的一部分，Post Malone将于2026年9月19日在高雄国家体育场开唱。门票务必等官方宣布后，只通过主办方或艺人官方渠道购买，具体入场时间、座位图和票价也要在临近演出日期时再次确认。演出场地是位于左营区、以太阳能闻名的高雄地标体育场，行程安排上建议围绕这一场重量级演出来规划，而不是当成音乐节周末来安排。

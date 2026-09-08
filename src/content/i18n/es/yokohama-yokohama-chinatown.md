@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yokohama-yokohama-chinatown
-srcHash: '6bebdab0f137'
+srcHash: '36b612d90372'
 title: 'Barrio Chino de Yokohama: Guía de viaje'
 description: 'El Barrio Chino de Yokohama (Yamashitacho, distrito de Naka) es el más grande de Japón: unos 250 restaurantes y tiendas de propietarios chinos concentrados en una cuadrícula compacta a poca distancia a pie de Minato Mirai y el parque Yamashita.'
 quickAnswer: 'El Barrio Chino de Yokohama (Yamashitacho, distrito de Naka) es el más grande de Japón: unos 250 restaurantes y tiendas de propietarios chinos concentrados en una cuadrícula compacta a poca distancia a pie de Minato Mirai y el parque Yamashita. Realmente está muy concurrido, así que conviene ir un día de semana antes de las 11 h y reservar entre dos y tres horas para recorrerlo probando comida. No es un lugar poco conocido: es una de las principales atracciones de Yokohama, con una calificación de 4.1 sobre casi 49,000 reseñas, así que hay que planificar en torno a la hora punta del almuerzo y el ajetreo del fin de semana en lugar de esperar tranquilidad.'

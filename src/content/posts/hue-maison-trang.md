@@ -109,30 +109,30 @@ updatedDate: '2026-09-04'
 
 ## Why Maison Trang Stands Out
 
-Hue's culinary reputation rests on its imperial-era street food — dishes once refined for the Nguyễn court kitchens and now sold on nearly every corner. Maison Trang has become one of the most consistently praised places to try this cuisine in one sitting, without gambling on a random street stall. A 4.8 rating across more than 4,300 reviews is unusually high for a restaurant of any size, let alone one at a budget price point (priceLevel 1), which signals that locals and repeat visitors, not just tour groups, keep coming back.
+Hue's culinary reputation rests on its imperial-era street food, dishes once refined for the Nguyễn court kitchens and now sold on nearly every corner. Maison Trang has become one of the most consistently praised places to try this cuisine in one sitting, without gambling on a random street stall. A 4.8 rating across more than 4,300 reviews is unusually high for a restaurant of any size, let alone one at a budget price point (priceLevel 1), which signals that locals and repeat visitors, not just tour groups, keep coming back.
 
-The restaurant occupies a converted house-and-garden space on Võ Thị Sáu, giving it the feel of eating in a Hue home rather than a commercial dining hall — a format many central Vietnamese restaurants use to reinforce the "home-style royal cuisine" identity Hue is famous for.
+The restaurant occupies a converted house-and-garden space on Võ Thị Sáu, giving it the feel of eating in a Hue home rather than a commercial dining hall, a format many central Vietnamese restaurants use to reinforce the "home-style royal cuisine" identity Hue is famous for.
 
 ## Getting There
 
-Maison Trang sits at 24-26 Võ Thị Sáu, in the Thuận Hóa area on the south bank of the Perfume River — the same general district as many of Hue's boutique hotels and guesthouses. This puts it within easy reach of the riverside promenade and a short ride from the Trường Tiền Bridge, the city's iconic six-span bridge that most visitors cross at least once during a stay.
+Maison Trang sits at 24-26 Võ Thị Sáu, in the Thuận Hóa area on the south bank of the Perfume River, the same general district as many of Hue's boutique hotels and guesthouses. This puts it within easy reach of the riverside promenade and a short ride from the Trường Tiền Bridge, the city's iconic six-span bridge that most visitors cross at least once during a stay.
 
 There's no metro system in Hue, so getting here means walking (if you're staying nearby), cycling, or taking a Grab (Vietnam's dominant ride-hailing app) or metered taxi. Given Hue's compact tourist core, most hotels in the Phú Hội or Thuận Hóa wards are a 5-15 minute ride away. If you're combining the meal with sightseeing, it works well as a lunch stop after visiting the Hue Imperial City (Đại Nội), which lies across the river and typically takes visitors 2-3 hours to explore.
 
 ## What to Eat
 
-Central Vietnamese cuisine is distinct from the food of Hanoi or Saigon — it leans spicier, more elaborate in presentation, and historically tied to royal banquet traditions. At a restaurant like Maison Trang, expect the city's signature dishes to anchor the menu:
+Central Vietnamese cuisine is distinct from the food of Hanoi or Saigon, it leans spicier, more elaborate in presentation, and historically tied to royal banquet traditions. At a restaurant like Maison Trang, expect the city's signature dishes to anchor the menu:
 
-- **Bún bò Huế** — the spicy beef-and-pork vermicelli soup that put Hue on Vietnam's culinary map, distinguished from its Hanoi cousin phở by a lemongrass-and-chili-oil broth.
-- **Bánh khoái** — a crispy turmeric pancake folded over shrimp, pork, and bean sprouts, eaten wrapped in rice paper with herbs and a thick peanut-hoisin dipping sauce.
-- **Nem lụi** — grilled lemongrass pork skewers, typically served with the same wrap-and-dip method.
-- **Bánh bèo, bánh nậm, bánh lọc** — a trio of small steamed rice cakes traditionally served on tiny plates or in banana leaves, considered essential Hue tapas-style dishes.
+- **Bún bò Huế**, the spicy beef-and-pork vermicelli soup that put Hue on Vietnam's culinary map, distinguished from its Hanoi cousin phở by a lemongrass-and-chili-oil broth.
+- **Bánh khoái**, a crispy turmeric pancake folded over shrimp, pork, and bean sprouts, eaten wrapped in rice paper with herbs and a thick peanut-hoisin dipping sauce.
+- **Nem lụi**, grilled lemongrass pork skewers, typically served with the same wrap-and-dip method.
+- **Bánh bèo, bánh nậm, bánh lọc**, a trio of small steamed rice cakes traditionally served on tiny plates or in banana leaves, considered essential Hue tapas-style dishes.
 
 Portions at this price tier are generally modest and meant for grazing across several dishes rather than ordering one large entrée, so consider sharing a spread across two or three people.
 
 ## When to Go
 
-Hue's dry season, roughly February through April, brings the most comfortable dining weather; May through August turns hot and humid, while October through December is the wettest stretch, sometimes with flooding, so factor that into evening plans. Regardless of season, the restaurant's popularity means peak lunch (12-1:30pm) and dinner (6:30-8pm) hours can mean a wait — arriving right at opening or in the mid-afternoon lull tends to be easier.
+Hue's dry season, roughly February through April, brings the most comfortable dining weather; May through August turns hot and humid, while October through December is the wettest stretch, sometimes with flooding, so factor that into evening plans. Regardless of season, the restaurant's popularity means peak lunch (12-1:30pm) and dinner (6:30-8pm) hours can mean a wait, arriving right at opening or in the mid-afternoon lull tends to be easier.
 
 ## Nearby & Tips
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: multiple-cities-la-vuelta-a-espana-2026
-srcHash: '9f09cfd2d050'
+srcHash: 'a922033ad8e6'
 title: 'La Vuelta a España 2026: lo que hay que saber (salida en Mónaco, final en Granada)'
 description: La Vuelta a España 2026 en varias ciudades de España — 22 de agosto al 13 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo planear tu visita.
 quickAnswer: La Vuelta a España 2026 se celebra del 22 de agosto al 13 de septiembre, con inicio en Mónaco antes de cruzar a España para disputar 21 etapas, y final en Granada el 13 de septiembre. Elige una localidad de etapa, llega en tren siempre que sea posible, ya que las carreteras se cortan durante horas alrededor del recorrido, y confirma la ruta exacta de cada día, los horarios y las zonas con entrada en el sitio oficial de La Vuelta antes de viajar.

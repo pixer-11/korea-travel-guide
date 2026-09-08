@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: north-point-north-point-promenade
-srcHash: '888b76a2da1a'
+srcHash: '787f6af5d3ff'
 title: 'Paseo Marítimo de North Point: Guía de Viaje'
 description: El Paseo Marítimo de North Point es una estrecha franja de parque frente al puerto Victoria, en North Point, abierta las 24 horas y perfecta para disfrutar a primera hora de la mañana o al caer la noche, cuando el aire del puerto de contenedores se refresca y el perfil de la ciudad se ilumina.
 quickAnswer: El Paseo Marítimo de North Point es una estrecha franja de parque frente al puerto Victoria, en North Point, abierta las 24 horas y perfecta para disfrutar a primera hora de la mañana o al caer la noche, cuando el aire del puerto de contenedores se refresca y el perfil de la ciudad se ilumina. Es un lugar poco conocido si se compara con el paseo marítimo de Central, y aquí no hay aglomeraciones, aunque los fines de semana de 8:00 a 22:00 atraen al mayor número de vecinos que caminan, corren o pescan. Calcule entre 30 y 45 minutos, más si se detiene a contemplar la vista hacia Kowloon.

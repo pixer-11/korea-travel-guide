@@ -92,7 +92,7 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
 ---
-You step through a low wooden doorway off a sun-bleached lane in Itchan Kala, and the noise of the old city just stops. No dome overhead, no soaring iwan — just a flat mud roof held up by a dark, silent forest of wood.
+You step through a low wooden doorway off a sun-bleached lane in Itchan Kala, and the noise of the old city just stops. No dome overhead, no soaring iwan, just a flat mud roof held up by a dark, silent forest of wood.
 
 That's the trick of the Juma Mosque. From outside it barely registers as a mosque at all. Inside, over 200 carved pillars stretch off in every direction, their capitals so densely patterned they look almost textile. A few, near the mihrab, are said to date to the 10th century, salvaged from an earlier structure and reused when the current building went up in the late 1700s.
 
@@ -106,13 +106,13 @@ Two skylight wells punch through the roof, dropping shafts of light onto the pil
 
 Juma Mosque sits roughly in the middle of Itchan Kala, an easy walk from any of the gates. Most visitors reach it on foot from Ichan Qala Darvoza (the west gate) or from Pahlavon Mahmud Mausoleum nearby.
 
-There's no separate ticket booth — access is generally covered by the Itchan Kala combined entry ticket sold at the gates, which also covers most other monuments inside the walls. Confirm current ticket arrangements when you arrive, since these things shift.
+There's no separate ticket booth, access is generally covered by the Itchan Kala combined entry ticket sold at the gates, which also covers most other monuments inside the walls. Confirm current ticket arrangements when you arrive, since these things shift.
 
 ## What to notice inside
 
 Walk the pillars slowly rather than cutting straight through.
 
-- Look for carving styles that shift from column to column — geometric knotwork, floral scrolls, honeycomb muqarnas — a rough timeline of Khorezm woodcarving spanning centuries.
+- Look for carving styles that shift from column to column (geometric knotwork, floral scrolls, honeycomb muqarnas) a rough timeline of Khorezm woodcarving spanning centuries.
 - Find the mihrab wall, where the oldest reused pillars cluster.
 - Look up at the two roof openings (the mosque's only real light source) and watch how the beams move across the floor as clouds pass.
 - Note the minaret attached to the mosque's exterior, climbable separately in some seasons for a rooftop view over Itchan Kala's skyline.
@@ -121,7 +121,7 @@ Walk the pillars slowly rather than cutting straight through.
 
 The mosque opens daily from 9am to 6pm, same hours all week, so there's no need to plan around a shorter Sunday or Monday closure.
 
-Weekend afternoons, especially 12pm to 4pm, draw the heaviest tour-group traffic — worth avoiding if you want the hall to yourself. Early morning on a weekday tends to be a safer bet for quiet.
+Weekend afternoons, especially 12pm to 4pm, draw the heaviest tour-group traffic, worth avoiding if you want the hall to yourself. Early morning on a weekday tends to be a safer bet for quiet.
 
 Midday sun outside is harsh in summer; the pillared interior stays cool and dim year-round, which makes it a natural place to pause mid-walk through Itchan Kala regardless of season.
 
@@ -130,9 +130,9 @@ Midday sun outside is harsh in summer; the pillared interior stays cool and dim 
 Juma Mosque still flies under the radar compared to Khiva's headline monuments, so a little timing goes a long way.
 
 - Arrive right at 9am on a weekday for near-total quiet among the pillars.
-- Skip the noon-to-4pm weekend window if you can — that's when coach groups cluster here between other stops.
+- Skip the noon-to-4pm weekend window if you can. That's when coach groups cluster here between other stops.
 - Keep your voice down and steps slow; this remains an active place of worship, not just a monument, and the hush is part of the experience.
-- Remove your shoes if signage or staff indicate it, and dress modestly — shoulders and knees covered — as you would for any mosque in the region.
+- Remove your shoes if signage or staff indicate it, and dress modestly, shoulders and knees covered, as you would for any mosque in the region.
 - There's no strict photography ban in most areas, but avoid flash near the older carved capitals and skip photographing anyone praying.
 - Pace yourself: 20 to 30 minutes is enough to see the whole hall properly without rushing, leaving time for the rest of Itchan Kala the same visit.
 

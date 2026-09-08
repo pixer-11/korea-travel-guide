@@ -60,7 +60,7 @@ You come here for the contrast: concrete towers behind you, sampans and fish tan
 
 ## The waterfront and the floating market
 
-Walk along Sai Kung Praya, the promenade running beside the typhoon shelter, and you'll spot small wooden sampans tied up beside floating platforms stacked with tanks. These are the seafood sellers — grouper, prawns, mantis shrimp, scallops still in the shell.
+Walk along Sai Kung Praya, the promenade running beside the typhoon shelter, and you'll spot small wooden sampans tied up beside floating platforms stacked with tanks. These are the seafood sellers, grouper, prawns, mantis shrimp, scallops still in the shell.
 
 You point at what you want, they weigh it, and you carry it to one of the restaurants lining the promenade to have it cooked. It's an unusually hands-on way to order dinner, and it's the thing most visitors remember afterward.
 
@@ -75,14 +75,14 @@ There's no MTR station directly in Sai Kung, which is part of why it still feels
 - By taxi from Kowloon, expect around 20–30 minutes depending on traffic
 - Buses 299 and 92 also connect from Sha Tin and Diamond Hill
 
-Once you're in town, everything — the pier, the market, the restaurants — is walkable within about ten minutes.
+Once you're in town, everything (the pier, the market, the restaurants) is walkable within about ten minutes.
 
 ## What to eat and do
 
 Beyond the seafood restaurants along the Praya, the town has a proper wet market and a strip of noodle shops and bakeries a block back from the water.
 
 - Order steamed grouper or salt-and-pepper squid at a Praya-front restaurant
-- Try typhoon-shelter-style crab if it's on the menu — a Sai Kung specialty
+- Try typhoon-shelter-style crab if it's on the menu, a Sai Kung specialty
 - Pick up a fish ball snack from a market stall for something quicker
 - Rent a sampan for a short harbour loop past the moored junks
 
@@ -90,14 +90,14 @@ For hikers, Sai Kung Town is the practical starting point for trails into Sai Ku
 
 ## When to go
 
-Weekday late afternoons, roughly 4–6pm, are the calmest window — the lunch crowd has cleared and dinner service hasn't ramped up yet. Weekends bring a steady flow of Hong Kong day-trippers heading to the beaches, so the promenade and minibus queues get noticeably busier from late morning onward.
+Weekday late afternoons, roughly 4–6pm, are the calmest window. The lunch crowd has cleared and dinner service hasn't ramped up yet. Weekends bring a steady flow of Hong Kong day-trippers heading to the beaches, so the promenade and minibus queues get noticeably busier from late morning onward.
 
 Evenings are when the seafood restaurants really come alive, tanks lit up, tables filling along the water. If you want photos of the boats without crowds in frame, mornings before 10am are quieter too, though fewer stalls are trading yet.
 
 ## How to visit like a local
 
-Order seafood by weight, not by menu price guessing — ask the stallholder for a ballpark cost before they bag it, since pricing varies by catch and season. Most restaurants and market stalls take cash, though larger restaurants increasingly accept cards and mobile payment like Octopus or FPS.
+Order seafood by weight, not by menu price guessing. Ask the stallholder for a ballpark cost before they bag it, since pricing varies by catch and season. Most restaurants and market stalls take cash, though larger restaurants increasingly accept cards and mobile payment like Octopus or FPS.
 
-Don't just eat and leave — walk past the tourist-facing Praya restaurants toward the wet market streets one block inland, where prices are gentler and the crowd is thinner. The common visitor mistake is treating Sai Kung as only a seafood stop; locals treat it as a transit hub too, hopping straight onto a minibus or sampan toward the beaches and country park trails beyond town.
+Don't just eat and leave. Walk past the tourist-facing Praya restaurants toward the wet market streets one block inland, where prices are gentler and the crowd is thinner. The common visitor mistake is treating Sai Kung as only a seafood stop; locals treat it as a transit hub too, hopping straight onto a minibus or sampan toward the beaches and country park trails beyond town.
 
-If you're heading to Hap Mun Bay or Sharp Island, buy your boat ticket from the pier kiosks rather than a street tout, and confirm the last return sailing time before you go — schedules shift with season and tide.
+If you're heading to Hap Mun Bay or Sharp Island, buy your boat ticket from the pier kiosks rather than a street tout, and confirm the last return sailing time before you go, schedules shift with season and tide.

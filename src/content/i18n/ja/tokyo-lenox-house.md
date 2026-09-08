@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: tokyo-lenox-house
-srcHash: 'de197d3be25d'
+srcHash: '1e6f7ed90163'
 title: 東京・レノックスハウス(Lenox House)
 description: 東京・代々木のレノックスハウス(Lenox House)——注目の新スポットについて、その特徴、場所、訪れ方を紹介します。
 quickAnswer: レノックスハウス(Lenox House)は、代々木の参宮橋駅(Sangubashi Station)近くにある手打ちパスタが自慢のイタリアンレストランで、人気バーガー店ザ・グレートバーガー(The Great Burger)のチームが手がけたお店です。季節の日本の食材を活かした郷土イタリア料理と、ヴィンテージとモダンが融合したダイニング空間が魅力です。できれば事前予約を、そして訪れる前に営業時間を確認しておきましょう——話題の新規オープン店のため、詳細が変わる可能性があります。

@@ -58,7 +58,7 @@ draft: false
 ---
 ## Why eat at a monastery
 
-Po Lin isn't a restaurant you stumble onto — you come for the Tian Tan Buddha and the incense-thick courtyard, and the vegetarian hall is what feeds you afterward.
+Po Lin isn't a restaurant you stumble onto, you come for the Tian Tan Buddha and the incense-thick courtyard, and the vegetarian hall is what feeds you afterward.
 
 It's practical as much as spiritual. There's little else to eat up here, and the kitchen has been feeding pilgrims and day-trippers for decades. The food itself follows Buddhist vegetarian tradition: no meat, no garlic, no onion, built around mock-meat dishes, mushrooms, tofu and rice.
 
@@ -82,19 +82,19 @@ Typical dishes you'll find on the sets:
 - Steamed rice and clear soup
 - Sweet lotus-seed or red bean dessert
 
-Portions are shared, family-style, at long tables — expect a canteen-hall feel rather than intimate dining. It's mid-range for what you get, and simple rather than refined, but it's satisfying after the climb up to the Buddha.
+Portions are shared, family-style, at long tables. Expect a canteen-hall feel rather than intimate dining. It's mid-range for what you get, and simple rather than refined, but it's satisfying after the climb up to the Buddha.
 
 ## What else to see nearby
 
 Give yourself time before or after lunch to walk the monastery grounds themselves.
 
-The Tian Tan Buddha sits atop a long flight of steps and is worth the climb for the views over the Lantau hills. Back down near the entrance, the Wisdom Path — a series of wooden pillars inscribed with the Heart Sutra — makes a quiet, short detour through the trees.
+The Tian Tan Buddha sits atop a long flight of steps and is worth the climb for the views over the Lantau hills. Back down near the entrance, the Wisdom Path, a series of wooden pillars inscribed with the Heart Sutra, makes a quiet, short detour through the trees.
 
 Ngong Ping Village below has more casual snack options if the monastery hall is packed or its hours don't line up with yours.
 
 ## When to go
 
-The restaurant only opens for a single stretch each day, 11:30am to 5:00pm, every day of the week — so there's no breakfast or evening service to plan around.
+The restaurant only opens for a single stretch each day, 11:30am to 5:00pm, every day of the week, so there's no breakfast or evening service to plan around.
 
 Arrive by early afternoon at the latest to be sure you're seated and served before the kitchen winds down. Late risers coming up from Tung Chung sometimes find themselves cutting it close.
 
@@ -102,10 +102,10 @@ Weekdays are noticeably calmer than weekends, when cable car queues swell and th
 
 ## How to visit like a local
 
-Buy your meal ticket at the counter near the restaurant entrance rather than expecting table service and a menu — this is how the system here actually works, and it moves faster once you understand it.
+Buy your meal ticket at the counter near the restaurant entrance rather than expecting table service and a menu. This is how the system here actually works, and it moves faster once you understand it.
 
 Visit the Buddha and grounds first, then eat, so you're not rushing your climb on a full stomach. Payment is straightforward cash or card at the counter; there's no tipping expected in this kind of setting.
 
-Because this spot isn't especially crowded relative to the main attraction, a late-morning arrival right after the cable car opens tends to beat the worst of the group-tour rush. The most common visitor mistake is treating it as a quick snack stop — it's a proper seated meal, so build in real time rather than squeezing it between photos.
+Because this spot isn't especially crowded relative to the main attraction, a late-morning arrival right after the cable car opens tends to beat the worst of the group-tour rush. The most common visitor mistake is treating it as a quick snack stop. It's a proper seated meal, so build in real time rather than squeezing it between photos.
 
 Dress respectfully, as you're still within monastery grounds even while dining, and keep voices low near the temple buildings just beyond the restaurant's doors.

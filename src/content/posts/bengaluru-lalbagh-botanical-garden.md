@@ -96,7 +96,7 @@ updatedDate: '2026-08-29'
 
 ## Why go
 
-Lalbagh isn't just a park — it's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in the heart of Mavalli.
+Lalbagh isn't just a park. It's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in the heart of Mavalli.
 
 You come here for the scale of old trees you won't find elsewhere in the city: rain trees with canopies wide enough to blot out the sky, avenues of mahogany, and a rock outcrop older than most geological time you can name.
 
@@ -104,7 +104,7 @@ You come here for the scale of old trees you won't find elsewhere in the city: r
 
 The centerpiece is the Glass House, a domed iron-and-glass pavilion built in 1889 and modeled on London's Crystal Palace. It hosts flower shows twice a year, in January and August, when the beds around it explode with color.
 
-Walk the paths toward the center of the park and you hit the Peninsular Gneiss — a bare grey boulder estimated at roughly 3,000 million years old, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.
+Walk the paths toward the center of the park and you hit the Peninsular Gneiss, a bare grey boulder estimated at roughly 3,000 million years old, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.
 
 Other things worth building into a loop:
 
@@ -123,23 +123,23 @@ By metro, Lalbagh Station on the Green Line drops you within a short walk of the
 
 ## When to go
 
-The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lightest on weekdays between 7am and 11am — the air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty.
+The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lightest on weekdays between 7am and 11am. The air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty.
 
 Weekends flip that entirely. Crowds build steadily and peak from 1pm to 7pm, when families and groups pour in and the main lawns fill up. If you're set on a weekend visit, get there before noon.
 
-January and August bring the biggest crowds of all, thanks to the flower shows — worth it for the display, but expect queues at the Glass House itself.
+January and August bring the biggest crowds of all, thanks to the flower shows, worth it for the display, but expect queues at the Glass House itself.
 
 ## How to visit like a local
 
 This is one of Bengaluru's most-visited attractions, not a quiet secret, so plan around the crowds rather than expecting to dodge them entirely.
 
 - **Go early.** Regular visitors come for the 5am–8am window to walk laps before the heat and the tour groups arrive.
-- **Pay small entry fees in cash.** There's typically a modest entrance fee and a separate one for the Glass House during flower shows — carry small notes, as change can be slow at the counter.
+- **Pay small entry fees in cash.** There's typically a modest entrance fee and a separate one for the Glass House during flower shows, carry small notes, as change can be slow at the counter.
 - **Skip the main West Gate on weekends.** Locals often use the quieter Siddapura or Double Road gates to avoid the queue.
 - **Wear real walking shoes.** The paths are gravel and uneven in places, and 240 acres adds up fast.
 - **Bring water and a hat.** Shade is generous under the older trees, but the open lawns near the lake get hot by mid-morning.
 
-The mistake first-time visitors make is treating this as a quick 20-minute photo stop. Locals treat it as a proper walk — budget the time and you'll get far more out of it.
+The mistake first-time visitors make is treating this as a quick 20-minute photo stop. Locals treat it as a proper walk. Budget the time and you'll get far more out of it.
 
 ## Nearby
 

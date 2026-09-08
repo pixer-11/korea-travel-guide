@@ -71,23 +71,23 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-29'
 ---
-You come up out of the underpass at Tiananmen Square, cross the moat, and there it is: the Meridian Gate, a red-walled, gold-roofed wall of a building so wide it swallows the crowd milling in front of it. This is the only way in for visitors, and once you're through, the noise of the avenue drops away and you're standing at the edge of a stone courtyard big enough to lose a few thousand people in — which, on a busy day, it will.
+You come up out of the underpass at Tiananmen Square, cross the moat, and there it is: the Meridian Gate, a red-walled, gold-roofed wall of a building so wide it swallows the crowd milling in front of it. This is the only way in for visitors, and once you're through, the noise of the avenue drops away and you're standing at the edge of a stone courtyard big enough to lose a few thousand people in, which, on a busy day, it will.
 
-The Palace Museum is the modern name for what everyone still calls the Forbidden City, the seat of Chinese emperors from the Ming dynasty in the 1420s through the end of the Qing in 1912. It's not one building but nearly a thousand, arranged along a strict north-south spine that Beijing's whole downtown grid is built around. You walk that spine — through the Hall of Supreme Harmony, the Hall of Central Harmony, the Hall of Preserving Harmony — and the scale keeps escalating: wider terraces, taller thrones, more dragons carved into more marble balustrades, until you reach the private inner court where emperors actually lived, a warren of smaller courtyards, sleeping quarters, and gardens that feels almost domestic after the ceremonial halls out front.
+The Palace Museum is the modern name for what everyone still calls the Forbidden City, the seat of Chinese emperors from the Ming dynasty in the 1420s through the end of the Qing in 1912. It's not one building but nearly a thousand, arranged along a strict north-south spine that Beijing's whole downtown grid is built around. You walk that spine (through the Hall of Supreme Harmony, the Hall of Central Harmony, the Hall of Preserving Harmony), and the scale keeps escalating: wider terraces, taller thrones, more dragons carved into more marble balustrades, until you reach the private inner court where emperors actually lived, a warren of smaller courtyards, sleeping quarters, and gardens that feels almost domestic after the ceremonial halls out front.
 
 ## Getting there
 
-The complex sits at 4 Jing Shan Qian Jie in Dongcheng District, immediately north of Tiananmen Square. The nearest subway stops are Tiananmen East or Tiananmen West on Line 1, both a short walk to the south entrance, though because of security checks around the square it's often easier to approach from the north via Jingshan Front Street if you're coming from that side. Bicycles and rideshares can't drop you right at the gate — expect a 10-15 minute walk from wherever you're set down.
+The complex sits at 4 Jing Shan Qian Jie in Dongcheng District, immediately north of Tiananmen Square. The nearest subway stops are Tiananmen East or Tiananmen West on Line 1, both a short walk to the south entrance, though because of security checks around the square it's often easier to approach from the north via Jingshan Front Street if you're coming from that side. Bicycles and rideshares can't drop you right at the gate. Expect a 10-15 minute walk from wherever you're set down.
 
 ## Tickets and timing
 
-Entry is by timed slot, booked online in advance (the museum sells out on peak days and does not typically allow same-day walk-up purchase). It's closed every Monday, with opening hours posted on the official site — plan around that if you're building a multi-day Beijing itinerary. Ticket prices vary by season and are best confirmed on the official site shortly before you go, but expect the visit to sit in the pricier bracket for a Chinese museum, especially once you add the Treasure Gallery or Clock Exhibition, which require separate add-on tickets.
+Entry is by timed slot, booked online in advance (the museum sells out on peak days and does not typically allow same-day walk-up purchase). It's closed every Monday, with opening hours posted on the official site. Plan around that if you're building a multi-day Beijing itinerary. Ticket prices vary by season and are best confirmed on the official site shortly before you go, but expect the visit to sit in the pricier bracket for a Chinese museum, especially once you add the Treasure Gallery or Clock Exhibition, which require separate add-on tickets.
 
 ## What to see and eat
 
 Beyond the three great front halls, make time for the Hall of Mental Cultivation, where Qing emperors actually worked, and the Nine Dragon Screen tucked into the northeastern quarter. The Treasure Gallery in the Palace of Tranquil Longevity holds imperial jade, gold ceremonial objects, and jewel-encrusted ornaments, and it's worth the extra ticket if you have any interest in Qing court life.
 
-Food inside is limited and functional — a few cafés and snack kiosks near the Imperial Garden — so most visitors eat before or after, in the hutongs east of the complex or around Jingshan Park.
+Food inside is limited and functional, a few cafés and snack kiosks near the Imperial Garden, so most visitors eat before or after, in the hutongs east of the complex or around Jingshan Park.
 
 ## When to go
 
@@ -95,6 +95,6 @@ Spring and autumn bring the mildest weather and the clearest light for photos on
 
 ## How to visit like a local
 
-This is one of the most-visited sites in China, not a quiet corner of Beijing, so the smart move is to work around the crowds rather than hope to avoid them. Book your ticket the moment your dates are set — slots vanish days ahead in peak season — and show up at opening rather than mid-morning. Head straight for the central axis first while it's still relatively clear, then loop into the quieter side halls and gardens as the main halls fill up.
+This is one of the most-visited sites in China, not a quiet corner of Beijing, so the smart move is to work around the crowds rather than hope to avoid them. Book your ticket the moment your dates are set, slots vanish days ahead in peak season, and show up at opening rather than mid-morning. Head straight for the central axis first while it's still relatively clear, then loop into the quieter side halls and gardens as the main halls fill up.
 
-Payment is almost entirely by mobile app (Alipay or WeChat Pay) rather than cash, so have one set up before you arrive. Exit through the north gate into Jingshan Park and climb the hill there — the view back over the palace's golden roofs, laid out in full, is the payoff most tour groups skip because they leave the way they came in.
+Payment is almost entirely by mobile app (Alipay or WeChat Pay) rather than cash, so have one set up before you arrive. Exit through the north gate into Jingshan Park and climb the hill there, the view back over the palace's golden roofs, laid out in full, is the payoff most tour groups skip because they leave the way they came in.

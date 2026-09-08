@@ -77,25 +77,25 @@ draft: false
 
 You come here for the pinwheels. Stalls outside sell them in every size, spinning in the breeze, and locals buy one each New Year believing it turns their luck. Che Kung Temple is named for a Song Dynasty general credited with saving the area from plague, and the site has been rebuilt and expanded since Ming times, with the current main halls dating to the 20th century.
 
-It's one of the most visited temples in Hong Kong, drawing worshippers and curious travelers alike. That popularity is the point — this isn't a quiet backstreet shrine, it's a genuinely active place of worship where incense smoke curls up through shafts of light and drums echo off the tiled roofs.
+It's one of the most visited temples in Hong Kong, drawing worshippers and curious travelers alike. That popularity is the point. This isn't a quiet backstreet shrine, it's a genuinely active place of worship where incense smoke curls up through shafts of light and drums echo off the tiled roofs.
 
 ## Getting there
 
 The temple sits at 7 Che Kung Miu Rd in Sha Tin, and getting there is almost embarrassingly easy.
 
 - Take the MTR East Rail Line to Che Kung Temple Station
-- Leave via Exit B and follow signs — it's a five-minute walk
+- Leave via Exit B and follow signs. It's a five-minute walk
 - From Sha Tin town centre, it's a pleasant 15-minute stroll along the Shing Mun River promenade
 
 There's no need for a taxi or bus unless you're combining it with another New Territories stop that day.
 
 ## What you'll see
 
-The first thing that hits you is the scale of the main courtyard, wide enough to swallow the crowds of a busy Sunday. A bronze windmill sculpture — a giant version of the pinwheels sold outside — dominates the open space and gets spun by visitors for luck.
+The first thing that hits you is the scale of the main courtyard, wide enough to swallow the crowds of a busy Sunday. A bronze windmill sculpture, a giant version of the pinwheels sold outside, dominates the open space and gets spun by visitors for luck.
 
 Inside the main hall, Che Kung's statue sits flanked by attendants, the altar thick with incense smoke and offerings of fruit and flowers. Side halls hold shrines to other deities, and older stone details hint at the site's centuries-long layering of rebuilds.
 
-Look for the bronze Qilin statues near the entrance — rubbing them is a local ritual said to bring good fortune, especially popular right after Chinese New Year when the whole complex fills with visitors making their first temple trip of the year.
+Look for the bronze Qilin statues near the entrance, rubbing them is a local ritual said to bring good fortune, especially popular right after Chinese New Year when the whole complex fills with visitors making their first temple trip of the year.
 
 ## When to go
 
@@ -110,11 +110,11 @@ Outside of that window, expect shoulder-to-shoulder crowds near the incense burn
 Given how popular this temple is, timing your visit matters more than anything else here.
 
 - Arrive at 8am on a weekend, or anytime on a weekday, to skip the crush
-- Buy a small pinwheel from the outdoor stalls — it's the classic take-home souvenir, not a tourist markup item
+- Buy a small pinwheel from the outdoor stalls. It's the classic take-home souvenir, not a tourist markup item
 - Bring coins or small notes for incense and donations; most stalls and offering boxes still run on cash
-- Dress modestly — shoulders and knees covered is respectful, though not strictly enforced
+- Dress modestly, shoulders and knees covered is respectful, though not strictly enforced
 - Skip photographing worshippers mid-prayer; step to the side of the main hall instead
 
-The biggest mistake visitors make is treating this purely as a photo stop and missing the ritual underneath it — the spinning windmills, the Qilin rubbing, the incense offerings, all have specific meaning locals take seriously even amid the crowds. Watch how people move through the space before you jump in, and you'll get more out of your time at the altar than any guidebook description could give you.
+The biggest mistake visitors make is treating this purely as a photo stop and missing the ritual underneath it, the spinning windmills, the Qilin rubbing, the incense offerings, all have specific meaning locals take seriously even amid the crowds. Watch how people move through the space before you jump in, and you'll get more out of your time at the altar than any guidebook description could give you.
 
 Afterward, the Shing Mun River cycle path and Sha Tin's malls are both close enough to fold into the same half-day out.

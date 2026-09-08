@@ -82,9 +82,9 @@ draft: false
 
 Central Park doesn't try to dazzle you at the gate. You walk in past rows of plane trees, and the noise of Movarounnahr Street falls away almost immediately.
 
-This is Tashkent's older, gentler amusement park — built in the Soviet era as the Mirzo Ulugbek park, still known locally by its older nickname, Telman park. Rusted-nostalgia charm meets working Ferris wheel. It's the kind of place where families come to walk, not just to queue for rides.
+This is Tashkent's older, gentler amusement park, built in the Soviet era as the Mirzo Ulugbek park, still known locally by its older nickname, Telman park. Rusted-nostalgia charm meets working Ferris wheel. It's the kind of place where families come to walk, not just to queue for rides.
 
-With a 4.7-star rating from close to a thousand reviews, it's clearly well-loved by the people who do visit — even if it stays under the radar for most international travelers.
+With a 4.7-star rating from close to a thousand reviews, it's clearly well-loved by the people who do visit, even if it stays under the radar for most international travelers.
 
 ## Getting there and getting in
 
@@ -92,13 +92,13 @@ The park sits on Movarounnahr Street, within the wider Tashkent city grid, easil
 
 If you're using public transport, ask your hotel for the nearest metro stop to Movarounnahr Street on the day you go, since Tashkent's metro map has expanded in recent years. Walking the last stretch under the park's tree canopy is part of the appeal anyway.
 
-Gates are open daily from 10am to 11pm, so there's no early-morning rush — you can plan around lunch, an afternoon lull, or a cooler evening visit.
+Gates are open daily from 10am to 11pm, so there's no early-morning rush. You can plan around lunch, an afternoon lull, or a cooler evening visit.
 
 ## What to see and do
 
 Inside, the layout is classic Soviet park-of-culture: broad paved avenues, a central lake with paddle boats, a Ferris wheel that gives you a low, wide view over the surrounding rooftops and poplar lines.
 
-Smaller rides cluster near the entrance, aimed at younger kids — teacups, a carousel, a mini train looping through the trees. Older visitors tend to gravitate toward the lake, where benches face the water and the noise thins out.
+Smaller rides cluster near the entrance, aimed at younger kids, teacups, a carousel, a mini train looping through the trees. Older visitors tend to gravitate toward the lake, where benches face the water and the noise thins out.
 
 A few things worth building into your visit:
 
@@ -113,14 +113,14 @@ Evenings bring out the crowds, especially on weekends. According to recent foot-
 
 If you want the park closer to empty, aim for weekday mornings between 10am and noon, right after opening. Weekend mornings, from 11am to 4pm, are also noticeably calmer than the evening rush.
 
-Given Tashkent's hot summers, mornings are also simply more comfortable — the tree cover helps, but midday sun in July and August is intense. Spring and autumn evenings, once the heat breaks, are when the park feels most alive without being packed.
+Given Tashkent's hot summers, mornings are also simply more comfortable, the tree cover helps, but midday sun in July and August is intense. Spring and autumn evenings, once the heat breaks, are when the park feels most alive without being packed.
 
 ## How to visit like a local
 
-Treat Central Park as a place to walk before you treat it as a ride park. Locals come here in the cooler hours — morning or after sunset — and use the lakeside paths as much as the attractions themselves.
+Treat Central Park as a place to walk before you treat it as a ride park. Locals come here in the cooler hours, morning or after sunset, and use the lakeside paths as much as the attractions themselves.
 
 Cash is still the safer bet for small ride tickets and kiosk snacks, though card acceptance has been growing in Tashkent generally; carry some small denomination som just in case.
 
 Rides here run on a pay-per-ride ticket system rather than a single all-inclusive pass, so decide upfront which two or three attractions you actually want rather than trying to do everything.
 
-The mistake visitors make is treating this like a quick photo stop. Give it the full two hours — walk the full loop around the lake, not just the entrance strip — and you'll see why it holds a loyal following despite staying off most tourist itineraries. Since it's genuinely under-the-radar rather than a locals-only secret, you won't find crowds of tourists here, just Tashkent families out for the evening.
+The mistake visitors make is treating this like a quick photo stop. Give it the full two hours (walk the full loop around the lake, not just the entrance strip), and you'll see why it holds a loyal following despite staying off most tourist itineraries. Since it's genuinely under-the-radar rather than a locals-only secret, you won't find crowds of tourists here, just Tashkent families out for the evening.

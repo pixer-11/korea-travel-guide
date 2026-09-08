@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tiong-bahru-national-gallery-singapore
-srcHash: 'd1643333bfd9'
+srcHash: '6da54df062e3'
 title: 'National Gallery Singapore: guía de viaje del Distrito Cívico (4,6★)'
 description: 'La National Gallery Singapore, formada por los restaurados edificios gemelos del antiguo Ayuntamiento y el antiguo Tribunal Supremo en el Distrito Cívico, abre todos los días de 10:00 a 19:00. 4,6★ (16.956 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La National Gallery Singapore, formada por los restaurados edificios gemelos del antiguo Ayuntamiento y el antiguo Tribunal Supremo en el Distrito Cívico, abre todos los días de 10:00 a 19:00. Conviene llegar justo a la apertura, ya que el museo tiene menos afluencia entre las 10:00 y las 11:00 tanto entre semana como los fines de semana, y evitar la avalancha del mediodía a las 18:00 en fin de semana. Para ver lo más destacado de su colección de arte del Sudeste Asiático sin prisas, hay que reservar entre dos y tres horas.

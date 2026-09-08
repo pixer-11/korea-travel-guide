@@ -94,13 +94,13 @@ Expect calm turquoise-green water, soft sand, and a backdrop of mangrove channel
 
 ## Getting there
 
-The location is marked by the Plus Code CFH3+RP in Al Zorah, Ajman — a coastal district north of Ajman's city center that has been developed around golf courses, a marina, and mangrove reserves. There's no metro or rail service in Ajman, so the practical way in is by car or taxi; ride-hailing apps operate throughout the emirate and can drop you close to the access point.
+The location is marked by the Plus Code CFH3+RP in Al Zorah, Ajman, a coastal district north of Ajman's city center that has been developed around golf courses, a marina, and mangrove reserves. There's no metro or rail service in Ajman, so the practical way in is by car or taxi; ride-hailing apps operate throughout the emirate and can drop you close to the access point.
 
 Al Zorah is roughly a 10–15 minute drive from central Ajman and about 30–40 minutes from Dubai or Sharjah depending on traffic, making it feasible as a half-day detour from either city. Because the beach is unmarked and sits off the main roads, plug the coordinates directly into Google Maps or Waze rather than relying on street signage, and expect the final approach to involve a sandy track or informal parking area rather than a paved lot.
 
 ## What to see and do
 
-The main draw is simply the shoreline itself — a stretch of sand with shallow, warm water that's good for wading and casual swimming rather than serious watersports. Because it borders the Al Zorah mangrove system, the setting is greener and more textured than a typical desert-coast beach: expect views of mangrove creeks, wading birds, and low dunes rather than skyscrapers.
+The main draw is simply the shoreline itself, a stretch of sand with shallow, warm water that's good for wading and casual swimming rather than serious watersports. Because it borders the Al Zorah mangrove system, the setting is greener and more textured than a typical desert-coast beach: expect views of mangrove creeks, wading birds, and low dunes rather than skyscrapers.
 
 There are no lifeguards, cabanas, or food stalls at the beach itself, so this is a bring-your-own-everything spot: water, snacks, an umbrella or sunshade, and a way to carry out your own trash. Photographers tend to favor early morning and the last hour before sunset, when the light on the water and mangroves is softest and the heat is manageable.
 
@@ -110,13 +110,13 @@ If you have extra time, the Al Zorah area also has marked mangrove kayaking and 
 
 The UAE's cooler season, roughly November through March, is the most comfortable window for a beach visit here, with daytime temperatures mild enough for extended time outdoors. Summer months (June–September) bring intense heat and humidity, so if you visit then, stick to early morning or evening hours and limit sun exposure in the middle of the day. Weekdays are consistently quieter than Friday and Saturday, which are the regional weekend days in the UAE.
 
-Since the beach is undeveloped, tides and recent weather can affect how much sand is exposed, so a flexible arrival time — rather than a fixed schedule — works best.
+Since the beach is undeveloped, tides and recent weather can affect how much sand is exposed, so a flexible arrival time, rather than a fixed schedule, works best.
 
 ## How to visit like a local
 
 Treat this as a low-infrastructure natural beach, not a resort day-out: there's no entry booth, no card payment point, and likely no reliable cell coverage right at the water, so settle any ride-hailing payment before you arrive and carry small cash for any incidental purchase on the way. The calmest window is a weekday morning, since the site isn't yet a mainstream tourist stop but does draw more visitors on weekends.
 
-Dress modestly compared to Dubai's beach clubs — the UAE's general beachwear norms favor swimwear that isn't overly revealing, and it's respectful to cover up when walking back through any public parking or road areas. The most common mistake is treating it like a serviced beach: arriving without water, shade, or a plan for trash, then being surprised there's nothing to buy nearby.
+Dress modestly compared to Dubai's beach clubs, the UAE's general beachwear norms favor swimwear that isn't overly revealing, and it's respectful to cover up when walking back through any public parking or road areas. The most common mistake is treating it like a serviced beach: arriving without water, shade, or a plan for trash, then being surprised there's nothing to buy nearby.
 
 Pack out everything you bring in, respect the adjacent mangrove ecosystem by not disturbing vegetation or wildlife, and if you're driving, watch for soft sand near the access point that can catch an unprepared vehicle. Because it's still relatively undiscovered, keep noise and group size modest so the spot retains the quiet character that makes it worth the detour.
 

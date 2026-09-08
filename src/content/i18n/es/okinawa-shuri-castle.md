@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-shuri-castle
-srcHash: '469ad99e67e6'
+srcHash: '9fe27b5b287b'
 title: 'Castillo de Shuri: guía de viaje de Okinawa (4,2★)'
 description: 'El Castillo de Shuri, en Naha (Okinawa), es un castillo real reconstruido sobre una colina, abierto todos los días de 8:30 a 19:00, con vistas panorámicas de la ciudad. 4,2★ (33.841 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Castillo de Shuri, en Naha (Okinawa), es un castillo real reconstruido sobre una colina, abierto todos los días de 8:30 a 19:00, con vistas panorámicas de la ciudad. Al ser un lugar muy concurrido, conviene ir justo a la apertura o durante la última hora antes del cierre para evitar las multitudes de los autobuses turísticos. Calcule entre 1,5 y 2 horas para recorrer el recinto y los patios interiores.

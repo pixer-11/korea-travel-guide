@@ -100,23 +100,23 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-Daegu 83 Tower is the closest thing the city has to a signature skyline landmark — an 83-story radio and observation tower (the name is a play on its floor count) topped with a distinctive octagon-shaped viewing deck. It anchors Duryu Park, one of Daegu's largest green spaces, and gives visitors a 360-degree look at the city ringed by mountains like Palgongsan and Biseulsan.
+Daegu 83 Tower is the closest thing the city has to a signature skyline landmark, an 83-story radio and observation tower (the name is a play on its floor count) topped with a distinctive octagon-shaped viewing deck. It anchors Duryu Park, one of Daegu's largest green spaces, and gives visitors a 360-degree look at the city ringed by mountains like Palgongsan and Biseulsan.
 
 With a 4.4 rating across more than 5,000 reviews, it's a well-liked stop for both first-time visitors and Daegu residents who bring out-of-town guests here specifically for the view.
 
-Unlike Seoul's N Seoul Tower, 83 Tower isn't perched on a mountain — it rises straight out of a flat urban park, which makes the ascent and the payoff feel different: you go from playground and lake views at ground level to a wide, uninterrupted city panorama in the space of a fast elevator ride.
+Unlike Seoul's N Seoul Tower, 83 Tower isn't perched on a mountain, it rises straight out of a flat urban park, which makes the ascent and the payoff feel different: you go from playground and lake views at ground level to a wide, uninterrupted city panorama in the space of a fast elevator ride.
 
 ## Getting there
 
 The tower sits inside Duryu Park at 200 Duryugongwon-ro, Dalseo District. The most straightforward route is by subway: take Line 2 to Duryu Station and exit toward Duryu Park (the park entrance is a manageable walk from the station, roughly 10-15 minutes through tree-lined paths). Alternatively, Line 3's monorail has a Duryu Station stop as well, and several city buses stop directly at the park's edges. If you're coming from downtown Daegu (Dongseong-ro or the Seomun Market area), a taxi ride runs about 15-20 minutes depending on traffic.
 
-Once inside the park, follow signs toward the tower — it's visible from almost anywhere in Duryu Park, so getting lost isn't really a concern. Expect a 5-10 minute walk from the main park gates to the tower's base.
+Once inside the park, follow signs toward the tower. It's visible from almost anywhere in Duryu Park, so getting lost isn't really a concern. Expect a 5-10 minute walk from the main park gates to the tower's base.
 
 ## What to see and do
 
 The main draw is the observation deck near the top of the octagonal section, which offers glass-walled views over Dalseo District and beyond. On clear days, visibility extends far enough to pick out the surrounding mountain ranges that ring the Daegu basin. The deck includes an eatery and cafe, making it reasonable to linger over a coffee or a light meal while taking in the view rather than treating it as a quick photo stop.
 
-Before or after the tower, Duryu Park itself is worth the visit. It has a large musical fountain (Duryu Fountain), a small amusement park (Duryu Waterpark / E-World, adjacent to the tower), walking trails, and seasonal flower displays — cherry blossoms in spring and chrysanthemum festivals in autumn are particular highlights. E-World, the amusement park next to the tower, lights up with LED decorations at night, especially during its winter light festival, which pairs well with an evening tower visit since the illuminated park becomes part of the view from above.
+Before or after the tower, Duryu Park itself is worth the visit. It has a large musical fountain (Duryu Fountain), a small amusement park (Duryu Waterpark / E-World, adjacent to the tower), walking trails, and seasonal flower displays, cherry blossoms in spring and chrysanthemum festivals in autumn are particular highlights. E-World, the amusement park next to the tower, lights up with LED decorations at night, especially during its winter light festival, which pairs well with an evening tower visit since the illuminated park becomes part of the view from above.
 
 Plan for roughly 45 minutes to an hour for the tower itself (queueing, elevator, deck time) and another hour or two if you want to explore the wider park grounds.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mont-saint-michel-mont-saint-michel
-srcHash: '95185dcc1ae4'
+srcHash: 'e29c0151eabb'
 title: 'Mont Saint-Michel: Guía de viaje (4.7★)'
 description: 'La abadía del Mont Saint-Michel abre todos los días de 9:30 a 18:30 (última entrada aproximadamente una hora antes del cierre), y se puede recorrer la isla libremente en cualquier momento. 4.7★ (122.749 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'La abadía del Mont Saint-Michel abre todos los días de 9:30 a 18:30 (última entrada aproximadamente una hora antes del cierre), y la isla en sí se puede recorrer libremente en cualquier momento. Ve a la apertura o después de las 16:00 para evitar las multitudes en la Grande Rue, y consulta las tablas de mareas antes de ir: es un lugar muy popular, así que espera encontrar bastante gente durante todo el año. Reserva al menos medio día: una hora para subir a la abadía, más si te detienes en las murallas o presencias cómo sube la marea en la bahía.'

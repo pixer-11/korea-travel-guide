@@ -79,7 +79,7 @@ Bokor Hill Station is a mountaintop leftover from a very different Cambodia. Fre
 
 The station sits inside Preah Monivong (Bokor) National Park, roughly 40km and about an hour's drive from Kampot town. Most visitors rent a scooter, hire a tuk-tuk driver for the day, or join a guided tour that bundles transport with a park entrance stop.
 
-The road climbs steadily through forest, switchbacking up to around 1,000 meters elevation. It's paved and manageable on a scooter if you're an experienced rider, but the temperature drop and frequent cloud cover at the top catch people off guard — bring a light jacket even in the dry season.
+The road climbs steadily through forest, switchbacking up to around 1,000 meters elevation. It's paved and manageable on a scooter if you're an experienced rider, but the temperature drop and frequent cloud cover at the top catch people off guard. Bring a light jacket even in the dry season.
 
 ## What to see
 
@@ -89,29 +89,29 @@ Walk a few minutes further and you'll reach Black Palace, the ruined former resi
 
 Other stops worth building into your visit:
 
-- **Popokvil Waterfall** — a short detour off the main road, best in the wet season (roughly June to October) when the water actually flows
-- **Wat Sampov Pram** — a hilltop pagoda with Buddhist statues and panoramic views
-- **The new Thansur Bokor casino resort** — modern and jarring next to the ruins, but worth a glance for the contrast
+- **Popokvil Waterfall**, a short detour off the main road, best in the wet season (roughly June to October) when the water actually flows
+- **Wat Sampov Pram**, a hilltop pagoda with Buddhist statues and panoramic views
+- **The new Thansur Bokor casino resort**, modern and jarring next to the ruins, but worth a glance for the contrast
 
 Give yourself at least half a day to cover the main ruins and viewpoints; a full day lets you add the waterfall and pagoda without rushing.
 
 ## When to go
 
-Mornings are your best bet for clear skies — cloud and mist tend to roll in over the plateau by early afternoon, especially in the wet season. If sweeping coastal views matter to you, aim to arrive by mid-morning at the latest.
+Mornings are your best bet for clear skies, cloud and mist tend to roll in over the plateau by early afternoon, especially in the wet season. If sweeping coastal views matter to you, aim to arrive by mid-morning at the latest.
 
-The dry season, roughly November through April, gives you the best odds of a clear view over the Gulf of Thailand. Visit in the wet season instead if you want Popokvil Waterfall running at full force — just pack a rain layer, as showers on the mountain can be sudden and cold.
+The dry season, roughly November through April, gives you the best odds of a clear view over the Gulf of Thailand. Visit in the wet season instead if you want Popokvil Waterfall running at full force, just pack a rain layer, as showers on the mountain can be sudden and cold.
 
 ## How to visit like a local
 
-Bokor is well-known and well-visited, so the way to enjoy it without the crush is timing, not secrecy. Aim to leave Kampot by 7 or 8am, before tour buses and group vans start climbing the mountain — you'll get the ruins closer to yourself and beat the midday fog.
+Bokor is well-known and well-visited, so the way to enjoy it without the crush is timing, not secrecy. Aim to leave Kampot by 7 or 8am, before tour buses and group vans start climbing the mountain. You'll get the ruins closer to yourself and beat the midday fog.
 
 A few practical notes:
 
 - There's no ticket booth fee to enter the ruins themselves, but confirm current park entrance rules before you go, as they've shifted over the years.
-- Bring cash for any food stalls or drink stands near the summit — card acceptance is unreliable up here.
+- Bring cash for any food stalls or drink stands near the summit, card acceptance is unreliable up here.
 - Wear closed shoes; the old hotel floors are uneven stone and rubble, not paved walkways.
-- Don't just photograph the Palace Hotel from outside — walk in. The interior stairwells and empty ballroom are where the atmosphere really lands.
+- Don't just photograph the Palace Hotel from outside. Walk in. The interior stairwells and empty ballroom are where the atmosphere really lands.
 - Combine the trip with Kampot's pepper farms or a Kampong Bay River sunset cruise on the way back down, since you'll already have transport arranged for the day.
 
-The mistake most first-timers make is treating Bokor as a quick photo stop. The drive alone takes an hour each way, and the fog can shut down visibility with little warning — build in buffer time rather than racing the clock.
+The mistake most first-timers make is treating Bokor as a quick photo stop. The drive alone takes an hour each way, and the fog can shut down visibility with little warning, build in buffer time rather than racing the clock.
 

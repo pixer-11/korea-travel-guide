@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: shanghai-the-bund
-srcHash: '7126f0d0df98'
+srcHash: '77d68b885535'
 title: '와이탄(The Bund): 상하이 여행 가이드'
 description: 와이탄은 상하이 황푸구(Huangpu District) 중산둥이로(Zhongshan Dong Yi Road)를 따라 이어지는 1,500미터 길이의 강변 산책로로, 한쪽에는 1920~30년대 서양식 건물들이 늘어서 있습니다.
 quickAnswer: 와이탄은 상하이 황푸구(Huangpu District) 중산둥이로(Zhongshan Dong Yi Road)를 따라 이어지는 1,500미터 길이의 강변 산책로로, 한쪽에는 1920~30년대 서양식(식민지 시대) 건물들이 늘어서 있고, 황푸강(Huangpu River) 건너편으로는 미래적인 푸동(Pudong) 스카이라인(동방명주탑, 진마오타워, 상하이타워)이 펼쳐집니다. 양쪽이 모두 불을 밝히는 해 질 무렵에 방문하는 것이 좋으며, 산책과 사진 촬영에 1~2시간 정도를 잡으면 됩니다. 무료이며 24시간 개방되어 있고, 난징둥루(East Nanjing Road, 지하철 2호선/10호선)역에서 강 쪽 출구로 나오는 것이 가장 편리합니다.

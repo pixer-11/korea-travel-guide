@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: madrid-formula-1-spanish-grand-prix-madring
-srcHash: '5bb07110b25d'
+srcHash: '7edfda29d397'
 title: '포뮬러 1 스페인 그랑프리(MADRING): 알아야 할 모든 것 (마드리드)'
 description: 2026년 9월 11일부터 13일까지 스페인 마드리드에서 열리는 포뮬러 1 스페인 그랑프리(MADRING) — 이 대회가 무엇인지, 언제 어디서 열리는지, 그리고 어떻게 일정을 준비하면 좋을지 알아봅니다.
 quickAnswer: 포뮬러 1 스페인 그랑프리가 2026년 9월 11일부터 13일까지 마드리드로 돌아옵니다. 경기는 도시 북동쪽 IFEMA 마드리드(IFEMA Madrid) 전시 단지를 중심으로 새로 지어진 하이브리드 스트리트/상설 서킷인 MADRING에서 열립니다. 이는 마드리드에서 45년 만에 열리는 첫 F1 경기이며, 9월 13일 일요일 열리는 그랑프리는 이번 시즌 16번째 라운드로 진행됩니다. 페리아 데 마드리드(Feria de Madrid)나 캄포 데 라스 나시오네스(Campo de las Naciones) 인근의 메트로 접근이 편리한 숙소를 서둘러 예약하고, 최종 일정과 티켓 등급은 출발 전 F1 및 MADRING 공식 사이트에서 반드시 확인하세요.

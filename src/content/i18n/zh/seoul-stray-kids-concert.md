@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seoul-stray-kids-concert
-srcHash: 'dda4a098b19f'
+srcHash: 'e210c9b3e33b'
 title: Stray Kids演唱会指南：首尔站你需要知道的事
 description: 作为夏季巡演的一站，Stray Kids原定于2026年8月1日至2日在首尔奥林匹克公园内的KSPO Dome开唱。这是关于演出内容、时间与地点的整理。
 quickAnswer: 作为夏季巡演的一部分，Stray Kids原定于2026年8月1日至2日在首尔奥林匹克公园的KSPO Dome开唱。购票方式、具体开场时间以及嘉宾阵容等细节当时并未正式公布；Stray Kids本人及JYP娱乐的官方渠道公布了首尔站的演出日期。

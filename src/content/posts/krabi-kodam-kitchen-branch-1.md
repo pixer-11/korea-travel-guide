@@ -118,19 +118,19 @@ The price level is budget (level 1), meaning this is a spot for travelers who wa
 
 ## Getting There
 
-The restaurant sits at 228 Moo 3, Thanon Khlong Hang, Tambon Ao Nang, Amphoe Mueang Krabi — inland from the beach road, in the residential/commercial part of Ao Nang rather than directly on the waterfront. There's no rail system in Krabi, so getting there means a short songthaew, taxi, or scooter ride from wherever you're staying in Ao Nang, Nopparat Thara, or Krabi Town.
+The restaurant sits at 228 Moo 3, Thanon Khlong Hang, Tambon Ao Nang, Amphoe Mueang Krabi, inland from the beach road, in the residential/commercial part of Ao Nang rather than directly on the waterfront. There's no rail system in Krabi, so getting there means a short songthaew, taxi, or scooter ride from wherever you're staying in Ao Nang, Nopparat Thara, or Krabi Town.
 
 Most Ao Nang beachfront hotels are a 5–10 minute ride away; if you're staying in Krabi Town itself, budget closer to 20–30 minutes by car. Grab (the regional ride-hailing app) works in the area and is the easiest way to get an upfront fare estimate rather than negotiating with a taxi driver on the street. If you're on a rental scooter, Thanon Khlong Hang has enough local traffic that parking is generally easier here than trying to squeeze in near the beach promenade.
 
 ## What to Eat
 
-Kodam Kitchen's strength is the Thai comfort-food canon: expect a menu built around pad Thai, tom yum goong (hot and sour shrimp soup), green and red curries, cashew stir-fries, fried rice variations, and whole or fillet fish prepared Thai-style. Portions are generally sized for sharing family-style, which fits the high-turnover, communal feel of the dining room. Because the price level is low and the review volume is so high, this is a place where the kitchen is clearly optimized for consistency at scale — a good sign for flavor reliability, even if it means the room can feel more functional than romantic.
+Kodam Kitchen's strength is the Thai comfort-food canon: expect a menu built around pad Thai, tom yum goong (hot and sour shrimp soup), green and red curries, cashew stir-fries, fried rice variations, and whole or fillet fish prepared Thai-style. Portions are generally sized for sharing family-style, which fits the high-turnover, communal feel of the dining room. Because the price level is low and the review volume is so high, this is a place where the kitchen is clearly optimized for consistency at scale, a good sign for flavor reliability, even if it means the room can feel more functional than romantic.
 
 Don't expect elaborate plating or a curated wine list; expect food that tastes like it was made by people who cook these dishes every single day.
 
 ## When to Go
 
-Given the review count, expect this to be a genuinely busy restaurant, especially during Krabi's high season (November through March, when the weather is driest and tourist numbers peak). Arriving right at the start of lunch (around 11:30 am) or early for dinner (before 6:30 pm) is the best way to avoid a wait. Thailand's shoulder months — April through June, and September through October — bring fewer crowds but also heat and possible rain, so factor that into how much you want to be waiting outside.
+Given the review count, expect this to be a genuinely busy restaurant, especially during Krabi's high season (November through March, when the weather is driest and tourist numbers peak). Arriving right at the start of lunch (around 11:30 am) or early for dinner (before 6:30 pm) is the best way to avoid a wait. Thailand's shoulder months (April through June, and September through October) bring fewer crowds but also heat and possible rain, so factor that into how much you want to be waiting outside.
 
 As with most independently run Thai restaurants, hours can shift seasonally or around Thai public holidays, so confirm current opening times on Google Maps or by phone before making it your one must-eat stop.
 
@@ -138,4 +138,4 @@ As with most independently run Thai restaurants, hours can shift seasonally or a
 
 Because Kodam Kitchen sits slightly inland rather than on the beach road, pair a visit with a walk toward Ao Nang Beach or the nightly street-food stalls that pop up along the main tourist strip after dark. It's also a sensible stop before or after a longtail boat trip to the Phi Phi Islands or Railay Beach, both of which depart from piers a short ride away.
 
-Bring small baht denominations — budget Thai restaurants at this scale often prefer cash over card, and change for large bills can slow down an already busy counter. Given the price level and quality, it's a solid choice for travelers trying to stretch a Krabi food budget across more meals rather than blowing it on one resort dinner.
+Bring small baht denominations. Budget Thai restaurants at this scale often prefer cash over card, and change for large bills can slow down an already busy counter. Given the price level and quality, it's a solid choice for travelers trying to stretch a Krabi food budget across more meals rather than blowing it on one resort dinner.

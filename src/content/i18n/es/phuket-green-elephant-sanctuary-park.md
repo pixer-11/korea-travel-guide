@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-green-elephant-sanctuary-park
-srcHash: '499eb2f9d7d6'
+srcHash: 'b0608065222e'
 title: 'Green Elephant Sanctuary Park: guía de viaje de Phuket'
 description: Green Elephant Sanctuary Park se encuentra en Cherngtalay, cerca de las playas de Bang Tao y Layan, en el noroeste de Phuket, y ofrece encuentros éticos con elefantes de medio día (alimentación, paseo, baño de barro, sin montar) en lugar de una simple parada para hacer fotos.
 quickAnswer: Green Elephant Sanctuary Park se encuentra en Cherngtalay, cerca de las playas de Bang Tao y Layan, en el noroeste de Phuket, y ofrece encuentros éticos con elefantes de medio día (alimentación, paseo, baño de barro, sin montar) en lugar de una simple parada para hacer fotos. Reserva una sesión de mañana o tarde directamente a través del santuario con antelación, usa ropa que no te importe ensuciar y calcula unas 3 horas en total, incluido el transporte desde la mayoría de los resorts de la costa oeste.

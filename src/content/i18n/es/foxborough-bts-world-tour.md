@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: foxborough-bts-world-tour
-srcHash: '841871b5574d'
+srcHash: '643c99099a24'
 title: 'Gira Mundial de BTS: lo que hay que saber (Foxborough)'
 description: 'Gira Mundial de BTS en Foxborough, Estados Unidos: 5 y 6 de agosto de 2026 en el Gillette Stadium, además de Arlington los días 15 y 16 de agosto. Las fechas y sedes anunciadas.'
 quickAnswer: BTS tenía previsto actuar en el Gillette Stadium de Foxborough, Massachusetts, los días 5 y 6 de agosto de 2026, dos fechas dentro de una gira mundial de 79 conciertos y la primera gira global del grupo desde que sus integrantes completaron el servicio militar. Los canales oficiales de BTS/HYBE y del Gillette Stadium son donde se publican la venta de entradas, los horarios de las actuaciones y los detalles sobre las puertas de acceso. Foxborough en sí cuenta con poca oferta hotelera, por lo que el área de Boston, Norwood, Dedham y Providence suelen ser las bases habituales para una estancia de dos noches en el estadio.

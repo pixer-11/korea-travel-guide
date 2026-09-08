@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-ayu-bakehouse
-srcHash: 'edee9fa0b140'
+srcHash: '7e74a7989c15'
 title: Ayu Bakehouse 新奥尔良旅行指南（4.7★）
 description: Ayu Bakehouse 是一家位于新奥尔良法国人街（Frenchmen Street）的越法风味小型烘焙坊，以带有东南亚风味的千层糕点闻名——比如班兰可颂和法式焦糖酥（kouign-amann）。4.7★（878条评价）——看看游客怎么说，附营业时间和实用建议。
 quickAnswer: Ayu Bakehouse 是一家位于新奥尔良法国人街（Frenchmen Street）的越法风味小型烘焙坊，以带有东南亚风味的千层糕点闻名——比如班兰可颂和法式焦糖酥（kouign-amann）。这里只在上午营业（8点到下午2点或3点半，视当天而定），工作日通常比较清静；而周末上午9点到下午2点是人最多的时段。

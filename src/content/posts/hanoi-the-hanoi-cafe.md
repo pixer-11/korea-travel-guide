@@ -93,39 +93,39 @@ updatedDate: '2026-09-03'
 
 ## Finding It
 
-The Hanoi Cafe hides on P. Yên Thái, a lane so narrow you'll wonder if your map is wrong. It isn't — keep walking past the motorbikes wedged against the walls.
+The Hanoi Cafe hides on P. Yên Thái, a lane so narrow you'll wonder if your map is wrong. It isn't. Keep walking past the motorbikes wedged against the walls.
 
 The Old Quarter swallows street numbers whole, so look for a cluster of hanging plants and a chalkboard menu rather than trusting the address alone. You're a short walk from Hoan Kiem Lake, close enough to fold this into a morning loop around the lake and the tangle of "Hang" streets nearby.
 
 ## What the Room Feels Like
 
-Inside, the building climbs up rather than out — narrow floors stacked one on top of another, tube-house style, the way most Old Quarter buildings do. Wooden shutters stay pushed open to the lane, letting in street noise, motorbike horns, and the smell of someone frying something two doors down.
+Inside, the building climbs up rather than out, narrow floors stacked one on top of another, tube-house style, the way most Old Quarter buildings do. Wooden shutters stay pushed open to the lane, letting in street noise, motorbike horns, and the smell of someone frying something two doors down.
 
 Ceiling fans turn slowly overhead. The walls carry the low-key clutter of a place that's been photographed a lot: framed prints, the odd potted plant catching light from a window well. It's not fancy, and it isn't trying to be.
 
 ## What to Order
 
-Egg coffee is the reason most people find this address in the first place. It's Hanoi's signature drink — egg yolk whipped with condensed milk into a custardy foam, floated over dark robusta coffee.
+Egg coffee is the reason most people find this address in the first place. It's Hanoi's signature drink, egg yolk whipped with condensed milk into a custardy foam, floated over dark robusta coffee.
 
 Beyond the coffee, the kitchen runs a genuine Vietnamese menu rather than a tourist-simplified one. Worth ordering:
 
 - **Cà phê trứng** (egg coffee), hot or iced
-- **Bún chả** — grilled pork with noodles and herbs
+- **Bún chả**, grilled pork with noodles and herbs
 - **Phở bò**, the classic beef noodle soup
 - **Bánh mì** for something quick and portable
 - Fresh sugarcane or coconut juice if you want something cold and non-caffeinated
 
-Portions are sized for a real meal, not a snack, and prices sit in the mid-range bracket for the neighborhood — you're paying a bit more than a street stall, less than a hotel restaurant.
+Portions are sized for a real meal, not a snack, and prices sit in the mid-range bracket for the neighborhood. You're paying a bit more than a street stall, less than a hotel restaurant.
 
 ## When to Go
 
 The cafe opens at 7:45am and runs until 10pm every day, so there's room to fit it in whenever you're passing. Weekday mornings are consistently calm, staying quiet basically from opening straight through the day.
 
-Weekends flip that script. If you're coming on a Saturday or Sunday, get there right at 8am — the quiet window closes fast, and by 10am through 2pm the tables fill and the stairs get a queue. Evenings are a safer bet if you'd rather not plan around the morning rush.
+Weekends flip that script. If you're coming on a Saturday or Sunday, get there right at 8am. The quiet window closes fast, and by 10am through 2pm the tables fill and the stairs get a queue. Evenings are a safer bet if you'd rather not plan around the morning rush.
 
 ## Why It's Popular
 
-With a rating of 4.8 from a couple thousand reviews, this isn't an under-the-radar find — it's a well-known name that regularly shows up on Old Quarter food lists. That popularity is earned: the egg coffee is properly made, not oversweetened, and the savory dishes hold their own rather than playing second fiddle to the drink.
+With a rating of 4.8 from a couple thousand reviews, this isn't an under-the-radar find. It's a well-known name that regularly shows up on Old Quarter food lists. That popularity is earned: the egg coffee is properly made, not oversweetened, and the savory dishes hold their own rather than playing second fiddle to the drink.
 
 Expect to share the space with other travelers, especially at midday. That's the trade-off for a menu and location this reliable.
 
@@ -136,9 +136,9 @@ Skip the late-morning crush and go early. The quietest stretch on weekdays runs 
 A few practical notes:
 
 - **Ordering**: point-and-order menus with photos are common in the Old Quarter, so don't hesitate to ask staff for a recommendation if the Vietnamese names are unfamiliar.
-- **Payment**: cash is still king in most Old Quarter eateries, though card acceptance is increasingly common — carry some dong just in case.
+- **Payment**: cash is still king in most Old Quarter eateries, though card acceptance is increasingly common, carry some dong just in case.
 - **Seating**: the building is narrow and vertical, so if the ground floor looks full, ask about upstairs seating before assuming there's no room.
-- **Pacing**: treat egg coffee as a slow drink, not something to gulp — it's meant to be eaten with a spoon as much as sipped.
-- **Common mistake**: tourists often stop at the doorway confused by the alley entrance and turn back. Walk in — the lane openings in the Old Quarter almost always lead somewhere.
+- **Pacing**: treat egg coffee as a slow drink, not something to gulp. It's meant to be eaten with a spoon as much as sipped.
+- **Common mistake**: tourists often stop at the doorway confused by the alley entrance and turn back. Walk in, the lane openings in the Old Quarter almost always lead somewhere.
 
 Give yourself 45 minutes to an hour if you're having a full meal alongside the coffee, less if you're just stopping for the cà phê trứng itself.

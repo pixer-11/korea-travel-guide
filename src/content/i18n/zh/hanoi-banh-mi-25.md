@@ -1,5 +1,5 @@
 ---
-srcHash: 'a5d7bbfbc82e'
+srcHash: '806ab3f75dea'
 lang: zh
 slug: hanoi-banh-mi-25
 title: 'Banh Mi 25：河内美食指南'

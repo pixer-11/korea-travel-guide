@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-dakeng-scenic-area
-srcHash: '5432d37f1c8e'
+srcHash: '73fc63a4ef46'
 title: 'Área Escénica de Dakeng: Guía de viaje de Taichung'
 description: El Área Escénica de Dakeng es una red de senderos numerados (Senderos 1–10) en las colinas boscosas del distrito de Beitun, a unos 30–40 minutos del centro de Taichung en taxi o scooter.
 quickAnswer: 'El Área Escénica de Dakeng (Dakeng Scenic Area) es una red de senderos numerados (Senderos 1–10) en las colinas boscosas del distrito de Beitun (Beitun District), a unos 30–40 minutos del centro de Taichung en taxi o scooter. Es un lugar muy visitado, no un secreto oculto, así que ve un día entre semana por la mañana si puedes: los fines de semana hay afluencia constante de 7am a 6pm. El Sendero 4, con sus tramos de escaleras de madera y cuerdas, es la ruta emblemática; calcula entre 2 y 4 horas dependiendo del sendero que elijas.'

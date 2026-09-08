@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-longue-vue-house-and-gardens
-srcHash: '3ee2b7bd3f96'
+srcHash: '18777a9114d7'
 title: 朗格沃庭园(Longue Vue House and Gardens):新奥尔良旅行指南
 description: 朗格沃庭园(Longue Vue House and Gardens)是一座建于1940年代、占地8英亩的庄园，坐落在城市公园(City Park)附近，集装饰艺术宅邸与喷泉、池塘和规整花园于一体。4.7★(819条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 朗格沃庭园(Longue Vue House and Gardens)是一座建于1940年代、占地8英亩的庄园，坐落在城市公园(City Park)附近，集装饰艺术宅邸与喷泉、池塘和规整花园于一体。相比市内那些名气响亮的景点，这里安静得多，游客也少——工作日开门时段(早上8-9点)前往，小径最为清静。房子加花园大约需要预留90分钟到2小时。

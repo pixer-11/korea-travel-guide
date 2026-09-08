@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bangkok-earth-house-restaurant-wine-bar
-srcHash: '540b1ebc5fd1'
+srcHash: '21adc8065168'
 title: Earth House（アースハウス）｜レストラン＆ワインバー：バンコクで食事するなら
 description: Earth House（アースハウス）は、ワッタナー区のスクンビット53通り（Soi Sukhumvit 53）を入った先にある、プラントベース料理が楽しめるレストラン＆ワインバー。トンロー（Thong Lo）BTS駅から徒歩圏内。4.8★（435件のレビュー）— 訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: Earth House（アースハウス）は、ワッタナー区のスクンビット53通り（Soi Sukhumvit 53）を入った先にある、プラントベース料理が楽しめるレストラン＆ワインバーで、トンロー（Thong Lo）BTS駅から徒歩圏内にあります。週末の朝はブランチメニューがおすすめ、または閉店間際の22〜23時に訪れると混雑が落ち着いています。月曜休業で、平日は13:30まで営業が始まりません。

@@ -71,21 +71,21 @@ aiGenerated: true
 
 ION Sky sits atop ION Orchard, the glass-and-steel shopping complex that anchors the junction of Orchard Road and Paterson Road, directly above Orchard MRT station. At 56 storeys up, it's one of the few vantage points in central Singapore where you can see Orchard Road's retail canyon on one side and the green sprawl of the Singapore Botanic Gardens and the Central Business District skyline on the other, all without leaving the shopping belt.
 
-With a 4.6 rating across more than 3,000 reviews, it's become one of the more consistently well-regarded attractions in the district — not a hidden find, but a reliably good one.
+With a 4.6 rating across more than 3,000 reviews, it's become one of the more consistently well-regarded attractions in the district, not a hidden find, but a reliably good one.
 
 Beyond the view, the deck includes small exhibits touching on Singapore's food culture and city history, which give the visit a bit more substance than a pure photo-op lookout.
 
 ## Getting there
 
-ION Sky is at 2 Orchard Turn, directly above ION Orchard mall. The easiest route is Orchard MRT station (North-South Line and Thomson-East Coast Line) — ION Orchard connects straight into the station via basement exits, so you barely surface at street level. From the station concourse, follow signs into ION Orchard's basement, then head to the dedicated ION Sky lift lobby, which is separate from the regular shopping-mall lifts. Staff or signage will direct you to it; it's typically located toward the upper floors near the mall's atrium.
+ION Sky is at 2 Orchard Turn, directly above ION Orchard mall. The easiest route is Orchard MRT station (North-South Line and Thomson-East Coast Line), ION Orchard connects straight into the station via basement exits, so you barely surface at street level. From the station concourse, follow signs into ION Orchard's basement, then head to the dedicated ION Sky lift lobby, which is separate from the regular shopping-mall lifts. Staff or signage will direct you to it; it's typically located toward the upper floors near the mall's atrium.
 
-If arriving by taxi or ride-hail, ask for the ION Orchard main entrance on Orchard Turn — this puts you closest to the ground-floor lobby.
+If arriving by taxi or ride-hail, ask for the ION Orchard main entrance on Orchard Turn, this puts you closest to the ground-floor lobby.
 
 ## What to see
 
-The deck wraps around the top of the tower, so plan to circle it fully rather than parking at one window. Facing southeast, you get the Orchard Road strip itself — Wisma Atria, Takashimaya, and the shopping strip fading toward Somerset. Turn northwest and the view opens toward the Botanic Gardens' tree canopy and the residential districts beyond. On a clear day, the CBD's skyline, including Marina Bay, is visible in the distance.
+The deck wraps around the top of the tower, so plan to circle it fully rather than parking at one window. Facing southeast, you get the Orchard Road strip itself, Wisma Atria, Takashimaya, and the shopping strip fading toward Somerset. Turn northwest and the view opens toward the Botanic Gardens' tree canopy and the residential districts beyond. On a clear day, the CBD's skyline, including Marina Bay, is visible in the distance.
 
-The exhibits woven into the walkway cover Singapore's evolution as a trading and food hub — worth a slow read if you want context rather than just photos. Because the deck is one continuous loop rather than a sprawling multi-level attraction, most visitors comfortably cover it in 30 to 45 minutes.
+The exhibits woven into the walkway cover Singapore's evolution as a trading and food hub, worth a slow read if you want context rather than just photos. Because the deck is one continuous loop rather than a sprawling multi-level attraction, most visitors comfortably cover it in 30 to 45 minutes.
 
 ## When to go
 
@@ -93,9 +93,9 @@ Late afternoon into early evening is the strongest window: you get daylight view
 
 ## How to visit like a local
 
-Since ION Sky is well-known rather than a niche find, the practical challenge is timing around crowds rather than discovering it. Weekday late afternoons (around 4–6pm) tend to be quieter than weekends, when visiting the deck is often bundled with a day of shopping along Orchard Road. Entry has historically been tied to a minimum spend or redemption at ION Orchard's customer service counter rather than a straightforward ticket booth, and the exact process has changed over the years — confirm the current admission or registration method on the mall's official channels before heading up, rather than assuming a walk-up ticket price.
+Since ION Sky is well-known rather than a niche find, the practical challenge is timing around crowds rather than discovering it. Weekday late afternoons (around 4–6pm) tend to be quieter than weekends, when visiting the deck is often bundled with a day of shopping along Orchard Road. Entry has historically been tied to a minimum spend or redemption at ION Orchard's customer service counter rather than a straightforward ticket booth, and the exact process has changed over the years, confirm the current admission or registration method on the mall's official channels before heading up, rather than assuming a walk-up ticket price.
 
-Dress for air-conditioning — the deck and lift lobby are climate-controlled and can feel cold after Orchard Road's humidity. Photography is the main activity, so if you're visiting near sunset, expect a brief cluster of visitors near the west-facing windows and be ready to wait a minute for a clear shot rather than jostle for position. The most common visitor mistake is treating it as a long outing — pair it with lunch or shopping in ION Orchard itself, since the deck alone doesn't need more than three-quarters of an hour.
+Dress for air-conditioning (the deck and lift lobby are climate-controlled and can feel cold after Orchard Road's humidity. Photography is the main activity, so if you're visiting near sunset, expect a brief cluster of visitors near the west-facing windows and be ready to wait a minute for a clear shot rather than jostle for position. The most common visitor mistake is treating it as a long outing) pair it with lunch or shopping in ION Orchard itself, since the deck alone doesn't need more than three-quarters of an hour.
 
 Payment throughout ION Orchard is standard Singapore retail practice: cards and mobile pay (PayNow, Apple/Google Pay) are widely accepted, with tipping not customary anywhere in the mall.
 

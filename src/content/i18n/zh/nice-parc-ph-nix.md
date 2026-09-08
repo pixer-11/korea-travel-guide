@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nice-parc-ph-nix
-srcHash: '4b172f5e028f'
+srcHash: 'ed3a63598982'
 title: 凤凰公园(Parc Phœnix):尼斯旅行指南(4.2★)
 description: 凤凰公园(Parc Phœnix)是位于英国人海滨大道(Promenade des Anglais)西侧的大型植物园兼免费动物园，以巨大的热带玻璃温室、鸟舍、水獭和沙袋鼠最为出名。4.2★(12,807条评论)——游客评价、开放时间与实用建议。
 quickAnswer: 凤凰公园(Parc Phœnix)是位于英国人海滨大道(Promenade des Anglais)西侧的大型植物园兼免费动物园，以巨大的热带玻璃温室、鸟舍、水獭和沙袋鼠最为出名。它每天9:30至19:30开放;周末从正午到18点人流较多，建议选在周末的清晨(9:30–10点)前往，或者选择工作日，因为工作日全天都比较清静。建议预留两到三个小时来好好游览。

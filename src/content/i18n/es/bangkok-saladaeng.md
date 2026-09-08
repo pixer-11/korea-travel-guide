@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-saladaeng
-srcHash: '58d019a74448'
+srcHash: 'a9af9d222f3f'
 title: Saladaeng en Bangkok
 description: 'Saladaeng en Bangkok, Tailandia — un lugar nuevo y de moda: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: Saladaeng es un club social y bar en la azotea, ubicado en el piso 42 de la torre de oficinas Dusit Central Park en Bangkok. Se divide en cuatro zonas temáticas con vistas al perfil urbano y reúne más de 100 piezas de mobiliario Fritz Hansen. Se trata de un lugar recién inaugurado y con fuerte impronta de diseño, ideal para visitar en una noche entre semana, cuando el ambiente es más tranquilo y la luz del atardecer se aprecia mejor antes de que caiga la noche. Conviene reservar con antelación, vestir de manera smart-casual y confirmar los horarios y la política de reservas vigentes antes de subir.

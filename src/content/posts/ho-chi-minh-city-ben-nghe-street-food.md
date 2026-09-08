@@ -108,13 +108,13 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-Ben Nghe Street Food solves a real problem for visitors: Ho Chi Minh City's best street food is often scattered across unmarked sidewalk carts with no English menus and inconsistent hygiene standards. This spot consolidates that experience into one address — a semi-open-air night market-style food court in District 1 with rows of grill stations, seafood tanks, and hot-pot tables.
+Ben Nghe Street Food solves a real problem for visitors: Ho Chi Minh City's best street food is often scattered across unmarked sidewalk carts with no English menus and inconsistent hygiene standards. This spot consolidates that experience into one address, a semi-open-air night market-style food court in District 1 with rows of grill stations, seafood tanks, and hot-pot tables.
 
 With a 4.3 rating from nearly 13,000 reviews, it's clearly a proven quantity for travelers who want a taste of Saigon's street-food culture without the guesswork. It functions less like a single restaurant and more like a curated collection of vendors under one roof, which makes it easy to sample widely in one sitting.
 
 ## Getting there
 
-The address is 134 Nam Kỳ Khởi Nghĩa, in Sài Gòn ward, District 1 — one of the most central and walkable parts of Ho Chi Minh City. It sits within easy reach of the Notre-Dame Cathedral Basilica of Saigon and the Central Post Office, both a short walk north, and isn't far from Reunification Palace. If you're staying anywhere near Dong Khoi Street or the Bui Vien backpacker area, expect a 10–15 minute walk or a quick, inexpensive Grab (Vietnam's dominant ride-hailing app) ride.
+The address is 134 Nam Kỳ Khởi Nghĩa, in Sài Gòn ward, District 1, one of the most central and walkable parts of Ho Chi Minh City. It sits within easy reach of the Notre-Dame Cathedral Basilica of Saigon and the Central Post Office, both a short walk north, and isn't far from Reunification Palace. If you're staying anywhere near Dong Khoi Street or the Bui Vien backpacker area, expect a 10–15 minute walk or a quick, inexpensive Grab (Vietnam's dominant ride-hailing app) ride.
 
 Taxis and Grab cars are the most reliable way to arrive after dark, since street parking in District 1 is limited and traffic can be chaotic during rush hour (roughly 5–7 pm).
 
@@ -128,16 +128,16 @@ Expect a broad spread of Vietnamese street classics rather than one signature di
 - **Fresh coconuts and sugarcane juice** – the go-to drinks to cool down between grilled dishes.
 - **Bo la lot** (grilled beef wrapped in betel leaf) and other DIY grill-it-yourself plates at some stalls.
 
-Because it's a multi-vendor court, portions are typically small-to-medium and priced individually — order a few dishes per person and share, which is how most tables approach it. Price level runs on the affordable end for Ho Chi Minh City street food, though slightly above what you'd pay flagging down an individual sidewalk cart.
+Because it's a multi-vendor court, portions are typically small-to-medium and priced individually, order a few dishes per person and share, which is how most tables approach it. Price level runs on the affordable end for Ho Chi Minh City street food, though slightly above what you'd pay flagging down an individual sidewalk cart.
 
 ## When to go
 
-Evenings, from around 6 to 9 pm, are when the space is liveliest — most stalls fire up their grills as the sun goes down, and the smoky, sizzling atmosphere is part of the draw. Weeknights tend to be calmer than Friday and Saturday, when both locals and tourists pack the tables. Plan on 60–90 minutes if you're sampling several stalls; longer if you're settling in with a group over drinks.
+Evenings, from around 6 to 9 pm, are when the space is liveliest. Most stalls fire up their grills as the sun goes down, and the smoky, sizzling atmosphere is part of the draw. Weeknights tend to be calmer than Friday and Saturday, when both locals and tourists pack the tables. Plan on 60–90 minutes if you're sampling several stalls; longer if you're settling in with a group over drinks.
 
 ## Tips & nearby
 
 - Bring small cash (Vietnamese dong) since not every individual stall accepts cards, even though the venue overall is tourist-accustomed.
 - English menus and picture boards are common, but pointing at dishes or photos still works well for anything unlabeled.
-- Napkins and wet wipes are worth carrying — this is hands-on eating.
+- Napkins and wet wipes are worth carrying. This is hands-on eating.
 - Pair a visit with an evening stroll to the nearby Cathedral and Post Office, both beautifully lit after dark, or continue on to the Saigon Skydeck at the Bitexco Financial Tower for a rooftop view to cap the night.
 - As with any high-turnover food court, standards and specific vendors can shift over time, so confirm current stall lineups and hours locally rather than assuming a past visit's exact offerings will match today's.

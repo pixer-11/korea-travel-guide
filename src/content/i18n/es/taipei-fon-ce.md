@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-fon-ce
-srcHash: 'd02ffa59ec92'
+srcHash: 'b442ef3504e0'
 title: 'Fon-Ce: Dónde comer en Taipéi'
 description: 'Fon-Ce en Taipéi, Taiwán — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Fon-Ce es un restaurante de inspiración latinoamericana en Taipéi que apareció en la lista de nuevas incorporaciones de febrero de 2026 de la Guía MICHELIN Taiwán, conocido sobre todo por su versión de buñuelos hecha con garbanzo. Es una apertura reciente y muy comentada, no un clásico de toda la vida, así que conviene reservar con antelación y confirmar el horario vigente antes de ir. Espera un comedor cálido, con terracota y cactus, pensado para una comida tranquila de entre hora y media y dos horas.

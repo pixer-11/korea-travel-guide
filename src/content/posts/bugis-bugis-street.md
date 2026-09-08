@@ -94,7 +94,7 @@ updatedDate: '2026-08-29'
 
 Bugis Street isn't subtle, and it isn't trying to be. Step off Victoria Street into the covered market and you're hit with rows of stalls stacked floor to ceiling with graphic tees, phone cases, keychains, and rack after rack of sundresses swaying under fluorescent light.
 
-It's less a street now than a warren of interconnected malls, but the bones of the old flea-market chaos survive in the density of it all — vendors calling out prices, the smell of fried snacks drifting from the food stalls, teenagers three-deep at the accessory counters.
+It's less a street now than a warren of interconnected malls, but the bones of the old flea-market chaos survive in the density of it all, vendors calling out prices, the smell of fried snacks drifting from the food stalls, teenagers three-deep at the accessory counters.
 
 ## Getting there
 
@@ -104,15 +104,15 @@ If you're coming from Marina Bay or the Quays, it's an easy add-on to a day that
 
 ## What to see and buy
 
-The market spans multiple linked buildings, so give yourself time to get pleasantly lost. Don't expect a single logical layout — that's part of the charm.
+The market spans multiple linked buildings, so give yourself time to get pleasantly lost. Don't expect a single logical layout. That's part of the charm.
 
 Worth seeking out:
-- Cheap, trend-driven fashion — think festival wear, oversized tees, oddly specific pop-culture merch
+- Cheap, trend-driven fashion, think festival wear, oversized tees, oddly specific pop-culture merch
 - Phone accessories and tech knockoffs, priced for bargaining
 - Local snacks and street food stalls tucked between the clothing rows
 - Souvenir stalls with Merlion keychains and Singapore-branded magnets
 
-Quality varies stall to stall, so check stitching and zippers before buying — this is volume retail, not boutique.
+Quality varies stall to stall, so check stitching and zippers before buying. This is volume retail, not boutique.
 
 ## When to go
 
@@ -120,17 +120,17 @@ Bugis Street is open every day, 10am to 10pm, with no day-of-week variation. Tha
 
 Foot traffic data shows the calmest window is weekday mornings, 10am to noon, right after opening. Weekends stay relatively quiet only briefly, from 10 to 11am, before filling up fast.
 
-Avoid arriving on a Saturday or Sunday afternoon if you can help it — the market gets genuinely packed from noon through 9pm, and the narrow aisles turn into a slow shuffle rather than a browse.
+Avoid arriving on a Saturday or Sunday afternoon if you can help it. The market gets genuinely packed from noon through 9pm, and the narrow aisles turn into a slow shuffle rather than a browse.
 
 ## How to visit like a local
 
-This is one of the most-visited shopping streets in Singapore, and it draws heavy tourist and local foot traffic in roughly equal measure — there's no quiet back-door version of it, so plan around the crowds rather than hoping to dodge them entirely.
+This is one of the most-visited shopping streets in Singapore, and it draws heavy tourist and local foot traffic in roughly equal measure. There's no quiet back-door version of it, so plan around the crowds rather than hoping to dodge them entirely.
 
 - **Go early.** Weekday mornings between 10am and noon are your best shot at browsing without shoulder-to-shoulder crowds.
-- **Bargain lightly.** Prices at clothing and accessory stalls are often flexible, especially if you're buying more than one item — a polite ask rarely hurts.
+- **Bargain lightly.** Prices at clothing and accessory stalls are often flexible, especially if you're buying more than one item, a polite ask rarely hurts.
 - **Pay however suits you.** Most stalls take cash, and many now accept card or mobile payment (PayNow, card terminals), but carrying some small cash notes speeds things up at food stalls.
 - **Skip the outer racks.** Locals browsing for actual quality tend to head toward the stalls further inside the complex, past the entrance displays aimed at passersby.
-- **Don't expect air-conditioned comfort throughout** — some corridors are open-air or fan-cooled, so dress light and comfortable, particularly in the afternoon heat.
-- The most common tourist mistake here is treating it like a quick five-minute photo stop. The market rewards a slower, deliberate wander — that's when the better finds and quieter stalls turn up.
+- **Don't expect air-conditioned comfort throughout**. Some corridors are open-air or fan-cooled, so dress light and comfortable, particularly in the afternoon heat.
+- The most common tourist mistake here is treating it like a quick five-minute photo stop. The market rewards a slower, deliberate wander. That's when the better finds and quieter stalls turn up.
 
 Pair your visit with a meal nearby: the surrounding Bugis area has hawker options and cafés within a five-minute walk, making it easy to turn this into a half-day loop rather than a rushed stopover.

@@ -82,7 +82,7 @@ It's not a manicured garden or a polished attraction. It's a working hillside wi
 
 Mitra's Ranch sits on Mitra Road, a few kilometers north of downtown Puerto Princesa. Most visitors arrive by tricycle, rented motorbike, or as a stop on a private island-hopping or city tour.
 
-There's no jeepney route that runs directly to the entrance, so a habal-habal (motorbike taxi) or a hired van is the practical option. The road climbs steadily near the end, so if you're on a scooter, take the last stretch slowly — it's steep and can be loose gravel after rain.
+There's no jeepney route that runs directly to the entrance, so a habal-habal (motorbike taxi) or a hired van is the practical option. The road climbs steadily near the end, so if you're on a scooter, take the last stretch slowly. It's steep and can be loose gravel after rain.
 
 ## What to see and do
 
@@ -95,7 +95,7 @@ Beyond the view, there are a few low-key activities worth your time:
 - Small refreshment stalls selling drinks and snacks near the entrance
 - Photo spots with rope swings and simple wooden frames set against the skyline
 
-None of it is elaborate. The appeal is the setting, not the infrastructure — this is a place to slow down, not to check off a list of rides.
+None of it is elaborate. The appeal is the setting, not the infrastructure. This is a place to slow down, not to check off a list of rides.
 
 ## When to go
 
@@ -107,12 +107,12 @@ Midday sun is harsh and offers little shade, so if sunrise isn't realistic, aim 
 
 ## How to visit like a local
 
-Come early. The 7am–9am window isn't just quieter — it's cooler, better lit for photos, and gives you the ranch largely to yourself before tour vans start arriving.
+Come early. The 7am–9am window isn't just quieter. It's cooler, better lit for photos, and gives you the ranch largely to yourself before tour vans start arriving.
 
-Payment at the entrance and refreshment stalls is typically cash-based, so bring small bills in Philippine pesos; card and mobile payment aren't reliable this far outside the city center. Fees here are minor add-ons for entrance, parking, or the zip line rather than a major expense, so exact amounts can shift — treat any price you're quoted as approximate.
+Payment at the entrance and refreshment stalls is typically cash-based, so bring small bills in Philippine pesos; card and mobile payment aren't reliable this far outside the city center. Fees here are minor add-ons for entrance, parking, or the zip line rather than a major expense, so exact amounts can shift, treat any price you're quoted as approximate.
 
 There's no formal booking system. You simply show up, pay the entrance fee at the gate, and walk up. If you want the zip line, expect a short wait during busy hours but little to none in the early morning.
 
-The mistake most visitors make is treating this as a quick five-minute photo stop squeezed between other tours. Give it closer to an hour — enough time to walk the grounds, sit with the view, and let the light change if you've come at sunrise or sunset.
+The mistake most visitors make is treating this as a quick five-minute photo stop squeezed between other tours. Give it closer to an hour, enough time to walk the grounds, sit with the view, and let the light change if you've come at sunrise or sunset.
 
-Wear shoes with grip. The paths are unpaved dirt and grass, sometimes uneven, and can turn slick if it's rained recently. Locals treat Mitra's Ranch as a relaxed half-day add-on paired with a Puerto Princesa city tour rather than a standalone destination — plan it that way and you'll get the most out of the visit.
+Wear shoes with grip. The paths are unpaved dirt and grass, sometimes uneven, and can turn slick if it's rained recently. Locals treat Mitra's Ranch as a relaxed half-day add-on paired with a Puerto Princesa city tour rather than a standalone destination. Plan it that way and you'll get the most out of the visit.

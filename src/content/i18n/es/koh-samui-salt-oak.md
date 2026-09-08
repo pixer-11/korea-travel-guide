@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-samui-salt-oak
-srcHash: '01fe50fab09a'
+srcHash: 'f6c76023d76c'
 title: 'Salt & Oak: dónde comer en Koh Samui'
 description: Salt & Oak es un restaurante de cocina abierta y parrilla a leña en Bo Put, en el noreste de Koh Samui, cerca de Fisherman's Village, con una calificación de 4.8 sobre más de 1,200 reseñas.
 quickAnswer: Salt & Oak es un restaurante de cocina abierta y parrilla a leña en Bo Put, en el noreste de Koh Samui, cerca de Fisherman's Village, con una calificación de 4.8 sobre más de 1,200 reseñas. Conviene ir a cenar (reservando con antelación, sobre todo en temporada alta, de noviembre a marzo) y calcular entre 90 minutos y dos horas para una comida de varios platos. Si vas un viernes, puedes combinarlo con un paseo nocturno por el mercado callejero de Fisherman's Village.

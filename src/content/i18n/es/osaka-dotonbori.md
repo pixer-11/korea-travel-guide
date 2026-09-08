@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: osaka-dotonbori
-srcHash: '9caf71a29cfd'
+srcHash: 'c5c55cfdaa17'
 title: 'Dotonbori: dónde comer en Osaka'
 description: Dotonbori, a orillas del canal en el barrio de Chuo, es la mejor zona de Osaka para probar de una sola vez la comida callejera emblemática de la ciudad —takoyaki, okonomiyaki, kushikatsu y ramen—, comida de pie bajo carteles de neón como el del Hombre Corredor de Glico.
 quickAnswer: Dotonbori, a orillas del canal en el barrio de Chuo, es la mejor zona de Osaka para probar de una sola vez la comida callejera emblemática de la ciudad —takoyaki, okonomiyaki, kushikatsu y ramen—, comida de pie bajo carteles de neón como el del Hombre Corredor de Glico. Ve con hambre entre las 5 y las 8 de la tarde para vivir el ambiente al máximo, dedica entre 2 y 3 horas a ir probando bocados en lugar de sentarte a una sola comida, y espera encontrar mucha gente durante todo el año.

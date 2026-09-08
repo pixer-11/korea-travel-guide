@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-wolmi-theme-park
-srcHash: '54c58d2c7015'
+srcHash: '845bcfc8ef8f'
 title: 'Wolmi Theme Park: guía de viaje de Incheon'
 description: Wolmi Theme Park es un parque de diversiones compacto y con encanto retro en la isla de Wolmido, en el distrito de Jung-gu de Incheon, al que se llega mejor tomando la Estación de Incheon (Línea 1 de Incheon) y luego un breve trayecto en taxi o autobús.
 quickAnswer: Wolmi Theme Park es un parque de diversiones compacto y con encanto retro en la isla de Wolmido, en el distrito de Jung-gu de Incheon, al que se llega mejor tomando la Estación de Incheon (Línea 1 de Incheon) y luego un breve trayecto en taxi o autobús. Vale la pena dedicarle medio día para disfrutar de sus atracciones retro, el famoso barco pirata disco con vistas al mar, y un paseo al atardecer por la cercana Wolmi Culture Street, antes de cenar marisco en Wolmido o Sinpodong. Es especialmente recomendable para familias con niños pequeños y para quienes buscan una alternativa nostálgica y tranquila a los grandes parques temáticos de Seúl.

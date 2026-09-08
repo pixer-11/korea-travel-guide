@@ -114,13 +114,13 @@ You come here for the slow version of Koh Tao: a swim before the day heats up, a
 
 ## Getting there
 
-Koh Tao itself is reached by ferry from Chumphon, Surat Thani, or Koh Phangan/Koh Samui — there's no airport on the island. From Mae Haad pier, where most boats dock, Chalok Baan Kao is a 10–15 minute ride by songthaew (shared pickup truck taxi) heading south.
+Koh Tao itself is reached by ferry from Chumphon, Surat Thani, or Koh Phangan/Koh Samui. There's no airport on the island. From Mae Haad pier, where most boats dock, Chalok Baan Kao is a 10–15 minute ride by songthaew (shared pickup truck taxi) heading south.
 
-Drivers hang around the pier and cluster near guesthouses; agree the fare before you climb in. Renting a scooter is the other common option — the road down is paved and manageable, though it does have a few steep dips near the bay itself, worth taking slowly if you're new to island roads.
+Drivers hang around the pier and cluster near guesthouses; agree the fare before you climb in. Renting a scooter is the other common option. The road down is paved and manageable, though it does have a few steep dips near the bay itself, worth taking slowly if you're new to island roads.
 
 ## What to see and do
 
-The bay itself is small, which is part of its charm — you can walk the whole curve in ten minutes. Between the palms sit a handful of open-air bars and family-run seafood shacks, plastic tables right at the edge of the sand.
+The bay itself is small, which is part of its charm. You can walk the whole curve in ten minutes. Between the palms sit a handful of open-air bars and family-run seafood shacks, plastic tables right at the edge of the sand.
 
 Several dive centers operate out of Chalok Baan Kao, and this end of the island is a popular launch point for boats heading to nearby dive sites like Chumphon Pinnacle and Southwest Pinnacle. Even non-divers will notice the tanks stacked along the shorefront in the morning.
 
@@ -135,7 +135,7 @@ Things worth building your visit around:
 
 The beach is open 24 hours, every day, so there's no gate or ticket to plan around. What changes is the crowd, not the access.
 
-Weekday mornings tend to be the quietest window here — expect near-empty sand. On weekends that calm stretch lasts a bit longer, giving you a longer buffer before things pick up.
+Weekday mornings tend to be the quietest window here. Expect near-empty sand. On weekends that calm stretch lasts a bit longer, giving you a longer buffer before things pick up.
 
 The busiest period is Saturday and Sunday afternoons into the evening, when the beach bars fill and boats return. If you want space to swim without dodging dive groups, build your visit around the morning instead.
 
@@ -143,8 +143,8 @@ The busiest period is Saturday and Sunday afternoons into the evening, when the 
 
 Come at sunrise. Because this beach still flies under most tourists' radar compared to Sairee, an early swim here often means having a genuine stretch of coconut-lined sand entirely to yourself, something increasingly rare on Koh Tao.
 
-Payment at the shoreside shacks and bars is mostly cash, though card readers are creeping in at the bigger dive shops — bring small baht notes to keep things simple with food vendors. Tipping isn't expected but rounding up for a beach server or boat crew is appreciated, not required.
+Payment at the shoreside shacks and bars is mostly cash, though card readers are creeping in at the bigger dive shops. Bring small baht notes to keep things simple with food vendors. Tipping isn't expected but rounding up for a beach server or boat crew is appreciated, not required.
 
-The most common mistake visitors make is treating Chalok Baan Kao as a quick photo stop rather than a place to linger. Order food, rent a snorkel, sit through the heat of the day under a palm — the bay rewards unhurried time far more than a drive-by visit.
+The most common mistake visitors make is treating Chalok Baan Kao as a quick photo stop rather than a place to linger. Order food, rent a snorkel, sit through the heat of the day under a palm, the bay rewards unhurried time far more than a drive-by visit.
 
 If you're diving, book your boat the evening before through one of the shorefront dive centers rather than turning up hoping for a spot, especially in high season (December–March). Locals and long-term dive staff treat this stretch as a working beach as much as a scenic one, so keep gear and boat lanes clear when you're swimming near the shore.

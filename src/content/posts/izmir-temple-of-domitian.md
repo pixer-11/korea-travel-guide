@@ -51,13 +51,13 @@ draft: false
 
 Most visitors blow straight past the Temple of Domitian on their way to the Library of Celsus. That's a mistake.
 
-This was one of the first monumental structures built to honor a living Roman emperor, dedicated around 90 AD. Domitian was later damned to obscurity by the Senate, his name scraped from inscriptions, so what you see today is fragmentary — but that fragmentary quality is exactly what makes it worth a slow look.
+This was one of the first monumental structures built to honor a living Roman emperor, dedicated around 90 AD. Domitian was later damned to obscurity by the Senate, his name scraped from inscriptions, so what you see today is fragmentary, but that fragmentary quality is exactly what makes it worth a slow look.
 
 ## What you're actually looking at
 
 The temple itself has mostly vanished. What survives is the substructure: a vaulted terrace of arched chambers that once supported the temple platform above, still visible as you walk up from the Fountain of Pollio.
 
-Nearby stands the Domitian Museum, housing a colossal cult statue that once filled this temple. Only the head and part of a forearm remain, but they're enormous — a good four times life size, giving you a real sense of the scale Romans built at when flattering their rulers.
+Nearby stands the Domitian Museum, housing a colossal cult statue that once filled this temple. Only the head and part of a forearm remain, but they're enormous, a good four times life size, giving you a real sense of the scale Romans built at when flattering their rulers.
 
 Look also for the altar block decorated with reliefs of weapons and armor, relocated near the site. It's easy to walk past without noticing, tucked beside the main path.
 
@@ -79,15 +79,15 @@ Because this spot draws far fewer visitors than the Library of Celsus or the Gre
 
 ## How to visit like a local
 
-Enter through the upper gate near the Magnesia Gate and walk downhill through the site — most large tour groups do the reverse, so you'll be moving against the crowd rather than stuck behind it.
+Enter through the upper gate near the Magnesia Gate and walk downhill through the site. Most large tour groups do the reverse, so you'll be moving against the crowd rather than stuck behind it.
 
 Arrive at opening time if you can. Heat and tour-bus arrivals both build through the late morning, and by early afternoon Curetes Street gets genuinely congested.
 
 - Bring cash in small Turkish lira notes for site facilities and the small stalls near the entrances; card machines aren't always reliable.
-- Wear a hat and carry water — there's little shade between monuments.
+- Wear a hat and carry water. There's little shade between monuments.
 - Budget 5-10 minutes at the temple itself, but 2.5-3 hours for the full Ephesus site.
 - Don't skip the Domitian Museum building beside the temple; many visitors miss it entirely because it looks like a minor outbuilding.
 
-Because this is a genuinely under-the-radar corner of a very famous site, you won't find dedicated signage explaining much beyond a basic placard. A guidebook, an audio guide, or a licensed local guide hired at the entrance adds a lot here — the ruins alone don't tell their own story.
+Because this is a genuinely under-the-radar corner of a very famous site, you won't find dedicated signage explaining much beyond a basic placard. A guidebook, an audio guide, or a licensed local guide hired at the entrance adds a lot here. The ruins alone don't tell their own story.
 
 Combine your visit with the nearby Terrace Houses (a separate small ticket), the Temple of Hadrian a little further downhill, and the Ephesus Museum back in Selçuk, which holds many artifacts excavated from this exact spot.

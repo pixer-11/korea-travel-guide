@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-oryn
-srcHash: '78238de34d1c'
+srcHash: 'eb1d4283f065'
 title: ORYn：巴厘岛觅食去处指南
 description: 介绍印度尼西亚巴厘岛新晋热门餐厅ORYn：它是什么、位于何处，以及该如何前往用餐。
 quickAnswer: ORYn是乌布（Ubud）猴林路（Monkey Forest Road）上新开的一家餐厅兼酒吧，主打明火烹饪，主厨丹尼尔·菲特里·雅普（Danial Fitri Yap）曾任职于CÉ LA VI。这里的烟熏香料风味菜品值得一试，比如角鱼腌鱼生（kingfish ceviche）和蒙古风味虎虾。由于开业不久，具体营业时间和预订政策尚未完全稳定，建议提前预订，出发前务必直接向餐厅确认这两项信息。

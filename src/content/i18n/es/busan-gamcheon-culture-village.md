@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-gamcheon-culture-village
-srcHash: '0602d7642b57'
+srcHash: 'bc26135113d3'
 title: 'Gamcheon Culture Village: Guía de viaje de Busan'
 description: Gamcheon Culture Village es un barrio en la ladera de una colina con casas de colores pastel, murales y pequeñas galerías en el distrito de Saha-gu de Busan, al que se llega mejor en taxi o autobús desde la estación de Toseong (Línea 1, Salida 6).
 quickAnswer: Gamcheon Culture Village es un barrio en la ladera de una colina con casas de colores pastel, murales y pequeñas galerías en el distrito de Saha-gu de Busan, al que se llega mejor en taxi o autobús desde la estación de Toseong (Línea 1, Salida 6). Calcula entre 2 y 3 horas para recorrer las escalinatas, recoger un mapa con sellos en el centro de información y fotografiar los tejados escalonados con la suave luz de la mañana o del final de la tarde. Es una atracción muy visitada y muy fotogénica, así que conviene ir temprano o entre semana para evitar las horas de mayor afluencia.

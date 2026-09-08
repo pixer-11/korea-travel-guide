@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-tan-si-chong-su-temple
-srcHash: '1be257a8edf3'
+srcHash: '0087bc65577f'
 title: 'Templo Tan Si Chong Su: Guía de viaje de Clarke Quay'
 description: El templo Tan Si Chong Su se encuentra en 15 Magazine Road, a cinco minutos a pie desde la ribera de Clarke Quay en dirección a Havelock Road, y abre todos los días de 9:00 a 21:00.
 quickAnswer: El templo Tan Si Chong Su se encuentra en 15 Magazine Road, a cinco minutos a pie desde la ribera de Clarke Quay en dirección a Havelock Road, y abre todos los días de 9:00 a 21:00. Es una parada que pasa bastante desapercibida frente a los bares y restaurantes cercanos, así que es habitual tener el patio para uno solo. Los fines de semana son más tranquilos a partir de las 10:00, mientras que entre las 18:00 y las 21:00 suele haber más movimiento.

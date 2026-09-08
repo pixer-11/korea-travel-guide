@@ -88,9 +88,9 @@ updatedDate: '2026-09-04'
 
 ## Why go
 
-This is the museum that explains everything else you'll see in Hong Kong. Before the skyline, before the harbour ferries, there were typhoon shelters, walled villages, and a British colonial outpost — and this museum lays that whole arc out for you in one building.
+This is the museum that explains everything else you'll see in Hong Kong. Before the skyline, before the harbour ferries, there were typhoon shelters, walled villages, and a British colonial outpost, and this museum lays that whole arc out for you in one building.
 
-The centerpiece is "The Hong Kong Story," a permanent exhibition spanning eight galleries and roughly 400 million years of natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense — you're not reading placards from a distance, you're standing inside the scenes.
+The centerpiece is "The Hong Kong Story," a permanent exhibition spanning eight galleries and roughly 400 million years of natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.
 
 ## Getting there
 
@@ -100,7 +100,7 @@ If you're coming from Hong Kong Island, the Star Ferry to Tsim Sha Tsui pier fol
 
 ## What to see
 
-Budget at least two hours if you want to do "The Hong Kong Story" justice — three if you're a slow reader of captions or traveling with kids who like pressing buttons on the interactive displays.
+Budget at least two hours if you want to do "The Hong Kong Story" justice, three if you're a slow reader of captions or traveling with kids who like pressing buttons on the interactive displays.
 
 Highlights to prioritize:
 - The natural history section, with a walk-through recreation of a tropical forest and mangrove
@@ -120,12 +120,12 @@ The museum is closed on Tuesdays, so don't build a Tuesday itinerary around it. 
 
 This is a well-visited museum, not a hidden find, so the real skill is timing your visit around the crowds rather than trying to avoid them altogether.
 
-Arrive right at 10am on a weekday if you can — the galleries are noticeably calmer before the tour groups and school trips arrive mid-morning. Weekend mornings work too, but the noon-to-6pm window is when it fills up fastest.
+Arrive right at 10am on a weekday if you can. The galleries are noticeably calmer before the tour groups and school trips arrive mid-morning. Weekend mornings work too, but the noon-to-6pm window is when it fills up fastest.
 
-Admission is typically paid at the counter or via the ticketing kiosks near the entrance; cash and cards are both commonly accepted, though Hong Kong's Octopus card system covers many attraction payments too. There's rarely a need to book ahead for general admission — queues move quickly except around special exhibitions.
+Admission is typically paid at the counter or via the ticketing kiosks near the entrance; cash and cards are both commonly accepted, though Hong Kong's Octopus card system covers many attraction payments too. There's rarely a need to book ahead for general admission, queues move quickly except around special exhibitions.
 
 The mistake most visitors make is rushing the "Hong Kong Story" gallery in under an hour, treating it like a quick stopover between Kowloon sights. Locals who bring visiting relatives here tend to slow down at the mid-20th-century sections, where the recreated tenement housing and shopfronts resonate most with anyone who grew up in the city. Give yourself that same time.
 
-Free lockers are usually available near the entrance for bags and umbrellas, useful given Hong Kong's unpredictable rain. Photography is generally allowed in the permanent galleries without flash, though special exhibitions sometimes restrict it — signage at each entrance will tell you.
+Free lockers are usually available near the entrance for bags and umbrellas, useful given Hong Kong's unpredictable rain. Photography is generally allowed in the permanent galleries without flash, though special exhibitions sometimes restrict it, signage at each entrance will tell you.
 
 Pair the visit with the adjacent Hong Kong Science Museum if you have kids in tow, or with a walk along nearby Kowloon Park afterward to decompress from the density of exhibits.

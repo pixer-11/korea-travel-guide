@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chuncheon-1-5-dakgalbi
-srcHash: '22c02d485744'
+srcHash: '4a84eb046112'
 title: '1.5 Dakgalbi: dónde comer en Chuncheon'
 description: 1.5 Dakgalbi es un conocido restaurante de dakgalbi ubicado en 77 Human-ro, en Chuncheon, la ciudad considerada la cuna de este salteado picante de pollo.
 quickAnswer: 1.5 Dakgalbi es un conocido restaurante de dakgalbi ubicado en 77 Human-ro, en Chuncheon, la ciudad considerada la cuna de este salteado picante de pollo. El ambiente es tranquilo entre las 11:00 y las 22:00, tanto entre semana como los fines de semana, aunque conviene evitar la franja de 17:00 a 22:00 los fines de semana, cuando las mesas se llenan rápido. Los precios son de rango medio, se puede pagar en efectivo o con tarjeta, y lo ideal es ir acompañado de al menos otra persona, ya que el dakgalbi está pensado para compartir.

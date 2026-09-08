@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: putrajaya-taman-saujana-hijau-putrajaya
-srcHash: 'ba8cd8141ed0'
+srcHash: '34c9b4b132a7'
 title: 'Taman Saujana Hijau: Guía de Viaje de Putrajaya (4.7★)'
 description: Taman Saujana Hijau es el gran parque al aire libre de Putrajaya, con jardines temáticos, circuitos para correr y vistas al lago, abierto todos los días de 7:00 a 19:00. Descubre qué opinan los visitantes, el horario y algunos consejos, con una valoración de 4.7★ (7,105 reseñas).
 quickAnswer: Taman Saujana Hijau es el gran parque al aire libre de Putrajaya, con jardines temáticos, circuitos para correr y vistas al lago, abierto todos los días de 7:00 a 19:00. Es un lugar genuinamente popular entre los residentes locales para hacer ejercicio, no un secreto bien guardado, así que conviene ir a primera hora de la mañana o después de las 17:30 para evitar el calor y las horas de mayor afluencia. Para un paseo basta con calcular entre 1 y 2 horas; si prefieres recorridos más largos, lleva tu propia bicicleta.

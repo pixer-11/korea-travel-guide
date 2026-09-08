@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-kodaline-farewell-tour
-srcHash: 'a55dbd362bbf'
+srcHash: '267f2e52efb9'
 title: 科达莱恩告别巡演科达莱恩(Kodaline)告别巡演曼谷站须知
 description: 爱尔兰乐队科达莱恩（Kodaline）的告别巡演原定于2026年8月28日至29日在曼谷连开两场，地点是位于素坤逸（Sukhumvit）EmSphere商场内的UOB Live。
 quickAnswer: 爱尔兰乐队科达莱恩（Kodaline）的告别巡演原定于2026年8月28日至29日在曼谷连开两场，地点是素坤逸路（Sukhumvit Road）EmSphere商场内的UOB Live。这两场演出被宣传为该乐队在东南亚的最后巡演，为《All I Want》和《High Hopes》等陪伴歌迷十余年的歌曲画上句号。UOB Live是一座专业演出场馆，从BTS膨蓬站（Phrom Phong）可通过空中连廊直达。

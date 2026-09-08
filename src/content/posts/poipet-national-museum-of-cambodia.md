@@ -81,7 +81,7 @@ Worth knowing before you plan your stops: the museum is a destination in its own
 
 The building itself is a reason to go: a 1920s structure in deep red-ochre, its tiered roofline and carved gables borrowed directly from Khmer temple architecture. Walking toward it feels like approaching a shrine, not a gallery.
 
-Inside, the collection runs deep — Angkorian-era stone sculpture, bronze Buddhas, wooden royal barges, and religious artifacts spanning more than a thousand years of Khmer craftsmanship. A central courtyard garden, planted with lotus ponds and frangipani, breaks up the galleries and gives you a place to sit in the shade between rooms.
+Inside, the collection runs deep, Angkorian-era stone sculpture, bronze Buddhas, wooden royal barges, and religious artifacts spanning more than a thousand years of Khmer craftsmanship. A central courtyard garden, planted with lotus ponds and frangipani, breaks up the galleries and gives you a place to sit in the shade between rooms.
 
 ## Getting there
 
@@ -91,7 +91,7 @@ The museum sits on the riverside edge of the old city, a five-minute walk from t
 
 Give yourself 60 to 90 minutes to move through the four main galleries without rushing.
 
-Highlights include the pre-Angkorian stone carvings, a hall of monumental Angkor-period statuary, and a strong collection of Khmer bronzes — some of the finest in Southeast Asia. Look for the eight-armed statue of Vishnu and the weathered sandstone heads that once crowned temple towers at Angkor itself, before restoration efforts brought them here for safekeeping.
+Highlights include the pre-Angkorian stone carvings, a hall of monumental Angkor-period statuary, and a strong collection of Khmer bronzes, some of the finest in Southeast Asia. Look for the eight-armed statue of Vishnu and the weathered sandstone heads that once crowned temple towers at Angkor itself, before restoration efforts brought them here for safekeeping.
 
 Photography rules and any restricted rooms can shift, so check signage at the entrance rather than assuming blanket permission.
 
@@ -99,19 +99,19 @@ Photography rules and any restricted rooms can shift, so check signage at the en
 
 The museum keeps consistent hours every day of the week, 8am to 5pm, so there's no need to work around a weekly closure.
 
-Crowds build steadily through the morning and stay heavy from 10am to 4pm on weekends — this is one of Cambodia's most-visited cultural sites, and tour groups arrive in waves once the day heats up. Both weekdays and weekends are quietest right at opening, between 8am and 9am.
+Crowds build steadily through the morning and stay heavy from 10am to 4pm on weekends. This is one of Cambodia's most-visited cultural sites, and tour groups arrive in waves once the day heats up. Both weekdays and weekends are quietest right at opening, between 8am and 9am.
 
 If your schedule allows any flexibility, arriving at 8am sharp is the single best move. You'll have the sculpture galleries largely to yourself before the coach groups filter in.
 
 ## How to visit like a local
 
-Cambodians visiting the museum tend to come early and move briskly through, treating it as a quiet cultural stop rather than an all-day outing — worth copying if you want to beat the crowds.
+Cambodians visiting the museum tend to come early and move briskly through, treating it as a quiet cultural stop rather than an all-day outing, worth copying if you want to beat the crowds.
 
 - Arrive at 8am opening; it's the quietest hour on both weekdays and weekends
 - Avoid the 10am-4pm weekend window, when tour buses cluster
-- Pay entrance fees in either US dollars or Cambodian riel — both circulate freely in Phnom Penh
+- Pay entrance fees in either US dollars or Cambodian riel, both circulate freely in Phnom Penh
 - Dress modestly, as you would for any religious or royal site, since much of the collection is sacred in origin
 - Combine your visit with the neighboring Royal Palace to make the most of a single morning in the area
 - Confirm current admission pricing at the gate, since fees are adjusted periodically
 
-The mistake most visitors make is treating this as a rushed add-on between the Royal Palace and lunch. Give the bronze gallery its due — it's the collection insiders linger over longest.
+The mistake most visitors make is treating this as a rushed add-on between the Royal Palace and lunch. Give the bronze gallery its due. It's the collection insiders linger over longest.

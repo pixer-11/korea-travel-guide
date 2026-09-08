@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: strasbourg-christmas-in-alsace
-srcHash: '3d9918cc1dd3'
+srcHash: '933c74022bcb'
 title: 阿尔萨斯的圣诞时光
 description: 斯特拉斯堡圣诞市集(Marché de Noël)从11月下旬持续到12月24日至31日，遍布市中心十几个广场，以克莱贝尔广场(Place Kléber)的巨型圣诞树和大教堂广场(Place de la Cathédrale)为核心据点。
 quickAnswer: 斯特拉斯堡圣诞市集(Marché de Noël)从11月下旬持续到12月24日至31日，遍布市中心十几个广场，以克莱贝尔广场(Place Kléber)的巨型圣诞树和大教堂广场(Place de la Cathédrale)为核心据点。建议留出一整天时间，傍晚前抵达可以赶上华灯初上的时刻，住宿也要尽早预订，因为这是欧洲历史最悠久、人气最旺的圣诞市集之一。如果你不在市集开放季节前来，位于大教堂附近的Rue des Dentelles 10号的"Christmas in Alsace"商店全年营业，是购买阿尔萨斯风格圣诞装饰品和礼物的好去处。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-the-sounds-project-vol-9
-srcHash: '4b3c3387e144'
+srcHash: 'd13aeedb1e16'
 title: 'The Sounds Project Vol. 9: lo que hay que saber (Yakarta)'
 description: 'The Sounds Project Vol. 9 en Yakarta, Indonesia, del 7 al 9 de agosto de 2026: fechas anunciadas, sede, cartel y venta de entradas de este festival de tres días.'
 quickAnswer: The Sounds Project Vol. 9 estaba programado del 7 al 9 de agosto de 2026 en Ecovention Ecopark, en Ancol, Yakarta Norte. Se trataba de un cartel multigénero de tres días que combinaba artistas indonesios como Pamungkas y Rizky Febian con invitados internacionales, entre ellos los roqueros australianos de Jet. Las entradas se vendían a través de los canales oficiales de Sounds Project.

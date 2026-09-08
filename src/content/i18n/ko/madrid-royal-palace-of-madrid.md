@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: madrid-royal-palace-of-madrid
-srcHash: 'b02b824eb274'
+srcHash: 'e9683c2f965f'
 title: '마드리드 왕궁: 여행 가이드'
 description: 마드리드 왕궁(Royal Palace of Madrid)에서 인파를 피하려면 평일 오전 10시 개장 시간에 맞춰 도착하세요 — 가장 한산한 시간대는 10시~11시이며, 주말 오후 1시~6시에는 줄이 가장 길게 늘어섭니다.
 quickAnswer: 마드리드 왕궁(Royal Palace of Madrid)에서 인파를 피하려면 평일 오전 10시 개장 시간에 맞춰 도착하세요 — 가장 한산한 시간대는 10시~11시이며, 주말 오후 1시~6시에는 줄이 가장 길게 늘어섭니다. 알현실(state rooms), 왕실 무기고(armory), 왕실 약국(pharmacy)을 둘러보는 데 두세 시간을 잡아두고, 온라인으로 시간대별 입장권을 미리 예약하세요. 일요일은 오후 3시에 일찍 문을 닫는다는 점도 기억하세요.

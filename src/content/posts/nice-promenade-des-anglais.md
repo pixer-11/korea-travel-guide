@@ -45,21 +45,21 @@ draft: false
 
 ## Why go
 
-The Promenade des Anglais is the single most recognizable stretch of pavement on the French Riviera — a 7-kilometer curve of blue-chair-lined boardwalk tracing the Baie des Anges from the mouth of the Paillon river near the Old Town all the way past Nice's airport. It was originally laid out in the 1820s, funded by the English winter colony (hence the name, "Walkway of the English") who wanted a proper place to stroll and take in sea air.
+The Promenade des Anglais is the single most recognizable stretch of pavement on the French Riviera, a 7-kilometer curve of blue-chair-lined boardwalk tracing the Baie des Anges from the mouth of the Paillon river near the Old Town all the way past Nice's airport. It was originally laid out in the 1820s, funded by the English winter colony (hence the name, "Walkway of the English") who wanted a proper place to stroll and take in sea air.
 
-Today it's equal parts postcard backdrop, cycling artery, and open-air living room for the whole city — locals jog it at dawn, retirees play pétanque along side paths, and in the evening the ornate facades of Belle Époque hotels light up along its landward edge. With a 4.7-star rating across more than 2,500 reviews, it's consistently ranked as Nice's must-do free attraction.
+Today it's equal parts postcard backdrop, cycling artery, and open-air living room for the whole city, locals jog it at dawn, retirees play pétanque along side paths, and in the evening the ornate facades of Belle Époque hotels light up along its landward edge. With a 4.7-star rating across more than 2,500 reviews, it's consistently ranked as Nice's must-do free attraction.
 
 ## Getting there
 
-The most convenient anchor point is the Jardin Albert 1er / Place Masséna area, where the promenade meets the Old Town — reachable via Nice's T2 tram line at the Masséna stop, a five-minute walk inland. If arriving by train, Nice-Ville station is about a 20-minute walk or a quick tram/bus ride down to the coast. Coming from Nice Côte d'Azur Airport, the promenade actually starts near the airport's eastern edge, so travelers staying near the terminals can walk onto it directly; otherwise the airport tram line (T2) runs straight into the city and drops you within walking distance of the seafront.
+The most convenient anchor point is the Jardin Albert 1er / Place Masséna area, where the promenade meets the Old Town, reachable via Nice's T2 tram line at the Masséna stop, a five-minute walk inland. If arriving by train, Nice-Ville station is about a 20-minute walk or a quick tram/bus ride down to the coast. Coming from Nice Côte d'Azur Airport, the promenade actually starts near the airport's eastern edge, so travelers staying near the terminals can walk onto it directly; otherwise the airport tram line (T2) runs straight into the city and drops you within walking distance of the seafront.
 
-Driving is possible but street parking along the promenade is scarce and metered — the Palais des Congrès Acropolis or Masséna underground car parks are more reliable options.
+Driving is possible but street parking along the promenade is scarce and metered, the Palais des Congrès Acropolis or Masséna underground car parks are more reliable options.
 
 ## What to see and do
 
-Start at the eastern end near the Old Town and the Colline du Château, where the promenade meets Quai des États-Unis — this stretch offers the classic view back toward the red-domed roofs of Vieux Nice and the hillside castle ruins. Walking or cycling west, you'll pass the Hôtel Negresco with its pink Belle Époque dome (a protected historic monument), the Masséna Museum in its Italian-villa setting, and the wide pebble public beaches that line the water side, each with seasonal beach clubs offering loungers and umbrellas for a daily fee.
+Start at the eastern end near the Old Town and the Colline du Château, where the promenade meets Quai des États-Unis, this stretch offers the classic view back toward the red-domed roofs of Vieux Nice and the hillside castle ruins. Walking or cycling west, you'll pass the Hôtel Negresco with its pink Belle Époque dome (a protected historic monument), the Masséna Museum in its Italian-villa setting, and the wide pebble public beaches that line the water side, each with seasonal beach clubs offering loungers and umbrellas for a daily fee.
 
-The famous blue chairs positioned every few meters are free to sit in and reserved for exactly this — watching the Mediterranean. A dedicated bike and skate lane runs the length of the promenade, separated from pedestrians; Vélo Bleu, Nice's bike-share network, has docking stations at regular intervals, making a one-way ride to Cap de Nice or back to the airport easy without a return trip on foot.
+The famous blue chairs positioned every few meters are free to sit in and reserved for exactly this, watching the Mediterranean. A dedicated bike and skate lane runs the length of the promenade, separated from pedestrians; Vélo Bleu, Nice's bike-share network, has docking stations at regular intervals, making a one-way ride to Cap de Nice or back to the airport easy without a return trip on foot.
 
 Photographers should aim for the Jardin Albert 1er end at golden hour, when the light hits the Baie des Anges and the hotel facades simultaneously.
 
@@ -67,7 +67,7 @@ Photographers should aim for the Jardin Albert 1er end at golden hour, when the 
 
 Early morning (before 9am) is best for a quiet walk or run, before the pavement fills with tourists and cyclists. Sunset is the classic time for photos and a slow stroll, especially May through October when the light lingers. Summer afternoons get crowded and hot with little shade, so pace a midday visit with a stop at a beachfront café or a dip in the sea.
 
-Winter is genuinely pleasant here too — mild Riviera temperatures mean the promenade stays walkable and far less crowded, which suits the original off-season purpose the English visitors intended.
+Winter is genuinely pleasant here too, mild Riviera temperatures mean the promenade stays walkable and far less crowded, which suits the original off-season purpose the English visitors intended.
 
 ## Nearby & tips
 

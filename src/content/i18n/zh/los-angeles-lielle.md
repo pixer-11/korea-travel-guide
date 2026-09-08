@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-lielle
-srcHash: 'f3ea863b4ecc'
+srcHash: '672e87d6c846'
 title: Lielle：洛杉矶餐厅推荐
 description: Lielle 是洛杉矶一家备受瞩目的新晋餐厅——它是什么、位置在哪、又该如何前往用餐。
 quickAnswer: Lielle 是主厨马库斯·耶恩马克（Marcus Jernmark）在美国开设的第一家餐厅，主打四道菜的季节性品鉴菜单，走的是他所说的“加州小酒馆美食”（California bistronomy）路线——比起他此前在斯德哥尔摩 Frantzén 担任行政总厨时做的品鉴菜单料理，风格更轻盈、更强调时令食材。餐厅刚开业不久，就已入选《Robb Report》2026年美国十大新餐厅榜单，建议提前订位并出发前再次确认营业时间，因为随着热度攀升，这两项信息都可能有所调整。

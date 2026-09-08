@@ -46,7 +46,7 @@ draft: false
 
 ## Why Triveni Ghat matters
 
-This is Rishikesh's spiritual heart, not a side attraction. Its name means "three streams" — the mythical meeting point of the Ganga, Yamuna, and invisible Saraswati rivers. Pilgrims believe a dip here washes away sins accumulated over lifetimes, and the ghat has drawn bathers for centuries.
+This is Rishikesh's spiritual heart, not a side attraction. Its name means "three streams", the mythical meeting point of the Ganga, Yamuna, and invisible Saraswati rivers. Pilgrims believe a dip here washes away sins accumulated over lifetimes, and the ghat has drawn bathers for centuries.
 
 You feel the scale before you understand it. Wide stone steps fan out toward the river, packed with marigold-sellers, priests under bamboo umbrellas, and families wading in fully clothed. Statues of Hindu deities rise along the edges, gilded and garlanded, watching over the water.
 
@@ -54,7 +54,7 @@ You feel the scale before you understand it. Wide stone steps fan out toward the
 
 Mornings here are functional and devotional at once. Locals arrive to bathe, wash clothes, and offer prayers before the day heats up. You'll see priests performing puja for individual families, kids skipping between the steps, and boatmen offering short river rides.
 
-By late afternoon the mood shifts. Vendors set up stalls selling diyas — small leaf bowls holding a candle and flowers — for you to float on the current, a small wish-making ritual almost every visitor tries at least once.
+By late afternoon the mood shifts. Vendors set up stalls selling diyas, small leaf bowls holding a candle and flowers, for you to float on the current, a small wish-making ritual almost every visitor tries at least once.
 
 Then comes the main event: the Ganga Aarti, performed daily at sunset. Priests swing multi-tiered brass lamps in unison, bells ring, and a devotional song rises over the crowd as the sky darkens over the water.
 
@@ -66,13 +66,13 @@ Triveni Ghat sits in the Mayakund area of central Rishikesh, an easy walk or sho
 - Nearest major transit hub: Rishikesh Railway Station, roughly 2 km away
 - The ghat is pedestrian-only once you're inside the lanes leading to it, so the last stretch is on foot
 
-Rickshaw drivers know it by name, and signage from the main road is decent, but the last few hundred metres wind through a narrow market — follow the crowd flow near sunset and you won't get lost.
+Rickshaw drivers know it by name, and signage from the main road is decent, but the last few hundred metres wind through a narrow market, follow the crowd flow near sunset and you won't get lost.
 
 ## When to go
 
 Sunrise (roughly 6–7am depending on season) is calm, cool, and good for photography without a wall of shoulders in your frame. This is when most actual bathing and personal prayer happens.
 
-Sunset is the opposite experience — dense, loud, and full of energy, built around the aarti ceremony. Both are worth doing if you have two days in Rishikesh; if you only have one, prioritize the evening aarti for the atmosphere.
+Sunset is the opposite experience, dense, loud, and full of energy, built around the aarti ceremony. Both are worth doing if you have two days in Rishikesh; if you only have one, prioritize the evening aarti for the atmosphere.
 
 Winter mornings (November–February) can be cold enough that few tourists bathe, but the ceremony still draws a full crowd every evening year-round.
 
@@ -81,11 +81,11 @@ Winter mornings (November–February) can be cold enough that few tourists bathe
 Triveni Ghat is one of the most-visited sites in Rishikesh, so treat the evening aarti like a popular show, not a quiet ritual you'll have to yourself.
 
 - Arrive 20–30 minutes before sunset to get a ghat-side step instead of standing at the back
-- Remove shoes before stepping onto the main platform near the deities — bins or attendants are usually nearby
+- Remove shoes before stepping onto the main platform near the deities, bins or attendants are usually nearby
 - Dress modestly: covered shoulders and knees are appropriate at a working place of worship
-- Buy a diya from one of the ghat vendors for a few rupees rather than negotiating elsewhere — prices are consistently low and haggling isn't the norm here
+- Buy a diya from one of the ghat vendors for a few rupees rather than negotiating elsewhere. Prices are consistently low and haggling isn't the norm here
 - Donations to priests are typically cash, small denominations; no fixed fee is charged to attend the aarti
 - Avoid the mistake most first-timers make: showing up right at sunset and having to watch from the steps above the crowd instead of down by the water
 
-If you want the ghat without the density, come at sunrise instead — it's the same sacred site, a fraction of the people, and the same river.
+If you want the ghat without the density, come at sunrise instead. It's the same sacred site, a fraction of the people, and the same river.
 

@@ -70,7 +70,7 @@ draft: false
 updatedDate: '2026-08-16'
 ---
 
-The dome comes into view before the gate does — a soft gold blur above the rooftops of Katra Ahluwalia, reflected upside-down in a rectangular pool so still it looks poured rather than filled. You leave your shoes at the counter, wade through an ankle-deep water trough at the entrance, and step onto marble that's already warm or cold depending on the hour. Nobody rushes you. That's the first thing you notice.
+The dome comes into view before the gate does, a soft gold blur above the rooftops of Katra Ahluwalia, reflected upside-down in a rectangular pool so still it looks poured rather than filled. You leave your shoes at the counter, wade through an ankle-deep water trough at the entrance, and step onto marble that's already warm or cold depending on the hour. Nobody rushes you. That's the first thing you notice.
 
 ## Why it holds you
 
@@ -80,7 +80,7 @@ Above the white marble base rises a dome sheathed in real gold leaf, catching li
 
 ## Getting there and getting in
 
-The complex sits in Amritsar's old city, walkable from most budget and mid-range hotels clustered nearby. Auto-rickshaws know it simply as "Golden Temple" or "Darbar Sahib" — no address needed.
+The complex sits in Amritsar's old city, walkable from most budget and mid-range hotels clustered nearby. Auto-rickshaws know it simply as "Golden Temple" or "Darbar Sahib", no address needed.
 
 It's open 24 hours, every day, with no entry fee. Security checks are routine: bags get scanned, and men and women pass through separate lines before the main gate.
 
@@ -90,10 +90,10 @@ Walk the full marble parikrama, the circular path that rings the sarovar, before
 
 Don't skip these while you're there:
 
-- **Akal Takht** — the seat of Sikh temporal authority, just north of the causeway entrance
-- **Central Sikh Museum** — upstairs near the clock tower entrance, covering Sikh history and the Partition era
-- **Guru Ka Langar** — the free community kitchen feeding tens of thousands daily, regardless of religion
-- **Night viewing** — the palanquin carrying the Guru Granth Sahib returns after the shrine closes for the night, a ceremony called Sukhasan worth timing your visit around
+- **Akal Takht**, the seat of Sikh temporal authority, just north of the causeway entrance
+- **Central Sikh Museum**, upstairs near the clock tower entrance, covering Sikh history and the Partition era
+- **Guru Ka Langar**, the free community kitchen feeding tens of thousands daily, regardless of religion
+- **Night viewing**, the palanquin carrying the Guru Granth Sahib returns after the shrine closes for the night, a ceremony called Sukhasan worth timing your visit around
 
 The langar hall alone deserves an hour. You sit cross-legged on long mats, volunteers ladle dal and roti onto your steel tray, and thousands of strangers eat in silence together. It's one of the largest free kitchens on earth, running nonstop.
 
@@ -103,7 +103,7 @@ Because it's open around the clock, timing is really about crowd avoidance, not 
 
 Weekends shift entirely. Try not to arrive between 6pm and 11pm on a Saturday or Sunday, when the complex fills with domestic tourists and pilgrims and the queue for the inner sanctum stretches longest.
 
-Early morning also catches the Palki Sahib procession, when the holy scripture is carried to the shrine at dawn — a genuinely moving thing to witness if you can manage the wake-up.
+Early morning also catches the Palki Sahib procession, when the holy scripture is carried to the shrine at dawn, a genuinely moving thing to witness if you can manage the wake-up.
 
 ## How to visit like a local
 
@@ -111,10 +111,10 @@ This is one of the most-visited religious sites in India, so treat crowd-avoidan
 
 A few things regulars always do:
 
-- Cover your head with a scarf or bandana — cloths are handed out free near the entrance if you forget one
+- Cover your head with a scarf or bandana, cloths are handed out free near the entrance if you forget one
 - Wear loose pants or a long skirt; shorts aren't allowed
 - Wash your feet in the water channel at the entrance without being told twice
-- Join the langar queue and actually eat — declining feels more awkward than accepting
+- Join the langar queue and actually eat, declining feels more awkward than accepting
 - Photograph the exterior and pool freely, but don't photograph inside the inner sanctum
 
 The single mistake first-timers make is treating it purely as a photo stop and rushing the causeway queue. Slow down, walk the full parikrama first, and let the hymns set the pace instead of your itinerary.

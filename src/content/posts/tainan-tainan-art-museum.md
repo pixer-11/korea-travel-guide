@@ -56,7 +56,7 @@ draft: false
 
 You spot the building before you know what it is. Five interlocking cubes stacked at odd angles, wrapped in white aluminum panels that catch the Tainan sun differently every hour, rising above the low-rise rooftops of the West Central District like folded origami.
 
-This is Building 2 of the Tainan Art Museum, and it's the reason the museum has become one of the city's most photographed landmarks since opening in 2019. Inside, the collection focuses on contemporary Taiwanese art and sculpture, rotating through exhibitions that range from ink painting to installation work. There's also a quieter, older sibling — Building 1, a restored 1930s Japanese police station a short walk away — but Building 2 is where most visitors start.
+This is Building 2 of the Tainan Art Museum, and it's the reason the museum has become one of the city's most photographed landmarks since opening in 2019. Inside, the collection focuses on contemporary Taiwanese art and sculpture, rotating through exhibitions that range from ink painting to installation work. There's also a quieter, older sibling (Building 1, a restored 1930s Japanese police station a short walk away), but Building 2 is where most visitors start.
 
 ## Getting there
 
@@ -68,7 +68,7 @@ Most visitors combine the two buildings with a broader loop through the Chinese 
 
 The architecture itself is half the exhibit. Skylights drop shafts of natural light down through the stairwells, and the pinwheel layout means you're constantly turning corners into new angles and unexpected views of the courtyard below.
 
-Exhibitions rotate regularly, so what's on display changes throughout the year — check the current program before you go if there's a specific artist or show you want to catch. The ground floor café and rooftop-adjacent restaurant are worth a stop even if you're not staying for the full collection; the coffee and light meals here get quietly good word of mouth alongside the art.
+Exhibitions rotate regularly, so what's on display changes throughout the year. Check the current program before you go if there's a specific artist or show you want to catch. The ground floor café and rooftop-adjacent restaurant are worth a stop even if you're not staying for the full collection; the coffee and light meals here get quietly good word of mouth alongside the art.
 
 Give yourself 90 minutes to two hours for a proper visit. Photographers linger longer, chasing the way afternoon light rakes across the exterior panels.
 
@@ -76,7 +76,7 @@ Give yourself 90 minutes to two hours for a proper visit. Photographers linger l
 
 The museum is closed on Mondays, so don't plan around that day. Tuesday through Friday and Sunday it runs 10am to 6pm, while Saturday hours stretch later, until 9pm, making it one of the only times you can catch the building lit up after dark.
 
-Given how popular this spot has become — it's consistently one of the most-reviewed attractions in Tainan — weekends and holidays draw real crowds, especially in the galleries near the entrance and on the rooftop terrace. Weekday mornings, right after opening, are noticeably calmer.
+Given how popular this spot has become, it's consistently one of the most-reviewed attractions in Tainan, weekends and holidays draw real crowds, especially in the galleries near the entrance and on the rooftop terrace. Weekday mornings, right after opening, are noticeably calmer.
 
 ## How to visit like a local
 
@@ -84,9 +84,9 @@ Arrive at or just after 10am on a weekday. The tour groups and family crowds ten
 
 - **Tickets**: buy in person at the counter or check the museum's official site for online booking; prices are modest but confirm current rates before you go, since they do change.
 - **Payment**: both cash and card are accepted at the ticket counter and café.
-- **Photography etiquette**: exterior shots are unrestricted, but check gallery-by-gallery signage — some special exhibitions restrict interior photography.
+- **Photography etiquette**: exterior shots are unrestricted, but check gallery-by-gallery signage, some special exhibitions restrict interior photography.
 - **The common mistake**: skipping Building 1. Visitors who only see the striking modern structure miss the contrast with the restored Japanese-era building a few minutes' walk away, which houses a different slice of the permanent collection.
 - **Saturday evenings**: if you want the building lit against a dark sky with fewer daytime crowds, the extended 9pm closing on Saturday is the move.
 
-Wear shoes you don't mind doing stairs in — the layout rewards wandering up and down between levels rather than following a single fixed route.
+Wear shoes you don't mind doing stairs in, the layout rewards wandering up and down between levels rather than following a single fixed route.
 

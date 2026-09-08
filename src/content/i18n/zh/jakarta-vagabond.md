@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-vagabond
-srcHash: '42d5857b7890'
+srcHash: '894b58c054ba'
 title: Vagabond：雅加达旅行指南
 description: 印度尼西亚雅加达的新晋热门去处 Vagabond：它是什么、位于何处，以及该如何前往游览。
 quickAnswer: Vagabond 是一家位于南雅加达古宁安（Kuningan）Multivision Tower 25 楼、紧邻天台的鸡尾酒吧，如今是这座城市夜生活中最受追捧的去处之一，以富有创意的调酒和精心策划的音乐著称。如果想和同伴好好聊聊天，不妨选平日晚上前往；要是想感受满场热闹气氛，周五、周六去正合适。记得提前订位——目前这里可不是那种随到随入的地方。

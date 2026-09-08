@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-marche-saint-antoine
-srcHash: 'cb7365181749'
+srcHash: 'd39196e2003a'
 title: 圣安东尼市场（Marché Saint-Antoine）：里昂旅行指南（4.6★）
 description: 圣安东尼市场（Marché Saint-Antoine）是沿里昂半岛（Presqu'île）塞莱斯坦河堤（Quai des Célestins）延伸的露天河畔市场，是一个实实在在的食品市场，而非旅游景点。4.6★（329条评价）——看看游客怎么说，营业时间与实用建议。
 quickAnswer: 圣安东尼市场（Marché Saint-Antoine）是沿里昂半岛（Presqu'île）塞莱斯坦河堤（Quai des Célestins）延伸的露天河畔市场，是一个实实在在的食品市场，而非旅游景点——周日一大早前往，摊位最全，索恩河（Saône）畔的光线也最美；周一、周三、周五则完全不用去，因为这几天休市。记得带上帆布袋和零钱，逛完早餐或野餐前，预留45分钟到1小时的时间。

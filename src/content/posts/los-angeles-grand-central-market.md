@@ -74,9 +74,9 @@ aiGenerated: true
 
 ## Why go
 
-Grand Central Market isn't a discovery — it's an institution. Since 1917, this cavernous hall on Broadway has fed Downtown LA, and today it packs in dozens of vendors under one long, high-ceilinged roof.
+Grand Central Market isn't a discovery. It's an institution. Since 1917, this cavernous hall on Broadway has fed Downtown LA, and today it packs in dozens of vendors under one long, high-ceilinged roof.
 
-You walk in off the street and the space just opens up: exposed beams, hanging signage in a dozen fonts, the clatter of woks and the hiss of an espresso machine all at once. It smells like carnitas and fresh tortillas and roasted coffee, layered on top of each other. This is not a quiet corner of the city — it's one of Downtown's busiest rooms, and it earns that.
+You walk in off the street and the space just opens up: exposed beams, hanging signage in a dozen fonts, the clatter of woks and the hiss of an espresso machine all at once. It smells like carnitas and fresh tortillas and roasted coffee, layered on top of each other. This is not a quiet corner of the city. It's one of Downtown's busiest rooms, and it earns that.
 
 ## Getting there
 
@@ -84,19 +84,19 @@ The market sits at 317 S Broadway, in the Historic Core of Downtown LA.
 
 The Pershing Square Metro station (Red/Purple Line) is a two-minute walk away. If you're driving, the surrounding streets have metered parking and there are pay lots nearby, though weekday traffic downtown can eat into your visit.
 
-Right across the street is the Bradbury Building, famous for its wrought-iron atrium — worth five minutes even if you've only come for lunch. Angels Flight, the tiny funicular railway, is a block up the hill.
+Right across the street is the Bradbury Building, famous for its wrought-iron atrium, worth five minutes even if you've only come for lunch. Angels Flight, the tiny funicular railway, is a block up the hill.
 
 ## What to eat
 
 With this many vendors, decision paralysis is real. A few reliable moves:
 
-- **Egg Slut** — the market's breakout hit, known for the "Slut" (coddled egg over potato purée in a jar). Expect a line.
-- **Sarita's Pupuseria** — thick, griddled pupusas with curtido on top.
-- **China Café** — an old-school stall that's been there since the market's earlier decades, good for cheap noodles.
-- **Valeria's** — tacos and quesadillas that hold their own against anywhere in the city.
+- **Egg Slut**, the market's breakout hit, known for the "Slut" (coddled egg over potato purée in a jar). Expect a line.
+- **Sarita's Pupuseria**, thick, griddled pupusas with curtido on top.
+- **China Café**, an old-school stall that's been there since the market's earlier decades, good for cheap noodles.
+- **Valeria's**, tacos and quesadillas that hold their own against anywhere in the city.
 - **Oysters and cocktails** at a couple of the newer counters if you want something less classic street-food.
 
-Grab a stool at one of the shared counters rather than hunting for a table — turnover is faster and you'll be eating within minutes.
+Grab a stool at one of the shared counters rather than hunting for a table, turnover is faster and you'll be eating within minutes.
 
 ## When to go
 
@@ -108,12 +108,12 @@ Weekday mornings before 11am are the calmest stretch overall, on both weekdays a
 
 ## How to visit like a local
 
-This is a very popular spot with locals and tourists mixed together, so the goal isn't finding it — it's not fighting the crowd.
+This is a very popular spot with locals and tourists mixed together, so the goal isn't finding it. It's not fighting the crowd.
 
-- **Pay by card or tap** — nearly every stall takes contactless payment, and cash isn't necessary.
+- **Pay by card or tap**, nearly every stall takes contactless payment, and cash isn't necessary.
 - **Skip the line strategy**: split your group so one person orders at Egg Slut while others scout seating or hit a second stall.
-- **Order at the counter, then step aside** — most vendors call out names or numbers when food's ready; don't hover directly in front of the pickup window.
-- **Bring your own reusable cup** if you're a regular — some coffee vendors will fill it.
+- **Order at the counter, then step aside**, most vendors call out names or numbers when food's ready; don't hover directly in front of the pickup window.
+- **Bring your own reusable cup** if you're a regular. Some coffee vendors will fill it.
 - **The mistake tourists make**: circling the entire market before ordering anywhere. By the time you decide, the line at your first choice has doubled. Pick something in your first pass and come back for round two.
 
-Give yourself 45 minutes to an hour if you want to eat and browse the produce and flower stalls near the Hill Street side. Longer if you're grazing across multiple vendors, which honestly is the better strategy here — small plates from three stalls beats one big meal from one.
+Give yourself 45 minutes to an hour if you want to eat and browse the produce and flower stalls near the Hill Street side. Longer if you're grazing across multiple vendors, which honestly is the better strategy here, small plates from three stalls beats one big meal from one.

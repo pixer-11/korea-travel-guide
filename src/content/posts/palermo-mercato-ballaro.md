@@ -70,11 +70,11 @@ draft: false
 
 ## Why go
 
-Ballarò isn't a curated tourist market — it's Palermo's working larder, loud and unfiltered.
+Ballarò isn't a curated tourist market. It's Palermo's working larder, loud and unfiltered.
 
 Vendors bellow prices over crates of blood oranges and swordfish steaks. Scooters thread between stalls. The air carries a mix of citrus, frying batter, and diesel that somehow works.
 
-This is well-known territory, not a secret — locals and visitors both fill these lanes, especially on weekends. Come for the sensory overload, not solitude.
+This is well-known territory, not a secret, locals and visitors both fill these lanes, especially on weekends. Come for the sensory overload, not solitude.
 
 ## Getting there
 
@@ -84,16 +84,16 @@ From the historic center, it's an easy 10-15 minute walk. If you're arriving by 
 
 ## What to see and eat
 
-Wander without a fixed route — that's the point. Stalls blend fresh produce with cooked street food, and the boundary between shopping and eating blurs fast.
+Wander without a fixed route. That's the point. Stalls blend fresh produce with cooked street food, and the boundary between shopping and eating blurs fast.
 
 Look for:
-- **Panelle and crocché** — chickpea fritters and potato croquettes, often stuffed together into a sesame roll
-- **Sfincione** — Palermo's spongy, tomato-topped focaccia, sold in warm squares
-- **Frutta martorana** — marzipan shaped like fruit, more common near holidays
+- **Panelle and crocché**, chickpea fritters and potato croquettes, often stuffed together into a sesame roll
+- **Sfincione**, Palermo's spongy, tomato-topped focaccia, sold in warm squares
+- **Frutta martorana**, marzipan shaped like fruit, more common near holidays
 - **Fresh swordfish, tuna, and octopus** at the fishmongers toward the market's edges
 - **Caciocavallo and pecorino** stacked at cheese stalls, often offered for a taste before you buy
 
-Prices are generally budget-friendly, and haggling isn't really the custom — it's more about picking a busy stall and trusting the queue.
+Prices are generally budget-friendly, and haggling isn't really the custom. It's more about picking a busy stall and trusting the queue.
 
 ## When to go
 
@@ -102,7 +102,7 @@ The market runs daily, but hours shift on Sundays.
 - Monday–Saturday: 7:30am–8pm
 - Sunday: 8am–2pm
 
-If you want fewer elbows in the ribs, weekday mornings between 8am and 9am are measurably the quietest stretch. Weekend mornings, particularly 10am to 2pm, are the busiest window — expect shoulder-to-shoulder lanes and vendors in full voice.
+If you want fewer elbows in the ribs, weekday mornings between 8am and 9am are measurably the quietest stretch. Weekend mornings, particularly 10am to 2pm, are the busiest window. Expect shoulder-to-shoulder lanes and vendors in full voice.
 
 Weekend crowds do ease somewhat by early afternoon, so if you can only come Saturday or Sunday, aim for the tail end of the morning rush or right after it thins.
 
@@ -111,12 +111,12 @@ Weekend crowds do ease somewhat by early afternoon, so if you can only come Satu
 Palermitani treat Ballarò as a daily errand, not a spectacle, so move with purpose and let vendors work around you.
 
 - **Pay in cash.** Small bills are easiest; many stalls aren't set up for cards.
-- **Don't linger at a stall without buying** if there's a queue behind you — decide, order, move on.
+- **Don't linger at a stall without buying** if there's a queue behind you, decide, order, move on.
 - **Learn a few words**: "quanto costa?" (how much) and "un etto" (100 grams) go a long way at cheese and cured-meat counters.
 - **Eat standing up.** Street food here is meant to be handheld, eaten on the move, napkin optional.
-- **Watch your bag.** Dense crowds mean pickpocket risk is real — keep valuables zipped and close.
+- **Watch your bag.** Dense crowds mean pickpocket risk is real. Keep valuables zipped and close.
 
 The single biggest mistake tourists make is treating Ballarò like a photo backdrop and hovering with a camera rather than moving through it. Vendors are working; buy something, even small, and you'll get a warmer response.
 
-Plan for 45 minutes to an hour if you're grazing your way through, longer if you're cooking that night and shopping properly. Either way, arrive hungry — everything here smells better than it has any right to.
+Plan for 45 minutes to an hour if you're grazing your way through, longer if you're cooking that night and shopping properly. Either way, arrive hungry, everything here smells better than it has any right to.
 

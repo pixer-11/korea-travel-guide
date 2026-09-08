@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taipei-the-who-cafe
-srcHash: '4c9093d9f236'
+srcHash: 'aea769ef8664'
 title: '더 후 카페: 타이베이 여행 가이드'
 description: 더 후 카페(The Who Cafe)는 다안구(Da'an District) 리수이 거리(Lishui Street)의 계단 위에 자리한 식물 가득한 2층 카페로, 동먼(Dongmen) MRT역(5번 출구, 3호선·6호선)에서 도보 5분 거리에 있습니다.
 quickAnswer: 더 후 카페(The Who Cafe)는 다안구(Da'an District) 리수이 거리(Lishui Street)의 계단 위에 자리한 식물 가득한 2층 카페로, 동먼(Dongmen) MRT역(5번 출구, 3호선·6호선)에서 도보 5분 거리에 있습니다. 창가 자리와 여유로운 서비스를 원한다면 평일 오전 중반에 방문하세요. 리뷰 1,400개 이상에 평점 4.7을 자랑하는 유명한 곳이라 주말 점심 이후에는 자리가 꽉 찹니다. 1~2시간 정도 여유를 두고, 현금과 카드 모두 사용 가능하며, 별다른 계획 없이 토요일 오후에 방문하면 줄을 서야 할 수도 있습니다.

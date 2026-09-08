@@ -91,13 +91,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-You come to San Domenico for one man's bones and one genius's chisel-work, and you leave having wandered through eight centuries of Bologna almost by accident. The basilica sits at the southern edge of the historic center, on a piazza that feels several notches quieter than the student bustle around Piazza Maggiore or Via Zamboni — a wide, sunbaked square with a slightly shabby elegance, ringed by porticoed buildings and punctuated by two odd little columns holding statues of the Madonna and San Domenico himself, put up centuries ago as plague markers.
+You come to San Domenico for one man's bones and one genius's chisel-work, and you leave having wandered through eight centuries of Bologna almost by accident. The basilica sits at the southern edge of the historic center, on a piazza that feels several notches quieter than the student bustle around Piazza Maggiore or Via Zamboni, a wide, sunbaked square with a slightly shabby elegance, ringed by porticoed buildings and punctuated by two odd little columns holding statues of the Madonna and San Domenico himself, put up centuries ago as plague markers.
 
-The facade is deceptively plain: brick, Romanesque in bone structure, reworked over the centuries so the roofline and portal read more soberly than the riot of art waiting inside. Push through the doors and your eyes need a second to adjust to the dim, cool interior — a hush that a working church still holds, incense and old stone in the air, footsteps echoing off a floor centuries of feet have polished smooth.
+The facade is deceptively plain: brick, Romanesque in bone structure, reworked over the centuries so the roofline and portal read more soberly than the riot of art waiting inside. Push through the doors and your eyes need a second to adjust to the dim, cool interior, a hush that a working church still holds, incense and old stone in the air, footsteps echoing off a floor centuries of feet have polished smooth.
 
 ## Why this basilica matters
 
-Saint Dominic, founder of the Dominican order, died in Bologna in 1221, and his remains rest here in the Arca di San Domenico, the tomb-shrine that is the reason art historians make the detour. It's a genuinely collaborative Renaissance project: Nicola Pisano designed the base in the 1260s, Nicolò dell'Arca added the upper sculptural crown in the 1470s (his name literally comes from this commission), and a young Michelangelo — barely 20 years old, freshly arrived in Bologna — carved three of the figures around 1494, including a kneeling angel holding a candlestick.
+Saint Dominic, founder of the Dominican order, died in Bologna in 1221, and his remains rest here in the Arca di San Domenico, the tomb-shrine that is the reason art historians make the detour. It's a genuinely collaborative Renaissance project: Nicola Pisano designed the base in the 1260s, Nicolò dell'Arca added the upper sculptural crown in the 1470s (his name literally comes from this commission), and a young Michelangelo (barely 20 years old, freshly arrived in Bologna) carved three of the figures around 1494, including a kneeling angel holding a candlestick.
 
 You can find his angel on the right side of the arca; it's smaller and quieter than his later Roman work, but unmistakably his hand.
 
@@ -105,11 +105,11 @@ Beyond the tomb, the church holds a run of side chapels dense with paintings, ca
 
 ## Getting there
 
-From Piazza Maggiore, walk south along Via Garibaldi, then Via Frate Diamante, and you'll reach Piazza San Domenico in about 12–15 minutes on foot — this is a compact, walkable part of Bologna's centro storico, and driving is neither necessary nor pleasant given the restricted traffic zones. If you're coming from Bologna Centrale train station, it's a flat 20–25 minute walk straight down Via dell'Indipendenza and through the center, or a short bus ride if you'd rather save your legs for wandering the porticoes afterward.
+From Piazza Maggiore, walk south along Via Garibaldi, then Via Frate Diamante, and you'll reach Piazza San Domenico in about 12–15 minutes on foot. This is a compact, walkable part of Bologna's centro storico, and driving is neither necessary nor pleasant given the restricted traffic zones. If you're coming from Bologna Centrale train station, it's a flat 20–25 minute walk straight down Via dell'Indipendenza and through the center, or a short bus ride if you'd rather save your legs for wandering the porticoes afterward.
 
 ## What to see, and how long to stay
 
-Plan on 45 minutes to an hour: enough time to circle the Arca di San Domenico slowly, pick out Michelangelo's angel, duck into a few side chapels, and sit for a moment in a pew to let the space settle around you. The basilica is free to enter, though donation boxes support its upkeep — this is an active parish church, not a museum, so masses take precedence over sightseeing at certain hours.
+Plan on 45 minutes to an hour: enough time to circle the Arca di San Domenico slowly, pick out Michelangelo's angel, duck into a few side chapels, and sit for a moment in a pew to let the space settle around you. The basilica is free to enter, though donation boxes support its upkeep. This is an active parish church, not a museum, so masses take precedence over sightseeing at certain hours.
 
 ## When to go
 
@@ -117,6 +117,6 @@ Foot-traffic patterns here are unusually forgiving: the church stays generally q
 
 ## How to visit like a local
 
-Dress and behave as you would for any working Catholic church — shoulders and knees covered, phones silenced, voices low, especially if a mass is underway. There's no ticket or booking system; you simply walk in through the main entrance on the piazza. Entry is free, so there's no queue to plan around, but do carry a small coin or two for the offering boxes near the chapels, a customary courtesy rather than an obligation.
+Dress and behave as you would for any working Catholic church, shoulders and knees covered, phones silenced, voices low, especially if a mass is underway. There's no ticket or booking system; you simply walk in through the main entrance on the piazza. Entry is free, so there's no queue to plan around, but do carry a small coin or two for the offering boxes near the chapels, a customary courtesy rather than an obligation.
 
-This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing — come outside that 4–6pm weekend window and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.
+This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing, come outside that 4–6pm weekend window and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.

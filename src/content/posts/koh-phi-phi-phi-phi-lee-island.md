@@ -89,7 +89,7 @@ updatedDate: '2026-09-07'
 
 You come to Phi Phi Don for the bars and the ferry pier. You come to Phi Phi Lee for the limestone.
 
-This is the uninhabited half of the Phi Phi pair, a jagged mass of karst rising straight out of turquoise water with no roads, no hotels, no permanent settlement at all. Everything here is reached by boat, and everything you're chasing — Maya Bay, Pileh Lagoon, Loh Samah Bay — sits inside a national park boundary that closes at dusk.
+This is the uninhabited half of the Phi Phi pair, a jagged mass of karst rising straight out of turquoise water with no roads, no hotels, no permanent settlement at all. Everything here is reached by boat, and everything you're chasing (Maya Bay, Pileh Lagoon, Loh Samah Bay) sits inside a national park boundary that closes at dusk.
 
 ## Getting there
 
@@ -103,17 +103,17 @@ Phuket and Krabi also run direct speedboat day trips that skip Phi Phi Don entir
 
 Three coves do the heavy lifting on Phi Phi Lee.
 
-- **Maya Bay** — the white-sand crescent made famous by *The Beach*, now closed to swimming and boat mooring at the shoreline, with visitors landing via a rear pontoon and boardwalk to protect the reef.
-- **Pileh Lagoon** — a near-enclosed pool ringed by sheer cliffs, water so clear you can see the seabed several metres down; this is the postcard shot.
-- **Loh Samah Bay** — quieter, good snorkeling over coral, often used as a mooring spot when Maya Bay's timed slots are full.
+- **Maya Bay**, the white-sand crescent made famous by *The Beach*, now closed to swimming and boat mooring at the shoreline, with visitors landing via a rear pontoon and boardwalk to protect the reef.
+- **Pileh Lagoon**, a near-enclosed pool ringed by sheer cliffs, water so clear you can see the seabed several metres down; this is the postcard shot.
+- **Loh Samah Bay**, quieter, good snorkeling over coral, often used as a mooring spot when Maya Bay's timed slots are full.
 
-Bring reef-safe sunscreen and water shoes — much of the shoreline is coral rubble, not soft sand.
+Bring reef-safe sunscreen and water shoes, much of the shoreline is coral rubble, not soft sand.
 
 ## When to go
 
 The dry season, roughly November through April, gives you the calmest seas and clearest water for snorkeling.
 
-Maya Bay operates on restricted visiting hours set by Thailand's national park authority, with the beach closed overnight for ecological recovery — check current hours before you book, since these have shifted more than once in recent years.
+Maya Bay operates on restricted visiting hours set by Thailand's national park authority, with the beach closed overnight for ecological recovery. Check current hours before you book, since these have shifted more than once in recent years.
 
 Early morning trips (departing Phi Phi Don around 7-8am) beat the midday flotilla of boats from Phuket and Krabi. A growing number of operators now run sunset trips to Pileh Lagoon instead, catching the cliffs in gold light with far fewer boats jostling for space.
 
@@ -121,13 +121,13 @@ Early morning trips (departing Phi Phi Don around 7-8am) beat the midday flotill
 
 Skip the all-day mega-tour if you can; a shorter, focused trip to one or two bays beats a rushed lap of six.
 
-- **Book a longtail from Tonsai Pier** directly rather than a resort-organized package — it's usually cheaper and you can negotiate the route and timing.
+- **Book a longtail from Tonsai Pier** directly rather than a resort-organized package. It's usually cheaper and you can negotiate the route and timing.
 - **Pay cash in Thai baht** for longtail charters; card payment isn't standard practice with independent boatmen.
-- **Tip the boat driver** a small amount at the end if he's been flexible on stops — not obligatory, but customary and appreciated.
+- **Tip the boat driver** a small amount at the end if he's been flexible on stops, not obligatory, but customary and appreciated.
 - **Avoid the 11am-2pm window**, when Phuket and Krabi speedboats converge on Maya Bay in the largest numbers.
-- **Don't touch or stand on coral** — park rangers do enforce this, and fines exist for damage.
+- **Don't touch or stand on coral**, park rangers do enforce this, and fines exist for damage.
 
-The most common mistake is booking a trip that only stops at Maya Bay. Ask your operator to include Pileh Lagoon — it's less crowded, never closes on the same restricted schedule, and for many visitors it ends up the better memory of the two.
+The most common mistake is booking a trip that only stops at Maya Bay. Ask your operator to include Pileh Lagoon. It's less crowded, never closes on the same restricted schedule, and for many visitors it ends up the better memory of the two.
 
-Because Phi Phi Lee sees a fraction of the overnight crowds Phi Phi Don does — nobody sleeps here — it still feels comparatively uncrowded outside those midday tour-boat surges, especially if you arrange your own longtail rather than joining the biggest group tours.
+Because Phi Phi Lee sees a fraction of the overnight crowds Phi Phi Don does, nobody sleeps here, it still feels comparatively uncrowded outside those midday tour-boat surges, especially if you arrange your own longtail rather than joining the biggest group tours.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-new-orleans-museum-of-art
-srcHash: '4a8579cfeaf1'
+srcHash: 'b88e91d1095f'
 title: 新奥尔良艺术博物馆(NOMA)旅行指南(4.7★)
 description: NOMA坐落在中城区(Mid-City)城市公园(City Park)边缘，是一栋博览会艺术风格(Beaux-Arts)建筑，馆藏超过4万件藏品，从法贝热彩蛋到日本江户时代屏风一应俱全。4.7星(5,370条评价)——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: NOMA坐落在中城区城市公园边缘，是一栋博览会艺术风格建筑，馆藏超过4万件藏品，从法贝热彩蛋到日本江户时代屏风应有尽有。逛完博物馆预留两到三小时，出门后可以直接走进旁边的悉尼与沃尔达·贝斯托夫雕塑园(Sydney and Walda Besthoff Sculpture Garden)。周一闭馆，想避开周末人潮的话，建议选周二或周四上午前往。

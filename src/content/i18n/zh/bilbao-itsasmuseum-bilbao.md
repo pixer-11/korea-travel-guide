@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bilbao-itsasmuseum-bilbao
-srcHash: 'a5dced4f2241'
+srcHash: 'e91a245a8ae7'
 title: 毕尔巴鄂海事博物馆(Itsasmuseum):毕尔巴鄂旅行指南
 description: 毕尔巴鄂海事博物馆(Itsasmuseum Bilbao)坐落在比尔巴鄂河(Ría de Bilbao)畔的旧埃斯卡尔杜纳(Euskalduna)造船厂内，距古根海姆博物馆步行不远，展示造船业历史及港口如何蜕变为如今这座临河之城。
 quickAnswer: 毕尔巴鄂海事博物馆(Itsasmuseum Bilbao)坐落在比尔巴鄂河(Ría de Bilbao)畔的旧埃斯卡尔杜纳(Euskalduna)造船厂内，距古根海姆博物馆步行不远，展示造船业历史及港口如何蜕变为如今这座临河之城。博物馆周二至周日开放，时间为上午11点至晚上7点(周一闭馆),建议预留60-90分钟参观。周末从开馆到闭馆几乎都很拥挤，因此工作日前往，最好是开馆后不久到达，是获得清静空间的最佳选择。

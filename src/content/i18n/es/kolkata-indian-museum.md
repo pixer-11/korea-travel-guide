@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kolkata-indian-museum
-srcHash: '08b9a9c3664c'
+srcHash: '6040723bef9a'
 title: 'Museo Indio: Guía de viaje de Calcuta (4,5★)'
 description: 'El Museo Indio, en Jawaharlal Nehru Road, es el museo más antiguo y más grande de Asia, y merece dos o tres horas de visita por su momia egipcia, su colección de meteoritos y las barandillas budistas de Bharhut. 4,5★ (57.744 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Indio, en Jawaharlal Nehru Road, es el museo más antiguo y más grande de Asia, y merece dos o tres horas de visita por su momia egipcia, su colección de meteoritos y las barandillas budistas de Bharhut. Abre de 10:00 a 18:00 todos los días excepto los lunes. Conviene llegar justo a la apertura, sobre todo los fines de semana, ya que las aglomeraciones aumentan rápido entre las 12:00 y las 18:00; el momento más tranquilo es entre las 10:00 y las 11:00.

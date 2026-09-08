@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chinatown-my-awesome-cafe
-srcHash: '3f70ad98040e'
+srcHash: '26dcfbe581f6'
 title: My Awesome Cafe：牛车水（唐人街）旅行指南
 description: My Awesome Cafe 位于牛车水（Chinatown）直落亚逸街（Telok Ayer St）202号，是一家口碑颇佳的全天候咖啡馆，以手工沙拉、三明治和不错的酒单闻名，店内由老店屋改造而成，氛围温馨惬意。
 quickAnswer: My Awesome Cafe 位于牛车水直落亚逸街202号，是一家口碑颇佳的全天候咖啡馆，主打手工沙拉、三明治，酒单也颇为讲究，用餐空间由老店屋改造而成，氛围温馨。这里人气很旺（4.7星评分，近8000条评价），建议避开周末高峰，选在工作日午餐和晚餐之间的时段前往，否则周末很可能要排队等位。用餐建议预留一小时到90分钟，之后不妨顺路逛逛直落亚逸街一带的历史庙宇和厦门街（Amoy Street）美食摊位。

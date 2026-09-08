@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-dab-pa-modern-chinese-cuisine
-srcHash: '4947671c392b'
+srcHash: '6ddf7087935b'
 title: 'Dab-pa Modern Chinese Cuisine: dónde comer en Sha Tin'
 description: 'Dab-pa Modern Chinese Cuisine está en el primer piso de la Fase 1 de New Town Plaza, en Sha Tin, y abre todos los días de 11:30 a 22:00. 4,3★ (448 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Dab-pa Modern Chinese Cuisine está en el primer piso de la Fase 1 de New Town Plaza, en Sha Tin, y abre todos los días de 11:30 a 22:00. Conviene ir un día de semana entre las 15:00 y las 17:00 si se quiere tener el comedor casi para uno mismo, ya que los fines de semana, de 13:00 a 21:00, el lugar se llena de compradores. Los precios son de gama media para una comida china moderna sentada, y pese a su buena valoración local, todavía pasa bastante desapercibido para el turismo.

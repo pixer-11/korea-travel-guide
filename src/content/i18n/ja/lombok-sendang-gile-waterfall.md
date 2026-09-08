@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: lombok-sendang-gile-waterfall
-srcHash: '7fbff7c6f655'
+srcHash: '9a9049ed2bb6'
 title: スンダン・ギレの滝：ロンボク島旅行ガイド
 description: スンダン・ギレは、ロンボク島北部のスナル(Senaru)村から短く整備された道を歩いて行ける、リンジャニ山(Mount Rinjani)南斜面にある二段の滝です。
 quickAnswer: スンダン・ギレは、ロンボク島北部のスナル(Senaru)村から短く整備された道を歩いて行ける、リンジャニ山(Mount Rinjani)南斜面にある二段の滝です。スンダン・ギレとより上流にあるティウ・クレップ(Tiu Kelep)の滝の両方を見るには1.5～2時間を見ておきましょう。滑りにくいサンダルやトレイルシューズを履き、ツアー客の混雑や午後の雨を避けるために早朝(午前9時前)に訪れるのがおすすめです。

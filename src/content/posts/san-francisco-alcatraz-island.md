@@ -40,7 +40,7 @@ draft: false
 
 ## Why go
 
-The first thing you notice, as the ferry pulls away from Pier 33, is how quickly the city noise drops away and the island starts to dominate the view — a jagged lump of rock with a white lighthouse and the crumbling silhouette of the cellhouse on top. Alcatraz sits about 1.25 miles offshore in San Francisco Bay, close enough that inmates could reportedly hear New Year's Eve parties drifting across the water from the city, and far enough that the cold currents and sharks (real, if somewhat exaggerated as a deterrent) made escape attempts nearly hopeless. That contradiction — so close, so unreachable — is what makes the place stick with you.
+The first thing you notice, as the ferry pulls away from Pier 33, is how quickly the city noise drops away and the island starts to dominate the view (a jagged lump of rock with a white lighthouse and the crumbling silhouette of the cellhouse on top. Alcatraz sits about 1.25 miles offshore in San Francisco Bay, close enough that inmates could reportedly hear New Year's Eve parties drifting across the water from the city, and far enough that the cold currents and sharks (real, if somewhat exaggerated as a deterrent) made escape attempts nearly hopeless. That contradiction), so close, so unreachable, is what makes the place stick with you.
 
 ## Getting there
 
@@ -48,19 +48,19 @@ Alcatraz Cruises is the only ferry operator authorized to land on the island, de
 
 ## What to see and do
 
-Once ashore, a steep switchback path climbs from the dock to the main cellhouse — plan on a few minutes of uphill walking, or take the shuttle tram if you need it. Inside, the audio tour is the reason this place earns its reputation: narrated by former guards and inmates, it walks you cell by cell through D-Block's solitary confinement, the dining hall where a tear-gas canister still hangs from the ceiling, and the shower room where inmates were checked for concealed weapons.
+Once ashore, a steep switchback path climbs from the dock to the main cellhouse. Plan on a few minutes of uphill walking, or take the shuttle tram if you need it. Inside, the audio tour is the reason this place earns its reputation: narrated by former guards and inmates, it walks you cell by cell through D-Block's solitary confinement, the dining hall where a tear-gas canister still hangs from the ceiling, and the shower room where inmates were checked for concealed weapons.
 
-You'll stand in a cell just over 5 feet by 9 feet and hear the actual echo of clanging steel doors that once signaled lockdown. Outside the cellhouse, the island's gardens — replanted and maintained by volunteers after decades of neglect — soften the concrete with wildflowers and offer some of the best skyline views of San Francisco and the Golden Gate Bridge you'll find anywhere. Give yourself at least two hours on the island itself; history buffs easily spend three.
+You'll stand in a cell just over 5 feet by 9 feet and hear the actual echo of clanging steel doors that once signaled lockdown. Outside the cellhouse, the island's gardens, replanted and maintained by volunteers after decades of neglect, soften the concrete with wildflowers and offer some of the best skyline views of San Francisco and the Golden Gate Bridge you'll find anywhere. Give yourself at least two hours on the island itself; history buffs easily spend three.
 
 ## When to go
 
-Morning departures are calmer and cooler, with fog often still clinging to the bridge towers. Afternoon boats bring bigger crowds funneling through the cellhouse doors at once, and by midday the dock area and gift shop can feel congested. Winter months (November through February) see thinner crowds overall and clearer views on rain-free days, while summer weekends sell out ferry slots fastest — sometimes weeks in advance.
+Morning departures are calmer and cooler, with fog often still clinging to the bridge towers. Afternoon boats bring bigger crowds funneling through the cellhouse doors at once, and by midday the dock area and gift shop can feel congested. Winter months (November through February) see thinner crowds overall and clearer views on rain-free days, while summer weekends sell out ferry slots fastest, sometimes weeks in advance.
 
 ## How to visit like a local
 
-Alcatraz is a famous, heavily-visited stop — not a discovery — so the real skill is managing the crowds rather than finding an empty corner. Book the earliest ferry you can, ideally the first departure of the day, since the cellhouse audio tour is far less congested before the tour-bus crowds arrive around mid-morning. Tickets are sold online through Alcatraz Cruises' official site and typically need to be booked days to weeks ahead, especially for summer and holiday weekends — walk-up availability is rare.
+Alcatraz is a famous, heavily-visited stop, not a discovery, so the real skill is managing the crowds rather than finding an empty corner. Book the earliest ferry you can, ideally the first departure of the day, since the cellhouse audio tour is far less congested before the tour-bus crowds arrive around mid-morning. Tickets are sold online through Alcatraz Cruises' official site and typically need to be booked days to weeks ahead, especially for summer and holiday weekends, walk-up availability is rare.
 
-Everything on the island, from the ferry to the small café near the dock, runs on card payment; cash isn't the default here. Wear real shoes, not sandals — the dock-to-cellhouse climb and the uneven prison yard surfaces catch people off guard. The most common mistake first-time visitors make is treating Alcatraz as a quick photo stop: rushing the cellhouse in 45 minutes and missing the last ferry slot back, or skipping the gardens and the Agave Trail entirely.
+Everything on the island, from the ferry to the small café near the dock, runs on card payment; cash isn't the default here. Wear real shoes, not sandals, the dock-to-cellhouse climb and the uneven prison yard surfaces catch people off guard. The most common mistake first-time visitors make is treating Alcatraz as a quick photo stop: rushing the cellhouse in 45 minutes and missing the last ferry slot back, or skipping the gardens and the Agave Trail entirely.
 
 Slow down, follow the audio tour at its own pace, and check the return ferry schedule as soon as you land so you're not stuck watching your boat leave without you.
 

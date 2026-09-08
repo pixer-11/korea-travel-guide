@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-kenroku-en
-srcHash: '35307e41bf31'
+srcHash: '6f3002caf1d4'
 title: 'Kenroku-en: Guía de viaje de Kanazawa'
 description: Kenroku-en es el célebre jardín de paseo de la era Edo en Kanazawa, considerado uno de los "tres grandes jardines" de Japón junto con Kairaku-en y Koraku-en, y merece una visita.
 quickAnswer: 'Kenroku-en es el célebre jardín de paseo de la era Edo en Kanazawa, considerado uno de los "tres grandes jardines" de Japón junto con Kairaku-en y Koraku-en, y vale la pena dedicarle entre 90 minutos y 2 horas. Entra cerca de la parada de autobús Kenrokuen-shita/Kanko Center y dirígete directamente a la zona del estanque Kasumigaike para ver el icónico farol de piedra Kotoji-toro. Ve temprano por la mañana o justo después de la apertura para evitar los grupos turísticos, y ten en cuenta la temporada: los cerezos en flor, el verdor del verano, los arces otoñales y los famosos pinos atados con cuerdas yukizuri en invierno transforman el parque en cada época del año.'

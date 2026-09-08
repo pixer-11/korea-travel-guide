@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: fujairah-steki
-srcHash: '3789092efbe9'
+srcHash: 'b8bcc48826eb'
 title: '스테키(Steki): 푸자이라 맛집 가이드'
 description: 스테키는 푸자이라(Fujairah) 움브렐라 비치(Umbrella Beach) 근처 알 파세일 로드(Al Faseel Road, E99)에 위치한 그릭 레스토랑으로, 약 600개의 리뷰에서 4.8점을 기록하고 있으며 무사카, 수블라키, 그릴 해산물을 합리적인 가격에 즐길 수 있는 곳이다.
 quickAnswer: 스테키는 푸자이라(Fujairah) 움브렐라 비치(Umbrella Beach) 근처 알 파세일 로드(Al Faseel Road, E99)에 위치한 그릭 레스토랑으로, 약 600개의 리뷰에서 4.8점을 기록하고 있으며 무사카, 수블라키, 그릴 해산물을 합리적인 가격에 즐길 수 있는 곳이다. 해질 무렵 이른 저녁 식사를 하러 가서 식사 후 움브렐라 비치를 산책하며 소화시키는 것이 좋고, 좌석이 한정되어 있으니 미리 예약하거나 오픈 시간에 딱 맞춰 도착하는 것을 권한다.

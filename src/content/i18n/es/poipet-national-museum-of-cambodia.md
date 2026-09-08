@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: poipet-national-museum-of-cambodia
-srcHash: '785a2cd33588'
+srcHash: 'f525427f7b07'
 title: 'Museo Nacional de Camboya: guía de viaje de Phnom Penh (4,2★)'
 description: 'El Museo Nacional de Camboya se encuentra en la calle Preah Ang Eng, en Phnom Penh, junto al Palacio Real: un edificio de estilo jemer construido en la década de 1920 que alberga esculturas de piedra angkorianas, bronces y barcazas reales. 4,2★ (6.982 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Camboya está en la calle Preah Ang Eng, en Phnom Penh, junto al Palacio Real, y abre todos los días de 8:00 a 17:00. El momento de menor afluencia es justo a la apertura, a las 8:00. Conviene reservar entre 1 y 1,5 horas para la visita, y hay que contar con que la afluencia aumenta de forma constante entre las 10:00 y las 16:00 los fines de semana.

@@ -72,23 +72,23 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-You don't stumble onto Museum of the Weird — the barker-style storefront on East 6th Street makes sure of that. Carnival lettering, a taxidermy grin in the window, a hand-painted sign promising "odditorium" wonders inside. It's part sideshow revival, part cabinet of curiosities, and it knows exactly what it is.
+You don't stumble onto Museum of the Weird, the barker-style storefront on East 6th Street makes sure of that. Carnival lettering, a taxidermy grin in the window, a hand-painted sign promising "odditorium" wonders inside. It's part sideshow revival, part cabinet of curiosities, and it knows exactly what it is.
 
-Step through the door and the AC hits you first, then the smell of old wood and glass cases. Bigfoot casts, shrunken heads, a two-headed calf, jarred specimens lit in amber — the kind of collection that would have toured county fairs a century ago, now bolted down in a narrow Austin storefront.
+Step through the door and the AC hits you first, then the smell of old wood and glass cases. Bigfoot casts, shrunken heads, a two-headed calf, jarred specimens lit in amber. The kind of collection that would have toured county fairs a century ago, now bolted down in a narrow Austin storefront.
 
 ## Getting there
 
 The museum sits at 412 E 6th Street, in the thick of Austin's entertainment district. It's a short walk from the Austin Convention Center and an easy add-on if you're already bar-hopping Dirty Sixth.
 
-Downtown is walkable from most Rainey Street or Congress Avenue hotels. If you're driving, expect to use a paid downtown garage — street parking on 6th Street is scarce and metered into the evening.
+Downtown is walkable from most Rainey Street or Congress Avenue hotels. If you're driving, expect to use a paid downtown garage, street parking on 6th Street is scarce and metered into the evening.
 
 ## What to see and do
 
 The self-guided rooms move fast: a few hallways of oddities, mummies, mutant animals, and sideshow memorabilia collected over decades. It's less encyclopedic museum, more theatrical wunderkammer.
 
-The real draw for most visitors is the live Freak Show performance in the back theater — sword swallowing, bed of nails, blockhead acts performed a few times a day. Check show times posted at the counter when you arrive, since they run on a set schedule rather than continuously.
+The real draw for most visitors is the live Freak Show performance in the back theater, sword swallowing, bed of nails, blockhead acts performed a few times a day. Check show times posted at the counter when you arrive, since they run on a set schedule rather than continuously.
 
-Don't skip the gift shop on your way out. It's stocked with genuinely weird souvenirs — voodoo dolls, oddity books, taxidermy-adjacent trinkets — that fit the theme better than typical Austin tourist merch.
+Don't skip the gift shop on your way out. It's stocked with genuinely weird souvenirs (voodoo dolls, oddity books, taxidermy-adjacent trinkets) that fit the theme better than typical Austin tourist merch.
 
 ## When to go
 
@@ -104,8 +104,8 @@ This is a well-known 6th Street fixture, not a hidden find, so the smart move is
 
 - **Book or just walk in**: walk-up tickets are standard, but checking the show schedule online first saves a wasted trip if you're timing your visit around the live performance.
 - **Pay**: cards are accepted, though carrying a bit of cash helps if you're also grabbing something small nearby.
-- **Etiquette**: it's a hands-off-the-cases kind of place — treat the oddities like the century-old sideshow artifacts many of them are.
-- **Common mistake**: tourists treat it as a quick photo op and skip the theater. The live sideshow act is the highlight, not an afterthought — build your visit around its schedule.
+- **Etiquette**: it's a hands-off-the-cases kind of place, treat the oddities like the century-old sideshow artifacts many of them are.
+- **Common mistake**: tourists treat it as a quick photo op and skip the theater. The live sideshow act is the highlight, not an afterthought, build your visit around its schedule.
 - **Pace yourself**: because the museum is compact, pair it with a walk along 6th Street or a stop at a nearby bar rather than budgeting a whole afternoon just for the exhibits.
 
 Coming on a Friday or Saturday evening, after the dinner rush thins out but before the late bar crowd peaks, can also work, since hours extend to 9pm those days.

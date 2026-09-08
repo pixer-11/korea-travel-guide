@@ -44,11 +44,11 @@ eventFactsAsked: true
 
 Rock en Seine has built its reputation over two decades as one of Europe's more eclectic late-summer festivals, mixing arena-sized headliners with buzzy indie, punk, hip-hop and electronic acts across several stages set in a genuinely grand outdoor setting. The 2026 edition was set for August 26–30, and its bill leaned heavily into rock heritage, with The Cure and Nick Cave & The Bad Seeds anchoring the lineup, Tyler, the Creator bringing a very different energy, and Deftones and Turnstile adding heavier, mosh-friendly sets.
 
-For visitors, the appeal isn't just the music — it's seeing a top-tier lineup inside the Domaine national de Saint-Cloud, a former royal estate with landscaped terraces and forest that feels far removed from a typical festival car park or fairground.
+For visitors, the appeal isn't just the music. It's seeing a top-tier lineup inside the Domaine national de Saint-Cloud, a former royal estate with landscaped terraces and forest that feels far removed from a typical festival car park or fairground.
 
 ## Getting there
 
-The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is Transilien line L from Paris Saint-Lazare (or line U from La Défense) to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine — the grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
+The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is Transilien line L from Paris Saint-Lazare (or line U from La Défense) to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine. The grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
 
 Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attendees as an alternative approach on the south side of the park. Rock en Seine draws large evening crowds, and transit around headliner sets typically runs slower than usual, with the station walk adding time for anyone coming in for an early-afternoon start.
 
@@ -56,7 +56,7 @@ Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attende
 
 Beyond the three headliners, the draw of a festival like this is discovery: smaller stages tend to run continuously through the afternoon before the big evening slots, so the early hours are when support acts and unfamiliar names get their turn. Turnstile and Deftones both have reputations for high-energy, physical live sets, and their crowds are usually dense near the front.
 
-Given the setting inside a historic royal park, twenty minutes between sets is enough to walk the grounds — the Domaine national de Saint-Cloud is known for its formal gardens, fountains and views back toward Paris, a rare backdrop for a rock festival stage.
+Given the setting inside a historic royal park, twenty minutes between sets is enough to walk the grounds. The Domaine national de Saint-Cloud is known for its formal gardens, fountains and views back toward Paris, a rare backdrop for a rock festival stage.
 
 ## When to go
 

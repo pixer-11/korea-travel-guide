@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hiroshima-hiroshima-breakfast
-srcHash: 'dbaa90ef0533'
+srcHash: '7a3dc5833fd4'
 title: 'Hiroshima Breakfast: Guía de viaje'
 description: Hiroshima Breakfast es una pequeña cafetería matutina muy bien valorada en Dohashicho, en el centro del distrito de Naka, a poca distancia a pie de la galería comercial Hondori y del Parque Memorial de la Paz.
 quickAnswer: Hiroshima Breakfast es una pequeña cafetería matutina muy bien valorada en Dohashicho, en el centro del distrito de Naka, a poca distancia a pie de la galería comercial Hondori y del Parque Memorial de la Paz. Lo mejor es visitarla a pie entre las 8 y las 10 de la mañana, aproximadamente, en un día de semana, para evitar colas, ya que el local es minúsculo y normalmente no se aceptan reservas. Reserva entre 45 y 60 minutos, y combina la visita con un paseo por Hondori o una mañana en el Parque Memorial de la Paz antes de que lleguen las multitudes del día.

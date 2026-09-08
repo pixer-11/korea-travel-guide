@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: boston-boston-common
-srcHash: 'c55b2ce627e7'
+srcHash: '35e486340e4d'
 title: ボストン・コモン旅行ガイド
 description: ボストン・コモンはアメリカ最古の公共公園で、ビーコンヒル(Beacon Hill)、シアター・ディストリクト(Theater District)、パブリック・ガーデン(Public Garden)に囲まれた、ボストン中心部に広がる50エーカーの緑地です。
 quickAnswer: ボストン・コモンはアメリカ最古の公共公園で、ビーコンヒル(Beacon Hill)、シアター・ディストリクト(Theater District)、パブリック・ガーデン(Public Garden)に囲まれた、ボストン中心部に広がる50エーカーの緑地です。入場は無料で年中開放されていますが、午後や週末は混雑するため、早朝または平日に訪れるのがベストです。通りすがりに立ち寄るなら45分から1時間、フリーダム・トレイル(Freedom Trail)やパブリック・ガーデンの白鳥ボートと組み合わせるなら半日みておきましょう。

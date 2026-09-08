@@ -112,17 +112,17 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-The Island Bangkok has built one of the strongest reputations of any restaurant in the old-city area, holding a 4.9 rating across more than 14,600 reviews — a volume and score that put it well ahead of most competitors in Phra Nakhon district. It's the kind of place travel forums and Bangkok expats mention repeatedly for a reliable, atmospheric Thai dining experience without needing to venture into the more touristy strip of Khao San Road itself.
+The Island Bangkok has built one of the strongest reputations of any restaurant in the old-city area, holding a 4.9 rating across more than 14,600 reviews, a volume and score that put it well ahead of most competitors in Phra Nakhon district. It's the kind of place travel forums and Bangkok expats mention repeatedly for a reliable, atmospheric Thai dining experience without needing to venture into the more touristy strip of Khao San Road itself.
 
 The setting typically draws comparisons to an open-air garden lounge: leafy, low-lit, and built for lingering over food and drinks rather than a quick bite.
 
 ## Getting there
 
-The address is 49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Bangkok 10200 — in the Banglamphu area, part of Bangkok's old royal city zone near the Chao Phraya River. This neighborhood sits outside the BTS/MRT rail network, so the most practical options are:
+The address is 49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Bangkok 10200, in the Banglamphu area, part of Bangkok's old royal city zone near the Chao Phraya River. This neighborhood sits outside the BTS/MRT rail network, so the most practical options are:
 
-- **Taxi or Grab (ride-hailing app)** from anywhere in Bangkok — expect 15–30 minutes from Sukhumvit or Silom depending on traffic, and give the driver the Soi Samsen 4 cross-street since exact building numbers can be hard to spot from the road.
+- **Taxi or Grab (ride-hailing app)** from anywhere in Bangkok. Expect 15–30 minutes from Sukhumvit or Silom depending on traffic, and give the driver the Soi Samsen 4 cross-street since exact building numbers can be hard to spot from the road.
 - **Chao Phraya Express Boat** to Phra Arthit Pier (N13), then a 10–15 minute walk east into the Samsen soi network. This is the scenic route and pairs well with sightseeing at Wat Chana Songkhram or the riverside.
-- **On foot from Khao San Road**, it's roughly a 15–20 minute walk north through the Samsen sois — a good option in the early evening before the heat sets in.
+- **On foot from Khao San Road**, it's roughly a 15–20 minute walk north through the Samsen sois, a good option in the early evening before the heat sets in.
 
 Because the restaurant sits down a soi (side street) rather than on a main road, save the pin in Google Maps or a ride-hailing app rather than relying on street signage.
 
@@ -134,8 +134,8 @@ Pair a visit with the surrounding Banglamphu sights: Wat Chana Songkhram and the
 
 ## When to go
 
-Evenings are the clear draw here — the garden/lounge atmosphere and bar side of the operation come alive after sunset, roughly from early evening onward. Weekends and holiday periods draw the heaviest crowds given the review volume, so a reservation (where possible) or an early arrival around 6–6:30 pm is the safer bet if you want a table without a wait. Bangkok's cooler season, November through February, makes outdoor or semi-open seating far more comfortable than the hot April–May stretch.
+Evenings are the clear draw here, the garden/lounge atmosphere and bar side of the operation come alive after sunset, roughly from early evening onward. Weekends and holiday periods draw the heaviest crowds given the review volume, so a reservation (where possible) or an early arrival around 6–6:30 pm is the safer bet if you want a table without a wait. Bangkok's cooler season, November through February, makes outdoor or semi-open seating far more comfortable than the hot April–May stretch.
 
 ## Nearby & tips
 
-Budget 1.5 to 2 hours for a proper sit-down meal, longer if you're settling in for drinks. Since this is a soi address without nearby rail access, plan your transport both ways — Grab availability can thin out late at night in smaller sois, so it's worth booking a return ride before you finish dessert. As with most restaurants in Thailand, confirm current opening hours and any service charge or set-menu pricing directly with the venue, since these details shift more often than the food does.
+Budget 1.5 to 2 hours for a proper sit-down meal, longer if you're settling in for drinks. Since this is a soi address without nearby rail access, plan your transport both ways, Grab availability can thin out late at night in smaller sois, so it's worth booking a return ride before you finish dessert. As with most restaurants in Thailand, confirm current opening hours and any service charge or set-menu pricing directly with the venue, since these details shift more often than the food does.

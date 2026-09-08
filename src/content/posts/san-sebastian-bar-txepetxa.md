@@ -53,30 +53,30 @@ aiGenerated: true
 ---
 ## Why Bar Txepetxa matters
 
-San Sebastián's Old Town is famous for pintxos bars that each stake a claim to one dish done better than anyone else, and Bar Txepetxa's claim is the anchovy. Boquerón — the fresh, cured Cantabrian anchovy, not the salty tinned kind most visitors know — is the house specialty, and the bar has built a loyal following (a 4.7 rating across more than 3,600 reviews) by doing very little else, very well.
+San Sebastián's Old Town is famous for pintxos bars that each stake a claim to one dish done better than anyone else, and Bar Txepetxa's claim is the anchovy. Boquerón (the fresh, cured Cantabrian anchovy, not the salty tinned kind most visitors know) is the house specialty, and the bar has built a loyal following (a 4.7 rating across more than 3,600 reviews) by doing very little else, very well.
 
 It's a small, unpretentious tavern rather than a destination restaurant, which is exactly the point: this is old-school San Sebastián eating, standing at a zinc bar with a toothpick-skewered snack in one hand and a glass of local white in the other.
 
 ## What to eat
 
-The anchovy here comes marinated and topped with combinations that change slightly but always revolve around contrast: cream cheese and seaweed, foie gras, caviar-style roe, spider crab, or simple guindilla peppers. A mixed plate that lets you try several toppings side by side is a popular order — ask the staff to recommend a few if the chalkboard or laminated menu isn't obvious.
+The anchovy here comes marinated and topped with combinations that change slightly but always revolve around contrast: cream cheese and seaweed, foie gras, caviar-style roe, spider crab, or simple guindilla peppers. A mixed plate that lets you try several toppings side by side is a popular order. Ask the staff to recommend a few if the chalkboard or laminated menu isn't obvious.
 
 Portions are small by design (this is pintxos, meant for grazing across several bars), so plan on 3-4 pieces per person if Txepetxa is one stop among many, or more if it's your main event. Pair them with a glass of txakoli, the light, slightly sparkling Basque white wine that's poured with a theatrical high arc to aerate it, or a small beer (zurito).
 
-Prices are moderate for the Old Town — expect a mid-range tab, not a bargain-basement one, given the quality of the anchovies.
+Prices are moderate for the Old Town. Expect a mid-range tab, not a bargain-basement one, given the quality of the anchovies.
 
 ## Getting there
 
 Bar Txepetxa sits on Arrandegi Kalea, a narrow street in the Parte Vieja (Old Town), a few minutes' walk from Plaza de la Constitución and the Santa María del Coro basilica. There's no metro system in San Sebastián, so arrival is on foot or by bus; if coming from the bus or train station (Estación del Norte), it's roughly a 15-20 minute walk along the Urumea riverfront and into the Old Town grid.
 
-Taxis and city buses (lines running toward Parte Vieja/Boulevard) are the practical alternative if you're coming from further out, such as Gros or the Antiguo district. Because streets in the Old Town are pedestrian-heavy and tightly packed, driving in isn't recommended — park at the edge of the district and walk in.
+Taxis and city buses (lines running toward Parte Vieja/Boulevard) are the practical alternative if you're coming from further out, such as Gros or the Antiguo district. Because streets in the Old Town are pedestrian-heavy and tightly packed, driving in isn't recommended, park at the edge of the district and walk in.
 
 ## When to go
 
-Arrive close to opening for lunch or dinner to snag bar space before the crush; San Sebastián locals eat late, and by 9pm the bar fills with both residents and travelers doing the rounds. Txepetxa is at its best treated as one stop on a longer pintxos crawl through the Old Town — pace yourself, since the neighborhood is dense with equally serious specialists (grilled mushrooms, txistorra, stuffed peppers) within a two-minute walk in any direction. Expect no seating in the traditional sense: this is stand-and-eat, and turnover is part of the charm.
+Arrive close to opening for lunch or dinner to snag bar space before the crush; San Sebastián locals eat late, and by 9pm the bar fills with both residents and travelers doing the rounds. Txepetxa is at its best treated as one stop on a longer pintxos crawl through the Old Town, pace yourself, since the neighborhood is dense with equally serious specialists (grilled mushrooms, txistorra, stuffed peppers) within a two-minute walk in any direction. Expect no seating in the traditional sense: this is stand-and-eat, and turnover is part of the charm.
 
 ## Nearby & tips
 
-The bar's tight footprint means it gets loud and crowded fast, so this isn't the spot for a lingering, quiet meal — come for the anchovies, eat quickly, move on. Note that opening days and hours can shift seasonally (many Old Town bars close one day midweek), so confirm current hours before making it your only stop. Because it specializes narrowly, don't expect a full pintxos spread here the way you would at bigger bars — Txepetxa is a precision strike, not an all-rounder.
+The bar's tight footprint means it gets loud and crowded fast, so this isn't the spot for a lingering, quiet meal (come for the anchovies, eat quickly, move on. Note that opening days and hours can shift seasonally (many Old Town bars close one day midweek), so confirm current hours before making it your only stop. Because it specializes narrowly, don't expect a full pintxos spread here the way you would at bigger bars) Txepetxa is a precision strike, not an all-rounder.
 
 Combine it with a walk along nearby La Concha beach afterward, or a coffee in Plaza de la Constitución, to round out a Parte Vieja afternoon.

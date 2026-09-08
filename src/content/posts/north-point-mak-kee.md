@@ -71,16 +71,16 @@ The draw is the bowl in front of you: thin egg noodles, springy and yellow, sitt
 
 North Point sits on Hong Kong Island's north shore, served by North Point MTR Station on the Island Line and Tseung Kwan O Line. From the station, it's a short walk inland toward Fortress Street, where the shop occupies part of a building numbered 21-23.
 
-Look for a modest storefront with stools at a counter rather than a dining room. There's no grand signage to spot from across the street — you're looking for a narrow shopfront with steam on the glass and a queue of two or three people at peak times.
+Look for a modest storefront with stools at a counter rather than a dining room. There's no grand signage to spot from across the street. You're looking for a narrow shopfront with steam on the glass and a queue of two or three people at peak times.
 
 ## What to eat
 
 Keep the order simple; this menu rewards focus rather than exploration.
 
-- **Wonton noodles** — the signature dish, dumplings plump with shrimp and pork
-- **Shrimp roe noodles** — dry-tossed or in soup, roe adds texture and salt
+- **Wonton noodles**, the signature dish, dumplings plump with shrimp and pork
+- **Shrimp roe noodles**, dry-tossed or in soup, roe adds texture and salt
 
-Portions are sized for a quick meal, not a feast, which is part of why locals treat this as a stop rather than an event. Prices sit in the mid-range for a noodle shop — not cheap-eats territory, but nowhere near what you'd pay at a sit-down restaurant nearby.
+Portions are sized for a quick meal, not a feast, which is part of why locals treat this as a stop rather than an event. Prices sit in the mid-range for a noodle shop, not cheap-eats territory, but nowhere near what you'd pay at a sit-down restaurant nearby.
 
 ## When to go
 
@@ -94,10 +94,10 @@ Closing time is 9:30pm every night of the week, so this isn't a place for a late
 
 Treat the counter the way regulars do: sit down, order quickly, eat, and free up the seat.
 
-- **Ordering**: point at the menu board or say the dish name — "wonton min" for wonton noodles, "hah tsi min" for shrimp roe noodles — staff are used to quick transactions, not lingering conversation.
+- **Ordering**: point at the menu board or say the dish name ("wonton min" for wonton noodles, "hah tsi min" for shrimp roe noodles) staff are used to quick transactions, not lingering conversation.
 - **Payment**: cash is the safest bet at a shop this size, though it's worth having a card as backup; don't assume mobile payment apps are guaranteed.
 - **Seating**: there's no reservation system. You wait, you get a stool, you eat. Groups larger than two or three may need to split up or wait longer.
 - **Timing mistake**: tourists often show up right at the Saturday lunch peak, not realizing the shop is busiest from noon onward on weekends. Shifting even an hour earlier avoids most of the wait.
-- **Pace**: don't expect a leisurely sit-down meal — this is fuel, not theater. Locals eat, pay, and move on within twenty or thirty minutes.
+- **Pace**: don't expect a leisurely sit-down meal. This is fuel, not theater. Locals eat, pay, and move on within twenty or thirty minutes.
 
-North Point itself rewards a bit of wandering afterward — the neighborhood's wet market streets and old cha chaan tengs are worth a walk if you have an extra hour before or after your bowl of noodles.
+North Point itself rewards a bit of wandering afterward, the neighborhood's wet market streets and old cha chaan tengs are worth a walk if you have an extra hour before or after your bowl of noodles.

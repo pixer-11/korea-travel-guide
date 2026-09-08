@@ -92,7 +92,7 @@ updatedDate: '2026-09-04'
 
 ## Why go
 
-You come here for the buildings as much as anything inside them. This was once the Hualien Port Distillery, built under Japanese rule in the early twentieth century, and the brick-and-timber warehouses still carry that industrial bone structure — high ceilings, exposed beams, thick walls that keep the coastal heat out.
+You come here for the buildings as much as anything inside them. This was once the Hualien Port Distillery, built under Japanese rule in the early twentieth century, and the brick-and-timber warehouses still carry that industrial bone structure, high ceilings, exposed beams, thick walls that keep the coastal heat out.
 
 Today those same shells house design studios, indie boutiques, and galleries showing Indigenous and local artists' work. It's less a single attraction than a low-key campus you drift through, building to building.
 
@@ -106,32 +106,32 @@ Many visitors fold it into a walk that also takes in Dongdamen Night Market and 
 
 Each warehouse has its own personality, so plan to poke your head into several rather than rushing through.
 
-- **Craft and design shops** — small-batch ceramics, textiles, and Hualien-made goods
-- **Galleries** — rotating exhibitions, often featuring Indigenous Amis artists
-- **Industrial-style cafés and restaurants** — exposed brick, big windows, converted warehouse floors
-- **Open courtyards** — shaded benches and lawns between buildings, good for a break
+- **Craft and design shops**, small-batch ceramics, textiles, and Hualien-made goods
+- **Galleries**, rotating exhibitions, often featuring Indigenous Amis artists
+- **Industrial-style cafés and restaurants**, exposed brick, big windows, converted warehouse floors
+- **Open courtyards**, shaded benches and lawns between buildings, good for a break
 
-None of it takes long to see individually, but the park rewards slow wandering — budget an hour and a half to two hours if you want to actually go inside places rather than just photograph the exteriors.
+None of it takes long to see individually, but the park rewards slow wandering. Budget an hour and a half to two hours if you want to actually go inside places rather than just photograph the exteriors.
 
 ## When to go
 
 The park is closed Mondays, so don't build a Monday visit around it. On other days it runs 10am to 6pm.
 
-Weekends get busy, with the heaviest crowds between 11am and 6pm — exactly the hours most day-trippers arrive after breakfast. If you're visiting on a Saturday or Sunday, an early arrival right at 10am buys you a calmer first hour before the crowds build.
+Weekends get busy, with the heaviest crowds between 11am and 6pm, exactly the hours most day-trippers arrive after breakfast. If you're visiting on a Saturday or Sunday, an early arrival right at 10am buys you a calmer first hour before the crowds build.
 
 Weekday mornings are generally the easiest time to see the park without jostling for space in front of shopfronts.
 
 ## How to visit like a local
 
-This is a well-known stop on Hualien's tourist circuit now, not an undiscovered corner, so don't expect to have it to yourself — the trick is timing, not secrecy.
+This is a well-known stop on Hualien's tourist circuit now, not an undiscovered corner, so don't expect to have it to yourself. The trick is timing, not secrecy.
 
 - **Arrive right at opening (10am) on a weekday** if your schedule allows; it's the calmest window by far
 - **Avoid Saturday and Sunday afternoons**, when the 11am–6pm crush makes the courtyards and shop aisles feel tight
-- **Pay by card or mobile payment** at most shops and cafés — Taiwan's retail scene has shifted heavily toward tap-to-pay, though small vendors may still prefer cash
-- **Browse without pressure** — shop staff generally let you look around freely; there's no expectation to buy just because you walked in
-- **Combine it with a night market run** — many locals treat the park as a late-afternoon stop before heading to Dongdamen Night Market once the sun drops
+- **Pay by card or mobile payment** at most shops and cafés, Taiwan's retail scene has shifted heavily toward tap-to-pay, though small vendors may still prefer cash
+- **Browse without pressure**, shop staff generally let you look around freely; there's no expectation to buy just because you walked in
+- **Combine it with a night market run**, many locals treat the park as a late-afternoon stop before heading to Dongdamen Night Market once the sun drops
 
 The most common visitor mistake is treating it like a quick photo-op and leaving after ten minutes. The park's real appeal is in the individual shops and galleries, which reward a bit of unhurried browsing rather than a fast lap of the exteriors.
 
-Bring a bit of curiosity and enough time to duck into three or four buildings rather than just admiring the brickwork from outside — that's where the park actually delivers.
+Bring a bit of curiosity and enough time to duck into three or four buildings rather than just admiring the brickwork from outside. That's where the park actually delivers.
 

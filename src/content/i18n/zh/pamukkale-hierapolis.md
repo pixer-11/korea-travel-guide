@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pamukkale-hierapolis
-srcHash: 'b7a0a5efbd22'
+srcHash: '49faa0fd722d'
 title: 希拉波利斯(Hierapolis):棉花堡(Pamukkale)旅行指南
 description: 希拉波利斯坐落在土耳其西南部代尼兹利省(Denizli)棉花堡(Pamukkale)白色石灰岩梯田的正上方，与其同属一张门票涵盖的考古遗址——一票即可游览两处。
 quickAnswer: 希拉波利斯坐落在土耳其西南部代尼兹利省(Denizli)棉花堡(Pamukkale)白色石灰岩梯田的正上方，与其同属一张门票涵盖的考古遗址——一票即可游览两处。建议在开门时段(通常早上8点左右开门)或日落前两小时内前往，以避开中午挤满梯田和古代游泳池(Antique Pool)的旅游团人潮。建议预留三到四个小时：梯田一小时，剧场和地狱之门(Plutonium)一小时，其余时间留给墓地区和博物馆。

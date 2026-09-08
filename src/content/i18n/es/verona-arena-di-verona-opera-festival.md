@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: verona-arena-di-verona-opera-festival
-srcHash: 'ba2374f2f02e'
+srcHash: '99cbc2962168'
 title: 'Festival de Ópera de la Arena di Verona: lo que hay que saber (Verona)'
 description: Festival de Ópera de la Arena di Verona, en Verona, Italia — hasta el 12 de septiembre de 2026 (en marcha desde el 12 de junio). Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
 quickAnswer: 'La 103.ª edición del Festival de Ópera de la Arena di Verona se extiende hasta el 12 de septiembre de 2026, en el anfiteatro romano de 2.000 años de antigüedad situado en Piazza Bra. Puedes esperar producciones a gran escala de Aida, Turandot, Nabucco y La Traviata bajo el cielo abierto: llega con bastante antelación para encontrar tu fila y acomodarte antes del anochecer. Confirma el programa exacto, las fechas y las categorías de entradas en el sitio oficial de la Arena antes de reservar, ya que el calendario rota por título a lo largo de la temporada.'

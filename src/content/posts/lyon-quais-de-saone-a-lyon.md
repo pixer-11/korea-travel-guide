@@ -84,13 +84,13 @@ Locals cycle it, run it, or just sit on the low stone wall with a sandwich. It's
 
 ## Getting there
 
-The stretch along Quai Fulchiron sits in the 5th arrondissement, right below Vieux Lyon and the Fourvière hill. The nearest metro is Vieux Lyon on Line D — from there it's a two-minute walk down to the water.
+The stretch along Quai Fulchiron sits in the 5th arrondissement, right below Vieux Lyon and the Fourvière hill. The nearest metro is Vieux Lyon on Line D, from there it's a two-minute walk down to the water.
 
 If you're coming from Bellecour or the Presqu'île, cross the Saône on the Pont Bonaparte or Pont Maréchal Juin and you'll land almost directly on the quay. Vélo'v bike stations are dotted along the route if you'd rather cover more ground on two wheels.
 
 ## What to see and do
 
-Walking is the whole activity here, and it rewards unhurried pace. Look up as you go — this side of the river gives you some of the best angles on Fourvière Basilica perched above the rooftops.
+Walking is the whole activity here, and it rewards unhurried pace. Look up as you go, this side of the river gives you some of the best angles on Fourvière Basilica perched above the rooftops.
 
 A few things worth building into your walk:
 
@@ -103,21 +103,21 @@ In summer, the quay becomes an open-air lounge after dark, with people gathered 
 
 ## When to go
 
-Because it's open 24 hours, there's no wrong time to show up — but crowd patterns shift a lot through the day. Weekday mornings between 7am and 8am are the quietest window, just you, the water, and maybe a rowing crew.
+Because it's open 24 hours, there's no wrong time to show up, but crowd patterns shift a lot through the day. Weekday mornings between 7am and 8am are the quietest window, just you, the water, and maybe a rowing crew.
 
-Weekends are busier overall, though 8am to noon still offers a calmer stretch before the afternoon fills in. Avoid strolling here on weekend evenings if you want space to yourself — foot traffic stays heavy from around 7am right through to 11pm as locals turn out for evening walks and riverside drinks.
+Weekends are busier overall, though 8am to noon still offers a calmer stretch before the afternoon fills in. Avoid strolling here on weekend evenings if you want space to yourself, foot traffic stays heavy from around 7am right through to 11pm as locals turn out for evening walks and riverside drinks.
 
-Spring and early autumn are ideal for temperature, but the quay works year-round since it's outdoors and unstaffed — no tickets, no closing gates.
+Spring and early autumn are ideal for temperature, but the quay works year-round since it's outdoors and unstaffed, no tickets, no closing gates.
 
 ## How to visit like a local
 
-Treat it as a walk, not a sight to check off. Locals use these quays as a daily thoroughfare — for commuting by bike, for a lunchtime breather, for an evening decompress — not as a tourist stop, so match that unhurried, purposeful pace rather than lingering for photos at every bend.
+Treat it as a walk, not a sight to check off. Locals use these quays as a daily thoroughfare (for commuting by bike, for a lunchtime breather, for an evening decompress) not as a tourist stop, so match that unhurried, purposeful pace rather than lingering for photos at every bend.
 
 - Go early on weekdays (7–8am) for near-empty paths and soft light on the water
 - No entry fee and no set hours, so there's nothing to book or queue for
 - Bring your own coffee or picnic; there are no vendors directly on the quay itself
 - Pair the walk with a coffee stop in Vieux Lyon rather than expecting cafés riverside
-- Watch for cyclists — the path is shared, and locals move fast on it
+- Watch for cyclists. The path is shared, and locals move fast on it
 
 The mistake visitors make is treating this as a five-minute photo stop before rushing to Fourvière or Vieux Lyon. Give it thirty minutes at least, ideally closer to an hour, and let the river set the tempo. That's how the city actually uses this space, and it's the easiest way to feel like you're not just passing through Lyon but genuinely in it.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chicago-cloud-gate
-srcHash: '9b69fa5c4bb8'
+srcHash: '2326b1eafb75'
 title: '클라우드 게이트: 시카고 여행 가이드'
 description: 클라우드 게이트 — 흔히 "빈(The Bean)"이라는 애칭으로 불리는 이 작품은 밀레니엄 파크(Millennium Park) 북서쪽 모퉁이, AT&T 플라자(AT&T Plaza) 201 E Randolph St에 있습니다.
 quickAnswer: 클라우드 게이트 — 흔히 "빈(The Bean)"이라는 애칭으로 불리는 이 작품은 밀레니엄 파크(Millennium Park) 북서쪽 모퉁이, AT&T 플라자(AT&T Plaza) 201 E Randolph St에 있습니다. 무료이며 24시간 개방되어 있고, 인파를 피하려면 이른 아침이나 해가 진 뒤 방문하는 것이 좋습니다. 관람에는 20~30분 정도면 충분하며, "옴파로스(omphalos)"라 불리는 오목한 하단부 아래에서 사진을 찍고 싶다면 조금 더 시간을 잡아두세요.

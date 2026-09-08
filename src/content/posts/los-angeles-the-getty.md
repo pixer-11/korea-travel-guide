@@ -66,34 +66,34 @@ aiGenerated: true
 
 ## Why go
 
-You feel it before you see a single painting: the tram pulls away from the parking garage on Sepulveda Boulevard and climbs slowly through chaparral-covered hillside, the 405 freeway shrinking below, until the white travertine towers of Richard Meier's building crest into view. The Getty isn't just an art museum — it's a piece of architecture, a garden, and one of the best free views in Los Angeles rolled into one hilltop campus.
+You feel it before you see a single painting: the tram pulls away from the parking garage on Sepulveda Boulevard and climbs slowly through chaparral-covered hillside, the 405 freeway shrinking below, until the white travertine towers of Richard Meier's building crest into view. The Getty isn't just an art museum. It's a piece of architecture, a garden, and one of the best free views in Los Angeles rolled into one hilltop campus.
 
 Inside, the collection runs from medieval illuminated manuscripts to Van Gogh's "Irises," but plenty of visitors come just for the light, the courtyards, and the way the Pacific haze sits over the city on a clear afternoon.
 
 ## Getting there
 
-The address is 1200 Getty Center Drive, in Brentwood on the west side of LA, just off the San Diego (405) Freeway — look for the Getty Center Drive exit whether you're coming from the Valley or the Westside. There's no direct subway line to the museum; the practical way in is by car, rideshare, or Metro bus (the 734 line stops near the entrance).
+The address is 1200 Getty Center Drive, in Brentwood on the west side of LA, just off the San Diego (405) Freeway. Look for the Getty Center Drive exit whether you're coming from the Valley or the Westside. There's no direct subway line to the museum; the practical way in is by car, rideshare, or Metro bus (the 734 line stops near the entrance).
 
-Once you arrive, you park at the base of the hill and ride a smooth, driverless electric tram up to the museum plaza — a five-minute trip that's part of the experience, not just logistics. Parking costs a flat fee (paid at the gate), but once you're through, admission to the galleries themselves is free.
+Once you arrive, you park at the base of the hill and ride a smooth, driverless electric tram up to the museum plaza, a five-minute trip that's part of the experience, not just logistics. Parking costs a flat fee (paid at the gate), but once you're through, admission to the galleries themselves is free.
 
 ## What to see
 
-Give yourself at least half a day, and ideally more. The museum is split across five pavilions — North, South, East, West, and the newer additions — organized roughly by century, so if you only have a couple of hours, pick one wing rather than trying to skim all of them. The North and East Pavilions hold the European paintings people come for: Rembrandt self-portraits, Titian, and that Van Gogh.
+Give yourself at least half a day, and ideally more. The museum is split across five pavilions (North, South, East, West, and the newer additions) organized roughly by century, so if you only have a couple of hours, pick one wing rather than trying to skim all of them. The North and East Pavilions hold the European paintings people come for: Rembrandt self-portraits, Titian, and that Van Gogh.
 
-Don't rush past the Central Garden, designed by artist Robert Irwin as a piece of art in its own right — a switchback path descends through a ravine of azaleas to a floating maze of plants in a pool, and it changes with the seasons. The outdoor terraces on the south side frame a postcard view of the city grid running out toward the ocean, and on a smog-free day you can pick out the coastline.
+Don't rush past the Central Garden, designed by artist Robert Irwin as a piece of art in its own right, a switchback path descends through a ravine of azaleas to a floating maze of plants in a pool, and it changes with the seasons. The outdoor terraces on the south side frame a postcard view of the city grid running out toward the ocean, and on a smog-free day you can pick out the coastline.
 
 ## When to go
 
-Because there's no ticket cost, the Getty draws a steady crowd, and weekends are its busiest stretch, with foot traffic building steadily from around 11am and staying heavy until about 7pm. If you want the galleries and gardens to yourself, weekday evenings are the sweet spot — things thin out noticeably between 6pm and 6:30pm, right up to closing. On weekends, the calmest hour is later still, around 8pm to 9pm, so an evening visit timed to sunset over the gardens can mean far fewer people between you and the art.
+Because there's no ticket cost, the Getty draws a steady crowd, and weekends are its busiest stretch, with foot traffic building steadily from around 11am and staying heavy until about 7pm. If you want the galleries and gardens to yourself, weekday evenings are the sweet spot, things thin out noticeably between 6pm and 6:30pm, right up to closing. On weekends, the calmest hour is later still, around 8pm to 9pm, so an evening visit timed to sunset over the gardens can mean far fewer people between you and the art.
 
 Check the current daily closing time before you plan an evening trip, since hours can shift seasonally, and note the museum is closed on Mondays.
 
 ## Practical tips
 
-Bring a layer even in summer — the hilltop catches an ocean breeze that the parking lot below doesn't, and the tram ride itself is open-air-adjacent and breezy. The on-site restaurant and café are useful if you're staying for a full day, but many visitors bring a picnic to eat on the lawns near the South Promontory, which is generally allowed in the outdoor areas. Photography without flash is fine in most gallery spaces, so bring a camera for the architecture as much as the art.
+Bring a layer even in summer, the hilltop catches an ocean breeze that the parking lot below doesn't, and the tram ride itself is open-air-adjacent and breezy. The on-site restaurant and café are useful if you're staying for a full day, but many visitors bring a picnic to eat on the lawns near the South Promontory, which is generally allowed in the outdoor areas. Photography without flash is fine in most gallery spaces, so bring a camera for the architecture as much as the art.
 
 ## How to visit like a local
 
-Skip the late-morning rush: arrive right at opening or, if you're free on a weekday, come after 5pm when the light through the skylights turns golden and the crowds have thinned toward that 6–6:30pm quiet window. Parking is prepaid at a machine or gate on arrival — carry a card, since cash isn't always practical at the kiosks. There's no ticket booth to queue at for entry itself since admission is free, so the real bottleneck is the tram and the parking structure, not the galleries; walking up the hillside path is a legitimate, often faster alternative if the tram line is long.
+Skip the late-morning rush: arrive right at opening or, if you're free on a weekday, come after 5pm when the light through the skylights turns golden and the crowds have thinned toward that 6–6:30pm quiet window. Parking is prepaid at a machine or gate on arrival, carry a card, since cash isn't always practical at the kiosks. There's no ticket booth to queue at for entry itself since admission is free, so the real bottleneck is the tram and the parking structure, not the galleries; walking up the hillside path is a legitimate, often faster alternative if the tram line is long.
 
-Locals treat the Getty as a rotating destination — check what temporary exhibition is on before you go, since the permanent collection is only part of the draw, and pace yourself by picking one or two pavilions rather than attempting the entire campus in one visit.
+Locals treat the Getty as a rotating destination. Check what temporary exhibition is on before you go, since the permanent collection is only part of the draw, and pace yourself by picking one or two pavilions rather than attempting the entire campus in one visit.

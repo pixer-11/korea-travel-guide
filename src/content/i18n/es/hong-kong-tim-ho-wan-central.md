@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-tim-ho-wan-central
-srcHash: 'fef20671dfef'
+srcHash: '5a52db46ba74'
 title: 'Tim Ho Wan (Central): Dónde comer en Hong Kong'
 description: Tim Ho Wan en Central está dentro del vestíbulo de la estación de MTR Hong Kong Station (Shop 12A & 12B, Level 1), abierto todos los días de 9am a 9pm, así que puedes comer antes o después del Airport Express sin necesidad de salir a la calle.
 quickAnswer: 'Tim Ho Wan en Central está dentro del vestíbulo de la estación de MTR Hong Kong Station (Shop 12A & 12B, Level 1), abierto todos los días de 9am a 9pm, así que puedes comer antes o después del Airport Express sin necesidad de salir a la calle. Ve justo a la apertura o, los fines de semana, antes de las 10am: después de las 11am la máquina de tickets de turno se convierte en la única forma sensata de entrar, y las filas se mantienen hasta las 7pm. Pidas lo que pidas, no te vayas sin los bollos horneados de cerdo asado (baked BBQ pork buns) y los rollos de fideos de arroz; sigue siendo un dim sum económico, con pago en efectivo o tarjeta, y con 20 a 40 minutos alcanza para una comida completa.'

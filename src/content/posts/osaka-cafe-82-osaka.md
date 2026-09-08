@@ -66,7 +66,7 @@ aiGenerated: true
 
 ## Why Cafe+82 is worth the detour
 
-Shinmachi isn't the Osaka you see on postcards. It's quieter, residential-adjacent, full of small design studios and boutiques — and that's exactly why Cafe+82 works.
+Shinmachi isn't the Osaka you see on postcards. It's quieter, residential-adjacent, full of small design studios and boutiques, and that's exactly why Cafe+82 works.
 
 The name is a wink at Korea's country code, and the whole space leans into that Seoul-café aesthetic: soft neutral tones, big windows, a menu that swaps Japanese kissaten habits for Korean-style toast, bingsu-adjacent sweets, and coffee drinks built to be photographed before they're drunk.
 
@@ -74,11 +74,11 @@ At 4.6 stars from a modest 335 reviews, it hasn't been swallowed by the tour-bus
 
 ## Getting there
 
-The address is 1-chōme-7-17 Shinmachi, Nishi Ward — a part of town most first-time visitors skip entirely, which is part of the appeal.
+The address is 1-chōme-7-17 Shinmachi, Nishi Ward, a part of town most first-time visitors skip entirely, which is part of the appeal.
 
 You're walking distance from both the Shinsaibashi and Yotsubashi subway stations, in the pocket of streets between the Midosuji shopping strip and the quieter canal-side blocks of Nishi Ward. The area rewards wandering: expect narrow one-way streets, low-rise buildings, and the kind of ground-floor glass frontage that lets you spot the café's pale interior from the sidewalk before you reach the door.
 
-Don't rely on a landmark to find it — pull up the exact address on maps, since Shinmachi's grid can be disorienting even for locals.
+Don't rely on a landmark to find it, pull up the exact address on maps, since Shinmachi's grid can be disorienting even for locals.
 
 ## What to order
 
@@ -89,11 +89,11 @@ The menu draws from Korean café culture more than traditional Japanese coffee s
 - A rotating seasonal drink or dessert, frequently fruit-based
 - Simple brunch plates for those arriving before the lunch crowd
 
-Portions are built for sharing and photographing — this is a sit-down-and-savor spot, not a grab-and-go counter. Given the price level, expect mid-range pricing for Osaka café standards rather than budget convenience-store rates.
+Portions are built for sharing and photographing. This is a sit-down-and-savor spot, not a grab-and-go counter. Given the price level, expect mid-range pricing for Osaka café standards rather than budget convenience-store rates.
 
 ## When to go
 
-Cafe+82 opens at 9am and closes at 7pm, every day of the week — no early-morning or late-night surprises here.
+Cafe+82 opens at 9am and closes at 7pm, every day of the week, no early-morning or late-night surprises here.
 
 Weekdays run quiet across the entire opening window, so any hour from 9am to 7pm on a Tuesday or Wednesday feels relaxed. Weekends are a different story: the calm holds only from 9am to 10am before the 11am–5pm stretch fills up with the brunch-and-dessert crowd.
 
@@ -101,12 +101,12 @@ If you're visiting Saturday or Sunday, aim to walk in right at 9am. You'll get f
 
 ## How to visit like a local
 
-Treat opening time as your best asset here, especially on weekends. Arriving at 9am — rather than drifting in after brunch hour — is the single biggest thing that separates a relaxed visit from a wait for a table.
+Treat opening time as your best asset here, especially on weekends. Arriving at 9am, rather than drifting in after brunch hour, is the single biggest thing that separates a relaxed visit from a wait for a table.
 
 Payment in Japanese cafés of this size still often leans cash-friendly, though card and mobile payment are increasingly standard in central Osaka; carry some yen as backup regardless.
 
-Tipping isn't expected anywhere in Japan, cafés included — don't leave money on the table, it can actually confuse staff.
+Tipping isn't expected anywhere in Japan, cafés included. Don't leave money on the table, it can actually confuse staff.
 
 If you don't speak Japanese, pointing at the menu photos works fine; most Korean-café-style spots in this part of Osaka are used to a mixed clientele.
 
-The mistake visitors make is treating this as a quick coffee stop between Dotonbori and Shinsaibashi shopping. Slow down. This is a sit-with-your-drink kind of place, not a to-go cup. Since it's still under the radar relative to its rating, you won't need a reservation — just good timing and a little patience for your latte art to arrive intact.
+The mistake visitors make is treating this as a quick coffee stop between Dotonbori and Shinsaibashi shopping. Slow down. This is a sit-with-your-drink kind of place, not a to-go cup. Since it's still under the radar relative to its rating, you won't need a reservation, just good timing and a little patience for your latte art to arrive intact.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-yakiuo-ishikawa
-srcHash: 'bf0cc4882f69'
+srcHash: 'c9d990c05db7'
 title: ヤキウオ・イシカワ:ホーチミンシティ旅行ガイド
 description: ベトナム・ホーチミンシティにある新進気鋭のスポット、ヤキウオ・イシカワ(Yakiuo Ishikawa)について——その内容、場所、訪れ方をご紹介します。
 quickAnswer: ヤキウオ・イシカワ(Yakiuo Ishikawa)は、東京発の「牛肉なし焼肉」というコンセプトを掲げるホーチミンシティ・1区(District 1)のレストランで、刺身グレードのシーフード——たとえば炙り大トロ——をテーブルで焼き上げ、まるで本格的な和牛焼肉のような体験を演出しています。Vietceteraが選ぶ「Flavors Award」の「Concept of the Year」を受賞し、現在はタオディエン(Thao Dien)に2号店を展開中です。特にディナーは事前予約が必須で、新店舗がオープン予定のため訪問前に最新の営業時間を確認しましょう。

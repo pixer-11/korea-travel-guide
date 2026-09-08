@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-jack-s-fish-spot
-srcHash: 'da8412719a92'
+srcHash: 'ae9f1d3977d9'
 title: 杰克海鲜小店(Jack's Fish Spot)：西雅图美食指南
 description: 杰克海鲜小店（Jack's Fish Spot）是派克市场（Pike Place Market）里一家朴实无华的海鲜柜台，最适合站在大理石吧台前，快速来一碗杂烩浓汤、一份蟹肉杯，或是来一杯新鲜生蚝一口闷。
 quickAnswer: 杰克海鲜小店（Jack's Fish Spot）是派克市场（Pike Place Market）里一家朴实无华的海鲜柜台，最适合站在大理石吧台前，快速来一碗杂烩浓汤、一份蟹肉杯，或是来一杯新鲜生蚝一口闷。这里每天营业（大多数日子早7:30至晚6点，周日8:00至17:00）；工作日尽量赶在开门时前往以避开人群，因为周末11点到下午4点期间，排队的人龙会一直延伸到市场的过道里。

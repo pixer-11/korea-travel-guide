@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: george-town-george-town-festival-2026-beyond-boundaries
-srcHash: 'b51514d073f3'
+srcHash: 'b326c6675add'
 title: 乔治市艺术节2026（Beyond Boundaries）：观展须知（乔治市）
 description: 2026年8月1日至9日，马来西亚乔治市举办了乔治市艺术节2026（主题“Beyond Boundaries”）。本文介绍这一活动是什么、举办的时间地点，以及公布的节目安排。
 quickAnswer: 乔治市艺术节2026（主题“Beyond Boundaries”）原定于8月1日至9日在槟城的联合国教科文组织世界遗产核心区举行，公布的节目包括40多个国际戏剧、舞蹈、音乐和艺术项目，分布在历史街区的各条街道与建筑之中。亚美尼亚街（Armenian Street）与爱情巷（Love Lane）一带的遗产区距离大部分场馆都只需步行即可到达，节目安排上免费场次与售票场次兼而有之。

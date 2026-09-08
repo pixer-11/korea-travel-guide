@@ -94,16 +94,16 @@ Start at the Central end, near Jubilee Street and the Central Market building. T
 
 From there you walk a short block uphill to the first escalator entrance. The system threads through Soho and Wing Wah Lane before finishing near Conduit Road in the Mid-Levels.
 
-Signage is minimal — just follow the covered walkway and let the moving stairs pull you upward.
+Signage is minimal, just follow the covered walkway and let the moving stairs pull you upward.
 
 ## What you'll pass
 
 The ride is really a moving cross-section of Hong Kong Island's social layers, and it's worth pausing at a few points rather than riding straight through.
 
-- **Central Market** — restored Art Deco building at the base, worth a wander before or after
-- **Lan Kwai Fong** and **Soho** — bars, restaurants and street art crossing Hollywood Road
-- **Man Mo Temple** — a short detour off Hollywood Road, incense coils hanging from the ceiling
-- **Mid-Levels residential blocks** — the quieter, leafier top section where the crowds thin out
+- **Central Market**, restored Art Deco building at the base, worth a wander before or after
+- **Lan Kwai Fong** and **Soho**, bars, restaurants and street art crossing Hollywood Road
+- **Man Mo Temple**, a short detour off Hollywood Road, incense coils hanging from the ceiling
+- **Mid-Levels residential blocks**, the quieter, leafier top section where the crowds thin out
 
 Each escalator section is short, so you can hop off at any landing to explore before rejoining.
 
@@ -117,16 +117,16 @@ If you want the system closer to empty, ride early morning or after dinner, when
 
 ## How to visit like a local
 
-Locals don't "visit" the escalators — they use them to get to work, and that's the mindset to borrow. Stand to the right if you're not walking, let people pass on the left, same etiquette as any escalator in the city.
+Locals don't "visit" the escalators, they use them to get to work, and that's the mindset to borrow. Stand to the right if you're not walking, let people pass on the left, same etiquette as any escalator in the city.
 
 There's no fare and no ticket gate; you simply step on. Because it's a working commuter route, avoid blocking entrances for photos during the morning downhill rush before 10am.
 
-The biggest visitor mistake is riding it once, top to bottom, and calling it done. Locals treat it as a spine connecting neighbourhoods — get off at Hollywood Road for the antique shops, or at Elgin Street for a coffee, then rejoin further up.
+The biggest visitor mistake is riding it once, top to bottom, and calling it done. Locals treat it as a spine connecting neighbourhoods, get off at Hollywood Road for the antique shops, or at Elgin Street for a coffee, then rejoin further up.
 
 Evenings after dark are underrated: Soho's restaurant lights spill onto the walkway and the escalators feel more like a night market crossing than a transit system.
 
 ## Good to know before you go
 
-Bring a light layer even in summer — the covered sections funnel air-conditioning breeze from nearby buildings, and it can feel cooler than the street.
+Bring a light layer even in summer, the covered sections funnel air-conditioning breeze from nearby buildings, and it can feel cooler than the street.
 
 The full ride takes about 20 minutes without stops, but budget an hour or two if you want to explore Soho, Man Mo Temple, or Central Market along the way. Wheelchair and stroller users can ride comfortably, as it's designed for daily foot and vehicle-free commuter traffic rather than tourist buses.

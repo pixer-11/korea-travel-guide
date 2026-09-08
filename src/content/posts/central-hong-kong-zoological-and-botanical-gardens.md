@@ -93,13 +93,13 @@ The gardens sit on Hong Kong Island, split by Albany Road into two halves connec
 - **Alternative**: Admiralty Station, Exit C1, similar walking distance.
 - **Escalator route**: from Central, the Mid-Levels Escalator gets you partway up before you cut across toward Garden Road.
 
-Expect a genuine incline either way — this is Central's hillside, not flat ground. Wear shoes you don't mind sweating in.
+Expect a genuine incline either way. This is Central's hillside, not flat ground. Wear shoes you don't mind sweating in.
 
 ## What's actually inside
 
 The eastern side, across from Government House, holds the zoo section: small enclosures for lemurs, gibbons, a jaguar, and one of the world's better collections of Southeast Asian birds, kept in walk-through aviaries where the mesh is fine enough that you forget it's there.
 
-The western side is calmer — greenhouses, a fountain terrace with fig trees arching overhead, and a rockery where old men gather with caged songbirds. Paths are shaded, benches face the greenhouse rather than the traffic, and the smell is damp soil and frangipani rather than city exhaust.
+The western side is calmer, greenhouses, a fountain terrace with fig trees arching overhead, and a rockery where old men gather with caged songbirds. Paths are shaded, benches face the greenhouse rather than the traffic, and the smell is damp soil and frangipani rather than city exhaust.
 
 Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen, who reportedly used to walk these grounds as a student.
 
@@ -109,20 +109,20 @@ The gardens are open every day, 6am to 7pm, with no seasonal variation to worry 
 
 Midday brings school groups and a scattering of tourists cutting through en route to the Peak Tram or Hong Kong Park, but even then it rarely feels crowded. Because it skews under-the-radar compared to Hong Kong Park or the Peak, you're unlikely to fight for space at any hour.
 
-Rain is common from May to September, and the humidity in the greenhouses climbs fast — go earlier in the day if you're visiting in summer.
+Rain is common from May to September, and the humidity in the greenhouses climbs fast. Go earlier in the day if you're visiting in summer.
 
 ## How to visit like a local
 
-Locals treat this as a cut-through and a breathing space, not a destination to linger for hours — plan on 45 minutes to an hour unless you're a serious birder.
+Locals treat this as a cut-through and a breathing space, not a destination to linger for hours. Plan on 45 minutes to an hour unless you're a serious birder.
 
 - Enter from the Garden Road side in the morning; it's quieter and shadier than the Albany Road entrance.
-- No ticket, no app, no reservation — just walk in during opening hours.
+- No ticket, no app, no reservation, just walk in during opening hours.
 - Keep voices down near the aviaries; the birds react to noise, and the regulars notice.
-- Don't feed the animals or the wild birds that wander in — it's discouraged and mildly frowns-upon among the tai chi regulars who consider this their patch.
+- Don't feed the animals or the wild birds that wander in. It's discouraged and mildly frowns-upon among the tai chi regulars who consider this their patch.
 - Bring water; there are few vending options once you're inside.
 
-The mistake most first-time visitors make is treating it like a half-day zoo trip. It's small — you can walk both halves in under an hour, so slot it between Central sightseeing rather than building a morning around it.
+The mistake most first-time visitors make is treating it like a half-day zoo trip. It's small. You can walk both halves in under an hour, so slot it between Central sightseeing rather than building a morning around it.
 
 ## Nearby, so you're not backtracking
 
-Once you're done, Hong Kong Park is a short downhill walk east, with its own aviary and the Flagstaff House Museum of Tea Ware. Government House, the former colonial governor's residence, sits right across Albany Road — check ahead, as it only opens to the public on select days. The Peak Tram lower terminus on Garden Road is a 10-minute walk if you want to continue uphill.
+Once you're done, Hong Kong Park is a short downhill walk east, with its own aviary and the Flagstaff House Museum of Tea Ware. Government House, the former colonial governor's residence, sits right across Albany Road. Check ahead, as it only opens to the public on select days. The Peak Tram lower terminus on Garden Road is a 10-minute walk if you want to continue uphill.

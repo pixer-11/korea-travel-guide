@@ -71,7 +71,7 @@ draft: false
 
 ## Why Kumamoto Castle still stops people in their tracks
 
-The first view hits you from the moat road below: black-and-white walls stacked on a stone base that curves outward like a wave frozen mid-break. Locals call that curve *musha-gaeshi* — "warrior repeller" — because the overhang made the walls nearly impossible to scale. Even now, with scaffolding gone from the 2016 earthquake repairs, the main keep looks less built than grown out of the hill.
+The first view hits you from the moat road below: black-and-white walls stacked on a stone base that curves outward like a wave frozen mid-break. Locals call that curve *musha-gaeshi*, "warrior repeller", because the overhang made the walls nearly impossible to scale. Even now, with scaffolding gone from the 2016 earthquake repairs, the main keep looks less built than grown out of the hill.
 
 Kumamoto Castle was originally completed in 1607 under Kato Kiyomasa, one of the era's most skilled castle engineers. What you see today is largely a reconstruction, but it's done with enough care that the silhouette still matches old woodblock prints of the site.
 
@@ -83,31 +83,31 @@ The castle sits in Chuo Ward, an easy tram ride from Kumamoto Station. Take the 
 - Plan for roughly 90 minutes to 2 hours inside
 - Combine with Sakuranobaba Josaien, the restaurant and craft-shop street at the base, for lunch before or after
 
-Confirm current admission fees before you go — they've shifted a few times since earthquake-recovery reconstruction began, and separate tickets sometimes apply to the museum floors inside the keep.
+Confirm current admission fees before you go. They've shifted a few times since earthquake-recovery reconstruction began, and separate tickets sometimes apply to the museum floors inside the keep.
 
 ## What you'll actually see inside
 
-The main keep isn't a hollow shell — it's a working history museum stacked over several floors. Displays walk through the Kato and later Hosokawa clan eras, samurai armor, and the 2016 Kumamoto earthquakes that collapsed sections of the stone walls and one turret entirely.
+The main keep isn't a hollow shell. It's a working history museum stacked over several floors. Displays walk through the Kato and later Hosokawa clan eras, samurai armor, and the 2016 Kumamoto earthquakes that collapsed sections of the stone walls and one turret entirely.
 
 Glass panels on some floors let you look straight down into the wooden joinery, a rare chance to see how reconstruction engineers rebuilt centuries-old techniques with modern reinforcement hidden inside. From the top floor, the view opens over the city and, on clear days, toward the mountains ringing the Kumamoto basin.
 
-Outside, follow the elevated walkway that was built as part of the earthquake recovery — it lets visitors pass close to walls still under repair without disturbing the stonework crews. It's oddly one of the most memorable parts of the visit: scaffolding, cranes, and 400-year-old stone in the same frame.
+Outside, follow the elevated walkway that was built as part of the earthquake recovery, it lets visitors pass close to walls still under repair without disturbing the stonework crews. It's oddly one of the most memorable parts of the visit: scaffolding, cranes, and 400-year-old stone in the same frame.
 
 ## When to go
 
-Weekday mornings and afternoons are consistently calmer — the quietest window measured is any time during the 9am–5pm weekday stretch. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
+Weekday mornings and afternoons are consistently calmer. The quietest window measured is any time during the 9am–5pm weekday stretch. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
 
 If you're set on a weekend trip, arrive right at opening or in the last hour before closing to dodge the thickest crowds. Cherry blossom season, late March into April, draws the heaviest weekend traffic of the year, when the castle grounds fill with pink alongside the black keep.
 
 ## How to visit like a local
 
-Kumamoto Castle is one of the most-visited landmarks in the region, so don't expect a quiet secret — the smart move is timing, not stealth.
+Kumamoto Castle is one of the most-visited landmarks in the region, so don't expect a quiet secret. The smart move is timing, not stealth.
 
 - Go on a weekday if your schedule allows; it's measurably calmer than any weekend slot
 - Buy tickets at the gate machines or online in advance to skip the counter line
 - Cash and IC transit cards (Suica, ICOCA) both work at ticket counters and most Josaien shops
-- Wear real shoes — the approach path is uneven stone, and the keep has several staircases
+- Wear real shoes. The approach path is uneven stone, and the keep has several staircases
 - Skip the direct main gate rush by entering through the Sakuranobaba Josaien side, which lets you eat first and beat the mid-morning crowd surge
 
-The most common tourist mistake is treating this as a quick photo stop. Give the museum floors time — the earthquake recovery exhibits, in particular, are what separate this castle from a simple postcard shot.
+The most common tourist mistake is treating this as a quick photo stop. Give the museum floors time, the earthquake recovery exhibits, in particular, are what separate this castle from a simple postcard shot.
 

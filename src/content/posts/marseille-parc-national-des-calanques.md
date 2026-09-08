@@ -60,25 +60,25 @@ You come here for the light bouncing off the rock, the smell of pine and thyme b
 
 ## Getting there
 
-There's no single "entrance" — the park is a mosaic of trailheads. From central Marseille, bus line 23 or the M2 metro to Sormiou takes you toward the Les Baumettes gate, from where it's about a 45-minute walk down a stony track to Calanque de Sormiou. For Morgiou, buses run from Marseille's 8th arrondissement to a similar park-and-ride gate. If you'd rather skip the walk, small boats depart from the Vieux-Port for Sugiton, En-Vau, and Port-Miou, dropping you almost directly onto the pebbles.
+There's no single "entrance". The park is a mosaic of trailheads. From central Marseille, bus line 23 or the M2 metro to Sormiou takes you toward the Les Baumettes gate, from where it's about a 45-minute walk down a stony track to Calanque de Sormiou. For Morgiou, buses run from Marseille's 8th arrondissement to a similar park-and-ride gate. If you'd rather skip the walk, small boats depart from the Vieux-Port for Sugiton, En-Vau, and Port-Miou, dropping you almost directly onto the pebbles.
 
 Driving is discouraged and often blocked: private cars are banned on the calanque access roads in peak season, and the park-and-ride car parks fill by mid-morning.
 
 ## What to see and do
 
-Sormiou is the most accessible cove, wide enough for a small fishing hamlet of red-roofed cabanons and a couple of seasonal restaurants — good if you want a swim without too much scrambling. Morgiou has a similar cluster of cabins and a narrower, more sheltered inlet. For drama, En-Vau is the postcard shot: a slot canyon of rock walls opening onto a tiny beach, reachable by a steep, rope-assisted trail or by boat.
+Sormiou is the most accessible cove, wide enough for a small fishing hamlet of red-roofed cabanons and a couple of seasonal restaurants, good if you want a swim without too much scrambling. Morgiou has a similar cluster of cabins and a narrower, more sheltered inlet. For drama, En-Vau is the postcard shot: a slot canyon of rock walls opening onto a tiny beach, reachable by a steep, rope-assisted trail or by boat.
 
 Sugiton, closer to Marseille and popular with university students from Luminy campus next door, has a short but genuinely steep descent rewarded by clear, calm water good for snorkelling. Hikers can also link several calanques via the GR98 coastal trail, though the sun-exposed limestone offers almost no shade, so this is not a casual afternoon stroll in July.
 
 ## When to go
 
-Late spring (May-June) and September are the sweet spot — warm enough to swim, cooler underfoot than midsummer, and before the peak crowds. July and August bring intense heat, and the park often restricts access to certain trailheads (Sugiton, Sormiou, Marseilleveyre) on high-fire-risk days, with free permits required in advance — check the park's official site before you go, since rules shift year to year. Winter and early spring bring rough seas that can cancel boat trips but also empty out the trails almost entirely.
+Late spring (May-June), and September are the sweet spot (warm enough to swim, cooler underfoot than midsummer, and before the peak crowds. July and August bring intense heat, and the park often restricts access to certain trailheads (Sugiton, Sormiou, Marseilleveyre) on high-fire-risk days, with free permits required in advance) check the park's official site before you go, since rules shift year to year. Winter and early spring bring rough seas that can cancel boat trips but also empty out the trails almost entirely.
 
 ## How to visit like a local
 
-This is one of the most visited natural sites in France, so the goal isn't finding a secret corner — it's timing your visit to dodge the crush. Arrive at the trailhead gates by 8am; by mid-morning the park-and-ride lots at Sormiou and Morgiou are full and latecomers are turned away or left circling for parking. Bring your own water and food — there's little to buy once you're past the gates, and what exists at Sormiou's summer cabanons is limited and cash-plus-card, not a proper supermarket.
+This is one of the most visited natural sites in France, so the goal isn't finding a secret corner, it's timing your visit to dodge the crush. Arrive at the trailhead gates by 8am; by mid-morning the park-and-ride lots at Sormiou and Morgiou are full and latecomers are turned away or left circling for parking. Bring your own water and food, there's little to buy once you're past the gates, and what exists at Sormiou's summer cabanons is limited and cash-plus-card, not a proper supermarket.
 
-Wear actual hiking shoes, not sandals; the limestone trails are loose scree and sharper than they look, and this is the single most common mistake visitors make, arriving in flip-flops for what is genuinely a mountain trail. Pack out everything you bring in — there are no bins in the park itself — and know that fires, drones, and dogs off-leash are all prohibited to protect the fragile scrubland habitat. If you're coming by boat, book the crossing a few days ahead in summer; the small operators sell out.
+Wear actual hiking shoes, not sandals; the limestone trails are loose scree and sharper than they look, and this is the single most common mistake visitors make, arriving in flip-flops for what is genuinely a mountain trail. Pack out everything you bring in, there are no bins in the park itself, and know that fires, drones, and dogs off-leash are all prohibited to protect the fragile scrubland habitat. If you're coming by boat, book the crossing a few days ahead in summer; the small operators sell out.
 
 ## Nearby
 

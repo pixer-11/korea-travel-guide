@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: new-orleans-cochon-butcher
-srcHash: 'eadb6bd13987'
+srcHash: '76cc22443cbb'
 title: コション・ブッチャー(Cochon Butcher):ニューオーリンズのおすすめグルメ(4.8★)
 description: コション・ブッチャー(Cochon Butcher)は、ウェアハウス・ディストリクトのチュピトゥーラス・ストリート(Tchoupitoulas Street)沿いの路地裏にある、レストラン「コション(Cochon)」の姉妹店で、カジュアルなサンドイッチ&シャルキュトリー店です。4.8★(2,631件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: コション・ブッチャー(Cochon Butcher)は、ウェアハウス・ディストリクトのチュピトゥーラス・ストリート(Tchoupitoulas Street)沿いの路地裏にある、レストラン「コション(Cochon)」の姉妹店で、カジュアルなサンドイッチ&シャルキュトリー店です。おすすめはムッファレッタ(muffuletta)またはポークベリー・キューバン(pork belly cubano)。注文はカウンターで行い、ランチのピークタイムは行列を覚悟してください。営業時間は毎日11時〜22時なので、午後遅め(14時〜16時)に訪れれば行列なしで席に座れる可能性が高いです。

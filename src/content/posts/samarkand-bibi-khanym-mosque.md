@@ -83,13 +83,13 @@ draft: false
 
 You see the dome before you see the gate. Rising above the rooftops of old Samarkand, its ribbed turquoise surface catches the morning light long before you reach the entrance portal on Bibikhonim Street.
 
-Once through the towering iwan, the scale hits you. This was, when Timur commissioned it in the 1400s, meant to be the largest mosque in the Islamic world — and even in its weathered, part-restored state, the courtyard still feels vast.
+Once through the towering iwan, the scale hits you. This was, when Timur commissioned it in the 1400s, meant to be the largest mosque in the Islamic world, and even in its weathered, part-restored state, the courtyard still feels vast.
 
 ## Why it's worth your time
 
 This isn't a polished museum piece. Chunks of the original brickwork sit exposed next to Soviet-era and modern restoration, and that contrast is the point.
 
-You're looking at nearly 600 years of survival — earthquakes, neglect, empire-building — all layered onto one structure. The blue-tiled main dome and the fragments of mosaic on the entrance arch hint at how overwhelming the original decoration must have been.
+You're looking at nearly 600 years of survival (earthquakes, neglect, empire-building) all layered onto one structure. The blue-tiled main dome and the fragments of mosaic on the entrance arch hint at how overwhelming the original decoration must have been.
 
 ## What you'll actually see
 
@@ -98,13 +98,13 @@ Inside the courtyard, four minarets anchor the corners, and the main sanctuary b
 Look for:
 - The giant marble Quran stand (rahle) in the courtyard center, historically linked to the mosque's endowment
 - The restored tilework on the entrance portal, still showing traces of the original glaze
-- The asymmetry between fully rebuilt sections and untouched ruined brick — a visible timeline of restoration
+- The asymmetry between fully rebuilt sections and untouched ruined brick, a visible timeline of restoration
 
 Most visitors spend 45 minutes to an hour, longer if you linger to photograph the dome from different courtyard angles as the light shifts.
 
 ## Getting there
 
-Bibi-Khanym sits right at the edge of Samarkand's old city, an easy walk from the Registan — figure 10-15 minutes on foot heading north.
+Bibi-Khanym sits right at the edge of Samarkand's old city, an easy walk from the Registan, figure 10-15 minutes on foot heading north.
 
 It's essentially next door to Siab Bazaar, so pairing the two makes sense: mosque first while it's calm, market after when the stalls are in full swing. A taxi from most central hotels runs a short, cheap ride if you'd rather not walk in the heat.
 
@@ -114,17 +114,17 @@ The mosque is open every day. Monday through Friday it runs 7am to 10pm; on Satu
 
 Weekday mornings right after opening are consistently the calmest stretch, with light crowds practically all day. Weekends are different: traffic builds steadily and the busiest window is 12pm to 6pm, so if you're visiting on a Saturday or Sunday, aim for the 9am opening or wait until evening.
 
-Early light works in your favor photographically too — the low sun catches the dome's tilework at an angle that flattens out by midday.
+Early light works in your favor photographically too, the low sun catches the dome's tilework at an angle that flattens out by midday.
 
 ## How to visit like a local
 
 Uzbeks and regional visitors generally treat this as a working historic mosque as much as a monument, so modest dress is expected: shoulders and knees covered, and women may want a scarf on hand even though it isn't always strictly enforced for casual visits.
 
-Entry tickets are typically bought at a small booth near the gate — carry cash in local currency (Uzbek som), since card payment isn't reliably available at the entrance.
+Entry tickets are typically bought at a small booth near the gate, carry cash in local currency (Uzbek som), since card payment isn't reliably available at the entrance.
 
 There's no formal booking system; you simply walk up and queue at the ticket window, which moves fast outside weekend midday hours.
 
-The mistake most first-timers make is treating it as a five-minute photo stop from outside. Go in, walk the full courtyard, and look up at the interior of the sanctuary dome — that's the detail people rush past.
+The mistake most first-timers make is treating it as a five-minute photo stop from outside. Go in, walk the full courtyard, and look up at the interior of the sanctuary dome. That's the detail people rush past.
 
 If you want the courtyard genuinely quiet, weekday early morning is your best bet; even 9am on a weekday beats any weekend hour.
 

@@ -73,19 +73,19 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-You see it before you reach it: a façade that looks like it's been iced rather than built, studded with broken ceramic in blues, greens, and violets that catch the light differently every hour. Antoni Gaudí redesigned this apartment block between 1904 and 1906, and the whole building reads like a fever dream translated into stone and glass — no straight lines, no flat surfaces, bones instead of columns.
+You see it before you reach it: a façade that looks like it's been iced rather than built, studded with broken ceramic in blues, greens, and violets that catch the light differently every hour. Antoni Gaudí redesigned this apartment block between 1904 and 1906, and the whole building reads like a fever dream translated into stone and glass, no straight lines, no flat surfaces, bones instead of columns.
 
-Locals nicknamed it Casa dels Ossos, the House of Bones, and once you're standing under the skeletal balconies, you understand why. The scaled, arched roofline is usually read as a dragon's back, with a turret at one end standing in for St. George's lance — a nod to Catalonia's patron saint. It's one of the most photographed buildings in Spain, and inside, it's just as strange and considered: not a single right angle in the main hall, and light that moves from deep cobalt at the top of the interior lightwell to pale blue near the bottom, an engineering trick as much as an aesthetic one.
+Locals nicknamed it Casa dels Ossos, the House of Bones, and once you're standing under the skeletal balconies, you understand why. The scaled, arched roofline is usually read as a dragon's back, with a turret at one end standing in for St. George's lance, a nod to Catalonia's patron saint. It's one of the most photographed buildings in Spain, and inside, it's just as strange and considered: not a single right angle in the main hall, and light that moves from deep cobalt at the top of the interior lightwell to pale blue near the bottom, an engineering trick as much as an aesthetic one.
 
 ## Getting there
 
-Casa Batlló sits directly on Passeig de Gràcia, at number 43, in the Eixample — Barcelona's grid-planned 19th-century expansion district. The closest stop is Passeig de Gràcia station, served by metro lines L2, L3, and L4, just a couple of minutes' walk from the entrance. It's also an easy 10–15 minute stroll from Plaça Catalunya if you're coming from the Old Town, and the same boulevard leads you north toward Gaudí's other Eixample showpiece, Casa Milà (La Pedrera), about a seven-minute walk away — worth pairing the two in a single Modernisme-focused afternoon.
+Casa Batlló sits directly on Passeig de Gràcia, at number 43, in the Eixample (Barcelona's grid-planned 19th-century expansion district. The closest stop is Passeig de Gràcia station, served by metro lines L2, L3, and L4, just a couple of minutes' walk from the entrance. It's also an easy 10–15 minute stroll from Plaça Catalunya if you're coming from the Old Town, and the same boulevard leads you north toward Gaudí's other Eixample showpiece, Casa Milà (La Pedrera), about a seven-minute walk away) worth pairing the two in a single Modernisme-focused afternoon.
 
 ## What to see inside
 
-The self-guided tour (audio guide included) moves you up through the main living floor — the Noble Floor — with its mushroom-shaped fireplace nook and undulating plaster ceiling swirled like water going down a drain, then past the internal lightwell with its gradient of blue tiles, and up to the loft, all parabolic brick arches meant to evoke a whale's ribcage.
+The self-guided tour (audio guide included) moves you up through the main living floor, the Noble Floor, with its mushroom-shaped fireplace nook and undulating plaster ceiling swirled like water going down a drain, then past the internal lightwell with its gradient of blue tiles, and up to the loft, all parabolic brick arches meant to evoke a whale's ribcage.
 
-The finale is the rooftop, where the chimneys wear mosaic helmets and the dragon-spine ridge tiles glint against the sky. In recent years the visit has leaned into augmented-reality panels and projections that animate Gaudí's nature-inspired motifs, so you're not just reading placards — you're watching the ceiling seem to ripple. Budget an hour to ninety minutes; rooftop photographers and slow walkers make it easy to linger longer.
+The finale is the rooftop, where the chimneys wear mosaic helmets and the dragon-spine ridge tiles glint against the sky. In recent years the visit has leaned into augmented-reality panels and projections that animate Gaudí's nature-inspired motifs, so you're not just reading placards. You're watching the ceiling seem to ripple. Budget an hour to ninety minutes; rooftop photographers and slow walkers make it easy to linger longer.
 
 ## When to go
 
@@ -95,8 +95,8 @@ If you can manage a weekday morning near opening time, or come back after dinner
 
 ## How to visit like a local
 
-Buy a timed-entry ticket online well ahead — this isn't a spontaneous walk-up attraction anymore, and with well over 200,000 reviews logged, it's firmly on every tour itinerary in the city, not an under-the-radar stop. Choose your slot for opening time or evening rather than the midday-to-8pm weekend window, when tour groups stack up in the entrance hall. Almost everyone pays by card or via the pre-purchased mobile ticket; there's little reason to carry cash for entry.
+Buy a timed-entry ticket online well ahead. This isn't a spontaneous walk-up attraction anymore, and with well over 200,000 reviews logged, it's firmly on every tour itinerary in the city, not an under-the-radar stop. Choose your slot for opening time or evening rather than the midday-to-8pm weekend window, when tour groups stack up in the entrance hall. Almost everyone pays by card or via the pre-purchased mobile ticket; there's little reason to carry cash for entry.
 
-Skip the street vendors and "skip the line" touts hovering near the door — buy directly through the official channel. Once inside, resist the urge to rush to the rooftop first: the building is designed as a sequence, and the transition from the warm wood-and-stone Noble Floor to the cool blue lightwell to the bone-white attic arches is meant to be felt in order.
+Skip the street vendors and "skip the line" touts hovering near the door, buy directly through the official channel. Once inside, resist the urge to rush to the rooftop first: the building is designed as a sequence, and the transition from the warm wood-and-stone Noble Floor to the cool blue lightwell to the bone-white attic arches is meant to be felt in order.
 
-And look up constantly — door handles, banister curves, and window latches are all sculpted to fit the human hand, a detail most visitors, eyes fixed on the ceiling, walk straight past.
+And look up constantly, door handles, banister curves, and window latches are all sculpted to fit the human hand, a detail most visitors, eyes fixed on the ceiling, walk straight past.

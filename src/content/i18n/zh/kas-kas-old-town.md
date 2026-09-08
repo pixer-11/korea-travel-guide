@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kas-kas-old-town
-srcHash: 'cee726eff3d3'
+srcHash: 'c333a610f199'
 title: 卡什老城（Kaş Old Town）：卡什旅行指南（4.7★）
 description: 卡什老城（Kaş Old Town）是卡什市中心一片白墙点缀、九重葛（bougainvillea）缠绕的巷弄，围绕着伊布拉欣·塞林大街（İbrahim Serin Caddesi），全天24小时开放，无需门票。4.8★（236条评价）——看看游客怎么说、开放时间以及实用建议。
 quickAnswer: 卡什老城（Kaş Old Town）是卡什市中心一片白墙点缀、九重葛缠绕的巷弄，围绕着伊布拉欣·塞林大街(İbrahim Serin Caddesi),全天24小时开放，无需门票。建议尽量早去——工作日早上8点到9点之间人最少——留出一到两个小时，在日游团到来之前慢慢闲逛、逛逛小店、喝杯茶。这里步行即可与港口和城区上方的希腊化时期剧场组合成一个半日游行程。

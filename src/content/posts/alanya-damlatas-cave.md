@@ -62,11 +62,11 @@ The cave was only found in 1948, during quarry work for Alanya's harbor, and loc
 
 ## What you'll actually see
 
-It's one chamber, not a sprawling network — don't expect Cappadocia-scale tunnels. What it lacks in size it makes up in texture: ridged stone curtains, dripping points, and a constant 22–23°C with humidity that sits around 90–95%.
+It's one chamber, not a sprawling network. Don't expect Cappadocia-scale tunnels. What it lacks in size it makes up in texture: ridged stone curtains, dripping points, and a constant 22–23°C with humidity that sits around 90–95%.
 
 The lighting is soft and colored in places, picking out the ribs of the rock formations. Benches line parts of the interior, and you'll notice people just sitting quietly, breathing, rather than photographing.
 
-That's the local tradition at work — this cave has a genuine reputation as a respiratory retreat, not just a photo stop.
+That's the local tradition at work, this cave has a genuine reputation as a respiratory retreat, not just a photo stop.
 
 ## Getting there
 
@@ -90,16 +90,16 @@ Spring and autumn bring milder outdoor heat, which makes the contrast with the c
 
 ## How to visit like a local
 
-Alanya residents don't treat this as a tourist photo-op — for many, it's genuinely tied to respiratory health, so bring that quiet mindset with you.
+Alanya residents don't treat this as a tourist photo-op, for many, it's genuinely tied to respiratory health, so bring that quiet mindset with you.
 
 - **Pace yourself inside:** locals often linger 15–20 minutes just sitting and breathing rather than snapping photos and leaving.
 - **Payment:** bring cash in Turkish lira for the entrance fee; card acceptance at small ticket booths in this area can be inconsistent.
-- **Queue behavior:** there's no formal booking system — it's walk-up entry, so arriving outside peak tour-bus windows is your real strategy for avoiding a line.
-- **Combine your ticket:** ask at the counter whether a joint entry with the neighboring Archaeological Museum is available that day — it varies.
+- **Queue behavior:** there's no formal booking system. It's walk-up entry, so arriving outside peak tour-bus windows is your real strategy for avoiding a line.
+- **Combine your ticket:** ask at the counter whether a joint entry with the neighboring Archaeological Museum is available that day, it varies.
 - **Footwear:** the floor can be damp and slightly slick from condensation, so skip anything too smooth-soled.
 - **Don't rush the "cure":** if you're asthmatic or just curious, sitting still for a stretch is the point, not walking through fast.
 
 Since this spot is firmly on the well-trodden tourist path rather than an under-the-radar find, the smartest local move is simply about timing your visit around the tour groups, not seeking secrecy.
 
-Pair it with a walk along Damlataş Beach afterward — the contrast between the cave's cool hush and the open glare of the coastline is half the experience.
+Pair it with a walk along Damlataş Beach afterward, the contrast between the cave's cool hush and the open glare of the coastline is half the experience.
 

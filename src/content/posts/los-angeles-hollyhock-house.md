@@ -67,7 +67,7 @@ If you'd rather not climb, the park has a small free parking lot off Hollywood B
 
 ## What you'll see inside
 
-You enter through a loggia and immediately notice the low, compressed ceilings opening into taller living spaces — a Wright signature meant to make rooms feel like a release of pressure. The central living room has a moat-like water feature running toward a fireplace carved with an abstract hollyhock relief.
+You enter through a loggia and immediately notice the low, compressed ceilings opening into taller living spaces, a Wright signature meant to make rooms feel like a release of pressure. The central living room has a moat-like water feature running toward a fireplace carved with an abstract hollyhock relief.
 
 Look up in the dining room: the chair backs are cut with the same hollyhock pattern, echoing the exterior frieze. Skylights and clerestory windows pull in the coastal light Wright loved, even though he barely visited the site during construction.
 
@@ -87,13 +87,13 @@ Because the house isn't yet on the heavy-tourist circuit the way the Getty or Gr
 
 ## How to visit like a local
 
-Buy your timed-entry ticket online in advance rather than hoping to walk up — the small group sizes mean self-guided slots do sell out on Saturdays. Tickets are inexpensive relative to most LA attractions, but confirm current pricing on the official site since it does change.
+Buy your timed-entry ticket online in advance rather than hoping to walk up. The small group sizes mean self-guided slots do sell out on Saturdays. Tickets are inexpensive relative to most LA attractions, but confirm current pricing on the official site since it does change.
 
-- Wear flat shoes — the concrete floors and terrace steps are uneven in places
+- Wear flat shoes. The concrete floors and terrace steps are uneven in places
 - Bring water; there's little shade on the walk up from the Metro stop
 - Photography is allowed inside, but tripods generally aren't
 - Combine your trip with the Hollywood/Los Feliz area rather than treating it as a standalone stop
 
-Payment on-site, if you need it, is by card — cash isn't the norm for tickets here anymore. Staff are typically happy to point out details you'd otherwise miss, like the art-glass skylight pattern, so ask questions rather than rushing past docents stationed in each room.
+Payment on-site, if you need it, is by card, cash isn't the norm for tickets here anymore. Staff are typically happy to point out details you'd otherwise miss, like the art-glass skylight pattern, so ask questions rather than rushing past docents stationed in each room.
 
-The mistake most first-timers make is showing up on a Sunday or Monday assuming a major landmark must be open daily — check those hours twice before you drive over. Pair the visit with a slow walk through the park's olive terraces afterward; that's where the Wright-designed sightlines toward the city really pay off.
+The mistake most first-timers make is showing up on a Sunday or Monday assuming a major landmark must be open daily. Check those hours twice before you drive over. Pair the visit with a slow walk through the park's olive terraces afterward; that's where the Wright-designed sightlines toward the city really pay off.

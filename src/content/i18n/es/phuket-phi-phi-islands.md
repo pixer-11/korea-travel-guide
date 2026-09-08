@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-phi-phi-islands
-srcHash: '846fb7caa26e'
+srcHash: '55fbcf81f01f'
 title: 'Islas Phi Phi: guía de viaje de Koh Phi Phi'
 description: Las islas Phi Phi, en la provincia de Krabi, se visitan en una excursión de un día o de una noche en barco desde Phuket; lo más práctico es tomar una lancha rápida (entre 1 y 1,5 horas por trayecto) desde el muelle de Rassada o el muelle de Chalong.
 quickAnswer: Las islas Phi Phi, en la provincia de Krabi, se visitan en una excursión de un día o de una noche en barco desde Phuket; lo más práctico es tomar una lancha rápida (entre 1 y 1,5 horas por trayecto) desde el muelle de Rassada o el muelle de Chalong. Vale la pena ir por Maya Bay, los acantilados de piedra caliza de Phi Phi Leh y el buceo de superficie en la laguna Pileh; si no te quedas a pasar la noche, conviene reservar el día completo. Reserva el tour o el ferry con uno o dos días de antelación, sobre todo en temporada alta (de noviembre a abril).

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: daegu-trendy-cafe
-srcHash: '4aa22aa183f8'
+srcHash: '88138970a1c1'
 title: 大邱のトレンディなカフェ
 description: 大邱でベストなトレンディカフェを楽しむなら、中央路(Jungangno)駅(1号線)近くの東城路(Dongseong-ro)/キム・グァンソク(Kim Kwang-seok)通りエリア、または静かな鳳山文化通り(Bongsan Culture Street)へ。
 quickAnswer: 大邱でベストなトレンディカフェを楽しむなら、中央路(Jungangno)駅(1号線)近くの東城路(Dongseong-ro)/キム・グァンソク(Kim Kwang-seok)通りエリア、または静かな鳳山文化通り(Bongsan Culture Street)へ。そして本当の「カフェ通り」体験をしたいなら、水城池(スソンモッ、Suseongmot / Suseong Lake)沿いの水城路(Suseong-ro)カフェストリートへ行きましょう。改装された韓屋(ハノク)カフェ、インダストリアルな倉庫を活用したロースタリー、湖畔のテラスなどが楽しめます。コーヒー休憩と散策を組み合わせた2〜3時間のループプランがおすすめです。週末の行列を避けるため、平日の午前中か午後遅めの時間帯、特に水城池周辺はその時間を狙って訪れましょう。

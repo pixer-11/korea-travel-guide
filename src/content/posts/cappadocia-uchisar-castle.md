@@ -118,7 +118,7 @@ updatedDate: '2026-08-30'
 
 ## Why go
 
-Uchisar Castle isn't a castle in the European sense — no drawbridge, no turrets. It's a volcanic rock cone riddled with hand-carved tunnels, rooms, and pigeon holes, rising above the village of Uçhisar like a natural skyscraper.
+Uchisar Castle isn't a castle in the European sense, no drawbridge, no turrets. It's a volcanic rock cone riddled with hand-carved tunnels, rooms, and pigeon holes, rising above the village of Uçhisar like a natural skyscraper.
 
 From the top, you get the widest panorama in Cappadocia: Pigeon Valley falling away on one side, the fairy chimneys of Göreme scattered on the other, and on a clear morning, the snowy cone of Mount Erciyes on the horizon.
 
@@ -126,9 +126,9 @@ From the top, you get the widest panorama in Cappadocia: Pigeon Valley falling a
 
 The climb starts at the base with a ticket booth, then winds up through carved staircases and narrow passages cut directly into the tuff rock centuries ago.
 
-Locals once used these chambers as dovecotes, storing pigeon droppings for fertilizer — you'll still spot the small rectangular openings pocking the cliff face on the walk up.
+Locals once used these chambers as dovecotes, storing pigeon droppings for fertilizer. You'll still spot the small rectangular openings pocking the cliff face on the walk up.
 
-- Steep, uneven stone steps — wear grippy shoes, not sandals
+- Steep, uneven stone steps. Wear grippy shoes, not sandals
 - No elevator or accessible route to the summit
 - The final stretch narrows to single-file in places
 - Metal railings appear at the more exposed edges near the top
@@ -147,7 +147,7 @@ Parking is available near the base for those driving themselves.
 
 The site is open daily from 7am to 9pm, which gives you a wide window to work around the crowds.
 
-Weekend visits get busy between 10am and 7pm — that's when tour buses and day-trippers stack up on the narrow staircases. Both weekday and weekend mornings and evenings stay noticeably calmer, matching the site's full 7am–9pm quiet stretch outside that midday-to-evening weekend crush.
+Weekend visits get busy between 10am and 7pm. That's when tour buses and day-trippers stack up on the narrow staircases. Both weekday and weekend mornings and evenings stay noticeably calmer, matching the site's full 7am–9pm quiet stretch outside that midday-to-evening weekend crush.
 
 Early morning is doubly rewarding here: the light rakes across the valley at a low angle, and if hot air balloons are flying that day, you'll catch them drifting past at eye level.
 
@@ -155,18 +155,18 @@ Early morning is doubly rewarding here: the light rakes across the valley at a l
 
 Uçhisar village itself rewards a slow wander after you come down from the castle.
 
-- **Pigeon Valley viewpoint** — a short walk from the castle base, with a walking trail down into the valley
-- **Uçhisar's cafés and terraces** — several overlook the castle rock itself, good for a tea break
-- **Göreme Open Air Museum** — roughly 10 minutes away by car, worth pairing with Uchisar in a half-day loop
-- **Avanos or Ortahisar** — pottery town and a smaller sister citadel, both feasible add-ons if you have a car
+- **Pigeon Valley viewpoint**, a short walk from the castle base, with a walking trail down into the valley
+- **Uçhisar's cafés and terraces**, several overlook the castle rock itself, good for a tea break
+- **Göreme Open Air Museum**, roughly 10 minutes away by car, worth pairing with Uchisar in a half-day loop
+- **Avanos or Ortahisar**, pottery town and a smaller sister citadel, both feasible add-ons if you have a car
 
 ## How to visit like a local
 
-Uchisar Castle is one of the most visited landmarks in the region, so this isn't a quiet, undiscovered spot — plan around the crowds rather than expecting to avoid them entirely.
+Uchisar Castle is one of the most visited landmarks in the region, so this isn't a quiet, undiscovered spot. Plan around the crowds rather than expecting to avoid them entirely.
 
 Buy your ticket at the booth at the base; card and cash are both generally accepted, though carrying some small cash notes smooths things along at smaller stands nearby.
 
-Arrive right at 7am or after 7pm if you want the platform closer to yourself — the 10am–7pm weekend window is when tour groups peak. Don't rush straight to the top: pause at the mid-level terraces, where the views are nearly as good and far less crowded than the summit.
+Arrive right at 7am or after 7pm if you want the platform closer to yourself. The 10am–7pm weekend window is when tour groups peak. Don't rush straight to the top: pause at the mid-level terraces, where the views are nearly as good and far less crowded than the summit.
 
 The most common visitor mistake is treating this as a five-minute photo stop. Budget real time for the climb, wear shoes with grip, and check that the weather isn't windy or wet, since the upper steps get slick and the exposed sections have limited shelter.
 

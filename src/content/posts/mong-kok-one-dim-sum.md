@@ -81,13 +81,13 @@ Take the MTR to Prince Edward Station and leave via Exit B2. From there it's a f
 
 ## What to eat
 
-The menu is a paper checklist you tick with a pencil, ordered by the plate — most dishes land in the budget-to-mid-range bracket for Hong Kong dim sum. Don't overthink it; the kitchen's reputation rests on a handful of dishes.
+The menu is a paper checklist you tick with a pencil, ordered by the plate, most dishes land in the budget-to-mid-range bracket for Hong Kong dim sum. Don't overthink it; the kitchen's reputation rests on a handful of dishes.
 
-- Baked BBQ pork buns (char siu bao) — the signature order, sweet-glazed and flaky
-- Har gow (shrimp dumplings) — thin-skinned, plump with whole shrimp
-- Siu mai (pork and shrimp dumplings) — dense, savory, a good contrast plate
-- Rice noodle rolls (cheung fun) — silky, usually with shrimp or beef
-- Turnip cake (law bak go) — pan-fried, a good textural break from the steamed items
+- Baked BBQ pork buns (char siu bao), the signature order, sweet-glazed and flaky
+- Har gow (shrimp dumplings), thin-skinned, plump with whole shrimp
+- Siu mai (pork and shrimp dumplings), dense, savory, a good contrast plate
+- Rice noodle rolls (cheung fun), silky, usually with shrimp or beef
+- Turnip cake (law bak go), pan-fried, a good textural break from the steamed items
 
 Portions are small-plate style, so a table of two or three can reasonably order five or six dishes and still have room for dessert.
 
@@ -95,21 +95,21 @@ Portions are small-plate style, so a table of two or three can reasonably order 
 
 Crowd patterns here are predictable and worth planning around. On weekdays, things stay manageable from 10am right through to closing at 11pm. Weekends are calmer only very early, from 9am, before the crowds build.
 
-The one window to actively avoid is Saturday or Sunday between 11am and 8pm — that's peak lunch-into-dinner traffic, and the shop is small enough that a short wait can stretch long. If you're set on a weekend visit, arrive right at 9am opening or hold off until after 8pm.
+The one window to actively avoid is Saturday or Sunday between 11am and 8pm. That's peak lunch-into-dinner traffic, and the shop is small enough that a short wait can stretch long. If you're set on a weekend visit, arrive right at 9am opening or hold off until after 8pm.
 
 ## The setting
 
-Inside, it's tight: a handful of tables, a service counter, and an open view into the kitchen where woks and steamers work continuously. It's not a place to linger over tea for hours — turnover is fast, staff are efficient rather than chatty, and the energy is closer to a well-run canteen than a sit-down restaurant. That's part of the appeal. You're here for the food arriving hot and fast, not the ambiance.
+Inside, it's tight: a handful of tables, a service counter, and an open view into the kitchen where woks and steamers work continuously. It's not a place to linger over tea for hours, turnover is fast, staff are efficient rather than chatty, and the energy is closer to a well-run canteen than a sit-down restaurant. That's part of the appeal. You're here for the food arriving hot and fast, not the ambiance.
 
 ## How to visit like a local
 
-One Dim Sum is well known — it draws long queues and regularly makes best-of lists, so don't expect a quiet, undiscovered find. The smart move is beating the crowd rather than hoping to avoid it entirely.
+One Dim Sum is well known, it draws long queues and regularly makes best-of lists, so don't expect a quiet, undiscovered find. The smart move is beating the crowd rather than hoping to avoid it entirely.
 
 - **Time it right**: weekday mornings from opening, or after 8pm any day, are your calmest bets
-- **Ordering**: you'll get a checklist and pencil — tick quantities directly, no need to flag a server repeatedly
+- **Ordering**: you'll get a checklist and pencil, tick quantities directly, no need to flag a server repeatedly
 - **Payment**: cash is safest to have on hand, though many Hong Kong dim sum spots now take cards; don't assume mobile payment is universal here
-- **Queue etiquette**: if there's a line, staff usually take your party size and seat you as tables turn — don't hover by occupied tables
+- **Queue etiquette**: if there's a line, staff usually take your party size and seat you as tables turn. Don't hover by occupied tables
 - **Tipping**: not expected beyond any service charge already added to the bill
 - **The mistake to avoid**: over-ordering. Dishes come fast and in multiples (siu mai and har gow are typically 3-4 pieces per order), so pace your ticks if you're a small group
 
-Plan on 30-45 minutes for a solid round of dishes — this isn't a leisurely brunch spot, and the turnover pace rewards visitors who eat efficiently and move on.
+Plan on 30-45 minutes for a solid round of dishes. This isn't a leisurely brunch spot, and the turnover pace rewards visitors who eat efficiently and move on.

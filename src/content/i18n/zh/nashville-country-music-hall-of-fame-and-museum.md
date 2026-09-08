@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nashville-country-music-hall-of-fame-and-museum
-srcHash: '0fbd9ee68d35'
+srcHash: 'dbc5e4f5f0de'
 title: 乡村音乐名人堂博物馆:纳什维尔旅行指南
 description: 乡村音乐名人堂博物馆(Country Music Hall of Fame and Museum)位于纳什维尔市中心222 Rep. John Lewis Way S,每日9am–5pm开放。4.6★(20,281条评价)——游客怎么说、开放时间及实用贴士。
 quickAnswer: 乡村音乐名人堂博物馆位于纳什维尔市中心222 Rep. John Lewis Way S,每日9am–5pm开放。建议预留两到三个小时，如果加上历史RCA B录音室(Historic RCA Studio B)的行程则需要更久。周末上午9点到10点是人最少的时段;到了11点大厅就会开始拥挤，并一直持续到下午中段。

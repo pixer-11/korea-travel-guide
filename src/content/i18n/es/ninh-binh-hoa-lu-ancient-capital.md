@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ninh-binh-hoa-lu-ancient-capital
-srcHash: 'de900a1d9c73'
+srcHash: '08916431c7c2'
 title: 'Antigua Capital de Hoa Lu: Guía de Viaje de Ninh Binh (4,3★)'
 description: 'A unos 12 km al noroeste de la ciudad de Ninh Binh, Hoa Lu fue la sede en el siglo X de las primeras dinastías independientes de Vietnam, con dos templos reconstruidos (Dinh Tien Hoang y Le Dai Hanh) enmarcados por macizos de piedra caliza. 4,3★ (12.197 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: A unos 12 km al noroeste de la ciudad de Ninh Binh, la Antigua Capital de Hoa Lu fue la sede en el siglo X de las primeras dinastías independientes de Vietnam, con dos templos reconstruidos (Dinh Tien Hoang y Le Dai Hanh) enmarcados por macizos de piedra caliza. Abre todos los días de 7:00 a 17:00; los fines de semana conviene llegar justo a la apertura (entre las 7:00 y las 8:00) para evitar la avalancha de autobuses turísticos de 9:00 a 14:00. Calcule entre 1 y 1,5 horas de visita, y combínela el mismo día con un paseo en barca por Trang An o Tam Coc.

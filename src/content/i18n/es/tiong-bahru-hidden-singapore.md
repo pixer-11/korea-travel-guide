@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tiong-bahru-hidden-singapore
-srcHash: 'd39d1122e01b'
+srcHash: 'a54a27634e6a'
 title: 'HIDDEN Singapore: Guía de viaje de Tiong Bahru (4.9★)'
 description: HIDDEN Singapore se encuentra en 1092 Lower Delta Rd, a un corto trayecto en taxi o autobús desde el barrio de Tiong Bahru en lugar de estar dentro de su típico conjunto de shophouses — verifica la dirección antes de ir, ya que es fácil asumir que está en Yong Siak Street. 4.9★ (140 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: HIDDEN Singapore se encuentra en 1092 Lower Delta Rd, a un corto trayecto en taxi o autobús desde el barrio de Tiong Bahru en lugar de estar dentro de su típico conjunto de shophouses — verifica la dirección antes de ir, ya que es fácil asumir que está en Yong Siak Street. Abre todos los días de 9am a 5pm, y con solo 140 reseñas detrás de su calificación de 4.9, sigue siendo genuinamente poco conocido. Planea una hora, ve un día de semana por la mañana, y combínalo con un paseo por los bloques Art Deco de Tiong Bahru después.

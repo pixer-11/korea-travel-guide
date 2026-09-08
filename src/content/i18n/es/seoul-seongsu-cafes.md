@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-seongsu-cafes
-srcHash: '63a6811656cd'
+srcHash: 'f519c7b514a1'
 title: Cafeterías de Seongsu en Seúl
 description: Seongsu-dong, el antiguo distrito de fábricas de calzado de Seúl, es hoy la mayor concentración de cafeterías de diseño de la ciudad, instaladas en antiguos almacenes y talleres reconvertidos.
 quickAnswer: 'Seongsu-dong, el antiguo distrito de fábricas de calzado de Seúl, es hoy la mayor concentración de cafeterías de diseño de la ciudad, instaladas en antiguos almacenes y talleres reconvertidos. Instálate cerca de la estación de Seongsu (Línea 2) o de la estación de Ttukseom (Línea 2), y calcula entre dos y tres horas de paseo más una parada para tomar café con calma: este es un barrio que se explora a pie, no un destino puntual. Ve un día de semana por la mañana si quieres conseguir sitio de verdad; los fines de semana traen largas colas en los lugares más fotogénicos.'

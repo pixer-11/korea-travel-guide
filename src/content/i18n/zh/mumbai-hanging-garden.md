@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-hanging-garden
-srcHash: 'eeccd488c644'
+srcHash: '1b52d494c1f0'
 title: 悬挂花园：孟买旅行指南（4.2★）
 description: 悬挂花园（又名费罗泽沙·梅塔花园，Pherozeshah Mehta Gardens）坐落在孟买马拉巴尔山（Malabar Hill）顶端，每日早上5点至晚上9点开放，清晨或日出后前往最佳，此时空气清凉，阿拉伯海景色也最为清晰。4.2★（37,903条评价）——游客怎么说、开放时间及实用贴士，一并奉上。
 quickAnswer: 悬挂花园（又名费罗泽沙·梅塔花园，Pherozeshah Mehta Gardens）位于孟买马拉巴尔山顶，每天早上5点开放至晚上9点，清晨或刚日出时段最宜前往，空气清凉，阿拉伯海景一览无余。周末下午则要尽量避开——下午3点到晚上9点是人流最密集的时段。入园免费，游览一趟大约需要45分钟到1小时。

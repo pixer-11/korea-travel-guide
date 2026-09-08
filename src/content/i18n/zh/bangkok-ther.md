@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-ther
-srcHash: '34ed6f4ee049'
+srcHash: '66e2d5283ecf'
 title: ÆTHER曼谷旅行指南
 description: ÆTHER位于泰国曼谷，是当下热门的新去处——它是什么、在哪里、以及该如何前往游览。
 quickAnswer: ÆTHER是一家屋顶鸡尾酒吧，位于Dusit Central Park第44层——这是Silom/Rama IV路口新建的综合用途大楼，原址曾是老Dusit Thani酒店。这里可以俯瞰Lumpini Park和曼谷天际线的360度全景，室内设计极简，围绕一个巨大的银色音箱展开，酒单也随着夜晚推进而变换风格。由于是新近开业、人气正旺的场所，建议提前预订，并在前往前确认最新营业时间。

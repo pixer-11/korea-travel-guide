@@ -41,9 +41,9 @@ eventFactsAsked: true
 ---
 ## Why this festival is worth planning around
 
-Pattaya Beach isn't short on spectacle any night of the year — the jet-ski buzz at dusk, the neon glow of Beach Road, the smell of grilled seafood drifting off the sand. The Pattaya International Fireworks Festival adds a bay-sized stage to that: pyrotechnic teams from different countries compete, each team given a slot to choreograph bursts of colour and shockwave booms to a synchronised soundtrack.
+Pattaya Beach isn't short on spectacle any night of the year, the jet-ski buzz at dusk, the neon glow of Beach Road, the smell of grilled seafood drifting off the sand. The Pattaya International Fireworks Festival adds a bay-sized stage to that: pyrotechnic teams from different countries compete, each team given a slot to choreograph bursts of colour and shockwave booms to a synchronised soundtrack.
 
-It's the kind of event where the crowd's reaction — the collective intake of breath before a finale — is almost as much a part of the experience as the shells exploding over the water.
+It's the kind of event where the crowd's reaction, the collective intake of breath before a finale, is almost as much a part of the experience as the shells exploding over the water.
 
 ## Dates and schedule
 
@@ -51,19 +51,19 @@ The 2026 edition was set to run July 30 through August 2. Organisers planned a m
 
 ## Where to watch
 
-The site was Pattaya Beach itself, the long curving stretch that runs parallel to Beach Road (Pattaya Sai Nueng) in the heart of the city. The beach and the road above it serve as the de facto grandstand — free and open to anyone who claims a patch of sand or curb early enough. Elevated view spots have historically included the rooftop bars and hotel terraces that line Beach Road and Pattaya Bay, some of which run their own ticketed fireworks-viewing parties with cover charges or minimum spends.
+The site was Pattaya Beach itself, the long curving stretch that runs parallel to Beach Road (Pattaya Sai Nueng) in the heart of the city. The beach and the road above it serve as the de facto grandstand, free and open to anyone who claims a patch of sand or curb early enough. Elevated view spots have historically included the rooftop bars and hotel terraces that line Beach Road and Pattaya Bay, some of which run their own ticketed fireworks-viewing parties with cover charges or minimum spends.
 
 Standing and swaying with the crowd on the sand costs nothing beyond getting yourself there.
 
 ## Getting there
 
-Pattaya sits about two hours by road from Bangkok, and most visitors arrive via Suvarnabhumi or Don Mueang airports, either by pre-arranged transfer, minivan services from Ekkamai and Mo Chit bus terminals, or a taxi. Once in Pattaya, Beach Road is walkable from most central hotels, and the local baht bus (songthaew) network — the open-backed shared pickup trucks that loop the main roads — is the cheapest way to shuttle between a hotel and the beachfront from further out, in Jomtien or North Pattaya.
+Pattaya sits about two hours by road from Bangkok, and most visitors arrive via Suvarnabhumi or Don Mueang airports, either by pre-arranged transfer, minivan services from Ekkamai and Mo Chit bus terminals, or a taxi. Once in Pattaya, Beach Road is walkable from most central hotels, and the local baht bus (songthaew) network, the open-backed shared pickup trucks that loop the main roads, is the cheapest way to shuttle between a hotel and the beachfront from further out, in Jomtien or North Pattaya.
 
 On festival nights, traffic near the viewing areas runs heavier than usual, and temporary road closures were part of the plan.
 
 ## What to expect on the ground
 
-Beach Road closes to normal traffic flow on show nights, food vendors lean into grilled skewers and sliced mango, and a mixed crowd of Thai families, expat regulars, and tourists stakes out spots with mats and folding chairs well before dark. The synchronised shows pair each country's fireworks segment with a musical track, so the rhythm of the display — slow builds, rapid-fire climaxes — lands with the soundtrack rather than running on autopilot.
+Beach Road closes to normal traffic flow on show nights, food vendors lean into grilled skewers and sliced mango, and a mixed crowd of Thai families, expat regulars, and tourists stakes out spots with mats and folding chairs well before dark. The synchronised shows pair each country's fireworks segment with a musical track, so the rhythm of the display (slow builds, rapid-fire climaxes) lands with the soundtrack rather than running on autopilot.
 
 Between segments come emcees, sponsor activity, and a festive, slightly chaotic energy along the promenade as the crowd shifts between vendors and viewing spots.
 

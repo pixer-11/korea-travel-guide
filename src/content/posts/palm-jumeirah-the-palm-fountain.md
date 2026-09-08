@@ -51,7 +51,7 @@ draft: false
 
 The Palm Fountain claims the title of world's largest fountain, and once the water starts climbing you believe it. The jets shoot high into the Dubai sky, lit in shifting colour and timed to music that carries across the whole waterfront promenade.
 
-It's not a quiet corner of the city — this is a headline attraction, and it draws crowds accordingly. But the spectacle earns the hype: this isn't a subtle water feature tucked in a lobby, it's a full sensory event set against the Atlantis skyline.
+It's not a quiet corner of the city. This is a headline attraction, and it draws crowds accordingly. But the spectacle earns the hype: this isn't a subtle water feature tucked in a lobby, it's a full sensory event set against the Atlantis skyline.
 
 ## Getting there
 
@@ -61,11 +61,11 @@ The Palm Monorail's Gateway Towers or Atlantis stations connect to the tram and 
 
 ## What to see
 
-By early evening the plaza fills with families staking out rail space and couples angling phones for the skyline shot. When a show starts, the water doesn't just rise — it pulses, fans out, retracts, and snaps back in sync with the soundtrack.
+By early evening the plaza fills with families staking out rail space and couples angling phones for the skyline shot. When a show starts, the water doesn't just rise, it pulses, fans out, retracts, and snaps back in sync with the soundtrack.
 
 The colour work is the real signature: deep blues fading to amber, then a full white-gold wall of spray that lights up the spray mist like a curtain. Atlantis The Palm glows pink and purple in the background, making the whole scene feel staged for a screen rather than real life.
 
-Shows repeat through the evening at intervals, so if you miss the first one, settle in — another is coming. Bring a light layer; the spray drifts further than you'd expect on breezy nights.
+Shows repeat through the evening at intervals, so if you miss the first one, settle in, another is coming. Bring a light layer; the spray drifts further than you'd expect on breezy nights.
 
 ## When to go
 
@@ -77,12 +77,12 @@ Confirm exact showtimes before you go, since schedules can shift with weather or
 
 This is a well-known stop on every Dubai visitor's list, so treat it like a busy attraction rather than a quiet find. The trick is timing: arrive early in the evening, well before the after-dinner rush pushes into the plaza.
 
-Skip the very front row if you're short on patience — the view a few rows back, slightly elevated near the restaurant terraces, is often better anyway and less jostled. Nobody pays to watch; the show is free, so budget your money for a meal instead.
+Skip the very front row if you're short on patience, the view a few rows back, slightly elevated near the restaurant terraces, is often better anyway and less jostled. Nobody pays to watch; the show is free, so budget your money for a meal instead.
 
 Grab a table at one of The Pointe's waterfront restaurants and time your order so you're seated with a view when the water starts. That way you get the show without fighting for standing room.
 
 - Order a shisha or coffee at a terrace café facing the basin for a seated view
-- Keep your phone charged — everyone films the finale, and battery drains fast in the heat
+- Keep your phone charged, everyone films the finale, and battery drains fast in the heat
 - Walk the full promenade afterward; the Atlantis view from the far end is worth the extra ten minutes
 
-Locals mostly pass through The Pointe for dinner and let tourists claim the fountain rail, so don't expect insider crowds — just plan around the visitor rush instead.
+Locals mostly pass through The Pointe for dinner and let tourists claim the fountain rail, so don't expect insider crowds, just plan around the visitor rush instead.

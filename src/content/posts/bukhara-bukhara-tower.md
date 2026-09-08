@@ -71,26 +71,26 @@ aiGenerated: true
 
 Bukhara's old city is flat-roofed and low-slung, all the same sun-baked ochre color, so the view from above is genuinely disorienting in a good way. Bukhara Tower gives you that view without a minaret climb. From the top you get the whole spread: domes, minarets, and the pale scrub of desert beyond the last rooftops.
 
-It's not one of the postcard monuments, and it doesn't try to be. Locals rate it a solid, unpretentious 4.1 stars — a modern structure doing one job well.
+It's not one of the postcard monuments, and it doesn't try to be. Locals rate it a solid, unpretentious 4.1 stars, a modern structure doing one job well.
 
 ## What it actually is
 
 Don't expect an ancient minaret. This is a contemporary observation tower, built for exactly this purpose: getting visitors above the skyline for a panoramic look at the historic center.
 
-The structure itself is unremarkable up close — steel, glass, a lift or stairs depending on the setup. The payoff is entirely at the top.
+The structure itself is unremarkable up close, steel, glass, a lift or stairs depending on the setup. The payoff is entirely at the top.
 
 - An open or semi-open viewing platform
 - 360-degree views over the old city's domes and minarets
 - Sightlines toward the desert edge of town on clear days
 - A quieter, less crowded alternative to climbing the Kalyan Minaret area for a view
 
-Bring your phone or a real camera — the light is best in the early morning or an hour or two before sunset, when the mud-brick color deepens.
+Bring your phone or a real camera. The light is best in the early morning or an hour or two before sunset, when the mud-brick color deepens.
 
 ## Getting there
 
 The tower sits on the fringe of central Bukhara, close enough to walk from most old-city guesthouses in 15–20 minutes. Address for a taxi or rideshare driver: QCH5+59P, Bukhara.
 
-If you're already sightseeing around the Lyabi-Hauz pool or the Ark fortress, a short taxi ride gets you there in a few minutes — fares are cheap by international standards, so don't bother negotiating hard. Walking works too if you don't mind the midday sun; carry water.
+If you're already sightseeing around the Lyabi-Hauz pool or the Ark fortress, a short taxi ride gets you there in a few minutes, fares are cheap by international standards, so don't bother negotiating hard. Walking works too if you don't mind the midday sun; carry water.
 
 There's no metro or tram system in Bukhara, so taxis, rideshare apps, or your own feet are the options.
 
@@ -100,7 +100,7 @@ The tower is open every day, 8am to 10pm, so there's no awkward closed-Monday su
 
 On weekends, the calmest window is 8–11am, right after opening. Crowds build steadily and peak between 9am and 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms.
 
-Weekday timing is less documented, but applying the same logic — arrive close to opening — is a safe bet.
+Weekday timing is less documented, but applying the same logic, arrive close to opening, is a safe bet.
 
 Evenings have their own appeal: the tower stays open until 10pm, so a post-dinner visit lets you catch the old city lit up against the dark.
 
@@ -117,11 +117,11 @@ Spend 45 minutes to an hour at the tower itself, then let the view guide your ne
 
 ## How to visit like a local
 
-Treat the tower as a quick, functional stop rather than a destination to linger at for hours — that's how most visitors use it, and it keeps the experience efficient.
+Treat the tower as a quick, functional stop rather than a destination to linger at for hours. That's how most visitors use it, and it keeps the experience efficient.
 
 - **Timing**: aim for 8–11am on weekends to skip the thickest crowds; the 9am–5pm stretch is when it fills up.
 - **Payment**: bring small local currency (som) for any entry fee or on-site kiosk; card acceptance can't be counted on at smaller attractions like this.
-- **Etiquette**: keep the platform moving — it's a shared, sometimes narrow viewing space, so let others get their photo and step aside rather than camping in one spot.
-- **Common mistake**: tourists often skip it entirely because it's not "historic," then regret not having an aerial reference point for the rest of their walk through the old city. Go first, then explore — the view helps you map out where everything else sits.
+- **Etiquette**: keep the platform moving. It's a shared, sometimes narrow viewing space, so let others get their photo and step aside rather than camping in one spot.
+- **Common mistake**: tourists often skip it entirely because it's not "historic," then regret not having an aerial reference point for the rest of their walk through the old city. Go first, then explore, the view helps you map out where everything else sits.
 - **Dress**: Bukhara gets intensely hot midday from late spring through early autumn, so an early visit beats the heat as much as the crowds.
 

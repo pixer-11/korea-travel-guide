@@ -70,7 +70,7 @@ draft: false
 
 This is one of Taiwan's largest art museums, and it doesn't charge you to prove it. The permanent collection traces Taiwanese fine art from the Japanese colonial period through contemporary installation work, spread across multiple floors of white-cube galleries.
 
-You come here for scale as much as content. Ceilings soar over three stories, light wells drop sun onto polished floors, and the building itself — all glass, concrete, and open plazas — feels like a civic statement as much as a gallery.
+You come here for scale as much as content. Ceilings soar over three stories, light wells drop sun onto polished floors, and the building itself (all glass, concrete, and open plazas) feels like a civic statement as much as a gallery.
 
 ## What you'll see inside
 
@@ -91,9 +91,9 @@ Families spread out picnic blankets here on weekend afternoons, and kids chase p
 
 ## Getting there
 
-The museum sits in Taichung's West District at No. 2, Section 1, Wuquan W Road — an easy target for any taxi or rideshare driver. There's no MRT in Taichung yet, so most visitors arrive by city bus or on foot from the nearby Calligraphy Greenway and Fine Arts Park area.
+The museum sits in Taichung's West District at No. 2, Section 1, Wuquan W Road, an easy target for any taxi or rideshare driver. There's no MRT in Taichung yet, so most visitors arrive by city bus or on foot from the nearby Calligraphy Greenway and Fine Arts Park area.
 
-If you're staying downtown, it's a flat, walkable route through a leafy, low-traffic neighborhood dotted with cafes. That walk is part of the appeal — this district has become one of Taichung's most pleasant art-and-coffee strolling zones.
+If you're staying downtown, it's a flat, walkable route through a leafy, low-traffic neighborhood dotted with cafes. That walk is part of the appeal, this district has become one of Taichung's most pleasant art-and-coffee strolling zones.
 
 ## When to go
 
@@ -106,10 +106,10 @@ Weekends between 10am and 6pm are consistently the busiest window, especially in
 This museum is genuinely popular, well-reviewed by both residents and visitors, so plan around the crowds rather than expecting a quiet find.
 
 - **Time it right**: arrive at or near the 9am weekday opening; avoid the 10am–6pm weekend rush if you can shift to a weekday.
-- **Pay nothing**: the permanent collection is free to enter, though special ticketed exhibitions sometimes carry a separate fee — check signage at the entrance.
+- **Pay nothing**: the permanent collection is free to enter, though special ticketed exhibitions sometimes carry a separate fee. Check signage at the entrance.
 - **No booking needed**: there's typically no reservation system for general admission, just walk in.
 - **Bring the kids**: the ground-floor children's gallery and outdoor lawns make this an easy family stop, not just a quiet-adults museum.
-- **Combine it**: pair your visit with a walk through the adjacent Calligraphy Greenway or a coffee stop in the surrounding café district — locals treat the museum grounds as a park, not just an exhibition hall.
-- **Skip the rope line mentality**: Taiwanese museum etiquette is relaxed but quiet — keep voices low in gallery halls, and photography without flash is generally fine in permanent collection spaces.
+- **Combine it**: pair your visit with a walk through the adjacent Calligraphy Greenway or a coffee stop in the surrounding café district, locals treat the museum grounds as a park, not just an exhibition hall.
+- **Skip the rope line mentality**: Taiwanese museum etiquette is relaxed but quiet. Keep voices low in gallery halls, and photography without flash is generally fine in permanent collection spaces.
 
 The most common visitor mistake here is treating it as a quick one-hour stop. Between the special exhibitions, the permanent collection, and the sculpture park outside, most visitors end up staying much longer than they planned.

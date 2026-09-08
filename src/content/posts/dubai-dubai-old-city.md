@@ -108,7 +108,7 @@ updatedDate: '2026-09-01'
 ---
 ## Why go
 
-Dubai Old City isn't a museum behind glass — it's a reconstructed pocket of the emirate's past you can walk straight into. Wind-tower architecture, thick coral-and-gypsum walls, and shaded courtyards recreate the pearling-era town that stood here before glass towers took over the skyline.
+Dubai Old City isn't a museum behind glass. It's a reconstructed pocket of the emirate's past you can walk straight into. Wind-tower architecture, thick coral-and-gypsum walls, and shaded courtyards recreate the pearling-era town that stood here before glass towers took over the skyline.
 
 You come here for contrast. Ten minutes away, Deira's traffic roars past container ports and gold shops. Inside these lanes, the noise drops, the light softens through timber lattices, and the sand-toned walls seem to hold the heat of the day even at dawn.
 
@@ -116,18 +116,18 @@ You come here for contrast. Ten minutes away, Deira's traffic roars past contain
 
 The site sits in Al Hamriya, on the Deira bank of Dubai Creek, a short taxi or rideshare from Deira Old Souq or Baniyas Square. If you're using the Metro, Green Line stations around Al Ras or Palm Deira put you within a 10–15 minute walk or a quick cab ride.
 
-Street parking nearby is limited and informal, so a taxi is usually less hassle than driving. Because it's an open-air historic quarter with no gates or ticket booths, there's no single "entrance" — you simply wander in from the surrounding streets.
+Street parking nearby is limited and informal, so a taxi is usually less hassle than driving. Because it's an open-air historic quarter with no gates or ticket booths, there's no single "entrance", you simply wander in from the surrounding streets.
 
 ## What to see and do
 
 Give yourself one to two hours to explore properly. The pleasure here is in the details, not a checklist of sights.
 
-- Wind towers (barjeel) — Dubai's original air conditioning, still standing over rooftops
+- Wind towers (barjeel), Dubai's original air conditioning, still standing over rooftops
 - Narrow zigzagging alleys designed to trap shade and funnel breeze
 - Courtyard houses with carved wooden doors and coral-stone walls
 - Quiet corners perfect for photography without crowds blocking the frame
 
-Walk slowly. The texture of the walls, patched and repainted over decades, tells you more about the place than any placard. Many lanes dead-end into small open squares — good spots to pause and take in the quiet before doubling back.
+Walk slowly. The texture of the walls, patched and repainted over decades, tells you more about the place than any placard. Many lanes dead-end into small open squares, good spots to pause and take in the quiet before doubling back.
 
 ## When to go
 
@@ -135,7 +135,7 @@ This is an open-air site, open 24 hours every day, so timing is entirely up to y
 
 Mornings tend to be quieter than afternoons and evenings, both on weekdays and weekends. Try to avoid the busiest afternoon and evening hours, when it can feel at its busiest and narrow lanes can feel congested.
 
-Dubai's heat is the other deciding factor. Between May and September, an early visit isn't just quieter — it's the only comfortable option, since there's little shade cover once the sun is high.
+Dubai's heat is the other deciding factor. Between May and September, an early visit isn't just quieter. It's the only comfortable option, since there's little shade cover once the sun is high.
 
 ## How to visit like a local
 
@@ -143,6 +143,6 @@ Dubai Old City is well-known enough that tour groups now build it into Deira iti
 
 There's no admission fee and no ticket counter, so there's nothing to pay or tip for entry. If you stop at a nearby café or stall for tea, small cash (dirhams) is still more reliably accepted than card in this older part of Deira.
 
-Dress modestly, as you would anywhere in old Dubai — shoulders and knees covered is the safer default, especially if you plan to continue into the adjoining souks afterward. The most common visitor mistake is treating this as a five-minute photo stop; the site rewards a slower pace, when the wind towers and shadows actually start to feel lived-in rather than staged.
+Dress modestly, as you would anywhere in old Dubai, shoulders and knees covered is the safer default, especially if you plan to continue into the adjoining souks afterward. The most common visitor mistake is treating this as a five-minute photo stop; the site rewards a slower pace, when the wind towers and shadows actually start to feel lived-in rather than staged.
 
-Pair your visit with a walk along Dubai Creek or a browse through the Gold and Spice Souks nearby — both are a short walk away and make a natural extension to the morning.
+Pair your visit with a walk along Dubai Creek or a browse through the Gold and Spice Souks nearby. Both are a short walk away and make a natural extension to the morning.

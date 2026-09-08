@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-new-orleans-museum-of-art
-srcHash: '4a8579cfeaf1'
+srcHash: 'b88e91d1095f'
 title: 뉴올리언스 미술관(New Orleans Museum of Art, NOMA) 여행 가이드 (4.7★)
 description: NOMA는 미드시티(Mid-City)의 시티 파크(City Park) 끝자락에 자리한 보자르 양식 건물로, 파베르제 달걀부터 일본 에도 시대 병풍까지 4만 점이 넘는 작품을 소장하고 있습니다. 4.7★ (리뷰 5,370개) — 방문객들의 평가와 운영 시간, 팁을 확인해보세요.
 quickAnswer: NOMA는 미드시티(Mid-City)의 시티 파크(City Park) 끝자락에 자리한 보자르 양식 건물로, 파베르제 달걀부터 일본 에도 시대 병풍까지 4만 점이 넘는 작품을 소장하고 있습니다. 관람에는 두세 시간을 잡아두고, 그다음 바로 옆에 붙어 있는 시드니 앤 왈다 베스토프 조각공원(Sydney and Walda Besthoff Sculpture Garden)으로 걸어가 보세요. 월요일은 휴관이니, 주말 인파를 피하려면 화요일이나 목요일 오전에 방문하는 것이 좋습니다.

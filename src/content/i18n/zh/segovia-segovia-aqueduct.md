@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: segovia-segovia-aqueduct
-srcHash: '03aa4793d95f'
+srcHash: 'fccc12f8a56c'
 title: 塞哥维亚输水道旅行指南（4.9★）
 description: 塞哥维亚输水道（Segovia Aqueduct）就矗立在阿索格霍广场（Plaza del Azoguejo），这里是小城的天然中心，全天免费开放，随时可以参观。4.9★（119,047条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 塞哥维亚输水道就矗立在阿索格霍广场（Plaza del Azoguejo），这里是小城的天然中心，全天免费开放，随时可以参观。建议在日出时分或天刚亮后前来，此时花岗岩砌块会泛出金色光泽，几乎没有其他游客。这是一处人气很高的地标，如果中午到访，会遇到人潮——参观大约需要20-30分钟，若登高远眺则需要更长时间。

@@ -45,11 +45,11 @@ eventFactsAsked: true
 ---
 ## Why this run mattered
 
-Four stadium shows in five days across two cities made for an unusually dense European leg — three consecutive nights in Madrid followed by a single Barcelona date, with little slack for anyone hoping to catch more than one show. The Weeknd's After Hours Til Dawn production leans on elaborate stage architecture, lighting rigs, and a narrative visual arc built around his After Hours/Dawn FM alter ego, a full-scale stadium spectacle rather than a stripped-down set. Playboi Carti on the bill added a harder-edged rap contrast ahead of the headliner's moodier, synth-driven pop-R&B.
+Four stadium shows in five days across two cities made for an unusually dense European leg, three consecutive nights in Madrid followed by a single Barcelona date, with little slack for anyone hoping to catch more than one show. The Weeknd's After Hours Til Dawn production leans on elaborate stage architecture, lighting rigs, and a narrative visual arc built around his After Hours/Dawn FM alter ego, a full-scale stadium spectacle rather than a stripped-down set. Playboi Carti on the bill added a harder-edged rap contrast ahead of the headliner's moodier, synth-driven pop-R&B.
 
 ## Getting there
 
-**Madrid (Aug 28-30):** Riyadh Air Metropolitano Stadium is home to Atlético Madrid, located in the northeast of the city in the San Blas–Canillejas district. The closest metro stop is Estadio Metropolitano on Line 7, which drops you within a short walk of the main gates — by far the easiest way in, given the stadium's limited parking and the crowding that follows any big show. From central Madrid (Sol, Gran Vía), the trip runs 25-35 minutes on the metro, plus extra time for security lines on concert nights.
+**Madrid (Aug 28-30):** Riyadh Air Metropolitano Stadium is home to Atlético Madrid, located in the northeast of the city in the San Blas–Canillejas district. The closest metro stop is Estadio Metropolitano on Line 7, which drops you within a short walk of the main gates, by far the easiest way in, given the stadium's limited parking and the crowding that follows any big show. From central Madrid (Sol, Gran Vía), the trip runs 25-35 minutes on the metro, plus extra time for security lines on concert nights.
 
 **Barcelona (Sep 1):** Estadi Olímpic Lluís Companys sits atop Montjuïc, the hill overlooking the city built up for the 1992 Olympics. There is no metro station directly at the stadium; the standard approach is the Montjuïc funicular from Paral·lel metro station (Lines 2 and 3), which connects to buses and the Montjuïc cable car network. Bus lines serving Avinguda de l'Estadi also run close to the venue. Because Montjuïc is hilly and spread out, the walk in takes longer than at a typical city-centre venue.
 
@@ -59,10 +59,10 @@ Stadium tours of this scale typically open doors several hours before the headli
 
 ## When to go and how long to stay
 
-Late August into early September is peak late-summer heat in both cities — Madrid regularly sees daytime temperatures well into the 30s°C, and the approach to the Metropolitano is open and largely shadeless. Barcelona in early September is similarly warm, tempered slightly by coastal air. For the full run, the single rest day between the last Madrid show (Aug 30) and the Barcelona date (Sep 1) was tight: high-speed AVE trains connect Madrid (Atocha) and Barcelona (Sants) in roughly 2.5-3 hours, the most realistic way to make both cities without flying.
+Late August into early September is peak late-summer heat in both cities, Madrid regularly sees daytime temperatures well into the 30s°C, and the approach to the Metropolitano is open and largely shadeless. Barcelona in early September is similarly warm, tempered slightly by coastal air. For the full run, the single rest day between the last Madrid show (Aug 30) and the Barcelona date (Sep 1) was tight: high-speed AVE trains connect Madrid (Atocha) and Barcelona (Sants) in roughly 2.5-3 hours, the most realistic way to make both cities without flying.
 
 ## Nearby & practical tips
 
-In Madrid, the San Blas–Canillejas area around the stadium is largely residential with limited pre-show dining; most of the eating options sit in central Madrid, 25-35 minutes away on Line 7. In Barcelona, Montjuïc's other attractions — the Joan Miró Foundation, the Olympic Ring facilities, and views over the port — give the hill plenty to do beyond the stadium itself.
+In Madrid, the San Blas–Canillejas area around the stadium is largely residential with limited pre-show dining; most of the eating options sit in central Madrid, 25-35 minutes away on Line 7. In Barcelona, Montjuïc's other attractions (the Joan Miró Foundation, the Olympic Ring facilities, and views over the port) give the hill plenty to do beyond the stadium itself.
 
 Hotels in both cities draw heavy demand in late summer, and the Madrid and Barcelona dates fell within the same five-day window.

@@ -68,23 +68,23 @@ draft: true
 
 ## Why go
 
-Chola Cafe - Biryani House has built a reputation almost entirely on word of mouth and online reviews — a 4.9 rating across 439 reviews is unusually high for a casual eatery, and the name it's trading under, "Best Biryani in Singapore," is a bold claim it's clearly trying to live up to. Unlike the big-name biryani stalls that dominate Little India's main strip, this one sits on Clive Street, a quieter lane just off the neighborhood's tourist core, which means less foot traffic and shorter waits even though the food quality is comparable to spots that draw much bigger crowds.
+Chola Cafe - Biryani House has built a reputation almost entirely on word of mouth and online reviews, a 4.9 rating across 439 reviews is unusually high for a casual eatery, and the name it's trading under, "Best Biryani in Singapore," is a bold claim it's clearly trying to live up to. Unlike the big-name biryani stalls that dominate Little India's main strip, this one sits on Clive Street, a quieter lane just off the neighborhood's tourist core, which means less foot traffic and shorter waits even though the food quality is comparable to spots that draw much bigger crowds.
 
 ## Getting there
 
-The restaurant is at 20 Clive St, Singapore 209778, in the heart of Little India. The easiest way in is via Little India MRT station (North East Line and Downtown Line), taking Exit E and walking through the surrounding lanes toward Clive Street — it's roughly a 5–8 minute walk. If you're coming from Serangoon Road, Clive Street runs parallel to it, so you can duck off the main road and approach from the side streets near Dunlop Street or Campbell Lane, both of which are useful landmarks if your map app struggles with the smaller lane names.
+The restaurant is at 20 Clive St, Singapore 209778, in the heart of Little India. The easiest way in is via Little India MRT station (North East Line and Downtown Line), taking Exit E and walking through the surrounding lanes toward Clive Street. It's roughly a 5–8 minute walk. If you're coming from Serangoon Road, Clive Street runs parallel to it, so you can duck off the main road and approach from the side streets near Dunlop Street or Campbell Lane, both of which are useful landmarks if your map app struggles with the smaller lane names.
 
 Taxis and ride-hailing apps can drop you directly on Clive Street, though during Deepavali season or weekend evenings, some roads in the area get pedestrianized or congested, so allow extra time.
 
 ## What to eat
 
-Biryani is the obvious order here, and both mutton and chicken versions are the house specialties — expect long-grain basmati rice layered and slow-cooked with spiced meat, served alongside the standard accompaniments: cooling raita (yogurt with cucumber and onion), a tangy brinjal (eggplant) curry, and often a boiled egg or papadum on the side. Portions at biryani houses in this style tend to be generous, meant for one hearty meal rather than sharing small plates.
+Biryani is the obvious order here, and both mutton and chicken versions are the house specialties. Expect long-grain basmati rice layered and slow-cooked with spiced meat, served alongside the standard accompaniments: cooling raita (yogurt with cucumber and onion), a tangy brinjal (eggplant) curry, and often a boiled egg or papadum on the side. Portions at biryani houses in this style tend to be generous, meant for one hearty meal rather than sharing small plates.
 
-If you want to try beyond biryani, look for a mutton or chicken curry ordered separately with plain rice, which gives a good comparison point for how the kitchen handles its masalas outside the rice dish. As with most Little India eateries of this type, expect a functional, canteen-style interior — the draw is the food, not the décor.
+If you want to try beyond biryani, look for a mutton or chicken curry ordered separately with plain rice, which gives a good comparison point for how the kitchen handles its masalas outside the rice dish. As with most Little India eateries of this type, expect a functional, canteen-style interior. The draw is the food, not the décor.
 
 ## When to go
 
-Weekday lunch (roughly 12:10–1:30pm) and dinner (around 7–8pm) are the natural peak windows for any biryani spot in this district, so arriving right at opening, 12:10pm, or after those windows — say 1:45pm — usually means walking straight to a table. Weekends bring a different rhythm, with Little India busier overall due to shoppers and visitors exploring Tekka Centre and the surrounding heritage shops, so a mid-afternoon visit (2:30–4pm) tends to be calmer if you're there on a Saturday or Sunday.
+Weekday lunch (roughly 12:10–1:30pm), and dinner (around 7–8pm) are the natural peak windows for any biryani spot in this district, so arriving right at opening, 12:10pm, or after those windows, say 1:45pm, usually means walking straight to a table. Weekends bring a different rhythm, with Little India busier overall due to shoppers and visitors exploring Tekka Centre and the surrounding heritage shops, so a mid-afternoon visit (2:30–4pm) tends to be calmer if you're there on a Saturday or Sunday.
 
 ## Nearby to pair with your visit
 
@@ -92,6 +92,6 @@ Little India rewards lingering. Tekka Centre, a wet market and hawker complex, i
 
 ## How to visit like a local
 
-Cash and mobile payment (PayNow or similar QR-based apps) are common at smaller Little India eateries, so it's worth having a payment method ready rather than assuming card-only service — confirm on arrival. Ordering is usually done at a counter or by flagging staff rather than through table service with menus and reservations; there's typically no formal booking system for a place this size, so it operates on a walk-in, first-come basis.
+Cash and mobile payment (PayNow or similar QR-based apps) are common at smaller Little India eateries, so it's worth having a payment method ready rather than assuming card-only service, confirm on arrival. Ordering is usually done at a counter or by flagging staff rather than through table service with menus and reservations; there's typically no formal booking system for a place this size, so it operates on a walk-in, first-come basis.
 
-The most common mistake visitors make in this district is clustering only around the famous, heavily reviewed biryani stalls on the main road — wandering one or two streets over, as with Clive Street, often turns up food just as good with a fraction of the wait. Eating biryani with your hands is traditional and welcomed, but disposable gloves or cutlery are usually available if you prefer them, and no one will bat an eye either way.
+The most common mistake visitors make in this district is clustering only around the famous, heavily reviewed biryani stalls on the main road, wandering one or two streets over, as with Clive Street, often turns up food just as good with a fraction of the wait. Eating biryani with your hands is traditional and welcomed, but disposable gloves or cutlery are usually available if you prefer them, and no one will bat an eye either way.

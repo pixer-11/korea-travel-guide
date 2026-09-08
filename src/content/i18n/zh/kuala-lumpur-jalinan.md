@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-jalinan
-srcHash: 'd4d0a6bda6fb'
+srcHash: '4c306d7fbca0'
 title: Jalinan：吉隆坡旅行指南
 description: Jalinan 是马来西亚吉隆坡新晋热门去处：这里简要介绍它是什么、位于何处，以及该如何前往。
 quickAnswer: Jalinan 是 Fifty Tales 团队打造的新店，预计 2026 年在吉隆坡的丹绒吉里尼（Taman Tun Dr Ismail，简称 TTDI）开业。餐厅以手工鸡蛋面重新演绎马来经典菜式，如椰浆饭配杂菜（nasi ulam）和叻沙（laksa），并搭配以香蕉叶浸香朗姆酒、咖喱叶苏打调制的创意鸡尾酒。这是一处适合晚间小聚、边吃边喝的餐厅，由于餐厅刚开业不久，营业细节和时间仍在调整中，建议提前预订，出发前务必直接向餐厅确认最新营业时间和预订政策。

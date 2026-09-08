@@ -51,11 +51,11 @@ Lollapalooza releases the full lineup, set times, and daily posters in the month
 
 Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roosevelt Road, right against the Loop. The most convenient CTA stops are Roosevelt (Red, Orange, Green Lines) and Harrison (Red Line), both a short walk from the south end of the park; Metra Electric and South Shore trains also stop at Museum Campus/11th Street. Walking is realistic from most South Loop, Loop, or Streeterville hotels.
 
-Driving is the hardest option — Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park, though they empty out fast during peak entry and exit windows.
+Driving is the hardest option, Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park, though they empty out fast during peak entry and exit windows.
 
 ## What to expect inside
 
-Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming, so the walk to a rock or hip-hop headliner passes house and electronic tents. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds.
+Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming, so the walk to a rock or hip-hop headliner passes house and electronic tents. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains, a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds.
 
 Water refill stations are usually placed throughout the park, which matters in the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and are listed on the official Lollapalooza site for each edition.
 

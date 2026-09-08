@@ -95,7 +95,7 @@ updatedDate: '2026-08-30'
 ---
 ## Why go
 
-Ninh Kieu Wharf is where Can Tho meets its river. This curved boardwalk along the Hau River has been the city's civic front porch for over a century, and it still works that way — locals jog here at dawn, families stroll after dinner, boat touts call out from the pier.
+Ninh Kieu Wharf is where Can Tho meets its river. This curved boardwalk along the Hau River has been the city's civic front porch for over a century, and it still works that way, locals jog here at dawn, families stroll after dinner, boat touts call out from the pier.
 
 You come here for the water, not for any single monument. The Mekong Delta's biggest tributary spreads out wide and brown in front of you, dotted with cargo boats and the low wooden hulls used for the floating markets upstream.
 
@@ -103,7 +103,7 @@ You come here for the water, not for any single monument. The Mekong Delta's big
 
 The wharf sits right in central Ninh Kieu district, at 106 Đường Hai Bà Trưng, an easy walk from most hotels in town. If you're staying anywhere near Hai Ba Trung or Chau Van Liem streets, you can be there in ten minutes on foot.
 
-From farther out, a Grab taxi or motorbike-taxi is cheap and simple — just tell the driver "bến Ninh Kiều." Can Tho's airport is about 10km away, so most visitors arrive by road from Ho Chi Minh City, roughly a 3-4 hour drive or a short flight.
+From farther out, a Grab taxi or motorbike-taxi is cheap and simple, just tell the driver "bến Ninh Kiều." Can Tho's airport is about 10km away, so most visitors arrive by road from Ho Chi Minh City, roughly a 3-4 hour drive or a short flight.
 
 ## What to see and do
 
@@ -114,7 +114,7 @@ The riverside park itself is landscaped with flower beds, shade trees, and a lar
 - The Can Tho Museum and Ong Pagoda, both a short walk inland
 - A night market that sets up along the promenade after dark
 
-The real draw for most travelers is booking a boat here to see the floating markets — Cai Rang and Phong Dien — though those are best reached at dawn, from a different, quieter pier a short ride away. At the wharf itself, plan on simply walking, people-watching, and eating your way along the food stalls.
+The real draw for most travelers is booking a boat here to see the floating markets, Cai Rang and Phong Dien, though those are best reached at dawn, from a different, quieter pier a short ride away. At the wharf itself, plan on simply walking, people-watching, and eating your way along the food stalls.
 
 ## When to go
 
@@ -122,7 +122,7 @@ Early morning, around 6-8am, gives you soft light on the water and a fraction of
 
 Weekend evenings are the opposite experience. Foot traffic peaks between 5pm and 11pm on Saturdays and Sundays, when the whole promenade fills with families, food carts, and strolling couples. It's lively, but if you want breathing room, avoid that window.
 
-Because the wharf is open 24 hours every day, there's no wrong time to show up — just a busier and a quieter one.
+Because the wharf is open 24 hours every day, there's no wrong time to show up, just a busier and a quieter one.
 
 ## How to visit like a local
 
@@ -130,7 +130,7 @@ Come on foot after dinner, the way most Can Tho residents do, and treat it as an
 
 If you want a boat ride to the floating markets, negotiate the price with the boat owner directly at the pier before boarding, and confirm the return time. Early departure, around 5-6am, is how locals catch the markets at their liveliest, before the tourist boats arrive in force.
 
-Ninh Kieu is genuinely one of the busiest attractions in the city, not a quiet find, so don't expect solitude at peak hours. The common mistake is arriving Saturday evening expecting a peaceful river view — that's exactly when it's most crowded. Shift to mid-morning or early afternoon instead, find a spot facing the water, and just watch the boat traffic go by.
+Ninh Kieu is genuinely one of the busiest attractions in the city, not a quiet find, so don't expect solitude at peak hours. The common mistake is arriving Saturday evening expecting a peaceful river view. That's exactly when it's most crowded. Shift to mid-morning or early afternoon instead, find a spot facing the water, and just watch the boat traffic go by.
 
 ## Nearby to combine with your visit
 

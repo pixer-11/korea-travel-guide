@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-la-colmena
-srcHash: '4888d418bb7a'
+srcHash: '7074e61fe4ca'
 title: La Colmena：巴塞罗那旅行指南（4.5星）
 description: La Colmena是一家位于天使广场（Plaça de l'Àngel）的老字号糕点铺，紧邻哥特区（Gothic Quarter）边缘，每天上午9点至晚上9点营业。4.5星（1,743条点评）——游客怎么说、营业时间与实用建议，一应俱全。
 quickAnswer: La Colmena是一家老字号糕点铺，位于天使广场（Plaça de l'Àngel），正好在哥特区（Gothic Quarter）边缘，每天上午9点至晚上9点营业。来这里主要是为了买杜隆糖（turrón）、糖渍水果和传统老式饼干，而不是坐下喝杯咖啡——店里没有座位，只有一个大理石柜台和排队的人群。周末最清静的时段是上午9点到中午12点；周六或周日下午4点到8点尽量别来，那时柜台前会排起长队。

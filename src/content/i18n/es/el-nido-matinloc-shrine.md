@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: el-nido-matinloc-shrine
-srcHash: 'd3ae10fcd866'
+srcHash: 'ca1cd078aa1d'
 title: 'Matinloc Shrine: guía de viaje de El Nido (4.3★)'
 description: Matinloc Shrine es una capilla de cúpula blanca y aspecto desgastado en la isla de Matinloc, a la que solo se llega en barco como parte del Tour C de El Nido. La mayoría de los tours en bangka se detienen aquí entre 20 y 30 minutos, tiempo suficiente para subir los escalones del acantilado y contemplar la vista antes de continuar.
 quickAnswer: 'Matinloc Shrine es una capilla de cúpula blanca y aspecto desgastado en la isla de Matinloc, a la que solo se llega en barco como parte del Tour C de El Nido. La mayoría de los tours en bangka se detienen aquí entre 20 y 30 minutos, tiempo suficiente para subir los escalones del acantilado y contemplar la vista antes de continuar. Todavía es un lugar poco conocido entre los turistas, así que conviene ir con expectativas realistas: se trata de una ruina evocadora y a medio abandonar, no de un monumento cuidado y pulido.'

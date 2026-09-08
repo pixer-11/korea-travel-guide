@@ -77,11 +77,11 @@ Take Seoul Subway Line 4 or the Gyeongui-Jungang Line to Ichon Station, Exit 2. 
 
 - Line 4: Ichon Station, Exit 2
 - Gyeongui-Jungang Line: same station, same exit
-- Driving isn't recommended — parking fills fast, and public transit drops you almost at the door
+- Driving isn't recommended, parking fills fast, and public transit drops you almost at the door
 
 ## What's inside
 
-The permanent galleries span prehistoric pottery through Joseon-dynasty court life, military history, and Buddhist art. The ten-story stone pagoda from Gyeongcheonsa Temple dominates the atrium — you see it through the glass before you've even bought a ticket, which you don't need for the permanent collection.
+The permanent galleries span prehistoric pottery through Joseon-dynasty court life, military history, and Buddhist art. The ten-story stone pagoda from Gyeongcheonsa Temple dominates the atrium, you see it through the glass before you've even bought a ticket, which you don't need for the permanent collection.
 
 Give yourself at least two to three hours. The Gilt-bronze Pensive Bodhisattva, displayed in its own darkened room, draws quiet crowds who linger longer than anywhere else in the building. Special exhibitions, which do charge admission, rotate through a separate wing and often feature loans from other national collections.
 
@@ -102,9 +102,9 @@ The museum is unmistakably one of Seoul's most-visited attractions, so treat it 
 
 - **Time it right**: weekday mornings through mid-afternoon (10am–6pm) are calmest; weekend afternoons (noon–6pm) are the peak to avoid.
 - **Use the Wednesday or Saturday late hours**: staying past 6pm thins the crowd dramatically while the galleries remain fully lit and open.
-- **Pay by card**: like almost all Seoul institutions, the museum is essentially cashless — T-money transit cards and standard credit cards work everywhere, including the café and gift shop.
+- **Pay by card**: like almost all Seoul institutions, the museum is essentially cashless, T-money transit cards and standard credit cards work everywhere, including the café and gift shop.
 - **Skip the special-exhibition line if you're short on time**: the permanent collection is free and covers the highlights; save paid special exhibitions for a return visit if the queue is long.
-- **Eat at the museum's on-site restaurant or the park's outdoor cafés** rather than rushing out — re-entry on the same day is generally allowed, so a break in Yongsan Family Park doesn't cost you your visit.
-- **The common mistake**: tourists cluster around the pagoda and the Bodhisattva room, then skip the upper-floor donation galleries and the outdoor Sculpture Garden — both are far less crowded and just as rewarding.
+- **Eat at the museum's on-site restaurant or the park's outdoor cafés** rather than rushing out, re-entry on the same day is generally allowed, so a break in Yongsan Family Park doesn't cost you your visit.
+- **The common mistake**: tourists cluster around the pagoda and the Bodhisattva room, then skip the upper-floor donation galleries and the outdoor Sculpture Garden. Both are far less crowded and just as rewarding.
 
-Bring headphones if you want the audio guide app rather than renting a device, and wear layers — the galleries run cool even in summer. Photography without flash is generally permitted in the permanent halls, though special exhibitions sometimes restrict it, so check the signage room by room.
+Bring headphones if you want the audio guide app rather than renting a device, and wear layers. The galleries run cool even in summer. Photography without flash is generally permitted in the permanent halls, though special exhibitions sometimes restrict it, so check the signage room by room.

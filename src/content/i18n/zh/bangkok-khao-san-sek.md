@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-khao-san-sek
-srcHash: '53c64943d7cf'
+srcHash: '406bde36a5ff'
 title: 曼谷考山Sek餐厅（Khao San Sek）
 description: 考山Sek（Khao San Sek）是曼谷新开业的一家餐厅，由主厨帕姆（Chef Pam）掌勺，凭借将泰国五大基础食材——米、辣椒、椰子、鱼露和棕榈糖——置于每道菜核心的做法，迅速引发热议。
 quickAnswer: 考山Sek（Khao San Sek）是曼谷新开业的一家餐厅，由主厨帕姆（Chef Pam）掌勺，凭借将泰国五大基础食材——米、辣椒、椰子、鱼露和棕榈糖——置于每道菜核心的做法，迅速引发热议。它入选了《BK杂志》"2026年最佳餐桌"（Top Tables 2026）榜单，被评为最令人期待的新店，预计订位需求会很旺，建议提前电话或在线预订，而不要直接上门。这更适合当作一次值得专程前往的正餐体验，而非随便吃点东西，出发前请直接向餐厅确认最新营业时间和订位政策。

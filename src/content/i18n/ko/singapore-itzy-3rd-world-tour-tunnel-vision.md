@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-itzy-3rd-world-tour-tunnel-vision
-srcHash: '7f9a92cad1a0'
+srcHash: '13fb1ed3efef'
 title: 'ITZY 세 번째 월드투어 &lt;TUNNEL VISION&gt;: 일정, 티켓 및 공연장 안내 (싱가포르)'
 description: ITZY의 세 번째 월드투어 &lt;TUNNEL VISION&gt;이 2026년 9월 30일 싱가포르에서 열립니다. 공연 개요와 일정, 장소, 그리고 관람 계획을 세우는 방법을 정리했습니다.
 quickAnswer: ITZY가 세 번째 월드투어 TUNNEL VISION으로 2026년 9월 30일 싱가포르를 찾습니다. 지난 싱가포르 공연 이후 처음으로 다시 이 도시를 방문하는 것입니다. 공연장, 티켓 등급, 입장 시간 등은 발표 이후에도 바뀔 수 있어 이 가이드에는 아직 확정하지 않았습니다. 항공권이나 숙소를 예약하기 전에 ITZY 공식 소셜 채널과 공식 티켓 판매처에서 반드시 최신 정보를 확인하시기 바랍니다.

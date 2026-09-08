@@ -69,25 +69,25 @@ draft: false
 
 ## Why go
 
-This isn't a quiet back-alley temple — it's one of Sha Tin's signature sights, and the reason is visible before you even reach the top. Over 12,000 small Buddha statues, no two quite alike, line the switchback staircase and terraces, donated over decades by worshippers and collectors.
+This isn't a quiet back-alley temple. It's one of Sha Tin's signature sights, and the reason is visible before you even reach the top. Over 12,000 small Buddha statues, no two quite alike, line the switchback staircase and terraces, donated over decades by worshippers and collectors.
 
 The climb itself is part of the experience. You pass life-sized golden arhats mid-stride down the slope, some frozen in combat poses, others serene, all watching you sweat up the same steps they seem to be descending.
 
 ## Getting there
 
-Take the MTR East Rail Line to Sha Tin station and leave via Exit B. From there, signposted paths lead through a housing estate toward the monastery's base — it's about a 10-minute walk before the stairs even start.
+Take the MTR East Rail Line to Sha Tin station and leave via Exit B. From there, signposted paths lead through a housing estate toward the monastery's base. It's about a 10-minute walk before the stairs even start.
 
 There's no cable car or shortcut here. The final approach is a steep, uneven staircase that takes most visitors 15 to 20 minutes to climb at a comfortable pace.
 
 - MTR East Rail Line to Sha Tin Station, Exit B
 - Follow signs through Pai Tau Village
-- Wear shoes with real tread — the steps get slick after rain
+- Wear shoes with real tread. The steps get slick after rain
 
 ## What you'll see
 
 The main temple hall houses thousands more miniature Buddha figures stacked floor to ceiling in glass-fronted shelves, which is where the "Ten Thousand Buddhas" name actually comes from. The gilded figures catch whatever light filters through the hall's windows, and the air smells faintly of incense and old wood.
 
-Beyond the main hall, a nine-story pink pagoda rises above the complex — a favorite photo spot, and one of the few structures here you can see from down in Sha Tin town. Further up the hillside sit smaller shrines, a pavilion dedicated to the temple's founder, and views back over the New Territories rooftops and the Shing Mun River.
+Beyond the main hall, a nine-story pink pagoda rises above the complex, a favorite photo spot, and one of the few structures here you can see from down in Sha Tin town. Further up the hillside sit smaller shrines, a pavilion dedicated to the temple's founder, and views back over the New Territories rooftops and the Shing Mun River.
 
 Give yourself a full hour once you're at the top to wander the terraces properly, on top of the climb up and down.
 
@@ -95,7 +95,7 @@ Give yourself a full hour once you're at the top to wander the terraces properly
 
 The monastery keeps the same hours every day of the week, 9am to 5pm, so there's no early-morning or late-evening loophole to exploit. What you can control is which day and hour you show up.
 
-Weekday mornings and afternoons stay consistently calm — the crowd data backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm.
+Weekday mornings and afternoons stay consistently calm, the crowd data backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm.
 
 If you can only come on a Saturday or Sunday, arrive right at 9am opening or plan for company on the stairs.
 
@@ -103,7 +103,7 @@ If you can only come on a Saturday or Sunday, arrive right at 9am opening or pla
 
 Because this is a well-known stop on the Sha Tin sightseeing circuit rather than a hidden find, the smart move is timing, not secrecy. Weekday mornings are your best bet for having sections of the staircase nearly to yourself.
 
-Entry has traditionally been free or by small donation, though you should confirm this on-site since arrangements can shift. There's no formal booking system — you simply walk up when the gates are open.
+Entry has traditionally been free or by small donation, though you should confirm this on-site since arrangements can shift. There's no formal booking system, you simply walk up when the gates are open.
 
 A few practical notes locals and regulars know:
 
@@ -114,5 +114,5 @@ A few practical notes locals and regulars know:
 
 Tourists' most common mistake is treating the base car park area as the temple itself and turning back before the real climb even begins. The statues multiply the higher you go, so push past the first few switchbacks before deciding it's not for you.
 
-Pair the visit with a wander through Sha Tin's town center afterward — the New Town Plaza mall and riverside promenade are both a short walk back from the MTR station, making an easy way to cool down and rest your legs post-climb.
+Pair the visit with a wander through Sha Tin's town center afterward, the New Town Plaza mall and riverside promenade are both a short walk back from the MTR station, making an easy way to cool down and rest your legs post-climb.
 

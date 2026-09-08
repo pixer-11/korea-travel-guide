@@ -54,9 +54,9 @@ updatedDate: '2026-08-28'
 ---
 ## Why it's here
 
-Walk the full length of La Rambla, past the flower stalls and the Boqueria's fruit stands, and the street eventually spills out into an open plaza where the smell of the Mediterranean starts to reach you before you see the water. That's when the column comes into view: a fluted, deep-red Corinthian shaft rising out of a stone base crowded with allegorical bronze figures — lions, winged victories, women representing the old Catalan kingdoms.
+Walk the full length of La Rambla, past the flower stalls and the Boqueria's fruit stands, and the street eventually spills out into an open plaza where the smell of the Mediterranean starts to reach you before you see the water. That's when the column comes into view: a fluted, deep-red Corinthian shaft rising out of a stone base crowded with allegorical bronze figures, lions, winged victories, women representing the old Catalan kingdoms.
 
-At the very top, small enough from the ground that you have to squint, stands Christopher Columbus, cloak draped over one shoulder, arm extended out over the harbor. It was raised for the 1888 Barcelona Universal Exposition, the same wave of civic ambition that gave the city Ciutadella Park and reshaped this whole waterfront, and it was deliberately built as a gateway moment — the point where the city's grand promenade meets the port.
+At the very top, small enough from the ground that you have to squint, stands Christopher Columbus, cloak draped over one shoulder, arm extended out over the harbor. It was raised for the 1888 Barcelona Universal Exposition, the same wave of civic ambition that gave the city Ciutadella Park and reshaped this whole waterfront, and it was deliberately built as a gateway moment, the point where the city's grand promenade meets the port.
 
 ## Getting there
 
@@ -66,9 +66,9 @@ The Golondrinas harbor-tour boats depart from docks right beside the monument, a
 
 ## What to see
 
-Up close, the base rewards a slow circle on foot: bronze reliefs depict scenes from Columbus's voyages, and the four corners are guarded by seated lion figures that generations of visitors have posed astride for photos. Inside the column's base is a small lift that carries visitors up to a viewing platform just beneath the statue's feet — the payoff is a wide-angle look back up La Rambla on one side and out over the fishing boats and cruise-ship berths of Port Vell on the other.
+Up close, the base rewards a slow circle on foot: bronze reliefs depict scenes from Columbus's voyages, and the four corners are guarded by seated lion figures that generations of visitors have posed astride for photos. Inside the column's base is a small lift that carries visitors up to a viewing platform just beneath the statue's feet. The payoff is a wide-angle look back up La Rambla on one side and out over the fishing boats and cruise-ship berths of Port Vell on the other.
 
-It's a short ride and a tight platform, not a long visit, but the vantage point is unlike anything else in this part of the city since almost nothing else nearby lets you look down on the harbor. Note that access to the lift and platform runs only within a limited daily opening window in the morning, so afternoon or evening plans to go up won't work — the plaza and statue itself remain visible and photographable at any hour, but the interior closes at 2:30pm sharp.
+It's a short ride and a tight platform, not a long visit, but the vantage point is unlike anything else in this part of the city since almost nothing else nearby lets you look down on the harbor. Note that access to the lift and platform runs only within a limited daily opening window in the morning, so afternoon or evening plans to go up won't work, the plaza and statue itself remain visible and photographable at any hour, but the interior closes at 2:30pm sharp.
 
 ## When to go
 
@@ -78,6 +78,6 @@ Midday in high summer also means direct sun with almost no shade in the plaza, s
 
 ## How to visit like a local
 
-Barcelona residents mostly pass through here rather than lingering — it's a landmark you walk past on the way to the marina, the cable car to Montjuïc, or the ferry to the beach, not typically a destination locals set aside a morning for. If you do want the platform view, arrive at opening rather than mid-morning, buy the lift ticket on-site (queues are usually short and card payment is standard), and expect the visit itself to take only a few minutes once you're up.
+Barcelona residents mostly pass through here rather than lingering. It's a landmark you walk past on the way to the marina, the cable car to Montjuïc, or the ferry to the beach, not typically a destination locals set aside a morning for. If you do want the platform view, arrive at opening rather than mid-morning, buy the lift ticket on-site (queues are usually short and card payment is standard), and expect the visit itself to take only a few minutes once you're up.
 
-Skip the photo-taking scrum in front of the base around midday if you can; angles from across the plaza, or from the Rambla de Mar bridge looking back, get you the same shot without the crowd. The common tourist mistake is showing up in the afternoon expecting to go up, then finding only the exterior open — plan any interior visit for the morning, and treat an afternoon stop as strictly a walk-by.
+Skip the photo-taking scrum in front of the base around midday if you can; angles from across the plaza, or from the Rambla de Mar bridge looking back, get you the same shot without the crowd. The common tourist mistake is showing up in the afternoon expecting to go up, then finding only the exterior open. Plan any interior visit for the morning, and treat an afternoon stop as strictly a walk-by.

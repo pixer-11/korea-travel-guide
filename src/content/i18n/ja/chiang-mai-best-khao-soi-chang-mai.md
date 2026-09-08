@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chiang-mai-best-khao-soi-chang-mai
-srcHash: '0b076f1f9481'
+srcHash: 'ca2574b4a0ab'
 title: チェンマイで食べる ベスト・カオソーイ・チャンマイ おすすめの店
 description: プラシン(Phra Singh)エリアにあるベスト・カオソーイ・チャンマイ(Best Khao Soi Chang Mai、住所:1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200)へ足を運んで、カリカリの揚げ卵麺がのった北タイのカレー麺料理、定番のカオソーイを味わおう。
 quickAnswer: プラシン(Phra Singh)エリアにあるベスト・カオソーイ・チャンマイ(Best Khao Soi Chang Mai、住所:1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200)へ足を運んで、カリカリの揚げ卵麺がのった北タイのカレー麺料理、定番のカオソーイを味わおう。252件のレビューで4.6という高評価を得ており、凝った内装よりも一杯の完成度を追求する、こぢんまりとした気取らない店構えを想定しておくとよい。営業は平日16時〜22時、土曜は15時〜22時、日曜定休なので、夕方以降に訪れて、チキンかビーフのカオソーイを注文しよう。サイドメニューも含めてゆったり座って食べるなら、30〜45分ほど時間を見ておきたい。

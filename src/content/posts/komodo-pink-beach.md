@@ -115,7 +115,7 @@ It sits on the eastern side of Komodo Island, inside Komodo National Park, and i
 
 ## Getting there
 
-Pink Beach isn't a standalone destination — it's a stop woven into a boat itinerary out of Labuan Bajo, the gateway town on Flores. Most visitors book one of two ways:
+Pink Beach isn't a standalone destination. It's a stop woven into a boat itinerary out of Labuan Bajo, the gateway town on Flores. Most visitors book one of two ways:
 
 - A multi-day liveaboard covering Komodo/Rinca Island, Padar Island viewpoint, and Pink Beach together
 - A single-day speedboat charter that combines Padar's famous overlook, a dragon-trekking stop, and Pink Beach for snorkelling
@@ -124,7 +124,7 @@ Boat rides between stops run 30 minutes to a couple of hours depending on the ro
 
 ## What to do once you're there
 
-There's no dock — boats anchor offshore and you wade or dinghy in. The beach itself is compact, backed by dry scrubby hills rather than palm trees, so don't expect shade.
+There's no dock, boats anchor offshore and you wade or dinghy in. The beach itself is compact, backed by dry scrubby hills rather than palm trees, so don't expect shade.
 
 Snorkelling is the main event. The reef just off the sand drops into clear water thick with parrotfish, clownfish, and soft coral in purples and yellows, with visibility that regularly stretches many meters on calm days.
 
@@ -141,7 +141,7 @@ Officially the site is accessible from 4am to 10pm daily, though in practice you
 
 The measured crowd pattern here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later.
 
-Weekday evenings tend to be quieter, though most day-boats won't be out that late — it's more realistic for liveaboard guests anchoring overnight. Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand.
+Weekday evenings tend to be quieter, though most day-boats won't be out that late. It's more realistic for liveaboard guests anchoring overnight. Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand.
 
 Dry season, roughly April through November, gives the calmest seas and clearest water for snorkelling. Outside that window, swells make the crossing rougher and visibility drops.
 
@@ -150,9 +150,9 @@ Dry season, roughly April through November, gives the calmest seas and clearest 
 Pink Beach is still under the radar compared with Komodo's dragon treks, and it rewards a bit of patience over rushing in with the first wave of boats.
 
 - **Timing**: aim for after 1pm on weekends, or ask your liveaboard to schedule an evening or early-morning stop to dodge the 8am–1pm rush.
-- **Payment**: park entry and conservation fees are typically bundled into your boat tour price, paid in cash or bank transfer when booking in Labuan Bajo — carry rupiah, as there's no card machine anywhere near this beach.
+- **Payment**: park entry and conservation fees are typically bundled into your boat tour price, paid in cash or bank transfer when booking in Labuan Bajo, carry rupiah, as there's no card machine anywhere near this beach.
 - **Etiquette**: don't pocket the pink sand as a souvenir; it's a fragile, non-renewable feature of the ecosystem and taking it is discouraged park-wide.
 - **Common mistake**: visitors treat this as a lounging beach and forget swim gear. The real draw is underwater, right off the shore.
-- **Local rhythm**: boat crews here are used to Indonesian domestic tourists as much as foreign ones, so it never feels exclusively like a tourist bubble — go with the crew's suggested anchor time rather than insisting on a fixed hour.
+- **Local rhythm**: boat crews here are used to Indonesian domestic tourists as much as foreign ones, so it never feels exclusively like a tourist bubble. Go with the crew's suggested anchor time rather than insisting on a fixed hour.
 
-Spend 45 minutes to an hour and a half here — enough time to swim, snorkel, and get your photos before the next stop on the itinerary calls.
+Spend 45 minutes to an hour and a half here, enough time to swim, snorkel, and get your photos before the next stop on the itinerary calls.

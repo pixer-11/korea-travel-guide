@@ -84,13 +84,13 @@ You won't find this place by looking straight ahead. Oh My Gulay hides on the fi
 
 Vines spill over the railings. Hand-painted signs, found-object sculptures, and dangling lanterns crowd every landing. By the time you reach the top, you've already forgotten you're in a building that also houses a photocopy shop.
 
-The name is a playful pun — "gulay" means vegetables in Filipino — and the restaurant leans hard into that identity. Expect a menu built around produce from the Cordillera highlands, the region Baguio sits in.
+The name is a playful pun, "gulay" means vegetables in Filipino, and the restaurant leans hard into that identity. Expect a menu built around produce from the Cordillera highlands, the region Baguio sits in.
 
 ## Getting there
 
 The address is 108 Session Rd, in the heart of Baguio's main commercial strip. Session Road itself is the city's central artery, easy to reach on foot from Burnham Park or by jeepney from almost anywhere downtown.
 
-Look for the building number rather than a storefront sign — Oh My Gulay doesn't have street-level frontage. Head inside, find the stairwell, and start climbing; there's no elevator, so budget a few extra minutes if you're with kids or anyone who needs a slower pace.
+Look for the building number rather than a storefront sign, Oh My Gulay doesn't have street-level frontage. Head inside, find the stairwell, and start climbing; there's no elevator, so budget a few extra minutes if you're with kids or anyone who needs a slower pace.
 
 ## What to eat
 
@@ -102,13 +102,13 @@ Dishes worth flagging:
 - Baked goods and desserts
 - Teas and other beverages
 
-Baguio's elevation keeps things cool year-round, so the food here — warm, earthy, vegetable-heavy — fits the climate.
+Baguio's elevation keeps things cool year-round, so the food here (warm, earthy, vegetable-heavy) fits the climate.
 
 ## The atmosphere
 
 This isn't a polished, minimalist dining room. Every wall, ceiling beam, and corner is covered in local artwork, hanging plants, or handwritten notes.
 
-Tables are mismatched, lighting is dim and warm, and the whole place feels assembled by decades of artists passing through rather than a single designer. It's cluttered in the best sense — the kind of clutter that rewards slow looking.
+Tables are mismatched, lighting is dim and warm, and the whole place feels assembled by decades of artists passing through rather than a single designer. It's cluttered in the best sense, the kind of clutter that rewards slow looking.
 
 Give yourself at least 90 minutes, less for the meal itself and more for soaking in the visual noise around you.
 
@@ -116,16 +116,16 @@ Give yourself at least 90 minutes, less for the meal itself and more for soaking
 
 Oh My Gulay is closed Tuesdays, so don't make the climb that day. Monday, Wednesday, and Thursday it runs 11am to 7pm; Friday through Sunday it stays open until 8pm.
 
-Weekends get busy, with a steady crowd from 11am through closing at 8pm. If you want the place closer to empty, aim for a weekday evening between 7pm and 8pm — the quietest window by a clear margin.
+Weekends get busy, with a steady crowd from 11am through closing at 8pm. If you want the place closer to empty, aim for a weekday evening between 7pm and 8pm, the quietest window by a clear margin.
 
 ## How to visit like a local
 
 Oh My Gulay is still under the radar relative to Baguio's bigger tourist draws, so you won't fight the crowds you'd find at, say, Burnham Park on a Sunday. That said, a few habits help you blend in rather than stick out.
 
-- Climb the stairs slowly and actually look at the art — locals treat the stairwell itself as part of the visit, not just an obstacle.
+- Climb the stairs slowly and actually look at the art, locals treat the stairwell itself as part of the visit, not just an obstacle.
 - Go on a weekday evening near closing if you want a table without a wait.
-- Cash is the safer bet for a small, independently run spot like this — don't assume card payment will be smooth.
+- Cash is the safer bet for a small, independently run spot like this. Don't assume card payment will be smooth.
 - Skip Tuesday entirely; showing up on the wrong day is the most common tourist misstep here.
-- Order family-style and share — the portions and pricing are built for grazing across a few dishes, not one plate per person.
+- Order family-style and share. The portions and pricing are built for grazing across a few dishes, not one plate per person.
 
-The mistake most first-timers make is treating this as a quick bite between shopping stops. Oh My Gulay rewards lingering — order slowly, look around, and let the fifth-floor detour become the actual point of the visit.
+The mistake most first-timers make is treating this as a quick bite between shopping stops. Oh My Gulay rewards lingering, order slowly, look around, and let the fifth-floor detour become the actual point of the visit.

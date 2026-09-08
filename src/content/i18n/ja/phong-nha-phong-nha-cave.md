@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: phong-nha-phong-nha-cave
-srcHash: '0e6180c09928'
+srcHash: 'c84eebeb3dd2'
 title: フォンニャ洞窟(Phong Nha Cave)旅行ガイド(4.7★)
 description: フォンニャ洞窟(Phong Nha Cave)は、フォンニャ・ケバン国立公園(Phong Nha-Ke Bang National Park)内にある観光洞窟で、フォンニャ(Phong Nha)の町からソン川(Son River)を短時間ボートで遡って向かいます。4.7★(2,804件のレビュー)—訪問者の声、営業時間、旅のコツを紹介します。
 quickAnswer: フォンニャ洞窟(Phong Nha Cave)は、フォンニャ・ケバン国立公園(Phong Nha-Ke Bang National Park)内にある観光洞窟で、フォンニャ(Phong Nha)の町からソン川(Son River)を短時間ボートで遡って向かいます。半日を目安にしましょう:行きのボート、洞窟内のライトアップされた区間を約1時間かけて進み(ボートに乗ったり歩いて渡ったりします)、そして帰りのボートです。平日の早朝に訪れれば、午前中遅くになるにつれて増えるツアーバスの混雑を避けられます。

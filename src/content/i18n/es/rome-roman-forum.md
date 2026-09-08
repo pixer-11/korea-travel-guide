@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-roman-forum
-srcHash: '58e1a33e8aa0'
+srcHash: '1a95a787fca5'
 title: 'Foro Romano: Guía de viaje de Roma (4,8★)'
 description: 'Entra al Foro Romano justo a las 9:00 (por la entrada de Via della Salaria Vecchia, cerca del Arco de Tito, o combinado con la entrada del Coliseo/Palatino) para adelantarte a los grupos turísticos: entre las 9:00 y las 10:00 es el momento más tranquilo todos los días, mientras que entre las 11:00 y las 14:00 los fines de semana es cuando hay más aglomeraciones. 4,8★ (145.233 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Entra al Foro Romano justo a las 9:00 (por la entrada de Via della Salaria Vecchia, cerca del Arco de Tito, o combinado con la entrada del Coliseo/Palatino) para adelantarte a los grupos turísticos: entre las 9:00 y las 10:00 es el momento más tranquilo todos los días, mientras que entre las 11:00 y las 14:00 los fines de semana es cuando hay más aglomeraciones. Calcula entre dos y tres horas para recorrer la Vía Sacra, el Templo de Saturno y subir a la Colina del Palatino, y ten en cuenta que el sitio cierra a las 16:30 todos los días, así que planea una visita por la mañana o a primera hora de la tarde.'

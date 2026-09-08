@@ -36,9 +36,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The Tour de France is the sport's biggest stage, and the final weekend is where the overall winner is effectively decided and then celebrated. The 2026 edition — its 113th — was set to start in Barcelona on July 4 and cover 3,333 km across France before a grueling run through the Alps in the closing days. Seeing a mountain finish and the Paris arrival in the same trip shows both faces of the race: raw suffering on the climbs and pure spectacle on the boulevards.
+The Tour de France is the sport's biggest stage, and the final weekend is where the overall winner is effectively decided and then celebrated. The 2026 edition, its 113th, was set to start in Barcelona on July 4 and cover 3,333 km across France before a grueling run through the Alps in the closing days. Seeing a mountain finish and the Paris arrival in the same trip shows both faces of the race: raw suffering on the climbs and pure spectacle on the boulevards.
 
-Unlike most major sporting events, admission to the roadside is free — it's a matter of knowing where to stand and when.
+Unlike most major sporting events, admission to the roadside is free. It's a matter of knowing where to stand and when.
 
 ## Getting there
 
@@ -48,9 +48,9 @@ The nearest Métro stations to the traditional finish straight are Concorde (Lin
 
 ## What to see
 
-Beyond the racing itself, the finish weekend turns central Paris into a free festival: the Tour caravan (sponsor vehicles tossing out trinkets) precedes the riders by up to an hour, giant screens broadcast the final kilometers, and team buses and the podium ceremony draw crowds near the finish line. In the mountains, the appeal is different — spectators camp roadside for a full day to see riders for a matter of seconds, often with campervans lining hairpin bends the night before.
+Beyond the racing itself, the finish weekend turns central Paris into a free festival: the Tour caravan (sponsor vehicles tossing out trinkets) precedes the riders by up to an hour, giant screens broadcast the final kilometers, and team buses and the podium ceremony draw crowds near the finish line. In the mountains, the appeal is different, spectators camp roadside for a full day to see riders for a matter of seconds, often with campervans lining hairpin bends the night before.
 
-A common approach for anyone not chasing a specific climb is watching TV coverage from a Paris café terrace the day before the finish, then heading out for the arrival itself — a realistic way to combine both.
+A common approach for anyone not chasing a specific climb is watching TV coverage from a Paris café terrace the day before the finish, then heading out for the arrival itself, a realistic way to combine both.
 
 ## When to go
 
@@ -58,8 +58,8 @@ The closing window was set for July 24-26, 2026, with the decisive Alpine stages
 
 ## How to visit like a local
 
-Regular Tour spectators pick a spot and settle in early rather than chasing the peloton — barriers along the Paris finish straight fill up hours before the actual finish, so locals bring a folding chair, a baguette-and-cheese picnic, and something to pass the time during the caravan. Payment for anything bought roadside (crêpes, drinks from a pop-up stand) is typically cash or card, same as anywhere in the city, but there's no ticket or fee for simply watching from the barriers.
+Regular Tour spectators pick a spot and settle in early rather than chasing the peloton, barriers along the Paris finish straight fill up hours before the actual finish, so locals bring a folding chair, a baguette-and-cheese picnic, and something to pass the time during the caravan. Payment for anything bought roadside (crêpes, drinks from a pop-up stand) is typically cash or card, same as anywhere in the city, but there's no ticket or fee for simply watching from the barriers.
 
-The biggest mistake first-timers make is treating it like a stadium event with a single dramatic entrance — in reality the race passes multiple times if there's a finishing circuit, and each viewing spot has its own pass times rather than one fleeting moment. Driving to or near an Alpine mountain stage on race day isn't an option either; roads shut down early and stay closed until well after the last rider and broadcast vehicles clear.
+The biggest mistake first-timers make is treating it like a stadium event with a single dramatic entrance, in reality the race passes multiple times if there's a finishing circuit, and each viewing spot has its own pass times rather than one fleeting moment. Driving to or near an Alpine mountain stage on race day isn't an option either; roads shut down early and stay closed until well after the last rider and broadcast vehicles clear.
 
 Routes and host towns are typically finalized only a few months ahead of each Tour. letour.fr is the official Tour de France website, covering stage towns, the Paris circuit and any ticketed grandstand options.

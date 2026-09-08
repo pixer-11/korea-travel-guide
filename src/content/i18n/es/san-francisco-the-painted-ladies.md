@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-the-painted-ladies
-srcHash: '25733713ce69'
+srcHash: '2da8bf2d048f'
 title: 'Las Painted Ladies: Guía de viaje de San Francisco (4.4★)'
 description: 'Las Painted Ladies son la hilera de siete casas victorianas en Steiner Street frente a Alamo Square Park, conocidas sobre todo por ser el telón de fondo de "Full House" y de innumerables postales. 4.4★ (28.008 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Painted Ladies son la hilera de siete casas victorianas en Steiner Street frente a Alamo Square Park, conocidas sobre todo por ser el telón de fondo de "Full House" y de innumerables postales. Se pueden ver gratis en cualquier momento, pero la luz es mejor a última hora de la tarde, y el parque está más tranquilo los días de semana por la mañana, antes de que lleguen los autobuses turísticos. Calcula entre 20 y 30 minutos para las fotos, más si quieres subir la colina y hacer un pícnic en el parque.

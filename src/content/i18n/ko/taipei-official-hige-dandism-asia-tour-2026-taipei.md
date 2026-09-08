@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
-srcHash: 'bcda3bc5d9a2'
+srcHash: '073b5f1009e8'
 title: '공식 히게단디즘 아시아 투어 2026 – 타이베이: 알아둘 사항 (타이베이)'
 description: 공식 히게단디즘 아시아 투어 2026 타이베이 공연 — 2026년 8월 29일과 30일 이틀간 타이베이 돔에서 열릴 예정이었으며, 신곡 "Stardust"와 "Elderflower"가 발표되었습니다.
 quickAnswer: '"Pretender", "Cry Baby" 등의 히트곡으로 잘 알려진 일본의 5인조 팝록 밴드 공식 히게단디즘(Official HIGE DANDism)이 2026년 아시아 투어의 일환으로 2026년 8월 29일과 30일 이틀간 타이베이 돔(Taipei Dome)에서 공연할 예정이었습니다. 이번 발표에는 기존 대표곡들과 더불어 신곡 "Stardust"와 "Elderflower"가 이번 투어에서 처음 라이브로 선보여질 곡으로 포함되었습니다. 티켓 가격, 정확한 입장 및 공연 시작 시각, 좌석 배치도 등은 이번 발표에 포함되지 않았습니다.'

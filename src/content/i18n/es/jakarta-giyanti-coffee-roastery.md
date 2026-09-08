@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-giyanti-coffee-roastery
-srcHash: '1ec2310f0a63'
+srcHash: '45ea337dc8d2'
 title: 'Giyanti Coffee Roastery: guía de viaje de Yakarta'
 description: Giyanti Coffee Roastery es una cafetería y tostaduría de especialidad ubicada en Jl. Surabaya, en Menteng, Yakarta Central, reconocida por sus granos indonesios de origen único (Gayo, Toraja, Flores, Kintamani) y por tostar el café en el propio local.
 quickAnswer: Giyanti Coffee Roastery es una cafetería y tostaduría de especialidad ubicada en Jl. Surabaya, en Menteng, Yakarta Central, reconocida por sus granos indonesios de origen único (Gayo, Toraja, Flores, Kintamani) y por tostar el café en el propio local. Conviene ir una mañana entre semana para evitar las multitudes, calcular una o dos horas de visita y aprovechar para combinar el café con el mercado de antigüedades que se instala justo en la puerta.

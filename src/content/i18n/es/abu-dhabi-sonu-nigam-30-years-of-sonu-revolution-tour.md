@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour
-srcHash: 'd1336ce54334'
+srcHash: '654999fe7888'
 title: 'Sonu Nigam - 30 Years of Sonu (Revolution Tour): fechas, entradas y recinto (Abu Dabi)'
 description: El concierto de Sonu Nigam "30 Years of Sonu" (Revolution Tour) estaba previsto para el 21 de agosto de 2026 en el Etihad Arena de Abu Dabi, noche de lanzamiento mundial de la gira.
 quickAnswer: La gira "30 Years of Sonu" (Revolution Tour) de Sonu Nigam tenía previsto su estreno en el Etihad Arena de Yas Island, Abu Dabi, el 21 de agosto de 2026, fecha de lanzamiento mundial de una serie de conciertos internacionales que celebraban sus tres décadas de carrera. Las entradas y los horarios se gestionaban a través del sitio oficial del Etihad Arena y los canales verificados de Sonu Nigam. Las vías de acceso a Yas Island se saturan rápido en las noches de concierto.

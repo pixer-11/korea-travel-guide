@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sharjah-sharjah-museum-of-islamic-civilization
-srcHash: 'c06be61cc226'
+srcHash: '4cad644ee95b'
 title: 沙迦伊斯兰文明博物馆旅行指南（4.6★）
 description: 沙迦伊斯兰文明博物馆坐落在阿尔穆贾拉（Al Mujarrah）的科尼什海滨大道（Corniche）上，紧邻蓝色集市（Blue Souk），每日8:00至20:00开放（周五仅16:00至20:00）。4.6星（6,476条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 沙迦伊斯兰文明博物馆坐落在阿尔穆贾拉（Al Mujarrah）的科尼什海滨大道（Corniche）上，紧邻蓝色集市（Blue Souk），每日8:00至20:00开放（周五仅16:00至20:00）。馆内两层展出手稿、星盘和陶器，金色穹顶下参观完一圈大约需要1.5到2小时。这里人气很旺，建议挑工作日刚开门的早上前往，才能避开旅行团。

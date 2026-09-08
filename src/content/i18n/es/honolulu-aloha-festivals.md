@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: honolulu-aloha-festivals
-srcHash: '2e1c7c5bec93'
+srcHash: '0f6c049c0312'
 title: 'Aloha Festivals: fechas, entradas y sede (Honolulu)'
 description: Aloha Festivals en Honolulu, Estados Unidos, se celebra en septiembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
 quickAnswer: 'En septiembre de 2026, Aloha Festivals cumple 80 años, y ese mes se celebran en Oʻahu los eventos más emblemáticos de Honolulu: la investidura de la Corte Real, una fiesta callejera en Waikīkī y el Desfile Floral. Las fechas exactas, el recorrido y los detalles de las entradas se publican más cerca de la temporada, así que conviene confirmarlos en el sitio oficial de Aloha Festivals antes de reservar vuelos u hoteles. Las mayores aglomeraciones se concentran a lo largo del recorrido del desfile y en la fiesta callejera de Waikīkī, por lo que conviene llegar temprano para conseguir un buen sitio junto a la acera.'

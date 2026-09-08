@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-elephant-mountain
-srcHash: 'a8e8eadb1292'
+srcHash: 'd2f8fb0ac176'
 title: 'Montaña del Elefante: guía de viaje de Taipéi'
 description: 'La Montaña del Elefante (Xiangshan) es la caminata corta más popular de Taipéi: una empinada subida de escalones de 20 a 40 minutos en el distrito de Xinyi que termina en miradores de roca con vistas al Taipéi 101.'
 quickAnswer: 'La Montaña del Elefante (Xiangshan) es la caminata corta más popular de Taipéi: una empinada subida de escalones de 20 a 40 minutos en el distrito de Xinyi que termina en miradores de roca con vistas al Taipéi 101. Está abierta las 24 horas, pero conviene llegar antes de las 16:30-17:00 para asegurarse un lugar sobre las rocas antes del atardecer, o ir al amanecer si prefieres la vista sin las multitudes. Toma la Línea Roja del metro (MRT) hasta la estación Xiangshan, Salida 2, y sigue las señales cuesta arriba.'

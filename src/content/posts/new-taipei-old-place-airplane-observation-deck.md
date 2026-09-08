@@ -77,26 +77,26 @@ That gap in the canopy is the Old Place Airplane Observation Deck, a simple plat
 
 ## Why people climb up here
 
-Planes come in low, close enough that you can read the airline livery, then bank and vanish behind the hills. Photographers set up tripods a good hour before sunset for this exact moment. The rating here — a near-perfect 4.6 across thousands of reviews — isn't hype; it's earned by that ten-second window when a jet slides past the tower lights.
+Planes come in low, close enough that you can read the airline livery, then bank and vanish behind the hills. Photographers set up tripods a good hour before sunset for this exact moment. The rating here, a near-perfect 4.6 across thousands of reviews, isn't hype; it's earned by that ten-second window when a jet slides past the tower lights.
 
 It's not a secret. Expect other hikers, other tripods, other people waiting for the same shot.
 
 ## Getting there
 
-The deck sits above Jiantan MRT Station (Red Line), a five-minute walk from the Shilin Night Market area. From the station, follow signs for the Jiantanshan Hiking Trail (劍潭山步道) — the trailhead is tucked behind a small temple near Lane 165, Tongbei Street.
+The deck sits above Jiantan MRT Station (Red Line), a five-minute walk from the Shilin Night Market area. From the station, follow signs for the Jiantanshan Hiking Trail (劍潭山步道). The trailhead is tucked behind a small temple near Lane 165, Tongbei Street.
 
 The climb itself takes 20–30 minutes on stone steps and packed dirt paths, gaining a few hundred feet through subtropical forest. It's not technical, but it's steep enough to leave you sweating in Taipei's humidity, and the steps can be slick after rain.
 
 ## What to expect at the top
 
-The platform itself is modest — a few tiers of railing, room for maybe a few dozen people at once. There's no ticket booth, no gift shop, no facilities. What you're paying for in effort, you get back in view.
+The platform itself is modest, a few tiers of railing, room for maybe a few dozen people at once. There's no ticket booth, no gift shop, no facilities. What you're paying for in effort, you get back in view.
 
 - Taipei 101 and the Xinyi skyline, dead ahead
 - Songshan Airport's runway, with planes landing every few minutes during peak hours
 - The Keelung River curling below Jiantan
 - Distant hills ringing the basin, especially vivid just after rain clears the haze
 
-Bring a headlamp or phone flashlight if you're descending after dark — the trail has some lighting but not much.
+Bring a headlamp or phone flashlight if you're descending after dark. The trail has some lighting but not much.
 
 ## When to go
 
@@ -108,12 +108,12 @@ Late afternoon into blue hour is the sweet spot: enough daylight to see the clim
 
 ## How to visit like a local
 
-Locals and regular visitors treat this less like a sightseeing stop and more like an evening ritual — a quick hike after work with a reward at the top. A few habits worth copying:
+Locals and regular visitors treat this less like a sightseeing stop and more like an evening ritual, a quick hike after work with a reward at the top. A few habits worth copying:
 
 - **Time it for planes, not just sunset.** Songshan's landing pattern is more active in early evening; check a flight-tracker app beforehand if you want maximum air traffic.
 - **Wear real shoes.** Sandals struggle on the damp stone steps, especially descending in the dark.
 - **Pack out water and snacks.** There are no vendors on the trail or at the deck.
-- **Don't linger on the narrow viewing spots** once you've got your shot — with no barriers keeping crowds moving, courtesy matters more than usual.
+- **Don't linger on the narrow viewing spots** once you've got your shot, with no barriers keeping crowds moving, courtesy matters more than usual.
 - **Skip the weekend midday crush.** With busiest hours running 7am to 6pm on weekends, a weekday visit or an after-dark climb gets you a far calmer platform and a better shot at the railing.
 
-Combine the hike with dinner at Shilin Night Market afterward — it's a ten-minute walk back down and across from the MRT station, and it makes the whole outing an easy half-day loop.
+Combine the hike with dinner at Shilin Night Market afterward. It's a ten-minute walk back down and across from the MRT station, and it makes the whole outing an easy half-day loop.

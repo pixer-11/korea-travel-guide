@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-mardi-gras-world
-srcHash: '9b68a414bb9a'
+srcHash: 'd66b33e749b7'
 title: 狂欢节世界(Mardi Gras World):新奥尔良旅行指南
 description: 狂欢节世界(Mardi Gras World)位于密西西比河沿岸，紧邻会议中心西侧，是一座常年对外开放的花车制作仓库，全年每天上午9点至下午5点半均可参观，导览团大约每小时发一次。
 quickAnswer: 狂欢节世界(Mardi Gras World)位于密西西比河沿岸，紧邻会议中心西侧，是一座常年对外开放的花车制作仓库，全年每天上午9点至下午5点半均可参观，导览团大约每小时发一次。建议预留60-90分钟，在巨型玻璃纤维人偶间漫步，观看艺术家现场创作，再加上品尝免费国王蛋糕(king cake)的时间。这里人气很旺，建议在开门后不久或午后清淡时段前往，以避开旅游大巴团客。

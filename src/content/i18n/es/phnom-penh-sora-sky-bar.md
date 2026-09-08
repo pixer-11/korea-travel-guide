@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phnom-penh-sora-sky-bar
-srcHash: 'ad83aebfdccb'
+srcHash: '81d519278153'
 title: 'Sora Sky Bar: guía de viaje de Phnom Penh'
 description: 'Sora Sky Bar en Phnom Penh, Camboya, es uno de los locales del momento: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Sora Sky Bar corona el Rosewood Phnom Penh, en los pisos superiores de la torre más alta de la ciudad, en el bulevar Sothearos (Sothearos Boulevard), y hoy es el rooftop bar del que todo el mundo habla en Camboya. Figura en la lista Asia''s 50 Best Bars 2026 y ha recibido un Sustainable Bar Award, así que hay que contar con un público elegante y con esperar mesa si no se reserva. Conviene ir a la hora del atardecer, cuando se ve la confluencia del Tonle Sap y el Mekong, y reservar con antelación: los fines de semana no es un sitio al que se pueda llegar sin más.'

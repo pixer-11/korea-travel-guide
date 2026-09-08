@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tagaytay-sky-ranch-tagaytay
-srcHash: 'ab758dccb773'
+srcHash: 'a9bcc839a037'
 title: 'Sky Ranch: Guía de viaje de Tagaytay (4,3★)'
 description: 'Sky Ranch Tagaytay es un parque de diversiones situado en lo alto de una cresta sobre la autopista Tagaytay-Nasugbu, conocido sobre todo por su gigantesca noria con vistas al lago Taal. 4,3★ (18.098 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Sky Ranch Tagaytay es un parque de diversiones situado en lo alto de una cresta sobre la autopista Tagaytay-Nasugbu, conocido sobre todo por su gigantesca noria con vistas al lago Taal. Abre de 10:00 a 22:00 entre semana y de 8:00 a 22:00 los fines de semana; para evitar las multitudes, conviene ir justo a la apertura o después de las 19:00. Reserve medio día para las atracciones, la vista del lago y una comida en alguno de sus restaurantes.

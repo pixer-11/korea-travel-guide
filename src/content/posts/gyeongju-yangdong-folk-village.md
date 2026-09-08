@@ -91,7 +91,7 @@ You're walking through someone's actual neighborhood, not a museum set. Laundry 
 
 ## Getting there
 
-Yangdong sits in Gangdong-myeon, about 16km northeast of central Gyeongju. There's no direct subway — Gyeongju itself has no metro line, so most visitors come by bus or taxi from the city center or the KTX station at Singyeongju.
+Yangdong sits in Gangdong-myeon, about 16km northeast of central Gyeongju. There's no direct subway, Gyeongju itself has no metro line, so most visitors come by bus or taxi from the city center or the KTX station at Singyeongju.
 
 Local buses run from Gyeongju's intercity bus terminal, though schedules are infrequent and worth checking the day before. A taxi from central Gyeongju takes about 25-30 minutes and is the easiest option if you're short on time or traveling with family.
 
@@ -103,31 +103,31 @@ The village climbs a low ridge shaped like the Chinese character for "mountain" 
 
 Key structures to look for:
 
-- **Gwangajeong** — a pavilion-style house with a commanding hillside view, one of the village's oldest and most photographed buildings
-- **Hyangdan** — a well-preserved tile-roofed residence with distinctive wooden latticework
-- **Seobaekdang** — the birthplace of a famous Joseon-era Confucian scholar, Yi Eon-jeok
-- **Numerous thatched huts** — still thatched by hand, still lived in
+- **Gwangajeong**, a pavilion-style house with a commanding hillside view, one of the village's oldest and most photographed buildings
+- **Hyangdan**, a well-preserved tile-roofed residence with distinctive wooden latticework
+- **Seobaekdang**, the birthplace of a famous Joseon-era Confucian scholar, Yi Eon-jeok
+- **Numerous thatched huts**, still thatched by hand, still lived in
 
-Paths are unpaved dirt and gravel, sloped in places, so wear shoes you don't mind getting dusty. There's no single "main street" — you wander a network of lanes between compounds, most of which are private homes you view from outside rather than enter.
+Paths are unpaved dirt and gravel, sloped in places, so wear shoes you don't mind getting dusty. There's no single "main street", you wander a network of lanes between compounds, most of which are private homes you view from outside rather than enter.
 
 ## When to go
 
 The village keeps regular daytime visiting hours; it's worth checking current opening times before you set out. Spring (April–May) and autumn (October–November) are the most comfortable seasons, with mild temperatures and good light for the thatched roofs and rice paddies below.
 
-Summer brings heat and humidity with little shade on the open ridge paths. Winter is quiet and stark — thatch and bare persimmon trees against grey hills — but some interiors and paths are less appealing in the cold.
+Summer brings heat and humidity with little shade on the open ridge paths. Winter is quiet and stark, thatch and bare persimmon trees against grey hills, but some interiors and paths are less appealing in the cold.
 
 Arrive by mid-morning if you want the place at its calmest, since tour groups tend to build through early afternoon.
 
 ## How to visit like a local
 
-Come on a weekday morning rather than a weekend — this is a well-known stop on the Gyeongju circuit, and weekend afternoons bring the heaviest bus traffic. Weekday mornings, right after opening, are noticeably quieter.
+Come on a weekday morning rather than a weekend. This is a well-known stop on the Gyeongju circuit, and weekend afternoons bring the heaviest bus traffic. Weekday mornings, right after opening, are noticeably quieter.
 
 A few practical notes:
 
-- Admission is a modest, separate small fee at the entrance gate — bring cash, as card acceptance at rural ticket booths can be inconsistent.
+- Admission is a modest, separate small fee at the entrance gate. Bring cash, as card acceptance at rural ticket booths can be inconsistent.
 - A shuttle cart sometimes runs from the entrance up to the main viewpoints; ask at the visitor center if walking the full loop isn't for you.
-- Remember residents actually live here — stay on marked paths, don't peer into open doorways, and keep voices down near homes.
+- Remember residents actually live here, stay on marked paths, don't peer into open doorways, and keep voices down near homes.
 - The village name, 양동마을 (Yangdong-maeul), is worth knowing if you're asking bus drivers or taxi dispatchers for directions.
-- Pair your visit with the small folk village exhibit hall near the entrance, which gives context on the clan lineages before you start walking — it makes the houses easier to place in their history once you're on the paths.
+- Pair your visit with the small folk village exhibit hall near the entrance, which gives context on the clan lineages before you start walking, it makes the houses easier to place in their history once you're on the paths.
 
 Give yourself at least two hours, three if you want to walk the full ridge and stop at Oksan Seowon afterward.

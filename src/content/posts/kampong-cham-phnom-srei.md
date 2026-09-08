@@ -79,7 +79,7 @@ updatedDate: '2026-09-06'
 
 ## Why Phnom Srei is worth the detour
 
-Phnom Srei means "Woman's Mountain," and it sits opposite its male counterpart, Phnom Pros, a few kilometers outside Kampong Cham. Locals tell a folk tale about a wager between the sexes over who could build their hill faster — the women supposedly won by trickery, which is why their mountain is smaller.
+Phnom Srei means "Woman's Mountain," and it sits opposite its male counterpart, Phnom Pros, a few kilometers outside Kampong Cham. Locals tell a folk tale about a wager between the sexes over who could build their hill faster, the women supposedly won by trickery, which is why their mountain is smaller.
 
 That backstory alone makes it worth the stop. But the real pleasure is quieter: a low hill, a modest staircase, and a view over flat green paddy fields that stretch to the Mekong.
 
@@ -89,13 +89,13 @@ Unlike bigger-name Cambodian temple sites, this one stays under the radar. You w
 
 Phnom Srei sits in Kampong Siem District, a short ride from Kampong Cham town. Most visitors arrive by rented moto, tuk-tuk, or bicycle, since there's no public bus route directly to the site.
 
-The road out is flat and easy, running past small villages and rice fields — a pleasant ride in itself if you go by bike or scooter. Expect the trip to take fifteen to twenty minutes each way from the town center.
+The road out is flat and easy, running past small villages and rice fields, a pleasant ride in itself if you go by bike or scooter. Expect the trip to take fifteen to twenty minutes each way from the town center.
 
 A tuk-tuk driver can usually be hired for a half-day loop that includes both Phnom Srei and Phnom Pros. Agree on a price before you set off, since there are no meters here.
 
 ## What you'll actually see
 
-The climb up is short — a stone staircase flanked by naga balustrades, nothing like the sweat-inducing stairs at some other Southeast Asian hilltop temples. At the top sits a small pagoda compound with resident monks and a handful of Buddha statues under tin-roofed shelters.
+The climb up is short, a stone staircase flanked by naga balustrades, nothing like the sweat-inducing stairs at some other Southeast Asian hilltop temples. At the top sits a small pagoda compound with resident monks and a handful of Buddha statues under tin-roofed shelters.
 
 Look out for:
 
@@ -104,7 +104,7 @@ Look out for:
 - Panoramic views over Kampong Cham's rice paddies and scattered sugar palms
 - Small shrines and incense stations tended by local devotees rather than staged for tourists
 
-The site itself is compact. Most visitors spend well under an hour here, which is part of the appeal — no ticket queues, no scripted tour groups, just a hill to climb and a view to sit with.
+The site itself is compact. Most visitors spend well under an hour here, which is part of the appeal, no ticket queues, no scripted tour groups, just a hill to climb and a view to sit with.
 
 ## When to go
 
@@ -116,17 +116,17 @@ The wet season, June through October, turns the surrounding fields a deeper gree
 
 Come at golden hour. Late afternoon light over the rice paddies is the payoff here, and the heat has usually broken by 4 or 5pm.
 
-Bring small bills for the informal donation box at the pagoda — there's no formal entrance fee system, but a modest contribution is customary and appreciated by the resident monks.
+Bring small bills for the informal donation box at the pagoda. There's no formal entrance fee system, but a modest contribution is customary and appreciated by the resident monks.
 
 - Keep your bag zipped and food out of sight; the macaques are used to visitors and will grab anything loose
-- Dress modestly since it's an active religious site — shoulders and knees covered
+- Dress modestly since it's an active religious site, shoulders and knees covered
 - Remove your shoes before entering any shrine building
-- Skip the feeding temptation — locals discourage hand-feeding the monkeys, as it makes them more aggressive toward the next visitor
+- Skip the feeding temptation, locals discourage hand-feeding the monkeys, as it makes them more aggressive toward the next visitor
 
-The mistake most travelers make is treating Phnom Srei as a five-minute photo stop before rushing to Phnom Pros. Slow down instead. Sit on the upper terrace for a while and watch the light change over the fields — that stillness is the actual reason to come.
+The mistake most travelers make is treating Phnom Srei as a five-minute photo stop before rushing to Phnom Pros. Slow down instead. Sit on the upper terrace for a while and watch the light change over the fields, that stillness is the actual reason to come.
 
 ## Pairing it with Phnom Pros
 
 Phnom Srei rarely gets visited alone. Its taller, more visited sibling, Phnom Pros, sits just across the road and comes with its own monkey population and a larger pagoda complex.
 
-Together they make a natural half-day loop from Kampong Cham: climb one hill, cross over, climb the other, and you've covered the full legend along with two very different atmospheres — one lively and one distinctly calmer.
+Together they make a natural half-day loop from Kampong Cham: climb one hill, cross over, climb the other, and you've covered the full legend along with two very different atmospheres, one lively and one distinctly calmer.

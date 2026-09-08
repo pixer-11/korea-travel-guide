@@ -52,7 +52,7 @@ Singapore concerts by major K-pop acts tend to draw fans flying in from Malaysia
 
 ## Getting there and getting oriented
 
-Singapore's arenas and expo halls that typically host tours of this scale sit close to the MRT network, usually a short walk from a station exit. Once the venue is officially confirmed, check which line and exit serves it directly — that detail will be in the official show listing.
+Singapore's arenas and expo halls that typically host tours of this scale sit close to the MRT network, usually a short walk from a station exit. Once the venue is officially confirmed, check which line and exit serves it directly, that detail will be in the official show listing.
 
 If you're flying in, Changi Airport connects to the city center by MRT in under an hour. Budget extra time on show day: taxi and ride-hail surge pricing is common right after doors close.
 
@@ -70,16 +70,16 @@ Do not buy from resellers or unofficial pages promising guaranteed seats. K-pop 
 
 Walk into one of these shows and the energy hits before you even find your seat: lightsticks pulsing in a synchronized wave, merch queues snaking around the building hours before doors open, and a low roar building as the house lights dim. Singapore crowds skew international, so you'll hear chants in Korean, English, Mandarin, and Bahasa all blending together.
 
-Merchandise booths typically open several hours before showtime and card payment is standard, though some booths still favor cash for smaller items. Lines for official merch move slowly — if you want a specific item, that's the first stop after entering the venue precinct, not after the show.
+Merchandise booths typically open several hours before showtime and card payment is standard, though some booths still favor cash for smaller items. Lines for official merch move slowly, if you want a specific item, that's the first stop after entering the venue precinct, not after the show.
 
 ## How to visit like a local
 
 Singaporean concertgoers treat show day like a logistics exercise, not a wander-in-late affair.
 
-- **Arrive early, but not for the reason tourists think.** Locals show up for merch and photo-op standees, not just seat-finding — doors often open well before the listed set time.
+- **Arrive early, but not for the reason tourists think.** Locals show up for merch and photo-op standees, not just seat-finding, doors often open well before the listed set time.
 - **Payment is overwhelmingly cashless.** Tap-to-pay and mobile wallets (PayNow, cards) work at most concession and merch stands in Singapore's major venues.
 - **Queue culture is real and enforced.** Singaporeans queue in orderly lines without exception; cutting in is one of the fastest ways to draw dirty looks or venue staff intervention.
-- **Public transport beats driving.** MRT trains run frequently and the last trains often get crowded with concert crowds — plan your route home before the encore, or budget for a ride-hail booking made the moment the show ends.
+- **Public transport beats driving.** MRT trains run frequently and the last trains often get crowded with concert crowds. Plan your route home before the encore, or budget for a ride-hail booking made the moment the show ends.
 - **Tipping isn't expected** anywhere in Singapore, including at the venue's food and drink stalls.
 - The mistake most first-timers make: assuming they can buy tickets or merch on the day. For a tour like TUNNEL VISION, general sale tickets typically move within minutes, and merch stock for early dates can sell out before doors even open.
 

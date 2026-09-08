@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-selamat-datang-monument
-srcHash: 'f357f2e7dbef'
+srcHash: '5ba2ee1c6ebd'
 title: 欢迎纪念碑：雅加达旅行指南（4.7星）
 description: 欢迎纪念碑（Selamat Datang Monument）矗立在雅加达中区门滕的著名交通环岛哈比比环岛（Bundaran HI）中央。4.7星（8,643条评价）——游客怎么说、开放时间与实用建议，一网打尽。
 quickAnswer: 欢迎纪念碑矗立在哈比比环岛（Bundaran HI）中央，这是雅加达中区门滕一带最有名的交通环岛。这里游人如织，也很适合拍照，傍晚时分景色最佳：喷泉灯光亮起，车流环绕四周，别有一番景致。由于游客只是站在环岛四周的人行道和广场上远观，并不会走近雕像本身，因此无需购票，也不收取任何门票。

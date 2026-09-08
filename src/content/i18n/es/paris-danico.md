@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-danico
-srcHash: 'ce75e3b7c229'
+srcHash: 'dded5764f5f9'
 title: 'Danico: guía de viaje de París'
 description: 'Danico en París, Francia: un local nuevo y de moda. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Danico es un bar de cócteles escondido en pleno centro de París que acaba de ser nombrado mejor bar de Francia en los French Bar Awards 2026, junto con sus locales hermanos The Cambridge Public House y Bar Nouveau. No es un sitio al que se entra sin más a cualquier hora, sino uno que exige reserva y algo de espíritu de descubrimiento, así que conviene confirmar el horario y la política de reservas actuales antes de ir. Lo mejor es elegir una noche entre semana, ya que la sala es pequeña y llegar temprano o reservar con antelación marca la diferencia.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chamonix-grotte-de-glace
-srcHash: 'b0a81ce195db'
+srcHash: 'bd108b5e47ea'
 title: 'Grotte de Glace: Guía de Viaje de Chamonix (4,5★)'
 description: La Grotte de Glace es una cueva de hielo excavada en el glaciar Mer de Glace, sobre Chamonix, a la que se llega en el tren de cremallera de Montenvers y luego en teleférico más un breve tramo a pie por escaleras. 4,5★ (1.315 opiniones) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'La Grotte de Glace es una cueva de hielo excavada en el glaciar Mer de Glace, sobre Chamonix, a la que se llega en el tren de cremallera de Montenvers y luego en teleférico más un breve tramo a pie por escaleras. Reserva medio día para la ida y vuelta desde el pueblo, y ve temprano o en un día de temporada media entre semana para evitar las colas del teleférico al mediodía. Lleva una capa de abrigo incluso en verano: dentro del glaciar la temperatura apenas supera los cero grados.'

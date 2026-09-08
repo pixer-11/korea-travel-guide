@@ -27,7 +27,7 @@ draft: true
 
 ## Why Daegu's Cafe Scene Stands Out
 
-Daegu doesn't get the international spotlight Seoul or Busan do, but it has quietly built one of Korea's most interesting cafe cultures, partly because the city has a genuine coffee-roasting heritage — it's often cited as a hub for specialty roasters — and partly because young entrepreneurs have converted old hanok, warehouses, and residential buildings into design-forward cafes rather than chain outlets.
+Daegu doesn't get the international spotlight Seoul or Busan do, but it has quietly built one of Korea's most interesting cafe cultures, partly because the city has a genuine coffee-roasting heritage, it's often cited as a hub for specialty roasters, and partly because young entrepreneurs have converted old hanok, warehouses, and residential buildings into design-forward cafes rather than chain outlets.
 
 The result is a scene that feels more local and less commercialized than Seoul's Instagram-cafe circuit, while still delivering the polished interiors and elaborate drinks/desserts that define "trendy" cafe culture in Korea.
 
@@ -36,7 +36,7 @@ The result is a scene that feels more local and less commercialized than Seoul's
 The two anchor areas are easy to reach by subway:
 
 - **Downtown / Dongseong-ro area**: Take Daegu Metro Line 1 to **Jungangno Station**, exits 2 or 4. This puts you steps from Dongseong-ro shopping street, Kim Kwang-seok Street (a mural-lined alley honoring the late singer), and Bongsan Culture Street, a gallery-and-antique district that has increasingly filled with minimalist cafes in converted hanok and low-rise brick buildings.
-- **Suseong-ro Cafe Street**: Take Line 3 to **Suseong Market Station** or Line 2 to **Suseong Station**, then walk toward **Suseongmot (Suseong Lake)**. The road circling the lake, often called Suseong-ro or the Suseong Lake cafe strip, is lined with multi-story cafes with lake-facing terraces and floor-to-ceiling windows — this is where Daegu locals go for a weekend coffee-and-walk combo.
+- **Suseong-ro Cafe Street**: Take Line 3 to **Suseong Market Station** or Line 2 to **Suseong Station**, then walk toward **Suseongmot (Suseong Lake)**. The road circling the lake, often called Suseong-ro or the Suseong Lake cafe strip, is lined with multi-story cafes with lake-facing terraces and floor-to-ceiling windows. This is where Daegu locals go for a weekend coffee-and-walk combo.
 
 Both areas are also reachable by city bus, but the subway is more predictable for visitors unfamiliar with local routes.
 
@@ -45,7 +45,7 @@ Both areas are also reachable by city bus, but the subway is more predictable fo
 Rather than chasing one specific address (the scene changes fast, with new openings and closures every season), plan around these concrete anchors:
 
 - **Suseong Lake loop**: about 2 km around, roughly 40-50 minutes on foot. Cafes here favor big windows and rooftop or 2nd-floor terraces overlooking the water, especially popular at sunset and during the spring cherry blossoms and autumn foliage.
-- **Bongsan Culture Street**: originally known for art galleries, framing shops, and antique dealers; now dotted with quiet, design-conscious cafes in converted traditional houses — a good contrast to the lake's more modern glass-and-concrete style.
+- **Bongsan Culture Street**: originally known for art galleries, framing shops, and antique dealers; now dotted with quiet, design-conscious cafes in converted traditional houses, a good contrast to the lake's more modern glass-and-concrete style.
 - **Kim Kwang-seok Street / Dongseong-ro**: dense, youthful, closer to street-food and shopping energy; cafes here lean toward bold interiors (industrial concrete, plant-filled atriums, retro Korean "dabang" throwbacks) aimed at photo-taking visitors.
 - **Signature things to order**: Daegu is known regionally for its coffee-roasting culture, so look for cafes advertising their own house-roasted beans rather than imported chain syrup drinks. Also worth trying: **injeolmi (rice cake) lattes**, a common Korean cafe specialty, and elaborate soft-serve or bingsu (shaved ice) desserts in summer, standard across trendy Korean cafes.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: tagaytay-taal-volcano-view
-srcHash: 'a0854aaa81c2'
+srcHash: '96936a0befaf'
 title: '탈 화산 전망대(Taal Volcano View): 타가이타이 여행 가이드 (4.8★)'
 description: 탈 화산 전망대(Taal Volcano View)는 카이바갈 사우스(Kaybagal South)의 타가이타이-나수부 하이웨이(Tagaytay-Nasugbu Highway)를 따라 있는 전망 포인트로, 주요 능선 전망대의 인파 없이 탈 화산과 그 분화구 호수를 시원하게 볼 수 있는 곳입니다. 4.8★(리뷰 111개) — 방문객들의 후기, 운영 시간, 그리고 팁을 확인하세요.
 quickAnswer: 탈 화산 전망대(Taal Volcano View)는 카이바갈 사우스(Kaybagal South)의 타가이타이-나수부 하이웨이(Tagaytay-Nasugbu Highway)를 따라 있는 전망 포인트로, 주요 능선 전망대의 인파 없이 탈 화산과 그 분화구 호수를 시원하게 볼 수 있는 곳입니다. 소수지만 열성적인 리뷰어들로부터 4.8점을 받았으며, 완전한 목적지라기보다는 20~30분 정도 들르기 좋은 곳입니다. 칼데라 위로 구름이 몰려오기 전, 맑은 하늘을 보려면 아침 일찍 방문하세요.

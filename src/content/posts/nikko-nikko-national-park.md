@@ -61,7 +61,7 @@ Beyond the lake lies Senjogahara, a high wetland plateau crossed by wooden board
 
 ## Getting there and getting around
 
-Buses run from Tobu Nikko or JR Nikko stations up to Chuzenji Onsen, Ryuzu Falls, Senjogahara, and Yumoto Onsen — the same road climbing through the Irohazaka switchbacks. Driving is an option too, though the descent's hairpin curves demand full attention.
+Buses run from Tobu Nikko or JR Nikko stations up to Chuzenji Onsen, Ryuzu Falls, Senjogahara, and Yumoto Onsen, the same road climbing through the Irohazaka switchbacks. Driving is an option too, though the descent's hairpin curves demand full attention.
 
 Budget at least a half-day if you're only seeing Kegon Falls and the lakeshore. For Senjogahara's boardwalks and Yumoto's hot springs, give yourself a full day.
 
@@ -71,7 +71,7 @@ Budget at least a half-day if you're only seeing Kegon Falls and the lakeshore. 
 
 ## What to see and do
 
-Kegon Falls is the park's signature sight, a tall column of water dropping from Lake Chuzenji's outflow into a mist-filled gorge. Standing at the lower platform, you feel the spray before you hear the roar clearly — the sound arrives late, bouncing off wet rock walls.
+Kegon Falls is the park's signature sight, a tall column of water dropping from Lake Chuzenji's outflow into a mist-filled gorge. Standing at the lower platform, you feel the spray before you hear the roar clearly, the sound arrives late, bouncing off wet rock walls.
 
 Walk the Senjogahara boardwalks in autumn and the reeds turn the color of dry straw, ringed by peaks still holding patches of early snow. In spring, new shoots push through last year's flattened grass, and the marsh smells faintly of wet earth and pine.
 
@@ -81,7 +81,7 @@ Ryuzu Falls, smaller and gentler than Kegon, splits into two cascades near a tea
 
 ## When to go
 
-The park is open 24 hours daily, but its facilities and buses run on their own schedules — check current timetables before heading up, especially outside peak seasons. Late April to May brings fresh green and blooming azaleas; mid-to-late October brings the foliage crowds, when maples and birches turn the hillsides orange and red.
+The park is open 24 hours daily, but its facilities and buses run on their own schedules. Check current timetables before heading up, especially outside peak seasons. Late April to May brings fresh green and blooming azaleas; mid-to-late October brings the foliage crowds, when maples and birches turn the hillsides orange and red.
 
 Winter transforms Yumoto into a quiet, snow-muffled retreat, though some trails and roads may close. Summer is cooler here than in Tokyo, making it a popular escape from the heat, but also the busiest season for the lake.
 
@@ -89,6 +89,6 @@ Winter transforms Yumoto into a quiet, snow-muffled retreat, though some trails 
 
 Because this is officially under-the-radar compared to Nikko's shrine circuit, you can still find real quiet here if you time it right. Arrive at Kegon Falls or Senjogahara before 9am, ahead of tour buses working through their itineraries.
 
-Pay for buses, parking, and bathhouse entry fees in cash — many smaller facilities up here don't take cards. At the onsen, follow standard Japanese bathing etiquette: wash and rinse thoroughly before entering the communal tub, and keep your towel out of the water.
+Pay for buses, parking, and bathhouse entry fees in cash. Many smaller facilities up here don't take cards. At the onsen, follow standard Japanese bathing etiquette: wash and rinse thoroughly before entering the communal tub, and keep your towel out of the water.
 
 The mistake most visitors make is treating Nikko as a single half-day trip from Tokyo and never leaving the shrine district. Stay overnight near Chuzenji or Yumoto instead, so you can catch the boardwalks and waterfalls in the soft light of early morning or early evening, once the day-trippers have headed back down Irohazaka.

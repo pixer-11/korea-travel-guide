@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-gron-coffee
-srcHash: 'b92666d41b0f'
+srcHash: '8fa2444071d6'
 title: GRŌN Coffee：伊斯坦布尔旅行指南
 description: 土耳其伊斯坦布尔新晋人气咖啡馆 GRŌN Coffee——它是什么、位于何处，以及该如何前往。
 quickAnswer: GRŌN Coffee 是一家新开业的咖啡馆，坐落在伊斯坦布尔亚洲区的卡迪科伊（Kadıköy），凭借精准的咖啡出品和兼顾健康与美味的现代菜单，已经吸引了一批忠实的本地拥趸。这里对宠物友好，氛围随性，很适合带上笔记本电脑坐一下午，最好避开周末早午餐高峰前往。由于店铺开业不久，各项信息变动较快，出发前最好先确认一下最新营业时间以及是否需要预约。

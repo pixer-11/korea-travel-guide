@@ -46,7 +46,7 @@ draft: false
 
 ## Why Shifen Old Street pulls you in
 
-You smell the scorched paper before you see it. Sky lanterns — waist-high paper cylinders on bamboo frames — hang in every shopfront, stacked in reds, yellows, blues, each panel waiting for someone's marker-penned wish.
+You smell the scorched paper before you see it. Sky lanterns, waist-high paper cylinders on bamboo frames, hang in every shopfront, stacked in reds, yellows, blues, each panel waiting for someone's marker-penned wish.
 
 Then you notice the tracks. A single railway line runs straight down the middle of the street, close enough that vendors slide their tables back when a train approaches. It's an odd, thrilling layout, and it's the reason this stretch of shophouses became famous.
 
@@ -54,22 +54,22 @@ Then you notice the tracks. A single railway line runs straight down the middle 
 
 Shifen sits on the Pingxi Line, a slow branch railway that loops through New Taipei City's old coal-mining hills. From Taipei, take the TRA to Ruifang Station, then transfer to the Pingxi Line train bound for Jingtong.
 
-Shifen Station is about six stops in, roughly 40 minutes from Ruifang. The old street begins the moment you step off the platform — there's no walk, no signage to hunt for.
+Shifen Station is about six stops in, roughly 40 minutes from Ruifang. The old street begins the moment you step off the platform. There's no walk, no signage to hunt for.
 
 Some visitors instead join a bus tour that combines Shifen with Jiufen and the Houtong Cat Village. Either way, budget a half-day round trip from central Taipei.
 
 ## What to see and do
 
-The lantern-writing is the main event. Vendors sell blank lanterns in sets of colors, each one tied to a wish category — pink for love, yellow for wealth, blue for career, and so on.
+The lantern-writing is the main event. Vendors sell blank lanterns in sets of colors, each one tied to a wish category, pink for love, yellow for wealth, blue for career, and so on.
 
 You paint your wish in black ink, vendors light the base, and you and your group hold it steady on the tracks before letting go. Watching it drift over the gorge behind the station is the money shot everyone's phone is aimed at.
 
 Beyond the lanterns:
 
-- **Shifen Waterfall** — a 20-minute walk south, Taiwan's widest waterfall, often called a mini Niagara
-- **Jingan Suspension Bridge** — a short, photogenic swaying bridge near the old street
-- **Street food** — grilled squid, stinky tofu, and sweet potato balls sold from narrow storefront counters
-- **Old Japanese-era buildings** — weathered wood-and-tile facades tucked between newer shops
+- **Shifen Waterfall**, a 20-minute walk south, Taiwan's widest waterfall, often called a mini Niagara
+- **Jingan Suspension Bridge**, a short, photogenic swaying bridge near the old street
+- **Street food**, grilled squid, stinky tofu, and sweet potato balls sold from narrow storefront counters
+- **Old Japanese-era buildings**, weathered wood-and-tile facades tucked between newer shops
 
 Spend 20 minutes on the lantern ritual, then an hour or two wandering, eating, and walking to the waterfall if your legs are up for it.
 
@@ -79,15 +79,15 @@ Shifen draws well over 50,000 reviews worth of visitors, and it shows. This is a
 
 Weekday mornings, right after the first trains arrive, are your best window before tour buses unload. Weekend afternoons and Taiwanese public holidays turn the track section into a slow shuffle, with lantern releases queued up.
 
-Trains still pass on schedule regardless of crowd size, so staff will clear the tracks periodically — expect brief waits either way.
+Trains still pass on schedule regardless of crowd size, so staff will clear the tracks periodically. Expect brief waits either way.
 
 ## How to visit like a local
 
-Buy your lantern from any stall — prices are fairly standardized, so don't worry about picking "the right one." Cash is still the easiest way to pay here; card readers are inconsistent at the smaller stalls.
+Buy your lantern from any stall. Prices are fairly standardized, so don't worry about picking "the right one." Cash is still the easiest way to pay here; card readers are inconsistent at the smaller stalls.
 
-Write your wish quickly and step back once it's lit — staff will direct you to a safe release spot on the tracks between trains. Don't linger on the rails photographing after your lantern is up; that's the top complaint from other visitors and it slows everyone down.
+Write your wish quickly and step back once it's lit. Staff will direct you to a safe release spot on the tracks between trains. Don't linger on the rails photographing after your lantern is up; that's the top complaint from other visitors and it slows everyone down.
 
 If you want a lantern-free photo of the tracks themselves, come first thing on a weekday before the stalls fully open. Locals who pass through mostly do so early, heading to Shifen Waterfall before the midday crowds arrive.
 
-Skip the multi-color "wish on every panel" upsell if you're short on time — one well-written side is plenty for the photo and the ritual itself.
+Skip the multi-color "wish on every panel" upsell if you're short on time. One well-written side is plenty for the photo and the ritual itself.
 

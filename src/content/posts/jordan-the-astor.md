@@ -101,11 +101,11 @@ You come to The Astor for volume and variety, not quiet romance. It's a sprawlin
 
 The room hums rather than roars. Cutlery clinks against porcelain, servers glide between tables clearing plates, and the smell of char siu and fried garlic drifts from the open stations near the back.
 
-It's popular for a reason — a genuinely broad spread that pulls in both hotel guests and neighborhood regulars looking for a proper sit-down meal without fuss.
+It's popular for a reason, a genuinely broad spread that pulls in both hotel guests and neighborhood regulars looking for a proper sit-down meal without fuss.
 
 ## Getting there
 
-The Astor sits at 380 Nathan Road, right in the thick of Jordan. It's a short walk from Jordan MTR Station on the Tsuen Wan Line — take Exit A or C and head north along Nathan Road, and you'll spot the hotel entrance within a few minutes.
+The Astor sits at 380 Nathan Road, right in the thick of Jordan. It's a short walk from Jordan MTR Station on the Tsuen Wan Line. Take Exit A or C and head north along Nathan Road, and you'll spot the hotel entrance within a few minutes.
 
 If you're coming from Tsim Sha Tsui, it's an easy 15–20 minute walk up Nathan Road past the Jordan night market stalls and older neon-lit shopfronts that give this stretch of Kowloon its character.
 
@@ -119,9 +119,9 @@ Think classic hotel buffet logic, executed at scale. Expect:
 - A noodle or congee counter where dishes are made to order
 - Dim sum baskets kept warm and refreshed throughout service
 - A dessert and fruit spread toward the end of the line
-- Western breakfast staples in the morning session — eggs, pastries, cereals
+- Western breakfast staples in the morning session, eggs, pastries, cereals
 
-The quality is consistent rather than flashy — this isn't a tasting-menu experience, it's about eating well and eating a lot, at a pace you control.
+The quality is consistent rather than flashy. This isn't a tasting-menu experience, it's about eating well and eating a lot, at a pace you control.
 
 ## When to go
 
@@ -129,19 +129,19 @@ Breakfast is genuinely the sweet spot here, not just for lighter crowds but for 
 
 Steer clear of Saturday and Sunday afternoons, particularly the 3pm–7pm stretch. That's when families and groups pack in for late lunch turning into early dinner, and the carving and noodle counters get their longest queues.
 
-Plan for 60 to 90 minutes at the table — long enough to work through a few rounds without feeling rushed, short enough that you're not fighting the next seating.
+Plan for 60 to 90 minutes at the table, long enough to work through a few rounds without feeling rushed, short enough that you're not fighting the next seating.
 
 ## How to visit like a local
 
-Come early and come hungry — the breakfast session rewards both. Locals treat the 7am opening as the real start of the day here, before the tour groups and hotel guests filter down.
+Come early and come hungry, the breakfast session rewards both. Locals treat the 7am opening as the real start of the day here, before the tour groups and hotel guests filter down.
 
 Payment is straightforward: card and mobile payment (Octopus, major apps) are accepted alongside cash, and tipping isn't expected beyond any service charge already added to the bill. There's no separate gratuity ritual to navigate.
 
-Since it's a well-known spot rather than a hidden one, the smartest move is timing, not secrecy — aim for the early quiet windows above rather than expecting to dodge the crowd altogether.
+Since it's a well-known spot rather than a hidden one, the smartest move is timing, not secrecy. Aim for the early quiet windows above rather than expecting to dodge the crowd altogether.
 
 The most common visitor mistake is over-plating on the first pass. Take a small first round from the roast meats and dim sum, gauge what's actually good that day, then go back for seconds of your favorites rather than piling one overloaded plate.
 
-If you're visiting with a group, ask for a table near the noodle or congee station — it means less walking back and forth and lets you order made-to-order dishes without losing your seat in a crowded room.
+If you're visiting with a group, ask for a table near the noodle or congee station, it means less walking back and forth and lets you order made-to-order dishes without losing your seat in a crowded room.
 
 ## Nearby to pair with your visit
 

@@ -102,13 +102,13 @@ updatedDate: '2026-08-30'
 
 ## Why go
 
-You come here for one thing: the view that opens up the moment the park trees part. The clock tower itself is elegant but modest — it's the cliff-edge perch beneath it that makes people stop mid-sentence.
+You come here for one thing: the view that opens up the moment the park trees part. The clock tower itself is elegant but modest. It's the cliff-edge perch beneath it that makes people stop mid-sentence.
 
 Tophane Park sits on the ridge of Bursa's old citadel (Hisar), and the ground simply drops away on one side. Below you: red rooftops, minarets, and on clear days the grey-white ridgeline of Uludağ.
 
 ## What you're actually looking at
 
-The tower itself is a slim, 15-meter neoclassical column, rebuilt in 1905 after an earlier version burned down. Cream-colored stone, a clock face on each side, a small onion-domed cap — it photographs cleanly against the sky.
+The tower itself is a slim, 15-meter neoclassical column, rebuilt in 1905 after an earlier version burned down. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky.
 
 It stands where a Byzantine watchtower and later an Ottoman gunpowder store ("tophane" means cannon foundry) once stood, which is where the neighborhood gets its name. Walk the short loop around it and you'll pass the tombs of Osman and Orhan Gazi, the first two Ottoman sultans, just steps away.
 
@@ -124,7 +124,7 @@ The park itself is open 24 hours, every day, so there's no gate schedule to plan
 
 ## When to go
 
-Because it never closes, timing here is really about crowds and light, not access. The quietest window on weekdays is 7am–10am, and on weekends it narrows to 7am–9am — arrive then and you'll likely have the railings to yourself.
+Because it never closes, timing here is really about crowds and light, not access. The quietest window on weekdays is 7am–10am, and on weekends it narrows to 7am–9am. Arrive then and you'll likely have the railings to yourself.
 
 Weekends get busy fast, with foot traffic staying heavy from 11am until as late as 11pm. If you're visiting on a Saturday or Sunday afternoon, expect tea vendors, families, and a steady stream of visitors angling for photos by the wall.
 
@@ -134,17 +134,17 @@ Late afternoon, an hour or so before sunset, is the trade-off worth making: more
 
 Give yourself a bit more time to fold this into a wider walk through Hisar.
 
-- **Tombs of Osman and Orhan Gazi** — the founding sultans of the Ottoman dynasty, a two-minute walk away.
-- **Bursa Citadel walls** — sections of the old fortress ramparts thread through the same neighborhood.
-- **Tea gardens along the ridge** — several simple çay stops sit right along the viewpoint, good for sitting with a glass of tea and just watching the city below.
-- **Ulu Cami and Koza Han** — Bursa's grand mosque and historic silk market are a 15–20 minute walk downhill, easy to combine with the tower on the same outing.
+- **Tombs of Osman and Orhan Gazi**, the founding sultans of the Ottoman dynasty, a two-minute walk away.
+- **Bursa Citadel walls**, sections of the old fortress ramparts thread through the same neighborhood.
+- **Tea gardens along the ridge**, several simple çay stops sit right along the viewpoint, good for sitting with a glass of tea and just watching the city below.
+- **Ulu Cami and Koza Han**, Bursa's grand mosque and historic silk market are a 15–20 minute walk downhill, easy to combine with the tower on the same outing.
 
 ## How to visit like a local
 
-This is a well-visited, very popular spot, so the main local skill is timing, not secrecy. Come in the early morning window — 7am–10am on weekdays, 7am–9am weekends — to beat the crowds that build steadily from mid-morning onward, especially on weekends.
+This is a well-visited, very popular spot, so the main local skill is timing, not secrecy. Come in the early morning window (7am–10am on weekdays, 7am–9am weekends) to beat the crowds that build steadily from mid-morning onward, especially on weekends.
 
 There's no ticket and no entrance gate, so there's nothing to book and nothing to pay to see the tower itself. If you buy tea or snacks from the small vendors in the park, cash is the safer bet, though card acceptance is spreading.
 
-Locals treat this less as a monument to inspect closely and more as a place to pause: a bench, a glass of tea, a look at the view, then on. The mistake visitors make is racing up, snapping a photo of the tower, and leaving — the point is the fifteen minutes you spend actually looking past it.
+Locals treat this less as a monument to inspect closely and more as a place to pause: a bench, a glass of tea, a look at the view, then on. The mistake visitors make is racing up, snapping a photo of the tower, and leaving. The point is the fifteen minutes you spend actually looking past it.
 
 Dress for a short but real uphill walk if you're coming from downtown, and wear shoes that handle cobbled, sloped lanes through the old citadel streets.

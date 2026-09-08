@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nusa-penida-diamond-beach
-srcHash: '92a25ccabe8f'
+srcHash: 'ab4dac191f88'
 title: 'Diamond Beach: Guía de viaje de Nusa Penida (4.7★)'
 description: Diamond Beach se encuentra en la costa sureste de Nusa Penida, cerca del pueblo de Pejukutan, a la que se llega bajando una empinada escalera (unos 300 escalones o más) tallada en el acantilado hasta la arena blanca y el agua turquesa. 4.7★ (9,580 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Diamond Beach se encuentra en la costa sureste de Nusa Penida, cerca del pueblo de Pejukutan, a la que se llega bajando una empinada escalera (unos 300 escalones o más) tallada en el acantilado hasta la arena blanca y el agua turquesa. Está abierta todos los días de 6am a 6pm; llega justo a la apertura o después de las 3pm para evitar la avalancha de 10am a 3pm los fines de semana. Calcula medio día si tienes en cuenta el descenso, el tiempo en la playa y la subida de vuelta.

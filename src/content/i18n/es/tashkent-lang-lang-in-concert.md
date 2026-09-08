@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-lang-lang-in-concert
-srcHash: '77c34ae56e9b'
+srcHash: '37ad45b00839'
 title: 'Lang Lang en concierto: fechas, entradas y sede (Taskent)'
 description: 'Lang Lang en concierto en Taskent, Uzbekistán, el 6 de septiembre de 2026: qué es, cuándo y dónde se celebra, y cómo organizar la visita.'
 quickAnswer: El 6 de septiembre de 2026, el célebre pianista chino Lang Lang llega a Taskent, Uzbekistán, dentro del calendario de grandes eventos culturales internacionales que organiza la ciudad. Los grandes espectáculos clásicos que recorren Uzbekistán suelen presentarse en la sala de conciertos del Conservatorio Estatal de Uzbekistán o en el Teatro Académico Estatal Bolshói, así que conviene revisar ambos lugares al buscar entradas. Antes de reservar vuelos o desplazarte por la ciudad, confirma la sede exacta, el horario y los enlaces de compra en la web oficial del promotor o del recinto.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: paris-basilique-du-sacre-c-ur-de-montmartre
-srcHash: '27fff612bcb2'
+srcHash: '79bdaacc96ff'
 title: '사크레쾨르 대성당(Basilique du Sacré-Cœur de Montmartre): 파리 여행 가이드'
 description: 사크레쾨르는 매일 오전 6시 30분부터 오후 10시 30분까지 문을 열며, 대성당 본당 입장은 무료입니다(돔과 지하 납골당은 별도의 소액 입장료가 있습니다).
 quickAnswer: 사크레쾨르는 매일 오전 6시 30분부터 오후 10시 30분까지 문을 열며, 대성당 본당 입장은 무료입니다(돔과 지하 납골당은 별도의 소액 입장료가 있습니다). 인파를 피하려면 개장 직후나 주말 오전 10시 이전에 방문하는 것이 좋습니다 — 토요일과 일요일 오전 11시 이후에는 계단과 광장이 금세 붐빕니다. 메트로 2호선을 타고 앙베르(Anvers) 역에서 내려 스탱케르크 거리(Rue de Steinkerque)를 따라 올라가거나, 생피에르 광장(Place Saint-Pierre)에서 푸니쿨라(funicular)를 타면 됩니다.

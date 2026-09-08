@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palawan-puerto-princesa-subterranean-river-national-park
-srcHash: '371676c82c31'
+srcHash: '4deee0b01792'
 title: 'Parque Nacional del Río Subterráneo de Puerto Princesa: Guía de viaje de Palawan'
 description: Reserva tu tour al Río Subterráneo de Puerto Princesa (Puerto Princesa Underground River) a través de un operador acreditado o de la oficina de turismo de Puerto Princesa antes de ir — los permisos del mismo día son limitados y suelen agotarse.
 quickAnswer: Reserva tu tour al Río Subterráneo de Puerto Princesa (Puerto Princesa Underground River) a través de un operador acreditado o de la oficina de turismo de Puerto Princesa antes de ir — los permisos del mismo día son limitados y suelen agotarse. Llega al embarcadero de Sabang lo más temprano que tu permiso lo permita (idealmente antes de las 9am), toma el paseo en bote a remo de 20 a 25 minutos hacia el sistema de cuevas de piedra caliza de 5 millas, y calcula medio día de ida y vuelta desde la ciudad, incluyendo el traslado en van o jeepney de aproximadamente 1.5 a 2 horas en cada dirección.

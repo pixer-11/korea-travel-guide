@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: san-francisco-fort-point-national-historic-site
-srcHash: '1a63bc70325a'
+srcHash: 'dacbb4cdc888'
 title: '포트 포인트 국립 사적지: 샌프란시스코 여행 가이드'
 description: 포트 포인트(Fort Point)는 금문교(Golden Gate Bridge) 남단 교대(anchorage) 바로 아래에 자리한 남북전쟁 시대의 벽돌 요새로, 목요일부터 월요일까지 오전 10시~오후 5시에 개방합니다.
 quickAnswer: 포트 포인트(Fort Point)는 금문교(Golden Gate Bridge) 남단 교대 바로 아래에 자리한 남북전쟁 시대의 벽돌 요새로, 목요일부터 월요일까지 오전 10시~오후 5시에 개방합니다(화요일, 수요일 휴무). 입장료는 무료이니 포대 갑판을 둘러보고 레인저 토크나 대포 시연을 구경하며 머리 위로 다리 상판이 울리는 소리를 느끼는 데 45~90분 정도를 잡아두세요. 가능하다면 맑고 바람이 약한 오전에 방문하는 것이 좋습니다 — 요새가 만(bay) 입구에 바로 자리해 있어서 오후가 되면 해협에서 불어오는 바람이 매섭기 때문입니다.

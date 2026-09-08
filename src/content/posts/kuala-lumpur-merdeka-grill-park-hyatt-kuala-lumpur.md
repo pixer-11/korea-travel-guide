@@ -56,19 +56,19 @@ What you can count on is the design doing a lot of the talking:
 
 ## When to go
 
-Evening is the obvious call here — the tower's height means the payoff is the city lighting up below and around you, not the daytime view alone. As a newly opened, heavily talked-about restaurant, expect strong demand on Friday and Saturday nights especially.
+Evening is the obvious call here. The tower's height means the payoff is the city lighting up below and around you, not the daytime view alone. As a newly opened, heavily talked-about restaurant, expect strong demand on Friday and Saturday nights especially.
 
-Weeknights, particularly earlier in the evening, are likely to be calmer if you want to actually hear your table conversation over the open kitchen's activity. Because this is a fresh opening, opening hours, seating times and days of operation can still shift — confirm directly with Park Hyatt Kuala Lumpur before you plan an evening around it.
+Weeknights, particularly earlier in the evening, are likely to be calmer if you want to actually hear your table conversation over the open kitchen's activity. Because this is a fresh opening, opening hours, seating times and days of operation can still shift, confirm directly with Park Hyatt Kuala Lumpur before you plan an evening around it.
 
 ## How to visit like a local
 
 Book ahead rather than walking in. New high-profile openings in KL fill their evening slots fast, especially once word spreads on local food social media, and a restaurant inside a landmark tower draws both residents and out-of-towners.
 
-Dress smart-casual to smart — this sits inside a Park Hyatt, and the design language (travertine, dark wood, low lighting) signals an upscale register rather than a casual grab-a-table steakhouse. Locals dining at hotel restaurants of this tier typically pay by card; carrying cash isn't necessary here.
+Dress smart-casual to smart, this sits inside a Park Hyatt, and the design language (travertine, dark wood, low lighting) signals an upscale register rather than a casual grab-a-table steakhouse. Locals dining at hotel restaurants of this tier typically pay by card; carrying cash isn't necessary here.
 
-Ask for a table near the open kitchen or a window if the skyline view matters to you — specify this when you reserve rather than hoping for it on arrival. The most common mistake visitors make with landmark-building restaurants is treating the view as guaranteed; confirm seating location when booking.
+Ask for a table near the open kitchen or a window if the skyline view matters to you, specify this when you reserve rather than hoping for it on arrival. The most common mistake visitors make with landmark-building restaurants is treating the view as guaranteed; confirm seating location when booking.
 
-If you want the building itself rather than just the restaurant, note that Merdeka 118 also has separate observation deck ticketing — that's a different queue and entrance from the Park Hyatt's own lobby access. Don't assume one grants entry to the other.
+If you want the building itself rather than just the restaurant, note that Merdeka 118 also has separate observation deck ticketing. That's a different queue and entrance from the Park Hyatt's own lobby access. Don't assume one grants entry to the other.
 
 ## Nearby
 

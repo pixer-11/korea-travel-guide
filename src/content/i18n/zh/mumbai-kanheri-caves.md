@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-kanheri-caves
-srcHash: '1517a90272df'
+srcHash: '6f6081eb89b1'
 title: 坎赫里石窟（Kanheri Caves）：孟买旅行指南
 description: 坎赫里石窟（Kanheri Caves）深藏于孟买北部博里瓦利（Borivali）/坎赫里（Kanheri）地区的桑贾伊·甘地国家公园（Sanjay Gandhi National Park）内，是一处拥有百余座石凿佛教洞窟的庞大遗址群，历史约有2000年之久。
 quickAnswer: 坎赫里石窟（Kanheri Caves）深藏于孟买北部博里瓦利（Borivali）/坎赫里（Kanheri）地区的桑贾伊·甘地国家公园（Sanjay Gandhi National Park）内，是一处拥有百余座石凿佛教洞窟的庞大遗址群，历史约有2000年之久。开放时间为周二至周日8am–5:30pm（周一闭馆），最清静的时段是工作日开门后的第一个小时，即8am–9am，此时旅行团和周末人潮尚未涌入。建议安排2–3小时游览，攀爬路段请穿闭口鞋，并可将其与周边森林的徒步或野生动物观光车之旅结合起来。

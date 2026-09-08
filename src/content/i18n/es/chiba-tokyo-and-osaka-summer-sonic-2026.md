@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
-srcHash: '992c82350fd6'
+srcHash: '6c8dec1a8f08'
 title: 'Summer Sonic 2026: lo que había que saber (Tokio y Osaka)'
 description: Summer Sonic 2026 estaba previsto para el 14 al 16 de agosto de 2026 en Chiba y Osaka, en la 25ª edición del festival y su primera con formato de tres días.
 quickAnswer: Summer Sonic 2026 estaba programado para el 14 al 16 de agosto de 2026, con actividad simultánea en Chiba (área de Tokio) y Osaka, en lo que marcaba el 25º aniversario del festival y su primer formato de tres días. Entre los cabezas de cartel anunciados figuraban The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa y LE SSERAFIM. Los organizadores repartieron el cartel día por día a lo largo del fin de semana y entre las dos ciudades, y algunos tipos de entrada permitían acceder tanto a Chiba como a Osaka.

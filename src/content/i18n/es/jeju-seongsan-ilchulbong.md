@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeju-seongsan-ilchulbong
-srcHash: '1c3f760287a0'
+srcHash: '40646c720f6f'
 title: 'Seongsan Ilchulbong: Guía de viaje de Jeju'
 description: Seongsan Ilchulbong ("Pico del Amanecer") es un espectacular cono de toba volcánica en la costa este de Jeju, famoso por sus vistas del amanecer desde el borde del cráter tras una caminata de 20-30 minutos.
 quickAnswer: Seongsan Ilchulbong ("Pico del Amanecer") es un espectacular cono de toba volcánica en la costa este de Jeju, famoso por sus vistas del amanecer desde el borde del cráter tras una caminata de 20-30 minutos. Conviene ir temprano para ver el amanecer y evitar las multitudes; queda a entre 1 y 1.5 horas en autobús interurbano desde la ciudad de Jeju, y combina bien con una excursión en ferry a la cercana isla de Udo.

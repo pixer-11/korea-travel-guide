@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour
-srcHash: 'c02240956060'
+srcHash: '50083c319fcd'
 title: 'U-KNOW Project 26: SCENE#1 (gira en solitario de U-Know Yunho de TVXQ): lo que hay que saber (Ciudad Ho Chi Minh)'
 description: 'U-KNOW Project 26: SCENE#1 (gira en solitario de U-Know Yunho de TVXQ) en Ciudad Ho Chi Minh, Vietnam — 19 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizar tu visita.'
 quickAnswer: La gira en solitario de U-Know Yunho, "SCENE#1", se presenta en el Military Zone 7 Indoor Stadium de Ciudad Ho Chi Minh, en el distrito de Tan Binh, el 19 de septiembre de 2026. Reserva un taxi con taxímetro o un Grab con bastante antelación al horario del show (el tráfico y las tarifas dinámicas son casi seguros), y verifica la fecha, los horarios de apertura de puertas y los detalles de las entradas en los canales oficiales antes de viajar, ya que nada de eso se ha confirmado públicamente todavía.

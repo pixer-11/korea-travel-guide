@@ -61,11 +61,11 @@ draft: false
 
 Baphuon is the temple most tour groups walk straight past. It's a three-tiered pyramid built in the mid-11th century under King Udayadityavarman II, dedicated to Shiva, and it predates the Bayon by over a century.
 
-What strikes you first is the scale of the reconstruction. French archaeologists spent decades piecing it back together using the *anastylosis* method — numbering and re-fitting tens of thousands of original sandstone blocks after the structure had partially collapsed. The result feels less polished than Angkor Wat, more raw and geological, like a hill made of carved stone rather than a finished monument.
+What strikes you first is the scale of the reconstruction. French archaeologists spent decades piecing it back together using the *anastylosis* method, numbering and re-fitting tens of thousands of original sandstone blocks after the structure had partially collapsed. The result feels less polished than Angkor Wat, more raw and geological, like a hill made of carved stone rather than a finished monument.
 
 ## Getting there and getting in
 
-Baphuon sits inside Angkor Thom, the walled city just north of Angkor Wat, roughly a 10-minute tuk-tuk ride from central Siem Reap. Most visitors reach it on foot from the Bayon, heading northwest past the Royal Palace enclosure — it's about a 5-minute walk between the two.
+Baphuon sits inside Angkor Thom, the walled city just north of Angkor Wat, roughly a 10-minute tuk-tuk ride from central Siem Reap. Most visitors reach it on foot from the Bayon, heading northwest past the Royal Palace enclosure. It's about a 5-minute walk between the two.
 
 You'll need the standard Angkor Archaeological Park pass to enter; there's no separate ticket for Baphuon. Tuk-tuk drivers know it well and usually build it into a "small circuit" itinerary alongside the Bayon, Elephant Terrace, and Terrace of the Leper King.
 
@@ -73,7 +73,7 @@ The site is open daily from 5:00 AM to 6:30 PM, so an early entry for sunrise el
 
 ## What you'll actually see
 
-The climb is the main event. A steep wooden staircase with a handrail — added for safety and noticeably less punishing than the original stone steps — takes you up the western face to the top terrace.
+The climb is the main event. A steep wooden staircase with a handrail, added for safety and noticeably less punishing than the original stone steps, takes you up the western face to the top terrace.
 
 From there, the view opens across the treetops of Angkor Thom toward the Bayon's stone faces in the distance. On the second level, look for the reclining Buddha reliefs built into the western wall centuries after the original Hindu construction, a physical record of Angkor's shift from Hinduism to Buddhism.
 
@@ -91,12 +91,12 @@ The dry season, roughly November through February, brings cooler temperatures th
 
 ## How to visit like a local
 
-Cambodians visiting Angkor generally move at their own pace rather than following a scripted circuit, and Baphuon rewards that approach — it's a stop to linger at, not rush through.
+Cambodians visiting Angkor generally move at their own pace rather than following a scripted circuit, and Baphuon rewards that approach. It's a stop to linger at, not rush through.
 
 - Pay for your Angkor Pass in US dollars or by card at the official ticket office before entering; don't buy from anyone else.
-- Wear closed shoes with real grip — the staircase is steeper and narrower than it looks from below.
+- Wear closed shoes with real grip. The staircase is steeper and narrower than it looks from below.
 - Tip tuk-tuk drivers and guides in small US dollar bills; card payment isn't an option on the road.
-- Skip the crowds by visiting after the Bayon rush, not before it — most groups do Bayon first and Baphuon second, so reverse the order.
+- Skip the crowds by visiting after the Bayon rush, not before it. Most groups do Bayon first and Baphuon second, so reverse the order.
 - Bring water and a hat; there's little shade once you're on the exposed upper terrace.
 
 The single biggest mistake visitors make is skipping Baphuon entirely because it's not on the postcard shortlist. Given its size and the effort that went into rebuilding it, it deserves more than the ten minutes most itineraries allow.

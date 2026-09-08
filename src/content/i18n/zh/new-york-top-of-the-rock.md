@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-top-of-the-rock
-srcHash: 'e4dce36e8324'
+srcHash: '21eacc1c94f6'
 title: 纽约洛克菲勒中心观景台（Top of The Rock）旅行指南（4.7★）
 description: 洛克菲勒中心（Rockefeller Center）67至70层的观景台Top of The Rock，每日8点至午夜开放（末班电梯通常约在晚上11点），8点刚开门或晚间时段人最少——尽量避开周末下午4点到8点这段人流最密集的时间。4.7★（87,214条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 洛克菲勒中心（Rockefeller Center）67至70层的观景台Top of The Rock，每日8点至午夜开放（末班电梯通常约在晚上11点），8点刚开门或晚间时段人最少——尽量避开周末下午4点到8点这段人流最密集的时间。建议提前在网上预订限时入场票；这是纽约点评数最多的观景台之一，周末下午的现场排队可能要耗掉你一个小时。

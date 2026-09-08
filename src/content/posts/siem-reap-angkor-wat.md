@@ -49,7 +49,7 @@ draft: false
 ---
 ## Why go
 
-Angkor Wat isn't just a temple — it's the largest religious monument on Earth, built in the early 12th century by King Suryavarman II. You come for the scale first: five lotus-bud towers rising over a moat nearly 200 meters wide, visible from the causeway long before you reach the entrance.
+Angkor Wat isn't just a temple. It's the largest religious monument on Earth, built in the early 12th century by King Suryavarman II. You come for the scale first: five lotus-bud towers rising over a moat nearly 200 meters wide, visible from the causeway long before you reach the entrance.
 
 Then you come for the detail. Half a kilometer of bas-relief carvings wraps the outer gallery, depicting Hindu epics, historical battles, and a churning-of-the-ocean-of-milk scene with hundreds of figures. Apsara dancers are carved into nearly every surface, some still holding traces of original paint.
 
@@ -57,7 +57,7 @@ Then you come for the detail. Half a kilometer of bas-relief carvings wraps the 
 
 Angkor Wat sits about 6 kilometers north of Siem Reap town, roughly a 15-20 minute ride. Most visitors hire a tuk-tuk driver for the day since the wider Angkor Archaeological Park spreads over hundreds of square kilometers.
 
-Tickets are sold only at the official Angkor Enterprise counter on the road toward the temples, not at the gate itself. Bring your passport — photos are taken on-site for your pass. A one-day pass covers Angkor Wat itself, but a three-day or seven-day pass makes far more sense once you factor in Bayon, Ta Prohm, and Banteay Srei.
+Tickets are sold only at the official Angkor Enterprise counter on the road toward the temples, not at the gate itself. Bring your passport, photos are taken on-site for your pass. A one-day pass covers Angkor Wat itself, but a three-day or seven-day pass makes far more sense once you factor in Bayon, Ta Prohm, and Banteay Srei.
 
 ## What to see inside
 
@@ -68,7 +68,7 @@ Budget at least half a day for the core complex. Highlights to prioritize:
 - The library buildings and cruciform terrace just past the main entrance
 - The reflecting pools on the northwest side, the classic sunrise photo spot
 
-Wear something that covers shoulders and knees — this is an active religious site, and guards do turn people away at the upper level.
+Wear something that covers shoulders and knees. This is an active religious site, and guards do turn people away at the upper level.
 
 ## When to go
 
@@ -82,11 +82,11 @@ Dry season (November to March) brings the biggest crowds but the most reliable w
 
 Angkor Wat draws huge numbers of visitors year-round, so the smart move is working around the crowds rather than hoping to avoid them entirely.
 
-- Buy your pass the afternoon before at the ticket counter — it's open into the evening and saves a pre-dawn queue
-- Skip the packed reflecting-pool sunrise and instead enter through the west gate, walk straight to the central towers, and watch the light hit the sanctuary from inside — far fewer people bother
+- Buy your pass the afternoon before at the ticket counter. It's open into the evening and saves a pre-dawn queue
+- Skip the packed reflecting-pool sunrise and instead enter through the west gate, walk straight to the central towers, and watch the light hit the sanctuary from inside, far fewer people bother
 - Pay your tuk-tuk driver in US dollars, cash, in small bills; card payment isn't standard for informal transport
 - Tip guides and drivers modestly at the end of the day rather than upfront
-- Remove shoes before climbing to the upper sanctuary, and keep voices low near monks or active prayer areas — this remains a working Buddhist site, not a museum
+- Remove shoes before climbing to the upper sanctuary, and keep voices low near monks or active prayer areas, this remains a working Buddhist site, not a museum
 
 The most common tourist mistake is treating Angkor Wat as a quick photo stop. It rewards a slow, full morning, ideally paired with Angkor Thom's Bayon temple in the same trip since they're only about a 20-minute drive apart.
 
@@ -94,8 +94,8 @@ The most common tourist mistake is treating Angkor Wat as a quick photo stop. It
 
 Once inside the park boundary, it's inefficient to visit only Angkor Wat. Consider:
 
-- **Bayon**, in Angkor Thom, famous for its stone faces — about 20 minutes by tuk-tuk
-- **Ta Prohm**, the jungle-strangled temple made famous by *Tomb Raider* — 15 minutes further
+- **Bayon**, in Angkor Thom, famous for its stone faces, about 20 minutes by tuk-tuk
+- **Ta Prohm**, the jungle-strangled temple made famous by *Tomb Raider*, 15 minutes further
 - **Banteay Srei**, a smaller pink sandstone temple with the finest carving detail, about 40 minutes out
 
 Most drivers offer a standard "small circuit" route covering Angkor Wat, Bayon, and Ta Prohm in a single day, which is the most efficient way to see the highlights without doubling back.

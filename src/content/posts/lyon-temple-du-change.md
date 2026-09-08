@@ -59,13 +59,13 @@ Constructed in the 1740s as Lyon's silk-trading exchange, the building has a sev
 
 You're in the Presqu'île's old quarter, on Place du Change, a few steps from the Saône.
 
-The nearest metro is Vieux Lyon station on Line D — about a five-minute walk through the covered traboules and narrow lanes of the Renaissance district. If you're already exploring Rue Saint-Jean or Rue du Boeuf, you'll pass within a block or two without trying.
+The nearest metro is Vieux Lyon station on Line D, about a five-minute walk through the covered traboules and narrow lanes of the Renaissance district. If you're already exploring Rue Saint-Jean or Rue du Boeuf, you'll pass within a block or two without trying.
 
 ## What to see inside
 
 The building's past as an exchange still shows in its bones.
 
-Look up: the wooden gallery ringing the upper level was designed for merchants conducting business, not congregants at prayer. Sunlight comes in through tall arched windows, giving the pale stone and timber a soft, even glow rather than the coloured hush of stained glass. There's no ornate altar or gilding here — the plainness is the point, a marker of Protestant worship in a city long dominated by Catholic churches.
+Look up: the wooden gallery ringing the upper level was designed for merchants conducting business, not congregants at prayer. Sunlight comes in through tall arched windows, giving the pale stone and timber a soft, even glow rather than the coloured hush of stained glass. There's no ornate altar or gilding here. The plainness is the point, a marker of Protestant worship in a city long dominated by Catholic churches.
 
 Give it 15 to 20 minutes. It's a small space, but an unusual one, and worth reading the panels inside that explain the swap from ledger books to hymnals.
 
@@ -77,25 +77,25 @@ It's open only:
 - **Saturday**, 3:00–6:00 PM
 - **Sunday**, 10:00–12:30 PM
 
-Closed the rest of the week. Because the opening window is so narrow, check the schedule before you build your day around it — a wasted trip here is easy to avoid with five minutes of planning.
+Closed the rest of the week. Because the opening window is so narrow, check the schedule before you build your day around it. A wasted trip here is easy to avoid with five minutes of planning.
 
 ## How to visit like a local
 
 Locals treat this as a quiet architectural curiosity rather than a must-see stop, and that's exactly the right approach.
 
-- **Timing:** Go early in the Saturday window (soon after 3pm) or right at Sunday opening — both slots are short, so arriving late can mean rushing.
+- **Timing:** Go early in the Saturday window (soon after 3pm) or right at Sunday opening. Both slots are short, so arriving late can mean rushing.
 - **Entry:** There's typically no ticket booth or fee to worry about; it functions as an active place of worship, so keep voices low and phones away, especially if a service is in progress on Sunday morning.
-- **Payment:** Bring small change anyway — many small churches in Lyon keep a donation box near the door, and it's customary to leave a coin or two if you can.
+- **Payment:** Bring small change anyway, many small churches in Lyon keep a donation box near the door, and it's customary to leave a coin or two if you can.
 - **Etiquette:** Dress modestly, as you would for any working church, and avoid visiting mid-service unless you plan to sit quietly at the back.
 - **The mistake to avoid:** Assuming it keeps regular museum-style hours. Most visitors who miss it do so because they show up on a weekday.
 
-Because it's still under most tourists' radar, you can usually take your time here without jostling for space — a rarity in this densely visited part of Vieux Lyon.
+Because it's still under most tourists' radar, you can usually take your time here without jostling for space, a rarity in this densely visited part of Vieux Lyon.
 
 ## Nearby, while you're in the area
 
 Pair the visit with a loop through the surrounding streets rather than treating it as a standalone stop.
 
-- **Place du Change** itself is worth a slow circle — note the surrounding Renaissance townhouses.
+- **Place du Change** itself is worth a slow circle. Note the surrounding Renaissance townhouses.
 - **Rue du Boeuf** and **Rue Saint-Jean** are a two-minute walk, lined with traboules, bouchons, and small shops.
 - **Cathédrale Saint-Jean-Baptiste** is a short stroll south along the river side of the old town.
 - The **funicular up to Fourvière** is easily reachable from Vieux Lyon station if you want to extend the afternoon with a hilltop view over the city.

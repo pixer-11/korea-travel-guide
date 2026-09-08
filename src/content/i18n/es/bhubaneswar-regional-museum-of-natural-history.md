@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-regional-museum-of-natural-history
-srcHash: 'bb7875b597b8'
+srcHash: '74ac11b0335b'
 title: 'Museo Regional de Historia Natural: Guía de viaje de Bhubaneswar'
 description: El Museo Regional de Historia Natural se encuentra en Sachivalaya Marg, en Acharya Vihar, justo al lado del Planetario Pathani Samanta, y abre de 10am a 6pm todos los días excepto los lunes.
 quickAnswer: El Museo Regional de Historia Natural se encuentra en Sachivalaya Marg, en Acharya Vihar, justo al lado del Planetario Pathani Samanta, y abre de 10am a 6pm todos los días excepto los lunes. Calcula entre 90 minutos y dos horas para recorrer las galerías, el vivario y el jardín botánico para personas con discapacidad visual, y trata de llegar temprano o un día entre semana por la tarde, ya que los fines de semana se llena entre las 11am y las 6pm. La entrada es económica, pero conviene confirmar el precio actual en la taquilla, ya que suele cambiar.

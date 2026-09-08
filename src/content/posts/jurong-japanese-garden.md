@@ -88,7 +88,7 @@ updatedDate: '2026-09-06'
 
 You come here for the quiet, not for a checklist of sights. Japanese Garden sits on its own island in Jurong Lake Gardens, linked by a short causeway that already slows your pace before you've read a single sign.
 
-Inside, gravel paths wind past clipped pines, stone lanterns and a still pond that mirrors whatever clouds happen to be passing. It's a small park — you can walk the whole loop in under an hour — but it rewards lingering rather than covering ground.
+Inside, gravel paths wind past clipped pines, stone lanterns and a still pond that mirrors whatever clouds happen to be passing. It's a small park, you can walk the whole loop in under an hour, but it rewards lingering rather than covering ground.
 
 ## What you'll actually see
 
@@ -96,7 +96,7 @@ The layout follows classical Japanese garden principles: asymmetry, borrowed sce
 
 Benches are tucked into shaded corners facing the pond, clearly placed for sitting rather than passing through. Look for the koi drifting near the bridge pilings and the raked-gravel sections meant to be viewed, not walked on.
 
-There's no single "main attraction" — the pond itself, ringed by pines and the occasional heron, is the draw.
+There's no single "main attraction", the pond itself, ringed by pines and the occasional heron, is the draw.
 
 ## Getting there
 
@@ -106,7 +106,7 @@ Driving is straightforward too, with parking near the Chinese Garden side; from 
 
 ## When to go
 
-The park runs 5:30am to midnight every day, which is unusually generous for a Singapore green space. Early morning is genuinely rewarding here — soft light on the water, joggers rather than crowds, and cooler air before the humidity builds.
+The park runs 5:30am to midnight every day, which is unusually generous for a Singapore green space. Early morning is genuinely rewarding here, soft light on the water, joggers rather than crowds, and cooler air before the humidity builds.
 
 Weekends tend to be busier, so if you want the place to yourself, aim for a weekday morning or slip in after dinner for a quiet evening walk. Late afternoon light through the pines is worth timing your visit around if photography matters to you.
 
@@ -114,12 +114,12 @@ Weekends tend to be busier, so if you want the place to yourself, aim for a week
 
 This is still a quiet corner of Jurong Lake Gardens, not a tourist circuit stop, so treat it the way nearby residents do: as a place to walk, not a photo-op to tick off.
 
-- **Go early or late** — before 8am or after 6pm avoids the weekend peak and gives you the softest light.
-- **No entry fee** — so there's no ticket line or booking to worry about.
-- **Stay on the paths** — the raked gravel and moss beds are for viewing, not walking on; locals are strict about this unspoken rule.
-- **Bring water, not food** — there are few vendors inside, and eating spots are limited, so treat it as a walk-and-leave stop.
-- **Combine it with Chinese Garden** — most regulars walk both in one visit since they share the same lake and entrance area.
-- **Keep noise down** — the appeal here is stillness; groups tend to speak quietly out of habit rather than any posted rule.
+- **Go early or late**, before 8am or after 6pm avoids the weekend peak and gives you the softest light.
+- **No entry fee**, so there's no ticket line or booking to worry about.
+- **Stay on the paths**. The raked gravel and moss beds are for viewing, not walking on; locals are strict about this unspoken rule.
+- **Bring water, not food**. There are few vendors inside, and eating spots are limited, so treat it as a walk-and-leave stop.
+- **Combine it with Chinese Garden**, most regulars walk both in one visit since they share the same lake and entrance area.
+- **Keep noise down**. The appeal here is stillness; groups tend to speak quietly out of habit rather than any posted rule.
 
 The most common mistake visitors make is rushing through in fifteen minutes because they've mistaken it for a quick photo stop. Slow down, sit by the pond for a few minutes, and let the place do what it's designed to do.
 
@@ -127,4 +127,4 @@ The most common mistake visitors make is rushing through in fifteen minutes beca
 
 There's no admission fee and no fixed closing gate check, but the midnight closing time is more relevant to joggers and evening strollers than daytime visitors. Toilets and shaded rest areas exist near the entrance, though facilities are basic compared to bigger Singapore parks.
 
-Mosquito repellent is worth carrying, especially near the pond edges at dusk. Wear light, breathable clothing — there's little escape from the humidity once you're away from the taller pines, and shade is intermittent rather than constant along the loop.
+Mosquito repellent is worth carrying, especially near the pond edges at dusk. Wear light, breathable clothing. There's little escape from the humidity once you're away from the taller pines, and shade is intermittent rather than constant along the loop.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nha-trang-nha-he-coffee-shop
-srcHash: '6d41191b3871'
+srcHash: 'cb6a9a8e340d'
 title: Nha He Coffee Shop：芽庄旅行指南
 description: Nha He Coffee Shop 是一家氛围悠闲、绿植环绕的咖啡馆，藏身于芽庄市中心 Nguyễn Thiện Thuật 街 120/8 号的小巷内，从海滨酒店区步行或搭乘便宜的 Grab 车即可轻松抵达。
 quickAnswer: Nha He Coffee Shop 是一家氛围悠闲、绿植环绕的咖啡馆，藏身于芽庄市中心 Nguyễn Thiện Thuật 街 120/8 号的小巷内，从海滨酒店区步行或搭乘便宜的 Grab 车即可轻松抵达。建议工作日上午前往，抢占花园庭院里的座位，点一杯越南风味的鸡蛋咖啡或椰子咖啡，预留一两个小时慢慢享受这份悠闲节奏。这里支持现金和刷卡，消费不贵（价位约为 2 级），凭借 1,250 多条评价、4.8 分的好评积累了一批忠实拥趸。

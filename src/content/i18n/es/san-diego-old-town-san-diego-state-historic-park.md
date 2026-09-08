@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-diego-old-town-san-diego-state-historic-park
-srcHash: '7579bbb47e23'
+srcHash: 'ce2794efd376'
 title: 'Parque Histórico Estatal Old Town San Diego: guía de viaje (4.7★)'
 description: 'Old Town San Diego State Historic Park es un barrio histórico del siglo XIX, gratuito y al aire libre, con edificios de adobe, museos y restaurantes mexicanos, abierto todos los días de 10:00 a 17:00. 4.7★ (31.730 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Old Town San Diego State Historic Park es un barrio histórico del siglo XIX, gratuito y al aire libre, con edificios de adobe, museos y restaurantes mexicanos, abierto todos los días de 10:00 a 17:00. Conviene ir un día de semana entre las 10:00 y el mediodía para evitar las aglomeraciones, ya que las tardes de fin de semana (de 12:00 a 17:00) se llenan de gente. Calcula entre dos y tres horas para la visita, y aprovecha para comer tacos en San Diego Avenue.

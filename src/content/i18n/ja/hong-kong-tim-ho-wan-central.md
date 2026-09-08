@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: hong-kong-tim-ho-wan-central
-srcHash: 'fef20671dfef'
+srcHash: '5a52db46ba74'
 title: 添好運(セントラル店):香港で食べるべき店
 description: セントラルの添好運(Tim Ho Wan)は香港駅(Hong Kong Station)MTR構内(Shop 12A & 12B、Level 1)にあり、毎日9時~21時営業。エアポートエクスプレス利用前後に、地上に出ることなく食事ができます。
 quickAnswer: セントラルの添好運(Tim Ho Wan)は香港駅(Hong Kong Station)MTR構内(Shop 12A & 12B、Level 1)にあり、毎日9時~21時営業。エアポートエクスプレス利用前後に、地上に出ることなく食事ができます。開店直後、週末なら10時前を狙いましょう。11時を過ぎると整理券発行機を使うのが唯一まともな入店方法となり、行列は19時まで続きます。何を頼むにせよ、焼き叉焼包(チャーシューパイ)と腸粉は必ず注文を。ここは今も財布に優しい、現金・カード対応の飲茶であり、20~40分あれば十分に一食楽しめます。

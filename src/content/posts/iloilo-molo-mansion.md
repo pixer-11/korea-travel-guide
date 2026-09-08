@@ -97,7 +97,7 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-You spot the mansion before you reach it — a pale, wide-eaved silhouette rising behind a low fence on Locsin Street, its wooden shutters and capiz windows catching the afternoon glare. This is the Yusay-Consing Mansion, better known now as Molo Mansion, and stepping through its gate feels like crossing out of the traffic noise of Molo district into someone's parlor from a century ago.
+You spot the mansion before you reach it, a pale, wide-eaved silhouette rising behind a low fence on Locsin Street, its wooden shutters and capiz windows catching the afternoon glare. This is the Yusay-Consing Mansion, better known now as Molo Mansion, and stepping through its gate feels like crossing out of the traffic noise of Molo district into someone's parlor from a century ago.
 
 The building dates to the early 1900s, built for a prominent Chinese-Filipino trading family. Its bones are pure turn-of-the-century Iloilo: hardwood floors that creak underfoot, tall ceilings meant to catch a cross-breeze, a grand staircase that still anchors the entry hall. Restoration work has kept the frame and detailing largely intact while opening the ground floor to visitors.
 
@@ -106,7 +106,7 @@ The building dates to the early 1900s, built for a prominent Chinese-Filipino tr
 Don't expect a roped-off museum. The mansion now runs as a working café and gift shop, so you're welcome to sit, order, and linger.
 
 - A café serving coffee, pastries, and light Filipino meals, often in the shaded garden courtyard out back
-- A souvenir shop stocked with locally made goods — woven textiles, ceramics, and small handicrafts from Panay artisans
+- A souvenir shop stocked with locally made goods, woven textiles, ceramics, and small handicrafts from Panay artisans
 - Original architectural details throughout: capiz shell windows, wide plank flooring, carved wood trim
 
 Most visitors spend somewhere between 45 minutes and an hour and a half, longer if you settle in for a full meal.
@@ -115,7 +115,7 @@ Most visitors spend somewhere between 45 minutes and an hour and a half, longer 
 
 Molo Mansion sits at 2 Locsin St in Katilingban, Molo, about 15–20 minutes by tricycle or car from central Iloilo City. Molo is one of the city's oldest districts, and the mansion is an easy add-on to a visit to Molo Church (Sto. Domingo Parish), a five-minute walk away and one of the country's few gothic-renaissance churches.
 
-Grab a tricycle from the city center or arrange a car through your hotel — there's no direct jeepney route worth memorizing, and taxis or ride-hailing apps are the simplest option if you're not up for haggling a tricycle fare.
+Grab a tricycle from the city center or arrange a car through your hotel. There's no direct jeepney route worth memorizing, and taxis or ride-hailing apps are the simplest option if you're not up for haggling a tricycle fare.
 
 ## When to go
 
@@ -127,7 +127,7 @@ Try to avoid weekend afternoons from 3pm to 7pm, when tour groups and family out
 
 ## Why it's worth the stop
 
-Molo itself carries a layered history — it was once a distinct town with its own Chinese-Filipino merchant class before being absorbed into Iloilo City — and the mansion is one of the clearest surviving traces of that era's wealth and taste. Unlike a formal heritage museum, it doesn't ask you to view from a distance. You order a coffee, sit in a room where a family once hosted dinners, and the house does its own explaining through the woodwork.
+Molo itself carries a layered history, it was once a distinct town with its own Chinese-Filipino merchant class before being absorbed into Iloilo City, and the mansion is one of the clearest surviving traces of that era's wealth and taste. Unlike a formal heritage museum, it doesn't ask you to view from a distance. You order a coffee, sit in a room where a family once hosted dinners, and the house does its own explaining through the woodwork.
 
 ## How to visit like a local
 
@@ -136,7 +136,7 @@ Molo Mansion is well-known on the Iloilo circuit now, not a quiet secret, so pla
 - Go weekday late morning (10am–1pm) or Sunday soon after the 9am opening for the emptiest rooms
 - Pair it with Molo Church and the nearby Molo Plaza for a half-day heritage walk in one district
 - Card and mobile payment are generally accepted at the café and shop, but carry small cash for tricycle fares
-- Ask staff which rooms are open that day — the mansion sometimes hosts private events that close off sections
+- Ask staff which rooms are open that day, the mansion sometimes hosts private events that close off sections
 - The common tourist mistake is treating it as a quick photo stop; the café is genuinely worth sitting down for, not just a courtyard backdrop
 
 Confirm current hours before visiting, especially around holidays, since heritage sites like this occasionally adjust schedules for events.

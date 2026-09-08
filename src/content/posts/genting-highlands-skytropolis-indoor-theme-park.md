@@ -89,7 +89,7 @@ updatedDate: '2026-09-02'
 
 ## Why Skytropolis exists
 
-You step off the cable car at Genting Highlands and the air is cool, sometimes fogged in cloud. Skytropolis is the resort's answer to that unpredictable mountaintop weather — an entire theme park moved indoors.
+You step off the cable car at Genting Highlands and the air is cool, sometimes fogged in cloud. Skytropolis is the resort's answer to that unpredictable mountaintop weather, an entire theme park moved indoors.
 
 Housed under the barrel-vaulted glass roof of First World Plaza, it swaps the usual open-air midway for air-conditioned corridors and a painted "sky" ceiling that shifts from dawn blue to sunset orange as you wander between rides.
 
@@ -97,7 +97,7 @@ Housed under the barrel-vaulted glass roof of First World Plaza, it swaps the us
 
 Skytropolis occupies Level 1 of First World Plaza, inside Resorts World Genting. If you've arrived by the Genting Skyway cable car from Gohtong Jaya, it's a short, mostly indoor walk through the plaza's shopping concourse to reach it.
 
-Drivers coming up the hill park in the resort's multi-level car parks and follow signs into First World Plaza. Because it's fully enclosed, you never need to step outside once you're in the complex — useful when the summit is wrapped in cloud, as it often is by afternoon.
+Drivers coming up the hill park in the resort's multi-level car parks and follow signs into First World Plaza. Because it's fully enclosed, you never need to step outside once you're in the complex, useful when the summit is wrapped in cloud, as it often is by afternoon.
 
 ## What's inside
 
@@ -110,15 +110,15 @@ Expect to find:
 - Cable-car-style rides gliding above the main floor
 - Arcade games and ticket-redemption booths scattered between attractions
 
-The ceiling's projected sky and the surrounding faux-cityscape facades give the whole level a stage-set feel — you're aware it's indoors, but the scale of the domed hall keeps it from feeling cramped.
+The ceiling's projected sky and the surrounding faux-cityscape facades give the whole level a stage-set feel. You're aware it's indoors, but the scale of the domed hall keeps it from feeling cramped.
 
 ## When to go
 
 Skytropolis runs 11am to 9pm most days, staying open until 10pm on Saturdays. Weekday mornings right at opening tend to be calmest, before school groups and day-trippers from Kuala Lumpur arrive around midday.
 
-Weekends and Malaysian school holidays bring the heaviest crowds, especially from early afternoon onward. If you can only visit on a Saturday, use that extra evening hour — after 7pm the queues for the bigger rides noticeably thin out as families head to dinner.
+Weekends and Malaysian school holidays bring the heaviest crowds, especially from early afternoon onward. If you can only visit on a Saturday, use that extra evening hour, after 7pm the queues for the bigger rides noticeably thin out as families head to dinner.
 
-Because everything is indoor, there's no bad-weather excuse to skip it — it's actually the better plan on days when the Highlands are socked in fog or rain.
+Because everything is indoor, there's no bad-weather excuse to skip it. It's actually the better plan on days when the Highlands are socked in fog or rain.
 
 ## How to visit like a local
 
@@ -128,13 +128,13 @@ Genting regulars treat Skytropolis as a rainy-day or crowd-avoidance move rather
 - **Skip the midday scrum**: arrive at 11am opening or return after 7pm, when families with young kids start winding down.
 - **Don't skip Saturday's extra hour**: the 10pm close gives you a genuine late-evening window with shorter lines.
 - **Combine, don't rush**: since it sits inside First World Plaza, pair a couple of hours here with the shopping arcade or a meal, rather than treating it as a standalone half-day trip.
-- **Mistake to avoid**: tourists often show up right after lunch expecting a quiet park — that's actually peak crowd time, since it overlaps with checkout traffic and day-tour bus arrivals.
+- **Mistake to avoid**: tourists often show up right after lunch expecting a quiet park. That's actually peak crowd time, since it overlaps with checkout traffic and day-tour bus arrivals.
 
-Because Skytropolis is a well-known, heavily visited part of the resort rather than a niche find, the smart move isn't seeking it out as a secret — it's simply timing your visit to dodge the peak.
+Because Skytropolis is a well-known, heavily visited part of the resort rather than a niche find, the smart move isn't seeking it out as a secret. It's simply timing your visit to dodge the peak.
 
 ## Nearby to pair with your visit
 
-First World Plaza itself is worth lingering in — it's the connective hub for much of Resorts World Genting, with shops, food courts, and access points to the Skyway cable car station.
+First World Plaza itself is worth lingering in. It's the connective hub for much of Resorts World Genting, with shops, food courts, and access points to the Skyway cable car station.
 
 If you want outdoor air after the enclosed park, the open-air attractions and viewing areas elsewhere on the Genting Highlands summit are a short walk away, weather permitting.
 

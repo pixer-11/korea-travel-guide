@@ -45,13 +45,13 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Nothing else in Japan's summer festival calendar quite matches the scale of the nebuta floats. These are not paper lanterns — they're room-sized, wire-framed, washi-paper sculptures of snarling warriors, deities, and kabuki figures, lit from within and rolled through the streets after dark so the whole thing glows like a lantern the size of a bus. Add a few thousand haneto dancers in bright orange-and-gold costumes hopping and chanting "rassera, rassera," plus taiko drums and flutes bouncing off the buildings, and you get one of the loudest, most physically overwhelming festival nights in the country.
+Nothing else in Japan's summer festival calendar quite matches the scale of the nebuta floats. These are not paper lanterns. They're room-sized, wire-framed, washi-paper sculptures of snarling warriors, deities, and kabuki figures, lit from within and rolled through the streets after dark so the whole thing glows like a lantern the size of a bus. Add a few thousand haneto dancers in bright orange-and-gold costumes hopping and chanting "rassera, rassera," plus taiko drums and flutes bouncing off the buildings, and you get one of the loudest, most physically overwhelming festival nights in the country.
 
 It's the kind of event that makes sense of why Aomori's tourism identity is built almost entirely around one week in August.
 
 ## Getting there
 
-Aomori City sits at the northern tip of Honshu, reachable by Tohoku/Hokkaido Shinkansen to Shin-Aomori Station, then a short local train ride into central Aomori Station — the festival's parade route runs right through downtown, an easy walk from the station. From Tokyo, the shinkansen trip runs roughly 3–3.5 hours. During festival week, trains and hotels in and around Aomori fill up fast, and rooms and shinkansen seats go early; some visitors base themselves in nearby Hirosaki or on Aomori's outskirts and day-trip in.
+Aomori City sits at the northern tip of Honshu, reachable by Tohoku/Hokkaido Shinkansen to Shin-Aomori Station, then a short local train ride into central Aomori Station. The festival's parade route runs right through downtown, an easy walk from the station. From Tokyo, the shinkansen trip runs roughly 3–3.5 hours. During festival week, trains and hotels in and around Aomori fill up fast, and rooms and shinkansen seats go early; some visitors base themselves in nearby Hirosaki or on Aomori's outskirts and day-trip in.
 
 ## What to see
 
@@ -65,12 +65,12 @@ The festival was set for August 2–7, 2026. Early evenings in the first few day
 
 ## How to visit like a local
 
-Free standing-room viewing is possible along much of the parade route, but locals who want a guaranteed spot stake out curbside space well before the parade start — many bring something to sit on, since it means a long stretch on the pavement. Paid seating exists in bleacher sections and goes early; for anyone who wants to sit rather than stand, that's the piece to sort out first.
+Free standing-room viewing is possible along much of the parade route, but locals who want a guaranteed spot stake out curbside space well before the parade start. Many bring something to sit on, since it means a long stretch on the pavement. Paid seating exists in bleacher sections and goes early; for anyone who wants to sit rather than stand, that's the piece to sort out first.
 
-Cash still gets used heavily at festival food stalls (yatai) lining the streets, and card payment isn't a given. Haneto costumes can typically be rented on the day and anyone is allowed to dance in the parade — it's one of the few big Japanese festivals where spectators are actively invited to jump in.
+Cash still gets used heavily at festival food stalls (yatai) lining the streets, and card payment isn't a given. Haneto costumes can typically be rented on the day and anyone is allowed to dance in the parade. It's one of the few big Japanese festivals where spectators are actively invited to jump in.
 
 The etiquette mistake first-timers make is treating it like a static show: floats and dancers move continuously and crowds shift with them, and blocking a handler's sightline near a float can get you moved along by staff. Evenings are hot and humid, and the crowds are dense enough that small children or anyone uncomfortable in tight spaces do better at the edges of the route than in the center near the floats.
 
 ## Nearby to pair with your trip
 
-Aomori City makes a natural base for exploring Aomori Prefecture beyond the festival — Hirosaki, roughly 40 minutes away by train, has its own castle park and a quieter, more traditional feel, while Lake Towada and the Oirase Gorge are popular half-day or full-day trips for travelers extending a stay around the festival dates.
+Aomori City makes a natural base for exploring Aomori Prefecture beyond the festival, Hirosaki, roughly 40 minutes away by train, has its own castle park and a quieter, more traditional feel, while Lake Towada and the Oirase Gorge are popular half-day or full-day trips for travelers extending a stay around the festival dates.

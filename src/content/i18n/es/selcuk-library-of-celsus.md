@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-library-of-celsus
-srcHash: '0369efa09ac7'
+srcHash: 'a7964244eac2'
 title: 'Biblioteca de Celso: Guía de Viaje de Selçuk (4,8★)'
 description: 'La Biblioteca de Celso es la fachada de mármol de dos pisos que corona el corazón de Éfeso, y conviene organizar la visita en torno a ella: lo ideal es llegar a la apertura, a las 8:00, o los fines de semana antes de las 10:00, para verla antes de que los autobuses turísticos colmen la explanada. 4,8★ (10.595 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Biblioteca de Celso es la fachada de mármol de dos pisos que corona el corazón de Éfeso, y conviene organizar la visita en torno a ella: lo ideal es llegar a la apertura, a las 8:00, o los fines de semana antes de las 10:00, para verla antes de que los autobuses turísticos colmen la explanada. Se puede entrar tanto por la puerta superior (Puerta de Magnesia) como por la inferior (calle del Puerto), y conviene reservar medio día completo para recorrer todo el yacimiento de Éfeso. Los fines de semana el lugar se satura entre las 11:00 y las 17:00: conviene evitar esa franja si es posible.'

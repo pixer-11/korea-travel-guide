@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-public-pier
-srcHash: 'aa5b206ef455'
+srcHash: '412fc88bf09e'
 title: 'Muelle Público de Sai Kung: Guía de Viaje (4.1★)'
 description: El Muelle Público de Sai Kung es el centro costero de la localidad de Sai Kung, donde operadores de sampanas y lanchas rápidas llevan a los visitantes a islas y playas cercanas, y los tanques de marisco vivo bordean el paseo marítimo. 4.1★ (9,368 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Muelle Público de Sai Kung (Sai Kung Public Pier) es el centro costero de la localidad de Sai Kung, donde operadores de sampanas y lanchas rápidas llevan a los visitantes a islas y playas cercanas, y los tanques de marisco vivo bordean el paseo marítimo. Está abierto las 24 horas, pero el mejor momento para ir es a última hora de la mañana en un día de semana, antes de que los barcos turísticos se llenen con las multitudes del fin de semana. Reserva entre 15 y 30 minutos para el muelle en sí, más el tiempo que dure tu paseo en barco o tu cena de marisco.

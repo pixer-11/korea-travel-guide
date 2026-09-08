@@ -89,7 +89,7 @@ updatedDate: '2026-08-30'
 
 Most of Cappadocia's cave sites feel curated. Zelve doesn't.
 
-You're walking into a village that people actually lived in until 1924, when the last residents — Christian and Muslim families who'd shared these cliffs for centuries — were relocated because the rock had become too unstable. What's left are three converging valleys pocked with carved-out homes, stables, a mosque, and chapels, all abandoned mid-life and left to crumble at their own pace.
+You're walking into a village that people actually lived in until 1924, when the last residents, Christian and Muslim families who'd shared these cliffs for centuries, were relocated because the rock had become too unstable. What's left are three converging valleys pocked with carved-out homes, stables, a mosque, and chapels, all abandoned mid-life and left to crumble at their own pace.
 
 There's no reconstruction here, no polish. That's the appeal.
 
@@ -111,7 +111,7 @@ Highlights include:
 - Pigeon houses carved high into the cliff faces, once used to collect droppings for fertilizer
 - Collapsed dwellings and staircases that go nowhere, evidence of the erosion that forced the evacuation
 
-Bring a flashlight or use your phone's if you plan to go deep into the darker chambers — some interiors have no natural light at all.
+Bring a flashlight or use your phone's if you plan to go deep into the darker chambers. Some interiors have no natural light at all.
 
 ## When to go
 
@@ -121,13 +121,13 @@ Both weekday and weekend mornings and evenings stay calmer, so aim for right at 
 
 ## How to visit like a local
 
-Zelve is firmly on the tour-bus circuit now, so this isn't an undiscovered corner of Cappadocia — the trick is timing, not secrecy.
+Zelve is firmly on the tour-bus circuit now, so this isn't an undiscovered corner of Cappadocia. The trick is timing, not secrecy.
 
 - **Arrive at 8am or after 5pm.** You'll have long stretches of trail without another visitor in sight, even though the site draws heavy weekend crowds midday.
-- **Pay at the gate.** Ticket booths take cash and card; if you hold a Museum Pass Cappadocia, it typically covers entry here — confirm current validity before you go.
-- **Wear real shoes.** This is uneven, dusty rock scrambling, not paved museum flooring — trainers or hiking shoes, not sandals.
-- **Skip the guided-tour bottleneck.** Independent visitors can linger in the quieter side valleys while bus groups stick to the main path — wander left or right of the crowd for space.
-- **The common mistake:** rushing through in 30 minutes because it's bundled into a half-day tour. Give it at least 90 minutes — the smaller passages and side chapels are easy to miss if you're moving fast.
+- **Pay at the gate.** Ticket booths take cash and card; if you hold a Museum Pass Cappadocia, it typically covers entry here, confirm current validity before you go.
+- **Wear real shoes.** This is uneven, dusty rock scrambling, not paved museum flooring, trainers or hiking shoes, not sandals.
+- **Skip the guided-tour bottleneck.** Independent visitors can linger in the quieter side valleys while bus groups stick to the main path, wander left or right of the crowd for space.
+- **The common mistake:** rushing through in 30 minutes because it's bundled into a half-day tour. Give it at least 90 minutes. The smaller passages and side chapels are easy to miss if you're moving fast.
 - **Don't climb where fencing suggests otherwise.** The rock is genuinely soft and still eroding; that's exactly what emptied the village in 1924.
 
 ## Nearby stops worth combining

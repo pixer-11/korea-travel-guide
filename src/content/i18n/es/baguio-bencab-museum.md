@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: baguio-bencab-museum
-srcHash: '546021c57529'
+srcHash: 'a805679ae8c3'
 title: 'Museo BenCab: guía de viaje de Baguio (4.5★)'
 description: 'El Museo BenCab se encuentra en la carretera Asin, en Tuba, Benguet, a unos 15-20 minutos del centro de Baguio, y abre todos los días excepto los lunes, de 9:00 a 18:00. 4.5★ (3,618 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo BenCab se encuentra en la carretera Asin, en Tuba, Benguet, a unos 15-20 minutos del centro de Baguio, y abre todos los días excepto los lunes, de 9:00 a 18:00. Conviene reservar entre 1.5 y 2 horas para recorrer las galerías, el ala de artefactos cordilleranos y el sendero ecológico exterior con sus estanques de patos. Lo ideal es ir temprano un día entre semana si se quiere disfrutar de la terraza y los senderos en soledad.

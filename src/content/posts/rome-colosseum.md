@@ -61,26 +61,26 @@ draft: false
 
 ## Why go
 
-Few ruins on earth carry the weight of the Colosseum. Completed in 80 AD under the Flavian emperors (its formal name is the Flavian Amphitheater), it once held an estimated 50,000–80,000 spectators across three tiers of arches for gladiatorial combat, staged animal hunts, and mock naval battles. What survives today — the travertine facade, the labyrinth of brick corridors, the partially reconstructed arena floor — is still enough to make clear why it's rated among the most visited monuments on the planet, with nearly half a million reviews and a 4.8 average. It's the single best place in Rome to physically feel the scale of imperial engineering.
+Few ruins on earth carry the weight of the Colosseum. Completed in 80 AD under the Flavian emperors (its formal name is the Flavian Amphitheater), it once held an estimated 50,000–80,000 spectators across three tiers of arches for gladiatorial combat, staged animal hunts, and mock naval battles. What survives today (the travertine facade, the labyrinth of brick corridors, the partially reconstructed arena floor) is still enough to make clear why it's rated among the most visited monuments on the planet, with nearly half a million reviews and a 4.8 average. It's the single best place in Rome to physically feel the scale of imperial engineering.
 
 ## Getting there
 
-The Colosseum sits at P.za del Colosseo, 1, in the heart of ancient Rome, flanked by the Roman Forum and Palatine Hill. The easiest approach is Metro Line B to the Colosseo stop, which lets out directly opposite the main entrance — you'll see the amphitheater the moment you climb the stairs. Metro Line A connects to Line B at Termini station if you're coming from elsewhere in the city.
+The Colosseum sits at P.za del Colosseo, 1, in the heart of ancient Rome, flanked by the Roman Forum and Palatine Hill. The easiest approach is Metro Line B to the Colosseo stop, which lets out directly opposite the main entrance. You'll see the amphitheater the moment you climb the stairs. Metro Line A connects to Line B at Termini station if you're coming from elsewhere in the city.
 
 Tram 3 and several buses (including the 51, 75, and 85) also stop nearby along Via dei Fori Imperiali or Via Celio Vibenna. If you're walking from central Rome, the stretch down Via dei Fori Imperiali from Piazza Venezia takes about 15–20 minutes and offers a good preview of the Forum ruins along the way.
 
 ## What to see and how to plan your visit
 
-Standard tickets cover the ground-floor arcade and second-tier gallery, where you get sweeping views down into the arena and hypogeum (the underground network of tunnels and cages once used to hoist animals and scenery into the arena via lift systems). For a deeper visit, look into the arena floor add-on, which lets you stand where gladiators once did, or the underground/hypogeum guided tour, which accesses the below-ground passages — both require booking a specific time slot and typically sell out days in advance in high season.
+Standard tickets cover the ground-floor arcade and second-tier gallery, where you get sweeping views down into the arena and hypogeum (the underground network of tunnels and cages once used to hoist animals and scenery into the arena via lift systems). For a deeper visit, look into the arena floor add-on, which lets you stand where gladiators once did, or the underground/hypogeum guided tour, which accesses the below-ground passages, both require booking a specific time slot and typically sell out days in advance in high season.
 
 Because the Colosseum is bundled with the Roman Forum and Palatine Hill on the same ticket (valid for 24 hours, single entry per site), it's worth building a half-day loop: Colosseum first thing, then the Forum's Via Sacra and Temple of Saturn, finishing on Palatine Hill for views over the Circus Maximus. Budget roughly 2 hours for the amphitheater itself, 1.5–2 hours for the Forum, and an hour for the Palatine.
 
 ## When to go
 
-Early morning (opening time, generally around 8:30 or 9 am) and the last entry slots of the day are consistently the least crowded, and softer light makes the stone arches more photogenic. Midday in June through August is brutal — full sun, no shade inside the arena, and the biggest crowds. Spring (April–May) and fall (September–October) offer the best balance of mild weather and manageable lines. Hours and exact opening times shift seasonally and around holidays, so confirm on the official Parco Archeologico del Colosseo site before booking.
+Early morning (opening time, generally around 8:30 or 9 am) and the last entry slots of the day are consistently the least crowded, and softer light makes the stone arches more photogenic. Midday in June through August is brutal, full sun, no shade inside the arena, and the biggest crowds. Spring (April–May) and fall (September–October) offer the best balance of mild weather and manageable lines. Hours and exact opening times shift seasonally and around holidays, so confirm on the official Parco Archeologico del Colosseo site before booking.
 
 ## Nearby & tips
 
 Security screening (bag check, metal detector) adds real time even with a timed ticket, so arrive 15–20 minutes ahead of your slot rather than right on time. Skip-the-line guided tours cost more but bundle in the arena floor or underground access, which can't always be added later. Just outside, the Arch of Constantine sits a short walk south of the Colosseum and is worth a look before or after.
 
-For food, the Monti neighborhood a few minutes north has far better trattorias than anything directly on the piazza, which is dense with tourist-trap cafés. Bring water in summer — shade is scarce, and vendors nearby are pricier than a shop a few streets away.
+For food, the Monti neighborhood a few minutes north has far better trattorias than anything directly on the piazza, which is dense with tourist-trap cafés. Bring water in summer, shade is scarce, and vendors nearby are pricier than a shop a few streets away.

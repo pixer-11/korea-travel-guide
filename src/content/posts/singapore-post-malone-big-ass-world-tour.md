@@ -47,17 +47,17 @@ eventFactsAsked: true
 ---
 ## Why this show matters
 
-Post Malone has played Singapore before, but only as a surprise guest during the 2023 Formula 1 Singapore Grand Prix weekend concert series. The BIG ASS World Tour date on September 25, 2026 is different: it's his first proper solo headline concert in the city, staged at the 55,000-capacity National Stadium rather than a festival stage. Don Toliver, a regular collaborator and label-mate from the Houston hip-hop/R&B scene, opens — expect a night that swings between Post's genre-blending catalogue (pop, hip-hop, country-rock detours) and Toliver's melodic trap sound.
+Post Malone has played Singapore before, but only as a surprise guest during the 2023 Formula 1 Singapore Grand Prix weekend concert series. The BIG ASS World Tour date on September 25, 2026 is different: it's his first proper solo headline concert in the city, staged at the 55,000-capacity National Stadium rather than a festival stage. Don Toliver, a regular collaborator and label-mate from the Houston hip-hop/R&B scene, opens. Expect a night that swings between Post's genre-blending catalogue (pop, hip-hop, country-rock detours) and Toliver's melodic trap sound.
 
 ## Getting to National Stadium
 
-National Stadium sits inside the Singapore Sports Hub in Kallang, on the eastern edge of the city centre. The most direct route is Stadium MRT station on the Circle Line — it's built into the Sports Hub complex, so you can walk straight from the platform to the stadium concourse without crossing major roads. If you're coming from the Circle Line's other end or from the East-West/North-South lines, transfer at Paya Lebar, Bishan, or Promenade depending on your starting point.
+National Stadium sits inside the Singapore Sports Hub in Kallang, on the eastern edge of the city centre. The most direct route is Stadium MRT station on the Circle Line. It's built into the Sports Hub complex, so you can walk straight from the platform to the stadium concourse without crossing major roads. If you're coming from the Circle Line's other end or from the East-West/North-South lines, transfer at Paya Lebar, Bishan, or Promenade depending on your starting point.
 
-Taxis and ride-hail cars can drop off at the Sports Hub, but expect heavy congestion and long queues for pickup after the show — many attendees walk 10–15 minutes to Mountbatten or Nicoll Highway MRT to avoid the crush. Kallang MRT (Circle Line/East-West interchange) is another decent overflow option a bit further out.
+Taxis and ride-hail cars can drop off at the Sports Hub, but expect heavy congestion and long queues for pickup after the show, many attendees walk 10–15 minutes to Mountbatten or Nicoll Highway MRT to avoid the crush. Kallang MRT (Circle Line/East-West interchange) is another decent overflow option a bit further out.
 
 ## What to expect inside
 
-The BIG ASS World Tour has been built around Post Malone's biggest arena-and-stadium production to date, with a stage designed for the round or thrust configurations he's used on this run elsewhere — large video walls, pyrotechnics, and a setlist pulling from across his albums (from "Circles" and "Sunflower" to heavier cuts off his more recent rock-inflected work). Doors, support-act start time, and Post's set length aren't fixed here because tour schedules shift city to city — confirm the run-of-show on the official ticketing page closer to the date.
+The BIG ASS World Tour has been built around Post Malone's biggest arena-and-stadium production to date, with a stage designed for the round or thrust configurations he's used on this run elsewhere (large video walls, pyrotechnics, and a setlist pulling from across his albums (from "Circles" and "Sunflower" to heavier cuts off his more recent rock-inflected work). Doors, support-act start time, and Post's set length aren't fixed here because tour schedules shift city to city) confirm the run-of-show on the official ticketing page closer to the date.
 
 National Stadium shows in Singapore typically run with the retractable roof closed for concerts, so plan for an indoor-arena feel regardless of September weather.
 
@@ -65,7 +65,7 @@ National Stadium shows in Singapore typically run with the retractable roof clos
 
 The Sports Hub has its own cluster of eateries at OCBC Square and the Kallang Wave Mall next door, useful if you want a proper sit-down meal before the show rather than concourse concession food. Kallang itself borders the Old Airport Road Food Centre, a well-known hawker centre a short ride or 20-minute walk away, good for a cheap, fast dinner before heading in.
 
-Aim to eat before you arrive — queues for stadium concessions during a full sellout can be long and options limited.
+Aim to eat before you arrive, queues for stadium concessions during a full sellout can be long and options limited.
 
 ## When to arrive and how long to stay
 
@@ -73,8 +73,8 @@ For a stadium show of this scale, arriving 60–90 minutes before the advertised
 
 ## How to visit like a local
 
-Singapore concertgoers overwhelmingly buy and store tickets digitally through the official ticketing app rather than printing anything — have your phone charged and screenshots ready as backup in case of connectivity issues inside the packed venue. Payment inside the Sports Hub is almost entirely cashless: contactless card or mobile wallet (Apple Pay, Google Pay, PayNow-linked apps) covers food, drink, and merchandise stalls, so don't rely on carrying cash.
+Singapore concertgoers overwhelmingly buy and store tickets digitally through the official ticketing app rather than printing anything, have your phone charged and screenshots ready as backup in case of connectivity issues inside the packed venue. Payment inside the Sports Hub is almost entirely cashless: contactless card or mobile wallet (Apple Pay, Google Pay, PayNow-linked apps) covers food, drink, and merchandise stalls, so don't rely on carrying cash.
 
-Tipping isn't expected at concession stands or bars here. The biggest mistake first-timers make is underestimating exit logistics — rather than fighting the crowd for a taxi or Grab right outside, seasoned local gig-goers walk to a slightly further MRT station (Mountbatten or Kallang) or simply wait out the first wave of the crowd over a drink at Kallang Wave Mall.
+Tipping isn't expected at concession stands or bars here. The biggest mistake first-timers make is underestimating exit logistics, rather than fighting the crowd for a taxi or Grab right outside, seasoned local gig-goers walk to a slightly further MRT station (Mountbatten or Kallang) or simply wait out the first wave of the crowd over a drink at Kallang Wave Mall.
 
 Always double-check the final date, gate times, and ticket details on the official Ticketmaster Singapore or Singapore Sports Hub pages, since stadium concert logistics are sometimes adjusted close to the event.

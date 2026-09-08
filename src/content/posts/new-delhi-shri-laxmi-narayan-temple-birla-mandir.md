@@ -76,7 +76,7 @@ draft: false
 
 ## Why go
 
-Birla Mandir isn't a quiet backstreet shrine — it's a full temple complex spread across more than three hectares, and it shows the moment you walk in. Built by industrialist B.D. Birla in the 1930s and opened by Mahatma Gandhi on the condition that people of all castes could enter, it was a genuinely radical gesture for its time.
+Birla Mandir isn't a quiet backstreet shrine. It's a full temple complex spread across more than three hectares, and it shows the moment you walk in. Built by industrialist B.D. Birla in the 1930s and opened by Mahatma Gandhi on the condition that people of all castes could enter, it was a genuinely radical gesture for its time.
 
 That history still shapes the atmosphere. The main structure rises in pale sandstone spires above manicured lawns, with smaller shrines, fountains, and a garden tucked around the edges. It's less a single sanctum than a small campus of devotion.
 
@@ -99,19 +99,19 @@ Connaught Place is about 2km east, so many visitors fold Birla Mandir into a hal
 
 ## When to go
 
-The temple opens daily at 4:30am and closes at 9pm, with a midday break from 1:30–2:30pm — plan around that gap, since the gates genuinely shut then.
+The temple opens daily at 4:30am and closes at 9pm, with a midday break from 1:30–2:30pm. Plan around that gap, since the gates genuinely shut then.
 
 Weekday mornings between 7am and 9am are the quietest window measured here, with soft light on the sandstone and far fewer people underfoot. Weekends are a different story: crowds build from 10am and stay heavy right through to closing, so an early arrival matters more here than almost anywhere else in Delhi.
 
-Major Hindu festivals, especially Janmashtami and Diwali, draw large crowds and add extra decoration and evening activity — atmospheric, but not the moment for a calm wander.
+Major Hindu festivals, especially Janmashtami and Diwali, draw large crowds and add extra decoration and evening activity, atmospheric, but not the moment for a calm wander.
 
 ## How to visit like a local
 
 Arrive early. With rating and foot traffic this high, the temple is firmly on the tourist circuit, so beating the crowd is the main skill here, not finding a secret.
 
 - Remove your shoes before entering; a free counter near the gate holds them.
-- Dress modestly — shoulders and knees covered is the safe standard.
-- Photography is generally allowed in the gardens but often restricted inside the main shrine — look for posted signs.
+- Dress modestly, shoulders and knees covered is the safe standard.
+- Photography is generally allowed in the gardens but often restricted inside the main shrine. Look for posted signs.
 - Entry is free, though donation boxes are placed throughout; giving is optional, never pressured.
 - Keep voices low near the inner sanctum, even amid the daytime bustle outside.
 

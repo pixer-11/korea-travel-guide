@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palermo-palermo-cathedral
-srcHash: '5168a46978e5'
+srcHash: '025f63896b55'
 title: 'Catedral de Palermo: Guía de viaje (4.7★)'
 description: La Catedral de Palermo, en Via Vittorio Emanuele, en pleno centro histórico, abre a diario de 7:00 a 19:00. 4.7★ (50,906 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: La Catedral de Palermo, en Via Vittorio Emanuele, en pleno centro histórico, abre a diario de 7:00 a 19:00. Conviene ir justo a la apertura —entre semana de 7 a 9h o los fines de semana de 7 a 10h son los horarios más tranquilos—, ya que las multitudes aumentan rápido entre las 11:00 y las 17:00, especialmente los fines de semana. La nave es de entrada gratuita; las tumbas reales, el tesoro, la cripta y las terrazas de la azotea tienen cada una una pequeña tarifa aparte.

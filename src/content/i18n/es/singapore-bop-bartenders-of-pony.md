@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-bop-bartenders-of-pony
-srcHash: '530a642341f8'
+srcHash: 'a5e0b1c0c79e'
 title: 'BOP (Bartenders of Pony): Guía de viaje de Singapur'
 description: 'BOP (Bartenders of Pony) en Singapur, Singapur — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: BOP (Bartenders of Pony) es un bar de cócteles y comida al estilo coreano creado por el equipo detrás de Jigger & Pony y el bartender Uno Jang, instalado en una shophouse reconvertida en las concurridas calles traseras de bares de Tanjong Pagar. Abrió el 31 de enero de 2026, y se divide entre una animada barra delantera y unas salas de estar más tranquilas en la parte de atrás, pensadas para beber y comer en grupo al estilo coreano. Es un lugar recién inaugurado que está ganando popularidad rápidamente, así que reserva con antelación y confirma el horario actual antes de ir.

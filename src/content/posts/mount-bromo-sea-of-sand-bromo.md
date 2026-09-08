@@ -69,7 +69,7 @@ draft: false
 
 You crest a ridge above Cemorolawang and the landscape just stops being green. Ahead is a flat, pale-grey expanse ringed by crater walls, with Bromo's cone smoking gently in the middle.
 
-This is Lautan Pasir, the "Sea of Sand" — compacted volcanic ash from centuries of eruptions inside the Tengger caldera. No trees, no grass, just windblown grit stretching for several kilometers.
+This is Lautan Pasir, the "Sea of Sand", compacted volcanic ash from centuries of eruptions inside the Tengger caldera. No trees, no grass, just windblown grit stretching for several kilometers.
 
 Jeeps kick up trails of dust as they cross it, and on a clear morning the light turns the whole plain the color of old bone. It's genuinely one of the strangest landscapes in Java.
 
@@ -79,7 +79,7 @@ Most visitors base themselves in Cemorolawang village, right on the caldera rim,
 
 From here, jeep tours (organized through your homestay or a local cooperative) pick you up in the small hours and drive down onto the sand itself. Independent hikers can also walk in, though it's a long, dusty trek without a vehicle.
 
-The plain has no official opening hours — it's open 24 hours, every day — but nobody visits at random times. Nearly everyone comes for the pre-dawn viewpoint runs, then descends through the sand afterward.
+The plain has no official opening hours (it's open 24 hours, every day), but nobody visits at random times. Nearly everyone comes for the pre-dawn viewpoint runs, then descends through the sand afterward.
 
 ## The sunrise-to-crater route
 
@@ -90,14 +90,14 @@ From the sand, you can:
 - Climb roughly 250 steps up to the crater rim
 - Peer into the active, sulfur-smelling crater (stay behind the railings)
 
-The whole loop — viewpoint, sand crossing, crater climb — usually takes 4 to 6 hours door to door from your homestay.
+The whole loop (viewpoint, sand crossing, crater climb) usually takes 4 to 6 hours door to door from your homestay.
 
 ## What to bring and wear
 
 The temperature swings hard here. At the viewpoint before dawn it can feel close to freezing; by mid-morning on the open sand, the sun is intense with zero shade.
 
 - Warm jacket for the pre-sunrise wait, removable in layers
-- Closed shoes — sandals will fill with ash immediately
+- Closed shoes, sandals will fill with ash immediately
 - A scarf or mask for the fine dust the jeeps throw up
 - Sunscreen and a hat for the crater climb
 - Cash in small rupiah notes for horse rides or entrance fees
@@ -106,11 +106,11 @@ The temperature swings hard here. At the viewpoint before dawn it can feel close
 
 The busiest window on weekends is 7am to 12pm, once the sunrise crowd descends onto the sand and jeeps queue nose to tail. If you can, be crossing the plain before 7am or linger until the crowds thin past noon.
 
-Jeep drivers work in a fixed cooperative system rather than free-for-all taxis — your homestay books a specific driver and route, and haggling happens before you leave, not on the sand. Tipping the driver a modest amount at the end is customary but not obligatory.
+Jeep drivers work in a fixed cooperative system rather than free-for-all taxis, your homestay books a specific driver and route, and haggling happens before you leave, not on the sand. Tipping the driver a modest amount at the end is customary but not obligatory.
 
-Horses at the base of the climb are a genuine local livelihood, not a tourist gimmick; agree the price before mounting. The common tourist mistake is treating the crater rim casually — it's an active volcano with loose gravel edges, so stay on the marked path and behind barriers even when it looks calm.
+Horses at the base of the climb are a genuine local livelihood, not a tourist gimmick; agree the price before mounting. The common tourist mistake is treating the crater rim casually. It's an active volcano with loose gravel edges, so stay on the marked path and behind barriers even when it looks calm.
 
-Because this is one of Java's most-visited natural sites, don't expect solitude at sunrise. The trade-off is a genuinely dramatic, otherworldly plain that photographs like nowhere else in Indonesia — arriving outside the peak morning rush is the best way to actually feel that scale.
+Because this is one of Java's most-visited natural sites, don't expect solitude at sunrise. The trade-off is a genuinely dramatic, otherworldly plain that photographs like nowhere else in Indonesia, arriving outside the peak morning rush is the best way to actually feel that scale.
 
 ## When to go
 

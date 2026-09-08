@@ -56,7 +56,7 @@ updatedDate: '2026-08-30'
 
 ## Why the Mossy Forest is worth the climb
 
-The air changes before you even see it. Around 2,000 metres up Gunung Brinchang, the temperature drops, mist thickens, and the jungle turns from tall dipterocarp forest into something stranger — stunted, twisted trees wrapped in thick cushions of moss.
+The air changes before you even see it. Around 2,000 metres up Gunung Brinchang, the temperature drops, mist thickens, and the jungle turns from tall dipterocarp forest into something stranger, stunted, twisted trees wrapped in thick cushions of moss.
 
 This is a cloud forest, and it looks like one. Branches drip. Pitcher plants hang from the undergrowth. Everything is soft, green, and slightly luminous where light gets through the canopy.
 
@@ -70,7 +70,7 @@ Tours typically combine the forest with the Gunung Brinchang summit viewpoint an
 
 If you have your own 4WD and local knowledge of the road, you can drive up independently, but the track discourages most rental sedans.
 
-Once at the entrance near the summit, a licensed forest guide leads you onto the boardwalk — this isn't a self-guided trail.
+Once at the entrance near the summit, a licensed forest guide leads you onto the boardwalk. This isn't a self-guided trail.
 
 ## What you'll actually see
 
@@ -84,13 +84,13 @@ Your guide will point out details you'd otherwise walk straight past:
 - Gnarled, dwarfed trees shaped by constant wind and cloud cover
 - Thick moss and lichen coating almost every surface
 
-The whole loop takes roughly 45 minutes to an hour of walking, plus time for your guide's stops — budget 1 to 1.5 hours total at the site.
+The whole loop takes roughly 45 minutes to an hour of walking, plus time for your guide's stops. Budget 1 to 1.5 hours total at the site.
 
 ## When to go
 
 The Mossy Forest is open daily from 9am to 4pm, and timing your visit matters more here than at almost any other Cameron Highlands stop.
 
-Cloud and rain typically build through the late morning and afternoon, so an early tour — ideally the first departure of the day — gives you the clearest views and driest boardwalk.
+Cloud and rain typically build through the late morning and afternoon, so an early tour, ideally the first departure of the day, gives you the clearest views and driest boardwalk.
 
 Afternoons often mean a thicker, wetter mist. Atmospheric for photos, but visibility drops and the walk gets slippery.
 
@@ -98,15 +98,15 @@ There's no dry season as such here; the highlands are cool and damp year-round, 
 
 ## How to visit like a local
 
-Book your 4WD tour a day ahead through your guesthouse or a tour desk in Tanah Rata or Brinchang — most operators run set morning and afternoon slots rather than pure walk-up trips.
+Book your 4WD tour a day ahead through your guesthouse or a tour desk in Tanah Rata or Brinchang. Most operators run set morning and afternoon slots rather than pure walk-up trips.
 
 Payment is almost always cash in ringgit, paid directly to the tour operator or driver, not at a ticket booth on-site.
 
 Tip drivers and guides modestly if they've been informative; it's appreciated but not obligatory.
 
-Wear closed shoes with grip — the boardwalk gets damp and mossy, and flip-flops are a genuinely bad idea here.
+Wear closed shoes with grip. The boardwalk gets damp and mossy, and flip-flops are a genuinely bad idea here.
 
-Since this is well-known and gets steady visitor numbers, the practical move for avoiding crowds isn't secrecy — it's timing. Take the earliest available tour slot, ideally right at 9am, before other groups and later afternoon cloud arrive.
+Since this is well-known and gets steady visitor numbers, the practical move for avoiding crowds isn't secrecy. It's timing. Take the earliest available tour slot, ideally right at 9am, before other groups and later afternoon cloud arrive.
 
 Layer up: it's noticeably colder at this elevation than in Tanah Rata town, and a light sweater under a rain shell covers both temperature and drizzle.
 

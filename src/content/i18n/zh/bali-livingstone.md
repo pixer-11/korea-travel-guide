@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-livingstone
-srcHash: 'd41b4bd6637c'
+srcHash: 'e0a8f54c075b'
 title: Livingstone：巴厘岛旅行指南
 description: Livingstone坐落在库塔乌塔县库罗博坎的佩蒂滕格路（Jl. Petitenget）上，是一家绿植环绕的大型咖啡餐厅，也是Seminyak-Canggu一带全天候人气居高不下的热门去处之一（评分4.8星，评价数超过14,000条）。
 quickAnswer: Livingstone坐落在库罗博坎的佩蒂滕格路（Jl. Petitenget）上，是一家绿植环绕的大型咖啡餐厅，在Seminyak-Canggu这一带算得上是全天候人气最旺、几乎从不冷场的去处之一（评分4.8星，评价数超过14,000条）。想不排队就有位子坐，建议工作日上午前往；价格属中等水平（主食大约10万-18万印尼盾，鸡尾酒略贵一些）；如果打算晚餐或周末去，最好提前订位。

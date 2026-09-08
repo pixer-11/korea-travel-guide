@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-cheaper-better-street-food
-srcHash: 'b034828afcbb'
+srcHash: 'cfccca3e7a55'
 title: '더 저렴하고 맛있는 길거리 음식: 방콕 맛집 탐방'
 description: 방콕 방락(Bang Rak) 지역 실롬 로드(Silom Road)에서 이어지는 좁은 점심시간 골목, 소이 실롬 20(Silom Soi 20)으로 가보세요. 평점 높은 "Cheaper & Better Street Food"를 비롯한 노점들이 모여 있는 곳으로, 플라스틱 의자, 100바트 미만의 한 그릇 식사, 그리고 현지 직장인 위주의 손님들을 만날 수 있습니다.
 quickAnswer: 방콕 방락(Bang Rak) 지역 실롬 로드(Silom Road)에서 이어지는 좁은 점심시간 골목, 소이 실롬 20(Silom Soi 20)으로 가보세요. 평점 높은 "Cheaper & Better Street Food"를 비롯한 노점들이 모여 있는 곳으로, 플라스틱 의자, 100바트 미만의 한 그릇 식사, 그리고 현지 직장인 위주의 손님들을 만날 수 있습니다. 골목이 가장 붐비고 음식이 가장 신선한 평일 낮 12시에서 오후 1시 30분 사이에 방문하고, 잔돈을 넉넉히 챙겨가세요. 가장 가까운 접근로는 사라댕(Sala Daeng) BTS역 또는 실롬(Silom) MRT역이며, 도보로 약 5-8분 거리입니다.

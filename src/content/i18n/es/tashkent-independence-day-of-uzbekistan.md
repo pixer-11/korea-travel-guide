@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-independence-day-of-uzbekistan
-srcHash: '44298d0d64ab'
+srcHash: '5be178e16c42'
 title: 'Día de la Independencia de Uzbekistán: fechas, entradas y sede (Taskent)'
 description: El Día de la Independencia de Uzbekistán se celebra en Taskent, Uzbekistán, el 1 de septiembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo se desarrolla la celebración en la capital.
 quickAnswer: El Día de la Independencia de Uzbekistán se celebra el 1 de septiembre de cada año, y en 2026 la celebración de Taskent tuvo como sede el Parque Nacional (Parque de la Independencia), en la capital. El evento central es un concierto y espectáculo al aire libre, gratuito y sin entrada. Cada año, las autoridades municipales fijan los horarios del escenario y los cortes de tráfico. La afluencia de público es mayor por la noche, cuando las actuaciones van creciendo hasta desembocar en un cierre de fuegos artificiales sobre el estanque.

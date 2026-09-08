@@ -58,7 +58,7 @@ draft: false
 
 ## A market that plays by its own rules
 
-This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar — a good twenty-minute drive or MRT ride from the city centre.
+This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar, a good twenty-minute drive or MRT ride from the city centre.
 
 That distance is actually the point. Where Dempsey trades in restored military barracks and manicured lawns, Geylang Serai trades in raw fish on ice and the smell of fried banana fritters at 7am.
 
@@ -66,7 +66,7 @@ That distance is actually the point. Where Dempsey trades in restored military b
 
 The building itself is a landmark: a two-storey complex with a distinctive tiered roof echoing traditional Malay kampong architecture, built to replace the original market that burned down decades ago.
 
-Downstairs is a proper wet market — fishmongers shouting over buckets of prawns, spice vendors with sacks of dried chilli and cumin, fabric stalls selling batik and songket. Upstairs is a hawker centre serving some of the city's more traditional Malay and Indonesian food.
+Downstairs is a proper wet market, fishmongers shouting over buckets of prawns, spice vendors with sacks of dried chilli and cumin, fabric stalls selling batik and songket. Upstairs is a hawker centre serving some of the city's more traditional Malay and Indonesian food.
 
 It's rated well by those who do find it, and it stays refreshingly under the radar compared to Singapore's bigger tourist-facing markets.
 
@@ -79,11 +79,11 @@ Come hungry, because the upstairs food centre is the real draw for most visitors
 - **Kueh** stalls selling colourful glutinous rice snacks by the piece
 - Fresh **durian** in season from vendors just outside
 
-Downstairs, the fabric and spice sections are worth a slow walk even if you're not buying — the colours and smells alone are a sensory hit you won't get in a mall.
+Downstairs, the fabric and spice sections are worth a slow walk even if you're not buying. The colours and smells alone are a sensory hit you won't get in a mall.
 
 ## Getting there
 
-The market sits right by Paya Lebar MRT station (Circle and East-West lines) — a short walk from Exit E or the connected Paya Lebar Quarter mall.
+The market sits right by Paya Lebar MRT station (Circle and East-West lines), a short walk from Exit E or the connected Paya Lebar Quarter mall.
 
 If you're coming from Dempsey Hill, factor in the crosstown trip: a taxi or ride-share is more direct than public transport if you're short on time. Many visitors pair it with a wander through the surrounding Geylang Serai neighbourhood, including the nearby Malay Village site and Wisma Geylang Serai.
 
@@ -91,19 +91,19 @@ If you're coming from Dempsey Hill, factor in the crosstown trip: a taxi or ride
 
 Listed hours show the building itself open 24 hours, but that refers to the structure and some access points, not the stalls.
 
-Realistically, the wet market and most food stalls operate from early morning — around 6am or 7am — through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
+Realistically, the wet market and most food stalls operate from early morning, around 6am or 7am, through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
 
 Go on a weekday morning if you want the market at its most functional and least crowded. Weekends, especially during the Ramadan bazaar season when Geylang Serai hosts one of Singapore's largest Hari Raya markets nearby, bring far heavier foot traffic.
 
 ## How to visit like a local
 
-Arrive early — by 8am the fishmongers have the best selection and the hawker stalls are freshly cooked, not sitting under heat lamps.
+Arrive early, by 8am the fishmongers have the best selection and the hawker stalls are freshly cooked, not sitting under heat lamps.
 
 Bring small cash. Many stalls, especially the older fabric and spice vendors, still don't take cards, though some hawker counters now accept PayNow or card payments.
 
-- Don't haggle aggressively at the wet market — a polite ask for a small discount is fine, loud bargaining is not the local style here
-- Order food in short, direct phrases ("nasi padang, satu" — one nasi padang) rather than over-explaining
+- Don't haggle aggressively at the wet market. A polite ask for a small discount is fine, loud bargaining is not the local style here
+- Order food in short, direct phrases ("nasi padang, satu", one nasi padang) rather than over-explaining
 - Skip the queue stress: if a stall has a long line, it's usually because the food is worth the wait, not because it's a tourist trap
-- Wear shoes you don't mind getting a little wet — the market floor is hosed down regularly
+- Wear shoes you don't mind getting a little wet. The market floor is hosed down regularly
 
 The biggest mistake visitors make is treating this as a quick photo stop. Slow down, eat where the aunties and uncles are eating, and you'll understand why this market has stayed a genuine neighbourhood fixture rather than a curated tourist attraction.

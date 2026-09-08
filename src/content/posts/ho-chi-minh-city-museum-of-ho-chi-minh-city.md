@@ -101,11 +101,11 @@ You spot the building before you spot the sign: a mustard-yellow colonial pile w
 
 The building itself is half the reason to visit. Thick masonry walls keep the ground floor noticeably cooler than the street outside, and the wraparound corridors give you long, shaded views over a garden dotted with tanks, artillery, and a preserved American helicopter.
 
-Inside, the exhibits move chronologically — French colonization, the fight for independence, the American War, and the reunification years — through photographs, uniforms, weapons, and personal artifacts. It's denser and less curated for foreign tourists than the War Remnants Museum, which is part of its appeal if you want context beyond the headline attractions.
+Inside, the exhibits move chronologically (French colonization, the fight for independence, the American War, and the reunification years) through photographs, uniforms, weapons, and personal artifacts. It's denser and less curated for foreign tourists than the War Remnants Museum, which is part of its appeal if you want context beyond the headline attractions.
 
 ## Getting there
 
-The museum sits in District 1, an easy walk from Notre-Dame Cathedral, the Reunification Palace, and Bến Thành Market — all within about 15 minutes on foot. Grab and taxi apps are the simplest way in if you're coming from further out, and metered cabs from companies like Vinasun or Mai Linh are reliable.
+The museum sits in District 1, an easy walk from Notre-Dame Cathedral, the Reunification Palace, and Bến Thành Market, all within about 15 minutes on foot. Grab and taxi apps are the simplest way in if you're coming from further out, and metered cabs from companies like Vinasun or Mai Linh are reliable.
 
 There's no dedicated metro stop yet, so most visitors combine this with a walking loop through the downtown colonial core. Pair it with the palace and cathedral for a half-day of French-era architecture.
 
@@ -122,17 +122,17 @@ Captions are in Vietnamese and English, though some translations are terse. If y
 
 ## When to go
 
-The museum is open daily from 8am to 5pm, with no weekly closing day currently listed — worth double-checking on an official source before you go, since hours can shift around holidays.
+The museum is open daily from 8am to 5pm, with no weekly closing day currently listed, worth double-checking on an official source before you go, since hours can shift around holidays.
 
 Weekday mornings and afternoons stay fairly even in traffic, making any weekday a safe bet. On weekends, the calm window is early: 8am to 9am, right at opening. After that, crowds build steadily and peak between 9am and 1pm, so if you're visiting Saturday or Sunday, get there as the doors open or wait until mid-afternoon.
 
 ## How to visit like a local
 
-Vietnamese visitors and school groups tend to move through quickly and matter-of-factly — this isn't a place for lingering selfies, and loud commentary in the exhibition rooms draws looks. Follow that lead: keep your voice down near the wartime photography sections, some of which are graphic.
+Vietnamese visitors and school groups tend to move through quickly and matter-of-factly. This isn't a place for lingering selfies, and loud commentary in the exhibition rooms draws looks. Follow that lead: keep your voice down near the wartime photography sections, some of which are graphic.
 
 Admission is inexpensive and typically paid in cash at the entrance; card readers aren't standard here, so carry small Vietnamese đồng notes. There's no tipping expectation inside a public museum like this.
 
 Because it's a well-known stop on the District 1 circuit rather than a quiet find, the real trick is timing, not secrecy. Beat the weekend rush by arriving right at 8am, or slot your visit into a weekday afternoon when tour groups have usually moved on to the Reunification Palace nearby.
 
-The most common mistake visitors make is treating this as a quick photo-op building rather than reading through the exhibits — the ground-floor colonial rooms and upstairs war history galleries reward an unhurried pace. Wear light clothing; while the thick walls help, Ho Chi Minh City's heat and humidity still seep into the un-air-conditioned corridors by midday.
+The most common mistake visitors make is treating this as a quick photo-op building rather than reading through the exhibits, the ground-floor colonial rooms and upstairs war history galleries reward an unhurried pace. Wear light clothing; while the thick walls help, Ho Chi Minh City's heat and humidity still seep into the un-air-conditioned corridors by midday.
 

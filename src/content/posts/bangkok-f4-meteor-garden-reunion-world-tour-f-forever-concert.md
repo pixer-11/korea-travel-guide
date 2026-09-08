@@ -29,32 +29,32 @@ eventRecurring: false
 ---
 ## Why this show mattered
 
-For anyone who came of age watching Chinese-language drama in the 2000s, F4 isn't just a boy band spin-off — it's shorthand for a cultural moment. Meteor Garden turned Jerry Yan, Vanness Wu, and Vic Chou (alongside Ken Chu, who wasn't part of this particular reunion) into the faces of a genre that swept Taiwan, mainland China, Thailand, the Philippines, and beyond.
+For anyone who came of age watching Chinese-language drama in the 2000s, F4 isn't just a boy band spin-off. It's shorthand for a cultural moment. Meteor Garden turned Jerry Yan, Vanness Wu, and Vic Chou (alongside Ken Chu, who wasn't part of this particular reunion) into the faces of a genre that swept Taiwan, mainland China, Thailand, the Philippines, and beyond.
 
-Two decades on, the three were set to tour together again, with Bangkok booked for two full nights. That the city was picked as an early stop says something about how deep Meteor Garden's footprint runs here — Thai broadcasters aired and re-aired the drama for years, and its influence is visible in the wave of Thai dramas ("Y" and otherwise) that followed.
+Two decades on, the three were set to tour together again, with Bangkok booked for two full nights. That the city was picked as an early stop says something about how deep Meteor Garden's footprint runs here, Thai broadcasters aired and re-aired the drama for years, and its influence is visible in the wave of Thai dramas ("Y" and otherwise) that followed.
 
 The bonus: Ashin, frontman of Mayday, one of the biggest Mandarin-rock acts of the last thirty years, was announced as special guest, which tipped the bill from a nostalgia set toward a genuine multi-generational Mandopop event.
 
 ## Getting to IMPACT Arena
 
-IMPACT Arena sits inside the IMPACT Muang Thong Thani complex, north of central Bangkok, alongside IMPACT Exhibition Center and Challenger Hall. It is not walking distance from the BTS or MRT network. The most common approach is the free IMPACT shuttle bus, which runs from Mo Chit BTS station (Sukhumvit Line) direct to the venue on event days — the option most concertgoers use, and one that sidesteps rush hour traffic.
+IMPACT Arena sits inside the IMPACT Muang Thong Thani complex, north of central Bangkok, alongside IMPACT Exhibition Center and Challenger Hall. It is not walking distance from the BTS or MRT network. The most common approach is the free IMPACT shuttle bus, which runs from Mo Chit BTS station (Sukhumvit Line) direct to the venue on event days, the option most concertgoers use, and one that sidesteps rush hour traffic.
 
-A taxi or ride-hailing app (Grab) from central Bangkok typically takes 30–45 minutes outside peak hours, longer during evening congestion, since Muang Thong Thani sits off the main expressway network. From Sukhumvit or Silom the trip stretches out on show nights — traffic around Chaeng Watthana Road backs up noticeably when a big arena show lets out.
+A taxi or ride-hailing app (Grab) from central Bangkok typically takes 30–45 minutes outside peak hours, longer during evening congestion, since Muang Thong Thani sits off the main expressway network. From Sukhumvit or Silom the trip stretches out on show nights, traffic around Chaeng Watthana Road backs up noticeably when a big arena show lets out.
 
 ## What to expect inside
 
-IMPACT Arena is one of Bangkok's larger indoor concert venues, built for exactly this kind of touring pop and drama-adjacent spectacle: tiered seating, a general floor/standing zone in front of the stage for higher-tier tickets, and the production values (screens, lighting rigs, staging) typical of major Mandopop arena tours. Two nights were announced, which put this in the category of a proper tour stop rather than a one-off appearance — a full show, not a short meet-and-greet format.
+IMPACT Arena is one of Bangkok's larger indoor concert venues, built for exactly this kind of touring pop and drama-adjacent spectacle: tiered seating, a general floor/standing zone in front of the stage for higher-tier tickets, and the production values (screens, lighting rigs, staging) typical of major Mandopop arena tours. Two nights were announced, which put this in the category of a proper tour stop rather than a one-off appearance, a full show, not a short meet-and-greet format.
 
 Merchandise booths, photo opportunities tied to tour branding, and pre-show queuing areas are standard at IMPACT for events of this scale, though specifics for this show were never detailed publicly.
 
 ## Tickets and timing
 
-As a first-stop reunion date, tiered pricing — standing floor, numbered seating, VIP packages — was expected, in line with past F4-member solo tours and Mayday's own Bangkok arena shows. Bangkok often functions as a launch city for Mandopop tours reaching Southeast Asian audiences, and tickets for reunion-scale shows tend to move fast, with regional fans frequently flying in specifically for the first dates of a tour.
+As a first-stop reunion date, tiered pricing (standing floor, numbered seating, VIP packages) was expected, in line with past F4-member solo tours and Mayday's own Bangkok arena shows. Bangkok often functions as a launch city for Mandopop tours reaching Southeast Asian audiences, and tickets for reunion-scale shows tend to move fast, with regional fans frequently flying in specifically for the first dates of a tour.
 
 ## How to visit like a local
 
-Bangkok concertgoers heading to IMPACT Arena treat the Mo Chit shuttle as the default move — it avoids both parking hassles and surge pricing on ride apps, which climbs fast right after a show ends. Taxi and Grab demand spikes the moment a crowd starts leaving, and drivers can be reluctant to enter the complex's access roads when they're jammed with exiting traffic.
+Bangkok concertgoers heading to IMPACT Arena treat the Mo Chit shuttle as the default move, it avoids both parking hassles and surge pricing on ride apps, which climbs fast right after a show ends. Taxi and Grab demand spikes the moment a crowd starts leaving, and drivers can be reluctant to enter the complex's access roads when they're jammed with exiting traffic.
 
-Locals dress comfortably rather than glamorously for arena shows here — it's a long stand-or-sit night, and Bangkok's heat and humidity in early August make breathable clothing more useful than a fully coordinated outfit. Payment at food and merch stalls around IMPACT is largely cashless (cards and mobile wallets like PromptPay are widely accepted), though smaller vendors sometimes take cash only.
+Locals dress comfortably rather than glamorously for arena shows here. It's a long stand-or-sit night, and Bangkok's heat and humidity in early August make breathable clothing more useful than a fully coordinated outfit. Payment at food and merch stalls around IMPACT is largely cashless (cards and mobile wallets like PromptPay are widely accepted), though smaller vendors sometimes take cash only.
 
 The most common visitor mistake here is underestimating the Muang Thong Thani commute: security screening and the sheer scale of the venue mean the stated door time, rather than showtime, is the one that governs the evening.

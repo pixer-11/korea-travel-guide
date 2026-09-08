@@ -72,15 +72,15 @@ eventFactsAsked: true
 
 Aloha Festivals is Hawaii's largest cultural celebration, with a history spanning decades. Founded to keep Native Hawaiian traditions visible amid the islands' tourism boom, it's grown into a monthlong series across the state, anchored by Honolulu's biggest set-piece events.
 
-You come for the pageantry: feather-cloaked royal court members on horseback, halau (hula troupes) dancing down a closed city street, and floats banked with orchids and plumeria. It's noisy, colorful, and unmistakably local — not a staged luau for tourists.
+You come for the pageantry: feather-cloaked royal court members on horseback, halau (hula troupes) dancing down a closed city street, and floats banked with orchids and plumeria. It's noisy, colorful, and unmistakably local, not a staged luau for tourists.
 
 ## What happens in Honolulu
 
 Three events define the Oʻahu leg of the festival. Each has its own rhythm and reason to attend.
 
-- **Royal Court investiture** — a formal ceremony introducing the year's royal court, rich in chant, protocol, and regalia.
-- **Waikīkī block party** — a street festival with live music stages, food vendors, and dancing that takes over a stretch of Waikīkī for an evening.
-- **Floral Parade** — the marquee event, moving from downtown Honolulu through Waikīkī with flower-covered floats, marching bands, and pāʻū riders in traditional horseback dress.
+- **Royal Court investiture**, a formal ceremony introducing the year's royal court, rich in chant, protocol, and regalia.
+- **Waikīkī block party**, a street festival with live music stages, food vendors, and dancing that takes over a stretch of Waikīkī for an evening.
+- **Floral Parade**, the marquee event, moving from downtown Honolulu through Waikīkī with flower-covered floats, marching bands, and pāʻū riders in traditional horseback dress.
 
 The parade draws the densest crowds, so stake out a curb spot early if you want a clear view.
 
@@ -88,13 +88,13 @@ The parade draws the densest crowds, so stake out a curb spot early if you want 
 
 Honolulu's events are centered on downtown and Waikīkī, both compact and walkable once you're there. TheBus and the Skyline rail connect the airport, downtown, and Waikīkī if you'd rather skip parking.
 
-If you're driving, expect road closures along the parade route on the day itself — Kalākaua Avenue is typically affected during Waikīkī events. Rideshare drop-off points shift around closures, so build in extra walking time.
+If you're driving, expect road closures along the parade route on the day itself, Kalākaua Avenue is typically affected during Waikīkī events. Rideshare drop-off points shift around closures, so build in extra walking time.
 
 Stay in or near Waikīkī if the parade and block party are your priority. It puts you within walking distance of both without needing transit on event day.
 
 ## When to go
 
-September is the month, but exact dates for the 2026 events — including the parade route and block party evening — are usually confirmed closer to the season. Check the official Aloha Festivals website before finalizing flights or hotels.
+September is the month, but exact dates for the 2026 events, including the parade route and block party evening, are usually confirmed closer to the season. Check the official Aloha Festivals website before finalizing flights or hotels.
 
 September in Honolulu is warm and humid, with occasional showers but generally reliable weather for outdoor events. It's shoulder season for tourism, so hotel rates in Waikīkī can be a little softer than summer peak.
 
@@ -106,11 +106,11 @@ Confirm current ticket status, any reserved seating fees, and official venue map
 
 ## How to visit like a local
 
-Locals treat the Floral Parade as a claim-your-spot-early event. Arrive well before the announced start time with a folding chair or mat — sidewalk space fills fast and there's no reserved general seating.
+Locals treat the Floral Parade as a claim-your-spot-early event. Arrive well before the announced start time with a folding chair or mat, sidewalk space fills fast and there's no reserved general seating.
 
 - Bring cash for food vendors at the Waikīkī block party; card acceptance can be inconsistent at smaller stalls.
-- Wear the parade like locals do — plumeria or maile lei are common, not costume, so feel free to wear one if you have it.
-- Expect chant and protocol at the Royal Court investiture to be treated with real reverence — this isn't a photo-op moment, so keep quiet during ceremonial parts.
+- Wear the parade like locals do, plumeria or maile lei are common, not costume, so feel free to wear one if you have it.
+- Expect chant and protocol at the Royal Court investiture to be treated with real reverence. This isn't a photo-op moment, so keep quiet during ceremonial parts.
 - The common tourist mistake is showing up right at the announced parade start; the best curb spots are gone by then. Locals stake ground at least an hour ahead.
 
-Public transit or walking beats driving on event days — closures make parking near the route unpredictable, and buses reroute around Kalākaua Avenue while the parade is in progress.
+Public transit or walking beats driving on event days, closures make parking near the route unpredictable, and buses reroute around Kalākaua Avenue while the parade is in progress.

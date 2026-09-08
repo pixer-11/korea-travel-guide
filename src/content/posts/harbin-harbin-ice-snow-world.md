@@ -49,7 +49,7 @@ draft: false
 
 Nowhere else builds an entire city out of frozen river blocks every winter. Harbin Ice and Snow World turns tens of thousands of tons of ice, cut straight from the Songhua River, into towers, bridges, and slides lit from within by colored LED tubes.
 
-By dusk the whole site starts to glow — cobalt blue, magenta, acid green — and the ice itself creaks and drips faint meltwater even in minus-20 air. It's theatrical, cold, and genuinely strange in the best way.
+By dusk the whole site starts to glow (cobalt blue, magenta, acid green), and the ice itself creaks and drips faint meltwater even in minus-20 air. It's theatrical, cold, and genuinely strange in the best way.
 
 ## Getting there
 
@@ -59,7 +59,7 @@ Public buses run out to the site during the season, and taxis are cheap enough t
 
 ## What to see and do
 
-This isn't a stroll-through museum — it's a walkable, climbable ice city built fresh each winter. Give yourself real time to wander before the cold sends you looking for a hot drink stall.
+This isn't a stroll-through museum. It's a walkable, climbable ice city built fresh each winter. Give yourself real time to wander before the cold sends you looking for a hot drink stall.
 
 - Illuminated ice castles and towers, some multiple stories tall
 - Long ice slides you ride down on a mat or sled
@@ -67,7 +67,7 @@ This isn't a stroll-through museum — it's a walkable, climbable ice city built
 - Ice bars and stalls selling hot drinks and skewers to warm up between stops
 - Nightly light shows once full darkness sets in
 
-Bring or rent proper boots — the ground is packed ice and snow, and slick patches are everywhere. Vendors inside sell hand warmers and rent heavier coats if you underestimate the cold.
+Bring or rent proper boots. The ground is packed ice and snow, and slick patches are everywhere. Vendors inside sell hand warmers and rent heavier coats if you underestimate the cold.
 
 ## When to go
 
@@ -79,11 +79,11 @@ Because this spot isn't yet swamped with the crowds that hit Harbin's more famou
 
 ## How to visit like a local
 
-Go on a weeknight rather than a Friday or Saturday — locals know weekends draw the biggest crowds and longest queues for slides. A Tuesday or Wednesday evening visit feels noticeably calmer.
+Go on a weeknight rather than a Friday or Saturday, locals know weekends draw the biggest crowds and longest queues for slides. A Tuesday or Wednesday evening visit feels noticeably calmer.
 
 Layer like you mean it: thermal base layers, a windproof outer shell, insulated boots, and a hat that covers your ears. Locals dress in full ski gear here, not city coats, because standing still for photos in this cold bites fast.
 
-Payment is almost entirely by mobile — WeChat Pay or Alipay — with cash as a fallback at some stalls. Have a payment app loaded before you arrive rather than hunting for an ATM in the cold.
+Payment is almost entirely by mobile, WeChat Pay or Alipay, with cash as a fallback at some stalls. Have a payment app loaded before you arrive rather than hunting for an ATM in the cold.
 
 Don't rush straight to the slides first. Locals walk the perimeter early for photos while the ice is still crisp and uncrowded, then queue for slides once they've warmed up with a hot drink.
 

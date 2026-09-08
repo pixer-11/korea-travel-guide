@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: santiago-de-compostela-portico-da-gloria
-srcHash: '4d1d2ef4f657'
+srcHash: 'b79ab7465baa'
 title: '영광의 문(Pórtico da Gloria): 산티아고 데 콤포스텔라 여행 가이드'
 description: 영광의 문(Pórtico da Gloria)은 산티아고 데 콤포스텔라 대성당 내부, 오브라도이로 광장(Praza do Obradoiro)을 마주한 12세기 석조 조각 출입구입니다. 4.6★ (1,149개 리뷰) — 방문객들의 후기, 운영 시간, 그리고 알아두면 좋은 팁을 소개합니다.
 quickAnswer: 영광의 문(Pórtico da Gloria)은 산티아고 데 콤포스텔라 대성당 내부, 오브라도이로 광장(Praza do Obradoiro)을 마주한 12세기 석조 조각 출입구입니다. 매일 오전 9시부터 오후 8시까지 개방하며, 차분하게 감상하기 좋은 시간대는 평일 오전 9시~10시 또는 주말 오전 11시~오후 5시 사이입니다. 조각 하나하나를 자세히 들여다볼 가치가 있으니, 가이드 투어나 오디오 가이드와 함께 20~30분 정도 여유롭게 시간을 내보세요.

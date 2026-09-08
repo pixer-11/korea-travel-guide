@@ -83,7 +83,7 @@ draft: false
 updatedDate: '2026-09-04'
 ---
 
-You reach Cova de Can Marçà by driving down through the pine-covered hills above Port de Sant Miquel, on Ibiza's north coast, until the road dead-ends near the bay. From the car park, a path cut into the cliff face leads to the cave mouth — already you feel the temperature drop and hear water dripping somewhere below. This isn't a natural show cave in the polished, artificial sense; it's a genuine former smugglers' hideout, and that history is stitched into everything you walk past.
+You reach Cova de Can Marçà by driving down through the pine-covered hills above Port de Sant Miquel, on Ibiza's north coast, until the road dead-ends near the bay. From the car park, a path cut into the cliff face leads to the cave mouth, already you feel the temperature drop and hear water dripping somewhere below. This isn't a natural show cave in the polished, artificial sense; it's a genuine former smugglers' hideout, and that history is stitched into everything you walk past.
 
 ## Why it's worth the detour
 
@@ -93,13 +93,13 @@ The limestone formations themselves took hundreds of thousands of years to form,
 
 ## What the tour actually involves
 
-Entry is by guided visit only — you can't wander in alone. Groups move along a paved, railed walkway with steps, descending through a series of chambers with names tied to their shapes (bat-wing formations, curtain-like drapery of calcite) before reaching the final hall. Here the cave does its party trick: a small waterfall is lit in shifting colours in time with music, a genuinely theatrical moment after the quieter, dripping passages before it.
+Entry is by guided visit only. You can't wander in alone. Groups move along a paved, railed walkway with steps, descending through a series of chambers with names tied to their shapes (bat-wing formations, curtain-like drapery of calcite) before reaching the final hall. Here the cave does its party trick: a small waterfall is lit in shifting colours in time with music, a genuinely theatrical moment after the quieter, dripping passages before it.
 
-The whole loop, including the walk in and out, takes roughly 45 minutes to an hour. Paths are damp, uneven in spots, and involve stairs, so this isn't ideal for strollers or anyone unsteady on their feet — flat, closed-toe shoes make a real difference here.
+The whole loop, including the walk in and out, takes roughly 45 minutes to an hour. Paths are damp, uneven in spots, and involve stairs, so this isn't ideal for strollers or anyone unsteady on their feet, flat, closed-toe shoes make a real difference here.
 
 ## Beyond the cave
 
-Above ground there's a small cafeteria and a souvenir shop at the entrance, useful for a coffee or water bottle before or after, and the setting itself is a reason to linger: Port de Sant Miquel's bay sits just below, with a sheltered beach and clear, calm water that makes an easy pairing with the cave visit — cave in the cooler morning hours, swim once the sun's properly up. The wider bay is quiet compared to Ibiza's party-town coast, backed by pine slopes rather than resort strip.
+Above ground there's a small cafeteria and a souvenir shop at the entrance, useful for a coffee or water bottle before or after, and the setting itself is a reason to linger: Port de Sant Miquel's bay sits just below, with a sheltered beach and clear, calm water that makes an easy pairing with the cave visit, cave in the cooler morning hours, swim once the sun's properly up. The wider bay is quiet compared to Ibiza's party-town coast, backed by pine slopes rather than resort strip.
 
 ## When to go
 
@@ -107,9 +107,9 @@ This is a well-known stop on the island's north-coast circuit, pulling coach par
 
 ## How to visit like a local
 
-Arrive at opening time or in the last couple of hours before closing — that's when you'll share the walkway with far fewer people rather than shuffling behind a full coach group. Confirm the day's opening hours and ticket prices before you set out, since both can shift seasonally and are best checked on the day. Cash and card are both generally accepted at the ticket counter and cafeteria, but carrying some small cash is sensible for the souvenir shop.
+Arrive at opening time or in the last couple of hours before closing. That's when you'll share the walkway with far fewer people rather than shuffling behind a full coach group. Confirm the day's opening hours and ticket prices before you set out, since both can shift seasonally and are best checked on the day. Cash and card are both generally accepted at the ticket counter and cafeteria, but carrying some small cash is sensible for the souvenir shop.
 
-Wear shoes with real grip, not sandals — the stone steps get slick with condensation year-round. Bring a light layer even in summer, since the cave interior stays noticeably cooler than the coast outside. The mistake most visitors make is treating this as a five-minute photo stop and rushing the walkway; slow down at the smugglers' storage points and read the guide's commentary, since that history is what separates this cave from a purely scenic one.
+Wear shoes with real grip, not sandals. The stone steps get slick with condensation year-round. Bring a light layer even in summer, since the cave interior stays noticeably cooler than the coast outside. The mistake most visitors make is treating this as a five-minute photo stop and rushing the walkway; slow down at the smugglers' storage points and read the guide's commentary, since that history is what separates this cave from a purely scenic one.
 
 Pair the visit with parking early at Port de Sant Miquel, since the small lot near the cave entrance fills up fast once the first coaches arrive.
 

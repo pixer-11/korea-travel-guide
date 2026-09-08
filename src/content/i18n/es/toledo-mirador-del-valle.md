@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toledo-mirador-del-valle
-srcHash: 'aa08c62fb47a'
+srcHash: 'b88b830e4bfa'
 title: 'Mirador del Valle: guía de viaje de Toledo (4,8★)'
 description: 'Al otro lado del tajo del río Tajo, sobre la Ctra. Circunvalación y a unos 20 minutos a pie (o un corto trayecto en taxi o autobús) desde el casco antiguo de Toledo, el Mirador del Valle regala la mejor panorámica de la ciudad amurallada. 4,8★ (14.280 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Al otro lado del tajo del río Tajo, sobre la Ctra. Circunvalación y a unos 20 minutos a pie (o un corto trayecto en taxi o autobús) desde el casco antiguo de Toledo, el Mirador del Valle regala la mejor panorámica de la ciudad amurallada. Conviene ir al atardecer, pero llegando al menos una hora antes para hacerse con un sitio junto a la barandilla: con casi 14.300 reseñas y una valoración de 4,8, este lugar ya no es ningún secreto, y cada día confluyen aquí autobuses urbanos y de turistas. Para la visita hacen falta entre 30 y 45 minutos, más si se come algo en la terraza-cafetería.'

@@ -44,34 +44,34 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The Palio di Siena isn't a reenactment or a tourist show staged for visitors — it's a centuries-old civic ritual that Sienese families live and breathe all year. Twice a year (July 2 and August 16), ten of Siena's seventeen contrade send a horse and rider around the perimeter of Piazza del Campo for three breakneck laps that last barely 90 seconds.
+The Palio di Siena isn't a reenactment or a tourist show staged for visitors. It's a centuries-old civic ritual that Sienese families live and breathe all year. Twice a year (July 2 and August 16), ten of Siena's seventeen contrade send a horse and rider around the perimeter of Piazza del Campo for three breakneck laps that last barely 90 seconds.
 
-The August edition, the Palio dell'Assunta, is run in honor of the Assumption of the Virgin Mary and falls squarely in Italy's Ferragosto holiday period, so the city is full of both devotion and heat. Thousands of Sienese pack into the Campo, singing contrada anthems and weeping or cheering as the result unfolds — a far more visceral experience than the race itself.
+The August edition, the Palio dell'Assunta, is run in honor of the Assumption of the Virgin Mary and falls squarely in Italy's Ferragosto holiday period, so the city is full of both devotion and heat. Thousands of Sienese pack into the Campo, singing contrada anthems and weeping or cheering as the result unfolds, a far more visceral experience than the race itself.
 
 ## What actually happens
 
-The August 16, 2026 race was set as the culmination of days of buildup. Trial races (prove) run in the days beforehand, letting jockeys and horses get used to the piazza's tight, banked corners — notably the dangerous curve at San Martino. On race day, a lengthy historical procession, the Corteo Storico, moves through the city and around the Campo: hundreds of participants in Renaissance costume, flag-throwers (alfieri), drummers, and representatives of each contrada carry the palio (the painted silk banner that gives the event its name).
+The August 16, 2026 race was set as the culmination of days of buildup. Trial races (prove) run in the days beforehand, letting jockeys and horses get used to the piazza's tight, banked corners, notably the dangerous curve at San Martino. On race day, a lengthy historical procession, the Corteo Storico, moves through the city and around the Campo: hundreds of participants in Renaissance costume, flag-throwers (alfieri), drummers, and representatives of each contrada carry the palio (the painted silk banner that gives the event its name).
 
-Only after this procession, and after the horses have been blessed inside each contrada's own church, does the race begin — jockeys ride bareback, and a horse can even win without its rider still aboard.
+Only after this procession, and after the horses have been blessed inside each contrada's own church, does the race begin, jockeys ride bareback, and a horse can even win without its rider still aboard.
 
 ## Getting there and getting in
 
-Siena's historic center is closed to most traffic on race day, so visitors come on foot from one of the peripheral car parks or by train and bus from Florence (roughly 90 minutes) or Rome. The Campo itself sits at the heart of the old town, an easy walk downhill from the Duomo and Piazza del Duomo. Free entry to the piazza's central standing area (inside the ring, not along the track) opens in the afternoon, hours before the evening start, and the space fills completely — once you're in, you're generally committed to standing in the sun or heat for several hours with no way out and no bathroom access.
+Siena's historic center is closed to most traffic on race day, so visitors come on foot from one of the peripheral car parks or by train and bus from Florence (roughly 90 minutes) or Rome. The Campo itself sits at the heart of the old town, an easy walk downhill from the Duomo and Piazza del Duomo. Free entry to the piazza's central standing area (inside the ring, not along the track) opens in the afternoon, hours before the evening start, and the space fills completely, once you're in, you're generally committed to standing in the sun or heat for several hours with no way out and no bathroom access.
 
 Paid seating in bleachers or on balconies overlooking the track is arranged in advance through hotels, contrade contacts, or ticket agencies; there's no official box office selling walk-up seats for balcony views.
 
 ## What to see and do beyond the race
 
-Even outside race week, the Campo, the Torre del Mangia, and the Palazzo Pubblico are worth a visit, and each of the 17 contrade has its own small museum displaying past palii, costumes, and trophies. In the days around August 16, the individual contrada districts host cena in strada in the evening — communal outdoor dinners where residents eat together in the streets, an atmosphere far calmer and more revealing of local life than the race crowd itself.
+Even outside race week, the Campo, the Torre del Mangia, and the Palazzo Pubblico are worth a visit, and each of the 17 contrade has its own small museum displaying past palii, costumes, and trophies. In the days around August 16, the individual contrada districts host cena in strada in the evening, communal outdoor dinners where residents eat together in the streets, an atmosphere far calmer and more revealing of local life than the race crowd itself.
 
 ## When to go
 
-Many visitors come to Siena at least a day ahead for a trial race (prova) in a much less crowded Campo — the easiest way to understand the course and the noise without the crush of race day. The city is at its most intense and hottest in mid-August, and early morning and late evening are the only comfortable times to explore the center.
+Many visitors come to Siena at least a day ahead for a trial race (prova) in a much less crowded Campo, the easiest way to understand the course and the noise without the crush of race day. The city is at its most intense and hottest in mid-August, and early morning and late evening are the only comfortable times to explore the center.
 
 ## How to visit like a local
 
-Sienese don't watch the Palio as spectators; they watch it as members of a contrada, and the single biggest mistake visitors make is treating race day like a festival to casually stroll through. The standing-room center of the Campo goes to those who stake out a spot in the early afternoon with water, a hat, and patience — there's no shade and no re-entry once the crowd sets.
+Sienese don't watch the Palio as spectators; they watch it as members of a contrada, and the single biggest mistake visitors make is treating race day like a festival to casually stroll through. The standing-room center of the Campo goes to those who stake out a spot in the early afternoon with water, a hat, and patience. There's no shade and no re-entry once the crowd sets.
 
-Contrada colors and scarves are best left to the people who understand them; each has fierce rivalries, and neutrality is safer and more respectful for outsiders. Payment for official seating or tours is handled in advance and in writing — there's no casual ticket window. A bar or restaurant with a Campo-facing terrace, reserved well ahead, is the realistic local-style alternative to a seat.
+Contrada colors and scarves are best left to the people who understand them; each has fierce rivalries, and neutrality is safer and more respectful for outsiders. Payment for official seating or tours is handled in advance and in writing. There's no casual ticket window. A bar or restaurant with a Campo-facing terrace, reserved well ahead, is the realistic local-style alternative to a seat.
 
 Dates, road closures, and start times shift slightly year to year, and Siena's tourism office and the Comune di Siena's Palio pages carry the official schedule and ticketing details.

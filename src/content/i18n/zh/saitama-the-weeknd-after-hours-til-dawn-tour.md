@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: saitama-the-weeknd-after-hours-til-dawn-tour
-srcHash: '69c87378b0f1'
+srcHash: '91cc42ae81db'
 title: The Weeknd：After Hours Til Dawn 巡演：日期、门票与场馆信息（埼玉）
 description: The Weeknd：After Hours Til Dawn 巡演将于2026年9月19日至20日在日本埼玉举行——演出内容、时间地点，以及行程规划要点。
 quickAnswer: 2026年9月19日和20日，The Weeknd将在埼玉的贝鲁纳巨蛋（Belluna Dome）连开两场，为其After Hours Til Dawn巡演的亚洲站画上句号，日本嘻哈组合Creepy Nuts将在两晚担任开场嘉宾。门票、准确的演出时间以及入场细节，都以巡演官方和场馆官方渠道发布的信息为准——订机票、订酒店之前，务必先确认这些信息。想要最方便地前往贝鲁纳巨蛋，建议选择西武球场前站（Seibu-Kyujo-mae）或东户塚站（Higashi-Totsuka）附近落脚。

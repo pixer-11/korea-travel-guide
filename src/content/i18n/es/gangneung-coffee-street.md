@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-coffee-street
-srcHash: '94e853ca9d8a'
+srcHash: '5556a78815f9'
 title: La Calle del Café de Gangneung
 description: La Calle del Café de Gangneung (Anmok Coffee Street, cerca de la playa de Anmok) es un tramo de cafeterías frente al mar en la costa este, a unas 2,5 horas de Seúl en KTX y autobús/taxi.
 quickAnswer: La Calle del Café de Gangneung (Anmok Coffee Street, cerca de la playa de Anmok) es un tramo de cafeterías frente al mar en la costa este, a unas 2,5 horas de Seúl en KTX y autobús/taxi. Ve a última hora de la tarde para tomar un café con vistas al mar del Este, y luego pasea por el paseo entre pinos hasta la playa de Gyeongpo al atardecer. Calcula entre 2 y 3 horas, y ten en cuenta que pagarás precios de cafetería por taza, no una entrada como en una atracción con boletos.

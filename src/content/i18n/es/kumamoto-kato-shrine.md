@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kumamoto-kato-shrine
-srcHash: '01f61f21f03f'
+srcHash: 'f17e6f8d078b'
 title: 'Santuario Katō: Guía de viaje de Kumamoto (4.3★)'
 description: 'Dentro de los antiguos terrenos del castillo, en pleno centro de Kumamoto, el Santuario Katō está dedicado al daimyō Katō Kiyomasa y ofrece una de las mejores vistas frontales de la torre reconstruida del Castillo de Kumamoto. 4.3★ (3.259 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Dentro de los antiguos terrenos del castillo, en pleno centro de Kumamoto, el Santuario Katō está dedicado al daimyō Katō Kiyomasa y ofrece una de las mejores vistas frontales de la torre reconstruida del Castillo de Kumamoto. Abre todos los días de 8:00 a 17:00. Conviene ir justo a la apertura o entre semana para evitar la multitud del fin de semana, que empieza a aumentar a partir de las 10:00.

@@ -27,7 +27,7 @@ draft: true
 
 ## Why kinu café stands out
 
-You notice it before you're even through the door: the pale wood, the soft grey tones, the absence of clutter. kinu café is one of the few places in Istanbul built entirely around a single ingredient — matcha, and nothing but matcha.
+You notice it before you're even through the door: the pale wood, the soft grey tones, the absence of clutter. kinu café is one of the few places in Istanbul built entirely around a single ingredient, matcha, and nothing but matcha.
 
 It opened in April 2026 in Beyoğlu, and it didn't take long to become one of the neighborhood's most photographed rooms. The concept comes from Illusory Superiority, a lifestyle platform that clearly understood the moment matcha is having in Turkey right now.
 
@@ -35,13 +35,13 @@ It opened in April 2026 in Beyoğlu, and it didn't take long to become one of th
 
 Design studio KUD handled the interiors, and it shows in every surface. Think Japanese-minimalist lines rather than the marble-and-gold maximalism you'll find in older Istanbul coffeehouses.
 
-Low counters, natural materials, quiet corners for two — the room is built for slow sipping, not quick turnover. Light spills across pale wood tables in a way that feels almost deliberately calm against the noise of Beyoğlu's streets outside.
+Low counters, natural materials, quiet corners for two. The room is built for slow sipping, not quick turnover. Light spills across pale wood tables in a way that feels almost deliberately calm against the noise of Beyoğlu's streets outside.
 
 That contrast is part of the appeal. Step off a crowded main road and into a space that feels like it's holding its breath.
 
 ## What to expect on the matcha side
 
-Because the café is matcha-only, the entire menu logic revolves around variations on that single leaf — whisked, layered, iced, blended into drinks and likely desserts too. Exact offerings and prices will shift as the menu develops, so treat any specific dish you hear about secondhand as provisional.
+Because the café is matcha-only, the entire menu logic revolves around variations on that single leaf, whisked, layered, iced, blended into drinks and likely desserts too. Exact offerings and prices will shift as the menu develops, so treat any specific dish you hear about secondhand as provisional.
 
 What's consistent is the premise: a dedicated matcha bar in a city where specialty coffee has long dominated the trendy-café conversation. That novelty alone is drawing Istanbul's younger, design-conscious crowd.
 
@@ -55,12 +55,12 @@ Given how recently it opened, exact opening hours and whether it takes reservati
 
 Treat this less like a tourist stop and more like the newest entry in Beyoğlu's café-hopping circuit, which is exactly how design-conscious Istanbullus are approaching it.
 
-- **Timing:** New buzzy openings like this tend to peak on weekend afternoons and evenings — a weekday morning visit is your best shot at a quiet room and an easy seat.
+- **Timing:** New buzzy openings like this tend to peak on weekend afternoons and evenings. A weekday morning visit is your best shot at a quiet room and an easy seat.
 - **Payment:** Assume card payment is standard, as it is across nearly all of central Istanbul's cafés, though carrying some cash is a reasonable backup habit anywhere in the city.
-- **Etiquette:** Istanbul café culture rewards lingering — nobody will rush you out, but during busy hours it's considerate to free up a table once you've finished rather than camping for hours.
-- **Ordering:** Since the whole menu is matcha-based, don't expect a coffee fallback — come ready to try one of the matcha preparations rather than asking for something off-concept.
+- **Etiquette:** Istanbul café culture rewards lingering, nobody will rush you out, but during busy hours it's considerate to free up a table once you've finished rather than camping for hours.
+- **Ordering:** Since the whole menu is matcha-based, don't expect a coffee fallback, come ready to try one of the matcha preparations rather than asking for something off-concept.
 - **The mistake to avoid:** Assuming a place this new and photogenic keeps fixed, predictable hours. Opening times and reservation policies at newly launched spots shift in the first months, so a quick check before you set off saves a wasted trip.
 
-Beyond the drink itself, part of the local approach is simply appreciating the room as a design destination in its own right. KUD's interior work is meant to be noticed, not just sat in — take the few extra minutes to look at how the space is put together, the way returning regulars already do.
+Beyond the drink itself, part of the local approach is simply appreciating the room as a design destination in its own right. KUD's interior work is meant to be noticed, not just sat in. Take the few extra minutes to look at how the space is put together, the way returning regulars already do.
 
 Pair a visit with a wander down nearby İstiklal Avenue, or fold it into a broader Beyoğlu café crawl. Given how fast Istanbul's matcha scene is moving in 2026, kinu café is worth catching early, while it's still the newest name in the conversation rather than an established fixture.

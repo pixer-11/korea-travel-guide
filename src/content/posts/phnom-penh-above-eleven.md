@@ -29,37 +29,37 @@ draft: true
 
 Phnom Penh's skyline is still low enough that any 28th-floor perch feels dramatic. Above Eleven sits atop the Novotel Phnom Penh BKK1, one of the tallest addresses in the city's diplomatic and expat quarter, and it's been talked up as the newest rooftop restaurant to open here.
 
-What sets it apart isn't just the height. It's a Nikkei kitchen — the Peruvian-Japanese fusion style born in Lima's Japanese immigrant community — landing in a city where that combination is still a novelty.
+What sets it apart isn't just the height. It's a Nikkei kitchen, the Peruvian-Japanese fusion style born in Lima's Japanese immigrant community, landing in a city where that combination is still a novelty.
 
 ## The setting: BKK1 from the 28th floor
 
 You ride the elevator up through a business hotel, and the doors open onto something else entirely: open sky, a wraparound view, and the lights of BKK1 spreading out below. On a clear evening you can pick out the bend of the Mekong catching the last color of the sunset.
 
-The room itself leans into the drama — expect a see-and-be-seen bar scene alongside the dining tables, with the kind of low light and lounge energy that draws a mixed crowd of expats, diplomats-in-waiting from the nearby embassies, and visitors chasing the view.
+The room itself leans into the drama. Expect a see-and-be-seen bar scene alongside the dining tables, with the kind of low light and lounge energy that draws a mixed crowd of expats, diplomats-in-waiting from the nearby embassies, and visitors chasing the view.
 
 ## What to expect on the plate
 
-Above Eleven's menu concept pairs Japanese technique — think raw fish, precision cuts, umami-forward sauces — with Peruvian brightness: chili, citrus, and cold-pressed acidity. It's the same Nikkei formula that's made sister branches of this style popular across Southeast Asian capitals.
+Above Eleven's menu concept pairs Japanese technique (think raw fish, precision cuts, umami-forward sauces) with Peruvian brightness: chili, citrus, and cold-pressed acidity. It's the same Nikkei formula that's made sister branches of this style popular across Southeast Asian capitals.
 
 Exact dishes and prices aren't something to lock in from a distance since menus shift, but go in expecting:
 
 - Sashimi and ceviche-style raw plates as the anchor of the menu
 - Japanese small plates alongside Peruvian-leaning mains
-- A cocktail list built for the view — this is as much a bar as a restaurant
+- A cocktail list built for the view. This is as much a bar as a restaurant
 
 Treat the specifics as fluid and confirm the current menu and pricing with the hotel before you go.
 
 ## Getting there
 
-Above Eleven is inside the Novotel Phnom Penh BKK1, which puts it firmly in the BKK1 district — the leafy, embassy-dense neighborhood south of the Royal Palace and Wat Phnom that's become the city's hub for boutique cafés, coworking spaces, and international dining. Most visitors arrive by tuk-tuk or a ride-hailing app rather than on foot, since BKK1's streets are spread out and not built for casual wandering after dark.
+Above Eleven is inside the Novotel Phnom Penh BKK1, which puts it firmly in the BKK1 district, the leafy, embassy-dense neighborhood south of the Royal Palace and Wat Phnom that's become the city's hub for boutique cafés, coworking spaces, and international dining. Most visitors arrive by tuk-tuk or a ride-hailing app rather than on foot, since BKK1's streets are spread out and not built for casual wandering after dark.
 
-Tell your driver you're headed to the Novotel BKK1 specifically, since Phnom Penh has more than one Novotel property. Once you're in the lobby, the rooftop elevator is your route up — hotel staff can point you to it if it isn't obvious.
+Tell your driver you're headed to the Novotel BKK1 specifically, since Phnom Penh has more than one Novotel property. Once you're in the lobby, the rooftop elevator is your route up, hotel staff can point you to it if it isn't obvious.
 
 ## When to go
 
 Rooftop bars in Phnom Penh are built for the transition from day to night, and Above Eleven is no exception. Arriving 30–45 minutes before sunset gives you time to get a seat near the edge, order a drink, and watch the light change over the river before the dinner crowd builds.
 
-Weekend evenings tend to draw the bar crowd later in the night, so if you want a calmer, more conversation-friendly dinner, an early weeknight visit is your best bet. As with any newly buzzy spot, confirm current opening hours and whether reservations are required — details like this can shift in a venue's first year.
+Weekend evenings tend to draw the bar crowd later in the night, so if you want a calmer, more conversation-friendly dinner, an early weeknight visit is your best bet. As with any newly buzzy spot, confirm current opening hours and whether reservations are required, details like this can shift in a venue's first year.
 
 ## How to visit like a local
 
@@ -68,6 +68,6 @@ Phnom Penh's rooftop scene is still young, and regulars treat these venues as mu
 - **Book ahead for sunset.** Window and rail-side tables are the draw, and they go first on weekends.
 - **Dress it up slightly.** BKK1's rooftop crowd skews smart-casual rather than beach-vacation attire.
 - **Pay by card.** Hotel-based venues in Phnom Penh almost universally accept cards, though small tips in cash (US dollars, the everyday currency alongside riel) are appreciated for attentive bar service.
-- **Don't rush the view.** Come for a pre-dinner cocktail even if you're eating elsewhere — nobody will hurry you off a rooftop table at golden hour.
+- **Don't rush the view.** Come for a pre-dinner cocktail even if you're eating elsewhere, nobody will hurry you off a rooftop table at golden hour.
 - **Confirm before you go.** As a recently opened venue, call or check the Novotel's official channels for current hours, dress code, and reservation policy rather than relying on outdated listings.
 

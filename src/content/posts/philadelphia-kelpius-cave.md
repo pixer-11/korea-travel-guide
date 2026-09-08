@@ -63,7 +63,7 @@ It never came, of course. What's left is a modest rock shelter, part natural, pa
 
 ## Why it's worth the detour
 
-You won't find grandeur here — that's the point. The cave is a low, dim recess barely deep enough to stand in, with a rough stone facade and iron gate added decades ago to keep it from collapsing further.
+You won't find grandeur here. That's the point. The cave is a low, dim recess barely deep enough to stand in, with a rough stone facade and iron gate added decades ago to keep it from collapsing further.
 
 What makes it worth seeking out is the atmosphere: hemlocks overhead, the creek murmuring below, and a genuine sense that you've stumbled onto something Philadelphia itself half-forgot. A small plaque nearby gives the backstory in a few clipped lines.
 
@@ -86,7 +86,7 @@ The path isn't paved, so wear shoes that can handle roots, mud, and a modest inc
 
 ## What to see and do nearby
 
-Once you've found the cave — it's easy to walk past if you're not watching for the small clearing — spend a few minutes reading the plaque and looking at the stonework before continuing your walk.
+Once you've found the cave, it's easy to walk past if you're not watching for the small clearing, spend a few minutes reading the plaque and looking at the stonework before continuing your walk.
 
 The Wissahickon's real draw is the valley itself, so don't treat the cave as a standalone errand.
 
@@ -99,14 +99,14 @@ The Wissahickon's real draw is the valley itself, so don't treat the cave as a s
 
 Go on a weekday morning if you can. The site is genuinely under-the-radar, and Wissahickon regulars treat it as a quiet detour rather than a destination, so you'll often have the clearing to yourself before mid-morning.
 
-There's no admission fee, no ticket booth, and nothing to buy — this is an outdoor historical landmark, not a managed attraction, so bring cash only if you plan to stop at Valley Green Inn afterward.
+There's no admission fee, no ticket booth, and nothing to buy. This is an outdoor historical landmark, not a managed attraction, so bring cash only if you plan to stop at Valley Green Inn afterward.
 
 A few practical notes:
 
 - It's open daily 9am–8pm, matching regular park hours, so plan to leave before dusk since there's no lighting on the trail
 - Skip the GPS pin and instead navigate to Forbidden Drive, then watch for the Hermit Lane trailhead sign
 - Don't climb on or into the grotto itself; the stonework is old and the interior is small and unstable
-- Combine the visit with a longer Wissahickon walk rather than a single-purpose trip — locals rarely visit the cave in isolation
+- Combine the visit with a longer Wissahickon walk rather than a single-purpose trip, locals rarely visit the cave in isolation
 
 Most visitors spend well under an hour at the cave itself, but pairing it with even a short stretch of the Wissahickon trail rounds out the trip and makes the drive or walk in worthwhile.
 

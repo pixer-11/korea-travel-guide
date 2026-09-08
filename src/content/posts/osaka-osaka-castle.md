@@ -65,35 +65,35 @@ draft: false
 
 Osaka Castle (Ōsakajō) is one of Japan's most recognizable landmarks, originally built in 1583 by Toyotomi Hideyoshi as he consolidated power after the death of Oda Nobunaga. The current structure dates from a 1931 reconstruction (with further restoration in 1997), since the original tower was destroyed in the 17th century and a later rebuild burned down in 1665. What stands today is a concrete reproduction faithful to the Edo-period silhouette, topped with gold-leaf tiger and dragon motifs, sitting atop genuinely massive Edo-era stone walls and moats that survived the centuries.
 
-With a 4.4 rating from nearly 98,000 reviews, it's one of the most-visited sites in Osaka, and the park around it — Osaka Castle Park (Ōsakajō Kōen) — is a destination in its own right, especially for cherry blossoms in late March/early April and autumn foliage in November.
+With a 4.4 rating from nearly 98,000 reviews, it's one of the most-visited sites in Osaka, and the park around it, Osaka Castle Park (Ōsakajō Kōen), is a destination in its own right, especially for cherry blossoms in late March/early April and autumn foliage in November.
 
 ## Getting there
 
 The castle sits in Chuo Ward at 1-1 Ōsakajō, and several stations put you within walking distance:
 
-- **Osakajokoen Station** (JR Osaka Loop Line) — the closest, roughly 10-15 minutes on foot through the park's northern approach.
-- **Tanimachi 4-chome Station** (Osaka Metro Tanimachi and Chuo Lines) — exit near the castle's west side, about a 10-minute walk to the main keep.
-- **Morinomiya Station** (JR Loop Line / Osaka Metro Nagahoribashi Line) — a slightly longer walk from the south side, useful if pairing with Morinomiya's shopping complexes.
+- **Osakajokoen Station** (JR Osaka Loop Line), the closest, roughly 10-15 minutes on foot through the park's northern approach.
+- **Tanimachi 4-chome Station** (Osaka Metro Tanimachi and Chuo Lines), exit near the castle's west side, about a 10-minute walk to the main keep.
+- **Morinomiya Station** (JR Loop Line / Osaka Metro Nagahoribashi Line), a slightly longer walk from the south side, useful if pairing with Morinomiya's shopping complexes.
 
 If arriving from Osaka Station/Umeda, the Loop Line direct to Osakajokoen is usually the simplest option, taking about 15-20 minutes.
 
 ## What to see and do
 
-The park itself is large — plan to walk. Key stops:
+The park itself is large. Plan to walk. Key stops:
 
 - **The main keep (tenshu)**: an 8-floor structure; the top floor is an observation deck with panoramic views over the moats and city skyline. Floors below house a museum with samurai armor, folding screens, and exhibits on Hideyoshi and the castle's history, including video reconstructions of famous sieges.
 - **Nishinomaru Garden**: a paid-entry garden on the castle's west side, particularly worth the extra time during cherry blossom season, with the tower framed behind the blossoms.
-- **The moats and stone walls**: some of the largest cut stones in Japan were used here — look for the giant Higo-ishi stone near the Sakuramon Gate, reportedly among the largest in the complex.
+- **The moats and stone walls**: some of the largest cut stones in Japan were used here. Look for the giant Higo-ishi stone near the Sakuramon Gate, reportedly among the largest in the complex.
 - **Otemon and Sakuramon Gates**: the main historical entry points, worth pausing at for the fortification design (masugata, or box-shaped defensive courtyards).
 
 Budget roughly 2-3 hours for the grounds and museum, longer if you linger in Nishinomaru Garden or walk the full moat perimeter.
 
 ## When to go
 
-Early morning (soon after opening, around 9am) avoids the worst of both crowds and, in summer, Osaka's heat and humidity. Spring (cherry blossoms, late March-early April) and autumn (foliage, November) are the most atmospheric but also the busiest — expect large tour groups. Evenings bring illumination of the tower after dark, and the park stays open late for a scenic, quieter stroll even when the museum itself has closed for the day.
+Early morning (soon after opening, around 9am) avoids the worst of both crowds and, in summer, Osaka's heat and humidity. Spring (cherry blossoms, late March-early April) and autumn (foliage, November) are the most atmospheric but also the busiest. Expect large tour groups. Evenings bring illumination of the tower after dark, and the park stays open late for a scenic, quieter stroll even when the museum itself has closed for the day.
 
 ## Nearby & practical tips
 
-The castle grounds are free to enter; only the museum inside the main keep charges admission, historically in the ¥600 range for adults with discounts for children — check official sources for current pricing before visiting, as fees and hours are periodically adjusted. Combination tickets covering Nishinomaru Garden are sometimes available. For food, the park has scattered cafés and vending areas, but the wider Osaka Business Park and Morinomiya district (both a short walk away) have full restaurant options.
+The castle grounds are free to enter; only the museum inside the main keep charges admission, historically in the ¥600 range for adults with discounts for children. Check official sources for current pricing before visiting, as fees and hours are periodically adjusted. Combination tickets covering Nishinomaru Garden are sometimes available. For food, the park has scattered cafés and vending areas, but the wider Osaka Business Park and Morinomiya district (both a short walk away) have full restaurant options.
 
 Rental bicycles and a small tourist tram (the "Road Train") operate within the park for those who'd rather not walk the full grounds. Combine a visit with the nearby Osaka Museum of History, just west of the castle near Tanimachi 4-chome Station, for a fuller picture of the city's Edo-period past.

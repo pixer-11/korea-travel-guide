@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: baguio-baguio-botanical-garden
-srcHash: '3d9dfbbc3267'
+srcHash: 'b75625558742'
 title: 碧瑶植物园（Baguio Botanical Garden）旅行指南（4.5★）
 description: 碧瑶植物园位于伦纳德伍德路（Leonard Wood Road），是一座免费开放的露天公园，以松荫小径、科迪勒拉风格的原住民茅屋和各色花园闻名。4.5★（8,339条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 碧瑶植物园位于伦纳德伍德路（Leonard Wood Road），是一座免费开放的露天公园，以松荫小径、科迪勒拉风格的原住民茅屋和各色花园最为出名。这里每天早上6点开放到晚上6点，游客一多起来速度很快——建议选工作日前往，或是周末早上8点前抵达，才能独享这些小径。

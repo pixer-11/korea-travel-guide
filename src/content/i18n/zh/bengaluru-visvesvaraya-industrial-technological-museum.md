@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bengaluru-visvesvaraya-industrial-technological-museum
-srcHash: 'bf56048eecac'
+srcHash: 'b91a85bcc8b2'
 title: 维斯维斯瓦拉亚工业科技博物馆：班加罗尔旅行指南
 description: 位于卡斯图尔巴路（Kasturba Road）的维斯维斯瓦拉亚工业科技博物馆，是班加罗尔最受欢迎的互动科普博物馆，每天9:30至18:00开放。4.6星（17,113条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 位于卡斯图尔巴路（Kasturba Road）的维斯维斯瓦拉亚工业科技博物馆，是班加罗尔人气最旺的互动科普博物馆，每天9:30至18:00开放。想避开人潮，最好选在开馆时或上午10点到11点之间前往——周末下午（中午到18:00）会非常拥挤。建议预留两到三个小时游览，之后不妨顺道去旁边的库本公园（Cubbon Park）散散步。

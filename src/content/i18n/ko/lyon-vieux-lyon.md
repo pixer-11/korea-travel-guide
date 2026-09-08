@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: lyon-vieux-lyon
-srcHash: '1abf4180a805'
+srcHash: 'aaa4c02aeb0e'
 title: 비외 리옹(Vieux Lyon) 여행 가이드
 description: '비외 리옹은 손강(Saône) 서안에 자리한 르네상스 지구로, 반나절이면 도보로 둘러보기 좋다: 트라불(traboules, 숨겨진 통로)을 거닐고, 푸니쿨라(등산 열차)를 타고 푸르비에르(Fourvière) 대성당까지 올라간 뒤, 부숑(bouchon)에서 저녁 식사로 마무리하자.'
 quickAnswer: '비외 리옹은 손강(Saône) 서안에 자리한 르네상스 지구로, 반나절이면 도보로 둘러보기 좋다: 트라불(traboules, 숨겨진 통로)을 거닐고, 푸니쿨라(등산 열차)를 타고 푸르비에르(Fourvière) 대성당까지 올라간 뒤, 부숑(bouchon)에서 저녁 식사로 마무리하자. 인파를 피하려면 평일 오전에 방문하고, 자갈길과 계단이 끝없이 이어지므로 굽 없는 편한 신발을 착용하자.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-formula-1-united-states-grand-prix
-srcHash: '5afcfb11fe98'
+srcHash: 'be94e58a7c7b'
 title: 'Gran Premio de Estados Unidos de Fórmula 1: fechas, entradas y circuito (Austin)'
 description: El Gran Premio de Estados Unidos de Fórmula 1 se celebra en Austin del 23 al 25 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
 quickAnswer: El Gran Premio de Estados Unidos de Fórmula 1 se disputa del 23 al 25 de octubre de 2026 en el Circuit of the Americas (COTA), al sureste de Austin, Texas, y este año suma a la acción en pista los conciertos de Maroon 5 y Post Malone. Conviene reservar entradas y viaje con antelación, ya que la oferta de hoteles en Austin se agota rápido ese fin de semana, y conviene confirmar el horario exacto, la apertura de puertas y los precios en las webs oficiales de F1 y de COTA antes de dar nada por hecho.

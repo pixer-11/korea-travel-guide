@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-maple-garden
-srcHash: '745d23573dfe'
+srcHash: '7a4323c4de1e'
 title: 'Parque Maple: Guía de Viaje de Taichung (4,2★)'
 description: 'El Parque Maple (楓樹公園) es un extenso y frondoso parque urbano en el distrito de Xitun, Taichung, construido alrededor de un gran estanque con peces, tortugas y aves acuáticas, además de un sendero natural pavimentado que recorre todo el recinto. 4,2★ (24.968 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Parque Maple (楓樹公園) es un extenso y frondoso parque urbano en el distrito de Xitun, Taichung, construido alrededor de un gran estanque con peces, tortugas y aves acuáticas, además de un sendero natural pavimentado que recorre todo el recinto. Permanece abierto las 24 horas, la entrada es gratuita y conviene visitarlo temprano por la mañana o al final de la tarde para evitar tanto el calor como las multitudes de después del trabajo. Lleve calzado adecuado, tenga en cuenta que las tardes de fin de semana suele haber bastante gente, y considérelo una parada de 45 a 90 minutos más que una excursión completa.

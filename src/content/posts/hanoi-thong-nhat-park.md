@@ -98,11 +98,11 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-You come here to watch Hanoi breathe. Thong Nhat Park is the city's lungs — a sprawling green buffer of lakes, shade trees, and gravel paths where the roar of motorbikes fades within a few steps of the gate.
+You come here to watch Hanoi breathe. Thong Nhat Park is the city's lungs, a sprawling green buffer of lakes, shade trees, and gravel paths where the roar of motorbikes fades within a few steps of the gate.
 
 At the center sits Bay Mau Lake, its surface dotted with paddle boats shaped like swans, ringed by benches where old men play Chinese chess under the trees. Mature tamarind and flame trees arch overhead, dropping dappled light onto joggers and tai chi groups.
 
-It's not a quiet secret — this is one of the most visited parks in the capital, and it shows in the crowds by late afternoon.
+It's not a quiet secret. This is one of the most visited parks in the capital, and it shows in the crowds by late afternoon.
 
 ## Getting there
 
@@ -131,20 +131,20 @@ Give yourself an hour for a walk around the lake, or half a day if you want to l
 
 The park is open every day from 6am to 10pm, with no midday closure, so there's flexibility in when you drop by.
 
-Early morning is the sweet spot. Between 7am and 8am, on both weekdays and weekends, the paths are at their calmest — just joggers, tai chi groups, and the occasional street vendor setting up.
+Early morning is the sweet spot. Between 7am and 8am, on both weekdays and weekends, the paths are at their calmest, just joggers, tai chi groups, and the occasional street vendor setting up.
 
 Avoid weekend afternoons if you want breathing room. From 3pm onward on Saturdays and Sundays, the park fills with families, couples, and groups staying well into the evening, and the lakeside paths get genuinely crowded.
 
-Evenings have their own appeal despite the crowds — string lights come on around the lake, food stalls multiply, and the atmosphere turns lively rather than serene.
+Evenings have their own appeal despite the crowds, string lights come on around the lake, food stalls multiply, and the atmosphere turns lively rather than serene.
 
 ## How to visit like a local
 
-Come at dawn if you want the park the way Hanoians actually use it. From around 6am, retirees and office workers arrive for badminton, tai chi, and brisk laps before the heat sets in — this is the park's real daily rhythm, not the tourist-brochure version.
+Come at dawn if you want the park the way Hanoians actually use it. From around 6am, retirees and office workers arrive for badminton, tai chi, and brisk laps before the heat sets in. This is the park's real daily rhythm, not the tourist-brochure version.
 
 Bring small cash (Vietnamese dong) for the modest entrance fee some gates charge, plus a bit extra for paddle boat rental or a drink from a cart vendor. Card payment isn't the norm here.
 
-There's no need to book anything — just walk in through whichever gate is nearest and follow the lake path.
+There's no need to book anything, just walk in through whichever gate is nearest and follow the lake path.
 
 The mistake most visitors make is treating this like a quick photo stop. Locals treat it as a place to slow down: bring a book, sit lakeside, watch the chess games. Skip the afternoon rush and you'll get the version of the park Hanoi actually loves.
 
-Wear comfortable shoes for the gravel paths, and expect little English signage — it's a local park first, tourist stop second.
+Wear comfortable shoes for the gravel paths, and expect little English signage. It's a local park first, tourist stop second.

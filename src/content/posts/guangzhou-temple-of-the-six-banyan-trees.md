@@ -78,9 +78,9 @@ updatedDate: '2026-09-02'
 
 ## Why go
 
-Most visitors to Guangzhou never make it here, which is exactly the point. Founded in 537 (with roots going back to 510), this is one of the city's oldest working temples, and it still functions as one — incense smoke curling past worshippers bowing at the main hall, not a museum piece behind glass.
+Most visitors to Guangzhou never make it here, which is exactly the point. Founded in 537 (with roots going back to 510), this is one of the city's oldest working temples, and it still functions as one, incense smoke curling past worshippers bowing at the main hall, not a museum piece behind glass.
 
-The centerpiece is the Flower Pagoda, a nine-story octagonal tower that actually has 17 internal levels once you count the mezzanines. Its tiered, flared eaves give it a blossoming, layered silhouette that's rare among Chinese pagodas — hence the name. You can't always climb it, so check at the entrance ticket booth when you arrive.
+The centerpiece is the Flower Pagoda, a nine-story octagonal tower that actually has 17 internal levels once you count the mezzanines. Its tiered, flared eaves give it a blossoming, layered silhouette that's rare among Chinese pagodas, hence the name. You can't always climb it, so check at the entrance ticket booth when you arrive.
 
 ## Getting there
 
@@ -92,7 +92,7 @@ From there, follow Liurong Lu and watch for the temple's white outer wall and th
 
 Once through the gate, the layout unfolds in a straightforward line: gate hall, then the Sixth Patriarch Hall, then the Flower Pagoda rising behind it, and finally the main Buddha Hall at the back.
 
-Inside the main hall sit three enormous bronze Buddha statues — Shakyamuni flanked by Buddhas of the past and future — cast during the Qing dynasty and each several meters tall. Look for the bronze statue of Su Shi, the Song-dynasty poet who gave the temple its English name after admiring six banyan trees growing in the courtyard during a visit.
+Inside the main hall sit three enormous bronze Buddha statues, Shakyamuni flanked by Buddhas of the past and future, cast during the Qing dynasty and each several meters tall. Look for the bronze statue of Su Shi, the Song-dynasty poet who gave the temple its English name after admiring six banyan trees growing in the courtyard during a visit.
 
 The trees themselves are gone now, but the name stuck. Wander the side halls and you'll find quieter shrines with far fewer visitors, good spots to sit and watch incense smoke drift through the shafts of light.
 
@@ -100,18 +100,18 @@ The trees themselves are gone now, but the name stuck. Wander the side halls and
 
 The temple keeps consistent hours daily, 8am to 5pm, with no weekly closing day. Because it's classified as under-the-radar compared to Guangzhou's bigger-name sights, you're unlikely to fight crowds even on weekends.
 
-Early morning is still your best bet — the light angles nicely through the courtyard trees, and you'll often have entire halls to yourself. Avoid the first few days of Chinese New Year and other major Buddhist festival dates, when local worshippers turn out in bigger numbers for ceremonies.
+Early morning is still your best bet, the light angles nicely through the courtyard trees, and you'll often have entire halls to yourself. Avoid the first few days of Chinese New Year and other major Buddhist festival dates, when local worshippers turn out in bigger numbers for ceremonies.
 
 ## How to visit like a local
 
-Bring small cash or have a mobile payment app ready — ticket booths and incense stalls near temples in China often don't take foreign cards.
+Bring small cash or have a mobile payment app ready, ticket booths and incense stalls near temples in China often don't take foreign cards.
 
-- **Buy incense outside if you want to offer some** — vendors near the entrance sell bundles, and the etiquette is three sticks, lit, held with both hands, bowed toward the main hall.
+- **Buy incense outside if you want to offer some**, vendors near the entrance sell bundles, and the etiquette is three sticks, lit, held with both hands, bowed toward the main hall.
 - **Keep your voice low** and phone on silent inside the halls; this is an active place of worship, not a photo backdrop.
-- **Dress modestly** — shoulders and knees covered is appreciated, though not strictly enforced.
-- **Don't rush the pagoda** — its interior climb (when open) is steep and narrow, so go slowly and let others pass on staircases.
+- **Dress modestly**, shoulders and knees covered is appreciated, though not strictly enforced.
+- **Don't rush the pagoda**, its interior climb (when open) is steep and narrow, so go slowly and let others pass on staircases.
 
-The mistake most first-time visitors make is treating this as a five-minute photo stop en route to bigger sights. Give it 45 minutes to an hour instead, and you'll notice details — carved roof beams, weathered stone tablets, the murmur of chanting from a side hall — that a quick walk-through misses entirely. Because it isn't overrun with tour groups, it rewards a slower pace better than almost any other historic site in central Guangzhou.
+The mistake most first-time visitors make is treating this as a five-minute photo stop en route to bigger sights. Give it 45 minutes to an hour instead, and you'll notice details (carved roof beams, weathered stone tablets, the murmur of chanting from a side hall) that a quick walk-through misses entirely. Because it isn't overrun with tour groups, it rewards a slower pace better than almost any other historic site in central Guangzhou.
 
 ## Nearby stops
 

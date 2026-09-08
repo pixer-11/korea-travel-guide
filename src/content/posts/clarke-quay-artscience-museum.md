@@ -107,7 +107,7 @@ Inside, ArtScience Museum mixes digital art, science exhibits and design in a wa
 
 The museum sits at 6 Bayfront Ave, on the Marina Bay waterfront next to Marina Bay Sands. From Clarke Quay, it's roughly a 20-minute walk along the river, past Boat Quay and under the Esplanade bridges, or a five-minute taxi ride.
 
-By train, take the Circle or Downtown Line to Bayfront Station and follow signs through the Marina Bay Sands shopping mall — it links directly to the museum without needing to go outside.
+By train, take the Circle or Downtown Line to Bayfront Station and follow signs through the Marina Bay Sands shopping mall, it links directly to the museum without needing to go outside.
 
 - Nearest MRT: Bayfront (Circle/Downtown Line)
 - Landmarks nearby: Marina Bay Sands, Gardens by the Bay, Helix Bridge
@@ -117,13 +117,13 @@ By train, take the Circle or Downtown Line to Bayfront Station and follow signs 
 
 The lineup of exhibitions rotates, often pairing a large touring show (think Van Gogh digital experiences, space exploration, or Disney/Pixar-style design retrospectives) with a permanent gallery exploring science and human curiosity.
 
-Future World, a longtime resident digital-art gallery, is usually the most photographed corner — floor-to-ceiling projections of flowers, waterfalls and animals that shift as you move through the room. Kids tend to gravitate here and stay a while.
+Future World, a longtime resident digital-art gallery, is usually the most photographed corner, floor-to-ceiling projections of flowers, waterfalls and animals that shift as you move through the room. Kids tend to gravitate here and stay a while.
 
 Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue whether you want one show or several.
 
 ## When to go
 
-Every day here runs the same hours: 10am to 7pm — worth confirming online since ticketed exhibitions sometimes vary.
+Every day here runs the same hours: 10am to 7pm, worth confirming online since ticketed exhibitions sometimes vary.
 
 Crowd patterns are consistent and worth planning around. On weekdays, the calmest window is 10am to noon, right after opening. On weekends, you get an even tighter lull, just 10am to 11am, before things fill in fast.
 
@@ -144,10 +144,10 @@ Evenings add another layer, since the Marina Bay waterfront runs light and water
 
 Book exhibition tickets online in advance. This is a very popular attraction, and walk-up queues at the counter can eat 20–30 minutes you won't get back, especially for headline touring shows.
 
-Arrive right at 10am if you want the galleries closer to empty — the quiet window closes fast once weekend crowds arrive. Weekday mornings between 10am and noon are your best bet for breathing room around the interactive exhibits.
+Arrive right at 10am if you want the galleries closer to empty. The quiet window closes fast once weekend crowds arrive. Weekday mornings between 10am and noon are your best bet for breathing room around the interactive exhibits.
 
-Payment inside is cashless — cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard across Singapore attractions, so don't expect to need cash.
+Payment inside is cashless, cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard across Singapore attractions, so don't expect to need cash.
 
-Don't rush Future World. It's designed to be walked through slowly, ideally without a phone glued to your face for the first pass — the projections respond to movement, so hanging back to watch how a room evolves over a minute or two is worth more than a quick photo lap.
+Don't rush Future World. It's designed to be walked through slowly, ideally without a phone glued to your face for the first pass, the projections respond to movement, so hanging back to watch how a room evolves over a minute or two is worth more than a quick photo lap.
 
 Since it's not a locals'-favorite spot so much as a major visitor attraction, treat it like one: go early, book ahead, and save the leisurely wandering for right after opening.

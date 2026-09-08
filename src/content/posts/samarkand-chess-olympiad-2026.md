@@ -43,7 +43,7 @@ eventFactsAsked: true
 
 You're watching chess history land somewhere new. The Chess Olympiad is FIDE's biggest team event, and 2026 marks its first time in Central Asia, with roughly 200 national federations sending open and women's teams to compete over two packed weeks.
 
-Samarkand isn't a neutral backdrop either. Uzbekistan has invested heavily in chess as a national pastime, and this city — a Silk Road capital with a chess-loving population — makes a fitting host.
+Samarkand isn't a neutral backdrop either. Uzbekistan has invested heavily in chess as a national pastime, and this city, a Silk Road capital with a chess-loving population, makes a fitting host.
 
 ## Getting there and getting oriented
 
@@ -59,18 +59,18 @@ The tournament venue itself hadn't been publicly finalized in detail at the time
 
 Expect a rhythm familiar to chess event veterans. Morning and afternoon rounds, rest days scattered through the two weeks, and a playing hall buzzing with hundreds of boards running simultaneously.
 
-The room hums rather than roars — arbiters moving quietly between tables, digital boards broadcasting top games to giant screens, and clusters of spectators pressing against ropes near the strongest matchups. Side halls usually host commentary, analysis with visiting grandmasters, and a bustling chess merchandise and book fair.
+The room hums rather than roars, arbiters moving quietly between tables, digital boards broadcasting top games to giant screens, and clusters of spectators pressing against ropes near the strongest matchups. Side halls usually host commentary, analysis with visiting grandmasters, and a bustling chess merchandise and book fair.
 
-Closing and opening ceremonies tend to be the loudest, most photogenic moments — flag parades, speeches, and often a cultural performance reflecting the host nation.
+Closing and opening ceremonies tend to be the loudest, most photogenic moments, flag parades, speeches, and often a cultural performance reflecting the host nation.
 
 ## Beyond the boards: what to see in Samarkand
 
 Between rounds, you're a ten-minute taxi ride from some of the most photographed architecture in Central Asia.
 
-- **Registan Square** — three monumental madrasahs faced in turquoise tilework, best seen at golden hour when the mosaics catch low sun
-- **Gur-e-Amir Mausoleum** — Timur's resting place, with a ribbed azure dome visible from several streets away
-- **Siab Bazaar** — a working market for fresh bread, dried fruit, and spices, loud with vendors calling out prices
-- **Shah-i-Zinda** — a narrow avenue of tiled mausoleums climbing a hillside, quieter than Registan and easy to reach on foot
+- **Registan Square**, three monumental madrasahs faced in turquoise tilework, best seen at golden hour when the mosaics catch low sun
+- **Gur-e-Amir Mausoleum**, Timur's resting place, with a ribbed azure dome visible from several streets away
+- **Siab Bazaar**, a working market for fresh bread, dried fruit, and spices, loud with vendors calling out prices
+- **Shah-i-Zinda**, a narrow avenue of tiled mausoleums climbing a hillside, quieter than Registan and easy to reach on foot
 
 ## When to go and what September brings
 
@@ -80,12 +80,12 @@ Book accommodation early. An event pulling in players, delegations, and journali
 
 ## How to visit like a local
 
-Uzbeks follow chess closely, and Olympiad host cities usually see genuine public enthusiasm rather than indifference — expect locals at cafés discussing overnight results.
+Uzbeks follow chess closely, and Olympiad host cities usually see genuine public enthusiasm rather than indifference. Expect locals at cafés discussing overnight results.
 
 - **Tickets**: FIDE typically sells spectator passes online in advance and sometimes at the door; confirm pricing and process on the official Olympiad site once released
-- **Payment**: carry both cash (Uzbek som) and a card — small vendors and bazaar stalls often prefer cash
+- **Payment**: carry both cash (Uzbek som) and a card, small vendors and bazaar stalls often prefer cash
 - **Pace yourself**: rounds run long; locals treat spectating as a drop-in activity, not a sit-through-everything commitment
-- **Etiquette**: keep phones silent and voices low near the boards — arbiters do enforce quiet
-- **Avoid the mistake**: don't assume the playing venue is inside the historic center — transport time between hotel, venue, and monuments needs building into your day
+- **Etiquette**: keep phones silent and voices low near the boards, arbiters do enforce quiet
+- **Avoid the mistake**: don't assume the playing venue is inside the historic center, transport time between hotel, venue, and monuments needs building into your day
 
-Confirm official dates, venue, and ticketing directly with FIDE before finalizing travel — details for a first-time host city can shift later than usual.
+Confirm official dates, venue, and ticketing directly with FIDE before finalizing travel, details for a first-time host city can shift later than usual.

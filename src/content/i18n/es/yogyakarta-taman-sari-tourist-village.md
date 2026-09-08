@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-taman-sari-tourist-village
-srcHash: '5ba4bf4825e1'
+srcHash: 'c8550ff35790'
 title: 'Taman Sari, la Aldea Turística: Guía de Viaje de Yogyakarta'
 description: Taman Sari (el Castillo del Agua) es un jardín real y complejo de baños del siglo XVIII en el distrito de Kraton, en Yogyakarta, que se disfruta mejor a primera hora de la mañana (entre las 8 y las 9) para evitar tanto el calor como los grupos turísticos.
 quickAnswer: Taman Sari (el Castillo del Agua) es un jardín real y complejo de baños del siglo XVIII en el distrito de Kraton, en Yogyakarta, que se disfruta mejor a primera hora de la mañana (entre las 8 y las 9) para evitar tanto el calor como los grupos turísticos. Calcula entre 1 y 1,5 horas, ponte algo cómodo para caminar por callejones estrechos, y combínalo con el cercano Palacio del Sultán (Kraton) y la mezquita subterránea, Sumur Gumuling, a poca distancia a pie.

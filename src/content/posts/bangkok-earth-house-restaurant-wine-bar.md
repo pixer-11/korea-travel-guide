@@ -93,19 +93,19 @@ heroImage:
   source: 'https://foursquare.com/v/6606b91857de177eaeeb058d'
 updatedDate: '2026-08-28'
 ---
-You turn off the roar of Sukhumvit Road onto Soi 53, and the traffic noise drops away almost immediately. Low-rise houses, overhanging trees, the occasional motorbike taxi idling in the shade — this is one of Bangkok's quieter residential sois, and Earth House sits inside it like a house that decided to become a restaurant.
+You turn off the roar of Sukhumvit Road onto Soi 53, and the traffic noise drops away almost immediately. Low-rise houses, overhanging trees, the occasional motorbike taxi idling in the shade. This is one of Bangkok's quieter residential sois, and Earth House sits inside it like a house that decided to become a restaurant.
 
 That's not far from the truth. The building has a converted-home feel: wooden shutters, plants crowding the windowsills, a garden-adjacent dining room that lets in real daylight rather than the fluorescent glare typical of Sukhumvit eateries. It's the kind of space that makes you lower your voice a little without anyone telling you to.
 
 ## Why it's worth the detour
 
-Earth House built its reputation on food that's genuinely plant-based without apologizing for it — no sad substitutions, no bland compromises. Expect wine-bar polish paired with globally-inflected vegetarian and vegan cooking: think hearty grain bowls, wood-fired flatbreads, and a rotating list of natural and organic wines chosen to actually match the food.
+Earth House built its reputation on food that's genuinely plant-based without apologizing for it, no sad substitutions, no bland compromises. Expect wine-bar polish paired with globally-inflected vegetarian and vegan cooking: think hearty grain bowls, wood-fired flatbreads, and a rotating list of natural and organic wines chosen to actually match the food.
 
-It's rated among the better-reviewed restaurants in this part of Watthana, with a loyal following that skews toward long, unhurried meals rather than quick turnovers. Prices sit in the mid-range — you're paying for ingredient quality and the wine list, not for spectacle.
+It's rated among the better-reviewed restaurants in this part of Watthana, with a loyal following that skews toward long, unhurried meals rather than quick turnovers. Prices sit in the mid-range. You're paying for ingredient quality and the wine list, not for spectacle.
 
 ## Getting there
 
-The closest station is Thong Lo BTS on the Sukhumvit Line, about a 10–15 minute walk down Soi 53. Alternatively, grab a short taxi or motorbike ride from the station mouth — cheap, fast, and the standard move for locals navigating these long sois.
+The closest station is Thong Lo BTS on the Sukhumvit Line, about a 10–15 minute walk down Soi 53. Alternatively, grab a short taxi or motorbike ride from the station mouth, cheap, fast, and the standard move for locals navigating these long sois.
 
 Sukhumvit 53 itself is narrow and shaded, lined with low apartment buildings and small businesses. If you're coming from Ekkamai or Phrom Phong, a taxi is more practical than walking the connecting sois.
 
@@ -125,18 +125,18 @@ Portions favor quality over quantity, so plan on two or three dishes per person 
 
 Hours shift through the week, so check the day before you plan around it. Weekdays see a later opening, with no morning or lunch service those days. Weekends open earlier, making weekend mornings the window for brunch. It's closed all day Monday.
 
-Weekends are the busiest stretch overall, with steady traffic from noon straight through to closing. If you want the dining room closer to yourself, the last hour before close — 10 to 11pm on weekends — is consistently the quietest window.
+Weekends are the busiest stretch overall, with steady traffic from noon straight through to closing. If you want the dining room closer to yourself, the last hour before close, 10 to 11pm on weekends, is consistently the quietest window.
 
 ## How to visit like a local
 
 Earth House isn't a hidden name exactly, but it still flies well under the radar compared to Bangkok's bigger-name wine bars, so you won't be fighting crowds most nights.
 
-- **Book for weekend brunch** — the weekend stretch draws the most people, especially midday onward.
-- **Go late for calm** — the 10–11pm window on weekends is your best shot at a relaxed, near-empty room.
-- **Pay by card or mobile** — most Bangkok restaurants in this bracket accept both; cash isn't necessary but small bills help for taxis.
-- **Skip lunch on weekdays** — weekdays open later, so don't plan a midday stop those days.
-- **Come hungry for wine, not just food** — the by-the-glass list rotates, so ask staff what's open that week rather than sticking to a fixed menu.
+- **Book for weekend brunch**, the weekend stretch draws the most people, especially midday onward.
+- **Go late for calm**. The 10–11pm window on weekends is your best shot at a relaxed, near-empty room.
+- **Pay by card or mobile**, most Bangkok restaurants in this bracket accept both; cash isn't necessary but small bills help for taxis.
+- **Skip lunch on weekdays**. Weekdays open later, so don't plan a midday stop those days.
+- **Come hungry for wine, not just food**, the by-the-glass list rotates, so ask staff what's open that week rather than sticking to a fixed menu.
 
-The mistake most first-timers make is treating it like a quick coffee stop. Earth House rewards a slower pace — a full meal, a glass or two, and enough time to notice the garden light shifting through the afternoon.
+The mistake most first-timers make is treating it like a quick coffee stop. Earth House rewards a slower pace, a full meal, a glass or two, and enough time to notice the garden light shifting through the afternoon.
 
 Give yourself 90 minutes to two hours for a proper visit, longer if you're working through the wine list. Pair it with a wander down Thong Lo's side streets afterward, since the neighborhood's small galleries and design shops keep similarly relaxed hours.

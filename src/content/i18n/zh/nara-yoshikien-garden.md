@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nara-yoshikien-garden
-srcHash: '8601561ae215'
+srcHash: '32bab7d0ba18'
 title: 吉城园:奈良旅行指南(4.6★)
 description: 吉城园(Yoshikien Garden)是紧邻奈良公园(Nara Park)的一座宁静的三合一回游式庭园，每日上午9点至下午5点开放，相比声名远扬的邻居东大寺(Todai-ji)和依水园(Isuien),它的人气实在被低估了。4.6★(1,210条评价)——游客怎么说、开放时间及游览贴士。
 quickAnswer: 吉城园(Yoshikien Garden)是紧邻奈良公园(Nara Park)的一座宁静的三合一回游式庭园，每日上午9点至下午5点开放，相比声名远扬的邻居东大寺(Todai-ji)和依水园(Isuien),它的人气实在被低估了。目前外国游客可免费入园。周末最清静的时段是下午4点到5点，中午12点到下午3点则人最多，建议傍晚时分前往。

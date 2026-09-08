@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: dubai-al-fahidi-historical-neighbourhood
-srcHash: '40233033e91c'
+srcHash: 'eabb635fea8e'
 title: '알 파히디 역사지구: 두바이 여행 가이드'
 description: 크리크(Creek) 부르 두바이(Bur Dubai) 쪽, 알 파히디 지하철역(Al Fahidi Metro Station, 그린 라인) 인근에 자리한 알 파히디 역사지구는 두바이에서 가장 잘 보존된 옛 시가지로, 산호석과 회반죽으로 지은 윈드타워 가옥들이 미로처럼 얽혀 있고 지금은 박물관, 갤러리, 카페들로 가득하다.
 quickAnswer: 크리크(Creek) 부르 두바이(Bur Dubai) 쪽, 알 파히디 지하철역(Al Fahidi Metro Station, 그린 라인) 인근에 자리한 알 파히디 역사지구는 두바이에서 가장 잘 보존된 옛 시가지로, 산호석과 회반죽으로 지은 윈드타워 가옥들이 미로처럼 얽혀 있고 지금은 박물관, 갤러리, 카페들로 가득하다. 2~3시간 정도 여유를 두고, 비교적 선선한 오전 시간이나 일몰 후에 방문하는 것이 좋으며, 텍스타일 수크(Textile Souk) 산책과 크리크를 가로지르는 아브라(abra) 탑승을 함께 즐기는 것을 추천한다.

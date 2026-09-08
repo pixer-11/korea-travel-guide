@@ -57,7 +57,7 @@ updatedDate: '2026-08-29'
 
 You come here for the view the city doesn't have: still water stretching between low, forested hills, with egrets picking along the shoreline and not a mall in sight. Manchanabele Dam holds back the Arkavathy River, and the reservoir it creates has become one of Bengaluru's default weekend escapes for anyone who wants water and hills without a multi-day trip.
 
-It isn't dramatic in the way a big hydroelectric dam is. It's modest, low-key, almost accidental-feeling — which is exactly its appeal.
+It isn't dramatic in the way a big hydroelectric dam is. It's modest, low-key, almost accidental-feeling, which is exactly its appeal.
 
 ## Getting there
 
@@ -71,7 +71,7 @@ There's no direct bus or train to the dam itself, so this is a drive-it-yourself
 
 ## What to see and do
 
-The main draw is simply standing on the dam wall or the rocks nearby and taking in the reservoir framed by the Savandurga and surrounding hill ranges. Bring binoculars if birdwatching interests you — the backwaters attract herons, kingfishers, and seasonal migratory species when water levels are right.
+The main draw is simply standing on the dam wall or the rocks nearby and taking in the reservoir framed by the Savandurga and surrounding hill ranges. Bring binoculars if birdwatching interests you, the backwaters attract herons, kingfishers, and seasonal migratory species when water levels are right.
 
 - Watch the sunset from the dam's edge or the rocky outcrops above the water
 - Spot waterbirds along the shallower backwater stretches
@@ -82,7 +82,7 @@ Water levels swing a lot with the monsoon. Come just after the rains and the res
 
 ## When to go
 
-The dam is open 24 hours, every day, with no formal entry gate — so timing is entirely up to you and daylight. Early morning, roughly 6:30 to 9am, gives you soft light, active birdlife, and far fewer people around.
+The dam is open 24 hours, every day, with no formal entry gate, so timing is entirely up to you and daylight. Early morning, roughly 6:30 to 9am, gives you soft light, active birdlife, and far fewer people around.
 
 Late afternoon into sunset, around 5 to 6:30pm, is the other sweet spot, especially October through February when the air is cooler and skies are clearer. Avoid the peak of summer midday heat, when the surrounding rock and scrub offer little shade.
 
@@ -92,8 +92,8 @@ Weekends bring a noticeably bigger crowd of picnickers and bike groups, particul
 
 Locals and regular Bengaluru daytrippers treat this as a half-day loop, not a full outing on its own. Leave the city by 6 or 6:30am to catch the quiet morning light and beat both the heat and the weekend traffic on Magadi Road.
 
-There's no ticket counter and no fixed hours, so nobody is checking you in — that also means no lifeguards, no railings in places, and no facilities to speak of. Carry your own water, snacks, and any trash bags, since there's little to no waste infrastructure on site.
+There's no ticket counter and no fixed hours, so nobody is checking you in, that also means no lifeguards, no railings in places, and no facilities to speak of. Carry your own water, snacks, and any trash bags, since there's little to no waste infrastructure on site.
 
-Cash isn't really needed here unless you stop at a roadside stall en route for tea or snacks — pay small vendors in cash, as card and UPI machines are unreliable this far out. The most common mistake visitors make is treating the rocks near the water as safe for swimming or wading; currents and slippery algae-covered stone have caused accidents here, so admire the reservoir from solid ground rather than getting in.
+Cash isn't really needed here unless you stop at a roadside stall en route for tea or snacks, pay small vendors in cash, as card and UPI machines are unreliable this far out. The most common mistake visitors make is treating the rocks near the water as safe for swimming or wading; currents and slippery algae-covered stone have caused accidents here, so admire the reservoir from solid ground rather than getting in.
 
-Since this is a well-known spot rather than a quiet secret, expect other visitors, especially bikers and photography groups, on any clear-weather weekend — plan your peaceful moment for the early morning window instead of expecting solitude.
+Since this is a well-known spot rather than a quiet secret, expect other visitors, especially bikers and photography groups, on any clear-weather weekend. Plan your peaceful moment for the early morning window instead of expecting solitude.

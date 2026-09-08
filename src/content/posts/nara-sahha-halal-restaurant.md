@@ -53,28 +53,28 @@ aiGenerated: true
 ---
 ## Why Sahha matters in Nara
 
-Nara's food scene skews toward soba, kakinoha-zushi (persimmon-leaf sushi), and tourist-friendly udon shops clustered near Nara Park and Kintetsu-Nara Station — but halal options historically have been thin on the ground. Sahha fills that gap decisively. With a 4.9 rating across more than 639 reviews, it's one of the most consistently praised restaurants in the region, halal or otherwise. For Muslim visitors touring Tōdai-ji, Kasuga Taisha, or the deer of Nara Park, it removes the usual headache of hunting for a certified kitchen, and for everyone else it's simply a well-reviewed spot for generous, flavorful cooking that leans on halal meats, rice dishes, and Japanese-style curry.
+Nara's food scene skews toward soba, kakinoha-zushi (persimmon-leaf sushi), and tourist-friendly udon shops clustered near Nara Park and Kintetsu-Nara Station, but halal options historically have been thin on the ground. Sahha fills that gap decisively. With a 4.9 rating across more than 639 reviews, it's one of the most consistently praised restaurants in the region, halal or otherwise. For Muslim visitors touring Tōdai-ji, Kasuga Taisha, or the deer of Nara Park, it removes the usual headache of hunting for a certified kitchen, and for everyone else it's simply a well-reviewed spot for generous, flavorful cooking that leans on halal meats, rice dishes, and Japanese-style curry.
 
 ## Getting there
 
-Sahha sits at 1071-2 Hōrenchō, Nara, 630-8113 — a residential-commercial pocket north of the old city center, away from the dense tourist strip around Sanjo-dori and Nara Park. It's not walkable from Kintetsu-Nara or JR Nara stations in the way that Todai-ji or Isuien Garden are; budget for a taxi (roughly 10–15 minutes from either station) or check local bus routes toward Hōrenchō before you go, since routes and stop names can shift.
+Sahha sits at 1071-2 Hōrenchō, Nara, 630-8113, a residential-commercial pocket north of the old city center, away from the dense tourist strip around Sanjo-dori and Nara Park. It's not walkable from Kintetsu-Nara or JR Nara stations in the way that Todai-ji or Isuien Garden are; budget for a taxi (roughly 10–15 minutes from either station) or check local bus routes toward Hōrenchō before you go, since routes and stop names can shift.
 
-If you're driving or renting a bike, punch the address directly into a map app — Hōrenchō is a quieter grid of streets, so having the exact address on hand matters more here than in the tourist core.
+If you're driving or renting a bike, punch the address directly into a map app, Hōrenchō is a quieter grid of streets, so having the exact address on hand matters more here than in the tourist core.
 
 ## What to expect on the plate
 
-Expect halal-certified versions of dishes that blend Japanese technique with South Asian and Southeast Asian flavor profiles — curries, grilled or fried chicken and beef preparations, and rice-forward sets are the backbone of this kind of restaurant in Japan. Portions at halal specialty spots in Japan tend to run generous, aimed at satisfying both homesick expat diners and Japanese customers curious about halal cuisine.
+Expect halal-certified versions of dishes that blend Japanese technique with South Asian and Southeast Asian flavor profiles, curries, grilled or fried chicken and beef preparations, and rice-forward sets are the backbone of this kind of restaurant in Japan. Portions at halal specialty spots in Japan tend to run generous, aimed at satisfying both homesick expat diners and Japanese customers curious about halal cuisine.
 
-Given the review volume and near-perfect rating, come hungry and expect a proper sit-down meal rather than a quick snack — plan on 45 minutes to over an hour if the dining room is busy. As with any smaller independent restaurant, exact menu items and prices shift over time, so treat any specific dish name you've read online as a guide rather than a guarantee, and ask staff about current halal certification details if that's a priority for your visit.
+Given the review volume and near-perfect rating, come hungry and expect a proper sit-down meal rather than a quick snack. Plan on 45 minutes to over an hour if the dining room is busy. As with any smaller independent restaurant, exact menu items and prices shift over time, so treat any specific dish name you've read online as a guide rather than a guarantee, and ask staff about current halal certification details if that's a priority for your visit.
 
 ## When to go
 
-Lunch is generally the safer bet at neighborhood restaurants like this one in Japan, both for kitchen freshness and for avoiding a dinner rush if Sahha is popular with local Muslim families and students on weekends. Nara's high season — cherry blossoms in late March/early April and autumn foliage in November — brings a spike in visitors citywide, so if you're combining a temple day with a meal here, consider going right at lunch opening or in the early afternoon lull to avoid a wait.
+Lunch is generally the safer bet at neighborhood restaurants like this one in Japan, both for kitchen freshness and for avoiding a dinner rush if Sahha is popular with local Muslim families and students on weekends. Nara's high season, cherry blossoms in late March/early April and autumn foliage in November, brings a spike in visitors citywide, so if you're combining a temple day with a meal here, consider going right at lunch opening or in the early afternoon lull to avoid a wait.
 
 Because this is a residential-area restaurant rather than a tourist-strip one, it's less likely to be swamped than places directly beside Nara Park, but calling ahead or checking a live map listing for today's hours is still worth the two minutes it takes.
 
 ## Nearby & practical tips
 
-Hōrenchō isn't packed with sightseeing on its own, so most visitors will treat Sahha as a deliberate detour from the Nara Park/Tōdai-ji/Kasuga Taisha cluster rather than a stop along the way — build in transit time both directions. If you're combining it with sightseeing, do the temples first (they're at their best in soft morning light before tour buses arrive) and route to Sahha for a late lunch.
+Hōrenchō isn't packed with sightseeing on its own, so most visitors will treat Sahha as a deliberate detour from the Nara Park/Tōdai-ji/Kasuga Taisha cluster rather than a stop along the way, build in transit time both directions. If you're combining it with sightseeing, do the temples first (they're at their best in soft morning light before tour buses arrive) and route to Sahha for a late lunch.
 
 Carry cash as backup even if cards are accepted, a good habit at smaller Japanese restaurants generally, and note that halal certification standards and hours can change, so a quick call or check of an official listing before you travel out to Hōrenchō will save you a wasted trip.

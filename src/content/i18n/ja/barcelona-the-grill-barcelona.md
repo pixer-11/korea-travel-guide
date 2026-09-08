@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: barcelona-the-grill-barcelona
-srcHash: '1355145dfc27'
+srcHash: 'b33687aaa841'
 title: ザ・グリル：バルセロナで食べるべき店（4.8★)
 description: ザ・グリル バルセロナは、ラ・ランブラ(La Rambla)が港と交わるプラサ・ポルタル・デ・ラ・パウ(Plaça Portal de la Pau)、コロンブスの記念碑(Columbus Monument)のふもとにある、3,000件を大きく超えるレビューで4.8の評価を誇る中価格帯の地中海グリルレストランです。
 quickAnswer: ザ・グリル バルセロナは、ラ・ランブラ(La Rambla)が港と交わるプラサ・ポルタル・デ・ラ・パウ(Plaça Portal de la Pau)、コロンブスの記念碑(Columbus Monument)のふもとにある、3,000件を大きく超えるレビューで4.8の評価を誇る中価格帯の地中海グリルレストランです。午前10時の開店直後を狙うか、午後8時以降の遅めのディナーにすれば、週末の午後1時〜8時の混雑を避けられます。しっかりグリル料理を座って楽しむなら、1時間〜90分ほど見ておきましょう。

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taipei-itzy-tunnel-vision-world-tour-taipei
-srcHash: '4d5bc0faba6d'
+srcHash: '44e7e8bdbd31'
 title: 'ITZY ''TUNNEL VISION'' 월드투어 타이베이 공연: 알아두면 좋은 정보 (타이베이)'
 description: ITZY의 TUNNEL VISION 월드투어는 2026년 9월 5일 타이베이 아레나(台北小巨蛋)에서 열릴 예정이었으며, 2026년 EP Motto 수록곡과 기존 히트곡들로 무대가 구성될 예정이었습니다.
 quickAnswer: ITZY의 TUNNEL VISION 월드투어는 2026년 9월 5일 타이베이 아레나(台北小巨蛋)에서 타이베이 공연이 열릴 예정이었습니다. 이번 공연은 그룹의 2026년 EP Motto 수록곡과 기존 히트곡들을 중심으로 구성될 예정이었습니다. 타이베이 아레나에서 열리는 주요 K팝 아티스트들의 공연은 대체로 매진되는 경우가 많았고, 인근 MRT역 주변으로도 많은 인파가 몰리곤 했습니다.

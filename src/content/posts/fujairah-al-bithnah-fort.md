@@ -54,7 +54,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You come off the main road into Al-Bithnah village and the fort appears almost without warning — a squat, sand-colored tower rising off a rocky outcrop above a dry wadi bed. There's no ticket booth crowd, no tour buses idling out front. Just the fort, the mountains behind it, and the low hum of the village going about its day.
+You come off the main road into Al-Bithnah village and the fort appears almost without warning, a squat, sand-colored tower rising off a rocky outcrop above a dry wadi bed. There's no ticket booth crowd, no tour buses idling out front. Just the fort, the mountains behind it, and the low hum of the village going about its day.
 
 ## A fort that actually watched the road
 
@@ -64,7 +64,7 @@ The structure is built from stone and mud-brick, materials that have weathered i
 
 ## What you'll actually see
 
-Inside, the fort is compact — this is not a sprawling palace complex, and that's part of its appeal. Expect:
+Inside, the fort is compact. This is not a sprawling palace complex, and that's part of its appeal. Expect:
 
 - A central tower you can climb for views over the palm groves and wadi
 - Thick perimeter walls with narrow firing slits
@@ -77,7 +77,7 @@ Give it 20 to 30 minutes on-site. It's not a place that demands hours, but the s
 
 Al-Bithnah village sits roughly 20 minutes by car inland from Fujairah city, along the road that traces Wadi Ham toward the interior. There's no public transit that runs directly to the fort, so a rental car or taxi is the practical option.
 
-Once you're in the village, the fort is visible from the road — head toward the rocky rise above the wadi bed. Parking is informal and free, usually just a patch of ground near the base.
+Once you're in the village, the fort is visible from the road. Head toward the rocky rise above the wadi bed. Parking is informal and free, usually just a patch of ground near the base.
 
 While you're out this way, it's worth continuing on to the Bithnah archaeological site nearby, which holds one of the oldest known tombs in the UAE. The two sites together make a satisfying half-day loop from Fujairah city.
 
@@ -89,11 +89,11 @@ That said, the UAE sun is the real factor here, not foot traffic. Aim for the fi
 
 ## How to visit like a local
 
-Treat this as a quiet detour, not a headline stop — that's how it's mostly used by people who do visit. Arrive early, ideally close to the 8am opening, both for the light and to beat any midday heat building up in the exposed courtyard.
+Treat this as a quiet detour, not a headline stop. That's how it's mostly used by people who do visit. Arrive early, ideally close to the 8am opening, both for the light and to beat any midday heat building up in the exposed courtyard.
 
-- Wear shoes with grip — the rocky base and stairs inside the tower aren't polished or railed
+- Wear shoes with grip, the rocky base and stairs inside the tower aren't polished or railed
 - Dress modestly, as you would at any heritage site in the Emirates
 - Combine it with the Bithnah tomb site rather than treating it as a standalone trip
-- Don't rush the exterior walk — the fort's relationship to the wadi and mountains is the real payoff, not just the interior rooms
+- Don't rush the exterior walk, the fort's relationship to the wadi and mountains is the real payoff, not just the interior rooms
 
 Locals passing through Wadi Ham tend to glance at it as a landmark on the drive rather than a destination in itself, so don't expect facilities or a gift shop. Bring water, and confirm the 8am–4pm hours haven't shifted before you make the drive out.

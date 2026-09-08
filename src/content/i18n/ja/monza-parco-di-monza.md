@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: monza-parco-di-monza
-srcHash: 'edfe55157d6e'
+srcHash: 'bb3dbef943a4'
 title: モンツァ公園(Parco di Monza)旅行ガイド
 description: モンツァ公園(Parco di Monza)は約700ヘクタールという、ヨーロッパでも最大級の壁に囲まれた公園で、ヴィッラ・レアーレ(Villa Reale)とアウトドローモ・ナツィオナーレ・モンツァ(Autodromo Nazionale Monza)を内包しています。
 quickAnswer: モンツァ公園(Parco di Monza)は約700ヘクタールという、ヨーロッパでも最大級の壁に囲まれた公園で、ヴィッラ・レアーレ(Villa Reale)とアウトドローモ・ナツィオナーレ・モンツァ(Autodromo Nazionale Monza)を内包しています。混雑を避けるなら平日の午前早めの時間に訪れるのがおすすめです。自転車やピクニック、そしてF1サーキットの公道部分を歩けることもあり、半日から1日かけて楽しめるスポットです。ポルタ・モンツァ(Porta Monza)またはポルタ・ヴェダーノ(Porta Vedano)から入園し、ヴィッラ・レアーレの庭園やレーストラック周辺の公道を一周してみましょう。

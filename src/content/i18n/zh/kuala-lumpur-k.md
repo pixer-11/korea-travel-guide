@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-k
-srcHash: '6bf1ea46f566'
+srcHash: 'd7d632f4c534'
 title: K 圭：吉隆坡美食新去处
 description: K 圭位于马来西亚吉隆坡，是一家新晋热门餐厅——本文介绍它是什么、地址在哪，以及如何前往用餐。
 quickAnswer: K 圭（读作 "Kei"）是一家以怀石料理为灵感的日本餐厅，坐落于吉隆坡 KLCC/安邦（Ampang）金融区 Jalan Binjai 路上的 ILHAM Tower 内，由主厨关秀道（Hidemichi Seki）主理。它荣获《Tatler》评选的 2026 年最佳新餐厅，凭借的是其精致、就地取材的日式精致餐饮理念——请提前预订，着装建议为休闲正式装，出发前请直接向餐厅确认最新的营业时间和用餐时段，因为这类套餐形式的餐厅通常只提供有限的、分时段的座位。

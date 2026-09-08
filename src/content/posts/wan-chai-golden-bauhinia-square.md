@@ -80,13 +80,13 @@ draft: false
 ---
 ## Why go
 
-You come here for one gold statue and a slice of harbour that photographs better than it sounds on paper. The Golden Bauhinia — a stylised version of Hong Kong's emblem flower, cast in bronze and gilded — marks the spot where sovereignty passed from Britain to China in 1997. It sits low on a stone plinth, ringed by flagpoles, with the water and Kowloon skyline stacked up behind it.
+You come here for one gold statue and a slice of harbour that photographs better than it sounds on paper. The Golden Bauhinia (a stylised version of Hong Kong's emblem flower, cast in bronze and gilded) marks the spot where sovereignty passed from Britain to China in 1997. It sits low on a stone plinth, ringed by flagpoles, with the water and Kowloon skyline stacked up behind it.
 
 It's not a grand monument up close. It's small, plain, almost modest for what it commemorates. The setting does the heavy lifting.
 
 ## Getting there
 
-The square sits at 1 Expo Drive, wedged against the Hong Kong Convention and Exhibition Centre on the Wan Chai waterfront. Walk from Wan Chai MTR station (Island line) — it's about 10-15 minutes through the elevated footbridge system that threads over Gloucester Road and into the Convention Centre complex.
+The square sits at 1 Expo Drive, wedged against the Hong Kong Convention and Exhibition Centre on the Wan Chai waterfront. Walk from Wan Chai MTR station (Island line). It's about 10-15 minutes through the elevated footbridge system that threads over Gloucester Road and into the Convention Centre complex.
 
 Alternatively, take the Star Ferry pier at Wan Chai, a short stroll north along the promenade. Taxis can drop you right at the Convention Centre entrance if you're coming straight from a hotel.
 
@@ -95,7 +95,7 @@ Alternatively, take the Star Ferry pier at Wan Chai, a short stroll north along 
 The statue itself takes two minutes. The real reason to linger is what surrounds it:
 
 - **Harbour views** across to Tsim Sha Tsui and the Kowloon skyline, especially sharp in late afternoon light
-- **The flag-raising ceremony**, with a smaller police honour guard than you'd expect — worth timing your visit around if you want to see it
+- **The flag-raising ceremony**, with a smaller police honour guard than you'd expect, worth timing your visit around if you want to see it
 - **The Golden Bauhinia Square Flag Raising Pavilion**, the small structure beside the statue where the ceremony takes place
 - **Convention Avenue** and the surrounding plaza, good for a slow loop before or after
 
@@ -105,25 +105,25 @@ Bring the wide-angle lens setting on your phone. Sunset and blue hour, looking a
 
 This is a 24-hour public space, so there's no gate and no closing time. But "open always" doesn't mean "empty at all hours."
 
-Weekends get genuinely busy from 11am right through to 10pm — tour groups, families, photographers all converging at once. If you want the square closer to yourself, aim for 7am to 8am on a weekend morning.
+Weekends get genuinely busy from 11am right through to 10pm, tour groups, families, photographers all converging at once. If you want the square closer to yourself, aim for 7am to 8am on a weekend morning.
 
 Weekday mornings before the office crowd arrives tend to be calm too, though there's no hard data pinning down the exact quiet hours midweek. Either way, earlier beats later.
 
 ## Nearby to combine with your visit
 
-Golden Bauhinia Square isn't a destination you build a whole day around — it's a stop you fold into a bigger Wan Chai or harbour-front loop.
+Golden Bauhinia Square isn't a destination you build a whole day around. It's a stop you fold into a bigger Wan Chai or harbour-front loop.
 
-- **Hong Kong Convention and Exhibition Centre** — right next door, worth a glance at the distinctive swooping roofline
-- **Wan Chai waterfront promenade** — extends both directions for an easy walk
-- **Central, via Star Ferry** — a short harbour crossing if you want to keep moving
-- **Causeway Bay** — a 15-20 minute walk or short MTR hop for shopping and food afterward
+- **Hong Kong Convention and Exhibition Centre**, right next door, worth a glance at the distinctive swooping roofline
+- **Wan Chai waterfront promenade**, extends both directions for an easy walk
+- **Central, via Star Ferry**, a short harbour crossing if you want to keep moving
+- **Causeway Bay**, a 15-20 minute walk or short MTR hop for shopping and food afterward
 
 ## How to visit like a local
 
-Locals mostly pass through here rather than linger — it's a well-known stop on the tourist circuit, not a neighborhood hangout, so don't expect a quiet local secret. The etiquette is simple: it's a public plaza, free to enter, no ticket or booking needed at any hour.
+Locals mostly pass through here rather than linger. It's a well-known stop on the tourist circuit, not a neighborhood hangout, so don't expect a quiet local secret. The etiquette is simple: it's a public plaza, free to enter, no ticket or booking needed at any hour.
 
-If you're catching the 8am flag ceremony, stand back from the roped area near the pavilion — it's brief, formal, and over in a few minutes. Don't expect an elaborate show.
+If you're catching the 8am flag ceremony, stand back from the roped area near the pavilion. It's brief, formal, and over in a few minutes. Don't expect an elaborate show.
 
 The mistake most visitors make is treating this as a standalone destination worth a special trip. It isn't. Fold it into a waterfront walk, time it around sunset or the early-morning quiet window, and keep your expectations calibrated to what it actually is: a photo stop with real historical weight, not a sprawling attraction.
 
-No food stalls or vendors operate directly in the square, so eat beforehand in Wan Chai or continue on to Causeway Bay afterward. Cash and cards are irrelevant here — there's nothing to buy.
+No food stalls or vendors operate directly in the square, so eat beforehand in Wan Chai or continue on to Causeway Bay afterward. Cash and cards are irrelevant here. There's nothing to buy.

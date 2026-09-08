@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-museum-of-art-photography-map
-srcHash: '2e8666ae76c3'
+srcHash: 'e90e0f0fb49b'
 title: 'Museo de Arte y Fotografía (MAP): guía de viaje de Bengaluru'
 description: 'El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. 4,5★ (2.684 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. Conviene ir de martes a viernes de 10:00 a 18:30 h, o el fin de semana, cuando abre hasta las 19:30 h; si se visita en sábado o domingo, lo mejor es llegar justo a las 10:00 h para evitar la afluencia de público que se acumula a partir del mediodía. Hay que reservar entre dos y tres horas para recorrer las cinco plantas de salas.

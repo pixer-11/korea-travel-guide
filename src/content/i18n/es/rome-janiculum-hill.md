@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-janiculum-hill
-srcHash: '8806a6e905a5'
+srcHash: 'c71879a39183'
 title: 'Colina del Janículo: Guía de viaje de Roma (4.7★)'
 description: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. 4.7★ (25.736 opiniones) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. Ve entre las 7 y las 9 de la mañana —la franja de tranquilidad comprobada tanto en días de semana como en fines de semana— para disfrutar solo de la vista, la fuente y el punto donde dispara el cañón antes de que lleguen las multitudes, que se mantienen densas hasta las 23:00 los fines de semana. Reserva medio día para combinar la colina con un paseo por Trastevere, abajo.

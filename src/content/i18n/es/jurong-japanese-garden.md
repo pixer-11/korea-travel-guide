@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jurong-japanese-garden
-srcHash: 'ca66ae5dd335'
+srcHash: '27c70a28367d'
 title: 'Jardín Japonés de Jurong: guía de viaje (4,5★)'
 description: 'El Jardín Japonés de Jurong es un tranquilo parque insular de trazado tradicional, con estanques, faroles de piedra y puentes arqueados, abierto todos los días de 5:30 a 24:00. 4,5★ (900 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Japonés de Jurong es un tranquilo parque insular de trazado tradicional, con estanques, faroles de piedra y puentes arqueados, abierto todos los días de 5:30 a 24:00. Sigue siendo un lugar poco conocido, así que las mañanas entre semana o las tardes después de las 18:00 se sienten casi vacías. Calcule entre 45 y 90 minutos, y combínelo con el vecino Jardín Chino para completar el recorrido.

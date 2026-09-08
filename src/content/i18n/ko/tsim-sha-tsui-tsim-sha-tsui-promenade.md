@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: tsim-sha-tsui-tsim-sha-tsui-promenade
-srcHash: '1c64bb99d213'
+srcHash: '1426c5d733e3'
 title: 침사추이 프롬나드(Tsim Sha Tsui Promenade) 여행 가이드 (4.5★)
 description: 침사추이 프롬나드는 빅토리아 하버(Victoria Harbour)를 따라 이어지는 산책로로, 홍콩섬 스카이라인을 마주보고 있습니다. 무료이며 24시간 개방되어 있고, 관광버스가 몰려들기 전 이른 아침이 가장 한적합니다. 4.5★(리뷰 119개) — 방문객 후기, 운영 시간, 팁을 확인하세요.
 quickAnswer: 침사추이 프롬나드는 빅토리아 하버를 따라 이어지는 산책로로, 홍콩섬 스카이라인을 마주보고 있습니다. 무료이며 24시간 개방되어 있고, 관광버스가 몰려들기 전 이른 아침이 가장 한적합니다. 멋진 전망과 스타의 거리(Avenue of Stars), 오후 8시에 시작되는 심포니 오브 라이트(Symphony of Lights) 쇼를 보러 오는 곳이지만, 이 복잡한 도시에서 보기 드문 시원한 공기와 탁 트인 하늘을 즐기러 아무 때나 산책해도 좋습니다.

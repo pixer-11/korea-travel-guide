@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-gingie
-srcHash: '633cc63865aa'
+srcHash: 'd324d003ca8e'
 title: 'Gingie: guía de viaje de Chicago'
 description: 'Gingie, en Chicago, Estados Unidos, es uno de los locales nuevos del momento: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Gingie es el nuevo restaurante del momento en River North, obra del chef Brian Lockwood y respaldado por Kevin Boehm y Rob Katz, restauradores ganadores del premio James Beard. Se trata del primer local en solitario de Lockwood, así que hay que contar con una sala llena y esperas si no se reserva con antelación. Conviene confirmar el horario y la disponibilidad para reservar antes de ir, ya que los detalles todavía están cambiando tras la apertura.

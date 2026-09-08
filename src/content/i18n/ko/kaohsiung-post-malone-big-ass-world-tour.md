@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kaohsiung-post-malone-big-ass-world-tour
-srcHash: '5a093c70622a'
+srcHash: '299b1ecf2aa9'
 title: '포스트 말론 – Big Ass World Tour: 일정, 티켓 및 공연장 안내 (가오슝)'
 description: 2026년 9월 19일, 대만 가오슝에서 열리는 포스트 말론의 Big Ass World Tour 공연 소식입니다. 공연 개요와 일시, 장소는 물론 관람 계획을 세우는 방법까지 안내합니다.
 quickAnswer: 포스트 말론은 Big Ass World Tour 아시아 투어의 일환으로 2026년 9월 19일 가오슝 국가체육장(Kaohsiung National Stadium)에서 공연합니다. 티켓은 발표되는 즉시 공식 프로모터나 아티스트 채널을 통해서만 구매해야 하며, 정확한 입장 시간과 좌석 배치도, 가격 정보는 공연일이 가까워졌을 때 다시 확인하는 것이 좋습니다. 태양광 패널로 유명한 가오슝의 상징적인 체육장이 위치한 곳은 줘잉구(Zuoying District)이며, 페스티벌처럼 며칠씩 즐기는 일정이 아니라 단 하룻밤의 대형 공연을 중심으로 여행 계획을 짜는 것이 좋습니다.

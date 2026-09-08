@@ -70,32 +70,32 @@ aiGenerated: true
 draft: false
 ---
 
-You see the towers before you see the building. Walking up Boulevard Longchamp from the Cinq Avenues métro stop, the street narrows between plane trees, then suddenly opens onto a wide gravel plaza and there it is: two curved stone wings sweeping toward each other like open arms, water crashing down the middle in a stepped cascade, bronze bulls glinting on the parapet above. It's a strange, theatrical thing to find in the middle of a residential neighborhood, and that's exactly the point — this was built to be seen.
+You see the towers before you see the building. Walking up Boulevard Longchamp from the Cinq Avenues métro stop, the street narrows between plane trees, then suddenly opens onto a wide gravel plaza and there it is: two curved stone wings sweeping toward each other like open arms, water crashing down the middle in a stepped cascade, bronze bulls glinting on the parapet above. It's a strange, theatrical thing to find in the middle of a residential neighborhood, and that's exactly the point. This was built to be seen.
 
 ## Why it exists
 
-Palais Longchamp isn't a palace in the royal sense. It's a monument to plumbing. Marseille suffered brutal droughts and a devastating cholera epidemic in the 1830s, so the city commissioned a canal from the Durance River, and when the water finally arrived in 1839 they decided the reservoir that received it deserved a triumphal backdrop. Architect Henri Espérandieu — the same man behind Notre-Dame de la Garde's basilica — spent decades designing this water temple, and it wasn't finished until 1869.
+Palais Longchamp isn't a palace in the royal sense. It's a monument to plumbing. Marseille suffered brutal droughts and a devastating cholera epidemic in the 1830s, so the city commissioned a canal from the Durance River, and when the water finally arrived in 1839 they decided the reservoir that received it deserved a triumphal backdrop. Architect Henri Espérandieu, the same man behind Notre-Dame de la Garde's basilica, spent decades designing this water temple, and it wasn't finished until 1869.
 
 The colonnade you're looking at conceals functioning cisterns; the cascade tumbling down the central steps is, structurally, the climax of a municipal engineering project dressed up as a Second Empire fantasy.
 
 ## What you'll actually see
 
-Stand at the base of the fountain and look up: the central pavilion is crowned with a statue of a woman flanked by bulls and cattle, symbolizing the Durance's water nourishing Provençal agriculture. Water sheets down the stone in wide, shallow steps rather than a single dramatic drop, so the sound is more a steady hiss and gurgle than a roar — pleasant to sit near on a hot afternoon, especially from the shaded benches lining the plaza.
+Stand at the base of the fountain and look up: the central pavilion is crowned with a statue of a woman flanked by bulls and cattle, symbolizing the Durance's water nourishing Provençal agriculture. Water sheets down the stone in wide, shallow steps rather than a single dramatic drop, so the sound is more a steady hiss and gurgle than a roar, pleasant to sit near on a hot afternoon, especially from the shaded benches lining the plaza.
 
-Behind each colonnaded wing sits a museum. To the left, the Muséum d'Histoire Naturelle houses taxidermied wildlife and a respected paleontology collection; to the right, the Musée des Beaux-Arts holds Provençal and French painting, including works by Pierre Puget, the sculptor Marseille reveres as its own. Both museums charge a modest entrance fee and are worth 45 minutes to an hour each if you're into either subject — the grounds and fountain themselves cost nothing.
+Behind each colonnaded wing sits a museum. To the left, the Muséum d'Histoire Naturelle houses taxidermied wildlife and a respected paleontology collection; to the right, the Musée des Beaux-Arts holds Provençal and French painting, including works by Pierre Puget, the sculptor Marseille reveres as its own. Both museums charge a modest entrance fee and are worth 45 minutes to an hour each if you're into either subject. The grounds and fountain themselves cost nothing.
 
 Behind the palace, the park unfolds into a genuine city green space with a small zoo-era layout (long since de-animalized), shaded paths, a carousel that runs seasonally, and views back toward the towers that are easy to miss if you only approach from the front.
 
 ## Getting there
 
-The palace sits at the top of Boulevard Longchamp in the 4th arrondissement, a 15–20 minute walk uphill from the Vieux-Port. The easiest approach is by métro: take Line 1 to Cinq Avenues Longchamp station, which puts you almost at the front gate. Buses also stop nearby along Boulevard Longchamp if you'd rather not walk the incline. If you're coming from the Canebière or the Old Port on foot, the walk itself is worthwhile — you climb gradually through a mixed residential and shopping district before the boulevard's trees part and the fountain appears.
+The palace sits at the top of Boulevard Longchamp in the 4th arrondissement, a 15–20 minute walk uphill from the Vieux-Port. The easiest approach is by métro: take Line 1 to Cinq Avenues Longchamp station, which puts you almost at the front gate. Buses also stop nearby along Boulevard Longchamp if you'd rather not walk the incline. If you're coming from the Canebière or the Old Port on foot, the walk itself is worthwhile, you climb gradually through a mixed residential and shopping district before the boulevard's trees part and the fountain appears.
 
 ## When to go
 
-Crowds here move differently on weekdays than weekends, but the pattern is worth knowing either way: the calmest stretch, both Saturday–Sunday and midweek, runs from 8am to 10pm, while weekend visits get noticeably busier between 10am and 6pm, when local families, wedding photographers, and tour groups converge on the plaza at once. If you want the fountain steps and colonnade to yourself for photos, arrive close to 8am — the light is softer then too, raking low across the stonework rather than glaring off the white stone at midday.
+Crowds here move differently on weekdays than weekends, but the pattern is worth knowing either way: the calmest stretch, both Saturday–Sunday and midweek, runs from 8am to 10pm, while weekend visits get noticeably busier between 10am and 6pm, when local families, wedding photographers, and tour groups converge on the plaza at once. If you want the fountain steps and colonnade to yourself for photos, arrive close to 8am. The light is softer then too, raking low across the stonework rather than glaring off the white stone at midday.
 
 ## How to visit like a local
 
-Treat Palais Longchamp as a park you pass through, not a ticketed sight you queue for — that's how Marseillais use it, cutting across the plaza on a walk or sitting on the fountain steps with a coffee. There's no booking system and no line to speak of; you simply walk up. If you do want a museum, pay at the door in cash or card — prices are modest and change occasionally, so don't rely on a fixed number, just budget a few euros.
+Treat Palais Longchamp as a park you pass through, not a ticketed sight you queue for (that's how Marseillais use it, cutting across the plaza on a walk or sitting on the fountain steps with a coffee. There's no booking system and no line to speak of; you simply walk up. If you do want a museum, pay at the door in cash or card) prices are modest and change occasionally, so don't rely on a fixed number, just budget a few euros.
 
 The biggest mistake visitors make is treating it as a quick five-minute photo stop and missing the park behind it, where the shade and benches are genuinely more pleasant than the sun-baked front plaza in summer. Come at golden hour if you can't manage the early morning slot; the stone catches warm light beautifully and the crowds have usually thinned by then too.

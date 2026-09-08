@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chiang-mai-the-baristro-asian-style
-srcHash: 'c822d8557d67'
+srcHash: 'f7aab7f9f6d3'
 title: ザ・バリストロ アジアン スタイル(The Baristro Asian Style):チェンマイ旅行ガイド
 description: ザ・バリストロ アジアン スタイル(The Baristro Asian Style)は、チェンマイの大学エリア、スティープ通り(Suthep Road)にあるフォトジェニックなカフェレストラン。ジャングルのような植物あふれるダイニングホール、タイフュージョン料理、そして本格的なスペシャルティコーヒーで知られています。
 quickAnswer: ザ・バリストロ アジアン スタイル(The Baristro Asian Style)は、チェンマイの大学エリア、スティープ通り(Suthep Road)にあるフォトジェニックなカフェレストラン。ジャングルのような植物あふれるダイニングホール、タイフュージョン料理、そして本格的なスペシャルティコーヒーで知られています。週末に混み合うため、平日の午前中か午後の中頃に訪れるのがおすすめで、予算は中価格帯(1人あたり約฿300〜600)を見ておきましょう。ワット・ウモン(Wat Umong)やドイステープ(Doi Suthep)へ向かう道を含む、スティープ周辺の周遊コースと組み合わせるのにぴったりです。

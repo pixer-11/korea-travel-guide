@@ -46,32 +46,32 @@ eventFactsAsked: true
 
 Luye Highland sits on a plateau above the Taitung Rift Valley, tea terraces on one side, the Central Mountain Range on the other, and for seven weeks each summer that open sky fills with color. This is Asia's largest hot air balloon festival, and the scale is the point: rows of envelopes inflating in the half-light, the hiss and roar of burners warming the morning air, and then, one by one, the balloons lifting off the grass and drifting out over the valley.
 
-Character-shaped balloons — the festival's signature move — turn heads even among visitors who've seen balloon festivals elsewhere, and the 2026 edition announced a first-ever Chiikawa collaboration alongside the usual cast of giant animals and cartoon figures. With well over a million visitors passing through in a typical season, this isn't a niche event; it's Taitung's biggest annual draw, and the county builds a good chunk of its summer tourism calendar around it.
+Character-shaped balloons, the festival's signature move, turn heads even among visitors who've seen balloon festivals elsewhere, and the 2026 edition announced a first-ever Chiikawa collaboration alongside the usual cast of giant animals and cartoon figures. With well over a million visitors passing through in a typical season, this isn't a niche event; it's Taitung's biggest annual draw, and the county builds a good chunk of its summer tourism calendar around it.
 
 ## Getting there
 
-Taitung is the gateway, reachable by domestic flight from Taipei Songshan Airport (about an hour) or by Taiwan Railway's fast trains down the east coast, a scenic ride through Hualien and the coastal mountains. From Taitung City or Taitung Station, Luye Highland is roughly 20–30 minutes by car or taxi, up in Luye Township. During the festival, shuttle buses typically run from Taitung Station and other pickup points directly to the launch site — much easier than driving, since parking near the highland fills up fast on peak mornings.
+Taitung is the gateway, reachable by domestic flight from Taipei Songshan Airport (about an hour) or by Taiwan Railway's fast trains down the east coast, a scenic ride through Hualien and the coastal mountains. From Taitung City or Taitung Station, Luye Highland is roughly 20–30 minutes by car or taxi, up in Luye Township. During the festival, shuttle buses typically run from Taitung Station and other pickup points directly to the launch site, much easier than driving, since parking near the highland fills up fast on peak mornings.
 
 Shuttle routes, times, and any shuttle fees are adjusted year to year.
 
 ## What to see and do
 
-The core ritual is the mass balloon launch, usually staged at first light when the air is coolest and stillest — winds tend to pick up later in the morning, which is why organizers favor a dawn window. The fabric spreads out across the field, fans and burners inflate the envelopes, and the sky slowly fills with tethered and free-flying balloons in a wide range of shapes, from classic teardrops to the festival's oversized character balloons.
+The core ritual is the mass balloon launch, usually staged at first light when the air is coolest and stillest, winds tend to pick up later in the morning, which is why organizers favor a dawn window. The fabric spreads out across the field, fans and burners inflate the envelopes, and the sky slowly fills with tethered and free-flying balloons in a wide range of shapes, from classic teardrops to the festival's oversized character balloons.
 
-Some mornings offer tethered balloon rides that lift a basket a short distance off the ground for photos over the highland — a separate ticketed activity from the free-flight launches, and one that depends on wind conditions. Evenings bring the Night Glow, when grounded balloons are lit from within in sequence with music and, on select nights, drone shows choreographed over the field — a different, more atmospheric experience than the morning launch.
+Some mornings offer tethered balloon rides that lift a basket a short distance off the ground for photos over the highland (a separate ticketed activity from the free-flight launches, and one that depends on wind conditions. Evenings bring the Night Glow, when grounded balloons are lit from within in sequence with music and, on select nights, drone shows choreographed over the field) a different, more atmospheric experience than the morning launch.
 
 The closing ceremony on August 20 is typically the festival's biggest single day, with an elevated lineup of balloons and evening programming, and it is also the most crowded date by far.
 
 ## When to go
 
-The festival was set for July 4 to August 20, 2026, seven weeks in all. Weekday mornings are the more relaxed stretch; weekends and the opening and closing ceremonies draw the heaviest crowds and the fullest shuttle buses. Because launches are weather-dependent, mornings with calm, clear conditions are far more likely to see a full mass ascent, while windy or rainy days can mean canceled or scaled-back flights — a reality of any hot air balloon event, not unique to Taitung.
+The festival was set for July 4 to August 20, 2026, seven weeks in all. Weekday mornings are the more relaxed stretch; weekends and the opening and closing ceremonies draw the heaviest crowds and the fullest shuttle buses. Because launches are weather-dependent, mornings with calm, clear conditions are far more likely to see a full mass ascent, while windy or rainy days can mean canceled or scaled-back flights, a reality of any hot air balloon event, not unique to Taitung.
 
 A hat and water earn their place even at dawn; by mid-morning in July and August, the highland sun is already strong.
 
 ## How to visit like a local
 
-Locals and repeat visitors treat this as a dawn event, not a daytime one — they turn up while it's still dark, claim a spot on the grass, and the sky lightens around them before the first burners fire. Most reach Luye Highland by the festival shuttle rather than driving, since parking is limited and traffic on show mornings backs up on the access road.
+Locals and repeat visitors treat this as a dawn event, not a daytime one, they turn up while it's still dark, claim a spot on the grass, and the sky lightens around them before the first burners fire. Most reach Luye Highland by the festival shuttle rather than driving, since parking is limited and traffic on show mornings backs up on the access road.
 
-Cash is still useful at the food stalls and vendor tents around the field even as mobile and card payment spreads across Taiwan, so small bills come in handy. The single most common visitor mistake is showing up mid-morning to find no balloons aloft — by then the wind has usually picked up and the launch window has closed, so sunrise, not mid-morning, is the real start time.
+Cash is still useful at the food stalls and vendor tents around the field even as mobile and card payment spreads across Taiwan, so small bills come in handy. The single most common visitor mistake is showing up mid-morning to find no balloons aloft, by then the wind has usually picked up and the launch window has closed, so sunrise, not mid-morning, is the real start time.
 
 Tethered rides and Night Glow sessions are ticketed separately, and walk-up availability is never a given. Exact launch times, ticket prices, and Chiikawa-balloon dates are set season by season and can shift.

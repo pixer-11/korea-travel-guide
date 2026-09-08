@@ -71,21 +71,21 @@ draft: false
 
 You don't just show up here. Fushan Botanical Garden sits inside a protected watershed in the mountains above Yilan, and that isolation is exactly why it feels different from any other park in Taiwan.
 
-The reserve protects one of the largest tracts of lowland-to-mid-elevation broadleaf forest left on the island. Because access is capped, the trails stay quiet and the understory stays undisturbed — ferns, mosses, and epiphytes crowding every trunk and rock.
+The reserve protects one of the largest tracts of lowland-to-mid-elevation broadleaf forest left on the island. Because access is capped, the trails stay quiet and the understory stays undisturbed, ferns, mosses, and epiphytes crowding every trunk and rock.
 
 ## What you'll actually see
 
-The garden centers on Fushan Lake, a still, tea-colored body of water ringed by forest that mirrors the canopy on windless mornings. Boardwalks loop through several planted collections — a fern garden, a moss garden, a water-plant pond — each labeled with species names in Chinese and Latin.
+The garden centers on Fushan Lake, a still, tea-colored body of water ringed by forest that mirrors the canopy on windless mornings. Boardwalks loop through several planted collections (a fern garden, a moss garden, a water-plant pond) each labeled with species names in Chinese and Latin.
 
 Wildlife sightings are common, not rare. Formosan macaques rustle in the branches, and if you're quiet you may spot a masked palm civet or even a wild boar rooting near the trailside brush. The resident Formosan ferret-badgers are shier but occasionally seen at dusk.
 
-Bring binoculars if you have them — the bird list here includes Taiwan blue magpies and several barbet species that call constantly but stay hidden in the leaves.
+Bring binoculars if you have them, the bird list here includes Taiwan blue magpies and several barbet species that call constantly but stay hidden in the leaves.
 
 ## Getting there and getting in
 
-Fushan is remote by design. There's no public transit to the gate — most visitors drive or arrange a taxi/private transfer from Yilan City or Luodong, roughly 40–60 minutes depending on traffic through the mountain road.
+Fushan is remote by design. There's no public transit to the gate, most visitors drive or arrange a taxi/private transfer from Yilan City or Luodong, roughly 40–60 minutes depending on traffic through the mountain road.
 
-You must apply for a permit online before you go, and reservations open a set window in advance with a daily visitor cap. Print or save your confirmation, and bring photo ID that matches the name on the application — staff check this at the entrance gate.
+You must apply for a permit online before you go, and reservations open a set window in advance with a daily visitor cap. Print or save your confirmation, and bring photo ID that matches the name on the application, staff check this at the entrance gate.
 
 There's no same-day walk-in option, so don't drive up without a confirmed slot.
 
@@ -93,7 +93,7 @@ There's no same-day walk-in option, so don't drive up without a confirmed slot.
 
 The garden runs 9am to 3pm daily except Tuesday, when it's closed entirely. Weekends are the hardest to book and the busiest on-site, with the 9am–1pm stretch drawing the heaviest foot traffic.
 
-If your schedule allows a weekday, take it — permits are easier to secure and the boardwalks feel far less crowded. Spring and autumn bring the most comfortable hiking temperatures; summer afternoons can turn suddenly wet, so build in buffer time.
+If your schedule allows a weekday, take it, permits are easier to secure and the boardwalks feel far less crowded. Spring and autumn bring the most comfortable hiking temperatures; summer afternoons can turn suddenly wet, so build in buffer time.
 
 Plan to spend at least three to four hours here. The main loop around the lake and gardens takes a couple of hours at an easy pace, but the extended forest trails reward a slower half-day visit.
 
@@ -101,12 +101,12 @@ Plan to spend at least three to four hours here. The main loop around the lake a
 
 Locals and repeat visitors treat the permit system as step one, not an afterthought.
 
-- Apply for your reservation as early as the booking window allows — slots for weekends and holidays go quickly.
+- Apply for your reservation as early as the booking window allows, slots for weekends and holidays go quickly.
 - Arrive before the gate opens if you booked a weekend slot, since the 9am–1pm window is consistently the busiest.
-- Wear real hiking shoes, not sandals — boardwalks get slick after rain and side trails have exposed roots.
+- Wear real hiking shoes, not sandals, boardwalks get slick after rain and side trails have exposed roots.
 - Pack your own water and snacks; there's no food vendor inside the reserve, and littering is strictly enforced.
-- Keep noise low near the lake and forest edges — this is a working conservation area, not a photo backdrop, and quiet is what makes the wildlife sightings possible.
+- Keep noise low near the lake and forest edges. This is a working conservation area, not a photo backdrop, and quiet is what makes the wildlife sightings possible.
 
-The most common visitor mistake isn't forgetting supplies — it's assuming they can turn up and buy a ticket at the gate. Without a confirmed reservation and matching ID, you'll be turned away regardless of how far you drove.
+The most common visitor mistake isn't forgetting supplies. It's assuming they can turn up and buy a ticket at the gate. Without a confirmed reservation and matching ID, you'll be turned away regardless of how far you drove.
 
 Check the official reservation portal before your trip for the current application window, as rules and caps are adjusted seasonally to protect the ecosystem.

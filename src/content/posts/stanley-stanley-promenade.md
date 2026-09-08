@@ -78,7 +78,7 @@ You come here not for a single big sight but for the whole scene: fishing boats 
 
 Stanley sits on the southern side of Hong Kong Island, away from the MTR network, so buses are the way in. From Central, bus 6, 6X, or 260 gets you there in 30–40 minutes depending on traffic.
 
-From Causeway Bay, bus 73 or a green minibus works well. Get off at the Stanley terminus and walk downhill toward the waterfront — you'll see the promenade within five minutes, past the market's narrow lanes.
+From Causeway Bay, bus 73 or a green minibus works well. Get off at the Stanley terminus and walk downhill toward the waterfront. You'll see the promenade within five minutes, past the market's narrow lanes.
 
 Taxis from Central take about 25 minutes without traffic, longer on weekends.
 
@@ -101,7 +101,7 @@ Because it's open 24 hours, timing is flexible, but the light and crowd levels s
 
 After that, especially into the evening, the promenade fills up fast; expect busier crowds as day-trippers and dinner crowds arrive. If you want photos without people in every frame, aim for early morning on a weekday.
 
-Sunset is worth planning around too — the bay faces west-southwest, and the light over the water in late afternoon is a different, warmer mood than the flat brightness of midday.
+Sunset is worth planning around too, the bay faces west-southwest, and the light over the water in late afternoon is a different, warmer mood than the flat brightness of midday.
 
 ## How to visit like a local
 
@@ -109,8 +109,8 @@ Treat the promenade as a walk-and-linger spot, not a checklist stop. Locals use 
 
 Cafés and bars along the front generally take cards and mobile payment (Octopus, Alipay, WeChat Pay) alongside cash, so don't worry about carrying only Hong Kong dollars.
 
-There's no ticketing, booking, or queue here — it's a public waterfront, free and open around the clock. The main tourist mistake is rushing straight from the bus into the market and skipping the water side entirely; walk the bay front first, then loop into the market lanes once you're oriented.
+There's no ticketing, booking, or queue here. It's a public waterfront, free and open around the clock. The main tourist mistake is rushing straight from the bus into the market and skipping the water side entirely; walk the bay front first, then loop into the market lanes once you're oriented.
 
-If you want the quiet version of Stanley, come before 9am on a weekend, get a coffee, and sit facing the water before the day-trip buses unload. Bring your own reusable bottle — there are cafés along the way, but it's a long, warm walk in summer without one.
+If you want the quiet version of Stanley, come before 9am on a weekend, get a coffee, and sit facing the water before the day-trip buses unload. Bring your own reusable bottle. There are cafés along the way, but it's a long, warm walk in summer without one.
 
-Pair the visit with Murray House and the market, but budget your time so the promenade isn't just a five-minute pass-through — an hour lets the place breathe.
+Pair the visit with Murray House and the market, but budget your time so the promenade isn't just a five-minute pass-through, an hour lets the place breathe.

@@ -48,17 +48,17 @@ eventFactsAsked: true
 
 Bruno Mars has spent nearly two decades turning stadiums into dance floors, and The Romantic Tour was his latest victory lap, arriving on the heels of collaborative smashes "Die with a Smile" (with Lady Gaga) and "APT." (with Rosé). A multi-Grammy winner known for live horn sections, retro choreography, and genuine vocal range, Mars rarely tours without delivering a full-band spectacle rather than a backing-track set.
 
-Six nights were announced at MetLife Stadium, August 21–26, 2026 — a sign of how much demand the New York/New Jersey market can absorb, and a run rather than a single date.
+Six nights were announced at MetLife Stadium, August 21–26, 2026, a sign of how much demand the New York/New Jersey market can absorb, and a run rather than a single date.
 
 ## Getting to MetLife Stadium
 
-MetLife Stadium sits in the Meadowlands Sports Complex in East Rutherford, New Jersey, roughly 8 miles west of Manhattan. The most reliable option for concertgoers is NJ Transit's dedicated Meadowlands Rail Line, which runs special event trains from New York Penn Station and Secaucus Junction directly to the stadium — look for "Meadowlands Rail Service" on event days. Buses also run from Port Authority Bus Terminal in Manhattan on event days.
+MetLife Stadium sits in the Meadowlands Sports Complex in East Rutherford, New Jersey, roughly 8 miles west of Manhattan. The most reliable option for concertgoers is NJ Transit's dedicated Meadowlands Rail Line, which runs special event trains from New York Penn Station and Secaucus Junction directly to the stadium. Look for "Meadowlands Rail Service" on event days. Buses also run from Port Authority Bus Terminal in Manhattan on event days.
 
 For drivers, parking lots surround the stadium but fill up fast and typically require a pre-purchased parking pass. Carpooling or rideshare drop-off at designated lots saves time over hunting for a spot, and 90 minutes is a normal allowance for arrival at a stadium show of this scale.
 
 ## What to expect inside
 
-Stadium tours of this size usually open gates a few hours before the headline set, with a support act or DJ warming up the crowd. Mars's shows are known for tight choreography, live horns, and costume changes that echo Motown and funk revues as much as modern pop. The setlist was expected to lean on his catalog — from "24K Magic" and "Uptown Funk" to newer duets — mixing nostalgia with current chart-toppers.
+Stadium tours of this size usually open gates a few hours before the headline set, with a support act or DJ warming up the crowd. Mars's shows are known for tight choreography, live horns, and costume changes that echo Motown and funk revues as much as modern pop. The setlist was expected to lean on his catalog, from "24K Magic" and "Uptown Funk" to newer duets, mixing nostalgia with current chart-toppers.
 
 Seating at MetLife ranges from field-level floor seats to upper-deck sections with wide sightlines of the stage, typically set at one end of the field; screens and extended stages are common for this scale of production.
 
@@ -72,6 +72,6 @@ The stadium complex itself has concession stands, but many concertgoers eat befo
 
 ## How locals approached it
 
-Seasoned MetLife concertgoers get there early not for the show but to beat the transit crush — trains and lots clog in the final hour before doors, so locals aim to be on-site two to three hours ahead. Most transactions inside the stadium are cashless, so a tap-to-pay card or mobile wallet covers concessions and merchandise. Tipping isn't expected at stadium concession stands.
+Seasoned MetLife concertgoers get there early not for the show but to beat the transit crush, trains and lots clog in the final hour before doors, so locals aim to be on-site two to three hours ahead. Most transactions inside the stadium are cashless, so a tap-to-pay card or mobile wallet covers concessions and merchandise. Tipping isn't expected at stadium concession stands.
 
 The most common tourist mistake is underestimating exit time: after a show, the Meadowlands Rail Line and the parking lots see heavy volume, and patient concertgoers linger 20–30 minutes in their seats or nearby plazas before heading to transit rather than rushing the exits.

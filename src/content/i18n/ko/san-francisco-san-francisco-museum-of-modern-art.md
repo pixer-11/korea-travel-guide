@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: san-francisco-san-francisco-museum-of-modern-art
-srcHash: '8329339d3ca7'
+srcHash: 'd2e7bffe1633'
 title: 샌프란시스코 현대미술관(SFMOMA) 여행 가이드 (4.6★)
 description: SFMOMA는 소마(SoMa) 지구 151 3rd St에 자리하고 있으며, 파월 스트리트(Powell St) BART/Muni 역에서 도보 5분 거리로, 7개 층에 걸친 현대미술 컬렉션만으로도 반나절을 투자할 가치가 충분합니다. 4.6★(리뷰 16,586건) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
 quickAnswer: SFMOMA는 소마(SoMa) 지구 151 3rd St에 자리하고 있으며, 파월 스트리트(Powell St) BART/Muni 역에서 도보 5분 거리로, 7개 층에 걸친 현대미술 컬렉션만으로도 반나절을 투자할 가치가 충분합니다. 방문 시간대는 늦은 오후를 추천합니다. 혼잡도 데이터에 따르면 평일과 주말 모두 오후 5시~6시가 한산한 시간대이며, 가능하다면 주말 오전 11시~오후 5시의 혼잡한 시간대는 피하는 것이 좋습니다. 운영시간과 입장권 가격은 계절에 따라 바뀌므로 방문 전 온라인으로 미리 확인하시기 바랍니다.

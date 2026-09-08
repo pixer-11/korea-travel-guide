@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: shanghai-chinajoy
-srcHash: '35f86966e322'
+srcHash: 'bd965e09565f'
 title: 2026年上海ChinaJoy：时间、场馆与门票攻略
 description: 2026年上海ChinaJoy全攻略：官宣时间、虹桥国家会展中心场馆信息、门票种类，以及展会具体内容一览。
 quickAnswer: 2026年ChinaJoy（中国国际数码互动娱乐展览会）定档于2026年7月31日至8月3日，举办地依旧是上海虹桥的国家会展中心（NECC），这也是历年来的固定举办场地。展会分为B2B（商务）和B2C（大众）两大板块，向来以人潮汹涌、Cosplay盛况和精心布置的展台闻名，两个板块分别设有不同的门票等级和每日开放时间。

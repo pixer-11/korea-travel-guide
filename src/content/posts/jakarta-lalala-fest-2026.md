@@ -40,7 +40,7 @@ eventRecurring: true
 ---
 ## Why this one's worth the trip
 
-The festival was set for August 22–23, 2026 at Jakarta International Expo in Kemayoran, North Jakarta. Jakarta's festival calendar is crowded, but LALALA Fest 2026 stood out for the sheer range of its bill. The lineup announced Steve Lacy's warped, funk-soaked guitar pop, Two Door Cinema Club's jangly indie hooks, Kodaline's stadium-sized ballads and The Flaming Lips' full-blown psychedelic spectacle — confetti cannons, giant balloons and all — sharing a weekend with more than 30 other acts spanning indie, pop, electronic and rock.
+The festival was set for August 22–23, 2026 at Jakarta International Expo in Kemayoran, North Jakarta. Jakarta's festival calendar is crowded, but LALALA Fest 2026 stood out for the sheer range of its bill. The lineup announced Steve Lacy's warped, funk-soaked guitar pop, Two Door Cinema Club's jangly indie hooks, Kodaline's stadium-sized ballads and The Flaming Lips' full-blown psychedelic spectacle (confetti cannons, giant balloons and all) sharing a weekend with more than 30 other acts spanning indie, pop, electronic and rock.
 
 That kind of genre-spanning lineup aims at everyone from K-pop-adjacent teenagers to thirtysomethings who grew up on "What's My Age Again"-era alt-rock, and the festival has drawn crowds from across Southeast Asia, not just greater Jakarta.
 
@@ -64,6 +64,6 @@ The venue, JIExpo, has multiple halls and outdoor areas, and organizers sometime
 
 ## How to visit like a local
 
-Jakartans heading to a JIExpo festival typically travel light, since bag checks at these gates can be thorough and slow-moving lines form fast in peak arrival hours — usually the hour or two after doors open and again before a headliner. Payment on-site at Indonesian festivals is increasingly cashless: QRIS (Indonesia's unified QR payment system) is widely accepted at food and drink stalls, though smaller vendors sometimes prefer rupiah cash.
+Jakartans heading to a JIExpo festival typically travel light, since bag checks at these gates can be thorough and slow-moving lines form fast in peak arrival hours, usually the hour or two after doors open and again before a headliner. Payment on-site at Indonesian festivals is increasingly cashless: QRIS (Indonesia's unified QR payment system) is widely accepted at food and drink stalls, though smaller vendors sometimes prefer rupiah cash.
 
-Tipping isn't customary at festival stalls. Early afternoon is the calmest stretch of the day at these events — a quieter walk-through of the grounds, first pick of food stalls, and space to stake out a spot before the evening rush. Jakarta traffic on festival days is the thing visitors most often underestimate, and ride-hail waits get long right at closing time, in both directions.
+Tipping isn't customary at festival stalls. Early afternoon is the calmest stretch of the day at these events, a quieter walk-through of the grounds, first pick of food stalls, and space to stake out a spot before the evening rush. Jakarta traffic on festival days is the thing visitors most often underestimate, and ride-hail waits get long right at closing time, in both directions.

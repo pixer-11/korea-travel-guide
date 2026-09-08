@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: krabi-into-the-forest
-srcHash: 'a60d63b922c7'
+srcHash: '0640033247b7'
 title: '숲속으로(Into the Forest): 크라비 여행 가이드'
 description: Into the Forest는 크라비 타운(Krabi town) 외곽 카오통(Khao Thong)에 자리한 정글 콘셉트의 포토제닉 카페형 명소로, 투어버스 인파와 한낮의 강한 햇빛을 피하려면 평일 오전(오전 10시 이전)이나 늦은 오후에 방문하는 것이 좋다.
 quickAnswer: Into the Forest는 크라비 타운(Krabi town) 외곽 카오통(Khao Thong)에 자리한 정글 콘셉트의 포토제닉 카페형 명소로, 투어버스 인파와 한낮의 강한 햇빛을 피하려면 평일 오전(오전 10시 이전)이나 늦은 오후에 방문하는 것이 좋다. 1~2시간 정도 일정을 잡고, 입장료·음료값 지불을 위해 현금을 챙기는 것이 좋으며, 시내 중심가에서 차로 약 15~20분 거리이니 크라비 타운의 야시장이나 왓 탐 수아(Wat Tham Sua)와 함께 묶어서 둘러보기 좋다. 가격대는 중간 수준(중가)이라 길거리 음식 가격이 아닌 카페 가격을 예상하면 된다.

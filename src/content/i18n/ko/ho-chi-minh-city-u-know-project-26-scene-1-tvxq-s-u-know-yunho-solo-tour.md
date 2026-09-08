@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour
-srcHash: 'c02240956060'
+srcHash: '50083c319fcd'
 title: 'U-KNOW Project 26: SCENE#1 (동방신기 유노윤호 솔로 투어): 알아둘 것 (호치민시)'
 description: '2026년 9월 19일, 베트남 호치민시에서 열리는 U-KNOW Project 26: SCENE#1(동방신기 유노윤호 솔로 투어)에 대한 안내입니다. 공연 개요와 일시·장소, 그리고 관람 계획을 세우는 방법을 정리했습니다.'
 quickAnswer: 유노윤호의 솔로 투어 "SCENE#1"이 2026년 9월 19일 호치민시 떤빈군(Tan Binh District)의 Military Zone 7 Indoor Stadium에서 열립니다. 공연 시간대에는 교통 정체와 그랩(Grab)의 할증 요금이 거의 확실하므로 미리 그랩이나 미터제 택시를 예약해 두세요. 날짜, 입장 시간, 티켓 세부 사항이 아직 공식적으로 확정되지 않았으니 출발 전 공식 채널을 통해 반드시 다시 확인하시기 바랍니다.

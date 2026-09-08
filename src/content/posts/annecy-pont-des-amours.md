@@ -65,7 +65,7 @@ Legend has it that couples who cross together will stay together forever. True o
 
 ## Getting there
 
-The bridge sits at the edge of the Jardins de l'Europe, a short 10-15 minute walk from Annecy's train station through the old town. Head toward the canal and follow it until it meets the lake — you can't really miss it.
+The bridge sits at the edge of the Jardins de l'Europe, a short 10-15 minute walk from Annecy's train station through the old town. Head toward the canal and follow it until it meets the lake. You can't really miss it.
 
 If you're driving, park near the Champ de Mars or Les Marquisats and walk the last stretch along the water. There's no vehicle access to the bridge itself; it's pedestrian-only, low and arched, barely wide enough for two people to pass comfortably.
 
@@ -75,27 +75,27 @@ Stand in the middle and turn slowly: behind you, the canal lined with pastel shu
 
 On clear days the water turns a startling glassy blue-green, and paddleboarders and swan-shaped pedal boats drift past underneath. Swans and ducks often gather right at the canal mouth, and it's not unusual to see a wedding photographer posed here with a couple mid-shoot.
 
-The Jardins de l'Europe behind you are worth a slow wander too — century-old plane trees, gravel paths, and benches facing the water.
+The Jardins de l'Europe behind you are worth a slow wander too, century-old plane trees, gravel paths, and benches facing the water.
 
 ## When to go
 
 This bridge is genuinely one of the most visited spots in Annecy, so timing matters more than almost anywhere else in town. Midday and weekend afternoons bring steady crowds and a line for photos.
 
-Early morning, right around sunrise, is your best window — the light hits the mountains first and the canal is often near-empty. Evenings after dinner, once the day-trip buses have gone, are a close second, especially in the golden hour before dusk.
+Early morning, right around sunrise, is your best window, the light hits the mountains first and the canal is often near-empty. Evenings after dinner, once the day-trip buses have gone, are a close second, especially in the golden hour before dusk.
 
 Spring and early autumn give you clearer water and fewer visitors than peak summer. Since it's open 24 hours, a late-night walk under lamplight is also an option if you're staying nearby.
 
 ## How to visit like a local
 
-Don't schedule this as a standalone stop — fold it into a longer loop around the lake and old town, the way most people actually experience it. Walk it as part of the canal-side stroll from Pont Morens through the old town to the Jardins de l'Europe.
+Don't schedule this as a standalone stop, fold it into a longer loop around the lake and old town, the way most people actually experience it. Walk it as part of the canal-side stroll from Pont Morens through the old town to the Jardins de l'Europe.
 
 - Go at sunrise or after 7pm to avoid the worst of the crowds
 - Skip weekend midday visits entirely if you can help it
-- Cross slowly and step aside for others taking photos — it's narrow and two-way traffic backs up fast
+- Cross slowly and step aside for others taking photos. It's narrow and two-way traffic backs up fast
 - Bring a coffee or gelato from the old town and sit on a garden bench afterward rather than lingering on the bridge itself
 - Rent a paddleboat from the nearby dock for a view of the bridge from the water, a genuinely different perspective
 
-There's no fee, no ticket, and nothing to book — it's a public footbridge, not an attraction with a gate. Locals mostly pass over it en route somewhere else rather than treating it as a destination, so matching that unhurried pace, walking rather than stopping to pose for long, is the easiest way to blend in.
+There's no fee, no ticket, and nothing to book. It's a public footbridge, not an attraction with a gate. Locals mostly pass over it en route somewhere else rather than treating it as a destination, so matching that unhurried pace, walking rather than stopping to pose for long, is the easiest way to blend in.
 
 The biggest mistake visitors make is arriving in the tour-bus window between late morning and mid-afternoon expecting a quiet moment for photos. Shift your visit an hour or two earlier or later and the same bridge feels like a completely different place.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-xava-skybar
-srcHash: 'c0aebd53886c'
+srcHash: '3b220f559ed5'
 title: Xava Skybar：新加坡旅行指南
 description: 新加坡 Xava Skybar——一个崭新的热门去处：它是什么、位于哪里，以及如何前往。
 quickAnswer: Xava Skybar 坐落在新加坡国家美术馆（National Gallery Singapore）楼顶，是一处占地7,000平方英尺的天台，可将滨海湾（Marina Bay）景色尽收眼底，设有室内和露天两种座位，菜单从和牛他他（Wagyu Tataki）到招牌鸡尾酒一应俱全。它于2026年8月1日正式开业，目前还非常新——建议提前预订，日落前抵达以获得视野清晰的天际线座位，出发前请直接向场地确认最新营业时间和预订政策。

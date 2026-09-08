@@ -70,7 +70,7 @@ draft: false
 ---
 ## Why go
 
-MAUTO isn't a shed of shiny cars — it's a design museum that happens to use automobiles as its medium. Turin built the Italian car industry, and this building, opened in 1960 and redone in 2011, tells that story with an eye for staging that rivals any modern art gallery.
+MAUTO isn't a shed of shiny cars. It's a design museum that happens to use automobiles as its medium. Turin built the Italian car industry, and this building, opened in 1960 and redone in 2011, tells that story with an eye for staging that rivals any modern art gallery.
 
 You walk in expecting engines and leave thinking about lighting, typography, and the shape of a fender as a cultural artifact.
 
@@ -96,7 +96,7 @@ Drivers will find on-site or street parking nearby, though weekends near the riv
 
 MAUTO is genuinely one of Turin's most-visited attractions, and the crowd data backs that up. Weekends between 11am and 6pm are consistently the busiest stretch, with tour groups and families filling the galleries.
 
-For a calmer visit, aim for a weekday morning, specifically the 10am to 11am window right after opening, when the ramp and early galleries are still uncluttered. Note that Monday is a short day — the museum closes at 2pm rather than staying open into the evening. Every other day it runs 10am to 7pm, so a late afternoon visit midweek works well too.
+For a calmer visit, aim for a weekday morning, specifically the 10am to 11am window right after opening, when the ramp and early galleries are still uncluttered. Note that Monday is a short day. The museum closes at 2pm rather than staying open into the evening. Every other day it runs 10am to 7pm, so a late afternoon visit midweek works well too.
 
 ## How to visit like a local
 
@@ -104,9 +104,9 @@ Because this is a heavily visited museum rather than a hidden find, the smart mo
 
 - **Book ahead online.** Skipping the ticket line matters most on weekend afternoons.
 - **Go early on a weekday.** The 10–11am slot is measurably the quietest; you'll get the suspended-car ramp mostly to yourself for photos.
-- **Avoid Saturday and Sunday 11am–6pm** if you can — that's the peak window locals and repeat visitors know to dodge.
-- **Don't rush the top floor.** Most visitors move fast through the modern design section near the end and miss it — it's where the fashion and film crossover exhibits usually live.
-- **Skip the audioguide rush at the entrance** — pick it up, then double back to the first gallery once the entrance crowd has thinned a few minutes in.
+- **Avoid Saturday and Sunday 11am–6pm** if you can. That's the peak window locals and repeat visitors know to dodge.
+- **Don't rush the top floor.** Most visitors move fast through the modern design section near the end and miss it. It's where the fashion and film crossover exhibits usually live.
+- **Skip the audioguide rush at the entrance**, pick it up, then double back to the first gallery once the entrance crowd has thinned a few minutes in.
 
 The most common mistake is treating this as a quick add-on stop between other sights. The design staging rewards slow walking, and rushing it means missing exactly what makes MAUTO different from a typical transport museum.
 

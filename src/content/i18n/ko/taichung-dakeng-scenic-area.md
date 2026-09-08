@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taichung-dakeng-scenic-area
-srcHash: '5432d37f1c8e'
+srcHash: '73fc63a4ef46'
 title: '다컹 풍경구: 타이중(Taichung) 여행 가이드'
 description: 다컹 풍경구(Dakeng Scenic Area)는 베이툰구(Beitun District)의 숲이 우거진 언덕에 자리한 번호가 매겨진 등산로(1~10코스) 네트워크로, 타이중 시내에서 택시나 스쿠터로 약 30~40분 거리에 있습니다.
 quickAnswer: 다컹 풍경구(Dakeng Scenic Area)는 베이툰구(Beitun District)의 숲이 우거진 언덕에 자리한 번호가 매겨진 등산로(1~10코스) 네트워크로, 타이중 시내에서 택시나 스쿠터로 약 30~40분 거리에 있습니다. 숨겨진 명소라기보다는 이미 많이 알려진 곳이라, 가능하면 평일 오전에 방문하는 것이 좋습니다 — 주말에는 오전 7시부터 오후 6시까지 꾸준히 붐빕니다. 나무 사다리와 로프 구간으로 유명한 4코스가 대표 코스이며, 선택한 코스에 따라 2~4시간 정도 예상하면 됩니다.

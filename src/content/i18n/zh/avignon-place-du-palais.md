@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: avignon-place-du-palais
-srcHash: 'eb7e04cc3cb8'
+srcHash: 'def17664020e'
 title: 教皇宫广场：阿维尼翁旅行指南
 description: 教皇宫广场是教皇宫（Palais des Papes）前一片开阔的石铺广场，全天开放，无需门票即可自由进出。
 quickAnswer: 教皇宫广场（Place du Palais）坐落在阿维尼翁（Avignon）教皇宫脚下，是一片开阔的石铺广场，全天免费开放。最佳游览时间是清晨或晚饭后，那时一日游的旅游大巴已经离开，灯光照耀下的宫殿立面独自映照着整个广场。单独游览这里花上20到30分钟即可，如果在面朝宫殿的咖啡座上多坐一会儿，时间自然会更长。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-city-atomix
-srcHash: 'd7ba81bebaca'
+srcHash: '11c2b740a02a'
 title: Atomix：纽约美食指南之一站
 description: Atomix 是纽约当下最受关注的新晋热门餐厅之一，本文介绍这家韩餐厅的特色、所在位置，以及预约方式。
 quickAnswer: Atomix 是由朴正炫（Junghyun "JP" Park）与朴瑛俐（Ellia Park）夫妇打造的韩式套餐（tasting menu）餐厅，摘得米其林二星，坐落在毗邻韩国城（Koreatown）的麦迪逊广场公园（Madison Square Park）附近。它目前位居"北美50佳餐厅2026"（North America's 50 Best Restaurants 2026）榜单第七位。用餐是一场耗时数小时的十二道菜体验，而非说来就来的随性晚餐，因此务必尽早预约，并在出行前直接向餐厅确认最新的营业时间、用餐时段与价格。

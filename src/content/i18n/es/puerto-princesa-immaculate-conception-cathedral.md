@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puerto-princesa-immaculate-conception-cathedral
-srcHash: 'c2515b3be5c5'
+srcHash: 'efa46af74fe6'
 title: 'Catedral de la Inmaculada Concepción: guía de viaje de Puerto Princesa'
 description: 'La Catedral de la Inmaculada Concepción se encuentra en plena Rizal Avenue, en el corazón de Puerto Princesa, así que es fácil sumarla a un paseo por el centro. 4.6★ (1,208 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Catedral de la Inmaculada Concepción se encuentra en plena Rizal Avenue, en el corazón de Puerto Princesa, así que es fácil sumarla a un paseo por el centro. La visita toma entre 15 y 20 minutos, salvo que haya misa, y la fachada blanca de doble torre bien vale la parada aunque solo te quedes un rato mirándola desde afuera. Las mañanas de días de semana son el momento más tranquilo para verla sin que haya un servicio religioso en curso.

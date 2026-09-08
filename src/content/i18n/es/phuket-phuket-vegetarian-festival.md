@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-phuket-vegetarian-festival
-srcHash: '30238df9d53a'
+srcHash: '7822a3b03e2b'
 title: 'Festival Vegetariano de Phuket: fechas, entradas y sede (Phuket)'
 description: El Festival Vegetariano de Phuket se celebra en Phuket, Tailandia, del 10 al 18 de octubre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
 quickAnswer: 'El Festival Vegetariano de Phuket (también conocido como el Festival de los Nueve Dioses Emperadores) se celebra del 10 al 18 de octubre de 2026, con entrada gratuita a las procesiones callejeras y a las ceremonias en los santuarios de Phuket Town y de los pueblos cercanos. No hace falta entrada: basta con presentarse en los santuarios o a lo largo de las rutas del desfile. Conviene confirmar horarios en el sitio oficial antes de ir, ya que el calendario exacto de los rituales varía de un santuario a otro.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-chinatown-night-market
-srcHash: 'cd953af867f1'
+srcHash: 'b36075d60ffb'
 title: 'Mercado Nocturno de Chinatown: dónde comer en Bangkok'
 description: Después de las 18:00, cuando se encienden los letreros de neón y las cocinas callejeras sacan sus carritos a Yaowarat Road y a callejuelas como Soi Texas y Phadungdao, vale la pena adentrarse en el barrio chino de Bangkok (Yaowarat).
 quickAnswer: Después de las 18:00, cuando se encienden los letreros de neón y las cocinas callejeras sacan sus carritos a Yaowarat Road y a callejuelas como Soi Texas y Phadungdao, vale la pena adentrarse en el barrio chino de Bangkok (Yaowarat). Conviene empezar cerca del arco de Odeon Circle e ir probando platillos —mariscos a la parrilla, boat noodles y pato asado— mientras se avanza hacia el Wat Traimit. Hay que calcular entre 2 y 3 horas de recorrido a pie, ir con hambre y, sobre todo, llegar con el estómago vacío en lugar de después de una comida abundante.

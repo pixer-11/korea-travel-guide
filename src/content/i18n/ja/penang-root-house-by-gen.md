@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: penang-root-house-by-gen
-srcHash: 'c58a255c7fd3'
+srcHash: 'f019522311fe'
 title: ペナン「Root House by Gēn」ガイド
 description: マレーシア・ペナンで話題の新スポット「Root House by Gēn」について、店の特徴や場所、訪れ方をご紹介します。
 quickAnswer: Root House by Gēnは、ペナン・ジョージタウンにある1926年築の歴史的建造物「1926 Heritage Hotel」内に構える、洗練されたマレーシア華人料理のレストランです。評判の高いレストラン「Gēn」を手がけるチームが運営しています。歴史的建築の趣と現代的な料理の両方をじっくり味わえる、夕食での訪問がおすすめです。オープンしたばかりで話題を集めている店なので、事前予約と最新の営業時間の確認を忘れずに行ってから向かいましょう。

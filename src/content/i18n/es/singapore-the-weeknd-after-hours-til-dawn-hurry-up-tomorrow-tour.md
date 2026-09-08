@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour
-srcHash: 'ff564efd1ba8'
+srcHash: 'f38052b07cb0'
 title: 'The Weeknd - Gira After Hours Til Dawn/Hurry Up Tomorrow: lo que hay que saber (Singapur)'
 description: The Weeknd trae su gira After Hours Til Dawn/Hurry Up Tomorrow a Singapur el 25 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizarse para ir.
 quickAnswer: El 25 de septiembre de 2026, The Weeknd llevará la gira After Hours Til Dawn/Hurry Up Tomorrow al National Stadium de Singapur, con el dúo japonés de hip-hop Creepy Nuts como telonero. El repertorio recorrerá toda su carrera, con temas de Starboy, After Hours, Dawn FM y Hurry Up Tomorrow, en uno de los recintos más grandes de la región. Conviene planificar con antelación el transporte, dónde comprar las entradas y la hora de llegada. Antes de comprar nada, confirma siempre los horarios exactos, la apertura de puertas y los enlaces de compra en la página oficial de Ticketmaster Singapur o del promotor.

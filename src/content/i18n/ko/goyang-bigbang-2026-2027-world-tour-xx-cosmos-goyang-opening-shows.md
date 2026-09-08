@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows
-srcHash: 'f233ba5c56a0'
+srcHash: '62a4b03a73b6'
 title: '빅뱅 2026-2027 월드투어 “XX: COSMOS” 고양 개막 공연: 알아둘 사항 (고양)'
 description: '빅뱅의 월드투어 “XX: COSMOS”는 2026년 8월 21일부터 23일까지 사흘간 고양종합운동장에서 열릴 예정이었습니다. 공연장 정보와 대중교통 연결편, 그리고 발표된 내용을 정리했습니다.'
 quickAnswer: '빅뱅은 데뷔 20주년을 기념하는 월드투어 “XX: COSMOS”의 일환으로 2026년 8월 21일부터 23일까지 사흘간 고양종합운동장에서 스타디움 공연을 열 예정이었습니다. 공연장에서 가장 가까운 역은 원흥역(서울지하철 3호선)입니다.'

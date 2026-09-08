@@ -83,7 +83,7 @@ draft: false
 updatedDate: '2026-09-05'
 ---
 
-The alley announces itself before you see it: a funnel of red lanterns strung so tightly overhead that daylight comes through in patches, and underneath, a slow-moving river of people shuffling past stalls selling taro balls, fish ball soup, and grilled squid on sticks. This is Jishan Street, the spine of Jiufen Old Street, and it's steep — stone steps worn smooth by decades of feet, narrow enough that two people with umbrellas have to turn sideways to pass.
+The alley announces itself before you see it: a funnel of red lanterns strung so tightly overhead that daylight comes through in patches, and underneath, a slow-moving river of people shuffling past stalls selling taro balls, fish ball soup, and grilled squid on sticks. This is Jishan Street, the spine of Jiufen Old Street, and it's steep, stone steps worn smooth by decades of feet, narrow enough that two people with umbrellas have to turn sideways to pass.
 
 Jiufen climbs the side of a mountain in New Taipei City's Ruifang District, and that vertical geography is the whole point. Old teahouses stack on wooden stilts above the slope, their windows framing a view that drops to the East China Sea. On a clear afternoon you can see the coastline curve away toward Keelung; on a misty one, the whole town disappears into cloud and the lanterns become the only source of color, which is the scene most people picture when they think of Jiufen (and the reason it's constantly, if inaccurately, linked to Spirited Away).
 
@@ -95,20 +95,20 @@ Today it draws well over a hundred thousand visitors a year, and it shows: this 
 
 ## Getting there
 
-The most common route from Taipei is a bus directly to Jiufen — the 1062 from Taipei City Hall Bus Station takes roughly an hour depending on traffic. Alternatively, take the train from Taipei Main Station to Ruifang Station (express trains take about 40 minutes), then transfer to a short local bus or taxi up the hill, about 15-20 minutes. Many day-tour minivans also bundle Jiufen with nearby Shifen (for sky lanterns) and Houtong (the cat village), which is a reasonable way to see all three without juggling transfers yourself.
+The most common route from Taipei is a bus directly to Jiufen. The 1062 from Taipei City Hall Bus Station takes roughly an hour depending on traffic. Alternatively, take the train from Taipei Main Station to Ruifang Station (express trains take about 40 minutes), then transfer to a short local bus or taxi up the hill, about 15-20 minutes. Many day-tour minivans also bundle Jiufen with nearby Shifen (for sky lanterns) and Houtong (the cat village), which is a reasonable way to see all three without juggling transfers yourself.
 
 ## What to see and eat
 
-Jishan Old Street is the main pedestrian artery, but the real charm is ducking off it onto Shuqi Road, the steeper cross-street with the postcard view down toward the sea — this is the spot everyone photographs at dusk when the lanterns switch on. A-Mei Tea House, with its multi-tiered wooden facade, is the building most identified with the town's teahouse era; you don't have to go inside to appreciate it from the viewing platform across the alley.
+Jishan Old Street is the main pedestrian artery, but the real charm is ducking off it onto Shuqi Road, the steeper cross-street with the postcard view down toward the sea. This is the spot everyone photographs at dusk when the lanterns switch on. A-Mei Tea House, with its multi-tiered wooden facade, is the building most identified with the town's teahouse era; you don't have to go inside to appreciate it from the viewing platform across the alley.
 
 For food, look for taro balls (芋圓) served hot or cold in sweet syrup, peanut ice cream rolls shaved tableside, and fish ball soup from the stalls that have been running for generations. Portions are small and cheap, so the move is to graze across five or six stalls rather than commit to one sit-down meal.
 
 ## When to go
 
-Jiufen has no shade and no flat ground, so midsummer midday visits are genuinely uncomfortable. Spring and autumn mornings are more forgiving. Given how popular this attraction is, timing matters more than season: arriving right when shops open, before the tour buses unload, gets you the alley nearly to yourself for a short window. Late afternoon into early evening, once the lanterns are lit but before dinner-hour crowds peak, is the second-best option — just know that weekends compress everything into a slow shuffle from about midday onward.
+Jiufen has no shade and no flat ground, so midsummer midday visits are genuinely uncomfortable. Spring and autumn mornings are more forgiving. Given how popular this attraction is, timing matters more than season: arriving right when shops open, before the tour buses unload, gets you the alley nearly to yourself for a short window. Late afternoon into early evening, once the lanterns are lit but before dinner-hour crowds peak, is the second-best option, just know that weekends compress everything into a slow shuffle from about midday onward.
 
 ## How to visit like a local
 
-Skip Saturday and Sunday afternoons entirely if you can — that's when tour buses from Taipei arrive in waves and Jishan Street becomes a single-file crawl. A weekday visit, or a weekend visit before 10am, is dramatically calmer. Most stalls and small shops deal in cash, though larger tea houses increasingly accept cards or mobile payment — carry some New Taiwan dollars in small bills regardless.
+Skip Saturday and Sunday afternoons entirely if you can (that's when tour buses from Taipei arrive in waves and Jishan Street becomes a single-file crawl. A weekday visit, or a weekend visit before 10am, is dramatically calmer. Most stalls and small shops deal in cash, though larger tea houses increasingly accept cards or mobile payment) carry some New Taiwan dollars in small bills regardless.
 
-There's no real queueing system on the main street, just patient shuffling with the flow of foot traffic; trying to push against the current is the fastest way to get frustrated. The most common mistake visitors make is trying to see Jiufen as a quick 30-minute photo stop between other sights — the steps and crowds mean it takes longer than it looks, so budget at least two hours, more if you want to sit down for tea with a sea view.
+There's no real queueing system on the main street, just patient shuffling with the flow of foot traffic; trying to push against the current is the fastest way to get frustrated. The most common mistake visitors make is trying to see Jiufen as a quick 30-minute photo stop between other sights. The steps and crowds mean it takes longer than it looks, so budget at least two hours, more if you want to sit down for tea with a sea view.

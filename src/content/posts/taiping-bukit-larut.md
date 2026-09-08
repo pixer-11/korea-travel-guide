@@ -67,7 +67,7 @@ The road is one-way in alternating directions, so departures run on a rough sche
 
 ## What to see and do
 
-The main draw is simply the drive itself — hairpin after hairpin through rainforest, with the Land Rover's engine straining on the steeper grades. At the top, a scatter of colonial-era bungalows, a former tea plantation, and a small hilltop garden called the Speaker's Corner give you places to wander.
+The main draw is simply the drive itself, hairpin after hairpin through rainforest, with the Land Rover's engine straining on the steeper grades. At the top, a scatter of colonial-era bungalows, a former tea plantation, and a small hilltop garden called the Speaker's Corner give you places to wander.
 
 Bukit Larut Tea Garden, at a lower stop on the way up, is worth a short pause if your driver allows it. Further up, Gunung Hijau and the old resthouses offer views back down over Taiping and, on a clear morning, out toward the Straits of Malacca.
 
@@ -81,12 +81,12 @@ Weekdays are quieter than weekends across the board. On Saturdays and Sundays th
 
 ## How to visit like a local
 
-Locals treat the shared Land Rover as public transport, not a tour bus — you queue, you pay the driver or counter directly, and you squeeze in wherever there's a seat. Cash is the norm at the base station.
+Locals treat the shared Land Rover as public transport, not a tour bus, you queue, you pay the driver or counter directly, and you squeeze in wherever there's a seat. Cash is the norm at the base station.
 
 Go early. The 5am or 4am opening isn't just for sunrise chasers; it's when the mist is thickest and the hill feels closest to how it must have felt a century ago, before the day's heat pushes cloud up the slopes.
 
-Bring a light jacket even if Taiping is baking hot when you set off — the temperature drop is real and sudden. Most visitors underestimate it and shiver through the ride up.
+Bring a light jacket even if Taiping is baking hot when you set off. The temperature drop is real and sudden. Most visitors underestimate it and shiver through the ride up.
 
 The common mistake is treating this as a quick photo stop. Because departures depend on the shared schedule, rushing back down after twenty minutes often means a long wait for the next available seat. Plan for a half-day outing, not a drive-by.
 
-This is still very much an under-the-radar corner of Malaysia's tourist trail — no crowds, no souvenir strip, just the hill station atmosphere that drew colonial officials up here in the first place. That's worth protecting by going slow and not expecting resort-style polish.
+This is still very much an under-the-radar corner of Malaysia's tourist trail, no crowds, no souvenir strip, just the hill station atmosphere that drew colonial officials up here in the first place. That's worth protecting by going slow and not expecting resort-style polish.

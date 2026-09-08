@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: dubai-al-fahidi-historical-neighbourhood
-srcHash: '40233033e91c'
+srcHash: 'eabb635fea8e'
 title: アル・ファヒディ歴史地区:ドバイ旅行ガイド
 description: アル・ファヒディ歴史地区(Al Fahidi Historical Neighbourhood)は、クリークのブール・ドバイ(Bur Dubai)側、アル・ファヒディ駅(Al Fahidi Metro Station、グリーンライン)近くに位置する、ドバイで最も保存状態の良い旧市街です。
 quickAnswer: アル・ファヒディ歴史地区(Al Fahidi Historical Neighbourhood)は、クリーク(Creek)のブール・ドバイ(Bur Dubai)側、アル・ファヒディ駅(Al Fahidi Metro Station、グリーンライン)近くに位置する、ドバイで最も保存状態の良い旧市街です。サンゴとジプサムでできた風の塔(ウィンドタワー)が並ぶ迷路のような街並みには、いまや博物館やギャラリー、カフェが軒を連ねています。2〜3時間ほど時間を取り、涼しい午前中か日没後に訪れるのがおすすめです。テキスタイル・スーク(Textile Souk)への散策やクリークを渡るアブラ(abra)乗船と組み合わせるとよいでしょう。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: manila-legazpi-sunday-market
-srcHash: '7810bfe83129'
+srcHash: '6bf8c3770ce4'
 title: 马尼拉旅行指南：黎牙实比周日市场（Legazpi Sunday Market，4.4★）
 description: 黎牙实比周日市场（Legazpi Sunday Market）每周日上午7:30至下午2:00在马卡蒂（Makati）黎牙实比村（Legazpi Village）营业，仅限周日开放，出行前请提前规划。4.4★（2,183条评价）——游客怎么说、营业时间与实用小贴士，一次看懂。
 quickAnswer: 黎牙实比周日市场每周日上午7:30至下午2:00在马卡蒂黎牙实比村营业，且仅限周日开放，出行前务必安排好时间。建议上午8:30前抵达，赶在上午11点左右人潮和高温来袭之前，挑到最好的美食摊位。记得空腹前往、备好现金，并预留一到两个小时慢慢逛吃。

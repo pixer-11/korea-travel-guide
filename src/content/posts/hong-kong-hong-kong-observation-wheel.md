@@ -103,7 +103,7 @@ updatedDate: '2026-09-04'
 
 You don't come to the Hong Kong Observation Wheel for thrills. You come for the angle.
 
-At 60 metres, it's modest by Ferris wheel standards — nothing like the giants in Singapore or London. But its position on the Central waterfront puts you eye-level with the harbour, the junks, and the glass towers stacking up behind the Bank of China Tower.
+At 60 metres, it's modest by Ferris wheel standards, nothing like the giants in Singapore or London. But its position on the Central waterfront puts you eye-level with the harbour, the junks, and the glass towers stacking up behind the Bank of China Tower.
 
 The cabins are fully enclosed and air-conditioned, which matters more than you'd think in Hong Kong's humidity. You ride in comfort while the view does the work.
 
@@ -111,13 +111,13 @@ The cabins are fully enclosed and air-conditioned, which matters more than you'd
 
 The wheel stands at 33 Man Kwong Street, right on the Central waterfront promenade.
 
-The nearest MTR stop is Hong Kong Station on the Tung Chung and Airport Express lines — take Exit A2 and follow signs toward the Star Ferry Pier. Central Station (Island Line) also works, about a 10-minute walk through the elevated walkways.
+The nearest MTR stop is Hong Kong Station on the Tung Chung and Airport Express lines. Take Exit A2 and follow signs toward the Star Ferry Pier. Central Station (Island Line) also works, about a 10-minute walk through the elevated walkways.
 
 If you're coming from Kowloon, the Star Ferry from Tsim Sha Tsui drops you within a few minutes' walk, and arriving that way gives you a preview of the skyline you're about to see from above.
 
 ## What to expect
 
-Each rotation takes around 20 minutes — enough time for a couple of full loops without feeling rushed.
+Each rotation takes around 20 minutes, enough time for a couple of full loops without feeling rushed.
 
 Cabins hold small groups, and on a clear evening you can pick out landmarks across the harbour: the IFC towers, the Peak in silhouette, ferries cutting white lines across the water. By night the skyline lights up in full, and the whole ride becomes a slow-motion light show.
 
@@ -125,7 +125,7 @@ There's a small garden and seating area around the base, useful if you're waitin
 
 ## When to go
 
-Sunset is the sweet spot — you get daylight views on the way up and city lights by the time you're heading back down.
+Sunset is the sweet spot, you get daylight views on the way up and city lights by the time you're heading back down.
 
 If you can, time your visit to overlap with the nightly Symphony of Lights at 8pm, when buildings across both sides of the harbour sync up with music and laser displays.
 
@@ -135,13 +135,13 @@ The one stretch to avoid is Saturday and Sunday afternoons between 1pm and 9pm, 
 
 ## How to visit like a local
 
-This is a well-visited, high-traffic attraction, not a hidden find — so the real skill here is timing, not discovery.
+This is a well-visited, high-traffic attraction, not a hidden find, so the real skill here is timing, not discovery.
 
 - Go early on a weekend (right at 11am) or anytime on a weekday afternoon to skip the worst of the queue.
 - Buy tickets online in advance where possible; it saves a slow-moving counter line on busy afternoons.
-- Payment on-site is typically by card or mobile pay — cash isn't always the fastest option in Hong Kong now, and contactless is standard.
+- Payment on-site is typically by card or mobile pay, cash isn't always the fastest option in Hong Kong now, and contactless is standard.
 - Don't treat this as a long visit. Locals and regular visitors budget maybe 30–45 minutes total, ride included, then move on to the waterfront promenade or Star Ferry.
-- The tourist mistake is arriving at peak Saturday afternoon expecting a quick ride — that's exactly the 1pm–9pm window locals steer clear of.
+- The tourist mistake is arriving at peak Saturday afternoon expecting a quick ride. That's exactly the 1pm–9pm window locals steer clear of.
 
 Afterward, walk the waterfront promenade toward the Central Harbourfront Event Space, or double back toward IFC Mall for air-conditioned shopping and food if the heat's gotten to you. It pairs naturally with an evening Star Ferry crossing, especially if you're staying on the Kowloon side.
 

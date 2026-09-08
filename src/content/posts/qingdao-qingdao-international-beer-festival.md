@@ -43,9 +43,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Qingdao's beer culture isn't a marketing gimmick — it's baked into the city's DNA. The Tsingtao Brewery was founded in 1903 under German colonial rule, and Qingdao remains the only Chinese city with a beer named after it recognized globally. The International Beer Festival, held nearly every summer since 1991, turns that heritage into a month-plus open-air party: rows of tented beer gardens, stage performances, fireworks on big nights, and a genuinely international guest list of breweries pouring alongside domestic giants like Tsingtao and Harbin.
+Qingdao's beer culture isn't a marketing gimmick. It's baked into the city's DNA. The Tsingtao Brewery was founded in 1903 under German colonial rule, and Qingdao remains the only Chinese city with a beer named after it recognized globally. The International Beer Festival, held nearly every summer since 1991, turns that heritage into a month-plus open-air party: rows of tented beer gardens, stage performances, fireworks on big nights, and a genuinely international guest list of breweries pouring alongside domestic giants like Tsingtao and Harbin.
 
-It's less a wine-tasting-style event and more a boisterous, all-ages carnival — food stalls, carnival rides, and a crowd that swells into the millions over a full run.
+It's less a wine-tasting-style event and more a boisterous, all-ages carnival, food stalls, carnival rides, and a crowd that swells into the millions over a full run.
 
 ## Getting there
 
@@ -55,10 +55,10 @@ Qingdao Metro Line 1 and Line 8 have stations that connect toward the Chengyang 
 
 ## What to see and do
 
-- **Tastings**: Dozens of breweries — domestic regional beers plus imported and craft labels — pour in themed tents, usually organized by country or beer style.
-- **Tsingtao Brewery Museum**: The original brewery site near Dengzhou Road, in the older Shibei/Shinan area, offers tours, tasting rooms, and novelty treats (beer-flavored ice cream has been a fixture, though offerings change) — a good primer on the city's brewing history.
+- **Tastings**: Dozens of breweries, domestic regional beers plus imported and craft labels, pour in themed tents, usually organized by country or beer style.
+- **Tsingtao Brewery Museum**: The original brewery site near Dengzhou Road, in the older Shibei/Shinan area, offers tours, tasting rooms, and novelty treats (beer-flavored ice cream has been a fixture, though offerings change), a good primer on the city's brewing history.
 - **Live performances**: Nightly stages feature pop acts, folk performances, and DJ sets; some nights close with fireworks over the festival grounds.
-- **Food**: Qingdao specialties like fried clams (gala), spicy crayfish, and grilled seafood skewers are sold alongside the beer tents — pairing local seafood with draft beer is a Qingdao summer ritual in itself.
+- **Food**: Qingdao specialties like fried clams (gala), spicy crayfish, and grilled seafood skewers are sold alongside the beer tents, pairing local seafood with draft beer is a Qingdao summer ritual in itself.
 - **Badaguan and the waterfront**: The German colonial-era villa district and the Zhan Bridge pier are easy add-ons from a central base.
 
 ## When to go

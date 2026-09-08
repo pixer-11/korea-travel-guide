@@ -72,7 +72,7 @@ Rapid Penang bus 10 runs from Komtar and drops you close to the entrance. If you
 
 The gardens are free and open every day from 7am to 7pm. Set aside 90 minutes to two hours if you want to see the highlights without rushing.
 
-Head first for the orchid house and the fern-shaded lily ponds near the entrance — the coolest, most photographed corner of the park. From there, the road climbs gently past the cactus house and a lawn where macaques often forage in the early morning.
+Head first for the orchid house and the fern-shaded lily ponds near the entrance, the coolest, most photographed corner of the park. From there, the road climbs gently past the cactus house and a lawn where macaques often forage in the early morning.
 
 Don't feed them: signs throughout the park warn visitors, and troops here have learned to snatch bags and bottles from anyone who ignores them.
 
@@ -90,10 +90,10 @@ Afternoon downpours are common year-round in Penang, so an early visit also lowe
 
 Arrive right at 7am if you can. This is when dog-walkers, joggers, and older residents doing their morning exercise routines outnumber tourists, and it's the coolest, most atmospheric hour to be under the canopy.
 
-- Wear closed shoes — the upper paths toward the waterfall are uneven stone and can be slick after rain.
+- Wear closed shoes. The upper paths toward the waterfall are uneven stone and can be slick after rain.
 - Bring your own water; kiosks inside are limited and not always open early.
-- Keep food sealed and bags zipped near the macaques — they target anything that rustles.
+- Keep food sealed and bags zipped near the macaques, they target anything that rustles.
 - Entry is free with no ticket booth, so there's no queue to plan around, just parking.
 - Locals refer to it as the "Botanic Gardens" or simply "Waterfall Gardens," useful if you're asking for directions or telling a Grab driver where to go.
 
-The most common visitor mistake is treating this as a quick 20-minute photo stop. The real reward is the upper loop past the quarry face, which most tour groups skip because they stay near the entrance. Walk past the lily ponds and give yourself the extra half hour — it's where the gardens actually start to feel like rainforest rather than a roadside park.
+The most common visitor mistake is treating this as a quick 20-minute photo stop. The real reward is the upper loop past the quarry face, which most tour groups skip because they stay near the entrance. Walk past the lily ponds and give yourself the extra half hour. It's where the gardens actually start to feel like rainforest rather than a roadside park.

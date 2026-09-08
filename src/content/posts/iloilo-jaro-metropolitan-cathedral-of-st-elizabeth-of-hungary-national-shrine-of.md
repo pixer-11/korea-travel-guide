@@ -81,7 +81,7 @@ faq:
 aiGenerated: true
 updatedDate: '2026-09-04'
 ---
-You spot the bell tower before you spot the church itself. It stands across the road from the main façade, not attached to it — a detail that trips up almost every first-time visitor to Jaro.
+You spot the bell tower before you spot the church itself. It stands across the road from the main façade, not attached to it, a detail that trips up almost every first-time visitor to Jaro.
 
 That separation isn't a design accident. Earthquakes have repeatedly hit this part of Iloilo, and after a major one in 1948 damaged the original structure, the bell tower was left as its own freestanding monument. Locals sometimes call it the "watchtower," and it still functions as a quiet counterpoint to the cathedral's cream-and-white bulk.
 
@@ -95,7 +95,7 @@ Look up at the façade and you'll notice the external staircase, an unusual arch
 
 Jaro is a district of Iloilo City, about a 20–25 minute jeepney or taxi ride north from the city center depending on traffic. Grab or a metered taxi from Iloilo City proper is the easiest option for visitors unfamiliar with jeepney routes.
 
-The cathedral fronts Jaro Plaza, so ask any driver for "Jaro Plaza" or "Jaro Cathedral" — both get you there. Once you're at the plaza, the cathedral and its separated bell tower are impossible to miss.
+The cathedral fronts Jaro Plaza, so ask any driver for "Jaro Plaza" or "Jaro Cathedral". Both get you there. Once you're at the plaza, the cathedral and its separated bell tower are impossible to miss.
 
 ## What to see inside and around
 
@@ -117,12 +117,12 @@ Morning light through the nave's windows makes the interior most photogenic, and
 
 ## How to visit like a local
 
-Dress matters here — this is an active cathedral, not a museum, so cover shoulders and knees. Shorts and sleeveless tops are generally frowned upon, especially if Mass is in session.
+Dress matters here. This is an active cathedral, not a museum, so cover shoulders and knees. Shorts and sleeveless tops are generally frowned upon, especially if Mass is in session.
 
 Entry itself is free, and there's no ticket booth or fixed donation expected. If you'd like to contribute, small offering boxes near the side altars are the normal, unobtrusive way to do it.
 
 Since this cathedral is well-known and draws steady foot traffic from both devotees and visitors, weekday mornings right after opening tend to be calmer than weekend Masses. Sunday services, particularly late morning, bring the heaviest crowds and are not the moment for photography of the interior.
 
-Speak quietly, silence your phone, and avoid walking across the center aisle during an active service — circle around via the side aisles instead. If you want to see the vestments and jeweled Marian gowns up close, ask locally about visiting hours for the adjoining museum or treasury room, which sometimes runs separately from the church's own schedule.
+Speak quietly, silence your phone, and avoid walking across the center aisle during an active service, circle around via the side aisles instead. If you want to see the vestments and jeweled Marian gowns up close, ask locally about visiting hours for the adjoining museum or treasury room, which sometimes runs separately from the church's own schedule.
 
 Tricycles and jeepneys idle around the plaza, so if you're heading back into the city center afterward, it's easy to flag one down right at the plaza's edge rather than walking to a main road.

@@ -102,30 +102,30 @@ updatedDate: '2026-09-02'
 ---
 ## Why go
 
-Guangzhou Restaurant isn't a discovery you stumble on by accident — it's a landmark of Cantonese cooking that's been feeding this city for generations, and the name itself (广州酒家, literally "Guangzhou Restaurant") tells you exactly what it's proud of representing. You come here not for novelty but for the real thing: barbecue pork with a lacquered, slightly charred edge, silky rice-flour rolls, and the kind of old-fashioned banquet dishes — whole steamed fish, clay-pot rice, double-boiled soups — that a lot of newer restaurants have quietly stopped bothering to make properly.
+Guangzhou Restaurant isn't a discovery you stumble on by accident (it's a landmark of Cantonese cooking that's been feeding this city for generations, and the name itself (广州酒家, literally "Guangzhou Restaurant") tells you exactly what it's proud of representing. You come here not for novelty but for the real thing: barbecue pork with a lacquered, slightly charred edge, silky rice-flour rolls, and the kind of old-fashioned banquet dishes) whole steamed fish, clay-pot rice, double-boiled soups, that a lot of newer restaurants have quietly stopped bothering to make properly.
 
 The dining room has the unhurried formality of a place that has hosted decades of family celebrations: round tables, tea poured before anything else arrives, servers who've clearly done this a thousand times.
 
 ## Getting there
 
-The restaurant sits at 2 Wen Chang Nan Lu, right inside the Shangxiajiu (上下九) pedestrian shopping street in Liwan District — the historic heart of old Guangzhou, all covered arcades, Lingnan-style shophouse facades, and street-level commerce that's been going since the Qing dynasty. The closest metro stop is Huangsha or Changshou Lu on Line 1, depending on which entrance of the pedestrian street you're coming from; either way it's a short walk in through the arcades once you surface.
+The restaurant sits at 2 Wen Chang Nan Lu, right inside the Shangxiajiu (上下九) pedestrian shopping street in Liwan District, the historic heart of old Guangzhou, all covered arcades, Lingnan-style shophouse facades, and street-level commerce that's been going since the Qing dynasty. The closest metro stop is Huangsha or Changshou Lu on Line 1, depending on which entrance of the pedestrian street you're coming from; either way it's a short walk in through the arcades once you surface.
 
-Because the street itself is pedestrian-only, expect to walk the last few minutes past shopfronts selling dried seafood, herbal medicine, and snacks — treat it as part of the visit rather than an obstacle.
+Because the street itself is pedestrian-only, expect to walk the last few minutes past shopfronts selling dried seafood, herbal medicine, and snacks, treat it as part of the visit rather than an obstacle.
 
 ## What to eat
 
-Start with the dim sum if you're there earlier in the day — classic Cantonese dim sum staples are the draw at that hour. If you're eating later, this is a solid spot to order a whole steamed fish, a claypot rice with preserved meats, or a slow-simmered soup — the kind of dishes that reward a table of three or four sharing rather than a solo diner ordering one plate.
+Start with the dim sum if you're there earlier in the day (classic Cantonese dim sum staples are the draw at that hour. If you're eating later, this is a solid spot to order a whole steamed fish, a claypot rice with preserved meats, or a slow-simmered soup) the kind of dishes that reward a table of three or four sharing rather than a solo diner ordering one plate.
 
 Portions and presentation lean traditional rather than photogenic, which is part of the charm: this is food built for flavor and technique, not for a social feed.
 
 ## When to go
 
-The restaurant keeps consistent daily hours, so there's no risk of showing up to a locked door — but timing still matters for comfort. Weekends between 11am and 3pm are the peak crush, when tables turn over slowly and dim sum carts (or order slips) move at a crawl. If you'd rather eat without jostling for a table, aim for 8pm to 11pm on a weekday, or after 7pm on a weekend — both are markedly quieter, and you'll get more attentive service as a result.
+The restaurant keeps consistent daily hours, so there's no risk of showing up to a locked door (but timing still matters for comfort. Weekends between 11am and 3pm are the peak crush, when tables turn over slowly and dim sum carts (or order slips) move at a crawl. If you'd rather eat without jostling for a table, aim for 8pm to 11pm on a weekday, or after 7pm on a weekend) both are markedly quieter, and you'll get more attentive service as a result.
 
 ## How to visit like a local
 
-Skip the idea of booking ahead for a casual meal — this is a walk-in, take-a-numbered-ticket kind of restaurant, especially at lunch, and the system moves faster than it looks. Tea is served automatically at the start of the meal; it's customary to let the server pour the first round, and if someone at your table pours for you, a light double-tap of two fingers on the table is the traditional silent "thank you" — a gesture worth knowing even if nobody expects a foreign visitor to use it.
+Skip the idea of booking ahead for a casual meal (this is a walk-in, take-a-numbered-ticket kind of restaurant, especially at lunch, and the system moves faster than it looks. Tea is served automatically at the start of the meal; it's customary to let the server pour the first round, and if someone at your table pours for you, a light double-tap of two fingers on the table is the traditional silent "thank you") a gesture worth knowing even if nobody expects a foreign visitor to use it.
 
-Payment is almost universally by mobile (WeChat Pay or Alipay) or card these days, though carrying a little cash as backup is still sensible in an older establishment like this. The mistake most visitors make is treating it like a quick tourist stop between shops — ordering one or two token dishes and leaving. Cantonese dining here is built around sharing multiple smaller plates across a table, so if you can, come with at least two other people and order accordingly; a solo diner will miss most of what makes the menu interesting.
+Payment is almost universally by mobile (WeChat Pay or Alipay) or card these days, though carrying a little cash as backup is still sensible in an older establishment like this. The mistake most visitors make is treating it like a quick tourist stop between shops, ordering one or two token dishes and leaving. Cantonese dining here is built around sharing multiple smaller plates across a table, so if you can, come with at least two other people and order accordingly; a solo diner will miss most of what makes the menu interesting.
 
-Since this isn't an undiscovered spot — it's a well-known name with steady local and visitor traffic alike — the real trick to beating the crowds isn't secrecy, it's simply timing your visit to the quieter evening windows rather than the weekend lunch rush.
+Since this isn't an undiscovered spot, it's a well-known name with steady local and visitor traffic alike, the real trick to beating the crowds isn't secrecy, it's simply timing your visit to the quieter evening windows rather than the weekend lunch rush.

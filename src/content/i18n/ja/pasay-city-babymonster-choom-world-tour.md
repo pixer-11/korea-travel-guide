@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: pasay-city-babymonster-choom-world-tour
-srcHash: '995184b1acb0'
+srcHash: 'd90d09cdf8b2'
 title: BABYMONSTER「CHOOM World Tour」パサイ市公演で知っておきたいこと
 description: BABYMONSTERの「CHOOM World Tour」は、2026年9月5日、パサイ市のSM Mall of Asia Arenaで開催が予定されていました。会場やアクセス、開演時刻について発表された内容をまとめます。
 quickAnswer: BABYMONSTERの「CHOOM World Tour」は、2026年9月5日、パサイ市のSM Mall of Asia Arenaで開催が予定されており、開場時刻は18時（午後6時）と発表されていました。チケットはBABYMONSTER公式およびSM Tickets／会場の窓口を通じて販売され、チケットの区分もこれらの窓口が扱っていました。

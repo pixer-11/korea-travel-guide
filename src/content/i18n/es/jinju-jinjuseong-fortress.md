@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jinju-jinjuseong-fortress
-srcHash: '61594568111d'
+srcHash: '5cc2a15b5e70'
 title: 'Fortaleza de Jinjuseong: Guía de viaje de Jinju (4,5★)'
 description: 'La Fortaleza de Jinjuseong es el castillo amurallado de piedra a orillas del río en Jinju, abierto todos los días de 9:00 a 18:00, sede del museo de la Universidad Nacional de Gyeongnam, el pabellón Chokseongnu y vistas al río Namgang. 4,5★ (4.142 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Fortaleza de Jinjuseong es el castillo amurallado de piedra a orillas del río en Jinju, abierto todos los días de 9:00 a 18:00, sede del museo de la Universidad Nacional de Gyeongnam, el pabellón Chokseongnu y vistas al río Namgang. Calcula entre 1,5 y 2 horas, lleva calzado adecuado para caminar sobre la muralla y, si vas un fin de semana, llega justo a las 9:00, ya que el flujo de visitantes aumenta rápidamente después de las 11:00. Entre semana, todo el horario de 9:00 a 18:00 se mantiene tranquilo sin problemas.

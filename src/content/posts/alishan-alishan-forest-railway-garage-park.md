@@ -102,11 +102,11 @@ Because much of the park is outdoors with limited shade over the tracks, midday 
 
 This is a well-visited stop for both domestic and international travelers, so the goal is timing, not secrecy.
 
-- Go right at 8am opening — the quietest hour on any day of the week.
+- Go right at 8am opening, the quietest hour on any day of the week.
 - Avoid 11am to closing on weekends, when the site is busiest.
-- There's no booking or queue system to navigate — just walk in.
+- There's no booking or queue system to navigate, just walk in.
 - Pair it with a walk to the nearby old Beimen Station platform, a five-minute stroll away, to see where the forest railway's restored trains still depart.
 - Wear shoes you don't mind getting dusty; gravel and old ballast stone cover much of the yard.
-- Bring water in warmer months — shade is limited around the locomotive displays.
+- Bring water in warmer months, shade is limited around the locomotive displays.
 
-The most common visitor mistake is treating this as the mountain town of Alishan itself. It isn't — you're in Chiayi City, at the railway's historic base, not up in the highland forests. If you want the alpine scenery, that's a separate trip further up the line. Budget 45 minutes to an hour here, more if you're a rail enthusiast who wants to read every placard and photograph every engine.
+The most common visitor mistake is treating this as the mountain town of Alishan itself. It isn't. You're in Chiayi City, at the railway's historic base, not up in the highland forests. If you want the alpine scenery, that's a separate trip further up the line. Budget 45 minutes to an hour here, more if you're a rail enthusiast who wants to read every placard and photograph every engine.

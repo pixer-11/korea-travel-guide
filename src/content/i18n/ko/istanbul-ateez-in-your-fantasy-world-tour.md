@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: istanbul-ateez-in-your-fantasy-world-tour
-srcHash: 'f7bd9352175e'
+srcHash: 'b79297b95850'
 title: ATEEZ 'IN YOUR FANTASY' 월드투어 이스탄불 공연, 알아두어야 할 것들
 description: ATEEZ의 IN YOUR FANTASY 월드투어가 2026년 8월 16일 이스탄불 공연을 예정했습니다. 이는 튀르키예에서 처음으로 발표된 일정이었습니다.
 quickAnswer: ATEEZ의 IN YOUR FANTASY 월드투어는 2026년 8월 16일 이스탄불에서 공연을 열 예정이었으며, 이는 그룹이 이 도시에서 여는 첫 공연이었습니다. 발표 당시 공연장이나 입장 시간, 티켓 등급 같은 세부 사항은 함께 공개되지 않았고, 이런 정보들은 ATEEZ 공식 소셜 채널과 KQ 엔터테인먼트의 발표를 통해 전해질 예정이었습니다.

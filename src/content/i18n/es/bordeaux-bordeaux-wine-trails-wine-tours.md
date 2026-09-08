@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bordeaux-bordeaux-wine-trails-wine-tours
-srcHash: '837e6cd93e28'
+srcHash: '161b499bdd0d'
 title: 'Bordeaux Wine Trails - Tours de vino: Guía de viaje'
 description: Bordeaux Wine Trails organiza excursiones de un día en grupos reducidos desde el centro de la ciudad hasta los viñedos de los alrededores (Saint-Émilion, Médoc, Sauternes y Graves son los circuitos clásicos), combinando visitas a châteaux con catas y, por lo general, almuerzo.
 quickAnswer: 'Bordeaux Wine Trails organiza excursiones de un día en grupos reducidos desde el centro de la ciudad hasta los viñedos de los alrededores (Saint-Émilion, Médoc, Sauternes y Graves son los circuitos clásicos), combinando visitas a châteaux con catas y, por lo general, almuerzo. Conviene reservar con al menos unas semanas de antelación: es un operador con 4.9 estrellas y casi 750 reseñas, por lo que las fechas más solicitadas se agotan rápido. Además, hay que reservar el día completo (aproximadamente de 9:00 a 17:00) en vez de planear solo una salida de tarde.'

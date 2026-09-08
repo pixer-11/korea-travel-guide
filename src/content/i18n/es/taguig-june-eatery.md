@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taguig-june-eatery
-srcHash: '3ba3ce419156'
+srcHash: 'b01489afbdb5'
 title: 'June Eatery: dónde comer en Taguig'
 description: 'June Eatery en Taguig, Filipinas — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: June Eatery es un nuevo restaurante de todo el día en BGC (Bonifacio Global City), Taguig, del equipo detrás de Bibio, con el chef ejecutivo Kier Ibañez al frente de una carta de influencia global y pensada para compartir, que pasa de los platos de desayuno a los de cena sin perder el ritmo. Ve a un brunch tranquilo o a una cena temprana, y confirma los horarios actuales y la política de reservas antes de ir, ya que es un local recién abierto y muy solicitado.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: '5c62f908bc57'
+srcHash: 'c477022862bc'
 title: ツール・ド・フランス・ファム(Tour de France Femmes avec Zwift):ニースで押さえておきたいポイント
 description: 2026年大会のツール・ド・フランス・ファム(Tour de France Femmes avec Zwift)は8月1日から9日にかけて開催予定とされ、ローザンヌでのグランデパール、モン・ヴァントゥーの山頂ステージ、そしてニースでのフィナーレが予定されていました。
 quickAnswer: 2026年大会のツール・ド・フランス・ファム(Tour de France Femmes avec Zwift)は8月1日から9日にかけて開催予定とされていました。スイス・ローザンヌでのグランデパールに始まり、モン・ヴァントゥーでの山頂ステージ、そしてニースのプロムナード・デ・ザングレ(Promenade des Anglais)でのフィナーレが組まれていました。沿道での観戦は無料です。モン・ヴァントゥーのような山岳ステージでは、迫力ある展開が見られる一方で長時間の待機が必要になりますが、ニースのような都市型フィニッシュでは観戦時間は短めながらお祭りムードが漂い、交通アクセスも良好という違いがあります。

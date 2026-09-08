@@ -47,7 +47,7 @@ aiGenerated: true
 draft: false
 ---
 
-You smell the old town before you see it — woodsmoke and grilling octopus drifting from doorways on Rúa do Franco, mixing with the damp mineral scent of wet granite that never quite dries out in this corner of Galicia. That smell is the first clue you're somewhere different: a city built entirely from dark, rain-polished stone, worn smooth by nine centuries of pilgrims' boots.
+You smell the old town before you see it, woodsmoke and grilling octopus drifting from doorways on Rúa do Franco, mixing with the damp mineral scent of wet granite that never quite dries out in this corner of Galicia. That smell is the first clue you're somewhere different: a city built entirely from dark, rain-polished stone, worn smooth by nine centuries of pilgrims' boots.
 
 ## Why the Casco Histórico matters
 
@@ -57,7 +57,7 @@ This is the medieval core of Santiago de Compostela, the walled kernel that grew
 
 Rúa do Franco is a natural starting point, one of the oldest streets in the old town and still lined with pilgrim taverns and seafood counters. From there, alleys fan out toward Praza do Obradoiro, the cathedral's grand front square, and Praza das Praterías with its silversmith arcades.
 
-- Santiago's compact center means everything is walkable — no bus or metro needed once you're inside the old town.
+- Santiago's compact center means everything is walkable, no bus or metro needed once you're inside the old town.
 - If arriving by train or bus, it's roughly a 15–20 minute walk uphill into the historic core.
 - Rain is a Santiago constant; locals barely glance at it, so pack a light jacket rather than an umbrella.
 
@@ -65,25 +65,25 @@ Rúa do Franco is a natural starting point, one of the oldest streets in the old
 
 The cathedral understandably pulls the crowds, but the real texture of the Casco Histórico is in what surrounds it. Duck into the covered Mercado de Abastos for a look at the fish and produce stalls that supply half the restaurants in town. Wander through Praza da Quintana, a sunken double square where students gather on the steps at dusk.
 
-Look up as you walk — carved coats of arms, wrought-iron balconies and the covered arcades (soportais) that line many streets were built specifically to shelter pilgrims from the rain. Rúa Nova and Rúa do Vilar run roughly parallel to Rúa do Franco and are quieter, worth a slow detour for their bookshops and small chapels tucked between shopfronts.
+Look up as you walk, carved coats of arms, wrought-iron balconies and the covered arcades (soportais) that line many streets were built specifically to shelter pilgrims from the rain. Rúa Nova and Rúa do Vilar run roughly parallel to Rúa do Franco and are quieter, worth a slow detour for their bookshops and small chapels tucked between shopfronts.
 
 ## When to go
 
-Early morning, before 10am, the old town belongs to shopkeepers rolling up shutters and the occasional pilgrim finishing the Camino with tired legs and a triumphant grin. By midday, tour groups fill Praza do Obradoiro and the streets feeding into it. Evenings after 8pm bring the streets back to life differently — locals and pilgrims alike spilling out of tapas bars, the stone facades lit gold under streetlamps.
+Early morning, before 10am, the old town belongs to shopkeepers rolling up shutters and the occasional pilgrim finishing the Camino with tired legs and a triumphant grin. By midday, tour groups fill Praza do Obradoiro and the streets feeding into it. Evenings after 8pm bring the streets back to life differently, locals and pilgrims alike spilling out of tapas bars, the stone facades lit gold under streetlamps.
 
 Late spring and early autumn offer the mildest weather and thinner crowds than peak summer, when Camino arrivals and tourist buses both hit their high point together.
 
 ## How to visit like a local
 
-Treat the Casco Histórico as a place to wander without a fixed route rather than a checklist of monuments. Locals navigate by squares, not street names — ask for Praza do Obradoiro or Praza da Quintana rather than a specific address, and directions will make more sense.
+Treat the Casco Histórico as a place to wander without a fixed route rather than a checklist of monuments. Locals navigate by squares, not street names. Ask for Praza do Obradoiro or Praza da Quintana rather than a specific address, and directions will make more sense.
 
 - Pay in cash at small tapas bars and market stalls; card readers are common but not universal in the oldest corners.
 - Order a "tapa" or "ración" of pulpo á feira (Galician-style octopus) rather than asking for a full plate if you just want a taste.
-- The etiquette at pilgrim mass in the cathedral is quiet respect — arrive early if you want a seat and dress modestly.
+- The etiquette at pilgrim mass in the cathedral is quiet respect. Arrive early if you want a seat and dress modestly.
 - The mistake most visitors make is sticking only to Rúa do Franco and the cathedral square; the parallel streets one block over are calmer and just as atmospheric.
 
-Because this stretch of the old town still flies under the radar compared with the cathedral itself, you can often find a quiet bench in Praza das Praterías even in high season. Sit for ten minutes and just watch — pilgrims checking phones for the nearest albergue, a nun crossing toward the cathedral, a street musician tuning up in a doorway. That's the real texture of the Casco Histórico, and it costs nothing to enjoy it.
+Because this stretch of the old town still flies under the radar compared with the cathedral itself, you can often find a quiet bench in Praza das Praterías even in high season. Sit for ten minutes and just watch, pilgrims checking phones for the nearest albergue, a nun crossing toward the cathedral, a street musician tuning up in a doorway. That's the real texture of the Casco Histórico, and it costs nothing to enjoy it.
 
 ## Practical notes
 
-Give yourself at least half a day, more if you plan to linger over meals. There's no single ticketed entry to the old town itself — it's a living neighborhood, not a museum — though individual sites like the cathedral museum or Pazo de Xelmírez may charge separate admission. Confirm current hours for any specific monument before you go, since they shift seasonally.
+Give yourself at least half a day, more if you plan to linger over meals. There's no single ticketed entry to the old town itself (it's a living neighborhood, not a museum) though individual sites like the cathedral museum or Pazo de Xelmírez may charge separate admission. Confirm current hours for any specific monument before you go, since they shift seasonally.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: saint-cloud-paris-region-rock-en-seine-2026
-srcHash: 'f05c3f81c040'
+srcHash: '40e2eb3f02f4'
 title: 'Rock en Seine 2026: lo que hay que saber (Saint-Cloud, París)'
 description: Rock en Seine 2026 estaba previsto para el 26 al 30 de agosto de 2026 en el Domaine national de Saint-Cloud, cerca de París, con The Cure, Nick Cave y Tyler, the Creator como cabezas de cartel.
 quickAnswer: 'Rock en Seine 2026 estaba previsto para el 26 al 30 de agosto de 2026 en el Domaine national de Saint-Cloud, justo al oeste de París. El cartel anunciaba a The Cure, Nick Cave & The Bad Seeds y Tyler, the Creator como cabezas de cartel, junto a Deftones, Turnstile y otros artistas. El recinto queda a poca distancia del centro de París: el RER C llega hasta la estación de Saint-Cloud, desde donde se puede subir a pie o en lanzadera hasta el parque, y la línea 9 de Metro llega hasta Pont de Sèvres, en el lado sur.'

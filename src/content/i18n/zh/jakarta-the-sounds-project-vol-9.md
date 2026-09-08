@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-the-sounds-project-vol-9
-srcHash: '4b3c3387e144'
+srcHash: 'd13aeedb1e16'
 title: The Sounds Project Vol. 9 音乐节须知（雅加达）
 description: 2026年8月7日至9日，The Sounds Project Vol. 9 音乐节原定在印度尼西亚雅加达举办。以下是这场为期三天的音乐节所公布的日期、场地、阵容与购票信息。
 quickAnswer: The Sounds Project Vol. 9 原定于2026年8月7日至9日在北雅加达（North Jakarta）安佐尔（Ancol）的Ecovention生态公园（Ecovention Ecopark）举办，为期三天，阵容横跨多种曲风：既有Pamungkas、Rizky Febian等印尼本土音乐人，也有澳大利亚摇滚乐队Jet等国际嘉宾。门票通过The Sounds Project官方渠道发售。

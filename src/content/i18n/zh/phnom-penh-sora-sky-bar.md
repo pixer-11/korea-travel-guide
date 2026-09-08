@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: phnom-penh-sora-sky-bar
-srcHash: 'ad83aebfdccb'
+srcHash: '81d519278153'
 title: Sora Sky Bar：金边旅行指南
 description: 柬埔寨金边的Sora Sky Bar，是当下最受关注的新晋人气地点——它是什么、在哪里、该怎么去。
 quickAnswer: Sora Sky Bar坐落在金边柏悦酒店（Rosewood Phnom Penh）顶层，位于Sothearos大道上这座城市最高塔楼的高层，如今是柬埔寨话题度最高的天台酒吧。它入选了2026年亚洲50大最佳酒吧榜单，还获得了可持续酒吧奖，因此这里聚集的是讲究品质的客群，若不提前预订，等位在所难免。最佳时间是去看洞里萨河与湄公河交汇处的日落，记得提前订位——周末想直接上门是行不通的。

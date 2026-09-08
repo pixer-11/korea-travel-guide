@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: makati-city-john-legend-an-evening-of-songs-stories
-srcHash: 'bc89c6ccc3b9'
+srcHash: '168f213927b6'
 title: 'John Legend: An Evening of Songs & Stories: lo que hay que saber (Makati City)'
 description: An Evening of Songs & Stories, de John Legend, estaba programado para el 3 y 4 de septiembre de 2026 en el Proscenium Theater de Makati City, un espectáculo sentado y centrado en el piano.
 quickAnswer: La gira mundial "An Evening of Songs & Stories", la propuesta más íntima de John Legend, estaba programada para dos noches en el Proscenium Theater de Makati City, los días 3 y 4 de septiembre de 2026. Se trataba de un espectáculo sentado, de estilo teatral, construido en torno a un piano despojado y a la narración de historias, en lugar de un gran espectáculo de estadio, lo que da lugar a una sala más pequeña y formal que la de un concierto de arena habitual. Los horarios exactos del show y de apertura de puertas no se incluyeron en el anuncio de la gira.

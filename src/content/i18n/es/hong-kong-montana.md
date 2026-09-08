@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-montana
-srcHash: '612816ce075e'
+srcHash: 'ba4d9c126208'
 title: 'Montana: guía de viaje de Hong Kong'
 description: 'Montana, en el tramo de Sheung Wan/Central de Hong Kong, es el nuevo local de moda: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: 'Montana es el nuevo bar de cócteles de Hollywood Road, en el tramo que conecta Sheung Wan con Central, en Hong Kong. Abrió como proyecto hermano de Bar Leone, de la mano de Lorenzo Antinori y Simone Caporale, el dúo detrás de Sips en Barcelona. Si buscas cómo conseguir mesa, ten en cuenta que las reservas vuelan: conviene reservar con antelación o probar suerte presentándose justo a la apertura entre semana. El mejor momento para ir es al principio de la tarde-noche, antes de que llegue la marea de oficinistas que sube desde Central tras el trabajo.'

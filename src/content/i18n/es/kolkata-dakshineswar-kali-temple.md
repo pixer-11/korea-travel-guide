@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kolkata-dakshineswar-kali-temple
-srcHash: '20217958917a'
+srcHash: '607e19daa1d1'
 title: 'Templo de Dakshineswar Kali: guía de viaje de Calcuta (4,7★)'
 description: El templo de Dakshineswar Kali se alza en la orilla oriental del río Hooghly, al norte de Calcuta, y abre todos los días de 5:00 a 12:30 y de 15:30 a 19:30. Reseñas, horarios y consejos de 4,7★ (103.394 opiniones).
 quickAnswer: El templo de Dakshineswar Kali se alza en la orilla oriental del río Hooghly, al norte de Calcuta, y abre todos los días de 5:00 a 12:30 y de 15:30 a 19:30. Para evitar las aglomeraciones, conviene ir justo a la apertura o entre semana durante el momento más tranquilo, de 7:00 a 8:00, ya que los fines de semana el templo permanece concurrido de 8:00 a 19:00. Conviene reservar entre 1 y 1,5 horas para la visita, vestir con recato y tener en cuenta que hay que dejar el calzado en un mostrador antes de entrar.

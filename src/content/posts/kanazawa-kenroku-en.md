@@ -105,7 +105,7 @@ updatedDate: '2026-09-06'
 
 ## Why Kenroku-en Is Worth Your Time
 
-Kenroku-en (兼六園) means "Garden of the Six Attributes," a reference to a classical Chinese text describing the six qualities of a perfect landscape garden: spaciousness, seclusion, artifice, antiquity, waterways, and panoramas. It's one of only three gardens in Japan traditionally honored as a "perfect garden," alongside Kairaku-en in Mito and Koraku-en in Okayama. Laid out over roughly two centuries starting in the 1620s by the Maeda clan, who ruled the wealthy Kaga domain from adjacent Kanazawa Castle, the garden was designed as a strolling landscape meant to reveal a new composition with every turn of the path — ponds, teahouses, artificial hills, and borrowed views of distant mountains all choreographed deliberately.
+Kenroku-en (兼六園) means "Garden of the Six Attributes," a reference to a classical Chinese text describing the six qualities of a perfect landscape garden: spaciousness, seclusion, artifice, antiquity, waterways, and panoramas. It's one of only three gardens in Japan traditionally honored as a "perfect garden," alongside Kairaku-en in Mito and Koraku-en in Okayama. Laid out over roughly two centuries starting in the 1620s by the Maeda clan, who ruled the wealthy Kaga domain from adjacent Kanazawa Castle, the garden was designed as a strolling landscape meant to reveal a new composition with every turn of the path, ponds, teahouses, artificial hills, and borrowed views of distant mountains all choreographed deliberately.
 
 ## Getting There
 
@@ -117,7 +117,7 @@ If you'd rather walk, it's about 25-30 minutes on foot through the Korinbo shopp
 
 Budget 90 minutes for a proper walk, longer if you plan to sit for tea. Key stops:
 
-- **Kasumigaike Pond**, the garden's largest pond, home to the single most photographed feature: the **Kotoji-toro**, a two-legged stone lantern shaped like the bridge of a koto (a traditional stringed instrument). It sits at the water's edge with Karasaki Pine behind it — the classic postcard shot.
+- **Kasumigaike Pond**, the garden's largest pond, home to the single most photographed feature: the **Kotoji-toro**, a two-legged stone lantern shaped like the bridge of a koto (a traditional stringed instrument). It sits at the water's edge with Karasaki Pine behind it, the classic postcard shot.
 - **Karasaki Pine**, planted from seed by the 13th Maeda lord, is one of the garden's oldest and most sculptural trees, its branches propped and trained low across the water.
 - **Kasumigaike's fountain**, believed to be Japan's oldest surviving fountain, powered by natural water-pressure differences from the garden's original irrigation system rather than a pump.
 - **Yugao-tei teahouse**, the garden's oldest existing structure, and **Shigure-tei**, a reconstructed teahouse where visitors can sit for matcha and a seasonal sweet with a garden view.
@@ -127,11 +127,11 @@ Exit toward Kanazawa Castle Park to extend the visit, or head the other directio
 
 ## When to Go
 
-Kenroku-en earns its "beautiful in every season" reputation. Spring (late March–April) brings roughly 400 cherry trees into bloom. Early summer brings irises around the ponds. Autumn (mid-to-late November) turns the maples around Kasumigaike deep red, and the garden sometimes opens for special evening illuminations during peak color — worth checking local tourism listings if visiting then. Winter is arguably the most iconic season: from around November through mid-March, gardeners install **yukizuri**, the rope webs strung from tall wooden poles to protect pine branches from heavy snow, a technique unique to this region and a defining image of Kanazawa.
+Kenroku-en earns its "beautiful in every season" reputation. Spring (late March–April) brings roughly 400 cherry trees into bloom. Early summer brings irises around the ponds. Autumn (mid-to-late November) turns the maples around Kasumigaike deep red, and the garden sometimes opens for special evening illuminations during peak color, worth checking local tourism listings if visiting then. Winter is arguably the most iconic season: from around November through mid-March, gardeners install **yukizuri**, the rope webs strung from tall wooden poles to protect pine branches from heavy snow, a technique unique to this region and a defining image of Kanazawa.
 
 Arrive right at opening (the garden typically opens early morning) for the best light and thinnest crowds, since it's consistently one of the most-visited sights in the city.
 
 ## Practical Tips
 
-Wear shoes with grip — paths are gravel and can be uneven or slick after rain or snow. There's no single "best" entrance; each gate offers a different first impression, so pick whichever aligns with your other plans (castle side vs. Korinbo/museum side). Confirm current admission fees and hours before visiting, as these are adjusted periodically, and note that admission is sometimes offered free on certain commemorative dates.
+Wear shoes with grip, paths are gravel and can be uneven or slick after rain or snow. There's no single "best" entrance; each gate offers a different first impression, so pick whichever aligns with your other plans (castle side vs. Korinbo/museum side). Confirm current admission fees and hours before visiting, as these are adjusted periodically, and note that admission is sometimes offered free on certain commemorative dates.
 

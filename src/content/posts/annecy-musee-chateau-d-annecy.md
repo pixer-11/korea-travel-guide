@@ -74,15 +74,15 @@ updatedDate: '2026-08-16'
 
 ## Why go
 
-You climb a short, steep street from the old town and the château appears above the rooftops, all pale stone and round towers. It doesn't look like a museum from outside — it looks like what it is, a fortress that watched over Annecy for the Counts of Geneva since the 12th century.
+You climb a short, steep street from the old town and the château appears above the rooftops, all pale stone and round towers. It doesn't look like a museum from outside, it looks like what it is, a fortress that watched over Annecy for the Counts of Geneva since the 12th century.
 
-Inside, that history is still legible. Thick walls, deep window recesses, uneven stone floors — the building itself is half the exhibit, even before you reach the collections of regional painting, sculpture, and archaeology.
+Inside, that history is still legible. Thick walls, deep window recesses, uneven stone floors. The building itself is half the exhibit, even before you reach the collections of regional painting, sculpture, and archaeology.
 
 ## What you'll actually see
 
 The rooms move between eras in a way that keeps you off balance, in a good way. One gallery holds medieval and Renaissance religious sculpture from Savoy churches; another turns over to contemporary art installations that deliberately clash with the stonework around them.
 
-There's also a natural history section covering the geology and wildlife of the surrounding Alps and Lake Annecy — a nod to the castle's earlier life as a regional museum of "everything." Give yourself:
+There's also a natural history section covering the geology and wildlife of the surrounding Alps and Lake Annecy, a nod to the castle's earlier life as a regional museum of "everything." Give yourself:
 
 - 1.5 hours for a fast pass through the highlights
 - 2.5–3 hours if you read labels and linger in the temporary exhibition
@@ -90,7 +90,7 @@ There's also a natural history section covering the geology and wildlife of the 
 
 ## Getting there
 
-The château sits at Place du Château, 74000 Annecy, right above the Vieille Ville. From the train station, it's a 15–20 minute walk through the old town's arcaded streets and canal bridges — genuinely part of the experience, not a detour.
+The château sits at Place du Château, 74000 Annecy, right above the Vieille Ville. From the train station, it's a 15–20 minute walk through the old town's arcaded streets and canal bridges, genuinely part of the experience, not a detour.
 
 If you'd rather not walk uphill, local buses stop near the old town and it's a short climb from there. There's no dedicated visitor parking at the castle itself, so leave the car in one of the old town's public car parks and walk up.
 
@@ -98,7 +98,7 @@ If you'd rather not walk uphill, local buses stop near the old town and it's a s
 
 The museum is open every day except Tuesday, from 10:30am to 6pm. On Tuesdays it's fully closed, so don't build a visit around that day.
 
-Weekends draw the heaviest crowds, with foot traffic staying high from 11am right through to closing at 6pm. If you want the galleries closer to yourself, the quiet window on both weekdays and weekends is 1pm–2pm — plan lunch first, then walk up.
+Weekends draw the heaviest crowds, with foot traffic staying high from 11am right through to closing at 6pm. If you want the galleries closer to yourself, the quiet window on both weekdays and weekends is 1pm–2pm. Plan lunch first, then walk up.
 
 Early risers do well here too: arriving close to the 10:30am opening on a weekday tends to beat the tour groups that build through the late morning.
 
@@ -107,13 +107,13 @@ Early risers do well here too: arriving close to the 10:30am opening on a weekda
 This is one of Annecy's most-visited sights, so treat it like a busy museum rather than a quiet find. A little planning goes a long way.
 
 - **Time it right**: 1pm–2pm is consistently the calmest hour, on weekdays and weekends alike.
-- **Avoid the peak**: skip arriving on a Saturday or Sunday between 11am and 6pm if you can help it — that's when the courtyard and ticket line both fill up.
+- **Avoid the peak**: skip arriving on a Saturday or Sunday between 11am and 6pm if you can help it. That's when the courtyard and ticket line both fill up.
 - **Pay by card**: French museums have moved almost entirely to card and contactless payment, though it's still sensible to carry some cash as backup.
 - **Book ahead in summer**: during July and August, buying a timed ticket online avoids a wait at the door.
-- **Don't rush the ramparts**: the courtyard and rampart walk are free-feeling bonus spaces most tourists blitz through — slow down here for the best lake views in the building.
+- **Don't rush the ramparts**: the courtyard and rampart walk are free-feeling bonus spaces most tourists blitz through, slow down here for the best lake views in the building.
 - **Mind the Tuesday closure**: it's the single most common mistake visitors make, turning up on the one day the castle is shut.
 
-The museum's official French name, Musée-Château d'Annecy, is what you'll see on signage and tickets — useful to know if you're asking for directions in town, since locals simply call it "le château."
+The museum's official French name, Musée-Château d'Annecy, is what you'll see on signage and tickets, useful to know if you're asking for directions in town, since locals simply call it "le château."
 
 ## Nearby, once you're done
 

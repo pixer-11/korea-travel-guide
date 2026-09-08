@@ -83,7 +83,7 @@ updatedDate: '2026-09-02'
 ---
 ## Why go
 
-The building alone is worth the walk over. Guangdong Museum's exterior looks like an ornate carved box — architects call it the "Ivory Carving Box" — with a perforated golden lattice skin that filters sunlight into shifting geometric patterns across the atrium floor.
+The building alone is worth the walk over. Guangdong Museum's exterior looks like an ornate carved box, architects call it the "Ivory Carving Box", with a perforated golden lattice skin that filters sunlight into shifting geometric patterns across the atrium floor.
 
 Inside, the collection punches well above what its modest review count suggests. You get Chaozhou woodcarving lacquered in gold leaf, Duan inkstones, historic ceramics pulled from Guangdong's own kilns, and a rotating textiles and calligraphy hall. It's the kind of place where you can wander for an hour without bumping into another visitor.
 
@@ -91,11 +91,11 @@ Inside, the collection punches well above what its modest review count suggests.
 
 The museum sits at 2 Zhujiang Dong Lu in Tianhe District, in the heart of Zhujiang New Town. Take Metro Line 3 or Line 5 to Zhujiang New Town Station, then walk roughly 10–15 minutes east through the CBD plaza.
 
-Alternatively, APM Line's Huaxia Square or Grand Theatre station drops you even closer. Look for the low, boxy gold building near the Guangzhou Opera House and the Guangzhou Library — they form a cultural cluster you can hit in one afternoon.
+Alternatively, APM Line's Huaxia Square or Grand Theatre station drops you even closer. Look for the low, boxy gold building near the Guangzhou Opera House and the Guangzhou Library, they form a cultural cluster you can hit in one afternoon.
 
 ## What to see inside
 
-Start on the third floor, where the ceramics galleries trace Guangdong's kiln history from Tang dynasty celadon through Qing export porcelain made for European trade. The Chaozhou woodcarving room is the sleeper hit — gilded screens and altar panels carved so deeply they look three-dimensional from across the room.
+Start on the third floor, where the ceramics galleries trace Guangdong's kiln history from Tang dynasty celadon through Qing export porcelain made for European trade. The Chaozhou woodcarving room is the sleeper hit, gilded screens and altar panels carved so deeply they look three-dimensional from across the room.
 
 Don't skip the natural history and Danxia landform exhibits downstairs; they're a break from ceramics and surprisingly well done. Look out for:
 
@@ -106,7 +106,7 @@ Don't skip the natural history and Danxia landform exhibits downstairs; they're 
 
 ## When to go
 
-The museum runs Tuesday through Sunday, 9am to 5pm, and is closed every Monday — plan your Guangzhou itinerary around that. Because it's still under-the-radar compared to bigger national museums, weekday mornings right after opening tend to be nearly empty.
+The museum runs Tuesday through Sunday, 9am to 5pm, and is closed every Monday. Plan your Guangzhou itinerary around that. Because it's still under-the-radar compared to bigger national museums, weekday mornings right after opening tend to be nearly empty.
 
 Weekends bring more local families, especially with kids in tow for the natural history section, but even then it rarely feels crowded. Budget two to three hours if you want to read the placards rather than skim.
 
@@ -114,10 +114,10 @@ Weekends bring more local families, especially with kids in tow for the natural 
 
 Check ticket requirements before you go, and bring identification, as entry registration is typically required.
 
-Because this isn't yet a tourist-clogged stop, you won't need to fight crowds for photos, but locals still treat it as a quiet weekday outing rather than a big-ticket destination. Dress comfortably — the galleries span several floors with limited seating.
+Because this isn't yet a tourist-clogged stop, you won't need to fight crowds for photos, but locals still treat it as a quiet weekday outing rather than a big-ticket destination. Dress comfortably, the galleries span several floors with limited seating.
 
 Skip the gift shop rush and instead head to the top-floor windows overlooking the Pearl River for one of the best free views of the CBD skyline. Most visitors miss this because they leave straight from the ground floor.
 
-Pair it with a stroll to the Opera House or Guangzhou Library afterward — all three sit within a five-minute walk of each other, making a natural half-day cultural loop. Avoid arriving right before closing, since guards start closing sections early.
+Pair it with a stroll to the Opera House or Guangzhou Library afterward. All three sit within a five-minute walk of each other, making a natural half-day cultural loop. Avoid arriving right before closing, since guards start closing sections early.
 
 Bring a bottle of water; food options inside are limited, and the surrounding plaza can mean a longer walk to restaurants than you'd expect in the CBD.

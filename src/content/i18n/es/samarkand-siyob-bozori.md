@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-siyob-bozori
-srcHash: '5c745da5cb47'
+srcHash: '96fc0471f77f'
 title: 'Siyob Bozori: guía de viaje de Samarcanda (4,5★)'
 description: 'El Siyob Bozori se extiende justo detrás de la mezquita Bibi-Khanym en Samarcanda, y abre de martes a domingo de 7:00 a 19:00 (cerrado los lunes). 4,5★ (4.225 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Siyob Bozori se extiende justo detrás de la mezquita Bibi-Khanym en Samarcanda, y abre de martes a domingo de 7:00 a 19:00 (cerrado los lunes). Conviene ir entre las 7:00 y las 9:00, cuando hay menos gente tanto entre semana como el fin de semana, antes de que los puestos de pan con cúpula y las pirámides de especias se llenen de gente después de las 11:00. Calcule una hora para recorrerlo, más si piensa comer mientras lo explora.

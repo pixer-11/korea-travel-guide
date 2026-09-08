@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-hachi-restaurant
-srcHash: '1bbbb475788d'
+srcHash: '3328a1270f90'
 title: 'Restaurante Hachi: dónde comer en Singapur'
 description: 'Restaurante Hachi en Singapur, Singapur: un local nuevo y en auge. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Hachi es un restaurante omakase centrado en el ingrediente, con una larga trayectoria en Singapur, que reabrió en 2026 en un nuevo espacio de 3.600 pies cuadrados en Keppel South Central, 27 años después de su fundación en 1999. Propone un recorrido de inspiración kaiseki repartido entre el comedor principal, una barra de chef y salas semiprivadas. Conviene reservar con antelación y confirmar directamente antes de la visita los horarios vigentes, las opciones de asiento y los precios, ya que estos detalles todavía se están definiendo tras la mudanza.

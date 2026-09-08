@@ -88,25 +88,25 @@ updatedDate: '2026-08-31'
 
 ## Why go
 
-Chiang Mai's old city is stacked with temples and night markets, but Hidden Village Chiang Mai offers something different: a sprawling, jungle-themed compound of wooden walkways, thatched huts, hanging bridges, and staged photo corners built around a working café. It's the kind of place locals share on social media rather than something printed in old-school guidebooks — hence the "hidden" in the name, even though it now pulls a steady stream of visitors (over 2,400 reviews and a solid 4.2 rating attest to its popularity).
+Chiang Mai's old city is stacked with temples and night markets, but Hidden Village Chiang Mai offers something different: a sprawling, jungle-themed compound of wooden walkways, thatched huts, hanging bridges, and staged photo corners built around a working café. It's the kind of place locals share on social media rather than something printed in old-school guidebooks, hence the "hidden" in the name, even though it now pulls a steady stream of visitors (over 2,400 reviews and a solid 4.2 rating attest to its popularity).
 
 Go for the atmosphere and the pictures, not for deep cultural insight; it's a relaxed half-day add-on rather than a must-see monument.
 
 ## Getting there
 
-The address — 77/19 Moo 7, 168 Ban Tha Look Soi 8, Tambon San Phi Suea, Amphoe Mueang Chiang Mai — sits northeast of the old city, outside the main tourist grid of Nimman and the moat area. There's no direct songthaew (red truck) route or public bus that serves this soi reliably, so the practical options are a Grab ride, a metered taxi, or your own rented scooter/car.
+The address (77/19 Moo 7, 168 Ban Tha Look Soi 8, Tambon San Phi Suea, Amphoe Mueang Chiang Mai) sits northeast of the old city, outside the main tourist grid of Nimman and the moat area. There's no direct songthaew (red truck) route or public bus that serves this soi reliably, so the practical options are a Grab ride, a metered taxi, or your own rented scooter/car.
 
 From the old city center (near Tha Phae Gate), expect roughly a 20–30 minute drive depending on traffic and exact route through San Phi Suea's residential lanes. If self-driving, plug the exact soi into Google Maps rather than just the district name, since San Phi Suea has a maze of numbered sois that look similar. Parking is generally available on-site for scooters and cars.
 
 ## What to see and do
 
-The draw here is wandering: raised bamboo and wood walkways weave between ponds, small waterfalls, swings over water, tunnel-like tree cover, and rustic huts styled like a jungle village. Photo spots are scattered throughout, so plan to spend most of your visit strolling and shooting rather than sitting still. Attached to the walking trail is a café/restaurant area serving Thai dishes and drinks — many visitors treat the entry as tied to a minimum food or drink order, so budget for at least a coffee, smoothie, or light meal while you're there.
+The draw here is wandering: raised bamboo and wood walkways weave between ponds, small waterfalls, swings over water, tunnel-like tree cover, and rustic huts styled like a jungle village. Photo spots are scattered throughout, so plan to spend most of your visit strolling and shooting rather than sitting still. Attached to the walking trail is a café/restaurant area serving Thai dishes and drinks, many visitors treat the entry as tied to a minimum food or drink order, so budget for at least a coffee, smoothie, or light meal while you're there.
 
 Because the layout is outdoors and partly shaded, comfortable footwear and sun protection help, especially at midday. Give yourself 60–90 minutes: enough to walk the full circuit, get photos at the main bridges and huts, and relax with a drink before heading back into the city.
 
 ## When to go
 
-Early morning (soon after opening) or late afternoon before sunset are the best windows — the light is softer for photos and the heat is more bearable, since much of the site is semi-outdoor with limited air conditioning. Weekdays are noticeably quieter than weekends, when domestic tourists and families flock in for photo sessions. Chiang Mai's cooler season, roughly November through February, is the most comfortable time to explore any outdoor attraction in the city, including this one; the hot season (March–May) can make midday visits uncomfortable, and the rainy season (June–October) brings sudden downpours that can affect the wooden walkways underfoot.
+Early morning (soon after opening) or late afternoon before sunset are the best windows. The light is softer for photos and the heat is more bearable, since much of the site is semi-outdoor with limited air conditioning. Weekdays are noticeably quieter than weekends, when domestic tourists and families flock in for photo sessions. Chiang Mai's cooler season, roughly November through February, is the most comfortable time to explore any outdoor attraction in the city, including this one; the hot season (March–May) can make midday visits uncomfortable, and the rainy season (June–October) brings sudden downpours that can affect the wooden walkways underfoot.
 
 ## Nearby & tips
 

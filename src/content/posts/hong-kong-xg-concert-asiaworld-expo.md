@@ -29,15 +29,15 @@ eventRecurring: false
 ---
 ## Why this show matters
 
-XG's rise from a Japanese-formed, English-singing girl group to one of the most talked-about acts in Asia has been fast, and a Hong Kong stop puts them on one of the region's biggest concert stages. AsiaWorld-Expo isn't an intimate club date — it's a cavernous exhibition-hall-turned-arena that regularly hosts touring K-pop and J-pop acts, with room for full production: LED walls, a proper sound rig, and the kind of choreography-driven set XG has built its reputation on.
+XG's rise from a Japanese-formed, English-singing girl group to one of the most talked-about acts in Asia has been fast, and a Hong Kong stop puts them on one of the region's biggest concert stages. AsiaWorld-Expo isn't an intimate club date. It's a cavernous exhibition-hall-turned-arena that regularly hosts touring K-pop and J-pop acts, with room for full production: LED walls, a proper sound rig, and the kind of choreography-driven set XG has built its reputation on.
 
 Longtime XG fans know the drill. For a first-timer, this is the venue where Hong Kong does its biggest pop shows, so the bar for staging is high.
 
 ## Getting there
 
-AsiaWorld-Expo's biggest practical advantage is that it's built into Hong Kong's airport complex on Lantau Island, directly connected to AsiaWorld-Expo Station on the MTR Tung Chung Line — a short ride from Tung Chung, and a longer but simple one from Hong Kong Island or Kowloon via Central or Nam Cheong. From the city it's roughly 45–60 minutes door to door depending on the starting point, more when trains and the venue are busy right after a show.
+AsiaWorld-Expo's biggest practical advantage is that it's built into Hong Kong's airport complex on Lantau Island, directly connected to AsiaWorld-Expo Station on the MTR Tung Chung Line, a short ride from Tung Chung, and a longer but simple one from Hong Kong Island or Kowloon via Central or Nam Cheong. From the city it's roughly 45–60 minutes door to door depending on the starting point, more when trains and the venue are busy right after a show.
 
-Coming straight from the airport, it's a five-minute walk along a covered link bridge — genuinely useful on a same-day arrival. Taxis and private hire cars can drop off near the main entrance, but on show nights there are queues and marshalled pickup zones rather than curbside hailing.
+Coming straight from the airport, it's a five-minute walk along a covered link bridge, genuinely useful on a same-day arrival. Taxis and private hire cars can drop off near the main entrance, but on show nights there are queues and marshalled pickup zones rather than curbside hailing.
 
 ## Tickets and what to expect
 
@@ -47,15 +47,15 @@ Ticket sales for major AsiaWorld-Expo shows typically run through official platf
 
 ## When to go and how long to stay
 
-AsiaWorld-Expo shows see the heaviest crowd surges in the hour before doors and the twenty minutes right after the encore, when everyone funnels toward the same MTR platform at once. Two to three hours ahead is the common arrival window — enough time to clear security, look over any official merchandise booths (these often have their own separate queues that form well before doors), and eat nearby, since options inside the expo halls themselves are limited to convenience-style concessions rather than a proper food court.
+AsiaWorld-Expo shows see the heaviest crowd surges in the hour before doors and the twenty minutes right after the encore, when everyone funnels toward the same MTR platform at once. Two to three hours ahead is the common arrival window, enough time to clear security, look over any official merchandise booths (these often have their own separate queues that form well before doors), and eat nearby, since options inside the expo halls themselves are limited to convenience-style concessions rather than a proper food court.
 
 The realistic figure is a whole evening, roughly 5–6 hours from arrival to getting back into the city, rather than just the show's runtime.
 
 ## How to visit like a local
 
-Hong Kong concertgoers who do this venue regularly treat the MTR as the default way in and out — driving means dealing with limited, often pre-booked parking, so the train is genuinely the path of least resistance, not just the budget option. Payment on-site (food stalls, merch, transit) runs almost entirely on Octopus card or contactless, so regulars turn up with an Octopus loaded rather than cash.
+Hong Kong concertgoers who do this venue regularly treat the MTR as the default way in and out, driving means dealing with limited, often pre-booked parking, so the train is genuinely the path of least resistance, not just the budget option. Payment on-site (food stalls, merch, transit) runs almost entirely on Octopus card or contactless, so regulars turn up with an Octopus loaded rather than cash.
 
-Merch lines often form separately from entry lines well before doors open, so a specific item means joining that queue first, not the ticket gate. Tipping isn't customary at Hong Kong venues or nearby food stalls. The thing first-timers underestimate is exit time — thousands of people funnel into one MTR station simultaneously, and the local habit is to linger 20–30 minutes post-show, grab a drink at one of the venue's bars, and let the initial wave clear before heading to the platform.
+Merch lines often form separately from entry lines well before doors open, so a specific item means joining that queue first, not the ticket gate. Tipping isn't customary at Hong Kong venues or nearby food stalls. The thing first-timers underestimate is exit time, thousands of people funnel into one MTR station simultaneously, and the local habit is to linger 20–30 minutes post-show, grab a drink at one of the venue's bars, and let the initial wave clear before heading to the platform.
 
 ## Booking details
 

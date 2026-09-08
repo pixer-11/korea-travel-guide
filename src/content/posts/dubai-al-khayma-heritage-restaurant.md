@@ -108,13 +108,13 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-Al Khayma Heritage Restaurant is one of the most talked-about places in Dubai to eat traditional Emirati food in a setting built to match — a courtyard styled after a Bedouin "khayma" (tent), with low seating, woven textiles, and lantern light. It sits inside the Al Fahidi Historical Neighbourhood, the wind-tower district that's also home to the Dubai Museum and the Sheikh Mohammed Centre for Cultural Understanding, so it works as both a meal stop and a cultural anchor for a walk through old Bur Dubai.
+Al Khayma Heritage Restaurant is one of the most talked-about places in Dubai to eat traditional Emirati food in a setting built to match, a courtyard styled after a Bedouin "khayma" (tent), with low seating, woven textiles, and lantern light. It sits inside the Al Fahidi Historical Neighbourhood, the wind-tower district that's also home to the Dubai Museum and the Sheikh Mohammed Centre for Cultural Understanding, so it works as both a meal stop and a cultural anchor for a walk through old Bur Dubai.
 
-With a 4.9 rating across roughly 17,700 reviews, it's not a quiet find — it's become a genuine destination in its own right, and the crowds reflect that.
+With a 4.9 rating across roughly 17,700 reviews, it's not a quiet find. It's become a genuine destination in its own right, and the crowds reflect that.
 
 ## Getting there
 
-The restaurant's address is 79 Al Mussallah Road, Al Souq Al Kabeer, Al Fahidi — inside the historical quarter on the Bur Dubai side of Dubai Creek. The nearest Dubai Metro stop is Al Fahidi Station on the Green Line; from there it's a walkable 10-15 minutes through the sand-coloured lanes of the heritage district, or a short taxi ride if you're coming straight off the Red Line via BurJuman interchange.
+The restaurant's address is 79 Al Mussallah Road, Al Souq Al Kabeer, Al Fahidi, inside the historical quarter on the Bur Dubai side of Dubai Creek. The nearest Dubai Metro stop is Al Fahidi Station on the Green Line; from there it's a walkable 10-15 minutes through the sand-coloured lanes of the heritage district, or a short taxi ride if you're coming straight off the Red Line via BurJuman interchange.
 
 If you're arriving from Deira, the abra (traditional ferry) across the Creek to Bur Dubai's Al Seef or Al Ghubaiba dock is a scenic, cheap alternative to a taxi and drops you within walking distance. Parking in the historical neighbourhood is limited and largely street-side, so metro-plus-walk is the more reliable option during the day.
 
@@ -122,17 +122,17 @@ If you're arriving from Deira, the abra (traditional ferry) across the Creek to 
 
 The menu leans into Emirati home cooking rather than a generic Gulf/Arabic buffet: expect machboos (spiced rice with chicken, lamb, or fish), harees (a slow-cooked wheat-and-meat porridge, historically an Eid staple), and Al Khayma's own take on the balaleet noodle-omelette breakfast dish if you visit earlier in the day. For dessert, luqaimat (fried dough balls drizzled in date syrup) are a fitting close.
 
-Portions and presentation nod to Bedouin dining — communal platters, floor or low-table seating in the tent-inspired courtyard — so it suits groups and families more than a quick solo bite. Price level is moderate (mid-range, not budget or luxury), and the courtyard setting itself, ringed by the neighbourhood's coral-stone and wind-tower architecture, is worth the visit even before the food arrives.
+Portions and presentation nod to Bedouin dining (communal platters, floor or low-table seating in the tent-inspired courtyard), so it suits groups and families more than a quick solo bite. Price level is moderate (mid-range, not budget or luxury), and the courtyard setting itself, ringed by the neighbourhood's coral-stone and wind-tower architecture, is worth the visit even before the food arrives.
 
 ## When to go
 
-Late afternoon through early evening is the most comfortable window, especially outside the peak summer heat (May-September), when outdoor and semi-outdoor courtyard seating is far more pleasant from October to April. Lunch service tends to be calmer than dinner, which draws both tourists finishing a heritage-district walk and residents marking special occasions. If your trip coincides with Ramadan, note that Emirati restaurants like this one often shift hours around iftar and see a surge right after sunset — plan for a wait or an earlier/later slot.
+Late afternoon through early evening is the most comfortable window, especially outside the peak summer heat (May-September), when outdoor and semi-outdoor courtyard seating is far more pleasant from October to April. Lunch service tends to be calmer than dinner, which draws both tourists finishing a heritage-district walk and residents marking special occasions. If your trip coincides with Ramadan, note that Emirati restaurants like this one often shift hours around iftar and see a surge right after sunset. Plan for a wait or an earlier/later slot.
 
 ## How to visit like a local
 
-Given the volume of reviews and its "very popular" status, this is not an under-the-radar spot — treat it like a sought-after restaurant and plan accordingly. Book ahead where possible, or arrive right at opening for lunch to avoid the midday and evening rush. Payment is typically by card or cash, and as with most restaurants in the UAE, a service charge may already be added to the bill — check before adding a separate tip, though rounding up in cash for good service is common practice locally.
+Given the volume of reviews and its "very popular" status, this is not an under-the-radar spot (treat it like a sought-after restaurant and plan accordingly. Book ahead where possible, or arrive right at opening for lunch to avoid the midday and evening rush. Payment is typically by card or cash, and as with most restaurants in the UAE, a service charge may already be added to the bill) check before adding a separate tip, though rounding up in cash for good service is common practice locally.
 
-Dress a little more modestly than beach-casual, since you're in a historical, culturally significant quarter, not a mall food court. The most common visitor mistake is treating this as a rushed stop between photos in the Al Fahidi lanes — the courtyard setting rewards lingering, so build in time rather than squeezing it between two other attractions. If you want the full experience, ask staff about the day's harees or balaleet availability, since some traditional dishes are seasonal or time-of-day specific rather than on the menu around the clock.
+Dress a little more modestly than beach-casual, since you're in a historical, culturally significant quarter, not a mall food court. The most common visitor mistake is treating this as a rushed stop between photos in the Al Fahidi lanes, the courtyard setting rewards lingering, so build in time rather than squeezing it between two other attractions. If you want the full experience, ask staff about the day's harees or balaleet availability, since some traditional dishes are seasonal or time-of-day specific rather than on the menu around the clock.
 
 ## Nearby to combine
 

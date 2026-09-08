@@ -98,13 +98,13 @@ updatedDate: '2026-09-06'
 
 ## Why Ayasofya belongs on your Kampong Glam list
 
-Bussorah Street is one of Singapore's most photogenic strips — a low-rise row of restored shophouses running straight toward the golden dome of Masjid Sultan — and Ayasofya sits right in the middle of it at number 51. The restaurant has built a strong reputation locally and among visitors, holding a 4.8 rating across more than 4,500 reviews, which is an unusually high volume for a neighborhood restaurant.
+Bussorah Street is one of Singapore's most photogenic strips, a low-rise row of restored shophouses running straight toward the golden dome of Masjid Sultan, and Ayasofya sits right in the middle of it at number 51. The restaurant has built a strong reputation locally and among visitors, holding a 4.8 rating across more than 4,500 reviews, which is an unusually high volume for a neighborhood restaurant.
 
-It specializes in Turkish staples: charcoal-grilled meats, pide (Turkish flatbread often described as "Turkish pizza"), lentil soup, and mezze plates like hummus and cacik. The setting does a lot of the work too — outdoor seating under string lights, with the street's minaret view as a backdrop, makes it as much a scene as a meal.
+It specializes in Turkish staples: charcoal-grilled meats, pide (Turkish flatbread often described as "Turkish pizza"), lentil soup, and mezze plates like hummus and cacik. The setting does a lot of the work too, outdoor seating under string lights, with the street's minaret view as a backdrop, makes it as much a scene as a meal.
 
 ## Getting there
 
-The nearest MRT station is Bugis, served by the East-West Line (Green) and Downtown Line (Blue). Exit at Bugis and take Exit C or D, then walk roughly 8–10 minutes north through Arab Street and North Bridge Road into Kampong Glam. Alternatively, Nicoll Highway MRT (Circle Line) is a similar walking distance from the other side. Bussorah Street itself is pedestrianized, so once you're on it, there's no car traffic to navigate — just foot traffic, especially in the evenings.
+The nearest MRT station is Bugis, served by the East-West Line (Green) and Downtown Line (Blue). Exit at Bugis and take Exit C or D, then walk roughly 8–10 minutes north through Arab Street and North Bridge Road into Kampong Glam. Alternatively, Nicoll Highway MRT (Circle Line) is a similar walking distance from the other side. Bussorah Street itself is pedestrianized, so once you're on it, there's no car traffic to navigate, just foot traffic, especially in the evenings.
 
 If you're coming from elsewhere in the city, taxis and ride-hail apps can drop you at the corner of Baghdad Street or North Bridge Road, since Bussorah Street doesn't allow vehicle drop-off directly outside the restaurant.
 
@@ -118,12 +118,12 @@ At Ayasofya itself, the mixed grill plates are the most popular order for sharin
 
 ## When to go
 
-Evenings after 6:30pm are when Bussorah Street looks its best — outdoor tables lit up, the mosque floodlit — but this is also the peak crowd window, especially Thursday through Saturday. For a calmer, faster experience with the same food, aim for a late lunch around 2:30–3:30pm, after the lunch rush and before dinner service ramps up. Weekday visits are noticeably quieter than weekends. If you're in Singapore during Ramadan, expect the whole street's dining rhythm to shift toward post-sunset (iftar) hours, when demand spikes sharply.
+Evenings after 6:30pm are when Bussorah Street looks its best (outdoor tables lit up, the mosque floodlit), but this is also the peak crowd window, especially Thursday through Saturday. For a calmer, faster experience with the same food, aim for a late lunch around 2:30–3:30pm, after the lunch rush and before dinner service ramps up. Weekday visits are noticeably quieter than weekends. If you're in Singapore during Ramadan, expect the whole street's dining rhythm to shift toward post-sunset (iftar) hours, when demand spikes sharply.
 
 ## How to visit like a local
 
-Because Ayasofya is well-known rather than under-the-radar — its rating and review count reflect a place that's firmly on the tourist and local map alike — the smart move isn't finding a quiet secret, it's timing your visit to dodge the peak crush. Arrive right at opening or in that 2:30–3:30pm lull to get outdoor seating without a wait. Groups are common here, so if you're dining solo or in a pair, ask about smaller indoor tables, which turn over faster than the street-side ones.
+Because Ayasofya is well-known rather than under-the-radar, its rating and review count reflect a place that's firmly on the tourist and local map alike, the smart move isn't finding a quiet secret, it's timing your visit to dodge the peak crush. Arrive right at opening or in that 2:30–3:30pm lull to get outdoor seating without a wait. Groups are common here, so if you're dining solo or in a pair, ask about smaller indoor tables, which turn over faster than the street-side ones.
 
-Payment is standard for Singapore: cards and mobile payment (PayNow, major e-wallets) are widely accepted alongside cash, and a service charge is typically already added to the bill, so additional tipping isn't expected or necessary. Dress is casual, but note Bussorah Street sits right next to a functioning mosque — modest clothing is appreciated if you plan to walk up and view Masjid Sultan afterward, and non-worshippers should stick to designated visiting areas and hours rather than entering during prayer times.
+Payment is standard for Singapore: cards and mobile payment (PayNow, major e-wallets) are widely accepted alongside cash, and a service charge is typically already added to the bill, so additional tipping isn't expected or necessary. Dress is casual, but note Bussorah Street sits right next to a functioning mosque, modest clothing is appreciated if you plan to walk up and view Masjid Sultan afterward, and non-worshippers should stick to designated visiting areas and hours rather than entering during prayer times.
 
-The most common misstep visitors make is treating this as a five-minute photo stop; the street rewards a slower pass — order tea, sit, and let the call to prayer or evening lighting play out rather than rushing back to Bugis.
+The most common misstep visitors make is treating this as a five-minute photo stop; the street rewards a slower pass, order tea, sit, and let the call to prayer or evening lighting play out rather than rushing back to Bugis.

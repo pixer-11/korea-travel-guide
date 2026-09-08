@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-el-campero
-srcHash: '836b57f4e456'
+srcHash: '70ff5199be88'
 title: 'El Campero: dónde comer en Madrid'
 description: 'El Campero en Madrid, España: un local nuevo y muy comentado. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: El Campero, la sede madrileña del especialista en atún de Barbate, se ha instalado en un palacio del siglo XIX del barrio de Salamanca. Aquí, el chef Julio Vázquez trabaja casi la totalidad del atún rojo, desde cortes fríos al estilo sashimi hasta lomo a la plancha y preparaciones cocinadas a fuego lento. Conviene reservar con antelación, ya que se trata de una de las aperturas más comentadas de la ciudad y las mesas escasean; antes de ir, confirme siempre el horario vigente y la política de reservas.

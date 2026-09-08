@@ -44,7 +44,7 @@ aiGenerated: true
 
 ## Why go
 
-Jile Temple means "Temple of Ultimate Bliss," and it's the largest active Buddhist monastery in Harbin. Unlike the city's Russian-influenced landmarks, this is a genuinely functioning religious site — monks in grey robes cross the courtyards, and the smell of sandalwood incense hangs over everything.
+Jile Temple means "Temple of Ultimate Bliss," and it's the largest active Buddhist monastery in Harbin. Unlike the city's Russian-influenced landmarks, this is a genuinely functioning religious site, monks in grey robes cross the courtyards, and the smell of sandalwood incense hangs over everything.
 
 You come here not for grand scale but for atmosphere. It's a pocket of quiet ritual life in a city better known for ice sculptures and onion domes.
 
@@ -52,15 +52,15 @@ You come here not for grand scale but for atmosphere. It's a pocket of quiet rit
 
 The temple sits at 9 Dong Da Zhi Jie in Nangang District, one of Harbin's central, walkable neighborhoods. Taxis and ride-hailing apps know it by name, and it's a short ride from Harbin Railway Station or the city center.
 
-If you're already exploring Nangang's tree-lined streets, you can simply walk over — the temple's yellow walls and upturned eaves are hard to miss against the surrounding low-rise blocks.
+If you're already exploring Nangang's tree-lined streets, you can simply walk over, the temple's yellow walls and upturned eaves are hard to miss against the surrounding low-rise blocks.
 
 ## What you'll see inside
 
-Pass through the main gate and you enter a sequence of courtyards, each one framed by red pillars and grey brick halls. The layout follows classic Chinese Buddhist temple design — a bell tower, a drum tower, and a central hall dominated by a seated Buddha statue.
+Pass through the main gate and you enter a sequence of courtyards, each one framed by red pillars and grey brick halls. The layout follows classic Chinese Buddhist temple design, a bell tower, a drum tower, and a central hall dominated by a seated Buddha statue.
 
 Look up in the main hall and you'll notice a seven-story white pagoda rising behind it, one of the temple's most photographed features. Side halls hold smaller shrines, often with a handful of worshippers kneeling on cushions, murmuring sutras under their breath.
 
-Wander the perimeter and you'll find quieter corners — stone tablets, potted lotus plants in season, the occasional caretaker sweeping fallen leaves. It rewards slow walking more than checklist sightseeing.
+Wander the perimeter and you'll find quieter corners, stone tablets, potted lotus plants in season, the occasional caretaker sweeping fallen leaves. It rewards slow walking more than checklist sightseeing.
 
 ## When to go
 
@@ -68,19 +68,19 @@ Because this is a working monastery, the rhythm of the day matters. Early mornin
 
 Given its under-the-radar status among Harbin's attractions, you're unlikely to fight crowds here even at midday. Still, weekday mornings offer the best chance of near-solitude in the courtyards.
 
-Winters in Harbin are brutally cold, so if you're visiting during the Ice Festival season, dress for temperatures well below freezing — the temple's outdoor courtyards offer little shelter from the wind.
+Winters in Harbin are brutally cold, so if you're visiting during the Ice Festival season, dress for temperatures well below freezing, the temple's outdoor courtyards offer little shelter from the wind.
 
 ## How to visit like a local
 
 Treat this as a place of worship first, an attraction second. Speak quietly, especially near the main hall where people are actively praying.
 
-- Dress modestly — covered shoulders and knees are appreciated, especially in colder months this is easy anyway.
+- Dress modestly, covered shoulders and knees are appreciated, especially in colder months this is easy anyway.
 - Bring small bills (RMB in coins or small notes) if you want to light incense or make a small donation; there's usually no fixed "ticket" transaction like at a museum.
 - Walk clockwise around shrines and statues, the traditional direction of circumambulation in Chinese Buddhist practice.
 - Photograph courtyards and architecture freely, but avoid pointing cameras directly at people mid-prayer.
-- Skip weekend afternoons if you want the temple at its most peaceful — mornings, any day, are quieter.
+- Skip weekend afternoons if you want the temple at its most peaceful, mornings, any day, are quieter.
 
-The mistake most visitors make is treating Jile Temple like a quick photo stop between bigger sights. Slow down. Sit on one of the courtyard benches for ten minutes and just listen — that's the real reason to come.
+The mistake most visitors make is treating Jile Temple like a quick photo stop between bigger sights. Slow down. Sit on one of the courtyard benches for ten minutes and just listen. That's the real reason to come.
 
 ## Nearby and practical notes
 

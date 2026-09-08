@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: varanasi-shri-kashi-vishwanath-temple
-srcHash: '3d6c62870754'
+srcHash: '66e388cda5da'
 title: 迦尸·维斯瓦纳特庙:瓦拉纳西旅行指南
 description: 尽量早去——寺庙约凌晨3点开门举行晨间阿尔蒂(Mangala Aarti),从上午中段到傍晚都是人流最密集的时段，因此最清静的参拜(darshan)时间是刚开门时，或是傍晚阿尔蒂人潮聚集前的午后小空档。
 quickAnswer: 尽量早去——寺庙约凌晨3点开门举行晨间阿尔蒂(Mangala Aarti),从上午中段到傍晚都是人流最密集的时段，因此最清静的参拜(darshan)时间是刚开门时，或是傍晚阿尔蒂人潮聚集前的午后小空档。这里的安检堪比机场标准，手机和包都不能带入内，排队系统视当天情况可能需要30分钟到两个小时不等。作为希瓦(Shiva)在印度最受尊崇的圣地，寺庙距恒河边的拉利塔河坛(Lalita Ghat)仅几步之遥，可以顺道沿河边走走。

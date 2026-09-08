@@ -57,29 +57,29 @@ draft: false
 ---
 ## Why go
 
-You feel the difference before you're even through the gate. No incense smoke curls up from burners here — Xingtian Temple famously banned incense and paper offerings back in 2014, so the air is startlingly clear for a place of worship this busy. What replaces the haze is sound: low murmured prayers, the rhythmic clack of wooden divination blocks hitting the stone floor, and the constant shuffle of people moving toward the main hall.
+You feel the difference before you're even through the gate. No incense smoke curls up from burners here, Xingtian Temple famously banned incense and paper offerings back in 2014, so the air is startlingly clear for a place of worship this busy. What replaces the haze is sound: low murmured prayers, the rhythmic clack of wooden divination blocks hitting the stone floor, and the constant shuffle of people moving toward the main hall.
 
-The temple honors Guan Gong, a third-century general deified as the patron of loyalty, righteousness, and — crucially for Taipei — business success. That's why you'll see so many suited office workers here on weekday lunch breaks, bowing quickly before heading back to their desks.
+The temple honors Guan Gong, a third-century general deified as the patron of loyalty, righteousness, and, crucially for Taipei, business success. That's why you'll see so many suited office workers here on weekday lunch breaks, bowing quickly before heading back to their desks.
 
 ## What you'll see
 
-The architecture is deliberately plain by temple standards — poured concrete, minimal color, none of the ornate gold leaf you'll find at older sites like Longshan Temple. That's intentional. Xingtian Temple was built in 1967 and designed to keep the focus on worship, not spectacle.
+The architecture is deliberately plain by temple standards, poured concrete, minimal color, none of the ornate gold leaf you'll find at older sites like Longshan Temple. That's intentional. Xingtian Temple was built in 1967 and designed to keep the focus on worship, not spectacle.
 
 Still, the big red doors and dragon-carved pillars at the entrance are worth pausing for. Inside, the central hall centers on the altar to Guan Gong, flanked by attendants and framed by curling incense-less censers that now just hold flowers.
 
 - Watch people shake bamboo fortune sticks (chiuchi) and read the printed fortunes at side counters
-- Look for the elderly volunteers performing "shou jing" — a ritual cleansing that supposedly wards off bad luck
+- Look for the elderly volunteers performing "shou jing", a ritual cleansing that supposedly wards off bad luck
 - Notice the total absence of donation boxes pushed on visitors; this temple is famously low-pressure
 
 ## Getting there
 
-The temple sits right on Minquan East Road in Zhongshan District, and it's absurdly easy to reach. Xingtian Temple Station on the Zhonghe-Xinlu line (Orange Line) has an exit named directly after the temple — Exit 3 puts you almost at the front gate.
+The temple sits right on Minquan East Road in Zhongshan District, and it's absurdly easy to reach. Xingtian Temple Station on the Zhonghe-Xinlu line (Orange Line) has an exit named directly after the temple, Exit 3 puts you almost at the front gate.
 
 If you're coming from Taipei Main Station, it's a straightforward ride of around 15–20 minutes with one transfer. No need to book anything or plan ahead; this is a walk-up destination any day of the week.
 
 ## When to go
 
-The temple opens at 4am and closes at 9pm daily, one of the longer windows of any major temple in Taipei. That early opening isn't just for show — some devotees genuinely arrive before dawn to pray before work.
+The temple opens at 4am and closes at 9pm daily, one of the longer windows of any major temple in Taipei. That early opening isn't just for show, some devotees genuinely arrive before dawn to pray before work.
 
 Weekday mornings before 9am or the mid-afternoon lull around 2–4pm tend to be calmer. Weekends, especially Saturday and Sunday mornings, draw the heaviest crowds, along with the first and fifteenth days of the lunar month, which are considered especially auspicious for worship here.
 
@@ -87,11 +87,11 @@ Plan for 20–30 minutes if you're just observing, longer if you want to try the
 
 ## How to visit like a local
 
-Dress modestly — shoulders and knees covered is the safe rule, though this isn't strictly enforced the way it might be at other Asian temples. There's no entry fee and no ticket booth; you simply walk in.
+Dress modestly, shoulders and knees covered is the safe rule, though this isn't strictly enforced the way it might be at other Asian temples. There's no entry fee and no ticket booth; you simply walk in.
 
 - Move through the main hall in a loose clockwise flow rather than cutting across in front of the altar
 - Keep your voice down; this is an active place of worship, not a photo backdrop
 - If you want a fortune read, look for the row of professional fortune-tellers and calligraphers in the underground arcade connected to the temple, reachable via the MRT exit
-- Skip trying to light incense — remember, none is used here, so don't bring your own
+- Skip trying to light incense. Remember, none is used here, so don't bring your own
 
-The most common tourist mistake is treating this like a museum stop and rushing the main hall for photos. Locals move slower, pause, and often queue quietly for a blessing from a temple volunteer at the side altars — a ritual visitors are welcome to join if they're respectful and patient.
+The most common tourist mistake is treating this like a museum stop and rushing the main hall for photos. Locals move slower, pause, and often queue quietly for a blessing from a temple volunteer at the side altars. A ritual visitors are welcome to join if they're respectful and patient.

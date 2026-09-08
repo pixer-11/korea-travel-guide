@@ -65,42 +65,42 @@ draft: false
 ---
 ## Why go
 
-This is the working royal residence of Cambodia's king, not a museum piece. Built as the Cambodian monarchy resettled in Phnom Penh, it's one of the country's clearest showcases of Khmer palace architecture — tiered roofs, gilded spires, and walls that glow ochre-yellow in the late afternoon sun.
+This is the working royal residence of Cambodia's king, not a museum piece. Built as the Cambodian monarchy resettled in Phnom Penh, it's one of the country's clearest showcases of Khmer palace architecture, tiered roofs, gilded spires, and walls that glow ochre-yellow in the late afternoon sun.
 
 ## Getting there
 
 The palace sits on Samdach Sothearos Boulevard, right on the riverfront near the confluence of the Tonle Sap and Mekong rivers. Most visitors walk from the Sisowath Quay riverside promenade, a five-minute stroll north past food stalls and tour-boat touts.
 
-Tuk-tuks are the easiest option if you're coming from further out — drivers all know it by name. It's an easy pairing with the National Museum of Cambodia, just a few minutes' walk to the north.
+Tuk-tuks are the easiest option if you're coming from further out, drivers all know it by name. It's an easy pairing with the National Museum of Cambodia, just a few minutes' walk to the north.
 
 ## What to see
 
 The complex is really a walled city-within-a-city, and you move through it as a loop rather than a single building.
 
-- **Throne Hall** — the soaring, cross-shaped centerpiece, still used for coronations and state ceremonies
-- **Silver Pagoda** — named for its silver-tiled floor, much of it now covered by carpet to protect it, housing a jewel-encrusted Emerald Buddha
-- **Napoleon III Villa** — a cast-iron pavilion gifted by France, oddly elegant against the Khmer rooftops
-- **Royal gardens** — manicured lawns and frangipani trees between the main structures, good for catching your breath
+- **Throne Hall**, the soaring, cross-shaped centerpiece, still used for coronations and state ceremonies
+- **Silver Pagoda**, named for its silver-tiled floor, much of it now covered by carpet to protect it, housing a jewel-encrusted Emerald Buddha
+- **Napoleon III Villa**, a cast-iron pavilion gifted by France, oddly elegant against the Khmer rooftops
+- **Royal gardens**, manicured lawns and frangipani trees between the main structures, good for catching your breath
 
-Photography is fine outdoors but banned inside the Silver Pagoda and throne room — a rule enforced by watchful guards, so don't test it.
+Photography is fine outdoors but banned inside the Silver Pagoda and throne room, a rule enforced by watchful guards, so don't test it.
 
 ## When to go
 
-The palace opens daily from 8am to 5pm, with last entry generally before closing. On weekends, the quiet window is 8–9am, right after the gates open — arrive then and you'll have the courtyards nearly to yourself.
+The palace opens daily from 8am to 5pm, with last entry generally before closing. On weekends, the quiet window is 8–9am, right after the gates open. Arrive then and you'll have the courtyards nearly to yourself.
 
 By mid-morning, especially 10am to 5pm on weekends, tour groups arrive in waves and the Silver Pagoda entrance can bottleneck. Weekday mornings are calmer year-round, and the cooler dry season (November to February) makes the shadeless courtyards far more bearable.
 
 ## How to visit like a local
 
-This is one of Phnom Penh's most-visited landmarks, so the goal is timing, not secrecy — everyone from tour buses to school groups passes through here.
+This is one of Phnom Penh's most-visited landmarks, so the goal is timing, not secrecy, everyone from tour buses to school groups passes through here.
 
 - **Dress code is strictly enforced**: cover your shoulders and knees, no exceptions. If you show up in shorts or a tank top, staff will either turn you away or make you rent a wrap at the gate.
 - **Arrive at opening**, especially on a weekend, to beat the 10am tour-bus surge and get the courtyards before the heat and crowds arrive together.
-- **Pay at the ticket window near the entrance** — cash is standard, and prices/hours can shift, so confirm current entry fees before you go.
+- **Pay at the ticket window near the entrance**, cash is standard, and prices/hours can shift, so confirm current entry fees before you go.
 - **Hire a licensed guide at the gate** if you want the history explained; without one, there's minimal signage inside, and much of the ceremonial significance goes unexplained.
-- **The mistake most visitors make** is treating this like a quick photo-op and rushing through in twenty minutes — the Silver Pagoda's Emerald Buddha and the surrounding relic halls reward a slower pace.
+- **The mistake most visitors make** is treating this like a quick photo-op and rushing through in twenty minutes, the Silver Pagoda's Emerald Buddha and the surrounding relic halls reward a slower pace.
 - Keep voices down near the Throne Hall exterior; it's still an active royal site, not purely a tourist attraction, and Cambodians visiting to pay respects deserve that space.
 
 ## Nearby to pair with your visit
 
-Combine the palace with a short riverside walk. Sisowath Quay has cafes and sunset views over the Tonle Sap, and the National Museum of Cambodia — a terracotta-red building just north — holds the country's finest collection of Khmer sculpture. Wat Ounalom, one of Phnom Penh's oldest pagodas, is also within easy walking distance if you have another half hour to spare.
+Combine the palace with a short riverside walk. Sisowath Quay has cafes and sunset views over the Tonle Sap, and the National Museum of Cambodia, a terracotta-red building just north, holds the country's finest collection of Khmer sculpture. Wat Ounalom, one of Phnom Penh's oldest pagodas, is also within easy walking distance if you have another half hour to spare.

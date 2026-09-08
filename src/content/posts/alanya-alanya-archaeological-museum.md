@@ -59,13 +59,13 @@ updatedDate: '2026-08-23'
 
 ## Why go
 
-You don't come to this museum for scale — you come for concentration. Every case holds something worth stopping for: a marble Herakles statuette, chunky Roman-era gold rings, glass unguentaria still faintly iridescent after two thousand years underground.
+You don't come to this museum for scale, you come for concentration. Every case holds something worth stopping for: a marble Herakles statuette, chunky Roman-era gold rings, glass unguentaria still faintly iridescent after two thousand years underground.
 
 The collection draws from digs across the Alanya region, so you're seeing objects that never left the area they were made in. That local specificity is what makes the visit feel grounded rather than generic.
 
 ## What you'll see inside
 
-The layout is small enough to absorb in one loop, which works in the museum's favor — nothing here feels padded. Expect Roman sarcophagi with carved garlands, fragments of mosaic floor, coins, oil lamps, and a run of ethnographic displays covering Ottoman-era domestic life.
+The layout is small enough to absorb in one loop, which works in the museum's favor, nothing here feels padded. Expect Roman sarcophagi with carved garlands, fragments of mosaic floor, coins, oil lamps, and a run of ethnographic displays covering Ottoman-era domestic life.
 
 The jewelry cases tend to hold people longest. Fine gold earrings and necklace clasps, some barely bigger than a fingernail, sit under glass with lighting good enough to actually see the granulation work.
 
@@ -75,7 +75,7 @@ Labels are in Turkish and English, generally enough context to place each piece 
 
 The museum sits in the Saray neighborhood on İsmet Hilmi Balcı Caddesi, a short walk inland from Alanya's harbor and the Red Tower (Kızıl Kule). If you're staying along the harbor or Damlataş Beach, it's a flat, walkable 10–15 minutes.
 
-From farther-flung hotels along Cleopatra Beach or the eastern coast strip, a taxi or the local dolmuş minibuses running along the coastal road are the easiest options. Ask your hotel which dolmuş stop is closest — routes shift slightly season to season.
+From farther-flung hotels along Cleopatra Beach or the eastern coast strip, a taxi or the local dolmuş minibuses running along the coastal road are the easiest options. Ask your hotel which dolmuş stop is closest, routes shift slightly season to season.
 
 ## When to go
 
@@ -88,10 +88,10 @@ Evenings after 6pm tend to be calmer, since most tour groups build the museum in
 This is a well-known stop on Alanya's sightseeing circuit, not an undiscovered pick, so a little timing goes a long way toward a better visit.
 
 - **Go late afternoon or evening.** With hours extending to 10pm, you can dodge the mid-morning tour-bus wave that hits right after the castle opens.
-- **Pay by card or cash** — both are standard at Turkish museum ticket counters, but carrying some small cash covers any card-reader hiccups.
+- **Pay by card or cash**. Both are standard at Turkish museum ticket counters, but carrying some small cash covers any card-reader hiccups.
 - **Skip the guided-tour scrum.** Independent visitors move at their own pace through the small rooms; large groups can bottleneck the jewelry cases.
-- **Combine it with the harbor.** Locals treat this as one stop on a walking loop that includes the Red Tower and the old harbor, rather than a standalone destination — plan your visit the same way and you'll use your time better.
-- **Mind the tourist mistake:** rushing through in fifteen minutes. The museum rewards a slower pace — spend real time at the jewelry and sarcophagus rooms rather than speed-walking to the exit.
+- **Combine it with the harbor.** Locals treat this as one stop on a walking loop that includes the Red Tower and the old harbor, rather than a standalone destination. Plan your visit the same way and you'll use your time better.
+- **Mind the tourist mistake:** rushing through in fifteen minutes. The museum rewards a slower pace, spend real time at the jewelry and sarcophagus rooms rather than speed-walking to the exit.
 
 Tickets are typically bought on-site; if Turkey's Museum Pass is something you're already carrying for other regional sites, check whether it covers entry here before you go, since coverage and pricing can change year to year.
 

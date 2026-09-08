@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-the-happy-crane
-srcHash: '1fdfe40a059c'
+srcHash: '785a0a4e3958'
 title: 喜鹤楼（The Happy Crane）：旧金山旅行指南
 description: 美国旧金山喜鹤楼（The Happy Crane）——一家正当红的新晋餐厅：它是什么、位置在哪、又该如何前往一探究竟。
 quickAnswer: 喜鹤楼（The Happy Crane）是一家位于旧金山海斯谷（Hayes Valley）的现代中餐厅，由主厨黄兆亮（James Yeun Leong Parry，曾任职Bo Innovation、Benu）掌勺，选址就在该社区主要餐饮街区的原Monsieur Benjamin旧址。眼下它是全城最难订到位的餐厅之一——Eater将其评为最佳新餐厅，Condé Nast也将其收入2026年度热门榜单（Hot List），因此务必尽早在线预订（系统开放多久前的名额就提前订多久），并在出发前确认最新营业时间。

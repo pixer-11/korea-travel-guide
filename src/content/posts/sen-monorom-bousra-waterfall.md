@@ -73,7 +73,7 @@ draft: false
 
 Mondulkiri's red-dirt roads eventually spit you out at a wall of noise before you see anything. That's Bousra's upper tier, a broad curtain of water dropping onto black basalt rock, the kind of volcanic stone that gives this whole plateau its rust-colored soil.
 
-The falls run in three tiers, though most visitors only see the first two. The upper tier is the postcard shot — wide, thunderous, framed by jungle. A path leads down to a second, taller drop where a viewing platform lets you feel the spray on your face.
+The falls run in three tiers, though most visitors only see the first two. The upper tier is the postcard shot, wide, thunderous, framed by jungle. A path leads down to a second, taller drop where a viewing platform lets you feel the spray on your face.
 
 Bousra sits inside Mondulkiri's protected forest, in Pech Chreada district. It's one of the province's best-known sights, so you'll share it with tour vans, especially later in the day.
 
@@ -83,13 +83,13 @@ The waterfall is roughly 40 kilometers northeast of Sen Monorom town, about an h
 
 Tuk-tuks and private cars are easy to arrange through any Sen Monorom guesthouse. Many pair the trip with a stop at a nearby Bunong minority village or a coffee plantation en route, since Mondulkiri's coffee farms line much of this route.
 
-There's no public transport out here — you need your own wheels or a hired driver. Confirm a return time with your driver before you set off, since phone signal thins out near the falls.
+There's no public transport out here, you need your own wheels or a hired driver. Confirm a return time with your driver before you set off, since phone signal thins out near the falls.
 
 ## What to see and do once you're there
 
 Wooden staircases and viewing platforms wind along both tiers, giving you angles impossible to get from the road. The lower pool is where most people swim, though currents near the base can run stronger than they look.
 
-Vendors near the entrance sell grilled corn, fruit, and drinks — useful since there's little else close by. A short walk connects the two main platforms, easy enough in flip-flops on dry days but better in proper shoes when it's wet.
+Vendors near the entrance sell grilled corn, fruit, and drinks, useful since there's little else close by. A short walk connects the two main platforms, easy enough in flip-flops on dry days but better in proper shoes when it's wet.
 
 - Upper platform: wide-angle view of the main curtain
 - Lower platform: closer to the pool, mistier, louder
@@ -108,11 +108,11 @@ Wet season, roughly June through October, brings the most dramatic water volume 
 
 ## How to visit like a local
 
-Bousra is well-known and well-visited, so beating the crowd matters more than finding a secret entrance — there isn't one. Show up at opening, 7am, and you'll likely have the upper platform close to yourself for a stretch.
+Bousra is well-known and well-visited, so beating the crowd matters more than finding a secret entrance. There isn't one. Show up at opening, 7am, and you'll likely have the upper platform close to yourself for a stretch.
 
 Pay in Cambodian riel or US dollars in cash; there's no card payment at the entrance gate or the food vendors. Small bills help, since change can be limited at the stalls.
 
-Wear sandals or water shoes you don't mind getting wet, and carry a dry bag for your phone if you're heading down to the lower pool. Sun protection matters too — the walk between platforms has little shade.
+Wear sandals or water shoes you don't mind getting wet, and carry a dry bag for your phone if you're heading down to the lower pool. Sun protection matters too. The walk between platforms has little shade.
 
 The common mistake is treating this as a quick photo stop. Rushing in around midday, snapping a picture, and leaving means fighting tour-bus crowds and missing the calmer, cooler morning light that makes the basalt and spray genuinely worth the drive.
 

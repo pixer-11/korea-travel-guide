@@ -73,7 +73,7 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-Madinat Jumeirah is Dubai playing dress-up as an old Arabian trading town, and it's convincing. Wind towers, sandstone facades, and a network of manmade waterways link three hotels — Mina A'Salam, Al Qasr, and the Dar Al Masyaf villas — with restaurants, bars, and a covered souk.
+Madinat Jumeirah is Dubai playing dress-up as an old Arabian trading town, and it's convincing. Wind towers, sandstone facades, and a network of manmade waterways link three hotels (Mina A'Salam, Al Qasr, and the Dar Al Masyaf villas) with restaurants, bars, and a covered souk.
 
 Cross a footbridge and Burj Al Arab appears framed between two towers, close enough to feel like it belongs to you for the afternoon. This isn't a quiet corner of Dubai. It's one of the city's most photographed spots, and it draws crowds accordingly.
 
@@ -85,7 +85,7 @@ If you're staying elsewhere in Dubai, budget 20-30 minutes from Downtown in norm
 
 ## What to see and do
 
-The souk is the heart of the place — a covered maze of shops selling perfumes, textiles, and souvenirs, with wooden beams overhead and lanterns casting warm light even at midday. It's air-conditioned, which matters more than it sounds like it should in Dubai's heat.
+The souk is the heart of the place, a covered maze of shops selling perfumes, textiles, and souvenirs, with wooden beams overhead and lanterns casting warm light even at midday. It's air-conditioned, which matters more than it sounds like it should in Dubai's heat.
 
 Outside, abras (traditional wooden boats) ferry guests along the 3km of waterways connecting the hotels. A ride costs little and gives you the best sightlines to Burj Al Arab.
 
@@ -102,16 +102,16 @@ Late afternoon into early evening is the sweet spot. The heat has broken, the li
 
 Because this is one of Dubai's most popular resort complexes, weekends and evenings draw heavy foot traffic, especially near the main souk entrances and photo spots by the water. Weekday mornings are noticeably calmer if you want the alleys to yourself.
 
-Since this is a working resort, always confirm current opening hours for the souk, restaurants, and any beach access before you go — they can shift seasonally.
+Since this is a working resort, always confirm current opening hours for the souk, restaurants, and any beach access before you go. They can shift seasonally.
 
 ## How to visit like a local
 
 Frequent visitors treat Madinat Jumeirah as a place to linger, not rush. Arrive with no fixed plan beyond walking the waterways and letting the souk's turns surprise you.
 
-- Skip the midday heat — the covered souk is comfortable, but outdoor terraces are brutal at noon
+- Skip the midday heat. The covered souk is comfortable, but outdoor terraces are brutal at noon
 - Pay by card almost everywhere; cash is rarely needed, though useful for small souk purchases
-- Book restaurant tables in advance for sunset seating facing the water — walk-ins often mean a less desirable view
-- The abra ride is often free or low-cost for hotel guests and diners at certain restaurants — ask before assuming you need a paid ticket
-- The biggest tourist mistake is treating the souk like a genuine antique market and haggling hard — prices are mostly fixed, and it's a modern retail space styled as historic
+- Book restaurant tables in advance for sunset seating facing the water. Walk-ins often mean a less desirable view
+- The abra ride is often free or low-cost for hotel guests and diners at certain restaurants. Ask before assuming you need a paid ticket
+- The biggest tourist mistake is treating the souk like a genuine antique market and haggling hard. Prices are mostly fixed, and it's a modern retail space styled as historic
 
 If you want the classic photo of Burj Al Arab over the water with fewer people crowding the railing, get there right as the light starts to soften, before the dinner rush fills the canal-front restaurants.

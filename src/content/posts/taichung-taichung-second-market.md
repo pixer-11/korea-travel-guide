@@ -73,13 +73,13 @@ draft: false
 
 ## Why go
 
-Second Market isn't a polished night-market spectacle — it's where Taichung actually eats breakfast and lunch. Built during the Japanese colonial era, the market still runs through the same octagonal covered hall, with narrow lanes radiating out from a central hub lined with butchers, produce sellers and dry-goods stalls.
+Second Market isn't a polished night-market spectacle. It's where Taichung actually eats breakfast and lunch. Built during the Japanese colonial era, the market still runs through the same octagonal covered hall, with narrow lanes radiating out from a central hub lined with butchers, produce sellers and dry-goods stalls.
 
 You come here for the food stalls tucked among the produce sellers, not for photo backdrops. It's well-visited and well-reviewed for a reason: this is dense, working-market energy, not a curated tourist stop.
 
 ## What to eat
 
-The market's signature dish is meatball soup — gawan (肉丸), a translucent rice-flour dumbling stuffed with pork, served in a light broth or fried and doused in sweet-savory sauce. Several stalls compete for the "original" title, and locals argue about which is best.
+The market's signature dish is meatball soup, gawan (肉丸), a translucent rice-flour dumbling stuffed with pork, served in a light broth or fried and doused in sweet-savory sauce. Several stalls compete for the "original" title, and locals argue about which is best.
 
 Beyond gawan, look for:
 - Braised pork rice (滷肉飯) from tiny counter stalls
@@ -87,13 +87,13 @@ Beyond gawan, look for:
 - Fresh-squeezed juice stands and shaved ice in warmer months
 - Dry goods like dried mushrooms, sausage, and preserved vegetables for taking home
 
-Most stalls specialize in one or two items, perfected over decades. Order at the counter, grab a stool, and eat where you stand — nobody lingers over multi-course meals here.
+Most stalls specialize in one or two items, perfected over decades. Order at the counter, grab a stool, and eat where you stand, nobody lingers over multi-course meals here.
 
 ## Getting there
 
 Second Market sits on Sanmin Road Section 2 in Central District, an easy walk or short taxi ride from central Taichung. There's no MRT in Taichung yet, so most visitors arrive by bus, taxi, or on foot from nearby hotels.
 
-If you're coming from Taichung Station, it's roughly a 15–20 minute walk or a quick bus hop — ask your hotel for the closest stop, since routes shift. Scooter and bicycle parking is available nearby if you're renting.
+If you're coming from Taichung Station, it's roughly a 15–20 minute walk or a quick bus hop. Ask your hotel for the closest stop, since routes shift. Scooter and bicycle parking is available nearby if you're renting.
 
 ## When to go
 
@@ -101,7 +101,7 @@ The market runs Tuesday through Sunday, 7:30am to 3:30pm. It's closed Monday, wh
 
 Weekends between 9am and 3pm are the busiest stretch, with local shoppers and tourists both crowding the same narrow aisles. If you want breathing room, aim for a weekday morning shortly after opening, when stalls are freshly stocked and the crowd is thinner.
 
-Late morning on any day tends to be the sweet spot for food — enough stalls are open, but the lunch rush hasn't hit yet.
+Late morning on any day tends to be the sweet spot for food, enough stalls are open, but the lunch rush hasn't hit yet.
 
 ## How to visit like a local
 
@@ -110,10 +110,10 @@ Come with a plan, not a checklist. The market is a warren of narrow lanes, and h
 - **Pay in cash.** Small bills and coins move fastest at these stalls; some accept mobile payment but don't count on it.
 - **Skip the tip.** Tipping isn't customary at food stalls in Taiwan.
 - **Go early on a weekday.** Right after the 7:30am opening is calmest; avoid weekend late mornings when the aisles fill up.
-- **Order by pointing if needed.** Many vendors don't speak English, but menus are often photographed on the wall — pointing works fine.
+- **Order by pointing if needed.** Many vendors don't speak English, but menus are often photographed on the wall, pointing works fine.
 - **Don't expect much seating.** A few stools cluster near busy stalls; standing and eating quickly is normal here.
 
-The most common tourist mistake is treating this like a night market with hours of browsing time. Second Market runs on a working rhythm — vendors are often sold out of popular items by early afternoon, especially on weekends. Get there, eat well, buy your dry goods, and move on, the way regulars do.
+The most common tourist mistake is treating this like a night market with hours of browsing time. Second Market runs on a working rhythm, vendors are often sold out of popular items by early afternoon, especially on weekends. Get there, eat well, buy your dry goods, and move on, the way regulars do.
 
 ## Nearby to pair with your visit
 

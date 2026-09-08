@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-merdeka-grill-park-hyatt-kuala-lumpur
-srcHash: 'c52796aa38b9'
+srcHash: 'ce9ecdae1ec3'
 title: 'Merdeka Grill (Park Hyatt Kuala Lumpur): guía de viaje'
 description: 'Merdeka Grill (Park Hyatt Kuala Lumpur) en Kuala Lumpur, Malasia: un local nuevo y de moda. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Merdeka Grill es el nuevo restaurante de estilo steakhouse del Park Hyatt Kuala Lumpur, situado en los pisos superiores del Merdeka 118, actualmente el edificio más alto del Sudeste Asiático. Conviene ir a cenar para ver el perfil de la ciudad iluminado tras el anochecer, y reservar con antelación, ya que se trata de una dirección recién inaugurada y muy solicitada. Antes de ir, confirma directamente con el Park Hyatt Kuala Lumpur los horarios actuales, el código de vestimenta y la política de reservas.

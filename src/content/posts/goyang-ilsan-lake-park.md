@@ -83,7 +83,7 @@ Families come for the playgrounds and paddle boats, photographers come for the w
 
 ## Getting there
 
-The park sits in Ilsandong-gu at 595 Hosu-ro. The easiest approach is Jeongbalsan Station on Seoul Subway Line 3 — walk out toward the lake and you'll hit the park's northeastern edge within about ten minutes. Baengma Station, also on Line 3, drops you closer to the southern entrances near the rose garden. If you're coming from central Seoul, figure on 45 minutes to an hour door to door.
+The park sits in Ilsandong-gu at 595 Hosu-ro. The easiest approach is Jeongbalsan Station on Seoul Subway Line 3. Walk out toward the lake and you'll hit the park's northeastern edge within about ten minutes. Baengma Station, also on Line 3, drops you closer to the southern entrances near the rose garden. If you're coming from central Seoul, figure on 45 minutes to an hour door to door.
 
 Once inside, the park is flat and easy to navigate on foot or rented bike; a full lap of the perimeter path takes most walkers around two hours, though you can easily cut across on the internal bridges if you just want a shorter loop.
 
@@ -91,7 +91,7 @@ Once inside, the park is flat and easy to navigate on foot or rented bike; a ful
 
 Start at the lakefront promenade near Jeongbalsan-side and walk clockwise past the sculpture garden, where large-scale modern works sit right on the grass with no barriers. The reed marsh boardwalk on the western side is the quietest stretch, all rustling stems and waterbirds, and a sharp contrast to the open lawns near the music fountain, which becomes the park's social hub on summer evenings when the jets sync to lights and recorded music.
 
-The small zoo near the eastern gate is modest by international standards but popular with families for its otters and small mammal enclosures. If your visit lines up with the Ilsan spring flower show or the autumn chrysanthemum festival, expect elaborate temporary flowerbed displays and noticeably heavier foot traffic — worth seeing once, but arrive early.
+The small zoo near the eastern gate is modest by international standards but popular with families for its otters and small mammal enclosures. If your visit lines up with the Ilsan spring flower show or the autumn chrysanthemum festival, expect elaborate temporary flowerbed displays and noticeably heavier foot traffic, worth seeing once, but arrive early.
 
 ## When to go
 
@@ -101,6 +101,6 @@ Winter is starkly quiet, with the lake sometimes partially frozen, which has its
 
 ## How to visit like a local
 
-This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening on a weekday if you want the paths mostly to joggers and older residents doing their morning laps — by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates.
+This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening on a weekday if you want the paths mostly to joggers and older residents doing their morning laps, by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates.
 
 If you rent a bike or paddle boat, small vendors near the entrances typically take cash and card. The etiquette that trips up visitors most: the perimeter path has an unspoken lane logic, with faster cyclists and runners on the outer edge, so keep to the inner side if you're strolling or taking photos. Pair the visit with a walk into the Lafesta or Western Dom shopping streets just east of the park, both an easy extension if you want food or coffee after your loop.

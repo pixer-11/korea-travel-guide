@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jordan-yaumatei-tin-hau-temple
-srcHash: '27e630e12715'
+srcHash: '710c5ee601d3'
 title: '유마테이 톈허우 사원(Yaumatei Tin Hau Temple): 조던(Jordan) 여행 가이드 (4.2★)'
 description: 유마테이 톈허우 사원(Yaumatei Tin Hau Temple)은 조던(Jordan) 템플 스트리트(Temple Street) 바로 옆, 한 단 높은 광장 위에 자리한 다섯 개의 사당이 이어진 사원 단지로, 주로 바다의 여신 톈허우(天后)를 모십니다. 4.2★ (1,780개 리뷰) — 방문객들의 후기, 운영시간, 그리고 팁을 확인하세요.
 quickAnswer: 유마테이 톈허우 사원(Yaumatei Tin Hau Temple)은 조던(Jordan) 템플 스트리트(Temple Street) 바로 옆, 한 단 높은 광장 위에 자리한 다섯 개의 사당이 이어진 사원 단지로, 주로 바다의 여신 톈허우(天后)를 모십니다. 매일 오전 8시~오후 5시(일요일은 오전 9시부터) 개방하며 입장료는 무료이고, 템플 스트리트 야시장으로 가는 길에 20~30분 정도 들를 만합니다. 조용히 향이 타오르는 사당과 사진을 찍기 좋은 빛을 만나려면 아침에 방문하세요.

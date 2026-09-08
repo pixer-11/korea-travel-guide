@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-old-ebbitt-grill
-srcHash: 'dca6c3c9c826'
+srcHash: '9dc0c4f7eb0e'
 title: 'Old Ebbitt Grill: dónde comer en Washington D. C. (4.6★)'
 description: Old Ebbitt Grill, una taberna victoriana iluminada con lámparas de gas ubicada en 675 15th St NW, se encuentra a una cuadra de la Casa Blanca y abre todos los días desde las 8am (9am los fines de semana) hasta las 2am, lo que la convierte en uno de los pocos lugares del centro para un buen desayuno tardío, un almuerzo sentado o una hora de ostras después del trabajo. 4.6★ (20,386 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Old Ebbitt Grill, una taberna victoriana iluminada con lámparas de gas ubicada en 675 15th St NW, se encuentra a una cuadra de la Casa Blanca y abre todos los días desde las 8am (9am los fines de semana) hasta las 2am, lo que la convierte en uno de los pocos lugares del centro para un buen desayuno tardío, un almuerzo sentado o una hora de ostras después del trabajo. Es muy popular, así que conviene ir en la ventana entre el ajetreo del desayuno y el mediodía, o después de las 9:30pm, para evitar la espera. Cuenta con precios de rango medio, una barra de mariscos crudos que vale la pena priorizar, y un ambiente que mezcla trajes, turistas y clientes habituales en la larga barra de caoba.

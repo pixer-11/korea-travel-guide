@@ -104,23 +104,23 @@ updatedDate: '2026-09-01'
 
 You spot Telmessos before you reach it. Climb any of the narrow streets above Fethiye's harbor and your eye catches rectangular black openings punched into the pale limestone, columns and pediments carved straight into the rock like a temple front glued to a cliff.
 
-These are Lycian rock tombs, some dating back to the 4th century BC, built for a city whose name — Telmessos — the Greeks and Lycians used long before "Fethiye" existed. The most famous, the Amyntas Tomb, has an Ionic-style facade with fluted columns, like a mini temple hanging in mid-air.
+These are Lycian rock tombs, some dating back to the 4th century BC, built for a city whose name, Telmessos, the Greeks and Lycians used long before "Fethiye" existed. The most famous, the Amyntas Tomb, has an Ionic-style facade with fluted columns, like a mini temple hanging in mid-air.
 
-There's no ticket booth crowd, no long queue, and the setting alone — cliff, town, sea sprawled out below — makes the short climb worth it.
+There's no ticket booth crowd, no long queue, and the setting alone (cliff, town, sea sprawled out below) makes the short climb worth it.
 
 ## Getting there
 
 Telmessos sits in the Kesikkapı neighborhood, a five-to-ten-minute uphill walk from Fethiye's harbor and old town bazaar. Head inland past the amphitheater and follow the signed path up 123. Sokak; the tombs are unmissable once you're on the right street.
 
-There's no need for a taxi or dolmuş unless you're staying outside the center — most hotels in Fethiye proper are within a 15-minute walk. Wear shoes with grip: the final stretch is a rock-cut staircase, occasionally slick after rain.
+There's no need for a taxi or dolmuş unless you're staying outside the center. Most hotels in Fethiye proper are within a 15-minute walk. Wear shoes with grip: the final stretch is a rock-cut staircase, occasionally slick after rain.
 
 ## What you'll see
 
 The site is really a scattered cluster of tombs, not one enclosed monument, so give yourself time to wander between them.
 
-- **Amyntas Tomb** — the star attraction, a temple-facade tomb with an inscription naming Amyntas, son of Hermagios
-- **Smaller pigeonhole and sarcophagus-style tombs** — cut into the rock nearby, less photographed but worth a look
-- **Views over Fethiye harbor and the bay** — especially sharp in the low light of early morning or just before sunset
+- **Amyntas Tomb**, the star attraction, a temple-facade tomb with an inscription naming Amyntas, son of Hermagios
+- **Smaller pigeonhole and sarcophagus-style tombs**, cut into the rock nearby, less photographed but worth a look
+- **Views over Fethiye harbor and the bay**, especially sharp in the low light of early morning or just before sunset
 
 Bring water; there's little shade once you're up on the open rock terrace, and the stone reflects heat back at you by midday.
 
@@ -128,18 +128,18 @@ Bring water; there's little shade once you're up on the open rock terrace, and t
 
 The site opens at 9am and stays open until 7:30pm every day of the week, so you have a wide window to work with. Crowd patterns here are genuinely useful to know before you climb.
 
-On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm — after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably.
+On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm, after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably.
 
 Late afternoon works too if you don't mind sharing the staircase, and the softer light flatters the carved facades for photos.
 
 ## How to visit like a local
 
-Telmessos isn't a fenced-off, ticketed ruin with a formal entrance process — it's woven into the hillside above the town, and locals treat it as a quiet backdrop rather than a checklist stop. That's part of what makes an early visit feel unhurried rather than staged.
+Telmessos isn't a fenced-off, ticketed ruin with a formal entrance process. It's woven into the hillside above the town, and locals treat it as a quiet backdrop rather than a checklist stop. That's part of what makes an early visit feel unhurried rather than staged.
 
-- **Timing**: go right at 9am on a weekday if you can — you'll likely have the Amyntas Tomb to yourself for photos
+- **Timing**: go right at 9am on a weekday if you can. You'll likely have the Amyntas Tomb to yourself for photos
 - **Combine it**: pair the visit with the Fethiye Amphitheatre and the harbor bazaar, both a short walk away, so the climb feels like part of a longer stroll rather than a single stop
-- **Etiquette**: these are ancient burial sites cut into a residential hillside — keep voices down near the tombs closest to houses, and don't climb onto the carved facades themselves
-- **Payment**: small entrance fees at Lycian sites in Turkey are typically cash-friendly, though card readers are increasingly common — carry some Turkish lira as backup
+- **Etiquette**: these are ancient burial sites cut into a residential hillside. Keep voices down near the tombs closest to houses, and don't climb onto the carved facades themselves
+- **Payment**: small entrance fees at Lycian sites in Turkey are typically cash-friendly, though card readers are increasingly common, carry some Turkish lira as backup
 - **Mistake to avoid**: don't treat it as a five-minute photo stop and rush back down. The real reward is wandering the side paths between tombs, where you'll find smaller, unlabeled rock-cuts that most visitors walk straight past
 
 Since Telmessos still flies under the radar compared to Fethiye's bigger sites, an unhurried morning visit here feels more like discovery than sightseeing.

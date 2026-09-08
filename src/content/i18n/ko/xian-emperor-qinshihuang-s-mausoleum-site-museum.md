@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: xian-emperor-qinshihuang-s-mausoleum-site-museum
-srcHash: '3d974ee4201b'
+srcHash: '93854a5c349c'
 title: '진시황릉 병마용 박물관: 시안(Xian) 여행 가이드'
 description: 진시황릉 병마용 박물관(Emperor Qinshihuang's Mausoleum Site Museum) — 흔히 병마용(Terracotta Army)으로 더 잘 알려진 이곳은 시안 시내에서 동쪽으로 약 1.5시간(40km) 거리의 린퉁구(Lintong District)에 위치해 있습니다.
 quickAnswer: '진시황릉 병마용 박물관(Emperor Qinshihuang''s Mausoleum Site Museum) — 흔히 병마용(Terracotta Army)으로 더 잘 알려진 이곳은 시안 시내에서 동쪽으로 약 1.5시간(40km) 거리의 린퉁구(Lintong District)에 위치해 있습니다. 반나절 일정으로 계획하세요: 세 개의 발굴갱과 청동마차 전시관을 둘러보는 데 2.5~3.5시간이 걸립니다. 평일 이른 시간에 방문하고, 입구에서 공식 가이드나 오디오 가이드를 대여하며, 대열을 이룬 병마용의 압도적인 모습을 온전히 느끼려면 1호갱은 마지막에 보세요.'

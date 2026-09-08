@@ -75,7 +75,7 @@ Sümela sits inside Altındere Valley National Park, about 45km south of Trabzon
 
 Once inside the park gate, you don't drive straight to the monastery. A shuttle bus (or a steep 30–40 minute forest path, if you'd rather walk) carries you up to the entrance point, from which it's still a climbing path to the ticket gate itself.
 
-- Wear real shoes — the path is steep, uneven stone and packed earth
+- Wear real shoes. The path is steep, uneven stone and packed earth
 - The shuttle runs frequently in season but queues in midday
 - Cash is useful for the shuttle and any roadside stalls
 
@@ -83,7 +83,7 @@ Once inside the park gate, you don't drive straight to the monastery. A shuttle 
 
 The visit is essentially vertical. Staircases and terraces link the rock church, kitchens, student cells, a guesthouse, and a small library built directly against and into the cliff face.
 
-The rock church is the centerpiece — its interior and exterior walls are covered in frescoes depicting biblical scenes, layered over centuries and damaged in places by graffiti and weather. Look up as much as you look ahead: the overhanging cliff itself is part of the architecture, sheltering the whole complex like a natural roof.
+The rock church is the centerpiece, its interior and exterior walls are covered in frescoes depicting biblical scenes, layered over centuries and damaged in places by graffiti and weather. Look up as much as you look ahead: the overhanging cliff itself is part of the architecture, sheltering the whole complex like a natural roof.
 
 Plan on 1.5 to 2 hours once you're through the gate, more if you like to linger over the frescoes or catch your breath on the terraces.
 
@@ -91,7 +91,7 @@ Plan on 1.5 to 2 hours once you're through the gate, more if you like to linger 
 
 The monastery keeps the same hours all week, 8am to 6:30pm. Weekdays stay relatively calm throughout the day, making any weekday visiting hour a reasonably good bet.
 
-Weekends are a different story. If you're coming on a Saturday or Sunday, arrive between 8am and 9am — that's the quiet window before tour groups take over. Crowds build steadily and peak between 10am and 5pm, with packed shuttles and slow-moving lines on the stairways inside.
+Weekends are a different story. If you're coming on a Saturday or Sunday, arrive between 8am and 9am. That's the quiet window before tour groups take over. Crowds build steadily and peak between 10am and 5pm, with packed shuttles and slow-moving lines on the stairways inside.
 
 Spring through autumn is the practical season; heavy snow can close the upper valley in winter, so confirm conditions before making the trip if you're visiting outside summer.
 
@@ -101,12 +101,12 @@ This is one of Turkey's most-visited historic sites, not a quiet discovery, so p
 
 - Arrive at or just after 8am opening, especially on weekends
 - Buy your park and monastery tickets before queuing for the shuttle to save time
-- Carry water — there's little shade on the climb up
+- Carry water. There's little shade on the climb up
 - Keep voices low and dress modestly inside the church spaces; it's still treated as a place of religious history, not just a photo backdrop
-- Don't rush the shuttle queue back down — it moves slower than the one going up in peak afternoon hours
+- Don't rush the shuttle queue back down, it moves slower than the one going up in peak afternoon hours
 
-The single biggest mistake visitors make is treating this as a quick roadside stop. Between the shuttle, the climb, and the site itself, it easily eats a half-day from Trabzon — build that into your schedule rather than squeezing it between other stops.
+The single biggest mistake visitors make is treating this as a quick roadside stop. Between the shuttle, the climb, and the site itself, it easily eats a half-day from Trabzon, build that into your schedule rather than squeezing it between other stops.
 
 ## Nearby to combine with your visit
 
-Altındere Valley National Park itself is worth the extra hour — a river runs through pine and beech forest with marked walking trails near the park entrance. Trabzon city, with its Hagia Sophia museum and Atatürk Köşkü villa, makes an easy pairing if you're doing Sümela as a day trip rather than staying overnight in Maçka.
+Altındere Valley National Park itself is worth the extra hour. A river runs through pine and beech forest with marked walking trails near the park entrance. Trabzon city, with its Hagia Sophia museum and Atatürk Köşkü villa, makes an easy pairing if you're doing Sümela as a day trip rather than staying overnight in Maçka.

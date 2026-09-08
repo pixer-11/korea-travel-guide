@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-the-national-wwii-museum
-srcHash: 'febdd15f1ada'
+srcHash: '76f14fa755de'
 title: '내셔널 WWII 뮤지엄: 뉴올리언스 여행 가이드 (4.8★)'
 description: 내셔널 WWII 뮤지엄(The National WWII Museum)은 뉴올리언스 웨어하우스 디스트릭트(Warehouse District) 945 Magazine St에 위치하며, 매일 오전 9시부터 오후 5시까지 운영됩니다. 4.8★ (리뷰 30,266개) — 방문객들의 후기, 운영 시간, 방문 팁을 확인하세요.
 quickAnswer: 내셔널 WWII 뮤지엄은 뉴올리언스 웨어하우스 디스트릭트 945 Magazine St에 위치하며, 매일 오전 9시부터 오후 5시까지 운영됩니다. 모든 전시관을 제대로 둘러보려면 반나절(4~5시간) 정도는 넉넉히 잡아야 하며, 주말 낮 시간대의 혼잡(가장 붐비는 시간은 낮 12시~오후 3시)을 피하려면 개장 직후인 오전 9시나 오후 3시 이후에 방문하는 것이 좋습니다. 이곳은 방문객이 매우 많은 인기 박물관이므로, 가기 전에 온라인으로 시간대별 입장권을 예약해 두세요.

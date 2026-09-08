@@ -86,13 +86,13 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-Kenting was Taiwan's first national park, and it still feels like the island's outdoor decompression chamber. Sun-bleached coral cliffs drop into turquoise water on one side; a limestone plateau of grassland and wind-bent forest rises on the other. You come here for the contrast — beach town energy in Kenting village, near-silence twenty minutes up the road.
+Kenting was Taiwan's first national park, and it still feels like the island's outdoor decompression chamber. Sun-bleached coral cliffs drop into turquoise water on one side; a limestone plateau of grassland and wind-bent forest rises on the other. You come here for the contrast, beach town energy in Kenting village, near-silence twenty minutes up the road.
 
 ## Getting there
 
 Most visitors reach Kenting via Kaohsiung, about two hours south by car or bus. The Kenting Express bus runs directly from Kaohsiung's High Speed Rail station and airport into Kenting village.
 
-Once there, a rental scooter is the practical way to move between sites — the park's attractions are scattered along a coastal loop that public transit only partly covers.
+Once there, a rental scooter is the practical way to move between sites. The park's attractions are scattered along a coastal loop that public transit only partly covers.
 
 - Kaohsiung HSR/airport → Kenting: about 2 hours by direct bus
 - Local buses (Kenting Street Car) link major beaches but run infrequently
@@ -100,25 +100,25 @@ Once there, a rental scooter is the practical way to move between sites — the 
 
 ## What to see
 
-Don't try to do it all in one loop — pick three or four sites and give each real time.
+Don't try to do it all in one loop, pick three or four sites and give each real time.
 
 - **Eluanbi Park**: Taiwan's southernmost point, marked by a white lighthouse standing over a jagged coral-rock garden. Waves crash directly below the viewing paths.
-- **Longpan Park**: A grassy cliff-top plateau where paragliders launch on windy afternoons — come for sunset over the Bashi Channel.
+- **Longpan Park**: A grassy cliff-top plateau where paragliders launch on windy afternoons, come for sunset over the Bashi Channel.
 - **Sheding Nature Park**: A short forest loop trail through limestone karst, good for spotting Formosan macaques in the early morning.
 - **Chuanfan Rock (Sail Rock)**: A coral outcrop shaped like a junk sail, one of the park's most photographed formations.
-- **Kenting National Forest Recreation Area**: Denser jungle trails, banyan roots, and limestone caves — noticeably cooler than the coast.
+- **Kenting National Forest Recreation Area**: Denser jungle trails, banyan roots, and limestone caves, noticeably cooler than the coast.
 
 Each of these sits inside the broader national park boundary but is a separate stop with its own parking, so factor in ride time between them.
 
 ## Beaches and the water
 
-South Bay (Nanwan) is the swimming beach — calm, shallow, and lined with rental umbrellas and jet-ski operators. White Sand Bay, north of the village, has finer sand and calmer water, and was used as a filming location for *Life of Pi*.
+South Bay (Nanwan) is the swimming beach, calm, shallow, and lined with rental umbrellas and jet-ski operators. White Sand Bay, north of the village, has finer sand and calmer water, and was used as a filming location for *Life of Pi*.
 
-Neither beach is empty on a sunny weekend. If you want actual quiet water, go early — by late morning both fill with day-trippers bused in from Kaohsiung.
+Neither beach is empty on a sunny weekend. If you want actual quiet water, go early, by late morning both fill with day-trippers bused in from Kaohsiung.
 
 ## When to go
 
-The park's visitor facilities run 9am to 5pm Tuesday through Sunday, closed Mondays — check this before planning an early-morning or Monday visit to any staffed site or exhibit hall.
+The park's visitor facilities run 9am to 5pm Tuesday through Sunday, closed Mondays. Check this before planning an early-morning or Monday visit to any staffed site or exhibit hall.
 
 Weather-wise, spring and autumn bring the most comfortable hiking temperatures; summer is hot and humid but is also peak beach season, with typhoon risk from July through September. Winter brings strong "Kenting wind" across the grasslands, which paragliders actually prefer.
 
@@ -126,10 +126,10 @@ Because this is one of Taiwan's most-visited natural attractions, expect real cr
 
 ## How to visit like a local
 
-Arrive at Eluanbi or Sheding right after the 9am opening — tour groups tend to hit the coast road by 10:30am and don't thin out until late afternoon. Weekends and Taiwanese national holidays are noticeably worse than weekdays; if your trip is flexible, shift it to a Tuesday or Wednesday.
+Arrive at Eluanbi or Sheding right after the 9am opening, tour groups tend to hit the coast road by 10:30am and don't thin out until late afternoon. Weekends and Taiwanese national holidays are noticeably worse than weekdays; if your trip is flexible, shift it to a Tuesday or Wednesday.
 
-Pay for parking and entry fees at individual sites in cash — small NT bills are easiest, since some lots and food stalls don't take cards. There's no single "national park ticket"; each attraction area (Eluanbi, Longpan, the Forest Recreation Area) charges its own small entry fee separately.
+Pay for parking and entry fees at individual sites in cash, small NT bills are easiest, since some lots and food stalls don't take cards. There's no single "national park ticket"; each attraction area (Eluanbi, Longpan, the Forest Recreation Area) charges its own small entry fee separately.
 
-A common visitor mistake is treating Kenting as a single site reachable on foot from the village — it's not. The park stretches many kilometers along the coast, and without a scooter or car you'll see only a fraction of it.
+A common visitor mistake is treating Kenting as a single site reachable on foot from the village. It's not. The park stretches many kilometers along the coast, and without a scooter or car you'll see only a fraction of it.
 
 Bring water and sun protection; the coral-rock trails have almost no shade, and the midday sun here is intense even in cooler months. If you're renting a scooter, an international driving permit is technically required, and rental shops do check.

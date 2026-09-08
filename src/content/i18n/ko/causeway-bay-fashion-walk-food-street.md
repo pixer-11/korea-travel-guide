@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: causeway-bay-fashion-walk-food-street
-srcHash: 'dd15a5caa1c3'
+srcHash: 'c89d97ed3213'
 title: '패션워크 푸드 스트리트: 코즈웨이베이에서 뭘 먹을까'
 description: 패션워크 푸드 스트리트(Fashion Walk Food Street)는 코즈웨이베이(Causeway Bay)의 패션워크(Fashion Walk) 쇼핑가 한편에 자리한 야외 레스토랑 밀집 구역으로, 매일 오전 11시 30분부터 오후 10시 30분까지 운영된다.
 quickAnswer: 패션워크 푸드 스트리트(Fashion Walk Food Street)는 코즈웨이베이(Causeway Bay)의 패션워크(Fashion Walk) 쇼핑가 한편에 자리한 야외 레스토랑 밀집 구역으로, 매일 오전 11시 30분부터 오후 10시 30분까지 운영된다. 가격대는 중간 수준이고 분위기도 편안하며, 주변 쇼핑몰들에 비해 붐비는 정도도 덜하다 — 평일 오후 4시~10시가 가장 한산한 시간대다. 줄 서지 않고 자리를 잡고 싶다면 주말 오후 1시~9시의 혼잡한 시간대는 피하는 게 좋다.

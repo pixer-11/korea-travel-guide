@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-nom
-srcHash: '500edf5410db'
+srcHash: 'acda664acb8b'
 title: NÔM:ホーチミンシティで注目のレストラン
 description: ベトナム・ホーチミンシティにある今話題の新店「NÔM」について、どんな店なのか、場所はどこか、どう訪れればよいかをご紹介します。
 quickAnswer: NÔMは、シェフ「クリス・フォン(Chris Fong)」が手がけるホーチミンシティのミシュランセレクテッドレストランで、「2026 Vietnam MICHELIN Guide」では「Opening of the Year(今年の新規オープン賞)」に選ばれています。ふらりと立ち寄れる屋台グルメの店ではなく、予約必須の本格的なモダンベトナム料理店ですので、訪れる前には必ず予約を入れ、最新の営業時間も確認しておきましょう。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: naples-city-view
-srcHash: 'f22bcce13c46'
+srcHash: '2ffc859ce0a2'
 title: 城市美景：那不勒斯旅行指南（4.8★）
 description: '"City view" 是位于沃梅罗区（Vomero）Tito Angelini 街上的一处小众观景点，坐落在圣埃尔莫城堡（Castel Sant''Elmo）与圣马蒂诺修道院（San Martino）建筑群后方的山丘上。4.8★（199条评价）——游客怎么说、开放时间与实用建议。'
 quickAnswer: '"City view" 是位于沃梅罗区（Vomero）Tito Angelini 街（Via Tito Angelini）上的一处小众观景点，坐落在圣埃尔莫城堡（Castel Sant''Elmo）与圣马蒂诺修道院（San Martino）建筑群后方的山丘上。只需一段不长的上坡步行（或搭一趟缆车），就能换来一片开阔无遮挡的全景——那不勒斯的屋顶层层铺展，直至海湾与维苏威火山，在黄金时刻光线柔和、修道院露台上的人潮也渐渐散去时最为动人。建议安排20-30分钟，不要指望有任何配套设施，可以顺便逛逛沃梅罗区。'

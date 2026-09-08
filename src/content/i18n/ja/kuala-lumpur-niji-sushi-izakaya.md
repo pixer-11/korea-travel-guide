@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: kuala-lumpur-niji-sushi-izakaya
-srcHash: '8dc7cc31f04f'
+srcHash: 'af7b3de455bf'
 title: NIJI Sushi Izakaya:クアラルンプールで食事するなら
 description: マレーシア・クアラルンプールにある今注目のスポット「NIJI Sushi Izakaya」について、その特徴、場所、訪れ方を紹介します。
 quickAnswer: NIJI Sushi Izakayaは、クアラルンプールのチャンカット・ブキッ・ビンタン(Changkat Bukit Bintang)に単独の建物を構えるレストランで、マレーシア初のモダン寿司居酒屋を謳っています。空輸された日本の魚をフランス仕込みの技術で仕立てた料理を求めるなら、予約すべき一軒です。座席は窮屈なカウンターではなく、テラスを備えた複数フロア構成になっているため、静かなデートにも大人数での利用にも向いています。新しくオープンしたばかりで人気急上昇中の店なので、営業時間は最新情報を確認し、事前予約をおすすめします。

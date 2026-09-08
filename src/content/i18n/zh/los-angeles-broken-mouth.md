@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-broken-mouth
-srcHash: '08696779dbe8'
+srcHash: 'b980d5b577a6'
 title: 断口食堂（Broken Mouth）：洛杉矶旅行指南
 description: 美国洛杉矶的断口食堂（Broken Mouth）——一处新晋热门去处：它是什么、位于何处，以及如何前往游览。
 quickAnswer: 断口食堂（Broken Mouth）是洛杉矶眼下最受关注的美食广场，一举跃升Yelp「2026年美国百佳餐厅」榜单第7位，馆内汇聚了多个各自独立经营的摊位。想避开人潮，最好选在工作日刚开门营业时，或是午后稍晚的时段前往。由于这类走红速度极快的场所信息变动也快，出发前务必确认好当前营业时间以及是否需要预约。

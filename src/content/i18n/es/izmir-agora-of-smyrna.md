@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: izmir-agora-of-smyrna
-srcHash: '4ccd36047f40'
+srcHash: 'f57241e82224'
 title: 'Ágora de Esmirna: Guía de Viaje de Esmirna (İzmir)'
 description: El Ágora de Esmirna, situada en el barrio de Namazgah en Konak, Esmirna (İzmir), es el mercado excavado de la ciudad romana reconstruida tras un terremoto en el año 178 d. C., con una basílica de triple arco, un patio porticado y cisternas abovedadas por las que todavía se puede caminar.
 quickAnswer: El Ágora de Esmirna, situada en el barrio de Namazgah en Konak, Esmirna (İzmir), es el mercado excavado de la ciudad romana reconstruida tras un terremoto en el año 178 d. C., con una basílica de triple arco, un patio porticado y cisternas abovedadas por las que todavía se puede caminar. Dedícale entre 45 y 75 minutos, ve por la mañana antes de que el sol caiga de lleno sobre el patio abierto, y combínalo con el cercano Bazar de Kemeraltı y Kadifekale para completar un medio día de recorrido por el Esmirna antiguo.

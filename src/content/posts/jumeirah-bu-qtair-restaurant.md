@@ -100,9 +100,9 @@ updatedDate: '2026-09-06'
 
 ## Why Bu Qtair matters
 
-You smell it before you see it — hot oil, garlic, and the salt tang of the Gulf. Bu Qtair started as a fisherman's shack decades ago, and even after a formal relocation a few doors down, it's kept that same rough, plastic-chair charm near the Umm Suqeim fishing harbour.
+You smell it before you see it, hot oil, garlic, and the salt tang of the Gulf. Bu Qtair started as a fisherman's shack decades ago, and even after a formal relocation a few doors down, it's kept that same rough, plastic-chair charm near the Umm Suqeim fishing harbour.
 
-There's no printed menu with prices on the wall. Instead, you walk up to an open display of the day's catch — pomfret, kingfish, shrimp, lobster, calamari — point at what you want, and tell the cook how you want it prepared.
+There's no printed menu with prices on the wall. Instead, you walk up to an open display of the day's catch (pomfret, kingfish, shrimp, lobster, calamari) point at what you want, and tell the cook how you want it prepared.
 
 ## What to eat
 
@@ -114,25 +114,25 @@ The kitchen does three things well: deep-frying, pan-frying, and dunking whateve
 - Garlic naan or plain rice to mop up the curry
 - A side of the tangy tamarind chutney everyone ends up asking for extra of
 
-Portions are sold by weight, so the bill scales with your appetite — expect a mid-range spend per person rather than a bargain-basement one.
+Portions are sold by weight, so the bill scales with your appetite. Expect a mid-range spend per person rather than a bargain-basement one.
 
 ## Getting there
 
 Bu Qtair sits on Old 32B Street in Umm Suqeim 2, tucked behind the fishing harbour, a short drive from Jumeirah Beach and Kite Beach. There's no metro station within walking distance, so a taxi or ride-hail app is the practical option.
 
-If you're driving, parking is informal — a gravel lot near the harbour fills up fast on weekends, so budget a few extra minutes to find a spot. Landmarks nearby include the Burj Al Arab and Jumeirah Mosque, both worth combining with a visit here.
+If you're driving, parking is informal, a gravel lot near the harbour fills up fast on weekends, so budget a few extra minutes to find a spot. Landmarks nearby include the Burj Al Arab and Jumeirah Mosque, both worth combining with a visit here.
 
 ## The scene once you're seated
 
 Seating spills across a covered terrace with plastic tables, some right at the edge overlooking the marina and the Gulf beyond. Fishing boats bob a few meters away, gulls circle for scraps, and the clatter of trays and sizzling woks never really stops.
 
-It's loud, a little chaotic, and entirely unpretentious — you eat with your hands off metal trays lined with paper. Don't expect air conditioning or polish; the appeal is the freshness of the fish and the view, not the decor.
+It's loud, a little chaotic, and entirely unpretentious, you eat with your hands off metal trays lined with paper. Don't expect air conditioning or polish; the appeal is the freshness of the fish and the view, not the decor.
 
 ## When to go
 
 Bu Qtair is open daily from 11:30am to 11:30pm, except Friday when it opens later at 1pm.
 
-Weekend afternoons are the crush point — from 1pm onward on Saturday and Sunday, tables turn slowly and the queue for the fish counter backs up. If you want breathing room on a weekend, aim for the 12pm–1pm slot right at opening, before the lunch crowd lands.
+Weekend afternoons are the crush point, from 1pm onward on Saturday and Sunday, tables turn slowly and the queue for the fish counter backs up. If you want breathing room on a weekend, aim for the 12pm–1pm slot right at opening, before the lunch crowd lands.
 
 On weekdays, the calmest stretch is late, between 10pm and 11pm, when the dinner rush has thinned out and you can actually hear the waves.
 
@@ -141,10 +141,10 @@ On weekdays, the calmest stretch is late, between 10pm and 11pm, when the dinner
 This is a genuinely popular spot with tourists and residents alike, not a hidden find, so plan around the crowds rather than expecting to dodge them entirely.
 
 - Go at 10pm–11pm on a weekday, or right at noon on a weekend, for the shortest wait
-- Skip Saturday and Sunday afternoons — anything after 1pm means a real queue
+- Skip Saturday and Sunday afternoons, anything after 1pm means a real queue
 - Point at the fish yourself at the counter rather than waiting for a menu; it speeds things up and you get to check freshness
-- Pay by card or cash — both are accepted, though it's worth carrying some cash as backup
-- Wear something you don't mind smelling like fried fish afterward — ventilation is minimal
+- Pay by card or cash. Both are accepted, though it's worth carrying some cash as backup
+- Wear something you don't mind smelling like fried fish afterward, ventilation is minimal
 - Bring a few extra dirhams for the naan and chutney sides, which aren't always itemized upfront
 
 Tourists' most common mistake is showing up starving on a Sunday at 2pm expecting a quick bite. Plan for a wait, or shift your visit to the quieter windows above, and it becomes a much more relaxed meal.

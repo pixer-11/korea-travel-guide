@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: '1ede0867b8ce'
+srcHash: '1761e672244c'
 title: 'Museo de las Civilizaciones de Europa y el Mediterráneo: guía de viaje de Marsella'
 description: 'Dirígete al MuCEM (Musée des Civilisations de l''Europe et de la Méditerranée) desde la entrada del Vieux-Port hacia la explanada J4, y apunta a la franja de última hora de la tarde, de 18:00 a 21:00, cuando el museo tiene horario nocturno: es el momento más tranquilo tanto entre semana como los fines de semana. 4.4★ (24.438 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Dirígete al MuCEM (Musée des Civilisations de l''Europe et de la Méditerranée) desde la entrada del Vieux-Port hacia la explanada J4, y apunta a la franja de última hora de la tarde, de 18:00 a 21:00, cuando el museo tiene horario nocturno: es el momento más tranquilo tanto entre semana como los fines de semana. Las multitudes de fin de semana alcanzan su punto máximo de 11:00 a 18:00, así que si solo puedes ir en ese horario, llega justo a la apertura. Calcula entre dos y tres horas, más si además cruzas la pasarela hacia el Fort Saint-Jean.'

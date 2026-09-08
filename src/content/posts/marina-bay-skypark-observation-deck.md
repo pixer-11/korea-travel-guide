@@ -74,13 +74,13 @@ At 4.6 stars across nearly 14,000 reviews, it's firmly established as one of the
 
 ## Getting there
 
-The observation deck is accessed through Marina Bay Sands' Tower 3 lobby, separate from the casino and shopping mall entrances, so follow signage specifically for "SkyPark" once inside. By train, the nearest stop is Bayfront MRT Station (Circle and Downtown Lines), which connects directly to the Marina Bay Sands basement via a sheltered underground link — take the exit signed for Marina Bay Sands/The Shoppes and follow the corridor toward Tower 3. Promenade Station (Circle Line) is a slightly longer walk across the bay via the Helix Bridge, a scenic option if you want to approach on foot and photograph the towers from below first. Taxis and ride-hail cars drop off at the Tower 3 entrance directly.
+The observation deck is accessed through Marina Bay Sands' Tower 3 lobby, separate from the casino and shopping mall entrances, so follow signage specifically for "SkyPark" once inside. By train, the nearest stop is Bayfront MRT Station (Circle and Downtown Lines), which connects directly to the Marina Bay Sands basement via a sheltered underground link. Take the exit signed for Marina Bay Sands/The Shoppes and follow the corridor toward Tower 3. Promenade Station (Circle Line) is a slightly longer walk across the bay via the Helix Bridge, a scenic option if you want to approach on foot and photograph the towers from below first. Taxis and ride-hail cars drop off at the Tower 3 entrance directly.
 
 ## What to see and do
 
-The main draw is simply the view, but give yourself time to circle the entire deck rather than stopping at the first railing — the perspective changes dramatically from the Gardens by the Bay side to the CBD/Marina Barrage side. Bring a phone or camera with a wide lens; the deck's infinity-edge design (echoing the rooftop pool one level below, which is reserved for hotel guests) makes for the classic shot when timed close to sunset.
+The main draw is simply the view, but give yourself time to circle the entire deck rather than stopping at the first railing, the perspective changes dramatically from the Gardens by the Bay side to the CBD/Marina Barrage side. Bring a phone or camera with a wide lens; the deck's infinity-edge design (echoing the rooftop pool one level below, which is reserved for hotel guests) makes for the classic shot when timed close to sunset.
 
-The Level 56 also houses two upscale dining venues, CÉ LA VI SkyBar and restaurant, which some visitors use as an alternative way to reach the view (with a food or drink purchase) without a separate observation deck ticket — worth comparing costs and reservation requirements before deciding which route suits you. Expect to spend roughly 45 minutes to an hour at the top, longer if you're queuing for photos at peak times.
+The Level 56 also houses two upscale dining venues, CÉ LA VI SkyBar and restaurant, which some visitors use as an alternative way to reach the view (with a food or drink purchase) without a separate observation deck ticket, worth comparing costs and reservation requirements before deciding which route suits you. Expect to spend roughly 45 minutes to an hour at the top, longer if you're queuing for photos at peak times.
 
 ## When to go
 
@@ -88,9 +88,9 @@ Late afternoon into sunset is the most rewarded time slot, since you get dayligh
 
 ## How to visit like a local
 
-This is a very popular, high-traffic attraction — nearly 14,000 reviews and counting — so the goal isn't finding a quiet secret, it's managing the crowd sensibly. Book your timed ticket online in advance rather than walking up; same-day tickets can sell out or push you into a late-afternoon slot when queues are longest. If sunset is your priority, target a weekday slot and expect the rail-side spots facing Gardens by the Bay to be the most contested for photos — patience and a short wait for a clear rail-front moment beats jostling.
+This is a very popular, high-traffic attraction (nearly 14,000 reviews and counting), so the goal isn't finding a quiet secret, it's managing the crowd sensibly. Book your timed ticket online in advance rather than walking up; same-day tickets can sell out or push you into a late-afternoon slot when queues are longest. If sunset is your priority, target a weekday slot and expect the rail-side spots facing Gardens by the Bay to be the most contested for photos, patience and a short wait for a clear rail-front moment beats jostling.
 
-Payment for tickets is standard card or mobile pay through the official booking channel; there's no tipping expected for the observation deck itself, though standard hotel-restaurant tipping norms would apply if you dine at CÉ LA VI. The most common visitor mistake is treating this like a leisurely lookout: come dressed for outdoor conditions (it's open-air and can be windy and humid), and don't linger too long deciding on photo angles when a queue has formed behind you — circulate, shoot, and cycle through.
+Payment for tickets is standard card or mobile pay through the official booking channel; there's no tipping expected for the observation deck itself, though standard hotel-restaurant tipping norms would apply if you dine at CÉ LA VI. The most common visitor mistake is treating this like a leisurely lookout: come dressed for outdoor conditions (it's open-air and can be windy and humid), and don't linger too long deciding on photo angles when a queue has formed behind you, circulate, shoot, and cycle through.
 
 If the view is your main goal and you also want a drink or a meal, weigh the CÉ LA VI route, which sometimes offers views without needing a separate deck ticket, against straightforward observation deck admission.
 

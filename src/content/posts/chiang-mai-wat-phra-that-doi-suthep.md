@@ -113,28 +113,28 @@ updatedDate: '2026-08-31'
 
 ## Why go
 
-Wat Phra That Doi Suthep is Chiang Mai's most sacred temple and, at 4.7 stars across nearly 12,000 reviews, one of northern Thailand's most consistently praised sights. Founded in 1383 under King Keu Naone of the Lanna kingdom, legend holds that a white elephant carrying a Buddha relic climbed the mountain, trumpeted three times, and died on the spot chosen for the temple — hence the name Doi Suthep ("Suthep Mountain").
+Wat Phra That Doi Suthep is Chiang Mai's most sacred temple and, at 4.7 stars across nearly 12,000 reviews, one of northern Thailand's most consistently praised sights. Founded in 1383 under King Keu Naone of the Lanna kingdom, legend holds that a white elephant carrying a Buddha relic climbed the mountain, trumpeted three times, and died on the spot chosen for the temple, hence the name Doi Suthep ("Suthep Mountain").
 
 The centerpiece is a copper-plated gold chedi housing that relic, surrounded by smaller pagodas, bells, a small museum, and a terrace that opens onto sweeping views of Chiang Mai city and the surrounding valley on clear days.
 
 ## Getting there
 
-The temple is in Suthep subdistrict, Mueang Chiang Mai District, about 15 km from the Old City — allow 30–45 minutes depending on traffic and how far up the mountain you start from. Most visitors arrange transport through:
+The temple is in Suthep subdistrict, Mueang Chiang Mai District, about 15 km from the Old City. Allow 30–45 minutes depending on traffic and how far up the mountain you start from. Most visitors arrange transport through:
 
 - **Songthaew (red truck) or shared minivan**: These gather near Chiang Mai University's main gate on Huay Kaew Road and at spots around the moat; they leave once full and are the cheapest option.
 - **Grab or metered taxi**: Convenient and available on demand, though drivers often prefer a round-trip fare with waiting time built in.
-- **Rented scooter or car**: The road climbs steadily with switchbacks — manageable for confident riders, but go slow and mind descending buses.
+- **Rented scooter or car**: The road climbs steadily with switchbacks, manageable for confident riders, but go slow and mind descending buses.
 - **Organized half-day tour**: Many bundle Doi Suthep with the Bhubing Palace gardens or a Hmong hill-tribe village further up the mountain.
 
 From the parking area, you'll reach the temple base either by climbing the famous 306-step staircase flanked by a multi-headed naga (serpent) balustrade, or by taking the funicular cable car for a small fee if you'd rather save your knees for the grounds themselves.
 
 ## What to see and do
 
-- **The golden chedi**: The reliquary stupa is the spiritual heart of the temple — walk clockwise around it, as is customary, and note the umbrella-like spires (chatra) at its corners.
+- **The golden chedi**: The reliquary stupa is the spiritual heart of the temple. Walk clockwise around it, as is customary, and note the umbrella-like spires (chatra) at its corners.
 - **Viharn and Buddha images**: Several halls surround the chedi with Buddha statues in different mudras (hand positions); look for the older, weathered bronze figures alongside newer gilded ones.
-- **City viewpoint terrace**: On the temple's eastern side, a lookout gives an expansive view over Chiang Mai and the Ping River valley — best in early morning or just before sunset when haze is lower.
+- **City viewpoint terrace**: On the temple's eastern side, a lookout gives an expansive view over Chiang Mai and the Ping River valley, best in early morning or just before sunset when haze is lower.
 - **Small museum and bell walk**: A modest museum near the entrance covers the temple's history and Lanna Buddhist art; nearby, rows of bells let visitors ring for merit as they pass.
-- **Monk blessings**: Resident monks periodically offer string-tying blessings (sai sin) to visitors — a small donation is customary.
+- **Monk blessings**: Resident monks periodically offer string-tying blessings (sai sin) to visitors. A small donation is customary.
 
 Modest dress is required: shoulders and knees covered, shoes removed before entering the main chedi terrace. Sarongs are usually available to borrow or rent at the entrance for anyone underdressed.
 

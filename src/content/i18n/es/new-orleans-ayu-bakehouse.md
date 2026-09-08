@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-ayu-bakehouse
-srcHash: 'edee9fa0b140'
+srcHash: '7e74a7989c15'
 title: 'Ayu Bakehouse: Guía de viaje de Nueva Orleans (4.7★)'
 description: Ayu Bakehouse es una pequeña panadería vietnamita-francesa en Frenchmen Street, en Nueva Orleans, conocida por sus hojaldres con un toque del sudeste asiático — piensa en croissants de pandan y kouign-amann. 4.7★ (878 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Ayu Bakehouse es una pequeña panadería vietnamita-francesa en Frenchmen Street, en Nueva Orleans, conocida por sus hojaldres con un toque del sudeste asiático — piensa en croissants de pandan y kouign-amann. Abre solo por las mañanas (de 8am a 2pm o 3:30pm según el día), y suele estar bastante tranquila entre semana; las mañanas de fin de semana, de 9am a 2pm, atraen a la mayor cantidad de gente.

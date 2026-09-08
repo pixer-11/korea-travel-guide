@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-city-harry-styles-residency-madison-square-garden
-srcHash: '448c904fe997'
+srcHash: 'ae23d5957870'
 title: 'Residencia de Harry Styles en el Madison Square Garden: lo que debes saber (Nueva York)'
 description: Residencia de Harry Styles en el Madison Square Garden de Nueva York, Estados Unidos — del 26 de agosto al 31 de octubre de 2026 (funciones cada miércoles, viernes y sábado). Qué es, cuándo y dónde, y cómo planificar tu visita.
 quickAnswer: Harry Styles tiene programada una residencia de 30 noches en el Madison Square Garden del 26 de agosto al 31 de octubre de 2026, con funciones cada miércoles, viernes y sábado, y el cierre de la serie caerá en la noche de Halloween con un gran final "Harryween". Las entradas, los horarios exactos y cualquier detalle sobre el repertorio o los invitados aún no se han confirmado más allá de lo publicado en Ticketmaster y en el sitio oficial del MSG, así que conviene revisar esas fuentes antes de reservar vuelos u hoteles.

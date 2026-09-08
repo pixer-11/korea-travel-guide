@@ -78,7 +78,7 @@ draft: false
 ---
 ## First impression
 
-You climb the hill road and the roofline appears before the building does — layered, curved, the colour of dried blood and gold leaf against the Kuala Lumpur sky.
+You climb the hill road and the roofline appears before the building does, layered, curved, the colour of dried blood and gold leaf against the Kuala Lumpur sky.
 
 Thean Hou Temple sits on Robson Heights, one of the highest points near the city centre, and it uses that height. Six tiers stack upward, each edge lined with red lanterns that sway slightly in the breeze coming off the surrounding hills.
 
@@ -102,7 +102,7 @@ Outside, the terraces open onto a wide view over KL's southern skyline, and a sm
 
 The temple sits south of the city centre, closer to Bukit Jalil than the usual KLCC/Bukit Bintang cluster.
 
-Grab or a metered taxi is the most straightforward option, since the walk uphill from the nearest main road is steep and has no proper footpath for most of the way. If you're using rail, the closest stations are Awan Besar or Bukit Jalil on the KL rail network, followed by a short taxi ride up the hill — it's not realistically walkable with the elevation change.
+Grab or a metered taxi is the most straightforward option, since the walk uphill from the nearest main road is steep and has no proper footpath for most of the way. If you're using rail, the closest stations are Awan Besar or Bukit Jalil on the KL rail network, followed by a short taxi ride up the hill. It's not realistically walkable with the elevation change.
 
 Budget 20–30 minutes travel time from central KL depending on traffic, and confirm your driver knows Persiaran Endah, Taman Persiaran Desa, since the temple isn't always well signed from the main road below.
 
@@ -112,21 +112,21 @@ The temple opens daily from 8am to 8pm, with no variation across the week accord
 
 Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and stay heavy until closing at 8pm.
 
-If you're set on a weekend visit, arrive right at 8am — that first hour before 9am is the one quiet window before the tour groups and family visitors arrive. Sunset is popular for the skyline view, but expect company.
+If you're set on a weekend visit, arrive right at 8am, that first hour before 9am is the one quiet window before the tour groups and family visitors arrive. Sunset is popular for the skyline view, but expect company.
 
 ## How to visit like a local
 
 This is one of Kuala Lumpur's most-visited temples, so beating the crowd matters more here than at quieter sites.
 
-Aim for a weekday, or the 8–9am slot on weekends if that's your only window — after 10am on Saturday and Sunday the terraces and prayer hall fill steadily until closing.
+Aim for a weekday, or the 8–9am slot on weekends if that's your only window, after 10am on Saturday and Sunday the terraces and prayer hall fill steadily until closing.
 
 - Dress modestly: shoulders and knees covered, as this is an active place of worship
 - Remove hats before entering the main prayer hall
 - Keep voices low near the altars; people are genuinely praying, not posing
-- Small donations near the altars are customary but not obligatory — coins or small notes are fine
+- Small donations near the altars are customary but not obligatory, coins or small notes are fine
 - Photography is generally fine outdoors and in the main hall, but be discreet directly in front of worshippers
 
-The most common mistake visitors make is treating the upper terrace as the whole visit and skipping the ground-floor hall, gardens and pond — the temple rewards a slower, full loop rather than a quick photo stop at the top.
+The most common mistake visitors make is treating the upper terrace as the whole visit and skipping the ground-floor hall, gardens and pond, the temple rewards a slower, full loop rather than a quick photo stop at the top.
 
 ## Nearby and practical notes
 

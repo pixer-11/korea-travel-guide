@@ -71,35 +71,35 @@ aiGenerated: true
 draft: false
 ---
 
-The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and — if you're near the bar — the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary.
+The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and, if you're near the bar, the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary.
 
 This is not a sleepy breakfast spot. It's a working San Francisco institution that happens to open when most bars are still dark.
 
 Housed in a triangular corner building at Hyde and Beach streets since 1916, the room hasn't changed its bones much: a long, polished bar dominates one side, windows wrap the corner so you can watch the Hyde Street cable car crest the hill outside, and the tables are close enough that you'll end up chatting with strangers whether you plan to or not.
 
-The menu leans into American diner staples — burgers, eggs Benedict, a hearty corned beef hash — but almost nobody is here strictly for the food. They're here for the drink in the tall glass mug with the cream floating on top.
+The menu leans into American diner staples (burgers, eggs Benedict, a hearty corned beef hash), but almost nobody is here strictly for the food. They're here for the drink in the tall glass mug with the cream floating on top.
 
 ## Why everyone orders the Irish coffee
 
-The Buena Vista's claim to fame is simple: this is where Irish coffee was reportedly first served in the United States, brought over from Shannon Airport in Ireland and recreated behind this bar in 1952. The recipe hasn't strayed — hot coffee, sugar, Irish whiskey, and a layer of lightly whipped cream poured over the back of a spoon so it sits on top rather than mixing in.
+The Buena Vista's claim to fame is simple: this is where Irish coffee was reportedly first served in the United States, brought over from Shannon Airport in Ireland and recreated behind this bar in 1952. The recipe hasn't strayed, hot coffee, sugar, Irish whiskey, and a layer of lightly whipped cream poured over the back of a spoon so it sits on top rather than mixing in.
 
 Bartenders here have poured so many of these that they do it without measuring, in a steady, practiced motion that's worth watching from a bar seat if you can get one.
 
 ## Getting there
 
-The Buena Vista sits at 2765 Hyde St, right at the base of Fisherman's Wharf, a block or two from Ghirardelli Square and the Hyde Street Pier. The Powell-Hyde cable car line stops essentially at the door, making the rattling, bell-clanging ride down from Union Square part of the experience rather than just a way to arrive. If you're driving, expect to hunt for street parking or use one of the pay lots near the wharf — this is one of the most tourist-trafficked corners of the city.
+The Buena Vista sits at 2765 Hyde St, right at the base of Fisherman's Wharf, a block or two from Ghirardelli Square and the Hyde Street Pier. The Powell-Hyde cable car line stops essentially at the door, making the rattling, bell-clanging ride down from Union Square part of the experience rather than just a way to arrive. If you're driving, expect to hunt for street parking or use one of the pay lots near the wharf. This is one of the most tourist-trafficked corners of the city.
 
 ## What to expect once you're inside
 
-Seating is first-come, first-served — there's no reservation system, so on weekends you may find a short wait, especially for a table by the window. The bar counter itself is often your fastest way in, and it's arguably the best seat anyway, close to the action of Irish coffees being built four at a time. Portions are straightforward and prices sit in the mid-range for San Francisco, not cheap but not a splurge either. Cash and cards are both accepted.
+Seating is first-come, first-served. There's no reservation system, so on weekends you may find a short wait, especially for a table by the window. The bar counter itself is often your fastest way in, and it's arguably the best seat anyway, close to the action of Irish coffees being built four at a time. Portions are straightforward and prices sit in the mid-range for San Francisco, not cheap but not a splurge either. Cash and cards are both accepted.
 
 ## When to go
 
-Weekday mornings, any time from opening at 9am, are noticeably calmer, and weekend openings at 8am offer a similar window of relative quiet before the wharf crowds arrive. The crush hits hard on Saturdays and Sundays between 11am and 8pm, when tour groups, cable car riders, and wharf visitors all converge at once. If you want to actually hear yourself order, aim for that early slot, or swing by on a weekday evening after the after-work rush has thinned out — the bar stays open until 11pm most nights and midnight on Friday and Saturday.
+Weekday mornings, any time from opening at 9am, are noticeably calmer, and weekend openings at 8am offer a similar window of relative quiet before the wharf crowds arrive. The crush hits hard on Saturdays and Sundays between 11am and 8pm, when tour groups, cable car riders, and wharf visitors all converge at once. If you want to actually hear yourself order, aim for that early slot, or swing by on a weekday evening after the after-work rush has thinned out. The bar stays open until 11pm most nights and midnight on Friday and Saturday.
 
 ## How to visit like a local
 
-Skip the idea of a reservation — walk in, and if the tables are full, claim a stool at the bar, where service is often quicker anyway. Order it simply as "an Irish coffee" and don't ask for it decaf or iced; it's a specific, traditional build and bartenders make it the same way every time. The rookie mistake is stirring the cream into the coffee — it's meant to be sipped through, cold cream against hot coffee, not blended.
+Skip the idea of a reservation (walk in, and if the tables are full, claim a stool at the bar, where service is often quicker anyway. Order it simply as "an Irish coffee" and don't ask for it decaf or iced; it's a specific, traditional build and bartenders make it the same way every time. The rookie mistake is stirring the cream into the coffee) it's meant to be sipped through, cold cream against hot coffee, not blended.
 
-Given this is a well-known, very popular stop on the wharf circuit rather than an undiscovered corner bar, the real local trick is timing: come at 9am on a weekday or right at the 8am weekend opening, before the tour buses unload. Tip in cash if you can, the standard 18-20% norm for American bars, and don't linger over a single drink at the bar during peak hours — turnover is part of the unspoken deal here.
+Given this is a well-known, very popular stop on the wharf circuit rather than an undiscovered corner bar, the real local trick is timing: come at 9am on a weekday or right at the 8am weekend opening, before the tour buses unload. Tip in cash if you can, the standard 18-20% norm for American bars, and don't linger over a single drink at the bar during peak hours, turnover is part of the unspoken deal here.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-danico
-srcHash: 'ce75e3b7c229'
+srcHash: 'dded5764f5f9'
 title: Danico：巴黎旅行指南
 description: Danico，坐落于法国巴黎的一处新晋热门去处——它是什么、位于何处，以及该如何前往体验。
 quickAnswer: Danico是一间藏身于巴黎市中心的鸡尾酒吧，刚刚在2026年法国酒吧大奖（French Bar Awards）中被评为全法最佳酒吧，与姐妹店The Cambridge Public House和Bar Nouveau一同获奖。这里更适合提前预约、慢慢探索，而非随到随进，所以出发前请务必确认最新营业时间和预订政策。建议选在工作日夜晚前往，店内空间不大，最好早点到或提前订位。

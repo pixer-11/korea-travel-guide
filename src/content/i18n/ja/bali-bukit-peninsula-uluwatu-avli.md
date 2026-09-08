@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bali-bukit-peninsula-uluwatu-avli
-srcHash: '7a861c6b51fa'
+srcHash: 'ba400f1cc78e'
 title: AVLI in Bali(バリ島のAVLI)
 description: AVLIは、バリ島ブキット半島(Bukit Peninsula)のウルワツ(Uluwatu)、ジャラン・ラブアンサイト(Jalan Labuansait)沿いに新しくオープンした700平米のモダンギリシャ料理レストラン。ウルワツのサーフブレイクや崖上のクラブへと続くのと同じ通りに位置する。
 quickAnswer: AVLIは、バリ島ブキット半島(Bukit Peninsula)のウルワツ(Uluwatu)、ジャラン・ラブアンサイト(Jalan Labuansait)沿いに新しくオープンした700平米のモダンギリシャ料理レストラン。ウルワツのサーフブレイクや崖上のクラブへと続くのと同じ通りに位置する。設計を手がけたのは建築事務所DA Bureauで、バリの高級レストランがひしめく中でも数少ない地中海・ギリシャ料理専門店として異彩を放っている。オープンして間もないため、訪れる前に営業時間やメニュー、予約の要否を確認しておこう。

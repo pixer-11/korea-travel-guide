@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: rome-roman-forum
-srcHash: '58e1a33e8aa0'
+srcHash: '1a95a787fca5'
 title: 罗马广场：罗马旅行指南（4.8★）
 description: 上午9点整（可选择泰坦凯旋门（Arch of Titus）附近的旧萨拉里亚大道（Via della Salaria Vecchia）入口，或使用与斗兽场/帕拉蒂尼山联票的入口）进入罗马广场，赶在旅行团抵达之前入场——每天上午9点到10点是人最少的时段，而周末上午11点到下午2点则是人流高峰。4.8★（145,233条评价）——游客怎么说、开放时间及实用建议。
 quickAnswer: 上午9点整（可选择泰坦凯旋门（Arch of Titus）附近的旧萨拉里亚大道（Via della Salaria Vecchia）入口，或使用与斗兽场/帕拉蒂尼山联票的入口）进入罗马广场，赶在旅行团抵达之前入场——每天上午9点到10点是人最少的时段，而周末上午11点到下午2点则是人流高峰。建议预留两到三小时游览神圣大道（Sacred Way）、农神庙（Temple of Saturn），并登上帕拉蒂尼山（Palatine Hill），另外注意景点每天下午4点30分关闭，所以最好安排在上午或早下午前往。

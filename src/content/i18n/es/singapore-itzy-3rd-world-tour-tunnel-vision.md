@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-itzy-3rd-world-tour-tunnel-vision
-srcHash: '7f9a92cad1a0'
+srcHash: '13fb1ed3efef'
 title: 'Gira mundial de ITZY <TUNNEL VISION>: fechas, entradas y recinto (Singapur)'
 description: ITZY llega a Singapur con su tercera gira mundial, TUNNEL VISION, el 30 de septiembre de 2026. Te contamos de qué se trata, cuándo y dónde será, y cómo organizar el viaje.
 quickAnswer: ITZY trae su tercera gira mundial, TUNNEL VISION, a Singapur el 30 de septiembre de 2026, marcando su regreso a la ciudad desde su último concierto allí. Esta guía todavía no incluye el recinto, las categorías de entradas ni los horarios de apertura de puertas, ya que suelen definirse después del anuncio inicial. Por eso, antes de reservar vuelos u hoteles, confirma todos los detalles en los canales oficiales de ITZY y en la plataforma de venta de entradas autorizada.

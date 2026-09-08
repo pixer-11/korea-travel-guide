@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika
-srcHash: '3c18cd755928'
+srcHash: 'c585f8e06f8f'
 title: 印尼摩托车大奖赛（曼达利卡MotoGP）：赛程、门票与场地指南（曼达利卡）
 description: 2026年10月9日至11日，印尼摩托车大奖赛（曼达利卡MotoGP）将在印尼曼达利卡举行。本文介绍赛事概况、举办时间地点，以及行程规划要点。
 quickAnswer: 印尼摩托车大奖赛（曼达利卡MotoGP）将于2026年10月9日至11日重返龙目岛的佩塔米纳曼达利卡国际赛道（Pertamina Mandalika International Circuit），作为MotoGP世界锦标赛第18站。2025年赛事吸引了超过14万名观众到场，因此前往龙目岛国际机场的机票以及赛道附近的住宿都建议尽早预订。出发前请务必在MotoGP官网及曼达利卡赛道官网核实具体时间与门票信息。

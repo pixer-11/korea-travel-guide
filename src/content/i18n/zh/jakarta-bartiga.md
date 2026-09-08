@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-bartiga
-srcHash: '411e60f61df1'
+srcHash: '46051583b1f9'
 title: Bartiga:雅加达旅行指南
 description: Bartiga 位于印度尼西亚雅加达 —— 一处新晋热门去处:它是什么、在哪里、以及如何前往。
 quickAnswer: Bartiga 是一家专注于音质体验的小型 listening bar(聆听式酒吧),藏身于南雅加达(South Jakarta)克巴容巴鲁(Kebayoran Baru)地区达玛旺莎广场(The Darmawangsa Square)的地下层——这里是那种你真正来听音乐、而不是靠大喊才能对话的地方。它刚开业不久,正在雅加达夜生活圈子里逐渐积累人气,因此建议提前预订,或在周末尽早到场。前往之前请务必确认最新营业时间和预订政策,因为这家场所才刚刚开始摸索自己的节奏,相关细节仍在调整中。

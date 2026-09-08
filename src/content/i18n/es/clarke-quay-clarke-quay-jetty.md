@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: clarke-quay-clarke-quay-jetty
-srcHash: '9326f396941a'
+srcHash: 'a1ca27fd5a2f'
 title: 'Clarke Quay Jetty: Guía de viaje'
 description: Clarke Quay Jetty es el pequeño embarcadero en el río Singapur donde los bumboats de Singapore River Cruise recogen y dejan pasajeros junto a la hilera restaurada de almacenes (godowns) de Clarke Quay.
 quickAnswer: Clarke Quay Jetty es el pequeño embarcadero en el río Singapur donde los bumboats de Singapore River Cruise recogen y dejan pasajeros junto a la hilera restaurada de almacenes (godowns) de Clarke Quay. Se recomienda visitarlo a última hora de la tarde, antes del atardecer, cuando se puede tomar el crucero por el río, ver cómo se despeja la multitud del Read Bridge y disfrutar del encendido de las luces del techo del muelle. Calcula entre 20 y 30 minutos si solo visitas el embarcadero, o hasta una hora si esperas para embarcar en un crucero.

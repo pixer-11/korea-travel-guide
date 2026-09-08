@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: damyang-juknokwon
-srcHash: '9cc8ab3ec4a4'
+srcHash: '11f7f5014cc2'
 title: 'Juknokwon: Guía de viaje de Damyang'
 description: Juknokwon es un parque de bosque de bambú de 31 hectáreas en Damyang-eup, recorrido por ocho senderos con nombre propio entre altísimos bambúes moso, con un paseo adicional al jardín de estilo coreano vecino y a la Carretera de las Metasequoias (Metasequoia Road).
 quickAnswer: Juknokwon es un parque de bosque de bambú de 31 hectáreas en Damyang-eup, recorrido por ocho senderos con nombre propio entre altísimos bambúes moso, con un paseo adicional al jardín de estilo coreano vecino y a la Carretera de las Metasequoias (Metasequoia Road). Calcula entre 1,5 y 2 horas, llega temprano (antes de media mañana) para evitar las aglomeraciones de autobuses turísticos, y comprueba si el paseo nocturno con iluminación está en funcionamiento si prefieres una visita más tranquila y fresca.

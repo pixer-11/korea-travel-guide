@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: surabaya-monumen-kapal-selam-surabaya
-srcHash: '6a9a636a3f55'
+srcHash: 'ae38ead7ffa6'
 title: 泗水潜水艇纪念馆(Monumen Kapal Selam)旅行指南
 description: 泗水潜水艇纪念馆(Monkasel)是一艘真正退役的俄制潜艇——KRI Pasopati 410号，如今被搁置陆地并改造成博物馆，供游客步行参观，就位于泗水市中心的Jl. Pemuda街上。
 quickAnswer: 泗水潜水艇纪念馆(Monkasel)展示的是一艘真正退役的俄制潜艇——KRI Pasopati 410号，如今它被搁置在陆地上，改造成了一座可供游客步行穿越的博物馆，就位于泗水市中心的Jl. Pemuda街上。参观这条狭窄的艇身大约需要45到60分钟，之后可以到旁边沿河而建的公园里逛逛，那里有不少咖啡馆可以歇脚。由于地点就在市中心一带，把这里和Tunjungan Plaza购物中心或Balai Pemuda的行程安排在一起，顺路又省事。

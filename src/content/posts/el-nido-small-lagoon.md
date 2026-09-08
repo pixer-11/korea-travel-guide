@@ -52,7 +52,7 @@ You approach by boat, cutting the engine well offshore. The entrance is a narrow
 
 ## Getting there
 
-There's no road to Small Lagoon — it's boat-access only, part of the standard El Nido "Tour A" island-hopping circuit out of El Nido town. Most banca boats leave the public beach or your resort dock between 8am and 9am.
+There's no road to Small Lagoon. It's boat-access only, part of the standard El Nido "Tour A" island-hopping circuit out of El Nido town. Most banca boats leave the public beach or your resort dock between 8am and 9am.
 
 Expect the ride from El Nido town to take 30–40 minutes across Bacuit Bay. Tour operators bundle Small Lagoon with Big Lagoon, Shimizu Island, and Seven Commandos Beach on the same half-day route.
 
@@ -62,9 +62,9 @@ Booking is usually done the afternoon before, through your guesthouse or one of 
 
 The water inside is glassy, ringed by sheer walls that block most of the wind. This stillness is exactly why it suits paddling more than swimming laps.
 
-- Rent a kayak at the entrance (cash only, small fee) — it's the only way past the shallow rock channel
+- Rent a kayak at the entrance (cash only, small fee). It's the only way past the shallow rock channel
 - Paddle to the inner chamber, where the walls open into a wider, hidden pool
-- Watch for locals and daring tourists cliff-jumping from the ledges — join in only if you've scouted depth first
+- Watch for locals and daring tourists cliff-jumping from the ledges, join in only if you've scouted depth first
 - Snorkel near the edges where small reef fish shelter in the rock crevices
 
 Bring water shoes. The entrance channel has sharp coral and rock underfoot, and you'll likely be wading part of it.
@@ -75,21 +75,21 @@ Arrive as close to opening tour hours as your boat schedule allows, ideally befo
 
 Dry season, from November to May, gives you the calmest water and the best visibility for snorkeling. Afternoon squalls are common in the wetter months, June through October, and boat operators will cut trips short if conditions turn.
 
-Plan for 30–45 minutes here — it's a stop on a longer circuit, not a full-day destination.
+Plan for 30–45 minutes here. It's a stop on a longer circuit, not a full-day destination.
 
 ## How to visit like a local
 
 Small Lagoon still flies under the radar compared to its bigger namesake next door, and you can keep it that way by timing your visit deliberately.
 
 - Ask your boatman to hit Small Lagoon first on the itinerary, before the mid-morning rush of other Tour A boats
-- Pay kayak rental in cash — small bills, since there's no ATM or card reader anywhere near Miniloc Island
+- Pay kayak rental in cash, small bills, since there's no ATM or card reader anywhere near Miniloc Island
 - Skip the life vest debate: most operators require one in the kayak, and it's worth wearing given the current at the entrance
-- Don't leave litter or sunscreen residue at the entrance rocks — reef-safe sunscreen only, applied before you leave the boat
+- Don't leave litter or sunscreen residue at the entrance rocks, reef-safe sunscreen only, applied before you leave the boat
 - Tip your boatman and guide directly at the end of the day; it's the norm for island-hopping tours here, not an add-on fee
 
 The mistake most visitors make is treating Small Lagoon like an afterthought to Big Lagoon. Because it's smaller and less photographed, groups often rush the kayak-in, snap a photo, and leave within ten minutes.
 
 Slow down instead. Paddle past the first chamber into the quieter inner pool, where the crowds thin and the limestone walls close in overhead. That's the part worth the trip.
 
-Bring a dry bag for your phone or camera — there's nowhere dry to stash belongings once you're in the kayak, and splashes are inevitable in the entrance channel.
+Bring a dry bag for your phone or camera. There's nowhere dry to stash belongings once you're in the kayak, and splashes are inevitable in the entrance channel.
 

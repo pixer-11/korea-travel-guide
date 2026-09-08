@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour
-srcHash: 'c02240956060'
+srcHash: '50083c319fcd'
 title: 'U-KNOW Project 26: SCENE#1(東方神起ユンホのソロツアー)について知っておきたいこと(ホーチミン市)'
 description: 'U-KNOW Project 26: SCENE#1(東方神起ユンホのソロツアー)がベトナム・ホーチミン市で2026年9月19日に開催。公演の概要、日時と会場、そして事前に準備しておくべきことをまとめました。'
 quickAnswer: ユンホのソロツアー「SCENE#1」は、2026年9月19日にホーチミン市タンビン区(Tan Binh District)にあるMilitary Zone 7 Indoor Stadiumで開催されます。開演時間に合わせてGrabかメーター制タクシーを早めに予約しておきましょう(交通渋滞と料金の値上がりはほぼ確実です)。日付、開場時間、チケット詳細はまだ公式に確定していないため、渡航前に必ず公式チャンネルで最新情報を確認してください。

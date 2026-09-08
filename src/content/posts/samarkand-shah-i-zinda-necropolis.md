@@ -86,9 +86,9 @@ draft: false
 
 ## Why go
 
-Shah-i-Zinda means "the living king" — a reference to the shrine at its heart, said to hold the cousin of the Prophet Muhammad. What you actually experience is a narrow, uphill lane flanked on both sides by 11th-to-15th-century mausoleums, each one tiled floor to dome in glazed majolica.
+Shah-i-Zinda means "the living king", a reference to the shrine at its heart, said to hold the cousin of the Prophet Muhammad. What you actually experience is a narrow, uphill lane flanked on both sides by 11th-to-15th-century mausoleums, each one tiled floor to dome in glazed majolica.
 
-No two facades repeat. You'll pass panels of star-shaped strapwork, calligraphic bands looping through cobalt blue, and carved terracotta that still holds crisp geometric relief eight centuries on. The effect builds as you climb — it's less a single monument than a compressed timeline of Central Asian tilework.
+No two facades repeat. You'll pass panels of star-shaped strapwork, calligraphic bands looping through cobalt blue, and carved terracotta that still holds crisp geometric relief eight centuries on. The effect builds as you climb. It's less a single monument than a compressed timeline of Central Asian tilework.
 
 ## Getting there
 
@@ -105,11 +105,11 @@ You enter through a grand portal (the Qusam ibn Abbas complex gate) and climb a 
 - The inner sanctuary at the top, the shrine chamber itself, where visitors linger longest
 - A working cemetery beyond the historic core, still used today
 
-The staircase count is famously said to differ depending on whether you're counting sincerely — a bit of local folklore worth knowing before you climb.
+The staircase count is famously said to differ depending on whether you're counting sincerely, a bit of local folklore worth knowing before you climb.
 
 ## When to go
 
-The site is open every day, 7am to 10pm, with no weekly closure. That long window is one of its best features — you can visit at sunrise, midday, or after dinner.
+The site is open every day, 7am to 10pm, with no weekly closure. That long window is one of its best features. You can visit at sunrise, midday, or after dinner.
 
 Weekends get busy between 11am and 7pm, when tour groups fill the staircase. Both weekday and weekend mornings and evenings stay calmer, so anchor a visit around 7–9am or after 7pm if you want the corridor closer to empty.
 
@@ -119,12 +119,12 @@ Evening light does something specific here: low sun catches the glazed tile at a
 
 This is one of Samarkand's most-visited landmarks, not a quiet back corner, so plan around the crowds rather than expecting to dodge them entirely.
 
-- **Go early or late.** Arrive right at 7am or after 7pm — the busiest window is 11am–7pm on weekends, and weekday mornings run just as calm.
+- **Go early or late.** Arrive right at 7am or after 7pm. The busiest window is 11am–7pm on weekends, and weekday mornings run just as calm.
 - **Dress modestly.** It's an active cemetery and shrine complex; shoulders and knees covered is expected, and voices tend to drop as you near the shrine chamber at the top.
-- **Pay small entrance/photo fees in local currency (som).** Card readers aren't reliable at ticket booths here — carry cash.
+- **Pay small entrance/photo fees in local currency (som).** Card readers aren't reliable at ticket booths here, carry cash.
 - **Skip the group-tour bottleneck.** If you see a large tour bus parked outside, wait 20 minutes or start from the top of the staircase and work down instead of joining the queue at the bottom.
 - **Don't rush the terracotta panels near the entrance.** Most visitors speed past them heading for the blue-tiled domes further up, but the carved (unglazed) sections near the gate are some of the oldest work on site.
-- **Combine it efficiently.** Pair it with the Registan and Bibi-Khanym Mosque in one walking loop — all three sit within a 20-minute walk of each other.
+- **Combine it efficiently.** Pair it with the Registan and Bibi-Khanym Mosque in one walking loop. All three sit within a 20-minute walk of each other.
 
 ## Nearby stops worth the extra steps
 

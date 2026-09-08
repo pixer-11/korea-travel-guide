@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-mother-s-restaurant
-srcHash: '852a7cec6e64'
+srcHash: '728edb7f501b'
 title: Mother's Restaurant：新奥尔良美食指南（4.2星）
 description: 位于中央商务区波伊德拉斯街401号（401 Poydras St）的Mother's Restaurant，是一家自助餐式的老字号餐厅，每天早7点营业至晚10点。这里最出名的是堆满"debris"（细碎烤牛肉与火腿）的招牌三明治"Ferdi Special"po' boy，以及自制烤火腿。4.2星（17,308条评价）——看看游客怎么说，附营业时间与实用建议。
 quickAnswer: Mother's Restaurant位于中央商务区波伊德拉斯街401号（401 Poydras St），是一家自助餐式的老字号餐厅，每天早7点营业至晚10点。招牌"Ferdi Special"po' boy三明治堆满了"debris"（细碎烤牛肉与火腿），自制烤火腿同样出名。想避开人潮，最好早上7点开门时就到，或者选下午的空闲时段前往；周末从早11点到晚9点这段时间排队常常一直排到门外。

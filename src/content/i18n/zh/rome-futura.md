@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: rome-futura
-srcHash: '018e2221963f'
+srcHash: '7da450992545'
 title: 罗马Futura餐厅
 description: Futura是一家仅有20个座位的现代餐厅，2025年开业于蒙蒂区（Monti）的帕尼斯佩尔纳路（Via Panisperna），主厨为安娜斯塔西娅·帕里斯（Anastasia Paris），设有开放式厨房和主厨餐桌，让食客近距离感受烹饪过程。
 quickAnswer: Futura是一家仅有20个座位的现代餐厅，2025年开业于蒙蒂区（Monti）的帕尼斯佩尔纳路（Via Panisperna），主厨为安娜斯塔西娅·帕里斯（Anastasia Paris），设有开放式厨房和主厨餐桌，让食客近距离感受烹饪过程。凭借其独特的氛围和富有创意的摆盘，这里已被拿来和蒙蒂区的邻居Retrobottega相提并论，因此最好提前订位——由于座位有限，预订名额十分紧张。由于新开业餐厅的信息变化较快，建议前往之前先直接确认最新的营业时间和菜单内容。

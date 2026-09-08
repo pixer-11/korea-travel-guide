@@ -50,15 +50,15 @@ Watching the Tour roadside costs nothing beyond getting yourself to the route, a
 
 ## Getting there
 
-Nice is the easiest base logistically: Nice Côte d'Azur Airport is France's second-busiest, with direct flights from most major European hubs, and the city center sits on a tram and bus network that reaches the Promenade des Anglais in minutes. Provence is the base for the earlier French stages and the Ventoux summit finish — the nearest useful rail hubs are Avignon or Orange, with local buses or a rental car needed to reach the mountain itself, since Ventoux's slopes (Bédoin, Malaucène, and Sault approaches) have no train access.
+Nice is the easiest base logistically: Nice Côte d'Azur Airport is France's second-busiest, with direct flights from most major European hubs, and the city center sits on a tram and bus network that reaches the Promenade des Anglais in minutes. Provence is the base for the earlier French stages and the Ventoux summit finish. The nearest useful rail hubs are Avignon or Orange, with local buses or a rental car needed to reach the mountain itself, since Ventoux's slopes (Bédoin, Malaucène, and Sault approaches) have no train access.
 
 For Lausanne's Grand Départ, Geneva Airport is the nearest international gateway, with a direct train to Lausanne taking under an hour.
 
 ## What to see (and how to watch)
 
-- **Mont Ventoux stage**: This is the emotional high point of most Tours de France routes that include it — a bald, windswept limestone summit nicknamed the "Giant of Provence." Spectators typically stake out spots hours (sometimes the whole day) in advance along the final kilometers, where gradients regularly hit 9–10%. Shade, water, and a portable chair are standard kit; there is little natural cover near the top.
+- **Mont Ventoux stage**: This is the emotional high point of most Tours de France routes that include it, a bald, windswept limestone summit nicknamed the "Giant of Provence." Spectators typically stake out spots hours (sometimes the whole day) in advance along the final kilometers, where gradients regularly hit 9–10%. Shade, water, and a portable chair are standard kit; there is little natural cover near the top.
 - **Nice finale**: The closing stage was planned as a flatter, faster finish along or near the Promenade des Anglais, with a party atmosphere, big screens, and podium ceremonies open to the public. It is the more comfortable viewing option: barrier space fills over the few hours beforehand, without the overnight camping a mountain stage demands.
-- **Team presentations and caravan**: Before the riders pass, a publicity caravan of sponsor vehicles throws out trinkets and samples — a genuinely fun, kid-friendly warm-up that precedes the race by 30–90 minutes on most stages.
+- **Team presentations and caravan**: Before the riders pass, a publicity caravan of sponsor vehicles throws out trinkets and samples, a genuinely fun, kid-friendly warm-up that precedes the race by 30–90 minutes on most stages.
 - **Watch multiple stages**: Because the route strings together different regions, dedicated fans sometimes follow two or three consecutive stages by car or train, treating it like a mini road trip through Provence and the French Riviera.
 
 ## When to go
@@ -67,4 +67,4 @@ Early August in southern France means summer heat, especially inland around Vent
 
 ## Nearby & tips
 
-A Ventoux stage visit pairs well with nearby Provençal towns like Vaison-la-Romaine or the Luberon villages for a day or two either side of the race. In Nice, race day sits alongside the Old Town (Vieux Nice), the Colline du Château viewpoint, and the Matisse and Chagall museums. Exact stage towns, start/finish times, and road closure schedules are finalized and published only a few weeks before the race, on the official Tour de France Femmes website and in ASO's race guide — and those closures can affect intercity transport on race days themselves.
+A Ventoux stage visit pairs well with nearby Provençal towns like Vaison-la-Romaine or the Luberon villages for a day or two either side of the race. In Nice, race day sits alongside the Old Town (Vieux Nice), the Colline du Château viewpoint, and the Matisse and Chagall museums. Exact stage towns, start/finish times, and road closure schedules are finalized and published only a few weeks before the race, on the official Tour de France Femmes website and in ASO's race guide, and those closures can affect intercity transport on race days themselves.

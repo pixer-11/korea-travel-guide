@@ -62,11 +62,11 @@ If you're driving, note the road is narrow and coach traffic bunches up around s
 
 The main draw is the railing-side panorama, best appreciated slowly rather than snapped and left. Look for the Alcázar's four towers on the skyline's high point, and the cathedral's spire slightly left of center. Below, the Tagus curls around the city on three sides, a natural defense that shaped Toledo's entire history.
 
-Along the approach you'll find a small market area and an eatery — a good spot for a coffee or a cold drink after the walk up, especially in summer heat. Give yourself 30-45 minutes: enough to walk the length of the viewpoint, watch the light change, and grab a snack.
+Along the approach you'll find a small market area and an eatery, a good spot for a coffee or a cold drink after the walk up, especially in summer heat. Give yourself 30-45 minutes: enough to walk the length of the viewpoint, watch the light change, and grab a snack.
 
 ## When to go
 
-Sunset is the obvious draw, and for good reason: the low light turns the sandstone buildings amber-gold and the cathedral catches the last sun. But this is a very popular spot, and sunset means crowds — coach tours, couples, photographers with tripods staking out the railing.
+Sunset is the obvious draw, and for good reason: the low light turns the sandstone buildings amber-gold and the cathedral catches the last sun. But this is a very popular spot, and sunset means crowds, coach tours, couples, photographers with tripods staking out the railing.
 
 For a calmer visit, come in the hour after sunrise instead, when the light is softer and the crowds haven't arrived. Midday works too if you just want the view without the ceremony, though the light is flatter and less dramatic.
 
@@ -75,10 +75,10 @@ For a calmer visit, come in the hour after sunrise instead, when the light is so
 This viewpoint draws heavy tour traffic, so timing and positioning matter more than at a quieter spot.
 
 - Arrive 45-60 minutes before sunset to get a railing spot with an unobstructed view, since the best stretch fills up fast
-- Bring cash or card for the market stalls and eatery — small vendors here often prefer cash for quick purchases
+- Bring cash or card for the market stalls and eatery, small vendors here often prefer cash for quick purchases
 - Walk a little further along the railing past the main crowd cluster; the view is just as good 50 meters either side and far less crowded
-- Skip the tripod-and-selfie-stick scrum near the center rail — locals and repeat visitors tend to shoot from the quieter southern end
+- Skip the tripod-and-selfie-stick scrum near the center rail, locals and repeat visitors tend to shoot from the quieter southern end
 - If you're driving, plan your exit before sunset ends, since the small parking area empties out slowly as everyone leaves at once
 
-The biggest mistake visitors make is treating this as a five-minute photo stop. The view rewards lingering — watching the color shift over 20-30 minutes tells you far more about the city's shape and history than a quick snapshot ever will. Pair it with a walk across one of the historic bridges on your way back, so the crossing becomes part of the experience rather than just transit.
+The biggest mistake visitors make is treating this as a five-minute photo stop. The view rewards lingering, watching the color shift over 20-30 minutes tells you far more about the city's shape and history than a quick snapshot ever will. Pair it with a walk across one of the historic bridges on your way back, so the crossing becomes part of the experience rather than just transit.
 

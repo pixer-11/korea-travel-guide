@@ -60,7 +60,7 @@ draft: false
 
 Ayala Triangle Gardens is 2.4 hectares of grass, acacia trees, and paved paths wedged between three of Makati's busiest avenues. It's the kind of park you don't expect to find between glass office towers, which is exactly why it works.
 
-You step off Ayala Avenue's sidewalk and the traffic noise drops almost immediately. The grass slopes gently, joggers loop the perimeter path, and office workers eat packed lunches on benches under old acacia canopies. It's not a wild escape — it's a manicured, corporate-adjacent green space — but it's genuinely pleasant.
+You step off Ayala Avenue's sidewalk and the traffic noise drops almost immediately. The grass slopes gently, joggers loop the perimeter path, and office workers eat packed lunches on benches under old acacia canopies. It's not a wild escape (it's a manicured, corporate-adjacent green space), but it's genuinely pleasant.
 
 ## Getting there
 
@@ -74,7 +74,7 @@ Grab-hailing is common here, and most Makati hotels are within a 15-minute walk 
 
 ## What to see and do
 
-The triangle's paved loop is the main draw — locals use it for a proper jog or brisk walk, especially along the tree-lined edges facing Paseo de Roxas.
+The triangle's paved loop is the main draw, locals use it for a proper jog or brisk walk, especially along the tree-lined edges facing Paseo de Roxas.
 
 Look up: the acacia trees here are decades old and form a canopy that filters Manila's harsh midday sun into dappled light across the lawn. Around the edges you'll find:
 
@@ -83,25 +83,25 @@ Look up: the acacia trees here are decades old and form a canopy that filters Ma
 - Adjacent eateries and cafés facing the park, good for a coffee break
 - A seasonal light-and-sound show, typically run in the evenings during the Christmas season, when the trees are strung with synchronized LED displays
 
-Outside the holiday season, the park is quieter and more of a green-lung stop than a spectacle — still worth 30 to 60 minutes to walk the full loop.
+Outside the holiday season, the park is quieter and more of a green-lung stop than a spectacle, still worth 30 to 60 minutes to walk the full loop.
 
 ## When to go
 
 The park is open every day from 6am to 10pm, so there's no risk of arriving to locked gates.
 
-Because it's extremely popular with the after-work office crowd, weekday evenings between roughly 5:30 and 8pm tend to fill up fast with joggers and groups heading home through the park. Early morning, right after 6am opening, is calmer — you'll share the paths mostly with serious runners and dog walkers.
+Because it's extremely popular with the after-work office crowd, weekday evenings between roughly 5:30 and 8pm tend to fill up fast with joggers and groups heading home through the park. Early morning, right after 6am opening, is calmer. You'll share the paths mostly with serious runners and dog walkers.
 
 If you're visiting in December, come after dark specifically for the light show, but expect the biggest crowds of the year during that stretch, particularly on weekend nights.
 
 ## How to visit like a local
 
-Ayala Triangle Gardens is one of the most-reviewed parks in Metro Manila, so it draws a genuine crowd — this isn't an undiscovered corner of the city, and treating it that way will set the wrong expectations.
+Ayala Triangle Gardens is one of the most-reviewed parks in Metro Manila, so it draws a genuine crowd. This isn't an undiscovered corner of the city, and treating it that way will set the wrong expectations.
 
 - **Timing:** Go before 7:30am on a weekday for open paths, or after 8:30pm when the after-work jogging wave has thinned.
 - **Payment:** The park itself is free to enter; bring cash or a mobile wallet only if you plan to buy from the surrounding cafés and food stalls.
-- **Etiquette:** Stick to the outer paved loop if you're walking slowly — the inner lanes are used by runners moving at pace, and cutting across abruptly is the top local pet peeve.
+- **Etiquette:** Stick to the outer paved loop if you're walking slowly. The inner lanes are used by runners moving at pace, and cutting across abruptly is the top local pet peeve.
 - **Dress:** Makati's CBD dress code spills into the park; you'll see people in business casual on lunch breaks, so it's fine to look tidy rather than beach-casual.
-- **Mistake to avoid:** Don't assume the light show runs year-round — it's a seasonal (Christmas period) feature, not a nightly fixture, so check dates if that's your main reason for visiting.
-- **Language:** No local phrasing needed to "order" anything — it's simply "Ayala Triangle" or "the Triangle" in everyday Makati conversation, useful if asking a guard or taxi driver for directions.
+- **Mistake to avoid:** Don't assume the light show runs year-round. It's a seasonal (Christmas period) feature, not a nightly fixture, so check dates if that's your main reason for visiting.
+- **Language:** No local phrasing needed to "order" anything. It's simply "Ayala Triangle" or "the Triangle" in everyday Makati conversation, useful if asking a guard or taxi driver for directions.
 
 Combine it with a walk through Greenbelt's chapel garden or a coffee at one of the park-facing cafés, and you've got a solid half-day loop without ever really leaving the block.

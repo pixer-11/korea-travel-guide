@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-thong-nhat-park
-srcHash: '68a8ae55c9df'
+srcHash: '6b52d87eeadb'
 title: 'Parque Thong Nhat: guía de viaje de Hanói (4,3★)'
 description: 'El parque Thong Nhat (también llamado parque Lenin) es el mayor espacio verde de Hanói, construido alrededor del lago Bay Mau, con senderos sombreados, botes a pedal y zonas de ejercicio. 4,3★ (16.244 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Thong Nhat (también llamado parque Lenin) es el mayor espacio verde de Hanói, construido alrededor del lago Bay Mau, con senderos sombreados, botes a pedal y zonas de ejercicio. Abre todos los días de 6:00 a 22:00, y lo mejor es visitarlo temprano, entre las 7:00 y las 8:00, cuando está más tranquilo, antes de que se llene por la tarde y el anochecer a partir de las 15:00 los fines de semana. La entrada es económica y se llega fácilmente a pie o en un trayecto corto en taxi desde el Barrio Antiguo, hacia el sur.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-park-guell
-srcHash: '5f133d701d8d'
+srcHash: 'c3f8c82d876b'
 title: 'Park Güell: Guía de viaje de Barcelona (4.4★)'
 description: En pleno barrio de Gràcia, el Park Güell es la fantasía modernista de Gaudí en lo alto de una colina, con dragones de mosaico, bancos ondulados y columnatas de piedra. Abierto todos los días de 9:00 a 19:30. Descubre la valoración de 4.4★ (240.607 reseñas), qué opinan los visitantes, el horario y consejos prácticos.
 quickAnswer: 'En el barrio de Gràcia, el Park Güell es la fantasía modernista que Gaudí imaginó en lo alto de una colina: dragones de mosaico, bancos ondulados y columnatas de piedra, abierto todos los días de 9:00 a 19:30. Para visitar la famosa terraza de mosaico y la Zona Monumental hace falta una entrada con hora reservada de antemano, mientras que el resto del parque —senderos boscosos y miradores— es gratuito. Lo ideal es ir justo a las 9:00 o, si es fin de semana, aprovechar la franja de 9:00 a 10:00, ya que entre las 11:00 y las 15:00 los grupos turísticos saturan la terraza principal.'

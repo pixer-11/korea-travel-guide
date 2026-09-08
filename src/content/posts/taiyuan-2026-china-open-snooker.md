@@ -31,7 +31,7 @@ eventFactsAsked: true
 ---
 ## Why go
 
-The China Open is one of the ranking events on the World Snooker Tour's China swing, and the 2026 edition was set for Taiyuan, the capital of Shanxi province, at the Riverside Sports Centre. For snooker fans, this is a rare chance to watch top-tier professional players — including defending champion Neil Robertson — compete on Chinese soil in an arena setting rather than on television.
+The China Open is one of the ranking events on the World Snooker Tour's China swing, and the 2026 edition was set for Taiyuan, the capital of Shanxi province, at the Riverside Sports Centre. For snooker fans, this is a rare chance to watch top-tier professional players, including defending champion Neil Robertson, compete on Chinese soil in an arena setting rather than on television.
 
 Ranking events like this feed directly into players' world rankings and the road to the World Championship in Sheffield, so matches carry real competitive weight, not just exhibition value.
 
@@ -41,13 +41,13 @@ Taiyuan is well connected by high-speed rail, with Taiyuan South Railway Station
 
 ## What to expect at the venue
 
-Riverside Sports Centre is a multi-purpose arena that hosts basketball, concerts, and other large-scale events in addition to snooker, so it has a proper stadium atmosphere rather than a small snooker club setting. Ranking events of this size typically run multiple tables in the early rounds (often in a separate arena or practice hall) before consolidating to the main table for the closing rounds — quarterfinals through the final are the sessions most likely to feature the biggest names on the show table.
+Riverside Sports Centre is a multi-purpose arena that hosts basketball, concerts, and other large-scale events in addition to snooker, so it has a proper stadium atmosphere rather than a small snooker club setting. Ranking events of this size typically run multiple tables in the early rounds (often in a separate arena or practice hall) before consolidating to the main table for the closing rounds, quarterfinals through the final are the sessions most likely to feature the biggest names on the show table.
 
 Sessions at these events are usually split into afternoon and evening blocks, spread here across the tournament dates of August 8–16, 2026.
 
 ## Who to watch
 
-Neil Robertson, the defending champion, headlines the field, and China Open editions historically draw a strong contingent of Chinese professionals, who play with home-crowd support that adds an extra layer of energy compared to European legs of the tour. The full player list and bracket are typically confirmed only close to the event, and are subject to qualifying results and late withdrawals, so unofficial lineups circulating online tend to be unreliable — the official WST website and app are where seeding is locked in.
+Neil Robertson, the defending champion, headlines the field, and China Open editions historically draw a strong contingent of Chinese professionals, who play with home-crowd support that adds an extra layer of energy compared to European legs of the tour. The full player list and bracket are typically confirmed only close to the event, and are subject to qualifying results and late withdrawals, so unofficial lineups circulating online tend to be unreliable. The official WST website and app are where seeding is locked in.
 
 ## Tickets and planning
 
@@ -57,8 +57,8 @@ As with most WST ranking events, tickets are usually sold by session (single day
 
 Earlier afternoon sessions are the calmer venue experience; evening sessions and weekend dates, especially the final, draw denser crowds and are the ones that sell out first. Payment in China is overwhelmingly mobile: Alipay and WeChat Pay are standard for concessions, merchandise, and even taxis, and foreign cards aren't universally accepted at smaller vendors, so cash is a useful backup.
 
-Snooker crowds observe a distinct etiquette carried over from the sport's British roots — spectators stay quiet and still during a player's shot, applaud after a break or a good safety exchange, and avoid flash photography; this holds even at Chinese venues with a livelier atmosphere between frames. Tipping isn't expected anywhere in China, including at the venue. A common visitor mistake is assuming session times mirror UK tournaments' start times — Taiyuan schedules run on Beijing Time, not on a memory of Sheffield or London event hours.
+Snooker crowds observe a distinct etiquette carried over from the sport's British roots (spectators stay quiet and still during a player's shot, applaud after a break or a good safety exchange, and avoid flash photography; this holds even at Chinese venues with a livelier atmosphere between frames. Tipping isn't expected anywhere in China, including at the venue. A common visitor mistake is assuming session times mirror UK tournaments' start times) Taiyuan schedules run on Beijing Time, not on a memory of Sheffield or London event hours.
 
 ## Beyond the baize
 
-If you're building a longer stay around the tournament, Taiyuan itself offers the Shanxi Museum, the Jinci Temple complex, and Chinese-cuisine specialties like Shanxi's famous hand-pulled noodles and vinegar-based dishes — natural fits for rest days between sessions.
+If you're building a longer stay around the tournament, Taiyuan itself offers the Shanxi Museum, the Jinci Temple complex, and Chinese-cuisine specialties like Shanxi's famous hand-pulled noodles and vinegar-based dishes, natural fits for rest days between sessions.

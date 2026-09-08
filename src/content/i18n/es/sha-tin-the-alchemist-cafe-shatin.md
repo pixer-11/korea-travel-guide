@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-the-alchemist-cafe-shatin
-srcHash: '90cd22294a9f'
+srcHash: 'ec7d4d1134a8'
 title: 'The Alchemist Cafe (Sha Tin): guía de viaje de Sha Tin (4.0★)'
 description: 'The Alchemist Cafe se encuentra dentro del complejo del Museo del Patrimonio de Hong Kong en Sha Tin (local G6, Man Lam Road), un espacio luminoso y lleno de plantas ideal para desayunar tarde o tomar un café entre galerías. 4.0★ (734 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: The Alchemist Cafe se encuentra dentro del complejo del Museo del Patrimonio de Hong Kong en Sha Tin (local G6, Man Lam Road), un espacio luminoso y lleno de plantas ideal para desayunar tarde o tomar un café entre galerías. Los días de semana, de 10:00 a 22:00, son los más tranquilos, así que si puede, vaya un martes por la mañana. Los fines de semana abre más temprano, a las 8:30, y se mantiene concurrido hasta las 20:00, por lo que conviene reservar la visita para un café a última hora de la tarde.

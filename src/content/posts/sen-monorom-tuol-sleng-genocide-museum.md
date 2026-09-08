@@ -85,7 +85,7 @@ The complex spans four buildings arranged around a former schoolyard, and each o
 - **Building C**: the tiny brick and wood cells where prisoners were held between interrogations
 - **Building D**: instruments of torture, and testimony from the small number of known survivors
 
-Give yourself 1.5 to 2.5 hours. An audio guide is available at the entrance and worth the small extra cost — the photographs alone don't convey the context without it.
+Give yourself 1.5 to 2.5 hours. An audio guide is available at the entrance and worth the small extra cost. The photographs alone don't convey the context without it.
 
 ## When to go
 
@@ -97,15 +97,15 @@ Midday heat in Phnom Penh is intense most of the year, so an early visit also me
 
 ## How to visit like a local
 
-This is a serious, heavily visited memorial site — not a hidden find, and not somewhere to treat casually. Dress modestly: shoulders and knees covered, out of respect for what happened here.
+This is a serious, heavily visited memorial site, not a hidden find, and not somewhere to treat casually. Dress modestly: shoulders and knees covered, out of respect for what happened here.
 
-- Go early — 8am–9am is genuinely the calmest window, both weekday and weekend
+- Go early, 8am–9am is genuinely the calmest window, both weekday and weekend
 - Keep your voice low inside the buildings; this is treated as a place of mourning, not a photo backdrop
-- Pay the small entrance fee and audio-guide fee in Cambodian riel or US dollars — both are widely accepted, cash is simplest
+- Pay the small entrance fee and audio-guide fee in Cambodian riel or US dollars. Both are widely accepted, cash is simplest
 - Skip flash photography in the mugshot rooms; many visitors find it visibly disrespectful
-- Budget quiet time afterward — most visitors don't want to jump straight into sightseeing
+- Budget quiet time afterward. Most visitors don't want to jump straight into sightseeing
 
-The biggest mistake tourists make is rushing through in 30 minutes to squeeze in more of the city that day. Locals and guides alike will tell you this site rewards — and requires — slowing down.
+The biggest mistake tourists make is rushing through in 30 minutes to squeeze in more of the city that day. Locals and guides alike will tell you this site rewards, and requires, slowing down.
 
 ## Nearby, when you're ready
 

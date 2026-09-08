@@ -119,7 +119,7 @@ Back at ground level, the monastery itself rewards slow wandering:
 - The vegetarian restaurant on site, serving set meals that draw as many visitors as the statue itself
 - Ngong Ping Village, with tea shops and a small theatre on Buddhist stories
 
-Wear shoes you can climb steps in — sandals are common but the ascent is steeper than it looks in photos.
+Wear shoes you can climb steps in, sandals are common but the ascent is steeper than it looks in photos.
 
 ## When to go
 
@@ -131,11 +131,11 @@ Autumn and winter (October to February) bring cooler, clearer weather and better
 
 ## How to visit like a local
 
-This is a working monastery, not a museum, and it's worth treating it that way. Dress modestly — shoulders and knees covered — especially before entering the main hall.
+This is a working monastery, not a museum, and it's worth treating it that way. Dress modestly, shoulders and knees covered, especially before entering the main hall.
 
 Given how popular the site is, the smartest move is timing rather than seeking a quiet corner that doesn't exist. Arrive right at the 9am opening or come after 4pm; the middle of the day, especially on weekends, is when tour groups peak.
 
-Buy your cable car ticket online in advance rather than queuing at Tung Chung — it's the single biggest time-saver here. Cash and Octopus card both work for the vegetarian restaurant and village stalls, though card acceptance is patchier at smaller vendors.
+Buy your cable car ticket online in advance rather than queuing at Tung Chung. It's the single biggest time-saver here. Cash and Octopus card both work for the vegetarian restaurant and village stalls, though card acceptance is patchier at smaller vendors.
 
-If you plan to eat at the monastery's vegetarian restaurant, book the meal ticket alongside your cable car ticket rather than walking up and hoping for a table. Locals visiting for worship rather than sightseeing tend to come right at opening, light incense, and leave before the crowds build — a good model to follow even if you're here for the view rather than the prayer.
+If you plan to eat at the monastery's vegetarian restaurant, book the meal ticket alongside your cable car ticket rather than walking up and hoping for a table. Locals visiting for worship rather than sightseeing tend to come right at opening, light incense, and leave before the crowds build, a good model to follow even if you're here for the view rather than the prayer.
 

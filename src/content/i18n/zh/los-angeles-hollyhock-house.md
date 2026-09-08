@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-hollyhock-house
-srcHash: 'c3f878ecaa90'
+srcHash: '9e4038776414'
 title: 蜀葵之家（Hollyhock House）：洛杉矶旅行指南（4.5★）
 description: 蜀葵之家（Hollyhock House）是弗兰克·劳埃德·赖特（Frank Lloyd Wright）1921年为石油女富商艾琳·巴恩斯达尔（Aline Barnsdall）设计建造的住宅，坐落在东好莱坞（East Hollywood）巴恩斯达尔艺术公园（Barnsdall Art Park）的高处，仅在周四至周六11am–4pm开放。4.5★（647条评论）——游客怎么说、开放时间及游览贴士。
 quickAnswer: 蜀葵之家（Hollyhock House）是弗兰克·劳埃德·赖特（Frank Lloyd Wright）1921年为石油女富商艾琳·巴恩斯达尔（Aline Barnsdall）设计建造的住宅，坐落在东好莱坞（East Hollywood）巴恩斯达尔艺术公园（Barnsdall Art Park）的高处，仅在周四至周六11am–4pm开放。建议留出45–60分钟进行无导游自助参观，之后可以在周边的橄榄树林和露台漫步，欣赏天际线景观。相比洛杉矶其他地标，这里游客依然较少，选择周四或周五较早的时段前往，是让你几乎独享整栋房子的最佳办法。

@@ -27,7 +27,7 @@ draft: true
 
 ## Why Soy Restaurant stands out in Tashkent
 
-Tashkent's dining scene still leans heavily on plov houses and Soviet-era canteens, so a clean-lined, pan-Asian room like Soy feels like a jolt of something new. The interior is deliberately spare — pale surfaces, low lighting, sharp geometry — built for photos as much as for eating.
+Tashkent's dining scene still leans heavily on plov houses and Soviet-era canteens, so a clean-lined, pan-Asian room like Soy feels like a jolt of something new. The interior is deliberately spare (pale surfaces, low lighting, sharp geometry) built for photos as much as for eating.
 
 You notice the crowd before you notice the menu. Groups of twenty- and thirty-somethings lean over shared plates of sushi and noodles, phones out, volume rising as the night goes on. This is a place people go to be seen together, not just to eat.
 
@@ -37,7 +37,7 @@ Soy's kitchen works across sushi rolls, noodle bowls and broader pan-Asian dishe
 
 The plating and room design suggest a kitchen aiming at a younger, trend-driven audience rather than tourists hunting regional Uzbek staples. That's precisely its appeal: a break from tradition, in a city where most restaurants still serve the same handful of national dishes.
 
-Because this is a newer, trending spot, exact dishes and prices aren't fixed reference points yet — treat the menu as evolving and check it on arrival or via the restaurant's own channels before you go.
+Because this is a newer, trending spot, exact dishes and prices aren't fixed reference points yet, treat the menu as evolving and check it on arrival or via the restaurant's own channels before you go.
 
 ## Getting there
 
@@ -57,12 +57,12 @@ Because opening hours for recently-opened restaurants can change, don't assume a
 
 ## How to visit like a local
 
-Book a table if you're coming on a Friday or Saturday night — this is a social hotspot, and groups tend to reserve ahead rather than walk in. If you do walk in, ask about wait times rather than lingering awkwardly near the entrance.
+Book a table if you're coming on a Friday or Saturday night. This is a social hotspot, and groups tend to reserve ahead rather than walk in. If you do walk in, ask about wait times rather than lingering awkwardly near the entrance.
 
 Sharing is the norm here: order a spread of sushi and noodle dishes for the table instead of one dish per person. It matches both the fusion menu and the group-dining atmosphere the restaurant is built around.
 
-Card payment is standard at Tashkent's contemporary restaurants, though it's still worth carrying some cash as a backup. Tipping around 10% is appreciated but rarely mandatory — round up or leave small change if service was good.
+Card payment is standard at Tashkent's contemporary restaurants, though it's still worth carrying some cash as a backup. Tipping around 10% is appreciated but rarely mandatory, round up or leave small change if service was good.
 
 The biggest mistake visitors make is treating Soy like a quick tourist-menu stop. It rewards a relaxed, unhurried evening with company, not a rushed solo meal between sightseeing stops. Dress reasonably smart-casual; the minimalist room draws a crowd that dresses for the space.
 
-Above all, confirm hours, reservation policy and menu specifics directly with the restaurant before you visit — details at newer, trending spots like this change faster than guides can track.
+Above all, confirm hours, reservation policy and menu specifics directly with the restaurant before you visit, details at newer, trending spots like this change faster than guides can track.

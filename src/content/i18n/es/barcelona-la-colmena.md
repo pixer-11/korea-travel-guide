@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-colmena
-srcHash: '4888d418bb7a'
+srcHash: '7074e61fe4ca'
 title: 'La Colmena: Guía de viaje de Barcelona (4,5★)'
 description: 'La Colmena es un histórico mostrador de repostería en la Plaça de l''Àngel, justo en el límite del Barrio Gótico, abierto todos los días de 9:00 a 21:00. 4,5★ (1.743 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Colmena es un histórico mostrador de repostería en la Plaça de l''Àngel, justo en el límite del Barrio Gótico, abierto todos los días de 9:00 a 21:00. Ve por el turrón, la fruta escarchada y las galletas de estilo tradicional, no a tomar un café sentado: no hay mesas, solo un mostrador de mármol y una cola. Los fines de semana están más tranquilos entre las 9:00 y las 12:00; evita pasar entre las 16:00 y las 20:00 en sábado o domingo, cuando el mostrador se llena.'

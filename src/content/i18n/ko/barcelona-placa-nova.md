@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: barcelona-placa-nova
-srcHash: '0de6e857fdb6'
+srcHash: '1834b271adfb'
 title: '플라사 노바(Plaça Nova): 바르셀로나 여행 가이드'
 description: 플라사 노바(Plaça Nova)는 바르셀로나의 중세 성벽과 고딕 지구(Gothic Quarter)가 만나는 지점에 자리한 작고 야자수가 늘어선 광장으로, 대성당(Cathedral)과 비스베 거리(Carrer del Bisbe) 사이에 끼어 있다.
 quickAnswer: 플라사 노바(Plaça Nova)는 바르셀로나의 중세 성벽과 고딕 지구(Gothic Quarter)가 만나는 지점에 자리한 작고 야자수가 늘어선 광장으로, 대성당(Cathedral)과 비스베 거리(Carrer del Bisbe) 사이에 끼어 있다. 15~20분이면 충분히 둘러볼 수 있으며, 대성당 앞으로 인파가 몰리기 전인 이른 아침이 가장 좋고, 비스베 거리를 따라 산 자우메 광장(Plaça Sant Jaume) 쪽으로 걸어보는 코스와 함께하면 좋다.

@@ -97,7 +97,7 @@ The collection moves chronologically, and it's more substantial than the modest 
 - Upper floor: exhibits on Iloilo's role in the Philippine Revolution and the Visayan textile and maritime trades
 - Rotating gallery space for temporary shows on regional art and culture
 
-Look closely at the burial jars and gold pieces — much of it came from Panay itself, so you're looking at objects tied directly to the ground under the city. Labels are in English and Filipino, detailed enough to read slowly without needing a guide.
+Look closely at the burial jars and gold pieces, much of it came from Panay itself, so you're looking at objects tied directly to the ground under the city. Labels are in English and Filipino, detailed enough to read slowly without needing a guide.
 
 ## Getting there
 
@@ -109,21 +109,21 @@ If you're staying in the city center or near Calle Real, it's a walkable 10–15
 
 The museum keeps the same hours every day of the week: 9am to 5pm, including weekends.
 
-Weekday mornings, shortly after opening, are your best bet for having entire rooms to yourself. Afternoons tend to draw a slow trickle of student groups and local families, especially on weekends. Budget 1.5 to 2 hours — closer to an hour if you're moving quickly, longer if you like reading every panel.
+Weekday mornings, shortly after opening, are your best bet for having entire rooms to yourself. Afternoons tend to draw a slow trickle of student groups and local families, especially on weekends. Budget 1.5 to 2 hours, closer to an hour if you're moving quickly, longer if you like reading every panel.
 
 Pair it with a stroll along the Iloilo River Esplanade right outside, or continue on to Calle Real and the nearby heritage churches for a half-day of walking through the old city.
 
 ## How to visit like a local
 
-Treat it the way Ilonggos treat their smaller heritage sites — as a quiet detour, not a checklist stop.
+Treat it the way Ilonggos treat their smaller heritage sites, as a quiet detour, not a checklist stop.
 
 - **Cost**: Entry has historically been free at National Museum branches across the Philippines; bring a valid ID in case sign-in is required at the door.
 - **Timing**: Arrive right at 9am on a weekday. You'll likely have the ground floor to yourself for the first half hour.
-- **Etiquette**: Photography is generally allowed without flash, but ask staff before shooting in any temporary exhibit — rules vary by show.
-- **Pace yourself**: Start upstairs with the revolution-era exhibits, then work down to archaeology — most visitors do it in reverse and rush the good stuff at the end.
+- **Etiquette**: Photography is generally allowed without flash, but ask staff before shooting in any temporary exhibit, rules vary by show.
+- **Pace yourself**: Start upstairs with the revolution-era exhibits, then work down to archaeology. Most visitors do it in reverse and rush the good stuff at the end.
 - **Talk to the staff**: With visitor numbers low, the attendants often have time to point out pieces excavated nearby that don't get much signage.
 
-The mistake most tourists make is folding this into a rushed loop with Molo Church and Jaro Cathedral and giving it fifteen minutes. Give it the full hour-plus it deserves — you're one of relatively few visitors on any given day, and the galleries reward slow, unhurried reading rather than a quick pass-through.
+The mistake most tourists make is folding this into a rushed loop with Molo Church and Jaro Cathedral and giving it fifteen minutes. Give it the full hour-plus it deserves. You're one of relatively few visitors on any given day, and the galleries reward slow, unhurried reading rather than a quick pass-through.
 
 Since it's free and low-traffic, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome.
 

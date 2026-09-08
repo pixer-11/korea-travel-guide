@@ -88,19 +88,19 @@ The whole inner town is enclosed by 2.2km of crenellated clay walls, and almost 
 
 Khiva is reachable by overnight train or a long shared-taxi ride from Bukhara or Urgench, whose small airport is about 35km away and the usual gateway for visitors flying in.
 
-Ichan Kala has four gates — Ota Darvoza (West), Bog'cha Darvoza (North), Polvon Darvoza (East) and Tosh Darvoza (South) — and most travelers enter through Ota Darvoza, the West Gate, closest to the newer town of Dichan Kala outside the walls.
+Ichan Kala has four gates (Ota Darvoza (West), Bog'cha Darvoza (North), Polvon Darvoza (East), and Tosh Darvoza (South)), and most travelers enter through Ota Darvoza, the West Gate, closest to the newer town of Dichan Kala outside the walls.
 
 A single combined ticket usually covers entry to the walled city and most of the museums inside, sold at booths near the main gates. Prices and validity periods change, so confirm the current cost and whether it's one-day or two-day before you buy.
 
 ## What to see inside the walls
 
-Give yourself unhurried time here — a single lap takes 15-20 minutes, but the sites deserve hours.
+Give yourself unhurried time here. A single lap takes 15-20 minutes, but the sites deserve hours.
 
-- **Kalta Minor Minaret** — the squat, turquoise-tiled tower that was meant to be Central Asia's tallest minaret before construction stopped in 1855
-- **Kunya-Ark** — the khan's old fortress and residence, with a working sundial in its courtyard
-- **Juma Mosque** — dim and cool inside, held up by 213 carved wooden columns, some dating to the 10th century
-- **Islom-Xo'ja Minaret** — Khiva's tallest, with a viewing platform reached by a narrow spiral stair
-- **Tosh-Hovli Palace** — a maze of tiled courtyards and reception rooms built for the khan's wives and guests
+- **Kalta Minor Minaret**, the squat, turquoise-tiled tower that was meant to be Central Asia's tallest minaret before construction stopped in 1855
+- **Kunya-Ark**, the khan's old fortress and residence, with a working sundial in its courtyard
+- **Juma Mosque**, dim and cool inside, held up by 213 carved wooden columns, some dating to the 10th century
+- **Islom-Xo'ja Minaret**, Khiva's tallest, with a viewing platform reached by a narrow spiral stair
+- **Tosh-Hovli Palace**, a maze of tiled courtyards and reception rooms built for the khan's wives and guests
 
 Climb whichever minaret is open when you visit. The view over Ichan Kala's flat clay rooftops, with the desert beginning just past the walls, is the single best way to understand the town's scale.
 
@@ -108,17 +108,17 @@ Climb whichever minaret is open when you visit. The view over Ichan Kala's flat 
 
 Spring (April-May) and early autumn (September-October) bring mild days and soft evening light without Khorazm's brutal summer heat, which regularly tops 40°C in July and August.
 
-Winters are cold but quiet, and you'll have the courtyards nearly to yourself. Whatever season, aim for early morning or the last two hours before sunset — the low sun catches the clay and turquoise tilework in a way flat midday light never does.
+Winters are cold but quiet, and you'll have the courtyards nearly to yourself. Whatever season, aim for early morning or the last two hours before sunset, the low sun catches the clay and turquoise tilework in a way flat midday light never does.
 
 ## How to visit like a local
 
-Ichan Kala is still under-the-radar compared to Samarkand or Bukhara, so treating it casually is easy — but a little local know-how sharpens the visit.
+Ichan Kala is still under-the-radar compared to Samarkand or Bukhara, so treating it casually is easy, but a little local know-how sharpens the visit.
 
 - Enter through Ota Darvoza early, before the day's tour groups arrive from Urgench
 - Carry small cash (som) for museum add-ons, tea stalls and craft stalls that don't take cards
-- Greet shopkeepers with "Assalomu alaykum" — a small courtesy that's noticed here
+- Greet shopkeepers with "Assalomu alaykum", a small courtesy that's noticed here
 - Wear a hat and sturdy shoes; the packed-earth lanes get dusty and there's little shade at midday
-- Don't rush the smaller museums tucked into former madrasas — they're where you'll dodge the crowds entirely
+- Don't rush the smaller museums tucked into former madrasas. They're where you'll dodge the crowds entirely
 
 Most visitors treat Ichan Kala as a half-day stop between train connections. Locals and long-stay travelers know the real reward is staying overnight inside or just outside the walls, so you catch the town lit by lamplight after the day-trippers have gone and the walls glow orange at dawn before anyone else is up.
 

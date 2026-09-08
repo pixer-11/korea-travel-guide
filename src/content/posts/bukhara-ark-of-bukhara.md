@@ -91,41 +91,41 @@ updatedDate: '2026-08-29'
 
 ## Why go
 
-The Ark rises out of Bukhara like a raw clay cliff, its sloped ramparts catching the morning light before anything else in the city. This was the seat of Bukhara's rulers for well over a thousand years, and you feel that weight the moment you pass through the gate. It's not a delicate, restored-to-perfection monument — it's rough, sun-baked, and genuinely old.
+The Ark rises out of Bukhara like a raw clay cliff, its sloped ramparts catching the morning light before anything else in the city. This was the seat of Bukhara's rulers for well over a thousand years, and you feel that weight the moment you pass through the gate. It's not a delicate, restored-to-perfection monument. It's rough, sun-baked, and genuinely old.
 
 ## Getting there
 
 The Ark sits on Afrosiab Street on the western edge of Bukhara's old town, an easy 15–20 minute walk from the Lyabi-Hauz pool and the covered bazaars at the historic core. Most travelers arrive on foot from a guesthouse in the old city, since almost everything worth seeing clusters within walking distance here.
 
-Taxis and ride-hail apps work fine if you're coming from the train station or a hotel further out. Ask for "Ark Fortress" or "Ark qal'asi" — drivers know it instantly. There's no dedicated parking lot, so most visitors are dropped at the main gate on the south side, facing the wide public square (Registan of Bukhara).
+Taxis and ride-hail apps work fine if you're coming from the train station or a hotel further out. Ask for "Ark Fortress" or "Ark qal'asi", drivers know it instantly. There's no dedicated parking lot, so most visitors are dropped at the main gate on the south side, facing the wide public square (Registan of Bukhara).
 
 ## What to see inside
 
 Once through the imposing entrance tunnel, the layout unfolds as a cluster of restored and semi-ruined buildings rather than one grand hall.
 
-- **The entrance corridor** — steep, shadowed, and lined with old cells; it sets the tone before you even reach the top.
+- **The entrance corridor**, steep, shadowed, and lined with old cells; it sets the tone before you even reach the top.
 - **The Friday Mosque (Juma Mosque)** inside the walls, with carved wooden columns.
-- **The Coronation Court**, an open courtyard where emirs were once crowned — the most photographed spot inside.
+- **The Coronation Court**, an open courtyard where emirs were once crowned, the most photographed spot inside.
 - **Small museums** covering local archaeology, applied arts, and the history of the Bukhara Emirate, housed in the surviving rooms.
-- **The rear ramparts**, where much of the old palace was destroyed in 1920 and never rebuilt — a stark, open field of foundations that tells its own story.
+- **The rear ramparts**, where much of the old palace was destroyed in 1920 and never rebuilt, a stark, open field of foundations that tells its own story.
 
 Give yourself 90 minutes to two hours. It's compact, but the uneven brick paths and stairs make it slower going than the size suggests.
 
 ## When to go
 
-The fortress keeps steady hours all week, 9am to 6pm, with no weekly closing day currently listed — still, it's worth double-checking locally before you go, since hours can shift around holidays.
+The fortress keeps steady hours all week, 9am to 6pm, with no weekly closing day currently listed, still, it's worth double-checking locally before you go, since hours can shift around holidays.
 
-Foot-traffic data shows the quietest window is 9am–10am, both on weekdays and weekends — arrive right at opening for near-empty courtyards and soft light on the clay walls. Weekends get noticeably busier by late afternoon, with 5pm–6pm the peak crush before closing. If you can only come on a Saturday or Sunday, treat that last hour as one to avoid.
+Foot-traffic data shows the quietest window is 9am–10am, both on weekdays and weekends. Arrive right at opening for near-empty courtyards and soft light on the clay walls. Weekends get noticeably busier by late afternoon, with 5pm–6pm the peak crush before closing. If you can only come on a Saturday or Sunday, treat that last hour as one to avoid.
 
 ## How to visit like a local
 
-The Ark is one of Bukhara's best-known sights, not a hidden find, so the trick is timing rather than discovery. Aim for the 9–10am opening window described above — you'll share the ramparts with far fewer people than midday brings.
+The Ark is one of Bukhara's best-known sights, not a hidden find, so the trick is timing rather than discovery. Aim for the 9–10am opening window described above. You'll share the ramparts with far fewer people than midday brings.
 
 - Buy your ticket at the gate; there's rarely a need to book ahead outside peak season.
 - Cash still works well for tickets and any small museum fees inside, though card acceptance has been expanding.
-- Wear shoes with grip — the entrance ramp and interior stairs are worn smooth and uneven in places.
+- Wear shoes with grip. The entrance ramp and interior stairs are worn smooth and uneven in places.
 - Combine the visit with the Bolo Hauz Mosque directly across the square, a five-minute walk, so you see both without backtracking.
-- The mistake most visitors make is rushing the entrance tunnel to get to the "main" courtyard — slow down here, since the corridor itself, with its thick mudbrick walls, is one of the oldest surviving parts of the whole complex.
+- The mistake most visitors make is rushing the entrance tunnel to get to the "main" courtyard, slow down here, since the corridor itself, with its thick mudbrick walls, is one of the oldest surviving parts of the whole complex.
 
 Locals treat the surrounding square as a meeting point and evening gathering spot rather than a tourist plaza, so don't be surprised to see it filling with residents, not just visitors, as the sun drops.
 

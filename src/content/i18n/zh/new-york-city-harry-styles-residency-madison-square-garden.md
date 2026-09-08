@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-city-harry-styles-residency-madison-square-garden
-srcHash: '448c904fe997'
+srcHash: 'ae23d5957870'
 title: Harry Styles 麦迪逊广场花园驻演须知(纽约)
 description: Harry Styles 驻演麦迪逊广场花园(Madison Square Garden),地点为美国纽约市——演出时间为2026年8月26日至10月31日(每周三、周五、周六演出）。演出详情、时间地点，以及如何规划行程。
 quickAnswer: Harry Styles 将在麦迪逊广场花园(Madison Square Garden)举行为期30场的驻演，时间从2026年8月26日持续到10月31日，每周三、周五和周六演出，整个驻演将在万圣节当晚以"Harryween"主题终场收尾。目前门票、具体演出时间以及阵容或曲目安排等细节尚未确认，一切以Ticketmaster和MSG官方网站公布的信息为准，预订机票酒店前请务必先查阅这些官方渠道。

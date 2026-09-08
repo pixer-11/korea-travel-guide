@@ -101,13 +101,13 @@ You feel the scale of the place before you notice the details. The main viharn's
 
 The temple sits inside Chiang Mai's Old City walls, at 2 Samlarn Road, near the western Suan Dok Gate.
 
-Most visitors walk or cycle in from elsewhere in the Old City — it's a flat, easy 10-15 minute stroll from the Three Kings Monument. A tuk-tuk or Grab car from outside the walls takes about 10-20 minutes depending on traffic, and drivers know it by name.
+Most visitors walk or cycle in from elsewhere in the Old City. It's a flat, easy 10-15 minute stroll from the Three Kings Monument. A tuk-tuk or Grab car from outside the walls takes about 10-20 minutes depending on traffic, and drivers know it by name.
 
 If you're doing a walking loop of Old City temples, Wat Phra Singh pairs naturally with Wat Chedi Luang, about 10 minutes away on foot.
 
 ## What to see
 
-Head first for the Lai Kham chapel, tucked behind the main viharn. Its interior murals, painted in the 19th century, depict two folk tales — Sang Thong and Suwannahong — in scenes rich with everyday Lanna life: markets, boats, courtship, gossip.
+Head first for the Lai Kham chapel, tucked behind the main viharn. Its interior murals, painted in the 19th century, depict two folk tales, Sang Thong and Suwannahong, in scenes rich with everyday Lanna life: markets, boats, courtship, gossip.
 
 The Phra Singh Buddha itself sits in the main viharn, a bronze image in the "Chiang Saen" style, draped in saffron cloth donated by worshippers. Look for:
 
@@ -119,21 +119,21 @@ Give yourself roughly an hour. Longer if you linger over the murals, which rewar
 
 ## When to go
 
-This is a well-visited temple, and it shows in the numbers — it's among the most-reviewed religious sites in northern Thailand. Foot traffic is lightest between 7am and 8am, on both weekdays and weekends, before tour groups arrive.
+This is a well-visited temple, and it shows in the numbers. It's among the most-reviewed religious sites in northern Thailand. Foot traffic is lightest between 7am and 8am, on both weekdays and weekends, before tour groups arrive.
 
 Avoid weekend afternoons and evenings, especially the 4pm-11pm stretch, when crowds peak. Opening hours vary by day, so check ahead if you're planning an evening visit once the heat and crowds have eased.
 
-April's Songkran festival brings ceremonial bathing of the Phra Singh Buddha and much larger crowds — atmospheric, but not a quiet visit.
+April's Songkran festival brings ceremonial bathing of the Phra Singh Buddha and much larger crowds, atmospheric, but not a quiet visit.
 
 ## How to visit like a local
 
 Dress matters here more than at some temples: cover shoulders and knees, and remove shoes before entering any building with a Buddha image inside. Sarongs are sometimes available to borrow at the entrance if you arrive underdressed, but don't count on it.
 
-Entry to the grounds and main viharn is typically free, though the Lai Kham chapel and some inner halls may ask a small donation — bring some small cash notes for this and for the donation boxes near the shrines.
+Entry to the grounds and main viharn is typically free, though the Lai Kham chapel and some inner halls may ask a small donation. Bring some small cash notes for this and for the donation boxes near the shrines.
 
 - Walk clockwise around chedis and the ordination hall, following the direction other worshippers move
 - Keep voices low inside the viharns; this remains an active place of worship, not just a sightseeing stop
 - Sit or kneel with your feet pointed away from Buddha images, never toward them
 - Photography is generally fine outdoors and in most halls, but watch for signs restricting flash near the murals
 
-The mistake most visitors make is treating this purely as a photo stop and rushing through in fifteen minutes. Slow down at the Lai Kham murals — that's the payoff. Since it's genuinely popular rather than a quiet find, arriving right at opening is your best tool for having the courtyards to yourself.
+The mistake most visitors make is treating this purely as a photo stop and rushing through in fifteen minutes. Slow down at the Lai Kham murals. That's the payoff. Since it's genuinely popular rather than a quiet find, arriving right at opening is your best tool for having the courtyards to yourself.

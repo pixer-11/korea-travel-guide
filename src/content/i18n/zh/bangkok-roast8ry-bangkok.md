@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-roast8ry-bangkok
-srcHash: '0d0adafe4e4c'
+srcHash: '603333b2db43'
 title: Roast8ry曼谷旅行指南
 description: Roast8ry Bangkok是曼谷一处新晋热门去处，本文介绍它是什么、位于哪里，以及该怎么前往游览。
 quickAnswer: Roast8ry Bangkok是清迈知名精品咖啡品牌在曼谷开出的第一家分店，品牌由2017年世界拉花冠军Arnon Thitiprasert创立，藏身于唐人街宋卡（Song Wat）附近的老式店屋街区之中。来这里可以喝到比赛级别的意式浓缩和手冲咖啡，拉花的精致程度足以让人先拍照再入口。由于新店开业后头几个月营业时间常有调整，前往之前最好先确认一下当前的营业时间。

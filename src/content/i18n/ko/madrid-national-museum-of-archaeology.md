@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: madrid-national-museum-of-archaeology
-srcHash: 'c8aa544fdebb'
+srcHash: '46c4a1b46a7e'
 title: '국립고고학박물관: 마드리드 여행 가이드 (4.7★)'
 description: 마드리드의 국립고고학박물관(Museo Arqueológico Nacional, MAN)은 살라망카 지구(Salamanca) 세라노 거리(Calle de Serrano)에 위치하며 국립도서관 바로 옆에 있습니다. 이베리아 조각과 로마 모자이크부터 이슬람 도자기, 알타미라 동굴 실물 크기 복제품까지 다양한 유물을 소장하고 있습니다. 4.7★ (리뷰 28,588개) — 방문객들의 후기, 운영시간, 그리고 팁을 확인하세요.
 quickAnswer: 마드리드의 국립고고학박물관(Museo Arqueológico Nacional, MAN)은 살라망카 지구(Salamanca) 세라노 거리(Calle de Serrano)에 위치하며 국립도서관 바로 옆에 있습니다. 이베리아 조각과 로마 모자이크부터 이슬람 도자기, 알타미라 동굴 실물 크기 복제품까지 다양한 유물을 소장하고 있습니다. 관람에는 2~3시간 정도를 잡아두고, 가장 한적한 저녁 8~9시경 평일에 방문하는 것이 좋습니다. 주말 오전에 가면 줄을 서야 할 가능성이 큽니다. 레티로 공원(Retiro)이나 골든 트라이앵글 미술관들과도 도보로 이동 가능해 함께 묶어 둘러보기 좋습니다.

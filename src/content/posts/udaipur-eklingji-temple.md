@@ -57,7 +57,7 @@ draft: false
 
 ## Why Eklingji Temple matters
 
-This isn't a ruin or a photo backdrop — it's a living temple the Mewar royal family has worshipped at for over a thousand years. Eklingji, a four-faced black marble form of Shiva, is considered the ruling deity of Udaipur. Even today, the Maharana of Udaipur traditionally visits every Monday, and locals still call him a "diwan" — a mere custodian ruling on the god's behalf.
+This isn't a ruin or a photo backdrop (it's a living temple the Mewar royal family has worshipped at for over a thousand years. Eklingji, a four-faced black marble form of Shiva, is considered the ruling deity of Udaipur. Even today, the Maharana of Udaipur traditionally visits every Monday, and locals still call him a "diwan") a mere custodian ruling on the god's behalf.
 
 That history gives the place a weight you don't get at typical tourist sites. The complex holds over 100 temples within its walled courtyard, some dating to the 8th century, though most of what stands now was rebuilt in the 15th century under Maharana Kumbha.
 
@@ -81,16 +81,16 @@ Set aside 45 minutes to an hour to walk the courtyard's smaller shrines after th
 
 ## When to go
 
-Arrive for the 5–9am window if you can manage an early start — the light is soft, the courtyard is cooler, and the morning aarti tends to be less rushed than the evening one. The 5–7:30pm slot is the other main option, and it's when the temple feels most alive, timed to coincide with sunset.
+Arrive for the 5–9am window if you can manage an early start. The light is soft, the courtyard is cooler, and the morning aarti tends to be less rushed than the evening one. The 5–7:30pm slot is the other main option, and it's when the temple feels most alive, timed to coincide with sunset.
 
-Avoid trying to visit during the 1–5pm gap — the temple is simply closed, and there's nowhere shaded nearby to wait it out comfortably. Mondays can draw a slightly larger crowd given the temple's royal association, so if you want a calmer visit, aim for a weekday morning instead.
+Avoid trying to visit during the 1–5pm gap. The temple is simply closed, and there's nowhere shaded nearby to wait it out comfortably. Mondays can draw a slightly larger crowd given the temple's royal association, so if you want a calmer visit, aim for a weekday morning instead.
 
 ## How to visit like a local
 
 Dress the way you would for any working Hindu temple: shoulders and knees covered, and be ready to remove your shoes before entering the courtyard.
 
-Leather items — belts, wallets, bags — are typically not allowed inside, so leave them in your vehicle rather than at the gate. There's no formal ticket booth for tourists; entry is free, though a small donation at the shrine is customary and appreciated rather than expected.
+Leather items (belts, wallets, bags) are typically not allowed inside, so leave them in your vehicle rather than at the gate. There's no formal ticket booth for tourists; entry is free, though a small donation at the shrine is customary and appreciated rather than expected.
 
-Photography rules are strict around the inner sanctum, and phones are often required to be left with security or in your vehicle. This is a well-known pilgrimage site, not an undiscovered spot, so the aarti times do draw genuine devotees — stand toward the back of the courtyard rather than pushing forward, and follow the lead of people around you rather than photographing the ceremony itself.
+Photography rules are strict around the inner sanctum, and phones are often required to be left with security or in your vehicle. This is a well-known pilgrimage site, not an undiscovered spot, so the aarti times do draw genuine devotees, stand toward the back of the courtyard rather than pushing forward, and follow the lead of people around you rather than photographing the ceremony itself.
 
-If you only have one visit in you, make it the evening aarti — the transition from daylight to lamp-lit dark inside the black marble sanctum is the single most memorable stretch of time you'll spend here.
+If you only have one visit in you, make it the evening aarti, the transition from daylight to lamp-lit dark inside the black marble sanctum is the single most memorable stretch of time you'll spend here.

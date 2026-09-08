@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: fukuoka-manly
-srcHash: '8756038542c4'
+srcHash: '99217a3dc144'
 title: Manly:福冈旅行指南
 description: Manly是一家位于今泉（Imaizumi）的澳洲风情全天候咖啡馆，从天神步行南下即可抵达，以松软的乳清芝士松饼（ricotta hotcakes）、全天供应的早餐拼盘和肉派闻名。
 quickAnswer: Manly是一家位于今泉（Imaizumi）的澳洲风情全天候咖啡馆，从天神步行南下即可抵达，以松软的乳清芝士松饼（ricotta hotcakes）、全天供应的早餐拼盘和肉派闻名。建议在平日上午或午后前往，可以更容易占到户外的小桌子，避开周末早午餐的排队人潮；每人预算约1,500–2,500日元，悠闲用餐大约需要45–75分钟。

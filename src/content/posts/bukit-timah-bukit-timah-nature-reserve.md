@@ -96,7 +96,7 @@ This is also Singapore's highest natural point, topping out at 163 metres. It's 
 
 ## Getting there
 
-The reserve sits on Hindhede Drive, just off Upper Bukit Timah Road. The nearest MRT is Beauty World on the Downtown Line — from Exit B it's roughly a 10–15 minute walk along Chun Tin Road and Hindhede Drive.
+The reserve sits on Hindhede Drive, just off Upper Bukit Timah Road. The nearest MRT is Beauty World on the Downtown Line, from Exit B it's roughly a 10–15 minute walk along Chun Tin Road and Hindhede Drive.
 
 Several bus services also stop along Upper Bukit Timah Road right outside. Driving is possible, but the small car park at the visitor centre fills fast on weekend mornings, so arrive early or use ride-hailing instead.
 
@@ -104,22 +104,22 @@ Several bus services also stop along Upper Bukit Timah Road right outside. Drivi
 
 The main draw is the summit trail, a paved but steadily climbing path that takes most walkers 45–60 minutes each way to the top. Along the way you'll pass buttress-rooted dipterocarps and, if you're lucky, a family of long-tailed macaques crossing the canopy overhead.
 
-For something gentler, loop around Hindhede Quarry near the entrance — a flooded former quarry with a short, flat boardwalk and a good spot to catch your breath in the shade.
+For something gentler, loop around Hindhede Quarry near the entrance, a flooded former quarry with a short, flat boardwalk and a good spot to catch your breath in the shade.
 
 Wildlife to watch for includes:
 
-- Long-tailed macaques (don't feed them or carry visible food — they will take it)
+- Long-tailed macaques (don't feed them or carry visible food. They will take it)
 - Giant squirrels and colugos gliding between trees
 - Banded woodpeckers and other forest birds, more vocal in early morning
 - Monitor lizards near the quarry water's edge
 
-The visitor centre near the entrance has restrooms, water refill points, and simple exhibits on the reserve's ecology — worth five minutes before or after your walk.
+The visitor centre near the entrance has restrooms, water refill points, and simple exhibits on the reserve's ecology, worth five minutes before or after your walk.
 
 ## When to go
 
 The reserve opens daily from 7am to 7pm, and it's genuinely busy. Weekend mornings between 7am and 1pm are the peak crush, with parking overflowing and the summit trail feeling more like a queue than a hike.
 
-Weekday afternoons from 2pm to 7pm are noticeably calmer — fewer joggers, more room on the boardwalk, and a better chance of spotting wildlife undisturbed. Just build in enough daylight to be off the main trails before dusk, since the forest gets dark quickly under the canopy.
+Weekday afternoons from 2pm to 7pm are noticeably calmer, fewer joggers, more room on the boardwalk, and a better chance of spotting wildlife undisturbed. Just build in enough daylight to be off the main trails before dusk, since the forest gets dark quickly under the canopy.
 
 Bring water; there's little shade relief from the humidity even with the canopy cover, and refill points are limited to the visitor centre.
 
@@ -127,8 +127,8 @@ Bring water; there's little shade relief from the humidity even with the canopy 
 
 This reserve draws heavy weekend crowds, so the real trick to enjoying it is timing, not secrecy. Aim for a weekday between 2pm and 7pm, when the trails thin out considerably.
 
-There's no entry fee and nothing to book — you just walk in, so the only real queue is for parking on weekend mornings. Wear closed shoes with grip; the summit trail is paved but slick after rain, and flip-flops are a common regret here.
+There's no entry fee and nothing to book, you just walk in, so the only real queue is for parking on weekend mornings. Wear closed shoes with grip; the summit trail is paved but slick after rain, and flip-flops are a common regret here.
 
-Keep a firm grip on bags and food around the macaques — swinging a plastic bag at them or making eye contact tends to provoke rather than deter. Most visitors quietly detour around a troop rather than pushing through.
+Keep a firm grip on bags and food around the macaques, swinging a plastic bag at them or making eye contact tends to provoke rather than deter. Most visitors quietly detour around a troop rather than pushing through.
 
-The mistake newcomers make is treating this as a quick photo stop. Give the summit trail at least 90 minutes round trip, more if you pause for wildlife, and pack out whatever rubbish you bring in — bins are scarce past the entrance.
+The mistake newcomers make is treating this as a quick photo stop. Give the summit trail at least 90 minutes round trip, more if you pause for wildlife, and pack out whatever rubbish you bring in, bins are scarce past the entrance.

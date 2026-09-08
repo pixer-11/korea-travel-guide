@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-egyptian-bazaar
-srcHash: 'f61cd1271052'
+srcHash: '9bcefb494376'
 title: 'Bazar Egipcio: Guía de viaje de Estambul (4,5★)'
 description: 'El Bazar Egipcio (Mısır Çarşışı), en Eminönü, es un mercado de especias cubierto del siglo XVII con más de 190.000 reseñas y una valoración de 4,5 estrellas: es realmente popular, no un secreto, así que conviene ir temprano.'
 quickAnswer: 'El Bazar Egipcio (Mısır Çarşışı), en Eminönü, es un mercado de especias cubierto del siglo XVII con más de 190.000 reseñas y una valoración de 4,5 estrellas: es realmente popular, no un secreto, así que conviene ir temprano. El horario más tranquilo es de 8 a 11 de la mañana entre semana, o de 8 a 12 los fines de semana; evita el ajetreo de 1 a 7 de la tarde en fin de semana. Calcula entre 45 y 75 minutos, paga en efectivo (liras) para tener más margen de regateo, y combínalo con un paseo hasta la cercana Mezquita Nueva o el Gran Bazar.'

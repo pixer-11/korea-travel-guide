@@ -77,7 +77,7 @@ draft: false
 
 You come for one view: a curved steel walkway hanging 100 metres above the rainforest canopy, with the Andaman Sea and Thai islands spread out beyond it. The bridge itself curves like a drawn bow, anchored to the mountain by a single pylon. Look down through the mesh grating and you see treetops, not safety railing.
 
-It's one of Langkawi's most visited attractions for good reason — the combination of engineering and geology here is genuinely rare.
+It's one of Langkawi's most visited attractions for good reason, the combination of engineering and geology here is genuinely rare.
 
 ## Getting there
 
@@ -95,22 +95,22 @@ The cable car ride is half the attraction. The middle section is the steepest ca
 
 At the top, a viewing platform gives you your first look at the bridge's arc before you actually step onto it. Crossing takes only a few minutes, but everyone stops halfway to take photos over the glass-paneled midpoint.
 
-On a clear day you can see across to Thailand's Tarutao islands. On a hazier one, the cloud forest below still makes the crossing worthwhile — mist drifting through the canopy underneath your feet.
+On a clear day you can see across to Thailand's Tarutao islands. On a hazier one, the cloud forest below still makes the crossing worthwhile, mist drifting through the canopy underneath your feet.
 
 ## When to go
 
 The bridge and cable car run daily from 9:30am to 6:00pm. Weekend crowds build steadily and peak between 11am and 4pm, when queues for the cable car can stretch well past the platform.
 
-Arrive right at 9:30am if you want the cabin and bridge close to yourself. The quietest window on both weekdays and weekends is 5pm–6pm, right before closing — the light is softer then too, good for photos over the sea.
+Arrive right at 9:30am if you want the cabin and bridge close to yourself. The quietest window on both weekdays and weekends is 5pm–6pm, right before closing. The light is softer then too, good for photos over the sea.
 
 Avoid midday on weekends entirely if you can. That's when tour buses from the resorts arrive in bulk.
 
 ## How to visit like a local
 
-This is a well-visited, ticketed attraction, not a hidden find — so the smart approach is timing, not secrecy.
+This is a well-visited, ticketed attraction, not a hidden find, so the smart approach is timing, not secrecy.
 
 - **Book ahead**: buy cable car tickets online in advance where possible; walk-up queues during peak hours can run over an hour.
-- **Go early or late**: 9:30am opening or the 5–6pm window are consistently the calmest, per foot-traffic data — weekends are worst 11am–4pm.
+- **Go early or late**: 9:30am opening or the 5–6pm window are consistently the calmest, per foot-traffic data. Weekends are worst 11am–4pm.
 - **Pay by card or cash** at the ticket counter; both are accepted, but having cash speeds up small transactions at the base station cafés.
 - **Dress light but bring a layer**: the summit is noticeably cooler and windier than the coast.
 - **Check the weather first**: the SkyCab occasionally pauses operations in high winds or storms, common in the afternoon during monsoon months (roughly April to October).
@@ -120,4 +120,4 @@ This is a well-visited, ticketed attraction, not a hidden find — so the smart 
 
 Oriental Village at the base has restaurants, a small lake, and shops, useful for killing time before a cable car slot. Telaga Tujuh (Seven Wells Waterfall) is a short drive away and pairs naturally with a Sky Bridge morning. If you want the full day, add Langkawi's northwest coastline and Burau Bay itself, both walkable from the base station.
 
-Plan for at least half a day total — an hour for the cable car and bridge if timed well, longer if you visit during a busy window and factor in queueing on both the way up and back down.
+Plan for at least half a day total, an hour for the cable car and bridge if timed well, longer if you visit during a busy window and factor in queueing on both the way up and back down.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuantan-kuantan-188
-srcHash: 'b3e132e5f103'
+srcHash: 'b72c271426e1'
 title: 'Kuantan 188: Guía de viaje (4,4★)'
 description: 'Kuantan 188 es la torre de observación y el espacio de ocio junto al río, ubicado en Jalan Besar, a orillas del río Kuantan, en la capital del estado de Pahang. 4,4★ (3.429 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kuantan 188 es la torre de observación y el espacio de ocio junto al río, ubicado en Jalan Besar, a orillas del río Kuantan, en la capital del estado de Pahang. Para una visita más tranquila, conviene ir entre semana, cuando la afluencia se mantiene baja desde la apertura a las 10:00 hasta las 23:00; conviene reservar las noches de fin de semana, entre las 18:00 y las 23:00, para cuando hay más ambiente. Calcule una hora o dos, más si se queda a cenar junto al agua.

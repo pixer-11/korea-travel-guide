@@ -70,7 +70,7 @@ aiGenerated: true
 ---
 ## Why Tartine still pulls a line
 
-You smell it before you see the sign: butter, scorched sugar, the faint tang of fermenting dough drifting out the propped-open door onto Guerrero Street. Tartine Bakery has been a fixture of the Mission District since 2002, and it's the kind of place that shaped how a generation of American bakeries think about bread — that dark, blistered country loaf under the glass, the pastry case stacked with croissants glazed like stained glass.
+You smell it before you see the sign: butter, scorched sugar, the faint tang of fermenting dough drifting out the propped-open door onto Guerrero Street. Tartine Bakery has been a fixture of the Mission District since 2002, and it's the kind of place that shaped how a generation of American bakeries think about bread, that dark, blistered country loaf under the glass, the pastry case stacked with croissants glazed like stained glass.
 
 This isn't a quiet corner café anymore. With a rating that's held steady at 4.5 stars across nearly 6,000 reviews, it's very much on the tourist circuit as well as the neighborhood's own errand list, and the crowd inside on a Saturday morning reflects that.
 
@@ -82,20 +82,20 @@ Parking in the Mission is tight and largely metered, so most visitors either wal
 
 ## What to eat
 
-The morning bun is the thing people queue for — a croissant-dough spiral rolled in sugar and orange zest, caramelized at the edges into something closer to candy than pastry. The country loaf, dense and sour with a cracked, almost black crust, is what put Tartine on the map, and slices of it turn up under the hot pressed sandwiches at lunch, including a well-known ham-and-cheese and a rotating vegetable option.
+The morning bun is the thing people queue for, a croissant-dough spiral rolled in sugar and orange zest, caramelized at the edges into something closer to candy than pastry. The country loaf, dense and sour with a cracked, almost black crust, is what put Tartine on the map, and slices of it turn up under the hot pressed sandwiches at lunch, including a well-known ham-and-cheese and a rotating vegetable option.
 
-Coffee here is straightforward and well-pulled rather than showy — an espresso or drip to go with whatever's still warm from the oven. Expect a mid-range tab: nothing at Tartine is expensive by SF standards, but a pastry, a sandwich, and a coffee add up faster than you'd guess at a bakery counter.
+Coffee here is straightforward and well-pulled rather than showy, an espresso or drip to go with whatever's still warm from the oven. Expect a mid-range tab: nothing at Tartine is expensive by SF standards, but a pastry, a sandwich, and a coffee add up faster than you'd guess at a bakery counter.
 
 ## The space itself
 
-Inside, it's compact — a glass pastry case running along one wall, a small huddle of tables, and a service counter that becomes the entire choreography of the room once the morning rush hits. There's no plush lounging here; this is a grab-it-and-go or perch-on-a-stool kind of bakery, and most of the seating fills within minutes of a batch coming out. Large windows along Guerrero let in the kind of flat, bright coastal light San Francisco mornings are known for, which is part of why the front tables go first.
+Inside, it's compact, a glass pastry case running along one wall, a small huddle of tables, and a service counter that becomes the entire choreography of the room once the morning rush hits. There's no plush lounging here; this is a grab-it-and-go or perch-on-a-stool kind of bakery, and most of the seating fills within minutes of a batch coming out. Large windows along Guerrero let in the kind of flat, bright coastal light San Francisco mornings are known for, which is part of why the front tables go first.
 
 ## When to go
 
-Check current hours before you go, since bakery schedules can shift. The measured foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening — 7:30am to 9am — before the case has been picked over and before the line snakes toward the door.
+Check current hours before you go, since bakery schedules can shift. The measured foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening, 7:30am to 9am, before the case has been picked over and before the line snakes toward the door.
 
 ## How to visit like a local
 
-Arrive at or just after opening, not because it's charming to watch the ovens start the day, but because by mid-morning on weekends the line can stretch out onto the sidewalk and the best morning buns sell out. Order at the counter, pay by card or tap (cash isn't necessary here), and don't expect table service — find your own seat if one's free, or take your order and walk toward Dolores Park.
+Arrive at or just after opening, not because it's charming to watch the ovens start the day, but because by mid-morning on weekends the line can stretch out onto the sidewalk and the best morning buns sell out. Order at the counter, pay by card or tap (cash isn't necessary here), and don't expect table service, find your own seat if one's free, or take your order and walk toward Dolores Park.
 
-The etiquette locals follow: know your order before you reach the register, since the person behind you has a bus to catch. The mistake first-timers make is treating this like a sit-down café for a leisurely breakfast — it's really a bakery counter with a few tables attached, best treated as a fast, purposeful stop rather than a long lingering one.
+The etiquette locals follow: know your order before you reach the register, since the person behind you has a bus to catch. The mistake first-timers make is treating this like a sit-down café for a leisurely breakfast. It's really a bakery counter with a few tables attached, best treated as a fast, purposeful stop rather than a long lingering one.

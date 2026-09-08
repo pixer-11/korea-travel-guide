@@ -67,50 +67,50 @@ draft: false
 ---
 ## Why go
 
-Mong Kok doesn't do quiet. Neon, market stalls, the crush of Nathan Road — and then you ride the escalators up into Langham Place and find Beans Cafe, a small coffee shop that somehow keeps its calm.
+Mong Kok doesn't do quiet. Neon, market stalls, the crush of Nathan Road, and then you ride the escalators up into Langham Place and find Beans Cafe, a small coffee shop that somehow keeps its calm.
 
 At 4.7 stars from over 200 reviewers, it's punching well above its size. This isn't a place chasing Instagram queues. It's a genuine slow-down spot in one of the densest shopping districts on the planet.
 
 ## Getting there
 
-Langham Place sits right above Mong Kok MTR Station — take Exit C3 and you're essentially inside the mall already. The tower is split into odd zigzagging escalator banks, which trips up first-timers.
+Langham Place sits right above Mong Kok MTR Station. Take Exit C3 and you're essentially inside the mall already. The tower is split into odd zigzagging escalator banks, which trips up first-timers.
 
 Beans Cafe is tucked into one of the mall's upper mezzanine levels. Look for the mall directory near the main atrium escalators; 4A is a mezzanine level, easy to miss if you're riding straight through to the cinema floors above.
 
 ## What to expect
 
-The counter here runs a standard specialty-coffee menu — espresso drinks, pour-overs, a few tea options — plus light bites, the kind of setup built for lingering rather than grab-and-go. Expect mismatched or minimalist seating, big enough to open a laptop, small enough that it never feels like a food-court chain outlet.
+The counter here runs a standard specialty-coffee menu (espresso drinks, pour-overs, a few tea options) plus light bites, the kind of setup built for lingering rather than grab-and-go. Expect mismatched or minimalist seating, big enough to open a laptop, small enough that it never feels like a food-court chain outlet.
 
-It's priced mid-range for Hong Kong café culture: not a bargain, not splurge territory. Bring cash or card — mall cafés here typically take both, plus Octopus for quick taps.
+It's priced mid-range for Hong Kong café culture: not a bargain, not splurge territory. Bring cash or card, mall cafés here typically take both, plus Octopus for quick taps.
 
 ## When to go
 
-The crowd data here is unusually specific, and worth following. On weekdays, it tends to quiet down later in the day — basically the whole back half of the day. Weekends flip the pattern: things stay busier through the afternoon and evening, easing off later at night.
+The crowd data here is unusually specific, and worth following. On weekdays, it tends to quiet down later in the day, basically the whole back half of the day. Weekends flip the pattern: things stay busier through the afternoon and evening, easing off later at night.
 
 If you want a table to yourself, that means:
 
-- Weekday afternoon or evening — anytime after 4pm
-- Weekend — hold off until 9pm, right before close
+- Weekday afternoon or evening, anytime after 4pm
+- Weekend, hold off until 9pm, right before close
 - Avoid weekend early-afternoon prime shopping hours (1pm–8pm) if you want space to breathe
 
 Hours run 12pm–10pm every day of the week, no early-morning coffee run option here.
 
 ## What to see nearby
 
-Langham Place itself eats up an hour or two — it's a vertical mall with cinema, high street fashion, and a design-forward atrium worth a look even if you're not buying anything. Once you're back at street level, Mong Kok's market strips are minutes away:
+Langham Place itself eats up an hour or two. It's a vertical mall with cinema, high street fashion, and a design-forward atrium worth a look even if you're not buying anything. Once you're back at street level, Mong Kok's market strips are minutes away:
 
-- **Ladies' Market** — Tung Choi Street, daytime-to-evening stalls
-- **Sneaker Street** — Fa Yuen Street, for trainer culture
-- **Flower Market Road** and **Bird Garden** — a short walk north, a completely different pace
+- **Ladies' Market**, Tung Choi Street, daytime-to-evening stalls
+- **Sneaker Street**, Fa Yuen Street, for trainer culture
+- **Flower Market Road** and **Bird Garden**, a short walk north, a completely different pace
 
-Pairing Beans Cafe with any of these makes sense as a rest stop — sit down, decompress from the market noise, then head back out.
+Pairing Beans Cafe with any of these makes sense as a rest stop, sit down, decompress from the market noise, then head back out.
 
 ## How to visit like a local
 
-Because it's tucked on a mezzanine level rather than the main concourse, Beans Cafe doesn't pull the drop-in mall traffic that ground-floor chains get. That's exactly why it stays calm — most visitors never find Level 4A unless they're headed there on purpose.
+Because it's tucked on a mezzanine level rather than the main concourse, Beans Cafe doesn't pull the drop-in mall traffic that ground-floor chains get. That's exactly why it stays calm, most visitors never find Level 4A unless they're headed there on purpose.
 
-Order at the counter, as is standard for Hong Kong café-style shops; there's no need to wait for table service. Payment is typically cash, card, or Octopus tap — all common in mall settings.
+Order at the counter, as is standard for Hong Kong café-style shops; there's no need to wait for table service. Payment is typically cash, card, or Octopus tap, all common in mall settings.
 
-The mistake most visitors make is treating Langham Place purely as a shopping stop and rushing through without checking the upper mezzanine floors, missing spots like this entirely. If you want the calmest possible visit, aim for a weekday after 4pm — you'll likely have your pick of seats.
+The mistake most visitors make is treating Langham Place purely as a shopping stop and rushing through without checking the upper mezzanine floors, missing spots like this entirely. If you want the calmest possible visit, aim for a weekday after 4pm. You'll likely have your pick of seats.
 
 Don't expect it to feel like a hidden gem forever, but for now it's a legitimately under-the-radar pause point in one of Kowloon's busiest pockets.

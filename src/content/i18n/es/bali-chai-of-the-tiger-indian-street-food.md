@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-chai-of-the-tiger-indian-street-food
-srcHash: '0e073585929a'
+srcHash: '3a9abf07cec1'
 title: 'CHAI OF THE TIGER (comida callejera india): dónde comer en Bali'
 description: CHAI OF THE TIGER es un pequeño local de comida callejera india en Tebesaya, Peliatan (justo al sureste del centro de Ubud), donde sirven chaat, kathi rolls y masala chai en un ambiente informal y sin pretensiones.
 quickAnswer: CHAI OF THE TIGER es un pequeño local de comida callejera india en Tebesaya, Peliatan (justo al sureste del centro de Ubud), donde sirven chaat, kathi rolls y masala chai en un ambiente informal y sin pretensiones. Ha conseguido una calificación de 4.6 con casi 800 reseñas sin convertirse en una atracción masiva para turistas, así que conviene ir a almorzar o a cenar temprano, esperar un menú compacto de clásicos callejeros indios en lugar de una carta completa de curry-house, y llevar efectivo de reserva aunque acepten tarjetas.

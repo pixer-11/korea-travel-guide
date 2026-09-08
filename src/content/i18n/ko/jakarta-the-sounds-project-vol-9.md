@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jakarta-the-sounds-project-vol-9
-srcHash: '4b3c3387e144'
+srcHash: 'd13aeedb1e16'
 title: 더 사운즈 프로젝트 Vol. 9 안내 (자카르타)
 description: 인도네시아 자카르타에서 2026년 8월 7일부터 9일까지 열릴 예정이었던 더 사운즈 프로젝트 Vol. 9. 3일간 진행되는 이 페스티벌의 발표된 일정, 장소, 라인업, 티켓 정보를 담았습니다.
 quickAnswer: 더 사운즈 프로젝트 Vol. 9는 2026년 8월 7일부터 9일까지 북자카르타(North Jakarta) 앙콜(Ancol)의 에코벤션 에코파크(Ecovention Ecopark)에서 열릴 예정이었습니다. 사흘간 다양한 장르를 아우르는 라인업으로, 파뭉카스(Pamungkas)와 리즈키 페비안(Rizky Febian) 같은 인도네시아 아티스트와 호주 록밴드 젯(Jet) 같은 해외 게스트가 함께 무대에 오를 예정이었습니다. 티켓은 더 사운즈 프로젝트 공식 채널을 통해 판매되었습니다.

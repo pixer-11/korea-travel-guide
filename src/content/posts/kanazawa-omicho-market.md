@@ -104,9 +104,9 @@ Kanazawa built its wealth on the Sea of Japan's cold currents, and Omicho Market
 
 ## Getting there and getting oriented
 
-The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop — about 10 minutes and a couple hundred yen. Walking takes roughly 15-20 minutes if the weather's cooperating.
+The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop, about 10 minutes and a couple hundred yen. Walking takes roughly 15-20 minutes if the weather's cooperating.
 
-Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building — it's more like 170 stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start.
+Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more like 170 stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start.
 
 ## What to eat and see
 
@@ -114,28 +114,28 @@ Seafood is the headline act, but the market rewards slow wandering.
 
 - Kaisendon (seafood rice bowls) piled with sashimi-grade crab, uni, and salmon roe
 - Nodoguro (blackthroat sea perch), a Hokuriku specialty often grilled or served raw
-- Kanazawa's own Kaga vegetables — knobby lotus root, sweet potatoes, and stubby cucumbers
+- Kanazawa's own Kaga vegetables, knobby lotus root, sweet potatoes, and stubby cucumbers
 - Fresh oysters shucked to order at counter stalls
 - Wagashi and mochi stands tucked between the fish counters for something sweet after
 
-Several upstairs and side-alley counters turn the morning's catch into breakfast bowls before 10am. Sit at the counter and watch the knife work — it's part of the show.
+Several upstairs and side-alley counters turn the morning's catch into breakfast bowls before 10am. Sit at the counter and watch the knife work. It's part of the show.
 
 ## When to go
 
-The market runs 9am to 5pm every day of the week, so there's no early-bird loophole before opening. The calmest stretch is right at opening on either weekday or weekend mornings, before the tour groups arrive. Avoid 11am to 3pm on weekends specifically — that's when the lanes bottleneck with cameras and shopping bags. A weekday morning right after 9am is your best bet for actually seeing the stallholders work rather than the backs of other visitors' heads.
+The market runs 9am to 5pm every day of the week, so there's no early-bird loophole before opening. The calmest stretch is right at opening on either weekday or weekend mornings, before the tour groups arrive. Avoid 11am to 3pm on weekends specifically. That's when the lanes bottleneck with cameras and shopping bags. A weekday morning right after 9am is your best bet for actually seeing the stallholders work rather than the backs of other visitors' heads.
 
 ## How to visit like a local
 
-Omicho isn't a quiet, undiscovered corner of Kanazawa — it's one of the city's most-visited food destinations, so plan around the crowds rather than expecting to dodge them entirely.
+Omicho isn't a quiet, undiscovered corner of Kanazawa. It's one of the city's most-visited food destinations, so plan around the crowds rather than expecting to dodge them entirely.
 
 - Arrive at or just after 9am, especially on a weekday, for elbow room and fresher morning selections
 - Bring cash for smaller stalls; many now take IC cards or credit cards, but not all do
-- Point and ask "kore, kudasai" (this, please) if you don't speak Japanese — vendors are used to it
+- Point and ask "kore, kudasai" (this, please) if you don't speak Japanese, vendors are used to it
 - Skip the urge to haggle; prices are generally fixed, unlike some Asian markets
-- Eat where you buy — many stalls sell single oysters or skewers meant to be eaten standing right there, not carried off
+- Eat where you buy, many stalls sell single oysters or skewers meant to be eaten standing right there, not carried off
 - Watch for the second, quieter arcade past the main covered street, where locals still buy daily groceries alongside the tourist-facing seafood counters
 
-The biggest mistake visitors make is treating Omicho purely as a photo op and rushing the food stalls near the entrance. Push a little further in — the crowd thins, the produce stalls appear, and you start to see the market that actually feeds Kanazawa's restaurants and households, not just its visitors.
+The biggest mistake visitors make is treating Omicho purely as a photo op and rushing the food stalls near the entrance. Push a little further in, the crowd thins, the produce stalls appear, and you start to see the market that actually feeds Kanazawa's restaurants and households, not just its visitors.
 
 ## Nearby to pair with your visit
 

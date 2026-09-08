@@ -60,7 +60,7 @@ You see it long before you reach it: a ring of crenellated walls crowning a bare
 
 This hill was probably sacred before Ephesus even existed. Tradition holds that St. John the Evangelist was buried here, which is why a huge basilica bearing his name spreads across the slope just below the fortress walls.
 
-Byzantines fortified the hill, then Seljuk Turks rebuilt and expanded it in the 14th century — the citadel you climb today is mostly their work, patched over centuries.
+Byzantines fortified the hill, then Seljuk Turks rebuilt and expanded it in the 14th century. The citadel you climb today is mostly their work, patched over centuries.
 
 Inside the walls you'll find a small mosque, cistern remains, and a keep with sweeping views over Selçuk's rooftops, the İsa Bey Mosque, and the marshy plain where the Aegean once reached the base of Ephesus itself.
 
@@ -76,7 +76,7 @@ Most visitors combine it with the basilica ruins and the Ephesus Museum in the s
 
 ## What to see inside
 
-The climb itself is part of the experience — a stone path zigzags up through scrubby pine and past crumbling defensive towers before reaching the gate.
+The climb itself is part of the experience, a stone path zigzags up through scrubby pine and past crumbling defensive towers before reaching the gate.
 
 Once inside, walk the perimeter walls first. The views stretch over the Bülbül Dağı hills, the flat valley where Ephesus's harbor silted up over centuries, and the white cube of the İsa Bey Mosque below.
 
@@ -85,13 +85,13 @@ Once inside, walk the perimeter walls first. The views stretch over the Bülbül
 - Cisterns cut into the rock, once vital for a hilltop under siege
 - Wide views over the Basilica of St. John's fallen columns directly below
 
-Bring water — there's little shade once you're past the entrance gate, and the stone paths hold heat well into late afternoon.
+Bring water. There's little shade once you're past the entrance gate, and the stone paths hold heat well into late afternoon.
 
 ## When to go
 
 The citadel opens daily from 9am to 4:30pm, with no weekday variation, so plan your visit inside that window and confirm before you go in case of seasonal changes.
 
-Arrive close to opening if you want soft morning light and cooler temperatures for the climb — by midday in summer, the exposed walls turn into a sun trap.
+Arrive close to opening if you want soft morning light and cooler temperatures for the climb, by midday in summer, the exposed walls turn into a sun trap.
 
 Because it's overshadowed by Ephesus itself, Ayasuluk rarely feels crowded even at midday, but early is still more comfortable underfoot and on the eyes.
 
@@ -99,14 +99,14 @@ Spring and autumn mornings are ideal: warm enough for the view, cool enough for 
 
 ## How to visit like a local
 
-Treat Ayasuluk as a quiet detour rather than a tick-box stop — it's well-known among visitors to the region, but far fewer people bother with the climb than head straight for Ephesus.
+Treat Ayasuluk as a quiet detour rather than a tick-box stop. It's well-known among visitors to the region, but far fewer people bother with the climb than head straight for Ephesus.
 
 Buy your ticket at the small booth near the entrance path; card payment is generally accepted, but carrying some cash in Turkish lira is a sensible backup here as at most small Turkish sites.
 
 Wear real shoes. The path and interior are uneven stone and gravel, not paved walkway, and sandals make the descent slower than it needs to be.
 
-Pair the visit with the Basilica of St. John ruins at the base of the hill — one ticket logic often covers both, and walking between them takes minutes.
+Pair the visit with the Basilica of St. John ruins at the base of the hill, one ticket logic often covers both, and walking between them takes minutes.
 
 Locals and regular guides treat this as the calm bookend to an Ephesus day: come here first in the cool morning, then head to the main ruins once the crowds have thinned there too.
 
-Don't rush the walls. The real reward isn't a single monument but the whole panorama — stork nests on the aqueduct, minarets, distant hills where the sea used to reach.
+Don't rush the walls. The real reward isn't a single monument but the whole panorama, stork nests on the aqueduct, minarets, distant hills where the sea used to reach.

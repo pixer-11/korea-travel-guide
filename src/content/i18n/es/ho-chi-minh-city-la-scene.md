@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-la-scene
-srcHash: '95878889682d'
+srcHash: '6044bc6a9c0f'
 title: 'La Scène: guía de viaje de Ho Chi Minh'
 description: 'La Scène en Ho Chi Minh, Vietnam — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: La Scène es una cafetería de todo el día que por la noche se transforma en una sala de escucha de vinilos, dirigida junto a un reconocido coleccionista de discos de Saigón. Es uno de los nombres que los locales no dejan de mencionar dentro de la escena de cafés y bares que hoy cambia a toda velocidad en Ho Chi Minh. Conviene ir por la tarde a tomar un café con calma y así asegurar un buen sitio, y luego volver ya de noche, cuando la aguja cae sobre el disco y la sala se llena. Antes de ir, confirma el horario vigente y si hace falta reservar, ya que en un lugar tan de moda como este los detalles cambian rápido.

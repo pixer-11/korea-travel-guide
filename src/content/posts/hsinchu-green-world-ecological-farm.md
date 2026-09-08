@@ -107,14 +107,14 @@ It's one of the most-reviewed attractions in the Hsinchu area, and the scale sho
 
 The farm sits at 大湖村尾隘子7鄰20號 in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.
 
-From Hsinchu city or the High Speed Rail station, expect roughly 40 to 50 minutes by road. If you don't want to self-drive, a taxi or a pre-arranged driver is the practical fallback — ask your hotel to help book one for the return trip too, since flagging a taxi from the farm itself can be hit or miss.
+From Hsinchu city or the High Speed Rail station, expect roughly 40 to 50 minutes by road. If you don't want to self-drive, a taxi or a pre-arranged driver is the practical fallback. Ask your hotel to help book one for the return trip too, since flagging a taxi from the farm itself can be hit or miss.
 
 ## What to see and do
 
 Set aside a half-day. The park is genuinely large, and rushing it defeats the purpose.
 
 - **Animal encounters**: expect kangaroos, capybaras, lemurs and a walk-through bird aviary where parrots and hornbills perch close enough to photograph without a zoom lens.
-- **Animal shows**: scheduled performances (times are posted at the entrance and can shift seasonally) draw the biggest crowds of the day — check the board as soon as you arrive and plan your route around them.
+- **Animal shows**: scheduled performances (times are posted at the entrance and can shift seasonally) draw the biggest crowds of the day. Check the board as soon as you arrive and plan your route around them.
 - **Botanical trails**: fern groves, a lakeside boardwalk, and greenhouse sections showcasing Taiwan's subtropical plant life, good for a slower, quieter stretch after the animal areas.
 - **Lake area**: paddle boats and lakeside benches make a natural rest point roughly halfway through a visit.
 
@@ -122,7 +122,7 @@ Wear real shoes. The paths are mostly paved but climb and dip through hillside t
 
 ## When to go
 
-The farm is open daily from 8:30am to 5:30pm, with no weekly closing day currently listed — still, confirm this before you drive out, since seasonal hours do shift.
+The farm is open daily from 8:30am to 5:30pm, with no weekly closing day currently listed, still, confirm this before you drive out, since seasonal hours do shift.
 
 Weekdays are your best bet for breathing room, with the calm stretching across the whole 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday.
 
@@ -132,13 +132,13 @@ If you can only come on a Saturday or Sunday, arrive right at 8:30am opening to 
 
 This is a genuinely popular destination, not a hidden find, so the smart move is timing rather than secrecy.
 
-- **Go early on a weekday** if your schedule allows — the 9am–5pm quiet window means you can walk the animal show circuit without queuing for a viewing spot.
+- **Go early on a weekday** if your schedule allows. The 9am–5pm quiet window means you can walk the animal show circuit without queuing for a viewing spot.
 - **Book or check show times first.** Head straight to the information board at the entrance and build your loop around the animal show schedule rather than wandering and hoping to catch one.
 - **Bring cash and a card.** Ticket counters and most on-site food stalls accept both, but smaller snack vendors inside sometimes favor cash.
-- **Pace yourself.** The site is hillier and larger than photos suggest — treat it as a walking day, not a quick stop.
+- **Pace yourself.** The site is hillier and larger than photos suggest, treat it as a walking day, not a quick stop.
 - **The common mistake**: visitors who arrive after 10am on a weekend and try to see everything end up rushing the last hour before closing. Come earlier, or accept you'll skip a section.
-- Bring a hat and water refill bottle — shade is generous but the open paddock areas get warm by midday.
+- Bring a hat and water refill bottle, shade is generous but the open paddock areas get warm by midday.
 
 ## Nearby
 
-Beipu Old Street is a short drive away and worth pairing with your visit — it's known for Hakka lei cha (pounded tea) and persimmon cakes, a good way to close out the day after a morning at the farm.
+Beipu Old Street is a short drive away and worth pairing with your visit. It's known for Hakka lei cha (pounded tea) and persimmon cakes, a good way to close out the day after a morning at the farm.

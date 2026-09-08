@@ -65,13 +65,13 @@ draft: false
 
 ## Why go
 
-You come to this garden for the greenhouses, not just the lawns. Since 1857, this corner of Parc de la Tête d'Or has been quietly assembling one of France's great living plant collections — some 15,000 species packed into a network of Victorian-style glasshouses and outdoor beds.
+You come to this garden for the greenhouses, not just the lawns. Since 1857, this corner of Parc de la Tête d'Or has been quietly assembling one of France's great living plant collections, some 15,000 species packed into a network of Victorian-style glasshouses and outdoor beds.
 
 It's free, it's shaded, and it rewards slow walking rather than a quick photo stop.
 
 ## What you'll actually see
 
-The greenhouses are the heart of the visit. Step through the door and the air changes instantly — humid, warm, thick with the smell of wet soil and leaf mould.
+The greenhouses are the heart of the visit. Step through the door and the air changes instantly, humid, warm, thick with the smell of wet soil and leaf mould.
 
 Giant Amazonian water lilies float in a central pool under glass. Orchids cling to bark in a side house. A cactus and succulent room bakes in dry heat just a short walk away, a deliberate contrast that makes the whole complex feel like a tour through several climates in twenty minutes.
 
@@ -90,25 +90,25 @@ Tram T1 stops close to the park's main gates, and several bus lines run along Bo
 
 ## When to go
 
-Hours run 9am to 6pm Monday through Saturday, and 9am to 5pm on Sunday — plan your last hour accordingly, especially on Sundays when the gate closes an hour earlier.
+Hours run 9am to 6pm Monday through Saturday, and 9am to 5pm on Sunday. Plan your last hour accordingly, especially on Sundays when the gate closes an hour earlier.
 
 Crowd patterns here are predictable. Weekday mornings between 9am and 10am are consistently the quietest stretch, with the greenhouses nearly empty and the light still soft.
 
-Weekends are busiest from 1pm to 6pm, when families fill the park for the afternoon. If you're set on visiting Saturday or Sunday, arrive right at opening — the whole day tends to be calmer than a weekday afternoon, but the 1pm surge is worth avoiding either way.
+Weekends are busiest from 1pm to 6pm, when families fill the park for the afternoon. If you're set on visiting Saturday or Sunday, arrive right at opening, the whole day tends to be calmer than a weekday afternoon, but the 1pm surge is worth avoiding either way.
 
-Spring and early summer bring the outdoor beds into full bloom, but the greenhouses are worth visiting in any season — they're one of the few parts of this trip immune to Lyon's grey winter skies.
+Spring and early summer bring the outdoor beds into full bloom, but the greenhouses are worth visiting in any season. They're one of the few parts of this trip immune to Lyon's grey winter skies.
 
 ## How to visit like a local
 
-Entry to both the park and the botanical garden is free, so there's no ticket line to plan around — just walk in.
+Entry to both the park and the botanical garden is free, so there's no ticket line to plan around, just walk in.
 
 The greenhouses sometimes close for a short lunch break or have slightly reduced hours on individual buildings, so don't expect every glasshouse open the instant the gate does; check signage at the entrance rather than assuming.
 
 This is a well-known Lyon attraction, not a quiet secret, so the smart move is timing rather than avoidance. Come on a weekday morning between 9 and 10 if you want the greenhouses to yourself.
 
-Bring the family bikes or a picnic blanket if you're combining this with the wider park — locals treat Tête d'Or as an all-day green space, and the botanical garden as one stop within it, alongside the lake and the free zoo nearby.
+Bring the family bikes or a picnic blanket if you're combining this with the wider park, locals treat Tête d'Or as an all-day green space, and the botanical garden as one stop within it, alongside the lake and the free zoo nearby.
 
-Photographers should head straight for the Amazonian water lily pool early in the day, before the glass fogs up with midday humidity and foot traffic. Wear layers you can shed — the tropical house runs noticeably warmer than the outdoor paths, and the temperature swing between houses catches people off guard.
+Photographers should head straight for the Amazonian water lily pool early in the day, before the glass fogs up with midday humidity and foot traffic. Wear layers you can shed. The tropical house runs noticeably warmer than the outdoor paths, and the temperature swing between houses catches people off guard.
 
 ## Nearby to combine
 

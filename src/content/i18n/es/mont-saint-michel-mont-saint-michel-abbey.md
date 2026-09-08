@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mont-saint-michel-mont-saint-michel-abbey
-srcHash: 'f1a64807c480'
+srcHash: 'd84de9e76472'
 title: 'Abadía del Mont-Saint-Michel: guía de viaje del Mont Saint-Michel'
 description: 'La abadía del Mont-Saint-Michel abre todos los días de 9:00 a 18:00 y, con más de 15.000 reseñas, es uno de los lugares más visitados de Francia: no es un rincón secreto, sino una parada imprescindible que conviene organizar con cuidado.'
 quickAnswer: 'La abadía del Mont-Saint-Michel abre todos los días de 9:00 a 18:00 y, con más de 15.000 reseñas, es uno de los lugares más visitados de Francia: no es un rincón secreto, sino una parada imprescindible que conviene organizar con cuidado. Conviene llegar justo a las 9:00 o después de las 16:00 para evitar la avalancha de fin de semana entre las 11:00 y las 17:00, y hay que reservar entre dos y tres horas para la subida, el claustro y las criptas. Use calzado adecuado: los adoquines de la Grande Rue y las escaleras de la abadía son empinados, irregulares y no perdonan un mal paso.'

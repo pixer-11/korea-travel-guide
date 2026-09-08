@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: san-francisco-the-happy-crane
-srcHash: '1fdfe40a059c'
+srcHash: '785a0a4e3958'
 title: '해피 크레인: 샌프란시스코 여행 가이드'
 description: 미국 샌프란시스코에서 지금 가장 화제가 되고 있는 레스토랑, 해피 크레인(The Happy Crane)을 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 알려드립니다.
 quickAnswer: 해피 크레인은 샌프란시스코 헤이스 밸리(Hayes Valley)에 자리한 모던 차이니즈 레스토랑으로, 보 이노베이션(Bo Innovation)과 베누(Benu)에서 경력을 쌓은 셰프 제임스 유엔 리옹 패리(James Yeun Leong Parry)가 이끌고 있으며, 이 동네 메인 레스토랑 거리에서 예전에 무슈 벤자민(Monsieur Benjamin)이 있던 자리에 들어섰습니다. 현재 샌프란시스코에서 예약하기 가장 어려운 곳 중 하나로 꼽히는데, 이터(Eater)가 올해의 신규 베스트 레스토랑으로 선정했고 콩데 나스트(Condé Nast)도 2026년 핫 리스트에 이름을 올렸습니다. 그러니 예약 시스템이 허용하는 한 최대한 미리 온라인으로 예약하고, 방문 전에 최신 영업시간을 다시 한번 확인하시기 바랍니다.

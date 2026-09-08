@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-plaza-mayor
-srcHash: '072c2bf81b24'
+srcHash: '96cede451d66'
 title: 马约尔广场:马德里旅行指南
 description: 马约尔广场（Plaza Mayor）是马德里中央区（Centro）一座宏伟的17世纪拱廊广场，从太阳门（Puerta del Sol）向南步行五分钟即到——来此欣赏建筑和费利佩三世的骑马雕像，但用餐建议去别处，因为拱廊下的咖啡馆是按游客价格定的。
 quickAnswer: 马约尔广场（Plaza Mayor）是马德里中央区（Centro）一座宏伟的17世纪拱廊广场，从太阳门（Puerta del Sol）向南步行五分钟即到——来此欣赏建筑和费利佩三世的骑马雕像，但用餐建议去别处，因为拱廊下的咖啡馆是按游客价格定的。清晨或天黑之后前来可以避开人群；正午时分则十分拥挤。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-hai-s-restaurant
-srcHash: '0e20c64f984b'
+srcHash: '94ebdd1016b0'
 title: 海氏餐厅（Hai's Restaurant）：胡志明市美食推荐
 description: 海氏餐厅是一家开业多年、深受外籍人士和游客喜爱的越南餐厅，位于第一郡（District 1）滨城坊（Bến Thành）李自重街（Lý Tự Trọng）257号，从滨城市场（Ben Thanh Market）步行即可到达。
 quickAnswer: 海氏餐厅是一家开业多年、深受外籍人士和游客喜爱的越南餐厅，位于第一郡滨城坊李自重街257号，从滨城市场步行不远即到。这里以家常又地道的越南菜闻名——春卷、河粉、砂锅菜、海鲜应有尽有，用餐环境轻松惬意，宛如庭院一般，数千条点评几乎给出满分好评。建议选在傍晚6点至7点这个时段前去用餐，可以避开人潮，周末最好提前订位。

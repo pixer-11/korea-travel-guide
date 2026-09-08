@@ -66,7 +66,7 @@ The rattle starts immediately. The track is warped, unwelded in places, and laid
 
 The route covers a few kilometers of single track that once served a French-built rail line. Because it's single track, oncoming norries have to be dealt with somehow.
 
-Whichever cart is carrying fewer passengers gets disassembled by hand — wheels, axle, and platform lifted clean off the rails — so the other can pass, then reassembled in under a minute. It's fast, practiced, and honestly half the entertainment.
+Whichever cart is carrying fewer passengers gets disassembled by hand (wheels, axle, and platform lifted clean off the rails), so the other can pass, then reassembled in under a minute. It's fast, practiced, and honestly half the entertainment.
 
 At the far end, the cart stops near a small cluster of stalls. This is where the souvenir shops and drink stands are, along with a couple of brick-kiln sites some drivers will point out nearby. You get a short break before turning around for the ride back.
 
@@ -74,7 +74,7 @@ At the far end, the cart stops near a small cluster of stalls. This is where the
 
 The bamboo train starts a few kilometers outside central Battambang, on the way toward Phnom Sampov. There's no public bus route to it, so your options are:
 
-- Tuk-tuk from town (easiest — most drivers know it as "norry" or "bamboo train")
+- Tuk-tuk from town (easiest, most drivers know it as "norry" or "bamboo train")
 - Rented motorbike or bicycle if you're comfortable navigating unpaved sections
 - A guided tour that bundles it with Phnom Sampov's bat cave and killing caves
 
@@ -82,21 +82,21 @@ Most visitors combine the ride with those Phnom Sampov stops in one half-day loo
 
 ## When to go
 
-It's open daily from 7:30am to 5:30pm, with no day off. Mornings are the better call — the platform has zero shade and Battambang's midday sun on an open bamboo cart is no joke.
+It's open daily from 7:30am to 5:30pm, with no day off. Mornings are the better call. The platform has zero shade and Battambang's midday sun on an open bamboo cart is no joke.
 
 Because it's classed as under-the-radar rather than a major tour-bus stop, you generally won't be queuing behind large groups. That said, it isn't a total secret either, so a few other carts on the track at once is normal, especially by late morning.
 
 ## What to expect at the end
 
-The turnaround point has a small strip of stalls selling drinks, snacks, and simple woven-bamboo souvenirs. It's low-key rather than a hard-sell market. Give yourself a few minutes here before flagging your driver for the return leg — most rides run about an hour to 90 minutes round trip including this stop.
+The turnaround point has a small strip of stalls selling drinks, snacks, and simple woven-bamboo souvenirs. It's low-key rather than a hard-sell market. Give yourself a few minutes here before flagging your driver for the return leg. Most rides run about an hour to 90 minutes round trip including this stop.
 
 ## How to visit like a local
 
-Fares are paid in cash directly to the operators at the start of the line — small US-dollar bills are the norm around Battambang generally, so bring some rather than relying on a card. There's no formal booking system; you simply show up, pay per person for the platform, and go when the next departure is ready.
+Fares are paid in cash directly to the operators at the start of the line, small US-dollar bills are the norm around Battambang generally, so bring some rather than relying on a card. There's no formal booking system; you simply show up, pay per person for the platform, and go when the next departure is ready.
 
 Tipping isn't expected but rounding up is appreciated if your driver does anything extra, like pointing out the kilns or slowing down for photos.
 
-The etiquette quirk unique to this ride is the pass-and-disassemble routine — when you meet an oncoming cart, don't be alarmed when your platform gets lifted off the tracks. It's routine, not an emergency.
+The etiquette quirk unique to this ride is the pass-and-disassemble routine, when you meet an oncoming cart, don't be alarmed when your platform gets lifted off the tracks. It's routine, not an emergency.
 
 The mistake first-timers make is treating this as a five-minute novelty and rushing back to town. Build in the full loop with Phnom Sampov, wear something you don't mind getting dusty, and go before 10am if you want the road mostly to yourself.
 

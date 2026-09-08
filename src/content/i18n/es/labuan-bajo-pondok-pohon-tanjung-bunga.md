@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: labuan-bajo-pondok-pohon-tanjung-bunga
-srcHash: 'a2fb8bc9e936'
+srcHash: '2b9cd674713f'
 title: 'Pondok Pohon Tanjung Bunga: Guía de viaje de Labuan Bajo'
 description: Pondok Pohon Tanjung Bunga es un mirador en la ladera y un sencillo punto de descanso en el cabo de Tanjung Bunga, a las afueras de Labuan Bajo, ideal para visitar a última hora de la tarde y ver la puesta de sol sobre el puerto y las islas cercanas.
 quickAnswer: En la ladera del cabo de Tanjung Bunga, justo a las afueras de la ciudad de Labuan Bajo, se encuentra Pondok Pohon Tanjung Bunga, un mirador sencillo que funciona también como punto de descanso. Conviene visitarlo al final de la tarde, cuando el sol se pone sobre el puerto y las islas cercanas. Se llega en un corto trayecto en moto o coche desde la ciudad (unos 10-15 minutos), y aunque cuenta con una sólida calificación de 4.8 sobre 185 reseñas, sigue siendo un lugar poco conocido si se compara con las grandes atracciones de Labuan Bajo. Conviene reservar entre 45 y 90 minutos, llevar efectivo por si hay algún warung con snacks, y combinar la visita con un recorrido más amplio por la carretera costera de Tanjung Bunga.

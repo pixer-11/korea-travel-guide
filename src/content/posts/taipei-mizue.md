@@ -33,19 +33,19 @@ That kind of debut doesn't happen quietly. Chefs, critics, and serious sushi din
 
 ## What the experience is built around
 
-Mizue is a Japanese sushi restaurant, and everything about the format points to the traditional Edomae-style omakase counter. Seating is deliberately limited — a handful of stools facing the chef, not a dining room.
+Mizue is a Japanese sushi restaurant, and everything about the format points to the traditional Edomae-style omakase counter. Seating is deliberately limited, a handful of stools facing the chef, not a dining room.
 
 That scale is the whole point. You watch each piece assembled a few feet away, timed to your pace rather than a kitchen ticket system.
 
 The draw, per its Michelin recognition, is refined, seasonal sushi. Expect the chef to build the courses around what's best that week rather than a fixed printed menu, which is standard practice at this level of sushi-ya.
 
-Because exact dishes, pricing, and hours haven't been independently confirmed beyond the restaurant's own channels, treat any specifics you find online as a starting point — always verify directly before you plan around them.
+Because exact dishes, pricing, and hours haven't been independently confirmed beyond the restaurant's own channels, treat any specifics you find online as a starting point, always verify directly before you plan around them.
 
 ## Getting a seat
 
 With two stars awarded straight out of the gate, demand has outpaced the room's capacity almost immediately.
 
-- Book as far in advance as the restaurant allows — weeks, not days
+- Book as far in advance as the restaurant allows, weeks, not days
 - Reconfirm your reservation close to the date, since small counters are strict about no-shows
 - Have a backup date in mind in case your first choice is gone by the time you check
 
@@ -55,23 +55,23 @@ If you're travelling from abroad, sort this before you land in Taipei. Counters 
 
 Taipei's Michelin story has long leaned on its night markets and beef noodle shops, but the guide's fine-dining side has quietly built up a serious cluster of Japanese specialists. Mizue's sudden two-star arrival signals that this category is only getting more competitive.
 
-If sushi at this level is new to you, it helps to know the format going in: multiple courses of nigiri and small dishes, served in sequence, meant to be eaten immediately as each piece is placed in front of you. There's no menu browsing — you're in the chef's hands for the evening.
+If sushi at this level is new to you, it helps to know the format going in: multiple courses of nigiri and small dishes, served in sequence, meant to be eaten immediately as each piece is placed in front of you. There's no menu browsing. You're in the chef's hands for the evening.
 
 ## When to go
 
 Because Mizue is newly listed and details are still settling, there's no published crowd data or seasonal pattern yet to point to a quiet window. What is clear is that early buzz after a Michelin debut tends to make the first several months the toughest for booking.
 
-If flexibility is on your side, consider aiming a few months past the guide's release, once the initial rush has eased slightly — though don't count on that shifting things dramatically for a two-star newcomer.
+If flexibility is on your side, consider aiming a few months past the guide's release, once the initial rush has eased slightly, though don't count on that shifting things dramatically for a two-star newcomer.
 
 ## How to visit like a local
 
 Treat an omakase counter like Mizue the way discerning Taipei diners treat any high-end sushi-ya: reservations first, questions later.
 
 - Confirm the booking process directly with the restaurant rather than relying on third-party sites, since policies at newly-starred spots often tighten fast
-- Arrive on time — omakase courses are paced by the chef, and a late arrival can throw off the whole counter's rhythm
+- Arrive on time, omakase courses are paced by the chef, and a late arrival can throw off the whole counter's rhythm
 - Ask politely if photos are welcome before shooting each course; many high-end counters prefer minimal flash
-- Follow the chef's lead on eating pace — pieces are meant to be eaten right away, not saved
+- Follow the chef's lead on eating pace, pieces are meant to be eaten right away, not saved
 - Save questions about ingredients or origin for natural pauses rather than mid-course
 
-The biggest mistake visitors make with any newly-starred, small-room restaurant is assuming they can book a week out. Start early, stay flexible, and double-check every detail — hours, address, and reservation terms — directly with Mizue before you finalize your trip.
+The biggest mistake visitors make with any newly-starred, small-room restaurant is assuming they can book a week out. Start early, stay flexible, and double-check every detail (hours, address, and reservation terms) directly with Mizue before you finalize your trip.
 

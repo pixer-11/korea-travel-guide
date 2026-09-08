@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: sha-tin-ten-thousand-buddhas-monastery
-srcHash: 'c21ec1a43499'
+srcHash: '2d1de68b3ff3'
 title: 万仏寺:沙田(シャティン)旅行ガイド(4.5★)
 description: 万仏寺(Ten Thousand Buddhas Monastery)は沙田(シャティン)の高台に位置し、金色の仏像が並ぶ参道を15〜20分ほど急な階段で登ってたどり着きます。4.5★(2,665件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: 万仏寺(Ten Thousand Buddhas Monastery)は沙田(シャティン)の高台に位置し、金色の仏像が並ぶ参道を15〜20分ほど急な階段で登ってたどり着きます。営業時間は毎日午前9時から午後5時まで。階段や堂宇をほぼ独占的に楽しみたいなら、平日の午前中がおすすめです。往復で1.5〜2時間ほどを目安にし、グリップの良い靴を履いていきましょう。

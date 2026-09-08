@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-boulangerie-du-palais
-srcHash: '6552cecdb382'
+srcHash: 'ad824ce37ca2'
 title: Boulangerie Du Palais：里昂旅行指南（4.3★）
 description: Boulangerie Du Palais 是里昂旧里昂区（Vieux Lyon）Rue du Palais de Justice 街上一家平价、全天营业的面包店，每天 7am–7pm 营业。4.3★（1,702 条评价）——游客怎么说、营业时间及实用建议。
 quickAnswer: Boulangerie Du Palais 是里昂旧里昂区（Vieux Lyon）Rue du Palais de Justice 街上一家平价、全天营业的面包店，每天 7am–7pm 营业。工作日刚开门时（7–8am）或周末 5pm 之后前往人最少——尽量避开周末 10am–4pm 的高峰时段，那时排队会很长。这里可以买到糕点、水果塔、面包、披萨片和三明治，都很适合带到河边边走边吃。

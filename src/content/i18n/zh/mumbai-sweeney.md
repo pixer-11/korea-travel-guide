@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-sweeney
-srcHash: '29df96c864f0'
+srcHash: '3e045940e451'
 title: Sweeney：孟买旅行指南
 description: Sweeney，位于印度孟买的一家新晋热门去处：它是什么、在哪里，以及如何前往游玩。
 quickAnswer: Sweeney 是一家人气正旺的新晋餐厅酒吧，坐落在孟买堡区（Fort）巴拉德庄园（Ballard Estate）一栋历史建筑内，由玛莱卡·阿罗拉（Malaika Arora）与餐饮业者达瓦尔·乌德希（Dhaval Udeshi）联合经营。这里的吸引力不仅在于美食，也在于植物景观：一棵已有140年历史的芒果树几乎为室外座位区的一半遮出树荫，据说如果你坐在树下时正好被掉落的芒果砸到，工作人员会送上一罐芒果果酱作为“赔礼”。建议选择工作日的傍晚前往，并提前预订，因为它是这座城市里正当红的新晋名店；出发前请务必确认最新营业时间。

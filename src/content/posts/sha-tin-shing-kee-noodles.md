@@ -67,7 +67,7 @@ draft: true
 
 Shing Kee isn't polished, and that's the point. It sits inside the Lek Yuen Estate market building, one of Sha Tin's older public housing blocks, where fluorescent tubes buzz over battered steel tables and the menu is taped up in Chinese.
 
-You smell it before you see it — pork bones simmering, char siu dripping fat onto a chopping block, the sharp tang of vinegar on the counter. This is old Hong Kong eating, unfiltered.
+You smell it before you see it, pork bones simmering, char siu dripping fat onto a chopping block, the sharp tang of vinegar on the counter. This is old Hong Kong eating, unfiltered.
 
 ## What to order
 
@@ -84,7 +84,7 @@ Portions are modest by Western standards, so many regulars order a side of veget
 
 ## Getting there
 
-Shing Kee sits on Lek Yuen Street inside the Lek Yuen Estate, a short walk from Sha Tin MTR station on the East Rail Line. From the station, head toward Lek Yuen Bridge and follow signs into the estate's covered market podium — it's a five- to ten-minute walk, mostly under cover.
+Shing Kee sits on Lek Yuen Street inside the Lek Yuen Estate, a short walk from Sha Tin MTR station on the East Rail Line. From the station, head toward Lek Yuen Bridge and follow signs into the estate's covered market podium. It's a five- to ten-minute walk, mostly under cover.
 
 There's no English signage outside, so look for the queue and the hanging roast meats rather than a storefront sign. Locals navigate by landmark, not address, here.
 
@@ -98,19 +98,19 @@ Weekday mornings tend to be quieter overall, though no specific quiet hour is tr
 
 ## What the room feels like
 
-Expect shared tables, paper placemats, and a server calling out orders in Cantonese over the clatter of bowls. Nobody lingers over coffee here — people eat, pay, and move on within twenty or thirty minutes.
+Expect shared tables, paper placemats, and a server calling out orders in Cantonese over the clatter of bowls. Nobody lingers over coffee here, people eat, pay, and move on within twenty or thirty minutes.
 
 The open kitchen runs along one side, where a cook works the noodle baskets in and out of boiling water in one continuous motion. Steam fogs the nearby windows even before 7am.
 
-It's loud, bright, and functional rather than atmospheric in any curated sense — which is exactly what keeps the regulars coming back.
+It's loud, bright, and functional rather than atmospheric in any curated sense, which is exactly what keeps the regulars coming back.
 
 ## How to visit like a local
 
 Shing Kee runs on cash, like most of Sha Tin's older market eateries, so carry small Hong Kong dollar notes and coins. Card payment isn't something to count on here.
 
-There's no formal queue system — you take an open seat, often next to strangers, and flag down a server verbally rather than waiting to be seated. Pointing at the taped-up Chinese menu or naming a dish like "yun tan mein" (wonton noodles) works fine if you don't read Cantonese.
+There's no formal queue system, you take an open seat, often next to strangers, and flag down a server verbally rather than waiting to be seated. Pointing at the taped-up Chinese menu or naming a dish like "yun tan mein" (wonton noodles) works fine if you don't read Cantonese.
 
 Don't expect an English menu or translated signage; this is a working-class market canteen, not a tourist stop, even though it's well known around Sha Tin. The most common mistake is arriving between 4pm and 7pm expecting it to be open, or turning up on a Saturday at noon expecting a quiet seat.
 
-Eat fast, keep your bag off the table, and don't linger once you've finished — turnover is part of the culture here, not rudeness.
+Eat fast, keep your bag off the table, and don't linger once you've finished, turnover is part of the culture here, not rudeness.
 

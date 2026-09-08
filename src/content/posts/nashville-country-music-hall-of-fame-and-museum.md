@@ -69,7 +69,7 @@ draft: false
 
 ## Why go
 
-This is where country music's story gets told properly, in one building. Not a roadside novelty, not a gift shop with a few gold records bolted to the wall — a genuine museum with the weight of the genre behind it.
+This is where country music's story gets told properly, in one building. Not a roadside novelty, not a gift shop with a few gold records bolted to the wall, a genuine museum with the weight of the genre behind it.
 
 You walk in past a curved glass facade meant to echo a Cadillac's tailfin, a nod to the industry's flashier decades. Inside, the scale becomes obvious. Two floors of galleries trace the music from its Appalachian string-band roots through Bakersfield twang, outlaw country, and today's Nashville pop-crossover sound.
 
@@ -82,32 +82,32 @@ Glass cases hold the objects that make the history tangible.
 - Handwritten lyric sheets, stage costumes, and vintage instruments from Johnny Cash, Dolly Parton, and Patsy Cline
 - The Hall of Fame Rotunda itself, a quiet, dim, bronze-plaqued room that feels almost like a chapel
 
-Interactive touchscreens let you pull up recordings and video clips as you go, so you're not just reading wall text — you're hearing the steel guitar or watching the old television clip right there.
+Interactive touchscreens let you pull up recordings and video clips as you go, so you're not just reading wall text. You're hearing the steel guitar or watching the old television clip right there.
 
-Plan on two hours for the museum alone. Add an extra 45 minutes to an hour if you book the shuttle out to Historic RCA Studio B, where Elvis, Dolly, and hundreds of others actually recorded — that ticket is sold separately at the front desk.
+Plan on two hours for the museum alone. Add an extra 45 minutes to an hour if you book the shuttle out to Historic RCA Studio B, where Elvis, Dolly, and hundreds of others actually recorded, that ticket is sold separately at the front desk.
 
 ## Getting there
 
 The museum sits in the SoBro district, an easy walk from Broadway's honky-tonks and just across the street from Bridgestone Arena. If you're downtown already, you'll likely pass it on foot without trying.
 
-Driving in, expect to use one of the paid downtown garages nearby — dedicated free parking is limited. Nashville's WeGo bus network also stops within a few blocks, and most hotel concierges downtown can point you to the nearest stop.
+Driving in, expect to use one of the paid downtown garages nearby, dedicated free parking is limited. Nashville's WeGo bus network also stops within a few blocks, and most hotel concierges downtown can point you to the nearest stop.
 
 ## When to go
 
 The museum keeps the same hours every day of the week: 9am to 5pm, no early or late exceptions.
 
-Weekday hours run steady with manageable crowds throughout the day. Weekends are a different story — if you can get there right at opening, between 9am and 10am, you'll have the galleries close to yourself.
+Weekday hours run steady with manageable crowds throughout the day. Weekends are a different story, if you can get there right at opening, between 9am and 10am, you'll have the galleries close to yourself.
 
 Push past 11am on a Saturday or Sunday and it fills in fast, staying busy until around 4pm. If a weekend visit is your only option, that first hour is worth setting an alarm for.
 
 ## How to visit like a local
 
-Locals treat this less as a casual drop-in and more as a planned half-day, because it draws heavy crowds nearly year-round. Book your timed-entry ticket online in advance — walk-up lines at the door are common and can eat into your visit time.
+Locals treat this less as a casual drop-in and more as a planned half-day, because it draws heavy crowds nearly year-round. Book your timed-entry ticket online in advance. Walk-up lines at the door are common and can eat into your visit time.
 
 - Pay by card; the ticket counter and cafe both accept it, and Nashville is largely a tap-to-pay city now
 - No tipping expected inside a museum setting
-- Ask for the RCA Studio B add-on at booking if you want it — shuttle slots fill up before general admission does
-- The biggest visitor mistake is rushing the Hall of Fame Rotunda — give it a few quiet minutes rather than walking straight through
+- Ask for the RCA Studio B add-on at booking if you want it, shuttle slots fill up before general admission does
+- The biggest visitor mistake is rushing the Hall of Fame Rotunda, give it a few quiet minutes rather than walking straight through
 - Audio guides are worth the small add-on if you want context beyond the wall text
 
 Since this isn't an under-the-radar spot, the real local trick is timing, not secrecy. Go early, go on a weekday if your schedule allows, and treat the museum as the anchor of your morning rather than a quick stop between honky-tonks.

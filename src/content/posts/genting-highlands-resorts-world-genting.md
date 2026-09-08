@@ -96,7 +96,7 @@ Beyond the gaming floor, families tend to gravitate toward the indoor rides on c
 
 A few things worth building into your day:
 
-- Ride the SkyWay both ways if weather allows — the descent view is different from the ascent
+- Ride the SkyWay both ways if weather allows. The descent view is different from the ascent
 - Bring a jacket; temperatures at this elevation sit well below KL's
 - Check which theme park zones are open, since indoor and outdoor sections sometimes run different hours
 - Set a casino budget before you go in, given the 24-hour access
@@ -111,9 +111,9 @@ Arriving in the morning gives you a jump on both the SkyWay lines and the theme 
 
 Given how popular this resort is, the real skill here is timing rather than finding a quiet corner. Aim for an early cable car ride, ideally on a weekday, to avoid the queues that build by late morning on weekends.
 
-Payment across the resort runs on a mix of cash and card, with cashless casino chips and mall-style prepaid cards common for the theme parks — check current options at the ticket counters rather than assuming. Tipping isn't a strong local custom in Malaysian casinos or food courts, so it's not expected.
+Payment across the resort runs on a mix of cash and card, with cashless casino chips and mall-style prepaid cards common for the theme parks. Check current options at the ticket counters rather than assuming. Tipping isn't a strong local custom in Malaysian casinos or food courts, so it's not expected.
 
-The dress code catches first-time visitors off guard: the casino requires smart-casual attire and bars shorts, sandals, and sleeveless tops, so pack accordingly if gambling is part of your plan. A common mistake is treating this as a quick half-day trip — between the SkyWay ride, theme parks, and sprawling dining areas, most visitors need a full day, and an overnight stay lets you see the resort lit up after dark without rushing back down the mountain.
+The dress code catches first-time visitors off guard: the casino requires smart-casual attire and bars shorts, sandals, and sleeveless tops, so pack accordingly if gambling is part of your plan. A common mistake is treating this as a quick half-day trip, between the SkyWay ride, theme parks, and sprawling dining areas, most visitors need a full day, and an overnight stay lets you see the resort lit up after dark without rushing back down the mountain.
 
 Locals and repeat visitors also know to check the mist: cloud cover can roll in fast at this elevation, so outdoor rides and viewpoints are best tackled earlier rather than later in the day.
 

@@ -103,7 +103,7 @@ At night, floodlights turn the pale stone gold against the dark sky, and this is
 
 Hengchun South Gate sits in Hengchun Township, Pingtung County, right where the main road funnels traffic toward Kenting's beach strip.
 
-- **By car/scooter:** it's on the main route from Kaohsiung down Provincial Highway 26 — you'll see the roundabout clearly from the road.
+- **By car/scooter:** it's on the main route from Kaohsiung down Provincial Highway 26. You'll see the roundabout clearly from the road.
 - **By bus:** Kenting Express and regular Pingtung County buses stop in Hengchun town, a short walk from the gate.
 - **Parking:** there's roadside parking near the old town walls a few minutes' walk away; the gate itself sits in the traffic circle, so you park nearby and walk over.
 
@@ -113,7 +113,7 @@ Most people see it as a stop between the Kaohsiung High Speed Rail station and K
 
 The gate is one small piece of a bigger, underrated stop. Hengchun's old walls, sections of rampart, and two other surviving gates (East and West) are all within a short walk or drive.
 
-Give yourself 30-45 minutes if you want to see more than just South Gate — enough time to walk a stretch of the old wall and grab a drink at one of the small shops near the old town center.
+Give yourself 30-45 minutes if you want to see more than just South Gate, enough time to walk a stretch of the old wall and grab a drink at one of the small shops near the old town center.
 
 This is also where a lot of Kenting road-trippers stop for a meal before continuing on to the beaches, since Hengchun town has more local food options than the resort strip further south.
 
@@ -132,7 +132,7 @@ Since it's a well-known landmark on a major access road, expect a steady flow of
 Treat this as a quick, free roadside stop rather than a destination requiring planning.
 
 - **Timing:** aim for late afternoon or just after sunset when the floodlights come on and daytime heat has eased.
-- **Payment:** nothing to pay — it's a public monument with open access, no tickets or fees.
+- **Payment:** nothing to pay. It's a public monument with open access, no tickets or fees.
 - **Crossing the road:** use the marked pedestrian crossings around the traffic circle rather than cutting across; traffic doesn't slow for the gate.
 - **The common mistake:** tourists often photograph it only from the car window while passing through. Actually parking and walking up to the archway gets you a far better sense of the scale and the carved lintel.
 - **Combine it:** locals passing through usually treat South Gate as one stop on a loop that includes the old town wall sections, not a place to linger alone.

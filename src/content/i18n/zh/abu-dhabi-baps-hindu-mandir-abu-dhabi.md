@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-baps-hindu-mandir-abu-dhabi
-srcHash: 'e346c83c0900'
+srcHash: '429f6f16f27c'
 title: BAPS印度教神庙（BAPS Hindu Mandir）：阿布扎比旅行指南（4.5★）
 description: BAPS印度教神庙位于阿布扎比郊外阿布姆雷卡（Abu Mreikhah）的塔夫路（Al Taf Road）附近，紧邻迪拜—阿布扎比公路。4.5★（7,831条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: BAPS印度教神庙坐落在阿布扎比郊外阿布姆雷卡（Abu Mreikhah）的塔夫路（Al Taf Road）附近，正好在迪拜—阿布扎比公路沿线。这里每周一闭馆，其余每天上午9点到晚上8点开放，是阿联酋名副其实的热门景点之一，周末几乎全天都很拥挤。建议预留1.5到2小时游览时间，穿着要得体，进入这座雕刻精美的砂岩神庙前还需经过安检。

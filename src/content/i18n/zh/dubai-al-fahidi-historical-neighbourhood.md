@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-al-fahidi-historical-neighbourhood
-srcHash: '40233033e91c'
+srcHash: 'eabb635fea8e'
 title: 阿尔法希迪历史街区:迪拜旅行指南
 description: 阿尔法希迪历史街区（Al Fahidi Historical Neighbourhood）位于迪拜河（Dubai Creek）巴斯达基亚（Bur Dubai）一侧，靠近阿尔法希迪地铁站（Al Fahidi Metro Station，绿线），是迪拜保存最完好的老城区——由珊瑚石和石膏建造的风塔屋纵横交错，如今遍布博物馆、画廊和咖啡馆。
 quickAnswer: 阿尔法希迪历史街区（Al Fahidi Historical Neighbourhood）位于迪拜河（Dubai Creek）巴斯达基亚（Bur Dubai）一侧，靠近阿尔法希迪地铁站（Al Fahidi Metro Station，绿线），是迪拜保存最完好的老城区——由珊瑚石和石膏建造的风塔屋纵横交错，如今遍布博物馆、画廊和咖啡馆。建议预留2-3小时游览，最好选在清晨凉爽时段或日落之后前往，并可顺路走去纺织品市场（Textile Souk），再乘阿布拉（abra）小船横渡迪拜河。

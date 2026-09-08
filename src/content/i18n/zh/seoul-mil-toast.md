@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seoul-mil-toast
-srcHash: 'a04ab51370ef'
+srcHash: '52af6b278306'
 title: Mil Toast首尔探店指南
 description: 首尔Mil Toast——一家正在爆红的新晋人气店：它是什么、在哪里、怎么去。
 quickAnswer: Mil Toast是首尔那家因舒芙蕾法式吐司在TikTok上持续刷屏的咖啡馆，周末早上还没看到菜单，排队就可能已经超过一小时。目前没有经过核实的地址、营业时间或订位政策信息，出发当天请务必先查一下该店的Instagram或Naver Map最新信息。如果想躲开排队高峰，建议工作日一开门就到。

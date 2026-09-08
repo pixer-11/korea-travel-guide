@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: saint-cloud-paris-region-rock-en-seine-2026
-srcHash: 'f05c3f81c040'
+srcHash: '40e2eb3f02f4'
 title: '락 앙 센 2026: 알아두어야 할 것들 (파리 생클루)'
 description: 락 앙 센 2026은 2026년 8월 26일부터 30일까지 파리 근교 도멘 나시오날 드 생클루에서 열릴 예정이었으며, 더 큐어와 닉 케이브, 타일러 더 크리에이터가 헤드라이너로 나섰습니다.
 quickAnswer: 락 앙 센 2026은 2026년 8월 26일부터 30일까지 파리 서쪽 인근 도멘 나시오날 드 생클루(Domaine national de Saint-Cloud)에서 열릴 예정이었습니다. 라인업은 더 큐어(The Cure), 닉 케이브 앤 더 배드 시즈(Nick Cave & The Bad Seeds), 타일러 더 크리에이터(Tyler, the Creator)를 헤드라이너로 발표했고, 데프톤즈(Deftones)와 턴스타일(Turnstile) 등도 함께했습니다. 이 부지는 파리 중심부에서 짧은 거리에 있어서, RER C선을 타고 생클루(Saint-Cloud)역까지 간 뒤 걷거나 셔틀을 타고 언덕 위 공원으로 올라가면 되고, 메트로 9호선을 타고 퐁 드 세브르(Pont de Sèvres)역으로 가면 공원 남쪽에 닿을 수 있습니다.

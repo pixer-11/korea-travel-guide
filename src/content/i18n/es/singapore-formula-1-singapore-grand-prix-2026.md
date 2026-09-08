@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-formula-1-singapore-grand-prix-2026
-srcHash: 'd68abf91772c'
+srcHash: 'bc1b137e0826'
 title: 'Gran Premio de Singapur de Fórmula 1 2026: Lo que hay que saber (Singapur)'
 description: Gran Premio de Singapur de Fórmula 1 2026 en Singapur, Singapur — del 9 al 11 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu viaje.
 quickAnswer: El Gran Premio de Singapur 2026 se disputa del 9 al 11 de octubre en el Marina Bay Street Circuit, y esta edición es el primer fin de semana de Sprint de F1 en la historia del país, con un cartel de conciertos que incluye a The Killers y Lana Del Rey. Reserva vuelos y hoteles en la zona de Marina Bay / Bugis / City Hall con antelación, ten en cuenta que las calles públicas del circuito cierran durante las semanas de montaje de la carrera, y confirma siempre el calendario final y las categorías de entradas en la web oficial del F1 Singapore GP antes de comprometerte.

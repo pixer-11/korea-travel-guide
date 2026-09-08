@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mong-kok-beans-cafe
-srcHash: 'dc89ad574901'
+srcHash: '5d32c2ad34fe'
 title: Beans Cafe：旺角旅行指南（4.7星）
 description: Beans Cafe是一家评价颇高的小咖啡馆，藏身于旺角朗豪坊商场4A层，每天中午12点营业至晚上10点。
 quickAnswer: Beans Cafe是一家评价颇高的小咖啡馆，藏身于旺角朗豪坊商场4A层，每天中午12点营业至晚上10点。在这座平日挤满购物人潮的商场里，它是难得的清静角落——工作日下午（4点到10点）前往，或是周末等到9点以后再去，都能碰上几乎没什么人的时段。消费不贵，属于中等价位，逛完朗豪坊顺路进去坐坐也很合适。

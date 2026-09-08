@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-nom
-srcHash: '500edf5410db'
+srcHash: 'acda664acb8b'
 title: 'NÔM: 호치민에서 꼭 가봐야 할 맛집'
 description: 베트남 호치민시에 새로 등장해 화제를 모으고 있는 레스토랑 NÔM을 소개합니다. 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋을지 정리했습니다.
 quickAnswer: NÔM은 셰프 크리스 퐁(Chris Fong)이 이끄는 호치민시의 미쉐린 셀렉티드(Michelin Selected) 레스토랑으로, 2026년 베트남 미쉐린 가이드에서 '올해의 오프닝(Opening of the Year)'으로 선정되었습니다. 이곳은 즉흥적으로 들를 수 있는 길거리 음식점이 아니라 예약이 필수인 모던 베트남 요리 전문점이므로, 방문 전 반드시 예약을 하고 현재 영업시간을 확인하시기 바랍니다.

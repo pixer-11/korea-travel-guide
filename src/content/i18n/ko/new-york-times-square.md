@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-york-times-square
-srcHash: '030edbf30db3'
+srcHash: '4f49e4a1af8e'
 title: '타임스스퀘어: 뉴욕 여행 가이드 (4.7★)'
 description: 타임스스퀘어(Times Square)는 맨해튼 시어터 디스트릭트(Theater District), 42번가~47번가에 걸쳐 브로드웨이(Broadway)와 7번가(Seventh Avenue)가 만나는 네온사인 교차로입니다 — 조용한 산책이 아니라 압도적인 감각 자극을 즐기러 가는 곳입니다. 4.7★ (244,209개 리뷰) — 방문객들의 후기, 운영 시간, 팁을 소개합니다.
 quickAnswer: 타임스스퀘어(Times Square)는 맨해튼 시어터 디스트릭트(Theater District), 42번가~47번가에 걸쳐 브로드웨이(Broadway)와 7번가(Seventh Avenue)가 만나는 네온사인 교차로입니다 — 조용한 산책이 아니라 압도적인 감각 자극을 즐기러 가는 곳입니다. 지구상에서 가장 많은 사람이 찾는 광장 중 하나이므로, 실제로 바닥이 보이는 광경을 보고 싶다면 오전 7시에서 10시 사이에 가야 합니다. 주말 오후 1시가 되면 인파로 어깨가 부딪힐 정도가 되고, 그 상태가 밤 11시가 넘도록 이어집니다.

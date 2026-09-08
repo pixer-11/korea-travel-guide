@@ -57,25 +57,25 @@ aiGenerated: true
 
 ## Why go
 
-Ise Sueyoshi has built a reputation as one of Tokyo's quietly excellent kaiseki counters — the kind of place locals whisper about rather than see splashed across neon signage. The editorial consensus is simple: intimate, minimalist room, thoughtfully plated traditional Japanese multi-course meals. With a 4.9 rating across 451 reviews, it sits firmly among Tokyo's most consistently praised fine-dining Japanese restaurants, and the praise tends to focus less on spectacle and more on precision — seasonal ingredients, restrained presentation, and a calm, unhurried pace that lets each course register on its own terms.
+Ise Sueyoshi has built a reputation as one of Tokyo's quietly excellent kaiseki counters (the kind of place locals whisper about rather than see splashed across neon signage. The editorial consensus is simple: intimate, minimalist room, thoughtfully plated traditional Japanese multi-course meals. With a 4.9 rating across 451 reviews, it sits firmly among Tokyo's most consistently praised fine-dining Japanese restaurants, and the praise tends to focus less on spectacle and more on precision) seasonal ingredients, restrained presentation, and a calm, unhurried pace that lets each course register on its own terms.
 
 This isn't a restaurant you stumble into between sightseeing stops. It's a destination meal, the sort of dinner you plan a Tokyo trip around, especially if you're interested in kaiseki (the traditional multi-course format built around seasonality, balance, and craftsmanship) but want it in a more intimate, less touristed setting than the big-name hotel restaurants.
 
 ## Getting there
 
-The restaurant is on the 3rd floor of the Mizuno Building (水野ビル) in Nishiazabu 4-chome, Minato City — an upscale, low-key residential-meets-nightlife pocket of Tokyo sandwiched between Roppongi and Omotesando. Nishiazabu doesn't have its own train station, so the practical approach is a short taxi or a 10–15 minute walk from one of a few nearby stations: Roppongi Station (Tokyo Metro Hibiya Line and Toei Oedo Line) is the most common access point, or Hiroo Station (Hibiya Line) if you're coming from that side.
+The restaurant is on the 3rd floor of the Mizuno Building (水野ビル) in Nishiazabu 4-chome, Minato City, an upscale, low-key residential-meets-nightlife pocket of Tokyo sandwiched between Roppongi and Omotesando. Nishiazabu doesn't have its own train station, so the practical approach is a short taxi or a 10–15 minute walk from one of a few nearby stations: Roppongi Station (Tokyo Metro Hibiya Line and Toei Oedo Line) is the most common access point, or Hiroo Station (Hibiya Line) if you're coming from that side.
 
-Given the address is a specific building rather than a street-level storefront, many visitors find it easier to take a taxi directly to the address, especially at night — Nishiazabu's backstreets are not brightly lit and building entrances can be easy to miss.
+Given the address is a specific building rather than a street-level storefront, many visitors find it easier to take a taxi directly to the address, especially at night, Nishiazabu's backstreets are not brightly lit and building entrances can be easy to miss.
 
 ## What to expect at the table
 
-Kaiseki restaurants of this caliber typically run a fixed, multi-course omakase-style menu rather than an à la carte selection — expect a procession of small, deliberately composed dishes moving from delicate appetizers through sashimi, a simmered or grilled course, rice, and a seasonal dessert. The minimalist room description suggests a small footprint, likely counter seating where you can watch preparation up close, which is standard for this tier of restaurant in Tokyo and part of the appeal: it's as much about proximity to the chef's technique as the food itself.
+Kaiseki restaurants of this caliber typically run a fixed, multi-course omakase-style menu rather than an à la carte selection. Expect a procession of small, deliberately composed dishes moving from delicate appetizers through sashimi, a simmered or grilled course, rice, and a seasonal dessert. The minimalist room description suggests a small footprint, likely counter seating where you can watch preparation up close, which is standard for this tier of restaurant in Tokyo and part of the appeal: it's as much about proximity to the chef's technique as the food itself.
 
 Because pricing and seasonal menus shift and aren't the kind of detail worth guessing at, confirm current course pricing and any drink pairing options directly when you reserve. What is safe to assume: this sits in Tokyo's upper tier of traditional Japanese dining, so plan for a premium, special-occasion price point rather than a casual dinner budget.
 
 ## When to go and how to book
 
-Restaurants of this caliber in Tokyo — especially small, counter-driven kaiseki spots — routinely operate reservation-only, and popular ones fill up weeks or even a month or more in advance, particularly for weekend evening seatings. If your trip dates are fixed, reach out as early as possible; many higher-end Japanese restaurants also require reservations be made in Japanese or through a concierge/hotel service, so it's worth asking your hotel concierge to assist if you don't speak Japanese.
+Restaurants of this caliber in Tokyo (especially small, counter-driven kaiseki spots) routinely operate reservation-only, and popular ones fill up weeks or even a month or more in advance, particularly for weekend evening seatings. If your trip dates are fixed, reach out as early as possible; many higher-end Japanese restaurants also require reservations be made in Japanese or through a concierge/hotel service, so it's worth asking your hotel concierge to assist if you don't speak Japanese.
 
 First-time cancellation policies can be strict, so confirm arrival time and any dietary restrictions (allergies, pescatarian needs) when booking rather than at the door.
 
@@ -83,4 +83,4 @@ Evening dinner service is the standard time slot for this kind of kaiseki experi
 
 ## Nearby & tips
 
-Nishiazabu rewards a slow evening — after dinner, the area transitions into a low-key bar and lounge district, quieter and more design-forward than neighboring Roppongi's clubs. Omotesando's boutiques and Aoyama's galleries are a short taxi ride away if you want to bookend the meal with an afternoon of shopping or art. Dress smart-casual to smart; while not a strict jacket-required room, the minimalist, refined setting suggests err on the side of understated elegance rather than streetwear.
+Nishiazabu rewards a slow evening, after dinner, the area transitions into a low-key bar and lounge district, quieter and more design-forward than neighboring Roppongi's clubs. Omotesando's boutiques and Aoyama's galleries are a short taxi ride away if you want to bookend the meal with an afternoon of shopping or art. Dress smart-casual to smart; while not a strict jacket-required room, the minimalist, refined setting suggests err on the side of understated elegance rather than streetwear.

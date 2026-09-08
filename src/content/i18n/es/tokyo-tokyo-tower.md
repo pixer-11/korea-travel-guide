@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-tokyo-tower
-srcHash: '0d720889ab32'
+srcHash: '3f4ed31a1a71'
 title: 'Torre de Tokio: Guía de viaje'
 description: La Torre de Tokio, en el distrito de Shibakoen (Minato City), se disfruta mejor en una tarde despejada, para ver cómo el atardecer se funde con el perfil nocturno de la ciudad desde el Main Deck (150 m) o desde el más caro Top Deck (250 m).
 quickAnswer: La Torre de Tokio, en el distrito de Shibakoen (Minato City), se disfruta mejor en una tarde despejada, para ver cómo el atardecer se funde con el perfil nocturno de la ciudad desde el Main Deck (150 m) o desde el más caro Top Deck (250 m). Reserva entre 60 y 90 minutos, camina de 10 a 15 minutos desde las estaciones de Akabanebashi u Onarimon, y compra las entradas al Top Deck online con antelación para evitar la fila. Más que por la eficiencia, vale la pena por la silueta inspirada en la Torre Eiffel y por el encanto retro y sin pretensiones que la distingue de la más moderna Tokyo Skytree.

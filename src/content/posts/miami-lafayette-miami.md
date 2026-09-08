@@ -54,7 +54,7 @@ draft: false
 
 ## Why Lafayette earns the detour
 
-You could easily drive past 1111 SW 1st Ave without noticing it — this stretch of the Roads neighborhood, tucked between Brickell's glass towers and the quieter residential grid west of the Miami River, isn't where visitors usually go looking for a meal. That's exactly what makes Lafayette worth seeking out. A 4.9 rating across more than 800 reviews is an unusually high, consistent score for any restaurant, let alone one operating outside the more heavily trafficked corridors of Brickell Avenue or the Design District.
+You could easily drive past 1111 SW 1st Ave without noticing it, this stretch of the Roads neighborhood, tucked between Brickell's glass towers and the quieter residential grid west of the Miami River, isn't where visitors usually go looking for a meal. That's exactly what makes Lafayette worth seeking out. A 4.9 rating across more than 800 reviews is an unusually high, consistent score for any restaurant, let alone one operating outside the more heavily trafficked corridors of Brickell Avenue or the Design District.
 
 Numbers like that don't come from a single viral moment; they come from a kitchen that's been getting the fundamentals right, meal after meal, for regulars who keep coming back.
 
@@ -66,22 +66,22 @@ Street parking in the Roads is generally easier to find than in Brickell proper,
 
 ## What to expect at the table
 
-This isn't a sprawling, try-everything menu — it's the kind of tightly edited list where you can trust that most dishes have been refined over repeat service rather than padded out for variety's sake. Expect a kitchen that leans on technique and seasonal ingredients rather than spectacle, plated without excess fuss. Portion sizes and pricing land in the mid-range bracket typical of a serious neighborhood restaurant rather than a splashy destination spot, so it's a reasonable choice for a proper sit-down dinner without the Brickell markup.
+This isn't a sprawling, try-everything menu. It's the kind of tightly edited list where you can trust that most dishes have been refined over repeat service rather than padded out for variety's sake. Expect a kitchen that leans on technique and seasonal ingredients rather than spectacle, plated without excess fuss. Portion sizes and pricing land in the mid-range bracket typical of a serious neighborhood restaurant rather than a splashy destination spot, so it's a reasonable choice for a proper sit-down dinner without the Brickell markup.
 
-Given the small footprint implied by its residential-block address, seating is likely limited, so this reads as an intimate room, not a banquet hall — plan for a relaxed pace rather than a quick in-and-out meal.
+Given the small footprint implied by its residential-block address, seating is likely limited, so this reads as an intimate room, not a banquet hall. Plan for a relaxed pace rather than a quick in-and-out meal.
 
 ## The neighborhood around it
 
 Part of the appeal of eating in the Roads is what surrounds it: quiet, tree-lined residential streets a few blocks from the density of Brickell's high-rises, with the Miami River and its working boatyards not far to the north. After dinner, it's an easy walk or short drive to explore Brickell's riverfront paths, or to head into the bars and lounges clustered around South Miami Avenue.
 
-Because the restaurant isn't embedded in a tourist strip, you get a genuine slice of local Miami life on the walk in and out — porches, palm-lined sidewalks, the ordinary rhythm of a residential block — rather than a corridor built for visitors.
+Because the restaurant isn't embedded in a tourist strip, you get a genuine slice of local Miami life on the walk in and out (porches, palm-lined sidewalks, the ordinary rhythm of a residential block) rather than a corridor built for visitors.
 
 ## When to go
 
-Because Lafayette hasn't been swept up into the city's mainstream dining circuit, you won't find the same lines or hour-long waits that hit the more famous Miami rooms on a Friday night. That said, a restaurant holding a 4.9 rating over 800-plus reviews has clearly built a loyal following, so don't assume you can always walk in cold. Early evening on a weeknight — before the after-work crowd from nearby Brickell offices decides where to eat — tends to be your best shot at a relaxed table and unhurried service. Weekends, especially Saturday dinner, are the time this kind of consistently well-reviewed spot is most likely to fill up.
+Because Lafayette hasn't been swept up into the city's mainstream dining circuit, you won't find the same lines or hour-long waits that hit the more famous Miami rooms on a Friday night. That said, a restaurant holding a 4.9 rating over 800-plus reviews has clearly built a loyal following, so don't assume you can always walk in cold. Early evening on a weeknight, before the after-work crowd from nearby Brickell offices decides where to eat, tends to be your best shot at a relaxed table and unhurried service. Weekends, especially Saturday dinner, are the time this kind of consistently well-reviewed spot is most likely to fill up.
 
 ## How to visit like a local
 
-Book ahead if the restaurant takes reservations, especially for Friday or Saturday dinner — a place with this review profile doesn't stay empty by accident, even if it's under the radar. If you can, aim for an early weeknight seating; you'll get more attention from the kitchen and a calmer room. Dress like you're going to a proper neighborhood dinner, not a beach bar — casual but put-together fits the Roads' residential, slightly upscale feel.
+Book ahead if the restaurant takes reservations, especially for Friday or Saturday dinner (a place with this review profile doesn't stay empty by accident, even if it's under the radar. If you can, aim for an early weeknight seating; you'll get more attention from the kitchen and a calmer room. Dress like you're going to a proper neighborhood dinner, not a beach bar) casual but put-together fits the Roads' residential, slightly upscale feel.
 
 Expect to pay by card, and tip in the standard US range of 18–20% for full table service. The most common mistake visitors make is treating this like a quick pre-drinks stop before heading into Brickell; give it the full sit-down-dinner treatment instead, and don't rush the pacing between courses.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-yapa
-srcHash: '51910e3a654e'
+srcHash: '20f403c78794'
 title: 'YAPA: Guía de viaje de Milán'
 description: 'YAPA en Milán, Italia: un local nuevo y muy comentado. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: YAPA es un restaurante-bar de fusión en Viale Monte Nero, en la zona de Porta Romana/Corso di Porta Vittoria de Milán, construido en torno al concepto "Nomadic Soul" del chef Matteo Pancetti, que combina la parrilla japonesa robatayaki con sabores sudamericanos, todo acompañado de una carta de cócteles de inspiración global. Lo mejor es visitarlo por la noche para disfrutar de la combinación de parrilla y cócteles, e idealmente con reserva, ya que es un local muy animado y recién ampliado. Conviene confirmar el horario actual y reservar con antelación, porque los detalles cambian con rapidez a medida que crece su popularidad.

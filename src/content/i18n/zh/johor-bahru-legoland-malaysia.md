@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: johor-bahru-legoland-malaysia
-srcHash: 'fb23091c23e3'
+srcHash: 'a8ce324d305d'
 title: 马来西亚乐高乐园：新山（Johor Bahru）旅行指南（4.4★）
 description: 马来西亚乐高乐园位于新山依斯干达公主城（Iskandar Puteri），每周除周三外每天10:00至18:00开放。4.4★（28,790条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 马来西亚乐高乐园位于新山依斯干达公主城（Iskandar Puteri），每周除周三外每天10:00至18:00开放。主题乐园、水上乐园和海洋生物水族馆（Sea Life）三处都想逛完的话，建议预留一整天，大约6到7小时，并且尽量在开园时间准点到达，避开学校假期的人潮。从新加坡兀兰（Woodlands）或大士（Tuas）关卡驱车过来，大约需要30到40分钟。

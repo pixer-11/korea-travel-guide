@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-miyamaso
-srcHash: 'a6cf7000f0c8'
+srcHash: '9dc1c554b3a9'
 title: 'Miyamaso: Guía de viaje de Kioto'
 description: 'Miyamaso en Kioto, Japón — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Miyamaso es un ryokan-restaurante de montaña situado en lo profundo del valle de Hanase, aproximadamente a una hora al norte del centro de Kioto, que en 2026 se convirtió en el primer restaurante de la ciudad en obtener nuevas Tres Estrellas MICHELIN en seis años, célebre por su cocina tsumikusa — platos elaborados casi por completo con plantas silvestres, hongos y pescado de río recolectados alrededor de la propiedad. Es una excursión que ocupa medio día o más, ya sea en coche (o combinando taxi y autobús), y no una parada rápida, así que hay que plantearlo como una auténtica peregrinación a la montaña y no como un desvío. Las reservas son notoriamente difíciles de conseguir y deben confirmarse directamente, con bastante antelación, junto con el horario y los detalles de acceso vigentes.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: zhangjiajie-zhangjiajie-glass-bridge
-srcHash: '6ac2580fa84d'
+srcHash: '412bda8279ea'
 title: 장가계 유리다리(Zhangjiajie Glass Bridge) 여행 가이드 (4.6★)
 description: 장가계 유리다리(Zhangjiajie Glass Bridge)는 우링위안구(Wulingyuan District)의 장가계 그랜드캐니언(Zhangjiajie Grand Canyon)을 가로지르며, 협곡 바닥에서 약 300미터 높이에 투명한 유리 통로로 걸려 있습니다. 4.6★(2,965개 리뷰) — 방문객들의 후기, 운영 시간, 팁을 확인해 보세요.
 quickAnswer: 장가계 유리다리(Zhangjiajie Glass Bridge)는 우링위안구(Wulingyuan District)의 장가계 그랜드캐니언(Zhangjiajie Grand Canyon)을 가로지르며, 협곡 바닥에서 약 300미터 높이에 투명한 유리 통로로 걸려 있습니다. 아래쪽 협곡 트레일과 함께 반나절 일정으로 계획하고, 하루 방문객 수가 제한되어 있으니 온라인으로 시간대별 티켓을 미리 예약하세요. 이 유명 명소는 인파가 몰리기 마련이니, 그 혼잡을 피하려면 평일 오전에 방문하는 것이 좋습니다.

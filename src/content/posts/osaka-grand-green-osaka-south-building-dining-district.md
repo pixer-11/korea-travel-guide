@@ -33,7 +33,7 @@ Walk up from street level and the building doesn't feel like a typical mall. Wid
 
 ## What makes the dining lineup stand out
 
-The headline act is Oyster & Italian Skai, said to be Japan's first restaurant built around that exact pairing — shucked oysters alongside Italian cooking, with a terrace seat overlooking the park lawn.
+The headline act is Oyster & Italian Skai, said to be Japan's first restaurant built around that exact pairing, shucked oysters alongside Italian cooking, with a terrace seat overlooking the park lawn.
 
 A few doors down is Sacrée Fleur, a French bistro making its debut in western Japan. For wagyu fans, Yakiniku Ushigoro brings its A5-grade beef reputation into a room with the same park-facing outlook.
 
@@ -43,7 +43,7 @@ Together they signal what this complex is going for: destination restaurants rat
 
 Grand Green Osaka's South Building sits right next to JR Osaka Station, making it about as easy to reach as anywhere in the city. If you're coming via Umeda Station on the Hankyu, Hankyu-Umeda, or Midosuji subway lines, it's a short walk through the surrounding underground and street-level passages.
 
-Look for signage pointing toward Umekita Park — the South Building sits at its edge, so following the greenery on foot from any of the Umeda-area stations will get you there.
+Look for signage pointing toward Umekita Park. The South Building sits at its edge, so following the greenery on foot from any of the Umeda-area stations will get you there.
 
 ## When to go
 
@@ -53,18 +53,18 @@ Weekday early evenings, before the after-work dinner rush fully sets in, are lik
 
 ## How to visit like a local
 
-Osaka diners treat a hyped opening like this with a mix of curiosity and patience — reservations move fast at buzzworthy debuts, so call or book online ahead rather than walking in expecting a terrace table.
+Osaka diners treat a hyped opening like this with a mix of curiosity and patience, reservations move fast at buzzworthy debuts, so call or book online ahead rather than walking in expecting a terrace table.
 
-- Book Oyster & Italian Skai and Sacrée Fleur in advance if you want a specific seating time — first-of-their-kind concepts like these fill up quickly after opening.
+- Book Oyster & Italian Skai and Sacrée Fleur in advance if you want a specific seating time, first-of-their-kind concepts like these fill up quickly after opening.
 - Pay by card or IC transit card (Suica/ICOCA) where accepted; contactless payment is standard in Osaka's newer developments.
-- Skip the urge to over-tip — tipping isn't customary in Japanese restaurants, even upscale ones.
-- If you just want to browse, walk the terrace level first before committing to a restaurant — the park view is free and lets you compare atmospheres.
+- Skip the urge to over-tip, tipping isn't customary in Japanese restaurants, even upscale ones.
+- If you just want to browse, walk the terrace level first before committing to a restaurant. The park view is free and lets you compare atmospheres.
 - Avoid peak dinner hours (roughly 7–8pm) if you'd rather not queue; an early or later seating is easier to land.
 
-The biggest mistake visitors make here is treating it like a quick mall food stop. This complex is built for lingering — a pre-dinner walk through Umekita Park, then a reserved table, not a rushed bite between train transfers.
+The biggest mistake visitors make here is treating it like a quick mall food stop. This complex is built for lingering, a pre-dinner walk through Umekita Park, then a reserved table, not a rushed bite between train transfers.
 
 ## Before you go
 
 Because Grand Green Osaka's South Building is so newly opened, details like operating hours, reservation policies, and even which restaurants are fully running can shift in the first months. Check each restaurant's official page or a reservation platform like TableCheck close to your visit date.
 
-If a table isn't available at your first choice, the density of new openings in this one building means a satisfying backup — oysters, French bistro plates, or A5 wagyu — is usually just a short walk away on the same terrace.
+If a table isn't available at your first choice, the density of new openings in this one building means a satisfying backup (oysters, French bistro plates, or A5 wagyu) is usually just a short walk away on the same terrace.

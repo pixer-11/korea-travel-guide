@@ -91,21 +91,21 @@ updatedDate: '2026-09-01'
 ---
 ## Why go
 
-Daegu's Dongseong-ro is the city's densest shopping and nightlife strip — a pedestrian corridor packed with fashion boutiques, cosmetics chains, street-food carts, and cafés. Amid all the Korean fried chicken and tteokbokki stalls, Nazar Kebab stands out simply because it's one of the few places downtown serving Turkish-style kebabs done well. With a 4.4 rating across 469 reviews, it's clearly earned a loyal following among both locals craving something different and foreign visitors homesick for familiar Middle Eastern flavors.
+Daegu's Dongseong-ro is the city's densest shopping and nightlife strip, a pedestrian corridor packed with fashion boutiques, cosmetics chains, street-food carts, and cafés. Amid all the Korean fried chicken and tteokbokki stalls, Nazar Kebab stands out simply because it's one of the few places downtown serving Turkish-style kebabs done well. With a 4.4 rating across 469 reviews, it's clearly earned a loyal following among both locals craving something different and foreign visitors homesick for familiar Middle Eastern flavors.
 
-It's the kind of place you duck into between shopping stops, not a formal dining destination — and that's exactly its appeal.
+It's the kind of place you duck into between shopping stops, not a formal dining destination, and that's exactly its appeal.
 
 ## What to eat
 
-The core menu revolves around döner kebab, typically shaved off a rotating spit and served either wrapped in flatbread (dürüm) or piled over rice/salad in a plate format. Many visitors also order İskender-style kebab, topped with tomato sauce and yogurt, and lahmacun (thin, Turkish-style flatbread with minced meat and spices) if it's on offer that day. Portions tend to be generous relative to the price, and the flavor profile — cumin, sumac, garlic yogurt sauce, grilled meat char — is a genuine change of pace from the sweet-spicy Korean fare dominating the surrounding blocks.
+The core menu revolves around döner kebab, typically shaved off a rotating spit and served either wrapped in flatbread (dürüm) or piled over rice/salad in a plate format. Many visitors also order İskender-style kebab, topped with tomato sauce and yogurt, and lahmacun (thin, Turkish-style flatbread with minced meat and spices) if it's on offer that day. Portions tend to be generous relative to the price, and the flavor profile (cumin, sumac, garlic yogurt sauce, grilled meat char) is a genuine change of pace from the sweet-spicy Korean fare dominating the surrounding blocks.
 
 Prices are moderate, meaning a filling meal here should land solidly in budget-to-midrange territory, though exact menu prices shift over time, so check the posted board or a delivery app before ordering.
 
 ## Getting there
 
-Nazar Kebab sits at 58-19 Dongseong-ro 3-gil, Jung-gu, right in the heart of the Dongseong-ro pedestrian zone. The easiest access point is Jungangno Station on Daegu Metro Line 1 — take an exit toward Dongseong-ro (the station sits right at the southern edge of the shopping street) and walk north into the pedestrian area; the restaurant is tucked among the side alleys (gil) branching off the main strip, a five-to-ten-minute walk depending on which exit you use.
+Nazar Kebab sits at 58-19 Dongseong-ro 3-gil, Jung-gu, right in the heart of the Dongseong-ro pedestrian zone. The easiest access point is Jungangno Station on Daegu Metro Line 1. Take an exit toward Dongseong-ro (the station sits right at the southern edge of the shopping street) and walk north into the pedestrian area; the restaurant is tucked among the side alleys (gil) branching off the main strip, a five-to-ten-minute walk depending on which exit you use.
 
-Banwoldang Station, served by both Line 1 and Line 2, is a slightly longer but still walkable alternative if you're coming from elsewhere on the Line 2 corridor. Because Dongseong-ro is entirely pedestrianized, expect to finish the last stretch on foot regardless of how you arrive — taxis can't drop off directly at the door.
+Banwoldang Station, served by both Line 1 and Line 2, is a slightly longer but still walkable alternative if you're coming from elsewhere on the Line 2 corridor. Because Dongseong-ro is entirely pedestrianized, expect to finish the last stretch on foot regardless of how you arrive, taxis can't drop off directly at the door.
 
 ## When to go
 

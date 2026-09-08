@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-incheon-grand-park
-srcHash: '99d929a0c2ed'
+srcHash: '2983c0dda287'
 title: 'Incheon Grand Park: Guía de viaje (4,5★)'
 description: 'Incheon Grand Park es un gran parque urbano y montañoso en Namdong-gu que combina un zoológico gratuito, un jardín botánico, estanques y amplios prados; vale la pena dedicarle entre dos y cuatro horas. 4,5★ (6.754 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Incheon Grand Park es un gran parque urbano y montañoso en Namdong-gu que combina un zoológico gratuito, un jardín botánico, estanques y amplios prados; vale la pena dedicarle entre dos y cuatro horas. Abre todos los días de 6am a 10pm y se llena los fines de semana entre las 9am y las 7pm, así que lo ideal es ir un día de semana por la mañana o un fin de semana después de las 9pm para disfrutar de un paseo más tranquilo.

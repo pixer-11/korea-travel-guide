@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-wat-phra-that-doi-suthep
-srcHash: 'ce0297c9c419'
+srcHash: 'b1de21272ba3'
 title: 'Wat Phra That Doi Suthep: Guía de Viaje de Chiang Mai'
 description: Wat Phra That Doi Suthep se alza en una montaña boscosa a unos 15 km (entre 30 y 45 minutos en coche) al noroeste del casco antiguo de Chiang Mai, coronado por un reluciente chedi dorado con amplias vistas sobre el valle.
 quickAnswer: Wat Phra That Doi Suthep se alza en una montaña boscosa a unos 15 km (entre 30 y 45 minutos en coche) al noroeste del casco antiguo de Chiang Mai, coronado por un reluciente chedi dorado con amplias vistas sobre el valle. Calcula entre 1,5 y 2 horas para visitar el templo, más tiempo si subes por la escalinata naga de 306 escalones en lugar de tomar el funicular. Ve a primera hora de la mañana (antes de las 9 a. m.) o por la tarde para evitar las aglomeraciones de autobuses turísticos y el calor del mediodía.

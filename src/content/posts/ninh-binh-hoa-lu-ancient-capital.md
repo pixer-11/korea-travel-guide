@@ -111,7 +111,7 @@ This is a well-visited, well-trodden stop on the Ninh Binh circuit, not a quiet 
 - **Best time**: weekdays anytime, or weekends strictly between 7am and 8am
 - **Avoid**: weekend late-morning and early-afternoon (9am–2pm), when tour groups peak
 - **Payment**: small entrance and parking fees are typically paid in cash (Vietnamese dong); card machines are unreliable this far from the city
-- **Dress**: cover shoulders and knees — these are active temples, not ruins for climbing on
+- **Dress**: cover shoulders and knees. These are active temples, not ruins for climbing on
 - **Etiquette**: remove hats before entering temple interiors, and keep voices low near the altars
 
 The mistake most first-timers make is treating Hoa Lu as a quick photo stop between bigger sights and rushing through in fifteen minutes. Slow down at Le Dai Hanh Temple instead, where the crowds thin out fastest and the carving detail rewards a closer look.

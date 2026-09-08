@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-smith-wollensky
-srcHash: 'be87d22185f8'
+srcHash: '4c36356d8227'
 title: 东京史密斯与沃伦斯基牛排馆（Smith & Wollensky）
 description: 东京银座新开的话题餐厅——史密斯与沃伦斯基（Smith & Wollensky）：这是一家怎样的餐厅、地址在哪里、又该如何前往用餐。
 quickAnswer: 纽约传奇牛排馆史密斯与沃伦斯基（Smith & Wollensky）在银座开出了日本首店，占地三层楼，主打美国农业部（USDA）Prime级别的干式熟成牛排，同时保留了品牌一贯热情豪爽的美式待客风格。这里目前人气正旺，最好提前订位；无论是工作日晚上小酌一顿正餐，还是周末选个清静的午后来吃午餐，都是不错的时机。由于餐厅刚开业不久，营业细节可能还会有调整，出发前建议先订好位并确认最新营业时间。

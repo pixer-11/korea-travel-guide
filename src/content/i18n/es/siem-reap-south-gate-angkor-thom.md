@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-south-gate-angkor-thom
-srcHash: '5fff4e626715'
+srcHash: 'f0134737192d'
 title: 'Puerta Sur de Angkor Thom: guía de viaje de Siem Reap (4,9★)'
 description: 'La Puerta Sur de Angkor Thom (South Gate), la entrada por calzada al Parque Arqueológico de Angkor en Siem Reap, se visita mejor en tuk-tuk o bicicleta como parte de un recorrido de "pequeño circuito" por Angkor, idealmente justo después del amanecer y antes de que lleguen los autobuses turísticos. 4,9★ (108 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Puerta Sur de Angkor Thom (South Gate), la entrada por calzada al Parque Arqueológico de Angkor en Siem Reap, se visita mejor en tuk-tuk o bicicleta como parte de un recorrido de "pequeño circuito" por Angkor, idealmente justo después del amanecer y antes de que lleguen los autobuses turísticos. Es una parada más tranquila que Angkor Wat o el propio Bayon, así que aquí sí se puede uno parar en el puente y mirar a los ojos a los gigantescos rostros de piedra. Dedícale entre 20 y 30 minutos y luego sigue el medio kilómetro que falta hasta el interior de la ciudad amurallada, en dirección al Bayon.

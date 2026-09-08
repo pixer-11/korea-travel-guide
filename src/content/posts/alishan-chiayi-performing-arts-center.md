@@ -58,13 +58,13 @@ draft: false
 
 ## Why it's worth a stop
 
-You come around the bend on Jianguo Road and the building just appears — a stack of raw concrete forms, angular and almost brutalist, rising out of a lawn that softens the whole thing.
+You come around the bend on Jianguo Road and the building just appears, a stack of raw concrete forms, angular and almost brutalist, rising out of a lawn that softens the whole thing.
 
 This is Chiayi Performing Arts Center, and even if you don't catch a show, the architecture alone earns a detour on the way to or from Alishan. It's one of the more distinctive public buildings in Chiayi County, and photographers linger here for the geometry and the way afternoon light rakes across the exposed concrete.
 
 ## What you'll actually see
 
-Up close, the complex reveals itself as three linked venues — a large theater, a music hall, and an experimental black-box space — wrapped around courtyards and terraced steps.
+Up close, the complex reveals itself as three linked venues (a large theater, a music hall, and an experimental black-box space) wrapped around courtyards and terraced steps.
 
 Locals often just walk the grounds rather than go inside. The plaza in front is a popular spot for kids on bikes and evening strollers, and the reflecting pools catch the building's silhouette at dusk.
 
@@ -81,13 +81,13 @@ The center is in Wenlong Village, Minxiong Township, a few kilometers north of C
 
 Most visitors arrive by car or scooter, since public transit options are limited this far out. If you're staying in Chiayi city, it's roughly a 15–20 minute drive, and there's usually ample parking near the plaza.
 
-Coming from Alishan itself, you'll wind down through the foothills before hitting flatter farmland roads — a useful, scenic way to break up the journey back toward Chiayi's train station or the High Speed Rail.
+Coming from Alishan itself, you'll wind down through the foothills before hitting flatter farmland roads, a useful, scenic way to break up the journey back toward Chiayi's train station or the High Speed Rail.
 
 ## When to go
 
 The center keeps weekday hours only: 8am to 5pm, Monday through Friday. It's closed Saturday and Sunday, which catches some travelers off guard since so much of Taiwan's cultural programming leans toward weekends.
 
-If you want to actually go inside, plan a weekday visit. If you're just there for the architecture and grounds, any day works — the exterior and plaza are accessible even when the doors are locked.
+If you want to actually go inside, plan a weekday visit. If you're just there for the architecture and grounds, any day works. The exterior and plaza are accessible even when the doors are locked.
 
 Early morning or just before closing tends to be quietest, with soft light that flatters the concrete surfaces for photos.
 
@@ -95,14 +95,14 @@ Early morning or just before closing tends to be quietest, with soft light that 
 
 Treat this as a photography and architecture stop first, performance venue second, unless you've specifically timed a show.
 
-- Check the official Chiayi Performing Arts Center schedule online before assuming anything is playing — performances aren't daily.
+- Check the official Chiayi Performing Arts Center schedule online before assuming anything is playing, performances aren't daily.
 - Arrive on foot or by scooter through the plaza rather than driving straight to a back entrance; the approach is part of the experience.
 - Weekday mornings before 10am tend to have the fewest visitors and the best light for the exterior.
-- If a show is happening, tickets are typically sold in advance through local box office channels rather than at the door — don't count on walk-up entry.
+- If a show is happening, tickets are typically sold in advance through local box office channels rather than at the door. Don't count on walk-up entry.
 - Dress is casual for browsing the grounds, but smarter if you're attending an actual performance.
 - Combine the visit with lunch in Minxiong or Chiayi city, since there's little food available immediately on-site.
 
-The building isn't a bucket-list tourist magnet in the way Alishan's forest railway or sunrise views are, so don't expect crowds or souvenir stalls. It's a well-known civic landmark that draws a mix of concertgoers, students, and architecture fans rather than tour buses — come for the structure itself and treat any performance as a bonus.
+The building isn't a bucket-list tourist magnet in the way Alishan's forest railway or sunrise views are, so don't expect crowds or souvenir stalls. It's a well-known civic landmark that draws a mix of concertgoers, students, and architecture fans rather than tour buses, come for the structure itself and treat any performance as a bonus.
 
 ## Nearby, while you're out this way
 

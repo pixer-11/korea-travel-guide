@@ -94,7 +94,7 @@ updatedDate: '2026-09-01'
 
 You come here to see faces carved a thousand years ago still looking back at you. This is the world's largest collection of Cham sculpture, the art of the Hindu-Buddhist kingdom that ruled central Vietnam for over a millennium. The French-built galleries hold sandstone deities, dancers, and lingas pulled from temple sites like My Son, Dong Duong, and Tra Kieu.
 
-Walk in and the first thing you notice is the quiet. Warm terracotta-toned walls, high ceilings, and diffused daylight fall across weathered stone that's older than most European cathedrals. Nothing here is behind glass in the older wings — you get close enough to see chisel marks and centuries of erosion.
+Walk in and the first thing you notice is the quiet. Warm terracotta-toned walls, high ceilings, and diffused daylight fall across weathered stone that's older than most European cathedrals. Nothing here is behind glass in the older wings, you get close enough to see chisel marks and centuries of erosion.
 
 ## Getting there
 
@@ -104,12 +104,12 @@ If you're coming from My Khe Beach, expect a 15–20 minute drive across one of 
 
 ## What to see inside
 
-The collection is organized by region — My Son, Tra Kieu, Dong Duong, Thap Mam — each with a distinct sculptural style worth slowing down for.
+The collection is organized by region (My Son, Tra Kieu, Dong Duong, Thap Mam) each with a distinct sculptural style worth slowing down for.
 
 - The Tra Kieu Altar, carved with dancing apsaras, is one of the museum's signature pieces.
 - Look for the Dong Duong Buddha, a bronze figure blending Cham and Indian influences.
 - The Thap Mam room holds fiercer, more stylized guardian figures and mythical beasts from the 12th–13th centuries.
-- Don't skip the small side displays of Cham textiles, instruments, and everyday tools — they round out the religious carvings with a sense of daily life.
+- Don't skip the small side displays of Cham textiles, instruments, and everyday tools, they round out the religious carvings with a sense of daily life.
 
 Plan for 45 minutes if you're moving quickly, closer to 90 if you read the placards and linger.
 
@@ -125,10 +125,10 @@ Midday heat in Da Nang (especially April through August) also makes an early vis
 
 This museum is firmly on the tourist circuit now, so the smart move is timing, not secrecy. Arrive right at 7am opening, or by 8am at the latest, to beat the 10am surge that lasts until closing on weekends.
 
-- Buy your ticket at the counter on arrival — prices are modest and posted at the door, but confirm the current fee since it can shift.
+- Buy your ticket at the counter on arrival. Prices are modest and posted at the door, but confirm the current fee since it can shift.
 - Cash and card are both generally accepted at the ticket desk; carry small dong notes as backup.
 - Signage is in Vietnamese, French, and English, so an audio guide or guidebook isn't essential, but renting one adds context to the regional styles.
-- Photography is typically allowed without flash — flash damages the sandstone surfaces over time, so keep it off.
+- Photography is typically allowed without flash, flash damages the sandstone surfaces over time, so keep it off.
 - The biggest mistake visitors make is rushing through in twenty minutes; the layout rewards slow looping through each regional room rather than a straight line to the exit.
 
 Combine it with a walk along the Han River promenade afterward, or time your visit to end near sunset viewing of the Dragon Bridge, a short stroll away.

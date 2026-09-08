@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-tigermilk
-srcHash: '3567162e9741'
+srcHash: 'd69b7db332fa'
 title: 'Tigermilk: guía de viaje de Marsella'
 description: 'Tigermilk en Marsella (Marseille), Francia — un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Tigermilk Marsella es el décimo local del grupo de restaurantes de inspiración sudamericana, instalado en un llamativo edificio de estilo hacienda de 350 m² — una incorporación nueva y muy comentada a la escena gastronómica de la ciudad. Vale la pena ir tanto por la arquitectura espectacular y los sabores sudamericanos al estilo ceviche y pisco como por la comida en sí; conviene reservar con antelación ya que acaba de abrir y está atrayendo multitudes, y confirmar los horarios actuales y la política de reservas antes de ir, ya que todavía se están asentando.

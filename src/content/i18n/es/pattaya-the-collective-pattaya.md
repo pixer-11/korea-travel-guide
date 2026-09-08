@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-the-collective-pattaya
-srcHash: '20491c090ab3'
+srcHash: 'ce308a8be315'
 title: 'The Collective: dónde comer en Pattaya'
 description: The Collective Pattaya es el restaurante de todo el día del Holiday Inn Pattaya, en Beach Road, célebre por sus generosos bufés internacionales (mariscos, sushi, currys, estaciones de cocina en vivo) junto a una carta a la carta.
 quickAnswer: The Collective Pattaya es el restaurante de todo el día del Holiday Inn Pattaya, en Beach Road, célebre por sus generosos bufés internacionales (mariscos, sushi, currys, estaciones de cocina en vivo) junto a una carta a la carta. Con una puntuación de 4.8 sobre más de 2,173 reseñas, es una opción segura para familias y grupos que buscan variedad sin alejarse de la franja frente a la playa. Conviene ir a almorzar o a la cena buffet, y reservar con antelación los fines de semana.

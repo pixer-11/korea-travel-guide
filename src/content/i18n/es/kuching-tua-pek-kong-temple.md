@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuching-tua-pek-kong-temple
-srcHash: '3f1303b2607e'
+srcHash: 'fe57c9a20f53'
 title: 'Templo Tua Pek Kong: guía de viaje de Kuching (4,5★)'
 description: 'El templo Tua Pek Kong se encuentra justo en el paseo fluvial de Kuching, al pie del casco antiguo del barrio chino, abierto todos los días de 6:00 a 18:00, y su visita completa toma entre 20 y 30 minutos. 4,5★ (640 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Tua Pek Kong se encuentra justo en el paseo fluvial de Kuching, al pie del casco antiguo del barrio chino, abierto todos los días de 6:00 a 18:00, y su visita completa toma entre 20 y 30 minutos. Es el templo taoísta más antiguo de Sarawak y, a pesar de su llamativa fachada roja y dorada, sigue siendo poco conocido, por lo que rara vez hay aglomeraciones. Para una visita más tranquila, conviene ir entre semana de 17:00 a 18:00 o los fines de semana de 15:00 a 18:00, justo antes del cierre.

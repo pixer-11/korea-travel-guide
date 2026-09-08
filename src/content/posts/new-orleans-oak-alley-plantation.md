@@ -72,13 +72,13 @@ draft: false
 ---
 ## Why go
 
-You come here for the trees first, the history second — though the second is the reason the first matters. Twenty-eight live oaks, planted in the early 1700s, form a canopy so dense the sunlight breaks into moving coins on the dirt path beneath them. At the end of that alley stands a white-columned mansion that has become one of the most photographed buildings in Louisiana.
+You come here for the trees first, the history second, though the second is the reason the first matters. Twenty-eight live oaks, planted in the early 1700s, form a canopy so dense the sunlight breaks into moving coins on the dirt path beneath them. At the end of that alley stands a white-columned mansion that has become one of the most photographed buildings in Louisiana.
 
 But Oak Alley is also a working memorial to slavery. Restored slave cabins near the mansion hold exhibits on the enslaved workers who cleared this land and ran its sugarcane operation. Walking from the grand front porch to those cabins in a few hundred yards is the point.
 
 ## Getting there
 
-Oak Alley Plantation sits at 3645 LA-18 in Vacherie, roughly an hour's drive west of downtown New Orleans along the Mississippi's River Road. Most visitors rent a car or book a guided van tour — there's no practical public transit option this far outside the city.
+Oak Alley Plantation sits at 3645 LA-18 in Vacherie, roughly an hour's drive west of downtown New Orleans along the Mississippi's River Road. Most visitors rent a car or book a guided van tour. There's no practical public transit option this far outside the city.
 
 If you're driving, the River Road itself is part of the experience: sugarcane fields, small river towns, and levees blocking the water from view until you crest them. Parking on site is free and easy.
 
@@ -99,17 +99,17 @@ There's also a restaurant on site serving Louisiana comfort food, useful if you'
 
 Oak Alley is open daily, with no day off during the week. Measured foot-traffic data shows the calmest window is 8:30am to 10am, both on weekdays and weekends.
 
-Avoid arriving between noon and 3pm on weekends — that's when tour buses and day-trip crowds peak, and the mansion tour queue backs up fastest. Spring and fall bring milder temperatures than the thick heat of a Louisiana summer, though the oaks look striking in any season.
+Avoid arriving between noon and 3pm on weekends. That's when tour buses and day-trip crowds peak, and the mansion tour queue backs up fastest. Spring and fall bring milder temperatures than the thick heat of a Louisiana summer, though the oaks look striking in any season.
 
 ## How to visit like a local
 
 This is a well-visited stop on the plantation circuit, not a quiet find, so timing your arrival matters more than almost anything else you do here.
 
 - Arrive at or near opening (8:30am) to walk the alley before the first tour buses unload
-- Buy tickets online in advance — the mansion tour runs on a timed schedule, and walk-up spots can fill on weekends
+- Buy tickets online in advance. The mansion tour runs on a timed schedule, and walk-up spots can fill on weekends
 - Bring cash or card for the restaurant and gift shop; both accept standard payment
 - Wear closed shoes for the gravel paths and grass around the cabins
-- Tip the guides if the tour genuinely adds to your visit — it's appreciated, not expected
+- Tip the guides if the tour genuinely adds to your visit. It's appreciated, not expected
 
 The mistake most first-time visitors make is treating this as a photo stop for the alley and skipping the slave cabin exhibits entirely. Give both halves of the property equal time; the mansion tells one story, and the cabins tell the other, more complete one.
 

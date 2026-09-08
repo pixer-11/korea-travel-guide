@@ -87,11 +87,11 @@ Banteay Srei sits roughly 25–30km northeast of Siem Reap town, further out tha
 
 Most visitors hire a tuk-tuk or private car for the round trip, which takes about 40–50 minutes each way along a paved road through rice paddies and sugar palm groves. Some drivers pair it with Banteay Samre or the Cambodia Landmine Museum, both en route.
 
-You'll need a valid Angkor Archaeological Park pass to enter — the same one-day, three-day, or seven-day pass covers all the temples, so buy it at the official ticket center near Siem Reap before heading out.
+You'll need a valid Angkor Archaeological Park pass to enter, the same one-day, three-day, or seven-day pass covers all the temples, so buy it at the official ticket center near Siem Reap before heading out.
 
 ## What to see once inside
 
-The temple itself is compact, so you're not walking far — the payoff is in the detail, not the distance.
+The temple itself is compact, so you're not walking far. The payoff is in the detail, not the distance.
 
 Look for:
 - The elaborate pediments over the central sanctuary doorways, showing scenes like Shiva on Mount Kailash
@@ -99,25 +99,25 @@ Look for:
 - The moat and enclosure walls, which give a sense of the temple's original scale
 - Replica lion and guardian statues (many originals are in Phnom Penh's National Museum)
 
-Bring a zoom lens or binoculars if you have them — some of the finest carving sits above eye level.
+Bring a zoom lens or binoculars if you have them. Some of the finest carving sits above eye level.
 
 ## When to go
 
 Weekends bring the heaviest crowds, with foot traffic peaking between 9am and 4pm on Saturdays and Sundays. Try to avoid that window if you can.
 
-Weekdays are noticeably calmer across the entire opening period, from 7:30am to 5:30pm. There's no single "secret hour" here — the site stays manageable most of a weekday, which takes the pressure off an early alarm.
+Weekdays are noticeably calmer across the entire opening period, from 7:30am to 5:30pm. There's no single "secret hour" here. The site stays manageable most of a weekday, which takes the pressure off an early alarm.
 
 That said, arriving close to opening still gets you softer light on the pink sandstone and fewer tour groups clustered at the main pediments.
 
 ## How to visit like a local
 
-Drivers and guides in Siem Reap treat Banteay Srei as a half-day add-on, not a stand-alone trip — plan your day the same way.
+Drivers and guides in Siem Reap treat Banteay Srei as a half-day add-on, not a stand-alone trip. Plan your day the same way.
 
 - Combine it with Banteay Samre or Pre Rup on the way back, since they sit on the same road
 - Pay your tuk-tuk or car driver in US dollars, the de facto currency for tourism transactions in Siem Reap; small riel notes work for tipping
-- Keep shoulders and knees covered — this is an active religious and cultural site, and modest dress is expected
+- Keep shoulders and knees covered. This is an active religious and cultural site, and modest dress is expected
 - Skip weekend mornings if your schedule allows; a weekday visit, any time from 8am to 5pm, avoids the worst of the tour-bus swell
-- Don't rush past the outer causeway carvings while hurrying to the central towers — some of the best relief work is on the approach, not just the sanctuary itself
+- Don't rush past the outer causeway carvings while hurrying to the central towers. Some of the best relief work is on the approach, not just the sanctuary itself
 
 The most common mistake is treating Banteay Srei like a quick photo stop. Because it's smaller than Angkor Wat, people budget ten minutes and miss half the carving. Slow down here more than anywhere else in the park.
 

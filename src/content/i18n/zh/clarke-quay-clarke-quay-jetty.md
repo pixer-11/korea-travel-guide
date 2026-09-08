@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-clarke-quay-jetty
-srcHash: '9326f396941a'
+srcHash: 'a1ca27fd5a2f'
 title: 克拉码头渡船码头（Clarke Quay Jetty）旅行指南
 description: 克拉码头渡船码头是新加坡河上的一个小型上下船点，新加坡河游船（Singapore River Cruise）的电船在这里接送乘客，沿着克拉码头修复后的仓库群一带航行。
 quickAnswer: 克拉码头渡船码头是新加坡河上的一个小型上下船点，新加坡河游船（Singapore River Cruise）的电船在这里接送乘客，沿着克拉码头修复后的仓库群一带航行。最佳游览时间是傍晚日落前，这时你可以搭乘游船、看着瑞士桥（Read Bridge）的人潮渐渐散去，还能看到码头的遮篷灯饰亮起。在码头本身停留20-30分钟即可，如果要等船搭乘游船，则最多需要一小时。

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hong-kong-montana
-srcHash: '612816ce075e'
+srcHash: 'ba4d9c126208'
 title: '몬태나: 홍콩 여행 가이드'
 description: 홍콩에서 지금 가장 화제가 되고 있는 곳, 몬태나(Montana)에 대해 소개합니다. 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 정리했습니다.
 quickAnswer: 몬태나는 홍콩 셩완(Sheung Wan)과 센트럴(Central) 사이 할리우드 로드(Hollywood Road)에 새로 문을 연 칵테일 바입니다. 바르셀로나의 립스(Sips)를 이끌었던 로렌초 안티노리(Lorenzo Antinori)와 시몬 카포랄레(Simone Caporale) 두 사람이 바 레오네(Bar Leone)에 이어 선보이는 자매 프로젝트입니다. 예약을 원하신다면 서둘러야 합니다. 자리가 금방 차므로 미리 예약하시거나, 평일 오픈 시간에 맞춰 웨이팅 없이 들어가 보는 방법을 추천합니다. 방문하기 가장 좋은 시간은 센트럴 쪽 퇴근 인파가 몰리기 전인 초저녁입니다.

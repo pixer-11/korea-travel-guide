@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: putrajaya-seri-wawasan-bridge
-srcHash: '71fe24c4825f'
+srcHash: '3618862e0154'
 title: スリ・ワワサン橋(Seri Wawasan Bridge):プトラジャヤ旅行ガイド(4.5★)
 description: スリ・ワワサン橋(Seri Wawasan Bridge)は、プトラジャヤ湖(Putrajaya Lake)のプレシンクト8(Presint 8)にかかる、非対称の単一パイロンが特徴的な橋。夕暮れ時、照明が色を変え、パイロンのケーブルが最後の陽光を受ける様子が最も美しく見えます。4.5★(2,948件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: スリ・ワワサン橋(Seri Wawasan Bridge)は、プトラジャヤ湖(Putrajaya Lake)のプレシンクト8(Presint 8)にかかる、非対称の単一パイロンが特徴的な橋です。夕暮れ時、照明が色を変え、パイロンのケーブルが最後の陽光を受ける様子が最も美しく見えます。24時間開放されており、入場は無料。平日の午前7時から8時が最も静かで、混雑がピークとなる週末の午後5時から午後11時は避けるのがおすすめです。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seville-el-rinconcillo
-srcHash: '0b36a53e1a3e'
+srcHash: 'b8c8a3371b0e'
 title: 埃尔林孔西约(El Rinconcillo)：塞维利亚美食指南（4.3★）
 description: 埃尔林孔西约（El Rinconcillo）位于卡斯科安提瓜老城区（Casco Antiguo），靠近阿拉梅达赫拉克莱斯广场（Alameda de Hércules），是塞维利亚历史最悠久的塔帕斯酒吧，创立于1670年——不要错过鹰嘴豆炖菠菜（espinacas con garbanzos）、萨尔莫雷霍冷汤（salmorejo），以及在大理石吧台现切的腌肉，再配上一杯雪利酒或里奥哈红酒。4.3★（14,706条评价）——看看游客怎么说，营业时间和实用建议。
 quickAnswer: 埃尔林孔西约（El Rinconcillo）位于卡斯科安提瓜老城区（Casco Antiguo），靠近阿拉梅达赫拉克莱斯广场（Alameda de Hércules），是塞维利亚历史最悠久的塔帕斯酒吧，创立于1670年——不要错过鹰嘴豆炖菠菜（espinacas con garbanzos）、萨尔莫雷霍冷汤（salmorejo），以及在大理石吧台现切的腌肉，再配上一杯来自丰富雪利酒和里奥哈红酒单上的美酒。这里非常受欢迎，评价也很高，因此老实的建议是：做好排队的心理准备，并把吧台上用粉笔记账的传统仪式当作体验的一部分，而不是麻烦事。

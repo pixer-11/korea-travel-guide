@@ -104,7 +104,7 @@ updatedDate: '2026-09-06'
 
 This is the largest Confucius temple in Taiwan, and the scale shows the moment you pass through the outer wall. Wide stone courtyards open onto red-columned halls roofed in glazed yellow tile, styled after the great Confucian temple in Qufu, China. It's a place built for quiet contemplation rather than spectacle, and that's exactly its appeal.
 
-Unlike Taiwan's incense-heavy folk temples, there's no burning incense here — Confucian ritual keeps things spare. The air smells faintly of lake water and cut grass rather than smoke, and the courtyards feel almost empty of clutter, just red pillars, dark wood beams, and sky.
+Unlike Taiwan's incense-heavy folk temples, there's no burning incense here, Confucian ritual keeps things spare. The air smells faintly of lake water and cut grass rather than smoke, and the courtyards feel almost empty of clutter, just red pillars, dark wood beams, and sky.
 
 ## Getting there
 
@@ -114,18 +114,18 @@ Buses running along Zuoying's lakeside routes also stop within a few minutes' wa
 
 ## What to see
 
-Start at the Lingxing Gate, the temple's ceremonial front entrance, its name referring to a heavenly star associated with talent and learning. Walk through in a straight line if you can — tradition holds this gate is reserved for scholars and officials, so many visitors step slightly to the side out of respect.
+Start at the Lingxing Gate, the temple's ceremonial front entrance, its name referring to a heavenly star associated with talent and learning. Walk through in a straight line if you can, tradition holds this gate is reserved for scholars and officials, so many visitors step slightly to the side out of respect.
 
-Inside, the Dacheng Hall (Hall of Great Accomplishment) is the visual anchor: double-eaved roofline, carved stone dragon pillars, and a dim interior lit mostly by the doorway. Look for the bronze relief along the walls depicting scenes from Confucius's life — it's one of the temple's most distinctive features and easy to miss if you rush through.
+Inside, the Dacheng Hall (Hall of Great Accomplishment) is the visual anchor: double-eaved roofline, carved stone dragon pillars, and a dim interior lit mostly by the doorway. Look for the bronze relief along the walls depicting scenes from Confucius's life. It's one of the temple's most distinctive features and easy to miss if you rush through.
 
-- Dacheng Hall — the main worship hall, framed by dragon-carved columns
-- Bronze relief panels — a sequential telling of Confucius's biography
-- East and West side halls — quieter side courtyards, good for a slower pace
-- Lingxing Gate — the formal southern entrance, worth photographing from outside first
+- Dacheng Hall, the main worship hall, framed by dragon-carved columns
+- Bronze relief panels, a sequential telling of Confucius's biography
+- East and West side halls, quieter side courtyards, good for a slower pace
+- Lingxing Gate, the formal southern entrance, worth photographing from outside first
 
 ## When to go
 
-The temple keeps steady hours: 9am to 5pm Tuesday through Sunday, and it's closed all day Monday. Build your visit around that closure — arriving on a Monday means a locked gate and a wasted trip around the lake.
+The temple keeps steady hours: 9am to 5pm Tuesday through Sunday, and it's closed all day Monday. Build your visit around that closure, arriving on a Monday means a locked gate and a wasted trip around the lake.
 
 Weekends see foot traffic across the entire 9am–5pm window, so if your schedule allows, aim for a weekday. Late morning on a Tuesday or Wednesday tends to feel noticeably calmer than a Saturday afternoon, when tour groups and local families both tend to circle the lake.
 
@@ -135,19 +135,19 @@ Early morning light (soon after the 9am opening) is also when the courtyards are
 
 The temple is just one stop on a loop that Kaohsiung visitors typically do in a single outing. The Dragon and Tiger Pagodas, with their painted mouth entrances, sit on the lake's southeast shore, roughly a 15–20 minute walk away. The Spring and Autumn Pavilions and a large statue of Guanyin riding a dragon are also nearby.
 
-Budget half a day if you want to see the temple plus two or three lakeside sites without rushing. Comfortable shoes matter more than usual here — pathways are uneven stone in places and the full loop around Lotus Lake is a few kilometers.
+Budget half a day if you want to see the temple plus two or three lakeside sites without rushing. Comfortable shoes matter more than usual here, pathways are uneven stone in places and the full loop around Lotus Lake is a few kilometers.
 
 ## How to visit like a local
 
-Dress modestly, as you would for any active place of worship — shoulders and knees covered is a safe default even though enforcement is relaxed compared to some temples elsewhere in Asia.
+Dress modestly, as you would for any active place of worship, shoulders and knees covered is a safe default even though enforcement is relaxed compared to some temples elsewhere in Asia.
 
 There's no admission ticket booth to navigate and no queue system, so pacing yourself is on you rather than a schedule. Most visitors self-guide, reading posted placards in Chinese and English rather than joining a formal tour.
 
 A few habits locals and repeat visitors follow:
 
-- Skip the Lingxing Gate's center passage — enter from the side, a gesture of respect toward its ceremonial status
+- Skip the Lingxing Gate's center passage, enter from the side, a gesture of respect toward its ceremonial status
 - Visit right after the 9am opening on a weekday to have the halls nearly to yourself
 - Bring water; there are few shaded rest points once you're out on the open lake path
-- Combine the visit with a slow lakeside walk rather than a rushed taxi in and out — the setting is half the reason to come
+- Combine the visit with a slow lakeside walk rather than a rushed taxi in and out. The setting is half the reason to come
 
 The most common tourist misstep is treating this like a five-minute photo stop. Slow down, and the carved stonework and hall proportions reward the extra time.

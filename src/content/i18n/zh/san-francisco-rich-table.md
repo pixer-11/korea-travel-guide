@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-rich-table
-srcHash: '064b03fca3f5'
+srcHash: 'f54942332869'
 title: Rich Table：旧金山美食推荐
 description: Rich Table 位于海斯谷（Hayes Valley）边缘的高夫街（Gough Street），只供应晚餐，是一家值得预订的餐厅，主打充满创意的加州料理（想想牛肝菌甜甜圈和沙丁鱼薯片），温馨的谷仓木装潢餐厅还能望见开放式厨房。
 quickAnswer: Rich Table 位于海斯谷（Hayes Valley）边缘的高夫街（Gough Street），只供应晚餐，是一家值得预订的餐厅，主打充满创意的加州料理（想想牛肝菌甜甜圈和沙丁鱼薯片），温馨的谷仓木装潢餐厅还能望见开放式厨房。餐厅每晚5点到10点营业；如果想独享整个用餐空间，工作日5点开门时前往最合适，同时要避开周末晚上7点到9点的高峰时段。价位中高，且务必提前预订——这里名气不小，并非什么秘密去处。

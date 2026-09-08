@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-yakiuo-ishikawa
-srcHash: 'bf0cc4882f69'
+srcHash: 'c9d990c05db7'
 title: Yakiuo Ishikawa：胡志明市旅行指南
 description: Yakiuo Ishikawa（やきうお　石川）是胡志明市第一郡新近走红的一家餐厅——本文带你了解它是什么、位置在哪，以及如何前去打卡。
 quickAnswer: Yakiuo Ishikawa源自东京，主打“没有牛肉的烧肉”概念，坐落在胡志明市第一郡。店里选用刺身级别的海鲜——比如炙烤大脂（Otoro）金枪鱼——在餐桌旁现场炙烤，重现经典和牛烧肉的体验感。这家店拿下了Vietcetera Flavors Award“年度概念”大奖，如今正在草田（Thao Dien）筹备第二家分店。建议提前订位，尤其是晚餐时段；由于新店即将开业，出发前也要再确认一下最新营业时间。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: johor-bahru-kirin-coffee
-srcHash: '32b8e136d004'
+srcHash: '964d28d7436b'
 title: 'Kirin Coffee: Guía de viaje de Johor Bahru'
 description: 'Kirin Coffee en Johor Bahru, Malasia — un lugar nuevo y de moda: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: 'Kirin Coffee es una cafetería maximalista de dos plantas cerca de Mount Austin, en Johor Bahru, pensada tanto para las fotos como para el café: bloques de color saturados, objetos insólitos en cada pared y postres divertidos como su viral pastel inspirado en el plátano pegado con cinta adhesiva. Ve un día de semana si puedes, ya que los fines de semana suele haber espera, y confirma antes de ir el horario actual y si aceptan reservas, porque las cafeterías de moda como esta suelen cambiar su configuración con frecuencia.'

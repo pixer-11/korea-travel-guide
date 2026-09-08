@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: valencia-tapas-boatella
-srcHash: 'd29c02c6ab77'
+srcHash: '8013fb39c2a5'
 title: タパス・ボアテージャ:バレンシアで食事するならここ
 description: タパス・ボアテージャ(Tapas Boatella)はシウダー・ベリャ(Ciutat Vella)のメルカット広場(Plaça del Mercat)に位置し、メルカド・セントラル(Mercado Central)とロンハ・デ・ラ・セダ(Lonja de la Seda)に挟まれた場所にあります。火曜と水曜を除く毎日、午前8時から午後11時まで営業しています。
 quickAnswer: タパス・ボアテージャ(Tapas Boatella)はシウダー・ベリャ(Ciutat Vella)のメルカット広場(Plaça del Mercat)に位置し、メルカド・セントラル(Mercado Central)とロンハ・デ・ラ・セダ(Lonja de la Seda)に挟まれた場所にあります。火曜と水曜を除く毎日、午前8時から午後11時まで営業しています。お目当ては市場直送のシーフードタパス、パエリア、そして市場のタイル張りファサードを望む屋外席ですが、週末に待たずに席を確保したいなら午前9時までには到着を。テラス席は午前11時以降どんどん埋まっていきます。

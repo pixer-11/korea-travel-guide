@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-the-who-cafe
-srcHash: '4c9093d9f236'
+srcHash: 'aea769ef8664'
 title: 'The Who Cafe: Guía de viaje de Taipéi'
 description: The Who Cafe es una cafetería de dos plantas repleta de plantas, escondida al subir una escalera en Lishui Street, en el distrito de Da'an, a cinco minutos a pie del metro Dongmen (Salida 5, Líneas 3 y 6).
 quickAnswer: The Who Cafe es una cafetería de dos plantas repleta de plantas, escondida al subir una escalera en Lishui Street, en el distrito de Da'an, a cinco minutos a pie del metro Dongmen (Salida 5, Líneas 3 y 6). Ve un día de semana a media mañana para conseguir un asiento junto a la ventana y un servicio sin prisas; los fines de semana después del almuerzo se llena bastante, ya que es un local conocido con una calificación de 4.7 basada en más de 1,400 reseñas. Reserva entre 1 y 2 horas, se aceptan tanto efectivo como tarjeta, y espera hacer fila si llegas sin plan un sábado por la tarde.

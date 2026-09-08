@@ -74,13 +74,13 @@ draft: false
 
 You see the building before you understand it. Architect Kris Yao modeled the museum on a "single-slope cliff," the kind of eroded rock formation you find along Yilan's coast, and the result is a huge tilted wedge of glass and dark stone that looks like it's sliding into the wetland pond beside it.
 
-It's one of Taiwan's most photographed pieces of contemporary architecture, and the reason most visitors come at all — the exhibits inside are a genuine bonus.
+It's one of Taiwan's most photographed pieces of contemporary architecture, and the reason most visitors come at all. The exhibits inside are a genuine bonus.
 
 ## Getting there
 
 The museum sits in Toucheng Township, right where the old Wushi Harbor met the sea, about a 15-minute drive from Yilan's town center or Toucheng Station on the Yilan rail line.
 
-If you're not driving, a taxi from Toucheng Station is the easiest option — the museum is a bit far to walk with luggage. Many visitors fold it into a day trip that also covers the nearby Waisanding sandbar or Toucheng's old street.
+If you're not driving, a taxi from Toucheng Station is the easiest option. The museum is a bit far to walk with luggage. Many visitors fold it into a day trip that also covers the nearby Waisanding sandbar or Toucheng's old street.
 
 There's an on-site car park, which fills up fast on weekend afternoons.
 
@@ -107,18 +107,18 @@ Late afternoon light on the pond, with the building's dark facade mirrored in th
 
 The museum draws heavy weekend crowds, with the busiest stretch running from 10am to 5pm on Saturdays and Sundays.
 
-If you can, visit on a weekday morning shortly after the 9am opening — you'll get the lobby and main hall largely to yourself before tour groups arrive. Remember it's closed all day Wednesday, so don't build a Wednesday stop into a weekday itinerary.
+If you can, visit on a weekday morning shortly after the 9am opening. You'll get the lobby and main hall largely to yourself before tour groups arrive. Remember it's closed all day Wednesday, so don't build a Wednesday stop into a weekday itinerary.
 
 Two to three hours covers the permanent galleries, a special exhibition, and a slow lap of the wetland boardwalk.
 
 ## How to visit like a local
 
-This is a well-visited, well-reviewed museum, not a hidden find — treat it accordingly and plan around the crowds rather than expecting to have it to yourself.
+This is a well-visited, well-reviewed museum, not a hidden find, treat it accordingly and plan around the crowds rather than expecting to have it to yourself.
 
 - **Beat the weekend rush**: arrive at or just after 9am opening, especially Saturday–Sunday, before the 10am surge.
 - **Buy tickets on arrival**: lines move quickly on weekdays; queues form at the ticket counter on weekend mornings.
 - **Pay by card or mobile wallet**: contactless payment is widely accepted at Taiwanese museums, though carrying some cash is still a sensible backup.
 - **Skip the museum café rush**: it gets busy at midday; eat beforehand or after 2pm.
-- **Common mistake**: visitors often photograph the exterior and skip the wetland boardwalk entirely — it's free to walk and gives the best full view of the building's angled profile.
+- **Common mistake**: visitors often photograph the exterior and skip the wetland boardwalk entirely. It's free to walk and gives the best full view of the building's angled profile.
 - **Dress for wind**: the waterfront site is exposed, and Yilan's coastal breeze can be sharp even on sunny days.
 

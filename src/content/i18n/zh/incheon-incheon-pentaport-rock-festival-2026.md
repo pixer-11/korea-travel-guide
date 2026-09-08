@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: incheon-incheon-pentaport-rock-festival-2026
-srcHash: 'b36605d5a432'
+srcHash: 'fa4b8f7e4341'
 title: 2026年仁川Pentaport摇滚音乐节全攻略（仁川）
 description: 2026年仁川Pentaport摇滚音乐节定于2026年7月31日至8月2日在松岛月光节公园举行，阵容包括Pixies乐队、hyukoh和李承润（LEE SEUNG YOON）。
 quickAnswer: 2026年仁川Pentaport摇滚音乐节定于2026年7月31日至8月2日在仁川松岛月光节公园（Songdo Moonlight Festival Park）举行，压轴阵容为Pixies乐队，韩国音乐人hyukoh和李承润（LEE SEUNG YOON）也将登台。音乐节的购票信息可在Pentaport官方网站查询。

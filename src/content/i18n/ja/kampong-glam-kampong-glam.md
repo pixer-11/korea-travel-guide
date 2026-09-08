@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: kampong-glam-kampong-glam
-srcHash: '04e9a89e0b62'
+srcHash: '99ca219f932b'
 title: カンポンクラン（Kampong Glam）旅行ガイド
 description: カンポングランは、黄金のドームを持つスルタンモスク（Masjid Sultan）と、そこへと続く歩行者天国のブッソラ・ストリート（Bussorah Street）を中心とした、シンガポールの歴史あるマレー・イスラム地区です。
 quickAnswer: カンポングランは、黄金のドームを持つスルタンモスク（Masjid Sultan）と、そこへと続く歩行者天国のブッソラ・ストリート（Bussorah Street）を中心とした、シンガポールの歴史あるマレー・イスラム地区です。ブッソラ・ストリート、アラブ・ストリート（Arab Street）の織物店、ハジ・レーン（Haji Lane）のストリートアートを巡るには2〜3時間ほど見ておきましょう。ランチタイムや夕方の混雑を避けるなら、平日の午前中がおすすめです。最寄り駅はブギス（Bugis）駅（East-West LineおよびDowntown Line）で、徒歩7〜10分ほどです。

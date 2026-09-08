@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malaga-alcazaba
-srcHash: 'f3e3ec777842'
+srcHash: '4b29c9e99eee'
 title: 'Alcazaba: Guía de viaje de Málaga'
 description: 'Ve justo a la apertura (normalmente a las 9:00) o en la última hora antes del cierre para evitar las multitudes de los cruceros: la Alcazaba es la fortaleza morisca mejor conservada de Málaga.'
 quickAnswer: 'Ve justo a la apertura (normalmente a las 9:00) o en la última hora antes del cierre para evitar las multitudes de los cruceros: la Alcazaba es la fortaleza morisca mejor conservada de Málaga, encaramada sobre la C/ Alcazabilla con vistas al mar, arcos de herradura y jardines escalonados repletos de buganvillas. Calcula entre 60 y 90 minutos, ponte calzado con buen agarre para las rampas de piedra desgastada, y combínala con el teatro romano a sus pies y el castillo de Gibralfaro en lo alto.'

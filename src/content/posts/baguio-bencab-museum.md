@@ -79,13 +79,13 @@ draft: false
 updatedDate: '2026-08-28'
 ---
 
-The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself — low, dark-timbered, half-buried into the slope — appears almost camouflaged against the ridge.
+The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself (low, dark-timbered, half-buried into the slope) appears almost camouflaged against the ridge.
 
 This is the museum of Benedicto "BenCab" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.
 
 ## Why it's worth the trip
 
-You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases — his famous "Sabel" figures recur throughout, a recurring hunched, shawled woman he's painted for decades.
+You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, his famous "Sabel" figures recur throughout, a recurring hunched, shawled woman he's painted for decades.
 
 But the building keeps unfolding. Wander further and you hit a wing of wood-carved bulol rice gods, woven Ifugao textiles, and tribal artifacts from the northern highlands. Downstairs, a separate gallery shows contemporary Filipino artists BenCab has collected and championed himself.
 
@@ -93,10 +93,10 @@ But the building keeps unfolding. Wander further and you hit a wing of wood-carv
 
 Budget your time across four distinct zones:
 
-- The Cabrera Gallery — his career-spanning paintings and sketches
-- The Cordillera indigenous artifacts wing — carvings, textiles, tribal tools
-- The Contemporary Gallery — works by other Filipino artists from his private collection
-- The outdoor Eco-Trail and Tesima Farm — descending paths, a small pond, and mountain views
+- The Cabrera Gallery, his career-spanning paintings and sketches
+- The Cordillera indigenous artifacts wing, carvings, textiles, tribal tools
+- The Contemporary Gallery, works by other Filipino artists from his private collection
+- The outdoor Eco-Trail and Tesima Farm, descending paths, a small pond, and mountain views
 
 The outdoor section is easy to skip if you're rushed, and that would be a mistake. The eco-trail loops down through native plants with the valley opening up below, and it's where the museum stops feeling like an interior and starts feeling like the landscape it was built into.
 
@@ -108,18 +108,18 @@ Many visitors combine it with other Asin Road stops, since the road continues on
 
 ## When to go
 
-The museum is closed Mondays, so plan around that if you're mapping out a Baguio itinerary. On the days it's open — Tuesday through Sunday — hours run 9am to 6pm, giving you a full day window.
+The museum is closed Mondays, so plan around that if you're mapping out a Baguio itinerary. On the days it's open, Tuesday through Sunday, hours run 9am to 6pm, giving you a full day window.
 
 Weekday mornings, shortly after opening, tend to be calmest before school groups and weekend day-trippers arrive. Baguio's cool climate means the outdoor trail is comfortable most of the year, though the misty season (roughly June to October) can mean fog rolling through the valley, which is atmospheric but occasionally limits the view.
 
 ## How to visit like a local
 
-BenCab Museum is well-known on the Baguio circuit, so it draws steady crowds rather than being any kind of secret find — plan around that rather than expecting solitude.
+BenCab Museum is well-known on the Baguio circuit, so it draws steady crowds rather than being any kind of secret find. Plan around that rather than expecting solitude.
 
 - **Arrive early on a weekday.** Mornings right after the 9am opening are quietest, especially midweek.
 - **Pay at the entrance counter.** Cash is the safest bet; card acceptance at rural Philippine attractions can be inconsistent, so don't rely on it.
-- **Don't rush the outdoor eco-trail.** Tourists often stick to the indoor galleries and miss the pond and valley-view paths — that's half the site.
+- **Don't rush the outdoor eco-trail.** Tourists often stick to the indoor galleries and miss the pond and valley-view paths. That's half the site.
 - **Photography etiquette:** most galleries allow personal photos without flash, but check posted signs in each room, as rules can vary by exhibit.
 - **Wear a light jacket.** Even midday, Tuba's elevation keeps the museum's outdoor spaces breezy and noticeably cooler than lowland Philippines.
 
-The onsite café serves Cordillera-influenced coffee and snacks with a valley view — a good reason to linger rather than treat this as a quick photo stop. Set aside at least half a day if you're combining it with nearby Asin Road attractions.
+The onsite café serves Cordillera-influenced coffee and snacks with a valley view, a good reason to linger rather than treat this as a quick photo stop. Set aside at least half a day if you're combining it with nearby Asin Road attractions.

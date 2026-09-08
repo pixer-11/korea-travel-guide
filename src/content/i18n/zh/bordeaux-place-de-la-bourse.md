@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bordeaux-place-de-la-bourse
-srcHash: '9723dc5e755f'
+srcHash: 'f715d10b1439'
 title: 波尔多交易所广场(Place de la Bourse)旅行指南 (4.6★)
 description: 波尔多交易所广场(Place de la Bourse)是加龙河畔一座18世纪的经典广场，以水之镜(Miroir d'Eau)闻名——这片巨大的倒影水池能将建筑立面映照如镜。4.7★(20,285条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 交易所广场(Place de la Bourse)是波尔多加龙河畔一座18世纪的经典广场，以水之镜(Miroir d'Eau)闻名——这片巨大的倒影水池能将建筑立面映照如镜。广场全天24小时开放，但建议工作日早上7点到9点(周末7点到10点)前来，这时人还很少，可以避开中午之后陆续到来的人群和旅行团。

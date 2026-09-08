@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-qasr-al-hosn
-srcHash: 'cb20fc57fbe5'
+srcHash: 'c16a4a47f041'
 title: 卡斯尔阿尔霍斯恩堡（Qasr Al Hosn）：阿布扎比旅行指南
 description: 卡斯尔阿尔霍斯恩堡是阿布扎比最古老的石造建筑——一座位于市中心拉希德·本·萨伊德·阿勒马克图姆街（Rashid Bin Saeed Al Maktoum Street）上的白色堡垒，历经城堡、王宫到博物馆的变迁。
 quickAnswer: 卡斯尔阿尔霍斯恩堡是阿布扎比最古老的石造建筑——一座位于市中心的白色堡垒，历经城堡、王宫到博物馆的转变，坐落在阿尔希斯恩（Al Hisn）区的拉希德·本·萨伊德·阿勒马克图姆街（2nd Street，第二街）上。建议预留1.5至2小时游览内堡（Inner Fort）、王宫区以及关于本酋长国石油发现前历史的精彩展览；建议选择工作日上午前往，以避开其4.6星高评价所吸引来的人潮。

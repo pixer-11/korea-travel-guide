@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kanchanaburi-hellfire-pass-interpretive-centre
-srcHash: '7057b768a8b7'
+srcHash: '796dce2c8f80'
 title: 泰缅铁路地狱火隘口纪念馆：北碧旅行指南
 description: 地狱火隘口纪念馆（Hellfire Pass Interpretive Centre）位于北碧府塞约县（Sai Yok），距北碧镇约80公里，每日上午9点至下午4点开放，免费入场（欢迎捐赠）。4.7星（5,339条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 地狱火隘口纪念馆位于北碧府塞约县，距北碧镇西北方向约80公里，每日上午9点至下午4点开放，免费入场（欢迎捐赠）。建议至少留出两小时：博物馆参观约需45分钟，再加上步行深入隘口本身——这才是最震撼人心的部分。尽量在9点开门后尽早前往，步行道全程无遮阳，一到中午就会热得让人吃不消。

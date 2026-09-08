@@ -104,23 +104,23 @@ updatedDate: '2026-09-04'
 
 ## Why go
 
-Songdo Central Park is the green heart of one of Asia's most ambitious planned cities. Built on reclaimed land in Incheon's Yeonsu-gu district, the park was explicitly modeled on New York's Central Park — hence the name — but its defining feature is distinctly Korean: a long, curving seawater canal fed directly from the Yellow Sea, running roughly 1.8 km through the middle of the park.
+Songdo Central Park is the green heart of one of Asia's most ambitious planned cities. Built on reclaimed land in Incheon's Yeonsu-gu district, the park was explicitly modeled on New York's Central Park, hence the name, but its defining feature is distinctly Korean: a long, curving seawater canal fed directly from the Yellow Sea, running roughly 1.8 km through the middle of the park.
 
 Unlike most urban parks, this one is ringed by glass-and-steel skyscrapers, including the twisting G-Tower and the 68-story Northeast Asia Trade Tower (NEATT), giving the whole space a futuristic, almost sci-fi backdrop that's become one of Incheon's most photographed skylines, especially at dusk when the towers light up and reflect on the water.
 
 ## Getting there
 
-The park sits at 160 Convensia-daero, Yeonsu-gu, Incheon, and is easiest to reach via Incheon Subway Line 1. Get off at **Central Park Station**, and take **Exit 4**, which leads directly into the park grounds — no long walk required. From Incheon National Airport, it's roughly a 30–40 minute taxi ride, or you can take an airport limousine bus toward Songdo and transfer to the subway.
+The park sits at 160 Convensia-daero, Yeonsu-gu, Incheon, and is easiest to reach via Incheon Subway Line 1. Get off at **Central Park Station**, and take **Exit 4**, which leads directly into the park grounds, no long walk required. From Incheon National Airport, it's roughly a 30–40 minute taxi ride, or you can take an airport limousine bus toward Songdo and transfer to the subway.
 
 If you're coming from Seoul, the trip typically takes 90 minutes to two hours depending on your starting subway line, since Line 1 connects to several transfer points including Bupyeong and Dongincheon.
 
 ## What to see and do
 
-The signature activity is the **water taxi**, a small boat that ferries visitors along the canal for a low-cost, breezy tour of the park from water level — a good option if you're short on time or traveling with kids or older relatives. For a more active option, rent a **paddle boat** or a **bicycle** at one of the rental kiosks near the central lake; a full loop of the park's perimeter path takes about 30–40 minutes by bike.
+The signature activity is the **water taxi**, a small boat that ferries visitors along the canal for a low-cost, breezy tour of the park from water level, a good option if you're short on time or traveling with kids or older relatives. For a more active option, rent a **paddle boat** or a **bicycle** at one of the rental kiosks near the central lake; a full loop of the park's perimeter path takes about 30–40 minutes by bike.
 
 Beyond the water, the park has expansive lawns and meadows that fill with picnicking locals on weekends, a small **saltwater pool/wading area** popular with families in summer, and several sculpture installations scattered along the walking paths. The **First Fire Station Museum** and a preserved fire truck exhibit sit near one entrance, a nod to the site's development history. Photographers gather in the evening near the western edge of the lake, where the NEATT and Songdo's convention center, Convensia, form a dramatic backdrop for skyline shots.
 
-Songdo Central Park doesn't have a dense food scene inside its boundaries, but the surrounding district — often called "Central Park" or "Convensia" neighborhood — has cafés with rooftop or lakeside seating, plus casual Korean and international restaurants aimed at the area's large expat and business-traveler population. Grabbing coffee and walking the canal-side promenade is a popular low-key way to spend an hour here.
+Songdo Central Park doesn't have a dense food scene inside its boundaries, but the surrounding district, often called "Central Park" or "Convensia" neighborhood, has cafés with rooftop or lakeside seating, plus casual Korean and international restaurants aimed at the area's large expat and business-traveler population. Grabbing coffee and walking the canal-side promenade is a popular low-key way to spend an hour here.
 
 ## When to go
 
@@ -128,4 +128,4 @@ Spring (April–May) and autumn (late September–November) are the most comfort
 
 ## Nearby and practical tips
 
-The park connects easily to other Songdo attractions: **Tri-bowl**, an architectural landmark and cultural space, sits just steps away, and the **Songdo Convensia** convention center and several large shopping and dining complexes are within a short walk. Given its 4.5-star reputation among more than 6,000 reviewers, the park is best treated as a half-day anchor for a broader Songdo itinerary rather than a standalone stop — pair it with a walk through the district's wide, quiet boulevards to appreciate the scale of the planned city itself.
+The park connects easily to other Songdo attractions: **Tri-bowl**, an architectural landmark and cultural space, sits just steps away, and the **Songdo Convensia** convention center and several large shopping and dining complexes are within a short walk. Given its 4.5-star reputation among more than 6,000 reviewers, the park is best treated as a half-day anchor for a broader Songdo itinerary rather than a standalone stop, pair it with a walk through the district's wide, quiet boulevards to appreciate the scale of the planned city itself.

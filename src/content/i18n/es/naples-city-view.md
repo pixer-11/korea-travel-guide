@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: naples-city-view
-srcHash: 'f22bcce13c46'
+srcHash: '2ffc859ce0a2'
 title: 'Vista de la ciudad: Guía de viaje de Nápoles (4,8★)'
 description: '"City view" es un pequeño mirador poco visitado en Via Tito Angelini, en el distrito de Vomero, en la colina detrás del complejo del Castel Sant''Elmo y la Cartuja de San Martino. 4,8★ (199 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: '"City view" es un pequeño mirador poco visitado en Via Tito Angelini, en el distrito de Vomero, en la colina detrás del complejo del Castel Sant''Elmo y la Cartuja de San Martino. Recompensa una breve caminata cuesta arriba (o un rápido viaje en funicular) con un panorama abierto y despejado sobre los tejados de Nápoles hasta la bahía y el Vesubio — mejor a la hora dorada, cuando la luz se suaviza y las multitudes de las terrazas del monasterio ya han menguado. Calcula entre 20 y 30 minutos, no esperes encontrar instalaciones, y combínalo con un paseo por Vomero.'

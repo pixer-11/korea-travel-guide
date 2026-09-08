@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: arlington-bts-world-tour-arlington
-srcHash: '19900f4b668a'
+srcHash: '019d9c87eb85'
 title: BTS世界巡演——阿灵顿站：行前须知（阿灵顿）
 description: BTS世界巡演阿灵顿站在美国阿灵顿举办，announced日期为2026年8月15日至16日。本文记录了当时公布的场馆、日期及周边片区信息。
 quickAnswer: BTS第四次世界巡演原定于2026年8月15日至16日在得克萨斯州阿灵顿的AT&T体育场举行，这是成员们服完韩国兵役后的首场体育场规模演出。门票当时只通过BTS／Big Hit Music官方巡演渠道，以及Ticketmaster／AT&T体育场认证售票处发售。

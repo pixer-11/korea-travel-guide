@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-hong-kong-zoological-and-botanical-gardens
-srcHash: '859ef62b9b5c'
+srcHash: 'caa537465a5e'
 title: 'Jardines Zoológicos y Botánicos de Hong Kong: guía de viaje por Central'
 description: 'Los Jardines Zoológicos y Botánicos de Hong Kong, en Central, son gratuitos y abren todos los días de 6:00 a 19:00. Se dividen en una sección oriental con el zoológico y una terraza occidental con invernaderos y fuentes. 4.3★ (569 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines Zoológicos y Botánicos de Hong Kong, en Central, son gratuitos y abren todos los días de 6:00 a 19:00, divididos en una sección oriental con el zoológico y una terraza occidental con invernaderos y fuentes. Conviene ir temprano en un día laborable, antes de las 9:00, cuando los senderos todavía pertenecen a quienes practican tai chi y pasean al perro, y no a los grupos turísticos. Basta con calcular entre 45 y 60 minutos, y se puede combinar con un paseo hasta Government House o hacia el Hong Kong Park.

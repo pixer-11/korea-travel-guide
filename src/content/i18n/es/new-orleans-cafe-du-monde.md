@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-cafe-du-monde
-srcHash: '0db0019f27b2'
+srcHash: '34f35827ccb2'
 title: 'Cafe Du Monde: Guía de viaje de Nueva Orleans'
 description: Cafe Du Monde, en 800 Decatur St, en el Barrio Francés (French Quarter), es el puesto original de beignets y café con achicoria de Nueva Orleans, abierto todos los días desde las 7:15am (hasta las 11pm la mayoría de las noches, medianoche los viernes y sábados).
 quickAnswer: Cafe Du Monde, en 800 Decatur St, en el Barrio Francés (French Quarter), es el puesto original de beignets y café con achicoria de Nueva Orleans, abierto todos los días desde las 7:15am (hasta las 11pm la mayoría de las noches, medianoche los viernes y sábados). Casi siempre está lleno, así que los momentos más tranquilos son justo a la apertura o en una tarde de entre semana entre el ajetreo del almuerzo y la cena; el resto del tiempo hay que esperar fila, sobre todo las mañanas de fin de semana.

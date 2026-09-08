@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: '1ede0867b8ce'
+srcHash: '1761e672244c'
 title: 欧洲与地中海文明博物馆(MuCEM):马赛旅游指南
 description: 前往老港(Vieux-Port)入口处、J4广场上的欧洲与地中海文明博物馆(MuCEM,Musée des Civilisations de l'Europe et de la Méditerranée),并尽量选在傍晚6点至9点的夜间开放时段前往——无论工作日还是周末，这都是人最少的时段。4.4星(24,438条评价)——游客怎么说、开放时间及游览贴士。
 quickAnswer: 前往老港(Vieux-Port)入口处、J4广场上的欧洲与地中海文明博物馆(MuCEM,Musée des Civilisations de l'Europe et de la Méditerranée),并尽量选在傍晚6点至9点的夜间开放时段前往——无论工作日还是周末，这都是人最少的时段。周末人流高峰出现在上午11点至下午6点，如果你只能在这个时间段来，一定要在开馆时准时到达。建议预留两到三个小时，如果还要走天桥去圣让堡(Fort Saint-Jean),时间要更长一些。

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chicago-sawada-coffee
-srcHash: '23d8df7a02c3'
+srcHash: '7da5e682ea46'
 title: '사와다 커피(Sawada Coffee): 시카고 여행 가이드'
 description: 사와다 커피(Sawada Coffee)는 시카고 웨스트 루프(West Loop) 112 N Green St에 위치한 러스틱-시크한 분위기의 커피 바로, 매일 오전 8시부터 오후 4시까지 영업하며 독창적인 에스프레소 음료와 매장 내 탁구대로 유명하다.
 quickAnswer: 사와다 커피(Sawada Coffee)는 시카고 웨스트 루프(West Loop) 112 N Green St에 위치한 러스틱-시크한 분위기의 커피 바로, 매일 오전 8시부터 오후 4시까지 영업하며 독창적인 에스프레소 음료와 매장 내 탁구대로 유명하다. 되도록 일찍 방문하는 것이 좋다 — 매일 오전 8시부터 10시까지가 한적한 시간대이며, 줄이 문밖까지 늘어서는 주말 오전 11시부터 오후 4시 사이는 피하는 것이 좋다.

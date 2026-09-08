@@ -106,19 +106,19 @@ You come to Belcher Bay Park for the water, not the greenery. It's a narrow ribb
 
 Container ships and small ferries drift past Green Island in the distance. Locals come here to run, stretch, walk dogs, and let toddlers loose on the playground equipment near the middle of the park.
 
-It's not a manicured showpiece — it's a working neighborhood park, and that's exactly its charm.
+It's not a manicured showpiece. It's a working neighborhood park, and that's exactly its charm.
 
 ## Getting there
 
 The park sits right along Kennedy Town's waterfront praya, an easy walk from the MTR.
 
-- **Kennedy Town Station** (Island Line, western terminus) — Exit A, then walk downhill toward the water, about 8–10 minutes.
+- **Kennedy Town Station** (Island Line, western terminus), Exit A, then walk downhill toward the water, about 8–10 minutes.
 - Trams don't reach this far west, but buses along Belcher's Street stop within a few minutes' walk.
 - The park runs long and thin, so you can enter from several points along Praya Road.
 
 ## What to see and do
 
-The main draw is the bay-view promenade — a long paved path shaded intermittently by mature trees, with benches angled toward the water.
+The main draw is the bay-view promenade, a long paved path shaded intermittently by mature trees, with benches angled toward the water.
 
 Joggers and cyclists share the route, so keep half an eye out if you're strolling with kids. The playground, roughly midway along the park, has slides and climbing frames that get busy with families after school and on weekends.
 
@@ -130,25 +130,25 @@ There are open lawns good for a mat and a thermos of tea, though shade is patchy
 
 ## When to go
 
-Sunset is the park's best hour — the light flattens over the water and the container cranes across the bay silhouette nicely. Weekday early mornings are quieter still, good for a run before the heat builds.
+Sunset is the park's best hour, the light flattens over the water and the container cranes across the bay silhouette nicely. Weekday early mornings are quieter still, good for a run before the heat builds.
 
 On weekends, the calmest stretch is 7am–8am, before the joggers, families, and dog walkers arrive in force. Crowds build steadily and stay heavy from about 10am right through to 10pm on Saturdays and Sundays.
 
-The park is open 24 hours every day, so there's no risk of arriving to locked gates. That said, after dark the lighting is functional rather than atmospheric — fine for a stroll, less so for lingering.
+The park is open 24 hours every day, so there's no risk of arriving to locked gates. That said, after dark the lighting is functional rather than atmospheric, fine for a stroll, less so for lingering.
 
 ## How to visit like a local
 
 Skip the mid-morning-to-evening weekend rush if you want breathing room; that 10am–10pm stretch is when the park fills fastest.
 
-Locals treat this as an exercise circuit, not a sightseeing stop — expect fast-moving joggers and cyclists on the main path, so walk single-file near the edges rather than spreading out.
+Locals treat this as an exercise circuit, not a sightseeing stop. Expect fast-moving joggers and cyclists on the main path, so walk single-file near the edges rather than spreading out.
 
-There's no admission and nothing to book — you just walk in from any of the Praya-side entrances.
+There's no admission and nothing to book, you just walk in from any of the Praya-side entrances.
 
 - Bring your own water and shade; kiosks and cafés are outside the park on Belcher's Street and North Street, not inside it
 - If you're here with kids, aim for late afternoon when the playground is busiest with local families, or mid-morning weekdays for a quieter go on the slides
 - Pair the visit with Kennedy Town's waterfront cafés and the nearby dai pai dong-style eateries for a coffee or noodle stop before or after
 
-Don't expect a "hidden" find — this is one of the district's best-known green spaces, so the trick is timing, not discovery. Come for the water and the light, not for solitude.
+Don't expect a "hidden" find. This is one of the district's best-known green spaces, so the trick is timing, not discovery. Come for the water and the light, not for solitude.
 
 ## Nearby
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ubud-sacred-monkey-forest-sanctuary
-srcHash: 'e1b2e02ac118'
+srcHash: 'f306a2abae5c'
 title: '우붓 여행 가이드: 신성한 몽키 포레스트 (Sacred Monkey Forest Sanctuary) (4.5★)'
 description: 우붓(Ubud) 중심부에 있는 신성한 몽키 포레스트(Sacred Monkey Forest Sanctuary)는 매일 오전 9시부터 오후 5시까지 문을 열며, 이끼 낀 사원과 자유롭게 돌아다니는 긴꼬리마카크 원숭이들 덕분에 방문할 가치가 충분하다 — 다만 더위와 투어버스 인파를 피하려면 개장 직후에 가는 것이 좋다. 4.5★ (리뷰 59,410개) — 방문객 후기, 운영시간, 팁을 소개한다.
 quickAnswer: 우붓(Ubud) 중심부에 있는 신성한 몽키 포레스트(Sacred Monkey Forest Sanctuary)는 매일 오전 9시부터 오후 5시까지 문을 열며, 이끼 낀 사원과 자유롭게 돌아다니는 긴꼬리마카크 원숭이들 덕분에 방문할 가치가 충분하다 — 다만 더위와 투어버스 인파를 피하려면 개장 직후에 가는 것이 좋다. 45~90분 정도 시간을 잡고, 발이 막힌 신발을 신고, 선글라스와 간식, 흔들리는 액세서리는 가방 깊숙이 넣어두자.

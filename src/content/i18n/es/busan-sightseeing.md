@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-sightseeing
-srcHash: '7cb67e037bfb'
+srcHash: '8987a6158586'
 title: Qué ver en Busan
 description: 'Organiza un viaje a Busan en torno a tres zonas: Haeundae/Gwangalli para playas y vistas del perfil urbano, Nampo-dong/Jagalchi para la vida portuaria del casco antiguo y la comida callejera, y Gamcheon Culture Village para la foto en la ladera.'
 quickAnswer: 'Organiza un viaje a Busan en torno a tres zonas: Haeundae/Gwangalli para playas y vistas del perfil urbano, Nampo-dong/Jagalchi para la vida portuaria del casco antiguo y la comida callejera, y Gamcheon Culture Village para la foto en la ladera. Con dos o tres días completos basta para ver lo más destacado combinando metro y trayectos cortos en taxi; ve en mayo-junio o septiembre-octubre para evitar las multitudes y la humedad del verano.'

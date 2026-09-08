@@ -110,13 +110,13 @@ There are no crowds of school groups here, no gift-shop clutter. Just concrete c
 
 The museum is split into three simple parts: the Learning Space, the Exhibition Space, and the Contemplative Space. You move through them in sequence, and the sequence matters.
 
-The Learning Space holds a small library and video introduction to Suzuki's life and writing. The Exhibition Space displays his manuscripts, photographs, and personal items in low, even light. Neither takes long — maybe 20 minutes combined.
+The Learning Space holds a small library and video introduction to Suzuki's life and writing. The Exhibition Space displays his manuscripts, photographs, and personal items in low, even light. Neither takes long, maybe 20 minutes combined.
 
 The real destination is the Contemplative Space: a wooden platform beside the Water Mirror Garden, a still rectangular pool that reflects the sky and surrounding walls. There's a bench. People sit. Nobody talks much.
 
 ## Getting there
 
-The museum sits in the Hondamachi district, a short walk from Kenroku-en Garden and Kanazawa Castle Park — easy to fold into a morning of sightseeing. Most visitors reach it on foot from central Kanazawa or by local bus toward the Honda-no-Mori area.
+The museum sits in the Hondamachi district, a short walk from Kenroku-en Garden and Kanazawa Castle Park, easy to fold into a morning of sightseeing. Most visitors reach it on foot from central Kanazawa or by local bus toward the Honda-no-Mori area.
 
 It's compact, so allow 45 minutes to an hour inside. Add extra time if you want to sit by the pool without watching the clock.
 
@@ -124,7 +124,7 @@ It's compact, so allow 45 minutes to an hour inside. Add extra time if you want 
 
 The museum runs Tuesday through Sunday, 9:30am to 5pm, and is closed all day Monday. Weekends draw the steadiest crowds, especially from 10am to 5pm, so if quiet matters to you, aim for a weekday.
 
-Early morning on a Tuesday or Wednesday, right after opening, is your best shot at having the Contemplative Space nearly to yourself. Overcast days work particularly well here — the flat light makes the water mirror even stiller, and the concrete walls lose their glare.
+Early morning on a Tuesday or Wednesday, right after opening, is your best shot at having the Contemplative Space nearly to yourself. Overcast days work particularly well here, the flat light makes the water mirror even stiller, and the concrete walls lose their glare.
 
 Rain isn't a reason to skip it, either. The covered walkways and the sound of water on the pool's surface suit the mood of the place.
 
@@ -135,7 +135,7 @@ This is a well-known stop on Kanazawa's cultural circuit, not a secret, so plan 
 - **Go early or go midweek.** Weekday mornings beat the 10am–5pm weekend crush by a wide margin.
 - **Move slowly and stay quiet.** This isn't enforced, but the design invites it, and the other visitors around you will already be doing the same.
 - **Sit in the Contemplative Space longer than feels necessary.** Most visitors give it two minutes and move on; give it ten.
-- **Pay at the entrance desk** — card and cash are both generally accepted, but carrying some cash is a safe habit anywhere in Kanazawa's smaller cultural sites.
+- **Pay at the entrance desk**, card and cash are both generally accepted, but carrying some cash is a safe habit anywhere in Kanazawa's smaller cultural sites.
 - **Don't skip the Learning Space** even if you know nothing about Zen Buddhism or Suzuki's writing. The short video gives context that makes the Contemplative Space land differently.
 - The biggest mistake visitors make is treating this like a quick photo stop between Kenroku-en and lunch. It rewards unhurried attention far more than a five-minute walkthrough.
 
@@ -143,4 +143,4 @@ This is a well-known stop on Kanazawa's cultural circuit, not a secret, so plan 
 
 Combine the visit with Kenroku-en Garden, a short walk away, or Kanazawa Castle Park for a full morning of gardens and quiet architecture. The Honda-no-Mori area around the museum is residential and calm, a good contrast to the busier Higashi Chaya teahouse district across town.
 
-If you want a similarly contemplative stop afterward, nearby temple grounds in the area offer the same unrushed pace — a good way to close out a morning built around slowness rather than sightseeing checklists.
+If you want a similarly contemplative stop afterward, nearby temple grounds in the area offer the same unrushed pace. A good way to close out a morning built around slowness rather than sightseeing checklists.

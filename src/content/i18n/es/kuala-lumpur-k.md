@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-k
-srcHash: '6bf1ea46f566'
+srcHash: 'd7d632f4c534'
 title: 'K 圭: dónde comer en Kuala Lumpur'
 description: 'K 圭 en Kuala Lumpur, Malasia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: K 圭 (se pronuncia "Kei") es un restaurante japonés de inspiración kaiseki dentro de la ILHAM Tower, en Jalan Binjai, en el distrito financiero KLCC/Ampang de Kuala Lumpur, liderado por el chef Hidemichi Seki. Fue nombrado Mejor Restaurante Nuevo 2026 por Tatler gracias a su refinada propuesta de alta cocina japonesa con ingredientes recolectados localmente — reserva con antelación, viste de manera smart-casual y confirma directamente con el restaurante los horarios y turnos vigentes antes de ir, ya que un formato de menú degustación como este suele funcionar con turnos limitados y con horario fijo.

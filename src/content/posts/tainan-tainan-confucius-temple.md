@@ -67,7 +67,7 @@ draft: false
 
 ## Why go
 
-This is the oldest Confucian temple in Taiwan, founded in 1665 under the Ming loyalist Zheng regime. Long before it was a photo stop, it was the island's first official school. That dual identity — shrine and academy — shapes everything you see inside.
+This is the oldest Confucian temple in Taiwan, founded in 1665 under the Ming loyalist Zheng regime. Long before it was a photo stop, it was the island's first official school. That dual identity, shrine and academy, shapes everything you see inside.
 
 You enter through a red brick wall pierced by a single gate, not the grand multi-door facade you might expect from a major temple. Locals call this the "Scholar's Wall," and tradition says its plainness marks respect: no one, not even an emperor, should walk directly opposite the temple's front gate.
 
@@ -75,7 +75,7 @@ You enter through a red brick wall pierced by a single gate, not the grand multi
 
 Inside, the compound unfolds as a series of low, dark-timbered halls around a stone courtyard shaded by centuries-old banyan trees. The Dachengdian (Hall of Great Achievement) sits at the center, its black lacquered plaques carrying calligraphy gifted by various Qing emperors.
 
-Look up in the main hall for the deep, coffered ceiling — a rare architectural feature meant to draw the eye toward heaven. Unlike incense-heavy folk temples, there are no smoking urns or garish gold statues here.
+Look up in the main hall for the deep, coffered ceiling, a rare architectural feature meant to draw the eye toward heaven. Unlike incense-heavy folk temples, there are no smoking urns or garish gold statues here.
 
 The mood is quiet, almost academic. Wooden tablets, not statues, honor Confucius and his disciples, and the whole place smells faintly of old wood and courtyard grass rather than incense smoke.
 
@@ -88,9 +88,9 @@ The mood is quiet, almost academic. Wooden tablets, not statues, honor Confucius
 
 The temple sits in West Central District, at the corner of Nanmen Road and Fucheng Road, inside the city's historic Confucius Temple Cultural Park. It's a compact, walkable pocket of old Tainan.
 
-Most visitors arrive by scooter, taxi, or the Tainan Sightseeing Bus, which stops nearby — Tainan has no metro system, so buses and bikes do the heavy lifting here. If you're already exploring the Chihkan Tower or Shennong Street area, it's a 15–20 minute walk south.
+Most visitors arrive by scooter, taxi, or the Tainan Sightseeing Bus, which stops nearby, Tainan has no metro system, so buses and bikes do the heavy lifting here. If you're already exploring the Chihkan Tower or Shennong Street area, it's a 15–20 minute walk south.
 
-Entry to the courtyard and main halls is generally free, though some interior rooms may have small posted fees — confirm at the entrance gate on arrival.
+Entry to the courtyard and main halls is generally free, though some interior rooms may have small posted fees, confirm at the entrance gate on arrival.
 
 ## When to go
 
@@ -104,10 +104,10 @@ Plan for 45 minutes to an hour, more if you linger to read the calligraphy plaqu
 
 This is a very popular stop on the Tainan sightseeing circuit, so beating the crowds is the main strategy, not finding a secret entrance. Aim for that 9–10am weekday window if your schedule allows it.
 
-- Dress modestly — it's an active place of worship and a national historic site, not just a museum
+- Dress modestly. It's an active place of worship and a national historic site, not just a museum
 - Keep voices low inside the halls; visitors do quiet study and prayer here
 - Payment for any ticketed areas or souvenirs is typically cash or mobile pay (LINE Pay, EasyCard-linked apps are common in Taiwan)
-- No formal ticket queue exists for the main courtyard — walk-ins are standard
+- No formal ticket queue exists for the main courtyard. Walk-ins are standard
 - The common tourist mistake is rushing through in ten minutes; slow down and read the plaque inscriptions, since much of the temple's meaning is in the calligraphy, not the architecture alone
 
 Afterward, cross into the pedestrian lanes just south for tea shops and the Wu Garden, or walk to nearby Fucheng Confucius Temple Cultural Street for snacks and old-Tainan shopfronts.

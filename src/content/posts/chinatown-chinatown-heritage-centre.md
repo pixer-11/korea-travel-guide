@@ -105,11 +105,11 @@ The centre sits at 48 Pagoda Street, right in the pedestrianized heart of Chinat
 
 The exhibits unfold across three shophouse levels, arranged roughly chronologically from the arrival of migrants at Singapore's docks to their working lives in trades like tailoring, calligraphy, and provisions trading. Highlights include a recreated cubicle dwelling showing how up to a dozen people shared a single subdivided room, a mock-up of a traditional Chinese medicine hall, and a sobering opium den display that explains the drug's role in 19th-century Chinatown life.
 
-Interactive touchscreens and recorded oral histories (many in English with Chinese subtitles) supplement the physical sets. Photography is generally allowed in most galleries — check signage in rooms with fragile artifacts. Most visitors move through the full circuit in 60–90 minutes; history-minded travelers or those visiting with children doing the interactive stations may want closer to two hours.
+Interactive touchscreens and recorded oral histories (many in English with Chinese subtitles) supplement the physical sets. Photography is generally allowed in most galleries. Check signage in rooms with fragile artifacts. Most visitors move through the full circuit in 60–90 minutes; history-minded travelers or those visiting with children doing the interactive stations may want closer to two hours.
 
 ## When to go
 
-Weekday mornings, shortly after opening, are the quietest window — tour buses and school groups tend to arrive from late morning onward, and by early afternoon the narrow shophouse staircases and corridors can feel bottlenecked. Weekends draw the heaviest local and tourist foot traffic to Chinatown generally, which spills into queues at the centre's entrance. The museum is air-conditioned throughout, making it a sensible midday retreat if you're touring Chinatown during Singapore's hottest hours. Confirm current opening hours and ticket prices on the official site before visiting, as these are periodically adjusted.
+Weekday mornings, shortly after opening, are the quietest window, tour buses and school groups tend to arrive from late morning onward, and by early afternoon the narrow shophouse staircases and corridors can feel bottlenecked. Weekends draw the heaviest local and tourist foot traffic to Chinatown generally, which spills into queues at the centre's entrance. The museum is air-conditioned throughout, making it a sensible midday retreat if you're touring Chinatown during Singapore's hottest hours. Confirm current opening hours and ticket prices on the official site before visiting, as these are periodically adjusted.
 
 ## What's nearby
 
@@ -119,6 +119,6 @@ For food, the Chinatown Complex Food Centre on Smith Street is the district's la
 
 ## How to visit like a local
 
-Because this is a well-known, heavily reviewed museum rather than an under-the-radar find, the useful local strategy is timing, not secrecy: arrive right at opening or in the last hour before closing to sidestep coach-tour crowds that cluster mid-morning to mid-afternoon. Tickets and any in-museum purchases are typically handled by card or mobile payment, as with most Singapore attractions — carrying cash isn't necessary here.
+Because this is a well-known, heavily reviewed museum rather than an under-the-radar find, the useful local strategy is timing, not secrecy: arrive right at opening or in the last hour before closing to sidestep coach-tour crowds that cluster mid-morning to mid-afternoon. Tickets and any in-museum purchases are typically handled by card or mobile payment, as with most Singapore attractions, carrying cash isn't necessary here.
 
 There's no tipping expectation in Singapore museums. Dress is casual, but note the shophouse staircases are narrow and steep, original to the 1900s buildings, so flat shoes make the climb easier. The most common visitor mistake is treating this as a quick photo stop between souvenir shopping; the exhibits reward reading the accompanying family histories rather than rushing through, since the personal stories are what distinguish this museum from a generic history display.

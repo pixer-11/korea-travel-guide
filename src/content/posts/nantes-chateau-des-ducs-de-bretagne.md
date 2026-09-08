@@ -73,11 +73,11 @@ draft: false
 ---
 ## Why go
 
-You round a corner near the Loire and suddenly there's a moat, ramparts of pale limestone and dark schist, and a castle that looks like it wandered out of a storybook into the middle of a modern French city. This is the seat of the Dukes of Brittany, later home to Anne of Brittany and briefly to a young Louis XIV. It's not a ruin behind a fence — you can walk right into the courtyard for free, which is rare for a monument this significant.
+You round a corner near the Loire and suddenly there's a moat, ramparts of pale limestone and dark schist, and a castle that looks like it wandered out of a storybook into the middle of a modern French city. This is the seat of the Dukes of Brittany, later home to Anne of Brittany and briefly to a young Louis XIV. It's not a ruin behind a fence. You can walk right into the courtyard for free, which is rare for a monument this significant.
 
 ## Getting there
 
-The château sits at 4 Pl. Marc Elder, in the historic heart of Nantes, an easy walk from the cathedral and the old Bouffay quarter. Tram lines 1 and 2 stop nearby at Duchesse Anne, right beside the moat. If you're coming from the train station, it's a 15–20 minute walk or a short tram ride — either way, you'll see the towers before you arrive.
+The château sits at 4 Pl. Marc Elder, in the historic heart of Nantes, an easy walk from the cathedral and the old Bouffay quarter. Tram lines 1 and 2 stop nearby at Duchesse Anne, right beside the moat. If you're coming from the train station, it's a 15–20 minute walk or a short tram ride, either way, you'll see the towers before you arrive.
 
 ## What to see and do
 
@@ -99,17 +99,17 @@ Weekends get busy fast: expect the heaviest crowds between 11am and 6pm on Satur
 
 ## How to visit like a local
 
-This is one of the most-visited sites in Nantes, so the trick isn't finding a secret entrance — it's timing your visit and knowing what's free.
+This is one of the most-visited sites in Nantes, so the trick isn't finding a secret entrance. It's timing your visit and knowing what's free.
 
 - Walk the courtyard and ramparts without a ticket; only the museum and temporary exhibitions require paying.
-- Skip the busy weekend midday window (11am–6pm) if you want the museum galleries to yourself — go on a weekday instead, or catch the last hour before 7pm closing on weekends.
+- Skip the busy weekend midday window (11am–6pm) if you want the museum galleries to yourself. Go on a weekday instead, or catch the last hour before 7pm closing on weekends.
 - Buy tickets at the on-site machines or online in advance during peak season to skip the queue at the door.
 - Payment is standard card or cash at the ticket counter, no special local custom to navigate.
 - Locals often treat the courtyard as a shortcut and meeting point rather than a tourist stop, so don't be surprised if it feels more like a public square than a hushed monument.
-- The mistake most visitors make: they see the exterior, assume that's the whole experience, and skip the museum — missing the scale models and history that explain why the castle looks the way it does.
+- The mistake most visitors make: they see the exterior, assume that's the whole experience, and skip the museum, missing the scale models and history that explain why the castle looks the way it does.
 
 Check the official website before you go, since exhibition tickets and any seasonal closures can shift.
 
 ## Nearby to combine with your visit
 
-The Passage Pommeraye, a 19th-century covered shopping arcade with sculpted balustrades, is a short walk away. So is the Cathédrale Saint-Pierre-et-Saint-Paul, with its soaring Gothic nave. If you have kids or love mechanical whimsy, the Machines de l'île — home to the giant mechanical elephant — is a pleasant riverside walk from the château, making this corner of Nantes an easy half-day or full-day loop.
+The Passage Pommeraye, a 19th-century covered shopping arcade with sculpted balustrades, is a short walk away. So is the Cathédrale Saint-Pierre-et-Saint-Paul, with its soaring Gothic nave. If you have kids or love mechanical whimsy, the Machines de l'île, home to the giant mechanical elephant, is a pleasant riverside walk from the château, making this corner of Nantes an easy half-day or full-day loop.

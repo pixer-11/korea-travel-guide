@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
-srcHash: 'd7d7cfd3e24e'
+srcHash: 'a0cff5fff445'
 title: '위켄드 애프터 아워스 틸 던 투어: 마드리드 공연 안내'
 description: 위켄드의 애프터 아워스 틸 던 투어는 2026년 8월 28일부터 30일까지 사흘간 마드리드 리야드 에어 메트로폴리타노(Riyadh Air Metropolitano)에서, 그리고 9월 1일에는 바르셀로나에서 열릴 예정이었습니다.
 quickAnswer: 위켄드의 애프터 아워스 틸 던 투어는 스페인 네 개 공연 일정으로 예정되어 있었습니다. 마드리드 리야드 에어 메트로폴리타노 스타디움(Riyadh Air Metropolitano Stadium)에서 사흘 밤(2026년 8월 28일-30일), 그리고 바르셀로나 에스타디 올림픽 류이스 콤파니스(Estadi Olímpic Lluís Companys)에서 하루 밤(2026년 9월 1일)이었으며, 플레이보이 카르티(Playboi Carti)가 공식 오프닝 게스트로 발표되었습니다. 마드리드 공연 종료와 바르셀로나 공연 사이에는 단 하루의 휴식일만 있었습니다. 두 도시는 고속열차 AVE로 약 2.5-3시간 거리로 연결되어 있어, 양쪽 공연 티켓을 모두 가진 관객에게는 가장 현실적인 이동 수단이었습니다.

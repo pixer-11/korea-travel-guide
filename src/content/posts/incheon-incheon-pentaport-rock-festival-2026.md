@@ -48,9 +48,9 @@ Unlike Korea's K-pop-centric festival circuit, Pentaport draws a mixed crowd of 
 
 ## Getting there
 
-Songdo Moonlight Festival Park is a waterfront park in the Songdo International Business District of Incheon — a planned city built on reclaimed land that also houses convention centers, canals, and central park green space. Songdo sits roughly 40–50 minutes from central Seoul by car or airport limousine bus, and it's accessible via Incheon Subway Line 1, with Central Park Station the closest stop to the Songdo area. Official festival maps carry the exact gate and nearest exit, since shuttle and subway routing sometimes shifts year to year.
+Songdo Moonlight Festival Park is a waterfront park in the Songdo International Business District of Incheon, a planned city built on reclaimed land that also houses convention centers, canals, and central park green space. Songdo sits roughly 40–50 minutes from central Seoul by car or airport limousine bus, and it's accessible via Incheon Subway Line 1, with Central Park Station the closest stop to the Songdo area. Official festival maps carry the exact gate and nearest exit, since shuttle and subway routing sometimes shifts year to year.
 
-For anyone flying in, Incheon International Airport is only about 20–30 minutes away by taxi or airport bus, making this one of the more fly-in-friendly major festivals in Asia — a genuine draw for travelers stacking a Korea trip around the event.
+For anyone flying in, Incheon International Airport is only about 20–30 minutes away by taxi or airport bus, making this one of the more fly-in-friendly major festivals in Asia, a genuine draw for travelers stacking a Korea trip around the event.
 
 ## What to expect
 
@@ -60,10 +60,10 @@ Camping and day-ticket options have historically both existed at Pentaport. Tick
 
 ## When to go
 
-Late July into early August is peak summer in Incheon — hot, humid, and prone to sudden downpours, since this period overlaps with Korea's monsoon season. The conditions call for heat and rain gear both: breathable clothing, a poncho or compact umbrella, and sun protection for daytime sets. Day-by-day lineup splits, which set out when a headliner like the Pixies plays, usually come out a few weeks to months ahead of the festival.
+Late July into early August is peak summer in Incheon, hot, humid, and prone to sudden downpours, since this period overlaps with Korea's monsoon season. The conditions call for heat and rain gear both: breathable clothing, a poncho or compact umbrella, and sun protection for daytime sets. Day-by-day lineup splits, which set out when a headliner like the Pixies plays, usually come out a few weeks to months ahead of the festival.
 
 ## Nearby & tips
 
 Songdo itself is worth a few extra hours beyond the festival grounds: Central Park (the Korean park after which the subway stop is named) has canal boat rides, and the Songdo Convention area has hotels and casual dining within walking distance of the festival park, handy for anyone avoiding a late-night trek back into Seoul after headliner sets end.
 
-Incheon's older attractions — Chinatown and Wolmido Island near Incheon Station — are a separate subway ride away and make a good rest-day pairing over a three-day festival run. As at any large outdoor festival, entry lines at Pentaport build ahead of the headline sets, and details like set times and ticket tiers sit on Pentaport's official channels.
+Incheon's older attractions, Chinatown and Wolmido Island near Incheon Station, are a separate subway ride away and make a good rest-day pairing over a three-day festival run. As at any large outdoor festival, entry lines at Pentaport build ahead of the headline sets, and details like set times and ticket tiers sit on Pentaport's official channels.

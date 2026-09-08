@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-phu-quoc-prison-history-museum
-srcHash: '70e711e5a4ab'
+srcHash: '7b3279df2787'
 title: 'Museo Histórico de la Prisión de Phu Quoc: Guía de viaje (4.3★)'
 description: 'El Museo Histórico de la Prisión de Phu Quoc (también llamado Prisión de Coco, en 350 Đ. Nguyễn Văn Cừ) abre todos los días de 7:00 a 17:00, y la entrada suele ser gratuita. Calificación de 4.3★ (9.758 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo Histórico de la Prisión de Phu Quoc (también llamado Prisión de Coco, en 350 Đ. Nguyễn Văn Cừ) abre todos los días de 7:00 a 17:00, y la entrada suele ser gratuita. Conviene llegar justo a la apertura: entre semana de 7:00 a 9:00, o los fines de semana de 7:00 a 8:00, son los momentos más tranquilos, ya que las multitudes aumentan rápido y se mantienen numerosas de 9:00 a 17:00 los fines de semana. Calcule una hora aproximadamente para recorrer el recinto y leer las exhibiciones.'

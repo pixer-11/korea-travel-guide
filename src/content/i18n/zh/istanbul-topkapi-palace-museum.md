@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-topkapi-palace-museum
-srcHash: '88ae2eb1be50'
+srcHash: '09ee9fa7f30d'
 title: 托普卡帕宫博物馆:伊斯坦布尔旅行指南
 description: 托普卡帕宫(Topkapi Palace)作为奥斯曼苏丹近400年的宫廷所在地，坐落在苏丹艾哈迈德区(Sultanahmet)历史半岛的尖端，从圣索菲亚大教堂步行即可到达。
 quickAnswer: 托普卡帕宫作为奥斯曼苏丹近400年的宫廷所在地，坐落在苏丹艾哈迈德区历史半岛的尖端，从圣索菲亚大教堂步行即可到达。建议提前在网上购买限时门票(宫殿和后宫[Harem]区域需要分别购票),开门时准时到达，并至少预留三个小时游览庭院、宝库和后宫，才不至于太赶。

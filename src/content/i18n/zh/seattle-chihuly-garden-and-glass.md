@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-chihuly-garden-and-glass
-srcHash: 'fe424779e723'
+srcHash: '2a6e7d753f8e'
 title: 奇胡利花园与玻璃艺术馆：西雅图旅行指南
 description: 奇胡利花园与玻璃艺术馆（Chihuly Garden and Glass）坐落在西雅图中心（Seattle Center）太空针塔（Space Needle）脚下，无论你是否打算登上太空针塔，都值得专程花上两小时参观。
 quickAnswer: 奇胡利花园与玻璃艺术馆坐落在西雅图中心太空针塔脚下，无论你是否打算登上太空针塔，都值得专程花上两小时参观。建议在工作日开馆时段前往，或周末晚上7点后再来，这样才能不被人群遮挡，好好欣赏玻璃艺术品。门票价格中等（具体请查询最新票价，与太空针塔联票通常更划算）。

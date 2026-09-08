@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-oxomoco
-srcHash: '2f0a4147027b'
+srcHash: '5c1e123ccaad'
 title: Oxomoco en Tokio
 description: Oxomoco, el restaurante mexicano moderno nacido en Brooklyn y galardonado con una estrella Michelin, se ha trasladado a Roppongi Hills, Tokio, llevando su cocina a la leña, sus tacos artesanales y su carta de cócteles centrada en el agave al complejo de restauración y ocio más pulido de la ciudad.
 quickAnswer: Oxomoco, el restaurante mexicano moderno nacido en Brooklyn y galardonado con una estrella Michelin, se ha trasladado a Roppongi Hills, Tokio, llevando su cocina a la leña, sus tacos artesanales y su carta de cócteles centrada en el agave al complejo de restauración y ocio más pulido de la ciudad. Puedes esperar un ambiente elegante y enérgico, a medio camino entre Nueva York y Ciudad de México, más que una comida tradicional y tranquila, así que conviene reservar con antelación, ya que la trayectoria del concepto atrae a un público ávido de conseguir mesa. Confirma directamente el horario actual y la política de reservas antes de ir, ya que los detalles de un local recién trasladado cambian con rapidez.

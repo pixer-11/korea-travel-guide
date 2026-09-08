@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: shakhrisabz-ak-saray-palace
-srcHash: 'de5034e57fd3'
+srcHash: '2524063baa2f'
 title: 阿克萨莱皇宫（Ak-Saray Palace）：沙赫里萨布兹（Shakhrisabz）旅行指南（4.5★）
 description: 阿克萨莱皇宫是乌兹别克斯坦沙赫里萨布兹（Shakhrisabz）的一对巨大残存城门塔楼，是帖木儿（Timur）14世纪夏宫仅存的遗迹。4.5★（626条评价）——游客怎么说、开放时间及游览建议。
 quickAnswer: 阿克萨莱皇宫是乌兹别克斯坦沙赫里萨布兹（Shakhrisabz）的一对巨大残存城门塔楼，是帖木儿（Timur）14世纪夏宫仅存的遗迹。全天24小时开放，免费进入参观，建议安排在工作日早上7点到8点，或周末上午10点前到访，以避开上午11点到晚上8点的周末人潮高峰。游览30到45分钟即可，之后可以到周边的公园和老城区逛逛。

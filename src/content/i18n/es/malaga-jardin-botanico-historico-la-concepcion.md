@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malaga-jardin-botanico-historico-la-concepcion
-srcHash: '566e735e4312'
+srcHash: '6660278b504a'
 title: 'Jardín Botánico-Histórico La Concepción: Guía de viaje de Málaga'
 description: La Concepción es un jardín tropical de 23 hectáreas en el extremo norte de Málaga, que bien merece una visita de medio día por sus centenarios ficus, sus túneles de bambú y sus miradores con azulejos mudéjares.
 quickAnswer: 'La Concepción es un jardín tropical de 23 hectáreas en el extremo norte de Málaga, que bien merece una visita de medio día por sus centenarios ficus, sus túneles de bambú y sus miradores con azulejos mudéjares. Es muy popular, así que no esperes encontrar un rincón escondido: las horas más tranquilas entre semana van de 19:00 a 20:30 (comprueba los horarios de cierre estacionales antes de planificar en torno a esto), mientras que los fines de semana se mantiene concurrido de 12:00 a 20:00. Ve una mañana entre semana, lleva calzado cerrado para los caminos en pendiente y calcula entre dos y tres horas.'

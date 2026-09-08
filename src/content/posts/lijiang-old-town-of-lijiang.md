@@ -52,15 +52,15 @@ aiGenerated: true
 draft: false
 ---
 
-You feel the change in surface before you see anything else. Asphalt gives way to smooth, uneven cobblestones, and suddenly the traffic noise is gone, replaced by running water. Lijiang's Old Town does that to you immediately — a UNESCO World Heritage core of Naxi timber houses, arched stone bridges and canals fed by meltwater from the Jade Dragon Snow Mountain.
+You feel the change in surface before you see anything else. Asphalt gives way to smooth, uneven cobblestones, and suddenly the traffic noise is gone, replaced by running water. Lijiang's Old Town does that to you immediately, a UNESCO World Heritage core of Naxi timber houses, arched stone bridges and canals fed by meltwater from the Jade Dragon Snow Mountain.
 
 ## Why the Old Town still matters
 
-This isn't a reconstruction. The layout dates back roughly 800 years, built without city walls because the ruling Mu family, according to local lore, feared a walled-in "Mu" character would look like a trapped prisoner. What survives is a working grid of canals engineered so every household had clean water flowing past its door — a rare piece of pre-modern urban planning still fully intact.
+This isn't a reconstruction. The layout dates back roughly 800 years, built without city walls because the ruling Mu family, according to local lore, feared a walled-in "Mu" character would look like a trapped prisoner. What survives is a working grid of canals engineered so every household had clean water flowing past its door, a rare piece of pre-modern urban planning still fully intact.
 
 ## Getting there and getting oriented
 
-Lijiang Old Town sits in Gucheng District, a short taxi or bus ride from Lijiang Sanyi Airport or the long-distance bus station. There's no single gate — paths feed in from several directions, so most visitors orient themselves at Sifang Square, the old market plaza at the town's center.
+Lijiang Old Town sits in Gucheng District, a short taxi or bus ride from Lijiang Sanyi Airport or the long-distance bus station. There's no single gate, paths feed in from several directions, so most visitors orient themselves at Sifang Square, the old market plaza at the town's center.
 
 From there, canals branch out like veins, and every alley looks similar enough that getting lost is part of the experience. Download an offline map anyway. Cell signal is fine, but street signs are sparse.
 
@@ -74,11 +74,11 @@ Give yourself at least half a day, more if you want to linger by the water at du
 - **Black Dragon Pool Park** – just north of the old town, with a classic reflected view of Jade Dragon Snow Mountain on clear days
 - **Naxi orchestra performances** – traditional Dongjing music, still played on original instruments in a few old-town venues
 
-Look down as you walk, too — the cobbles, the little stone bridges (over 350 of them threading the canals), and the carved wooden window lattices on the older houses are where the real craftsmanship shows.
+Look down as you walk, too, the cobbles, the little stone bridges (over 350 of them threading the canals), and the carved wooden window lattices on the older houses are where the real craftsmanship shows.
 
 ## When to go
 
-The Old Town never closes; it's open 24 hours every day, so timing is entirely about crowds and light rather than access. Daytime brings tour groups, especially through Sifang Square and the main shopping streets. Evenings bring a different crowd — the canals lit by red lanterns, bars along the water turning livelier, and the stone underfoot slick if it's rained.
+The Old Town never closes; it's open 24 hours every day, so timing is entirely about crowds and light rather than access. Daytime brings tour groups, especially through Sifang Square and the main shopping streets. Evenings bring a different crowd, the canals lit by red lanterns, bars along the water turning livelier, and the stone underfoot slick if it's rained.
 
 Spring and autumn offer the clearest mountain views and mildest weather. Summer is green but wetter; winter is cold but quiet, with a decent chance of a snow-capped backdrop from Wangu Tower.
 
@@ -86,8 +86,8 @@ Spring and autumn offer the clearest mountain views and mildest weather. Summer 
 
 Come at dawn. Before 9am, before the tour buses arrive, the shopkeepers are just opening shutters, the canals are empty of both people and litter, and you can hear your own footsteps on the stone. It's a strikingly different town from the one you'll see at 2pm.
 
-Payment here runs almost entirely on mobile — WeChat Pay and Alipay are what stallholders and small restaurants expect, so set one up before you arrive rather than relying on cash. Bargaining is normal in the souvenir shops but not in restaurants or ticketed sites.
+Payment here runs almost entirely on mobile, WeChat Pay and Alipay are what stallholders and small restaurants expect, so set one up before you arrive rather than relying on cash. Bargaining is normal in the souvenir shops but not in restaurants or ticketed sites.
 
-The old town itself has no entrance fee, but some individual attractions inside it — the Mu Family Mansion, certain viewpoints — charge separately, and there's a separate maintenance fee sometimes bundled with hotel check-in. Ask your accommodation directly rather than guessing.
+The old town itself has no entrance fee, but some individual attractions inside it (the Mu Family Mansion, certain viewpoints) charge separately, and there's a separate maintenance fee sometimes bundled with hotel check-in. Ask your accommodation directly rather than guessing.
 
-The mistake most visitors make is treating the Old Town as a single afternoon stop between bus transfers. It rewards slower movement — an evening walk after the day-trippers clear out, or an early loop before breakfast, shows you a genuinely different place than the midday crush around Sifang Square. If you're based here overnight, use that flexibility; it's the single biggest advantage over the coach-tour crowd.
+The mistake most visitors make is treating the Old Town as a single afternoon stop between bus transfers. It rewards slower movement, an evening walk after the day-trippers clear out, or an early loop before breakfast, shows you a genuinely different place than the midday crush around Sifang Square. If you're based here overnight, use that flexibility; it's the single biggest advantage over the coach-tour crowd.

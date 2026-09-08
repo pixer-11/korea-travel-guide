@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-eggslut
-srcHash: '8a82d3349449'
+srcHash: '4959676966cd'
 title: 'Eggslut: dónde comer en Los Ángeles (4,4★)'
 description: Eggslut es el puesto de sándwiches de huevo dentro del Grand Central Market, en el 317 S Broadway del centro de Los Ángeles, abierto todos los días de 8:00 a 14:00 —es una opción de desayuno o brunch, no de todo el día—. Con 4,4★ (4.728 reseñas), aquí va lo que dicen los visitantes, los horarios y algunos consejos.
 quickAnswer: 'Eggslut es el puesto de sándwiches de huevo dentro del Grand Central Market, en el 317 S Broadway del centro de Los Ángeles, abierto todos los días solo de 8:00 a 14:00: una opción de desayuno o brunch, no de todo el día. Conviene ir justo a las 8am (el momento más tranquilo entre semana es de 8 a 10am, y los fines de semana de 8 a 9am) y evitar el tramo de 10am a 2pm los fines de semana, cuando la fila se extiende más allá de los puestos vecinos. Lo mejor es pedir el icónico Slut o el Fairfax, buscar un taburete en el mercado y calcular entre 20 y 40 minutos en total, fila incluida.'

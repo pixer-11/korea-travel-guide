@@ -86,7 +86,7 @@ Budget at least two hours if you want to see the whole building without rushing.
 
 Behind the museum, the Jardin des Plantes spreads out as a genuine city park, not just a museum annex. It's free to wander even if you skip the museum itself.
 
-Locals use it for lunch breaks and afternoon walks, dotted with statues, ponds, and mature trees. Pair a museum visit with twenty or thirty minutes here afterward — it's the natural decompression after all those glass cases.
+Locals use it for lunch breaks and afternoon walks, dotted with statues, ponds, and mature trees. Pair a museum visit with twenty or thirty minutes here afterward. It's the natural decompression after all those glass cases.
 
 ## Getting there
 
@@ -96,19 +96,19 @@ By metro, the closest station is Palais de Justice on Line B, about a 10-minute 
 
 ## When to go
 
-The museum is open Tuesday through Sunday, 10am to 6pm, and closed all day Monday — plan around that if you're building a tight itinerary. Weekends stay busy from opening to close, so there's no real quiet window to aim for on a Saturday or Sunday.
+The museum is open Tuesday through Sunday, 10am to 6pm, and closed all day Monday. Plan around that if you're building a tight itinerary. Weekends stay busy from opening to close, so there's no real quiet window to aim for on a Saturday or Sunday.
 
 If your schedule allows a weekday, mornings right after the 10am opening tend to be calmer than afternoons, especially once school groups and family outings pick up later in the day. Rainy days in Toulouse also push more visitors indoors here, so a sunny weekday can work in your favor.
 
 ## How to visit like a local
 
-This museum draws a genuinely large crowd year-round, so don't expect a hidden-gem experience — the smart move is timing, not secrecy.
+This museum draws a genuinely large crowd year-round, so don't expect a hidden-gem experience. The smart move is timing, not secrecy.
 
 - Arrive right at 10am on a weekday if you can; weekends are busy the entire 10am–6pm stretch with no real lull
 - Buy tickets at the counter or check the museum's official site in advance for any timed-entry or online booking options, since policies shift seasonally
 - Payment is standard card or cash at the desk; no special local payment quirks here
 - Combine the visit with the free Jardin des Plantes rather than treating them as separate trips
-- The common mistake: rushing the ground-floor taxidermy hall to get to the dinosaurs. Slow down there — it's the most distinctive part of the collection
+- The common mistake: rushing the ground-floor taxidermy hall to get to the dinosaurs. Slow down there. It's the most distinctive part of the collection
 - Labels are primarily in French; if you don't read French, a translation app on your phone helps with the denser exhibit text
 
 Wear comfortable shoes for the wooden gallery floors, and check current opening hours on the museum's website before you go, since seasonal adjustments and occasional exhibition closures do happen.

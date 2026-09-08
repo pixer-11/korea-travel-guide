@@ -27,7 +27,7 @@ draft: true
 
 ## Why Visitors Cafe stands out
 
-Tanjong Pagar Plaza is one of the last places you'd expect to find a cafe that looks airlifted from Seongsu-dong. That's exactly why Visitors Cafe has taken off. Step off the covered walkway and the white facade hits you first — flat, matte, almost gallery-like against the plaza's older shopfronts.
+Tanjong Pagar Plaza is one of the last places you'd expect to find a cafe that looks airlifted from Seongsu-dong. That's exactly why Visitors Cafe has taken off. Step off the covered walkway and the white facade hits you first, flat, matte, almost gallery-like against the plaza's older shopfronts.
 
 Push inside and the temperature of the room seems to drop a few degrees, visually if not literally. White plaster walls, pale wood tables, and lamps set low enough that even midday feels like early evening. It's the kind of restrained, considered space Seoul's newer neighbourhoods have made their signature, and Singapore hasn't had much of it until recently.
 
@@ -37,7 +37,7 @@ Visitors Cafe comes from the team that runs Noci Pasta Bar, Seoul Noodle Shop, a
 
 ## Finding it in Tanjong Pagar Plaza
 
-Tanjong Pagar Plaza is a mixed public housing and retail block, not a mall in the polished sense — think hawker stalls, provision shops, and barbers sharing space with newer openings like this one. That contrast is part of the appeal.
+Tanjong Pagar Plaza is a mixed public housing and retail block, not a mall in the polished sense, think hawker stalls, provision shops, and barbers sharing space with newer openings like this one. That contrast is part of the appeal.
 
 The area sits within easy walking distance of Tanjong Pagar MRT station on the East-West Line. Exit toward Tanjong Pagar Road and follow the plaza's signage; the cafe's stark white front makes it easy to spot once you're in the right block.
 
@@ -45,7 +45,7 @@ Because it's a newly opened, fast-trending spot, exact opening hours and whether
 
 ## What to expect inside
 
-As an all-day cafe, Visitors Cafe is built for lingering — coffee in the late morning, something more substantial by lunch, a slower coffee-and-dessert stretch in the afternoon. The interior does a lot of the work: warm wood surfaces, soft directional lighting, and enough white space that phones come out before food does.
+As an all-day cafe, Visitors Cafe is built for lingering, coffee in the late morning, something more substantial by lunch, a slower coffee-and-dessert stretch in the afternoon. The interior does a lot of the work: warm wood surfaces, soft directional lighting, and enough white space that phones come out before food does.
 
 Seating tends to fill with a mix of people who've come specifically for the look and neighbourhood regulars drawn in by the buzz. Expect a working, sociable din rather than hushed cafe silence, especially once a table of visitors sits down to compare photos of the room.
 
@@ -53,7 +53,7 @@ Seating tends to fill with a mix of people who've come specifically for the look
 
 Newly viral cafes in Singapore tend to see their heaviest traffic on weekend afternoons, once word spreads on social media and reviews stack up. If you want to actually sit and enjoy the space rather than hover near the door, aim for a weekday, ideally mid-morning before the lunch crowd from nearby offices arrives.
 
-Tanjong Pagar itself is worth building a morning around — the plaza's hawker centre, nearby shophouses, and the walk down to Duxton Hill all sit within a few minutes on foot.
+Tanjong Pagar itself is worth building a morning around, the plaza's hawker centre, nearby shophouses, and the walk down to Duxton Hill all sit within a few minutes on foot.
 
 ## How to visit like a local
 
@@ -61,9 +61,9 @@ Locals treat this kind of trending cafe as a stop within a bigger loop, not a wh
 
 A few practical notes:
 
-- Payment in Singapore cafes is almost always by card or mobile wallet (PayNow, NETS, Apple/Google Pay) — cash is rarely needed.
+- Payment in Singapore cafes is almost always by card or mobile wallet (PayNow, NETS, Apple/Google Pay), cash is rarely needed.
 - Tipping isn't expected; a service charge, if any, is usually built into the bill.
 - If the cafe has a queue system or reservation link on Instagram, check it before arriving rather than joining a walk-in line blind.
-- The most common mistake is treating it purely as a photo stop — order something and take a table, since seating is limited and the room is small enough that lingering without ordering is noticeable.
+- The most common mistake is treating it purely as a photo stop, order something and take a table, since seating is limited and the room is small enough that lingering without ordering is noticeable.
 
-Because so much about Visitors Cafe is still fresh — hours, menu, capacity — the smartest move is to check its current Google Business listing or Instagram the morning of your visit, then treat the trip as flexible rather than fixed.
+Because so much about Visitors Cafe is still fresh (hours, menu, capacity) the smartest move is to check its current Google Business listing or Instagram the morning of your visit, then treat the trip as flexible rather than fixed.

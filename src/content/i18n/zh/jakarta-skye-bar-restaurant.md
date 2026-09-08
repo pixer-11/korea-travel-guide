@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-skye-bar-restaurant
-srcHash: '9be95dcaf04b'
+srcHash: 'bc2a1c29c0db'
 title: SKYE Bar & Restaurant：雅加达旅行指南
 description: SKYE Bar & Restaurant 位于印度尼西亚雅加达，是当下正走红的新晋打卡地——本文带你了解它是什么、位于何处，以及如何前往游览。
 quickAnswer: SKYE Bar & Restaurant 是一家位于雅加达黄金三角（Golden Triangle）商业区的屋顶酒吧兼餐厅，靠近苏迪曼（Sudirman）和塔姆林（Thamrin），因日落与夜间天际线美景在社交媒体上走红而闻名。从Bundaran HI或Dukuh Atas地铁站打车过去车程很短，周末夜晚强烈建议提前预订。最佳到访时间是日落前30到45分钟，这样既能拍到最美的光线，也能抢占栏杆边的好位置。

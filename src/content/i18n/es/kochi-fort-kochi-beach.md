@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kochi-fort-kochi-beach
-srcHash: '4d8ececf8286'
+srcHash: '004f6e910053'
 title: 'Playa de Fort Kochi: Guía de viaje (4,3★)'
 description: 'Más que para nadar, la playa de Fort Kochi es para vivir el ambiente: las siluetas de las enormes redes de pesca chinas recortadas contra el mar Arábigo, el gentío del atardecer, los puestos de comida y un paseo tranquilo por el malecón. 4,3★ (7.536 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Más que para nadar, la playa de Fort Kochi es para vivir el ambiente: las siluetas de las enormes redes de pesca chinas recortadas contra el mar Arábigo, el gentío del atardecer, los puestos de comida y un paseo tranquilo por el malecón. Conviene ir a la hora dorada; con una o dos horas es suficiente, y se puede combinar con un paseo por las callejuelas históricas de los alrededores. Al ser un lugar muy visitado, es mejor llegar temprano o tarde para evitar las horas de mayor afluencia.'

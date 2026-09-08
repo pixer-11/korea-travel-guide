@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-the-corrs-live-in-concert
-srcHash: '4135475da54c'
+srcHash: '21ae818406cc'
 title: 코어스(The Corrs) 아부다비 내한 공연 안내
 description: 2026년 9월 27일, 아랍에미리트 아부다비에서 열리는 코어스(The Corrs) 콘서트에 대한 안내입니다. 공연이 무엇인지, 언제 어디서 열리는지, 그리고 어떻게 일정을 짜면 좋을지 정리했습니다.
 quickAnswer: 코어스는 2026년 9월 27일, 아부다비 야스 아일랜드(Yas Island)에 있는 에티하드 아레나(Etihad Arena)에서 단 하루 공연을 엽니다. 아직 티켓 가격, 입장 시간, 오프닝 공연 여부는 확정되지 않았으므로, 여행 일정을 잡기 전에 에티하드 아레나 공식 사이트나 코어스 공식 채널을 통해 날짜가 가까워졌을 때 다시 확인하시길 권합니다.

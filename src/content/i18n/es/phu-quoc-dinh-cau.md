@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-dinh-cau
-srcHash: 'a40034d63eff'
+srcHash: '7d906c276821'
 title: 'Dinh Cậu: Guía de Viaje de Phu Quoc (4,5★)'
 description: 'Dinh Cậu es el pequeño santuario asentado sobre una roca y el faro de rayas azules y blancas que marca la desembocadura del río Duong Dong: una parada de 10 minutos que conviene hacer entre las 7:00 y las 15:00, antes de que lleguen las multitudes del atardecer. 4,5★ (3.635 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Dinh Cậu es el pequeño santuario asentado sobre una roca y el faro de rayas azules y blancas que marca la desembocadura del río Duong Dong: una parada de 10 minutos que conviene hacer entre las 7:00 y las 15:00, antes de que lleguen las multitudes del atardecer. La entrada es gratuita, abre todos los días de 7:00 a 20:30 y combina de forma natural con un paseo por el mercado nocturno de Duong Dong, justo al lado. Si quieres tener las escaleras para ti solo, evita el horario de 17:00 a 20:00 los fines de semana.'

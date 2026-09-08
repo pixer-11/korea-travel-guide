@@ -43,7 +43,7 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Summer Sonic is Japan's biggest twin-city rock festival, running the same weekend in Chiba (on Tokyo Bay) and Osaka, with many artists shuttling between the two cities to play both. The festival was set for August 14–16, 2026: its 25th anniversary, and a full three-day run rather than the traditional two-day format. The announced lineup spanned genres in a way few festivals manage — The Strokes and Jamiroquai for indie/funk crowds, FKA Twigs for the alt-electronic set, L'Arc-en-Ciel representing the visual-kei/J-rock legends who helped define Japanese rock abroad, and K-pop heavyweights aespa and LE SSERAFIM. That range is the festival's signature: metal, hip-hop, city pop, and stadium pop all sharing the same weekend.
+Summer Sonic is Japan's biggest twin-city rock festival, running the same weekend in Chiba (on Tokyo Bay) and Osaka, with many artists shuttling between the two cities to play both. The festival was set for August 14–16, 2026: its 25th anniversary, and a full three-day run rather than the traditional two-day format. The announced lineup spanned genres in a way few festivals manage, The Strokes and Jamiroquai for indie/funk crowds, FKA Twigs for the alt-electronic set, L'Arc-en-Ciel representing the visual-kei/J-rock legends who helped define Japanese rock abroad, and K-pop heavyweights aespa and LE SSERAFIM. That range is the festival's signature: metal, hip-hop, city pop, and stadium pop all sharing the same weekend.
 
 ## Getting there
 
@@ -55,7 +55,7 @@ Because this is a two-city festival, attendees choose between Chiba, Osaka, or b
 
 ## What to expect on site
 
-Multiple outdoor and indoor stages were scheduled to run concurrently. Organisers placed the big headline sets in Zozo Marine Stadium, with additional stages in the Makuhari Messe halls, which offer better shade and air conditioning — a meaningful difference in mid-August humidity. Food areas typically mix festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size of the site, the walking distances between stages are real, and back-to-back sets on opposite ends of the grounds take transit time.
+Multiple outdoor and indoor stages were scheduled to run concurrently. Organisers placed the big headline sets in Zozo Marine Stadium, with additional stages in the Makuhari Messe halls, which offer better shade and air conditioning, a meaningful difference in mid-August humidity. Food areas typically mix festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size of the site, the walking distances between stages are real, and back-to-back sets on opposite ends of the grounds take transit time.
 
 The louder rock acts make earplugs common near the front of stage, and bag checks and standard festival security were part of the entry setup.
 

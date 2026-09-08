@@ -59,33 +59,33 @@ There's no ticket booth, no turnstile. You just point your car at the mountain a
 The road up is the real attraction. It's a smooth, 12-kilometre ribbon of asphalt with 21 or so hairpin curves, built with wide lanes and low speed limits so drivers can actually enjoy it rather than white-knuckle it.
 
 - From central Al Ain, it's roughly a 20-30 minute drive to the mountain's base
-- A car is essential — there's no public bus route up the mountain
+- A car is essential. There's no public bus route up the mountain
 - Taxis and ride-hailing apps will take you up, though arranging a return pickup takes planning
 - The road is paved the entire way, no 4x4 needed
 
-As you climb, the temperature noticeably drops and the view opens up behind you — Al Ain's grid of palm groves and low buildings shrinking into a green smudge against the sand.
+As you climb, the temperature noticeably drops and the view opens up behind you, Al Ain's grid of palm groves and low buildings shrinking into a green smudge against the sand.
 
 ## What you'll find at the top
 
 Near the summit there's a large parking area and a viewing platform where most people stop. On a clear day you can see for tens of kilometres across the border region into Oman, with the jagged, sun-bleached ridgeline of the Hajar foothills stretching out below.
 
-The mountain is also known for the Mercure Grand Jebel Hafeet Hotel, perched dramatically on the upper slopes — a good marker for how far up you've come. Near the base, the Jebel Hafeet Desert Park and the Green Mubazzarah gardens make an easy add-on, with natural warm springs and picnic lawns at the foot of the rock face.
+The mountain is also known for the Mercure Grand Jebel Hafeet Hotel, perched dramatically on the upper slopes. A good marker for how far up you've come. Near the base, the Jebel Hafeet Desert Park and the Green Mubazzarah gardens make an easy add-on, with natural warm springs and picnic lawns at the foot of the rock face.
 
-Archaeology buffs should know Jebel Hafeet gave its name to the "Hafit period," after Bronze Age beehive tombs discovered scattered across its lower slopes — some of the oldest structural remains in the UAE.
+Archaeology buffs should know Jebel Hafeet gave its name to the "Hafit period," after Bronze Age beehive tombs discovered scattered across its lower slopes, some of the oldest structural remains in the UAE.
 
 ## When to go
 
 Avoid the midday sun, especially between May and September, when the tarmac and rock radiate heat well into the evening. Cooler months, from November through March, make for a genuinely pleasant drive with the windows down.
 
-Late afternoon is the sweet spot year-round. You get softer light for photos, a noticeable temperature drop compared to the desert floor below, and a sunset that turns the whole ridge amber and pink. Bring a light jacket — it's genuinely breezy up top even when Al Ain is baking.
+Late afternoon is the sweet spot year-round. You get softer light for photos, a noticeable temperature drop compared to the desert floor below, and a sunset that turns the whole ridge amber and pink. Bring a light jacket. It's genuinely breezy up top even when Al Ain is baking.
 
 ## How to visit like a local
 
 Jebel Hafeet isn't a heavily touristed stop compared to Abu Dhabi's skyline sights or Dubai's malls, so you can usually find a quiet pull-off on the drive up even during peak season. Locals treat it as an evening escape from the heat rather than a box to tick.
 
-- Time your drive for the last two hours before sunset — the light and temperature are both at their best
+- Time your drive for the last two hours before sunset. The light and temperature are both at their best
 - Fill your tank before you leave Al Ain; there are no petrol stations on the mountain road
-- Pull into the marked viewpoints rather than stopping on the curves — other drivers use this road for genuine recreational driving, including cyclists on weekend mornings
+- Pull into the marked viewpoints rather than stopping on the curves, other drivers use this road for genuine recreational driving, including cyclists on weekend mornings
 - Bring water and cash for any roadside stalls near Green Mubazzarah, since card readers aren't guaranteed
 - Weekday visits are noticeably quieter than Thursday and Friday evenings, when local families and motorcyclists head up in numbers
 

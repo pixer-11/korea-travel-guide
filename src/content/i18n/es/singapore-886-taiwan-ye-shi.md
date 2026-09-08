@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-886-taiwan-ye-shi
-srcHash: 'ed87c0386411'
+srcHash: '981464e002c2'
 title: '886 Taiwan Yè Shì: dónde comer en Singapur'
 description: '886 Taiwan Yè Shì en Singapur, Singapur — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 886 Taiwan Yè Shì es un restaurante ambientado en un mercado nocturno taiwanés (yè shì) dentro del Terminal 3 del Aeropuerto de Changi, construido en torno a una réplica de un vagón de tren de Shifen con farolillos del cielo y vías de ferrocarril, donde se sirven fideos la mian hechos a mano y pollo frito al estilo taiwanés. Abrió el 20 de julio de 2026, así que conviene confirmar el horario actual, el menú y la política de reservas a través de los canales oficiales de Changi antes de ir, y tener en cuenta que solo es accesible para quienes vuelan a través del T3.

@@ -76,7 +76,7 @@ updatedDate: '2026-08-16'
 
 ## Why Alishan pulls people up the mountain
 
-The road climbs for hours before the air changes. Suddenly the roadside shifts from banana groves to cloud forest, and you're inside stands of red cypress that have stood for over a thousand years. Alishan isn't one single sight — it's a whole recreation area of trails, shrines, a historic railway and viewing platforms, all wrapped in mist that rolls through the trees most mornings.
+The road climbs for hours before the air changes. Suddenly the roadside shifts from banana groves to cloud forest, and you're inside stands of red cypress that have stood for over a thousand years. Alishan isn't one single sight. It's a whole recreation area of trails, shrines, a historic railway and viewing platforms, all wrapped in mist that rolls through the trees most mornings.
 
 The park's reputation rests on three things: the "sacred trees" (some cypress giants over 2,000 years old), the sunrise viewed from Zhushan or Ogasawara viewing platforms, and the Alishan Forest Railway, a narrow-gauge line built by the Japanese over a century ago to haul timber down the mountain.
 
@@ -84,7 +84,7 @@ The park's reputation rests on three things: the "sacred trees" (some cypress gi
 
 Most visitors reach Alishan by road from Chiayi city, a roughly two-and-a-half hour drive or bus ride up switchbacking mountain highways. Buses run from Chiayi High Speed Rail Station and Chiayi Train Station directly to the park entrance.
 
-Once inside, the recreation area is walkable, with a network of boardwalks connecting the main groves. For the sunrise trip to Zhushan, most people catch the small sunrise train from Alishan Station in the dark — book that seat in advance if you can, since it sells out fast in high season.
+Once inside, the recreation area is walkable, with a network of boardwalks connecting the main groves. For the sunrise trip to Zhushan, most people catch the small sunrise train from Alishan Station in the dark. Book that seat in advance if you can, since it sells out fast in high season.
 
 ## What to see and do inside the park
 
@@ -100,21 +100,21 @@ The forest itself does a lot of the work. Moss coats every fallen log, light fil
 
 ## When to go
 
-The park is open 24 hours every day, so there's no gate schedule to plan around — but the mountain has its own rhythm. Cherry blossoms peak in March and early April, drawing heavy crowds specifically for the blooms. Clear autumn mornings from October to December tend to give the best odds for a visible sunrise and cloud sea.
+The park is open 24 hours every day, so there's no gate schedule to plan around, but the mountain has its own rhythm. Cherry blossoms peak in March and early April, drawing heavy crowds specifically for the blooms. Clear autumn mornings from October to December tend to give the best odds for a visible sunrise and cloud sea.
 
 Weekends and midday are the crunch points. Foot traffic on the main trails builds steadily from 9am and stays heavy right through to 5pm, especially on weekends when tour groups arrive in waves.
 
 ## How to visit like a local
 
-Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The measured quiet window is 7am–8am on weekdays — walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload.
+Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The measured quiet window is 7am–8am on weekdays. Walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload.
 
 A few practical habits locals and frequent visitors follow:
 
-- Dress in layers — elevation here is around 2,200 meters, and mornings are cold even in summer
+- Dress in layers, elevation here is around 2,200 meters, and mornings are cold even in summer
 - Buy the sunrise train ticket the moment it goes on sale online, not on arrival
 - Carry cash for small food stalls near the entrance and train stations, though larger vendors take cards
-- Don't rush straight to the sunrise platform and leave — the forest trails deeper in the park are far less crowded and just as striking
+- Don't rush straight to the sunrise platform and leave. The forest trails deeper in the park are far less crowded and just as striking
 - Give way on narrow boardwalk sections; they're one-person wide in places and traffic jams form fast on weekends
 
-The single biggest mistake visitors make is treating Alishan as a quick photo stop. Between the train ride, the sacred tree loop, and a sunrise or sunset viewing, it easily fills a full day — and rewards an overnight stay in the village if you want both sunrise and a calm morning walk before the crowds arrive.
+The single biggest mistake visitors make is treating Alishan as a quick photo stop. Between the train ride, the sacred tree loop, and a sunrise or sunset viewing, it easily fills a full day, and rewards an overnight stay in the village if you want both sunrise and a calm morning walk before the crowds arrive.
 

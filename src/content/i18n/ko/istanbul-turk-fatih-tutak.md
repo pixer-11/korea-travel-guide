@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: istanbul-turk-fatih-tutak
-srcHash: 'a67cda2fe009'
+srcHash: 'b40932588ecf'
 title: 이스탄불의 TURK Fatih Tutak
 description: 튀르키예 이스탄불에서 요즘 가장 화제가 되고 있는 레스토랑, TURK Fatih Tutak을 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 정리했습니다.
 quickAnswer: TURK Fatih Tutak은 셰프 파티흐 투탁(Fatih Tutak)이 아나톨리아 식재료와 조리법을 현대적이고 연구 중심적인 시각으로 재해석해 선보이는 이스탄불의 테이스팅 메뉴 레스토랑입니다. 미쉐린 가이드 튀르키예 2026(Michelin Guide Türkiye 2026) 셀렉션에 이름을 올렸을 뿐 아니라 지속가능한 실천을 인정받아 그린스타까지 받았으며, 현재 이스탄불에서 가장 많이 회자되는 레스토랑 중 하나입니다. 그러니 예약은 최대한 서둘러 진행하시고, 방문 전 영업시간과 예약 정책은 반드시 레스토랑에 직접 재확인하시기 바랍니다.

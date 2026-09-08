@@ -106,25 +106,25 @@ updatedDate: '2026-09-06'
 
 ## Why Curio Stands Out in Kanazawa
 
-Kanazawa is a city built around lacquerware, gold leaf, and Edo-era teahouses, so a café obsessed with mid-century furniture, single-origin espresso, and analog design feels almost defiantly modern. Curio Espresso and Vintage Design Café has built a loyal following (rated 4.6 from over 1,100 reviews) precisely because it doesn't try to be a traditional Kanazawa experience — it's a deliberate palate and pace change between temple visits and lacquerware shops.
+Kanazawa is a city built around lacquerware, gold leaf, and Edo-era teahouses, so a café obsessed with mid-century furniture, single-origin espresso, and analog design feels almost defiantly modern. Curio Espresso and Vintage Design Café has built a loyal following (rated 4.6 from over 1,100 reviews) precisely because it doesn't try to be a traditional Kanazawa experience. It's a deliberate palate and pace change between temple visits and lacquerware shops.
 
-The name is literal: the room is filled with curios — old cameras, retro signage, thrifted armchairs, and turntables — arranged the way a collector's studio might look, not a chain café.
+The name is literal: the room is filled with curios (old cameras, retro signage, thrifted armchairs, and turntables) arranged the way a collector's studio might look, not a chain café.
 
 ## Getting There
 
 The café sits in Yasuechō, a compact street just north of Omicho Market, one of Kanazawa's best-known food markets. It's roughly a 15–20 minute walk from Kanazawa Station's east exit, making it an easy stop if you're walking toward the market or Kanazawa Castle Park afterward. Alternatively, the Kanazawa Loop Bus (the tourist-oriented bus that circles the city's main sights) stops near Omicho Market; from there it's a two-to-three minute walk into the surrounding lanes to find Yasuechō.
 
-Because the address sits in a quieter residential-commercial pocket rather than directly on a main tourist drag, it's worth pulling up the address on a map app before setting out — the signage is low-key by design.
+Because the address sits in a quieter residential-commercial pocket rather than directly on a main tourist drag, it's worth pulling up the address on a map app before setting out. The signage is low-key by design.
 
 ## What to Order
 
-Espresso is the anchor here — expect proper flat whites, cortados, and pour-over options rather than the sweetened, milk-heavy coffee drinks more common in mainstream Japanese cafés. The food menu leans Western brunch: thick-cut toast with seasonal jam, granola bowls with yogurt, and egg-forward plates that rotate seasonally. Portions are generous for a café rather than a full restaurant, and prices sit in the moderate range for Kanazawa (a coffee and a light dish typically lands in the ¥1,500–2,500 territory, though menus and prices shift, so treat this as a rough guide rather than a quote).
+Espresso is the anchor here. Expect proper flat whites, cortados, and pour-over options rather than the sweetened, milk-heavy coffee drinks more common in mainstream Japanese cafés. The food menu leans Western brunch: thick-cut toast with seasonal jam, granola bowls with yogurt, and egg-forward plates that rotate seasonally. Portions are generous for a café rather than a full restaurant, and prices sit in the moderate range for Kanazawa (a coffee and a light dish typically lands in the ¥1,500–2,500 territory, though menus and prices shift, so treat this as a rough guide rather than a quote).
 
-Baked goods — scones, muffins, banana bread — are usually available for a quicker visit if you don't have time for a full brunch sitting.
+Baked goods (scones, muffins, banana bread) are usually available for a quicker visit if you don't have time for a full brunch sitting.
 
 ## The Design Angle
 
-What separates Curio from a generic "cute café" is the intentionality of its interior. Vintage mid-century chairs, wooden shelving stacked with old books and knick-knacks, and warm lighting give it the feel of a design studio that happens to serve coffee. It's a favorite stop for visitors interested in Japan's vintage/kissaten café culture crossed with third-wave coffee sensibilities — a hybrid that's increasingly common in cities like Tokyo and Kyoto but still relatively rare in Kanazawa.
+What separates Curio from a generic "cute café" is the intentionality of its interior. Vintage mid-century chairs, wooden shelving stacked with old books and knick-knacks, and warm lighting give it the feel of a design studio that happens to serve coffee. It's a favorite stop for visitors interested in Japan's vintage/kissaten café culture crossed with third-wave coffee sensibilities, a hybrid that's increasingly common in cities like Tokyo and Kyoto but still relatively rare in Kanazawa.
 
 Bring a camera; the mismatched crockery and analog décor are part of the draw, and regulars often say the atmosphere is worth the visit even before the coffee arrives.
 

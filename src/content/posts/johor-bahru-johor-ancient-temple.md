@@ -95,7 +95,7 @@ updatedDate: '2026-09-05'
 ---
 ## Why go
 
-This 19th-century temple isn't just old — it's a working shrine to five deities under one roof, a rarity even in Malaysia. It's one of the oldest buildings in Johor Bahru, predating most of the city around it.
+This 19th-century temple isn't just old. It's a working shrine to five deities under one roof, a rarity even in Malaysia. It's one of the oldest buildings in Johor Bahru, predating most of the city around it.
 
 You come for the craftsmanship. Every beam, pillar, and eave is layered with carvings, gilded lettering, and painted scenes that took skilled artisans months to finish.
 
@@ -103,7 +103,7 @@ You come for the craftsmanship. Every beam, pillar, and eave is layered with car
 
 Step through the front doors and the outside noise drops away almost instantly. The air turns thick with sandalwood smoke, curling up from spiral incense coils hanging from the ceiling like slow-burning chandeliers.
 
-Red and gold dominate everywhere you look. Dragons twist along the roof ridge, ceramic figures perch on the eaves, and the altar tables are crowded with offerings — oranges, joss sticks, small cups of tea.
+Red and gold dominate everywhere you look. Dragons twist along the roof ridge, ceramic figures perch on the eaves, and the altar tables are crowded with offerings, oranges, joss sticks, small cups of tea.
 
 The five deities enshrined here each have their own devotees, so you'll often see worshippers moving between altars rather than clustering at one. Elderly residents shake bamboo fortune sticks (chim) in wooden cylinders, a practice you can watch respectfully from a few steps back.
 
@@ -117,19 +117,19 @@ Grab-hailed cars are the simplest option if you're not up for the walk in the he
 
 ## When to go
 
-The temple opens daily from 7:30am to 5:30pm, so plan your visit inside that window — there's no evening access. Weekday mornings between 8am and 9am are the quietest stretch, before tour groups and worshippers running errands start filtering in.
+The temple opens daily from 7:30am to 5:30pm, so plan your visit inside that window. There's no evening access. Weekday mornings between 8am and 9am are the quietest stretch, before tour groups and worshippers running errands start filtering in.
 
 Weekends are a different story. Foot traffic stays heavy from 9am right through to 4pm, so if you're set on a peaceful, unhurried look at the carvings, skip Saturday and Sunday altogether.
 
-Chinese New Year is the one exception worth knowing about. The temple becomes a major gathering point then, packed with devotees and lion dance performances — worth seeing if you're already in town, but not the time for quiet contemplation.
+Chinese New Year is the one exception worth knowing about. The temple becomes a major gathering point then, packed with devotees and lion dance performances, worth seeing if you're already in town, but not the time for quiet contemplation.
 
 ## How to visit like a local
 
-This is a functioning place of worship, not a museum, and the etiquette matters. Dress modestly — shoulders and knees covered is a safe bet — and keep your voice low once inside.
+This is a functioning place of worship, not a museum, and the etiquette matters. Dress modestly, shoulders and knees covered is a safe bet, and keep your voice low once inside.
 
 - Arrive between 8am and 9am on a weekday for the calmest visit.
 - Photography is generally fine, but avoid using flash near worshippers at the altars.
 - If you see someone shaking fortune sticks or bowing with incense, wait until they've finished before walking past that altar.
 - Remove hats before entering, and don't touch the altar items or offerings.
 
-The most common visitor mistake is treating it like a five-minute photo stop. Slow down, walk the full perimeter, and look at the carved panels near the roofline — that's where the oldest, most detailed work survives. Pair the visit with a wander through the nearby Jalan Trus and Jalan Ibrahim shophouse streets, both a short walk away, to round out a morning in the old town.
+The most common visitor mistake is treating it like a five-minute photo stop. Slow down, walk the full perimeter, and look at the carved panels near the roofline. That's where the oldest, most detailed work survives. Pair the visit with a wander through the nearby Jalan Trus and Jalan Ibrahim shophouse streets, both a short walk away, to round out a morning in the old town.

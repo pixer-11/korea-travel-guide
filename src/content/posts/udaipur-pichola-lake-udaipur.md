@@ -55,7 +55,7 @@ draft: false
 
 Everything in this city orients itself around the water. Palaces, havelis, temples and ghats all face the lake, and once you're standing on its banks you understand why Udaipur calls itself the City of Lakes.
 
-Dug out in 1362 and later expanded by Maharana Udai Singh II, Pichola isn't natural — it's a masterpiece of engineering that still defines the skyline. The City Palace runs along its eastern shore for nearly 250 metres of carved balconies and domes.
+Dug out in 1362 and later expanded by Maharana Udai Singh II, Pichola isn't natural. It's a masterpiece of engineering that still defines the skyline. The City Palace runs along its eastern shore for nearly 250 metres of carved balconies and domes.
 
 Two islands rise from the middle of the lake: Jag Niwas, now the Taj Lake Palace hotel, and Jag Mandir, with its marble pavilions and garden courtyards. Neither needs a reason beyond how they look floating there at dusk.
 
@@ -63,7 +63,7 @@ Two islands rise from the middle of the lake: Jag Niwas, now the Taj Lake Palace
 
 Most visitors reach the lake through the old city, entering near Ghanta Ghar or via Bada Bazaar toward the City Palace complex. Ambrai Ghat, on the northwestern bank, gives you the classic postcard view back across the water to the palace.
 
-Udaipur's airport (Maharana Pratap Airport) sits about 25 minutes away by taxi or auto-rickshaw, and the railway station is closer still, roughly 15 minutes from the ghats. There's no metro here — walking and auto-rickshaws are how you move through the old city.
+Udaipur's airport (Maharana Pratap Airport) sits about 25 minutes away by taxi or auto-rickshaw, and the railway station is closer still, roughly 15 minutes from the ghats. There's no metro here, walking and auto-rickshaws are how you move through the old city.
 
 Once you're near the water, the lake itself is walkable. Ghats, temples, and cafés line the shore, so you can cover a lot on foot before or after a boat ride.
 
@@ -90,10 +90,10 @@ If you're chasing that golden-hour photo of the City Palace reflected on the wat
 
 ## How to visit like a local
 
-Skip the midday crush — heat and tour groups both peak between noon and 3pm. Early morning or the last hour before closing gives you calmer water and softer light without the scrum at the jetty.
+Skip the midday crush, heat and tour groups both peak between noon and 3pm. Early morning or the last hour before closing gives you calmer water and softer light without the scrum at the jetty.
 
 Boat tickets are sold at counters near the two main jetties; cash and cards are both commonly accepted, but carrying small denominations speeds things along. There's no need to prebook far ahead outside major festivals like Mewar Festival or Holi, when the ghats fill fast.
 
-Dress modestly if you're stopping at Jagdish Temple or any of the smaller shrines along the shore — shoulders and knees covered is the norm. Tipping boatmen isn't obligatory, but rounding up is appreciated and common practice.
+Dress modestly if you're stopping at Jagdish Temple or any of the smaller shrines along the shore, shoulders and knees covered is the norm. Tipping boatmen isn't obligatory, but rounding up is appreciated and common practice.
 
 The mistake most visitors make is treating the lake as a single stop rather than a loop. Pair your boat ride with a walk from Ambrai Ghat to Gangaur Ghat, and you'll see the palace from angles most people miss entirely.

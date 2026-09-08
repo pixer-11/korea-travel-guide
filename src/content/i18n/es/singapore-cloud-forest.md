@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-cloud-forest
-srcHash: '1af5cb691b57'
+srcHash: '5c4b8bf4172d'
 title: 'Cloud Forest: guía de viaje de Singapur'
 description: Cloud Forest es el invernadero abovedado de Gardens by the Bay (18 Marina Gardens Dr), construido alrededor de una cascada interior de 35 metros y una montaña envuelta en niebla con plantas tropicales de altura.
 quickAnswer: Cloud Forest es el invernadero abovedado de Gardens by the Bay (18 Marina Gardens Dr), construido alrededor de una cascada interior de 35 metros y una montaña envuelta en niebla con plantas tropicales de altura. Con más de 31.500 reseñas y una calificación de 4.8, es una de las atracciones más visitadas de Singapur, así que conviene llegar justo a la apertura (10am) un día de semana para recorrer el sendero de la montaña antes de que lleguen los grupos turísticos. Calcula entre 60 y 90 minutos, y combínalo con el Flower Dome vecino usando el mismo ticket.

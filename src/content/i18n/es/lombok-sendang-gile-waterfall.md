@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lombok-sendang-gile-waterfall
-srcHash: '7fbff7c6f655'
+srcHash: '9a9049ed2bb6'
 title: 'Cascada Sendang Gile: Guía de Viaje de Lombok'
 description: Sendang Gile es una cascada de dos niveles en la ladera sur del monte Rinjani, a la que se llega por un sendero corto y bien mantenido desde el pueblo de Senaru, en el norte de Lombok.
 quickAnswer: Sendang Gile es una cascada de dos niveles en la ladera sur del monte Rinjani, a la que se llega por un sendero corto y bien mantenido desde el pueblo de Senaru, en el norte de Lombok. Reserva entre 1.5 y 2 horas para ver tanto Sendang Gile como la cascada más alta de Tiu Kelep, usa sandalias con buen agarre o calzado de senderismo, y ve temprano por la mañana (antes de las 9am) para evitar los grupos turísticos y la lluvia de la tarde.

@@ -73,9 +73,9 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-You feel it before you see it — a low hum through the boardwalk, then a hush from the crowd along the rail. The Dubai Fountain sits on the artificial lake beneath Burj Khalifa, and when the jets fire, water shoots up to 140 meters, lit and choreographed to music that ranges from Arabic pop to orchestral swells.
+You feel it before you see it, a low hum through the boardwalk, then a hush from the crowd along the rail. The Dubai Fountain sits on the artificial lake beneath Burj Khalifa, and when the jets fire, water shoots up to 140 meters, lit and choreographed to music that ranges from Arabic pop to orchestral swells.
 
-It's a genuinely well-rated spectacle, and one of the most visited free shows in the city. Nobody comes here for solitude — they come for scale.
+It's a genuinely well-rated spectacle, and one of the most visited free shows in the city. Nobody comes here for solitude, they come for scale.
 
 ## Getting there
 
@@ -85,7 +85,7 @@ From there, walk through Dubai Mall toward the Waterfall/Souk section, following
 
 ## What to see
 
-The main draw is the choreography itself — water arcs, spins, and shoots skyward in bursts synced to a soundtrack piped through speakers along the lake edge. At night, colored lights turn the spray gold, blue, and white.
+The main draw is the choreography itself, water arcs, spins, and shoots skyward in bursts synced to a soundtrack piped through speakers along the lake edge. At night, colored lights turn the spray gold, blue, and white.
 
 A few things worth knowing before you watch:
 
@@ -94,7 +94,7 @@ A few things worth knowing before you watch:
 - The best sightlines are from the lakeside promenade directly in front of Burj Khalifa, or from a table at one of the waterfront restaurants
 - A boardwalk lets you walk almost the full perimeter of the lake for different angles
 
-Beyond the show itself, the surrounding plaza is worth a slow walk — Burj Khalifa rises directly behind the lake, and the Dubai Mall waterfall and souk entrances are steps away.
+Beyond the show itself, the surrounding plaza is worth a slow walk, Burj Khalifa rises directly behind the lake, and the Dubai Mall waterfall and souk entrances are steps away.
 
 ## When to go
 
@@ -104,17 +104,17 @@ Because this is one of the most visited spots in the city, the promenade fills u
 
 ## How to visit like a local
 
-Regular visitors don't fight for the very front row — they pick a spot slightly back from the rail, near a pillar or bench, where you still get a full view without elbow-to-elbow crowding. Arrive at least 20 minutes before a scheduled show to claim a decent position.
+Regular visitors don't fight for the very front row, they pick a spot slightly back from the rail, near a pillar or bench, where you still get a full view without elbow-to-elbow crowding. Arrive at least 20 minutes before a scheduled show to claim a decent position.
 
-- Watching from the promenade is free — no ticket, no booking needed
+- Watching from the promenade is free, no ticket, no booking needed
 - For a paid alternative with guaranteed seating, some visitors book a table at a waterfront restaurant or take a boat ride timed to a show
 - Photos come out best from the bridge area facing Burj Khalifa, especially just after sunset when the sky still holds some color
-- Skip the show directly in front of the main stairs if you want to avoid the densest crowd — the sides of the lake offer nearly the same view with more space
+- Skip the show directly in front of the main stairs if you want to avoid the densest crowd, the sides of the lake offer nearly the same view with more space
 - There's no tipping or transaction involved in watching; save cash for the mall or nearby cafés
 
 The mistake most first-timers make is treating it as a quick five-minute stop. Budget closer to 30–45 minutes if you want to catch it from a couple of angles, grab a coffee nearby, and let one full show finish before moving on.
 
 ## Nearby to pair with your visit
 
-After the fountain, Dubai Mall itself is worth folding into the evening — the aquarium, ice rink, and souk section are all inside. If you have more time, the Burj Khalifa observation deck tickets are sold separately and worth booking ahead if you want the view from above looking back down at the lake you just watched from below.
+After the fountain, Dubai Mall itself is worth folding into the evening, the aquarium, ice rink, and souk section are all inside. If you have more time, the Burj Khalifa observation deck tickets are sold separately and worth booking ahead if you want the view from above looking back down at the lake you just watched from below.
 

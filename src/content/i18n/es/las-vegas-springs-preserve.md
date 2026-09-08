@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: las-vegas-springs-preserve
-srcHash: '723c18ba295c'
+srcHash: 'b652056639de'
 title: 'Springs Preserve: Guía de viaje de Las Vegas'
 description: Springs Preserve es un oasis desértico de 180 acres ubicado en 333 S Valley View Blvd, a unos 10 minutos del Strip, construido alrededor de los manantiales que le dieron su nombre a Las Vegas.
 quickAnswer: Springs Preserve es un oasis desértico de 180 acres ubicado en 333 S Valley View Blvd, a unos 10 minutos del Strip, construido alrededor de los verdaderos manantiales de agua dulce que le dieron su nombre a Las Vegas. Planea entre 3 y 4 horas para recorrer los senderos, los jardines botánicos y los museos, y llega justo a la apertura, a las 9am; el lugar cierra los martes y miércoles, y los senderos y exhibiciones se llenan progresivamente durante el día los fines de semana. Es un sitio realmente querido y muy visitado, así que más que un lugar por descubrir, es un lugar bien gestionado que conviene visitar en el momento adecuado.

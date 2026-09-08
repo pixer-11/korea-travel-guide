@@ -103,23 +103,23 @@ Headquarters is where you register, arrange guides, and pick up trail maps. A cl
 - **Liwagu Trail**: longer and quieter, following the river with mountain views on clear days.
 - **Botanical Garden**: a compact, guided walk-through introduction to Kinabalu's plant diversity, useful if you're short on time.
 
-If you're attempting the summit, this is also where climbing permits, mandatory guides, and mountain guesthouse bookings are arranged — that process should be sorted well in advance, ideally before you even leave Kota Kinabalu, since climber numbers are capped daily.
+If you're attempting the summit, this is also where climbing permits, mandatory guides, and mountain guesthouse bookings are arranged, that process should be sorted well in advance, ideally before you even leave Kota Kinabalu, since climber numbers are capped daily.
 
 ## When to go
 
 The park opens at 7am and closes at 5pm every day of the week. Mornings are consistently the best window: cloud tends to roll in by mid-to-late morning, hiding the summit and turning the trails misty rather than scenic.
 
-Aim to arrive as close to opening as your transport allows. The dry season, roughly March to August, gives better odds of clear mountain views, though this is rainforest — expect showers any time of year.
+Aim to arrive as close to opening as your transport allows. The dry season, roughly March to August, gives better odds of clear mountain views, though this is rainforest. Expect showers any time of year.
 
 ## How to visit like a local
 
 Sabahans treat Kinabalu Park as a working mountain, not a photo backdrop, and the culture here is practical rather than polished.
 
-- **Pay and register properly**: entrance fees and any guide costs are handled at the headquarters counter — bring ringgit in cash to be safe, as card facilities can be unreliable this far from the city.
-- **Book summit permits ahead**: independent climbing isn't allowed — a licensed guide is compulsory, and permits and mountain guesthouse beds sell out during peak months.
-- **Dress for cold, not tropics**: even though you started the day in Kota Kinabalu's heat, headquarters sits at 1,563m and mornings can be genuinely chilly — bring a light jacket.
+- **Pay and register properly**: entrance fees and any guide costs are handled at the headquarters counter. Bring ringgit in cash to be safe, as card facilities can be unreliable this far from the city.
+- **Book summit permits ahead**: independent climbing isn't allowed. A licensed guide is compulsory, and permits and mountain guesthouse beds sell out during peak months.
+- **Dress for cold, not tropics**: even though you started the day in Kota Kinabalu's heat, headquarters sits at 1,563m and mornings can be genuinely chilly. Bring a light jacket.
 - **Move quietly on the trails**: this is a working research and conservation area; loud groups scare off the birds and squirrels that make the boardwalk walks worthwhile.
 - **The common mistake**: tourists show up mid-afternoon expecting mountain views and get fog instead. Locals know the mountain "closes in" by late morning, so front-load your visit.
 
-Give yourself at least half a day even if you're only walking the lower trails, longer if you want to fit in the Botanical Garden and a proper stretch of the Liwagu Trail. Combine it with Poring Hot Springs afterward if you want a hot soak to end the day — it's a further 40 minutes beyond the park gate and a natural pairing for anyone not summiting.
+Give yourself at least half a day even if you're only walking the lower trails, longer if you want to fit in the Botanical Garden and a proper stretch of the Liwagu Trail. Combine it with Poring Hot Springs afterward if you want a hot soak to end the day. It's a further 40 minutes beyond the park gate and a natural pairing for anyone not summiting.
 

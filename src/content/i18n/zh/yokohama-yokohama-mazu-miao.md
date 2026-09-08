@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: yokohama-yokohama-mazu-miao
-srcHash: '4aeb41076240'
+srcHash: '0731f2ae991e'
 title: 横滨妈祖庙(Yokohama Mazu Miao)旅行指南(4.2★)
 description: 横滨妈祖庙是一座隐藏在横滨中华街(Yokohama Chinatown)小巷中的小型中式庙宇，装饰精美，供奉着保护水手与旅人的道教海神妈祖。4.2★(1,067条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 横滨妈祖庙是一座隐藏在横滨中华街小巷中的小型中式庙宇，装饰精美，供奉着保护水手与旅人的道教海神妈祖。走进庭院、往里探望是免费的，细细游览大约需要20-30分钟，清晨是最清静的时段——周末中午到下午5点会变得繁忙，所以最好一早前往。这里也很适合和中华街的美食小摊、以及附近的山下公园(Yamashita Park)一起游览。

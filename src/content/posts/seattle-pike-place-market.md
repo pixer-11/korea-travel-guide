@@ -37,7 +37,7 @@ aiGenerated: true
 
 ## Why Pike Place Market is a food destination, not just a market
 
-Pike Place Market opened in 1907 as a farmers' market to cut out middlemen between growers and shoppers, and it's still a working market today — not a themed food hall. That history matters for eating: the seafood is here because fishing boats and produce trucks still supply it, and many of the food stalls and hole-in-the-wall counters have been run by the same families for decades. The result is one of the densest, most walkable eating strips in Seattle, stacked across several levels overlooking Elliott Bay.
+Pike Place Market opened in 1907 as a farmers' market to cut out middlemen between growers and shoppers, and it's still a working market today, not a themed food hall. That history matters for eating: the seafood is here because fishing boats and produce trucks still supply it, and many of the food stalls and hole-in-the-wall counters have been run by the same families for decades. The result is one of the densest, most walkable eating strips in Seattle, stacked across several levels overlooking Elliott Bay.
 
 ## Getting there and getting oriented
 
@@ -47,14 +47,14 @@ From there, the market spreads across the main arcade, the lower "Down Under" le
 
 ## What to eat
 
-- **Piroshky Piroshky** — a Market institution for Russian-style hand pies, both savory (beef and onion, smoked salmon and cream cheese) and sweet (apple, cherry). Lines form fast; go early.
-- **The fishmongers** (Pure Food Fish Market, City Fish, Pike Place Fish Co.) — beyond the fish-tossing theatrics, these stalls sell ready-to-eat Dungeness crab cocktails, smoked salmon, and chowder you can eat standing at the rail overlooking the water.
-- **Daily Dozen Doughnuts** — mini cake doughnuts fried to order, dusted with cinnamon-sugar or powdered sugar; a Market snack tradition for generations.
-- **Pike Place Chowder** — consistently crowded for a reason; the clam chowder in a sourdough bread bowl is the classic order, and the line moves quicker than it looks.
-- **Beecher's Handmade Cheese** — famous for its "World's Best" mac and cheese made with in-house cheese, visible through the front windows where cheesemakers work.
-- **Ellenos Real Greek Yogurt** — thick yogurt with fruit compote toppings, a lighter counterpoint to the fried and creamy options nearby.
+- **Piroshky Piroshky**, a Market institution for Russian-style hand pies, both savory (beef and onion, smoked salmon and cream cheese) and sweet (apple, cherry). Lines form fast; go early.
+- **The fishmongers** (Pure Food Fish Market, City Fish, Pike Place Fish Co.), beyond the fish-tossing theatrics, these stalls sell ready-to-eat Dungeness crab cocktails, smoked salmon, and chowder you can eat standing at the rail overlooking the water.
+- **Daily Dozen Doughnuts**, mini cake doughnuts fried to order, dusted with cinnamon-sugar or powdered sugar; a Market snack tradition for generations.
+- **Pike Place Chowder**, consistently crowded for a reason; the clam chowder in a sourdough bread bowl is the classic order, and the line moves quicker than it looks.
+- **Beecher's Handmade Cheese**, famous for its "World's Best" mac and cheese made with in-house cheese, visible through the front windows where cheesemakers work.
+- **Ellenos Real Greek Yogurt**, thick yogurt with fruit compote toppings, a lighter counterpoint to the fried and creamy options nearby.
 
-For produce, the farm stalls in the main arcade (especially toward the north end) sell Washington cherries, apples, and flowers by the bunch — good for a picnic on the waterfront steps below.
+For produce, the farm stalls in the main arcade (especially toward the north end) sell Washington cherries, apples, and flowers by the bunch, good for a picnic on the waterfront steps below.
 
 ## When to go and how long to stay
 
@@ -62,6 +62,6 @@ Weekday mornings, roughly 8:30–10am, are the calmest window before cruise-ship
 
 ## Nearby and practical tips
 
-The original 1971 **Starbucks** location sits just across from the main entrance on Pike Place — expect a line for photos, not necessarily coffee. The **Gum Wall** is one block downhill in Post Alley, a quick five-minute detour. Post Alley itself has quieter bars and eateries if the main arcade feels overwhelming. Most stalls are cash- and card-friendly, but smaller vendors sometimes prefer cash, so carry some small bills.
+The original 1971 **Starbucks** location sits just across from the main entrance on Pike Place. Expect a line for photos, not necessarily coffee. The **Gum Wall** is one block downhill in Post Alley, a quick five-minute detour. Post Alley itself has quieter bars and eateries if the main arcade feels overwhelming. Most stalls are cash- and card-friendly, but smaller vendors sometimes prefer cash, so carry some small bills.
 
 Restrooms are limited and often queued; the ones near the MarketFront tend to be less crowded than those in the main arcade.

@@ -103,7 +103,7 @@ updatedDate: '2026-09-04'
 ---
 ## Why go
 
-This isn't a landmark you tick off a list — it's a strip of reclaimed waterfront that locals use, not a stage set for visitors. You come here for open water, moving air, and a horizon line that most of Hong Kong Island doesn't offer.
+This isn't a landmark you tick off a list. It's a strip of reclaimed waterfront that locals use, not a stage set for visitors. You come here for open water, moving air, and a horizon line that most of Hong Kong Island doesn't offer.
 
 The boardwalk runs along the harbour under the raised concrete of the Island Eastern Corridor, so you get an odd, effective contrast: traffic droning overhead, gulls and lapping water below. Container ships and small fishing boats drift past. Across the water, the planes into and out of the old Kai Tak flightpath used to pass low overhead, and on clear days you can pick out the Kowloon skyline stacking up behind the container terminals.
 
@@ -114,33 +114,33 @@ The boardwalk threads along the Causeway Bay and North Point waterfront, accessi
 - Nearest MTR: Tin Hau or Fortress Hill (Island Line), both a short walk downhill toward the water
 - Look for pedestrian access points near Oil Street or the Kellett Island/Causeway Bay Typhoon Shelter, then follow the water east or west
 - Cycling: this stretch connects into Hong Kong's harbourside cycle network, so a bike (rented nearby) covers more ground than walking
-- No dedicated car park — this is a walk-in, cycle-in spot, not a drive-to destination
+- No dedicated car park. This is a walk-in, cycle-in spot, not a drive-to destination
 
 ## What to see and do
 
-There's no ticket booth, no gift shop, no single "sight" — that's the point. You're here to walk, run, sit, or watch the water work.
+There's no ticket booth, no gift shop, no single "sight". That's the point. You're here to walk, run, sit, or watch the water work.
 
 Benches face the harbour at intervals, angled for sunset rather than shade. Anglers set up along the railings most mornings, and you'll pass the Causeway Bay Typhoon Shelter's cluster of moored junks and sampans near one end. Photographers favour the late-afternoon light, when the corridor's concrete pillars throw long shadows across the path.
 
-Bring your own water and snacks — there are no real food stalls directly on the boardwalk, though the surrounding Causeway Bay and North Point streets are a five-to-ten-minute walk inland.
+Bring your own water and snacks. There are no real food stalls directly on the boardwalk, though the surrounding Causeway Bay and North Point streets are a five-to-ten-minute walk inland.
 
 ## When to go
 
-The park never closes; it's open around the clock, every day. That flexibility is part of its appeal — you can catch it lit up at night or empty at dawn.
+The park never closes; it's open around the clock, every day. That flexibility is part of its appeal. You can catch it lit up at night or empty at dawn.
 
 The quietest stretch, weekday or weekend, is early morning, with just the occasional dog-walker for company. Weekends get busy fast after that, staying busy into the evening. If you want space to yourself, an early start is worth the alarm.
 
-Evenings bring a different draw — the corridor's traffic lights and the opposite shore's lights reflect on the water, and it cools off after Hong Kong's humid daytime heat.
+Evenings bring a different draw, the corridor's traffic lights and the opposite shore's lights reflect on the water, and it cools off after Hong Kong's humid daytime heat.
 
 ## How to visit like a local
 
-Treat this as exercise-and-air infrastructure, not a monument — that's how most people who come here actually use it.
+Treat this as exercise-and-air infrastructure, not a monument. That's how most people who come here actually use it.
 
 - Go at 7am if you want it close to empty; by mid-morning on weekends it's a different place entirely
-- No entry fee, no ticket, no booking — you just walk in from any of the access points along the corridor
+- No entry fee, no ticket, no booking, you just walk in from any of the access points along the corridor
 - Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water
-- Cyclists and runners have unofficial priority on the through-path — walk toward the harbour railing side if you're strolling with a group
+- Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group
 - The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air
-- As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to "see everything" — pick one stretch, walk it slowly, and let the harbour do the rest
+- As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to "see everything", pick one stretch, walk it slowly, and let the harbour do the rest
 
 Give yourself 45 minutes to an hour if you're walking a single stretch, longer if you bring a bike and want to link it with the wider harbourfront cycle path toward Quarry Bay or Shau Kei Wan.

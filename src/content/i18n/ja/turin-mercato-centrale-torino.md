@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: turin-mercato-centrale-torino
-srcHash: '5518a9111a11'
+srcHash: '971c9c809721'
 title: メルカート・チェントラーレ・トリノ:トリノで食事をするなら
 description: メルカート・チェントラーレ・トリノ(Mercato Centrale Torino)は、ピアッツァ・デッラ・レプッブリカ(Piazza della Repubblica)にある歴史的なポルタ・パラッツォ(Porta Palazzo)市場の建物内にある、複数の屋台が集まったフードホールです。ピエモンテ料理の定番からピザ、ベルモットまで、屋台をはしごして楽しめます。
 quickAnswer: メルカート・チェントラーレ・トリノ(Mercato Centrale Torino)は、ピアッツァ・デッラ・レプッブリカ(Piazza della Repubblica)にある歴史的なポルタ・パラッツォ(Porta Palazzo)市場の建物内にある、複数の屋台が集まったフードホールです。ピエモンテ料理の定番からピザ、ベルモットまで、屋台をはしごして楽しめます。毎日午前8時から深夜0時まで営業しているので、金曜・土曜夜の混雑を避けたいなら、ランチとアペリティーヴォの間の平日午後の落ち着いた時間帯を狙うのがおすすめです。

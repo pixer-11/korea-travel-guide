@@ -92,13 +92,13 @@ updatedDate: '2026-09-06'
 ---
 ## Why go
 
-Katong Park isn't a destination in itself — it's a pause button. You come here to break up a walk through Katong's peranakan shophouses and coffee shops with something green and unhurried.
+Katong Park isn't a destination in itself. It's a pause button. You come here to break up a walk through Katong's peranakan shophouses and coffee shops with something green and unhurried.
 
 The park sits on Fort Road, a short detour from the Katong food trail, and it rewards anyone curious about Singapore's coastal military history. Before land reclamation pushed the shoreline further out, this was actual beachfront, part of a chain of coastal forts guarding the approach to the city.
 
 ## What you'll actually see
 
-The centerpiece is a squat concrete structure, a surviving gun emplacement from an old coastal fort, sunk into a grassy mound and fenced off but clearly visible. There's no grand plaque or museum-style display — just a weathered slab of colonial-era coastal defense sitting quietly among frangipani trees and monkey bars.
+The centerpiece is a squat concrete structure, a surviving gun emplacement from an old coastal fort, sunk into a grassy mound and fenced off but clearly visible. There's no grand plaque or museum-style display, just a weathered slab of colonial-era coastal defense sitting quietly among frangipani trees and monkey bars.
 
 Walk further in and the park narrows into a path with old rain trees arching overhead, their roots buckling the pavement in places. Benches face a small children's playground and an open lawn where you'll often see one or two people practicing tai chi in the early morning light.
 
@@ -108,7 +108,7 @@ At the northern edge, the park connects into the East Coast Park Connector Netwo
 
 The nearest MRT stop is Katong Park Station on the Thomson-East Coast Line, a short walk from the park entrance on Fort Road. Coming from the Katong/Joo Chiat shophouse strip, it's a 10–15 minute stroll east along Fort Road or Meyer Road.
 
-If you're cycling the park connector from East Coast Park, you'll hit Katong Park naturally as the route curves inland near the Fort Road overpass. There's no admission fee and no gate — it's open 24 hours, every day.
+If you're cycling the park connector from East Coast Park, you'll hit Katong Park naturally as the route curves inland near the Fort Road overpass. There's no admission fee and no gate. It's open 24 hours, every day.
 
 ## When to go
 
@@ -118,13 +118,13 @@ Weekday evenings after office hours tend to be calmer than weekends, though ther
 
 ## How to visit like a local
 
-Nobody treats Katong Park as a "sight" — treat it the same way. Locals use it as a cut-through, a jogging loop, or a spot to let kids run around before breakfast at a nearby kopitiam.
+Nobody treats Katong Park as a "sight", treat it the same way. Locals use it as a cut-through, a jogging loop, or a spot to let kids run around before breakfast at a nearby kopitiam.
 
 - Wear shoes you don't mind getting a little dusty; paths aren't all paved
-- Bring your own water — there isn't much in the way of vendors inside the park itself
+- Bring your own water. There isn't much in the way of vendors inside the park itself
 - Combine it with a coffee shop stop on Joo Chiat Road or East Coast Road afterward, which is how most people actually experience this stretch
-- If cycling the park connector, keep to the marked lanes — it's shared with pedestrians and can be tight on weekends
+- If cycling the park connector, keep to the marked lanes. It's shared with pedestrians and can be tight on weekends
 
-The mistake first-time visitors make is going in expecting a full military heritage site with signage and displays. It's really just a fragment, half-swallowed by grass and tree roots, in the middle of an otherwise ordinary neighborhood park. That low-key quality is the point — this isn't a place under tourist pressure, and there's no queue, ticket booth, or gift shop to navigate. Just go, wander for half an hour, look at the old bunker, and keep walking toward the water or back into Katong's food streets.
+The mistake first-time visitors make is going in expecting a full military heritage site with signage and displays. It's really just a fragment, half-swallowed by grass and tree roots, in the middle of an otherwise ordinary neighborhood park. That low-key quality is the point. This isn't a place under tourist pressure, and there's no queue, ticket booth, or gift shop to navigate. Just go, wander for half an hour, look at the old bunker, and keep walking toward the water or back into Katong's food streets.
 
 Bring cash for the coffee shops nearby, since the park itself has no facilities to speak of beyond a playground and benches. Pair it with a visit to the nearby Katong/Joo Chiat conservation shophouses to make the most of the trip out here.

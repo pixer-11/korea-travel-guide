@@ -86,27 +86,27 @@ updatedDate: '2026-09-02'
 
 ## Why go
 
-Ohori Park is Fukuoka's answer to a downtown escape valve — a roughly 40-hectare park wrapped around a wide, willow-lined lake right in Chuo Ward, minutes from the skyscrapers of Tenjin. It's rated 4.5 stars across more than 15,000 reviews, which for a city park is a strong signal that it delivers on the basics: clean paths, a genuinely scenic lake, and enough variety (boats, gardens, a museum next door, cafés) to fill a couple of hours without feeling like a single-purpose stroll.
+Ohori Park is Fukuoka's answer to a downtown escape valve, a roughly 40-hectare park wrapped around a wide, willow-lined lake right in Chuo Ward, minutes from the skyscrapers of Tenjin. It's rated 4.5 stars across more than 15,000 reviews, which for a city park is a strong signal that it delivers on the basics: clean paths, a genuinely scenic lake, and enough variety (boats, gardens, a museum next door, cafés) to fill a couple of hours without feeling like a single-purpose stroll.
 
 The park's design nods to Hangzhou's West Lake in China, and three small islands connected by bridges sit within the water, giving the walking loop a bit of visual rhythm instead of a flat, featureless perimeter.
 
 ## Getting there
 
-The park sits between Fukuoka Castle ruins (Maizuru Park) and the Fukuoka Art Museum, making it easy to fold into a half-day covering all three. The nearest subway stop is **Ohorikoen Station** on the Fukuoka City Subway Kuko (Airport) Line — exit and it's a short walk to the lake's edge. **Tojinmachi Station**, also on the Kuko Line, is a similarly close alternative if you're coming from Fukuoka Airport or Tenjin (the ride from Tenjin is about two stops, under 10 minutes).
+The park sits between Fukuoka Castle ruins (Maizuru Park) and the Fukuoka Art Museum, making it easy to fold into a half-day covering all three. The nearest subway stop is **Ohorikoen Station** on the Fukuoka City Subway Kuko (Airport) Line, exit and it's a short walk to the lake's edge. **Tojinmachi Station**, also on the Kuko Line, is a similarly close alternative if you're coming from Fukuoka Airport or Tenjin (the ride from Tenjin is about two stops, under 10 minutes).
 
-If you're walking from Tenjin instead, it's roughly 20-25 minutes on foot through the castle ruins area, which is a pleasant way to link the two sites. Driving is possible — there's parking near the park — but subway is simpler given central Fukuoka's one-way streets.
+If you're walking from Tenjin instead, it's roughly 20-25 minutes on foot through the castle ruins area, which is a pleasant way to link the two sites. Driving is possible, there's parking near the park, but subway is simpler given central Fukuoka's one-way streets.
 
 ## What to see and do
 
 The signature activity is the **lakeside loop path**, a flat, paved circuit of a bit under 2km that's popular with joggers, dog-walkers, and families on bicycles, especially at dawn and dusk. Budget 30-40 minutes for a full lap at a relaxed pace.
 
-**Boat rentals** are the park's other draw — pedal boats and rowboats let you get out onto the water itself rather than just around it, and it's a favorite with kids and couples alike. Boats typically operate during daytime hours in fair weather; expect a modest per-30-minute fee, though confirm current pricing on-site since it can shift seasonally.
+**Boat rentals** are the park's other draw, pedal boats and rowboats let you get out onto the water itself rather than just around it, and it's a favorite with kids and couples alike. Boats typically operate during daytime hours in fair weather; expect a modest per-30-minute fee, though confirm current pricing on-site since it can shift seasonally.
 
-Don't skip the **Ohori Park Japanese Garden**, a traditional landscape garden with a separate paid admission tucked into one corner of the park — it's compact but well-kept, with a teahouse, koi pond, and raked-gravel details that reward a slow 20-minute walk-through.
+Don't skip the **Ohori Park Japanese Garden**, a traditional landscape garden with a separate paid admission tucked into one corner of the park. It's compact but well-kept, with a teahouse, koi pond, and raked-gravel details that reward a slow 20-minute walk-through.
 
 For culture, the **Fukuoka Art Museum** sits adjacent to the park's western edge, housing modern and contemporary works alongside pieces by Salvador Dalí and Joan Miró; it's an easy add-on if museums appeal. History-minded visitors can continue on to the **ruins of Fukuoka Castle** in neighboring Maizuru Park, where stone walls and turret foundations remain, plus good elevated views over the lake.
 
-For food, there's a lakeside **coffee shop/café** right on the water where you can rest with a drink overlooking the boats — a convenient midpoint if you're doing the full loop.
+For food, there's a lakeside **coffee shop/café** right on the water where you can rest with a drink overlooking the boats, a convenient midpoint if you're doing the full loop.
 
 ## When to go
 

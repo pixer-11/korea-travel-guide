@@ -92,7 +92,7 @@ updatedDate: '2026-09-07'
 
 ## Why Eco Park is worth the trip
 
-You come to Eco Park for space — something Kolkata proper rarely offers. Spread across roughly 480 acres in New Town, it's one of the largest planned urban parks in India, built around a massive central lake called Prakriti Tirtha.
+You come to Eco Park for space, something Kolkata proper rarely offers. Spread across roughly 480 acres in New Town, it's one of the largest planned urban parks in India, built around a massive central lake called Prakriti Tirtha.
 
 The moment you pass the ticket gate, the city noise drops away. Wide paved paths curve past manicured lawns, water bodies, and clusters of trees planted specifically to buffer sound and dust from the highway outside.
 
@@ -102,7 +102,7 @@ Families spread out mats on the grass, couples rent paddle boats, and kids tear 
 
 Eco Park sits on Major Arterial Road in New Town, on Kolkata's eastern fringe, easily reached from the city centre by car or app-cab in 45 minutes to an hour depending on traffic.
 
-The nearest useful landmark is New Town's Eco Park metro station on the Kolkata Metro's Orange Line (Line 6), which connects directly to the park's main gate area — by far the easiest way to arrive if you want to skip parking hassles.
+The nearest useful landmark is New Town's Eco Park metro station on the Kolkata Metro's Orange Line (Line 6), which connects directly to the park's main gate area, by far the easiest way to arrive if you want to skip parking hassles.
 
 Buses running along Major Arterial Road also stop near the park. If you're coming from the airport, it's a notably short detour, only about 20–25 minutes away, making it a logical stop before or after a flight.
 
@@ -123,22 +123,22 @@ Most visitors spend two to three hours here, though if you want to do boating, c
 
 Eco Park is closed every Monday, so plan around that. On Tuesday through Saturday it opens at 12:30pm and runs until 8:30pm; Sundays it opens slightly earlier, at noon.
 
-Because there's no early-morning slot, this isn't a sunrise-walk kind of park — think afternoon into evening instead. Late afternoon light over the lake, followed by the park's illuminated evening look after dusk, is when it feels most atmospheric.
+Because there's no early-morning slot, this isn't a sunrise-walk kind of park, think afternoon into evening instead. Late afternoon light over the lake, followed by the park's illuminated evening look after dusk, is when it feels most atmospheric.
 
-Winter (November to February) is peak season in Kolkata generally, and Eco Park is no exception — cooler air makes walking and cycling far more comfortable than the humid monsoon or summer months.
+Winter (November to February) is peak season in Kolkata generally, and Eco Park is no exception, cooler air makes walking and cycling far more comfortable than the humid monsoon or summer months.
 
 ## How to visit like a local
 
 Eco Park pulls enormous weekend crowds, so if you want breathing room, come on a weekday afternoon shortly after the 12:30pm opening.
 
-Weekends after 4pm get dense, especially near the main lake and Seven Wonders section — try to finish those before the evening rush builds.
+Weekends after 4pm get dense, especially near the main lake and Seven Wonders section. Try to finish those before the evening rush builds.
 
 A few practical notes:
 
 - Entry tickets are sold at counters near the gate; additional charges apply for boating, cycling, and the Seven Wonders zone, so carry small cash alongside any card or UPI payment options.
-- The park is genuinely vast — wear shoes you can walk in, since golf-cart-style transport inside is limited and often queued.
+- The park is genuinely vast. Wear shoes you can walk in, since golf-cart-style transport inside is limited and often queued.
 - Food stalls exist inside, but many locals bring a light snack and buy only drinks or ice cream on-site.
-- Because it's a very popular attraction rather than a quiet local secret, expect security checks and bag scans at the entrance — arrive a few extra minutes early to clear them.
+- Because it's a very popular attraction rather than a quiet local secret, expect security checks and bag scans at the entrance. Arrive a few extra minutes early to clear them.
 
-The biggest mistake first-time visitors make is treating this like a quick one-hour stop. Given its scale, rushing means missing entire zones — pick two or three sections in advance rather than trying to cover everything in one visit.
+The biggest mistake first-time visitors make is treating this like a quick one-hour stop. Given its scale, rushing means missing entire zones, pick two or three sections in advance rather than trying to cover everything in one visit.
 

@@ -102,13 +102,13 @@ Monks in saffron robes walk past carved lintels depicting Hindu and Buddhist dei
 
 ## Getting there
 
-Wat Nokor sits in Bachey, Kampong Siem District, about 2-3km from central Kampong Cham town — close enough to reach by bicycle if you don't mind the heat. Most visitors hire a tuk-tuk or moto-taxi from town; the ride takes roughly 10-15 minutes.
+Wat Nokor sits in Bachey, Kampong Siem District, about 2-3km from central Kampong Cham town, close enough to reach by bicycle if you don't mind the heat. Most visitors hire a tuk-tuk or moto-taxi from town; the ride takes roughly 10-15 minutes.
 
 There's no train or bus stop nearby, so you're relying on local transport or a rented motorbike. Kampong Cham itself is reachable by bus from Phnom Penh, about a two-and-a-half-hour ride northeast along Highway 7.
 
 ## What you'll see inside
 
-The layout is what makes this place strange and memorable. Ancient sandstone galleries, carved with garudas, apsaras, and multi-armed deities, wrap around a central sanctuary — and inside that sanctuary sits a bright, actively used modern vihara.
+The layout is what makes this place strange and memorable. Ancient sandstone galleries, carved with garudas, apsaras, and multi-armed deities, wrap around a central sanctuary, and inside that sanctuary sits a bright, actively used modern vihara.
 
 Look for:
 - The old sandstone entry towers, still bearing weathered relief carvings
@@ -126,12 +126,12 @@ Weekday midday hours tend to be quieter, offering a better chance to have the ga
 
 ## How to visit like a local
 
-This is still an under-the-radar stop even by Kampong Cham standards, so you won't be fighting tour groups here — but a few habits will make your visit smoother.
+This is still an under-the-radar stop even by Kampong Cham standards, so you won't be fighting tour groups here, but a few habits will make your visit smoother.
 
 - **Dress modestly.** It's an active place of worship: cover shoulders and knees, and be ready to remove your shoes before entering the vihara.
 - **Go at midday on a weekday** if you want near-empty galleries, since visitor numbers tend to thin out during the hottest part of the day.
 - **Bring small riel notes.** Small donations toward temple upkeep are customary and appreciated, though there's no fixed admission fee.
-- **Greet monks respectfully** — a slight bow (sampeah) with palms together is the standard local gesture, especially if you end up chatting with one, which happens often here.
-- **Combine it with Kampong Cham town** — the riverside promenade, Wat Nokor's own quiet grounds, and the nearby bamboo bridge to Koh Paen island (seasonal, rebuilt each dry season) make for an easy half-day loop.
+- **Greet monks respectfully**, a slight bow (sampeah) with palms together is the standard local gesture, especially if you end up chatting with one, which happens often here.
+- **Combine it with Kampong Cham town**, the riverside promenade, Wat Nokor's own quiet grounds, and the nearby bamboo bridge to Koh Paen island (seasonal, rebuilt each dry season) make for an easy half-day loop.
 
-The mistake most visitors make is treating it as a five-minute photo stop on the way to somewhere else. Slow down here — the real interest is in how the modern temple and the ruin fit together, and that only becomes clear if you actually walk the galleries rather than snap a photo from the courtyard.
+The mistake most visitors make is treating it as a five-minute photo stop on the way to somewhere else. Slow down here. The real interest is in how the modern temple and the ruin fit together, and that only becomes clear if you actually walk the galleries rather than snap a photo from the courtyard.

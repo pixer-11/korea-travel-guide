@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-gron-coffee
-srcHash: 'b92666d41b0f'
+srcHash: '8fa2444071d6'
 title: 'GRŌN Coffee: guía de viaje de Estambul'
 description: 'GRŌN Coffee en Estambul, Turquía: un local nuevo y de moda. Qué es, dónde queda y cómo visitarlo.'
 quickAnswer: GRŌN Coffee es una cafetería recién inaugurada en Kadıköy, en el lado asiático de Estambul, que ya se ha ganado una fiel clientela local gracias a su café de precisión y a un menú moderno que equilibra lo saludable con lo indulgente. Admite mascotas, tiene un ambiente lo bastante informal como para pasar una tarde con el portátil, y conviene visitarla fuera del ajetreo del brunch de fin de semana. Antes de acercarse, conviene confirmar el horario actual y si hace falta reservar, ya que al tratarse de un local tan nuevo los detalles pueden cambiar rápido.

@@ -68,11 +68,11 @@ eventFactsAsked: true
 
 ## Why this show matters
 
-The Corrs — the Dundalk family act who spent the mid-90s and 2000s stitching Celtic fiddle lines into radio-ready pop-rock ("Breathless," "What Can I Do," "Runaway") — are booked for a one-night-only concert in Abu Dhabi on September 27, 2026. For a band that built its sound on tin whistle, bodhrán and Andrea Corr's unmistakable vocal, a Gulf arena date is a genuine event rather than a routine tour stop: they don't pass through the region often, and UAE crowds tend to be a mix of long-time fans who grew up on those records and expats catching a band they never managed to see live back home.
+The Corrs (the Dundalk family act who spent the mid-90s and 2000s stitching Celtic fiddle lines into radio-ready pop-rock ("Breathless," "What Can I Do," "Runaway")) are booked for a one-night-only concert in Abu Dhabi on September 27, 2026. For a band that built its sound on tin whistle, bodhrán and Andrea Corr's unmistakable vocal, a Gulf arena date is a genuine event rather than a routine tour stop: they don't pass through the region often, and UAE crowds tend to be a mix of long-time fans who grew up on those records and expats catching a band they never managed to see live back home.
 
 ## The venue: Etihad Arena, Yas Island
 
-The show is set for Etihad Arena, the indoor arena on Yas Island that's become Abu Dhabi's default home for big-name touring acts since it opened in 2023. It's a purpose-built, air-conditioned venue — a relief in late September, when outdoor evening temperatures in Abu Dhabi are still firmly in the 30s°C — with tiered seating that gives most tickets a genuinely clear sightline to the stage, unlike some retrofitted convention-hall shows.
+The show is set for Etihad Arena, the indoor arena on Yas Island that's become Abu Dhabi's default home for big-name touring acts since it opened in 2023. It's a purpose-built, air-conditioned venue (a relief in late September, when outdoor evening temperatures in Abu Dhabi are still firmly in the 30s°C) with tiered seating that gives most tickets a genuinely clear sightline to the stage, unlike some retrofitted convention-hall shows.
 
 Yas Island itself is Abu Dhabi's entertainment district, so the arena sits within a short drive of Yas Mall, Ferrari World, Warner Bros. World, and a strip of waterfront restaurants and bars that fill up before and after big shows.
 
@@ -80,22 +80,22 @@ Yas Island itself is Abu Dhabi's entertainment district, so the arena sits withi
 
 Yas Island is roughly a 20–30 minute drive from central Abu Dhabi and about 45–60 minutes from Dubai depending on traffic, which makes this a realistic evening trip even for visitors based there. Taxis and ride-hailing apps (Careem, Uber) are the simplest way in from either city; there's no metro connection to Yas Island, so public transport isn't really an option unless you're already staying on the island.
 
-If you're driving yourself, Etihad Arena has dedicated event parking, but arrive with plenty of buffer — arena nights on Yas regularly back up the access roads in the hour before doors.
+If you're driving yourself, Etihad Arena has dedicated event parking, but arrive with plenty of buffer, arena nights on Yas regularly back up the access roads in the hour before doors.
 
 ## What to expect from the setlist
 
-The Corrs' catalogue spans four decades now, from the breakout *Forgiven, Not Forgotten* and *Talk on Corners* era through *In Blue* and their more recent work, so expect a set built around the hits — the singles above, plus staples like "So Young" and "Only When I Sleep" — likely woven with some of their traditional-Irish instrumental passages. No official setlist, start time, or support act has been confirmed at the time of writing, so treat any lineup details online as speculation until the promoter or venue confirms them.
+The Corrs' catalogue spans four decades now, from the breakout *Forgiven, Not Forgotten* and *Talk on Corners* era through *In Blue* and their more recent work, so expect a set built around the hits (the singles above, plus staples like "So Young" and "Only When I Sleep") likely woven with some of their traditional-Irish instrumental passages. No official setlist, start time, or support act has been confirmed at the time of writing, so treat any lineup details online as speculation until the promoter or venue confirms them.
 
 ## Tickets and timing
 
-No ticket prices, on-sale dates, or exact door/start times are confirmed yet for this show — only the date, venue, and city. Given the venue's track record, tickets are likely to be sold through the official Etihad Arena or Ticketmaster-style regional platforms tied to the promoter, and tiered by seating zone. Because this is a single date rather than a multi-night run, expect strong early demand from both UAE-based fans and travelers timing a trip around it.
+No ticket prices, on-sale dates, or exact door/start times are confirmed yet for this show, only the date, venue, and city. Given the venue's track record, tickets are likely to be sold through the official Etihad Arena or Ticketmaster-style regional platforms tied to the promoter, and tiered by seating zone. Because this is a single date rather than a multi-night run, expect strong early demand from both UAE-based fans and travelers timing a trip around it.
 
-Confirm the exact date, doors time, and ticket link on Etihad Arena's official website or The Corrs' official channels before booking flights or hotels — details like start time and any support act are exactly the kind of thing that shifts as the date approaches.
+Confirm the exact date, doors time, and ticket link on Etihad Arena's official website or The Corrs' official channels before booking flights or hotels, details like start time and any support act are exactly the kind of thing that shifts as the date approaches.
 
 ## How to visit like a local
 
-Abu Dhabi concertgoers at Yas Island arena shows tend to eat on the island rather than rush in — Yas Mall and the Yas Marina waterfront both have an easy 45 minutes to an hour of dinner options within a short taxi ride of the arena, so aim to arrive on Yas by early evening rather than cutting it fine.
+Abu Dhabi concertgoers at Yas Island arena shows tend to eat on the island rather than rush in, Yas Mall and the Yas Marina waterfront both have an easy 45 minutes to an hour of dinner options within a short taxi ride of the arena, so aim to arrive on Yas by early evening rather than cutting it fine.
 
-Payment inside is overwhelmingly card and mobile pay (Apple Pay, Google Pay) rather than cash, and that's true for merchandise stalls too. Dress is casual-smart — the UAE has no strict dress code for arena concerts, but modest clothing (shoulders and knees covered) is still the safer default, especially if you're combining the night with sightseeing elsewhere on your trip.
+Payment inside is overwhelmingly card and mobile pay (Apple Pay, Google Pay) rather than cash, and that's true for merchandise stalls too. Dress is casual-smart. The UAE has no strict dress code for arena concerts, but modest clothing (shoulders and knees covered) is still the safer default, especially if you're combining the night with sightseeing elsewhere on your trip.
 
-If you're not driving, pre-book your ride-hailing return trip or agree a pickup point before the show starts — post-concert demand on Yas Island spikes hard the moment doors open at the end, and drivers get scarce fast. The most common mistake visitors make is treating this like a casual walk-up show; book tickets and transport well ahead, and double-check the official date and venue details close to September 2026, since specifics can still shift.
+If you're not driving, pre-book your ride-hailing return trip or agree a pickup point before the show starts, post-concert demand on Yas Island spikes hard the moment doors open at the end, and drivers get scarce fast. The most common mistake visitors make is treating this like a casual walk-up show; book tickets and transport well ahead, and double-check the official date and venue details close to September 2026, since specifics can still shift.

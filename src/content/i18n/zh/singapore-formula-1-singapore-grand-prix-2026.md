@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-formula-1-singapore-grand-prix-2026
-srcHash: 'd68abf91772c'
+srcHash: 'bc1b137e0826'
 title: 2026年新加坡一级方程式大奖赛：你需要知道的信息（新加坡）
 description: 2026年新加坡一级方程式大奖赛将于新加坡举行——2026年10月9日至11日。介绍赛事概况、时间地点，以及行程规划建议。
 quickAnswer: 2026年新加坡大奖赛将于10月9日至11日在滨海湾街道赛道（Marina Bay Street Circuit）举行，本届赛事是新加坡有史以来首次举办F1冲刺赛（Sprint）周末，演唱会阵容包括The Killers乐队和Lana Del Rey。建议尽早预订滨海湾（Marina Bay）／武吉士（Bugis）／政府大厦（City Hall）一带的机票和酒店，赛事筹备周期间赛道沿线的公共道路会陆续封闭，出发前请务必在F1新加坡大奖赛官方网站上确认最终赛程和门票等级。

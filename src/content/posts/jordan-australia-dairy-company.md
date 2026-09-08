@@ -105,7 +105,7 @@ updatedDate: '2026-09-05'
 
 You smell the place before you see the menu. Butter hitting a hot griddle, condensed milk swirled into tea, the clatter of stainless steel plates hitting Formica tables. Australia Dairy Company has been doing this on Parkes Street since the 1960s, and the queue snaking along the pavement most mornings tells you nothing has slowed down.
 
-This is a cha chaan teng in its purest, most stripped-back form. Fluorescent lights, no decor to speak of, a menu that hasn't needed updating in decades. What keeps it running at this pace is consistency — the same steamed egg whites, the same scrambled eggs, done thousands of times a day.
+This is a cha chaan teng in its purest, most stripped-back form. Fluorescent lights, no decor to speak of, a menu that hasn't needed updating in decades. What keeps it running at this pace is consistency, the same steamed egg whites, the same scrambled eggs, done thousands of times a day.
 
 ## What to order
 
@@ -120,7 +120,7 @@ Portions are generous for the price, and the whole meal lands solidly in budget 
 
 ## Getting there
 
-Australia Dairy Company sits at 47 Parkes Street in Jordan, a short walk from Jordan MTR station on the Tsuen Wan Line. Take Exit A and head down Parkes Street — you'll spot the queue before the sign.
+Australia Dairy Company sits at 47 Parkes Street in Jordan, a short walk from Jordan MTR station on the Tsuen Wan Line. Take Exit A and head down Parkes Street. You'll spot the queue before the sign.
 
 It's an easy add-on if you're already wandering Temple Street Night Market or the Jordan/Yau Ma Tei area, both a few minutes' walk away. Most visitors treat it as a 20–30 minute stop, queue included, since the tables turn over fast once you're seated.
 
@@ -128,7 +128,7 @@ It's an easy add-on if you're already wandering Temple Street Night Market or th
 
 Check the schedule before you plan around it: open 7:30am to 10pm every day except Thursday, when it's closed entirely. Weekends are consistently busy from 10am through 9pm, so if you're trying to dodge the crowd, aim for a weekday morning right at opening or a slow stretch mid-afternoon.
 
-Breakfast is the classic time to eat here — eggs and toast are built for it — but the kitchen runs the same menu all day, so there's no wrong hour beyond avoiding the peak weekend crush.
+Breakfast is the classic time to eat here, eggs and toast are built for it, but the kitchen runs the same menu all day, so there's no wrong hour beyond avoiding the peak weekend crush.
 
 ## How to visit like a local
 
@@ -136,16 +136,16 @@ This isn't a linger-over-your-coffee kind of place, and treating it like one is 
 
 A few practical notes:
 
-- Cash is the safest bet — don't assume card payment will be smooth or fast
+- Cash is the safest bet. Don't assume card payment will be smooth or fast
 - You'll likely be seated with strangers at a communal table; that's normal, not rude
-- Point at the menu or use short, direct orders — servers are efficient, not chatty
+- Point at the menu or use short, direct orders, servers are efficient, not chatty
 - Don't expect to modify dishes; the menu is fixed and that's part of the charm
 - Tipping isn't expected here the way it is in Western diners
 
-Because this spot is genuinely one of the most visited cha chaan tengs in Hong Kong, don't expect a quiet, undiscovered corner — the queue is part of the experience, not a sign you've got the wrong address. The way to "beat" it is timing, not luck: arrive as the doors open at 7:30am, or slide in during the mid-afternoon lull between lunch and dinner rushes.
+Because this spot is genuinely one of the most visited cha chaan tengs in Hong Kong, don't expect a quiet, undiscovered corner. The queue is part of the experience, not a sign you've got the wrong address. The way to "beat" it is timing, not luck: arrive as the doors open at 7:30am, or slide in during the mid-afternoon lull between lunch and dinner rushes.
 
 ## Nearby detours
 
 Once you've eaten, Yau Ma Tei's Jade Market and the Temple Street stalls are both walkable, making this an easy anchor for a half-day loop through the neighborhood. The Tin Hau Temple on Public Square Street is another short stroll away if you want a quieter contrast to the diner's clatter.
 
-Order, eat, move on — that rhythm is exactly what's kept this place running for over half a century.
+Order, eat, move on, that rhythm is exactly what's kept this place running for over half a century.

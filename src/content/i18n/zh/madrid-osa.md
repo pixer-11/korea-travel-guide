@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-osa
-srcHash: 'aecc9e4c74eb'
+srcHash: '55c6f6b6b166'
 title: OSA：马德里美食新去处指南
 description: 西班牙马德里新晋热门餐厅OSA全解析：这是一家怎样的餐厅、地址在哪里，以及如何顺利订到位。
 quickAnswer: OSA是主厨豪尔赫·穆尼奥斯（Jorge Muñoz）和萨拉·佩拉尔（Sara Peral）在Mugaritz历练多年后，一起在马德里开设的餐厅，如今已成为城中最难订到位、话题度最高的餐厅之一。由于这家餐厅太受欢迎，需求量和排期变化都很快，建议尽可能提前在餐厅的预订系统上订位，出发前务必再次向OSA官方确认预订信息和最新营业时间。

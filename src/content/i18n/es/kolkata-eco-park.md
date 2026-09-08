@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kolkata-eco-park
-srcHash: 'fdb3d046de92'
+srcHash: '76dc5892db81'
 title: 'Eco Park: Guía de Viaje de Calcuta (4.5★)'
 description: 'Eco Park (oficialmente Prakriti Tirtha), en New Town, es el parque urbano más grande de Calcuta: 480 acres de lagos, jardines, senderos para paseos en bote y ciclismo, además de réplicas en miniatura de monumentos del mundo. 4.5★ (182,739 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Eco Park (oficialmente Prakriti Tirtha), en New Town, es el parque urbano más grande de Calcuta: 480 acres de lagos, jardines, senderos para paseos en bote y ciclismo, además de réplicas en miniatura de monumentos del mundo. Permanece cerrado los lunes; el resto de la semana abre de 12:30 a 8:30pm (los domingos desde el mediodía). Conviene llegar justo a la apertura o después de las 6pm para evitar las mayores aglomeraciones del fin de semana.'

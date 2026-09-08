@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-tan-si-chong-su-temple
-srcHash: '1be257a8edf3'
+srcHash: '0087bc65577f'
 title: '탄시총수 사당(Tan Si Chong Su Temple): 클락키 여행 가이드'
 description: 탄시총수 사당은 매거진 로드(Magazine Road) 15번지에 자리하고 있으며, 클락키(Clarke Quay) 강변에서 하벨록 로드(Havelock Road) 방향으로 5분 정도 걸으면 닿을 수 있습니다. 매일 오전 9시부터 오후 9시까지 문을 엽니다.
 quickAnswer: 탄시총수 사당은 매거진 로드 15번지에 자리하고 있으며, 클락키 강변에서 하벨록 로드 방향으로 5분 정도 걸으면 닿을 수 있습니다. 매일 오전 9시부터 오후 9시까지 문을 엽니다. 주변의 술집이나 식당들에 비하면 잘 알려지지 않은 곳이라, 안뜰을 혼자 독차지하는 경우도 많습니다. 주말에는 오전 10시 이후 언제든 한산한 편이고, 오후 6시부터 9시 사이에는 조금 붐빕니다.

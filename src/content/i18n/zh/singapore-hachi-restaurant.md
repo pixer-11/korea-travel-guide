@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-hachi-restaurant
-srcHash: '1bbbb475788d'
+srcHash: '3328a1270f90'
 title: Hachi 餐厅：新加坡美食新去处
 description: 新加坡 Hachi 餐厅——一处正受关注的新去处：这是一家怎样的餐厅、位于何处，以及该如何前往品尝。
 quickAnswer: Hachi 是新加坡一家以食材为主导、历史悠久的无菜单料理（omakase）餐厅，1999年创立，至今已有27年历史，2026年迁至 Keppel South Central 全新的3,600平方英尺空间重新开业。餐厅采用怀石料理式的用餐节奏，设有主用餐区、主厨吧台和半私人包厢三种用餐形式。由于刚刚迁址不久，各项细节仍在调整中，建议提前预订，并在到访前直接向餐厅确认最新的营业时间、座位选择与价格。

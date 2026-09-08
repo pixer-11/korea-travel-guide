@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-home-dawn-cafe-clarke-quay
-srcHash: 'bf267c39b07b'
+srcHash: '1964ca0c6bca'
 title: 클락키 홈 던 카페(Home Dawn Cafe @ Clarke Quay) 여행 가이드
 description: 클락키 홈 던 카페(Home Dawn Cafe @ Clarke Quay)는 클락키 메인 유흥가 바로 뒤편, 리버 밸리 로드(River Valley Road) 3A동 위층에 자리한 조용한 강변 카페입니다.
 quickAnswer: 클락키 홈 던 카페(Home Dawn Cafe @ Clarke Quay)는 클락키 메인 유흥가 바로 뒤편, 리버 밸리 로드(River Valley Road) 3A동 위층에 자리한 조용한 강변 카페입니다. 평일 오전이나 이른 오후에 방문하면 강 전망이 보이는 조용한 자리를 잡을 수 있으며, 클락키 하면 떠오르는 클럽 지구의 활기보다는 여유로운 브런치와 커피 메뉴를 기대하시면 됩니다. 클락키역(Clarke Quay MRT, NE5)에서 도보 5~8분 거리로 가기 쉬우며, 싱가포르강(Singapore River)을 따라 산책과 함께 즐기기 좋습니다.

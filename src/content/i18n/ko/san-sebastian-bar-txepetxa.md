@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: san-sebastian-bar-txepetxa
-srcHash: '4f968c130a5a'
+srcHash: '5fd83d0cb896'
 title: '바르 체페차(Bar Txepetxa): 산세바스티안 맛집 가이드'
 description: 산세바스티안(San Sebastián) 구시가지(Parte Vieja) 아란데기 칼레 5번지(Arrandegi Kalea 5)에 위치한 바르 체페차는 오직 한 가지, 안초비 요리에 집중한 핀초스(pintxos) 바로 열두 가지가 넘는 방식으로 안초비를 선보인다.
 quickAnswer: 산세바스티안(San Sebastián) 구시가지(Parte Vieja) 아란데기 칼레 5번지(Arrandegi Kalea 5)에 위치한 바르 체페차는 오직 한 가지, 안초비 요리에 집중한 핀초스(pintxos) 바로 열두 가지가 넘는 방식으로 안초비를 선보인다. 일찌감치 오후 1시나 저녁 8시쯤 가야 바 자리를 잡을 수 있으며, 안초비 핀초스 3~4개에 차콜리(txakoli) 한 잔을 곁들여 20~30분 정도 서서 먹는 것이 일반적이다. 이곳은 느긋하게 앉아 먹는 식당이 아니라 핀초스 투어 중 들르는 한 코스로 생각하면 된다.

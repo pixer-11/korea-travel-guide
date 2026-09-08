@@ -101,13 +101,13 @@ updatedDate: '2026-09-02'
 
 Porto Antico is where Genoa turned its back on centuries of gritty shipping industry and faced the sea again. Renzo Piano, the architect behind the Pompidou Centre, redesigned this harbor for the 1992 Columbus anniversary, and the result still feels current: glass, steel, and water working together instead of fighting each other.
 
-You come here for the Acquario di Genova, the biggest aquarium in Italy and one of the largest in Europe. But the real pleasure is slower than that — walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina.
+You come here for the Acquario di Genova, the biggest aquarium in Italy and one of the largest in Europe. But the real pleasure is slower than that, walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina.
 
 ## Getting there
 
 The harbor sits right below Genoa's historic center, an easy 10-minute walk from Piazza De Ferrari. If you're arriving by train, Genova Piazza Principe station is about 15 minutes on foot, mostly downhill through the caruggi, the old town's narrow lanes.
 
-Genova Piazzale Marinai d'Italia and Genova Porta Siberia are both bus stops within a couple of minutes of the entrance. Look for AMT city buses heading toward the port. Driving isn't recommended — the old town's streets are tight and parking is scarce, though there are paid garages nearby.
+Genova Piazzale Marinai d'Italia and Genova Porta Siberia are both bus stops within a couple of minutes of the entrance. Look for AMT city buses heading toward the port. Driving isn't recommended. The old town's streets are tight and parking is scarce, though there are paid garages nearby.
 
 ## What to see and do
 
@@ -119,23 +119,23 @@ The aquarium is the anchor attraction, and it deserves two to three hours minimu
 
 Beyond the aquarium, Porto Antico rewards wandering. The Bigo lift raises you above the marina for a rooftop view of the port and the pastel-colored buildings stacked behind it. Galata Museo del Mare, Europe's largest maritime museum, sits a short walk along the water and covers Genoa's seafaring history from galleys to transatlantic liners.
 
-In summer, a floating swimming pool opens right on the water — a strange, wonderful thing, swimming laps with container ships and old lighthouses as your backdrop. Kids gravitate to the biosphere, a glass globe housing tropical plants and butterflies, moored just offshore.
+In summer, a floating swimming pool opens right on the water, a strange, wonderful thing, swimming laps with container ships and old lighthouses as your backdrop. Kids gravitate to the biosphere, a glass globe housing tropical plants and butterflies, moored just offshore.
 
-For food, the promenade is lined with casual restaurants and gelato counters. Focaccia genovese, the flat, olive-oil-soaked bread the city is famous for, turns up at nearly every bakery counter nearby — grab a slice to eat while you walk.
+For food, the promenade is lined with casual restaurants and gelato counters. Focaccia genovese, the flat, olive-oil-soaked bread the city is famous for, turns up at nearly every bakery counter nearby, grab a slice to eat while you walk.
 
 ## When to go
 
 Porto Antico itself never closes; the outdoor promenade is accessible 24 hours a day. But the aquarium, museums, and biosphere run on their own daytime schedules, so confirm hours before you go, especially outside peak season.
 
-Weekends get busy fast. Crowd data shows the calmest window is early weekend mornings, before the day-trippers arrive. Things build steadily from there, with weekends seeing the heaviest crowds — try to time your visit around that stretch.
+Weekends get busy fast. Crowd data shows the calmest window is early weekend mornings, before the day-trippers arrive. Things build steadily from there, with weekends seeing the heaviest crowds. Try to time your visit around that stretch.
 
 Weekday mornings tend to be gentler across the board, especially if you can visit outside Italian school holiday periods in spring and summer.
 
 ## How to visit like a local
 
-Porto Antico is one of Genoa's most visited spots, not a quiet corner — so plan around the crowds rather than expecting to dodge them. Book aquarium tickets online in advance; the ticket line at the entrance can eat an hour on weekend afternoons.
+Porto Antico is one of Genoa's most visited spots, not a quiet corner, so plan around the crowds rather than expecting to dodge them. Book aquarium tickets online in advance; the ticket line at the entrance can eat an hour on weekend afternoons.
 
-Most restaurants and shops here take cards, though small gelato stands sometimes prefer cash for quick transactions. Tipping isn't expected in Italy the way it is elsewhere — rounding up or leaving small change is plenty.
+Most restaurants and shops here take cards, though small gelato stands sometimes prefer cash for quick transactions. Tipping isn't expected in Italy the way it is elsewhere, rounding up or leaving small change is plenty.
 
 The mistake first-timers make is treating this as a quick photo stop. Give the boardwalk time in early evening, when the day-trip crowds thin and the marina lights start reflecting off the water. Locals use this stretch for an evening passeggiata, a leisurely after-dinner walk, rather than a daytime rush.
 

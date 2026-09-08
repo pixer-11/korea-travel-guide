@@ -49,11 +49,11 @@ draft: false
 ---
 ## Why go
 
-You come here for the shape as much as the history. Locals call it Benteng Panyyua, "turtle fort," because the original bastions were laid out to mimic a sea turtle — a Gowanese symbol of resilience against invaders. What survives today is mostly the Dutch VOC rebuild from the 1600s, thick coral-stone walls the color of wet sand, and a quiet inner courtyard that feels miles from the traffic outside the gate.
+You come here for the shape as much as the history. Locals call it Benteng Panyyua, "turtle fort," because the original bastions were laid out to mimic a sea turtle, a Gowanese symbol of resilience against invaders. What survives today is mostly the Dutch VOC rebuild from the 1600s, thick coral-stone walls the color of wet sand, and a quiet inner courtyard that feels miles from the traffic outside the gate.
 
 ## Getting there
 
-The fort sits on Jalan Ujung Pandang in Kecamatan Ujung Pandang, right in Makassar's old colonial core. Most visitors arrive by Grab or GoCar from wherever they're staying — traffic in central Makassar can turn a short ride into 20 minutes, so budget accordingly.
+The fort sits on Jalan Ujung Pandang in Kecamatan Ujung Pandang, right in Makassar's old colonial core. Most visitors arrive by Grab or GoCar from wherever they're staying, traffic in central Makassar can turn a short ride into 20 minutes, so budget accordingly.
 
 It's a flat, walkable 10–15 minutes from Losari Beach's waterfront promenade. If you're already exploring that stretch of Jalan Penghibur, just head inland a couple of blocks.
 
@@ -61,7 +61,7 @@ It's a flat, walkable 10–15 minutes from Losari Beach's waterfront promenade. 
 
 Walk the ramparts first. The thick perimeter walls let you loop the entire perimeter, past bastions with names like Bastion Amsterdam and Bastion Bacan, each offering a different angle on the whitewashed Dutch-era buildings inside.
 
-Inside the walls sit around a dozen colonial structures, several housing the La Galigo Museum. Exhibits cover Sulawesi's Bugis and Makassar seafaring history, Islamic manuscripts, and colonial-era relics — modest in scale but genuinely informative if you read the placards.
+Inside the walls sit around a dozen colonial structures, several housing the La Galigo Museum. Exhibits cover Sulawesi's Bugis and Makassar seafaring history, Islamic manuscripts, and colonial-era relics, modest in scale but genuinely informative if you read the placards.
 
 Look for the cell where Prince Diponegoro, the Javanese resistance leader, was imprisoned in the 19th century. It's a small, sobering room that grounds the fort's postcard prettiness in something heavier.
 
@@ -73,21 +73,21 @@ Give yourself:
 
 ## When to go
 
-The fort opens daily from 8am to 6pm, with no day off — a useful fact if you're piecing together a one-day Makassar itinerary. Mornings right after opening are noticeably calmer than midday, when tour buses and school groups tend to cluster.
+The fort opens daily from 8am to 6pm, with no day off, a useful fact if you're piecing together a one-day Makassar itinerary. Mornings right after opening are noticeably calmer than midday, when tour buses and school groups tend to cluster.
 
-Sulawesi's heat builds fast after 10am, and the courtyard has little shade, so an early visit is more comfortable, not just quieter. Late afternoon, an hour or two before closing, is the other good window — softer light for photos and a cooler walk along the ramparts.
+Sulawesi's heat builds fast after 10am, and the courtyard has little shade, so an early visit is more comfortable, not just quieter. Late afternoon, an hour or two before closing, is the other good window, softer light for photos and a cooler walk along the ramparts.
 
 ## How to visit like a local
 
 This is one of Makassar's most-visited sites, so the goal is beating the crowds, not finding solitude. Arrive close to 8am or after 4pm to have more of the courtyard to yourself.
 
 - Pay the entry fee in cash (small denominations help) at the gate; card payment isn't reliably available
-- Dress is casual, but this remains a heritage and former military site — skip beachwear even though Losari Beach is nearby
+- Dress is casual, but this remains a heritage and former military site. Skip beachwear even though Losari Beach is nearby
 - Guides sometimes wait near the entrance offering tours; agree on a price before starting if you want one, since there's no fixed posted rate
 - Confirm current admission and any museum-specific fees before you go, as these can change
 - Combine the visit with nearby Losari Beach's waterfront views or Paotere Harbor, a working Bugis schooner port a short drive away, to round out a half-day of colonial and maritime history
 
-Most tourists breeze through the courtyard for photos and skip the La Galigo Museum entirely. That's the actual mistake — the galleries are where the fort's "turtle shape defending a sultanate" backstory turns into something concrete, with manuscripts and artifacts tying the site to Gowa's pre-colonial kingdom rather than just its Dutch occupiers.
+Most tourists breeze through the courtyard for photos and skip the La Galigo Museum entirely. That's the actual mistake. The galleries are where the fort's "turtle shape defending a sultanate" backstory turns into something concrete, with manuscripts and artifacts tying the site to Gowa's pre-colonial kingdom rather than just its Dutch occupiers.
 
 ## Nearby to combine with your visit
 

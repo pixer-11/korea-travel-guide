@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bocaue-post-malone-live-in-manila
-srcHash: 'e07924a398ef'
+srcHash: '060a1fa56a99'
 title: 'Post Malone en Manila: lo que hay que saber (Bocaue)'
 description: Post Malone en Manila, en Bocaue, Filipinas — 29 de septiembre de 2026. Qué es, cuándo y dónde, y cómo planificar todo alrededor del show.
 quickAnswer: Post Malone se presenta en el Philippine Arena de Bocaue, Bulacan, el 29 de septiembre de 2026, como parte de su última gira mundial. Los horarios de apertura de puertas y de actuación aún no están confirmados oficialmente, así que toma esta fecha como referencia y revisa los canales oficiales del Philippine Arena y la página de gira de Post Malone antes de reservar vuelos, hoteles o entradas.

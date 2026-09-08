@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-osa
-srcHash: 'aecc9e4c74eb'
+srcHash: '55c6f6b6b166'
 title: 'OSA: Dónde comer en Madrid'
 description: 'OSA en Madrid, España — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: OSA es el restaurante madrileño que los chefs Jorge Muñoz y Sara Peral abrieron tras años en Mugaritz, y hoy es una de las mesas más difíciles y comentadas de conseguir en la ciudad. Reserva con toda la antelación que permita el sistema del restaurante y confirma de nuevo tu reserva y el horario vigente directamente con OSA antes de ir, ya que la demanda y los horarios cambian rápido en un restaurante tan solicitado.

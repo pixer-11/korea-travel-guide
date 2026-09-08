@@ -101,7 +101,7 @@ updatedDate: '2026-09-06'
 ---
 ## Why go
 
-You come here for scale, not subtlety. The Buddha Museum isn't a single hall you pop into for twenty minutes — it's a monastery city, built around a giant seated bronze Buddha statue visible from kilometers away in the Gaoping River valley.
+You come here for scale, not subtlety. The Buddha Museum isn't a single hall you pop into for twenty minutes. It's a monastery city, built around a giant seated bronze Buddha statue visible from kilometers away in the Gaoping River valley.
 
 Walking the main axis, you pass eight identical pagodas flanking a long plaza, each housing a different cultural gallery. The symmetry is the point: it's meant to feel like you're processing toward something enormous, and by the time you reach the base of the Buddha, you are looking straight up at bronze robes the size of a building.
 
@@ -109,7 +109,7 @@ Walking the main axis, you pass eight identical pagodas flanking a long plaza, e
 
 The museum sits in Dashu District, northeast of central Kaohsiung, across the Gaoping River. Most visitors arrive by:
 
-- **Free shuttle bus** from Kaohsiung's Zuoying High Speed Rail Station — check current departure times at the station's tourist info counter, as schedules shift seasonally.
+- **Free shuttle bus** from Kaohsiung's Zuoying High Speed Rail Station. Check current departure times at the station's tourist info counter, as schedules shift seasonally.
 - **Taxi or rideshare** from the city, roughly 30–40 minutes depending on traffic.
 - **Bus routes** from Kaohsiung MRT stations, though these run less frequently and involve a transfer.
 
@@ -119,7 +119,7 @@ There's no MRT stop directly at the site, so budget extra time if you're relying
 
 Start at the Front Hall and Bodhi Wisdom Path, where the eight pagodas house exhibitions ranging from Buddhist relics to rotating art shows. Each pagoda takes 10–15 minutes if you're moving briskly, longer if a special exhibition catches you.
 
-Continue to the Main Hall complex directly beneath the great Buddha, where a relic said to be a tooth of the historical Buddha is enshrined — the reason the whole museum exists in this form. Climb or take the escalator up to the terrace at the statue's base for the closest views of the bronze figure and sweeping views back over the plaza and river valley.
+Continue to the Main Hall complex directly beneath the great Buddha, where a relic said to be a tooth of the historical Buddha is enshrined, the reason the whole museum exists in this form. Climb or take the escalator up to the terrace at the statue's base for the closest views of the bronze figure and sweeping views back over the plaza and river valley.
 
 Don't skip the Benevolence and Wisdom galleries near the entrance, or the gift shop and vegetarian food court, which reflects the monastery's practice of serving only meat-free meals on site.
 
@@ -129,21 +129,21 @@ The museum is closed every Tuesday, so plan around that. On other weekdays it ru
 
 Weekends between 10am and 7pm are consistently the busiest window, packed with domestic tour groups and families. If you can only visit on a weekend, arrive right at 9am opening to get an hour of relative quiet before the crowds build.
 
-Weekday mornings, especially Wednesday through Friday, tend to be noticeably calmer than weekends — a good choice if your schedule allows it.
+Weekday mornings, especially Wednesday through Friday, tend to be noticeably calmer than weekends, a good choice if your schedule allows it.
 
 ## How to visit like a local
 
 This is one of Kaohsiung's most-visited sites, so beating the crowds is about timing, not finding a secret entrance.
 
 - Arrive at opening (9am) rather than mid-morning, especially on weekends.
-- Wear comfortable shoes — the plaza between pagodas and the Buddha is a long, exposed walk with little shade.
+- Wear comfortable shoes. The plaza between pagodas and the Buddha is a long, exposed walk with little shade.
 - Dress modestly, as this is an active Buddhist monastery, not just a museum; shoulders and knees covered is respectful practice.
-- Entry to the museum grounds is free, though some special exhibitions inside the pagodas may charge a small fee — confirm current pricing at the entrance.
+- Entry to the museum grounds is free, though some special exhibitions inside the pagodas may charge a small fee, confirm current pricing at the entrance.
 - Eat at the on-site vegetarian food court rather than expecting meat options; it's part of the monastery's practice and genuinely good.
-- Keep voices low and phones on silent near the Main Hall and relic shrine — this remains a working place of worship, and monks and devotees are often present.
+- Keep voices low and phones on silent near the Main Hall and relic shrine, this remains a working place of worship, and monks and devotees are often present.
 
 ## Nearby and practical notes
 
 Give yourself a minimum of three to four hours, more if you want to properly explore each pagoda gallery or attend a scheduled ceremony. The site connects to the older Fo Guang Shan Monastery complex nearby, worth combining into a longer day if you have the time and transport.
 
-Bring water and sun protection in warmer months — the plazas offer almost no shade at midday, and Kaohsiung's heat and humidity build quickly between April and October.
+Bring water and sun protection in warmer months, the plazas offer almost no shade at midday, and Kaohsiung's heat and humidity build quickly between April and October.

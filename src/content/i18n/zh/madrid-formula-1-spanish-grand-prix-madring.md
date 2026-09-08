@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-formula-1-spanish-grand-prix-madring
-srcHash: '5bb07110b25d'
+srcHash: '7edfda29d397'
 title: F1西班牙大奖赛(MADRING马德灵)攻略：关于马德里站你该知道的一切
 description: 2026年9月11日至13日，F1西班牙大奖赛(MADRING)将在西班牙马德里举行。这场比赛是什么、何时何地举办，以及该如何提前规划行程，这里都有答案。
 quickAnswer: F1西班牙大奖赛将于2026年9月11日至13日重返马德里，赛道设在全新建成的MADRING赛道——这是一条围绕马德里IFEMA展览中心（位于市区东北部）打造的混合型赛道，兼具街道赛道与永久赛道的特点。这是马德里时隔45年再度举办F1赛事，9月13日周日的正赛将作为本赛季第16站进行。建议尽早预订Feria de Madrid或Campo de las Naciones附近、地铁可达的住宿，出发前务必在F1官网和MADRING官网确认最终赛程和门票分级信息。

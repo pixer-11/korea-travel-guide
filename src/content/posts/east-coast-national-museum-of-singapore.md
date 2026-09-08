@@ -79,14 +79,14 @@ Bras Basah MRT (Circle Line) is closer still, roughly 5 minutes on foot. Buses r
 
 ## What to see
 
-Give yourself two to three hours minimum — this is a large museum and rushing it defeats the point. Start with the Singapore History Gallery on the lower level, which is the backbone of the whole visit.
+Give yourself two to three hours minimum. This is a large museum and rushing it defeats the point. Start with the Singapore History Gallery on the lower level, which is the backbone of the whole visit.
 
-Upstairs, the Life in Singapore galleries cover food, fashion, film, and photography through the 20th century — lighter, more personal, and good for a breather after the history wing. Don't skip the Glass Rotunda and the Stamford Gallery, where changing exhibitions rotate through contemporary Singaporean and regional art.
+Upstairs, the Life in Singapore galleries cover food, fashion, film, and photography through the 20th century, lighter, more personal, and good for a breather after the history wing. Don't skip the Glass Rotunda and the Stamford Gallery, where changing exhibitions rotate through contemporary Singaporean and regional art.
 
-- Singapore History Gallery — the essential, chronological core
-- Life in Singapore galleries — social history, pop culture, everyday objects
-- Stamford Gallery — rotating special exhibitions
-- The Rotunda Dome and colonial facade — worth pausing for even if you're short on time
+- Singapore History Gallery, the essential, chronological core
+- Life in Singapore galleries, social history, pop culture, everyday objects
+- Stamford Gallery, rotating special exhibitions
+- The Rotunda Dome and colonial facade, worth pausing for even if you're short on time
 
 ## When to go
 
@@ -96,11 +96,11 @@ Weekends are busiest between 11am and 6pm, so if you're visiting on a Saturday o
 
 ## How to visit like a local
 
-This is one of the most-visited museums in the country, so the smart move is timing, not avoidance. Come on a weekday morning if your schedule allows — it's the single easiest way to get galleries to yourself.
+This is one of the most-visited museums in the country, so the smart move is timing, not avoidance. Come on a weekday morning if your schedule allows. It's the single easiest way to get galleries to yourself.
 
 Tickets are sold at counters and via self-service kiosks inside, and most visitors now pay by card or mobile wallet rather than cash. Booking ahead online is worth doing for special ticketed exhibitions, though standard gallery entry rarely needs advance booking outside peak weekend hours.
 
-Wear comfortable shoes for the marble and stone floors, and note that the Singapore History Gallery is dense — reading every panel can eat your whole visit. Locals who bring visiting relatives tend to prioritise the History Gallery and one rotating exhibition, then finish at the museum's cafe or gift shop rather than trying to see everything.
+Wear comfortable shoes for the marble and stone floors, and note that the Singapore History Gallery is dense, reading every panel can eat your whole visit. Locals who bring visiting relatives tend to prioritise the History Gallery and one rotating exhibition, then finish at the museum's cafe or gift shop rather than trying to see everything.
 
 The most common mistake is treating this as a quick one-hour stop between other Stamford Road sights. The scale genuinely rewards a longer, slower visit, and the air-conditioned galleries are a legitimately good midday retreat from Singapore's heat and humidity.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: venice-saint-mark-s-basilica
-srcHash: '589637b6a65b'
+srcHash: 'b3f370428891'
 title: '산 마르코 대성당: 베네치아 여행 가이드 (4.7★)'
 description: 산 마르코 광장(Piazza San Marco) 동쪽에 자리한 산 마르코 대성당(Saint Mark's Basilica)은 베네치아를 대표하는 비잔틴 양식 대성당이다 — 다섯 개의 돔, 약탈해 온 대리석과 청동으로 장식된 파사드, 황금 모자이크로 뒤덮인 내부. 4.7★ (리뷰 29,559개) — 방문객들의 후기, 운영 시간, 팁을 소개한다.
 quickAnswer: 산 마르코 광장(Piazza San Marco) 동쪽에 자리한 산 마르코 대성당(Saint Mark's Basilica)은 베네치아를 대표하는 비잔틴 양식 대성당이다 — 다섯 개의 돔, 약탈해 온 대리석과 청동으로 장식된 파사드, 황금 모자이크로 뒤덮인 내부. 개장 직후나 이른 오후에 방문하는 것이 좋다. 정오부터 인파가 꾸준히 늘어나 주말 낮 12시~오후 3시 사이에 절정을 이룬다. 성당 기본 입장은 무료지만, 기마상 회랑(Loggia dei Cavalli), 팔라 도로(Pala d'Oro), 보물관(Treasury)을 보려면 추가 시간과 약간의 입장료를 예상해 두는 것이 좋다.

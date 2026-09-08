@@ -59,7 +59,7 @@ draft: false
 
 ## Why Po Nagar matters
 
-Po Nagar (also written Ponagar) is one of the most important surviving groups of Cham towers in Vietnam, dedicated to the goddess Yang Po Ino Nagar, revered as the mother-protector of the former Champa kingdom. The complex once had eight or more towers; four remain standing today, with the largest — a roughly 23-meter-tall kalan — still the tallest and most photographed structure on the site.
+Po Nagar (also written Ponagar) is one of the most important surviving groups of Cham towers in Vietnam, dedicated to the goddess Yang Po Ino Nagar, revered as the mother-protector of the former Champa kingdom. The complex once had eight or more towers; four remain standing today, with the largest, a roughly 23-meter-tall kalan, still the tallest and most photographed structure on the site.
 
 Construction spanned several centuries, from around the 8th century through the 13th, so the towers show a layered architectural history rather than a single style. Unlike a museum piece, the towers are still active: locals and Cham pilgrims come to burn incense and pray, so the atmosphere mixes archaeology with genuine, ongoing ritual life.
 
@@ -71,18 +71,18 @@ Many visitors combine the trip with a rented bicycle or motorbike, since the tem
 
 ## What to see and do
 
-Budget 45 minutes to an hour for a straightforward visit, or up to 90 minutes if you linger over the small on-site museum and exhibition rooms, which display Cham artifacts, photographs, and information panels on the kingdom's history and the towers' restoration. Climb the stone staircase up the hill to reach the main tower cluster — the elevation gives decent views back over the river and the fishing boats docked along the Cai.
+Budget 45 minutes to an hour for a straightforward visit, or up to 90 minutes if you linger over the small on-site museum and exhibition rooms, which display Cham artifacts, photographs, and information panels on the kingdom's history and the towers' restoration. Climb the stone staircase up the hill to reach the main tower cluster, the elevation gives decent views back over the river and the fishing boats docked along the Cai.
 
-Inside the main kalan, look for the black stone statue of the goddess seated with ten arms, along with carved lingas and sandstone reliefs on the exterior walls depicting dancers and mythological scenes. The other three towers are smaller but worth a look for their brickwork and carved doorways, which show Cham building techniques that used no visible mortar. Traditional Cham dance performances are sometimes staged in a hall near the entrance a few times a day — worth checking the schedule board when you arrive, since timings vary.
+Inside the main kalan, look for the black stone statue of the goddess seated with ten arms, along with carved lingas and sandstone reliefs on the exterior walls depicting dancers and mythological scenes. The other three towers are smaller but worth a look for their brickwork and carved doorways, which show Cham building techniques that used no visible mortar. Traditional Cham dance performances are sometimes staged in a hall near the entrance a few times a day, worth checking the schedule board when you arrive, since timings vary.
 
 ## When to go
 
 Early morning (before 9am) or late afternoon (after 4pm) are the best windows, both for softer light on the sandstone carvings and to dodge the midday heat and tour-bus crowds, since Po Nagar is a fixture on most city sightseeing itineraries. The dry season, roughly January through August, brings the most reliable weather; September through December sees more rain and occasional storms.
 
-Because it's an active religious site, avoid overly casual dress — shoulders and knees covered is respectful, and simple cover-ups are sometimes available to borrow at the entrance if needed.
+Because it's an active religious site, avoid overly casual dress, shoulders and knees covered is respectful, and simple cover-ups are sometimes available to borrow at the entrance if needed.
 
 ## Nearby and practical tips
 
-After the temple, the Xom Bong Bridge area is a good spot to see local fishing boats and, in the evening, informal seafood vendors. The Dam Market (Cho Dam) and the newer Nha Trang Cathedral are both a short taxi ride away and pair well with a half-day loop that includes Po Nagar. Entry tickets are inexpensive and sold at the gate — bring small Vietnamese dong notes for tickets, drinks, or the museum.
+After the temple, the Xom Bong Bridge area is a good spot to see local fishing boats and, in the evening, informal seafood vendors. The Dam Market (Cho Dam) and the newer Nha Trang Cathedral are both a short taxi ride away and pair well with a half-day loop that includes Po Nagar. Entry tickets are inexpensive and sold at the gate. Bring small Vietnamese dong notes for tickets, drinks, or the museum.
 
 Given the 4.5-star rating across tens of thousands of reviews, expect a well-worn but well-loved site; go slightly off the standard tour-bus hours for a calmer, more contemplative visit.

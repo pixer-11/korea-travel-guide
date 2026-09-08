@@ -74,7 +74,7 @@ That river is really the point. Kuantan grew up on its banks, and this stretch h
 
 The draw is simple: height, water, and food, all in one walkable pocket. Locals and visitors alike come here for the view and stay for the evening breeze off the river.
 
-It's not a quiet, undiscovered corner of Kuantan — it's one of the city's known gathering points, and it feels that way after dark.
+It's not a quiet, undiscovered corner of Kuantan. It's one of the city's known gathering points, and it feels that way after dark.
 
 ## Getting there
 
@@ -98,26 +98,26 @@ Below the tower, the riverside area fills with:
 - Open plazas where families gather in the evening
 - Photo spots along the river walk, especially as the tower lights up at night
 
-Give yourself an hour for the view and a slow lap of the promenade — longer if you plan to eat dinner riverside, which most visitors end up doing.
+Give yourself an hour for the view and a slow lap of the promenade, longer if you plan to eat dinner riverside, which most visitors end up doing.
 
 ## When to go
 
-Weekdays are your quiet window — crowds stay noticeably lighter than on weekends. Weekday evenings especially reward you with space to actually enjoy the view without jostling for a rail spot.
+Weekdays are your quiet window, crowds stay noticeably lighter than on weekends. Weekday evenings especially reward you with space to actually enjoy the view without jostling for a rail spot.
 
 Weekends flip that. Between 6pm and 11pm on Saturday and Sunday, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting.
 
 If you can only come on a weekend, aim for late morning or early afternoon instead, before the evening crowd builds.
 
-Hours run 10am to 10pm Monday through Thursday, and stretch to midnight Friday through Sunday — plan a late dinner accordingly if you're visiting on those nights.
+Hours run 10am to 10pm Monday through Thursday, and stretch to midnight Friday through Sunday. Plan a late dinner accordingly if you're visiting on those nights.
 
 ## How to visit like a local
 
-Come on a weekday evening if your schedule allows — that's when the tower and promenade feel most relaxed, even though this is a genuinely well-known spot rather than a hidden one.
+Come on a weekday evening if your schedule allows. That's when the tower and promenade feel most relaxed, even though this is a genuinely well-known spot rather than a hidden one.
 
-- Pay for food stalls in cash or with a mobile wallet like Touch 'n Go — card machines aren't universal at smaller riverside vendors
+- Pay for food stalls in cash or with a mobile wallet like Touch 'n Go, card machines aren't universal at smaller riverside vendors
 - Skip the 6pm–11pm weekend rush if you want photos without other people in every shot
 - Wear light, breathable clothing; Kuantan's coastal humidity makes evening the more comfortable time to be outdoors anyway
 - Bring small notes for parking attendants near the site, common practice across Malaysian towns
-- Don't rush the tower visit — locals treat it as a slow-evening hangout, not a five-minute photo stop
+- Don't rush the tower visit, locals treat it as a slow-evening hangout, not a five-minute photo stop
 
 The biggest mistake visitors make is treating this as a quick daytime photo op and missing the lit-up, breeze-cooled evening version, which is when the place actually comes alive.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-cham-phnom-srei
-srcHash: '5b6b0850b579'
+srcHash: '9fbac4d0be4b'
 title: 'Phnom Srei: Guía de viaje de Kampong Cham (4,3★)'
 description: 'Phnom Srei ("la Montaña de la Mujer") es un modesto templo en lo alto de una colina en el distrito de Kampong Siem, a las afueras de la ciudad de Kampong Cham, en Camboya; conviene visitarlo temprano por la mañana o al final de la tarde, cuando bajan el calor y el resplandor. 4,3★ (292 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Phnom Srei ("la Montaña de la Mujer") es un modesto templo en lo alto de una colina en el distrito de Kampong Siem, a las afueras de la ciudad de Kampong Cham, en Camboya. Lo mejor es visitarlo temprano por la mañana o al final de la tarde, cuando bajan el calor y el resplandor. Es la versión tranquila de su vecino más alto, Phnom Pros, con una breve subida por escalera, monos residentes y vistas sobre los arrozales circundantes. Calcule entre 45 minutos y una hora, y combínelo con Phnom Pros para conocer la leyenda completa en un recorrido de medio día desde la ciudad.

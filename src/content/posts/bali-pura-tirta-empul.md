@@ -106,17 +106,17 @@ This is Bali's spring temple, the one every guidebook photo of people bowing und
 
 ## What you'll actually see
 
-Walk in past the parking terraces and the first thing you notice is the smell — clove-cigarette smoke drifting from warung stalls mixing with incense from the inner courtyard. The complex splits into three zones: an outer courtyard for offerings, a middle courtyard with the bathing pools, and an inner sanctum you can view but not enter.
+Walk in past the parking terraces and the first thing you notice is the smell, clove-cigarette smoke drifting from warung stalls mixing with incense from the inner courtyard. The complex splits into three zones: an outer courtyard for offerings, a middle courtyard with the bathing pools, and an inner sanctum you can view but not enter.
 
 The bathing pools are two long stone troughs lined with numerous individually named spouts. Water gushes from each at a different pressure, some gentle, some strong enough to make you flinch. Locals move spout to spout in a set order, dunking their heads under each one, murmuring, then moving on.
 
-Above the bathing area, a separate pool holds the actual sacred spring — a wide, glassy pond so clear you can watch fish hover over sunken coins and offerings. Behind the temple, on higher ground, sits Soekarno's old summer palace, built in the 1950s and worth the short extra walk if you have time.
+Above the bathing area, a separate pool holds the actual sacred spring, a wide, glassy pond so clear you can watch fish hover over sunken coins and offerings. Behind the temple, on higher ground, sits Soekarno's old summer palace, built in the 1950s and worth the short extra walk if you have time.
 
 ## When to go
 
 Arrive right at 8am. The site is quietest between 8am and 10am on both weekdays and weekends, before the tour groups from Ubud and Kintamani arrive.
 
-Avoid 11am to 4pm on weekends especially — that's when the courtyard and bathing pools get genuinely crowded, with queues forming at the popular spouts. Overcast days in the wet season (roughly November to March) tend to be calmer than dry-season mornings, though the light for photos is flatter.
+Avoid 11am to 4pm on weekends especially. That's when the courtyard and bathing pools get genuinely crowded, with queues forming at the popular spouts. Overcast days in the wet season (roughly November to March) tend to be calmer than dry-season mornings, though the light for photos is flatter.
 
 Plan on 90 minutes to two hours: time to change, queue for a spout or two, walk the upper pool, and dry off before moving on.
 
@@ -124,11 +124,11 @@ Plan on 90 minutes to two hours: time to change, queue for a spout or two, walk 
 
 You don't need to bathe to visit, but if you do, a few rules are non-negotiable:
 
-- Wear a sarong, tied at the waist — rentals and sales are available right at the entrance for a small fee
+- Wear a sarong, tied at the waist, rentals and sales are available right at the entrance for a small fee
 - Skip the first two spouts on the left, traditionally reserved for cleansing after a death in the family
 - Never bathe if you're menstruating; women are asked to sit this ritual out
 - Bring a change of clothes and a dry bag for your phone and wallet
-- Lockers or bag storage are usually available near the entrance — use them rather than carrying valuables into the water
+- Lockers or bag storage are usually available near the entrance, use them rather than carrying valuables into the water
 
 The water is cold, spring-fed, and constant regardless of season, so don't expect anything warm.
 
@@ -136,9 +136,9 @@ The water is cold, spring-fed, and constant regardless of season, so don't expec
 
 Balinese visitors treat this as an active ritual, not a photo backdrop, and the temple staff notice the difference. Move with the queue at each spout rather than lingering for a portrait; step aside once you've finished so the next person can bathe.
 
-Payment for entry and sarong rental is typically cash in Indonesian rupiah — small bills help, since change can be slow at busy times. Tipping isn't expected, but a small donation at the offering baskets near the entrance is appreciated.
+Payment for entry and sarong rental is typically cash in Indonesian rupiah, small bills help, since change can be slow at busy times. Tipping isn't expected, but a small donation at the offering baskets near the entrance is appreciated.
 
-Because this is a very-visited site, the real local trick isn't secrecy — it's timing. Go right at opening, before 10am, and you'll have long stretches of the pool nearly to yourself instead of sharing it with the full tour-bus crowd that builds through midday.
+Because this is a very-visited site, the real local trick isn't secrecy. It's timing. Go right at opening, before 10am, and you'll have long stretches of the pool nearly to yourself instead of sharing it with the full tour-bus crowd that builds through midday.
 
 Dress modestly beyond the sarong: shoulders covered is appreciated even outside the bathing area, since this remains an active place of worship first. If you're not bathing, keep a respectful distance from those who are mid-ritual rather than photographing them up close.
 

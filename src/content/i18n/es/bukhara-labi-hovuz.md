@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-labi-hovuz
-srcHash: 'e3db3fdb2b69'
+srcHash: '30f470cc3478'
 title: 'Labi Hovuz: guía de viaje de Bujará (4.6★)'
 description: 'Labi Hovuz es la antigua plaza del estanque de piedra de Bujará, rodeada de moreras, una madrasa del siglo XVI y la khanaka de Nadir Divan-Beghi. 4.6★ (954 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Labi Hovuz es la antigua plaza del estanque de piedra de Bujará, rodeada de moreras, una madrasa del siglo XVI y la khanaka de Nadir Divan-Beghi. Abre todos los días de 8:00 a 24:00, y la media mañana es el momento más tranquilo para sentarse junto al agua, antes de que lleguen los grupos turísticos. Calcule entre 45 minutos y una hora, más si se queda a tomar té.

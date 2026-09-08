@@ -28,7 +28,7 @@ heldReason: generic-topic
 
 ## Why Suwon, and Why Its Food Scene
 
-Suwon is best known as the home of Hwaseong Fortress, the UNESCO-listed 18th-century walled city built by King Jeongjo. But the fortress isn't just a historic backdrop — the neighborhoods inside and around its walls have grown into one of Gyeonggi Province's most rewarding places to eat. Suwon's signature dish, **Suwon galbi** (grilled beef short ribs, traditionally cut thicker than Seoul-style galbi), originated here in the mid-20th century and remains the reason many day-trippers come specifically to eat before or after touring the fortress.
+Suwon is best known as the home of Hwaseong Fortress, the UNESCO-listed 18th-century walled city built by King Jeongjo. But the fortress isn't just a historic backdrop, the neighborhoods inside and around its walls have grown into one of Gyeonggi Province's most rewarding places to eat. Suwon's signature dish, **Suwon galbi** (grilled beef short ribs, traditionally cut thicker than Seoul-style galbi), originated here in the mid-20th century and remains the reason many day-trippers come specifically to eat before or after touring the fortress.
 
 Beyond galbi, the area around Paldalmun Gate and the traditional markets nearby offer a dense, walkable concentration of local eateries that rarely make it onto English-language menus elsewhere.
 
@@ -41,7 +41,7 @@ Many visitors instead get off at **Suwon Station Line 1** and transfer to a bus,
 ## What to Eat and Where to Look
 
 - **Suwon galbi**: Look for restaurants clustered along the streets radiating from Paldalmun, particularly toward the area historically called "Galbi Street" near Suwon Yeongdong Market. These places specialize in thick-cut marinated or unmarinated beef ribs grilled tableside, usually served with a light radish soup (galbitang) as a side or separate course.
-- **Suwon Yeongdong Market and Jidong Market**: Traditional markets a short walk from Paldalmun Gate, good for street snacks — try **tteokbokki**, **sundae** (Korean blood sausage), and seasonal produce. These markets are as much about atmosphere as food, with generations-old stalls still run by original families in many cases.
+- **Suwon Yeongdong Market and Jidong Market**: Traditional markets a short walk from Paldalmun Gate, good for street snacks. Try **tteokbokki**, **sundae** (Korean blood sausage), and seasonal produce. These markets are as much about atmosphere as food, with generations-old stalls still run by original families in many cases.
 - **Paldalmun Gate night market**: Suwon has run evening market events near the gate in past years featuring food trucks and small vendors; check current schedules locally since these are seasonal and not always running.
 - **Hwaseomun and Janganmun areas**: The northern and western gates of the fortress have their own smaller restaurant clusters, generally quieter and more local than the Paldalmun side, worth exploring if you're walking the full fortress wall (about 5.7 km, 2-3 hours on foot).
 
@@ -51,7 +51,7 @@ Spring (April-May) and autumn (October-early November) are the most comfortable 
 
 ## Nearby & Practical Tips
 
-- **Hwaseong Haenggung Palace**, the former temporary palace of King Jeongjo, is a 5-10 minute walk from Paldalmun and pairs naturally with a meal — many visitors do palace, then market, then galbi in one afternoon loop.
+- **Hwaseong Haenggung Palace**, the former temporary palace of King Jeongjo, is a 5-10 minute walk from Paldalmun and pairs naturally with a meal. Many visitors do palace, then market, then galbi in one afternoon loop.
 - Suwon galbi restaurants often require a minimum order (commonly two servings) for tabletop grilling, so solo travelers may want to check policies before sitting down or look for galbitang (soup) instead, which is usually served individually.
 - Cash is still preferred at some smaller market stalls, though card acceptance is standard at sit-down restaurants.
 - Confirm current opening hours and prices directly at each restaurant or via a Korean map app (Naver Map or KakaoMap), since English-language listings for smaller local spots are often outdated.

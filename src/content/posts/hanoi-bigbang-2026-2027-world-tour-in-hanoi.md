@@ -67,7 +67,7 @@ Budget extra time both ways. With two full stadium crowds converging on the same
 
 The shows run October 24-25, 2026, both at My Dinh National Stadium. Two-night stadium runs typically mean similar setlists across both dates with some rotation, though BigBang has surprised fans with encore changes on past tours.
 
-Stadium concerts here generally follow a familiar shape: gates open a few hours before showtime, opening acts or VCR segments run first, and the headline set stretches well past two hours. Given the scale of production BigBang tours are known for — pyrotechnics, moving stages, elaborate LED work — arrive with plenty of buffer rather than cutting it close.
+Stadium concerts here generally follow a familiar shape: gates open a few hours before showtime, opening acts or VCR segments run first, and the headline set stretches well past two hours. Given the scale of production BigBang tours are known for (pyrotechnics, moving stages, elaborate LED work) arrive with plenty of buffer rather than cutting it close.
 
 ## Tickets and seating
 
@@ -77,11 +77,11 @@ Because ticketing platforms, price tiers and on-sale windows shift by market and
 
 ## How to visit like a local
 
-Hanoi concertgoers travel light and move fast once doors open — bring only what you need and expect bag checks at the gates. Cash is still useful for street food stalls near the stadium, but most taxis and convenience stores now take cards or e-wallets like Momo.
+Hanoi concertgoers travel light and move fast once doors open. Bring only what you need and expect bag checks at the gates. Cash is still useful for street food stalls near the stadium, but most taxis and convenience stores now take cards or e-wallets like Momo.
 
 Book your Grab ride well before the encore ends rather than after; everyone else has the same idea and surge pricing spikes hard in that first post-show window. If you're staying in the Old Quarter, factor in a 20-30 minute ride each way outside peak traffic, longer on show nights.
 
-Vietnamese fans tend to arrive early to soak up the pre-show atmosphere and trade merchandise or light sticks outside the gates — it's part of the experience, not just a queue to endure. Follow that lead rather than rolling up at the last minute.
+Vietnamese fans tend to arrive early to soak up the pre-show atmosphere and trade merchandise or light sticks outside the gates. It's part of the experience, not just a queue to endure. Follow that lead rather than rolling up at the last minute.
 
 Street vendors set up near the stadium selling food, drinks and unofficial merch; prices aren't fixed, so a quick, friendly haggle is normal and expected. Keep small notes on hand for this rather than breaking a large bill.
 

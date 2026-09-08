@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: delhi-nisaba
-srcHash: 'cad2e2bbe293'
+srcHash: 'a653d6f4f3aa'
 title: NISABA:デリーで訪れるべきレストラン
 description: インド・デリーにある新進気鋭の注目スポット「NISABA」について——どんな店で、どこにあり、どうやって訪れるかをご紹介します。
 quickAnswer: NISABAは、シェフのマニシュ・メロートラ(Manish Mehrotra)氏がインディアン・アクセント(Indian Accent)を離れて以来、初めて手がける単独のレストランで、2026年1月17日にデリーのサンダー・ナーサリー(Sunder Nursery)/フマーユーン廟(Humayun's Tomb)の複合エリア内にオープンしました。コンセプトは、日常的なインドのストリートフードやダバ(dhaba)料理を、穀物を主役に据えて洗練させたもの。新規オープンで、しかも歴史的な庭園複合施設内にあるため、事前予約と最新の営業時間・予約ポリシーの確認をおすすめします。

@@ -33,25 +33,25 @@ heroImage:
 
 ## Why El Campero matters
 
-Barbate, on Spain's Atlantic-facing Cádiz coast, is the historic capital of *almadraba* tuna fishing — a trap method used since Phoenician times to catch bluefin tuna at their prime. El Campero built its reputation there, and its arrival in Madrid is a genuine event for anyone who takes Spanish seafood seriously.
+Barbate, on Spain's Atlantic-facing Cádiz coast, is the historic capital of *almadraba* tuna fishing, a trap method used since Phoenician times to catch bluefin tuna at their prime. El Campero built its reputation there, and its arrival in Madrid is a genuine event for anyone who takes Spanish seafood seriously.
 
 The Madrid outpost occupies a 19th-century palace in Salamanca, one of the capital's grandest, most manicured districts. High ceilings, ornate stonework and a sense of occasion set the stage before a single plate arrives.
 
 ## What makes the tuna special
 
-Chef Julio Vázquez treats bluefin tuna the way a French chef might treat a whole pig — nose to tail, or in this case, fin to fin. Expect nearly every cut the animal offers, prepared in wildly different registers.
+Chef Julio Vázquez treats bluefin tuna the way a French chef might treat a whole pig, nose to tail, or in this case, fin to fin. Expect nearly every cut the animal offers, prepared in wildly different registers.
 
 - **Sashimi-style cuts** showing off the marbling of *ventresca* (belly) and leaner loin
 - **Grilled preparations**, letting char and smoke meet the fish's natural fat
 - **Stewed or braised cuts**, closer to a rustic Andalusian kitchen than a sushi counter
 
-The point isn't novelty for its own sake. It's a demonstration of how differently each part of the tuna behaves under heat, salt and time — something few restaurants outside Barbate itself attempt with this level of range.
+The point isn't novelty for its own sake. It's a demonstration of how differently each part of the tuna behaves under heat, salt and time, something few restaurants outside Barbate itself attempt with this level of range.
 
 ## The setting in Salamanca
 
 Salamanca is Madrid's upscale shopping-and-dining quarter, all wide sidewalks, boutique storefronts and quiet side streets a short walk from Retiro Park. It's a fitting home for a restaurant this ambitious, and the palace setting adds a layer of formality you don't often get with seafood-focused menus.
 
-Walking in, you notice the contrast: the building's old-world bones — thick walls, tall windows, a hush that comes with high ceilings — against a kitchen turning out precise, modern plates of raw and cooked fish. It doesn't feel like a beach-town tapas bar transplanted north. It feels like Barbate's technique dressed for the capital.
+Walking in, you notice the contrast: the building's old-world bones (thick walls, tall windows, a hush that comes with high ceilings) against a kitchen turning out precise, modern plates of raw and cooked fish. It doesn't feel like a beach-town tapas bar transplanted north. It feels like Barbate's technique dressed for the capital.
 
 ## Planning your visit
 
@@ -67,10 +67,10 @@ Because menu composition and pricing weren't confirmed at the time of writing, t
 
 ## How to visit like a local
 
-Madrileños dining in Salamanca tend to eat later than visitors expect — a 9pm reservation is normal, not late. If you want a calmer room with more attention from the kitchen, aim for an early sitting rather than the peak evening rush.
+Madrileños dining in Salamanca tend to eat later than visitors expect. A 9pm reservation is normal, not late. If you want a calmer room with more attention from the kitchen, aim for an early sitting rather than the peak evening rush.
 
 Reservations in Spain are typically made by phone or through the restaurant's own booking system rather than walk-up seating, especially for a newly opened, high-demand spot like this. Card payment is standard everywhere in Madrid; tipping isn't obligatory, but rounding up or leaving small change for good service is the norm.
 
-Dress a notch smarter than casual — Salamanca's dining culture skews polished, and a palace setting invites it. The mistake first-time visitors make is treating a trending opening like a casual walk-in option: for a restaurant this newly buzzed-about, call ahead or book online well before you arrive, and reconfirm your table the day of, since early-stage operating hours can still shift.
+Dress a notch smarter than casual, Salamanca's dining culture skews polished, and a palace setting invites it. The mistake first-time visitors make is treating a trending opening like a casual walk-in option: for a restaurant this newly buzzed-about, call ahead or book online well before you arrive, and reconfirm your table the day of, since early-stage operating hours can still shift.
 
-If Spanish isn't your first language, mentioning you'd like to understand the tuna cuts (*cortes de atún*) as they're described will usually get you a more detailed rundown from the staff — a kitchen this specialized expects and welcomes the curiosity.
+If Spanish isn't your first language, mentioning you'd like to understand the tuna cuts (*cortes de atún*) as they're described will usually get you a more detailed rundown from the staff, a kitchen this specialized expects and welcomes the curiosity.

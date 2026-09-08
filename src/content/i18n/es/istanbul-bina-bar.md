@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-bina-bar
-srcHash: '807763de1038'
+srcHash: '61bb58063e0d'
 title: 'Bina Bar: Guía de viaje de Estambul'
 description: 'Bina Bar en Estambul, Turquía — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Bina Bar es un local nocturno de tres plantas en Kadıköy, en el lado asiático de Estambul, conocido por el teatral jardín de entrada que se cruza antes incluso de llegar a la puerta: una piscina iluminada custodiada por una estatua de león. Se ha convertido en uno de los lugares de moda más comentados del barrio, así que conviene ir entre semana o al principio de la tarde-noche si quieres conseguir sitio. Confirma el horario actual y si hace falta reserva antes de acercarte, ya que los detalles de los locales recién popularizados cambian rápido.'

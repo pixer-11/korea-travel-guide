@@ -85,32 +85,32 @@ updatedDate: '2026-08-29'
 
 Drive the inland roads of Bohol and you'll pass several places advertising "tarsier viewing," some of them little more than a shaded pen next to a souvenir stand. The Philippine Tarsier Sanctuary in Corella is different: it's a protected forest reserve run in partnership with the Philippine Tarsier Foundation, set up specifically to give these animals something close to their actual habitat rather than a display case.
 
-You walk a short forest loop, and staff point out tarsiers clinging to branches at eye level or just above it — sometimes two or three sightings in a single visit, sometimes fewer, because these are wild-ish animals in a real patch of jungle, not props.
+You walk a short forest loop, and staff point out tarsiers clinging to branches at eye level or just above it, sometimes two or three sightings in a single visit, sometimes fewer, because these are wild-ish animals in a real patch of jungle, not props.
 
-Tarsiers are among the smallest primates on earth, with a body barely bigger than a fist and eyes that look almost too large for their skull — an adaptation for nocturnal hunting. They're notoriously fragile; the species has a history of dying in captivity from stress and mishandling, which is exactly why a sanctuary model, with no flash photography and no touching, matters here.
+Tarsiers are among the smallest primates on earth, with a body barely bigger than a fist and eyes that look almost too large for their skull, an adaptation for nocturnal hunting. They're notoriously fragile; the species has a history of dying in captivity from stress and mishandling, which is exactly why a sanctuary model, with no flash photography and no touching, matters here.
 
 ## Getting there
 
-The sanctuary sits on Tarsier Sanctuary Road in Corella, a town in Bohol's interior roughly 14 kilometers from Tagbilaran City, the island's main hub and airport. Most visitors reach it by rented van, tricycle, or as one stop on a private countryside tour that also covers the Chocolate Hills, the Loboc River, and the old Baclayon Church — all of which lie along the same general inland circuit, making it easy to string together a half-day loop.
+The sanctuary sits on Tarsier Sanctuary Road in Corella, a town in Bohol's interior roughly 14 kilometers from Tagbilaran City, the island's main hub and airport. Most visitors reach it by rented van, tricycle, or as one stop on a private countryside tour that also covers the Chocolate Hills, the Loboc River, and the old Baclayon Church, all of which lie along the same general inland circuit, making it easy to string together a half-day loop.
 
 There's no train or public bus that drops you at the gate; a habal-habal (motorcycle taxi) or arranged driver is the practical way in if you're not on a tour.
 
 ## What you'll actually see
 
-Past the entrance, a wooden boardwalk and dirt path wind through second-growth forest — bamboo, fig trees, dense understory. Guides who work the reserve daily know the current resting spots of the resident tarsiers and will quietly point a flashlight beam (never directly at the eyes) toward a branch where one is curled up, wide-eyed, perfectly still. You'll notice how well they disappear into bark and shadow; without a guide's eye, most visitors would walk right past them.
+Past the entrance, a wooden boardwalk and dirt path wind through second-growth forest, bamboo, fig trees, dense understory. Guides who work the reserve daily know the current resting spots of the resident tarsiers and will quietly point a flashlight beam (never directly at the eyes) toward a branch where one is curled up, wide-eyed, perfectly still. You'll notice how well they disappear into bark and shadow; without a guide's eye, most visitors would walk right past them.
 
-The whole loop takes 30 to 45 minutes at an unhurried pace, and most people spend under an hour total including the small information displays near the entrance explaining tarsier biology and the threats — habitat loss, the pet trade — that make the sanctuary's conservation work necessary.
+The whole loop takes 30 to 45 minutes at an unhurried pace, and most people spend under an hour total including the small information displays near the entrance explaining tarsier biology and the threats (habitat loss, the pet trade) that make the sanctuary's conservation work necessary.
 
 ## When to go
 
-Tarsiers are nocturnal, so daytime visits mean you're watching them sleep — which is still the point, since a stressed, awake tarsier is a sign of poor handling elsewhere. Early morning, shortly after opening, tends to be calmer and cooler, and the animals are more likely to still be settled from the night's activity. Bohol's dry season, roughly December through May, makes for easier walking on the forest paths and fewer weather delays if you're combining this with an outdoor countryside tour on the same day.
+Tarsiers are nocturnal, so daytime visits mean you're watching them sleep, which is still the point, since a stressed, awake tarsier is a sign of poor handling elsewhere. Early morning, shortly after opening, tends to be calmer and cooler, and the animals are more likely to still be settled from the night's activity. Bohol's dry season, roughly December through May, makes for easier walking on the forest paths and fewer weather delays if you're combining this with an outdoor countryside tour on the same day.
 
 ## How to visit like a local
 
-Because this sanctuary draws a heavy volume of tour vans in the mid-morning to early-afternoon window, arriving right at opening is the single best way to avoid clustering behind large groups on the narrow boardwalk. Guides work for tips rather than a fixed fee, so bring small peso bills in cash — card payment isn't the norm here. Speak in a low voice on the trail; tarsiers are acutely sound-sensitive, and loud groups are the main reason sightings sometimes go poorly.
+Because this sanctuary draws a heavy volume of tour vans in the mid-morning to early-afternoon window, arriving right at opening is the single best way to avoid clustering behind large groups on the narrow boardwalk. Guides work for tips rather than a fixed fee, so bring small peso bills in cash, card payment isn't the norm here. Speak in a low voice on the trail; tarsiers are acutely sound-sensitive, and loud groups are the main reason sightings sometimes go poorly.
 
-Never use flash photography or try to touch a tarsier, even if a guide seems relaxed about it — the animals can die from acute stress, and the sanctuary's rules exist because of past incidents at less careful facilities elsewhere on the island. The most common tourist mistake is confusing this sanctuary with roadside "tarsier viewing" stalls closer to Loboc — if you want the reserve model with genuine forest habitat, confirm you're headed specifically to Corella. Wear closed shoes; the path is dirt and can be uneven or muddy after rain.
+Never use flash photography or try to touch a tarsier, even if a guide seems relaxed about it (the animals can die from acute stress, and the sanctuary's rules exist because of past incidents at less careful facilities elsewhere on the island. The most common tourist mistake is confusing this sanctuary with roadside "tarsier viewing" stalls closer to Loboc) if you want the reserve model with genuine forest habitat, confirm you're headed specifically to Corella. Wear closed shoes; the path is dirt and can be uneven or muddy after rain.
 
 ## Nearby, on the same day
 
-Loboc is about 20 minutes further inland and pairs naturally with the sanctuary — you can add the Loboc River for a floating lunch cruise, then continue on to the Chocolate Hills viewpoint in Carmen. Baclayon Church, one of the oldest stone churches in the Philippines, sits on the coastal route back toward Tagbilaran if you want a historical stop to round out the loop.
+Loboc is about 20 minutes further inland and pairs naturally with the sanctuary. You can add the Loboc River for a floating lunch cruise, then continue on to the Chocolate Hills viewpoint in Carmen. Baclayon Church, one of the oldest stone churches in the Philippines, sits on the coastal route back toward Tagbilaran if you want a historical stop to round out the loop.

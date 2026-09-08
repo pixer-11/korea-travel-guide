@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: rome-tribuna-campitelli
-srcHash: '0db1133c4d6a'
+srcHash: 'cf8236a050f1'
 title: Tribuna Campitelli：罗马旅行指南
 description: 意大利罗马Tribuna Campitelli——一处新晋热门去处：它是什么、位于何处、如何前往。
 quickAnswer: Tribuna Campitelli是一家新开业的餐厅，坐落在阿拉科埃利广场（Piazza d'Aracoeli）附近一栋16世纪的宫殿建筑内，紧邻罗马犹太隔离区（Jewish Ghetto）边缘，是2025—2026年罗马城内话题度最高的新去处之一。这里值得一去，与其说是为了食物，不如说是为了氛围——一处修复一新的历史建筑内部，距离卡比托利欧山（Capitoline Hill）仅几步之遥。不过由于人气正旺，建议提前订位，出发前也务必确认好当前的营业时间。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-wat-phra-singh-woramahawihan
-srcHash: '4a1d1eaf125a'
+srcHash: 'c81221e5e3d6'
 title: 帕辛寺(Wat Phra Singh Woramahawihan):清迈旅行指南(4.7★)
 description: 帕辛寺(Wat Phra Singh)位于清迈古城的三兰路(Samlarn Road)上，是清迈最重要的寺庙之一，供奉着备受尊崇的帕辛佛像(Phra Singh Buddha),并拥有精美绝伦的莱堪佛殿(Lai Kham)壁画。4.7★(17,577条评价)——游客评价、开放时间与游览建议。
 quickAnswer: 帕辛寺(Wat Phra Singh)位于清迈古城的三兰路(Samlarn Road)上，是清迈最重要的寺庙之一，供奉着备受尊崇的帕辛佛像(Phra Singh Buddha),并拥有精美绝伦的莱堪佛殿(Lai Kham)壁画。建议一开门(早上7点到8点)就前往，这段时间无论工作日还是周末都最为清静。寺庙每日开放时间为早上5:30至晚上7:30(周日延长至晚上11点),游览重点大约一小时即可。

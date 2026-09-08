@@ -59,7 +59,7 @@ draft: false
 
 Legazpi Sunday Market is Makati's weekly food-and-flea ritual, tucked into a parking lot turned open-air bazaar. It's the kind of place where a Filipino-Chinese lumpia stall sits three feet from a table of vintage vinyl and a woman selling heirloom tomatoes.
 
-The draw isn't polish. It's density — dozens of small vendors packed into a compact grid, each one someone's actual weekend hustle.
+The draw isn't polish. It's density, dozens of small vendors packed into a compact grid, each one someone's actual weekend hustle.
 
 ## Getting there
 
@@ -75,32 +75,32 @@ This is a market you graze, not just browse. The food stalls are the main event,
 
 Look for:
 - Grilled seafood and skewers cooked right at the stall
-- Filipino breakfast plates — longganisa, tapa, garlic rice
+- Filipino breakfast plates, longganisa, tapa, garlic rice
 - Fresh tropical fruit, cut and bagged to go
 - Artisan bread, empanadas, and specialty coffee
 - Handmade furniture, woven baskets, and home decor
 - Local produce from small farms outside Manila
 
-Bring an appetite and a reusable bag — vendors sell out of popular items by late morning, and packaging is often minimal.
+Bring an appetite and a reusable bag, vendors sell out of popular items by late morning, and packaging is often minimal.
 
 ## When to go
 
 The market only operates one day a week: Sunday, 7:30am to 2pm. It's closed every other day, so there's no backup visit if you show up on a Tuesday.
 
-Morning is genuinely better here — not just for freshness, but for comfort. Metro Manila heat builds fast under an open-air tent setup, and by midday the combination of sun and foot traffic makes browsing less pleasant.
+Morning is genuinely better here, not just for freshness, but for comfort. Metro Manila heat builds fast under an open-air tent setup, and by midday the combination of sun and foot traffic makes browsing less pleasant.
 
 Aim to arrive between 8am and 9:30am. You'll get first pick of the breakfast stalls, cooler walking conditions, and stalls that haven't yet run low on their popular items.
 
 ## How to visit like a local
 
-Come early and treat it like a breakfast outing, not a tourist stop — that's genuinely how most regulars use it. Locals swing by after church or a morning walk, eat standing at a stall, then wander the furniture and produce tables before the late-morning crowd builds.
+Come early and treat it like a breakfast outing, not a tourist stop. That's genuinely how most regulars use it. Locals swing by after church or a morning walk, eat standing at a stall, then wander the furniture and produce tables before the late-morning crowd builds.
 
 Cash is essential. Many small vendors here don't take cards or mobile payment, and exact change speeds things up at busy food stalls. ATMs are available in nearby Ayala Center if you need to withdraw beforehand.
 
-There's no formal queue system — you order directly at each stall's counter and wait nearby. At popular food stands, expect a short cluster of people rather than a single line; just make eye contact with the vendor when it's your turn.
+There's no formal queue system, you order directly at each stall's counter and wait nearby. At popular food stands, expect a short cluster of people rather than a single line; just make eye contact with the vendor when it's your turn.
 
-The market draws a steady mix of residents, expats, and visitors, so don't expect a quiet, undiscovered scene — it's a genuinely well-known Sunday fixture in Makati. The move for beating the crowd isn't secrecy, it's timing: get there within the first hour of opening.
+The market draws a steady mix of residents, expats, and visitors, so don't expect a quiet, undiscovered scene. It's a genuinely well-known Sunday fixture in Makati. The move for beating the crowd isn't secrecy, it's timing: get there within the first hour of opening.
 
-A common visitor mistake is treating it like a quick five-minute stop. The layout rewards a slow loop — one pass for food, a second for browsing furniture and goods — so budget at least 60 to 90 minutes.
+A common visitor mistake is treating it like a quick five-minute stop. The layout rewards a slow loop (one pass for food, a second for browsing furniture and goods), so budget at least 60 to 90 minutes.
 
 Dress for heat and sun; much of the market is under simple tent cover rather than full shade. And since it wraps up at 2pm sharp, don't save your shopping list for the tail end of the morning.

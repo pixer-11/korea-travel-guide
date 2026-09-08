@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: gyeongju-woljeonggyo-bridge
-srcHash: '339edc1f752d'
+srcHash: '64741f0ed30d'
 title: '월정교: 경주 여행 가이드'
 description: 월정교는 경주 교동 마을을 흐르는 남천(Namcheon)을 가로지르는 신라 시대 목조 다리를 복원한 곳으로, 해 질 무렵 어두운 물 위로 비치는 야경을 볼 수 있어 그 시간대에 방문하기 좋습니다.
 quickAnswer: 월정교는 경주 교동 마을을 흐르는 남천(Namcheon)을 가로지르는 신라 시대 목조 다리를 복원한 곳으로, 해 질 무렵 어두운 물 위로 비치는 야경을 볼 수 있어 그 시간대에 방문하기 좋습니다. 다리를 걸어서 건너는 것은 무료이며, 제대로 둘러보고 사진을 찍는 데 20-30분 정도 걸립니다. 인근의 교촌한옥마을(Gyochon Traditional Village)과 월성(반월성) 성터(Wolseong, Banwolseong Fortress)까지 함께 산책하기에도 자연스럽게 이어집니다.

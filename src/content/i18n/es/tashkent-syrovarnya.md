@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-syrovarnya
-srcHash: 'e8b2449bcd42'
+srcHash: '1cecddd1a8b7'
 title: 'Syrovarnya: dónde comer en Tashkent'
 description: 'Syrovarnya, en Tashkent (Uzbekistán), es uno de los locales de moda del momento: qué es, dónde está y cómo planificar la visita.'
 quickAnswer: Syrovarnya es un restaurante especializado en quesos ubicado en la calle Shahrisabz, en Tashkent, que se ha convertido en una de las mesas más buscadas de la ciudad para una cena romántica, gracias a su carta centrada en lácteos y a su ambiente espectacular. Conviene reservar con antelación, ya que se llena rápido las noches y los fines de semana, y también confirmar el horario vigente antes de ir, porque en un lugar tan nuevo y solicitado los detalles pueden cambiar.

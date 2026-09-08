@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: suzhou-master-of-the-nets-garden
-srcHash: 'dd0ac1608e0c'
+srcHash: '15d4fd69a34e'
 title: '왕스위안(网师园, Master of the Nets Garden): 쑤저우 여행 가이드 (4.6★)'
 description: 왕스위안(网师园, Master of the Nets Garden)은 쑤저우(Suzhou) 구쑤구(Gusu District)에 있는 작은 12세기 고전 정원으로, 시내 다른 큰 정원으로 몰리는 관광버스를 피하려면 늦은 오전에 방문하는 것이 좋습니다. 4.6★(리뷰 156개) — 방문객들의 평가, 운영시간, 여행 팁을 소개합니다.
 quickAnswer: 왕스위안(网师园, Master of the Nets Garden)은 쑤저우(Suzhou) 구쑤구(Gusu District)에 있는 작은 12세기 고전 정원으로, 시내 다른 큰 정원으로 몰리는 관광버스를 피하려면 늦은 오전에 방문하는 것이 좋습니다. 낮 시간 정원 관람에는 45~75분을 잡아두고, 가능하다면 정자 안에서 열리는 계절 야간 공연을 보러 다시 방문해보세요. 쑤저우의 대표적인 정원들보다 붐비지 않아 느긋하고 조용하게 둘러보기에 좋습니다.

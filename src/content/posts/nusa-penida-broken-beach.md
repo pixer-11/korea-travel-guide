@@ -51,17 +51,17 @@ draft: false
 
 Broken Beach earns its name honestly. A ring of limestone cliffs encloses a pool of impossibly turquoise water, and the sea has carved a natural arch through one wall so waves surge in and out like the island is breathing.
 
-You don't walk down to the water here — you stand above it, on a horseshoe of cliff, watching the arch flood and drain. It's less a beach, more a geological spectacle, and photos genuinely undersell the scale of it.
+You don't walk down to the water here, you stand above it, on a horseshoe of cliff, watching the arch flood and drain. It's less a beach, more a geological spectacle, and photos genuinely undersell the scale of it.
 
 ## Getting there
 
-Broken Beach sits on Nusa Penida's west coast, near Sakti village, a short ride from Angel's Billabong and Kelingking Beach. Most visitors reach Nusa Penida by fast boat from Sanur, Padang Bai, or Kusamba — the crossing takes 30 to 45 minutes.
+Broken Beach sits on Nusa Penida's west coast, near Sakti village, a short ride from Angel's Billabong and Kelingking Beach. Most visitors reach Nusa Penida by fast boat from Sanur, Padang Bai, or Kusamba. The crossing takes 30 to 45 minutes.
 
 Once on the island, there's no public transport worth mentioning. Renting a scooter or hiring a driver for the day is standard practice. The road in is rough in patches, with unpaved stretches and steep drops, so budget extra time regardless of which you choose.
 
 ## What you'll actually see
 
-There's no descent to the water — access is fenced off for safety, and the currents inside the lagoon are genuinely dangerous. Instead, you walk a dirt path along the cliff rim to a viewpoint directly over the arch.
+There's no descent to the water, access is fenced off for safety, and the currents inside the lagoon are genuinely dangerous. Instead, you walk a dirt path along the cliff rim to a viewpoint directly over the arch.
 
 Some travelers pay local guides to help them scramble down a steep, informal track partway toward the water; this isn't official and comes with real risk on wet rock. Most people stick to the marked viewpoint, which is plenty.
 
@@ -80,12 +80,12 @@ Arrive as close to opening as you can manage, ideally before 9am, when the light
 This is a firmly well-visited spot, not a hidden find, so managing the crowds is the whole game. Drivers who work the island daily aim to hit Broken Beach first, before Kelingking, precisely to dodge the mid-morning rush.
 
 - Go early: before 9am is noticeably quieter than late morning.
-- Pay entry and parking fees in small cash denominations — card isn't reliably accepted.
+- Pay entry and parking fees in small cash denominations, card isn't reliably accepted.
 - Wear closed shoes with grip; the cliff path has loose gravel and no railings in places.
-- Don't cross barriers toward the water — the undertow inside the arch has caused serious accidents.
+- Don't cross barriers toward the water. The undertow inside the arch has caused serious accidents.
 - Pair it in one loop with Angel's Billabong, a five-minute drive away, to save on scooter time.
 
-Tipping isn't expected at the viewpoint, though guides who assist with photos or the unofficial cliff scramble appreciate a small tip if you use their help. Most visitors spend 30 to 45 minutes here — enough to see the arch from a couple of angles and grab photos before moving on to the next west-coast stop.
+Tipping isn't expected at the viewpoint, though guides who assist with photos or the unofficial cliff scramble appreciate a small tip if you use their help. Most visitors spend 30 to 45 minutes here, enough to see the arch from a couple of angles and grab photos before moving on to the next west-coast stop.
 
 ## Nearby stops worth combining
 

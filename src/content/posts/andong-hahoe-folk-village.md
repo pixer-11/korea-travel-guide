@@ -67,7 +67,7 @@ draft: false
 
 ## Why go
 
-Hahoe ("river turning back") sits inside a near-360-degree loop of the Nakdong River, a natural moat that has kept the village physically isolated for over 600 years. It's a UNESCO World Heritage Site (inscribed in 2010 alongside Yangdong Village) and, unlike many restored "folk villages" in Korea, this one is genuinely lived in — descendants of the Pungsan Ryu clan still occupy many of the tile-roofed hanok and thatched farmhouses.
+Hahoe ("river turning back") sits inside a near-360-degree loop of the Nakdong River, a natural moat that has kept the village physically isolated for over 600 years. It's a UNESCO World Heritage Site (inscribed in 2010 alongside Yangdong Village) and, unlike many restored "folk villages" in Korea, this one is genuinely lived in, descendants of the Pungsan Ryu clan still occupy many of the tile-roofed hanok and thatched farmhouses.
 
 The village is inseparable from Korea's mask-dance heritage: the Hahoe Byeolsingut Talnori (a shamanistic mask dance drama) originated here, and the wooden Hahoe masks are recognized as National Treasures.
 
@@ -82,7 +82,7 @@ Once at the entrance area, cars and buses stop at a visitor center, and you tran
 - **The village lanes**: Wander the earthen-walled paths between roughly 130 houses, a mix of tile-roofed yangban (aristocrat) residences and thatched-roof commoner homes, several open for viewing.
 - **Yangjindang and Chunghyodang**: Two of the most architecturally significant houses, both designated cultural properties, worth seeking out for their preserved Joseon-period layouts.
 - **Buyongdae Cliff**: Across the river, this pine-covered cliff offers the classic postcard view down onto the village's horseshoe bend; reach it via a short ferry crossing or a longer walk/drive around.
-- **Hahoe Mask Museum**: Just outside the village entrance, this museum displays the original Hahoe masks and other Korean mask traditions — a good primer before or after walking the village.
+- **Hahoe Mask Museum**: Just outside the village entrance, this museum displays the original Hahoe masks and other Korean mask traditions, a good primer before or after walking the village.
 - **Hahoe Byeolsingut Talnori performance**: A mask dance drama is staged at a dedicated outdoor theater near the village on a seasonal schedule (typically weekends, spring through autumn). Performances are usually free or low-cost, but confirm the current schedule locally, since it varies by season and weather.
 - **Riverside pine forest (Manson Jeong)**: A quiet grove along the river's edge, popular for a slow walk after the village loop.
 
@@ -90,8 +90,8 @@ Budget 2-3 hours for the village and museum alone; add another hour if you cross
 
 ## When to go
 
-Spring (April-May) and autumn (October-November) bring the best weather and the fullest performance calendar for the mask dance. Weekends are livelier but busier; a weekday morning gives quieter lanes and better photos of the thatched roofs without crowds. Winter is stark but atmospheric, with far fewer visitors — just confirm ahead whether mask performances are running, as the outdoor schedule thins out.
+Spring (April-May) and autumn (October-November) bring the best weather and the fullest performance calendar for the mask dance. Weekends are livelier but busier; a weekday morning gives quieter lanes and better photos of the thatched roofs without crowds. Winter is stark but atmospheric, with far fewer visitors, just confirm ahead whether mask performances are running, as the outdoor schedule thins out.
 
 ## Nearby & tips
 
-Combine the visit with the **Andong Folk Village Museum** and **Andong Dam**, both within a short drive, or continue to **Bongjeongsa Temple**, one of Korea's oldest wooden temple buildings, roughly 30-40 minutes away. Local specialties worth trying in Andong town include *heotjesatbap* (ancestral-rite-style bibimbap) and *Andong jjimdak* (braised chicken with noodles and vegetables). Wear shoes suited to unpaved lanes, and note that several houses are private residences — respectful, quiet viewing from designated paths is expected rather than entering courtyards uninvited.
+Combine the visit with the **Andong Folk Village Museum** and **Andong Dam**, both within a short drive, or continue to **Bongjeongsa Temple**, one of Korea's oldest wooden temple buildings, roughly 30-40 minutes away. Local specialties worth trying in Andong town include *heotjesatbap* (ancestral-rite-style bibimbap) and *Andong jjimdak* (braised chicken with noodles and vegetables). Wear shoes suited to unpaved lanes, and note that several houses are private residences, respectful, quiet viewing from designated paths is expected rather than entering courtyards uninvited.

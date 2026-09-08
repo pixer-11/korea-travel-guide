@@ -76,24 +76,24 @@ draft: false
 
 ## Why go
 
-You spot the cathedral before you reach it — four bell towers and a jumble of domes rising over the rooftops of Palermo's old center. Up close, the building reads like a timeline. Norman battlements sit beside Gothic spires, Catalan arches, and an 18th-century neoclassical dome dropped on top almost as an afterthought.
+You spot the cathedral before you reach it, four bell towers and a jumble of domes rising over the rooftops of Palermo's old center. Up close, the building reads like a timeline. Norman battlements sit beside Gothic spires, Catalan arches, and an 18th-century neoclassical dome dropped on top almost as an afterthought.
 
-That patchwork is the whole point. Built from 1185 onward on the site of an earlier mosque, the cathedral has been rebuilt, extended, and reworked by every power that ruled Sicily. Inside rest the porphyry tombs of Norman kings and Holy Roman Emperor Frederick II — a genuinely rare thing to stand next to.
+That patchwork is the whole point. Built from 1185 onward on the site of an earlier mosque, the cathedral has been rebuilt, extended, and reworked by every power that ruled Sicily. Inside rest the porphyry tombs of Norman kings and Holy Roman Emperor Frederick II, a genuinely rare thing to stand next to.
 
 ## Getting there
 
 The cathedral sits on Via Vittorio Emanuele, Palermo's main pedestrian spine through the historic center. It's a flat 10-15 minute walk from the Quattro Canti crossroads or from Palermo Centrale train station.
 
-If you're coming by bus, several city AMAT lines stop within a couple of blocks along Via Vittorio Emanuele or Via Cavour. There's no metro stop directly outside, so walking from the old town is genuinely the easiest route — everything in this part of Palermo is close together.
+If you're coming by bus, several city AMAT lines stop within a couple of blocks along Via Vittorio Emanuele or Via Cavour. There's no metro stop directly outside, so walking from the old town is genuinely the easiest route, everything in this part of Palermo is close together.
 
 ## What to see inside
 
 The nave itself is free and open to all visitors during opening hours. Once inside, budget a little extra time and small separate fees for the parts that make this cathedral distinctive.
 
-- **Royal tombs** — sarcophagi of Roger II, Frederick II, and other Norman and Hohenstaufen rulers
-- **Treasury** — Constance of Aragon's jewel-encrusted 13th-century crown and other regalia
-- **Crypt** — older stonework beneath the main church, including archbishop tombs
-- **Rooftop terraces** — a climb up narrow stairs for a close-up of the domes and a wide view over Palermo's rooftops to the sea
+- **Royal tombs**, sarcophagi of Roger II, Frederick II, and other Norman and Hohenstaufen rulers
+- **Treasury**, Constance of Aragon's jewel-encrusted 13th-century crown and other regalia
+- **Crypt**, older stonework beneath the main church, including archbishop tombs
+- **Rooftop terraces**. A climb up narrow stairs for a close-up of the domes and a wide view over Palermo's rooftops to the sea
 
 Each section usually has its own modest ticket, sometimes sold as a combined pass at the entrance. Confirm current prices on-site, since these do shift.
 
@@ -107,10 +107,10 @@ Early morning also means better light through the windows onto the tomb marble, 
 
 ## How to visit like a local
 
-This is one of the most-visited churches in Sicily, not a quiet corner — so timing your visit does more work than any other tip. Arrive at or just after 7am opening if you can; it's the same building with none of the queue.
+This is one of the most-visited churches in Sicily, not a quiet corner, so timing your visit does more work than any other tip. Arrive at or just after 7am opening if you can; it's the same building with none of the queue.
 
 - Dress modestly: covered shoulders and knees are expected, as at any active Sicilian church
-- Buy tickets for the tombs, treasury, or roof at the entrance desk rather than online — there isn't a widely used advance system
+- Buy tickets for the tombs, treasury, or roof at the entrance desk rather than online. There isn't a widely used advance system
 - Card and cash are both commonly accepted at the ticket counters
 - Keep voices low near the altar and tombs; Mass and services still take place here, and visiting pauses during them
 - Skip the souvenir stalls right outside the door and walk one block down Via Vittorio Emanuele for better-value cafés

@@ -41,9 +41,9 @@ heroImage:
 
 ## Why the Arc matters
 
-Once a year, Paris-Longchamp Racecourse becomes the centre of the global thoroughbred world. The Qatar Prix de l'Arc de Triomphe is Europe's richest flat race, and the weekend around it turns the Bois de Boulogne into a swirl of hats, cameras, and betting slips. You feel the scale before you see a horse — coaches idling on the access road, ticket scanners beeping in waves, the low hum of a crowd that's come from a dozen countries.
+Once a year, Paris-Longchamp Racecourse becomes the centre of the global thoroughbred world. The Qatar Prix de l'Arc de Triomphe is Europe's richest flat race, and the weekend around it turns the Bois de Boulogne into a swirl of hats, cameras, and betting slips. You feel the scale before you see a horse, coaches idling on the access road, ticket scanners beeping in waves, the low hum of a crowd that's come from a dozen countries.
 
-The race itself lasts about two and a half minutes. Everything else — the fashion, the champagne bars, the roar as the field turns into the home straight — is the real show.
+The race itself lasts about two and a half minutes. Everything else (the fashion, the champagne bars, the roar as the field turns into the home straight) is the real show.
 
 ## Getting to Paris-Longchamp
 
@@ -59,7 +59,7 @@ Whichever route you pick, build in extra time. Foot traffic through the Bois can
 
 The meeting runs across two days, October 3–4, 2026, with the Arc itself run on the Saturday.
 
-Friday, known as Qatar Prix de l'Arc de Triomphe Trials Day, is quieter and cheaper — a good option if you want to see the track and the horses without the density of Saturday's crowds. Saturday is the big one: multiple Group 1 races stacked through the afternoon, building toward the Arc as the finale.
+Friday, known as Qatar Prix de l'Arc de Triomphe Trials Day, is quieter and cheaper, a good option if you want to see the track and the horses without the density of Saturday's crowds. Saturday is the big one: multiple Group 1 races stacked through the afternoon, building toward the Arc as the finale.
 
 If you can only do one day, Saturday is non-negotiable for the Arc itself. If you want a calmer, more relaxed racecourse experience, Friday is the better bet.
 
@@ -73,7 +73,7 @@ General admission areas get busy but leave room to wander between the paddock, t
 
 ## What to see beyond the race
 
-Longchamp is worth arriving early for regardless of racing. The saddling paddock draws a thick ring of spectators before each race — this is where you get closest to the horses and can watch trainers give last instructions to jockeys.
+Longchamp is worth arriving early for regardless of racing. The saddling paddock draws a thick ring of spectators before each race. This is where you get closest to the horses and can watch trainers give last instructions to jockeys.
 
 The grandstand itself, redesigned in 2018, is a long glass-and-steel structure with a rooftop terrace looking back toward the Eiffel Tower on a clear day. Between races, the lawns fill with picnic groups and champagne stands, and a giant screen replays each finish in slow motion for anyone who missed it live.
 
@@ -81,13 +81,13 @@ Fashion is part of the spectacle too, particularly on Arc day, when the crowd le
 
 ## How to visit like a local
 
-Racegoers who go every year treat Friday's trials card as the insider move — smaller crowds, easier transport, and a real look at the horses without the Saturday scrum.
+Racegoers who go every year treat Friday's trials card as the insider move, smaller crowds, easier transport, and a real look at the horses without the Saturday scrum.
 
 - Bet in cash or by card at the on-course pari-mutuel (PMU) windows; a small each-way bet on a name you like is standard practice, not just for serious punters
 - Arrive at least 90 minutes before the Arc's post time to walk the paddock and grab a rail spot along the home straight
-- Dress a notch smarter than you think you need to, especially in grandstand and hospitality areas — the Arc leans dressy
+- Dress a notch smarter than you think you need to, especially in grandstand and hospitality areas, the Arc leans dressy
 - Pack a light layer regardless of forecast; October afternoons at Longchamp turn cool once the sun drops behind the stands
-- Leave the park via Porte d'Auteuil rather than doubling back through the main entrance — it clears faster once the last race finishes
+- Leave the park via Porte d'Auteuil rather than doubling back through the main entrance, it clears faster once the last race finishes
 
-Whatever you do, don't wait until the last race to place a bet on the Arc itself — queues at the PMU windows peak in the twenty minutes before post time.
+Whatever you do, don't wait until the last race to place a bet on the Arc itself, queues at the PMU windows peak in the twenty minutes before post time.
 

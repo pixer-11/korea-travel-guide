@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-bukit-peninsula-uluwatu-avli
-srcHash: '7a861c6b51fa'
+srcHash: 'ba400f1cc78e'
 title: AVLI en Bali
 description: AVLI es un nuevo restaurante griego moderno de 700 m² ubicado en Jalan Labuansait, en Uluwatu, dentro de la Península de Bukit en Bali, la misma calle que conduce hacia las playas de surf y los clubes en los acantilados de Uluwatu.
 quickAnswer: En Jalan Labuansait, en Uluwatu, dentro de la Península de Bukit de Bali, encontramos AVLI, un nuevo restaurante griego moderno de 700 m² situado sobre la misma calle que lleva hacia las playas de surf y los clubes en los acantilados de la zona. Diseñado por el estudio de arquitectura DA Bureau, se distingue como una de las pocas propuestas dedicadas a la cocina mediterránea y griega dentro de la concurrida escena gastronómica de alta gama de Bali. Al tratarse de una apertura reciente, conviene confirmar antes de ir el horario vigente, el menú y si es necesario reservar.

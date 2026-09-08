@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-sen-den-restaurant
-srcHash: '4fe732239ea3'
+srcHash: 'aeb5c7c0c4f2'
 title: Restaurante Sen'den en Estambul
 description: Sen'den es un restaurante recién inaugurado en Karaköy, instalado en el restaurado Hovagimyan Han del siglo XIX, que combina la arquitectura histórica de la época otomana con una propuesta gastronómica moderna y refinada.
 quickAnswer: Sen'den es un restaurante recién inaugurado en Karaköy, instalado en el restaurado Hovagimyan Han del siglo XIX, que combina la arquitectura histórica de la época otomana con una propuesta gastronómica moderna y refinada. La mejor forma de disfrutarlo es por la noche, como parte de una salida por Karaköy, junto con las galerías, los bares y los cafés frente al Bósforo del barrio. Al tratarse de una apertura de 2026, conviene confirmar directamente con el restaurante los horarios vigentes, el menú y la política de reservas antes de acercarse.

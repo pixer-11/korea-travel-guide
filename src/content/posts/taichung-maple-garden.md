@@ -62,11 +62,11 @@ Maple Garden is Xitun District's green lung, a park built almost entirely around
 
 You come here to slow down. The paved trail loops the pond under a canopy that softens the Taichung heat, and benches face the water at intervals, positioned for exactly this kind of idling.
 
-It isn't a hidden find — this is one of the city's most-visited parks, and on weekend evenings it fills with joggers, families and dog walkers. Go anyway; it's popular for good reason.
+It isn't a hidden find. This is one of the city's most-visited parks, and on weekend evenings it fills with joggers, families and dog walkers. Go anyway; it's popular for good reason.
 
 ## Getting there
 
-The park sits at No. 30, Chaofu Road, Chaoyang Village, in Xitun District — a residential pocket of western Taichung. Taxis and rideshare apps handle it easily; just enter the Chaofu Road address.
+The park sits at No. 30, Chaofu Road, Chaoyang Village, in Xitun District, a residential pocket of western Taichung. Taxis and rideshare apps handle it easily; just enter the Chaofu Road address.
 
 If you're relying on public transit, Taichung's bus network is the practical option, since the park isn't near a rail line. Several city bus routes run along nearby Wenxin Road and Xitun Road, putting you within a 10–15 minute walk. Ask your hotel to confirm the current best route, since bus numbers do shift.
 
@@ -77,9 +77,9 @@ Driving in, you'll find street parking around the neighborhood, though it fills 
 The pond is the reason to visit, and it rewards a slow circuit rather than a quick glance.
 
 - Watch for turtles basking on rocks and logs near the pond's edges, especially in the mid-morning sun.
-- Look for herons and egrets stalking the shallows — early morning is the best window before foot traffic picks up.
+- Look for herons and egrets stalking the shallows, early morning is the best window before foot traffic picks up.
 - Walk the full nature trail loop rather than cutting through; the far side tends to be quieter.
-- Bring bread or approved feed only if locally permitted — check posted signage, as feeding rules at Taiwanese park ponds vary and change.
+- Bring bread or approved feed only if locally permitted. Check posted signage, as feeding rules at Taiwanese park ponds vary and change.
 
 Beyond the water, the park has open lawns and shaded seating areas that fill with local families on weekend afternoons, badminton games, and the occasional tai chi group at dawn. It's a park built for lingering, not for ticking off sights, so plan on 45 minutes to an hour and a half depending on how much of the loop you walk.
 
@@ -93,12 +93,12 @@ Midday in Taichung can be brutally hot for much of the year, and the park offers
 
 ## How to visit like a local
 
-Locals treat Maple Garden as a daily routine, not a destination — a place for a morning walk before work or an evening stroll after dinner, not an all-day outing.
+Locals treat Maple Garden as a daily routine, not a destination, a place for a morning walk before work or an evening stroll after dinner, not an all-day outing.
 
 - Go early or on a weekday afternoon; weekend evenings draw the heaviest foot traffic and this is a genuinely well-visited park, not a quiet secret.
-- No entry fee and nothing to book — just walk in, any hour, any day.
+- No entry fee and nothing to book, just walk in, any hour, any day.
 - Wear proper walking shoes; the loop is longer than it looks from the entrance.
 - Keep to the right on the trail, as with most Taiwanese parks, since cyclists and joggers share the same path.
-- Carry water in summer — shade is inconsistent, and Taichung afternoons run hot and humid for much of the year.
+- Carry water in summer, shade is inconsistent, and Taichung afternoons run hot and humid for much of the year.
 - The tourist mistake is treating it as a quick photo stop; the real appeal is walking the entire loop slowly enough to actually spot the turtles and birds.
 

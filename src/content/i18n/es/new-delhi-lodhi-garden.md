@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-lodhi-garden
-srcHash: 'ce121b09851c'
+srcHash: 'dd9a899ad78d'
 title: 'Jardín de Lodhi: Guía de Viaje de Nueva Delhi (4.5★)'
 description: 'El Jardín de Lodhi es un parque de 90 acres en el centro de Delhi salpicado de tumbas de los siglos XV y XVI de las dinastías Sayyid y Lodhi. Lo mejor es visitarlo justo al abrir (5:00-8:00) para evitar el calor y las multitudes. 4.5★ (57,928 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín de Lodhi es un parque de 90 acres en el centro de Delhi salpicado de tumbas de los siglos XV y XVI de las dinastías Sayyid y Lodhi. Lo mejor es visitarlo justo al abrir (5:00-8:00) para evitar el calor y las multitudes. Abre todos los días de 5:00 a 20:00 y la entrada es gratuita. Entre semana, el momento más tranquilo es de 7:00 a 10:00; los fines de semana el parque se llena rápido después de la 1:00 p.m., así que conviene planear una visita temprana.

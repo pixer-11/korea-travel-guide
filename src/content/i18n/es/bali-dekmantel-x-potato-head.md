@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-dekmantel-x-potato-head
-srcHash: 'f5ee0b4a780e'
+srcHash: '1b54f93999ca'
 title: 'Dekmantel x Potato Head: fechas, entradas y sede (Bali)'
 description: Dekmantel x Potato Head en Bali, Indonesia — 25 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: Dekmantel x Potato Head se celebra en Desa Potato Head, en Seminyak (Bali), y la edición de 2026 tendrá lugar el 25 de septiembre. El evento ocupa el escenario del Beach Club, en la playa de Petitenget, y reúne a un público internacional para sesiones de deep house y techno que se extienden desde el atardecer hasta bien entrada la noche. Antes de reservar, conviene confirmar horarios, cartel y entradas en las webs oficiales de Dekmantel y Desa Potato Head.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-thean-hou-temple
-srcHash: '3e047926b7b9'
+srcHash: 'b4d6279523c0'
 title: 'Templo Thean Hou: guía de viaje de Kuala Lumpur (4,6★)'
 description: 'El templo Thean Hou es un templo budista-taoísta de seis niveles situado en Robson Heights, abierto todos los días de 8:00 a 20:00. Conviene visitarlo entre semana o justo a las 8:00 los fines de semana, antes de que llegue la ola de visitantes de 10:00 a 20:00. 4,6★ (16.734 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Thean Hou es un templo budista-taoísta de seis niveles situado en Robson Heights, abierto todos los días de 8:00 a 20:00. Conviene visitarlo entre semana o justo a las 8:00 los fines de semana, antes de que llegue la ola de visitantes de 10:00 a 20:00. Calcule entre 45 y 90 minutos para recorrer el salón de oraciones, las terrazas y disfrutar de las vistas de la ciudad. La entrada es gratuita, aunque se esperan pequeños donativos en los altares.

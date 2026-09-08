@@ -83,7 +83,7 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-Sultan Mosque (Masjid Sultan) is the spiritual and visual centerpiece of Kampong Glam, Singapore's historic Malay-Muslim quarter. Its golden domes, ringed at the base with thousands of glass bottle-ends donated by poorer members of the congregation in the 1930s, make it one of the most photographed religious buildings in the city. The current structure dates to 1932, designed by Denis Santry of Swan & Maclaren in an Indo-Saracenic style, replacing an earlier 1824 mosque commissioned by Sultan Hussain Shah after Raffles' 1819 treaty settled the Malay royal family in this district. With a 4.7 rating across nearly 14,000 reviews, it's firmly on the must-see list for Singapore — expect company.
+Sultan Mosque (Masjid Sultan) is the spiritual and visual centerpiece of Kampong Glam, Singapore's historic Malay-Muslim quarter. Its golden domes, ringed at the base with thousands of glass bottle-ends donated by poorer members of the congregation in the 1930s, make it one of the most photographed religious buildings in the city. The current structure dates to 1932, designed by Denis Santry of Swan & Maclaren in an Indo-Saracenic style, replacing an earlier 1824 mosque commissioned by Sultan Hussain Shah after Raffles' 1819 treaty settled the Malay royal family in this district. With a 4.7 rating across nearly 14,000 reviews, it's firmly on the must-see list for Singapore. Expect company.
 
 ## Getting there
 
@@ -95,20 +95,20 @@ Multiple SBS Transit bus services run along Victoria Street and Beach Road, both
 
 The prayer hall itself is closed to non-Muslim visitors during prayer times, but the mosque permits guided and self-guided visits outside those windows, with volunteers often on hand near the entrance to answer questions. Look for the onion domes, the grand staircase, and the mix of Persian, Turkish, and Moorish architectural details layered onto the Indo-Saracenic frame. The surrounding courtyard and covered walkways are worth lingering in even if you don't go inside.
 
-Just beyond the mosque, Bussorah Street offers a pedestrian promenade with cafes and shops that frames the building nicely for photos, especially looking back from the far end toward the domes. Round out the visit with a walk through the Malay Heritage Centre (in the former Istana Kampong Glam palace grounds), Arab Street's textile and carpet shops, and Haji Lane's boutiques and street art — all within a five-minute walk.
+Just beyond the mosque, Bussorah Street offers a pedestrian promenade with cafes and shops that frames the building nicely for photos, especially looking back from the far end toward the domes. Round out the visit with a walk through the Malay Heritage Centre (in the former Istana Kampong Glam palace grounds), Arab Street's textile and carpet shops, and Haji Lane's boutiques and street art, all within a five-minute walk.
 
 ## When to go
 
-Weekday mornings shortly after opening tend to be calmest, before tour groups and weekend crowds arrive. Fridays are the busiest day of the week by far, since Friday (Jumu'ah) prayers draw large congregations at midday — non-Muslim sightseeing is best avoided for an hour or two around noon on Fridays. During Ramadan, the mosque and surrounding streets take on a different, livelier character in the evenings as the fasting month's night bazaars fill nearby Kampong Glam, though daytime visiting hours may be more restricted. Late afternoon light also flatters the domes for photography, roughly an hour or two before sunset.
+Weekday mornings shortly after opening tend to be calmest, before tour groups and weekend crowds arrive. Fridays are the busiest day of the week by far, since Friday (Jumu'ah) prayers draw large congregations at midday, non-Muslim sightseeing is best avoided for an hour or two around noon on Fridays. During Ramadan, the mosque and surrounding streets take on a different, livelier character in the evenings as the fasting month's night bazaars fill nearby Kampong Glam, though daytime visiting hours may be more restricted. Late afternoon light also flatters the domes for photography, roughly an hour or two before sunset.
 
 ## How to visit like a local
 
-This is a working mosque first and an attraction second, so the etiquette matters more than at a typical sight. Dress modestly — shoulders and knees covered — and expect that robes or sarongs are lent free at the entrance for anyone underdressed; return them where you picked them up. Shoes come off before entering carpeted prayer areas. Keep voices low, avoid pointing feet toward the qibla direction, and ask before photographing worshippers up close.
+This is a working mosque first and an attraction second, so the etiquette matters more than at a typical sight. Dress modestly, shoulders and knees covered, and expect that robes or sarongs are lent free at the entrance for anyone underdressed; return them where you picked them up. Shoes come off before entering carpeted prayer areas. Keep voices low, avoid pointing feet toward the qibla direction, and ask before photographing worshippers up close.
 
 Given the very high visitor volume here, the single biggest local-savvy move is timing: come early on a weekday, not midday and not Friday, if you want space to actually look rather than shuffle through with a tour group. There's no general entry fee at time of writing, though donations are welcomed and appreciated; confirm current visiting hours and any tour schedule with signage at the entrance, since these shift around prayer times and religious holidays.
 
-Cash is useful for small donations or nearby hawker stalls, though most shops on Arab Street and Haji Lane now take cards. Don't make the common tourist mistake of treating the courtyard like a generic photo backdrop — a brief pause to read the posted information on the mosque's history goes a long way toward understanding why this particular building, more than any other in Singapore, still functions as the anchor of an entire heritage district.
+Cash is useful for small donations or nearby hawker stalls, though most shops on Arab Street and Haji Lane now take cards. Don't make the common tourist mistake of treating the courtyard like a generic photo backdrop, a brief pause to read the posted information on the mosque's history goes a long way toward understanding why this particular building, more than any other in Singapore, still functions as the anchor of an entire heritage district.
 
 ## Nearby stops worth combining
 
-Pair the mosque with the Malay Heritage Centre, Sultan Plaza's textile shops, and a coffee stop on Bussorah Street — together they make a comfortable half-day loop through Kampong Glam without needing transit in between.
+Pair the mosque with the Malay Heritage Centre, Sultan Plaza's textile shops, and a coffee stop on Bussorah Street, together they make a comfortable half-day loop through Kampong Glam without needing transit in between.

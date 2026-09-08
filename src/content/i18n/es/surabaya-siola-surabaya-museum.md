@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: surabaya-siola-surabaya-museum
-srcHash: '9a7e9e4fbc14'
+srcHash: 'a6660a9cbf7e'
 title: 'Museo Siola de Surabaya: Guía de viaje (4,6★)'
 description: 'El Museo Siola de Surabaya se encuentra en plena Jl. Tunjungan, en el distrito de Genteng, en pleno centro de Surabaya, dentro de un edificio restaurado de 1877 que fue unos grandes almacenes de la época holandesa. 4,6★ (8.306 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Siola de Surabaya se encuentra en plena Jl. Tunjungan, en el distrito de Genteng, en pleno centro de Surabaya, dentro de un edificio restaurado de 1877 que fue unos grandes almacenes de la época holandesa. Abre de martes a domingo, de 8:00 a 15:00, permanece cerrado los lunes y la entrada suele ser gratuita. Los fines de semana se llena entre las 10:00 y el mediodía, así que conviene ir entre las 13:00 y las 15:00 si se quieren visitar las salas con tranquilidad.

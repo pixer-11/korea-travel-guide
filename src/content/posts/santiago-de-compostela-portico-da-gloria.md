@@ -70,7 +70,7 @@ draft: false
 
 Before you even reach the cathedral's main altar, you pass through its real masterpiece. The Pórtico da Gloria is the original west entrance, carved between 1168 and 1188 by Master Mateo and his workshop.
 
-It's not a side chapel or an afterthought — this is the medieval front door of Santiago Cathedral, the point where centuries of pilgrims first stepped inside. Nearly 200 figures crowd its three arches: prophets, elders, angels, and Christ in majesty above them all.
+It's not a side chapel or an afterthought. This is the medieval front door of Santiago Cathedral, the point where centuries of pilgrims first stepped inside. Nearly 200 figures crowd its three arches: prophets, elders, angels, and Christ in majesty above them all.
 
 Unlike a lot of Romanesque church sculpture, these figures still have traces of their original paint. Faint reds, blues, and ochres cling to the stone if you look closely, a rare survival that makes the whole thing feel less like ruin and more like a paused moment.
 
@@ -80,13 +80,13 @@ Stand at the central arch and look up. Christ sits surrounded by the four evange
 
 Below him, on the trumeau column, is the seated figure of Saint James himself, welcoming arrivals the way he's done for pilgrims for over 800 years. Tradition holds that touching the base of this column brought good luck, and centuries of hands wore visible grooves into the marble.
 
-On the reverse side of that same column, look for the crouching figure known as Master Mateo — long thought to be a self-portrait of the sculptor. Locals still nod to the old custom of knocking your forehead gently against his to "borrow" some of his wisdom, though conservation rules now keep visitors from touching the stone directly.
+On the reverse side of that same column, look for the crouching figure known as Master Mateo, long thought to be a self-portrait of the sculptor. Locals still nod to the old custom of knocking your forehead gently against his to "borrow" some of his wisdom, though conservation rules now keep visitors from touching the stone directly.
 
 ## Getting there
 
 The Pórtico sits inside Santiago de Compostela Cathedral, on Praza do Obradoiro, the grand square that anchors the old town. If you've walked any stretch of the Camino de Santiago, this square is the finish line, and the Pórtico is what greets you at the end of it.
 
-Everything in Santiago's historic center is walkable — the cathedral is the hub the whole old town radiates from. From the train or bus station, it's roughly a 20–25 minute walk uphill, or a short taxi ride if you're arriving with a full pack.
+Everything in Santiago's historic center is walkable. The cathedral is the hub the whole old town radiates from. From the train or bus station, it's roughly a 20–25 minute walk uphill, or a short taxi ride if you're arriving with a full pack.
 
 ## When to go
 
@@ -100,10 +100,10 @@ Midday can bring tour groups moving through in waves, so if your schedule is fle
 
 This is a working cathedral, not a museum piece behind glass, so treat it with the same quiet you'd bring to any active place of worship.
 
-- Keep voices low — the portico sits just inside the entrance, and sound carries in the stone nave.
+- Keep voices low. The portico sits just inside the entrance, and sound carries in the stone nave.
 - Dress modestly: covered shoulders and no beachwear, standard for Spanish cathedrals.
 - Skip the old habit of touching the carvings; conservation efforts have made this off-limits in recent years.
-- Consider a guided tour or audio guide — the density of figures rewards context you won't get from a passing glance.
+- Consider a guided tour or audio guide, the density of figures rewards context you won't get from a passing glance.
 - Photography is generally fine without flash, but check posted signage on entry, as rules can shift during restoration work.
 
 Because this spot still counts as under-the-radar compared to the cathedral's main altar and the Praza do Obradoiro outside, you can often get a genuinely unhurried few minutes here even when the square outside is busy. Time it for that early weekday slot and you may have long stretches of the carvings nearly to yourself.

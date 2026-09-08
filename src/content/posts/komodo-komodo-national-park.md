@@ -96,11 +96,11 @@ updatedDate: '2026-09-07'
 
 Nowhere else on Earth do Komodo dragons roam wild except this cluster of volcanic islands. You come for the dragons, but you stay for the scenery: pink-tinged beaches, turquoise bays, and hills that turn the color of toasted bread by late afternoon.
 
-The park spans over 1,700 square kilometers of land and sea, so this isn't a quick stop. It's a whole ecosystem — savanna, mangrove, coral reef — built around protecting a species found nowhere else.
+The park spans over 1,700 square kilometers of land and sea, so this isn't a quick stop. It's a whole ecosystem (savanna, mangrove, coral reef) built around protecting a species found nowhere else.
 
 ## Getting there
 
-Everyone starts in Labuan Bajo, the gateway town on Flores, reachable by direct flights from Bali or Jakarta. From the harbor, boats head out to the park's main islands — Komodo, Rinca, and Padar — usually as day trips or multi-day liveaboards.
+Everyone starts in Labuan Bajo, the gateway town on Flores, reachable by direct flights from Bali or Jakarta. From the harbor, boats head out to the park's main islands (Komodo, Rinca, and Padar) usually as day trips or multi-day liveaboards.
 
 Rinca is closer and often less crowded than Komodo Island itself, though both host dragons. Most visitors book through a tour operator rather than arranging boats independently, since park permits and ranger guides are required by law.
 
@@ -112,20 +112,20 @@ The dragons are the headline, but they're not the whole story. Rangers walk you 
 
 Beyond the dragons:
 
-- **Padar Island** — the three-bay viewpoint hike, roughly 20-30 minutes uphill, is the most photographed spot in the park
-- **Pink Beach** — sand tinted rose-red from crushed red coral, with easy snorkeling right off shore
-- **Manta Point** — seasonal manta ray sightings, best arranged as an add-on dive stop
-- **Rinca Island** — a quieter dragon-viewing alternative to Komodo Island itself
+- **Padar Island**, the three-bay viewpoint hike, roughly 20-30 minutes uphill, is the most photographed spot in the park
+- **Pink Beach**, sand tinted rose-red from crushed red coral, with easy snorkeling right off shore
+- **Manta Point**, seasonal manta ray sightings, best arranged as an add-on dive stop
+- **Rinca Island**, a quieter dragon-viewing alternative to Komodo Island itself
 
-Snorkeling and diving here rank among the best in Indonesia — expect reef sharks, turtles, and dense coral gardens in warm, clear water.
+Snorkeling and diving here rank among the best in Indonesia. Expect reef sharks, turtles, and dense coral gardens in warm, clear water.
 
 ## When to go
 
-The dry season, roughly April through December, is the reliable window — trails are passable and seas are calmer for boat crossings. January through March brings heavier rain and rougher water, which can cancel or delay boat departures.
+The dry season, roughly April through December, is the reliable window, trails are passable and seas are calmer for boat crossings. January through March brings heavier rain and rougher water, which can cancel or delay boat departures.
 
 Weekends are the busiest stretch, especially from 9am to 7pm, when boat traffic into the park peaks. If your schedule allows a weekday visit, the calmest window tends to fall around 3pm-4pm, well after the morning tour rush has moved on.
 
-Early morning departures — leaving Labuan Bajo before 7am — also help you reach the trails ahead of the main crowd and the worst of the heat.
+Early morning departures, leaving Labuan Bajo before 7am, also help you reach the trails ahead of the main crowd and the worst of the heat.
 
 ## How to visit like a local
 
@@ -133,10 +133,10 @@ This is a very-popular park, so the smart move is timing, not avoidance. Book yo
 
 A few practical habits that make the visit smoother:
 
-- Pay park entrance and guide fees in Indonesian rupiah — cash is still king on the boats and at ranger stations
+- Pay park entrance and guide fees in Indonesian rupiah, cash is still king on the boats and at ranger stations
 - Tip your boat crew and ranger guide directly; it's expected and appreciated, though not obligatory
-- Wear closed shoes on Rinca and Komodo treks — flip-flops aren't allowed on dragon trails
+- Wear closed shoes on Rinca and Komodo treks, flip-flops aren't allowed on dragon trails
 - Keep at least 5 meters from any dragon at all times; rangers carry forked sticks for a reason
-- Skip the souvenir stalls' opening prices — light bargaining is normal and expected
+- Skip the souvenir stalls' opening prices, light bargaining is normal and expected
 
 The mistake most first-timers make is booking only a single rushed day trip. Padar's viewpoint, Pink Beach, and a proper dragon trek genuinely need two days to enjoy without sprinting between boats.

@@ -53,7 +53,7 @@ aiGenerated: true
 
 ## Why bother with a clothing chain in Gangneung
 
-You don't come to Gangneung for retail therapy — you come for Anmok Beach sunrises and coffee. But TOPTEN earns a spot on a trendy itinerary precisely because it's unglamorous and useful.
+You don't come to Gangneung for retail therapy, you come for Anmok Beach sunrises and coffee. But TOPTEN earns a spot on a trendy itinerary precisely because it's unglamorous and useful.
 
 It's a Korean fast-fashion staple, the kind of store where a forgotten hoodie or a size-mismatched pair of socks gets solved in ten minutes flat.
 
@@ -61,16 +61,16 @@ It's a Korean fast-fashion staple, the kind of store where a forgotten hoodie or
 
 TOPTEN sits on Seongdeokponam-ro, in the Ponam 1-dong neighborhood of Gangneung-si. This is a residential pocket of the city, away from the beachfront strip and the old downtown market area.
 
-You'll likely arrive by taxi or on foot if you're staying nearby — it's not positioned as a tourist-zone stop, so there's no dedicated shuttle or subway link (Gangneung doesn't have a metro system at all; intercity buses and the KTX station handle the heavy lifting).
+You'll likely arrive by taxi or on foot if you're staying nearby. It's not positioned as a tourist-zone stop, so there's no dedicated shuttle or subway link (Gangneung doesn't have a metro system at all; intercity buses and the KTX station handle the heavy lifting).
 
 Punch the address into a map app and treat this as a functional errand stop woven into a longer day of wandering Ponam-dong's quieter streets.
 
 ## What you'll find inside
 
-Expect the standard TOPTEN formula: racks of basic tees, fleece pullovers, denim, and seasonal outerwear in muted, wearable colors. Nothing designer, nothing precious — this is affordable everyday clothing built for turnover.
+Expect the standard TOPTEN formula: racks of basic tees, fleece pullovers, denim, and seasonal outerwear in muted, wearable colors. Nothing designer, nothing precious. This is affordable everyday clothing built for turnover.
 
 - Layering basics (long sleeves, thermal wear in colder months)
-- Outerwear — useful if the East Sea wind catches you off guard
+- Outerwear, useful if the East Sea wind catches you off guard
 - Socks, underwear, and other "oh no I forgot" essentials
 - Casual denim and sweats in standard Korean sizing
 
@@ -78,27 +78,27 @@ The store carries a solid 4.3-star reputation among the people who've actually s
 
 ## When to go
 
-There's no posted rush hour here — this isn't a place with lines out the door. TOPTEN opens at 11am and stays open until 10pm every day of the week, which gives you a wide window.
+There's no posted rush hour here. This isn't a place with lines out the door. TOPTEN opens at 11am and stays open until 10pm every day of the week, which gives you a wide window.
 
 Late morning right after opening tends to be calmest, before local shoppers swing through after lunch or work. Evenings after 7pm can pick up slightly as people run errands on their way home.
 
-Since it's flagged as an under-the-radar spot rather than a hyped destination, you won't be fighting crowds at any hour — just use common sense and avoid the dinner-hour crush if you want the fitting area free.
+Since it's flagged as an under-the-radar spot rather than a hyped destination, you won't be fighting crowds at any hour, just use common sense and avoid the dinner-hour crush if you want the fitting area free.
 
 ## What's nearby
 
-Ponam-dong isn't packed with headline attractions, which is part of the appeal — it's real, lived-in Gangneung rather than a curated tourist strip.
+Ponam-dong isn't packed with headline attractions, which is part of the appeal. It's real, lived-in Gangneung rather than a curated tourist strip.
 
 Use TOPTEN as a waypoint rather than a destination: swing by if you're already in the neighborhood, then continue toward the coastal cafe strip near Anmok Beach or the Ojukheon House and Gangneung's historic sites, both a short taxi ride away.
 
 ## How to visit like a local
 
-Koreans shop fast-fashion chains like TOPTEN the way anyone runs a practical errand — no ceremony, no lingering. Follow that energy.
+Koreans shop fast-fashion chains like TOPTEN the way anyone runs a practical errand, no ceremony, no lingering. Follow that energy.
 
 - **Pay by card.** Cash is accepted but nearly everyone taps a card or phone; it's faster and expected.
 - **No bargaining, no tipping.** Prices are fixed and tipping isn't part of Korean retail culture at all.
-- **Check sizing carefully.** Korean sizing runs smaller than US/EU standards — sizes are usually labeled in Korean numeric or S/M/L format, so try before you commit if you're unsure.
-- **Skip the small talk.** Staff are helpful if flagged down but won't hover — browsing solo is completely normal and expected.
-- **The local mistake:** treating this like a boutique to browse leisurely. It's a fast, functional stop — locals are in and out in minutes, and you should be too, saving your lingering time for the beach cafes.
+- **Check sizing carefully.** Korean sizing runs smaller than US/EU standards, sizes are usually labeled in Korean numeric or S/M/L format, so try before you commit if you're unsure.
+- **Skip the small talk.** Staff are helpful if flagged down but won't hover, browsing solo is completely normal and expected.
+- **The local mistake:** treating this like a boutique to browse leisurely. It's a fast, functional stop, locals are in and out in minutes, and you should be too, saving your lingering time for the beach cafes.
 
-Since it's not a place locals specifically seek out, there's no real crowd pattern to game — just walk in whenever your day brings you past it.
+Since it's not a place locals specifically seek out, there's no real crowd pattern to game, just walk in whenever your day brings you past it.
 

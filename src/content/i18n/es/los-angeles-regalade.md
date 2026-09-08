@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-regalade
-srcHash: '59a5e9e35948'
+srcHash: '4541784b568b'
 title: 'Régalade: guía de viaje de Los Ángeles'
 description: 'Régalade, en Los Ángeles, Estados Unidos: qué es, dónde está y cómo visitar este local nuevo que ya da de qué hablar.'
 quickAnswer: Régalade es un bistró nuevo de estilo parisino en Beverly Grove, obra del equipo que está detrás de Oste, el conocido restaurante italiano cercano, y sirve cocina francesa clásica y sin pretensiones tanto para el almuerzo como para la cena. El público del cercano West Hollywood ya lo ha convertido en uno de los sitios de moda, así que conviene reservar con antelación y confirmar el horario vigente antes de ir, ya que todavía está afinando los detalles propios de una apertura reciente.

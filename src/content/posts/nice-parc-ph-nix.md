@@ -79,9 +79,9 @@ If you're coming from the Old Town or Promenade du Paillon, the tram ride takes 
 
 ## What to see and do
 
-The centerpiece is the glasshouse — one of Europe's largest, a steel-and-glass greenhouse holding a dense wall of tropical plants, waterfalls and a humid, earthy smell that hits you immediately. Give it a solid 20–30 minutes just to circle the walkways.
+The centerpiece is the glasshouse, one of Europe's largest, a steel-and-glass greenhouse holding a dense wall of tropical plants, waterfalls and a humid, earthy smell that hits you immediately. Give it a solid 20–30 minutes just to circle the walkways.
 
-Outside, the paths loop past themed gardens — Mediterranean, exotic, medicinal — punctuated by animal habitats.
+Outside, the paths loop past themed gardens (Mediterranean, exotic, medicinal) punctuated by animal habitats.
 
 Don't skip:
 
@@ -104,13 +104,13 @@ Spring and early summer bring the gardens into fuller bloom, while midday in Jul
 
 Parc Phœnix is genuinely popular with both residents and visitors, so the smart move is timing, not secrecy. Weekday mornings or the 9:30–10am weekend slot are your best shot at quiet paths and unobstructed views of the animal habitats.
 
-Entry to the gardens and zoo areas is typically free, though the glasshouse and some special exhibits can carry a small separate charge — confirm current pricing at the gate before you go, since it does shift.
+Entry to the gardens and zoo areas is typically free, though the glasshouse and some special exhibits can carry a small separate charge, confirm current pricing at the gate before you go, since it does shift.
 
 Most visitors pay by card at ticket points, but it's worth carrying some cash for the on-site kiosks and vending machines, which aren't always card-friendly.
 
-Locals tend to treat this as a place for a slow morning walk rather than a rushed sightseeing stop — bring a water bottle, wear shoes comfortable enough for a couple of kilometers of paths, and resist the urge to just do the glasshouse and leave.
+Locals tend to treat this as a place for a slow morning walk rather than a rushed sightseeing stop. Bring a water bottle, wear shoes comfortable enough for a couple of kilometers of paths, and resist the urge to just do the glasshouse and leave.
 
-The mistake most first-timers make is treating it purely as a "quick zoo stop" between beach time — the botanical side rewards lingering, especially in the themed garden sections that get skipped if you're moving fast.
+The mistake most first-timers make is treating it purely as a "quick zoo stop" between beach time, the botanical side rewards lingering, especially in the themed garden sections that get skipped if you're moving fast.
 
 Check the current opening hours online before visiting, since seasonal adjustments do happen around holidays.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-ive-world-tour-2026-show-what-i-am-taipei
-srcHash: '16423356a91f'
+srcHash: '09948e6d9ba9'
 title: 'IVE World Tour 2026 "SHOW WHAT I AM" – Taipéi: lo que debes saber (Taipéi)'
 description: IVE World Tour 2026 "SHOW WHAT I AM" – Taipéi, en Taipéi, Taiwán — del 11 al 13 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizarte alrededor del evento.
 quickAnswer: IVE lleva su SHOW WHAT I AM World Tour al Taipei Arena durante tres noches, del 11 al 13 de septiembre de 2026. Se espera un show de arena centrado en "After Like", "Love Dive" y temas más recientes de su EP, con decenas de miles de fans convergiendo en el recinto del distrito de Songshan cada noche. Los detalles de venta de entradas, la hora exacta de apertura de puertas y el setlist definitivo aún no se han confirmado oficialmente más allá de las fechas — comprueba siempre los canales oficiales de la gira y de venta de entradas antes de reservar vuelos u hoteles.

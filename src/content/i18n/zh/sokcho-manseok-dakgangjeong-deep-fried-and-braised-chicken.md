@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken
-srcHash: '12c138e70d3f'
+srcHash: '9a634f1dae4e'
 title: 万石辣炒鸡（Manseok Dakgangjeong）：束草美食推荐——先炸后裹酱的鸡肉料理
 description: 万石辣炒鸡是束草当地的招牌名店，专做那种一口一块、裹满甜辣蒜香酱汁的炸鸡（dakgangjeong）,店就在束草青草湖（Cheongchoho）湖区附近。
 quickAnswer: 万石辣炒鸡是束草当地的招牌名店，专做那种一口一块、裹满甜辣蒜香酱汁的炸鸡（dakgangjeong）,店就在束草青草湖（Cheongchoho）湖区附近。这里氛围随性，价格适中（消费等级2）,评分约4.0,评价数超过2300条，用餐高峰期需要排队等位。建议点一整份大家一起分着吃，拿不定主意的话可以要求"一半微辣、一半原味",配米饭当正餐，或者当作下酒菜（安酒）配冰啤酒也很不错。

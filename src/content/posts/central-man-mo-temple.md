@@ -75,7 +75,7 @@ updatedDate: '2026-08-30'
 
 You smell Man Mo Temple before you see it. Sandalwood smoke drifts out onto Hollywood Road, thick enough to catch in your throat on a still morning.
 
-Step through the door and the daylight vanishes. Dozens of huge incense spirals hang from the ceiling like inverted funnel clouds, each one tagged with a paper wish, slowly burning down over weeks. The result is genuinely disorienting — one of the few interiors in Sheung Wan that still feels like it belongs to the 1800s, not the glass towers outside.
+Step through the door and the daylight vanishes. Dozens of huge incense spirals hang from the ceiling like inverted funnel clouds, each one tagged with a paper wish, slowly burning down over weeks. The result is genuinely disorienting, one of the few interiors in Sheung Wan that still feels like it belongs to the 1800s, not the glass towers outside.
 
 Built in the 1840s, this is one of Hong Kong Island's oldest and most atmospheric temples, dedicated jointly to Man Cheong, the god of literature, and Mo Tai, the god of war.
 
@@ -85,12 +85,12 @@ The layout is simple: three connected halls, a courtyard, and two brass deer sta
 
 Look for these details as you move through:
 
-- The two main altars — Man on one side, Mo on the other, both flanked by smaller shrines to lesser deities
+- The two main altars, Man on one side, Mo on the other, both flanked by smaller shrines to lesser deities
 - A pair of antique sedan chairs once used to carry the temple's statues during festivals, sitting to one side largely ignored by rushing visitors
 - Blackened rafters and beams, coated decades-thick in incense soot
 - Coiled incense spirals overhead, each one purchased by a worshipper and inscribed with a name or wish
 
-Bring a wide-angle lens or just your phone's ultrawide setting if you want the spirals in one frame — the ceiling is low and the space is tighter than photos suggest.
+Bring a wide-angle lens or just your phone's ultrawide setting if you want the spirals in one frame. The ceiling is low and the space is tighter than photos suggest.
 
 ## Getting there
 
@@ -115,10 +115,10 @@ This is a working place of worship first, an attraction second, so a few habits 
 - Keep your voice low and don't step directly in front of anyone who's bowing or lighting incense
 - A small donation (a few Hong Kong dollars in the collection box) is customary if you take photos or simply want to be respectful, though entry itself is free
 - Photography is generally tolerated in the main hall, but avoid using flash near worshippers or altars
-- Skip weekend late-mornings if you can — that 11am–4pm stretch is when it feels most crowded and least contemplative
+- Skip weekend late-mornings if you can, that 11am–4pm stretch is when it feels most crowded and least contemplative
 - The biggest mistake visitors make is treating it as a five-minute photo stop; slow down, let your eyes adjust to the dim light, and the smoke-and-spiral atmosphere reveals itself gradually
 
-Because Man Mo Temple draws heavy year-round foot traffic, don't expect a quiet, undiscovered corner of the city — it's firmly on the well-trodden path, and rightly so. The trick isn't finding it empty, it's timing your visit around the hours when it thins out.
+Because Man Mo Temple draws heavy year-round foot traffic, don't expect a quiet, undiscovered corner of the city. It's firmly on the well-trodden path, and rightly so. The trick isn't finding it empty, it's timing your visit around the hours when it thins out.
 
 ## Nearby to combine with your visit
 

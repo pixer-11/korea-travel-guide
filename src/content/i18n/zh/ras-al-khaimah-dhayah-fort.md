@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ras-al-khaimah-dhayah-fort
-srcHash: 'aa102e3f044b'
+srcHash: '35709466d4c8'
 title: 达耶堡：哈伊马角旅行指南
 description: 达耶堡（Dhayah Fort）坐落在拉姆斯（Ar Rams）附近的一座石丘上，距哈伊马角市区以北约30分钟车程，是阿联酋境内唯一现存的山地堡垒。
 quickAnswer: 达耶堡（Dhayah Fort）坐落在拉姆斯（Ar Rams）附近的一座石丘上，距哈伊马角市区以北约30分钟车程，是阿联酋境内唯一现存的山地堡垒。建议在傍晚前往，穿上适合攀登陡峭石阶的鞋子，并预留30-45分钟登顶时间，欣赏哈伊马角潟湖与哈杰尔山脉（Hajar Mountains）的美景。

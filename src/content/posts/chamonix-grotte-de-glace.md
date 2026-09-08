@@ -82,30 +82,30 @@ From Montenvers, a cable car (the Télécabine Panoramic Mer de Glace) drops you
 
 - Take the train from Chamonix's Gare du Montenvers, near the main train station
 - Allow 2.5–4 hours round-trip including the walk and cave visit
-- Wear proper shoes — the stairways can be several hundred steps and can be slippery
+- Wear proper shoes. The stairways can be several hundred steps and can be slippery
 
 ## What to see inside
 
-Inside, the cave splits into a few chambers filled with sculpted ice furniture, animals, and figures lit in blue and violet. History panels along the walls explain how the glacier has retreated over the decades — a sobering, visible timeline etched right into the ice itself.
+Inside, the cave splits into a few chambers filled with sculpted ice furniture, animals, and figures lit in blue and violet. History panels along the walls explain how the glacier has retreated over the decades, a sobering, visible timeline etched right into the ice itself.
 
 The temperature inside hovers just above freezing year-round, a sharp contrast if you've climbed up on a warm July day. Give yourself 20–30 minutes inside; it's not large, but the detail in the carving rewards a slow look.
 
 ## When to go
 
-The cave is generally open from spring through autumn, since the tunnel has to be re-cut each year as the glacier shifts and melts — always confirm current opening dates before you plan a trip, as these vary annually with ice conditions.
+The cave is generally open from spring through autumn, since the tunnel has to be re-cut each year as the glacier shifts and melts, always confirm current opening dates before you plan a trip, as these vary annually with ice conditions.
 
 Midsummer brings the thickest crowds, especially on the train and cable car. Early morning departures, or a visit in late spring or September, tend to mean shorter queues and softer light for photos.
 
 ## How to visit like a local
 
-Buy your Montenvers train ticket in advance where possible — same-day tickets can sell out on clear summer days when everyone wants the view. Chamonix locals treat this as a half-day outing squeezed in before or after other valley activities, not an all-day event.
+Buy your Montenvers train ticket in advance where possible, same-day tickets can sell out on clear summer days when everyone wants the view. Chamonix locals treat this as a half-day outing squeezed in before or after other valley activities, not an all-day event.
 
 - Go on the first or second train of the day to beat tour groups
-- Carry a fleece or jacket even in August — the glacier surface is windy and the cave itself is near-freezing
-- Pay for train, cable car, and cave entry either together as a combined ticket or separately at the counter — check current pricing structures before you go, as they change season to season
+- Carry a fleece or jacket even in August. The glacier surface is windy and the cave itself is near-freezing
+- Pay for train, cable car, and cave entry either together as a combined ticket or separately at the counter. Check current pricing structures before you go, as they change season to season
 - Don't rush the walkways; the stairs down to the glacier surface are the tiring part, not the cave
 
-Because it's well-known and firmly on the Chamonix itinerary circuit, you won't find it quiet in peak season. The workaround locals use is timing, not secrecy — first departures, shoulder months, and weekdays over weekends.
+Because it's well-known and firmly on the Chamonix itinerary circuit, you won't find it quiet in peak season. The workaround locals use is timing, not secrecy, first departures, shoulder months, and weekdays over weekends.
 
 ## Nearby to combine with
 

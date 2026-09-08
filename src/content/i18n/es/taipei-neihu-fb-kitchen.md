@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-neihu-fb-kitchen
-srcHash: 'a68840ae1b1b'
+srcHash: '0e062eb56f1c'
 title: FB Kitchen en Taipéi
 description: FB Kitchen es el comedor del Formosa Plastics Group en Neihu, Taipéi, recién abierto al público, famoso por sus costillas de res con hueso de una receta de 40 años y por una sopa de fideos con costilla de res de cupo diario limitado, con un caldo cocinado a fuego lento durante tres días.
 quickAnswer: FB Kitchen es el comedor del Formosa Plastics Group en Neihu, Taipéi, recién abierto al público, famoso por sus costillas de res con hueso de una receta de 40 años y por una sopa de fideos con costilla de res de cupo diario limitado, con un caldo cocinado a fuego lento durante tres días. Ve a la hora del almuerzo, cuenta con una espera o la posibilidad de necesitar reserva ya que las porciones son limitadas, y confirma el horario vigente antes de salir, dado que se trata de un lugar recién abierto y muy solicitado.

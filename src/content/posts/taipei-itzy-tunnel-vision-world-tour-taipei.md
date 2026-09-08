@@ -50,13 +50,13 @@ ITZY is one of JYP Entertainment's flagship girl groups, known for high-energy p
 
 ## Getting there
 
-Taipei Arena (台北小巨蛋) sits directly above Taipei MRT's Nanjing Fuxing area — more precisely, it's served by Taipei Arena Station on the Brown Line (Wenhu Line) and the Green Line (Songshan-Xindian Line). Exit 1 leads almost directly into the arena's plaza, making it the most convenient exit for concertgoers. From the airport, the Taoyuan Airport MRT runs to Taipei Main Station, where the Green Line continues a handful of stops to Taipei Arena Station — the whole journey typically takes 45–60 minutes depending on which airport terminal you start from.
+Taipei Arena (台北小巨蛋) sits directly above Taipei MRT's Nanjing Fuxing area (more precisely, it's served by Taipei Arena Station on the Brown Line (Wenhu Line), and the Green Line (Songshan-Xindian Line). Exit 1 leads almost directly into the arena's plaza, making it the most convenient exit for concertgoers. From the airport, the Taoyuan Airport MRT runs to Taipei Main Station, where the Green Line continues a handful of stops to Taipei Arena Station) the whole journey typically takes 45–60 minutes depending on which airport terminal you start from.
 
 Taxis are also straightforward, and drop-off zones near the arena get busy on event nights, so car and ride-hailing journeys take longer than the map suggests.
 
 ## What to expect at the venue
 
-Taipei Arena holds around 15,000 people for concerts, with a mix of floor standing/seated sections and tiered upper-level seating — configurations for K-pop shows often include a general standing area near the stage for the most dedicated (and often earliest-arriving) fans. Merchandise booths for major tours typically open several hours before doors, and past K-pop concerts at this venue have seen fans lining up early in the day for official lightsticks, photocards, and tour-exclusive apparel.
+Taipei Arena holds around 15,000 people for concerts, with a mix of floor standing/seated sections and tiered upper-level seating, configurations for K-pop shows often include a general standing area near the stage for the most dedicated (and often earliest-arriving) fans. Merchandise booths for major tours typically open several hours before doors, and past K-pop concerts at this venue have seen fans lining up early in the day for official lightsticks, photocards, and tour-exclusive apparel.
 
 Bag checks and security screening are standard here, in line with the entry procedures at major arena concerts anywhere in Asia.
 
@@ -68,6 +68,6 @@ Tickets for K-pop tour stops in Taipei tend to move quickly, especially for a si
 
 ## Nearby & tips
 
-The Taipei Arena neighborhood sits close to the Songshan District's dining and shopping strips, including the area around Nanjing Sanmin and the broader Dunhua/Songshan corridor, so a concert pairs easily with a night out beforehand — there are department stores, casual eateries, and bubble tea shops within a short walk. A trip built around the arena also takes in Taipei 101 or the nearby Rainbow Bridge and Raohe Street Night Market, both a short MRT ride or taxi away.
+The Taipei Arena neighborhood sits close to the Songshan District's dining and shopping strips, including the area around Nanjing Sanmin and the broader Dunhua/Songshan corridor, so a concert pairs easily with a night out beforehand. There are department stores, casual eateries, and bubble tea shops within a short walk. A trip built around the arena also takes in Taipei 101 or the nearby Rainbow Bridge and Raohe Street Night Market, both a short MRT ride or taxi away.
 
 This was a single Taipei tour date, and details such as ticket tiers, the exact starting time, and any support acts were not spelled out in public reporting. The announcement covered the date, the venue, and the tour name itself.

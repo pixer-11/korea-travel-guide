@@ -94,11 +94,11 @@ The Burj Khalifa itself is the reason: still the tallest building on earth, its 
 
 The building sits on Sheikh Mohammed bin Rashid Boulevard in Downtown Dubai, attached to the Dubai Mall. The nearest metro stop is Burj Khalifa/Dubai Mall Station on the Red Line, linked to the mall by an air-conditioned walkway that takes about 10 minutes.
 
-Once inside Dubai Mall, follow signs toward the Burj Khalifa entrance on the lower ground floor — it's a fair walk, so budget extra time if you're arriving close to your slot. Taxis and ride-hail apps can drop you closer to the dedicated Burj Khalifa entrance if you'd rather skip the mall entirely.
+Once inside Dubai Mall, follow signs toward the Burj Khalifa entrance on the lower ground floor. It's a fair walk, so budget extra time if you're arriving close to your slot. Taxis and ride-hail apps can drop you closer to the dedicated Burj Khalifa entrance if you'd rather skip the mall entirely.
 
 ## What to expect inside
 
-Ticket in hand, you're funneled through a short multimedia lead-up — a corridor of screens tracing the tower's construction — before the actual ascent. The high-speed lift is the first jolt: it climbs to Level 124 in about a minute, ears popping, a digital display ticking off the floors.
+Ticket in hand, you're funneled through a short multimedia lead-up, a corridor of screens tracing the tower's construction, before the actual ascent. The high-speed lift is the first jolt: it climbs to Level 124 in about a minute, ears popping, a digital display ticking off the floors.
 
 Level 124's outdoor terrace is where most people plant themselves, cameras out, wind noticeably stronger than at street level. Level 125 adds an indoor lounge with floor-to-ceiling glass and a quieter, sit-down feel.
 
@@ -106,7 +106,7 @@ Premium ticket holders continue to Level 148, the highest observation deck in th
 
 ## When to go
 
-The observation deck is open daily from 10am to 8pm. Sunset slots — roughly 5:30 to 7pm depending on the season — are the most requested and the first to sell out, since you get daylight views transitioning into the city's lights coming on.
+The observation deck is open daily from 10am to 8pm. Sunset slots, roughly 5:30 to 7pm depending on the season, are the most requested and the first to sell out, since you get daylight views transitioning into the city's lights coming on.
 
 Midday slots run hotter and hazier but are markedly calmer. If you want photographs with minimal glare and fewer people crowding the glass, an early slot right after 10am opening is your best bet on any day of the week.
 
@@ -114,18 +114,18 @@ Midday slots run hotter and hazier but are markedly calmer. If you want photogra
 
 A few practical notes before you book:
 
-- Book your timed-entry ticket online days or weeks ahead — walk-up slots, especially at sunset, are unreliable.
+- Book your timed-entry ticket online days or weeks ahead. Walk-up slots, especially at sunset, are unreliable.
 - Bags are screened through airport-style security; keep large bags or tripods to a minimum.
-- Glass panels mean phone cameras work fine, but polarized sunglasses can cause glare on photos — worth removing for shots.
+- Glass panels mean phone cameras work fine, but polarized sunglasses can cause glare on photos, worth removing for shots.
 - The gift shop and photo-booth exit route add another 10-15 minutes if you plan to browse.
 
 ## How to visit like a local
 
-Dubai residents who go tend to avoid weekends and the sunset rush entirely, opting instead for a weekday mid-morning or early-afternoon slot when the terrace isn't shoulder-to-shoulder. This is a very popular attraction, so if you can't get an off-peak slot, arrive right at your booked time rather than early — queuing before your window doesn't move you up.
+Dubai residents who go tend to avoid weekends and the sunset rush entirely, opting instead for a weekday mid-morning or early-afternoon slot when the terrace isn't shoulder-to-shoulder. This is a very popular attraction, so if you can't get an off-peak slot, arrive right at your booked time rather than early, queuing before your window doesn't move you up.
 
-Tickets are bought online in advance rather than at the door; payment is by card through the official Burj Khalifa or Emaar website, and it's worth avoiding third-party resellers who mark up prices. There's no tipping expected on-site — staff are salaried mall and attraction employees.
+Tickets are bought online in advance rather than at the door; payment is by card through the official Burj Khalifa or Emaar website, and it's worth avoiding third-party resellers who mark up prices. There's no tipping expected on-site. Staff are salaried mall and attraction employees.
 
-The common mistake first-timers make is treating this as a quick photo stop. Factor in the security screening, the walk through Dubai Mall, and the multimedia intro before the lift — the whole experience runs 60 to 90 minutes even without lingering.
+The common mistake first-timers make is treating this as a quick photo stop. Factor in the security screening, the walk through Dubai Mall, and the multimedia intro before the lift. The whole experience runs 60 to 90 minutes even without lingering.
 
-If you want the view without the ticket price, the Burj Khalifa is also visible (free) from Burj Park and the Dubai Fountain boardwalk just outside — a fine backup if slots are sold out or your budget's tighter.
+If you want the view without the ticket price, the Burj Khalifa is also visible (free) from Burj Park and the Dubai Fountain boardwalk just outside. A fine backup if slots are sold out or your budget's tighter.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-arc-de-triomphe
-srcHash: 'd8420939426c'
+srcHash: '6ff59d4694d5'
 title: 'Arco de Triunfo: Guía de Viaje de París'
 description: 'Sube al Arco de Triunfo (Arc de Triomphe) en la Place Charles de Gaulle para disfrutar de una de las mejores vistas panorámicas de París: los Campos Elíseos (Champs-Élysées) extendiéndose hacia un lado y la Grande Arche de la Défense hacia el otro.'
 quickAnswer: 'Sube al Arco de Triunfo (Arc de Triomphe) en la Place Charles de Gaulle para disfrutar de una de las mejores vistas panorámicas de París: los Campos Elíseos (Champs-Élysées) extendiéndose hacia un lado y la Grande Arche de la Défense hacia el otro. Abre todos los días (lunes, miércoles a domingo de 10:00 a 23:00; martes desde las 11:00), y las horas más tranquilas son a primera hora del día, antes de la avalancha de fin de semana entre las 13:00 y las 20:00. Llega a través del paso subterráneo peatonal en Charles de Gaulle–Étoile: nunca cruces la rotonda a pie.'

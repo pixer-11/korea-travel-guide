@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hoi-an-me-hoi-an-rooftop-coffee-kitchen
-srcHash: '155e41d9f89d'
+srcHash: 'd2041d99515b'
 title: 'Mê Hội An Rooftop Coffee & Kitchen: guía de viaje de Hoi An'
 description: Mê Hội An Rooftop Coffee & Kitchen se encuentra en el 166 de Trần Phú, en pleno casco antiguo de Hoi An, a poca distancia a pie del Puente Japonés Cubierto. La mejor hora para ir es al final de la tarde (entre las 16:30 y las 18:00), para hacerse con una mesa en la terraza antes de la puesta de sol y del encendido nocturno de los farolillos.
 quickAnswer: 'Mê Hội An Rooftop Coffee & Kitchen se encuentra en el 166 de Trần Phú, en pleno casco antiguo de Hoi An, a poca distancia a pie del Puente Japonés Cubierto. La mejor hora para ir es al final de la tarde (entre las 16:30 y las 18:00), para hacerse con una mesa en la terraza antes de la puesta de sol y del encendido nocturno de los farolillos. La razón para venir es la vista panorámica sobre los tejados de terracota del casco antiguo, no una comida rápida: hay que calcular entre 1 y 1,5 horas y contar con cola o espera para las mesas del piso superior en temporada alta (febrero-agosto) y durante las noches del Festival de los Farolillos que Hoi An celebra cada luna llena.'

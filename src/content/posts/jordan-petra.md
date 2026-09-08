@@ -89,7 +89,7 @@ Petra sits above the town of Wadi Musa, about a three-hour drive south of Amman.
 
 The main entrance is a short walk or taxi ride from most hotels. From there it's roughly a 30-45 minute walk down through the Siq before the Treasury appears.
 
-- Wear closed, grippy shoes — the path is uneven stone, not pavement
+- Wear closed, grippy shoes. The path is uneven stone, not pavement
 - Bring more water than you think you'll need; shade is scarce
 - A hat and sunscreen matter even in cooler months
 
@@ -115,13 +115,13 @@ Winter evenings can be genuinely cold once the sun drops behind the cliffs, so p
 
 Petra is heavily visited, so the smartest move is timing rather than avoidance. Go straight to the Treasury at opening before the coach groups descend, then walk further into the site while everyone else is still bottlenecked near the entrance.
 
-Guides and horse or donkey rides are offered constantly along the path — these are optional, and prices should be agreed before you accept, since none are fixed or posted.
+Guides and horse or donkey rides are offered constantly along the path. These are optional, and prices should be agreed before you accept, since none are fixed or posted.
 
 Cash in small denominations is useful for tips and small purchases from the Bedouin stalls inside the site; card payment is rare once you're past the gate.
 
 Multi-day passes exist and are worth it if you plan to see the Monastery and return for the "Petra by Night" candlelit walk to the Treasury, run on selected evenings.
 
-The single biggest mistake visitors make is treating this as a two-hour stop. Petra covers several square kilometers — rushing it means missing the Monastery, the High Place of Sacrifice, and the royal tombs entirely.
+The single biggest mistake visitors make is treating this as a two-hour stop. Petra covers several square kilometers, rushing it means missing the Monastery, the High Place of Sacrifice, and the royal tombs entirely.
 
 ## Nearby to combine with your visit
 

@@ -92,7 +92,7 @@ updatedDate: '2026-08-29'
 
 Most visitors to Singapore never leave the concrete grid downtown. Bukit Timah breaks that pattern completely.
 
-Step out of a taxi or bus onto Hindhede Drive and the temperature drops a degree or two under the canopy. Cicadas buzz in waves. The air smells of wet leaf litter and something faintly sweet — sap, maybe, or the durian trees fruiting somewhere up the slope. This is one of the last slivers of untouched rainforest in the country, older than the city that grew up around it.
+Step out of a taxi or bus onto Hindhede Drive and the temperature drops a degree or two under the canopy. Cicadas buzz in waves. The air smells of wet leaf litter and something faintly sweet, sap, maybe, or the durian trees fruiting somewhere up the slope. This is one of the last slivers of untouched rainforest in the country, older than the city that grew up around it.
 
 ## Getting there
 
@@ -101,15 +101,15 @@ The reserve sits inland, north-west of the city centre, and isn't directly on an
 The easiest approach is Beauty World MRT (Downtown Line), followed by a 15–20 minute walk up Hindhede Drive, or a short bus ride if the heat's already getting to you. Taxis and ride-hailing apps drop you right at the visitor centre car park.
 
 Come prepared:
-- Light, breathable clothing — humidity here is relentless
+- Light, breathable clothing, humidity here is relentless
 - Closed shoes with grip, especially if you're tackling the summit trail
 - A bottle of water; there's little for sale once you're on the trails
 
 ## What to see and do
 
-The Visitor Centre itself is small but worth ten minutes — dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and over 800 plant species packed into a few square kilometres.
+The Visitor Centre itself is small but worth ten minutes, dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and over 800 plant species packed into a few square kilometres.
 
-From here, trails fan out. The main route climbs steadily to the summit of Bukit Timah Hill, at 163 metres the highest natural point in Singapore. It's a paved path, but the gradient is real — expect to sweat.
+From here, trails fan out. The main route climbs steadily to the summit of Bukit Timah Hill, at 163 metres the highest natural point in Singapore. It's a paved path, but the gradient is real. Expect to sweat.
 
 Quieter side trails, like the one looping past Hindhede Quarry, offer a flooded former quarry pool ringed by cliffs, with none of the summit crowd.
 
@@ -117,20 +117,20 @@ Quieter side trails, like the one looping past Hindhede Quarry, offer a flooded 
 
 The reserve is open every day, 7am to 7pm, year-round.
 
-Weekdays between 9am and 11am are consistently the quietest window — you'll often have long stretches of trail to yourself. Weekends are a different story: foot traffic builds steadily from 7am and stays heavy right through to 6pm, especially on the summit trail.
+Weekdays between 9am and 11am are consistently the quietest window. You'll often have long stretches of trail to yourself. Weekends are a different story: foot traffic builds steadily from 7am and stays heavy right through to 6pm, especially on the summit trail.
 
-Early morning is also when the forest is most active — macaques foraging, birds calling, the light still low and golden through the canopy.
+Early morning is also when the forest is most active, macaques foraging, birds calling, the light still low and golden through the canopy.
 
 ## How to visit like a local
 
-Bukit Timah is popular enough with Singaporean hikers and runners that it never feels forgotten, but it's still refreshingly under the radar compared with the city's marquee attractions — most visiting tourists skip it entirely.
+Bukit Timah is popular enough with Singaporean hikers and runners that it never feels forgotten, but it's still refreshingly under the radar compared with the city's marquee attractions, most visiting tourists skip it entirely.
 
 - Go early on a weekday. The 9–11am lull is your best shot at empty boardwalks and macaques undisturbed by crowds.
-- There's no entry fee and nothing to book — just turn up, though weekend queues can form at the car park itself.
-- Locals treat the summit trail as informal exercise circuit — don't block the path chatting; step aside to let runners pass.
+- There's no entry fee and nothing to book, just turn up, though weekend queues can form at the car park itself.
+- Locals treat the summit trail as informal exercise circuit. Don't block the path chatting; step aside to let runners pass.
 - Don't feed the macaques. It's illegal, encourages aggressive behaviour, and rangers do enforce it.
 - Carry your rubbish out. Bins are scarce on purpose, part of keeping the reserve genuinely wild.
-- If the summit trail looks packed from the car park, peel off toward Hindhede Quarry instead — it's a five-minute walk from the entrance and far less trafficked.
+- If the summit trail looks packed from the car park, peel off toward Hindhede Quarry instead. It's a five-minute walk from the entrance and far less trafficked.
 
-The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike at least 90 minutes round trip, and wear shoes you don't mind getting muddy — afternoon showers roll in often enough that the paved sections turn slick.
+The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike at least 90 minutes round trip, and wear shoes you don't mind getting muddy, afternoon showers roll in often enough that the paved sections turn slick.
 

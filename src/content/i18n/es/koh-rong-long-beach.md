@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-rong-long-beach
-srcHash: '8e71ee50f5cf'
+srcHash: '5f39fa7aad60'
 title: 'Long Beach: guía de viaje de Koh Rong (4,7★)'
 description: 'Long Beach (también llamada Sok San Beach) es la franja de siete kilómetros de arena blanca en el lado occidental de Koh Rong, a la que se llega en barco hasta la aldea de Sok San o por una pista accidentada en tuk-tuk o moto que cruza la isla. 4,7★ (220 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Long Beach (también llamada Sok San Beach) es la franja de siete kilómetros de arena blanca en el lado occidental de Koh Rong, a la que se llega en barco hasta la aldea de Sok San o por una pista accidentada en tuk-tuk o moto que cruza la isla. Es más tranquila y está mucho menos desarrollada que las playas junto al muelle de Koh Touch, así que conviene ir por el paseo, la puesta de sol y la arena casi vacía, más que por la vida nocturna. Reserva medio día o un día completo, y lleva efectivo, agua y algo para hacer sombra: pasada la primera franja apenas hay infraestructura.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: osaka-bible-club-osaka
-srcHash: 'b3fb1c8cdd60'
+srcHash: 'ff6d2a74edca'
 title: 'Bible Club: Guía de viaje de Osaka'
 description: 'Bible Club Osaka, en Osaka, Japón — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Bible Club es un bar de cócteles de estilo retro americano escondido en el distrito de vida nocturna de Shinsaibashi/Namba, en Osaka, que actualmente figura en la lista Asia''s 100 Best Bars 2026. Lo ideal es visitarlo un día entre semana, cuando el ritmo en la barra es más pausado y propicio para la conversación: ve por los tragos de destilados poco comunes y por el ambiente, no para una copa rápida de entrada y salida. Reserva con antelación si puedes y confirma el horario actual antes de salir, ya que un bar tan comentado tiende a modificar su política de reservas a medida que crece la demanda.'

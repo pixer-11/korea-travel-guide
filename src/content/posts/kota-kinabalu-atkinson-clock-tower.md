@@ -115,7 +115,7 @@ That contrast is the point. Named after Francis George Atkinson, the city's firs
 
 ## What you'll actually see
 
-Don't expect a museum or a ticket booth. There isn't one. You walk up, look at the tower, read a small plaque, and take a photo — the whole stop takes 10 to 15 minutes.
+Don't expect a museum or a ticket booth. There isn't one. You walk up, look at the tower, read a small plaque, and take a photo. The whole stop takes 10 to 15 minutes.
 
 The wooden frame still holds its original clock mechanism, hand-wound and kept running by the city council. Up close you notice the simple joinery and slatted vents, built for airflow in the tropical heat rather than colonial grandeur.
 
@@ -125,11 +125,11 @@ Most visitors pair it with the short, steep walk up Signal Hill Road to the Sign
 
 The tower sits right on Jalan Bukit Bendera (Signal Hill Road), an easy 10-minute walk from the Gaya Street/Atkinson roundabout in central Kota Kinabalu.
 
-- From Gaya Street or the Waterfront, walk inland toward Signal Hill — it's signposted.
+- From Gaya Street or the Waterfront, walk inland toward Signal Hill. It's signposted.
 - Grab or a local taxi from most downtown hotels takes under 10 minutes.
 - No parking lot at the tower itself; street parking nearby is limited, so walking is easiest.
 
-Because it sits on a slope, the approach involves a short uphill stretch — nothing technical, but wear shoes you can walk in.
+Because it sits on a slope, the approach involves a short uphill stretch, nothing technical, but wear shoes you can walk in.
 
 ## When to go
 
@@ -139,22 +139,22 @@ Midday heat is the real obstacle here, not crowds. Kota Kinabalu sits close to t
 
 ## How to visit like a local
 
-This isn't a hidden spot — it's a well-known stop on KK's short list of historic landmarks — so plan around the crowds rather than expecting solitude.
+This isn't a hidden spot, it's a well-known stop on KK's short list of historic landmarks, so plan around the crowds rather than expecting solitude.
 
 - **Quietest time:** the midday heat naturally thins out foot traffic, so visiting outside that stretch tends to feel calmer than the early morning or evening windows.
 - **Weekends:** crowd patterns stay steady and manageable across the whole 7am–7pm window, though the busiest stretch is generally 9am to 6pm.
 - **Cost and payment:** it's free to view; no tickets, no vendors on site, so bring water rather than cash.
-- **Etiquette:** it's a working memorial and small public garden, not a photo prop — keep off any roped-off sections and don't climb the base for pictures.
+- **Etiquette:** it's a working memorial and small public garden, not a photo prop. Keep off any roped-off sections and don't climb the base for pictures.
 - **Local name:** locals and taxi drivers know it simply as "the clock tower" near Signal Hill (Bukit Bendera), so use that phrasing if asking for directions.
 
-The most common visitor mistake is treating it as a standalone destination worth a special trip. It's genuinely a five-minute look, not a half-day attraction, so locals treat it as a waypoint — something you pass between the Gaya Street markets, the Atkinson roundabout, and the Signal Hill viewpoint, rather than a place you plan your whole morning around. Build it into that walking loop and it earns its place on the itinerary.
+The most common visitor mistake is treating it as a standalone destination worth a special trip. It's genuinely a five-minute look, not a half-day attraction, so locals treat it as a waypoint, something you pass between the Gaya Street markets, the Atkinson roundabout, and the Signal Hill viewpoint, rather than a place you plan your whole morning around. Build it into that walking loop and it earns its place on the itinerary.
 
 ## Nearby stops worth combining
 
 Since the tower itself is quick, pair it with the surrounding old-town sights:
 
-- **Signal Hill Observatory Platform** — a few minutes further uphill, best at sunset.
-- **Gaya Street** — the Sunday morning market street is a short walk away.
-- **Atkinson roundabout and old town shophouses** — worth a slow wander before or after.
+- **Signal Hill Observatory Platform**, a few minutes further uphill, best at sunset.
+- **Gaya Street**. The Sunday morning market street is a short walk away.
+- **Atkinson roundabout and old town shophouses**, worth a slow wander before or after.
 
 Together these make a solid half-day loop on foot, with the clock tower as a brief, atmospheric stop in the middle rather than the main event.

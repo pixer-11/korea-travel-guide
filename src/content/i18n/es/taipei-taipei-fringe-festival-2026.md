@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-taipei-fringe-festival-2026
-srcHash: '484132402e52'
+srcHash: '16831d2d3840'
 title: 'Taipei Fringe Festival 2026: Lo que debes saber (Taipéi)'
 description: Taipei Fringe Festival 2026 en Taipéi, Taiwán — del 23 de agosto al 7 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo planear tu viaje en torno a él.
 quickAnswer: El Taipei Fringe Festival 2026 se celebra del 23 de agosto al 7 de octubre de 2026, en múltiples sedes independientes por toda la ciudad, con obras de teatro, danza y performance tanto locales como internacionales. La programación, las sedes y los precios de las entradas se anuncian más cerca de la fecha del festival, así que conviene confirmarlos en el sitio web oficial del Taipei Fringe Festival antes de planear tu viaje.

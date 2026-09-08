@@ -55,13 +55,13 @@ draft: false
 
 ## Why go
 
-This is where Putrajaya comes to move. Taman Saujana Hijau is a long, green stretch of themed gardens threaded together by paved paths, and the scale of it is the first thing that hits you — open lawns rolling toward the water, punctuated by clusters of palms and ornamental planting.
+This is where Putrajaya comes to move. Taman Saujana Hijau is a long, green stretch of themed gardens threaded together by paved paths, and the scale of it is the first thing that hits you, open lawns rolling toward the water, punctuated by clusters of palms and ornamental planting.
 
 It's rated among the best-loved parks in the city, and it earns that reputation less through polish than through sheer usability: wide paths, shade trees, and views across the lake toward Putrajaya's skyline.
 
 ## Getting there
 
-The park sits in Presint 11, on Jalan P11, a short drive from central Putrajaya. Most visitors arrive by car or Grab, since there's no MRT or LRT station directly at the park — the nearest rail options are in Putrajaya Sentral, several kilometres away, so a taxi or ride-hailing app for the last leg is the practical move.
+The park sits in Presint 11, on Jalan P11, a short drive from central Putrajaya. Most visitors arrive by car or Grab, since there's no MRT or LRT station directly at the park. The nearest rail options are in Putrajaya Sentral, several kilometres away, so a taxi or ride-hailing app for the last leg is the practical move.
 
 There's roadside and lot parking near the main garden sections. If you're staying near Putrajaya's central precincts, the drive over rarely takes more than 15–20 minutes.
 
@@ -81,7 +81,7 @@ Give it at least an hour if you're just walking, or two if you want to cycle a f
 
 The park runs 7am to 7pm every day of the week, with no midday closure, so you have a full 12-hour window. Malaysia's equatorial sun makes the stretch between roughly 11am and 3pm the least comfortable time to be out on open lawn with little shade.
 
-Early morning, right after opening, is when the light is softest and the air is coolest — you'll see it fill with joggers and cyclists getting a loop in before work. Early evening, from around 5:30pm toward closing, brings a second wave, with the lake catching the last color of the day as the heat breaks.
+Early morning, right after opening, is when the light is softest and the air is coolest. You'll see it fill with joggers and cyclists getting a loop in before work. Early evening, from around 5:30pm toward closing, brings a second wave, with the lake catching the last color of the day as the heat breaks.
 
 ## How to visit like a local
 
@@ -89,9 +89,9 @@ This park is genuinely popular with Putrajaya residents, not an undiscovered spo
 
 Weekday early mornings are calmer than weekends, when families and larger groups fill the lawns and paths from mid-morning onward. If you want space to yourself, arriving close to the 7am opening on a weekday is your best bet.
 
-There's no admission fee to enter, and nothing to book — you simply walk or cycle in. Locals typically bring their own water, a mat for the grass, and sun protection, since shade is patchy in the open garden sections.
+There's no admission fee to enter, and nothing to book, you simply walk or cycle in. Locals typically bring their own water, a mat for the grass, and sun protection, since shade is patchy in the open garden sections.
 
-The most common mistake visitors make is showing up at midday expecting comfortable walking weather; the heat and glare off the open lawns can be intense without cloud cover. Wear proper shoes if you're running or cycling, as some path sections see heavy foot and bike traffic at peak times and etiquette matters — keep to the right, and give runners room to pass.
+The most common mistake visitors make is showing up at midday expecting comfortable walking weather; the heat and glare off the open lawns can be intense without cloud cover. Wear proper shoes if you're running or cycling, as some path sections see heavy foot and bike traffic at peak times and etiquette matters. Keep to the right, and give runners room to pass.
 
 If you're driving, arrive slightly before the morning or evening rush to get easier parking near the garden entrances closest to the lake.
 

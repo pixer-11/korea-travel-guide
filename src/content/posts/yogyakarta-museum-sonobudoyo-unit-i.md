@@ -57,13 +57,13 @@ aiGenerated: true
 draft: false
 ---
 
-You step through the gate off Jalan Pangurakan and the noise of the square drops away almost immediately. Museum Sonobudoyo Unit I occupies a pair of traditional Javanese pendopo-style pavilions, their tiled roofs held up by dark teak pillars, arranged around a quiet inner courtyard. It's one of the oldest museums in Indonesia, and it feels like it — not dusty, but settled, the way an old library feels settled.
+You step through the gate off Jalan Pangurakan and the noise of the square drops away almost immediately. Museum Sonobudoyo Unit I occupies a pair of traditional Javanese pendopo-style pavilions, their tiled roofs held up by dark teak pillars, arranged around a quiet inner courtyard. It's one of the oldest museums in Indonesia, and it feels like it, not dusty, but settled, the way an old library feels settled.
 
 ## Why it's worth the detour
 
 This isn't a flashy, air-conditioned showcase. It's a working repository of Javanese and broader Indonesian culture, with cases of carved masks, ceremonial keris daggers, batik textiles and bronze-age artifacts lining the pavilion walls.
 
-The lighting is low and warm rather than clinical, which suits the objects — many of the keris blades have a dull, oiled sheen that catches the light at an angle as you lean in to read the labels.
+The lighting is low and warm rather than clinical, which suits the objects. Many of the keris blades have a dull, oiled sheen that catches the light at an angle as you lean in to read the labels.
 
 ## Getting there
 
@@ -75,14 +75,14 @@ The museum sits directly on the north side of Alun-Alun Utara, the northern squa
 
 ## What to see and do
 
-Give yourself a slow, unhurried loop — 60 to 90 minutes covers the permanent galleries without rushing.
+Give yourself a slow, unhurried loop, 60 to 90 minutes covers the permanent galleries without rushing.
 
 - **Mask and puppet halls**: rows of topeng masks from across Java and Bali, plus a deep wayang kulit (leather shadow puppet) collection
 - **Weapons room**: keris daggers with elaborately patterned pamor (metal-folding) blades and carved hilts
 - **Batik and textile displays**: regional patterns with explanations of their ceremonial meanings
-- **Evening wayang kulit performance**: a shortened shadow-puppet show with gamelan accompaniment, staged most evenings — check the day's schedule at the ticket counter when you arrive
+- **Evening wayang kulit performance**: a shortened shadow-puppet show with gamelan accompaniment, staged most evenings. Check the day's schedule at the ticket counter when you arrive
 
-The gamelan music alone is worth timing your visit around — the metallic, layered chime of it drifts across the courtyard well before the show starts.
+The gamelan music alone is worth timing your visit around, the metallic, layered chime of it drifts across the courtyard well before the show starts.
 
 ## When to go
 
@@ -92,13 +92,13 @@ Because it's one of the most-visited museums in the city, late morning through e
 
 ## How to visit like a local
 
-Buy your ticket at the small counter just inside the entrance — it's a walk-up system, no advance booking needed, and prices are modest (confirm the current rate on arrival since it does change).
+Buy your ticket at the small counter just inside the entrance. It's a walk-up system, no advance booking needed, and prices are modest (confirm the current rate on arrival since it does change).
 
 - Cash is the safest bet for the ticket window and any small souvenir stalls nearby, though this is worth confirming on the day
 - Remove hats out of respect when entering the pavilion halls, as you would at the neighboring Kraton
-- Ask staff which evening has the wayang kulit performance — it isn't always the same length or start time night to night
+- Ask staff which evening has the wayang kulit performance. It isn't always the same length or start time night to night
 - Combine your visit with the Kraton and Taman Sari water castle, both a short walk away, to make a full half-day of Yogyakarta's old royal quarter
 - The mistake most first-time visitors make is treating it as a 20-minute photo stop; the labels and craftsmanship reward a slower pace, especially in the keris and mask rooms
 
-Sunset is a particularly good window — the courtyard light softens, the day-trip crowds thin out, and you're perfectly positioned to stay on for the evening performance without a second trip across town.
+Sunset is a particularly good window, the courtyard light softens, the day-trip crowds thin out, and you're perfectly positioned to stay on for the evening performance without a second trip across town.
 

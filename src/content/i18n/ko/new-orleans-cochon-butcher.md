@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-cochon-butcher
-srcHash: 'eadb6bd13987'
+srcHash: '76cc22443cbb'
 title: '코숀 부처(Cochon Butcher): 뉴올리언스 맛집 탐방 (4.8★)'
 description: 코숀 부처(Cochon Butcher)는 코숀(Cochon) 레스토랑의 캐주얼한 자매 매장으로, 샌드위치와 샤퀴테리를 파는 곳이다. 창고 지구(Warehouse District)의 츄피툴라스 스트리트(Tchoupitoulas Street)에서 이어지는 골목에 자리하고 있다. 4.8★(리뷰 2,631개) — 방문객들의 평가, 영업시간, 그리고 알아두면 좋은 팁.
 quickAnswer: 코숀 부처(Cochon Butcher)는 코숀(Cochon) 레스토랑의 캐주얼한 자매 매장으로, 샌드위치와 샤퀴테리를 파는 곳이며 창고 지구(Warehouse District)의 츄피툴라스 스트리트(Tchoupitoulas Street)에서 이어지는 골목에 숨어 있다. 무팔레타(muffuletta)나 포크 벨리 쿠바노(pork belly cubano)를 노려보고, 카운터에서 주문하며, 점심 피크 시간대에는 대기가 있을 것을 예상해야 한다. 매일 오전 11시부터 오후 10시까지 영업하므로, 줄 없이 자리를 잡으려면 늦은 오후(오후 2~4시)에 방문하는 것이 가장 좋다.

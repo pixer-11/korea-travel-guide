@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour
-srcHash: 'd1336ce54334'
+srcHash: '654999fe7888'
 title: ソヌ・ニガム「30 Years of Sonu(Revolution Tour)」アブダビ公演:日程・チケット・会場情報
 description: ソヌ・ニガムの「30 Years of Sonu(Revolution Tour)」は、2026年8月21日にアブダビのエティハド・アリーナで開催予定とされていました。このツアーの世界初日を飾る公演でした。
 quickAnswer: ソヌ・ニガムの「30 Years of Sonu」Revolution Tourは、2026年8月21日、アブダビのヤス島にあるエティハド・アリーナで幕を開ける予定でした。これは彼の30年に及ぶキャリアを記念する国際コンサートシリーズの、世界初日となる日程でした。チケットや開演時刻については、エティハド・アリーナの公式サイトとソヌ・ニガムの公認チャンネルを通じて案内されていました。なお、コンサート開催日の夜はヤス島へのアクセス道路が混雑しやすい点も知られていました。

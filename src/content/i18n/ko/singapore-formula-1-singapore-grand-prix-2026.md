@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-formula-1-singapore-grand-prix-2026
-srcHash: 'd68abf91772c'
+srcHash: 'bc1b137e0826'
 title: '2026 F1 싱가포르 그랑프리: 알아두어야 할 모든 것 (싱가포르)'
 description: 2026 F1 싱가포르 그랑프리, 싱가포르 — 10월 9일부터 11일까지. 무엇을, 언제, 어디서 열리는지, 그리고 여행 계획을 어떻게 세워야 하는지 안내합니다.
 quickAnswer: 2026 싱가포르 그랑프리는 10월 9일부터 11일까지 마리나베이 스트리트 서킷(Marina Bay Street Circuit)에서 열리며, 이번 대회는 싱가포르 역사상 첫 F1 스프린트 주말로 진행됩니다. 콘서트 라인업에는 더 킬러스(The Killers)와 라나 델 레이(Lana Del Rey)가 포함되어 있습니다. 마리나베이(Marina Bay)/부기스(Bugis)/시티홀(City Hall) 일대의 항공권과 호텔은 일찍 예약하는 것이 좋고, 레이스 준비 주간에는 서킷 주변 공공도로가 통제된다는 점을 감안해야 하며, 최종 일정과 티켓 등급은 예약 전 반드시 F1 싱가포르 그랑프리 공식 사이트에서 확인하세요.

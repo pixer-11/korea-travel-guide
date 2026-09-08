@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour
-srcHash: 'ff564efd1ba8'
+srcHash: 'f38052b07cb0'
 title: '더 위켄드 애프터 아워스 틸 던/허리 업 투모로우 투어: 싱가포르 공연 가이드'
 description: 더 위켄드(The Weeknd)의 애프터 아워스 틸 던/허리 업 투모로우 투어가 2026년 9월 25일 싱가포르에서 열립니다. 공연 개요와 일시, 장소, 그리고 관람 전 준비할 사항을 정리했습니다.
 quickAnswer: 더 위켄드가 2026년 9월 25일 싱가포르 내셔널 스타디움(National Stadium)에서 애프터 아워스 틸 던/허리 업 투모로우 투어를 펼칩니다. 오프닝은 일본 힙합 듀오 크리피 넛츠(Creepy Nuts)가 맡습니다. 스타보이(Starboy), 애프터 아워스(After Hours), 던 FM(Dawn FM), 그리고 허리 업 투모로우(Hurry Up Tomorrow)를 아우르는 커리어 전반의 세트리스트가 예상되며, 공연장이 이 지역 최대 규모 경기장 중 하나인 만큼 교통편과 티켓 구매처, 도착 시간을 미리 계획해 두시는 것이 좋습니다. 예매 전에는 반드시 공식 티켓마스터 싱가포르(Ticketmaster Singapore)나 프로모터 페이지에서 정확한 공연 시간, 입장 시간, 티켓 링크를 확인하시기 바랍니다.

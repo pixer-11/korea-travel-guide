@@ -35,17 +35,17 @@ Walk in off Penang Road and the street noise drops away. Swallow-tail roof ridge
 
 The mansion has been carved into three distinct concepts sharing one restored shell.
 
-- **Bar Kap** — a cocktail bar built around the mansion's original carved timber screens and restored ceramic floor tiles
-- **Loca Niru** — a dining concept with Korean-inflected sensibilities
-- **Jing Studio** — a compact tea café tucked into one of the smaller rooms
+- **Bar Kap**, a cocktail bar built around the mansion's original carved timber screens and restored ceramic floor tiles
+- **Loca Niru**, a dining concept with Korean-inflected sensibilities
+- **Jing Studio**, a compact tea café tucked into one of the smaller rooms
 
 Each has its own entrance and mood, but you can wander between them within the same compound, which is part of the appeal.
 
 ## The atmosphere
 
-Bar Kap is where the building's bones show off best. Low lighting catches the glaze on century-old floor tiles underfoot, while the original timber lattice work throws patterned shadows across the room. It's moody without trying too hard — heritage architecture doing the heavy lifting rather than a designer's mood board.
+Bar Kap is where the building's bones show off best. Low lighting catches the glaze on century-old floor tiles underfoot, while the original timber lattice work throws patterned shadows across the room. It's moody without trying too hard, heritage architecture doing the heavy lifting rather than a designer's mood board.
 
-Jing Studio, by contrast, feels intimate and quiet. Think small tables, unhurried service, and a menu built around tea rather than cocktails — a good stop if you want to sit with the building rather than drink your way through it.
+Jing Studio, by contrast, feels intimate and quiet. Think small tables, unhurried service, and a menu built around tea rather than cocktails. A good stop if you want to sit with the building rather than drink your way through it.
 
 Loca Niru sits somewhere between the two: a proper sit-down meal in a room that still feels like a merchant's home rather than a restaurant.
 
@@ -62,12 +62,12 @@ Both stations put you within a short stroll of Orchard Road, so this is easy to 
 
 Because this is one of 2026's most talked-about new openings, expect it to draw a crowd, especially on weekend evenings. Weeknights and early evening tend to be calmer if you want to actually see the architecture rather than a packed room.
 
-As a heritage building split across several new businesses, opening hours and reservation policies are still settling in. Confirm current hours and whether Bar Kap or Loca Niru take bookings before you head over — don't assume walk-ins will work on a Friday night.
+As a heritage building split across several new businesses, opening hours and reservation policies are still settling in. Confirm current hours and whether Bar Kap or Loca Niru take bookings before you head over. Don't assume walk-ins will work on a Friday night.
 
 ## How to visit like a local
 
 Treat this less like a bar crawl stop and more like a heritage visit that happens to serve excellent cocktails. Locals exploring new openings like this typically book a table in advance rather than risk a walk-in queue, especially for Bar Kap.
 
-Dress code tends to lean smart-casual given the setting inside a national monument — flip-flops and beach wear will feel out of place. Payment across Singapore's bar scene is almost universally by card or mobile pay (PayNow), though it's worth carrying a little cash as backup.
+Dress code tends to lean smart-casual given the setting inside a national monument, flip-flops and beach wear will feel out of place. Payment across Singapore's bar scene is almost universally by card or mobile pay (PayNow), though it's worth carrying a little cash as backup.
 
-Tipping isn't customary in Singapore; a service charge is usually already added to your bill, so no need to tip extra. The most common mistake visitors make is treating this purely as a photo stop — slow down, order a drink or a pot of tea, and actually sit inside the rooms to appreciate the carved timber and tilework up close. Since this is a newly opened multi-venue space inside a protected monument, always double-check current hours and reservation details on official channels before you go.
+Tipping isn't customary in Singapore; a service charge is usually already added to your bill, so no need to tip extra. The most common mistake visitors make is treating this purely as a photo stop, slow down, order a drink or a pot of tea, and actually sit inside the rooms to appreciate the carved timber and tilework up close. Since this is a newly opened multi-venue space inside a protected monument, always double-check current hours and reservation details on official channels before you go.

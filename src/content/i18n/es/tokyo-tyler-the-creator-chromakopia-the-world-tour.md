@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-tyler-the-creator-chromakopia-the-world-tour
-srcHash: '3cb0e57b9552'
+srcHash: '5595bf5a2d22'
 title: 'Tyler, the Creator - Chromakopia: The World Tour: lo que hay que saber (Tokio)'
 description: 'Tyler, the Creator trae Chromakopia: The World Tour al Ariake Arena de Tokio los días 9 y 10 de septiembre de 2026, sus primeros shows en Japón en ocho años.'
 quickAnswer: 'Tyler, the Creator trae Chromakopia: The World Tour al Ariake Arena de Tokio los días 9 y 10 de septiembre de 2026, en lo que serán sus primeros shows en Japón en ocho años. Los horarios de apertura de puertas y de show todavía no se han publicado oficialmente, así que conviene confirmar fechas, categorías de entradas y horarios de acceso en el sitio oficial de la gira de Tyler o en la web del Ariake Arena antes de reservar vuelos u hoteles. Es de esperar que el recinto esté lleno ambas noches, así que conviene planificar el transporte y la cena teniendo en cuenta las opciones limitadas de comida en Ariake.'

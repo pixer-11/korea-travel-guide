@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cappadocia-pigeon-valley
-srcHash: 'e4f56feae79b'
+srcHash: 'ab6afaa7ed04'
 title: 鸽子谷:卡帕多奇亚旅行指南
 description: 鸽子谷(Güvercinlik Vadisi)连接于奇萨尔(Uçhisar)与格雷梅(Göreme)之间，是一段长4-5公里、地势平缓易行的峡谷步道，沿途布满凿刻在柔软火山岩中的鸽舍。
 quickAnswer: 鸽子谷(Güvercinlik Vadisi)连接于奇萨尔(Uçhisar)与格雷梅(Göreme)之间，是一段长4-5公里、地势平缓易行的峡谷步道，沿途布满凿刻在柔软火山岩中的鸽舍。可从奇萨尔城堡(Uçhisar Castle)下方的观景台入口，或格雷梅一端靠近汽车站的入口进入，单程需1.5-2小时，建议清晨或傍晚前往，以避开高温和旅游团人潮。

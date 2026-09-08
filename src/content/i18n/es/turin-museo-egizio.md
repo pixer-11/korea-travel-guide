@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: turin-museo-egizio
-srcHash: 'f31512160dcf'
+srcHash: 'e2ca1ce0f553'
 title: 'Museo Egizio: guía de viaje de Turín'
 description: El Museo Egizio, en Via Accademia delle Scienze, en pleno centro de Turín, es el museo de egiptología más antiguo del mundo y alberga la mayor colección de antigüedades egipcias fuera de El Cairo.
 quickAnswer: El Museo Egizio, en Via Accademia delle Scienze, en pleno centro de Turín, es el museo de egiptología más antiguo del mundo y alberga la mayor colección de antigüedades egipcias fuera de El Cairo. Reserva una entrada con horario asignado online, llega justo a la apertura (9:00) o durante las dos últimas horas antes del cierre para evitar la avalancha de grupos turísticos, y calcula entre dos y tres horas para visitarlo como se merece.

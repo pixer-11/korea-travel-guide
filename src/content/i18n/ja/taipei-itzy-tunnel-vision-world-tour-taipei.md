@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: taipei-itzy-tunnel-vision-world-tour-taipei
-srcHash: '4d5bc0faba6d'
+srcHash: '44e7e8bdbd31'
 title: ITZY「TUNNEL VISION」ワールドツアー台北公演で知っておきたいこと(台北)
 description: ITZYの「TUNNEL VISION」ワールドツアーは、2026年9月5日に台北アリーナ(台北小巨蛋)にて開催予定と発表されており、2026年発売のEP「Motto」収録曲と過去のヒット曲を中心とした公演内容が予定されていました。
 quickAnswer: ITZYの「TUNNEL VISION」ワールドツアーは、2026年9月5日に台北アリーナ(台北小巨蛋)での開催が予定されていました。公演内容は、グループの2026年発売EP「Motto」収録曲と過去のヒット曲を中心に構成されると発表されていました。台北アリーナで行われる主要K-POPアーティストの公演は軒並みチケットが完売する傾向にあり、周辺のMRT駅一帯には多くの観客が集まるのが常です。

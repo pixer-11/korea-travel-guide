@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: valencia-museo-de-las-ciencias-principe-felipe
-srcHash: '9606d973eff2'
+srcHash: '6111126f3abe'
 title: 费利佩王子科学博物馆(Museo de las Ciencias Príncipe Felipe):瓦伦西亚旅行指南
 description: 费利佩王子科学博物馆是瓦伦西亚艺术科学城(Ciudad de las Artes y de las Ciencias)地标建筑之一，以肋状玻璃与混凝土结构著称——参观三层互动展览大约需要2-3小时。4.4星(57,652条评价)——游客评价、开放时间与实用贴士。
 quickAnswer: 费利佩王子科学博物馆是瓦伦西亚艺术科学城的地标建筑之一，以肋状玻璃与混凝土结构著称——参观三层互动展览大约需要2-3小时。工作日全天(上午10点至晚上10点)都比较清静;周末则应避开上午11点至晚上7点的拥挤时段，改在晚上7点至10点前往。可乘坐地铁3号线或5号线至Alameda站，再沿图里亚老河床公园(Turia)步行约20分钟(或转乘公交)前往。

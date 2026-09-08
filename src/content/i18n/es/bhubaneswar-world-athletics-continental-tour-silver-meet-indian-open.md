@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open
-srcHash: '4773e60c8ba3'
+srcHash: 'ea4d6bf2ae0e'
 title: 'Reunión Continental Tour Silver de World Athletics (Indian Open): lo que hay que saber (Bhubaneswar)'
 description: 'Reunión Continental Tour Silver de World Athletics (Indian Open) en Bhubaneswar, India, el 22 de agosto de 2026: lo anunciado y la ciudad que lo rodea.'
 quickAnswer: El primer Continental Tour Silver de World Athletics en India, el Indian Open, quedó programado para el Estadio Kalinga de Bhubaneswar el 22 de agosto de 2026, un ascenso respecto a la reunión de nivel bronce celebrada allí en 2025. Los organizadores anunciaron una jornada única de atletismo internacional con el mayor peso en la sesión vespertina, y las entradas, los horarios de apertura de puertas y el programa completo se difundieron a través de los canales oficiales de World Athletics y del deporte de Odisha.

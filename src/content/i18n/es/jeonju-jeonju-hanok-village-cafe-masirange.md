@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeonju-jeonju-hanok-village-cafe-masirange
-srcHash: 'a593a0163a7c'
+srcHash: '10f281ffb521'
 title: 'Café Masirange en la aldea hanok de Jeonju: Guía de viaje'
 description: Masirange es una cafetería de estilo hanok escondida en el sector de Jeondong de la Aldea Hanok de Jeonju (Jeonju Hanok Village), a poca distancia a pie de la Iglesia Católica de Jeondong; lo ideal es visitarla en una mañana de semana o a última hora de la tarde para evitar la avalancha de grupos turísticos.
 quickAnswer: Masirange es una cafetería de estilo hanok escondida en el sector de Jeondong de la Aldea Hanok de Jeonju (Jeonju Hanok Village), a poca distancia a pie de la Iglesia Católica de Jeondong; lo ideal es visitarla en una mañana de semana o a última hora de la tarde para evitar la avalancha de grupos turísticos. Espera té tradicional, postres inspirados en el estilo hanok y un entorno de patio o terraza en la azotea ideal para fotos; reserva entre 45 y 60 minutos para tomar algo y echar un vistazo. Combina de manera natural con un paseo por la aldea alquilando un hanbok y una parada en el Santuario Gyeonggijeon (Gyeonggijeon Shrine) cercano.

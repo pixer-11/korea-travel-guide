@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: singapore-itzy-3rd-world-tour-tunnel-vision
-srcHash: '7f9a92cad1a0'
+srcHash: '13fb1ed3efef'
 title: ITZYワールドツアー「TUNNEL VISION」シンガポール公演:日程・チケット・会場情報
 description: ITZYの3rdワールドツアー「TUNNEL VISION」が2026年9月30日、シンガポールにやってきます。公演の概要や日時・会場、そして事前に押さえておきたい計画のポイントをまとめました。
 quickAnswer: ITZYが3rdワールドツアー「TUNNEL VISION」を引っさげて、2026年9月30日にシンガポール公演を行います。前回シンガポールで公演を行って以来の、待望の凱旋公演です。会場やチケットの価格帯、開場時間については発表後に変更される可能性があるため、本ガイドでは確定情報として記載していません。航空券やホテルを予約する前に、必ずITZYの公式SNSや正式なチケット販売パートナーの情報で最新の内容を確認してください。

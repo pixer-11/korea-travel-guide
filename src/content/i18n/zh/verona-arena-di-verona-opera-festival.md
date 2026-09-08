@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: verona-arena-di-verona-opera-festival
-srcHash: 'ba2374f2f02e'
+srcHash: '99cbc2962168'
 title: 维罗纳竞技场歌剧节须知(维罗纳)
 description: 意大利维罗纳的维罗纳竞技场歌剧节——持续至2026年9月12日(自6月12日开演)。演出内容、时间地点，以及如何规划行程。
 quickAnswer: 维罗纳竞技场歌剧节第103届将持续至2026年9月12日，演出地点是布拉广场(Piazza Bra)上这座已有2000年历史的古罗马圆形剧场。你将看到《阿依达》(Aida)、《图兰朵》(Turandot)、《纳布科》(Nabucco)和《茶花女》(La Traviata)等大型制作在露天夜空下上演——建议提前到场，趁天黑前找好座位安顿下来。由于具体剧目、日期和票价类别会在演出期间轮换，预订前请务必在竞技场官方网站上确认。

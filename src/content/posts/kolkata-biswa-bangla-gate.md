@@ -83,7 +83,7 @@ updatedDate: '2026-09-07'
 ---
 ## Why go
 
-You spot it long before you arrive: a colossal circular gate straddling the road, lit up like a spaceship parked over Newtown. Biswa Bangla Gate isn't a temple or a museum — it's a piece of civic architecture that doubled as a symbol of West Bengal's push to modernize this planned township east of Kolkata. It's become one of the city's most-photographed landmarks, and the crowds prove it.
+You spot it long before you arrive: a colossal circular gate straddling the road, lit up like a spaceship parked over Newtown. Biswa Bangla Gate isn't a temple or a museum. It's a piece of civic architecture that doubled as a symbol of West Bengal's push to modernize this planned township east of Kolkata. It's become one of the city's most-photographed landmarks, and the crowds prove it.
 
 ## What it actually is
 
@@ -95,7 +95,7 @@ Inside, the restaurant serves a general multi-cuisine menu, with the main draw b
 
 Biswa Bangla Gate sits on Biswa Bangla Upas, Action Area 1D, in Newtown, roughly 25–30 minutes by car from central Kolkata and closer to the airport than to the old city center.
 
-- **By metro:** the nearest stations are on Kolkata's newer lines serving New Town/Rajarhat — confirm the current nearest stop before you go, as this stretch has seen recent extensions.
+- **By metro:** the nearest stations are on Kolkata's newer lines serving New Town/Rajarhat, confirm the current nearest stop before you go, as this stretch has seen recent extensions.
 - **By car or app-cab:** easiest option; Newtown's wide roads make it a straightforward 30–40 minute ride from Salt Lake or Park Street.
 - **By bus:** several routes connect Newtown to Esplanade and Salt Lake, though a cab is far less hassle with luggage or kids.
 
@@ -107,20 +107,20 @@ The gate operates Tuesday through Sunday, 12:00–4:00 PM and again 7:00–10:00
 
 If you want the structure without the crush, aim for the 12–4pm window on a weekday. You'll get the daylight silhouette and easier parking, though you'll miss the light show that only makes sense after dark.
 
-For the photogenic version — the one you've seen on Instagram — come right at 7pm on a weekday evening. The lights are on, the dinner crowd hasn't peaked yet, and you can walk the surrounding plaza without dodging a wall of tripods.
+For the photogenic version, the one you've seen on Instagram, come right at 7pm on a weekday evening. The lights are on, the dinner crowd hasn't peaked yet, and you can walk the surrounding plaza without dodging a wall of tripods.
 
 ## How to visit like a local
 
 Since this is a genuinely popular landmark rather than a quiet find, the smart move is timing, not secrecy.
 
 - **Best window:** weekday evenings right at the 7pm reopening, before the Friday–Saturday dinner rush sets in.
-- **Booking:** call ahead or book the restaurant if you want a table with a view — walk-ins on weekend nights often face long waits.
+- **Booking:** call ahead or book the restaurant if you want a table with a view. Walk-ins on weekend nights often face long waits.
 - **Payment:** cards and mobile payment (UPI) are widely accepted at the restaurant; carry some cash for the plaza vendors outside.
-- **Etiquette:** the surrounding plaza is a public gathering space — families and couples come just to walk and photograph the gate, so it's fine to linger without ordering food.
+- **Etiquette:** the surrounding plaza is a public gathering space, families and couples come just to walk and photograph the gate, so it's fine to linger without ordering food.
 - **Common mistake:** showing up midweek afternoon expecting the nighttime light display, or forgetting it's shut entirely on Mondays and finding a locked gate.
 
-Bring a wide-angle phone lens or step back across the boulevard for the full-ring shot — up close, the scale is hard to capture.
+Bring a wide-angle phone lens or step back across the boulevard for the full-ring shot, up close, the scale is hard to capture.
 
 ## Nearby to pair with
 
-Newtown's Eco Park (Prakriti Tirtha) is a short ride away and worth combining with an evening at the gate — spend the afternoon there, then arrive at Biswa Bangla Gate as it lights up for dinner. The area also has several newer malls and cafes along Action Area 1, useful if you're waiting out the midday closure between 4 and 7pm.
+Newtown's Eco Park (Prakriti Tirtha) is a short ride away and worth combining with an evening at the gate, spend the afternoon there, then arrive at Biswa Bangla Gate as it lights up for dinner. The area also has several newer malls and cafes along Action Area 1, useful if you're waiting out the midday closure between 4 and 7pm.

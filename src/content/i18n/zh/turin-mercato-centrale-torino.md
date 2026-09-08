@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: turin-mercato-centrale-torino
-srcHash: '5518a9111a11'
+srcHash: '971c9c809721'
 title: 都灵中央市场（Mercato Centrale Torino）：都灵美食去哪吃
 description: 都灵中央市场坐落在共和广场（Piazza della Repubblica）历史悠久的波尔塔·帕拉佐市场（Porta Palazzo）建筑内，是一处汇聚多个摊位的美食广场——可以边逛边吃，尝遍皮埃蒙特经典菜、披萨和味美思酒。
 quickAnswer: 都灵中央市场坐落在共和广场历史悠久的波尔塔·帕拉佐市场建筑内，是一处汇聚多个摊位的美食广场，在这里可以边逛边吃，尝遍皮埃蒙特经典菜、披萨和味美思酒。市场每天早上8点营业至午夜，想避开周五、周六晚上的人潮，最好选在工作日午餐和开胃酒时段之间的下午空档前往。

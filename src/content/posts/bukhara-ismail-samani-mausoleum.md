@@ -78,11 +78,11 @@ This squat cube of baked brick is one of the oldest surviving pieces of Islamic 
 
 ## What you actually see
 
-Walk up and the first thing that strikes you is the texture. Every wall is laid in geometric brick patterns — herringbone bands, woven basketwork, sunbursts — that shift as the light changes through the day.
+Walk up and the first thing that strikes you is the texture. Every wall is laid in geometric brick patterns (herringbone bands, woven basketwork, sunbursts) that shift as the light changes through the day.
 
 There's no paint, no glaze, no tilework here. Just fired clay bricks, stacked into patterns so intricate they look woven rather than built. Peer through the small doorway and you find a plain domed chamber holding stone tombs, cool and dim after the glare outside.
 
-Walk a full circle around the exterior. Each face reads differently depending on the sun's angle, and the corner squinches supporting the dome are worth studying — this is one of the earliest examples of that engineering solution anywhere in Central Asia.
+Walk a full circle around the exterior. Each face reads differently depending on the sun's angle, and the corner squinches supporting the dome are worth studying. This is one of the earliest examples of that engineering solution anywhere in Central Asia.
 
 ## Getting there
 
@@ -92,7 +92,7 @@ If you're staying near Lyab-i Hauz or the Poi Kalyan complex, it's a comfortable
 
 ## When to go
 
-The site opens daily at 8am and closes at 6pm, with no midday break listed. Crowd data shows the calmest window is 8–9am on weekdays and 8–10am on weekends — arrive right at opening and you'll often have the brickwork to yourself.
+The site opens daily at 8am and closes at 6pm, with no midday break listed. Crowd data shows the calmest window is 8–9am on weekdays and 8–10am on weekends. Arrive right at opening and you'll often have the brickwork to yourself.
 
 Avoid the stretch from 11am to 6pm on weekends, when tour groups peak. Midday sun also flattens the brick relief that makes this place worth seeing, so an early or late-afternoon visit rewards you with better light and better photos.
 
@@ -100,15 +100,15 @@ Spring (March–May) and autumn (September–November) bring mild temperatures f
 
 ## How to visit like a local
 
-Locals treat Samanid Park as a genuine city park, not just a monument backdrop — people walk dogs, kids play, older residents sit on benches near the mausoleum. Fold your visit into that rhythm rather than treating it as an isolated stop.
+Locals treat Samanid Park as a genuine city park, not just a monument backdrop, people walk dogs, kids play, older residents sit on benches near the mausoleum. Fold your visit into that rhythm rather than treating it as an isolated stop.
 
 - Go at opening (8am) on a weekday for the emptiest brickwork shots
-- No ticket booth guards the mausoleum itself — it sits open within the public park, so there's nothing to book ahead
+- No ticket booth guards the mausoleum itself, it sits open within the public park, so there's nothing to book ahead
 - Dress modestly if you plan to continue to other religious sites the same day, though this one draws few enforcement checks
 - Bring small change if you want tea or snacks from park vendors, since card acceptance is inconsistent at small stalls
 - Budget 20–30 minutes here, then walk to Chashma-Ayub Mausoleum a few steps away to round out the visit
 
-The biggest mistake visitors make is rushing past on the way to bigger sights like Ark Fortress. This building rewards slow circling more than almost anything else in Bukhara — the brick patterns only reveal themselves if you actually walk the full loop around the exterior.
+The biggest mistake visitors make is rushing past on the way to bigger sights like Ark Fortress. This building rewards slow circling more than almost anything else in Bukhara, the brick patterns only reveal themselves if you actually walk the full loop around the exterior.
 
 ## Nearby to combine
 

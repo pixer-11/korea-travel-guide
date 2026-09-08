@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-dc-unconventional-diner
-srcHash: '81b0e7434e75'
+srcHash: '512485cca3cf'
 title: 'Unconventional Diner: dónde comer en Washington DC (4.7★)'
 description: Unconventional Diner está en la calle 9th Street NW, en Shaw, y sirve comida reconfortante de estilo elevado de 7am a 10pm todos los días. 4.7★ (8,901 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Unconventional Diner está en la calle 9th Street NW, en Shaw, y sirve comida reconfortante de estilo elevado de 7am a 10pm todos los días. Ve por los biscuits y las palomitas con grasa de tocino en el desayuno, o por el pollo frito y la hamburguesa más tarde. Las mañanas de días de semana antes de las 9am son tu mejor oportunidad de conseguir mesa sin esperar.

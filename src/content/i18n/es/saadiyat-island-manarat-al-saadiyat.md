@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: saadiyat-island-manarat-al-saadiyat
-srcHash: '9a43bbfd71ca'
+srcHash: '878e12b4d179'
 title: 'Manarat Al Saadiyat: guía de viaje de la isla Saadiyat (4.6★)'
 description: 'Manarat Al Saadiyat es el centro cultural del Distrito Cultural de la isla Saadiyat, abierto todos los días de 10:00 a 20:00, con exposiciones de arte rotativas, un cine/teatro y muestras sobre los proyectos museísticos de Abu Dabi. 4.6★ (3,426 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Manarat Al Saadiyat es el centro cultural del Distrito Cultural de la isla Saadiyat, abierto todos los días de 10:00 a 20:00, con exposiciones de arte rotativas, un cine/teatro y muestras sobre los proyectos museísticos de Abu Dabi. Calcula entre 1 y 1.5 horas, más si hay alguna exposición importante en curso. Las mañanas de fin de semana entre las 10:00 y las 13:00 son las más tranquilas; evita la avalancha de las 16:00 a las 20:00, cuando llegan familias y aficionados a las galerías.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-fort-santiago
-srcHash: 'b309f4b8b74e'
+srcHash: 'e4f5a05a4ce7'
 title: 'Fuerte de Santiago: Guía de viaje de Manila'
 description: El Fuerte de Santiago, la antigua ciudadela española en la punta de Intramuros, en Manila, abre todos los días de 8am a 11pm y se explora mejor en las primeras horas tras la apertura, antes de que lleguen los autobuses turísticos y las multitudes nocturnas.
 quickAnswer: El Fuerte de Santiago, la antigua ciudadela española en la punta de Intramuros, en Manila, abre todos los días de 8am a 11pm y se explora mejor en las primeras horas tras la apertura, antes de que lleguen los autobuses turísticos y las multitudes nocturnas. Reserva entre 1.5 y 2 horas para recorrer las murallas, visitar el museo del Santuario de Rizal y seguir los últimos pasos de José Rizal hacia el lugar de su ejecución. Es muy popular, así que procura ir entre las 8 y las 11am en días de semana o entre las 8 y las 10am los fines de semana, y evita la avalancha del fin de semana entre las 3pm y las 10pm.

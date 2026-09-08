@@ -81,17 +81,17 @@ updatedDate: '2026-09-05'
 
 ## Why go
 
-Yongyeon ("Dragon Pool") is a short, deep inlet where a freshwater stream meets the sea, hemmed in by wooded basalt cliffs that curve like a natural amphitheater. A single red suspension bridge and a traditional-style pavilion span the narrowest point, and the whole scene is compact enough to feel intimate rather than monumental. With a 4.2 rating from over 2,600 reviews, it has a loyal following, but it's still the kind of stop many visitors to Jeju City skip in favor of bigger-name sights — which keeps it comparatively unhurried, especially outside of sunset hours.
+Yongyeon ("Dragon Pool") is a short, deep inlet where a freshwater stream meets the sea, hemmed in by wooded basalt cliffs that curve like a natural amphitheater. A single red suspension bridge and a traditional-style pavilion span the narrowest point, and the whole scene is compact enough to feel intimate rather than monumental. With a 4.2 rating from over 2,600 reviews, it has a loyal following, but it's still the kind of stop many visitors to Jeju City skip in favor of bigger-name sights, which keeps it comparatively unhurried, especially outside of sunset hours.
 
 ## Getting there
 
-Yongyeon sits in Yongdam 2(i)-dong on Jeju City's northern coast, close to Jeju International Airport — it's one of the few notable sights you can reach in well under 15 minutes by taxi from the arrivals hall, making it a natural first or last stop on a Jeju trip. There's no dedicated train or subway system on the island, so options are taxi, rental car, or local bus lines that run along the coastal road toward Yongdam-dong; ask your driver for "Yongyeon" (용연) specifically, since it's distinct from the nearby Yongduam Rock.
+Yongyeon sits in Yongdam 2(i)-dong on Jeju City's northern coast, close to Jeju International Airport. It's one of the few notable sights you can reach in well under 15 minutes by taxi from the arrivals hall, making it a natural first or last stop on a Jeju trip. There's no dedicated train or subway system on the island, so options are taxi, rental car, or local bus lines that run along the coastal road toward Yongdam-dong; ask your driver for "Yongyeon" (용연) specifically, since it's distinct from the nearby Yongduam Rock.
 
 If you're driving, street parking in the neighborhood is limited and tight, so many visitors park near Yongduam and walk the short coastal path over.
 
 ## What to see and do
 
-The main draw is the bridge itself: a slim, arched suspension footbridge painted in traditional red-and-white dancheong colors, crossing the inlet at a point where the cliffs pinch together and the water below turns a deep jade-green in daylight. Cross it, then walk down to the small pavilion and viewing platforms built into the rock on either side — these give the classic postcard angle back toward the bridge with the cliff walls framing it.
+The main draw is the bridge itself: a slim, arched suspension footbridge painted in traditional red-and-white dancheong colors, crossing the inlet at a point where the cliffs pinch together and the water below turns a deep jade-green in daylight. Cross it, then walk down to the small pavilion and viewing platforms built into the rock on either side, these give the classic postcard angle back toward the bridge with the cliff walls framing it.
 
 The inlet itself is Yongyeon proper, a tidal pool said in local lore to be where dragons once bathed, which is where the name comes from. Plan for 20–30 minutes to walk across, take photos from both banks, and read the small on-site information signage. From here it's an easy 10-minute walk west along the coast to Yongduam ("Dragon Head") Rock, a wave-eroded basalt formation resembling a dragon's head, and the paved Dragon Head Coastal Road connecting the two makes for a pleasant combined stroll of under an hour.
 
@@ -103,9 +103,9 @@ Spring and early autumn evenings are especially comfortable temperature-wise; su
 
 ## How to visit like a local
 
-Skip the midday rush of tour buses stopping en route to Yongduam and come instead in the hour after sunset — this is when the site is most photogenic and least congested, and it costs nothing extra to time it this way, since the bridge and grounds are free and open-air with no ticket gate. There's no entrance fee to worry about paying, so there's nothing to queue for beyond finding a clear photo spot on the bridge itself, which can briefly bottleneck at blue hour — be patient and let people take their turn rather than crowding the railing.
+Skip the midday rush of tour buses stopping en route to Yongduam and come instead in the hour after sunset (this is when the site is most photogenic and least congested, and it costs nothing extra to time it this way, since the bridge and grounds are free and open-air with no ticket gate. There's no entrance fee to worry about paying, so there's nothing to queue for beyond finding a clear photo spot on the bridge itself, which can briefly bottleneck at blue hour) be patient and let people take their turn rather than crowding the railing.
 
-Wear shoes with grip, since the stone platforms near the water can be slick with sea spray. The bridge sways slightly underfoot, which surprises first-time visitors, but it's a normal, stable design feature, not a safety concern. The most common visitor mistake is treating this as a long outing — it's a quick, focused stop, best enjoyed by lingering over the view rather than rushing across and leaving; combine it with Yongduam Rock and a coastal café rather than budgeting a whole afternoon here alone.
+Wear shoes with grip, since the stone platforms near the water can be slick with sea spray. The bridge sways slightly underfoot, which surprises first-time visitors, but it's a normal, stable design feature, not a safety concern. The most common visitor mistake is treating this as a long outing. It's a quick, focused stop, best enjoyed by lingering over the view rather than rushing across and leaving; combine it with Yongduam Rock and a coastal café rather than budgeting a whole afternoon here alone.
 
 ## Nearby to pair it with
 

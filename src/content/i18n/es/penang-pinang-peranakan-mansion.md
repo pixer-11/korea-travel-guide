@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: penang-pinang-peranakan-mansion
-srcHash: '9a26c14839dc'
+srcHash: '67198b7ad7f5'
 title: 'Pinang Peranakan Mansion: Guía de viaje de Penang (4,5★)'
 description: 'La Pinang Peranakan Mansion, en Georgetown, abre todos los días de 9:30 a 17:30 y es la mejor manera de conocer la casa de un comerciante baba nyonya del siglo XIX repleta de tallas de teca, incrustaciones de nácar y antigüedades. 4,5★ (6.430 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Pinang Peranakan Mansion, en Georgetown, abre todos los días de 9:30 a 17:30 y es la mejor manera de conocer la casa de un comerciante baba nyonya del siglo XIX repleta de tallas de teca, incrustaciones de nácar y antigüedades. Calcule entre 60 y 90 minutos para la visita. Las mañanas de fin de semana entre las 10:00 y las 11:00 son el momento más tranquilo; conviene evitar el mediodía hasta las 17:00 los fines de semana, cuando llegan los autobuses turísticos.

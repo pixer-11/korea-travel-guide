@@ -64,11 +64,11 @@ draft: false
 ---
 ## Why go
 
-You come here for the layering of eras as much as the plants. The bones of the garden are 1930s Works Progress Administration — geometric fountains, low limestone walls, Art Deco relief carvings tucked into corners you'd walk past if you weren't looking.
+You come here for the layering of eras as much as the plants. The bones of the garden are 1930s Works Progress Administration, geometric fountains, low limestone walls, Art Deco relief carvings tucked into corners you'd walk past if you weren't looking.
 
 Then the planting takes over: towering live oaks dripping Spanish moss, beds of camellias and azaleas timed to bloom in late winter and spring, and a greenhouse complex holding one of the more substantial orchid and cactus collections in the Gulf South.
 
-It's rated among the most-loved attractions in the city, and once you're inside the reason is obvious — it's quiet, shaded, and meticulously kept.
+It's rated among the most-loved attractions in the city, and once you're inside the reason is obvious. It's quiet, shaded, and meticulously kept.
 
 ## Getting there
 
@@ -76,11 +76,11 @@ The garden sits inside City Park, at 5 Victory Ave, on the north side of the par
 
 - **By car:** paid parking lots ring the park; the closest are off Victory Avenue, a short walk from the garden entrance.
 - **By streetcar:** the Canal Street Streetcar (Cemeteries line) runs to City Park; from the end of the line it's a 10–15 minute walk through the park to the garden.
-- **By bike:** City Park has rental bike stands, and cycling in is one of the more pleasant ways to arrive — the park's live oak allées make for a scenic ride.
+- **By bike:** City Park has rental bike stands, and cycling in is one of the more pleasant ways to arrive, the park's live oak allées make for a scenic ride.
 
 ## What to see
 
-Don't rush the greenhouses — they're where the collection gets specific. Look for:
+Don't rush the greenhouses. They're where the collection gets specific. Look for:
 
 - The **orchid house**, humid and dim, packed with blooms rotated seasonally
 - A dense **cactus and succulent** collection, some specimens decades old
@@ -97,12 +97,12 @@ Weekends tend to be the busiest time to visit, so if your schedule allows it, go
 
 ## How to visit like a local
 
-Buy your ticket at the entrance kiosk or ahead online if that option is available that season — lines are short outside peak weekend hours, so there's rarely a need to rush.
+Buy your ticket at the entrance kiosk or ahead online if that option is available that season, lines are short outside peak weekend hours, so there's rarely a need to rush.
 
 Cash and card are both accepted at the gate. This isn't a hidden spot; it's a well-known, well-reviewed City Park anchor, so the practical move is timing rather than secrecy.
 
 - Arrive right at 10am on a weekday to get the paths to yourself
-- Bring water — shade is good, but Louisiana humidity is relentless most of the year
+- Bring water, shade is good, but Louisiana humidity is relentless most of the year
 - Pair your visit with the adjacent New Orleans Museum of Art or a walk through the rest of City Park, since your garden ticket doesn't cover either
 - Wear shoes you don't mind getting a little damp near the fountains and pools
 

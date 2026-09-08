@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-comic-market-108-summer-comiket
-srcHash: '6db6b10362fd'
+srcHash: '5ba24e57f7bf'
 title: 'Comic Market 108 (Comiket de verano): lo que hay que saber en Tokio'
 description: El Comic Market 108 (Comiket de verano) estaba previsto para el 15 y 16 de agosto de 2026 en Tokyo Big Sight, en Odaiba/Ariake.
 quickAnswer: 'El Comic Market 108 (Comiket de verano) estaba previsto para el 15 y 16 de agosto de 2026 en Tokyo Big Sight, en Odaiba/Ariake. Se trata de la feria de doujinshi (manga y cómics hechos por fans) más grande del mundo: en ediciones anteriores ha reunido a varios cientos de miles de asistentes a lo largo del fin de semana, además de nutridas concentraciones de cosplayers fuera de los pabellones. Comiket anuncia los horarios exactos, los procedimientos de entrada y los detalles sobre las entradas a través de su sitio web oficial.'

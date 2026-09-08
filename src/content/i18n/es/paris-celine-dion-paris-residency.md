@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-celine-dion-paris-residency
-srcHash: '8ac1c50dcc26'
+srcHash: '258eae127365'
 title: 'Residencia de Céline Dion en París: Fechas, Entradas y Recinto (París)'
 description: La residencia de Céline Dion en París, Francia, se celebra del 12 de septiembre al 17 de octubre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar el viaje en torno a ella.
 quickAnswer: La residencia de Céline Dion en París se celebra del 12 de septiembre al 17 de octubre de 2026 en el Plénitude Arena, en el extremo este de la ciudad, y todas las funciones están agotadas. Si aún no tiene entrada, lo más recomendable es consultar los canales oficiales de reventa o mercados secundarios verificados, en lugar de presentarse en taquilla con la esperanza de conseguir una. Confirme las fechas exactas, los horarios de las funciones y la disponibilidad de entradas en el sitio oficial antes de planear el viaje.

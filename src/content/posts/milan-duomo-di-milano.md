@@ -45,23 +45,23 @@ draft: false
 ---
 ## Why go
 
-The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires — 135 of them — topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774.
+The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires, 135 of them, topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774.
 
 Rated among Milan's top attractions by hundreds of thousands of visitors, it's the unmissable centerpiece of the city and a genuinely singular piece of architecture: French Gothic bones dressed in distinctly Lombard, Italian ornamentation.
 
 ## Getting there
 
-The cathedral sits on Piazza del Duomo in the historic center, and it's hard to miss — every road in central Milan seems to funnel toward it. The easiest approach is the Duomo stop on Metro Line 1 (red) or Line 3 (yellow), which lets out directly onto the square. From Milano Centrale train station, it's a straightforward 15-minute ride on the M3 yellow line, no transfers needed.
+The cathedral sits on Piazza del Duomo in the historic center, and it's hard to miss, every road in central Milan seems to funnel toward it. The easiest approach is the Duomo stop on Metro Line 1 (red) or Line 3 (yellow), which lets out directly onto the square. From Milano Centrale train station, it's a straightforward 15-minute ride on the M3 yellow line, no transfers needed.
 
-Trams 1 and 2 also stop nearby if you'd rather see the city at street level. Because the piazza is fully pedestrianized, once you're off public transport you simply walk into the square — the cathedral's facade is the obvious focal point.
+Trams 1 and 2 also stop nearby if you'd rather see the city at street level. Because the piazza is fully pedestrianized, once you're off public transport you simply walk into the square. The cathedral's facade is the obvious focal point.
 
 ## What to see and do
 
-Start outside: circle the exterior first to appreciate the sheer density of buttresses, pinnacles, and statuary before joining the entry queue on the piazza side. Inside, the nave is vast and dim, lit through 15th- and 16th-century stained glass windows among the largest in Italy — look for the rose windows and the Trivulzio Candelabrum, a bronze seven-branched candlestick dating to around 1200. Beneath the altar, the crypt and the Baptistery of San Giovanni alle Fonti hold remnants of the early Christian and Roman structures that predate the current building.
+Start outside: circle the exterior first to appreciate the sheer density of buttresses, pinnacles, and statuary before joining the entry queue on the piazza side. Inside, the nave is vast and dim, lit through 15th- and 16th-century stained glass windows among the largest in Italy. Look for the rose windows and the Trivulzio Candelabrum, a bronze seven-branched candlestick dating to around 1200. Beneath the altar, the crypt and the Baptistery of San Giovanni alle Fonti hold remnants of the early Christian and Roman structures that predate the current building.
 
 The highlight for most visitors is the rooftop terrace, reached either by stairs or a lift for an added fee. From among the spires, the view stretches over Milan's rooftops to the Alps on a clear day, and it's the closest, most photogenic vantage point on the Madonnina statue. Buy a combined ticket that includes rooftop access, and consider adding the Museo del Duomo, adjacent in Palazzo Reale, which houses original statuary, tapestries, and models used across the cathedral's long construction history.
 
-Just outside, the Galleria Vittorio Emanuele II — Italy's opulent 19th-century glass-roofed shopping arcade — connects the piazza to La Scala opera house, making it an easy add-on before or after the cathedral visit.
+Just outside, the Galleria Vittorio Emanuele II, Italy's opulent 19th-century glass-roofed shopping arcade, connects the piazza to La Scala opera house, making it an easy add-on before or after the cathedral visit.
 
 ## When to go
 
@@ -69,4 +69,4 @@ Arrive at opening (typically around 8am) or in the last hour before closing to a
 
 ## Nearby & tips
 
-Book timed-entry tickets online in advance through the official Duomo website — walk-up lines, especially for rooftop access, can run well over an hour in peak season. Dress modestly: shoulders and knees should be covered, as it remains an active place of worship. Wear comfortable, grippy shoes for the rooftop's uneven stone stairs and walkways. After your visit, the pedestrian-friendly streets around Via Dante and Corso Vittorio Emanuele II offer cafés with piazza views if you want to sit and take in the facade at leisure rather than from inside a queue. Confirm current opening hours and ticket prices before you go, as both are periodically adjusted.
+Book timed-entry tickets online in advance through the official Duomo website. Walk-up lines, especially for rooftop access, can run well over an hour in peak season. Dress modestly: shoulders and knees should be covered, as it remains an active place of worship. Wear comfortable, grippy shoes for the rooftop's uneven stone stairs and walkways. After your visit, the pedestrian-friendly streets around Via Dante and Corso Vittorio Emanuele II offer cafés with piazza views if you want to sit and take in the facade at leisure rather than from inside a queue. Confirm current opening hours and ticket prices before you go, as both are periodically adjusted.

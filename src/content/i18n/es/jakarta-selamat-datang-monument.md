@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-selamat-datang-monument
-srcHash: 'f357f2e7dbef'
+srcHash: '5ba2ee1c6ebd'
 title: 'Monumento Selamat Datang: Guía de viaje de Yakarta (4.7★)'
 description: 'El Monumento Selamat Datang (Monumento de Bienvenida) se alza en el centro de Bundaran HI, la célebre rotonda de Yakarta en Menteng, Yakarta Central. Valoración de 4.7★ (8.643 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento Selamat Datang (Monumento de Bienvenida) se alza en el centro de Bundaran HI, la célebre rotonda de tráfico de Yakarta situada en Menteng, Yakarta Central. Se trata de un hito muy visitado y fácil de fotografiar, que luce mejor al atardecer, cuando se encienden las luces de la fuente y el tráfico gira a su alrededor. No hace falta entrada ni pagar nada, ya que se contempla desde las aceras y las plazas que rodean la rotonda, sin poder acercarse hasta la propia estatua.

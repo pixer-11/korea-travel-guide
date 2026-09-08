@@ -116,7 +116,7 @@ updatedDate: '2026-09-02'
 ---
 ## Why go
 
-Chin Swee Caves Temple isn't a quiet countryside shrine — it's a mountainside spectacle. Built into a steep mountain slope, the temple complex unfolds in tiers, with a towering pagoda visible long before you reach the entrance.
+Chin Swee Caves Temple isn't a quiet countryside shrine. It's a mountainside spectacle. Built into a steep mountain slope, the temple complex unfolds in tiers, with a towering pagoda visible long before you reach the entrance.
 
 The setting does the heavy lifting. Mist rolls through the surrounding hills for much of the year, and the cool air here is a relief if you've just come up from the tropical heat below.
 
@@ -136,7 +136,7 @@ Inside, look for:
 - The main shrine hall, thick with incense smoke and the murmur of chanting
 - Rows of golden Buddha statues lining outdoor terraces
 - Koi ponds and rock gardens tucked between staircases
-- Steep steps connecting each level — expect a real climb, not a flat stroll
+- Steep steps connecting each level. Expect a real climb, not a flat stroll
 
 Budget 45 minutes if you're moving quickly, or up to 90 if you want to wander every tier and sit for a while in the quieter upper terraces.
 
@@ -144,20 +144,20 @@ Budget 45 minutes if you're moving quickly, or up to 90 if you want to wander ev
 
 The temple is open daily from 7am to 7pm, with no variation across the week. Weekends get genuinely crowded between 10am and 6pm, when tour buses and day-trippers from Kuala Lumpur pile in.
 
-If you can, aim for the early morning hours right after opening, or the early evening before closing — both weekdays and weekends are calmest across that same 7am–7pm window outside the weekend midday rush. Overcast or drizzly days are common given the elevation, so bring a light jacket regardless of season.
+If you can, aim for the early morning hours right after opening, or the early evening before closing. Both weekdays and weekends are calmest across that same 7am–7pm window outside the weekend midday rush. Overcast or drizzly days are common given the elevation, so bring a light jacket regardless of season.
 
 ## How to visit like a local
 
 This is a well-visited stop on the Genting circuit, not a quiet find, so plan around the crowds rather than expecting to avoid them entirely.
 
 - Arrive close to 7am opening or after 4-5pm to skip the weekend 10am–6pm peak
-- Dress modestly — covered shoulders and knees are appreciated in the shrine halls, as at any active Buddhist temple
+- Dress modestly, covered shoulders and knees are appreciated in the shrine halls, as at any active Buddhist temple
 - Remove shoes where signage indicates before entering enclosed prayer areas
 - Keep voices low near the main altar; this is a functioning place of worship, not just a photo stop
 - Bring small bills if you want to make a donation or light incense, as informal offering stalls typically deal in cash
-- Wear shoes with grip — the stairs are steep, sometimes damp from mist, and there are a lot of them
+- Wear shoes with grip. The stairs are steep, sometimes damp from mist, and there are a lot of them
 
-The most common tourist misstep is treating it purely as a viewpoint and rushing the stairs for photos. Slow down on the upper terraces — they're where the temple feels least like a tour stop and most like what it actually is.
+The most common tourist misstep is treating it purely as a viewpoint and rushing the stairs for photos. Slow down on the upper terraces. They're where the temple feels least like a tour stop and most like what it actually is.
 
 ## Nearby
 

@@ -77,22 +77,22 @@ The room does a lot of the work. Light comes in low and even through big windows
 
 ## Getting there
 
-The address is Shop G6, Hong Kong Heritage Museum, 1 Man Lam Road, Sha Tin — so the easiest way in is through the museum itself.
+The address is Shop G6, Hong Kong Heritage Museum, 1 Man Lam Road, Sha Tin, so the easiest way in is through the museum itself.
 
-- **MTR**: Che Kung Temple Station (Ma On Shan Line), Exit B — about a 10-minute walk along the river path.
+- **MTR**: Che Kung Temple Station (Ma On Shan Line), Exit B, about a 10-minute walk along the river path.
 - **Alternative**: Sha Tin Station (East Rail Line) is a bit further, roughly 15–20 minutes on foot, but walkable if you're combining it with a stroll along the Shing Mun River.
 - You don't need a museum ticket to reach the cafe; it sits near the entrance level and functions as a standalone stop.
 
 ## What to eat and drink
 
-This is a mid-range cafe menu built around coffee, brunch plates and cake — nothing experimental, everything competent.
+This is a mid-range cafe menu built around coffee, brunch plates and cake, nothing experimental, everything competent.
 
 - Espresso drinks and pour-overs, generally solid rather than showy
-- All-day brunch sets — eggs, toast, salad, the usual comfort combination
+- All-day brunch sets, eggs, toast, salad, the usual comfort combination
 - Pasta and rice plates if you want something more like lunch
 - Cakes and pastries displayed at the counter, good for splitting
 
-Portions and pricing sit in the everyday mid-range bracket — enough that it works as a proper meal, not just a snack stop.
+Portions and pricing sit in the everyday mid-range bracket, enough that it works as a proper meal, not just a snack stop.
 
 ## When to go
 
@@ -100,16 +100,16 @@ Hours shift slightly across the week, so it's worth knowing before you plan arou
 
 Crowd patterns follow a pretty clear rhythm. Weekdays stay calm across the whole 10am–10pm stretch, making any weekday visit a safe bet if you want space and quiet.
 
-Weekends are the opposite story — busy from 9am through to around 8pm, likely fueled by museum foot traffic and families passing through. If you're set on a weekend trip, aim for after 8pm when the crowd data suggests things finally thin out.
+Weekends are the opposite story, busy from 9am through to around 8pm, likely fueled by museum foot traffic and families passing through. If you're set on a weekend trip, aim for after 8pm when the crowd data suggests things finally thin out.
 
 ## What to see nearby
 
-Pair the cafe with the museum itself if you haven't already — the Hong Kong Heritage Museum's Cantonese opera and New Territories heritage galleries are worth the detour even on a quick visit. Outside, the Shing Mun River promenade is a pleasant, flat walk in either direction, popular with joggers and cyclists in the early morning and evening.
+Pair the cafe with the museum itself if you haven't already, the Hong Kong Heritage Museum's Cantonese opera and New Territories heritage galleries are worth the detour even on a quick visit. Outside, the Shing Mun River promenade is a pleasant, flat walk in either direction, popular with joggers and cyclists in the early morning and evening.
 
 Sha Tin Park sits a short walk further along the river if you want greenery beyond the museum grounds, and Sha Tin's New Town Plaza is a straightforward stop if you're heading back toward the MTR and want shopping or a bigger food court.
 
 ## How to visit like a local
 
-Treat this as a mid-visit stop, not a destination meal — that's how it naturally gets used, wedged between gallery wings or after a river walk. Order at the counter or table depending on how busy it looks; card and mobile payment (Octopus, major apps) are standard across Hong Kong cafes like this one, so don't worry about carrying cash specifically for it.
+Treat this as a mid-visit stop, not a destination meal. That's how it naturally gets used, wedged between gallery wings or after a river walk. Order at the counter or table depending on how busy it looks; card and mobile payment (Octopus, major apps) are standard across Hong Kong cafes like this one, so don't worry about carrying cash specifically for it.
 
-Since it isn't yet a well-known name outside the museum crowd, you won't need a reservation — just walk in. The main mistake visitors make is showing up right at Saturday or Sunday lunchtime expecting quiet; the crowd data is clear that 9am to 8pm on weekends is the busy stretch, so a weekday visit or a post-8pm weekend coffee is the better move if you want the room to yourself.
+Since it isn't yet a well-known name outside the museum crowd, you won't need a reservation, just walk in. The main mistake visitors make is showing up right at Saturday or Sunday lunchtime expecting quiet; the crowd data is clear that 9am to 8pm on weekends is the busy stretch, so a weekday visit or a post-8pm weekend coffee is the better move if you want the room to yourself.

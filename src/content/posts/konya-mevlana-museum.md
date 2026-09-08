@@ -107,33 +107,33 @@ Side galleries hold the real texture of the place:
 - A rock crystal and gold reliquary said to contain a hair of the Prophet
 - Ornate ney flutes and other instruments tied to the Mevlevi Sema ceremony
 
-Wooden cells that once housed dervishes now display wax figures recreating lodge life — cooking, chanting, meditating. It's a small museum by international standards, but dense with detail, so give it a genuinely unhurried 45 to 90 minutes.
+Wooden cells that once housed dervishes now display wax figures recreating lodge life, cooking, chanting, meditating. It's a small museum by international standards, but dense with detail, so give it a genuinely unhurried 45 to 90 minutes.
 
 ## Getting there
 
-The museum sits on Mevlana Caddesi in Karatay, central enough to walk from most of old Konya. Trams run along this corridor — get off at the Mevlana stop and it's a two-minute walk to the entrance gate.
+The museum sits on Mevlana Caddesi in Karatay, central enough to walk from most of old Konya. Trams run along this corridor, get off at the Mevlana stop and it's a two-minute walk to the entrance gate.
 
-If you're coming from the otogar (bus station) or the high-speed train station, a taxi or tram connection into the centre is straightforward and inexpensive. Once you're near Alaeddin Hill, everything — the museum, the mosque, the old bazaar streets — is within easy walking distance.
+If you're coming from the otogar (bus station) or the high-speed train station, a taxi or tram connection into the centre is straightforward and inexpensive. Once you're near Alaeddin Hill, everything (the museum, the mosque, the old bazaar streets) is within easy walking distance.
 
 ## When to go
 
 Mornings right at opening, 9am, are consistently the calmest window, and that holds true on both weekdays and weekends. The crush builds toward midday.
 
-Avoid arriving between 12pm and 5pm on weekends if you can — that's when tour groups and domestic visitors stack up hardest at the entrance and around the main tomb chamber. Late afternoon, after 5pm, is a good fallback since the museum stays open until 6:30pm daily.
+Avoid arriving between 12pm and 5pm on weekends if you can. That's when tour groups and domestic visitors stack up hardest at the entrance and around the main tomb chamber. Late afternoon, after 5pm, is a good fallback since the museum stays open until 6:30pm daily.
 
 December is worth knowing about separately: the Şeb-i Arus commemoration around December 17, marking the anniversary of Rumi's death, draws large crowds for whirling dervish ceremonies across the city. Beautiful to witness, but expect the museum itself to be packed that week.
 
 ## How to visit like a local
 
-This is a functioning shrine as well as a museum, and Konya is a conservative city — dress and behave accordingly.
+This is a functioning shrine as well as a museum, and Konya is a conservative city, dress and behave accordingly.
 
 - Cover shoulders and knees; women may want a scarf handy, though it's not strictly required in the museum itself
 - Remove your shoes at the marked point before entering the mausoleum hall
-- Keep voices low near the tombs — many visitors are there to pray, not sightsee
+- Keep voices low near the tombs. Many visitors are there to pray, not sightsee
 - Photography is generally allowed in the galleries but avoid using flash near the sarcophagi and manuscripts
 
-Because this is one of Turkey's most-visited museums, don't expect a quiet, undiscovered spot — plan around the crowds rather than hoping to avoid them entirely. Buy your ticket at the gate; there's rarely a need to book ahead, but the queue for security screening can be the real bottleneck on busy afternoons, more than the ticket line itself.
+Because this is one of Turkey's most-visited museums, don't expect a quiet, undiscovered spot. Plan around the crowds rather than hoping to avoid them entirely. Buy your ticket at the gate; there's rarely a need to book ahead, but the queue for security screening can be the real bottleneck on busy afternoons, more than the ticket line itself.
 
 Most locals and repeat visitors treat the visit as a loop: mausoleum first while your attention is freshest, then the artifact galleries, finishing outside in the small garden courtyard where the crowd noise fades and you can actually look back at that dome.
 
-Pair the trip with the Selimiye Mosque directly across the square and the Konya Bazaar a short walk north — both fit naturally into the same morning or late-afternoon outing.
+Pair the trip with the Selimiye Mosque directly across the square and the Konya Bazaar a short walk north, both fit naturally into the same morning or late-afternoon outing.

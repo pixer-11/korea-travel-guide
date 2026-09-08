@@ -30,11 +30,11 @@ eventFactsAsked: true
 ---
 ## Why this matters for travelers
 
-Vietnam has never hosted Miss World in the contest's 73-plus year history, so the 2026 edition was billed as a genuine first for the country — and it fell during the pageant's 75th anniversary, which organizers planned to treat as a milestone with extra ceremony, media coverage, and side events. The programme was built as a monthlong international event across two of Vietnam's biggest cities — Hanoi in the north and Ho Chi Minh City (Saigon) in the south — with contestants and press from well over 100 countries on the schedule.
+Vietnam has never hosted Miss World in the contest's 73-plus year history, so the 2026 edition was billed as a genuine first for the country (and it fell during the pageant's 75th anniversary, which organizers planned to treat as a milestone with extra ceremony, media coverage, and side events. The programme was built as a monthlong international event across two of Vietnam's biggest cities) Hanoi in the north and Ho Chi Minh City (Saigon) in the south, with contestants and press from well over 100 countries on the schedule.
 
 ## The timeline: what's confirmed
 
-The event was set for August 9 to September 5, 2026 — nearly four weeks. The pageant format traditionally front-loads a long stretch of arrivals, national costume presentations, fast-track challenges (sport, talent, beach beauty, etc.), and cultural excursions, before narrowing to a televised final. The announced structure broke down like this:
+The event was set for August 9 to September 5, 2026, nearly four weeks. The pageant format traditionally front-loads a long stretch of arrivals, national costume presentations, fast-track challenges (sport, talent, beach beauty, etc.), and cultural excursions, before narrowing to a televised final. The announced structure broke down like this:
 
 - **Early-to-mid August**: roughly 130 contestants arriving, with welcome ceremonies and orientation, split between Hanoi and other Vietnamese destinations for sightseeing and pre-competition segments.
 - **Late August**: fast-track finals and sub-competitions; in past editions, some of these have been open to ticketed public attendance.

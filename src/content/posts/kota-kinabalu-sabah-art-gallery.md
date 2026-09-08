@@ -85,7 +85,7 @@ updatedDate: '2026-09-07'
 
 You come here for a quiet, air-conditioned hour that most visitors to Kota Kinabalu never bother with. The building itself is the first surprise: a tiered, pyramid-like structure with sloping roofs that nods to traditional longhouse rooflines rather than the glass towers along the waterfront. Step inside and the noise of the city drops away almost instantly.
 
-Sabah Art Gallery is the state's main venue for contemporary Bornean art, and it punches above its size. Expect paintings, sculpture, and mixed-media pieces from Sabahan and Malaysian artists, often alongside touring international shows. It's not the Louvre — it's small enough to see properly in under two hours, which is exactly its appeal.
+Sabah Art Gallery is the state's main venue for contemporary Bornean art, and it punches above its size. Expect paintings, sculpture, and mixed-media pieces from Sabahan and Malaysian artists, often alongside touring international shows. It's not the Louvre. It's small enough to see properly in under two hours, which is exactly its appeal.
 
 ## What you'll see inside
 
@@ -93,7 +93,7 @@ Layout varies by exhibition, since the gallery rotates shows through several hal
 
 Look out for:
 
-- Works exploring Sabah's indigenous cultures — Kadazan-Dusun, Bajau, Murut motifs reimagined in contemporary painting and textile
+- Works exploring Sabah's indigenous cultures, Kadazan-Dusun, Bajau, Murut motifs reimagined in contemporary painting and textile
 - Batik and woodcarving pieces alongside oil and acrylic canvases
 - Rotating exhibitions from visiting Malaysian and Southeast Asian artists
 - Occasional photography or mixed-media installations in the smaller side galleries
@@ -102,13 +102,13 @@ Wall text is generally in both Bahasa Malaysia and English, so you're not left g
 
 ## Getting there
 
-The gallery sits at 14, Jalan Shantung, a short drive or taxi ride from central Kota Kinabalu — figure on 10–15 minutes from the waterfront hotels around Gaya Street, traffic depending. It's not really a walkable stroll from the old town, so a Grab (the regional ride-hailing app) is the simplest option.
+The gallery sits at 14, Jalan Shantung, a short drive or taxi ride from central Kota Kinabalu, figure on 10–15 minutes from the waterfront hotels around Gaya Street, traffic depending. It's not really a walkable stroll from the old town, so a Grab (the regional ride-hailing app) is the simplest option.
 
 There's no MRT or rail system in Kota Kinabalu, so taxis and Grab are how most visitors and locals alike get around the city for stops like this one. If you're combining it with other sights, it pairs easily with a half-day loop that also takes in the Sabah State Museum, which sits nearby and covers natural history and ethnography rather than contemporary art.
 
 ## When to go
 
-The gallery is open Tuesday through Sunday, 9am to 4pm, and closed all day Monday — plan around that if you're building a tight itinerary. Because it's still relatively under-the-radar compared with Kota Kinabalu's beaches and markets, you're unlikely to fight crowds here regardless of when you turn up.
+The gallery is open Tuesday through Sunday, 9am to 4pm, and closed all day Monday. Plan around that if you're building a tight itinerary. Because it's still relatively under-the-radar compared with Kota Kinabalu's beaches and markets, you're unlikely to fight crowds here regardless of when you turn up.
 
 That said, weekday mornings shortly after the 9am opening tend to be the calmest, before any school groups or tour groups pass through later in the day. Midday can bring a bit more foot traffic on weekends, so if you want the galleries to yourself, aim early.
 
@@ -116,10 +116,10 @@ The gallery's cool interior also makes it a smart stop during the hottest, muggi
 
 ## How to visit like a local
 
-Treat it as a low-key, unhurried stop rather than a headline attraction — that's how most people who do visit actually experience it. Arrive soon after opening on a weekday for the emptiest halls and best light through the upper windows.
+Treat it as a low-key, unhurried stop rather than a headline attraction. That's how most people who do visit actually experience it. Arrive soon after opening on a weekday for the emptiest halls and best light through the upper windows.
 
 Admission fees for state galleries in Malaysia are typically modest, but they do change, so confirm the current entry price at the counter rather than assuming. Payment is usually accepted in cash; carrying a little ringgit in small notes avoids any friction at the desk.
 
-Dress is casual — there's no strict code — but bring a light layer if you run cold, since the air conditioning can be strong compared to the tropical heat outside. Photography is often allowed in the main halls, though flash and photos are sometimes restricted around specific loaned or fragile pieces, so check signage exhibition by exhibition rather than assuming a blanket rule.
+Dress is casual, there's no strict code, but bring a light layer if you run cold, since the air conditioning can be strong compared to the tropical heat outside. Photography is often allowed in the main halls, though flash and photos are sometimes restricted around specific loaned or fragile pieces, so check signage exhibition by exhibition rather than assuming a blanket rule.
 
 The biggest mistake visitors make is treating it as a five-minute photo-op on the way to somewhere else. Slow down, read the didactic panels, and you'll leave with a genuinely different sense of Sabah than the beaches and dive shops give you.

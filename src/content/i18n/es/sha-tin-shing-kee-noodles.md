@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-shing-kee-noodles
-srcHash: 'c8ac7ba12758'
+srcHash: '5cdc0772a349'
 title: 'Shing Kee Noodles: dónde comer en Sha Tin (4.2★)'
 description: Shing Kee Noodles es un local cantonés de fideos sin pretensiones, escondido en el antiguo mercado de Lek Yuen Estate en Sha Tin, conocido por sus fideos wonton, congee y carnes asadas servidas en desgastadas mesas de metal. 4.2★ (1200 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Shing Kee Noodles es un local cantonés de fideos sin pretensiones, escondido en el antiguo mercado de Lek Yuen Estate en Sha Tin, conocido por sus fideos wonton, congee y carnes asadas servidas en desgastadas mesas de metal. Ve justo a las 6am, cuando abre, o entre las 7am y las 8am los fines de semana, ya que se mantiene concurrido de 10am a 9pm; cierra de 4 a 7pm todos los días y de nuevo a las 11pm. Lleva efectivo y prepárate para compartir mesa.

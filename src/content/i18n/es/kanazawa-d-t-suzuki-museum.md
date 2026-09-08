@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-d-t-suzuki-museum
-srcHash: 'fb12cfa97f73'
+srcHash: '1018f9ef270c'
 title: 'Museo D.T. Suzuki: Guía de viaje de Kanazawa (4,5★)'
 description: 'El Museo D.T. Suzuki, situado en el distrito de Hondamachi de Kanazawa, está dedicado al erudito budista zen D.T. Suzuki, nacido en esta ciudad. 4,5★ (2.355 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: El Museo D.T. Suzuki, en el distrito de Hondamachi de Kanazawa, está dedicado al erudito budista zen D.T. Suzuki, nacido en esta ciudad. Abre de martes a domingo, de 9:30 a 17:00 (cierra los lunes), y los fines de semana se mantiene concurrido de 10:00 a 17:00, así que una visita entre semana, a primera o última hora, permite disfrutar del jardín del espejo de agua casi en silencio. Conviene reservar entre 45 y 75 minutos, y combina fácilmente con el Kenroku-en y el Parque del Castillo de Kanazawa, que están cerca.

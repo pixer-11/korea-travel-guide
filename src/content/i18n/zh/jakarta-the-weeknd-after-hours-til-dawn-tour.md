@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-the-weeknd-after-hours-til-dawn-tour
-srcHash: 'e93d072b0ddb'
+srcHash: 'fe8f2e871299'
 title: The Weeknd“After Hours Til Dawn”巡演雅加达站观演指南
 description: The Weeknd“After Hours Til Dawn”世界巡演将于2026年9月26日至27日登陆印度尼西亚雅加达——这场演出到底是什么、时间地点如何安排，以及该怎样围绕它规划行程，本文一次讲清楚。
 quickAnswer: The Weeknd将于2026年9月26日至27日一连两晚在雅加达国际体育场（Jakarta International Stadium，简称JIS）举办“AFTER HOURS TIL DAWN”世界巡演，这也是本次巡演在东南亚的首站。规划行程时最好把两个日期当作一场完整的活动来看待：预订机票和酒店时按在北雅加达连住数晚来安排，同时务必在The Weeknd官方巡演网站或Live Nation Indonesia上确认具体入场时间、曲目安排和票档信息——目前这些细节都还没有公开确定，购票前一定要核实清楚。

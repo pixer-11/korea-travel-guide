@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-xava-skybar
-srcHash: 'c0aebd53886c'
+srcHash: '3b220f559ed5'
 title: 'Xava Skybar: guía de viaje de Singapur'
 description: 'Xava Skybar en Singapur, Singapur — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Xava Skybar se encuentra en la azotea del National Gallery Singapore, un espacio al aire libre de 7,000 pies cuadrados con vistas despejadas sobre Marina Bay, asientos tanto interiores como al aire libre, y un menú que va desde el Wagyu Tataki hasta cócteles de autor. Abrió oficialmente el 1 de agosto de 2026, así que todavía es muy nuevo: reserva con antelación, llega antes del atardecer para conseguir una mesa con vista despejada del horizonte, y confirma directamente con el local los horarios y la política de reservas vigentes antes de ir.'

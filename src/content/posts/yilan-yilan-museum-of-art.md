@@ -72,13 +72,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You spot Yilan Museum of Art before you know its name — a low, dark-timbered building with a pitched roof that looks more like a preserved train station than a gallery. That's because it was one, in a sense: the structure began life as a Japanese-era rice storage and administrative building tied to Yilan's old government precinct, and the museum has kept its wooden beams, sliding-door proportions, and quiet dignity intact.
+You spot Yilan Museum of Art before you know its name, a low, dark-timbered building with a pitched roof that looks more like a preserved train station than a gallery. That's because it was one, in a sense: the structure began life as a Japanese-era rice storage and administrative building tied to Yilan's old government precinct, and the museum has kept its wooden beams, sliding-door proportions, and quiet dignity intact.
 
 Walk through Nanmen Village and the museum announces itself by contrast. Around it are noodle shops, scooters parked three-deep, and the ordinary hum of Yilan City. Then you step onto the museum's gravel and grass forecourt and the noise drops away.
 
 ## Why it's worth the detour
 
-This isn't a blockbuster museum with wall-to-wall crowds — it's a small, well-curated space for contemporary and regional Taiwanese art. Exhibitions rotate regularly, often spotlighting Yilan County artists or design-focused shows that use the building's traditional wooden rooms as part of the display.
+This isn't a blockbuster museum with wall-to-wall crowds. It's a small, well-curated space for contemporary and regional Taiwanese art. Exhibitions rotate regularly, often spotlighting Yilan County artists or design-focused shows that use the building's traditional wooden rooms as part of the display.
 
 The architecture is half the draw. Low ceilings, timber beams, and paper-screen-style windows filter the light differently than a white-cube gallery would, so paintings and installations sit in a warmer, softer glow than you'd expect.
 
@@ -92,7 +92,7 @@ The museum sits at No. 1, Section 3, Zhongshan Road, right in central Yilan City
 
 ## What to expect inside
 
-Rooms are compact, so this isn't a half-day museum — plan for roughly 45 minutes to an hour, more if a temporary exhibition catches you.
+Rooms are compact, so this isn't a half-day museum. Plan for roughly 45 minutes to an hour, more if a temporary exhibition catches you.
 
 - Check current exhibitions before you go, since the permanent collection is limited and the rotating shows are the real draw.
 - Signage mixes Chinese and English, though descriptions can be brief.
@@ -100,7 +100,7 @@ Rooms are compact, so this isn't a half-day museum — plan for roughly 45 minut
 
 ## When to go
 
-The museum runs 9am–5pm Tuesday through Sunday, and it's closed all day Monday — plan around that if you're building a Yilan itinerary.
+The museum runs 9am–5pm Tuesday through Sunday, and it's closed all day Monday. Plan around that if you're building a Yilan itinerary.
 
 Weekends are the busiest window, running the full 9am–5pm stretch, but "busiest" here is relative. With a 4.4-star rating built from under a thousand reviews, this stays a low-key stop rather than a tour-bus destination, so even a Saturday afternoon feels unhurried.
 
@@ -108,11 +108,11 @@ If you want the rooms to yourself, aim for a weekday morning shortly after openi
 
 ## How to visit like a local
 
-Treat this as a slow, deliberate stop rather than a checklist item — that's how it's meant to be seen.
+Treat this as a slow, deliberate stop rather than a checklist item. That's how it's meant to be seen.
 
 - Arrive on a weekday if your schedule allows; the museum sees far less foot traffic than Yilan's outdoor markets or hot spring towns nearby.
 - Pay any admission or special-exhibition fee at the front desk; small museums like this in Taiwan typically accept cash and often mobile payment, but bringing a little cash is the safer bet.
-- Take your shoes off if a room requires it — some traditional wooden-floor sections ask visitors to remove footwear or use provided slippers.
+- Take your shoes off if a room requires it, some traditional wooden-floor sections ask visitors to remove footwear or use provided slippers.
 - Don't rush past the building's exterior. Locals and repeat visitors often linger in the forecourt and side gardens, since the architecture itself is part of the exhibit.
 - The most common mistake: treating it as a quick photo-op. Slow down, read the exhibition notes, and let the quiet, wood-scented rooms do their work.
 

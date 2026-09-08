@@ -96,9 +96,9 @@ updatedDate: '2026-09-06'
 ---
 ## Why Patara is worth the detour
 
-You come around a bend on the road from Kalkan and the valley opens up — flat, green, ringed by hills, with fragments of marble poking out of fennel and wild grass. This is Patara, once the chief port of the Lycian League, now a ruin field so large you'll walk a good kilometer before you've seen half of it.
+You come around a bend on the road from Kalkan and the valley opens up, flat, green, ringed by hills, with fragments of marble poking out of fennel and wild grass. This is Patara, once the chief port of the Lycian League, now a ruin field so large you'll walk a good kilometer before you've seen half of it.
 
-The scale is what surprises people. This isn't a single temple or a tidy amphitheater roped off in a town square — it's a whole ancient city, harbor included, slowly being excavated from sand dunes that swallowed it centuries ago.
+The scale is what surprises people. This isn't a single temple or a tidy amphitheater roped off in a town square. It's a whole ancient city, harbor included, slowly being excavated from sand dunes that swallowed it centuries ago.
 
 ## What you'll actually see
 
@@ -112,11 +112,11 @@ Highlights to look for:
 - The **Roman baths** and a restored **lighthouse** near the beach, one of the oldest known in the world
 - The old **harbor basin**, now silted up and grazed by cattle
 
-Bring water and sun protection — there's very little shade once you're past the entrance, and the walk between sites is longer than it looks on the map.
+Bring water and sun protection. There's very little shade once you're past the entrance, and the walk between sites is longer than it looks on the map.
 
 ## The beach at the end of it
 
-Patara's other claim to fame is the beach beyond the dunes — a long stretch of pale sand backed by Mediterranean scrub, largely undeveloped because it's a protected loggerhead turtle nesting site. Combine ticket and towel: many visitors do ruins first, swim after.
+Patara's other claim to fame is the beach beyond the dunes, a long stretch of pale sand backed by Mediterranean scrub, largely undeveloped because it's a protected loggerhead turtle nesting site. Combine ticket and towel: many visitors do ruins first, swim after.
 
 There's a small café setup near the beach access, but options are limited, so pack snacks if you're staying past midday.
 
@@ -134,11 +134,11 @@ Arriving right at opening gets you the ruins in soft morning light, before the h
 
 ## How to visit like a local
 
-Patara draws heavy visitor numbers, so the goal here isn't finding a quiet secret — it's timing your visit to dodge the peak.
+Patara draws heavy visitor numbers, so the goal here isn't finding a quiet secret. It's timing your visit to dodge the peak.
 
 - **Go before noon**, ideally close to the 8am opening, and avoid the 12pm–6pm weekend window entirely if you can.
-- **Pay at the entrance booth** — card and cash are both generally accepted, but carry some cash as backup since machines occasionally go down in rural sites like this.
-- **Wear closed shoes**, not sandals — paths are uneven stone and sun-baked dirt, not paved walkway.
+- **Pay at the entrance booth**, card and cash are both generally accepted, but carry some cash as backup since machines occasionally go down in rural sites like this.
+- **Wear closed shoes**, not sandals, paths are uneven stone and sun-baked dirt, not paved walkway.
 - **Combine with the beach**: bring a swimsuit and towel under your clothes so you're not carrying extra gear through the ruins.
-- The common mistake is treating this as a quick photo stop. Patara rewards slow walking — budget at least two hours for the ruins alone, more if you're adding the beach.
+- The common mistake is treating this as a quick photo stop. Patara rewards slow walking. Budget at least two hours for the ruins alone, more if you're adding the beach.
 - Confirm current opening hours and ticket prices before you go, since these can shift seasonally.

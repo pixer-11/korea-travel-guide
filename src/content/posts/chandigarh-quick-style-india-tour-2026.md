@@ -33,9 +33,9 @@ eventFactsAsked: true
 ---
 ## Why this stop matters
 
-Quick Style isn't your average touring act. The Norwegian crew — three dancers who built a global following on tightly choreographed, high-energy routines shared across social platforms — has become one of the biggest crossover dance acts to tour India in recent years. Their India run moved through Delhi, Mumbai and Bengaluru, and Chandigarh was the next city on the schedule, with the show set for August 29, 2026.
+Quick Style isn't your average touring act. The Norwegian crew (three dancers who built a global following on tightly choreographed, high-energy routines shared across social platforms) has become one of the biggest crossover dance acts to tour India in recent years. Their India run moved through Delhi, Mumbai and Bengaluru, and Chandigarh was the next city on the schedule, with the show set for August 29, 2026.
 
-For a city that isn't always first in line for international tours, a Quick Style date is a genuine event. The audience for a show like this reaches well past the city limits — dance students, college crews and families across Punjab, Haryana and Himachal Pradesh.
+For a city that isn't always first in line for international tours, a Quick Style date is a genuine event. The audience for a show like this reaches well past the city limits, dance students, college crews and families across Punjab, Haryana and Himachal Pradesh.
 
 ## What actually happens on show night
 
@@ -47,11 +47,11 @@ The Chandigarh venue was never named publicly, so there was no arena to build a 
 
 Chandigarh is well-connected for a tour stop of this scale. Chandigarh International Airport (IXC) has domestic connections from Delhi, Mumbai and other major metros, which makes it a realistic short-haul add-on for anyone following the tour from an earlier city. The Chandigarh Railway Station and Sector 43 ISBT bus terminal handle heavy traffic from Delhi (about a 4-5 hour drive via NH44) and Punjab's major cities, and they are the practical fallback when flights are full.
 
-Once in the city, Chandigarh's grid-based sector layout and local auto-rickshaws or app-based cabs make reaching most venues straightforward — though transport routes hinge entirely on the venue's sector number.
+Once in the city, Chandigarh's grid-based sector layout and local auto-rickshaws or app-based cabs make reaching most venues straightforward, though transport routes hinge entirely on the venue's sector number.
 
 ## Where to stay and what to pair it with
 
-Sector 17 and Sector 35 are Chandigarh's commercial hearts, dense with mid-range hotels, cafes and easy access to shopping — a sensible base whichever sector a show lands in. Chandigarh rewards a full day: Sukhna Lake for an early morning walk, the Rock Garden's surreal recycled-art sculptures, and Le Corbusier's modernist Capitol Complex (a UNESCO World Heritage Site) are all classic half-day visits that pair naturally with an evening show.
+Sector 17 and Sector 35 are Chandigarh's commercial hearts, dense with mid-range hotels, cafes and easy access to shopping, a sensible base whichever sector a show lands in. Chandigarh rewards a full day: Sukhna Lake for an early morning walk, the Rock Garden's surreal recycled-art sculptures, and Le Corbusier's modernist Capitol Complex (a UNESCO World Heritage Site) are all classic half-day visits that pair naturally with an evening show.
 
 Chandigarh in August brings heat and monsoon humidity, so outdoor sightseeing works best in the morning hours, with the afternoon left for resting up ahead of a high-energy evening on your feet.
 
@@ -59,7 +59,7 @@ Chandigarh in August brings heat and monsoon humidity, so outdoor sightseeing wo
 
 Chandigarh residents are used to events at Tagore Theatre, the Sector 17 Parade Ground, or occasionally larger sports and exhibition grounds when a touring act needs more capacity, so entry patterns depended on the venue rather than following a single general-admission rule. Locals typically pay and buy tickets digitally through UPI apps and authorized platforms rather than carrying cash to gates, and major tour stops in Delhi and Mumbai reportedly sold through quickly.
 
-Light, comfortable clothing is the norm — Chandigarh in late August is hot and humid, and these shows involve a lot of standing and dancing along with the performers. Chandigarh's traffic and parking vary enormously by sector, which made the unnamed venue a genuine complication for out-of-town visitors weighing flights and hotels.
+Light, comfortable clothing is the norm, Chandigarh in late August is hot and humid, and these shows involve a lot of standing and dancing along with the performers. Chandigarh's traffic and parking vary enormously by sector, which made the unnamed venue a genuine complication for out-of-town visitors weighing flights and hotels.
 
 ## What wasn't settled
 

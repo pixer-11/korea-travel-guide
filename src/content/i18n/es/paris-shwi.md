@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-shwi
-srcHash: '3d204ef5acbb'
+srcHash: 'fc0671b891a7'
 title: 'Shwi, Canal Saint-Martin: menú, precios y horarios (París, 4,2★)'
 description: 'Pollo asado al estilo libanés junto al Canal Saint-Martin, del equipo de Kubri: qué ofrece el menú, cuánto cuesta, horarios y las horas más tranquilas. 4,2★.'
 quickAnswer: Shwi es un puesto de pollo asado libanés del equipo detrás de Kubri, instalado junto al Canal Saint-Martin, en el distrito 10 de París. Abrió en la primavera de 2026 y rápidamente se ha convertido en uno de los favoritos para almorzar o comprar para llevar junto al canal. Conviene ir un día entre semana para esperar menos, y confirmar los horarios actuales antes de acercarse, ya que se trata de un local todavía nuevo y los detalles pueden cambiar.

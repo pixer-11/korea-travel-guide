@@ -49,7 +49,7 @@ draft: false
 
 ## Why go
 
-You don't visit Matinloc Shrine for the building itself — you visit for the feeling of finding it.
+You don't visit Matinloc Shrine for the building itself, you visit for the feeling of finding it.
 
 Built in 1982 and now largely abandoned, the shrine sits wedged between a narrow beach and a limestone cliff face on Matinloc Island. Salt air has stripped the paint from its white dome, vines creep up the walls, and the whole structure has an eerie, frozen-in-time quality that draws a small but curious stream of visitors each year.
 
@@ -82,20 +82,20 @@ Most tours pair this stop with nearby spots like Secret Beach or Hidden Beach, s
 
 Dry season, roughly November through May, gives you the calmest seas and the best odds the tour actually runs.
 
-Afternoon light tends to hit the dome and cliffs at a better angle for photos than the flat glare of midday. Since this is a stop within a longer boat tour rather than a standalone destination, you don't choose your own arrival time — your operator's schedule does.
+Afternoon light tends to hit the dome and cliffs at a better angle for photos than the flat glare of midday. Since this is a stop within a longer boat tour rather than a standalone destination, you don't choose your own arrival time, your operator's schedule does.
 
 If you're booking privately rather than joining a group tour, ask your boatman for an early departure. Fewer boats means a quieter beach landing and more room to explore the steps without waiting your turn.
 
 ## How to visit like a local
 
-Matinloc Shrine still flies under the radar compared to El Nido's bigger-name stops, and that's part of its appeal — treat it as a quiet detour, not a headline attraction.
+Matinloc Shrine still flies under the radar compared to El Nido's bigger-name stops, and that's part of its appeal, treat it as a quiet detour, not a headline attraction.
 
 - **Book through Tour C**, not as a standalone trip; almost nobody arranges private boats just for the shrine.
-- **Pay your operator in cash**, in pesos, when you book — most small operators don't take cards.
+- **Pay your operator in cash**, in pesos, when you book. Most small operators don't take cards.
 - **Wear water shoes or sturdy sandals.** The beach landing and stone steps are uneven and can be slippery when wet.
-- **Bring your own water.** There's nothing to buy on the island — no vendors, no facilities.
+- **Bring your own water.** There's nothing to buy on the island, no vendors, no facilities.
 - **Don't expect a maintained site.** The mistake first-timers make is picturing a polished shrine; it's genuinely abandoned, and that's the point.
 - **Respect the space.** It's still a religious site to some Filipino visitors, so keep noise down and don't climb on unstable structural elements.
 
-If your boatman offers extra time to linger, take it — this is one stop on the route where lingering, rather than rushing to the next photo spot, is the whole reward.
+If your boatman offers extra time to linger, take it. This is one stop on the route where lingering, rather than rushing to the next photo spot, is the whole reward.
 

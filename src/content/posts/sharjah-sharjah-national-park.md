@@ -58,13 +58,13 @@ draft: false
 
 ## Why go
 
-This is Sharjah's answer to a proper city park: flat, green, and built for unhurried afternoons. You come here not for a single monument but for the whole slow ritual of a park visit — walking, picnicking, letting kids run.
+This is Sharjah's answer to a proper city park: flat, green, and built for unhurried afternoons. You come here not for a single monument but for the whole slow ritual of a park visit, walking, picnicking, letting kids run.
 
 The lawns are the main event. They're mowed and irrigated to a green that looks almost startling against the surrounding desert-city palette of sand and concrete. Families spread mats under the trees, and by early evening the grass is dotted with thermoses, foil trays, and kids chasing footballs.
 
 ## What's actually there
 
-Don't expect rides or ticketed attractions — this is a park in the traditional sense, and its charm is in the basics done well.
+Don't expect rides or ticketed attractions. This is a park in the traditional sense, and its charm is in the basics done well.
 
 - Wide lawns for picnics and ball games
 - A children's playground with shaded seating nearby
@@ -72,11 +72,11 @@ Don't expect rides or ticketed attractions — this is a park in the traditional
 - Paved walking paths looping through planted trees
 - Benches and shaded pavilions for resting out of the sun
 
-Bring your own food if you want a real picnic — there's little in the way of formal dining inside, so a cooler bag and a mat go further than a wallet full of cash.
+Bring your own food if you want a real picnic. There's little in the way of formal dining inside, so a cooler bag and a mat go further than a wallet full of cash.
 
 ## Getting there
 
-The park sits on Al Dhaid Road (E88) in the Al Qarayen district, a short drive from central Sharjah and easily reached from Dubai via the E611 or E311 highways. There's no metro line running out this way, so a car or taxi is the practical option — ride-hailing apps work reliably in Sharjah and are the easiest way in if you're not self-driving.
+The park sits on Al Dhaid Road (E88) in the Al Qarayen district, a short drive from central Sharjah and easily reached from Dubai via the E611 or E311 highways. There's no metro line running out this way, so a car or taxi is the practical option. Ride-hailing apps work reliably in Sharjah and are the easiest way in if you're not self-driving.
 
 Parking is straightforward on-site, with space enough that even weekend crowds rarely make it a headache. If you're coming from Dubai, allow 30–45 minutes depending on traffic and time of day.
 
@@ -84,7 +84,7 @@ Parking is straightforward on-site, with space enough that even weekend crowds r
 
 Between October and April, the outdoor air in Sharjah is genuinely pleasant, and this is when the park earns its reputation. Mornings are quiet and cool, ideal for a walk before the heat builds.
 
-Summer visits (June–September) are still possible thanks to the shaded pavilions and evening hours running to 10pm, but midday heat makes daytime visits uncomfortable. Evenings, once the sun drops, are when the park truly comes alive year-round — families arrive in numbers, the soccer fields fill, and the lawns fill with picnic groups.
+Summer visits (June–September) are still possible thanks to the shaded pavilions and evening hours running to 10pm, but midday heat makes daytime visits uncomfortable. Evenings, once the sun drops, are when the park truly comes alive year-round, families arrive in numbers, the soccer fields fill, and the lawns fill with picnic groups.
 
 The park is open every day from 8am to 10pm, so there's no need to work around a weekly closure.
 
@@ -92,12 +92,12 @@ The park is open every day from 8am to 10pm, so there's no need to work around a
 
 Sharjah National Park is genuinely one of the busiest green spaces in the emirate, so timing matters more than almost anything else here.
 
-- Go on a weekday morning if you want the lawns mostly to yourself — weekends and evenings draw big family crowds
+- Go on a weekday morning if you want the lawns mostly to yourself, weekends and evenings draw big family crowds
 - Avoid Thursday and Friday evenings, the local equivalent of a Friday-Saturday night out, when the park is at its fullest
 - Bring your own mat, food, and drinks rather than expecting concessions on-site
-- Cash isn't really needed inside the park itself, since there's nothing to buy — it's for people who arrive prepared
+- Cash isn't really needed inside the park itself, since there's nothing to buy. It's for people who arrive prepared
 - Modest dress is appreciated, as with any public park in the UAE, even though there's no formal rule enforced
-- The most common visitor mistake is treating it like a theme park and expecting attractions — come instead for the picnic-and-walk experience it's actually built for
+- The most common visitor mistake is treating it like a theme park and expecting attractions, come instead for the picnic-and-walk experience it's actually built for
 
-Bring a football or a frisbee if you have kids in tow — it's what the fields are for, and nobody will look twice at an impromptu match spilling onto the grass.
+Bring a football or a frisbee if you have kids in tow. It's what the fields are for, and nobody will look twice at an impromptu match spilling onto the grass.
 

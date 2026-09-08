@@ -76,7 +76,7 @@ aiGenerated: true
 
 You climb the last few steps and the view just opens up. Rooftops of Vieux Lyon tumble down toward the Saône, church spires poke through the haze, and on a clear day you can trace the river all the way past the Presqu'île.
 
-This isn't a grand formal park. It's a modest, terraced garden wedged into the hillside below Fourvière, and that's exactly its charm — it feels like a spot locals actually use, not a monument.
+This isn't a grand formal park. It's a modest, terraced garden wedged into the hillside below Fourvière, and that's exactly its charm, it feels like a spot locals actually use, not a monument.
 
 ## Getting there
 
@@ -99,7 +99,7 @@ There's no café or facilities inside, so this is very much a bring-your-own-lun
 
 The garden opens at 8am and closes at 10pm every day of the week, which gives you a lot of flexibility. Early morning and late afternoon are when the light does the most for the view, raking low across the rooftops.
 
-Measured foot-traffic data shows the calmest window is 8am–12pm, both on weekdays and weekends. Weekend afternoons, especially from 1pm to 8pm, are the busiest stretch — that's when locals and visitors alike show up for picnics and sunset views.
+Measured foot-traffic data shows the calmest window is 8am–12pm, both on weekdays and weekends. Weekend afternoons, especially from 1pm to 8pm, are the busiest stretch. That's when locals and visitors alike show up for picnics and sunset views.
 
 If you want the garden closer to yourself, aim for a weekday morning. If you're set on a weekend visit, get there before noon.
 
@@ -107,11 +107,11 @@ If you want the garden closer to yourself, aim for a weekday morning. If you're 
 
 This is a well-known spot in Lyon, not a hidden one, so plan around the crowds rather than expecting solitude. Come before noon on any day if you want space to spread out on the lawn.
 
-There's no entry fee and nothing to buy on-site, so there's no payment etiquette to navigate — just the usual park courtesy: pack out your own rubbish, and keep noise down if there are people picnicking nearby.
+There's no entry fee and nothing to buy on-site, so there's no payment etiquette to navigate, just the usual park courtesy: pack out your own rubbish, and keep noise down if there are people picnicking nearby.
 
-Locals treat it as a green pause between sightseeing stops, not a destination in itself. The common mistake visitors make is treating it as a quick five-minute photo stop and rushing off — the real reward is sitting still for half an hour and letting the view do its work.
+Locals treat it as a green pause between sightseeing stops, not a destination in itself. The common mistake visitors make is treating it as a quick five-minute photo stop and rushing off. The real reward is sitting still for half an hour and letting the view do its work.
 
 Pair your visit with a walk through Vieux Lyon's traboules on the way up or down, or continue on to the Fourvière basilica if you haven't already. Most people spend 20–40 minutes here, longer if you've brought food.
 
-Wear comfortable shoes for the climb, carry water in warmer months since there's no fountain on-site, and check the weather — the hillside paths can get slick after rain. Sunset is genuinely one of the better times to be here, when the low light catches the river and the terracotta roofs below.
+Wear comfortable shoes for the climb, carry water in warmer months since there's no fountain on-site, and check the weather. The hillside paths can get slick after rain. Sunset is genuinely one of the better times to be here, when the low light catches the river and the terracotta roofs below.
 

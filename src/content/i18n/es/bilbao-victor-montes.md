@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bilbao-victor-montes
-srcHash: '9279a91b79b9'
+srcHash: '5d9a39c797a1'
 title: 'Víctor Montes: dónde comer en Bilbao'
 description: 'Víctor Montes está en la Plaza Nueva (Plaza Berria), en el Casco Viejo de Bilbao, en un elegante edificio del antiguo mercado con una fachada pintada: ven a probar pintxos vascos clásicos en la barra y un menú de precio medio para sentarse en el comedor de atrás.'
 quickAnswer: 'Víctor Montes está en la Plaza Nueva (Plaza Berria), en el Casco Viejo de Bilbao, en un elegante edificio del antiguo mercado con una fachada pintada: ven a probar pintxos vascos clásicos en la barra y un menú de precio medio para sentarse en el comedor de atrás. Es realmente popular (4,4 estrellas, más de 5.000 reseñas), así que procura ir a comer un día de semana hacia la 1 de la tarde, o a tomar pintxos a primera hora de la tarde antes de las 20:00, para evitar las aglomeraciones. Calcula entre 3 y 5 € por pintxo si comes de pie en la barra, y más si te sientas a comer.'

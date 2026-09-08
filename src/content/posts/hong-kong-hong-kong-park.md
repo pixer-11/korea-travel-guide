@@ -111,7 +111,7 @@ Hong Kong Park is what happens when a colonial-era military site gets handed ove
 
 The park sits right above Admiralty MTR station, one of the easiest stops on the network to reach.
 
-- **MTR**: Admiralty Station, Exit C1 — follow signs and escalators up through Pacific Place mall, or take the Cotton Tree Drive entrance directly
+- **MTR**: Admiralty Station, Exit C1, follow signs and escalators up through Pacific Place mall, or take the Cotton Tree Drive entrance directly
 - **Walk**: about 10 minutes uphill from Central, past the old Bank of China building
 - **Landmark**: entrance sits beside the Justice Place and the old Victoria Barracks parade ground
 
@@ -121,9 +121,9 @@ Because it's stitched into a hillside, expect stairs and slopes rather than flat
 
 Start at the **Forsgate Conservatory**, a set of glasshouses split into dry and humid zones, thick with cactus on one side and dripping tropical foliage on the other. It's one of the few spots in Central where you'll feel actual humidity indoors on purpose.
 
-From there, follow the walkway down to the **artificial waterfall and stream**, built from raw concrete that's gone green and mossy with age — locals often just call it "the rockery." It empties into a pond stocked with koi and turtles.
+From there, follow the walkway down to the **artificial waterfall and stream**, built from raw concrete that's gone green and mossy with age, locals often just call it "the rockery." It empties into a pond stocked with koi and turtles.
 
-Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to over 80 bird species. You walk through it at treetop height, which is the whole point — birds pass close enough to hear their wingbeats.
+Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to over 80 bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.
 
 Other pieces worth finding:
 
@@ -141,13 +141,13 @@ If you want the conservatory and aviary mostly to yourself, aim for right after 
 
 ## How to visit like a local
 
-Entry is free and there's no gate to queue at, so there's no need to book anything — just walk in.
+Entry is free and there's no gate to queue at, so there's no need to book anything, just walk in.
 
 Regulars treat it as a cut-through and a breathing space rather than a single-stop sight, popping in between Admiralty meetings or after shopping at Pacific Place. Follow that lead: don't try to "do" the whole park in one determined loop.
 
-- Bring small cash or your Octopus card only if you plan to visit the tea ware museum or nearby cafés — the park itself charges nothing
+- Bring small cash or your Octopus card only if you plan to visit the tea ware museum or nearby cafés, the park itself charges nothing
 - Keep voices down near the aviary; it's a working conservation space, not just a photo backdrop
-- The biggest mistake visitors make is skipping the stairs down to the waterfall level, assuming the conservatory is the whole park — it isn't
+- The biggest mistake visitors make is skipping the stairs down to the waterfall level, assuming the conservatory is the whole park. It isn't
 - If you're combining sights, pair this with a walk up to the nearby Peak Tram lower terminus, about 15 minutes on foot
 
 Two hours is enough to see the highlights unhurried; add another hour if the tea museum's special exhibition interests you.

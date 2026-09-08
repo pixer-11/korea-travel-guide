@@ -35,7 +35,7 @@ heroImage:
 
 Eonju-ro isn't short on cafes, but Kurarie reads differently the moment you step off the sidewalk. It's a dessert cafe, yes, but one built by Daewon Media with the instincts of a set designer rather than a barista.
 
-The plates arrive like small installations. Light, texture, and negative space get as much attention as the sugar and cream. You're not just eating dessert here — you're meant to look at it, photograph it, sit with it a while before the spoon goes in.
+The plates arrive like small installations. Light, texture, and negative space get as much attention as the sugar and cream. You're not just eating dessert here. You're meant to look at it, photograph it, sit with it a while before the spoon goes in.
 
 That's the pitch of the "American-cafe-like atmosphere" locals keep mentioning: exotic, imported, a little theatrical compared to the minimalist Korean cafes crowding the rest of the block.
 
@@ -43,11 +43,11 @@ That's the pitch of the "American-cafe-like atmosphere" locals keep mentioning: 
 
 Kurarie sits in the middle of Eonju-ro in Apgujeong, one of Gangnam's most design-conscious strips. This is the same neighborhood that's home to flagship fashion houses and quiet gallery-like showrooms, so the cafe fits its surroundings rather than standing apart from them.
 
-The nearest subway access is Apgujeong Station or Apgujeong Rodeo Station on the Seoul subway network — both put you within a manageable walk of Eonju-ro. Because it's a newer opening, exact street numbering and signage can still be catching up online, so pull up the location in a map app before you leave rather than relying on memory.
+The nearest subway access is Apgujeong Station or Apgujeong Rodeo Station on the Seoul subway network, both put you within a manageable walk of Eonju-ro. Because it's a newer opening, exact street numbering and signage can still be catching up online, so pull up the location in a map app before you leave rather than relying on memory.
 
 ## What to expect inside
 
-Don't come expecting a fast-turnover counter. Kurarie is built for lingering — the kind of place where a single dessert plate is the centerpiece of your visit, not an afterthought to coffee.
+Don't come expecting a fast-turnover counter. Kurarie is built for lingering, the kind of place where a single dessert plate is the centerpiece of your visit, not an afterthought to coffee.
 
 Expect a room designed for atmosphere first: considered lighting, a layout that photographs well, service paced for people who plan to sit. It's the kind of interior that's clearly meant to be shared online, which is part of why it's been drawing attention so quickly since opening.
 
@@ -57,18 +57,18 @@ Because the exact menu, pricing, and seating format are still settling in as the
 
 New, photogenic cafes in Apgujeong tend to draw crowds fast, especially once word spreads on social media. Weekday afternoons, outside lunch and after-work windows, are typically your best bet for a calmer room and an easier wait.
 
-Weekends in this part of Gangnam get busy across the board — shoppers, brunch crowds, people cafe-hopping along Eonju-ro and nearby Apgujeong Rodeo. If you want space to actually enjoy the presentation rather than rush through it, avoid peak Saturday and Sunday afternoon hours.
+Weekends in this part of Gangnam get busy across the board, shoppers, brunch crowds, people cafe-hopping along Eonju-ro and nearby Apgujeong Rodeo. If you want space to actually enjoy the presentation rather than rush through it, avoid peak Saturday and Sunday afternoon hours.
 
 ## How to visit like a local
 
 Book ahead if reservations are offered. Newly trending cafes in this district often fill seating fast, and a spot this design-driven is likely to lean toward table bookings rather than walk-in counter service.
 
-- Check hours and reservation policy the same day you plan to go — new openings adjust their schedules often in the first months.
+- Check hours and reservation policy the same day you plan to go, new openings adjust their schedules often in the first months.
 - Pay by card or mobile pay; contactless is standard across Seoul cafes now, cash is rarely necessary.
-- Don't rush the dessert — the plating is the point, and rushing through it is the tourist mistake worth avoiding.
+- Don't rush the dessert. The plating is the point, and rushing through it is the tourist mistake worth avoiding.
 - Dress the part a little. Eonju-ro's cafe culture skews stylish, and Kurarie's whole identity leans into that.
 
-The biggest misstep visitors make with cafes like this is treating them as a quick coffee stop between shopping errands. Kurarie is closer to a mini gallery visit — budget real time for it, and let the space do what it was designed to do.
+The biggest misstep visitors make with cafes like this is treating them as a quick coffee stop between shopping errands. Kurarie is closer to a mini gallery visit. Budget real time for it, and let the space do what it was designed to do.
 
 ## Nearby to pair it with
 

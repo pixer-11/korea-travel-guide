@@ -51,7 +51,7 @@ For anyone interested in either the business side of China's gaming industry or 
 
 ChinaJoy has for years been held at the National Exhibition and Convention Center (NECC) in Shanghai's Hongqiao area, one of the largest exhibition venues in the world, and the 2026 edition was set for the same site. The NECC sits near Hongqiao Transportation Hub, which combines Hongqiao Railway Station (high-speed rail) and Hongqiao International Airport (domestic and some international flights), making it easy to reach directly from other Chinese cities or connect onward.
 
-Metro Line 2 and Line 10 both serve Hongqiao Railway Station/Hongqiao Airport Terminal 2 stations, with the exhibition center a further shuttle or short taxi ride away during major events — organizers typically run shuttle buses from the transport hub on show days. For international arrivals, Pudong International Airport is the other option, roughly 1.5–2 hours from Hongqiao by metro or maglev-plus-transfer.
+Metro Line 2 and Line 10 both serve Hongqiao Railway Station/Hongqiao Airport Terminal 2 stations, with the exhibition center a further shuttle or short taxi ride away during major events, organizers typically run shuttle buses from the transport hub on show days. For international arrivals, Pudong International Airport is the other option, roughly 1.5–2 hours from Hongqiao by metro or maglev-plus-transfer.
 
 ## What to expect on-site
 

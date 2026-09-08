@@ -85,7 +85,7 @@ If you're coming from Sha Tin, hop on the East Rail Line and ride it down into K
 
 ## What to see and do
 
-Give yourself a rough route rather than wandering aimlessly — the building sprawls, and kids will want to linger at every button.
+Give yourself a rough route rather than wandering aimlessly, the building sprawls, and kids will want to linger at every button.
 
 - **Energy Machine**: the multi-storey kinetic sculpture that anchors the atrium, running on a schedule throughout the day
 - **Children's Gallery**: hands-on stations built for younger visitors, usually the loudest room in the building
@@ -97,7 +97,7 @@ Budget at least two hours if you're moving briskly, three or more if you have ki
 
 ## When to go
 
-Hours run 10am–7pm Monday, Tuesday, Wednesday and Friday, and stretch to 10am–9pm on Saturday and Sunday. The museum is closed every Thursday — plan around it, because there's no way around a locked door.
+Hours run 10am–7pm Monday, Tuesday, Wednesday and Friday, and stretch to 10am–9pm on Saturday and Sunday. The museum is closed every Thursday. Plan around it, because there's no way around a locked door.
 
 Weekends are noticeably busier, with the crowd data showing the museum jammed between 12pm and 7pm on both Saturday and Sunday. If you can only visit on a weekend, arrive right at 10am to get an hour or two of relative breathing room before the midday surge.
 
@@ -105,16 +105,16 @@ Weekday mornings on the days it's open tend to be calmer overall, since school g
 
 ## How to visit like a local
 
-This is a well-known, heavily visited museum, not a quiet find — so the smart move is timing, not secrecy.
+This is a well-known, heavily visited museum, not a quiet find, so the smart move is timing, not secrecy.
 
 - **Arrive at opening** (10am) on any day it's open, especially weekends, to beat the 12pm–7pm crush
-- **Skip Thursdays entirely** — the museum is closed, no exceptions
+- **Skip Thursdays entirely**. The museum is closed, no exceptions
 - **Buy tickets or check current pricing at the counter or official website** before you go, since admission fees can change
-- **Pace yourself around the Energy Machine's activation times** — ask staff when the next run starts so you don't miss it
+- **Pace yourself around the Energy Machine's activation times**. Ask staff when the next run starts so you don't miss it
 - **Wear layers**: the air conditioning is strong, and older visitors especially notice the chill after Hong Kong's humidity outside
 - **Combine it with the Museum of History** next door to make the MTR trip worth a half-day rather than just an hour
 
-There's rarely a formal queue system beyond busy weekend afternoons — just line up at the counter and expect a short wait during peak hours.
+There's rarely a formal queue system beyond busy weekend afternoons, just line up at the counter and expect a short wait during peak hours.
 
 ## Nearby to pair with
 

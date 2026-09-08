@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pasay-city-babymonster-choom-world-tour
-srcHash: '995184b1acb0'
+srcHash: 'd90d09cdf8b2'
 title: 'Gira Mundial CHOOM de BABYMONSTER: lo que se anunció (Pasay City)'
 description: La gira mundial CHOOM de BABYMONSTER tenía fecha en el SM Mall of Asia Arena de Pasay City el 5 de septiembre de 2026. Esto fue lo que se anunció sobre el recinto, el transporte y los horarios.
 quickAnswer: La gira mundial CHOOM de BABYMONSTER tenía fecha en el SM Mall of Asia Arena de Pasay City el 5 de septiembre de 2026, con apertura de puertas anunciada a las 6pm. Las entradas se vendieron a través de los canales oficiales de BABYMONSTER y de SM Tickets/el recinto, que también gestionaron las categorías de boletos.

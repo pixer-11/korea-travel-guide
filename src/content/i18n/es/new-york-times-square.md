@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-times-square
-srcHash: '030edbf30db3'
+srcHash: '4f49e4a1af8e'
 title: 'Times Square: Guía de viaje de Nueva York (4.7★)'
 description: Times Square es el cruce iluminado de neones entre Broadway y la Séptima Avenida (Seventh Avenue), entre las calles 42 y 47 (42nd–47th Streets), en el Theater District de Manhattan — ven por la pura sobrecarga sensorial de las pantallas, no por un paseo tranquilo. 4.7★ (244,209 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Times Square es el cruce iluminado de neones entre Broadway y la Séptima Avenida (Seventh Avenue), entre las calles 42 y 47 (42nd–47th Streets), en el Theater District de Manhattan — ven por la pura sobrecarga sensorial de las pantallas, no por un paseo tranquilo. Es una de las plazas más visitadas del planeta, así que ve entre las 7am y las 10am si quieres realmente ver el pavimento; a partir de la 1pm los fines de semana está repleta hombro con hombro y sigue así hasta pasadas las 11pm.

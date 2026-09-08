@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-bingin-uluwatu-pak-gula
-srcHash: 'fa46f350a91e'
+srcHash: 'a372d59b7372'
 title: 'Pak Gula, Uluwatu (Bingin): Platos Destacados, Horarios y Reservas'
 description: 'Pak Gula en Bingin, Uluwatu: qué pedir del menú asian-fusion (bao de cerdo char siu, platos para compartir), cuándo va menos gente, cómo reservar y qué esperar. Valorado 4.9 en Google.'
 quickAnswer: Pak Gula es un nuevo restaurante de fusión asiática de dos plantas en Bingin, Uluwatu, del equipo detrás de The Cashew Tree, conocido por sus platos para compartir como el bao de cerdo char siu y su sólida carta de cócteles. Está atrayendo a mucha gente rápidamente, así que conviene reservar con antelación —idealmente para el atardecer o la noche— y confirmar el horario actual antes de ir, ya que los detalles de los locales recién abiertos en Bali cambian a menudo.

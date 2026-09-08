@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: milan-yapa
-srcHash: '51910e3a654e'
+srcHash: '20f403c78794'
 title: YAPA:米兰旅行指南
 description: 意大利米兰的YAPA——一家新晋热门餐厅酒吧：它是什么、在哪里，以及该怎么去。
 quickAnswer: YAPA是一家位于米兰波尔塔罗马纳（Porta Romana）/波尔塔维多利亚大道（Corso di Porta Vittoria）一带、蒙特内罗大道（Viale Monte Nero）上的融合餐厅酒吧，整体围绕主厨马泰奥·潘切蒂（Matteo Pancetti）提出的“游牧灵魂”（Nomadic Soul）理念展开——将日式炉端烧（robatayaki）与南美风味相融合，再搭配一份放眼全球的鸡尾酒单。烤肉配鸡尾酒的组合最适合晚上前往体验，由于这里近期扩张后人气正旺，建议提前订位。具体营业时间和预订方式请务必提前确认，毕竟这家店人气攀升很快，相关信息可能随时变动。

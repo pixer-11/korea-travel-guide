@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: phuket-day-night-of-phuket
-srcHash: '7c318137f12c'
+srcHash: 'b3fc39da3978'
 title: 普吉岛 Day & Night：美食推荐去哪吃
 description: Day & Night Of Phuket 位于普吉岛老城他叻夜（Talat Yai），是一家氛围轻松、客流量大的泰餐馆，主打南部泰式菜和海鲜，价位适中（Google 价格等级 2，一份菜大约 150-500 泰铢）。
 quickAnswer: Day & Night Of Phuket 位于普吉岛老城他叻夜（Talat Yai），是一家氛围轻松、客流量大的泰餐馆，主打南部泰式菜和海鲜，价位适中（Google 价格等级 2，一份菜大约 150-500 泰铢）。这里有超过 4700 条评价、4.7 分的好评率，无论是逛完中葡风情老宅后随便吃个午饭，还是逛夜市前吃顿正式晚餐，都是靠谱的选择。建议傍晚 5:30-6:30 左右前往，既能避开晚餐高峰，又能趁着天还亮着欣赏老城色彩斑斓的街景。

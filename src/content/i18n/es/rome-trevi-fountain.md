@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-trevi-fountain
-srcHash: '6accfbe85000'
+srcHash: '8a8be640242a'
 title: 'Fontana de Trevi: Guía de viaje de Roma (4.7★)'
 description: 'La Fontana de Trevi es un monumento gratuito al aire libre en el centro de Roma que se puede visitar en cualquier momento, pero conviene ir entre las 9:00 y las 11:00 (cualquier día de la semana) para realmente ver la piedra rococó en lugar de la parte de atrás de mil teléfonos. 4.7★ (516,343 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Fontana de Trevi es un monumento gratuito al aire libre en el centro de Roma que se puede visitar en cualquier momento, pero conviene ir entre las 9:00 y las 11:00 (cualquier día de la semana) para realmente ver la piedra rococó en lugar de la parte de atrás de mil teléfonos. Es una parada de 15 minutos para la clásica foto con la moneda, o de una hora si te entretienes con un helado y las calles de alrededor. Ten en cuenta que los lunes y viernes no abre hasta las 11:30, así que una visita temprana esos dos días significa llegar justo a esa hora de apertura más tardía.

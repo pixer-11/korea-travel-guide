@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sentosa-fiamma
-srcHash: 'df5d85e09677'
+srcHash: 'ec492b7523d2'
 title: Fiamma：圣淘沙美食指南
 description: Fiamma是一家隐藏在圣淘沙嘉佩乐酒店（Capella Singapore，地址1 The Knolls）内的高级意大利餐厅，比起岛上喧闹的海滩俱乐部，这里更显静谧精致。
 quickAnswer: Fiamma是一家隐藏在圣淘沙嘉佩乐酒店（地址1 The Knolls）内的高级意大利餐厅，比起岛上喧闹的海滩俱乐部，这里更显静谧精致。适合安排一顿从容不迫的晚餐（记得提前预订），菜式走现代意大利风格，酒单也十分讲究，建议至少留出90分钟到两小时享用整餐。这里的评分高达4.8分（842条评价），特别适合那些想远离圣淘沙游客扎堆区、正儿八经坐下来吃一顿饭的旅行者。

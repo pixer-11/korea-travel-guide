@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kampong-glam-sultan-mosque
-srcHash: 'be76e434811f'
+srcHash: '6c45f4effc5a'
 title: 苏丹回教堂:甘榜格南旅游指南
 description: 位于梧槽路(Muscat St)3号的苏丹回教堂(Masjid Sultan)是甘榜格南的地标建筑，也是新加坡最大的清真寺，乘地铁到武吉士站(滨海市区线/东西线)即可轻松抵达。
 quickAnswer: 位于梧槽路(Muscat St)3号的苏丹回教堂(Masjid Sultan)是甘榜格南的地标建筑，也是新加坡最大的清真寺，乘地铁到武吉士站(滨海市区线/东西线)即可轻松抵达。参观时请避开每日五次礼拜时段，并注意着装得体(入口处备有长袍可供借用),金顶礼拜堂和庭院大约花上30-45分钟即可看完，之后不妨到附近的哈芝巷和阿拉伯街逛逛。

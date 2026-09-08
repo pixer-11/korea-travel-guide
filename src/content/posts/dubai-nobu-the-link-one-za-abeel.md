@@ -32,7 +32,7 @@ heroImage:
 ---
 ## What makes this Nobu different
 
-Dubai already had two Nobu rooms, but neither hangs in midair. This one sits inside The Link, the sky bridge threading through One Za'abeel that holds the Guinness World Record for longest cantilevered building. You're not just eating Nobu's black cod — you're eating it 230 metres above Za'abeel, suspended between two towers with nothing but glass between you and the city.
+Dubai already had two Nobu rooms, but neither hangs in midair. This one sits inside The Link, the sky bridge threading through One Za'abeel that holds the Guinness World Record for longest cantilevered building. You're not just eating Nobu's black cod. You're eating it 230 metres above Za'abeel, suspended between two towers with nothing but glass between you and the city.
 
 That setting is the whole story here. Nobu built its global reputation on Nobuyuki Matsuhisa's Japanese-Peruvian fusion, but this branch trades on architecture as much as anzu sour or ceviche. It's a destination restaurant inside an already-famous engineering feat.
 
@@ -40,7 +40,7 @@ That setting is the whole story here. Nobu built its global reputation on Nobuyu
 
 One Za'abeel rises beside Za'abeel Park, close to the World Trade Centre area and easily reached from both Downtown Dubai and DIFC. The Link itself is the connective bridge slung between the complex's two towers, and Nobu occupies a slice of it with uninterrupted views in multiple directions.
 
-Getting into the building isn't like walking into a street-level restaurant. There's a dedicated arrival sequence — lifts, security, and a reception process typical of a landmark tower — so budget extra time before your reservation, especially on your first visit.
+Getting into the building isn't like walking into a street-level restaurant. There's a dedicated arrival sequence (lifts, security, and a reception process typical of a landmark tower), so budget extra time before your reservation, especially on your first visit.
 
 ## The food and the room
 
@@ -54,19 +54,19 @@ Because this is a newly opened, high-demand address, confirm the current menu, d
 
 ## Booking and timing
 
-Reservations move fast for a restaurant this new and this photogenic. This is a recently opened location, and demand has stayed high since — expect tables at prime sunset and dinner hours to book out days or weeks ahead.
+Reservations move fast for a restaurant this new and this photogenic. This is a recently opened location, and demand has stayed high since. Expect tables at prime sunset and dinner hours to book out days or weeks ahead.
 
-Weeknight early dinner or a late lunch, if offered, will likely be your easiest way in without a long lead time. Sunset seating is the most requested slot, since the light over the skyline shifts fast in the twenty minutes around dusk. Always confirm current opening hours and table availability directly with Nobu or through One Za'abeel's channels — hours for new landmark venues can shift in their first year.
+Weeknight early dinner or a late lunch, if offered, will likely be your easiest way in without a long lead time. Sunset seating is the most requested slot, since the light over the skyline shifts fast in the twenty minutes around dusk. Always confirm current opening hours and table availability directly with Nobu or through One Za'abeel's channels, hours for new landmark venues can shift in their first year.
 
 ## How to visit like a local
 
-Treat this like a special-occasion booking, not a walk-in meal. Reserve online or by phone well in advance, and reconfirm the day before — high-demand new openings in Dubai are notorious for no-show cancellations opening up late, so it's worth calling if you're initially told it's full.
+Treat this like a special-occasion booking, not a walk-in meal. Reserve online or by phone well in advance, and reconfirm the day before, high-demand new openings in Dubai are notorious for no-show cancellations opening up late, so it's worth calling if you're initially told it's full.
 
 Arrive earlier than you think you need to. Security and lift access inside One Za'abeel take longer than a normal restaurant entrance, and cutting it close risks losing your table to the next party.
 
-- Dress smart-casual to elevated — this isn't a beach-resort Nobu
+- Dress smart-casual to elevated. This isn't a beach-resort Nobu
 - Payment is by card as standard at this price tier; carrying cash isn't necessary
 - Ask for a window-adjacent table when booking if the skyline view matters most to you
 - Go at sunset for the light, but book a weeknight if you want a calmer room
 
-The most common mistake visitors make is booking based on the brand name alone and forgetting this is also an architectural attraction. Build in time before or after your meal to appreciate The Link itself, and don't schedule anything tight immediately afterward — getting back down and out takes longer than you'd expect from a standalone restaurant.
+The most common mistake visitors make is booking based on the brand name alone and forgetting this is also an architectural attraction. Build in time before or after your meal to appreciate The Link itself, and don't schedule anything tight immediately afterward, getting back down and out takes longer than you'd expect from a standalone restaurant.

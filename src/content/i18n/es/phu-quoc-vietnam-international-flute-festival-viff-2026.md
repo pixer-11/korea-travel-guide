@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-vietnam-international-flute-festival-viff-2026
-srcHash: '0fa563f992c6'
+srcHash: '2d9c4745ec49'
 title: 'Festival Internacional de Flauta de Vietnam (VIFF) 2026: lo que hay que saber (Phu Quoc)'
 description: El Festival Internacional de Flauta de Vietnam 2026 estaba previsto del 23 al 28 de julio en Phu Quoc, con más de 40 artistas de 12 países, entre ellos la ganadora del Grammy Erin Bouriakov.
 quickAnswer: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 estaba previsto del 23 al 28 de julio de 2026 en Phu Quoc, y reunía a más de 40 flautistas de 12 países —entre ellos la flautista ganadora de un Grammy Erin Bouriakov— en lo que sería el primer festival y concurso internacional de flauta de la isla. Los organizadores anunciaron las fechas y el listado de artistas, pero no se publicaron precios de entradas ni un horario detallado por sede. La propia Phu Quoc funciona como el principal centro logístico para el alojamiento y el transporte, y el festival se desarrollaba junto a las playas, los arrecifes y los atardeceres de Long Beach que caracterizan a la isla.

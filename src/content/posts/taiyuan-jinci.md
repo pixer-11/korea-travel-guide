@@ -46,13 +46,13 @@ The complex sits at the foot of Xuanweng Mountain in Jinyuan District, a fair di
 
 ## Why go
 
-The headline attraction is the Shengmu Hall (Hall of the Holy Mother), a Northern Song structure from 1023 CE, one of the oldest wooden buildings still standing in China. Its roof curves upward with a lightness that later, heavier Ming and Qing halls lost, and inside are Song-dynasty painted clay statues of court attendants — startlingly expressive faces and postures that art historians still study for their realism.
+The headline attraction is the Shengmu Hall (Hall of the Holy Mother), a Northern Song structure from 1023 CE, one of the oldest wooden buildings still standing in China. Its roof curves upward with a lightness that later, heavier Ming and Qing halls lost, and inside are Song-dynasty painted clay statues of court attendants, startlingly expressive faces and postures that art historians still study for their realism.
 
-In front of the hall stands the reason many people first heard of Jinci at all: a cypress tree estimated at roughly 3,000 years old, growing at a dramatic slant, propped in places, and still very much alive. Nearby, the Never-Aging Spring has fed the site for centuries and gives the complex its watery, garden-like character — ponds, a crisscrossing "Fish Pond Flying Bridge" (a cruciform bridge design unique in Chinese architecture), and channels that once irrigated the surrounding farmland.
+In front of the hall stands the reason many people first heard of Jinci at all: a cypress tree estimated at roughly 3,000 years old, growing at a dramatic slant, propped in places, and still very much alive. Nearby, the Never-Aging Spring has fed the site for centuries and gives the complex its watery, garden-like character, ponds, a crisscrossing "Fish Pond Flying Bridge" (a cruciform bridge design unique in Chinese architecture), and channels that once irrigated the surrounding farmland.
 
 ## Getting there
 
-Jinci lies in Jinyuan District, roughly 25 km southwest of downtown Taiyuan — expect a 45-minute to hour-long taxi or rideshare ride from the city center or from Taiyuan South Railway Station. Public buses run from central Taiyuan toward Jinci Park; ask your hotel to confirm the current route number, since city bus lines get renumbered periodically. If you're driving or in a taxi, the site address resolves clearly to Jinyuan District on any Chinese map app (Baidu Maps or Amap work more reliably here than Google Maps).
+Jinci lies in Jinyuan District, roughly 25 km southwest of downtown Taiyuan. Expect a 45-minute to hour-long taxi or rideshare ride from the city center or from Taiyuan South Railway Station. Public buses run from central Taiyuan toward Jinci Park; ask your hotel to confirm the current route number, since city bus lines get renumbered periodically. If you're driving or in a taxi, the site address resolves clearly to Jinyuan District on any Chinese map app (Baidu Maps or Amap work more reliably here than Google Maps).
 
 ## What to see and do
 
@@ -60,10 +60,10 @@ Beyond Shengmu Hall and the ancient cypress, budget time for the Water Mirror Te
 
 ## When to go
 
-Spring and autumn are the most comfortable seasons — summer in Shanxi's Fen River valley gets hot and hazy, while winter is dry and cold but often clear, which suits the site's stone and timber palette well. Because Jinci remains under-the-radar relative to China's headline temple sites, a weekday morning after opening is usually enough to avoid the modest crowds it does draw, mostly domestic tour groups arriving by mid-morning.
+Spring and autumn are the most comfortable seasons, summer in Shanxi's Fen River valley gets hot and hazy, while winter is dry and cold but often clear, which suits the site's stone and timber palette well. Because Jinci remains under-the-radar relative to China's headline temple sites, a weekday morning after opening is usually enough to avoid the modest crowds it does draw, mostly domestic tour groups arriving by mid-morning.
 
 ## How to visit like a local
 
-Buy your ticket at the gate rather than through a third-party app — pricing and hours shift seasonally, so confirm both before you set out. Cash and mobile payment (WeChat Pay/Alipay) are both accepted at the entrance and inside for snacks or tea. There's no need to book ahead; this isn't a timed-entry attraction. Wear shoes good for uneven stone paving, since the paths between halls are original stonework, not smoothed-over concrete.
+Buy your ticket at the gate rather than through a third-party app, pricing and hours shift seasonally, so confirm both before you set out. Cash and mobile payment (WeChat Pay/Alipay) are both accepted at the entrance and inside for snacks or tea. There's no need to book ahead; this isn't a timed-entry attraction. Wear shoes good for uneven stone paving, since the paths between halls are original stonework, not smoothed-over concrete.
 
-The mistake most visitors make is rushing straight to Shengmu Hall and the cypress, then leaving — instead, follow the water channels out to the smaller side courtyards, where the crowds thin to almost nobody and you get a better sense of Jinci as a working temple-garden rather than a single photo-op monument. If you read Chinese, ask for a site map at the entrance; many of the smaller halls have minimal English signage.
+The mistake most visitors make is rushing straight to Shengmu Hall and the cypress, then leaving, instead, follow the water channels out to the smaller side courtyards, where the crowds thin to almost nobody and you get a better sense of Jinci as a working temple-garden rather than a single photo-op monument. If you read Chinese, ask for a site map at the entrance; many of the smaller halls have minimal English signage.

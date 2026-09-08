@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taguig-june-eatery
-srcHash: '3ba3ce419156'
+srcHash: 'b01489afbdb5'
 title: '준 이터리(June Eatery): 타기그 맛집 가이드'
 description: 필리핀 타기그(Taguig)의 신흥 화제 맛집, 준 이터리(June Eatery) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋은지 소개합니다.
 quickAnswer: 준 이터리(June Eatery)는 타기그(Taguig) BGC(보니파시오 글로벌 시티)에 새로 문을 연 올데이 다이닝 레스토랑으로, 비비오(Bibio)를 만든 팀이 선보이는 곳입니다. 총괄 셰프 키어 이바녜스(Kier Ibañez)가 전 세계 각지의 영향을 받은, 함께 나눠 먹기 좋은 메뉴를 아침부터 저녁까지 자연스럽게 이어지도록 구성했습니다. 여유로운 브런치나 이른 저녁 식사를 즐기기 좋으며, 새로 문을 열어 수요가 많은 곳인 만큼 방문 전 현재 영업시간과 예약 정책을 꼭 확인하세요.

@@ -71,9 +71,9 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-The Green Cathedral isn't a building at all — it's a stretch of riverside road and pathway where trees on either side have grown together overhead, forming a tunnel of green that filters the Kampot light into something soft and dappled. You come here for that light: the way it falls in patches on the dirt track, the rustle of leaves overhead drowning out the distant hum of traffic.
+The Green Cathedral isn't a building at all. It's a stretch of riverside road and pathway where trees on either side have grown together overhead, forming a tunnel of green that filters the Kampot light into something soft and dappled. You come here for that light: the way it falls in patches on the dirt track, the rustle of leaves overhead drowning out the distant hum of traffic.
 
-It's a quiet contrast to Kampot's riverside bars and pepper-farm tours. Few visitors know about it, which is exactly the appeal — you can walk it slowly without dodging tour groups.
+It's a quiet contrast to Kampot's riverside bars and pepper-farm tours. Few visitors know about it, which is exactly the appeal. You can walk it slowly without dodging tour groups.
 
 ## Getting there
 
@@ -83,32 +83,32 @@ Roads leading in are unpaved in stretches, so a moto or bicycle gives you more c
 
 ## What you'll see
 
-The core of the experience is the canopy itself — a natural arch of branches stretching over the road for a few hundred metres. Walk it slowly, and you'll notice the light change every few steps as gaps in the leaves let through shafts of sun.
+The core of the experience is the canopy itself, a natural arch of branches stretching over the road for a few hundred metres. Walk it slowly, and you'll notice the light change every few steps as gaps in the leaves let through shafts of sun.
 
-Beyond the tunnel, the surrounding area is quiet farmland and scattered houses, giving you a glimpse of rural life outside Kampot's tourist center. Bring a camera — the tunnel effect is the main draw, and it photographs best without direct overhead sun.
+Beyond the tunnel, the surrounding area is quiet farmland and scattered houses, giving you a glimpse of rural life outside Kampot's tourist center. Bring a camera. The tunnel effect is the main draw, and it photographs best without direct overhead sun.
 
 There isn't a ticket booth, gift shop, or formal signage here. It's a natural feature, not a curated attraction, so manage expectations: this is about the walk and the atmosphere, not facilities.
 
 ## When to go
 
-Early morning or late afternoon light works best, both for photos and for comfort — Kampot's midday heat is intense and there's limited shade once you're past the canopy itself. Dry season, roughly November through April, keeps the dirt paths firm and easy to walk or cycle.
+Early morning or late afternoon light works best, both for photos and for comfort, Kampot's midday heat is intense and there's limited shade once you're past the canopy itself. Dry season, roughly November through April, keeps the dirt paths firm and easy to walk or cycle.
 
 During the wet season (May to October), the same tracks can turn muddy, so a moto or bicycle becomes trickier. Plan for 30-45 minutes on-site, more if you're stopping often for photos.
 
 ## How to visit like a local
 
-Because Green Cathedral is still a lesser-known stop, there's no set etiquette or queue system — you simply arrive and walk. That's part of its appeal, and one reason not to rush it.
+Because Green Cathedral is still a lesser-known stop, there's no set etiquette or queue system, you simply arrive and walk. That's part of its appeal, and one reason not to rush it.
 
 A few practical habits go a long way:
 
 - Agree on a return time or fare with your tuk-tuk or moto driver before you set off, since there's no taxi rank waiting at the site
-- Wear closed shoes rather than sandals — the path is dirt and can have loose stones or roots
+- Wear closed shoes rather than sandals. The path is dirt and can have loose stones or roots
 - Carry water; there are no shops or stalls directly at the site
 - Visit on a weekday morning if you want the path to yourself, since even modest weekend traffic from other travelers can break the stillness
 
 The mistake most visitors make is trying to combine this with too many other stops in one rushed loop. Give it its own slow half hour rather than squeezing it between a pepper farm and a cave temple.
 
-There's no fee to walk through, and no formal hours to work around — it's an open stretch of road, not a gated attraction. That said, conditions and access can shift with weather or local development, so it's worth asking current guesthouse staff or your driver whether the road is passable before you set out, especially after heavy rain.
+There's no fee to walk through, and no formal hours to work around. It's an open stretch of road, not a gated attraction. That said, conditions and access can shift with weather or local development, so it's worth asking current guesthouse staff or your driver whether the road is passable before you set out, especially after heavy rain.
 
 ## Nearby to pair it with
 

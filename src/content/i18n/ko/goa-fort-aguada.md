@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: goa-fort-aguada
-srcHash: 'e4f94393b6dd'
+srcHash: 'af00993044a9'
 title: '포트 아구아다: 고아 여행 가이드'
 description: 포트 아구아다(Fort Aguada)는 만도비강(Mandovi River) 하구, 신케림 해변(Sinquerim beach) 위쪽 곶에 자리하며, 다볼림/고아 공항(Dabolim/Goa airport)에서 택시로 약 30~40분, 파나지(Panaji)에서는 15분 거리에 있습니다.
 quickAnswer: 포트 아구아다(Fort Aguada)는 만도비강(Mandovi River) 하구, 신케림 해변(Sinquerim beach) 위쪽 곶에 자리하며, 다볼림/고아 공항(Dabolim/Goa airport)에서 택시로 약 30~40분, 파나지(Panaji)에서는 15분 거리에 있습니다. 관광버스 인파를 피하려면 오전 9시 30분 이전 이른 시간이나 해질 무렵 늦은 오후에 방문하는 것이 좋고, 성벽과 등대를 둘러보는 데 1~1.5시간 정도를 잡아두세요. 이곳은 진짜로 사람들이 많이 찾는 명소이지 숨겨진 장소가 아니므로, 한적함을 기대하기보다는 인파를 감안해 일정을 짜는 것이 현실적입니다.

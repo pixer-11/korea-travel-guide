@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wuhan-2026-wuhan-open-snooker
-srcHash: '9a853c76e8c3'
+srcHash: '42042d17679d'
 title: 'Wuhan Open 2026 (snooker): lo que hay que saber (Wuhan)'
 description: El Wuhan Open 2026 de snooker se disputa en Wuhan, China, del 23 al 29 de agosto de 2026. Es un torneo puntuable del World Snooker Tour, con jornadas que van desde las primeras rondas hasta la gran final.
 quickAnswer: El Wuhan Open 2026, torneo puntuable del World Snooker Tour, estaba previsto para el 23 al 29 de agosto de 2026 en Wuhan, China. El formato distribuía las primeras rondas a lo largo de la semana, con una progresión hasta la final en el último día.

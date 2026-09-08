@@ -75,13 +75,13 @@ draft: false
 
 This isn't a car showroom with shiny concept vehicles under spotlights. It's a working history lesson, housed in the actual red-brick factory where Sakichi Toyoda built automatic looms before his son Kiichiro pivoted the family business into cars.
 
-You come for the machines themselves — dozens of them, still running. Staff demonstrate century-old power looms clattering at full speed, shuttles snapping back and forth so fast you flinch the first time. The noise, the oil smell, the vibration in the floorboards — this is industrial heritage you feel, not just read about.
+You come for the machines themselves (dozens of them, still running. Staff demonstrate century-old power looms clattering at full speed, shuttles snapping back and forth so fast you flinch the first time. The noise, the oil smell, the vibration in the floorboards) this is industrial heritage you feel, not just read about.
 
 ## Getting there
 
 The museum sits in Nishi Ward at Noritakeshinmachi, inside the Sangyo Gijutsu Kinenkan complex. The closest station is Sako, served by both the Meitetsu Nagoya Line and the JR Tokaido Line, about a 5-minute walk from the north exit.
 
-If you're coming from central Nagoya Station, it's one or two stops depending on the line — genuinely one of the easiest big-name attractions to reach in the city. Taxis from Nagoya Station take under 15 minutes in normal traffic.
+If you're coming from central Nagoya Station, it's one or two stops depending on the line, genuinely one of the easiest big-name attractions to reach in the city. Taxis from Nagoya Station take under 15 minutes in normal traffic.
 
 ## What to see
 
@@ -94,13 +94,13 @@ Highlights include:
 - A working steam engine display and hands-on stations where you can feel gear ratios and mechanisms in action
 - The Invention Room, covering Sakichi Toyoda's patents and problem-solving process
 
-Signage is in Japanese and English throughout, and the live demonstrations are the thing to time your visit around — check the posted schedule near the entrance as soon as you arrive.
+Signage is in Japanese and English throughout, and the live demonstrations are the thing to time your visit around. Check the posted schedule near the entrance as soon as you arrive.
 
 ## When to go
 
 The museum is closed every Monday, open Tuesday through Sunday from 9:30am to 5pm. Weekends get busy between 10am and 5pm, with families and tour groups filling the textile hall by late morning.
 
-If you can, come on a weekday and arrive close to opening. You'll get the loom demonstrations with more room to actually see the machinery, rather than craning over shoulders. Plan for two to three hours — longer if you're mechanically inclined and want to read every panel.
+If you can, come on a weekday and arrive close to opening. You'll get the loom demonstrations with more room to actually see the machinery, rather than craning over shoulders. Plan for two to three hours, longer if you're mechanically inclined and want to read every panel.
 
 ## How to visit like a local
 
@@ -109,10 +109,10 @@ This is a genuinely popular stop on the Nagoya circuit, not a quiet insider find
 - Go on a weekday morning, ideally right at 9:30am opening, before tour buses arrive
 - Skip the 10am–5pm weekend crush if you have any flexibility in your schedule
 - Follow the live demonstration times posted at the entrance; the loom and shuttle-loom shows are the museum's real centerpiece, and missing them means missing the point
-- Don't rush the textile hall to get to the cars — the mechanical detail there is what makes this museum different from a standard car museum
+- Don't rush the textile hall to get to the cars. The mechanical detail there is what makes this museum different from a standard car museum
 
 The most common mistake is treating this as a quick photo-op car museum and blowing through it in 30 minutes. The textile machinery is the origin story, and it rewards slowing down.
 
 ## Nearby
 
-Noritake Garden, the ceramics company's leafy former factory grounds, is a short walk away and pairs naturally with a museum visit — both sites share the same industrial-heritage thread running through Nishi Ward. If you have a full day, combine the two before heading back toward central Nagoya for dinner.
+Noritake Garden, the ceramics company's leafy former factory grounds, is a short walk away and pairs naturally with a museum visit, both sites share the same industrial-heritage thread running through Nishi Ward. If you have a full day, combine the two before heading back toward central Nagoya for dinner.

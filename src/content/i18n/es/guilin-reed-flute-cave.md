@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guilin-reed-flute-cave
-srcHash: 'c4aededd4362'
+srcHash: '188b75887f0e'
 title: 'Cueva de la Flauta de Caña: Guía de viaje de Guilin'
 description: En el extremo noroeste de la ciudad de Guilin, la Cueva de la Flauta de Caña es una gruta de piedra caliza de 240 millones de años cuyas estalactitas y estanques reflejantes se transforman en un paisaje subterráneo casi irreal gracias a unas luces de neón.
 quickAnswer: En el extremo noroeste de la ciudad de Guilin, la Cueva de la Flauta de Caña es una gruta de piedra caliza de 240 millones de años cuyas estalactitas y estanques reflejantes se transforman en un paisaje subterráneo casi irreal gracias a unas luces de neón. Calcula entre 1 y 1.5 horas para el recorrido guiado a pie, y si prefieres tener las salas para ti solo en vez de ir detrás de una bandera turística, ve temprano en la mañana entre semana. Se entra comprando el boleto en la taquilla de la entrada del parque, en Lu Di Lu; lleva una chaqueta ligera, ya que la cueva se mantiene fresca y húmeda todo el año.

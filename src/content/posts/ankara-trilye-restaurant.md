@@ -87,30 +87,30 @@ updatedDate: '2026-08-16'
 
 Ankara isn't a coastal city, yet Trilye has spent years convincing landlocked diners that it can plate seafood as confidently as any restaurant in Istanbul or İzmir. Walk in and the room tells you what to expect before the menu does: white tablecloths, glass panels that flood the space with daylight, and an open, airy layout that feels more like a Bosphorus-facing dining room than something tucked into Çankaya.
 
-With a 4.5 rating across more than 3,000 reviews, this isn't a discovery — it's an established address that Ankara's business crowd and visiting diplomats already know well, so go in expecting a polished, busy operation rather than a quiet find.
+With a 4.5 rating across more than 3,000 reviews, this isn't a discovery. It's an established address that Ankara's business crowd and visiting diplomats already know well, so go in expecting a polished, busy operation rather than a quiet find.
 
 ## Getting there
 
-Trilye sits at Kuleli Sokağı No: 32, in the Kazım Özalp quarter of Çankaya — Ankara's diplomatic and upscale commercial district, a short taxi ride from Kızılay and the Tunalı Hilmi Caddesi shopping strip. If you're coming by Ankaray or Metro, the closest stops feed into Kızılay station, from which it's roughly a 10–15 minute taxi or a longer walk through Tunalı Hilmi.
+Trilye sits at Kuleli Sokağı No: 32, in the Kazım Özalp quarter of Çankaya, Ankara's diplomatic and upscale commercial district, a short taxi ride from Kızılay and the Tunalı Hilmi Caddesi shopping strip. If you're coming by Ankaray or Metro, the closest stops feed into Kızılay station, from which it's roughly a 10–15 minute taxi or a longer walk through Tunalı Hilmi.
 
 Given Çankaya's hilly streets and limited street parking, a taxi or ride-hailing app is the simplest way in; ask the driver for "Kuleli Sokak, Kazım Özalp" rather than just "Çankaya," since the district is large.
 
 ## What to eat
 
-This is a seafood house first, so let the fish counter or the server's rundown of the day's catch guide you rather than defaulting to the printed menu — like most serious Turkish seafood restaurants, what's best here changes with what came in that morning. Expect a meze spread to open the meal: a selection of cold vegetable and seafood mezes, followed by grilled or oven-baked whole fish sold by weight.
+This is a seafood house first, so let the fish counter or the server's rundown of the day's catch guide you rather than defaulting to the printed menu, like most serious Turkish seafood restaurants, what's best here changes with what came in that morning. Expect a meze spread to open the meal: a selection of cold vegetable and seafood mezes, followed by grilled or oven-baked whole fish sold by weight.
 
-The menu also stretches into pasta and salads for anyone not in a fish mood, which is part of why it's described as a casual, contemporary spot rather than a strictly formal seafood temple. Portions and pacing follow the classic Turkish meyhane rhythm — slow, mezes first, raki or wine alongside, mains later — so don't rush the kitchen or expect an in-and-out meal.
+The menu also stretches into pasta and salads for anyone not in a fish mood, which is part of why it's described as a casual, contemporary spot rather than a strictly formal seafood temple. Portions and pacing follow the classic Turkish meyhane rhythm (slow, mezes first, raki or wine alongside, mains later), so don't rush the kitchen or expect an in-and-out meal.
 
 ## When to go
 
-Lunch here tends to move faster and costs less relative to dinner, useful if you're visiting Çankaya's embassies or government offices nearby and want a proper meal without losing the afternoon. Dinner is the main event, and reservations are strongly advised for evenings, particularly Thursday through Saturday when the dining room and outdoor tables fill with regulars celebrating birthdays, business dinners, and family gatherings. If weather allows, the outdoor tables are worth requesting — they catch the evening air without the formality of the indoor room.
+Lunch here tends to move faster and costs less relative to dinner, useful if you're visiting Çankaya's embassies or government offices nearby and want a proper meal without losing the afternoon. Dinner is the main event, and reservations are strongly advised for evenings, particularly Thursday through Saturday when the dining room and outdoor tables fill with regulars celebrating birthdays, business dinners, and family gatherings. If weather allows, the outdoor tables are worth requesting, they catch the evening air without the formality of the indoor room.
 
 ## What it costs
 
-Trilye sits at the pricier end of Ankara's dining scale, in line with its reputation and the market-rate nature of fresh fish, which is typically priced by weight and can shift day to day. Menu prices for seafood specifically aren't something to lock in mentally before you arrive — ask your server for the day's rate on whole fish before ordering, a completely normal practice at Turkish seafood restaurants and the best way to avoid a surprise on the bill.
+Trilye sits at the pricier end of Ankara's dining scale, in line with its reputation and the market-rate nature of fresh fish, which is typically priced by weight and can shift day to day. Menu prices for seafood specifically aren't something to lock in mentally before you arrive. Ask your server for the day's rate on whole fish before ordering, a completely normal practice at Turkish seafood restaurants and the best way to avoid a surprise on the bill.
 
 ## How to visit like a local
 
-Book a table rather than walking in, especially for dinner — this is a well-known, consistently busy restaurant, not a low-key spot you can wander into on a Friday night and expect a table. Reservations are typically taken by phone; call ahead the same day or a day earlier for weekend evenings. When ordering, let the waiter walk you through the fresh catch and its per-kilo price before committing, since asking upfront is standard practice here and avoids end-of-meal surprises.
+Book a table rather than walking in, especially for dinner. This is a well-known, consistently busy restaurant, not a low-key spot you can wander into on a Friday night and expect a table. Reservations are typically taken by phone; call ahead the same day or a day earlier for weekend evenings. When ordering, let the waiter walk you through the fresh catch and its per-kilo price before committing, since asking upfront is standard practice here and avoids end-of-meal surprises.
 
-Bread, meze, and raki are ordered as a shared, unhurried opening act, not a starter to rush through — pace yourself accordingly. Payment is by card or cash, and a service charge may already be reflected on higher-end Ankara restaurant bills, so check before adding an additional tip on top. The most common visitor misstep is treating this like a quick dinner stop; locals treat a seafood meal here as a two-hour-plus occasion, and rushing the courses undercuts exactly what the restaurant does well.
+Bread, meze, and raki are ordered as a shared, unhurried opening act, not a starter to rush through, pace yourself accordingly. Payment is by card or cash, and a service charge may already be reflected on higher-end Ankara restaurant bills, so check before adding an additional tip on top. The most common visitor misstep is treating this like a quick dinner stop; locals treat a seafood meal here as a two-hour-plus occasion, and rushing the courses undercuts exactly what the restaurant does well.

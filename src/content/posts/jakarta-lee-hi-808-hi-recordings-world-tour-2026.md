@@ -37,13 +37,13 @@ The concert was set for August 9, 2026, at Bengkel Hall, located in the SCBD (Su
 
 ## Getting to Bengkel Hall, SCBD
 
-SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district — ASEAN and Senayan/Istora stations are the closest, both putting visitors within a short walk or quick ride-hail trip of the SCBD core. Jakarta traffic is notorious, especially on a weekend evening, so car and app-based ride journeys through the area can be slow (Gojek and Grab are the standard options locals use).
+SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district, ASEAN and Senayan/Istora stations are the closest, both putting visitors within a short walk or quick ride-hail trip of the SCBD core. Jakarta traffic is notorious, especially on a weekend evening, so car and app-based ride journeys through the area can be slow (Gojek and Grab are the standard options locals use).
 
 Taxis and ride-hailing are plentiful in this district since it's a business and nightlife hub, so leaving after a show here is easier than in outer areas of the city.
 
 ## What to expect from the set
 
-Lee Hi's catalog spans emotionally heavy ballads, sultry mid-tempo R&B, and the occasional upbeat hip-hop collaboration — a legacy of her early days on Show Me the Money and her tenure at YG Entertainment before moving to AOMG. With DOK2 on the bill, the show was expected to include at least one or two collaborative or hip-hop-forward segments alongside her solo hits.
+Lee Hi's catalog spans emotionally heavy ballads, sultry mid-tempo R&B, and the occasional upbeat hip-hop collaboration, a legacy of her early days on Show Me the Money and her tenure at YG Entertainment before moving to AOMG. With DOK2 on the bill, the show was expected to include at least one or two collaborative or hip-hop-forward segments alongside her solo hits.
 
 World tour stops for Korean R&B/hip-hop artists in Southeast Asia typically run 90 minutes to two hours. Set times, encore structure, and any VIP soundcheck or meet-and-greet add-ons were detailed through the official ticket tiers.
 
@@ -53,4 +53,4 @@ Ticket pricing, seating categories, and on-sale dates were not specified in the 
 
 ## How to visit like a local
 
-Jakarta concertgoers tend to arrive in waves rather than queue for hours outside — unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. Bengkel Hall's numbered or zoned floor system, where applicable, shapes how much of a difference that early queueing makes.
+Jakarta concertgoers tend to arrive in waves rather than queue for hours outside, unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. Bengkel Hall's numbered or zoned floor system, where applicable, shapes how much of a difference that early queueing makes.

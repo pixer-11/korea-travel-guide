@@ -70,13 +70,13 @@ You smell the chili oil before you see the door. On E Pike St in Capitol Hill, B
 
 ## Why go
 
-The draw is the noodle itself: hand-pulled, then slapped against the counter until it stretches into a wide, ribbon-like belt. That slapping sound — a rhythmic thwack from the open kitchen — is where "biang biang" gets its name. Order one and you get a bowl of chewy, almost gummy noodles tossed in chili oil, vinegar, and garlic, with a scattering of scallion and crushed peanuts on top.
+The draw is the noodle itself: hand-pulled, then slapped against the counter until it stretches into a wide, ribbon-like belt. That slapping sound, a rhythmic thwack from the open kitchen, is where "biang biang" gets its name. Order one and you get a bowl of chewy, almost gummy noodles tossed in chili oil, vinegar, and garlic, with a scattering of scallion and crushed peanuts on top.
 
 ## What to eat
 
 The menu goes beyond noodles, and it rewards ordering a spread rather than one dish alone.
 
-- Biangbiang noodles — order them spicy or non-spicy, with pork, beef, or mushroom
+- Biangbiang noodles, order them spicy or non-spicy, with pork, beef, or mushroom
 - Pork or lamb dumplings, pan-fried or in soup
 - Steamed baos, soft and pillowy, filled with braised pork belly
 - Cumin-dusted chicken wings, crackling-skinned and fried to order
@@ -85,7 +85,7 @@ Portions are generous for a mid-range restaurant, and sharing two or three plate
 
 ## The room itself
 
-Inside, exposed brick and hanging pendant lights give the space an industrial, warehouse-y feel. Communal tables fill fast, and the open kitchen means you can watch cooks stretch and slap dough right up to the pass. It's loud — clattering woks, sizzling wings, conversation bouncing off concrete floors — which is part of the appeal but not the place for a quiet catch-up.
+Inside, exposed brick and hanging pendant lights give the space an industrial, warehouse-y feel. Communal tables fill fast, and the open kitchen means you can watch cooks stretch and slap dough right up to the pass. It's loud (clattering woks, sizzling wings, conversation bouncing off concrete floors), which is part of the appeal but not the place for a quiet catch-up.
 
 ## Getting there
 
@@ -103,11 +103,11 @@ Biang Biang Noodles is known well beyond Capitol Hill regulars, so weekend dinne
 
 - **Time it right**: aim for the quiet weekday lunch window (11:30am–3pm) or right at weekend opening.
 - **No reservations for small groups usually**: walk-ins are the norm, so budget extra time on busy evenings.
-- **Order at the counter or via server**, depending on how they're running service that day — follow the staff's lead if it's unclear.
+- **Order at the counter or via server**, depending on how they're running service that day, follow the staff's lead if it's unclear.
 - **Pay by card or tap**: most Seattle restaurants of this type are cashless-friendly, though it's smart to carry a little cash as backup.
 - **Tip 18–20%** on top, standard for U.S. sit-down service, even at a casual counter-style spot like this.
-- **Split dishes family-style** rather than ordering one noodle bowl each — it's how the menu is built to be eaten.
+- **Split dishes family-style** rather than ordering one noodle bowl each. It's how the menu is built to be eaten.
 
 The most common mistake newcomers make is treating this like a quick grab-and-go stop. The noodles take a few minutes to hand-pull and slap fresh, and the room is built for lingering over several small plates. Budget 45 minutes to an hour, not a rushed 15-minute bowl.
 
-If you're weather-permitting and exploring the neighborhood afterward, Capitol Hill's Pike-Pine corridor has bars, record shops, and Cal Anderson Park within a few blocks — an easy way to walk off a spicy, garlicky bowl of biangbiang noodles before heading back downtown.
+If you're weather-permitting and exploring the neighborhood afterward, Capitol Hill's Pike-Pine corridor has bars, record shops, and Cal Anderson Park within a few blocks, an easy way to walk off a spicy, garlicky bowl of biangbiang noodles before heading back downtown.

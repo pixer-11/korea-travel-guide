@@ -70,7 +70,7 @@ draft: false
 ---
 ## Why go
 
-Hanging Garden crowns Malabar Hill, one of Mumbai's oldest and wealthiest neighborhoods, and it's built directly over a British-era water reservoir. That's the "hanging" part — the whole terraced garden floats above the tank, not over any cliff.
+Hanging Garden crowns Malabar Hill, one of Mumbai's oldest and wealthiest neighborhoods, and it's built directly over a British-era water reservoir. That's the "hanging" part, the whole terraced garden floats above the tank, not over any cliff.
 
 You come here for two things: the topiary and the view. Hedges are clipped into elephants, camels, and giant birds, a Victorian-era design gimmick that somehow still charms every generation of visitors who walk past them.
 
@@ -78,7 +78,7 @@ Then there's the sea. Gaps in the tree line open onto the Arabian Sea and, on a 
 
 ## Getting there
 
-The garden sits on Ridge Road in Simla Nagar, Malabar Hill, at the western edge of the city. The nearest useful landmark is the Kamala Nehru Park, right across the road — most visitors do both in one stop.
+The garden sits on Ridge Road in Simla Nagar, Malabar Hill, at the western edge of the city. The nearest useful landmark is the Kamala Nehru Park, right across the road. Most visitors do both in one stop.
 
 Taxis and app-cabs are the easiest way up; the roads are narrow and winding, and there's no direct train station nearby. If you're coming from Marine Drive or Chowpatty Beach, it's a short, scenic drive up through Malabar Hill's leafy lanes, past some of Mumbai's most expensive real estate.
 
@@ -86,18 +86,18 @@ Autorickshaws aren't allowed on this stretch of South Mumbai, so a cab or a walk
 
 ## What to see and do
 
-Walk the full loop of hedges first — the topiary animals are the postcard shot, especially with soft, low-angle light. Then head to the sea-facing viewpoint for the wide Arabian Sea panorama.
+Walk the full loop of hedges first. The topiary animals are the postcard shot, especially with soft, low-angle light. Then head to the sea-facing viewpoint for the wide Arabian Sea panorama.
 
 - Topiary garden: elephant, camel, and bird shapes clipped from hedges
 - Sea-facing terrace: views toward the Arabian Sea and, at night, the Marine Drive shoreline
 - Children's play corner and shaded benches for a rest
 - A small boot-shaped structure that's a favorite photo spot for kids
 
-Bring a bottle of water and comfortable shoes — the paths are paved but slope gently, and there's very little shade in the open sections at midday.
+Bring a bottle of water and comfortable shoes. The paths are paved but slope gently, and there's very little shade in the open sections at midday.
 
 ## When to go
 
-Early morning, right after the 5am opening, is when the garden is at its calmest and coolest — joggers and regulars doing their daily rounds, birdsong instead of crowds. Sunset is the other sweet spot, when the sea view turns gold and the day's heat has broken.
+Early morning, right after the 5am opening, is when the garden is at its calmest and coolest, joggers and regulars doing their daily rounds, birdsong instead of crowds. Sunset is the other sweet spot, when the sea view turns gold and the day's heat has broken.
 
 Weekend afternoons are the one window to actively avoid: crowds build steadily from 3pm to 9pm, filling paths and photo spots. If you're visiting on a Saturday or Sunday, come before lunch instead.
 
@@ -105,11 +105,11 @@ Monsoon season (June to September) brings the garden its greenest look, but path
 
 ## How to visit like a local
 
-Locals treat this as a morning or evening walking spot, not a sightseeing checklist stop — many regulars come daily for a lap or two before or after work. Follow that rhythm and arrive either near opening or in the last couple of hours before closing.
+Locals treat this as a morning or evening walking spot, not a sightseeing checklist stop. Many regulars come daily for a lap or two before or after work. Follow that rhythm and arrive either near opening or in the last couple of hours before closing.
 
 Entry has traditionally been free, but small parking or camera fees can apply and change from time to time, so keep a little cash on hand just in case.
 
-There's no real ordering or tipping culture inside the garden itself — it's a public park, not a vendor market — though you may find a few snack and coconut-water sellers near the entrance gates.
+There's no real ordering or tipping culture inside the garden itself (it's a public park, not a vendor market) though you may find a few snack and coconut-water sellers near the entrance gates.
 
 The etiquette here is simple: stay off the sculpted hedges, keep to the paved paths, and don't feed the local birds or stray animals that wander through. The most common visitor mistake is treating this as a quick five-minute photo stop and skipping Kamala Nehru Park across the street, which has its own sea-facing viewpoint and is worth combining into the same visit.
 

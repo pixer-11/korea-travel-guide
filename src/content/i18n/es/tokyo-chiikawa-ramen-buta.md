@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-chiikawa-ramen-buta
-srcHash: '33db4af8ff4f'
+srcHash: '4ec517671546'
 title: 'Chiikawa Ramen Buta: guía de viaje de Tokio'
 description: 'Chiikawa Ramen Buta en Tokio, Japón: un local nuevo y muy comentado. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Chiikawa Ramen Buta es una pequeña barra de ramen con temática de personajes que, casi de la noche a la mañana, pasó de ser un concepto curioso a convertirse en un destino con estrella Michelin. Hay que contar con cola, una cocina abierta que funciona con precisión milimétrica y una carta centrada en un único cuenco a base de cerdo elaborado con verdadero rigor técnico. Conviene reservar si se ofrece esa opción y confirmar el horario vigente antes de ir, ya que este es un local cuyo sistema de reservas y horarios todavía se está ajustando ante la demanda.

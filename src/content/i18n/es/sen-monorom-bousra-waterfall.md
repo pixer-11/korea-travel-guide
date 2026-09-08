@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sen-monorom-bousra-waterfall
-srcHash: '53c921aa3147'
+srcHash: '99929941843f'
 title: 'Catarata de Bousra: Guía de viaje de Sen Monorom (4,5★)'
 description: 'La catarata de Bousra, en el distrito de Pech Chreada a una hora de Sen Monorom, es la famosa cascada de tres niveles de la provincia de Mondulkiri, con varias plataformas de observación. 4,5★ (1.749 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La catarata de Bousra, en el distrito de Pech Chreada a una hora de Sen Monorom, es la famosa cascada de tres niveles de la provincia de Mondulkiri, con varias plataformas de observación. Abre todos los días de 7:00 a 17:00; conviene llegar justo a la apertura, entre las 7:00 y las 9:00, para evitar la avalancha de grupos turísticos que se forma de 10:00 a 16:00 los fines de semana. Hay que reservar medio día, contando el trayecto de ida y vuelta por el camino irregular.

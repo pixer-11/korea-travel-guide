@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-the-baristro-asian-style
-srcHash: 'c822d8557d67'
+srcHash: 'f7aab7f9f6d3'
 title: 'The Baristro Asian Style: guía de viaje de Chiang Mai'
 description: The Baristro Asian Style es un café-restaurante muy fotogénico en Suthep Road, en el barrio universitario de Chiang Mai, famoso por su comedor selvático repleto de plantas, sus platos de fusión tailandesa y su café de especialidad.
 quickAnswer: The Baristro Asian Style es un café-restaurante muy fotogénico en Suthep Road, en el barrio universitario de Chiang Mai, famoso por su comedor selvático repleto de plantas, sus platos de fusión tailandesa y su café de especialidad. Conviene ir un día de semana por la mañana o a media tarde para evitar las aglomeraciones que se forman los fines de semana, y hay que contar con un gasto de gama media (unos ฿300–600 por persona) acorde con el ambiente y la calidad de la comida. Combina bien con un recorrido por la zona de Suthep que incluya el Wat Umong y la subida hacia el Doi Suthep.

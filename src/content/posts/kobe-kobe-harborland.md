@@ -83,13 +83,13 @@ updatedDate: '2026-09-07'
 
 Kobe Harborland sits where an old freight rail yard used to run, and you can still feel that industrial bone structure under the shopping malls. Red-brick warehouse facades face the water. Cranes and old train tracks are preserved as sculpture between the storefronts. It's a working monument to Kobe's port history dressed up as a mall district.
 
-The area is unmistakably popular — one of the most-reviewed leisure spots in the city — so don't expect a quiet secret. What you get instead is scale: multiple malls, a Ferris wheel, harbor views, and enough restaurants that you could eat a different meal here every night for a week.
+The area is unmistakably popular, one of the most-reviewed leisure spots in the city, so don't expect a quiet secret. What you get instead is scale: multiple malls, a Ferris wheel, harbor views, and enough restaurants that you could eat a different meal here every night for a week.
 
 ## Getting there
 
-Harborland has its own JR Kobe Line stop, Kobe Station, and a separate Kobe Kosoku Line stop called Harborland Station — either puts you within a five-minute walk of the main complexes. From Sannomiya, the city's central hub, it's about a 10-minute train ride or a flat, walkable 20 minutes along the waterfront.
+Harborland has its own JR Kobe Line stop, Kobe Station, and a separate Kobe Kosoku Line stop called Harborland Station, either puts you within a five-minute walk of the main complexes. From Sannomiya, the city's central hub, it's about a 10-minute train ride or a flat, walkable 20 minutes along the waterfront.
 
-If you're coming from Osaka, a direct JR train to Kobe Station takes roughly 30–40 minutes depending on the service. Look for signs pointing to "Umie" and "Mosaic" once you surface — those are the two anchor malls that orient the whole district.
+If you're coming from Osaka, a direct JR train to Kobe Station takes roughly 30–40 minutes depending on the service. Look for signs pointing to "Umie" and "Mosaic" once you surface. Those are the two anchor malls that orient the whole district.
 
 ## What to see and eat
 
@@ -99,13 +99,13 @@ The core of Harborland splits into a few zones worth knowing by name:
 - **Mosaic** – the waterfront building with the best harbor-facing restaurants and a rooftop Ferris wheel next door
 - **Kobe Harborland umie MOSAIC Garden** – outdoor decking where you can eat with a direct view of the bay and the red Kobe Port Tower across the water
 
-Food-wise, this is prime territory for Kobe beef — steakhouses and teppanyaki counters cluster around Mosaic, ranging from casual lunch sets to full dinner splurges. There's also a dense strip of ramen, okonomiyaki, and bakery stalls if you'd rather graze.
+Food-wise, this is prime territory for Kobe beef, steakhouses and teppanyaki counters cluster around Mosaic, ranging from casual lunch sets to full dinner splurges. There's also a dense strip of ramen, okonomiyaki, and bakery stalls if you'd rather graze.
 
-At night, the Kobe Port Tower and the Ferris wheel light up in red and white, reflecting off the harbor — it's the single most photographed view in the district, and worth timing your visit around.
+At night, the Kobe Port Tower and the Ferris wheel light up in red and white, reflecting off the harbor. It's the single most photographed view in the district, and worth timing your visit around.
 
 ## When to go
 
-Malls and shops run 10am to 9pm every day of the week, so there's no early-morning rush here — this isn't a sunrise spot. Late afternoon into early evening is the sweet spot: you get shopping time in daylight, then the harbor lights switch on as you're finishing dinner.
+Malls and shops run 10am to 9pm every day of the week, so there's no early-morning rush here. This isn't a sunrise spot. Late afternoon into early evening is the sweet spot: you get shopping time in daylight, then the harbor lights switch on as you're finishing dinner.
 
 Weekends bring noticeably heavier foot traffic, especially from midday onward, as families and couples treat Harborland as a full-day outing. If you can only come on a Saturday or Sunday, arriving close to the 10am opening buys you a couple of calmer hours before the crowds build.
 
@@ -113,7 +113,7 @@ Weekends bring noticeably heavier foot traffic, especially from midday onward, a
 
 Because Harborland is genuinely busy rather than a quiet find, the smart move is timing, not secrecy. Weekday afternoons are noticeably calmer than weekends, and arriving right at the 10am open on any day gives you breathing room in the malls before the after-lunch swell.
 
-Cash is still common at smaller food stalls, but the malls and most restaurants take cards and IC transit cards (Suica, ICOCA) without issue — tap-to-pay is standard for a quick coffee or snack.
+Cash is still common at smaller food stalls, but the malls and most restaurants take cards and IC transit cards (Suica, ICOCA) without issue, tap-to-pay is standard for a quick coffee or snack.
 
 There's no tipping expected anywhere in the district, including at sit-down restaurants.
 
@@ -121,6 +121,6 @@ A few local habits worth adopting:
 
 - Locals often walk the waterfront promenade first, then duck into Umie or Mosaic once they've picked a direction
 - The Ferris wheel line moves faster right after opening or after 8pm, not at sunset when everyone else has the same idea
-- Kobe beef dinners are frequently booked ahead on weekends — a same-day walk-in works better for lunch sets than dinner
+- Kobe beef dinners are frequently booked ahead on weekends, a same-day walk-in works better for lunch sets than dinner
 
 The most common visitor mistake is treating Harborland as a quick one-hour stop. Between the two malls, the waterfront deck, and dinner, most people end up spending three to four hours here without noticing.

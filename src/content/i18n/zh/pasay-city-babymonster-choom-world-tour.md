@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pasay-city-babymonster-choom-world-tour
-srcHash: '995184b1acb0'
+srcHash: 'd90d09cdf8b2'
 title: BABYMONSTER CHOOM世界巡演须知（帕塞市站）
 description: BABYMONSTER的CHOOM世界巡演原定于2026年9月5日在帕塞市（Pasay City）的SM亚洲城购物中心竞技场（SM Mall of Asia Arena）举行。以下是官方公布的场馆、交通与时间安排信息。
 quickAnswer: BABYMONSTER的CHOOM世界巡演原定于2026年9月5日在帕塞市的SM亚洲城购物中心竞技场举行，入场时间定在晚上6点。门票通过BABYMONSTER官方渠道以及SM Tickets／场馆售票点发售，票档信息也由这些渠道统一处理。

@@ -76,46 +76,46 @@ aiGenerated: true
 
 This isn't a market built for tourists. It's the place Panaji actually shops.
 
-Walk in and you get the full sensory hit of a working Goan market: crushed ice under silver pomfret and kingfish, turmeric-yellow fingers, sacks of red rice, and vendors calling out prices in Konkani over the hum of ceiling fans. It's small, dense, and unpolished — which is exactly the point.
+Walk in and you get the full sensory hit of a working Goan market: crushed ice under silver pomfret and kingfish, turmeric-yellow fingers, sacks of red rice, and vendors calling out prices in Konkani over the hum of ceiling fans. It's small, dense, and unpolished, which is exactly the point.
 
 ## Getting there
 
 The market sits on Rua Heliodoro Salgado, right by the old Municipal Market building in central Panaji.
 
-If you're staying near the Mandovi riverfront or Church Square, it's a 10–15 minute walk. Autorickshaws and taxis all know it as "Municipal Market" — use that name rather than "Goa Market" if you're asking a driver.
+If you're staying near the Mandovi riverfront or Church Square, it's a 10–15 minute walk. Autorickshaws and taxis all know it as "Municipal Market", use that name rather than "Goa Market" if you're asking a driver.
 
 - Nearest landmark: Our Lady of the Immaculate Conception Church (about 10 minutes on foot)
-- Parking: very limited nearby — walking or a rickshaw drop-off is easier
+- Parking: very limited nearby, walking or a rickshaw drop-off is easier
 - Best area to combine it with: the 18th June Road shopping stretch, a short stroll away
 
 ## What to see and buy
 
 The market unfolds in loose sections rather than neat aisles.
 
-Fish forms the beating heart of it — expect prawns, mackerel, mussels, and whole kingfish laid out on ice, with sellers ready to clean and scale on request. Behind that, dry-goods stalls sell Goan sausage (chorizo), kokum, dried bombil, and reddish Goan chillies by the fistful.
+Fish forms the beating heart of it. Expect prawns, mackerel, mussels, and whole kingfish laid out on ice, with sellers ready to clean and scale on request. Behind that, dry-goods stalls sell Goan sausage (chorizo), kokum, dried bombil, and reddish Goan chillies by the fistful.
 
 - Fresh produce: mangoes, jackfruit, banana leaves, local greens
 - Spices: turmeric, tamarind, kokum, whole and ground chilli blends
 - Goan specialties: chorizo sausage, dried prawns, bebinca ingredients
 - Flowers: garlands and loose jasmine near the market's edges, especially mornings
 
-None of this is curated for visitors — prices are for locals, and that's the appeal.
+None of this is curated for visitors. Prices are for locals, and that's the appeal.
 
 ## When to go
 
 The market runs 9am to 9pm every day of the week, so there's no day it's shut.
 
-Foot traffic data shows weekday mornings between 9am and 11am are the quietest stretch, ideal if you want to browse without jostling for space at the fish counters. Weekends stay fairly steady in crowd levels throughout the day, but the busiest window anywhere is 5pm to 8pm — that's when both shoppers and commuters converge after work.
+Foot traffic data shows weekday mornings between 9am and 11am are the quietest stretch, ideal if you want to browse without jostling for space at the fish counters. Weekends stay fairly steady in crowd levels throughout the day, but the busiest window anywhere is 5pm to 8pm. That's when both shoppers and commuters converge after work.
 
-If you want photographs of stalls without a crowd in every frame, an early weekday visit is your best bet. If you'd rather see the market at full volume — vendors shouting, baskets swapping hands — the early evening rush is the show to catch.
+If you want photographs of stalls without a crowd in every frame, an early weekday visit is your best bet. If you'd rather see the market at full volume (vendors shouting, baskets swapping hands) the early evening rush is the show to catch.
 
 ## How to visit like a local
 
 Come with small notes and coins; most stalls here don't take cards.
 
-Prices aren't fixed the way they are in tourist shops, so a little polite bargaining on non-food items (baskets, household goods) is normal — food prices are generally firm. Greet with a simple "how much for this" rather than haggling aggressively; Panaji market sellers respond better to friendliness than pressure.
+Prices aren't fixed the way they are in tourist shops, so a little polite bargaining on non-food items (baskets, household goods) is normal, food prices are generally firm. Greet with a simple "how much for this" rather than haggling aggressively; Panaji market sellers respond better to friendliness than pressure.
 
-The mistake most visitors make is treating it like a tourist bazaar and expecting English signage or set prices everywhere — this is a genuine city market, not curated for you. Move slowly, let vendors finish serving locals ahead of you, and don't block the narrow walkways for photos.
+The mistake most visitors make is treating it like a tourist bazaar and expecting English signage or set prices everywhere. This is a genuine city market, not curated for you. Move slowly, let vendors finish serving locals ahead of you, and don't block the narrow walkways for photos.
 
-If you want fish, go early — the best cuts sell out by late morning. If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag — plastic bags aren't always offered.
+If you want fish, go early (the best cuts sell out by late morning. If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag) plastic bags aren't always offered.
 

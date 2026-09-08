@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-september-grand-sumo-tournament-aki-basho
-srcHash: 'a16fec7e3981'
+srcHash: 'f145a07a6aec'
 title: 'Torneo Gran Sumo de Septiembre (Aki Basho): lo que hay que saber (Tokio)'
 description: Torneo Gran Sumo de Septiembre (Aki Basho) en Tokio, Japón — 13 al 27 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: El Aki Basho (Torneo Gran Sumo de Septiembre) se celebra del 13 al 27 de septiembre de 2026 en el Ryogoku Kokugikan, en el barrio de Ryogoku de Tokio, con combates diarios durante 15 días consecutivos. Los luchadores de rango inferior compiten a última hora de la mañana, mientras que la división superior (makuuchi) sale al ring desde media tarde hasta última hora, así que lo ideal es llegar a primera hora de la tarde y quedarse hasta el combate final, alrededor de las 18:00. Compra las entradas lo antes posible a través de los canales oficiales de la Asociación Japonesa de Sumo, ya que los fines de semana y los últimos días se agotan rápidamente.

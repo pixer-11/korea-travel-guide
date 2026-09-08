@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nara-yoshikien-garden
-srcHash: '8601561ae215'
+srcHash: '32bab7d0ba18'
 title: 'Jardín Yoshikien: Guía de viaje de Nara (4.6★)'
 description: 'El jardín Yoshikien es un tranquilo jardín de paseo "tres en uno" justo al lado de Nara Park, abierto todos los días de 9:00 a 17:00, y está realmente infravalorado en comparación con sus famosos vecinos Todai-ji e Isuien. 4.6★ (1.210 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El jardín Yoshikien es un tranquilo jardín de paseo "tres en uno" justo al lado de Nara Park, abierto todos los días de 9:00 a 17:00, y está realmente infravalorado en comparación con sus famosos vecinos Todai-ji e Isuien. Los visitantes extranjeros actualmente entran gratis. Los fines de semana, el momento más tranquilo es entre las 16:00 y las 17:00, y el más concurrido de mediodía a las 15:00, así que lo ideal es ir a última hora de la tarde.

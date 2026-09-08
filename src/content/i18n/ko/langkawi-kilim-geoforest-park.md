@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: langkawi-kilim-geoforest-park
-srcHash: '69ed011bfd11'
+srcHash: 'bd8634b6b6b5'
 title: '킬림 지오포레스트 파크: 랑카위 여행 가이드'
 description: 킬림 지오포레스트 파크(Kilim Geoforest Park)는 랑카위 북동부 해안에 자리한 맹그로브·석회암 강 생태계로, 킬림강 투어리즘 제티(Kilim River Tourism Jetty)에서 출발해 맹그로브 수로, 양식장, 동굴, 그리고 탁 트인 라군에서의 독수리 관찰까지 둘러보는 약 2시간짜리 보트 투어로 즐기기 가장 좋다.
 quickAnswer: 킬림 지오포레스트 파크(Kilim Geoforest Park)는 랑카위 북동부 해안에 자리한 맹그로브·석회암 강 생태계로, 킬림강 투어리즘 제티(Kilim River Tourism Jetty)에서 출발해 맹그로브 수로, 양식장, 동굴, 그리고 탁 트인 라군에서의 독수리 관찰까지 둘러보는 약 2시간짜리 보트 투어로 즐기기 가장 좋다. 물살이 잔잔하고 사람이 적은 오전 9시에서 11시 사이에 방문하고, 섬에서 가장 인기 있는 액티비티 중 하나이니 보트 예약은 미리 해두는 것이 좋다. 카약이나 수상 레스토랑에서의 점심을 추가한다면 반나절 정도 일정을 잡아두자.

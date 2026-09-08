@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-los-angeles-county-arboretum-botanic-garden
-srcHash: '1097e9cb7912'
+srcHash: '34931ed1c418'
 title: 'Arboreto y Jardín Botánico del Condado de Los Ángeles: Guía de viaje'
 description: El Arboreto del Condado de LA en Arcadia (Arcadia) es un jardín botánico de 127 acres con pavos reales que campan a sus anchas, una histórica cabaña estilo Reina Ana y una laguna que sirvió como escenario de "Fantasy Island". 4.8★ (5,602 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Arboreto del Condado de LA en Arcadia (Arcadia) es un jardín botánico de 127 acres con pavos reales que campan a sus anchas, una histórica cabaña estilo Reina Ana y una laguna que sirvió como escenario de "Fantasy Island". Abre todos los días de 9am a 7pm; los fines de semana se llena entre las 10am y las 5pm, así que conviene ir un día de semana o llegar después de las 4pm para disfrutar de la luz con más calma. Reserva entre dos y tres horas para recorrer los terrenos con tranquilidad.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-illum
-srcHash: '5946365b8d27'
+srcHash: 'dd9159ec2662'
 title: 'Illum: Guía de viaje de Shanghái'
 description: 'Illum en Shanghái, China — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Illum es uno de los nuevos clubes subterráneos en el sótano del centro comercial C-Park, en el distrito de Changning (Changning District), parte de un flamante conglomerado de livehouses y pistas de baile (junto a Specters, Reactor y Sympathy Angel) que abrió a principios de 2026 y rápidamente se ha convertido en un imán para el público joven de rave, punk y moda de Shanghái. Ve tarde — esta escena no despierta hasta bien pasada la hora de la cena — y confirma los horarios de apertura y cualquier sistema de entradas o reservas antes de salir, ya que los detalles siguen cambiando mientras los locales se consolidan.

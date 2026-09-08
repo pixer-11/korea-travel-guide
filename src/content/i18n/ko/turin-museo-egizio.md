@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: turin-museo-egizio
-srcHash: 'f31512160dcf'
+srcHash: 'e2ca1ce0f553'
 title: '이집트 박물관(Museo Egizio): 토리노 여행 가이드'
 description: 토리노 중심부 아카데미아 델레 시엔체 거리(Via Accademia delle Scienze)에 위치한 이집트 박물관(Museo Egizio)은 세계에서 가장 오래된 이집트학 박물관이며, 카이로 밖에서는 최대 규모의 이집트 고대 유물 컬렉션을 자랑합니다.
 quickAnswer: 토리노 중심부 아카데미아 델레 시엔체 거리(Via Accademia delle Scienze)에 위치한 이집트 박물관(Museo Egizio)은 세계에서 가장 오래된 이집트학 박물관이며, 카이로 밖에서는 최대 규모의 이집트 고대 유물 컬렉션을 자랑합니다. 온라인으로 시간대별 입장권을 예약하고, 개장 시간인 오전 9시 정각에 맞춰 도착하거나 폐장 전 마지막 두 시간을 노려 단체 관광객의 혼잡을 피하세요. 제대로 관람하려면 두세 시간은 비워두는 것이 좋습니다.

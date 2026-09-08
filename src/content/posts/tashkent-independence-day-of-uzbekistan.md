@@ -35,11 +35,11 @@ draft: false
 
 September 1 marks the day Uzbekistan declared independence from the Soviet Union in 1991. It's the country's biggest civic holiday, and Tashkent throws the largest party.
 
-Streets fill with flags in the national colours — blue, white, green, red. Government buildings drape themselves in bunting days in advance, so the city dresses up well before the date itself.
+Streets fill with flags in the national colours, blue, white, green, red. Government buildings drape themselves in bunting days in advance, so the city dresses up well before the date itself.
 
 ## The main event: National Park
 
-The centrepiece is National Park (also signed as Independence Park), a sprawling green space in central Tashkent built around a reflecting pool and the Ezgulik Arch monument. For the night of September 1, 2026, the programme listed a large stage production — folk music, choreographed dance troupes in traditional dress, and a fireworks finale over the water.
+The centrepiece is National Park (also signed as Independence Park), a sprawling green space in central Tashkent built around a reflecting pool and the Ezgulik Arch monument. For the night of September 1, 2026, the programme listed a large stage production, folk music, choreographed dance troupes in traditional dress, and a fireworks finale over the water.
 
 This isn't a ticketed concert in the Western sense. It's a public civic celebration, free to attend, more like a national holiday broadcast than a festival with a gate. Timing and programme details sit with the Tashkent city and Uzbekistan tourism authorities.
 
@@ -72,8 +72,8 @@ Uzbek families treat this as a day for strolling, not rushing. Most people bring
 
 - **Payment:** Food stalls and vendors mostly deal in cash (Uzbek som); small bills are the norm.
 - **Timing:** Late afternoon is calmer than the evening crush.
-- **Etiquette:** It's a proud, family-oriented occasion — dress is respectful and multiple generations come out together.
+- **Etiquette:** It's a proud, family-oriented occasion, dress is respectful and multiple generations come out together.
 - **Common mistake:** Assuming a ticket is needed. There isn't one for the public park celebration; the crowd control is about space, not entry.
-- **Language tip:** The holiday is called "Mustaqillik kuni" in Uzbek — useful when asking locals for directions or timing.
+- **Language tip:** The holiday is called "Mustaqillik kuni" in Uzbek, useful when asking locals for directions or timing.
 
 Exact stage schedules and any road closures are set by city authorities each year.

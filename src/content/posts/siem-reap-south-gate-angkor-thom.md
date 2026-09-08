@@ -55,7 +55,7 @@ It's a smaller, calmer moment than the crowds at Angkor Wat or Bayon proper, and
 
 ## What you actually see
 
-The causeway is lined with rows of statues on either side, though weathering and past restorations mean some are replacements and a few are missing heads entirely. Look closely at the naga (serpent) balustrade — its body forms the railing you're walking beside.
+The causeway is lined with rows of statues on either side, though weathering and past restorations mean some are replacements and a few are missing heads entirely. Look closely at the naga (serpent) balustrade, its body forms the railing you're walking beside.
 
 The gate tower itself is narrow, just wide enough for a single vehicle, and elephants once passed through here in Angkor's heyday. Above the arch, the four faces are carved in the same style historians link to Bayon's many faces, likely representing Avalokiteshvara or a blend of the king's own image with the bodhisattva.
 
@@ -65,24 +65,24 @@ Once through, you're inside the 3km-square city of Angkor Thom, with Bayon rough
 
 South Gate sits on the S Gate Bridge road inside Angkor Archaeological Park, a short tuk-tuk ride from central Siem Reap. Most drivers include it automatically on the "small circuit" route alongside Angkor Wat, Bayon, and Ta Prohm.
 
-You'll need a valid Angkor Pass (checked at park entrances) before reaching the gate — buy it at the official ticket office on the road from Siem Reap, not at the gate itself. Cycling is a genuinely good option too: the roads inside the park are flat and shaded by tall trees, and a bike lets you linger at the gate without a driver waiting.
+You'll need a valid Angkor Pass (checked at park entrances) before reaching the gate, buy it at the official ticket office on the road from Siem Reap, not at the gate itself. Cycling is a genuinely good option too: the roads inside the park are flat and shaded by tall trees, and a bike lets you linger at the gate without a driver waiting.
 
 ## When to go
 
-Early morning, right after the park opens, is when South Gate is at its calmest — before the day-trip buses arrive and while the light is still soft and low across the causeway. Midday brings harsh overhead sun with almost no shade on the bridge itself.
+Early morning, right after the park opens, is when South Gate is at its calmest, before the day-trip buses arrive and while the light is still soft and low across the causeway. Midday brings harsh overhead sun with almost no shade on the bridge itself.
 
 Late afternoon works too, especially if you're timing a visit to end near Bayon or the Terrace of the Elephants before sunset. Because this gate sees noticeably less crowding than the park's headline sites, even a mid-morning stop rarely feels packed.
 
 ## How to visit like a local
 
-Treat South Gate as a five-minute photo stop on the way in, then double back on foot after visiting Bayon — the light and crowd levels shift completely between the two visits. Drivers and guides refer to it simply as "South Gate" or "Angkor Thom gate," so use that phrase if you're arranging a stop.
+Treat South Gate as a five-minute photo stop on the way in, then double back on foot after visiting Bayon, the light and crowd levels shift completely between the two visits. Drivers and guides refer to it simply as "South Gate" or "Angkor Thom gate," so use that phrase if you're arranging a stop.
 
 - Wear shoes you can walk in on uneven, sun-warmed stone
-- Keep your Angkor Pass on you at all times — it's spot-checked inside the park, not just at entry
+- Keep your Angkor Pass on you at all times. It's spot-checked inside the park, not just at entry
 - Bring water; there are no vendors directly at the gate
 - Tip tuk-tuk drivers and guides in cash (US dollars are standard in Siem Reap)
 
-Because this spot stays under-the-radar compared with Angkor Wat's sunrise crush, you can take your time framing photos of the god-and-demon rows without jostling for space. Locals and drivers know it mainly as a through-route, not a destination in itself — which is precisely why it rewards travelers who pause here anyway.
+Because this spot stays under-the-radar compared with Angkor Wat's sunrise crush, you can take your time framing photos of the god-and-demon rows without jostling for space. Locals and drivers know it mainly as a through-route, not a destination in itself, which is precisely why it rewards travelers who pause here anyway.
 
 ## Nearby to combine
 

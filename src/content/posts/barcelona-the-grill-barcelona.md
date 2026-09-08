@@ -79,16 +79,16 @@ updatedDate: '2026-08-28'
 
 The location alone earns attention: a grill restaurant planted at the exact spot where La Rambla dead-ends into the harbor, under the shadow of the Columbus Monument. You've got Port Vell glinting on one side and the medieval tangle of the Gothic Quarter on the other.
 
-It's not a hidden find — a 4.8 rating from thousands of reviews means everyone already knows about it. What keeps that number up is consistency: charcoal-grilled meats and seafood, done properly, in a spot most tourist-trap restaurants near a monument would coast on location alone to fill.
+It's not a hidden find, a 4.8 rating from thousands of reviews means everyone already knows about it. What keeps that number up is consistency: charcoal-grilled meats and seafood, done properly, in a spot most tourist-trap restaurants near a monument would coast on location alone to fill.
 
 ## What to eat
 
-This is a grill in the literal sense — expect smoke, char marks, and a menu built around things cooked over live fire. Mediterranean staples dominate rather than heavy Catalan classics.
+This is a grill in the literal sense. Expect smoke, char marks, and a menu built around things cooked over live fire. Mediterranean staples dominate rather than heavy Catalan classics.
 
 Order from what the kitchen clearly does best:
 
 - Grilled octopus or whole fish, charred at the edges
-- Skewered meats — usually a mix of chicken, beef, and pork
+- Skewered meats, usually a mix of chicken, beef, and pork
 - Grilled vegetables (peppers, aubergine) as a side, not an afterthought
 - A simple house wine or vermouth to go with it
 
@@ -96,15 +96,15 @@ Prices sit mid-range, not cheap-eats territory but far from the fine-dining mark
 
 ## Getting there
 
-You can't miss the building it's attached to — the Columbus Monument marks the spot. The nearest metro is Drassanes on the Green Line (L3), about a two-minute walk down La Rambla toward the water.
+You can't miss the building it's attached to, the Columbus Monument marks the spot. The nearest metro is Drassanes on the Green Line (L3), about a two-minute walk down La Rambla toward the water.
 
-If you're coming from the beach side, Barceloneta station (L4) is a 10–15 minute walk along the harbor promenade. Either way, this is the last stop before La Rambla opens onto the sea — easy to fold into a walk from the Gothic Quarter or the Maritime Museum next door.
+If you're coming from the beach side, Barceloneta station (L4) is a 10–15 minute walk along the harbor promenade. Either way, this is the last stop before La Rambla opens onto the sea, easy to fold into a walk from the Gothic Quarter or the Maritime Museum next door.
 
 ## When to go
 
 The restaurant runs long hours daily, opening at 10am. It closes at 11pm Monday through Thursday and stretches to midnight Friday through Sunday.
 
-Weekends get busy fast — foot traffic here measures busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak.
+Weekends get busy fast, foot traffic here measures busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak.
 
 Practically, that means: come for a late breakfast or early lunch right at opening, or push dinner past 8pm once the plaza crowds thin out.
 
@@ -114,9 +114,9 @@ Because this sits on one of the most photographed squares in Barcelona, the bigg
 
 - **Booking:** given the rating and foot traffic, a reservation or at least a walk-by earlier in the day to check the queue is worth it, especially Friday through Sunday.
 - **Paying:** card and mobile payment are standard across Barcelona restaurants; carry a little cash for smaller nearby vendors, but you won't need it here.
-- **Tipping:** not obligatory in Spain — rounding up or leaving small change for good service is normal, not the 15–20% expected elsewhere.
+- **Tipping:** not obligatory in Spain, rounding up or leaving small change for good service is normal, not the 15–20% expected elsewhere.
 - **Ordering:** grilled dishes are meant to be shared. Order two or three plates for the table rather than one dish per person.
 - **Etiquette:** Spanish dining runs late by international standards; showing up at 9pm for dinner is normal here, not fashionably late.
 
-Combine your visit with a walk up La Rambla or over to the Maritime Museum (Museu Marítim), both a few minutes' walk away, so you're not just eating and leaving — the plaza itself, with the monument and harbor view, is worth the ten minutes before or after your meal.
+Combine your visit with a walk up La Rambla or over to the Maritime Museum (Museu Marítim), both a few minutes' walk away, so you're not just eating and leaving, the plaza itself, with the monument and harbor view, is worth the ten minutes before or after your meal.
 

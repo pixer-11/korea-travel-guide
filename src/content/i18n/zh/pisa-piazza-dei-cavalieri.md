@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pisa-piazza-dei-cavalieri
-srcHash: '66cdc6f2ec94'
+srcHash: '1ec06fd7d9ff'
 title: 骑士广场:比萨旅行指南(4.6★)
 description: 骑士广场(Piazza dei Cavalieri)是比萨的第二广场，从斜塔步行五分钟即到，工作日早上7点到9点(周末7点到10点)是旅行团到来前最安静的时段。4.6★(12,114条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 骑士广场是比萨的第二广场，从斜塔步行五分钟即到，工作日早上7点到9点(周末7点到10点)是旅行团到来前最安静的时段。广场全天开放，免费通行，不过卡罗万宫(Palazzo della Carovana)和圣斯特凡诺教堂(Santo Stefano)有各自的开放时间。安排20到30分钟即可，若在广场边喝杯咖啡多坐一会儿，时间可以更长。

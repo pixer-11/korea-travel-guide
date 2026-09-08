@@ -105,7 +105,7 @@ Inside, the galleries lean hands-on: crank a lever, watch a Van de Graaff genera
 
 The museum sits on Kasturba Road, right by Chinnaswamy Stadium, in the heart of central Bengaluru. It's an easy walk from Cubbon Park and MG Road.
 
-- Nearest Metro: Cubbon Park station (Purple Line) — about a 10-minute walk
+- Nearest Metro: Cubbon Park station (Purple Line), about a 10-minute walk
 - Also close: MG Road station (Purple Line)
 - Autorickshaws from Majestic or Indiranagar take 20–30 minutes depending on traffic
 
@@ -125,7 +125,7 @@ Plan for two to three hours if you want to actually stop and read the panels, lo
 
 ## When to go
 
-This is one of the most-visited attractions of its kind in the city, and it earns that popularity — which also means it gets genuinely busy. Weekend afternoons from noon to 6pm are the peak crush, with school trips and family groups stacking up at popular exhibits.
+This is one of the most-visited attractions of its kind in the city, and it earns that popularity, which also means it gets genuinely busy. Weekend afternoons from noon to 6pm are the peak crush, with school trips and family groups stacking up at popular exhibits.
 
 The calmest window, on both weekdays and weekends, is 10am to 11am, right after opening. If your schedule allows a weekday morning visit, you'll get the static-electricity demo stage and the space gallery largely to yourself.
 
@@ -133,8 +133,8 @@ The museum runs the same hours every day of the week, 9:30am to 6pm, so there's 
 
 ## How to visit like a local
 
-Arrive at opening or within that first hour — by late morning on weekends, ticket lines snake outside the entrance and gallery floors turn shoulder-to-shoulder. Tickets are sold at the counter on-site; carry small cash as a backup even though card payment is generally accepted, since counter queues move faster with exact change.
+Arrive at opening or within that first hour, by late morning on weekends, ticket lines snake outside the entrance and gallery floors turn shoulder-to-shoulder. Tickets are sold at the counter on-site; carry small cash as a backup even though card payment is generally accepted, since counter queues move faster with exact change.
 
-Because this is a big draw for local school groups, weekday mornings during term time can also bring busloads of students — factor that in if you want a quieter experience. The 3D/4D theatre and popular hands-on stations (the generator, the mock mine) form their own micro-queues inside; peel off from the main group and hit these early rather than waiting till you've toured the whole floor.
+Because this is a big draw for local school groups, weekday mornings during term time can also bring busloads of students, factor that in if you want a quieter experience. The 3D/4D theatre and popular hands-on stations (the generator, the mock mine) form their own micro-queues inside; peel off from the main group and hit these early rather than waiting till you've toured the whole floor.
 
-A common visitor mistake is treating this as a quick 45-minute stop — the layout rewards a slower pace, and rushing means missing the science park exhibits outside, which are easy to skip if you dash straight from the entrance to the gift shop. Combine the visit with a stroll through Cubbon Park afterward; it's a five-minute walk and a good way to decompress after the museum's buzz.
+A common visitor mistake is treating this as a quick 45-minute stop, the layout rewards a slower pace, and rushing means missing the science park exhibits outside, which are easy to skip if you dash straight from the entrance to the gift shop. Combine the visit with a stroll through Cubbon Park afterward; it's a five-minute walk and a good way to decompress after the museum's buzz.

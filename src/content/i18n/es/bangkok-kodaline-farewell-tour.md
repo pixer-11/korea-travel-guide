@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-kodaline-farewell-tour
-srcHash: 'a55dbd362bbf'
+srcHash: '267f2e52efb9'
 title: 'Gira de despedida de Kodaline: lo que había que saber (Bangkok)'
 description: La gira de despedida de Kodaline contemplaba dos noches en Bangkok, el 28 y 29 de agosto de 2026, en UOB Live, dentro de EmSphere, sobre Sukhumvit.
 quickAnswer: 'La banda irlandesa Kodaline tenía previstas dos noches en Bangkok como parte de su gira de despedida: el 28 y 29 de agosto de 2026, en UOB Live, dentro de EmSphere, en Sukhumvit Road. Esta serie de conciertos se anunció como la última visita de la banda al sudeste asiático, con la que cerraban más de una década de canciones como All I Want y High Hopes. UOB Live es un recinto construido específicamente para conciertos, al que se llega directamente por pasarela peatonal desde la estación Phrom Phong del BTS.'

@@ -54,7 +54,7 @@ What you get instead is a clean sightline across Taal Lake to the volcano's cone
 
 The spot sits on Tagaytay-Nasugbu Highway in Kaybagal South, a stretch most jeepneys and buses running the Tagaytay-Nasugbu route pass directly.
 
-If you're driving from Manila, it's roughly a two-hour trip via the South Luzon Expressway, exiting toward Tagaytay City. Plug the address into Google Maps — the pin lands right at the roadside viewpoint, so you won't be hunting for an unmarked turnoff.
+If you're driving from Manila, it's roughly a two-hour trip via the South Luzon Expressway, exiting toward Tagaytay City. Plug the address into Google Maps, the pin lands right at the roadside viewpoint, so you won't be hunting for an unmarked turnoff.
 
 - By car: SLEX to Tagaytay exit, then along the highway toward Nasugbu
 - By public transport: jeepney or van from Tagaytay proper heading toward Nasugbu
@@ -62,9 +62,9 @@ If you're driving from Manila, it's roughly a two-hour trip via the South Luzon 
 
 ## What you'll actually see
 
-This isn't a park with gates or ticket booths — it's a lookout point along the road. You pull over, walk to the railing, and the whole caldera opens up in front of you.
+This isn't a park with gates or ticket booths. It's a lookout point along the road. You pull over, walk to the railing, and the whole caldera opens up in front of you.
 
-Taal is one of the world's smallest active volcanoes, and from this angle you can trace the outline of Volcano Island sitting inside the lake like a smaller landmass within a landmass. Depending on recent activity, you may notice a faint sulfur smell carried on the wind — the volcano is still very much alive, and boat trips to the crater itself are periodically suspended for safety.
+Taal is one of the world's smallest active volcanoes, and from this angle you can trace the outline of Volcano Island sitting inside the lake like a smaller landmass within a landmass. Depending on recent activity, you may notice a faint sulfur smell carried on the wind. The volcano is still very much alive, and boat trips to the crater itself are periodically suspended for safety.
 
 Bring a zoom lens or binoculars if you want detail on the crater rim. Otherwise, the view rewards a slow look rather than a rushed photo.
 
@@ -78,11 +78,11 @@ Rainy season (June to October) brings a real risk of fog obscuring the volcano e
 
 ## How to visit like a local
 
-Treat this as a quick roadside pause, not a ticketed attraction — there's no entrance fee or gate, so you simply stop, look, and move on.
+Treat this as a quick roadside pause, not a ticketed attraction. There's no entrance fee or gate, so you simply stop, look, and move on.
 
 - Arrive early morning, ideally before 9am, for the clearest sky
 - Bring small cash if a nearby vendor or informal stall is set up, though don't count on one being there
-- Don't linger too long on the road shoulder — traffic moves fast along this highway
+- Don't linger too long on the road shoulder, traffic moves fast along this highway
 - Pair it with a stop at a nearby bulalo restaurant or coffee farm, both Tagaytay specialties worth the detour
 
 The biggest mistake visitors make is skipping this spot entirely because it doesn't show up on the standard Tagaytay itinerary. Locals and repeat visitors know the highway views are often clearer than the crowded main lookouts, precisely because fewer people know to stop here.

@@ -95,9 +95,9 @@ updatedDate: '2026-09-05'
 
 ## Why the City Palace still matters
 
-You step through Virendra Pol and the traffic noise of Jaipur just falls away. This isn't a ruin behind glass — it's a working palace complex, part museum, part royal residence, built from the 1720s onward by Maharaja Sawai Jai Singh II. The current royal family still occupies a private wing, which is why certain courtyards feel lived-in rather than roped-off.
+You step through Virendra Pol and the traffic noise of Jaipur just falls away. This isn't a ruin behind glass. It's a working palace complex, part museum, part royal residence, built from the 1720s onward by Maharaja Sawai Jai Singh II. The current royal family still occupies a private wing, which is why certain courtyards feel lived-in rather than roped-off.
 
-Pink sandstone gateways give way to marble-columned halls and courtyards painted in mustard yellow, coral pink, and peacock blue. Look up in Pritam Niwas Chowk and you'll find four small doorways, each painted for a season — peacocks for autumn, roses for winter, lotuses for summer.
+Pink sandstone gateways give way to marble-columned halls and courtyards painted in mustard yellow, coral pink, and peacock blue. Look up in Pritam Niwas Chowk and you'll find four small doorways, each painted for a season, peacocks for autumn, roses for winter, lotuses for summer.
 
 ## Getting there and getting in
 
@@ -117,24 +117,24 @@ Budget two to three hours to do the complex justice without rushing.
 - **Sileh Khana** – an armory of swords, daggers, and firearms that belonged to Rajput and Mughal rulers.
 - **Chandra Mahal** – the seven-storey residential palace, partly open only with the upgraded ticket.
 
-Textiles, weapons, miniature paintings, astronomical instruments — the collection reflects centuries of Rajput court life, not just royal furniture.
+Textiles, weapons, miniature paintings, astronomical instruments, the collection reflects centuries of Rajput court life, not just royal furniture.
 
 ## When to go
 
 This is a genuinely popular stop on the Jaipur circuit, and it shows in the courtyards by midday. Measured foot-traffic data points to 10am–11am on weekdays as the calmest stretch to walk through.
 
-Weekends are a different story — expect a real crush between noon and 6pm, when tour buses and family groups overlap. If a weekend visit is unavoidable, aim for the first hour after opening instead.
+Weekends are a different story. Expect a real crush between noon and 6pm, when tour buses and family groups overlap. If a weekend visit is unavoidable, aim for the first hour after opening instead.
 
 Winter mornings (November through February) are pleasant enough to linger in the open courtyards; by April the stone and marble radiate heat by late morning, so an early or golden-hour visit matters more.
 
 ## How to visit like a local
 
-Buy your ticket at the counter rather than from touts hovering near the gates — they'll often push overpriced "guide" packages you don't need.
+Buy your ticket at the counter rather than from touts hovering near the gates. They'll often push overpriced "guide" packages you don't need.
 
 - Hire an official guide or audio guide at the entrance if you want context; the printed signage inside is minimal.
-- Dress modestly — shoulders and knees covered — since parts of the palace remain a functioning royal residence.
+- Dress modestly, shoulders and knees covered, since parts of the palace remain a functioning royal residence.
 - Cameras are usually allowed for a separate fee; phones are typically free, but confirm at the counter since policies do shift.
 - Skip the noon-to-6pm weekend crunch. A 9:30am arrival on a weekday gets you the courtyards without the elbow-to-elbow crowds.
 - Pair the visit with Jantar Mantar and Hawa Mahal, both a short walk away, to make a full Pink City morning of it.
 
-Most visitors treat the City Palace as a quick photo stop at the Peacock Gate and move on. Slow down instead — the armory and textile museum inside are where the depth of the collection actually lives.
+Most visitors treat the City Palace as a quick photo stop at the Peacock Gate and move on. Slow down instead. The armory and textile museum inside are where the depth of the collection actually lives.

@@ -75,15 +75,15 @@ draft: false
 ---
 ## Why go
 
-Dinh Cậu sits on a jagged outcrop of coral rock where the Duong Dong River meets the sea, right in the heart of Duong Dong town. It's a shrine, not a monument — fishermen still stop to pray here before heading out, and the blue-and-white striped lighthouse above it has become the unofficial symbol of Phu Quoc.
+Dinh Cậu sits on a jagged outcrop of coral rock where the Duong Dong River meets the sea, right in the heart of Duong Dong town. It's a shrine, not a monument, fishermen still stop to pray here before heading out, and the blue-and-white striped lighthouse above it has become the unofficial symbol of Phu Quoc.
 
 You climb a short set of stone steps carved into the rock, past incense smoke curling out of a squat, deep-red-roofed pagoda. At the top, the wind off the water hits you and the harbor opens up: fishing boats bobbing at anchor, the river mouth, the open Gulf of Thailand beyond.
 
 ## What you'll actually see
 
-The shrine itself is modest — a single small temple building dedicated to Thuy Long Thanh Mau, a sea goddess local fishermen credit with calming storms and guiding boats home safely. Painted dragons coil along the roofline; the smell of burning incense sticks hangs in the salt air.
+The shrine itself is modest, a single small temple building dedicated to Thuy Long Thanh Mau, a sea goddess local fishermen credit with calming storms and guiding boats home safely. Painted dragons coil along the roofline; the smell of burning incense sticks hangs in the salt air.
 
-Behind it, the lighthouse gives the whole site its postcard look, its spiral stripes visible from boats out on the water. There's no ticket booth, no gate — you just walk up, look around, and take in the view.
+Behind it, the lighthouse gives the whole site its postcard look, its spiral stripes visible from boats out on the water. There's no ticket booth, no gate, you just walk up, look around, and take in the view.
 
 Give it 15–20 minutes unless you plan to linger for sunset, in which case budget closer to an hour.
 
@@ -99,15 +99,15 @@ It's open daily from 7am to 8:30pm, so it works as either a morning or evening s
 
 ## When to go
 
-Mornings here are unhurried. The quietest window, on both weekdays and weekends, runs from 7am to 3pm — the steps are far less crowded and the light on the water is sharper for photos.
+Mornings here are unhurried. The quietest window, on both weekdays and weekends, runs from 7am to 3pm. The steps are far less crowded and the light on the water is sharper for photos.
 
 Try to avoid arriving between 5pm and 8pm on weekends. That's when the site fills up fastest, as locals and tourists alike converge for sunset views over the gulf.
 
-If sunset is the whole point of your visit, that's understandable — Dinh Cậu is genuinely one of the better sunset spots in Duong Dong. Just know you'll be sharing the rock with a crowd, phones out, jostling for the same angle.
+If sunset is the whole point of your visit, that's understandable, Dinh Cậu is genuinely one of the better sunset spots in Duong Dong. Just know you'll be sharing the rock with a crowd, phones out, jostling for the same angle.
 
 ## How to visit like a local
 
-Dinh Cậu is a working shrine, not a tourist attraction dressed up as one — fishing families still come to pray, so keep voices down near the temple building and dress reasonably modestly (shoulders and knees covered is a safe bet).
+Dinh Cậu is a working shrine, not a tourist attraction dressed up as one, fishing families still come to pray, so keep voices down near the temple building and dress reasonably modestly (shoulders and knees covered is a safe bet).
 
 - **Best time:** early morning, well before 3pm, for a near-empty rock and softer light.
 - **Payment:** there's no entry fee; if you want to light incense or leave a small offering, small donations are generally welcome.
@@ -115,4 +115,4 @@ Dinh Cậu is a working shrine, not a tourist attraction dressed up as one — f
 - **The mistake tourists make:** treating it purely as a sunset photo stop and only ever seeing it at 6pm. Coming in the morning means you'll actually have room to look at the shrine itself instead of just the view.
 - **After:** walk straight into Duong Dong night market for an early dinner while the harbor is still lit up gold.
 
-It's a small site — twenty minutes is enough — but it's a genuine, still-functioning piece of local life, not a reconstruction, and that's worth pausing for.
+It's a small site, twenty minutes is enough, but it's a genuine, still-functioning piece of local life, not a reconstruction, and that's worth pausing for.

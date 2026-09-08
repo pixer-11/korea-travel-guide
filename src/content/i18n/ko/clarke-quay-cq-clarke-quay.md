@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-cq-clarke-quay
-srcHash: '13ebef0354d3'
+srcHash: 'cdb8dca46ec3'
 title: 'CQ @ 클락 키(Clarke Quay): 여행 가이드'
 description: CQ @ 클락 키(Clarke Quay)는 3 River Valley Road에 자리한, 복원된 19세기 고당(godown, 강변 창고) 건물들이 모여 있는 곳으로, 싱가포르 강(Singapore River)을 따라 이어지는 클락 키의 레스토랑과 나이트라이프 중심지 역할을 합니다.
 quickAnswer: CQ @ 클락 키(Clarke Quay)는 3 River Valley Road에 자리한, 복원된 19세기 고당(godown, 강변 창고) 건물들이 모여 있는 곳으로, 싱가포르 강(Singapore River)을 따라 이어지는 클락 키의 레스토랑과 나이트라이프 중심지 역할을 합니다. 낮이든 저녁이든 강변 다이닝과 바를 즐기러 오면 좋고, 해가 진 뒤(특히 목요일~토요일)에는 활기차고 붐비는 분위기를 각오해야 합니다. 보트 키(Boat Quay)나 포트 캐닝 공원(Fort Canning Park)까지 이어지는 강변 산책과 함께 묶어 다녀오기 좋습니다. 가장 가까운 MRT역은 클락 키역(Clarke Quay, North East Line)이며, E번 출구가 바로 현장 앞입니다.

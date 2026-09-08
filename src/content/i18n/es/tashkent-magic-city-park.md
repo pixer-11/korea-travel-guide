@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-magic-city-park
-srcHash: 'e88936b66588'
+srcHash: 'e6cc59964e61'
 title: 'Magic City Park: Guía de Viaje de Tashkent (4.6★)'
 description: 'Magic City Park es el parque de atracciones de temática de cuento de hadas de Tashkent en la calle Bobur (Bobur Street): un pueblo de fantasía con edificios de colores pastel, un castillo iluminado, atracciones y cafeterías, abierto todos los días de 10:00 a 23:00. 4.6★ (7,536 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Magic City Park es el parque de atracciones de temática de cuento de hadas de Tashkent en la calle Bobur (Bobur Street): un pueblo de fantasía con edificios de colores pastel, un castillo iluminado, atracciones y cafeterías, abierto todos los días de 10:00 a 23:00. Es realmente popular entre las familias, así que lo mejor es ir un día entre semana por la tarde, antes de la hora de la cena, para evitar las peores aglomeraciones. Calcula entre dos y tres horas, y ve al menos una vez después del atardecer para ver cómo se encienden las luces.'

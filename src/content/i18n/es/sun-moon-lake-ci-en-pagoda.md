@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sun-moon-lake-ci-en-pagoda
-srcHash: '5cb10a2a1aa4'
+srcHash: 'acececa85b97'
 title: 'Pagoda Ci''en: Guía de viaje del Lago del Sol y la Luna (4,6★)'
 description: 'La Pagoda Ci''en se alza en la orilla sur del Lago del Sol y la Luna (Sun Moon Lake): una torre octogonal de nueve pisos construida en 1971 por encargo de Chiang Kai-shek en memoria de su madre. 4,6★ (4.137 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Pagoda Ci''en se alza en la orilla sur del Lago del Sol y la Luna (Sun Moon Lake): una torre octogonal de nueve pisos construida en 1971 por encargo de Chiang Kai-shek en memoria de su madre. Abierta todos los días de 9:00 a 16:30, la subida es empinada pero corta, y recompensa con la mejor vista panorámica del lago de toda la zona. Conviene llegar temprano o tarde dentro del horario de apertura para evitar las multitudes de los autobuses turísticos. Calcule entre 45 y 75 minutos en total, incluyendo el sendero de subida.'

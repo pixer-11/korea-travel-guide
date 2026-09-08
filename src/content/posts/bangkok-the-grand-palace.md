@@ -109,7 +109,7 @@ Alternatively, take the MRT Blue Line to Sanam Chai station, which opened specif
 
 Budget at least 2-3 hours inside, more if you like architecture or photography. Beyond Wat Phra Kaew, walk the cloister galleries ringing the temple, painted floor-to-ceiling with murals of the Ramakien (the Thai version of the Ramayana epic), and look for the pairs of towering yaksha (guardian demon) statues flanking the gates. The Chakri Maha Prasat Throne Hall, with its distinctive mix of Thai spired roofs atop a European neoclassical base, reflects 19th-century Siam's balancing act between tradition and Western influence.
 
-Tickets purchased at the palace generally include entry to the nearby Queen Sirikit Museum of Textiles and sometimes other royal collections on the same grounds — check your ticket for what's bundled, since this changes periodically. Photography is allowed in most outdoor areas but prohibited inside the Emerald Buddha hall itself.
+Tickets purchased at the palace generally include entry to the nearby Queen Sirikit Museum of Textiles and sometimes other royal collections on the same grounds. Check your ticket for what's bundled, since this changes periodically. Photography is allowed in most outdoor areas but prohibited inside the Emerald Buddha hall itself.
 
 ## When to go
 
@@ -117,6 +117,6 @@ Arrive right at opening, generally 8:30am, to beat both the midday heat and the 
 
 ## Nearby & practical tips
 
-Dress code is strictly enforced: shoulders, knees, and midriffs must be covered, and shoes should be closed-toe or at least secure sandals — flip-flops can draw scrutiny. If you show up underdressed, staff near the entrance loan sarongs and shirts, usually against a small deposit, but the queue for this eats into your visit time. Ignore anyone outside the walls claiming the palace is "closed for a Buddhist holiday" and offering to take you elsewhere by tuk-tuk — this is a long-running scam.
+Dress code is strictly enforced: shoulders, knees, and midriffs must be covered, and shoes should be closed-toe or at least secure sandals (flip-flops can draw scrutiny. If you show up underdressed, staff near the entrance loan sarongs and shirts, usually against a small deposit, but the queue for this eats into your visit time. Ignore anyone outside the walls claiming the palace is "closed for a Buddhist holiday" and offering to take you elsewhere by tuk-tuk) this is a long-running scam.
 
 Once inside, combine your visit with two short walks nearby: Wat Pho (Temple of the Reclining Buddha) is about 10 minutes on foot to the south, and Wat Arun (Temple of Dawn) is a quick cross-river ferry ride from Tha Tien Pier, making a natural three-temple loop for one morning or afternoon.

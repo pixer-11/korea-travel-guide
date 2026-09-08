@@ -68,7 +68,7 @@ aiGenerated: true
 
 The Museo Nacional del Prado, in Madrid's Retiro district, holds one of the deepest collections of European painting anywhere, spanning the 12th to the 19th century. Its reputation rests on three Spanish masters: Diego Velázquez, whose "Las Meninas" anchors an entire room and remains one of the most analyzed paintings in Western art; Francisco Goya, represented across his full career from lighthearted tapestry cartoons to the harrowing "Black Paintings" and "The Third of May 1808"; and El Greco, whose elongated, mystical figures fill several galleries.
 
-Beyond the Spanish canon, the Prado's Flemish and Italian holdings — Bosch's "The Garden of Earthly Delights," Titian, Rubens, van der Weyden — are strong enough to anchor major museums on their own. With a 4.7 rating across roughly 155,000 reviews, it's consistently ranked among the top two or three art museums on the planet, alongside the Louvre and the Uffizi.
+Beyond the Spanish canon, the Prado's Flemish and Italian holdings (Bosch's "The Garden of Earthly Delights," Titian, Rubens, van der Weyden) are strong enough to anchor major museums on their own. With a 4.7 rating across roughly 155,000 reviews, it's consistently ranked among the top two or three art museums on the planet, alongside the Louvre and the Uffizi.
 
 ## Getting there
 
@@ -78,13 +78,13 @@ Estación del Arte is the closest Cercanías (commuter rail) stop, literally nam
 
 ## What to see
 
-Given the scale of the collection — around 8,000 paintings, with only a fraction on display at once — it helps to prioritize. Start on the first floor with Velázquez's "Las Meninas" (Room 12) and the surrounding royal portraits, then move to the Goya rooms, which trace his evolution from court painter to the dark, disturbing works of his final years, including "Saturn Devouring His Son."
+Given the scale of the collection (around 8,000 paintings, with only a fraction on display at once) it helps to prioritize. Start on the first floor with Velázquez's "Las Meninas" (Room 12), and the surrounding royal portraits, then move to the Goya rooms, which trace his evolution from court painter to the dark, disturbing works of his final years, including "Saturn Devouring His Son."
 
 Devote time to Bosch's triptych "The Garden of Earthly Delights," one of the most reproduced and debated paintings in art history, and to El Greco's elongated saints and "The Adoration of the Shepherds." The Italian galleries hold Titian's portraits of Charles V and Fra Angelico's "The Annunciation." Budget at least 2.5 to 3 hours for a focused visit; art lovers often spend a full half-day. Free official floor plans and audio guides (rentable on-site) help navigate the building's layout, which spans several connected wings.
 
 ## When to go
 
-Mornings on weekdays, right at opening, tend to be least crowded — tour groups typically arrive mid-morning. The Prado offers free entry during limited evening hours most days of the week (historically around 6–8pm Monday to Saturday and 5–7pm Sunday), which draws a steady crowd but is a legitimate budget option if you don't mind moving faster. Confirm current opening hours, free-entry windows, and admission prices on the official Prado website before visiting, since these are adjusted periodically. Timed-entry online booking is strongly advisable year-round and essential in peak tourist months (spring and early autumn).
+Mornings on weekdays, right at opening, tend to be least crowded, tour groups typically arrive mid-morning. The Prado offers free entry during limited evening hours most days of the week (historically around 6–8pm Monday to Saturday and 5–7pm Sunday), which draws a steady crowd but is a legitimate budget option if you don't mind moving faster. Confirm current opening hours, free-entry windows, and admission prices on the official Prado website before visiting, since these are adjusted periodically. Timed-entry online booking is strongly advisable year-round and essential in peak tourist months (spring and early autumn).
 
 ## Nearby & tips
 

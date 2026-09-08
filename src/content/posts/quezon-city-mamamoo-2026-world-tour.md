@@ -39,21 +39,21 @@ eventOrganizer:
 ---
 ## Why this show matters
 
-MAMAMOO — Solar, Moonbyul, Wheein, and Hwasa — built their reputation on live vocal power, and Manila has long been one of their most reliable stops outside Korea. A multi-night run in Quezon City signaled just how deep the Philippine fanbase runs; it's rare for a K-pop act to hold the stage for three consecutive nights in one city, and it meant both locals and fans flying in from across Southeast Asia and beyond had more than one shot at tickets if the first night sold out.
+MAMAMOO (Solar, Moonbyul, Wheein, and Hwasa) built their reputation on live vocal power, and Manila has long been one of their most reliable stops outside Korea. A multi-night run in Quezon City signaled just how deep the Philippine fanbase runs; it's rare for a K-pop act to hold the stage for three consecutive nights in one city, and it meant both locals and fans flying in from across Southeast Asia and beyond had more than one shot at tickets if the first night sold out.
 
 ## Getting to the venue
 
-The reported venue was the Philippine International Convention Center (PICC), a fixture of Philippine concert and convention life since the 1970s, sitting inside the CCP Complex on Roxas Boulevard in Pasay-adjacent Manila Bay reclamation area — despite this guide's Quezon City framing, K-pop tour stops in Manila have historically shifted between PICC, the Mall of Asia Arena, and Araneta Coliseum in Quezon City.
+The reported venue was the Philippine International Convention Center (PICC), a fixture of Philippine concert and convention life since the 1970s, sitting inside the CCP Complex on Roxas Boulevard in Pasay-adjacent Manila Bay reclamation area, despite this guide's Quezon City framing, K-pop tour stops in Manila have historically shifted between PICC, the Mall of Asia Arena, and Araneta Coliseum in Quezon City.
 
 For a Quezon City venue such as the Araneta Coliseum (Cubao), that's a straightforward ride via the MRT-3 Araneta Center-Cubao station, with the arena a short walk from the exit. For PICC, the trip from most Quezon City hotels is longer, given Manila's notorious traffic, especially in the late afternoon before doors open.
 
 ## What to expect over three nights
 
-Multi-night runs like this typically mean organizers anticipate strong demand across all four members' solo followings plus group numbers — MAMAMOO's sets usually blend group anthems with each member's solo material. The usual K-pop concert rhythm applies: doors well before showtime, opening segments, a multi-act main show with costume changes, and an encore.
+Multi-night runs like this typically mean organizers anticipate strong demand across all four members' solo followings plus group numbers, MAMAMOO's sets usually blend group anthems with each member's solo material. The usual K-pop concert rhythm applies: doors well before showtime, opening segments, a multi-act main show with costume changes, and an encore.
 
 ## Booking tickets and travel
 
-MAMAMOO's agency (RBW) social accounts and the concert promoter's official ticketing partner were the channels for ticket and set-time details — venue, exact show times, and price tiers. International fans often book flights into Ninoy Aquino International Airport (NAIA) once dates are locked; August 8-10, 2026 was the reported window for this run.
+MAMAMOO's agency (RBW) social accounts and the concert promoter's official ticketing partner were the channels for ticket and set-time details, venue, exact show times, and price tiers. International fans often book flights into Ninoy Aquino International Airport (NAIA) once dates are locked; August 8-10, 2026 was the reported window for this run.
 
 ## When to go and how to plan around it
 
@@ -61,6 +61,6 @@ Early August sits in the Philippines' rainy season, with sudden downpours and hu
 
 ## How to visit like a local
 
-Manila concertgoers know the drill: cash and GCash (a popular mobile wallet) both circulate widely for food stalls and merch lines outside venues, though official tour merchandise booths typically accept cards too. Filipino fans, or "MooMoos," are known for organized fan projects — light stick synchronization, banners, and coordinated chants.
+Manila concertgoers know the drill: cash and GCash (a popular mobile wallet) both circulate widely for food stalls and merch lines outside venues, though official tour merchandise booths typically accept cards too. Filipino fans, or "MooMoos," are known for organized fan projects, light stick synchronization, banners, and coordinated chants.
 
 The rookie mistake international visitors make is underestimating Manila traffic on concert nights; locals build in an extra hour or two and treat gridlock near the venue as a given, especially if arena parking and drop-off zones get congested. Lines for general admission or "GA" standing sections often start forming hours before doors.

@@ -89,20 +89,20 @@ The 4.5-star rating from nearly 7,000 reviews reflects how consistently visitors
 Khao Rang sits in Tambon Wichit, Mueang Phuket district, at 145/5 Thanon Patiphat, just a few minutes' drive northwest of Phuket Town's old quarter (the Thalang Road / Soi Romanee heritage area). There's no direct city bus route up the hill, so most visitors arrive by:
 
 - **Rental car or scooter**: roughly 10–15 minutes from central Phuket Town; the road up is a winding but paved single-lane route with clear signage.
-- **Grab or taxi**: the easiest option for those without their own transport — expect a short, inexpensive ride from town, and arrange a pickup time or number for the return trip since taxis rarely wait at the top.
+- **Grab or taxi**: the easiest option for those without their own transport. Expect a short, inexpensive ride from town, and arrange a pickup time or number for the return trip since taxis rarely wait at the top.
 - **Tour add-on**: many half-day Phuket Town tours include a Khao Rang stop, usually timed for sunset.
 
 There is free parking near the summit park, though space fills up quickly around dusk on weekends.
 
 ## What to see and do
 
-The main draw is the terrace and park area near the summit, landscaped with topiary gardens, benches, and open lawns — a popular spot for local families, joggers, and couples in the evening. From the main viewpoint platform you can pick out landmarks like the Phuket clock tower area, the harbor, and Wat Chalong's stupa in the distance on very clear days.
+The main draw is the terrace and park area near the summit, landscaped with topiary gardens, benches, and open lawns, a popular spot for local families, joggers, and couples in the evening. From the main viewpoint platform you can pick out landmarks like the Phuket clock tower area, the harbor, and Wat Chalong's stupa in the distance on very clear days.
 
 A few practical notes on making the most of the visit:
 - Spend 45 minutes to an hour just walking the park and viewpoint terraces; add more if you plan to eat at one of the hilltop restaurants.
-- Two open-air restaurants near the summit — long-time local favorites — serve Thai dishes with the same panoramic backdrop, making this a good dinner-with-a-view stop rather than just a quick photo op.
+- Two open-air restaurants near the summit, long-time local favorites, serve Thai dishes with the same panoramic backdrop, making this a good dinner-with-a-view stop rather than just a quick photo op.
 - The park is also used for outdoor exercise; you'll see fitness stations and a jogging track, so early morning is quieter and cooler if you prefer to avoid crowds.
-- There is a small hilltop temple/shrine area near the park where locals stop to pray — worth a respectful look but not the main event.
+- There is a small hilltop temple/shrine area near the park where locals stop to pray, worth a respectful look but not the main event.
 
 ## When to go
 
@@ -112,4 +112,4 @@ Late afternoon (around 5:00–6:30 PM depending on the season) is the prime wind
 
 Khao Rang pairs naturally with a visit to Phuket Old Town, only a short drive away, where you can walk Thalang Road and Soi Romanee for their preserved Sino-Portuguese architecture, boutique cafés, and street food stalls. Because the viewpoint has no admission fee, it's an easy, low-cost addition to a day otherwise spent museum-hopping or shopping in the old quarter.
 
-Wear light layers — the hilltop breeze is noticeably cooler than the town below, especially at sunset — and confirm current opening hours locally, since park hours can shift slightly around public holidays.
+Wear light layers (the hilltop breeze is noticeably cooler than the town below, especially at sunset), and confirm current opening hours locally, since park hours can shift slightly around public holidays.

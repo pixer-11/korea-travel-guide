@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
-srcHash: 'bcda3bc5d9a2'
+srcHash: '073b5f1009e8'
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipéi: lo que hay que saber (Taipéi)'
 description: 'Official HIGE DANDism Asia Tour 2026 en Taipéi: dos noches en el Taipei Dome los días 29 y 30 de agosto de 2026, con las nuevas canciones Stardust y Elderflower anunciadas.'
 quickAnswer: Official HIGE DANDism, el quinteto japonés de pop-rock detrás de éxitos como "Pretender" y "Cry Baby", tenía previstas dos noches en el Taipei Dome los días 29 y 30 de agosto de 2026, dentro de su gira asiática 2026. El anuncio incluyó los estrenos en directo de las nuevas canciones "Stardust" y "Elderflower", junto al repertorio ya conocido de la banda. El anuncio no incluyó precios de entradas, horarios exactos de apertura de puertas ni el mapa de asientos.

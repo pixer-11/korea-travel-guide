@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-local-restaurant
-srcHash: 'aa74d4aa674b'
+srcHash: '80a59a0fc751'
 title: Restaurantes locales en Gangneung
 description: 'Para conocer de verdad la cultura gastronómica de Gangneung, dirígete a los callejones alrededor del Mercado Jungang (Jungang-dong) y al estero de Gangmun cerca de la Playa Gyeongpo, donde pequeños locales familiares se especializan en los platos emblemáticos de la ciudad: chodang sundubu (tofu sin cuajar cocido a fuego lento en salmuera de agua de mar), pescado fresco a la parrilla o crudo del Mar del Este, y makguksu (fideos fríos de trigo sarraceno).'
 quickAnswer: 'Para conocer de verdad la cultura gastronómica de Gangneung, dirígete a los callejones alrededor del Mercado Jungang (Jungang-dong) y al estero de Gangmun cerca de la Playa Gyeongpo, donde pequeños locales familiares se especializan en los platos emblemáticos de la ciudad: chodang sundubu (tofu sin cuajar cocido a fuego lento en salmuera de agua de mar), pescado fresco a la parrilla o crudo del Mar del Este, y makguksu (fideos fríos de trigo sarraceno). Calcula entre 40.000 y 60.000 KRW para dos personas en una casa de tofu o marisquería de gama media, y ve a la hora del almuerzo, cuando los locales están más animados y la comida es más fresca.'

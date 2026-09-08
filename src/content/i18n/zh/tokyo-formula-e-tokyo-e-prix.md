@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-formula-e-tokyo-e-prix
-srcHash: '710785f486af'
+srcHash: 'b2e88ac41505'
 title: 2026年Formula E东京站电动方程式：赛道位置、日期与交通指南
 description: Formula E东京电动方程式赛此前定于2026年7月25日至26日在东京街道赛道举行，两天赛程涵盖练习赛、排位赛与正赛。
 quickAnswer: Formula E东京电动方程式赛此前定于2026年7月25日至26日在东京街道赛道（Tokyo Street Circuit）举行，赛道设在东京市中心封闭公路上的临时赛道，位于台场（Odaiba）滨水区或中央商务区一带。为期两天的赛程包括练习赛、排位赛以及电动方程式正赛。

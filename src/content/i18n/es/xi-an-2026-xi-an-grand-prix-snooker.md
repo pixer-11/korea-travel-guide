@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xi-an-2026-xi-an-grand-prix-snooker
-srcHash: '123e9e4bbcfe'
+srcHash: 'e2563fe5b4d6'
 title: 'Gran Premio de Xi''an 2026 (snooker): lo que hay que saber (Xi''an)'
 description: 'Gran Premio de Xi''an 2026 (snooker) en Xi''an, China, del 28 de septiembre al 4 de octubre de 2026: qué es, cuándo y dónde se celebra, y cómo organizar el viaje.'
 quickAnswer: El Gran Premio de Xi'an 2026 se disputa del 28 de septiembre al 4 de octubre de 2026 como una de las paradas del calendario de ranking del World Snooker Tour, y reúne a los mejores profesionales en Xi'an durante una semana de rondas clasificatorias hasta llegar a la final. Al momento de escribir esto, la sede, los precios de las entradas y los horarios de las sesiones diarias todavía no se han confirmado públicamente, así que conviene revisar los canales oficiales del World Snooker Tour y del evento en Xi'an antes de reservar vuelos u hoteles. Se espera una estructura de una semana de duración, con los partidos más disputados y el mayor público concentrados hacia la segunda mitad del torneo, que culmina con la final el 4 de octubre.

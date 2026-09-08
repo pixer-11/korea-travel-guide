@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-city-ci-siamo
-srcHash: '83ab4475c9e5'
+srcHash: '30314fa3bead'
 title: Ci Siamo en la ciudad de Nueva York
 description: Ci Siamo es un restaurante italiano moderno del Union Square Hospitality Group de Danny Meyer, ubicado en la zona de Hudson Yards/Manhattan West, en Manhattan, conocido sobre todo por su Rigatoni Alla Gricia.
 quickAnswer: 'Ci Siamo es un restaurante italiano moderno del Union Square Hospitality Group de Danny Meyer, ubicado en la zona de Hudson Yards/Manhattan West, en Manhattan, conocido sobre todo por su Rigatoni Alla Gricia. Encabezó la lista Top 100 Places to Eat in the U.S. de Yelp en 2026, por lo que conseguir reserva es, sin duda, la parte más difícil de la visita: reserva con toda la anticipación que permita la plataforma y reconfirma el horario antes de ir.'

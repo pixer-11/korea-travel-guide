@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bordeaux-miroir-d-eau
-srcHash: '88bea104cfa9'
+srcHash: '6f1da2d08c62'
 title: ミロワール・ドー(水鏡):ボルドー旅行ガイド
 description: ミロワール・ドー(Miroir d'eau)は、ボルドーのガロンヌ川沿い、ブルス広場(Place de la Bourse)にある浅い水鏡です——無料で野外にあり、早朝か日没後に訪れるのが一番です。
 quickAnswer: ミロワール・ドー(Miroir d'eau)は、ボルドーのガロンヌ川沿い、ブルス広場(Place de la Bourse)にある浅い水鏡です——無料で野外にあり、人が少なくなる早朝か日没後、18世紀のファサードの上で水が霧へと変わる時間帯に訪れるのが一番です。滞在時間の目安は20〜40分。濡れても構わないサンダルを履いて、ケ・リシュリュー(Quai Richelieu)沿いの散策と組み合わせるのがおすすめです。

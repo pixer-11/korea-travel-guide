@@ -62,13 +62,13 @@ Pre Rup looks like a mountain built by hand, because that's essentially what it 
 
 The name translates roughly to "turn the body," a nod to a supposed cremation ritual once linked to the site, though most historians now think that's folklore layered on later. What's certain is the silhouette: five brick towers stacked on a pyramidal base, the whole thing glowing a deep rust-orange in late afternoon light.
 
-That color is the reason most visitors show up. Unlike Angkor Wat's moat-reflection sunsets, Pre Rup's are about texture — the setting sun catches the weathered brick and turns the entire structure the color of embers.
+That color is the reason most visitors show up. Unlike Angkor Wat's moat-reflection sunsets, Pre Rup's are about texture, the setting sun catches the weathered brick and turns the entire structure the color of embers.
 
 ## Getting There and Getting In
 
 Pre Rup sits east of Angkor Thom, near Srah Srang and East Mebon, about a 20-minute tuk-tuk ride from central Siem Reap. Most drivers know it as a standard stop on the "Grand Circuit" route through the park.
 
-You'll need an Angkor Pass to enter — the same multi-day ticket that covers Angkor Wat, Bayon and the rest of the archaeological park. There's no separate admission for Pre Rup itself.
+You'll need an Angkor Pass to enter, the same multi-day ticket that covers Angkor Wat, Bayon and the rest of the archaeological park. There's no separate admission for Pre Rup itself.
 
 A few practical notes before you go:
 
@@ -79,27 +79,27 @@ A few practical notes before you go:
 
 ## What You'll Actually See
 
-The bottom two tiers are enclosure walls and libraries, brick-built and softened by nine centuries of monsoons. Climb higher and the carving gets sharper — lintels over doorways still show traces of Hindu deities, guardian figures, and floral motifs cut into sandstone.
+The bottom two tiers are enclosure walls and libraries, brick-built and softened by nine centuries of monsoons. Climb higher and the carving gets sharper, lintels over doorways still show traces of Hindu deities, guardian figures, and floral motifs cut into sandstone.
 
 The five central towers, arranged in a quincunx pattern, are the payoff. From the top platform you get a wide, unobstructed view across the surrounding forest canopy, flat and green in every direction.
 
-Look for the false doors carved into three sides of each tower — only the east-facing entrances are real, a common trick in Angkor-era temple design. Also worth noticing: this was one of the temples used for early experiments in restoration, so some sections show visible reconstruction work from French and later Cambodian teams.
+Look for the false doors carved into three sides of each tower, only the east-facing entrances are real, a common trick in Angkor-era temple design. Also worth noticing: this was one of the temples used for early experiments in restoration, so some sections show visible reconstruction work from French and later Cambodian teams.
 
 ## When to Go
 
-Sunset is the obvious draw, and for good reason — the eastward-facing brick catches low sun in a way few other Angkor temples manage. Arrive by 4:30pm on a normal day to claim a spot on the upper platform before the tour buses empty out.
+Sunset is the obvious draw, and for good reason, the eastward-facing brick catches low sun in a way few other Angkor temples manage. Arrive by 4:30pm on a normal day to claim a spot on the upper platform before the tour buses empty out.
 
 If crowds aren't your thing, flip the script and go at opening. Early morning light is softer, the stone is cool underfoot, and you'll likely share the upper terrace with a handful of photographers instead of a few hundred people.
 
-Midday is the quietest window paradoxically because of heat, not crowds — worth considering if you're doing a self-guided loop and want the ruins mostly to yourself, minus the shade.
+Midday is the quietest window paradoxically because of heat, not crowds, worth considering if you're doing a self-guided loop and want the ruins mostly to yourself, minus the shade.
 
 ## How to Visit Like a Local
 
 Pre Rup is well-known enough that sunset here draws real crowds, so plan around that rather than pretending you'll have it to yourself. Tour groups tend to arrive in a wave around 5pm; beat them by 30 minutes and you'll get a better vantage point with less jostling.
 
-Drivers and vendors near the entrance generally deal in US dollars alongside Cambodian riel — small bills are appreciated since change can be scarce. Tipping isn't obligatory but a dollar or two for a tuk-tuk driver who's waited through your visit is standard practice.
+Drivers and vendors near the entrance generally deal in US dollars alongside Cambodian riel, small bills are appreciated since change can be scarce. Tipping isn't obligatory but a dollar or two for a tuk-tuk driver who's waited through your visit is standard practice.
 
-The most common tourist mistake is treating Pre Rup as an afterthought squeezed between bigger names like Angkor Wat and Ta Prohm. Give it its own slot in your itinerary rather than a rushed ten-minute stop — the climb and the view reward unhurried pacing.
+The most common tourist mistake is treating Pre Rup as an afterthought squeezed between bigger names like Angkor Wat and Ta Prohm. Give it its own slot in your itinerary rather than a rushed ten-minute stop, the climb and the view reward unhurried pacing.
 
 Wear the shoes you'd wear for a moderate hike, not flip-flops. The steps up to the top platform are steep, uneven and uncovered, and there's minimal shade anywhere on the ascent.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cinque-terre-sentiero-monterosso-vernazza
-srcHash: 'ebf493fb0a2c'
+srcHash: 'baf446964341'
 title: 五渔村徒步指南：蓝色之路蒙特罗索至韦尔纳扎段
 description: 蒙特罗索至韦尔纳扎这一段，是蓝色之路（Sentiero Azzurro）经典的第一程：全长约3.3公里，穿行于葡萄园与悬崖海景之间，攀爬起伏约需1.5至2小时。4.5星（1,414条点评）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 蒙特罗索至韦尔纳扎这一段，是蓝色之路（Sentiero Azzurro）经典的第一程：全长约3.3公里，穿行于葡萄园与悬崖海景之间，攀爬起伏约需1.5至2小时。步道全天24小时开放，没有关闭闸门，但工作日最好选清晨或下午4点以后前往，才能避开人潮。旅游旺季通常需要持有步道通行证（五渔村卡，Cinque Terre Card），出发前请务必查看最新规定。

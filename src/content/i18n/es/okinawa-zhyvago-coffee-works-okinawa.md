@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-zhyvago-coffee-works-okinawa
-srcHash: '7d48ee7831cd'
+srcHash: '78a359d47ac1'
 title: 'Zhyvago Coffee Works: Guía de viaje de Okinawa'
 description: Zhyvago Coffee Works Okinawa es una cafetería de especialidad de estilo industrial en Mihama, Chatan, justo al lado de American Village, con una terraza frente a la playa.
 quickAnswer: Zhyvago Coffee Works Okinawa es una cafetería de especialidad de estilo industrial-chic en Mihama, Chatan, justo al lado de American Village, con una terraza frente al mar y una calificación de 4.6 basada en más de 1,000 reseñas. Ve por la tarde-noche a tomar café espresso y repostería para disfrutar del atardecer sobre el mar de China Oriental, y cuenta con un rango de precios medio (¥¥). Combínalo con un paseo por las tiendas de American Village y el paseo marítimo de Sunset Beach.

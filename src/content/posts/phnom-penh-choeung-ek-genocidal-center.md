@@ -68,9 +68,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-Choeung Ek sits about 15km southwest of central Phnom Penh, past rice paddies and roadside noodle stalls that feel worlds away from what happened here. This was one of more than 300 killing fields across Cambodia, used by the Khmer Rouge between 1975 and 1979. Today it's a memorial, not a museum in the traditional sense — and the quiet is the point.
+Choeung Ek sits about 15km southwest of central Phnom Penh, past rice paddies and roadside noodle stalls that feel worlds away from what happened here. This was one of more than 300 killing fields across Cambodia, used by the Khmer Rouge between 1975 and 1979. Today it's a memorial, not a museum in the traditional sense, and the quiet is the point.
 
-You'll notice it before you see anything: birdsong, the crunch of gravel, no traffic noise. The dirt paths wind between depressions in the ground, sunken pits where mass graves were exhumed in the 1980s. Small signs mark what was found at each one — some list the number of bodies, others simply note "mass grave."
+You'll notice it before you see anything: birdsong, the crunch of gravel, no traffic noise. The dirt paths wind between depressions in the ground, sunken pits where mass graves were exhumed in the 1980s. Small signs mark what was found at each one, some list the number of bodies, others simply note "mass grave."
 
 ## Getting there and what to expect
 
@@ -86,13 +86,13 @@ At the center of the grounds stands the Buddhist memorial stupa, its glass walls
 
 Nearby, a small museum building traces the rise of the Khmer Rouge and the mechanics of what happened at Choeung Ek specifically. A documentary film plays on a loop inside, useful if you want context before or after walking the grounds.
 
-Look for the "killing tree," where loudspeakers once played music to muffle sound. It's marked simply, without embellishment — the plainness of the signage throughout the site is deliberate and, somehow, more affecting than dramatization would be.
+Look for the "killing tree," where loudspeakers once played music to muffle sound. It's marked simply, without embellishment, the plainness of the signage throughout the site is deliberate and, somehow, more affecting than dramatization would be.
 
 ## When to go
 
 The grounds open at 7:30am and close at 5:30pm every day of the week. Crowd data shows the calmest window is 8am to 9am, whether you visit on a weekday or weekend.
 
-Weekend mornings fill up fast after that — the busiest stretch runs from 11am to 1pm, when several tour groups tend to overlap on the paths. If you can only go on a Saturday or Sunday, arrive right at opening.
+Weekend mornings fill up fast after that. The busiest stretch runs from 11am to 1pm, when several tour groups tend to overlap on the paths. If you can only go on a Saturday or Sunday, arrive right at opening.
 
 Midday sun here is intense with little shade, so an early visit is also simply more comfortable. Bring water and a hat regardless of when you go.
 
@@ -100,10 +100,10 @@ Midday sun here is intense with little shade, so an early visit is also simply m
 
 This isn't a site Cambodians visit casually, and it draws a well-known, steady stream of international travelers rather than being any kind of hidden find. Treat the behavioral norms seriously.
 
-- Dress modestly — shoulders and knees covered, as you would for a temple.
+- Dress modestly, shoulders and knees covered, as you would for a temple.
 - Keep voices low throughout the grounds; this is an active memorial and burial site, not a photo backdrop.
 - Photography is generally permitted outdoors but avoid posing at the stupa or pits.
-- Pay the entrance fee and any audio-guide charge in US dollars or Cambodian riel — cash is standard here, and card facilities are limited.
+- Pay the entrance fee and any audio-guide charge in US dollars or Cambodian riel, cash is standard here, and card facilities are limited.
 - Skip the group-tour scrum by arriving at opening; most large groups arrive mid-morning.
 
 The most common visitor mistake is treating this as a quick add-on stop, snapping a few photos, and leaving within twenty minutes. Give the audio tour its full length and walk the entire loop, including the areas near the lake at the back of the property, which most rushed visitors skip entirely.
@@ -112,6 +112,6 @@ Combine your visit with Tuol Sleng in the same morning if you want the fuller hi
 
 ## Why it matters
 
-Choeung Ek isn't a comfortable stop, and it isn't meant to be. It stands as one of Cambodia's most important sites for understanding the Khmer Rouge period, and the consistently high visitor ratings reflect how effectively — and respectfully — the memorial communicates that history to outsiders.
+Choeung Ek isn't a comfortable stop, and it isn't meant to be. It stands as one of Cambodia's most important sites for understanding the Khmer Rouge period, and the consistently high visitor ratings reflect how effectively, and respectfully, the memorial communicates that history to outsiders.
 
 Go with time to spare, go early, and go with the intention to listen rather than simply look.

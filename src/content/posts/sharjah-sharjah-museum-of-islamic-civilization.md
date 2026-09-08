@@ -58,7 +58,7 @@ draft: false
 
 ## Why go
 
-You spot the gold dome before you spot the building itself, glinting above the Corniche waterfront like a beacon pointed at the creek. This is the Sharjah Museum of Islamic Civilization, and that dome isn't decoration — it's a compass, oriented to echo the mihrab niches inside.
+You spot the gold dome before you spot the building itself, glinting above the Corniche waterfront like a beacon pointed at the creek. This is the Sharjah Museum of Islamic Civilization, and that dome isn't decoration. It's a compass, oriented to echo the mihrab niches inside.
 
 Housed in a former souk building, the museum packs centuries of Islamic scholarship, art and faith into a manageable, walkable space. It's not overwhelming like some national museums. You can actually see everything in one visit without your feet giving out.
 
@@ -72,15 +72,15 @@ If you're staying near Dubai's Deira or Bur Dubai districts, buses run to Sharja
 
 The layout unfolds over two floors, organized thematically rather than chronologically, which makes wandering feel natural rather than forced.
 
-- **Ground floor (Abu Bakr Gallery):** Islamic faith and culture — Quranic manuscripts, calligraphy, and a striking scale model of the Kaaba
-- **Upper floor (Ibn Al Haytham Gallery):** science and innovation — astrolabes, celestial globes, early surgical tools, and navigational instruments that shaped trade routes
+- **Ground floor (Abu Bakr Gallery):** Islamic faith and culture, Quranic manuscripts, calligraphy, and a striking scale model of the Kaaba
+- **Upper floor (Ibn Al Haytham Gallery):** science and innovation, astrolabes, celestial globes, early surgical tools, and navigational instruments that shaped trade routes
 - **Central dome hall:** the museum's visual centerpiece, painted with gold zodiac motifs directly beneath the exterior dome
 
-Look for the antique astrolabe collection especially — it's one of the more complete groupings on public display in the Gulf, and the accompanying panels explain how these instruments guided both prayer times and sea navigation.
+Look for the antique astrolabe collection especially. It's one of the more complete groupings on public display in the Gulf, and the accompanying panels explain how these instruments guided both prayer times and sea navigation.
 
 ## When to go
 
-The museum runs 8am to 8pm most days, giving you a wide window whether you're an early riser or prefer an evening visit after the day's heat breaks. Friday is the exception — doors don't open until 4pm, so don't plan a Friday morning trip here.
+The museum runs 8am to 8pm most days, giving you a wide window whether you're an early riser or prefer an evening visit after the day's heat breaks. Friday is the exception, doors don't open until 4pm, so don't plan a Friday morning trip here.
 
 Given its strong popularity and steady stream of tour groups, weekday mornings shortly after opening tend to be calmest. Midday and early afternoon on weekends draw the heaviest crowds, particularly when cruise groups or school trips are scheduled.
 
@@ -88,14 +88,14 @@ Evening visits have their own appeal: the dome's interior lighting shifts as nat
 
 ## How to visit like a local
 
-Buy tickets at the counter on arrival — this isn't a venue that requires advance booking, and queues rarely build up outside peak weekend afternoons. Payment is accepted by card or cash, and admission is modest by international museum standards, though you should confirm the current price at the door since it can shift.
+Buy tickets at the counter on arrival. This isn't a venue that requires advance booking, and queues rarely build up outside peak weekend afternoons. Payment is accepted by card or cash, and admission is modest by international museum standards, though you should confirm the current price at the door since it can shift.
 
-Dress modestly, as you would for any religious or cultural site in the UAE — shoulders and knees covered is the safe default, and it's respectful given the museum's subject matter.
+Dress modestly, as you would for any religious or cultural site in the UAE, shoulders and knees covered is the safe default, and it's respectful given the museum's subject matter.
 
 Because this is a well-visited, well-reviewed institution rather than a hidden find, your best strategy for a quieter experience is timing, not secrecy. Arrive close to the 8am opening on a Sunday through Thursday, before tour buses start dropping groups from Dubai hotels.
 
-A common visitor mistake: rushing straight to the ground floor and skipping the upper science gallery, assuming it's secondary. It isn't — the astrolabe and globe collection upstairs is arguably the museum's strongest section, and many visitors regret giving it only a few minutes.
+A common visitor mistake: rushing straight to the ground floor and skipping the upper science gallery, assuming it's secondary. It isn't. The astrolabe and globe collection upstairs is arguably the museum's strongest section, and many visitors regret giving it only a few minutes.
 
-Free audio guides or included docent-led explanations are sometimes available; ask at the entrance desk when you arrive, as offerings can vary by season. Photography is generally permitted without flash, so bring a phone charged for the dome ceiling shot — it's the image everyone leaves with.
+Free audio guides or included docent-led explanations are sometimes available; ask at the entrance desk when you arrive, as offerings can vary by season. Photography is generally permitted without flash, so bring a phone charged for the dome ceiling shot. It's the image everyone leaves with.
 
 Pair your visit with a walk along the Corniche and a stop at the Blue Souk just across the creek, both within easy walking distance and a natural way to bookend an hour or two inside the museum.

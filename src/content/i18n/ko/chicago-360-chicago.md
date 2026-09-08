@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chicago-360-chicago
-srcHash: 'd86154e84926'
+srcHash: 'c412479fb909'
 title: '360 CHICAGO: 여행 가이드'
 description: 360 CHICAGO는 875 N Michigan Ave에 위치한 존 핸콕 빌딩(John Hancock building) 94층에 자리하고 있으며, 매일 오전 9시부터 오후 11시까지 운영됩니다.
 quickAnswer: 360 CHICAGO는 875 N Michigan Ave에 위치한 존 핸콕 빌딩(John Hancock building) 94층에 자리하고 있으며, 매일 오전 9시부터 오후 11시까지 운영됩니다. 이곳은 그야말로 인기 명소이지 숨겨진 비밀 장소가 아니므로, 주말이라면 오전 9시 정각(가장 한산한 시간대는 9시~11시)에 방문하거나 평일 아무 때나 가는 것이 좋습니다. 관람 시간은 약 1시간 정도로 잡되, 미시간 애비뉴(Michigan Avenue) 위로 튀어나온 유리 전망대인 TILT를 위해 줄을 선다면 더 여유를 두세요.

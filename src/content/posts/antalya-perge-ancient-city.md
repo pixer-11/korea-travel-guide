@@ -87,7 +87,7 @@ updatedDate: '2026-08-23'
 
 Most visitors see Antalya's Kaleiçi old town and stop there. That's a mistake.
 
-Perge is one of the best-preserved Greco-Roman cities in Turkey, and unlike Ephesus it rarely feels crowded to the point of frustration. You walk through a Hellenistic gate, down a 300-metre colonnaded avenue split by a water channel, and past a 12,000-seat stadium — one of the most intact in the ancient world.
+Perge is one of the best-preserved Greco-Roman cities in Turkey, and unlike Ephesus it rarely feels crowded to the point of frustration. You walk through a Hellenistic gate, down a 300-metre colonnaded avenue split by a water channel, and past a 12,000-seat stadium, one of the most intact in the ancient world.
 
 ## Getting there from Antalya
 
@@ -103,9 +103,9 @@ There's a parking lot right at the entrance, and the ticket booth is well signed
 
 You enter through the horseshoe-shaped Hellenistic towers, some of the oldest visible structures on site, dating back to the 3rd century BCE. From there the Roman city unfolds in layers.
 
-The colonnaded main street is the centerpiece — broken columns, carved capitals, and shop fronts line both sides, with the old water channel still running down the middle like a spine. Look for the bath complex near the entrance, its brick arches and marble floor slabs still legible as separate hot, warm, and cold rooms.
+The colonnaded main street is the centerpiece, broken columns, carved capitals, and shop fronts line both sides, with the old water channel still running down the middle like a spine. Look for the bath complex near the entrance, its brick arches and marble floor slabs still legible as separate hot, warm, and cold rooms.
 
-Climb the low hill above the theater area (the theater itself is often fenced for restoration, so check on arrival) for a view over the agora and out toward the acropolis mound, the original settlement site. The stadium, just outside the main ticketed area, is worth the extra walk — you can still make out the vaulted shops that once ran beneath the seating.
+Climb the low hill above the theater area (the theater itself is often fenced for restoration, so check on arrival) for a view over the agora and out toward the acropolis mound, the original settlement site. The stadium, just outside the main ticketed area, is worth the extra walk. You can still make out the vaulted shops that once ran beneath the seating.
 
 Give yourself two to three hours minimum. There's little shade anywhere, so plan around that rather than the map distances.
 
@@ -121,13 +121,13 @@ Spring (April–May) and autumn (October) bring milder temperatures and are gene
 
 Perge is firmly on the tour-bus circuit, so timing your visit matters more than almost anything else here.
 
-- **Avoid** mid-morning to early afternoon, when buses arrive from Antalya hotels — it's the site's busiest stretch.
+- **Avoid** mid-morning to early afternoon, when buses arrive from Antalya hotels. It's the site's busiest stretch.
 - **Buy tickets** at the on-site booth or with Turkey's Müze Kart if you hold one; card and cash are both generally accepted, but confirm current pricing before you go since it changes yearly.
-- **Bring water and a hat** — there are no cafés or shaded rest areas inside the ruins themselves.
-- **Wear closed shoes with grip**, not sandals — the ancient marble paving is uneven and genuinely slippery, especially near the bath complex.
+- **Bring water and a hat**. There are no cafés or shaded rest areas inside the ruins themselves.
+- **Wear closed shoes with grip**, not sandals. The ancient marble paving is uneven and genuinely slippery, especially near the bath complex.
 - **Skip the audio guide app** in favor of the small information panels scattered through the site, which give solid context in English and Turkish without extra cost.
 
-The mistake most first-timers make is treating Perge as a quick photo stop on the way to Aspendos. It rewards a slower pace — sit for a few minutes on the stadium's stone tiers, or trace the water channel's full length down the colonnaded street, and the scale of the place actually lands.
+The mistake most first-timers make is treating Perge as a quick photo stop on the way to Aspendos. It rewards a slower pace, sit for a few minutes on the stadium's stone tiers, or trace the water channel's full length down the colonnaded street, and the scale of the place actually lands.
 
 ## Nearby, if you have the day
 

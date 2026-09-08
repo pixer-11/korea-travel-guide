@@ -74,25 +74,25 @@ Budget an hour just for the abbey interior, more if you want to walk the full ra
 
 ## When to go
 
-The abbey keeps consistent hours all week, 9:30am to 6:30pm, with last entry usually around an hour before closing — confirm current times before you set out.
+The abbey keeps consistent hours all week, 9:30am to 6:30pm, with last entry usually around an hour before closing, confirm current times before you set out.
 
 Because this is one of France's most visited landmarks, there's no truly quiet season, but early morning and late afternoon thin the crowds noticeably. Midday, especially in summer, the Grande Rue can feel shoulder to shoulder.
 
-Tides matter as much as opening hours. The highest tides — grandes marées — happen around new and full moons, when water can rush across the bay faster than a person can walk. Check a tide table before you go; it shapes the whole visit.
+Tides matter as much as opening hours. The highest tides, grandes marées, happen around new and full moons, when water can rush across the bay faster than a person can walk. Check a tide table before you go; it shapes the whole visit.
 
 ## How to visit like a local
 
-Arrive right at 9:30am opening or after 4pm — both windows cut through the worst of the crush noticeably.
+Arrive right at 9:30am opening or after 4pm, both windows cut through the worst of the crush noticeably.
 
 Because this is a working place of worship as well as a monument, keep voices low inside the abbey church and cloisters, and dress modestly if you plan to enter during a service.
 
 - Buy abbey tickets online in advance where possible to skip the ticket-counter queue
-- Wear shoes with grip — the Grande Rue's cobbles are steep and can be slick with sea damp
+- Wear shoes with grip. The Grande Rue's cobbles are steep and can be slick with sea damp
 - Card payment is standard in shops and cafés; small vendors may prefer cash
-- Don't attempt to walk out onto the sand alone — tides and quicksand here are genuinely dangerous; go with a licensed guide
+- Don't attempt to walk out onto the sand alone, tides and quicksand here are genuinely dangerous; go with a licensed guide
 - Skip the first crêperie you see on the Grande Rue; better, calmer options sit a little further up or just off the main strip
 
-The single biggest mistake visitors make is treating this as a quick photo stop and missing the tide entirely. Time your visit around a rising tide if you can — watching the bay fill in real time is the thing people remember most.
+The single biggest mistake visitors make is treating this as a quick photo stop and missing the tide entirely. Time your visit around a rising tide if you can, watching the bay fill in real time is the thing people remember most.
 
 Stay past sunset if your schedule allows. Once the day-trip buses pull out, the lit-up silhouette against a darkening bay is a different, far calmer experience.
 

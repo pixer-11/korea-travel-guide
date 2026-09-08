@@ -80,7 +80,7 @@ Highlights to look for:
 - Upstairs bedrooms with original furniture and black-and-white family photographs
 - A small gallery of documents tracing Tjong A Fie's rise from penniless immigrant to plantation and banking magnate
 
-Notice the mix of dragon motifs and European stained glass in the same doorway — a quiet clue to how cosmopolitan this corner of Sumatra once was.
+Notice the mix of dragon motifs and European stained glass in the same doorway, a quiet clue to how cosmopolitan this corner of Sumatra once was.
 
 ## Getting there
 
@@ -101,9 +101,9 @@ Plan for 45 minutes to an hour, a little longer if you linger over the document 
 This is a well-known stop on Medan's heritage trail, not a hidden find, so plan around the crowds rather than expecting solitude.
 
 - **Timing:** Arrive right at 9am on a weekday for the emptiest rooms and best light in the courtyard.
-- **Guides:** Entry typically includes a short guided walkthrough — listen closely, since much of the family history isn't posted on signage.
+- **Guides:** Entry typically includes a short guided walkthrough, listen closely, since much of the family history isn't posted on signage.
 - **Payment:** Bring small cash for the entrance donation/ticket and any souvenirs; card acceptance is inconsistent at small heritage sites like this.
-- **Dress:** Wear something you can slip shoes off in if asked near the altar room, and keep voices low there — it's still an active family shrine.
+- **Dress:** Wear something you can slip shoes off in if asked near the altar room, and keep voices low there. It's still an active family shrine.
 - **Etiquette:** Photography is generally fine in public rooms, but ask before photographing the altar or any staff/guides directly.
 - **Common mistake:** Rushing through in 15 minutes. The value here is in the stories your guide tells, not just the architecture, so slow down and ask questions.
 - **Pair it with:** A walk down Jalan Ahmad Yani to see Kesawan's other colonial-era shophouses, or a stop at nearby Merdeka Walk for food afterward.

@@ -73,7 +73,7 @@ updatedDate: '2026-08-16'
 
 ## Why go
 
-You don't need a reason beyond the building itself. Finished in 1888 out of pink Texas granite, it's taller than the U.S. Capitol in Washington — a fact Texans will mention before you can.
+You don't need a reason beyond the building itself. Finished in 1888 out of pink Texas granite, it's taller than the U.S. Capitol in Washington. A fact Texans will mention before you can.
 
 Walk up Congress Avenue and the dome catches the light first, a copper-green cap on pale pink stone. Inside, the rotunda opens straight up through the floors, ringed by portraits of Texas governors, footsteps echoing off marble.
 
@@ -89,7 +89,7 @@ If you're staying near 6th Street or the Warehouse District, it's a flat 15-20 m
 
 ## What to see inside
 
-Start in the rotunda and look straight up into the dome — the inlaid star pattern in the floor lines up with the one painted far above it.
+Start in the rotunda and look straight up into the dome, the inlaid star pattern in the floor lines up with the one painted far above it.
 
 From there, head to the House and Senate chambers on the second and third floors. Both are open to visitors when the legislature isn't in session, with wood paneling and portraits that feel more like a courtroom than an office building.
 
@@ -99,13 +99,13 @@ Don't skip the basement extension, a 1990s addition built entirely underground s
 
 The 22-acre grounds are as worth your time as the interior.
 
-Live oaks shade a network of paths dotted with monuments — to Texas Rangers, Confederate soldiers, firefighters, and the USS Texas among others. On a warm afternoon, locals cut through here on lunch breaks, and the lawn out front is a popular spot for photos with the dome as backdrop.
+Live oaks shade a network of paths dotted with monuments, to Texas Rangers, Confederate soldiers, firefighters, and the USS Texas among others. On a warm afternoon, locals cut through here on lunch breaks, and the lawn out front is a popular spot for photos with the dome as backdrop.
 
 The Capitol also anchors the south end of the University of Texas campus, so it's easy to pair a visit with a walk up Congress or over to the UT Tower a mile north.
 
 ## When to go
 
-The building is open every day: 7am to 8pm Monday through Friday, and 9am to 8pm on weekends. Free guided tours typically run on the half hour during the day — check the visitor desk when you arrive for the current schedule.
+The building is open every day: 7am to 8pm Monday through Friday, and 9am to 8pm on weekends. Free guided tours typically run on the half hour during the day. Check the visitor desk when you arrive for the current schedule.
 
 Because it's one of Austin's most-visited attractions, midday and weekend afternoons bring the thickest crowds, especially when school groups are touring. Mornings right at opening, particularly on weekdays, are noticeably calmer.
 
@@ -115,10 +115,10 @@ If the Texas Legislature is in session (odd-numbered years, January to May), exp
 
 Treat it like the working government building it is, not just a monument.
 
-- Security screening at the entrance is similar to an airport checkpoint — bags get X-rayed, so arrive a few minutes early
+- Security screening at the entrance is similar to an airport checkpoint, bags get X-rayed, so arrive a few minutes early
 - Entry and tours are free; there's no ticket to buy or line to pre-book
 - Weekday mornings right after opening are the quietest window, before tour buses and lunchtime crowds arrive
-- Dress is casual, but this is still an active office building — keep voices down near the chambers when legislators or staff are working
+- Dress is casual, but this is still an active office building. Keep voices down near the chambers when legislators or staff are working
 - Skip the gift shop lines by browsing the basement shop instead of the smaller one near the entrance
 
 The single biggest mistake visitors make is treating it as a quick photo-op from the front lawn and never going inside. The exterior is handsome, but the rotunda and chamber galleries are where the building actually earns its reputation. Budget 45 minutes to an hour if you want to see the interior properly, longer if you're also walking the grounds.

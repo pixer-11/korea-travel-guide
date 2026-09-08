@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nice-place-massena
-srcHash: '93bb5a6dd599'
+srcHash: 'ec89d6bbe2f3'
 title: 马塞纳广场:尼斯旅行指南(4.6★)
 description: 马塞纳广场(Place Masséna)是尼斯赭红色的宏伟广场，连接老城区与帕亚松步道(Promenade du Paillasson)及海滨。4.6★(11,939条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 马塞纳广场是尼斯赭红色的宏伟广场，连接老城区与帕亚松步道(Promenade du Paillasson)及海滨。它全天开放、全年无休，但如果想独享这里，建议早上7点到9点前来——周末到了下午1点，人潮就会一直持续到晚上11点。参观广场本身预留20-30分钟即可，若赶上活动则需更久。

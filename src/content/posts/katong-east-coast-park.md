@@ -99,7 +99,7 @@ You come here for the openness the rest of the city rarely offers. Container shi
 
 ## Getting there
 
-The park sits just south of Katong and Marine Parade, easiest reached by bike, taxi, or bus rather than MRT — no line runs directly along the coast here.
+The park sits just south of Katong and Marine Parade, easiest reached by bike, taxi, or bus rather than MRT, no line runs directly along the coast here.
 
 From Katong, it's a short ride down Marine Parade Road or through the East Coast Park Service Road. Many visitors rent bikes at Bedok Jetty or the East Coast Recreation Centre and pedal a stretch instead of walking it.
 
@@ -114,7 +114,7 @@ The park is really several activities strung along one shoreline. The white-sand
 - Skate park: a concrete bowl and street course near Area C draws local skaters most evenings
 - Barbecue pits: rentable in advance, a weekend ritual for Singaporean families and groups
 
-Cyclists and joggers share a separate track from pedestrians — stay in your lane, literally, since traffic moves briskly at dusk.
+Cyclists and joggers share a separate track from pedestrians, stay in your lane, literally, since traffic moves briskly at dusk.
 
 ## Where to eat
 
@@ -122,13 +122,13 @@ Food is half the reason people linger. East Coast Lagoon Food Village, an open-a
 
 For something sit-down, the park is famous for its seafood restaurants specializing in chilli crab and black pepper crab, a legacy of the old East Coast seafood strip that predates the park's current layout. Expect mid-range to slightly pricier bills if you order crab by weight.
 
-Bring cash or a card for hawker stalls — most now take PayNow or card, but small stalls can still be cash-only.
+Bring cash or a card for hawker stalls. Most now take PayNow or card, but small stalls can still be cash-only.
 
 ## When to go
 
 The park never closes; it's open 24 hours, every day. That said, "open" doesn't mean equally pleasant at all hours.
 
-Weekends between 12pm and 11pm are by far the busiest stretch — barbecue smoke thickens, bike paths clog, and parking fills up. If you want space to breathe, come on a weekday morning before 10am, when the sand is nearly empty and the light is soft and low over the water.
+Weekends between 12pm and 11pm are by far the busiest stretch, barbecue smoke thickens, bike paths clog, and parking fills up. If you want space to breathe, come on a weekday morning before 10am, when the sand is nearly empty and the light is soft and low over the water.
 
 Evenings are the local sweet spot generally: cooler air, sunset over the ships, and the food villages lighting up for dinner.
 
@@ -136,10 +136,10 @@ Evenings are the local sweet spot generally: cooler air, sunset over the ships, 
 
 East Coast Park is heavily used by Singaporeans of all ages, so timing and etiquette matter more than any single sight.
 
-- Avoid weekend afternoons and evenings (roughly 12pm–11pm) if you dislike crowds — that's the peak window
+- Avoid weekend afternoons and evenings (roughly 12pm–11pm) if you dislike crowds. That's the peak window
 - Rent a bike by the hour rather than committing to a full-day rate unless you plan to ride the whole stretch
 - Book a barbecue pit ahead if you want one on a weekend; walk-ups often find them all taken
-- Keep to the correct lane on the cycling path — locals get territorial about pedestrians drifting into bike lanes
+- Keep to the correct lane on the cycling path, locals get territorial about pedestrians drifting into bike lanes
 - Bring your own mat or chair; the sand has little natural shade, and umbrella rentals are limited
 
-The biggest mistake visitors make is treating this as a quick photo stop. It's built for lingering — a few hours minimum, ideally with a bike and an appetite.
+The biggest mistake visitors make is treating this as a quick photo stop. It's built for lingering, a few hours minimum, ideally with a bike and an appetite.

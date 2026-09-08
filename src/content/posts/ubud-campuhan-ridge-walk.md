@@ -81,7 +81,7 @@ draft: false
 
 You come here for one thing: the ridge itself, a spine of grass-covered hills that drops away on both sides into ravines of elephant grass and jungle.
 
-The path is paved but narrow, cutting straight along the top of the ridge with the Wos River hidden somewhere below in the green. There are no ticket booths, no gates — just a trail that locals and travelers have been walking for years, now firmly on every Ubud itinerary.
+The path is paved but narrow, cutting straight along the top of the ridge with the Wos River hidden somewhere below in the green. There are no ticket booths, no gates, just a trail that locals and travelers have been walking for years, now firmly on every Ubud itinerary.
 
 ## Getting there
 
@@ -103,7 +103,7 @@ The trail is open 24 hours every day, though walking it after dark isn't recomme
 
 ## When to go
 
-This is a well-visited spot — one of the most-reviewed walking trails in Bali — so timing matters more than most places in Ubud. Crowd data shows the calmest window is 7am to 8am on weekdays, before tour groups and the heat arrive.
+This is a well-visited spot, one of the most-reviewed walking trails in Bali, so timing matters more than most places in Ubud. Crowd data shows the calmest window is 7am to 8am on weekdays, before tour groups and the heat arrive.
 
 Weekends are a different story: expect steady foot traffic from 8am straight through to 8pm. If you're set on a weekend visit, arrive right at sunrise or wait until close to dusk when the light turns gold over the ridge.
 
@@ -111,10 +111,10 @@ Midday heat is a real factor too. There's almost no shade along most of the trai
 
 ## How to visit like a local
 
-Aim for that 7–8am weekday slot if you can swing it — it's the one stretch when the ridge feels open and quiet rather than shoulder-to-shoulper with fellow walkers. Wear proper shoes; the paving gets uneven and slightly slick after rain.
+Aim for that 7–8am weekday slot if you can swing it. It's the one stretch when the ridge feels open and quiet rather than shoulder-to-shoulper with fellow walkers. Wear proper shoes; the paving gets uneven and slightly slick after rain.
 
-There's no entry fee and no ticket booth, so there's nothing to pay at the start beyond whatever you spend at the warungs or Karsa Kafe along the way — cash is still the norm at these small stalls. Don't expect much shade or many toilets en route, so go before or after eating rather than mid-walk.
+There's no entry fee and no ticket booth, so there's nothing to pay at the start beyond whatever you spend at the warungs or Karsa Kafe along the way, cash is still the norm at these small stalls. Don't expect much shade or many toilets en route, so go before or after eating rather than mid-walk.
 
-The biggest mistake visitors make is treating this as a quick 20-minute photo stop rather than budgeting the full hour-plus it actually takes to walk end to end comfortably. Given how popular the trail has become, don't expect solitude or an undiscovered feel — it's one of Ubud's signature walks, not a secret.
+The biggest mistake visitors make is treating this as a quick 20-minute photo stop rather than budgeting the full hour-plus it actually takes to walk end to end comfortably. Given how popular the trail has become, don't expect solitude or an undiscovered feel. It's one of Ubud's signature walks, not a secret.
 
 Bring water, start early, and treat the return leg as part of the experience rather than rushing back the way you came. Many walkers continue past Karsa Kafe onto the quieter village roads beyond before looping back, which stretches the walk but thins out the crowd considerably.

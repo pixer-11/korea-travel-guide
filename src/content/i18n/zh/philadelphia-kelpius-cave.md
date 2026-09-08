@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: philadelphia-kelpius-cave
-srcHash: 'aa2d95ae95cf'
+srcHash: '253a2ce57984'
 title: 凯尔皮乌斯洞穴：费城旅行指南（4.5★）
 description: 凯尔皮乌斯洞穴（Kelpius Cave）坐落于费城费尔芒特公园（Fairmount Park）的维萨希肯山谷公园（Wissahickon Valley Park）区域内，藏身于隐士巷（Hermit Lane）附近、靠近维萨希肯溪（Wissahickon Creek）的僻静处。4.5★（219条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 凯尔皮乌斯洞穴坐落于费城费尔芒特公园的维萨希肯山谷公园区域内，藏身于隐士巷附近、靠近维萨希肯溪的僻静处。这里免费开放，每天上午9点到晚上8点，工作日早晨人最少，之后徒步者和遛狗的人会渐渐占满步道。如果打算顺路沿溪边走一小段，建议预留45分钟到1小时。

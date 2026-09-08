@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kampong-cham-nokor-bachey-temple
-srcHash: 'e6f62c6809e2'
+srcHash: 'dd72a72ea7d0'
 title: 诺格贝奇寺（Nokor BaChey）：磅湛旅行指南（4.4★）
 description: 诺格贝奇寺（Nokor BaChey，又称瓦特诺格寺 Wat Nokor）坐落在磅湛（Kampong Cham）城郊，是一座建于11世纪的砂岩古庙，如今寺墙之内还嵌着一座仍在使用的佛教寺院。4.4★（595条评价）——看看游客怎么说、开放时间和实用贴士。
 quickAnswer: 诺格贝奇寺（Nokor BaChey，又称瓦特诺格寺 Wat Nokor）位于磅湛城郊，是一座11世纪的砂岩古庙，古老的寺墙内还嵌着一座仍在正常运作的佛教寺院。这里每天6:30am至8:30pm开放，工作日中午12pm到1pm人最少，游览大约需要45到60分钟。即便按柬埔寨的标准来看，这里也算是相当小众的景点，从市中心坐嘟嘟车很快就能到。

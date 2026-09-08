@@ -90,7 +90,7 @@ This is a working pepper farm, not a museum recreation. Kampot pepper carries a 
 
 Kampot pepper has a reputation among chefs worldwide for its citrusy heat and complex aroma. The region's mix of sandy soil, sea breeze and monsoon rain gives the vines a flavor you won't find grown elsewhere.
 
-At La Plantation, you walk right up to the vines and see the difference between red, black, white and green peppercorns — all from the same plant, just harvested and processed differently. A guide (or a well-marked self-guided trail) explains the drying process, from sun-dried clusters to the sorting tables.
+At La Plantation, you walk right up to the vines and see the difference between red, black, white and green peppercorns, all from the same plant, just harvested and processed differently. A guide (or a well-marked self-guided trail) explains the drying process, from sun-dried clusters to the sorting tables.
 
 ## What a visit actually looks like
 
@@ -106,7 +106,7 @@ Along the way there are stops to rub dried peppercorns between your fingers and 
 
 ## Getting there from Kampot town
 
-La Plantation sits in Bosjheng village, a short tuk-tuk or scooter ride from central Kampot — figure on 20 to 30 minutes depending on where you start. Most guesthouses in town can arrange a tuk-tuk driver for a half-day loop that often includes a salt field or Phnom Chhngok's cave temple nearby.
+La Plantation sits in Bosjheng village, a short tuk-tuk or scooter ride from central Kampot, figure on 20 to 30 minutes depending on where you start. Most guesthouses in town can arrange a tuk-tuk driver for a half-day loop that often includes a salt field or Phnom Chhngok's cave temple nearby.
 
 If you're driving yourself, the roads are unpaved for the final stretch, so a scooter with good tires or a car with decent clearance is worth requesting. There's no public bus route directly to the farm, so self-drive or hired transport is the norm.
 
@@ -120,10 +120,10 @@ Dry season, roughly November through April, gives you clearer skies and firmer p
 
 ## How to visit like a local
 
-La Plantation draws a steady mix of Cambodian day-trippers and international visitors, so this isn't an undiscovered spot — plan around the crowds rather than expecting solitude. Weekday mornings before noon are your best shot at a quiet walk through the vines.
+La Plantation draws a steady mix of Cambodian day-trippers and international visitors, so this isn't an undiscovered spot. Plan around the crowds rather than expecting solitude. Weekday mornings before noon are your best shot at a quiet walk through the vines.
 
 Cash in Cambodian riel or US dollars is the safest bet for the shop and restaurant, since card machines in rural Kampot can be unreliable. Tipping isn't obligatory but rounding up for guides or waitstaff is appreciated and common practice here.
 
 The mistake most visitors make is treating this as a quick photo stop and skipping the restaurant. The kitchen uses pepper harvested that same week, and dishes here taste noticeably different from what you'll find in town.
 
-If you want a short talk on the harvest and drying process, ask at the entrance — informal guided walks are often available even if you arrive without booking ahead. Wear closed shoes; the paths are uneven in spots and the sun is direct with little shade at midday.
+If you want a short talk on the harvest and drying process, ask at the entrance, informal guided walks are often available even if you arrive without booking ahead. Wear closed shoes; the paths are uneven in spots and the sun is direct with little shade at midday.

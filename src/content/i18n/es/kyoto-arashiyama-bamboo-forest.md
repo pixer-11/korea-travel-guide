@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-arashiyama-bamboo-forest
-srcHash: '2f4aa6be830c'
+srcHash: 'f7a046057175'
 title: 'Bosque de Bambú de Arashiyama: Guía de Viaje de Kioto'
 description: El Bosque de Bambú de Arashiyama (Arashiyama Bamboo Grove) es un sendero al aire libre y gratuito entre bambúes imponentes en el barrio de Ukyo, en el oeste de Kioto — llega antes de las 8 de la mañana para evitar las multitudes, dedica de 15 a 20 minutos a recorrer el sendero principal y luego amplía tu visita al Templo Tenryu-ji y al Puente Togetsukyo, muy cerca de allí.
 quickAnswer: El Bosque de Bambú de Arashiyama (Arashiyama Bamboo Grove) es un sendero al aire libre y gratuito entre bambúes imponentes en el barrio de Ukyo, en el oeste de Kioto — llega antes de las 8 de la mañana para evitar las multitudes, dedica de 15 a 20 minutos a recorrer el sendero principal y luego amplía tu visita al Templo Tenryu-ji y al Puente Togetsukyo, muy cerca de allí. Es más atmosférico al amanecer o en un día ligeramente nublado, y combina de forma natural con una mañana en Arashiyama antes de que la zona se llene de grupos turísticos a media mañana.

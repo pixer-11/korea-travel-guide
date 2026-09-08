@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: miami-joe-s-stone-crab
-srcHash: 'f8dfec06cefa'
+srcHash: '61089090cf98'
 title: '조스 스톤 크랍(Joe''s Stone Crab): 마이애미 맛집 탐방 (4.5★)'
 description: 마이애미 비치(Miami Beach) 사우스 오브 피프스(South of Fifth) 지역, 11 Washington Ave에 위치한 조스 스톤 크랍은 스톤 크랍 시즌(대략 10월 중순부터 5월 중순까지)이면 문 밖까지 줄이 이어지는 100년 역사의 명소입니다. 4.5★ (11,615개 리뷰) — 방문객들의 후기, 영업시간, 그리고 팁을 소개합니다.
 quickAnswer: 마이애미 비치(Miami Beach) 사우스 오브 피프스(South of Fifth) 지역, 11 Washington Ave에 위치한 조스 스톤 크랍(Joe's Stone Crab)은 스톤 크랍 시즌(대략 10월 중순부터 5월 중순까지)이면 문 밖까지 줄이 이어지는 100년 역사의 명소입니다. 월요일과 화요일은 휴무이며, 수요일과 목요일은 저녁 5시부터 10시까지만 주방을 운영하고, 금요일부터 일요일까지는 점심 영업(오전 11시 30분~오후 2시 30분)이 추가됩니다 — 주말은 정오부터 마감 시간까지 하루 종일 붐빌 것으로 예상되니, 언제 방문하든 대기할 각오를 하는 것이 좋습니다.

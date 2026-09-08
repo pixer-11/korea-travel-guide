@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-sea-life-bangkok-ocean-world
-srcHash: '012378e9c35b'
+srcHash: '3709cee21679'
 title: 'SEA LIFE Bangkok Ocean World: Guía de viaje'
 description: SEA LIFE Bangkok Ocean World se encuentra en el sótano (B1-B2) del centro comercial Siam Paragon, justo encima de la estación BTS Siam, lo que la convierte en una de las atracciones principales más fáciles de llegar en Bangkok.
 quickAnswer: SEA LIFE Bangkok Ocean World se encuentra en el sótano (B1-B2) del centro comercial Siam Paragon, justo encima de la estación BTS Siam, lo que la convierte en una de las atracciones principales más fáciles de llegar en Bangkok. Calcula entre 1.5 y 2.5 horas para recorrer el túnel de cristal, ver los tanques de tiburones y rayas, y presenciar un espectáculo de alimentación o buceo; ve un día entre semana por la mañana para evitar coincidir con las multitudes del centro comercial los fines de semana. Reserva las entradas en línea con antelación para obtener un descuento considerable respecto al precio en taquilla.

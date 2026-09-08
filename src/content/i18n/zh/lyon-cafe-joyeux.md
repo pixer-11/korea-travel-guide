@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-cafe-joyeux
-srcHash: 'fa398fcb18f1'
+srcHash: 'c02e1f1851cd'
 title: Café Joyeux：里昂旅行指南
 description: Café Joyeux位于费朗迪耶尔街13号（13 Rue Ferrandière），坐落在半岛区（Presqu'île）共和国街（Rue de la République）购物区内，距离科德利耶地铁站（Cordeliers，A线）步行仅需两分钟。
 quickAnswer: Café Joyeux位于费朗迪耶尔街13号（13 Rue Ferrandière），坐落在半岛区（Presqu'île）共和国街（Rue de la République）购物区内，距离科德利耶地铁站（Cordeliers，A线）步行仅需两分钟。这是一家咖啡甜点店，员工大多是有智力和认知障碍的人士，而且评价确实很高，并不只是靠"公益噱头"撑场面。想不排队就有位子坐，建议工作日上午8:30到10点之间前往；周末下午11点以后会变得热闹拥挤。

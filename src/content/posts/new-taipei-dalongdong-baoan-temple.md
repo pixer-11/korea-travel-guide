@@ -79,13 +79,13 @@ draft: false
 
 You come here for craftsmanship, not just worship. Dalongdong Baoan Temple, completed in 1831, is one of Taiwan's finest surviving examples of southern Fujian temple architecture, and UNESCO recognized its restoration with an Asia-Pacific Heritage Award in 2003.
 
-The moment you step past the front hall, the air changes — thick with sandalwood incense, murmured chanting, and the low clack of divination blocks hitting the stone floor. Look up before you look ahead. The roofline is crowded with jiaozhi ceramic figures and cut-porcelain mosaics depicting opera scenes and legends, each one still holding its original color after nearly two centuries.
+The moment you step past the front hall, the air changes, thick with sandalwood incense, murmured chanting, and the low clack of divination blocks hitting the stone floor. Look up before you look ahead. The roofline is crowded with jiaozhi ceramic figures and cut-porcelain mosaics depicting opera scenes and legends, each one still holding its original color after nearly two centuries.
 
 ## What to see
 
 The temple is dedicated to Baosheng Dadi, a deified Song-dynasty physician, and the layout unfolds in three halls connected by open courtyards.
 
-Don't rush past the front hall's stone dragon column, carved in 1804 — it predates the temple's completion and is considered one of the finest Qing-era dragon columns still in place. Inside the main hall, gilded wood carvings and painted door gods (by renowned artist Pan Li-shui) cover nearly every surface.
+Don't rush past the front hall's stone dragon column, carved in 1804, it predates the temple's completion and is considered one of the finest Qing-era dragon columns still in place. Inside the main hall, gilded wood carvings and painted door gods (by renowned artist Pan Li-shui) cover nearly every surface.
 
 - Stone dragon and tiger reliefs flanking the entrance steps
 - Jiaozhi ceramic roof figures, best viewed from the courtyard at midday light
@@ -96,21 +96,21 @@ Don't rush past the front hall's stone dragon column, carved in 1804 — it pred
 
 The temple sits in Taipei's Datong District, just north of the old Dadaocheng quarter, at No. 61 Hami Street.
 
-The easiest route is Taipei Metro's Yuanshan Station (Red Line), about a 10-minute walk north. From the station, follow signs toward Taipei Fine Arts Museum and Confucius Temple — Baoan Temple sits directly behind the Confucius Temple, so you'll likely see one before the other.
+The easiest route is Taipei Metro's Yuanshan Station (Red Line), about a 10-minute walk north. From the station, follow signs toward Taipei Fine Arts Museum and Confucius Temple, Baoan Temple sits directly behind the Confucius Temple, so you'll likely see one before the other.
 
 ## When to go
 
 The temple opens daily from 6am to 9pm, with no closing days listed.
 
-For a quiet visit, arrive between 7am and 9am on any day of the week — that's the calmest window, before tour groups and worshippers arrive in numbers. Weekends get busy fast, with the heaviest crowds from 11am to 8pm, so if you're coming on a Saturday or Sunday, treat mid-morning as your last easy window.
+For a quiet visit, arrive between 7am and 9am on any day of the week. That's the calmest window, before tour groups and worshippers arrive in numbers. Weekends get busy fast, with the heaviest crowds from 11am to 8pm, so if you're coming on a Saturday or Sunday, treat mid-morning as your last easy window.
 
-If you can time a visit around the Baosheng Cultural Festival (roughly March through May on the lunar calendar), you'll catch traditional opera performances and ceremonial processions in the courtyard — check the temple's own announcements closer to the date, since exact dates shift yearly.
+If you can time a visit around the Baosheng Cultural Festival (roughly March through May on the lunar calendar), you'll catch traditional opera performances and ceremonial processions in the courtyard. Check the temple's own announcements closer to the date, since exact dates shift yearly.
 
 ## How to visit like a local
 
 Move through the halls the way worshippers do, from front to back, rather than cutting across at random.
 
-Incense is provided free near the entrance for anyone who wants to make an offering — take one stick, bow at each altar, and place it in the central censer. Nobody expects tourists to pray, but everyone is expected to keep voices down and avoid stepping on the wooden door thresholds, which are considered disrespectful to cross with a stride.
+Incense is provided free near the entrance for anyone who wants to make an offering. Take one stick, bow at each altar, and place it in the central censer. Nobody expects tourists to pray, but everyone is expected to keep voices down and avoid stepping on the wooden door thresholds, which are considered disrespectful to cross with a stride.
 
 Photography is welcome in the courtyards; inside the main hall, skip the flash and be mindful around anyone in prayer. This is a well-known, well-visited landmark rather than a hidden find, so the real local trick is timing: come right at 6am or 7am opening, before both tour buses and the mid-morning worship crowd arrive.
 
@@ -120,5 +120,5 @@ Cash offerings go into marked boxes, not into monks' or attendants' hands direct
 
 Plan 45 minutes to an hour for the temple itself, longer if you linger over the roof carvings or catch a ceremony.
 
-Confucius Temple sits immediately next door, sharing the same plaza, and makes a natural add-on — expect another 30–45 minutes there. Taipei Fine Arts Museum and the riverside Dadaocheng Wharf are both within a 15-minute walk, making this a solid half-day cluster if you start early and beat the heat and crowds together.
+Confucius Temple sits immediately next door, sharing the same plaza, and makes a natural add-on. Expect another 30–45 minutes there. Taipei Fine Arts Museum and the riverside Dadaocheng Wharf are both within a 15-minute walk, making this a solid half-day cluster if you start early and beat the heat and crowds together.
 

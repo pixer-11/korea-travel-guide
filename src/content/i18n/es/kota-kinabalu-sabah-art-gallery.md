@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kota-kinabalu-sabah-art-gallery
-srcHash: '53881826245a'
+srcHash: '78c9161ca361'
 title: 'Sabah Art Gallery: Guía de viaje de Kota Kinabalu (4.4★)'
 description: 'La Sabah Art Gallery está en Jalan Shantung, en Kota Kinabalu, y abre de 9:00 a 16:00 todos los días excepto los lunes. 4.4★ (794 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Sabah Art Gallery está en Jalan Shantung, en Kota Kinabalu, y abre de 9:00 a 16:00 todos los días excepto los lunes. Es una visita sencilla y poco conocida, ideal para pasar una hora o dos bajo techo en una tarde calurosa o como pausa entre días de playa, con obras de artistas locales de Borneo e internacionales dentro de un llamativo edificio en forma de pirámide. Conviene ir un día de semana por la mañana para recorrer las salas con más calma y menos gente.

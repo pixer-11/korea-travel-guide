@@ -64,7 +64,7 @@ The promenade runs along Tsim Sha Tsui East, easy to reach on foot from several 
 
 - **Star Ferry Pier / Avenue of Stars**: exit at East Tsim Sha Tsui Station (Tuen Ma Line), Exit J or L
 - **Central spur near the Clock Tower**: Tsim Sha Tsui Station (Tsuen Wan Line), Exit L6
-- Alternatively, ride the Star Ferry itself from Central — the crossing takes about ten minutes and drops you almost onto the walkway
+- Alternatively, ride the Star Ferry itself from Central. The crossing takes about ten minutes and drops you almost onto the walkway
 
 Once you're there, the path stretches for over a kilometer, so pick an end and walk toward the other.
 
@@ -72,27 +72,27 @@ Once you're there, the path stretches for over a kilometer, so pick an end and w
 
 Start near the old Clock Tower, a red-brick relic of the original Kowloon-Canton Railway terminus. Walking east, you'll pass the Avenue of Stars, a stretch honoring Hong Kong's film industry with handprints and statues, including one of Bruce Lee in mid-kick.
 
-Benches face the water at intervals, and joggers, dog-walkers, and street photographers share the space without much friction. Look for local anglers casting off the railing near dusk — a quiet, unhurried counterpoint to the skyline behind them.
+Benches face the water at intervals, and joggers, dog-walkers, and street photographers share the space without much friction. Look for local anglers casting off the railing near dusk, a quiet, unhurried counterpoint to the skyline behind them.
 
-If you time it right, the **Symphony of Lights** — a nightly sound-and-light show involving dozens of buildings across the harbor — starts around 8pm and runs about 13 minutes. It's a modest spectacle by international standards, but the setting carries it.
+If you time it right, the **Symphony of Lights**, a nightly sound-and-light show involving dozens of buildings across the harbor, starts around 8pm and runs about 13 minutes. It's a modest spectacle by international standards, but the setting carries it.
 
 ## When to go
 
 Because it's outdoors and open 24 hours, there's no wrong time, but the light changes everything.
 
-Early morning brings soft haze and a near-empty walkway — good for photos without crowds. Late afternoon into blue hour is the classic window, when the skyline lights start switching on before full dark. Midday sun is harsh and offers little shade, so it's the least comfortable stretch to linger.
+Early morning brings soft haze and a near-empty walkway, good for photos without crowds. Late afternoon into blue hour is the classic window, when the skyline lights start switching on before full dark. Midday sun is harsh and offers little shade, so it's the least comfortable stretch to linger.
 
 ## How to visit like a local
 
 This is an under-the-radar stretch of a very touristy district, and treating it that way pays off.
 
 - **Skip the 8pm rush.** Everyone converges on the harborside railing right before Symphony of Lights. Arrive 30–40 minutes early to claim a spot, or skip the show and walk the quieter far ends of the promenade instead.
-- **Pack nothing, spend nothing.** The promenade itself is free, with no ticket booths or gates — a rarity in this part of town.
+- **Pack nothing, spend nothing.** The promenade itself is free, with no ticket booths or gates, a rarity in this part of town.
 - **Walk further than the Avenue of Stars.** Most visitors stop at the main viewing plaza. Continue toward the Hung Hom side or west past the Cultural Centre and the crowds thin fast.
 - **Bring water, not much else.** There's little shade and few vending options directly on the path; grab a drink before you arrive.
-- **Mind the wind.** The waterfront channels harbor breezes, so it runs cooler than the surrounding streets — useful in summer, chilly in winter evenings.
+- **Mind the wind.** The waterfront channels harbor breezes, so it runs cooler than the surrounding streets, useful in summer, chilly in winter evenings.
 
-Locals mostly use this route to cut between neighborhoods or for an evening jog rather than as a destination in itself, so you won't find much of a "scene" — just open water, a famous view, and room to actually stand still and look at it, which in Hong Kong is worth something.
+Locals mostly use this route to cut between neighborhoods or for an evening jog rather than as a destination in itself, so you won't find much of a "scene", just open water, a famous view, and room to actually stand still and look at it, which in Hong Kong is worth something.
 
 ## Nearby to pair with
 

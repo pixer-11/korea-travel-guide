@@ -41,13 +41,13 @@ eventOrganizer:
 
 Abu Dhabi has hosted UFC events since the "Fight Island" era during the pandemic, and it has since become a regular stop on the promotion's international calendar thanks to Etihad Arena's production quality and the emirate's tourism push around Yas Island. This card was topped by a light heavyweight matchup between Magomed Ankalaev, one of the division's most durable contenders known for his wrestling-heavy grinding style, and Khalil Rountree Jr., a hard-hitting striker with a Muay Thai background who has become a fan favorite for his come-forward aggression.
 
-A 205-pound fight of this caliber outside the US is a genuine draw for hardcore fans, and it came with the kind of undercard depth UFC Fight Night cards typically deliver — a mix of regional prospects and veteran gatekeepers. UFC usually confirms the full lineup in the week before the event.
+A 205-pound fight of this caliber outside the US is a genuine draw for hardcore fans, and it came with the kind of undercard depth UFC Fight Night cards typically deliver, a mix of regional prospects and veteran gatekeepers. UFC usually confirms the full lineup in the week before the event.
 
 ## Getting there
 
 Etihad Arena sits on Yas Island, the same entertainment district as Yas Marina Circuit (F1), Ferrari World, Yas Waterworld, and Yas Mall. The venue is roughly a 20-25 minute drive from Abu Dhabi International Airport and about 45-60 minutes from Dubai International Airport via Sheikh Zayed Road, so either city works as an arrival point. Taxis and ride-hailing apps (Careem, Uber) run consistently from both airports, and on event nights Yas Island's road network adds dedicated shuttle and taxi drop-off points near the arena.
 
-Journeys from off-island can run longer with bridge traffic — Yas Island connects to the mainland via Sheikh Khalifa Bridge and Sheikh Zayed Bin Sultan Street.
+Journeys from off-island can run longer with bridge traffic, Yas Island connects to the mainland via Sheikh Khalifa Bridge and Sheikh Zayed Bin Sultan Street.
 
 ## Where to stay
 

@@ -110,7 +110,7 @@ On a clear afternoon you can see the Luberon hills smudged blue in the distance.
 
 ## Getting there
 
-The garden is a short, steep walk from the Palais des Papes — follow Montée des Moulins and let your legs do the complaining. There's also a small funicular/lift near the Papal Palace that carries visitors up the rock for those who'd rather not climb.
+The garden is a short, steep walk from the Palais des Papes, follow Montée des Moulins and let your legs do the complaining. There's also a small funicular/lift near the Papal Palace that carries visitors up the rock for those who'd rather not climb.
 
 Either way, you arrive at the top within ten to fifteen minutes of the old town's main square, Place de l'Horloge. No car is needed; central Avignon is compact and walkable.
 
@@ -134,10 +134,10 @@ On weekdays, the quietest hours are 8pm to 10pm, when the day-trip crowds have c
 
 ## How to visit like a local
 
-Avignon's Jardin des Doms is well-known and gets busy, so timing your visit matters more than finding a secret entrance. Aim for early morning, right after 7:30am opening, or drift up after dinner before the 10pm close — both windows are noticeably calmer.
+Avignon's Jardin des Doms is well-known and gets busy, so timing your visit matters more than finding a secret entrance. Aim for early morning, right after 7:30am opening, or drift up after dinner before the 10pm close. Both windows are noticeably calmer.
 
-There's no admission fee to worry about, so you simply walk in. The café inside operates like any French park café — order at the counter or wait for table service.
+There's no admission fee to worry about, so you simply walk in. The café inside operates like any French park café, order at the counter or wait for table service.
 
 The mistake most visitors make is treating this as a quick photo stop tacked onto the Palais des Papes. Locals treat it as a proper stroll: they walk the full loop, sit by the pond a while, and catch the view from more than one terrace, since the angle on the Rhône changes as you move around the rock.
 
-Wear shoes suited to gravel paths and a bit of a climb, and carry water in summer — shade is decent but the sun can still surprise you on the open terraces. If you're combining it with the Palais des Papes below, do the garden first while you have energy for the climb, then descend and end at the palace.
+Wear shoes suited to gravel paths and a bit of a climb, and carry water in summer, shade is decent but the sun can still surprise you on the open terraces. If you're combining it with the Palais des Papes below, do the garden first while you have energy for the climb, then descend and end at the palace.

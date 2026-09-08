@@ -86,15 +86,15 @@ Today the interior holds a shaded garden and a small museum, but the real draw i
 
 ## What you'll see inside
 
-Walking in through the main gate, the noise of the surrounding city — jeepneys, tricycles, vendors along A. Pigafetta Street — drops away almost immediately. The courtyard is planted with acacia and fire trees, and benches sit in patches of shade that make this one of the cooler spots in downtown Cebu at midday. Stone stairs lead up onto the ramparts, where you can walk the perimeter and look down into the dry moat area and out toward the harbor.
+Walking in through the main gate, the noise of the surrounding city (jeepneys, tricycles, vendors along A. Pigafetta Street) drops away almost immediately. The courtyard is planted with acacia and fire trees, and benches sit in patches of shade that make this one of the cooler spots in downtown Cebu at midday. Stone stairs lead up onto the ramparts, where you can walk the perimeter and look down into the dry moat area and out toward the harbor.
 
-Inside the old barracks rooms, the museum displays a modest collection: colonial-era relics, religious artifacts, old photographs of the fort in disrepair before restoration, and a scale model showing how the layout has changed over four centuries. It's not a large collection, and you can see all of it in about 20 minutes, but the informational panels do a good job explaining how the fort shifted roles — Spanish garrison, American military post, Japanese internment site, and finally a public park.
+Inside the old barracks rooms, the museum displays a modest collection: colonial-era relics, religious artifacts, old photographs of the fort in disrepair before restoration, and a scale model showing how the layout has changed over four centuries. It's not a large collection, and you can see all of it in about 20 minutes, but the informational panels do a good job explaining how the fort shifted roles, Spanish garrison, American military post, Japanese internment site, and finally a public park.
 
 ## Getting there
 
 Fort San Pedro sits right on Plaza Independencia, at the southern edge of downtown Cebu City near the port area. If you're coming from the Ayala Center or IT Park side of the city, a Grab car or taxi is the simplest option and should take 15–25 minutes depending on traffic. From the Cebu North or South Bus Terminals, it's a short tricycle or jeepney ride into the old downtown core.
 
-Because it sits beside the pier, it's an easy add-on if you're arriving in Cebu by ferry from Bohol, Dumaguete, or other Visayan islands — you can walk straight from the port to the fort gate in a few minutes.
+Because it sits beside the pier, it's an easy add-on if you're arriving in Cebu by ferry from Bohol, Dumaguete, or other Visayan islands. You can walk straight from the port to the fort gate in a few minutes.
 
 ## Pairing it with the rest of old Cebu
 
@@ -102,12 +102,12 @@ The fort works best as one stop on a walking loop through Cebu's colonial core. 
 
 ## When to go
 
-Cebu's heat builds fast, so mornings shortly after opening are noticeably more comfortable for walking the exposed ramparts — there's little shade once you're up on the walls. Because this is one of the most visited heritage sites in the city, expect tour groups and school trips through mid-morning into early afternoon; things generally thin out again in the late afternoon before closing. Dry season, roughly December through May, gives you the best odds of clear views from the ramparts out toward the harbor, though it's also warmer.
+Cebu's heat builds fast, so mornings shortly after opening are noticeably more comfortable for walking the exposed ramparts. There's little shade once you're up on the walls. Because this is one of the most visited heritage sites in the city, expect tour groups and school trips through mid-morning into early afternoon; things generally thin out again in the late afternoon before closing. Dry season, roughly December through May, gives you the best odds of clear views from the ramparts out toward the harbor, though it's also warmer.
 
 ## How to visit like a local
 
-Buy your entrance ticket at the small booth by the gate — this is a cash transaction in pesos, and prices are modest, so bring small bills rather than large denominations. There's no real booking system; you simply walk up, pay, and go in, so the only real strategy is timing your visit around the crowds rather than around a queue.
+Buy your entrance ticket at the small booth by the gate. This is a cash transaction in pesos, and prices are modest, so bring small bills rather than large denominations. There's no real booking system; you simply walk up, pay, and go in, so the only real strategy is timing your visit around the crowds rather than around a queue.
 
-The most common visitor mistake is treating the fort as a quick photo stop from the outside and skipping the walk along the ramparts, which is where the site actually earns its reputation — the views over the moat and toward the port are the payoff. Wear shoes with grip, since the stone steps up to the ramparts are worn smooth and can be uneven.
+The most common visitor mistake is treating the fort as a quick photo stop from the outside and skipping the walk along the ramparts, which is where the site actually earns its reputation. The views over the moat and toward the port are the payoff. Wear shoes with grip, since the stone steps up to the ramparts are worn smooth and can be uneven.
 
-Given how heavily trafficked this landmark is, don't expect a quiet, undiscovered corner of the city — instead, plan around it by arriving early or late in the day if you want the courtyard and ramparts closer to yourself.
+Given how heavily trafficked this landmark is, don't expect a quiet, undiscovered corner of the city, instead, plan around it by arriving early or late in the day if you want the courtyard and ramparts closer to yourself.

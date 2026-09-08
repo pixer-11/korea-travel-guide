@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: little-india-veera-flavours
-srcHash: '5a555bfc0960'
+srcHash: 'a18be85945b0'
 title: 'Veera Flavours: dónde comer en Little India'
 description: Veera Flavours es un restaurante vegetariano del sur de la India muy bien valorado (4.7 estrellas, casi 2.000 reseñas) ubicado en 41 Kerbau Road, en pleno corazón de Little India.
 quickAnswer: Veera Flavours es un restaurante vegetariano del sur de la India muy bien valorado (4.7 estrellas, casi 2.000 reseñas) ubicado en 41 Kerbau Road, en pleno corazón de Little India, conocido sobre todo por sus banana-leaf meals (comidas servidas sobre hoja de plátano), dosas y thalis a precios medios. Ve un día de semana alrededor de las 11:30am o después de las 2:30pm para evitar el ajetreo del almuerzo, y combina la comida con un paseo por Kerbau Road y Campbell Lane. Está a solo 5 minutos a pie de la estación Little India MRT (salidas A o E).

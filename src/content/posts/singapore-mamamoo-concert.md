@@ -39,7 +39,7 @@ eventOrganizer:
 ---
 ## Why this show mattered
 
-MAMAMOO — Solar, Moonbyul, Wheein, and Hwasa — are one of K-pop's most durable girl groups, known for vocal firepower, genre-hopping discography (from retro funk to ballads to hip-hop), and a reputation as one of the strongest live-vocal acts in the industry. The Singapore stop was set for the Singapore Indoor Stadium, a venue that regularly anchors the country's biggest K-pop and pop concerts, which made it a marquee date on the 2026 regional touring calendar.
+MAMAMOO (Solar, Moonbyul, Wheein, and Hwasa) are one of K-pop's most durable girl groups, known for vocal firepower, genre-hopping discography (from retro funk to ballads to hip-hop), and a reputation as one of the strongest live-vocal acts in the industry. The Singapore stop was set for the Singapore Indoor Stadium, a venue that regularly anchors the country's biggest K-pop and pop concerts, which made it a marquee date on the 2026 regional touring calendar.
 
 Fans travel in from Malaysia, Indonesia, Thailand, and beyond for shows at this venue, so audiences here are typically international rather than purely local.
 

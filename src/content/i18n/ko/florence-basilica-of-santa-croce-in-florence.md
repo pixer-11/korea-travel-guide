@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: florence-basilica-of-santa-croce-in-florence
-srcHash: '0d6f7137902b'
+srcHash: 'c5a93d3bec31'
 title: '피렌체 산타 크로체 대성당: 여행 가이드'
 description: 산타 크로체(Santa Croce)는 피렌체의 산타 크로체 광장(Piazza di Santa Croce)에 있는 프란체스코회의 대성당으로, 조토의 프레스코화와 미켈란젤로, 갈릴레오, 마키아벨리의 무덤으로 유명하다.
 quickAnswer: 산타 크로체는 피렌체의 산타 크로체 광장(Piazza di Santa Croce)에 있는 프란체스코회의 대성당으로, 조토의 프레스코화와 미켈란젤로, 갈릴레오, 마키아벨리의 무덤으로 유명하다. 인기가 워낙 많은 곳이라, 파치 예배당(Pazzi Chapel)과 도나텔로의 십자가상을 사람들 벽에 가리지 않고 보려면 개관 직후인 오전 9시 30분~11시 사이를 노리는 것이 좋다(일요일은 오후 12시 30분으로 개관이 늦다). 60~90분을 잡으면 되고, 가죽 학교와 회랑을 여유 있게 둘러보려면 시간을 더 잡아야 한다.

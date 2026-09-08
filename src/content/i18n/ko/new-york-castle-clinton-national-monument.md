@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-york-castle-clinton-national-monument
-srcHash: '20a607016e38'
+srcHash: '9e8d50073a62'
 title: '캐슬 클린턴 국립기념물: 뉴욕 여행 가이드'
 description: 캐슬 클린턴 국립기념물(Castle Clinton National Monument)은 맨해튼 배터리 파크(Battery Park) 남단, 물가 바로 옆에 있습니다. 4.4★ (리뷰 21,588개) — 방문자들의 후기, 운영시간, 팁을 소개합니다.
 quickAnswer: 캐슬 클린턴 국립기념물은 맨해튼 배터리 파크 남단, 물가 바로 옆에 자리하고 있습니다. 입장은 무료이며 혼자 둘러보는 데 20~30분이면 충분합니다. 대부분의 사람들은 자유의 여신상/엘리스 아일랜드 페리 티켓을 사기 위해 그냥 지나쳐 가는 경우가 많으니, 요새 자체를 제대로 둘러보고 싶다면 페리 대기줄이 길어지기 전인 아침 일찍 방문하세요.

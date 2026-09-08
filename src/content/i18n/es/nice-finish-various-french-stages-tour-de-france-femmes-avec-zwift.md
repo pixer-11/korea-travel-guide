@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: '5c62f908bc57'
+srcHash: 'c477022862bc'
 title: 'Tour de France Femmes avec Zwift: lo que hay que saber en Niza'
 description: La edición de 2026 del Tour de France Femmes avec Zwift estaba prevista del 1 al 9 de agosto, con Gran Salida en Lausana, una etapa con final en la cima del Mont Ventoux y meta final en Niza.
 quickAnswer: La edición de 2026 del Tour de France Femmes avec Zwift estaba prevista del 1 al 9 de agosto, con Gran Salida en Lausana (Suiza), una etapa de montaña con final en la cima del Mont Ventoux y la meta final en la Promenade des Anglais, en Niza. Ver la carrera desde la carretera es gratis. Una etapa de montaña como la del Ventoux ofrece emoción a cambio de una larga espera, mientras que una llegada urbana como la de Niza brinda una ventana de observación más corta, festiva y con fácil acceso en transporte público.

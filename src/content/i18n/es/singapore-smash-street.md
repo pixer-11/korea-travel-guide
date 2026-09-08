@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: singapore-smash-street
-srcHash: '5ef4113a550c'
+srcHash: '0e4adf41c19d'
 title: 'Smash Street Singapore: hamburguesas, horarios y consejos (4.6★)'
 description: 'El bar de smash burgers del equipo de Scarpetta: qué pedir, horarios de apertura y las horas más tranquilas para ir sin colas. 4.6★ (349 reseñas).'
 quickAnswer: Del equipo detrás del viral bar de pasta Scarpetta llega Smash Street, un nuevo concepto de smash-burgers con hamburguesas de carne aplastada, caramelizadas y de bordes crujientes, servidas en panes artesanales de papa. Abrió el 3 de abril de 2026 y en poco tiempo se convirtió en una de las opciones informales más comentadas de Singapur. Como es un lugar recién inaugurado y todavía hay detalles por definir, conviene confirmar los horarios vigentes, la ubicación exacta y si se necesita reserva antes de ir.

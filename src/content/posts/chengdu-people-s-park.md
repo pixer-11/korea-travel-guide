@@ -54,7 +54,7 @@ Walk through the gates off Ci Tang Jie and the city noise drops away almost imme
 
 The heart of the park is Heming Teahouse, a rambling open-air pavilion of bamboo chairs and low wooden tables strung along the water's edge. This is where Chengdu's unhurried pace becomes visible: retirees nursing glass jars of tea for entire afternoons, cards slapping down on tables, someone's caged bird hung from a branch overhead.
 
-It's also the city's most famous spot to watch — or get — an ear cleaning. Practitioners walk the teahouse with tuning-fork tools, a strange and oddly soothing bit of local theatre that's been happening here for decades.
+It's also the city's most famous spot to watch, or get, an ear cleaning. Practitioners walk the teahouse with tuning-fork tools, a strange and oddly soothing bit of local theatre that's been happening here for decades.
 
 Beyond the teahouse:
 
@@ -62,7 +62,7 @@ Beyond the teahouse:
 - **Two small museums** on-site covering local history and revolutionary memorials
 - **Waterside café** for coffee if tea isn't your thing
 - **Shaded walking loops** good for 45 minutes to an hour of wandering
-- Occasional **matchmaking corner** on weekends, where parents post handwritten profiles of their adult children on umbrellas — a genuinely odd, only-in-Chengdu sight
+- Occasional **matchmaking corner** on weekends, where parents post handwritten profiles of their adult children on umbrellas, a genuinely odd, only-in-Chengdu sight
 
 ## Getting there
 
@@ -74,14 +74,14 @@ From Chunxi Road or Tianfu Square, it's a 10–15 minute walk or a couple of sto
 
 Mornings are the calmest stretch, especially on weekdays, when the teahouse fills gradually rather than all at once. By midday on weekends, the good tables fill up and the paths around the pond get considerably busier.
 
-Spring and autumn bring the most comfortable weather for lingering outdoors — summers in Chengdu run hot and humid, and the shade helps but doesn't eliminate it. Plan on an hour minimum, longer if you sit down for tea, which is really the point.
+Spring and autumn bring the most comfortable weather for lingering outdoors, summers in Chengdu run hot and humid, and the shade helps but doesn't eliminate it. Plan on an hour minimum, longer if you sit down for tea, which is really the point.
 
 ## How to visit like a local
 
-Order tea the way regulars do: a server will come by, top up your glass jar with hot water from a long-spouted kettle, and leave you be. There's no rush — tables are held for hours, not turned over.
+Order tea the way regulars do: a server will come by, top up your glass jar with hot water from a long-spouted kettle, and leave you be. There's no rush, tables are held for hours, not turned over.
 
 Payment is simple and cheap, paid to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine.
 
-The etiquette here is unspoken but easy to pick up: keep your voice down, don't hover over someone else's chess game too closely, and if you want an ear cleaning, just make eye contact with a practitioner as they pass — they'll stop.
+The etiquette here is unspoken but easy to pick up: keep your voice down, don't hover over someone else's chess game too closely, and if you want an ear cleaning, just make eye contact with a practitioner as they pass. They'll stop.
 
 The mistake visitors make is treating this as a five-minute photo stop. People's Park rewards slowness. Since it's still relatively under-the-radar for international visitors compared to Chengdu's headline sights, a quiet weekday morning here feels less like sightseeing and more like borrowing a local rhythm for an hour.

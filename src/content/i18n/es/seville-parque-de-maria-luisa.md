@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seville-parque-de-maria-luisa
-srcHash: '4956e7e5d55f'
+srcHash: '67766f3aa9fb'
 title: 'Parque de María Luisa: Guía de viaje de Sevilla (4,8★)'
 description: 'El Parque de María Luisa es el gran parque sevillano del siglo XIX situado justo al sur del centro de la ciudad, ideal para recorrer a pie o en bicicleta alquilada a primera hora de la mañana. 4,8★ (42.231 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque de María Luisa es el gran parque sevillano del siglo XIX situado justo al sur del centro de la ciudad, ideal para recorrer a pie o en bicicleta alquilada a primera hora de la mañana. Con más de 42.000 reseñas y una valoración de 4,8, no es ningún secreto: está firmemente en la ruta turística, así que conviene llegar a la hora de apertura. Entre semana, las 8 de la mañana es el momento más tranquilo; los fines de semana, la franja antes de las 10am es mejor que el tramo de 11am a 6pm, cuando se llena de gente. Calcula entre dos y tres horas para recorrer la Plaza de España, la Plaza de América y las avenidas sombreadas que las conectan.'

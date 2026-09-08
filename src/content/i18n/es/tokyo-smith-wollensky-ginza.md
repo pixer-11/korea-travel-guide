@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-smith-wollensky-ginza
-srcHash: 'd2698f2fc134'
+srcHash: 'e8966fd76234'
 title: 'Smith & Wollensky Ginza: guía de viaje de Tokio'
 description: 'Smith & Wollensky Ginza, en Tokio, Japón, es un local de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Smith & Wollensky Ginza es la primera sede en Japón del célebre asador neoyorquino, instalada en tres plantas cerca del núcleo comercial de lujo de Ginza. Vale la pena ir por sus chuletones USDA Prime madurados en seco, por una bodega con más de 2000 etiquetas y por el jazz en directo que anima la barra al caer la tarde. Conviene reservar con antelación: es una dirección de moda y muy solicitada, así que conviene confirmar horarios y disponibilidad antes de ir.'

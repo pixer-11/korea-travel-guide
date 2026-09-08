@@ -94,11 +94,11 @@ updatedDate: '2026-09-04'
 
 You come here for two things at once: world-class Chinese art, and the view framed behind it. Floor-to-ceiling windows on the upper levels look straight across Victoria Harbour to the Hong Kong Island skyline, so the museum doubles as one of the best free vantage points in Tsim Sha Tsui.
 
-Inside, the collection leans heavily on Chinese paintings, calligraphy, ceramics and bronzes, alongside contemporary Hong Kong art and antiquities. It's not trying to be an encyclopedic world museum — it's telling a specifically Hong Kong and Chinese story, and it does that well.
+Inside, the collection leans heavily on Chinese paintings, calligraphy, ceramics and bronzes, alongside contemporary Hong Kong art and antiquities. It's not trying to be an encyclopedic world museum. It's telling a specifically Hong Kong and Chinese story, and it does that well.
 
 ## Getting there
 
-The museum sits on Salisbury Road in Tsim Sha Tsui, right along the Avenue of Stars waterfront promenade. From Tsim Sha Tsui MTR station, take exit E and walk toward the harbour — it's about 8–10 minutes on foot.
+The museum sits on Salisbury Road in Tsim Sha Tsui, right along the Avenue of Stars waterfront promenade. From Tsim Sha Tsui MTR station, take exit E and walk toward the harbour. It's about 8–10 minutes on foot.
 
 If you're coming from Hong Kong Island, the Star Ferry from Central is the classic approach. The pier drops you a short stroll from the museum's front doors, and the ferry ride itself is worth the few minutes it costs.
 
@@ -116,18 +116,18 @@ Special exhibitions rotate through several times a year, often pairing internati
 
 ## When to go
 
-The museum runs 10am–6pm Monday, Tuesday, Wednesday and Friday, and stays open later, until 9pm, on Saturday and Sunday. It's closed all day Thursday — don't build a Thursday visit around it, because the doors simply won't open.
+The museum runs 10am–6pm Monday, Tuesday, Wednesday and Friday, and stays open later, until 9pm, on Saturday and Sunday. It's closed all day Thursday. Don't build a Thursday visit around it, because the doors simply won't open.
 
 Weekends get busy from 1pm to 8pm, so if you want breathing room in front of the galleries, aim for a weekday morning shortly after opening, or a Saturday or Sunday before 1pm. The evening hours on weekends are a good option too, once the after-lunch crowd thins out.
 
 ## How to visit like a local
 
-Buy your ticket at the counter or online and go straight up — the building is organized so you can start at the top floor and work down, catching the harbour view first while the light's still good. Most visitors pay by card or Octopus card at the desk; cash works too.
+Buy your ticket at the counter or online and go straight up. The building is organized so you can start at the top floor and work down, catching the harbour view first while the light's still good. Most visitors pay by card or Octopus card at the desk; cash works too.
 
 There's no need to book ahead for general admission, though special ticketed exhibitions sometimes sell time slots online, especially on weekends. Check that in advance if there's a big-name show running.
 
-The mistake first-timers make is treating this as a quick stop before the Avenue of Stars next door — then rushing the galleries in 40 minutes. Budget real time instead, or split your visit: art in the morning, harbour walk at sunset.
+The mistake first-timers make is treating this as a quick stop before the Avenue of Stars next door, then rushing the galleries in 40 minutes. Budget real time instead, or split your visit: art in the morning, harbour walk at sunset.
 
-Photography without flash is generally fine in the permanent galleries but often restricted in special exhibitions, so check the signage at each gallery entrance. And because this is a well-known, well-visited institution rather than a quiet local secret, don't expect empty rooms — just time your visit around the quieter windows above.
+Photography without flash is generally fine in the permanent galleries but often restricted in special exhibitions, so check the signage at each gallery entrance. And because this is a well-known, well-visited institution rather than a quiet local secret, don't expect empty rooms, just time your visit around the quieter windows above.
 
 Pair the trip with the neighboring Hong Kong Cultural Centre and the Space Museum, both a short walk along the same promenade, to make a full afternoon of Tsim Sha Tsui's museum cluster.

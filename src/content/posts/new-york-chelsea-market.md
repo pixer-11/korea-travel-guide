@@ -80,19 +80,19 @@ draft: false
 ---
 ## Why go
 
-You come in off 9th Avenue through unglamorous industrial doors, and the first thing that hits you is the smell — proofing dough, brined lox, roasting garlic — layered under exposed brick, hanging pipes, and old factory ductwork left visibly intact. This was once the National Biscuit Company complex, where the Oreo was invented in 1912, and the market has never fully sanded away that history.
+You come in off 9th Avenue through unglamorous industrial doors, and the first thing that hits you is the smell (proofing dough, brined lox, roasting garlic) layered under exposed brick, hanging pipes, and old factory ductwork left visibly intact. This was once the National Biscuit Company complex, where the Oreo was invented in 1912, and the market has never fully sanded away that history.
 
 Steel beams are still stamped with old factory signage. A shallow trench of water runs along one section of floor, a nod to the building's original loading tunnel. It doesn't feel like a food hall built from scratch; it feels like a factory that got colonized, gradually, by cheesemongers and ramen counters.
 
 ## What to see and eat
 
-The main corridor runs a full city block, and you graze rather than "dine" here — a lobster roll from one counter, a scoop of fresh burrata from another, a wedge of babka from a bakery case a few doors down. Los Tacos No. 1 draws a steady line for its al pastor, and the Lobster Place does double duty as both a raw seafood counter and a full fish market where you can buy salmon to cook at home.
+The main corridor runs a full city block, and you graze rather than "dine" here, a lobster roll from one counter, a scoop of fresh burrata from another, a wedge of babka from a bakery case a few doors down. Los Tacos No. 1 draws a steady line for its al pastor, and the Lobster Place does double duty as both a raw seafood counter and a full fish market where you can buy salmon to cook at home.
 
 Sarabeth's Bakery, Chelsea Market Baskets (a gift-basket shop stacked with New York-made pantry goods), and Bowery Kitchen Supplies for anyone who wants actual cookware are all part of the same unhurried browse. Some of the original factory signage remains bolted to the columns, and a few installations of ironwork and old freight elevator doors are left as functioning decor rather than museum pieces.
 
 ## Getting there
 
-The market sits at 75 9th Ave, between 15th and 16th Streets, in the Meatpacking District/West Chelsea border. The A/C/E line's 14th Street station and the L train's 8th Avenue station both drop you within a five-minute walk — take the 8th Avenue exit and walk west and north. The 1 train's 18th Street stop on the West Side works too, just slightly farther. If you're already walking the High Line, the park's southern entrance is essentially across the street, making this a natural add-on rather than a separate trip.
+The market sits at 75 9th Ave, between 15th and 16th Streets, in the Meatpacking District/West Chelsea border. The A/C/E line's 14th Street station and the L train's 8th Avenue station both drop you within a five-minute walk. Take the 8th Avenue exit and walk west and north. The 1 train's 18th Street stop on the West Side works too, just slightly farther. If you're already walking the High Line, the park's southern entrance is essentially across the street, making this a natural add-on rather than a separate trip.
 
 ## When to go
 
@@ -102,9 +102,9 @@ Weekday mornings have the same calm window and tend to be the easiest of all, wi
 
 ## How to visit like a local
 
-Skip the urge to eat a sit-down meal at one spot — the pleasure here is stacking small bites from three or four counters as you walk, standing or perching at the shared communal tables near the center of the corridor rather than hunting for a table of your own. Nearly every stall takes card or tap-to-pay now, though a few of the smaller specialty stands still prefer cash, so keep a little on hand.
+Skip the urge to eat a sit-down meal at one spot. The pleasure here is stacking small bites from three or four counters as you walk, standing or perching at the shared communal tables near the center of the corridor rather than hunting for a table of your own. Nearly every stall takes card or tap-to-pay now, though a few of the smaller specialty stands still prefer cash, so keep a little on hand.
 
-Tipping follows standard counter-service norms — a dollar or two in the jar, not restaurant-scale percentages. Lines move fast at the taco and lobster counters even when they look long, so don't be scared off by a queue; it's usually a five-minute wait, not fifteen. The mistake most first-timers make is treating this as a quick photo stop on the way to the High Line — budget real time, because the building runs deeper and longer than the entrance suggests, with side alcoves of shops easy to miss if you only walk the main aisle once.
+Tipping follows standard counter-service norms (a dollar or two in the jar, not restaurant-scale percentages. Lines move fast at the taco and lobster counters even when they look long, so don't be scared off by a queue; it's usually a five-minute wait, not fifteen. The mistake most first-timers make is treating this as a quick photo stop on the way to the High Line) budget real time, because the building runs deeper and longer than the entrance suggests, with side alcoves of shops easy to miss if you only walk the main aisle once.
 
 ## Nearby to pair it with
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-social-house-grand-indonesia
-srcHash: '07f2b12293d4'
+srcHash: '9b0d54e69f19'
 title: 雅加达大印尼商城Social House：中央雅加达美食好去处
 description: Social House Grand Indonesia坐落在中央雅加达文登(Menteng)大印尼商城(Grand Indonesia)东区商场(East Mall)一楼，满眼绿植，是一家全天营业的餐厅兼酒吧。搭乘MRT到Bundaran HI站(1/2号出口)，经有顶人行天桥即可抵达。
 quickAnswer: Social House Grand Indonesia坐落在中央雅加达文登大印尼商城东区商场一楼，满眼绿植，是一家全天营业的餐厅兼酒吧。搭乘MRT到Bundaran HI站（1/2号出口），经有顶人行天桥即可抵达。这里供应内容丰富的国际化菜单，酒单上约有300款葡萄酒可供单杯或整瓶选购，价位属中高档（人均约15万至40万印尼盾以上）。由于人气很旺，建议选在较早的午餐时段或工作日晚上7点前用餐，以避开排队高峰。

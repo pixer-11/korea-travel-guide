@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: johor-bahru-kirin-coffee
-srcHash: '32b8e136d004'
+srcHash: '964d28d7436b'
 title: Kirin Coffee：新山（Johor Bahru）旅行指南
 description: Kirin Coffee 位于马来西亚新山（Johor Bahru），是当地新晋热门打卡地——本文介绍它是什么、位置在哪，以及如何前往参观。
 quickAnswer: Kirin Coffee 是新山（Johor Bahru）Mount Austin 附近一家风格夸张的双层咖啡馆,设计上既讲究咖啡本身,也着重打造拍照场景——大胆的色块拼接、每一面墙上都摆满了奇趣道具,还有充满玩味的甜点,比如那款灵感来自"胶带香蕉"艺术作品、在网上走红的蛋糕。建议尽量选在工作日前往,周末往往需要排队等位;出发前请务必确认最新营业时间以及是否接受预订,因为像这样的热门网红咖啡馆常常会调整营业安排。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: gangneung-arte-museum-valley-gangneung
-srcHash: '75b5bf3176f9'
+srcHash: '272cbea25a5a'
 title: Arte Museum Valley：江陵旅行指南
 description: Arte Museum Valley 是位于江陵兰雪轩路（Nanseolheon-ro）一带的大型数字艺术博物馆，沉浸式光影装置充满了一系列昏暗的展厅。建议预留 60–90 分钟游览时间，最好选在工作日上午或闭馆前不久前往，以避开旅行团。
 quickAnswer: Arte Museum Valley 是位于江陵兰雪轩路（Nanseolheon-ro）一带的大型数字艺术博物馆，沉浸式光影装置充满了一系列昏暗的展厅。建议预留 60–90 分钟游览时间，最好选在工作日上午或闭馆前不久前往，以避开旅行团。由于博物馆位于内陆、离海岸稍远，可将参观行程与附近的乌竹轩（Ojukheon House）或镜浦台海滩（Gyeongpo Beach）搭配安排。建议尽量提前在网上预订分时段门票，因为周末和节假日的名额可能会订满。

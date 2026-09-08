@@ -58,7 +58,7 @@ From there, a short shuttle ride and some walking gets you to the bridge itself.
 
 The walkway stretches over 400 meters long, suspended between two cliffs, and the panels underfoot are reinforced glass thick enough that engineers have stress-tested it with sledgehammers for the cameras. That doesn't make the walk feel any less strange.
 
-Below you, the canyon floor drops away in layers of mist, scrub pine, and jagged rock. On clear days you can see waterfalls threading down the far walls. On foggy ones — common in this region — you get the sensation of walking into pure white nothing, which some visitors find scarier than seeing the drop.
+Below you, the canyon floor drops away in layers of mist, scrub pine, and jagged rock. On clear days you can see waterfalls threading down the far walls. On foggy ones, common in this region, you get the sensation of walking into pure white nothing, which some visitors find scarier than seeing the drop.
 
 There's also a bungee jump platform built into the bridge for those who want to go further than glass floors allow.
 
@@ -77,7 +77,7 @@ This is a well-known attraction, not a hidden find, and the crowd management ref
 - **Pay digitally when you can.** WeChat Pay and Alipay dominate at food stalls and shops nearby; carry some cash as backup since not every vendor takes foreign cards.
 - **Wear the shoe covers.** Staff usually require fabric covers over your shoes before you step onto the glass, both for grip and to keep the panels scratch-free.
 - **Don't skip the canyon.** Most tourists photograph the bridge and leave. The hiking trails and boardwalks in the gorge below are far less crowded and give you the classic look up at the bridge from underneath.
-- **The common mistake:** treating this as a quick stop. Between shuttle queues, security checks, and the walk itself, a rushed visit backfires — budget at least half a day.
+- **The common mistake:** treating this as a quick stop. Between shuttle queues, security checks, and the walk itself, a rushed visit backfires. Budget at least half a day.
 
 ## Nearby and practical notes
 

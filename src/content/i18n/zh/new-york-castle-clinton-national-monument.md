@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-castle-clinton-national-monument
-srcHash: '20a607016e38'
+srcHash: '9e8d50073a62'
 title: 卡素城堡国家纪念地(Castle Clinton National Monument):纽约旅行指南
 description: 卡素城堡国家纪念地坐落在曼哈顿炮台公园（Battery Park）南端，紧邻水边。4.4星（21,588条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 卡素城堡国家纪念地坐落在曼哈顿炮台公园南端，紧邻水边，免费入场，独自逛上20-30分钟就足够。大多数人来这里其实是为了买自由女神像/埃利斯岛的渡轮票，只是顺路经过城堡本身。如果你真想好好参观这座要塞，建议一早就来，赶在渡轮排队人潮涌来之前。

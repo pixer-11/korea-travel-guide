@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sturgis-south-dakota-sturgis-motorcycle-rally-86th-anniversary
-srcHash: '9dc5f71fe09c'
+srcHash: '589e15c538c8'
 title: 'Rally de Motocicletas de Sturgis (86.º aniversario): lo que hay que saber (Sturgis)'
 description: El 86.º Rally de Motocicletas de Sturgis estaba previsto para el 7 al 16 de agosto de 2026, con conciertos, carreras y rutas por las Black Hills bajo el lema Sturgis Salutes America.
 quickAnswer: El 86.º Rally de Motocicletas de Sturgis estaba previsto para el 7 al 16 de agosto de 2026 en Sturgis, bajo el lema "Sturgis Salutes America", con conciertos, carreras y rutas grupales panorámicas por las Black Hills. El rally suele reunir a alrededor de medio millón de motoristas. Sturgis, Rapid City y Deadwood son las bases habituales; el alojamiento en la propia localidad suele agotarse con muchos meses de antelación, y el sitio web oficial del Sturgis Motorcycle Rally es la fuente de referencia para los horarios de los recintos y los detalles de las entradas.

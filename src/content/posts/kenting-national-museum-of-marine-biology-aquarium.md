@@ -104,13 +104,13 @@ updatedDate: '2026-09-06'
 
 ## Why this place, not just another aquarium
 
-You notice the scale before anything else. This isn't a mall aquarium bolted onto a shopping complex — it's a national research institution with its own campus of pavilions facing the Taiwan Strait, and the building itself, with its sail-like white roofline, is visible from the coast road well before you arrive.
+You notice the scale before anything else. This isn't a mall aquarium bolted onto a shopping complex. It's a national research institution with its own campus of pavilions facing the Taiwan Strait, and the building itself, with its sail-like white roofline, is visible from the coast road well before you arrive.
 
 Inside, the ambition shows. Three separate main halls cover Waters of Taiwan, the Coral Kingdom, and Cold/Polar Seas, each with its own mood, lighting, and soundtrack of pumps and filtered daylight.
 
 ## Getting there
 
-The museum is at No. 2, Houwan Road, Checheng Township, Pingtung County — about 20 minutes north of Kenting's main strip by car or scooter along Highway 26.
+The museum is at No. 2, Houwan Road, Checheng Township, Pingtung County, about 20 minutes north of Kenting's main strip by car or scooter along Highway 26.
 
 There's no train station nearby; most visitors drive, scooter, or take one of the shuttle buses that run from Kaohsiung High Speed Rail Station or Kenting town, since public bus connections directly to the door are limited.
 
@@ -122,17 +122,17 @@ There's no train station nearby; most visitors drive, scooter, or take one of th
 
 Start with the Coral Kingdom hall, where the reef tank glows blue-green and parrotfish graze along fake and real coral formations lit to mimic shallow tropical water.
 
-The main draw is the underwater tunnel — a long acrylic corridor where sharks and rays glide overhead while schools of silver fish wheel around you in tight, synchronized turns. It's one of the longer viewing tunnels of its kind in Asia, and the crowd naturally slows to a shuffle here, phones up, necks craned.
+The main draw is the underwater tunnel, a long acrylic corridor where sharks and rays glide overhead while schools of silver fish wheel around you in tight, synchronized turns. It's one of the longer viewing tunnels of its kind in Asia, and the crowd naturally slows to a shuffle here, phones up, necks craned.
 
 The Cold/Polar Seas section is the surprise: penguins waddle behind glass in a chilled room that hits you with a wall of cold air the moment you step in, a deliberate contrast after the humid tropical halls. Beluga-adjacent and polar fish displays round this section out.
 
-Don't skip the 3-D theater if it's running a show during your visit — it's included in most ticket options and gives your legs a break partway through.
+Don't skip the 3-D theater if it's running a show during your visit. It's included in most ticket options and gives your legs a break partway through.
 
 ## When to go
 
 The museum keeps the same hours every day of the week, 9am to 6pm, so there's no early-closing day to plan around.
 
-Crowd patterns are consistent: weekends get busiest between 11am and 5pm, when tour buses and family groups stack up at the tunnel and touch pools. Both weekdays and weekends are calmest right at opening through the full day if you avoid that midday weekend window — arriving at 9am sharp or after 4pm gives you noticeably more breathing room at the tunnel and feeding displays.
+Crowd patterns are consistent: weekends get busiest between 11am and 5pm, when tour buses and family groups stack up at the tunnel and touch pools. Both weekdays and weekends are calmest right at opening through the full day if you avoid that midday weekend window, arriving at 9am sharp or after 4pm gives you noticeably more breathing room at the tunnel and feeding displays.
 
 Summer holidays (July–August) and Chinese New Year bring the heaviest domestic tourist traffic; a weekday visit outside these windows is the easiest way to get photos without a wall of heads in frame.
 
@@ -140,10 +140,10 @@ Summer holidays (July–August) and Chinese New Year bring the heaviest domestic
 
 This is a genuinely popular, well-reviewed institution, not a quiet find, so the smart move is timing rather than hoping for empty rooms.
 
-- Arrive at opening (9am) or after 4pm — both weekday and weekend crowds thin out then, per measured visitor patterns
+- Arrive at opening (9am) or after 4pm, both weekday and weekend crowds thin out then, per measured visitor patterns
 - Avoid 11am–5pm on weekends specifically, when the tunnel and touch-pool areas bottleneck hardest
 - Buy tickets online in advance during peak season to skip the counter queue
-- Bring a light layer — the Cold/Polar Seas hall is kept noticeably chilled compared to the tropical halls
+- Bring a light layer. The Cold/Polar Seas hall is kept noticeably chilled compared to the tropical halls
 - Pace yourself: budget 3–4 hours minimum to see all three main halls plus the tunnel and theater without rushing
 - Check current ticket prices and any show times for the 3-D theater on the museum's official site before you go, since these details shift seasonally
 

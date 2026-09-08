@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-prambanan-temple
-srcHash: 'd65bfd4e5e62'
+srcHash: '9c9e50475530'
 title: 'Templo de Prambanan: guía de viaje de Yogyakarta (4.7★)'
 description: 'El templo de Prambanan, el complejo hindú del siglo IX situado a las afueras de Yogyakarta, abre a diario de 6:00 a 16:30. 4.7★ (109.420 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo de Prambanan, el complejo hindú del siglo IX situado a las afueras de Yogyakarta, abre a diario de 6:00 a 16:30. El momento de mayor calma es justo a la apertura, de 7:00 a 9:00 entre semana o de 7:00 a 8:00 los fines de semana; conviene llegar entonces para adelantarse a las multitudes que se acumulan de 9:00 a 16:00 los fines de semana. Calcule entre dos y tres horas para recorrer el recinto principal y subir al santuario central de Shiva.

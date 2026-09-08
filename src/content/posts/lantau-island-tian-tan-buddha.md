@@ -76,8 +76,8 @@ Take the MTR to Tung Chung station, on the Tung Chung Line at the west end of th
 
 From there, two options:
 
-- **Ngong Ping 360 cable car** — a 25-minute glide over mountains and water, the more scenic route, though it draws long queues on weekends.
-- **Bus 23** — cheaper, winding up the mountain road, no queue but no view either.
+- **Ngong Ping 360 cable car**, a 25-minute glide over mountains and water, the more scenic route, though it draws long queues on weekends.
+- **Bus 23**, cheaper, winding up the mountain road, no queue but no view either.
 
 Both drop you at Ngong Ping Village, a short walk from the statue's base.
 
@@ -85,13 +85,13 @@ Both drop you at Ngong Ping Village, a short walk from the statue's base.
 
 The climb is the main event: 268 steps up a stone staircase, flanked by bronze devas bearing offerings. It's steep but shaded in parts, and benches let you pause without losing your place in the flow of people.
 
-At the top, the Buddha itself sits 34 metres high, right hand raised in a gesture of blessing. Underneath, a small museum and hall of relics tell the statue's construction story and house Buddhist artifacts — a cool, quiet contrast to the open-air climb.
+At the top, the Buddha itself sits 34 metres high, right hand raised in a gesture of blessing. Underneath, a small museum and hall of relics tell the statue's construction story and house Buddhist artifacts, a cool, quiet contrast to the open-air climb.
 
 Nearby, don't skip:
 
-- **Po Lin Monastery** — the working temple at the statue's foot, incense smoke curling past red pillars and gold-leaf shrines.
-- **The Wisdom Path** — a hillside arrangement of wooden pillars carved with Buddhist scripture, a 15-minute walk from the village.
-- **Ngong Ping Village** — shops and food stalls clustered near the cable car terminal, useful for a break before or after the climb.
+- **Po Lin Monastery**, the working temple at the statue's foot, incense smoke curling past red pillars and gold-leaf shrines.
+- **The Wisdom Path**, a hillside arrangement of wooden pillars carved with Buddhist scripture, a 15-minute walk from the village.
+- **Ngong Ping Village**, shops and food stalls clustered near the cable car terminal, useful for a break before or after the climb.
 
 Plan on two to three hours for the statue, monastery, and village combined; add another hour if you're doing the Wisdom Path too.
 
@@ -107,9 +107,9 @@ If your schedule allows any flexibility, come on a weekday morning. You'll get t
 
 Arrive at opening, not mid-morning. Being there at 10am on a weekday, rather than drifting in after 11, is the single biggest difference between a calm visit and a crowded one.
 
-Buy your cable car ticket online in advance if you're using the Ngong Ping 360 — it saves standing in the ticket queue on top of the boarding queue. Payment on-site is by card or Octopus card, Hong Kong's contactless transit card, which locals use for almost everything here, including cable car fares and snacks in the village.
+Buy your cable car ticket online in advance if you're using the Ngong Ping 360, it saves standing in the ticket queue on top of the boarding queue. Payment on-site is by card or Octopus card, Hong Kong's contactless transit card, which locals use for almost everything here, including cable car fares and snacks in the village.
 
-Dress modestly if you plan to enter Po Lin Monastery's main hall — shoulders and knees covered is the safe rule, as it's an active place of worship, not just a photo backdrop.
+Dress modestly if you plan to enter Po Lin Monastery's main hall, shoulders and knees covered is the safe rule, as it's an active place of worship, not just a photo backdrop.
 
 The mistake most visitors make is treating this as a quick photo stop. The steps take real time to climb at a comfortable pace, and rushing means missing the devas' details and the views back over the plateau. Give it the two to three hours it deserves, and check current opening hours before you go, since holiday schedules can shift.
 

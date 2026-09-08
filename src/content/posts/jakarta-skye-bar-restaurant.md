@@ -33,13 +33,13 @@ heroImage:
 
 ## Why SKYE Stands Out
 
-SKYE Bar & Restaurant sits high above Jakarta's business core, and the draw is immediate: the city unrolls beneath you in a grid of headlights and glass towers. This is the kind of rooftop that turns up on every visitor's phone before they even land, thanks to a run of viral photos showing Jakarta's skyline lit up at dusk. You don't come for a quiet meal — you come for the view, then the food and drinks follow.
+SKYE Bar & Restaurant sits high above Jakarta's business core, and the draw is immediate: the city unrolls beneath you in a grid of headlights and glass towers. This is the kind of rooftop that turns up on every visitor's phone before they even land, thanks to a run of viral photos showing Jakarta's skyline lit up at dusk. You don't come for a quiet meal, you come for the view, then the food and drinks follow.
 
 The venue occupies a high floor of one of the towers in Jakarta's central business district, in the area often called Golden Triangle, near Sudirman and Thamrin. That location matters: it puts SKYE within reach of the MRT Jakarta line, with Bundaran HI or Dukuh Atas stations the closest stops, followed by a short taxi or ride-hail hop to the tower entrance.
 
 ## What You'll Actually Experience
 
-Riding the elevator up, your ears pop slightly and conversation quiets — everyone's saving their reaction for the doors opening. Step out and the room is open-air on at least one side, glass railings the only thing between you and the drop.
+Riding the elevator up, your ears pop slightly and conversation quiets, everyone's saving their reaction for the doors opening. Step out and the room is open-air on at least one side, glass railings the only thing between you and the drop.
 
 By early evening the haze softens into a warm glow over the skyscrapers, and by full dark the whole basin of Jakarta is dotted with light. Expect a lounge-and-restaurant hybrid: a bar pouring cocktails, a dining menu, and plenty of standing room angled toward the view for people who've come just to look and sip.
 
@@ -49,7 +49,7 @@ Jakarta traffic is the real obstacle here, not the venue itself.
 
 - Take the MRT to Bundaran HI or Dukuh Atas, then a short Gojek or Grab ride to the building.
 - If driving, add extra time for CBD congestion, especially during evening rush hour.
-- Confirm the exact tower and floor with the venue or a ride-hailing app before you leave — Jakarta's business district has several lookalike towers.
+- Confirm the exact tower and floor with the venue or a ride-hailing app before you leave, Jakarta's business district has several lookalike towers.
 - Dress code tends to lean smart-casual for a rooftop lounge of this caliber; collared shirts and closed shoes are a safe bet for men.
 
 ## When to Go
@@ -62,17 +62,17 @@ Weeknights tend to be calmer than Friday and Saturday nights, when the after-wor
 
 As a trending, high-demand rooftop, SKYE is not the place to show up unannounced on a weekend. Reservations are strongly recommended, especially for tables along the view side.
 
-Pricing sits at the upper end for Jakarta — this is a cocktail-and-skyline venue, not a casual warung — so budget accordingly. Because hours, entry policy, and minimum spend can shift, always check SKYE's official channels or call ahead before you visit, particularly around holidays or private events.
+Pricing sits at the upper end for Jakarta (this is a cocktail-and-skyline venue, not a casual warung), so budget accordingly. Because hours, entry policy, and minimum spend can shift, always check SKYE's official channels or call ahead before you visit, particularly around holidays or private events.
 
 ## How to Visit Like a Local
 
-Frequent visitors treat SKYE as a pre-dinner or after-dinner stop rather than a full evening — arrive for the sunset light, snap your photos, have a drink, then move on to dinner elsewhere in the CBD if you want a lower bill.
+Frequent visitors treat SKYE as a pre-dinner or after-dinner stop rather than a full evening. Arrive for the sunset light, snap your photos, have a drink, then move on to dinner elsewhere in the CBD if you want a lower bill.
 
-Payment is overwhelmingly by card or QRIS mobile pay in Jakarta's upscale venues, so don't worry about carrying heavy cash. Tipping isn't obligatory — a service charge is typically already added to the bill — but rounding up is appreciated.
+Payment is overwhelmingly by card or QRIS mobile pay in Jakarta's upscale venues, so don't worry about carrying heavy cash. Tipping isn't obligatory, a service charge is typically already added to the bill, but rounding up is appreciated.
 
 - Book a table in advance for weekend evenings.
 - Arrive slightly before sunset to claim a railing-side spot.
-- Keep photos quick and courteous — everyone's fighting for the same skyline frame.
+- Keep photos quick and courteous, everyone's fighting for the same skyline frame.
 - Pair the visit with a walk around the nearby Bundaran HI traffic circle, Jakarta's own landmark roundabout, before or after.
 
 The mistake most first-timers make is showing up right at sunset with no reservation, then getting stuck waiting while the view-side tables fill. Reserve ahead, and you'll actually get to enjoy it instead of watching from the bar.

@@ -55,7 +55,7 @@ draft: false
 
 ## Why go
 
-Margilan has spun silk for over a thousand years, and Yodgorlik is the one factory still doing it almost entirely by hand. No conveyor belts, no automated looms drowning out conversation — just rows of workers doing what generations before them did.
+Margilan has spun silk for over a thousand years, and Yodgorlik is the one factory still doing it almost entirely by hand. No conveyor belts, no automated looms drowning out conversation, just rows of workers doing what generations before them did.
 
 You come here not for a polished museum experience but for the real, slightly chaotic working floor of a factory that never stopped using traditional methods.
 
@@ -63,7 +63,7 @@ You come here not for a polished museum experience but for the real, slightly ch
 
 The tour moves room to room, following the thread from cocoon to cloth. It starts in a steamy space where cocoons boil in vats, softening the silk so it can be unwound in one continuous strand.
 
-Next come the reeling rooms, where women twist raw filament onto spools by hand, fingers moving fast over threads so fine you can barely see them. Then the dye room hits you — vats of deep red, indigo, and mustard yellow, the smell sharp and mineral.
+Next come the reeling rooms, where women twist raw filament onto spools by hand, fingers moving fast over threads so fine you can barely see them. Then the dye room hits you, vats of deep red, indigo, and mustard yellow, the smell sharp and mineral.
 
 Finally you reach the looms. This is where Margilan's famous khan-atlas fabric takes shape, its rippling ikat patterns built thread by thread on wooden looms that creak with every pass of the shuttle.
 
@@ -75,7 +75,7 @@ Finally you reach the looms. This is where Margilan's famous khan-atlas fabric t
 
 ## Getting there
 
-Yodgorlik sits on Ul. Zukhro in Margilan, in Uzbekistan's Fergana Valley. Most visitors reach Margilan from Fergana city, about 12km away, by shared taxi or private car — the ride takes roughly 20-30 minutes.
+Yodgorlik sits on Ul. Zukhro in Margilan, in Uzbekistan's Fergana Valley. Most visitors reach Margilan from Fergana city, about 12km away, by shared taxi or private car. The ride takes roughly 20-30 minutes.
 
 If you're coming from Tashkent, it's a full-day trip: a domestic flight or a scenic 5-6 hour drive over the Kamchik Pass. Many travelers combine the factory with a stop at Margilan's Kumtepa Bazaar, one of the region's great silk and textile markets.
 
@@ -91,15 +91,15 @@ Spring and autumn are the most comfortable seasons for the Fergana Valley genera
 
 ## How to visit like a local
 
-Treat this less like a tourist attraction and more like visiting a working craft business — because that's what it is. Dress modestly and comfortably; you'll be standing and walking on uneven factory floors for most of the visit.
+Treat this less like a tourist attraction and more like visiting a working craft business, because that's what it is. Dress modestly and comfortably; you'll be standing and walking on uneven factory floors for most of the visit.
 
-- Pay: bring cash (Uzbek som) for the shop — card machines are unreliable this far from Tashkent
+- Pay: bring cash (Uzbek som) for the shop, card machines are unreliable this far from Tashkent
 - Book: no reservation needed; just show up during opening hours
 - Etiquette: ask before photographing workers up close, and expect a modest tip to be appreciated if someone gives you a personal explanation
-- Order/ask for: khan-atlas silk scarves and fabric by the meter — the shop's best value items
-- Mistake to avoid: rushing through in 15 minutes — the process only makes sense if you follow it room by room
+- Order/ask for: khan-atlas silk scarves and fabric by the meter, the shop's best value items
+- Mistake to avoid: rushing through in 15 minutes, the process only makes sense if you follow it room by room
 
-Give yourself a full hour, not a quick photo stop. The value here is in watching the sequence unfold — boiling, reeling, dyeing, weaving — not in any single station on its own.
+Give yourself a full hour, not a quick photo stop. The value here is in watching the sequence unfold (boiling, reeling, dyeing, weaving) not in any single station on its own.
 
 Because it's not overwhelmed with visitors, workers are often willing to explain their part of the process directly, especially if you show genuine interest rather than treating it as a drive-through curiosity.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: pisa-piazza-dei-cavalieri
-srcHash: '66cdc6f2ec94'
+srcHash: '1ec06fd7d9ff'
 title: '기사의 광장(Piazza dei Cavalieri): 피사 여행 가이드 (4.6★)'
 description: 기사의 광장(Piazza dei Cavalieri)은 피사에서 두 번째로 중요한 광장으로, 사탑에서 도보 5분 거리에 있으며 투어 그룹이 몰리기 전인 평일 오전 7시~9시(주말은 오전 7시~10시)에 가장 조용합니다. 4.6★(리뷰 12,114개) — 방문객들의 평가, 운영 시간, 방문 팁을 소개합니다.
 quickAnswer: 기사의 광장(Piazza dei Cavalieri)은 피사에서 두 번째로 중요한 광장으로, 사탑에서 도보 5분 거리에 있으며 투어 그룹이 몰리기 전인 평일 오전 7시~9시(주말은 오전 7시~10시)에 가장 조용합니다. 하루 24시간 개방되어 있고 자유롭게 걸어서 둘러볼 수 있지만, 카로바나 궁전(Palazzo della Carovana)과 산토 스테파노 교회는 각각 별도의 개방 시간이 있습니다. 20~30분 정도 시간을 잡으면 되고, 광장 한쪽에서 커피를 즐기며 여유를 부린다면 더 오래 머물러도 좋습니다.

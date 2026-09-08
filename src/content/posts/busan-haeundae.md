@@ -43,7 +43,7 @@ draft: false
 
 ## Why Haeundae Is Busan's Signature Beach
 
-Haeundae is Korea's most famous urban beach, a wide crescent of pale sand backed by a dense wall of high-rise hotels and apartment towers, including the LCT Landmark Tower — one of the tallest residential buildings in the country. The name comes from Choi Chi-won, a Silla-dynasty scholar whose pen name "Haeun" is said to be carved into rocks at nearby Dongbaekseom.
+Haeundae is Korea's most famous urban beach, a wide crescent of pale sand backed by a dense wall of high-rise hotels and apartment towers, including the LCT Landmark Tower, one of the tallest residential buildings in the country. The name comes from Choi Chi-won, a Silla-dynasty scholar whose pen name "Haeun" is said to be carved into rocks at nearby Dongbaekseom.
 
 Unlike Busan's quieter beaches, Haeundae functions as a full neighborhood: a functioning city district with a beach at its doorstep, which is why it draws both sunbathers and travelers who just want a walkable coastal base with restaurants, cafes, and nightlife layered around it.
 
@@ -55,18 +55,18 @@ Taxis from Busan Station or Nampo-dong take 25–35 minutes without traffic, lon
 
 ## What to See and Do
 
-The beach itself is the headline: roughly 1.5 km of sand, popular for swimming from about June through August when a lifeguard-monitored swim zone is marked with buoys. Just east of the main sand, Dongbaekseom (Dongbaek Island) is a small pine-covered headland with a paved coastal walking path circling it — about a 30–40 minute loop — leading to the Nurimaru APEC House, a glass-domed hall built for the 2005 APEC summit.
+The beach itself is the headline: roughly 1.5 km of sand, popular for swimming from about June through August when a lifeguard-monitored swim zone is marked with buoys. Just east of the main sand, Dongbaekseom (Dongbaek Island) is a small pine-covered headland with a paved coastal walking path circling it, about a 30–40 minute loop, leading to the Nurimaru APEC House, a glass-domed hall built for the 2005 APEC summit.
 
 West along the shore, the Haeundae SeaWalk is a raised platform stretching out over the water toward Dongbaek Island, good for photos at sunrise or sunset.
 
 For families, the Sea Life Busan Aquarium sits right on the beachfront near the western end, an easy stop before or after a swim. Food-wise, the streets one block back from the sand are packed with seafood restaurants serving grilled mackerel and hoe (raw fish platters), alongside Busan specialties like ssiat hotteok (seed-filled sweet pancakes) sold from carts near the beach entrance.
 
-Nearby Mipo, just past Dongbaekseom, marks the start of the Dalmaji-gil coastal road, a hillside route lined with cafes overlooking the sea — good for a slower, less crowded walk than the main beach strip.
+Nearby Mipo, just past Dongbaekseom, marks the start of the Dalmaji-gil coastal road, a hillside route lined with cafes overlooking the sea, good for a slower, less crowded walk than the main beach strip.
 
 ## When to Go
 
-Late spring (May) and early autumn (September–October) bring mild weather and thinner crowds than peak summer, when the beach becomes extremely dense with visitors and the Busan Sea Festival adds concerts and fireworks in late July or August. Winter is genuinely quiet — the sand is walkable and photogenic, and the annual Haeundae Sunrise Festival draws crowds to the beach on January 1st for the year's first sunrise. Early morning, before 8am, is the best window year-round for a peaceful walk before tour groups and beachgoers arrive.
+Late spring (May) and early autumn (September–October) bring mild weather and thinner crowds than peak summer, when the beach becomes extremely dense with visitors and the Busan Sea Festival adds concerts and fireworks in late July or August. Winter is genuinely quiet. The sand is walkable and photogenic, and the annual Haeundae Sunrise Festival draws crowds to the beach on January 1st for the year's first sunrise. Early morning, before 8am, is the best window year-round for a peaceful walk before tour groups and beachgoers arrive.
 
 ## Nearby and Practical Tips
 
-Haeundae connects easily to other coastal spots: Gwangalli Beach with its Gwangan Bridge view is about 20 minutes away by taxi, and the fishing village of Cheongsapo, with its red-and-white lighthouse and raw seafood stalls, is a short bus or taxi ride further east along the coast. Songjeong Beach, quieter and popular with surfers, sits just beyond Cheongsapo. Coin lockers and public showers are typically available near the main beach entrance during summer season — useful since many visitors combine a swim with a same-day trip elsewhere in the city. Confirm current swim-zone dates and any festival schedules locally, as these shift year to year.
+Haeundae connects easily to other coastal spots: Gwangalli Beach with its Gwangan Bridge view is about 20 minutes away by taxi, and the fishing village of Cheongsapo, with its red-and-white lighthouse and raw seafood stalls, is a short bus or taxi ride further east along the coast. Songjeong Beach, quieter and popular with surfers, sits just beyond Cheongsapo. Coin lockers and public showers are typically available near the main beach entrance during summer season, useful since many visitors combine a swim with a same-day trip elsewhere in the city. Confirm current swim-zone dates and any festival schedules locally, as these shift year to year.

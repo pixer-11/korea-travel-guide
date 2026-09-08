@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-shoushan-love-lookout
-srcHash: 'c72a036fb65a'
+srcHash: '0947596b48f9'
 title: 'Mirador LOVE del Shoushan: guía de viaje de Kaohsiung (4,5★)'
 description: 'El mirador LOVE del Shoushan (Monte de los Monos) se encuentra en el distrito de Gushan, en Kaohsiung, y es célebre por su letrero metálico iluminado "LOVE" y sus vistas panorámicas sobre el puerto y el perfil urbano. 4,5★ (8.618 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El mirador LOVE del Shoushan (Monte de los Monos) se encuentra en el distrito de Gushan, en Kaohsiung, y es célebre por su letrero metálico iluminado "LOVE" y sus vistas panorámicas sobre el puerto y el perfil urbano. Permanece abierto las 24 horas todos los días, así que el momento más tranquilo para visitarlo es entre las 7:00 y las 8:00 de la mañana entre semana, mucho antes de que lleguen los autobuses turísticos y las multitudes en busca de fotos. Calcule entre 30 y 45 minutos para la visita y vigile sus pertenencias: este es territorio de macacos.'

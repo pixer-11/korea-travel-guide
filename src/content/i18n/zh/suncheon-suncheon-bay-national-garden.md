@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: suncheon-suncheon-bay-national-garden
-srcHash: '8085f0b5856a'
+srcHash: 'd1816f9539ff'
 title: 顺天湾国家花园旅行指南
 description: 顺天湾国家花园（Suncheon Bay National Garden）是位于全罗南道（Jeollanam-do）的大型主题花园群，最适合搭配步行或穿梭车前往邻近的顺天湾湿地保护区（Suncheon Bay Wetland Reserve）一同游览。
 quickAnswer: 顺天湾国家花园是位于全罗南道的大型主题花园群，最适合搭配步行或穿梭车前往邻近的顺天湾湿地保护区一同游览。这里每天9am–8pm开放，周末11am到6pm时段人多拥挤，但闭园前的最后一小时（7–8pm）明显要清静许多。建议至少预留半天时间，如果还要去湿地的芦苇田和观景山丘，则需要更多时间。

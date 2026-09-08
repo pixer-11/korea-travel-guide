@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taitung-taiwan-international-balloon-festival-2026
-srcHash: 'e44a81b438fc'
+srcHash: 'e1df49b68209'
 title: 'Festival Internacional del Globo de Taiwán 2026: lo que hay que saber (Taitung)'
 description: El Festival Internacional del Globo de Taiwán 2026 en Taitung estaba previsto del 4 de julio al 20 de agosto en Luye Highland. Qué es, cuándo y dónde se celebra, y el programa anunciado.
 quickAnswer: El Festival Internacional del Globo de Taiwán 2026 estaba previsto del 4 de julio al 20 de agosto en Luye Highland (鹿野高台), en Taitung. El programa combinaba lanzamientos masivos de globos al amanecer con espectáculos nocturnos de iluminación (Night Glow) en fechas seleccionadas. Una visita ocupa aproximadamente media jornada, y las mañanas de días laborables reúnen menos público que los fines de semana o los días de ceremonia. Los horarios de lanzamiento, la venta de entradas y las fechas del globo de Chiikawa formaban parte del calendario diario del festival.

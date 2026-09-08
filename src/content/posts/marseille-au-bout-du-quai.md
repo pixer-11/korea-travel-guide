@@ -34,15 +34,15 @@ You smell the Vieux-Port before you see the restaurant's terrace: salt air, dies
 
 ## Why this address matters
 
-Marseille's Old Port has been quietly remaking itself, with new restaurants opening along the quays faster than most guidebooks can keep up. Au Bout Du Quai is part of that wave — but it distinguishes itself by leaning into something very old-fashioned: fish bought straight from local fishermen, not a wholesale market.
+Marseille's Old Port has been quietly remaking itself, with new restaurants opening along the quays faster than most guidebooks can keep up. Au Bout Du Quai is part of that wave, but it distinguishes itself by leaning into something very old-fashioned: fish bought straight from local fishermen, not a wholesale market.
 
-That sourcing shows in the kind of menu you'd expect from a genuine Mediterranean fish house — simply prepared catch, seasonal, dependent on what actually came in that day. The restaurant has built a strong reputation quickly, reflected in a 4.6-out-of-5 Google rating, a notable score for a harbourside spot doing this kind of volume.
+That sourcing shows in the kind of menu you'd expect from a genuine Mediterranean fish house, simply prepared catch, seasonal, dependent on what actually came in that day. The restaurant has built a strong reputation quickly, reflected in a 4.6-out-of-5 Google rating, a notable score for a harbourside spot doing this kind of volume.
 
 ## The setting
 
 The main draw beyond the plate is the terrace, angled toward the water. At lunch, the light bounces hard off the boat hulls and the pastel façades of the quai; by evening, it softens into the pinkish glow Marseille's harbour is known for at dusk.
 
-Expect the ambient soundtrack of any working port: gulls, halyards clinking against masts, the occasional shout from a boat crew. It's not hushed fine dining — it's alive, and that's the point.
+Expect the ambient soundtrack of any working port: gulls, halyards clinking against masts, the occasional shout from a boat crew. It's not hushed fine dining. It's alive, and that's the point.
 
 ## Getting there
 
@@ -62,16 +62,16 @@ Because the exact menu and prices weren't confirmed at the time of writing, trea
 
 ## How to visit like a local
 
-Marseillais don't linger over menus at harbourside restaurants during peak lunch service — tables turn quickly, so decide before you sit if you can.
+Marseillais don't linger over menus at harbourside restaurants during peak lunch service, tables turn quickly, so decide before you sit if you can.
 
 - **Book ahead**, particularly for a terrace table around sunset, when demand for a water view peaks.
-- **Go early or late** for lunch — just after opening or closer to the tail end of service — to dodge the midday rush of both tourists and locals on a work break.
+- **Go early or late** for lunch, just after opening or closer to the tail end of service, to dodge the midday rush of both tourists and locals on a work break.
 - **Pay by card**; it's standard across Marseille restaurants, though carrying some cash is still wise for smaller nearby vendors.
-- **Tipping** is not obligatory in France — service is included — but rounding up or leaving small change for good service is appreciated, not expected.
-- Order the day's fish rather than fixating on a specific dish you saw in a photo online — the point of this kind of restaurant is that the catch dictates the menu.
+- **Tipping** is not obligatory in France, service is included, but rounding up or leaving small change for good service is appreciated, not expected.
+- Order the day's fish rather than fixating on a specific dish you saw in a photo online. The point of this kind of restaurant is that the catch dictates the menu.
 
 The mistake visitors make on the Vieux-Port generally is treating every harbourside terrace as interchangeable tourist fare. Au Bout Du Quai's fisherman-sourced model is worth seeking out specifically rather than settling for whatever table has an open seat.
 
 ## Before you go
 
-Confirm opening hours and make a reservation directly with the restaurant before visiting — hours and availability can shift, especially in high season. Pair a meal here with a walk along the Quai des Belges fish market in the morning, or an evening visit to Fort Saint-Jean, both a short stroll from the door.
+Confirm opening hours and make a reservation directly with the restaurant before visiting, hours and availability can shift, especially in high season. Pair a meal here with a walk along the Quai des Belges fish market in the morning, or an evening visit to Fort Saint-Jean, both a short stroll from the door.

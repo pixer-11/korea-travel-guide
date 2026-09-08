@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lijiang-old-town-of-lijiang
-srcHash: 'eb81b39d0ea2'
+srcHash: '6118995807db'
 title: 'Casco Antiguo de Lijiang: Guía de Viaje (4.6★)'
 description: El Casco Antiguo de Lijiang es un laberinto declarado Patrimonio de la Humanidad por la UNESCO de callejuelas empedradas, canales y casas de madera naxi a los pies de las colinas de Yunnan — abierto las 24 horas, sin puerta que se cierre tras de ti. 4.6★ (1,441 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Casco Antiguo de Lijiang es un laberinto declarado Patrimonio de la Humanidad por la UNESCO de callejuelas empedradas, canales y casas de madera naxi a los pies de las colinas de Yunnan — abierto las 24 horas, sin puerta que se cierre tras de ti. Ven temprano por la mañana (antes de las 9am) o después de las 9pm para cruzar los puentes sin las multitudes de las excursiones de un día. Reserva medio día para pasear, más si quieres sentarte junto al agua por la noche.

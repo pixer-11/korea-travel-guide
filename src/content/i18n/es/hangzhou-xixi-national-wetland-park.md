@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hangzhou-xixi-national-wetland-park
-srcHash: '5d0999a3a670'
+srcHash: 'cde080282c32'
 title: 'Parque Nacional Humedal de Xixi: Guía de Viaje de Hangzhou (4.5★)'
 description: El Parque Nacional Humedal de Xixi es una extensa red de canales, estanques bordeados de juncos y antiguos pueblos de pescadores en el extremo occidental de Hangzhou, abierto todos los días de 7:30 a 18:30. 4.5★ (210 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Parque Nacional Humedal de Xixi es una extensa red de canales, estanques bordeados de juncos y antiguos pueblos de pescadores en el extremo occidental de Hangzhou, abierto todos los días de 7:30 a 18:30. Dedícale medio día o un día completo, idealmente en barca, y ve a primera hora de la mañana para tener las pasarelas casi para ti solo. Es una alternativa más tranquila al Lago del Oeste (West Lake), así que aquí importan más el ritmo y la temporada que evitar las multitudes.

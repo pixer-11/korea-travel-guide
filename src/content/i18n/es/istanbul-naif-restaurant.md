@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-naif-restaurant
-srcHash: 'ea759642ae54'
+srcHash: 'b19f4693ef9c'
 title: 'Naif Restaurant: Guía de viaje de Estambul'
 description: 'Naif Restaurant en Estambul, Turquía — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Naif es un pequeño restaurante de autor en Karaköy, Estambul, construido en torno a ingredientes exclusivamente de origen turco — prueba el orzo de pulpo y el codillo de cordero sobre pasta de campesinos. Está a poca distancia a pie de la parada de tranvía de Karaköy (línea T1) y del puente de Gálata; al ser una apertura reciente y muy solicitada, conviene reservar con antelación y confirmar el horario actual antes de ir.

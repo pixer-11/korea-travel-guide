@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hong-kong-hong-kong-museum-of-history
-srcHash: 'a130d72be561'
+srcHash: '4517d0fcd428'
 title: 홍콩역사박물관 여행 가이드 (4.3★)
 description: 침사추이(Tsim Sha Tsui)에 위치한 홍콩역사박물관은 어촌이 세계적인 대도시로 성장한 과정을 소개하는 홍콩 최고의 입문 코스로, 상설 전시 "The Hong Kong Story"가 중심을 이룬다. 4.3★ (리뷰 9,133개) — 방문객 후기, 운영시간, 방문 팁을 소개한다.
 quickAnswer: 침사추이(Tsim Sha Tsui)에 위치한 홍콩역사박물관은 어촌이 세계적인 대도시로 성장한 과정을 소개하는 홍콩 최고의 입문 코스로, 상설 전시 "The Hong Kong Story"가 중심을 이룬다. 대부분 오전 10시부터 오후 6시까지 운영하며(토·일요일은 오후 7시까지), 화요일은 휴관이다. 주말 오후 12시부터 6시까지가 가장 혼잡하므로, 오전 방문을 추천한다.

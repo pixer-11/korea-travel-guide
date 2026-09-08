@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-au-bout-du-quai
-srcHash: '0559de12491b'
+srcHash: 'e4a540b22749'
 title: 'Au Bout Du Quai: dónde comer en Marsella'
 description: 'Au Bout Du Quai en Marsella, Francia — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Au Bout Du Quai es un restaurante mediterráneo de pescado situado en el Vieux-Port (puerto viejo) de Marsella, dentro de la reciente oleada de aperturas a lo largo del puerto. Es conocido por su pescado fresco, comprado directamente a pescadores locales, y por una terraza de 80 plazas frente al agua. Conviene reservar con antelación, sobre todo para conseguir mesa en la terraza a la hora del atardecer, y confirmar el horario vigente antes de ir.

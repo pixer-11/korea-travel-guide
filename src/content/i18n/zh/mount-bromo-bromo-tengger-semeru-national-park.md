@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mount-bromo-bromo-tengger-semeru-national-park
-srcHash: '614d542fccf5'
+srcHash: '45e423f02463'
 title: 布罗莫-坦格尔-塞梅鲁国家公园:布罗莫火山旅行指南
 description: 布罗莫-坦格尔-塞梅鲁国家公园(Bromo Tengger Semeru National Park)是东爪哇一处高原火山地貌，你可以在观景台上俯瞰灰色的"沙海",观赏布罗莫火山(Mount Bromo)冒烟火山口上方的日出。4.8★(47,146条评价)——看看游客怎么说、开放时间与实用贴士。
 quickAnswer: 布罗莫-坦格尔-塞梅鲁国家公园是东爪哇一处高原火山地貌，你可以在观景台上俯瞰灰色的"沙海",观赏布罗莫火山冒烟火山口上方的日出。大多数游客会在天亮前从村庄振莫拉旺(Cemoro Lawang)或玛琅(Malang)参加吉普车团。景区实行凭票入场，而非固定开闭的大门，日出观赏每周天天开放。最佳旅行季节是4月至10月的干季，视野最清晰。

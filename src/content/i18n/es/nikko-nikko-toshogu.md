@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nikko-nikko-toshogu
-srcHash: 'e019834a307e'
+srcHash: 'a055f6c98ef4'
 title: 'Nikkō Tōshōgū: Guía de viaje de Nikko (4.5★)'
 description: Nikkō Tōshōgū es el fastuoso santuario dorado del siglo XVII dedicado al shogun Tokugawa Ieyasu, abierto todos los días de 9am a 4pm. 4.5★ (34,063 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: Nikkō Tōshōgū es el fastuoso santuario dorado del siglo XVII dedicado al shogun Tokugawa Ieyasu, abierto todos los días de 9am a 4pm. Reserva entre 90 minutos y dos horas para ver a los Tres Monos Sabios, la talla del gato dormido y la Puerta Yomeimon bañada en oro. Es muy popular, así que intenta llegar justo a la apertura, a las 9am, en día de semana, ya que los fines de semana se llenan rápido entre las 10am y las 3pm.

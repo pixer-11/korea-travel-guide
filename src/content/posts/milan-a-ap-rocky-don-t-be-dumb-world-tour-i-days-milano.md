@@ -50,13 +50,13 @@ draft: false
 
 ## Why this date matters
 
-A$AP Rocky's Don't Be Dumb World Tour touches Italian soil exactly once, and Milan is the city that gets it. On September 10, 2026, he headlines I-DAYS Milano Coca-Cola at the Ippodromo SNAI San Siro — his Italian concert debut. For a rapper whose Milan connections run through the front rows of fashion week for years, playing the city as a headliner rather than a guest closes an obvious loop.
+A$AP Rocky's Don't Be Dumb World Tour touches Italian soil exactly once, and Milan is the city that gets it. On September 10, 2026, he headlines I-DAYS Milano Coca-Cola at the Ippodromo SNAI San Siro, his Italian concert debut. For a rapper whose Milan connections run through the front rows of fashion week for years, playing the city as a headliner rather than a guest closes an obvious loop.
 
 I-DAYS has built its reputation on exactly this kind of booking: major international acts, one big outdoor stage, a racecourse infield turned into a festival ground for a night. Expect the show to lean on the sound and visual language of his recent releases, built for a big stage rather than a club set.
 
 ## The venue: Ippodromo SNAI San Siro
 
-You're not heading to the San Siro football stadium — that's a common mix-up. The Ippodromo SNAI San Siro is Milan's historic horse-racing track, a few minutes' walk from the stadium in the same western district of the city.
+You're not heading to the San Siro football stadium. That's a common mix-up. The Ippodromo SNAI San Siro is Milan's historic horse-racing track, a few minutes' walk from the stadium in the same western district of the city.
 
 The infield opens up into a genuinely large, flat outdoor space, so sightlines depend heavily on how early you stake your spot. Bring a light layer for the evening: September nights in Milan can turn cool once the sun drops behind the grandstand.
 
@@ -70,9 +70,9 @@ Public transport is by far the easiest option, since festival-night parking arou
 
 - **Metro**: Line 5 (lilac) to San Siro Ippodromo station puts you right at the gates.
 - **Alternative**: Line 1 (red) to Lotto, then a short walk or shuttle toward the racecourse.
-- **Tram/bus**: extra surface routes typically run into San Siro on event nights — check ATM Milano's site for the current lines.
+- **Tram/bus**: extra surface routes typically run into San Siro on event nights. Check ATM Milano's site for the current lines.
 
-Rideshares and taxis can drop you nearby, but expect a walk for the final stretch as roads close to vehicle traffic. Budget extra time both ways — post-show exit crowds at San Siro are heavy.
+Rideshares and taxis can drop you nearby, but expect a walk for the final stretch as roads close to vehicle traffic. Budget extra time both ways, post-show exit crowds at San Siro are heavy.
 
 ## Tickets and what to expect
 
@@ -82,7 +82,7 @@ Doors usually open well ahead of the headline set to allow for security screenin
 
 A few practical notes that apply to most I-DAYS nights:
 
-- Bag policies tend to be strict — small bags only, no professional cameras.
+- Bag policies tend to be strict, small bags only, no professional cameras.
 - Re-entry is usually not permitted once you leave the festival grounds.
 - Food and drink stalls operate inside, but outside food is typically not allowed in.
 
@@ -90,9 +90,9 @@ A few practical notes that apply to most I-DAYS nights:
 
 Milanese festival-goers treat I-DAYS as a weeknight-friendly outing, not a full-day commitment. Most arrive within an hour or two of doors rather than camping out all afternoon, since the infield is large enough to still get a workable view without an early stakeout.
 
-Payment on-site leans cashless — card and contactless are standard at bars and food stalls, so don't rely on carrying cash all night. Buy tickets only through I-DAYS' official channels or verified resale partners; unofficial resale around San Siro on show nights is common and risky.
+Payment on-site leans cashless, card and contactless are standard at bars and food stalls, so don't rely on carrying cash all night. Buy tickets only through I-DAYS' official channels or verified resale partners; unofficial resale around San Siro on show nights is common and risky.
 
 The mistake most visitors make is underestimating the walk from the metro and the post-show crush back onto Line 5. Leave the site a little before the absolute end if you're metro-dependent, or plan to wait out the initial surge with a drink nearby.
 
-Dress for a genuinely outdoor night — flat, comfortable shoes for standing on grass and gravel, and a jacket for after dark even in early September. Locals also treat the aperitivo bars around Lotto and San Siro as a natural pre-show stop, arriving fed and hydrated rather than relying only on festival food.
+Dress for a genuinely outdoor night, flat, comfortable shoes for standing on grass and gravel, and a jacket for after dark even in early September. Locals also treat the aperitivo bars around Lotto and San Siro as a natural pre-show stop, arriving fed and hydrated rather than relying only on festival food.
 

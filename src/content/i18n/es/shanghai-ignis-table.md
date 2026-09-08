@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-ignis-table
-srcHash: '0a365d0c1eed'
+srcHash: 'bf89fc814434'
 title: 'Ignis Table: dónde comer en Shanghái'
 description: 'Ignis Table en Shanghái, China — un local nuevo y en pleno auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Ignis Table es un restaurante de mesa del chef recién inaugurado en Zhonghua Mansion, dirigido por el chef Julien Xu (ex-Ultraviolet, ex-Rêver), que ofrece un único menú degustación de ¥1,880 centrado en mariscos y pescados de primera calidad. Las plazas son limitadas y se agotan rápido a medida que se corre la voz, así que conviene reservar con bastante antelación y confirmar directamente con el restaurante los horarios vigentes antes de ir.

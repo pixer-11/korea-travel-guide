@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hiroshima-peace-memorial-park-hiroshima
-srcHash: '3713a85b64ec'
+srcHash: 'd6e8205fd0a6'
 title: '평화기념공원: 히로시마 여행 가이드'
 description: 평화기념공원(Peace Memorial Park)은 히로시마 중심부의 삼각주에 자리하고 있으며, 히로시마역(Hiroshima Station)에서 노면전차로 15분 거리에 있습니다.
 quickAnswer: 평화기념공원은 히로시마 중심부의 삼각주에 자리하고 있으며, 히로시마역에서 노면전차로 15분 거리에 있습니다. 공원 내부를 둘러보고 강 건너 원폭 돔(Atomic Bomb Dome)을 보고 평화기념자료관(Peace Memorial Museum)까지 방문하려면 2~3시간 정도 계획하는 것이 좋습니다. 단체 관광객 인파와 여름 더위를 피하려면 이른 아침이나 늦은 오후에 방문하세요. 공원 자체는 무료 입장이며 연중 개방됩니다.

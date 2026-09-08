@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: margilan-silk-factory
-srcHash: '4139da32318a'
+srcHash: '2af37024cbc6'
 title: 丝绸厂：马尔吉兰旅行指南（4.9星）
 description: 马尔吉兰（Margilan）的这家丝绸厂位于市郊的穆斯塔基利克大街（Mustaqillik ko'chasi）上，是一间仍在正常运作的艾德莱斯绸（ikat）作坊，每天上午9点至下午6点开放。若想在费尔干纳谷（Fergana Valley）附近完整观摩从煮茧、手工扎染到木织机织布的全过程，这里是最佳去处。4.9星（113条评价）——看看游客怎么说、开放时间及实用建议。
 quickAnswer: 马尔吉兰（Margilan）的这家丝绸厂位于市郊的穆斯塔基利克大街（Mustaqillik ko'chasi）上，是一间仍在正常运作的艾德莱斯绸（ikat）作坊，每天上午9点至下午6点开放。想在费尔干纳谷（Fergana Valley）附近完整观摩从煮茧、手工扎染到木织机织布的全过程，这里是最佳去处。由于目前知名度还不高，常常能约到小团甚至近乎私人的参观行程。建议预留一小时时间，如果恰逢集市日，不妨顺路去逛逛库姆特帕（Kumtepa）巴扎。

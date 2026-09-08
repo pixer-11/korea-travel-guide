@@ -42,9 +42,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Monza is Formula 1's cathedral of speed — the fastest circuit on the calendar and, alongside Silverstone, one of only two tracks that have hosted a round of the world championship every year since 1950 (bar 1980). The Autodromo Nazionale Monza sits inside the Parco di Monza, a former royal hunting ground, so the paddock, grandstands, and famous Curva Grande and Parabolica corners are wrapped in centuries-old parkland rather than a purpose-built industrial park.
+Monza is Formula 1's cathedral of speed, the fastest circuit on the calendar and, alongside Silverstone, one of only two tracks that have hosted a round of the world championship every year since 1950 (bar 1980). The Autodromo Nazionale Monza sits inside the Parco di Monza, a former royal hunting ground, so the paddock, grandstands, and famous Curva Grande and Parabolica corners are wrapped in centuries-old parkland rather than a purpose-built industrial park.
 
-The Tifosi turn this into a de facto Ferrari home race, and when a red car wins, the podium and the track invasion afterward are genuinely one of the loudest moments in world sport. The 2026 race was set for September 4-6, peak late-summer Lombardy — warm, long days, and the surrounding vineyards and lakes still in season.
+The Tifosi turn this into a de facto Ferrari home race, and when a red car wins, the podium and the track invasion afterward are genuinely one of the loudest moments in world sport. The 2026 race was set for September 4-6, peak late-summer Lombardy, warm, long days, and the surrounding vineyards and lakes still in season.
 
 ## Getting there
 
@@ -60,7 +60,7 @@ A three-day pass covering Friday practice, Saturday qualifying, and Sunday's rac
 
 ## What to see and do beyond the race
 
-The fan zones typically include driver appearances, team merchandise stands, and demo runs. Inside Parco di Monza, the Villa Reale di Monza (a grand 18th-century royal residence) and its gardens are worth a wander if you need a break from the noise. The circuit itself retains ghostly banked curves from the old high-speed oval built in the 1950s, visible from parts of the infield — a good spot for photos away from the main grandstand crowds.
+The fan zones typically include driver appearances, team merchandise stands, and demo runs. Inside Parco di Monza, the Villa Reale di Monza (a grand 18th-century royal residence) and its gardens are worth a wander if you need a break from the noise. The circuit itself retains ghostly banked curves from the old high-speed oval built in the 1950s, visible from parts of the infield, a good spot for photos away from the main grandstand crowds.
 
 In Monza town, the Duomo di Monza houses the Iron Crown of Lombardy, a relic tied to Charlemagne, and makes for an easy half-day detour on a multi-night stay.
 

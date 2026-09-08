@@ -31,9 +31,9 @@ draft: false
 
 ## Why it's the talk of Milan
 
-Every so often a restaurant opening reshuffles the conversation in a city that already has plenty to talk about, and that's what's happening with Langosteria Montenapoleone. The Langosteria group — known across Italy for its seafood-forward menus and its original outpost in the Tortona design district — has taken over space inside Palazzo Fendi, one of the grandest addresses in Milan's fashion quarter.
+Every so often a restaurant opening reshuffles the conversation in a city that already has plenty to talk about, and that's what's happening with Langosteria Montenapoleone. The Langosteria group, known across Italy for its seafood-forward menus and its original outpost in the Tortona design district, has taken over space inside Palazzo Fendi, one of the grandest addresses in Milan's fashion quarter.
 
-Three floors, a rooftop terrace, and the brand's first cocktail bar anywhere: this isn't a satellite branch, it's a statement. You feel that ambition before you've even ordered — it's baked into the address itself.
+Three floors, a rooftop terrace, and the brand's first cocktail bar anywhere: this isn't a satellite branch, it's a statement. You feel that ambition before you've even ordered. It's baked into the address itself.
 
 ## Where it sits: the Quadrilatero della Moda
 
@@ -43,13 +43,13 @@ If you'd rather not walk, the closest metro stop is San Babila on the M1 (red) l
 
 ## What to expect inside
 
-Because the opening is so recent, treat any menu or pricing details you read elsewhere as provisional — the honest move is to check the restaurant's own channels or a trusted booking platform immediately before you visit. What's confirmed is the shape of the place: three distinct floors under one roof, culminating in a rooftop terrace that gives you an elevated vantage over the rooftops and church spires of central Milan, plus a dedicated cocktail bar — a first for the Langosteria name.
+Because the opening is so recent, treat any menu or pricing details you read elsewhere as provisional (the honest move is to check the restaurant's own channels or a trusted booking platform immediately before you visit. What's confirmed is the shape of the place: three distinct floors under one roof, culminating in a rooftop terrace that gives you an elevated vantage over the rooftops and church spires of central Milan, plus a dedicated cocktail bar) a first for the Langosteria name.
 
 Expect the same raw-bar and seafood sensibility that built the group's reputation in Tortona, now translated into a setting dressed by one of fashion's most storied houses.
 
 ## Best time to go
 
-Given the level of buzz around this opening, early evening on a weekday is generally your best bet for a calmer first impression, before the pre-dinner aperitivo crowd thickens around the Quadrilatero. Weekend evenings, especially during Milan Fashion Week or the design fairs each spring, will draw the heaviest demand — if your trip coincides with either, book as far ahead as the reservation system allows.
+Given the level of buzz around this opening, early evening on a weekday is generally your best bet for a calmer first impression, before the pre-dinner aperitivo crowd thickens around the Quadrilatero. Weekend evenings, especially during Milan Fashion Week or the design fairs each spring, will draw the heaviest demand, if your trip coincides with either, book as far ahead as the reservation system allows.
 
 The rooftop terrace is worth timing for golden hour, when the light softens the surrounding stonework, though as with everything here, confirm the terrace is open and operating before you plan around it.
 
@@ -61,6 +61,6 @@ San Babila's metro exits also put you within easy reach of the Duomo and Galleri
 
 ## How to visit like a local
 
-Milanese diners at this level of restaurant almost always book — walk-ins are a gamble you shouldn't take at a newly opened, high-demand address like this one, so reserve online or by phone once the restaurant's booking channel is live and stable. Dress the part: this is the Quadrilatero, where smart-casual leans toward the "smart" end, especially in the evening.
+Milanese diners at this level of restaurant almost always book. Walk-ins are a gamble you shouldn't take at a newly opened, high-demand address like this one, so reserve online or by phone once the restaurant's booking channel is live and stable. Dress the part: this is the Quadrilatero, where smart-casual leans toward the "smart" end, especially in the evening.
 
-Payment across Milan's upscale restaurants is overwhelmingly by card or contactless, though carrying a small amount of cash is still sensible practice anywhere in Italy. Tipping isn't obligatory the way it is in the US — rounding up or leaving a small discretionary amount for good service is the norm rather than a fixed percentage. The mistake visitors make with a buzzy new opening like this is assuming it operates like an old established trattoria; it won't have decades of settled routine yet, so double-check opening days and last-seating times directly with the restaurant, and don't be surprised if hours evolve in the first months after launch.
+Payment across Milan's upscale restaurants is overwhelmingly by card or contactless, though carrying a small amount of cash is still sensible practice anywhere in Italy. Tipping isn't obligatory the way it is in the US, rounding up or leaving a small discretionary amount for good service is the norm rather than a fixed percentage. The mistake visitors make with a buzzy new opening like this is assuming it operates like an old established trattoria; it won't have decades of settled routine yet, so double-check opening days and last-seating times directly with the restaurant, and don't be surprised if hours evolve in the first months after launch.

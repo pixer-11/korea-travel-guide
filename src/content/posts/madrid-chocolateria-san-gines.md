@@ -53,34 +53,34 @@ aiGenerated: true
 draft: false
 ---
 
-You smell it before you see it — hot oil and scorched sugar drifting out of a narrow, glass-roofed passage that most people would walk straight past. Pasadizo de San Ginés is barely wide enough for two people to pass, wedged between Calle Mayor and Calle del Arenal, and at its far end sits a chocolatería that's been frying churros since 1894. The tiled floor, the marble-topped tables, the brass rails on the counter — none of it has been prettied up for Instagram, and it doesn't need to be.
+You smell it before you see it (hot oil and scorched sugar drifting out of a narrow, glass-roofed passage that most people would walk straight past. Pasadizo de San Ginés is barely wide enough for two people to pass, wedged between Calle Mayor and Calle del Arenal, and at its far end sits a chocolatería that's been frying churros since 1894. The tiled floor, the marble-topped tables, the brass rails on the counter) none of it has been prettied up for Instagram, and it doesn't need to be.
 
 ## Why go
 
-This isn't subtle food. A plate of churros — or the thicker, ridged porras, if you ask — arrives hot and faintly greasy, meant for dunking into a cup of chocolate so dense it's closer to melted dark chocolate than any drinking cocoa you've had elsewhere. You stir it once, watch it barely move, and understand why Madrileños have been doing exactly this for over a century.
+This isn't subtle food. A plate of churros (or the thicker, ridged porras, if you ask) arrives hot and faintly greasy, meant for dunking into a cup of chocolate so dense it's closer to melted dark chocolate than any drinking cocoa you've had elsewhere. You stir it once, watch it barely move, and understand why Madrileños have been doing exactly this for over a century.
 
 The waiters, in white jackets and black bowties, move fast between packed tables without ever quite rushing, sliding plates down in front of you almost before you've sat.
 
 ## Getting there
 
-The passage sits right behind the Iglesia de San Ginés, one block from Puerta del Sol and a short walk from Plaza Mayor — you're deep in the Centro district, in the oldest tangle of streets in Madrid. The nearest metro is Sol (Lines 1, 2, and 3), about a 5-minute walk; Ópera (Lines 2 and 5) is almost as close and drops you nearer Calle Arenal's end of the passage.
+The passage sits right behind the Iglesia de San Ginés, one block from Puerta del Sol and a short walk from Plaza Mayor. You're deep in the Centro district, in the oldest tangle of streets in Madrid. The nearest metro is Sol (Lines 1, 2, and 3), about a 5-minute walk; Ópera (Lines 2 and 5) is almost as close and drops you nearer Calle Arenal's end of the passage.
 
-There's no dedicated sign from the main street — look for the crowd and the narrow archway rather than a storefront.
+There's no dedicated sign from the main street. Look for the crowd and the narrow archway rather than a storefront.
 
 ## What to eat
 
-Order is simple: chocolate con churros, or swap in porras for something with more bite and less oil-soaked give. Some regulars order a "mixto," alternating between both. Portions are built for sharing or for one very committed dessert. Nothing on the short menu strays far from this — it's a one-trick establishment, and the trick is very good.
+Order is simple: chocolate con churros, or swap in porras for something with more bite and less oil-soaked give. Some regulars order a "mixto," alternating between both. Portions are built for sharing or for one very committed dessert. Nothing on the short menu strays far from this. It's a one-trick establishment, and the trick is very good.
 
 ## When to go
 
-Because it never closes — this is one of the few Madrid institutions open 24 hours, every day of the week — the timing question isn't about hours, it's about crowds. Being one of the most reviewed food stops in the country, San Ginés rarely has an empty room. Weekend afternoons and early evenings pull the heaviest tourist traffic, with lines spilling into the passage itself.
+Because it never closes (this is one of the few Madrid institutions open 24 hours, every day of the week) the timing question isn't about hours, it's about crowds. Being one of the most reviewed food stops in the country, San Ginés rarely has an empty room. Weekend afternoons and early evenings pull the heaviest tourist traffic, with lines spilling into the passage itself.
 
-Locals and clubgoers have long used it as a 2am or 3am stop after a night out, which is oddly one of the more atmospheric times to go — the room fills with a different crowd, loud and unbothered by the hour. Weekday mid-mornings, roughly 10am to noon, tend to be calmer if you'd rather sit than queue.
+Locals and clubgoers have long used it as a 2am or 3am stop after a night out, which is oddly one of the more atmospheric times to go, the room fills with a different crowd, loud and unbothered by the hour. Weekday mid-mornings, roughly 10am to noon, tend to be calmer if you'd rather sit than queue.
 
 ## How to visit like a local
 
-Skip the idea that this is an undiscovered spot — it isn't, and everyone in Madrid knows it, which is exactly why timing your visit matters more than finding it. If you want a table without a wait, come on a weekday morning before the lunch crowd builds, or after midnight when the queue outside thins even as the room inside stays lively.
+Skip the idea that this is an undiscovered spot. It isn't, and everyone in Madrid knows it, which is exactly why timing your visit matters more than finding it. If you want a table without a wait, come on a weekday morning before the lunch crowd builds, or after midnight when the queue outside thins even as the room inside stays lively.
 
-Waiters will often seat you first and take your order once you're settled; you don't need to flag anyone down aggressively, just make eye contact and wait a beat. Payment is by card or cash, and it's standard to leave small change rather than a large tip. Order in Spanish if you can — "un chocolate con churros, por favor" — though menus and staff are used to English-speaking visitors.
+Waiters will often seat you first and take your order once you're settled; you don't need to flag anyone down aggressively, just make eye contact and wait a beat. Payment is by card or cash, and it's standard to leave small change rather than a large tip. Order in Spanish if you can ("un chocolate con churros, por favor") though menus and staff are used to English-speaking visitors.
 
-The mistake most first-timers make is treating it like a sit-and-linger café; tables turn quickly here, especially when there's a line, so eat, enjoy, and free up your seat rather than nursing the last inch of chocolate for half an hour. And don't overthink the order — this is a one-dish house, and the dish is the reason it has lasted since 1894.
+The mistake most first-timers make is treating it like a sit-and-linger café; tables turn quickly here, especially when there's a line, so eat, enjoy, and free up your seat rather than nursing the last inch of chocolate for half an hour. And don't overthink the order. This is a one-dish house, and the dish is the reason it has lasted since 1894.

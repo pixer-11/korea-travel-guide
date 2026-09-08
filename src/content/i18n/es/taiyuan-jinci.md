@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiyuan-jinci
-srcHash: '96b2ebbd4ac8'
+srcHash: '94487f61fee1'
 title: 'Jinci: guía de viaje de Taiyuan'
 description: Jinci (晋祠) es un extenso complejo de templos de la era Song del Norte situado en el extremo suroccidental de Taiyuan, construido alrededor de un manantial sagrado y un ciprés de 3.000 años de antigüedad.
 quickAnswer: Jinci (晋祠) es un extenso complejo de templos de la era Song del Norte situado en el extremo suroccidental de Taiyuan, construido alrededor de un manantial sagrado y un ciprés de 3.000 años de antigüedad. Conviene reservar entre dos y tres horas para recorrer con calma sus salones, jardines y patios. El lugar sigue estando gratamente libre de aglomeraciones en comparación con los grandes templos emblemáticos de China, así que basta con visitarlo una mañana entre semana para tener muchos rincones casi para uno solo.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-york-strand-bookstore
-srcHash: '867ea5dec9d1'
+srcHash: '171e2a2385ac'
 title: '스트랜드 서점(Strand Bookstore): 뉴욕 여행 가이드 (4.8★)'
 description: 828 브로드웨이(Broadway)에 위치한 스트랜드 서점(18마일에 달하는 책장, East 12th Street 소재)은 매일 오전 10시부터 오후 9시까지 운영됩니다. 4.8★ (리뷰 16,778개) — 방문객들의 후기, 운영시간, 그리고 팁을 소개합니다.
 quickAnswer: 828 브로드웨이(Broadway)에 위치한 스트랜드 서점(18마일에 달하는 책장, East 12th Street 소재)은 매일 오전 10시부터 오후 9시까지 운영됩니다. 주말 정오부터 오후 7시까지가 실제로 가장 혼잡한 시간대이므로, 오픈 직후 아침 시간이나 평일 방문이 가장 여유롭습니다. 최소 한 시간, 제대로 둘러보고 싶다면 세 시간은 잡아두세요. 그리고 지하의 희귀본 서적실(Rare Book Room)과 매장 앞의 빨간 카트로 곧장 가보세요.

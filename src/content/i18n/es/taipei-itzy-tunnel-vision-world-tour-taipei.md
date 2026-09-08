@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-itzy-tunnel-vision-world-tour-taipei
-srcHash: '4d5bc0faba6d'
+srcHash: '44e7e8bdbd31'
 title: 'ITZY TUNNEL VISION World Tour en Taipéi: lo que hay que saber (Taipéi)'
 description: La gira mundial TUNNEL VISION de ITZY tenía previsto pasar por Taipéi el 5 de septiembre de 2026, en el Taipei Arena (台北小巨蛋), con temas del EP Motto de 2026 y grandes éxitos anteriores.
 quickAnswer: La gira mundial TUNNEL VISION de ITZY tenía previsto pasar por Taipéi el 5 de septiembre de 2026, en el Taipei Arena (台北小巨蛋). El concierto se anunció en torno a temas del EP Motto de 2026 del grupo, junto con éxitos anteriores. Las fechas de grandes artistas de K-pop en el Taipei Arena suelen agotar entradas y atraer a grandes multitudes en torno a la estación de metro cercana.

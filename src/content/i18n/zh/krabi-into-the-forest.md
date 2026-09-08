@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: krabi-into-the-forest
-srcHash: 'a60d63b922c7'
+srcHash: '0640033247b7'
 title: 走进森林：甲米旅行指南
 description: Into the Forest（走进森林）是位于甲米镇（Krabi Town）郊外考通（Khao Thong）的一处丛林主题咖啡馆兼拍照胜地——最好选在工作日上午（10点前）或傍晚前往，以避开旅游团人潮和正午强烈的日光。
 quickAnswer: Into the Forest（走进森林）是位于甲米镇（Krabi Town）郊外考通（Khao Thong）的一处丛林主题咖啡馆兼拍照胜地——最好选在工作日上午（10点前）或傍晚前往，以避开旅游团人潮和正午强烈的日光。建议安排1-2小时游览时间，记得带现金支付门票或饮品费用，并可以顺路前往甲米镇夜市或虎穴寺（Wat Tham Sua），因为这里距市中心车程约15-20分钟。这是一处中等价位（中档）场所，消费水平与咖啡馆相当，而非街边小吃的价格。

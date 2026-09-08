@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: khiva-itchan-kala
-srcHash: '09f530a3d6b9'
+srcHash: '3ce2a3ac992f'
 title: 伊钦卡拉(Itchan Kala):希瓦(Khiva)旅行指南(4.7★)
 description: 伊钦卡拉(Itchan Kala)是希瓦(Khiva)的城墙内城，每日9:00–19:00开放，最佳游览时间是清晨——即便在周末，9点到11点这段时间也最为清静，中午之后游客团便会涌满巷道。4.7★（3,939条点评）——游客评价、开放时间与实用建议。
 quickAnswer: 伊钦卡拉(Itchan Kala)是希瓦(Khiva)的城墙内城，每日9:00–19:00开放，最佳游览时间是清晨——即便在周末，9点到11点这段时间也最为清静，中午之后游客团便会涌满巷道。建议安排半天到一整天，才能好好游览卡尔塔米诺尖塔(Kalta Minor)、库尼亚阿尔克城堡(Kunya-Ark)和托什霍夫利宫(Tosh Hovli)。建议在城门处购买联票，而不是每个景点分别买票。

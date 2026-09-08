@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: little-india-chola-cafe-biryani-house-best-biryani-in-singapore
-srcHash: '4e4dce7071cc'
+srcHash: 'db0d6c015a28'
 title: '촐라 카페 비리야니 하우스 - 싱가포르 최고의 비리야니: 리틀 인디아 여행 가이드'
 description: 촐라 카페 비리야니 하우스(Chola Cafe - Biryani House)는 리틀 인디아(Little India)의 한적한 골목에 자리하고 있으며, 리틀 인디아 MRT역(Exit E)에서 도보로 가까운 거리에 있습니다. 대기 없이 자리를 잡으려면 점심 피크 시간을 살짝 비켜 방문하는 것이 좋습니다(오픈 직후인 12시 10분, 또는 오후 1시 30분 이후).
 quickAnswer: 촐라 카페 비리야니 하우스(Chola Cafe - Biryani House)는 리틀 인디아(Little India)의 한적한 골목에 자리하고 있으며, 리틀 인디아 MRT역(Exit E)에서 도보로 가까운 거리에 있습니다. 대기 없이 자리를 잡으려면 점심 피크 시간을 살짝 비켜 방문하는 것이 좋습니다(오픈 직후인 12시 10분, 또는 오후 1시 30분 이후). 라이타(raita)와 브린잘(brinjal) 커리가 곁들여지는 슬로우 쿡 머튼 또는 치킨 비리야니를 맛보러 오는 곳으로, 세련된 다이닝룸보다는 꾸밈없는 식당 같은 분위기를 예상하면 된다. 세랑군 로드(Serangoon Road)의 줄이 긴 유명 맛집 대신 잘 알려지지 않은 비리야니 맛집을 찾는다면 강력히 추천할 만한 곳이다.

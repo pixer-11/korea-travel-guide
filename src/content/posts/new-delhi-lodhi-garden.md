@@ -76,7 +76,7 @@ draft: false
 
 Lodhi Garden is where Delhi comes to breathe. Domed tombs older than the Mughal Empire rise straight out of manicured lawns, with no ticket booth and no velvet rope separating you from 500-year-old sandstone.
 
-It's not a quiet secret — this is one of the most-visited green spaces in the capital, and the paths fill with walkers, yoga groups and photographers from mid-morning on. What makes it work anyway is scale: 90 acres is enough room for a jogger, a historian, and a couple sharing a flask of chai to each find their own patch of grass.
+It's not a quiet secret. This is one of the most-visited green spaces in the capital, and the paths fill with walkers, yoga groups and photographers from mid-morning on. What makes it work anyway is scale: 90 acres is enough room for a jogger, a historian, and a couple sharing a flask of chai to each find their own patch of grass.
 
 ## What you'll actually see
 
@@ -94,7 +94,7 @@ Give yourself 1.5 to 2 hours if you want to actually stop at each tomb rather th
 
 The park sits between Khan Market and Safdarjung's Tomb, in the Lodhi Estate area of central Delhi. The nearest metro is Jorbagh on the Yellow Line, about a 15-20 minute walk, or a short auto-rickshaw ride from the station exit.
 
-Khan Market metro station, also Violet Line-adjacent, is another option if you want to combine the visit with lunch or bookshop browsing at Khan Market afterward. There are multiple entry gates — the ones on Lodhi Road and near Khan Market see the heaviest foot traffic.
+Khan Market metro station, also Violet Line-adjacent, is another option if you want to combine the visit with lunch or bookshop browsing at Khan Market afterward. There are multiple entry gates, the ones on Lodhi Road and near Khan Market see the heaviest foot traffic.
 
 ## When to go
 
@@ -102,18 +102,18 @@ The garden opens at 5am and closes at 8pm every day of the week, with no separat
 
 On weekdays, foot traffic stays lowest between 7am and 10am. Weekends are even more particular: the quiet window shrinks to 7am-8am before crowds build steadily, with the heaviest rush from 1pm through closing.
 
-If you're visiting between April and September, morning is also simply more bearable — Delhi afternoons in that stretch run brutally hot, and the lawns offer little shade past 11am.
+If you're visiting between April and September, morning is also simply more bearable, Delhi afternoons in that stretch run brutally hot, and the lawns offer little shade past 11am.
 
 ## How to visit like a local
 
 Entry is free and there's no ticket counter to navigate, so the only real decision is timing. Skip the 1pm-8pm weekend crush entirely if you can; aim instead for a weekday morning between 7 and 10am, when the paths belong mostly to regular walkers doing laps rather than tour groups.
 
-- Wear shoes you don't mind getting grass-stained — the interiors of some tombs have uneven, unlit stone floors
+- Wear shoes you don't mind getting grass-stained. The interiors of some tombs have uneven, unlit stone floors
 - Carry water; there are some fountains inside but they're not always reliable
 - Photography is unrestricted at the monuments, but tripods and drones typically require prior permission
 - Vendors don't operate inside the gates, so eat before or after, not during
 
-The most common mistake visitors make is treating this as a quick 20-minute photo stop between Humayun's Tomb and Safdarjung's Tomb. The tombs themselves are compact, but the garden setting is the actual point — locals come to walk, sit, read, and let dogs off leash in the early hours, not to rush between monuments.
+The most common mistake visitors make is treating this as a quick 20-minute photo stop between Humayun's Tomb and Safdarjung's Tomb. The tombs themselves are compact, but the garden setting is the actual point, locals come to walk, sit, read, and let dogs off leash in the early hours, not to rush between monuments.
 
 Come dressed for walking rather than sightseeing, bring a book or nothing at all, and let the pace of the place set your own.
 

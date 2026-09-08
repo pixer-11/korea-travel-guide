@@ -69,15 +69,15 @@ draft: false
 
 ## Why go
 
-Luli Island isn't really an island — it's a sandbar that surfaces and vanishes with the tide. At low tide, a long tongue of pale sand stretches out into water so shallow and clear you can see your own shadow on the seabed. At high tide, much of that sand disappears, leaving just a small mound with a few nipa huts on stilts. That transformation is the whole point of visiting.
+Luli Island isn't really an island. It's a sandbar that surfaces and vanishes with the tide. At low tide, a long tongue of pale sand stretches out into water so shallow and clear you can see your own shadow on the seabed. At high tide, much of that sand disappears, leaving just a small mound with a few nipa huts on stilts. That transformation is the whole point of visiting.
 
-The water around it runs through a gradient of turquoise to deep blue, and the shallows are warm enough to wade in without flinching. Bring a mask if you have one — small reef fish gather near the huts and along the sandbar's edges.
+The water around it runs through a gradient of turquoise to deep blue, and the shallows are warm enough to wade in without flinching. Bring a mask if you have one, small reef fish gather near the huts and along the sandbar's edges.
 
 ## Getting there
 
 Luli Island sits within Honda Bay, a cluster of small islands northeast of Puerto Princesa City proper. Almost everyone reaches it by outrigger boat from Santa Lourdes Wharf, about a 20-minute tricycle or van ride from downtown Puerto Princesa.
 
-From the wharf, it's roughly a 30–40 minute boat crossing. Most visitors don't book Luli Island alone — it's typically bundled into an Honda Bay island-hopping package that also stops at Cowrie Island, Starfish Island, or Pandan Island.
+From the wharf, it's roughly a 30–40 minute boat crossing. Most visitors don't book Luli Island alone. It's typically bundled into an Honda Bay island-hopping package that also stops at Cowrie Island, Starfish Island, or Pandan Island.
 
 - Tricycle or Grab from the city to Santa Lourdes Wharf
 - Register at the tourism booth and pay the environmental fee
@@ -88,13 +88,13 @@ From the wharf, it's roughly a 30–40 minute boat crossing. Most visitors don't
 
 There isn't infrastructure to fill a whole day here, and that's the appeal. You walk the sandbar, wade into the shallows, take photos from the small viewing area, and relax under one of the shaded nipa huts.
 
-Snorkeling gear can usually be rented on-site or arranged through your boat operator in advance. Some tours pause at Luli Island for an hour, others longer — ask your boatman before you land so you can pace yourself.
+Snorkeling gear can usually be rented on-site or arranged through your boat operator in advance. Some tours pause at Luli Island for an hour, others longer. Ask your boatman before you land so you can pace yourself.
 
 There's a small entrance or environmental fee collected on the island itself, separate from the Puerto Princesa eco-tourism fee paid before boarding. Bring small bills, since change on a floating sandbar is limited.
 
 ## When to go
 
-Luli Island is accessible 24 hours a day, but boats only run during daylight tour hours — nobody's crossing Honda Bay at midnight. Time your visit around the tide chart if you want the full sandbar experience, since at high tide there's barely any beach to stand on.
+Luli Island is accessible 24 hours a day, but boats only run during daylight tour hours, nobody's crossing Honda Bay at midnight. Time your visit around the tide chart if you want the full sandbar experience, since at high tide there's barely any beach to stand on.
 
 Weekends get busy between 8am and 3pm, when most tour groups converge here at once. If you can, ask your operator for an early morning departure, before the first wave of boats arrives.
 
@@ -104,18 +104,18 @@ Luli Island isn't a well-known name outside Palawan travel circles, so it stays 
 
 - Ask for a 7am–8am pickup from the wharf to beat the 8am–3pm weekend rush
 - Pay your Puerto Princesa eco-tourism fee at the city tourism office or wharf booth in cash
-- Tip your boat crew directly in cash at the end of the trip — it's the norm, not an obligation written anywhere
+- Tip your boat crew directly in cash at the end of the trip. It's the norm, not an obligation written anywhere
 - Check the tide schedule the night before; a high-tide arrival means a much smaller sandbar
-- The evening lull, 9pm–11pm, only applies if you're overnighting nearby — most day-trippers never see the island this calm since boats stop running by late afternoon
+- The evening lull, 9pm–11pm, only applies if you're overnighting nearby, most day-trippers never see the island this calm since boats stop running by late afternoon
 
-The biggest mistake visitors make is treating Luli Island as a standalone destination worth a dedicated trip. It's a short, worthwhile pause within a longer Honda Bay itinerary — plan your day around the whole bay, not just this one sandbar.
+The biggest mistake visitors make is treating Luli Island as a standalone destination worth a dedicated trip. It's a short, worthwhile pause within a longer Honda Bay itinerary. Plan your day around the whole bay, not just this one sandbar.
 
 ## Nearby stops worth combining
 
 Since you're already on a boat, pair Luli Island with at least one more stop.
 
-- Starfish Island — shallow water genuinely scattered with starfish
-- Cowrie Island — a proper beach with food stalls and longer stay time
-- Pandan Island — quieter, better for snorkeling over coral
+- Starfish Island, shallow water genuinely scattered with starfish
+- Cowrie Island, a proper beach with food stalls and longer stay time
+- Pandan Island, quieter, better for snorkeling over coral
 
 Most operators build a two- or three-island loop into a single half-day or full-day rate, so it's worth comparing what's included before you book.

@@ -81,15 +81,15 @@ draft: false
 ---
 ## Why go
 
-Central Park isn't a garden bolted onto Manhattan — it's 843 acres carved out of the island before the city grew up around it, and that inversion still shapes how it feels. You step off Fifth Avenue or Central Park West, past a low stone wall, and the traffic noise drops away within a few dozen steps. Frederick Law Olmsted and Calvert Vaux designed it in the 1850s and 60s to give a fast-growing, brick-and-stone city something it didn't have: open sky, water, and winding paths with no straight lines.
+Central Park isn't a garden bolted onto Manhattan. It's 843 acres carved out of the island before the city grew up around it, and that inversion still shapes how it feels. You step off Fifth Avenue or Central Park West, past a low stone wall, and the traffic noise drops away within a few dozen steps. Frederick Law Olmsted and Calvert Vaux designed it in the 1850s and 60s to give a fast-growing, brick-and-stone city something it didn't have: open sky, water, and winding paths with no straight lines.
 
-That design logic — curving drives, sunken transverse roads so cross-town traffic disappears underground, "the Ramble" laid out to feel wilder than it is — is still the reason the park doesn't feel like a plaza with trees. It feels like terrain.
+That design logic (curving drives, sunken transverse roads so cross-town traffic disappears underground, "the Ramble" laid out to feel wilder than it is) is still the reason the park doesn't feel like a plaza with trees. It feels like terrain.
 
 ## Getting there
 
-The park runs from 59th Street up to 110th Street, and it's genuinely huge, so where you enter matters more than "going to Central Park" as a single destination. For the classic postcard stretch — Bethesda Terrace, the Mall's elm-lined promenade, the Lake and Bow Bridge — enter at 72nd Street from either Fifth Avenue (east) or Central Park West (west); the B/C train's 72nd St station drops you two blocks from the west entrance.
+The park runs from 59th Street up to 110th Street, and it's genuinely huge, so where you enter matters more than "going to Central Park" as a single destination. For the classic postcard stretch (Bethesda Terrace, the Mall's elm-lined promenade, the Lake and Bow Bridge) enter at 72nd Street from either Fifth Avenue (east) or Central Park West (west); the B/C train's 72nd St station drops you two blocks from the west entrance.
 
-For the Central Park Zoo and the carousel, use the entrance at 5th Avenue and 64th Street, a short walk from the N/R/W at 5th Ave–59th St. Heading for the Reservoir's running loop, enter around 90th Street on either side. The park is open long hours every day, so early starts and evening strolls are both fair game — just note that after dark it's better stuck to the lit, populated paths near the transverse roads rather than the interior.
+For the Central Park Zoo and the carousel, use the entrance at 5th Avenue and 64th Street, a short walk from the N/R/W at 5th Ave–59th St. Heading for the Reservoir's running loop, enter around 90th Street on either side. The park is open long hours every day, so early starts and evening strolls are both fair game, just note that after dark it's better stuck to the lit, populated paths near the transverse roads rather than the interior.
 
 ## What to see and do
 
@@ -99,14 +99,14 @@ Kids gravitate to the 1908 carousel and the Central Park Zoo near the 64th Stree
 
 ## When to go
 
-Given the park's 6am–1am hours, an early-morning visit — say 7 to 9am — gets you the Ramble and the Mall with joggers and dog-walkers for company rather than crowds, and the light through the trees is at its best. On weekends, the busiest window runs from around noon to 7pm, when the Sheep Meadow fills with picnic blankets and the paths near Bethesda Terrace bottleneck with tour groups; if you can, shift a weekend visit to before 11am or after dinner.
+Given the park's 6am–1am hours, an early-morning visit, say 7 to 9am, gets you the Ramble and the Mall with joggers and dog-walkers for company rather than crowds, and the light through the trees is at its best. On weekends, the busiest window runs from around noon to 7pm, when the Sheep Meadow fills with picnic blankets and the paths near Bethesda Terrace bottleneck with tour groups; if you can, shift a weekend visit to before 11am or after dinner.
 
 Spring (cherry blossoms near the Reservoir) and autumn (foliage along the Mall) are the most photographed seasons, but summer evenings bring free Shakespeare in the Park performances and Central Park is at its most alive, if also its most crowded, in daylight hours.
 
 ## How to visit like a local
 
-New Yorkers treat Central Park as infrastructure, not a sight — a place to cut through, run laps, or eat a bodega sandwich on a bench, not linger over. Given how popular it is, the real trick is timing: aim for that 7–11am window on any day of the week, when the paths are shared mostly with runners rather than tour groups.
+New Yorkers treat Central Park as infrastructure, not a sight, a place to cut through, run laps, or eat a bodega sandwich on a bench, not linger over. Given how popular it is, the real trick is timing: aim for that 7–11am window on any day of the week, when the paths are shared mostly with runners rather than tour groups.
 
-There's no admission fee and no gate to queue at (the Zoo and a few attractions inside charge separately), so there's nothing to book — just pick an entrance and walk in. Skip the pedicabs idling near the southern entrances, which charge tourist rates for routes you can walk in the same time; if your legs are tired, Citi Bike docks are scattered throughout.
+There's no admission fee and no gate to queue at (the Zoo and a few attractions inside charge separately), so there's nothing to book, just pick an entrance and walk in. Skip the pedicabs idling near the southern entrances, which charge tourist rates for routes you can walk in the same time; if your legs are tired, Citi Bike docks are scattered throughout.
 
-The most common visitor mistake is trying to "do" the whole park in one walk — it's easier, and more true to how locals use it, to pick one section (the southern loop around the Lake, or the Reservoir up north) rather than attempting a top-to-bottom trek.
+The most common visitor mistake is trying to "do" the whole park in one walk. It's easier, and more true to how locals use it, to pick one section (the southern loop around the Lake, or the Reservoir up north) rather than attempting a top-to-bottom trek.

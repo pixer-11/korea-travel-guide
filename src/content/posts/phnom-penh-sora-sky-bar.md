@@ -34,19 +34,19 @@ You feel Sora before you see the skyline. The lift doors open high above Phnom P
 
 ## Why Sora Sky Bar matters right now
 
-This isn't just another hotel rooftop with a view. Sora was named to Asia's 50 Best Bars list, a list that shapes where serious drinkers plan their trips around. It also won a Sustainable Bar Award, which is rarer air — most rooftop bars chase spectacle, not sourcing or waste reduction.
+This isn't just another hotel rooftop with a view. Sora was named to Asia's 50 Best Bars list, a list that shapes where serious drinkers plan their trips around. It also won a Sustainable Bar Award, which is rarer air, most rooftop bars chase spectacle, not sourcing or waste reduction.
 
-Together those two honors have made Sora the reference point for Cambodia's bar scene. Locals and expats talk about it the way Bangkok drinkers talk about their skybars — as a marker of the city's arrival, not just a nice night out.
+Together those two honors have made Sora the reference point for Cambodia's bar scene. Locals and expats talk about it the way Bangkok drinkers talk about their skybars, as a marker of the city's arrival, not just a nice night out.
 
 ## What the experience actually feels like
 
-The draw is elevation paired with craft. You're looking down on the confluence where the Tonle Sap and Mekong rivers meet, the water catching gold and then bruise-purple as the sun drops. Below, the grid of Phnom Penh's streets flickers on — tuk-tuk headlights, temple spires, the low sprawl of a capital that hasn't gone vertical anywhere else.
+The draw is elevation paired with craft. You're looking down on the confluence where the Tonle Sap and Mekong rivers meet, the water catching gold and then bruise-purple as the sun drops. Below, the grid of Phnom Penh's streets flickers on, tuk-tuk headlights, temple spires, the low sprawl of a capital that hasn't gone vertical anywhere else.
 
 Inside that setting, the bar leans into technique. A Sustainable Bar Award means the team is thinking about local ingredients, reduced waste, and thoughtful sourcing rather than just imported syrups and novelty garnishes. Expect a cocktail list that changes with some regularity, built around craft and presentation rather than volume.
 
 ## Getting there
 
-Rosewood Phnom Penh sits on Sothearos Boulevard, close to the riverfront and an easy tuk-tuk or ride-hail trip from most central hotels. Tell your driver "Rosewood Hotel" — it's a recognizable landmark and everyone in the trade knows it.
+Rosewood Phnom Penh sits on Sothearos Boulevard, close to the riverfront and an easy tuk-tuk or ride-hail trip from most central hotels. Tell your driver "Rosewood Hotel". It's a recognizable landmark and everyone in the trade knows it.
 
 Because it's a hotel rooftop, you'll pass through the lobby and take a dedicated lift up. Give yourself extra time for security and check-in at busy hours, especially around sunset when demand peaks.
 
@@ -56,19 +56,19 @@ Sora's fame is recent and still climbing, so hours, dress code, and reservation 
 
 A few practical notes to work with:
 
-- Sunset is the peak moment — arrive with light still in the sky, not after dark
+- Sunset is the peak moment. Arrive with light still in the sky, not after dark
 - Weekends and evenings following any awards news tend to fill fastest
 - Smart-casual is a safe bet for a hotel rooftop of this caliber
 - Menu items and prices weren't confirmed here, so check on arrival or via the hotel
 
 ## How to visit like a local
 
-Book ahead. A bar with this much recent recognition — an Asia's 50 Best nod and a sustainability award in the same cycle — draws both destination drinkers and locals wanting to see what the fuss is about, so walk-ins risk a long wait or a full room.
+Book ahead. A bar with this much recent recognition, an Asia's 50 Best nod and a sustainability award in the same cycle, draws both destination drinkers and locals wanting to see what the fuss is about, so walk-ins risk a long wait or a full room.
 
 Aim for a weekday visit if your schedule allows it. Weekend evenings are when the bar draws its heaviest crowd, especially right after sunset when everyone wants the same table by the glass.
 
-Order something from the current seasonal or signature list rather than a standard call drink — that's where the sustainable-sourcing story and the bartenders' craft actually show up. Ask your server what's new; lists at award-recognized bars turn over.
+Order something from the current seasonal or signature list rather than a standard call drink. That's where the sustainable-sourcing story and the bartenders' craft actually show up. Ask your server what's new; lists at award-recognized bars turn over.
 
-Tip in cash if you want to be certain it reaches your server directly, though card payment is standard at a Rosewood property. Dress a notch smarter than you would for a riverside bar — this is a hotel flagship, not a backpacker rooftop.
+Tip in cash if you want to be certain it reaches your server directly, though card payment is standard at a Rosewood property. Dress a notch smarter than you would for a riverside bar. This is a hotel flagship, not a backpacker rooftop.
 
 Finally, treat the view as the opening act, not the whole show. The reason Sora keeps winning awards is the bar program behind it, so budget time to actually sit with a drink rather than snapping a photo and moving on.

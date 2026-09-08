@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-middle-east-film-comic-con-mefcc-2026
-srcHash: '781134f0b80a'
+srcHash: 'a696ca22d11e'
 title: '중동 필름 & 코믹콘(MEFCC) 2026: 일정, 티켓, 행사장 안내 (아부다비)'
 description: 아랍에미리트 아부다비에서 2026년 9월 11일부터 13일까지 열리는 중동 필름 & 코믹콘(MEFCC) 2026 — 행사 소개와 일정, 장소, 그리고 방문 계획을 세우는 방법을 안내합니다.
 quickAnswer: 중동 필름 & 코믹콘(MEFCC) 2026은 2026년 9월 11일부터 13일까지 ADNEC 센터 아부다비(ADNEC Centre Abu Dhabi)에서 열리며, 이번이 이 팝컬처 컨벤션의 14번째 행사입니다. ADNEC의 전시홀 곳곳에서 셀럽 게스트 패널, 코스프레 경연, 게임 존, 아티스트 앨리 부스 등을 만나볼 수 있습니다. 정확한 홀 번호, 게스트 라인업, 티켓 등급은 여행을 예약하기 전에 MEFCC 공식 웹사이트에서 확인하시기 바랍니다.

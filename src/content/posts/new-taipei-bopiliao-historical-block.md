@@ -59,7 +59,7 @@ This isn't a museum behind glass. It's an actual lane, Kangding Road's Lane 173,
 
 Bopiliao is in Wanhua District, Taipei City proper, a few minutes' walk from Longshan Temple MRT Station (Blue Line), Exit 3. From there, follow signs toward Guangzhou Street and you'll see the arcaded facades open up on your left.
 
-It's also an easy add-on if you're already at Longshan Temple or browsing Huaxi Street Night Market — all three sit within a ten-minute radius on foot.
+It's also an easy add-on if you're already at Longshan Temple or browsing Huaxi Street Night Market. All three sit within a ten-minute radius on foot.
 
 ## What to see
 
@@ -70,15 +70,15 @@ Look for:
 - The distinctive red-brick arcaded walkway (fine on rainy days)
 - Preserved wooden shutters and beam construction in the Japanese-period shops
 - Rotating exhibitions inside the education center, often tied to Taipei's neighborhood history
-- Old street-level details — door hinges, tile work, painted signage — that reward slow walking rather than a quick pass-through
+- Old street-level details (door hinges, tile work, painted signage) that reward slow walking rather than a quick pass-through
 
 Budget 45 minutes for a walk-through, closer to 90 if an exhibition catches you.
 
 ## When to go
 
-The block is genuinely busy — it's one of Wanhua's most-visited heritage sites, and weekends bring steady streams of visitors alongside school groups on weekdays. There's no way to have it to yourself, so timing matters more than luck.
+The block is genuinely busy. It's one of Wanhua's most-visited heritage sites, and weekends bring steady streams of visitors alongside school groups on weekdays. There's no way to have it to yourself, so timing matters more than luck.
 
-It's closed Mondays. Tuesday through Sunday it runs 9am to 6pm, so plan around those hours — arriving near closing means exhibition rooms may already be winding down.
+It's closed Mondays. Tuesday through Sunday it runs 9am to 6pm, so plan around those hours, arriving near closing means exhibition rooms may already be winding down.
 
 ## How to visit like a local
 
@@ -86,20 +86,20 @@ Arrive right at 9am on a weekday, ideally Tuesday to Thursday. This is when tour
 
 Since it's a well-visited, well-known stop rather than a quiet find, the real strategy is avoiding the crush rather than pretending you'll have it alone.
 
-- Skip Saturday afternoons entirely — that's when it fills fastest
+- Skip Saturday afternoons entirely. That's when it fills fastest
 - Entry to the outdoor block is free; exhibitions inside may occasionally have small fees or special hours, so check signage at the entrance
-- No need to book — this is a walk-in, walk-through site
+- No need to book. This is a walk-in, walk-through site
 - Combine it with Longshan Temple first (mornings there are calmer too), then walk over
-- Locals treat it as a shortcut and photo backdrop as much as a heritage site — don't be surprised to see it woven into daily foot traffic rather than roped off like a formal attraction
+- Locals treat it as a shortcut and photo backdrop as much as a heritage site. Don't be surprised to see it woven into daily foot traffic rather than roped off like a formal attraction
 
-Bring a bit of patience for photos — the arcades are narrow, and everyone wants the same angle down the colonnade. Early morning light solves that problem better than any composition trick.
+Bring a bit of patience for photos. The arcades are narrow, and everyone wants the same angle down the colonnade. Early morning light solves that problem better than any composition trick.
 
 ## Nearby to pair it with
 
 Because Bopiliao is compact, it works best as one stop on a Wanhua half-day rather than a destination on its own.
 
-- **Longshan Temple** — a five-minute walk, and the area's spiritual and architectural anchor
-- **Huaxi Street Night Market** — closer to an evening visit, so save it for later in the day
-- **Herb Alley (Xichang Street)** — traditional medicine shops just beyond the temple, good for a slower browse
+- **Longshan Temple**, a five-minute walk, and the area's spiritual and architectural anchor
+- **Huaxi Street Night Market**, closer to an evening visit, so save it for later in the day
+- **Herb Alley (Xichang Street)**, traditional medicine shops just beyond the temple, good for a slower browse
 
 Wanhua rewards this kind of stacking: old temple, old block, old market, all within a compact, walkable pocket of the city that still functions as a working neighborhood rather than a preserved-for-tourists set piece.

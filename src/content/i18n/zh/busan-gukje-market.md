@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: busan-gukje-market
-srcHash: 'd9fd34fa54af'
+srcHash: 'ae56e2294d21'
 title: 国际市场:釜山旅行指南
 description: 国际市场（Gukje Market）位于釜山中区，是一处规模庞大的战后市场，最适合徒步游览1.5-2小时，最好选在傍晚时分，此时小吃摊陆续开张。
 quickAnswer: 国际市场（Gukje Market）位于釜山中区（Jung-gu），是一处规模庞大的战后市场，最适合徒步游览1.5-2小时，最好选在傍晚时分，此时小吃摊陆续开张。乘坐釜山地铁1号线到札嘎其站（Jagalchi Station，3号出口）或南浦站（Nampo Station，3号出口），然后往内陆方向步行约5-10分钟即可到达。可以将其与相邻的富平罐头市场（Bupyeong Kkangtong Market，夜间美食小巷）和南浦洞串联起来，安排一个半天的游览行程。

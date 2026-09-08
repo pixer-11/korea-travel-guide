@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: east-rutherford-bruno-mars-the-romantic-tour
-srcHash: '73cc9d361121'
+srcHash: 'd0468a2579dd'
 title: 布鲁诺·马尔斯《浪漫巡演》须知（东卢瑟福）
 description: 布鲁诺·马尔斯《浪漫巡演》原定于2026年8月21日至26日在新泽西州东卢瑟福的大都会人寿体育场举行。以下是官方公布的演出安排及场馆信息。
 quickAnswer: 布鲁诺·马尔斯《浪漫巡演》原定于2026年8月21日至26日在新泽西州东卢瑟福的大都会人寿体育场连演六场。此次巡演承诺打造体育场规模的制作，围绕《Die with a Smile》《APT.》等近期热门单曲展开。门票通过Ticketmaster平台发售。前往体育场可搭乘新泽西交通局（NJ Transit）的梅多兰兹铁路线（Meadowlands Rail Line），场馆的停车位则需要提前购买停车证。

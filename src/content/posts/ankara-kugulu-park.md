@@ -130,7 +130,7 @@ Kızılay and the Tunalı Hilmi Caddesi shopping strip are both within easy walk
 
 Kuğulu Park sits right on Tunalı Hilmi Caddesi in Çankaya, one of Ankara's most walkable and well-known streets. If you're coming by Ankara Metro, the Kızılay interchange (M1/M2/M3/A1) is the nearest major hub, followed by a 15–20 minute walk or a short taxi ride up Tunalı Hilmi.
 
-Buses running along Tunalı Hilmi Caddesi also stop within a couple of minutes' walk of the park. Because it sits mid-street rather than tucked away, it's hard to miss once you're in the area — the cluster of trees and the pond are visible from the road.
+Buses running along Tunalı Hilmi Caddesi also stop within a couple of minutes' walk of the park. Because it sits mid-street rather than tucked away, it's hard to miss once you're in the area. The cluster of trees and the pond are visible from the road.
 
 ## When to go
 
@@ -144,8 +144,8 @@ Try to avoid weekend afternoons and evenings, when the park fills with families,
 
 Kuğulu Park is genuinely one of the most-visited green spaces in the city, not a quiet secret, so plan around the crowds rather than expecting solitude. Aim for that early weekday window if you want the pond to yourself.
 
-There's no admission fee and no ticket booth — you simply walk in from any of the entrances along Tunalı Hilmi Caddesi. Feeding the birds is common, but stick to appropriate food rather than bread scraps, which locals increasingly avoid using.
+There's no admission fee and no ticket booth, you simply walk in from any of the entrances along Tunalı Hilmi Caddesi. Feeding the birds is common, but stick to appropriate food rather than bread scraps, which locals increasingly avoid using.
 
-Cafés bordering the park operate independently, so if you sit down for tea or coffee, pay that vendor directly — cash and card are both widely accepted in this part of Ankara. The mistake visitors often make is treating this as a half-day destination; it's really a 30–45 minute stop best combined with a walk down Tunalı Hilmi for shopping or a meal afterward.
+Cafés bordering the park operate independently, so if you sit down for tea or coffee, pay that vendor directly, cash and card are both widely accepted in this part of Ankara. The mistake visitors often make is treating this as a half-day destination; it's really a 30–45 minute stop best combined with a walk down Tunalı Hilmi for shopping or a meal afterward.
 
-Dress for a stroll rather than a hike — the paths are paved and flat, fully accessible, and shaded enough for a comfortable walk even in the warmer months.
+Dress for a stroll rather than a hike. The paths are paved and flat, fully accessible, and shaded enough for a comfortable walk even in the warmer months.

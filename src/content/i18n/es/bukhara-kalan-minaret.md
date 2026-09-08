@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-kalan-minaret
-srcHash: '8fb452409e03'
+srcHash: '19f57bfc55e2'
 title: 'Minarete Kalán: Guía de viaje de Bujará (4,8★)'
 description: 'El minarete Kalán se eleva 48 metros sobre el casco antiguo de Bujará, en Khakikat Str. 9, junto a la mezquita Kalán y la madraza Mir-i-Arab. 4,8★ (2.004 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El minarete Kalán se eleva 48 metros sobre el casco antiguo de Bujará, en Khakikat Str. 9, junto a la mezquita Kalán y la madraza Mir-i-Arab. Al estar al aire libre y abierto las 24 horas, conviene ir entre las 7:00 y las 10:00, el tramo más tranquilo tanto en días de semana como en fines de semana, antes de que los autobuses turísticos llenen la plaza a partir de la 1 de la tarde. Lleva un objetivo gran angular o simplemente echa la cabeza hacia atrás: el minarete se aprecia mejor desde el suelo, ya que no se puede subir.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-ther
-srcHash: '34ed6f4ee049'
+srcHash: '66e2d5283ecf'
 title: 'ÆTHER: guía de viaje de Bangkok'
 description: 'ÆTHER en Bangkok, Tailandia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: ÆTHER es un bar de cócteles en la azotea, en el piso 44 de Dusit Central Park, la nueva torre de uso mixto en Silom/Rama IV donde antes se encontraba el antiguo Dusit Thani. Vale la pena ir por las vistas de 360 grados sobre el parque Lumpini (Lumpini Park) y el horizonte de Bangkok, por su interior minimalista construido alrededor de un enorme altavoz plateado, y por una carta de bebidas pensada para cambiar de carácter a medida que avanza la noche. Es un lugar recién inaugurado y muy de moda, así que reserva con antelación y confirma el horario actual antes de ir.

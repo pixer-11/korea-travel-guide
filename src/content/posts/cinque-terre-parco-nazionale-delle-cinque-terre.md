@@ -111,13 +111,13 @@ updatedDate: '2026-08-31'
 
 Five villages, one impossibly steep coastline, and almost no flat ground anywhere. That's the whole premise of Cinque Terre, and it works.
 
-Houses in ochre, salmon and faded turquoise stack up the hillsides above the Ligurian Sea like they're bracing against the wind. Terraced vineyards, held up by centuries of dry-stone walls, wedge themselves into every gap between rock and village. There's no single "entrance" — the park is the coastline itself, protected since 1999, stretching from Monterosso al Mare down to Riomaggiore.
+Houses in ochre, salmon and faded turquoise stack up the hillsides above the Ligurian Sea like they're bracing against the wind. Terraced vineyards, held up by centuries of dry-stone walls, wedge themselves into every gap between rock and village. There's no single "entrance". The park is the coastline itself, protected since 1999, stretching from Monterosso al Mare down to Riomaggiore.
 
 ## Getting there and around
 
 Most visitors base themselves in La Spezia or Levanto and ride the local train, which hops between all five villages in a few minutes each.
 
-Driving in isn't really an option — village centers are closed to outside cars, and parking is scarce and expensive. The train is cheap, frequent, and the honest local way to move around.
+Driving in isn't really an option, village centers are closed to outside cars, and parking is scarce and expensive. The train is cheap, frequent, and the honest local way to move around.
 
 A Cinque Terre park card (sold at stations) covers trail access and unlimited train travel between villages for the day. Ferries also connect four of the five villages seasonally, weather permitting, and give you the classic cliffs-from-the-water view you won't get from land.
 
@@ -125,17 +125,17 @@ A Cinque Terre park card (sold at stations) covers trail access and unlimited tr
 
 Each village has its own personality, and you feel the shift the moment you step off the train.
 
-- **Monterosso** — the only one with a real sandy beach; good for a swim between hikes.
-- **Vernazza** — a tiny harbor ringed by pastel houses, often called the prettiest of the five.
-- **Corniglia** — perched on a cliff with no seafront, reached by a long staircase or shuttle bus.
-- **Manarola** — famous at sunset, when the cliffside houses glow orange over the water.
-- **Riomaggiore** — the liveliest evening spot, with narrow lanes stacked above the harbor.
+- **Monterosso**, the only one with a real sandy beach; good for a swim between hikes.
+- **Vernazza**, a tiny harbor ringed by pastel houses, often called the prettiest of the five.
+- **Corniglia**, perched on a cliff with no seafront, reached by a long staircase or shuttle bus.
+- **Manarola**, famous at sunset, when the cliffside houses glow orange over the water.
+- **Riomaggiore**, the liveliest evening spot, with narrow lanes stacked above the harbor.
 
 The Sentiero Azzurro (Blue Trail) once linked all five villages along the cliffs; parts remain closed after landslides, so check current trail status before setting out. The Manarola–Riomaggiore stretch, known as Via dell'Amore, is the gentlest section and usually reopens first after maintenance closures.
 
 ## When to go
 
-The park itself never closes — it's open every day, all day — but the villages feel completely different depending on the hour.
+The park itself never closes (it's open every day, all day), but the villages feel completely different depending on the hour.
 
 Crowd patterns are sharp and predictable here. On weekends, things stay manageable from 7am to 6pm, then swell hard from 1pm through 11pm as day-trippers arrive by train and boat. Weekday mornings, even without confirmed quiet-hour data, tend to follow the same early-calm pattern.
 
@@ -146,11 +146,11 @@ Come in May, June or September for warm water and thinner crowds than peak July�
 Cinque Terre is unmistakably a heavily visited park now, not a quiet secret, so plan around the crowds rather than expecting to avoid them entirely.
 
 - **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge hits at 1pm.
-- **Buy the park card at the station**, not from a reseller — it's the same price and funds trail upkeep.
+- **Buy the park card at the station**, not from a reseller. It's the same price and funds trail upkeep.
 - **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.
-- **Wear real hiking shoes**, even for short trail sections — the paths are uneven stone and gravel, not paved promenades.
+- **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.
 - **Don't try to see all five villages in one rushed day.** Locals and rangers alike will tell you two or three villages, walked slowly, beats a checklist of five.
-- **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta — it's what the coast is actually known for.
+- **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta. It's what the coast is actually known for.
 
 The single biggest mistake visitors make is treating this like a day-trip checklist from a cruise port. Slow down, pick a base village, and let the trains do the rushing for you.
 

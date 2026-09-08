@@ -44,9 +44,9 @@ eventFactsAsked: true
 ---
 ## Why this show was different
 
-John Legend's "An Evening of Songs & Stories" wasn't a greatest-hits arena run — it was built as a conversational, piano-driven set where the songs are threaded together with personal anecdotes about how they came to be. That format works best in a room with real intimacy, which is why the tour was booked into the Proscenium Theater rather than one of Manila's bigger arenas.
+John Legend's "An Evening of Songs & Stories" wasn't a greatest-hits arena run. It was built as a conversational, piano-driven set where the songs are threaded together with personal anecdotes about how they came to be. That format works best in a room with real intimacy, which is why the tour was booked into the Proscenium Theater rather than one of Manila's bigger arenas.
 
-For anyone who had seen Legend on a festival stage before, the tour was pitched as the same voice in a completely different register — closer, quieter, more conversational.
+For anyone who had seen Legend on a festival stage before, the tour was pitched as the same voice in a completely different register, closer, quieter, more conversational.
 
 ## Getting to the Proscenium Theater
 
@@ -56,7 +56,7 @@ Traffic around Makati on a weekday evening can be heavy, and the drive takes lon
 
 ## What to expect inside
 
-Proscenium is a proper theater — raked seating, closed doors once the show starts, none of the standing-room chaos of an outdoor concert. That means assigned seats, a formal start, and an audience there to listen rather than push toward a barricade. Because the tour format leans on storytelling between songs, the set was built to move between Legend's catalogue of ballads and soul-inflected hits, stripped down and re-arranged around piano rather than a full band production.
+Proscenium is a proper theater, raked seating, closed doors once the show starts, none of the standing-room chaos of an outdoor concert. That means assigned seats, a formal start, and an audience there to listen rather than push toward a barricade. Because the tour format leans on storytelling between songs, the set was built to move between Legend's catalogue of ballads and soul-inflected hits, stripped down and re-arranged around piano rather than a full band production.
 
 The Manila run was scheduled across two consecutive nights, September 3 and 4, 2026.
 
@@ -66,7 +66,7 @@ Because the venue sits inside Rockwell Center, there is no need to venture far f
 
 ## How to visit like a local
 
-Filipino theater audiences tend to dress a notch smarter than a casual arena show — smart-casual rather than concert tees — and doors at Proscenium close for the performance once it begins, after bag checks at the entrance. Tickets for shows at Proscenium are typically sold through ticketing platforms tied to the promoter, and mobile e-tickets are increasingly the norm in Manila, so a charged phone and a ready QR code move things along at entry.
+Filipino theater audiences tend to dress a notch smarter than a casual arena show, smart-casual rather than concert tees, and doors at Proscenium close for the performance once it begins, after bag checks at the entrance. Tickets for shows at Proscenium are typically sold through ticketing platforms tied to the promoter, and mobile e-tickets are increasingly the norm in Manila, so a charged phone and a ready QR code move things along at entry.
 
 Tipping isn't expected inside the venue itself, but for anyone eating at Power Plant Mall beforehand, a modest tip for table service is customary in the Philippines. With a format like this one, much of the appeal is watching the between-song moments up close, which puts a premium on seats near the stage.
 

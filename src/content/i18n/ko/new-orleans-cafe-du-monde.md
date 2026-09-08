@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-cafe-du-monde
-srcHash: '0db0019f27b2'
+srcHash: '34f35827ccb2'
 title: '카페 뒤 몽드: 뉴올리언스 여행 가이드'
 description: 프렌치 쿼터(French Quarter) 800 Decatur St에 위치한 카페 뒤 몽드(Cafe Du Monde)는 뉴올리언스 원조 베녜(beignet)와 치커리 커피 전문점으로, 매일 오전 7시 15분부터 대부분 밤 11시까지(금·토요일은 자정까지) 영업합니다.
 quickAnswer: 프렌치 쿼터(French Quarter) 800 Decatur St에 위치한 카페 뒤 몽드(Cafe Du Monde)는 뉴올리언스 원조 베녜(beignet)와 치커리 커피 전문점으로, 매일 오전 7시 15분부터 대부분 밤 11시까지(금·토요일은 자정까지) 영업합니다. 거의 항상 붐비기 때문에 가장 한산한 시간대는 오픈 직후이거나 점심과 저녁 사이 평일 오후이며, 그 외 시간대, 특히 주말 아침에는 줄을 서야 할 각오를 하는 게 좋습니다.

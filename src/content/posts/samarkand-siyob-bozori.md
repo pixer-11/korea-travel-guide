@@ -81,7 +81,7 @@ draft: false
 
 You smell Siyob Bozori before you see it. Walk down from the turquoise domes of Bibi-Khanym Mosque and the air turns warm with baking flatbread, crushed cumin, and the faint sweetness of dried melon.
 
-The market spills out under a mix of open-air awnings and covered halls, stalls packed shoulder to shoulder. Within a few steps you pass towers of non — the round, stamped Samarkand bread that locals swear doesn't go stale for weeks — stacked in leaning piles taller than the vendors selling them.
+The market spills out under a mix of open-air awnings and covered halls, stalls packed shoulder to shoulder. Within a few steps you pass towers of non (the round, stamped Samarkand bread that locals swear doesn't go stale for weeks) stacked in leaning piles taller than the vendors selling them.
 
 ## Why it's worth your time
 
@@ -93,7 +93,7 @@ Stalls burst with dried apricots, raisins, figs, and walnuts in every size. Spic
 
 Siyob Bozori sits on Bibikhonim Street, directly behind the Bibi-Khanym Mosque in the historic center. Most visitors walk over from Registan Square, about 10-15 minutes on foot through the old town.
 
-Taxis and ride-hailing apps are cheap and easy from anywhere in Samarkand if you'd rather not walk in the heat. Ask for "Siyob Bozori" or "Siab Bazaar" — both names are used interchangeably.
+Taxis and ride-hailing apps are cheap and easy from anywhere in Samarkand if you'd rather not walk in the heat. Ask for "Siyob Bozori" or "Siab Bazaar". Both names are used interchangeably.
 
 ## What to see and eat
 
@@ -105,23 +105,23 @@ Set aside at least an hour, more if you want to sample as you go. Look for:
 - **Halva and sweets**: dense, nutty blocks cut to order
 - **Household goods**: toward the market's edges, less photogenic but useful for a sense of daily life here
 
-The covered sections toward the back hold meat, dairy, and fresh produce — less visited by tourists but a good gauge of what an ordinary Tuesday looks like in Samarkand.
+The covered sections toward the back hold meat, dairy, and fresh produce, less visited by tourists but a good gauge of what an ordinary Tuesday looks like in Samarkand.
 
 ## When to go
 
-The market runs Tuesday through Sunday, 7am to 7pm, and stays shut on Mondays — plan around that if it's your only free day. Arrive between 7am and 9am for the calmest visit, whether you're coming on a weekday or weekend.
+The market runs Tuesday through Sunday, 7am to 7pm, and stays shut on Mondays. Plan around that if it's your only free day. Arrive between 7am and 9am for the calmest visit, whether you're coming on a weekday or weekend.
 
 Weekends get busy fast after 11am and stay crowded until closing at 7pm. If you want clear sightlines for photos and room to actually talk to vendors, mornings are non-negotiable here.
 
 ## How to visit like a local
 
-Siyob Bozori is well-known and draws a steady stream of visitors, so don't expect an undiscovered corner of the city — the trick is timing, not secrecy. Come right at opening, 7am, and you'll share the aisles with shopkeepers restocking rather than tour groups.
+Siyob Bozori is well-known and draws a steady stream of visitors, so don't expect an undiscovered corner of the city. The trick is timing, not secrecy. Come right at opening, 7am, and you'll share the aisles with shopkeepers restocking rather than tour groups.
 
 Cash is essential. Card readers are rare among individual stall vendors, so carry Uzbek som in small notes and coins for easy haggling.
 
-Bargaining is expected but keep it good-natured — a small reduction on dried fruit or nuts is normal, but haggling hard over bread or basic staples reads as petty to vendors. Sampling before you buy is standard practice, especially for nuts, dried fruit, and halva; a polite nod and a small taste is welcome.
+Bargaining is expected but keep it good-natured. A small reduction on dried fruit or nuts is normal, but haggling hard over bread or basic staples reads as petty to vendors. Sampling before you buy is standard practice, especially for nuts, dried fruit, and halva; a polite nod and a small taste is welcome.
 
-The most common tourist mistake here is treating it purely as a photo backdrop — bring a bag, buy something, and eat what you're offered to sample. Vendors respond warmly to genuine shoppers, and a kilo of apricots or a fresh non loaf makes an easy, cheap souvenir of the visit.
+The most common tourist mistake here is treating it purely as a photo backdrop. Bring a bag, buy something, and eat what you're offered to sample. Vendors respond warmly to genuine shoppers, and a kilo of apricots or a fresh non loaf makes an easy, cheap souvenir of the visit.
 
 Pair the market with the Bibi-Khanym Mosque right next door, and consider looping back through Registan Square afterward since it's an easy walk from either end of the bazaar.
 

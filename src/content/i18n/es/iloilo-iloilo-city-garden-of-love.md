@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: iloilo-iloilo-city-garden-of-love
-srcHash: 'd610e22cb7da'
+srcHash: '83f1b4513f9b'
 title: 'Jardín del Amor de Iloilo City: Guía de viaje'
 description: El Jardín del Amor de Iloilo City es un pequeño parque poco conocido en La Paz, Iloilo City, abierto todos los días de 6:00 a. m. a 9:30 p. m.
 quickAnswer: 'El Jardín del Amor de Iloilo City es un pequeño parque poco conocido en La Paz, Iloilo City, abierto todos los días de 6:00 a. m. a 9:30 p. m. Conviene ir un día entre semana por la mañana, entre las 7 y las 8, para disfrutar de una tranquilidad casi total, o bien un fin de semana a media mañana (10 a. m.–1 p. m.) si se quiere tener el espacio casi para uno mismo. Basta con calcular entre 30 y 45 minutos: es un parque de bolsillo, no una excursión de medio día.'

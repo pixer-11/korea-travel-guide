@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-one-universe-festival-2026
-srcHash: 'f132d1dd98d0'
+srcHash: 'fec30120b4ac'
 title: 'One Universe Festival 2026: lo que hay que saber (Incheon)'
 description: El One Universe Festival 2026 estaba previsto para los días 25 y 26 de julio de 2026 en Paradise City, Incheon, Corea del Sur. Cartel anunciado, sede y datos de transporte.
 quickAnswer: El One Universe Festival 2026 estaba previsto para los días 25 y 26 de julio de 2026 en Paradise City, Incheon. El cartel anunciado incluía a The xx, Pendulum, My Bloody Valentine y Turnstile. Paradise City se encuentra a pocos minutos del Aeropuerto Internacional de Incheon, y la zona del resort se llena rápido los fines de semana de festival. Las entradas se vendían a través del socio de venta oficial del festival.

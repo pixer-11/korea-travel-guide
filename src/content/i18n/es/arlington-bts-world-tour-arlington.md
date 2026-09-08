@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: arlington-bts-world-tour-arlington
-srcHash: '19900f4b668a'
+srcHash: '019d9c87eb85'
 title: 'Gira Mundial de BTS en Arlington: lo que hay que saber (Arlington)'
 description: 'Gira Mundial de BTS en Arlington, Estados Unidos, los días 15 y 16 de agosto de 2026. Lo anunciado: el recinto, las fechas y el distrito que lo rodea.'
 quickAnswer: 'La cuarta gira mundial de BTS tenía fecha en el AT&T Stadium de Arlington, Texas, los días 15 y 16 de agosto de 2026: la primera serie de conciertos en estadio desde que los integrantes completaron el servicio militar obligatorio de Corea del Sur. Las entradas se vendieron únicamente a través de los canales oficiales de la gira de BTS/Big Hit Music y de la taquilla verificada de Ticketmaster/AT&T Stadium.'

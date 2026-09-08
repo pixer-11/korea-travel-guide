@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-national-museum-of-fine-arts
-srcHash: 'b2a809882032'
+srcHash: 'fcb0b58c620f'
 title: 'Museo Nacional de Bellas Artes: Guía de Viaje de Manila (4,7★)'
 description: 'El Museo Nacional de Bellas Artes forma parte del conjunto de museos del Parque Rizal, en Ermita, abre todos los días de 9:00 a 18:00 y la entrada es gratuita. 4,7★ (9.554 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Bellas Artes forma parte del conjunto de museos del Parque Rizal, en Ermita, abre todos los días de 9:00 a 18:00 y la entrada es gratuita. Conviene llegar justo a la apertura entre semana, ya que la afluencia es menor entre las 9:00 y las 11:00, y reservar al menos dos horas solo para la sala del Spoliarium y las galerías del piso superior. Las tardes de fin de semana, entre las 13:00 y las 17:00, se llenan notablemente más, así que conviene evitar ese horario si es posible.

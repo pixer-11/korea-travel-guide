@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-yoichiba
-srcHash: '10641a64cf7e'
+srcHash: 'fc226c926e37'
 title: 'Yoichiba, Kioto (Nakagyo): menú, horarios y reservas — 4.8★'
 description: 'Yoichiba es un pequeño izakaya en Nakagyo, centro de Kioto, con 4.8★ en más de 400 reseñas: qué pedir, horarios, por qué reservar para la cena y cómo llegar.'
 quickAnswer: Yoichiba es un pequeño izakaya muy bien valorado en el barrio de Nakagyo, en el centro de Kioto. Con una nota de 4.8 sobre 421 reseñas, lo mejor es reservar con antelación para la cena. Conviene planear una comida tranquila de entre 1.5 y 2 horas, sin prisas, y combinarla con un paseo nocturno por las cercanas Kiyamachi o Pontocho. Reserva lo antes posible, ya que los locales pequeños de Kioto con este nivel de reseñas suelen llenarse rápido, sobre todo los fines de semana.

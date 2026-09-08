@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-marina-marina-walk
-srcHash: '805f61228f9c'
+srcHash: 'd5f701ea4595'
 title: 迪拜码头海滨长廊（Marina Walk）旅行攻略：4.7星好评的迪拜码头必去之地
 description: Marina Walk是环绕迪拜码头（Dubai Marina）的7公里滨水步道，全天24小时开放，免费漫步。4.7星（116条评价）——游客怎么说、开放时间及实用建议，一文看懂。
 quickAnswer: Marina Walk是一条环绕迪拜码头（Dubai Marina）的7公里滨水步道，全天24小时开放，免费漫步。日落时分（视季节而定，大约傍晚6点到7点）前来，能看到水面上演的天际线灯光秀；若想避开人群，清晨来则格外清静。不妨从Marina Mall附近出发，沿着水岸随意朝哪个方向走都行。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju
-srcHash: '8ea744a35a56'
+srcHash: 'f3ece419fd07'
 title: 'Restaurantes en la Aldea Hanok de Jeonju: dónde comer'
 description: Ve a la Aldea Hanok de Jeonju (Wansan-gu) para probar el plato insignia de la ciudad, el bibimbap, junto con makgeolli (vino de arroz) y kongnamul-gukbap (sopa de brotes de soja con arroz).
 quickAnswer: Ve a la Aldea Hanok de Jeonju (Wansan-gu) para probar el plato insignia de la ciudad, el bibimbap, junto con makgeolli (vino de arroz) y kongnamul-gukbap (sopa de brotes de soja con arroz). Una dirección para orientar la visita es 31 Taejo-ro, Wansan-gu, un restaurante de la aldea hanok con una calificación de 4.1 sobre 315 reseñas, pero tómalo como punto de partida y prevé picar en varios puestos y pequeños comedores cercanos en lugar de comer una sola vez. Reserva entre 2 y 3 horas para comer y recorrer los callejones de alrededor.

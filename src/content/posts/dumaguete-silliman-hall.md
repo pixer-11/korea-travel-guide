@@ -97,7 +97,7 @@ Labels trace the region's pre-colonial trade links with China and mainland South
 
 Even without the exhibits, the hall is worth slowing down for. Wide wooden floorboards creak underfoot, tall shuttered windows let in cross-breezes instead of air conditioning, and the high ceilings keep the rooms noticeably cooler than the tropical heat outside.
 
-Look up at the trusswork and the deep verandas — this is New England carpentry technique adapted to a Philippine climate, a small architectural fact worth ten minutes on its own.
+Look up at the trusswork and the deep verandas. This is New England carpentry technique adapted to a Philippine climate, a small architectural fact worth ten minutes on its own.
 
 ## Getting there and timing your visit
 
@@ -107,17 +107,17 @@ The hall is open every day, 7am to 9pm, which is generous for a museum this size
 
 ## How to visit like a local
 
-Because it sits on an active university campus, foot traffic here follows the academic calendar, not tourist season. Weekday mornings, before classes fill the quads, are the calmest time to wander through — you'll often have a room to yourself.
+Because it sits on an active university campus, foot traffic here follows the academic calendar, not tourist season. Weekday mornings, before classes fill the quads, are the calmest time to wander through. You'll often have a room to yourself.
 
 This is genuinely under-the-radar for an attraction this old; most visitors to Dumaguete head straight for the boulevard or the diving spots and skip it entirely, so you won't be fighting crowds here.
 
-- Dress like you're visiting a school, not a beach — shoulders covered is respectful, since you're walking through active campus grounds
+- Dress like you're visiting a school, not a beach, shoulders covered is respectful, since you're walking through active campus grounds
 - Entry is typically informal at this size of museum; bring small bills in case there's a modest donation box or entrance fee
-- Ask the staff or any student nearby about the building's stick-style architecture — it's a detail most visitors miss entirely
+- Ask the staff or any student nearby about the building's stick-style architecture. It's a detail most visitors miss entirely
 - Combine it with a slow loop of the rest of the campus, whose acacia-lined paths are a Dumaguete landmark in their own right
 - Keep voices low; classes and offices operate in nearby buildings even while you're inside
 
-The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely — the 200 BCE material is easy to walk past if you're moving fast.
+The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The 200 BCE material is easy to walk past if you're moving fast.
 
 ## Nearby to pair with your visit
 

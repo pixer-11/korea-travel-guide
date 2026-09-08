@@ -69,25 +69,25 @@ draft: false
 updatedDate: '2026-08-30'
 ---
 
-You smell it before you see it. Grilled skewers, fried garlic, the sugary drift of a bubble-waffle stand — Fashion Walk Food Street announces itself down a side lane of Causeway Bay's Fashion Walk precinct, a stretch of open-fronted restaurants and quick-eat counters wedged between clothing boutiques.
+You smell it before you see it. Grilled skewers, fried garlic, the sugary drift of a bubble-waffle stand, Fashion Walk Food Street announces itself down a side lane of Causeway Bay's Fashion Walk precinct, a stretch of open-fronted restaurants and quick-eat counters wedged between clothing boutiques.
 
-It's not a single restaurant but a strip: a run of independently run kitchens sharing outdoor-facing seating and a shared, unhurried rhythm. Neon signage overhead, plastic stools spilling onto the pavement, staff calling orders through open kitchens — it feels closer to a night-market lane than a mall food court.
+It's not a single restaurant but a strip: a run of independently run kitchens sharing outdoor-facing seating and a shared, unhurried rhythm. Neon signage overhead, plastic stools spilling onto the pavement, staff calling orders through open kitchens, it feels closer to a night-market lane than a mall food court.
 
 ## Why go
 
 This isn't a polished dining destination, and it doesn't try to be. It's a mid-range, reliably decent option when you want to eat well without booking ahead or dressing up.
 
-The draw is variety packed into a short walk — Cantonese comfort food, Japanese grills, Korean stalls, dessert counters — all within shouting distance of each other. You graze, you compare menus posted outside, you sit wherever smells best that day.
+The draw is variety packed into a short walk (Cantonese comfort food, Japanese grills, Korean stalls, dessert counters) all within shouting distance of each other. You graze, you compare menus posted outside, you sit wherever smells best that day.
 
 ## Getting there
 
-Fashion Walk sits in the heart of Causeway Bay, a few minutes' walk from Causeway Bay MTR Station (Island Line) — exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out.
+Fashion Walk sits in the heart of Causeway Bay, a few minutes' walk from Causeway Bay MTR Station (Island Line), exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out.
 
 If you're coming from Times Square or Sogo, it's a flat 8–10 minute walk east through Causeway Bay's grid of shopping streets.
 
 ## What to expect
 
-Don't come expecting a single set menu — this is a food street, so options rotate by stall.
+Don't come expecting a single set menu. This is a food street, so options rotate by stall.
 
 Typical picks you'll find along the strip:
 
@@ -101,9 +101,9 @@ Portions lean casual and shareable rather than formal sit-down courses. It suits
 
 ## When to go
 
-The whole street runs 11:30am to 10:30pm every day, so there's no early-morning rush — this is a lunch-through-late-dinner kind of place.
+The whole street runs 11:30am to 10:30pm every day, so there's no early-morning rush. This is a lunch-through-late-dinner kind of place.
 
-Weekends get busy fast, with the crowd building steadily from 1pm and staying thick until around 9pm. If you want breathing room, aim for a weekday afternoon or evening instead — foot traffic drops noticeably from 4pm to 10pm on weekdays, which is the easiest stretch to grab a stool without circling for one.
+Weekends get busy fast, with the crowd building steadily from 1pm and staying thick until around 9pm. If you want breathing room, aim for a weekday afternoon or evening instead, foot traffic drops noticeably from 4pm to 10pm on weekdays, which is the easiest stretch to grab a stool without circling for one.
 
 Early dinner on a weeknight, around 5 or 6pm, hits the sweet spot: kitchens are fully running, but you're not competing with the after-work and weekend surge.
 
@@ -111,13 +111,13 @@ Early dinner on a weeknight, around 5 or 6pm, hits the sweet spot: kitchens are 
 
 Treat it as a grazing circuit, not a sit-down restaurant. Walk the length of the street first, scan what's cooking at each counter, then double back to whatever pulled your attention.
 
-- **Pay:** most stalls take cash and cards; mobile payment (Octopus, e-wallets) is increasingly common but not universal — carry some cash as backup.
+- **Pay:** most stalls take cash and cards; mobile payment (Octopus, e-wallets) is increasingly common but not universal, carry some cash as backup.
 - **Ordering:** many counters have English menus or photo boards; pointing works fine if there's a language gap.
-- **Seating:** it's shared and informal — grab any open stool, no need to wait for a "table for two."
+- **Seating:** it's shared and informal, grab any open stool, no need to wait for a "table for two."
 - **Tipping:** not expected; service charge, if any, is usually already on the bill.
-- **Timing mistake to avoid:** don't show up right at the 1pm weekend peak expecting quick seating — that's the busiest window of the week.
+- **Timing mistake to avoid:** don't show up right at the 1pm weekend peak expecting quick seating. That's the busiest window of the week.
 
-Because this stretch stays under the radar compared to Causeway Bay's bigger malls, you'll generally find it calmer even on a decent evening — just steer clear of Saturday and Sunday lunch if you want it at its quietest.
+Because this stretch stays under the radar compared to Causeway Bay's bigger malls, you'll generally find it calmer even on a decent evening, just steer clear of Saturday and Sunday lunch if you want it at its quietest.
 
-Pair it with a wander through Fashion Walk's boutiques beforehand, or a walk over to Victoria Park afterward — both are a few minutes on foot, and neither requires planning around this street's hours.
+Pair it with a wander through Fashion Walk's boutiques beforehand, or a walk over to Victoria Park afterward. Both are a few minutes on foot, and neither requires planning around this street's hours.
 

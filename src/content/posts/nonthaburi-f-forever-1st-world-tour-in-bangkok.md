@@ -38,31 +38,31 @@ draft: true
 ---
 ## Why this stop matters
 
-For anyone who grew up on Taiwanese idol dramas in the 2000s, F4 isn't just a boy band — it's the group that turned "Meteor Garden" into a pan-Asian phenomenon. Jerry Yan, Van Ness Wu and Vic Chou reuniting as F✦FOREVER, two decades on, is the kind of nostalgia event that sells out arenas fast. Bangkok was the third Southeast Asian stop on their 1st World Tour, and the promoters added a genuine curveball: Mayday's frontman Ashin was billed as an honorary fourth member for these shows, a crossover unusual enough to pull interest well beyond the usual F4 fanbase.
+For anyone who grew up on Taiwanese idol dramas in the 2000s, F4 isn't just a boy band. It's the group that turned "Meteor Garden" into a pan-Asian phenomenon. Jerry Yan, Van Ness Wu and Vic Chou reuniting as F✦FOREVER, two decades on, is the kind of nostalgia event that sells out arenas fast. Bangkok was the third Southeast Asian stop on their 1st World Tour, and the promoters added a genuine curveball: Mayday's frontman Ashin was billed as an honorary fourth member for these shows, a crossover unusual enough to pull interest well beyond the usual F4 fanbase.
 
-The Bangkok run was set for two nights, August 1 and 2, 2026, at IMPACT Arena — the promoters read demand as enough to fill the hall twice.
+The Bangkok run was set for two nights, August 1 and 2, 2026, at IMPACT Arena, the promoters read demand as enough to fill the hall twice.
 
 ## Where IMPACT Arena sits
 
-IMPACT Arena is part of the wider IMPACT Muang Thong Thani complex in Nonthaburi, just north of Bangkok proper — the same venue that regularly hosts the region's biggest concerts, esports finals and trade expos, so the infrastructure around it (shuttle buses, taxi queues, food courts) is built for exactly this kind of crowd surge. It's not walking distance from central Bangkok; this is a suburban events district rather than a downtown arena, and reaching it means transport rather than a stroll from a Sukhumvit hotel.
+IMPACT Arena is part of the wider IMPACT Muang Thong Thani complex in Nonthaburi, just north of Bangkok proper, the same venue that regularly hosts the region's biggest concerts, esports finals and trade expos, so the infrastructure around it (shuttle buses, taxi queues, food courts) is built for exactly this kind of crowd surge. It's not walking distance from central Bangkok; this is a suburban events district rather than a downtown arena, and reaching it means transport rather than a stroll from a Sukhumvit hotel.
 
 ## Getting there from Bangkok
 
-The most reliable route from central Bangkok is a taxi or ride-hailing app (Grab is widely used in Thailand) directly to IMPACT Arena — the ride takes anywhere from 30 minutes to well over an hour depending on traffic and which part of the city you start from. On concert nights, traffic around Muang Thong Thani backs up significantly and journeys stretch accordingly.
+The most reliable route from central Bangkok is a taxi or ride-hailing app (Grab is widely used in Thailand) directly to IMPACT Arena. The ride takes anywhere from 30 minutes to well over an hour depending on traffic and which part of the city you start from. On concert nights, traffic around Muang Thong Thani backs up significantly and journeys stretch accordingly.
 
 Some visitors combine a BTS or MRT ride toward the northern edge of the city with a taxi for the final stretch, since Nonthaburi itself isn't directly served by a rail line into the IMPACT complex. Either way, the last leg is the slow part of the journey.
 
 ## What to expect inside
 
-Two nights at this scale usually means a full staging production — a proper indoor arena setup with tiered seating and a stadium sound system, not a stripped-down showcase. The tour's framing pointed to setlists built around the nostalgia of F4's soundtrack era layered with newer material, and Ashin's involvement pointed to a segment or duet blending Mayday's catalogue into the mix.
+Two nights at this scale usually means a full staging production, a proper indoor arena setup with tiered seating and a stadium sound system, not a stripped-down showcase. The tour's framing pointed to setlists built around the nostalgia of F4's soundtrack era layered with newer material, and Ashin's involvement pointed to a segment or duet blending Mayday's catalogue into the mix.
 
 The setlist, ticket tiers and exact doors and show times weren't spelled out in any detail.
 
 ## How to visit like a local
 
-Thai concertgoers at IMPACT Arena tend to arrive well ahead of doors — an hour or more — both to clear security lines and to reach merchandise before it queues out. Payment at the venue and for merch is increasingly cashless, and PromptPay QR and cards are widely accepted in Bangkok generally, though a little cash in Thai baht keeps merch lines moving faster than a foreign card reader does.
+Thai concertgoers at IMPACT Arena tend to arrive well ahead of doors, an hour or more, both to clear security lines and to reach merchandise before it queues out. Payment at the venue and for merch is increasingly cashless, and PromptPay QR and cards are widely accepted in Bangkok generally, though a little cash in Thai baht keeps merch lines moving faster than a foreign card reader does.
 
-Tipping isn't expected at ticketed events like this. The distance and traffic between central Bangkok and Nonthaburi is what international fans most often underestimate — this isn't a five-minute cab ride. Taxi queues around the complex peak in the final twenty minutes before doors, alongside everyone else's late arrival.
+Tipping isn't expected at ticketed events like this. The distance and traffic between central Bangkok and Nonthaburi is what international fans most often underestimate. This isn't a five-minute cab ride. Taxi queues around the complex peak in the final twenty minutes before doors, alongside everyone else's late arrival.
 
 Officially licensed tour merchandise and any pre-show fan events come from the promoter directly, through its own social channels, rather than from resale sites.
 

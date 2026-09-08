@@ -70,7 +70,7 @@ The park sits in Tambon Mueang Kao, about 12km west of modern Sukhothai town, wh
 
 Most people arrive via Sukhothai's small airport (served mainly from Bangkok and Chiang Mai) or by bus from Bangkok, Chiang Mai, or Phitsanulok, the latter having the nearest train station about an hour away.
 
-Once inside, walking is possible but the site is large — the Central Zone alone spans roughly 70 hectares, with North, West, and East Zones requiring separate short rides. Renting a bicycle at the entrance is the classic way to cover ground; it's slow enough to stop often, fast enough to see it all in a few hours.
+Once inside, walking is possible but the site is large, the Central Zone alone spans roughly 70 hectares, with North, West, and East Zones requiring separate short rides. Renting a bicycle at the entrance is the classic way to cover ground; it's slow enough to stop often, fast enough to see it all in a few hours.
 
 ## What to see inside the park
 
@@ -78,9 +78,9 @@ Start at **Wat Mahathat**, the largest and most important temple, its central lo
 
 Other highlights worth the ride:
 
-- **Wat Sa Si** — a graceful temple on an island in a lake, one of the most photographed spots in the park
-- **Wat Si Chum** — houses a massive seated Buddha, Phra Achana, visible through a narrow slit in its enclosing wall
-- **Ramkhamhaeng National Museum** — near the entrance, good for context before or after walking the ruins
+- **Wat Sa Si**, a graceful temple on an island in a lake, one of the most photographed spots in the park
+- **Wat Si Chum**, houses a massive seated Buddha, Phra Achana, visible through a narrow slit in its enclosing wall
+- **Ramkhamhaeng National Museum**, near the entrance, good for context before or after walking the ruins
 
 Each zone requires a separate small entry ticket, so decide in advance whether you want just the Central Zone or the full spread.
 
@@ -92,9 +92,9 @@ Because this is a very popular, heavily visited site, weekday mornings right aft
 
 ## How to visit like a local
 
-Buy your zone tickets at the gate in cash and keep them handy — rangers check at each zone entrance. Rent a bicycle just outside the Central Zone gate rather than in town; it saves a hot ride in before you've even started.
+Buy your zone tickets at the gate in cash and keep them handy, rangers check at each zone entrance. Rent a bicycle just outside the Central Zone gate rather than in town; it saves a hot ride in before you've even started.
 
 Given the crowds this site draws, avoid arriving mid-morning on weekends when tour buses cluster near Wat Mahathat. Early light also makes photography easier, since the low sun rakes across the brick and throws long shadows off the chedis.
 
-Dress modestly, as this remains a religious site — cover shoulders and knees, and remove shoes if you step onto any temple platform. Carry water and a hat; shade is scarce once you're out among the ruins, and vendors near the entrance are your last easy stop before the open fields begin.
+Dress modestly, as this remains a religious site, cover shoulders and knees, and remove shoes if you step onto any temple platform. Carry water and a hat; shade is scarce once you're out among the ruins, and vendors near the entrance are your last easy stop before the open fields begin.
 

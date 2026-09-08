@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alcaniz-motogp-aragon-grand-prix
-srcHash: '0bd316959496'
+srcHash: 'e1a7eb42da69'
 title: 'Gran Premio de Aragón de MotoGP: lo que hay que saber (Alcañiz)'
 description: El Gran Premio de Aragón de MotoGP en Alcañiz, España, estaba previsto para el 28-30 de agosto de 2026 en MotorLand Aragón. El circuito, el calendario y los alrededores de la zona.
 quickAnswer: El Gran Premio de Aragón de MotoGP estaba previsto para el 28-30 de agosto de 2026 en MotorLand Aragón, un circuito construido específicamente para las carreras y situado a unos 6 km de Alcañiz, en la provincia española de Teruel. Las entradas para los tres días se venden online cada año, y tanto los horarios de las carreras como las categorías de apoyo suelen quedar definidos solo en las últimas semanas. La localidad de Alcañiz es la base habitual para pasar el fin de semana, con un breve trayecto en coche o autobús lanzadera hasta el circuito cada día.

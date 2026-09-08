@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-al-khayma-heritage-restaurant
-srcHash: '16e497a5f701'
+srcHash: '13564711f234'
 title: 'Restaurante Al Khayma Heritage: dónde comer en Dubái'
 description: Cerca de Al Souq Al Kabeer, en el Barrio Histórico de Al Fahidi, el restaurante Al Khayma Heritage sirve clásicos emiratíes como el machboos, el harees y el luqaimat en un patio con aire de jaima beduina.
 quickAnswer: Cerca de Al Souq Al Kabeer, en el Barrio Histórico de Al Fahidi, el restaurante Al Khayma Heritage sirve clásicos emiratíes como el machboos, el harees y el luqaimat en un patio con aire de jaima beduina. Es un lugar muy popular y bien valorado (4,9 de nota, con cerca de 18.000 reseñas) y de precio medio, así que conviene llegar temprano o reservar con antelación, sobre todo para la cena. Calcula entre 60 y 90 minutos y combina la visita con un paseo por los callejones de Al Fahidi o por el Museo de Dubái, en el Fuerte Al Fahidi, muy cerca de allí.

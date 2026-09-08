@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suwon-cafe-diaz
-srcHash: '5c2a5bf4cf78'
+srcHash: '30d71b6471ff'
 title: 'Cafe Diaz: Guía de viaje de Suwon'
 description: Cafe Diaz es una cafetería grande y de diseño vanguardista en Paldal-gu, Suwon, conocida por su llamativo interior que combina lo industrial con lo botánico y sus altísimas valoraciones.
 quickAnswer: Cafe Diaz es una cafetería grande y de diseño vanguardista en Paldal-gu, Suwon, conocida por su llamativo interior que combina lo industrial con lo botánico y sus altísimas valoraciones (4.9 sobre más de 1,800 reseñas). Lo ideal es visitarla a media mañana o entre semana para conseguir asiento, calcular un gasto de gama media en café y postre, y combinar la visita con un paseo por las cercanas murallas de la Fortaleza Hwaseong de Suwon, ya que la cafetería está muy cerca del casco histórico.

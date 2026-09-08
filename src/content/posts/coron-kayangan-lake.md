@@ -87,7 +87,7 @@ updatedDate: '2026-08-31'
 
 The water here looks retouched, but it isn't. Kayangan sits inside a jagged limestone karst, and on a calm morning it turns into a sheet of glass so clear you can watch fish move over sunken rock twenty feet down.
 
-Locals and travel writers alike have called it one of the cleanest lakes in the country, and the setting explains why. Sheer grey cliffs, twisted limestone spires, and a narrow slice of turquoise between them — it's the postcard image of Coron for a reason.
+Locals and travel writers alike have called it one of the cleanest lakes in the country, and the setting explains why. Sheer grey cliffs, twisted limestone spires, and a narrow slice of turquoise between them. It's the postcard image of Coron for a reason.
 
 ## Getting there
 
@@ -95,18 +95,18 @@ You can't drive to Kayangan Lake. It's part of the standard Coron island-hopping
 
 Most visitors book a shared or private banca (outrigger boat) tour through their guesthouse or a tour desk along Coron's main strip. The ride out takes roughly 45 minutes to an hour depending on which islands you're combining.
 
-From the boat landing, a wooden staircase climbs steeply over karst rock for about five to ten minutes. It's short but sweaty — wear grippy sandals, not flip-flops that slide.
+From the boat landing, a wooden staircase climbs steeply over karst rock for about five to ten minutes. It's short but sweaty. Wear grippy sandals, not flip-flops that slide.
 
 ## What to expect once you're there
 
-At the top of the stairs, the trail dips back down to a viewing platform before reaching the lake itself. The first look over the ridge — turquoise water framed by black-streaked cliffs — is the moment everyone stops to photograph.
+At the top of the stairs, the trail dips back down to a viewing platform before reaching the lake itself. The first look over the ridge, turquoise water framed by black-streaked cliffs, is the moment everyone stops to photograph.
 
 The swimming area is a roped-off section near the entrance platform. Water shoes help here: the lake bed near shore is rocky, and depths drop off quickly into cooler, darker water.
 
 A few practical notes before you go:
 
 - Life vests are typically required for swimming, even for strong swimmers
-- Sunscreen and certain lotions are often restricted to protect water quality — rinse off beforehand if asked
+- Sunscreen and certain lotions are often restricted to protect water quality, rinse off beforehand if asked
 - There's little shade at the viewing platform, so the midday sun is intense
 - The lake connects underground to the sea, so expect a slight temperature and salinity gradient as you swim further in
 
@@ -114,18 +114,18 @@ A few practical notes before you go:
 
 Kayangan is open 24 hours as a site, but boats only run during daylight, and tour schedules usually have everyone on the water by mid-morning. The lake itself is at its calmest and clearest in the earliest boat slots, before wind and boat traffic stir up the surface.
 
-Dry season, roughly November through May, gives you the flattest water and bluest color. Afternoons can get crowded as multiple tour boats stack their itineraries back-to-back, so an early start pays off twice — better light, fewer people at the stairs.
+Dry season, roughly November through May, gives you the flattest water and bluest color. Afternoons can get crowded as multiple tour boats stack their itineraries back-to-back, so an early start pays off twice, better light, fewer people at the stairs.
 
 ## How to visit like a local
 
 Ask your boatman for the earliest possible departure, ideally leaving Coron Town before 8am. Kayangan is popular enough that later tours can mean a queue on the staircase and a packed viewing platform.
 
-Because it's still relatively under-the-radar compared to Palawan's bigger-name attractions, an early or off-peak visit can feel surprisingly uncrowded. Pay the entrance and environmental fees in cash — small bills, since change on the island can be limited.
+Because it's still relatively under-the-radar compared to Palawan's bigger-name attractions, an early or off-peak visit can feel surprisingly uncrowded. Pay the entrance and environmental fees in cash, small bills, since change on the island can be limited.
 
 - Don't wear sunscreen or insect repellent into the water; rinse off at the entrance if you've applied any
-- Skip flip-flops for the stair climb — reef shoes or sturdy sandals grip better on wet limestone
+- Skip flip-flops for the stair climb, reef shoes or sturdy sandals grip better on wet limestone
 - Keep noise down on the platform; it's a shared viewpoint and echoes across the water
 - Don't touch or stand on coral or rock formations near the shoreline
 
-The single biggest mistake visitors make is treating Kayangan as a quick photo stop. Budget time to actually swim past the roped area's edge, where the light shifts from turquoise to a deep, cool blue — that's the part photos never quite capture.
+The single biggest mistake visitors make is treating Kayangan as a quick photo stop. Budget time to actually swim past the roped area's edge, where the light shifts from turquoise to a deep, cool blue. That's the part photos never quite capture.
 

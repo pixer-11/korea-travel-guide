@@ -52,7 +52,7 @@ It's a low-key, walkable outdoor museum that appeals especially to families with
 
 ## Getting there
 
-The park sits at 387 Sukhumvit Road in Muang Pattaya, on the highway itself, which makes it easy to reach but not walkable from the main beach road (Beach Road) or Walking Street — expect a 10–15 minute drive from Central Pattaya depending on traffic.
+The park sits at 387 Sukhumvit Road in Muang Pattaya, on the highway itself, which makes it easy to reach but not walkable from the main beach road (Beach Road) or Walking Street. Expect a 10–15 minute drive from Central Pattaya depending on traffic.
 
 - **By taxi/Grab:** The simplest option; a metered taxi or Grab ride from Central Pattaya or Jomtien runs a short, inexpensive fare.
 - **By songthaew (baht bus):** Shared blue songthaews run along Sukhumvit Road; flag one down and ask for "Mini Siam," then walk the short distance to the entrance gate facing the highway.
@@ -64,12 +64,12 @@ Because it's on the highway rather than in a walking district, plan this as a de
 
 Budget roughly 1.5 to 2 hours to walk the grounds at an unhurried pace, longer if traveling with kids who want to climb viewing platforms or take photos at each model. Highlights to prioritize:
 
-- **Wat Arun and Grand Palace replicas** — the most detailed and photogenic of the Thai section, useful if you haven't yet been to Bangkok's originals.
-- **Bridge over the River Kwai model** — a nod to the historic Kanchanaburi railway bridge.
-- **European landmark cluster** — Eiffel Tower, Leaning Tower of Pisa, and Tower Bridge sit close together, good for a quick "world tour" photo sequence.
-- **Angkor Wat replica** — one of the larger and more intricate models, representing neighboring Cambodia.
+- **Wat Arun and Grand Palace replicas**, the most detailed and photogenic of the Thai section, useful if you haven't yet been to Bangkok's originals.
+- **Bridge over the River Kwai model**, a nod to the historic Kanchanaburi railway bridge.
+- **European landmark cluster**, Eiffel Tower, Leaning Tower of Pisa, and Tower Bridge sit close together, good for a quick "world tour" photo sequence.
+- **Angkor Wat replica**, one of the larger and more intricate models, representing neighboring Cambodia.
 
-The park also has an on-site café where you can pause for cold drinks or snacks — useful in Pattaya's heat, since there's limited shade between model clusters. Wear a hat and sunscreen, and carry water even though the café is there.
+The park also has an on-site café where you can pause for cold drinks or snacks, useful in Pattaya's heat, since there's limited shade between model clusters. Wear a hat and sunscreen, and carry water even though the café is there.
 
 ## When to go
 
@@ -79,4 +79,4 @@ The cooler season (November to February) is the most comfortable time to visit P
 
 ## Nearby & tips
 
-Since Mini Siam is on the northern stretch of Sukhumvit Road, it pairs conveniently with other North Pattaya attractions rather than beachfront spots — check what else is along the same road corridor before booking transport, so you can combine stops in one taxi trip and avoid doubling back into central traffic. Bring small notes for any additional on-site purchases, and check current opening hours and admission pricing on arrival or via official listings, as these details are periodically revised.
+Since Mini Siam is on the northern stretch of Sukhumvit Road, it pairs conveniently with other North Pattaya attractions rather than beachfront spots. Check what else is along the same road corridor before booking transport, so you can combine stops in one taxi trip and avoid doubling back into central traffic. Bring small notes for any additional on-site purchases, and check current opening hours and admission pricing on arrival or via official listings, as these details are periodically revised.

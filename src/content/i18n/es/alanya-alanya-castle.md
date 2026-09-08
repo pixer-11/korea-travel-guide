@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alanya-alanya-castle
-srcHash: '6e5e4a61e19f'
+srcHash: '203b66d42c94'
 title: 'Castillo de Alanya: Guía de viaje (4.7★)'
 description: El Castillo de Alanya (Alanya Castle) abre todos los días de 8:00 a 20:30, y con más de 32,000 reseñas y una calificación de 4.7, es uno de los sitios más visitados de la Riviera Turca, no un descubrimiento oculto.
 quickAnswer: El Castillo de Alanya abre todos los días de 8:00 a 20:30, y con más de 32,000 reseñas y una calificación de 4.7, es uno de los sitios más visitados de la Riviera Turca, no un descubrimiento oculto. Ve justo a las 8am o en las últimas dos horas antes del cierre para evitar los autobuses turísticos, y reserva al menos medio día — las murallas se extienden casi 6.5km a lo largo de la península. Usa calzado adecuado; los caminos empedrados del interior son empinados y desiguales.

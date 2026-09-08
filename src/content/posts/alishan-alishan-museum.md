@@ -53,9 +53,9 @@ draft: false
 
 ## Why go
 
-You come to Alishan for the cypress forest and the sunrise, not for indoor exhibits — but this small museum fills in the gaps those hikes leave behind. It sits quietly within the Alishan National Scenic Area, a short walk from the main train station and lodge cluster, and it rarely has more than a handful of visitors at a time.
+You come to Alishan for the cypress forest and the sunrise, not for indoor exhibits, but this small museum fills in the gaps those hikes leave behind. It sits quietly within the Alishan National Scenic Area, a short walk from the main train station and lodge cluster, and it rarely has more than a handful of visitors at a time.
 
-Inside, the story is logging, not scenery. Alishan's forest was stripped of giant red cypress and hinoki during the Japanese colonial era, and the museum lays out how that happened — old machinery, black-and-white photographs, cross-sections of trunks so wide you could sleep across them.
+Inside, the story is logging, not scenery. Alishan's forest was stripped of giant red cypress and hinoki during the Japanese colonial era, and the museum lays out how that happened, old machinery, black-and-white photographs, cross-sections of trunks so wide you could sleep across them.
 
 ## What's inside
 
@@ -72,7 +72,7 @@ None of it is flashy. It's the kind of quiet, text-and-artifact museum where you
 
 ## Getting there
 
-Alishan Museum sits within the scenic area near Xianglin Village, an easy walk from the Alishan Forest Railway station and the main hotel strip. If you're already staying inside the park — most overnight visitors are, since the sunrise train departs before dawn — you can simply walk over.
+Alishan Museum sits within the scenic area near Xianglin Village, an easy walk from the Alishan Forest Railway station and the main hotel strip. If you're already staying inside the park (most overnight visitors are, since the sunrise train departs before dawn) you can simply walk over.
 
 Coming up from Chiayi for the day, take the Alishan Forest Railway or one of the regular buses from Chiayi (BRT then the Alishan line, or a direct Chiayi–Alishan bus) into the scenic area, then walk from the entrance or your hotel. There's no dedicated parking lot for the museum itself, so plan to arrive on foot from wherever you're based in the park.
 
@@ -80,7 +80,7 @@ Coming up from Chiayi for the day, take the Alishan Forest Railway or one of the
 
 The museum keeps steady hours daily, 8:30am to 4:30pm, so there's no early or late loophole here. Because it's under-the-radar even by Alishan standards, timing matters less than at the Sacred Tree boardwalk or sunrise viewing platform.
 
-Late morning, after the sunrise crowds have thinned out and before tour buses arrive for afternoon walks, tends to be calmest. Rain is common at this elevation, which makes the museum a genuinely useful shelter option — plan a visit for a drizzly stretch of your day rather than wasting it waiting out weather at your hotel.
+Late morning, after the sunrise crowds have thinned out and before tour buses arrive for afternoon walks, tends to be calmest. Rain is common at this elevation, which makes the museum a genuinely useful shelter option. Plan a visit for a drizzly stretch of your day rather than wasting it waiting out weather at your hotel.
 
 ## How to visit like a local
 
@@ -92,4 +92,4 @@ Treat this as a 30-45 minute pause between bigger Alishan sights, not a destinat
 - **Combine, don't replace**: pair it with the nearby Sacred Tree, Shouzhen Temple, or Zhaoping Park rather than treating it as a standalone trip
 - **Mind the elevation and weather**: bring a layer even in warmer months, since Alishan sits well above 2,000 meters and afternoons cool quickly
 
-The mistake most visitors make is skipping it entirely in favor of photos at the trees — a shame, since the museum is what explains why those particular trees still stand at all.
+The mistake most visitors make is skipping it entirely in favor of photos at the trees, a shame, since the museum is what explains why those particular trees still stand at all.

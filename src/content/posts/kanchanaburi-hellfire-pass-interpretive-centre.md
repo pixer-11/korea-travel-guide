@@ -87,13 +87,13 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-You feel the temperature change before you understand why. Down a long staircase behind the museum, the jungle presses in on both sides and the air goes still and thick. Then the rock walls appear — sheer, hand-chiseled, twelve metres high in places — and you're standing in Hellfire Pass itself.
+You feel the temperature change before you understand why. Down a long staircase behind the museum, the jungle presses in on both sides and the air goes still and thick. Then the rock walls appear (sheer, hand-chiseled, twelve metres high in places), and you're standing in Hellfire Pass itself.
 
 ## Why this place hits differently
 
 This isn't a recreation. It's the actual cutting, carved through solid limestone by Allied POWs and Asian laborers building the Thailand-Burma Railway in 1943.
 
-Working conditions were the reason it earned its name — night shifts lit by carbide lamps and bonfires, men reduced to skeletal silhouettes against the flames. Thousands died here from cholera, starvation, and exhaustion. The rock still bears drill marks and chisel scars from tools, not machines.
+Working conditions were the reason it earned its name, night shifts lit by carbide lamps and bonfires, men reduced to skeletal silhouettes against the flames. Thousands died here from cholera, starvation, and exhaustion. The rock still bears drill marks and chisel scars from tools, not machines.
 
 ## Getting there from Kanchanaburi
 
@@ -111,7 +111,7 @@ There's no direct public bus to the site itself, so joining a tour or hiring a d
 
 Start in the museum. It's compact but dense, using photographs, oral histories, and salvaged tools to walk you through how the "Death Railway" was built and why so many didn't survive it.
 
-Pick up the free audio guide at the desk — narrated partly by railway survivors, it transforms the walking trail from a hot gravel path into something genuinely moving.
+Pick up the free audio guide at the desk, narrated partly by railway survivors, it transforms the walking trail from a hot gravel path into something genuinely moving.
 
 Then descend to the cutting itself. The main walking trail runs about 4km round-trip along the original railway bed, passing several smaller cuttings before reaching Hellfire Pass proper. Most visitors walk the shorter loop to the main cutting and back, which takes 45–60 minutes.
 
@@ -122,7 +122,7 @@ Look for:
 
 ## When to go
 
-The centre opens daily from 9am to 4pm, and there's no shade anywhere on the trail — the rock radiates heat by late morning.
+The centre opens daily from 9am to 4pm, and there's no shade anywhere on the trail, the rock radiates heat by late morning.
 
 Arrive as close to opening as you can, especially between November and February when temperatures are milder. April and May are punishing; if that's your only window, go straight after 9am and carry more water than feels necessary.
 
@@ -130,15 +130,15 @@ Because this is a well-visited stop on the Kanchanaburi circuit, tour buses tend
 
 ## How to visit like a local
 
-Thai and Australian visitors alike treat this site with noticeable quiet — it functions as a war memorial, not a photo backdrop. Keep voices low near the cutting and at the memorial plaque.
+Thai and Australian visitors alike treat this site with noticeable quiet, it functions as a war memorial, not a photo backdrop. Keep voices low near the cutting and at the memorial plaque.
 
 A few practical notes:
 
-- Entry is free, though a donation box supports the site's upkeep — a small cash contribution is appreciated
+- Entry is free, though a donation box supports the site's upkeep. A small cash contribution is appreciated
 - Wear closed shoes; the trail down to the cutting is uneven stone and loose gravel, not paved
-- Bring more water than you think you need — there's nowhere to refill once you're on the trail
-- The audio guide is worth the few minutes it takes to collect — most of the emotional weight of the site comes through survivors' own recorded voices, not the signage
+- Bring more water than you think you need. There's nowhere to refill once you're on the trail
+- The audio guide is worth the few minutes it takes to collect. Most of the emotional weight of the site comes through survivors' own recorded voices, not the signage
 - Pair the visit with the Thailand-Burma Railway Centre in Kanchanaburi town beforehand if you want fuller historical context before seeing the physical site
 
-The mistake most first-timers make is treating this as a quick photo stop en route to the bridge and waterfalls. Budget real time here — the walk into the cutting is where the place actually lands.
+The mistake most first-timers make is treating this as a quick photo stop en route to the bridge and waterfalls. Budget real time here. The walk into the cutting is where the place actually lands.
 

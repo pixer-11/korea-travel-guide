@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-prix-de-l-arc-de-triomphe
-srcHash: 'f4e3dcaafdaf'
+srcHash: '3af9f7821d2b'
 title: 'Prix de l''Arc de Triomphe: fechas, entradas y sede (París)'
 description: El Prix de l'Arc de Triomphe se celebra en París del 3 al 4 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
 quickAnswer: El Prix de l'Arc de Triomphe se celebra en el hipódromo de Paris-Longchamp los días 3 y 4 de octubre de 2026, y la gran carrera se disputa el sábado. Las entradas van desde el acceso general al césped hasta las gradas y los paquetes de hospitalidad; conviene confirmar horarios y entradas en las webs oficiales de France Galop y Paris-Longchamp antes de reservar. El día del Arco conviene llegar con bastante antelación a la hora de salida, ya que el acceso por el Bois de Boulogne se congestiona.

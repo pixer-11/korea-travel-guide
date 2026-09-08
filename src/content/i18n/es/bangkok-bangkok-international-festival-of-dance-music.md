@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bangkok-international-festival-of-dance-music
-srcHash: '2e2b3312b6dd'
+srcHash: 'aabe94e5de62'
 title: 'Festival Internacional de Danza y Música de Bangkok: lo que hay que saber (Bangkok)'
 description: Festival Internacional de Danza y Música de Bangkok, en Bangkok, Tailandia — del 5 de septiembre al 17 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizarte para asistir.
 quickAnswer: El Festival Internacional de Danza y Música de Bangkok vuelve con su 28.ª edición del 5 de septiembre al 17 de octubre de 2026, celebrado principalmente en el Thailand Cultural Centre, con 12 producciones internacionales —ópera, ballet, danza contemporánea y espectáculos multimedia— procedentes de nueve países. Reserva las entradas y confirma las fechas, horarios y sedes específicos de cada espectáculo en los canales oficiales del festival en cuanto se publique el programa completo, ya que cada producción se presenta durante un breve calendario propio dentro de esta ventana de seis semanas.

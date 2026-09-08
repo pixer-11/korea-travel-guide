@@ -70,11 +70,11 @@ updatedDate: '2026-09-01'
 
 You see it before you see anything else in El Nido: a jagged wall of grey limestone shooting up behind the rooftops of Buena Suerte. It looks improbable, almost theatrical, and that first glimpse is what pulls most people toward the trailhead.
 
-Unlike El Nido's boat tours, this view costs nothing but sweat. No entrance fee, no ticket booth — just a dirt path that starts climbing almost immediately.
+Unlike El Nido's boat tours, this view costs nothing but sweat. No entrance fee, no ticket booth, just a dirt path that starts climbing almost immediately.
 
 ## Getting there and the climb itself
 
-The trailhead sits in Barangay 2, a short walk from El Nido town proper — most guesthouses are 10-15 minutes away on foot. Ask locally for the "Taraw Cliff trail" and you'll be pointed toward Buena Suerte.
+The trailhead sits in Barangay 2, a short walk from El Nido town proper. Most guesthouses are 10-15 minutes away on foot. Ask locally for the "Taraw Cliff trail" and you'll be pointed toward Buena Suerte.
 
 The route itself is short in distance but relentless in gradient. You're on loose rock and packed dirt almost the whole way, hauling yourself up with fixed ropes bolted into the cliff face.
 
@@ -100,10 +100,10 @@ Because the site has no gate and no posted hours, it's genuinely open around the
 
 ## How to visit like a local
 
-Taraw Cliff hasn't been absorbed into the standard tour-boat circuit the way the lagoons have, so it stays relatively uncrowded outside weekend evenings. That's your advantage — use it.
+Taraw Cliff hasn't been absorbed into the standard tour-boat circuit the way the lagoons have, so it stays relatively uncrowded outside weekend evenings. That's your advantage, use it.
 
 - **Start early.** Beat both the heat and the afternoon haze that dulls the bay view.
-- **Wear real shoes.** Closed-toe trainers or hiking shoes, not sandals — the rope sections demand grip.
+- **Wear real shoes.** Closed-toe trainers or hiking shoes, not sandals, the rope sections demand grip.
 - **Bring water, no vendors up top.** There's nothing to buy on the trail or summit.
 - **Pay nothing, tip if guided.** There's no official entrance fee; if a local guide walks you up, a small cash tip is customary and appreciated.
 - **Travel light.** You'll want both hands free for the ropes, so a small daypack beats a shoulder bag.

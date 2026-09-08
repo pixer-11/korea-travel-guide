@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: santiago-de-compostela-casco-historico-de-santiago-de-compostela
-srcHash: 'bbda68839ab7'
+srcHash: 'd5b1269b7d8b'
 title: 圣地亚哥德孔波斯特拉古城区（Casco Histórico）旅行指南
 description: 圣地亚哥的古城区（Casco Histórico）是环绕大教堂而建的花岗岩老城，被列入联合国教科文组织世界遗产名录，拱廊街巷、朝圣广场与隐秘的回廊纵横交错，最适合花半天时间徒步探索。4.8星（111条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 圣地亚哥的古城区（Casco Histórico）是环绕大教堂而建的花岗岩老城，被列入联合国教科文组织世界遗产名录，拱廊街巷、朝圣广场与隐秘的回廊纵横交错，最适合花半天时间徒步探索。不必赶在中午和旅游大巴一起挤在大教堂周围，不如选清晨或晚饭后，去弗兰科街（Rúa do Franco）两旁的小巷走一走——那时石墙在路灯下泛着微光，身边只有你和偶尔擦肩而过的朝圣者。

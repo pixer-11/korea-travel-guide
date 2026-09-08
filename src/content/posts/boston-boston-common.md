@@ -85,36 +85,36 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-You come up out of the Park Street T stop and the city just opens up — traffic noise falls away behind you, and suddenly there's a wide expanse of lawn, gravel paths, and old trees where a parking lot or office tower would be almost anywhere else in America. That's the first thing that hits you about Boston Common: it's been here since 1634, older than the country itself, and it still functions as the front yard for an entire city rather than a museum piece behind glass.
+You come up out of the Park Street T stop and the city just opens up, traffic noise falls away behind you, and suddenly there's a wide expanse of lawn, gravel paths, and old trees where a parking lot or office tower would be almost anywhere else in America. That's the first thing that hits you about Boston Common: it's been here since 1634, older than the country itself, and it still functions as the front yard for an entire city rather than a museum piece behind glass.
 
 ## Why go
 
-This isn't a manicured showpiece garden — it's a working, well-worn public green where office workers eat lunch on benches, dog walkers loop the paths, and street performers set up near the fountains. The ground itself has history baked in: British troops camped here before marching out to Lexington and Concord in 1775, and the Common has been used over the centuries for public hangings, cattle grazing, and Revolutionary-era militia drills.
+This isn't a manicured showpiece garden. It's a working, well-worn public green where office workers eat lunch on benches, dog walkers loop the paths, and street performers set up near the fountains. The ground itself has history baked in: British troops camped here before marching out to Lexington and Concord in 1775, and the Common has been used over the centuries for public hangings, cattle grazing, and Revolutionary-era militia drills.
 
 Walking across it, you're crossing the same soil as some of the oldest recorded events in American history, which is a strange thing to register while someone's jogging past you in AirPods.
 
 ## Getting there
 
-The park sits right in the middle of downtown Boston, bounded by Tremont, Park, Beacon, Charles, and Boylston Streets. The easiest access is Park Street station (Red and Green Lines) — walk out and you're standing at the park's edge within seconds. Boylston Street station (Green Line) drops you at the southwest corner, near the Central Burying Ground. If you're walking from Beacon Hill or the Financial District, it's a flat, five-to-ten-minute stroll either way.
+The park sits right in the middle of downtown Boston, bounded by Tremont, Park, Beacon, Charles, and Boylston Streets. The easiest access is Park Street station (Red and Green Lines). Walk out and you're standing at the park's edge within seconds. Boylston Street station (Green Line) drops you at the southwest corner, near the Central Burying Ground. If you're walking from Beacon Hill or the Financial District, it's a flat, five-to-ten-minute stroll either way.
 
 Because it's downtown, street parking is scarce and expensive; the Boston Common Garage underneath the park itself is the most convenient option if you're driving.
 
 ## What to see and do
 
-Start at the Frog Pond, which becomes a public ice rink in winter and a shallow wading pool in summer — genuinely one of the few free things to do with kids in the city center. The Robert Gould Shaw Memorial, honoring the Civil War's 54th Massachusetts Regiment, sits near the Beacon Street edge and is worth a slow look, both for the bronze relief work and the history it commemorates.
+Start at the Frog Pond, which becomes a public ice rink in winter and a shallow wading pool in summer, genuinely one of the few free things to do with kids in the city center. The Robert Gould Shaw Memorial, honoring the Civil War's 54th Massachusetts Regiment, sits near the Beacon Street edge and is worth a slow look, both for the bronze relief work and the history it commemorates.
 
-The Common is also mile one of the Freedom Trail, the red-brick line painted into the sidewalk that connects 16 historic sites across the city — pick it up here and it'll lead you naturally toward the State House, Granary Burying Ground, and beyond. On the Charles Street side, the park spills directly into the Public Garden, where the swan boats and the famous "Make Way for Ducklings" bronze statues make a natural next stop.
+The Common is also mile one of the Freedom Trail, the red-brick line painted into the sidewalk that connects 16 historic sites across the city, pick it up here and it'll lead you naturally toward the State House, Granary Burying Ground, and beyond. On the Charles Street side, the park spills directly into the Public Garden, where the swan boats and the famous "Make Way for Ducklings" bronze statues make a natural next stop.
 
 Bandstand concerts, protests, and seasonal markets (including a winter holiday market some years) roll through the central lawn depending on the season, so it's worth checking what's on before you go.
 
 ## When to go
 
-Spring and fall are the sweet spot — the trees along the Tremont Street mall turn color in October, and the lawns are green and usable (rather than snow-packed or baked out) from April through June. Summer is popular but comes with heat and heavier tourist traffic, especially near the Freedom Trail starting point. Winter has its own appeal if you don't mind cold: string lights, the Frog Pond rink, and a much quieter park overall.
+Spring and fall are the sweet spot, the trees along the Tremont Street mall turn color in October, and the lawns are green and usable (rather than snow-packed or baked out) from April through June. Summer is popular but comes with heat and heavier tourist traffic, especially near the Freedom Trail starting point. Winter has its own appeal if you don't mind cold: string lights, the Frog Pond rink, and a much quieter park overall.
 
 ## How to visit like a local
 
-Because this is one of the most visited green spaces in the country, don't expect a quiet hidden corner — the trick is timing, not secrecy. Arrive before 9am on a weekday and you'll have long stretches of path largely to yourself, with commuters cutting through rather than tour groups gathering. Avoid the late-afternoon and weekend rush, when the paths near Park Street and the Freedom Trail marker fill up fast.
+Because this is one of the most visited green spaces in the country, don't expect a quiet hidden corner. The trick is timing, not secrecy. Arrive before 9am on a weekday and you'll have long stretches of path largely to yourself, with commuters cutting through rather than tour groups gathering. Avoid the late-afternoon and weekend rush, when the paths near Park Street and the Freedom Trail marker fill up fast.
 
-There's no admission fee and nothing to pay for beyond a Frog Pond skate rental or a food cart snack, so there's no ticket booth to navigate — you simply walk in. If someone offers you a "free" bracelet or flower near the entrances, it's a known tip-request scam; a polite "no thank you" and a kept-moving pace is the standard local response.
+There's no admission fee and nothing to pay for beyond a Frog Pond skate rental or a food cart snack, so there's no ticket booth to navigate, you simply walk in. If someone offers you a "free" bracelet or flower near the entrances, it's a known tip-request scam; a polite "no thank you" and a kept-moving pace is the standard local response.
 
-Treat it as a through-park the way Bostonians do: a shortcut between the T, the State House, and the shops on Newbury or Charles Street, not a single-destination outing — pair it with the Public Garden and a stretch of the Freedom Trail so your visit has a natural beginning and end.
+Treat it as a through-park the way Bostonians do: a shortcut between the T, the State House, and the shops on Newbury or Charles Street, not a single-destination outing, pair it with the Public Garden and a stretch of the Freedom Trail so your visit has a natural beginning and end.

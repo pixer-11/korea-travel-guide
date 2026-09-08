@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ayutthaya-ayutthaya-historical-park
-srcHash: 'fd2145136486'
+srcHash: '79ad78ccd1a2'
 title: 아유타야 역사공원 여행 가이드
 description: 아유타야 역사공원은 방콕 북쪽 약 80km 지점, 옛 왕도 섬 전역에 폐허가 된 사원과 왕궁 터가 펼쳐진 유네스코 세계문화유산입니다.
 quickAnswer: 아유타야 역사공원은 방콕 북쪽 약 80km 지점, 옛 왕도 섬 전역에 폐허가 된 사원과 왕궁 터가 펼쳐진 유네스코 세계문화유산입니다. 반나절에서 하루 정도 일정을 잡고, 자전거를 빌리거나 뚝뚝(tuk-tuk)·롱테일 보트를 이용해 왓 마하탓(Wat Mahathat, 나무뿌리에 얽힌 불상 머리로 유명한 곳), 왓 랏차부라나(Wat Ratchaburana), 왓 프라 시 산펫(Wat Phra Si Sanphet) 같은 곳들을 둘러보세요. 더위를 피하고 붉은 벽돌 체디(chedi)에 비치는 아름다운 빛을 보려면 이른 아침이나 늦은 오후에 방문하는 것이 좋습니다.

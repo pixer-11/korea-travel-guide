@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-paradox-museum-mumbai
-srcHash: '798e1f530803'
+srcHash: '0d28ca09ee46'
 title: 'Museo Paradox: Guía de viaje de Bombay (4.7★)'
 description: 'El Museo Paradox de Bombay se encuentra en el distrito de Fort, escondido detrás del Bombay Gymkhana en Azad Maidan, y es una parada muy visitada por quienes buscan fotos de ilusiones ópticas en su recorrido por la ciudad. 4.7★ (17.389 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Paradox de Bombay se encuentra en el distrito de Fort, escondido detrás del Bombay Gymkhana en Azad Maidan, y es una parada muy visitada por quienes buscan fotos de ilusiones ópticas en su recorrido por la ciudad. Abre todos los días desde las 11:00, y el momento más tranquilo es por las tardes entre semana o los fines de semana justo a la apertura; conviene evitar la avalancha de entre las 14:00 y las 19:00 los fines de semana. Calcule entre 60 y 90 minutos para recorrer bien todas las salas.

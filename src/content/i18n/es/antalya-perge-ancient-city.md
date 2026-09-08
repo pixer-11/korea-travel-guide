@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: antalya-perge-ancient-city
-srcHash: '1ee454135e90'
+srcHash: '9d05adafc908'
 title: 'Ciudad antigua de Perge: guía de viaje de Antalya (4.7★)'
 description: 'Perge es una extensa ciudad grecorromana situada a unos 18 km al este de Antalya, abierta todos los días de 8:00 a 20:00, y merece fácilmente dos o tres horas de visita. 4.7★ (8.370 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: 'Perge es una extensa ciudad grecorromana situada a unos 18 km al este de Antalya, abierta todos los días de 8:00 a 20:00, y merece fácilmente dos o tres horas de visita. Conviene ir justo a la apertura o después de las 17:00 para esquivar los autobuses turísticos y el peor calor, ya que el yacimiento apenas tiene sombra. Lleve calzado adecuado: las losas de mármol de la calle porticada son irregulares y se vuelven resbaladizas cuando llueve.'

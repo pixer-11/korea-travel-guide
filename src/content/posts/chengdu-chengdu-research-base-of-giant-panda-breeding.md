@@ -88,7 +88,7 @@ updatedDate: '2026-08-30'
 
 ## Why go
 
-The Chengdu Research Base of Giant Panda Breeding is one of the few places on earth where you can reliably see giant pandas — dozens of them — in a setting designed to mimic their natural bamboo-forest habitat rather than a cramped zoo enclosure. Founded in 1987 with just six rescued pandas, the base has grown into a sprawling conservation and breeding campus that's home to over 100 giant pandas today, plus a smaller population of red pandas, which many visitors end up finding just as charming.
+The Chengdu Research Base of Giant Panda Breeding is one of the few places on earth where you can reliably see giant pandas, dozens of them, in a setting designed to mimic their natural bamboo-forest habitat rather than a cramped zoo enclosure. Founded in 1987 with just six rescued pandas, the base has grown into a sprawling conservation and breeding campus that's home to over 100 giant pandas today, plus a smaller population of red pandas, which many visitors end up finding just as charming.
 
 With a 4.6 rating across thousands of reviews, it's consistently cited as one of Chengdu's must-do experiences, and it's a legitimate research and conservation facility, not a tourist gimmick.
 
@@ -96,17 +96,17 @@ With a 4.6 rating across thousands of reviews, it's consistently cited as one of
 
 The base is located at 1375 Xiong Mao Da Dao in Chenghua District, on the northern outskirts of Chengdu, roughly 40–60 minutes from the city center depending on traffic. The most straightforward option is a taxi or Didi (China's ride-hailing app), which costs a fraction of what an equivalent ride would cost in Europe or North America. For public transport, take Chengdu Metro Line 3 to Panda Avenue Station (熊猫大道站), then transfer to a short shuttle bus or taxi for the final stretch, since the station doesn't sit directly at the gate.
 
-Public bus routes 87, 198, and the dedicated panda-base tourist bus lines also run from various points in the city — ask your hotel to confirm the current best route, as bus numbers occasionally shift. Many hotels and hostels in Chengdu also sell round-trip shuttle tickets that bundle transport with admission, which is worth it if you'd rather not navigate transfers.
+Public bus routes 87, 198, and the dedicated panda-base tourist bus lines also run from various points in the city. Ask your hotel to confirm the current best route, as bus numbers occasionally shift. Many hotels and hostels in Chengdu also sell round-trip shuttle tickets that bundle transport with admission, which is worth it if you'd rather not navigate transfers.
 
 ## What to see
 
-Head straight to the Giant Panda Garden and the Sub-adult Panda Garden first — pandas are most active in the cool morning hours and tend to nap through the afternoon heat, especially in summer. The Sun Shine Nursery House is the highlight for most visitors, housing the youngest cubs, sometimes just weeks old, in glass-fronted nurseries. Don't rush past the Moon Ring Nursery and the Museum of Giant Pandas, which covers panda biology, evolution, and the base's breeding and conservation research in more depth than most visitors expect.
+Head straight to the Giant Panda Garden and the Sub-adult Panda Garden first, pandas are most active in the cool morning hours and tend to nap through the afternoon heat, especially in summer. The Sun Shine Nursery House is the highlight for most visitors, housing the youngest cubs, sometimes just weeks old, in glass-fronted nurseries. Don't rush past the Moon Ring Nursery and the Museum of Giant Pandas, which covers panda biology, evolution, and the base's breeding and conservation research in more depth than most visitors expect.
 
-The Red Panda Garden, a separate and often less crowded loop, lets you get close to these fox-like, tree-climbing cousins of the giant panda — they're smaller, faster, and arguably more entertaining to watch. The base is large and mostly outdoors with a lot of walking between areas, so wear comfortable shoes and pace yourself; a golf-cart shuttle service circulates for those who want to skip sections.
+The Red Panda Garden, a separate and often less crowded loop, lets you get close to these fox-like, tree-climbing cousins of the giant panda. They're smaller, faster, and arguably more entertaining to watch. The base is large and mostly outdoors with a lot of walking between areas, so wear comfortable shoes and pace yourself; a golf-cart shuttle service circulates for those who want to skip sections.
 
 ## When to go
 
-Early morning is non-negotiable if you want to see pandas doing more than sleeping — arrive at or just after opening to beat both the heat and the tour-bus crowds that build steadily through mid-morning. Spring (March–May) and autumn (September–November) bring milder weather and generally more active pandas than the humid Chengdu summer. Weekdays are noticeably quieter than weekends and Chinese public holidays, when domestic tourist numbers spike sharply — avoid visiting during Golden Week (early October) or Chinese New Year if possible.
+Early morning is non-negotiable if you want to see pandas doing more than sleeping (arrive at or just after opening to beat both the heat and the tour-bus crowds that build steadily through mid-morning. Spring (March–May), and autumn (September–November) bring milder weather and generally more active pandas than the humid Chengdu summer. Weekdays are noticeably quieter than weekends and Chinese public holidays, when domestic tourist numbers spike sharply) avoid visiting during Golden Week (early October) or Chinese New Year if possible.
 
 ## Nearby & tips
 

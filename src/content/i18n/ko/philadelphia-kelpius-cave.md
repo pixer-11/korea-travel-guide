@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: philadelphia-kelpius-cave
-srcHash: 'aa2d95ae95cf'
+srcHash: '253a2ce57984'
 title: '켈피우스 동굴: 필라델피아 여행 가이드 (4.5★)'
 description: 켈피우스 동굴은 필라델피아 페어마운트 파크(Fairmount Park) 내 위사히콘 밸리 파크(Wissahickon Valley Park) 구역, 위사히콘 크릭(Wissahickon Creek) 근처 허밋 레인(Hermit Lane)에서 살짝 벗어난 곳에 자리하고 있습니다. 4.5★(219개 리뷰) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
 quickAnswer: 켈피우스 동굴은 필라델피아 페어마운트 파크 내 위사히콘 밸리 파크 구역, 위사히콘 크릭 근처 허밋 레인에서 살짝 벗어난 곳에 자리하고 있습니다. 무료로 방문할 수 있고 매일 오전 9시부터 오후 8시까지 운영되며, 등산객과 반려견 산책객들이 몰리기 전인 평일 오전에 방문하면 가장 한적합니다. 짧은 개울가 산책과 함께 둘러본다면 45분에서 1시간 정도 여유를 두는 것이 좋습니다.

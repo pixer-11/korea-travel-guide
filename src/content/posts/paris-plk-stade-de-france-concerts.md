@@ -46,7 +46,7 @@ heroImage:
 ---
 ## Why this show matters
 
-PLK isn't a rapper who built his following through radio play or television appearances — he's barely done a press interview in years. Instead he became one of the most-streamed French-language artists anywhere through sheer volume of releases and a devoted, largely young fanbase that discovered him on platforms, not stages. Two nights at the Stade de France, the 80,000-capacity national stadium in Saint-Denis, is the kind of booking usually reserved for the biggest global pop and rock acts.
+PLK isn't a rapper who built his following through radio play or television appearances. He's barely done a press interview in years. Instead he became one of the most-streamed French-language artists anywhere through sheer volume of releases and a devoted, largely young fanbase that discovered him on platforms, not stages. Two nights at the Stade de France, the 80,000-capacity national stadium in Saint-Denis, is the kind of booking usually reserved for the biggest global pop and rock acts.
 
 For French rap, it was a genuine milestone, and it's why both dates were talked about as a moment for the genre rather than just another tour stop.
 
@@ -64,16 +64,16 @@ The announcement covered two consecutive nights, September 4 and 5, 2026. A back
 
 ## Tickets and timing
 
-Pricing, a seating chart and set times were not part of the announcement. Tickets were sold through PLK's artist channels and the Stade de France's own ticketing partners; resale sites and secondhand listings promising "guaranteed" seats carried real risk, since stadium shows of this size are magnets for scalpers and counterfeit tickets. With both nights announced together, each ticket was dated for one show or the other — an easy detail to mix up.
+Pricing, a seating chart and set times were not part of the announcement. Tickets were sold through PLK's artist channels and the Stade de France's own ticketing partners; resale sites and secondhand listings promising "guaranteed" seats carried real risk, since stadium shows of this size are magnets for scalpers and counterfeit tickets. With both nights announced together, each ticket was dated for one show or the other, an easy detail to mix up.
 
 ## Where to eat and stay nearby
 
-Saint-Denis itself has a real neighborhood feel once you step past the stadium's immediate perimeter — a working-class, heavily North and West African district with excellent, affordable couscous and grilled meat spots around the market area near Saint-Denis–Basilique, one RER stop from the stadium. The Basilica of Saint-Denis, burial site of French kings, is a short detour for anyone in the area earlier in the day.
+Saint-Denis itself has a real neighborhood feel once you step past the stadium's immediate perimeter, a working-class, heavily North and West African district with excellent, affordable couscous and grilled meat spots around the market area near Saint-Denis–Basilique, one RER stop from the stadium. The Basilica of Saint-Denis, burial site of French kings, is a short detour for anyone in the area earlier in the day.
 
-Visitors to shows here usually base themselves in central Paris and treat the concert as an evening trip out — the RER connections make that entirely workable, with a typical journey time of 30–40 minutes each way, and longer on the return when everyone leaves at once.
+Visitors to shows here usually base themselves in central Paris and treat the concert as an evening trip out, the RER connections make that entirely workable, with a typical journey time of 30–40 minutes each way, and longer on the return when everyone leaves at once.
 
 ## How to visit like a local
 
-Parisians going to a Stade de France show don't tend to arrive early to wander the plaza — the common approach is to time the RER journey to land 45 minutes to an hour before doors, grab a beer or a kebab from one of the stands lining Avenue Jules Rimet, and head straight in. Tickets and transport passes are almost universally handled by phone now, with RER tickets or Navigo passes kept ready on a screen rather than on paper.
+Parisians going to a Stade de France show don't tend to arrive early to wander the plaza. The common approach is to time the RER journey to land 45 minutes to an hour before doors, grab a beer or a kebab from one of the stands lining Avenue Jules Rimet, and head straight in. Tickets and transport passes are almost universally handled by phone now, with RER tickets or Navigo passes kept ready on a screen rather than on paper.
 
-The biggest mistake first-timers make is underestimating the exit crush: when 80,000 people leave at once, the RER platforms back up fast, and regulars either linger a little in the surrounding streets or accept a slower-than-usual trip back. Dress for these shows tends to be casual — trainers and comfortable layers, given hours of standing in the pitch section.
+The biggest mistake first-timers make is underestimating the exit crush: when 80,000 people leave at once, the RER platforms back up fast, and regulars either linger a little in the surrounding streets or accept a slower-than-usual trip back. Dress for these shows tends to be casual, trainers and comfortable layers, given hours of standing in the pitch section.

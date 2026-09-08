@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: udaipur-maharana-pratap-museum
-srcHash: '541941ca67e7'
+srcHash: '67d65cd2e96e'
 title: 'Museo Maharana Pratap: Guía de viaje de Udaipur (4.5★)'
 description: 'El Museo Maharana Pratap se encuentra en Haldighati, a una hora en coche al norte de Udaipur, en el lugar donde tuvo lugar la batalla de 1576 entre Maharana Pratap y las tropas de Akbar. 4.5★ (19.307 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Maharana Pratap se encuentra en Haldighati, a una hora en coche al norte de Udaipur, en el lugar donde tuvo lugar la batalla de 1576 entre Maharana Pratap y las tropas de Akbar. Conviene llegar entre las 8:00 y las 10:00, cuando hay menos gente, para ver las exposiciones y el espectáculo de luz y sonido sin la avalancha de autobuses turísticos. Calcule entre 1,5 y 2 horas de visita y combínela con la cercana Chetak Samadhi.

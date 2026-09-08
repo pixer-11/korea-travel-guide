@@ -64,7 +64,7 @@ Nashville has long called itself the "Athens of the South," and this building is
 
 ## What you'll see inside
 
-The scale hits you first — 46 columns outside, then the doors open onto a shadowy interior lit to make Athena Parthenos glow. At just under 42 feet, she's the tallest indoor sculpture in the Western world, gilded, spear in hand, a small Nike balanced on her palm.
+The scale hits you first, 46 columns outside, then the doors open onto a shadowy interior lit to make Athena Parthenos glow. At just under 42 feet, she's the tallest indoor sculpture in the Western world, gilded, spear in hand, a small Nike balanced on her palm.
 
 Walk the perimeter and take in the proportions of the room itself; the coffered ceiling and the way the light falls across her face changes depending on the hour.
 
@@ -78,11 +78,11 @@ Downstairs and in the east and west wings, the Parthenon doubles as an art museu
 
 The Parthenon sits inside Centennial Park at 2500 West End Ave, about two miles west of downtown Nashville. Driving or rideshare is the easiest route; there's metered and park lot parking nearby, though it fills fast on weekends.
 
-Several WeGo bus routes run along West End Avenue and stop within a short walk. If you're already downtown, it's a flat, walkable-to-bikeable trip along West End if the weather cooperates — figure 35–40 minutes on foot.
+Several WeGo bus routes run along West End Avenue and stop within a short walk. If you're already downtown, it's a flat, walkable-to-bikeable trip along West End if the weather cooperates, figure 35–40 minutes on foot.
 
 ## When to go
 
-Hours run 9am–4:30pm Monday through Saturday, and a shorter 12:30–4:30pm window on Sundays — plan around that later Sunday opening if that's your only day. This is a very popular stop for both tourists and school groups, so it does draw steady crowds most of the year.
+Hours run 9am–4:30pm Monday through Saturday, and a shorter 12:30–4:30pm window on Sundays. Plan around that later Sunday opening if that's your only day. This is a very popular stop for both tourists and school groups, so it does draw steady crowds most of the year.
 
 Weekday mornings right when doors open tend to be calmest, especially outside peak summer tourist season and school field-trip months (spring). Golden hour in late afternoon is when the exterior columns photograph best, with warm light raking across the fluting.
 
@@ -94,10 +94,10 @@ Centennial Park itself is worth the extra hour. There's a lake with resident gee
 
 Because this is one of Nashville's most-visited attractions, timing matters more than any insider trick. Arrive at or near opening on a weekday to get the interior with the statue mostly to yourself before tour buses and school groups fill in.
 
-- Buy tickets at the door or check the official Metro Parks site for current admission — prices and any online options change periodically
+- Buy tickets at the door or check the official Metro Parks site for current admission, prices and any online options change periodically
 - Pay by card; cash isn't necessary and lines move faster with tapped payment
-- Skip flash photography near Athena Parthenos — it's discouraged and the ambient lighting is better for photos anyway
+- Skip flash photography near Athena Parthenos. It's discouraged and the ambient lighting is better for photos anyway
 - The building itself is free to view from outside anytime the park is open, so a sunrise or sunset walk past the columns costs nothing
-- The mistake most first-timers make is treating it as a five-minute photo op and skipping the galleries — the American art collection upstairs is genuinely worth the extra half hour
+- The mistake most first-timers make is treating it as a five-minute photo op and skipping the galleries. The American art collection upstairs is genuinely worth the extra half hour
 
-Wear shoes good for a park stroll, since the columns are only half the visit — the loop around Centennial Park is the other half.
+Wear shoes good for a park stroll, since the columns are only half the visit. The loop around Centennial Park is the other half.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-new-orleans-botanical-garden
-srcHash: '767709e84fa0'
+srcHash: 'a2c0c3944760'
 title: 뉴올리언스 식물원(New Orleans Botanical Garden) 여행 가이드 (4.7★)
 description: 뉴올리언스 식물원(New Orleans Botanical Garden)은 시티 파크(City Park) 내 5 Victory Ave에 위치하며, 화요일~일요일 오전 10시부터 오후 4시 30분까지 운영합니다(월요일 휴무). 4.7★(리뷰 1,595개) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 뉴올리언스 식물원(New Orleans Botanical Garden)은 시티 파크(City Park) 내 5 Victory Ave에 위치하며, 화요일~일요일 오전 10시부터 오후 4시 30분까지 운영합니다(월요일 휴무). 아르데코 양식의 산책로와 난초 온실, 선인장 컬렉션을 둘러보려면 90분에서 2시간 정도 여유를 두는 것이 좋습니다. 주말 오전 10시부터 오후 4시 사이가 가장 붐비는 시간대이니, 가능하다면 평일 오전에 방문하는 것을 추천합니다.

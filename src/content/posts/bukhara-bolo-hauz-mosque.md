@@ -77,13 +77,13 @@ This is Bolo Hauz Mosque, built in 1712 as the official mosque for Bukhara's rul
 
 Bolo Hauz was built for power, not for crowds. The emir's mosque needed to impress visiting dignitaries as much as it served prayer, and that intent still shows in the ceiling's detail and the columns' scale.
 
-The reflecting pool out front, the "hauz" in its name, is one of the last functioning examples of the water tanks that once dotted every Bukhara neighborhood. Locals used them for washing, drinking, and gathering — most were filled in decades ago for public health reasons.
+The reflecting pool out front, the "hauz" in its name, is one of the last functioning examples of the water tanks that once dotted every Bukhara neighborhood. Locals used them for washing, drinking, and gathering. Most were filled in decades ago for public health reasons.
 
 ## What you'll actually see
 
 Stand at the pool's edge and look up at the iwan, the recessed portico where the carved columns cluster. The wood is elm, brought from Russia, and the painted patterns were restored using traditional pigment techniques.
 
-Inside, the mihrab wall carries the mosque's finest tilework — turquoise and cobalt girih patterns that catch differently depending on the hour of light.
+Inside, the mihrab wall carries the mosque's finest tilework, turquoise and cobalt girih patterns that catch differently depending on the hour of light.
 
 A slim minaret stands beside the pool, echoing the far larger Kalyan Minaret a short walk away. Give the site 20 to 30 minutes; it's compact, but the ceiling rewards a slow look rather than a quick photo.
 
@@ -91,7 +91,7 @@ A slim minaret stands beside the pool, echoing the far larger Kalyan Minaret a s
 
 Bolo Hauz sits right by the Ark fortress on Bukhara's western side, an easy 15-20 minute walk from the Lyabi Hauz plaza where most travelers base themselves. Taxis and rickshaw-style tuk-tuks also loop through this stretch of the old city.
 
-The mosque's hours run long — 4:30am to 9:30pm most days, with a later 10am start on Mondays. That width matters: it means you can fold a visit around the Ark without rushing.
+The mosque's hours run long, 4:30am to 9:30pm most days, with a later 10am start on Mondays. That width matters: it means you can fold a visit around the Ark without rushing.
 
 Crowd patterns here run light overall, since Bolo Hauz doesn't pull the tour-bus numbers that hit the Ark or Poi Kalyan complex next door. For the quietest look at the columns, aim for early morning, well before the tour groups from the Ark and Poi Kalyan start moving through.
 
@@ -99,11 +99,11 @@ Crowd patterns here run light overall, since Bolo Hauz doesn't pull the tour-bus
 
 Treat it as an active mosque first, sightseeing second. Shoulders and knees covered, shoes off before stepping onto the carpeted prayer area, and a quieter voice than you'd use outside.
 
-Friday midday is prayer time for the local congregation — come outside that window if you want unobstructed access to the columns and mihrab. Early morning, before the Ark's ticket booths even open, is when you'll likely have the courtyard to yourself.
+Friday midday is prayer time for the local congregation, come outside that window if you want unobstructed access to the columns and mihrab. Early morning, before the Ark's ticket booths even open, is when you'll likely have the courtyard to yourself.
 
-There's usually no separate ticket booth or turnstile at Bolo Hauz itself, unlike the paid monuments nearby — a small donation box near the entrance is the norm, and cash in small notes is the easiest way to contribute. Photography is generally fine in the courtyard; ask before photographing anyone at prayer.
+There's usually no separate ticket booth or turnstile at Bolo Hauz itself, unlike the paid monuments nearby. A small donation box near the entrance is the norm, and cash in small notes is the easiest way to contribute. Photography is generally fine in the courtyard; ask before photographing anyone at prayer.
 
-The mistake most visitors make is treating Bolo Hauz as a five-minute add-on before the Ark and rushing the ceiling. Sit on the edge of the pool for a few minutes first — the reflection of the painted columns in the water is half the reason this spot has stayed a favorite subject for painters and photographers for over a century.
+The mistake most visitors make is treating Bolo Hauz as a five-minute add-on before the Ark and rushing the ceiling. Sit on the edge of the pool for a few minutes first, the reflection of the painted columns in the water is half the reason this spot has stayed a favorite subject for painters and photographers for over a century.
 
 ## Nearby, in the same hour
 

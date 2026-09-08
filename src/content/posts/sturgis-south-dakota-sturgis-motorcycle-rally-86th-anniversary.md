@@ -46,7 +46,7 @@ eventFactsAsked: true
 
 Sturgis is the largest motorcycle rally on the planet, and the 2026 edition was the 86th, with the theme "Sturgis Salutes America." What began in 1938 as a small race organized by the Jackpine Gypsies motorcycle club has grown into a ten-day, half-a-million-strong takeover of a South Dakota town whose year-round population is only a few thousand. Main Street becomes a wall-to-wall procession of custom choppers and touring bikes, vendor rows sell leather and chrome for blocks, and national touring acts play nightly at venues scattered across the Black Hills.
 
-Beyond the spectacle, the surrounding landscape — granite peaks, pine forests, and some of the best motorcycling roads in the country — is arguably the real headliner.
+Beyond the spectacle, the surrounding landscape (granite peaks, pine forests, and some of the best motorcycling roads in the country) is arguably the real headliner.
 
 ## When it happens
 
@@ -60,17 +60,17 @@ Many attendees also stage in Rapid City or Deadwood (15 minutes away via US-14A 
 
 ## What to see and do
 
-- **Main Street** — the heart of the rally, lined with vendors, bars, and a nonstop parade of motorcycles; best experienced on foot in the early evening.
-- **Buffalo Chip and Full Throttle Saloon** — long-running rally venues historically known for concerts and late-night entertainment.
-- **Sturgis Buffalo Chip campground area and the Black Hills National Forest roads** — scenic group rides are a rally staple; classic routes include Spearfish Canyon, Needles Highway, and Iron Mountain Road in nearby Custer State Park.
-- **Mount Rushmore** — about an hour south, a natural day-trip pairing since so many riders are already routing through the Black Hills.
-- **Deadwood** — a historic gold-rush town 15 minutes away with casinos and saloons, a popular overflow base for lodging and nightlife.
-- **Sturgis Motorcycle Museum & Hall of Fame** — on Main Street, tracing the rally's history back to its 1938 founding, worth an hour if you want context beyond the party.
+- **Main Street**, the heart of the rally, lined with vendors, bars, and a nonstop parade of motorcycles; best experienced on foot in the early evening.
+- **Buffalo Chip and Full Throttle Saloon**, long-running rally venues historically known for concerts and late-night entertainment.
+- **Sturgis Buffalo Chip campground area and the Black Hills National Forest roads**, scenic group rides are a rally staple; classic routes include Spearfish Canyon, Needles Highway, and Iron Mountain Road in nearby Custer State Park.
+- **Mount Rushmore**, about an hour south, a natural day-trip pairing since so many riders are already routing through the Black Hills.
+- **Deadwood**, a historic gold-rush town 15 minutes away with casinos and saloons, a popular overflow base for lodging and nightlife.
+- **Sturgis Motorcycle Museum & Hall of Fame**, on Main Street, tracing the rally's history back to its 1938 founding, worth an hour if you want context beyond the party.
 
 Three to four days combines rally atmosphere with actual riding in the Black Hills; a full ten-day visit is more for dedicated rally veterans.
 
 ## When to go and practical tips
 
-Early in the ten-day run (the first two or three days) tends to be less crowded than the middle weekend, which is typically the peak. Temperatures in the Black Hills in August commonly reach the 80s–90s°F by day and cool markedly at night, so layered riding gear matters. Lodging in Sturgis itself sells out roughly a year in advance for rally week — Rapid City and Deadwood are reliable fallbacks with more inventory.
+Early in the ten-day run (the first two or three days) tends to be less crowded than the middle weekend, which is typically the peak. Temperatures in the Black Hills in August commonly reach the 80s–90s°F by day and cool markedly at night, so layered riding gear matters. Lodging in Sturgis itself sells out roughly a year in advance for rally week, Rapid City and Deadwood are reliable fallbacks with more inventory.
 
 Prices for camping, tickets, and vendor goods fluctuate year to year and venue by venue, so any figures circulated beforehand were approximate. Rates and event access are handled through the official Sturgis Motorcycle Rally website.

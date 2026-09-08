@@ -70,13 +70,13 @@ draft: false
 
 You smell it before you see the far wall: that dry, papery mustiness of old bindings mixed with fresh ink. Strand has occupied this stretch of Broadway since 1957, and the building still feels like it's straining to hold everything inside it.
 
-The claim "18 miles of books" is printed on the tote bags for a reason — it's not an exaggeration. Fiction, philosophy, finance, art monographs, and staff-annotated staff picks all stack floor to ceiling.
+The claim "18 miles of books" is printed on the tote bags for a reason. It's not an exaggeration. Fiction, philosophy, finance, art monographs, and staff-annotated staff picks all stack floor to ceiling.
 
 ## Getting there
 
 Strand sits at 828 Broadway, right at East 12th Street, on the border of Greenwich Village and the East Village. The closest subway is Union Square (4, 5, 6, N, Q, R, W, L), about a three-minute walk east.
 
-Above ground, you'll pass the red rolling carts of dollar and clearance books lined along the sidewalk. That's a good sign you've arrived — dig through them before you even go inside.
+Above ground, you'll pass the red rolling carts of dollar and clearance books lined along the sidewalk. That's a good sign you've arrived, dig through them before you even go inside.
 
 ## What to see and browse
 
@@ -101,13 +101,13 @@ If you can only come on a Saturday, arrive at 10am sharp or wait until closer to
 
 Strand is a well-known New York institution now, not an undiscovered spot, so plan around its popularity rather than expecting solitude. The trick locals use is timing: weekday mornings or the first hour after opening on weekends, before tour groups arrive.
 
-Cash and card both work fine, and nobody expects tipping at a bookstore counter. There's no reservation system — you just walk in, though during peak hours you may queue briefly for the register near the door.
+Cash and card both work fine, and nobody expects tipping at a bookstore counter. There's no reservation system, you just walk in, though during peak hours you may queue briefly for the register near the door.
 
-- Ask staff for a "staff pick" recommendation — the handwritten shelf cards are a genuine Strand tradition
+- Ask staff for a "staff pick" recommendation. The handwritten shelf cards are a genuine Strand tradition
 - Check the review-copy section upstairs for steep discounts on books not yet released
 - Bring a tote or backpack; hauls here get heavy fast
-- Rare Book Room has its own hours within the store — ask at the entrance if it's open when you arrive
+- Rare Book Room has its own hours within the store. Ask at the entrance if it's open when you arrive
 
-The mistake most first-time visitors make is treating this as a quick five-minute photo stop. Strand rewards slow wandering, not a checklist visit. Skip the express lap and actually pull books off shelves — that's where the browsing pays off, not in a straight line from door to register.
+The mistake most first-time visitors make is treating this as a quick five-minute photo stop. Strand rewards slow wandering, not a checklist visit. Skip the express lap and actually pull books off shelves. That's where the browsing pays off, not in a straight line from door to register.
 
-Also worth knowing: the store rearranges sections seasonally and after big events, so don't expect the same layout as your last visit or someone else's online description. Ask a staff member if you're hunting a specific title — the inventory system is famously precise even when the shelves look chaotic.
+Also worth knowing: the store rearranges sections seasonally and after big events, so don't expect the same layout as your last visit or someone else's online description. Ask a staff member if you're hunting a specific title. The inventory system is famously precise even when the shelves look chaotic.

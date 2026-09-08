@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: puerto-princesa-luli-island
-srcHash: '90f563c7c882'
+srcHash: '71fe53673689'
 title: '루리 아일랜드(Luli Island): 푸에르토프린세사 여행 가이드 (4.3★)'
 description: 루리 아일랜드(Luli Island)는 푸에르토프린세사 앞바다에 있는 하얀 모래톱으로, 간조 때만 완전히 모습을 드러내며 혼다베이(Honda Bay) 산타루르데스(Santa Lourdes) 선착장에서 배로 30~40분 거리에 있습니다. 4.3★ (리뷰 1,043개) — 방문자들의 후기, 운영 시간, 방문 팁을 확인하세요.
 quickAnswer: 루리 아일랜드(Luli Island)는 푸에르토프린세사 앞바다에 있는 하얀 모래톱으로, 간조 때만 완전히 모습을 드러내며 혼다베이(Honda Bay) 산타루르데스(Santa Lourdes) 선착장에서 배로 30~40분 거리에 있습니다. 보통 스타피시 아일랜드(Starfish Island)나 카우리 아일랜드(Cowrie Island)와 함께 혼다베이 섬 투어의 일부로 방문합니다. 주말에는 오전 8시부터 오후 3시 사이에 방문객이 가장 몰리므로, 이른 시간에 출발하거나 근처에서 밤을 보낸다면 비교적 한산한 저녁 시간대를 노려보세요.

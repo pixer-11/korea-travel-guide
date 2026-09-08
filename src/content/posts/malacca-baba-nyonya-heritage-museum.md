@@ -76,17 +76,17 @@ You step off a street lined with souvenir shops and suddenly you're in someone's
 
 Heavy carved teak furniture, inlaid with mother-of-pearl, fills rooms lit by an internal courtyard open to the sky. Tiled floors in patterns imported from England click under your shoes. This is the real thing: a family residence, not a reconstruction.
 
-The Peranakan (Baba-Nyonya) culture blended Chinese ancestry with Malay custom, and this house shows exactly how that fusion played out in daily life — down to the wedding altars and porcelain.
+The Peranakan (Baba-Nyonya) culture blended Chinese ancestry with Malay custom, and this house shows exactly how that fusion played out in daily life, down to the wedding altars and porcelain.
 
 ## Getting there
 
-The museum sits at 48–50 Jalan Tun Tan Cheng Lock, in the middle of Malacca's UNESCO-listed heritage zone. It's an easy walk from the Stadthuys and Christ Church at Dutch Square — about 10 minutes on foot along Jonker Street's southern end.
+The museum sits at 48–50 Jalan Tun Tan Cheng Lock, in the middle of Malacca's UNESCO-listed heritage zone. It's an easy walk from the Stadthuys and Christ Church at Dutch Square, about 10 minutes on foot along Jonker Street's southern end.
 
 If you're coming from a hotel further out, a Grab (the regional ride-hailing app) is cheap and simple. There's no dedicated parking lot, so most visitors either walk in from the historic core or get dropped nearby and stroll the last stretch.
 
 ## What to see inside
 
-You're taken through the house in small groups, usually led by a guide who actually grew up in this Peranakan tradition. That personal thread — not a recorded audio guide — is what makes the visit stick.
+You're taken through the house in small groups, usually led by a guide who actually grew up in this Peranakan tradition. That personal thread, not a recorded audio guide, is what makes the visit stick.
 
 Highlights to watch for:
 
@@ -112,10 +112,10 @@ This is a well-known stop on Malacca's heritage trail, not a quiet secret, so tr
 
 - **Time it right**: arrive at 10am sharp on a weekday, or after 3pm, to avoid the weekend 10am–4pm squeeze.
 - **Pay how you like**: cash and cards are both generally accepted at the entrance, but carrying a little ringgit cash is a safe backup.
-- **Follow the guide's pace**: entry is often bundled with a short guided walkthrough — don't wander ahead, since some rooms are only unlocked as the group moves through.
+- **Follow the guide's pace**: entry is often bundled with a short guided walkthrough. Don't wander ahead, since some rooms are only unlocked as the group moves through.
 - **Dress and touch with care**: this remains a furnished, museum-grade interior, so keep hands off the antique furniture and porcelain.
 - **Skip the photos, take notes instead**: photography restrictions are common inside, so if a detail catches your eye, ask the guide about it rather than reaching for your phone.
 
-The mistake most first-time visitors make is treating this as a quick five-minute photo-op stop. It's a proper guided experience, and the stories the guide shares — about specific wedding customs, mourning rituals, or family heirlooms — are the actual reason to come.
+The mistake most first-time visitors make is treating this as a quick five-minute photo-op stop. It's a proper guided experience, and the stories the guide shares (about specific wedding customs, mourning rituals, or family heirlooms) are the actual reason to come.
 
 Pair it with a walk down Jonker Street afterward, or the nearby Cheng Hoon Teng Temple, both within a few minutes' walk, to round out a morning in Malacca's old quarter.

@@ -69,7 +69,7 @@ draft: false
 
 ## Why this garden, not just any garden
 
-You come around a bend in the path and the city noise just stops. That's the effect Portland Japanese Garden is built for — 5.5 acres tucked into the forested hillside of Washington Park, designed to feel like a world sealed off from Portland entirely.
+You come around a bend in the path and the city noise just stops. That's the effect Portland Japanese Garden is built for, 5.5 acres tucked into the forested hillside of Washington Park, designed to feel like a world sealed off from Portland entirely.
 
 It's often called one of the most authentic Japanese gardens outside Japan, and the claim holds up. Eight distinct garden styles unfold across the grounds, from the raked gravel of the Flat Garden to the koi-filled ponds of the Strolling Pond Garden.
 
@@ -77,13 +77,13 @@ It's often called one of the most authentic Japanese gardens outside Japan, and 
 
 Start at the Flat Garden, where white sand is raked into patterns that shift with the seasons. From there, paths climb past a real waterfall into the Natural Garden's mossy, uneven terrain.
 
-The Tea Garden holds a working teahouse, hand-built in Japan and reassembled here. The Strolling Pond Garden is the postcard shot — arched moon bridges, slow koi, maples that go incandescent red in October.
+The Tea Garden holds a working teahouse, hand-built in Japan and reassembled here. The Strolling Pond Garden is the postcard shot, arched moon bridges, slow koi, maples that go incandescent red in October.
 
-Don't skip the Umami Café near the entrance. Don't rush past the Garden House either — it's got sweeping views over the treetops toward Mount Hood on a clear day.
+Don't skip the Umami Café near the entrance. Don't rush past the Garden House either. It's got sweeping views over the treetops toward Mount Hood on a clear day.
 
 ## Getting there
 
-The garden sits inside Washington Park, above the Oregon Zoo and International Rose Test Garden. Take the MAX Light Rail (Red or Blue Line) to Washington Park Station — it's the deepest transit station in North America, so budget a few minutes for the elevator ride up.
+The garden sits inside Washington Park, above the Oregon Zoo and International Rose Test Garden. Take the MAX Light Rail (Red or Blue Line) to Washington Park Station. It's the deepest transit station in North America, so budget a few minutes for the elevator ride up.
 
 From the station, it's a walk or a free shuttle ride to the garden entrance. Driving is an option too, but parking in Washington Park fills fast on weekends; the paid garage near the Rose Garden is your best bet if you arrive after mid-morning.
 
@@ -95,14 +95,14 @@ Weekends between 10am and 5pm are the busiest stretch by far, with the entry pla
 
 ## How to visit like a local
 
-This garden draws visitors from well beyond Portland, so don't expect a quiet, undiscovered spot — the trick is beating the rush, not avoiding it. Here's what actually helps:
+This garden draws visitors from well beyond Portland, so don't expect a quiet, undiscovered spot. The trick is beating the rush, not avoiding it. Here's what actually helps:
 
 - **Arrive at opening.** A 10am start (noon on Tuesdays) gets you an hour or more before tour groups thicken the paths.
 - **Book timed tickets online in advance.** Walk-up capacity is limited on busy days, especially during peak bloom and fall-color weeks.
 - **Skip Saturday and Sunday if you can.** A weekday visit, especially first thing, is a noticeably different experience.
-- **Walk clockwise from the entrance** — most visitors drift toward the Flat Garden first, so looping the other direction buys you quieter minutes in the Strolling Pond Garden.
+- **Walk clockwise from the entrance**, most visitors drift toward the Flat Garden first, so looping the other direction buys you quieter minutes in the Strolling Pond Garden.
 - **Pay by card or phone.** Ticketing and the café are both set up for contactless payment; cash isn't necessary.
 - **Move slowly and stay on the gravel paths.** The moss gardens are fragile, and stepping off-path is the single most common thing staff have to correct visitors on.
 - **Bring a layer.** The hillside setting means it's often a few degrees cooler and breezier than downtown Portland.
 
-Give yourself a full 90 minutes minimum — longer if you want to sit with tea at the Umami Café and just watch the koi for a while.
+Give yourself a full 90 minutes minimum, longer if you want to sit with tea at the Umami Café and just watch the koi for a while.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: philadelphia-independence-national-historical-park
-srcHash: 'a37d992002fe'
+srcHash: 'cbfb06529263'
 title: 独立国家历史公园:费城旅行指南
 description: 独立国家历史公园是费城老城区(Old City)内长达20个街区的历史街区，坐落着独立厅(Independence Hall)、自由钟中心(Liberty Bell Center)以及一系列记录美国建国历程的博物馆。4.6星(26,599条评价)——游客评价、开放时间与实用建议。
 quickAnswer: 独立国家历史公园是费城老城区(Old City)内长达20个街区的历史街区，坐落着独立厅(Independence Hall)、自由钟中心(Liberty Bell Center)以及一系列记录美国建国历程的博物馆。建议至少安排半天时间——如果想参观独立厅内部并在富兰克林苑(Franklin Court)多逛逛，则需要一整天。建议在开园时或下午3点后到达，以避开旅游大巴带来的人流高峰。

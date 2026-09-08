@@ -68,19 +68,19 @@ draft: false
 
 ## Why Kubah is worth the drive
 
-You don't come to Kubah for one famous sight. You come for the forest itself — dipterocarp trees leaning over sandstone ridges, wild palms crowding the understory, the air thick and green.
+You don't come to Kubah for one famous sight. You come for the forest itself, dipterocarp trees leaning over sandstone ridges, wild palms crowding the understory, the air thick and green.
 
 It's about 20km from central Kuching, small enough as national parks go, but the terrain punches above its size. Trails climb steadily through jungle to viewpoints over the Sarawak coastline and down to waterfalls where the water runs tea-dark over rock.
 
 ## Getting there
 
-Most visitors drive or take a taxi/Grab from Kuching city, roughly 30-40 minutes depending on traffic. There's no reliable public bus that drops you at the gate, so arranging a car — rented or hired — makes the day far less stressful.
+Most visitors drive or take a taxi/Grab from Kuching city, roughly 30-40 minutes depending on traffic. There's no reliable public bus that drops you at the gate, so arranging a car, rented or hired, makes the day far less stressful.
 
 If you're staying near the Kuching waterfront, ask your hotel about arranging a return taxi, since flagging one down near the park afterward can take a while.
 
 ## What to see and do inside
 
-Register at the park headquarters first — staff can point you to whichever trail suits your energy and time.
+Register at the park headquarters first. Staff can point you to whichever trail suits your energy and time.
 
 The main options:
 
@@ -89,13 +89,13 @@ The main options:
 - **Rayu Trail** – longer, links toward Matang Wildlife Centre if you want a full-day trek
 - **Summit Trail** – the toughest climb, rewarded with coastal viewpoints on clear days
 
-Bring water and watch your footing — the paths get slick after rain, and Kuching's rain doesn't ask permission.
+Bring water and watch your footing. The paths get slick after rain, and Kuching's rain doesn't ask permission.
 
-Wildlife here is shy but real: bearded pigs root through the undergrowth, and the forest hums with cicadas and the occasional hornbill call overhead. Don't expect orangutans — for those, most people continue to nearby Semenggoh Wildlife Centre or Matang, which connects via the Rayu Trail.
+Wildlife here is shy but real: bearded pigs root through the undergrowth, and the forest hums with cicadas and the occasional hornbill call overhead. Don't expect orangutans, for those, most people continue to nearby Semenggoh Wildlife Centre or Matang, which connects via the Rayu Trail.
 
 ## When to go
 
-Weekday mornings, 7am to noon, are consistently the quietest stretch here — arrive then and you'll often have long sections of trail to yourself.
+Weekday mornings, 7am to noon, are consistently the quietest stretch here. Arrive then and you'll often have long sections of trail to yourself.
 
 Weekends pick up steam through the afternoon, with the busiest crush typically rolling from 5pm into the evening as day-trippers and picnicking groups arrive. If you're after solitude on the trails, avoid that window entirely.
 
@@ -103,16 +103,16 @@ Sarawak's equatorial climate means heat and humidity year-round, so an early sta
 
 ## How to visit like a local
 
-Come early, come light, and register at the counter before you set off — it's how the park tracks who's on the trails.
+Come early, come light, and register at the counter before you set off. It's how the park tracks who's on the trails.
 
 Practical notes:
 
 - Pay entrance and any trail fees in cash at the counter; card acceptance out here isn't guaranteed
-- Wear proper closed shoes, not sandals — the sandstone gets slippery near the waterfalls
+- Wear proper closed shoes, not sandals. The sandstone gets slippery near the waterfalls
 - Carry your own water and a snack; there's no real food stop once you're past the entrance
 - Tell the ranger which trail you're taking and your rough return time
 
-The mistake most first-timers make is treating this like a quick photo stop. The park rewards a half-day, not a drive-by — build in time to actually sit by the waterfall rather than rushing through.
+The mistake most first-timers make is treating this like a quick photo stop. The park rewards a half-day, not a drive-by, build in time to actually sit by the waterfall rather than rushing through.
 
 Since this isn't a place locals treat as an everyday haunt so much as a well-known day-trip destination, you won't find crowds of regulars, but weekday mornings still feel noticeably calmer than the tour-bus energy of a Saturday afternoon.
 
@@ -122,4 +122,4 @@ Pair Kubah with Matang Wildlife Centre, connected by the Rayu Trail for hikers, 
 
 Semenggoh Wildlife Centre, Kuching's best-known spot for semi-wild orangutans, sits on the opposite side of the city and works well as a separate half-day. Annah Rais longhouse is another possible add-on if you want a cultural stop to balance the forest.
 
-Give Kubah itself three to four hours minimum — less if you only do the Waterfall Trail, more if you're chasing the summit viewpoint.
+Give Kubah itself three to four hours minimum, less if you only do the Waterfall Trail, more if you're chasing the summit viewpoint.

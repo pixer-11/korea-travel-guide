@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hoi-an-me-hoi-an-rooftop-coffee-kitchen
-srcHash: '155e41d9f89d'
+srcHash: 'd2041d99515b'
 title: Mê Hội An 屋顶咖啡厨房：会安旅行指南
 description: Mê Hội An Rooftop Coffee & Kitchen 位于会安古镇核心地带的陈富街（Trần Phú）166号，距离日本廊桥不远，最佳游览时间是傍晚（约16:30-18:00），可以在日落和夜晚灯笼亮起前抢到一个屋顶座位。
 quickAnswer: Mê Hội An Rooftop Coffee & Kitchen 位于会安古镇核心地带的陈富街（Trần Phú）166号，距离日本廊桥不远，最佳游览时间是傍晚（约16:30-18:00），可以在日落和夜晚灯笼亮起前抢到一个屋顶座位。来这里是为了俯瞰古镇红瓦屋顶的全景，而不是为了匆匆吃一顿饭——建议预留1-1.5小时，在旺季（2月至8月）以及会安每月一次的满月灯笼节夜晚，顶楼座位很可能需要排队等候。

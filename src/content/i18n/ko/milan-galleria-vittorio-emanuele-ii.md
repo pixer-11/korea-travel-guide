@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: milan-galleria-vittorio-emanuele-ii
-srcHash: 'f8e037b9e2d8'
+srcHash: '68216eb85e70'
 title: '갈레리아 비토리오 에마누엘레 2세: 밀라노 여행 가이드 (4.7★)'
 description: 갈레리아 비토리오 에마누엘레 2세(Galleria Vittorio Emanuele II)는 두오모 광장(Piazza del Duomo)과 스칼라 광장(Piazza della Scala)을 잇는 밀라노의 웅장한 19세기 유리 돔 아케이드로, 입장료가 없고 24시간 개방되며, 단체 관광객과 쇼핑객이 몰리기 전인 오전 7시~9시가 가장 좋은 방문 시간입니다. 4.7★ (114,960개 리뷰) — 방문객들의 후기, 운영 시간, 팁을 소개합니다.
 quickAnswer: 갈레리아 비토리오 에마누엘레 2세(Galleria Vittorio Emanuele II)는 두오모 광장(Piazza del Duomo)과 스칼라 광장(Piazza della Scala)을 잇는 밀라노의 웅장한 19세기 유리 돔 아케이드로, 입장료가 없고 24시간 개방되며, 단체 관광객과 쇼핑객이 몰리기 전인 오전 7시~9시가 가장 좋은 방문 시간입니다. 모자이크 바닥, 철골과 유리로 된 지붕, 그리고 캄파리노(Camparino)에서의 커피 한 잔을 위해 찾는 곳이지, 저렴한 쇼핑을 하러 가는 곳은 아닙니다. 위를 올려다보고 주변을 둘러보는 데는 20~30분이면 충분하고, 바로 옆 두오모와 함께 둘러본다면 더 여유 있게 잡으세요.

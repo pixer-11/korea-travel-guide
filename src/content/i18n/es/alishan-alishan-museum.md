@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-alishan-museum
-srcHash: '099ca7e1876f'
+srcHash: 'ac3b01a94fab'
 title: 'Museo de Alishan: Guía de viaje (4,3★)'
 description: 'El Museo de Alishan es un pequeño museo forestal y cultural dentro del Área Escénica Nacional de Alishan, abierto todos los días de 8:30 a 16:30, ideal como parada tranquila de 30-45 minutos entre el tren del amanecer y el paseo al Árbol Sagrado. 4,3★ (560 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Alishan es un pequeño museo forestal y cultural dentro del Área Escénica Nacional de Alishan, abierto todos los días de 8:30 a 16:30. Es una parada sencilla y poco concurrida de 30-45 minutos, perfecta entre el tren del amanecer y el paseo al Árbol Sagrado. Pasa bastante desapercibido incluso entre quienes ya están visitando Alishan, así que a menudo tendrá las salas casi para usted solo.

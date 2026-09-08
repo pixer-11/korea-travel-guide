@@ -69,7 +69,7 @@ updatedDate: '2026-09-04'
 
 ## Why go
 
-You come to Eurwangni for the strange novelty of watching jets climb out over the water while your feet are still in the sand. Incheon International Airport sits just up the coast, so every few minutes a plane lifts off the runway and banks out over the Yellow Sea. It sounds like it should be intrusive. Instead it's oddly hypnotic — the beach's own private soundtrack.
+You come to Eurwangni for the strange novelty of watching jets climb out over the water while your feet are still in the sand. Incheon International Airport sits just up the coast, so every few minutes a plane lifts off the runway and banks out over the Yellow Sea. It sounds like it should be intrusive. Instead it's oddly hypnotic, the beach's own private soundtrack.
 
 The sand here is pale and fine, the shoreline shallow and gently sloping, so the water stays warm and calm well out from shore. Compared to Korea's more famous beach towns on the east coast, this one feels unhurried and low-key.
 
@@ -85,29 +85,29 @@ The address, 16-15 Yongyuseo-ro 302beon-gil, will get any taxi driver there dire
 
 ## What to see and do
 
-The beach itself is the draw — wide enough that even on a busy day you can find open sand. Walk the shoreline toward Wangsan Beach to the south, its quieter neighbor, connected by a coastal path good for an easy stroll.
+The beach itself is the draw, wide enough that even on a busy day you can find open sand. Walk the shoreline toward Wangsan Beach to the south, its quieter neighbor, connected by a coastal path good for an easy stroll.
 
 Pine trees back much of the shore, giving shade for a mat and a cooler if you're picnicking. In warmer months, jet ski and banana boat rentals set up along the water, and simple seafood tents sell grilled shellfish, dried squid, and cold beer right at the sand's edge.
 
-Sunset here is the real reason people linger — the sky over the water turns deep orange as planes silhouette against it, a strange, oddly cinematic view found in few other places.
+Sunset here is the real reason people linger, the sky over the water turns deep orange as planes silhouette against it, a strange, oddly cinematic view found in few other places.
 
 ## When to go
 
 Summer (July–August) is peak season, when the seafood tents are all open and the water is warmest, but also when crowds are heaviest. Spring and early autumn bring milder weather and far more breathing room on the sand.
 
-Weekday mornings are consistently the calmest time to visit, before day-trippers arrive from Seoul and Incheon. Weekend afternoons, especially in summer, draw the biggest crowds — if you want space to actually spread out a towel, avoid that window.
+Weekday mornings are consistently the calmest time to visit, before day-trippers arrive from Seoul and Incheon. Weekend afternoons, especially in summer, draw the biggest crowds, if you want space to actually spread out a towel, avoid that window.
 
 Winter is quiet and cold, better suited to a brisk walk than a swim, but the plane-watching and sunset views hold up year-round.
 
 ## How to visit like a local
 
-Eurwangni still feels under-the-radar next to Korea's headline beaches, and that's part of its appeal — no need to rush.
+Eurwangni still feels under-the-radar next to Korea's headline beaches, and that's part of its appeal, no need to rush.
 
 - **Time it right:** aim for a weekday morning or the hour before sunset, both far calmer than midday.
-- **Pay in cash** at the seafood tents and rental stalls — many are small, family-run operations without card readers.
+- **Pay in cash** at the seafood tents and rental stalls. Many are small, family-run operations without card readers.
 - **Order like a local:** try *jogae gui* (grilled shellfish) or *ojingeo* (dried squid) with a cold beer at one of the shoreline tents.
-- **Dress for it:** wear sandals you don't mind getting wet — the shallow slope means you'll wade in further than expected.
+- **Dress for it:** wear sandals you don't mind getting wet. The shallow slope means you'll wade in further than expected.
 - **The mistake visitors make:** treating it as a quick photo stop. Give it at least an hour or two to actually enjoy the sand, the seafood, and the sunset.
 - **Combine it:** pair with nearby Wangsan Beach or a walk along the coastal path for a fuller half-day out.
 
-There's no formal ticket or booking system — you simply walk onto the sand. That openness, paired with the runway views, is what makes Eurwangni worth the detour before a flight rather than just a beach to tick off.
+There's no formal ticket or booking system, you simply walk onto the sand. That openness, paired with the runway views, is what makes Eurwangni worth the detour before a flight rather than just a beach to tick off.

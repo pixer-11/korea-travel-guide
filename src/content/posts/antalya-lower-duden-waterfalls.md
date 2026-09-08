@@ -65,26 +65,26 @@ The cliff face is streaked green and black with mineral deposits, and on a clear
 
 A paved path loops through the park to several viewing platforms cut into the clifftop. The main platform puts you almost directly above the falls, looking down as the water launches off the rock and mists the boats that idle offshore for tourist photos.
 
-Lower down, a rockier terrace lets you get closer to where the river actually meets the sea — expect spray if the wind's up.
+Lower down, a rockier terrace lets you get closer to where the river actually meets the sea. Expect spray if the wind's up.
 
 - Boat trips from Lara Beach circle beneath the falls for a bottom-up view
 - Shaded picnic areas and tea gardens sit just back from the cliff edge
 - A small mosque and cafés line the park's edge for a break
 - Photographers linger for the late-afternoon light hitting the cliff face
 
-Give it 45 minutes to an hour — enough to walk the platforms, take photos, and grab a tea overlooking the water.
+Give it 45 minutes to an hour, enough to walk the platforms, take photos, and grab a tea overlooking the water.
 
 ## Getting there
 
 The falls sit on Lara Caddesi in Muratpaşa district, about 20 minutes east of central Antalya by car and just a few minutes from Lara Beach.
 
-Local buses running the Lara line stop close to the entrance — ask for "Düden Şelalesi" and confirm the route number at your hotel, since city bus numbering shifts occasionally. Taxis and ride-hailing apps are straightforward and inexpensive from Lara or the old town (Kaleiçi).
+Local buses running the Lara line stop close to the entrance. Ask for "Düden Şelalesi" and confirm the route number at your hotel, since city bus numbering shifts occasionally. Taxis and ride-hailing apps are straightforward and inexpensive from Lara or the old town (Kaleiçi).
 
 If you're already at Lara Beach, it's an easy add-on to a beach day rather than a separate trip.
 
 ## When to go
 
-The park itself never closes — it's open 24 hours every day — but the falls are busiest in late morning through early afternoon when tour buses arrive from Lara's hotel strip.
+The park itself never closes, it's open 24 hours every day, but the falls are busiest in late morning through early afternoon when tour buses arrive from Lara's hotel strip.
 
 Come right after sunrise or in the last couple of hours before sunset for thinner crowds and softer light on the cliff. Spring and autumn bring comfortable temperatures without peak summer heat; the water flow is typically fullest in late winter and spring after rain, and noticeably thinner by late summer.
 
@@ -92,12 +92,12 @@ Come right after sunrise or in the last couple of hours before sunset for thinne
 
 This is one of Antalya's most-visited natural landmarks, not a quiet find, so plan around the crowds rather than expecting to avoid them entirely.
 
-- Arrive early morning or close to sunset — midday tour groups clog the main platform
+- Arrive early morning or close to sunset, midday tour groups clog the main platform
 - Wear shoes with grip; the rock terraces near the water get slick with spray
 - Cafés and vendors mostly accept cash and card; small tea stalls may prefer cash
-- Skip the paid boat trip if you're short on time — the clifftop view is the real draw
+- Skip the paid boat trip if you're short on time. The clifftop view is the real draw
 - Don't lean over railings for photos; the drop is real and the rock edges crumble
 
-There's no ticket booth or formal queue system — it's a public park, so you simply walk in. The etiquette locals follow is practical: don't block the narrow viewing spots for long photo sessions when others are waiting behind you.
+There's no ticket booth or formal queue system. It's a public park, so you simply walk in. The etiquette locals follow is practical: don't block the narrow viewing spots for long photo sessions when others are waiting behind you.
 
 Combine your visit with Lara Beach or the Antalya Aquarium nearby, both an easy taxi ride away, to make a fuller half-day out of the trip.

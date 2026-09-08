@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-blanco-coffee-and-books
-srcHash: 'd3f3bd0926ec'
+srcHash: '9bb352ab4d19'
 title: 'Blanco Coffee And Books: guía de viaje de Yogyakarta'
 description: Blanco Coffee And Books es un café minimalista y luminoso en Jl. Kranggan, en Jetis, justo al norte de la antigua muralla de Yogyakarta y cerca del monumento Tugu Jogja.
 quickAnswer: Blanco Coffee And Books es un café minimalista y luminoso en Jl. Kranggan, en Jetis, justo al norte de la antigua muralla de Yogyakarta y cerca del monumento Tugu Jogja. Vale la pena ir por su café indonesio de origen único y buena procedencia, su breve carta de platos ligeros y su ambiente tranquilo de rincón de lectura; se disfruta mejor un día laborable por la mañana, antes de que lleguen el bullicio del mediodía y el tráfico de instagramers. Calcule entre 45 y 90 minutos de visita y un gasto de nivel medio (nivel de precio 2) por un café y algo para picar.

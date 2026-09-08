@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-cham-nokor-bachey-temple
-srcHash: 'e6f62c6809e2'
+srcHash: 'dd72a72ea7d0'
 title: 'Templo de Nokor BaChey: Guía de viaje de Kampong Cham (4,4★)'
 description: 'Nokor BaChey (Wat Nokor) es un templo de arenisca del siglo XI en las afueras de la ciudad de Kampong Cham, con un monasterio budista en funcionamiento construido dentro de sus antiguos muros. 4,4★ (595 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Nokor BaChey (Wat Nokor) es un templo de arenisca del siglo XI en las afueras de la ciudad de Kampong Cham, con un monasterio budista en funcionamiento construido dentro de sus antiguos muros. Abre todos los días de 6:30 a 20:30, con el momento de menor afluencia entre semana hacia el mediodía (12:00-13:00), y basta con unos 45-60 minutos para recorrerlo. Es un lugar poco conocido incluso para los estándares de Camboya, y se llega fácilmente en tuk-tuk desde el centro de la ciudad.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ankara-an-tkabir
-srcHash: '2b8c945a5c9f'
+srcHash: '3bb9f7296a30'
 title: 'Anıtkabir: Guía de viaje de Ankara'
 description: Anıtkabir, el monumental mausoleo de Ankara dedicado a Mustafa Kemal Atatürk, se encuentra en la colina de Anıttepe, en Çankaya, y merece una visita de dos a tres horas.
 quickAnswer: Anıtkabir, el monumental mausoleo de Ankara dedicado a Mustafa Kemal Atatürk, se encuentra en la colina de Anıttepe, en Çankaya, y merece una visita de dos a tres horas. Es un lugar extremadamente concurrido (más de 140.000 reseñas y una calificación cercana al máximo), así que lo ideal es ir un día de semana entre las 9:00 y las 17:00 —la franja más tranquila registrada— y evitar las multitudes de fin de semana entre las 11:00 y las 16:00.

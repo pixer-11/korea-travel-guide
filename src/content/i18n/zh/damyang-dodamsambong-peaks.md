@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: damyang-dodamsambong-peaks
-srcHash: '9d6707b30d88'
+srcHash: 'de9a2f4b39e5'
 title: 道潭三峰:丹阳旅行指南(4.2★)
 description: 道潭三峰其实位于忠清北道丹阳郡——而非潭阳——是一组从南汉江(Namhangang River)中拔地而起的三块石灰岩。4.2★(8,139条评价)——游客评价、开放时间与实用建议。
 quickAnswer: 道潭三峰其实位于忠清北道丹阳郡——而非潭阳——是一组从南汉江(Namhangang River)中拔地而起的三块石灰岩。每天开放时间为上午9点至下午6点，平日时段人最少;周末从上午10点起会迎来最大客流。建议安排一小时游览江边步道、喷泉表演，并可选择乘坐快艇。

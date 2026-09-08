@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-chor-minor-monument
-srcHash: 'bdd7175fea14'
+srcHash: '5b7c6b86aa61'
 title: 'Monumento Chor Minor: Guía de viaje de Bujará (4,6★)'
 description: 'Chor Minor es una pequeña portada de cuatro torres escondida en una callejuela residencial, a pocos minutos a pie al este de Lyabi-Hauz, en Bujará. 4,6★ (2.301 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Chor Minor es una pequeña portada de cuatro torres escondida en una callejuela residencial, a pocos minutos a pie al este de Lyabi-Hauz, en Bujará. Abre todos los días de 8:00 a 20:00, la visita apenas lleva de 15 a 20 minutos y el momento más tranquilo es entre las 8:00 y las 10:00, antes de que lleguen los grupos turísticos y los vendedores de recuerdos. Combínala con un paseo por la mahalla circundante para vivir la experiencia completa.

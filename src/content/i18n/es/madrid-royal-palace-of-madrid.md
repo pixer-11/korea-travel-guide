@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-royal-palace-of-madrid
-srcHash: 'b02b824eb274'
+srcHash: 'e9683c2f965f'
 title: 'Palacio Real de Madrid: Guía de viaje'
 description: 'Llega justo a la apertura, a las 10:00, un día entre semana para evitar las multitudes en el Palacio Real de Madrid: esa es la franja más tranquila (10:00-11:00), mientras que las tardes de fin de semana de 13:00 a 18:00 son las que registran las colas más largas.'
 quickAnswer: 'Llega justo a la apertura, a las 10:00, un día entre semana para evitar las multitudes en el Palacio Real de Madrid: esa es la franja más tranquila (10:00-11:00), mientras que las tardes de fin de semana de 13:00 a 18:00 son las que registran las colas más largas. Reserva de dos a tres horas para las salas reales, la armería y la farmacia, compra las entradas con horario fijo por internet con antelación, y ten en cuenta que los domingos cierra antes, a las 15:00.'

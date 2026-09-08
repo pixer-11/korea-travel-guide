@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-david-byrne-live-in-bangkok
-srcHash: '908e7f5bc493'
+srcHash: '9473cf81af41'
 title: '데이비드 번 방콕 공연: 알아두면 좋은 정보 (방콕)'
 description: 토킹 헤즈(Talking Heads)의 전 프론트맨 데이비드 번(David Byrne)이 2026년 8월 10일 월요일 방콕 UOB 라이브(UOB Live) 무대에 오를 예정이었습니다.
 quickAnswer: 토킹 헤즈의 전 프론트맨 데이비드 번이 2026년 8월 10일 월요일 방콕 UOB 라이브 무대에 오를 예정이었습니다. 이번 요약에는 도어 오픈 시간과 공연 시작 시간까지는 나와 있지 않았으며, 날짜가 핵심 정보였고 티켓 관련 세부 사항과 정확한 공연 시각, 오프닝 아티스트 여부 등은 UOB 라이브 공식 채널이나 데이비드 번 측 티켓 파트너를 통해 공개될 예정이었습니다.

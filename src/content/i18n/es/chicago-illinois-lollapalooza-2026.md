@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-illinois-lollapalooza-2026
-srcHash: '41098fba183b'
+srcHash: 'ddfb2e399e4f'
 title: 'Lollapalooza 2026: lo que hay que saber (Chicago)'
 description: Lollapalooza 2026 se celebraría del 30 de julio al 2 de agosto en Grant Park, Chicago, con Charli XCX, Lorde y Doja Cat como cabezas de cartel.
 quickAnswer: Lollapalooza 2026 se celebraría del 30 de julio al 2 de agosto en Grant Park, Chicago, con Charli XCX, Lorde y Doja Cat entre los cabezas de cartel. Las entradas se vendían a través del sitio y la aplicación oficiales de Lollapalooza, donde también se publicaban los horarios de las actuaciones; las puertas de acceso, los horarios y el orden del cartel cambian de una edición a otra. El Loop y el South Loop están a poca distancia a pie o a un corto trayecto en CTA de Grant Park, por lo que la mayoría de los asistentes prescinde del coche.

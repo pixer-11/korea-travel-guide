@@ -82,7 +82,7 @@ draft: false
 ---
 ## Why go
 
-Peel Street climbs steeply out of Central, past dried seafood shops and vintage furniture stores, and Brunch Club sits partway up that slope like a small exhale. It's a Western-style café built for the long, unhurried version of breakfast — the kind where you order a flat white and don't move for an hour.
+Peel Street climbs steeply out of Central, past dried seafood shops and vintage furniture stores, and Brunch Club sits partway up that slope like a small exhale. It's a Western-style café built for the long, unhurried version of breakfast. The kind where you order a flat white and don't move for an hour.
 
 The room is narrow and bright, with big windows that let the morning light spill across close-set tables. It's the sort of place you duck into after a SoHo wander, not a destination you'd cross the harbour for on its own.
 
@@ -95,17 +95,17 @@ The menu leans classic all-day brunch, executed well rather than reinvented. Exp
 - Big leafy salads and grain bowls for a lighter option
 - Proper flat whites and long blacks from a real espresso machine
 
-Portions are generous enough that sharing a starter between two isn't unusual. Prices sit in the mid-range for Central — not cheap, but in line with the neighbourhood's café scene.
+Portions are generous enough that sharing a starter between two isn't unusual. Prices sit in the mid-range for Central, not cheap, but in line with the neighbourhood's café scene.
 
 ## Getting there
 
 The restaurant sits at 70 Peel Street, a steep pedestrian-friendly lane in Central on Hong Kong Island. The closest MTR stop is Central Station, from which it's roughly a 10–15 minute uphill walk through SoHo, or you can take the Central–Mid-Levels Escalator partway up and cut across on foot.
 
-If the incline puts you off, taxis handle the hill easily and drop you close to the door. Once you're there, the neighbourhood rewards a slow walk back down — Staunton Street and Elgin Street are lined with bars, galleries and other small eateries.
+If the incline puts you off, taxis handle the hill easily and drop you close to the door. Once you're there, the neighbourhood rewards a slow walk back down, Staunton Street and Elgin Street are lined with bars, galleries and other small eateries.
 
 ## When to go
 
-Brunch Club opens at 8:30am on weekdays and 8am on weekends, closing at 9pm most nights. Sunday is the exception — it shuts at 5pm, so don't plan a late Sunday dinner here.
+Brunch Club opens at 8:30am on weekdays and 8am on weekends, closing at 9pm most nights. Sunday is the exception, it shuts at 5pm, so don't plan a late Sunday dinner here.
 
 Weekend mornings are the crunch point. Weekend late mornings into early afternoon tend to be the busiest time, especially on Saturdays and Sundays, exactly when most visitors want to eat brunch. If you'd rather skip the wait, the quietest stretch on both weekdays and weekends is consistently 5pm to 9pm.
 
@@ -113,14 +113,14 @@ That evening lull is worth exploiting. You get the same menu, the same room, and
 
 ## How to visit like a local
 
-Brunch Club isn't a hidden find — it's a known, dependable neighbourhood spot, so treat the timing advice seriously rather than assuming you'll just walk in. Locals dodge the Saturday-Sunday 10am–4pm rush entirely by coming for an early coffee or swinging by in the early evening instead.
+Brunch Club isn't a hidden find. It's a known, dependable neighbourhood spot, so treat the timing advice seriously rather than assuming you'll just walk in. Locals dodge the Saturday-Sunday 10am–4pm rush entirely by coming for an early coffee or swinging by in the early evening instead.
 
 A few practical notes:
 
 - Cash and cards are both accepted; contactless and mobile payment are common across Hong Kong cafés, so don't worry about carrying only cash.
-- Service charge is often already added to the bill in Hong Kong restaurants — check before leaving extra.
+- Service charge is often already added to the bill in Hong Kong restaurants. Check before leaving extra.
 - Tables are limited, so if you're a group of four or more on a weekend, expect a short wait even outside peak hours.
-- The tourist mistake here is showing up at 11am on a Saturday expecting a quiet seat — the room simply isn't built for that volume at that hour.
+- The tourist mistake here is showing up at 11am on a Saturday expecting a quiet seat, the room simply isn't built for that volume at that hour.
 
 Order at a normal café pace: a coffee first, then food, no rush from the staff either way. Given the compact space, solo diners or pairs will always have an easier time getting seated than larger groups.
 

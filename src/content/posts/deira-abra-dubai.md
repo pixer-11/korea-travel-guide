@@ -77,13 +77,13 @@ The station sits at 90 Baniyas Rd, in the Al Sabkha area of Deira, right by the 
 
 If you're on the Dubai Metro, Al Ras or Baniyas Square stations (Green Line) are both a short walk away. Taxis simply say "Deira abra station, Al Sabkha" and drivers know it instantly.
 
-Once there, you don't book anything — you just walk down to the dock, hand over your fare, and board whichever abra is loading.
+Once there, you don't book anything, you just walk down to the dock, hand over your fare, and board whichever abra is loading.
 
 ## What the ride is actually like
 
 The boats are open-sided, wooden, and low in the water, with a single outboard motor and bench seating for maybe 20 people. You sit shoulder to shoulder with dockworkers, tourists, and abaya-clad grandmothers heading home with shopping bags.
 
-The crossing itself takes five to ten minutes, landing you at either Al Sabkha, Al Seef, or the Old Souk (Bur Dubai) dock, depending on which line you catch. There's no schedule — the boat leaves once it's full enough for the boatman's liking, usually within a few minutes.
+The crossing itself takes five to ten minutes, landing you at either Al Sabkha, Al Seef, or the Old Souk (Bur Dubai) dock, depending on which line you catch. There's no schedule, the boat leaves once it's full enough for the boatman's liking, usually within a few minutes.
 
 - Fare: a flat token amount, roughly AED 1, paid in cash to the boatman or via a token booth at some docks
 - Duration: 5–10 minutes one way
@@ -91,11 +91,11 @@ The crossing itself takes five to ten minutes, landing you at either Al Sabkha, 
 
 ## What to see along the way
 
-The real sight here isn't a monument — it's the creek itself. Wooden dhows three and four deep line both banks, still loaded by hand with everything from air conditioners to instant noodles bound for Iran and East Africa.
+The real sight here isn't a monument. It's the creek itself. Wooden dhows three and four deep line both banks, still loaded by hand with everything from air conditioners to instant noodles bound for Iran and East Africa.
 
 Looking back toward Deira you'll see the Gold Souk's low skyline and minarets; ahead, Bur Dubai's Al Fahidi district and the Dubai Museum's fort walls come into view. At night, strings of bulb lights along the dhows reflect in the water, and the call to prayer from creek-side mosques carries clean across the surface.
 
-Pair the ride with a walk through the Spice Souk on the Deira side beforehand, or the Textile Souk in Bur Dubai after you land — both are a two-minute walk from their respective docks.
+Pair the ride with a walk through the Spice Souk on the Deira side beforehand, or the Textile Souk in Bur Dubai after you land. Both are a two-minute walk from their respective docks.
 
 ## When to go
 
@@ -107,11 +107,11 @@ Early morning also means cooler air, a real factor in a city where midday heat c
 
 ## How to visit like a local
 
-Pay with small cash — coins or a low-denomination note — since the fare is collected by hand as you board, not through a machine.
+Pay with small cash, coins or a low-denomination note, since the fare is collected by hand as you board, not through a machine.
 
 Nobody queues formally here; you shuffle down the steps and squeeze onto the next departing boat, so don't wait for an usher to wave you forward.
 
 The mistake most first-timers make is treating this as a one-off photo op instead of transport. Locals use it to cross the creek for errands, then hop straight back on for the return trip minutes later.
 
-If you want a longer, calmer look at the creek without the utilitarian back-and-forth, ask about the slightly pricier hour-long abra tours some operators run from the same docks — but for the authentic five-minute crossing, the regular public abra is the one to take.
+If you want a longer, calmer look at the creek without the utilitarian back-and-forth, ask about the slightly pricier hour-long abra tours some operators run from the same docks, but for the authentic five-minute crossing, the regular public abra is the one to take.
 

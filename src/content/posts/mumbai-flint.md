@@ -34,7 +34,7 @@ heroImage:
 
 You smell Flint before you see the menu. Somewhere behind the pass, char meets smoke, and the open kitchen makes no attempt to hide it.
 
-This is chef Rahul Akerkar's return to the stove alongside Jaydeep Mukherjee, and the concept is built entirely around fire. Grills, embers, smokers — the cooking method isn't a garnish here, it's the whole point.
+This is chef Rahul Akerkar's return to the stove alongside Jaydeep Mukherjee, and the concept is built entirely around fire. Grills, embers, smokers, the cooking method isn't a garnish here, it's the whole point.
 
 The setting matters too. Flint sits inside the NCPA complex, Mumbai's premier performing arts venue on Nariman Point, so you're eating a few steps from concert halls and theatres rather than in a standalone restaurant row.
 
@@ -54,7 +54,7 @@ If you're coming from the suburbs, the nearest long-distance rail hub is Mumbai 
 
 ## When to go
 
-Because Flint is an all-day café concept, it's designed to work for breakfast, a midday coffee break, and dinner service alike — not just one meal slot.
+Because Flint is an all-day café concept, it's designed to work for breakfast, a midday coffee break, and dinner service alike, not just one meal slot.
 
 That said, exact opening hours haven't been confirmed here, and a newly opened, trending spot like this can shift its schedule in the first months. Check Flint's current hours and whether it requires reservations before you plan your visit, particularly if you're timing it around an NCPA performance.
 
@@ -64,11 +64,11 @@ Evenings around show times are a reasonable guess for the busiest stretch, given
 
 Treat Flint as part of a bigger NCPA evening rather than a standalone destination. Locals heading to a concert or play often build in time for a pre-show meal or a post-show drink here, so plan around the performance schedule, not just the restaurant's.
 
-- Book ahead if you can — new fire-concept openings in Mumbai tend to draw crowds quickly once word spreads.
+- Book ahead if you can, new fire-concept openings in Mumbai tend to draw crowds quickly once word spreads.
 - Ask your bartender about the cocktails built on unusual local ingredients; it's a distinctly local touch worth trying.
-- Dress for a night out, not beachwear — NCPA's crowd skews theatre-going.
+- Dress for a night out, not beachwear, NCPA's crowd skews theatre-going.
 - Carry a card or UPI-linked payment app, standard practice at Mumbai's newer cafés.
 
-The mistake first-time visitors make is treating Flint like a quick pit stop. Given the open-fire kitchen and cocktail program, it rewards a slower, unhurried sit-down — arrive with enough time before your show, rather than rushing in five minutes before curtain.
+The mistake first-time visitors make is treating Flint like a quick pit stop. Given the open-fire kitchen and cocktail program, it rewards a slower, unhurried sit-down. Arrive with enough time before your show, rather than rushing in five minutes before curtain.
 
 Since it's a recent opening, ask staff directly about walk-in wait times versus reservations; policies at trending Mumbai restaurants often firm up gradually in their first year.

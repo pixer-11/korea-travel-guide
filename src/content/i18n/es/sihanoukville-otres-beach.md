@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sihanoukville-otres-beach
-srcHash: 'c5d1369aada4'
+srcHash: '5aa629b96c5c'
 title: 'Playa de Otres: Guía de Viaje de Sihanoukville (4.1★)'
 description: 'La playa de Otres es la alternativa tranquila de Sihanoukville frente a la playa principal llena de casinos: una larga franja de arena blanca a la sombra de tamariscos y casuarinas, con bares de playa sencillos en lugar de edificios altos. 4.1★ (883 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'La playa de Otres es la alternativa tranquila de Sihanoukville frente a la playa principal llena de casinos: una larga franja de arena blanca a la sombra de tamariscos y casuarinas, con bares de playa sencillos en lugar de edificios altos. Conviene ir al atardecer, quedarse a probar el pescado y el marisco a la parrilla, y alquilar un tuk-tuk (unos 15-20 minutos desde el centro de Sihanoukville) en lugar de intentar llegar caminando. Ya no es un secreto, pero sigue estando mucho menos concurrida que las playas de Serendipity u Ochheuteal.'

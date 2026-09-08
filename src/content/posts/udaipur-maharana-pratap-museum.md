@@ -70,15 +70,15 @@ draft: false
 
 ## Why go
 
-This isn't just a museum — it's the actual ground where Rajasthan's most famous battle happened. Haldighati gets its name from the yellow, turmeric-colored soil underfoot, and standing here, with that ochre earth stretching toward the Aravalli hills, gives the exhibits inside a weight they wouldn't have anywhere else.
+This isn't just a museum. It's the actual ground where Rajasthan's most famous battle happened. Haldighati gets its name from the yellow, turmeric-colored soil underfoot, and standing here, with that ochre earth stretching toward the Aravalli hills, gives the exhibits inside a weight they wouldn't have anywhere else.
 
-The 1576 Battle of Haldighati pitted Maharana Pratap's outnumbered Mewar forces against the Mughal army of Akbar. It's a story every Rajasthani schoolchild knows, and the museum's job is to make you feel it too — through weapons, paintings, dioramas, and a sound-and-light show that recreates the clash after dark.
+The 1576 Battle of Haldighati pitted Maharana Pratap's outnumbered Mewar forces against the Mughal army of Akbar. It's a story every Rajasthani schoolchild knows, and the museum's job is to make you feel it too, through weapons, paintings, dioramas, and a sound-and-light show that recreates the clash after dark.
 
 ## Getting there
 
 The museum sits near Nathdwara and Balicha, roughly an hour's drive from central Udaipur. Most visitors arrive by taxi, rented car, or as part of a day tour that also covers Nathdwara's Shrinathji temple and the Chetak Samadhi memorial just up the road.
 
-There's no train or bus station nearby, so a private vehicle or organized tour is really the only practical way in. If you're driving yourself, the roads wind through open countryside and small villages — budget extra time for the drive itself, not just the visit.
+There's no train or bus station nearby, so a private vehicle or organized tour is really the only practical way in. If you're driving yourself, the roads wind through open countryside and small villages. Budget extra time for the drive itself, not just the visit.
 
 ## What to see and do
 
@@ -95,7 +95,7 @@ Give yourself 1.5 to 2 hours for the museum and grounds, longer if you're stayin
 
 The museum is open daily from 8am to 6pm, so there's no need to worry about odd closing days. Weekends get busy between 11am and 5pm, when tour groups from Udaipur pile in.
 
-If you want the place closer to yourself, arrive right at 8am — that's the quietest window on both weekdays and weekends. Late afternoon light, closer to 5pm, is also worth it for photos of the battlefield if you don't mind slightly more foot traffic.
+If you want the place closer to yourself, arrive right at 8am. That's the quietest window on both weekdays and weekends. Late afternoon light, closer to 5pm, is also worth it for photos of the battlefield if you don't mind slightly more foot traffic.
 
 Winter mornings (November to February) are cool and comfortable for walking the outdoor sections; summer here gets genuinely hot by midday.
 
@@ -103,8 +103,8 @@ Winter mornings (November to February) are cool and comfortable for walking the 
 
 This is a well-visited stop on the Udaipur day-trip circuit, not a quiet find, so plan around the crowds rather than expecting to avoid them entirely. Arriving at opening time, 8am, is your best bet for both weekdays and weekends.
 
-Entry is typically paid in cash or card at the gate — confirm current ticket prices on-site since they do change. If you want the evening sound-and-light show, ask staff about timing when you arrive, as it's scheduled separately from general museum hours.
+Entry is typically paid in cash or card at the gate, confirm current ticket prices on-site since they do change. If you want the evening sound-and-light show, ask staff about timing when you arrive, as it's scheduled separately from general museum hours.
 
-Wear closed shoes if you plan to walk the battlefield grounds; the terrain is uneven and can be dusty. Hire an on-site guide if you can — the battle's context (Pratap's guerrilla tactics, the role of the Bhil tribal fighters, Chetak's famous last charge) lands much harder with someone narrating it than reading placards alone.
+Wear closed shoes if you plan to walk the battlefield grounds; the terrain is uneven and can be dusty. Hire an on-site guide if you can, the battle's context (Pratap's guerrilla tactics, the role of the Bhil tribal fighters, Chetak's famous last charge) lands much harder with someone narrating it than reading placards alone.
 
-The mistake most visitors make is treating this as a quick photo-stop and rushing through in twenty minutes. Slow down at the diorama sections — that's where the story of the battle actually comes together.
+The mistake most visitors make is treating this as a quick photo-stop and rushing through in twenty minutes. Slow down at the diorama sections. That's where the story of the battle actually comes together.

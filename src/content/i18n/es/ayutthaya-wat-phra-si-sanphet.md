@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-wat-phra-si-sanphet
-srcHash: 'a5fd62bad1bc'
+srcHash: 'cf6586f68441'
 title: 'Wat Phra Si Sanphet: Guía de viaje de Ayutthaya (4.7★)'
 description: 'Wat Phra Si Sanphet es la silueta de los tres chedis que probablemente ya has visto en todas las fotos de Ayutthaya: el corazón ceremonial del antiguo palacio real, hoy un amplio campo de ruinas de ladrillo en el borde de la isla histórica de Ayutthaya. 4.7★ (13,669 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Wat Phra Si Sanphet es la silueta de los tres chedis que probablemente ya has visto en todas las fotos de Ayutthaya: el corazón ceremonial del antiguo palacio real, hoy un amplio campo de ruinas de ladrillo en el borde de la isla histórica de Ayutthaya. Dedícale entre 45 y 60 minutos, ven justo a la apertura o después de media tarde para evitar los autobuses turísticos, y combínalo con el cercano Wihan Phra Mongkhon Bophit, justo al lado. Los fines de semana la mayor afluencia es entre las 10am y las 5pm, así que procura ir fuera de ese horario, aunque el sitio en teoría abre de 8am a 7pm todos los días.'

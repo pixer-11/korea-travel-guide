@@ -43,9 +43,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-MotorLand Aragón is one of the more technical, fan-friendly tracks on the MotoGP calendar — a 5.3 km circuit with a long back straight, tight infield chicanes, and grandstands that give a genuine sightline advantage over some of the sport's bigger, more sprawling venues. The Aragon Grand Prix was set for August 28–30, 2026, a full three-day weekend of free practice, qualifying, and races across MotoGP, Moto2, and Moto3, plus the supporting series that typically fill out the schedule.
+MotorLand Aragón is one of the more technical, fan-friendly tracks on the MotoGP calendar, a 5.3 km circuit with a long back straight, tight infield chicanes, and grandstands that give a genuine sightline advantage over some of the sport's bigger, more sprawling venues. The Aragon Grand Prix was set for August 28–30, 2026, a full three-day weekend of free practice, qualifying, and races across MotoGP, Moto2, and Moto3, plus the supporting series that typically fill out the schedule.
 
-For visitors, it was also a chance to see a corner of Spain — the Bajo Aragón region of Teruel province — that most tourists skip entirely in favor of Madrid or Barcelona.
+For visitors, it was also a chance to see a corner of Spain, the Bajo Aragón region of Teruel province, that most tourists skip entirely in favor of Madrid or Barcelona.
 
 ## Getting there
 
@@ -61,7 +61,7 @@ The main grandstands, like those overlooking the final corners and main straight
 
 ## When to go
 
-The August 28–30 dates sat in the heart of Aragón's hot late-summer stretch — daytime temperatures in the region can climb into the mid-30s Celsius at that time of year. Practice sessions run Friday, qualifying Saturday, and the main races Sunday afternoon, with MotoGP in the headline slot.
+The August 28–30 dates sat in the heart of Aragón's hot late-summer stretch, daytime temperatures in the region can climb into the mid-30s Celsius at that time of year. Practice sessions run Friday, qualifying Saturday, and the main races Sunday afternoon, with MotoGP in the headline slot.
 
 ## Where to stay and eat
 

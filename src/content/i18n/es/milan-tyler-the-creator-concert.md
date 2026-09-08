@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-tyler-the-creator-concert
-srcHash: '95d9b4e85267'
+srcHash: 'f75c74f8187c'
 title: 'Concierto de Tyler, the Creator: lo que hay que saber (Milán)'
 description: Tyler, the Creator tenía previsto actuar en Fiera Milano Live, en Rho (Milán), el 25 de agosto de 2026. Esto es lo que se anunció sobre el show, el recinto y cómo llegar.
 quickAnswer: El concierto de Tyler, the Creator en Milán estaba previsto para el 25 de agosto de 2026 en Fiera Milano Live, en Rho, como parte de la gira de su último álbum. En este recinto, las puertas suelen abrir un par de horas antes de que salga el artista principal. El anuncio solo confirmó la fecha y el lugar; no se dieron detalles sobre la hora de apertura de puertas, los teloneros ni los tipos de entrada.

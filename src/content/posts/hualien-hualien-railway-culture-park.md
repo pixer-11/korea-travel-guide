@@ -88,27 +88,27 @@ updatedDate: '2026-09-04'
 
 Long before Hualien became a jumping-off point for Taroko Gorge day trips, this stretch of Zhongshan Road was the nerve center of the narrow-gauge Hualien Port Line, the railway that hauled marble, sugar and passengers along Taiwan's east coast. The Railway Culture Park preserves the 1932 depot complex almost intact: low wooden dormitories with deep eaves, a red-brick machine shop, rusted turntables and rail spurs half-swallowed by grass.
 
-You come here less for a single knockout sight than for the accumulated texture of the place — the way afternoon light slants through wooden louvers onto worn floorboards, the smell of old timber and machine oil that still clings to the workshop buildings, the quiet click of your own footsteps on gravel where steam locomotives once idled.
+You come here less for a single knockout sight than for the accumulated texture of the place, the way afternoon light slants through wooden louvers onto worn floorboards, the smell of old timber and machine oil that still clings to the workshop buildings, the quiet click of your own footsteps on gravel where steam locomotives once idled.
 
 ## Getting there
 
-The park sits on Zhongshan Road in Minzu Village, Hualien City, close enough to the old town that most visitors walk or cycle over from a downtown hotel — it's roughly a 15–20 minute walk from Hualien's main commercial strip near the Dongdamen Night Market area. If you're coming from Hualien Railway Station (the modern one, not this historic depot), it's about a 10-minute taxi or YouBike ride; the city's public bike-share system has docks near both the station and the park, and cycling is genuinely the most pleasant way to arrive given how flat and walkable this part of Hualien is. Drivers will find free or low-cost street parking along the surrounding lanes.
+The park sits on Zhongshan Road in Minzu Village, Hualien City, close enough to the old town that most visitors walk or cycle over from a downtown hotel. It's roughly a 15–20 minute walk from Hualien's main commercial strip near the Dongdamen Night Market area. If you're coming from Hualien Railway Station (the modern one, not this historic depot), it's about a 10-minute taxi or YouBike ride; the city's public bike-share system has docks near both the station and the park, and cycling is genuinely the most pleasant way to arrive given how flat and walkable this part of Hualien is. Drivers will find free or low-cost street parking along the surrounding lanes.
 
 ## What to see
 
-The complex is split into a few zones worth budgeting time for separately. The main dormitory row — long wooden buildings raised on stilts, Japanese colonial style — now houses small exhibition rooms, cafés and gift shops, so you can duck in and out at your own pace. Behind these, the old machine repair yard is the most atmospheric corner: rail tracks embedded in the ground, retired rolling stock, and iron fittings left to rust in place rather than polished up, which gives it a lived-in, unvarnished feel rather than a museum-diorama one.
+The complex is split into a few zones worth budgeting time for separately. The main dormitory row (long wooden buildings raised on stilts, Japanese colonial style) now houses small exhibition rooms, cafés and gift shops, so you can duck in and out at your own pace. Behind these, the old machine repair yard is the most atmospheric corner: rail tracks embedded in the ground, retired rolling stock, and iron fittings left to rust in place rather than polished up, which gives it a lived-in, unvarnished feel rather than a museum-diorama one.
 
 Look for the old dispatch office and the surviving turntable pit, both signed with basic English information. Photographers tend to linger around the timber walkways and the gaps between buildings, where the low buildings frame narrow sightlines down toward the tracks.
 
 ## When to go
 
-Hualien's coastal climate means hot, humid midday sun for much of the year, and this park has almost no shade over its open rail-yard sections. Aim for late afternoon, roughly two to three hours before sunset, when the light turns warm and raking across the wooden facades — this is also when the day-trip crowds bound for Taroko Gorge have mostly moved on.
+Hualien's coastal climate means hot, humid midday sun for much of the year, and this park has almost no shade over its open rail-yard sections. Aim for late afternoon, roughly two to three hours before sunset, when the light turns warm and raking across the wooden facades. This is also when the day-trip crowds bound for Taroko Gorge have mostly moved on.
 
 Weekday mornings are the other quiet window, since school groups and tour buses cluster on weekends and holidays. Typhoon season (July–October) can also mean sudden closures of outdoor sections, so it's worth checking current conditions if you're visiting during that stretch.
 
 ## How to visit like a local
 
-This is a well-known stop on the Hualien circuit, not a hidden find, so the trick is timing rather than discovery. Arrive right after any midday tour groups clear out, or in the last couple of hours before closing, to have the wooden walkways and rail yard largely to yourself. Wear shoes you don't mind getting a little dusty — much of the machine yard is unpaved gravel and old ballast stone.
+This is a well-known stop on the Hualien circuit, not a hidden find, so the trick is timing rather than discovery. Arrive right after any midday tour groups clear out, or in the last couple of hours before closing, to have the wooden walkways and rail yard largely to yourself. Wear shoes you don't mind getting a little dusty, much of the machine yard is unpaved gravel and old ballast stone.
 
 Cash and mobile payment (Line Pay, Taiwan's EasyCard-linked apps) are both commonly accepted at the on-site cafés and shops, though it's sensible to carry some small NT dollar notes regardless. The mistake most first-time visitors make is treating this as a quick photo-op en route to somewhere else; slow down instead, read the bilingual placards in the old offices, and treat the dormitory buildings as a self-contained wander rather than a five-minute drive-by.
 

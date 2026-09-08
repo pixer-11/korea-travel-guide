@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-al-bithnah-fort
-srcHash: 'b4299718b513'
+srcHash: '280da23345a7'
 title: 'Fuerte de Al-Bithnah: guía de viaje de Fujairah (4,3★)'
 description: 'El fuerte de Al-Bithnah es una pequeña fortificación del siglo XVIII construida en piedra y adobe, situada unos 20 minutos tierra adentro desde la ciudad de Fujairah, abierta todos los días de 8:00 a 16:00. 4,3★ (322 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El fuerte de Al-Bithnah es una pequeña fortificación del siglo XVIII construida en piedra y adobe, situada unos 20 minutos tierra adentro desde la ciudad de Fujairah, y abre todos los días de 8:00 a 16:00. La visita solo requiere entre 20 y 30 minutos y, como rara vez hay aglomeraciones, cualquier momento dentro de ese horario funciona bien; eso sí, la mañana temprano es la mejor opción si quieres aprovechar la luz y evitar el calor. Combínalo con el yacimiento arqueológico de la tumba de Bithnah, cercano, para completar una excursión de medio día.

@@ -55,7 +55,7 @@ updatedDate: '2026-08-31'
 ---
 ## Why go
 
-This is not just another old fort. The Alcázar de los Reyes Cristianos was built in the 1300s on Roman and Moorish foundations, and it wears every layer of that history at once — Mudéjar brickwork, Gothic towers, Roman stonework underfoot.
+This is not just another old fort. The Alcázar de los Reyes Cristianos was built in the 1300s on Roman and Moorish foundations, and it wears every layer of that history at once, Mudéjar brickwork, Gothic towers, Roman stonework underfoot.
 
 Ferdinand and Isabella used it as a base during the Reconquista, and later it became a residence, a prison, and even an Inquisition headquarters. You feel that layered weight as you cross the courtyard, half fortress, half garden retreat.
 
@@ -77,7 +77,7 @@ Peacocks wander the paths freely, and the geometry of the pools mirrors the Isla
 
 The Alcázar sits in Córdoba's Centro district, on Calle Caballerizas Reales, a short walk south from the Mezquita-Catedral. Most visitors arrive on foot from the old town, crossing through the Jewish Quarter's narrow whitewashed lanes.
 
-If you're coming from Córdoba's train station, it's roughly a 20-minute walk or a quick taxi ride across town. There's no dedicated parking at the site, so driving in isn't the easiest option — walking is genuinely the local way to do it.
+If you're coming from Córdoba's train station, it's roughly a 20-minute walk or a quick taxi ride across town. There's no dedicated parking at the site, so driving in isn't the easiest option, walking is genuinely the local way to do it.
 
 ## When to go
 
@@ -94,11 +94,11 @@ Summer mornings are brutal by midday heat, so an early slot on a weekday is the 
 
 This is one of Córdoba's most-visited sites, so the crowd-avoidance strategy matters more than almost anything else here.
 
-- Arrive right at opening on a weekday (8:00 AM Tue–Fri) — the gardens are nearly empty and the light on the mosaics is best.
+- Arrive right at opening on a weekday (8:00 AM Tue–Fri). The gardens are nearly empty and the light on the mosaics is best.
 - Buy tickets online in advance where possible; the on-site queue can back up quickly once tour groups arrive mid-morning.
-- Locals call it simply "el Alcázar" — useful shorthand when asking for directions in town.
+- Locals call it simply "el Alcázar", useful shorthand when asking for directions in town.
 - Payment on-site is typically by card or cash, but check current ticketing options before you go, including any combined tickets with the Mezquita-Catedral.
 - The mistake most visitors make: rushing the interior and skipping the towers. The climb is short, and the rooftop view is the actual highlight, not an afterthought.
-- Give yourself a minimum of 90 minutes — two hours if you want time to sit by the pools in the gardens rather than just walk past them.
+- Give yourself a minimum of 90 minutes. Two hours if you want time to sit by the pools in the gardens rather than just walk past them.
 
 Since this isn't an undiscovered spot, expect tour groups by mid-morning, especially Tuesday through Friday. Early or right before closing on quieter Saturday and Sunday windows are your best bets for something closer to solitude.

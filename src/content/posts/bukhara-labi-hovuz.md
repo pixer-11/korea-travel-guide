@@ -95,9 +95,9 @@ This isn't a monument you view from behind a rope. Locals and travelers share th
 
 Three buildings frame the pool, each worth circling slowly.
 
-- **Nadir Divan-Beghi Madrasah** (1622) — its facade has a mosaic of two phoenix-like birds carrying deer, an unusual figurative image for Islamic architecture
-- **Nadir Divan-Beghi Khanaka** (1620) — originally a Sufi lodge, now a handicraft space with a soaring portal
-- **Kukeldash Madrasah** (1568-69) — one of Central Asia's largest madrasahs, its plain brick bulk anchoring the square's north side
+- **Nadir Divan-Beghi Madrasah** (1622), its facade has a mosaic of two phoenix-like birds carrying deer, an unusual figurative image for Islamic architecture
+- **Nadir Divan-Beghi Khanaka** (1620), originally a Sufi lodge, now a handicraft space with a soaring portal
+- **Kukeldash Madrasah** (1568-69), one of Central Asia's largest madrasahs, its plain brick bulk anchoring the square's north side
 
 Between them stands a bronze statue of Khoja Nasruddin, the trickster folk hero, perched on his donkey mid-punchline. Children climb onto the donkey for photos; nobody minds.
 
@@ -107,13 +107,13 @@ By evening, the madrasah facades pick up amber floodlighting and the pool turns 
 
 Labi Hovuz sits in the Divan-Beghi quarter, dead-center in Bukhara's old city, so walking is realistic from almost any hotel in the historic core. It's roughly a 10-minute walk from the Ark fortress and about 5 minutes from the Poi Kalyan complex with its towering minaret.
 
-There's no metro in Bukhara — taxis and foot traffic are how everyone gets around the old town. If you're arriving from Bukhara train station, a taxi into the old city takes about 15-20 minutes depending on traffic.
+There's no metro in Bukhara, taxis and foot traffic are how everyone gets around the old town. If you're arriving from Bukhara train station, a taxi into the old city takes about 15-20 minutes depending on traffic.
 
 The square is open 24/7 as public space, but the surrounding buildings and their courtyards run 8am to midnight daily, per posted hours. Confirm current hours locally since small seasonal shifts do happen.
 
 ## When to go
 
-Mid-morning, before the tour buses unload, is when the pool is quietest — you'll get bench space and unobstructed photos of the phoenix mosaic without a dozen selfie sticks in frame. This is still an under-the-radar hour even by local standards; most visitors arrive from midday onward.
+Mid-morning, before the tour buses unload, is when the pool is quietest. You'll get bench space and unobstructed photos of the phoenix mosaic without a dozen selfie sticks in frame. This is still an under-the-radar hour even by local standards; most visitors arrive from midday onward.
 
 Come back after sunset if you can. The floodlit facades and the reflected light on the water give the square a completely different character than the flat daylight version, and the surrounding cafés fill with a low hum of conversation rather than camera shutters.
 
@@ -123,17 +123,17 @@ Spring (April-May) and autumn (September-October) bring mild temperatures for li
 
 The pool's edge is lined with open-air restaurants and teahouses, several with elevated wooden platforms (*tapchan*) where you sit cross-legged around a low table. Order a pot of green tea and a plate of *shashlik* or plov, and you can watch the square without ever standing up.
 
-Prices here run mid-range by Uzbek standards — a notch above a neighborhood chaikhana, reflecting the location rather than anything fancy on the plate. Nobody rushes you out; a two-hour tea stop is normal, not eccentric.
+Prices here run mid-range by Uzbek standards, a notch above a neighborhood chaikhana, reflecting the location rather than anything fancy on the plate. Nobody rushes you out; a two-hour tea stop is normal, not eccentric.
 
 ## How to visit like a local
 
-Skip the restaurant terraces immediately at the pool's edge if you want a cheaper, quieter meal — walk one block into the surrounding lanes and prices drop while the food stays the same.
+Skip the restaurant terraces immediately at the pool's edge if you want a cheaper, quieter meal. Walk one block into the surrounding lanes and prices drop while the food stays the same.
 
-- Sit on the public stone benches, not just restaurant seating — locals do this and it's free
+- Sit on the public stone benches, not just restaurant seating, locals do this and it's free
 - Pay cash for street snacks and small vendors; cards work at the sit-down restaurants
 - Visit the Nasruddin statue for photos in the morning light before it gets crowded with tour groups
-- Don't rush through the madrasah facades — the phoenix-and-deer mosaic on Nadir Divan-Beghi rewards a slow look, not a walk-by glance
+- Don't rush through the madrasah facades, the phoenix-and-deer mosaic on Nadir Divan-Beghi rewards a slow look, not a walk-by glance
 - Evenings bring informal folk-music performances near the teahouses; hover at the edge rather than pushing to the front, which is how locals watch too
 
-The most common tourist mistake is treating Labi Hovuz as a five-minute photo stop between bigger monuments. Locals treat it as a destination in itself — budget real time to just sit.
+The most common tourist mistake is treating Labi Hovuz as a five-minute photo stop between bigger monuments. Locals treat it as a destination in itself. Budget real time to just sit.
 

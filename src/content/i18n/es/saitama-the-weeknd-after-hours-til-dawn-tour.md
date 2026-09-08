@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: saitama-the-weeknd-after-hours-til-dawn-tour
-srcHash: '69c87378b0f1'
+srcHash: '91cc42ae81db'
 title: 'The Weeknd: After Hours Til Dawn Tour: fechas, entradas y recinto (Saitama)'
 description: The Weeknd trae las fechas de cierre en Asia de su gira After Hours Til Dawn a Saitama, Japón, los días 19 y 20 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizar el viaje alrededor del concierto.
 quickAnswer: The Weeknd cierra la etapa asiática de su gira After Hours Til Dawn en el Belluna Dome de Saitama los días 19 y 20 de septiembre de 2026, con el dúo japonés de hip-hop Creepy Nuts como telonero ambas noches. Las entradas, los horarios exactos y los detalles de acceso se gestionan a través de los canales oficiales de la gira y del recinto, así que conviene confirmarlos antes de reservar vuelos u hoteles. Para llegar con mayor facilidad al Belluna Dome, lo mejor es alojarse cerca de las estaciones de Seibu-Kyujo-mae o Higashi-Totsuka.

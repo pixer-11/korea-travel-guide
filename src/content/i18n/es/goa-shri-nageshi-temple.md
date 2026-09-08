@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goa-shri-nageshi-temple
-srcHash: 'c0c24b3bf35c'
+srcHash: '3e4b00a04989'
 title: 'Templo Shri Nageshi: Guía de Viaje de Goa (4.8★)'
 description: 'En el pueblo de Bandiwade, cerca de Ponda, se encuentra el templo Shri Nageshi, uno de los templos hindúes más antiguos y mejor conservados de Goa, dedicado a Nageshi (una forma de Shiva como señor de las serpientes). 4.8★ (3.029 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el pueblo de Bandiwade, cerca de Ponda, se encuentra el templo Shri Nageshi, uno de los templos hindúes más antiguos y mejor conservados de Goa, dedicado a Nageshi (una forma de Shiva como señor de las serpientes). Para una visita tranquila, conviene ir un día entre semana de 7 a 9 de la mañana, ya que los fines de semana el templo se llena entre el mediodía y las 8 de la tarde. Abre todos los días de 6:00 a 20:30 (los lunes hasta las 22:00), y con una hora es más que suficiente para recorrer el santuario y pasear por su antiguo patio de piedra.

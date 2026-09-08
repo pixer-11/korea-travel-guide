@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sukhothai-sukhothai-historical-park
-srcHash: '8601a977203b'
+srcHash: '9ac3ae60f1fc'
 title: 素可泰历史公园旅行指南（4.7星）
 description: 素可泰历史公园位于素可泰新城外的old city（Mueang Kao）区域，是泰国被列入联合国教科文组织名录的13世纪古都，每日6:30至19:30开放。4.7星（18,365条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 素可泰历史公园位于素可泰新城外的old city（Mueang Kao）区域，是泰国被列入联合国教科文组织名录的13世纪古都，每日6:30至19:30开放。这里人气很高，建议选清晨或闭园前最后一小时前往，才能在没有人群的情况下静静观赏红砖佛塔与佛像。行程建议预留半天时间，并在入口处租一辆自行车——仅中心区（Central Zone）就占地约70公顷。

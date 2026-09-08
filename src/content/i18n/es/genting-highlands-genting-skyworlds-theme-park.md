@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genting-highlands-genting-skyworlds-theme-park
-srcHash: 'd7e869df5976'
+srcHash: 'cb64e5c0c721'
 title: 'Genting SkyWorlds Theme Park: Guía de viaje a Genting Highlands'
 description: Genting SkyWorlds es un parque temático inspirado en Hollywood en lo alto de Genting Highlands, al que se llega en teleférico desde la estación Awana Skyway. 4.2★ (17,092 reseñas) — qué opinan los visitantes, horarios y consejos.
 quickAnswer: Genting SkyWorlds es un parque temático inspirado en Hollywood en lo alto de Genting Highlands, al que se llega en teleférico desde la estación Awana Skyway. Abre todos los días excepto los martes, de 10am a 6pm, y se llena muchísimo de 11am a 6pm los fines de semana — llega justo a la apertura o visítalo en día de semana para colas más cortas. Reserva un día completo (6-7 horas) para recorrer bien sus seis zonas temáticas.

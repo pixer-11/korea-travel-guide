@@ -49,7 +49,7 @@ draft: false
 
 Sensō-ji is Tokyo's oldest temple, completed in 645 to honor Kannon, the Buddhist goddess of mercy, after two fishermen reportedly pulled a statue of her from the Sumida River. Nearly 1,400 years later it remains the spiritual heart of Asakusa and one of the most-visited religious sites in Japan, drawing crowds that regularly pack the approach on weekends and holidays.
 
-With a 4.6 rating across roughly 97,000 reviews, it's consistently rated as an essential Tokyo stop, but its appeal isn't just the photo-ops — it's a working temple with daily rituals, incense offerings, and fortune-telling still very much in use.
+With a 4.6 rating across roughly 97,000 reviews, it's consistently rated as an essential Tokyo stop, but its appeal isn't just the photo-ops. It's a working temple with daily rituals, incense offerings, and fortune-telling still very much in use.
 
 ## Getting there
 
@@ -59,13 +59,13 @@ If arriving by river, the Tokyo Cruise water bus from Odaiba or Hamarikyu Garden
 
 ## What to see
 
-Enter through Kaminarimon, flanked by statues of the guardian gods Fūjin (wind) and Raijin (thunder), then walk the roughly 250-meter Nakamise-dōri, a shopping street lined with nearly 90 stalls selling traditional snacks, folding fans, yukata, and souvenirs — look for ningyō-yaki (small castella cakes filled with sweet bean paste) and freshly fried senbei. The street ends at the second gate, Hōzōmon, which houses a pair of giant straw sandals and leads into the main temple courtyard.
+Enter through Kaminarimon, flanked by statues of the guardian gods Fūjin (wind) and Raijin (thunder), then walk the roughly 250-meter Nakamise-dōri, a shopping street lined with nearly 90 stalls selling traditional snacks, folding fans, yukata, and souvenirs. Look for ningyō-yaki (small castella cakes filled with sweet bean paste) and freshly fried senbei. The street ends at the second gate, Hōzōmon, which houses a pair of giant straw sandals and leads into the main temple courtyard.
 
 The centerpiece is the Main Hall (Hondō), rebuilt in concrete in 1958 after wartime destruction, where the enshrined Kannon statue is kept hidden from public view. In front of the hall, a large bronze incense cauldron lets visitors waft smoke over themselves for good health. Beside it stands the Five-Story Pagoda, a reconstruction of the original Edo-era structure and one of Tokyo's tallest pagodas.
 
-For fortune-telling, drop a coin for an omikuji slip — if the fortune is bad, tie it to the nearby rack rather than take it home, a common practice at Japanese temples.
+For fortune-telling, drop a coin for an omikuji slip, if the fortune is bad, tie it to the nearby rack rather than take it home, a common practice at Japanese temples.
 
-Just east of the main hall is Asakusa Shrine (Asakusa-jinja), a Shinto shrine dedicated to the temple's three founders, distinct from the Buddhist temple but sharing the grounds — a reminder of how Shinto and Buddhist worship have long coexisted in Japan. It's a quieter, less-photographed corner worth the five-minute detour.
+Just east of the main hall is Asakusa Shrine (Asakusa-jinja), a Shinto shrine dedicated to the temple's three founders, distinct from the Buddhist temple but sharing the grounds, a reminder of how Shinto and Buddhist worship have long coexisted in Japan. It's a quieter, less-photographed corner worth the five-minute detour.
 
 ## When to go
 
@@ -73,4 +73,4 @@ Arrive before 8am if possible; the grounds and gates are open around the clock a
 
 ## Nearby & tips
 
-Plan 1.5–2 hours for the temple, pagoda, and shrine, longer if browsing Nakamise-dōri. Denboin Garden, a traditional strolling garden attached to the temple, opens only on limited days — check locally before counting on entry. Asakusa's Kappabashi kitchenware street and the Sumida River waterfront, with views toward Tokyo Skytree across the river, are both within a 10–15 minute walk and pair well with a temple visit. Photography is generally permitted throughout the grounds, though flash and tripods are discouraged inside the Main Hall.
+Plan 1.5–2 hours for the temple, pagoda, and shrine, longer if browsing Nakamise-dōri. Denboin Garden, a traditional strolling garden attached to the temple, opens only on limited days. Check locally before counting on entry. Asakusa's Kappabashi kitchenware street and the Sumida River waterfront, with views toward Tokyo Skytree across the river, are both within a 10–15 minute walk and pair well with a temple visit. Photography is generally permitted throughout the grounds, though flash and tripods are discouraged inside the Main Hall.

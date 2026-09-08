@@ -46,33 +46,33 @@ draft: false
 
 ## Why go
 
-Ikseon-dong is one of the last surviving hanok clusters this close to downtown Seoul, and unlike the more famous Bukchon Hanok Village, these low tiled-roof houses aren't just for photos — they've been converted into working cafes, bars, tea houses, and restaurants. The neighborhood dates back to the 1920s, when it was one of Seoul's first planned hanok developments. Over the past decade it's become one of the city's most photographed "hidden alley" districts, drawing comparisons to a miniature, walkable Insadong with better food and fewer souvenir shops.
+Ikseon-dong is one of the last surviving hanok clusters this close to downtown Seoul, and unlike the more famous Bukchon Hanok Village, these low tiled-roof houses aren't just for photos. They've been converted into working cafes, bars, tea houses, and restaurants. The neighborhood dates back to the 1920s, when it was one of Seoul's first planned hanok developments. Over the past decade it's become one of the city's most photographed "hidden alley" districts, drawing comparisons to a miniature, walkable Insadong with better food and fewer souvenir shops.
 
 ## Getting there
 
-The neighborhood sits just north of Jongno, sandwiched between Insadong and Dongdaemun. The most direct approach is Jongno 3-ga Station, served by Line 1, Line 3, and Line 5 — a rare triple-transfer point. Take exit 6 (or exit 4, another common entry — the station's exit maps will point you right) and walk north about 3–5 minutes; the alleys begin almost as soon as the main road noise fades.
+The neighborhood sits just north of Jongno, sandwiched between Insadong and Dongdaemun. The most direct approach is Jongno 3-ga Station, served by Line 1, Line 3, and Line 5 (a rare triple-transfer point. Take exit 6 (or exit 4, another common entry) the station's exit maps will point you right), and walk north about 3–5 minutes; the alleys begin almost as soon as the main road noise fades.
 
 Anguk Station (Line 3), one stop from Jongno 3-ga, is also within a 10-minute walk if you're combining Ikseon-dong with Bukchon or Insadong in the same outing. There's no dedicated parking area to speak of, so subway or taxi is the practical choice.
 
 ## What to see and do
 
-Ikseon-dong isn't organized around a single main street — it's a warren of alleys branching off Supyo-ro and Donhwamun-ro 11-gil, and half the appeal is getting mildly lost. Look for:
+Ikseon-dong isn't organized around a single main street. It's a warren of alleys branching off Supyo-ro and Donhwamun-ro 11-gil, and half the appeal is getting mildly lost. Look for:
 
 - **Restored hanok facades**: many buildings keep their original wooden lattice doors and low tiled rooflines even though the interiors have been gutted and modernized into cafes or bars.
 - **Courtyard cafes**: several spots are built around a small open-air *madang* (traditional courtyard), letting you sit outdoors surrounded by hanok walls even in the middle of the city.
-- **Modern-Korean and fusion restaurants**: the district has become known for chefs reworking Korean comfort food — think reinvented tteokbokki, hanwoo dishes, or Korean-style pasta — alongside standard cafes serving bingsu and specialty coffee.
+- **Modern-Korean and fusion restaurants**: the district has become known for chefs reworking Korean comfort food (think reinvented tteokbokki, hanwoo dishes, or Korean-style pasta) alongside standard cafes serving bingsu and specialty coffee.
 - **Small design and craft shops**: ceramics, stationery, and independent boutiques occupy former residential hanok, often just one or two rooms in size.
 
 Budget 1.5 to 2 hours for a relaxed wander with a coffee or meal stop; add another hour if you plan to sit down for dinner or drinks, since the neighborhood turns into a lively bar-hopping spot after dark.
 
 ## When to go
 
-Weekday late mornings (around 11am–1pm) or early evenings (5–6:30pm) tend to be the sweet spot — the alleys are narrow, so weekend afternoons get genuinely congested with photo-takers. Evenings after 7pm bring a different crowd as the bar and cocktail scene picks up, especially Thursday through Saturday. Spring and autumn are the most comfortable seasons for walking, since many of the best spots have limited outdoor or semi-outdoor seating in the courtyards.
+Weekday late mornings (around 11am–1pm) or early evenings (5–6:30pm) tend to be the sweet spot. The alleys are narrow, so weekend afternoons get genuinely congested with photo-takers. Evenings after 7pm bring a different crowd as the bar and cocktail scene picks up, especially Thursday through Saturday. Spring and autumn are the most comfortable seasons for walking, since many of the best spots have limited outdoor or semi-outdoor seating in the courtyards.
 
 Summer is humid and many alleys offer little shade; winter alleys can feel a bit stark since most greenery is minimal.
 
 ## Nearby & tips
 
-Ikseon-dong pairs naturally with a half-day loop: start at Jongmyo Shrine or Changdeokgung Palace (both a short walk east/north), wander through Ikseon-dong for food or coffee, then continue into Insadong for its art galleries and traditional tea houses, all within roughly 15–20 minutes of walking. Because most venues occupy former one-story residential buildings, expect small interiors, limited seating, and sometimes a wait at popular cafes — this isn't the place for a large group without a reservation.
+Ikseon-dong pairs naturally with a half-day loop: start at Jongmyo Shrine or Changdeokgung Palace (both a short walk east/north), wander through Ikseon-dong for food or coffee, then continue into Insadong for its art galleries and traditional tea houses, all within roughly 15–20 minutes of walking. Because most venues occupy former one-story residential buildings, expect small interiors, limited seating, and sometimes a wait at popular cafes. This isn't the place for a large group without a reservation.
 
 Signage can be subtle since many businesses deliberately keep low-key, unmarked exteriors to preserve the hanok look, so don't be afraid to peek through open doors. Prices lean slightly higher than typical Seoul cafes given the real estate and atmosphere, so treat it as a splurge stop rather than a budget meal.

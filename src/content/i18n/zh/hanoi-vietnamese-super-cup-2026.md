@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hanoi-vietnamese-super-cup-2026
-srcHash: '16bc80b9b4ed'
+srcHash: 'a12638642a45'
 title: 2026年越南超级杯需知（河内）
 description: 2026年越南超级杯于8月30日在越南河内举行。这篇指南介绍了这项赛事的性质、举办时间地点，以及围绕这场比赛发布的各类消息。
 quickAnswer: 2026年越南超级杯由V联赛（V.League 1）冠军对阵越南杯冠军，赛程定在2026年8月30日，地点是河内市中心的杭袋体育场（Hàng Đẫy Stadium）。

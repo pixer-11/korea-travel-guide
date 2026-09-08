@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-carmelo
-srcHash: '9214ce6bd10c'
+srcHash: '79c98e955543'
 title: 'Carmelo: Dónde comer en Lyon'
 description: Carmelo es un restaurante italiano en Rue Neuve, en el primer distrito de Lyon (Presqu'île), a pocos minutos a pie del Hôtel de Ville y la zona de Terreaux, conocido por sus generosas pastas y sus salas coloridas y cálidamente abarrotadas.
 quickAnswer: Carmelo es un restaurante italiano en Rue Neuve, en el primer distrito de Lyon (Presqu'île), a pocos minutos a pie del Hôtel de Ville y la zona de Terreaux, conocido por sus generosas pastas y sus salas coloridas y cálidamente abarrotadas. Es extremadamente popular y funciona en dos turnos de servicio —almuerzo de 11:45 a 14:00 (15:15 los fines de semana) y cena de 18:15 a 22:15 (22:45 los viernes y sábados)—, así que el verdadero truco está en ir justo a la apertura o reservar con antelación, en lugar de intentar encontrar una hora realmente tranquila, especialmente los fines de semana por la tarde y por la noche.

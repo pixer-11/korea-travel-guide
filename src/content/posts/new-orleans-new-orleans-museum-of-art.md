@@ -54,13 +54,13 @@ NOMA is New Orleans' grandest art collection, and it doesn't announce itself qui
 
 Inside, over 40,000 objects span centuries and continents. You'll find French and American paintings, a serious Fabergé collection, African masks, Japanese screens, and photography galleries that rotate often enough to reward repeat visits.
 
-It's the kind of museum where you can wander for twenty minutes and stumble into something you didn't expect — a gallery of Newcomb Pottery, say, made a few miles away by women potters a century ago.
+It's the kind of museum where you can wander for twenty minutes and stumble into something you didn't expect, a gallery of Newcomb Pottery, say, made a few miles away by women potters a century ago.
 
 ## Getting there
 
 NOMA sits inside City Park at 1 Collins Diboll Circle, a few minutes' walk from the park's main entrance off Esplanade Avenue. The RTA's Canal Streetcar line drops you at the City Park/Museum terminus, a short stroll through the park to the front steps.
 
-If you're driving, there's a paid parking lot right by the museum — useful, since City Park is enormous and the sculpture garden entrance is a separate walk from other park attractions.
+If you're driving, there's a paid parking lot right by the museum, useful, since City Park is enormous and the sculpture garden entrance is a separate walk from other park attractions.
 
 Rideshare drop-off is easy too; just confirm you're headed to the museum circle, not another City Park address.
 
@@ -73,7 +73,7 @@ Budget at least two hours inside, more if you're a slow-walker in galleries. Key
 - African, Oceanic, and Native American collections
 - Rotating photography and contemporary exhibitions on the ground floor
 
-Don't rush past the museum shop — it has one of the better curated art-book and jewelry selections in the city.
+Don't rush past the museum shop. It has one of the better curated art-book and jewelry selections in the city.
 
 ## The sculpture garden
 
@@ -81,27 +81,27 @@ Directly behind the museum is the Sydney and Walda Besthoff Sculpture Garden, fr
 
 This is worth building into your visit even if you're short on time. It's shaded, walkable in 45 minutes, and one of the few sculpture gardens in the U.S. set inside a working urban park rather than a fenced-off campus.
 
-Bring good shoes — the paths are gravel and occasionally uneven near the water.
+Bring good shoes. The paths are gravel and occasionally uneven near the water.
 
 ## When to go
 
-NOMA is closed Mondays. Hours vary through the rest of the week, with one evening typically staying open later than the others, which is the best window if you want a slower, later visit — check current hours before you go.
+NOMA is closed Mondays. Hours vary through the rest of the week, with one evening typically staying open later than the others, which is the best window if you want a slower, later visit. Check current hours before you go.
 
 Given its popularity, weekends bring the heaviest crowds, especially early afternoon when tour groups and families overlap. A Tuesday or Thursday morning right at opening is your quietest bet.
 
-Louisiana's heat makes late morning in the sculpture garden more pleasant than midday in summer — go before 11am if you can in June through September.
+Louisiana's heat makes late morning in the sculpture garden more pleasant than midday in summer. Go before 11am if you can in June through September.
 
 ## How to visit like a local
 
 NOMA draws a big, steady crowd, so timing matters more than secrecy here. Arrive right at opening on a weekday, or use the Wednesday evening hours to visit after the after-work rush has faded.
 
-- Buy tickets at the door or online in advance — lines build fast on weekends
+- Buy tickets at the door or online in advance, lines build fast on weekends
 - Payment is by card or contactless almost everywhere on-site
 - The sculpture garden is free and doesn't require a museum ticket
-- Photography is generally allowed in the permanent galleries, but flash and tripods are usually restricted — check signage per gallery
+- Photography is generally allowed in the permanent galleries, but flash and tripods are usually restricted. Check signage per gallery
 
 The mistake most first-timers make is treating NOMA as a quick stop before the park. It rewards a proper two-to-three-hour visit, ideally paired with lunch at the café inside or a walk to nearby Café du Monde's City Park outpost.
 
-Locals split their day between the galleries and the garden rather than picking one — the light in the garden changes through the afternoon, so late-day visits there feel different from a morning walk.
+Locals split their day between the galleries and the garden rather than picking one, the light in the garden changes through the afternoon, so late-day visits there feel different from a morning walk.
 
 If you're visiting with kids, ask at the front desk about family gallery guides; NOMA runs family-friendly materials that make the older-master paintings less of a slog for younger visitors.

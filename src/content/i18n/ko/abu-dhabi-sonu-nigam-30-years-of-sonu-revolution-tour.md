@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour
-srcHash: 'd1336ce54334'
+srcHash: '654999fe7888'
 title: '소누 니감 - 30 Years of Sonu (Revolution Tour): 일정, 티켓 및 공연장 정보 (아부다비)'
 description: 소누 니감의 '30 Years of Sonu (Revolution Tour)'는 2026년 8월 21일 아부다비 에티하드 아레나에서 열릴 예정이었으며, 이는 투어의 글로벌 첫 공연 날짜였습니다.
 quickAnswer: 소누 니감의 'Revolution Tour(30 Years of Sonu)'는 2026년 8월 21일 아부다비 야스 아일랜드(Yas Island)의 에티하드 아레나(Etihad Arena)에서 개막할 예정이었습니다. 이 날짜는 그의 30년 커리어를 기념하는 국제 콘서트 시리즈의 전 세계 첫 공연일이었습니다. 티켓 판매와 공연 시간 안내는 에티하드 아레나 공식 사이트와 소누 니감의 공인 채널을 통해 이루어졌습니다. 공연이 있는 밤에는 야스 아일랜드로 진입하는 도로가 금방 붐빈다는 점도 알아둘 만합니다.

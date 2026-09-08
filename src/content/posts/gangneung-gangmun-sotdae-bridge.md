@@ -100,7 +100,7 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-You smell the sea before you see the bridge. Walk east from Gyeongpo Beach along the Gangmun stream and the wooden poles come into view first — a row of sotdae, traditional totem posts topped with carved birds, standing guard over the water like sentinels.
+You smell the sea before you see the bridge. Walk east from Gyeongpo Beach along the Gangmun stream and the wooden poles come into view first, a row of sotdae, traditional totem posts topped with carved birds, standing guard over the water like sentinels.
 
 This is Gangmun Sotdae Bridge, a modest pedestrian crossing that punches above its size. It's not a landmark you'll find crowded onto every Gangneung itinerary, and that's part of its appeal.
 
@@ -114,7 +114,7 @@ At dusk the poles silhouette against the sky over Gangmun stream, with Gyeongpo'
 
 The bridge sits in Gangmun-dong, a short walk from Gyeongpo Beach's eastern end, near where the stream meets the sea.
 
-Most visitors arrive on foot as part of a longer Gyeongpo Beach loop — there's no dedicated parking lot, so plan to park near the beach or your accommodation and walk in.
+Most visitors arrive on foot as part of a longer Gyeongpo Beach loop. There's no dedicated parking lot, so plan to park near the beach or your accommodation and walk in.
 
 - From central Gangneung: taxi or bus toward Gyeongpo Beach, roughly 15-20 minutes
 - From Gyeongpo Beach itself: walk east along the shoreline path, about 10-15 minutes
@@ -124,7 +124,7 @@ Most visitors arrive on foot as part of a longer Gyeongpo Beach loop — there's
 
 The bridge itself takes only minutes to cross, but it's worth slowing down.
 
-- Count the sotdae — each pole's bird faces a slightly different direction, a detail easy to miss if you rush
+- Count the sotdae, each pole's bird faces a slightly different direction, a detail easy to miss if you rush
 - Look for the carved details on the birds, weathered but still distinct on the older poles
 - Continue past the bridge toward Gyeongpo Beach for the wider view of dunes and pine trees
 - Time it for early morning or just after sunset, when the light catches the wood grain
@@ -137,19 +137,19 @@ Because it's outdoors and unlit by any special installation, daylight hours give
 
 Weekends see the heaviest foot traffic between 10am and 11pm, mostly beachgoers spilling over from Gyeongpo. Avoid that window if you want the bridge to yourself.
 
-Weekday mornings are your quietest bet, though exact quiet hours aren't tracked here — arrive before the beach crowds wake up and you'll likely have the poles to yourself.
+Weekday mornings are your quietest bet, though exact quiet hours aren't tracked here. Arrive before the beach crowds wake up and you'll likely have the poles to yourself.
 
 Spring and autumn bring milder temperatures for the walk along the stream; summer means you'll be sharing the path with beach crowds regardless of time.
 
 ## How to visit like a local
 
-Treat this as a five-minute pause on a longer Gyeongpo Beach walk, not a standalone destination — that's how most people actually experience it.
+Treat this as a five-minute pause on a longer Gyeongpo Beach walk, not a standalone destination. That's how most people actually experience it.
 
 - Skip midday on weekends; the 10am–11pm stretch is when beach crowds peak and spill onto the bridge
-- No entrance fee, no ticket line — there's nothing to pay or book
+- No entrance fee, no ticket line. There's nothing to pay or book
 - Bring your own water and snacks; there are no vendors directly on the bridge, though Gyeongpo's café strip is close by
 - Wear shoes suited to a stream-side walk, since the path can be uneven in spots
-- The biggest mistake visitors make is rushing across without noticing the sotdae's carved bird heads — slow down and actually look at them
+- The biggest mistake visitors make is rushing across without noticing the sotdae's carved bird heads, slow down and actually look at them
 
 Since this spot isn't yet a bucket-list stop, you won't need to jostle for photos or wait for a clear shot. That may change as more travelers discover it, so enjoy the calm while it lasts.
 

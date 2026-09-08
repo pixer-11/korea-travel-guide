@@ -104,22 +104,22 @@ updatedDate: '2026-08-31'
 ---
 ## Why go
 
-Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake — and possibly cannon fire during a later Burmese siege — brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match.
+Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake, and possibly cannon fire during a later Burmese siege, brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match.
 
 The complex also houses the city's *lak mueang*, the guardian pillar believed to protect Chiang Mai, sheltered in a small structure beside a sacred gum tree (*sadeu mueang*) said to be as old as the city itself. Rated 4.7 from over 18,500 reviews, it's consistently one of the highest-regarded sights in the Old City.
 
 ## Getting there
 
-The temple sits at 103 Prapokklao Road, right in the walled Old City, roughly midway between Wat Phra Singh and the Three Kings Monument. It's eminently walkable from most Old City guesthouses — expect a 10–20 minute stroll depending on where you're based. If you're coming from outside the walls, a songthaew (red truck) or Grab ride from Chiang Mai's Nimman or Riverside areas typically takes 10–15 minutes and costs a small, negotiable fare.
+The temple sits at 103 Prapokklao Road, right in the walled Old City, roughly midway between Wat Phra Singh and the Three Kings Monument. It's eminently walkable from most Old City guesthouses. Expect a 10–20 minute stroll depending on where you're based. If you're coming from outside the walls, a songthaew (red truck) or Grab ride from Chiang Mai's Nimman or Riverside areas typically takes 10–15 minutes and costs a small, negotiable fare.
 
 There's no train or BTS-style system in Chiang Mai, so taxis, songthaews, or a rented bicycle/scooter are the practical options. Many visitors fold it into a walking loop of Old City temples, since Wat Phra Singh, Wat Chiang Man, and Wat Inthakhin are all within 10–15 minutes on foot.
 
 ## What to see and do
 
-- **The Lanna-style viharn (assembly hall)** at the front houses the principal Buddha image and is where locals come to make merit — worth pausing here before heading to the ruined chedi behind it.
-- **The Great Chedi itself**: walk the full perimeter to see the different restoration states — one side rebuilt with UNESCO-consulted work in the 1990s, others left deliberately weathered to preserve historical authenticity. Look for the elephant caryatids and naga balustrades flanking the staircases.
-- **The city pillar shrine**: tucked to one side, marked by a large gum tree. Local belief holds that if this tree falls, misfortune will befall the city — it's fenced and protected accordingly. Non-Buddhists can view but sometimes access to the inner shrine building is restricted to men only or closed to visitors on certain days; check signage on arrival.
-- **Monk Chat**: on many afternoons, young monks studying English sit in a designated area to converse with visitors — a low-key, genuinely interesting way to ask questions about temple life.
+- **The Lanna-style viharn (assembly hall)** at the front houses the principal Buddha image and is where locals come to make merit, worth pausing here before heading to the ruined chedi behind it.
+- **The Great Chedi itself**: walk the full perimeter to see the different restoration states, one side rebuilt with UNESCO-consulted work in the 1990s, others left deliberately weathered to preserve historical authenticity. Look for the elephant caryatids and naga balustrades flanking the staircases.
+- **The city pillar shrine**: tucked to one side, marked by a large gum tree. Local belief holds that if this tree falls, misfortune will befall the city. It's fenced and protected accordingly. Non-Buddhists can view but sometimes access to the inner shrine building is restricted to men only or closed to visitors on certain days; check signage on arrival.
+- **Monk Chat**: on many afternoons, young monks studying English sit in a designated area to converse with visitors, a low-key, genuinely interesting way to ask questions about temple life.
 - Photographers should note the chedi is at its most atmospheric in soft early or late light, when the brickwork's texture and shadow play are most visible.
 
 ## When to go
@@ -128,4 +128,4 @@ Aim for early morning (soon after opening) or late afternoon to avoid both the m
 
 ## Nearby & tips
 
-Cover shoulders and knees — sarongs are sometimes available to borrow near the entrance, but it's easier to dress appropriately beforehand. Bring small cash bills for the entry fee, since card payment isn't standard practice at temple gates. Budget 45 minutes to an hour for a relaxed visit, longer if you linger for Monk Chat. Afterward, it's a short walk to Wat Phra Singh, the Three Kings Monument, and the Old City's many café and noodle-shop strips — a natural way to spend a half-day exploring on foot.
+Cover shoulders and knees (sarongs are sometimes available to borrow near the entrance, but it's easier to dress appropriately beforehand. Bring small cash bills for the entry fee, since card payment isn't standard practice at temple gates. Budget 45 minutes to an hour for a relaxed visit, longer if you linger for Monk Chat. Afterward, it's a short walk to Wat Phra Singh, the Three Kings Monument, and the Old City's many café and noodle-shop strips) a natural way to spend a half-day exploring on foot.

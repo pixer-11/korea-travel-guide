@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xi-an-fortifications-of-xi-an
-srcHash: 'bc41ca45318c'
+srcHash: '3f20a38e26e1'
 title: 'Fortificaciones de Xi''an: Guía de viaje'
 description: 'La Muralla de Xi''an es la fortificación urbana antigua más completa que se conserva en China: un circuito rectangular de 13,7 km de murallas, foso y torres de vigilancia de la dinastía Ming que se puede recorrer a pie, en bicicleta o en carrito de golf.'
 quickAnswer: 'La Muralla de Xi''an es la fortificación urbana antigua más completa que se conserva en China: un circuito rectangular de 13,7 km de murallas, foso y torres de vigilancia de la dinastía Ming que se puede recorrer a pie, en bicicleta o en carrito de golf. Entra por la Puerta Sur (Yongningmen) para hacerte una mejor idea de su escala, calcula entre 2 y 3 horas para recorrer todo el circuito en bicicleta, y ve a última hora de la tarde, cuando la piedra brilla con un tono ámbar y las multitudes disminuyen.'

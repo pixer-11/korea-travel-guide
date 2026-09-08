@@ -82,13 +82,13 @@ updatedDate: '2026-08-30'
 
 This is where Christianity in the Philippines is said to have begun. In April 1521, Ferdinand Magellan's expedition planted a wooden cross here after baptizing the local rajah and his family. Five centuries on, that moment still pulls crowds daily.
 
-The cross you see today isn't the original — it's a tindalo-wood replica encasing what's believed to be a fragment of it. That doesn't dampen the atmosphere one bit.
+The cross you see today isn't the original. It's a tindalo-wood replica encasing what's believed to be a fragment of it. That doesn't dampen the atmosphere one bit.
 
 ## What you'll actually see
 
 You step into an open-sided octagonal kiosk, its ceiling painted with a mural depicting the baptism scene and the cross's arrival by ship. The cross itself stands waist-high on a pedestal, ringed by a low fence and usually a cluster of candles burning nearby.
 
-Vendors just outside sell tapered candles in different colors, each color said to represent a different prayer or intention — love, health, luck. You'll see locals lighting them and murmuring quietly even amid the tourist bustle.
+Vendors just outside sell tapered candles in different colors, each color said to represent a different prayer or intention, love, health, luck. You'll see locals lighting them and murmuring quietly even amid the tourist bustle.
 
 The whole visit takes 10–15 minutes unless you linger to watch the candle rituals or read the small plaques.
 
@@ -104,7 +104,7 @@ Parking is scarce right at the site, so arriving on foot or by rideshare is easi
 
 ## When to go
 
-The kiosk is open every day from 8am to 6pm, with no midday closure. Weekdays between 8 and 9am are the calmest stretch — you'll get the mural and cross mostly to yourself.
+The kiosk is open every day from 8am to 6pm, with no midday closure. Weekdays between 8 and 9am are the calmest stretch. You'll get the mural and cross mostly to yourself.
 
 Weekends are busy throughout the day, but the crush really builds from 2pm to 6pm as tour groups and family visitors pile in after lunch. If you're set on a weekend trip, aim for the morning instead.
 
@@ -114,9 +114,9 @@ Because this is one of Cebu's most-visited landmarks, expect company at almost a
 
 Since you're already downtown, stretch the visit into a half-day of colonial-era sights.
 
-- **Basilica del Santo Niño** — right next door, home to the revered Santo Niño image; check separately for its own opening hours and mass schedule.
-- **Fort San Pedro** — a Spanish-era triangular fort about 10 minutes' walk south, with harbor views from its ramparts.
-- **Cebu City Hall and Colon Street** — a short walk north, useful for a sense of the old commercial district.
+- **Basilica del Santo Niño**, right next door, home to the revered Santo Niño image; check separately for its own opening hours and mass schedule.
+- **Fort San Pedro**, a Spanish-era triangular fort about 10 minutes' walk south, with harbor views from its ramparts.
+- **Cebu City Hall and Colon Street**, a short walk north, useful for a sense of the old commercial district.
 
 Budget half a day if you want to see all three without rushing.
 
@@ -124,10 +124,10 @@ Budget half a day if you want to see all three without rushing.
 
 Locals treat the cross as a living shrine, not just a photo stop, so a little decorum goes a long way.
 
-- Buy a candle from one of the outside vendors — prices are small and negotiable, so agree before you take one.
+- Buy a candle from one of the outside vendors. Prices are small and negotiable, so agree before you take one.
 - Light it, place it in the designated racks, and step back to let others do the same; don't linger blocking the rail for photos.
 - Dress modestly since you'll likely walk straight into the adjoining basilica afterward.
-- Keep valuables close — the plaza is crowded and pickpocketing opportunists know it.
+- Keep valuables close. The plaza is crowded and pickpocketing opportunists know it.
 
 The mistake most first-timers make is treating this as a five-second selfie stop and missing the mural overhead or the candle ritual entirely. Slow down for just a few extra minutes and the place makes a lot more sense.
 

@@ -51,30 +51,30 @@ aiGenerated: true
 ---
 ## Why Dotonbori is Osaka's food capital
 
-Dotonbori runs along the south bank of the Dotonbori canal in Chuo Ward, and it's less a single restaurant strip than the physical embodiment of Osaka's food culture, "kuidaore" — eat until you go broke. The district is famous for its wall of illuminated signage, above all the Glico Running Man billboard, plus giant mechanical crabs, dragons, and puffer fish marking restaurant entrances.
+Dotonbori runs along the south bank of the Dotonbori canal in Chuo Ward, and it's less a single restaurant strip than the physical embodiment of Osaka's food culture, "kuidaore", eat until you go broke. The district is famous for its wall of illuminated signage, above all the Glico Running Man billboard, plus giant mechanical crabs, dragons, and puffer fish marking restaurant entrances.
 
 With a 4.4 rating across nearly 85,000 Google reviews, it's firmly established as one of Japan's most-visited food destinations, and the crowds on any given evening prove it.
 
 ## Getting there
 
-The easiest approach is Namba Station, served by the Midosuji, Yotsubashi, and Sennichimae subway lines, plus Nankai and Kintetsu railways. From Namba Station's exit 14 or 25, it's about a 5-minute walk north to the canal. Alternatively, Nippombashi Station (Sennichimae and Sakaisuji lines) drops you at the eastern end of the strip, closer to the Kuromon Ichiba Market side. Shinsaibashi Station (Midosuji Line) is a short walk from the western end, near the Shinsaibashi-suji shopping arcade. Whichever exit you use, just walk toward the neon glow — you can't miss it.
+The easiest approach is Namba Station, served by the Midosuji, Yotsubashi, and Sennichimae subway lines, plus Nankai and Kintetsu railways. From Namba Station's exit 14 or 25, it's about a 5-minute walk north to the canal. Alternatively, Nippombashi Station (Sennichimae and Sakaisuji lines) drops you at the eastern end of the strip, closer to the Kuromon Ichiba Market side. Shinsaibashi Station (Midosuji Line) is a short walk from the western end, near the Shinsaibashi-suji shopping arcade. Whichever exit you use, just walk toward the neon glow. You can't miss it.
 
 ## What to eat
 
-Takoyaki (octopus balls) is the dish to start with — look for stalls with a visible griddle turning the batter by hand. Kukuru and Aizuya are well-known standbys directly on the main strip. For okonomiyaki (savory cabbage pancake) and its cousin modanyaki (with added noodles), multi-story okonomiyaki restaurants line the canal-side blocks; many let you grill it yourself on a built-in teppan.
+Takoyaki (octopus balls) is the dish to start with. Look for stalls with a visible griddle turning the batter by hand. Kukuru and Aizuya are well-known standbys directly on the main strip. For okonomiyaki (savory cabbage pancake) and its cousin modanyaki (with added noodles), multi-story okonomiyaki restaurants line the canal-side blocks; many let you grill it yourself on a built-in teppan.
 
-Kushikatsu (breaded, deep-fried skewers) is Osaka's other calling card — Kushikatsu Daruma, with its skull-and-crossbones "no double-dipping" sign, has several branches right in Dotonbori and is a reliable entry point for first-timers. For something warm and cheap, look for Osaka-style ramen shops tucked into side alleys off the main canal walk. Ichiran, the famous solo-booth tonkotsu ramen chain, also has a location nearby for a quieter, curtained-off meal.
+Kushikatsu (breaded, deep-fried skewers) is Osaka's other calling card, Kushikatsu Daruma, with its skull-and-crossbones "no double-dipping" sign, has several branches right in Dotonbori and is a reliable entry point for first-timers. For something warm and cheap, look for Osaka-style ramen shops tucked into side alleys off the main canal walk. Ichiran, the famous solo-booth tonkotsu ramen chain, also has a location nearby for a quieter, curtained-off meal.
 
-Don't skip Kuromon Ichiba Market, a five-minute walk east near Nippombashi Station — it's a covered market where vendors grill fresh scallops, wagyu skewers, and uni right at the stall, ideal for grazing between bigger meals.
+Don't skip Kuromon Ichiba Market, a five-minute walk east near Nippombashi Station. It's a covered market where vendors grill fresh scallops, wagyu skewers, and uni right at the stall, ideal for grazing between bigger meals.
 
 ## When to go
 
-Early evening — roughly 5pm to 8pm — is when the billboards are lit and the atmosphere peaks, but it's also when the canal-side walkway gets genuinely packed shoulder-to-shoulder. If you want photos of the signage without the crowd crush, go right at dusk before the dinner rush fully arrives, around 4:30–5pm. Lunchtime tends to be calmer, and some restaurants offer cheaper set menus at that hour.
+Early evening, roughly 5pm to 8pm, is when the billboards are lit and the atmosphere peaks, but it's also when the canal-side walkway gets genuinely packed shoulder-to-shoulder. If you want photos of the signage without the crowd crush, go right at dusk before the dinner rush fully arrives, around 4:30–5pm. Lunchtime tends to be calmer, and some restaurants offer cheaper set menus at that hour.
 
 Dotonbori is busy in all seasons, but summer evenings add humidity to the crowds, so spring and autumn evenings tend to be the most comfortable.
 
 ## Nearby & tips
 
-Budget 2–3 hours for grazing rather than committing to one sit-down restaurant — the point of Dotonbori is trying several small things. Many stalls and smaller counters are cash-preferred, though larger restaurants increasingly take cards and IC transit cards (Suica/ICOCA) for payment. The canal itself has a walkable promenade one level below street level — worth descending to for a different photo angle of the billboards reflected in the water.
+Budget 2–3 hours for grazing rather than committing to one sit-down restaurant (the point of Dotonbori is trying several small things. Many stalls and smaller counters are cash-preferred, though larger restaurants increasingly take cards and IC transit cards (Suica/ICOCA) for payment. The canal itself has a walkable promenade one level below street level) worth descending to for a different photo angle of the billboards reflected in the water.
 
 For dessert, look for fruit sando (fruit sandwich) shops and giant crepe stands tucked into the side streets running perpendicular to the canal. If the main strip feels overwhelming, Shinsaibashi-suji, the covered shopping arcade just to the west, has quieter cafés to regroup before heading back in.

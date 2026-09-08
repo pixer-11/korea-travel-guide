@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-humayun-s-tomb
-srcHash: '7e2dd4d6546c'
+srcHash: '4d0c61b8116b'
 title: 'Tumba de Humayun: Guía de viaje de Nueva Delhi'
 description: 'La Tumba de Humayun es uno de los grandes monumentos mogoles de Delhi: la precursora en arenisca roja del Taj Mahal, situada en un jardín amurallado de estilo persa junto a Mathura Road, en Nizamuddin.'
 quickAnswer: 'La Tumba de Humayun es uno de los grandes monumentos mogoles de Delhi: la precursora en arenisca roja del Taj Mahal, situada en un jardín amurallado de estilo persa junto a Mathura Road, en Nizamuddin. Es muy popular, así que procura llegar a la hora de apertura en un día de semana para evitar los autobuses turísticos y el calor del mediodía. Reserva entre 1,5 y 2 horas, y combínala con la cercana Nizamuddin Dargah o con Sunder Nursery para completar una media jornada más completa.'

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: puerto-princesa-luli-island
-srcHash: '90f563c7c882'
+srcHash: '71fe53673689'
 title: 露丽岛（Luli Island）：普林塞萨港旅行指南（4.3★）
 description: 露丽岛是普林塞萨港（Puerto Princesa）外海的一条白色沙洲，只有在退潮时才会完整露出水面，从洪达湾（Honda Bay）圣劳德斯码头（Santa Lourdes Wharf）乘船需30-40分钟即可到达。4.3★（1,043条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 露丽岛是普林塞萨港外海的一条白色沙洲，只有在退潮时才会完整露出水面，从洪达湾圣劳德斯码头乘船需30-40分钟即可到达。它通常作为洪达湾跳岛游行程的一部分，与海星岛（Starfish Island）或宝螺岛（Cowrie Island）一同游览。周末上午8点到下午3点是人流高峰期，建议尽早出发；如果你在附近过夜，傍晚时段人会更少。

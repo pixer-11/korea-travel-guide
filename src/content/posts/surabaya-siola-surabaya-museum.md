@@ -75,7 +75,7 @@ You spot the building before you spot the sign: a pale, colonnaded facade with a
 
 The structure itself is the first exhibit. Built in 1877, it housed the Dutch retailer Whiteaway Laidlaw & Co. and later a string of Chinese-Indonesian department stores through the 20th century.
 
-Inside, the ground floor holds interactive touchscreens and dioramas walking you through Surabaya's civic history — from Majapahit-era trade routes to the 1945 Battle of Surabaya, which gave the city its nickname "Kota Pahlawan," City of Heroes.
+Inside, the ground floor holds interactive touchscreens and dioramas walking you through Surabaya's civic history, from Majapahit-era trade routes to the 1945 Battle of Surabaya, which gave the city its nickname "Kota Pahlawan," City of Heroes.
 
 ## What you'll see inside
 
@@ -85,7 +85,7 @@ Climb to the upper floors and the tone shifts from battle history to everyday li
 - Second floor: domestic artifacts, retro shopfronts, replica household scenes
 - Rooftop or upper terrace: views over Tunjungan's rooftops (availability varies)
 
-Signage mixes Bahasa Indonesia and English, and most rooms are air-conditioned — a genuine relief after the humidity outside.
+Signage mixes Bahasa Indonesia and English, and most rooms are air-conditioned, a genuine relief after the humidity outside.
 
 ## Getting there
 
@@ -97,22 +97,22 @@ Grab (ride-hailing) drops you at the front steps. If you're coming from Gubeng o
 
 The museum runs Tuesday through Sunday, 8am to 3pm, and stays closed all day Monday. Because it's one of the most-reviewed heritage sites in the city, weekend mornings draw real crowds.
 
-Try to avoid arriving between 10am and noon on Saturday or Sunday — that's peak busy time, with tour groups and families filling the ground floor. The calmest window on weekends runs 1pm to 3pm, right before closing, when hallways thin out and you can actually read the placards.
+Try to avoid arriving between 10am and noon on Saturday or Sunday. That's peak busy time, with tour groups and families filling the ground floor. The calmest window on weekends runs 1pm to 3pm, right before closing, when hallways thin out and you can actually read the placards.
 
-Weekdays tend to be quieter overall, though no single quiet hour has been consistently measured — arriving soon after the 8am opening is a safe bet before school groups show up.
+Weekdays tend to be quieter overall, though no single quiet hour has been consistently measured, arriving soon after the 8am opening is a safe bet before school groups show up.
 
 ## How to visit like a local
 
-Locals treat Siola as a quick, air-conditioned detour on a Tunjungan Street walk rather than a half-day outing — budget 45 minutes to an hour inside.
+Locals treat Siola as a quick, air-conditioned detour on a Tunjungan Street walk rather than a half-day outing. Budget 45 minutes to an hour inside.
 
 - Entry is generally free, though bring some small cash in case a donation box or special exhibit fee applies
 - Wear socks-friendly shoes if any exhibit areas require removing footwear (check signage at the door)
 - Combine your visit with a stroll past the historic Hotel Majapahit and House of Sampoerna, both within easy walking distance
 - Photography is usually fine in most galleries, but look for "no flash" signs near delicate textiles and documents
-- Staff are used to giving short guided rundowns in Indonesian and basic English — ask at the entrance desk if you'd like one
+- Staff are used to giving short guided rundowns in Indonesian and basic English. Ask at the entrance desk if you'd like one
 
 Because the museum is genuinely popular rather than an under-the-radar stop, expect other visitors, especially on weekends. Going right after opening or in that 1pm–3pm weekend lull gets you the closest thing to a private tour.
 
 ## Nearby to pair with your visit
 
-Tunjungan Street itself rewards a slow walk — old shopfronts, street food carts, and colonial-era architecture line both sides. Pasar Genteng and the Kya-Kya Chinatown night market area are both within a short taxi ride, useful if you want to turn a museum stop into a fuller half-day loop through Surabaya's old town.
+Tunjungan Street itself rewards a slow walk, old shopfronts, street food carts, and colonial-era architecture line both sides. Pasar Genteng and the Kya-Kya Chinatown night market area are both within a short taxi ride, useful if you want to turn a museum stop into a fuller half-day loop through Surabaya's old town.

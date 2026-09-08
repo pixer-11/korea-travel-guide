@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-phi-phi-monkey-bay
-srcHash: 'f07c1af402b4'
+srcHash: '1f29ba3d595a'
 title: 'Monkey Bay: Guía de viaje de Koh Phi Phi (4.2★)'
 description: 'Monkey Bay es una pequeña cala de Koh Phi Phi Don rodeada de acantilados, a la que solo se llega en barco de cola larga (longtail), en lancha rápida o por un sendero terrestre difícil. Es famosa por la tropa de macacos de cola larga que patrulla su estrecha franja de arena. 4.2★ (1.683 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Monkey Bay es una pequeña cala de Koh Phi Phi Don rodeada de acantilados, a la que solo se llega en barco de cola larga (longtail), en lancha rápida o por un sendero terrestre difícil. Es famosa por la tropa de macacos de cola larga que patrulla su estrecha franja de arena. Forma parte de la mayoría de los tours de isla en isla por Phi Phi más que ser un destino independiente, así que conviene ir a primera hora de la mañana o contratar un longtail privado para evitar la avalancha de barcos turísticos. Calcule entre 20 y 30 minutos en la playa: es una parada para nadar y hacer fotos, no una base para pasar todo el día.'

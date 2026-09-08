@@ -58,13 +58,13 @@ draft: false
 
 Tashkent City Park is the newest green lung of a city better known for its Soviet-era boulevards and mosaic-tiled metro stations. It's a landscaped stretch of lawns, walking paths, and modern sculpture set against the glass towers of the Tashkent City business district. By day it's pleasant. By night, when the fountains and light installations switch on, it becomes something else entirely.
 
-You feel the shift in scale as you enter. Wide paved paths open onto lawns dotted with contemporary art pieces, and the glass facades of the surrounding towers catch the last orange light of evening. It doesn't feel like the rest of Tashkent — it feels deliberately, almost aggressively new.
+You feel the shift in scale as you enter. Wide paved paths open onto lawns dotted with contemporary art pieces, and the glass facades of the surrounding towers catch the last orange light of evening. It doesn't feel like the rest of Tashkent, it feels deliberately, almost aggressively new.
 
 ## Getting there
 
 The park sits in the Shayxontoxur district, close to the city center and the Tashkent City mall and business complex.
 
-- Taxi or ride-hailing apps (Yandex Go is widely used) are the easiest option — fares from central Tashkent run short and cheap.
+- Taxi or ride-hailing apps (Yandex Go is widely used) are the easiest option, fares from central Tashkent run short and cheap.
 - Several metro stations serve the wider downtown area; ask your hotel for the closest current stop, as new lines have opened in recent years.
 - The park is walkable from Amir Timur Square and the surrounding hotel district if you don't mind a 20–25 minute stroll.
 
@@ -78,7 +78,7 @@ Food is part of the experience. The park is ringed and dotted with eateries, fro
 
 ## When to go
 
-The park is open every day from 11am to 11pm, so there's no early-morning entry to plan around. Aim to arrive in the late afternoon and stay through sunset — this is when the temperature drops, the light softens, and the fountain and sculpture illuminations begin.
+The park is open every day from 11am to 11pm, so there's no early-morning entry to plan around. Aim to arrive in the late afternoon and stay through sunset. This is when the temperature drops, the light softens, and the fountain and sculpture illuminations begin.
 
 Spring and autumn are the most comfortable seasons, since Tashkent summers run brutally hot in the middle of the day. If you're visiting in July or August, evenings are really the only sensible window.
 
@@ -91,7 +91,7 @@ Tashkent City Park is well-known and well-visited, so the smartest move is timin
 - Cash and card are both commonly accepted at the park's restaurants and kiosks, but carry some small cash for snack vendors.
 - You'll only spend money if you eat or sit down at a restaurant, since the park itself is simply open space to walk through.
 - Dress for walking; the paths are long and mostly uncovered, with limited shade in the afternoon heat.
-- The mistake most visitors make is treating it as a quick daytime photo stop and leaving before dark — the fountains and light displays are the whole point, and they only run in the evening.
+- The mistake most visitors make is treating it as a quick daytime photo stop and leaving before dark. The fountains and light displays are the whole point, and they only run in the evening.
 - Pair a visit with a walk through the adjacent Tashkent City mall complex, which sits right alongside the park and makes for an easy combined outing.
 
 Locals and visitors alike treat the park as an evening destination rather than a daytime errand, so plan your visit around dusk if you want to see it at its best.

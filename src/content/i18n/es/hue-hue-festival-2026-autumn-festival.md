@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hue-hue-festival-2026-autumn-festival
-srcHash: '687abfa8c4fe'
+srcHash: '0e70a6986a82'
 title: 'Festival de Hue 2026 - Festival de Otoño: Lo que debes saber (Hue)'
 description: Festival de Otoño de Hue 2026 en Hue, Vietnam — del 1 de agosto al 30 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo planificar tu viaje en torno a él.
 quickAnswer: El Festival de Otoño de Hue se celebra del 1 de agosto al 30 de septiembre de 2026, como el tercer capítulo estacional del Festival de Hue 2026, que se extiende durante todo el año. Se espera una programación de dos meses con espectáculos de patrimonio cultural, música y el Festival Deportivo de Hue, que dura todo el mes de agosto, celebrado en torno a la Ciudad Imperial y otros recintos patrimoniales de la ciudad. Como los recintos exactos, la venta de entradas y los horarios diarios aún no están definidos con tanta antelación, considera esta guía como una introducción para planificar y confirma los detalles en los canales oficiales de turismo del Festival de Hue / Thua Thien Hue antes de reservar vuelos u hoteles.

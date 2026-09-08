@@ -100,21 +100,21 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-Wat Mahathat isn't just another crumbling temple in a city full of them — it was one of the most important religious sites in the Ayutthaya Kingdom, believed to have been founded in the late 14th century under King Borommarachathirat I or King Ramesuan, and once housed a relic of the Buddha in its central prang. What draws over 25,000 reviewers and a steady stream of day-trippers today, though, is a single, almost accidental image: a sandstone Buddha head, entwined and lifted by the roots of a bodhi tree, believed to have fallen from its body when the temple was sacked by Burmese forces in 1767 and left there as the tree grew around it over the following century. It's become an unofficial symbol of Ayutthaya itself.
+Wat Mahathat isn't just another crumbling temple in a city full of them. It was one of the most important religious sites in the Ayutthaya Kingdom, believed to have been founded in the late 14th century under King Borommarachathirat I or King Ramesuan, and once housed a relic of the Buddha in its central prang. What draws over 25,000 reviewers and a steady stream of day-trippers today, though, is a single, almost accidental image: a sandstone Buddha head, entwined and lifted by the roots of a bodhi tree, believed to have fallen from its body when the temple was sacked by Burmese forces in 1767 and left there as the tree grew around it over the following century. It's become an unofficial symbol of Ayutthaya itself.
 
 ## Getting there
 
-Wat Mahathat sits on Soi Chikun in Tambon Pratuchai, on Ayutthaya's historic island, directly across the road from Wat Ratchaburana — the two are often visited together since they face each other. If you're coming from Ayutthaya Railway Station, the temple is roughly a 15–20 minute tuk-tuk ride (crossing the river via Pridi Damrong Bridge) or about a 25-minute walk.
+Wat Mahathat sits on Soi Chikun in Tambon Pratuchai, on Ayutthaya's historic island, directly across the road from Wat Ratchaburana. The two are often visited together since they face each other. If you're coming from Ayutthaya Railway Station, the temple is roughly a 15–20 minute tuk-tuk ride (crossing the river via Pridi Damrong Bridge) or about a 25-minute walk.
 
 Most travelers base themselves near Chao Phrom Market or Soi Farang, both within a 5–10 minute tuk-tuk of the site. Bicycles are a popular way to cover Wat Mahathat along with the other central ruins (Wat Phra Si Sanphet and Wat Ratchaburana are both within a 5-minute ride), since the historic park is largely flat and closed to heavy traffic in the core zone.
 
 ## What to see
 
-- **The tree-root Buddha head**: located near the eastern boundary wall, low to the ground. There's usually a small barrier and a sign asking visitors to crouch rather than stand for photos — kneeling or crouching is expected out of respect since it's still a sacred image.
+- **The tree-root Buddha head**: located near the eastern boundary wall, low to the ground. There's usually a small barrier and a sign asking visitors to crouch rather than stand for photos, kneeling or crouching is expected out of respect since it's still a sacred image.
 - **The central prang**: now partially collapsed, but the base and surrounding laterite structure give a sense of the original scale of the monastery complex.
 - **Rows of headless Buddha statues**: lining the viharn platforms, a stark visual reminder of the 1767 Burmese invasion, when Buddha images were beheaded for their bronze or precious inlays.
 - **Ordination hall (ubosot) remains and boundary stones (bai sema)**: scattered around the grounds, worth a slow walk rather than a rushed loop.
-- Pair the visit with **Wat Ratchaburana** across the street, which has a climbable central prang and crypt with faded murals — a nice contrast to Mahathat's more horizontal ruin field.
+- Pair the visit with **Wat Ratchaburana** across the street, which has a climbable central prang and crypt with faded murals, a nice contrast to Mahathat's more horizontal ruin field.
 
 ## When to go
 
@@ -123,7 +123,7 @@ Ayutthaya's cool season (November–February) brings the most comfortable temper
 ## Nearby & tips
 
 - Wear clothing that covers shoulders and knees; this is an active religious site, not just a ruin.
-- Because the Buddha head is treated as sacred, standing over it for a photo is considered disrespectful — crouch down to its level, and be patient, as there's often a short queue for photos.
+- Because the Buddha head is treated as sacred, standing over it for a photo is considered disrespectful, crouch down to its level, and be patient, as there's often a short queue for photos.
 - Combine the visit with the nearby Ayutthaya Historical Study Centre for context on the kingdom before the ruins, or Wat Phra Si Sanphet for the three iconic Ceylonese-style chedis a few minutes away.
 - Entry typically requires a small admission fee (often bundled with other historical park sites); confirm current pricing and hours locally, as these are periodically adjusted.
 - Bring your own water, as there's little shade inside the grounds.

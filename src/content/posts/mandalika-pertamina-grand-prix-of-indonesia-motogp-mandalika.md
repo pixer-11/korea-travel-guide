@@ -44,7 +44,7 @@ draft: false
 ---
 ## Why this race weekend is different
 
-MotoGP in most countries feels like a domestic sporting event with foreign riders passing through. In Mandalika, it feels like the whole region has been rebuilt around three days in October. The Pertamina Mandalika International Circuit sits on Lombok's southern coast, carved into the Kuta Mandalika tourism zone, with the Indian Ocean visible from parts of the grandstand. You come for the racing, but the setting — volcanic hills inland, turquoise bays outside the gates — is what stays with you.
+MotoGP in most countries feels like a domestic sporting event with foreign riders passing through. In Mandalika, it feels like the whole region has been rebuilt around three days in October. The Pertamina Mandalika International Circuit sits on Lombok's southern coast, carved into the Kuta Mandalika tourism zone, with the Indian Ocean visible from parts of the grandstand. You come for the racing, but the setting (volcanic hills inland, turquoise bays outside the gates) is what stays with you.
 
 This is round 18 of the 2026 MotoGP World Championship, run October 9-11. It's one of the calendar's newer fixtures, added in 2022, and it has quickly become one of the best-attended rounds on the tour.
 
@@ -62,7 +62,7 @@ Traffic converges hard on race mornings, since the road network into the circuit
 
 Friday and Saturday bring free practice and qualifying sessions across the Moto3, Moto2, and MotoGP classes, plus support races that keep the grandstands busy from morning through late afternoon. Sunday is race day, with the feature MotoGP race typically run in the afternoon to avoid the worst of the midday heat.
 
-Expect tropical heat and humidity even in October — this is the dry season on Lombok, but the sun over an open grandstand is intense by midday. Covered grandstand sections sell out fastest for exactly this reason.
+Expect tropical heat and humidity even in October. This is the dry season on Lombok, but the sun over an open grandstand is intense by midday. Covered grandstand sections sell out fastest for exactly this reason.
 
 Beyond the track, the surrounding Mandalika zone has beach clubs, surf breaks at Kuta Beach, and food stalls that ramp up specifically for the race crowd. Many fans treat the weekend as a beach holiday with a race attached rather than the other way around.
 
@@ -74,12 +74,12 @@ Prices and exact seating maps shift year to year, so don't rely on old screensho
 
 ## How to visit like a local
 
-Indonesian race fans and circuit staff treat this as a long weekend, not a single-day errand — plan the same way.
+Indonesian race fans and circuit staff treat this as a long weekend, not a single-day errand. Plan the same way.
 
 - Arrive at the circuit gates well before your session starts; security lines and the limited road access both slow entry, especially Sunday morning.
 - Base yourself in Kuta Lombok if you want food and nightlife options within walking distance of your hotel, or closer to the circuit gates if you prioritize a short commute.
 - Carry cash in Indonesian rupiah for food stalls and small vendors around the circuit perimeter, even though larger ticket and hospitality purchases go through card or online payment.
-- Wear light, breathable clothing and bring your own water or an empty bottle to refill — the heat is the biggest factor fans underestimate.
+- Wear light, breathable clothing and bring your own water or an empty bottle to refill. The heat is the biggest factor fans underestimate.
 - Book accommodation as early as you can. Rooms across Kuta Mandalika fill up fast given how far attendance climbed in recent years.
 
-The mistake most first-time visitors make is treating this like a one-day trip from Bali. Between the transfer, the heat, and the scale of the crowd, giving yourself the full weekend — and a buffer day either side — makes the whole trip far less stressful.
+The mistake most first-time visitors make is treating this like a one-day trip from Bali. Between the transfer, the heat, and the scale of the crowd, giving yourself the full weekend, and a buffer day either side, makes the whole trip far less stressful.

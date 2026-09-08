@@ -80,7 +80,7 @@ updatedDate: '2026-08-31'
 
 ## Why go
 
-Forget any single sight with a ticket booth. La Petite Venise is a slice of Colmar itself — the old fishmongers' and tanners' district where the River Lauch splits into narrow canals lined with half-timbered houses.
+Forget any single sight with a ticket booth. La Petite Venise is a slice of Colmar itself, the old fishmongers' and tanners' district where the River Lauch splits into narrow canals lined with half-timbered houses.
 
 Window shutters in faded blue, ochre and green lean over the water. Geraniums spill from flower boxes. Flat-bottomed boats drift beneath low stone bridges, and the whole scene explains why 19th-century painters and, later, Disney animators are said to have drawn inspiration from Colmar's old town.
 
@@ -88,7 +88,7 @@ Window shutters in faded blue, ochre and green lean over the water. Geraniums sp
 
 The quarter sits in central Colmar, a 15-20 minute walk from Colmar's SNCF train station.
 
-Head toward the cathedral and follow signs for "Petite Venise" — you'll know you've arrived when the street opens onto Quai de la Poissonnerie, the old fishmongers' quay.
+Head toward the cathedral and follow signs for "Petite Venise". You'll know you've arrived when the street opens onto Quai de la Poissonnerie, the old fishmongers' quay.
 
 If you're driving, park in one of the paid lots near Place Rapp or Place de la Cathédrale and walk in; the lanes themselves are pedestrian-only.
 
@@ -109,13 +109,13 @@ Budget 45 minutes to an hour on foot, longer if you add a boat ride or a meal.
 
 The district's namesake restaurant, La Petite Venise, sits right on the water with a courtyard and a menu of Italian-leaning, seasonal dishes alongside beer and wine.
 
-It's a high-end option rather than a quick bite, but the setting — timber beams, canal views, candlelight once the sun drops — makes it worth the splurge for one meal in Colmar.
+It's a high-end option rather than a quick bite, but the setting (timber beams, canal views, candlelight once the sun drops) makes it worth the splurge for one meal in Colmar.
 
 Reservations are wise in the evening, since tables by the water fill fast with both visitors and locals marking an occasion.
 
 ## When to go
 
-Because this is an open neighborhood rather than a ticketed site, it never technically closes — the canals and quays are viewable around the clock.
+Because this is an open neighborhood rather than a ticketed site, it never technically closes. The canals and quays are viewable around the clock.
 
 That said, the atmosphere changes completely by hour. Midday brings tour groups and boat queues; early morning and after dinner bring quiet water, soft light and far fewer people in your photos.
 
@@ -126,9 +126,9 @@ Spring and early summer bring the geraniums into full bloom, while December tran
 Colmar's Petite Venise is one of the most visited corners of Alsace, so plan around the crowds rather than pretending they're not there.
 
 - Arrive before 9am or after 7pm for empty quaysides and better light
-- Skip the boat queue at midday — book an earlier morning slot or walk the banks instead
+- Skip the boat queue at midday. Book an earlier morning slot or walk the banks instead
 - Pay for boat tours and café tables by card; most vendors accept it, though small change helps for tips
-- Don't block the narrow footbridges for photos during peak hours — step aside so foot traffic keeps moving
+- Don't block the narrow footbridges for photos during peak hours, step aside so foot traffic keeps moving
 - Wander one street back from the main quay, toward Rue des Tanneurs, for the same architecture without the crowds
 
 The biggest mistake visitors make is treating the quay as a five-minute photo stop. Slow down, cross to the far bank, and let the canal reveal itself from a second angle.

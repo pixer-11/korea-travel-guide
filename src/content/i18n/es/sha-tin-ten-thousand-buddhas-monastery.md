@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-ten-thousand-buddhas-monastery
-srcHash: 'c21ec1a43499'
+srcHash: '2d1de68b3ff3'
 title: 'Monasterio de los Diez Mil Budas: Guía de viaje de Sha Tin (4.5★)'
 description: El Monasterio de los Diez Mil Budas se alza en una colina sobre Sha Tin, al que se llega tras una empinada subida de 15 a 20 minutos bordeada por cientos de estatuas doradas de Buda. 4.5★ (2,665 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Monasterio de los Diez Mil Budas se alza en una colina sobre Sha Tin, al que se llega tras una empinada subida de 15 a 20 minutos bordeada por cientos de estatuas doradas de Buda. Abre todos los días de 9am a 5pm; ve un día entre semana por la mañana para tener la escalera y los pabellones prácticamente para ti solo. Calcula entre 1.5 y 2 horas para la visita completa, y usa calzado con buen agarre.

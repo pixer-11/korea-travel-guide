@@ -65,7 +65,7 @@ Walk the paved paths and you'll pass:
 - Shaded seating areas facing the water
 - A skate-friendly plaza near the park's northern edge
 
-The industrial backdrop — tank farms, container stacks, the occasional freight train rumble — is constant. It's part of the experience, not a flaw to overlook.
+The industrial backdrop (tank farms, container stacks, the occasional freight train rumble) is constant. It's part of the experience, not a flaw to overlook.
 
 ## Getting there
 
@@ -79,7 +79,7 @@ Pair a visit with nearby Banning's Landing Community Center or the Port of Los A
 
 The park is open daily from 5am to 11pm, which gives you a wide window whether you're an early walker or prefer an evening stroll when the bridge lighting kicks in. Mornings tend to be calmer, before families arrive for the play areas.
 
-Midday sun here is unfiltered — there's little canopy cover, so a hot Southern California afternoon can feel harsher than in a tree-lined park. Late afternoon, when the light turns gold over the water, is the most photogenic stretch of the day.
+Midday sun here is unfiltered. There's little canopy cover, so a hot Southern California afternoon can feel harsher than in a tree-lined park. Late afternoon, when the light turns gold over the water, is the most photogenic stretch of the day.
 
 Weekends bring more foot traffic, especially around the splash pad and lawns, so a weekday visit is your best bet for open space.
 
@@ -87,13 +87,13 @@ Weekends bring more foot traffic, especially around the splash pad and lawns, so
 
 Wilmington Waterfront Park is well-known in the area, not a hidden find, so plan around its busier hours rather than expecting solitude. Come on a weekday morning or early evening if you want the paths and bridge mostly to yourself.
 
-There's no entry fee and nothing to book — it's a walk-up public park. Bring your own water and shade, since amenities are basic and tree cover is limited.
+There's no entry fee and nothing to book. It's a walk-up public park. Bring your own water and shade, since amenities are basic and tree cover is limited.
 
 - Wear layers: the waterfront breeze can be sharp even on warm days
 - Skip midday in summer if you're sensitive to sun exposure
-- Bring bikes or scooters — the paved paths are well suited to rolling through
+- Bring bikes or scooters. The paved paths are well suited to rolling through
 - Don't expect food vendors on-site; eat beforehand or bring your own
 
-The most common mistake visitors make is treating this like a typical leafy city park. It's an industrial-edge riverwalk by design, and once you go in expecting that, the contrast becomes the appeal rather than a letdown. Stick to the main paved loop if you're short on time — it covers the bridge, the lawns, and the best waterfront views in under an hour.
+The most common mistake visitors make is treating this like a typical leafy city park. It's an industrial-edge riverwalk by design, and once you go in expecting that, the contrast becomes the appeal rather than a letdown. Stick to the main paved loop if you're short on time, it covers the bridge, the lawns, and the best waterfront views in under an hour.
 
 Locals mainly use it for walking dogs, evening jogs, and letting kids burn energy at the play areas rather than as a destination park, so keep expectations practical rather than scenic-getaway.

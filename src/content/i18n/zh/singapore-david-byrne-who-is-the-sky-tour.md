@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-david-byrne-who-is-the-sky-tour
-srcHash: '042e6b8b2ba8'
+srcHash: '7a3fd07c04e4'
 title: 大卫·伯恩「Who Is The Sky?」巡演须知（新加坡站）
 description: 大卫·伯恩「Who Is The Sky?」巡演新加坡站原定于2026年8月7日在新达剧场（The Star Theatre）举行。以下是官方公布的演出、场馆及周边信息。
 quickAnswer: 大卫·伯恩「Who Is The Sky?」巡演新加坡站原定于2026年8月7日，在圣淘沙门（Sentosa Gateway）的新达演艺中心（The Star Performing Arts Centre）内的新达剧场（The Star Theatre）举行，随行的还有一支由13名乐手、歌手和舞者组成的表演团队。门票在演出前开售，场馆紧邻怡丰城（VivoCity）商场，周边足够安排一整个下午的行程。

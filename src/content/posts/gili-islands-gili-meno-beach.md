@@ -84,7 +84,7 @@ draft: false
 updatedDate: '2026-09-02'
 ---
 
-The boat cuts its engine and drifts the last few meters onto sand so pale it looks bleached. No cars honk, no scooters buzz — just the slap of water on the hull and someone raking a beach path with a bamboo broom. This is Gili Meno, the smallest and sleepiest of the three Gili Islands off Lombok's northwest coast.
+The boat cuts its engine and drifts the last few meters onto sand so pale it looks bleached. No cars honk, no scooters buzz, just the slap of water on the hull and someone raking a beach path with a bamboo broom. This is Gili Meno, the smallest and sleepiest of the three Gili Islands off Lombok's northwest coast.
 
 ## Why Gili Meno beach stands out
 
@@ -94,19 +94,19 @@ The sand here is fine, almost flour-like, and the water shifts from pale jade in
 
 ## Getting there
 
-There's no airport or bridge — every visitor arrives by boat. Public boats leave from Bangsal Harbour near Pemenang in North Lombok, or you can catch a fast boat directly from Bali (Padangbai or Serangan) that stops at all three Gilis.
+There's no airport or bridge, every visitor arrives by boat. Public boats leave from Bangsal Harbour near Pemenang in North Lombok, or you can catch a fast boat directly from Bali (Padangbai or Serangan) that stops at all three Gilis.
 
 - From Bangsal: public boats run on a rough hourly schedule during daylight hours
 - From Bali: fast boats take around 2–2.5 hours and usually require a transfer at Gili Trawangan or Gili Air
-- Once on Gili Meno, everything is walkable — the island's coastal loop takes under two hours on foot
+- Once on Gili Meno, everything is walkable. The island's coastal loop takes under two hours on foot
 
-Cidomo horse carts and bicycles are the only "traffic" — motorized vehicles are banned island-wide.
+Cidomo horse carts and bicycles are the only "traffic", motorized vehicles are banned island-wide.
 
 ## What to do on the beach
 
 Snorkeling is the main draw. The house reef near the eastern shore and the underwater sculpture park just offshore are both reachable by wading or a short paddle. Bring your own mask if you have one, though rental huts line the busier stretches.
 
-Sunset gathers a small, low-key crowd on the west side, where a handful of beach bars set out bean bags and serve cold Bintang as the sky goes orange over Lombok's volcanic silhouette. Sunrise, by contrast, is almost always empty — worth the early wake-up if you're staying overnight.
+Sunset gathers a small, low-key crowd on the west side, where a handful of beach bars set out bean bags and serve cold Bintang as the sky goes orange over Lombok's volcanic silhouette. Sunrise, by contrast, is almost always empty, worth the early wake-up if you're staying overnight.
 
 Turtle sightings are common enough that many visitors snorkel specifically to find them, and a small turtle sanctuary near the harbor lets you see hatchlings before they're released.
 
@@ -118,7 +118,7 @@ Shoulder months like May and September combine good weather with fewer visitors.
 
 ## How to visit like a local
 
-Because Gili Meno sees far fewer visitors than its neighbors, you can still find long empty stretches of sand even in peak season — just walk ten minutes past the main harbor drop-off point.
+Because Gili Meno sees far fewer visitors than its neighbors, you can still find long empty stretches of sand even in peak season, just walk ten minutes past the main harbor drop-off point.
 
 - **Pay in cash**: small warungs and boat operators rarely take cards; carry rupiah in small denominations
 - **Wear water shoes**: sections of the reef are shallow and sharp underfoot at low tide

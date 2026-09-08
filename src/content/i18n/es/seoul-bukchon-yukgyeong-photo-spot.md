@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-bukchon-yukgyeong-photo-spot
-srcHash: 'afbbce4122d0'
+srcHash: 'f10293bb4d11'
 title: 'Bukchon Yukgyeong (punto fotográfico): guía de viaje de Seúl'
 description: 'Bukchon Yukgyeong ("las seis vistas escénicas de Bukchon") es una ruta autoguiada a pie por los empinados callejones de la Aldea Hanok de Bukchon, en el distrito de Jongno, donde la "Vista 6", en las calles de la ladera de Gahoe-dong (31-48 Gahoe-dong), es el punto más fotografiado: un estrecho callejón de piedra enmarcado por tejados curvos de hanok, con la Torre Namsan visible a lo lejos.'
 quickAnswer: 'Bukchon Yukgyeong ("las seis vistas escénicas de Bukchon") es una ruta autoguiada a pie por los empinados callejones de la Aldea Hanok de Bukchon, en el distrito de Jongno, donde la "Vista 6", en las calles de la ladera de Gahoe-dong (31-48 Gahoe-dong), es el punto más fotografiado: un estrecho callejón de piedra enmarcado por tejados curvos de hanok, con la Torre Namsan visible a lo lejos. Ve justo a la apertura, las 10 a. m., o a última hora de la tarde entre semana para fotografiarlo sin multitudes, ya que se trata de un barrio residencial donde realmente vive gente. Calcula entre 1 y 2 horas para recorrer las seis vistas desde la Estación Anguk (Línea 3) hasta la Escuela Primaria Jaedong.'

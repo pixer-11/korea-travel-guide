@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: monza-italian-grand-prix-formula-1
-srcHash: '8cb8c2004bd6'
+srcHash: '59f955ed86a4'
 title: 'Gran Premio de Italia de Fórmula 1 2026: lo que había que saber (Monza)'
 description: El Gran Premio de Italia 2026 estaba previsto para el 4-6 de septiembre en el Autódromo Nacional de Monza, justo al norte de Milán.
 quickAnswer: El Gran Premio de Italia 2026 estaba previsto para el 4-6 de septiembre en el Autódromo Nacional de Monza, justo al norte de Milán. Las entradas se vendían a través de Formula1.com y del canal oficial del circuito. La forma más sencilla de llegar al circuito es en tren hasta la estación de Monza y, desde allí, en autobús lanzadera o caminando 20 minutos por el Parco di Monza. Monza es una de las citas con más público de toda la temporada, y cada jornada suele convertirse en un día completo una vez se cuentan las colas de seguridad.

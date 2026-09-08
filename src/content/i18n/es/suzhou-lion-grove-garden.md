@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suzhou-lion-grove-garden
-srcHash: 'de62a31a70cf'
+srcHash: '76bc2b263029'
 title: 'Jardín del Bosque de los Leones: Guía de viaje de Suzhou'
 description: En el número 23 de Yuan Lin Lu, en el distrito de Gusu, se encuentra el Jardín del Bosque de los Leones (Shizi Lin), uno de los jardines clásicos de Suzhou declarados Patrimonio de la Humanidad por la UNESCO, célebre por su laberinto de "rocallas" de piedra caliza gris que, según se dice, recuerdan a leones agazapados.
 quickAnswer: En el número 23 de Yuan Lin Lu, en el distrito de Gusu, se encuentra el Jardín del Bosque de los Leones (Shizi Lin), uno de los jardines clásicos de Suzhou declarados Patrimonio de la Humanidad por la UNESCO, célebre por su laberinto de "rocallas" de piedra caliza gris que, según se dice, recuerdan a leones agazapados. Conviene reservar entre 60 y 90 minutos para la visita; lo ideal es ir justo a la apertura o a última hora de la tarde para tener el laberinto de piedra casi para uno solo, y aprovechar para combinarlo con un paseo hasta el cercano Jardín del Administrador Humilde o el Museo de Suzhou, ambos a pocos minutos a pie.

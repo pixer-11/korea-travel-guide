@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: zhangjiajie-zhangjiajie-national-forest-park
-srcHash: '18f396ebc6e9'
+srcHash: '53afeabb37b2'
 title: 'Parque Forestal Nacional de Zhangjiajie: Guía de viaje (4.7★)'
 description: 'El Parque Forestal Nacional de Zhangjiajie es un paraíso de columnas de arenisca que inspiró las montañas flotantes de "Avatar". Reserva un día completo, o dos, para recorrer el Ascensor Bailong y el teleférico de Yangjiajie en la Zona Escénica de Wulingyuan. 4.7★ (1.240 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Forestal Nacional de Zhangjiajie es un paraíso de columnas de arenisca que inspiró las montañas flotantes de "Avatar". Conviene reservar un día completo, o incluso dos, para recorrer el Ascensor Bailong y el teleférico de Yangjiajie por la Zona Escénica de Wulingyuan. Si puedes, ve temprano los fines de semana: el parque abre de 7:00 a 23:00 los sábados y domingos, y la mayor afluencia se concentra justo a la apertura, por lo que el tramo más tranquilo suele empezar a partir de las 10:00. Instálate en la ciudad de Zhangjiajie o en el pueblo de Wulingyuan, y calcula casi una semana completa si quieres combinar la visita con la pasarela de cristal del monte Tianmen, que se encuentra en otra zona de la ciudad.'

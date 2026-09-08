@@ -82,7 +82,7 @@ draft: false
 updatedDate: '2026-08-29'
 ---
 
-You come around the corner from Rue Fernand Philippart and the square opens up all at once — a long curve of pale stone facades, wrought-iron balconies, and, laid flat in front of them, a sheet of water so still it doubles the sky.
+You come around the corner from Rue Fernand Philippart and the square opens up all at once, a long curve of pale stone facades, wrought-iron balconies, and, laid flat in front of them, a sheet of water so still it doubles the sky.
 
 This is the Miroir d'Eau, Europe's largest reflecting pool, and it's the reason most people detour here. Every few minutes it switches between glassy mirror and ankle-deep mist, and on hot afternoons kids run shrieking through the fog while it fully soaks their shoes.
 
@@ -90,7 +90,7 @@ This is the Miroir d'Eau, Europe's largest reflecting pool, and it's the reason 
 
 Place de la Bourse was built in the 1730s, commissioned to open Bordeaux's cramped medieval core onto the river. It replaced a fortress and became the city's first real piece of urban planning, designed by royal architects Jacques Gabriel and his son Ange-Jacques Gabriel.
 
-The two grand buildings flanking the square — the Bourse (stock exchange) and the Hôtel des Douanes (customs house) — still show that 18th-century ambition. Between them, a bronze fountain, the Fontaine des Trois Grâces, added a century later.
+The two grand buildings flanking the square, the Bourse (stock exchange), and the Hôtel des Douanes (customs house), still show that 18th-century ambition. Between them, a bronze fountain, the Fontaine des Trois Grâces, added a century later.
 
 ## Getting there
 
@@ -98,7 +98,7 @@ The square sits directly on the Garonne's left bank, in the Chartrons-facing str
 
 - Tram: Line B or C to Place de la Bourse stop, right at the square
 - Walking: 10 minutes from Place de la Comédie along Cours du Chapeau Rouge
-- Parking: skip it — the riverside is pedestrian-friendly and central lots fill fast
+- Parking: skip it. The riverside is pedestrian-friendly and central lots fill fast
 
 It's outdoors and unticketed, open 24 hours every day, so there's no schedule to plan around beyond the light and the crowds.
 
@@ -108,7 +108,7 @@ Give it 30–45 minutes if you're just passing through, longer if you want to si
 
 - Watch the mirror effect: the pool alternates between full reflection and a low mist roughly every 15-20 minutes
 - Cross to the river side for the classic shot of the facades doubled in the water
-- Walk the quaysides (Quai Richelieu, Quai de la Douane) — this stretch is part of Bordeaux's UNESCO-listed riverfront
+- Walk the quaysides (Quai Richelieu, Quai de la Douane), this stretch is part of Bordeaux's UNESCO-listed riverfront
 - Look up at the Fontaine des Trois Grâces, easy to miss if you're focused on the water
 - Continue north along the river to Place des Quinconces, one of Europe's largest city squares, about 15 minutes on foot
 
@@ -120,12 +120,12 @@ Weekends after midday through late evening are the busiest stretch, with crowds 
 
 ## How to visit like a local
 
-This is one of Bordeaux's most-visited landmarks, so the trick isn't finding a secret hour — it's using the ones that work.
+This is one of Bordeaux's most-visited landmarks, so the trick isn't finding a secret hour. It's using the ones that work.
 
 - Arrive 7am–9am on weekdays, or 7am–10am on weekends, for the quietest light and space to actually see the architecture
-- Locals crossing the square treat it as a shortcut between the river and Rue Sainte-Catherine, not a destination — walk fast through the middle, linger at the edges
+- Locals crossing the square treat it as a shortcut between the river and Rue Sainte-Catherine, not a destination. Walk fast through the middle, linger at the edges
 - No entry fee and no ticket booth, so there's nothing to book or queue for
-- Bring a towel or a change of shoes if you're bringing kids into the mist — it soaks further than it looks
+- Bring a towel or a change of shoes if you're bringing kids into the mist, it soaks further than it looks
 - The mistake most visitors make is showing up only at midday for photos; the flat overhead light washes out the reflection, while early or late light gives it real depth
 - Cafés facing the square take cards and cash equally, standard tipping in Bordeaux is rounding up or leaving small change
 

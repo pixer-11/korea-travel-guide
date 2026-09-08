@@ -68,13 +68,13 @@ draft: false
 ---
 ## Why go
 
-Graham Street Market isn't a curated tourist market — it's one of Hong Kong's last surviving street markets still doing what it's done for over a century. Stalls run downhill along Graham and Gage Streets, selling produce, fish, poultry, and dried goods to people actually cooking dinner that night, not to visitors with cameras.
+Graham Street Market isn't a curated tourist market. It's one of Hong Kong's last surviving street markets still doing what it's done for over a century. Stalls run downhill along Graham and Gage Streets, selling produce, fish, poultry, and dried goods to people actually cooking dinner that night, not to visitors with cameras.
 
 ## Getting there
 
 The market sits between Gage Street and Graham Street in Central, spilling into Sheung Wan. Take MTR Sheung Wan Station (Island Line), Exit A2, and walk uphill about five minutes toward Hollywood Road. Alternatively, Central Station Exit D2 gets you there via Queen's Road Central, cutting up through the narrow lanes.
 
-There's no single "entrance" — you just start walking down Gage Street and the stalls appear around you, awnings overlapping, hoses running water across the pavement.
+There's no single "entrance", you just start walking down Gage Street and the stalls appear around you, awnings overlapping, hoses running water across the pavement.
 
 ## What to see and eat
 
@@ -86,25 +86,25 @@ This isn't a sit-down destination so much as a sensory corridor. Expect:
 - Dried seafood and herb shops tucked between the fresh stalls, selling scallops, mushrooms, and roots by the tael
 - A scattering of small noodle and congee counters if you want to eat standing up
 
-Walk slowly. The steam off a congee pot, the metallic smell of the fishmongers, the calls between vendors and regulars haggling over the last handful of choy sum — this is the actual texture of the visit, more than any single stall.
+Walk slowly. The steam off a congee pot, the metallic smell of the fishmongers, the calls between vendors and regulars haggling over the last handful of choy sum. This is the actual texture of the visit, more than any single stall.
 
 At the Gage Street end, you'll find some of the older surviving stalls, a good anchor point if you want to loop back toward Peel Street's mural-lined steps afterward.
 
 ## When to go
 
-The market runs 8am to 6pm every day of the week, so there's no early or late scramble to worry about. On weekends, the busiest stretch is 8am to 1pm, when local shoppers do their main grocery run — expect narrow lanes to bottleneck around the produce stalls.
+The market runs 8am to 6pm every day of the week, so there's no early or late scramble to worry about. On weekends, the busiest stretch is 8am to 1pm, when local shoppers do their main grocery run. Expect narrow lanes to bottleneck around the produce stalls.
 
-If you'd rather move at your own pace, aim for 10am to 6pm on a weekend, which is noticeably calmer. Weekday mornings tend to have a steadier, less frantic rhythm than weekend peak hours, though it's still a working market, not a museum — there's no "closed" hour where it goes quiet.
+If you'd rather move at your own pace, aim for 10am to 6pm on a weekend, which is noticeably calmer. Weekday mornings tend to have a steadier, less frantic rhythm than weekend peak hours, though it's still a working market, not a museum. There's no "closed" hour where it goes quiet.
 
 ## How to visit like a local
 
-Come with small bills and expect cash to be the norm — most stallholders here aren't set up for cards or mobile pay, though some of the newer shops near Gage Street may take Octopus or FPS. Don't expect English menus or price tags with much detail; pointing and holding up fingers for quantity works fine.
+Come with small bills and expect cash to be the norm, most stallholders here aren't set up for cards or mobile pay, though some of the newer shops near Gage Street may take Octopus or FPS. Don't expect English menus or price tags with much detail; pointing and holding up fingers for quantity works fine.
 
-The biggest mistake visitors make is treating it like a photo-only tourist market and hovering directly in front of stalls without buying — remember this is where residents shop for actual meals, so keep pace with the foot traffic and step aside to take photos.
+The biggest mistake visitors make is treating it like a photo-only tourist market and hovering directly in front of stalls without buying. Remember this is where residents shop for actual meals, so keep pace with the foot traffic and step aside to take photos.
 
 If you want a genuine taste of it, buy something small: a piece of fruit, a bag of dried chili, a bun from a bakery stall. It's a small gesture that locals notice, and it's the easiest way to strike up a quick exchange with a vendor even without shared language.
 
-Since it's still under the radar for most visitors, you won't find crowds of tourists here — just be mindful you're a guest in someone's daily errand, not a spectator at a show.
+Since it's still under the radar for most visitors, you won't find crowds of tourists here, just be mindful you're a guest in someone's daily errand, not a spectator at a show.
 
 ## Nearby to pair it with
 

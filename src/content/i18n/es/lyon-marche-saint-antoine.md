@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-marche-saint-antoine
-srcHash: 'cb7365181749'
+srcHash: 'd39196e2003a'
 title: 'Marché Saint-Antoine: guía de viaje de Lyon (4,6★)'
 description: 'El Marché Saint-Antoine es el mercado al aire libre que se extiende junto al río a lo largo del Quai des Célestins, en la Presqu''île de Lyon: un mercado de abastos de verdad, no una atracción turística. 4,6★ (329 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Marché Saint-Antoine es el mercado al aire libre que discurre junto al río, a lo largo del Quai des Célestins, en la Presqu''île de Lyon: un mercado de abastos de verdad, no una atracción turística. Conviene ir temprano el domingo por la mañana, cuando hay más puestos abiertos y la luz sobre el Saona es mejor, y evitar por completo el lunes, el miércoles y el viernes, días en que el mercado permanece cerrado. Lleva una bolsa de tela y algo de calderilla, y calcula entre 45 minutos y una hora para curiosear antes de desayunar o de preparar un picnic.'

@@ -43,7 +43,7 @@ draft: false
 
 ## Why Cheongsapo Is Worth the Detour
 
-Most visitors to Busan see Haeundae Beach and stop there, missing the small fishing village just around the headland. Cheongsapo (청사포) sits between Haeundae and Songjeong, at the base of the hill known as Dalmaji-gogae ("Moon-Watching Pass"). It's still a working harbor — you'll see small boats, drying nets, and plastic crates of just-caught fish — which gives it a rougher, more authentic edge than the polished cafés up on the ridge above it.
+Most visitors to Busan see Haeundae Beach and stop there, missing the small fishing village just around the headland. Cheongsapo (청사포) sits between Haeundae and Songjeong, at the base of the hill known as Dalmaji-gogae ("Moon-Watching Pass"). It's still a working harbor (you'll see small boats, drying nets, and plastic crates of just-caught fish), which gives it a rougher, more authentic edge than the polished cafés up on the ridge above it.
 
 The name comes from an old story about blue snakes ("cheongsa") once seen near the shore, and the village retains a quiet, low-key character even as it's become a popular photo stop for its lighthouse and skywalk.
 
@@ -55,15 +55,15 @@ The walk from Haeundae Beach along the coastal path takes roughly 30–40 minute
 
 ## What to See and Eat
 
-The village's signature landmark is the **Cheongsapo Daritdol Observatory (Skywalk)**, a glass-floored platform that extends out over the rocks near a red-and-white striped lighthouse, letting you look straight down at the waves. It's free to walk out onto and takes only a few minutes, but the surrounding photo ops — old railway tracks, moored fishing boats, the twin lighthouses (one red, one white, marking the harbor entrance) — are worth lingering for.
+The village's signature landmark is the **Cheongsapo Daritdol Observatory (Skywalk)**, a glass-floored platform that extends out over the rocks near a red-and-white striped lighthouse, letting you look straight down at the waves. It's free to walk out onto and takes only a few minutes, but the surrounding photo ops (old railway tracks, moored fishing boats, the twin lighthouses (one red, one white, marking the harbor entrance)) are worth lingering for.
 
 Just above the harbor runs a stretch of the old Donghae Nambu rail line, now converted into a section of the Haeundae Blue Line pedestrian trail, connecting Cheongsapo to Mipo and onward to Songjeong.
 
-Along the harbor's edge, small seafood stalls and tanks sell live catch — look for **mulhoe** (spicy raw fish soup served cold with vegetables and ice), **sea squirt (meongge)**, sea cucumber, and raw sea urchin, all typical of this coast. Several simple raw-fish restaurants (hoetjip) line the waterfront where you can pick a fish from the tank and have it prepared to order. Portions and prices vary by season and catch, so ask before ordering if you want a rough total in advance.
+Along the harbor's edge, small seafood stalls and tanks sell live catch. Look for **mulhoe** (spicy raw fish soup served cold with vegetables and ice), **sea squirt (meongge)**, sea cucumber, and raw sea urchin, all typical of this coast. Several simple raw-fish restaurants (hoetjip) line the waterfront where you can pick a fish from the tank and have it prepared to order. Portions and prices vary by season and catch, so ask before ordering if you want a rough total in advance.
 
 ## When to Go
 
-Early evening is the best time to visit, since Cheongsapo faces the open sea and is known locally as a sunset and sunrise viewing spot — the lighthouse and skywalk are particularly photogenic in the hour before dusk. Weekday mornings are quietest, letting you see the harbor in working mode before day-trippers arrive from Haeundae. Weekends, especially in summer, bring crowds along Dalmaji-gil and the skywalk, so arriving before 10am or after 5pm helps you avoid the worst of it.
+Early evening is the best time to visit, since Cheongsapo faces the open sea and is known locally as a sunset and sunrise viewing spot. The lighthouse and skywalk are particularly photogenic in the hour before dusk. Weekday mornings are quietest, letting you see the harbor in working mode before day-trippers arrive from Haeundae. Weekends, especially in summer, bring crowds along Dalmaji-gil and the skywalk, so arriving before 10am or after 5pm helps you avoid the worst of it.
 
 ## Nearby and Practical Tips
 

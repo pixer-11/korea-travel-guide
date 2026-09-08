@@ -36,7 +36,7 @@ eventFactsAsked: true
 ---
 ## What DSS Actually Is
 
-Dubai Summer Surprises (DSS) isn't one event — it's an umbrella festival that blankets the city for nearly two months. DSS 2026 was set for July 3 through August 30. Rather than a single gate visitors walk through, organisers announced a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. For anyone in Dubai during peak summer heat, DSS is the reason malls feel livelier and kids' activities multiply.
+Dubai Summer Surprises (DSS) isn't one event. It's an umbrella festival that blankets the city for nearly two months. DSS 2026 was set for July 3 through August 30. Rather than a single gate visitors walk through, organisers announced a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. For anyone in Dubai during peak summer heat, DSS is the reason malls feel livelier and kids' activities multiply.
 
 ## Why It Exists
 
@@ -56,7 +56,7 @@ The full window was July 3 to August 30, 2026. Early-to-mid July tends to see fr
 
 ## How locals visited
 
-Dubai residents tend to treat DSS less as a single spectacle and more as background noise to normal life — a reason to browse a mall they'd visit anyway. Locals typically pay by card or mobile wallet (Apple Pay and similar are widely accepted across malls), and cash isn't essential the way it might be at a street market. There is no single ticket or queue for "DSS" itself, since it is a retail campaign rather than a ticketed festival — the queues are for specific attractions like theme parks or raffles, and those are usually booked online rather than joined as a walk-up line in the heat.
+Dubai residents tend to treat DSS less as a single spectacle and more as background noise to normal life (a reason to browse a mall they'd visit anyway. Locals typically pay by card or mobile wallet (Apple Pay and similar are widely accepted across malls), and cash isn't essential the way it might be at a street market. There is no single ticket or queue for "DSS" itself, since it is a retail campaign rather than a ticketed festival) the queues are for specific attractions like theme parks or raffles, and those are usually booked online rather than joined as a walk-up line in the heat.
 
 The most common visitor mistake is expecting a defined festival ground or opening ceremony; DSS is diffuse by design, so turning up without a target mall or attraction tends to end in aimless wandering. Visitors who settle on two or three specific attractions or malls, look up their individual DSS promotions, and use the metro as the main connector between them generally get more out of the season.
 

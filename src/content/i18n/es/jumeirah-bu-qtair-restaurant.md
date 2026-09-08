@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jumeirah-bu-qtair-restaurant
-srcHash: 'b9f3f6880e5b'
+srcHash: 'b9b9f3c7c488'
 title: 'Restaurante Bu Qtair: dónde comer en Jumeirah (4,2★)'
 description: 'Bu Qtair es un puesto sencillo junto al puerto pesquero de Umm Suqeim donde uno mismo elige el pescado; es famoso por sus mariscos fritos y al curry, servidos en mesas de plástico junto al agua. 4,2★ (11.402 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bu Qtair es un puesto sencillo junto al puerto pesquero de Umm Suqeim donde uno mismo elige el pescado; es famoso por sus mariscos fritos y al curry, servidos en mesas de plástico junto al agua. Recibe muchas visitas, así que conviene ir en el tramo más tranquilo, entre las 22:00 y las 23:00 los días laborables, o entre las 12:00 y las 13:00 los fines de semana. Evite los sábados y domingos por la tarde, cuando hay más ajetreo a partir de la 13:00. La cuenta suele ser de gama media, se acepta tanto efectivo como tarjeta, y en horas punta la espera puede ser de 20 a 40 minutos.

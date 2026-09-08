@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-chatuchak-weekend-market
-srcHash: '40bd70b78f1a'
+srcHash: 'bd6e7dcf3d67'
 title: 恰图恰周末市场：曼谷旅行指南
 description: 恰图恰周末市场（本地人称"JJ Market"）位于曼谷北部，占地27个分区、拥有超过15,000个摊位，主要在周六、周日营业，时间大约是早上9点到晚上6点。
 quickAnswer: 恰图恰周末市场（本地人称"JJ Market"）位于曼谷北部，占地27个分区、拥有超过15,000个摊位，主要在周六、周日营业，时间大约是早上9点到晚上6点。乘坐地铁（MRT）到甘烹碧站（Kamphaeng Phet，1号出口直通市场），或者搭乘轻轨（BTS）到恰图恰公园站（Chatuchak Park）／蒙奇站（Mo Chit）都可以到达。进门后先在信息亭领一张分区地图，逛得尽兴至少要预留3到4个小时。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-islam-khoja-minaret
-srcHash: '2705fd3eea26'
+srcHash: 'e3deb6d6626e'
 title: 'Minarete Islam Khoja: Guía de Viaje de Khiva (4.6★)'
 description: 'El minarete Islam Khoja es el monumento más alto y fotogénico del casco antiguo amurallado de Khiva, Itchan Kala, con sus llamativas franjas de azulejo turquesa, azul oscuro y crema. 4.6★ (471 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El minarete Islam Khoja es el monumento más alto y fotogénico del casco antiguo amurallado de Khiva, Itchan Kala, con sus llamativas franjas de azulejo turquesa, azul oscuro y crema. Abre todos los días, de 8:00 a 20:00 de lunes a viernes y de 8:00 a 18:00 los fines de semana, y se visita junto con el museo de la madrasa contigua. Conviene ir a primera hora de la mañana o cerca del cierre, cuando la luz es más suave y hay mucha menos gente subiendo por la estrecha escalera.

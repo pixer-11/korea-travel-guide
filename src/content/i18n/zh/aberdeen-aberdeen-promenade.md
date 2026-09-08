@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: aberdeen-aberdeen-promenade
-srcHash: '870dd42012f6'
+srcHash: 'd3d22a2ac405'
 title: 香港仔海滨长廊(Aberdeen Promenade)旅行指南(4.0★)
 description: 香港仔海滨长廊(Aberdeen Promenade)是香港岛南岸沿香港仔海旁道(Aberdeen Praya Road)延伸的林荫步道，适合花上一小时轻松观赏水上渔村和繁忙的港口往来船只。4.0★(2,765条评价)——游客怎么说、开放时间及实用贴士。
 quickAnswer: 香港仔海滨长廊(Aberdeen Promenade)是香港岛南岸沿香港仔海旁道(Aberdeen Praya Road)延伸的林荫步道，适合花上一小时轻松观赏水上渔村和繁忙的港口往来船只。最宁静的时段是清晨暑气未起之时，或是舢舺归航的日落时刻。无需门票，也没有固定开放时间——这是一处开放式海滨公园，直接走过去看看水上的动静就好。

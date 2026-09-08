@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hanoi-hanoi-jazztival-2026
-srcHash: '5f15e42ae32b'
+srcHash: 'c5f255cdac63'
 title: 河内爵士音乐节2026：日期、门票与场地（河内）
 description: 2026年河内爵士音乐节（Hanoi Jazztival）将于9月17日至19日在越南河内举行。本文介绍活动内容、时间地点，以及如何安排行程。
 quickAnswer: 2026年河内爵士音乐节将于2026年9月17日至19日举行，演出场地分布在河内歌剧院（Hanoi Opera House）、李太祖公园（Ly Thai To Garden）、升龙剧院（Thang Long Theatre）和越南妇女博物馆（Vietnam Women's Museum）。本届主题为"河内爵士——无国界的音乐"（Hanoi Jazz – Music Without Borders），越南本土音乐人与国际乐队将在老城区多个舞台同台献艺。安排行程前，请务必在音乐节官网确认具体演出时间、场地分配和门票信息。

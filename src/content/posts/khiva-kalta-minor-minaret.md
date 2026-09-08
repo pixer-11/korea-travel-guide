@@ -116,7 +116,7 @@ draft: false
 updatedDate: '2026-09-07'
 ---
 
-You see it before you reach it — a fat turquoise barrel rising over the mud-brick skyline of Ichan-Qala, looking less like a minaret and more like the base of something that was supposed to keep going.
+You see it before you reach it, a fat turquoise barrel rising over the mud-brick skyline of Ichan-Qala, looking less like a minaret and more like the base of something that was supposed to keep going.
 
 That's the point. Kalta Minor means "short minaret" in Uzbek, and it was never finished.
 
@@ -124,23 +124,23 @@ That's the point. Kalta Minor means "short minaret" in Uzbek, and it was never f
 
 Muhammad Amin Khan commissioned it in 1851, aiming for a tower so tall he could reportedly see all the way to Bukhara from the top. He died in 1855, funding dried up, and construction halted at roughly 29 meters instead of a planned 70-80.
 
-What's left is a wide, squat cylinder wrapped entirely in glazed tiles — turquoise, deep blue, and white in geometric and star-and-cross patterns. Unlike most minarets, which save decoration for the top, Kalta Minor is covered base to rim, because nobody knew it would stop there.
+What's left is a wide, squat cylinder wrapped entirely in glazed tiles, turquoise, deep blue, and white in geometric and star-and-cross patterns. Unlike most minarets, which save decoration for the top, Kalta Minor is covered base to rim, because nobody knew it would stop there.
 
 ## Getting there
 
 Kalta Minor sits inside Ichan-Qala, Khiva's walled inner city, right by the Kunya-Ark citadel and the Muhammad Amin Khan Madrasa.
 
 - If you're arriving by train or shared taxi from Urgench (Khiva's nearest airport and rail hub, about 30-35 minutes away), a taxi drops you at the West Gate (Ata Darvoza) in minutes.
-- From there it's a two-minute walk straight in — the minaret is one of the first things you'll see.
+- From there it's a two-minute walk straight in. The minaret is one of the first things you'll see.
 - The whole old town is walkable; once inside, you won't need transport again.
 
 ## What you'll actually see up close
 
-You can't climb it — construction stopped before a staircase or viewing gallery was ever built, so the experience is entirely about looking, not ascending.
+You can't climb it, construction stopped before a staircase or viewing gallery was ever built, so the experience is entirely about looking, not ascending.
 
 Stand at its base and the tilework resolves into individual bands: chevrons, eight-pointed stars, Arabic-adjacent geometric knots. Midday sun flattens the colors; early or late light makes the turquoise genuinely glow.
 
-The minaret anchors a small courtyard shared with the Kunya-Ark citadel walls and the madrasa's carved wooden doors — worth another 15 minutes on its own.
+The minaret anchors a small courtyard shared with the Kunya-Ark citadel walls and the madrasa's carved wooden doors, worth another 15 minutes on its own.
 
 ## When to go
 
@@ -156,16 +156,16 @@ Spring (April-May) and autumn (September-October) bring milder desert heat than 
 
 Come at 7am. The gate area is quiet, the light is low and warm, and you'll have the courtyard largely to yourself before the day's tour buses unload.
 
-- Entry to view the minaret from outside is free; a combined Ichan-Qala ticket covers entry to the walled city's paid sites and small courtyards, sold at ticket booths near the main gates — buy it on arrival rather than expecting online sales.
+- Entry to view the minaret from outside is free; a combined Ichan-Qala ticket covers entry to the walled city's paid sites and small courtyards, sold at ticket booths near the main gates, buy it on arrival rather than expecting online sales.
 - Dress modestly; this is a working historic and semi-religious site, not just a photo backdrop.
-- Locals and guides refer to it simply as Kalta Minor or "the short minaret" — useful phrasing if you're asking directions inside the old town.
-- The tourist mistake is treating it as a five-minute photo stop and rushing on. Sit on the low wall opposite for ten minutes and watch the tile color shift as the sun climbs — that's the actual experience, not the snapshot.
+- Locals and guides refer to it simply as Kalta Minor or "the short minaret", useful phrasing if you're asking directions inside the old town.
+- The tourist mistake is treating it as a five-minute photo stop and rushing on. Sit on the low wall opposite for ten minutes and watch the tile color shift as the sun climbs. That's the actual experience, not the snapshot.
 - Pay for tickets and small vendor purchases in cash (Uzbek som); card acceptance inside Ichan-Qala's smaller stalls is inconsistent.
 
 ## Nearby, while you're there
 
 Once you've taken in Kalta Minor, the rest of Ichan-Qala rewards slow wandering.
 
-The Kunya-Ark citadel is steps away, with its old throne room and a watchtower offering rooftop views over the entire walled city. Islam Khodja Minaret, Khiva's tallest, is a 10-minute walk south and can be climbed — a good contrast to Kalta Minor's unfinished form.
+The Kunya-Ark citadel is steps away, with its old throne room and a watchtower offering rooftop views over the entire walled city. Islam Khodja Minaret, Khiva's tallest, is a 10-minute walk south and can be climbed, a good contrast to Kalta Minor's unfinished form.
 
 Budget half a day minimum for the old town; a full day if you want to see it in both morning and sunset light.

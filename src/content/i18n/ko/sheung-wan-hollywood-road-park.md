@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: sheung-wan-hollywood-road-park
-srcHash: '5a54ce010d13'
+srcHash: '5dfec7535c5e'
 title: '할리우드 로드 공원(Hollywood Road Park): 셩완(Sheung Wan) 여행 가이드 (4.0★)'
 description: 할리우드 로드 공원은 셩완(Sheung Wan) 문무 사당(Man Mo Temple) 바로 아래, 관상용 연못과 붉은 기둥의 중국식 정자, 전통 월문(月門)을 중심으로 조성된 작고 계단식의 고요한 공간이다. 4.0★ (837개 리뷰) — 방문객들의 후기, 운영시간, 팁을 소개한다.
 quickAnswer: 할리우드 로드 공원은 셩완(Sheung Wan) 문무 사당(Man Mo Temple) 바로 아래, 관상용 연못과 붉은 기둥의 중국식 정자, 전통 월문(月門)을 중심으로 조성된 작고 계단식의 고요한 공간이다. 24시간 개방되며, 태극권을 즐기는 사람들과 주말 방문객들이 오전 중반쯤 몰려들기 전인 오전 7시에서 8시 사이가 가장 한산하다(평일과 주말 모두 동일). 문무 사당과 셩완 골동품 상점가 사이를 이동하는 길에 20~30분 정도 들러보기 좋다.

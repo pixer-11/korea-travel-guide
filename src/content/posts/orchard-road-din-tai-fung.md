@@ -79,23 +79,23 @@ You'll spot the open kitchen before you spot a table. Through a glass wall, cook
 
 The restaurant is in the basement of Paragon shopping centre, address 290 Orchard Road, unit #B1-03. The closest MRT stop is Orchard Station on the North-South Line, connected to Paragon via underground link so you barely surface into daylight.
 
-If you're coming from Somerset Station on the same line, it's a ten-minute walk up Orchard Road past the malls. Either way, follow signs for Paragon's basement level once inside — Din Tai Fung is easy to find near the food hall cluster.
+If you're coming from Somerset Station on the same line, it's a ten-minute walk up Orchard Road past the malls. Either way, follow signs for Paragon's basement level once inside, Din Tai Fung is easy to find near the food hall cluster.
 
 ## What to order
 
-The xiao long bao are the reason you're here — steamed soup dumplings that arrive eight to a basket, skins thin enough to see the broth shifting inside.
+The xiao long bao are the reason you're here, steamed soup dumplings that arrive eight to a basket, skins thin enough to see the broth shifting inside.
 
-- Original pork xiao long bao — the benchmark order
-- Crab and pork xiao long bao — richer, slightly sweet, worth the upgrade
-- Braised beef noodle soup — deep, peppery broth with hand-pulled noodles
-- Prawn and pork wontons in spicy sauce — a good contrast to the steamed dishes
-- Fried rice with shrimp — a solid non-soup backup if you're sharing widely
+- Original pork xiao long bao, the benchmark order
+- Crab and pork xiao long bao, richer, slightly sweet, worth the upgrade
+- Braised beef noodle soup, deep, peppery broth with hand-pulled noodles
+- Prawn and pork wontons in spicy sauce, a good contrast to the steamed dishes
+- Fried rice with shrimp, a solid non-soup backup if you're sharing widely
 
-Dip dumplings lightly in the black vinegar and ginger provided rather than soy sauce alone — it cuts the richness without drowning the pork.
+Dip dumplings lightly in the black vinegar and ginger provided rather than soy sauce alone, it cuts the richness without drowning the pork.
 
 ## When to go
 
-Hours run 11am to 9pm most days, stretching to 9:15pm on Friday and Saturday. This is not a place with a dead hour — weekends stay busy from opening until close.
+Hours run 11am to 9pm most days, stretching to 9:15pm on Friday and Saturday. This is not a place with a dead hour. Weekends stay busy from opening until close.
 
 The measured quiet spot is 8pm to 9pm on weekdays, right before the kitchen winds down. Weekends are steadier throughout, but avoid noon to 7pm on Saturday and Sunday, when queues stretch past the host stand and mall traffic peaks around it.
 
@@ -109,12 +109,12 @@ Groups of two often move faster than groups of four or more, since the dining ro
 
 ## How to visit like a local
 
-Locals here don't treat this as an occasion restaurant — it's a reliable, efficient lunch or dinner between errands, and the pace reflects that.
+Locals here don't treat this as an occasion restaurant. It's a reliable, efficient lunch or dinner between errands, and the pace reflects that.
 
 - Pay by card or mobile wallet; cash works too, but tapping is faster given the turnover
-- No tipping is expected — a service charge and GST are already added to the bill
-- Order all courses at once rather than in waves — the kitchen fires dumplings and mains together, and staggering slows your own table down
+- No tipping is expected. A service charge and GST are already added to the bill
+- Order all courses at once rather than in waves, the kitchen fires dumplings and mains together, and staggering slows your own table down
 - Split steamers evenly if dining in a group; the servers will pre-portion soup dumplings with scissors and spoons if you ask
-- The biggest mistake visitors make is arriving during the 12–7pm weekend crush expecting a quick bite — build in 30–45 minutes of buffer, or shift to the 8pm weekday window instead
+- The biggest mistake visitors make is arriving during the 12–7pm weekend crush expecting a quick bite, build in 30–45 minutes of buffer, or shift to the 8pm weekday window instead
 
-Expect a mid-range bill for what you get: this isn't cheap hawker food, but it's not fine dining pricing either. Portions are small by design, so order more dishes than you think you need — the baskets disappear fast once they hit the table.
+Expect a mid-range bill for what you get: this isn't cheap hawker food, but it's not fine dining pricing either. Portions are small by design, so order more dishes than you think you need, the baskets disappear fast once they hit the table.

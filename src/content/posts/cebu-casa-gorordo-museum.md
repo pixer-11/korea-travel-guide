@@ -69,27 +69,27 @@ Entry is with a guided walkthrough, included in the ticket, and it's worth timin
 - A small chapel and private bedrooms with original religious artifacts
 - The rear courtyard, where the museum's café now operates
 
-Guides point out details you'd otherwise miss — the sliding capiz panels, the ventilation gaps under doors, the family's actual belongings mixed in with period-appropriate pieces. Give the tour your unhurried attention, longer if you want coffee after.
+Guides point out details you'd otherwise miss, the sliding capiz panels, the ventilation gaps under doors, the family's actual belongings mixed in with period-appropriate pieces. Give the tour your unhurried attention, longer if you want coffee after.
 
 ## Getting there
 
-Casa Gorordo sits at 35 Eduardo Aboitiz Street, in the Parian district of downtown Cebu City, an easy walk from Colon Street and Fort San Pedro. A taxi or Grab from the Ayala Center or SM City area takes about 15–20 minutes depending on traffic. If you're already exploring Heritage of Cebu Monument or Parian Church, the museum is a five-minute walk from either — this whole pocket of downtown rewards being covered on foot in one go.
+Casa Gorordo sits at 35 Eduardo Aboitiz Street, in the Parian district of downtown Cebu City, an easy walk from Colon Street and Fort San Pedro. A taxi or Grab from the Ayala Center or SM City area takes about 15–20 minutes depending on traffic. If you're already exploring Heritage of Cebu Monument or Parian Church, the museum is a five-minute walk from either, this whole pocket of downtown rewards being covered on foot in one go.
 
 ## When to go
 
-The museum runs 9am to 5pm Monday through Saturday and is closed all day Sunday, so plan around that before you build a downtown itinerary. Weekday mornings, shortly after opening, tend to be the calmest — tour groups and school trips typically arrive by mid-morning. Afternoons in the courtyard café get warm, so an earlier visit is more comfortable as well as quieter.
+The museum runs 9am to 5pm Monday through Saturday and is closed all day Sunday, so plan around that before you build a downtown itinerary. Weekday mornings, shortly after opening, tend to be the calmest, tour groups and school trips typically arrive by mid-morning. Afternoons in the courtyard café get warm, so an earlier visit is more comfortable as well as quieter.
 
 ## How to visit like a local
 
 Casa Gorordo is well-known on the Cebu heritage circuit, but it doesn't get the crush that hits Fort San Pedro or Basilica del Santo Niño, so you rarely need to fight for space. That said, a few habits make the visit smoother.
 
 - Arrive early on a weekday morning to get a guide's full attention rather than joining a bunched-up group
-- Bring small bills — the ticket booth and gift shop are more comfortable with cash than card
+- Bring small bills. The ticket booth and gift shop are more comfortable with cash than card
 - Ask your guide questions; most are local heritage enthusiasts and go well beyond the standard script if you engage
-- Wear socks-friendly shoes — some rooms restrict certain footwear to protect original flooring
+- Wear socks-friendly shoes, some rooms restrict certain footwear to protect original flooring
 - Save time for the café afterward rather than treating it as an afterthought; it's set in the old azotea and is genuinely one of the nicer quiet spots downtown
 
-The mistake most visitors make is rushing through in twenty minutes on the way to somewhere else. This is a small house, not a sprawling museum, but the detail rewards patience — the tour is paced for people who actually stop and look.
+The mistake most visitors make is rushing through in twenty minutes on the way to somewhere else. This is a small house, not a sprawling museum, but the detail rewards patience. The tour is paced for people who actually stop and look.
 
 ## Nearby to pair it with
 

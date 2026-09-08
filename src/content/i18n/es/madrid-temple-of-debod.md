@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-temple-of-debod
-srcHash: 'b8df46a25fce'
+srcHash: 'f60105bdacfe'
 title: 'Templo de Debod: Guía de viaje de Madrid (4,4★)'
 description: 'El Templo de Debod es un auténtico templo egipcio de 2.200 años de antigüedad, regalado a España en 1968 y reconstruido en una colina del Parque del Oeste, cerca de Príncipe Pío y Plaza de España. 4,4★ (68.952 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Templo de Debod es un auténtico templo egipcio de 2.200 años de antigüedad, regalado a España en 1968 y reconstruido en una colina del Parque del Oeste, cerca de Príncipe Pío y Plaza de España. Abre de martes a domingo, de 10:00 a 20:00 (cerrado los lunes), y se puede recorrer el exterior de forma gratuita. Lo mejor es visitarlo una hora antes de la puesta de sol, procurando llegar antes de que empiece la avalancha de gente de los fines de semana, entre las 15:00 y las 20:00.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fethiye-gemiler-island
-srcHash: '9725f63f849b'
+srcHash: 'd15dd9ac0b71'
 title: 'Isla de Gemiler: Guía de viaje de Fethiye (4,8★)'
 description: La isla de Gemiler, frente a la costa de Fethiye cerca de Ölüdeniz, es una isla deshabitada a la que solo se llega en barco, salpicada de ruinas bizantinas —iglesias, arcadas de bóveda de cañón y una misteriosa "Tumba de San Nicolás". 4,8★ (744 opiniones) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La isla de Gemiler, frente a la costa de Fethiye cerca de Ölüdeniz, es una isla deshabitada a la que solo se llega en barco, salpicada de ruinas bizantinas —iglesias, arcadas de bóveda de cañón y una misteriosa "Tumba de San Nicolás". Ve en un barco de excursión diaria o en un chárter privado, lleva calzado adecuado para la subida hasta las ruinas, y procura llegar por la mañana antes de que se acumule la multitud de las excursiones en barco de la tarde.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-port-antique
-srcHash: 'e63bb2350262'
+srcHash: 'cbeadb102e9b'
 title: 古港遗址：马赛旅行指南
 description: 遗迹花园（古港遗址）是马赛第一区布尔斯购物中心（Centre Bourse）后面的一座下沉式小公园，园内保留着古希腊城墙和一段罗马古道的真迹，整片区域低于街道地面，闹中取静，别有一番天地。
 quickAnswer: 遗迹花园（Jardin des Vestiges，也叫古港遗址）藏在马赛第一区布尔斯购物中心（Centre Bourse）背后，是一座下沉式小公园。走进去就能近距离触及古希腊城墙的真迹，还有一段罗马古道，整片遗址都低于街道地面，安静又带着几分绿意。开放时间是周二到周日的上午9:30到下午6点（周一休息），逛一圈只需20到30分钟，很适合安排在从老港（Vieux-Port）走到勒班尼耶（Le Panier）的路上顺道一游。周末下午人最多，想清静点的话建议早点来。

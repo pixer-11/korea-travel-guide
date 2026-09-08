@@ -104,7 +104,7 @@ Sheesh Mahal itself is one hall within a larger complex, so budget time to see i
 - **Ganesh Pol** – the ornate frescoed gateway you pass through to reach the private quarters
 - **Zenana courtyard** – the women's quarters surrounding a central garden
 
-The mirror mosaic looks almost flat under flat daylight. Hold a phone torch or lighter near the wall and it flares into hundreds of tiny points of light — this is the effect the room was designed for, and worth the extra minute.
+The mirror mosaic looks almost flat under flat daylight. Hold a phone torch or lighter near the wall and it flares into hundreds of tiny points of light. This is the effect the room was designed for, and worth the extra minute.
 
 ## When to go
 
@@ -119,9 +119,9 @@ Midday sees the heaviest tour-group traffic, when Sheesh Mahal's narrow entrance
 Amber Fort draws heavy crowds year-round, so timing and logistics matter more than any insider secret here.
 
 - **Book entry tickets online in advance** through the official Rajasthan tourism site to skip the counter queue at the gate
-- **Hire a licensed guide or audio guide at the entrance** — Sheesh Mahal has no on-site plaques, and its history is easy to miss without one
+- **Hire a licensed guide or audio guide at the entrance**, Sheesh Mahal has no on-site plaques, and its history is easy to miss without one
 - **Pay entry and guide fees by card or exact cash**; small vendors and camera fees inside often expect cash only
-- **Don't ride the elephants up** if you're uncomfortable with animal welfare concerns — jeeps run the same route
+- **Don't ride the elephants up** if you're uncomfortable with animal welfare concerns, jeeps run the same route
 - **Wear socks-friendly shoes** for a couple of spots where you'll be asked to remove footwear
 
 The single biggest mistake visitors make is treating Amber Fort as a quick 45-minute stop. Between the ramparts, courtyards, and Sheesh Mahal itself, plan on two to three hours to see it without rushing through the mirrored hall itself.

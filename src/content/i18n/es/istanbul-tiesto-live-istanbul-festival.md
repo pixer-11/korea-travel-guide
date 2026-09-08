@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-tiesto-live-istanbul-festival
-srcHash: '831d01523707'
+srcHash: '3161a4f99d93'
 title: 'Tiësto en directo – Festival de Estambul: lo que se sabía (Estambul)'
 description: 'Tiësto en directo en el Festival de Estambul (Turquía), previsto para el 8 de agosto de 2026. Lo que se anunció: la fecha, el recinto de Yenikapı y sus conexiones de transporte.'
 quickAnswer: 'El festival estaba previsto para el 8 de agosto de 2026 en el Parque del Festival de Yenikapı (Festival Alanı Yenikapı), sobre la costa del Mármara en la Península Histórica, con Tiësto como cabeza de cartel. Yenikapı se asienta sobre uno de los mayores nudos de transporte de Estambul: el tranvía T1, las líneas de metro M1A/M1B y la línea ferroviaria Marmaray llegan todos al recinto a poca distancia a pie. Las categorías de entradas, los horarios de apertura de puertas y los detalles del escenario nunca llegaron a hacerse públicos.'

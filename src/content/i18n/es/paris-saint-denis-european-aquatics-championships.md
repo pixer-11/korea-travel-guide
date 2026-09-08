@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-saint-denis-european-aquatics-championships
-srcHash: '7dbd7717690b'
+srcHash: '3162b9dc710f'
 title: 'Campeonato Europeo de Deportes Acuáticos: lo que hay que saber (París)'
 description: El Campeonato Europeo de Deportes Acuáticos estaba previsto del 1 al 16 de agosto de 2026 en París y Saint-Denis, en instalaciones construidas o reacondicionadas para los Juegos Olímpicos de París 2024.
 quickAnswer: El Campeonato Europeo de Deportes Acuáticos estaba previsto del 1 al 16 de agosto de 2026 en París y Saint-Denis, con sedes construidas o reacondicionadas para los Juegos Olímpicos de París 2024, entre las que destacaban la Paris La Défense Arena y el Centro Acuático Olímpico de Saint-Denis. El programa anunciado incluía natación, saltos, natación artística, waterpolo y aguas abiertas, distribuidos entre las dos sedes anfitrionas, con jornadas de competición que variaban según la disciplina.

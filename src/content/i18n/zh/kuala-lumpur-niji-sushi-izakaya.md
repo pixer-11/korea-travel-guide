@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-niji-sushi-izakaya
-srcHash: '8dc7cc31f04f'
+srcHash: 'af7b3de455bf'
 title: NIJI Sushi Izakaya：吉隆坡美食新去处
 description: NIJI Sushi Izakaya 是马来西亚吉隆坡的一家新晋热门餐厅：这里到底是什么样的地方、位于哪里，以及该如何前往用餐。
 quickAnswer: NIJI Sushi Izakaya 是吉隆坡 Changkat Bukit Bintang（武吉免登唐人扎卡）街区的一家独栋餐厅，号称马来西亚首家现代寿司居酒屋。如果你想尝尝空运日本鲜鱼、经法式训练主厨之手重新演绎的味道，这里正是首选。餐厅设有多层用餐空间和露台，不是那种局促的吧台座位，无论是安静约会还是多人聚会都合适。由于刚开业不久、人气正快速攀升，建议提前确认营业时间并预订座位。

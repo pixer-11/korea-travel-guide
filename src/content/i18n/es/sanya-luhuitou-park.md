@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sanya-luhuitou-park
-srcHash: '738631a158ca'
+srcHash: 'd453c5da4af2'
 title: 'Parque Luhuitou: guía de viaje de Sanya (4,6★)'
 description: 'El Parque Luhuitou se encuentra en una colina al sur de la ciudad de Sanya, y es mejor visitarlo a última hora de la tarde, cuando baja el calor y la luz dorada baña la Bahía de Sanya. 4,6★ (1.318 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Luhuitou se encuentra en una colina al sur de la ciudad de Sanya, y es mejor visitarlo a última hora de la tarde, cuando baja el calor y la luz dorada baña la Bahía de Sanya. Reserva entre 1,5 y 2 horas para recorrer los senderos hasta la estatua del ciervo, disfrutar de los miradores panorámicos y estar atento a los macacos que habitan los senderos boscosos. Lleva agua, protección solar y algo de cambio para el teleférico, por si prefieres subir en él en lugar de caminar.

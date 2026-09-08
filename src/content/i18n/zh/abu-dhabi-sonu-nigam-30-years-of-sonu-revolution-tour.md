@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour
-srcHash: 'd1336ce54334'
+srcHash: '654999fe7888'
 title: 索努·尼加姆《Sonu 三十周年》（Revolution Tour）：演出日期、门票与场馆（阿布扎比）
 description: 索努·尼加姆《Sonu 三十周年》巡演（Revolution Tour）原定于2026年8月21日在阿布扎比伊蒂哈德竞技场（Etihad Arena）开唱，这也是整个巡演的全球首演之夜。
 quickAnswer: 索努·尼加姆《Sonu 三十周年》巡演（Revolution Tour）原定于2026年8月21日在阿布扎比亚斯岛（Yas Island）的伊蒂哈德竞技场（Etihad Arena）开唱，作为这场纪念他三十年演艺生涯的国际巡演系列的全球首站。门票和演出时间安排均通过伊蒂哈德竞技场官方网站及索努·尼加姆的认证渠道发布。演出当晚，通往亚斯岛的道路很快就会拥堵，需提前规划出行。

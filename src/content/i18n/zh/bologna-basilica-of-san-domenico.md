@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bologna-basilica-of-san-domenico
-srcHash: '1e74ba775425'
+srcHash: 'a2876717c2ed'
 title: 圣多明我大殿：博洛尼亚旅行指南
 description: 圣多明我大殿（Basilica of San Domenico）位于马焦雷广场（Piazza Maggiore）以南步行12分钟处，坐落在博洛尼亚古城墙附近的大学城区域。
 quickAnswer: 圣多明我大殿位于马焦雷广场以南步行12分钟处，坐落在博洛尼亚古城墙附近的大学城区域。无论工作日还是周末，从早上7:30到下午1点、再从下午3:30到晚上8点，这里基本上全天都很清静——唯一要避开的时段是周末下午4点到6点，那时旅行团会聚集在圣多明我墓（Arca di San Domenico）周围。预留45分钟到1小时即可，入内参观完全免费。

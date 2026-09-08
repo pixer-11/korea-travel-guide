@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suwon-hwaseong-fortress
-srcHash: '8d030b823ec5'
+srcHash: 'f31ba0f85e70'
 title: Fortaleza de Hwaseong en Suwon
 description: 'La Fortaleza de Hwaseong es una ciudad amurallada del siglo XVIII en Suwon, a unos 30 minutos al sur del centro de Seúl en KTX o entre 60 y 90 minutos en la Línea 1 de metro, y su inclusión en la lista de la UNESCO está más que justificada: un recorrido a pie de 5,7 km por una muralla que conserva intactas sus puertas, puestos de mando y torres de vigilancia.'
 quickAnswer: 'La Fortaleza de Hwaseong es una ciudad amurallada del siglo XVIII en Suwon, a unos 30 minutos al sur del centro de Seúl en KTX o entre 60 y 90 minutos en la Línea 1 de metro, y su inclusión en la lista de la UNESCO está más que justificada: un recorrido a pie de 5,7 km por una muralla que conserva intactas sus puertas, puestos de mando y torres de vigilancia. Conviene reservar medio día: se entra cerca de la Puerta Janganmun o la Puerta Paldalmun, se camina por las murallas hasta el Museo Hwaseong de Suwon, y se cierra la visita con el plato estrella de la fortaleza, el galbi, en el casco antiguo que se extiende a sus pies.'

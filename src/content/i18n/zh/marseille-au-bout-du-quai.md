@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-au-bout-du-quai
-srcHash: '0559de12491b'
+srcHash: 'e4a540b22749'
 title: Au Bout Du Quai：马赛美食指南
 description: Au Bout Du Quai 是马赛（Marseille）近来备受关注的新晋餐厅——这里介绍它是什么样的餐厅、具体位置在哪里，以及如何前往用餐。
 quickAnswer: Au Bout Du Quai 是一家位于马赛老港（Vieux-Port）的地中海海鲜餐厅，属于近年港口沿岸新开餐厅浪潮中的一员。这里以直接从当地渔民手中采购的新鲜鱼类闻名，还有一个可容纳80人、正对海面的露台。建议提前预订，尤其是想在日落时分坐上露台座位的话，出发前也别忘了确认最新营业时间。

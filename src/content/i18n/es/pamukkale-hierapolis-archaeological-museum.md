@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pamukkale-hierapolis-archaeological-museum
-srcHash: '8c8c616040c2'
+srcHash: 'b1de63de8479'
 title: 'Museo Arqueológico de Hierápolis: Guía de viaje de Pamukkale'
 description: El Museo Arqueológico de Hierápolis se encuentra dentro de las antiguas termas romanas (thermae), justo al norte de las terrazas de travertino, y merece 45-60 minutos de tu visita, ya sea de camino a las ruinas o de vuelta.
 quickAnswer: El Museo Arqueológico de Hierápolis se encuentra dentro de las antiguas termas romanas (thermae), justo al norte de las terrazas de travertino, y merece 45-60 minutos de tu visita, ya sea de camino a las ruinas o de vuelta. Alberga sarcófagos, estatuas y hallazgos menores de Hierápolis y de la cercana Laodicea, y como la mayoría de los visitantes pasa de largo hacia las terrazas, se mantiene notablemente más tranquilo que el yacimiento exterior. Ve a primera hora o a media tarde, combínalo con el teatro y la necrópolis de Hierápolis, y ten en cuenta que el museo suele requerir una pequeña entrada aparte del ticket del yacimiento de Pamukkale/Hierápolis.

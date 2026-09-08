@@ -87,27 +87,27 @@ updatedDate: '2026-08-31'
 ---
 ## Why Khao Soi, and Why This Spot
 
-Khao soi is Chiang Mai's signature dish — a Burmese-influenced curry noodle soup built on a coconut-milk broth, egg noodles boiled soft in the bowl, and a tangle of deep-fried crispy noodles piled on top for crunch. It's typically made with chicken (khao soi gai) or beef (khao soi neua), finished with pickled mustard greens, shallots, lime, and a spoonful of chili oil (nam prik pao) stirred in table-side to taste.
+Khao soi is Chiang Mai's signature dish, a Burmese-influenced curry noodle soup built on a coconut-milk broth, egg noodles boiled soft in the bowl, and a tangle of deep-fried crispy noodles piled on top for crunch. It's typically made with chicken (khao soi gai) or beef (khao soi neua), finished with pickled mustard greens, shallots, lime, and a spoonful of chili oil (nam prik pao) stirred in table-side to taste.
 
-Best Khao Soi Chang Mai has built its reputation squarely around doing this one dish exceptionally well, which is reflected in its 4.6-star average across 252 reviews — a strong showing for a single-dish specialist in a city with hundreds of khao soi vendors.
+Best Khao Soi Chang Mai has built its reputation squarely around doing this one dish exceptionally well, which is reflected in its 4.6-star average across 252 reviews, a strong showing for a single-dish specialist in a city with hundreds of khao soi vendors.
 
 Unlike the famous tourist-heavy khao soi rows near the Chiang Mai Gate or Chang Phuak Gate night market, this shop sits in the Phra Singh area, in the heart of the old city, putting it within easy reach of temple-hopping itineraries rather than requiring a special detour.
 
 ## Getting There
 
-The address places it in Tambon Phra Sing, Amphoe Mueang Chiang Mai — inside or just at the edge of the old city's moat-bounded square, the district anchored by Wat Phra Singh, one of Chiang Mai's most important temples. If you're staying inside the old city walls, this is walkable from most guesthouses; expect a 10–20 minute walk depending on your starting point near Ratchadamnoen Road or Singharat Road.
+The address places it in Tambon Phra Sing, Amphoe Mueang Chiang Mai, inside or just at the edge of the old city's moat-bounded square, the district anchored by Wat Phra Singh, one of Chiang Mai's most important temples. If you're staying inside the old city walls, this is walkable from most guesthouses; expect a 10–20 minute walk depending on your starting point near Ratchadamnoen Road or Singharat Road.
 
-From outside the old city, a metered taxi or Grab ride is the simplest option — Chiang Mai doesn't have a subway or light rail system, so ride-hailing apps (Grab) or red songthaew shared trucks are the standard way to get around. If you're coming from Chiang Mai Airport, it's roughly a 10-15 minute drive to the Phra Singh area barring traffic. Tuk-tuks are also common for short old-city hops but agree on a price before boarding.
+From outside the old city, a metered taxi or Grab ride is the simplest option, Chiang Mai doesn't have a subway or light rail system, so ride-hailing apps (Grab) or red songthaew shared trucks are the standard way to get around. If you're coming from Chiang Mai Airport, it's roughly a 10-15 minute drive to the Phra Singh area barring traffic. Tuk-tuks are also common for short old-city hops but agree on a price before boarding.
 
 ## What to Order
 
-Start with khao soi gai (chicken) if it's your first time — the chicken thigh version tends to hold up best in the rich coconut broth. Ask for the beef (neua) version if you want a heartier, slightly gamier bowl. Most khao soi shops in Chiang Mai let you customize with the standard condiments on the table: squeeze lime for acidity, add the pickled mustard greens (dong) for a tangy crunch, and stir in chili oil gradually rather than all at once, since it can quickly overpower the broth.
+Start with khao soi gai (chicken) if it's your first time, the chicken thigh version tends to hold up best in the rich coconut broth. Ask for the beef (neua) version if you want a heartier, slightly gamier bowl. Most khao soi shops in Chiang Mai let you customize with the standard condiments on the table: squeeze lime for acidity, add the pickled mustard greens (dong) for a tangy crunch, and stir in chili oil gradually rather than all at once, since it can quickly overpower the broth.
 
 Pair it with a side of sai oua (northern Thai herbed sausage) or naem (fermented pork) if available, and a Thai iced tea or an ice-cold Chang or Singha beer to cut the richness of the coconut broth. Portions at specialist khao soi shops are usually generous but not enormous, so a second, smaller order or a side dish is common if you're hungry.
 
 ## When to Go and What to Expect
 
-This shop runs as an evening spot — with hours limited to evenings only, and not open every day — so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening can mean a shorter line.
+This shop runs as an evening spot (with hours limited to evenings only, and not open every day), so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening can mean a shorter line.
 
 As with most single-dish specialists in Thailand, the shop may sell out of the day's broth or noodles once supply runs low, so getting there earlier in the evening is safer if you're set on trying it.
 

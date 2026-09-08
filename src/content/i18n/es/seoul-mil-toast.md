@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-mil-toast
-srcHash: 'a04ab51370ef'
+srcHash: '52af6b278306'
 title: 'Mil Toast: Guía de viaje de Seúl'
 description: 'Mil Toast en Seúl, Corea del Sur — un lugar nuevo y en tendencia: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Mil Toast es el café de Seúl detrás del soufflé French toast que no para de arrasar en TikTok, el tipo de lugar donde la fila de un sábado o domingo por la mañana puede superar la hora de espera antes incluso de que veas el menú. Aquí no se confirma dirección, horario ni política de reservas verificados, así que consulta el Instagram o la ficha de Naver Map del café el mismo día en que planees ir. Intenta llegar entre semana a la hora de apertura si quieres evitar lo peor de la fila.

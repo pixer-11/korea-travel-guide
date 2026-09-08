@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: suwon-local-restaurant
-srcHash: '0908a2b3f016'
+srcHash: '1e0e16b38bd3'
 title: 水原当地餐厅指南
 description: 水原的招牌美食是王排骨（wang-galbi），也就是超大份的烤牛排骨，在历史城区的八达门（Paldalmun Gate）和永东市场（Yeongdong Market）附近最能品尝到地道风味。
 quickAnswer: 水原的招牌美食是王排骨（wang-galbi），也就是超大份的烤牛排骨，在历史城区的八达门（Paldalmun Gate）和永东市场（Yeongdong Market）附近最能品尝到地道风味。建议傍晚空腹前往，顺便沿华城（Hwaseong Fortress）城墙走一走，可先乘地铁1号线到水原站（Suwon Station），再转乘出租车或公交车前往该区域。

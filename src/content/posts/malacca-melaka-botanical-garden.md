@@ -84,7 +84,7 @@ Melaka Botanical Garden sits in Ayer Keroh, a leafy pocket a short drive from ce
 
 This is where Malacca comes to move. Joggers loop the perimeter roads at dawn, cyclists coast past on rented or their own bikes, and families spread mats on the grass near the playgrounds.
 
-Long-tailed macaques are part of the deal here. They swing through the trees near picnic areas and food stalls, bold enough to eye your snacks — keep bags zipped and don't offer food directly.
+Long-tailed macaques are part of the deal here. They swing through the trees near picnic areas and food stalls, bold enough to eye your snacks. Keep bags zipped and don't offer food directly.
 
 ## Getting there
 
@@ -99,7 +99,7 @@ The park spans a genuinely large footprint, so decide your focus before wanderin
 - **Jogging and cycling loops** along shaded tarmac roads that circle the main grounds
 - **Playgrounds** scattered near the picnic lawns, popular with local families on weekends
 - **Lakes and streams** where you can sit quietly away from the road noise
-- **Macaque-watching** in the tree line — observe, don't feed
+- **Macaque-watching** in the tree line, observe, don't feed
 - **Picnic spots** under the rain tree canopy, ideal for a packed lunch
 
 Because it's open 24 hours every day, there's no ticket booth rush or closing-time pressure. That said, after dark the park is dim and quiet in stretches, so daylight hours are more comfortable for first-time visits.
@@ -114,14 +114,14 @@ Midday can get humid and exposed in the open lawn sections, so plan around the t
 
 ## How to visit like a local
 
-Locals treat this as a fitness and family space, not a sightseeing checklist — plan your visit the same way.
+Locals treat this as a fitness and family space, not a sightseeing checklist. Plan your visit the same way.
 
 - **Time it right**: arrive before 9am for cool air and active wildlife, or after 9pm for near-empty paths (any day of the week).
 - **Skip the weekend afternoon crush**: 7am–7pm on Saturdays and Sundays is when crowds peak.
 - **Bring your own bike or rent one** near the entrance rather than assuming rentals are always available on-site.
 - **Carry cash small notes** for stalls selling drinks and snacks near the picnic areas.
-- **Don't feed the macaques** — it's the single most common visitor mistake, and it makes them more aggressive toward the next person.
+- **Don't feed the macaques**. It's the single most common visitor mistake, and it makes them more aggressive toward the next person.
 - **Wear proper shoes**, not sandals, if you're planning to jog or cycle the full loop rather than just stroll.
 
-The park doesn't charge much of note to simply walk in and explore its lawns and paths, though facilities like paddleboats or bike rentals may carry their own small fees — worth confirming on arrival since these details shift. Pair a visit here with the nearby Melaka Zoo for a full outdoor half-day away from the historic core's crowds and heat.
+The park doesn't charge much of note to simply walk in and explore its lawns and paths, though facilities like paddleboats or bike rentals may carry their own small fees, worth confirming on arrival since these details shift. Pair a visit here with the nearby Melaka Zoo for a full outdoor half-day away from the historic core's crowds and heat.
 

@@ -74,15 +74,15 @@ aiGenerated: true
 
 ## Why go
 
-Yeonnam-dong has become one of Seoul's most photogenic neighborhoods for café culture, and Plant Cafe Seoul stands out even in a district crowded with concept cafés. As the name suggests, the space leans hard into a botanical theme — think dense greenery, hanging vines, and a glasshouse or conservatory feel that makes it a favorite for both coffee lovers and anyone chasing a break from Seoul's concrete density.
+Yeonnam-dong has become one of Seoul's most photogenic neighborhoods for café culture, and Plant Cafe Seoul stands out even in a district crowded with concept cafés. As the name suggests, the space leans hard into a botanical theme, think dense greenery, hanging vines, and a glasshouse or conservatory feel that makes it a favorite for both coffee lovers and anyone chasing a break from Seoul's concrete density.
 
 With a 4.5 rating across 251 reviews, it has built a loyal following among locals and visitors alike, which in a neighborhood this saturated with new openings says something about consistency.
 
-The appeal isn't just the drinks — it's the atmosphere. Plant-filled interiors have become a genuine sub-genre of Seoul café design, and this one leans into an indoor-garden aesthetic that photographs beautifully in natural light, especially near the windows in the late morning.
+The appeal isn't just the drinks. It's the atmosphere. Plant-filled interiors have become a genuine sub-genre of Seoul café design, and this one leans into an indoor-garden aesthetic that photographs beautifully in natural light, especially near the windows in the late morning.
 
 ## Getting there
 
-The café sits at 87 World Cup buk-ro 4-gil, Mapo-gu, in the heart of Yeonnam-dong — the residential-turned-hip neighborhood just north of Hongdae. The most straightforward approach is via **Sangsu Station (Line 6)**, from which it's a walk of roughly 15-20 minutes through Yeonnam's quieter side streets, or a short taxi ride if you'd rather skip the walk. Alternatively, many visitors arrive from **Hongik University Station (Line 2 / Airport Railroad / Gyeongui-Jungang Line)** and cut through the **Gyeongui Line Forest Park (Yeonnam-dong section)**, sometimes nicknamed "Yeontral Park" by locals — a linear greenway built over a former rail line that connects Hongdae to Yeonnam-dong and makes for a pleasant approach on foot.
+The café sits at 87 World Cup buk-ro 4-gil, Mapo-gu, in the heart of Yeonnam-dong (the residential-turned-hip neighborhood just north of Hongdae. The most straightforward approach is via **Sangsu Station (Line 6)**, from which it's a walk of roughly 15-20 minutes through Yeonnam's quieter side streets, or a short taxi ride if you'd rather skip the walk. Alternatively, many visitors arrive from **Hongik University Station (Line 2 / Airport Railroad / Gyeongui-Jungang Line)** and cut through the **Gyeongui Line Forest Park (Yeonnam-dong section)**, sometimes nicknamed "Yeontral Park" by locals) a linear greenway built over a former rail line that connects Hongdae to Yeonnam-dong and makes for a pleasant approach on foot.
 
 Either way, expect to navigate narrow residential lanes rather than a direct main-road walk, so having a maps app open is genuinely useful here, since street numbering in this part of Mapo-gu isn't always intuitive.
 
@@ -90,7 +90,7 @@ Either way, expect to navigate narrow residential lanes rather than a direct mai
 
 The draw is the interior: expect layered plant displays, natural wood and stone textures, and seating tucked among the foliage that make it feel more like a greenhouse retreat than a typical espresso bar. Specialty coffee and Instagram-friendly drinks (think creative lattes or seasonal fruit-based beverages) are the norm at cafés of this style in Yeonnam, alongside baked goods meant to be shared over a slow conversation.
 
-Because the space itself is the main attraction, plan to spend at least an hour — longer if you want to shoot photos without a crowd in the background.
+Because the space itself is the main attraction, plan to spend at least an hour, longer if you want to shoot photos without a crowd in the background.
 
 ## When to go
 
@@ -100,4 +100,4 @@ As with most independent cafés in Seoul, hours can shift seasonally or around p
 
 ## Nearby & tips
 
-Yeonnam-dong rewards aimless wandering — the blocks around Plant Cafe Seoul are dense with small boutiques, other themed cafés, and casual restaurants, many tucked into converted single-story homes. The Gyeongui Line Forest Park is the natural anchor for a nearby stop, offering a shaded walking path that stretches toward Hongdae, useful for bookending a café visit with some movement. Given the neighborhood's popularity, seating inside plant-heavy cafés like this one can fill up quickly on weekends, so arriving right at opening or opting for a weekday visit remains the most reliable way to actually get a seat among the greenery rather than a takeaway cup on the sidewalk.
+Yeonnam-dong rewards aimless wandering. The blocks around Plant Cafe Seoul are dense with small boutiques, other themed cafés, and casual restaurants, many tucked into converted single-story homes. The Gyeongui Line Forest Park is the natural anchor for a nearby stop, offering a shaded walking path that stretches toward Hongdae, useful for bookending a café visit with some movement. Given the neighborhood's popularity, seating inside plant-heavy cafés like this one can fill up quickly on weekends, so arriving right at opening or opting for a weekday visit remains the most reliable way to actually get a seat among the greenery rather than a takeaway cup on the sidewalk.

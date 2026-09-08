@@ -78,13 +78,13 @@ draft: false
 
 Cadlao Island dominates the view from El Nido's beaches, but almost nobody stops at its lagoon. That's the appeal.
 
-The water sits in a narrow cut between limestone walls, shifting from turquoise at the mouth to a deep jade further in where the cliffs block direct sun. Fish shadows flicker over the sandy bottom. There's no dock, no vendor, no queue of tourist boats jostling for photos — just rock, water, and the occasional swiftlet darting into a crevice overhead.
+The water sits in a narrow cut between limestone walls, shifting from turquoise at the mouth to a deep jade further in where the cliffs block direct sun. Fish shadows flicker over the sandy bottom. There's no dock, no vendor, no queue of tourist boats jostling for photos, just rock, water, and the occasional swiftlet darting into a crevice overhead.
 
 Because it's under-the-radar, you get a version of El Nido's famous scenery without the crowd that has built up around Big Lagoon and Small Lagoon in Bacuit Bay.
 
 ## Getting there
 
-Cadlao Lagoon sits on the western side of Cadlao Island, a short boat ride from El Nido town proper. There's no road access — this is boat-only territory, and no public jeepney or tricycle gets you close.
+Cadlao Lagoon sits on the western side of Cadlao Island, a short boat ride from El Nido town proper. There's no road access. This is boat-only territory, and no public jeepney or tricycle gets you close.
 
 Your options:
 
@@ -98,11 +98,11 @@ Expect roughly 20–30 minutes of boat travel each way from town, depending on s
 
 Once inside, cut the engine and swim. The lagoon is narrow enough that paddling from one end to the other takes only a few minutes, but the walls are the real draw.
 
-Limestone karst rises straight out of the water, streaked grey and rust-colored, with pockets of greenery clinging to ledges. Snorkeling here is casual rather than a major reef destination — expect clear visibility and small reef fish rather than dramatic coral gardens.
+Limestone karst rises straight out of the water, streaked grey and rust-colored, with pockets of greenery clinging to ledges. Snorkeling here is casual rather than a major reef destination. Expect clear visibility and small reef fish rather than dramatic coral gardens.
 
 Bring:
 
-- Reef-safe sunscreen (apply before you leave shore — there's no shade once you're in the water)
+- Reef-safe sunscreen (apply before you leave shore. There's no shade once you're in the water)
 - Water shoes if you plan to scramble onto any rocky ledges
 - A dry bag for your phone, since there's nowhere to leave belongings
 
@@ -118,12 +118,12 @@ If you can, aim for an early morning departure, before the 9am rush and before t
 
 ## How to visit like a local
 
-There's no ticket booth, no fixed fee, and no set schedule here — everything runs on your boatman's arrangement, so negotiate the price and route before you leave the dock.
+There's no ticket booth, no fixed fee, and no set schedule here, everything runs on your boatman's arrangement, so negotiate the price and route before you leave the dock.
 
 - **Ask by name.** Cadlao Lagoon isn't part of the standard tour packages, so say it clearly when booking, or your guide may default to the more crowded lagoons in Bacuit Bay.
 - **Pay in cash.** Boat charters and any informal guiding fees are settled in Philippine pesos, not card or mobile pay.
 - **Go early.** Locals who fish or ferry supplies around Cadlao Island tend to be out at dawn; boat traffic builds through midmorning.
-- **Don't expect facilities.** No restrooms, no food stalls, no ranger station — pack water and snacks from town.
+- **Don't expect facilities.** No restrooms, no food stalls, no ranger station. Pack water and snacks from town.
 - **Respect the quiet.** Because so few tour groups stop here, loud speakers or large groups feel more intrusive than they would at a busier site.
 
-The mistake most visitors make is assuming any El Nido boat tour automatically includes this lagoon. It doesn't — you have to request it specifically, ideally when booking or the night before.
+The mistake most visitors make is assuming any El Nido boat tour automatically includes this lagoon. It doesn't. You have to request it specifically, ideally when booking or the night before.

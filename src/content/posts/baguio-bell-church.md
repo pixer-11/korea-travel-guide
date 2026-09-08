@@ -53,13 +53,13 @@ You smell the incense before you see the gate. It drifts down Bell Church Road a
 
 The complex sits on a terraced hillside in La Trinidad, Benguet, just a short drive from central Baguio. Unlike the city's pine-forested parks, this is a compound of red-and-gold pavilions, dragon-carved balustrades, and steep stone stairways stacked one above the other. Locals call it Bell Temple; the name comes from a bronze bell donated decades ago by a Chinese-Filipino community group.
 
-What makes it worth the detour is the layering — you climb past shrine after shrine, each landing giving you a wider view of the valley below.
+What makes it worth the detour is the layering, you climb past shrine after shrine, each landing giving you a wider view of the valley below.
 
 ## Getting there
 
 Bell Church is in La Trinidad, technically outside Baguio proper but close enough to feel like an extension of it.
 
-From central Baguio, jeepneys and taxis heading toward La Trinidad pass near Bell Church Road — ask the driver to drop you at the temple turnoff. A taxi from Session Road takes roughly 15-20 minutes depending on traffic through the market area. If you're renting a car or booking a private van for the strawberry farms, add this as a five-minute detour off the main highway.
+From central Baguio, jeepneys and taxis heading toward La Trinidad pass near Bell Church Road. Ask the driver to drop you at the temple turnoff. A taxi from Session Road takes roughly 15-20 minutes depending on traffic through the market area. If you're renting a car or booking a private van for the strawberry farms, add this as a five-minute detour off the main highway.
 
 ## What you'll see inside
 
@@ -72,7 +72,7 @@ Inside, narrow stairways wind up through multiple shrine levels dedicated to dif
 - Prayer wheels and bell pulls visitors are welcome to use
 - Hillside viewpoints near the top tier looking over La Trinidad's valley
 
-Bring a few coins for the donation boxes — it's customary, not mandatory, and helps maintain the shrines.
+Bring a few coins for the donation boxes. It's customary, not mandatory, and helps maintain the shrines.
 
 ## When to go
 
@@ -87,12 +87,12 @@ Plan for 30 to 45 minutes unless you want to sit by the pond and take it slow.
 Treat Bell Church as a quiet-hours destination, not a group-tour box to check.
 
 - **Time it right**: visit early in the day, before the city-tour vans start cycling through late morning.
-- **Dress modestly**: it's an active place of worship — cover shoulders and avoid loud clothing on the upper shrine levels.
+- **Dress modestly**: it's an active place of worship, cover shoulders and avoid loud clothing on the upper shrine levels.
 - **Keep your voice down** near the incense altars; devotees are often there to pray, not pose for photos.
-- **Pay by cash** for parking and any snack stalls near the entrance — small bills, since change can be limited.
+- **Pay by cash** for parking and any snack stalls near the entrance, small bills, since change can be limited.
 - **Don't rush the stairs**; they're steep and uneven in spots, especially after rain.
 
-The mistake most first-timers make is treating this like a five-minute photo-op stop bolted onto a strawberry-farm run. Give it the full loop to the top tier — that's where the valley view actually opens up, and where the crowds thin out fastest since most visitors stop at the lower courtyard.
+The mistake most first-timers make is treating this like a five-minute photo-op stop bolted onto a strawberry-farm run. Give it the full loop to the top tier. That's where the valley view actually opens up, and where the crowds thin out fastest since most visitors stop at the lower courtyard.
 
 ## Nearby, to round out the trip
 

@@ -93,24 +93,24 @@ You're floating on the Hau River, a branch of the Mekong, roughly 6km from centr
 
 Most visitors start at Ninh Kieu wharf, Can Tho's main riverfront dock. From there, small motorized boats take about 30-45 minutes downstream to reach the market.
 
-- Book through your hotel or homestay the night before — most arrange a boat and driver
+- Book through your hotel or homestay the night before, most arrange a boat and driver
 - Independent travelers can negotiate directly with boatmen at Ninh Kieu, though prices vary with bargaining skill
 - Faster speedboats cut travel time but skip the slow river-life scenery along the banks
 - A shared boat trip typically runs 2-3 hours round trip, sometimes bundled with a stop at a smaller canal market or fruit orchard
 
 ## What you'll actually see
 
-The market itself is a maze of color and noise. Sellers rig a tall bamboo pole to each boat's bow, hanging a sample of whatever they're selling — a pineapple, a bundle of onions, a cluster of bananas — so buyers can spot cargo from a distance without shouting over the engines.
+The market itself is a maze of color and noise. Sellers rig a tall bamboo pole to each boat's bow, hanging a sample of whatever they're selling (a pineapple, a bundle of onions, a cluster of bananas), so buyers can spot cargo from a distance without shouting over the engines.
 
 This system is called "bẹo," and it's essentially a floating billboard, unique to Mekong Delta markets.
 
-Smaller boats weave between the big wholesale vessels selling breakfast: iced coffee poured over crushed ice, bowls of hủ tiếu (rice noodle soup) ladled straight from a floating kitchen, and sticky rice wrapped in banana leaf. Buy your coffee from the boat itself — it's part of the experience, not just a snack.
+Smaller boats weave between the big wholesale vessels selling breakfast: iced coffee poured over crushed ice, bowls of hủ tiếu (rice noodle soup) ladled straight from a floating kitchen, and sticky rice wrapped in banana leaf. Buy your coffee from the boat itself. It's part of the experience, not just a snack.
 
 Look past the produce boats too. Some vendors sell fuel, hardware, even karaoke machines rigged onto their decks, a reminder this is a full floating economy, not a tourist set piece.
 
 ## When to go
 
-Arrive as early as you can manage — ideally your boat should be on the water by 6am. The market technically runs from 2am to 9pm, since wholesale trading starts in the middle of the night, but the visual spectacle of dozens of boats trading is concentrated in the early morning hours.
+Arrive as early as you can manage, ideally your boat should be on the water by 6am. The market technically runs from 2am to 9pm, since wholesale trading starts in the middle of the night, but the visual spectacle of dozens of boats trading is concentrated in the early morning hours.
 
 By 8:30 or 9am, many vendors have already sold their stock and headed home, leaving the river noticeably emptier. Weekdays tend to be calmer than weekends, when more domestic tour groups join the water.
 
@@ -118,12 +118,12 @@ By 8:30 or 9am, many vendors have already sold their stock and headed home, leav
 
 Cai Rang isn't overrun the way markets closer to Ho Chi Minh City can be, and locals still use it for actual wholesale trade, not tourist theater.
 
-- Bring small Vietnamese dong notes — vendors sell fresh fruit and coffee for a few thousand dong at a time, and nobody wants to make change from a large bill on a rocking boat
-- Skip the negotiation drama over your ride — agree on a price with your boatman before departing, whether from a hotel or independently at the wharf
+- Bring small Vietnamese dong notes, vendors sell fresh fruit and coffee for a few thousand dong at a time, and nobody wants to make change from a large bill on a rocking boat
+- Skip the negotiation drama over your ride, agree on a price with your boatman before departing, whether from a hotel or independently at the wharf
 - Don't expect English signage or menus; pointing at what you want on a neighboring boat works fine
-- Wear a hat and sit low — boats are narrow, and the morning glare off the water is stronger than it looks
+- Wear a hat and sit low, boats are narrow, and the morning glare off the water is stronger than it looks
 - If a vendor paddles up selling coffee or fruit, a small purchase is appreciated even if you're not hungry, since this is their livelihood, not a performance
 
-Combine the market with a slow paddle through the narrower canals nearby, where sampan boats thread past stilt houses and fruit orchards — a quieter contrast to the open-water bustle of Cai Rang itself. Many boat operators build this into the return trip without extra charge, so ask before you set off.
+Combine the market with a slow paddle through the narrower canals nearby, where sampan boats thread past stilt houses and fruit orchards. A quieter contrast to the open-water bustle of Cai Rang itself. Many boat operators build this into the return trip without extra charge, so ask before you set off.
 
 Give yourself the full morning. Rushing the visit means missing the transition from dead-of-night wholesale chaos to the gentler retail hours when the market softens into something closer to a floating breakfast stop.

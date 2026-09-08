@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: osaka-lilo-coffee-roasters
-srcHash: '63b1a8854893'
+srcHash: 'ce78105f8856'
 title: 'LiLo Coffee Roasters: Guía de viaje de Osaka'
 description: LiLo Coffee Roasters es una pequeña cafetería de especialidad muy bien valorada en Nishishinsaibashi, Chuo Ward — a unos 5–8 minutos a pie de las estaciones de Shinsaibashi o Yotsubashi.
 quickAnswer: LiLo Coffee Roasters es una pequeña cafetería de especialidad muy bien valorada en Nishishinsaibashi, Chuo Ward — a unos 5–8 minutos a pie de las estaciones de Shinsaibashi o Yotsubashi. Ve por un pour-over de origen único o su latte insignia, calcula gastar entre ¥600 y ¥900, y reserva entre 20 y 40 minutos, ya que es un espacio compacto, apto para tomar de pie o en la barra, con un público local muy fiel (calificación de 4.8 con más de 2,400 reseñas).

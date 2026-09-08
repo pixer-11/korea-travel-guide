@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: guangzhou-guangzhou-restaurant
-srcHash: '8c31bd4fee76'
+srcHash: 'ee9956039b42'
 title: 广州酒家:美食指南(4.1★)
 description: 广州酒家位于荔湾上下九(Shangxiajiu)步行街的文昌南路上，是一家以经典早茶点心和老派筵席菜闻名的粤菜老字号，价格中等。4.1★(221条评论)——看看游客怎么说、营业时间及实用建议。
 quickAnswer: 广州酒家(Guangzhou Restaurant),位于荔湾上下九(Shangxiajiu)步行街的文昌南路上，是一家以经典点心和老派筵席菜闻名的粤菜老字号，价格中等。每天11am–11pm营业;若想避开人潮，建议工作日晚上8–11pm前往，或周末晚上7点以后，因为周末11am–3pm是人流最密集的时段。用一顿正式餐点建议预留1–1.5小时，顺道逛逛附近的骑楼街区。

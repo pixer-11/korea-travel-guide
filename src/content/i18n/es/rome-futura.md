@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-futura
-srcHash: '018e2221963f'
+srcHash: '7da450992545'
 title: Futura en Roma
 description: Futura es un pequeño restaurante contemporáneo de apenas 20 plazas que abrió en 2025 en Via Panisperna, en Monti, dirigido por la chef Anastasia Paris, con cocina abierta y mesa del chef que te sitúa justo al lado de la acción culinaria.
 quickAnswer: 'Futura es un pequeño restaurante contemporáneo de apenas 20 plazas que abrió en 2025 en Via Panisperna, en Monti, dirigido por la chef Anastasia Paris, con cocina abierta y mesa del chef que te sitúa justo al lado de la acción culinaria. Ya se le compara con su vecino de Monti, Retrobottega, por su energía y su presentación creativa de los platos, así que conviene reservar con antelación: las reservas son limitadas dado el número de plazas. Confirma directamente los horarios y el menú actuales antes de ir, ya que los detalles de las aperturas recientes cambian con rapidez.'

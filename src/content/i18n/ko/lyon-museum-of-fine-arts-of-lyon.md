@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: lyon-museum-of-fine-arts-of-lyon
-srcHash: '1745ccea014c'
+srcHash: '030593c53180'
 title: 리옹 미술관 여행 가이드 (4.5★)
 description: 테로 광장(Place des Terreaux)에 위치한 리옹 미술관(Musée des Beaux-Arts de Lyon)은 17세기 베네딕토회 수도원 건물에 자리한, 루브르를 제외하면 프랑스에서 가장 규모가 큰 미술 컬렉션 중 하나입니다. 4.5★(9,269개 리뷰) — 방문객들의 후기, 운영 시간, 그리고 팁을 소개합니다.
 quickAnswer: 테로 광장(Place des Terreaux)에 위치한 리옹 미술관(Musée des Beaux-Arts de Lyon)은 17세기 베네딕토회 수도원 건물에 자리한, 루브르를 제외하면 프랑스에서 가장 규모가 큰 미술 컬렉션 중 하나입니다. 관람에는 두세 시간 정도를 잡아두는 것이 좋고, 가능하면 평일 오전에 방문하세요. 화요일은 하루 종일 휴무이니 참고하시길 바랍니다. 주말에는 오전 11시부터 오후 6시까지 매우 혼잡해지므로, 사람이 몰리기 전에 개장 시간에 맞춰 도착하는 것이 좋습니다.

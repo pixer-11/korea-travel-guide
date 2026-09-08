@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bodrum-mausoleum-at-halicarnassus
-srcHash: 'e3e29b0aed48'
+srcHash: '02836b828770'
 title: 'Mausoleo de Halicarnaso: Guía de viaje de Bodrum'
 description: El Mausoleo de Halicarnaso —una de las Siete Maravillas del Mundo Antiguo— sobrevive hoy como una ruina hundida y parcialmente excavada en el distrito de Tepecik de Bodrum, en Turgut Reis Caddesi No:93.
 quickAnswer: El Mausoleo de Halicarnaso —una de las Siete Maravillas del Mundo Antiguo— sobrevive hoy como una ruina hundida y parcialmente excavada en el distrito de Tepecik de Bodrum, en Turgut Reis Caddesi No:93. Ya no queda una tumba de mármol imponente que admirar (los Caballeros de San Juan extrajeron la mayor parte de sus piedras para construir el Castillo de Bodrum), así que conviene verlo como una parada histórica de 30-45 minutos más que como un gran atractivo visual, idealmente combinada con el castillo y el casco antiguo. Ve en las horas frescas de la mañana; el yacimiento apenas tiene sombra y se vuelve caluroso y concurrido a mediodía en verano.

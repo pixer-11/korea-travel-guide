@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-fo-guang-shan-buddha-museum
-srcHash: '27ce071eee53'
+srcHash: '5b2f40648613'
 title: 'Museo del Buda Fo Guang Shan: Guía de viaje de Kaohsiung (4,6★)'
 description: 'El Museo del Buda Fo Guang Shan, en el distrito de Dashu (Kaohsiung), es un extenso complejo de ocho pagodas que conduce a un Buda Amitabha de bronce de 36 metros; la entrada es gratuita y abre de 9:00 a 18:00 la mayoría de los días laborables (hasta las 19:00 los fines de semana, cerrado los martes). 4,6★ (39.595 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo del Buda Fo Guang Shan, en el distrito de Dashu (Kaohsiung), es un extenso complejo de ocho pagodas que conduce a un Buda Amitabha de bronce de 36 metros; la entrada es gratuita y abre de 9:00 a 18:00 la mayoría de los días laborables (hasta las 19:00 los fines de semana, cerrado los martes). Reserve al menos medio día para la visita. Los fines de semana, de 10:00 a 19:00, son el tramo de mayor afluencia, así que conviene llegar justo a las 9:00 para adelantarse a los autobuses turísticos y disfrutar de la plaza principal con relativa calma.

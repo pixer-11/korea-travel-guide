@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-museu-d-art-contemporani-de-barcelona
-srcHash: 'abec0397b598'
+srcHash: 'e41a9cdf770a'
 title: 'Museu d''Art Contemporani de Barcelona: Guía de viaje (4,3★)'
 description: 'En plena Plaça dels Àngels, en El Raval, el MACBA es un buque blanco imposible de pasar por alto, obra de Richard Meier, que alberga arte catalán e internacional desde los años 40 hasta hoy. 4,3★ (15.260 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: En plena Plaça dels Àngels, en El Raval, el MACBA es un buque blanco imposible de pasar por alto, obra de Richard Meier, que alberga arte catalán e internacional desde los años 40 hasta hoy. Para encontrar las salas más vacías, conviene ir un día entre semana de 10:00 a 11:00, y calcular unas dos horas para la visita. Los martes cierra y los domingos lo hace temprano (15:00), así que conviene revisar el calendario antes de salir.

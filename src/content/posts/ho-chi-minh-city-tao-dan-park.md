@@ -104,7 +104,7 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-Tao Dan Park is where District 1 comes to breathe. Wedged between busy streets a short walk from Ben Thanh Market, it's a canopy of century-old tропical trees — tamarind, banyan, and towering dầu — that drops the temperature and the noise level the moment you step under the gate.
+Tao Dan Park is where District 1 comes to breathe. Wedged between busy streets a short walk from Ben Thanh Market, it's a canopy of century-old tропical trees (tamarind, banyan, and towering dầu) that drops the temperature and the noise level the moment you step under the gate.
 
 Locals call it simply "Tao Đàn," and it functions less like a tourist attraction and more like the city's shared backyard. You'll see badminton games, tai chi circles, and old men hunched over Chinese chess boards on stone tables, all within a few minutes of arriving.
 
@@ -115,7 +115,7 @@ The park unfolds in loose zones rather than one obvious route. Wander and you'll
 - A small Buddhist temple tucked among the trees, with incense smoke drifting through the branches
 - Manicured flowerbeds and topiary near the main entrances, often swapped out for themed displays around Tet
 - A children's play area with slides and swings, usually busy by late afternoon
-- Open-air fitness and sports courts — badminton nets, outdoor gym equipment, jogging paths
+- Open-air fitness and sports courts, badminton nets, outdoor gym equipment, jogging paths
 - A rotating bonsai and ornamental plant display that draws its own crowd of hobbyists
 
 The paths are shaded enough that you can genuinely walk the whole park without needing sunglasses, which is rarer than it sounds in Ho Chi Minh City.
@@ -124,30 +124,30 @@ The paths are shaded enough that you can genuinely walk the whole park without n
 
 Tao Dan Park sits in the Ben Thanh ward of District 1, an easy 10–15 minute walk from Ben Thanh Market or the Reunification Palace. Most visitors just fold it into a walking loop of the downtown core rather than making it a dedicated trip.
 
-Grab a Grab (the local ride-hailing app) or a metered taxi if you're coming from further out — traffic circling the park's perimeter roads can be heavy at rush hour. There's no MRT line serving this stretch of the city yet, so a taxi, bike, or a determined walk are your main options.
+Grab a Grab (the local ride-hailing app) or a metered taxi if you're coming from further out, traffic circling the park's perimeter roads can be heavy at rush hour. There's no MRT line serving this stretch of the city yet, so a taxi, bike, or a determined walk are your main options.
 
 The park has multiple gates around its perimeter, so just aim for whichever entrance is closest to your starting point.
 
 ## When to go
 
-The park is open daily from 7am to 10pm, so there's a wide window to work with. Mornings are genuinely the best time — the air is cooler and you'll catch the exercise crowd in full swing.
+The park is open daily from 7am to 10pm, so there's a wide window to work with. Mornings are genuinely the best time. The air is cooler and you'll catch the exercise crowd in full swing.
 
 On weekdays, it stays calm right through from 7am to 3pm, which makes for an easy, unhurried stroll. Weekends are different: expect it busy anywhere from 9am to 10pm, with only a narrow lull between 1pm and 3pm.
 
-If you're visiting on a Saturday or Sunday, aim for that early-afternoon window if you want the paths to yourself. Evenings, especially after 6pm, bring out families, joggers, and street food carts near the gates — lively, but crowded.
+If you're visiting on a Saturday or Sunday, aim for that early-afternoon window if you want the paths to yourself. Evenings, especially after 6pm, bring out families, joggers, and street food carts near the gates, lively, but crowded.
 
 ## How to visit like a local
 
-Tao Dan Park is well used by the whole neighborhood, not a quiet corner anyone's trying to keep secret — so plan around the crowds rather than expecting solitude.
+Tao Dan Park is well used by the whole neighborhood, not a quiet corner anyone's trying to keep secret, so plan around the crowds rather than expecting solitude.
 
 - Go early on a weekday (before 9am) for the calmest, coolest walk
 - If weekend is your only option, slip in during the 1pm–3pm lull
-- Bring small cash if you want a coconut or sugarcane juice from a cart near the gates — card isn't an option with street vendors
+- Bring small cash if you want a coconut or sugarcane juice from a cart near the gates, card isn't an option with street vendors
 - Don't cut through the fitness/sports courts while games are in progress; walk around, it's the norm here
-- Keep voices low near the temple structure — it's still an active place of worship, not just a photo stop
+- Keep voices low near the temple structure. It's still an active place of worship, not just a photo stop
 - Wear light, breathable clothes; there's shade but Ho Chi Minh City humidity still gets you
 
-The most common visitor mistake is treating this as a five-minute photo stop. Slow down, take a bench, and watch the park do what it's meant to do — give the city a place to exhale.
+The most common visitor mistake is treating this as a five-minute photo stop. Slow down, take a bench, and watch the park do what it's meant to do, give the city a place to exhale.
 
 ## Nearby to pair with your visit
 

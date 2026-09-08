@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: trabzon-sumela-monastery
-srcHash: '3d2a33499cee'
+srcHash: '3b4f0845f19d'
 title: 苏美拉修道院：特拉布宗旅行指南（4.2★）
 description: 苏美拉修道院（Sümela Monastery）矗立于阿尔滕德雷山谷国家公园（Altındere Valley National Park）的悬崖之上，距特拉布宗（Trabzon）南部约45分钟车程。4.2★（22,597条评价）——游客怎么说、开放时间及游览贴士。
 quickAnswer: 苏美拉修道院矗立于阿尔滕德雷山谷国家公园的悬崖之上，距特拉布宗南部约45分钟车程。这里每天8:00至18:30开放，建议一开门就去，因为周末10点到17点之间人流会迅速增多。游览本身预留1.5到2小时，另外还要算上摆渡车和步行上山的时间。

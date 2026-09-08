@@ -58,11 +58,11 @@ draft: false
 
 ## Why go
 
-Bai Dinh isn't a quiet countryside temple — it's a mountain-sized monument to scale. Spread across a limestone hillside in Hoa Lu, it holds a string of Southeast Asia superlatives: the tallest bronze Buddha cast in Vietnam, the largest bell, the longest corridor of arhat statues.
+Bai Dinh isn't a quiet countryside temple. It's a mountain-sized monument to scale. Spread across a limestone hillside in Hoa Lu, it holds a string of Southeast Asia superlatives: the tallest bronze Buddha cast in Vietnam, the largest bell, the longest corridor of arhat statues.
 
 You feel the size before you feel anything spiritual. The main courtyard alone could swallow a football pitch, flanked by columned walkways that seem to recede forever.
 
-That scale is the whole point. This isn't the intimate, incense-fogged pagoda of old Hanoi — it's a modern pilgrimage complex, built from 2003 onward beside a much older original temple, and it wants you to feel small.
+That scale is the whole point. This isn't the intimate, incense-fogged pagoda of old Hanoi. It's a modern pilgrimage complex, built from 2003 onward beside a much older original temple, and it wants you to feel small.
 
 ## Getting there
 
@@ -74,7 +74,7 @@ If you're not driving yourself, a rented motorbike or a booked day tour from Nin
 
 ## What to see
 
-From the car park, it's a long walk uphill to the main halls — most people take the electric buggy that shuttles visitors up for a small fee.
+From the car park, it's a long walk uphill to the main halls. Most people take the electric buggy that shuttles visitors up for a small fee.
 
 Inside, don't rush past the details for the big statues alone:
 
@@ -91,19 +91,19 @@ Bai Dinh is open every day from 7am to 5:30pm, and the hour you pick matters mor
 
 Tour buses tend to arrive mid-morning and again after lunch, filling the courtyards and the buggy queue. Arriving right at 7am, or after 3pm, gives you the halls with noticeably more breathing room.
 
-Lunar New Year through the third lunar month (roughly February–April) is festival season, when Bai Dinh becomes one of the busiest pilgrimage sites in northern Vietnam. Beautiful for atmosphere, brutal for crowds — go outside those months if you want space to actually look at the statues.
+Lunar New Year through the third lunar month (roughly February–April) is festival season, when Bai Dinh becomes one of the busiest pilgrimage sites in northern Vietnam. Beautiful for atmosphere, brutal for crowds. Go outside those months if you want space to actually look at the statues.
 
 ## How to visit like a local
 
 Bai Dinh draws worshippers as much as tourists, so a little temple etiquette goes a long way.
 
-- Dress modestly — shoulders and knees covered, nothing sheer
+- Dress modestly, shoulders and knees covered, nothing sheer
 - Speak quietly inside the halls; this is an active place of worship, not just a photo backdrop
 - Walk clockwise around statues and stupas, as Buddhist pilgrims do
-- Bring small cash (Vietnamese dong) for the buggy fare and any offerings — cards aren't practical here
+- Bring small cash (Vietnamese dong) for the buggy fare and any offerings, cards aren't practical here
 - Wear shoes you can slip off easily, since some hall entrances require it
 
-The mistake most first-time visitors make is underestimating the walking. Between the car park, the buggy drop-off and the climb to the upper pagoda, you'll cover several kilometres on uneven stone steps — wear real shoes, not sandals.
+The mistake most first-time visitors make is underestimating the walking. Between the car park, the buggy drop-off and the climb to the upper pagoda, you'll cover several kilometres on uneven stone steps. Wear real shoes, not sandals.
 
 Because this is a genuinely huge, very popular site rather than a hidden find, the crowd-avoidance strategy matters more than any secret entrance or back route. Early morning is your best card, and pairing the visit with Trang An in the same day (Bai Dinh first, boat trip after) lets you beat both the temple buses and the afternoon river queues.
 

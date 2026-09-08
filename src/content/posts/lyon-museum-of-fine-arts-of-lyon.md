@@ -67,7 +67,7 @@ draft: false
 
 ## Why go
 
-You walk into Place des Terreaux and the museum's honey-stone facade already looks like a palace, because it was one — a Benedictine abbey before the Revolution repurposed it. Inside, cloistered courtyards give way to grand staircases and gallery after gallery of Impressionists, Egyptian antiquities, and medieval sculpture. Few museums outside Paris pack this much range under one roof.
+You walk into Place des Terreaux and the museum's honey-stone facade already looks like a palace, because it was one, a Benedictine abbey before the Revolution repurposed it. Inside, cloistered courtyards give way to grand staircases and gallery after gallery of Impressionists, Egyptian antiquities, and medieval sculpture. Few museums outside Paris pack this much range under one roof.
 
 ## Getting there
 
@@ -81,7 +81,7 @@ The museum sits at 20 Place des Terreaux, in Lyon's 1st arrondissement, right be
 
 Start on the ground floor with the sculpture-filled cloister garden, a genuinely calm pocket before the crowds thicken upstairs. The Egyptian and Near Eastern antiquities occupy several rooms and reward a slow pace.
 
-Upstairs, the painting galleries move chronologically from Italian Renaissance panels through Rubens and Rembrandt to a strong run of Impressionist and Post-Impressionist canvases — Monet, Gauguin, Degas. Don't rush the decorative arts wing either; the ceramics and medieval objects rarely get the attention they deserve.
+Upstairs, the painting galleries move chronologically from Italian Renaissance panels through Rubens and Rembrandt to a strong run of Impressionist and Post-Impressionist canvases, Monet, Gauguin, Degas. Don't rush the decorative arts wing either; the ceramics and medieval objects rarely get the attention they deserve.
 
 Give yourself two to three hours minimum. Serious art lovers can easily spend half a day.
 
@@ -98,21 +98,21 @@ Weekends get busy between 11am and 6pm, so if you're visiting on a Saturday or S
 
 This is one of Lyon's most-visited attractions, so treat it accordingly rather than expecting a quiet museum experience. Beating the crowd is entirely about timing.
 
-- Arrive at opening time (10am, or 10:30am on Fridays) — the first hour is consistently calmer than midday.
+- Arrive at opening time (10am, or 10:30am on Fridays). The first hour is consistently calmer than midday.
 - Avoid Saturday and Sunday afternoons if you can; that's when the galleries fill fastest.
 - Buy your ticket online in advance to skip the entrance queue, especially on weekends.
 - Payment inside is by card or cash; there's no need to tip anywhere in a French museum.
-- Coat and bag check is free and worth using — the galleries are large and you'll want your hands free for the audio guide.
-- French speakers refer to it simply as "les Beaux-Arts" — useful if you're asking locals for directions.
+- Coat and bag check is free and worth using. The galleries are large and you'll want your hands free for the audio guide.
+- French speakers refer to it simply as "les Beaux-Arts", useful if you're asking locals for directions.
 - The most common tourist mistake: trying to see everything. The collection is vast; pick two or three wings (say, Impressionist painting and the antiquities) rather than sprinting through all of them.
 - Check official hours before you go, especially around public holidays, since museum schedules can shift.
 
 ## Nearby after your visit
 
-Place des Terreaux itself is worth lingering in once you step back outside — cafés ring the square and the fountain runs through the day.
+Place des Terreaux itself is worth lingering in once you step back outside, cafés ring the square and the fountain runs through the day.
 
 - Traboules (hidden passageways) of Vieux Lyon are a 15–20 minute walk across the Saône.
 - The Musée Gadagne, covering Lyon's history and puppetry, sits in the old town nearby.
 - Rue de la République offers shopping and brasseries if you want a coffee break before or after.
 
-Pair the museum with a wander through the Presqu'île peninsula — it's Lyon's most walkable stretch, and you'll be right in the middle of it.
+Pair the museum with a wander through the Presqu'île peninsula. It's Lyon's most walkable stretch, and you'll be right in the middle of it.

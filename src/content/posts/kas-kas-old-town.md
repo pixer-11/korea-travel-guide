@@ -99,15 +99,15 @@ updatedDate: '2026-09-06'
 
 ## Why Kaş Old Town is worth your time
 
-This isn't a single monument — it's a neighborhood. Narrow stone streets climb gently from the harbor, lined with low Ottoman-Greek houses whose balconies drip with pink and purple bougainvillea.
+This isn't a single monument. It's a neighborhood. Narrow stone streets climb gently from the harbor, lined with low Ottoman-Greek houses whose balconies drip with pink and purple bougainvillea.
 
 Wooden shutters, hand-painted tiles, and doorways barely wide enough for a donkey cart give the district its texture. You feel the Mediterranean here more than see it: warm stone underfoot, jasmine on the air, the distant clink of glasses from a hidden courtyard café.
 
 ## Getting there and getting oriented
 
-The Old Town sits right in central Kaş, just uphill from the marina, centered around İbrahim Serin Caddesi in the Andifli neighborhood. Most visitors arrive on foot — Kaş itself is compact enough that nothing in town is more than a 15-minute walk away.
+The Old Town sits right in central Kaş, just uphill from the marina, centered around İbrahim Serin Caddesi in the Andifli neighborhood. Most visitors arrive on foot, Kaş itself is compact enough that nothing in town is more than a 15-minute walk away.
 
-If you're coming from Antalya or Fethiye, intercity buses (or dolmuş minibuses) drop you at the otogar, a short walk or taxi ride from the harbor. There's no gate and no set hours — it's open 24 hours daily — so you can wander whenever your schedule allows.
+If you're coming from Antalya or Fethiye, intercity buses (or dolmuş minibuses) drop you at the otogar, a short walk or taxi ride from the harbor. There's no gate and no set hours, it's open 24 hours daily, so you can wander whenever your schedule allows.
 
 ## What to see and do inside
 
@@ -123,9 +123,9 @@ Photographers tend to linger in the late afternoon, when low light hits the whit
 
 ## When to go
 
-The crowd data here is telling. Weekday mornings between 8 and 9am are the calmest window by far — you'll often have entire lanes to yourself.
+The crowd data here is telling. Weekday mornings between 8 and 9am are the calmest window by far. You'll often have entire lanes to yourself.
 
-Weekends are busiest from 8am through 7pm, when day-trip boats and tour groups fill the harbor and spill uphill into the old streets. If you're visiting on a Saturday or Sunday, aim for evening instead — things stay noticeably quieter from 9pm onward.
+Weekends are busiest from 8am through 7pm, when day-trip boats and tour groups fill the harbor and spill uphill into the old streets. If you're visiting on a Saturday or Sunday, aim for evening instead, things stay noticeably quieter from 9pm onward.
 
 Seasonally, spring (April–May) and early autumn (September–October) bring pleasant walking temperatures without the peak-August heat and crowds that define high summer on this coast.
 
@@ -136,8 +136,8 @@ Kaş's Old Town is still relatively under-the-radar compared to bigger Turkish c
 - **Time it right**: aim for that 8–9am weekday window, or a weekend evening after 9pm, to avoid the tour-boat crush.
 - **Wear shoes with grip**: the cobbled lanes are polished smooth by decades of foot traffic and can be slippery, especially after rain.
 - **Pay in cash for small shops**: many family-run boutiques and tea stalls in the back lanes still prefer lira cash over card, though larger shops near the harbor take cards.
-- **Bargain gently, not aggressively**: a little friendly negotiation is normal in the artisan shops, but Kaş's pace is relaxed — don't expect bazaar-style haggling.
+- **Bargain gently, not aggressively**: a little friendly negotiation is normal in the artisan shops, but Kaş's pace is relaxed. Don't expect bazaar-style haggling.
 - **Greet shopkeepers**: a simple "merhaba" before browsing goes a long way in these small, family-run spaces.
-- **Skip the map**: the biggest mistake visitors make is trying to "see everything" on a checklist. The Old Town rewards aimless wandering more than a fixed route — let the alleys lead you toward the water.
+- **Skip the map**: the biggest mistake visitors make is trying to "see everything" on a checklist. The Old Town rewards aimless wandering more than a fixed route, let the alleys lead you toward the water.
 
 Combine your visit with a sunset drink at one of the harborfront bars just below the Old Town, where the fishing boats and the silhouette of Kastellorizo make for one of Kaş's best free views.

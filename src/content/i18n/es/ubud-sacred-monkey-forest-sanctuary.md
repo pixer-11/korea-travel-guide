@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ubud-sacred-monkey-forest-sanctuary
-srcHash: 'e1b2e02ac118'
+srcHash: 'f306a2abae5c'
 title: 'Santuario del Bosque Sagrado de los Monos: guía de viaje de Ubud (4,5★)'
 description: 'En pleno centro de Ubud, el Santuario del Bosque Sagrado de los Monos abre todos los días de 9 a 17 h y merece la pena por sus templos cubiertos de musgo y sus macacos de cola larga en libertad, aunque conviene llegar justo a la apertura para evitar el calor y las multitudes de los buses turísticos. 4,5★ (59.410 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Ubud, el Santuario del Bosque Sagrado de los Monos abre todos los días de 9 a 17 h y merece la pena por sus templos cubiertos de musgo y sus macacos de cola larga en libertad, aunque conviene llegar justo a la apertura para evitar el calor y las multitudes de los buses turísticos. Calcula entre 45 y 90 minutos de visita, usa calzado cerrado y guarda bien las gafas de sol, los tentempiés y cualquier joya colgante.

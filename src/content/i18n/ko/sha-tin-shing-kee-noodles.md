@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: sha-tin-shing-kee-noodles
-srcHash: 'c8ac7ba12758'
+srcHash: '5cdc0772a349'
 title: '청기면가(Shing Kee Noodles): 사틴(Sha Tin) 맛집 추천 (4.2★)'
 description: 청기면가(Shing Kee Noodles)는 사틴(Sha Tin)의 오래된 렉위엔 에스테이트(Lek Yuen Estate) 시장 안에 자리한 소박한 광둥식 국수 가게로, 낡은 철제 테이블에서 즐기는 완탕면과 죽, 구운 고기 요리로 유명합니다. 4.2★ (리뷰 1,200개) — 방문객 후기, 영업시간, 팁을 확인하세요.
 quickAnswer: 청기면가(Shing Kee Noodles)는 사틴(Sha Tin)의 오래된 렉위엔 에스테이트(Lek Yuen Estate) 시장 안에 자리한 소박한 광둥식 국수 가게로, 낡은 철제 테이블에서 즐기는 완탕면과 죽, 구운 고기 요리로 유명합니다. 오전 6시 오픈 직후나 주말 오전 7시~8시 사이에 방문하는 것이 좋습니다. 오전 10시부터 오후 9시까지는 계속 붐비며, 매일 오후 4시~7시에 문을 닫고 밤 11시에 다시 영업을 마감합니다. 현금을 챙기고, 합석은 각오하세요.

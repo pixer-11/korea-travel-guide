@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue
-srcHash: 'aedc7f602577'
+srcHash: 'bdfb020c40d1'
 title: 顺化本地美食快餐22号餐厅（顺化）：越南菜怎么吃
 description: 顺化皇城附近步行几分钟即到的富春坊（Phú Xuân ward）陈辉燎街22号（22 Trần Huy Liệu），是品尝物美价廉、分量十足的越南菜和顺化本地风味小吃的好去处（超过2000条评价，评分高达4.9）。
 quickAnswer: 富春坊陈辉燎街22号，从顺化皇城步行几分钟即可到达，这里的越南菜和顺化本地风味小吃价格实惠、分量十足，超过2000条评价中评分高达4.9。想吃到牛肉粉（bún bò Huế）、煎饼（bánh khoái）、蚬饭（com hen）等顺化特色美食，一顿饱饭预算不到10万越南盾就够了。建议选在午餐或傍晚早些时候前往，这样食材周转快，吃到的东西也更新鲜。

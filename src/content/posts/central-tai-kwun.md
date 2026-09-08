@@ -113,13 +113,13 @@ The site sits on a slope, so you're constantly climbing steps between levels, ca
 
 The compound sits at 10 Hollywood Road, a short uphill walk from the Central and Sheung Wan MTR stations.
 
-From Central Station, take Exit D1 and follow signs toward Hollywood Road and the Central–Mid-Levels Escalator — it's about 10 minutes on foot, mostly uphill.
+From Central Station, take Exit D1 and follow signs toward Hollywood Road and the Central–Mid-Levels Escalator. It's about 10 minutes on foot, mostly uphill.
 
 Alternatively, ride the Mid-Levels Escalator to Hollywood Road and walk west a few minutes. Taxis can drop you right at the Old Bailey Street entrance, which avoids the steepest stairs.
 
 ## What to see and do
 
-Start in the Parade Ground, the open courtyard where officers once drilled — it's the compound's natural gathering point and orientation spot. From there, wings branch off into distinct experiences:
+Start in the Parade Ground, the open courtyard where officers once drilled. It's the compound's natural gathering point and orientation spot. From there, wings branch off into distinct experiences:
 
 - **JC Contemporary**: rotating contemporary art exhibitions, usually free
 - **Prison Yard and cellblocks**: narrow corridors of former inmate cells, left largely intact
@@ -148,8 +148,8 @@ Tai Kwun is genuinely one of Central's most-visited sites now, not a hidden find
 
 - **Time it right**: arrive at 8am or after 7pm; avoid the noon–7pm weekend crush entirely.
 - **Pay by card or mobile**: Octopus and major cards are standard at the bars and shops inside; cash isn't necessary.
-- **Skip the ticket line myth**: general entry to the heritage buildings and Parade Ground is free — only special exhibitions occasionally charge, so check signage at the entrance rather than assuming you need a ticket.
+- **Skip the ticket line myth**: general entry to the heritage buildings and Parade Ground is free, only special exhibitions occasionally charge, so check signage at the entrance rather than assuming you need a ticket.
 - **Enter from Old Bailey Street**: it's quieter and less steep than the Hollywood Road stairs most tourists use.
-- **Common mistake**: people treat Tai Kwun as a quick photo stop and miss the cellblocks and prison history exhibits tucked in the side wings — these are the parts that actually explain what the site was.
+- **Common mistake**: people treat Tai Kwun as a quick photo stop and miss the cellblocks and prison history exhibits tucked in the side wings. These are the parts that actually explain what the site was.
 - **Combine your trip**: it's a five-minute walk to the antique shops of Upper Lascar Row (Cat Street) and to PMQ, making a natural half-day loop through Central's heritage sites.
 

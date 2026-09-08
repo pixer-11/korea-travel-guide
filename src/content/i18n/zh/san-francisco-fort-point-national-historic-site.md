@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-fort-point-national-historic-site
-srcHash: '1a63bc70325a'
+srcHash: 'dacbb4cdc888'
 title: 堡点国家历史遗迹（Fort Point National Historic Site）：旧金山旅行指南
 description: 堡点（Fort Point）是一座南北战争时期的砖砌堡垒，就藏身在金门大桥（Golden Gate Bridge）南锚地正下方，周四至周一上午10点至下午5点开放。
 quickAnswer: 堡点（Fort Point）是一座南北战争时期的砖砌堡垒，就藏身在金门大桥（Golden Gate Bridge）南锚地正下方，开放时间为周四至周一上午10点至下午5点（周二、周三休息）。入场免费，建议安排45–90分钟游览炮台甲板，赶上一场护林员讲解或大炮演示，感受头顶大桥桥面的低沉震动。如果可以的话，尽量选在风小的晴朗上午前往——堡垒正好位于海湾入口处，到了下午海峡吹来的风会变得非常猛烈。

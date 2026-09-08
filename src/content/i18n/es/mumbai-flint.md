@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-flint
-srcHash: 'f626a071ac0d'
+srcHash: '0556870bca34'
 title: 'Flint: guía de viaje de Mumbai'
 description: 'Flint, en Mumbai (India), es uno de los locales de moda del momento: qué es, dónde está y cómo planear la visita.'
 quickAnswer: Flint es el café de fuego y humo, abierto todo el día, de los chefs Rahul Akerkar y Jaydeep Mukherjee, ubicado dentro del complejo del NCPA en Nariman Point, Mumbai. La recomendación es pedir los Flint Eggs Benny sobre pastelitos de cangrejo picantes y acompañarlos con un cóctel Picante elaborado con hojas de ambada. Al tratarse de una apertura reciente y muy solicitada, conviene confirmar el horario y reservar mesa antes de ir, sobre todo si se combina la comida con alguna función del NCPA.

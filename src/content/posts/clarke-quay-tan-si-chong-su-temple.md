@@ -106,7 +106,7 @@ It's compact. You can see everything in 20 to 30 minutes, though it rewards slow
 
 From Clarke Quay MRT (North East Line), take Exit E and walk north along Merchant Road before cutting onto Magazine Road. It's roughly a 5 to 8 minute walk.
 
-You'll pass the river, a run of shophouses, and eventually the temple's understated frontage on your left. There's no signage screaming for attention here, so keep an eye out as you approach — it's easy to walk past without noticing.
+You'll pass the river, a run of shophouses, and eventually the temple's understated frontage on your left. There's no signage screaming for attention here, so keep an eye out as you approach. It's easy to walk past without noticing.
 
 ## When to go
 
@@ -121,13 +121,13 @@ Late morning through early afternoon tends to give you the best light for the co
 This is a working ancestral temple, not a museum, so treat it accordingly.
 
 - Keep your voice low and phone on silent, especially near the main altar
-- Dress modestly — shoulders and knees covered is respectful, even though enforcement is relaxed
+- Dress modestly, shoulders and knees covered is respectful, even though enforcement is relaxed
 - Don't touch ancestral tablets or offerings on the altar tables
 - If worshippers are burning incense or praying, step to the side rather than through their line of sight
 - Photography is generally fine in the courtyard, but ask before photographing anyone actively praying
 
 There's no entry fee and no ticket counter, so no cash is needed unless you choose to leave a small donation, which is common practice at clan temples like this one.
 
-Because it's still under the radar for most travelers passing through Clarke Quay, you're unlikely to compete with tour groups here. That's part of the appeal — a quiet, unhurried look at a piece of Singapore's Hokkien immigrant history, a few minutes' walk from the crowds along the river.
+Because it's still under the radar for most travelers passing through Clarke Quay, you're unlikely to compete with tour groups here. That's part of the appeal, a quiet, unhurried look at a piece of Singapore's Hokkien immigrant history, a few minutes' walk from the crowds along the river.
 
 Locals who do stop by tend to be clan descendants visiting ancestral tablets, so keep interactions respectful and brief if you cross paths with them. Treat it as a pause between riverside stops rather than a headline destination, and it earns its place on the itinerary easily.

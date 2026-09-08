@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuching-kubah-national-park
-srcHash: '2c7f73f639ed'
+srcHash: 'f47cdf2c1ac5'
 title: 'Parque Nacional de Kubah: Guía de viaje de Kuching (4.3★)'
 description: 'El Parque Nacional de Kubah se ubica a unos 20 km al oeste de la ciudad de Kuching, una reserva de selva tropical montañosa con senderos hacia cascadas y miradores. 4.3★ (1.481 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Nacional de Kubah se ubica a unos 20 km al oeste de la ciudad de Kuching, una reserva de selva tropical montañosa con senderos hacia cascadas y miradores. Ve en la mañana de un día entre semana, entre las 7am y el mediodía, cuando hay menos gente, y calcula entre 3 y 4 horas para hacer un buen sendero y además refrescarte en la cascada. Alquila un coche o toma un taxi/Grab: no hay una ruta de autobús urbano directa en la que puedas confiar.'

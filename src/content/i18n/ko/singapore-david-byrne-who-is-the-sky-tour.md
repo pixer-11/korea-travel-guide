@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-david-byrne-who-is-the-sky-tour
-srcHash: '042e6b8b2ba8'
+srcHash: '7a3fd07c04e4'
 title: '데이비드 번: Who Is The Sky? 투어 안내 (싱가포르)'
 description: 데이비드 번의 "Who Is The Sky?" 투어 싱가포르 공연은 2026년 8월 7일 더 스타 시어터에서 열릴 예정이었습니다. 공연과 공연장, 그리고 주변 지역에 대해 발표된 내용을 정리했습니다.
 quickAnswer: 데이비드 번의 "Who Is The Sky?" 투어는 2026년 8월 7일, 싱가포르 센토사 게이트웨이(Sentosa Gateway)에 위치한 더 스타 퍼포밍 아츠 센터(The Star Performing Arts Centre) 내 더 스타 시어터(The Star Theatre)에서 열릴 예정이었으며, 뮤지션과 보컬, 댄서로 구성된 13인조 밴드가 함께할 예정이었습니다. 공연에 앞서 티켓이 판매되었으며, 공연장은 비보시티(VivoCity) 몰 바로 옆에 위치해 있어 공연 전후로 시간을 보내기에 좋은 곳들이 주변에 많았습니다.

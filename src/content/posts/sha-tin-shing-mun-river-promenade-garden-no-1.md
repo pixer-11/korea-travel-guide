@@ -79,13 +79,13 @@ draft: false
 ---
 ## Why go
 
-This isn't a park you plan a whole day around — it's a park you walk into by accident and end up lingering in anyway. Garden No. 1 sits right on the Shing Mun River, a long ribbon of paved promenade that laces together much of Sha Tin. You come here for the water, the breeze, and the sudden quiet after the shopping-mall bustle a few streets back.
+This isn't a park you plan a whole day around. It's a park you walk into by accident and end up lingering in anyway. Garden No. 1 sits right on the Shing Mun River, a long ribbon of paved promenade that laces together much of Sha Tin. You come here for the water, the breeze, and the sudden quiet after the shopping-mall bustle a few streets back.
 
 ## Getting there
 
 The garden is at 17 Tai Chung Kiu Road, on the Sha Tin side of the river. From Sha Tin MTR station, it's a flat 8-10 minute walk east along Tai Chung Kiu Road toward the water.
 
-If you're coming from New Town Plaza, exit toward the river and follow the footbridges down to the promenade level. Cyclists using the New Territories cycle track can simply roll in — this stretch connects to the wider riverside path that runs toward Tai Wai and beyond.
+If you're coming from New Town Plaza, exit toward the river and follow the footbridges down to the promenade level. Cyclists using the New Territories cycle track can simply roll in, this stretch connects to the wider riverside path that runs toward Tai Wai and beyond.
 
 ## What you'll find
 
@@ -100,7 +100,7 @@ Herons and egrets often work the shallows near the bank, especially in early mor
 
 ## When to go
 
-The garden is open 24 hours, every day, so there's no risk of arriving to locked gates. That said, weekends tend to draw the biggest crowds — families, joggers and cyclists all converge on the promenade then.
+The garden is open 24 hours, every day, so there's no risk of arriving to locked gates. That said, weekends tend to draw the biggest crowds, families, joggers and cyclists all converge on the promenade then.
 
 For a quieter walk, aim for a weekday morning or early evening, when the light along the water is softer and the path is far less crowded. Evenings after dark bring a different mood: string lighting along parts of the promenade and a cooler breeze off the river, with just a handful of people out for a stroll.
 
@@ -116,12 +116,12 @@ Twenty minutes is enough for a quick riverside break; give it closer to 40 if yo
 
 ## How to visit like a local
 
-Locals treat this less as a destination and more as a route — a pleasant way to get from the station to somewhere else without a wall of traffic beside you. Follow that logic and you'll enjoy it more.
+Locals treat this less as a destination and more as a route. A pleasant way to get from the station to somewhere else without a wall of traffic beside you. Follow that logic and you'll enjoy it more.
 
 - **Timing**: avoid weekend afternoons if you want space to yourself; the park is calm on weekday mornings and after sunset.
-- **Payment**: none needed — it's a free, open public space with no vendors inside the garden itself.
+- **Payment**: none needed. It's a free, open public space with no vendors inside the garden itself.
 - **Etiquette**: keep to the correct side if you're walking versus cycling, since the promenade shares space with the river cycle track.
-- **What to bring**: water and sun protection in the middle of the day — there's limited deep shade directly on the promenade.
+- **What to bring**: water and sun protection in the middle of the day. There's limited deep shade directly on the promenade.
 - **Common mistake**: treating it as a must-see sight worth a special trip. It's a genuinely pleasant stretch of riverside, but it rewards visitors who fold it into a walk between Sha Tin's station, malls and cycle path rather than those expecting a major attraction in its own right.
 
-Don't expect facilities beyond basic benches and paths — this is a green lung for the neighborhood, not a full-scale park with playgrounds or cafés built in. That's exactly its appeal: a plain, unglamorous strip of river frontage where Sha Tin residents come to breathe.
+Don't expect facilities beyond basic benches and paths. This is a green lung for the neighborhood, not a full-scale park with playgrounds or cafés built in. That's exactly its appeal: a plain, unglamorous strip of river frontage where Sha Tin residents come to breathe.

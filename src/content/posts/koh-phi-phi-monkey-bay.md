@@ -83,14 +83,14 @@ There's technically a walking trail from the Laem Tong side, but it's steep, unm
 
 ## What to see and do
 
-The beach itself is tiny — you won't need more than 20-30 minutes here.
+The beach itself is tiny. You won't need more than 20-30 minutes here.
 
 What to do:
 
 - Watch the macaques from a respectful distance; don't corner them
 - Snorkel the fringing reef just off the sand for parrotfish and small reef life
-- Photograph the cliffs — the karst walls here are some of the most dramatic on the island
-- Skip the food — there are no proper restaurants or shaded sit-down areas here
+- Photograph the cliffs. The karst walls here are some of the most dramatic on the island
+- Skip the food. There are no proper restaurants or shaded sit-down areas here
 
 Boats typically idle just offshore rather than beaching fully, so be ready to wade the last few meters.
 
@@ -104,14 +104,14 @@ Dry season, roughly November through April, gives you calmer seas for the boat t
 
 ## How to visit like a local
 
-Monkey Bay is well-known and firmly on the tour circuit, so don't expect solitude — the smarter move is timing, not secrecy.
+Monkey Bay is well-known and firmly on the tour circuit, so don't expect solitude. The smarter move is timing, not secrecy.
 
 - Book a private longtail charter from Tonsai instead of a big group speedboat tour if you want fewer people and more flexibility on timing
 - Pay boat operators and guides in cash, in Thai baht; small tips for longtail drivers are customary but not obligatory
-- Never carry food, plastic bags, or dangling jewelry near the macaques — they associate bags with snacks and will grab
+- Never carry food, plastic bags, or dangling jewelry near the macaques, they associate bags with snacks and will grab
 - Keep phones and cameras on a wrist strap; monkeys have snatched loose devices from tourists' hands
-- Don't make direct prolonged eye contact with the macaques or corner them against the rocks — both read as threats
+- Don't make direct prolonged eye contact with the macaques or corner them against the rocks, both read as threats
 
 The single biggest mistake tourists make here is treating the monkeys like tame photo props. They're wild animals in a small, boat-heavy space, and bites do happen when people crowd them for selfies. Watch, photograph from a few meters back, and let them come to you rather than the other way around.
 
-Combine Monkey Bay with a longer half-day loop — Pileh Lagoon's turquoise water and Maya Bay's dramatic backdrop are both close by and make for a fuller day than Monkey Bay alone would justify.
+Combine Monkey Bay with a longer half-day loop, Pileh Lagoon's turquoise water and Maya Bay's dramatic backdrop are both close by and make for a fuller day than Monkey Bay alone would justify.

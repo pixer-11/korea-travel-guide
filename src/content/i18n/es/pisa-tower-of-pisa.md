@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pisa-tower-of-pisa
-srcHash: 'b721959405bb'
+srcHash: '2764dda5de23'
 title: 'Torre de Pisa: Guía de Viaje (4.7★)'
 description: 'La Torre Inclinada abre todos los días de 9:00 a 20:00, y merece muchísimo la pena subirla, no solo fotografiarla. 4.7★ (198.489 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'La Torre Inclinada abre todos los días de 9:00 a 20:00, y merece muchísimo la pena subirla, no solo fotografiarla. Reserva con antelación tu entrada con horario asignado para la subida, y elige la primera hora tras la apertura o la última antes del cierre: los fines de semana entre las 11:00 y las 17:00 son cuando la Piazza dei Miracoli se llena de gente.'

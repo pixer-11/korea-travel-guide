@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-museum-of-ho-chi-minh-city
-srcHash: 'c2123983f327'
+srcHash: '9a3872d9564c'
 title: 'Museo de Ho Chi Minh City: Guía de viaje (4.2★)'
 description: 'El Museo de Ho Chi Minh City ocupa un edificio colonial francés de color amarillo pálido en el número 65 de la calle Lý Tự Trọng, en el Distrito 1, y abre todos los días de 8:00 a 17:00. 4.2★ (3.171 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: El Museo de Ho Chi Minh City ocupa un edificio colonial francés de color amarillo pálido en el número 65 de la calle Lý Tự Trọng, en el Distrito 1, y abre todos los días de 8:00 a 17:00. Conviene reservar entre 60 y 90 minutos para recorrer sus dos plantas dedicadas a la historia de Saigón y la era revolucionaria. Los fines de semana se llena entre las 9:00 y las 13:00, así que lo mejor es visitarlo en día de semana o llegar justo a las 8:00 el sábado o el domingo para disfrutarlo con más calma.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-ther
-srcHash: '34ed6f4ee049'
+srcHash: '66e2d5283ecf'
 title: 'ÆTHER: 방콕 여행 가이드'
 description: 태국 방콕에 새로 떠오르는 명소, ÆTHER — 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 알아본다.
 quickAnswer: ÆTHER는 실롬(Silom)/라마 4세(Rama IV)에 위치한, 옛 두싯타니(Dusit Thani) 자리에 새로 들어선 복합 타워 두싯 센트럴 파크(Dusit Central Park) 44층에 자리한 루프탑 칵테일 바다. 룸피니 공원(Lumpini Park)과 방콕 스카이라인이 한눈에 들어오는 360도 전망, 거대한 실버 스피커를 중심으로 군더더기를 뺀 인테리어, 그리고 밤이 깊어갈수록 분위기가 바뀌도록 짜인 드링크 메뉴를 즐기러 가보자. 최근 문을 연 화제의 장소인 만큼 미리 예약하고, 방문 전 최신 영업시간을 확인하는 것이 좋다.

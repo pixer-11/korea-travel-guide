@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-york-american-museum-of-natural-history
-srcHash: '0f4b24258efb'
+srcHash: '1825ad890b8c'
 title: '미국 자연사 박물관: 뉴욕 여행 가이드'
 description: 미국 자연사 박물관(American Museum of Natural History)은 센트럴 파크(Central Park) 건너편, 센트럴 파크 웨스트(Central Park West)와 79번가에 자리하고 있으며, 가장 한산한 평일에 방문하거나, 주말에만 갈 수 있다면 개장 시각에 맞춰 가는 것이 가장 좋습니다. 4.6★ (25,908개 리뷰) — 방문객 후기, 운영 시간, 팁을 소개합니다.
 quickAnswer: 미국 자연사 박물관은 센트럴 파크 건너편, 센트럴 파크 웨스트와 79번가에 자리하고 있으며, 가장 한산한 평일에 방문하거나, 주말에만 갈 수 있다면 개장 시각에 맞춰 가는 것이 가장 좋습니다. 최소 3시간은 확보해 두세요 — 로즈 센터 포 어스 앤드 스페이스(Rose Center for Earth and Space)와 공룡 전시관까지 여유롭게 둘러보려면 반나절 정도가 좋습니다. 피해야 할 시간대는 정오부터 오후 5시까지의 주말 오후이며, 주말 오전 개장 시각인 오전 10시 무렵이 훨씬 한산합니다.

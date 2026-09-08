@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-arabica-baitasi-store
-srcHash: '007c2cb46f85'
+srcHash: '45a253587235'
 title: '% Arabica Baitasi Store: guía de viaje de Pekín'
 description: '% Arabica Baitasi Store en Pekín, China, un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: '% Arabica Baitasi Store es una cafetería minimalista nacida en Kioto y escondida en el barrio de hutongs de Baitasi, en Pekín, a solo unos pasos del Templo de la Estupa Blanca. Es conocida por su patio al aire libre de diseño francés, que conserva intactas la antigua estructura de madera y los muros de ladrillo gris, y forma parte de una pequeña ola de cafeterías con diseño cuidado que están revitalizando este barrio histórico. Conviene ir un día laborable por la mañana si se quiere disfrutar del patio en solitario; conviene confirmar el horario antes de acercarse.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hangzhou-lingyin-temple
-srcHash: 'ef65292d4b55'
+srcHash: 'ab62f927fcf6'
 title: 'Templo Lingyin: Guía de viaje de Hangzhou'
 description: El templo Lingyin, escondido en las colinas boscosas al oeste del Lago del Oeste, es el templo budista más antiguo de Hangzhou, fundado en el año 328 d.C.
 quickAnswer: 'El templo Lingyin, escondido en las colinas boscosas al oeste del Lago del Oeste (West Lake), es el templo budista más antiguo de Hangzhou, fundado en el año 328 d.C. Resérvale medio día: recorre primero las tallas de piedra caliza del cañón de Feilai Feng, luego pasa a los salones del templo y termina en el Salón del Buda de la Medicina, en la ladera. Ve una mañana entre semana si puedes: sigue siendo agradablemente tranquilo en comparación con el propio lago.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: penang-kek-lok-si-temple
-srcHash: '671fd827ba10'
+srcHash: '41e82c995b79'
 title: 'Templo Kek Lok Si: Guía de Viaje de Penang (4.4★)'
 description: 'El templo Kek Lok Si, en Ayer Itam, es el complejo budista más grande de Malasia, abierto todos los días de 8:30 a 17:30, y realmente merece entre 2 y 3 horas de visita. 4.4★ (15,120 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El templo Kek Lok Si, en Ayer Itam, es el complejo budista más grande de Malasia, abierto todos los días de 8:30 a 17:30, y realmente merece entre 2 y 3 horas de visita. Conviene llegar justo a la apertura para adelantarse a los autobuses turísticos, subir en el funicular inclinado hasta la gigantesca estatua de Kuan Yin, y calcular por separado las pequeñas tarifas de entrada de la pagoda y del funicular, ya que no existe un único boleto que lo cubra todo.

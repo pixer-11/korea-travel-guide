@@ -93,15 +93,15 @@ Piazza dei Cavalieri sits a few streets inland from the Field of Miracles, and t
 
 The square was once Pisa's medieval civic heart before Cosimo I de' Medici, first Grand Duke of Tuscany, remade it in the 16th century as headquarters for his Knights of St. Stephen.
 
-His statue still stands at the center, robed and stern, facing the Palazzo della Carovana. That palace's facade is the real showstopper — sgraffito decoration by Giorgio Vasari, all swirling allegorical figures etched into plaster, now home to the elite Scuola Normale Superiore university.
+His statue still stands at the center, robed and stern, facing the Palazzo della Carovana. That palace's facade is the real showstopper, sgraffito decoration by Giorgio Vasari, all swirling allegorical figures etched into plaster, now home to the elite Scuola Normale Superiore university.
 
-Beside it rises Santo Stefano dei Cavalieri, a squat church with a striped marble front and, inside, a collection of Ottoman naval banners captured in battle centuries ago. Look up at the clock tower nearby — it's built into the old Palazzo dell'Orologio, and it hides a grim story.
+Beside it rises Santo Stefano dei Cavalieri, a squat church with a striped marble front and, inside, a collection of Ottoman naval banners captured in battle centuries ago. Look up at the clock tower nearby. It's built into the old Palazzo dell'Orologio, and it hides a grim story.
 
 Dante mentions it in the *Inferno*: this was the Tower of Hunger, where a Pisan count and his sons were reportedly starved to death after a political betrayal.
 
 ## Getting there
 
-Walk it. From the Leaning Tower and Duomo, it's about 400 meters south through the narrow Via Santa Maria or Via dei Mille — five minutes, tops.
+Walk it. From the Leaning Tower and Duomo, it's about 400 meters south through the narrow Via Santa Maria or Via dei Mille, five minutes, tops.
 
 If you're coming from Pisa Centrale train station, it's a flat 20-minute walk north up Corso Italia and across the Ponte di Mezzo, or a short bus ride if your feet are tired. There's no dedicated parking at the square itself; central Pisa is largely pedestrianized, so leave the car at one of the lots near the walls and walk in.
 
@@ -118,16 +118,16 @@ Arrive then and you'll likely have Cosimo's statue and the Vasari facade almost 
 
 ## What to eat and see nearby
 
-Cafés and small bars line the square's edges — a good spot to sit with an espresso and just look up at the architecture rather than rush through. The university buzz keeps the surrounding streets genuinely local: bike racks, secondhand bookshops, students cutting across the piazza with backpacks rather than cameras.
+Cafés and small bars line the square's edges. A good spot to sit with an espresso and just look up at the architecture rather than rush through. The university buzz keeps the surrounding streets genuinely local: bike racks, secondhand bookshops, students cutting across the piazza with backpacks rather than cameras.
 
-From here, it's an easy loop to the Botanical Garden (one of Europe's oldest) or back toward the river along Via Ulisse Dini, past small trattorias serving Pisan classics like *cecina* and *pasta al pesto* — Pisa's own basil-free version, made with a different blend of herbs.
+From here, it's an easy loop to the Botanical Garden (one of Europe's oldest) or back toward the river along Via Ulisse Dini, past small trattorias serving Pisan classics like *cecina* and *pasta al pesto*, Pisa's own basil-free version, made with a different blend of herbs.
 
 ## How to visit like a local
 
-Skip the guided tour groups entirely by timing your visit to the early morning quiet window — 7am on a weekday is your best bet for photos without strangers in frame.
+Skip the guided tour groups entirely by timing your visit to the early morning quiet window, 7am on a weekday is your best bet for photos without strangers in frame.
 
 Since it's a plaza rather than a paid attraction, there's nothing to book and no tickets to buy for the square itself; just walk in. If you want to see inside Palazzo della Carovana or the church, check current visiting hours locally, as these operate separately from the square and aren't open around the clock.
 
-Payment barely factors in here — you're not buying anything to enter, only if you sit down at a café, where cards are widely accepted.
+Payment barely factors in here. You're not buying anything to enter, only if you sit down at a café, where cards are widely accepted.
 
 The mistake most visitors make is treating this as a five-minute photo stop on the way to somewhere else. Slow down: sit on the church steps, read the Vasari facade top to bottom, and notice how different the mood is from the tourist swarm you just left behind.

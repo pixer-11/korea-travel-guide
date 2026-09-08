@@ -46,25 +46,25 @@ draft: false
 
 ## Why go
 
-The Golden Gate Bridge is the reason San Francisco's skyline is instantly recognizable — a 4,200-foot art deco suspension bridge finished in 1937, painted in the famous burnt-orange hue officially called "International Orange." It's rated 4.8 stars across more than 85,000 reviews, and it remains open to cars, cyclists, and pedestrians alike, which means you can experience it several different ways depending on how much time you have. Beyond the engineering spectacle, the surrounding headlands and vista points offer some of the best free views in California.
+The Golden Gate Bridge is the reason San Francisco's skyline is instantly recognizable, a 4,200-foot art deco suspension bridge finished in 1937, painted in the famous burnt-orange hue officially called "International Orange." It's rated 4.8 stars across more than 85,000 reviews, and it remains open to cars, cyclists, and pedestrians alike, which means you can experience it several different ways depending on how much time you have. Beyond the engineering spectacle, the surrounding headlands and vista points offer some of the best free views in California.
 
 ## Getting there
 
-The main visitor access point is on the San Francisco side, at the Golden Gate Bridge Welcome Center near the toll plaza, in the Presidio at the bridge's southeast end. If you're driving, note that tolls are charged only for vehicles heading southbound into San Francisco (northbound into Marin is free), and tolling is all-electronic — there are no cash booths, so rental car drivers should check the toll agency's site to settle up afterward.
+The main visitor access point is on the San Francisco side, at the Golden Gate Bridge Welcome Center near the toll plaza, in the Presidio at the bridge's southeast end. If you're driving, note that tolls are charged only for vehicles heading southbound into San Francisco (northbound into Marin is free), and tolling is all-electronic. There are no cash booths, so rental car drivers should check the toll agency's site to settle up afterward.
 
-By public transit, take Muni bus routes 28 or 29 toward Fort Mason/Presidio, which stop near the toll plaza and Welcome Center. From downtown, Golden Gate Transit buses (lines 101, 130, and others) run from the Salesforce Transit Center directly across the bridge and can drop you at the Marin side viewpoints too. There's paid parking near the Welcome Center, but it fills quickly on weekends — arriving before 9am improves your odds.
+By public transit, take Muni bus routes 28 or 29 toward Fort Mason/Presidio, which stop near the toll plaza and Welcome Center. From downtown, Golden Gate Transit buses (lines 101, 130, and others) run from the Salesforce Transit Center directly across the bridge and can drop you at the Marin side viewpoints too. There's paid parking near the Welcome Center, but it fills quickly on weekends, arriving before 9am improves your odds.
 
 ## What to see and do
 
 The pedestrian walkway on the bridge's east sidewalk is open during daylight hours and is the classic way to cross; it's about 1.7 miles one-way to the Vista Point on the Marin side, taking roughly 45 minutes to an hour walking at a relaxed pace with stops for photos. Cyclists use a separate path and can continue on to explore Sausalito, a popular one-way ride finished off with a ferry back to San Francisco's Ferry Building.
 
-For the postcard shot, head to Battery Spencer on the Marin Headlands side — a short drive north across the bridge — which frames the towers against the bay and skyline. Fort Point, a Civil War–era brick fortress sitting directly beneath the bridge's south end, is worth 30–45 minutes and gives you a dramatic upward view of the trusses; it's also where scenes from Hitchcock's "Vertigo" were filmed.
+For the postcard shot, head to Battery Spencer on the Marin Headlands side, a short drive north across the bridge, which frames the towers against the bay and skyline. Fort Point, a Civil War–era brick fortress sitting directly beneath the bridge's south end, is worth 30–45 minutes and gives you a dramatic upward view of the trusses; it's also where scenes from Hitchcock's "Vertigo" were filmed.
 
 The Golden Gate Bridge Welcome Center itself has exhibits on the bridge's construction, including original cables and Art Deco design details by architect Irving Morrow.
 
 ## When to go
 
-Fog is the defining variable here — the bridge is famous for disappearing into it, especially in summer afternoons when marine fog rolls through the Golden Gate strait. For the clearest views, aim for early morning (before 10am) or the hour before sunset, and consider September and October, when San Francisco often sees its warmest, clearest weather of the year. Regardless of season, dress in layers and expect wind on the bridge deck — it's consistently colder and breezier out there than in the city just a mile away.
+Fog is the defining variable here (the bridge is famous for disappearing into it, especially in summer afternoons when marine fog rolls through the Golden Gate strait. For the clearest views, aim for early morning (before 10am) or the hour before sunset, and consider September and October, when San Francisco often sees its warmest, clearest weather of the year. Regardless of season, dress in layers and expect wind on the bridge deck) it's consistently colder and breezier out there than in the city just a mile away.
 
 ## Nearby & tips
 

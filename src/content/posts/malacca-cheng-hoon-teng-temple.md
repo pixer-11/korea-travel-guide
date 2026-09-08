@@ -77,7 +77,7 @@ draft: false
 
 ## Why go
 
-Cheng Hoon Teng isn't just old — it's the oldest functioning Chinese temple in Malaysia, dating to the 1640s. Step through the gate and the noise of Jonker Street falls away. What's left is smoke, timber, and centuries of continuous worship.
+Cheng Hoon Teng isn't just old. It's the oldest functioning Chinese temple in Malaysia, dating to the 1640s. Step through the gate and the noise of Jonker Street falls away. What's left is smoke, timber, and centuries of continuous worship.
 
 ## What you'll see
 
@@ -94,13 +94,13 @@ Look for details rather than rushing the whole complex at once:
 
 ## Getting there
 
-The temple sits at 25, Jalan Tokong, in Malacca's UNESCO-listed old town — a five-minute walk from Jonker Street's night market stalls. If you're coming from the Stadthuys or Christ Church area, it's a flat 10-minute walk along the Malacca River, then a couple of turns inland.
+The temple sits at 25, Jalan Tokong, in Malacca's UNESCO-listed old town, a five-minute walk from Jonker Street's night market stalls. If you're coming from the Stadthuys or Christ Church area, it's a flat 10-minute walk along the Malacca River, then a couple of turns inland.
 
 There's no dedicated parking, so most visitors walk in from a hotel in the heritage zone or take a short taxi or Grab ride and get dropped nearby. Jalan Tokong itself is pedestrian-friendly and lined with other temples and a mosque, part of the old Harmony Street stretch.
 
 ## When to go
 
-The temple opens daily from 7am to 6:30pm, so there's a wide window to work with. Weekdays are quiet pretty much all day — even midday visits feel unhurried.
+The temple opens daily from 7am to 6:30pm, so there's a wide window to work with. Weekdays are quiet pretty much all day, even midday visits feel unhurried.
 
 Weekends flip that. Foot traffic builds fast after 8am and stays heavy from 9am to 5pm as tour groups and day-trippers move through the old town. If a weekend is your only option, arrive right at 7am for an hour of near-solitude before the crowds arrive.
 
@@ -111,12 +111,12 @@ Morning light also works in your favor. It cuts low through the entrance hall an
 This is a working place of worship, not a museum, so dress and move accordingly.
 
 - Cover shoulders and knees; it's not strictly policed but locals notice
-- Keep your voice down near the altars — quiet reverence is the norm
+- Keep your voice down near the altars, quiet reverence is the norm
 - Photography is generally fine, but skip flash near worshippers mid-prayer
 - Entry is free; a small donation box sits near the entrance if you'd like to contribute
 - There's no formal queue system, so just wait your turn near active altars
 
-The mistake most visitors make is treating this as a five-minute photo stop between Jonker Street shops. Slow down. Walk the full courtyard, read the plaques, and notice the ancestral tablets in the side halls — that's where the temple's real depth shows.
+The mistake most visitors make is treating this as a five-minute photo stop between Jonker Street shops. Slow down. Walk the full courtyard, read the plaques, and notice the ancestral tablets in the side halls. That's where the temple's real depth shows.
 
 Given the well-known status of the site, don't expect to have it to yourself on weekend afternoons. The 7am–8am weekend window and basically any weekday hour are your best bets for a calmer visit. Pair it with the nearby Kampung Kling Mosque and Sri Poyatha Vinayagar Moorthi Temple, both an easy walk along the same street, to see Malacca's multi-faith heritage strip in one loop.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: shanghai-ignis-table
-srcHash: '0a365d0c1eed'
+srcHash: 'bf89fc814434'
 title: Ignis Table：上海必吃新去处
 description: Ignis Table 是上海一家备受关注的新餐厅——这里介绍它是什么、坐落何处，以及该如何前往用餐。
 quickAnswer: Ignis Table 是新近开业的主厨餐桌（chef's table）餐厅，坐落在中华大厦（Zhonghua Mansion）内，由主厨徐嘉逸（Julien Xu，曾任职于 Ultraviolet 和 Rêver）主理，只供应一套售价 ¥1,880 的品鉴菜单，以高级海鲜为主角。座位十分有限，随着口碑扩散，预订正在迅速被抢订一空，因此务必提前预约，并在出发前直接向餐厅确认最新营业时间。

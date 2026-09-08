@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tashkent-syrovarnya
-srcHash: 'e8b2449bcd42'
+srcHash: '1cecddd1a8b7'
 title: Syrovarnya：塔什干美食指南
 description: Syrovarnya 是乌兹别克斯坦塔什干的一家新晋人气餐厅——这里介绍它的特色、位置，以及如何前往用餐。
 quickAnswer: Syrovarnya 是塔什干沙赫里萨布兹街（Shahrisabz street）上一家以奶酪为主打的餐厅，凭借浓郁大胆的乳制品菜单和独特氛围，已经成为这座城市里最热门的约会餐厅之一。由于晚间和周末总是座无虚席，建议提前订位；同时，鉴于这家新晋网红店的营业细节可能随时调整，出发前最好再确认一下最新的营业时间。

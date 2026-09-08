@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: florence-basilica-of-santa-croce-in-florence
-srcHash: '0d6f7137902b'
+srcHash: 'c5a93d3bec31'
 title: 佛罗伦萨圣十字圣殿(Basilica of Santa Croce)旅行指南
 description: 圣十字圣殿是佛罗伦萨方济各会的宏伟教堂，坐落于圣十字广场(Piazza di Santa Croce),以乔托(Giotto)的壁画以及米开朗基罗、伽利略和马基雅维利的墓地闻名。
 quickAnswer: 圣十字圣殿是佛罗伦萨方济各会的宏伟教堂，坐落于圣十字广场(Piazza di Santa Croce),以乔托(Giotto)的壁画以及米开朗基罗、伽利略和马基雅维利的墓地闻名。这里人气很高，建议选在开门后的9:30-11:00这段时间前往(周日开门较晚，为12:30),这样才能不被人墙挡住，好好欣赏帕齐礼拜堂(Pazzi Chapel)和多纳泰罗(Donatello)的十字架像。建议预留60-90分钟游览时间，如果还想在皮革学校和回廊多逛逛，时间需要更长。

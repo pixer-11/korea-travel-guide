@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-home-dawn-cafe-clarke-quay
-srcHash: 'bf267c39b07b'
+srcHash: '1964ca0c6bca'
 title: 克拉码头日暖咖啡馆（Home Dawn Cafe @ Clarke Quay）旅行指南
 description: 日暖咖啡馆（Home Dawn Cafe）坐落在克拉码头（Clarke Quay）River Valley Road 3A栋楼的二层，是一家低调的临河咖啡馆，就藏在主要娱乐街区的背后。
 quickAnswer: 日暖咖啡馆（Home Dawn Cafe）坐落在克拉码头（Clarke Quay）River Valley Road 3A栋楼的二层，低调地藏在主要娱乐街区背后，紧邻河畔。工作日的上午或午后时段前往，能找到安静的临河座位；这里的菜单走轻松的早午餐加咖啡路线，和克拉码头素来以夜店闻名的氛围完全不同。从克拉码头地铁站（NE5）步行过来只需5到8分钟，很适合搭配一段沿新加坡河的漫步。

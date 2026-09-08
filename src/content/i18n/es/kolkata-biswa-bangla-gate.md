@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kolkata-biswa-bangla-gate
-srcHash: '96195ae96ddf'
+srcHash: 'e5ffc3f05e1f'
 title: 'Biswa Bangla Gate: guía de viaje de Calcuta (4,5★)'
 description: 'El Biswa Bangla Gate es la enorme torre-arco iluminada de Newtown, en Action Area 1D, célebre como escenario fotográfico con un mirador elevado y un restaurante en la azotea que sirve comida bengalí, china e italiana. 4,5★ (39.461 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Biswa Bangla Gate es la enorme torre-arco iluminada de Newtown, en Action Area 1D, célebre como escenario fotográfico con un mirador elevado y un restaurante en la azotea que sirve comida bengalí, china e italiana. Cierra los lunes; el resto de días abre de 12:00 a 16:00 y de 19:00 a 22:00. Conviene ir justo a las 19:00, cuando reabre para la cena y la estructura se ilumina contra el cielo del atardecer.

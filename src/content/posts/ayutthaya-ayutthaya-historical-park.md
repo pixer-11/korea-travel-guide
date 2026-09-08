@@ -89,7 +89,7 @@ updatedDate: '2026-08-16'
 
 ## Why go
 
-Ayutthaya was the Siamese capital for over 400 years (1350–1767) and, at its height, rivaled contemporaries like Paris in size and wealth. Burmese armies razed the city in 1767, leaving behind the haunting brick-and-stucco chedis, headless Buddha statues, and toppled columns that now make up Ayutthaya Historical Park, inscribed as a UNESCO World Heritage Site in 1991. It's one of the most photogenic and historically dense archaeological zones in Southeast Asia — verified visitor ratings put it at 4.7 stars, reflecting how consistently it impresses even travelers who've seen Angkor or Bagan.
+Ayutthaya was the Siamese capital for over 400 years (1350–1767) and, at its height, rivaled contemporaries like Paris in size and wealth. Burmese armies razed the city in 1767, leaving behind the haunting brick-and-stucco chedis, headless Buddha statues, and toppled columns that now make up Ayutthaya Historical Park, inscribed as a UNESCO World Heritage Site in 1991. It's one of the most photogenic and historically dense archaeological zones in Southeast Asia, verified visitor ratings put it at 4.7 stars, reflecting how consistently it impresses even travelers who've seen Angkor or Bagan.
 
 ## Getting there
 
@@ -99,20 +99,20 @@ The park itself is not one fenced compound but a scattered network of temple rui
 
 ## What to see
 
-- **Wat Mahathat** — the park's most photographed spot, home to the sandstone Buddha head famously entangled in the roots of a banyan tree. Arrive early to shoot it without a crowd of tripods around you.
-- **Wat Ratchaburana** — right across from Wat Mahathat, notable for its steep, climbable Khmer-style prang (tower) and crypt murals.
-- **Wat Phra Si Sanphet** — once part of the royal palace grounds, its three iconic bell-shaped chedis in a row are the most recognizable silhouette of Ayutthaya, often compared to Wat Arun in Bangkok for style influence.
-- **Wat Phra Ram** and **Wat Chaiwatthanaram** — the latter sits just outside the main island, across the river, and is especially striking at sunset with its Angkor-inspired central prang reflected in the water.
-- **Wihan Phra Mongkhon Bophit** — houses one of Thailand's largest bronze Buddha images, still an active place of worship next to the ruins.
+- **Wat Mahathat**, the park's most photographed spot, home to the sandstone Buddha head famously entangled in the roots of a banyan tree. Arrive early to shoot it without a crowd of tripods around you.
+- **Wat Ratchaburana**, right across from Wat Mahathat, notable for its steep, climbable Khmer-style prang (tower) and crypt murals.
+- **Wat Phra Si Sanphet**, once part of the royal palace grounds, its three iconic bell-shaped chedis in a row are the most recognizable silhouette of Ayutthaya, often compared to Wat Arun in Bangkok for style influence.
+- **Wat Phra Ram** and **Wat Chaiwatthanaram**. The latter sits just outside the main island, across the river, and is especially striking at sunset with its Angkor-inspired central prang reflected in the water.
+- **Wihan Phra Mongkhon Bophit**, houses one of Thailand's largest bronze Buddha images, still an active place of worship next to the ruins.
 
 Budget at least half a day to cover the core cluster (Mahathat, Ratchaburana, Phra Si Sanphet), and a full day if adding Chaiwatthanaram and the riverside temples.
 
 ## When to go
 
-The cooler season, November to February, is by far the most comfortable for walking or cycling between sites — daytime heat from March through May can be brutal on the shadeless brick platforms. Within any day, aim for the first two hours after opening or the last two before closing to avoid both heat and tour-bus crowds, and to get warm, low-angle light for photos. Rainy season (June–October) brings dramatic skies and green surroundings but occasional flooding on low-lying paths.
+The cooler season, November to February, is by far the most comfortable for walking or cycling between sites, daytime heat from March through May can be brutal on the shadeless brick platforms. Within any day, aim for the first two hours after opening or the last two before closing to avoid both heat and tour-bus crowds, and to get warm, low-angle light for photos. Rainy season (June–October) brings dramatic skies and green surroundings but occasional flooding on low-lying paths.
 
 ## Nearby & tips
 
-Rent a bicycle near the train station or your guesthouse — it's the classic way to explore, since distances between temples are short but too far to comfortably walk in the heat. Tuk-tuks can be hired by the hour for a fixed loop if cycling in the sun isn't appealing. Bring a hat, water, and shoulders-and-knees-covered clothing, since several sites remain active religious spaces.
+Rent a bicycle near the train station or your guesthouse. It's the classic way to explore, since distances between temples are short but too far to comfortably walk in the heat. Tuk-tuks can be hired by the hour for a fixed loop if cycling in the sun isn't appealing. Bring a hat, water, and shoulders-and-knees-covered clothing, since several sites remain active religious spaces.
 
-For food, the town is well known for *boat noodles* (kuay teow reua) and grilled river prawns (*kung phao*) sold along the riverside near Hua Ro Market. Many travelers combine the ruins with a stop at the nearby Bang Pa-In Royal Palace, about 20km south, on the same day trip from Bangkok. Entrance fees for individual temple compounds are modest and typically paid per site rather than as one park-wide ticket — confirm current prices and hours locally, as these are adjusted periodically.
+For food, the town is well known for *boat noodles* (kuay teow reua) and grilled river prawns (*kung phao*) sold along the riverside near Hua Ro Market. Many travelers combine the ruins with a stop at the nearby Bang Pa-In Royal Palace, about 20km south, on the same day trip from Bangkok. Entrance fees for individual temple compounds are modest and typically paid per site rather than as one park-wide ticket, confirm current prices and hours locally, as these are adjusted periodically.

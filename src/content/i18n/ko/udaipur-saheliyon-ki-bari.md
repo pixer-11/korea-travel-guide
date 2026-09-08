@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: udaipur-saheliyon-ki-bari
-srcHash: '5e17e7af2576'
+srcHash: 'c98efb646a71'
 title: '사헬리욘 키 바리(Saheliyon ki Bari): 우다이푸르 여행 가이드'
 description: 사헬리욘 키 바리(Saheliyon ki Bari, "시녀들의 정원")는 우다이푸르 판치와티(Panchwati) 지역에 위치한 아담하고 걸어서 둘러보기 좋은 18세기 왕실 정원으로, 연꽃 연못과 대리석 정자, 코끼리 모양 분수, 그리고 작은 박물관으로 유명합니다.
 quickAnswer: 사헬리욘 키 바리(Saheliyon ki Bari, "시녀들의 정원")는 우다이푸르 판치와티(Panchwati) 지역에 위치한 아담하고 걸어서 둘러보기 좋은 18세기 왕실 정원으로, 연꽃 연못과 대리석 정자, 코끼리 모양 분수, 그리고 작은 박물관으로 유명합니다. 45~60분 정도 시간을 잡고, 단체 관광버스 인파를 피하려면 개장 직후에 방문하세요. 근처 파테 사가르 호수(Fateh Sagar Lake) 산책과 함께 묶어서 다녀오기 좋습니다.

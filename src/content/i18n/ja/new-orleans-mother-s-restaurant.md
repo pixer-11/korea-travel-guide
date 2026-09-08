@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: new-orleans-mother-s-restaurant
-srcHash: '852a7cec6e64'
+srcHash: '728edb7f501b'
 title: マザーズ・レストラン(Mother's Restaurant):ニューオーリンズの食事処ガイド(評価4.2★)
 description: セントラル・ビジネス・ディストリクト(Central Business District)の401 Poydras Stにあるマザーズ・レストラン(Mother's Restaurant)は、毎日午前7時から午後10時まで営業するカフェテリア形式の名物店。ローストビーフとハムを細切りにした「デブリ(debris)」をたっぷり載せたポーボーイ「ファーディ・スペシャル(Ferdi Special)」と、ベイクドハムで知られています。評価4.2★(17,308件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: セントラル・ビジネス・ディストリクト(Central Business District)の401 Poydras Stにあるマザーズ・レストラン(Mother's Restaurant)は、毎日午前7時から午後10時まで営業するカフェテリア形式の名物店。ローストビーフとハムを細切りにした「デブリ(debris)」をたっぷり載せたポーボーイ「ファーディ・スペシャル(Ferdi Special)」と、ベイクドハムで知られています。朝食を狙うなら開店直後の午前7時、あるいは午後の空いている時間帯がおすすめ。週末は午前11時から午後9時まで、店の外まで続く長い行列ができます。

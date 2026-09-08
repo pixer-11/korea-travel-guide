@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-niji-sushi-izakaya
-srcHash: '8dc7cc31f04f'
+srcHash: 'af7b3de455bf'
 title: 'NIJI Sushi Izakaya: dónde comer en Kuala Lumpur'
 description: 'NIJI Sushi Izakaya en Kuala Lumpur, Malasia: un local nuevo y en pleno auge. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: NIJI Sushi Izakaya es un restaurante independiente ubicado en Changkat Bukit Bintang, en Kuala Lumpur, que se presenta como el primer sushi izakaya moderno de Malasia. Es la dirección indicada si busca pescado japonés traído por avión y reinterpretado por una cocina de formación francesa. El local cuenta con varios niveles de mesas y una terraza, en lugar de una barra reducida, por lo que se adapta tanto a una cena íntima como a grupos numerosos. Conviene confirmar el horario vigente y reservar con antelación, ya que se trata de un local recién abierto y muy solicitado.

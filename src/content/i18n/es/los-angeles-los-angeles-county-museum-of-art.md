@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '41c8bc247e2f'
+srcHash: '99e461937b84'
 title: 'Museo de Arte del Condado de Los Ángeles (LACMA): Guía de viaje (4.6★)'
 description: El LACMA se extiende por 20 acres sobre Wilshire Boulevard, con el Broad Contemporary Art Museum como eje y la icónica instalación de faroles Urban Light en la entrada. 4.6★ (21,013 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El LACMA se extiende por 20 acres sobre Wilshire Boulevard, con el Broad Contemporary Art Museum como eje y la icónica instalación de faroles Urban Light justo en la entrada. Abre todos los días excepto los miércoles, y las horas más tranquilas en días de semana son entre las 6pm y las 7pm — los fines de semana se mantiene concurrido desde el mediodía hasta el cierre, así que conviene visitar por la mañana. Reserva al menos tres horas para recorrer aunque sea una fracción de la colección permanente.

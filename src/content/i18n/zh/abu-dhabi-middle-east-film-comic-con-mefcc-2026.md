@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-middle-east-film-comic-con-mefcc-2026
-srcHash: '781134f0b80a'
+srcHash: 'a696ca22d11e'
 title: 2026年中东影漫展（MEFCC）：日期、门票与场馆全攻略（阿布扎比）
 description: 2026年中东影漫展（Middle East Film & Comic Con，简称MEFCC）将于9月11日至13日在阿联酋阿布扎比举行。这里介绍活动详情、举办时间地点，以及如何提前规划行程。
 quickAnswer: 2026年中东影漫展（MEFCC）将于2026年9月11日至13日在阿布扎比国家展览中心（ADNEC Centre Abu Dhabi）举行，这是这场流行文化盛会的第14届。届时将有明星见面会、角色扮演（Cosplay）大赛、游戏专区以及遍布ADNEC各展厅的艺术家长廊摊位。出发前建议先在MEFCC官网确认具体展厅号、嘉宾阵容和门票档位等信息。

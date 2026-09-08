@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: fukuoka-fuglen-coffee-keyakidori
-srcHash: '419a31701eb9'
+srcHash: 'f513176aa416'
 title: Fuglen Coffee 榉树通店：福冈旅行指南
 description: 日本福冈的Fuglen Coffee榉树通（Keyakidori）店，是一处新兴热门去处：介绍它是什么、位于何处，以及如何前往游览。
 quickAnswer: Fuglen Coffee在福冈开设的第二家分店，坐落于榉树通（Keyakidori Avenue）附近一条安静的后街，地处中央区（Chuo Ward）绿意盎然的街区，这一带以精品小店和林荫大道闻名。白天，这里是社区风格的精品咖啡馆；入夜后则摇身一变成为鸡尾酒吧——这种玩法正是Fuglen在奥斯陆和东京首创的招牌模式。由于该店在2026年5月才刚开业，营业时间、座位情况以及是否需要预约，建议前往之前先行确认。

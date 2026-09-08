@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-addiction-aquatic-development
-srcHash: 'ed2b11f22c04'
+srcHash: '9e133a051b5a'
 title: 'Addiction Aquatic Development: dónde comer en Taipéi (4.0★)'
 description: 'Addiction Aquatic Development (地下海鮮 / 上引水產) es un extenso mercado de mariscos convertido en restaurante en el distrito de Zhongshan, abierto todos los días de 7:00 a 22:30, donde se coge una bandeja en la barra de sushi, se elige marisco para asar uno mismo o se puede pedir una comida completa sentado. 4.0★ (13.153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Addiction Aquatic Development (地下海鮮 / 上引水產) es un extenso mercado de mariscos convertido en restaurante en el distrito de Zhongshan, abierto todos los días de 7:00 a 22:30, donde se coge una bandeja en la barra de sushi, se elige marisco para asar uno mismo o se puede pedir una comida completa sentado. El lugar suele estar realmente concurrido —los fines de semana de 9:00 a 15:00 se forman las colas más largas—, así que conviene ir un día laborable por la mañana o después de las 21:00 para moverse con rapidez. El presupuesto ronda los 500–1.000 NT$ por persona, según la cantidad de sashimi fresco y marisco que se acumule en la bandeja.

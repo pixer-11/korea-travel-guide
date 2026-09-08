@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-higashi-chaya-district
-srcHash: '5c56cad73b9a'
+srcHash: 'c860e88f46c5'
 title: 'Barrio de Higashi Chaya: Guía de viaje de Kanazawa (4.2★)'
 description: 'El barrio de Higashi Chaya, en Kanazawa, es un conjunto histórico de casas de té de geishas al este del río Asano, de fácil acceso en autobús o taxi desde la estación de Kanazawa. 4.2★ (23.609 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El barrio de Higashi Chaya, en Kanazawa, es un conjunto histórico de casas de té de geishas al este del río Asano, de fácil acceso en autobús o taxi desde la estación de Kanazawa. Al tratarse de un barrio y no de un lugar con entrada, permanece abierto todo el día, pero conviene llegar antes de las 10:00 para disfrutar de sus calles de celosías de madera sin aglomeraciones. Los fines de semana, entre las 10:00 y las 18:00, los grupos turísticos copan la calle principal.

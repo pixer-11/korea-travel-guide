@@ -50,7 +50,7 @@ draft: false
 ---
 ## Why go
 
-Piazza della Repubblica is already Turin's beating heart — home to Porta Palazzo, reputedly the largest open-air market in Europe — and Mercato Centrale Torino sits right inside that same square, occupying a handsome 19th-century iron-and-glass market hall that's been reworked into a two-level food emporium. You come here not for one restaurant but for a whole roster of them under one roof: a dozen-plus stalls run by Piedmontese producers and artisans, each specializing in a single thing — agnolotti, fritto misto, Neapolitan-style pizza, craft beer, gelato, vermouth — rather than a jack-of-all-trades menu.
+Piazza della Repubblica is already Turin's beating heart (home to Porta Palazzo, reputedly the largest open-air market in Europe), and Mercato Centrale Torino sits right inside that same square, occupying a handsome 19th-century iron-and-glass market hall that's been reworked into a two-level food emporium. You come here not for one restaurant but for a whole roster of them under one roof: a dozen-plus stalls run by Piedmontese producers and artisans, each specializing in a single thing (agnolotti, fritto misto, Neapolitan-style pizza, craft beer, gelato, vermouth) rather than a jack-of-all-trades menu.
 
 The appeal is choice without compromise: your group can scatter across counters and reconvene at a shared table, which is exactly how the space was designed to work.
 
@@ -58,24 +58,24 @@ The appeal is choice without compromise: your group can scatter across counters 
 
 The market sits at Piazza della Repubblica 25, right where Turin's historic center gives way to the multicultural Porta Palazzo district. It's an easy 12–15 minute walk north from Porta Nuova or Porta Susa if you're coming from the station, or you can hop on tram lines 4 or 13, both of which stop right at the square. If you're already sightseeing around Piazza Castello or the Egyptian Museum, it's a flat, straightforward 10-minute walk up Via Milano.
 
-Look for the long glass-roofed pavilion with market stalls spilling out onto the piazza — that's Porta Palazzo proper, and the Mercato Centrale entrance is set within it.
+Look for the long glass-roofed pavilion with market stalls spilling out onto the piazza. That's Porta Palazzo proper, and the Mercato Centrale entrance is set within it.
 
 ## What to see and eat
 
 Inside, the ground floor is a grid of open kitchen counters, each with its own queue and menu board, serving everything from Piedmontese classics like vitello tonnato and bollito misto to wood-fired pizza, fresh pasta stations, and a butcher's counter doing thick-cut tagliata. There's a dedicated stall for gianduia chocolate and one for artisanal gelato that's worth saving room for.
 
-Upstairs, a mezzanine level and rooftop-facing tables give you a bit more breathing room and a view down over the market floor — useful if you're visiting with a larger group and want to actually find seats together. Vermouth, invented in Turin, gets its due at a dedicated bar pouring local labels alongside the Barolo, Barbera, and Barbaresco you'd expect this close to the Langhe wine country.
+Upstairs, a mezzanine level and rooftop-facing tables give you a bit more breathing room and a view down over the market floor, useful if you're visiting with a larger group and want to actually find seats together. Vermouth, invented in Turin, gets its due at a dedicated bar pouring local labels alongside the Barolo, Barbera, and Barbaresco you'd expect this close to the Langhe wine country.
 
-Nothing here is a sit-down, ordered-from-one-menu meal — you graze, order at each counter, and carry your own tray to a communal table.
+Nothing here is a sit-down, ordered-from-one-menu meal, you graze, order at each counter, and carry your own tray to a communal table.
 
 ## When to go
 
-The hall runs long hours, so it comfortably covers breakfast pastries, a market-day lunch, aperitivo, and a late dinner without ever closing between services. Mornings tend to be calmer, especially on weekdays, and pair naturally with a wander through the outdoor Porta Palazzo stalls just outside, which are busiest before noon. Weekend evenings, particularly Friday and Saturday after 7pm, draw the thickest crowds as the aperitivo hour rolls into dinner — worth avoiding if you want to actually sit rather than hover with a plate.
+The hall runs long hours, so it comfortably covers breakfast pastries, a market-day lunch, aperitivo, and a late dinner without ever closing between services. Mornings tend to be calmer, especially on weekdays, and pair naturally with a wander through the outdoor Porta Palazzo stalls just outside, which are busiest before noon. Weekend evenings, particularly Friday and Saturday after 7pm, draw the thickest crowds as the aperitivo hour rolls into dinner, worth avoiding if you want to actually sit rather than hover with a plate.
 
 ## How to visit like a local
 
-This is a genuinely well-visited, well-reviewed spot rather than an undiscovered corner of the city, so treat it accordingly: arrive with a plan rather than wandering in cold at peak time. Come mid-afternoon on a weekday, between lunch and aperitivo, if you want short lines and your pick of tables. Ordering works stall-by-stall — walk the full floor once before committing, since portions are often small enough to sample two or three counters per person.
+This is a genuinely well-visited, well-reviewed spot rather than an undiscovered corner of the city, so treat it accordingly: arrive with a plan rather than wandering in cold at peak time. Come mid-afternoon on a weekday, between lunch and aperitivo, if you want short lines and your pick of tables. Ordering works stall-by-stall. Walk the full floor once before committing, since portions are often small enough to sample two or three counters per person.
 
-Payment is almost always by card or contactless at each stall, though it doesn't hurt to carry some cash for smaller vendors. Tipping isn't expected the way it is elsewhere — rounding up is plenty. The mistake most first-timers make is treating it like a single restaurant and staking out a table before ordering; instead, send one person to hold seats while others queue, since tables fill fast and aren't tied to any one stall.
+Payment is almost always by card or contactless at each stall, though it doesn't hurt to carry some cash for smaller vendors. Tipping isn't expected the way it is elsewhere, rounding up is plenty. The mistake most first-timers make is treating it like a single restaurant and staking out a table before ordering; instead, send one person to hold seats while others queue, since tables fill fast and aren't tied to any one stall.
 
-If you want the classic combination, sample a few of the Piedmontese specialty stalls and finish with something from the gelato counter — it's the closest thing the market has to a house tradition.
+If you want the classic combination, sample a few of the Piedmontese specialty stalls and finish with something from the gelato counter. It's the closest thing the market has to a house tradition.

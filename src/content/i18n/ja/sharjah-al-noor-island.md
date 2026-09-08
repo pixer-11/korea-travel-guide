@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: sharjah-al-noor-island
-srcHash: '10d2aa68cf9e'
+srcHash: '4ffa58055fd7'
 title: アル・ヌール・アイランド:シャルジャ旅行ガイド
 description: アル・ヌール・アイランド(Al Noor Island)は、シャルジャ中心部のブハイラ・コーニッシュ(Buhairah Corniche)沿い、ハリド・ラグーン(Khalid Lagoon)に浮かぶ島で、アル・マジャズ・ウォーターフロント(Al Majaz Waterfront)から徒歩またはタクシーですぐの距離にあります。
 quickAnswer: アル・ヌール・アイランド(Al Noor Island)は、シャルジャ中心部のブハイラ・コーニッシュ(Buhairah Corniche)沿い、ハリド・ラグーン(Khalid Lagoon)に浮かぶ島で、アル・マジャズ・ウォーターフロント(Al Majaz Waterfront)から徒歩またはタクシーですぐの距離にあります。木道の散策、本のパビリオン巡り、バタフライハウスの見学、点在する現代アート作品の鑑賞には1.5〜2.5時間ほど見ておきましょう。特に涼しい季節(10月〜4月)の午後遅くから夕方にかけて訪れるのがおすすめで、光の加減も気温も心地よく感じられます。

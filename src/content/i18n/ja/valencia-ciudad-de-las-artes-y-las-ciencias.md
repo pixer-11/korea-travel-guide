@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: valencia-ciudad-de-las-artes-y-las-ciencias
-srcHash: '6cec3c9c5707'
+srcHash: 'c30b021266f9'
 title: 芸術科学都市(Ciudad de las Artes y las Ciencias):バレンシア旅行ガイド
 description: 芸術科学都市(Ciudad de las Artes y las Ciencias)は、水が抜かれたトゥリア川旧河床の東端に広がる、バレンシアの未来的なミュージアム&パーク複合施設で、建築家サンティアゴ・カラトラバとフェリックス・カンデラによって建てられました。
 quickAnswer: 芸術科学都市(Ciudad de las Artes y las Ciencias)は、水が抜かれたトゥリア川旧河床の東端に広がる、バレンシアの未来的なミュージアム&パーク複合施設で、建築家サンティアゴ・カラトラバとフェリックス・カンデラによって建てられました。敷地内を歩いて写真を撮るだけなら半日、ヘミスフェリック(Hemisfèric、IMAX/プラネタリウム)、プリンシペ・フェリペ科学博物館、オセアノグラフィック水族館も加えるなら丸一日を見ておきましょう。有料施設のチケットは事前にオンラインで購入し、夏は早朝か夕方遅くに訪れると、混雑と白いコンクリートに照りつける強い日差しの両方を避けられます。

@@ -58,18 +58,18 @@ This is why people set alarms for 2:30am. No photograph quite prepares you for t
 
 Most travelers base themselves in Cemoro Lawang, the closest village to the crater rim, or in Malang, about 3-4 hours away by road. From Surabaya, it's roughly 3-4 hours by car to the park's edge.
 
-Independent driving into the core sunrise-viewing area isn't really the norm — nearly everyone books a 4WD jeep tour, arranged through a guesthouse or agency the night before. Jeeps gather pre-dawn and convoy up to the viewpoints together.
+Independent driving into the core sunrise-viewing area isn't really the norm, nearly everyone books a 4WD jeep tour, arranged through a guesthouse or agency the night before. Jeeps gather pre-dawn and convoy up to the viewpoints together.
 
-Entry works on tickets, not on a gate that opens and shuts: national-park tickets are checked on the access roads, and nearly every operator folds the fee into the tour price or buys it for you. The weekday office hours listed online for the park belong to its administration desks, not to visitor access — sunrise convoys roll every day of the week, weekends included.
+Entry works on tickets, not on a gate that opens and shuts: national-park tickets are checked on the access roads, and nearly every operator folds the fee into the tour price or buys it for you. The weekday office hours listed online for the park belong to its administration desks, not to visitor access, sunrise convoys roll every day of the week, weekends included.
 
 ## What you'll actually see
 
-The park protects two active volcanoes and the sand sea between them — a landscape unlike anywhere else in Java.
+The park protects two active volcanoes and the sand sea between them, a landscape unlike anywhere else in Java.
 
 - **Mount Bromo's crater rim**: a steep 30–45 minute walk or horse ride from the sand sea parking area, then stairs to the smoking edge.
 - **The Sea of Sand (Segara Wedi)**: a flat volcanic plain the jeeps cross, oddly lunar and grey.
 - **Pura Luhur Poten**: a Hindu temple belonging to the Tenggerese people, sitting at the foot of Bromo.
-- **Mount Semeru**: Java's highest peak, often visible smoking gently in the distance — climbing it requires separate permits and a serious multi-day trek.
+- **Mount Semeru**: Java's highest peak, often visible smoking gently in the distance, climbing it requires separate permits and a serious multi-day trek.
 
 Most sunrise-and-crater trips take four to six hours door to door from Cemoro Lawang, including the jeep convoy, viewpoint stop, and crater walk.
 
@@ -79,18 +79,18 @@ The dry season, roughly April through October, gives you the best odds of a clea
 
 Rainy months (December–February) bring fog that can blot out the view entirely, so if photos matter to you, avoid that window.
 
-Whatever the season, dawn is genuinely cold — pack a real jacket, not just a sweater.
+Whatever the season, dawn is genuinely cold. Pack a real jacket, not just a sweater.
 
 ## How to visit like a local
 
-This park draws heavy crowds at the main viewpoints, so plan around that rather than expecting solitude — this is one of Indonesia's most-visited natural sites, not an undiscovered spot.
+This park draws heavy crowds at the main viewpoints, so plan around that rather than expecting solitude. This is one of Indonesia's most-visited natural sites, not an undiscovered spot.
 
 - **Beat the jeep convoy**: agencies leave guesthouses around 3am; confirm pickup the night before, since drivers won't wait long.
 - **Skip Penanjakan 1 on weekends**: it's the most photographed viewpoint and the most jammed with jeeps; King Kong Hill or Seruni Point offer a similar view with a bit more elbow room.
 - **Pay in cash**: jeep fees, horse rides at the crater, and small entry add-ons are typically settled in Indonesian rupiah on the spot, so bring enough with you.
-- **Don't skip the Poten temple stop**: it's a genuine Tenggerese Hindu site, not a photo prop — keep voices down and dress modestly if you walk through.
+- **Don't skip the Poten temple stop**: it's a genuine Tenggerese Hindu site, not a photo prop. Keep voices down and dress modestly if you walk through.
 - **Watch your footing on the crater stairs**: sulfur fumes and loose volcanic gravel make the final stretch slippery; sturdy shoes beat sandals.
-- **Sort your park ticket the night before**: entry is checked at posts on the access roads, and operators usually handle the ticket for you — confirm it's included in your jeep price so nothing holds you up at 3:30am.
+- **Sort your park ticket the night before**: entry is checked at posts on the access roads, and operators usually handle the ticket for you, confirm it's included in your jeep price so nothing holds you up at 3:30am.
 
-The tourist mistake here isn't rudeness — it's underestimating the cold and the crowds, then missing the jeep because they slept through the 2:30am wake-up call.
+The tourist mistake here isn't rudeness. It's underestimating the cold and the crowds, then missing the jeep because they slept through the 2:30am wake-up call.
 

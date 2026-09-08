@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: le-castellet-bol-d-or-fim-endurance-world-championship-finale
-srcHash: 'd1c48b2d9943'
+srcHash: 'af931bdc88d4'
 title: 'Bol d''Or (Final del Campeonato del Mundo de Resistencia FIM): Todo lo que hay que saber (Le Castellet)'
 description: El Bol d'Or (final del Campeonato del Mundo de Resistencia FIM) se celebra en Le Castellet, Francia, del 17 al 20 de septiembre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
 quickAnswer: 'El Bol d''Or, la carrera de resistencia de 24 horas que cierra la temporada del Campeonato del Mundo de Resistencia FIM, está previsto para el 17-20 de septiembre de 2026 en el Circuit Paul Ricard, cerca de Le Castellet, en la Provenza. Conviene reservar un fin de semana largo: los entrenamientos y la clasificación se desarrollan el jueves y el viernes, y luego la carrera se disputa toda la noche, desde la tarde del sábado hasta el domingo. Antes de reservar, confirma los horarios exactos, las horas de apertura de puertas y las categorías de entradas en los canales oficiales del Bol d''Or / FIM EWC, ya que el programa puede sufrir cambios.'

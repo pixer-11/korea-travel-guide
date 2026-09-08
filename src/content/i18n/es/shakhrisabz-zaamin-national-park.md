@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shakhrisabz-zaamin-national-park
-srcHash: 'db43294f42ae'
+srcHash: '841a5c41bd5a'
 title: 'Parque Nacional de Zaamin: Guía de viaje desde Shakhrisabz (4.7★)'
 description: 'El Parque Nacional de Zaamin es una reserva de montaña con bosques de enebro y praderas alpinas en la región de Jizzakh, a medio día de viaje desde Shakhrisabz. 4.7★ (319 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Zaamin es una reserva de montaña con bosques de enebro y praderas alpinas en la región de Jizzakh, a medio día de viaje desde Shakhrisabz. Abre todos los días de 8:00 a 20:00, rara vez está lleno y la mejor opción es visitarlo en una mañana de entre semana (de 8:00 a 12:00), cuando los senderos están más tranquilos. Vale la pena ir para caminar, respirar aire de montaña y disfrutar de las vistas sobre las cordilleras de Turquestán y Zaamin, más que como una simple parada rápida de camino.

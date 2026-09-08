@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuching-kubah-national-park
-srcHash: '2c7f73f639ed'
+srcHash: 'f47cdf2c1ac5'
 title: 古邦国家公园(Kubah National Park):古晋(Kuching)旅行指南(4.3★)
 description: 古邦国家公园位于古晋市区以西约20公里处，是一座山地雨林保护区，拥有瀑布和观景步道。4.3★(1,481条评价)——游客怎么说、开放时间及实用建议。
 quickAnswer: 古邦国家公园位于古晋市区以西约20公里处，是一座山地雨林保护区，拥有瀑布和观景步道。建议在人少的工作日上午7点到中午之间前往，并预留3-4小时来走一段完整步道，再留点时间在瀑布边纳凉。建议租车或叫出租车/Grab前往——没有直达的市内公交线路可依靠。

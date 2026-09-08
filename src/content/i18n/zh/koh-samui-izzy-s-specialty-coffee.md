@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: koh-samui-izzy-s-specialty-coffee
-srcHash: 'fb38aceec3fd'
+srcHash: 'c79ee5d08b33'
 title: Izzy's Specialty Coffee：苏梅岛旅行指南
 description: Izzy's Specialty Coffee 是一家小批量精品咖啡馆，坐落在苏梅岛北岸波普（Bo Put）渔民村（Fisherman's Village）的老式店屋巷弄之中——建议在上午10点前前往，才能占到座位，尝一尝他们自家烘焙咖啡豆制成的手冲慢磨咖啡。
 quickAnswer: Izzy's Specialty Coffee 是一家小批量精品咖啡馆，坐落在苏梅岛北岸波普（Bo Put）渔民村（Fisherman's Village）的老式店屋巷弄之中——建议在上午10点前前往，才能占到座位，尝一尝他们自家烘焙咖啡豆制成的手冲慢磨咖啡。从渔民村步行街（Fisherman's Village Walking Street）步行即可到达，很适合与波普码头（Bo Put Pier）的海滨清晨行程搭配安排。建议预留30-45分钟；由于这里坐拥1,000多条近乎满分的好评，一到中午就会变得很热闹。

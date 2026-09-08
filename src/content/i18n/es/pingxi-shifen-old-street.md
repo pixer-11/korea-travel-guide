@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pingxi-shifen-old-street
-srcHash: '41c81ccfae91'
+srcHash: '0c040e0bd67a'
 title: 'Calle Antigua de Shifen: Guía de viaje de Pingxi (4,3★)'
 description: 'La Calle Antigua de Shifen (Shifen Old Street) es un callejón estrecho en el distrito de Pingxi donde la línea ferroviaria Pingxi pasa justo entre hileras de tiendas, y donde los visitantes escriben deseos en enormes linternas de papel y las liberan hacia el cielo. 4,3★ (52.203 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Calle Antigua de Shifen (Shifen Old Street) es un callejón estrecho en el distrito de Pingxi donde la línea ferroviaria Pingxi pasa justo entre hileras de tiendas, y donde los visitantes escriben deseos en enormes linternas de papel y las liberan hacia el cielo. Toma el tren desde la estación de Ruifang (Ruifang Station) en la línea Pingxi y bájate en Shifen: la calle está justo al lado del andén. Ve un día de semana por la mañana si puedes; los fines de semana y las tardes de días festivos traen muchas multitudes que se agolpan justo en las vías para tomar fotos.'

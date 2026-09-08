@@ -44,11 +44,11 @@ heroImage:
 
 ## Why this residency matters
 
-Céline Dion returning to a Paris stage for a run this long is a genuine event, not just another tour stop. After years away from full-scale touring, she's set up camp at one purpose-built arena for over a month rather than passing through for a single night. That structure — same venue, same city, dozens of dates — is closer to how Las Vegas residencies work than a typical European tour leg, and it's rare for an artist of her stature to do it in France.
+Céline Dion returning to a Paris stage for a run this long is a genuine event, not just another tour stop. After years away from full-scale touring, she's set up camp at one purpose-built arena for over a month rather than passing through for a single night. That structure (same venue, same city, dozens of dates) is closer to how Las Vegas residencies work than a typical European tour leg, and it's rare for an artist of her stature to do it in France.
 
 ## The venue: Plénitude Arena
 
-Plénitude Arena is the stage for every date of the residency, from September 12 through October 17, 2026. It's one of the newer large-capacity indoor arenas serving the Paris region, built for exactly this kind of long concert run — good sightlines, modern sound rigging, and enough capacity to make a residency financially viable instead of a one-off spectacle.
+Plénitude Arena is the stage for every date of the residency, from September 12 through October 17, 2026. It's one of the newer large-capacity indoor arenas serving the Paris region, built for exactly this kind of long concert run, good sightlines, modern sound rigging, and enough capacity to make a residency financially viable instead of a one-off spectacle.
 
 Like most big Paris arenas, it sits outside the historic center, so factor in transit time. Look up the venue's own transport page for the nearest RER or Métro connection tied to your specific date, since shuttle and station arrangements around major residencies sometimes shift over a run this long.
 
@@ -56,16 +56,16 @@ Like most big Paris arenas, it sits outside the historic center, so factor in tr
 
 Treat an arena show like an airport departure, not a neighborhood bar.
 
-- Check your ticket for the exact entry time and gate — residencies with repeat dates often assign different entrances by ticket tier.
+- Check your ticket for the exact entry time and gate, residencies with repeat dates often assign different entrances by ticket tier.
 - Build in at least 45–60 minutes before doors for security screening and bag checks.
 - Arenas on the Paris periphery are usually best reached by RER or a direct Métro line rather than driving; parking near large venues fills early and costs more than expected.
-- Keep a digital and printed copy of your ticket — some resale tickets fail to scan if transferred incorrectly.
+- Keep a digital and printed copy of your ticket, some resale tickets fail to scan if transferred incorrectly.
 
 ## Tickets: what to know
 
 The residency is billed as sold out, which changes your strategy entirely. Don't expect box-office walk-up availability on any date between September 12 and October 17, 2026.
 
-Your realistic paths are official resale (many major tours now run their own verified resale queue) or established secondary marketplaces. Avoid unofficial resellers on social media or classified sites — counterfeit and duplicate-sold tickets are the most common scam around sold-out residencies like this one.
+Your realistic paths are official resale (many major tours now run their own verified resale queue) or established secondary marketplaces. Avoid unofficial resellers on social media or classified sites, counterfeit and duplicate-sold tickets are the most common scam around sold-out residencies like this one.
 
 Before paying anything, confirm the seller is authorized and check current ticket status on the official site. Prices on the resale market for a run this in-demand can swing wildly by date and proximity to the stage, so compare a few listings before committing.
 
@@ -80,9 +80,9 @@ If you're building a Paris trip around this and want flexibility for sightseeing
 Parisians going to a big arena show treat it like any commute: RER or Métro in, no driving, no lingering outside afterward hoping for a shortcut out.
 
 - Buy a carnet of Métro tickets or load a Navigo Easy card in advance rather than queuing at a machine right before doors.
-- Eat before you arrive — arena food is limited and lines move slowly right before a headline set.
+- Eat before you arrive, arena food is limited and lines move slowly right before a headline set.
 - Don't bring large bags; security lines move fastest for people carrying only what fits under a seat.
-- If leaving right after the encore, expect a crush at the nearest station — waiting 15–20 minutes lets the platform crowd thin out considerably.
+- If leaving right after the encore, expect a crush at the nearest station, waiting 15–20 minutes lets the platform crowd thin out considerably.
 - Locals rarely tip at concession stands in French venues; rounding up is a courtesy, not an expectation.
 
-The single biggest mistake visitors make is assuming a sold-out show means the trip is off. Confirm timing and tickets on the official site first — verified resale channels regularly surface seats throughout a run this long, especially closer to specific weeknight dates.
+The single biggest mistake visitors make is assuming a sold-out show means the trip is off. Confirm timing and tickets on the official site first, verified resale channels regularly surface seats throughout a run this long, especially closer to specific weeknight dates.

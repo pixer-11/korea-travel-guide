@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: margilan-yodgorlik-silk-factory
-srcHash: 'ecc5c4a4a8b9'
+srcHash: 'ff5544a32dfe'
 title: 'Fábrica de Seda Yodgorlik: Guía de Viaje de Margilán (4.2★)'
 description: 'La Fábrica de Seda Yodgorlik, en Margilán, ofrece un recorrido práctico por todas las etapas de la fabricación tradicional de seda uzbeka, desde el hervido de los capullos hasta el tejido a mano de la tela khan-atlas. 4.2★ (217 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: En la Fábrica de Seda Yodgorlik, en Margilán, se puede hacer un recorrido práctico por todas las etapas de la fabricación tradicional de seda uzbeka, desde el hervido de los capullos hasta el tejido a mano de la tela khan-atlas. Abre todos los días de 8:00 a 17:00 y, como se mantiene bastante desconocida incluso para los estándares del valle de Fergana, normalmente se puede entrar sin esperar. Conviene reservar una hora para la visita y llevar efectivo si se quiere comprar pañuelos o telas en la tienda del lugar.

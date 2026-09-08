@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chiang-mai-wat-chedi-luang
-srcHash: 'f7217442c202'
+srcHash: 'd8358f72e5ee'
 title: '왓 체디 루앙(Wat Chedi Luang): 치앙마이 여행 가이드'
 description: 치앙마이 올드시티(Old City) 중심 프라포클라오 로드(Prapokklao Road)에 자리한 왓 체디 루앙은 15세기에 지어진 거대한 반쯤 무너진 체디와 경내의 시티 필라(락 므앙, lak mueang) 사당으로 꼭 가봐야 할 명소입니다.
 quickAnswer: 치앙마이 올드시티(Old City) 중심 프라포클라오 로드(Prapokklao Road)에 자리한 왓 체디 루앙은 15세기에 지어진 거대한 반쯤 무너진 체디와 경내의 시티 필라(락 므앙, lak mueang) 사당으로 꼭 가봐야 할 명소입니다. 방문 시간은 45~90분 정도로 계획하고, 더위와 인파를 피하려면 이른 아침이나 늦은 오후에 방문하는 것이 좋으며, 인근 왓 프라 싱(Wat Phra Singh)이나 일요일 워킹 스트리트(Sunday Walking Street) 시장과 함께 둘러보기 좋습니다. 입장료는 소액이며 입구에서 현금으로만 결제 가능하므로 소액권을 준비하고, 어깨와 무릎을 가리는 복장을 착용하세요.

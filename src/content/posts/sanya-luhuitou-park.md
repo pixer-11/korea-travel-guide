@@ -51,7 +51,7 @@ The park's name means "deer turns its head," tied to a Li ethnic folk legend abo
 
 The park sits in Jiyang District, on 鹿岭路 (Luling Road), on the hill separating Sanya Bay from the Sanya River mouth. Most visitors arrive by taxi or ride-hailing app from downtown Sanya or the Dadonghai and Sanya Bay hotel strips, a ride of roughly 15–20 minutes.
 
-Local buses also stop near the entrance if you're watching your budget. Once inside, you can walk the paved paths up, or pay for the cable car / sightseeing shuttle that shortens the climb considerably — worth it if you're visiting midday or with kids.
+Local buses also stop near the entrance if you're watching your budget. Once inside, you can walk the paved paths up, or pay for the cable car / sightseeing shuttle that shortens the climb considerably, worth it if you're visiting midday or with kids.
 
 ## What to see and do
 
@@ -61,23 +61,23 @@ On the way up, keep an eye out for the park's resident monkeys, which move throu
 
 - Don't offer food from your hand
 - Keep bags zipped and cameras secured
-- Watch your grip on drinks and snacks — they will grab
+- Watch your grip on drinks and snacks. They will grab
 
-Beyond the deer statue, the park has shaded walking paths, pavilions, and several lower viewpoints that are quieter than the summit. Botanical touches — tropical trees, flowering shrubs — line the route, giving it a jungly, cooler feel than the concrete city below.
+Beyond the deer statue, the park has shaded walking paths, pavilions, and several lower viewpoints that are quieter than the summit. Botanical touches (tropical trees, flowering shrubs) line the route, giving it a jungly, cooler feel than the concrete city below.
 
 ## When to go
 
 Sanya is hot and humid most of the year, so timing matters more here than at an indoor attraction. Early morning or late afternoon, roughly two to three hours before sunset, gives you softer light and a break from the midday sun.
 
-Sunset is the park's signature moment — the bay turns copper and the city lights start coming on below. Winter months (November to March) bring milder, drier weather and are generally the most comfortable stretch for the uphill walk.
+Sunset is the park's signature moment. The bay turns copper and the city lights start coming on below. Winter months (November to March) bring milder, drier weather and are generally the most comfortable stretch for the uphill walk.
 
 ## How to visit like a local
 
 Go in the late afternoon rather than late morning. The heat is brutal by 11am, and the summit viewpoint gets hazy in the middle of the day before clearing again near dusk.
 
-Entry is typically paid at a gate booth, with cash and mobile payment (Alipay/WeChat Pay) both accepted — confirm current ticket prices and hours before you go, since these can shift seasonally. If you're not up for the full climb, the cable car or shuttle is a normal, unremarkable choice here, not a tourist shortcut to feel embarrassed about.
+Entry is typically paid at a gate booth, with cash and mobile payment (Alipay/WeChat Pay) both accepted, confirm current ticket prices and hours before you go, since these can shift seasonally. If you're not up for the full climb, the cable car or shuttle is a normal, unremarkable choice here, not a tourist shortcut to feel embarrassed about.
 
-Wear real shoes, not sandals — the paths are paved but steep in sections. Carry your own water rather than relying on vendors partway up, and pack it out; bins thin out near the top.
+Wear real shoes, not sandals. The paths are paved but steep in sections. Carry your own water rather than relying on vendors partway up, and pack it out; bins thin out near the top.
 
-The biggest mistake visitors make is treating the monkeys like a petting zoo. They're wild animals living in a public park, not park mascots, so keep a respectful distance and let them do their thing. It's a well-known stop on the Sanya sightseeing circuit, so expect company at the summit around sunset — arriving a little earlier or staying a little later than the peak crowd surge gives you a calmer few minutes with the view.
+The biggest mistake visitors make is treating the monkeys like a petting zoo. They're wild animals living in a public park, not park mascots, so keep a respectful distance and let them do their thing. It's a well-known stop on the Sanya sightseeing circuit, so expect company at the summit around sunset, arriving a little earlier or staying a little later than the peak crowd surge gives you a calmer few minutes with the view.
 

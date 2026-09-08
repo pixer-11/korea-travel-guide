@@ -60,7 +60,7 @@ You climb Ayasuluk Hill on a gravel path lined with fallen marble drums, and bef
 
 ## Why this ruin matters
 
-Justinian didn't build small. The basilica once rivaled the great cruciform churches of Constantinople, with six domes running the length of a nave as long as a football pitch. Today only the skeleton survives — earthquakes and centuries of stone-robbing left brick piers, column stumps, and a few re-erected marble columns marking where the altar once stood over John's traditional tomb.
+Justinian didn't build small. The basilica once rivaled the great cruciform churches of Constantinople, with six domes running the length of a nave as long as a football pitch. Today only the skeleton survives, earthquakes and centuries of stone-robbing left brick piers, column stumps, and a few re-erected marble columns marking where the altar once stood over John's traditional tomb.
 
 Look for the faded fresco fragments in a side chapel and the baptistry pool near the north wall, sunk below ground level and shaped like a cross. It's easy to miss if you're not looking down.
 
@@ -79,11 +79,11 @@ Give yourself 45 minutes minimum, longer if you like ruins and inscriptions.
 - The baptistry, tucked to one side and often quieter than the main aisle
 - The Byzantine fortress walls above, reachable by a short climb for views over Selcuk and, on clear days, toward the Aegean
 
-The hilltop position means you also get a panoramic look at the Temple of Artemis ruins below and the plains stretching toward Ephesus — a useful way to mentally map the ancient region before or after visiting the bigger site.
+The hilltop position means you also get a panoramic look at the Temple of Artemis ruins below and the plains stretching toward Ephesus, a useful way to mentally map the ancient region before or after visiting the bigger site.
 
 ## When to go
 
-The basilica is open daily from 8am to 6pm year-round, so there's no need to guess at hours before setting out. Early morning, right after opening, is the most comfortable time — the hill has no shade and midday sun on white marble gets intense by late spring.
+The basilica is open daily from 8am to 6pm year-round, so there's no need to guess at hours before setting out. Early morning, right after opening, is the most comfortable time. The hill has no shade and midday sun on white marble gets intense by late spring.
 
 Spring and autumn are the most forgiving seasons weather-wise. Summer visits are best done before 10am or after 4pm, both to dodge the heat and the tour groups who tend to arrive mid-morning after finishing Ephesus.
 
@@ -92,9 +92,9 @@ Spring and autumn are the most forgiving seasons weather-wise. Summer visits are
 This is a well-known stop on the Ephesus circuit, not a quiet secret, so plan around the crowds rather than expecting to avoid them entirely.
 
 - Buy tickets on-site or with the regional museum pass if you're combining several Selcuk sites in one day
-- Wear real shoes — the ground is uneven gravel and broken stone, not paved paths
+- Wear real shoes. The ground is uneven gravel and broken stone, not paved paths
 - Bring water and a hat; there's little shade anywhere on the hill
 - Pay by card if possible, but keep some cash for small vendors near the entrance
 - Visit before or after Ephesus, not squeezed in the same crowded midday window
 
-Most tourists rush straight to the tomb columns and miss the fortress walk above, which takes only ten extra minutes and gives the best sense of why Justinian chose this hill in the first place. Take that extra loop — it's the part most people skip, and the view is worth the climb.
+Most tourists rush straight to the tomb columns and miss the fortress walk above, which takes only ten extra minutes and gives the best sense of why Justinian chose this hill in the first place. Take that extra loop. It's the part most people skip, and the view is worth the climb.

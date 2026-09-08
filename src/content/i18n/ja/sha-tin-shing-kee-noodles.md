@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: sha-tin-shing-kee-noodles
-srcHash: 'c8ac7ba12758'
+srcHash: '5cdc0772a349'
 title: 誠記麺家(Shing Kee Noodles):沙田(Sha Tin)のおすすめグルメ(4.2★)
 description: 誠記麺家(Shing Kee Noodles)は、沙田(Sha Tin)の古い瀝源邨(Lek Yuen Estate)市場に佇む飾り気のない広東麺の店で、使い古されたブリキのテーブルで供されるワンタン麺、お粥、焼き物で知られています。4.2★(1,200件のレビュー)——訪問者の声、営業時間、訪問のコツをご紹介。
 quickAnswer: 誠記麺家(Shing Kee Noodles)は、沙田(Sha Tin)の古い瀝源邨(Lek Yuen Estate)市場に佇む飾り気のない広東麺の店で、使い古されたブリキのテーブルで供されるワンタン麺、お粥、焼き物で知られています。開店直後の午前6時、または週末なら午前7時〜8時の時間帯を狙って訪れましょう。午前10時から午後9時まで混雑が続くためです。毎日午後4時〜7時は休憩時間となり、閉店は午後11時です。現金を持参し、相席になることを覚悟しておきましょう。

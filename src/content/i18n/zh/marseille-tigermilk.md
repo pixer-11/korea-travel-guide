@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-tigermilk
-srcHash: '3567162e9741'
+srcHash: 'd69b7db332fa'
 title: Tigermilk：马赛旅行指南
 description: Tigermilk 位于法国马赛(Marseille)——一处新晋热门去处：它是什么、位于何处、以及如何前往游览。
 quickAnswer: Tigermilk 马赛店是这家以南美风情为灵感的餐厅集团的第十家分店，坐落在一栋令人眼前一亮的 350 平方米庄园风格(hacienda-style)建筑内——是这座城市餐饮版图上一处新晋人气去处。前往这里，既是为了体验其戏剧性的建筑空间，也是为了品尝橄汁腌鱼(ceviche)与皮斯科(pisco)风味的南美美食；由于刚刚开业便备受追捧，建议提前预订，并在出发前确认最新的营业时间和预订政策，因为这些信息目前仍在调整中。

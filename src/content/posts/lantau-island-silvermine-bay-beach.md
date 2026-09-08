@@ -74,7 +74,7 @@ draft: false
 
 You step off the boat at Mui Wo and already the pace changes. Hong Kong Island's towers give way to low hills, a slow harbourfront, and the smell of salt and diesel from the ferry pier. Silvermine Bay Beach sits a short walk from that pier, backed by green mountains that fold down almost to the sand.
 
-It's not a dramatic, postcard beach. It's a working neighbourhood beach — locals swim laps, kids build sandcastles near the lifeguard tower, and dogs chase each other along the shallow water's edge.
+It's not a dramatic, postcard beach. It's a working neighbourhood beach, locals swim laps, kids build sandcastles near the lifeguard tower, and dogs chase each other along the shallow water's edge.
 
 ## Getting there
 
@@ -88,32 +88,32 @@ You can also reach Mui Wo by bus or taxi from Tung Chung, on the other side of L
 
 ## What you'll find on the sand
 
-The beach itself is long and gently curved, with soft grey-gold sand and a shallow, calm bay that's genuinely good for swimming, not just wading. A netted swimming area and lifeguard towers operate during the official beach season — check current dates before you go.
+The beach itself is long and gently curved, with soft grey-gold sand and a shallow, calm bay that's genuinely good for swimming, not just wading. A netted swimming area and lifeguard towers operate during the official beach season. Check current dates before you go.
 
 Behind the sand runs a paved promenade shaded by trees, popular with joggers and cyclists in the early morning. Changing rooms, showers, and toilets sit at the beach's edge, functional rather than fancy.
 
-Look toward the water and you'll see the bay curling around toward wooded headlands — this is the "mountain views" the name promises, best in the soft light of late afternoon.
+Look toward the water and you'll see the bay curling around toward wooded headlands. This is the "mountain views" the name promises, best in the soft light of late afternoon.
 
 ## Eating and resting after the beach
 
 Mui Wo village, a few minutes' walk back toward the pier, has a cluster of casual restaurants and cafés facing the water. Expect simple Cantonese seafood, noodle shops, and a few Western-style cafés catering to cyclists and hikers passing through.
 
-Prices run budget-friendly to mid-range — nothing fancy, but reliably fresh given the fishing village roots of the area. Grab a cold drink or a bowl of noodles at a plastic-table spot with the ceiling fans going and watch the ferries come and go.
+Prices run budget-friendly to mid-range, nothing fancy, but reliably fresh given the fishing village roots of the area. Grab a cold drink or a bowl of noodles at a plastic-table spot with the ceiling fans going and watch the ferries come and go.
 
 ## When to go
 
-Weekday mornings are your best window — the beach tends to be quieter earlier in the day, before the day-trip crowds arrive. If you want to swim without dodging inflatables and beach umbrellas, this is it.
+Weekday mornings are your best window, the beach tends to be quieter earlier in the day, before the day-trip crowds arrive. If you want to swim without dodging inflatables and beach umbrellas, this is it.
 
 Weekends are a different story. Throughout the afternoon and into the evening, the beach and the promenade fill with families, barbecue groups, and evening strollers, especially in warmer months. If you must go on a Saturday or Sunday, arrive before noon.
 
 ## How to visit like a local
 
-Locals treat this as a place to exercise and unwind, not a resort beach — think morning swims and evening walks rather than all-day lounging.
+Locals treat this as a place to exercise and unwind, not a resort beach, think morning swims and evening walks rather than all-day lounging.
 
 - **Timing:** Weekday early morning (7–8am) is calmest; avoid weekend afternoons and evenings if you dislike crowds.
 - **Payment:** Small food stalls and some shops may be cash-preferred; restaurants generally take cards or mobile payment (Octopus, Alipay, WeChat Pay).
 - **Etiquette:** Rinse off sand before entering shops or restaurants nearby; keep the promenade clear for cyclists.
-- **Common mistake:** Visitors often treat Mui Wo as a quick photo stop en route to Tung Chung — but the beach rewards a slower half-day, ideally paired with a seafood lunch.
+- **Common mistake:** Visitors often treat Mui Wo as a quick photo stop en route to Tung Chung, but the beach rewards a slower half-day, ideally paired with a seafood lunch.
 - **Bikes:** Renting a bicycle in Mui Wo village to explore the flat coastal roads around the bay is a popular local pastime, and stands are easy to find near the pier.
 
 Combine your visit with the Lantau Trail if you're up for a longer walk, or simply linger over a late lunch once the beach empties out toward evening.

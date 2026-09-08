@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mui-ne-mui-ne-fishing-village
-srcHash: 'c4acd97b8e5b'
+srcHash: 'be3882a3f82f'
 title: 'Aldea de Pescadores de Mui Ne: Guía de Viaje (4.0★)'
 description: 'La Aldea de Pescadores de Mui Ne es un puerto en pleno funcionamiento donde cientos de barcas cesta azules y redondas se mecen ancladas mientras la pesca del día se descarga, se clasifica y se vende directamente sobre la arena. 4.0★ (3.415 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Aldea de Pescadores de Mui Ne es un puerto en pleno funcionamiento donde cientos de barcas cesta azules y redondas se mecen ancladas mientras la pesca del día se descarga, se clasifica y se vende directamente sobre la arena. Conviene ir al amanecer, entre las 5:30 y las 7:00 aproximadamente, que es cuando regresan los barcos y el mercado está más animado. Caminar por la orilla es gratis; hay que calcular entre 45 y 60 minutos, más si se come en algún puesto de mariscos cercano.

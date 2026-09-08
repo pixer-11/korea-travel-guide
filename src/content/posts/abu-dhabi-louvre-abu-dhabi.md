@@ -116,7 +116,7 @@ Inside, the concept is just as bold: art arranged not by country but by shared h
 
 Louvre Abu Dhabi sits on Saadiyat Island, about 20-30 minutes by taxi or rideshare from central Abu Dhabi and roughly 45 minutes from Dubai depending on traffic. There's no metro line to the island, so most visitors arrive by car, taxi, or an organized shuttle/tour bus.
 
-If you're driving, on-site parking is available and well signed once you're on Saadiyat. Book your timed-entry ticket online in advance — walk-up lines build fast on weekends, and advance booking also locks in your entry slot.
+If you're driving, on-site parking is available and well signed once you're on Saadiyat. Book your timed-entry ticket online in advance. Walk-up lines build fast on weekends, and advance booking also locks in your entry slot.
 
 ## What to see
 
@@ -129,7 +129,7 @@ Don't miss:
 - The outer promenade beneath the dome after sunset, when the star-pattern light show is at its most dramatic
 - The rotating special exhibitions, often loans from the Louvre in Paris or other partner institutions
 
-Outside, the museum is genuinely surrounded by water — the Gulf laps right up against the exterior walls, and kayaking tours around the building's perimeter are available, giving a totally different angle on the architecture than you get from inside.
+Outside, the museum is genuinely surrounded by water, the Gulf laps right up against the exterior walls, and kayaking tours around the building's perimeter are available, giving a totally different angle on the architecture than you get from inside.
 
 ## When to go
 
@@ -147,8 +147,8 @@ If you'd rather eat off-site, Saadiyat Island has a handful of beach clubs and h
 
 Louvre Abu Dhabi is one of the most-visited attractions in the UAE, so treat it like a busy museum, not a quiet find. The way to beat the crowds is timing: go right at 10am opening on a weekend, or any weekday morning, rather than the mid-afternoon rush.
 
-Buy your ticket online ahead of time — it's the standard way locals and residents visit, since it skips the ticket-counter queue entirely and lets you walk straight to security. Payment on-site is by card or mobile pay as much as cash.
+Buy your ticket online ahead of time. It's the standard way locals and residents visit, since it skips the ticket-counter queue entirely and lets you walk straight to security. Payment on-site is by card or mobile pay as much as cash.
 
-Dress is smart-casual and modest, in line with UAE norms generally, though the museum itself is relaxed compared to religious sites. The mistake most first-time visitors make is trying to see everything in one rushed sweep — the layout invites slow wandering between civilizations, and rushing defeats the point.
+Dress is smart-casual and modest, in line with UAE norms generally, though the museum itself is relaxed compared to religious sites. The mistake most first-time visitors make is trying to see everything in one rushed sweep, the layout invites slow wandering between civilizations, and rushing defeats the point.
 
 Photography without flash is generally permitted in the galleries, so bring a phone or camera but skip the flash out of respect for the artworks. If you can, stay until after sunset on a Friday, Saturday, or Sunday visit; the illuminated dome from the outer causeway is the single most photographed view of the building for good reason.

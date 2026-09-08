@@ -68,7 +68,7 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Labuan Bajo's harborfront is dense with boat operators, dive shops, and tourist-menu restaurants, but Mimamori Cafe sits a little apart from that scrum on Jl. Soekarno Hatta, the town's main arterial road. It's built its reputation the slow way — a 4.8 rating across 856 reviews is unusually high for a coffee shop in a town that turns over tourists fast, and it hasn't yet been absorbed into the standard tour-agent circuit.
+Labuan Bajo's harborfront is dense with boat operators, dive shops, and tourist-menu restaurants, but Mimamori Cafe sits a little apart from that scrum on Jl. Soekarno Hatta, the town's main arterial road. It's built its reputation the slow way, a 4.8 rating across 856 reviews is unusually high for a coffee shop in a town that turns over tourists fast, and it hasn't yet been absorbed into the standard tour-agent circuit.
 
 That makes it a genuinely relaxed option if you want a proper coffee, a plate of food that isn't rushed, and a place to sit with a laptop or a guidebook without waiters hovering for the next seating.
 
@@ -80,18 +80,18 @@ There's no public bus network to speak of, so arrange transport through your acc
 
 ## What to see and eat
 
-This is a coffee-forward menu: expect espresso-based drinks (flat whites, cappuccinos, iced lattes), some cold brew, and likely a handful of Indonesian coffee preparations alongside imported beans. Cafes of this style in Labuan Bajo typically pair the drinks list with all-day brunch plates — think eggs, toast, smoothie bowls, and a few local-leaning dishes — so it works equally well for an early breakfast before a Komodo National Park boat departure or a late-afternoon recharge after a day on the water.
+This is a coffee-forward menu: expect espresso-based drinks (flat whites, cappuccinos, iced lattes), some cold brew, and likely a handful of Indonesian coffee preparations alongside imported beans. Cafes of this style in Labuan Bajo typically pair the drinks list with all-day brunch plates (think eggs, toast, smoothie bowls, and a few local-leaning dishes), so it works equally well for an early breakfast before a Komodo National Park boat departure or a late-afternoon recharge after a day on the water.
 
 The setting tends toward clean, photogenic interiors with good natural light, which explains part of its social-media following, but the appeal holds up beyond the photos: a calm room, functioning wifi, and cold drinks after the heat of Flores are worth more than they sound. Budget an hour for a coffee and light bite, or linger up to two hours if you're working or waiting out the midday sun.
 
 ## When to go
 
-Labuan Bajo's dry season, roughly April through November, is peak travel time and when the town is busiest overall — book boats and popular dive slots ahead during these months. Within any given day, mornings before 9am and the mid-afternoon lull (roughly 2–4pm) tend to be quieter at cafes like this one, since most visitors are either out on Komodo/Padar/Rinca boat trips or clustered at sunset spots along the harbor in the evening.
+Labuan Bajo's dry season, roughly April through November, is peak travel time and when the town is busiest overall. Book boats and popular dive slots ahead during these months. Within any given day, mornings before 9am and the mid-afternoon lull (roughly 2–4pm) tend to be quieter at cafes like this one, since most visitors are either out on Komodo/Padar/Rinca boat trips or clustered at sunset spots along the harbor in the evening.
 
 If your schedule allows, a weekday visit outside of breakfast rush will almost always be calmer than a weekend morning.
 
 ## How to visit like a local
 
-Go early — right at opening or in that early-afternoon gap — since Mimamori isn't yet a fixture on the big group-tour itineraries, and keeping it that way for your own visit means avoiding the hours when cruise-adjacent groups and day-trippers pass through. Payment in Labuan Bajo cafes is increasingly by card or QRIS (Indonesia's mobile QR payment system), but it's still smart to carry some cash in rupiah as backup, since connectivity and card machines can be inconsistent outside the main hotels.
+Go early, right at opening or in that early-afternoon gap, since Mimamori isn't yet a fixture on the big group-tour itineraries, and keeping it that way for your own visit means avoiding the hours when cruise-adjacent groups and day-trippers pass through. Payment in Labuan Bajo cafes is increasingly by card or QRIS (Indonesia's mobile QR payment system), but it's still smart to carry some cash in rupiah as backup, since connectivity and card machines can be inconsistent outside the main hotels.
 
-Tipping isn't obligatory the way it is in the US; rounding up or leaving small change is appreciated but not expected. If you want a table for working or lingering, order a second drink rather than nursing one for hours — it's a small courtesy that keeps turnover fair during busier stretches. The most common visitor mistake is treating this purely as an Instagram stop and rushing through; slow down, ask staff for their actual bestseller rather than defaulting to a familiar order, and treat it as a genuine pre- or post-boat pit stop rather than a five-minute photo op.
+Tipping isn't obligatory the way it is in the US; rounding up or leaving small change is appreciated but not expected. If you want a table for working or lingering, order a second drink rather than nursing one for hours. It's a small courtesy that keeps turnover fair during busier stretches. The most common visitor mistake is treating this purely as an Instagram stop and rushing through; slow down, ask staff for their actual bestseller rather than defaulting to a familiar order, and treat it as a genuine pre- or post-boat pit stop rather than a five-minute photo op.

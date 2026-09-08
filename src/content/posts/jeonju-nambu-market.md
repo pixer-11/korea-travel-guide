@@ -85,7 +85,7 @@ updatedDate: '2026-09-05'
 
 ## Why Nambu Market is worth the walk
 
-You smell it before you see it. Fermenting soybean paste, grilling mackerel, sugar syrup bubbling for hotteok — the air outside Pungnammun Gate is already telling you what's inside.
+You smell it before you see it. Fermenting soybean paste, grilling mackerel, sugar syrup bubbling for hotteok. The air outside Pungnammun Gate is already telling you what's inside.
 
 Nambu Market isn't dressed up for tourists. It's a working market, the kind Jeonju families have shopped at for generations, and that grit is exactly the point.
 
@@ -93,29 +93,29 @@ Nambu Market isn't dressed up for tourists. It's a working market, the kind Jeon
 
 The market sits at 19-3 Pungnammun 1-gil in Wansan-gu, right beside Pungnammun Gate, one of Jeonju's last surviving old city gates. It's a five-minute walk south from the edge of Jeonju Hanok Village, so most visitors fold it into a hanok-village stroll rather than making a special trip.
 
-There's no subway in Jeonju — you'll arrive by bus, taxi, or on foot from your hanok guesthouse. Look for the covered arcades and the gate's stone silhouette; that's your landmark.
+There's no subway in Jeonju. You'll arrive by bus, taxi, or on foot from your hanok guesthouse. Look for the covered arcades and the gate's stone silhouette; that's your landmark.
 
 ## What you'll find inside
 
 The ground floor is the traditional market proper: rows of banchan (side dishes), dried fish, sesame oil pressed on the spot, seasonal produce, and stalls selling handmade brassware and fabric.
 
 Look for:
-- **Kongnamul gukbap** — bean sprout soup and rice, a Jeonju specialty and hangover cure
+- **Kongnamul gukbap**, bean sprout soup and rice, a Jeonju specialty and hangover cure
 - **Modu (rice cake) and hotteok** stalls near the covered lanes
 - **Makgeolli** poured from unmarked kettles at tiny standing bars
 - **Dried anchovies, gochujang, and doenjang** sold by the block or scoop
 
-Upstairs and in the adjoining alleys, the Nambu Market Youth Mall has repurposed old market units into small cafés, craft shops, and galleries run by younger vendors — a deliberate effort to keep the market alive as shopping habits shift elsewhere.
+Upstairs and in the adjoining alleys, the Nambu Market Youth Mall has repurposed old market units into small cafés, craft shops, and galleries run by younger vendors, a deliberate effort to keep the market alive as shopping habits shift elsewhere.
 
 ## The night market: a different market after dark
 
-On Friday and Saturday evenings, a separate night market spills through the lanes with street-food stalls, performers, and craft tables lit by string lights and paper lanterns. This is when Nambu Market gets loud, crowded, and genuinely festive — closer to a street festival than a grocery run.
+On Friday and Saturday evenings, a separate night market spills through the lanes with street-food stalls, performers, and craft tables lit by string lights and paper lanterns. This is when Nambu Market gets loud, crowded, and genuinely festive, closer to a street festival than a grocery run.
 
 If you're only visiting once, an evening on the market's designated night-market days shows a different personality than the same space at 9am.
 
 ## When to go
 
-The market runs 6am to 10pm every day of the week, so there's no wrong hour on paper — but the experience shifts hugely by time.
+The market runs 6am to 10pm every day of the week, so there's no wrong hour on paper, but the experience shifts hugely by time.
 
 Weekend afternoons from 4pm onward are the busiest stretch, when both regular shoppers and night-market crowds converge. If you want breathing room, weekdays around 9–10pm are consistently the quietest window, once dinner stalls wind down but before full closing.
 
@@ -123,13 +123,13 @@ Mornings are best for produce shopping and watching vendors set up; evenings are
 
 ## How to visit like a local
 
-Nambu Market is firmly on the tourist map now, rated well and reviewed by thousands, so don't expect an undiscovered corner — expect a busy, functioning market that tourists have layered onto, not replaced.
+Nambu Market is firmly on the tourist map now, rated well and reviewed by thousands, so don't expect an undiscovered corner. Expect a busy, functioning market that tourists have layered onto, not replaced.
 
 - **Pay in cash where you can.** Many older stalls still prefer it, though card acceptance has grown; small bills make small purchases painless.
-- **Order by pointing or short phrases** — "kongnamul gukbap hana juseyo" (one bean sprout soup, please) goes a long way.
+- **Order by pointing or short phrases**, "kongnamul gukbap hana juseyo" (one bean sprout soup, please) goes a long way.
 - **Skip the 4pm–10pm weekend crush** if you dislike crowds; aim for a weekday evening near closing instead, or a quiet weekday morning for shopping.
-- **Don't just browse the food stalls** — the produce and dry-goods section on the ground floor is where the market's real daily rhythm lives.
+- **Don't just browse the food stalls**, the produce and dry-goods section on the ground floor is where the market's real daily rhythm lives.
 - **Bring an appetite, not a itinerary.** This isn't a fifteen-minute photo stop; grazing your way through takes an hour or more.
 
-The mistake most visitors make is treating Nambu Market as only a night-market food stop. Come once during the day and once in the evening if you have the time — they're almost different places.
+The mistake most visitors make is treating Nambu Market as only a night-market food stop. Come once during the day and once in the evening if you have the time. They're almost different places.
 

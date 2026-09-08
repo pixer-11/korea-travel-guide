@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-glam-kampong-glam
-srcHash: '04e9a89e0b62'
+srcHash: '99ca219f932b'
 title: 'Kampong Glam: Guía de viaje'
 description: Kampong Glam es el histórico barrio malayo-musulmán de Singapur, con la mezquita de cúpula dorada Masjid Sultan y la peatonal Bussorah Street como sus grandes referentes.
 quickAnswer: Kampong Glam es el histórico barrio malayo-musulmán de Singapur, con la mezquita de cúpula dorada Masjid Sultan y la peatonal Bussorah Street que conduce hasta ella. Dedica de 2 a 3 horas a recorrer Bussorah Street, las tiendas de textiles de Arab Street y el arte callejero de Haji Lane; ve una mañana entre semana para verlo antes de que lleguen las multitudes del almuerzo y de la noche. La estación de MRT más cercana es Bugis (líneas East-West y Downtown), a unos 7-10 minutos a pie.

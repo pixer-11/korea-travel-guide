@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: shanghai-illum
-srcHash: '5946365b8d27'
+srcHash: 'dd9159ec2662'
 title: Illum：上海旅行指南
 description: 上海的Illum——一个正在爆红的新去处：它是什么、在哪里、以及怎么去。
 quickAnswer: Illum是长宁区C-Park商场地下层新开的地下俱乐部之一,属于2026年初开业的一批livehouse和舞池新秀(还包括Specters、Reactor和Sympathy Angel),迅速成为上海年轻的rave、朋克和时尚圈子的聚集地。要晚点去——这个圈子要到晚饭后很久才会热闹起来——出发前务必确认好营业时间以及是否需要购票或预约,因为这些场地才刚刚起步,细节仍在不断调整中。

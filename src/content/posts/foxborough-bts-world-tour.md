@@ -48,7 +48,7 @@ For ARMY on the East Coast, this was the closest full-stadium show to New Englan
 
 Gillette Stadium sits in Foxborough, about 22 miles southwest of downtown Boston, at the Patriot Place complex. There's no direct subway line to the stadium, so most out-of-town visitors either drive in and use event parking lots on-site, or take the MBTA commuter rail's special event service from Boston's South Station to the Foxboro station, which runs on select event days with a walk of roughly a mile to the stadium gates.
 
-Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, which adds walking time at both ends. For drivers, lot traffic backs up for hours after a stadium show — leaving the parking area promptly or waiting out the initial crush are the two realistic options.
+Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, which adds walking time at both ends. For drivers, lot traffic backs up for hours after a stadium show, leaving the parking area promptly or waiting out the initial crush are the two realistic options.
 
 ## What to expect on show day
 
@@ -56,14 +56,14 @@ Concerts of this scale at Gillette usually mean gates opening a few hours before
 
 ## Where to stay and eat nearby
 
-Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue — useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors base themselves in Providence, RI, or the Boston/Norwood/Dedham area and drive or train in, especially across a two-night stand, when demand for nearby rooms is at its highest.
+Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue, useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors base themselves in Providence, RI, or the Boston/Norwood/Dedham area and drive or train in, especially across a two-night stand, when demand for nearby rooms is at its highest.
 
 ## When to arrive and how long to stay
 
-A stadium show of this size takes a full evening: gates hours before the show, a performance that typically runs two-plus hours for major K-pop stadium tours, and then a slow exit process afterward. Show day at Gillette works as its own dedicated day — traffic and crowd logistics around the stadium make it impractical to fit much Boston sightseeing in beforehand.
+A stadium show of this size takes a full evening: gates hours before the show, a performance that typically runs two-plus hours for major K-pop stadium tours, and then a slow exit process afterward. Show day at Gillette works as its own dedicated day, traffic and crowd logistics around the stadium make it impractical to fit much Boston sightseeing in beforehand.
 
 ## How to visit like a local
 
-New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock — the trade-off is the walk from Foxboro station. The crowd for a BTS stadium show tends to be intensely global and multigenerational rather than purely local, so shared-fan etiquette matters: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants helps fans follow along rather than feel lost.
+New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock. The trade-off is the walk from Foxboro station. The crowd for a BTS stadium show tends to be intensely global and multigenerational rather than purely local, so shared-fan etiquette matters: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants helps fans follow along rather than feel lost.
 
-Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so cash isn't something to rely on. The most common visitor mistake is underestimating exit logistics — leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear are really the only two options, and deciding in advance beats getting stuck in the scrum.
+Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so cash isn't something to rely on. The most common visitor mistake is underestimating exit logistics, leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear are really the only two options, and deciding in advance beats getting stuck in the scrum.

@@ -65,7 +65,7 @@ The whale sharks are the headline. But the real pleasure is how the whole place 
 
 ## Getting there
 
-Ocean Expo Park sits in Motobu, Kunigami District, about 90 minutes north of Naha by car or expressway bus. Most visitors rent a car — there's no train service on Okinawa's main island, and this stretch of coast is built for driving.
+Ocean Expo Park sits in Motobu, Kunigami District, about 90 minutes north of Naha by car or expressway bus. Most visitors rent a car. There's no train service on Okinawa's main island, and this stretch of coast is built for driving.
 
 Highway buses run from Naha Bus Terminal and take roughly two hours depending on traffic. If you're staying near Nago or the Churaura resorts, it's a much shorter hop.
 
@@ -77,20 +77,20 @@ Parking is plentiful and free, spread across several numbered lots. Lot targets:
 
 ## What to see beyond the aquarium
 
-The Churaumi Aquarium is the reason most people book the trip — its Kuroshio Tank, a wall of glass holding whale sharks and manta rays, is genuinely one of the largest single aquarium tanks in the world. Budget two to three hours here alone.
+The Churaumi Aquarium is the reason most people book the trip, its Kuroshio Tank, a wall of glass holding whale sharks and manta rays, is genuinely one of the largest single aquarium tanks in the world. Budget two to three hours here alone.
 
 Outside, the park keeps giving:
 
-- Emerald Beach — a manmade swimming beach with calm, shallow water, open seasonally
-- Tropical Dream Center — greenhouses of orchids and tropical plants, quieter than the aquarium
-- Okinawa Traditional Village — an open-air museum of relocated old farmhouses and gardens
+- Emerald Beach, a manmade swimming beach with calm, shallow water, open seasonally
+- Tropical Dream Center, greenhouses of orchids and tropical plants, quieter than the aquarium
+- Okinawa Traditional Village. An open-air museum of relocated old farmhouses and gardens
 - Oceanic Culture Museum and a planetarium, both low-key and easy to skip if short on time
 
-Walking between sections takes time — this is a genuine park, not a single building — so wear shoes you can walk in for a few kilometers total.
+Walking between sections takes time (this is a genuine park, not a single building), so wear shoes you can walk in for a few kilometers total.
 
 ## When to go
 
-The park is open daily, 8:00 AM to 6:00 PM, year-round. Peak crowding hits during Japanese school holidays — late July through August, and around Golden Week in early May.
+The park is open daily, 8:00 AM to 6:00 PM, year-round. Peak crowding hits during Japanese school holidays, late July through August, and around Golden Week in early May.
 
 Summer brings the best beach weather but also heat that makes midday walking between sections uncomfortable. Spring (March–April) and autumn (October–November) offer milder temperatures and thinner crowds.
 
@@ -98,13 +98,13 @@ Whichever season, aim for the first hour after opening. Tour groups tend to arri
 
 ## How to visit like a local
 
-Because this is one of Okinawa's most-visited attractions, the smart move isn't finding a quiet version of it — it's timing your visit to dodge the peak. Arrive right at 8am or after 4pm, when tour buses have cleared out and the aquarium's Kuroshio Tank room briefly empties.
+Because this is one of Okinawa's most-visited attractions, the smart move isn't finding a quiet version of it. It's timing your visit to dodge the peak. Arrive right at 8am or after 4pm, when tour buses have cleared out and the aquarium's Kuroshio Tank room briefly empties.
 
 Buy your aquarium ticket online in advance where possible; it saves a queue at the counter and lets you walk straight to the turnstile. Most food stalls and the aquarium ticket counters accept credit cards and Japan's IC transit cards (Suica, ICOCA), though carrying some cash is still wise for smaller vendors.
 
-Don't rush straight to the whale sharks and leave. The mistake most first-timers make is treating this as an aquarium visit with a park attached, when it's really the reverse — the aquarium is one stop inside a much larger grounds.
+Don't rush straight to the whale sharks and leave. The mistake most first-timers make is treating this as an aquarium visit with a park attached, when it's really the reverse. The aquarium is one stop inside a much larger grounds.
 
-Pack a swimsuit if you're visiting in warmer months; Emerald Beach is free and uncrowded compared to the aquarium queues. Sunscreen and a hat matter more than most visitors expect — there's a lot of open, shadeless walking between the gardens and the museum village.
+Pack a swimsuit if you're visiting in warmer months; Emerald Beach is free and uncrowded compared to the aquarium queues. Sunscreen and a hat matter more than most visitors expect. There's a lot of open, shadeless walking between the gardens and the museum village.
 
 Lastly, check the aquarium's night-viewing hours if you're around at closing time. The tanks take on a different, calmer character as the crowds thin toward 6pm.
 

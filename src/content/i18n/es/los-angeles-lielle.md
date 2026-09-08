@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-lielle
-srcHash: 'f3ea863b4ecc'
+srcHash: '672e87d6c846'
 title: 'Lielle: dónde comer en Los Ángeles'
 description: 'Lielle, en Los Ángeles (Estados Unidos), es uno de los locales del momento: qué es, dónde queda y cómo conseguir mesa.'
 quickAnswer: 'Lielle es el primer restaurante americano del chef Marcus Jernmark: un local pequeño de menú degustación de cuatro tiempos que cambia con las estaciones y que él mismo describe como "bistronomía californiana", una versión más ligera y centrada en el producto de la cocina de menú degustación que hacía como director culinario del Frantzén de Estocolmo. Acaba de abrir y ya figura entre los 10 mejores restaurantes nuevos de Estados Unidos para 2026 según Robb Report, así que conviene reservar con antelación y confirmar el horario antes de ir, ya que ambas cosas pueden cambiar a medida que se estabiliza la demanda.'

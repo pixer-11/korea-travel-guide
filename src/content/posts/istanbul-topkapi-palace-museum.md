@@ -95,7 +95,7 @@ Its rating (4.6 from well over 100,000 reviews) reflects both the scale of the s
 
 ## Getting there
 
-The entrance is at Bab-ı Hümayun Caddesi No: 1 in the Cankurtaran/Fatih district, at the far end of the same peninsula park that connects Hagia Sophia and the Blue Mosque. The closest transit stop is Sultanahmet on the T1 tram line, about a 10-minute walk downhill through Gülhane Park, which itself was once the palace's outer garden. If arriving by tram from the airport side or Kabataş, ride to Gülhane station instead — it's slightly closer and drops you right at the park's edge.
+The entrance is at Bab-ı Hümayun Caddesi No: 1 in the Cankurtaran/Fatih district, at the far end of the same peninsula park that connects Hagia Sophia and the Blue Mosque. The closest transit stop is Sultanahmet on the T1 tram line, about a 10-minute walk downhill through Gülhane Park, which itself was once the palace's outer garden. If arriving by tram from the airport side or Kabataş, ride to Gülhane station instead. It's slightly closer and drops you right at the park's edge.
 
 There is no dedicated metro stop; taxis and the T1 tram are the practical options, and Eminönü's ferry docks are a 15-minute walk downhill for anyone coming across the Golden Horn.
 
@@ -103,19 +103,19 @@ There is no dedicated metro stop; taxis and the T1 tram are the practical option
 
 The palace unfolds through four courtyards. The First Courtyard (free to enter) holds the Byzantine-era Hagia Irene church, used mostly for concerts and not always open to the public. The ticketed area begins at the Gate of Salutation into the Second Courtyard, flanked by the old Palace Kitchens (now displaying Chinese celadon and Ottoman kitchenware) and the Divan, where the imperial council met.
 
-The Third Courtyard holds the Treasury and the Sacred Relics rooms — both routinely the most crowded stops — plus the Sultan's portrait gallery. The Fourth Courtyard's tiled kiosks (Baghdad Kiosk, Revan Kiosk) and terraced gardens give the best Bosphorus views in the complex and tend to be quieter since many visitors skip that far. The Harem requires a separate ticket and entry point near the Second Courtyard; it's worth the extra time for the Courtyard of the Valide Sultan and the Privy Chamber of Murad III, one of the best-preserved Iznik-tiled interiors anywhere.
+The Third Courtyard holds the Treasury and the Sacred Relics rooms, both routinely the most crowded stops, plus the Sultan's portrait gallery. The Fourth Courtyard's tiled kiosks (Baghdad Kiosk, Revan Kiosk), and terraced gardens give the best Bosphorus views in the complex and tend to be quieter since many visitors skip that far. The Harem requires a separate ticket and entry point near the Second Courtyard; it's worth the extra time for the Courtyard of the Valide Sultan and the Privy Chamber of Murad III, one of the best-preserved Iznik-tiled interiors anywhere.
 
 ## When to go
 
-Istanbul's high season (May–September) brings serious crowds, especially between 10am and 2pm. Check opening days before you go, since museum sites in Istanbul often close one day a week. Winter mornings, right at opening, are the calmest window overall. Whatever the season, the Treasury and Harem form separate bottlenecks — visiting one at opening and saving the other for an hour before closing helps spread out the wait.
+Istanbul's high season (May–September) brings serious crowds, especially between 10am and 2pm. Check opening days before you go, since museum sites in Istanbul often close one day a week. Winter mornings, right at opening, are the calmest window overall. Whatever the season, the Treasury and Harem form separate bottlenecks, visiting one at opening and saving the other for an hour before closing helps spread out the wait.
 
 ## How to visit like a local
 
-This is one of Istanbul's most-visited sites, so the goal isn't finding a quiet version of it — it's managing the crowds intelligently. Book timed-entry tickets online in advance rather than queuing at the gate; the ticket booths regularly sell out same-day entry slots in high season. Buy the Harem ticket at the same time as your general admission, since its separate line moves faster earlier in the day.
+This is one of Istanbul's most-visited sites, so the goal isn't finding a quiet version of it. It's managing the crowds intelligently. Book timed-entry tickets online in advance rather than queuing at the gate; the ticket booths regularly sell out same-day entry slots in high season. Buy the Harem ticket at the same time as your general admission, since its separate line moves faster earlier in the day.
 
-Most visitors funnel straight to the Treasury first, so reversing the order — starting in the Fourth Courtyard gardens and working backward — avoids the worst bunching. Payment for tickets is by card or through the official e-ticket system rather than cash. There's no tipping expectation inside the museum itself, though guides working the entrance plaza are freelance and negotiate their own rates if you want one.
+Most visitors funnel straight to the Treasury first, so reversing the order, starting in the Fourth Courtyard gardens and working backward, avoids the worst bunching. Payment for tickets is by card or through the official e-ticket system rather than cash. There's no tipping expectation inside the museum itself, though guides working the entrance plaza are freelance and negotiate their own rates if you want one.
 
-Modest dress isn't required here (unlike the Blue Mosque nearby), but comfortable shoes matter more than usual — the courtyards are cobbled and the walk from entrance to the Fourth Courtyard's far end is longer than it looks on a map. The most common mistake is treating Topkapi as a one-hour add-on to Hagia Sophia; the complex genuinely needs three hours minimum, more like four with the Harem, and rushing means missing the quieter Fourth Courtyard entirely.
+Modest dress isn't required here (unlike the Blue Mosque nearby), but comfortable shoes matter more than usual. The courtyards are cobbled and the walk from entrance to the Fourth Courtyard's far end is longer than it looks on a map. The most common mistake is treating Topkapi as a one-hour add-on to Hagia Sophia; the complex genuinely needs three hours minimum, more like four with the Harem, and rushing means missing the quieter Fourth Courtyard entirely.
 
 ## Nearby
 

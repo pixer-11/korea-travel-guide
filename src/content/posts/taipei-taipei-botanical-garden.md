@@ -73,13 +73,13 @@ draft: false
 ---
 ## Why go
 
-You come here for the quiet the moment you step off Nanhai Road. Traffic noise falls away under a canopy of banyans and bamboo, and the air smells faintly of wet soil and lotus. With a rating hovering around 4.6 from nearly 12,000 visitors, it's one of Taipei's most consistently loved green spaces — not a secret, but a genuine local institution.
+You come here for the quiet the moment you step off Nanhai Road. Traffic noise falls away under a canopy of banyans and bamboo, and the air smells faintly of wet soil and lotus. With a rating hovering around 4.6 from nearly 12,000 visitors, it's one of Taipei's most consistently loved green spaces, not a secret, but a genuine local institution.
 
 ## Getting there
 
 The garden sits in Zhongzheng District at No. 53, Nanhai Road, wedged between the National Museum of History and the Taipei Botanical Garden's own herbarium buildings. The closest MRT stop is Xiaonanmen Station on the Songshan–Xindian Line, a five-minute walk away.
 
-If you're coming from Ximending or the main station area, it's an easy add-on to a morning of museum-hopping — the National Taiwan Museum's Nanmen Park branch and the Presidential Office Building are both within walking distance.
+If you're coming from Ximending or the main station area, it's an easy add-on to a morning of museum-hopping, the National Taiwan Museum's Nanmen Park branch and the Presidential Office Building are both within walking distance.
 
 ## What to see
 
@@ -92,22 +92,22 @@ Beyond the pond, wander the themed collection areas:
 - A bamboo grove where the light comes through in narrow green shafts
 - Several smaller ponds tucked behind hedges, good for slow loops away from the crowds
 
-Birdwatchers linger near the water's edge at dawn — egrets, herons, and the occasional kingfisher are regulars, and you'll spot camera lenses the length of your arm propped on tripods along the paths.
+Birdwatchers linger near the water's edge at dawn, egrets, herons, and the occasional kingfisher are regulars, and you'll spot camera lenses the length of your arm propped on tripods along the paths.
 
 ## When to go
 
-The garden opens early, 5:30am, and stays open until 9pm every day of the week — plenty of room to fit around a Taipei itinerary. Weekdays between 6pm and 9pm are the quietest stretch, when the day-trippers have gone and the light turns gold through the trees.
+The garden opens early, 5:30am, and stays open until 9pm every day of the week, plenty of room to fit around a Taipei itinerary. Weekdays between 6pm and 9pm are the quietest stretch, when the day-trippers have gone and the light turns gold through the trees.
 
-Weekends are a different story: crowds build steadily from 9am and stay heavy right through to 6pm. If you're visiting on a Saturday or Sunday, get there as close to 7am as you can — that early slot is the only real breathing room before the paths fill in.
+Weekends are a different story: crowds build steadily from 9am and stay heavy right through to 6pm. If you're visiting on a Saturday or Sunday, get there as close to 7am as you can, that early slot is the only real breathing room before the paths fill in.
 
 Lotus season (roughly June to August) draws the biggest weekend crowds of the year, so factor that into timing if you want the boardwalk to yourself.
 
 ## How to visit like a local
 
-You can just walk in — no formalities to plan around. Because it's a well-known spot, not a hidden one, the smart move is timing rather than avoidance: weekday evenings after 6pm, or the first hour after opening on weekends, are your best bets for empty paths.
+You can just walk in, no formalities to plan around. Because it's a well-known spot, not a hidden one, the smart move is timing rather than avoidance: weekday evenings after 6pm, or the first hour after opening on weekends, are your best bets for empty paths.
 
-Bring water and bug spray in summer; the ponds attract mosquitoes by late afternoon. Most locals treat this as a walking-and-photography stop rather than a picnic spot — benches exist, but sprawling out on the lawns isn't really the local habit here.
+Bring water and bug spray in summer; the ponds attract mosquitoes by late afternoon. Most locals treat this as a walking-and-photography stop rather than a picnic spot, benches exist, but sprawling out on the lawns isn't really the local habit here.
 
 The mistake first-time visitors make is rushing through in fifteen minutes on the way to the museum next door. Slow down. Follow the boardwalk to the far side of the lotus pond, where the crowd thins out fast, and you'll get the calm this place is actually known for.
 
-Wear shoes you don't mind getting a little damp — the boardwalk can be slick after Taipei's frequent rain showers, and the paths around the smaller ponds are unpaved gravel.
+Wear shoes you don't mind getting a little damp. The boardwalk can be slick after Taipei's frequent rain showers, and the paths around the smaller ponds are unpaved gravel.

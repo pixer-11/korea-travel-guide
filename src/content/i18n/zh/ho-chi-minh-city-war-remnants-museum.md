@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-war-remnants-museum
-srcHash: '9263f28204f8'
+srcHash: '7b3dd62dcac8'
 title: 战争遗迹博物馆:胡志明市旅行指南
 description: 战争遗迹博物馆位于第3郡武文檀街28号(28 Vo Van Tan Street),从统一宫步行或打车都很方便，距离滨城市场(Ben Thanh Market)一带大约10-15分钟车程。
 quickAnswer: 战争遗迹博物馆位于第3郡武文檀街28号(28 Vo Van Tan Street),从统一宫步行或打车都很方便，距离滨城市场一带大约10-15分钟车程。室外的军事装备展区和室内的摄影展厅内容都比较沉重震撼，建议预留1.5-2.5小时参观。最好选在工作日清晨前往，可以避开旅游团人潮，也能躲开正午最热的时段。

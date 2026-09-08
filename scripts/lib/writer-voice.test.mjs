@@ -73,3 +73,18 @@ test('the visit-report voice itself is kept — this guard must not flatten the 
   assert.ok(/first-hand VISIT REPORT/.test(SRC), 'the visit-report voice instruction is gone');
   assert.ok(/immersive second-person/.test(SRC), 'the immersive second-person instruction is gone');
 });
+
+// 2026-09-08: 픽서님 "글에서 AI 냄새가 나지 않게". 없는 스킬을 찾는 대신 우리
+// 글을 셌다 — 공개 1,422편·946,275단어에 231건, 1,000단어당 0.2건이고 85%는
+// 하나도 없었다. 즉 넓은 문제가 아니라 표현 몇 개에 몰린 문제였다.
+//
+// 그 표현들을 프롬프트가 금지하게 했고, 이 테스트는 그 금지가 **프롬프트에 남아
+// 있는지**를 지킨다. 출력은 흔들리지만 프롬프트에서 빠지면 그 뒤 모든 글이
+// 되돌아간다 — 이 파일의 원래 교훈과 같은 이유다.
+test('프롬프트가 측정된 AI 상투어를 이름으로 금지한다', () => {
+  const measured = ['in the heart of', "isn't just", 'must-visit', 'hidden gem', 'iconic', 'nestled'];
+  for (const phrase of measured) {
+    assert.ok(SRC.includes(phrase), `프롬프트에서 "${phrase}" 금지가 사라졌다`);
+  }
+  assert.match(SRC, /BANNED/, '금지 목록 자체가 사라졌다');
+});

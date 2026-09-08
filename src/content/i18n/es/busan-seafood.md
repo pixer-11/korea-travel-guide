@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-seafood
-srcHash: 'fe0bc8e15b29'
+srcHash: '265c839c2a0b'
 title: Mariscos en Busan
 description: La escena marisquera de Busan gira en torno al Mercado Jagalchi (Jagalchi Market), el mercado de pescado más grande de Corea, donde eliges una captura fresca y te la sirven a la parrilla o como hoe crudo en el piso de arriba.
 quickAnswer: La escena marisquera de Busan gira en torno al Mercado Jagalchi (Jagalchi Market), el mercado de pescado más grande de Corea, donde eliges una captura fresca y te la sirven a la parrilla o como hoe crudo en el piso de arriba. Ve por la mañana para vivir el bullicio, combínalo con la comida callejera del cercano Mercado Gukje (Gukje Market) y toma la Línea 1 del metro de Busan hasta la estación Jagalchi (salida 10).

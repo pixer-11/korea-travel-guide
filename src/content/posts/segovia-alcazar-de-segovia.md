@@ -60,22 +60,22 @@ draft: false
 
 You've probably seen this silhouette before, even if you didn't know its name. The turreted, ship's-prow profile of the Alcázar de Segovia is said to have influenced Walt Disney's fairy-tale castles, and standing at the base of it, on the rocky spur where the Eresma and Clamores rivers meet, you understand why immediately.
 
-The slate-grey witch's-hat roofs catch the light differently through the day — flat and pewter-colored at midday, almost blue-black by early evening. It's dramatic in a way photos undersell.
+The slate-grey witch's-hat roofs catch the light differently through the day, flat and pewter-colored at midday, almost blue-black by early evening. It's dramatic in a way photos undersell.
 
 ## What you'll see inside
 
-Inside, the rooms are heavily restored — a fire gutted much of the interior in 1862 — but the reconstruction leans hard into medieval fantasy rather than dry preservation.
+Inside, the rooms are heavily restored, a fire gutted much of the interior in 1862, but the reconstruction leans hard into medieval fantasy rather than dry preservation.
 
 - The Hall of Kings, its frieze lined with painted statues of Castilian monarchs
 - The Throne Room, with a coffered Mudéjar-style ceiling
 - The armoury, stocked with swords, crossbows, and suits of plate armor
 - The Tower of John II, a narrow spiral climb of over 150 steps
 
-Climb the tower if your knees allow it. The stairwell is tight and the steps uneven, but the payoff is a rooftop view over Segovia's rooftops toward the Guadarrama mountains — worth the burn in your calves.
+Climb the tower if your knees allow it. The stairwell is tight and the steps uneven, but the payoff is a rooftop view over Segovia's rooftops toward the Guadarrama mountains, worth the burn in your calves.
 
 ## Getting there
 
-The Alcázar sits at the western tip of Segovia's old town, at Plaza de la Reina Victoria Eugenia. It's a walkable city — from the Roman Aqueduct, plan on a 15 to 20 minute stroll through the historic center, past the Cathedral, to reach it.
+The Alcázar sits at the western tip of Segovia's old town, at Plaza de la Reina Victoria Eugenia. It's a walkable city, from the Roman Aqueduct, plan on a 15 to 20 minute stroll through the historic center, past the Cathedral, to reach it.
 
 There's no metro here; Segovia is compact and pedestrian-friendly, so most visitors simply walk from wherever they're staying. If you're coming from Madrid, the high-speed train to Segovia-Guiomar takes under 30 minutes, followed by a short bus or taxi ride into town.
 
@@ -89,15 +89,15 @@ Late spring and early autumn bring mild weather without July's heat, which can b
 
 ## How to visit like a local
 
-This isn't an under-the-radar spot — it's a headline attraction, and the ticket line and courtyard both fill up fast. Plan around that reality rather than hoping to dodge it.
+This isn't an under-the-radar spot. It's a headline attraction, and the ticket line and courtyard both fill up fast. Plan around that reality rather than hoping to dodge it.
 
 - Book tickets online in advance; walk-up lines can be long, especially on weekends and holidays
 - Arrive at opening (10am) or in the last two hours before closing for noticeably thinner crowds
-- The tower climb has a separate, timed ticket in some seasons — buy it alongside your main entry so you're not scrambling later
+- The tower climb has a separate, timed ticket in some seasons, buy it alongside your main entry so you're not scrambling later
 - Card payment is standard at the ticket counters, though carrying some cash is sensible for nearby cafés
 - Skip the audio guide rental if you're short on time; posted information in the rooms is thorough enough for a fast pass through
 
-The mistake most first-timers make is treating this as a quick photo stop. Give it genuine time — the armoury and the Hall of Kings both reward slow looking, not a five-minute walkthrough.
+The mistake most first-timers make is treating this as a quick photo stop. Give it genuine time, the armoury and the Hall of Kings both reward slow looking, not a five-minute walkthrough.
 
 ## Nearby to combine
 

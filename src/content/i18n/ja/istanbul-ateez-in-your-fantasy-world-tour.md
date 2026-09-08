@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: istanbul-ateez-in-your-fantasy-world-tour
-srcHash: 'f7bd9352175e'
+srcHash: 'b79297b95850'
 title: ATEEZ「IN YOUR FANTASY」ワールドツアー イスタンブール公演で知っておきたいこと
 description: ATEEZのワールドツアー「IN YOUR FANTASY」に、2026年8月16日のイスタンブール公演が予定されていました。これはトルコで初めて発表された日程です。
 quickAnswer: ATEEZのワールドツアー「IN YOUR FANTASY」は、2026年8月16日にイスタンブールでの公演が予定されており、これは同グループにとって同市初となる公演でした。発表時点では会場名や開場時間、チケットの料金区分は明かされておらず、それらの詳細はATEEZの公式SNSやKQエンタテインメントの発表を通じて案内される形になっていました。

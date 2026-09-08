@@ -43,17 +43,17 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Volleyball in Turkey is not a niche sport — it's a national obsession, and the Turkish women's national team fills arenas the way football clubs fill stadiums elsewhere. Istanbul was set to host a slice of EuroVolley Women 2026, including the final itself on September 6, a rare combination of top-level continental volleyball and a crowd that treats every point like a cup final. Even when Turkey isn't playing, the atmosphere inside the Sinan Erdem Dome — flags, drums, chanting sections — tends to be a spectacle in itself.
+Volleyball in Turkey is not a niche sport (it's a national obsession, and the Turkish women's national team fills arenas the way football clubs fill stadiums elsewhere. Istanbul was set to host a slice of EuroVolley Women 2026, including the final itself on September 6, a rare combination of top-level continental volleyball and a crowd that treats every point like a cup final. Even when Turkey isn't playing, the atmosphere inside the Sinan Erdem Dome) flags, drums, chanting sections, tends to be a spectacle in itself.
 
 ## Getting there
 
-The Sinan Erdem Dome sits on the European side of the city, right on the Marmara Sea coast in Bakırköy district, inside the Ataköy sports complex — the same waterfront cluster that once hosted Olympic-bid facilities. It's a short taxi or metro-plus-tram hop from the historic peninsula: the Metrobüs (Istanbul's dedicated bus-rapid-transit corridor) has a stop within walking distance, and taxis from Sultanahmet or Taksim typically take 25-40 minutes depending on traffic along the coastal road.
+The Sinan Erdem Dome sits on the European side of the city, right on the Marmara Sea coast in Bakırköy district, inside the Ataköy sports complex, the same waterfront cluster that once hosted Olympic-bid facilities. It's a short taxi or metro-plus-tram hop from the historic peninsula: the Metrobüs (Istanbul's dedicated bus-rapid-transit corridor) has a stop within walking distance, and taxis from Sultanahmet or Taksim typically take 25-40 minutes depending on traffic along the coastal road.
 
 From the newer IST airport in the northwest, it's 45 minutes to an hour by car or via the M11/M2 metro combination into town, with a further leg out to Bakırköy for matches.
 
 ## What to expect at the venue
 
-The dome itself is a large, curved indoor arena built into the Ataköy shoreline, with the Sea of Marmara visible from parts of the approach — a genuinely striking setting at dusk, when the building's lights start reflecting off the water. Inside, it follows the standard big-arena rhythm: bag checks at the gate, ticket scans, concourse food stalls, and a bowl of tiered seating that can get loud fast once a set is close.
+The dome itself is a large, curved indoor arena built into the Ataköy shoreline, with the Sea of Marmara visible from parts of the approach, a genuinely striking setting at dusk, when the building's lights start reflecting off the water. Inside, it follows the standard big-arena rhythm: bag checks at the gate, ticket scans, concourse food stalls, and a bowl of tiered seating that can get loud fast once a set is close.
 
 Pool-stage sessions at a venue this size leave room to move around and get closer to the action. Finals nights are a different animal: near-capacity houses, tighter security queues, and a longer walk from public transport drop-off points because of crowd control.
 
@@ -61,15 +61,15 @@ Pool-stage sessions at a venue this size leave room to move around and get close
 
 Bakırköy itself is a workaday, largely residential coastal district rather than a tourist zone, which means a night at the dome pairs naturally with a day spent elsewhere and an evening trip out for the match. The Ataköy marina promenade is a good pre-game stroll, and Beşiktaş and Ortaköy, a bit further up the Bosphorus, make an easy daytime base before a taxi down to Bakırköy for the evening session.
 
-For anyone in town during the group stage, the old city is close enough to fit in the same day — Hagia Sophia, the Blue Mosque, and the Basilica Cistern are all roughly 30-40 minutes away by taxi or tram-plus-transfer.
+For anyone in town during the group stage, the old city is close enough to fit in the same day, Hagia Sophia, the Blue Mosque, and the Basilica Cistern are all roughly 30-40 minutes away by taxi or tram-plus-transfer.
 
 ## When to go
 
-The tournament window was set for August 21 to September 6, 2026, covering roughly two and a half weeks, from pool matches through to the medal rounds. Late August in Istanbul is hot and humid, which pushes most sightseeing into the morning or early evening and leaves the middle of the day for shade or indoor stops. The final was fixed for September 6; the rest — which specific pool matches landed in Istanbul, exact tip-off times, and ticket release dates — came together only months out, as is routine for multi-host tournaments.
+The tournament window was set for August 21 to September 6, 2026, covering roughly two and a half weeks, from pool matches through to the medal rounds. Late August in Istanbul is hot and humid, which pushes most sightseeing into the morning or early evening and leaves the middle of the day for shade or indoor stops. The final was fixed for September 6; the rest (which specific pool matches landed in Istanbul, exact tip-off times, and ticket release dates) came together only months out, as is routine for multi-host tournaments.
 
 ## How to visit like a local
 
-Turkish volleyball crowds turn up dressed in team colors and are in their seats 45-60 minutes before the scheduled start, because the pre-match build-up — music, chants starting up section by section — is half the fun. Tickets for high-demand matches involving the Turkish national team sell out fast, often the moment they go on sale rather than in the week of the match.
+Turkish volleyball crowds turn up dressed in team colors and are in their seats 45-60 minutes before the scheduled start, because the pre-match build-up (music, chants starting up section by section) is half the fun. Tickets for high-demand matches involving the Turkish national team sell out fast, often the moment they go on sale rather than in the week of the match.
 
 Inside, card and mobile payment are standard at concession stands, though smaller vendors near the entrances sometimes prefer cash. The single biggest misconception visitors have is that a ticket for a Turkey match can be bought at the door; in practice those matches are gone in advance, sold through official vendors, with unofficial resale a reliable route to a bad price.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kampot-la-plantation
-srcHash: '5c84be7a767f'
+srcHash: '2c57baa8dc9e'
 title: La Plantation：贡布（Kampot）旅行指南（4.7★）
 description: La Plantation 是柬埔寨贡布郊外博斯亨村（Bosjheng）的一座在产胡椒园，每日上午9点至下午5点开放（周末延长至晚上7点）。4.7★（2,375条评价）——游客真实评价、开放时间与实用建议，一应俱全。
 quickAnswer: La Plantation 是位于柬埔寨贡布郊外博斯亨村（Bosjheng）的一座在产胡椒园，每日上午9点至下午5点开放，周末延长至晚上7点。来这里，你可以免费自行漫步或参加简短的向导讲解，穿行于胡椒藤蔓之间，品尝贡布闻名的红、黑、白三色胡椒，还能在能俯瞰田野的餐厅享用一顿农场直供的午餐。建议挑选工作日的临近中午时段前往，既能避开周末人潮，又能捕捉到拍照的最佳光线。

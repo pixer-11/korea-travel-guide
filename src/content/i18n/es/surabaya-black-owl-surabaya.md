@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: surabaya-black-owl-surabaya
-srcHash: 'c7ec05deccc4'
+srcHash: 'ce653827c6b7'
 title: 'Black Owl: dónde comer en Surabaya'
 description: Black Owl es un café-restaurante moderno y muy bien valorado en Jl. Basuki Rahmat, en el distrito de Tegalsari, en pleno centro de Surabaya, a poca distancia en taxi o servicio de transporte privado de las estaciones de tren Gubeng o Pasar Turi.
 quickAnswer: Black Owl es un café-restaurante moderno y muy bien valorado en Jl. Basuki Rahmat, en el distrito de Tegalsari, en pleno centro de Surabaya, a poca distancia en taxi o servicio de transporte privado de las estaciones de tren Gubeng o Pasar Turi. Es conocido por su amplia carta disponible todo el día, que abarca desde comida occidental reconfortante hasta café y postres, y atrae a un público constante y muy bien valorado (calificación de 4.9, con casi 1.800 reseñas), así que conviene ir fuera del horario pico de cena de viernes a domingo o reservar con antelación. Para una comida completa con postre incluido, hay que calcular entre una hora y 90 minutos.

@@ -119,9 +119,9 @@ Sunrise tours leaving Hoi An early enough to arrive right at opening, 6am, exist
 
 The site is broken into groups labeled A through H by early French archaeologists, scattered across a short walking loop through the valley. Group B/C/D holds the densest, best-preserved cluster of towers, with sandstone lintels and brick relief carvings still legible up close.
 
-Much of My Son was damaged by American bombing in the late 1960s — one crater near Group B is still visible. It's a stark reminder of how much was lost. UNESCO listed the site in 1999, and restoration work continues, so you'll likely see scaffolding somewhere on your visit.
+Much of My Son was damaged by American bombing in the late 1960s. One crater near Group B is still visible. It's a stark reminder of how much was lost. UNESCO listed the site in 1999, and restoration work continues, so you'll likely see scaffolding somewhere on your visit.
 
-A small on-site museum near the entrance gives useful context before you walk in — it's worth ten minutes even if you're eager to see the towers. Some tours include a short traditional Cham dance performance near the entrance area, staged a few times a day.
+A small on-site museum near the entrance gives useful context before you walk in. It's worth ten minutes even if you're eager to see the towers. Some tours include a short traditional Cham dance performance near the entrance area, staged a few times a day.
 
 ## When to go
 
@@ -135,15 +135,15 @@ Weather-wise, aim for the drier months roughly from February to July. Central Vi
 
 My Son is very popular, and it will feel that way if you arrive mid-morning on a weekend. Plan around the crowds rather than the calendar.
 
-- Aim for 7am–9am or after 3pm — the site's quietest measured windows on both weekdays and weekends
+- Aim for 7am–9am or after 3pm, the site's quietest measured windows on both weekdays and weekends
 - Skip the 9am–1pm weekend rush entirely if your schedule allows
-- Wear closed shoes with real tread — paths are uneven brick, tree roots and gravel, not paved walkway
+- Wear closed shoes with real tread, paths are uneven brick, tree roots and gravel, not paved walkway
 - Bring water and a hat; there's little shade once you're among the towers themselves
 - Pay entrance fees in Vietnamese dong cash; card acceptance at rural ticket counters is unreliable
-- Hire a guide at the entrance if you didn't book one — the carvings mean far more with context than without
+- Hire a guide at the entrance if you didn't book one. The carvings mean far more with context than without
 
 The single biggest mistake visitors make is treating My Son like a quick photo stop bolted onto a Hoi An day trip. Give it a genuine hour or more inside the site itself, not counting transit, and the towers reward the slower pace.
 
 ## Nearby to combine
 
-Because the drive out eats a chunk of your day, most visitors pair My Son with something else nearby. Hoi An's Ancient Town is the natural combination, close enough for an easy afternoon after a morning at the ruins. Some tours also stop at a local workshop or village en route — worth asking about when you book if you want to break up the drive.
+Because the drive out eats a chunk of your day, most visitors pair My Son with something else nearby. Hoi An's Ancient Town is the natural combination, close enough for an easy afternoon after a morning at the ruins. Some tours also stop at a local workshop or village en route, worth asking about when you book if you want to break up the drive.

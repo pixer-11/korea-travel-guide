@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: makati-city-john-legend-an-evening-of-songs-stories
-srcHash: 'bc89c6ccc3b9'
+srcHash: '168f213927b6'
 title: ジョン・レジェンド「An Evening of Songs & Stories」で知っておきたいこと(マカティ市)
 description: ジョン・レジェンドの「An Evening of Songs & Stories」は、2026年9月3日・4日にマカティ市のプロセニアム・シアターで予定されていました。座席指定制、ピアノ主体の公演です。
 quickAnswer: ジョン・レジェンドの親密な雰囲気を持つワールドツアー「An Evening of Songs & Stories」は、2026年9月3日と4日の2夜にわたり、マカティ市のプロセニアム・シアターで予定されていました。スタジアム規模の華やかなショーではなく、ピアノ一台を中心に語りを交えて聴かせる、座席指定・劇場形式の公演です。そのため一般的なアリーナ公演に比べると、はるかに小規模でフォーマルな空間になります。具体的な開演時刻や開場時刻は、ツアー発表の時点では公表されていませんでした。

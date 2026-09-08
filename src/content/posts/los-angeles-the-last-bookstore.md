@@ -79,13 +79,13 @@ You walk in off Spring Street and the ceiling just keeps rising. Marble columns,
 
 This was the Spring Street branch of a 1914 bank, and the building still argues with the books for your attention. Old teller windows now frame poetry sections. A safe-deposit vault holds the horror and true-crime titles, heavy steel door and all.
 
-It's the kind of space that photographs well, which is exactly why it draws crowds — not because anyone's keeping it quiet.
+It's the kind of space that photographs well, which is exactly why it draws crowds, not because anyone's keeping it quiet.
 
 ## What you'll find inside
 
 The ground floor mixes new releases with a record shop's worth of vinyl, its bins thumping with whatever's playing on the store system. Climb the wide staircase and the mezzanine turns labyrinthine.
 
-This is where the famous book tunnel lives — a spiral archway built entirely from old hardcovers, arcing overhead just wide enough to walk through. It's the shot everyone lines up for, so patience helps.
+This is where the famous book tunnel lives, a spiral archway built entirely from old hardcovers, arcing overhead just wide enough to walk through. It's the shot everyone lines up for, so patience helps.
 
 Beyond it, the upstairs rooms sprawl into themed nooks curated by local artists, with murals, sculpture, and reading corners tucked between the stacks. Everything up here, used or new, tends to run cheaper than you'd expect for a store this photogenic.
 
@@ -93,13 +93,13 @@ Beyond it, the upstairs rooms sprawl into themed nooks curated by local artists,
 
 The store sits at 453 S Spring St, ground floor, in the Historic Core of Downtown LA. Pershing Square Station on the Metro B and D subway lines is about a five-minute walk away.
 
-If you're driving, street parking is scarce and metered; nearby paid lots on 4th and 5th Streets are the more reliable bet. This is a walkable pocket of downtown — Grand Central Market and the Bradbury Building are both a few blocks off.
+If you're driving, street parking is scarce and metered; nearby paid lots on 4th and 5th Streets are the more reliable bet. This is a walkable pocket of downtown, Grand Central Market and the Bradbury Building are both a few blocks off.
 
 ## When to go
 
 Hours run 11am to 8pm Monday and Tuesday, then stretch to 11pm Wednesday through Sunday. Give yourself 45 minutes to an hour if you just want the tunnel and a browse, longer if you actually shop.
 
-Weekends between 11am and 6pm are the busiest stretch — tour groups, photo-seekers, and shoppers all converge then. For a calmer wander, aim for weekday evenings between 7pm and 11pm, or 8pm to 11pm on weekends.
+Weekends between 11am and 6pm are the busiest stretch, tour groups, photo-seekers, and shoppers all converge then. For a calmer wander, aim for weekday evenings between 7pm and 11pm, or 8pm to 11pm on weekends.
 
 Since it's open late most nights, an after-dinner visit works well and beats fighting the daytime crowds.
 
@@ -107,11 +107,11 @@ Since it's open late most nights, an after-dinner visit works well and beats fig
 
 Skip the late-morning-to-late-afternoon crush on weekends if you can. The store stays open until 11pm Wednesday through Sunday, and those last few hours are noticeably calmer for browsing and photos.
 
-- Head straight upstairs first if the book tunnel is your priority — it backs up fastest, and shooting it early in your visit avoids the worst of the queue.
+- Head straight upstairs first if the book tunnel is your priority, it backs up fastest, and shooting it early in your visit avoids the worst of the queue.
 - Payment is straightforward card-or-cash at the register; no reservations or tickets are needed to enter.
-- Browse the vault room even if horror isn't your genre — the steel door and dial lock are worth seeing regardless.
+- Browse the vault room even if horror isn't your genre. The steel door and dial lock are worth seeing regardless.
 - Used books here are shelved by genre, not always alphabetically, so ask staff if you're hunting something specific.
-- Don't rush the ground-floor vinyl bins — locals who do buy here are usually record shoppers, not tourists snapping the tunnel.
+- Don't rush the ground-floor vinyl bins, locals who do buy here are usually record shoppers, not tourists snapping the tunnel.
 
 The most common misstep is treating this purely as a photo backdrop. Stop, flip through what's actually on the shelves, and it becomes a genuinely good used bookstore, not just a stairwell selfie.
 
@@ -124,4 +124,4 @@ Downtown's Historic Core rewards a slow afternoon built around the bookstore. A 
 - Pershing Square, useful as a transit anchor and a green break between stops
 - Broadway's historic theater row, several blocks north, for a look at LA's old movie-palace facades
 
-None of these require much planning — this whole stretch of downtown is dense enough to wander between stops on foot.
+None of these require much planning, this whole stretch of downtown is dense enough to wander between stops on foot.

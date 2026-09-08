@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ayutthaya-wat-mahathat
-srcHash: '5274739c0ffe'
+srcHash: 'f720274e9629'
 title: 玛哈泰寺(Wat Mahathat):大城府旅行指南
 description: 玛哈泰寺(Wat Mahathat)位于大城府(Ayutthaya)历史岛的中心地带，以寺庙东侧那尊被树根环抱的砂岩佛头闻名——可以说是全城被拍照次数最多的一处景观。
 quickAnswer: 玛哈泰寺(Wat Mahathat)位于大城府(Ayutthaya)历史岛的中心地带，以寺庙东侧那尊被树根环抱的砂岩佛头闻名——可以说是全城被拍照次数最多的一处景观。建议早点前往（早上8点前）或下午晚些时候再去，以避开高温和人潮，并预留45到60分钟游览残破的塔群（prang）和寺院平台。从Soi Chao Phrom附近大多数客栈步行或搭乘嘟嘟车（tuk-tuk）过去都不远。

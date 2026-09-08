@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ninh-binh-bai-dinh-pagoda
-srcHash: '3dffb7b8abf2'
+srcHash: 'aa2d27b0c1b8'
 title: 拜顶寺（Bai Dinh Pagoda）：宁平（Ninh Binh）旅行指南（4.9星）
 description: 拜顶寺位于宁平（Ninh Binh）华闾（Hoa Lu）郊外，是越南规模最大的佛教建筑群，每日7:00至17:30开放。4.9星（25,303条评价）——游客评价、开放时间与实用贴士。
 quickAnswer: 拜顶寺位于宁平（Ninh Binh）华闾（Hoa Lu）郊外，是越南规模最大的佛教建筑群，每日7:00至17:30开放。建议留出半天时间：先乘电瓶车或高尔夫球车上山，再花一个多小时穿梭于巨大佛殿与五百罗汉长廊之间。最好一开门就到，或者3点以后再去，可以避开上午扎堆的旅游大巴人潮。

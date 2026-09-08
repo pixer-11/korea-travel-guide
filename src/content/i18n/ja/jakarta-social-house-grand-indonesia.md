@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: jakarta-social-house-grand-indonesia
-srcHash: '07f2b12293d4'
+srcHash: '9b0d54e69f19'
 title: ソーシャルハウス グランドインドネシア:ジャカルタのグルメスポット
 description: ソーシャルハウス グランドインドネシア(Social House Grand Indonesia)は、緑あふれる内装が特徴の、セントラル・ジャカルタ、メンテン(Menteng)にあるグランドインドネシア(Grand Indonesia)イーストモール1階の終日営業レストラン&ワインバーです。
 quickAnswer: ソーシャルハウス グランドインドネシア(Social House Grand Indonesia)は、緑あふれる内装が特徴の、セントラル・ジャカルタ、メンテン(Menteng)にあるグランドインドネシア(Grand Indonesia)イーストモール1階にある終日営業のレストラン&ワインバーです。最寄りはブンダランHI駅(Bundaran HI MRT Station、出口1/2、屋根付きの歩行者用ブリッジで直結)。豊富な国際色豊かなメニューと、グラスまたはボトルで楽しめる約300種類のワインが揃い、価格帯はやや高め(1人あたりRp150,000〜400,000以上が目安)です。人気店なので、待ち時間を避けるには早めのランチ、または19時前の平日ディナーがおすすめです。

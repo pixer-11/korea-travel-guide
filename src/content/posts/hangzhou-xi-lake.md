@@ -78,27 +78,27 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-West Lake has been eulogized by Chinese poets, painters, and emperors for over a thousand years, and it's the reason UNESCO inscribed the surrounding cultural landscape as a World Heritage Site in 2011. The lake itself covers about 6.5 square kilometers, ringed by willow-lined paths, arched stone bridges, temples, and pagodas that appear in classical Chinese landscape painting. Locals rate it highly (4.7 stars across over 1,100 reviews) not for any single monument but for the cumulative effect of walking or cycling the shoreline — the view changes with every bend, and it looks genuinely different in spring mist, summer lotus bloom, autumn moon-viewing season, and winter snow.
+West Lake has been eulogized by Chinese poets, painters, and emperors for over a thousand years, and it's the reason UNESCO inscribed the surrounding cultural landscape as a World Heritage Site in 2011. The lake itself covers about 6.5 square kilometers, ringed by willow-lined paths, arched stone bridges, temples, and pagodas that appear in classical Chinese landscape painting. Locals rate it highly (4.7 stars across over 1,100 reviews) not for any single monument but for the cumulative effect of walking or cycling the shoreline, the view changes with every bend, and it looks genuinely different in spring mist, summer lotus bloom, autumn moon-viewing season, and winter snow.
 
 ## Getting there
 
 Hangzhou East Railway Station is the main arrival point if you're coming by high-speed rail from Shanghai (roughly 45 minutes to 1.5 hours depending on the train). From Hangzhou East, take Metro Line 2 to Longxiang Bridge Station, then transfer to Metro Line 1 toward Wulin Square/Longxiang area, or simply take a taxi/rideshare directly to the lake (about 25-30 minutes, traffic permitting).
 
-If you're staying centrally, the lake is walkable from the Wulin Square and Hefang Street/Wushan areas. There's no single "front door" — most visitors enter near Yinbin Road on the north shore or Nanshan Road on the east/south shore, both lined with hotels and restaurants.
+If you're staying centrally, the lake is walkable from the Wulin Square and Hefang Street/Wushan areas. There's no single "front door", most visitors enter near Yinbin Road on the north shore or Nanshan Road on the east/south shore, both lined with hotels and restaurants.
 
 ## What to see and do
 
-The classic move is walking or renting a shared bike along the Su Causeway (Sudi) or Bai Causeway (Baidi), two historic tree-lined paths that cut across the water and connect to Solitary Hill (Gushan). From Gushan you get one of the best panoramic views of the lake and can visit the Zhejiang Provincial Museum, which has typically been free to enter — check current opening days and any reservation requirements before you go.
+The classic move is walking or renting a shared bike along the Su Causeway (Sudi) or Bai Causeway (Baidi), two historic tree-lined paths that cut across the water and connect to Solitary Hill (Gushan). From Gushan you get one of the best panoramic views of the lake and can visit the Zhejiang Provincial Museum, which has typically been free to enter. Check current opening days and any reservation requirements before you go.
 
-Boats (small electric ferries or hand-paddled sampans) run out to Xiaoying Island, home of the "Three Pools Mirroring the Moon" — the scene printed on the back of the 1-yuan banknote. Nearby, Leifeng Pagoda offers a rebuilt tower with an elevator and lake views, tied to the White Snake legend. On the west side, Lingyin Temple, one of China's ten most famous Buddhist temples, sits at the base of forested hills and is worth 1-2 hours alone, including the rock carvings at nearby Feilai Peak.
+Boats (small electric ferries or hand-paddled sampans) run out to Xiaoying Island, home of the "Three Pools Mirroring the Moon", the scene printed on the back of the 1-yuan banknote. Nearby, Leifeng Pagoda offers a rebuilt tower with an elevator and lake views, tied to the White Snake legend. On the west side, Lingyin Temple, one of China's ten most famous Buddhist temples, sits at the base of forested hills and is worth 1-2 hours alone, including the rock carvings at nearby Feilai Peak.
 
-For food, look for beggar's chicken (jiaohua ji) and West Lake vinegar fish (xihu cuyu) at restaurants along Hubin Road, plus longjing (dragon well) green tea, grown in the hills just southwest of the lake — tea houses around Meijiawu village let you sample it fresh.
+For food, look for beggar's chicken (jiaohua ji) and West Lake vinegar fish (xihu cuyu) at restaurants along Hubin Road, plus longjing (dragon well) green tea, grown in the hills just southwest of the lake, tea houses around Meijiawu village let you sample it fresh.
 
 ## When to go
 
 Spring (March–May) brings blossoms and the least oppressive humidity; autumn (September–November) is arguably the best window, with clear skies and the famous "Autumn Moon over a Calm Lake" viewing tradition. Summer brings blooming lotus flowers in the shallows but also heat and crowds; winter is quieter and occasionally delivers snow-dusted pagodas, a scene celebrated in classical paintings as "Broken Bridge Snow."
 
-Early morning (before 8am) is when locals do tai chi along the banks and the light is softest for photos — it's also the easiest time to avoid domestic tour groups, which peak midday and on weekends.
+Early morning (before 8am) is when locals do tai chi along the banks and the light is softest for photos. It's also the easiest time to avoid domestic tour groups, which peak midday and on weekends.
 
 ## Nearby & practical tips
 

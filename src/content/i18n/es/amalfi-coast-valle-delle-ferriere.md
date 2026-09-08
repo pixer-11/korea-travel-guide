@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-valle-delle-ferriere
-srcHash: '8dc694165b50'
+srcHash: '4aaec387a872'
 title: 'Valle delle Ferriere: guía de viaje de la Costa Amalfitana (4,7★)'
 description: Valle delle Ferriere es una reserva natural umbría en las colinas sobre Amalfi, a la que se llega a pie desde el pueblo de Amalfi o desde la localidad de Scala/Pontone, siguiendo un antiguo valle de molinos de papel entre cascadas, ruinas cubiertas de helechos y bolsones de vegetación subtropical relicta. 4,7★ (710 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Valle delle Ferriere es una reserva natural umbría en las colinas sobre Amalfi, a la que se llega a pie desde el pueblo de Amalfi o desde la localidad de Scala/Pontone, siguiendo un antiguo valle de molinos de papel entre cascadas, ruinas cubiertas de helechos y bolsones de vegetación subtropical relicta. Cuenta con 2,5 a 4 horas ida y vuelta según la ruta que elijas, usa calzado de senderismo adecuado (el camino suele estar mojado y pedregoso) y ve por la mañana para evitar el calor del mediodía y las aglomeraciones de autobuses por la tarde de vuelta en Amalfi.

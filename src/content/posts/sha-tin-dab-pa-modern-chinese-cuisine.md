@@ -66,13 +66,13 @@ draft: false
 ---
 ## Why Dab-pa is worth the detour
 
-Sha Tin isn't on most Hong Kong itineraries, which is exactly the point here. Dab-pa serves modern Chinese cuisine — familiar Cantonese and pan-Chinese staples reworked with sharper plating and lighter sauces — inside one of the New Territories' biggest shopping malls.
+Sha Tin isn't on most Hong Kong itineraries, which is exactly the point here. Dab-pa serves modern Chinese cuisine, familiar Cantonese and pan-Chinese staples reworked with sharper plating and lighter sauces, inside one of the New Territories' biggest shopping malls.
 
 You won't find tour groups crowding the entrance. What you will find is a kitchen turning out dishes that feel considered rather than rushed, in a room built for a Saturday-afternoon family lunch, not an Instagram queue.
 
 ## Getting there
 
-Dab-pa is on the first floor of New Town Plaza Phase 1, shop 112 — the original, older wing of the complex, connected directly to Sha Tin MTR station on the East Rail Line.
+Dab-pa is on the first floor of New Town Plaza Phase 1, shop 112, the original, older wing of the complex, connected directly to Sha Tin MTR station on the East Rail Line.
 
 From the station, follow signs into New Town Plaza and take the escalators up one level. The mall is enormous and split into several phases, so aim specifically for Phase 1 rather than the newer Phase 2 or 3 towers.
 
@@ -82,28 +82,28 @@ From the station, follow signs into New Town Plaza and take the escalators up on
 
 ## What to expect on the plate
 
-The menu leans into modern Chinese comfort food — think refined takes on roasted meats, claypot rice, seafood, and stir-fries, plated with more restraint than you'd get at a bustling banquet restaurant. Portions are built for sharing, so come with two or three people if you can.
+The menu leans into modern Chinese comfort food, think refined takes on roasted meats, claypot rice, seafood, and stir-fries, plated with more restraint than you'd get at a bustling banquet restaurant. Portions are built for sharing, so come with two or three people if you can.
 
 It's priced mid-range: not a cheap noodle counter, but far from a splurge banquet hall. That makes it a sensible stop if you're spending the day mall-hopping or visiting the nearby Hong Kong Heritage Museum and want a proper sit-down meal without dressing up for it.
 
-Expect the room to be bright, modern, and mall-adjacent in feel rather than atmospheric old-Hong-Kong charm — this is a restaurant designed for reliable, well-executed food, not theatre.
+Expect the room to be bright, modern, and mall-adjacent in feel rather than atmospheric old-Hong-Kong charm. This is a restaurant designed for reliable, well-executed food, not theatre.
 
 ## When to go
 
 Dab-pa opens daily at 11:30am and runs until 10pm, so it comfortably covers both lunch and dinner without a mid-afternoon closure.
 
-The quietest window all week is the weekday stretch between 3pm and 5pm — a natural gap between lunch and dinner crowds. If your schedule is flexible, this is when you'll get a table instantly and unhurried service.
+The quietest window all week is the weekday stretch between 3pm and 5pm, a natural gap between lunch and dinner crowds. If your schedule is flexible, this is when you'll get a table instantly and unhurried service.
 
 Weekends are a different story. Between 1pm and 9pm on Saturdays and Sundays, New Town Plaza fills with shoppers and families, and Dab-pa fills right along with it.
 
 ## How to visit like a local
 
-Sha Tin locals treat New Town Plaza as a genuine neighborhood hub, not just a tourist mall, and Dab-pa gets folded into that rhythm — a solid, dependable option rather than a destination restaurant people cross the harbour for.
+Sha Tin locals treat New Town Plaza as a genuine neighborhood hub, not just a tourist mall, and Dab-pa gets folded into that rhythm, a solid, dependable option rather than a destination restaurant people cross the harbour for.
 
 - **Time it right:** aim for the 3pm–5pm weekday lull if you want a relaxed meal; avoid rocking up on a Saturday afternoon without a plan for waiting.
 - **Booking:** for weekend dinners, calling ahead or arriving right as service starts at 11:30am is safer than walking in cold.
-- **Payment:** like most mall restaurants in Hong Kong, expect card and mobile payment (Octopus, e-wallets) to be accepted alongside cash — you rarely need to plan around cash-only rules here.
+- **Payment:** like most mall restaurants in Hong Kong, expect card and mobile payment (Octopus, e-wallets) to be accepted alongside cash, you rarely need to plan around cash-only rules here.
 - **Ordering:** dishes are typically meant for sharing across the table rather than one dish per person, so order a spread and split it, the way most tables around you will be doing.
 - **Common mistake:** visitors sometimes budget only a quick bite between mall errands and end up rushing a menu that rewards a proper hour-plus sit-down.
 
-Because it sits inside a transit-connected mall rather than a standalone shopfront, Dab-pa is an easy add-on to a Sha Tin day that also includes the Heritage Museum, the Sha Tin waterfront promenade, or a walk along the Shing Mun River — no separate trip required, just a slightly longer wander through New Town Plaza's older wing.
+Because it sits inside a transit-connected mall rather than a standalone shopfront, Dab-pa is an easy add-on to a Sha Tin day that also includes the Heritage Museum, the Sha Tin waterfront promenade, or a walk along the Shing Mun River, no separate trip required, just a slightly longer wander through New Town Plaza's older wing.

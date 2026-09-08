@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-basilica-of-saint-john
-srcHash: '8f4703a2be77'
+srcHash: 'acb27742f880'
 title: 'Basílica de San Juan: Guía de Viaje de Selcuk (4,7★)'
 description: 'La Basílica de San Juan en Selcuk se alza sobre la colina de Ayasuluk, encima del centro del pueblo, y abre a diario de 8:00 a 18:00. 4,7★ (3.057 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: La Basílica de San Juan en Selcuk se alza sobre la colina de Ayasuluk, encima del centro del pueblo, y abre a diario de 8:00 a 18:00. Conviene reservar entre 45 y 60 minutos para recorrer la nave en ruinas y subir hacia las vistas de la fortaleza. Se combina fácilmente con Éfeso y con la Mezquita de Isa Bey, ambos a poca distancia a pie o en coche.

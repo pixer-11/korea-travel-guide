@@ -55,9 +55,9 @@ draft: false
 
 ## Why go
 
-You come around a corner from the newer part of Segovia and it just appears — 167 arches, stacked two tiers high, cutting straight through the middle of the city. No mortar holds it together. Just cut granite blocks, fitted so precisely by Roman engineers roughly two thousand years ago that the thing still stands, still (until modern times) carried water.
+You come around a corner from the newer part of Segovia and it just appears, 167 arches, stacked two tiers high, cutting straight through the middle of the city. No mortar holds it together. Just cut granite blocks, fitted so precisely by Roman engineers roughly two thousand years ago that the thing still stands, still (until modern times) carried water.
 
-The scale is what gets people. At its tallest, near Plaza del Azoguejo, it rises about 28 meters — nearly nine stories of stacked stone arches framing the square below.
+The scale is what gets people. At its tallest, near Plaza del Azoguejo, it rises about 28 meters, nearly nine stories of stacked stone arches framing the square below.
 
 ## Getting there
 
@@ -65,7 +65,7 @@ Segovia is an easy day trip from Madrid. High-speed AVE trains from Madrid-Chama
 
 From there, bus or taxi into the old town takes about 15 minutes, dropping you close to Plaza del Azoguejo, where the aqueduct's tallest arches loom over the square.
 
-If you're already in the historic center, just walk — everything in Segovia's compact old town is within 15-20 minutes on foot, and the aqueduct is impossible to miss.
+If you're already in the historic center, just walk, everything in Segovia's compact old town is within 15-20 minutes on foot, and the aqueduct is impossible to miss.
 
 ## What to see
 
@@ -77,7 +77,7 @@ Then walk the length of it toward Calle de Cervantes, watching how the arches st
 - Look for the small niche partway up one pier, which once held a statue and inscription
 - Cross into the old town through the arches to reach the Alcázar and cathedral, both a short walk away
 
-Because it's open 24 hours with no barriers, you can walk right up to the base and touch the stone — something few Roman monuments this intact still allow.
+Because it's open 24 hours with no barriers, you can walk right up to the base and touch the stone, something few Roman monuments this intact still allow.
 
 ## When to go
 
@@ -89,13 +89,13 @@ Evenings bring a different mood: the arches are lit up after dark, and the squar
 
 ## How to visit like a local
 
-Segovians treat the aqueduct less as a monument to photograph and more as a landmark to walk past on the way somewhere else — to the market, to work, to a bar for a midmorning coffee. Do the same: don't linger only at the obvious photo spot in Plaza del Azoguejo.
+Segovians treat the aqueduct less as a monument to photograph and more as a landmark to walk past on the way somewhere else, to the market, to work, to a bar for a midmorning coffee. Do the same: don't linger only at the obvious photo spot in Plaza del Azoguejo.
 
 Walk its full length instead, following Calle de Cervantes as the arches shrink toward street level. This is where you get a real sense of the engineering, away from the thickest crowds.
 
 Since it's a public, unticketed structure standing 24 hours, there's no queue system, no tickets, and nothing to book. The only real etiquette is practical: don't climb on the stonework, and be mindful in the square during peak tourist hours, when it gets genuinely packed with groups and guides.
 
-The one mistake visitors consistently make is treating this as a five-minute photo stop before rushing to the Alcázar. Give it a proper look from both ends of the plaza — the perspective changes completely depending on where you stand.
+The one mistake visitors consistently make is treating this as a five-minute photo stop before rushing to the Alcázar. Give it a proper look from both ends of the plaza, the perspective changes completely depending on where you stand.
 
 If you want an uncrowded view, come back at dusk. The stone takes on a different color under the streetlights, and the square empties out as tour buses depart.
 

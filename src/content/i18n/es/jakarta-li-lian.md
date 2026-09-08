@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-li-lian
-srcHash: '47cc4244f3f0'
+srcHash: 'e15f87e3f302'
 title: 'Li Lian: dónde comer en Yakarta'
 description: 'Li Lian en Yakarta, Indonesia — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Li Lian es el primer restaurante chino del Park Hyatt Jakarta, ubicado en el piso 19 del hotel, en la zona de Thamrin/Menteng, en Yakarta Central, y sirve cocina china contemporánea y dim sum refinado con vistas al skyline. Es una apertura reciente y en auge, así que reserva con antelación y confirma el horario actual directamente con el hotel antes de ir — esto no es un puesto de fideos al paso, sino una ocasión para vestirse elegante y reservar mesa.

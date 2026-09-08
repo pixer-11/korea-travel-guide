@@ -96,7 +96,7 @@ updatedDate: '2026-09-06'
 ---
 ## Why Jurong Lake Gardens is worth the trip out west
 
-You come here for space — the kind that's hard to find in central Singapore. This is the country's largest park outside downtown, built around the still, wide surface of Jurong Lake.
+You come here for space, the kind that's hard to find in central Singapore. This is the country's largest park outside downtown, built around the still, wide surface of Jurong Lake.
 
 Locals bring bikes, kites, dogs and toddlers. You'll see all four within five minutes of walking in.
 
@@ -104,7 +104,7 @@ Locals bring bikes, kites, dogs and toddlers. You'll see all four within five mi
 
 The gardens sit off Yuan Ching Road in the Jurong region, west of the city.
 
-The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line — either gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk.
+The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, either gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk.
 
 Driving works too; there's parking near the Rasau Walk and Neram Streams entrances, though weekend afternoons can mean circling for a spot.
 
@@ -112,14 +112,14 @@ Driving works too; there's parking near the Rasau Walk and Neram Streams entranc
 
 The Grasslands is the postcard shot: a rolling, open lawn that frames the lake and city skyline in the distance. It's the spot for a picnic blanket and a slow afternoon.
 
-The Neram Streams area is where the water sports live — kayaking and dragon boating are run here, weather permitting.
+The Neram Streams area is where the water sports live, kayaking and dragon boating are run here, weather permitting.
 
 For something quieter, head to the Rasau Boardwalk. It threads through swamp forest on raised timber decking, with monitor lizards, herons and the occasional otter sighting if you're patient and quiet.
 
 Other things worth building into your visit:
 
-- **Jurong Lake Gardens playgrounds** — several scattered through the park, good for a break with kids
-- **The dog run** — a fenced-off patch near the Grasslands, popular with local dog owners
+- **Jurong Lake Gardens playgrounds**, several scattered through the park, good for a break with kids
+- **The dog run**, a fenced-off patch near the Grasslands, popular with local dog owners
 - **Bird-watching towers** along the boardwalk, best used in early morning light
 - **The Grasslands lawn** for sunset, when the light turns the lake copper
 
@@ -127,19 +127,19 @@ Other things worth building into your visit:
 
 The park runs 24 hours every day, so there's no opening time to plan around. That flexibility matters more here than at most attractions.
 
-Weekends get noticeably busier than weekdays — that's the window to avoid if you want the boardwalks and lawns to yourself. Weekday mornings are calmer across the board.
+Weekends get noticeably busier than weekdays. That's the window to avoid if you want the boardwalks and lawns to yourself. Weekday mornings are calmer across the board.
 
 Midday heat is the other thing to plan for. Singapore sun is intense by 11am, and the Grasslands offers almost no shade, so aim for before 9am or after 5pm if you're walking the open lawns.
 
 ## How to visit like a local
 
-This is a well-loved park, not a quiet secret — locals treat it as their neighbourhood green space, so don't expect to have it to yourself, especially on weekends.
+This is a well-loved park, not a quiet secret, locals treat it as their neighbourhood green space, so don't expect to have it to yourself, especially on weekends.
 
 - **Arrive early.** Before 8am on a weekday is the calmest the park gets, with soft light for photos and cooler air for walking.
-- **Skip cash entirely.** Everything here — parking, any kiosk food, bike rentals — runs on card or mobile payment like most of Singapore.
+- **Skip cash entirely.** Everything here (parking, any kiosk food, bike rentals) runs on card or mobile payment like most of Singapore.
 - **No booking needed** for the gardens themselves; kayaking and dragon boating sessions at Neram Streams may need advance sign-up, so check ahead if that's the plan.
-- **Wear closed shoes**, not sandals, for the Rasau Boardwalk — the timber can be damp and slightly uneven in spots.
+- **Wear closed shoes**, not sandals, for the Rasau Boardwalk. The timber can be damp and slightly uneven in spots.
 - **Bring insect repellent.** The swamp forest area draws mosquitoes, especially near dusk.
-- **The tourist mistake** here is treating it as a quick photo stop. The park rewards slowness — a full loop from Grasslands to the boardwalk and back easily takes two to three hours on foot.
+- **The tourist mistake** here is treating it as a quick photo stop. The park rewards slowness, a full loop from Grasslands to the boardwalk and back easily takes two to three hours on foot.
 
-Locals also tend to combine this with the older Chinese and Japanese Gardens next door, connected by a short walk across the water — worth the extra hour if you're already out this way.
+Locals also tend to combine this with the older Chinese and Japanese Gardens next door, connected by a short walk across the water, worth the extra hour if you're already out this way.

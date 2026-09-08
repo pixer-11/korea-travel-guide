@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour
-srcHash: 'c02240956060'
+srcHash: '50083c319fcd'
 title: 'U-KNOW Project 26: SCENE#1（东方神起U-Know允浩个人巡演）胡志明市观演须知'
 description: '2026年9月19日，U-KNOW Project 26: SCENE#1（东方神起U-Know允浩个人巡演）将登陆越南胡志明市。本文介绍演出信息、时间地点，以及行前规划要点。'
 quickAnswer: U-Know允浩个人巡演"SCENE#1"将于2026年9月19日在胡志明市新平郡（Tan Binh District）的第七军区室内体育馆（Military Zone 7 Indoor Stadium）举行。建议提前预订Grab或计程车，演出当晚交通拥堵和加价基本是板上钉钉的事。由于官方目前尚未锁定具体的日期、入场时间和票务细节，出发前务必在官方渠道再三核实。

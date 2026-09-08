@@ -99,7 +99,7 @@ updatedDate: '2026-09-02'
 
 ## Why go
 
-Shri Nageshi Temple isn't a ruin you view from behind a rope — it's a working shrine that has been in continuous use since well before the Portuguese arrived in Goa. The current structure dates to the 15th–16th century, one of the few temples in the Ponda "temple belt" that survived the colonial-era destruction of Hindu sites along the coast.
+Shri Nageshi Temple isn't a ruin you view from behind a rope. It's a working shrine that has been in continuous use since well before the Portuguese arrived in Goa. The current structure dates to the 15th–16th century, one of the few temples in the Ponda "temple belt" that survived the colonial-era destruction of Hindu sites along the coast.
 
 You come here for the atmosphere as much as the architecture: a squat, tiled-roof sanctum ringed by a stone deepstambha (lamp tower), its brass finial catching the light, set in a quiet courtyard shaded by frangipani and banyan.
 
@@ -118,27 +118,27 @@ Priests conduct pujas through the day, and you'll often hear the low rhythm of b
 
 ## Getting there
 
-The temple sits in Bandiwade village, close to Ponda town, in Goa's temple belt — the same area that holds Shri Mangeshi and Shri Mahalsa temples. Most visitors combine two or three of these in one trip, since they're a short drive apart.
+The temple sits in Bandiwade village, close to Ponda town, in Goa's temple belt, the same area that holds Shri Mangeshi and Shri Mahalsa temples. Most visitors combine two or three of these in one trip, since they're a short drive apart.
 
 There's no train station nearby; the practical way in is by scooter, taxi, or rental car from Panjim (around 45 minutes) or Margao. Parking is available right outside the temple grounds. If you're staying in Calangute or Baga, budget closer to an hour each way.
 
 ## When to go
 
-The temple opens at 6am and closes at 8:30pm most days, with Mondays running later until 10pm — worth knowing if you want an evening visit early in the week.
+The temple opens at 6am and closes at 8:30pm most days, with Mondays running later until 10pm, worth knowing if you want an evening visit early in the week.
 
 Crowd patterns here are predictable. On weekdays, it's quietest between 7am and 9am, right after opening, when the courtyard is still cool and half-empty. Weekends are calmest earlier still, 7am to 8am, before day-trippers arrive.
 
-Try to avoid weekend afternoons — from noon until 8pm the temple fills with families and pilgrims, and parking gets tight. A weekday morning visit gives you the best chance of a slow, unhurried look at the woodwork and courtyard.
+Try to avoid weekend afternoons, from noon until 8pm the temple fills with families and pilgrims, and parking gets tight. A weekday morning visit gives you the best chance of a slow, unhurried look at the woodwork and courtyard.
 
 ## How to visit like a local
 
 This is an active place of worship, not a museum, so the etiquette matters more than the sightseeing checklist.
 
-- Remove your footwear before stepping onto the temple platform — racks are provided at the entrance.
+- Remove your footwear before stepping onto the temple platform, racks are provided at the entrance.
 - Dress modestly: shoulders and knees covered is the safe rule, especially for the inner sanctum.
 - Photography is generally fine in the courtyard, but ask before photographing the inner shrine or priests mid-ritual.
 - There's no entry fee, but small cash donations are customary if you take part in a puja or want a token blessing (prasad).
-- Circle the sanctum clockwise if you see others doing so — it's the customary direction for parikrama here.
+- Circle the sanctum clockwise if you see others doing so. It's the customary direction for parikrama here.
 
-Because this is a well-known stop on the Ponda temple circuit rather than a quiet local secret, expect a steady flow of visitors most of the day. The way to beat the crowds isn't to look for a gap that doesn't exist on weekends — it's to simply come early, on a weekday, and let the temple staff's own rhythm (morning aarti, then a lull) set your schedule. An hour is enough to see the courtyard, sanctum, and tank at an unhurried pace before heading on to Mangeshi temple nearby.
+Because this is a well-known stop on the Ponda temple circuit rather than a quiet local secret, expect a steady flow of visitors most of the day. The way to beat the crowds isn't to look for a gap that doesn't exist on weekends. It's to simply come early, on a weekday, and let the temple staff's own rhythm (morning aarti, then a lull) set your schedule. An hour is enough to see the courtyard, sanctum, and tank at an unhurried pace before heading on to Mangeshi temple nearby.
 

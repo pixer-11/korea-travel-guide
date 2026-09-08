@@ -57,29 +57,29 @@ draft: false
 ---
 ## Why go
 
-You see the spire before you see the city. From the train, from the Vosges foothills, from almost any bridge over the Ill, a single asymmetric tower of pink-gold Vosges sandstone pokes above Strasbourg's half-timbered rooftops. For 227 years, from 1647 to 1874, this was reputedly the tallest building on Earth. Up close in the tight medieval square, the west façade is so densely carved — kings, prophets, gargoyles, a rose window over 13 metres wide — that you have to actually step back into the surrounding streets to take it all in, and even then your neck won't thank you.
+You see the spire before you see the city. From the train, from the Vosges foothills, from almost any bridge over the Ill, a single asymmetric tower of pink-gold Vosges sandstone pokes above Strasbourg's half-timbered rooftops. For 227 years, from 1647 to 1874, this was reputedly the tallest building on Earth. Up close in the tight medieval square, the west façade is so densely carved (kings, prophets, gargoyles, a rose window over 13 metres wide) that you have to actually step back into the surrounding streets to take it all in, and even then your neck won't thank you.
 
 ## Getting there
 
-The cathedral sits at Place de la Cathédrale in the historic Grande Île, Strasbourg's UNESCO-listed old town, a car-free tangle of lanes lined with wine bars and pretzel stands. From Strasbourg's main train station, it's a 20-minute walk or a short tram ride (Lines A or D) to Langstross Grand'Rue or Broglie, followed by a five-minute walk through the pedestrian streets. If you're coming from Kléber square, just follow the crowds and the spire — you genuinely cannot get lost here.
+The cathedral sits at Place de la Cathédrale in the historic Grande Île, Strasbourg's UNESCO-listed old town, a car-free tangle of lanes lined with wine bars and pretzel stands. From Strasbourg's main train station, it's a 20-minute walk or a short tram ride (Lines A or D) to Langstross Grand'Rue or Broglie, followed by a five-minute walk through the pedestrian streets. If you're coming from Kléber square, just follow the crowds and the spire, you genuinely cannot get lost here.
 
 ## What to see inside
 
 Push through the west portal and the light changes instantly, filtered blue and red through some of the oldest stained glass still in its original tracery in Europe, including the 12th-century windows in the south aisle. Walk toward the transept for the real draw: the 16th-century astronomical clock, a wood-and-brass contraption of automatons, zodiac dials, and a mechanical rooster that still crows and flaps at solar noon, drawing a small crowd who queue for the separate ticketed viewing (astronomy show tickets are sold at the south portal, and yes, you'll want to book that slot in advance in high season).
 
-Nearby, the Angels' Pillar carved around 1230 shows the Last Judgment in tiers of trumpeting figures. If you're up for 332 spiral steps, the platform below the spire opens seasonally and gives you a rooftop-level view over the Petite France quarter and the Rhine plain toward the Black Forest — this is a separate paid climb, not part of the free nave visit.
+Nearby, the Angels' Pillar carved around 1230 shows the Last Judgment in tiers of trumpeting figures. If you're up for 332 spiral steps, the platform below the spire opens seasonally and gives you a rooftop-level view over the Petite France quarter and the Rhine plain toward the Black Forest. This is a separate paid climb, not part of the free nave visit.
 
 ## When to go
 
-The cathedral keeps a split schedule every day, closing over the middle of the day and opening later on Sundays — useful to know since Mass and services can restrict access at other times. Measured foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon.
+The cathedral keeps a split schedule every day, closing over the middle of the day and opening later on Sundays, useful to know since Mass and services can restrict access at other times. Measured foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon.
 
 Given how well-visited this place is year-round, that early slot isn't a nice-to-have, it's the difference between having the nave largely to yourself and shuffling shoulder-to-shoulder with tour groups under the rose window.
 
 ## How to visit like a local
 
-Come at opening, not at lunch. Strasbourgeois who pop in on their way to work or the Christmas markets know the 8:30am slot is when the light through the rose window is best anyway, low and warm, before the tour buses from Colmar and Baden-Baden arrive. Entry to the nave itself is free — there's no ticket booth to queue at, just a request (posted at the door) to stay quiet, keep phones on silent, and dress with shoulders and knees reasonably covered, since this is an active place of worship, not a museum.
+Come at opening, not at lunch. Strasbourgeois who pop in on their way to work or the Christmas markets know the 8:30am slot is when the light through the rose window is best anyway, low and warm, before the tour buses from Colmar and Baden-Baden arrive. Entry to the nave itself is free. There's no ticket booth to queue at, just a request (posted at the door) to stay quiet, keep phones on silent, and dress with shoulders and knees reasonably covered, since this is an active place of worship, not a museum.
 
-If you want the astronomical clock show or the tower climb, buy those tickets separately at the counter near the south portal rather than assuming your church visit covers them. The single biggest mistake visitors make is treating the square outside as the whole experience and never going in — the exterior carvings are spectacular, but the stained glass and the clock are worth the extra twenty minutes.
+If you want the astronomical clock show or the tower climb, buy those tickets separately at the counter near the south portal rather than assuming your church visit covers them. The single biggest mistake visitors make is treating the square outside as the whole experience and never going in. The exterior carvings are spectacular, but the stained glass and the clock are worth the extra twenty minutes.
 
 During Strasbourg's Christmas market season (late November through December), the square and approach streets get dramatically busier, so the 8:30–10am window matters even more.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: miami-talkin-tacos-brickell
-srcHash: '057ed9f623fa'
+srcHash: 'b1d457dc4ce1'
 title: 'Talkin'' Tacos Brickell: dónde comer en Miami'
 description: Talkin' Tacos Brickell es un local de tacos y tequila abierto hasta tarde en 97 SW 8th St, justo en el límite entre Brickell y Downtown, a pocos minutos a pie de la estación de Metromover Brickell.
 quickAnswer: Talkin' Tacos Brickell es un local de tacos y tequila abierto hasta tarde en 97 SW 8th St, justo en el límite entre Brickell y Downtown, a pocos minutos a pie de la estación de Metromover Brickell. Es de precio medio, abre todos los días de 10am a 2am, y lo mejor es ir a almorzar temprano (antes del mediodía) o después de las 10pm si se quiere evitar el ajetreo del happy hour y del brunch de fin de semana.

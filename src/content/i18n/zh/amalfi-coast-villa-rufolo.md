@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: amalfi-coast-villa-rufolo
-srcHash: 'c07f7458bdfc'
+srcHash: '8f71aa278aac'
 title: 鲁弗洛别墅(Villa Rufolo):阿马尔菲海岸旅行指南(4.6★)
 description: 鲁弗洛别墅(Villa Rufolo)坐落于拉韦洛(Ravello)大教堂广场(Piazza Duomo)之上，是一座建于13世纪、带有摩尔风格影响的别墅，其层层叠叠的花园框住了阿马尔菲海岸上最常被拍摄的海景之一。4.6★(20,676条评价)——游客怎么说、开放时间及游玩贴士。
 quickAnswer: 鲁弗洛别墅(Villa Rufolo)坐落于拉韦洛(Ravello)大教堂广场(Piazza Duomo)之上，是一座建于13世纪、带有摩尔风格影响的别墅，其层层叠叠的花园框住了阿马尔菲海岸上最常被拍摄的海景之一。建议留出45到60分钟时间，漫步塔楼、回廊和观景台。上午9点前人较少，清晨和傍晚时段也相对清闲;周末中午到下午5点之间人流最为密集，建议避开这段时间前往。

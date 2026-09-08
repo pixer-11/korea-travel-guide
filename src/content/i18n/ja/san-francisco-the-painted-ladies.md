@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: san-francisco-the-painted-ladies
-srcHash: '25733713ce69'
+srcHash: '2da8bf2d048f'
 title: ペインテッド・レディース(Painted Ladies):サンフランシスコ旅行ガイド(4.4★)
 description: ペインテッド・レディース(Painted Ladies)は、アラモ・スクエア・パーク(Alamo Square Park)に面したスタイナー・ストリート(Steiner Street)沿いに建つ7棟のヴィクトリア様式住宅の並びで、「フルハウス(Full House)」の背景や数え切れないほどの絵葉書で知られています。4.4★(28,008件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: ペインテッド・レディース(Painted Ladies)は、アラモ・スクエア・パーク(Alamo Square Park)に面したスタイナー・ストリート(Steiner Street)沿いに建つ7棟のヴィクトリア様式住宅の並びで、「フルハウス(Full House)」の背景や数え切れないほどの絵葉書で知られています。いつでも無料で外観を見ることができますが、光の当たり方が最も美しいのは午後遅くで、公園はツアーバスが到着する前の平日の朝が最も静かです。写真撮影には20〜30分ほど、丘を登って公園でピクニックをしたい場合はもう少し時間を見ておきましょう。

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue
-srcHash: 'aedc7f602577'
+srcHash: 'bdfb020c40d1'
 title: ベトナム料理店「Hue Local Food & FastFood 22 Restaurant」(フエ) — どこで食べるべきか
 description: フエの旧市街(シタデル)から徒歩数分、フーサン区(Phú Xuân ward)のTrần Huy Liệu通り22番地へ行けば、安くてボリューム満点のベトナム料理・フエ料理が楽しめます(評価4.9、レビュー2,000件以上)。
 quickAnswer: フエの旧市街(シタデル)から徒歩数分、フーサン区(Phú Xuân ward)のTrần Huy Liệu通り22番地へ行けば、安くてボリューム満点のベトナム料理・フエ料理が楽しめます(評価4.9、レビュー2,000件以上)。ブン・ボー・フエ(bún bò Huế)、バイン・コアイ(bánh khoái)、コム・ヘン(com hen)といったフエ名物をひととおり味わっても100,000ドン未満で済むことが多く、料理が新鮮なランチタイムか早めの夕方に訪れるのがおすすめです。

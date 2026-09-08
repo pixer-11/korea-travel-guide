@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ibiza-castle-of-ibiza
-srcHash: 'f46c3d3f11fb'
+srcHash: '84fcda6d10b6'
 title: 'Castillo de Ibiza: Guía de viaje'
 description: 'El Castillo de Ibiza se alza en lo más alto de Dalt Vila, el casco antiguo amurallado de Eivissa, y ofrece el mejor panorama de la isla: una caminata cuesta arriba de 20 minutos a paso tranquilo a través de murallas renacentistas hasta un mirador sobre el puerto, Formentera y los tejados de la medina, allá abajo.'
 quickAnswer: 'El Castillo de Ibiza se alza en lo más alto de Dalt Vila, el casco antiguo amurallado de Eivissa, y ofrece el mejor panorama de la isla: una caminata cuesta arriba de 20 minutos a paso tranquilo a través de murallas renacentistas hasta un mirador sobre el puerto, Formentera y los tejados de la medina, allá abajo. Es realmente popular, así que conviene ir a la apertura o en la última hora antes del atardecer para evitar los grupos turísticos que atascan las callejuelas al mediodía. Reserva entre 1,5 y 2 horas, incluyendo la subida y la bajada.'

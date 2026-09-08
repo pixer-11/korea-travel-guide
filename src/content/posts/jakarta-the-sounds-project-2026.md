@@ -40,7 +40,7 @@ heroImage:
 
 Jakarta's festival calendar is crowded, but The Sounds Project carved out a niche by pairing one international rock or alt act with a deep bench of Indonesian talent that actually headlines in its own right, rather than playing warm-up. The 2026 edition was built around that formula: Jet, the Melbourne band behind "Are You Gonna Be My Girl," was billed alongside Pamungkas (Indonesia's biggest bedroom-pop-turned-arena export), R&B crooner Rizky Febian, alt-rockers JUICY LUICY and For Revenge, and Barasuara, whose brooding, literary Indonesian rock has made them a festival institution in their own right.
 
-For a visitor, that mix was the draw — a genuine cross-section of what's playing on Jakarta radio and in its indie clubs, not just a nostalgia act flown in to sell tickets.
+For a visitor, that mix was the draw, a genuine cross-section of what's playing on Jakarta radio and in its indie clubs, not just a nostalgia act flown in to sell tickets.
 
 ## The dates
 
@@ -62,6 +62,6 @@ Indonesian festival crowds tend to be enthusiastic but good-natured; singing alo
 
 Jakarta festivals with a strong local lineup like this one tend to sell out their early-bird tiers fast, and locals know the cheapest tickets vanish first. Payment at the gate and inside is increasingly cashless: festival wristbands or app-based balances loaded via QRIS (Indonesia's ubiquitous QR payment standard) were planned for food and drinks rather than cash, a setup that takes visitors from abroad a little time to arrange.
 
-Local festivalgoers dress light and closed-toe — flip-flops are common, but standing for hours on packed grounds favors real shoes. Most arrive well after doors open and skip the opening acts to avoid standing around in the heat, then move closer to the stage as the sun sets, which leaves the front rows open to anyone who turns up earlier than the locals do.
+Local festivalgoers dress light and closed-toe, flip-flops are common, but standing for hours on packed grounds favors real shoes. Most arrive well after doors open and skip the opening acts to avoid standing around in the heat, then move closer to the stage as the sun sets, which leaves the front rows open to anyone who turns up earlier than the locals do.
 
 Jakarta festival schedules are often confirmed only days before an event, a detail that surprises visitors used to fixed set times published far in advance, as at a Western festival.

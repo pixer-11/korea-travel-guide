@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-summer-palace
-srcHash: '72613dfb1fea'
+srcHash: '70ec5d62b952'
 title: 'Palacio de Verano: Guía de viaje de Pekín'
 description: 'Dedica al Palacio de Verano toda una mañana y parte de la tarde: entra por la Puerta Este (Dongong Men), recorre el Corredor Largo, sube a la Torre del Incienso Búdico en la Colina de la Longevidad y cierra el circuito bordeando el Lago Kunming.'
 quickAnswer: 'Dedica al Palacio de Verano toda una mañana y parte de la tarde: entra por la Puerta Este (Dongong Men), recorre el Corredor Largo, sube a la Torre del Incienso Búdico en la Colina de la Longevidad y cierra el circuito bordeando el Lago Kunming. Es un lugar muy popular (4.6 de valoración con casi 10,000 reseñas), así que conviene llegar justo a la apertura o después de las 3pm para evitar las peores aglomeraciones, calculando un mínimo de 3-4 horas.'

@@ -68,7 +68,7 @@ Renting a moto works too if you're comfortable with rougher rural roads. Either 
 
 ## Climbing to the summit
 
-The staircase is the main event before you even reach the ruins. Locals sometimes offer a piggyback-style carry up for tired or older visitors, for a negotiated tip — a common, low-key hustle rather than anything to worry about.
+The staircase is the main event before you even reach the ruins. Locals sometimes offer a piggyback-style carry up for tired or older visitors, for a negotiated tip, a common, low-key hustle rather than anything to worry about.
 
 Pace yourself, bring water, and pause at the switchback landings. The higher you climb, the more the rice paddies below unfurl into a green-and-gold patchwork stretching toward the horizon.
 
@@ -76,7 +76,7 @@ Pace yourself, bring water, and pause at the switchback landings. The higher you
 
 The five towers date to the 11th and 12th centuries, built under Khmer kings before Angkor Wat itself was completed. Carved lintels above several doorways still show apsaras and scenes from Hindu mythology, worn but legible.
 
-Unlike Angkor's restored temples, Banan feels unfinished in its repair — beams prop up leaning stone, and vegetation has reclaimed parts of the structure. It rewards slow looking rather than a quick photo stop.
+Unlike Angkor's restored temples, Banan feels unfinished in its repair, beams prop up leaning stone, and vegetation has reclaimed parts of the structure. It rewards slow looking rather than a quick photo stop.
 
 Bring a flashlight if you want to peer into the darker inner chambers. Give yourself 30–45 minutes at the top before the descent.
 
@@ -84,17 +84,17 @@ Bring a flashlight if you want to peer into the darker inner chambers. Give your
 
 The site is open daily from 6am to 6pm, and mornings are the smart move. Arriving by 7 or 8am means climbing in cooler air and catching softer light on the towers.
 
-Late afternoon, roughly two hours before closing, is the other good window — the heat has eased and the low sun rakes across the carvings. Midday between 11am and 2pm is the toughest stretch: the stone steps radiate heat with no shade.
+Late afternoon, roughly two hours before closing, is the other good window. The heat has eased and the low sun rakes across the carvings. Midday between 11am and 2pm is the toughest stretch: the stone steps radiate heat with no shade.
 
 Rainy season, from May to October, turns the surrounding rice fields a vivid green but can make the steps slick. Dry season, November through February, offers the most reliable footing and clearer valley views.
 
 ## How to visit like a local
 
-Banan doesn't get the crowds that swarm Angkor, so there's rarely a queue at the base of the stairs. That quiet is part of its appeal — treat it as a place to linger rather than tick off quickly.
+Banan doesn't get the crowds that swarm Angkor, so there's rarely a queue at the base of the stairs. That quiet is part of its appeal, treat it as a place to linger rather than tick off quickly.
 
 Bring small riel or dollar bills; informal vendors near the base sell water and snacks, and cash is how everything here gets paid. Dress modestly, covering shoulders and knees, since this remains an active spiritual site for some visitors even amid the ruins.
 
-- Wear real shoes, not sandals — the steps are uneven and occasionally loose
+- Wear real shoes, not sandals. The steps are uneven and occasionally loose
 - Carry more water than you think you'll need
 - Skip the midday sun if you can shift your schedule
 - Tip modestly if someone helps carry a bag or a child up the stairs

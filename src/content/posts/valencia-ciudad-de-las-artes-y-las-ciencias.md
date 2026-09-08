@@ -89,12 +89,12 @@ Driving is possible but parking near the buildings fills quickly on weekends; th
 
 ## When to go and how long to spend
 
-Budget at least 2–3 hours just for the exteriors, photography, and a walk through the Umbracle gardens — this part is free and open year-round. If you're adding L'Oceanogràfic, set aside a half day, since the aquarium is large and includes an outdoor dolphinarium show. Mornings (opening time to around 11am) and the last two hours before closing tend to be quieter than midday.
+Budget at least 2–3 hours just for the exteriors, photography, and a walk through the Umbracle gardens, this part is free and open year-round. If you're adding L'Oceanogràfic, set aside a half day, since the aquarium is large and includes an outdoor dolphinarium show. Mornings (opening time to around 11am) and the last two hours before closing tend to be quieter than midday.
 
 Spring (April–June) and early autumn (September–October) bring milder temperatures than the intense summer heat, when the white concrete surfaces radiate heat and shade is scarce. Evenings are worth a return visit even after ticketed sites close: the buildings are illuminated at night and reflect dramatically in the surrounding pools.
 
 ## Tips for visiting
 
-Buy tickets for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències online in advance — combined tickets covering multiple attractions are usually available and can save money versus paying separately, though exact pricing should be confirmed on the official website since it changes seasonally. Wear sunglasses and a hat; the light bouncing off the white trencadís-tiled surfaces is intense. Bring swimwear if visiting in warm months, as there's a small artificial beach area near the Oceanogràfic entrance.
+Buy tickets for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències online in advance, combined tickets covering multiple attractions are usually available and can save money versus paying separately, though exact pricing should be confirmed on the official website since it changes seasonally. Wear sunglasses and a hat; the light bouncing off the white trencadís-tiled surfaces is intense. Bring swimwear if visiting in warm months, as there's a small artificial beach area near the Oceanogràfic entrance.
 
 After visiting, the beach district of Malvarrosa and the historic center are both reachable within 15–20 minutes by tram or taxi, making the City of Arts and Sciences an easy add-on to either a beach day or a city-center itinerary.

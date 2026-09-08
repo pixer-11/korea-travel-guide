@@ -85,26 +85,26 @@ updatedDate: '2026-09-06'
 
 Kanazawa's reputation as a sushi destination rests on the Sea of Japan's cold-water fish and the produce that flows through Omicho Market daily. Kourin Sushi sits just north of that market, in the old merchant district of Bakuromachi, and has built a loyal following (4.7 stars across roughly 1,460 reviews) by serving that same market-grade seafood in a conveyor-belt format that keeps prices moderate and turnover quick. It's the kind of place locals bring visiting family when they want good sushi without a reservation or a formal, multi-course price tag.
 
-The Kaga region's cold currents produce fish with firmer texture and higher fat content in winter — Kanburi (winter yellowtail), Nodoguro (blackthroat seaperch), and Kobako crab (a small female snow crab, in season roughly November to December) are the dishes locals travel across town for. Kourin Sushi's menu leans into these seasonal specialties alongside standard nigiri staples, so what's on the belt in January looks different from what's on it in July.
+The Kaga region's cold currents produce fish with firmer texture and higher fat content in winter, Kanburi (winter yellowtail), Nodoguro (blackthroat seaperch), and Kobako crab (a small female snow crab, in season roughly November to December) are the dishes locals travel across town for. Kourin Sushi's menu leans into these seasonal specialties alongside standard nigiri staples, so what's on the belt in January looks different from what's on it in July.
 
 ## Getting There
 
-Kourin Sushi is located at 79 Bakuromachi, Kanazawa — a compact, walkable neighborhood just north of Omicho Market and roughly a 15-20 minute walk from Kanazawa Station's east exit. If walking from the station, head south toward the castle/Kenrokuen direction and cut through the covered arcades near Omicho; the restaurant is tucked into the quieter streets just beyond the market's northern edge.
+Kourin Sushi is located at 79 Bakuromachi, Kanazawa, a compact, walkable neighborhood just north of Omicho Market and roughly a 15-20 minute walk from Kanazawa Station's east exit. If walking from the station, head south toward the castle/Kenrokuen direction and cut through the covered arcades near Omicho; the restaurant is tucked into the quieter streets just beyond the market's northern edge.
 
-Alternatively, the Kanazawa Loop Bus (both the right-loop and left-loop routes run frequently from the station) stops near Omicho Market — get off there and walk five minutes north into Bakuromachi. Taxis from the station take about five minutes and are inexpensive for groups of two or more. Because the restaurant sits within the old merchant quarter, expect narrow one-way streets; if driving, plan to park at one of the paid lots near Omicho Market rather than searching for street parking.
+Alternatively, the Kanazawa Loop Bus (both the right-loop and left-loop routes run frequently from the station) stops near Omicho Market, get off there and walk five minutes north into Bakuromachi. Taxis from the station take about five minutes and are inexpensive for groups of two or more. Because the restaurant sits within the old merchant quarter, expect narrow one-way streets; if driving, plan to park at one of the paid lots near Omicho Market rather than searching for street parking.
 
 ## What to Eat
 
 This is kaiten-zushi (conveyor-belt sushi), so the format itself is part of the experience: plates rotate past the counter, color-coded or priced by plate, and you can also order specific items directly from the chefs if you don't see what you want. Expect classics like maguro (tuna), hamachi (yellowtail), tako (octopus), and tamago (egg) alongside the Kaga specialties. Prices here are moderate for the format, and a satisfying meal of 8-10 plates plus miso soup or a small side generally lands well below what a formal sushi-ya near the market charges for an omakase set.
 
-Because it's conveyor-belt style, don't skip the fresh wasabi and pickled ginger at the counter, and ask staff if you're unsure what a seasonal item is — many Kaga fish names don't have direct English equivalents and are worth asking about rather than guessing.
+Because it's conveyor-belt style, don't skip the fresh wasabi and pickled ginger at the counter, and ask staff if you're unsure what a seasonal item is. Many Kaga fish names don't have direct English equivalents and are worth asking about rather than guessing.
 
 ## When to Go
 
-Lunch on a weekday is the easiest time to get a seat without a long wait, particularly if you arrive before noon. Weekends and dinner hours draw both tourists visiting Omicho Market and locals, so expect a queue, especially around Golden Week (late April-early May) and New Year holidays when Kanazawa sees a spike in domestic tourism. Winter (December-February) is peak season for the best seafood — Kanburi and crab are at their richest — but it's also the busiest tourist season for exactly that reason, so plan for a short wait even on weekdays.
+Lunch on a weekday is the easiest time to get a seat without a long wait, particularly if you arrive before noon. Weekends and dinner hours draw both tourists visiting Omicho Market and locals, so expect a queue, especially around Golden Week (late April-early May), and New Year holidays when Kanazawa sees a spike in domestic tourism. Winter (December-February) is peak season for the best seafood, Kanburi and crab are at their richest, but it's also the busiest tourist season for exactly that reason, so plan for a short wait even on weekdays.
 
 ## Nearby & Tips
 
-Omicho Market itself is worth an hour before or after your meal — wander the stalls even if you don't buy anything, since seeing the raw ingredients gives context to what's on your plate. Kanazawa Castle Park and Kenrokuen Garden, one of Japan's "three great gardens," are about a 15-20 minute walk east, making Kourin Sushi a sensible lunch stop before an afternoon of sightseeing.
+Omicho Market itself is worth an hour before or after your meal, wander the stalls even if you don't buy anything, since seeing the raw ingredients gives context to what's on your plate. Kanazawa Castle Park and Kenrokuen Garden, one of Japan's "three great gardens," are about a 15-20 minute walk east, making Kourin Sushi a sensible lunch stop before an afternoon of sightseeing.
 
 The Higashi Chaya geisha district, known for its preserved teahouse architecture, is a further 10-15 minutes on foot or a short taxi ride, and pairs well with a late lunch here followed by an early evening stroll.

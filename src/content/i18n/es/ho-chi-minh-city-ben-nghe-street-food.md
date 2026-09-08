@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-ben-nghe-street-food
-srcHash: 'bf373db4cec5'
+srcHash: '7dba12265cf0'
 title: 'Ben Nghe Street Food: dónde comer en Ho Chi Minh'
 description: 'Ben Nghe Street Food (134 Nam Kỳ Khởi Nghĩa, Distrito 1) es un extenso patio de comidas al aire libre que reúne decenas de puestos de comida callejera vietnamita en un espacio techado y adaptado para turistas: carnes a la parrilla, mariscos, pho, banh xeo y cocos frescos incluidos.'
 quickAnswer: 'Ben Nghe Street Food (134 Nam Kỳ Khởi Nghĩa, Distrito 1) es un extenso patio de comidas al aire libre que reúne decenas de puestos de comida callejera vietnamita en un espacio techado y adaptado para turistas: carnes a la parrilla, mariscos, pho, banh xeo y cocos frescos incluidos. Es una buena opción si quieres variedad de comida callejera sin tener que ir de puesto en puesto por la calle, aunque los precios son algo más altos que comer en un solo carrito. Ve con hambre, ve en grupo para compartir platos, y prepárate para un ambiente animado, con humo y bancos de plástico, que se disfruta mejor por la noche.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-topten
-srcHash: 'f0aac53f8fde'
+srcHash: '390fa42c2ca2'
 title: 'TOPTEN: guía de viaje de Gangneung'
 description: TOPTEN es una tienda coreana de ropa informal, económica y de cadena, ubicada en Seongdeokponam-ro, en la zona de Ponam 1-dong de Gangneung, abierta todos los días de 11:00 a 22:00.
 quickAnswer: TOPTEN es una tienda coreana de ropa informal, económica y de cadena, ubicada en Seongdeokponam-ro, en la zona de Ponam 1-dong de Gangneung, abierta todos los días de 11:00 a 22:00. No es un lugar emblemático, sino una parada práctica y sin pretensiones para comprar prendas básicas de abrigo o resolver una emergencia con un impermeable; combínala con un paseo por las tranquilas calles residenciales de alrededor o inclúyela de camino a las cafeterías costeras de Gangneung. Ve un día laborable por la tarde si quieres tener los percheros para ti solo.

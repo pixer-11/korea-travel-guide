@@ -50,7 +50,7 @@ updatedDate: '2026-08-30'
 
 ## Why go
 
-Rose Valley earns its name honestly. As the sun drops toward the horizon, the layered volcanic rock — soft tuff carved by centuries of wind and rain — turns from beige to a deep, dusty pink, then almost red.
+Rose Valley earns its name honestly. As the sun drops toward the horizon, the layered volcanic rock, soft tuff carved by centuries of wind and rain, turns from beige to a deep, dusty pink, then almost red.
 
 It's one of the most photographed landscapes in Cappadocia, and one of the few places where you can walk directly through the geology rather than just admire it from a viewpoint or balloon.
 
@@ -60,7 +60,7 @@ Carved into the cliffs are old cave churches and dovecotes, some with faint fres
 
 Rose Valley sits just north of Göreme, past the open-air museum, in the Nevşehir Merkez district. Most visitors start from Göreme town, walking or driving a short distance to one of the marked trailheads near the Göreme–Çavuşin road.
 
-There's no train or metro out here — this is rural Cappadocia. A taxi or rented scooter/car from Göreme takes about 10-15 minutes to the nearest entry point. Many guesthouses can also arrange a driver-guide for the day.
+There's no train or metro out here. This is rural Cappadocia. A taxi or rented scooter/car from Göreme takes about 10-15 minutes to the nearest entry point. Many guesthouses can also arrange a driver-guide for the day.
 
 The full traverse runs roughly 4-5 km one-way toward Çavuşin, where you can pick up a dolmuş (local minibus) or taxi back to Göreme.
 
@@ -68,12 +68,12 @@ The full traverse runs roughly 4-5 km one-way toward Çavuşin, where you can pi
 
 The trail winds between rock spires and past hand-carved chapels, some still holding traces of Byzantine-era paintings. Look for:
 
-- **Kolonlu Kilise (Columned Church)** — a rock-cut church with carved pillars inside
-- **Haçlı Kilise (Church of the Cross)** — named for a cross carved into its ceiling
+- **Kolonlu Kilise (Columned Church)**, a rock-cut church with carved pillars inside
+- **Haçlı Kilise (Church of the Cross)**, named for a cross carved into its ceiling
 - Old pigeon houses with painted doorways, once used to collect fertilizer
 - Wild almond and pistachio trees scattered through the valley floor
 
-The path isn't paved or gated — it's a genuine hiking trail through a nature preserve, with loose gravel, some scrambling, and a few unmarked forks. Sturdy shoes matter more than a map app here.
+The path isn't paved or gated. It's a genuine hiking trail through a nature preserve, with loose gravel, some scrambling, and a few unmarked forks. Sturdy shoes matter more than a map app here.
 
 ## When to go
 
@@ -81,17 +81,17 @@ Late afternoon is the reason this place is famous. The valley faces west, so the
 
 Midday sun flattens the color and pushes temperatures up fast in summer, with little shade along most of the trail. Spring and autumn mornings are cooler and pleasant too, just less dramatic in color.
 
-Avoid mid-summer midday hikes entirely if you're heat-sensitive — carry more water than you think you'll need.
+Avoid mid-summer midday hikes entirely if you're heat-sensitive, carry more water than you think you'll need.
 
 ## How to visit like a local
 
-Rose Valley is well-known, so don't expect to have it to yourself — but timing still makes a real difference.
+Rose Valley is well-known, so don't expect to have it to yourself, but timing still makes a real difference.
 
 - **Go near sunset**, not midday. Light is best 90 minutes before dusk, and temperatures drop.
 - **Start early instead** if you want fewer people: dawn hikers get soft light and empty trails, before tour groups arrive mid-morning.
 - **Wear real hiking shoes.** Sections are steep, dusty, and slippery near cave entrances.
-- **Bring cash-equivalent small bills** in case a trailside stall sells tea or snacks — no formal ticket booths or card machines out here.
-- **Don't chase every fresco.** Many caves are unmarked and some are on private or fragile ground — stick to the worn path and respect any rope barriers.
+- **Bring cash-equivalent small bills** in case a trailside stall sells tea or snacks, no formal ticket booths or card machines out here.
+- **Don't chase every fresco.** Many caves are unmarked and some are on private or fragile ground. Stick to the worn path and respect any rope barriers.
 - The common mistake: treating this as a quick photo stop. Budget real walking time, not a 20-minute detour.
 
 ## Nearby to combine

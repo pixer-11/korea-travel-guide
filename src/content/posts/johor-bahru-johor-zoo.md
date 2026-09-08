@@ -87,9 +87,9 @@ updatedDate: '2026-09-05'
 
 ## Why go
 
-Johor Zoo isn't trying to be Singapore Zoo across the strait, and that's precisely its charm. Tucked into Taman Istana on Jalan Gertak Merah, this is a small, old-school municipal animal park — shaded, a little worn at the edges, and refreshingly unpretentious. You walk in expecting a quick loop and end up lingering by the camel pen, watching a kid feed a handful of vegetables to a Bactrian camel that's clearly done this ten thousand times before but still leans in for more.
+Johor Zoo isn't trying to be Singapore Zoo across the strait, and that's precisely its charm. Tucked into Taman Istana on Jalan Gertak Merah, this is a small, old-school municipal animal park, shaded, a little worn at the edges, and refreshingly unpretentious. You walk in expecting a quick loop and end up lingering by the camel pen, watching a kid feed a handful of vegetables to a Bactrian camel that's clearly done this ten thousand times before but still leans in for more.
 
-With a 4.1 rating from over 9,500 reviewers, it's a well-established stop for families in Johor Bahru rather than an obscure find — expect other visitors, especially on weekends.
+With a 4.1 rating from over 9,500 reviewers, it's a well-established stop for families in Johor Bahru rather than an obscure find. Expect other visitors, especially on weekends.
 
 ## Getting there
 
@@ -99,21 +99,21 @@ Public buses run through central JB too, but with a mosque, museum, and zoo clus
 
 ## What to see and do
 
-Don't expect glass-walled enclosures or Instagram-engineered habitats — this is an older-style layout with fenced and caged exhibits, shaded walking paths, and a slower, more municipal pace. The headline draws are the hands-on extras: camel feeding, pony rides, and paddle-boat rides on the small lake, which is what makes this a hit with families with young kids rather than serious wildlife enthusiasts.
+Don't expect glass-walled enclosures or Instagram-engineered habitats. This is an older-style layout with fenced and caged exhibits, shaded walking paths, and a slower, more municipal pace. The headline draws are the hands-on extras: camel feeding, pony rides, and paddle-boat rides on the small lake, which is what makes this a hit with families with young kids rather than serious wildlife enthusiasts.
 
-There's a playground for when the animals lose their novelty for the under-8 crowd. Expect the usual Southeast Asian zoo cast — big cats, primates, deer, reptiles, and various birds — housed in a compact footprint you can walk in two to three hours without rushing. Bring small notes of cash for feed for the camels and ponies, and for snack stalls near the entrance; card acceptance at these smaller kiosks is inconsistent.
+There's a playground for when the animals lose their novelty for the under-8 crowd. Expect the usual Southeast Asian zoo cast (big cats, primates, deer, reptiles, and various birds) housed in a compact footprint you can walk in two to three hours without rushing. Bring small notes of cash for feed for the camels and ponies, and for snack stalls near the entrance; card acceptance at these smaller kiosks is inconsistent.
 
 ## When to go
 
-Malaysia's equatorial heat is the real scheduling factor here, not opening-hour trivia. Mornings, shortly after opening, are markedly cooler and the animals are more active — many zoo animals nap through the midday heat, so an early visit means less walking past drowsy, hidden creatures. Weekday mornings outside school holidays are your best bet for a calmer, less crowded walk. Malaysian school holidays (particularly around year-end, and shorter mid-year breaks) bring a noticeable spike in local families, so if you can, avoid those weeks or arrive right at opening.
+Malaysia's equatorial heat is the real scheduling factor here, not opening-hour trivia. Mornings, shortly after opening, are markedly cooler and the animals are more active, many zoo animals nap through the midday heat, so an early visit means less walking past drowsy, hidden creatures. Weekday mornings outside school holidays are your best bet for a calmer, less crowded walk. Malaysian school holidays (particularly around year-end, and shorter mid-year breaks) bring a noticeable spike in local families, so if you can, avoid those weeks or arrive right at opening.
 
 ## How to visit like a local
 
-Because this is a well-visited, popular attraction rather than a hidden spot, the smart move is timing, not secrecy. Arrive close to opening time on a weekday morning — this is when the animals are most active and the paths are least crowded, well before tour groups and weekend family crowds build up. Carry small ringgit notes for feed cups and boat/pony ride fees, since these extras are usually paid on the spot in cash at kiosks rather than centrally.
+Because this is a well-visited, popular attraction rather than a hidden spot, the smart move is timing, not secrecy. Arrive close to opening time on a weekday morning. This is when the animals are most active and the paths are least crowded, well before tour groups and weekend family crowds build up. Carry small ringgit notes for feed cups and boat/pony ride fees, since these extras are usually paid on the spot in cash at kiosks rather than centrally.
 
-Wear light, breathable clothing and a hat — there's shade along most paths but plenty of open sun near the lake and animal yards. The most common mistake visitors make is treating this like a modern mega-zoo and rushing through in 40 minutes; slow down, budget two to three hours, and build in the mosque and museum next door so the heat and the zoo's modest scale don't leave you feeling short-changed.
+Wear light, breathable clothing and a hat. There's shade along most paths but plenty of open sun near the lake and animal yards. The most common mistake visitors make is treating this like a modern mega-zoo and rushing through in 40 minutes; slow down, budget two to three hours, and build in the mosque and museum next door so the heat and the zoo's modest scale don't leave you feeling short-changed.
 
-Since it's not a place locals frame as an off-the-radar secret, don't expect an empty park — go early, treat the animal-feeding extras as the highlight, and pair the visit with the nearby Istana Gardens sights for a fuller half-day out.
+Since it's not a place locals frame as an off-the-radar secret, don't expect an empty park. Go early, treat the animal-feeding extras as the highlight, and pair the visit with the nearby Istana Gardens sights for a fuller half-day out.
 
 ## Nearby to combine with your visit
 

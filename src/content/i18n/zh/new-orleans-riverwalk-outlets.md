@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-riverwalk-outlets
-srcHash: 'a45a27f12c90'
+srcHash: '0778001d082b'
 title: Riverwalk Outlets(河滨奥特莱斯):新奥尔良旅行指南(4.4★)
 description: Riverwalk Outlets 是一座沿密西西比河而建、长达一英里的玻璃顶奥特莱斯购物中心，毗邻欧内斯特·N·莫里亚尔会展中心。4.4★(9,376条评价)——游客怎么说、营业时间与实用建议。
 quickAnswer: Riverwalk Outlets 是一座沿密西西比河而建、长达一英里的玻璃顶奥特莱斯购物中心，紧邻欧内斯特·N·莫里亚尔会展中心(Ernest N. Morial Convention Center),从法国区(French Quarter)步行或乘有轨电车都很方便到达。每天10:00–19:00营业(周日10:00–18:00),周末中午时段最为拥挤，建议选择上午前往。逛店大约需要一到两小时，若想在外面的滨河木栈道上多停留，则需要更多时间。

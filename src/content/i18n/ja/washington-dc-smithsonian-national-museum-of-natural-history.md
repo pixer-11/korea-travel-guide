@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: washington-dc-smithsonian-national-museum-of-natural-history
-srcHash: '77a3f3d9b9d5'
+srcHash: 'ce2eb8c930a4'
 title: スミソニアン国立自然史博物館:ワシントンDC旅行ガイド
 description: スミソニアン国立自然史博物館はワシントンDCのナショナル・モールにあり、10th StreetとConstitution Avenue NWの角に位置しています。入館は毎日10時から17時30分まで無料です。評価4.8★(58,597件のレビュー)をもとに、訪問者の声や営業時間、訪問のコツをまとめました。
 quickAnswer: スミソニアン国立自然史博物館は、ワシントンDCのナショナル・モール内、10th StreetとConstitution Avenue NWの角にあり、毎日10時から17時30分まで無料で入館できます。全米でも屈指の来館者数を誇る博物館なので、正午を過ぎるとツアー団体やスクールバスの一団でホールが埋まってしまいます。最も空いているのは開館直後の10時から11時の間です。恐竜の展示やホープダイヤモンド、オーシャンホールをじっくり見るなら、2〜3時間ほど時間を見ておくとよいでしょう。

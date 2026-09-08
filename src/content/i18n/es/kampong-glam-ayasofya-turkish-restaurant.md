@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kampong-glam-ayasofya-turkish-restaurant
-srcHash: 'e09a7bc7c4b6'
+srcHash: '0c3252e1da79'
 title: 'Restaurante turco Ayasofya: dónde comer en Kampong Glam'
 description: Ayasofya es un restaurante turco ubicado en 51 Bussorah St, en la calle histórica peatonal que conduce hasta la Masjid Sultan, en Kampong Glam.
 quickAnswer: Ayasofya es un restaurante turco ubicado en 51 Bussorah St, en la calle histórica peatonal que conduce hasta la Masjid Sultan, en Kampong Glam. Conviene ir pensando en un almuerzo o una cena sentados, con carnes a la parrilla (kebabs, Adana, pide turco), más que en un bocado rápido, y como tiene una calificación de 4.8 con más de 4,500 reseñas, suele haber bastante afluencia de público, así que conviene llegar justo a la apertura o a media tarde para evitar la espera. Hay que contar con un gasto moderado, de nivel medio (nivel de precio 2), y reservar entre 45 y 75 minutos para comer con calma.

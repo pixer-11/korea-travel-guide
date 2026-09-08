@@ -76,11 +76,11 @@ aiGenerated: true
 
 ## Why Veera Flavours
 
-Little India has no shortage of banana-leaf restaurants, but Veera Flavours has built a loyal following — a 4.7-star rating across nearly 1,940 reviews is unusually strong for this category of restaurant. It sits in the well-known, well-visited category rather than being an under-the-radar find, so expect a busy dining room, especially around traditional lunch and dinner hours. The draw is straightforward: authentic South Indian vegetarian cooking served the traditional way, on a banana leaf, with rice and a rotating lineup of curries, sambar, rasam, and papadum refilled as you go.
+Little India has no shortage of banana-leaf restaurants, but Veera Flavours has built a loyal following, a 4.7-star rating across nearly 1,940 reviews is unusually strong for this category of restaurant. It sits in the well-known, well-visited category rather than being an under-the-radar find, so expect a busy dining room, especially around traditional lunch and dinner hours. The draw is straightforward: authentic South Indian vegetarian cooking served the traditional way, on a banana leaf, with rice and a rotating lineup of curries, sambar, rasam, and papadum refilled as you go.
 
 ## Getting there
 
-Veera Flavours is located at 41 Kerbau Road, right in the historic core of Little India. The closest MRT stop is Little India Station (served by the North East Line and Downtown Line); take Exit A or Exit E and walk roughly five minutes through the district's shophouse streets. Kerbau Road itself is a short, pedestrian-friendly lane lined with colorful heritage shophouses, so the walk there is part of the experience — you'll pass spice shops, garland stalls, and other eateries en route.
+Veera Flavours is located at 41 Kerbau Road, right in the historic core of Little India. The closest MRT stop is Little India Station (served by the North East Line and Downtown Line); take Exit A or Exit E and walk roughly five minutes through the district's shophouse streets. Kerbau Road itself is a short, pedestrian-friendly lane lined with colorful heritage shophouses, so the walk there is part of the experience. You'll pass spice shops, garland stalls, and other eateries en route.
 
 If arriving by bus, several services stop along nearby Serangoon Road, Little India's main thoroughfare, from which Kerbau Road is a two-minute walk.
 
@@ -88,7 +88,7 @@ If arriving by bus, several services stop along nearby Serangoon Road, Little In
 
 The signature order here is the banana-leaf meal: rice served on a fresh banana leaf with an assortment of vegetable curries, sambar, rasam, curd, and pickle, typically topped up on request until you're full. For those short on time, dosas (the paper-thin, crisp rice-and-lentil crepes) and thali sets are the faster alternative, giving you a compact sampling of curries in individual portions.
 
-The restaurant falls in the mid-range price bracket, making it accessible for a casual lunch as well as a slightly more leisurely dinner. Vegetarian and vegan diners are well catered for, as South Indian temple-style cooking here relies on lentils, vegetables, and dairy rather than meat — worth noting if you're navigating Singapore's food scene with dietary restrictions.
+The restaurant falls in the mid-range price bracket, making it accessible for a casual lunch as well as a slightly more leisurely dinner. Vegetarian and vegan diners are well catered for, as South Indian temple-style cooking here relies on lentils, vegetables, and dairy rather than meat, worth noting if you're navigating Singapore's food scene with dietary restrictions.
 
 ## When to go
 
@@ -98,12 +98,12 @@ If you want a calmer, quicker seating, aim for an early lunch just after opening
 
 ## Exploring the neighborhood
 
-Kerbau Road is a natural anchor for a short walking loop. Campbell Lane, famous for its garland and flower stalls, is just around the corner, and the ornate Sri Veeramakaliamman Temple — one of Singapore's oldest Hindu temples — is a few minutes' walk down Serangoon Road. Tekka Centre, a large hawker and wet market complex, is another short walk away if you want to browse spices, textiles, or sample more local food after your meal. Combining Veera Flavours with a stroll through these spots easily fills a half-day itinerary.
+Kerbau Road is a natural anchor for a short walking loop. Campbell Lane, famous for its garland and flower stalls, is just around the corner, and the ornate Sri Veeramakaliamman Temple, one of Singapore's oldest Hindu temples, is a few minutes' walk down Serangoon Road. Tekka Centre, a large hawker and wet market complex, is another short walk away if you want to browse spices, textiles, or sample more local food after your meal. Combining Veera Flavours with a stroll through these spots easily fills a half-day itinerary.
 
 ## How to visit like a local
 
 Because this restaurant is genuinely popular rather than a quiet secret, the smartest move is managing timing, not searching for a "back door" experience. Avoid the core lunch rush (roughly noon to 1:30pm) and the Sunday evening peak, when Little India swells with visitors and workers alike. If a queue has formed, it typically moves quickly since banana-leaf service is efficient once seated.
 
-Payment is generally accepted by card and cash, though carrying some small cash is still sensible in older Little India establishments in case of card machine downtime. Tipping isn't customary in Singapore and isn't expected here. When ordering, simply asking for a "banana leaf meal" or specifying "veg thali" signals you know the format, and it's perfectly normal to request extra rice, sambar, or rasam rather than ordering a second dish — that's how the meal is meant to be eaten.
+Payment is generally accepted by card and cash, though carrying some small cash is still sensible in older Little India establishments in case of card machine downtime. Tipping isn't customary in Singapore and isn't expected here. When ordering, simply asking for a "banana leaf meal" or specifying "veg thali" signals you know the format, and it's perfectly normal to request extra rice, sambar, or rasam rather than ordering a second dish. That's how the meal is meant to be eaten.
 
 The most common visitor mistake is treating it like a quick fast-food stop; the banana-leaf meal rewards a slower, unhurried pace, so build in at least 45 minutes to an hour.

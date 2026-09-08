@@ -65,39 +65,39 @@ draft: false
 
 ## First impressions
 
-You spot the building before you spot the sign. Cream-and-white walls, deep verandahs, a heavy tiled roof holding off the equatorial sun — this is colonial-era Perak in its most photogenic civic form.
+You spot the building before you spot the sign. Cream-and-white walls, deep verandahs, a heavy tiled roof holding off the equatorial sun. This is colonial-era Perak in its most photogenic civic form.
 
 Founded in 1883, it's often cited as Malaysia's oldest museum. Step through the entrance and the air changes: cooler, quieter, smelling faintly of old wood and glass display cases that have sat in the same spot for generations.
 
 ## What's inside
 
-The collection is old-school in the best sense — no touchscreens, no interactive gimmicks, just cabinets of genuinely strange and wonderful things.
+The collection is old-school in the best sense, no touchscreens, no interactive gimmicks, just cabinets of genuinely strange and wonderful things.
 
 - A hall of taxidermied Malaysian wildlife: tigers, tapirs, hornbills, frozen mid-stride
-- Ethnographic displays on Orang Asli tribal life — blowpipes, woven baskets, ceremonial dress
+- Ethnographic displays on Orang Asli tribal life, blowpipes, woven baskets, ceremonial dress
 - Tin-mining artefacts tracing Perak's economic backbone
 - Weapons, ceramics and colonial-era photographs of Taiping itself
 
-The taxidermy room draws the longest stares — some specimens look decades old, which is part of the charm rather than a flaw. Give yourself 45 minutes minimum; an hour if you read the placards properly.
+The taxidermy room draws the longest stares, some specimens look decades old, which is part of the charm rather than a flaw. Give yourself 45 minutes minimum; an hour if you read the placards properly.
 
 ## Getting there
 
-The museum sits on Jalan Taming Sari, an easy walk from central Taiping if you're already exploring the Lake Gardens or the old shophouse streets nearby. Most visitors arrive on foot or by short taxi/Grab ride from a hotel in town — Taiping doesn't have a rail or metro system, so a car, taxi, or bicycle rental is the practical way to cover ground between sights. Parking is available right outside if you're self-driving from Ipoh or Kuala Lumpur.
+The museum sits on Jalan Taming Sari, an easy walk from central Taiping if you're already exploring the Lake Gardens or the old shophouse streets nearby. Most visitors arrive on foot or by short taxi/Grab ride from a hotel in town, Taiping doesn't have a rail or metro system, so a car, taxi, or bicycle rental is the practical way to cover ground between sights. Parking is available right outside if you're self-driving from Ipoh or Kuala Lumpur.
 
 ## When to go
 
-The museum keeps consistent hours every day: 9am to 5pm, seven days a week. That regularity makes planning easy — no surprise Monday closures to work around.
+The museum keeps consistent hours every day: 9am to 5pm, seven days a week. That regularity makes planning easy, no surprise Monday closures to work around.
 
 Crowd patterns are unusually forgiving here. Weekdays, it's quietest from 4pm to 5pm, right before closing. Weekends are even easier: foot traffic stays light basically all day, with the only real bump between 12pm and 2pm.
 
-If you're building a Taiping day trip around the Lake Gardens, zoo, and this museum, slot the museum into that midday lull-avoidance window — arrive at opening or after 2pm on a weekend for the emptiest galleries.
+If you're building a Taiping day trip around the Lake Gardens, zoo, and this museum, slot the museum into that midday lull-avoidance window. Arrive at opening or after 2pm on a weekend for the emptiest galleries.
 
 ## How to visit like a local
 
-This isn't an undiscovered spot — it's a well-known fixture on Taiping's heritage trail, so treat it as a proper stop rather than an afterthought.
+This isn't an undiscovered spot. It's a well-known fixture on Taiping's heritage trail, so treat it as a proper stop rather than an afterthought.
 
 - **Pay:** entrance fees are modest and typically paid in cash at the counter; bring small ringgit notes just in case card machines are down.
-- **Timing:** weekday late afternoon (4–5pm) is the calmest window of the whole week — good if you want photos of the empty halls.
+- **Timing:** weekday late afternoon (4–5pm) is the calmest window of the whole week, good if you want photos of the empty halls.
 - **Pace:** don't rush the natural history wing; it's the museum's real strength and locals bringing visiting family tend to linger there longest.
 - **Etiquette:** photography is generally fine in most galleries, but check for signage near any temporary or sensitive exhibits before shooting.
 - **Mistake to avoid:** tourists often treat this as a five-minute drive-by stop between the Lake Gardens and lunch. The building and collection reward a proper hour, especially if you appreciate colonial-era architecture as much as the exhibits inside it.

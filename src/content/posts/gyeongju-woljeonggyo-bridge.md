@@ -84,19 +84,19 @@ updatedDate: '2026-09-03'
 ---
 ## Why Go
 
-Woljeonggyo is one of Gyeongju's most photogenic reconstructions — a covered wooden bridge with twin pavilion towers on each end, rebuilt to evoke how it would have looked during the Unified Silla period (roughly 8th century), when it served as a crossing for royalty near the palace grounds of Wolseong. The original bridge was destroyed centuries ago, and archaeologists confirmed its location and scale through excavation before the current structure was completed in 2018.
+Woljeonggyo is one of Gyeongju's most photogenic reconstructions, a covered wooden bridge with twin pavilion towers on each end, rebuilt to evoke how it would have looked during the Unified Silla period (roughly 8th century), when it served as a crossing for royalty near the palace grounds of Wolseong. The original bridge was destroyed centuries ago, and archaeologists confirmed its location and scale through excavation before the current structure was completed in 2018.
 
-What makes it worth the trip today isn't just the history — it's the design. The bridge is elevated on stone piers, roofed in dark tile, and painted in Silla-style dancheong colors, and at night it's illuminated and mirrored in the still water of the Namcheon, creating one of the most reliably beautiful reflection shots in the city.
+What makes it worth the trip today isn't just the history. It's the design. The bridge is elevated on stone piers, roofed in dark tile, and painted in Silla-style dancheong colors, and at night it's illuminated and mirrored in the still water of the Namcheon, creating one of the most reliably beautiful reflection shots in the city.
 
 ## Getting There
 
 Woljeonggyo sits at 48 Gyo-dong, on the southern edge of central Gyeongju, just south of the Wolseong (Banwolseong) fortress site and within easy walking distance of Gyeongju's main historic cluster. Most visitors arrive on foot from Cheomseongdae Observatory or Donggung Palace and Wolji Pond, both about a 15-20 minute walk north. From Gyeongju's intercity bus terminal, it's roughly a 20-25 minute walk, or a short taxi ride (about 5 minutes).
 
-There's no dedicated train station nearby — Gyeongju is served by KTX at Singyeongju Station, from which a taxi or local bus into the historic core takes about 20-30 minutes. Because so much of central Gyeongju is flat and walkable, renting a bicycle from a shop near the bus terminal is a popular way to link Woljeonggyo with other sites in one loop.
+There's no dedicated train station nearby, Gyeongju is served by KTX at Singyeongju Station, from which a taxi or local bus into the historic core takes about 20-30 minutes. Because so much of central Gyeongju is flat and walkable, renting a bicycle from a shop near the bus terminal is a popular way to link Woljeonggyo with other sites in one loop.
 
 ## What to See and Do
 
-The bridge itself is the main event: walk its full length to take in the timber joinery and the view of Namcheon stream from the elevated deck, then step down to the riverbank for the classic low-angle photo with the towers reflected in the water. Just north of the bridge, the low earthen mounds of Wolseong mark the site of the original Silla royal palace, though little remains above ground beyond grassy fortress walls — worth a quick pass for context rather than a long stop.
+The bridge itself is the main event: walk its full length to take in the timber joinery and the view of Namcheon stream from the elevated deck, then step down to the riverbank for the classic low-angle photo with the towers reflected in the water. Just north of the bridge, the low earthen mounds of Wolseong mark the site of the original Silla royal palace, though little remains above ground beyond grassy fortress walls, worth a quick pass for context rather than a long stop.
 
 To the south and east, Gyochon Traditional Village is the natural next stop, home to Gyeongju Hyanggyo (a Confucian school) and the historic Gyeongju Choi Clan House, known for its centuries-old tradition of hospitality and rice wine (gyodong beopju) production. Give the bridge itself about 20-30 minutes, and budget another hour or two if you're folding in Gyochon Village.
 

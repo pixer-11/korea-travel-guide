@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: provence-lavender-fields
-srcHash: '58d3e108fc5d'
+srcHash: '4e371cde7960'
 title: '라벤더 밭: 프로방스 여행 가이드'
 description: 프로방스에서 라벤더를 가장 아름답게 볼 수 있는 시기는 6월 중순부터 8월 초까지이며, 7월 하반기에 절정을 이룬다. 발랑솔 고원(Valensole Plateau), 소 분지(Sault basin), 그리고 본니외(Bonnieux)와 뤼베론(Luberon) 일대의 밭들이 가장 믿을 만한 관광 포인트로 꼽힌다.
 quickAnswer: 프로방스에서 라벤더를 가장 아름답게 볼 수 있는 시기는 6월 중순부터 8월 초까지이며, 7월 하반기에 절정을 이룬다. 발랑솔 고원(Valensole Plateau), 소 분지(Sault basin), 그리고 본니외(Bonnieux)와 뤼베론(Luberon) 일대의 밭들이 가장 믿을 만한 관광 포인트로 꼽힌다. 빛과 서늘한 기온을 모두 고려한다면 이른 아침(오전 7~9시)이나 해 지기 전 골든아워를 노리는 것이 좋고, 밭들이 시골의 D도로를 따라 흩어져 있고 기차로는 접근할 수 없으므로 렌터카를 이용해야 한다.

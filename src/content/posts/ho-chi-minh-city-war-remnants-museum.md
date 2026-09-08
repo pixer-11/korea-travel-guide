@@ -103,7 +103,7 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-The War Remnants Museum is one of Ho Chi Minh City's most visited and most talked-about sites, with over 40,000 reviews and a 4.5 rating reflecting how consistently it affects visitors. It documents the Vietnam War (and earlier French Indochina conflict) primarily through photojournalism, captured military equipment, and reconstructed exhibits like the "tiger cages" used to hold political prisoners. The museum presents a Vietnamese and often anti-war-photographer perspective rather than a neutral, both-sides account — worth knowing going in, since it shapes the framing of every gallery.
+The War Remnants Museum is one of Ho Chi Minh City's most visited and most talked-about sites, with over 40,000 reviews and a 4.5 rating reflecting how consistently it affects visitors. It documents the Vietnam War (and earlier French Indochina conflict) primarily through photojournalism, captured military equipment, and reconstructed exhibits like the "tiger cages" used to hold political prisoners. The museum presents a Vietnamese and often anti-war-photographer perspective rather than a neutral, both-sides account, worth knowing going in, since it shapes the framing of every gallery.
 
 Even visitors who find the messaging one-sided generally describe the photography exhibits, especially the Requiem collection of war correspondents' final images, as some of the most powerful in Southeast Asia.
 
@@ -115,9 +115,9 @@ There is no metro line serving District 3 directly yet, so taxis, Grab motorbike
 
 ## What to see
 
-Start outside: the courtyard displays captured US aircraft (including an F-5 fighter jet and a Chinook helicopter), tanks, and artillery, which kids and casual visitors often find the most approachable entry point. Inside, the ground floor typically covers the history of the conflict and international anti-war protest movements, while upper floors house the harder-hitting galleries — the Agent Orange/dioxin exhibit documenting chemical warfare's effects on Vietnamese civilians and US veterans alike, and the "Requiem" exhibition of photographs taken by journalists (from both sides) who died covering the war, curated with help from photographer Tim Page.
+Start outside: the courtyard displays captured US aircraft (including an F-5 fighter jet and a Chinook helicopter), tanks, and artillery, which kids and casual visitors often find the most approachable entry point. Inside, the ground floor typically covers the history of the conflict and international anti-war protest movements, while upper floors house the harder-hitting galleries, the Agent Orange/dioxin exhibit documenting chemical warfare's effects on Vietnamese civilians and US veterans alike, and the "Requiem" exhibition of photographs taken by journalists (from both sides) who died covering the war, curated with help from photographer Tim Page.
 
-The reconstructed guillotine and tiger cage displays, relocated from Con Dao prison, show French and South Vietnamese-era detention methods. None of this is sanitized — expect graphic photographs of casualties and deformities from chemical exposure, so it's not recommended for young children.
+The reconstructed guillotine and tiger cage displays, relocated from Con Dao prison, show French and South Vietnamese-era detention methods. None of this is sanitized. Expect graphic photographs of casualties and deformities from chemical exposure, so it's not recommended for young children.
 
 ## When to go
 
@@ -127,6 +127,6 @@ The museum is indoors for most galleries, making it a reasonable rainy-season (J
 
 ## Nearby & tips
 
-Pair the visit with Reunification Palace (a few minutes away) and Notre-Dame Cathedral / Central Post Office for a full morning of central Saigon history. Bring your passport or ID if you want any student/senior discount categories, and confirm current admission pricing and hours locally or via the museum's official channels before visiting, since these change periodically. Photography is generally allowed in most galleries, but be respectful in the Agent Orange and Requiem sections — many visitors find these areas genuinely upsetting rather than a photo backdrop.
+Pair the visit with Reunification Palace (a few minutes away) and Notre-Dame Cathedral / Central Post Office for a full morning of central Saigon history. Bring your passport or ID if you want any student/senior discount categories, and confirm current admission pricing and hours locally or via the museum's official channels before visiting, since these change periodically. Photography is generally allowed in most galleries, but be respectful in the Agent Orange and Requiem sections, many visitors find these areas genuinely upsetting rather than a photo backdrop.
 
 Wear comfortable shoes for the concrete courtyard, and carry water, as shade is limited outside. English-language signage is generally solid, but a guided tour or audio guide, where available, adds useful context the placards don't cover.

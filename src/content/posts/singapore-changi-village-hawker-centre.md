@@ -51,23 +51,23 @@ draft: false
 
 You smell it before you see the tables: charcoal smoke curling up from the satay grills, the sweet-savoury tang of pandan and coconut milk drifting out from the nasi lemak stalls. Changi Village Hawker Centre sits at the far northeastern edge of Singapore, a single-storey open-air building with a corrugated roof, whirring ceiling fans, and rows of communal Formica tables that have clearly seen decades of elbows and spilled chilli sauce.
 
-It's unglamorous in the best way — plastic stools, hand-written menu boards, the constant clatter of metal trays being stacked.
+It's unglamorous in the best way, plastic stools, hand-written menu boards, the constant clatter of metal trays being stacked.
 
 ## Why it's worth the trip
 
-This isn't a hawker centre you stumble on by accident; it's a destination in itself, tucked at the end of the line past Changi Airport. People come specifically for a handful of stalls that have built reputations over generations. The nasi lemak here — coconut rice, a fried egg, crisp anchovies, cucumber, and a fiery sambal spooned on with real conviction — is the reason most plates on any given table look the same.
+This isn't a hawker centre you stumble on by accident; it's a destination in itself, tucked at the end of the line past Changi Airport. People come specifically for a handful of stalls that have built reputations over generations. The nasi lemak here (coconut rice, a fried egg, crisp anchovies, cucumber, and a fiery sambal spooned on with real conviction) is the reason most plates on any given table look the same.
 
 Alongside it you'll find fried banana fritters (goreng pisang) blistered and glistening straight out of the oil, and satay skewers fanned out on wire racks, charring over open coals with that particular smoky-sweet peanut sauce on the side.
 
 ## Getting there
 
-The centre sits at 2 Changi Village Rd, on the northeastern tip of Singapore island, well past the airport. There's no MRT station within walking distance — the nearest approach is by bus from Tanah Merah or Pasir Ris MRT stations, both served by the East-West Line, with several services terminating right at the Changi Village bus interchange next door. A taxi or ride-hail app from the airport takes about 15–20 minutes and is the easiest option if you're short on time or arriving with luggage.
+The centre sits at 2 Changi Village Rd, on the northeastern tip of Singapore island, well past the airport. There's no MRT station within walking distance. The nearest approach is by bus from Tanah Merah or Pasir Ris MRT stations, both served by the East-West Line, with several services terminating right at the Changi Village bus interchange next door. A taxi or ride-hail app from the airport takes about 15–20 minutes and is the easiest option if you're short on time or arriving with luggage.
 
 ## What to eat
 
-Go in with a plan, because the good stalls draw queues and you don't want to be dithering. Nasi lemak is the headline dish — order it with extra sides like fried chicken wing or luncheon meat if you want a fuller plate. The fried banana and sweet potato fritters make a good mid-afternoon snack, eaten hot in a paper bag as you walk.
+Go in with a plan, because the good stalls draw queues and you don't want to be dithering. Nasi lemak is the headline dish, order it with extra sides like fried chicken wing or luncheon meat if you want a fuller plate. The fried banana and sweet potato fritters make a good mid-afternoon snack, eaten hot in a paper bag as you walk.
 
-Satay stalls here grill to order, so expect a short wait for skewers that arrive properly charred rather than reheated. Beyond the famous three, look for stalls doing carrot cake (fried radish cake, not the Western dessert), laksa, and fresh fruit juices — useful for cutting through the heat once you're a few plates in.
+Satay stalls here grill to order, so expect a short wait for skewers that arrive properly charred rather than reheated. Beyond the famous three, look for stalls doing carrot cake (fried radish cake, not the Western dessert), laksa, and fresh fruit juices, useful for cutting through the heat once you're a few plates in.
 
 ## When to go
 
@@ -75,10 +75,10 @@ Weekday mornings and early afternoons are noticeably calmer than weekend lunches
 
 ## How to visit like a local
 
-Order at the stall counter, not from a server — you pay when you collect your food, almost always in cash, though more stalls now accept mobile payments like PayNow. Don't sit down first and wait for menus; grab a table (a packet of tissues left on a seat is the universal "reserved" signal here), then split up to queue at different stalls if your group wants a variety of dishes.
+Order at the stall counter, not from a server, you pay when you collect your food, almost always in cash, though more stalls now accept mobile payments like PayNow. Don't sit down first and wait for menus; grab a table (a packet of tissues left on a seat is the universal "reserved" signal here), then split up to queue at different stalls if your group wants a variety of dishes.
 
-Because this is a genuinely well-visited hawker centre rather than a quiet local secret, the biggest mistake newcomers make is joining the longest queue on principle — it's usually for the most famous stall, not necessarily the best plate that day, and a shorter neighbouring queue can be just as good. Bring small change, share tables without hesitation (it's completely normal here), and clear your own tray to the return points, a habit most regulars follow without being asked.
+Because this is a genuinely well-visited hawker centre rather than a quiet local secret, the biggest mistake newcomers make is joining the longest queue on principle. It's usually for the most famous stall, not necessarily the best plate that day, and a shorter neighbouring queue can be just as good. Bring small change, share tables without hesitation (it's completely normal here), and clear your own tray to the return points, a habit most regulars follow without being asked.
 
 ## Nearby, worth combining
 
-Once you've eaten, Changi Beach Park is a short walk away for a breezy stroll along the water, and the ferry terminal for Pulau Ubin — Singapore's slower-paced, cycling-friendly island — is close by too, making this a natural first or last stop on a half-day out to the island.
+Once you've eaten, Changi Beach Park is a short walk away for a breezy stroll along the water, and the ferry terminal for Pulau Ubin (Singapore's slower-paced, cycling-friendly island) is close by too, making this a natural first or last stop on a half-day out to the island.

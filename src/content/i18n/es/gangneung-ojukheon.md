@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-ojukheon
-srcHash: '22594c1c08f9'
+srcHash: 'fe8be932aebc'
 title: 'Ojukheon: Guía de viaje de Gangneung (4,4★)'
 description: 'Ojukheon es la casa-museo histórica más importante de Gangneung, lugar de nacimiento del erudito Yi Yulgok y de su madre, la artista Shin Saimdang. 4,4★ (10.738 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ojukheon es la casa-museo histórica más importante de Gangneung, lugar de nacimiento del erudito Yi Yulgok y de su madre, la artista Shin Saimdang. Abre todos los días de 9:00 a 17:00, con la última entrada normalmente una hora antes del cierre, así que reserva entre 60 y 90 minutos. Es un lugar muy visitado más que un secreto tranquilo, así que procura ir un día laborable por la mañana, poco después de la apertura, para evitar los grupos turísticos.

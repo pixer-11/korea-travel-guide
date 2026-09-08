@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-the-hanoi-cafe
-srcHash: '637d0541b331'
+srcHash: '65518deb1387'
 title: 'The Hanoi Cafe: dónde comer (4,8★)'
 description: 'Escondido en un callejón estrecho de la calle P. Yên Thái, en el Barrio Antiguo de Hoan Kiem, The Hanoi Cafe es un local muy conocido por su café de huevo y su cocina casera vietnamita, abierto todos los días de 7:45 a 22:00. 4,8★ (2.115 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Escondido en un callejón estrecho de la calle P. Yên Thái, en el Barrio Antiguo de Hoan Kiem, The Hanoi Cafe es un local muy conocido por su café de huevo y su cocina casera vietnamita, abierto todos los días de 7:45 a 22:00. Los fines de semana se llena entre las 10:00 y las 14:00, así que conviene ir justo al abrir, entre las 8:00 y las 9:00, o cualquier mañana entre semana si se quiere mesa sin espera. Los precios son medios para el Barrio Antiguo, y la carta combina el cà phê trứng con auténticos platos del norte de Vietnam.

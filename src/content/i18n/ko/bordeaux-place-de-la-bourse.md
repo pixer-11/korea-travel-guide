@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bordeaux-place-de-la-bourse
-srcHash: '9723dc5e755f'
+srcHash: 'f715d10b1439'
 title: '플라스 드 라 부르스: 보르도 여행 가이드 (4.6★)'
 description: 플라스 드 라 부르스(Place de la Bourse)는 가론강(Garonne)변에 자리한 보르도의 대표적인 18세기 광장으로, 건물 파사드를 거울처럼 비추는 거대한 반사 연못 미루아 도(Miroir d'Eau)로 가장 유명합니다. 4.7★ (리뷰 20,285개) — 방문객들의 후기, 운영 시간, 그리고 팁을 소개합니다.
 quickAnswer: 플라스 드 라 부르스(Place de la Bourse)는 가론강(Garonne)변에 자리한 보르도의 대표적인 18세기 광장으로, 건물 파사드를 거울처럼 비추는 거대한 반사 연못 미루아 도(Miroir d'Eau)로 가장 유명합니다. 하루 종일 개방되어 있지만, 사람들이 몰리기 전에 거의 텅 빈 광장을 보고 싶다면 평일 오전 7시~9시(주말은 오전 7시~10시) 사이에 방문하는 것이 좋습니다.

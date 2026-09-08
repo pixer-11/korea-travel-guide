@@ -92,32 +92,32 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-You reach it by following the river, not a street sign. Walk south along the Ría de Bilbao past the Guggenheim's titanium curves, past the Deusto footbridge, and the buildings start to change character — glass towers give way to cranes, dry docks, and rusted ironwork left exactly where the shipwrights left it. This is the old Euskalduna shipyard, once one of the busiest builders of steel-hulled ships on Spain's Atlantic coast, and it's where Itsasmuseum makes its home.
+You reach it by following the river, not a street sign. Walk south along the Ría de Bilbao past the Guggenheim's titanium curves, past the Deusto footbridge, and the buildings start to change character, glass towers give way to cranes, dry docks, and rusted ironwork left exactly where the shipwrights left it. This is the old Euskalduna shipyard, once one of the busiest builders of steel-hulled ships on Spain's Atlantic coast, and it's where Itsasmuseum makes its home.
 
-The setting does half the storytelling before you've bought a ticket. Outside, the museum spills into an open-air dry dock — a genuine graving dock you can walk down into, its concrete walls rising around you the way they once rose around hulls under construction. Tugboats and fishing vessels sit in dry berth at odd, dramatic angles, close enough to touch the rivets. It's a strange, quiet feeling to stand at the bottom of a dock built for ships and realize you're now standing where the waterline used to be.
+The setting does half the storytelling before you've bought a ticket. Outside, the museum spills into an open-air dry dock. A genuine graving dock you can walk down into, its concrete walls rising around you the way they once rose around hulls under construction. Tugboats and fishing vessels sit in dry berth at odd, dramatic angles, close enough to touch the rivets. It's a strange, quiet feeling to stand at the bottom of a dock built for ships and realize you're now standing where the waterline used to be.
 
 ## What's inside
 
 Indoors, the collection is organized around Bilbao's identity as a port city rather than as a chronological ship-by-ship catalogue. Scale models of Basque fishing boats and merchant vessels fill glass cases, alongside tools from the shipyard floor, navigational instruments, and photographs of the estuary before the 1990s regeneration that gave Bilbao the Guggenheim, the Zubizuri bridge, and the walkable riverfront it has now.
 
-One gallery traces how the ría shifted from an industrial working river choked with shipbuilding and iron-ore traffic to the cultural corridor it is today — useful context if you're spending your trip mostly among the museums and restaurants a few hundred meters upstream and want to understand what came before them.
+One gallery traces how the ría shifted from an industrial working river choked with shipbuilding and iron-ore traffic to the cultural corridor it is today, useful context if you're spending your trip mostly among the museums and restaurants a few hundred meters upstream and want to understand what came before them.
 
 ## Why it's worth the detour
 
-Itsasmuseum isn't a quick add-on stop; it rewards visitors curious about how a heavy-industry river town reinvented itself, and it's consistently well rated among Bilbao's museum-going crowd. It won't have the queues of the Guggenheim, but it draws a steady, well-informed audience of maritime history fans and locals tracing family or civic history — this is a well-known fixture on Bilbao's museum circuit, not an undiscovered spot, so treat it as a considered addition to your itinerary rather than a casual afterthought.
+Itsasmuseum isn't a quick add-on stop; it rewards visitors curious about how a heavy-industry river town reinvented itself, and it's consistently well rated among Bilbao's museum-going crowd. It won't have the queues of the Guggenheim, but it draws a steady, well-informed audience of maritime history fans and locals tracing family or civic history. This is a well-known fixture on Bilbao's museum circuit, not an undiscovered spot, so treat it as a considered addition to your itinerary rather than a casual afterthought.
 
 ## Getting there
 
-The museum sits on Ramón de la Sota Kaia in the Abando district, on the same riverside path as the Euskalduna Congress Centre and Palace. From the Guggenheim, it's roughly a 15–20 minute walk along the river promenade — genuinely one of the more pleasant walks in the city, with the water on one side and the hills of Bilbao rising on the other.
+The museum sits on Ramón de la Sota Kaia in the Abando district, on the same riverside path as the Euskalduna Congress Centre and Palace. From the Guggenheim, it's roughly a 15–20 minute walk along the river promenade, genuinely one of the more pleasant walks in the city, with the water on one side and the hills of Bilbao rising on the other.
 
 If you'd rather not walk, Bilbao's tram line (Euskotran) stops near the Euskalduna Palace, and the San Mamés metro station (Line 1 and Line 2) is within a similar distance on foot.
 
 ## When to go
 
-The museum is open most days of the week, though it's worth confirming the exact hours before you go — plan around that if your itinerary is tight on time. Crowd patterns show weekends staying busy across the entire opening window, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
+The museum is open most days of the week, though it's worth confirming the exact hours before you go. Plan around that if your itinerary is tight on time. Crowd patterns show weekends staying busy across the entire opening window, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
 
 ## How to visit like a local
 
-Buy your ticket at the counter rather than worrying about advance booking — this isn't a venue that regularly sells out. Cash and card are both accepted at the desk. Don't rush straight past the outdoor dry dock to get inside; it's easy to treat it as mere approach and miss what's actually one of the most memorable parts of the visit — descend into it and look up at the walls.
+Buy your ticket at the counter rather than worrying about advance booking, this isn't a venue that regularly sells out. Cash and card are both accepted at the desk. Don't rush straight past the outdoor dry dock to get inside; it's easy to treat it as mere approach and miss what's actually one of the most memorable parts of the visit, descend into it and look up at the walls.
 
 The etiquette mistake most first-time visitors make is treating this as a five-minute detour before or after the Guggenheim; give it a proper hour and read the wall texts on the ría's industrial history, because that context reframes everything else you'll see in Bilbao's now-polished riverfront. If you're weekend-bound and want fewer people around the ship models, aim for the 11am opening rather than midafternoon.

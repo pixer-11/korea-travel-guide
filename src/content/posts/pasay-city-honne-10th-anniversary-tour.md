@@ -30,13 +30,13 @@ photoless: true
 ---
 ## Why this show matters
 
-HONNE — the British duo of Andy Clutterbuck and James Hatcher, known for silky R&B-pop tracks like "Warm on a Cold Night" and "Location Unknown" — marked ten years together with a run of anniversary shows worldwide. Manila got three consecutive nights, August 10–12, 2026, a rare multi-date stop that suggested strong regional demand and gave fans flexibility across dates.
+HONNE (the British duo of Andy Clutterbuck and James Hatcher, known for silky R&B-pop tracks like "Warm on a Cold Night" and "Location Unknown") marked ten years together with a run of anniversary shows worldwide. Manila got three consecutive nights, August 10–12, 2026, a rare multi-date stop that suggested strong regional demand and gave fans flexibility across dates.
 
 Multi-night runs at PICC are typically reserved for acts with a proven, loyal Southeast Asian fanbase.
 
 ## The venue: PICC Plenary Hall
 
-The Philippine International Convention Center sits on Vicente Sotto Street in the Financial Center area of Pasay City, right along Roxas Boulevard near Manila Bay. It's a state-run convention complex from the 1970s that regularly hosts concerts, conferences, and expos, and the Plenary Hall is one of its larger indoor spaces — a seated/standing hybrid layout depending on how organizers configure the show. Because it's a conference venue rather than a dedicated arena, it offers general convention-center amenities (large lobbies, multiple entrances, ample restrooms) rather than stadium-style concourses.
+The Philippine International Convention Center sits on Vicente Sotto Street in the Financial Center area of Pasay City, right along Roxas Boulevard near Manila Bay. It's a state-run convention complex from the 1970s that regularly hosts concerts, conferences, and expos, and the Plenary Hall is one of its larger indoor spaces, a seated/standing hybrid layout depending on how organizers configure the show. Because it's a conference venue rather than a dedicated arena, it offers general convention-center amenities (large lobbies, multiple entrances, ample restrooms) rather than stadium-style concourses.
 
 ## Getting there
 
@@ -56,7 +56,7 @@ Accommodation in Pasay or nearby Makati tends to fill quickly around anniversary
 
 ## How to visit like a local
 
-Manila concertgoers overwhelmingly pay by card or GCash (the dominant mobile wallet) when buying tickets online, and physical box-office cash sales are increasingly rare for major touring acts — buying through the official platform rather than resellers helps avoid inflated markups or counterfeit tickets. For general-admission floor sections, early arrival is standard practice among regular Manila gig-goers, since PICC's layout means the queue outside often starts forming well before doors.
+Manila concertgoers overwhelmingly pay by card or GCash (the dominant mobile wallet) when buying tickets online, and physical box-office cash sales are increasingly rare for major touring acts, buying through the official platform rather than resellers helps avoid inflated markups or counterfeit tickets. For general-admission floor sections, early arrival is standard practice among regular Manila gig-goers, since PICC's layout means the queue outside often starts forming well before doors.
 
 Traffic along Roxas Boulevard and around the Financial Center backs up fast after big events, so locals typically pre-arrange a pickup point with their Grab driver a block or two away rather than waiting curbside in the post-show crush. The most common mistake visitors make is underestimating EDSA and coastal-road traffic getting to Pasay during evening rush, especially on a Friday or weekend night.
 

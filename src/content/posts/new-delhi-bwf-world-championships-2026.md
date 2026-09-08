@@ -32,7 +32,7 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and the 2026 edition went to India, the country's first time hosting in 17 years. That gave the week a landmark billing for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young.
+Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and the 2026 edition went to India, the country's first time hosting in 17 years. That gave the week a landmark billing for South Asian badminton fans, a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young.
 
 For visitors, it also paired world-class sport with a first (or repeat) trip to Delhi, one of the subcontinent's great historic capitals.
 
@@ -46,7 +46,7 @@ Delhi's international gateway is Indira Gandhi International Airport (DEL), conn
 
 The announced schedule used the standard World Championships format: five days of qualifying and early rounds (singles and doubles across men's, women's, and mixed draws) building toward quarterfinals, semifinals, and finals on the closing weekend of August 22–23. Session tickets are usually sold separately for morning and evening blocks, with final-day sessions commanding the highest demand and price.
 
-Beyond the court, Delhi's badminton culture runs deep — India has produced a run of world-class players over the past two decades, so local crowds tend to be knowledgeable and vocal, especially for matches involving Indian players like Sen and Sindhu.
+Beyond the court, Delhi's badminton culture runs deep, India has produced a run of world-class players over the past two decades, so local crowds tend to be knowledgeable and vocal, especially for matches involving Indian players like Sen and Sindhu.
 
 ## When to go and what else to see
 
@@ -56,4 +56,4 @@ Downtime between sessions suits Delhi's landmark sites, many an easy metro ride 
 
 ## Practical tips
 
-Central Delhi — Connaught Place, Lutyens' Delhi, or South Delhi — is the practical place to stay, rather than out by the airport, since the arena sits close to the city center. Security screening is standard at major Indian sporting events, and it adds time at the gates before each session.
+Central Delhi (Connaught Place, Lutyens' Delhi, or South Delhi) is the practical place to stay, rather than out by the airport, since the arena sits close to the city center. Security screening is standard at major Indian sporting events, and it adds time at the gates before each session.

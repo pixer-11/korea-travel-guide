@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: incheon-chinatown
-srcHash: '2d57dbbe0bba'
+srcHash: '31c587384d59'
 title: 仁川中华街
 description: 仁川中华街就在仁川站(1号线，1号出口)外面，最适合安排半天行程:漫步挂满红灯笼的中华街路(Chinatown-ro)斜坡，在某家老字号中餐馆吃一碗炸酱面(jajangmyeon，黑豆酱面)，然后走上自由公园(Jayu Park)，再走下开港近代历史街区和王妃马路壁画巷(Wangbimarosugil)。
 quickAnswer: 仁川中华街就在仁川站(1号线，1号出口)外面，最适合安排半天行程:漫步挂满红灯笼的中华街路(Chinatown-ro)斜坡，在某家老字号中餐馆吃一碗炸酱面(jajangmyeon，黑豆酱面)，然后走上自由公园(Jayu Park)，再走下开港近代历史街区和王妃马路壁画巷(Wangbimarosugil)。建议选平日午后前往，以避开旅行团人潮，并预留3-4小时(包含用餐时间)。

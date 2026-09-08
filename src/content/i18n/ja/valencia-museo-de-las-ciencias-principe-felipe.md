@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: valencia-museo-de-las-ciencias-principe-felipe
-srcHash: '9606d973eff2'
+srcHash: '6111126f3abe'
 title: プリンシペ・フェリペ科学博物館(Museo de las Ciencias Príncipe Felipe):バレンシア旅行ガイド
 description: プリンシペ・フェリペ科学博物館は、リブ状のガラスとコンクリートが印象的な科学博物館で、バレンシアの芸術科学都市(Ciudad de las Artes y de las Ciencias)の中心的存在です。3フロアの体験型展示を巡るには2〜3時間を予定しておきましょう。4.4★(57,652件のレビュー)— 訪問者の声、営業時間、そして訪問のヒントをご紹介します。
 quickAnswer: プリンシペ・フェリペ科学博物館は、リブ状のガラスとコンクリートが印象的な科学博物館で、バレンシアの芸術科学都市(Ciudad de las Artes y de las Ciencias)の中心的存在です。3フロアの体験型展示を巡るには2〜3時間を予定しておきましょう。平日は終日(午前10時〜午後10時)静かですが、週末は混雑する午前11時〜午後7時の時間帯は避け、午後7時〜午後10時に訪れるのがおすすめです。地下鉄3号線または5号線でアラメダ(Alameda)駅へ行き、そこから旧トゥリア川跡地の公園(Turia)沿いを20分ほど歩く(またはバスを利用する)とアクセスできます。

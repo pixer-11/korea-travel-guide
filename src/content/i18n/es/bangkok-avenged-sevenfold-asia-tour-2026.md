@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-avenged-sevenfold-asia-tour-2026
-srcHash: 'de4dbb694932'
+srcHash: '829d775951f4'
 title: 'Gira asiática 2026 de Avenged Sevenfold: fechas, entradas y recinto (Bangkok)'
 description: Avenged Sevenfold llega a Bangkok, Tailandia, con su gira asiática 2026, el 6 y 7 de octubre de 2026. Qué es, cuándo y dónde ocurre, y cómo organizar el viaje en torno al concierto.
 quickAnswer: 'La gira asiática 2026 de Avenged Sevenfold pasa por Bangkok durante dos noches, el 6 y el 7 de octubre, en el Thunder Dome: son los primeros shows de la banda en Tailandia en once años. Las dos fechas están agotadas, así que conseguir entradas ahora implica recurrir al mercado de reventa o a los canales oficiales de intercambio, no a la taquilla habitual. Conviene confirmar horarios y disponibilidad de entradas en el sitio oficial antes de organizar cualquier plan de viaje en torno al concierto.'

@@ -88,7 +88,7 @@ The star attraction is the Tomb of Bellerophon, a temple-fronted rock tomb named
 
 Tlos sits inland off the Saklıkent road, roughly 45 minutes to an hour by car from central Fethiye. Renting a car or scooter gives you the most flexibility, since public buses (dolmuş) run less frequently and require a change in Kınık or Seydikemer.
 
-Many visitors combine Tlos with Saklıkent Gorge, which lies about 15 minutes further along the same road — a natural pairing for a half-day inland trip. Taxis and organized day tours from Fethiye are common if you'd rather skip navigating rural roads yourself.
+Many visitors combine Tlos with Saklıkent Gorge, which lies about 15 minutes further along the same road, a natural pairing for a half-day inland trip. Taxis and organized day tours from Fethiye are common if you'd rather skip navigating rural roads yourself.
 
 ## What to see once inside
 
@@ -117,7 +117,7 @@ Tlos draws steady numbers of visitors, especially as a stop on inland day tours 
 - **Bring cash for the entrance fee.** Small ticket booths at rural Turkish heritage sites don't always have reliable card machines.
 - **Wear real walking shoes.** The path to the acropolis is uneven, loose gravel in places, and there's minimal shade.
 - **Carry more water than you think you need.** There's no shop once you're past the entrance kiosk.
-- **Don't skip the stadium and bath ruins near the entrance** — many visitors head straight up to the tombs and fortress and miss these lower-level structures entirely.
+- **Don't skip the stadium and bath ruins near the entrance**, many visitors head straight up to the tombs and fortress and miss these lower-level structures entirely.
 - **Combine it with Saklıkent Gorge** in the same trip; locals treat the two as a natural half-day loop rather than separate excursions.
 
 ## Nearby, if you have more time

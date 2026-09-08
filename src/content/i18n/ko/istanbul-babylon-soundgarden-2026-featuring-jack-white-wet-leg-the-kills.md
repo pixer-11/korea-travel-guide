@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: 'e589782430eb'
+srcHash: '809e7c8a1c81'
 title: 'Babylon Soundgarden 2026: 잭 화이트, 웻 렉, 더 킬스 출연 예정이었던 이스탄불 페스티벌 안내'
 description: Babylon Soundgarden 2026은 2026년 8월 22일부터 23일까지 이스탄불 파크오르만 자연공원(Parkorman Nature Park)에서 열릴 예정이었으며, 잭 화이트, 웻 렉, 더 킬스가 헤드라이너로 이름을 올렸습니다.
 quickAnswer: Babylon Soundgarden 2026은 2026년 8월 22일부터 23일까지 이스탄불 마슬락/사르예르(Maslak/Sarıyer) 지역에 위치한 파크오르만 자연공원(Parkorman Nature Park)에서 열릴 예정이었고, 잭 화이트, 웻 렉, 더 킬스가 발표된 헤드라이너 명단에 포함되어 있었습니다. 주최 측은 유럽 쪽에 자리한 숲속 공원 공연장에서 이틀간 진행되는 야외 페스티벌로 일정을 짰습니다. 파크오르만은 레벤트(Levent)와 마슬락에서 택시나 차량 공유 서비스로 어렵지 않게 오갈 수 있는 곳이었습니다.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: milan-pinacoteca-di-brera
-srcHash: 'a24bc1ac234a'
+srcHash: '893037ea428e'
 title: 布雷拉美术馆（Pinacoteca di Brera）：米兰旅行指南（4.7★）
 description: 布雷拉美术馆是米兰伟大的文艺复兴绘画殿堂，坐落在布雷拉区一座17世纪宫殿的楼上，从蒙特拿破仑（Montenapoleone）或兰扎（Lanza）地铁站（2号线）步行即可到达。4.7★（34,976条评价）——看看游客怎么说，附开放时间和游览贴士。
 quickAnswer: 布雷拉美术馆是米兰伟大的文艺复兴绘画殿堂，坐落在布雷拉区一座17世纪宫殿的楼上，从蒙特拿破仑（Montenapoleone）或兰扎（Lanza）地铁站（2号线）步行即可到达。两小时左右即可看到曼特尼亚（Mantegna）透视感极强的《死去的基督》、皮耶罗·德拉·弗朗切斯卡（Piero della Francesca）的蒙特费尔特罗祭坛画，以及拉斐尔的《圣母的婚礼》。建议开馆时或傍晚6点后前往，以避开周末上午10点到下午6点之间的人潮高峰。

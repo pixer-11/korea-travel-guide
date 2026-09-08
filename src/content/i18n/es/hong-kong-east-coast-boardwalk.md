@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-east-coast-boardwalk
-srcHash: '0d8e4431a3be'
+srcHash: 'db5eb19488b6'
 title: 'East Coast Boardwalk: guía de viaje de Hong Kong (4,5★)'
 description: 'East Coast Boardwalk es un paseo frente al mar bajo el Island Eastern Corridor, en Causeway Bay, frecuentado por corredores, ciclistas y amantes del atardecer más que por grupos turísticos. 4,5★ (156 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: East Coast Boardwalk es un paseo frente al mar bajo el Island Eastern Corridor, en Causeway Bay, frecuentado por corredores, ciclistas y amantes del atardecer más que por grupos turísticos. Está abierto las 24 horas, y el momento más tranquilo es entre las 7:00 y las 8:00 de la mañana cualquier día de la semana; después de las 11:00 los fines de semana se llena rápidamente. Se viene por las vistas del puerto hacia Kowloon y Kai Tak, no por las instalaciones, así que conviene traer agua propia.

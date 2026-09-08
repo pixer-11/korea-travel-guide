@@ -85,21 +85,21 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-Bali's Bukit Peninsula has no shortage of beach clubs and pan-Asian fusion menus, but genuine Greek cooking is rare here — which is exactly why AVLI has generated buzz since opening. It occupies a purpose-built space designed by an architecture practice known for sculptural, materials-forward interiors, and the scale alone sets it apart from the smaller warung-style restaurants that dominate Jalan Labuansait.
+Bali's Bukit Peninsula has no shortage of beach clubs and pan-Asian fusion menus, but genuine Greek cooking is rare here, which is exactly why AVLI has generated buzz since opening. It occupies a purpose-built space designed by an architecture practice known for sculptural, materials-forward interiors, and the scale alone sets it apart from the smaller warung-style restaurants that dominate Jalan Labuansait.
 
 For visitors who've done the rounds of Uluwatu's clifftop lounges and want a change of cuisine and atmosphere without leaving the peninsula, AVLI is the newest name to know.
 
 ## Where it is and how to get there
 
-AVLI sits directly on Jalan Labuansait, the main artery running through Uluwatu village toward the famous surf break and Single Fin. This road is the spine of the area's dining and nightlife strip, so AVLI is easy to fold into an evening that also takes in nearby cafés, surf shops, and sunset spots. There's no public transport network to speak of on the Bukit — the standard approach is by scooter, private car, or a ride-hailing app (Gojek/Grab both operate in the area, though pickup can be slower than in central Kuta or Seminyak due to traffic on the peninsula's narrow roads).
+AVLI sits directly on Jalan Labuansait, the main artery running through Uluwatu village toward the famous surf break and Single Fin. This road is the spine of the area's dining and nightlife strip, so AVLI is easy to fold into an evening that also takes in nearby cafés, surf shops, and sunset spots. There's no public transport network to speak of on the Bukit. The standard approach is by scooter, private car, or a ride-hailing app (Gojek/Grab both operate in the area, though pickup can be slower than in central Kuta or Seminyak due to traffic on the peninsula's narrow roads).
 
 If you're staying in Uluwatu or Bingin, it's a short ride; from Seminyak or Canggu, budget 45 minutes to over an hour depending on traffic, especially around sunset when everyone converges on the Bukit's clifftop bars.
 
 ## What to expect
 
-AVLI's concept is modern Greek — a cuisine built around open-fire cooking, olive oil, fresh seafood, and produce-driven mezze, though the exact menu and seasonal offerings should be confirmed directly with the restaurant since these details shift. The draw here is as much architectural as culinary: DA Bureau's design work tends to foreground raw materials, open volumes, and indoor-outdoor flow, which suits the Bukit's warm-climate dining culture.
+AVLI's concept is modern Greek. A cuisine built around open-fire cooking, olive oil, fresh seafood, and produce-driven mezze, though the exact menu and seasonal offerings should be confirmed directly with the restaurant since these details shift. The draw here is as much architectural as culinary: DA Bureau's design work tends to foreground raw materials, open volumes, and indoor-outdoor flow, which suits the Bukit's warm-climate dining culture.
 
-Expect a space built for both intimate dinners and larger groups, given the sizeable footprint. As with any newly opened restaurant riding a wave of interest, table availability can tighten quickly on weekends — calling ahead or booking online, if the option exists, is the safer play rather than walking in.
+Expect a space built for both intimate dinners and larger groups, given the sizeable footprint. As with any newly opened restaurant riding a wave of interest, table availability can tighten quickly on weekends, calling ahead or booking online, if the option exists, is the safer play rather than walking in.
 
 ## When to go
 
@@ -107,4 +107,4 @@ Uluwatu's dining and nightlife rhythm peaks around sunset, roughly 5:30–6:30pm
 
 ## Nearby & practical tips
 
-Because AVLI is on Labuansait, it's easy to combine with a visit to Uluwatu Temple (Pura Luhur Uluwatu), a clifftop temple famous for its Kecak fire dance performances at sunset, roughly a 10–15 minute drive away. The surf breaks at Uluwatu and Padang Padang Beach are also close, making this a natural stop for a post-surf dinner. Given how recently AVLI opened, treat specifics like operating hours, dress code, and whether it takes walk-ins as fluid — a quick check of the restaurant's official channels or a phone call on the day of your visit will save a wasted trip.
+Because AVLI is on Labuansait, it's easy to combine with a visit to Uluwatu Temple (Pura Luhur Uluwatu), a clifftop temple famous for its Kecak fire dance performances at sunset, roughly a 10–15 minute drive away. The surf breaks at Uluwatu and Padang Padang Beach are also close, making this a natural stop for a post-surf dinner. Given how recently AVLI opened, treat specifics like operating hours, dress code, and whether it takes walk-ins as fluid, a quick check of the restaurant's official channels or a phone call on the day of your visit will save a wasted trip.

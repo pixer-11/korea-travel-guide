@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-the-grill-barcelona
-srcHash: '1355145dfc27'
+srcHash: 'b33687aaa841'
 title: The Grill:巴塞罗那美食推荐（4.8★）
 description: The Grill Barcelona 坐落在哥伦布纪念碑（Columbus Monument）脚下的和平门广场（Plaça Portal de la Pau），正是兰布拉大道（La Rambla）与港口交汇之处——这是一家中档地中海烧烤餐厅，凭借超过3000条评价获得了4.8分的好评。
 quickAnswer: The Grill Barcelona 坐落在哥伦布纪念碑（Columbus Monument）脚下的和平门广场（Plaça Portal de la Pau），正是兰布拉大道（La Rambla）与港口交汇之处——这是一家中档地中海烧烤餐厅，凭借超过3000条评价获得了4.8分的好评。建议在早上10点开门时就去，或者晚上8点后再来吃个晚餐，以避开周末下午1点到晚上8点的人流高峰。想好好坐下来吃一顿烧烤大餐，建议预留一小时到一个半小时。

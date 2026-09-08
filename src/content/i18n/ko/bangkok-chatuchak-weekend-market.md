@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-chatuchak-weekend-market
-srcHash: '40bd70b78f1a'
+srcHash: 'bd6e7dcf3d67'
 title: '짜뚜짝 주말 시장: 방콕 여행 가이드'
 description: 짜뚜짝 주말 시장(현지에서는 "JJ 마켓"으로 불림)은 방콕 북부에 27개 구역과 1만 5천 개 이상의 노점이 펼쳐진 곳으로, 주로 토요일과 일요일에 문을 엽니다.
 quickAnswer: 짜뚜짝 주말 시장(현지에서는 "JJ 마켓"으로 불림)은 방콕 북부에 27개 구역과 1만 5천 개 이상의 노점이 펼쳐진 곳으로, 주로 토요일과 일요일 오전 9시부터 오후 6시경까지 문을 엽니다. MRT를 타고 캄팽펫(Kamphaeng Phet)역(1번 출구가 시장으로 바로 이어짐)으로 가거나 BTS의 짜뚜짝 공원(Chatuchak Park)역 또는 모칫(Mo Chit)역을 이용하고, 안내 부스에서 인쇄된 구역 지도를 챙긴 뒤 제대로 둘러보려면 최소 3~4시간은 잡아두는 것이 좋습니다.

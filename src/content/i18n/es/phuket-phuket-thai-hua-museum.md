@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-phuket-thai-hua-museum
-srcHash: '9d72e53278a5'
+srcHash: '06d5139b5212'
 title: 'Museo Thai Hua de Phuket: Guía de viaje (4.0★)'
 description: 'El Museo Thai Hua se encuentra en una mansión sino-portuguesa de 1934 bellamente restaurada en el Casco Antiguo de Phuket (Phuket Old Town), y cuenta la historia de la comunidad china baba (peranakan) a través de sala tras sala de fotografías, herramientas de la minería del estaño y objetos familiares. 4.0★ (1.102 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Thai Hua se encuentra en una mansión sino-portuguesa de 1934 bellamente restaurada en el Casco Antiguo de Phuket (Phuket Old Town), y cuenta la historia de la comunidad china baba (peranakan) a través de sala tras sala de fotografías, herramientas de la minería del estaño y objetos familiares. Dedícale entre 45 y 75 minutos, lleva algo fácil de quitar si visitas la sala de té, ya que tendrás que descalzarte, y combínalo con un paseo por las calles Thalang y Dibuk después. Es una parada sencilla y económica, ideal para media mañana, antes de que aprieten el calor y las multitudes en el Casco Antiguo.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-chess-olympiad-2026
-srcHash: 'd854484db52b'
+srcHash: 'c9e9dbf89860'
 title: 'Olimpiada de Ajedrez 2026: fechas, entradas y sede (Samarcanda)'
 description: La Olimpiada de Ajedrez 2026 se celebra en Samarcanda, Uzbekistán, del 15 al 27 de septiembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
 quickAnswer: La 46.ª Olimpiada de Ajedrez se disputa del 15 al 27 de septiembre de 2026 en Samarcanda (Uzbekistán) y reunirá a unos 200 equipos nacionales de todo el mundo. Al momento de escribir esto, ni las salas exactas de la sede, ni los precios de las entradas, ni el calendario de partidas se han confirmado públicamente, así que conviene verificar todos los detalles en el sitio oficial de la Olimpiada de la FIDE antes de reservar vuelos u hoteles. Gracias al compacto casco histórico de Samarcanda, es posible combinar una tarde de ajedrez con visitas al Registán y al Gur-e-Amir.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tioman-tioman-island
-srcHash: '60c7d1c97b23'
+srcHash: '3c0ff68eb74f'
 title: 刁曼岛(Tioman Island)旅行指南(4.8★)
 description: 刁曼岛位于马来西亚东海岸彭亨州外海，可从丰盛港(Mersing)或丹绒锦浦(Tanjung Gemok)乘渡轮前往，也可乘短途航班抵达刁曼机场。4.8★(1,517条评价)——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: 刁曼岛位于马来西亚东海岸彭亨州外海，可从丰盛港(Mersing)或丹绒锦浦(Tanjung Gemok)乘渡轮前往，也可乘短途航班抵达刁曼机场。这里有丛林环绕的海滩、近在沙滩边就能浮潜和潜水的珊瑚礁，以及连接各村落的轻松徒步路线。建议选择3月至10月前往，此时海面平静，潜水能见度也最佳。

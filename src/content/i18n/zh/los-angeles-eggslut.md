@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-eggslut
-srcHash: '8a82d3349449'
+srcHash: '4959676966cd'
 title: Eggslut：洛杉矶美食指南(4.4★)
 description: Eggslut 是位于洛杉矶市中心 317 S Broadway 的大中央市场(Grand Central Market)内的鸡蛋三明治摊位，每天只营业上午8点至下午2点——这是一家早餐/早午餐店，并非全天营业。4.4★（4,728条评价）——看看游客怎么说、营业时间及实用建议。
 quickAnswer: Eggslut 是位于洛杉矶市中心 317 S Broadway 的大中央市场(Grand Central Market)内的鸡蛋三明治摊位，每天只营业上午8点至下午2点——这是一家早餐/早午餐店，并非全天营业。建议在早上8点开门时就到（工作日8-10点、周末8-9点是人最少的时段），避开周末上午10点到下午2点的高峰期，那时队伍会一直排到隔壁的摊位。推荐点招牌 Slut 或 Fairfax 三明治，找个市场里的高脚凳坐下，整体（包括排队）预留20-40分钟。

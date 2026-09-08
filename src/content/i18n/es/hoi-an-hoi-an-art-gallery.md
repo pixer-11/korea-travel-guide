@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hoi-an-hoi-an-art-gallery
-srcHash: '03372952abe4'
+srcHash: '07651fe50b8a'
 title: 'Hoi An Art Gallery: guía de viaje'
 description: En plena Ciudad Antigua de Hoi An, en la calle Nguyễn Thái Học, la Hoi An Art Gallery es una galería pequeña y tranquila de pintura contemporánea vietnamita que la mayoría de los visitantes que recorren la ruta de los faroles junto al río nunca llega a notar.
 quickAnswer: En plena Ciudad Antigua de Hoi An, en la calle Nguyễn Thái Học, la Hoi An Art Gallery es una galería pequeña y tranquila de pintura contemporánea vietnamita que la mayoría de los visitantes que recorren la ruta de los faroles junto al río nunca llega a notar. Abre todos los días de 10:00 a 18:00, la entrada para curiosear suele ser gratuita, y basta con 20 o 30 minutos salvo que se vaya con intención de comprar arte en serio. Conviene ir a media mañana entre semana para disfrutar de una visita tranquila y sin agobios, antes de que el tránsito peatonal de la Ciudad Antigua alcance su punto máximo por la tarde.

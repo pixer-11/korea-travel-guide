@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-french-quarter
-srcHash: 'f48df59cb72f'
+srcHash: '23ade82f25ae'
 title: '프렌치 쿼터: 뉴올리언스 여행 가이드'
 description: 프렌치 쿼터(French Quarter)는 뉴올리언스가 처음 조성된 18세기 격자형 구역으로, 대략 캔날 스트리트(Canal Street), 램파트 스트리트(Rampart Street), 에스플러네이드 애비뉴(Esplanade Avenue), 그리고 미시시피강으로 둘러싸여 있습니다.
 quickAnswer: 프렌치 쿼터(French Quarter)는 뉴올리언스가 처음 조성된 18세기 격자형 구역으로, 대략 캔날 스트리트(Canal Street), 램파트 스트리트(Rampart Street), 에스플러네이드 애비뉴(Esplanade Avenue), 그리고 미시시피강으로 둘러싸여 있습니다 — 하루면 걸어서 둘러볼 수 있지만, 음식과 음악을 제대로 즐기려면 이틀 밤은 묵을 만합니다. 잭슨 스퀘어(Jackson Square) 근처에 숙소를 잡고 전부 걸어서 다니세요(대략 가로 13블록, 세로 6블록 크기입니다). 버번 스트리트(Bourbon Street)의 인파 없이 이 동네를 보려면 이른 아침이나 평일에 방문하는 것이 좋습니다.

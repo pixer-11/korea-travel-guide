@@ -71,19 +71,19 @@ draft: false
 
 ## Why go
 
-You come for the view first, the house second — and both deliver. From the terrace, downtown Portland spreads out below you, with Mt. Hood and Mt. St. Helens on the horizon on a clear day.
+You come for the view first, the house second, and both deliver. From the terrace, downtown Portland spreads out below you, with Mt. Hood and Mt. St. Helens on the horizon on a clear day.
 
 The mansion itself was built in 1914 for timber and newspaper baron Henry Pittock and his wife Georgiana. It's a strange, satisfying mash-up of French Renaissance Revival architecture with Turkish, French, and English interiors layered room by room.
 
 ## Getting there
 
-The mansion sits at 3229 NW Pittock Dr, tucked into Forest Park above the city. There's no direct transit line to the door — most visitors drive, and the small on-site lot fills quickly on weekends.
+The mansion sits at 3229 NW Pittock Dr, tucked into Forest Park above the city. There's no direct transit line to the door, most visitors drive, and the small on-site lot fills quickly on weekends.
 
 A popular alternative: park near the Vista Bridge or Washington Park and hike up through Forest Park's Wildwood Trail, arriving on foot the way locals often do. It's a steep but manageable climb through Douglas fir, roughly 20–30 minutes.
 
 ## Inside the mansion
 
-You enter through a marble-floored central hall with a sweeping staircase that curves up three stories. The rooms are period-furnished, not roped-off replicas — you get a real sense of how a 1914 Portland industrialist actually lived.
+You enter through a marble-floored central hall with a sweeping staircase that curves up three stories. The rooms are period-furnished, not roped-off replicas, you get a real sense of how a 1914 Portland industrialist actually lived.
 
 Look for:
 
@@ -98,7 +98,7 @@ Give yourself 45–60 minutes inside, more if you like reading the room placards
 
 Outside, the 46-acre estate has manicured gardens, a gate lodge, and picnic lawns that catch the afternoon light through tall conifers. Paved paths loop around the property, and several spots frame the skyline view without the terrace crowds.
 
-If you've got time, connect onto the Wildwood Trail from here — it threads for miles through Forest Park, one of the largest urban forests in the country.
+If you've got time, connect onto the Wildwood Trail from here, it threads for miles through Forest Park, one of the largest urban forests in the country.
 
 ## When to go
 
@@ -110,8 +110,8 @@ Spring brings blooming gardens; fall gives you crisp air and clearer mountain vi
 
 ## How to visit like a local
 
-Arrive right at opening, or before 10am on a weekend, to get the terrace and staircase to yourself for a few minutes. This is a well-visited, very popular attraction — the crowd data doesn't lie, so timing your visit is the real trick here, not finding some undiscovered angle on it.
+Arrive right at opening, or before 10am on a weekend, to get the terrace and staircase to yourself for a few minutes. This is a well-visited, very popular attraction. The crowd data doesn't lie, so timing your visit is the real trick here, not finding some undiscovered angle on it.
 
 Buy tickets online in advance during peak season (spring through fall) rather than risking a sold-out timed entry at the door. Payment on-site is by card as much as cash these days, but the bigger local habit is simply booking ahead.
 
-Wear real shoes if you're hiking up via Wildwood Trail — it's dirt and roots, not pavement, and can be slick after rain. The mistake most first-timers make is treating this as a quick photo stop; budget the full 90 minutes to see both house and grounds properly, or you'll be rushing back to the car with a line already forming behind you.
+Wear real shoes if you're hiking up via Wildwood Trail. It's dirt and roots, not pavement, and can be slick after rain. The mistake most first-timers make is treating this as a quick photo stop; budget the full 90 minutes to see both house and grounds properly, or you'll be rushing back to the car with a line already forming behind you.

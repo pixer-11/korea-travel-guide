@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-illinois-lollapalooza-2026
-srcHash: '41098fba183b'
+srcHash: 'ddfb2e399e4f'
 title: 2026年芝加哥Lollapalooza音乐节攻略
 description: 2026年Lollapalooza音乐节定于7月30日至8月2日在芝加哥格兰特公园（Grant Park）举行，Charli XCX、Lorde和Doja Cat等歌手将担任headliner压轴演出。
 quickAnswer: 2026年Lollapalooza音乐节定于7月30日至8月2日在芝加哥格兰特公园（Grant Park）举行，Charli XCX、Lorde和Doja Cat等歌手将担任headliner压轴演出。门票通过Lollapalooza官网和官方App销售，具体演出时间表也会在其中公布；不过入场门位置、开放时间和阵容排期每年都会有所调整。The Loop和South Loop两个区域距格兰特公园很近，步行或搭乘几站CTA地铁即可抵达，因此大多数音乐节观众都不会选择自驾前往。

@@ -55,13 +55,13 @@ draft: false
 
 ## Why go
 
-You come around the corner from the Place de l'Horloge and the palace just stops you — a cliff of pale limestone, crenellated towers stacked like a fortress that forgot it was also supposed to be a church. This was the seat of Western Christianity for most of the 14th century, when seven popes ruled from Avignon instead of Rome, and the building still argues its case: it's the largest Gothic palace on earth, twice the volume of a cathedral, built in two furious phases under Benedict XII and Clement VI.
+You come around the corner from the Place de l'Horloge and the palace just stops you, a cliff of pale limestone, crenellated towers stacked like a fortress that forgot it was also supposed to be a church. This was the seat of Western Christianity for most of the 14th century, when seven popes ruled from Avignon instead of Rome, and the building still argues its case: it's the largest Gothic palace on earth, twice the volume of a cathedral, built in two furious phases under Benedict XII and Clement VI.
 
-Walking in, you feel the split personality immediately — the Palais Vieux is severe, monastic, built for defense; the Palais Nouveau, added a decade later, opens into vaulted banqueting halls and chapels meant to dazzle visiting cardinals.
+Walking in, you feel the split personality immediately. The Palais Vieux is severe, monastic, built for defense; the Palais Nouveau, added a decade later, opens into vaulted banqueting halls and chapels meant to dazzle visiting cardinals.
 
 ## What to see inside
 
-The self-guided route (audio guide included with most tickets) takes you through 25 rooms. The Grand Chapel and the Grand Audience Hall are the showstoppers — soaring rib vaults, and in the audience hall a ceiling painted deep blue and gold that still catches afternoon light through the lancet windows. Look for the surviving fragments of fresco by Matteo Giovannetti in the Chapel of Saint-Jean and the Chapel of Saint-Martial — most of the palace was stripped bare during the Revolution when it served as a barracks and prison, so these painted rooms feel almost startling amid so much bare stone.
+The self-guided route (audio guide included with most tickets) takes you through 25 rooms. The Grand Chapel and the Grand Audience Hall are the showstoppers (soaring rib vaults, and in the audience hall a ceiling painted deep blue and gold that still catches afternoon light through the lancet windows. Look for the surviving fragments of fresco by Matteo Giovannetti in the Chapel of Saint-Jean and the Chapel of Saint-Martial) most of the palace was stripped bare during the Revolution when it served as a barracks and prison, so these painted rooms feel almost startling amid so much bare stone.
 
 The Stag Room, with its hunting-scene murals, is the one chamber that still gives a sense of how the popes actually lived day to day, rather than how they governed. Give yourself a genuine 90 minutes minimum; two hours if you're doing the audio guide properly.
 
@@ -69,18 +69,18 @@ The Stag Room, with its hunting-scene murals, is the one chamber that still give
 
 The palace sits on Place du Palais in Avignon's walled centre, impossible to miss once you're inside the ramparts. From Avignon Centre train station, it's about a 15-minute walk straight up Rue de la République through Place de l'Horloge. If you arrive at Avignon TGV station instead (outside the walls), take the shuttle bus or a 10-minute taxi into the centre first.
 
-There's no dedicated on-site parking for the palace itself — use one of the ramparts car parks and walk in, since the old town's streets are narrow and largely pedestrianised around the square.
+There's no dedicated on-site parking for the palace itself, use one of the ramparts car parks and walk in, since the old town's streets are narrow and largely pedestrianised around the square.
 
 ## When to go
 
-This is a very-popular, heavily trafficked landmark — 52,000-plus reviews and a 4.5 rating tell you it's on every Provence itinerary, so don't expect a quiet ruin. July and August bring the Avignon Festival, which fills the palace courtyard with performances but also the town with visitors; if you want the building without the festival crowds, aim for May, June, or September. Within any given day, the first hour after opening and the final two hours before closing are consistently calmer than midday, when tour groups converge.
+This is a very-popular, heavily trafficked landmark, 52,000-plus reviews and a 4.5 rating tell you it's on every Provence itinerary, so don't expect a quiet ruin. July and August bring the Avignon Festival, which fills the palace courtyard with performances but also the town with visitors; if you want the building without the festival crowds, aim for May, June, or September. Within any given day, the first hour after opening and the final two hours before closing are consistently calmer than midday, when tour groups converge.
 
 ## How to visit like a local
 
-Book your ticket online in advance rather than queuing at the door — the ticket office line in peak season can eat 30–45 minutes you don't need to lose. Arrive right at opening or come back late afternoon; midday, especially on weekends, is when the courtyard and staircases bottleneck hardest. Combined tickets covering the Pont Saint-Bénézet (the famous half-bridge from the song "Sur le Pont d'Avignon") are worth it if you're seeing both, since they're a two-minute walk apart.
+Book your ticket online in advance rather than queuing at the door. The ticket office line in peak season can eat 30–45 minutes you don't need to lose. Arrive right at opening or come back late afternoon; midday, especially on weekends, is when the courtyard and staircases bottleneck hardest. Combined tickets covering the Pont Saint-Bénézet (the famous half-bridge from the song "Sur le Pont d'Avignon") are worth it if you're seeing both, since they're a two-minute walk apart.
 
-Cards are accepted everywhere on site, so there's no need to carry cash specifically for this. Don't make the mistake most first-timers do: rushing the Grand Audience Hall on the way in and skipping it on the way out — it's actually one of the last rooms on the route and easy to blow past when fatigue sets in. The rooftop terraces, when open, give you the best orientation over the Rhône and the rooftops of Avignon, so save some energy for the climb near the end rather than front-loading it all in the first galleries.
+Cards are accepted everywhere on site, so there's no need to carry cash specifically for this. Don't make the mistake most first-timers do: rushing the Grand Audience Hall on the way in and skipping it on the way out. It's actually one of the last rooms on the route and easy to blow past when fatigue sets in. The rooftop terraces, when open, give you the best orientation over the Rhône and the rooftops of Avignon, so save some energy for the climb near the end rather than front-loading it all in the first galleries.
 
 ## Nearby to pair with your visit
 
-Once you're out, the Rocher des Doms garden just behind the palace is a five-minute uphill walk and gives you a green, quiet break with views over the river and the Villeneuve-lès-Avignon hills opposite — a good decompression after the palace's stone corridors. The Petit Palais museum, right at the northern edge of the square, holds an Italian Renaissance painting collection and is usually far less crowded than the main palace, making it a sensible next stop if you want more art without more lines.
+Once you're out, the Rocher des Doms garden just behind the palace is a five-minute uphill walk and gives you a green, quiet break with views over the river and the Villeneuve-lès-Avignon hills opposite, a good decompression after the palace's stone corridors. The Petit Palais museum, right at the northern edge of the square, holds an Italian Renaissance painting collection and is usually far less crowded than the main palace, making it a sensible next stop if you want more art without more lines.

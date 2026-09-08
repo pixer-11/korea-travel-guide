@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
-srcHash: 'bcda3bc5d9a2'
+srcHash: '073b5f1009e8'
 title: Official HIGE DANDism 2026亚洲巡演·台北站须知（台北）
 description: Official HIGE DANDism 2026亚洲巡演台北站：原定2026年8月29日至30日在台北大巨蛋连开两场，官方公布的新曲《Stardust》与《Elderflower》也在其中。
 quickAnswer: Official HIGE DANDism是日本人气摇滚五人组，凭借《Pretender》《Cry Baby》等热门曲目广受欢迎，原定于2026年8月29日至30日在台北大巨蛋连开两场，作为其2026亚洲巡演的一站。官方公布的内容中，除了乐队原有的曲目外，还包括新歌《Stardust》与《Elderflower》的现场首演。至于票价、确切的开场与开演时间以及座位图，官方公告中均未提及。

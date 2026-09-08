@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-gingie
-srcHash: '633cc63865aa'
+srcHash: 'd324d003ca8e'
 title: Gingie芝加哥旅行指南
 description: Gingie坐落于美国芝加哥，是当地新晋热门餐厅——这里介绍它是什么、位于何处，以及如何前往。
 quickAnswer: Gingie是River North新近爆红的餐厅，主厨Brian Lockwood掌勺，背后有荣获James Beard奖的餐饮人Kevin Boehm和Rob Katz撑腰。这是Lockwood首次独立经营实体餐厅，因此现场通常人满为患，若不提前订位很可能要等位——开业后各项细节仍在调整中，出发前请务必确认营业时间和订位情况。

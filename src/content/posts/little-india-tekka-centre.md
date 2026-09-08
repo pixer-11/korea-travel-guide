@@ -49,13 +49,13 @@ draft: false
 
 This isn't a restaurant so much as a whole neighborhood under one roof. Tekka Centre has anchored Little India since the market itself traces back to 1915, moving into this current two-storey building in 1982.
 
-Downstairs is a wet market — fish on ice, whole chickens, mountains of okra and curry leaves. Upstairs is where you actually eat: a sprawling hawker centre with stalls that have fed this district for generations.
+Downstairs is a wet market, fish on ice, whole chickens, mountains of okra and curry leaves. Upstairs is where you actually eat: a sprawling hawker centre with stalls that have fed this district for generations.
 
 ## Getting there
 
 Take the North East Line to Little India MRT and use Exit A or E. From there it's a flat, five-minute walk up Buffalo Road, past sari shops and jasmine-garland stalls.
 
-The building itself is unmistakable — a low, sun-bleached block with the market's name in bold letters. If you're coming from Serangoon Road, Tekka Centre sits right where it bends toward Buffalo Road.
+The building itself is unmistakable, a low, sun-bleached block with the market's name in bold letters. If you're coming from Serangoon Road, Tekka Centre sits right where it bends toward Buffalo Road.
 
 ## What to eat
 
@@ -63,11 +63,11 @@ The hawker floor is where locals and visitors overlap most. Portions are generou
 
 Look for:
 
-- **Biryani and briyani stalls** — fragrant rice with mutton, chicken or fish, often served on banana leaf
-- **Roti prata** — flaky, griddled flatbread torn and dipped in curry or dhal
-- **Fish head curry** — a Singapore classic, tamarind-sour and packed with okra and eggplant
-- **Rojak and popiah** — cooling, fresh counterpoints if the curries get too heavy
-- **Chinese economy rice** — for anyone in your group who wants something plainer
+- **Biryani and briyani stalls**, fragrant rice with mutton, chicken or fish, often served on banana leaf
+- **Roti prata**, flaky, griddled flatbread torn and dipped in curry or dhal
+- **Fish head curry**, a Singapore classic, tamarind-sour and packed with okra and eggplant
+- **Rojak and popiah**, cooling, fresh counterpoints if the curries get too heavy
+- **Chinese economy rice**, for anyone in your group who wants something plainer
 
 Don't expect table service. Order at the stall counter, take a number or wait for your name, and carry your own tray back if there's no clearing staff nearby.
 
@@ -81,16 +81,16 @@ Give yourself 45 minutes to an hour if you're just eating, longer if you want to
 
 ## How to visit like a local
 
-Tekka Centre is firmly on the tourist map now, so the trick isn't finding it quietly — it's timing your visit well.
+Tekka Centre is firmly on the tourist map now, so the trick isn't finding it quietly. It's timing your visit well.
 
 - **Avoid peak lunch (roughly 11:30am–1:30pm)** on weekdays, when office workers from nearby Little India and Farrer Park descend en masse.
-- **Pay mostly in cash.** Many stalls still don't take cards, though some now accept PayNow or mobile payment — carry small notes to be safe.
+- **Pay mostly in cash.** Many stalls still don't take cards, though some now accept PayNow or mobile payment, carry small notes to be safe.
 - **Scout before you queue.** Walk the full floor once before committing to a stall; portions and specialities vary more than the uniform seating suggests.
-- **Share a table.** Seating is communal and shared tables are normal — don't wait for an empty one to yourself.
-- **Skip the "biryani vs briyani" debate** and just try both — different stalls spell and season it differently, and locals rarely agree on which is best.
-- **Tissue packets on a table mean it's taken** — a small local custom known as "chope-ing" a seat.
+- **Share a table.** Seating is communal and shared tables are normal. Don't wait for an empty one to yourself.
+- **Skip the "biryani vs briyani" debate** and just try both, different stalls spell and season it differently, and locals rarely agree on which is best.
+- **Tissue packets on a table mean it's taken**, a small local custom known as "chope-ing" a seat.
 
-The most common tourist mistake here is treating it like a single restaurant with one menu. It's dozens of independent stalls, each with its own specialty, queue length and rhythm — wandering first pays off far more than sitting at the first counter you see.
+The most common tourist mistake here is treating it like a single restaurant with one menu. It's dozens of independent stalls, each with its own specialty, queue length and rhythm, wandering first pays off far more than sitting at the first counter you see.
 
 Pair your visit with a walk down Buffalo Road and onto Serangoon Road afterward, where the spice shops, garland stalls and Sri Veeramakaliamman Temple are all within a few minutes on foot.
 

@@ -68,7 +68,7 @@ draft: false
 ---
 ## Why go
 
-Pantai Losari isn't a swimming beach — it's Makassar's front porch. A long paved seafront on Jl. Somba Opu facing the Makassar Strait, it's where the whole city seems to exhale after the day's heat breaks.
+Pantai Losari isn't a swimming beach. It's Makassar's front porch. A long paved seafront on Jl. Somba Opu facing the Makassar Strait, it's where the whole city seems to exhale after the day's heat breaks.
 
 The draw is the sky. Losari has long been marketed as a sunset spot, and on a clear evening the strait turns copper and pink behind the silhouettes of docked boats and the mosque domes further along the coast.
 
@@ -76,7 +76,7 @@ You're not alone in noticing this. With a rating of 4.6 from thousands of visito
 
 ## What you'll actually see and do
 
-The heart of it is the promenade itself — wide, tiled, lined with railings where people lean and watch the water. At one end stands the modern Masjid Amirul Mukminin, a mosque built on stilts over the sea, its white form catching the last light beautifully.
+The heart of it is the promenade itself, wide, tiled, lined with railings where people lean and watch the water. At one end stands the modern Masjid Amirul Mukminin, a mosque built on stilts over the sea, its white form catching the last light beautifully.
 
 Walk the strip and you'll pass:
 
@@ -91,11 +91,11 @@ Nearby, Fort Rotterdam and the old Dutch colonial quarter are an easy walk or sh
 
 Losari sits right in central Makassar, in Ujung Pandang district, so most hotels downtown are within walking distance or a five-to-ten-minute Grab or Gojek ride. Taxis and ride-hailing motorbikes are cheap and easy to flag or book here.
 
-If you're coming from Sultan Hasanuddin International Airport, it's roughly a 30-45 minute drive depending on traffic, longest in late afternoon as commuters and sunset-seekers converge on the same roads. There's no train or metro link — a car or bike is the way in.
+If you're coming from Sultan Hasanuddin International Airport, it's roughly a 30-45 minute drive depending on traffic, longest in late afternoon as commuters and sunset-seekers converge on the same roads. There's no train or metro link. A car or bike is the way in.
 
 ## When to go
 
-The promenade never closes; it's open 24 hours every day. But it isn't really a place to see at 3am — it comes alive from late afternoon onward.
+The promenade never closes; it's open 24 hours every day. But it isn't really a place to see at 3am, it comes alive from late afternoon onward.
 
 Aim to arrive an hour or so before sunset to claim a spot at the railing and watch the light change over the water. Weekend evenings tend to be the busiest stretch, when local families and groups of friends flood in after dinner.
 
@@ -105,10 +105,10 @@ If you'd rather have more elbow room, go on a weekday, or arrive by mid-afternoo
 
 Locals treat Losari as an evening ritual, not a tourist checklist stop, so pace yourself accordingly.
 
-- **Eat street-side**: Order pisang epe or jagung bakar from the roadside carts rather than a restaurant — it's how most visitors actually snack here, and vendors expect small cash payments (rupiah notes, no cards).
+- **Eat street-side**: Order pisang epe or jagung bakar from the roadside carts rather than a restaurant. It's how most visitors actually snack here, and vendors expect small cash payments (rupiah notes, no cards).
 - **Skip peak weekend hours**: If you dislike crowds, avoid the 5pm–11pm weekend rush; a weekday sunset gives you the same view with far more space.
 - **Dress modestly near the mosque**: If you walk out to Masjid Amirul Mukminin, cover shoulders and knees, and remove shoes before entering prayer areas.
 - **Bargain lightly**: Prices for snacks and drinks are informal; a polite haggle is normal but keep it friendly, not aggressive.
-- **Don't expect a swimming beach**: The main mistake first-timers make is expecting sand and swimming — this is a seawall promenade, not a beach resort, so come for the view and the food, not for a dip.
+- **Don't expect a swimming beach**: The main mistake first-timers make is expecting sand and swimming. This is a seawall promenade, not a beach resort, so come for the view and the food, not for a dip.
 
 Budget an hour or two here, more if you extend the walk toward Fort Rotterdam or linger over food as the city lights come on along the strait.

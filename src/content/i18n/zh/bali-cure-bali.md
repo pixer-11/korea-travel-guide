@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-cure-bali
-srcHash: 'edb53ad010ef'
+srcHash: '3ee0bdee0082'
 title: 巴厘岛 Cure Bali 餐厅
 description: 印尼巴厘岛新晋热门餐厅 Cure Bali 全解析：这是一家怎样的餐厅、具体位置在哪、又该如何前往品尝。
 quickAnswer: Cure Bali 是主厨安德鲁·沃尔什（Andrew Walsh）走出新加坡开设的第一家餐厅，如今坐落在新开业的丽晶巴厘岛芝拉布（Regent Bali Canggu）度假村内。这里将欧洲料理技法与亚洲风味相融合，是芝拉布（Canggu）近来最受关注的新店之一，建议提前预订，不要临时上门。既然背后是米其林级别的功底加持，不妨把它当作一场值得专程赴约的晚餐（或午餐），而非随性一逛的用餐选择。

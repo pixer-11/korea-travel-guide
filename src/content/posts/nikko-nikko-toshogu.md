@@ -75,17 +75,17 @@ This is the mausoleum of Tokugawa Ieyasu, the shogun who unified Japan and found
 
 Nikko sits about two hours north of Tokyo by train, easiest via the Tobu Nikko Line from Asakusa Station. From Tobu Nikko or JR Nikko Station, it's a 25-30 minute uphill walk or a short bus ride toward the Shrines and Temples area.
 
-The shrine address is 2301 Sannai — look for signs pointing toward the World Heritage Site zone, shared with Rinno-ji Temple and Futarasan Shrine. Buses marked "Sekaiisan-meguri" loop between the stations and the shrine cluster.
+The shrine address is 2301 Sannai. Look for signs pointing toward the World Heritage Site zone, shared with Rinno-ji Temple and Futarasan Shrine. Buses marked "Sekaiisan-meguri" loop between the stations and the shrine cluster.
 
 ## What to see once inside
 
 Budget close to two hours if you want to see it properly rather than rush through.
 
-- **Yomeimon Gate** — nicknamed the "Gate of the Setting Sun" because visitors once lingered until dusk admiring it
-- **Sanjinko storehouses** — carved with imaginative elephants by an artist who'd never seen a real one
-- **The Sleeping Cat (Nemuri-neko)** — a tiny, famous carving above a passage leading to Ieyasu's actual tomb
-- **Three Wise Monkeys** — "see no evil, hear no evil, speak no evil," carved on the sacred stable
-- **Honji-do Hall** — stand beneath the ceiling's "crying dragon" painting and hear a monk demonstrate its odd echo
+- **Yomeimon Gate**, nicknamed the "Gate of the Setting Sun" because visitors once lingered until dusk admiring it
+- **Sanjinko storehouses**, carved with imaginative elephants by an artist who'd never seen a real one
+- **The Sleeping Cat (Nemuri-neko)**, a tiny, famous carving above a passage leading to Ieyasu's actual tomb
+- **Three Wise Monkeys**, "see no evil, hear no evil, speak no evil," carved on the sacred stable
+- **Honji-do Hall**, stand beneath the ceiling's "crying dragon" painting and hear a monk demonstrate its odd echo
 
 Climb the stone steps beyond the Sleeping Cat if you want to reach Ieyasu's quiet, tree-shaded tomb itself. Most tour groups skip this part, so it thins out fast.
 
@@ -101,7 +101,7 @@ Autumn (early-to-mid November) brings crowds for the maple foliage in the surrou
 
 This is one of Japan's most-visited shrine complexes, not a hidden find, so plan around the crowds rather than expecting solitude. Arrive at opening on a weekday if your schedule allows it; that's the calm window the crowd data confirms.
 
-Buy your entry ticket at the booth near the Omotemon Gate rather than online — there's rarely a long line for tickets themselves, even when the paths beyond get crowded. Most visitors pay cash at the counter.
+Buy your entry ticket at the booth near the Omotemon Gate rather than online. There's rarely a long line for tickets themselves, even when the paths beyond get crowded. Most visitors pay cash at the counter.
 
 Wear shoes you can slip off easily. Some interior halls, including areas near the sleeping cat passage, require removing footwear, and fumbling with laces holds up the line behind you.
 

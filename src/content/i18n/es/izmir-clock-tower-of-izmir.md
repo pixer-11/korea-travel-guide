@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: izmir-clock-tower-of-izmir
-srcHash: '64dfe19a1b3c'
+srcHash: '9493a783b9ff'
 title: 'Torre del Reloj de Esmirna (İzmir): Guía de viaje de Esmirna'
 description: 'La Torre del Reloj (Saat Kulesi) se encuentra en el centro de la plaza Konak, en Esmirna, justo junto al paseo marítimo y el intercambiador de tranvía/ferry de Konak Pier: es una parada de cinco minutos, mejor integrada en un paseo más largo por el frente marítimo que como destino en sí misma.'
 quickAnswer: 'La Torre del Reloj (Saat Kulesi) se encuentra en el centro de la plaza Konak, en Esmirna, justo junto al paseo marítimo y el intercambiador de tranvía/ferry de Konak Pier: es una parada de cinco minutos, mejor integrada en un paseo más largo por el frente marítimo que como destino en sí misma. Ve temprano por la mañana o después del atardecer, cuando la plaza se vacía y la torre se ilumina; el mediodía y las tardes de fin de semana traen los grupos turísticos más numerosos y las filas para fotos.'

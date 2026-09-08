@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chiang-mai-best-khao-soi-chang-mai
-srcHash: '0b076f1f9481'
+srcHash: 'ca2574b4a0ab'
 title: '치앙마이 맛집: 베스트 카오소이 창마이(Best Khao Soi Chang Mai)'
 description: '치앙마이 프라싱(Phra Singh) 지역에 있는 베스트 카오소이 창마이(Best Khao Soi Chang Mai, 주소: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200)에서 바삭한 계란면을 올린 정통 카오소이, 즉 북부 태국식 커리 면 요리를 맛보세요.'
 quickAnswer: '치앙마이 프라싱(Phra Singh) 지역에 있는 베스트 카오소이 창마이(Best Khao Soi Chang Mai, 주소: 1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200)에서 바삭한 계란면을 올린 정통 카오소이, 즉 북부 태국식 커리 면 요리를 맛보세요. 리뷰 252개에서 4.6점이라는 높은 평점을 받고 있어, 화려한 인테리어보다는 한 그릇의 완성도에 집중하는 소박하고 꾸밈없는 가게를 기대하면 됩니다. 저녁 시간에 방문하는 것이 좋습니다 — 평일은 오후 4시부터 10시까지, 토요일은 오후 3시부터 10시까지 영업하며 일요일은 휴무입니다. 치킨(gai) 또는 비프(neua) 버전을 주문하고, 사이드까지 여유롭게 즐기려면 30~45분 정도를 잡아두세요.'

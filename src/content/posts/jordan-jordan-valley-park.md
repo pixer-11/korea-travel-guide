@@ -87,37 +87,37 @@ Once you do, the payoff is a park that doesn't feel like anywhere else in Kowloo
 
 ## Getting there
 
-Don't trust the name — this isn't a stroll from Jordan station. The park address is 71 New Clear Water Bay Road, and the practical route is bus or minibus toward Ngau Chi Wan or Clear Water Bay Road, then a short walk uphill.
+Don't trust the name. This isn't a stroll from Jordan station. The park address is 71 New Clear Water Bay Road, and the practical route is bus or minibus toward Ngau Chi Wan or Clear Water Bay Road, then a short walk uphill.
 
-A taxi from Diamond Hill or Kowloon Bay is the least fuss if you're short on time. Build in extra time either way — the entrance sits back from the main road and signage is modest.
+A taxi from Diamond Hill or Kowloon Bay is the least fuss if you're short on time. Build in extra time either way. The entrance sits back from the main road and signage is modest.
 
 ## What to see and do
 
 The park rewards wandering rather than a single "must-see" stop. Three features anchor most visits:
 
-- **Bougainvillea garden** — terraced beds of pink and purple bracts, good for slow photos and shade-dappled picnic spots
-- **Hedge maze** — a low, trimmed maze that's genuinely fun to navigate with kids, not just decorative
-- **Model car race track** — a purpose-built circuit where local remote-control car hobbyists run laps, worth watching even if you didn't bring your own
+- **Bougainvillea garden**, terraced beds of pink and purple bracts, good for slow photos and shade-dappled picnic spots
+- **Hedge maze**, a low, trimmed maze that's genuinely fun to navigate with kids, not just decorative
+- **Model car race track**, a purpose-built circuit where local remote-control car hobbyists run laps, worth watching even if you didn't bring your own
 
-Beyond these, expect winding paths, shaded pavilions, and open lawns that make it a legitimate picnic destination rather than a pass-through park. Bring your own mat and snacks — there's little in the way of food vendors inside.
+Beyond these, expect winding paths, shaded pavilions, and open lawns that make it a legitimate picnic destination rather than a pass-through park. Bring your own mat and snacks. There's little in the way of food vendors inside.
 
 ## When to go
 
 Weekday mornings are the calmest window, before families and hobbyists arrive in numbers. Weekends see a noticeable uptick, especially in the afternoon when the model-car track draws a regular crowd of enthusiasts running their own vehicles.
 
-Hong Kong's cooler months, roughly October through March, are the most comfortable for the uphill walk from the road and for lingering over a picnic. Summer visits are doable but bring shade and water — much of the terraced lawn area is exposed.
+Hong Kong's cooler months, roughly October through March, are the most comfortable for the uphill walk from the road and for lingering over a picnic. Summer visits are doable but bring shade and water, much of the terraced lawn area is exposed.
 
 Check the bougainvillea's bloom before a special trip if photos are your main goal; flowering is heaviest in warmer months but does taper.
 
 ## How to visit like a local
 
-Treat this as a half-day outing, not a quick stop — factor in the transit time from central Kowloon before you commit. Most visitors arrive by bus or minibus rather than MTR, since no station sits within easy walking distance.
+Treat this as a half-day outing, not a quick stop, factor in the transit time from central Kowloon before you commit. Most visitors arrive by bus or minibus rather than MTR, since no station sits within easy walking distance.
 
 There's no entry fee and no ticket booth, so there's nothing to book and no queue system to navigate. Just walk in and find a spot.
 
-If you're bringing a remote-control car, the track has an informal, first-come culture among regulars — watch a few laps before joining in. Locals typically bring their own picnic gear: mats, folding stools, a cooler bag, since on-site food options are minimal.
+If you're bringing a remote-control car, the track has an informal, first-come culture among regulars, watch a few laps before joining in. Locals typically bring their own picnic gear: mats, folding stools, a cooler bag, since on-site food options are minimal.
 
-The mistake most visitors make is assuming the park connects easily to Jordan's MTR line — it doesn't, and arriving without a transit plan is the single most common frustration. Pack accordingly: bug spray in warmer months, since the greenery attracts insects, and sturdy shoes for the sloped terrain.
+The mistake most visitors make is assuming the park connects easily to Jordan's MTR line. It doesn't, and arriving without a transit plan is the single most common frustration. Pack accordingly: bug spray in warmer months, since the greenery attracts insects, and sturdy shoes for the sloped terrain.
 
 ## Nearby options
 

@@ -38,13 +38,13 @@ eventOrganizer:
 ---
 ## Why this show mattered
 
-David Byrne isn't just a legacy act cashing in on nostalgia — he's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces.
+David Byrne isn't just a legacy act cashing in on nostalgia. He's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces.
 
 A Bangkok date on a global tour was a rare chance for Southeast Asian fans to catch an artist who rarely routes through the region.
 
 ## The essentials: date and venue
 
-The show was set for **Monday, August 10, 2026**, at **UOB Live**, one of Bangkok's largest purpose-built indoor arenas. UOB Live sits inside the **Samyan Mitrtown** complex in the Samyan/Chulalongkorn area of central Bangkok — a mixed-use development combining retail, dining, and a 24-hour co-working/library zone above the arena itself.
+The show was set for **Monday, August 10, 2026**, at **UOB Live**, one of Bangkok's largest purpose-built indoor arenas. UOB Live sits inside the **Samyan Mitrtown** complex in the Samyan/Chulalongkorn area of central Bangkok, a mixed-use development combining retail, dining, and a 24-hour co-working/library zone above the arena itself.
 
 ## Getting to UOB Live
 

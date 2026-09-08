@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ankara-an-tkabir
-srcHash: '2b8c945a5c9f'
+srcHash: '3bb9f7296a30'
 title: 阿尼特卡比尔（Anıtkabir）：安卡拉旅行指南
 description: 阿尼特卡比尔是安卡拉为穆斯塔法·凯末尔·阿塔图尔克（Mustafa Kemal Atatürk）建造的纪念性陵墓，位于恰ankaya（Çankaya）区的阿尼特佩（Anıttepe）山丘上，值得花两到三个小时游览。
 quickAnswer: 阿尼特卡比尔是安卡拉为穆斯塔法·凯末尔·阿塔图尔克建造的纪念性陵墓，位于恰卡亚（Çankaya）区的阿尼特佩（Anıttepe）山丘上，值得花两到三个小时游览。这里游客极多（评价数远超14万条，评分接近满分），所以建议选择工作日上午9点到下午5点前往——这是实测最为清静的时段——并避开周末上午11点到下午4点的人流高峰。

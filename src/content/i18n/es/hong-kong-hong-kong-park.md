@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-park
-srcHash: '5259a9565420'
+srcHash: '8b1a8fe75470'
 title: 'Hong Kong Park: Guía de viaje (4.5★)'
 description: Hong Kong Park es un rincón verde gratuito y siempre abierto en Central, conocido sobre todo por su pajarera, el paseo de la cascada y el invernadero Edward Youde. 4.5★ (2,331 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Hong Kong Park es un rincón verde gratuito y siempre abierto en Central, conocido sobre todo por su pajarera, el paseo de la cascada y el invernadero Edward Youde. Si puedes, ve un día entre semana por la mañana: el parque abre de 6am a 11pm todos los días y es más tranquilo por la mañana y por la tarde-noche, mientras que los fines de semana se llena rápido entre las 10am y las 5pm.'

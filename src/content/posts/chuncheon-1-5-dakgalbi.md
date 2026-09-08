@@ -95,17 +95,17 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-You smell Chuncheon's signature dish before you see it — a sweet-hot cloud of gochujang, garlic, and sesame oil drifting out from doorways along the streets near the city's dakgalbi alley. This is the town where dakgalbi was invented, sometime in the 1960s, when cheap cuts of chicken were marinated in chili paste and grilled tableside as an affordable alternative to pork galbi. Every restaurant here claims its own version is the original, and 1.5 Dakgalbi has built a loyal following with its take on the classic.
+You smell Chuncheon's signature dish before you see it, a sweet-hot cloud of gochujang, garlic, and sesame oil drifting out from doorways along the streets near the city's dakgalbi alley. This is the town where dakgalbi was invented, sometime in the 1960s, when cheap cuts of chicken were marinated in chili paste and grilled tableside as an affordable alternative to pork galbi. Every restaurant here claims its own version is the original, and 1.5 Dakgalbi has built a loyal following with its take on the classic.
 
 ## Why go
 
-Chuncheon without dakgalbi is like Jeonju without bibimbap — you're missing the reason people make the trip. 1.5 Dakgalbi has earned a strong reputation locally and among visitors, holding a rating of 4.4 across nearly 1,800 reviews, which puts it firmly among the city's most consistently well-regarded spots for the dish. It's not a quiet insider secret — this is a well-known address that regularly draws a crowd, and the room fills with the hiss and clatter of metal spatulas scraping against giant round pans from late afternoon onward.
+Chuncheon without dakgalbi is like Jeonju without bibimbap (you're missing the reason people make the trip. 1.5 Dakgalbi has earned a strong reputation locally and among visitors, holding a rating of 4.4 across nearly 1,800 reviews, which puts it firmly among the city's most consistently well-regarded spots for the dish. It's not a quiet insider secret) this is a well-known address that regularly draws a crowd, and the room fills with the hiss and clatter of metal spatulas scraping against giant round pans from late afternoon onward.
 
 ## What to eat
 
 Dakgalbi here follows the traditional format: boneless chicken thigh tossed in a bright red marinade, cooked at the table on a huge flat pan alongside cabbage, sweet potato, tteok (rice cakes), and perilla leaves. You watch the staff toss and fold everything with long spatulas until the chicken chars slightly at the edges and the vegetables go glossy with sauce.
 
-Order it for two or more — this isn't a solo dish, and portions are built around groups splitting a shared pan. Once the chicken and vegetables are mostly gone, ask for bokkeumbap: the staff will stir fried rice, seaweed flakes, and sometimes cheese directly into the leftover sauce coating the pan, scraping up every bit of caramelized flavor left behind. It's the unofficial second act of any dakgalbi meal and arguably the best part.
+Order it for two or more. This isn't a solo dish, and portions are built around groups splitting a shared pan. Once the chicken and vegetables are mostly gone, ask for bokkeumbap: the staff will stir fried rice, seaweed flakes, and sometimes cheese directly into the leftover sauce coating the pan, scraping up every bit of caramelized flavor left behind. It's the unofficial second act of any dakgalbi meal and arguably the best part.
 
 ## Getting there
 
@@ -117,10 +117,10 @@ This restaurant tends to be calmer outside of peak dinner hours. The exception i
 
 ## How to visit like a local
 
-Order at the counter or table by naming the dish simply as "dakgalbi" (닭갈비) and specifying how many people are eating — portions are typically priced per person and cooked together in one shared pan, so the group decides together rather than ordering individual plates. Expect to pay by card or cash, both widely accepted. There's usually no reservation system for casual dakgalbi spots like this one; it's a walk-in, take-a-number-and-wait kind of place, especially on weekend evenings, so if you're visiting at peak time, put your name down and browse the surrounding shops rather than standing at the door.
+Order at the counter or table by naming the dish simply as "dakgalbi" (닭갈비) and specifying how many people are eating, portions are typically priced per person and cooked together in one shared pan, so the group decides together rather than ordering individual plates. Expect to pay by card or cash, both widely accepted. There's usually no reservation system for casual dakgalbi spots like this one; it's a walk-in, take-a-number-and-wait kind of place, especially on weekend evenings, so if you're visiting at peak time, put your name down and browse the surrounding shops rather than standing at the door.
 
-Don't rush the pan — waiting for the chicken to properly char at the edges before eating makes a real difference, and resist scooping bokkeumbap in too early since it needs the sauce to reduce first. The most common mistake tourists make is ordering too little; dakgalbi is meant to be a slow, communal meal with rice cake, extra rice, and drinks stretching it out over an hour or more, not a quick single-plate stop.
+Don't rush the pan, waiting for the chicken to properly char at the edges before eating makes a real difference, and resist scooping bokkeumbap in too early since it needs the sauce to reduce first. The most common mistake tourists make is ordering too little; dakgalbi is meant to be a slow, communal meal with rice cake, extra rice, and drinks stretching it out over an hour or more, not a quick single-plate stop.
 
 ## Good to know nearby
 
-Chuncheon's dakgalbi street clusters many similar restaurants within a short walk, so if 1.5 Dakgalbi has a wait, you have backup options nearby. The city is also known for makguksu (buckwheat noodles) as a second local specialty, and Namiseom Island, a popular scenic getaway, is a short bus or taxi ride away — worth combining into a fuller day trip if you have the time.
+Chuncheon's dakgalbi street clusters many similar restaurants within a short walk, so if 1.5 Dakgalbi has a wait, you have backup options nearby. The city is also known for makguksu (buckwheat noodles) as a second local specialty, and Namiseom Island, a popular scenic getaway, is a short bus or taxi ride away, worth combining into a fuller day trip if you have the time.

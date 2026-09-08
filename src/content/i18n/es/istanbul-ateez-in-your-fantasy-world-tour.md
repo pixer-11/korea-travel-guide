@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-ateez-in-your-fantasy-world-tour
-srcHash: 'f7bd9352175e'
+srcHash: 'b79297b95850'
 title: 'ATEEZ – Gira mundial IN YOUR FANTASY: lo que hay que saber (Estambul)'
 description: La gira mundial IN YOUR FANTASY de ATEEZ tenía previsto pasar por Estambul el 16 de agosto de 2026, la primera fecha anunciada del grupo en Turquía.
 quickAnswer: La gira mundial IN YOUR FANTASY de ATEEZ tenía previsto hacer parada en Estambul el 16 de agosto de 2026, el primer concierto del grupo en la ciudad. Junto con la fecha no se anunció ni el recinto, ni la hora de apertura de puertas, ni las categorías de entradas; esos datos debían llegar a través de los canales oficiales de ATEEZ en redes sociales y de los comunicados de KQ Entertainment.

@@ -53,7 +53,7 @@ draft: false
 
 You smell it before you see it: hot oil and powdered sugar drifting across Decatur Street, thick enough to cut through the mule-and-carriage smell of Jackson Square next door. Cafe Du Monde has been frying beignets and pouring chicory coffee on this corner since 1862, and the green-and-white striped awning has become as much a symbol of New Orleans as the streetcars.
 
-It's not subtle, it's not quiet, and it's not a secret — this is one of the most reviewed cafes in the country, and every table is usually full. You go anyway, because the combination of a square of fried dough dumped in a snowdrift of powdered sugar and a mug of coffee cut with chicory root is genuinely one of the city's defining flavors.
+It's not subtle, it's not quiet, and it's not a secret. This is one of the most reviewed cafes in the country, and every table is usually full. You go anyway, because the combination of a square of fried dough dumped in a snowdrift of powdered sugar and a mug of coffee cut with chicory root is genuinely one of the city's defining flavors.
 
 ## Getting there
 
@@ -65,22 +65,22 @@ Rideshares and taxis can drop you at the edge of the pedestrian zone near the Fr
 
 There's really one order here: an order of beignets and a café au lait, the house coffee blended with chicory and cut with hot milk. The beignets arrive still steaming, and the powdered sugar is piled on so generously that a light breeze off the Mississippi will dust your shirt if you're sitting at an outdoor table.
 
-Locals and servers alike will warn you not to inhale while taking your first bite — it's a running joke that's rooted in real experience. The menu is otherwise short: cold milk, orange juice, sodas, and that's close to it. This is a one-dish, one-drink kind of stop, and that focus is the point.
+Locals and servers alike will warn you not to inhale while taking your first bite. It's a running joke that's rooted in real experience. The menu is otherwise short: cold milk, orange juice, sodas, and that's close to it. This is a one-dish, one-drink kind of stop, and that focus is the point.
 
 ## When to go
 
-Cafe Du Monde keeps long hours, open from early morning well into the night, so it works equally well as a first stop before a Quarter walk or a late-night finish after dinner elsewhere. Mornings before 9am tend to be calmer on weekdays, and the lull between lunch and the dinner crowd — roughly mid-afternoon — is another decent window.
+Cafe Du Monde keeps long hours, open from early morning well into the night, so it works equally well as a first stop before a Quarter walk or a late-night finish after dinner elsewhere. Mornings before 9am tend to be calmer on weekdays, and the lull between lunch and the dinner crowd, roughly mid-afternoon, is another decent window.
 
 Weekend mornings, especially around brunch time, are when the line stretches down the block; if you're set on a leisurely sit-down visit, avoid arriving late Saturday or Sunday morning.
 
 ## The scene and setting
 
-The main location is really an open-air pavilion: green metal chairs, marble-topped tables, and a constant churn of servers threading between them with trays stacked high with plates and cups. It's covered but not enclosed, so you get the full sensory wash of the Quarter — brass or jazz drifting over from street performers near the square, the clip-clop of carriage horses, the occasional streetcar bell.
+The main location is really an open-air pavilion: green metal chairs, marble-topped tables, and a constant churn of servers threading between them with trays stacked high with plates and cups. It's covered but not enclosed, so you get the full sensory wash of the Quarter, brass or jazz drifting over from street performers near the square, the clip-clop of carriage horses, the occasional streetcar bell.
 
 It's loud, communal, and unapologetically touristy, but that's part of the theater. You're not here for a hushed coffeehouse moment; you're here for the specific, slightly chaotic ritual of powdered sugar everywhere and coffee that tastes faintly of root and roast.
 
 ## How to visit like a local
 
-Order at the counter or let a server take it tableside — either works, and tipping in cash for table service is customary and appreciated. Payment is cash or card, though a cash tip left directly on the table is the norm even if you pay the bill by card. Because this spot is genuinely packed most hours, the smartest move is to treat the wait as part of the experience rather than fight it: grab a to-go order from the walk-up window if the sit-down line is long, and eat standing at the edge of the square instead.
+Order at the counter or let a server take it tableside, either works, and tipping in cash for table service is customary and appreciated. Payment is cash or card, though a cash tip left directly on the table is the norm even if you pay the bill by card. Because this spot is genuinely packed most hours, the smartest move is to treat the wait as part of the experience rather than fight it: grab a to-go order from the walk-up window if the sit-down line is long, and eat standing at the edge of the square instead.
 
-The rookie mistake is wearing dark clothing and leaning over the plate — sugar goes everywhere, so sit back before you bite. And don't overthink the order: beignets and café au lait is the whole ritual, not a starting point for a bigger menu exploration.
+The rookie mistake is wearing dark clothing and leaning over the plate, sugar goes everywhere, so sit back before you bite. And don't overthink the order: beignets and café au lait is the whole ritual, not a starting point for a bigger menu exploration.

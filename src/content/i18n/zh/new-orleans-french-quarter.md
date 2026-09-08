@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-french-quarter
-srcHash: 'f48df59cb72f'
+srcHash: '23ade82f25ae'
 title: 法国区：新奥尔良旅行指南
 description: 法国区是新奥尔良18世纪最初的街区格局，大致以运河街（Canal Street）、兰帕特街（Rampart Street）、埃斯普拉纳德大道（Esplanade Avenue）和密西西比河为界。
 quickAnswer: 法国区是新奥尔良18世纪最初的街区格局，大致以运河街（Canal Street）、兰帕特街（Rampart Street）、埃斯普拉纳德大道（Esplanade Avenue）和密西西比河为界——一天之内就能走完，但值得住上两晚，好好体验这里的美食与音乐。建议住在杰克逊广场（Jackson Square）附近，全程步行游览（整个区域大约13个街区长、6个街区宽），并选择清晨或工作日前往，避开波旁街（Bourbon Street）的人潮。

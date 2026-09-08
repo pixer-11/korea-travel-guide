@@ -86,9 +86,9 @@ updatedDate: '2026-09-01'
 ---
 ## Why go
 
-Santa Maria del Fiore, universally called the Duomo, is the fourth-largest church in Europe and the symbol of Florence's Renaissance ambition. Begun in 1296 to a design by Arnolfo di Cambio, it wasn't finished for nearly 150 years — the real breakthrough came in 1436, when Filippo Brunelleschi completed the octagonal brick dome without a supporting scaffold, using a self-supporting double-shell design that was unprecedented at the time and remains the largest masonry dome ever built.
+Santa Maria del Fiore, universally called the Duomo, is the fourth-largest church in Europe and the symbol of Florence's Renaissance ambition. Begun in 1296 to a design by Arnolfo di Cambio, it wasn't finished for nearly 150 years, the real breakthrough came in 1436, when Filippo Brunelleschi completed the octagonal brick dome without a supporting scaffold, using a self-supporting double-shell design that was unprecedented at the time and remains the largest masonry dome ever built.
 
-The pink, white, and green marble facade you see today is actually a 19th-century addition (1876–1887) by Emilio De Fabris; the medieval original was torn down unfinished in the 1580s. Rated 4.8 by over 110,000 visitors, it's one of the most-reviewed sights in Italy, and for good reason — this is Florence's civic heart, not just a photo backdrop.
+The pink, white, and green marble facade you see today is actually a 19th-century addition (1876–1887) by Emilio De Fabris; the medieval original was torn down unfinished in the 1580s. Rated 4.8 by over 110,000 visitors, it's one of the most-reviewed sights in Italy, and for good reason. This is Florence's civic heart, not just a photo backdrop.
 
 ## Getting there
 
@@ -96,16 +96,16 @@ The cathedral sits in Piazza del Duomo, in the pedestrian-only historic center, 
 
 ## What to see
 
-The church itself — nave, choir, and crypt — is free to enter, but expect a security-check line, especially midmorning. Inside, don't rush past Giorgio Vasari and Federico Zuccari's frescoed dome interior depicting the Last Judgment, painted in the 1570s-80s, or the trompe-l'oeil equestrian monuments to condottieri Niccolò da Tolentino and Sir John Hawkwood on the left aisle wall. The stained-glass windows are among the largest in Italy, some designed by Donatello and Lorenzo Ghiberti.
+The church itself (nave, choir, and crypt) is free to enter, but expect a security-check line, especially midmorning. Inside, don't rush past Giorgio Vasari and Federico Zuccari's frescoed dome interior depicting the Last Judgment, painted in the 1570s-80s, or the trompe-l'oeil equestrian monuments to condottieri Niccolò da Tolentino and Sir John Hawkwood on the left aisle wall. The stained-glass windows are among the largest in Italy, some designed by Donatello and Lorenzo Ghiberti.
 
-The real highlight, though, requires planning: climbing the 463 steps inside Brunelleschi's dome puts you on a narrow gallery at the base of the lantern, with a close-up view of the Last Judgment frescoes on the way up and a 360-degree panorama of Florence's terracotta rooftops at the top. This climb is narrow, one-way, and not for anyone with claustrophobia or mobility issues — and crucially, it requires a timed-entry ticket booked online in advance, often weeks ahead in peak season.
+The real highlight, though, requires planning: climbing the 463 steps inside Brunelleschi's dome puts you on a narrow gallery at the base of the lantern, with a close-up view of the Last Judgment frescoes on the way up and a 360-degree panorama of Florence's terracotta rooftops at the top. This climb is narrow, one-way, and not for anyone with claustrophobia or mobility issues, and crucially, it requires a timed-entry ticket booked online in advance, often weeks ahead in peak season.
 
 Next door, Giotto's Campanile (bell tower, begun 1334) offers a comparable view via 414 steps and tends to have shorter waits than the dome. The octagonal Baptistery of San Giovanni, just across the piazza, holds Ghiberti's gilded bronze "Gates of Paradise" doors (the originals are in the Museo dell'Opera del Duomo nearby) and is where Dante himself was baptized. A combined ticket covering the dome, tower, baptistery, crypt, and museum is the standard way most visitors see the complex, since the dome climb is bundled with the rest.
 
 ## When to go
 
-Early morning, right at the cathedral's opening (10:15am in recent seasons — confirm times on the official Duomo site), or in the last hour before closing, offers the calmest visit — the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May) and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can — the stone steps get slick.
+Early morning, right at the cathedral's opening (10:15am in recent seasons (confirm times on the official Duomo site), or in the last hour before closing, offers the calmest visit) the piazza fills with tour groups by mid-morning and stays busy through the afternoon. Spring (April–May), and fall (September–October) bring mild weather without August's heat, when the dome climb in particular gets stuffy and airless. Avoid climbing right after rain if you can, the stone steps get slick.
 
 ## Nearby & tips
 
-The complex sits within a two-minute walk of the Loggia del Bigallo and the pedestrian shopping streets Via de' Calzaiuoli and Via Roma, which lead straight to Piazzale degli Uffizi and the Ponte Vecchio. Gelateria dei Neri and several standing-only espresso bars around the piazza make good short breaks between sights. Because tickets for the dome are timed and non-transferable, book your slot before finalizing the rest of your day's itinerary — it's the one part of a Duomo visit that can't be improvised.
+The complex sits within a two-minute walk of the Loggia del Bigallo and the pedestrian shopping streets Via de' Calzaiuoli and Via Roma, which lead straight to Piazzale degli Uffizi and the Ponte Vecchio. Gelateria dei Neri and several standing-only espresso bars around the piazza make good short breaks between sights. Because tickets for the dome are timed and non-transferable, book your slot before finalizing the rest of your day's itinerary. It's the one part of a Duomo visit that can't be improvised.

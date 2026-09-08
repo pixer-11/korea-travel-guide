@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bhubaneswar-regional-museum-of-natural-history
-srcHash: 'bb7875b597b8'
+srcHash: '74ac11b0335b'
 title: '지역 자연사 박물관: 부바네스와르 여행 가이드'
 description: 지역 자연사 박물관(Regional Museum of Natural History)은 아차리아 비하르(Acharya Vihar) 사치발라야 마르그(Sachivalaya Marg)에 있으며, 파타니 사만타 천문관(Pathani Samanta Planetarium) 바로 옆에 위치해 있고, 월요일을 제외한 매일 오전 10시부터 오후 6시까지 운영합니다.
 quickAnswer: 지역 자연사 박물관은 아차리아 비하르 사치발라야 마르그에 있으며, 파타니 사만타 천문관 바로 옆에 위치해 있고, 월요일을 제외한 매일 오전 10시부터 오후 6시까지 운영합니다. 전시관, 비바리움(vivarium), 시각장애인을 위한 식물원까지 둘러보려면 90분에서 2시간 정도 시간을 잡아두는 것이 좋고, 주말 오전 11시부터 오후 6시 사이에는 붐비는 편이니 가능하면 일찍 가거나 평일 오후에 방문하는 것을 추천합니다. 입장료는 저렴하지만 수시로 변동되니 매표소에서 현재 가격을 확인하세요.

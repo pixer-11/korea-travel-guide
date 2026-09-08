@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-saint-peter-s-basilica
-srcHash: 'd938d523c82b'
+srcHash: 'f780078fbec6'
 title: 'Basílica de San Pedro: guía de viaje de Roma (4.8★)'
 description: Ve justo a las 7 de la mañana cuando abren las puertas, o después de las 17:00 — la basílica mantiene el mismo horario de 7:00 a 19:10 todos los días, y la avalancha de grupos turísticos se dispara rápido entre las 10:00 y las 14:00 los fines de semana. 4.8★ (181,027 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Ve justo a las 7 de la mañana cuando abren las puertas, o después de las 17:00 — la basílica mantiene el mismo horario de 7:00 a 19:10 todos los días, y la avalancha de grupos turísticos se dispara rápido entre las 10:00 y las 14:00 los fines de semana. La entrada a la iglesia en sí es gratuita, el control de seguridad es el verdadero cuello de botella, y deberías reservar entre 1.5 y 2 horas solo para la basílica (más si subes a la cúpula).

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yilan-yilan-museum-of-art
-srcHash: '079e0749640f'
+srcHash: 'c24d9084c9db'
 title: 'Museo de Arte de Yilan: Guía de Viaje (4,4★)'
 description: 'El Museo de Arte de Yilan se encuentra en pleno centro de la ciudad de Yilan, en Zhongshan Road, dentro del antiguo complejo gubernamental de la era japonesa, y es una parada sencilla y poco concurrida casi cualquier día de la semana. 4,4★ (935 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte de Yilan se encuentra en pleno centro de la ciudad de Yilan, en Zhongshan Road, dentro del antiguo complejo gubernamental de la era japonesa, y es una parada sencilla y poco concurrida casi cualquier día de la semana. Abre de 9:00 a 17:00 de martes a domingo, cierra los lunes, y aun los fines de semana —su momento de mayor afluencia— rara vez se siente abarrotado, ya que sigue siendo un lugar poco conocido. Calcule alrededor de una hora, o menos si solo está de paso por Nanmen Village.

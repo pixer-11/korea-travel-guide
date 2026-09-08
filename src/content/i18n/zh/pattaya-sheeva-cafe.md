@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pattaya-sheeva-cafe
-srcHash: 'c41349ba53c3'
+srcHash: 'f92744a8b50b'
 title: Sheeva Cafe(希瓦咖啡馆):芭堤雅旅行指南
 description: Sheeva Cafe 是位于芭堤雅 Sukhumvit-Pattaya 75 巷(75巷)的丛林主题餐厅咖啡馆，以浓密的绿植、瀑布、锦鲤池，以及缠绕座位区、适合拍照的藤蔓隧道而闻名。
 quickAnswer: Sheeva Cafe 是位于芭堤雅 Sukhumvit-Pattaya 75 巷(75巷)的丛林主题餐厅咖啡馆，以浓密的绿植、瀑布、锦鲤池，以及缠绕座位区、适合拍照的藤蔓隧道而闻名。建议选在早午餐时段或下午茶时间前往，这样能在自然光下欣赏绿植;这里供应泰式与国际料理，价位中等;用餐加上在园区拍照闲逛，建议预留1.5到2小时。

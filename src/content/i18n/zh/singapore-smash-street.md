@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-smash-street
-srcHash: '5ef4113a550c'
+srcHash: '0e4adf41c19d'
 title: 新加坡Smash Street探店指南：汉堡推荐、营业时间与避开排队的窍门（4.6★）
 description: Scarpetta团队打造的重击牛肉汉堡新店：该点什么、营业时间，以及不用排队就能轻松入座的冷门时段。4.6★（349条评价）。
 quickAnswer: Smash Street是爆红意面吧Scarpetta团队推出的全新重击汉堡（smash-burger）概念店，牛肉饼经过煎烤后边缘焦脆、口感浓郁，夹在手工马铃薯面包（potato bun）中呈现。餐厅于2026年4月3日开业，很快就成为新加坡最受热议的休闲餐饮话题之一。由于才刚开业不久，各项细节仍在调整中，出发前建议先确认最新营业时间、具体地址，以及是否需要预约。

@@ -72,17 +72,17 @@ draft: false
 ---
 ## Why go
 
-You come to Saint-Sernin for scale. Nothing else in Toulouse prepares you for the sheer length of its nave — over 100 metres of pink brick and stone vaulting, built to funnel medieval pilgrims toward Santiago de Compostela.
+You come to Saint-Sernin for scale. Nothing else in Toulouse prepares you for the sheer length of its nave, over 100 metres of pink brick and stone vaulting, built to funnel medieval pilgrims toward Santiago de Compostela.
 
 It's the largest Romanesque church still standing in Europe, and it shows. The octagonal bell tower, tiered like a wedding cake in brick and stone, is visible from streets away and has become one of the skyline markers of the city.
 
 ## What you'll see inside
 
-Step through the west doors and the light shifts immediately — warm, filtered, low. Your eyes adjust slowly to the dim red-brick interior, where thick columns march off in ranks toward the distant apse.
+Step through the west doors and the light shifts immediately, warm, filtered, low. Your eyes adjust slowly to the dim red-brick interior, where thick columns march off in ranks toward the distant apse.
 
 Beneath the altar sits the real draw for many visitors: a crypt holding a large collection of relics, along with what tradition holds is a thorn from the Crown of Thorns. Look up in the ambulatory for Romanesque marble reliefs, some of the finest carved work surviving from the 11th century.
 
-Give the basilica at least 30–45 minutes. Longer if you pay to visit the crypt, which typically requires a separate small fee — check current pricing at the door since it does change.
+Give the basilica at least 30–45 minutes. Longer if you pay to visit the crypt, which typically requires a separate small fee. Check current pricing at the door since it does change.
 
 ## Getting there
 
@@ -92,7 +92,7 @@ If you're coming from the train station, Gare Matabiau, it's roughly a 15-minute
 
 ## When to go
 
-Weekday mornings between 9am and 10am are the calmest hours to visit, based on measured foot traffic — the same quiet window holds true on weekends too. Weekend afternoons are a different story: from 11am until closing, tour groups and day-trippers fill the nave and the crowd noise rises with them.
+Weekday mornings between 9am and 10am are the calmest hours to visit, based on measured foot traffic, the same quiet window holds true on weekends too. Weekend afternoons are a different story: from 11am until closing, tour groups and day-trippers fill the nave and the crowd noise rises with them.
 
 Sunday hours are shorter, 10am to 5:30pm, and mass services can restrict tourist access to parts of the church, so plan around that if photography or a quiet look at the crypt matters to you.
 
@@ -100,9 +100,9 @@ Sunday hours are shorter, 10am to 5:30pm, and mass services can restrict tourist
 
 Saint-Sernin is one of the most-visited sites in Toulouse, so treat it like a busy landmark, not a quiet find. Beating the crowd means arriving right at 8:30am opening on a weekday, or catching that same 9–10am lull on a Saturday.
 
-- **Dress**: shoulders and knees covered — it's an active place of worship, not just a museum.
+- **Dress**: shoulders and knees covered. It's an active place of worship, not just a museum.
 - **Noise**: keep your voice low; services and private prayer happen throughout the day.
-- **Payment**: crypt entry and any donation boxes are typically cash or card — bring a few euro coins just in case a machine is down.
+- **Payment**: crypt entry and any donation boxes are typically cash or card. Bring a few euro coins just in case a machine is down.
 - **Photography**: usually fine in the nave without flash, but be discreet during any service.
 - **Timing tip**: pair your visit with an early walk to the Capitole before the square fills up, then loop back for the quiet crypt hour.
 

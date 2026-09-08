@@ -80,34 +80,34 @@ draft: false
 updatedDate: '2026-08-09'
 ---
 
-You come out of the crush of the Eastern Gate — the ticket queues, the touts selling marble elephants, the cycle-rickshaws jostling for space — and within a few minutes' walk you're climbing a staircase into something entirely different: a rooftop lit by candles, white tablecloths catching the flicker, and somewhere off to the side, a musician working through a set of instrumental ragas on a sitar or harmonium.
+You come out of the crush of the Eastern Gate (the ticket queues, the touts selling marble elephants, the cycle-rickshaws jostling for space), and within a few minutes' walk you're climbing a staircase into something entirely different: a rooftop lit by candles, white tablecloths catching the flicker, and somewhere off to the side, a musician working through a set of instrumental ragas on a sitar or harmonium.
 
 Taj Terrace sits atop Hotel Taj Resorts in Tajganj, the old pilgrim-and-artisan quarter that grew up around the monument centuries ago, and on a clear night you can see the minarets and the curve of the dome from your table.
 
 ## Why go
 
-This is Agra's rooftop dining answer to a very specific problem: the city is full of monuments and short on restaurants that feel like a destination in themselves. Taj Terrace is styled as elegant, candlelit, global-menu dining rather than a quick thali stop — the kind of place you build an evening around rather than refuel at between sightseeing stops.
+This is Agra's rooftop dining answer to a very specific problem: the city is full of monuments and short on restaurants that feel like a destination in themselves. Taj Terrace is styled as elegant, candlelit, global-menu dining rather than a quick thali stop, the kind of place you build an evening around rather than refuel at between sightseeing stops.
 
 With a 4.8 rating across more than 1,150 reviews, it's clearly doing something right, and it's not yet the kind of place that shows up on every tour-bus itinerary, so tables are easier to land than at Agra's handful of famous Taj-view hotels.
 
 ## Getting there
 
-Tajganj is the neighborhood immediately south of the Taj Mahal, wrapped around the Eastern and Southern Gates. If you're coming from central Agra or the Cantonment area, an auto-rickshaw is the simplest way in — most drivers know Tajganj and the lanes near "Shilpgram," the crafts village that sits close to the Eastern Gate and serves as a handy landmark for the restaurant.
+Tajganj is the neighborhood immediately south of the Taj Mahal, wrapped around the Eastern and Southern Gates. If you're coming from central Agra or the Cantonment area, an auto-rickshaw is the simplest way in, most drivers know Tajganj and the lanes near "Shilpgram," the crafts village that sits close to the Eastern Gate and serves as a handy landmark for the restaurant.
 
-Agra Cantt railway station is roughly 15-20 minutes away by road depending on traffic; Agra's airport is a similarly short drive. Because much of Tajganj near the gates is pedestrianized or heavily congested with tourist traffic, plan to walk the last stretch — it's part of the experience, past marble-inlay workshops and sweet shops that have operated in these lanes for generations.
+Agra Cantt railway station is roughly 15-20 minutes away by road depending on traffic; Agra's airport is a similarly short drive. Because much of Tajganj near the gates is pedestrianized or heavily congested with tourist traffic, plan to walk the last stretch. It's part of the experience, past marble-inlay workshops and sweet shops that have operated in these lanes for generations.
 
 ## What to eat
 
-The kitchen leans international rather than strictly Mughlai, so expect a menu that moves between Indian classics and global comfort dishes — think a curry alongside a pasta or continental grill option — geared toward travelers who've spent all day on Agra's heavier, richer restaurant food and want something lighter or more familiar in the evening. The real draw, though, is the setting as much as any single dish: candlelight, open sky, and live music turn even a simple dinner into the kind of meal you remember longer than the food itself. Go for the ambience, order what looks good, and let the rooftop do the rest.
+The kitchen leans international rather than strictly Mughlai, so expect a menu that moves between Indian classics and global comfort dishes, think a curry alongside a pasta or continental grill option, geared toward travelers who've spent all day on Agra's heavier, richer restaurant food and want something lighter or more familiar in the evening. The real draw, though, is the setting as much as any single dish: candlelight, open sky, and live music turn even a simple dinner into the kind of meal you remember longer than the food itself. Go for the ambience, order what looks good, and let the rooftop do the rest.
 
 ## When to go
 
-Sunset is the obvious answer — arrive as the light goes gold over the sandstone walls of the Eastern Gate complex, and stay as the sky darkens and the monument's silhouette takes over. Because Tajganj empties out fast once the Taj Mahal itself closes to visitors in the late afternoon (it typically shuts around sunset, with exact times shifting seasonally — confirm before you go), a slightly later dinner reservation lets you dodge the crowd of day-trippers still finishing their monument visit and settling into nearby restaurants at once.
+Sunset is the obvious answer (arrive as the light goes gold over the sandstone walls of the Eastern Gate complex, and stay as the sky darkens and the monument's silhouette takes over. Because Tajganj empties out fast once the Taj Mahal itself closes to visitors in the late afternoon (it typically shuts around sunset, with exact times shifting seasonally) confirm before you go), a slightly later dinner reservation lets you dodge the crowd of day-trippers still finishing their monument visit and settling into nearby restaurants at once.
 
 ## How to visit like a local
 
-Book ahead for an evening slot if you can — rooftop tables with a monument view are the ones everyone wants, and this is a fine-dining restaurant rather than a walk-in cafe, so reservations (by phone or through your hotel concierge) smooth the whole experience. Dress a notch smarter than typical daytime sightseeing gear; it's a candlelit, live-music setting, not a quick-bite joint.
+Book ahead for an evening slot if you can, rooftop tables with a monument view are the ones everyone wants, and this is a fine-dining restaurant rather than a walk-in cafe, so reservations (by phone or through your hotel concierge) smooth the whole experience. Dress a notch smarter than typical daytime sightseeing gear; it's a candlelit, live-music setting, not a quick-bite joint.
 
-Cash and cards are both standard practice at Agra hotel restaurants, and a modest tip (rounding up the bill or adding roughly 5-10%) is customary even when a service charge is already included — check the bill before adding more. The mistake most visitors make is treating Tajganj purely as a monument backdrop and rushing straight from the gate to their car; slowing down for a proper dinner here, after the crowds thin, is exactly the local rhythm worth following.
+Cash and cards are both standard practice at Agra hotel restaurants, and a modest tip (rounding up the bill or adding roughly 5-10%) is customary even when a service charge is already included. Check the bill before adding more. The mistake most visitors make is treating Tajganj purely as a monument backdrop and rushing straight from the gate to their car; slowing down for a proper dinner here, after the crowds thin, is exactly the local rhythm worth following.
 
 Since this spot isn't yet on every group-tour circuit, you can still get a candlelit table with a view without the scramble that hits Agra's better-known hotel rooftops.

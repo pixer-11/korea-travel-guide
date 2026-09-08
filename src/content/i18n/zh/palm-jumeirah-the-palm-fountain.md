@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: palm-jumeirah-the-palm-fountain
-srcHash: '2b7492ac7d30'
+srcHash: 'e0b6be4c5b04'
 title: 棕榈喷泉：朱美拉棕榈岛旅行指南（4.5星）
 description: 棕榈喷泉坐落在朱美拉棕榈岛的The Pointe，每晚6点至10点半上演喷泉表演（周六、周日会延长至午夜）。4.5星（2,898条评价）——游客怎么说、开放时间及实用小贴士，一并奉上。
 quickAnswer: 棕榈喷泉坐落在朱美拉棕榈岛的The Pointe，每晚6点至10点半上演表演，周六、周日则延长至午夜。建议7点半前抵达，在栏杆边占个好位置，赶在最精彩的几场表演开始之前，顺便可以在The Pointe的海滨餐厅吃顿晚饭。观赏喷泉完全免费，天黑之后大约每隔30分钟就会上演一场。

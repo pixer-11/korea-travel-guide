@@ -92,12 +92,12 @@ Inside, air-conditioned galleries hold hundreds of genuine Khmer artifacts: sand
 
 ## What you'll actually see
 
-The museum unfolds across eight themed galleries, moving roughly chronologically through Khmer civilization. The showpiece is the Gallery of a Thousand Buddhas — a dim, atmospheric hall lined with Buddha statues of every size, some missing heads or hands from centuries of looting and war.
+The museum unfolds across eight themed galleries, moving roughly chronologically through Khmer civilization. The showpiece is the Gallery of a Thousand Buddhas, a dim, atmospheric hall lined with Buddha statues of every size, some missing heads or hands from centuries of looting and war.
 
 Other rooms cover:
 
 - Khmer costume and textiles, with mannequins in royal dress
-- Religious sculpture — Shiva, Vishnu, and Hindu iconography that predates Angkor's Buddhist era
+- Religious sculpture, Shiva, Vishnu, and Hindu iconography that predates Angkor's Buddhist era
 - Angkor Wat itself, with a dedicated gallery on its construction and symbolism
 - Pre-Angkorian history, tracing the kingdoms that came before the temple-building boom
 
@@ -111,19 +111,19 @@ It's open every day, 8:30am to 6pm, with no weekly closure to plan around. Two h
 
 Go early. The quietest window is 9am to 10am, both on weekdays and weekends, before the day-trip crowds arrive.
 
-Weekends get busy fast — foot traffic climbs steadily and stays heavy from 1pm right through closing at 6pm. If you can only visit on a Saturday or Sunday, arrive right at opening and you'll have galleries mostly to yourself for that first hour.
+Weekends get busy fast, foot traffic climbs steadily and stays heavy from 1pm right through closing at 6pm. If you can only visit on a Saturday or Sunday, arrive right at opening and you'll have galleries mostly to yourself for that first hour.
 
 ## How to visit like a local
 
-This museum draws a heavy tourist crowd, so beating the queues is the whole game. Arrive at or just after 8:30am opening — you'll walk straight into empty galleries instead of shuffling behind a tour group.
+This museum draws a heavy tourist crowd, so beating the queues is the whole game. Arrive at or just after 8:30am opening. You'll walk straight into empty galleries instead of shuffling behind a tour group.
 
 Tickets are usually bought at the counter on arrival; card payment is widely accepted alongside cash in US dollars, which is the everyday currency in Siem Reap alongside Cambodian riel. There's rarely a need to book ahead online, but check current pricing at the door since museum admission fees do shift over time.
 
 The mistake most visitors make is treating this as an optional add-on and skipping it, or worse, visiting it after the temples as a tired afterthought. Locals working in the tourism trade will tell you the opposite order works better: see the museum first, then the carvings on the actual monuments make sense.
 
-- Rent the audio guide — the sculpture galleries have minimal English text otherwise
+- Rent the audio guide. The sculpture galleries have minimal English text otherwise
 - Skip flash photography galleries entirely; most of the museum bans cameras
-- Wear light layers — the AC is strong compared to Siem Reap's heat outside
+- Wear light layers. The AC is strong compared to Siem Reap's heat outside
 - Pair the visit with a coffee at one of the cafés along the same avenue afterward
 
 Give yourself a buffer before an afternoon temple run. Two hours here plus travel time to Angkor Wat's outer moat is a realistic half-day when combined.
@@ -132,5 +132,5 @@ Give yourself a buffer before an afternoon temple run. Two hours here plus trave
 
 The museum's location on Sihanouk Avenue puts it near Siem Reap's Old Market area and the riverside strip of restaurants and bars, making it easy to fold into an evening out. Many visitors pair a morning museum visit with an afternoon at Angkor Wat or a sunset stop at Phnom Bakheng.
 
-If you're building a multi-day Angkor itinerary, treat this as day one, hour one — everything you see afterward at the temples will read differently once you've spent time with the real carvings and statues under museum lighting.
+If you're building a multi-day Angkor itinerary, treat this as day one, hour one, everything you see afterward at the temples will read differently once you've spent time with the real carvings and statues under museum lighting.
 

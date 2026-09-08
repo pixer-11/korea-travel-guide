@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: baguio-bell-church
-srcHash: 'e1ad4a69eb46'
+srcHash: '2b36f8758872'
 title: 钟灵寺（Bell Church）：碧瑶（Baguio）旅行指南（4.4★）
 description: 钟灵寺（Bell Church）是位于碧瑶（Baguio）以北拉特立尼达（La Trinidad）的一座佛道合一的小型庙宇建筑群，以层叠的牌楼山门、雕龙栏杆和被山景环绕的荷花池闻名。4.4★（2,249条评价）——看看游客怎么说、开放时间及游览贴士。
 quickAnswer: 钟灵寺（Bell Church）是位于碧瑶（Baguio）以北拉特立尼达（La Trinidad）的一座佛道合一的小型庙宇建筑群，以层叠的牌楼山门、雕龙栏杆和被山景环绕的荷花池闻名。这里免费入场（欢迎捐赠），认真逛一圈大约需要30到45分钟，而且由于和拉特立尼达的草莓园同在出城的这条路上，两者很适合安排在一起游览。如果想独享清净的庭院，最好选工作日的上午前往。

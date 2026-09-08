@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coron-kayangan-lake
-srcHash: '33f12b644162'
+srcHash: '36ff2c2a10c5'
 title: 'Lago Kayangan: Guía de viaje de Coron (4.7★)'
 description: 'El lago Kayangan, considerado a menudo uno de los lagos más limpios de Filipinas, se encuentra dentro de un karst de piedra caliza sobre el Barangay Banuang Daan de Coron y solo se puede llegar en barco y subiendo una escalera empinada. 4.7★ (554 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El lago Kayangan, considerado a menudo uno de los lagos más limpios de Filipinas, se encuentra dentro de un karst de piedra caliza sobre el Barangay Banuang Daan de Coron y solo se puede llegar en barco y subiendo una escalera empinada. Ve lo más temprano posible que los operadores de botes te lleven —antes de las 9am— para evitar las multitudes de los tours en barco y disfrutar del agua cristalina como un espejo en su mejor momento. Reserva medio día, incluyendo el recorrido en barco de island-hopping, y lleva efectivo para la tarifa ambiental.

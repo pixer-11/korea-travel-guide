@@ -68,7 +68,7 @@ Step through the heavy timber doors on Church Street and you leave the traffic b
 
 Gilded carved wood panels climb the walls. English floor tiles in faded floral patterns run underfoot. Scottish cast-iron columns hold up the roof of the open central courtyard, where daylight pours straight down onto the family altar below.
 
-It's easy to see why film crews keep coming back — this is one of the most photographed heritage interiors in George Town, and the rooms are dense enough with antiques that you'll want to slow down in every one.
+It's easy to see why film crews keep coming back. This is one of the most photographed heritage interiors in George Town, and the rooms are dense enough with antiques that you'll want to slow down in every one.
 
 ## What you'll actually see
 
@@ -86,7 +86,7 @@ Docents and posted signage explain how each piece ties into Peranakan wedding cu
 
 The mansion sits at 29 Church Street in the heart of George Town's UNESCO World Heritage core, an easy walk from Armenian Street and the clan jetties.
 
-If you're coming from further out, Rapid Penang buses stop along Beach Street and Lebuh Pantai a few minutes' walk away. Most visitors simply combine it with a walking loop through the old town — it pairs naturally with Cheong Fatt Tze Mansion (the "Blue Mansion") a short stroll north, and with the street art trail around Armenian Street.
+If you're coming from further out, Rapid Penang buses stop along Beach Street and Lebuh Pantai a few minutes' walk away. Most visitors simply combine it with a walking loop through the old town, it pairs naturally with Cheong Fatt Tze Mansion (the "Blue Mansion") a short stroll north, and with the street art trail around Armenian Street.
 
 Trishaws and Grab rides are both easy to flag down nearby if you're walking between multiple heritage sites in the day's heat.
 
@@ -103,20 +103,20 @@ Weekdays generally run calmer throughout, so a weekday morning is your safest be
 This is a well-visited, frequently toured museum rather than a quiet find, so the smart move is timing, not secrecy.
 
 - **Arrive near opening** (9:30am) or, on weekends, before 11am to beat the tour-bus surge.
-- **Pay at the counter** — cash and cards are both commonly accepted at Georgetown museums, but carry some ringgit as backup.
+- **Pay at the counter**, cash and cards are both commonly accepted at Georgetown museums, but carry some ringgit as backup.
 - **Join a guided walk-through if offered** near the entrance; the carvings and heirlooms make far more sense with context than as a silent wander.
-- **Dress respectfully** — it's a heritage home, not a beach attraction, so light layers over shoulders are appreciated indoors.
-- **Don't rush the courtyard** — most first-time visitors blow past the central atrium's ironwork and tiling on their way to the bedrooms, missing one of the best architectural details in the house.
+- **Dress respectfully**. It's a heritage home, not a beach attraction, so light layers over shoulders are appreciated indoors.
+- **Don't rush the courtyard**, most first-time visitors blow past the central atrium's ironwork and tiling on their way to the bedrooms, missing one of the best architectural details in the house.
 
-The most common mistake is treating this as a quick 20-minute photo stop. The rooms reward a slower pace — budget closer to an hour, more if you enjoy reading the small placards on Peranakan customs.
+The most common mistake is treating this as a quick 20-minute photo stop. The rooms reward a slower pace. Budget closer to an hour, more if you enjoy reading the small placards on Peranakan customs.
 
 ## Nearby to combine with your visit
 
 Church Street itself is short and walkable, so pair the mansion with a few nearby stops rather than treating it as an isolated errand.
 
-- **Cheong Fatt Tze Mansion** (Blue Mansion) — a few minutes north
-- **Armenian Street** — street art and Peranakan shophouses
-- **Khoo Kongsi clan house** — ornate Chinese clan temple
-- **Little India** — a short walk south for a change of pace and a food break
+- **Cheong Fatt Tze Mansion** (Blue Mansion), a few minutes north
+- **Armenian Street**, street art and Peranakan shophouses
+- **Khoo Kongsi clan house**, ornate Chinese clan temple
+- **Little India**, a short walk south for a change of pace and a food break
 
 Together these make for a half-day heritage loop through George Town's old quarter, with the Peranakan Mansion as the richest indoor stop on the route.

@@ -98,13 +98,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-You feel Molo before you see it — the traffic noise of the Molo-Arevalo road thins out, and the street opens onto a square of pale marble and old acacia trees. At the center sits a domed rotunda, its columns and balustrades gone slightly gray with age, ringed by benches where old men read newspapers and vendors push carts of taho and boiled peanuts.
+You feel Molo before you see it, the traffic noise of the Molo-Arevalo road thins out, and the street opens onto a square of pale marble and old acacia trees. At the center sits a domed rotunda, its columns and balustrades gone slightly gray with age, ringed by benches where old men read newspapers and vendors push carts of taho and boiled peanuts.
 
 Across the square rises Molo Church, officially St. Anne Parish, its coral-stone facade and twin neo-Gothic spires the color of wet sand. Locals call it the "Women's Church" because its interior columns are lined with statues of female saints, a rare arrangement in Philippine church architecture. The pairing of formal European-park geometry with this church makes Molo Plaza feel unlike any other public square in Iloilo City.
 
 ## Why Molo Plaza is worth the detour
 
-This isn't a headline attraction like Iloilo's riverside esplanade — it's smaller, quieter, and easy to underrate.
+This isn't a headline attraction like Iloilo's riverside esplanade. It's smaller, quieter, and easy to underrate.
 
 That's exactly its appeal. Molo Plaza still runs on neighborhood rhythm: kids on bikes circling the rotunda, jeepneys idling at the corner, the smell of grilled corn drifting from a cart near the church steps.
 
@@ -124,26 +124,26 @@ The plaza sits right on San Pedro Street, impossible to miss once you spot the c
 
 Give yourself 30 to 45 minutes here, more if you linger over food.
 
-- Walk the full rotunda loop — the marble balustrade and iron lamps are worth a slow circuit
+- Walk the full rotunda loop. The marble balustrade and iron lamps are worth a slow circuit
 - Step inside Molo Church to see the row of women-saint statues lining the nave
 - Watch the plaza's resident population of pigeons scatter and resettle around the fountain area
 - Sit on a bench with street food from one of the carts that rings the square in late afternoon
-- Photograph the church facade from the rotunda steps — the classic angle locals themselves use
+- Photograph the church facade from the rotunda steps, the classic angle locals themselves use
 
 ## When to go
 
 The plaza is open 24 hours, so there's no gate or ticket to worry about.
 
-Early morning, before the heat builds, is calmest — good for a slow walk and photos without much foot traffic. Weekends get lively as families and vendors fill the square, so if you want a quieter visit, come earlier in the day instead. Evenings after dark bring a different mood: the rotunda and church facade are lit, and the air cools enough to make sitting outside comfortable.
+Early morning, before the heat builds, is calmest, good for a slow walk and photos without much foot traffic. Weekends get lively as families and vendors fill the square, so if you want a quieter visit, come earlier in the day instead. Evenings after dark bring a different mood: the rotunda and church facade are lit, and the air cools enough to make sitting outside comfortable.
 
 ## How to visit like a local
 
 Molo Plaza isn't yet on most tourist itineraries, so you'll mostly share it with residents going about ordinary routines.
 
-- Pay cash for street food — small vendors here don't take cards or mobile payments
+- Pay cash for street food, small vendors here don't take cards or mobile payments
 - Dress modestly if you plan to step into the church, especially on Sundays around Mass times
-- Locals treat the rotunda as a shortcut and meeting point, not just a photo backdrop — feel free to just sit and watch the square
+- Locals treat the rotunda as a shortcut and meeting point, not just a photo backdrop, feel free to just sit and watch the square
 - The common mistake is treating this as a five-minute photo stop; slow down, grab a snack, and let the square's daily rhythm unfold around you
-- If you're here on a Saturday evening, expect the plaza to fill with families — arrive earlier if you prefer it quiet
+- If you're here on a Saturday evening, expect the plaza to fill with families. Arrive earlier if you prefer it quiet
 
 Pair the visit with a walk through Molo's surrounding streets, lined with old Spanish-era houses, or continue on to Molo's public market a few minutes away for lunch. Few visitors combine both stops, but doing so gives you a fuller sense of the district beyond its famous church and plaza.

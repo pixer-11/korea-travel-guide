@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: valencia-museo-de-las-ciencias-principe-felipe
-srcHash: '9606d973eff2'
+srcHash: '6111126f3abe'
 title: 'Museo de las Ciencias Príncipe Felipe: Guía de viaje de Valencia'
 description: 'El Museo de las Ciencias Príncipe Felipe, con su llamativa estructura de vidrio nervado y hormigón, es el ancla de la Ciudad de las Artes y de las Ciencias de Valencia: conviene reservar entre 2 y 3 horas para recorrer sus tres niveles de exposiciones interactivas. 4,4★ (57.652 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de las Ciencias Príncipe Felipe, con su llamativa estructura de vidrio nervado y hormigón, es el ancla de la Ciudad de las Artes y de las Ciencias de Valencia: conviene reservar entre 2 y 3 horas para recorrer sus tres niveles de exposiciones interactivas. Entre semana permanece tranquilo durante todo el horario (10:00–22:00); los fines de semana conviene evitar el tramo de 11:00 a 19:00, muy concurrido, e ir mejor entre las 19:00 y las 22:00. Se llega en Metro (Línea 3 o 5) hasta Alameda y luego caminando unos 20 minutos (o en autobús) a lo largo del antiguo cauce del río Turia.'

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-dalongdong-baoan-temple
-srcHash: '2e7768c1cf4a'
+srcHash: '44df5ab788ba'
 title: 'Templo Dalongdong Baoan: Guía de viaje de Nuevo Taipéi (4,7★)'
 description: 'El Templo Dalongdong Baoan es un monumento de la dinastía Qing en el distrito de Datong, en Taipéi, dedicado al dios de la medicina Baosheng Dadi y célebre por su columna de dragón de piedra de 1804 y su intrincada techumbre de cerámica jiaozhi. 4,7★ (4.661 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo Dalongdong Baoan es un monumento de la dinastía Qing en el distrito de Datong, en Taipéi, dedicado al dios de la medicina Baosheng Dadi y célebre por su columna de dragón de piedra de 1804 y su intrincada techumbre de cerámica jiaozhi. Abre todos los días de 6:00 a 21:00; conviene ir entre las 7:00 y las 9:00 para disfrutar el patio casi en soledad, ya que los fines de semana se llena de 11:00 a 20:00. Calcule entre 45 y 75 minutos, y combine la visita con el vecino Templo de Confucio para hacer un recorrido a pie sencillo.

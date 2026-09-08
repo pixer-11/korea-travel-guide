@@ -72,13 +72,13 @@ updatedDate: '2026-08-30'
 
 Most visitors to this part of Chengdu are heading straight for Taikoo Li's glass storefronts. Gudashengci Temple sits just behind that noise, and stepping through its gate feels like stepping back several centuries.
 
-The temple's history reaches back to the Tang Dynasty, when it was one of Chengdu's most important Buddhist sites. Wooden halls, incense smoke curling up past red pillars, elderly worshippers moving slowly between shrines — it's a working temple, not a museum piece, and that changes how it feels to walk through.
+The temple's history reaches back to the Tang Dynasty, when it was one of Chengdu's most important Buddhist sites. Wooden halls, incense smoke curling up past red pillars, elderly worshippers moving slowly between shrines. It's a working temple, not a museum piece, and that changes how it feels to walk through.
 
 ## Getting there
 
 The temple is in Jinjiang District, on Dacisi Road, close enough to Taikoo Li and Chunxi Road that you can fold it into the same afternoon. Most people arrive on foot from the Chunxi Road subway station area, since the temple sits just a few minutes' walk from that shopping district.
 
-If you're coming from elsewhere in the city, aim for the Chunxi Road / Taikoo Li area and use that as your landmark — the temple entrance is tucked just off the main pedestrian flow, easy to miss if you're not looking for it.
+If you're coming from elsewhere in the city, aim for the Chunxi Road / Taikoo Li area and use that as your landmark. The temple entrance is tucked just off the main pedestrian flow, easy to miss if you're not looking for it.
 
 ## What to see inside
 
@@ -89,25 +89,25 @@ Once through the gate, the layout unfolds in a series of courtyards, each a litt
 - Incense burners where locals still come to pray
 - Quiet side corridors good for just sitting and watching the smoke rise
 
-There's no need to rush. The temple rewards slow walking — noticing the faded paint on a beam, the way light falls through a courtyard opening, the murmur of chanting from a side hall.
+There's no need to rush. The temple rewards slow walking, noticing the faded paint on a beam, the way light falls through a courtyard opening, the murmur of chanting from a side hall.
 
 ## When to go
 
 Mornings are the calmest time here, before the nearby shopping streets wake up and pull crowds toward Taikoo Li. Because this temple sits so close to one of Chengdu's busiest commercial zones, an early visit gives you the courtyards nearly to yourself.
 
-Weekdays are quieter than weekends, and the temple is pleasant in most seasons — just avoid the hottest part of a summer afternoon if you can, since there's limited shade in the open courtyards.
+Weekdays are quieter than weekends, and the temple is pleasant in most seasons, just avoid the hottest part of a summer afternoon if you can, since there's limited shade in the open courtyards.
 
 Confirm current opening hours before you go, since temple schedules can shift with festivals or renovation work.
 
 ## How to visit like a local
 
-Dress modestly — shoulders and knees covered — as you would for any active place of worship. Keep your voice low inside the halls; this isn't a photo backdrop, it's somewhere people come to pray.
+Dress modestly, shoulders and knees covered, as you would for any active place of worship. Keep your voice low inside the halls; this isn't a photo backdrop, it's somewhere people come to pray.
 
 If you want to make an offering, small denominations of cash work best, and there's usually a simple, unspoken etiquette to follow: watch what regular worshippers do with incense and bow accordingly rather than guessing.
 
 The mistake most visitors make is treating this as a five-minute add-on to a Taikoo Li shopping trip. Slow down instead. Because it's still relatively under-the-radar compared to Chengdu's bigger temple complexes, you can actually take your time here without jostling for space.
 
-Locals and worshippers often refer to it simply as Daci Si — worth knowing if you're asking for directions nearby, since not everyone will recognize the fuller English rendering. Pair it with a wander through the older lanes around Dacisi Road before or after, since much of the neighborhood's character sits just outside the temple walls, in the smaller shopfronts and teahouses that haven't been absorbed into the shopping district yet.
+Locals and worshippers often refer to it simply as Daci Si, worth knowing if you're asking for directions nearby, since not everyone will recognize the fuller English rendering. Pair it with a wander through the older lanes around Dacisi Road before or after, since much of the neighborhood's character sits just outside the temple walls, in the smaller shopfronts and teahouses that haven't been absorbed into the shopping district yet.
 
 ## Nearby to combine
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bugis-albert-centre-market-food-centre
-srcHash: '3c218fc9c924'
+srcHash: '7e5d9de444e0'
 title: 亚华夹心楼熟食中心：武吉士美食去哪吃
 description: 亚华夹心楼熟食中心坐落在实龙岗河（Rochor Canal）边上的奎因街（Queen St）270号，是一座上下两层的熟食中心：楼下是热闹的湿巴刹，楼上则是宽敞的美食广场。4.1星（5,936条评价）——看看游客怎么说，附营业时间和实用贴士。
 quickAnswer: 亚华夹心楼熟食中心坐落在实龙岗河（Rochor Canal）边上的奎因街（Queen St）270号，是一座上下两层的熟食中心：楼下是热闹的湿巴刹，楼上则是宽敞的美食广场。如果时间允许，尽量选工作日中午前过去——周末从早上11点到晚上7点人流一直很密集。这里周四休息，安排行程时记得避开这一天。

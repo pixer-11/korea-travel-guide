@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-zest
-srcHash: 'd182b9bdecfd'
+srcHash: 'bd62c40ac64b'
 title: 'Zest: guía de viaje para Seúl'
 description: 'Zest, en Seúl (Corea del Sur), es uno de los locales del momento: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Zest es un bar de coctelería "zero waste" (cero residuos) situado en el distrito de Gangnam-gu, en Seúl, que actualmente ocupa el puesto n.º 2 en la lista Asia's 50 Best Bars 2026 y ha sido nombrado Mejor Bar de Corea por cuarto año consecutivo. Es conocido por sus destilados y refrescos de elaboración propia, en especial el Jeju Garibaldi a base de hallabong. Conviene reservar con antelación y acudir entre semana para disfrutar de una visita más tranquila y sin prisas. Antes de ir, confirma siempre directamente con el bar los horarios, la dirección y los detalles de la reserva.

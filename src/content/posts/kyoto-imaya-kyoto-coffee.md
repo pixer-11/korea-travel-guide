@@ -61,21 +61,21 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-IMAYA Kyoto &COFFEE has built a reputation — a 4.8 rating across more than 1,200 reviews is unusually high for a café — on doing a small menu very well rather than trying to be everything to everyone. The concept leans Italian-style coffee bar: think tight, punchy espresso drinks rather than the slow-pour third-wave style that dominates much of Kyoto's café scene.
+IMAYA Kyoto &COFFEE has built a reputation (a 4.8 rating across more than 1,200 reviews is unusually high for a café) on doing a small menu very well rather than trying to be everything to everyone. The concept leans Italian-style coffee bar: think tight, punchy espresso drinks rather than the slow-pour third-wave style that dominates much of Kyoto's café scene.
 
-Alongside coffee, it pours beer and keeps a short list of light food, which makes it flexible as a daytime espresso stop or an early-evening drink spot before dinner. The interior is snug and minimal, with an emphasis on clean lines and natural materials — a look that has made it a favorite subject on design and lifestyle social media, which partly explains the review volume relative to its size.
+Alongside coffee, it pours beer and keeps a short list of light food, which makes it flexible as a daytime espresso stop or an early-evening drink spot before dinner. The interior is snug and minimal, with an emphasis on clean lines and natural materials. A look that has made it a favorite subject on design and lifestyle social media, which partly explains the review volume relative to its size.
 
 ## Getting there
 
-The address is 726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, placing it in the central Nakagyo district — the same general neighborhood as Nishiki Market, the Teramachi and Shinkyogoku covered shopping arcades, and the Kyoto International Manga Museum. This is walkable from Kyoto's main downtown subway stops: Karasuma Oike Station (Karasuma Line and Tozai Line) or Kyoto Shiyakusho-mae Station (Tozai Line) both put you within a roughly 10-15 minute walk.
+The address is 726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, placing it in the central Nakagyo district, the same general neighborhood as Nishiki Market, the Teramachi and Shinkyogoku covered shopping arcades, and the Kyoto International Manga Museum. This is walkable from Kyoto's main downtown subway stops: Karasuma Oike Station (Karasuma Line and Tozai Line) or Kyoto Shiyakusho-mae Station (Tozai Line) both put you within a roughly 10-15 minute walk.
 
-If you're coming from Kyoto Station, the Karasuma subway line runs directly north to Karasuma Oike in about 10 minutes, making the transfer straightforward without needing a taxi. Because the café sits on a smaller backstreet rather than a main thoroughfare, it's worth pulling up the exact pin on a map app before setting out — Nakagyo's grid of narrow lanes can be disorienting even for those who've visited Kyoto before.
+If you're coming from Kyoto Station, the Karasuma subway line runs directly north to Karasuma Oike in about 10 minutes, making the transfer straightforward without needing a taxi. Because the café sits on a smaller backstreet rather than a main thoroughfare, it's worth pulling up the exact pin on a map app before setting out, Nakagyo's grid of narrow lanes can be disorienting even for those who've visited Kyoto before.
 
 ## What to see and try
 
 Order-wise, lean into what the café is known for: Italian-style espresso drinks, which typically means shorter, more concentrated preparations than the standard drip or filter coffee found elsewhere in the city. The "light fare" on the menu is meant for grazing alongside a drink rather than a full sit-down meal, so it suits a mid-morning break or an aperitivo-style stop rather than lunch or dinner proper.
 
-Because the room is compact, the experience is as much about the design and atmosphere as the drink itself — exposed materials, careful lighting, and a curated, uncluttered aesthetic are the draw for visitors who treat the space itself as the attraction. Given the tight footprint, this isn't the place for a laptop-and-work session; it rewards a short, focused visit.
+Because the room is compact, the experience is as much about the design and atmosphere as the drink itself, exposed materials, careful lighting, and a curated, uncluttered aesthetic are the draw for visitors who treat the space itself as the attraction. Given the tight footprint, this isn't the place for a laptop-and-work session; it rewards a short, focused visit.
 
 ## When to go
 
@@ -85,6 +85,6 @@ Avoid peak lunch hours if you want to linger, and check current opening hours on
 
 ## Nearby & tips
 
-Combine a stop here with a walk through Nishiki Market for Kyoto food stalls, or continue on to the Teramachi/Shinkyogoku arcades for shopping — both are within easy walking distance in the same Nakagyo district. The Kyoto International Manga Museum is also nearby if you want a cultural stop to bookend the visit. Since the space is small, groups larger than two or three may want to call ahead or be prepared to wait.
+Combine a stop here with a walk through Nishiki Market for Kyoto food stalls, or continue on to the Teramachi/Shinkyogoku arcades for shopping. Both are within easy walking distance in the same Nakagyo district. The Kyoto International Manga Museum is also nearby if you want a cultural stop to bookend the visit. Since the space is small, groups larger than two or three may want to call ahead or be prepared to wait.
 
-Cash and card acceptance varies at independent Kyoto cafés, so carrying some yen as backup is sensible. Finally, treat this as a stop on a broader downtown Kyoto itinerary rather than a standalone destination — its strength is convenience and quality in a walkable, attraction-dense pocket of the city, not a single must-see landmark.
+Cash and card acceptance varies at independent Kyoto cafés, so carrying some yen as backup is sensible. Finally, treat this as a stop on a broader downtown Kyoto itinerary rather than a standalone destination, its strength is convenience and quality in a walkable, attraction-dense pocket of the city, not a single must-see landmark.

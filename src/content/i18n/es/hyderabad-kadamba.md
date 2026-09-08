@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hyderabad-kadamba
-srcHash: '33638c22edce'
+srcHash: 'e9d8f9fff3bf'
 title: Kadamba en Hyderabad
 description: Kadamba es un bar en azotea con vistas al lago Durgam Cheruvu en Madhapur, Hyderabad, construido alrededor de tres árboles Kadamba vivos y con asientos bajos integrados al estilo de un chaupal de aldea.
 quickAnswer: Kadamba es un bar en azotea con vistas al lago Durgam Cheruvu en Madhapur, Hyderabad, construido alrededor de tres árboles Kadamba vivos y con asientos bajos integrados al estilo de un chaupal de aldea. Es conocido por una propuesta de cócteles y aperitivos que rompe moldes, a cargo del mixólogo Sujan Shetty, radicado en Goa, junto con Palash Kadam — piensa en el Aam-Chur, el Agasi Negroni y el podi edamame. Ve al atardecer, reserva con antelación ya que actualmente es una de las aperturas de las que más se habla en la ciudad, y confirma el horario antes de salir.

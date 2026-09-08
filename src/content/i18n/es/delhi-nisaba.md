@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: delhi-nisaba
-srcHash: 'cad2e2bbe293'
+srcHash: 'a653d6f4f3aa'
 title: 'NISABA: Dónde comer en Delhi'
 description: 'NISABA en Delhi, India — un lugar nuevo y de tendencia: qué es, dónde está y cómo visitarlo.'
 quickAnswer: NISABA es el primer restaurante en solitario del chef Manish Mehrotra desde que dejó Indian Accent, inaugurado el 17 de enero de 2026 dentro del complejo de Sunder Nursery / la Tumba de Humayun (Humayun's Tomb) en Delhi. El concepto se centra en versiones elevadas, con protagonismo de los cereales, de la comida callejera india de todos los días y de los platos de dhaba. Como es un lugar recién inaugurado y se encuentra dentro de un complejo de jardines patrimoniales, conviene reservar con antelación y confirmar el horario actual y la política de reservas antes de ir.

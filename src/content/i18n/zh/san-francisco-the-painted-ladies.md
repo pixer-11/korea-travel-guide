@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: san-francisco-the-painted-ladies
-srcHash: '25733713ce69'
+srcHash: '2da8bf2d048f'
 title: 彩绘女士（Painted Ladies）：旧金山旅行指南（4.4★）
 description: 彩绘女士是位于斯坦纳街（Steiner Street）、面朝阿拉莫广场公园（Alamo Square Park）的七栋维多利亚式住宅，因作为《欢乐满屋》（Full House）取景地和无数明信片背景而闻名。4.4★（28,008条评价）——游客怎么说、开放时间及游览贴士。
 quickAnswer: 彩绘女士是位于斯坦纳街（Steiner Street）、面朝阿拉莫广场公园（Alamo Square Park）的七栋维多利亚式住宅，因作为《欢乐满屋》（Full House）取景地和无数明信片背景而闻名。这里全天免费参观，但傍晚时分的光线最佳，工作日早晨、旅游大巴抵达之前公园也最为清静。拍照大约需要20-30分钟，如果想爬上山坡、在公园里野餐，则可以多留一些时间。

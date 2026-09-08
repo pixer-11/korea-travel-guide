@@ -54,17 +54,17 @@ draft: false
 
 Kaş doesn't announce itself. You come down a switchback road from the Antalya highway and suddenly the sea is on three sides of you, the Greek island of Meis sitting close enough to feel like part of the view rather than another country.
 
-The town center is Andifli, a tight grid of whitewashed houses and bougainvillea climbing over stone walls. There's no beach in the classic sense — swimmers here use flat limestone rocks and small platforms cut into the coastline, with the water dropping straight into deep turquoise.
+The town center is Andifli, a tight grid of whitewashed houses and bougainvillea climbing over stone walls. There's no beach in the classic sense, swimmers here use flat limestone rocks and small platforms cut into the coastline, with the water dropping straight into deep turquoise.
 
 ## Getting there
 
-Kaş sits on Atatürk Bulvarı, the road that wraps the harbor, about 1.5 hours west of Antalya by car or dolmuş minibus. There's no train and no airport in town — most visitors fly into Antalya and either rent a car or take an intercity bus (otobüs) toward Kalkan/Fethiye and get off at Kaş.
+Kaş sits on Atatürk Bulvarı, the road that wraps the harbor, about 1.5 hours west of Antalya by car or dolmuş minibus. There's no train and no airport in town, most visitors fly into Antalya and either rent a car or take an intercity bus (otobüs) toward Kalkan/Fethiye and get off at Kaş.
 
 Once you're there, the town itself is entirely walkable. Antalya's otogar runs regular coaches; ask for Kaş specifically, since some services stop at Kalkan first.
 
 ## What to see and do
 
-Above the harbor, a Lycian rock-cut tomb sits carved directly into the hillside, a short uphill walk from the center — one of the town's oldest visible landmarks and free to view from outside.
+Above the harbor, a Lycian rock-cut tomb sits carved directly into the hillside, a short uphill walk from the center, one of the town's oldest visible landmarks and free to view from outside.
 
 Beyond that, the pleasure of Kaş is mostly unstructured:
 
@@ -73,13 +73,13 @@ Beyond that, the pleasure of Kaş is mostly unstructured:
 - Take a boat trip to the sunken city ruins near Kekova, a half-day excursion sold from the harborfront
 - Browse the small Saturday market if your dates line up (check locally, as timing shifts seasonally)
 
-The harbor itself is worth an unhurried hour — fishing boats, gulets, and the low murmur of tea glasses being set down on café tables.
+The harbor itself is worth an unhurried hour, fishing boats, gulets, and the low murmur of tea glasses being set down on café tables.
 
 ## Practical details on the ground
 
 The address tied to this listing, Atatürk Blv. No:17, is a municipal/park-type office in Andifli, and its hours are worth knowing if your visit depends on it.
 
-It runs weekday mornings and afternoons — 9am to 12:30pm, then 1 to 5pm — and is closed both Saturday and Sunday. Plan any official business for a weekday, not the weekend.
+It runs weekday mornings and afternoons (9am to 12:30pm, then 1 to 5pm), and is closed both Saturday and Sunday. Plan any official business for a weekday, not the weekend.
 
 Outside of that specific stop, Kaş overall runs on relaxed Mediterranean time: shops and restaurants stay open into the evening, especially in high season.
 
@@ -87,17 +87,17 @@ Outside of that specific stop, Kaş overall runs on relaxed Mediterranean time: 
 
 Late spring (May–June) and early autumn (September) give you warm sea temperatures without the peak-August crowds and heat. July and August are busiest, with day-trippers arriving from Kalkan and larger resort towns.
 
-Because this particular site is under-the-radar rather than a major tourist draw, weekday mornings tend to be genuinely quiet — no lines, no crowd management needed, just you and the harbor light.
+Because this particular site is under-the-radar rather than a major tourist draw, weekday mornings tend to be genuinely quiet, no lines, no crowd management needed, just you and the harbor light.
 
 ## How to visit like a local
 
-Go slow — Kaş rewards wandering more than checklist-ticking. Locals tend to eat later in the evening, so an early dinner reservation isn't necessary.
+Go slow, Kaş rewards wandering more than checklist-ticking. Locals tend to eat later in the evening, so an early dinner reservation isn't necessary.
 
 Cash still helps for small harborside stalls and market vendors, though cards are widely accepted in cafés and shops. Boat trip prices are usually negotiable in the off-season, less so in July–August.
 
-- Confirm any official office hours before a special trip — this listing's site is closed weekends
+- Confirm any official office hours before a special trip, this listing's site is closed weekends
 - Say "merhaba" and a little patience goes further than rushing
 - Skip the tourist-menu restaurants directly on the main harbor row; walk two streets back for better value
 - If swimming off the rocks, water shoes make the limestone entry far more comfortable
 
-The biggest mistake visitors make is treating Kaş as a one-night stopover between Antalya and Fethiye. Give it two nights minimum — the town's rhythm only really shows itself once the day-trip buses have left.
+The biggest mistake visitors make is treating Kaş as a one-night stopover between Antalya and Fethiye. Give it two nights minimum, the town's rhythm only really shows itself once the day-trip buses have left.

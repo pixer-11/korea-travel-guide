@@ -58,7 +58,7 @@ draft: false
 
 ## Why go
 
-You smell it before you see it — damp stone, incense, thick jungle air. Then you hear the rustle overhead and realize you're already being watched.
+You smell it before you see it, damp stone, incense, thick jungle air. Then you hear the rustle overhead and realize you're already being watched.
 
 The Sacred Monkey Forest Sanctuary is a 12.5-acre pocket of rainforest wrapped around three Hindu temples dating to the 14th century. It's one of Ubud's most-visited sites, and the reason is obvious within minutes: hundreds of Balinese long-tailed macaques treat the place as their own, draping themselves over mossy statues and stone bridges like they own the deed.
 
@@ -88,7 +88,7 @@ There's no direct public bus network to speak of in Ubud, so a car, scooter, or 
 
 ## When to go
 
-The sanctuary opens at 9am and closes at 5pm every day, with last entry typically about an hour before close. Arrive at opening — the light through the canopy is softer, the air hasn't turned sticky yet, and the tour groups haven't landed.
+The sanctuary opens at 9am and closes at 5pm every day, with last entry typically about an hour before close. Arrive at opening. The light through the canopy is softer, the air hasn't turned sticky yet, and the tour groups haven't landed.
 
 Midday, especially between 11am and 2pm, is when the paths fill up and the heat peaks. If you can only come in the afternoon, aim for after 3:30pm, when the day-trip buses start clearing out and the monkeys get more active again as it cools.
 
@@ -96,14 +96,14 @@ Plan for 45 minutes if you're just walking through, or up to 90 if you want to l
 
 ## How to visit like a local
 
-Locals and longtime expats treat this less as a novelty photo-op and more as a quiet, forested cut-through near the market — so match that low-key energy rather than treating the monkeys like photo props.
+Locals and longtime expats treat this less as a novelty photo-op and more as a quiet, forested cut-through near the market, so match that low-key energy rather than treating the monkeys like photo props.
 
-- Don't carry food, gum, or anything crinkly in an open bag — macaques associate the sound with snacks and will go after it.
+- Don't carry food, gum, or anything crinkly in an open bag, macaques associate the sound with snacks and will go after it.
 - Skip sunglasses and dangling earrings, or stash them; monkeys grab shiny objects fast and won't give them back easily.
-- Never make direct prolonged eye contact with a macaque — it reads as a challenge in their social hierarchy.
+- Never make direct prolonged eye contact with a macaque, it reads as a challenge in their social hierarchy.
 - Pay the entrance fee in cash or by card at the ticket booth; prices are posted on-site and change occasionally, so confirm before you go.
 - Wear closed-toe shoes; the stone paths get slick near the river and bathing areas.
-- If a monkey climbs on you, stay still and let staff nearby assist — don't shriek or swat.
+- If a monkey climbs on you, stay still and let staff nearby assist. Don't shriek or swat.
 
 The single biggest mistake visitors make is holding a phone or camera loosely at monkey height. Grip it with both hands or keep it in a zipped pocket until you're ready to shoot.
 

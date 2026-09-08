@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siena-siena-cathedral
-srcHash: 'f233a998d9c6'
+srcHash: 'e1b3545745bf'
 title: 'Catedral de Siena: Guía de viaje'
 description: La Catedral de Siena (Duomo di Siena) es una de las grandes catedrales góticas-románicas de Italia, con su fachada e interior de mármol a rayas blancas y negras visibles desde la Piazza del Duomo, en el centro histórico.
 quickAnswer: La Catedral de Siena (Duomo di Siena) es una de las grandes catedrales góticas-románicas de Italia, con su fachada e interior de mármol a rayas blancas y negras visibles desde la Piazza del Duomo, en el centro histórico. Calcula entre 1,5 y 2 horas, llega a la hora de apertura o a última hora de la tarde para evitar los grupos de turistas, y reserva con antelación online el "Opa Si Pass" o la entrada individual, ya que es uno de los lugares más visitados de la Toscana.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-phi-phi-phi-phi-lee-island
-srcHash: '1facdff7452c'
+srcHash: 'ea2944ca9ad7'
 title: 'Isla Phi Phi Lee: guía de viaje de Koh Phi Phi'
 description: Phi Phi Lee (Ko Phi Phi Le) es la hermana pequeña y deshabitada de Koh Phi Phi Don, situada al sur, célebre por Maya Bay y por la laguna amurallada de acantilados de Pileh Bay.
 quickAnswer: 'Phi Phi Lee (Ko Phi Phi Le) es la hermana pequeña y deshabitada de Koh Phi Phi Don, situada al sur, célebre por Maya Bay y por la laguna amurallada de acantilados de Pileh Bay. Aquí no hay alojamiento: la isla se visita en una excursión de un día o en un tour vespertino en lancha rápida desde Phi Phi Don, Phuket o Krabi. Conviene reservar temprano por la mañana o en los horarios vespertinos específicos, ya que Maya Bay funciona ahora bajo un horario estricto de parque protegido.'

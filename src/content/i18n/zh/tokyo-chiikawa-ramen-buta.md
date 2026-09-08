@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-chiikawa-ramen-buta
-srcHash: '33db4af8ff4f'
+srcHash: '4ec517671546'
 title: Chiikawa拉面豚（Chiikawa Ramen Buta）东京旅行指南
 description: 东京新晋热门店Chiikawa拉面豚（Chiikawa Ramen Buta）——它是什么、位于何处，以及该如何前往。
 quickAnswer: Chiikawa拉面豚是东京一家带有卡通IP联名色彩的小型拉面店，几乎在一夜之间从话题店铺跃升为米其林星级名店。去之前要做好排队的心理准备：这里的开放式厨房节奏紧凑，菜单也很简单，只围绕一碗猪肉高汤拉面展开，做工却极为讲究。如果能预约就尽量提前订位，出发前务必确认好最新营业时间——这家店的排班和订位方式仍在随着人气变化不断调整。

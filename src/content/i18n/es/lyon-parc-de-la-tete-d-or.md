@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-parc-de-la-tete-d-or
-srcHash: 'b5eea52ba30d'
+srcHash: '7308ee53882c'
 title: 'Parc de la Tête d''Or: Guía de viaje de Lyon'
 description: El Parc de la Tête d'Or es el pulmón verde de Lyon, de 117 hectáreas, en el distrito 6 (6e arrondissement), con entrada gratuita todos los días de 6:30 a 22:30, y que cuenta con un lago, un jardín botánico, una rosaleda y un zoo gratuito.
 quickAnswer: 'El Parc de la Tête d''Or es el pulmón verde de Lyon, de 117 hectáreas, en el distrito 6 (6e arrondissement), con entrada gratuita todos los días de 6:30 a 22:30, y que cuenta con un lago, un jardín botánico, una rosaleda y un zoo gratuito. Es realmente popular, con más de 60.000 reseñas, así que lo mejor es visitarlo por la mañana: los fines de semana se mantiene tranquilo desde las 7:00, pero se llena bastante entre las 13:00 y las 20:00. Calcula entre dos y tres horas para recorrer el lago, pasear por la rosaleda y ver a los animales.'

@@ -69,7 +69,7 @@ Built in 1186 under King Jayavarman VII as a Buddhist monastery and university, 
 
 Ta Prohm sits inside the Angkor Archaeological Park, about a 20-minute tuk-tuk ride from central Siem Reap. Most visitors hire a tuk-tuk or car with driver for a half-day or full-day Angkor circuit, since Ta Prohm pairs naturally with Angkor Thom and Angkor Wat.
 
-You'll need the standard Angkor Pass (bought at the official ticket office on the road toward the temples, not at Ta Prohm itself) — a passport photo is taken on-site for the pass. Confirm current pass prices before you go, as they do change.
+You'll need the standard Angkor Pass (bought at the official ticket office on the road toward the temples, not at Ta Prohm itself). A passport photo is taken on-site for the pass. Confirm current pass prices before you go, as they do change.
 
 Ta Prohm is open daily from 7:30am to 5:30pm.
 
@@ -82,7 +82,7 @@ Inside, look for:
 - The famous root-covered doorway near the central sanctuary, the most photographed spot and the most congested
 - The Hall of Dancers, its carved apsara reliefs still visible on collapsed pillars
 - Narrow galleries where tree roots have split lintels clean in half
-- Quiet side courtyards away from the main path, where the jungle sound — cicadas, birdsong, dripping humidity — is louder than the crowd
+- Quiet side courtyards away from the main path, where the jungle sound (cicadas, birdsong, dripping humidity) is louder than the crowd
 
 Give yourself 45 to 60 minutes minimum. Photographers linger longer, especially for the soft light after sunrise.
 
@@ -97,9 +97,9 @@ Rainy season (June to October) is quieter and the moss and root systems look gre
 Ta Prohm is one of the most visited stops in the entire Angkor complex, so the crowd is the main obstacle, not the ruins.
 
 - Arrive right at 7:30am opening or after 4pm, when the tour groups have moved on to sunset spots
-- Skip the midday window entirely — it's the hottest and most congested stretch
+- Skip the midday window entirely. It's the hottest and most congested stretch
 - Pay guides and tuk-tuk drivers in US dollars or Cambodian riel cash; card machines are unreliable this far from town
-- Dress modestly — shoulders and knees covered — as this remains an active Buddhist and archaeological site
+- Dress modestly, shoulders and knees covered, as this remains an active Buddhist and archaeological site
 - Hire a licensed guide at the entrance if you want the temple's history explained rather than just photographed; agree on a price before starting
 - Wear shoes with grip. The wooden walkways and root-covered stone get slick, especially in rainy season
 

@@ -93,7 +93,7 @@ updatedDate: '2026-09-02'
 
 You come here for scale, not subtlety. A retired Sea Harrier fighter jet stands nose-up on a plinth by the entrance, and behind it a lawn is scattered with decommissioned helicopters, missiles and radar units you can walk right up to.
 
-This is the only museum in Asia dedicated purely to naval aviation, and the setting does half the work — palm trees, sea-salt air, and the runway of Dabolim airport visible not far off.
+This is the only museum in Asia dedicated purely to naval aviation, and the setting does half the work, palm trees, sea-salt air, and the runway of Dabolim airport visible not far off.
 
 ## Getting there
 
@@ -119,7 +119,7 @@ Kids tend to gravitate to the cockpits; adults linger longer at the wall of grai
 
 ## When to go
 
-The museum opens Tuesday to Sunday, 9:30am to 5:30pm, and is closed all day Monday — plan around that before you set out.
+The museum opens Tuesday to Sunday, 9:30am to 5:30pm, and is closed all day Monday. Plan around that before you set out.
 
 Weekends get busy between 11am and 5pm, especially with families and school groups, so a weekday visit is noticeably calmer. If you can only come on a weekend, arrive close to opening at 9:30am to beat the midday crowd.
 
@@ -127,16 +127,16 @@ The outdoor park has little shade, so an early slot also means cooler air and so
 
 ## How to visit like a local
 
-This is a well-visited, well-reviewed stop on the Goa circuit, not a quiet find — so timing your visit matters more than finding a secret entrance.
+This is a well-visited, well-reviewed stop on the Goa circuit, not a quiet find, so timing your visit matters more than finding a secret entrance.
 
 - **Go early on a weekday**: mornings right after 9:30am opening are your best shot at empty aircraft for photos.
 - **Avoid Saturday/Sunday 11am-5pm**: that's the measured peak window, when tour groups and families cluster.
 - **Pay at the gate**: entry fees are modest and typically paid in cash at the ticket counter; carry small notes.
 - **Wear closed shoes**: the aircraft park is outdoors on tarmac and gravel, and there's genuine walking involved between exhibits.
-- **Ask about cockpit access**: some aircraft allow you to climb in briefly — staff nearby can tell you which ones on the day.
+- **Ask about cockpit access**: some aircraft allow you to climb in briefly. Staff nearby can tell you which ones on the day.
 - **Combine it with Bogmalo Beach**: locals and repeat visitors often pair the museum with an afternoon at the beach just down the road, since the heat peaks right when the museum gets busiest.
 
-The most common tourist mistake is treating it as a quick 20-minute photo stop. Budget the full 90 minutes — the indoor gallery rewards slow reading, and rushing past it means missing most of the actual history.
+The most common tourist mistake is treating it as a quick 20-minute photo stop. Budget the full 90 minutes, the indoor gallery rewards slow reading, and rushing past it means missing most of the actual history.
 
 ## Good to know before you leave
 

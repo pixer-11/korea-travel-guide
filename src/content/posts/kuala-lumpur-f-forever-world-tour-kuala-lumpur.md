@@ -39,19 +39,19 @@ heldReason: duplicate
 
 For anyone who grew up on Meteor Garden or blasting Mayday through a pair of earbuds, F✦FOREVER is a strange, delightful collision of two eras of Mandopop and C-drama nostalgia. Jerry Yan, Van Ness Wu and Vic Chou made up three of the four members of F4, the boyband-turned-drama-cast that defined Taiwanese idol culture in the early 2000s. Ashin is the voice of Mayday, arguably the biggest rock band to come out of Taiwan in the last three decades.
 
-Putting them on one stage as a supergroup, on their first world tour together, is the kind of pairing that doesn't happen twice — and the Kuala Lumpur dates were among the tour's most talked-about stops in the region.
+Putting them on one stage as a supergroup, on their first world tour together, is the kind of pairing that doesn't happen twice, and the Kuala Lumpur dates were among the tour's most talked-about stops in the region.
 
 ## Getting to Unifi Arena
 
-The show was set for Unifi Arena in Bukit Jalil, a southern suburb of Kuala Lumpur that's basically built around sport and live entertainment — it's the same precinct as Bukit Jalil National Stadium and the Axiata Arena. The area sits on the Bukit Jalil LRT station (Kelana Jaya Line), a short walk from the arena complex, which makes it one of the easiest big venues in KL to reach without a car.
+The show was set for Unifi Arena in Bukit Jalil, a southern suburb of Kuala Lumpur that's basically built around sport and live entertainment. It's the same precinct as Bukit Jalil National Stadium and the Axiata Arena. The area sits on the Bukit Jalil LRT station (Kelana Jaya Line), a short walk from the arena complex, which makes it one of the easiest big venues in KL to reach without a car.
 
-Coming from the city centre — say KLCC or Bukit Bintang — the LRT takes around 30-40 minutes with a transfer, or a similar drive time by taxi or e-hailing outside of rush hour. Grab and taxi drop-off zones around the stadium precinct fill up fast on show nights, and drop-offs often leave a decent walk to the doors.
+Coming from the city centre, say KLCC or Bukit Bintang, the LRT takes around 30-40 minutes with a transfer, or a similar drive time by taxi or e-hailing outside of rush hour. Grab and taxi drop-off zones around the stadium precinct fill up fast on show nights, and drop-offs often leave a decent walk to the doors.
 
 ## What to expect across the two nights
 
 Two nights were announced, August 7 and 8, 2026, and the billing pointed to a full-scale arena production rather than a one-off fan meet: a proper stage set, a live band behind Ashin's vocals, and material spanning both F4-era soundtrack hits and Mayday's stadium-rock catalogue. Setlists, special guests, and whether the two nights differed in content were not part of the announcement.
 
-Mandopop arena nights in Kuala Lumpur draw a heavily Mandarin- and Taiwanese-diaspora-skewing crowd, with a sea of light sticks and fan-made banners, and the particular hush-then-roar that greets faces this familiar — in this case, after years of fans assuming a full reunion tour like this would never happen.
+Mandopop arena nights in Kuala Lumpur draw a heavily Mandarin- and Taiwanese-diaspora-skewing crowd, with a sea of light sticks and fan-made banners, and the particular hush-then-roar that greets faces this familiar, in this case, after years of fans assuming a full reunion tour like this would never happen.
 
 ## Tickets and timing
 
@@ -61,8 +61,8 @@ Unifi Arena and the tour promoter handled the Kuala Lumpur dates between them. T
 
 ## How to visit like a local
 
-Kuala Lumpur concertgoers treat Bukit Jalil arena nights as a full-evening outing, not just a show. Locals typically turn up a good hour or two before doors to eat first — the LRT station area and the nearby Bukit Jalil malls have food courts and mamak stalls that get slammed right before showtime, so a meal earlier in the evening beats queueing hungry.
+Kuala Lumpur concertgoers treat Bukit Jalil arena nights as a full-evening outing, not just a show. Locals typically turn up a good hour or two before doors to eat first, the LRT station area and the nearby Bukit Jalil malls have food courts and mamak stalls that get slammed right before showtime, so a meal earlier in the evening beats queueing hungry.
 
-Cashless payment is standard at KL arenas now — Touch 'n Go, e-wallets and cards cover food stalls, merch booths and LRT fares alike, so there's no need to hunt for ringgit in cash. Merch lines move slower than ticket lines; regulars hit the stalls right when doors open rather than after the show, when queues wrap around the concourse.
+Cashless payment is standard at KL arenas now, Touch 'n Go, e-wallets and cards cover food stalls, merch booths and LRT fares alike, so there's no need to hunt for ringgit in cash. Merch lines move slower than ticket lines; regulars hit the stalls right when doors open rather than after the show, when queues wrap around the concourse.
 
-The single biggest mistake visitors make at Malaysian arena shows is underestimating exit congestion — the LRT station empties an entire arena's worth of people in a short window, and anyone in no particular hurry finds it easier to grab a drink nearby and let the first surge clear. Seating categories matter too: Malaysian resale platforms for high-demand shows like this can carry inflated or unofficial listings, so local fans stick to the official box office and authorised partners.
+The single biggest mistake visitors make at Malaysian arena shows is underestimating exit congestion, the LRT station empties an entire arena's worth of people in a short window, and anyone in no particular hurry finds it easier to grab a drink nearby and let the first surge clear. Seating categories matter too: Malaysian resale platforms for high-demand shows like this can carry inflated or unofficial listings, so local fans stick to the official box office and authorised partners.

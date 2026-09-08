@@ -119,13 +119,13 @@ Give yourself around 60–90 minutes to do it justice without rushing.
 
 The museum sits inside Ram Niwas Garden, on the southern edge of the Pink City, an easy auto-rickshaw or cab ride from Hawa Mahal or Jaipur's main railway station. Most Jaipur city tours already stop here alongside the Pink City walls and Hawa Mahal, since it's only a few minutes away by road.
 
-If you're walking from the old city, enter through Ram Niwas Garden's main gate — the museum building is impossible to miss once you're inside, sitting at the center of the lawns and paths.
+If you're walking from the old city, enter through Ram Niwas Garden's main gate. The museum building is impossible to miss once you're inside, sitting at the center of the lawns and paths.
 
 ## When to go
 
 The museum is open every day from 9am to 8pm, with no weekly closure, so you have flexibility on timing. Late afternoon, an hour or two before closing, is a good window to catch both daylight interiors and the evening illumination without waiting around.
 
-Crowd patterns here are worth paying attention to, since this is consistently one of the most-visited attractions in Jaipur. On weekdays it's quietest between 9am and 11am. On weekends, the calm window is even tighter — just 9am to 10am — before things fill up fast.
+Crowd patterns here are worth paying attention to, since this is consistently one of the most-visited attractions in Jaipur. On weekdays it's quietest between 9am and 11am. On weekends, the calm window is even tighter, just 9am to 10am, before things fill up fast.
 
 Avoid arriving on a weekend afternoon if you can help it. From 11am straight through to closing at 8pm, weekends stay busy, and the mummy gallery in particular can back up with a slow-moving line.
 
@@ -134,10 +134,10 @@ Avoid arriving on a weekend afternoon if you can help it. From 11am straight thr
 Arrive right at 9am, especially on a weekend, and head to the Egyptian mummy gallery first before the queue forms. This is genuinely one of Jaipur's most-visited sites, so beating the crowd is the whole game here, not finding a secret entrance.
 
 - **Tickets**: buy directly at the counter on-site; card and cash are both generally accepted, but confirm current pricing there since it's periodically revised.
-- **Camera fee**: some sections charge a small extra fee for photography — ask at the ticket window.
+- **Camera fee**: some sections charge a small extra fee for photography. Ask at the ticket window.
 - **Etiquette**: keep voices low in the mummy room and don't touch display cases; guards do enforce this.
 - **Language**: the museum is signed in English and Hindi, and English-speaking guides are usually available at the entrance for hire.
-- **Common mistake**: tourists often treat this as a quick 20-minute photo stop and miss the upper-floor galleries entirely — the good textile and weapons collections are upstairs, past where most people turn back.
+- **Common mistake**: tourists often treat this as a quick 20-minute photo stop and miss the upper-floor galleries entirely. The good textile and weapons collections are upstairs, past where most people turn back.
 
 Combine your visit with a stroll through Ram Niwas Garden itself, which has a zoo and walking paths, so you can stretch the trip into a relaxed half-morning or evening outing rather than a rushed single stop.
 
@@ -145,4 +145,4 @@ Combine your visit with a stroll through Ram Niwas Garden itself, which has a zo
 
 Ram Niwas Garden connects easily to a fuller Jaipur day. Hawa Mahal and the City Palace are a short ride away, and many visitors pair a morning at Albert Hall with an afternoon in the Pink City bazaars for jewelry, textiles, and street food like pyaaz kachori.
 
-If you're short on time, prioritize Albert Hall's illuminated evening view even if you skip the interior — it's free to appreciate from the garden paths and genuinely one of Jaipur's better after-dark sights.
+If you're short on time, prioritize Albert Hall's illuminated evening view even if you skip the interior. It's free to appreciate from the garden paths and genuinely one of Jaipur's better after-dark sights.

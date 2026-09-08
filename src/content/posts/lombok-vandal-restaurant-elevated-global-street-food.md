@@ -75,7 +75,7 @@ photoless: true
 
 ## Why go
 
-Kuta Lombok's food scene is dominated by beach warungs and surf-cafe menus of smoothie bowls and nasi goreng, so a kitchen built around "elevated global street food" stands out. Vandal Restaurant takes cues from hawker stalls, night markets, and roadside grills across Asia and beyond, then plates them with a bit more polish — think dishes that riff on satay, bao, tacos, or noodle-bar classics rather than a single-cuisine menu.
+Kuta Lombok's food scene is dominated by beach warungs and surf-cafe menus of smoothie bowls and nasi goreng, so a kitchen built around "elevated global street food" stands out. Vandal Restaurant takes cues from hawker stalls, night markets, and roadside grills across Asia and beyond, then plates them with a bit more polish, think dishes that riff on satay, bao, tacos, or noodle-bar classics rather than a single-cuisine menu.
 
 With a 4.7 rating across 243 reviews, it's built a loyal following without becoming a mass-tourist stop, which keeps the room comfortable even during Lombok's busier dry-season months (roughly May to September).
 
@@ -83,23 +83,23 @@ With a 4.7 rating across 243 reviews, it's built a loyal following without becom
 
 Vandal sits directly on Jl. Raya Kuta, the main road running through Kuta village in Kabupaten Lombok Tengah (Central Lombok), on Lombok's south coast. Most travelers base themselves in Kuta itself, so the restaurant is reachable on foot from guesthouses and villas clustered near Kuta Beach and the central market area, or by a five-to-ten-minute scooter ride from properties further out toward Seger Beach or Are Guling.
 
-There's no rail or metro system on Lombok, so scooters, private drivers, or hotel shuttles are the standard way to get around — Grab and Gojek ride-hailing apps do operate in parts of Kuta, though coverage can be patchier than in Bali. If you're coming from Lombok International Airport (Praya), the drive down to Kuta is roughly 20-30 minutes by car, making Vandal an easy stop on arrival evening.
+There's no rail or metro system on Lombok, so scooters, private drivers, or hotel shuttles are the standard way to get around, Grab and Gojek ride-hailing apps do operate in parts of Kuta, though coverage can be patchier than in Bali. If you're coming from Lombok International Airport (Praya), the drive down to Kuta is roughly 20-30 minutes by car, making Vandal an easy stop on arrival evening.
 
 ## What to eat
 
-Expect a menu built around shareable, street-food-style plates rather than one large main course — the format rewards ordering two or three dishes per person and splitting them across the table. Given the "global street food" concept, look for items that reinterpret dishes like satay skewers, steamed buns, grilled skewers, or noodle and rice bowls with modern plating and sauces that lean beyond standard Indonesian flavor profiles.
+Expect a menu built around shareable, street-food-style plates rather than one large main course, the format rewards ordering two or three dishes per person and splitting them across the table. Given the "global street food" concept, look for items that reinterpret dishes like satay skewers, steamed buns, grilled skewers, or noodle and rice bowls with modern plating and sauces that lean beyond standard Indonesian flavor profiles.
 
 Portions geared for sharing mean it's a good spot for groups or couples who want variety over a single fixed plate. Because the kitchen's identity is built on cross-cultural street food rather than one region's cuisine, the menu is worth reading in full on arrival rather than assuming it's a typical Indonesian or Western restaurant.
 
 ## When to go
 
-Kuta's dry season (April through October) brings the most travelers to the south coast, and dinner service in the early evening — roughly sunset onward — tends to be the peak window as surfers and beachgoers finish their day. Lunch service is typically quieter and a good option if you want table space without a wait. Outdoor or semi-open seating is common at Kuta restaurants given the tropical climate, so an early dinner also means catching cooler evening air rather than the midday heat.
+Kuta's dry season (April through October) brings the most travelers to the south coast, and dinner service in the early evening, roughly sunset onward, tends to be the peak window as surfers and beachgoers finish their day. Lunch service is typically quieter and a good option if you want table space without a wait. Outdoor or semi-open seating is common at Kuta restaurants given the tropical climate, so an early dinner also means catching cooler evening air rather than the midday heat.
 
 ## How to visit like a local
 
-Vandal isn't yet a bus-tour stop, so the room stays manageable, but it has built a strong reputation locally in the Kuta food scene — meaning weekend and peak-season evenings can still fill up. If you want the calmest experience, aim for a weekday dinner just as service opens rather than the 7-8pm rush. Cash and card are both generally accepted at Kuta's restaurants, though carrying some rupiah cash is a safe habit anywhere in rural Lombok in case card machines are down.
+Vandal isn't yet a bus-tour stop, so the room stays manageable, but it has built a strong reputation locally in the Kuta food scene, meaning weekend and peak-season evenings can still fill up. If you want the calmest experience, aim for a weekday dinner just as service opens rather than the 7-8pm rush. Cash and card are both generally accepted at Kuta's restaurants, though carrying some rupiah cash is a safe habit anywhere in rural Lombok in case card machines are down.
 
-Tipping isn't obligatory in Indonesia, but rounding up or leaving a small amount for good service is appreciated and increasingly common at Kuta's more polished restaurants. Given the sharing-plate format, order gradually — one or two dishes to start, then more based on appetite — rather than over-ordering a full spread at once, which is the most common mistake visitors make at street-food-style menus.
+Tipping isn't obligatory in Indonesia, but rounding up or leaving a small amount for good service is appreciated and increasingly common at Kuta's more polished restaurants. Given the sharing-plate format, order gradually (one or two dishes to start, then more based on appetite) rather than over-ordering a full spread at once, which is the most common mistake visitors make at street-food-style menus.
 
 Dress is casual, as is standard across Kuta's beach-town dining scene, but bring a light layer for open-air seating after dark.
 

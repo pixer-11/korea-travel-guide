@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: baguio-bencab-museum
-srcHash: '546021c57529'
+srcHash: 'a805679ae8c3'
 title: BenCab博物馆：碧瑶（Baguio）旅行攻略（4.5★）
 description: BenCab博物馆位于本格特省图巴（Tuba, Benguet）的阿新路（Asin Road）沿线，距碧瑶市中心约15至20分钟车程，除周一闭馆外，每天上午9点至下午6点开放。4.5★（3,618条评价）——游客怎么说、开放时间与实用小贴士。
 quickAnswer: BenCab博物馆位于本格特省图巴的阿新路沿线，距碧瑶市中心约15至20分钟车程，除周一闭馆外，每天上午9点至下午6点开放。参观展厅、科迪勒拉（Cordillera）文物展区以及户外生态步道和鸭塘，建议预留1.5到2小时。如果想独享露台和步道的清静，最好选平日一早前往。

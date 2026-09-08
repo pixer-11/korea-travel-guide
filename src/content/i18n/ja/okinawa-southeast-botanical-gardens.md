@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: okinawa-southeast-botanical-gardens
-srcHash: 'a5d76fcea7f3'
+srcHash: '839b04fee918'
 title: 東南植物楽園:沖縄旅行ガイド
 description: 沖縄市にある東南植物楽園(Southeast Botanical Gardens)は、湖やラン温室、動物とのふれあいが楽しめる広大な熱帯庭園です。沿岸のバス路線から離れた内陸に位置するため、レンタカーを利用しての半日旅行がベストです。
 quickAnswer: 沖縄市にある東南植物楽園(Southeast Botanical Gardens)は、湖やラン温室、動物とのふれあいが楽しめる広大な熱帯庭園です。沿岸のバス路線から離れた内陸に位置するため、レンタカーを利用しての半日旅行がベストです。日中の暑さを避けるため午前中に訪れるのがおすすめで、もし雰囲気の異なるランタンで彩られた庭園を楽しみたいなら、夜のイルミネーションシーズンが開催中かどうかも確認しておきましょう。

@@ -90,9 +90,9 @@ updatedDate: '2026-09-07'
 
 ## Why go
 
-You step through a set of double doors and the air changes first — warm, wet, thick with the smell of wet soil and nectar. Within seconds a butterfly the size of your palm crosses your eyeline, close enough that you flinch. That's the whole appeal here: not looking at nature behind glass, but walking straight into it.
+You step through a set of double doors and the air changes first, warm, wet, thick with the smell of wet soil and nectar. Within seconds a butterfly the size of your palm crosses your eyeline, close enough that you flinch. That's the whole appeal here: not looking at nature behind glass, but walking straight into it.
 
-The garden occupies a large greenhouse dome on the İsmail Kaya Cd. stretch of Selçuklu, Konya's northern district. Inside, banana leaves, orchids and hibiscus form a dense tropical canopy completely at odds with the dry Anatolian plateau outside. Thousands of butterflies — dozens of species — move freely through the space rather than sitting pinned behind panels.
+The garden occupies a large greenhouse dome on the İsmail Kaya Cd. stretch of Selçuklu, Konya's northern district. Inside, banana leaves, orchids and hibiscus form a dense tropical canopy completely at odds with the dry Anatolian plateau outside. Thousands of butterflies, dozens of species, move freely through the space rather than sitting pinned behind panels.
 
 ## What to see and do
 
@@ -105,21 +105,21 @@ Look for these as you go:
 - An attached insect museum with mounted specimens, including large beetles and exotic species
 - A children's activity area with educational programs on metamorphosis
 
-Give yourself 90 minutes to two hours. Rushing defeats the point — the butterflies settle and reveal themselves more the longer and more quietly you stand still.
+Give yourself 90 minutes to two hours. Rushing defeats the point, the butterflies settle and reveal themselves more the longer and more quietly you stand still.
 
 ## Getting there
 
 The garden sits in Parsana, Selçuklu, on the northern side of Konya city, a taxi ride or drive of roughly 20–25 minutes from the city center and Konya's high-speed rail station. There's on-site parking if you're self-driving or arriving by taxi.
 
-Public buses run through Selçuklu from central Konya, though routes shift periodically — confirm the current line with your hotel or a taxi driver before setting off. Most visitors combine the trip with other Selçuklu-area sights rather than treating it as a standalone half-day.
+Public buses run through Selçuklu from central Konya, though routes shift periodically, confirm the current line with your hotel or a taxi driver before setting off. Most visitors combine the trip with other Selçuklu-area sights rather than treating it as a standalone half-day.
 
 ## When to go
 
 The garden is closed on Mondays, so don't build a Monday visit into your itinerary. On all other days it runs 9:30am to 5:30pm.
 
-Weekends get genuinely busy, with the heaviest crowds landing between 10am and 5pm — essentially the entire open window on a Saturday or Sunday. If your schedule allows any flexibility, a weekday visit is far more comfortable, especially right after opening.
+Weekends get genuinely busy, with the heaviest crowds landing between 10am and 5pm, essentially the entire open window on a Saturday or Sunday. If your schedule allows any flexibility, a weekday visit is far more comfortable, especially right after opening.
 
-Butterflies are most active — flying rather than resting — when the dome is warmest, typically midday. If you want both fewer people and lively butterflies, aim for a weekday around midday rather than first thing in the morning.
+Butterflies are most active, flying rather than resting, when the dome is warmest, typically midday. If you want both fewer people and lively butterflies, aim for a weekday around midday rather than first thing in the morning.
 
 ## How to visit like a local
 
@@ -127,16 +127,16 @@ This is one of Konya's most-visited family attractions, not a quiet back-lane di
 
 A few practical notes:
 
-- Arrive at opening on a weekday if you can — weekends see steady crowds all day from 10am to 5pm
+- Arrive at opening on a weekday if you can, weekends see steady crowds all day from 10am to 5pm
 - Wear breathable clothing; the dome is kept warm and humid year-round
-- Move slowly and avoid brushing against leaves — butterflies startle easily and locals visiting with kids tend to keep voices low near feeding stations
+- Move slowly and avoid brushing against leaves, butterflies startle easily and locals visiting with kids tend to keep voices low near feeding stations
 - Cameras and phones are welcome, but avoid flash photography, which agitates the insects
 - Card payment is standard at Turkish attractions like this one, though it's sensible to carry some cash as backup
 
-Tourists most often make the mistake of speed-walking the loop in fifteen minutes. The garden rewards patience — pause near flowering shrubs and feeding trays and butterflies will often land within arm's reach.
+Tourists most often make the mistake of speed-walking the loop in fifteen minutes. The garden rewards patience, pause near flowering shrubs and feeding trays and butterflies will often land within arm's reach.
 
 ## Nearby and practical tips
 
 Selçuklu is a modern, largely residential district, so there isn't a dense cluster of tourist sights immediately around the garden. Pair the visit with a broader Selçuklu outing or fold it into a day that also covers central Konya's Mevlana Museum and old town, roughly 20 minutes south by car.
 
-Bring a light jacket for the transition back outside — Konya's climate is dry and can feel sharp after the greenhouse's humidity, particularly in winter months. Check official hours before visiting, since seasonal adjustments occasionally apply around public holidays.
+Bring a light jacket for the transition back outside, Konya's climate is dry and can feel sharp after the greenhouse's humidity, particularly in winter months. Check official hours before visiting, since seasonal adjustments occasionally apply around public holidays.

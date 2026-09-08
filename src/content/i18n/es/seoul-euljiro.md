@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-euljiro
-srcHash: '3361e1fef4e9'
+srcHash: '030f250e7ad4'
 title: Euljiro en Seúl
 description: Euljiro (을지로) es el antiguo barrio de imprentas y ferreterías del centro de Seúl, ahora famoso por sus bares y cafés retro "newtro" escondidos sobre talleres metalúrgicos.
 quickAnswer: Euljiro (을지로) es el antiguo barrio de imprentas y ferreterías del centro de Seúl, ahora famoso por sus bares y cafés retro "newtro" escondidos sobre talleres metalúrgicos. Instálate cerca de la estación Euljiro 3-ga (líneas 2 y 3) o de la estación Euljiro 4-ga (líneas 2 y 5), recorre los estrechos callejones detrás de la calle principal, y ve a primera hora de la tarde-noche, cuando los talleres están cerrando y los letreros de los bares empiezan a encenderse.

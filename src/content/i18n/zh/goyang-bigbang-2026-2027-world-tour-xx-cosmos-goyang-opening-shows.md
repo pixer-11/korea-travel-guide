@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows
-srcHash: 'f233ba5c56a0'
+srcHash: '62a4b03a73b6'
 title: BIGBANG 2026—2027世界巡演“XX：COSMOS”高阳开幕场：观演须知（高阳）
 description: BIGBANG“XX：COSMOS”世界巡演原定于2026年8月21日至23日在高阳体育场连开三场。这里整理了场馆信息、交通方式以及官方公布的各项内容。
 quickAnswer: BIGBANG原定于2026年8月21日至23日在高阳体育场连开三场演唱会，作为其出道20周年“XX：COSMOS”世界巡演的一站。距场馆最近的交通站点是首尔地铁3号线的元兴站（원흥역）。

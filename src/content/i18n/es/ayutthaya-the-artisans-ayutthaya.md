@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-the-artisans-ayutthaya
-srcHash: '9717094f4593'
+srcHash: '18ef0a0912c4'
 title: 'The Artisans: Dónde comer en Ayutthaya'
 description: The Artisans Ayutthaya es un café-restaurante junto al río, en el lado de Ban Run del río Pa Sak, a un corto trayecto en songthaew o taxi desde el parque histórico de Ayutthaya, conocido por su entorno escénico, su decoración fotogénica y su menú de fusión tailandesa-occidental.
 quickAnswer: The Artisans Ayutthaya es un café-restaurante junto al río, en el lado de Ban Run del río Pa Sak, a un corto trayecto en songthaew o taxi desde el parque histórico de Ayutthaya, conocido por su entorno escénico, su decoración fotogénica y su menú de fusión tailandesa-occidental. Con una calificación de 4.9 basada en más de 2,000 reseñas, es ideal para un almuerzo tranquilo o una cena a la hora dorada tras recorrer las ruinas de los templos. Se recomienda reservar con anticipación o llegar temprano los fines de semana, ya que es muy popular tanto entre locales como entre turistas.

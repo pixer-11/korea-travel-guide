@@ -74,13 +74,13 @@ updatedDate: '2026-08-23'
 
 ## Why go
 
-Khalifa Park is Abu Dhabi's answer to a proper city park — not a patch of grass with a bench, but a genuinely designed landscape with water features, palm-lined walkways, and enough shade structures to make a midday walk bearable.
+Khalifa Park is Abu Dhabi's answer to a proper city park, not a patch of grass with a bench, but a genuinely designed landscape with water features, palm-lined walkways, and enough shade structures to make a midday walk bearable.
 
-You come here for the mix: a family with a folding table and a charcoal grill under one tree, a couple reading on a bench near the fountains, kids queuing for the little train. It's popular with residents and visitors alike, so don't expect a quiet hideaway — expect a well-used, well-loved public space.
+You come here for the mix: a family with a folding table and a charcoal grill under one tree, a couple reading on a bench near the fountains, kids queuing for the little train. It's popular with residents and visitors alike, so don't expect a quiet hideaway. Expect a well-used, well-loved public space.
 
 ## Getting there
 
-The park sits on Sheikh Zayed Bin Sultan Street in Al Muntazah, Zone 1, roughly opposite an ADIB bank branch — a handy landmark if you're telling a taxi driver where to stop. Most visitors arrive by taxi or car, since this isn't a walkable distance from central hotel districts like the Corniche.
+The park sits on Sheikh Zayed Bin Sultan Street in Al Muntazah, Zone 1, roughly opposite an ADIB bank branch, a handy landmark if you're telling a taxi driver where to stop. Most visitors arrive by taxi or car, since this isn't a walkable distance from central hotel districts like the Corniche.
 
 There's on-site parking, which fills up on weekend evenings when the park is busiest. If you're driving, arriving before sunset gives you a better shot at a close spot.
 
@@ -88,30 +88,30 @@ There's on-site parking, which fills up on weekend evenings when the park is bus
 
 The park's headline features go beyond lawns and paths.
 
-- **Khalifa Park Cultural Library** — a quiet indoor space to escape the heat, browse or read
-- **Maritime museum** — small but focused, tracing the UAE's seafaring and pearl-diving history
-- **Mini train ride** — a slow loop around the grounds, popular with young kids
-- **BBQ facilities** — dedicated grill areas, bring your own charcoal and food
-- **Fountains and water features** — the visual centerpiece near the main walkways
+- **Khalifa Park Cultural Library**, a quiet indoor space to escape the heat, browse or read
+- **Maritime museum**, small but focused, tracing the UAE's seafaring and pearl-diving history
+- **Mini train ride**, a slow loop around the grounds, popular with young kids
+- **BBQ facilities**, dedicated grill areas, bring your own charcoal and food
+- **Fountains and water features**, the visual centerpiece near the main walkways
 
-None of these will fill a whole day on their own, but together they make the park worth two to three hours rather than a quick drive-by. If you've got young children, budget extra time — the train line can mean a short wait.
+None of these will fill a whole day on their own, but together they make the park worth two to three hours rather than a quick drive-by. If you've got young children, budget extra time. The train line can mean a short wait.
 
 ## When to go
 
-The park runs 10am to 10pm Monday, Tuesday, Wednesday and Sunday, and stretches to 11pm Thursday through Saturday. Given Abu Dhabi's climate, evenings are the natural time to visit almost any time of year — the museum and library work fine at any hour they're open, but the grounds themselves are far more pleasant after the sun drops.
+The park runs 10am to 10pm Monday, Tuesday, Wednesday and Sunday, and stretches to 11pm Thursday through Saturday. Given Abu Dhabi's climate, evenings are the natural time to visit almost any time of year, the museum and library work fine at any hour they're open, but the grounds themselves are far more pleasant after the sun drops.
 
-Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window runs from 10am to 11am — early, before families arrive for evening barbecues. If you're weekend-only, that late-morning slot is your best bet for space to yourself.
+Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window runs from 10am to 11am, early, before families arrive for evening barbecues. If you're weekend-only, that late-morning slot is your best bet for space to yourself.
 
 ## How to visit like a local
 
 This is a well-visited park, not a hidden corner of the city, so plan around the crowds rather than expecting to avoid them entirely.
 
 - **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush
-- **Bring your own gear**: the BBQ areas are self-service — pack charcoal, skewers, and food, as nothing is sold on-site for grilling
+- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food, as nothing is sold on-site for grilling
 - **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card
 - **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October
 - **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights
 - **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace
 
-The most common visitor mistake is treating this as a quick 20-minute stop. The park rewards a slower visit — grab a bench near the fountains, let the kids do a train loop, and treat the museum as a bonus rather than the main event.
+The most common visitor mistake is treating this as a quick 20-minute stop. The park rewards a slower visit, grab a bench near the fountains, let the kids do a train loop, and treat the museum as a bonus rather than the main event.
 

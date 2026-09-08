@@ -118,18 +118,18 @@ updatedDate: '2026-08-29'
 
 ## Why go
 
-You spot it long before you reach it — a tapering column of honey-colored brick punching through the skyline of old Bukhara. Built in 1127, the Kalan Minaret has survived earthquakes, Genghis Khan's army (legend says he spared it, awed by its height), and nearly nine centuries of desert wind. It's the anchor of the Poi Kalan complex, and once you're standing at its base, you understand why it dominated this city's skyline for so long.
+You spot it long before you reach it, a tapering column of honey-colored brick punching through the skyline of old Bukhara. Built in 1127, the Kalan Minaret has survived earthquakes, Genghis Khan's army (legend says he spared it, awed by its height), and nearly nine centuries of desert wind. It's the anchor of the Poi Kalan complex, and once you're standing at its base, you understand why it dominated this city's skyline for so long.
 
 ## What you actually see
 
-Up close, the brickwork is the story. Fourteen decorative bands wrap the shaft, each with a different geometric pattern — turquoise tilework threaded through terracotta, no two rows quite alike.
+Up close, the brickwork is the story. Fourteen decorative bands wrap the shaft, each with a different geometric pattern, turquoise tilework threaded through terracotta, no two rows quite alike.
 
-At the top sits a gallery of sixteen arched windows, once used to spot approaching caravans and, for a grim stretch of history, as a site for public executions — locals nicknamed it the "Tower of Death." Today it's simply the most photographed silhouette in the city, especially at dusk when floodlights turn the brick amber.
+At the top sits a gallery of sixteen arched windows, once used to spot approaching caravans and, for a grim stretch of history, as a site for public executions, locals nicknamed it the "Tower of Death." Today it's simply the most photographed silhouette in the city, especially at dusk when floodlights turn the brick amber.
 
 The minaret is flanked by two buildings that make the visit feel complete:
 
-- **Kalan Mosque** — a vast 15th-century courtyard mosque, one of the largest in Central Asia
-- **Mir-i-Arab Madrasa** — a working Islamic school with turquoise domes, still active today
+- **Kalan Mosque**, a vast 15th-century courtyard mosque, one of the largest in Central Asia
+- **Mir-i-Arab Madrasa**, a working Islamic school with turquoise domes, still active today
 
 You can't climb the minaret itself; it's viewed from the plaza, not entered. Give the whole square 45 minutes to an hour if you're also stepping into the mosque courtyard.
 
@@ -137,11 +137,11 @@ You can't climb the minaret itself; it's viewed from the plaza, not entered. Giv
 
 Bukhara's old city is compact and walkable, and the Poi Kalan complex sits right in the heart of it. Most travelers stay within a 15-20 minute walk of the Lyabi-Hauz plaza, and from there it's a straightforward stroll past the Ark Fortress and Bolo Hauz Mosque.
 
-Taxis and ride-hailing apps operate cheaply throughout the city if you're coming from the train station or an outlying hotel. There's no metro system in Bukhara — everything here runs on foot, bicycle, or short taxi hops.
+Taxis and ride-hailing apps operate cheaply throughout the city if you're coming from the train station or an outlying hotel. There's no metro system in Bukhara, everything here runs on foot, bicycle, or short taxi hops.
 
 ## When to go
 
-The plaza is open-air and accessible 24 hours, which means you can time your visit around the light rather than a ticket window. Early morning, between 7am and 10am, is genuinely the quietest stretch — that holds true on both weekdays and weekends.
+The plaza is open-air and accessible 24 hours, which means you can time your visit around the light rather than a ticket window. Early morning, between 7am and 10am, is genuinely the quietest stretch, that holds true on both weekdays and weekends.
 
 By 1pm on weekends, tour groups and day-trippers flood the square and it stays busy well into the evening. If you want the courtyard largely to yourself, or a clean shot of the minaret without a dozen strangers in frame, sunrise is your window.
 
@@ -151,10 +151,10 @@ Evening has its own reward: the minaret is lit after dark, and the warm glow aga
 
 This is a well-known landmark, not a hidden corner of the city, so plan around the crowds rather than expecting to dodge them entirely.
 
-- **Go early.** 7am–10am is the calmest window any day of the week — locals doing their own errands past the square, not tour buses.
+- **Go early.** 7am–10am is the calmest window any day of the week, locals doing their own errands past the square, not tour buses.
 - **Avoid 1pm onward on weekends**, when the plaza is at its busiest and photos get crowded.
-- **Dress modestly** if you plan to enter the mosque or madrasa courtyards — shoulders and knees covered, especially for women.
-- **Payment is informal here** — the minaret itself has no entry fee since you view it from the public square, though the mosque or madrasa interiors may ask a small entrance fee in cash (Uzbek som).
+- **Dress modestly** if you plan to enter the mosque or madrasa courtyards, shoulders and knees covered, especially for women.
+- **Payment is informal here**. The minaret itself has no entry fee since you view it from the public square, though the mosque or madrasa interiors may ask a small entrance fee in cash (Uzbek som).
 - **Skip the guided-group scrum** and instead walk the perimeter slowly; the tilework changes character depending on which side catches the light.
 - The common tourist mistake is treating this as a five-minute photo stop. Sit at one of the teahouses ringing the square, order green tea, and let the call to prayer or the shifting afternoon light give the place its real atmosphere.
 

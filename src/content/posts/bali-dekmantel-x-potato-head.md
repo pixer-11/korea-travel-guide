@@ -73,7 +73,7 @@ Bali's electronic music crowd treats these events as much as a social gathering 
 - **Pay by card or e-wallet.** Desa Potato Head's bars and entry points are set up for cashless payment, though carrying small rupiah notes helps for street food or scooter parking outside.
 - **Dress for sand, not a club.** Barefoot or sandals is standard; leave the heels and hard-soled shoes behind.
 - **Tipping** isn't obligatory but rounding up at bars is appreciated by staff.
-- **The rookie mistake** is treating it like a late-city club night and arriving after midnight — by then the venue's capacity and vibe have already peaked, and the beachfront energy of the early hours is gone.
+- **The rookie mistake** is treating it like a late-city club night and arriving after midnight, by then the venue's capacity and vibe have already peaked, and the beachfront energy of the early hours is gone.
 
 Book driver transport back to your hotel in advance if you're staying outside Seminyak; post-event ride-hailing demand spikes hard right as the music ends.
 

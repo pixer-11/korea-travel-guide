@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: zhangjiajie-zhangjiajie-glass-bridge
-srcHash: '6ac2580fa84d'
+srcHash: '412bda8279ea'
 title: 張家界ガラス橋 旅行ガイド(4.6★)
 description: 張家界ガラス橋(Zhangjiajie Glass Bridge)は武陵源区(Wulingyuan District)の張家界大峡谷(Zhangjiajie Grand Canyon)にかかる橋で、谷底からおよそ300メートルの高さに透明なガラスの歩道が架かっています。4.6★(2,965件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: 張家界ガラス橋(Zhangjiajie Glass Bridge)は武陵源区(Wulingyuan District)の張家界大峡谷(Zhangjiajie Grand Canyon)にかかる橋で、谷底からおよそ300メートルの高さに透明なガラスの歩道が架かっています。橋と、その下に広がる渓谷のトレイルを合わせて半日ほどかけて訪れるのがおすすめです。1日の入場者数に上限があるため、事前にオンラインで時間指定のチケットを予約しておきましょう。この有名な観光地は混雑しやすいので、平日の午前中に訪れるのが賢明です。

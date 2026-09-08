@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: austin-formula-1-united-states-grand-prix
-srcHash: '5afcfb11fe98'
+srcHash: 'be94e58a7c7b'
 title: F1美国大奖赛（奥斯汀站）：赛事日期、门票与场馆全攻略
 description: 2026年10月23日至25日，F1美国大奖赛将在美国奥斯汀举行。这里介绍赛事概况、举办时间地点，以及如何安排行程。
 quickAnswer: F1美国大奖赛将于2026年10月23日至25日在得克萨斯州奥斯汀东南部的美洲赛道（Circuit of the Americas，简称COTA）举行，除了赛道上的角逐，魔力红乐队（Maroon 5）和后马龙（Post Malone）还将带来重磅演唱会。奥斯汀这个周末的酒店房源向来抢手，建议尽早订好门票和行程；出发前，务必到F1和COTA官网确认具体赛程、入场时间和票价。

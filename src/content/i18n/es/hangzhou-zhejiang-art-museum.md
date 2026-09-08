@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hangzhou-zhejiang-art-museum
-srcHash: '2957a8995bbb'
+srcHash: '762c781bd243'
 title: 'Museo de Arte de Zhejiang: Guía de viaje de Hangzhou'
 description: El Museo de Arte de Zhejiang (Zhejiang Art Museum) se encuentra en Nanshan Road, en la orilla sur del Lago del Oeste (West Lake), a poca distancia a pie de la zona del Parque Zhongshan y la Pagoda Leifeng — la entrada es gratuita o de bajo costo (lleva tu identificación), y lo mejor es visitarlo un día laborable por la mañana, cuando las salas están casi vacías y el paseo junto al lago todavía está fresco y con sombra.
 quickAnswer: El Museo de Arte de Zhejiang se encuentra en Nanshan Road, en la orilla sur del Lago del Oeste, a poca distancia a pie de la zona del Parque Zhongshan y la Pagoda Leifeng — la entrada es gratuita o de bajo costo (lleva tu identificación), y lo mejor es visitarlo un día laborable por la mañana, cuando las salas están casi vacías y el paseo junto al lago todavía está fresco y con sombra. Calcula entre 45 y 90 minutos según la exposición del momento, e inclúyelo dentro de un paseo más amplio alrededor del lago.

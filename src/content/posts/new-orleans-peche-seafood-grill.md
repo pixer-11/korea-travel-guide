@@ -67,13 +67,13 @@ draft: false
 ---
 ## Why Pêche is worth the wait
 
-You smell it before you see the menu. The whole room runs on smoke from a coal-fired grill set behind the bar, and that char follows every plate that comes out of the kitchen. Pêche isn't subtle — it's loud, packed, and built around fire and fish.
+You smell it before you see the menu. The whole room runs on smoke from a coal-fired grill set behind the bar, and that char follows every plate that comes out of the kitchen. Pêche isn't subtle. It's loud, packed, and built around fire and fish.
 
 ## What the room feels like
 
 Weathered wood covers the walls and ceiling, the kind that looks reclaimed from a dock or a barn. Communal-style tables run close together, and an open kitchen lets you watch cooks turn whole fish on the grates. It reads rustic on purpose, not polished.
 
-By early evening the noise climbs — clattering plates, bar chatter, the hiss of the grill — and it stays that way until closing.
+By early evening the noise climbs (clattering plates, bar chatter, the hiss of the grill), and it stays that way until closing.
 
 ## What to order
 
@@ -81,7 +81,7 @@ The whole grilled fish is the reason people come, usually a Gulf catch scaled an
 
 - Whole coal-grilled fish (ask what's fresh that day)
 - Chargrilled oysters, blistered and buttery
-- Raw bar selections — oysters on the half shell, seasonal
+- Raw bar selections, oysters on the half shell, seasonal
 - Beer-boiled peel-and-eat shrimp
 - Smoked fish dip with crackers
 
@@ -93,9 +93,9 @@ Pêche sits at 800 Magazine St, right at the edge of the Warehouse District, an 
 
 ## When to go
 
-Pêche stays open through the afternoon, with no breaks between lunch and dinner service. That matters here — you can walk in mid-afternoon and still get a full menu.
+Pêche stays open through the afternoon, with no breaks between lunch and dinner service. That matters here. You can walk in mid-afternoon and still get a full menu.
 
-Weekday mornings into early afternoon, from 11am to noon, run quietest. On weekends, the calm window stretches from 11am to 1pm. The room fills fast after that, and Friday and Saturday from 5pm to 9pm is when it's busiest — tables turn slowly and the bar backs up.
+Weekday mornings into early afternoon, from 11am to noon, run quietest. On weekends, the calm window stretches from 11am to 1pm. The room fills fast after that, and Friday and Saturday from 5pm to 9pm is when it's busiest, tables turn slowly and the bar backs up.
 
 If you want the grilled fish without a long wait, an early lunch is your best shot.
 
@@ -105,9 +105,9 @@ Pêche is a well-known name on the New Orleans food scene now, not a hidden find
 
 - **Skip the reservation gamble on weekend nights.** Pêche takes reservations, but walk-ins are common; if you're set on Friday or Saturday dinner, book ahead or arrive right at 5pm before the rush.
 - **Go for the quiet window.** Weekday late morning (11am–noon) or weekend late morning (11am–1pm) gets you the same food with room to breathe.
-- **Order to share.** The menu is built for a table splitting several plates rather than one entrée each — that's how the raw bar and grilled fish are meant to be eaten.
+- **Order to share.** The menu is built for a table splitting several plates rather than one entrée each. That's how the raw bar and grilled fish are meant to be eaten.
 - **Ask what's whole-grilled that day.** The fish selection shifts with what's fresh off the boat, and the server will tell you the day's options rather than it being fixed on the printed menu.
 - **Expect a bill on the pricier side.** Whole fish and raw bar by the piece add up quickly; it's a solid mid-to-upper-range meal, not a cheap lunch.
 - **Payment is standard card or cash, tipping the usual 18–20%** as at most full-service New Orleans restaurants.
 
-Plan for 75–90 minutes at the table if you're doing a full spread — this isn't a rushed lunch counter, even at midday.
+Plan for 75–90 minutes at the table if you're doing a full spread. This isn't a rushed lunch counter, even at midday.

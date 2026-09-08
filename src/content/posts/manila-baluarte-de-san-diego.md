@@ -76,7 +76,7 @@ That quiet is the point. You descend stone ramps into a grassy amphitheater ring
 
 ## What you're actually looking at
 
-The fort began in 1586 as a wooden watchtower, rebuilt in stone after fires and sieges, and its floor plan is famously shaped like an ace of spades — you can trace the point of it from the upper walkway. Spanish engineers used it to guard the Pasig River approach into the walled city.
+The fort began in 1586 as a wooden watchtower, rebuilt in stone after fires and sieges, and its floor plan is famously shaped like an ace of spades. You can trace the point of it from the upper walkway. Spanish engineers used it to guard the Pasig River approach into the walled city.
 
 Centuries of earthquakes and WWII bombing left it a ruin rather than a restoration. That's what makes it interesting: exposed brick cores, crumbled staircases, moss creeping into mortar joints. A small bonsai garden now occupies part of the old grounds, dozens of dwarfed trees trained into gnarled shapes, sitting incongruously among cannon emplacements.
 
@@ -87,7 +87,7 @@ Climb to the top tier and you get a clean sightline over the Intramuros walls to
 Baluarte de San Diego sits on Sta. Lucia St., inside the walled city of Intramuros, Manila.
 
 - Nearest reference point: it's a short walk south of Fort Santiago's main gate, on the same western edge of Intramuros
-- From outside the walls, enter through the Sta. Lucia or Victoria gates and follow signs toward Fort Santiago — the bastion is on the approach
+- From outside the walls, enter through the Sta. Lucia or Victoria gates and follow signs toward Fort Santiago. The bastion is on the approach
 - Taxis and ride-hailing apps can drop you at the Sta. Lucia St. entrance directly
 - Calesa (horse-drawn carriage) tours around Intramuros typically pass right by it
 
@@ -95,7 +95,7 @@ Baluarte de San Diego sits on Sta. Lucia St., inside the walled city of Intramur
 
 It's open daily, 8am to 5pm, no exceptions across the week.
 
-Go right at opening. The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends — low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.
+Go right at opening. The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends, low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.
 
 Weekend afternoons are the opposite experience. Between 1pm and 5pm on Saturdays and Sundays, tour groups and families fill the walkways, so if you're set on unhurried photos, avoid that window.
 
@@ -105,16 +105,16 @@ Manila's dry season, roughly November through April, is more comfortable for the
 
 Because it's still under-the-radar relative to Fort Santiago next door, you can treat it as a genuine breather rather than a checklist stop.
 
-- Arrive at opening on a weekday if you can — 8–9am is the calmest window measured here, and the light is best for photos
+- Arrive at opening on a weekday if you can, 8–9am is the calmest window measured here, and the light is best for photos
 - Wear shoes with grip; the stone ramps and stairs are worn smooth and get slick after rain
 - Bring small bills for the entrance fee, as ticket booths at Intramuros sites are typically cash-based
-- Skip the elevator-less upper tiers if you have mobility concerns — the descent into the fort floor and climb back up involve uneven steps
-- Combine it with a walk along the connecting wall segment toward Fort Santiago rather than backtracking through the gate — it's a more scenic route and free
+- Skip the elevator-less upper tiers if you have mobility concerns, the descent into the fort floor and climb back up involve uneven steps
+- Combine it with a walk along the connecting wall segment toward Fort Santiago rather than backtracking through the gate. It's a more scenic route and free
 
-Locals treat this less as a bucket-list photo op and more as a shortcut through history on the way to lunch in nearby Intramuros cafés — no crowds to fight, no lines to wait in.
+Locals treat this less as a bucket-list photo op and more as a shortcut through history on the way to lunch in nearby Intramuros cafés, no crowds to fight, no lines to wait in.
 
 ## Nearby to pair it with
 
 Fort Santiago is a five-minute walk and the natural next stop, along with the Manila Cathedral and San Agustin Church a bit further into the walled city. Casa Manila, a restored Spanish-colonial house museum, sits near San Agustin if you want interior architecture to balance the ruin's exposed stonework.
 
-Give the bastion itself 45 minutes to an hour — long enough to walk the full ring, see the bonsai plots, and climb to the bay-facing viewpoint without rushing.
+Give the bastion itself 45 minutes to an hour, long enough to walk the full ring, see the bonsai plots, and climb to the bay-facing viewpoint without rushing.

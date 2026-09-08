@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jakarta-skye-bar-restaurant
-srcHash: '9be95dcaf04b'
+srcHash: 'bc2a1c29c0db'
 title: 'SKYE 바 & 레스토랑: 자카르타 여행 가이드'
 description: 인도네시아 자카르타에서 요즘 뜨고 있는 명소, SKYE 바 & 레스토랑. 어떤 곳인지, 어디에 있는지, 어떻게 가면 되는지 알려드립니다.
 quickAnswer: SKYE 바 & 레스토랑은 자카르타의 골든 트라이앵글 비즈니스 지구(수디르만/타므린 인근)에 자리한 루프탑 바 겸 레스토랑으로, SNS에서 화제가 된 일몰과 야경 스카이라인 뷰로 특히 유명합니다. 분다란 HI(Bundaran HI)나 두쿠 아타스(Dukuh Atas) MRT역에서 조금만 이동하면 되고, 주말 저녁에는 예약을 강력히 권장합니다. 가장 좋은 빛과 난간 앞 인파를 피하려면 일몰 30~45분 전에 도착하는 것이 좋습니다.

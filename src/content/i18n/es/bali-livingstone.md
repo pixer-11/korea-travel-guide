@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-livingstone
-srcHash: 'd41b4bd6637c'
+srcHash: 'e0a8f54c075b'
 title: 'Livingstone: guía de viaje de Bali'
 description: Livingstone es un amplio café-restaurante lleno de plantas en Jl. Petitenget, en Kerobokan, uno de los locales del corredor Seminyak-Canggu que se llena a diario sin falta (4,8 estrellas, más de 14.000 reseñas).
 quickAnswer: Livingstone es un amplio café-restaurante lleno de plantas en Jl. Petitenget, en Kerobokan, uno de los locales del corredor Seminyak-Canggu que se llena a diario sin falta (4,8 estrellas, más de 14.000 reseñas). Para conseguir mesa sin esperar, lo mejor es ir en la mañana de un día entre semana. Los precios son de rango medio (entre 100.000 y 180.000 IDR por los platos principales, y algo más por los cócteles), y conviene reservar con antelación para cenas o fines de semana.

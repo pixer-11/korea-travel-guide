@@ -98,13 +98,13 @@ updatedDate: '2026-09-03'
 
 You pass through the Great Portico first, its curved tile roof and stone dragons framing the noise of Quốc Tử Giám street behind you. Inside, the traffic drops away almost instantly. Five walled courtyards unfold one after another, each gate a little more hushed than the last.
 
-This is Văn Miếu — the Temple of Literature — founded in 1070 and dedicated to Confucius, scholars, and sages. In 1076 it became Vietnam's first national university, training the mandarins who ran the imperial court for the next seven centuries.
+This is Văn Miếu, the Temple of Literature, founded in 1070 and dedicated to Confucius, scholars, and sages. In 1076 it became Vietnam's first national university, training the mandarins who ran the imperial court for the next seven centuries.
 
 ## Why it's worth your time
 
-The centerpiece is the Garden of Stelae: 82 stone tortoises, each carrying a slab engraved with the names of doctoral graduates from exams held between 1442 and 1779. The tortoise carvings are worn smooth in places from decades of visitors touching them for luck — a practice now discouraged by low fences, so admire rather than rub.
+The centerpiece is the Garden of Stelae: 82 stone tortoises, each carrying a slab engraved with the names of doctoral graduates from exams held between 1442 and 1779. The tortoise carvings are worn smooth in places from decades of visitors touching them for luck, a practice now discouraged by low fences, so admire rather than rub.
 
-Beyond, the Đại Thành Sanctuary holds altars to Confucius and his four closest disciples, with red-and-gold lacquered pillars and incense smoke drifting through shafts of light from the courtyard doors. Look for the drum and bell towers flanking the fifth courtyard, and the Khue Van Cac pavilion — its image appears on Hanoi's municipal seal and on the 100,000-dong note.
+Beyond, the Đại Thành Sanctuary holds altars to Confucius and his four closest disciples, with red-and-gold lacquered pillars and incense smoke drifting through shafts of light from the courtyard doors. Look for the drum and bell towers flanking the fifth courtyard, and the Khue Van Cac pavilion, its image appears on Hanoi's municipal seal and on the 100,000-dong note.
 
 ## Getting there
 
@@ -116,7 +116,7 @@ Public buses stop nearby along Nguyen Thai Hoc and Ton Duc Thang streets. If you
 
 Opening hours run 8am to 5pm every day of the week, with last entry typically before closing. Given how popular this site is, timing your visit matters more than the day of the week.
 
-Weekends get crowded fast — foot traffic climbs steadily and stays heavy from 10am to 4pm. The one calm weekend window is right at opening, 8am to 9am, before tour groups arrive.
+Weekends get crowded fast, foot traffic climbs steadily and stays heavy from 10am to 4pm. The one calm weekend window is right at opening, 8am to 9am, before tour groups arrive.
 
 Weekdays are consistently easier, with steadier, lighter crowds across the whole 8am–5pm stretch. If your schedule allows a Tuesday or Wednesday morning, take it.
 
@@ -126,9 +126,9 @@ Plan on 60 to 90 minutes to walk all five courtyards without rushing. A slower, 
 
 Highlights to prioritize:
 
-- The Garden of Stelae (Courtyard 3) — the 82 tortoise-stone doctors
-- Khue Van Cac pavilion — the iconic gate between courtyards two and three
-- Đại Thành Sanctuary — the main Confucian altar hall
+- The Garden of Stelae (Courtyard 3), the 82 tortoise-stone doctors
+- Khue Van Cac pavilion, the iconic gate between courtyards two and three
+- Đại Thành Sanctuary, the main Confucian altar hall
 - The drum and bell towers in the final courtyard
 - The peaceful pond and garden areas near the entrance, good for a break from the sun
 
@@ -136,8 +136,8 @@ Highlights to prioritize:
 
 Since this is one of Hanoi's most-visited landmarks, the smartest move is beating the crowds rather than hoping to have it to yourself. Arrive right at 8am, especially on a weekend, and you'll get the stelae courtyard with far fewer people around it.
 
-Dress modestly — shoulders and knees covered — as this remains an active site of worship, not just a museum. Many Vietnamese visitors still come to pray for academic success ahead of exams, particularly students and parents, so keep voices low near the altars.
+Dress modestly, shoulders and knees covered, as this remains an active site of worship, not just a museum. Many Vietnamese visitors still come to pray for academic success ahead of exams, particularly students and parents, so keep voices low near the altars.
 
-Tickets are bought at a counter just inside the entrance; card and cash are both generally accepted, though having small dong notes on hand speeds things up. There's rarely a need to book ahead — queues move quickly outside peak weekend hours.
+Tickets are bought at a counter just inside the entrance; card and cash are both generally accepted, though having small dong notes on hand speeds things up. There's rarely a need to book ahead, queues move quickly outside peak weekend hours.
 
 A common tourist mistake is treating this as a quick photo stop at the front gate and skipping the rear courtyards, where the sanctuary and stelae actually sit. Walk the full length back to the fifth courtyard; that's where the temple's real weight is felt, in the quiet behind the crowds near the entrance.

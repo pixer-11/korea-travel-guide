@@ -42,7 +42,7 @@ eventFactsAsked: true
 ---
 ## Why this Games matters
 
-Nagoya is about to become the sporting center of Asia. From September 19 to October 4, 2026, the 20th Asian Games brings together athletes from across the continent — the largest multi-sport event in the region, bigger even than most people's mental image of the Olympics in scale of nations involved.
+Nagoya is about to become the sporting center of Asia. From September 19 to October 4, 2026, the 20th Asian Games brings together athletes from across the continent, the largest multi-sport event in the region, bigger even than most people's mental image of the Olympics in scale of nations involved.
 
 You'll feel it before you see a single event: banners on light poles along Otsu-dori, volunteers in matching windbreakers at Nagoya Station, countdown clocks in shopping arcades. Aichi Prefecture has been building toward this for years, and by the time the flame arrives, the whole region leans into it.
 
@@ -58,9 +58,9 @@ Once you're in the city, the subway network (Higashiyama and Sakura-dori lines a
 
 ## What to expect at the venues
 
-Details on exactly which arenas host which sports are still being finalized, so treat any specific venue list you see online as provisional until the organizing committee confirms it. What's certain is that Nagoya's existing sports infrastructure — built up over decades of hosting national tournaments — forms the backbone, supplemented by newer or renovated facilities across Aichi.
+Details on exactly which arenas host which sports are still being finalized, so treat any specific venue list you see online as provisional until the organizing committee confirms it. What's certain is that Nagoya's existing sports infrastructure, built up over decades of hosting national tournaments, forms the backbone, supplemented by newer or renovated facilities across Aichi.
 
-Expect the familiar Asian Games program: athletics, swimming, martial arts, team sports, and a wide slate of events that don't always make the Olympic cut, from kabaddi to sepaktakraw. That breadth is part of the appeal — you can watch a sport you've never seen before, then walk out and get ramen.
+Expect the familiar Asian Games program: athletics, swimming, martial arts, team sports, and a wide slate of events that don't always make the Olympic cut, from kabaddi to sepaktakraw. That breadth is part of the appeal. You can watch a sport you've never seen before, then walk out and get ramen.
 
 ## Tickets and planning
 
@@ -74,10 +74,10 @@ Before you book flights or hotels, confirm dates, venues, and ticket details dir
 
 ## How to visit like a local
 
-Nagoya locals treat big events with practical calm rather than frenzy — expect efficient queuing, not chaotic crowds. IC transit cards (Manaca, or nationally compatible Suica/Pasmo) work across subway, bus, and most convenience stores, so get one on arrival rather than fumbling with cash tickets.
+Nagoya locals treat big events with practical calm rather than frenzy. Expect efficient queuing, not chaotic crowds. IC transit cards (Manaca, or nationally compatible Suica/Pasmo) work across subway, bus, and most convenience stores, so get one on arrival rather than fumbling with cash tickets.
 
-Meals near venues will likely mean long lines at peak session breaks — locals sidestep this by eating slightly off the main strip, a five-minute walk from the stadium gates, where prices stay normal and seats are open. Local Nagoya specialties are what's worth seeking out here, not generic stadium concessions.
+Meals near venues will likely mean long lines at peak session breaks, locals sidestep this by eating slightly off the main strip, a five-minute walk from the stadium gates, where prices stay normal and seats are open. Local Nagoya specialties are what's worth seeking out here, not generic stadium concessions.
 
-Avoid arriving at a venue right at the scheduled session start if you can help it. Locals build in a buffer, since security screening lines lengthen fast in the final 30 minutes before big sessions. Trains run precisely on schedule, but that also means missing one costs you real time — check the last return train if you're heading out to a satellite-city venue for an evening event.
+Avoid arriving at a venue right at the scheduled session start if you can help it. Locals build in a buffer, since security screening lines lengthen fast in the final 30 minutes before big sessions. Trains run precisely on schedule, but that also means missing one costs you real time. Check the last return train if you're heading out to a satellite-city venue for an evening event.
 
-The most common visitor mistake will likely be assuming all venues sit inside central Nagoya. Many don't — factor in an extra hour of travel for events in outer Aichi cities.
+The most common visitor mistake will likely be assuming all venues sit inside central Nagoya. Many don't, factor in an extra hour of travel for events in outer Aichi cities.

@@ -87,7 +87,7 @@ Tucked along Trần Phú Street, Quan Cong Temple is easy to walk past without n
 
 While tour groups cluster at the Japanese Covered Bridge a few blocks away, this 17th-century pagoda sits quiet, its red lacquered doors barely disturbed by foot traffic. Inside, the air is thick with the sweet, woody smell of incense smoke curling up from coiled bundles hanging from the ceiling.
 
-The temple honors Quan Cong, a general from China's Three Kingdoms period who became a folk symbol of loyalty and integrity. Merchants once prayed here for honest dealings — a fitting origin for a temple in a town built on centuries of trade.
+The temple honors Quan Cong, a general from China's Three Kingdoms period who became a folk symbol of loyalty and integrity. Merchants once prayed here for honest dealings, a fitting origin for a temple in a town built on centuries of trade.
 
 ## What you'll see inside
 
@@ -101,30 +101,30 @@ A small courtyard just past the entrance lets light spill onto the stone floor, 
 
 The temple sits at 24 Trần Phú, in the heart of Hoi An's pedestrian Old Town, an easy 5-minute walk from the Japanese Covered Bridge.
 
-If you're staying outside the Old Town, cycling or walking in is simplest — most of this area is closed to cars and heavy traffic during the day. There's no separate entrance fee for the temple itself, though it sits within the Old Town's protected heritage zone, where a general admission ticket sometimes covers a handful of sites. Rules shift from year to year, so confirm current ticketing at one of the tourist information booths near the Old Town entrances before you go.
+If you're staying outside the Old Town, cycling or walking in is simplest. Most of this area is closed to cars and heavy traffic during the day. There's no separate entrance fee for the temple itself, though it sits within the Old Town's protected heritage zone, where a general admission ticket sometimes covers a handful of sites. Rules shift from year to year, so confirm current ticketing at one of the tourist information booths near the Old Town entrances before you go.
 
 ## When to go
 
 Hours run 7:30am to 3:30pm most days, with Thursdays stretching to 5:30pm.
 
-Morning is your best window — the light through the courtyard is softer, and the temple is nearly empty. Because it's overlooked next to Hoi An's bigger draws, you won't fight crowds here even at midday, but arriving before 10am still gets you the most peaceful visit and the best photos of the altar without other visitors in frame.
+Morning is your best window. The light through the courtyard is softer, and the temple is nearly empty. Because it's overlooked next to Hoi An's bigger draws, you won't fight crowds here even at midday, but arriving before 10am still gets you the most peaceful visit and the best photos of the altar without other visitors in frame.
 
 ## How to visit like a local
 
-Dress modestly — shoulders and knees covered, as this is an active place of worship, not a museum piece.
+Dress modestly, shoulders and knees covered, as this is an active place of worship, not a museum piece.
 
-Remove your hat before entering and keep your voice low; locals still come here to burn incense and leave offerings. If you want to light incense yourself, small bundles are usually available near the entrance for a modest donation — follow the lead of whoever's ahead of you if you're unsure of the process.
+Remove your hat before entering and keep your voice low; locals still come here to burn incense and leave offerings. If you want to light incense yourself, small bundles are usually available near the entrance for a modest donation, follow the lead of whoever's ahead of you if you're unsure of the process.
 
 Photography is generally fine but skip flash near the altar. There's no ticket booth to navigate and no queue to plan around, so the main "trick" locals use is simply timing: come in the quiet morning hours rather than squeezing it into a rushed afternoon between other sights.
 
-Pair the visit with a slow wander down Trần Phú itself — the temple works best as a five-minute stop woven into a longer walk past the merchant houses and shopfronts nearby, rather than a single destination trip.
+Pair the visit with a slow wander down Trần Phú itself, the temple works best as a five-minute stop woven into a longer walk past the merchant houses and shopfronts nearby, rather than a single destination trip.
 
 ## Nearby to combine with your visit
 
 Since it's so close to Hoi An's most photographed landmark, build your visit around a short loop:
 
-- Japanese Covered Bridge — 5 minutes on foot
-- Hoi An Old Town's riverside walkway — for lantern-lit evenings, though the temple itself closes by mid-afternoon
-- Central Market — a few minutes further along Trần Phú, for a livelier contrast after the temple's hush
+- Japanese Covered Bridge, 5 minutes on foot
+- Hoi An Old Town's riverside walkway, for lantern-lit evenings, though the temple itself closes by mid-afternoon
+- Central Market, a few minutes further along Trần Phú, for a livelier contrast after the temple's hush
 
 Because Quan Cong Temple closes in the afternoon, save the lantern-lit riverside stroll for evening and slot this visit into your morning Old Town route instead.

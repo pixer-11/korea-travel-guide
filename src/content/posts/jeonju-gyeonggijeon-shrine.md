@@ -97,7 +97,7 @@ updatedDate: '2026-09-05'
 
 You step through the outer gate and the noise of the hanok village drops away. Gravel crunches underfoot instead of pavement. Pine trees, some centuries old, lean over stone paths that lead toward a compound built in 1410 to house a single object: a portrait of King Taejo, founder of the Joseon Dynasty.
 
-This isn't a reconstructed stage set. The shrine has been rebuilt and repaired across six centuries, but its purpose never changed — a place to venerate a royal ancestor's image.
+This isn't a reconstructed stage set. The shrine has been rebuilt and repaired across six centuries, but its purpose never changed, a place to venerate a royal ancestor's image.
 
 ## What you'll actually see
 
@@ -113,13 +113,13 @@ Don't rush the grounds themselves:
 
 ## Getting there
 
-Gyeonggijeon sits at 44 Taejo-ro in Wansan-gu, right at the edge of Jeonju Hanok Village. Most visitors walk in from the village's main pedestrian streets — it's a five-minute stroll from the Jeonju Hanok Village entrance near Pungnammun Gate.
+Gyeonggijeon sits at 44 Taejo-ro in Wansan-gu, right at the edge of Jeonju Hanok Village. Most visitors walk in from the village's main pedestrian streets. It's a five-minute stroll from the Jeonju Hanok Village entrance near Pungnammun Gate.
 
 If you're coming from Jeonju Station, a taxi ride takes about 15 minutes. City buses also run toward the hanok village area, though walking from most downtown guesthouses is just as fast.
 
 ## When to go
 
-The shrine is open every day, 9am to 6pm, with no weekday variation. Foot-traffic data shows weekdays stay calm right through those hours — a rare case where there's no single bad hour to avoid.
+The shrine is open every day, 9am to 6pm, with no weekday variation. Foot-traffic data shows weekdays stay calm right through those hours, a rare case where there's no single bad hour to avoid.
 
 Weekends are different. Crowds build steadily from 11am onward and stay heavy the rest of the day. If you're visiting on a Saturday or Sunday, aim to arrive right at 9am, before the tour groups and hanbok-clad crowds arrive for photos.
 
@@ -127,15 +127,15 @@ Spring and autumn bring the best light for photos against the pine trees and til
 
 ## How to visit like a local
 
-Gyeonggijeon is well-known and draws heavy weekend traffic, so timing matters more than secrecy here. Locals and repeat visitors treat weekday mornings as the sweet spot — calm courtyards, easier photos, no waiting to get a clear shot of the main hall.
+Gyeonggijeon is well-known and draws heavy weekend traffic, so timing matters more than secrecy here. Locals and repeat visitors treat weekday mornings as the sweet spot, calm courtyards, easier photos, no waiting to get a clear shot of the main hall.
 
 - **Entry fee**: small and paid in cash or card at the gate; confirm the current amount before you go, as it can change
-- **Hanbok wearers get in free** at many similar sites in the village — check signage at the ticket booth, since rules can shift
+- **Hanbok wearers get in free** at many similar sites in the village. Check signage at the ticket booth, since rules can shift
 - **Pace yourself**: 45 minutes covers the highlights, but an hour lets you sit in the side courtyards without feeling rushed
 - **Avoid weekend afternoons**, especially after 11am, when tour groups and hanbok rental crowds peak
 - **Combine it** with nearby Jeondong Catholic Church and the Hanok Village's food streets, both a short walk away
 
-The biggest mistake visitors make is treating Gyeonggijeon as a five-minute photo stop before rushing back to the food stalls. The shrine rewards a slower pace — sit on the wooden platforms, read the exhibit placards, and notice how the roofline changes from building to building depending on its rank in the royal hierarchy.
+The biggest mistake visitors make is treating Gyeonggijeon as a five-minute photo stop before rushing back to the food stalls. The shrine rewards a slower pace, sit on the wooden platforms, read the exhibit placards, and notice how the roofline changes from building to building depending on its rank in the royal hierarchy.
 
 Bring small bills for entry, wear shoes you can slip off if any hall requires it, and check official hours before visiting since holiday schedules occasionally shift the routine.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-3fils-abu-dhabi
-srcHash: 'd54ec3d2d1bc'
+srcHash: '093cc41c9b00'
 title: 3Fils：阿布扎比旅行指南
 description: 3Fils Abu Dhabi 位于阿联酋阿布扎比，是当下正当红的新去处——本文带你了解它是什么、在哪里，以及该如何前往。
 quickAnswer: 3Fils Abu Dhabi 是迪拜那家在全球享有盛誉的 3Fils 新开的姊妹店，藏身于阿玛瑞岛（Al Maryah Island）的阿布扎比艾迪逊酒店（The Abu Dhabi Edition）内。菜单偏日式风格，鹅肝、松露之类的奢华食材点缀其间，还配有一套用心打造的鸡尾酒单，整体氛围更适合一场有格调的夜晚，而非匆匆一顿快餐。建议提前订位、穿着得体，并选择晚餐时段前往——这里本就是为夜晚而生的目的地。

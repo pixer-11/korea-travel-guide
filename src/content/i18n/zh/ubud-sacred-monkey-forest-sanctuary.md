@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ubud-sacred-monkey-forest-sanctuary
-srcHash: 'e1b2e02ac118'
+srcHash: 'f306a2abae5c'
 title: 圣猴森林保护区(Sacred Monkey Forest Sanctuary):乌布(Ubud)旅行指南(4.5★)
 description: 位于乌布(Ubud)市中心的圣猴森林保护区(Sacred Monkey Forest Sanctuary)每天9点到17点开放，苔藓覆盖的古庙和自由出没的长尾猕猴让它非常值得一游——但建议一开门就去，既能避开酷热，也能躲开旅游大巴团。4.5★（59,410条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 位于乌布(Ubud)市中心的圣猴森林保护区(Sacred Monkey Forest Sanctuary)每天9点到17点开放，苔藓覆盖的古庙和自由出没的长尾猕猴让它非常值得一游——但建议一开门就去，既能避开酷热，也能躲开旅游大巴团。建议预留45到90分钟，穿包脚的鞋子，太阳镜、零食和垂坠饰品都要收好、拉上拉链。

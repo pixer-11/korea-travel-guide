@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-riverwalk-outlets
-srcHash: 'a45a27f12c90'
+srcHash: '0778001d082b'
 title: '리버워크 아울렛: 뉴올리언스 여행 가이드 (4.4★)'
 description: 리버워크 아울렛(Riverwalk Outlets)은 미시시피강을 따라 이어지는 1마일 길이의 유리 지붕 아울렛몰로, 어니스트 N. 4.4★ (9,376개 리뷰) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 리버워크 아울렛(Riverwalk Outlets)은 미시시피강을 따라 이어지는 1마일 길이의 유리 지붕 아울렛몰로, 어니스트 N. 모리얼 컨벤션 센터(Ernest N. Morial Convention Center)에서 몇 걸음 거리에 있으며 프렌치 쿼터(French Quarter)에서도 도보나 스트리트카로 쉽게 갈 수 있습니다. 매일 오전 10시~오후 7시(일요일은 오전 10시~오후 6시)까지 운영되며 주말 한낮이 가장 붐비므로 오전 방문을 추천합니다. 1~2시간 정도 예상하되, 야외 리버프론트 산책로에서 여유를 즐기고 싶다면 시간을 더 두세요.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ipoh-han-chin-pet-soo
-srcHash: '33711f6715a1'
+srcHash: 'ed2e31909f27'
 title: 'Han Chin Pet Soo: Guía de viaje de Ipoh'
 description: Han Chin Pet Soo, antigua sede social de los mineros de estaño hakka en Jalan Bijeh Timah, en el casco antiguo de Ipoh, es hoy un pequeño museo cuidadosamente curado sobre la riqueza del estaño, las sociedades secretas y la cultura de las salas de mahjong y opio.
 quickAnswer: Han Chin Pet Soo, antigua sede social de los mineros de estaño hakka en Jalan Bijeh Timah, en el casco antiguo de Ipoh, es hoy un pequeño museo cuidadosamente curado sobre la riqueza del estaño, las sociedades secretas y la cultura de las salas de mahjong y opio. Por lo general solo abre para un par de visitas guiadas al día (los recorridos tienen horarios fijos y a menudo requieren reserva previa), así que conviene planificar en función de eso en lugar de simplemente aparecer. Reserva entre 45 y 60 minutos, y combínalo con un paseo por los edificios patrimoniales del casco antiguo que lo rodean.

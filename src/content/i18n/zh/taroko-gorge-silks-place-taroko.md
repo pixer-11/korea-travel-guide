@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taroko-gorge-silks-place-taroko
-srcHash: '04c3fd460004'
+srcHash: '38cc625d6439'
 title: 太魯閣晶英酒店(Silks Place Taroko)：太魯閣峽谷旅行指南（4.7★）
 description: 太魯閣晶英酒店（Silks Place Taroko）是太魯閣國家公园内唯一的全服务型酒店，坐落于峡谷深处、中横公路沿线的天祥。4.7★（9,318条评价）——游客怎么说、营业时间及实用贴士。
 quickAnswer: 太魯閣晶英酒店（Silks Place Taroko）是太魯閣国家公园内唯一的全服务型酒店，坐落于峡谷深处、中横公路沿线的天祥。这家酒店人气很旺，评分很高（超过9,000条评价，4.7星），以屋顶泳池、水疗中心和大理石峡谷景观著称。由于客房数量有限、需求旺盛，建议尽早预订，尤其是周末和台湾节假日期间。

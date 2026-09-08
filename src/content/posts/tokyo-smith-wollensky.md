@@ -55,17 +55,17 @@ draft: false
 
 ## Why Smith & Wollensky in Tokyo Is a Big Deal
 
-Smith & Wollensky has been a fixture of New York's steakhouse scene since 1977, known for its clubby, wood-and-brass dining rooms and USDA Prime dry-aged beef. Its arrival in Ginza marks the brand's first-ever Japan outpost, and the scale of the build-out — a full three floors — signals how seriously the operators are treating the debut. For Tokyo diners who have long associated top-tier beef with wagyu counters and yakiniku grills, this is a chance to try the classic American steakhouse format: thick-cut Prime steaks, dry-aging, and the kind of hearty, unfussy hospitality the chain is famous for back in the US.
+Smith & Wollensky has been a fixture of New York's steakhouse scene since 1977, known for its clubby, wood-and-brass dining rooms and USDA Prime dry-aged beef. Its arrival in Ginza marks the brand's first-ever Japan outpost, and the scale of the build-out, a full three floors, signals how seriously the operators are treating the debut. For Tokyo diners who have long associated top-tier beef with wagyu counters and yakiniku grills, this is a chance to try the classic American steakhouse format: thick-cut Prime steaks, dry-aging, and the kind of hearty, unfussy hospitality the chain is famous for back in the US.
 
 ## Where to Find It
 
-The restaurant is located in Ginza, Tokyo's upscale shopping and dining district, long known for luxury boutiques, department stores, and a dense concentration of high-end restaurants. Ginza is well served by multiple subway lines — Ginza Station sits at the junction of the Ginza, Marunouchi, and Hibiya lines, while Higashi-Ginza and Yurakucho stations offer additional access — so arriving by train from most parts of central Tokyo takes well under half an hour.
+The restaurant is located in Ginza, Tokyo's upscale shopping and dining district, long known for luxury boutiques, department stores, and a dense concentration of high-end restaurants. Ginza is well served by multiple subway lines (Ginza Station sits at the junction of the Ginza, Marunouchi, and Hibiya lines, while Higashi-Ginza and Yurakucho stations offer additional access), so arriving by train from most parts of central Tokyo takes well under half an hour.
 
 Because the exact address and building details can be easy to mistype or misremember, it's worth pulling up the restaurant's listing or asking your hotel concierge to confirm the entrance before you go, especially since Ginza's blocks are dense with similarly upscale storefronts.
 
 ## What to Expect Inside
 
-The three-floor layout suggests distinct spaces for different occasions — likely a bar or lounge level for drinks and casual bites, a main dining room for the full steakhouse experience, and possibly a private or event floor, in keeping with how Smith & Wollensky locations elsewhere are typically configured. Expect the brand's signature USDA Prime dry-aged steaks as the centerpiece, alongside the kind of classic steakhouse sides and seafood starters the chain is known for internationally.
+The three-floor layout suggests distinct spaces for different occasions, likely a bar or lounge level for drinks and casual bites, a main dining room for the full steakhouse experience, and possibly a private or event floor, in keeping with how Smith & Wollensky locations elsewhere are typically configured. Expect the brand's signature USDA Prime dry-aged steaks as the centerpiece, alongside the kind of classic steakhouse sides and seafood starters the chain is known for internationally.
 
 Menu specifics and pricing aren't confirmed here, so treat any online menu previews as a guide rather than gospel, and check the current offerings directly through the restaurant's official channels before your visit.
 
@@ -77,13 +77,13 @@ If you want to combine the meal with sightseeing, Ginza's flagship department st
 
 ## How to Visit Like a Local
 
-Reserve ahead rather than walking in — Ginza's upscale steakhouses, especially newly opened ones generating buzz, typically fill their prime dinner slots days or weeks out, and a new international brand debut is likely to see even heavier demand in its opening months. Business dinners and client entertaining are common in this part of Ginza, so dressing smart-casual to formal will help you blend in rather than standing out.
+Reserve ahead rather than walking in, Ginza's upscale steakhouses, especially newly opened ones generating buzz, typically fill their prime dinner slots days or weeks out, and a new international brand debut is likely to see even heavier demand in its opening months. Business dinners and client entertaining are common in this part of Ginza, so dressing smart-casual to formal will help you blend in rather than standing out.
 
-Payment is overwhelmingly by credit card at this tier of restaurant, though carrying some cash is still sensible practice anywhere in Japan. Tipping is not customary in Japan and isn't expected here regardless of the restaurant's American roots — service charges, if any, will already be built into the bill. The most common visitor mistake in Ginza's destination restaurants is treating a reservation time as flexible; arrive on time, since tables are often turned tightly on busy nights.
+Payment is overwhelmingly by credit card at this tier of restaurant, though carrying some cash is still sensible practice anywhere in Japan. Tipping is not customary in Japan and isn't expected here regardless of the restaurant's American roots, service charges, if any, will already be built into the bill. The most common visitor mistake in Ginza's destination restaurants is treating a reservation time as flexible; arrive on time, since tables are often turned tightly on busy nights.
 
 If you want a lower-key introduction to the space, ask about lounge or bar seating, which at multi-floor steakhouses like this often allows walk-ins even when the main dining room is fully booked.
 
 ## Nearby to Combine With Your Visit
 
-Ginza rewards a slow wander before or after a steakhouse dinner. The pedestrian-only weekend afternoons on Chuo-dori, when the main shopping street closes to traffic, are worth timing a visit around if you enjoy people-watching. Hibiya Park and the Imperial Palace grounds are a short walk away for a quieter contrast to Ginza's glitz, and the Tsukiji Outer Market — while no longer the wholesale hub it once was — remains a popular stop for a morning food crawl before an evening steak dinner across town.
+Ginza rewards a slow wander before or after a steakhouse dinner. The pedestrian-only weekend afternoons on Chuo-dori, when the main shopping street closes to traffic, are worth timing a visit around if you enjoy people-watching. Hibiya Park and the Imperial Palace grounds are a short walk away for a quieter contrast to Ginza's glitz, and the Tsukiji Outer Market, while no longer the wholesale hub it once was, remains a popular stop for a morning food crawl before an evening steak dinner across town.
 

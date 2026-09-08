@@ -68,13 +68,13 @@ draft: false
 ---
 ## Why go
 
-Museum of Contemporary Art Taipei is Taiwan's first museum dedicated purely to contemporary art. The draw isn't just the art — it's the building.
+Museum of Contemporary Art Taipei is Taiwan's first museum dedicated purely to contemporary art. The draw isn't just the art. It's the building.
 
 You're walking through a red-brick schoolhouse built in the early 1900s under Japanese rule, later repurposed as Taipei's city hall, now holding rotating shows of video, installation, and experimental work. The contrast between colonial-era architecture and provocative contemporary pieces is the whole point. Nowhere else in Taipei gets that juxtaposition quite so directly.
 
 ## Getting there
 
-MOCA Taipei sits at No. 39, Chang'an West Road in Datong District — technically Taipei City, though it's an easy add-on if you're staying anywhere in the greater Taipei/New Taipei area.
+MOCA Taipei sits at No. 39, Chang'an West Road in Datong District, technically Taipei City, though it's an easy add-on if you're staying anywhere in the greater Taipei/New Taipei area.
 
 The nearest stop is Zhongshan Station on the Red and Green MRT lines, about a 5-minute walk. Exit toward Chang'an W Road and head east; the brick facade and arched windows make it unmistakable once you're on the block. Taxis and YouBike docks are also plentiful nearby if you're coming from further out.
 
@@ -84,14 +84,14 @@ The permanent architecture is itself an exhibit. Look for:
 
 - Original brick archways and wooden window frames from the schoolhouse era
 - The central courtyard, often used for large-scale installations
-- Rotating special exhibitions — usually contemporary Taiwanese and international artists working in video, sculpture, and mixed media
+- Rotating special exhibitions, usually contemporary Taiwanese and international artists working in video, sculpture, and mixed media
 - The MOCA Cube, a smaller annex space that hosts more experimental, lower-key shows
 
-Exhibitions change every few months, so there's no single "must-see" piece — check what's currently running before you go. The building itself, though, is a constant: the creak of old wood floors under gallery lighting is part of the experience regardless of what's on the walls.
+Exhibitions change every few months, so there's no single "must-see" piece. Check what's currently running before you go. The building itself, though, is a constant: the creak of old wood floors under gallery lighting is part of the experience regardless of what's on the walls.
 
 ## When to go
 
-The museum is closed Mondays, open Tuesday through Sunday from 10am to 6pm. Plan around that — arriving on a Monday means a locked door and a wasted trip.
+The museum is closed Mondays, open Tuesday through Sunday from 10am to 6pm. Plan around that, arriving on a Monday means a locked door and a wasted trip.
 
 Weekends get busy, especially from 11am to 6pm, when tour groups and local families cluster in the main galleries. If you can, come on a weekday morning shortly after opening. You'll get quieter rooms, better photos of the brick corridors without other visitors in frame, and more room to actually sit with the installations.
 

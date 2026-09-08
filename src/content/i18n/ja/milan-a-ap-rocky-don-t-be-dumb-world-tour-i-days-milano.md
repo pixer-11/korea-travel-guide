@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano
-srcHash: '05e55d92267d'
+srcHash: 'b8c7638fe7ed'
 title: A$AP Rocky来日公演「Don't Be Dumb World Tour」（I-DAYS Milano）:日程・チケット・会場情報（ミラノ）
 description: A$AP Rockyの「Don't Be Dumb World Tour」がイタリア・ミラノで開催されます（I-DAYS Milano、2026年9月10日）。公演の概要、日時と場所、当日の動き方をまとめてご紹介します。
 quickAnswer: A$AP Rockyの「Don't Be Dumb World Tour」で唯一のイタリア公演となるのが、2026年9月10日にミラノのイッポドロモ・SNAI・サンシーロ（Ippodromo SNAI San Siro）で開催される「I-DAYS Milano Coca-Cola」です。会場はサンシーロ・スタジアムに隣接する歴史ある競馬場で、地下鉄5号線のサンシーロ・イッポドロモ（San Siro Ippodromo）駅からアクセスできます。開演時間の詳細やチケットの種類、ゲートに関する情報は、I-DAYS Milano公式サイトで必ずご確認ください。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: damyang-dodamsambong-peaks
-srcHash: '9d6707b30d88'
+srcHash: 'de9a2f4b39e5'
 title: 'Picos de Dodamsambong: Guía de viaje de Danyang (4.2★)'
 description: 'Dodamsambong Peaks está en realidad en Danyang-gun, Chungcheongbuk-do —no en Damyang— un conjunto de tres rocas calizas que emergen directamente del río Namhangang. 4.2★ (8.139 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Dodamsambong Peaks está en realidad en Danyang-gun, Chungcheongbuk-do —no en Damyang— un conjunto de tres rocas calizas que emergen directamente del río Namhangang. Abre todos los días de 9am a 6pm, y el momento más tranquilo es un día de semana dentro de ese horario; los fines de semana desde las 10am atraen a las mayores multitudes. Reserva una hora para el paseo junto al río, el espectáculo de fuentes y, opcionalmente, un paseo en lancha rápida.

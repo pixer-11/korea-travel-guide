@@ -112,7 +112,7 @@ Of the four connecting paths in Cinque Terre, Monterosso to Vernazza is the one 
 
 It's steeper and wilder than the tamer legs further south, climbing straight out of Monterosso through terraced vineyards before dropping you into Vernazza's harbor like a reward. Roughly 3.3km, it usually takes 1.5 to 2 hours at an unhurried pace.
 
-You'll gain and lose several hundred meters of elevation along the way, so this isn't a flat seaside stroll — pack accordingly.
+You'll gain and lose several hundred meters of elevation along the way, so this isn't a flat seaside stroll. Pack accordingly.
 
 ## What the walk actually feels like
 
@@ -130,7 +130,7 @@ Both villages sit on the Cinque Terre train line, so most people hike one direct
 
 - Trains between Monterosso and Vernazza run frequently, the ride taking about 4 minutes.
 - La Spezia and Levanto are the main gateway stations if you're coming from outside the region.
-- There's no vehicle access to this trail — it's foot traffic only.
+- There's no vehicle access to this trail. It's foot traffic only.
 
 Starting in Monterosso and finishing in Vernazza is the more common direction, partly because the initial climb out of Monterosso is more gradual than the version you'd get tackling it from Vernazza's side.
 
@@ -138,7 +138,7 @@ Starting in Monterosso and finishing in Vernazza is the more common direction, p
 
 This is a working footpath, not a paved promenade, and the terrain punishes underpreparation.
 
-- Real hiking shoes or trail sneakers — flip-flops and sandals are a genuine hazard on the loose gravel sections
+- Real hiking shoes or trail sneakers, flip-flops and sandals are a genuine hazard on the loose gravel sections
 - At least a liter of water per person; there's no reliable refill point mid-trail
 - Sun protection, since long stretches have zero shade
 - A small day pack rather than anything bulky, given the narrow, exposed sections
@@ -149,18 +149,18 @@ Skip rolling luggage, heels, or anything you're not prepared to carry on uneven 
 
 The trail is officially open 24 hours a day, every day, with no closing gate. That doesn't mean every hour is pleasant.
 
-Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day. On weekdays, though, the crowd thins out noticeably between 4pm and 5pm — a good window if you want the ridge views without a queue at the narrow spots.
+Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day. On weekdays, though, the crowd thins out noticeably between 4pm and 5pm, a good window if you want the ridge views without a queue at the narrow spots.
 
 Weekend mornings before 8am are also relatively calm before the day-trippers arrive. Avoid full midday sun in summer, when the exposed cliffside sections turn into a genuine heat trap.
 
 ## How to visit like a local
 
-Start early — not for solitude alone, but because the light on the terraces is softer and the heat hasn't built up yet.
+Start early, not for solitude alone, but because the light on the terraces is softer and the heat hasn't built up yet.
 
-- Many sections of the Sentiero Azzurro require a paid Cinque Terre Trekking Card in peak season, checked at posts along the route — buy or download yours before you start climbing, not partway up.
+- Many sections of the Sentiero Azzurro require a paid Cinque Terre Trekking Card in peak season, checked at posts along the route, buy or download yours before you start climbing, not partway up.
 - Trail conditions change after storms, with sections occasionally closed for landslide repair; check the official Cinque Terre park website the morning of your hike.
-- Step aside on narrow sections to let faster hikers or oncoming traffic pass — it's a two-way trail with tight passing room.
+- Step aside on narrow sections to let faster hikers or oncoming traffic pass. It's a two-way trail with tight passing room.
 - Carry cash for the small honey, wine, and lemonade stands some locals set up along quieter stretches.
 - Pack out anything you carry in; there are no bins on the trail itself.
 
-This isn't an undiscovered path — it's one of the region's best-known hikes — but timing your walk around the quiet weekday afternoon window still gets you something close to having it to yourself.
+This isn't an undiscovered path, it's one of the region's best-known hikes, but timing your walk around the quiet weekday afternoon window still gets you something close to having it to yourself.

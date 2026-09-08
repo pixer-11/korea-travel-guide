@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: milan-galleria-vittorio-emanuele-ii
-srcHash: 'f8e037b9e2d8'
+srcHash: '68216eb85e70'
 title: 埃马努埃莱二世拱廊街（Galleria Vittorio Emanuele II）：米兰旅行指南（4.7★）
 description: 埃马努埃莱二世拱廊街（Galleria Vittorio Emanuele II）是米兰一座建于19世纪、顶部覆盖玻璃穹顶的宏伟拱廊，连接主教座堂广场（Piazza del Duomo）与斯卡拉广场（Piazza della Scala）——免费进入，全天24小时开放，最佳游览时间是早上7点到9点，此时游客团和购物人潮尚未涌入。4.7★（114,960条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 埃马努埃莱二世拱廊街（Galleria Vittorio Emanuele II）是米兰一座建于19世纪、顶部覆盖玻璃穹顶的宏伟拱廊，连接主教座堂广场（Piazza del Duomo）与斯卡拉广场（Piazza della Scala）——免费进入，全天24小时开放，最佳游览时间是早上7点到9点，此时游客团和购物人潮尚未涌入。来这里是为了看马赛克地面、铁艺玻璃穹顶，以及在Camparino喝一杯咖啡，而不是为了淘便宜货。抬头四顾大约需要20-30分钟，如果和隔壁的主教座堂一起游览，时间会更长。

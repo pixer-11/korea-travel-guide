@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chicago-sawada-coffee
-srcHash: '23d8df7a02c3'
+srcHash: '7da5e682ea46'
 title: Sawada Coffee:シカゴ旅行ガイド
 description: Sawada Coffeeはシカゴ・ウエストループ(West Loop)の112 N Green Stにある、素朴でシックなコーヒーバー。毎日午前8時から午後4時まで営業しており、独創的なエスプレッソドリンクと店内の卓球台で知られている。
 quickAnswer: Sawada Coffeeはシカゴ・ウエストループ(West Loop)の112 N Green Stにある、素朴でシックなコーヒーバー。毎日午前8時から午後4時まで営業しており、独創的なエスプレッソドリンクと店内の卓球台で知られている。訪れるなら早めの時間帯がおすすめで、毎日午前8時から10時が空いている時間帯。週末の午前11時から午後4時は混雑して列がドアの外まで伸びることもあるので避けよう。

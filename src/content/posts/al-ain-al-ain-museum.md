@@ -92,7 +92,7 @@ There's no flashy digital theater here, no crowds jostling for a selfie spot. Ju
 
 The museum sits inside the historic core of Al Ain, next to Al Jahili Fort and a short walk from the entrance to Al Ain Oasis. If you're coming from Abu Dhabi or Dubai, plan on a 90-minute to two-hour drive; Al Ain has no metro, so a car or taxi is the practical option.
 
-Parking is easy and free around the fort and oasis area. Once you're on foot, everything in this pocket of the city — museum, fort, oasis walkways — sits within a five-to-ten-minute stroll of each other, so you can knock out three sights in one visit.
+Parking is easy and free around the fort and oasis area. Once you're on foot, everything in this pocket of the city (museum, fort, oasis walkways) sits within a five-to-ten-minute stroll of each other, so you can knock out three sights in one visit.
 
 ## What you'll see inside
 
@@ -109,17 +109,17 @@ The pre-oil photography section is the quiet highlight. You'll see falaj irrigat
 
 The museum keeps the same hours every day of the week, 9am to 7pm, so there's no need to plan around a weekly closure. Mornings on weekdays tend to be calmest, before tour groups visiting Al Jahili Fort next door spill over.
 
-Midday in summer (June through September) is brutally hot outside, so treat this museum as a good indoor break between oasis walks — the galleries are air-conditioned and there's no rush to get through them.
+Midday in summer (June through September) is brutally hot outside, so treat this museum as a good indoor break between oasis walks. The galleries are air-conditioned and there's no rush to get through them.
 
 An hour is plenty for most visitors. History enthusiasts who read every panel and linger on the photo archive might stretch it to ninety minutes.
 
 ## How to visit like a local
 
-Pair the museum with Al Jahili Fort and Al Ain Oasis in a single outing — they're all within a few minutes' walk and form a natural loop through the city's old quarter. Locals and repeat visitors tend to treat the museum as the appetizer, not the main event, doing it first before the fort's exhibits and then finishing with a shaded walk through the oasis palm groves.
+Pair the museum with Al Jahili Fort and Al Ain Oasis in a single outing. They're all within a few minutes' walk and form a natural loop through the city's old quarter. Locals and repeat visitors tend to treat the museum as the appetizer, not the main event, doing it first before the fort's exhibits and then finishing with a shaded walk through the oasis palm groves.
 
-Cash isn't strictly necessary; card payment is standard at UAE ticket counters, though it's worth carrying a little cash for the smaller vendors near the oasis gates. Dress modestly, as you would for any UAE cultural site — shoulders and knees covered is the safe default.
+Cash isn't strictly necessary; card payment is standard at UAE ticket counters, though it's worth carrying a little cash for the smaller vendors near the oasis gates. Dress modestly, as you would for any UAE cultural site, shoulders and knees covered is the safe default.
 
-The museum sees relatively light foot traffic compared with Al Ain's bigger draws like the zoo or the palace museum, so you won't need to book ahead or worry about timed entry. The mistake most first-time visitors make is rushing through in fifteen minutes on the way to the fort — slow down at the photograph displays, since that's where the museum earns its reputation among people who actually study the city's history rather than just passing through.
+The museum sees relatively light foot traffic compared with Al Ain's bigger draws like the zoo or the palace museum, so you won't need to book ahead or worry about timed entry. The mistake most first-time visitors make is rushing through in fifteen minutes on the way to the fort, slow down at the photograph displays, since that's where the museum earns its reputation among people who actually study the city's history rather than just passing through.
 
 Confirm current admission fees at the door, as ticket pricing for Al Ain's cultural sites is periodically revised.
 

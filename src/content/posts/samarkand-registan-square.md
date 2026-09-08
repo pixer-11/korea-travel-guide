@@ -81,33 +81,33 @@ This is Registan Square, the civic heart of old Samarkand and one of the most ph
 
 ## What you're actually looking at
 
-Each madrasa is built around a central courtyard ringed by former student cells, their doorways framed in carved and glazed tilework. Sher-Dor, on the right, is famous for the roaring tiger-like lions on its portal — unusual because Islamic architecture rarely depicts animals.
+Each madrasa is built around a central courtyard ringed by former student cells, their doorways framed in carved and glazed tilework. Sher-Dor, on the right, is famous for the roaring tiger-like lions on its portal, unusual because Islamic architecture rarely depicts animals.
 
-Inside Tilya-Kori, the left-hand madrasa, the mosque interior is layered floor to dome in gold leaf. Climb the narrow staircases in the corner minarets when they're open and you get a rooftop-level view across the square's blue domes — one of the few places in Uzbekistan where you're this close to the tilework.
+Inside Tilya-Kori, the left-hand madrasa, the mosque interior is layered floor to dome in gold leaf. Climb the narrow staircases in the corner minarets when they're open and you get a rooftop-level view across the square's blue domes, one of the few places in Uzbekistan where you're this close to the tilework.
 
 ## Getting there
 
 Registan sits right in central Samarkand, an easy walk or short taxi ride from most hotels in the old town. Landmarks like Bibi-Khanym Mosque and the Siab Bazaar are a 10–15 minute walk north.
 
-Taxis and ride-hailing apps are cheap and simple here — just confirm the fare or that the meter's running before you set off. The square is fully pedestrianized, so you'll be dropped a short walk from the entrance gates.
+Taxis and ride-hailing apps are cheap and simple here, just confirm the fare or that the meter's running before you set off. The square is fully pedestrianized, so you'll be dropped a short walk from the entrance gates.
 
 ## When to go
 
 The square is open daily from 8am to 8pm. Foot-traffic data shows it's calmest on weekdays between 8am and 11am, and on weekends before 10am.
 
-Avoid rolling up on a weekend afternoon — crowds build steadily from 1pm through closing as tour buses cycle through. Late afternoon light, an hour or two before the 8pm close, is another good window if mornings don't suit your schedule, though it's busier than the opening hours.
+Avoid rolling up on a weekend afternoon, crowds build steadily from 1pm through closing as tour buses cycle through. Late afternoon light, an hour or two before the 8pm close, is another good window if mornings don't suit your schedule, though it's busier than the opening hours.
 
 ## How to visit like a local
 
-Registan is one of Uzbekistan's most visited sites, so this isn't a quiet secret spot — the trick is timing, not avoidance. Arrive right at 8am if you can; you'll get long, uncrowded sightlines across the square before the first buses arrive.
+Registan is one of Uzbekistan's most visited sites, so this isn't a quiet secret spot. The trick is timing, not avoidance. Arrive right at 8am if you can; you'll get long, uncrowded sightlines across the square before the first buses arrive.
 
 - **Tickets**: buy at the entrance booth; card and cash are both generally accepted, but carry some local currency (som) as backup.
 - **Dress**: no strict dress code for the square itself, but modest clothing is respectful given it's a former religious school complex.
-- **Evening show**: there's often a sound-and-light display in the evening — ask locally about current timing, as it changes seasonally.
+- **Evening show**: there's often a sound-and-light display in the evening. Ask locally about current timing, as it changes seasonally.
 - **Guides**: licensed guides wait near the entrance; agreeing a price upfront avoids awkward haggling later.
 - **Common mistake**: rushing through in 20 minutes for a photo and missing the side courtyards, where the crowds thin out fast and the detail on the tilework is best seen close up.
 
-Give yourself a proper 1.5 to 2 hours. Rushing is the single biggest regret visitors mention — the closer you look, the more the mosaic patterns reveal, and that only happens if you slow down.
+Give yourself a proper 1.5 to 2 hours. Rushing is the single biggest regret visitors mention, the closer you look, the more the mosaic patterns reveal, and that only happens if you slow down.
 
 ## Nearby, while you're there
 
@@ -117,4 +117,4 @@ Samarkand rewards a full day around the old town. Combine Registan with:
 - **Shah-i-Zinda**, a necropolis of tiled corridors and tombs, especially striking in soft morning light.
 - **Siab Bazaar**, for fresh bread, dried fruit and a genuinely local counterpoint to the monuments.
 
-Wear comfortable shoes for the stone paving, and bring water in summer — Samarkand afternoons run hot and there's little shade crossing the open square.
+Wear comfortable shoes for the stone paving, and bring water in summer, Samarkand afternoons run hot and there's little shade crossing the open square.

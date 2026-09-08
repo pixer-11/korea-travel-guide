@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: boryeong-national-museum-of-korea
-srcHash: 'da1da3d40820'
+srcHash: 'aa01fd62b760'
 title: 'Museo Nacional de Corea: Guía de viaje de Seúl (4,7★)'
 description: El Museo Nacional de Corea está en el distrito de Yongsan, Seúl, en Seobinggo-ro 137, justo al lado de la estación de Ichon. Descubre su valoración de 4,7★ (29.015 reseñas), horarios y consejos prácticos.
 quickAnswer: El Museo Nacional de Corea está en el distrito de Yongsan, Seúl, en Seobinggo-ro 137, justo al lado de la estación de Ichon. Abre de 9:30 a 17:30 la mayoría de los días, con horario extendido hasta las 21:00 los miércoles y sábados. Lo mejor es ir un día laborable por la tarde (entre las 10:00 y las 18:00) para evitar la avalancha del fin de semana, que alcanza su punto máximo entre el mediodía y las 18:00.

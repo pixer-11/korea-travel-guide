@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: iloilo-iloilo-city-garden-of-love
-srcHash: 'd610e22cb7da'
+srcHash: '83f1b4513f9b'
 title: 伊洛伊洛市爱情花园：旅行指南
 description: 爱情花园（Garden of Love）是位于伊洛伊洛市（Iloilo City）拉巴斯（La Paz）的一座小众公园，鲜少被人提及，每天早上6:00至晚上9:30开放。
 quickAnswer: 爱情花园（Garden of Love）是位于伊洛伊洛市（Iloilo City）拉巴斯（La Paz）的一座小众公园，鲜少被人提及，每天早上6:00至晚上9:30开放。如果想避开人群，建议工作日早上7点到8点前往，那时几乎空无一人；若是周末，选在上午10点到下午1点这段时间也能享受相对清静的空间。这里只是一座袖珍公园，逛完大约需要30到45分钟，并不适合安排半天行程。

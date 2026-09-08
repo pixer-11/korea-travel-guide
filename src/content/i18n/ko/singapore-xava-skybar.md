@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-xava-skybar
-srcHash: 'c0aebd53886c'
+srcHash: '3b220f559ed5'
 title: 'Xava 스카이바: 싱가포르 여행 가이드'
 description: 싱가포르(Singapore) 신흥 명소로 떠오르는 Xava 스카이바 — 어떤 곳인지, 위치는 어디인지, 어떻게 방문하면 되는지 알아봅니다.
 quickAnswer: Xava 스카이바는 내셔널 갤러리 싱가포르(National Gallery Singapore) 옥상에 자리한 7,000제곱피트 규모의 루프탑으로, 마리나 베이(Marina Bay)를 가리는 것 없이 한눈에 담을 수 있는 전망과 실내·야외 좌석, 와규 타타키부터 시그니처 칵테일까지 아우르는 메뉴를 자랑합니다. 2026년 8월 1일 정식 오픈했기 때문에 아직 매우 새로운 곳이니, 미리 예약하고 노을이 지기 전에 도착해 스카이라인이 잘 보이는 자리를 잡는 것이 좋으며, 방문 전 영업시간과 예약 정책은 업장에 직접 확인하시기 바랍니다.

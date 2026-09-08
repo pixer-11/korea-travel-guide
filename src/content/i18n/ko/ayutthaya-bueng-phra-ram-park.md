@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ayutthaya-bueng-phra-ram-park
-srcHash: '41a8831a5276'
+srcHash: 'b7226056a078'
 title: '붕 프라람 공원(Bueng Phra Ram Park): 아유타야 여행 가이드 (4.4★)'
 description: 붕 프라람 공원(Bueng Phra Ram Park)은 아유타야 역사 섬 한가운데, 왓 프라람(Wat Phra Ram)과 왓 마하탓(Wat Mahathat) 사이에 위치한 크고 넓은 공용 호수이자 녹지 공간입니다 — 입장료가 없는 개방된 공간으로, 서늘한 아침이나 일몰 직전에 걷거나 소풍을 즐기기 좋습니다. 4.4★ (리뷰 2,003개) — 방문객들의 후기, 운영 시간, 팁을 확인하세요.
 quickAnswer: 붕 프라람 공원(Bueng Phra Ram Park)은 아유타야 역사 섬 한가운데, 왓 프라람(Wat Phra Ram)과 왓 마하탓(Wat Mahathat) 사이에 위치한 크고 넓은 공용 호수이자 녹지 공간입니다 — 입장료가 없는 개방된 공간으로, 서늘한 아침이나 일몰 직전에 걷거나 소풍을 즐기기 좋습니다. 주말에는 오후 4시부터 밤 11시까지 운동하러 나오는 현지인들과 음식 노점들로 붐비니, 잔잔한 물에 비친 유적을 사람 많지 않게 보고 싶다면 늦은 오전이나 오후 중반쯤 방문하는 것이 좋습니다.

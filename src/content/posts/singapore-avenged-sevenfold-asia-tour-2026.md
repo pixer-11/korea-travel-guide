@@ -43,7 +43,7 @@ heroImage:
 ---
 ## Why this show matters
 
-Avenged Sevenfold don't tour Southeast Asia often, so a Singapore date on their Asia Tour 2026 is a genuine event for regional fans. The band built its reputation on theatrical, guitar-heavy sets and a back catalogue stretching from "Bat Country" to "Hail to the King" — the kind of setlist that fills an indoor arena with pyro, double-kick drums, and a crowd that knows every scream.
+Avenged Sevenfold don't tour Southeast Asia often, so a Singapore date on their Asia Tour 2026 is a genuine event for regional fans. The band built its reputation on theatrical, guitar-heavy sets and a back catalogue stretching from "Bat Country" to "Hail to the King", the kind of setlist that fills an indoor arena with pyro, double-kick drums, and a crowd that knows every scream.
 
 Singapore Indoor Stadium is the natural home for a show this size. It's the city's default arena for touring rock and metal acts, with a raked bowl design that keeps sightlines decent even from the upper tiers.
 
@@ -56,32 +56,32 @@ The stadium sits in the Kallang district, right on the water at the Kallang Basi
 - **Driving:** limited on-site parking fills fast on show nights; nearby Leisure Park Kallang and OCBC Arena car parks are the backup
 - **On foot:** it's a flat, pleasant 10-minute walk from Kallang MRT (East-West Line) along the river if Stadium station is jammed post-show
 
-Arrive by MRT if you can — it avoids the worst of the post-concert taxi crush entirely.
+Arrive by MRT if you can, it avoids the worst of the post-concert taxi crush entirely.
 
 ## What to expect inside
 
 The stadium is a mid-sized indoor arena, so even "cheap" seats aren't far from the stage. General admission floor tickets usually mean standing, so wear shoes you can stand in for hours. Seated tiers wrap the bowl on two levels, with the lower tier offering the best value for sightline versus price.
 
-Doors typically open well before a headline set, with a support act warming up the room first. Confirm timing and tickets on the official site — Avenged Sevenfold's own tour page and Singapore Indoor Stadium's venue listings are the reliable sources for set times, doors, and any support acts.
+Doors typically open well before a headline set, with a support act warming up the room first. Confirm timing and tickets on the official site, Avenged Sevenfold's own tour page and Singapore Indoor Stadium's venue listings are the reliable sources for set times, doors, and any support acts.
 
 ## Food and drink nearby
 
-Kallang isn't just a transit stop — it's turned into a legitimate food destination around the stadium.
+Kallang isn't just a transit stop. It's turned into a legitimate food destination around the stadium.
 
 - **Old Airport Road Food Centre** is a 10-minute ride away and one of Singapore's best-loved hawker centres, good for a proper meal before the show
 - **Kallang Wave Mall**, attached to the stadium itself, has quick-service options if you're short on time
 - **Leisure Park Kallang** across the road adds more casual dining and a supermarket if you need water or snacks before doors
 
-Eating before you're inside is the smart move — arena concession lines move slowly once doors open.
+Eating before you're inside is the smart move, arena concession lines move slowly once doors open.
 
 ## When to go and what to plan around
 
 Singapore's climate is warm and humid year-round, with rain always a possibility, so it's worth checking the forecast closer to the date and packing accordingly. Bring a light rain layer for the walk to the MRT rather than an umbrella, which is awkward in a packed crowd.
 
-Because this is a single-date arena show rather than a multi-day festival, most fans plan a short two- or three-night trip around it — enough time to also hit Gardens by the Bay or the Singapore Zoo without rushing.
+Because this is a single-date arena show rather than a multi-day festival, most fans plan a short two- or three-night trip around it, enough time to also hit Gardens by the Bay or the Singapore Zoo without rushing.
 
 ## How to visit like a local
 
-Singapore concertgoers tend to travel light and pay by card or contactless mobile wallet — cash is rarely needed inside the venue, and most food stalls in Kallang Wave Mall accept tap payment. Queue culture here is orderly: lines for entry and merch form early and move in single file, so joining the queue rather than clustering near doors is expected etiquette.
+Singapore concertgoers tend to travel light and pay by card or contactless mobile wallet, cash is rarely needed inside the venue, and most food stalls in Kallang Wave Mall accept tap payment. Queue culture here is orderly: lines for entry and merch form early and move in single file, so joining the queue rather than clustering near doors is expected etiquette.
 
 The mistake first-timers make is leaving right after the encore and walking straight into a solid wall of people at Stadium station. Locals hang back ten minutes, grab a drink at Kallang Wave Mall, then walk out to a thinning platform. If you're after a quieter exit route, cutting through to Kallang MRT on the East-West Line instead of Stadium station often means a shorter wait for a train home.

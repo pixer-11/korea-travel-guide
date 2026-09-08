@@ -69,11 +69,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You smell the heat before you see anything — dust and hot tin roofing rising off a compound ringed with rusted barbed wire. This is Coco Prison, formally the Phu Quoc Prison History Museum, and it doesn't ease you in. Within the first few paces you're already looking at reconstructed cages.
+You smell the heat before you see anything, dust and hot tin roofing rising off a compound ringed with rusted barbed wire. This is Coco Prison, formally the Phu Quoc Prison History Museum, and it doesn't ease you in. Within the first few paces you're already looking at reconstructed cages.
 
 The site began under French colonial rule and later became the largest POW camp of the Vietnam War, holding tens of thousands of prisoners at its peak. Walking between the low concrete barracks, you pass life-sized mannequins recreating specific torture methods used here: tiger cages, barbed-wire confinement boxes, men strung up mid-punishment.
 
-It's graphic by design. The museum doesn't soften the history, and that's the point — this is a memorial as much as an exhibit space, built to document suffering rather than sanitize it.
+It's graphic by design. The museum doesn't soften the history, and that's the point. This is a memorial as much as an exhibit space, built to document suffering rather than sanitize it.
 
 ## Getting there
 
@@ -96,7 +96,7 @@ There's minimal shade, so the tin-roofed sections offer welcome relief from the 
 
 ## When to go
 
-The museum is open every day from 7am to 5pm, so there's no risk of a closed gate if you plan ahead. Early morning is the way to do it — before the heat sets in and before tour buses arrive.
+The museum is open every day from 7am to 5pm, so there's no risk of a closed gate if you plan ahead. Early morning is the way to do it, before the heat sets in and before tour buses arrive.
 
 Mornings tend to be the quietest stretch. After that, particularly on weekends, the site fills up and stays busy straight through to closing at 5pm. If you're on a tight schedule, aim for a weekday.
 
@@ -104,9 +104,9 @@ Mornings tend to be the quietest stretch. After that, particularly on weekends, 
 
 This is a well-visited stop on the island's tour-bus circuit, so timing your visit matters more than finding a secret entrance. Arrive at opening, park yourself in the shade near the entrance for a minute to get oriented, then work through the compound before the coach groups roll in around mid-morning.
 
-Wear closed shoes and light, modest clothing — this is treated as a solemn historical site, not a beach-day stop. Photography is generally allowed throughout the grounds, but keep your voice down near the memorial areas; other visitors are often there to reflect, not just snap photos.
+Wear closed shoes and light, modest clothing. This is treated as a solemn historical site, not a beach-day stop. Photography is generally allowed throughout the grounds, but keep your voice down near the memorial areas; other visitors are often there to reflect, not just snap photos.
 
-Admission has historically been free, though it's worth confirming at the gate since policies can shift. There's no formal booking system — you simply walk in, and there's rarely a queue outside peak weekend hours.
+Admission has historically been free, though it's worth confirming at the gate since policies can shift. There's no formal booking system, you simply walk in, and there's rarely a queue outside peak weekend hours.
 
 The most common misstep is treating this like a quick photo-op between beach stops. The subject matter is heavy, the displays are unflinching, and rushing through in fifteen minutes misses the point entirely. Give it the full hour, read the panels, and treat it as the sobering counterpoint to Phu Quoc's resort-island reputation.
 

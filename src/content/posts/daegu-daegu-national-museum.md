@@ -99,7 +99,7 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-Daegu National Museum tells the story of the Yeongnam region — the old name for the area around Daegu and North Gyeongsang — through objects rather than text panels alone. You walk past Bronze Age daggers, Silla-era gold ornaments, and Buddhist stone pagodas that once stood in open fields for a thousand years.
+Daegu National Museum tells the story of the Yeongnam region, the old name for the area around Daegu and North Gyeongsang, through objects rather than text panels alone. You walk past Bronze Age daggers, Silla-era gold ornaments, and Buddhist stone pagodas that once stood in open fields for a thousand years.
 
 It's not a flashy, crowd-magnet museum like some in Seoul. It's quieter, more contemplative, and genuinely educational if you give it time.
 
@@ -118,7 +118,7 @@ Budget 90 minutes for a solid pass through the main halls, or two hours if you l
 
 The museum sits at 321 Cheongho-ro in Suseong District, on the eastern side of Daegu. It's a bit removed from the subway network, so most visitors combine a taxi or bus with a short walk.
 
-Buses serving the museum stop directly outside the grounds — check current routes before you go, since bus numbers shift over time. A taxi from downtown Daegu (Dongseongno or Banwoldang) typically runs 15–20 minutes depending on traffic.
+Buses serving the museum stop directly outside the grounds. Check current routes before you go, since bus numbers shift over time. A taxi from downtown Daegu (Dongseongno or Banwoldang) typically runs 15–20 minutes depending on traffic.
 
 ## When to go
 
@@ -132,17 +132,17 @@ Weekdays are generally easier throughout, since the museum is well-known locally
 
 Arrive early. On weekends, the 8–9am slot is measurably quieter than any other hour, and you'll have the dome-house replicas and pagoda courtyard largely to yourself before the 10am rush.
 
-- Admission to the permanent galleries is typically free, though special exhibitions sometimes carry a small fee — confirm current pricing at the entrance.
+- Admission to the permanent galleries is typically free, though special exhibitions sometimes carry a small fee, confirm current pricing at the entrance.
 - Payment for the café or gift shop is mostly card-based; cash isn't essential but doesn't hurt to have a little on hand.
-- No advance booking is generally needed for regular admission — just walk in during opening hours.
+- No advance booking is generally needed for regular admission, just walk in during opening hours.
 - Wear shoes you don't mind taking off if you visit the traditional house reconstructions, some of which involve stepping onto raised floors.
-- The biggest mistake visitors make is rushing the outdoor pagoda garden. Slow down here — the stonework spans different centuries and is easy to miss if you just skim past.
+- The biggest mistake visitors make is rushing the outdoor pagoda garden. Slow down here. The stonework spans different centuries and is easy to miss if you just skim past.
 
 Combine your visit with nearby Suseong Lake, a short ride away, for a walk around the water afterward. Locals often treat the museum as a quiet cultural stop before an evening at the lake's restaurants and cafés.
 
 ## Getting the most from your visit
 
-Start with the prehistoric and Bronze Age galleries first — they set context for everything that follows. Save the outdoor stone pagoda courtyard for last, ideally in decent daylight, since natural light changes how the carved reliefs read.
+Start with the prehistoric and Bronze Age galleries first, they set context for everything that follows. Save the outdoor stone pagoda courtyard for last, ideally in decent daylight, since natural light changes how the carved reliefs read.
 
-If you're traveling with kids, the dome-house reconstructions tend to be the most memorable exhibit — they're walk-through scale models rather than glass-case displays. English-language signage is present throughout, though not as extensive as at Korea's largest national museums, so a little pre-reading on Silla and Gaya history helps deepen the visit.
+If you're traveling with kids, the dome-house reconstructions tend to be the most memorable exhibit. They're walk-through scale models rather than glass-case displays. English-language signage is present throughout, though not as extensive as at Korea's largest national museums, so a little pre-reading on Silla and Gaya history helps deepen the visit.
 

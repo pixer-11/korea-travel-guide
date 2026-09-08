@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-pike-place-market
-srcHash: 'ede4af1d0878'
+srcHash: '8a16600eb68a'
 title: 派克市场（Pike Place Market）：西雅图美食全攻略
 description: 别在派克市场只顾着看飞鱼表演，不如放开肚皮吃个遍：从 Piroshky Piroshky 的俄式馅饼，到主拱廊鱼贩的蟹肉杯或三文鱼，一路吃过去。
 quickAnswer: 别在派克市场（Pike Place Market）只顾着挤在人群里看飞鱼表演，不如放开肚皮吃个遍：先来一个 Piroshky Piroshky 的俄式馅饼，再到主拱廊的鱼贩摊位来一杯蟹肉鸡尾酒或尝尝三文鱼，接着买一个 Daily Dozen 现炸甜甜圈，最后以装在面包碗里的蛤蜊浓汤收尾。建议工作日上午（8:30–10点）前往，避开旅游大巴人潮，并预留两到三个小时的时间用来吃喝、闲逛，顺便去附近看看第一家星巴克（Starbucks）门店和口香糖墙（Gum Wall）。

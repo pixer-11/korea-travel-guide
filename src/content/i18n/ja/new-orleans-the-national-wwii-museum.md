@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: new-orleans-the-national-wwii-museum
-srcHash: 'febdd15f1ada'
+srcHash: '76f14fa755de'
 title: ナショナルWWIIミュージアム:ニューオーリンズ旅行ガイド(4.8★)
 description: ナショナルWWIIミュージアムはニューオーリンズのウェアハウス地区(Warehouse District)945 Magazine Stにあり、毎日9時から17時まで開館しています。4.8★(30,266件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: ナショナルWWIIミュージアムはニューオーリンズのウェアハウス地区(Warehouse District)945 Magazine Stにあり、毎日9時から17時まで開館しています。すべてのパビリオンをきちんと見て回るには半日(4~5時間)を予定しておきましょう。週末の混雑がピークになる正午から15時を避けるため、開館直後の9時か15時以降に訪れるのがおすすめです。非常に人気があり来場者の多い博物館なので、事前にオンラインで時間指定チケットを予約しておきましょう。

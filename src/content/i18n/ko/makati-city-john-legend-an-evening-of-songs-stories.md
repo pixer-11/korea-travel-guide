@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: makati-city-john-legend-an-evening-of-songs-stories
-srcHash: 'bc89c6ccc3b9'
+srcHash: '168f213927b6'
 title: 존 레전드 내한 공연 'An Evening of Songs & Stories' 참고 정보 (마카티시)
 description: 존 레전드의 'An Evening of Songs & Stories'는 2026년 9월 3일과 4일, 마카티시 프로시니엄 극장(Proscenium Theater)에서 열릴 예정이었던 좌석제 피아노 중심 공연이었습니다.
 quickAnswer: 존 레전드의 친밀한 분위기의 월드투어 'An Evening of Songs & Stories'는 2026년 9월 3일과 4일 이틀간 마카티시 프로시니엄 극장에서 열릴 예정이었습니다. 스타디움 규모의 화려한 무대가 아니라 절제된 피아노 연주를 중심으로 한 좌석제 극장식 공연으로 기획되어, 일반적인 아레나 콘서트보다 작고 격식 있는 공간에서 진행되는 형태였습니다. 정확한 공연 시작 시간과 입장 시간은 투어 발표 당시 공개되지 않았습니다.

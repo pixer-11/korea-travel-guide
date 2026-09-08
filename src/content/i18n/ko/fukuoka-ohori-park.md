@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: fukuoka-ohori-park
-srcHash: 'c3fb60bf1682'
+srcHash: 'cd3109ec7dec'
 title: '오호리 공원: 후쿠오카 여행 가이드'
 description: 오호리 공원(大濠公園)은 후쿠오카 주오구(Chuo Ward)에 있는 대형 호반 공원으로, 중국 항저우(Hangzhou)의 시후(西湖, 서호)를 본떠 조성한 호수를 중심으로 펼쳐져 있습니다.
 quickAnswer: 오호리 공원(大濠公園)은 후쿠오카 주오구(Chuo Ward)에 있는 대형 호반 공원으로, 중국 항저우(Hangzhou)의 시후(西湖, 서호)를 본떠 조성한 라군 같은 호수를 중심으로 조성되어 있습니다. 호수 주변으로 1.5~2km 순환 산책이나 조깅을 하고, 페달보트를 타보고, 바로 옆에 있는 오호리 공원 일본식 정원(Ohori Park Japanese Garden)이나 후쿠오카 미술관(Fukuoka Art Museum)에 들러보세요 — 1.5~2시간 정도 잡으면 되고, 호숫가 카페에서 여유를 즐긴다면 그보다 더 걸립니다.

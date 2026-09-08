@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-statue-of-liberty
-srcHash: '43b5dc2a53b8'
+srcHash: 'df6f9300092e'
 title: 'Estatua de la Libertad: Guía de viaje de Nueva York'
 description: Visita la Estatua de la Libertad tomando el ferry oficial de Statue City Cruises desde Battery Park en Manhattan (o Liberty State Park en Nueva Jersey), la única forma legal de llegar a Liberty Island.
 quickAnswer: Visita la Estatua de la Libertad tomando el ferry oficial de Statue City Cruises desde Battery Park en Manhattan (o Liberty State Park en Nueva Jersey), la única forma legal de llegar a Liberty Island. Reserva las entradas con semanas de antelación, especialmente si quieres acceso al pedestal o a la corona, y planifica medio día para recorrer tanto Liberty Island como Ellis Island. Ve temprano en la mañana entre semana para las colas más cortas y la mejor luz para las fotos.

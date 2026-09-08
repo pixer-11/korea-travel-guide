@@ -60,11 +60,11 @@ draft: false
 
 Shilin Residence Park is the former home of Chiang Kai-shek and Soong Mei-ling, wrapped in one of Taipei's most meticulously kept public gardens. You come for the layered history, but you stay for the roses.
 
-The grounds split into two distinct moods. On one side, a formal Western-style garden with clipped hedges, a fountain, and a rose collection that peaks in spring. On the other, a Chinese garden with a pond, arched bridges, and a pavilion reflected in still water. Walk between them and the shift in atmosphere is immediate — geometry gives way to curves, symmetry to asymmetry.
+The grounds split into two distinct moods. On one side, a formal Western-style garden with clipped hedges, a fountain, and a rose collection that peaks in spring. On the other, a Chinese garden with a pond, arched bridges, and a pavilion reflected in still water. Walk between them and the shift in atmosphere is immediate, geometry gives way to curves, symmetry to asymmetry.
 
 ## Getting there
 
-The park sits in Shilin District, on Zhongshan North Road Section 5, tucked down a lane near the Shilin Official Residence complex. The closest MRT stop is Shilin Station on the Red Line (Tamsui-Xinbeitou line) — from there it's roughly a 15-20 minute walk, or a short bus ride heading toward the residence area.
+The park sits in Shilin District, on Zhongshan North Road Section 5, tucked down a lane near the Shilin Official Residence complex. The closest MRT stop is Shilin Station on the Red Line (Tamsui-Xinbeitou line), from there it's roughly a 15-20 minute walk, or a short bus ride heading toward the residence area.
 
 Many visitors combine this with a trip to the nearby Taipei Fine Arts Museum or the Shilin Night Market, both within reasonable distance. If you're coming from central Taipei, factor in the walk or a quick taxi from the station rather than relying purely on foot traffic signs, which can be sparse.
 
@@ -72,7 +72,7 @@ Many visitors combine this with a trip to the nearby Taipei Fine Arts Museum or 
 
 Start with the gardens before the residence building itself, since the outdoor space is what most people remember. The rose garden alone holds hundreds of varieties, and benches are placed deliberately so you can sit and take in the scent rather than just photograph it.
 
-Inside the residence, restored rooms give a sense of how the Chiang family actually lived — modest by head-of-state standards, but with small personal touches like an old piano and study furniture. Descriptions here lean historical rather than lavish; it's an intimate look at power, not a palace tour.
+Inside the residence, restored rooms give a sense of how the Chiang family actually lived, modest by head-of-state standards, but with small personal touches like an old piano and study furniture. Descriptions here lean historical rather than lavish; it's an intimate look at power, not a palace tour.
 
 - Western garden: fountain, roses, manicured lawns
 - Chinese garden: koi pond, stone bridges, pavilion
@@ -83,7 +83,7 @@ Photographers tend to linger near the pond in late afternoon, when the light ang
 
 ## When to go
 
-The park is open every day from 8am to 6pm, so plan your visit inside that window — nothing here operates late. Spring, roughly March through May, is peak season for the roses and also the busiest stretch.
+The park is open every day from 8am to 6pm, so plan your visit inside that window, nothing here operates late. Spring, roughly March through May, is peak season for the roses and also the busiest stretch.
 
 Weekday mornings right after the 8am opening tend to be calmest, before tour buses and school groups fill the paths. If you're set on photographing the gardens without crowds in frame, that early slot is your best shot.
 
@@ -91,11 +91,11 @@ Summer afternoons in Taipei get hot and humid, so if you're visiting June throug
 
 ## How to visit like a local
 
-Treat this as a garden walk first, historical site second — that's how most repeat visitors use it. Come for a slow loop through both gardens, then decide if you have time or interest for the residence interior.
+Treat this as a garden walk first, historical site second. That's how most repeat visitors use it. Come for a slow loop through both gardens, then decide if you have time or interest for the residence interior.
 
-Admission to the gardens is typically free, though the residence building itself may involve a small ticket — confirm current pricing at the entrance, since it can shift. Cash is useful for any on-site kiosks, though most of Taipei now leans card- and mobile-friendly.
+Admission to the gardens is typically free, though the residence building itself may involve a small ticket, confirm current pricing at the entrance, since it can shift. Cash is useful for any on-site kiosks, though most of Taipei now leans card- and mobile-friendly.
 
-The etiquette here is straightforward: stay on marked paths in the Chinese garden, keep voices low near the pond where people sit to read or sketch, and don't pick or touch the roses. Tourists' most common mistake is rushing through in twenty minutes — slow down, this isn't a checklist stop.
+The etiquette here is straightforward: stay on marked paths in the Chinese garden, keep voices low near the pond where people sit to read or sketch, and don't pick or touch the roses. Tourists' most common mistake is rushing through in twenty minutes, slow down, this isn't a checklist stop.
 
 If you want a rare quiet moment, the greenhouse and the far end of the Chinese garden near the pavilion see far fewer visitors than the main rose beds. It's not a secret spot exactly, but it's the one locals drift toward when they want a bench to themselves.
 

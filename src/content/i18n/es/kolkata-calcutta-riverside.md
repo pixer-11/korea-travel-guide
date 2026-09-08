@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kolkata-calcutta-riverside
-srcHash: 'f1c471b469d7'
+srcHash: '36b36923c97d'
 title: 'Calcutta Riverside: guía de viaje de Kolkata (4,2★)'
 description: 'Calcutta Riverside es un complejo de ocio y patrimonio a orillas del río, en Batanagar, junto al Hooghly, al sur del centro de Kolkata, construido en torno a arquitectura colonial restaurada, jardines y restaurantes con vistas al río. 4,2★ (656 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Calcutta Riverside es un complejo de ocio y patrimonio a orillas del río, en Batanagar, junto al Hooghly, al sur del centro de Kolkata, construido en torno a arquitectura colonial restaurada, jardines y restaurantes con vistas al río. Abre todos los días de 10:00 a 18:00 y, como queda bastante alejado del circuito turístico principal, se mantiene tranquilo incluso los fines de semana. Conviene reservar medio día, incluyendo el trayecto, y llegar en coche o en app de taxi en lugar de transporte público.

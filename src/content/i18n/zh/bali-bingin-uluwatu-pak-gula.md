@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-bingin-uluwatu-pak-gula
-srcHash: 'fa46f350a91e'
+srcHash: 'a372d59b7372'
 title: 'Pak Gula 乌鲁瓦图（宾银）：招牌菜单、营业时间与订位方式'
 description: 'Pak Gula 位于乌鲁瓦图宾银：亚洲融合菜单推荐（叉烧包、可分享拼盘）、避开人潮的时段、如何订位及用餐须知。Google评分4.9★。'
 quickAnswer: Pak Gula 是位于乌鲁瓦图(Uluwatu)宾静(Bingin)的一家全新两层亚洲融合餐厅,由 The Cashew Tree 团队打造,以叉烧包等分享菜和出色的鸡尾酒单闻名。这里人气飙升很快,建议提前预订——最好订日落或晚间时段——出发前请务必确认最新营业时间，因为巴厘岛新开业店铺的信息常常会变动。

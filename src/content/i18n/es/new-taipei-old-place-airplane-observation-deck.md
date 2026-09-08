@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-old-place-airplane-observation-deck
-srcHash: '7f332d22bc99'
+srcHash: '4064f0257eba'
 title: 'Mirador de Aviones Old Place: Guía de Viaje de Nueva Taipéi'
 description: 'El Mirador de Aviones Old Place (老地方看飛機觀景台) se alza sobre Jiantan, en la Ruta de Senderismo de Jiantanshan, dentro del distrito de Zhongshan en Taipéi. Aunque técnicamente queda fuera del centro de Nueva Taipéi, combina de forma natural con una excursión de un día. 4.6★ (4.735 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mirador de Aviones Old Place (老地方看飛機觀景台) se alza sobre Jiantan, en la Ruta de Senderismo de Jiantanshan, dentro del distrito de Zhongshan en Taipéi. Aunque técnicamente queda fuera del centro de Nueva Taipéi, combina de forma natural con una excursión de un día. Está abierto las 24 horas, pero el mejor momento para disfrutarlo —cuando los aviones descienden hacia el Aeropuerto de Songshan con la Torre Taipéi 101 iluminada de fondo— es durante la hora dorada o después del anochecer. Los fines de semana, de 7 a.m. a 6 p.m., el lugar se llena, así que conviene subir un día entre semana por la tarde-noche.

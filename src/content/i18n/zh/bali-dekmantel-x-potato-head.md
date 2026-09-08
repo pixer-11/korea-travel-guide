@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-dekmantel-x-potato-head
-srcHash: 'f5ee0b4a780e'
+srcHash: '1b54f93999ca'
 title: Dekmantel x Potato Head：日期、门票与场地指南（巴厘岛）
 description: 印尼巴厘岛 Dekmantel x Potato Head 电子音乐派对，2026年9月25日举办。这里介绍活动详情、时间地点，以及行程安排建议。
 quickAnswer: Dekmantel x Potato Head 在巴厘岛水明漾（Seminyak）的 Desa Potato Head 举办，2026年版定于9月25日。活动地点是佩蒂滕格特海滩（Petitenget beach）上的 Beach Club 舞台，从日落一直持续到深夜的 deep house 和 techno 音乐吸引着来自世界各地的乐迷。预订前请务必在 Dekmantel 和 Desa Potato Head 官网确认具体时间、演出阵容和票务信息。

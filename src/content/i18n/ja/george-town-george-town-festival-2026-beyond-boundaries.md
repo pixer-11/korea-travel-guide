@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: george-town-george-town-festival-2026-beyond-boundaries
-srcHash: 'b51514d073f3'
+srcHash: 'b326c6675add'
 title: ジョージタウン・フェスティバル2026(Beyond Boundaries)とは(ジョージタウン)
 description: マレーシア・ジョージタウンで2026年8月1日から9日にかけて開催予定とされていた「ジョージタウン・フェスティバル2026(Beyond Boundaries)」。その概要と開催時期・場所、発表されていたプログラムをまとめました。
 quickAnswer: 「ジョージタウン・フェスティバル2026(Beyond Boundaries)」は、ペナン島のユネスコ世界遺産地区を舞台に、8月1日から9日までの開催が予定されていました。演劇、ダンス、音楽、アートなど国際色豊かな40以上のプログラムが、歴史的な通りや建物一帯で行われる予定でした。アルメニアン・ストリート(Armenian Street)やラブ・レーン(Love Lane)周辺のヘリテージ地区はほとんどの会場から徒歩圏内にあり、プログラムには無料公演と有料公演の両方が組み込まれていました。

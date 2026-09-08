@@ -98,26 +98,26 @@ Cappadocia is famous for hot-air balloons and fairy-chimney rock formations, but
 
 Very few restaurants anywhere earn both simultaneously, which makes Babayan Evi something of a flagship case study for what Cappadocian dining can be when it leans into its own terroir instead of imitating international menus.
 
-The name itself — "Babayan Evi," roughly "the Babayan family house" — hints at what the inspectors responded to: this reads as a home kitchen scaled up, not a hotel restaurant chasing trends.
+The name itself ("Babayan Evi," roughly "the Babayan family house") hints at what the inspectors responded to: this reads as a home kitchen scaled up, not a hotel restaurant chasing trends.
 
 ## What makes it stand out
 
-The Michelin write-up singles out two things: generosity of portion and depth of respect for local ingredients. In practice, that means the kitchen is built around what the volcanic soils and high plateau of Cappadocia actually produce — the region's dried fruits, legumes, wheat, and pastırma-cured meats, along with vegetables and herbs sourced close to home. Rather than a curated tasting menu of small plates, expect the kind of full, shareable spread associated with a Cappadocian family table.
+The Michelin write-up singles out two things: generosity of portion and depth of respect for local ingredients. In practice, that means the kitchen is built around what the volcanic soils and high plateau of Cappadocia actually produce, the region's dried fruits, legumes, wheat, and pastırma-cured meats, along with vegetables and herbs sourced close to home. Rather than a curated tasting menu of small plates, expect the kind of full, shareable spread associated with a Cappadocian family table.
 
-The Green Star specifically rewards traceability and low-impact sourcing, so seasonal and regional ingredients aren't a marketing line here — they're the entire premise of the menu.
+The Green Star specifically rewards traceability and low-impact sourcing, so seasonal and regional ingredients aren't a marketing line here. They're the entire premise of the menu.
 
-Because the exact dishes and prices aren't fixed publicly in detail and can shift seasonally, it's best to go in expecting traditional Anatolian and Cappadocian home cooking rather than a fixed list of "must-order" items — ask staff what's freshest that day, which is often the better strategy at Bib Gourmand-level spots built around seasonal produce anyway.
+Because the exact dishes and prices aren't fixed publicly in detail and can shift seasonally, it's best to go in expecting traditional Anatolian and Cappadocian home cooking rather than a fixed list of "must-order" items. Ask staff what's freshest that day, which is often the better strategy at Bib Gourmand-level spots built around seasonal produce anyway.
 
 ## Getting there and visiting Cappadocia
 
-Babayan Evi sits within the wider Cappadocia region, most commonly accessed from the towns of Göreme, Ürgüp, or Uçhisar, which serve as the main tourist bases. Cappadocia itself is reached via Nevşehir Kapadokya Airport (NAV) or Kayseri Erkilet Airport (ASR), both roughly 40–70 minutes by road from the main towns, with shuttle transfers widely available for hotel guests. Since Cappadocia's towns are spread across a valley landscape rather than a walkable single center, plan on a taxi, rental car, or hotel transfer to reach the restaurant — ask your accommodation for the exact address and drive time, since exact directions weren't part of the restaurant's public listing details.
+Babayan Evi sits within the wider Cappadocia region, most commonly accessed from the towns of Göreme, Ürgüp, or Uçhisar, which serve as the main tourist bases. Cappadocia itself is reached via Nevşehir Kapadokya Airport (NAV) or Kayseri Erkilet Airport (ASR), both roughly 40–70 minutes by road from the main towns, with shuttle transfers widely available for hotel guests. Since Cappadocia's towns are spread across a valley landscape rather than a walkable single center, plan on a taxi, rental car, or hotel transfer to reach the restaurant. Ask your accommodation for the exact address and drive time, since exact directions weren't part of the restaurant's public listing details.
 
 ## When to go and how to plan
 
-Cappadocia's peak season runs April through June and September through November, when mild weather also makes balloon flights and valley hikes possible before or after a meal — pairing a sunrise balloon ride with a relaxed late lunch is a common rhythm for visitors. Given the fresh Michelin attention, reservations are strongly advised, especially during these shoulder-season months when the region is busiest with international travelers.
+Cappadocia's peak season runs April through June and September through November, when mild weather also makes balloon flights and valley hikes possible before or after a meal, pairing a sunrise balloon ride with a relaxed late lunch is a common rhythm for visitors. Given the fresh Michelin attention, reservations are strongly advised, especially during these shoulder-season months when the region is busiest with international travelers.
 
 Because opening hours, exact pricing, and booking channels for newly listed Michelin restaurants often change in the months right after recognition, confirm current hours and reserve directly with the restaurant or through your hotel concierge rather than relying on older listings.
 
 ## Nearby & tips
 
-Combine a visit with Cappadocia's core sights: the Göreme Open-Air Museum's rock-cut churches, the fairy chimneys of Paşabağı, and the underground city at Derinkuyu or Kaymaklı are all within a manageable drive. If dining in the evening, consider timing it after a sunset viewpoint stop at Uçhisar Castle or Love Valley, both classic pre-dinner vantage points. Dress is casual, but given the restaurant's newfound profile, arriving with a reservation — not walking in hoping for a table — is now the safer bet.
+Combine a visit with Cappadocia's core sights: the Göreme Open-Air Museum's rock-cut churches, the fairy chimneys of Paşabağı, and the underground city at Derinkuyu or Kaymaklı are all within a manageable drive. If dining in the evening, consider timing it after a sunset viewpoint stop at Uçhisar Castle or Love Valley, both classic pre-dinner vantage points. Dress is casual, but given the restaurant's newfound profile, arriving with a reservation, not walking in hoping for a table, is now the safer bet.

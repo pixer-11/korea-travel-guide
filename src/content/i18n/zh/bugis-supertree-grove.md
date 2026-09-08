@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bugis-supertree-grove
-srcHash: '417ea37f6cb8'
+srcHash: 'c9f4ad2605f7'
 title: 滨海湾擎天树丛（Supertree Grove）旅行指南（4.7★）
 description: 擎天树丛位于滨海湾花园（Gardens by the Bay）内，坐落在滨海湾水岸边，紧邻滨海湾金沙酒店。4.7★（54,520条评价）——游客怎么说、开放时间与实用建议，一文看懂。
 quickAnswer: 擎天树丛位于滨海湾花园内，就在滨海湾水岸边，紧邻滨海湾金沙酒店。这里每天5am–2am开放，但真正值得专程前来的理由，是每晚7:45pm和8:45pm上演的免费声光秀“花园交响曲”（Garden Rhapsody）。建议7pm前抵达，趁人群还没涌入时先占一块草坪。

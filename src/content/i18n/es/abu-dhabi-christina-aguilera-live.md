@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-christina-aguilera-live
-srcHash: 'c06f8ff898a7'
+srcHash: '9d1bbd91173e'
 title: 'Christina Aguilera en directo: lo que hay que saber (Abu Dabi)'
 description: Christina Aguilera en directo en Abu Dabi, Emiratos Árabes Unidos, el 25 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizar tu visita.
 quickAnswer: 'Christina Aguilera tiene previsto actuar en el Etihad Arena, en Yas Island (Abu Dabi), el 25 de septiembre de 2026, tras un concierto anterior con las entradas agotadas en los EAU. Considera esta fecha como anunciada pero no confirmada: verifica la hora exacta del show, las categorías de entradas y cualquier cambio en el cartel o los teloneros a través de los canales oficiales del Etihad Arena y de los socios de venta de entradas autorizados antes de reservar vuelos u hoteles. Llega a Yas Island con margen de tiempo de sobra, ya que las noches de conciertos generan mucho tráfico y picos de demanda de VTC en las vías principales de acceso al recinto.'

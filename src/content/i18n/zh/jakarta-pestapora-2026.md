@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-pestapora-2026
-srcHash: 'c3326c9b2986'
+srcHash: '83d8bb7ae91a'
 title: Pestapora 2026完全指南（雅加达）
 description: Pestapora 2026将于2026年9月25日至27日在雅加达举行，这也是该音乐节的第五届。
 quickAnswer: Pestapora 2026将于2026年9月25日至27日在雅加达举行，这是该音乐节的第五届。这是一场为期数天、设有多个舞台的印尼音乐节，由Boss Creator主办，吸引来自印尼全国乃至整个东南亚地区的大量观众——建议提前预订机票、酒店和门票。由于场地、演出时间表、阵容及票价等具体信息通常会分阶段公布，请务必在临近日期时通过Pestapora官方渠道确认最新信息。

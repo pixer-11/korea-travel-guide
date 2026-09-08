@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-chang-kai-bae-beach
-srcHash: 'a8a2521b33e9'
+srcHash: '40d25b4ff9e3'
 title: 'Playa Kai Bae: Guía de Viaje de Koh Chang (4.5★)'
 description: 'La playa Kai Bae se extiende en la costa oeste de Koh Chang, una larga curva de arena clara dividida en tres tramos diferenciados por afloramientos rocosos. 4.5★ (1.351 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La playa Kai Bae se extiende en la costa oeste de Koh Chang, una larga curva de arena clara dividida en tres tramos diferenciados por afloramientos rocosos. Es más tranquila y residencial que Klong Prao o White Sand Beach, cuenta con aguas poco profundas ideales para nadar y una hilera de puestos de mariscos frente al mar. La mejor luz y menos gente se encuentran al amanecer o a última hora de la tarde; el horario oficial es de 5:00 a 18:00 todos los días.

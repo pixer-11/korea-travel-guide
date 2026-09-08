@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-kinu
-srcHash: '39de7ed794d5'
+srcHash: '06e9554bb757'
 title: kinu en Estambul
 description: 'kinu en Estambul, Turquía — un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: kinu es un bar de matcha minimalista en Beyoğlu, Estambul, inaugurado en 2026 por la plataforma local de arte y estilo de vida Illusory Superiority, que se ha convertido rápidamente en uno de los lugares más comentados de la ciudad entre los aficionados al matcha. Conviene ir un día laborable por la mañana o a primera hora de la tarde para evitar la mayor afluencia de público, y confirmar antes de acercarse el horario vigente y si es necesario reservar, ya que en los locales recién abiertos estos detalles cambian con rapidez.

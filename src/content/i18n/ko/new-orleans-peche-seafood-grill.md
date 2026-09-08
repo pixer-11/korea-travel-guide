@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-peche-seafood-grill
-srcHash: 'c6f4963a75f9'
+srcHash: 'fcd89a445643'
 title: '페슈 시푸드 그릴: 뉴올리언스 맛집 추천 (4.6★)'
 description: 페슈 시푸드 그릴(Pêche Seafood Grill)은 웨어하우스 디스트릭트(Warehouse District) 800 Magazine St에 위치하며, 투박한 헌목재 인테리어의 다이닝룸에서 통째로 숯불에 구운 생선과 굴, 걸프 해산물을 맛볼 수 있는 뉴올리언스 대표 맛집입니다. 4.6★ (리뷰 5,714개) — 방문객들의 후기, 영업시간, 방문 팁을 소개합니다.
 quickAnswer: 페슈 시푸드 그릴(Pêche Seafood Grill)은 웨어하우스 디스트릭트(Warehouse District) 800 Magazine St에 위치하며, 투박한 헌목재 인테리어의 다이닝룸에서 통째로 숯불에 구운 생선과 굴, 걸프 해산물을 맛볼 수 있는 뉴올리언스 대표 맛집입니다. 매일 오전 11시부터 오후 10시까지 영업하며, 붐비는 시간을 피하려면 오전 11시에서 오후 1시 사이에 방문하는 것이 좋고, 주말 오후 5시~9시는 대기가 길어지니 피하는 것이 좋습니다. 가격대는 중상급이며, 저녁 시간대에는 대체로 시끄럽고 붐비는 편입니다.

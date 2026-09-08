@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-eurovolley-women-2026-final-stage
-srcHash: '6044af0d4480'
+srcHash: 'fe9e770d4a32'
 title: 'CEV EuroVolley Femenino 2026 en Estambul: fechas, entradas y sede'
 description: Estambul iba a acoger partidos de la fase de grupos y la gran final de la EuroVolley Femenino 2026 en el Sinan Erdem Dome, del 21 de agosto al 6 de septiembre de 2026.
 quickAnswer: Estambul estaba previsto que albergara parte de la fase de grupos y la gran final de la EuroVolley Femenino 2026 en el Sinan Erdem Dome, entre el 21 de agosto y el 6 de septiembre de 2026, con la coronación de las nuevas campeonas prevista para la noche de clausura, el 6 de septiembre. Las entradas se vendían a través de los canales oficiales de la CEV EuroVolley 2026 y de la Federación Turca de Voleibol, y tanto los horarios exactos de los partidos como los grupos asignados a Estambul quedaron fijados en los meses previos al torneo. Un partido combina bien con un día por Kabataş/Beşiktaş, ya que el pabellón se encuentra justo en la costa.

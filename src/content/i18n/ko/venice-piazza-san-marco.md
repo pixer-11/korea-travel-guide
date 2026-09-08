@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: venice-piazza-san-marco
-srcHash: 'be8904e9414d'
+srcHash: '838a25c32902'
 title: '산 마르코 광장(Piazza San Marco): 베네치아 여행 가이드'
 description: 산 마르코 광장은 산 마르코 대성당(St. Mark's Basilica), 캄파닐레 종탑, 두칼레 궁전(Doge's Palace)으로 둘러싸인 베네치아의 웅장한 중심 광장입니다.
 quickAnswer: 산 마르코 광장은 산 마르코 대성당, 캄파닐레 종탑, 두칼레 궁전으로 둘러싸인 베네치아의 웅장한 중심 광장입니다. 인파 없이 둘러보려면 오전 9시 이전이나 저녁 식사 이후에 가는 것이 좋고, 광장과 대성당, 종탑 오르기까지 하려면 반나절 정도는 잡아야 합니다. 평지라 걷기 편하고 입장은 무료이며, 역사지구 어디에서든 도보로, 또는 바포레토(vaporetto)를 타고 산 마르코(San Marco) 정류장에서 내려 갈 수 있습니다.

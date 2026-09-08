@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jiufen-jiufen-old-street
-srcHash: 'e7cc76760930'
+srcHash: '7f66e79a2875'
 title: 'Guía de viaje: la calle vieja de Jiufen'
 description: La calle vieja de Jiufen es un laberinto empinado de casas de té, puestos de comida y miradores entre montaña y mar, engalanado con farolillos, en el distrito de Ruifang, a unos 45-60 minutos de Taipéi.
 quickAnswer: 'La calle vieja de Jiufen es un laberinto empinado de casas de té, puestos de comida y miradores entre montaña y mar, engalanado con farolillos, en el distrito de Ruifang, a unos 45-60 minutos de Taipéi. Es extremadamente popular, así que conviene ir un día entre semana por la mañana o aprovechar el resplandor de los farolillos al atardecer después de las 5 de la tarde en día laborable: las tardes de fin de semana se llenan hasta los topes. Calcule entre 2 y 3 horas, principalmente a pie, y lleve efectivo para los puestos.'

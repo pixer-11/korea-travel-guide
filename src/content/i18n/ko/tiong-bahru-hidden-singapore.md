@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: tiong-bahru-hidden-singapore
-srcHash: 'd39d1122e01b'
+srcHash: 'a54a27634e6a'
 title: 'HIDDEN 싱가포르: 티옹 바루(Tiong Bahru) 여행 가이드 (4.9★)'
 description: HIDDEN 싱가포르는 흔히 예상하는 숍하우스 거리가 아니라 티옹 바루 지구에서 택시나 버스로 잠깐 이동해야 하는 1092 Lower Delta Rd에 위치해 있습니다 — Yong Siak Street에 있다고 착각하기 쉬우니 가기 전에 주소를 꼭 확인하세요. 4.9★ (리뷰 140개) — 방문객들의 후기, 영업시간, 팁을 담았습니다.
 quickAnswer: HIDDEN 싱가포르는 흔히 예상하는 숍하우스 거리가 아니라 티옹 바루 지구에서 택시나 버스로 잠깐 이동해야 하는 1092 Lower Delta Rd에 위치해 있습니다 — Yong Siak Street에 있다고 착각하기 쉬우니 가기 전에 주소를 꼭 확인하세요. 매일 오전 9시부터 오후 5시까지 운영하며, 4.9점의 평점에 리뷰는 140개뿐이라 아직 진짜 숨은 명소라 할 만합니다. 한 시간 정도 시간을 잡고, 평일 오전에 방문한 뒤 티옹 바루의 아르데코 건물들을 둘러보는 코스로 이어가 보세요.

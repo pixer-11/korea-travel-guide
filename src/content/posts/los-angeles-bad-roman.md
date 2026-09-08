@@ -60,7 +60,7 @@ draft: false
 
 Los Angeles has no shortage of Italian restaurants, but Bad Roman was built to be different from the moment you walk in. It's the latest concept from Quality Branded Hospitality, the group behind two of the city's most talked-about restaurants of recent years, Don Angie and Zou Zou's. That pedigree matters: both predecessor restaurants built reputations on bold, design-forward rooms paired with confident, crowd-pleasing cooking, and Bad Roman applies that same playbook to Italian food on a bigger, more theatrical scale.
 
-The signature element is impossible to miss — a giant neon-orange snake motif that winds through the space, anchoring interiors designed to be maximalist almost to the point of sensory overload. Think saturated color, oversized decorative flourishes, and a room engineered as much for spectacle and social media as for quiet conversation. This is dining as entertainment, in the tradition of LA's current wave of "experience-first" restaurants where the design is a headline feature, not a backdrop.
+The signature element is impossible to miss, a giant neon-orange snake motif that winds through the space, anchoring interiors designed to be maximalist almost to the point of sensory overload. Think saturated color, oversized decorative flourishes, and a room engineered as much for spectacle and social media as for quiet conversation. This is dining as entertainment, in the tradition of LA's current wave of "experience-first" restaurants where the design is a headline feature, not a backdrop.
 
 ## Where It Is and Getting There
 
@@ -70,7 +70,7 @@ Most visitors will arrive by car or rideshare, as is typical throughout Los Ange
 
 ## What to Expect When You Visit
 
-Because Bad Roman is a maximalist Italian concept rather than a traditional neighborhood trattoria, expect the menu and overall approach to lean into bold, playful reinterpretations of Italian staples rather than austere, old-world simplicity. Exact dishes, portion sizes, and pricing aren't something to rely on secondhand — menus at newly opened, trend-driven restaurants evolve quickly in the first months, so check the current online menu before your visit rather than planning around outdated details.
+Because Bad Roman is a maximalist Italian concept rather than a traditional neighborhood trattoria, expect the menu and overall approach to lean into bold, playful reinterpretations of Italian staples rather than austere, old-world simplicity. Exact dishes, portion sizes, and pricing aren't something to rely on secondhand, menus at newly opened, trend-driven restaurants evolve quickly in the first months, so check the current online menu before your visit rather than planning around outdated details.
 
 What you can plan around is the atmosphere: this is a restaurant designed for groups, celebrations, and nights out where the room itself is part of the entertainment. If you're picking Bad Roman for a special occasion, a birthday, or simply to experience one of LA's most photographed new interiors, you're choosing correctly. If you want a quiet, low-key dinner, this isn't the room for it.
 
@@ -82,4 +82,4 @@ As with any newly opened restaurant riding a wave of buzz, hours, reservation po
 
 ## Nearby & Practical Tips
 
-Pair a visit with a stroll down Rodeo Drive, a stop at the Beverly Hills Sign in Beverly Gardens Park, or a visit to one of the area's small design and art galleries — all within a short walk or quick drive. Dress code leans toward Beverly Hills' polished-casual norm: put-together but not overly formal. Arrive a few minutes early if you have a reservation, since maximalist, high-demand rooms like this rarely hold tables long past the booked time.
+Pair a visit with a stroll down Rodeo Drive, a stop at the Beverly Hills Sign in Beverly Gardens Park, or a visit to one of the area's small design and art galleries, all within a short walk or quick drive. Dress code leans toward Beverly Hills' polished-casual norm: put-together but not overly formal. Arrive a few minutes early if you have a reservation, since maximalist, high-demand rooms like this rarely hold tables long past the booked time.

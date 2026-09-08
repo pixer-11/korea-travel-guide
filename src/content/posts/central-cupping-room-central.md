@@ -84,7 +84,7 @@ This is a coffee-first operation, and it shows. The menu leans into single-origi
 
 It's rated a solid 4.0 stars across more than a thousand reviews, the kind of consistency that comes from doing a narrow thing well rather than chasing every trend.
 
-Food is not an afterthought either. Expect an all-day brunch menu: eggs done a few ways, toast, salads, pastries alongside the coffee list. It's mid-range pricing for Hong Kong — not cheap, not extravagant — the sort of place you'd choose for a proper sit-down rather than a grab-and-go.
+Food is not an afterthought either. Expect an all-day brunch menu: eggs done a few ways, toast, salads, pastries alongside the coffee list. It's mid-range pricing for Hong Kong (not cheap, not extravagant) the sort of place you'd choose for a proper sit-down rather than a grab-and-go.
 
 ## Getting there
 
@@ -97,12 +97,12 @@ From either station, it's roughly a 10-15 minute walk uphill through PoHo and th
 Hollywood Road itself is worth slow-walking before or after your coffee. Man Mo Temple, with its coiled incense spirals hanging from the ceiling, sits a short stroll away and is one of the district's most recognizable landmarks.
 
 - **Order:** a filter coffee if you want to taste the bean properly, or the flat white if you want something more familiar
-- **Eat:** the brunch plates rather than just a pastry — this is where the kitchen puts its effort
+- **Eat:** the brunch plates rather than just a pastry. This is where the kitchen puts its effort
 - **Pair it with:** a wander through PoHo's small galleries and vintage shops, most within a five-minute walk
 
 ## When to go
 
-Cupping Room opens at 8am on weekdays and 9am on weekends, closing at 6pm every day — so this is strictly a daytime, not an evening, stop. The quietest window is 8-9am on weekdays, right as the doors open and before the office crowd filters in.
+Cupping Room opens at 8am on weekdays and 9am on weekends, closing at 6pm every day, so this is strictly a daytime, not an evening, stop. The quietest window is 8-9am on weekdays, right as the doors open and before the office crowd filters in.
 
 Weekends are busiest between noon and 5pm, when brunch-seekers fill the tables. If you're set on a weekend visit, aim for opening hour instead, since the calm stretches through most of the weekend morning before the midday rush builds.
 
@@ -110,8 +110,8 @@ Weekends are busiest between noon and 5pm, when brunch-seekers fill the tables. 
 
 Skip the weekend lunch rush entirely if you can. Arriving right at 9am on a Saturday or Sunday gets you a table without a wait, and the coffee tastes just as good before the espresso machine is running flat out.
 
-Payment here follows Hong Kong's mixed-city norm — cards and mobile payment (Octopus, Apple Pay) are widely accepted alongside cash, so don't worry about carrying only paper money. Tipping isn't customary in Hong Kong cafés; rounding up isn't expected.
+Payment here follows Hong Kong's mixed-city norm, cards and mobile payment (Octopus, Apple Pay) are widely accepted alongside cash, so don't worry about carrying only paper money. Tipping isn't customary in Hong Kong cafés; rounding up isn't expected.
 
-Order at the counter if it's quiet, but during busier stretches you may be seated first and a server will come to you — watch what the tables around you are doing before assuming either way. The most common visitor mistake is treating this as a quick espresso-to-go stop; it's set up for lingering over a filter coffee and a proper brunch, not a five-minute caffeine hit.
+Order at the counter if it's quiet, but during busier stretches you may be seated first and a server will come to you, watch what the tables around you are doing before assuming either way. The most common visitor mistake is treating this as a quick espresso-to-go stop; it's set up for lingering over a filter coffee and a proper brunch, not a five-minute caffeine hit.
 
 Since this isn't flagged as an undiscovered spot, don't expect to have it to yourself, but the weekday early-morning window is a genuine, reliable way to beat the crowd rather than a secret.

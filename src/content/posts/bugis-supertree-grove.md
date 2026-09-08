@@ -56,15 +56,15 @@ updatedDate: '2026-08-29'
 
 You'll spot the Supertrees long before you reach them. These concrete-and-steel structures rise up to 16 storeys, draped in over 200 species of ferns, orchids, and vines that ripple slightly in the breeze.
 
-By day they're a striking piece of biomimicry — vertical gardens engineered to collect rainwater and generate solar power. By night, they transform into something else entirely: a canopy of light, pulsing and shifting to music that echoes across the park.
+By day they're a striking piece of biomimicry, vertical gardens engineered to collect rainwater and generate solar power. By night, they transform into something else entirely: a canopy of light, pulsing and shifting to music that echoes across the park.
 
-This isn't a quiet corner of Singapore. It's one of the country's most-visited attractions, and the crowds reflect that. Come anyway — just come smart.
+This isn't a quiet corner of Singapore. It's one of the country's most-visited attractions, and the crowds reflect that. Come anyway, just come smart.
 
 ## Getting there from Bugis
 
 The walk from Bugis to Gardens by the Bay takes about 20–25 minutes, tracing the waterfront past the Esplanade and Marina Bay Sands.
 
-If you'd rather not walk in the heat, hop on the MRT from Bugis station (East West/Downtown Line) to Bayfront station on the Circle/Downtown Line — two stops, then a short covered walkway leads straight into the gardens.
+If you'd rather not walk in the heat, hop on the MRT from Bugis station (East West/Downtown Line) to Bayfront station on the Circle/Downtown Line, two stops, then a short covered walkway leads straight into the gardens.
 
 Taxis and ride-hail apps are cheap and plentiful for the same short hop, especially useful after dark when the light show ends and everyone's heading out at once.
 
@@ -72,9 +72,9 @@ Taxis and ride-hail apps are cheap and plentiful for the same short hop, especia
 
 The Supertree Grove itself is free to walk through, day or night, since it sits in the outdoor section of Gardens by the Bay. A few things worth building your visit around:
 
-- **OCBC Skyway** — a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).
-- **Garden Rhapsody** — the free light-and-sound show, nightly at 7:45pm and 8:45pm, projected across the Supertree canopies.
-- **Cloud Forest and Flower Dome** — the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.
+- **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).
+- **Garden Rhapsody**, the free light-and-sound show, nightly at 7:45pm and 8:45pm, projected across the Supertree canopies.
+- **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.
 
 Most visitors spend 45 minutes to an hour at the Grove itself, longer if you add the Skyway or conservatories.
 
@@ -91,9 +91,9 @@ The gardens technically stay open until 2am, so if you miss the shows, a late-ni
 Singaporeans who bring visitors here treat the 7:45pm show as the main event, not an afterthought, and they plan around it.
 
 - **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.
-- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks — cash is rarely used at all in Singapore now.
+- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks, cash is rarely used at all in Singapore now.
 - **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.
 - **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.
-- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around — the paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk.
+- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk.
 
-Because this is such a heavily visited site, don't expect solitude at any hour. The trade-off is that everything — signage, food kiosks, restrooms, transport links — is built to handle big crowds smoothly, so the logistics rarely become a headache even when the lawns are packed.
+Because this is such a heavily visited site, don't expect solitude at any hour. The trade-off is that everything (signage, food kiosks, restrooms, transport links) is built to handle big crowds smoothly, so the logistics rarely become a headache even when the lawns are packed.

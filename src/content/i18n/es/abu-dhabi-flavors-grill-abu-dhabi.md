@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-flavors-grill-abu-dhabi
-srcHash: '60e92926c042'
+srcHash: 'f5060c3d0fdf'
 title: 'Flavors Grill: dónde comer en Abu Dabi (4,9★)'
 description: Flavors Grill Abu Dabi es una parrilla concurrida y muy bien valorada (4,9 estrellas, más de 39.000 reseñas) situada en Mina Street, en la zona de Mina Zayed / Free Zone 2, cerca del puerto, conocida por sus carnes a la parrilla de carbón y sus fuentes de grill mixto a precios de gama media (nivel de precio ~3).
 quickAnswer: Flavors Grill Abu Dabi es una parrilla concurrida y muy bien valorada (4,9 estrellas, más de 39.000 reseñas) situada en Mina Street, en la zona de Mina Zayed / Free Zone 2, cerca del puerto, conocida por sus carnes a la parrilla de carbón y sus fuentes de grill mixto a precios de gama media (nivel de precio ~3). Conviene ir un día entre semana, cerca de la hora de apertura o a media tarde, para evitar el ajetreo de la cena; si se llega después de las 20:00, es probable tener que compartir mesa o esperar turno.

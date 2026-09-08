@@ -70,7 +70,7 @@ updatedDate: '2026-09-02'
 
 ## Why the Canton Tower is worth your time
 
-You spot it long before you arrive. The twisted steel lattice narrows in the middle like a woman's waist, then flares out again near the top — a shape that gave it the nickname "Slender Waist."
+You spot it long before you arrive. The twisted steel lattice narrows in the middle like a woman's waist, then flares out again near the top, a shape that gave it the nickname "Slender Waist."
 
 At 600 metres it was, for a time, the tallest tower of its kind in the world. Today it's still one of the tallest structures anywhere with a public observation deck.
 
@@ -78,7 +78,7 @@ What makes it worth the trip isn't just height. It's the way the Pearl River ben
 
 ## Getting there
 
-The tower has its own metro stop: Canton Tower Station, served by Line 3 and Line APM. Exit directly toward the tower — you can't miss the base of it from the platform.
+The tower has its own metro stop: Canton Tower Station, served by Line 3 and Line APM. Exit directly toward the tower. You can't miss the base of it from the platform.
 
 If you're staying near Yuexiu District or the old town, the ride is short and direct on Line 3. Taxis and ride-hailing apps also drop off right at the entrance plaza, though weekend traffic near the riverside can slow things down.
 
@@ -86,12 +86,12 @@ Many visitors combine the tower with a Pearl River evening cruise, since boat pi
 
 ## What to do once inside
 
-The main draw is the observation decks, stacked at different heights with glass floors and outdoor sky walks on the upper levels. Some sections aren't for anyone uneasy with heights — the glass floor panels have a way of reminding you exactly how far up you are.
+The main draw is the observation decks, stacked at different heights with glass floors and outdoor sky walks on the upper levels. Some sections aren't for anyone uneasy with heights. The glass floor panels have a way of reminding you exactly how far up you are.
 
 - Main indoor observation deck: panoramic city and river views
 - Outdoor "Sky Drop" and bubble tram sections (seasonal/weather-dependent)
 - 4D cinema and light-and-sound elements inside the base
-- Ferris wheel at the tower's summit — reportedly the highest of its kind
+- Ferris wheel at the tower's summit, reportedly the highest of its kind
 
 Give yourself around two hours to ride up, walk the deck, and take in the view without rushing. Longer if you want to catch both daylight and the night lighting.
 
@@ -101,16 +101,16 @@ Late afternoon into early evening is the sweet spot. You get the city in dayligh
 
 Since this attraction still flies under the radar compared to bigger-name towers elsewhere in China, you can often get a sunset slot without the crush of visitors you'd find at more famous observation towers in Shanghai or Tokyo.
 
-Clear, dry evenings give the best visibility across the river — Guangzhou's humidity can haze out long-distance views on muggier days, so check the forecast if photos matter to you.
+Clear, dry evenings give the best visibility across the river, Guangzhou's humidity can haze out long-distance views on muggier days, so check the forecast if photos matter to you.
 
 ## How to visit like a local
 
-Book your ticket online ahead of time rather than queuing at the counter — it saves time and is how most visitors, local and otherwise, handle it now.
+Book your ticket online ahead of time rather than queuing at the counter, it saves time and is how most visitors, local and otherwise, handle it now.
 
 Payment inside is almost entirely digital: WeChat Pay and Alipay dominate, so have one set up if you can, though cash and card are usually still accepted at ticket windows.
 
 The mistake first-timers make is showing up at midday under a flat, bright sun and missing the lighting transition entirely. Aim to be on the deck at least 30 minutes before sunset.
 
-There's no tipping expected anywhere in the tower — standard practice across attractions in mainland China. Dress for temperature swings too: the open-air sky walk sections can be breezy even on a warm Guangzhou evening, and air conditioning indoors runs cold in summer.
+There's no tipping expected anywhere in the tower, standard practice across attractions in mainland China. Dress for temperature swings too: the open-air sky walk sections can be breezy even on a warm Guangzhou evening, and air conditioning indoors runs cold in summer.
 
 If you want a quieter visit, weekday evenings tend to be calmer than weekend nights, when local families and couples turn up in bigger numbers for the light show.

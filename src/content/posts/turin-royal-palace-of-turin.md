@@ -69,21 +69,21 @@ draft: false
 
 ## Why go
 
-The Royal Palace of Turin was the seat of the House of Savoy for over two centuries, and it shows. Gilded ceilings stretch overhead in room after room. Chinese silk panels line one salon, a full ceremonial armory fills another. This isn't a palace you glimpse from a courtyard rope line — you walk straight through the lived-in machinery of a European monarchy.
+The Royal Palace of Turin was the seat of the House of Savoy for over two centuries, and it shows. Gilded ceilings stretch overhead in room after room. Chinese silk panels line one salon, a full ceremonial armory fills another. This isn't a palace you glimpse from a courtyard rope line, you walk straight through the lived-in machinery of a European monarchy.
 
 ## Getting there
 
 The palace stands on Piazzetta Reale, right where Turin's grid of arcaded streets opens onto Piazza Castello. It's a flat, five-minute walk from Porta Nuova via Via Roma, or hop the metro to Porta Susa and walk about ten minutes east.
 
-Trams 4, 13, 15 and 18 all stop within a couple of blocks on Via Po or Piazza Castello. There's no dedicated visitor parking at the palace itself — leave the car in one of the paid garages near Piazza Castello and walk in.
+Trams 4, 13, 15 and 18 all stop within a couple of blocks on Via Po or Piazza Castello. There's no dedicated visitor parking at the palace itself. Leave the car in one of the paid garages near Piazza Castello and walk in.
 
 ## What to see
 
 Start with the state apartments, where the Throne Room and the Hall of Mirrors give you the full gilt-and-crystal treatment. The Royal Armory next door holds one of Europe's best collections of arms and armor, including pieces mounted on life-sized horse models.
 
-Don't rush past the Scala delle Forbici, Filippo Juvarra's scissor staircase — it's a piece of engineering as much as decoration. Outside, the Giardini Reali (Royal Gardens) were redesigned partly by André Le Nôtre, the mind behind Versailles' grounds, and now offer a genuinely quiet green break mid-visit.
+Don't rush past the Scala delle Forbici, Filippo Juvarra's scissor staircase. It's a piece of engineering as much as decoration. Outside, the Giardini Reali (Royal Gardens) were redesigned partly by André Le Nôtre, the mind behind Versailles' grounds, and now offer a genuinely quiet green break mid-visit.
 
-The Palatine Gate and the Cathedral of San Giovanni Battista, home to the Shroud of Turin's chapel, sit just steps from the palace entrance. Combine tickets if you can — the complex links visually and historically.
+The Palatine Gate and the Cathedral of San Giovanni Battista, home to the Shroud of Turin's chapel, sit just steps from the palace entrance. Combine tickets if you can, the complex links visually and historically.
 
 ## When to go
 
@@ -97,11 +97,11 @@ Late spring and early autumn bring mild weather that makes the Royal Gardens wor
 
 Book your entry slot online in advance. As one of Turin's most-visited sights, the palace regularly sells out peak weekend slots, and a pre-booked ticket lets you skip the queue at the door.
 
-Aim for that 9am–10am weekday window if your schedule allows it — you'll often have entire rooms nearly to yourself. Avoid Saturday and Sunday afternoons unless you enjoy shuffling through the state apartments in a slow-moving line.
+Aim for that 9am–10am weekday window if your schedule allows it. You'll often have entire rooms nearly to yourself. Avoid Saturday and Sunday afternoons unless you enjoy shuffling through the state apartments in a slow-moving line.
 
-Payment inside is by card as much as cash these days, and tipping isn't expected at a state museum like this. Dress isn't formally regulated, but bring a light layer — the marble halls run cool even in summer.
+Payment inside is by card as much as cash these days, and tipping isn't expected at a state museum like this. Dress isn't formally regulated, but bring a light layer. The marble halls run cool even in summer.
 
 The mistake most first-time visitors make is treating this as a quick photo stop before the Egyptian Museum across the square. Give the palace itself a proper 90 minutes to two hours; the armory and gardens alone reward slower pacing. If you're touring both the Cathedral and the palace, do the Cathedral first thing in the morning, then move into the palace once its 9am opening crowd has thinned slightly.
 
-Audio guides are available at the ticket desk and worth the small extra cost — the room labels alone don't explain the family history stitched into every ceiling fresco and tapestry.
+Audio guides are available at the ticket desk and worth the small extra cost. The room labels alone don't explain the family history stitched into every ceiling fresco and tapestry.
 

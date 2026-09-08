@@ -58,7 +58,7 @@ This is one of the oldest temples in the city, said to sit on the site of an ear
 
 The main draw is inside the vihara, the ordination hall, where faded mural paintings wrap the interior walls. These aged paintings depict the Reamker, Cambodia's version of the Ramayana epic, alongside scenes from the Buddha's life.
 
-The colours have softened with age — dusty ochres, cracked blues, patches where the plaster has worn through — but the detail rewards a slow look. Look up near the roofline for gilded naga serpents, and take in the peaked, tiered roof typical of Khmer temple architecture.
+The colours have softened with age (dusty ochres, cracked blues, patches where the plaster has worn through), but the detail rewards a slow look. Look up near the roofline for gilded naga serpents, and take in the peaked, tiered roof typical of Khmer temple architecture.
 
 Outside, the grounds are shaded by tall trees, with monks' dormitories, stupas holding ashes of the deceased, and the occasional dog sleeping in a patch of sun. It's a lived-in space, not a roped-off attraction.
 
@@ -68,13 +68,13 @@ Wat Bo sits on Street 22 in the Wat Bo neighbourhood, on the east bank of the Si
 
 From Pub Street or the Old Market area, it's a 15–20 minute walk or a five-minute tuk-tuk ride if you'd rather not walk in the heat. Many boutique hotels and guesthouses cluster in this same leafy residential pocket, so you may already be staying nearby without realizing the temple is around the corner.
 
-There's no fixed entry fee — a small donation toward the temple's upkeep is customary and appreciated.
+There's no fixed entry fee, a small donation toward the temple's upkeep is customary and appreciated.
 
 ## When to go
 
 Early morning is when the light through the trees is softest and monks are often visible doing chores or chanting.
 
-Late afternoon, after 4pm, works too, once the midday heat breaks. Because this is an under-the-radar stop compared with Angkor Wat or Bayon, you're unlikely to deal with tour groups at any hour — but avoid arriving during active ceremonies unless you're invited to observe respectfully.
+Late afternoon, after 4pm, works too, once the midday heat breaks. Because this is an under-the-radar stop compared with Angkor Wat or Bayon, you're unlikely to deal with tour groups at any hour, but avoid arriving during active ceremonies unless you're invited to observe respectfully.
 
 Give yourself enough time to see the murals, walk the grounds, and sit for a few quiet minutes.
 
@@ -90,7 +90,7 @@ Treat Wat Bo as an active place of worship, because that's exactly what it is.
 
 The mistake most visitors make is rushing in during a midday tuk-tuk loop between Angkor temples, snapping a few photos, and leaving in ten minutes. Slow down instead. Sit under one of the shade trees, watch the daily rhythm of the monastery, and let the murals hold your attention longer than a glance.
 
-Pair the visit with a wander through Wat Bo village itself — its quiet lanes, French-era shophouses, and small local cafés make for an easy extension once you've finished at the temple.
+Pair the visit with a wander through Wat Bo village itself, its quiet lanes, French-era shophouses, and small local cafés make for an easy extension once you've finished at the temple.
 
 ## Nearby to combine with your visit
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-orleans-french-market
-srcHash: '2fc9ed0d6bba'
+srcHash: 'd6f6e2aaeb41'
 title: 法国市场（French Market）：新奥尔良旅行指南（4.5★）
 description: 法国市场是法国区（French Quarter）内沿N Peters St绵延六个街区的露天集市，每天10:00-18:00开放，既有出售珠宝、艺术品和纪念品的有顶跳蚤市场，也有售卖果仁糖、辣酱和法式三明治（muffuletta）的美食摊位。4.5★（15,644条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 法国市场是法国区（French Quarter）内沿N Peters St绵延六个街区的露天集市，每天10:00-18:00开放，既有出售珠宝、艺术品和纪念品的有顶跳蚤市场，也有售卖果仁糖、辣酱和法式三明治（muffuletta）的美食摊位。这里游客众多，并非什么小众秘境，所以最好在10点开门时或工作日上午前往，以避开旅游大巴团队。建议预留45-90分钟游览时间，如果想坐下来慢慢享用美食，还需要更多时间。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guangzhou-guangdong-museum
-srcHash: 'aafb42260d3f'
+srcHash: '312e9f08db43'
 title: 'Museo de Guangdong: Guía de viaje de Guangzhou (4,3★)'
 description: 'El Museo de Guangdong se ubica en el distrito financiero de Zhujiang New Town, justo al lado de la Ópera de Guangzhou y la Biblioteca de Guangzhou. 4,3★ (320 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Guangdong se ubica en el distrito financiero de Zhujiang New Town, justo al lado de la Ópera de Guangzhou y la Biblioteca de Guangzhou. Abre de martes a domingo, de 9:00 a 17:00 (cerrado los lunes), y la entrada es gratuita, aunque hay que reservar el boleto en línea o en taquilla. Conviene dedicarle entre dos y tres horas para recorrer con calma las salas de cerámica, talla en madera de Chaozhou e historia natural.

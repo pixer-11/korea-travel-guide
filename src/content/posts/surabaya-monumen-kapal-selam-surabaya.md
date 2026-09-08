@@ -69,27 +69,27 @@ draft: false
 
 Monumen Kapal Selam, known locally as Monkasel, is one of the few places in Southeast Asia where visitors can climb inside a full-sized, retired combat submarine rather than just look at models or photos. The vessel is KRI Pasopati 410, a Whiskey-class submarine built in the Soviet Union and used by the Indonesian Navy from the 1960s through the 1990s during operations to reclaim West Irian.
 
-In 1990 it was cut into sections, transported to Surabaya, and welded back together on land as a static museum — a genuinely unusual bit of military-heritage engineering. With a 4.5 rating across nearly 17,000 reviews, it's firmly established as one of Surabaya's most-visited attractions, so expect company rather than solitude.
+In 1990 it was cut into sections, transported to Surabaya, and welded back together on land as a static museum, a genuinely unusual bit of military-heritage engineering. With a 4.5 rating across nearly 17,000 reviews, it's firmly established as one of Surabaya's most-visited attractions, so expect company rather than solitude.
 
 ## Getting there
 
-Monkasel sits at Jl. Pemuda No. 39, Embong Kaliasin, Kecamatan Genteng — right in Surabaya's downtown core, a short walk from Balai Pemuda (the old Dutch-era social hall) and just a few minutes' drive or ride-hail trip from Tunjungan Plaza mall. The Gubeng railway station is roughly 1–2 km away, making a becak, Grab/Gojek motorbike, or a 15-minute walk all realistic options if you're arriving by train.
+Monkasel sits at Jl. Pemuda No. 39, Embong Kaliasin, Kecamatan Genteng, right in Surabaya's downtown core, a short walk from Balai Pemuda (the old Dutch-era social hall) and just a few minutes' drive or ride-hail trip from Tunjungan Plaza mall. The Gubeng railway station is roughly 1–2 km away, making a becak, Grab/Gojek motorbike, or a 15-minute walk all realistic options if you're arriving by train.
 
 If you're coming from the airport (Juanda), expect a 45–60 minute drive depending on traffic, since it's on the opposite side of the city. There's no dedicated train or metro line to the site, so ride-hailing apps are the most reliable way to arrive without a rental car.
 
 ## What to see and do
 
-The core experience is walking through the submarine itself: you enter and exit through narrow circular hatches and move single-file through the torpedo room, control room, engine room, crew bunks, and periscope station, with original dials, gauges, and machinery still in place. It's tight and low-ceilinged by design — this is real submarine architecture, not a scaled-up replica — so claustrophobic visitors should pace themselves. Signage explains each compartment's function, and a working periscope near the middle of the tour lets you scan the surrounding riverbank and city skyline.
+The core experience is walking through the submarine itself: you enter and exit through narrow circular hatches and move single-file through the torpedo room, control room, engine room, crew bunks, and periscope station, with original dials, gauges, and machinery still in place. It's tight and low-ceilinged by design (this is real submarine architecture, not a scaled-up replica), so claustrophobic visitors should pace themselves. Signage explains each compartment's function, and a working periscope near the middle of the tour lets you scan the surrounding riverbank and city skyline.
 
 Outside the hull, the surrounding park runs along the Kalimas River and includes a small open-air cinema that sometimes screens footage related to the submarine's history, plus benches and food/drink kiosks. Adjacent cafes make it easy to turn the visit into a longer stop rather than a quick photo errand. The whole visit, hull plus grounds, typically takes 45 minutes to just over an hour.
 
 ## When to go
 
-Mornings on weekdays, shortly after opening, are the calmest window — the site draws large domestic tour groups and school trips, particularly on weekends and during school holiday periods, when the narrow passageways inside the sub can back up. Surabaya's tropical climate means the metal hull can get noticeably warm by midday, so an early visit is more comfortable as well as quieter. Because opening hours and ticket prices have shifted over the years, confirm current hours and admission before you go rather than relying on older listings.
+Mornings on weekdays, shortly after opening, are the calmest window, the site draws large domestic tour groups and school trips, particularly on weekends and during school holiday periods, when the narrow passageways inside the sub can back up. Surabaya's tropical climate means the metal hull can get noticeably warm by midday, so an early visit is more comfortable as well as quieter. Because opening hours and ticket prices have shifted over the years, confirm current hours and admission before you go rather than relying on older listings.
 
 ## How to visit like a local
 
 This is a well-known, heavily visited landmark rather than an under-the-radar find, so plan around the crowds instead of expecting to avoid them: arrive at opening or in the last hour before closing for shorter waits at the entry hatch. Tickets are typically bought on-site at a small counter near the entrance, and cash in small denominations is the safest bet, though card or mobile payment acceptance has been expanding at Surabaya attractions generally.
 
-There's usually a single-file flow through the submarine, so let faster-moving visitors pass in tighter sections rather than blocking the passage — a common tourist misstep is lingering too long in the first chamber and creating a bottleneck for everyone behind. Wear flat, closed shoes, since there are steep interior ladders and raised hatch thresholds that catch sandals. After the sub, most visitors sit at the riverside cafes to cool off — that's as much a part of the local routine here as the tour itself, and it's a good time to people-watch rather than rush to the next stop.
+There's usually a single-file flow through the submarine, so let faster-moving visitors pass in tighter sections rather than blocking the passage (a common tourist misstep is lingering too long in the first chamber and creating a bottleneck for everyone behind. Wear flat, closed shoes, since there are steep interior ladders and raised hatch thresholds that catch sandals. After the sub, most visitors sit at the riverside cafes to cool off) that's as much a part of the local routine here as the tour itself, and it's a good time to people-watch rather than rush to the next stop.
 

@@ -57,7 +57,7 @@ You come here for the contrast: thick jungle canopy, the sound of cicadas replac
 
 The park sprawls across the northern and eastern interior of Phu Quoc, so you'll need your own wheels. A rented motorbike from Duong Dong town is the standard approach, taking 30–45 minutes depending on which entrance you're aiming for.
 
-The address given for the park (82JJ+M57) sits deep in the interior — GPS coordinates work better than street directions here. Roads are paved but narrow, and signage thins out fast once you leave the main coastal highway.
+The address given for the park (82JJ+M57) sits deep in the interior, GPS coordinates work better than street directions here. Roads are paved but narrow, and signage thins out fast once you leave the main coastal highway.
 
 If you don't ride, a private car or a hired driver for the day is the easier fallback, especially if you're also stopping at Ham Ninh village or the northern cape.
 
@@ -69,7 +69,7 @@ The park's main draws are its waterfalls, reachable by short forest walks:
 - **Suoi Da Ban** – deeper into the park, with bigger boulders to scramble over and fewer visitors.
 - **Bai Thom forest trails** – for longer hikes if you want real jungle immersion, though trails aren't always well marked.
 
-Wildlife here includes langurs, macaques, hornbills and a genuinely wide range of birdlife — bring binoculars if you're even mildly into birding. The forest is also home to endemic plant species that gave the reserve its UNESCO status.
+Wildlife here includes langurs, macaques, hornbills and a genuinely wide range of birdlife. Bring binoculars if you're even mildly into birding. The forest is also home to endemic plant species that gave the reserve its UNESCO status.
 
 Budget half a day for the waterfalls-and-village loop, or a full day if you want to hike deeper trails and linger by the streams.
 
@@ -77,17 +77,17 @@ Budget half a day for the waterfalls-and-village loop, or a full day if you want
 
 Dry season, November through April, is by far the better window. Trails turn muddy and streams can swell dangerously fast during the May–October rains, and sudden downpours are common in the afternoons.
 
-Mornings are cooler and calmer everywhere in the park — arrive before 10am if you can, both for the temperature and for softer light filtering through the canopy at the falls.
+Mornings are cooler and calmer everywhere in the park. Arrive before 10am if you can, both for the temperature and for softer light filtering through the canopy at the falls.
 
 ## How to visit like a local
 
 There's no ticket booth or gate crowd to navigate here, so timing is about comfort, not crowds. Locals riding out this way tend to go early morning or late afternoon, avoiding the flat midday heat that makes the unshaded stretches punishing.
 
-- **Wear proper footwear** — sandals slip on the wet granite at Suoi Tranh and Suoi Da Ban.
+- **Wear proper footwear**, sandals slip on the wet granite at Suoi Tranh and Suoi Da Ban.
 - **Bring cash** small bills for any roadside stalls or informal parking near the trailheads.
 - **Fill your fuel tank** in Duong Dong before heading out; there's nothing reliable inside the park.
-- **Pack water and snacks** — services thin out fast once you're off the main road.
+- **Pack water and snacks**, services thin out fast once you're off the main road.
 
-Ask locally for the current condition of the Bai Thom trails before attempting them — they're not always maintained, and a wrong turn in dense forest is a real risk, not a minor inconvenience. Combine your visit with Ham Ninh village, a short ride from the park's eastern edge, for grilled seafood and a look at the island's fishing life away from the resort strip.
+Ask locally for the current condition of the Bai Thom trails before attempting them. They're not always maintained, and a wrong turn in dense forest is a real risk, not a minor inconvenience. Combine your visit with Ham Ninh village, a short ride from the park's eastern edge, for grilled seafood and a look at the island's fishing life away from the resort strip.
 
 Because this is genuinely a quieter corner of Phu Quoc, treat it with the same care you'd give any protected reserve: pack out your rubbish, keep a respectful distance from wildlife, and stick to marked paths where they exist.

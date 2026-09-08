@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-post-malone-big-ass-world-tour
-srcHash: '5a093c70622a'
+srcHash: '299b1ecf2aa9'
 title: 'Post Malone – Big Ass World Tour: fechas, entradas y recinto (Kaohsiung)'
 description: Post Malone llega a Kaohsiung, Taiwán, con su Big Ass World Tour el 19 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
 quickAnswer: 'Post Malone se presenta en el Estadio Nacional de Kaohsiung el 19 de septiembre de 2026, dentro del tramo asiático de su Big Ass World Tour. Compra las entradas únicamente a través de los canales oficiales del promotor o del artista una vez se anuncien, y confirma cerca de la fecha los horarios exactos de apertura de puertas, el mapa de asientos y los precios. El recinto es el emblemático estadio de energía solar de Kaohsiung, situado en el distrito de Zuoying: conviene planear el viaje en torno a esta única gran noche de concierto, no como si fuera un fin de semana de festival.'

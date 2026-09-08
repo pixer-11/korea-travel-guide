@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-post-malone-big-ass-world-tour
-srcHash: 'dc39bb000589'
+srcHash: '32b4195d69b3'
 title: '포스트 말론 – BIG ASS 월드 투어: 알아야 할 것들 (싱가포르)'
 description: 포스트 말론의 BIG ASS 월드 투어 싱가포르 공연 — 2026년 9월 25일. 공연 개요, 일시와 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 포스트 말론이 2026년 9월 25일 싱가포르 내셔널 스타디움(National Stadium)에서 BIG ASS 월드 투어를 펼칩니다. 서포트 액트로는 돈 톨리버(Don Toliver)가 함께하며, 이는 2023년 F1 싱가포르 그랑프리 게스트 출연 이후 그의 첫 단독 헤드라이너 공연입니다. 스타디움 MRT역(서클 라인)을 이용해 칼랑(Kallang)/스타디움 지구로 이동하고, 출발 전 공식 Ticketmaster/SportsHub Singapore 채널에서 정확한 게이트 시간, 티켓 등급, 막바지 변경 사항을 확인하세요.

@@ -53,32 +53,32 @@ aiGenerated: true
 draft: false
 ---
 
-You feel the temperature drop before your eyes adjust. Stepping off Via Capodimonte and down into the tufo rock, the noise of Neapolitan traffic falls away almost instantly, replaced by the hush of a space that has been receiving the dead — and the devout — since the 2nd century. This is one of the oldest and largest catacomb complexes in southern Italy, carved directly into the volcanic hillside beneath the Capodimonte district, and it predates the more famous catacombs of Rome in parts of its construction.
+You feel the temperature drop before your eyes adjust. Stepping off Via Capodimonte and down into the tufo rock, the noise of Neapolitan traffic falls away almost instantly, replaced by the hush of a space that has been receiving the dead, and the devout, since the 2nd century. This is one of the oldest and largest catacomb complexes in southern Italy, carved directly into the volcanic hillside beneath the Capodimonte district, and it predates the more famous catacombs of Rome in parts of its construction.
 
 ## Why go
 
 What sets San Gennaro apart from a generic "old cemetery" is scale and light. The corridors open into broad, vaulted basilica-like halls with actual daylight wells cut into the rock above, something you rarely find in underground burial sites. Look up and you'll catch shafts of sun filtering down onto faded frescoes and mosaic-covered tombs. The site takes its name from Saint Januarius (San Gennaro), Naples' patron saint, whose relics were moved here in the 5th century, turning what had been a private burial ground into a major pilgrimage destination.
 
-You'll see some of the earliest known Christian portrait art in southern Italy — funerary paintings of the deceased, remarkably intact after 1,600-plus years, alongside faded but legible Byzantine-era mosaics near the lower basilica.
+You'll see some of the earliest known Christian portrait art in southern Italy, funerary paintings of the deceased, remarkably intact after 1,600-plus years, alongside faded but legible Byzantine-era mosaics near the lower basilica.
 
 ## Getting there
 
-The catacombs sit at Via Capodimonte, 13, on the northern ridge above central Naples. From Piazza Cavour or Museo (both stops on Metro Line 1 and Line 2), it's roughly a 15-20 minute uphill walk, or you can take one of the city buses that run up Via Capodimonte toward the Museo di Capodimonte — ask your accommodation which route currently serves the stop nearest the entrance, since bus numbers shift.
+The catacombs sit at Via Capodimonte, 13, on the northern ridge above central Naples. From Piazza Cavour or Museo (both stops on Metro Line 1 and Line 2), it's roughly a 15-20 minute uphill walk, or you can take one of the city buses that run up Via Capodimonte toward the Museo di Capodimonte. Ask your accommodation which route currently serves the stop nearest the entrance, since bus numbers shift.
 
 A taxi from the historic center runs about 10 minutes. Because the site sits right beside the Bosco di Capodimonte park and the Capodimonte Museum, most visitors combine the two into one uphill excursion rather than a standalone trip.
 
 ## What to see inside
 
-Entry is by guided tour only — you cannot wander freely, and tours run on a set timetable rather than continuous entry, so arriving at a random hour may mean a wait. The walk takes you through two levels: the upper basilica, built around the tomb of San Gennaro himself, and the lower level with its 2nd-century pagan-turned-Christian tombs, including the striking "vescovado," a corridor of bishops' tombs.
+Entry is by guided tour only. You cannot wander freely, and tours run on a set timetable rather than continuous entry, so arriving at a random hour may mean a wait. The walk takes you through two levels: the upper basilica, built around the tomb of San Gennaro himself, and the lower level with its 2nd-century pagan-turned-Christian tombs, including the striking "vescovado," a corridor of bishops' tombs.
 
-Guides (included in the ticket) point out details easy to miss alone — deliberately damaged frescoes from Christian-era reworking of older pagan imagery, niche graves stacked floor to ceiling, and the wide central nave that was likely used for communal funerary banquets in antiquity. Budget 60-75 minutes for the tour itself, plus time either side for the walk up and back down.
+Guides (included in the ticket) point out details easy to miss alone, deliberately damaged frescoes from Christian-era reworking of older pagan imagery, niche graves stacked floor to ceiling, and the wide central nave that was likely used for communal funerary banquets in antiquity. Budget 60-75 minutes for the tour itself, plus time either side for the walk up and back down.
 
 ## When to go
 
-Mornings on weekdays tend to be calmer before tour groups arriving from cruise excursions and school groups build through midday. Given the site's popularity — a 4.7 rating across more than 13,000 reviews — you should expect a genuinely busy attraction rather than a quiet corner of the city, especially April through October. If your schedule allows it, an early slot lets you hear the guide clearly in the vaulted chambers without a crowd's echo competing.
+Mornings on weekdays tend to be calmer before tour groups arriving from cruise excursions and school groups build through midday. Given the site's popularity (a 4.7 rating across more than 13,000 reviews) you should expect a genuinely busy attraction rather than a quiet corner of the city, especially April through October. If your schedule allows it, an early slot lets you hear the guide clearly in the vaulted chambers without a crowd's echo competing.
 
 ## How to visit like a local
 
-Book your tour slot online in advance rather than turning up hoping to join the next group — tours have capacity limits and sell out on weekends and holidays. Tickets are typically paid by card at the entrance or already settled at online booking; carrying a bit of cash is still sensible in Naples generally, though not essential here. Dress modestly, as this remains consecrated ground and the tomb of a saint — shoulders and knees covered is the safe default.
+Book your tour slot online in advance rather than turning up hoping to join the next group (tours have capacity limits and sell out on weekends and holidays. Tickets are typically paid by card at the entrance or already settled at online booking; carrying a bit of cash is still sensible in Naples generally, though not essential here. Dress modestly, as this remains consecrated ground and the tomb of a saint) shoulders and knees covered is the safe default.
 
-Wear shoes with grip, since some stone floors and steps are uneven and worn smooth by centuries of feet. The most common visitor mistake is treating this as a quick add-on and rushing the walk up from Capodimonte metro stops in the heat — instead, combine it deliberately with the Capodimonte Museum and its royal park for a full, unhurried half-day on the hill, and confirm current tour times and prices on the official site before you go, since schedules are adjusted seasonally.
+Wear shoes with grip, since some stone floors and steps are uneven and worn smooth by centuries of feet. The most common visitor mistake is treating this as a quick add-on and rushing the walk up from Capodimonte metro stops in the heat, instead, combine it deliberately with the Capodimonte Museum and its royal park for a full, unhurried half-day on the hill, and confirm current tour times and prices on the official site before you go, since schedules are adjusted seasonally.

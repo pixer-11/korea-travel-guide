@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-sen-den-restaurant
-srcHash: '4fe732239ea3'
+srcHash: 'aeb5c7c0c4f2'
 title: 伊斯坦布尔 Sen'den 餐厅
 description: Sen'den 是卡拉柯伊（Karaköy）新开业的一家餐厅，坐落在修复后的19世纪建筑霍瓦吉米扬商栈（Hovagimyan Han）内，将奥斯曼时期的历史建筑与现代精致餐饮理念融为一体。
 quickAnswer: Sen'den 是卡拉柯伊新开业的一家餐厅，坐落在修复后的19世纪建筑霍瓦吉米扬商栈内，将奥斯曼时期的历史建筑与现代精致餐饮理念融为一体。最适合在夜晚前往，与周边的画廊、酒吧、博斯普鲁斯海峡沿岸咖啡馆一起，构成一次完整的卡拉柯伊夜游体验。由于餐厅于2026年开业，前往之前请务必直接向餐厅确认最新的营业时间、菜单及预订政策。

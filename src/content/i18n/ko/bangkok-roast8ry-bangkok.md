@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-roast8ry-bangkok
-srcHash: '0d0adafe4e4c'
+srcHash: '603333b2db43'
 title: '로스트8리(Roast8ry): 방콕 여행 가이드'
 description: 태국 방콕에 새로 생긴 화제의 공간, 로스트8리 방콕(Roast8ry Bangkok)을 소개합니다. 어떤 곳인지, 어디에 있는지, 어떻게 찾아가면 되는지 알려드립니다.
 quickAnswer: 로스트8리 방콕(Roast8ry Bangkok)은 2017년 월드 라떼 아트 챔피언 아논 티티프라셋(Arnon Thitiprasert)이 세운 치앙마이의 유명 스페셜티 커피 브랜드가 방콕에 처음으로 낸 매장으로, 차이나타운 송왓(Song Wat) 인근의 오래된 숍하우스 골목에 자리하고 있습니다. 대회 수준의 에스프레소와 핸드드립을 맛볼 수 있고, 마시기 전에 사진부터 찍고 싶어질 만큼 정교한 라떼 아트도 기대해 볼 만합니다. 새로 문을 연 곳이라 초반에는 운영 시간이 자주 바뀔 수 있으니, 방문 전에 미리 최신 정보를 확인하는 것이 좋습니다.

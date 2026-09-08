@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-huiyyou-waffle
-srcHash: 'c5bd23ac301a'
+srcHash: '8d55247cea54'
 title: 'Huiyyou Waffle (輝葉屋): Guía de viaje de Taipéi'
 description: 'Huiyyou Waffle (輝葉屋) en Taipéi, Taiwán — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Huiyyou Waffle (輝葉屋) es el puesto de Taipéi detrás de los gofres gruesos al estilo coreano rellenos de crema por los que ahora los locales hacen fila por decenas — el local ha llegado a producir hasta 1.500 gofres en un solo día y ha sacado más de 100 sabores desde que abrió en 2022. Es lo bastante popular como para acabar de abrir una sucursal en Hong Kong, así que espera fila; ve un día laborable por la mañana o a primera hora de la tarde si quieres evitar lo peor, y confirma el horario actual y si aceptan reservas antes de ir.

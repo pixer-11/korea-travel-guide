@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seattle-the-pink-door
-srcHash: '061af259198e'
+srcHash: 'a13bce7696b7'
 title: 粉红之门(The Pink Door):西雅图美食指南
 description: 粉红之门(The Pink Door)是隐藏在派克市场(Pike Place Market)波斯特巷(Post Alley)深处、没有招牌的意大利小餐馆，以能眺望艾略特湾(Elliott Bay)的露台、经典红酱菜肴，以及每晚在餐厅上空上演的歌舞表演和空中飞人杂技而闻名。
 quickAnswer: 粉红之门(The Pink Door)是隐藏在派克市场(Pike Place Market)波斯特巷(Post Alley)深处、没有招牌的意大利小餐馆，以能眺望艾略特湾(Elliott Bay)的露台、经典红酱菜肴，以及每晚在餐厅上空上演的歌舞表演和空中飞人杂技而闻名。它周日和周一不营业，所以要计划在周二至周六前往（11:30am–11:30pm）；由于整个周末都非常繁忙（周六尤甚，11:30am–9pm），建议提前订位，或者在刚开门时到场碰碰运气看能否直接入座。

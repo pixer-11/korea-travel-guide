@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: 'e589782430eb'
+srcHash: '809e7c8a1c81'
 title: 'Babylon Soundgarden 2026 con Jack White, Wet Leg y The Kills: lo que hay que saber (Estambul)'
 description: Babylon Soundgarden 2026 estaba previsto para el 22 y 23 de agosto de 2026 en el Parkorman Nature Park de Estambul, con Jack White, Wet Leg y The Kills como cabezas de cartel.
 quickAnswer: Babylon Soundgarden 2026 estaba previsto para el 22 y 23 de agosto de 2026 en el Parkorman Nature Park, en la zona de Maslak/Sarıyer de Estambul, con Jack White, Wet Leg y The Kills entre los cabezas de cartel anunciados. Los organizadores programaron un festival al aire libre de dos días en un recinto boscoso del lado europeo de la ciudad. Se llega fácilmente a Parkorman en taxi o servicio de transporte privado desde Levent y Maslak.

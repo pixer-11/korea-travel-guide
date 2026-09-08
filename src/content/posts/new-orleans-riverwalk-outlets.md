@@ -52,17 +52,17 @@ draft: false
 
 You come here for two things: outlet-price shopping and a genuine river view. Riverwalk Outlets stretches nearly a mile along the Mississippi, and its back windows frame passing tankers and paddlewheelers instead of a parking lot.
 
-It's a shopping mall first, but the setting sets it apart from any strip mall back home. Locals don't claim it as their own — it's built for visitors, and it shows in the crowd.
+It's a shopping mall first, but the setting sets it apart from any strip mall back home. Locals don't claim it as their own. It's built for visitors, and it shows in the crowd.
 
 ## Getting there
 
 The address is 500 Port of New Orleans Pl, right behind the Ernest N. Morial Convention Center. If you're staying in the French Quarter, it's a flat 15–20 minute walk along the river.
 
-The RTA Riverfront streetcar line stops directly outside, connecting to the Quarter and the Warehouse District for a couple of dollars. Drivers will find a parking garage on site, though during conventions it fills fast — arrive early or expect a short wait.
+The RTA Riverfront streetcar line stops directly outside, connecting to the Quarter and the Warehouse District for a couple of dollars. Drivers will find a parking garage on site, though during conventions it fills fast. Arrive early or expect a short wait.
 
 ## What's inside
 
-Expect the usual outlet roster: Nike, Coach, Michael Kors, Polo Ralph Lauren, and a Saks Off 5th anchor, alongside a food court and a few New Orleans-specific gift shops. It's not a design destination — it's a place to knock out discounted shopping in air conditioning.
+Expect the usual outlet roster: Nike, Coach, Michael Kors, Polo Ralph Lauren, and a Saks Off 5th anchor, alongside a food court and a few New Orleans-specific gift shops. It's not a design destination. It's a place to knock out discounted shopping in air conditioning.
 
 The real draw is what's just outside the back doors:
 
@@ -76,7 +76,7 @@ Step outside after browsing and the humid river air, the low horn of a passing b
 
 Confirm hours directly before you go, since large events at the neighboring Convention Center can shift both opening times and foot traffic.
 
-Because this is a heavily trafficked, very popular spot, weekend afternoons draw the thickest crowds — tour groups off nearby cruise ships and convention attendees on breaks. Come right at opening on a weekday morning if you want the corridors to yourself.
+Because this is a heavily trafficked, very popular spot, weekend afternoons draw the thickest crowds, tour groups off nearby cruise ships and convention attendees on breaks. Come right at opening on a weekday morning if you want the corridors to yourself.
 
 ## How to visit like a local
 
@@ -84,9 +84,9 @@ Treat it as a functional stop, not a boutique crawl. Here's how to move through 
 
 - **Time it right:** weekday mornings, shortly after opening, are calmest; weekend midday is when lines and crowding peak.
 - **Pay smart:** all major cards and mobile wallets work everywhere; cash is rarely necessary.
-- **Skip the line:** many outlet stores here run their own app-based coupons — check before you check out, since staff won't always volunteer discounts.
+- **Skip the line:** many outlet stores here run their own app-based coupons. Check before you check out, since staff won't always volunteer discounts.
 - **Combine your trip:** pair it with a walk along the river boardwalk or a ride on the historic Riverfront streetcar rather than making the mall itself the whole outing.
-- **Avoid the rookie mistake:** don't come expecting a quintessential New Orleans experience — this is a national outlet chain with a river view, not a local institution. Save your cultural time for the Quarter or Garden District.
+- **Avoid the rookie mistake:** don't come expecting a quintessential New Orleans experience. This is a national outlet chain with a river view, not a local institution. Save your cultural time for the Quarter or Garden District.
 
 If you're near the Convention Center for a trade show, this is the easiest lunch-and-shop break within walking distance. Otherwise, treat it as a half-hour detour bolted onto a riverfront stroll rather than a destination in its own right.
 
@@ -94,9 +94,9 @@ If you're near the Convention Center for a trade show, this is the easiest lunch
 
 Once you've shopped, the surrounding blocks give you more reason to linger:
 
-- **Spanish Plaza** — fountains and mosaic tile just steps away
-- **French Quarter** — a 15–20 minute walk along the water
-- **Warehouse District** — museums and galleries a few blocks inland
-- **Riverfront streetcar** — hop on for a scenic ride in either direction
+- **Spanish Plaza**, fountains and mosaic tile just steps away
+- **French Quarter**, a 15–20 minute walk along the water
+- **Warehouse District**, museums and galleries a few blocks inland
+- **Riverfront streetcar**, hop on for a scenic ride in either direction
 
 Two hours covers the shops comfortably; add another hour if you want to walk the riverfront path in both directions.

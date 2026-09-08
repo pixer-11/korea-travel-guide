@@ -72,7 +72,7 @@ draft: false
 
 You come to Stanley Market for the maze, not the merchandise. The moment you duck off Stanley Main Street into the covered alley, the light drops, the ceiling closes in, and stalls press in from both sides selling everything from cheongsams to phone cases.
 
-It's a genuinely old-school Hong Kong street market — no glass storefronts, no air conditioning to speak of, just canvas awnings and hand-painted signs. With over 8,000 reviews and a solid 4-star rating, it's clearly well-visited, but the appeal is exactly this unpolished, slightly chaotic texture.
+It's a genuinely old-school Hong Kong street market, no glass storefronts, no air conditioning to speak of, just canvas awnings and hand-painted signs. With over 8,000 reviews and a solid 4-star rating, it's clearly well-visited, but the appeal is exactly this unpolished, slightly chaotic texture.
 
 ## Getting there
 
@@ -90,14 +90,14 @@ The market itself runs along Stanley New Street, just steps from where the buses
 
 The stalls blur together at first glance, but a few categories are worth slowing down for.
 
-- **Silk and linen clothing** — cheongsams, robes, and tailored shirts at negotiable prices
-- **Souvenirs and crafts** — chops (carved name stamps), lacquerware, painted fans
-- **Casual and outdoor brands** — Stanley has long had a reputation for discounted sportswear and outlet finds
-- **Knock-off accessories** — bags and watches that vendors will not call fakes, but you'll know
+- **Silk and linen clothing**, cheongsams, robes, and tailored shirts at negotiable prices
+- **Souvenirs and crafts**, chops (carved name stamps), lacquerware, painted fans
+- **Casual and outdoor brands**, Stanley has long had a reputation for discounted sportswear and outlet finds
+- **Knock-off accessories**, bags and watches that vendors will not call fakes, but you'll know
 
 Bargaining is expected almost everywhere here. Vendors quote high to tourists as an opening move, not a final offer.
 
-Beyond the market itself, the lanes spill out toward Stanley's waterfront promenade, where Murray House — a relocated colonial-era building — now houses restaurants with harbour views. Stanley's Tin Hau Temple, one of Hong Kong's older seaside temples, is a short walk further along and worth the detour.
+Beyond the market itself, the lanes spill out toward Stanley's waterfront promenade, where Murray House, a relocated colonial-era building, now houses restaurants with harbour views. Stanley's Tin Hau Temple, one of Hong Kong's older seaside temples, is a short walk further along and worth the detour.
 
 ## When to go
 
@@ -111,12 +111,12 @@ Plan on an hour for the market itself, longer if you're bargaining seriously or 
 
 ## How to visit like a local
 
-Cash still moves faster than cards here — most stallholders accept it without hesitation, though some now take mobile payments for larger items. Carry small notes; it speeds up haggling and avoids awkward change disputes.
+Cash still moves faster than cards here, most stallholders accept it without hesitation, though some now take mobile payments for larger items. Carry small notes; it speeds up haggling and avoids awkward change disputes.
 
-Bargaining is the local etiquette, not an insult. Start at roughly half the quoted price and meet somewhere in the middle — vendors expect the back-and-forth and often enjoy it more than a silent transaction.
+Bargaining is the local etiquette, not an insult. Start at roughly half the quoted price and meet somewhere in the middle, vendors expect the back-and-forth and often enjoy it more than a silent transaction.
 
 The mistake most visitors make is treating the market as the entire destination and leaving straight after. Locals treat it as a warm-up: browse the lanes, then walk five minutes to the waterfront for the actual view and a sit-down meal.
 
-Avoid the narrow main alley between noon and 5pm on weekends if you dislike crowds — duck into the side lanes instead, where the same vendors sell at the same prices with far less elbow-to-elbow squeezing.
+Avoid the narrow main alley between noon and 5pm on weekends if you dislike crowds, duck into the side lanes instead, where the same vendors sell at the same prices with far less elbow-to-elbow squeezing.
 
 Wear something you can layer or peel off easily; the covered lanes trap heat, especially from spring through early autumn, and there's little airflow once you're deep inside.

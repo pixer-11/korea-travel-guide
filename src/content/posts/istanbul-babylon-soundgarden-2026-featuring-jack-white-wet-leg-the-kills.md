@@ -43,7 +43,7 @@ It was a rare chance to catch acts of this caliber in an open-air park setting r
 
 ## Getting there
 
-The festival was set for **Parkorman Nature Park**, a large green events venue tucked into forest on Istanbul's European side, near Maslak and Ayazağa in the Sarıyer district — the same general area used for other big outdoor concerts and festivals in the city. It sits roughly 20–25 minutes by car or taxi from Levent and Şişli, and about 30–40 minutes from central spots like Taksim or Beşiktaş depending on traffic, which can be heavy on festival evenings.
+The festival was set for **Parkorman Nature Park**, a large green events venue tucked into forest on Istanbul's European side, near Maslak and Ayazağa in the Sarıyer district, the same general area used for other big outdoor concerts and festivals in the city. It sits roughly 20–25 minutes by car or taxi from Levent and Şişli, and about 30–40 minutes from central spots like Taksim or Beşiktaş depending on traffic, which can be heavy on festival evenings.
 
 Practical routes:
 - **Taxi/rideshare (BiTaksi, Uber)** from Levent, Maslak or Zincirlikuyu is the simplest option and typically how most attendees reach the park.
@@ -66,4 +66,4 @@ The announced dates were **August 22–23, 2026**.
 - **Where to stay**: Levent, Maslak, Etiler and Nişantaşı are the closest upscale neighborhoods with good hotel options and easy taxi access to Parkorman; old-city areas like Sultanahmet mean a longer commute each night.
 - **Sightseeing nearby**: With the festival programme running only two days, the historic peninsula (Hagia Sophia, Topkapı Palace, the Grand Bazaar) and a Bosphorus cruise sit a taxi or metro ride away, and many international visitors bookend Soundgarden with them.
 - **Cash and cards**: Turkish lira is standard for vendors on-site; some cash is useful for smaller food stalls even though card payments are increasingly common in Istanbul.
-- **Heat**: Late August in Istanbul is still summer — sunscreen, water, and comfortable footwear for standing on grass/dirt terrain matter more than festival fashion.
+- **Heat**: Late August in Istanbul is still summer, sunscreen, water, and comfortable footwear for standing on grass/dirt terrain matter more than festival fashion.

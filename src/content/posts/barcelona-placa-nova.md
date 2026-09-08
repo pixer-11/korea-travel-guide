@@ -44,7 +44,7 @@ updatedDate: '2026-08-28'
 
 Most visitors rush past this square on the way to the Cathedral doors. That's the mistake. Plaça Nova is where Barcelona actually shows you its layers, if you stop for even five minutes.
 
-Stand in the middle and look up. On one side, two round Roman towers flank a stretch of the old city wall, the oldest visible fragment of Barcino still standing. On the other, the neo-Gothic façade of the Cathedral of the Holy Cross and Saint Eulalia rises in pale stone. Between them, one modern building carries a graffiti-style frieze designed by Pablo Picasso — a strange, playful contrast against 2,000 years of masonry.
+Stand in the middle and look up. On one side, two round Roman towers flank a stretch of the old city wall, the oldest visible fragment of Barcino still standing. On the other, the neo-Gothic façade of the Cathedral of the Holy Cross and Saint Eulalia rises in pale stone. Between them, one modern building carries a graffiti-style frieze designed by Pablo Picasso, a strange, playful contrast against 2,000 years of masonry.
 
 ## What you'll actually see here
 
@@ -65,18 +65,18 @@ The nearest metro stop is Jaume I on Line 4, about a 5-minute walk through the G
 
 ## When to go
 
-Because it sits right at the Cathedral's front door, Plaça Nova fills up whenever tour groups gather for the façade photo. Early morning, before 10am, is your best window — soft light on the stone, and space to actually see the Roman towers without a sea of raised phones. Sunday mornings can also bring a small antiques market to the square, which is worth timing a visit around if you enjoy browsing.
+Because it sits right at the Cathedral's front door, Plaça Nova fills up whenever tour groups gather for the façade photo. Early morning, before 10am, is your best window, soft light on the stone, and space to actually see the Roman towers without a sea of raised phones. Sunday mornings can also bring a small antiques market to the square, which is worth timing a visit around if you enjoy browsing.
 
 Avoid midday in high season if you can. The stone throws off heat, there's little shade, and cruise-ship groups tend to cluster here between late morning and early afternoon.
 
 ## How to visit like a local
 
-Treat Plaça Nova as a pause, not a destination — that's genuinely how it works best.
+Treat Plaça Nova as a pause, not a destination. That's genuinely how it works best.
 
 - **Time it early.** Locals who cut through here on their way to work do it before 9am, when the square is closer to a quiet crossroads than a photo stop.
-- **Look down, not just up.** Set into the pavement near the towers are small markers noting the old Roman city boundary — easy to miss if you're only looking at the façade.
+- **Look down, not just up.** Set into the pavement near the towers are small markers noting the old Roman city boundary, easy to miss if you're only looking at the façade.
 - **Skip the guided-tour scrum.** Free walking tours often start or pause here; if you see a group gathering with umbrellas or laminated signs, wait ten minutes or walk the block and come back.
-- **No ticket, no fee.** This is an open public square, so there's nothing to book and nothing to pay — the only cost is your time.
+- **No ticket, no fee.** This is an open public square, so there's nothing to book and nothing to pay. The only cost is your time.
 - **Continue on foot.** Locals rarely stop for long; they use the square as the gateway into Carrer del Bisbe and the Gothic Quarter beyond. Do the same and you'll blend right in.
 
-Because it's still relatively under-the-radar compared to the Cathedral steps themselves, Plaça Nova rewards anyone willing to actually stand still here for a minute instead of walking straight through. Bring a wide-angle lens or just tilt your phone back — the towers are taller than they look from the street, and most people miss them entirely on their way to something more famous next door.
+Because it's still relatively under-the-radar compared to the Cathedral steps themselves, Plaça Nova rewards anyone willing to actually stand still here for a minute instead of walking straight through. Bring a wide-angle lens or just tilt your phone back. The towers are taller than they look from the street, and most people miss them entirely on their way to something more famous next door.

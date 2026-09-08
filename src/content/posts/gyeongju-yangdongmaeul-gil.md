@@ -45,7 +45,7 @@ The layout itself is the attraction: houses are arranged along the natural conto
 
 ## Getting there
 
-Yangdongmaeul-gil sits in Gangdong-myeon, about 16 km (roughly 40 minutes by car) northeast of downtown Gyeongju. Driving is the most practical option — there's a paid parking lot at the village entrance where the road terminates. Public buses run from Gyeongju Intercity Bus Terminal but are infrequent (often hourly or less), so check the current schedule before relying on one, or budget extra time.
+Yangdongmaeul-gil sits in Gangdong-myeon, about 16 km (roughly 40 minutes by car) northeast of downtown Gyeongju. Driving is the most practical option. There's a paid parking lot at the village entrance where the road terminates. Public buses run from Gyeongju Intercity Bus Terminal but are infrequent (often hourly or less), so check the current schedule before relying on one, or budget extra time.
 
 A taxi from central Gyeongju is a reasonable alternative if you're not renting a car, and many visitors combine the trip with a rental car day that also covers Bulguksa or Yangnam's coastline. There is no direct KTX or subway connection; the nearest major rail hub is Singyeongju Station, from which you'd still need a taxi or bus transfer.
 
@@ -57,10 +57,10 @@ Plan on 1.5–2 hours to walk the upper and lower village loops; add another 30�
 
 ## When to go
 
-Early morning on a weekday is ideal — the light angles nicely across the thatched roofs and there are few other visitors. Autumn (October–November) is particularly rewarding, when the surrounding hillsides turn color against the earthen walls, while spring brings blossoming trees along the village's terraced fields. Summer visits are workable but hot and humid with less shade than urban attractions. Winter is quiet and atmospheric but some facilities may have reduced hours, so confirm ahead.
+Early morning on a weekday is ideal, the light angles nicely across the thatched roofs and there are few other visitors. Autumn (October–November) is particularly rewarding, when the surrounding hillsides turn color against the earthen walls, while spring brings blossoming trees along the village's terraced fields. Summer visits are workable but hot and humid with less shade than urban attractions. Winter is quiet and atmospheric but some facilities may have reduced hours, so confirm ahead.
 
 ## Nearby & tips
 
-Wear shoes suited to uneven, sometimes muddy lanes, since much of the village is unpaved. Admission is typically a modest ticketed fee (a few thousand won) collected at the entrance booth, but confirm current pricing and operating hours before you go, as these can change seasonally. There are a handful of small restaurants and tea houses near the entrance serving simple Korean home-style meals — a good option since dining options thin out deeper into the village.
+Wear shoes suited to uneven, sometimes muddy lanes, since much of the village is unpaved. Admission is typically a modest ticketed fee (a few thousand won) collected at the entrance booth, but confirm current pricing and operating hours before you go, as these can change seasonally. There are a handful of small restaurants and tea houses near the entrance serving simple Korean home-style meals, a good option since dining options thin out deeper into the village.
 
 Photography is welcome in public lanes, but be mindful that this is a living community, not a museum set piece; residents still commute, farm, and go about daily life around visitors.

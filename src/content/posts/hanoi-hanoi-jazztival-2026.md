@@ -33,7 +33,7 @@ You feel Hanoi Jazztival before you see a stage. Walk toward Ly Thai To Garden o
 
 ## Why this festival matters
 
-Hanoi Jazztival isn't a single-venue concert — it's a citywide conversation. The 2026 edition, themed "Hanoi Jazz – Music Without Borders," spreads performances across four very different rooms: the colonial-era Hanoi Opera House, the open-air Ly Thai To Garden by Hoan Kiem Lake, the more intimate Thang Long Theatre, and the Vietnam Women's Museum.
+Hanoi Jazztival isn't a single-venue concert. It's a citywide conversation. The 2026 edition, themed "Hanoi Jazz – Music Without Borders," spreads performances across four very different rooms: the colonial-era Hanoi Opera House, the open-air Ly Thai To Garden by Hoan Kiem Lake, the more intimate Thang Long Theatre, and the Vietnam Women's Museum.
 
 Each venue changes the music's texture. Under the Opera House's gilded ceiling, a quartet sounds formal, almost orchestral. In the garden, the same style of tune turns loose and communal, drifting out toward strangers on benches who stop to listen.
 
@@ -41,10 +41,10 @@ Each venue changes the music's texture. Under the Opera House's gilded ceiling, 
 
 The festival runs September 17-19, 2026, in central Hanoi. Most of these venues sit within a 15-20 minute walk of each other around the Hoan Kiem Lake area, making it realistic to catch an early set at one location and a later one elsewhere the same night.
 
-- **Hanoi Opera House** — Trang Tien Street, a short walk south of the lake
-- **Ly Thai To Garden** — lakeside, near the Ly Thai To statue
-- **Thang Long Theatre** — a smaller stage suited to close-up sets
-- **Vietnam Women's Museum** — doubles as a cultural stop before the music starts
+- **Hanoi Opera House**, Trang Tien Street, a short walk south of the lake
+- **Ly Thai To Garden**, lakeside, near the Ly Thai To statue
+- **Thang Long Theatre**. A smaller stage suited to close-up sets
+- **Vietnam Women's Museum**, doubles as a cultural stop before the music starts
 
 Taxis and ride-hailing apps like Grab are the easiest way to move between venues if you're pressed for time. Confirm timing and tickets, plus which acts play which venue, on the official Hanoi Jazztival site before you build an itinerary.
 
@@ -56,18 +56,18 @@ Because the festival spans multiple venues rather than one central ground, no tw
 
 ## When to go
 
-September in Hanoi sits at the edge of the rainy season, with warm days and a real chance of a short downpour — pack a light rain layer if you're heading to the outdoor Ly Thai To Garden stage. Evenings are the natural time to arrive, since these are night performances rather than daytime programming.
+September in Hanoi sits at the edge of the rainy season, with warm days and a real chance of a short downpour. Pack a light rain layer if you're heading to the outdoor Ly Thai To Garden stage. Evenings are the natural time to arrive, since these are night performances rather than daytime programming.
 
 If you want to sample the festival's range, plan for at least two of the three nights: one at an indoor venue like the Opera House or Thang Long Theatre, one outdoors at the garden. That contrast is really the point of the festival's multi-venue design.
 
 ## How to visit like a local
 
-Hanoians treat outdoor jazz nights here as a lakeside evening out, not a formal concert — arriving to stroll around Hoan Kiem Lake before or after a set is normal, not touristy. Many locals eat beforehand rather than counting on food at the venue itself.
+Hanoians treat outdoor jazz nights here as a lakeside evening out, not a formal concert, arriving to stroll around Hoan Kiem Lake before or after a set is normal, not touristy. Many locals eat beforehand rather than counting on food at the venue itself.
 
 - **Payment**: carry some cash (Vietnamese dong) for street food and small vendors near the garden stage, even where venues themselves take cards
 - **Queuing**: indoor venues like the Opera House tend to have assigned or general-admission seating with orderly entry; outdoor garden sets are more first-come, first-served for good standing spots
 - **Timing**: arrive 30-45 minutes early for garden performances if you want to be near the front, since there's no formal seating
-- **Common mistake**: assuming one ticket covers all venues — confirm on the official site whether your ticket is single-venue or festival-wide before you plan a multi-stop night
-- **Etiquette**: keep conversation low during quieter acoustic numbers, especially indoors — Vietnamese jazz audiences tend to listen attentively rather than talk through sets
+- **Common mistake**: assuming one ticket covers all venues, confirm on the official site whether your ticket is single-venue or festival-wide before you plan a multi-stop night
+- **Etiquette**: keep conversation low during quieter acoustic numbers, especially indoors, Vietnamese jazz audiences tend to listen attentively rather than talk through sets
 
 Whichever nights you choose, confirm exact program details, venue assignments and ticket types on the official Hanoi Jazztival channels before you go, since specifics can shift venue by venue.

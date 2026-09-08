@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taipei-urban-paradise
-srcHash: 'cc728e1394b1'
+srcHash: '926d175911fb'
 title: 'URBAN PARADISE: Guía de viaje de Taipéi'
 description: 'URBAN PARADISE en Taipéi, Taiwán, es un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'URBAN PARADISE es un buffet boutique ubicado dentro del centro comercial Breeze Song Gao, en el distrito Xinyi de Taipéi. Abrió en 2025 con una idea muy clara: reinventar el concepto de "gastropub-buffet" como un oasis urbano, con vegetación exuberante, barras de estilo bar y estaciones de comida abiertas en lugar de las clásicas bandejas de vapor. Queda a poca distancia a pie de la estación Taipei City Hall (Línea Azul/Línea Bamboo), por lo que es fácil sumarlo a un día de compras en Xinyi o de visita al Taipei 101. Al tratarse de un lugar nuevo y muy popular, conviene reservar con antelación y confirmar directamente con Breeze los horarios vigentes y la política de reservas antes de ir.'

@@ -57,7 +57,7 @@ aiGenerated: true
 draft: false
 ---
 
-You come around the corner from Place Marc Elder and the ground just drops away — a wide, grassy trench circling the château's granite walls, sunk below street level like the city forgot it was there. This is the Douves du Château, the old dry moat of the Château des Ducs de Bretagne, and it's one of those Nantes spots that photographs of the castle rarely show you.
+You come around the corner from Place Marc Elder and the ground just drops away, a wide, grassy trench circling the château's granite walls, sunk below street level like the city forgot it was there. This is the Douves du Château, the old dry moat of the Château des Ducs de Bretagne, and it's one of those Nantes spots that photographs of the castle rarely show you.
 
 ## Why the moat, not just the castle
 
@@ -90,18 +90,18 @@ Weekday mornings tend to be markedly quieter than weekend afternoons, when the l
 
 ## How to visit like a local
 
-Treat the Douves as a free green space first, a monument second — that's how Nantais actually use it. Nobody pays to walk the moat; save your euros for the château museum or the Tour du Fer à Cheval if you want the interior.
+Treat the Douves as a free green space first, a monument second. That's how Nantais actually use it. Nobody pays to walk the moat; save your euros for the château museum or the Tour du Fer à Cheval if you want the interior.
 
-- Enter from Place Marc Elder or from the courtyard side near the drawbridge — both connect down into the moat paths
+- Enter from Place Marc Elder or from the courtyard side near the drawbridge, both connect down into the moat paths
 - Bring something to sit on if you plan to linger on the grass; there's no café down here
 - Go early or late in the day to avoid the tour-bus rush that hits the main courtyard around midday
-- Don't mistake it for a "hidden gem" nobody knows — it's simply overlooked by visitors racing to the museum entrance, so locals treat it as ordinary park space
+- Don't mistake it for a "hidden gem" nobody knows. It's simply overlooked by visitors racing to the museum entrance, so locals treat it as ordinary park space
 - Combine it with a walk along Cours des 50 Otages or a coffee in the Bouffay quarter afterwards
 
-The biggest mistake tourists make is skipping the moat entirely because it isn't signposted as an attraction. It's part of the free public space around the château, no ticket booth, no queue — just walk in.
+The biggest mistake tourists make is skipping the moat entirely because it isn't signposted as an attraction. It's part of the free public space around the château, no ticket booth, no queue, just walk in.
 
 ## Nearby to round out the visit
 
 Once you've circled the moat, the château courtyard itself is a few steps up, and the Jardin des Plantes is a 15-minute walk northeast if you want more green space. The passage Pommeraye and the covered Talensac market are both within easy walking distance for lunch after.
 
-If you only have an hour in Nantes between trains, the moat loop plus a look at the château's exterior is a genuinely efficient way to spend it — no ticket, no queue, and views most day-trippers miss entirely.
+If you only have an hour in Nantes between trains, the moat loop plus a look at the château's exterior is a genuinely efficient way to spend it, no ticket, no queue, and views most day-trippers miss entirely.

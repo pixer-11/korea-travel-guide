@@ -62,17 +62,17 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You turn off a residential street near City Park and the city noise just stops. Live oaks lean over the drive, clipped hedges line up in tidy rows, and there's no line, no ticket-scanning crowd — just a gravel path and the sound of a fountain somewhere ahead.
+You turn off a residential street near City Park and the city noise just stops. Live oaks lean over the drive, clipped hedges line up in tidy rows, and there's no line, no ticket-scanning crowd, just a gravel path and the sound of a fountain somewhere ahead.
 
 ## Why go
 
-Longue Vue was the home of Edith and Edgar Stern, built in the 1940s and filled with the decorative arts and furniture they collected over decades. It's less a "historic house museum" than a lived-in time capsule — Persian rugs, English antiques, a working kitchen wing left mostly as staff used it.
+Longue Vue was the home of Edith and Edgar Stern, built in the 1940s and filled with the decorative arts and furniture they collected over decades. It's less a "historic house museum" than a lived-in time capsule, Persian rugs, English antiques, a working kitchen wing left mostly as staff used it.
 
 The real draw for many visitors is outside. Eight acres of Ellen Biddle Shipman-designed gardens surround the house: geometric parterres, reflecting pools, a Spanish Court with tiered fountains modeled loosely on the Alhambra.
 
 ## What to see
 
-Inside, docent-led tours walk you through the main rooms — you can't just wander unaccompanied through most of the house. Outside, you're free to roam at your own pace.
+Inside, docent-led tours walk you through the main rooms. You can't just wander unaccompanied through most of the house. Outside, you're free to roam at your own pace.
 
 Don't skip:
 
@@ -81,29 +81,29 @@ Don't skip:
 - The Wild Garden, looser and shadier, good for a slow lap
 - The Discovery Garden, aimed at kids, with hands-on planting beds
 
-Bring a hat in summer — there's real shade under the oaks, but the open lawn areas get hot fast by mid-morning.
+Bring a hat in summer. There's real shade under the oaks, but the open lawn areas get hot fast by mid-morning.
 
 ## Getting there
 
-Longue Vue sits at 7 Bamboo Rd, tucked just off Metairie Road near the Metairie/City Park line. It's a short drive from downtown New Orleans — figure 15 to 20 minutes depending on traffic — and there's free on-site parking, which isn't a given at more central attractions.
+Longue Vue sits at 7 Bamboo Rd, tucked just off Metairie Road near the Metairie/City Park line. It's a short drive from downtown New Orleans, figure 15 to 20 minutes depending on traffic, and there's free on-site parking, which isn't a given at more central attractions.
 
 Public transit doesn't run directly to the door, so a car, rideshare, or taxi is the practical option. If you're combining it with a City Park visit (the New Orleans Museum of Art and Botanical Garden are both close by), it's an easy add-on to that trip.
 
 ## When to go
 
-Longue Vue is open daily; check the current posted hours before you go. Spring is peak garden season — azaleas and sweet olive perfume the paths — but the structure of the gardens holds up in every season.
+Longue Vue is open daily; check the current posted hours before you go. Spring is peak garden season, azaleas and sweet olive perfume the paths, but the structure of the gardens holds up in every season.
 
 Crowd patterns here are gentler than almost anywhere else in New Orleans tourism. Weekdays between 8am and 9am are the quietest stretch of the whole week. On weekends, mornings from 8am to 10am are your best bet before things pick up; weekend crowds build steadily from 9am and stay busier straight through to 4pm.
 
 ## How to visit like a local
 
-Longue Vue is still under the radar compared to the Garden District mansions and French Quarter sights, and that's exactly its appeal — you can actually hear the fountains.
+Longue Vue is still under the radar compared to the Garden District mansions and French Quarter sights, and that's exactly its appeal. You can actually hear the fountains.
 
 - Arrive at opening. On weekdays, 8-9am is the quietest hour of the entire week; weekend mornings before 10am are your next-best window.
-- Check the day's tour schedule when you arrive — house visits run on guided timings, so it helps to plan the garden portion around whichever slot you get.
+- Check the day's tour schedule when you arrive, house visits run on guided timings, so it helps to plan the garden portion around whichever slot you get.
 - Wear real shoes. Gravel paths and grass mean sandals aren't ideal.
-- Pay by card at the ticket desk — this isn't a cash-only, informal operation.
+- Pay by card at the ticket desk. This isn't a cash-only, informal operation.
 - The mistake most visitors make is treating this as a quick photo stop. Give the gardens their own hour separate from the house tour; rushing through misses the point of a Shipman-designed landscape, which rewards slow, deliberate walking.
-- If you have kids, the Discovery Garden is worth timing your visit around — it's more engaging for them than the formal parterres.
+- If you have kids, the Discovery Garden is worth timing your visit around. It's more engaging for them than the formal parterres.
 
 Confirm current tour times and any seasonal closures on the official Longue Vue website before you go, since guided-tour schedules can shift by season.

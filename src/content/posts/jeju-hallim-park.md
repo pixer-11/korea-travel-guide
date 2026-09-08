@@ -102,37 +102,37 @@ Nothing here feels rushed into a single attraction. You move from stone to jungl
 
 ## What you'll actually see
 
-The two caves are the headline act. Hyeopjaegul is short and bright, its walls streaked with pale calcite that formed when seawater seeped through the lava rock over thousands of years — an unusual mineral overlay for a lava tube.
+The two caves are the headline act. Hyeopjaegul is short and bright, its walls streaked with pale calcite that formed when seawater seeped through the lava rock over thousands of years, an unusual mineral overlay for a lava tube.
 
 Ssangyonggul is longer and darker, twin passages twisting underground with a damp, mineral smell and a chill that hits you the moment you duck under the entrance rock.
 
-Above ground, the Jeju Stone Park recreates traditional dol hareubang statues and stacked basalt walls, and the Folk Village shows off the low, wind-braced thatched-roof houses that once dotted the island. The Subtropical Garden and Aquatic Botanical Garden add palms, cactus houses and koi ponds. A small zoo with meerkats, prairie dogs and birds rounds things out — modest by international standards, but a hit with kids mid-walk.
+Above ground, the Jeju Stone Park recreates traditional dol hareubang statues and stacked basalt walls, and the Folk Village shows off the low, wind-braced thatched-roof houses that once dotted the island. The Subtropical Garden and Aquatic Botanical Garden add palms, cactus houses and koi ponds. A small zoo with meerkats, prairie dogs and birds rounds things out, modest by international standards, but a hit with kids mid-walk.
 
 ## Getting there
 
 Hallim Park sits at 300 Hallim-ro, Hallim-eup, on Jeju's northwest coast, about 30–40 minutes by car from Jeju City. There's no direct subway on the island, so most visitors arrive by rental car, taxi, or one of the island tour buses that loop the west coast.
 
 - **Driving:** parking is on-site and easy outside peak weekend hours.
-- **Public bus:** intercity buses from Jeju City's bus terminal stop near the park entrance, though schedules run infrequently — check timing before you commit to this option.
+- **Public bus:** intercity buses from Jeju City's bus terminal stop near the park entrance, though schedules run infrequently. Check timing before you commit to this option.
 - **Nearby pairing:** Hyeopjae and Geumneung beaches are a five-minute drive away, making a natural half-day combo with a beach afternoon.
 
 ## When to go
 
 The park runs 9am to 6:30pm every day of the week, with no listed closures. Give yourself 2 to 3 hours to cover the caves, gardens and village without feeling rushed.
 
-Weekday mornings and afternoons both stay comparatively calm, since the quiet window stretches across the whole 9am–6pm day. Weekends are a different story — traffic through the park builds steadily from noon and stays heavy until around 5pm.
+Weekday mornings and afternoons both stay comparatively calm, since the quiet window stretches across the whole 9am–6pm day. Weekends are a different story, traffic through the park builds steadily from noon and stays heavy until around 5pm.
 
 If you're set on a weekend visit, arrive right at 9am to walk the caves before the tour groups catch up.
 
 ## How to visit like a local
 
-Hallim Park is genuinely popular — this isn't an under-the-radar stop, and tour buses know it well. Plan around the crowd rather than hoping to dodge it entirely.
+Hallim Park is genuinely popular. This isn't an under-the-radar stop, and tour buses know it well. Plan around the crowd rather than hoping to dodge it entirely.
 
 - **Best timing:** go on a weekday, any time between opening and closing. If weekend is your only option, be at the gate by 9am.
 - **Avoid:** weekend midday through late afternoon, when the caves and garden paths bottleneck with groups.
 - **Tickets:** bought on-site at the entrance booth; card and cash are both accepted, so don't worry about carrying exact change.
 - **Cave prep:** the tubes are uneven and slightly damp underfoot. Flat, closed-toe shoes matter more here than anywhere else in the park.
-- **Pace:** most visitors walk the loop caves-first, then gardens, then folk village — going against that flow can mean quieter photos even at busier times.
+- **Pace:** most visitors walk the loop caves-first, then gardens, then folk village, going against that flow can mean quieter photos even at busier times.
 - **Common mistake:** treating this as a quick 45-minute stop. Between the two caves alone you'll want closer to an hour, so budget the full 2–3 hours rather than squeezing it between other stops.
 
 ## Nearby to combine

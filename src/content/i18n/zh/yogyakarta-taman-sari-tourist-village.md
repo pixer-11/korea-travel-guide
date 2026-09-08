@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-taman-sari-tourist-village
-srcHash: '5ba4bf4825e1'
+srcHash: 'c8550ff35790'
 title: 塔曼萨里水上宫殿:日惹旅行指南
 description: 塔曼萨里(Taman Sari,又称水上宫殿)是位于日惹王宫区(Kraton)内的一座18世纪皇家园林兼沐浴建筑群，最佳游览时间是清晨(约8-9点),可以避开高温和旅行团人潮。
 quickAnswer: 塔曼萨里(Taman Sari,又称水上宫殿)是位于日惹王宫区(Kraton)内的一座18世纪皇家园林兼沐浴建筑群，最佳游览时间是清晨(约8-9点),可以避开高温和旅行团人潮。建议预留1-1.5小时游览时间，穿一双方便走窄巷的鞋子，并可以把附近的苏丹王宫(Kraton)和不远处的地下清真寺"苏木尔·古穆灵"(Sumur Gumuling)安排在一起游览。

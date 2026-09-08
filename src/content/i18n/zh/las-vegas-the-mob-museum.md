@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-the-mob-museum
-srcHash: '02a50ea056c1'
+srcHash: 'f01b6c6636c8'
 title: 黑帮博物馆(The Mob Museum):拉斯维加斯旅行指南(4.7★)
 description: 黑帮博物馆坐落在拉斯维加斯市中心300 Stewart Ave的一栋1933年建成的原联邦法院大楼内，从弗里蒙特街(Fremont Street)步行即可到达。4.7★(20,069条评价)——游客怎么说、开放时间及游览贴士。
 quickAnswer: 黑帮博物馆坐落在拉斯维加斯市中心300 Stewart Ave的一栋1933年建成的原联邦法院大楼内，从弗里蒙特街(Fremont Street)步行即可到达。建议留出两到三个小时游览，最好在开门时就到，以避开旅游大巴团客;要知道周末上午11点到晚上7点之间人流量会明显增多。它是拉斯维加斯评价最稳定优秀的景点之一，所以出行前最好提前在网上预订限时门票。

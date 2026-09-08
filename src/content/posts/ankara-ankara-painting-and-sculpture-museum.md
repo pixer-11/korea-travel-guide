@@ -100,7 +100,7 @@ The building itself is part of the draw. It's a grand, early-twentieth-century s
 
 The museum sits in Hacettepe, on Türkocağı Sokak, just below Hacettepe University's main campus and a short walk from the Ulus district. If you're coming from Kızılay or the newer parts of the city, an Ankaray or Ankara Metro ride to Ulus station puts you within a 10-15 minute walk uphill.
 
-Taxis are cheap and simple if you'd rather skip the incline — the streets here are steep and cobbled in places. Pair the visit with nearby Ulus landmarks like the Column of Julian or the Ankara Citadel, both an easy walk away.
+Taxis are cheap and simple if you'd rather skip the incline. The streets here are steep and cobbled in places. Pair the visit with nearby Ulus landmarks like the Column of Julian or the Ankara Citadel, both an easy walk away.
 
 ## What to see inside
 
@@ -111,7 +111,7 @@ Expect room after room of oil paintings from the late Ottoman military-painter t
 - Workshop spaces where the museum runs art education programs
 - A small but worthwhile section on Ankara's own urban and art history
 
-The sculpture collection is smaller than the painting galleries but worth slowing down for — many pieces reflect the state's early push to build a national visual identity through public art.
+The sculpture collection is smaller than the painting galleries but worth slowing down for, many pieces reflect the state's early push to build a national visual identity through public art.
 
 ## When to go
 
@@ -121,16 +121,16 @@ Weekends get busiest between 11am and 5pm, when local families and student group
 
 ## How to visit like a local
 
-Arrive early on a weekday, ideally soon after the 9am opening, before tour groups and university classes move through. This isn't an undiscovered spot — it's a well-known fixture on Ankara's museum circuit — so the main way to beat the crowds is timing, not secrecy.
+Arrive early on a weekday, ideally soon after the 9am opening, before tour groups and university classes move through. This isn't an undiscovered spot, it's a well-known fixture on Ankara's museum circuit, so the main way to beat the crowds is timing, not secrecy.
 
 - Buy tickets at the entrance desk; cash and card are both generally accepted, but carry some cash as backup
-- Wear low shoes — the surrounding streets are steep and uneven
+- Wear low shoes. The surrounding streets are steep and uneven
 - Keep voices low in the galleries; this is treated as a quiet, contemplative space, not a photo-op venue
 - Ask staff about the workshop schedule if you're interested in a hands-on program, as these run on their own calendar separate from gallery hours
 
-Budget 60 to 90 minutes for the permanent collection, longer if a temporary exhibition is running. Combine the visit with a walk through old Ulus afterward — the neighborhood's narrow streets and Ottoman-era buildings make a natural extension of the museum's own historical arc.
+Budget 60 to 90 minutes for the permanent collection, longer if a temporary exhibition is running. Combine the visit with a walk through old Ulus afterward, the neighborhood's narrow streets and Ottoman-era buildings make a natural extension of the museum's own historical arc.
 
-Since it's a state museum, exact ticket prices can shift year to year, so check current rates before you go rather than relying on older listings. The same goes for any seasonal changes to opening hours around public holidays — Turkish national museums often adjust their schedules then.
+Since it's a state museum, exact ticket prices can shift year to year, so check current rates before you go rather than relying on older listings. The same goes for any seasonal changes to opening hours around public holidays, Turkish national museums often adjust their schedules then.
 
 ## Nearby stops worth combining
 

@@ -33,7 +33,7 @@ heroImage:
 
 ## Why Roast8ry is worth the detour
 
-You smell it before you see the sign — roasted beans cutting through Chinatown's usual mix of incense, herbal medicine, and street-food smoke. That contrast is the point.
+You smell it before you see the sign, roasted beans cutting through Chinatown's usual mix of incense, herbal medicine, and street-food smoke. That contrast is the point.
 
 Roast8ry made its name in Chiang Mai as one of Thailand's most decorated specialty coffee brands, founded by Arnon Thitiprasert, the 2017 World Latte Art Champion. Its first Bangkok branch has landed near Song Wat Road, and the coffee crowd noticed almost immediately.
 
@@ -55,7 +55,7 @@ Expect the brand's signature strengths on display:
 - Latte art precise enough that regulars photograph the cup before the first sip
 - A roastery lineage from Chiang Mai, meaning beans sourced and roasted with the same standards that built the original location's reputation
 
-The space itself trades on the neighborhood's texture — exposed brick, old shutters, and narrow shophouse proportions reworked into a bright, functional bar, rather than a generic minimalist café interior.
+The space itself trades on the neighborhood's texture, exposed brick, old shutters, and narrow shophouse proportions reworked into a bright, functional bar, rather than a generic minimalist café interior.
 
 ## When to go
 
@@ -65,13 +65,13 @@ Because this is a newly opened branch, opening hours and any reservation policy 
 
 ## How to visit like a local
 
-Bangkok's specialty coffee scene runs on a mix of walk-in casualness and quiet respect for the barista's craft — this isn't a grab-and-go counter, it's a place to slow down.
+Bangkok's specialty coffee scene runs on a mix of walk-in casualness and quiet respect for the barista's craft. This isn't a grab-and-go counter, it's a place to slow down.
 
-- **Ordering:** Ask what's currently being poured as filter coffee — specialty cafés like this rotate single-origin beans, and the counter staff usually welcome questions about origin and roast.
+- **Ordering:** Ask what's currently being poured as filter coffee, specialty cafés like this rotate single-origin beans, and the counter staff usually welcome questions about origin and roast.
 - **Payment:** Thai cafés increasingly accept PromptPay QR and cards alongside cash, but carrying some baht is still sensible insurance at a newer location.
 - **Timing:** Come before the late-morning wave if you want counter space to actually watch the latte art poured rather than just receive it.
-- **Etiquette:** Keep an eye on your table if it's busy — shophouse cafés have tight seating, and turnover is expected during peak hours.
-- **The mistake to avoid:** Treating this as a quick coffee stop before Yaowarat's night market. Roast8ry rewards sitting with the drink, not rushing it — the whole point is tasting what a world champion's technique actually does to a cup.
+- **Etiquette:** Keep an eye on your table if it's busy, shophouse cafés have tight seating, and turnover is expected during peak hours.
+- **The mistake to avoid:** Treating this as a quick coffee stop before Yaowarat's night market. Roast8ry rewards sitting with the drink, not rushing it. The whole point is tasting what a world champion's technique actually does to a cup.
 
 Pair the visit with a wander down Song Wat itself. The street's mix of coffee bars, old trading houses, and river glimpses makes for one of Chinatown's most rewarding short walks, especially in the hour before sunset when the light hits the shophouse facades directly.
 

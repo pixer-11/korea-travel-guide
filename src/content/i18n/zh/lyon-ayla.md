@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-ayla
-srcHash: '92b947cfe561'
+srcHash: 'b4d921e3cb38'
 title: Ayla：里昂旅行指南
 description: 法国里昂的Ayla——一家新晋热门餐厅：它是什么、在哪里、以及如何前往品尝。
 quickAnswer: Ayla是一家以素食为主打的融合餐厅，位于里昂第三区，就在里昂保罗·博古斯中央市场（Les Halles de Lyon Paul Bocuse）对面——那是这座城市著名的室内食品市场。2026年，正因为它打破了传统里昂小酒馆（bouchon）以肉食为主的套路，成为当地最受热议的餐厅之一。餐厅座位不多，消息传开后早已供不应求，务必提前预订。

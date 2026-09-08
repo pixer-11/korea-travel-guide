@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sheung-wan-hollywood-road-park
-srcHash: '5a54ce010d13'
+srcHash: '5dfec7535c5e'
 title: 荷李活道公园：上环旅游指南（4.0★）
 description: 荷李活道公园（Hollywood Road Park）是位于上环文武庙（Man Mo Temple）下方的一处小型阶梯式静谧空间，园内建有观赏池塘、红柱中式凉亭和传统月门。4.0★（837条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 荷李活道公园（Hollywood Road Park）是位于上环文武庙（Man Mo Temple）下方的一处小型阶梯式静谧空间，园内建有观赏池塘、红柱中式凉亭和传统月门。公园全天24小时开放，无论平日还是周末，早上7点到8点是人最少的时段——过了这个点，太极晨练的人群和周末游客就会陆续到来。建议在往返文武庙与上环古董店的途中，花20-30分钟顺道一游。

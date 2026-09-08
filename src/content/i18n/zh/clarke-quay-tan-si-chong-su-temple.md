@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-tan-si-chong-su-temple
-srcHash: '1be257a8edf3'
+srcHash: '0087bc65577f'
 title: 陈氏宗祠：克拉码头旅行指南
 description: 陈氏宗祠（Tan Si Chong Su Temple）坐落在马真街（Magazine Road）15号，从克拉码头（Clarke Quay）河畔往合乐路（Havelock Road）方向步行五分钟即到，每天上午9点到晚上9点开放。
 quickAnswer: 陈氏宗祠坐落在马真街15号，从克拉码头河畔往合乐路方向步行五分钟即到，每天上午9点到晚上9点开放。相比周边的酒吧和餐厅，这里鲜为人知，庭院里常常只有你一个人。周末从上午10点起最为清静，傍晚6点到9点之间人会多一些。

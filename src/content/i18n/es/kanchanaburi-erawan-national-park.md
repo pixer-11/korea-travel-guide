@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanchanaburi-erawan-national-park
-srcHash: 'c9a9dfe556f3'
+srcHash: 'f3462d4441fb'
 title: 'Parque Nacional de Erawan: Guía de viaje de Kanchanaburi (4.6★)'
 description: 'A unas dos horas de la ciudad de Kanchanaburi, el Parque Nacional de Erawan es famoso por su cascada turquesa de siete niveles y sus piscinas naturales excavadas en la piedra caliza. 4.6★ (16.715 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'A unas dos horas de la ciudad de Kanchanaburi, el Parque Nacional de Erawan es famoso por su cascada turquesa de siete niveles y sus piscinas naturales excavadas en la piedra caliza. Conviene llegar justo a las 8:00, cuando abre, ya que es el momento más tranquilo, entre las 8:00 y las 10:00; a media mañana los fines de semana (11:00–16:00) los niveles inferiores se llenan de gente. Hay que reservar el día completo: un mínimo de 3 a 4 horas si se quiere recorrer los siete niveles a pie y nadar.'

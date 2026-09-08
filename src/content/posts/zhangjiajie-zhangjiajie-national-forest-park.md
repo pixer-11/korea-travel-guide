@@ -69,13 +69,13 @@ draft: false
 
 Picture thousands of quartzite sandstone pillars, some over 200 meters tall, wrapped in fog and pine. That's Zhangjiajie National Forest Park, China's first national forest park and the place that reportedly inspired the floating Hallelujah Mountains in "Avatar."
 
-Nothing quite prepares you for the scale of it. You round a bend on a mist-slicked trail and the valley just opens up — pillar after pillar disappearing into cloud, with nothing to give you a sense of proportion except the tiny trees clinging to their tops.
+Nothing quite prepares you for the scale of it. You round a bend on a mist-slicked trail and the valley just opens up, pillar after pillar disappearing into cloud, with nothing to give you a sense of proportion except the tiny trees clinging to their tops.
 
 ## Getting there
 
 The park sits in the Wulingyuan District, about 30–40 minutes by bus or taxi from Zhangjiajie city center. Zhangjiajie Hehua International Airport has direct flights from major Chinese cities, and a high-speed rail station connects to Changsha and beyond.
 
-Most visitors base themselves in Zhangjiajie City or the smaller town of Wulingyuan, right at the park's edge. From either, shuttle buses run to the main entrances — Wulingyuan Gate is the most common starting point.
+Most visitors base themselves in Zhangjiajie City or the smaller town of Wulingyuan, right at the park's edge. From either, shuttle buses run to the main entrances, Wulingyuan Gate is the most common starting point.
 
 Note: this park is a separate attraction from the famous Tianmen Mountain glass skywalk, which is a different mountain near Zhangjiajie city, not inside this park.
 
@@ -83,11 +83,11 @@ Note: this park is a separate attraction from the famous Tianmen Mountain glass 
 
 The park is really a cluster of scenic areas, and you can't do them all in one day. Prioritize based on how much walking and how much altitude you want.
 
-- **Bailong Elevator** — a 326-meter outdoor glass elevator blasted into a cliff face, the tallest of its kind in the world
-- **Yuanjiajie** — home to the "Avatar Hallelujah Mountain" pillar and the Number One Bridge Under Heaven, a natural stone arch
-- **Yangjiajie** — quieter, dramatic ridge walks with fewer crowds
-- **Golden Whip Stream** — an easy, flat 7.5km valley walk beside a clear stream, good for the end of the day when your legs are done with stairs
-- **Tianzi Mountain** — reachable by cable car, known for sea-of-clouds views at sunrise
+- **Bailong Elevator**, a 326-meter outdoor glass elevator blasted into a cliff face, the tallest of its kind in the world
+- **Yuanjiajie**, home to the "Avatar Hallelujah Mountain" pillar and the Number One Bridge Under Heaven, a natural stone arch
+- **Yangjiajie**, quieter, dramatic ridge walks with fewer crowds
+- **Golden Whip Stream**, an easy, flat 7.5km valley walk beside a clear stream, good for the end of the day when your legs are done with stairs
+- **Tianzi Mountain**, reachable by cable car, known for sea-of-clouds views at sunrise
 
 Wear real hiking shoes. Trails are stone steps, often wet, and some routes involve thousands of steps if you skip the cable cars and elevator.
 
@@ -99,12 +99,12 @@ Weekends run 7am–11pm and are busiest right at opening, so if you're visiting 
 
 ## How to visit like a local
 
-Buy your entrance ticket in advance online or at the main gate — it's typically valid for multiple days, which locals and repeat visitors use to spread the park across two calmer mornings rather than one exhausting marathon.
+Buy your entrance ticket in advance online or at the main gate. It's typically valid for multiple days, which locals and repeat visitors use to spread the park across two calmer mornings rather than one exhausting marathon.
 
 Cable cars and the Bailong Elevator have separate small fees beyond entry, and lines for the elevator can stretch long at midday. Go first thing or later in the afternoon.
 
-Bring cash and a mobile payment app (Alipay or WeChat Pay) — many food stalls and small vendors inside the park don't take foreign cards. Pack a light rain layer even on clear-looking days; the pillars generate their own microclimate and mist can roll in within minutes.
+Bring cash and a mobile payment app (Alipay or WeChat Pay), many food stalls and small vendors inside the park don't take foreign cards. Pack a light rain layer even on clear-looking days; the pillars generate their own microclimate and mist can roll in within minutes.
 
-The most common mistake: trying to see the whole park in one rushed day via taxi shortcuts between areas. The internal shuttle bus network is the actual efficient way to move between Yuanjiajie, Tianzi, and Yangjiajie — study the color-coded route map at the gate before you start walking.
+The most common mistake: trying to see the whole park in one rushed day via taxi shortcuts between areas. The internal shuttle bus network is the actual efficient way to move between Yuanjiajie, Tianzi, and Yangjiajie, study the color-coded route map at the gate before you start walking.
 
-This isn't a hidden corner of China — it's a well-known, heavily visited park — so the real local trick is timing and pacing, not finding a secret entrance. Go slow, let groups pass at viewpoints, and save Golden Whip Stream for late afternoon when the tour buses have thinned out.
+This isn't a hidden corner of China (it's a well-known, heavily visited park), so the real local trick is timing and pacing, not finding a secret entrance. Go slow, let groups pass at viewpoints, and save Golden Whip Stream for late afternoon when the tour buses have thinned out.

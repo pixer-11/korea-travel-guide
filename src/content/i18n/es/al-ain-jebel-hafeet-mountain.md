@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-ain-jebel-hafeet-mountain
-srcHash: '8aa3d333b9e7'
+srcHash: '719e3fcbbfa1'
 title: 'Monte Jebel Hafeet: guía de viaje de Al Ain (4,7★)'
 description: 'El monte Jebel Hafeet, en Al Ain, es el segundo pico más alto de los Emiratos Árabes Unidos y se llega a él por una carretera de montaña asfaltada de 12 km que serpentea en curvas hasta un mirador cercano a la cima. 4,7★ (1.166 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El monte Jebel Hafeet, en Al Ain, es el segundo pico más alto de los Emiratos Árabes Unidos y se llega a él por una carretera de montaña asfaltada de 12 km que serpentea en curvas hasta un mirador cercano a la cima. El mejor momento para visitarlo es a última hora de la tarde, hacia el atardecer, cuando la calima del desierto se suaviza y las temperaturas bajan lo suficiente como para disfrutar de los miradores. Sigue siendo un lugar relativamente poco conocido en comparación con los grandes atractivos de Abu Dabi y Dubái, así que no tendrás que lidiar con multitudes ni siquiera los fines de semana.

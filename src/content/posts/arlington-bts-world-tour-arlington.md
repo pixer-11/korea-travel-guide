@@ -39,11 +39,11 @@ eventOrganizer:
 ---
 ## Why this show mattered
 
-For a fandom that spent nearly three years watching members rotate through service in the South Korean military, two nights at AT&T Stadium were not just tour stops — they were a reunion. The two shows were set for August 15-16, 2026 at AT&T Stadium, part of BTS's fourth world tour, with Arlington one of the marquee North American stops. The run was announced as a full stadium bowl-and-floor production rather than an arena show.
+For a fandom that spent nearly three years watching members rotate through service in the South Korean military, two nights at AT&T Stadium were not just tour stops. They were a reunion. The two shows were set for August 15-16, 2026 at AT&T Stadium, part of BTS's fourth world tour, with Arlington one of the marquee North American stops. The run was announced as a full stadium bowl-and-floor production rather than an arena show.
 
 ## Getting to AT&T Stadium
 
-AT&T Stadium sits in Arlington's Entertainment District, next to Globe Life Field, the Texas Rangers ballpark, roughly halfway between Dallas and Fort Worth. There's no direct rail line into Arlington — this is the one big American city famous for having skipped light rail entirely — so fans reach the stadium three ways: driving and parking in one of the official stadium lots, which sell as advance passes; using the rideshare drop-off zones the stadium designates for event nights; or taking one of the shuttle buses that private operators and some Dallas-area hotels run for major concerts.
+AT&T Stadium sits in Arlington's Entertainment District, next to Globe Life Field, the Texas Rangers ballpark, roughly halfway between Dallas and Fort Worth. There's no direct rail line into Arlington, this is the one big American city famous for having skipped light rail entirely, so fans reach the stadium three ways: driving and parking in one of the official stadium lots, which sell as advance passes; using the rideshare drop-off zones the stadium designates for event nights; or taking one of the shuttle buses that private operators and some Dallas-area hotels run for major concerts.
 
 For anyone flying in, DFW Airport is about a 20-minute drive and Dallas Love Field around 25-30 minutes, depending on traffic on I-30.
 
@@ -55,7 +55,7 @@ Security lines at NFL-sized stadiums move faster for fans carrying a clear or sm
 
 ## Where to stay and eat nearby
 
-Arlington's Entertainment District has absorbed a wave of hotels built specifically for stadium crowds — think chains clustered within a 10-15 minute walk of AT&T Stadium, many running free shuttle loops on event nights. For fans based in Dallas or Fort Worth, the commute eats time: I-30 corridor traffic backs up hard in the hour before a stadium show of this size.
+Arlington's Entertainment District has absorbed a wave of hotels built specifically for stadium crowds, think chains clustered within a 10-15 minute walk of AT&T Stadium, many running free shuttle loops on event nights. For fans based in Dallas or Fort Worth, the commute eats time: I-30 corridor traffic backs up hard in the hour before a stadium show of this size.
 
 For food, the streets around the stadium and Texas Live! (the entertainment complex directly across the plaza) fill up fast before a show, and walk-up lines an hour before doors run long; reservations are the usual workaround.
 
@@ -67,6 +67,6 @@ Third-party resale outside Ticketmaster's verified resale system carries a real 
 
 ## How to visit like a local
 
-Arlington regulars treat AT&T Stadium event nights like a logistics puzzle solved ahead of time, not on the fly. They book parking online rather than circling lots looking for a spot — official stadium parking sells out for shows like this. They also pack light: a small clear bag skips the longest security line, and stadium re-entry is rarely allowed once inside.
+Arlington regulars treat AT&T Stadium event nights like a logistics puzzle solved ahead of time, not on the fly. They book parking online rather than circling lots looking for a spot, official stadium parking sells out for shows like this. They also pack light: a small clear bag skips the longest security line, and stadium re-entry is rarely allowed once inside.
 
-Locals also know the plaza and Texas Live! get slammed in the hour before doors, so they eat either earlier in the afternoon or grab something quick post-show instead. Rideshare users walk to the designated pickup zone rather than requesting a car curbside right at the main gates — traffic marshals reroute vehicles away from the entrances on show nights, which can add 20-30 minutes to the wait.
+Locals also know the plaza and Texas Live! get slammed in the hour before doors, so they eat either earlier in the afternoon or grab something quick post-show instead. Rideshare users walk to the designated pickup zone rather than requesting a car curbside right at the main gates, traffic marshals reroute vehicles away from the entrances on show nights, which can add 20-30 minutes to the wait.

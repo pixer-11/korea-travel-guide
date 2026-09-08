@@ -87,25 +87,25 @@ updatedDate: '2026-09-01'
 
 ## Why go
 
-Al Fahidi (also called Bastakiya) is one of the few surviving pockets of pre-oil Dubai, built from the 1890s onward by Persian merchant families from Bastak who settled along the Creek to trade textiles and pearls. The low sand-and-gypsum buildings, coral-stone foundations, and barjeel wind towers were engineered to catch breezes and cool interiors long before air conditioning — the area is essentially an open-air lesson in desert architecture.
+Al Fahidi (also called Bastakiya) is one of the few surviving pockets of pre-oil Dubai, built from the 1890s onward by Persian merchant families from Bastak who settled along the Creek to trade textiles and pearls. The low sand-and-gypsum buildings, coral-stone foundations, and barjeel wind towers were engineered to catch breezes and cool interiors long before air conditioning. The area is essentially an open-air lesson in desert architecture.
 
 With a 4.6 rating across nearly 17,000 reviews, it's one of the most consistently praised attractions in the city, so expect company, especially midday and on weekends.
 
 ## Getting there
 
-The neighbourhood sits in Al Souq Al Kabeer / Bur Dubai, on the southern bank of Dubai Creek. The closest metro stop is **Al Fahidi Station on the Green Line**; from there it's roughly a 10-15 minute walk east through Bur Dubai's side streets, or a short taxi/ride-share hop if the heat is heavy. Coming from Deira across the Creek, an **abra** (traditional wooden ferry) from the Deira Old Souk Abra Station to Bur Dubai Abra Station drops you a few minutes' walk from the quarter — the crossing costs a token fare and is itself one of the city's most atmospheric short trips. Street parking and paid lots exist nearby but fill quickly, so metro or abra is the more reliable option.
+The neighbourhood sits in Al Souq Al Kabeer / Bur Dubai, on the southern bank of Dubai Creek. The closest metro stop is **Al Fahidi Station on the Green Line**; from there it's roughly a 10-15 minute walk east through Bur Dubai's side streets, or a short taxi/ride-share hop if the heat is heavy. Coming from Deira across the Creek, an **abra** (traditional wooden ferry) from the Deira Old Souk Abra Station to Bur Dubai Abra Station drops you a few minutes' walk from the quarter. The crossing costs a token fare and is itself one of the city's most atmospheric short trips. Street parking and paid lots exist nearby but fill quickly, so metro or abra is the more reliable option.
 
 ## What to see and do
 
 Budget **2-3 hours** to wander properly. Anchor points include:
 
-- **Dubai Museum**, housed in Al Fahidi Fort (the city's oldest existing building, dating to 1787) — closed for renovation in recent years, so confirm current status before planning around it.
+- **Dubai Museum**, housed in Al Fahidi Fort (the city's oldest existing building, dating to 1787), closed for renovation in recent years, so confirm current status before planning around it.
 - **Coffee Museum**, a small, well-curated stop tracing coffee culture from Ethiopia to Arabia.
 - **Coin Museum** and **Sheikh Mohammed Centre for Cultural Understanding (SMCCU)**, which runs cultural breakfasts, heritage tours, and the "Open Doors, Open Minds" sessions where visitors can ask Emirati hosts direct questions about local life and Islam.
-- **XVA Gallery**, a contemporary art space and boutique hotel tucked into a restored courtyard house — worth a look even if you're not buying.
+- **XVA Gallery**, a contemporary art space and boutique hotel tucked into a restored courtyard house, worth a look even if you're not buying.
 - Narrow lanes lined with wind-tower rooftops, small artisan shops, and pop-up exhibitions during **Sikka Art Fair**, usually held around March.
 
-Just beyond the quarter, the **Textile Souk** and the abra crossing to the **Gold** and **Spice Souks** in Deira pair naturally with a visit — many people combine all three into a half-day loop.
+Just beyond the quarter, the **Textile Souk** and the abra crossing to the **Gold** and **Spice Souks** in Deira pair naturally with a visit, many people combine all three into a half-day loop.
 
 ## When to go
 
@@ -113,8 +113,8 @@ Outdoor walking is most comfortable **October to April**, in the early morning (
 
 ## How to visit like a local
 
-This is a heavily visited, well-known landmark rather than an undiscovered corner, so plan around the crowds instead of expecting to avoid them: arrive right at opening or in the last hour of daylight, when tour groups have dispersed. Dress modestly out of respect — shoulders and knees covered for both men and women — since this remains a lived-in, conservative area, not a theme park.
+This is a heavily visited, well-known landmark rather than an undiscovered corner, so plan around the crowds instead of expecting to avoid them: arrive right at opening or in the last hour of daylight, when tour groups have dispersed. Dress modestly out of respect, shoulders and knees covered for both men and women, since this remains a lived-in, conservative area, not a theme park.
 
-Most museums and the SMCCU sessions request or benefit from advance online booking, particularly the cultural breakfasts and heritage tours, which run on a schedule rather than a walk-up basis. Cash is useful for the abra crossing and small artisan purchases, though cards and mobile payment work at the cafés and larger museums. If you want an honest, unscripted introduction to Emirati customs, the SMCCU sessions are the closest thing on offer — sitting on the majlis floor for a Q&A is the standard, respectful way to engage rather than photographing residents or private courtyards uninvited.
+Most museums and the SMCCU sessions request or benefit from advance online booking, particularly the cultural breakfasts and heritage tours, which run on a schedule rather than a walk-up basis. Cash is useful for the abra crossing and small artisan purchases, though cards and mobile payment work at the cafés and larger museums. If you want an honest, unscripted introduction to Emirati customs, the SMCCU sessions are the closest thing on offer, sitting on the majlis floor for a Q&A is the standard, respectful way to engage rather than photographing residents or private courtyards uninvited.
 
 The most common visitor mistake is treating it as a five-minute photo stop between the Gold Souk and Burj Khalifa; slowing down to enter two or three of the small museums is what actually rewards the detour.

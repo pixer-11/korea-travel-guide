@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
-srcHash: 'ab9e2c5e0468'
+srcHash: '2e12ace9bd37'
 title: '더 아일랜드 방콕(The Island Bangkok) 최고 평점 태국 레스토랑 & 바: 어디서 먹을까'
 description: 더 아일랜드 방콕은 방람푸(Banglamphu)의 솜센 4길(Soi Samsen 4)에 자리한 4.9점 태국 레스토랑 겸 바(리뷰 14,684개)로, 카오산 로드(Khao San Road)와 강변에서 도보로 가까운 거리에 있습니다.
 quickAnswer: 더 아일랜드 방콕은 방람푸/프라나콘(Phra Nakhon) 지역의 솜센 4길(Soi Samsen 4)에 자리한 평점 높은 태국 레스토랑 겸 바로, 카오산 로드와 강변에서 도보로 가까운 거리에 있습니다. 여유로운 가든 스타일 분위기에서 정통 태국 요리와 칵테일을 즐길 수 있으며, 제대로 된 한 끼를 즐기려면 1.5~2시간 정도를 계획하는 것이 좋습니다. 현지인과 여행자 모두에게 인기가 많고 리뷰 수도 방대한 만큼(14,600개 이상, 평점 4.9점) 주말 저녁에는 미리 예약하거나 일찍 도착하는 것이 좋습니다.

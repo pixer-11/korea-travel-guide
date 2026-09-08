@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kaohsiung-kaohsiung-museum-of-fine-arts
-srcHash: '9a8edec94fb6'
+srcHash: 'f7d12ca763e8'
 title: 가오슝시립미술관 여행 가이드 (4.5★)
 description: 구산구(Gushan District)에 자리한 가오슝시립미술관은 조각공원과 호수를 품은 넓은 공원 안에 들어선 현대미술관입니다. 4.5★(리뷰 11,507건) — 방문객들의 후기, 운영시간, 방문 팁을 확인해보세요.
 quickAnswer: 구산구(Gushan District)에 자리한 가오슝시립미술관은 조각공원과 호수를 품은 넓은 공원 안에 들어선 현대미술관입니다. 월요일에는 문을 닫고, 나머지 요일에는 오전 9시 30분부터 오후 5시 30분까지 운영합니다. 주말에는 정오부터 오후 5시 사이가 붐비므로 오전 시간대가 상대적으로 한산합니다. 전시 관람뿐 아니라 주변 미술관공원(Museum of Fine Arts Park)에서 산책이나 자전거 타기까지 즐기고 싶다면 반나절 정도는 여유롭게 잡아두는 것이 좋습니다.

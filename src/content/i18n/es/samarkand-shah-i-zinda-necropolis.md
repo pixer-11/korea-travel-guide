@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: samarkand-shah-i-zinda-necropolis
-srcHash: '636156d33758'
+srcHash: 'c791915da780'
 title: 'Necrópolis de Shah-i-Zinda: Guía de viaje de Samarcanda (4,8★)'
 description: 'Shah-i-Zinda es un corredor ascendente de mausoleos turquesa y cobalto situado justo al noreste del Registán de Samarcanda, abierto todos los días de 7:00 a 22:00. 4,8★ (5.594 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Shah-i-Zinda es un corredor ascendente de mausoleos turquesa y cobalto situado justo al noreste del Registán de Samarcanda, abierto todos los días de 7:00 a 22:00. Es realmente uno de los lugares más visitados de la ciudad, así que conviene ir a primera hora de la mañana o después de las 19:00 para evitar la aglomeración de fin de semana entre las 11:00 y las 19:00. Calcule entre 60 y 90 minutos para recorrer toda la escalinata de tumbas hasta el núcleo situado en la cima de la colina.

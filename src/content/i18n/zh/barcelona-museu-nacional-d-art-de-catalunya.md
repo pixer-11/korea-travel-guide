@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-museu-nacional-d-art-de-catalunya
-srcHash: '1f90a170574b'
+srcHash: 'fd4934818ac7'
 title: 加泰罗尼亚国家艺术博物馆(Museu Nacional d'Art de Catalunya):巴塞罗那旅行指南
 description: MNAC坐落在蒙特惠奇山(Montjuïc)的国家宫(Palau Nacional)内，前去参观的头号理由是其罗马式艺术收藏——一组11至12世纪比利牛斯山区教堂壁画，举世罕见。4.7★(39,228条评价)——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: MNAC坐落在蒙特惠奇山(Montjuïc)的国家宫(Palau Nacional)内，前去参观的头号理由是其罗马式艺术收藏——一组11至12世纪比利牛斯山区教堂壁画，举世罕见。建议安排两到三个小时，先直奔罗马式艺术展厅，最后在博物馆正门露台上迎着黄金时刻的落日光线收尾，那里是巴塞罗那城市天际线最美的观景点之一。出发前务必查询官方开放时间，因为博物馆周一闭馆，周日的开放时间也比其他日子短。

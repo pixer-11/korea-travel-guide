@@ -78,17 +78,17 @@ updatedDate: '2026-08-29'
 
 ## Why Víctor Montes matters
 
-Plaza Nueva—locals call it Plaza Berria—is the arcaded heart of Bilbao's old town, and Víctor Montes occupies one of its most photographed corners. The building itself used to be part of the old market, and the facade still carries ornate painted lettering and ironwork that make it look more like a 19th-century apothecary than a bar. Step through the door at pintxo hour and you understand why people keep coming back: the counter is a long glass case stacked three rows deep with skewered anchovies, folded slices of tortilla, croquettes glistening under the lights, and towers of jamón perched on bread. It's loud, bright, and unapologetically busy.
+Plaza Nueva, locals call it Plaza Berria, is the arcaded heart of Bilbao's old town, and Víctor Montes occupies one of its most photographed corners. The building itself used to be part of the old market, and the facade still carries ornate painted lettering and ironwork that make it look more like a 19th-century apothecary than a bar. Step through the door at pintxo hour and you understand why people keep coming back: the counter is a long glass case stacked three rows deep with skewered anchovies, folded slices of tortilla, croquettes glistening under the lights, and towers of jamón perched on bread. It's loud, bright, and unapologetically busy.
 
 ## Getting there
 
-You're in the pedestrian core of Casco Viejo, so most people arrive on foot or by metro. The closest stop is Casco Viejo on Line 1 or Line 2 of the Bilbao Metro, about a 5-minute walk across the river via the Puente del Arenal. If you're coming from the Guggenheim or Abandoibarra, it's a flat, pleasant 20-minute riverside walk, or a quick tram/metro combination. Plaza Berria itself is easy to spot—just look for the arcades and the crowd spilling out from under them with drinks in hand.
+You're in the pedestrian core of Casco Viejo, so most people arrive on foot or by metro. The closest stop is Casco Viejo on Line 1 or Line 2 of the Bilbao Metro, about a 5-minute walk across the river via the Puente del Arenal. If you're coming from the Guggenheim or Abandoibarra, it's a flat, pleasant 20-minute riverside walk, or a quick tram/metro combination. Plaza Berria itself is easy to spot, just look for the arcades and the crowd spilling out from under them with drinks in hand.
 
 ## What to eat and drink
 
 The bar counter is where the reputation was built. Grab a plate and work through the classics: the tortilla de patata, the bacalao pintxos, and the jamón-topped slices are the ones locals point tourists toward, but the seasonal specials chalked up on a board near the register are worth a look too. Pair anything with a small glass of txakoli, the slightly sparkling young Basque white wine, poured from height in the traditional way, or a caña of local beer.
 
-Behind the bar area there's a proper dining room for a sit-down meal—expect grilled fish, Basque-style stews, and a more considered, plated version of the same repertoire, at prices that land in the mid-range for Bilbao rather than at the high end. A full seated meal here runs longer and costs more than a pintxos crawl, so decide up front which experience you want.
+Behind the bar area there's a proper dining room for a sit-down meal. Expect grilled fish, Basque-style stews, and a more considered, plated version of the same repertoire, at prices that land in the mid-range for Bilbao rather than at the high end. A full seated meal here runs longer and costs more than a pintxos crawl, so decide up front which experience you want.
 
 ## When to go
 
@@ -98,11 +98,11 @@ If you want photos of that painted facade without a wall of people in front of i
 
 ## How to visit like a local
 
-Order pintxos the way regulars do: pick up a small plate at the counter, point at what you want, and stack your saucers rather than asking for a menu—the bill is often tallied by counting your plates and toothpicks at the end. Cash still moves faster here than card during peak crush, though cards are accepted, and tipping is not expected the way it is in the US—rounding up or leaving small coins is plenty.
+Order pintxos the way regulars do: pick up a small plate at the counter, point at what you want, and stack your saucers rather than asking for a menu. The bill is often tallied by counting your plates and toothpicks at the end. Cash still moves faster here than card during peak crush, though cards are accepted, and tipping is not expected the way it is in the US, rounding up or leaving small coins is plenty.
 
 Given how well-known this spot has become, don't expect a quiet, undiscovered corner of the old town; the smarter move is to treat the counter as a quick stop rather than trying to camp out at prime time. If you want a table for the sit-down menu, especially on a weekend evening, it's worth asking about reserving ahead rather than walking in and hoping.
 
-The mistake most first-timers make is arriving right at 9pm on a Friday expecting elbow room—shift your visit an hour or two earlier or later and the whole experience feels far less like a scrum. Locals treat Plaza Nueva as a pintxos circuit rather than a one-stop destination, so pace yourself: have two or three pintxos and a glass of txakoli here, then move on to another bar around the square, the traditional txikiteo crawl pattern that defines how Basques actually eat out.
+The mistake most first-timers make is arriving right at 9pm on a Friday expecting elbow room, shift your visit an hour or two earlier or later and the whole experience feels far less like a scrum. Locals treat Plaza Nueva as a pintxos circuit rather than a one-stop destination, so pace yourself: have two or three pintxos and a glass of txakoli here, then move on to another bar around the square, the traditional txikiteo crawl pattern that defines how Basques actually eat out.
 
 Plan on 30-45 minutes for a standing pintxos stop, or well over an hour if you settle into the dining room for a full meal.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-ayla
-srcHash: '92b947cfe561'
+srcHash: 'b4d921e3cb38'
 title: 'Ayla: guía de viaje de Lyon'
 description: 'Ayla, en Lyon, Francia, es uno de los locales del momento: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Ayla es un restaurante de fusión centrado en la cocina vegetariana que se encuentra en el distrito 3 de Lyon, justo enfrente de Les Halles de Lyon Paul Bocuse, el célebre mercado cubierto de la ciudad. En 2026 se ha convertido en una de las mesas más comentadas de Lyon, precisamente por romper con la tradición cárnica de los bouchons. Conviene reservar con antelación, ya que la demanda ha superado la capacidad de su pequeño comedor desde que empezó a correrse la voz.

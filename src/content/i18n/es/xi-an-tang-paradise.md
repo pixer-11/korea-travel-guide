@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xi-an-tang-paradise
-srcHash: 'bb7980797490'
+srcHash: '2a2d90bd1e3f'
 title: 'Tang Paradise: guía de viaje de Xi''an'
 description: Tang Paradise (大唐芙蓉园) es un extenso jardín imperial que recrea la dinastía Tang en el sureste de Xi'an. Conviene visitarlo a última hora de la tarde para pasear por los pabellones con luz de día y quedarse al espectáculo nocturno de agua y luces junto a la Torre de las Nubes Púrpuras.
 quickAnswer: 'Tang Paradise (大唐芙蓉园) es un extenso jardín imperial que recrea la dinastía Tang en el sureste de Xi''an. Conviene visitarlo a última hora de la tarde: así se pueden recorrer los pabellones con luz natural y quedarse por la noche para el espectáculo de agua y luces junto a la Torre de las Nubes Púrpuras. Calcula entre media jornada y una tarde completa —de 3 a 5 horas— y, si puedes elegir, ve entre semana, ya que recibe muchos menos visitantes que el Ejército de Terracota o la Muralla de la Ciudad. Se combina fácilmente con la cercana Gran Pagoda del Ganso Salvaje, a unos 15-20 minutos caminando o un corto trayecto en taxi.'

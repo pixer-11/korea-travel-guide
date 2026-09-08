@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: turin-museo-egizio
-srcHash: 'f31512160dcf'
+srcHash: 'e2ca1ce0f553'
 title: 埃及博物馆:都灵旅行指南
 description: 埃及博物馆坐落在都灵市中心的科学院街(Via Accademia delle Scienze)上，是世界上历史最悠久的埃及学博物馆，也是开罗之外规模最大的古埃及文物收藏地。
 quickAnswer: 埃及博物馆坐落在都灵市中心的科学院街(Via Accademia delle Scienze)上，是世界上历史最悠久的埃及学博物馆，也是开罗之外规模最大的古埃及文物收藏地。建议提前在网上预订带时段的门票，并选择刚开馆(上午9点)或闭馆前两小时到访，以避开旅行团人潮;参观时间最好预留两到三小时，才能充分领略这里的精彩。

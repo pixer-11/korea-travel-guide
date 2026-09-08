@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-smith-wollensky-ginza
-srcHash: 'd2698f2fc134'
+srcHash: 'e8966fd76234'
 title: 银座史密斯与沃伦斯基牛排馆：东京旅行指南
 description: 东京银座史密斯与沃伦斯基牛排馆（Smith & Wollensky Ginza）——这家新晋人气餐厅是什么样、位于何处、该怎么去。
 quickAnswer: 史密斯与沃伦斯基是纽约著名牛排馆，而银座这家门店是它在日本的首家分店，坐落于银座高端购物区附近，共占三层楼面。这里主打美国农业部认证特级（USDA Prime）干式熟成牛排，配有藏酒超过2,000瓶的酒窖，晚间酒吧区还有现场爵士乐助兴。由于人气正旺、一位难求，前去之前务必提前订位并确认营业时间。

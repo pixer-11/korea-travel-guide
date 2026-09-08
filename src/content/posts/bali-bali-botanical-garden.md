@@ -60,11 +60,11 @@ updatedDate: '2026-08-28'
 
 ## Why go
 
-The air changes before you even reach the gate. Candikuling sits over 1,200 metres up near Bedugul, and the temperature drops noticeably from the coast — you'll want a light jacket, not sunscreen alone.
+The air changes before you even reach the gate. Candikuling sits over 1,200 metres up near Bedugul, and the temperature drops noticeably from the coast. You'll want a light jacket, not sunscreen alone.
 
 This is Bali's largest botanical garden, sprawling across forested hillside around Lake Beratan. Mist often clings to the tree canopy in the early morning, and the air smells of wet soil and eucalyptus rather than incense and motorbike exhaust.
 
-It's not a quiet corner anymore — with well over 18,000 reviews and a very popular reputation, this is a mainstream Bali stop. Go in expecting company, and plan around it rather than hoping to dodge it entirely.
+It's not a quiet corner anymore, with well over 18,000 reviews and a very popular reputation, this is a mainstream Bali stop. Go in expecting company, and plan around it rather than hoping to dodge it entirely.
 
 ## What to see
 
@@ -75,7 +75,7 @@ The garden is organized into themed sections, and you could easily spend three o
 - Rows of towering bamboo and a fern collection tucked into shadier slopes
 - A treetop ropes and zipline course for an adrenaline break mid-visit
 
-Troops of long-tailed macaques move through the tree cover in places, especially near the forested edges — keep food packed away and don't make eye contact if one gets close. The paved paths are wide and mostly flat near the entrance, but some sections climb, so proper shoes help more than flip-flops.
+Troops of long-tailed macaques move through the tree cover in places, especially near the forested edges. Keep food packed away and don't make eye contact if one gets close. The paved paths are wide and mostly flat near the entrance, but some sections climb, so proper shoes help more than flip-flops.
 
 ## Getting there
 
@@ -93,11 +93,11 @@ The dry season, roughly April to October, gives you the clearest mountain views 
 
 ## How to visit like a local
 
-Arrive close to opening — 8am on any day of the week — when the paths are still quiet and the light through the canopy is softest for photos. By late morning, tour buses cluster in the car park and the main avenues near the entrance fill in.
+Arrive close to opening, 8am on any day of the week, when the paths are still quiet and the light through the canopy is softest for photos. By late morning, tour buses cluster in the car park and the main avenues near the entrance fill in.
 
 Since this is a well-visited, mainstream attraction rather than a hidden corner, the smarter move is timing rather than trying to find a secret entrance or empty hour. Ticket booths typically take cash in Indonesian rupiah; card payment isn't reliably available, so bring rupiah notes for entry and for the ropes course fee, which is usually paid separately on site.
 
-Most visitors underestimate how cold and damp Bedugul gets compared to the beaches — bring a jacket rather than relying on the tropical-Bali wardrobe you packed for Kuta or Canggu. Locals visiting for weekend family outings often head straight for the flatter, shadier paths near the lake side first, saving the steeper botanical sections for once the morning mist has cleared.
+Most visitors underestimate how cold and damp Bedugul gets compared to the beaches. Bring a jacket rather than relying on the tropical-Bali wardrobe you packed for Kuta or Canggu. Locals visiting for weekend family outings often head straight for the flatter, shadier paths near the lake side first, saving the steeper botanical sections for once the morning mist has cleared.
 
 Give yourself at least two hours for the plant collections alone, and add another hour if you want the treetop course. Confirm current entry and activity prices at the gate, since these are periodically adjusted and not worth guessing at in advance.
 

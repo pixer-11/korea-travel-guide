@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue
-srcHash: 'aedc7f602577'
+srcHash: 'bdfb020c40d1'
 title: 'Comida Vietnamita - Restaurante Local y Fastfood Hue 22: Dónde comer'
 description: Dirígete a 22 Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Hue, para disfrutar de comida vietnamita y platos locales al estilo de Hue, económicos y en gran cantidad (calificación de 4.9 con más de 2,000 reseñas).
 quickAnswer: Dirígete a 22 Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Hue, para disfrutar de comida vietnamita y platos locales al estilo de Hue, económicos y en gran cantidad (calificación de 4.9 con más de 2,000 reseñas). Presupuesta menos de 100,000 VND para una comida completa de especialidades de Hue como bún bò Huế, bánh khoái o com hen, y ve a la hora del almuerzo o al principio de la tarde, cuando la alta rotación mantiene todo fresco.

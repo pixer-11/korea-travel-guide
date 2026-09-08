@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: genting-highlands-genting-skyworlds-theme-park
-srcHash: 'd7e869df5976'
+srcHash: 'cb64e5c0c721'
 title: 云顶新天地主题公园：云顶高原旅行指南
 description: 云顶新天地是坐落于云顶高原之上的好莱坞主题乐园，可从安邦空中缆车站（Awana Skyway）乘缆车抵达。4.2星（17,092条评价）——游客怎么说、开放时间与实用建议，一次看懂。
 quickAnswer: 云顶新天地是一座建在云顶高原上的好莱坞主题乐园，从安邦空中缆车站（Awana Skyway）乘缆车即可到达。除周二外每日开放，时间为上午10点至下午6点，周末上午11点到下午6点这段时间人特别多，建议一开门就到，或者挑工作日前往，排队能少不少。想把六大主题园区都逛透，最好留一整天，大概6到7个小时。

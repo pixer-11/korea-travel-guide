@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-taman-mini-indonesia-indah
-srcHash: '7fa9623bcbfe'
+srcHash: 'c77c8fa318cd'
 title: 'Taman Mini Indonesia Indah: Guía de viaje de Yakarta'
 description: Taman Mini Indonesia Indah (TMII) es un extenso parque cultural en Yakarta Oriental donde las 34 provincias de Indonesia están representadas mediante casas tradicionales a tamaño real, además de museos, jardines, un teleférico y un cine tipo IMAX.
 quickAnswer: Taman Mini Indonesia Indah (TMII) es un extenso parque cultural en Yakarta Oriental donde las 34 provincias de Indonesia están representadas mediante casas tradicionales a tamaño real, además de museos, jardines, un teleférico y un cine tipo IMAX. Calcula al menos medio día —un día completo si quieres subir al teleférico y visitar dos o tres museos— y ve entre semana para evitar las multitudes que abarrotan el parque los fines de semana y días festivos.

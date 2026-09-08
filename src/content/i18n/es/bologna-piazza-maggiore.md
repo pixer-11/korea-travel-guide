@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-piazza-maggiore
-srcHash: '7d2c30036e3f'
+srcHash: 'ace300814088'
 title: 'Piazza Maggiore: guía de viaje de Bolonia'
 description: Piazza Maggiore es el corazón medieval de Bolonia, enmarcado por la fachada de mármol inacabada de la Basílica de San Petronio, el almenado Palazzo d'Accursio y el Palazzo dei Notai, y la vecina Piazza del Nettuno con la fuente de bronce de Neptuno de Giambologna.
 quickAnswer: Piazza Maggiore es el corazón medieval de Bolonia, enmarcado por la fachada de mármol inacabada de la Basílica de San Petronio, el almenado Palazzo d'Accursio y el Palazzo dei Notai, y la vecina Piazza del Nettuno con la fuente de bronce de Neptuno de Giambologna. Es gratuita, está abierta todo el día, y se disfruta mejor a primera hora de la mañana (antes de las 9h) o después de cenar, ya que a mediodía y a primera hora de la tarde es cuando hay más afluencia. Reserva entre 45 minutos y una hora solo para sentarte, contemplar el ladrillo visto y recorrer los soportales del perímetro.

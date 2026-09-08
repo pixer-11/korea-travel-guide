@@ -72,11 +72,11 @@ draft: false
 ---
 ## Why go
 
-You walk in expecting a few gimmicky photo ops and instead find yourself questioning basic physics. Paradox Museum Mumbai is built entirely around illusions — rooms that trick your eye, your camera, and occasionally your sense of balance.
+You walk in expecting a few gimmicky photo ops and instead find yourself questioning basic physics. Paradox Museum Mumbai is built entirely around illusions, rooms that trick your eye, your camera, and occasionally your sense of balance.
 
 Every exhibit is designed to be photographed, which means you're never just looking at something. You're standing inside it, shrinking next to an oversized chair or somehow floating sideways on a tilted floor.
 
-It's one of the more consistently well-rated attractions in South Mumbai, and the crowds inside reflect that. This isn't a quiet, contemplative museum — it's loud, colourful, and built for groups working the rooms together.
+It's one of the more consistently well-rated attractions in South Mumbai, and the crowds inside reflect that. This isn't a quiet, contemplative museum. It's loud, colourful, and built for groups working the rooms together.
 
 ## Getting there
 
@@ -90,10 +90,10 @@ Street parking near Azad Maidan is limited and unpredictable, especially on week
 
 The rooms rotate through classic illusion formats, but a few are worth planning your photos around:
 
-- **The vortex tunnel** — a spinning cylindrical corridor that scrambles your sense of which way is up
-- **Anti-gravity and tilted rooms** — where furniture and people appear to defy physics in photos
-- **Scale-distortion sets** — oversized or shrunk furniture that makes you look tiny or giant
-- **Mirror and infinity rooms** — classic reflective illusions stretched to disorienting effect
+- **The vortex tunnel**, a spinning cylindrical corridor that scrambles your sense of which way is up
+- **Anti-gravity and tilted rooms**, where furniture and people appear to defy physics in photos
+- **Scale-distortion sets**, oversized or shrunk furniture that makes you look tiny or giant
+- **Mirror and infinity rooms**, classic reflective illusions stretched to disorienting effect
 
 Staff are usually on hand in each room to help you find the exact angle that sells the illusion, since most of these only "work" through a camera lens held at a specific spot.
 
@@ -103,17 +103,17 @@ The museum runs 11am to 8pm most weekdays, and stays open until 8:30pm on Saturd
 
 Crowd patterns are fairly predictable here. Weekday hours overall run quieter throughout, while weekends see a genuine lull only in that first hour after opening, from 11am to noon.
 
-If you're visiting on a Saturday or Sunday, try not to arrive between 2pm and 7pm — that's when the rooms fill up and you'll be queuing for the popular shots.
+If you're visiting on a Saturday or Sunday, try not to arrive between 2pm and 7pm. That's when the rooms fill up and you'll be queuing for the popular shots.
 
 Weekday afternoons remain your safest bet for having a room mostly to yourself between takes.
 
 ## How to visit like a local
 
-Book your slot online ahead of time rather than showing up and hoping — this is a very popular attraction and walk-in queues can be long, especially on weekends.
+Book your slot online ahead of time rather than showing up and hoping. This is a very popular attraction and walk-in queues can be long, especially on weekends.
 
 Payment is almost entirely digital here; UPI and card are the norm, cash less so, in line with most ticketed attractions across Mumbai now.
 
-Wear solid colours and avoid busy patterns — the illusions photograph far better against plain clothing, and staff will often tell you this if you're wearing something distracting.
+Wear solid colours and avoid busy patterns, the illusions photograph far better against plain clothing, and staff will often tell you this if you're wearing something distracting.
 
 The biggest mistake first-timers make is rushing. Each room needs a minute or two of experimenting with angles before the illusion clicks in a photo, so don't just snap once and move on.
 

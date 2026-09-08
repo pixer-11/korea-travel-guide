@@ -45,7 +45,7 @@ aiGenerated: true
 draft: false
 ---
 
-You step off Market Street and the modern city just falls away. Cobblestones replace asphalt, brick rowhouses with shuttered windows line up in neat Georgian rows, and ahead of you rises a plain red-brick tower with a white steeple — Independence Hall, looking almost too small for what happened inside it.
+You step off Market Street and the modern city just falls away. Cobblestones replace asphalt, brick rowhouses with shuttered windows line up in neat Georgian rows, and ahead of you rises a plain red-brick tower with a white steeple, Independence Hall, looking almost too small for what happened inside it.
 
 That's the trick of this place. It doesn't shout. The Declaration of Independence and the Constitution were both debated in a room you can actually walk into, and the park around it keeps the same understated scale.
 
@@ -53,28 +53,28 @@ That's the trick of this place. It doesn't shout. The Declaration of Independenc
 
 This isn't one building but a 20-block historic district. Independence Hall, the Liberty Bell Center, Congress Hall, and Franklin Court all sit within a few minutes' walk of each other in Old City.
 
-You're tracing the actual ground where delegates argued through the summer of 1787. The National Park Service manages it all, and rangers lead most of the tours — no actors, no reenactments, just the rooms themselves.
+You're tracing the actual ground where delegates argued through the summer of 1787. The National Park Service manages it all, and rangers lead most of the tours, no actors, no reenactments, just the rooms themselves.
 
 ## Getting there
 
 The park sits between 2nd and 6th Streets, bordered by Walnut and Race. SEPTA's Market-Frankford Line stops at 5th Street/Independence Hall, dropping you right at the visitor center's doorstep.
 
-If you're driving, park garages line 2nd and 3rd Streets — street parking in Old City is scarce and metered. Amtrak travelers can walk from 30th Street Station in about 25 minutes, or grab a short cab ride.
+If you're driving, park garages line 2nd and 3rd Streets, street parking in Old City is scarce and metered. Amtrak travelers can walk from 30th Street Station in about 25 minutes, or grab a short cab ride.
 
 ## What to see first
 
-Start at the Independence Visitor Center on 6th and Market. This is where you pick up same-day timed tickets for Independence Hall — required, free, and they go fast.
+Start at the Independence Visitor Center on 6th and Market. This is where you pick up same-day timed tickets for Independence Hall, required, free, and they go fast.
 
-- **Liberty Bell Center** — walk-in, no ticket needed, see the crack up close
-- **Independence Hall** — timed ticket, ranger-led, 20-minute tour through the Assembly Room
-- **Congress Hall** — where Congress met 1790–1800, often overlooked by crowds
-- **Franklin Court** — Ben Franklin's home site, marked by a steel "ghost structure" outline
+- **Liberty Bell Center**. Walk-in, no ticket needed, see the crack up close
+- **Independence Hall**, timed ticket, ranger-led, 20-minute tour through the Assembly Room
+- **Congress Hall**, where Congress met 1790–1800, often overlooked by crowds
+- **Franklin Court**, Ben Franklin's home site, marked by a steel "ghost structure" outline
 
 Give the Liberty Bell ten minutes, Independence Hall closer to 45 with the queue, and a full afternoon if you want the museums too.
 
 ## Beyond the headline sites
 
-The Second Bank of the United States holds a portrait gallery worth a detour if you like faces of the Founders rendered in oil. The National Constitution Center, just across the mall, isn't part of the NPS park but pairs naturally with a visit — its interactive exhibits fill in context the historic rooms can't.
+The Second Bank of the United States holds a portrait gallery worth a detour if you like faces of the Founders rendered in oil. The National Constitution Center, just across the mall, isn't part of the NPS park but pairs naturally with a visit, its interactive exhibits fill in context the historic rooms can't.
 
 Don't skip Christ Church and its burial ground a few blocks north, where Benjamin Franklin's grave draws visitors who toss pennies onto the stone.
 
@@ -84,11 +84,11 @@ This park draws heavy crowds year-round, so timing your visit matters more than 
 
 - Arrive at the visitor center right at opening to grab the first tour slots
 - Weekday mornings run noticeably lighter than weekend afternoons
-- Everything inside the park — Liberty Bell, Independence Hall, Congress Hall — is free; only the timed entry system controls the crowd
+- Everything inside the park (Liberty Bell, Independence Hall, Congress Hall) is free; only the timed entry system controls the crowd
 - Security screening at Independence Hall means no bags larger than a small backpack
-- Rangers refer to the building as "the Hall," not "Independence Hall Museum" — there's no museum by that name
+- Rangers refer to the building as "the Hall," not "Independence Hall Museum". There's no museum by that name
 
-The mistake most visitors make is treating this as a quick photo-op outside the Hall and skipping the ticketed interior tour entirely. That room — where the actual debates happened — is the whole point. Confirm current opening hours and ticket procedures on the NPS website before you go, since seasonal schedules shift.
+The mistake most visitors make is treating this as a quick photo-op outside the Hall and skipping the ticketed interior tour entirely. That room, where the actual debates happened, is the whole point. Confirm current opening hours and ticket procedures on the NPS website before you go, since seasonal schedules shift.
 
 ## When to go
 

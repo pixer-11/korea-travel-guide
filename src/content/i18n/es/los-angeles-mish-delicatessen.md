@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-mish-delicatessen
-srcHash: 'd23ee6e21a86'
+srcHash: 'ecba7fcb5ccb'
 title: 'Mish Delicatessen: Guía de viaje de Los Ángeles'
 description: 'Mish Delicatessen en Los Ángeles, Estados Unidos: un local nuevo y en pleno auge. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Mish Delicatessen es un deli judío de estilo moderno situado cerca de Melrose y La Brea, en Hollywood (Los Ángeles), instalado en un edificio de mediados de siglo bañado de luz que cuenta con un bar completo y un salón de escucha en la planta alta. Es una apertura de 2026 que está ganando popularidad rápidamente, así que conviene ir al principio de la tarde entre semana para disfrutar del espacio con más calma, y confirmar directamente con el restaurante los horarios y la política de reservas antes de la visita. Las noches de fin de semana serán probablemente las más concurridas debido al interés que ha despertado el local.

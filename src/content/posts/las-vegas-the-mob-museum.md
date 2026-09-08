@@ -64,34 +64,34 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You come around the corner from Fremont Street, past the neon and the noise, and suddenly you're standing in front of a squared-off, sand-colored Neoclassical building that looks like it belongs in front of a judge, not a slot machine. That's the point. This was Las Vegas's federal courthouse and post office, built in 1933, and it's the same building where, in 1950, Senator Estes Kefauver's traveling committee held hearings on organized crime — one of fourteen cities visited, but the only one where that history now anchors a museum on the very site it happened.
+You come around the corner from Fremont Street, past the neon and the noise, and suddenly you're standing in front of a squared-off, sand-colored Neoclassical building that looks like it belongs in front of a judge, not a slot machine. That's the point. This was Las Vegas's federal courthouse and post office, built in 1933, and it's the same building where, in 1950, Senator Estes Kefauver's traveling committee held hearings on organized crime, one of fourteen cities visited, but the only one where that history now anchors a museum on the very site it happened.
 
 Inside, the transition from municipal building to storytelling machine is immediate. The original courtroom on the second floor is preserved almost exactly as it was, wood benches and all, and you can sit in the gallery and watch archival footage of witnesses being sworn in a few feet from where it actually occurred. That kind of physical authenticity is rare in a city built almost entirely on reproduction and illusion.
 
 ## Why this museum works
 
-The exhibits are arranged over three floors, and the design leans hard into immersion rather than glass cases and wall text. You'll walk through a mocked-up speakeasy, stand in front of the actual bullet-pocked wall from the St. Valentine's Day Massacre garage in Chicago, and follow interactive touchscreens that let you choose which mobster's story to trace — Bugsy Siegel, Meyer Lansky, the Chicago Outfit's slow colonization of Vegas casinos.
+The exhibits are arranged over three floors, and the design leans hard into immersion rather than glass cases and wall text. You'll walk through a mocked-up speakeasy, stand in front of the actual bullet-pocked wall from the St. Valentine's Day Massacre garage in Chicago, and follow interactive touchscreens that let you choose which mobster's story to trace, Bugsy Siegel, Meyer Lansky, the Chicago Outfit's slow colonization of Vegas casinos.
 
 A working, non-firing shooting simulator (an added-cost add-on) teaches basic firearms judgment the way police trainees learn it, which sounds gimmicky until you're standing in front of it with an adrenaline spike.
 
 ## Getting there
 
-The museum sits at 300 Stewart Ave, in the Fremont East district of downtown Las Vegas, easily walkable — about 10 to 15 minutes on foot — from the Fremont Street Experience and the downtown casino corridor (Golden Nugget, El Cortez). If you're staying on the Strip, a rideshare or the Deuce bus line up Las Vegas Boulevard is the simplest route; there's no direct monorail or light rail stop, so budget for a taxi, rideshare, or a 20–25 minute bus ride depending on traffic.
+The museum sits at 300 Stewart Ave, in the Fremont East district of downtown Las Vegas, easily walkable, about 10 to 15 minutes on foot, from the Fremont Street Experience and the downtown casino corridor (Golden Nugget, El Cortez). If you're staying on the Strip, a rideshare or the Deuce bus line up Las Vegas Boulevard is the simplest route; there's no direct monorail or light rail stop, so budget for a taxi, rideshare, or a 20–25 minute bus ride depending on traffic.
 
-Metered street parking exists nearby, but the museum's own parking garage just behind the building is the easiest option and validated parking is typically available for ticket holders — confirm current validation terms when you arrive.
+Metered street parking exists nearby, but the museum's own parking garage just behind the building is the easiest option and validated parking is typically available for ticket holders, confirm current validation terms when you arrive.
 
 ## What to see and do
 
-Plan on two to three hours minimum; history buffs often stretch it to four. Don't rush the ground floor's origin-of-organized-crime section — it's the connective tissue for everything upstairs. Look for the recreated wiretapping room, the Kefauver hearing room itself, and the exhibit on how mob money quietly built and skimmed early Strip casinos, which reframes a lot of what you'll see later that night on Fremont Street or the Strip.
+Plan on two to three hours minimum; history buffs often stretch it to four. Don't rush the ground floor's origin-of-organized-crime section. It's the connective tissue for everything upstairs. Look for the recreated wiretapping room, the Kefauver hearing room itself, and the exhibit on how mob money quietly built and skimmed early Strip casinos, which reframes a lot of what you'll see later that night on Fremont Street or the Strip.
 
 The rooftop Mob Bar (open to the public even without a museum ticket) pours Prohibition-era-style cocktails and is a good way to decompress after the darker exhibits on federal crackdowns and mob violence.
 
 ## When to go
 
-Both weekdays and weekends stay comparatively calm earlier in the day — but weekends get noticeably busier between 11am and 7pm, when tour groups and families cluster. If you want the rooms to yourself, arrive right at opening or come after 7pm on a weekend evening. Confirm current opening hours on the museum's website before you go, since they can shift seasonally.
+Both weekdays and weekends stay comparatively calm earlier in the day, but weekends get noticeably busier between 11am and 7pm, when tour groups and families cluster. If you want the rooms to yourself, arrive right at opening or come after 7pm on a weekend evening. Confirm current opening hours on the museum's website before you go, since they can shift seasonally.
 
 ## How to visit like a local
 
-Buy timed-entry tickets online in advance rather than queuing at the door — the museum uses timed entry to manage flow, and walk-up availability isn't guaranteed on busy weekends. Cash isn't necessary; card and mobile payment are standard for tickets, the bar, and the gift shop. Locals treat this as a rainy-afternoon or triple-digit-summer-day escape from the heat rather than a nighttime activity, so pair it with an early dinner on Fremont Street afterward rather than folding it into a late-night casino crawl.
+Buy timed-entry tickets online in advance rather than queuing at the door, the museum uses timed entry to manage flow, and walk-up availability isn't guaranteed on busy weekends. Cash isn't necessary; card and mobile payment are standard for tickets, the bar, and the gift shop. Locals treat this as a rainy-afternoon or triple-digit-summer-day escape from the heat rather than a nighttime activity, so pair it with an early dinner on Fremont Street afterward rather than folding it into a late-night casino crawl.
 
-The most common visitor mistake is treating it like a quick photo-op stop between casinos — the exhibits reward unhurried reading, so don't schedule it back-to-back with something else timed tightly. If you're mobility-limited, note the building retains original 1933 stairwells alongside modern elevators, so ask staff for the accessible route on arrival.
+The most common visitor mistake is treating it like a quick photo-op stop between casinos, the exhibits reward unhurried reading, so don't schedule it back-to-back with something else timed tightly. If you're mobility-limited, note the building retains original 1933 stairwells alongside modern elevators, so ask staff for the accessible route on arrival.

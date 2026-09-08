@@ -88,23 +88,23 @@ draft: false
 updatedDate: '2026-09-01'
 ---
 
-You see it before you reach the square: a rough-hewn stone tower punching 94 meters into the Florentine sky, off-center and asymmetrical in a way that no modern architect would allow. That crookedness is the point. Palazzo Vecchio wasn't built to be pretty — it was built to survive, a fortress for a government that genuinely feared being overthrown. Notice the machicolations along the top, the small windows, the sheer defensive bulk of it, and the whole building starts to read less like a museum and more like a bunker with frescoes inside.
+You see it before you reach the square: a rough-hewn stone tower punching 94 meters into the Florentine sky, off-center and asymmetrical in a way that no modern architect would allow. That crookedness is the point. Palazzo Vecchio wasn't built to be pretty. It was built to survive, a fortress for a government that genuinely feared being overthrown. Notice the machicolations along the top, the small windows, the sheer defensive bulk of it, and the whole building starts to read less like a museum and more like a bunker with frescoes inside.
 
 ## Why go
 
-This is still Florence's city hall — the mayor's office is in here, alongside some of the most important interiors of the Renaissance. The Salone dei Cinquecento alone justifies the ticket: a room the length of a football pitch, built in 1494 for a 500-member republican council, later reworked by Giorgio Vasari with wall-sized battle frescoes and a coffered ceiling stacked with gilded panels glorifying the Medici.
+This is still Florence's city hall. The mayor's office is in here, alongside some of the most important interiors of the Renaissance. The Salone dei Cinquecento alone justifies the ticket: a room the length of a football pitch, built in 1494 for a 500-member republican council, later reworked by Giorgio Vasari with wall-sized battle frescoes and a coffered ceiling stacked with gilded panels glorifying the Medici.
 
-Michelangelo's Genius of Victory statue stands at one end. Somewhere under Vasari's paint, art historians have spent decades hunting for a lost Leonardo da Vinci mural, the Battle of Anghiari — nobody's found it yet, but the hunt itself tells you how much history is layered into these walls.
+Michelangelo's Genius of Victory statue stands at one end. Somewhere under Vasari's paint, art historians have spent decades hunting for a lost Leonardo da Vinci mural, the Battle of Anghiari, nobody's found it yet, but the hunt itself tells you how much history is layered into these walls.
 
 ## What to see inside
 
 Beyond the Salone, climb to the apartments of Eleonora of Toledo, Cosimo I de' Medici's wife, where her private chapel is frescoed floor to ceiling by Bronzino in jewel-toned blues and reds that have barely faded in 470 years. The Sala dei Gigli (Room of the Lilies) is stamped with the fleur-de-lis of the French-allied Florentine Republic and holds Donatello's bronze Judith and Holofernes.
 
-Push further and you can descend into the Roman and Etruscan foundations beneath the building — excavated remains of the original Roman theater of Florentia, accessible on a separate ticket. If you're not fazed by tight stairwells, the climb up the Torre d'Arnolfo rewards you with the single best rooftop view of the Duomo's dome and the terracotta roofscape of the historic center; it requires its own timed ticket and isn't for anyone with claustrophobia or mobility issues, since the passages narrow considerably near the top.
+Push further and you can descend into the Roman and Etruscan foundations beneath the building, excavated remains of the original Roman theater of Florentia, accessible on a separate ticket. If you're not fazed by tight stairwells, the climb up the Torre d'Arnolfo rewards you with the single best rooftop view of the Duomo's dome and the terracotta roofscape of the historic center; it requires its own timed ticket and isn't for anyone with claustrophobia or mobility issues, since the passages narrow considerably near the top.
 
 ## Getting there
 
-Palazzo Vecchio sits on Piazza della Signoria in the heart of Florence's pedestrianized historic core, a five-minute walk from the Duomo and directly beside the Uffizi Gallery. There's no metro in central Florence; the nearest train station is Firenze Santa Maria Novella, about a 12–15 minute walk south-east through Via de' Panzani and Via de' Cerretani. The square itself is the real landmark — you'll recognize it by the copy of Michelangelo's David standing guard at the palace entrance (the original lives in the Accademia) and the open-air Loggia dei Lanzi with its collection of Renaissance sculpture.
+Palazzo Vecchio sits on Piazza della Signoria in the heart of Florence's pedestrianized historic core, a five-minute walk from the Duomo and directly beside the Uffizi Gallery. There's no metro in central Florence; the nearest train station is Firenze Santa Maria Novella, about a 12–15 minute walk south-east through Via de' Panzani and Via de' Cerretani. The square itself is the real landmark. You'll recognize it by the copy of Michelangelo's David standing guard at the palace entrance (the original lives in the Accademia) and the open-air Loggia dei Lanzi with its collection of Renaissance sculpture.
 
 ## When to go
 
@@ -112,8 +112,8 @@ With a 4.7 rating from nearly 26,000 reviews, this is one of the most visited si
 
 ## How to visit like a local
 
-Book tickets online in advance rather than queuing at the door — the museum sells timed-entry slots, and walk-up lines snake across the piazza for much of the day. Go right at opening or during the last two hours before closing, when tour groups have thinned and the light through the Salone's high windows is at its best. Tickets, audio guides, and the excavation/tower add-ons are best purchased together online since combining them at the counter can mean a second wait.
+Book tickets online in advance rather than queuing at the door, the museum sells timed-entry slots, and walk-up lines snake across the piazza for much of the day. Go right at opening or during the last two hours before closing, when tour groups have thinned and the light through the Salone's high windows is at its best. Tickets, audio guides, and the excavation/tower add-ons are best purchased together online since combining them at the counter can mean a second wait.
 
-Italians visiting rarely dress up for this — comfortable shoes matter more than anything, since the stone stairs to the tower and the excavations are uneven and there's no elevator to either. Don't skip the courtyard just past the entrance: it's often overlooked by visitors rushing to the Salone, but its columns, decorated by Vasari for a Medici wedding in 1565, are free to see even without lingering, and it's where most people take their first real photo inside.
+Italians visiting rarely dress up for this, comfortable shoes matter more than anything, since the stone stairs to the tower and the excavations are uneven and there's no elevator to either. Don't skip the courtyard just past the entrance: it's often overlooked by visitors rushing to the Salone, but its columns, decorated by Vasari for a Medici wedding in 1565, are free to see even without lingering, and it's where most people take their first real photo inside.
 
-Given how central and heavily trafficked this spot is, don't expect a quiet, undiscovered corner of Florence — the crowd management strategy here is about timing your visit, not finding a secret entrance.
+Given how central and heavily trafficked this spot is, don't expect a quiet, undiscovered corner of Florence. The crowd management strategy here is about timing your visit, not finding a secret entrance.

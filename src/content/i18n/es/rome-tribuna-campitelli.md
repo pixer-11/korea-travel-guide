@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-tribuna-campitelli
-srcHash: '0db1133c4d6a'
+srcHash: 'cf8236a050f1'
 title: 'Tribuna Campitelli: Guía de viaje de Roma'
 description: 'Tribuna Campitelli en Roma, Italia — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Tribuna Campitelli es un restaurante recién inaugurado dentro de un palazzo del siglo XVI, justo al lado de Piazza d'Aracoeli, en el límite del Gueto Judío (Jewish Ghetto) de Roma, y es una de las mesas más comentadas que han abierto en la ciudad entre 2025 y 2026. Vale la pena ir tanto por el entorno como por la comida —un interior histórico restaurado a pocos pasos de la Colina Capitolina (Capitoline Hill)—, pero conviene reservar con antelación, ya que ya está atrayendo a mucha gente, y confirmar el horario vigente antes de ir.

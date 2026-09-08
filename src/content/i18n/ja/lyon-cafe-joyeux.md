@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: lyon-cafe-joyeux
-srcHash: 'fa398fcb18f1'
+srcHash: 'c02e1f1851cd'
 title: カフェ・ジョワイユ:リヨン旅行ガイド
 description: カフェ・ジョワイユ(Café Joyeux)は13 Rue Ferrandièreに位置し、プレスキル(Presqu'île)地区のレピュブリック通り(Rue de la République)ショッピングエリア内、コルドリエ(Cordeliers)メトロ駅(A線)から徒歩2分の場所にあります。
 quickAnswer: カフェ・ジョワイユ(Café Joyeux)は13 Rue Ferrandièreに位置し、プレスキル(Presqu'île)地区のレピュブリック通り(Rue de la République)ショッピングエリア内、コルドリエ(Cordeliers)メトロ駅(A線)から徒歩2分の場所にあります。知的障害や認知障害のあるスタッフが中心となって運営するコーヒー&ペイストリーのお店で、単なる「いい気分になれる」だけの店ではなく、実際に評価も高いのが特徴です。待たずに席を確保したいなら平日午前8:30〜10時の時間帯がおすすめ。週末は11時以降、混み合います。

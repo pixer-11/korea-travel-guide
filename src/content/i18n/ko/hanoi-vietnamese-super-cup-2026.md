@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hanoi-vietnamese-super-cup-2026
-srcHash: '16bc80b9b4ed'
+srcHash: 'a12638642a45'
 title: 2026 베트남 슈퍼컵 총정리 (하노이)
 description: 2026년 8월 30일 베트남 하노이에서 열리는 베트남 슈퍼컵 경기 정보를 정리했습니다. 대회 개요와 일정, 장소는 물론 이 경기를 둘러싸고 발표된 소식까지 담았습니다.
 quickAnswer: 2026 베트남 슈퍼컵은 V리그1(V.League 1) 우승팀과 베트남컵 우승팀이 맞붙는 경기로, 2026년 8월 30일 하노이 중심가에 위치한 항더이 경기장(Hàng Đẫy Stadium)에서 열릴 예정이었습니다.

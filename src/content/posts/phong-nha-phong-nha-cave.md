@@ -48,7 +48,7 @@ draft: false
 
 Phong Nha Cave is the reason this stretch of central Vietnam has a national park at all. It's a river cave you enter by boat, gliding under a limestone mouth wide enough to swallow a house, into chambers hung with stalactites that took hundreds of thousands of years to form.
 
-You don't hike to this one — you float into it. That alone makes it different from most caves you've probably visited.
+You don't hike to this one, you float into it. That alone makes it different from most caves you've probably visited.
 
 ## Getting there
 
@@ -61,13 +61,13 @@ Phong Nha Cave sits inside Phong Nha-Ke Bang National Park, a UNESCO World Herit
 
 ## Inside the cave
 
-The boat cuts its engine as you approach the entrance, and the boatman switches to paddling. Sound changes first — the outside world drops away, replaced by dripping water and the slap of the paddle.
+The boat cuts its engine as you approach the entrance, and the boatman switches to paddling. Sound changes first, the outside world drops away, replaced by dripping water and the slap of the paddle.
 
 Coloured floodlights pick out formations with names like the Lion, the Royal Court, and the Buddha, stalactites and stalagmites built up over hundreds of millennia. About 1,500 metres of the cave are open to boats and walkways.
 
 Partway through, you disembark and walk on a wooden platform through drier chambers before rejoining the boat. The whole underground stretch takes roughly an hour, cave mouth to exit.
 
-Bring a light jacket — the cave interior stays noticeably cooler and damper than the tropical air outside.
+Bring a light jacket. The cave interior stays noticeably cooler and damper than the tropical air outside.
 
 ## When to go
 
@@ -77,12 +77,12 @@ Early morning departures, before the big tour groups arrive from Đồng Hới a
 
 ## How to visit like a local
 
-Phong Nha Cave is well established on the tourist circuit, so don't expect a quiet secret — plan around the crowds instead of hoping to avoid them entirely.
+Phong Nha Cave is well established on the tourist circuit, so don't expect a quiet secret. Plan around the crowds instead of hoping to avoid them entirely.
 
 - Arrive at the pier as early as boats run, ideally before mid-morning, when bus groups from Hue and Đồng Hới start filling the queue.
 - Boats typically operate on a per-boat rate rather than per-person, so team up with other travelers to split the cost.
 - Pay in Vietnamese dong; small riverside ticket offices rarely take cards, so carry cash.
-- Wear sandals or shoes you don't mind getting wet — you'll wade or walk on damp platforms partway through.
+- Wear sandals or shoes you don't mind getting wet. You'll wade or walk on damp platforms partway through.
 - Keep voices down once inside. Sound carries enormously in the main chambers, and the cave's calm is part of the experience.
 - Don't touch the formations. Oils from skin discolor stalactites that have been forming since before humans existed.
 - If you want fewer boats around you, ask about combining Phong Nha Cave with a Paradise Cave or Dark Cave add-on later in the day, once the morning rush at Phong Nha has moved on.

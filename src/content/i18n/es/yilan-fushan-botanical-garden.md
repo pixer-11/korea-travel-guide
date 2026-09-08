@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yilan-fushan-botanical-garden
-srcHash: '47b82480c1a0'
+srcHash: '57b8c32d7a3a'
 title: 'Jardín Botánico de Fushan: Guía de Viaje de Yilan (4.7★)'
 description: 'El Jardín Botánico de Fushan es una reserva de acceso exclusivo mediante reserva previa, situada en las montañas del municipio de Yuanshan, abierta de 9:00 a 15:00 todos los días excepto los martes. 4.7★ (4.325 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Fushan es una reserva de acceso exclusivo mediante reserva previa, ubicada en las montañas del municipio de Yuanshan, abierta de 9:00 a 15:00 todos los días excepto los martes. Es obligatorio solicitar el permiso de entrada en línea con antelación, ya que no se aceptan visitantes sin reserva, y el número de plazas diarias es limitado, por lo que los fines de semana se agotan rápido, sobre todo entre las 9:00 y las 13:00. Conviene reservar toda una mañana para la visita, calzar zapado cerrado para los senderos húmedos y llevar el comprobante del permiso junto con un documento de identidad.

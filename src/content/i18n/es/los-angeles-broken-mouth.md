@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-broken-mouth
-srcHash: '08696779dbe8'
+srcHash: 'b980d5b577a6'
 title: 'Broken Mouth: guía de viaje de Los Ángeles'
 description: 'Broken Mouth en Los Ángeles, Estados Unidos: qué es, dónde está y cómo visitar este local nuevo y de moda.'
 quickAnswer: Broken Mouth es el food hall de moda en Los Ángeles que irrumpió en el puesto n.º 7 de la lista Top 100 Restaurantes de Yelp de 2026, reuniendo bajo un mismo techo a varios puestos independientes. Conviene ir un día entre semana justo después de la apertura o a media tarde para evitar lo peor de las aglomeraciones, y confirmar antes de acercarse el horario vigente y la política de reservas, ya que un lugar que crece tan rápido puede cambiar detalles de un día para otro.

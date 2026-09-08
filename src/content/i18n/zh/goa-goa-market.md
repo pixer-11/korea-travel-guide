@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: goa-goa-market
-srcHash: 'fc3b86b354a3'
+srcHash: '23a841e49eda'
 title: 果阿市场旅行指南（4.1★）
 description: 果阿市场（Goa Market），本地人更常叫它"市政市场"（Municipal Market），是帕纳吉（Panaji）市中心Rua Heliodoro Salgado街边上的一处日常果蔬、香料和海鲜市场。4.1★（488条评价）——看看游客怎么说，附营业时间和实用建议。
 quickAnswer: 果阿市场，本地人更常叫它"市政市场"，是帕纳吉市中心Rua Heliodoro Salgado街边上的一处日常果蔬、香料和海鲜市场。市场每天9:00-21:00营业，工作日9点到11点这段时间人最少，比起下午5点到8点的晚高峰要清静得多。逛一逛大概花45分钟到1小时就够了，建议步行前往——周边巷子窄，停车也不方便。

@@ -86,21 +86,21 @@ Locals and visitors mix here for low-key reasons:
 - Vendors selling grilled corn, sweet potatoes, and drinks near the edges
 - A resting point before or after the walk up to the church or market
 
-There's no admission gate and no set visiting hours — it's open 24 hours, every day. That makes it flexible: a sunrise stop, a midday shade break, or a lantern-lit evening stroll all work.
+There's no admission gate and no set visiting hours. It's open 24 hours, every day. That makes it flexible: a sunrise stop, a midday shade break, or a lantern-lit evening stroll all work.
 
 ## Getting there
 
 Sapa town is compact, and Sapa Park sits close to its center, an easy walk from most hotels around the main square and Sapa Lake area. If you're staying near the church or the central market, expect a 5-10 minute stroll.
 
-There's no metro or bus line to worry about — Sapa is a hill town, and everything of interest clusters within walking distance. A taxi or Grab ride from the edge of town, if you're staying further out, should take only a few minutes.
+There's no metro or bus line to worry about, Sapa is a hill town, and everything of interest clusters within walking distance. A taxi or Grab ride from the edge of town, if you're staying further out, should take only a few minutes.
 
 ## When to go
 
 Because it's rated under-the-radar rather than a major draw, you won't fight crowds here the way you might at Sapa's viewpoints or the cable car station. Still, timing shapes the experience.
 
-Weekday mornings tend to be the quietest — worth choosing if you want the benches and lake to yourself. Weekend evenings tend to draw the biggest crowds, as locals and tourists gather after dinner.
+Weekday mornings tend to be the quietest, worth choosing if you want the benches and lake to yourself. Weekend evenings tend to draw the biggest crowds, as locals and tourists gather after dinner.
 
-Sapa's weather is the bigger variable. Mist and drizzle are common year-round, and the park's lake and hills look moodier — sometimes better — under low cloud than under a flat blue sky.
+Sapa's weather is the bigger variable. Mist and drizzle are common year-round, and the park's lake and hills look moodier, sometimes better, under low cloud than under a flat blue sky.
 
 ## How to visit like a local
 
@@ -108,14 +108,14 @@ Treat Sapa Park as a pause, not a destination, and time it accordingly.
 
 - Arrive 7am-8am on a weekday for near-empty paths and calm water
 - Avoid weekend evenings after 5pm if you want space to yourself, since that tends to be when it's busiest
-- Bring small cash (Vietnamese đồng) for snack vendors — cards aren't the norm at outdoor stalls
+- Bring small cash (Vietnamese đồng) for snack vendors, cards aren't the norm at outdoor stalls
 - Skip elaborate photo setups during peak evening hours; locals use benches for actual rest, not just backdrops
 - Combine it with a short walk to Sapa Lake or the stone church rather than making it a standalone trip
 
-The most common visitor mistake is showing up expecting a landscaped, ticketed attraction on the scale of Sapa's mountain viewpoints. It's a town square with green space — its value is convenience and calm, not spectacle.
+The most common visitor mistake is showing up expecting a landscaped, ticketed attraction on the scale of Sapa's mountain viewpoints. It's a town square with green space, its value is convenience and calm, not spectacle.
 
 ## Nearby to pair it with
 
 Sapa Park works best stitched into a walking loop rather than visited alone. The central market, Sapa Stone Church, and the lakeside promenade are all within easy reach on foot.
 
-If you're staying multiple days, save the park for a low-energy morning or evening between bigger outings — a trek to Cat Cat Village, a cable car ride toward Fansipan, or a market wander. It's the kind of place that rewards a slow ten minutes rather than a rushed visit, and with no closing time, you can fit it in whenever your schedule has a gap.
+If you're staying multiple days, save the park for a low-energy morning or evening between bigger outings, a trek to Cat Cat Village, a cable car ride toward Fansipan, or a market wander. It's the kind of place that rewards a slow ten minutes rather than a rushed visit, and with no closing time, you can fit it in whenever your schedule has a gap.

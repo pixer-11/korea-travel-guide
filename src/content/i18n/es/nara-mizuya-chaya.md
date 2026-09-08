@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nara-mizuya-chaya
-srcHash: '8364acd4f452'
+srcHash: '1d2c81a1d098'
 title: 'Mizuya Chaya: dónde comer en Nara'
 description: Mizuya Chaya es una casa de té rústica escondida en el bosque, junto al camino que lleva al santuario Kasuga Taisha en el Parque de Nara, célebre por su warabimochi y sus sencillos menús de udon o somen servidos bajo un techo tradicional de paja.
 quickAnswer: Mizuya Chaya es una casa de té rústica escondida en el bosque, junto al camino que lleva al santuario Kasuga Taisha en el Parque de Nara, célebre por su warabimochi y sus sencillos menús de udon o somen servidos bajo un techo tradicional de paja. Se llega a pie desde el camino principal de acceso a Kasuga Taisha; conviene contar con una breve espera en las horas de más afluencia al mediodía y reservar entre 30 y 45 minutos para comer o tomar el té entre los ciervos que deambulan por el parque.

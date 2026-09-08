@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hong-kong-il-presidente
-srcHash: 'e44211826df4'
+srcHash: '7ba022d39cc3'
 title: Il Presidente 香港旅行指南
 description: Il Presidente 是香港近来炙手可热的新去处：它到底是什么、开在哪里、又该如何前去一探究竟。
 quickAnswer: Il Presidente 是 Trattoria Felino 团队新近打造的意大利餐厅兼酒吧，甫一开业便在香港餐饮圈掀起话题。餐厅以夕阳色调装潢，处处透着上世纪八十年代意大利风情，主厨 Marcello Scognamiglio 主理的"新经典"意式地方菜也颇受关注。建议选在晚餐时段或深夜小酌的时候前往，而非午餐时分，并且务必提前订位——毕竟这是眼下城中讨论度最高的新店之一。由于新店营业细节变动较快，出发前最好直接与餐厅确认最新营业时间和订位政策。

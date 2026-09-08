@@ -35,11 +35,11 @@ The concept is the real hook: Isaan street food logic meets Japanese izakaya rit
 
 Ratchaprasong is one of the easiest parts of Bangkok to reach. The BTS Chidlom or Siam stations are both a short, air-conditioned skywalk away, so you can hop off the Skytrain and barely touch street level before you're in the lobby.
 
-Taxis and Grab cars work fine too, though rush-hour traffic around Ratchaprasong intersection can turn a ten-minute ride into thirty. If you're coming from the skywalk network, follow signs toward Central World or Gaysorn Village — Moxy Bangkok connects into that same elevated web of walkways.
+Taxis and Grab cars work fine too, though rush-hour traffic around Ratchaprasong intersection can turn a ten-minute ride into thirty. If you're coming from the skywalk network, follow signs toward Central World or Gaysorn Village, Moxy Bangkok connects into that same elevated web of walkways.
 
 ## What to Expect Once You're Up There
 
-Expect a rooftop that leans into contrast rather than polish-for-polish's-sake. The Isaan dishes — think som tam, grilled meats, sticky rice — arrive with the punch and funk of northeastern Thai cooking, not a watered-down hotel-bar version.
+Expect a rooftop that leans into contrast rather than polish-for-polish's-sake. The Isaan dishes (think som tam, grilled meats, sticky rice) arrive with the punch and funk of northeastern Thai cooking, not a watered-down hotel-bar version.
 
 Alongside them, the izakaya half of the menu brings sake flights meant for comparing, plus yuzu-forward cocktails that read more Tokyo than Bangkok. The combination is very of-the-moment for Bangkok's current bar scene, where cross-cultural mashups are replacing single-concept rooftops.
 
@@ -49,21 +49,21 @@ Because Moxy Bangkok only recently opened, exact hours, reservation policy, and 
 
 Sunset is the obvious draw at any 32nd-floor bar in this city, and Sato San's westward sightlines make early evening the moment the room fills up. Arriving before the sun drops gets you a seat with a view instead of a spot by the bar.
 
-Weeknights are generally calmer at new Bangkok rooftops during their opening months, before word fully spreads. As with hours and pricing, confirm whether reservations are needed for sunset slots — new hotel bars in prime locations tend to book out fast once local media catches on.
+Weeknights are generally calmer at new Bangkok rooftops during their opening months, before word fully spreads. As with hours and pricing, confirm whether reservations are needed for sunset slots, new hotel bars in prime locations tend to book out fast once local media catches on.
 
 ## How to Visit Like a Local
 
 Bangkok's rooftop-bar regulars follow a few unwritten rules, and they apply here too.
 
 - **Dress smart-casual.** Rooftop bars in five-star hotels here generally enforce a no-shorts, no-flip-flops policy after dark.
-- **Order to share.** Isaan food is built for the middle of the table — order a few small plates and a sake flight rather than one dish each.
+- **Order to share.** Isaan food is built for the middle of the table, order a few small plates and a sake flight rather than one dish each.
 - **Pay by card or QR.** Bangkok's hospitality scene has moved heavily toward PromptPay QR and card payments; carrying a wad of cash isn't necessary.
-- **Tipping is appreciated, not obligatory.** A service charge is often already added at hotel venues — check the bill before adding more.
-- **Skip the elevator scrum.** If the lobby lift queue looks long at peak sunset hours, ask staff about a secondary lift — many hotel towers this tall run more than one bank of elevators to rooftop floors.
+- **Tipping is appreciated, not obligatory.** A service charge is often already added at hotel venues. Check the bill before adding more.
+- **Skip the elevator scrum.** If the lobby lift queue looks long at peak sunset hours, ask staff about a secondary lift. Many hotel towers this tall run more than one bank of elevators to rooftop floors.
 
-The most common mistake visitors make at new rooftop openings like this is treating it purely as a photo stop. Sato San's menu is doing something genuinely distinct — order like you mean it, and treat the view as the backdrop rather than the whole point.
+The most common mistake visitors make at new rooftop openings like this is treating it purely as a photo stop. Sato San's menu is doing something genuinely distinct, order like you mean it, and treat the view as the backdrop rather than the whole point.
 
 ## Nearby to Combine With
 
-Ratchaprasong rewards a slow evening. Before heading up, wander through Central World or Gaysorn Village, both connected by skywalk, or swing past the Erawan Shrine a few minutes' walk away — a working shrine that's very much part of daily Bangkok life, not just a tourist stop.
+Ratchaprasong rewards a slow evening. Before heading up, wander through Central World or Gaysorn Village, both connected by skywalk, or swing past the Erawan Shrine a few minutes' walk away, a working shrine that's very much part of daily Bangkok life, not just a tourist stop.
 

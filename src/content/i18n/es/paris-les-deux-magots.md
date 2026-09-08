@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-les-deux-magots
-srcHash: '757b1085d55a'
+srcHash: '91c7e5e75118'
 title: 'Les Deux Magots: guía de viaje de París (4,2★)'
 description: 'Les Deux Magots es el legendario café-brasserie de Saint-Germain-des-Prés (abierto todos los días de 7:30 a 1:00), célebre por su pasado literario y por su terraza inmejorable para observar a la gente. Es de precio elevado y está siempre concurrido, así que conviene ir a primera hora de la mañana o después de las 21:00, ya que los fines de semana se llena de mediodía a 21:00. 4,2★ (12.019 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Les Deux Magots es el legendario café-brasserie de Saint-Germain-des-Prés (abierto todos los días de 7:30 a 1:00), célebre por su pasado literario y por su terraza inmejorable para observar a la gente. Es de precio elevado y está siempre concurrido, así que conviene ir a primera hora de la mañana o después de las 21:00, ya que los fines de semana se llena de mediodía a 21:00. Reserva entre 45 y 90 minutos para tomar un café o comer algo completo.

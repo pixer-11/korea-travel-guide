@@ -73,15 +73,15 @@ Seri Wawasan Bridge is one of Putrajaya's signature engineering landmarks, a lea
 
 ## Getting there
 
-The bridge sits on Lebuh Wawasan in Presint 8, on the eastern side of Putrajaya Lake. Most visitors arrive by car or Grab, since public transit doesn't reach the bridge directly — the nearest hub is Putrajaya Sentral, roughly a 15-20 minute drive away, from where you'd need a taxi or ride-share.
+The bridge sits on Lebuh Wawasan in Presint 8, on the eastern side of Putrajaya Lake. Most visitors arrive by car or Grab, since public transit doesn't reach the bridge directly. The nearest hub is Putrajaya Sentral, roughly a 15-20 minute drive away, from where you'd need a taxi or ride-share.
 
-There's roadside and lakeside parking near the bridge approach on both banks. If you're combining it with other precinct sightseeing, plan on driving between landmarks — Putrajaya's precincts are spread out and not really walkable in the tropical heat.
+There's roadside and lakeside parking near the bridge approach on both banks. If you're combining it with other precinct sightseeing, plan on driving between landmarks, Putrajaya's precincts are spread out and not really walkable in the tropical heat.
 
 ## What to see
 
 The main draw is the structure itself: an asymmetrical, single-pylon design that looks almost off-balance, with taut cables fanning out to support the deck. Walk the length of it and you get water views on both sides, with Putrajaya's skyline of government buildings and mosque domes visible in the distance.
 
-At night, the bridge's lighting system shifts through colors — blues, purples, greens — that reflect off the lake below. It's a favorite spot for photographers chasing long-exposure shots of the light trails and reflections.
+At night, the bridge's lighting system shifts through colors (blues, purples, greens) that reflect off the lake below. It's a favorite spot for photographers chasing long-exposure shots of the light trails and reflections.
 
 A few things worth knowing before you go:
 
@@ -95,17 +95,17 @@ The bridge is open 24 hours every day, so timing is entirely about crowds and li
 
 Weekend evenings are the opposite story. Between 5pm and 11pm on Saturdays and Sundays, the bridge and its approaches fill with families, joggers, and photographers waiting for the lights to switch on. If you want the structure to yourself, that's the window to avoid.
 
-Sunset itself — roughly 7pm to 7:30pm year-round this close to the equator — is the sweet spot for photos, catching daylight fading just as the colored lighting kicks in.
+Sunset itself, roughly 7pm to 7:30pm year-round this close to the equator, is the sweet spot for photos, catching daylight fading just as the colored lighting kicks in.
 
 ## How to visit like a local
 
 Come on a weekday morning if you want the bridge without the crowd. The 7am to 8am window is measurably quieter than any evening slot, and the lake tends to be calm enough for mirror-like reflection shots.
 
-If you're set on the light show, accept that weekend evenings mean company — this is a well-known landmark, not a quiet find, and locals treat it as a normal evening-out spot rather than a secret. Plan around the crowd instead of trying to avoid it entirely.
+If you're set on the light show, accept that weekend evenings mean company. This is a well-known landmark, not a quiet find, and locals treat it as a normal evening-out spot rather than a secret. Plan around the crowd instead of trying to avoid it entirely.
 
 A few practical notes:
 
-- There's no entry fee and no ticket booth — you simply walk on
+- There's no entry fee and no ticket booth, you simply walk on
 - Bring water and sun protection for daytime visits; there's little shade on the span itself
 - Wear closed shoes if you plan to walk the full length, since the deck surface can hold heat
 - Combine it with a visit to nearby Seri Gemilang Bridge or Putra Mosque, both a short drive away, to make a fuller Putrajaya lake circuit

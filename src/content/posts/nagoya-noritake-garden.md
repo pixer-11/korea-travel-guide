@@ -56,22 +56,22 @@ aiGenerated: true
 
 Noritake is one of Japan's best-known tableware and porcelain brands, founded in Nagoya in 1904, and this site is the company's original factory grounds turned public park and cultural complex. Unlike a purpose-built museum, the appeal here is the sense of layered history: red-brick kiln buildings from the early 20th century sit alongside ponds, lawns, and contemporary shop pavilions, so you're walking through actual industrial heritage rather than a reconstruction.
 
-It's a genuine hidden-gem stop for anyone touring Nagoya beyond the usual castle-and-shrine circuit — quiet, walkable, and rarely thick with tour groups, which is reflected in its solid 4.1 rating across nearly 8,000 reviews.
+It's a genuine hidden-gem stop for anyone touring Nagoya beyond the usual castle-and-shrine circuit, quiet, walkable, and rarely thick with tour groups, which is reflected in its solid 4.1 rating across nearly 8,000 reviews.
 
 ## Getting there
 
-The garden sits at 3-chōme-1-36 Noritakeshinmachi in Nishi Ward. The easiest approach is the Higashiyama subway line to Kamejima Station, from which it's roughly a 10–15 minute walk following signs toward the brick chimney visible above the rooftops — that chimney is a useful landmark if you lose your way. Alternatively, Nagoya Station (the main JR/Meitetsu/Kintetsu hub) is only about 1.5–2km away, making a taxi or a 20–25 minute walk feasible if you're already in that area. Nagoya's Meguru sightseeing bus does not typically stop here, so the subway is the most reliable route.
+The garden sits at 3-chōme-1-36 Noritakeshinmachi in Nishi Ward. The easiest approach is the Higashiyama subway line to Kamejima Station, from which it's roughly a 10–15 minute walk following signs toward the brick chimney visible above the rooftops, that chimney is a useful landmark if you lose your way. Alternatively, Nagoya Station (the main JR/Meitetsu/Kintetsu hub) is only about 1.5–2km away, making a taxi or a 20–25 minute walk feasible if you're already in that area. Nagoya's Meguru sightseeing bus does not typically stop here, so the subway is the most reliable route.
 
 ## What to see and do
 
 Plan for at least 90 minutes, longer if you want to try a craft activity. Highlights include:
 
-- **The old brick chimney and kiln buildings** — remnants of the original Meiji- and Taisho-era factory, left standing as the centerpiece of the grounds.
-- **Noritake Museum** — displays the company's history and Old Noritake decorative porcelain from the early 1900s–1940s, prized by collectors for hand-painted Art Deco and Art Nouveau motifs.
-- **Craft Center** — glass-walled workshop areas where you can watch artisans hand-paint plates and apply gold leaf detailing; several counters offer hands-on painting or pottery-decorating experiences for a modest fee, good for an hour-long activity with kids or as a rainy-day plan.
-- **Gardens and ponds** — landscaped lawns, seasonal flower beds, and small ponds connecting the buildings, pleasant for a slow loop even if you skip the paid exhibits.
-- **Noritake shop** — sells current tableware lines plus outlet-priced seconds and discontinued patterns, often the best reason locals visit; worth checking for deals not found in department stores.
-- **On-site café** — a relaxed spot to sit with tea or coffee served, fittingly, on Noritake china.
+- **The old brick chimney and kiln buildings**, remnants of the original Meiji- and Taisho-era factory, left standing as the centerpiece of the grounds.
+- **Noritake Museum**, displays the company's history and Old Noritake decorative porcelain from the early 1900s–1940s, prized by collectors for hand-painted Art Deco and Art Nouveau motifs.
+- **Craft Center**, glass-walled workshop areas where you can watch artisans hand-paint plates and apply gold leaf detailing; several counters offer hands-on painting or pottery-decorating experiences for a modest fee, good for an hour-long activity with kids or as a rainy-day plan.
+- **Gardens and ponds**, landscaped lawns, seasonal flower beds, and small ponds connecting the buildings, pleasant for a slow loop even if you skip the paid exhibits.
+- **Noritake shop**, sells current tableware lines plus outlet-priced seconds and discontinued patterns, often the best reason locals visit; worth checking for deals not found in department stores.
+- **On-site café**. A relaxed spot to sit with tea or coffee served, fittingly, on Noritake china.
 
 ## When to go
 
@@ -79,6 +79,6 @@ Spring (cherry blossoms along the garden paths, roughly late March–early April
 
 ## Nearby & practical tips
 
-The Toyota Commemorative Museum of Industry and Technology, which covers the origins of the Toyota Group (itself connected historically to Noritake's founders), is within easy walking or short-taxi distance and pairs naturally with a Noritake visit for an industrial-heritage half-day. Nagoya Station's shopping and dining towers are close enough to combine with an afternoon here. Note that admission structures can change — the garden grounds are often free to enter while the museum and hands-on craft experiences charge separate small fees, so check official signage or the ticket counter on arrival rather than assuming one price covers everything.
+The Toyota Commemorative Museum of Industry and Technology, which covers the origins of the Toyota Group (itself connected historically to Noritake's founders), is within easy walking or short-taxi distance and pairs naturally with a Noritake visit for an industrial-heritage half-day. Nagoya Station's shopping and dining towers are close enough to combine with an afternoon here. Note that admission structures can change. The garden grounds are often free to enter while the museum and hands-on craft experiences charge separate small fees, so check official signage or the ticket counter on arrival rather than assuming one price covers everything.
 
 Comfortable shoes help since the grounds cover a fair amount of ground, and the shop area alone can easily absorb 20–30 minutes for anyone interested in ceramics.

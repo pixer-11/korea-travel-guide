@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chicago-cloud-gate
-srcHash: '9b69fa5c4bb8'
+srcHash: '2326b1eafb75'
 title: クラウド・ゲート:シカゴ旅行ガイド
 description: クラウド・ゲート——通称「ザ・ビーン」——は、ミレニアム・パーク(Millennium Park)北西角のAT&Tプラザ(AT&T Plaza)、201 E Randolph Stに位置しています。
 quickAnswer: クラウド・ゲート——通称「ザ・ビーン」——は、ミレニアム・パーク(Millennium Park)北西角のAT&Tプラザ(AT&T Plaza)、201 E Randolph Stに位置しています。入場無料で24時間開放されており、混雑を避けるなら早朝か日没後の訪問がおすすめです。所要時間は20〜30分、「オンパロス」と呼ばれる凹面の下側で写真を撮りたい場合はもう少し時間をみてください。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: krabi-into-the-forest
-srcHash: 'a60d63b922c7'
+srcHash: '0640033247b7'
 title: 'Into the Forest: Guía de viaje de Krabi'
 description: Into the Forest es una cafetería ambientada en la selva y un atractivo muy fotogénico en Khao Thong, a las afueras de la ciudad de Krabi — lo mejor es visitarla un día laborable por la mañana (antes de las 10:00) o a última hora de la tarde para evitar las multitudes de autobuses turísticos y la luz dura del mediodía.
 quickAnswer: Into the Forest es una cafetería ambientada en la selva y un atractivo muy fotogénico en Khao Thong, a las afueras de la ciudad de Krabi — lo mejor es visitarla un día laborable por la mañana (antes de las 10:00) o a última hora de la tarde para evitar las multitudes de autobuses turísticos y la luz dura del mediodía. Calcula entre 1 y 2 horas, lleva efectivo para la entrada y las bebidas, y combínala con una parada en el mercado nocturno de la ciudad de Krabi o en Wat Tham Sua, ya que está a unos 15–20 minutos en coche del centro de la ciudad. Es un local de precio moderado (gama media), así que espera precios de cafetería y no de comida callejera.

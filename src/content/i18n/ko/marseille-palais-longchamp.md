@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: marseille-palais-longchamp
-srcHash: 'f813c055fc9c'
+srcHash: '50cdad6353ba'
 title: '팔레 롱샹(Palais Longchamp): 마르세유 여행 가이드 (4.6★)'
 description: 팔레 롱샹은 마르세유에서 가장 웅장한 19세기 기념물로, 우렁차게 쏟아지는 중앙 폭포를 중심으로 열주가 늘어선 '물의 성'이며, 양옆으로 시립 미술관(Musée des Beaux-Arts)과 자연사 박물관(Muséum d'Histoire Naturelle)이 자리하고, 4구(4th arrondissement)의 푸르른 공공 공원 안에 있습니다. 4.6★ (리뷰 20,279개) — 방문객들의 후기, 운영 시간, 그리고 팁을 소개합니다.
 quickAnswer: 팔레 롱샹은 마르세유에서 가장 웅장한 19세기 기념물로, 우렁차게 쏟아지는 중앙 폭포를 중심으로 열주가 늘어선 '물의 성'이며, 양옆으로 시립 미술관(Musée des Beaux-Arts)과 자연사 박물관(Muséum d'Histoire Naturelle)이 자리하고, 4구(4th arrondissement)의 푸르른 공공 공원 안에 있습니다. 부지와 분수 주변을 걷는 것은 무료이며(박물관은 소액의 입장료가 있음), 핵심만 본다면 한 시간 이내로 충분하고, 주변 정원까지 여유롭게 둘러보려면 두 시간 정도 잡으면 됩니다. 광장이 가족 방문객과 사진작가들로 붐비기 전, 개장 직후인 오전 8시경에 가는 것이 좋습니다.

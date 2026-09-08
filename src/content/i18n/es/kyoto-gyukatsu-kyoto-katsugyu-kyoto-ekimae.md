@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae
-srcHash: 'e761a63cd27c'
+srcHash: '6728c346f8a6'
 title: 'GYUKATSU Kyoto Katsugyu Kyoto Ekimae: dónde comer'
 description: GYUKATSU Kyoto Katsugyu Kyoto Ekimae es un especialista en gyukatsu (empanado de ternera frito) a pocos pasos de la estación de Kioto, ideal para comer al mediodía, cuando las colas son más cortas.
 quickAnswer: GYUKATSU Kyoto Katsugyu Kyoto Ekimae es un especialista en gyukatsu (empanado de ternera frito) a pocos pasos de la estación de Kioto, ideal para comer al mediodía, cuando las colas son más cortas. Lo mejor es pedir el menú set y cocinar las lonchas de carne a tu gusto en la piedra caliente que hay en cada mesa; una comida satisfactoria ronda los ¥1.500–¥2.500 (nivel de precio 2 según Google). Cuenta con una espera de 15 a 30 minutos fuera de las horas punta de comida o cena.

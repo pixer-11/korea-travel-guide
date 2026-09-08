@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: shanghai-love-sushi
-srcHash: '12c7d7c92ceb'
+srcHash: 'a424c5285f86'
 title: '러브 스시(Love Sushi): 상하이 맛집 탐방'
 description: 중국 상하이에서 새롭게 주목받는 곳, 러브 스시(Love Sushi)를 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋을지 알려드립니다.
 quickAnswer: 러브 스시는 난징시루(Nanjing Xi Lu)의 플라자 66(Plaza 66) 안에 자리한 열 석짜리 오마카세 카운터로, 오랜 경력의 가이세키 셰프 마시푸(Ma Shifu)가 운영하며 오치요(Ochiyo), 스시 브라더(Sushi Brother)를 함께 이끄는 그룹 소속입니다. 가능하다면 평일의 한산하고 여유로운 시간대를 노려보시고, 카운터 좌석이 많지 않은 만큼 예약은 최대한 서둘러 두시길 권합니다. 방문 전에는 현재 영업시간과 예약 방식을 반드시 식당에 직접 확인하시기 바랍니다.

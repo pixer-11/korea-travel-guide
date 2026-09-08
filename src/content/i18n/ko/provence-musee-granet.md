@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: provence-musee-granet
-srcHash: 'fc398785f1ce'
+srcHash: '35ef78f6f046'
 title: '뮤제 그라네: 프로방스 여행 가이드 (4.4★)'
 description: 뮤제 그라네(Musée Granet)는 엑상프로방스(Aix-en-Provence) 생장드말트 광장(Place Saint-Jean de Malte)에 자리한, 몰타 기사단이 쓰던 17세기 옛 수도원 건물로 세잔의 그림부터 렘브란트 자화상까지 소장하고 있습니다. 4.4★(리뷰 4,877건) — 방문객 평가, 운영시간, 팁을 확인하세요.
 quickAnswer: 뮤제 그라네(Musée Granet)는 엑상프로방스(Aix-en-Provence) 생장드말트 광장(Place Saint-Jean de Malte)에 자리한, 몰타 기사단이 쓰던 17세기 옛 수도원 건물로 세잔의 그림부터 렘브란트 자화상까지 소장하고 있습니다. 관람 시간은 2~3시간을 잡으세요. 평일 오전 10시 개관 직후에 가면 전시실을 거의 독차지할 수 있지만, 주말에는 정오부터 오후 6시까지 관람객이 몰립니다. 미술관에서 몇 걸음이면 닿는 세잔의 옛 아틀리에 루트가 있으니 마자랭 지구(Mazarin quarter) 산책과 함께 묶어보세요.

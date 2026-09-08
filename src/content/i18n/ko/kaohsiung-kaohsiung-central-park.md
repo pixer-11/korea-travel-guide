@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kaohsiung-kaohsiung-central-park
-srcHash: '9a0e7c6cd5e9'
+srcHash: '63a3c8bb4005'
 title: 가오슝 중앙공원(Kaohsiung Central Park) 여행 가이드
 description: 가오슝 중앙공원(Kaohsiung Central Park)은 첸진구(Qianjin District)에 자리한 넓고 그늘진 도심 공원으로, 호수와 분수, 순환 산책로를 중심으로 조성되어 있으며 중앙공원역(가오슝 MRT 레드라인, R9)에서 바로 접근할 수 있다.
 quickAnswer: 가오슝 중앙공원(Kaohsiung Central Park)은 첸진구(Qianjin District)에 자리한 넓고 그늘진 도심 공원으로, 호수와 분수, 순환 산책로를 중심으로 조성되어 있으며 중앙공원역(가오슝 MRT 레드라인, R9)에서 바로 접근할 수 있다. 한 바퀴를 돌고 커피 한 잔 마시는 데 45~90분 정도를 잡으면 되고, 한낮의 더위와 주말 늦은 오후에 인파가 가장 몰리므로 이른 아침이나 저녁 식사 후가 가장 쾌적하게 즐길 수 있는 시간대다.

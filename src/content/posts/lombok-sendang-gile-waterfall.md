@@ -47,7 +47,7 @@ aiGenerated: true
 ---
 ## Why go
 
-Sendang Gile is one of Lombok's most photographed natural sites, and the rating (4.6 from over 2,000 reviews) reflects how consistently it delivers: a wide curtain of water dropping into a cool pool, framed by rainforest on the lower flank of Mount Rinjani. It's actually two waterfalls in one outing — Sendang Gile itself, a short walk from the entrance, and Tiu Kelep, a taller, more dramatic falls another 30–45 minutes further up the valley. Most visitors combine both into a single half-day trip.
+Sendang Gile is one of Lombok's most photographed natural sites, and the rating (4.6 from over 2,000 reviews) reflects how consistently it delivers: a wide curtain of water dropping into a cool pool, framed by rainforest on the lower flank of Mount Rinjani. It's actually two waterfalls in one outing, Sendang Gile itself, a short walk from the entrance, and Tiu Kelep, a taller, more dramatic falls another 30–45 minutes further up the valley. Most visitors combine both into a single half-day trip.
 
 ## Getting there
 
@@ -57,21 +57,21 @@ There's no train or public transit option that reaches Senaru directly, so a hir
 
 ## What to see and do
 
-From the ticket gate, a paved but steep stone stairway descends roughly 15–20 minutes through jungle to Sendang Gile falls — manageable for most fitness levels but slippery when wet. The waterfall drops in tiers into a natural pool where swimming is possible, though the current near the base can be strong after rain.
+From the ticket gate, a paved but steep stone stairway descends roughly 15–20 minutes through jungle to Sendang Gile falls, manageable for most fitness levels but slippery when wet. The waterfall drops in tiers into a natural pool where swimming is possible, though the current near the base can be strong after rain.
 
 For Tiu Kelep, continue along a rougher dirt-and-rock trail that crosses several small streams and one or two shallow river crossings (expect wet feet). This second waterfall is taller and wider, often described as the more dramatic of the two, and swimming here means standing close enough to feel the spray and wind kicked up by the falling water. Combined, the two sites typically take 2–3 hours round trip at an unhurried pace, including swimming stops.
 
-Senaru village itself, at the trailhead, is one of the traditional gateway settlements for climbing Mount Rinjani and worth a slow walk before or after the falls — look for the old Sasak thatched houses and rice terrace views over the valley.
+Senaru village itself, at the trailhead, is one of the traditional gateway settlements for climbing Mount Rinjani and worth a slow walk before or after the falls. Look for the old Sasak thatched houses and rice terrace views over the valley.
 
 ## When to go
 
-Dry season, roughly April through October, is the most reliable window: trails are less slippery and water visibility in the pools is better. During wet season (November–March) the falls run fuller and more powerful, but paths get muddy and river crossings on the Tiu Kelep trail can become harder to manage or occasionally closed after heavy rain. Aim to arrive in the morning — light through the jungle canopy is best for photos before around 10am, and afternoon showers are common much of the year.
+Dry season, roughly April through October, is the most reliable window: trails are less slippery and water visibility in the pools is better. During wet season (November–March) the falls run fuller and more powerful, but paths get muddy and river crossings on the Tiu Kelep trail can become harder to manage or occasionally closed after heavy rain. Aim to arrive in the morning, light through the jungle canopy is best for photos before around 10am, and afternoon showers are common much of the year.
 
 ## How to visit like a local
 
 This is a well-known, well-visited site rather than a hidden find, so the real local skill is timing: arrive at or just after opening, before tour buses and day-trip groups from Senggigi and the Gilis land mid-morning. Weekends and Indonesian public holidays bring the heaviest crowds; a weekday visit thins the queue at both the ticket booth and the narrow stone stairway.
 
-Entry and parking fees are collected in cash at the gate — bring small-denomination rupiah, as change and card facilities are unreliable this far from the coast. Guides are optional for Sendang Gile alone but genuinely useful for the Tiu Kelep river crossings, especially after rain; agree on a fee before setting out. Wear sandals with grip (like reef sandals) rather than street sneakers — the rock is slick, and hiking barefoot or in flip-flops is the most common tourist misstep.
+Entry and parking fees are collected in cash at the gate (bring small-denomination rupiah, as change and card facilities are unreliable this far from the coast. Guides are optional for Sendang Gile alone but genuinely useful for the Tiu Kelep river crossings, especially after rain; agree on a fee before setting out. Wear sandals with grip (like reef sandals) rather than street sneakers) the rock is slick, and hiking barefoot or in flip-flops is the most common tourist misstep.
 
 Pack a dry bag or plastic sleeve for your phone if you plan to swim, and carry out any rubbish, since bins are limited past the entrance. A small tip for a local guide is appreciated but not obligatory; it's typically handed over in cash at the end of the walk rather than negotiated upfront.
 

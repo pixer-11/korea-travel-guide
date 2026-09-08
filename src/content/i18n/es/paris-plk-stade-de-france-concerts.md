@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-plk-stade-de-france-concerts
-srcHash: 'bf51a88b28d2'
+srcHash: '918f683ceb10'
 title: 'Conciertos de PLK en el Stade de France: lo que había que saber (París)'
 description: PLK iba a actuar en el Stade de France de Saint-Denis los días 4 y 5 de septiembre de 2026. Qué implicaba esta cita de dos noches y cómo funciona el recinto.
 quickAnswer: PLK iba a actuar dos noches en el Stade de France, los días 4 y 5 de septiembre de 2026, un hito para un rapero francés que construyó una de las cifras de streaming más altas del país sin buscar nunca el mainstream. El estadio se encuentra en Saint-Denis, justo al norte del centro de París, flanqueado por las estaciones de RER B y RER D, ambas a poca distancia a pie de las puertas. El anuncio no incluía horarios exactos de actuación, apertura de puertas ni precios, y las entradas se vendieron a través de los canales del propio artista y de los socios de venta de entradas del estadio.

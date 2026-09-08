@@ -72,34 +72,34 @@ draft: false
 ---
 ## Why go
 
-You won't find this one on the standard Iloilo itinerary, and that's exactly the point. Tucked into La Paz, the Garden of Love is a modest, well-tended patch of green built around a simple, romantic theme — arches, heart motifs, benches angled for quiet conversation rather than crowds. It's the kind of place you stumble into between errands and end up lingering in longer than planned.
+You won't find this one on the standard Iloilo itinerary, and that's exactly the point. Tucked into La Paz, the Garden of Love is a modest, well-tended patch of green built around a simple, romantic theme, arches, heart motifs, benches angled for quiet conversation rather than crowds. It's the kind of place you stumble into between errands and end up lingering in longer than planned.
 
 There's no grand monument here, no ticket booth, no queue. What you get instead is breathing room: shade trees, a walking loop, and the unhurried rhythm of a neighborhood park that locals pass through rather than flock to.
 
 ## Getting there
 
-The park sits at PH26+V3Q in La Paz, Iloilo City, a district best known for its public market and the La Paz batchoy trade. Most visitors get here by tricycle or Grab from central Iloilo City — it's a short, inexpensive ride from the Iloilo River Esplanade or Jaro.
+The park sits at PH26+V3Q in La Paz, Iloilo City, a district best known for its public market and the La Paz batchoy trade. Most visitors get here by tricycle or Grab from central Iloilo City. It's a short, inexpensive ride from the Iloilo River Esplanade or Jaro.
 
 If you're already exploring La Paz Market or hunting down a bowl of batchoy at one of the district's original eateries, the garden makes an easy add-on stop. There's no dedicated parking lot, so if you're driving, expect to leave your vehicle on a nearby side street.
 
 ## What to see and do
 
-Don't expect sprawling grounds — this is a compact garden, best treated as a pause rather than a destination in itself.
+Don't expect sprawling grounds. This is a compact garden, best treated as a pause rather than a destination in itself.
 
 Walk the loop path, find a bench under the tree cover, and take in the small-scale landscaping: trimmed hedges, painted arches, and love-themed decor that makes it a quietly popular spot for engagement photos and casual couple portraits. It's unpretentious, a little kitschy in places, and genuinely pleasant in the morning light.
 
 - Bring a camera for the arches and heart-shaped installations
-- Pack a snack — there are no food stalls inside the park itself
+- Pack a snack. There are no food stalls inside the park itself
 - Wear sandals or light shoes; paths are paved but uneven in spots
 - Combine with a La Paz batchoy stop, a five-minute ride away
 
-Give it 30 to 45 minutes. Any longer and you've likely seen everything there is to see — which is fine, because that's not a criticism, just the nature of a neighborhood pocket park.
+Give it 30 to 45 minutes. Any longer and you've likely seen everything there is to see, which is fine, because that's not a criticism, just the nature of a neighborhood pocket park.
 
 ## When to go
 
 The garden keeps the same hours every day, 6:00 AM to 9:30 PM, so there's flexibility in when you show up.
 
-For genuine quiet, aim for a weekday morning — foot traffic tends to be at its lowest and the light through the trees is soft and low-angled, good for photos without other people wandering into frame.
+For genuine quiet, aim for a weekday morning, foot traffic tends to be at its lowest and the light through the trees is soft and low-angled, good for photos without other people wandering into frame.
 
 Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw local families and couples in larger numbers, so benches can fill quickly.
 
@@ -107,11 +107,11 @@ Evenings after sunset have their own appeal too, though it's understandably busi
 
 ## How to visit like a local
 
-Treat it as a quick, unhurried stop rather than a planned event — that's how nearby residents use it. It's a walk-in spot; you simply arrive.
+Treat it as a quick, unhurried stop rather than a planned event. That's how nearby residents use it. It's a walk-in spot; you simply arrive.
 
 - Go early on a weekday (7am–8am) for the emptiest paths
 - On weekends, midday (10am–1pm) beats the evening crowd
-- No stalls or vendors inside — bring water, especially in the midday heat
+- No stalls or vendors inside. Bring water, especially in the midday heat
 - It's still under the radar, so don't expect signage in English everywhere; a translation app or a friendly local can help with directions
 - Photos are welcome, but if a couple is using a bench or arch for a portrait, wait your turn rather than stepping into frame
 

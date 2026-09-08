@@ -92,13 +92,13 @@ updatedDate: '2026-09-07'
 
 The dome catches you first. It rises white and improbable over the Maidan's green flatness, a chunk of Raj-era ambition dropped into the middle of modern Kolkata.
 
-Built from Makrana marble and finished in 1921, Victoria Memorial was commissioned after Queen Victoria's death as a monument to the British Empire in India. Today it functions as a museum on Kolkata's colonial and cultural history, and it's one of the most visited landmarks in the city — you'll notice that the moment you see the queue.
+Built from Makrana marble and finished in 1921, Victoria Memorial was commissioned after Queen Victoria's death as a monument to the British Empire in India. Today it functions as a museum on Kolkata's colonial and cultural history, and it's one of the most visited landmarks in the city. You'll notice that the moment you see the queue.
 
 ## What you'll actually see
 
 Inside, the central hall holds a marble statue of Victoria herself, ringed by murals and portraits documenting the building's own history. Side galleries hold miniature paintings, old maps of Calcutta, weapons, coins, and manuscripts.
 
-Don't rush past the Calcutta Gallery — a separate wing dedicated to the city's transformation from marshy river settlement to colonial capital. It's less crowded than the main dome hall and gives useful context for everything else you'll see around the Maidan.
+Don't rush past the Calcutta Gallery, a separate wing dedicated to the city's transformation from marshy river settlement to colonial capital. It's less crowded than the main dome hall and gives useful context for everything else you'll see around the Maidan.
 
 Outside, the gardens sprawl over 64 acres, dotted with statues, reflecting pools, and a bronze angel on top of the dome that pivots with the wind. Locals use the lawns for evening walks as much as tourists use them for photos.
 
@@ -112,7 +112,7 @@ Taxis and app-based cabs are easy to find anywhere along Jawaharlal Nehru Road o
 
 ## When to go
 
-The Memorial is closed on Mondays — plan around that before you build a Kolkata itinerary around it. On the days it's open, hours run 10am to 6pm.
+The Memorial is closed on Mondays. Plan around that before you build a Kolkata itinerary around it. On the days it's open, hours run 10am to 6pm.
 
 Weekends get busy fast, with the heaviest crowds between 11am and 6pm. If you can, go on a weekday morning shortly after opening, when the light through the marble is softer and the queues at the ticket counter are shorter.
 
@@ -120,23 +120,23 @@ Winter (November to February) is Kolkata's most comfortable season for wandering
 
 ## How to visit like a local
 
-This is a landmark everybody visits, not an under-the-radar find — so the smart move is timing, not secrecy.
+This is a landmark everybody visits, not an under-the-radar find, so the smart move is timing, not secrecy.
 
 - **Best window:** weekday mornings right at opening, before tour buses and school groups arrive.
 - **Avoid:** weekend afternoons, especially 11am–6pm, when both galleries and lawns fill up.
-- **Tickets:** bought at the counter on-site; separate charges usually apply for the museum galleries versus garden-only entry, and camera fees can apply too — confirm current rates at the gate since these change.
+- **Tickets:** bought at the counter on-site; separate charges usually apply for the museum galleries versus garden-only entry, and camera fees can apply too, confirm current rates at the gate since these change.
 - **Payment:** counters generally accept cash and cards, but carrying some cash is still sensible.
-- **Etiquette:** shoes stay on, but keep voices low in the central hall — it's still treated as a formal memorial space, not just a photo backdrop.
-- **Evening show:** a sound-and-light show runs on select evenings in season, projected onto the marble facade — worth checking the schedule if you're around after dark.
+- **Etiquette:** shoes stay on, but keep voices low in the central hall. It's still treated as a formal memorial space, not just a photo backdrop.
+- **Evening show:** a sound-and-light show runs on select evenings in season, projected onto the marble facade, worth checking the schedule if you're around after dark.
 
-The most common visitor mistake is treating this as a quick photo stop from outside the gates. The real value is inside — the Calcutta Gallery in particular rewards the extra twenty minutes.
+The most common visitor mistake is treating this as a quick photo stop from outside the gates. The real value is inside, the Calcutta Gallery in particular rewards the extra twenty minutes.
 
 ## Nearby to combine with your visit
 
 Since you're already in the Maidan, string together a few other sights on foot.
 
-- **St. Paul's Cathedral** — a short walk north, Gothic Revival architecture and stained glass.
-- **Indian Museum** — India's oldest and largest museum, roughly 15–20 minutes away, good for a second stop.
-- **Race Course and the Maidan itself** — for locals playing football or cricket at dusk.
+- **St. Paul's Cathedral**, a short walk north, Gothic Revival architecture and stained glass.
+- **Indian Museum**, India's oldest and largest museum, roughly 15–20 minutes away, good for a second stop.
+- **Race Course and the Maidan itself**, for locals playing football or cricket at dusk.
 
 Two to three hours covers the Memorial comfortably; a half-day lets you add one of these neighbors without rushing.

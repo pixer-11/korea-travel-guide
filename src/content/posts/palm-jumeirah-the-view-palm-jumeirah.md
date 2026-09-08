@@ -70,7 +70,7 @@ draft: false
 
 ## Why go
 
-You don't come here for a casual look — you come for the one view Dubai can't give you from ground level. From 52 floors up, the Palm's fronds finally make sense as a shape, curling out into the Gulf with the Atlantis resort anchoring the far tip.
+You don't come here for a casual look, you come for the one view Dubai can't give you from ground level. From 52 floors up, the Palm's fronds finally make sense as a shape, curling out into the Gulf with the Atlantis resort anchoring the far tip.
 
 The deck itself is a ring of floor-to-ceiling glass wrapping the top of The Palm Tower. On a clear day you can trace the Dubai Marina skyline in one direction and the open sea in the other, container ships sitting like specks on the horizon.
 
@@ -78,19 +78,19 @@ The deck itself is a ring of floor-to-ceiling glass wrapping the top of The Palm
 
 The View sits inside The Palm Tower on Palm Jumeirah Road, a residential and hotel high-rise right at the base of the Palm's trunk. It's not on the Palm Monorail line directly, so most visitors arrive by taxi, ride-share, or a short drive from Dubai Marina, which is about 10–15 minutes away depending on traffic.
 
-If you're already exploring the Palm by monorail, get off at Palm Gateway or Al Ittihad Park station and take a short taxi hop the rest of the way — it's not a walkable distance in the heat.
+If you're already exploring the Palm by monorail, get off at Palm Gateway or Al Ittihad Park station and take a short taxi hop the rest of the way. It's not a walkable distance in the heat.
 
 There's paid parking at the tower if you're self-driving, and valet is usually available at the entrance.
 
 ## What to expect inside
 
-Tickets are timed-entry, and you'll go through a security check before a dedicated elevator whisks you up in under a minute. The ride itself is part of the show — ears pop, and the city drops away fast.
+Tickets are timed-entry, and you'll go through a security check before a dedicated elevator whisks you up in under a minute. The ride itself is part of the show, ears pop, and the city drops away fast.
 
 Once up top, the deck loops around the full circumference of the building, so there's no bad side. Interactive touchscreens along the glass point out landmarks by name, which helps make sense of the sprawl below.
 
 A few things worth knowing before you go:
 
-- The outdoor-facing glass sections get warm in direct afternoon sun — sunglasses help.
+- The outdoor-facing glass sections get warm in direct afternoon sun, sunglasses help.
 - There's a small café area near the exit if you want to linger over the view rather than rush the loop.
 - Photography is easy through the glass, but a lens hood or phone case cuts down on reflections.
 
@@ -102,16 +102,16 @@ The deck is open daily from 10am to 7pm, so sunset visits work best in cooler mo
 
 Crowds are measurably lighter in the late morning. The quietest stretch on both weekdays and weekends is 10am–noon, right after opening, before tour groups and day-trippers arrive.
 
-Weekend afternoons are the opposite extreme — between 2pm and closing, the deck fills up fast with families and groups. If you want breathing room for photos, avoid that window entirely.
+Weekend afternoons are the opposite extreme, between 2pm and closing, the deck fills up fast with families and groups. If you want breathing room for photos, avoid that window entirely.
 
 ## How to visit like a local
 
 This is a heavily visited attraction, not a quiet find, so the smartest move is timing rather than hoping for empty space. Arrive right at the 10am opening on a weekday for the closest thing to a private view.
 
-Book your ticket online ahead of time rather than walking up — it's a very popular stop for both tourists and Dubai residents entertaining visiting family, and same-day slots can sell out on weekends.
+Book your ticket online ahead of time rather than walking up. It's a very popular stop for both tourists and Dubai residents entertaining visiting family, and same-day slots can sell out on weekends.
 
 Payment for tickets, the café, and any add-ons is almost entirely card and mobile-pay; carrying cash isn't necessary here. Tipping isn't expected at the deck itself.
 
-The mistake most first-timers make is treating it as a quick photo op and rushing back down. Give yourself time to walk the full glass loop — the angle on the Palm's fronds changes noticeably as you move around the tower, and the best shot is rarely from the first spot you stop at.
+The mistake most first-timers make is treating it as a quick photo op and rushing back down. Give yourself time to walk the full glass loop, the angle on the Palm's fronds changes noticeably as you move around the tower, and the best shot is rarely from the first spot you stop at.
 
 If you're combining it with lunch or dinner, the tower and nearby Palm hotels have restaurants, so you can easily turn the visit into a half-day out rather than a standalone stop.

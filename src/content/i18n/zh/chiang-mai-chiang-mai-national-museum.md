@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-chiang-mai-national-museum
-srcHash: 'c72a4bf71df8'
+srcHash: 'df741fca5f60'
 title: 清迈国家博物馆旅行指南(4.2★)
 description: 清迈国家博物馆(Chiang Mai National Museum)位于古城北缘、契迪隆寺(Wat Jet Yot,契迪七塔寺)附近，是游览各座寺庙前后了解兰纳历史、佛教艺术与泰北文化最值得一去的地方。4.2★(951条评价)——看看游客怎么说，以及开放时间与实用建议。
 quickAnswer: 清迈国家博物馆位于古城北缘、契迪隆寺（Wat Jet Yot）附近，是游览各座寺庙前后了解兰纳历史、佛教艺术与泰北文化最值得一去的地方。建议安排1.5至2小时，最好在气温较凉爽的上午前往，方便悠闲地在馆区走动，还可以顺路搭配旁边的契迪隆寺(Wat Jet Yot)，凑成半天的行程。出发前请先查询当前的开放时间及门票信息，因为这些可能会有变动。

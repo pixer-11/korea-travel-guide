@@ -95,7 +95,7 @@ updatedDate: '2026-09-02'
 
 ## Why Gyeongdong Market is worth the trip
 
-Step under the market's corrugated roof and the air changes first — dry, faintly sweet, threaded with the smell of roasted chestnuts and dried mushrooms. This is Korea's largest traditional herbal medicine market, and it smells like it. Sacks of cinnamon bark, ginseng roots, and dried jujubes are stacked shoulder-high along narrow aisles that have barely changed in decades.
+Step under the market's corrugated roof and the air changes first, dry, faintly sweet, threaded with the smell of roasted chestnuts and dried mushrooms. This is Korea's largest traditional herbal medicine market, and it smells like it. Sacks of cinnamon bark, ginseng roots, and dried jujubes are stacked shoulder-high along narrow aisles that have barely changed in decades.
 
 It's a working market first, tourist stop second. Vendors weigh out herbs on hanging brass scales, wrap them in brown paper, and shout prices in rapid-fire Korean over the hum of ventilation fans.
 
@@ -107,11 +107,11 @@ From Seoul Station, it's a straightforward ride with one possible transfer depen
 
 ## What to see and eat
 
-The herbal medicine section is the market's beating heart — walk past stalls selling deer antler, red ginseng, and mystery roots you'll need to ask about. Beyond herbs, the market spreads into produce, dried seafood, and a lively food alley.
+The herbal medicine section is the market's beating heart. Walk past stalls selling deer antler, red ginseng, and mystery roots you'll need to ask about. Beyond herbs, the market spreads into produce, dried seafood, and a lively food alley.
 
 Things to look for:
 
-- **Ginseng and red ginseng products** — sliced, whole, or bottled as extract
+- **Ginseng and red ginseng products**, sliced, whole, or bottled as extract
 - **Roasted grains and nuts** sold by the scoop, great for snacking on the walk
 - **Dried anchovies and seaweed** stacked in open crates
 - **A bowl of kalguksu (knife-cut noodle soup)** at one of the market's food stalls
@@ -123,17 +123,17 @@ Don't expect polished signage or English menus everywhere. Half the fun is point
 
 The market keeps consistent hours every day, 9am to 6pm, with no weekly closing day listed. That said, timing your visit within those hours matters more than which day you pick.
 
-Weekday mornings through afternoons stay relatively even in foot traffic, making any weekday a safe bet. On weekends, arrive right at opening — between 9am and 10am — to see stalls setting up without fighting crowds.
+Weekday mornings through afternoons stay relatively even in foot traffic, making any weekday a safe bet. On weekends, arrive right at opening, between 9am and 10am, to see stalls setting up without fighting crowds.
 
 Avoid Saturday or Sunday between 11am and 5pm if you can. That's when the aisles fill shoulder to shoulder with locals doing their weekly shopping and visitors snapping photos.
 
 ## How to visit like a local
 
-Gyeongdong Market is well and truly on the map now, so don't expect a quiet secret — expect a crowd, and plan around it instead. The smartest move is going right at opening on a weekend, or really any time on a weekday, since foot traffic there stays steady rather than spiking.
+Gyeongdong Market is well and truly on the map now, so don't expect a quiet secret. Expect a crowd, and plan around it instead. The smartest move is going right at opening on a weekend, or really any time on a weekday, since foot traffic there stays steady rather than spiking.
 
-Cash still rules in the herb stalls and food alley, though larger shops increasingly take cards — carry some won just in case. Prices are often marked but treated as a starting point; polite haggling on bulk herb purchases is normal, especially if you're buying more than a small bag.
+Cash still rules in the herb stalls and food alley, though larger shops increasingly take cards, carry some won just in case. Prices are often marked but treated as a starting point; polite haggling on bulk herb purchases is normal, especially if you're buying more than a small bag.
 
-Don't rush the produce and herb sections just to find the food stalls. Locals shop here for specific ailments and household staples, so vendors expect real questions — ask what a root or bark is used for and most will happily explain, even through gestures.
+Don't rush the produce and herb sections just to find the food stalls. Locals shop here for specific ailments and household staples, so vendors expect real questions. Ask what a root or bark is used for and most will happily explain, even through gestures.
 
-The market's biggest tourist mistake is treating it purely as a photo backdrop. Buy something small, try a snack, and treat the vendors as the actual point of the visit — that's what keeps this place running the way it has for generations.
+The market's biggest tourist mistake is treating it purely as a photo backdrop. Buy something small, try a snack, and treat the vendors as the actual point of the visit. That's what keeps this place running the way it has for generations.
 

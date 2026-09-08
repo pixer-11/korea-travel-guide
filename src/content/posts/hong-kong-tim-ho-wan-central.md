@@ -104,28 +104,28 @@ Tim Ho Wan built its reputation as the cheapest Michelin-starred meal on the pla
 
 You can roll off a flight, drop your bags, and be eating a basket of siu mai before you've even worked out which exit leads to the harbour.
 
-That location also means it draws a very specific crowd — tourists on their way in or out of the city, business travelers with thirty minutes to spare, locals grabbing a fast lunch between meetings in the IFC towers next door. This is not a quiet, undiscovered corner of Hong Kong dining. It's one of the most consistently busy dim sum counters in the district, and the fact box's rating and review count reflect that.
+That location also means it draws a very specific crowd, tourists on their way in or out of the city, business travelers with thirty minutes to spare, locals grabbing a fast lunch between meetings in the IFC towers next door. This is not a quiet, undiscovered corner of Hong Kong dining. It's one of the most consistently busy dim sum counters in the district, and the fact box's rating and review count reflect that.
 
 ## What to order
 
-Start with the dish the restaurant is built on: baked BBQ pork buns (char siu bao), a glazed, slightly sweet bun with a crackled sugar top that's baked rather than steamed, so it arrives warm with a faint crunch before giving way to the pork filling underneath. Alongside it, order the rice noodle rolls — cheong fun — either wrapped around shrimp or the barbecue pork, slicked with soy and sesame oil, the sheets so thin you can see the filling shadow through them.
+Start with the dish the restaurant is built on: baked BBQ pork buns (char siu bao), a glazed, slightly sweet bun with a crackled sugar top that's baked rather than steamed, so it arrives warm with a faint crunch before giving way to the pork filling underneath. Alongside it, order the rice noodle rolls, cheong fun, either wrapped around shrimp or the barbecue pork, slicked with soy and sesame oil, the sheets so thin you can see the filling shadow through them.
 
 From there, work through the classics: pan-fried turnip cake with its lacy crisp edges, siu mai topped with a single roe, and the vermicelli rolls if you want something lighter. Portions are small dim sum-style plates meant for sharing, and the format rewards ordering four or five dishes across a table rather than one large plate each.
 
 ## The menu, the counter, the ordering slip
 
-Like most dim sum houses, you order by marking a paper slip with the quantity of each dish, handed to you at the queue or your table. Staff move fast and the turnover is quick, so don't expect lingering table service — this is efficient, assembly-line dim sum, not a leisurely tea house. Prices are on the budget end for Central, part of why the queue rarely thins out.
+Like most dim sum houses, you order by marking a paper slip with the quantity of each dish, handed to you at the queue or your table. Staff move fast and the turnover is quick, so don't expect lingering table service. This is efficient, assembly-line dim sum, not a leisurely tea house. Prices are on the budget end for Central, part of why the queue rarely thins out.
 
 ## When to go
 
-The restaurant's own foot-traffic data gives a clear answer: on weekdays it stays even-keeled across the full 9am–9pm window, so any weekday visit is relatively low-stress. Weekends are a different story — arrive between 9am and 10am and you'll likely walk straight to a table, but from 11am until 7pm the queue is the busiest stretch of the week. If a weekend visit is your only option, treat that opening hour as the target, not brunch time.
+The restaurant's own foot-traffic data gives a clear answer: on weekdays it stays even-keeled across the full 9am–9pm window, so any weekday visit is relatively low-stress. Weekends are a different story. Arrive between 9am and 10am and you'll likely walk straight to a table, but from 11am until 7pm the queue is the busiest stretch of the week. If a weekend visit is your only option, treat that opening hour as the target, not brunch time.
 
 ## Getting there
 
-Look for signage toward Shop 12A & 12B on Level 1 of Hong Kong Station — it's inside the paid concourse area near the IFC Mall connection, not out on a street frontage, so if you're coming from outside the station, head for IFC Mall's lower levels and follow signs down to the MTR concourse. From Central MTR Station itself (Island Line), it's a short connected walk underground.
+Look for signage toward Shop 12A & 12B on Level 1 of Hong Kong Station. It's inside the paid concourse area near the IFC Mall connection, not out on a street frontage, so if you're coming from outside the station, head for IFC Mall's lower levels and follow signs down to the MTR concourse. From Central MTR Station itself (Island Line), it's a short connected walk underground.
 
 ## How to visit like a local
 
-Skip the idea of walking up and waiting by the door — like most busy Hong Kong dim sum spots, this branch uses a numbered queue ticket once a line forms, so grab your number first, then browse IFC Mall or check the departures board while you wait for it to be called. Weekday mornings and early afternoons are genuinely calm across the entire 9am–9pm span, so if your schedule is flexible, that's when to come rather than gambling on a weekend slot.
+Skip the idea of walking up and waiting by the door, like most busy Hong Kong dim sum spots, this branch uses a numbered queue ticket once a line forms, so grab your number first, then browse IFC Mall or check the departures board while you wait for it to be called. Weekday mornings and early afternoons are genuinely calm across the entire 9am–9pm span, so if your schedule is flexible, that's when to come rather than gambling on a weekend slot.
 
-Payment is straightforward — cash or card, no tipping culture to navigate beyond a modest service charge that may already be added to the bill. The mistake most first-timers make is over-ordering steamed items and skipping the baked BBQ pork bun, the one dish that actually defines the place; make sure it's on your slip before anything else. Budget 20 to 40 minutes at the table — turnover is fast, and lingering isn't really the local style here.
+Payment is straightforward (cash or card, no tipping culture to navigate beyond a modest service charge that may already be added to the bill. The mistake most first-timers make is over-ordering steamed items and skipping the baked BBQ pork bun, the one dish that actually defines the place; make sure it's on your slip before anything else. Budget 20 to 40 minutes at the table) turnover is fast, and lingering isn't really the local style here.

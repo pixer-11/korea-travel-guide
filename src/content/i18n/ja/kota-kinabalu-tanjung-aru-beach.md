@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: kota-kinabalu-tanjung-aru-beach
-srcHash: 'ff1663710ef8'
+srcHash: '6bd8527aeadb'
 title: タンジュン・アル・ビーチ:コタキナバル旅行ガイド
 description: タンジュン・アル・ビーチ(Tanjung Aru Beach)はコタキナバルを代表するサンセットスポット。市街地からタクシーやGrabですぐの長い砂浜で、モクマオウの木々や屋台、シャングリラ(Shangri-La)やタンジュン・アル・リゾート(Tanjung Aru Resort)が背後に広がる。
 quickAnswer: タンジュン・アル・ビーチ(Tanjung Aru Beach)はコタキナバルを代表するサンセットスポットです。市街地からタクシーやGrabですぐの長い砂浜で、モクマオウの木々や屋台、シャングリラ(Shangri-La)やタンジュン・アル・リゾート(Tanjung Aru Resort)が背後に広がります。夕方遅めの時間に訪れて、午後6時までに「ファーストビーチ(First Beach)」に場所を確保し、南シナ海の空がオレンジ色に染まるまで滞在しましょう。訪れる人が多いので、ゆったり過ごしたいなら早めの時間か平日に行くのがおすすめです。

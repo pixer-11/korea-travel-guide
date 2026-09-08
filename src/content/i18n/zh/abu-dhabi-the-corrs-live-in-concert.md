@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-the-corrs-live-in-concert
-srcHash: '4135475da54c'
+srcHash: '21ae818406cc'
 title: 科兹合唱团(The Corrs)阿布扎比演唱会全攻略
 description: 科兹合唱团(The Corrs)将于2026年9月27日在阿联酋阿布扎比举办演唱会。这场演出是什么、何时何地举行，以及该如何安排行程，这里一次说清楚。
 quickAnswer: 2026年9月27日，科兹合唱团将在阿布扎比亚斯岛(Yas Island)的阿提哈德竞技场(Etihad Arena)举办一场仅此一晚的演出。目前门票价格、开场时间以及暖场嘉宾都尚未公布，建议在预订行程前，临近演出日期时再查阅阿提哈德竞技场官网或科兹合唱团官方渠道获取最新信息。

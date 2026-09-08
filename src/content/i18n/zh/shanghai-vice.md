@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: shanghai-vice
-srcHash: 'cfcfe6a7a6b2'
+srcHash: 'd9628756e166'
 title: 上海新店VICE探店指南
 description: VICE是上海一家新开的餐厅，坐落在永嘉路一栋修缮一新的老弄堂洋房里，由主厨Carlos Sotomayor与Cantina Agave的Raffe Ibrahamian联手打造，位于原法租界内。
 quickAnswer: 在上海原法租界的永嘉路上，一栋修缮一新的老弄堂洋房里，藏着一家新开的餐厅——VICE。这是主厨Carlos Sotomayor与Cantina Agave的Raffe Ibrahamian联手打造的作品。厨房里，秘鲁风味的根基与亚洲元素相互交融，呈现出一份颇具全球视野的菜单，也让这里成为近期上海餐饮圈里话题度颇高的新去处之一。由于刚开业不久、热度正高，建议提前订位，并在出发前确认好最新的营业时间。

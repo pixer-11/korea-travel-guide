@@ -25,9 +25,9 @@ aiGenerated: true
 draft: true
 ---
 
-You hear about ARUÉ before you see it — a name that keeps surfacing in group chats and location tags around South Jakarta. It opened in Blok M in 2026 and has already settled into the neighborhood's rotation of go-to hangout spots, the kind of place office workers duck into after a shift and friends pick when they actually want to talk.
+You hear about ARUÉ before you see it, a name that keeps surfacing in group chats and location tags around South Jakarta. It opened in Blok M in 2026 and has already settled into the neighborhood's rotation of go-to hangout spots, the kind of place office workers duck into after a shift and friends pick when they actually want to talk.
 
-That last part matters. Blok M can be loud — market stalls, honking angkot, karaoke bars stacked three deep. ARUÉ deliberately isn't. The room is pitched for conversation, not spectacle: no blaring music, no scramble for a table you can't hear across.
+That last part matters. Blok M can be loud, market stalls, honking angkot, karaoke bars stacked three deep. ARUÉ deliberately isn't. The room is pitched for conversation, not spectacle: no blaring music, no scramble for a table you can't hear across.
 
 ## Why it's worth the trip
 
@@ -39,7 +39,7 @@ It's the sort of dish people order on autopilot, then linger over for another ho
 
 ARUÉ sits in the Blok M area, close to the Trunojoyo strip that's long been one of South Jakarta's quieter, tree-lined pockets. This part of the city mixes old colonial-era streets with newer cafés and offices, so the neighborhood already has steady foot traffic from people who live and work nearby.
 
-That's part of why ARUÉ filled up so fast — it landed in a spot where the audience was already walking past.
+That's part of why ARUÉ filled up so fast, it landed in a spot where the audience was already walking past.
 
 ## Getting there
 
@@ -47,7 +47,7 @@ Public transit makes this an easy add to a Jakarta day out.
 
 - **TransJakarta:** get off at the CSW (Cendrawasih/Sisingamangaraja) stop, then walk into the Blok M/Trunojoyo streets.
 - **MRT Jakarta:** ASEAN station on the north-south line is within walking distance.
-- **By car or ojek:** Blok M has metered and street parking nearby, though weekend evenings get tight — a motorbike taxi is often faster than driving yourself.
+- **By car or ojek:** Blok M has metered and street parking nearby, though weekend evenings get tight. A motorbike taxi is often faster than driving yourself.
 
 Because it's an easy hop from two separate transit lines, ARUÉ has become a natural meeting point for people converging from different parts of the city.
 
@@ -55,13 +55,13 @@ Because it's an easy hop from two separate transit lines, ARUÉ has become a nat
 
 Details here should be confirmed on-site since menus at new restaurants shift in the early months, but ARUÉ's reputation rests on approachable, warming dishes rather than elaborate plating.
 
-The Thai beef noodle is the one most people mention first — a bowl clearly built for slow eating, not a quick refuel. Expect it paired with coffee or tea service suited to sitting for a while, which fits the venue's whole pitch: come stay, not just come eat.
+The Thai beef noodle is the one most people mention first, a bowl clearly built for slow eating, not a quick refuel. Expect it paired with coffee or tea service suited to sitting for a while, which fits the venue's whole pitch: come stay, not just come eat.
 
 ## When to go
 
 Because ARUÉ trades on its calm atmosphere, timing your visit matters more than at a louder restaurant.
 
-Early evening on weekdays — right after the office crowd clocks out but before the dinner rush peaks — tends to keep the room at the low hum it's known for. Weekend evenings pull the biggest crowds, since it's become a favorite for friend groups catching up over a long, unhurried meal.
+Early evening on weekdays, right after the office crowd clocks out but before the dinner rush peaks, tends to keep the room at the low hum it's known for. Weekend evenings pull the biggest crowds, since it's become a favorite for friend groups catching up over a long, unhurried meal.
 
 If quiet conversation is the goal, aim for an off-peak window and call ahead if reservations are offered.
 
@@ -69,10 +69,10 @@ If quiet conversation is the goal, aim for an off-peak window and call ahead if 
 
 Treat ARUÉ the way Jakartans treat their favorite hangout spots: as a destination for time, not just food.
 
-- Go with a plan to stay — order the Thai beef noodle, then let the coffee refills stretch the visit.
+- Go with a plan to stay, order the Thai beef noodle, then let the coffee refills stretch the visit.
 - Arrive earlier in the evening if you want to actually hear each other talk.
 - Combine it with a walk down Trunojoyo before or after, since the street itself is part of the appeal.
-- Don't expect a loud, photo-driven scene — the whole point of ARUÉ is that it isn't one.
+- Don't expect a loud, photo-driven scene. The whole point of ARUÉ is that it isn't one.
 - Confirm current opening hours and whether they take walk-ins or require booking, since both can change quickly at a spot still finding its rhythm in its first year.
 
-The mistake newcomers make is treating it like a quick pit stop. Regulars know ARUÉ rewards the opposite — sitting down, slowing down, and letting the bowl of noodles go a little cold while the conversation keeps going.
+The mistake newcomers make is treating it like a quick pit stop. Regulars know ARUÉ rewards the opposite, sitting down, slowing down, and letting the bowl of noodles go a little cold while the conversation keeps going.

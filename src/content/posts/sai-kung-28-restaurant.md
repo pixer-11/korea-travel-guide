@@ -65,7 +65,7 @@ You won't stumble on this one by accident. It sits on Yi Chun Street, one street
 
 That's part of the appeal. The room is small, the tables close together, the kitchen loud enough that you can hear the wok hitting full heat. It's the kind of place where the menu board matters more than the décor.
 
-With a rating hovering around 4.8 from a tight base of reviewers, this isn't a place coasting on volume — it's a place doing a small number of dishes very well, night after night.
+With a rating hovering around 4.8 from a tight base of reviewers, this isn't a place coasting on volume. It's a place doing a small number of dishes very well, night after night.
 
 ## Getting there
 
@@ -98,19 +98,19 @@ Weekends here run busy from 1pm straight through to 9pm, so if you're picturing 
 
 Weekday evenings are the better bet. The quietest stretch tends to be late, around 10 to 11pm, once the dinner rush has cleared and the kitchen is winding toward last orders.
 
-If you're coming straight from a Sai Kung pier boat trip or a hike on the nearby Hoi Ha Wan trails, aim for an early weekday dinner — you'll get a table without the scramble and still catch the kitchen at full energy.
+If you're coming straight from a Sai Kung pier boat trip or a hike on the nearby Hoi Ha Wan trails, aim for an early weekday dinner. You'll get a table without the scramble and still catch the kitchen at full energy.
 
 ## How to visit like a local
 
-Book ahead if you can, especially for a weekend table — with only a handful of tables in the room, walk-ins during peak hours often mean standing by the door.
+Book ahead if you can, especially for a weekend table, with only a handful of tables in the room, walk-ins during peak hours often mean standing by the door.
 
 Cash and card are both generally accepted at Sai Kung restaurants like this, though it's worth having some cash on hand as backup since smaller local kitchens don't always prioritize card readers.
 
 Tipping isn't expected the way it is in Western restaurants; a 10% service charge is often already built into the bill, so check before adding more.
 
-Order in Cantonese-style shorthand if you can — pointing at the fish tank or asking "today's catch?" (今日有咼野新鮮?) works fine even without fluent Cantonese, and staff are used to guiding visitors through the board.
+Order in Cantonese-style shorthand if you can, pointing at the fish tank or asking "today's catch?" (今日有咼野新鮮?) works fine even without fluent Cantonese, and staff are used to guiding visitors through the board.
 
-The mistake most visitors make is treating this like a quick bite between ferry departures. It's a sit-down, share-plates kind of meal — rushing it means missing the point of ordering three dishes for the table instead of one bowl for yourself.
+The mistake most visitors make is treating this like a quick bite between ferry departures. It's a sit-down, share-plates kind of meal, rushing it means missing the point of ordering three dishes for the table instead of one bowl for yourself.
 
 Come hungry, come with company, and let the fish tank at the front tell you what's fresh rather than sticking rigidly to the printed menu.
 

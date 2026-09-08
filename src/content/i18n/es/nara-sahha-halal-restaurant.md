@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nara-sahha-halal-restaurant
-srcHash: '54fae4022ffe'
+srcHash: 'b43301679f33'
 title: 'Restaurante halal Sahha: dónde comer en Nara'
 description: Sahha es un restaurante halal muy bien valorado en Hōrenchō, a un corto trayecto en taxi o autobús al norte del centro del Parque de Nara, que sirve platos halal de inspiración japonesa y del sur/sudeste asiático (piensa en curry halal, carnes a la parrilla y sets de arroz) tanto a viajeros musulmanes como a curiosos locales.
 quickAnswer: Sahha es un restaurante halal muy bien valorado en Hōrenchō, a un corto trayecto en taxi o autobús al norte del centro del Parque de Nara, que sirve platos halal de inspiración japonesa y del sur/sudeste asiático (piensa en curry halal, carnes a la parrilla y sets de arroz) tanto a viajeros musulmanes como a curiosos locales. Con una calificación de 4.9 basada en más de 639 reseñas, se ha convertido en una parada infalible para quienes recorren los templos de Nara y necesitan comida certificada halal sin tener que volver a Osaka o Kioto. Calcula entre 45 y 75 minutos para un almuerzo o cena sentado, y confirma el horario actual antes de salir.

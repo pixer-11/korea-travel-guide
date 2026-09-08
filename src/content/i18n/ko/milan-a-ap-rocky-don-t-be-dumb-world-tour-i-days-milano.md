@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano
-srcHash: '05e55d92267d'
+srcHash: 'b8c7638fe7ed'
 title: '에이셉 라키(A$AP Rocky) 던트 비 덤 월드투어(I-Days Milano): 일정, 티켓, 공연장 안내 (밀라노)'
 description: 2026년 9월 10일, 이탈리아 밀라노에서 열리는 에이셉 라키의 던트 비 덤 월드투어(I-Days Milano) 공연 정보입니다. 공연 개요와 일시, 장소, 관람 계획에 필요한 사항을 안내합니다.
 quickAnswer: 에이셉 라키의 던트 비 덤 월드투어 중 이탈리아 유일 공연은 2026년 9월 10일 I-DAYS 밀라노 코카콜라(I-DAYS Milano Coca-Cola)에서 열리며, 장소는 밀라노의 이포드로모 스나이 산시로(Ippodromo SNAI San Siro)입니다. 이곳은 산시로 스타디움 바로 옆에 위치한 유서 깊은 경마장으로, 지하철 5호선 산시로 이포드로모(San Siro Ippodromo)역을 통해 이동할 수 있습니다. 정확한 공연 시간과 티켓 등급, 입장 관련 세부 사항은 I-DAYS 밀라노 공식 사이트에서 반드시 확인하시기 바랍니다.

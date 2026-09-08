@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-ateez-in-your-fantasy-world-tour
-srcHash: 'f7bd9352175e'
+srcHash: 'b79297b95850'
 title: ATEEZ「IN YOUR FANTASY」世界巡演须知（伊斯坦布尔站）
 description: ATEEZ「IN YOUR FANTASY」世界巡演确定于2026年8月16日登陆伊斯坦布尔——这是该组合在土耳其官宣的首场演出。
 quickAnswer: ATEEZ「IN YOUR FANTASY」世界巡演确定于2026年8月16日在伊斯坦布尔开唱，这也是该组合首次在这座城市演出。官宣中并未公布场馆、开场时间或票价档位，这些细节需留意ATEEZ官方社交账号以及KQ娱乐的公告。

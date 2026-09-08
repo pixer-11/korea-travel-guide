@@ -78,13 +78,13 @@ updatedDate: '2026-08-30'
 
 ## Why bother with a provincial history museum
 
-You don't come to Can Tho Museum for polish. You come because it lays out, room by room, how this Mekong Delta city actually formed — floating markets, wartime resistance, rice-farming life — in a way the riverfront alone won't tell you.
+You don't come to Can Tho Museum for polish. You come because it lays out, room by room, how this Mekong Delta city actually formed (floating markets, wartime resistance, rice-farming life) in a way the riverfront alone won't tell you.
 
 The building itself is worth a look before you even step inside. It's a large, pale, colonnade-fronted structure on Đ. Hòa Bình, one of the more imposing pieces of civic architecture in Ninh Kiều district, and it sits close enough to the river that you can fold it into a walking loop.
 
 ## Getting there
 
-The museum sits at 1 Đ. Hòa Bình, in the heart of Ninh Kiều — the same central district as Ninh Kieu Wharf and the night market.
+The museum sits at 1 Đ. Hòa Bình, in the heart of Ninh Kiều, the same central district as Ninh Kieu Wharf and the night market.
 
 From most riverside hotels it's a 10–15 minute walk. A taxi or Grab from anywhere in central Can Tho should run you a short, cheap fare.
 
@@ -94,9 +94,9 @@ From most riverside hotels it's a 10–15 minute walk. A taxi or Grab from anywh
 
 ## What's inside
 
-The exhibits move chronologically and thematically, spread across a genuinely large floor plan — expect more square footage than you'd guess from outside.
+The exhibits move chronologically and thematically, spread across a genuinely large floor plan. Expect more square footage than you'd guess from outside.
 
-Early rooms cover pre-20th-century settlement of the delta: tools, boats, and models of the floating markets that still operate on the rivers today. Further in, the focus shifts hard toward the Can Tho resistance — French colonial period through the American War — with photographs, weapons, and personal artifacts from local fighters and families.
+Early rooms cover pre-20th-century settlement of the delta: tools, boats, and models of the floating markets that still operate on the rivers today. Further in, the focus shifts hard toward the Can Tho resistance, French colonial period through the American War, with photographs, weapons, and personal artifacts from local fighters and families.
 
 - Scale models of traditional stilt houses and delta villages
 - Ethnic minority costumes and everyday objects from Khmer and Chinese communities in the region
@@ -109,19 +109,19 @@ Give it 60–90 minutes if you read the placards; 30–40 if you're moving fast.
 
 Hours here are unusual, so check the day before you plan around it. The museum is open Tuesday through Thursday, 8–11am and 2–5pm, and on weekends it switches to 8–11am and a rare evening slot, 6:30–9pm.
 
-It's closed all day Monday and Friday — easy to forget if you're museum-hopping on a tight itinerary.
+It's closed all day Monday and Friday, easy to forget if you're museum-hopping on a tight itinerary.
 
 That Saturday–Sunday night window is genuinely useful in delta heat: you get air-conditioned galleries instead of the punishing midday sun, and foot traffic tends to be thin either way since this isn't yet a heavily trafficked stop on the tourist circuit.
 
 ## How to visit like a local
 
-Treat this as an under-the-radar add-on rather than a headline sight — it draws far fewer visitors than the floating markets or Ninh Kieu Wharf, so you'll often have entire rooms to yourself.
+Treat this as an under-the-radar add-on rather than a headline sight, it draws far fewer visitors than the floating markets or Ninh Kieu Wharf, so you'll often have entire rooms to yourself.
 
 - **Pay**: entry fees at Vietnamese provincial museums are typically small and paid in cash at the door; bring small-denomination Vietnamese dong just in case
 - **Timing**: weekday mornings right after the 8am opening are the calmest; the weekend evening slot is the second-best option and cooler
-- **Shoes off**: not required, but keep your voice down — school groups sometimes tour during weekday hours
+- **Shoes off**: not required, but keep your voice down, school groups sometimes tour during weekday hours
 - **Order of rooms**: staff generally expect a chronological walk from the entrance hall; don't skip straight to the war wing, as the earlier context on delta geography and settlement makes the later exhibits land harder
-- **Common mistake**: showing up on a Monday or Friday, when the doors are locked all day — double-check the day of week, not just the clock, before you walk over
+- **Common mistake**: showing up on a Monday or Friday, when the doors are locked all day, double-check the day of week, not just the clock, before you walk over
 
-Pair it with a stroll to Ninh Kieu Wharf afterward, especially if you've caught an evening session — the riverfront promenade lights up around the same time, making a natural next stop.
+Pair it with a stroll to Ninh Kieu Wharf afterward, especially if you've caught an evening session, the riverfront promenade lights up around the same time, making a natural next stop.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-palais-longchamp
-srcHash: 'f813c055fc9c'
+srcHash: '50cdad6353ba'
 title: 'Palacio Longchamp: guía de viaje de Marsella (4,6★)'
 description: 'El Palacio Longchamp es el monumento decimonónico más grandioso de Marsella: un castillo de agua con columnata y una cascada central rugiente, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público en el distrito 4. 4,6★ (20.279 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Palacio Longchamp es el monumento decimonónico más grandioso de Marsella: un castillo de agua con columnata y una cascada central rugiente, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público en el distrito 4. Recorrer los jardines y las fuentes es gratis (los museos cobran una pequeña entrada), y se pueden ver los puntos destacados en menos de una hora, aunque también se puede pasear con calma dos horas por los jardines de alrededor. Conviene llegar justo a la apertura, sobre las 8 de la mañana, antes de que la plaza se llene de familias y fotógrafos más tarde.'

@@ -105,19 +105,19 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-Ho Chi Minh City's coffee scene has two tracks: the ubiquitous roadside cà phê sữa đá stalls, and a newer wave of specialty roasters treating Vietnamese beans the way Ethiopia or Colombia treats theirs — with single-origin sourcing, manual brew methods, and tasting notes on the menu. Tonkin Specialty Coffee sits firmly in the second camp. With a 4.8 rating across more than 4,500 reviews, it's one of the most consistently praised specialty spots in District 1, and it's built its reputation on doing one thing — Vietnamese-grown specialty coffee — carefully rather than chasing a sprawling menu.
+Ho Chi Minh City's coffee scene has two tracks: the ubiquitous roadside cà phê sữa đá stalls, and a newer wave of specialty roasters treating Vietnamese beans the way Ethiopia or Colombia treats theirs (with single-origin sourcing, manual brew methods, and tasting notes on the menu. Tonkin Specialty Coffee sits firmly in the second camp. With a 4.8 rating across more than 4,500 reviews, it's one of the most consistently praised specialty spots in District 1, and it's built its reputation on doing one thing) Vietnamese-grown specialty coffee, carefully rather than chasing a sprawling menu.
 
 The name nods to Tonkin, the old term for northern Vietnam, but the beans on offer typically span the country's coffee highlands, including Arabica and fine Robusta from regions like Da Lat and Cau Dat. That's the real draw: tasting Vietnamese coffee as a specialty product, brewed via pour-over, AeroPress, or cold drip, alongside the classic phin filter.
 
 ## Getting there
 
-The café is at 91 Lý Tự Trọng, in Bến Thành ward, District 1 — the historic core of Saigon. It's roughly a 5–7 minute walk from Bến Thành Market, making it an easy add-on to a morning market visit or a stroll toward Nguyễn Huệ Walking Street. Landmarks nearby include the Bitexco Financial Tower (about 10–15 minutes on foot) and the Saigon Notre-Dame Cathedral/Central Post Office area (also walkable, roughly 15 minutes).
+The café is at 91 Lý Tự Trọng, in Bến Thành ward, District 1, the historic core of Saigon. It's roughly a 5–7 minute walk from Bến Thành Market, making it an easy add-on to a morning market visit or a stroll toward Nguyễn Huệ Walking Street. Landmarks nearby include the Bitexco Financial Tower (about 10–15 minutes on foot) and the Saigon Notre-Dame Cathedral/Central Post Office area (also walkable, roughly 15 minutes).
 
 Grab (Vietnam's dominant ride-hailing app) or a metered taxi from anywhere in District 1 will get you there in minutes given the central location; motorbike taxis are the fastest way through midday traffic. There's no metro line serving this exact block yet, so walking or ride-hailing is the practical approach.
 
 ## What to see and drink
 
-The space itself is small and minimalist — expect exposed materials, warm wood tones, and a counter where the brewing happens in full view. This is a place to watch technique: baristas here treat pour-over and filter coffee with the same precision you'd see in Melbourne or Seoul specialty cafés, but the raw material is 100% Vietnamese.
+The space itself is small and minimalist. Expect exposed materials, warm wood tones, and a counter where the brewing happens in full view. This is a place to watch technique: baristas here treat pour-over and filter coffee with the same precision you'd see in Melbourne or Seoul specialty cafés, but the raw material is 100% Vietnamese.
 
 Order a single-origin pour-over if you want to taste what Vietnamese Arabica can do outside the condensed-milk formula, or ask for a traditional phin brewed with specialty-grade beans for a familiar format with an elevated result. Cold brew and cà phê sữa đá riffs are usually available too, for those who want the classic flavor profile without sacrificing bean quality.
 
@@ -127,7 +127,7 @@ Plan for 30–45 minutes if you're sitting in; seating is limited, so it leans t
 
 ## When to go
 
-Weekday mornings (roughly 8–11am) are the best window for a seat and unhurried service, since the space is compact and can fill up with both tourists and local coffee enthusiasts. Weekends and afternoons tend to be busier. Ho Chi Minh City's tropical climate means mornings are also simply more comfortable for a walk over from Bến Thành Market before the midday heat and humidity peak — this is generally true year-round, though the driest, most pleasant stretch is roughly December through April.
+Weekday mornings (roughly 8–11am) are the best window for a seat and unhurried service, since the space is compact and can fill up with both tourists and local coffee enthusiasts. Weekends and afternoons tend to be busier. Ho Chi Minh City's tropical climate means mornings are also simply more comfortable for a walk over from Bến Thành Market before the midday heat and humidity peak. This is generally true year-round, though the driest, most pleasant stretch is roughly December through April.
 
 ## Nearby & tips
 

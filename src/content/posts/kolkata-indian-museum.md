@@ -101,7 +101,7 @@ updatedDate: '2026-09-07'
 
 ## Why go
 
-Founded in 1814, the Indian Museum is the oldest museum in Asia and one of the largest in the world. Its scale alone is worth the visit — six galleries spread across two floors circling a leafy central courtyard, each one a rabbit hole of Indian natural and cultural history.
+Founded in 1814, the Indian Museum is the oldest museum in Asia and one of the largest in the world. Its scale alone is worth the visit, six galleries spread across two floors circling a leafy central courtyard, each one a rabbit hole of Indian natural and cultural history.
 
 You come for the mummy, but you stay for everything else: fossilised dinosaur eggs, a whale skeleton suspended overhead, and stone railings from the 2nd-century-BCE Bharhut Stupa carved with some of the earliest narrative Buddhist art in existence.
 
@@ -138,9 +138,9 @@ This is one of Kolkata's most-visited landmarks, not a hidden find, so the smart
 
 - **Arrive at opening.** With well over 50,000 reviews logged and steady year-round footfall, the galleries fill up fast once families and tour groups arrive after midday.
 - **Buy tickets at the counter on-site**; queues move but move faster before 11am. Carry small cash for the entry fee and any camera/phone charges, since prices change periodically and are best confirmed at the gate.
-- **Bags and large backpacks** often need to go through security or a cloakroom check — travel light if you can.
+- **Bags and large backpacks** often need to go through security or a cloakroom check, travel light if you can.
 - **Follow the numbered gallery signage** rather than trying to see everything at once; the layout isn't strictly chronological, and locals who visit regularly tend to pick two or three galleries per trip rather than rushing all six.
-- **The courtyard** in the centre is a genuine breather — use it if the halls feel crowded, then head back in.
+- **The courtyard** in the centre is a genuine breather, use it if the halls feel crowded, then head back in.
 - The most common tourist mistake is turning up on a Monday, having assumed a museum this famous stays open daily. It doesn't.
 
 ## Nearby to combine

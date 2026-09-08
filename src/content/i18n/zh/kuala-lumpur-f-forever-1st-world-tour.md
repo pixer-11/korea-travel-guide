@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-f-forever-1st-world-tour
-srcHash: 'c421917c8259'
+srcHash: 'bd48735cc72b'
 title: F✦FOREVER首届世界巡回演唱会须知（吉隆坡站）
 description: F✦FOREVER首届世界巡回演唱会原定于2026年8月7日在吉隆坡武吉加里尔（Bukit Jalil）阿夏帝亚体育馆（Axiata Arena）举行。演出内容及阵容一览。
 quickAnswer: F✦FOREVER由言承旭、吴建豪、周渝民（F4成员）与五月天主唱阿信组成，是名副其实的superband。这场首届世界巡回演唱会原定于2026年8月7日在吉隆坡武吉加里尔阿夏帝亚体育馆举行，门票通过官方主办方及其授权票务平台发售。

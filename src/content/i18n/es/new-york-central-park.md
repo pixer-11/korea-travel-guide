@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-central-park
-srcHash: '584436f34046'
+srcHash: 'f855e760da3e'
 title: 'Central Park: Guía de viaje de Nueva York (4.8★)'
 description: Central Park está abierto todos los días de 6am a 1am, y el tramo más tranquilo para recorrerlo es temprano —entre las 7am y las 11am, aproximadamente, en días de semana— antes de que la vía circular se llene de corredores, grupos turísticos y mantas de picnic. 4.8★ (300,416 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Central Park está abierto todos los días de 6am a 1am, y el tramo más tranquilo para recorrerlo es temprano —entre las 7am y las 11am, aproximadamente, en días de semana— antes de que la vía circular se llene de corredores, grupos turísticos y mantas de picnic. Entra cerca de la calle 72 (72nd Street) por el West Side o el East Side para llegar a Bethesda Terrace, el Mall y el Lake en una caminata de 20 minutos. Evita las tardes de fin de semana entre las 12pm y las 7pm, cuando el parque está en su momento más concurrido.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: toulouse-museum-de-toulouse
-srcHash: '62f56c1cfddf'
+srcHash: 'e78b42cf947c'
 title: 图卢兹自然历史博物馆（Muséum de Toulouse）旅行指南（4.5★）
 description: 图卢兹自然历史博物馆是一座19世纪的自然历史博物馆，主厅陈列着大量动物标本和恐龙骨骼，旁边还有一座植物园（Jardin des Plantes），足以让人度过一整个上午或下午。4.5星（5,032条评价）——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: 图卢兹自然历史博物馆是一座19世纪的自然历史博物馆，主厅摆满了动物标本，还有恐龙骨骼，旁边紧邻一座植物园（Jardin des Plantes），足以让人度过一整个上午或下午。开放时间为周二至周日上午10点至晚上6点，周一闭馆。周末全天都比较拥挤，如果想独享展厅，建议一开门就到。

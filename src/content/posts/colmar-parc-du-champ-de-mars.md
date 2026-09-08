@@ -95,13 +95,13 @@ updatedDate: '2026-08-31'
 
 Colmar's half-timbered lanes are gorgeous but tight, and by mid-morning they're shoulder to shoulder with visitors. Parc du Champ de Mars is the release valve: a broad, tree-canopied park just outside the historic core where the pace slows and the sightlines open up.
 
-You come here not for a single monument but for the whole picture — gravel paths under plane trees, a central fountain throwing up a fine mist in summer, and stone statues of notable Frenchmen standing sentinel along the walkways.
+You come here not for a single monument but for the whole picture, gravel paths under plane trees, a central fountain throwing up a fine mist in summer, and stone statues of notable Frenchmen standing sentinel along the walkways.
 
 ## Getting there
 
 The park sits on Avenue de la République, on the eastern edge of central Colmar, an easy 10–15 minute walk from the Old Town or the Koifhus. If you're coming from the train station, it's roughly the same distance the other direction, making it a natural stop on a loop through town.
 
-There's no gate and no closing time — it's open 24 hours every day — so it works equally well as a morning warm-up before the shops open or a place to unwind after dinner.
+There's no gate and no closing time, it's open 24 hours every day, so it works equally well as a morning warm-up before the shops open or a place to unwind after dinner.
 
 ## What to see and do
 
@@ -112,7 +112,7 @@ The layout rewards unhurried wandering rather than a checklist, but a few things
 - A children's playground, useful if you're traveling with young kids and need a break from cobblestones
 - Mature tree cover that makes the park noticeably cooler than the streets on hot Alsace summer afternoons
 
-None of it demands much time — 30 to 45 minutes covers the loop — but the shade and the quiet make it easy to linger longer than planned.
+None of it demands much time, 30 to 45 minutes covers the loop, but the shade and the quiet make it easy to linger longer than planned.
 
 ## When to go
 
@@ -126,7 +126,7 @@ Spring and summer bring the fullest tree canopy and the liveliest atmosphere; au
 
 Treat the early morning slot as the park's best-kept practical secret, even if the park itself isn't one. Locals walking dogs or heading to work tend to pass through before 8am, when the light through the trees is softest and the benches are empty.
 
-There's no entry fee and nothing to book — it's a public park, so you simply walk in. Don't expect food vendors or facilities beyond the playground; this isn't a destination with amenities, it's a place to decompress between the sights everyone else is queuing for.
+There's no entry fee and nothing to book. It's a public park, so you simply walk in. Don't expect food vendors or facilities beyond the playground; this isn't a destination with amenities, it's a place to decompress between the sights everyone else is queuing for.
 
 The most common visitor mistake is treating it as a quick photo-stop squeezed between Petite Venise and the Old Town at midday, then wondering why it feels crowded and unremarkable. Give it the quiet hour instead, or swing through at dusk when the day-trippers have thinned out and the statues catch the last light.
 

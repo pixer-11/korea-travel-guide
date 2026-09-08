@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-360-chicago
-srcHash: 'd86154e84926'
+srcHash: 'c412479fb909'
 title: 360 CHICAGO 旅行指南
 description: 360 CHICAGO 位于约翰·汉考克大厦(John Hancock building)94层，地址875 N Michigan Ave,每天9:00–23:00开放。
 quickAnswer: 360 CHICAGO 位于约翰·汉考克大厦(John Hancock building)94层，地址875 N Michigan Ave,每天9:00–23:00开放。它人气很旺，并不是什么小众秘境，所以最好选在周末一开门就去(9:00–11:00是最清静的时段),平日则几乎任何时间都不错。建议预留大约一小时，如果要排队体验TILT——那个悬空探出密歇根大道(Michigan Avenue)上方的玻璃观景台——则需要更久。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: marseille-palais-longchamp
-srcHash: 'f813c055fc9c'
+srcHash: '50cdad6353ba'
 title: 隆尚宫:马赛旅行指南 (4.6★)
 description: 隆尚宫(Palais Longchamp)是马赛最宏伟的19世纪纪念建筑:一座立柱环绕的"水之宫殿",中央瀑布飞泻而下，两翼分别是市立美术馆(Musée des Beaux-Arts)和自然历史博物馆(Muséum d'Histoire Naturelle),整体坐落于第4区一片绿意盎然的公园之中。4.6★(20,279条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 隆尚宫(Palais Longchamp)是马赛最宏伟的19世纪纪念建筑:一座立柱环绕的"水之宫殿",中央瀑布飞泻而下，两翼分别是市立美术馆(Musée des Beaux-Arts)和自然历史博物馆(Muséum d'Histoire Naturelle),整体坐落于第4区一片绿意盎然的公园之中。漫步庭院和喷泉区域完全免费(两座博物馆需支付少量门票),核心景点不到一小时即可看完，若在周边花园多逗留，两小时也不为过。建议在开门时段，也就是早上8点左右前往，趁广场还没被家庭游客和摄影爱好者占满。

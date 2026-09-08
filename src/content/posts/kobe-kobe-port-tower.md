@@ -99,7 +99,7 @@ draft: false
 updatedDate: '2026-09-07'
 ---
 
-You spot it before you reach the water — a lattice of red steel pinched in the middle like an hourglass, rising 108 meters over Kobe's harbor. Kobe Port Tower has anchored Meriken Park since 1963, and it's still the silhouette most people picture when they think of this city.
+You spot it before you reach the water, a lattice of red steel pinched in the middle like an hourglass, rising 108 meters over Kobe's harbor. Kobe Port Tower has anchored Meriken Park since 1963, and it's still the silhouette most people picture when they think of this city.
 
 Up close, the structure looks almost impossibly slender for its height. The steel lattice catches the light differently through the day: dull rust-red at noon, glowing crimson once the sun drops and the tower's lights switch on.
 
@@ -109,7 +109,7 @@ The tower sits in Meriken Park, a short walk from Kobe's waterfront district.
 
 - Nearest station: JR Kobe Line to Motomachi Station, then about a 15-minute walk south toward the harbor
 - Alternative: Kobe Municipal Subway Kaigan Line to Minato-motomachi Station, closer at roughly 5–8 minutes on foot
-- Look for the Kobe Maritime Museum's white sail-like roof — the tower stands right beside it
+- Look for the Kobe Maritime Museum's white sail-like roof, the tower stands right beside it
 
 Taxis from Sannomiya, Kobe's main hub, take about 10 minutes depending on traffic.
 
@@ -117,7 +117,7 @@ Taxis from Sannomiya, Kobe's main hub, take about 10 minutes depending on traffi
 
 An elevator carries you up to the observation floors, where floor-to-ceiling glass wraps the whole circumference. On a clear day you can pick out the Akashi Kaikyo Bridge to the west and the mountains that hem in Kobe behind the city grid.
 
-A glass floor panel lets you look straight down through the tower's frame — plenty of visitors hesitate before stepping on it. There's also a small café level partway up, useful for resting your legs before or after the main deck.
+A glass floor panel lets you look straight down through the tower's frame, plenty of visitors hesitate before stepping on it. There's also a small café level partway up, useful for resting your legs before or after the main deck.
 
 The tower is at its best in two very different lights. By day the harbor traffic, cranes, and ferries give the view texture and movement. After sunset the city turns into a grid of light, and the tower itself becomes part of the postcard when you look back at it from the pier below.
 
@@ -125,7 +125,7 @@ The tower is at its best in two very different lights. By day the harbor traffic
 
 The tower runs 9am to 11pm every day of the week, so there's no early cutoff to plan around.
 
-Crowd data shows weekends get busiest between 11am and 8pm — exactly the stretch to avoid if you want breathing room at the railings. Both weekday and weekend mornings right at opening stay noticeably calmer.
+Crowd data shows weekends get busiest between 11am and 8pm, exactly the stretch to avoid if you want breathing room at the railings. Both weekday and weekend mornings right at opening stay noticeably calmer.
 
 Evening is worth the trade-off even with more people around, since the night view over Kobe's illuminated harbor is a big part of the tower's appeal. Just don't expect solitude at sunset on a Saturday.
 
@@ -137,7 +137,7 @@ This is one of Kobe's most-visited landmarks, so treat crowd-avoidance as your m
 - If you can only go on a weekend, aim for the first hour after opening, before the 11am surge
 - Payment at the ticket counter is standard cash-or-card; no reservation is typically needed for a single visit, but check current ticketing details before you go since procedures do shift
 - Pair the visit with a walk around Meriken Park's waterfront promenade and the nearby Kobe Port Tower Park benches, where locals sit in the evening rather than crowding the deck itself
-- The common tourist mistake is treating this as a quick photo-stop and rushing the elevator back down — the café level and the glass floor are easy to miss if you're moving fast
+- The common tourist mistake is treating this as a quick photo-stop and rushing the elevator back down. The café level and the glass floor are easy to miss if you're moving fast
 
 ## Nearby to combine
 

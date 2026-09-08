@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-museum-pasifika-bali
-srcHash: '6c27e6fba958'
+srcHash: 'fc78ef70cf3e'
 title: 巴斯佛卡博物馆：巴厘岛旅行指南（4.6★）
 description: 巴斯佛卡博物馆（Museum Pasifika）位于南库塔（South Kuta）贝诺阿（Benoa）努沙杜瓦旅游区（BTDC/ITDC区域）内，每天上午10点至下午6点开放。4.6★（821条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 巴斯佛卡博物馆位于南库塔贝诺阿的努沙杜瓦旅游区（BTDC/ITDC区域）内，每天上午10点至下午6点开放。工作日下午5点到6点，或周末上午10点到11点这两个时段人最少，最好避开周末下午3点到5点的高峰期。参观11个展馆的亚太艺术藏品，建议预留1.5到2小时。

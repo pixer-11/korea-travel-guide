@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: deira-souk-deira
-srcHash: 'cc0d820535cf'
+srcHash: 'd3e643e08e78'
 title: 迪拉市场（Souk Deira）旅行指南（4.4★）
 description: 迪拉市场（Souk Deira）是位于迪拉（Deira）萨卜哈区（Al Sabkha）的一条低调有顶市场街，藏身于附近黄金市场和香料市场的旅行团人潮之外。4.4★（139条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 迪拉市场（Souk Deira）是位于迪拉（Deira）萨卜哈区（Al Sabkha）的一条低调有顶市场街，藏身于附近黄金市场和香料市场的旅行团人潮之外。建议工作日上午9:30到中午之间前往，这时店铺刚拉开卷闸门，巷子里还很好走。这里周五全天休息，出行前记得避开这一天。

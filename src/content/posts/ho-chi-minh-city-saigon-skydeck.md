@@ -120,7 +120,7 @@ Taxis and ride-hail apps like Grab drop off directly at the tower's base. If you
 
 The deck is open every day from 9:30am to 9:30pm, so there's flexibility to build it around a full day of sightseeing. Weekday afternoons between 10am and 3pm tend to be the calmest stretch.
 
-Weekends are trickier: even the quiet window is short, so it fills up fast. Avoid weekend evenings between 5pm and 9pm entirely if you can — that's when the deck fills fastest, as everyone chases the same sunset-to-nightfall transition.
+Weekends are trickier: even the quiet window is short, so it fills up fast. Avoid weekend evenings between 5pm and 9pm entirely if you can. That's when the deck fills fastest, as everyone chases the same sunset-to-nightfall transition.
 
 If sunset is the goal, arrive by late afternoon on a weekday to grab a window spot before the after-work crowd arrives.
 
@@ -130,7 +130,7 @@ This is one of the city's most-visited attractions, not a hidden find, so managi
 
 Tickets are sold at the ground-floor counter inside the tower, and there's rarely a need to book ahead outside of holidays. Lines can build quickly at busier times, so timing your arrival matters more than any trick.
 
-The mistake most first-timers make is treating this as a sunset-only stop and showing up at 6pm with everyone else. Going earlier means shorter waits at the ticket counter and elevator, plus a rare, near-empty stretch by the glass. Bring your camera lens cloth — the windows are gorgeous but do pick up fingerprints and glare from the AC condensation, especially in humid months.
+The mistake most first-timers make is treating this as a sunset-only stop and showing up at 6pm with everyone else. Going earlier means shorter waits at the ticket counter and elevator, plus a rare, near-empty stretch by the glass. Bring your camera lens cloth. The windows are gorgeous but do pick up fingerprints and glare from the AC condensation, especially in humid months.
 
 ## Nearby to combine with your visit
 

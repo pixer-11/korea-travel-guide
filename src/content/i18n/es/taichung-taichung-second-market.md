@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-taichung-second-market
-srcHash: 'fb719ae7b0e7'
+srcHash: 'b9fe0e7282c4'
 title: 'Mercado Segundo de Taichung: Guía de viaje (4.2★)'
 description: 'El Mercado Segundo de Taichung es un mercado cubierto centenario en el Distrito Central, repleto de puestos de fideos, vendedores de albóndigas y tiendas de productos secos. 4.2★ (21.968 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Segundo de Taichung es un mercado cubierto centenario en el Distrito Central, repleto de puestos de fideos, vendedores de albóndigas y tiendas de productos secos. Abre todos los días excepto los lunes, de 7:30 a 15:30 h. Conviene ir justo a la apertura entre semana para evitar las aglomeraciones, ya que los fines de semana, de 9:00 a 15:00 h, el lugar se llena de verdad. Calcule una hora de visita, vaya con hambre y lleve algo de efectivo en billetes pequeños.

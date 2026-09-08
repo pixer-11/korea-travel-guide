@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-nobu-the-link-one-za-abeel
-srcHash: '95c31aea3a94'
+srcHash: '3268d718d48a'
 title: 'Nobu (The Link, One Za''abeel): guía de viaje de Dubái'
 description: 'Nobu (The Link, One Za''abeel) en Dubái, Emiratos Árabes Unidos: un local nuevo y muy solicitado. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Nobu en The Link, One Za'abeel, es la tercera y más reciente sede en Dubái de la célebre marca nipona-peruana, suspendida a 230 metros de altura dentro de la estructura en voladizo que, con su récord mundial, conecta las dos torres gemelas de One Za'abeel. Abrió en enero de 2026 y ya se ha convertido en una de las mesas más difíciles de conseguir en la ciudad, gracias a sus vistas de suelo a techo sobre Downtown Dubai y el DIFC. Conviene reservar con mucha antelación, vestir de manera informal-elegante o más formal, e ir al atardecer para disfrutar de la mejor luz sobre el horizonte.

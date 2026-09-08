@@ -58,15 +58,15 @@ draft: false
 ---
 ## Why go
 
-The Independence Monument isn't a museum you tour — it's a landmark you circle, photograph, and use as a compass point. Built in 1958, its lotus-bud silhouette rises 20 meters over a roundabout where Norodom and Sihanouk Boulevards cross, and it marks the moment Cambodia shook off French colonial rule.
+The Independence Monument isn't a museum you tour. It's a landmark you circle, photograph, and use as a compass point. Built in 1958, its lotus-bud silhouette rises 20 meters over a roundabout where Norodom and Sihanouk Boulevards cross, and it marks the moment Cambodia shook off French colonial rule.
 
 You don't walk inside it. What you do is approach on foot from one of the surrounding sidewalks, watch the sandstone-red tower catch the evening light, and feel the city's traffic swirl around this one still, symbolic point.
 
 ## What you actually see
 
-Up close, the monument's tiers of naga heads and lotus motifs reveal themselves — details easy to miss from a passing tuk-tuk. The design borrows heavily from Angkor-era temple carving, reinterpreted in a modern, almost sculptural form.
+Up close, the monument's tiers of naga heads and lotus motifs reveal themselves, details easy to miss from a passing tuk-tuk. The design borrows heavily from Angkor-era temple carving, reinterpreted in a modern, almost sculptural form.
 
-At night, floodlights turn the whole structure a deep orange-red, and it's genuinely one of the more photogenic sights in central Phnom Penh after dark. During the day, the effect is more architectural than dramatic — worth a quick look if you're already in the area, less so as a dedicated daytime trip.
+At night, floodlights turn the whole structure a deep orange-red, and it's genuinely one of the more photogenic sights in central Phnom Penh after dark. During the day, the effect is more architectural than dramatic, worth a quick look if you're already in the area, less so as a dedicated daytime trip.
 
 - Best angle: from the southwest corner near Wat Botum park
 - Best light: just after sunset, when floodlights kick in
@@ -76,13 +76,13 @@ At night, floodlights turn the whole structure a deep orange-red, and it's genui
 
 The monument sits on Norodom Boulevard at the roundabout junction with Sihanouk Boulevard, a few blocks south of the Royal Palace. Most visitors reach it on foot from the riverside area or by tuk-tuk, which is the easiest way to navigate Phnom Penh's traffic circles.
 
-There's no dedicated metro system in Phnom Penh, so tuk-tuks and ride-hailing apps like Grab or PassApp are the practical options. Ask your driver for "Vimean Ekareach" — the Khmer name — if "Independence Monument" doesn't register immediately.
+There's no dedicated metro system in Phnom Penh, so tuk-tuks and ride-hailing apps like Grab or PassApp are the practical options. Ask your driver for "Vimean Ekareach", the Khmer name, if "Independence Monument" doesn't register immediately.
 
 Wat Botum Park, right beside it, makes a natural combined stop, and it's a comfortable 10-15 minute walk from the riverfront promenade if you don't mind the heat.
 
 ## When to go
 
-Because it's a monument on a traffic roundabout rather than a ticketed site, there are no opening hours to work around — it's accessible around the clock. That said, daylight hours between roughly 10am and 4pm bring intense heat and heavy traffic noise, which makes lingering unpleasant.
+Because it's a monument on a traffic roundabout rather than a ticketed site, there are no opening hours to work around. It's accessible around the clock. That said, daylight hours between roughly 10am and 4pm bring intense heat and heavy traffic noise, which makes lingering unpleasant.
 
 Early morning, before the city fully wakes, or the golden hour just before and after sunset are far more comfortable. Evening is when the lighting transforms the tower and when local families start gathering in Wat Botum Park next door for exercise and street snacks.
 
@@ -92,11 +92,11 @@ Cambodians don't linger at the monument itself so much as treat it as a backdrop
 
 - Cross carefully: the roundabout has no pedestrian signals, so cross at a natural gap in traffic, moving steadily rather than stopping mid-lane
 - Combine it with Wat Botum Park next door, where locals walk, stretch, and relax in the late afternoon
-- Pay vendors in small-denomination riel or US dollars — both circulate interchangeably in Phnom Penh
+- Pay vendors in small-denomination riel or US dollars, both circulate interchangeably in Phnom Penh
 - Skip the midday visit; heat and exhaust fumes make it far less enjoyable than dawn or dusk
-- Don't expect an entrance or interior — the value here is the exterior view and the historical significance, not a ticketed attraction
+- Don't expect an entrance or interior. The value here is the exterior view and the historical significance, not a ticketed attraction
 
-Because this is one of the city's most visited landmarks, expect other visitors and plenty of passing traffic at almost any hour. The workaround isn't finding a quiet version of it — it's timing your visit for comfort and light rather than solitude, and pairing it with a stroll through the adjacent park to round out the stop.
+Because this is one of the city's most visited landmarks, expect other visitors and plenty of passing traffic at almost any hour. The workaround isn't finding a quiet version of it. It's timing your visit for comfort and light rather than solitude, and pairing it with a stroll through the adjacent park to round out the stop.
 
 ## Nearby to continue your walk
 

@@ -34,19 +34,19 @@ draft: true
 
 Jakarta's nightlife scene shifts constantly, and right now the elevator everyone's crowding into leads to the 25th floor of Multivision Tower. Vagabond arrived recently and immediately became a fixture of the conversation about where the city's after-dark crowd actually goes.
 
-What sets it apart isn't just the altitude. It's the combination of a serious drinks program with music curation that feels deliberate rather than an afterthought — the kind of place where the playlist gets discussed as much as the cocktail list.
+What sets it apart isn't just the altitude. It's the combination of a serious drinks program with music curation that feels deliberate rather than an afterthought. The kind of place where the playlist gets discussed as much as the cocktail list.
 
 ## Getting there
 
 Vagabond sits inside Multivision Tower in Kuningan, the business district that's become South Jakarta's default zone for glossy new openings. Kuningan is well served by Transjakarta busway corridors and sits a reasonable taxi or ride-hail ride from the Golden Triangle hotels (SCBD, Senopati, Rasuna Said).
 
-If you're coming from Sudirman or Thamrin, expect 15-25 minutes by car depending on traffic — which in Jakarta means you should always pad your timing. Grab or Gojek are the easiest way to arrive without worrying about parking in a busy office tower.
+If you're coming from Sudirman or Thamrin, expect 15-25 minutes by car depending on traffic, which in Jakarta means you should always pad your timing. Grab or Gojek are the easiest way to arrive without worrying about parking in a busy office tower.
 
 ## What to expect inside
 
-At 25 floors up, the draw is as much sensory as visual: glass, skyline, and a room built for the golden hour when Jakarta's haze turns the horizon amber before the city lights take over. The mixology leans creative — expect bartenders working with techniques and ingredients that go beyond a standard hotel-bar menu.
+At 25 floors up, the draw is as much sensory as visual: glass, skyline, and a room built for the golden hour when Jakarta's haze turns the horizon amber before the city lights take over. The mixology leans creative. Expect bartenders working with techniques and ingredients that go beyond a standard hotel-bar menu.
 
-Music is treated as a core part of the experience, not background noise. Sets are curated, and the energy shifts noticeably as the night goes on — quieter and more conversational early, denser and more club-like later.
+Music is treated as a core part of the experience, not background noise. Sets are curated, and the energy shifts noticeably as the night goes on, quieter and more conversational early, denser and more club-like later.
 
 Because this is a recently opened, still-trending venue, exact opening hours, reservation policies, and menu pricing are worth confirming directly before you go. Venues at this stage of hype often adjust hours or shift to reservation-only on peak nights.
 
@@ -54,19 +54,19 @@ Because this is a recently opened, still-trending venue, exact opening hours, re
 
 Vagabond fits neatly into the after-work-drinks-into-late-night arc that a lot of Kuningan's professional crowd follows. Come for sunset cocktails after a day of meetings, or arrive later for the fuller nightlife energy once the room's converted from lounge to something closer to a dance floor.
 
-It's not the spot for a quiet, private conversation on a weekend night — go earlier in the week if that's what you want. Dress the part: elevated smart-casual is the safe bet for a rooftop-tower bar drawing this crowd.
+It's not the spot for a quiet, private conversation on a weekend night. Go earlier in the week if that's what you want. Dress the part: elevated smart-casual is the safe bet for a rooftop-tower bar drawing this crowd.
 
 ## How to visit like a local
 
 Treat Vagabond the way Jakarta's regulars treat any hot new opening: book ahead rather than risk the door. Demand at buzzy new venues here consistently outpaces walk-in capacity, especially Thursday through Saturday nights.
 
-- Reserve a table in advance, especially for weekend evenings — call or check their official channels for current policy
+- Reserve a table in advance, especially for weekend evenings, call or check their official channels for current policy
 - Arrive earlier in the evening if you want the sunset views over the skyline before the crowd peaks
 - Expect card and e-wallet payment to be standard, as is typical across Jakarta's upscale bar scene
 - Tipping isn't obligatory but rounding up or leaving small change for bartenders is appreciated
-- Dress smart — glass towers with curated music policies in Kuningan tend to enforce an implicit dress code even without a strict door policy
+- Dress smart, glass towers with curated music policies in Kuningan tend to enforce an implicit dress code even without a strict door policy
 
-The single biggest mistake visitors make with a spot like this: assuming it's a quick, low-key stop. Vagabond rewards people who commit to the evening — plan for a few hours, not a quick drink between other stops.
+The single biggest mistake visitors make with a spot like this: assuming it's a quick, low-key stop. Vagabond rewards people who commit to the evening. Plan for a few hours, not a quick drink between other stops.
 
 Confirm current hours, reservation requirements, and any cover charge directly with the venue before heading over, since details at newly trending nightlife spots shift fast as demand settles in.
 

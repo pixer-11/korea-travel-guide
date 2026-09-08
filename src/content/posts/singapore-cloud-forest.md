@@ -58,11 +58,11 @@ draft: false
 
 ## Why go
 
-You step through the glass doors and the temperature drops ten degrees in seconds — the air turns damp and cool, like early morning in a highland cloud forest, which is exactly the point. Cloud Forest is the smaller of Gardens by the Bay's two conservatories, but it's the one that stops people mid-sentence. A 35-metre waterfall crashes down the centre of the dome, and mist machines pump a fine, cool fog across an artificial mountain wrapped in orchids, ferns, pitcher plants, and mosses drawn from tropical highlands between 1,000 and 3,500 metres elevation — places most visitors will never actually climb to. The roar of falling water follows you the entire way up.
+You step through the glass doors and the temperature drops ten degrees in seconds (the air turns damp and cool, like early morning in a highland cloud forest, which is exactly the point. Cloud Forest is the smaller of Gardens by the Bay's two conservatories, but it's the one that stops people mid-sentence. A 35-metre waterfall crashes down the centre of the dome, and mist machines pump a fine, cool fog across an artificial mountain wrapped in orchids, ferns, pitcher plants, and mosses drawn from tropical highlands between 1,000 and 3,500 metres elevation) places most visitors will never actually climb to. The roar of falling water follows you the entire way up.
 
 ## Getting there
 
-The dome sits at 18 Marina Gardens Dr, inside Gardens by the Bay, on reclaimed land facing Marina Bay Sands. The easiest route is Bayfront MRT station (Circle and Downtown lines), taking Exit B, which feeds directly into an underground link to the Gardens — you barely see daylight before you're at the ticketing hall. From Marina Bay Sands itself, it's a flat, shaded ten-minute walk across the bridge past the Supertree Grove.
+The dome sits at 18 Marina Gardens Dr, inside Gardens by the Bay, on reclaimed land facing Marina Bay Sands. The easiest route is Bayfront MRT station (Circle and Downtown lines), taking Exit B, which feeds directly into an underground link to the Gardens, you barely see daylight before you're at the ticketing hall. From Marina Bay Sands itself, it's a flat, shaded ten-minute walk across the bridge past the Supertree Grove.
 
 Taxis and ride-hail drop off at the Gardens by the Bay entrance closest to the conservatories, which saves you the longer walk from the Bayfront underpass if you're carrying bags or travelling with kids.
 
@@ -80,12 +80,12 @@ Rain doesn't affect anything since you're indoors, which makes Cloud Forest a ge
 
 ## Flower Dome next door
 
-Combined tickets covering both conservatories are the standard option, and it's worth doing both in one visit since they sit side by side. Flower Dome is drier, brighter, and cooler in a different way — a Mediterranean and semi-arid climate zone with rotating seasonal flower displays — so the contrast with Cloud Forest's damp, dim, jungle atmosphere is part of the experience. Doing Flower Dome first, then Cloud Forest, works well if you want the more dramatic dome saved for last.
+Combined tickets covering both conservatories are the standard option, and it's worth doing both in one visit since they sit side by side. Flower Dome is drier, brighter, and cooler in a different way, a Mediterranean and semi-arid climate zone with rotating seasonal flower displays, so the contrast with Cloud Forest's damp, dim, jungle atmosphere is part of the experience. Doing Flower Dome first, then Cloud Forest, works well if you want the more dramatic dome saved for last.
 
 ## How to visit like a local
 
-Buy tickets online in advance rather than queuing at the counter — the ticketing hall lines back up fast once tour groups arrive, and most locals book ahead through the official Gardens by the Bay site to skip straight to the entry gate. Payment inside is cashless-friendly, with card and mobile payment accepted at the on-site café and gift shop.
+Buy tickets online in advance rather than queuing at the counter, the ticketing hall lines back up fast once tour groups arrive, and most locals book ahead through the official Gardens by the Bay site to skip straight to the entry gate. Payment inside is cashless-friendly, with card and mobile payment accepted at the on-site café and gift shop.
 
-Don't make the common tourist mistake of doing Cloud Forest at midday: the crowds peak then, and the mountain's narrow walkways don't allow much overtaking, so a slow group ahead of you slows your whole loop. Wear light layers — you'll want short sleeves outside in Singapore's heat but will feel genuinely cold and damp inside the dome, especially near the upper Cloud Walk.
+Don't make the common tourist mistake of doing Cloud Forest at midday: the crowds peak then, and the mountain's narrow walkways don't allow much overtaking, so a slow group ahead of you slows your whole loop. Wear light layers. You'll want short sleeves outside in Singapore's heat but will feel genuinely cold and damp inside the dome, especially near the upper Cloud Walk.
 
 Since this is a well-visited, ticketed attraction rather than a quiet local spot, the real "local" move is simply beating the crowd curve: go early, go on a weekday, and save the Supertree Grove and Skyway for late afternoon when the outdoor light is better anyway.

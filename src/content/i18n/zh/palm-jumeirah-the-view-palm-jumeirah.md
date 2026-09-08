@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: palm-jumeirah-the-view-palm-jumeirah
-srcHash: 'c7eb0b567f05'
+srcHash: '6a708996c9e7'
 title: 'The View: 棕榈岛（Palm Jumeirah）旅行指南（4.7★）'
 description: The View at The Palm Tower 是位于52层的玻璃幕墙观景台，是唯一能让你俯瞰整个棕榈岛（Palm Jumeirah）扇叶形状的绝佳视角。4.7★（22,525条评价）——游客怎么说、开放时间和实用建议。
 quickAnswer: The View at The Palm Tower 是位于52层的玻璃幕墙观景台，是唯一能让你俯瞰整个棕榈岛（Palm Jumeirah）扇叶形状的绝佳视角。这里每天开放，时间为上午10点至晚上7点，最清静的时段是上午10点至中午12点——周末从下午2点开始会变得热闹。建议预留45到60分钟游览时间，并提前在线预订限时入场票。

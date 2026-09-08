@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: puerto-princesa-immaculate-conception-cathedral
-srcHash: 'c2515b3be5c5'
+srcHash: 'efa46af74fe6'
 title: 圣母无染原罪主教座堂：普林塞萨港旅行指南
 description: 圣母无染原罪主教座堂就坐落在普林塞萨港市中心的黎刹大道（Rizal Avenue）上，随便一场市区漫步都能顺路串进来。4.6星（1,208条评价）——看看游客怎么说，开放时间与实用贴士都在这里。
 quickAnswer: 圣母无染原罪主教座堂就坐落在普林塞萨港市中心的黎刹大道上，随便一场市区漫步都能顺路串进来。除非赶上弥撒，否则15到20分钟就能逛完，但那座刷白的双塔立面，就算只是在门前站一会儿也值得。工作日的早晨是最清静的时段，不会碰上礼拜进行中。

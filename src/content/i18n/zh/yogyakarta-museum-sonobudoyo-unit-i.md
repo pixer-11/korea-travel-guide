@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-museum-sonobudoyo-unit-i
-srcHash: 'ba49f0179aff'
+srcHash: '58ab8d7306c9'
 title: 桑诺布多约博物馆第一馆：日惹旅行指南（4.8★）
 description: 桑诺布多约博物馆第一馆（Museum Sonobudoyo Unit I）坐落在日惹北广场（Alun-Alun Utara）北侧，紧邻王宫（Kraton）建筑群，周二至周日上午8点至晚上9点开放（周一休馆）。4.8★（10,388条评价）——游客怎么说、开放时间与实用建议，一应俱全。
 quickAnswer: 桑诺布多约博物馆第一馆坐落在日惹北广场（Alun-Alun Utara）北侧，紧邻王宫（Kraton）建筑群，周二至周日上午8点至晚上9点开放（周一休馆）。参观面具、克利斯短剑（keris）和皮影木偶等藏品，预留60到90分钟即可，最好把行程安排在傍晚的哇扬皮影戏（wayang kulit）演出前后。这里是日惹评价最多的博物馆之一，开馆即到或直接冲着晚间演出去，都能帮你避开中午旅行团扎堆的高峰。

@@ -105,15 +105,15 @@ updatedDate: '2026-08-30'
 
 ## Why Cai Rang exists
 
-Cai Rang isn't a tourist stage set — it's a working wholesale market that happens to float. Farmers and traders from across the Mekong Delta have converged here for generations, swapping produce boat-to-boat before it ever reaches a land market.
+Cai Rang isn't a tourist stage set. It's a working wholesale market that happens to float. Farmers and traders from across the Mekong Delta have converged here for generations, swapping produce boat-to-boat before it ever reaches a land market.
 
-The first thing you notice, gliding in from the river mouth, is the noise: diesel engines puttering, hulls knocking together, vendors calling out prices over the water. Then you spot the "bẹo" poles — tall bamboo sticks lashed to the bow of each boat, hung with a sample of whatever's for sale. A pineapple swinging up top means pineapples below deck; a bundle of green onions means someone's selling greens.
+The first thing you notice, gliding in from the river mouth, is the noise: diesel engines puttering, hulls knocking together, vendors calling out prices over the water. Then you spot the "bẹo" poles, tall bamboo sticks lashed to the bow of each boat, hung with a sample of whatever's for sale. A pineapple swinging up top means pineapples below deck; a bundle of green onions means someone's selling greens.
 
 ## Getting there
 
 Cai Rang sits on the Can Tho River, about 6km southwest of central Can Tho city. Most visitors join a boat from Ninh Kieu Wharf, a 30–45 minute ride depending on your boat's speed and the tide.
 
-You can also drive to Cai Rang Tourist Wharf, closer to the market itself, and hire a smaller boat from there for a shorter, cheaper ride. Either way, you're on the water for the actual market — there's no dock-and-walk option here.
+You can also drive to Cai Rang Tourist Wharf, closer to the market itself, and hire a smaller boat from there for a shorter, cheaper ride. Either way, you're on the water for the actual market. There's no dock-and-walk option here.
 
 ## What you'll see and eat
 
@@ -128,21 +128,21 @@ Little canoes selling coffee and snacks thread between the bigger cargo boats, a
 
 ## When to go
 
-The market runs 24 hours, but the wholesale trading — and the visual spectacle of hundreds of boats packed together — peaks between about 5am and 8am. After that, many trading boats disperse to deliver their goods inland.
+The market runs 24 hours, but the wholesale trading, and the visual spectacle of hundreds of boats packed together, peaks between about 5am and 8am. After that, many trading boats disperse to deliver their goods inland.
 
-Weekends stay crowded from 7am to 10pm, so tour boats and photo-seekers pile in later in the day too. If you want the water calmer and quieter, aim for a weekday afternoon between 1pm and 3pm — though by then, far fewer trading boats remain, so it's a trade-off between crowds and commerce.
+Weekends stay crowded from 7am to 10pm, so tour boats and photo-seekers pile in later in the day too. If you want the water calmer and quieter, aim for a weekday afternoon between 1pm and 3pm, though by then, far fewer trading boats remain, so it's a trade-off between crowds and commerce.
 
 ## How to visit like a local
 
 Cai Rang is firmly on the tourist circuit now, not a hidden find, so the trick is timing rather than secrecy.
 
 - **Go early.** Boats leave Ninh Kieu Wharf around 5am-6am to catch the market at its most active, before the day-tripper boats arrive.
-- **Negotiate the boat price upfront**, whether through your hotel, a wharf-side booking counter, or a private boatman — rates vary by boat size and trip length, so confirm the price and duration before stepping aboard.
+- **Negotiate the boat price upfront**, whether through your hotel, a wharf-side booking counter, or a private boatman, rates vary by boat size and trip length, so confirm the price and duration before stepping aboard.
 - **Bring small Vietnamese đồng notes.** Vendors selling from boats can't easily make change for large bills, and cash is the only currency that works here.
 - **Buy something.** A bag of fruit or a bowl of noodle soup off the boats is how the market actually sustains itself, and it's the most direct way to interact with vendors.
 - **Skip the megaphone tour groups if you can.** Independent or small-group boats let you slow down, drift alongside a vendor, and actually watch a transaction happen rather than motoring past it.
 
-The most common visitor mistake is arriving too late — by 9am or 10am, especially outside weekends, much of the wholesale action has already wound down, leaving a quieter, more scattered market than the postcard version everyone expects.
+The most common visitor mistake is arriving too late, by 9am or 10am, especially outside weekends, much of the wholesale action has already wound down, leaving a quieter, more scattered market than the postcard version everyone expects.
 
 Pair the trip with a stop at a nearby fruit orchard or the smaller Phong Dien floating market, often combined into the same morning boat tour, to round out a half-day on the Mekong's waterways.
 

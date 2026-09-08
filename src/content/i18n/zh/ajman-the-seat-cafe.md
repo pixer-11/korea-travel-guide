@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ajman-the-seat-cafe
-srcHash: 'a5bb26beac65'
+srcHash: '40e9eee7b205'
 title: The Seat Cafe：阿治曼旅行指南
 description: The Seat Cafe 是阿治曼阿赫里奥（Al Heliow）地区一家低调却颇具人气的时髦咖啡馆，873条评价中获得4.7分的高分。
 quickAnswer: The Seat Cafe 是阿治曼阿赫里奥（Al Heliow）地区一家低调却颇具人气的时髦咖啡馆，873条评价中获得4.7分的高分。工作日上午或晚上8点后过来最为惬意，那时座位宽松，精品咖啡出品稳定，室内环境也很上镜。建议安排45到90分钟，现金和银行卡在阿治曼都很通用，不妨顺路去附近的阿治曼海滨长廊（Ajman Corniche）散散步。

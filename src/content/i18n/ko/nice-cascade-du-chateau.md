@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: nice-cascade-du-chateau
-srcHash: '435d31e70b49'
+srcHash: 'b775a1d3a946'
 title: '카스카드 뒤 샤토(Cascade du Château): 니스 여행 가이드'
 description: 카스카드 뒤 샤토(Cascade du Château)는 프롬나드 데 장글레(Promenade des Anglais)에서도 보이는 폭포로, 니스의 옛 성터 언덕 공원인 콜린 뒤 샤토(Colline du Château)의 절벽면을 타고 흘러내립니다.
 quickAnswer: 카스카드 뒤 샤토(Cascade du Château)는 프롬나드 데 장글레(Promenade des Anglais)에서도 보이는 폭포로, 니스의 옛 성터 언덕 공원인 콜린 뒤 샤토(Colline du Château)의 절벽면을 타고 흘러내립니다. 매일 오전 8시 30분부터 오후 8시까지 개방되며 무료입장이니, 오전 이른 시간이나 오후 5시 이후를 노려보세요. 정오부터 오후 5시 사이, 특히 주말에는 방문객이 가장 몰립니다. 폭포 자체를 둘러보는 데는 20~30분 정도면 충분하지만, 공원 안쪽으로 더 올라가 바이 데 장주(Baie des Anges)가 내려다보이는 전망 포인트까지 둘러본다면 1~2시간 정도 여유를 두는 것이 좋습니다.

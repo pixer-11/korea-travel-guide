@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-vieux-lyon
-srcHash: '1abf4180a805'
+srcHash: 'aaa4c02aeb0e'
 title: 里昂旧城(Vieux Lyon)旅行指南
 description: 里昂旧城(Vieux Lyon)是索恩河(Saône)西岸的文艺复兴街区，最适合花半天时间步行游览:穿梭于特拉布传道(traboules,隐秘通道)之间，乘缆车登上富维耶山(Fourvière),最后以一顿布雄(bouchon)晚餐收尾。
 quickAnswer: 里昂旧城(Vieux Lyon)是索恩河(Saône)西岸的文艺复兴街区，最适合花半天时间步行游览:穿梭于特拉布传道(traboules,隐秘通道)之间，乘缆车登上富维耶大教堂(Fourvière basilica),最后以一顿布雄(bouchon)晚餐收尾。建议工作日上午前往以避开人潮，并穿平底鞋——这里的鹅卵石路和台阶会让人吃不消。

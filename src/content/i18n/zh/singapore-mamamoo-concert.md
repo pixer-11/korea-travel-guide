@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-mamamoo-concert
-srcHash: '3fb23ab955d7'
+srcHash: '67cfa74f27fc'
 title: MAMAMOO演唱会须知（新加坡）
 description: MAMAMOO原定于2026年7月31日在新加坡室内体育馆（Singapore Indoor Stadium）演出，场馆位于加冷体育中心（Kallang Sports Hub）园区内。
 quickAnswer: MAMAMOO的新加坡场演出原定于2026年7月31日在新加坡室内体育馆举行。该场馆位于加冷（Kallang），乘坐地铁在体育场站（Stadium）或加冷站（Kallang）下车即可到达，是一个经常吸引东南亚各地K-pop观众前来的场馆。

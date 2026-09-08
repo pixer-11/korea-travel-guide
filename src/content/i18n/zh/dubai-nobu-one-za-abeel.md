@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-nobu-one-za-abeel
-srcHash: 'e9d9b2681078'
+srcHash: '004355c3bbfe'
 title: 迪拜诺布餐厅(One Za'abeel店)
 description: 诺布(Nobu)在迪拜的最新分店坐落于The Link之内——这座连接One Za'abeel双塔的空中连廊距地面约230米高，堪称全球海拔最高的诺布餐厅。
 quickAnswer: 诺布在迪拜的最新分店坐落于The Link之内，这座空中连廊连接着One Za'abeel的两座塔楼，距地面约230米，堪称全球海拔最高的诺布餐厅。餐厅于2026年1月17日开业，供应品牌一贯的日秘风味菜品（黑鳕鱼配味噌、青甘鱼配墨西哥辣椒），落地窗外便是迪拜天际线全景。目前一位难求，务必提前预订——这里不接受临时到店。

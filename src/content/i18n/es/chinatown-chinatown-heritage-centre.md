@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chinatown-chinatown-heritage-centre
-srcHash: '723632d45cea'
+srcHash: 'd3271c34328a'
 title: 'Chinatown Heritage Centre: Guía de viaje'
 description: El Chinatown Heritage Centre, en 48 Pagoda Street, ocupa tres shophouses restauradas de la década de 1900 y recrea las viviendas hacinadas de los primeros migrantes chinos, incluida una habitación-cubículo reconstruida y una fumadería de opio.
 quickAnswer: El Chinatown Heritage Centre, en 48 Pagoda Street, ocupa tres shophouses restauradas de la década de 1900 y recrea las viviendas hacinadas de los primeros migrantes chinos, incluida una habitación-cubículo reconstruida y una fumadería de opio. Reserva entre 60 y 90 minutos, visítalo un día laborable por la mañana para evitar los grupos turísticos, y combínalo con un paseo por los puestos del mercado de Pagoda Street y el cercano Templo Sri Mariamman. La estación de MRT más cercana es Chinatown Station (salidas A o E), a unos 3–5 minutos a pie.

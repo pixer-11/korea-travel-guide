@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: chengdu-gudashengci-temple
-srcHash: '8cc05ed3049c'
+srcHash: 'bec11afb1e02'
 title: 大慈寺:成都旅行ガイド
 description: 大慈寺(だいじじ、Gudashengci Temple)は錦江区の中心部、大慈寺路(Dacisi Road)沿いにあり、太古里(Taikoo Li)ショッピングエリアからも歩いてすぐの場所にあります。
 quickAnswer: 大慈寺(だいじじ)は錦江区の中心部、大慈寺路沿いに位置し、太古里ショッピングエリアから歩いてすぐの距離にあります。千年以上の歴史を持つ現役の仏教寺院でありながら、境内は落ち着いていて、混雑を気にせず回廊を歩くことができます。見学には45分から1時間ほど見ておくとよく、周辺の路地が賑わい始める前の午前中に訪れるのが理想的です。

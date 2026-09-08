@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-rai-rong-suea-ten-temple
-srcHash: '75b33ced2e3d'
+srcHash: 'e216da3e0c28'
 title: 'Templo Rong Suea Ten: Guía de viaje de Chiang Rai'
 description: Rong Suea Ten (el "Templo Azul") es un impactante templo budista en tonos cobalto y dorado, situado en el extremo norte de la ciudad de Chiang Rai, ideal para visitar temprano por la mañana o al final de la tarde para evitar las multitudes y la luz intensa.
 quickAnswer: Rong Suea Ten (el "Templo Azul") es un impactante templo budista en tonos cobalto y dorado, situado en el extremo norte de la ciudad de Chiang Rai, ideal para visitar temprano por la mañana o al final de la tarde para evitar las multitudes y la luz intensa. La entrada es gratuita, la visita dura entre 30 y 45 minutos, y combina muy bien con el Templo Blanco (Wat Rong Khun) y la Casa Negra (Baan Dam) en un recorrido de medio día por los templos. Viste de forma modesta (hombros y rodillas cubiertos), ya que sigue siendo un lugar de culto activo.

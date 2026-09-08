@@ -118,7 +118,7 @@ Many travelers combine the ride with a stop at the Chiang Rai Clock Tower or Nig
 
 ## What to see
 
-Budget 30–45 minutes for a full walk-through. The exterior alone — soaring blue spires, dragon-like naga staircases, and gilded finials — merits a full circuit of the building before heading inside. Once inside, look up: the ceiling and interior walls are painted with cosmic, almost psychedelic patterns in blue, gold, and white that frame the central Buddha statue. Photographers favor the reflecting pool and the ornate entrance gate, especially in the hour after opening when the crowds are thinner and the light is softer.
+Budget 30–45 minutes for a full walk-through. The exterior alone (soaring blue spires, dragon-like naga staircases, and gilded finials) merits a full circuit of the building before heading inside. Once inside, look up: the ceiling and interior walls are painted with cosmic, almost psychedelic patterns in blue, gold, and white that frame the central Buddha statue. Photographers favor the reflecting pool and the ornate entrance gate, especially in the hour after opening when the crowds are thinner and the light is softer.
 
 Just outside the main hall, smaller shrines and a large white elephant statue are worth a look, and there's usually space to sit quietly and observe rather than just snap photos.
 
@@ -128,6 +128,6 @@ Early morning (soon after opening, generally around 6:30–7am) or late afternoo
 
 ## Nearby & tips
 
-Rong Suea Ten is the third point in Chiang Rai's informal "temple trilogy," alongside Wat Rong Khun (White Temple), about 20–25 minutes south, and Baan Dam Museum (Black House), roughly 15 minutes away — many visitors do all three in a single half-day loop by car or scooter. Entry to the Blue Temple has generally been free (confirm locally in case that changes), though donation boxes are placed throughout for upkeep.
+Rong Suea Ten is the third point in Chiang Rai's informal "temple trilogy," alongside Wat Rong Khun (White Temple), about 20–25 minutes south, and Baan Dam Museum (Black House), roughly 15 minutes away. Many visitors do all three in a single half-day loop by car or scooter. Entry to the Blue Temple has generally been free (confirm locally in case that changes), though donation boxes are placed throughout for upkeep.
 
 As with any active temple, modest dress is expected: cover shoulders and knees, and remove shoes before stepping onto any raised platform or into the main hall. There's limited shade around the grounds, so bring water and sun protection, and keep voices low near worshippers. Public restrooms and a small parking area are available on-site, but food options are minimal, so plan to eat before or after at one of the local noodle or khao soi shops back toward the city center.

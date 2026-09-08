@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-eurwangni-beach
-srcHash: '7d26e344c405'
+srcHash: '018a4187dd03'
 title: 'Playa Eurwangni: Guía de viaje de Incheon (4,4★)'
 description: 'Cerca del Aeropuerto Internacional de Incheon se extiende una amplia franja de arena clara y suavemente curvada: la playa de Eurwangni, lo bastante cercana para una escapada de medio día durante una escala, y lo bastante tranquila como para sentirse un pueblo costero antes que una playa urbana. 4,4★ (123 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Cerca del Aeropuerto Internacional de Incheon se extiende una amplia franja de arena clara y suavemente curvada: la playa de Eurwangni, lo bastante cercana para una escapada de medio día durante una escala, y lo bastante tranquila como para sentirse un pueblo costero antes que una playa urbana. Conviene ir en la mañana de un día laborable o bastante antes de la puesta de sol, que es cuando hay menos gente, y llevar efectivo para los puestos de mariscos junto a la orilla. Se llega fácilmente en taxi o autobús desde el aeropuerto en 20-30 minutos, lo que la convierte en una de las playas más convenientes de Corea para un "recién aterrizado, ¿por qué no?".'

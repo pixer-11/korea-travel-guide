@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiping-bukit-larut
-srcHash: '2c33fb5e9ca1'
+srcHash: '3b455de657fd'
 title: 'Bukit Larut: Guía de viaje de Taiping (4.3★)'
 description: 'Bukit Larut (antes Maxwell Hill) es la estación de montaña más antigua de Malasia, a la que solo se llega en un taxi Land Rover gubernamental que sube por una carretera estrecha desde la ciudad de Taiping. 4.3★ (615 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bukit Larut (antes Maxwell Hill) es la estación de montaña más antigua de Malasia, a la que solo se llega en un taxi Land Rover gubernamental que sube serpenteando por una carretera estrecha desde la ciudad de Taiping. Ve temprano en un día de semana para disfrutar de la niebla fresca y los miradores vacíos, y reserva medio día para la subida, un paseo por los claros del jardín de té y el regreso. Las puertas abren a las 4am los fines de semana y a las 5am los días de semana, y cierran a las 5pm.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: phuket-hug-street-food-kata-phuket
-srcHash: 'eb5207736b5b'
+srcHash: '2d32789f3d1f'
 title: 卡塔的抱抱街头小吃（Hug Street Food）：普吉岛美食指南
 description: 抱抱街头小吃是一家坐落在卡塔（karon分区）的街头小吃摊/大排档，口碑颇高，就在卡塔海滩主街旁的Kake Kwan路上。
 quickAnswer: 抱抱街头小吃是一家坐落在卡塔（Karon分区）的街头小吃摊/大排档，口碑颇高，就在卡塔海滩主街旁的Thanon Kake Kwan路上。这里主打泰式经典小吃——泰式炒河粉、青木瓜沙拉、烤肉串、各式咖喱——现做现卖，价格实惠，最适合赶在日落人潮涌向海滩路之前，早早来吃一顿晚饭。这里评分高达4.8分（421+条评价），更适合当作快速填饱肚子的一站，而不是悠闲坐下大吃一顿的地方，所以最好饿着肚子来，并做好拼桌或站着吃的心理准备。

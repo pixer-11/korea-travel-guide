@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lantau-island-silvermine-bay-beach
-srcHash: 'b0e5a2f43ae6'
+srcHash: '6374528d5f5b'
 title: 'Silvermine Bay Beach: guía de viaje de la isla de Lantau (4.1★)'
 description: 'Silvermine Bay Beach (Mui Wo) es una playa de arena tranquila en la isla de Lantau, a la que se llega fácilmente en ferry desde Central, en Hong Kong. Es ideal para pasar medio día nadando, paseando por el malecón y comiendo después en el pueblo de Mui Wo. 4.1★ (1,677 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Silvermine Bay Beach (Mui Wo) es una playa de arena tranquila en la isla de Lantau, a la que se llega fácilmente en ferry desde Central, en Hong Kong. Es ideal para pasar medio día nadando, paseando por el malecón y comiendo después en el pueblo de Mui Wo. Conviene ir un día entre semana, entre las 7 y las 8 de la mañana, cuando la arena está más tranquila; los fines de semana se mantiene concurrida desde la 1pm hasta las 11pm.

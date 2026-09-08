@@ -1,5 +1,5 @@
 ---
-srcHash: 'e1fbb4ee5cbf'
+srcHash: '6d199e5f4e19'
 lang: ko
 slug: labuan-bajo-mimamori-cafe-labuan-bajo
 title: 'MIMAMORI CAFE(미마모리 카페): 라부안 바조 여행 가이드'

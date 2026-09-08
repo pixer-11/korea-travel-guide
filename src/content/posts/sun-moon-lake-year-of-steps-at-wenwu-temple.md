@@ -90,7 +90,7 @@ The temple honors Confucius and Guan Gong, the god of war and loyalty, housed in
 
 The temple sits on Zhongzheng Road above Shuishe Village, an easy stop on the lake's shuttle bus loop or a short pedal on the round-the-lake bike path. Most visitors arrive by boat to the nearby pier, then walk or catch a local bus up the hill.
 
-The main approach is the "Nine-in-One" staircase — locally described as a year's worth of steps, over 300 of them, split into groups symbolizing the months. You climb in stages, with gates and terraces breaking up the ascent.
+The main approach is the "Nine-in-One" staircase, locally described as a year's worth of steps, over 300 of them, split into groups symbolizing the months. You climb in stages, with gates and terraces breaking up the ascent.
 
 Each terrace gives you a reason to stop that isn't just catching your breath. Turn around at any landing and the lake opens up below, ringed by green hills and, on clear days, the distant peaks beyond Yuchi Township.
 
@@ -98,7 +98,7 @@ Each terrace gives you a reason to stop that isn't just catching your breath. Tu
 
 At the base, two stone lions guard the entrance gate, worn smooth where visitors touch them for luck. Incense smoke drifts across the lower courtyard, curling up past red lanterns strung between the eaves.
 
-Inside the halls, dim light filters through carved wooden screens onto altars crowded with offerings — fruit, flowers, the occasional folded paper note. The ceiling beams are painted in fading blues and golds, a century of humidity softening the colors.
+Inside the halls, dim light filters through carved wooden screens onto altars crowded with offerings, fruit, flowers, the occasional folded paper note. The ceiling beams are painted in fading blues and golds, a century of humidity softening the colors.
 
 Don't rush past the side terraces:
 
@@ -111,19 +111,19 @@ Most people spend 45 minutes to an hour here, longer if you stop at every landin
 
 ## When to go
 
-The temple never closes — it's open 24 hours, every day. That said, "open" and "quiet" are different things here.
+The temple never closes. It's open 24 hours, every day. That said, "open" and "quiet" are different things here.
 
 Weekday mornings and evenings, roughly 7am to 11pm, are the calmest stretch, with room to actually stand still on the upper terraces. Weekends are a different story: expect steady crowds from 9am until 6pm as tour buses and day-trippers cycle through.
 
-If you're staying nearby, a weekend evening after 8pm is your quiet window — the lanterns are lit, the tour groups have gone, and the steps are yours. Sunset and just after dark, when the halls glow against the darkening lake, is genuinely the best light of the day here.
+If you're staying nearby, a weekend evening after 8pm is your quiet window. The lanterns are lit, the tour groups have gone, and the steps are yours. Sunset and just after dark, when the halls glow against the darkening lake, is genuinely the best light of the day here.
 
 ## How to visit like a local
 
-Wear shoes you can climb steps in — sandals get slippery on worn stone, especially near the incense burners where ash and water pool. Bring a small bill or coins if you want to light incense; donation boxes are self-service and cash-only.
+Wear shoes you can climb steps in, sandals get slippery on worn stone, especially near the incense burners where ash and water pool. Bring a small bill or coins if you want to light incense; donation boxes are self-service and cash-only.
 
-There's no ticket booth and no entry fee, so there's nothing to book ahead. The "queue," if there is one, is really just foot traffic bottlenecking at photo spots on the lower terraces — sidestep it by heading straight up and shooting on the way down instead.
+There's no ticket booth and no entry fee, so there's nothing to book ahead. The "queue," if there is one, is really just foot traffic bottlenecking at photo spots on the lower terraces, sidestep it by heading straight up and shooting on the way down instead.
 
 The mistake most visitors make is treating this as a five-minute photo stop from the boat pier. Give it the full climb. The upper courtyard, where most tour groups don't bother going, is where the temple actually feels monumental rather than crowded.
 
-If you're cycling the lake loop, lock your bike at the base rather than trying to walk it up — the staircase isn't built for wheels. And keep voices low near the altars; this is an active place of worship, not just a viewpoint.
+If you're cycling the lake loop, lock your bike at the base rather than trying to walk it up, the staircase isn't built for wheels. And keep voices low near the altars; this is an active place of worship, not just a viewpoint.
 

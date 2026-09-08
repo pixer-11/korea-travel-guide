@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: siem-reap-angkor-wat
-srcHash: '252bc58374a0'
+srcHash: '1e1cab16416e'
 title: 'Angkor Wat: Guía de viaje de Siem Reap (4,8★)'
 description: 'Angkor Wat se disfruta mejor madrugando: conviene llegar antes del amanecer (las puertas abren a las 5:00) para evitar tanto el calor como las multitudes de autobuses turísticos, y reservar al menos medio día para recorrer el complejo. 4,8★ (43.544 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Angkor Wat se disfruta mejor madrugando: conviene llegar antes del amanecer (las puertas abren a las 5:00) para evitar tanto el calor como las multitudes de autobuses turísticos, y reservar al menos medio día para recorrer el complejo. El pase de un día solo cubre Angkor Wat y algunos templos cercanos, por lo que la mayoría de los visitantes opta por el pase de tres días para conocer también Bayon y Ta Prohm. Se trata del sitio más visitado de Camboya, así que conviene organizar la visita en función de las multitudes en lugar de esperar encontrar soledad.'

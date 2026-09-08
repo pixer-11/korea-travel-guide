@@ -92,7 +92,7 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-You step through a plain wooden gate off the main park path, and the traffic noise from Ohori Park's outer loop just falls away. Inside, gravel paths curve around a series of ponds, clipped pines lean at practiced angles, and a stone lantern marks the turn toward the teahouse. It's a pocket garden, only about 1.2 acres, but it's laid out so you can't see the whole thing at once — every bend hides the next view.
+You step through a plain wooden gate off the main park path, and the traffic noise from Ohori Park's outer loop just falls away. Inside, gravel paths curve around a series of ponds, clipped pines lean at practiced angles, and a stone lantern marks the turn toward the teahouse. It's a pocket garden, only about 1.2 acres, but it's laid out so you can't see the whole thing at once, every bend hides the next view.
 
 ## Why this garden, and why now
 
@@ -128,10 +128,10 @@ Arrive right at 9am opening, or come after 5pm in the warmer months when there's
 
 Treat this as a slow, contemplative stop, not a sight to tick off in five minutes. Locals and regular visitors linger at the teahouse rather than rushing the loop.
 
-Pay for entry and any teahouse order in cash or with an IC card like Suica or Nishitetsu's nimoca — small garden venues like this don't always take foreign credit cards. There's no need to book ahead; entry is walk-up.
+Pay for entry and any teahouse order in cash or with an IC card like Suica or Nishitetsu's nimoca, small garden venues like this don't always take foreign credit cards. There's no need to book ahead; entry is walk-up.
 
-Take your shoes off if the teahouse floor requires it, and keep voices low near the pond — this is a garden built for quiet, not a photo backdrop to shout across. The etiquette mistake most visitors make is treating it like the main park outside: running, cycling, or picnicking isn't the vibe here.
+Take your shoes off if the teahouse floor requires it, and keep voices low near the pond. This is a garden built for quiet, not a photo backdrop to shout across. The etiquette mistake most visitors make is treating it like the main park outside: running, cycling, or picnicking isn't the vibe here.
 
-It's well-known enough to draw a steady stream of visitors, but it's not overwhelmed the way some Kyoto gardens are. Come outside the weekend midday peak and you'll often have entire stretches of path to yourself. Combine it with a walk around the main Ohori Park lake before or after — locals use that loop for jogging and sunset walks, and it makes the contrast with the walled garden feel sharper.
+It's well-known enough to draw a steady stream of visitors, but it's not overwhelmed the way some Kyoto gardens are. Come outside the weekend midday peak and you'll often have entire stretches of path to yourself. Combine it with a walk around the main Ohori Park lake before or after, locals use that loop for jogging and sunset walks, and it makes the contrast with the walled garden feel sharper.
 
 Bring a little extra time to just sit. The teahouse seating facing the pond is the best few minutes of the whole visit, and it's easy to rush past it if you're moving on to the castle ruins or museum next door.

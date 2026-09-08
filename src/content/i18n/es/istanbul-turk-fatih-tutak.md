@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-turk-fatih-tutak
-srcHash: 'a67cda2fe009'
+srcHash: 'b40932588ecf'
 title: TURK Fatih Tutak en Estambul
 description: 'TURK Fatih Tutak, en Estambul (Turquía), es uno de los restaurantes del momento: qué es, dónde está y cómo reservar una mesa.'
 quickAnswer: TURK Fatih Tutak es el restaurante de menú degustación del chef Fatih Tutak en Estambul, centrado en una interpretación moderna y muy documentada de los ingredientes y técnicas de Anatolia. Figura en la selección de la Guía Michelin Turquía 2026 y cuenta además con una Estrella Verde por su compromiso con la sostenibilidad, lo que lo convierte hoy en una de las mesas más comentadas de la ciudad. Por eso conviene reservar con bastante antelación y confirmar directamente con el restaurante los horarios y la política de reservas antes de ir.

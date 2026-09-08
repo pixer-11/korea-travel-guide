@@ -38,30 +38,30 @@ It's the sort of place that ends up on well-traveled visitors' "favorite thing I
 
 ## Getting there
 
-City Cup sits inside SSP Tower 2 in Khlong Toei, one of Bangkok's dense mixed commercial districts a short ride from the Sukhumvit corridor. Khlong Toei is served by the MRT Blue Line — Khlong Toei station is the obvious landmark to navigate from, with the tower a taxi or short walk beyond it depending on exactly where SSP Tower 2 sits relative to the exits.
+City Cup sits inside SSP Tower 2 in Khlong Toei, one of Bangkok's dense mixed commercial districts a short ride from the Sukhumvit corridor. Khlong Toei is served by the MRT Blue Line, Khlong Toei station is the obvious landmark to navigate from, with the tower a taxi or short walk beyond it depending on exactly where SSP Tower 2 sits relative to the exits.
 
-Because this is an office building rather than a retail high street, there's no glowing sign visible from the sidewalk; your best bet is to plug the tower's address into a ride-hailing app or taxi and let the driver take you straight to the entrance, then ask building security or check the lobby directory for the floor. Confirm the tower name carefully — Bangkok has more than one "SSP" building, and you don't want to end up in the wrong lobby.
+Because this is an office building rather than a retail high street, there's no glowing sign visible from the sidewalk; your best bet is to plug the tower's address into a ride-hailing app or taxi and let the driver take you straight to the entrance, then ask building security or check the lobby directory for the floor. Confirm the tower name carefully, Bangkok has more than one "SSP" building, and you don't want to end up in the wrong lobby.
 
 ## What makes the view worth it
 
-The whole draw here is elevation without spectacle-seeking crowds. From the 11th floor you get an unobstructed slice of the Khlong Toei and greater Sukhumvit skyline — a jumble of low-rise shophouses, elevated expressway ribbons, and glass towers catching the light, with the kind of layered depth you only get from a mid-rise vantage point rather than a 60th-floor observation deck.
+The whole draw here is elevation without spectacle-seeking crowds. From the 11th floor you get an unobstructed slice of the Khlong Toei and greater Sukhumvit skyline, a jumble of low-rise shophouses, elevated expressway ribbons, and glass towers catching the light, with the kind of layered depth you only get from a mid-rise vantage point rather than a 60th-floor observation deck.
 
-It's not styled as an "Instagram rooftop" with neon signage and photo props; it reads more like someone's favorite floor of an office building that happens to have glass walls and good coffee. That plainness is part of the charm — you're seeing Bangkok's density at eye level with the mid-rise skyline, not looking down from so high that the city turns abstract.
+It's not styled as an "Instagram rooftop" with neon signage and photo props; it reads more like someone's favorite floor of an office building that happens to have glass walls and good coffee. That plainness is part of the charm. You're seeing Bangkok's density at eye level with the mid-rise skyline, not looking down from so high that the city turns abstract.
 
 ## When to go
 
 Without published hours to rely on, plan around light rather than a clock. Office-tower cafés like this typically keep daytime and early-evening hours tied to the building's own operating schedule, so late-night visits are unlikely to work. Aim to arrive with an hour or so of daylight left, so you can watch the transition from flat afternoon light to the softer gold of early evening and then the city grid switching its lights on.
 
-Because the space is compact and tucked into a working building rather than a tourist zone, it won't have the churn of a major rooftop bar — but that also means capacity is limited, so treat any stated hours or seating as tight rather than generous.
+Because the space is compact and tucked into a working building rather than a tourist zone, it won't have the churn of a major rooftop bar, but that also means capacity is limited, so treat any stated hours or seating as tight rather than generous.
 
 ## How to visit like a local
 
-Call ahead or check current listings before you go — as a lesser-known spot inside a private office tower, City Cup's hours and access can shift, and there's no guarantee of walk-in seating if the building restricts elevator access after certain times. Dress like you're visiting an office, not a beach bar; building security in Bangkok commercial towers can be particular about visitors who look like they wandered in off a night out.
+Call ahead or check current listings before you go, as a lesser-known spot inside a private office tower, City Cup's hours and access can shift, and there's no guarantee of walk-in seating if the building restricts elevator access after certain times. Dress like you're visiting an office, not a beach bar; building security in Bangkok commercial towers can be particular about visitors who look like they wandered in off a night out.
 
-Bring your phone with the address saved in Thai script if possible — taxi and ride-hail drivers navigate faster from a written address than an English building name. Since this isn't a scene built for crowds, keep your voice down and your phone photography quick and considerate — you're sharing the floor with people who actually work in the building.
+Bring your phone with the address saved in Thai script if possible (taxi and ride-hail drivers navigate faster from a written address than an English building name. Since this isn't a scene built for crowds, keep your voice down and your phone photography quick and considerate) you're sharing the floor with people who actually work in the building.
 
 And don't expect a full food menu or elaborate cocktail list; go for the coffee and the view, not a night-long sit-down.
 
 ## Getting the most from your visit
 
-Pair the trip with a walk through Khlong Toei itself beforehand — the neighborhood's market and street-level texture make a strong contrast to the calm, elevated stillness of the café upstairs. Give yourself 30–45 minutes at City Cup; it's a viewpoint and a coffee stop, not a destination for an entire afternoon. If the tower's lobby staff seem unsure why you're there, simply say you're heading up to the café — they'll likely have fielded the question before.
+Pair the trip with a walk through Khlong Toei itself beforehand (the neighborhood's market and street-level texture make a strong contrast to the calm, elevated stillness of the café upstairs. Give yourself 30–45 minutes at City Cup; it's a viewpoint and a coffee stop, not a destination for an entire afternoon. If the tower's lobby staff seem unsure why you're there, simply say you're heading up to the café) they'll likely have fielded the question before.

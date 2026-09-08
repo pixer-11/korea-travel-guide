@@ -47,11 +47,11 @@ aiGenerated: true
 draft: false
 ---
 
-You spot it before you even reach street level — a bronze man and woman, arms raised, frozen mid-wave above a ring of spraying fountains. This is the Selamat Datang Monument, and it sits in the middle of Bundaran HI, the roundabout that has anchored Jakarta's skyline since the early 1960s.
+You spot it before you even reach street level, a bronze man and woman, arms raised, frozen mid-wave above a ring of spraying fountains. This is the Selamat Datang Monument, and it sits in the middle of Bundaran HI, the roundabout that has anchored Jakarta's skyline since the early 1960s.
 
 ## Why it matters
 
-Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The two 5-meter bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol — the roundabout around it, Bundaran HI, has become shorthand for the city itself.
+Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The two 5-meter bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself.
 
 ## Getting there
 
@@ -59,13 +59,13 @@ The monument sits at Jl. Kebon Melati 1 No. 5 in Menteng, Central Jakarta, right
 
 - **MRT**: Bundaran HI Station (the northern terminus of Jakarta's MRT line) puts you steps from the roundabout.
 - **TransJakarta**: Bundaran HI Bus Shelter serves several corridors and connects directly to the pedestrian bridge overlooking the fountain.
-- **Taxi/ride-hail**: Gojek or Grab drivers know it as "Bundaran HI" — traffic here can be dense, especially on weekday evenings.
+- **Taxi/ride-hail**: Gojek or Grab drivers know it as "Bundaran HI", traffic here can be dense, especially on weekday evenings.
 
-There's no gate, ticket booth or fixed viewing platform — you take it in from the surrounding pavements, the pedestrian bridge, or the plaza in front of the Grand Indonesia mall.
+There's no gate, ticket booth or fixed viewing platform, you take it in from the surrounding pavements, the pedestrian bridge, or the plaza in front of the Grand Indonesia mall.
 
 ## What you'll actually see
 
-Up close, the scale surprises people — the figures loom higher than expected, and the fountain jets shift the light around them as the sun drops. Traffic streams past on all sides, motorbikes weaving in loose formation, so this isn't a quiet contemplative stop.
+Up close, the scale surprises people, the figures loom higher than expected, and the fountain jets shift the light around them as the sun drops. Traffic streams past on all sides, motorbikes weaving in loose formation, so this isn't a quiet contemplative stop.
 
 It's a photo-and-move-on landmark, best appreciated for a few minutes rather than a lingering visit. Weekend mornings bring a different rhythm entirely: Jalan Thamrin closes to cars for Jakarta's Car Free Day, and the roundabout fills with joggers, cyclists and street vendors instead.
 
@@ -73,7 +73,7 @@ Nearby, Grand Indonesia and Plaza Indonesia malls offer air-conditioned breaks, 
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot — golden light on the bronze figures, then the fountain and monument lights kick in as dusk settles. Midday sun is harsh and the surrounding pavements offer little shade.
+Late afternoon into early evening is the sweet spot, golden light on the bronze figures, then the fountain and monument lights kick in as dusk settles. Midday sun is harsh and the surrounding pavements offer little shade.
 
 If you're in town on a Sunday, get there before 9am for Car Free Day, when the road itself becomes the attraction and the monument becomes the backdrop for thousands of Jakartans out walking, cycling and eating street food along Thamrin.
 
@@ -82,11 +82,11 @@ If you're in town on a Sunday, get there before 9am for Car Free Day, when the r
 This is one of Jakarta's most-visited landmarks, so treat it as a quick, high-traffic stop rather than a destination to linger at.
 
 - **Best viewpoint**: the elevated pedestrian bridge near Bundaran HI MRT station gives an unobstructed, elevated view without dodging traffic.
-- **Payment**: there's nothing to buy at the monument itself — save cash or your e-wallet (GoPay, OVO) for street vendors nearby.
+- **Payment**: there's nothing to buy at the monument itself, save cash or your e-wallet (GoPay, OVO) for street vendors nearby.
 - **Avoid**: weekday rush hour (roughly 7-9am and 5-7pm), when the roundabout is loudest and most congested with traffic.
-- **Mistake tourists make**: trying to walk right up to the statue. It sits inside a live fountain surrounded by moving traffic — view it from the pavement or bridge instead.
-- **Etiquette**: this is a functioning traffic roundabout and civic space, not a fenced monument park — stay on marked pedestrian areas and crossings.
+- **Mistake tourists make**: trying to walk right up to the statue. It sits inside a live fountain surrounded by moving traffic, view it from the pavement or bridge instead.
+- **Etiquette**: this is a functioning traffic roundabout and civic space, not a fenced monument park, stay on marked pedestrian areas and crossings.
 
 Combine it with a short walk down Jalan Thamrin toward Grand Indonesia or Plaza Indonesia, both a couple of minutes on foot, for shopping, food and elevated views back over the fountain. Ten to fifteen minutes is enough time to properly see the monument itself; most visitors fold it into a longer walk along Thamrin rather than making it the whole trip.
 
-If you want the postcard shot without hordes of other visitors in frame, early morning on a weekday — before the roundabout fills up but after the sun's risen — tends to be calmest.
+If you want the postcard shot without hordes of other visitors in frame, early morning on a weekday, before the roundabout fills up but after the sun's risen, tends to be calmest.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-formula-1-spanish-grand-prix-madring
-srcHash: '5bb07110b25d'
+srcHash: '7edfda29d397'
 title: 'Gran Premio de España de Fórmula 1 (MADRING): lo que hay que saber (Madrid)'
 description: Gran Premio de España de Fórmula 1 (MADRING) en Madrid, España — 11-13 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu viaje.
 quickAnswer: El Gran Premio de España de Fórmula 1 vuelve a Madrid del 11 al 13 de septiembre de 2026, con carrera en el flamante circuito MADRING, un trazado híbrido de calle y circuito permanente construido en torno al recinto ferial de IFEMA Madrid, en el extremo noreste de la ciudad. Es la primera carrera de F1 en Madrid en 45 años, y el Gran Premio del domingo 13 de septiembre se disputa como ronda 16 de la temporada. Reserva cuanto antes alojamiento bien comunicado por Metro cerca de Feria de Madrid o Campo de las Naciones, y confirma el horario definitivo y las categorías de entradas en las webs oficiales de F1 y MADRING antes de decidirte.

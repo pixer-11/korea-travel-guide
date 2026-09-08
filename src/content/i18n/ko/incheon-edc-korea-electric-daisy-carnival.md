@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: incheon-edc-korea-electric-daisy-carnival
-srcHash: 'dd0c2688766c'
+srcHash: 'f5a26073fd1f'
 title: 'EDC 코리아(일렉트릭 데이지 카니발): 날짜, 티켓, 개최지(인천) 안내'
 description: 2026년 10월 3일부터 4일까지 대한민국 인천에서 열리는 EDC 코리아(일렉트릭 데이지 카니발). 행사 개요와 일시, 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: EDC 코리아가 2026년 10월 3일부터 4일까지 인천 인스파이어 엔터테인먼트 리조트(INSPIRE Entertainment Resort)에서 다시 열리며, 티에스토(Tiësto), DJ 스네이크(DJ Snake), 피셔(FISHER), 알록(Alok)이 헤드라이너로 나서고 일루미넨트(ILLENIUM)와 다빈(Dabin)의 백투백 세트도 예정되어 있습니다. 티켓은 공식 판매가 시작되면 반드시 EDC 코리아 또는 인섬니악(Insomniac) 공식 채널을 통해서만 구매하시고, 리조트에서 차로 몇 분 거리에 있는 인천국제공항을 기준으로 이동 계획을 세우시기 바랍니다. 정확한 세트 시간, 게이트 운영 시간, 최종 라인업은 행사일이 가까워지면 공식 사이트에서 다시 확인하세요.

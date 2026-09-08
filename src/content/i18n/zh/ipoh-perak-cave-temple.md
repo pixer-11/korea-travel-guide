@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ipoh-perak-cave-temple
-srcHash: '25dc0a37855c'
+srcHash: '26611db31dfe'
 title: 霹雳洞：怡保旅行指南（4.4★）
 description: 霹雳洞（Perak Tong）位于怡保市中心以北的Jalan Kuala Kangsar路上，每日8:00至16:30开放。4.4星（3,867条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 霹雳洞（Perak Tong）位于怡保市中心以北的Jalan Kuala Kangsar路上，每日8:00至16:30开放。建议尽早前往——工作日8点到10点之间人最少，周末则只有8点到9点这一小段时间比较清静，过了这个点游客就会逐渐增多，一直持续到下午。参观洞窟佛殿加上爬到山顶看怡保石灰岩山谷全景，大约要预留45到60分钟。

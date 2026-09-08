@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-skye-bar-restaurant
-srcHash: '9be95dcaf04b'
+srcHash: 'bc2a1c29c0db'
 title: 'SKYE Bar & Restaurant: guía de viaje de Yakarta'
 description: 'SKYE Bar & Restaurant en Yakarta, Indonesia, es un lugar que se ha vuelto tendencia: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: SKYE Bar & Restaurant es un bar y restaurante en azotea situado en el Triángulo de Oro, el distrito financiero de Yakarta (cerca de Sudirman/Thamrin), célebre por sus vistas virales del atardecer y del horizonte nocturno de la ciudad. Se llega en poco tiempo desde las estaciones de MRT Bundaran HI o Dukuh Atas, y se recomienda encarecidamente reservar para las noches de fin de semana. Conviene ir entre 30 y 45 minutos antes de la puesta de sol para aprovechar la mejor luz y adelantarse a las multitudes junto a la baranda.

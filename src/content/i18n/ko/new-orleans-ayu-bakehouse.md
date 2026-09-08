@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-ayu-bakehouse
-srcHash: 'edee9fa0b140'
+srcHash: '7e74a7989c15'
 title: '아유 베이크하우스(Ayu Bakehouse): 뉴올리언스 여행 가이드 (4.7★)'
 description: 아유 베이크하우스(Ayu Bakehouse)는 뉴올리언스 프렌치맨 스트리트(Frenchmen Street)에 있는 작은 베트남-프랑스식 베이커리로, 판단 크루아상과 쿠인아망처럼 동남아시아풍을 더한 라미네이트 페이스트리로 유명하다. 4.7★(리뷰 878개) — 방문객 후기, 영업시간, 팁을 소개한다.
 quickAnswer: 아유 베이크하우스(Ayu Bakehouse)는 뉴올리언스 프렌치맨 스트리트(Frenchmen Street)에 있는 작은 베트남-프랑스식 베이커리로, 판단 크루아상과 쿠인아망처럼 동남아시아풍을 더한 라미네이트 페이스트리로 유명하다. 오전에만 영업하며(요일에 따라 오전 8시~오후 2시 또는 3시 30분), 평일에는 비교적 여유롭고 주말 오전 9시~오후 2시에 가장 붐빈다.

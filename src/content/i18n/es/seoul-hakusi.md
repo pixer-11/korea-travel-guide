@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-hakusi
-srcHash: '337533ccbb19'
+srcHash: 'e3d8e19a0852'
 title: Hakusi en Seúl
 description: 'Hakusi en Seúl, Corea del Sur — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Hakusi es un restaurante de alta cocina con influencia japonesa ubicado en Cheongdam-dong, Seúl, que reabrió recientemente en un llamativo espacio nuevo concebido para parecer un bodegón viviente. Para 2026 obtuvo un nuevo reconocimiento Michelin gracias a platos como la anguila (unagi) combinada con sansho y albahaca. Es imprescindible reservar con bastante antelación, y conviene confirmar directamente con el restaurante el horario vigente, la política de mesas y los precios antes de ir.

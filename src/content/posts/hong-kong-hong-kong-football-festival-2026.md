@@ -29,7 +29,7 @@ draft: true
 ---
 ## Why this event matters
 
-Pre-season friendlies in Asia aren't new; the venue set this one apart. The Hong Kong Football Festival 2026 (July 31–August 5) was billed as one of the first major sporting spectacles for the new Kai Tak Stadium, built on the site of the old Kai Tak Airport in Kowloon East. The announced lineup put four of European football's biggest names — Manchester City, Inter Milan, Chelsea FC and Juventus — into two exhibition matches across the week-long window.
+Pre-season friendlies in Asia aren't new; the venue set this one apart. The Hong Kong Football Festival 2026 (July 31–August 5) was billed as one of the first major sporting spectacles for the new Kai Tak Stadium, built on the site of the old Kai Tak Airport in Kowloon East. The announced lineup put four of European football's biggest names (Manchester City, Inter Milan, Chelsea FC and Juventus) into two exhibition matches across the week-long window.
 
 For Hong Kong, the festival was as much about showcasing its new 50,000-seat national stadium to the world as about the football itself: a first look at a genuinely new piece of civic infrastructure rather than just another summer friendly.
 
@@ -41,7 +41,7 @@ Coming from Hong Kong Island or Tsim Sha Tsui, match-day crowds funnelling throu
 
 ## What to expect at the festival
 
-With two matches across a five-day window, the festival format paired marquee games with surrounding activities — fan zones, autograph or meet-and-greet sessions, and retail pop-ups are typical for events that bring top European clubs to Asian tour stops. Given the mix of Manchester City, Chelsea, Inter Milan and Juventus, the two fixtures were cross-club pairings rather than a round-robin.
+With two matches across a five-day window, the festival format paired marquee games with surrounding activities, fan zones, autograph or meet-and-greet sessions, and retail pop-ups are typical for events that bring top European clubs to Asian tour stops. Given the mix of Manchester City, Chelsea, Inter Milan and Juventus, the two fixtures were cross-club pairings rather than a round-robin.
 
 New stadiums often have first-year teething issues with entry gates and bag checks, and Kai Tak's scale means longer walks from concourse to seat than older Hong Kong venues like Mong Kok Stadium.
 

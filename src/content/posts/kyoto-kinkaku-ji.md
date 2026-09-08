@@ -63,7 +63,7 @@ draft: false
 
 Kinkaku-ji, formally Rokuon-ji, is the single most photographed building in Kyoto for good reason: its top two floors are covered in real gold leaf, and the structure sits directly over Kyōko-chi ("mirror pond"), doubling the effect on a still day. It was built in the late 14th century as a retirement villa for shogun Ashikaga Yoshimitsu and converted into a Zen temple of the Rinzai school after his death.
 
-The current pavilion is a 1955 reconstruction — the original burned down in 1950 — but it follows the historic design closely and remains a UNESCO World Heritage Site as part of "Historic Monuments of Ancient Kyoto." With a 4.6 rating across tens of thousands of reviews, it's consistently ranked among the city's top attractions, so expectations run high, and the site generally delivers, provided you manage timing and crowds.
+The current pavilion is a 1955 reconstruction, the original burned down in 1950, but it follows the historic design closely and remains a UNESCO World Heritage Site as part of "Historic Monuments of Ancient Kyoto." With a 4.6 rating across tens of thousands of reviews, it's consistently ranked among the city's top attractions, so expectations run high, and the site generally delivers, provided you manage timing and crowds.
 
 ## Getting there
 
@@ -73,18 +73,18 @@ There's no subway station within easy walking distance, but travelers coming fro
 
 ## What to see
 
-The visit follows a single, one-way path through the garden — you can't backtrack, so pace yourself. The classic view comes almost immediately after entry: the pavilion across the pond, with Fujishima and other small islets in the water and pine trees framing the shot from the viewing area near the entrance. Keep going and the path climbs past Ryumon waterfall, the Anmintaku pond, and a small Fudo Myo-o hall, before reaching a tea house (Sekkatei) added in the Edo period.
+The visit follows a single, one-way path through the garden. You can't backtrack, so pace yourself. The classic view comes almost immediately after entry: the pavilion across the pond, with Fujishima and other small islets in the water and pine trees framing the shot from the viewing area near the entrance. Keep going and the path climbs past Ryumon waterfall, the Anmintaku pond, and a small Fudo Myo-o hall, before reaching a tea house (Sekkatei) added in the Edo period.
 
-The whole loop, including photo stops, takes 30-45 minutes for most visitors; there's no interior access to the pavilion itself — viewing is exterior-only, from the surrounding garden paths.
+The whole loop, including photo stops, takes 30-45 minutes for most visitors; there's no interior access to the pavilion itself, viewing is exterior-only, from the surrounding garden paths.
 
 ## When to go
 
-Arrive at or near opening (temples in Kyoto typically open around 9am) or in the last hour before closing (often around 5pm) to have any hope of a less crowded shot of the pavilion — midday is consistently packed, especially on weekends and holidays. Early-to-mid November through early December brings autumn foliage around the pond, and late March into early April brings cherry blossoms; both seasons are spectacular but also the busiest of the year.
+Arrive at or near opening (temples in Kyoto typically open around 9am) or in the last hour before closing (often around 5pm) to have any hope of a less crowded shot of the pavilion, midday is consistently packed, especially on weekends and holidays. Early-to-mid November through early December brings autumn foliage around the pond, and late March into early April brings cherry blossoms; both seasons are spectacular but also the busiest of the year.
 
 A crisp, windless winter morning, when the pond is calm and occasionally dusted with snow, is a quieter and arguably more striking alternative if you don't mind the cold. Confirm current opening hours and admission fees on the temple's official site before you go, since these are adjusted periodically.
 
 ## Nearby & tips
 
-Combine the visit with Ryoan-ji, famous for its rock garden, and Ninna-ji, both within a short bus or taxi ride, to make a half-day loop of northwest Kyoto's temple cluster. Admission is by ticket only, sold at the entrance gate as a wooden charm-style ticket that doubles as a souvenir — no advance online booking has historically been required, though it's worth checking current procedure.
+Combine the visit with Ryoan-ji, famous for its rock garden, and Ninna-ji, both within a short bus or taxi ride, to make a half-day loop of northwest Kyoto's temple cluster. Admission is by ticket only, sold at the entrance gate as a wooden charm-style ticket that doubles as a souvenir, no advance online booking has historically been required, though it's worth checking current procedure.
 
-There's no seating inside the grounds beyond the tea house area, and food options on-site are limited to a small shop near the exit selling snacks along the lines of matcha soft-serve, so eat beforehand if you need a proper meal. Photography is allowed and encouraged at the main viewpoint, but tripods and drone use are generally restricted — check posted signage on arrival.
+There's no seating inside the grounds beyond the tea house area, and food options on-site are limited to a small shop near the exit selling snacks along the lines of matcha soft-serve, so eat beforehand if you need a proper meal. Photography is allowed and encouraged at the main viewpoint, but tripods and drone use are generally restricted. Check posted signage on arrival.

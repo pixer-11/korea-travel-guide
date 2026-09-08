@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jeju-hyeopjae-beach
-srcHash: 'aa0d3092eecc'
+srcHash: '700efd547817'
 title: '협재해수욕장: 제주 여행 가이드'
 description: 제주 서쪽 한림읍에 위치한 협재해수욕장(Hyeopjae Beach)은 흰 모래와 소나무 숲을 배경으로 얕고 에메랄드빛 바다가 펼쳐지는 해변이며, 앞바다로 비양도(Biyangdo Island)가 또렷하게 보입니다.
 quickAnswer: 제주 서쪽 한림읍에 위치한 협재해수욕장(Hyeopjae Beach)은 흰 모래와 소나무 숲을 배경으로 얕고 에메랄드빛 바다가 펼쳐지는 해변이며, 앞바다로 비양도(Biyangdo Island)가 또렷하게 보입니다. 수영을 즐기기에는 6월부터 9월 초까지가 가장 좋고, 노을을 감상하기에는 연중 어느 때나 좋습니다. 1.5~3시간 정도를 계획하되, 인근 한림공원이나 비양도행 배편을 추가한다면 시간을 더 넉넉히 잡으세요.

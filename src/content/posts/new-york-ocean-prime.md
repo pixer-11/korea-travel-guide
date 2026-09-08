@@ -67,32 +67,32 @@ draft: false
 
 You come in off West 52nd Street, past a doorman-height façade that gives almost nothing away, and the room opens up dark and glossy: black-and-gold fixtures, a long marble-topped bar stacked with wine, low lighting that turns every steak knife and coupe glass into a small glint. It's the kind of dining room built for a midtown power dinner or an anniversary that someone's expensing.
 
-The volume climbs fast once the tables fill — clinking ice buckets, a low hum of dealmaking, the occasional pop of a champagne cork — but at off-hours it's almost hushed, just the clatter of the open kitchen pass and the bartender working through a rocks glass of something brown.
+The volume climbs fast once the tables fill (clinking ice buckets, a low hum of dealmaking, the occasional pop of a champagne cork), but at off-hours it's almost hushed, just the clatter of the open kitchen pass and the bartender working through a rocks glass of something brown.
 
 ## Where it sits
 
-Ocean Prime is at 123 W 52nd St, tucked between Sixth and Seventh Avenues in the heart of Midtown Manhattan — walking distance from Radio City Music Hall, the Museum of Modern Art, and the Rockefeller Center skating rink in winter. The nearest subway is 50th Street on the 1 train, about a two-minute walk, with the B/D/E at 7th Ave–53rd St and the N/Q/R/W at 49th Street also within five or six minutes on foot.
+Ocean Prime is at 123 W 52nd St, tucked between Sixth and Seventh Avenues in the heart of Midtown Manhattan, walking distance from Radio City Music Hall, the Museum of Modern Art, and the Rockefeller Center skating rink in winter. The nearest subway is 50th Street on the 1 train, about a two-minute walk, with the B/D/E at 7th Ave–53rd St and the N/Q/R/W at 49th Street also within five or six minutes on foot.
 
 If you're coming from a Broadway matinee or an office tower nearby, this is an easy walk-in destination rather than a cab ride.
 
 ## What lands on the table
 
-This is a steak-and-seafood menu built around classics done with a heavy hand on quality: bone-in filets and dry-aged strips from the chophouse side, chilled seafood towers stacked with oysters, jumbo shrimp, and king crab on the raw-bar side, plus a rotating selection of market fish. The calamari and the lobster and crab tots show up on a lot of tables as shareable starters, and the wine list is long enough — spanning California cabernets to Champagne — that asking the sommelier or server for a by-the-glass pairing is worth the extra minute.
+This is a steak-and-seafood menu built around classics done with a heavy hand on quality: bone-in filets and dry-aged strips from the chophouse side, chilled seafood towers stacked with oysters, jumbo shrimp, and king crab on the raw-bar side, plus a rotating selection of market fish. The calamari and the lobster and crab tots show up on a lot of tables as shareable starters, and the wine list is long enough, spanning California cabernets to Champagne, that asking the sommelier or server for a by-the-glass pairing is worth the extra minute.
 
 Portions run generous, plating is classic rather than experimental, and the kitchen clearly aims for consistency over surprise, which is exactly what a room this polished is going for.
 
 ## When to go
 
-Ocean Prime offers lunch on weekdays; weekends shift to dinner-only, with dinner service starting later in the day. If you want the dining room at its calmest, aim for that Monday–Friday 11:30am–12pm window right at lunch opening — tables are easy to get and the kitchen isn't yet slammed.
+Ocean Prime offers lunch on weekdays; weekends shift to dinner-only, with dinner service starting later in the day. If you want the dining room at its calmest, aim for that Monday–Friday 11:30am–12pm window right at lunch opening, tables are easy to get and the kitchen isn't yet slammed.
 
 On weekends, the quiet stretch runs from 4pm opening onward, but that calm doesn't last: crowds build steadily and 5–9pm on Saturday and Sunday is the busiest window of the week, so if you're weekend-only, either eat right at 4pm or expect a wait later.
 
 ## How to visit like a local
 
-Book ahead — a room this well-reviewed and this central fills its prime-time slots (7–8:30pm especially) days in advance on weekends, and walk-ins then usually mean bar seating only. Regulars treat the bar and lounge as a legitimate meal option, not just a waiting area: full menu, a bit less formal, and often faster. Payment is standard US restaurant style — card is the default, and gratuity is customary here as at any upscale New York restaurant, and a jacket isn't required but the room skews business-casual to dressed-up, so shorts and sneakers will feel out of place.
+Book ahead (a room this well-reviewed and this central fills its prime-time slots (7–8:30pm especially) days in advance on weekends, and walk-ins then usually mean bar seating only. Regulars treat the bar and lounge as a legitimate meal option, not just a waiting area: full menu, a bit less formal, and often faster. Payment is standard US restaurant style) card is the default, and gratuity is customary here as at any upscale New York restaurant, and a jacket isn't required but the room skews business-casual to dressed-up, so shorts and sneakers will feel out of place.
 
-The mistake first-timers make is walking in around 6 or 7pm on a Friday or Saturday without a reservation and assuming a table will materialize — it won't. Come at lunch, or come right at a weekend opening, and you get the same kitchen and the same room with none of the hold.
+The mistake first-timers make is walking in around 6 or 7pm on a Friday or Saturday without a reservation and assuming a table will materialize. It won't. Come at lunch, or come right at a weekend opening, and you get the same kitchen and the same room with none of the hold.
 
 ## Nearby, before or after
 
-Because it sits so close to Rockefeller Center, Radio City, and the Sixth Avenue office corridor, Ocean Prime works well bracketed around other Midtown plans — a pre-theater dinner ahead of an 8pm Broadway curtain (the 10pm weekday close gives you comfortable room), or a late lunch after a MoMA visit a few blocks east. St. Patrick's Cathedral and the Top of the Rock observation deck are both within a ten-minute walk, making this an easy anchor point for a half-day in the neighborhood rather than a special trip requiring a detour.
+Because it sits so close to Rockefeller Center, Radio City, and the Sixth Avenue office corridor, Ocean Prime works well bracketed around other Midtown plans, a pre-theater dinner ahead of an 8pm Broadway curtain (the 10pm weekday close gives you comfortable room), or a late lunch after a MoMA visit a few blocks east. St. Patrick's Cathedral and the Top of the Rock observation deck are both within a ten-minute walk, making this an easy anchor point for a half-day in the neighborhood rather than a special trip requiring a detour.

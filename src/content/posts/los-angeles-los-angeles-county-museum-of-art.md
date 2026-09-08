@@ -65,7 +65,7 @@ aiGenerated: true
 
 You see it before you park: rows of restored cast-iron lampposts glowing amber even at midday, planted in neat grids on a gravel lot. This is Chris Burden's *Urban Light*, and it's the reason half the Instagram photos of Los Angeles exist. It's also free to walk through, visible right from the Wilshire Boulevard sidewalk, no ticket required.
 
-Behind it sits LACMA proper — not one building but a scattered campus of them, the largest encyclopedic art museum in the western United States. The Broad Contemporary Art Museum (BCAM) holds much of the modern and contemporary work. The Resnick Pavilion runs the big rotating shows. Levitated Mass, Michael Heizer's 340-ton granite boulder suspended over a walkway, sits just south of the lampposts.
+Behind it sits LACMA proper, not one building but a scattered campus of them, the largest encyclopedic art museum in the western United States. The Broad Contemporary Art Museum (BCAM) holds much of the modern and contemporary work. The Resnick Pavilion runs the big rotating shows. Levitated Mass, Michael Heizer's 340-ton granite boulder suspended over a walkway, sits just south of the lampposts.
 
 ## Getting there
 
@@ -75,18 +75,18 @@ LACMA sits at 5905 Wilshire Blvd, in the Miracle Mile district, flanked by the L
 - **Bus**: Metro Local 20 and 720 both run along Wilshire and stop directly outside.
 - **Driving**: there's a pay parking structure on-site, but street parking nearby fills fast, especially on weekends.
 
-Give yourself at least a five-minute buffer walking in from any transit stop — the campus is wide, and the entrance isn't always obvious from the street.
+Give yourself at least a five-minute buffer walking in from any transit stop. The campus is wide, and the entrance isn't always obvious from the street.
 
 ## What to see
 
-The permanent collection spans Islamic art, Latin American art, photography, costume and textiles, and a strong Korean art wing — genuinely global in scope. Don't try to see everything in one pass.
+The permanent collection spans Islamic art, Latin American art, photography, costume and textiles, and a strong Korean art wing, genuinely global in scope. Don't try to see everything in one pass.
 
 Highlights worth prioritizing:
 
-- **Urban Light** — the lamppost field, best photographed at dusk when they switch on
-- **Levitated Mass** — walk underneath the suspended boulder itself
-- **BCAM's upper floors** — major postwar and contemporary names
-- **Japanese Pavilion** — a quieter, glass-walled building often overlooked by first-timers
+- **Urban Light**, the lamppost field, best photographed at dusk when they switch on
+- **Levitated Mass**. Walk underneath the suspended boulder itself
+- **BCAM's upper floors**, major postwar and contemporary names
+- **Japanese Pavilion**, a quieter, glass-walled building often overlooked by first-timers
 
 Rotating special exhibitions usually carry a separate ticket, so check what's on before you plan your route through the galleries.
 
@@ -94,22 +94,22 @@ Rotating special exhibitions usually carry a separate ticket, so check what's on
 
 LACMA closes all day Wednesday, so don't build a visit around that. Friday evenings stretch to 8pm, and weekends open earlier, at 10am, running to 7pm.
 
-Weekday afternoons the calmest stretch is 6pm to 7pm, right near closing on Monday, Tuesday and Thursday — good if you want the galleries closer to empty. Weekends stay crowded from noon straight through to closing, so if you're coming Saturday or Sunday, arrive at opening rather than midday.
+Weekday afternoons the calmest stretch is 6pm to 7pm, right near closing on Monday, Tuesday and Thursday, good if you want the galleries closer to empty. Weekends stay crowded from noon straight through to closing, so if you're coming Saturday or Sunday, arrive at opening rather than midday.
 
 ## Why it's worth the time
 
-This is one of the most-visited museums in the country, and the collection size backs that up — you could return a dozen times and still find rooms you missed. It's not an off-the-beaten-path find; it's a major, well-reviewed institution, and it draws crowds accordingly.
+This is one of the most-visited museums in the country, and the collection size backs that up. You could return a dozen times and still find rooms you missed. It's not an off-the-beaten-path find; it's a major, well-reviewed institution, and it draws crowds accordingly.
 
 The upside of that popularity: the programming stays ambitious, with film screenings, concerts, and traveling exhibitions on top of the permanent galleries. Budget half a day if you want more than a surface pass.
 
 ## How to visit like a local
 
-Buy tickets online ahead of a weekend visit — the walk-up line at the entrance plaza can stretch long by late morning. Membership is popular among regulars precisely because it skips that line and includes free general admission year-round.
+Buy tickets online ahead of a weekend visit. The walk-up line at the entrance plaza can stretch long by late morning. Membership is popular among regulars precisely because it skips that line and includes free general admission year-round.
 
 Payment inside is card-first, though cash still works at the café and gift shop. Tipping isn't expected anywhere on-site.
 
 - Skip the general-admission photo scrum at Urban Light by shooting it right at dusk, when the lamps switch on and daytime crowds start thinning
-- Wednesday is a full closure, not a light day — don't show up
+- Wednesday is a full closure, not a light day. Don't show up
 - Enter through the BCAM side if the main plaza entrance has a line; museum staff can usually redirect you
 - Pack a layer for the Resnick Pavilion, which runs cooler than the outdoor plaza
 

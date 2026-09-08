@@ -64,21 +64,21 @@ aiGenerated: true
 
 ## Why this guide exists
 
-Search "where to eat near Orchard Road" and Maxwell Food Centre often comes up — but it's worth being upfront: this hawker centre sits in Chinatown, not Orchard Road proper. It's a fixture of Singapore's food scene and a genuinely worthwhile detour from an Orchard-based stay, roughly 15-20 minutes away by train. Think of this as the honest version of "near Orchard Road" — close enough for a half-day food trip, not a walkable lunch stop.
+Search "where to eat near Orchard Road" and Maxwell Food Centre often comes up (but it's worth being upfront: this hawker centre sits in Chinatown, not Orchard Road proper. It's a fixture of Singapore's food scene and a genuinely worthwhile detour from an Orchard-based stay, roughly 15-20 minutes away by train. Think of this as the honest version of "near Orchard Road") close enough for a half-day food trip, not a walkable lunch stop.
 
 ## Getting there from Orchard Road
 
-From Orchard MRT (North-South Line, red), ride four stops to Chinatown MRT (Downtown Line/North-East Line interchange) — no transfers needed if you catch the right service, or one change at Dhoby Ghaut. Exit A or E puts you within a five-minute walk of the hawker centre at 1 Kadayanallur Street, on the edge of the Tanjong Pagar/Chinatown conservation district. A taxi or ride-hail from Orchard Road takes about 10-15 minutes depending on traffic and costs a modest flat fare — reasonable for a group but the MRT is cheaper and often faster at peak hours.
+From Orchard MRT (North-South Line, red), ride four stops to Chinatown MRT (Downtown Line/North-East Line interchange) (no transfers needed if you catch the right service, or one change at Dhoby Ghaut. Exit A or E puts you within a five-minute walk of the hawker centre at 1 Kadayanallur Street, on the edge of the Tanjong Pagar/Chinatown conservation district. A taxi or ride-hail from Orchard Road takes about 10-15 minutes depending on traffic and costs a modest flat fare) reasonable for a group but the MRT is cheaper and often faster at peak hours.
 
 ## What to eat
 
-Maxwell is a single-storey, open-air hawker hall packed with dozens of stalls, and it holds a 4.4 rating across more than 23,000 reviews — a strong signal for a food court of this size. The stall most visitors queue for is **Tian Tian Hainanese Chicken Rice**, known for its silky poached chicken and fragrant rice cooked in chicken stock; expect a line most of the day.
+Maxwell is a single-storey, open-air hawker hall packed with dozens of stalls, and it holds a 4.4 rating across more than 23,000 reviews, a strong signal for a food court of this size. The stall most visitors queue for is **Tian Tian Hainanese Chicken Rice**, known for its silky poached chicken and fragrant rice cooked in chicken stock; expect a line most of the day.
 
-Beyond chicken rice, look for stalls doing dim sum, char kway teow, fish soup, popiah, and Hokkien mee — the centre's editorial reputation rests on this mix of Chinese street-food staples rather than any single dish. Prices are hawker-level (this is a budget-tier venue, not fine dining), so it's normal to order two or three small plates to share across a table.
+Beyond chicken rice, look for stalls doing dim sum, char kway teow, fish soup, popiah, and Hokkien mee, the centre's editorial reputation rests on this mix of Chinese street-food staples rather than any single dish. Prices are hawker-level (this is a budget-tier venue, not fine dining), so it's normal to order two or three small plates to share across a table.
 
 ## How to navigate the space
 
-There's no single entrance to head for — the hall is a grid of stalls with shared bench seating in the middle, so plan to walk a full lap before committing to a queue. Seating fills up fast at lunch, so a common tactic is to send one person to grab a table while others queue at different stalls. Payment is a mix: many stalls now take PayNow or card, but a good number of older stalls remain cash-only, especially the ones with the longest-standing reputations. Napkins, cutlery and condiments are typically self-serve from communal counters near the tables.
+There's no single entrance to head for. The hall is a grid of stalls with shared bench seating in the middle, so plan to walk a full lap before committing to a queue. Seating fills up fast at lunch, so a common tactic is to send one person to grab a table while others queue at different stalls. Payment is a mix: many stalls now take PayNow or card, but a good number of older stalls remain cash-only, especially the ones with the longest-standing reputations. Napkins, cutlery and condiments are typically self-serve from communal counters near the tables.
 
 ## When to go
 
@@ -86,7 +86,7 @@ Lunch (roughly 11:30am-1:30pm) and dinner (6:30pm-8pm) are the peak crush, with 
 
 ## How to visit like a local
 
-Maxwell is thoroughly discovered — it draws tour groups, guidebooks, and long queues daily, so there's no point pretending it's a secret. The way regulars handle it is by timing visits outside the two lunch/dinner peaks and by scouting a stall's queue length before deciding whether to wait or pivot to a shorter one nearby; the food quality across many stalls is high enough that skipping the single most famous line rarely means a worse meal.
+Maxwell is thoroughly discovered, it draws tour groups, guidebooks, and long queues daily, so there's no point pretending it's a secret. The way regulars handle it is by timing visits outside the two lunch/dinner peaks and by scouting a stall's queue length before deciding whether to wait or pivot to a shorter one nearby; the food quality across many stalls is high enough that skipping the single most famous line rarely means a worse meal.
 
-Order by pointing at the dish name on the signboard or simply saying the dish name (e.g., "chicken rice, small") — stall assistants are used to quick, no-frills ordering and appreciate visitors who've decided before reaching the counter. Carry small bills and coins for cash-only stalls, and treat the centre as a stop on a longer Chinatown walk — Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short stroll, making it easy to combine the detour from Orchard Road into a fuller afternoon.
+Order by pointing at the dish name on the signboard or simply saying the dish name (e.g., "chicken rice, small") (stall assistants are used to quick, no-frills ordering and appreciate visitors who've decided before reaching the counter. Carry small bills and coins for cash-only stalls, and treat the centre as a stop on a longer Chinatown walk) Sri Mariamman Temple, Ann Siang Hill, and the Chinatown street markets are all within a short stroll, making it easy to combine the detour from Orchard Road into a fuller afternoon.
 

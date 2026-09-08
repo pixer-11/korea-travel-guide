@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: pingxi-shifen-waterfall
-srcHash: '314f02c7f2aa'
+srcHash: '35f8c1274532'
 title: '스펀 폭포(Shifen Waterfall): 핑시(Pingxi) 여행 가이드 (4.5★)'
 description: 스펀 폭포(Shifen Waterfall)는 폭 40미터로 대만에서 가장 넓은 폭포로, 핑시 지선(Pingxi branch line) 스펀역(Shifen Station)에서 도보 20분 거리에 있으며 매일 오전 9시~오후 5시 30분에 운영됩니다. 4.5★(리뷰 29,020개) — 방문객들의 후기, 운영 시간, 방문 팁을 소개합니다.
 quickAnswer: 스펀 폭포(Shifen Waterfall)는 폭 40미터로 대만에서 가장 넓은 폭포로, 핑시 지선(Pingxi branch line) 스펀역(Shifen Station)에서 도보 20분 거리에 있으며 매일 오전 9시~오후 5시 30분에 운영됩니다. 주말 오후 1시~4시에 몰리는 인파를 피하려면 평일 오전 9시~11시 사이, 또는 주말이라면 오전 10시 이전에 방문하세요. 순환 산책로와 전망대를 둘러보는 데 45분~1시간 정도 여유를 두는 것이 좋습니다.

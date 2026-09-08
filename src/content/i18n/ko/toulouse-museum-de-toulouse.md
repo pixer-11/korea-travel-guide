@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: toulouse-museum-de-toulouse
-srcHash: '62f56c1cfddf'
+srcHash: 'e78b42cf947c'
 title: 툴루즈 자연사박물관(Muséum de Toulouse) 여행 가이드 (4.5★)
 description: 툴루즈 자연사박물관(Muséum de Toulouse)은 반나절이나 하루를 통째로 보낼 만한 곳으로, 박제 전시로 가득한 메인 홀과 공룡 화석을 갖춘 19세기 자연사박물관이며, 바로 옆에는 식물원(Jardin des Plantes)이 자리하고 있습니다. 4.5★(리뷰 5,032개) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 툴루즈 자연사박물관(Muséum de Toulouse)은 반나절이나 하루를 통째로 보낼 만한 곳으로, 박제 전시로 가득한 메인 홀과 공룡 화석을 갖춘 19세기 자연사박물관이며, 바로 옆에는 식물원(Jardin des Plantes)이 자리하고 있습니다. 화요일부터 일요일까지 오전 10시~오후 6시에 운영하며, 월요일은 휴관입니다. 주말에는 하루 종일 붐비므로 전시실을 한적하게 둘러보고 싶다면 개관 시간에 맞춰 도착하는 것이 좋습니다.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fergana-al-farg-oniy-haykali
-srcHash: 'f7e315160694'
+srcHash: '7a4fca53b38e'
 title: 'Estatua de Al-Farghani: Guía de viaje de Fergana'
 description: La estatua de Al-Farghani es un monumento dedicado al erudito del siglo IX al-Farghani, situado en Quva, una pequeña localidad a una hora en coche al este de la ciudad de Fergana.
 quickAnswer: La estatua de Al-Farghani es un monumento dedicado al erudito del siglo IX al-Farghani, situado en Quva, una pequeña localidad a una hora en coche al este de la ciudad de Fergana. Se trata de una parada tranquila y sin grandes pretensiones, mejor pensada como complemento de una excursión más amplia por el valle de Fergana que como destino en sí misma. Calcule entre 20 y 30 minutos, y vaya un día laborable por la mañana si quiere tener la plaza completamente para usted.

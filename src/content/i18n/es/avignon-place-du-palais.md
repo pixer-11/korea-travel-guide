@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-place-du-palais
-srcHash: 'eb7e04cc3cb8'
+srcHash: 'def17664020e'
 title: 'Place du Palais: guía de viaje de Aviñón'
 description: La Place du Palais es la enorme plaza de piedra situada frente al Palacio de los Papas, abierta las 24 horas y sin necesidad de entrada para simplemente estar en ella.
 quickAnswer: La Place du Palais es la enorme plaza de piedra a los pies del Palacio de los Papas (Palais des Papes) en Aviñón. Se visita gratis a cualquier hora, aunque lo mejor es ir a primera hora de la mañana o después de cenar, cuando ya se han ido los autocares de excursionistas y la fachada iluminada tiene la plaza para ella sola. Basta con 20-30 minutos si solo se recorre la plaza, aunque conviene alargar la visita si se hace una parada en alguna terraza frente al palacio.

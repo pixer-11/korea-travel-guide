@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-merdeka-grill-park-hyatt-kuala-lumpur
-srcHash: 'c52796aa38b9'
+srcHash: 'ce9ecdae1ec3'
 title: Merdeka Grill（吉隆坡柏悦酒店）旅行指南
 description: 马来西亚吉隆坡Merdeka Grill（吉隆坡柏悦酒店）——这处新晋热门餐厅：它是什么、位于何处、以及如何前往。
 quickAnswer: Merdeka Grill是吉隆坡柏悦酒店（Park Hyatt Kuala Lumpur）内新开的牛排馆风格餐厅，坐落在Merdeka 118的高层楼层——目前东南亚最高的建筑物。建议选在晚上前往，正好能欣赏华灯初上后的城市天际线；由于是新开业且需求旺盛的餐厅，务必提前预订。出发前请直接向吉隆坡柏悦酒店确认最新的营业时间、着装要求和预订政策。

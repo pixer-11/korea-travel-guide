@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: incheon-edc-korea-electric-daisy-carnival
-srcHash: 'dd0c2688766c'
+srcHash: 'f5a26073fd1f'
 title: EDC Korea(エレクトリック・デイジー・カーニバル):開催日程・チケット・会場情報(仁川)
 description: 韓国・仁川で開催されるEDC Korea(エレクトリック・デイジー・カーニバル)は2026年10月3日・4日の2日間。フェスの概要や開催時期・場所、旅程の立て方をご紹介します。
 quickAnswer: EDC Koreaは2026年10月3日・4日、仁川のINSPIRE Entertainment Resortで開催されます。ヘッドライナーにはTiësto、DJ Snake、FISHER、Alok、そしてILLENIUMとDabinによるb2bセットが名を連ねます。チケットは販売開始後、必ずEDC Korea・Insomniac公式チャンネルのみで購入してください。会場から数分の距離にある仁川国際空港を起点に旅程を組むのがおすすめです。正確なセットタイムやゲートオープン時間、最終ラインナップについては、開催が近づいたら公式サイトで確認しましょう。

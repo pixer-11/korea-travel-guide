@@ -55,14 +55,14 @@ If you're driving from Jeju City, it's roughly an hour along the coastal or cros
 
 ## What to see
 
-The main event is the climb itself — a stepped stone path that switches back up the cliff face, past small shrines and offering spots, before reaching the cave mouth. Inside, the air turns cool and mineral-smelling, and the Buddha statue sits almost swallowed by shadow except where a shaft of daylight catches it.
+The main event is the climb itself, a stepped stone path that switches back up the cliff face, past small shrines and offering spots, before reaching the cave mouth. Inside, the air turns cool and mineral-smelling, and the Buddha statue sits almost swallowed by shadow except where a shaft of daylight catches it.
 
-From the cave's ledge, the view opens out over the fields below toward the sea — on a clear day you can pick out Yongmeori's dark volcanic rock shelf and the water beyond.
+From the cave's ledge, the view opens out over the fields below toward the sea, on a clear day you can pick out Yongmeori's dark volcanic rock shelf and the water beyond.
 
 Just downhill, Yongmeori Coast is worth folding into the same visit:
 
 - A wave-battered shoreline of layered volcanic tuff, exposed by tidal erosion
-- A walking path along the rocks (sometimes closed at high tide or after storms — check conditions locally)
+- A walking path along the rocks (sometimes closed at high tide or after storms. Check conditions locally)
 - A full-scale replica of Hendrick Hamel's shipwrecked Dutch vessel, marking the 17th-century castaway's landing here
 
 ## When to go
@@ -73,13 +73,13 @@ Because Sanbanggulsa is under the radar compared to Jeju's headline sights, you'
 
 ## How to visit like a local
 
-Wear shoes with real grip — the stone steps get slick when wet, and there's no railing for most of the climb. Budget 45 minutes to an hour total, a bit longer if you're walking the Yongmeori shoreline afterward.
+Wear shoes with real grip. The stone steps get slick when wet, and there's no railing for most of the climb. Budget 45 minutes to an hour total, a bit longer if you're walking the Yongmeori shoreline afterward.
 
-Entry involves a small admission fee, usually covering both the temple and the coastal path, paid by cash or card at the ticket booth — confirm current pricing before you go since it does shift.
+Entry involves a small admission fee, usually covering both the temple and the coastal path, paid by cash or card at the ticket booth, confirm current pricing before you go since it does shift.
 
 - Bow or pause quietly if you reach the cave while someone is praying
 - Keep voices low near the shrine itself, even though the setting draws camera-toting visitors
-- Skip flash photography of the statue — natural light is dim, but it's a working shrine, not a museum piece
+- Skip flash photography of the statue, natural light is dim, but it's a working shrine, not a museum piece
 
 Locals treat the mountain itself, Sanbangsan, as one of Jeju's more striking natural landmarks, so it's common to see people simply photographing the cliff from the parking area without ever climbing up. If you have limited mobility, that ground-level view is a legitimate way to experience the site.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-santa-monica-pier
-srcHash: '739caace6b3d'
+srcHash: 'c22e03b69a97'
 title: 'Muelle de Santa Mónica: Guía de Viaje de Los Ángeles'
 description: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar.
 quickAnswer: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar. Caminar por él es gratis (las atracciones y el acuario tienen costo aparte), y los fines de semana se llena de verdad después del mediodía; llega antes de las 11 a.m. para verlo como lo hacen los locales, en las horas tranquilas de la mañana antes de que lleguen las multitudes.

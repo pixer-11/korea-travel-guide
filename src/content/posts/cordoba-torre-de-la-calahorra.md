@@ -71,7 +71,7 @@ updatedDate: '2026-08-31'
 ---
 ## Why go
 
-You spot it before you even cross the river: a squat, sand-colored tower anchoring the far end of the Roman Bridge. Torre de la Calahorra has guarded that crossing since the Moorish period, and it's the one spot in Córdoba where you get the postcard shot — the Mezquita's bell tower and orange rooftops — without fighting for space on the bridge itself.
+You spot it before you even cross the river: a squat, sand-colored tower anchoring the far end of the Roman Bridge. Torre de la Calahorra has guarded that crossing since the Moorish period, and it's the one spot in Córdoba where you get the postcard shot, the Mezquita's bell tower and orange rooftops, without fighting for space on the bridge itself.
 
 Inside, it's not a bare monument. It houses a small museum on Al-Andalus, with headset-guided rooms tracing the coexistence of Muslim, Jewish, and Christian scholars in medieval Córdoba.
 
@@ -79,9 +79,9 @@ Inside, it's not a bare monument. It houses a small museum on Al-Andalus, with h
 
 The ground floor sets the historical scene, but the real payoff is upstairs. A cramped spiral staircase leads through low stone chambers to a series of waxwork tableaux of philosophers like Averroes and Maimonides, with an audio guide narrating their ideas.
 
-One room holds a large scale model of the Alhambra in Granada, worth pausing at even if you've already seen the real one. Keep climbing and you reach the open rooftop terrace — the actual reason most people buy a ticket.
+One room holds a large scale model of the Alhambra in Granada, worth pausing at even if you've already seen the real one. Keep climbing and you reach the open rooftop terrace, the actual reason most people buy a ticket.
 
-From up there, the Guadalquivir curves beneath the bridge's stone arches, and the Mezquita-Catedral rises across the water with its bell tower catching the evening light. It's compact — this is not a sprawling museum — so most visits run well under an hour.
+From up there, the Guadalquivir curves beneath the bridge's stone arches, and the Mezquita-Catedral rises across the water with its bell tower catching the evening light. It's compact, this is not a sprawling museum, so most visits run well under an hour.
 
 ## Getting there
 
@@ -110,10 +110,10 @@ Evening visits also mean softer light for photos of the bridge and cathedral, wh
 This is a well-known stop on every Córdoba itinerary, not a hidden find, so plan around the crowds rather than expecting to avoid them entirely.
 
 - Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off
-- Rent the included audio guide — the waxwork rooms have minimal posted text and make far more sense narrated
+- Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated
 - Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator
 - Pay by card or cash at the door; there's rarely a long ticket line, so pre-booking isn't essential
-- Cross the Roman Bridge slowly on your way there — it's part of the experience, not just the approach
+- Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach
 - Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets
 
 The most common visitor mistake is treating it as a quick photo stop from the bridge and skipping the climb. The waxwork rooms are modest, but the rooftop view is the best in the city for framing the Mezquita against the river, and it's worth the narrow stairs to get there.

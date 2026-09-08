@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bali-dekmantel-x-potato-head
-srcHash: 'f5ee0b4a780e'
+srcHash: '1b54f93999ca'
 title: '덱맨틀 x 포테이토 헤드 (발리): 날짜, 티켓, 장소 안내'
 description: 인도네시아 발리에서 열리는 덱맨틀 x 포테이토 헤드(Dekmantel x Potato Head), 2026년 9월 25일 개최 예정입니다. 행사 개요와 일시, 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: 덱맨틀 x 포테이토 헤드는 발리 스미냑(Seminyak)에 위치한 데사 포테이토 헤드(Desa Potato Head)에서 열리며, 2026년 에디션은 9월 25일로 예정되어 있습니다. 행사는 프티텡겟 해변(Petitenget beach)에 자리한 비치 클럽 스테이지에서 진행되며, 딥 하우스와 테크노 사운드가 노을 무렵부터 밤까지 이어지면서 전 세계에서 모여든 관객들을 불러 모읍니다. 예매 전에는 반드시 덱맨틀과 데사 포테이토 헤드 공식 사이트에서 시간, 라인업, 티켓 정보를 확인하시기 바랍니다.

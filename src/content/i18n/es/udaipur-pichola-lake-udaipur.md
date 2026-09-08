@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: udaipur-pichola-lake-udaipur
-srcHash: '0e38317273d4'
+srcHash: 'f6c2de87af28'
 title: 'Lago Pichola: guía de viaje de Udaipur (4,7★)'
 description: 'El lago Pichola es el corazón de Udaipur: un lago artificial de 1362 rodeado de ghats, palacios y las colinas Aravalli, que luce mejor al atardecer desde un barco o una terraza. 4,7★ (3.010 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El lago Pichola es el corazón de Udaipur: un lago artificial de 1362 rodeado de ghats, palacios y las colinas Aravalli, que luce mejor al atardecer desde un barco o una terraza. Los paseos en barco suelen realizarse dentro del horario de 8:00 a 18:00; conviene reservar la salida de última hora de la tarde para estar sobre el agua justo cuando el City Palace se tiñe de dorado. Calcule entre 2 y 3 horas para disfrutar de un paseo en barco y una caminata por los ghats.'

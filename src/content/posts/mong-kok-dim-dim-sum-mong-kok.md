@@ -84,7 +84,7 @@ draft: false
 
 Mong Kok isn't short on places to eat, but Dim Dim Sum has built a loyal following for one reason: it treats dim sum as an all-day affair, not a brunch-only ritual.
 
-Tucked into Tung Choi Street — the same strip known for the Ladies' Market stalls — it's a reliable stop whether you're shopping at 11am or wandering back from a night market crawl at 10pm.
+Tucked into Tung Choi Street, the same strip known for the Ladies' Market stalls, it's a reliable stop whether you're shopping at 11am or wandering back from a night market crawl at 10pm.
 
 The restaurant is part of a small local chain, but this branch sits right in the pedestrian chaos of Mong Kok, which is exactly the point. You step off a street thick with neon signage and market vendors into a dining room built for speed and volume.
 
@@ -92,23 +92,23 @@ The restaurant is part of a small local chain, but this branch sits right in the
 
 Before you even sit down, the block does the talking. Tung Choi Street is lined with clothing stalls, accessory hawkers and fishball skewers sizzling on portable griddles.
 
-The restaurant's frontage is unassuming — easy to miss if you're not looking for the signage above the door. Inside, it's brighter and more functional than atmospheric: fluorescent light, packed tables, staff moving fast between them.
+The restaurant's frontage is unassuming, easy to miss if you're not looking for the signage above the door. Inside, it's brighter and more functional than atmospheric: fluorescent light, packed tables, staff moving fast between them.
 
 This isn't the ornate, trolley-pushing dim sum hall of old Hong Kong. It's the modern, order-by-checklist version, and it moves at Mong Kok's pace.
 
 ## What to order
 
-The menu comes as a paper checklist with a pencil — tick your dishes, hand it to staff, and steamers start arriving within minutes. Portions are small-plate style, meant for sharing across two or three people.
+The menu comes as a paper checklist with a pencil, tick your dishes, hand it to staff, and steamers start arriving within minutes. Portions are small-plate style, meant for sharing across two or three people.
 
 Dishes worth ticking:
 
-- Har gow (shrimp dumplings) — a benchmark test of any dim sum kitchen
-- Char siu bao — fluffy steamed buns with barbecue pork
-- Baked char siu polo bun — a signature here, sweet crust over savory filling
+- Har gow (shrimp dumplings), a benchmark test of any dim sum kitchen
+- Char siu bao, fluffy steamed buns with barbecue pork
+- Baked char siu polo bun, a signature here, sweet crust over savory filling
 - Beef tripe or chicken feet, if you want the fuller traditional spread
 - Egg tarts or mango pudding to finish
 
-Portions are modest, so plan on ordering more dishes than you think you need — that's the format, not a shortfall.
+Portions are modest, so plan on ordering more dishes than you think you need. That's the format, not a shortfall.
 
 ## When to go
 
@@ -116,18 +116,18 @@ The kitchen runs the same hours every day, 10am to midnight, so there's no rush 
 
 Crowd patterns are worth planning around, though. On weekdays, it's calmest from 10am to 1pm. On weekends, your best window shrinks to 10am–12pm before the midday rush builds.
 
-Avoid weekend afternoons and evenings entirely if you can — 3pm to 10pm on Saturdays and Sundays is when this place gets genuinely busy, with waits at the door and a packed room.
+Avoid weekend afternoons and evenings entirely if you can, 3pm to 10pm on Saturdays and Sundays is when this place gets genuinely busy, with waits at the door and a packed room.
 
 ## How to visit like a local
 
 Dim Dim Sum is well-known enough that you should plan around the crowds rather than expect a quiet find. Here's how regulars navigate it:
 
 - **Time it early.** A late-morning visit on a weekday (10am–1pm) is your best shot at a table without waiting.
-- **Ordering is self-service on paper.** Grab the checklist and pencil at your table, tick boxes, hand it back — no need to flag someone down repeatedly.
+- **Ordering is self-service on paper.** Grab the checklist and pencil at your table, tick boxes, hand it back, no need to flag someone down repeatedly.
 - **Cash and card both work**, but having small bills speeds things up if a queue is forming behind you.
-- **No real tipping culture** — a 10% service charge is often already added to the bill, so check before adding extra.
+- **No real tipping culture**. A 10% service charge is often already added to the bill, so check before adding extra.
 - **Don't over-order at first.** Start with four or five dishes for two people; portions are small but steamers keep coming fast, and it's easy to overshoot.
-- **The mistake tourists make:** showing up right at the Saturday lunch peak and expecting trolley-style leisurely dining. This is quick-turnover dim sum — eat, enjoy, make room for the next table.
+- **The mistake tourists make:** showing up right at the Saturday lunch peak and expecting trolley-style leisurely dining. This is quick-turnover dim sum, eat, enjoy, make room for the next table.
 
 Afterward, the Ladies' Market stalls outside are open into the evening, and the Mong Kok MTR station (Tsuen Wan, Kwun Tong and East Rail lines) is a short walk away, making this an easy anchor point for a longer Mong Kok afternoon or evening.
 

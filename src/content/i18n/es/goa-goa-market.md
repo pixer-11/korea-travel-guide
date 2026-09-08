@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goa-goa-market
-srcHash: 'fc3b86b354a3'
+srcHash: '23a841e49eda'
 title: 'Goa Market: Guía de viaje (4.1★)'
 description: 'Goa Market —más conocido localmente como el Mercado Municipal— es el mercado de productos frescos, especias y pescado del día a día en Panaji, justo al lado de Rua Heliodoro Salgado, en el centro de la ciudad. 4.1★ (488 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Goa Market —más conocido localmente como el Mercado Municipal— es el mercado de productos frescos, especias y pescado del día a día en Panaji, justo al lado de Rua Heliodoro Salgado, en el centro de la ciudad. Abre todos los días de 9am a 9pm, y la visita más tranquila es entre semana, de 9am a 11am, bastante antes del ajetreo vespertino de 5pm a 8pm. Calcula entre 45 minutos y una hora, y ve a pie: las calles de alrededor son estrechas y el estacionamiento es escaso.'

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: santiago-de-compostela-portico-da-gloria
-srcHash: '4d1d2ef4f657'
+srcHash: 'b79ab7465baa'
 title: 荣耀之门:圣地亚哥-德孔波斯特拉旅行指南
 description: 荣耀之门(Pórtico da Gloria)是圣地亚哥-德孔波斯特拉大教堂内一座建于12世纪的石雕大门，正对奥夫拉多伊罗广场(Praza do Obradoiro)。4.6★(1,149条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 荣耀之门是圣地亚哥-德孔波斯特拉大教堂内一座建于12世纪的石雕大门，正对奥夫拉多伊罗广场。它每天9:00–20:00开放，想安静地细细观赏，最好选在工作日的9点到10点，或周末的11点到17点之间前往。建议留出20到30分钟的安静时间，最好搭配导览讲解或语音导览，因为这些雕刻值得仔细品味。

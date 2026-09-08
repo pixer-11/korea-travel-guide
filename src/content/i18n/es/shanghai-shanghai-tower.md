@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-shanghai-tower
-srcHash: 'd438f16fdd93'
+srcHash: '00b591318bb0'
 title: 'Shanghai Tower: Guía de viaje (4.6★)'
 description: El mirador de la Shanghai Tower (piso 118-119) abre a diario de 8:30 a 9:30 en Lujiazui, Pudong — la franja más tranquila es de 8:30 a 9:30 cualquier día, mientras que las noches de fin de semana de 19:00 a 21:00 atraen a las multitudes más numerosas para ver el horizonte nocturno. 4.6★ (3,180 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El mirador de la Shanghai Tower (piso 118-119) abre a diario de 8:30 a 9:30 en Lujiazui, Pudong — la franja más tranquila es de 8:30 a 9:30 cualquier día, mientras que las noches de fin de semana de 19:00 a 21:00 atraen a las multitudes más numerosas para ver el horizonte nocturno. Reserva entradas con horario fijo en línea con antelación, toma la línea 2 del metro hasta la estación Lujiazui, y calcula unas dos horas en total, incluyendo el control de seguridad y el trayecto en el ascensor de dos pisos.

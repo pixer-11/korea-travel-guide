@@ -99,7 +99,7 @@ updatedDate: '2026-09-06'
 
 ## Why go
 
-This isn't a beach park — it's raised coral limestone draped in banyan roots and humid jungle. Millions of years ago this was reef; now it's a forest of fig trees clinging to karst outcrops, honeycombed with caves you walk straight through.
+This isn't a beach park. It's raised coral limestone draped in banyan roots and humid jungle. Millions of years ago this was reef; now it's a forest of fig trees clinging to karst outcrops, honeycombed with caves you walk straight through.
 
 The payoff is the contrast: ten minutes from Kenting's surf shops and night market, you're suddenly under a canopy so dense the light goes green, with cicadas loud enough to drown out conversation.
 
@@ -107,7 +107,7 @@ The payoff is the contrast: ten minutes from Kenting's surf shops and night mark
 
 The park is a loop of boardwalks and stone steps threading through several named features, not a single trail to one viewpoint.
 
-- **Yin-Yang Cave** and **Fairy Cave** — walk-through limestone caverns, cool and dripping even at midday
+- **Yin-Yang Cave** and **Fairy Cave**. Walk-through limestone caverns, cool and dripping even at midday
 - **Giant banyan root systems** that have swallowed the rock, some old enough to form natural arches
 - A **High Point Observation Deck** with a rare vantage over the Bashi Channel and, on clear days, out toward the Pacific
 - Stretches of raw coral rock underfoot, pitted and sharp where the boardwalk gives way to natural surface
@@ -120,27 +120,27 @@ The park sits right at the southern edge of Kenting Village on Gongyuan Road, cl
 
 If you're coming from Hengchun or Kaohsiung, the Kenting Express bus and local Pingtung county buses both stop in Kenting Village; from the bus stop it's a short walk uphill to the entrance. Scooters are the most common way locals and visitors get around this stretch of the peninsula, and there's parking at the gate if you're driving.
 
-There's no MRT or rail link this far south — Kaohsiung is the nearest major transit hub, roughly two hours away by road.
+There's no MRT or rail link this far south, Kaohsiung is the nearest major transit hub, roughly two hours away by road.
 
 ## When to go
 
-The park keeps steady hours daily, 8am to 5pm, with no weekly closure — plan your visit around the crowd pattern instead of the calendar.
+The park keeps steady hours daily, 8am to 5pm, with no weekly closure. Plan your visit around the crowd pattern instead of the calendar.
 
 Weekdays stay calm across the entire day. Weekends are a different story: things fill up fast once tour buses arrive, and 10am to 4pm is when the boardwalks feel genuinely congested.
 
-If a weekend visit is your only option, arrive right at 8am — the window before 9am is noticeably quieter, and the light through the canopy is better for photos anyway.
+If a weekend visit is your only option, arrive right at 8am. The window before 9am is noticeably quieter, and the light through the canopy is better for photos anyway.
 
 Because this is a coastal forest, expect heat and humidity most of the year. Bring water; there's limited shade relief once you're deep in the loop.
 
 ## How to visit like a local
 
-This is a well-known, well-visited stop on the Kenting circuit, not a hidden pocket of the park — so timing, not secrecy, is your edge.
+This is a well-known, well-visited stop on the Kenting circuit, not a hidden pocket of the park, so timing, not secrecy, is your edge.
 
 - **Go early or go midweek.** The quietest window is any weekday during full opening hours, or the 8–9am slot on weekends before tour groups arrive.
-- **Pay at the gate.** Entrance fees here are typically cash or card at a staffed booth — bring small NT$ bills just in case card machines are down.
+- **Pay at the gate.** Entrance fees here are typically cash or card at a staffed booth. Bring small NT$ bills just in case card machines are down.
 - **Wear real shoes.** The coral rock sections get polished and slippery, especially after rain; flip-flops are a common regret here.
-- **Don't rush the caves.** Yin-Yang Cave and Fairy Cave are the parts people skip past — slow down, your eyes need a minute to adjust to the dark.
-- **Combine it with the village.** Most visitors pair this with a wander through Kenting's main strip afterward — it's close enough to do both in one afternoon without needing to move your scooter.
+- **Don't rush the caves.** Yin-Yang Cave and Fairy Cave are the parts people skip past, slow down, your eyes need a minute to adjust to the dark.
+- **Combine it with the village.** Most visitors pair this with a wander through Kenting's main strip afterward. It's close enough to do both in one afternoon without needing to move your scooter.
 
 The mistake most first-timers make is treating this as a quick photo stop on the way to the beach. Budget the full two hours, and you'll actually see why it's rated as highly as it is.
 

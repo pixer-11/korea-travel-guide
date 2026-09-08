@@ -56,13 +56,13 @@ Unconventional Diner isn't trying to be a greasy-spoon diner or a white-tableclo
 
 The room signals this immediately: exposed ductwork, a long marble-topped bar, pendant lights hanging low over booths. Then the menu arrives with lobster corn dogs next to biscuits and gravy. That tension between polished and playful is the whole point.
 
-With a 4.7 rating built from thousands of reviews, this isn't a quiet corner of Shaw anymore — expect a room that's usually humming.
+With a 4.7 rating built from thousands of reviews, this isn't a quiet corner of Shaw anymore. Expect a room that's usually humming.
 
 ## Getting there
 
 The address is 1207 9th St NW, right in the Shaw/Mount Vernon Triangle pocket of downtown DC.
 
-The closest Metro stop is Mt Vernon Sq/7th St–Convention Center, served by the Green and Yellow lines — a five-minute walk. Shaw–Howard University station on the Green line works too, about ten minutes on foot.
+The closest Metro stop is Mt Vernon Sq/7th St–Convention Center, served by the Green and Yellow lines, a five-minute walk. Shaw–Howard University station on the Green line works too, about ten minutes on foot.
 
 Street parking exists but is metered and competitive; there are a few pay lots nearby if you're driving in from the suburbs.
 
@@ -70,32 +70,32 @@ Street parking exists but is metered and competitive; there are a few pay lots n
 
 Breakfast and brunch are where this place built its reputation. The biscuits are flaky, slightly sweet, and served with cultured butter that melts into every crevice.
 
-Order the bacon-fat popcorn while you wait — it's salty, glossy, and gone before your coffee arrives. For something heartier:
+Order the bacon-fat popcorn while you wait. It's salty, glossy, and gone before your coffee arrives. For something heartier:
 
 - Fried chicken biscuit sandwich, with hot honey drizzled on top
 - The burger, griddled with a snap of char on the edges
 - Shrimp and grits, creamy with a kick of spice
 - Weekend brunch cocktails, including a rotating bloody mary
 
-Portions lean generous, and the kitchen doesn't shy away from butter or salt — this is comfort food elevated, not lightened.
+Portions lean generous, and the kitchen doesn't shy away from butter or salt. This is comfort food elevated, not lightened.
 
 ## When to go
 
-The kitchen runs one continuous stretch, 7am to 10pm, every day of the week — no awkward afternoon closure to plan around.
+The kitchen runs one continuous stretch, 7am to 10pm, every day of the week, no awkward afternoon closure to plan around.
 
 Weekday mornings before 9am tend to be calmer, before the office crowd and brunch regulars arrive. Weekend brunch, especially between 11am and 2pm, draws the thickest crowds and the longest waits.
 
-If you want the room to yourself, a weekday dinner around 5:30pm — right after opening for the evening rush — is a solid window. Late evening, after 8:30pm, also thins out considerably.
+If you want the room to yourself, a weekday dinner around 5:30pm, right after opening for the evening rush, is a solid window. Late evening, after 8:30pm, also thins out considerably.
 
 ## How to visit like a local
 
 This is a well-visited spot, not a hidden find, so the smart move is timing, not secrecy.
 
-Reservations are accepted and worth making for weekend brunch — walk-ins then often face a real wait. For breakfast or a weeknight dinner, walking in is usually fine.
+Reservations are accepted and worth making for weekend brunch. Walk-ins then often face a real wait. For breakfast or a weeknight dinner, walking in is usually fine.
 
 - Pay by card; it's standard here, though cash works too
 - Tipping follows the usual US restaurant norm, around 18–20%
-- Order at your table — this isn't counter service despite the diner name
+- Order at your table. This isn't counter service despite the diner name
 - Ask about the daily biscuit flavor, which changes and isn't always on the printed menu
 
 The biggest mistake visitors make is treating this as a quick-bite diner and rushing the experience. Kitchen turns tables at a normal restaurant pace, so budget an hour, not fifteen minutes.

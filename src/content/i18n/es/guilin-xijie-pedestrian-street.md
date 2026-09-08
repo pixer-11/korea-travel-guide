@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guilin-xijie-pedestrian-street
-srcHash: '997eaf99a26d'
+srcHash: '23b36d025ac7'
 title: 'Calle Peatonal Xijie: Guía de Viaje de Guilin (4.1★)'
 description: 'Xijie (calle Oeste) es el antiguo núcleo peatonal de Yangshuo: un callejón empedrado de fachadas de las dinastías Ming y Qing convertidas en cafés, bares y puestos de artesanía, encajado entre el río Li y los picos kársticos. 4.1★ (257 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Xijie (calle Oeste) es el antiguo núcleo peatonal de Yangshuo: un callejón empedrado de fachadas de las dinastías Ming y Qing convertidas en cafés, bares y puestos de artesanía, encajado entre el río Li y los picos kársticos. En realidad pertenece al condado de Yangshuo, dentro del área metropolitana de Guilin, a una hora u hora y media en autobús o coche desde la ciudad de Guilin. Calcula entre 2 y 3 horas tranquilas, más si te quedas a tomar una cerveza junto al río al atardecer.'

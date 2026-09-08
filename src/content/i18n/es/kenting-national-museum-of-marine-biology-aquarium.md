@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-national-museum-of-marine-biology-aquarium
-srcHash: 'f91c5bcf58c2'
+srcHash: '938353b07138'
 title: 'Museo Nacional de Biología Marina y Acuario: guía de viaje de Kenting'
 description: 'El Museo Nacional de Biología Marina y Acuario se encuentra en el distrito de Checheng, a unos 20 minutos en coche al norte de la localidad de Kenting, y abre todos los días de 9:00 a 18:00. 4,6★ (45.665 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Biología Marina y Acuario se encuentra en el distrito de Checheng, a unos 20 minutos en coche al norte de la localidad de Kenting, y abre todos los días de 9:00 a 18:00. Conviene reservar medio día para ver con calma el tanque de arrecife de coral, el túnel transitable y las exhibiciones polares con pingüinos. Para evitar lo peor de la aglomeración de fin de semana, que alcanza su punto máximo entre las 11:00 y las 17:00, lo mejor es llegar justo a las 9:00 o después de las 17:00.

@@ -76,15 +76,15 @@ The corrugated roof of Psar Chas has covered this stretch of Pokambor Avenue for
 
 ## Why it's worth your time
 
-This isn't a curated "cultural experience" — it's a working market that happens to also sell souvenirs. Under one roof you'll find dried fish stacked in silver trays, mounds of Kampot pepper, hand-loomed kramas, silver jewelry, and stalls of carved wooden Buddhas. The smell shifts lane by lane: fish sauce, then incense, then frying batter from a snack cart.
+This isn't a curated "cultural experience". It's a working market that happens to also sell souvenirs. Under one roof you'll find dried fish stacked in silver trays, mounds of Kampot pepper, hand-loomed kramas, silver jewelry, and stalls of carved wooden Buddhas. The smell shifts lane by lane: fish sauce, then incense, then frying batter from a snack cart.
 
 ## Getting there
 
-Old Market anchors the neighborhood of the same name, on the west bank of the Siem Reap River. It's a 5-10 minute walk from most guesthouses in the Old Market/Pub Street area, and a short tuk-tuk ride (a dollar or two) from hotels further out along Sivatha Boulevard. There's no metro here — everyone arrives on foot, by tuk-tuk, or bicycle.
+Old Market anchors the neighborhood of the same name, on the west bank of the Siem Reap River. It's a 5-10 minute walk from most guesthouses in the Old Market/Pub Street area, and a short tuk-tuk ride (a dollar or two) from hotels further out along Sivatha Boulevard. There's no metro here, everyone arrives on foot, by tuk-tuk, or bicycle.
 
 ## What to see and eat
 
-Wander the produce section first, even if you're not buying — it's the most visually alive part of the market, with pyramids of dragon fruit and baskets of morning glory. Then head toward the textile and souvenir stalls for scarves, sarongs, and stone carvings.
+Wander the produce section first, even if you're not buying. It's the most visually alive part of the market, with pyramids of dragon fruit and baskets of morning glory. Then head toward the textile and souvenir stalls for scarves, sarongs, and stone carvings.
 
 Food stalls tucked in the market's edges sell:
 
@@ -97,21 +97,21 @@ Bargaining is expected on souvenirs and textiles, less so on prepared food.
 
 ## When to go
 
-The market opens at 7am and stays open until 9pm every day, so you have a wide window to work with. Crowd data shows it's calmest between 7am and 9am on both weekdays and weekends — that's your best shot at photographing the produce stalls without a wall of shoulders in frame.
+The market opens at 7am and stays open until 9pm every day, so you have a wide window to work with. Crowd data shows it's calmest between 7am and 9am on both weekdays and weekends. That's your best shot at photographing the produce stalls without a wall of shoulders in frame.
 
 Avoid arriving between 6pm and 9pm on weekends if you want to actually move through the aisles. That's when day-trippers and dinner crowds from nearby Pub Street pour in, and the narrow lanes bottleneck fast.
 
 ## How to visit like a local
 
-Old Market is well-known and busy most of the day, so don't expect a quiet discovery — the trick is timing, not secrecy.
+Old Market is well-known and busy most of the day, so don't expect a quiet discovery. The trick is timing, not secrecy.
 
 - **Go early.** The 7am–9am window is when stallholders are still setting up produce and the aisles are walkable. It's also when you'll see the market as locals actually use it, buying breakfast ingredients rather than fridge magnets.
 - **Bargain gently.** Quoting a price and countering with roughly half is normal for souvenirs; smile, don't get aggressive, and settle somewhere in the middle.
 - **Carry small bills.** US dollars and Cambodian riel are both used interchangeably here, and vendors often can't break large notes.
 - **Skip the hard sell politely.** A simple "no thank you" while continuing to walk works better than stopping to explain.
-- **Eat where the smoke is.** The food stalls with the most turnover — and the biggest plumes of grill smoke — are almost always the best bet for something fresh.
+- **Eat where the smoke is.** The food stalls with the most turnover, and the biggest plumes of grill smoke, are almost always the best bet for something fresh.
 
-The mistake most visitors make is treating this purely as a souvenir stop and rushing through in fifteen minutes. Slow down at the produce and food sections — that's where the market still feels like itself, unfiltered for tourists.
+The mistake most visitors make is treating this purely as a souvenir stop and rushing through in fifteen minutes. Slow down at the produce and food sections. That's where the market still feels like itself, unfiltered for tourists.
 
 ## Nearby to combine with your visit
 

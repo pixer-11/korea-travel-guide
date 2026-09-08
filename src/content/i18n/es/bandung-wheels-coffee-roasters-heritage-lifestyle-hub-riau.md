@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau
-srcHash: 'a62b6932c438'
+srcHash: '232208a71ec0'
 title: 'Wheels Coffee Roasters - Heritage Lifestyle Hub (Riau): Guía de viaje de Bandung'
 description: El Heritage Lifestyle Hub de Wheels Coffee Roasters se encuentra en Jl. Riau (oficialmente Jl. L.L.R.E. Martadinata No. 65), en Bandung Wetan.
 quickAnswer: El Heritage Lifestyle Hub de Wheels Coffee Roasters se encuentra en Jl. Riau (oficialmente Jl. L.L.R.E. Martadinata No. 65) en Bandung Wetan, dentro de un edificio restaurado de la época colonial holandesa; es uno de los locales de café con más reseñas de Bandung (calificación de 4.9, más de 18,000 reseñas). Ve un día entre semana por la mañana para realmente conseguir asiento, pide en el mostrador y reserva entre 1 y 1.5 horas para disfrutar del café, la comida y la arquitectura patrimonial sin la aglomeración del fin de semana.

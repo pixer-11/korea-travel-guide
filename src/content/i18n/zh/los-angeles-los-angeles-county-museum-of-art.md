@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '41c8bc247e2f'
+srcHash: '99e461937b84'
 title: 洛杉矶郡艺术博物馆（LACMA）旅行指南（4.6★）
 description: LACMA坐落于威尔希尔大道（Wilshire Boulevard），占地20英亩，以布罗德当代艺术博物馆（Broad Contemporary Art Museum）和门前标志性的"城市之光"（Urban Light）路灯装置为核心。4.6★（21,013条评价）——游客怎么说、开放时间与实用贴士。
 quickAnswer: LACMA坐落于威尔希尔大道，占地20英亩，以布罗德当代艺术博物馆和门前标志性的"城市之光"路灯装置为核心。除周三外每天开放，工作日最清静的时段是下午6点到7点——周末从中午到闭馆都很热闹，所以最好选择上午前往。哪怕只想看永久馆藏的一部分，也建议至少留出三个小时。

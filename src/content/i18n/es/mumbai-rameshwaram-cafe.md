@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-rameshwaram-cafe
-srcHash: 'b3d080ef8a71'
+srcHash: '69a7591e08a1'
 title: 'Rameshwaram Cafe: guía de viaje de Mumbai'
 description: 'Rameshwaram Cafe en Mumbai, India: qué es, dónde está y cómo visitarlo, uno de los locales del momento.'
 quickAnswer: Rameshwaram Cafe, la cadena surindia nacida en Bengaluru y famosa por sus dosas de benne (mantequilla), ha abierto un local en Mumbai que ya genera colas considerables. Conviene ir temprano en un día de semana o estar preparado para esperar; antes de acercarse, confirme la dirección exacta, el horario y si se pueden hacer reservas, ya que los datos de un local recién abierto pueden cambiar durante los primeros meses.

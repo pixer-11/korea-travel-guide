@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-jo-s-burger
-srcHash: 'da847c37f195'
+srcHash: '2f7402012b78'
 title: 'Jo''s Burger: dónde comer en Marsella'
 description: 'Jo''s Burger en Marsella (Francia) — un lugar nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Jo''s Burger es un local de hamburguesas gourmet recién inaugurado en la rue Sainte, en la animada franja gastronómica de Marsella justo al sur del Vieux-Port, dirigido por alguien que se autoproclama campeón mundial de la hamburguesa. Ya está generando revuelo entre los locales, así que hay que contar con espera en las horas punta: conviene ir justo al empezar el servicio o más tarde por la noche, y confirmar el horario actual y si aceptan reservas antes de acercarse.'

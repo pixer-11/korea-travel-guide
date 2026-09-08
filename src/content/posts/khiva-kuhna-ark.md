@@ -81,7 +81,7 @@ draft: false
 updatedDate: '2026-09-07'
 ---
 
-You spot Kuhna Ark before you reach it — a long mud-brick wall punctuated by a gateway flanked by two round towers, standing at the western edge of Ichan Qala, Khiva's walled inner city. This was the seat of the Khivan khans, part fortress and part residence, built up over centuries as successive rulers added rooms, courtyards and defensive walls.
+You spot Kuhna Ark before you reach it, a long mud-brick wall punctuated by a gateway flanked by two round towers, standing at the western edge of Ichan Qala, Khiva's walled inner city. This was the seat of the Khivan khans, part fortress and part residence, built up over centuries as successive rulers added rooms, courtyards and defensive walls.
 
 ## Why it's worth the detour
 
@@ -98,28 +98,28 @@ The complex unfolds in a few distinct spaces, each worth pausing in:
 - **The mint (zarbxona)**, now a small museum of coins and everyday objects
 - **The watchtower**, climbed via a steep staircase for a rooftop view over Ichan Qala's domes and minarets
 
-That last climb is the payoff. From the top you get the clearest orientation in the city — Kalta Minor's turquoise band to one side, the Juma Mosque's flat roof and wooden columns somewhere in the maze below, and the mud-brick walls tracing the old city's rectangle.
+That last climb is the payoff. From the top you get the clearest orientation in the city, Kalta Minor's turquoise band to one side, the Juma Mosque's flat roof and wooden columns somewhere in the maze below, and the mud-brick walls tracing the old city's rectangle.
 
 ## Getting there
 
-Kuhna Ark sits inside Ichan Qala's western wall, an easy walk from almost anywhere in the old town — Khiva's whole historic core is compact enough to cross on foot in fifteen minutes. If you're arriving from outside the city, taxis and shared vans from Urgench (the nearest airport and rail hub, about 35 minutes away) drop off near the West Gate, right by the Ark.
+Kuhna Ark sits inside Ichan Qala's western wall, an easy walk from almost anywhere in the old town, Khiva's whole historic core is compact enough to cross on foot in fifteen minutes. If you're arriving from outside the city, taxis and shared vans from Urgench (the nearest airport and rail hub, about 35 minutes away) drop off near the West Gate, right by the Ark.
 
 ## When to go
 
-The site opens daily at 9am and closes at 5pm, so plan your visit within that window — there's no late-evening access. Given its under-the-radar status compared to Khiva's headline monuments, arriving close to opening time gives you the throne room and towers largely to yourself before day-trip groups filter in from Urgench.
+The site opens daily at 9am and closes at 5pm, so plan your visit within that window. There's no late-evening access. Given its under-the-radar status compared to Khiva's headline monuments, arriving close to opening time gives you the throne room and towers largely to yourself before day-trip groups filter in from Urgench.
 
-Midday sun in Khiva, especially from late spring through summer, makes the roofless courtyards genuinely hot with little shade. An early visit isn't just about crowds — it's more comfortable on your feet and your eyes.
+Midday sun in Khiva, especially from late spring through summer, makes the roofless courtyards genuinely hot with little shade. An early visit isn't just about crowds. It's more comfortable on your feet and your eyes.
 
 ## How to visit like a local
 
-Buy your ticket at the entrance near the West Gate rather than trying to book ahead — there's no need, and reception is casual rather than a formal queue system.
+Buy your ticket at the entrance near the West Gate rather than trying to book ahead. There's no need, and reception is casual rather than a formal queue system.
 
 - Pay in Uzbek som; small vendors and ticket counters in Khiva often prefer cash even where cards are technically accepted
-- Wear socks you don't mind showing — some interior rooms with carpeted floors expect shoes off
+- Wear socks you don't mind showing, some interior rooms with carpeted floors expect shoes off
 - Climb the watchtower before midday for the best light on the tilework below and cooler air on the exposed stairs
 - Ask the ticket desk whether a combined pass covers other Ichan Qala sites; Khiva often bundles admission across several monuments, which saves both money and repeat queuing
-- Don't rush the mint museum — it's the room most tourists skip, and it's where you get a sense of daily palace life rather than just architecture
+- Don't rush the mint museum. It's the room most tourists skip, and it's where you get a sense of daily palace life rather than just architecture
 
 The mistake most first-time visitors make is treating the Ark as a five-minute photo stop on the way to Kalta Minor. Slow down here. The blue-tiled mosque interior and the view from the watchtower are the two things you'll remember once you've left Khiva, and both take a bit of patience to appreciate properly.
 
-Give yourself a full 45 to 60 minutes, longer if you enjoy climbing towers for views. Combine it with a walk along the western wall afterward — it's one of the few stretches of Ichan Qala's fortifications you can still walk beside at ground level, watching the mud-brick catch the late-afternoon light.
+Give yourself a full 45 to 60 minutes, longer if you enjoy climbing towers for views. Combine it with a walk along the western wall afterward. It's one of the few stretches of Ichan Qala's fortifications you can still walk beside at ground level, watching the mud-brick catch the late-afternoon light.

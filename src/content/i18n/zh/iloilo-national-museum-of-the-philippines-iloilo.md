@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: iloilo-national-museum-of-the-philippines-iloilo
-srcHash: '766ce6550b3f'
+srcHash: '55516a216ae9'
 title: 菲律宾国家博物馆怡朗分馆旅行指南
 description: 菲律宾国家博物馆怡朗分馆坐落在怡朗旧海关大楼内，就在河滨大道邦尼法西奥大道（Bonifacio Drive）旁。4.7星（169条评价）——看看游客怎么说，附开放时间与游览贴士。
 quickAnswer: 菲律宾国家博物馆怡朗分馆坐落在怡朗旧海关大楼内，就在河滨大道邦尼法西奥大道（Bonifacio Drive）旁。这里每天上午9点到下午5点开放，免费入场，1.5到2小时便能从容看完全部展览。如果想独享展厅，建议选平日上午前往——即便按怡朗的标准来看，这里也是个安静低调、鲜为人知的好去处。

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-kodaline-farewell-tour
-srcHash: 'a55dbd362bbf'
+srcHash: '267f2e52efb9'
 title: '코다라인 페어웰 투어 방콕 공연: 알아둘 사항'
 description: 아일랜드 밴드 코다라인의 페어웰 투어는 2026년 8월 28~29일 이틀간 수쿰빗의 엠스피어 안에 위치한 UOB 라이브에서 방콕 공연이 예정되어 있었습니다.
 quickAnswer: 아일랜드 밴드 코다라인의 페어웰 투어는 2026년 8월 28~29일 이틀 밤에 걸쳐 수쿰빗 로드(Sukhumvit Road)에 위치한 엠스피어(EmSphere) 안의 UOB 라이브(UOB Live)에서 방콕 공연이 열릴 예정이었습니다. 이번 공연은 동남아시아를 도는 밴드의 마지막 투어로 소개되었으며, 'All I Want'와 'High Hopes' 같은 곡들로 채워온 10여 년의 여정을 마무리하는 자리로 홍보되었습니다. UOB 라이브는 프롬퐁 BTS역(Phrom Phong BTS Station)에서 스카이워크로 바로 연결되는, 공연을 위해 지어진 전용 아레나입니다.

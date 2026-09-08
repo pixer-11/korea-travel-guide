@@ -71,50 +71,50 @@ updatedDate: '2026-08-31'
 ---
 ## Why go
 
-Chiayi Park isn't just a green lung for the city — it's a layered timeline. Japanese colonial-era shrine ruins sit beside modern fountains, a Confucius temple, and a botanical garden feel that shifts block by block.
+Chiayi Park isn't just a green lung for the city. It's a layered timeline. Japanese colonial-era shrine ruins sit beside modern fountains, a Confucius temple, and a botanical garden feel that shifts block by block.
 
 You notice the scale first. It swallows joggers, tai chi groups, and school kids on scooters without ever feeling packed, even on a busy afternoon.
 
-Stone lanterns line certain paths — remnants of the old Chiayi Shrine that once stood here. Banyan trees with roots like folded curtains shade the benches, and cicadas drown out traffic noise almost completely once you're a few minutes in.
+Stone lanterns line certain paths, remnants of the old Chiayi Shrine that once stood here. Banyan trees with roots like folded curtains shade the benches, and cicadas drown out traffic noise almost completely once you're a few minutes in.
 
 ## What to see
 
 The park rewards slow wandering rather than a checklist, but a few spots anchor a visit.
 
-- **Chiayi Confucius Temple** — a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance
-- **Sun Shooting Tower** (射日塔) — a striking modern tower with an observation deck overlooking the treetops
-- **Historic shrine ruins** — stone torii-style gates and lantern bases from the Japanese colonial period
-- **Ponds and arched bridges** — koi drifting under red-lacquered footbridges, especially photogenic near midday light
-- **Playground and open lawns** — swings, slides, and shaded seating for families
+- **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance
+- **Sun Shooting Tower** (射日塔), a striking modern tower with an observation deck overlooking the treetops
+- **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period
+- **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light
+- **Playground and open lawns**, swings, slides, and shaded seating for families
 
 The Chiayi Municipal Museum sits right at the park's edge, so it's easy to fold a short indoor stop into the same outing.
 
 ## Getting there
 
-Chiayi Park sits in the East District, a short taxi or bike ride from Chiayi Train Station — figure on roughly 15–20 minutes by bike or a quick cab.
+Chiayi Park sits in the East District, a short taxi or bike ride from Chiayi Train Station, figure on roughly 15–20 minutes by bike or a quick cab.
 
 Public buses run from the train station area toward the park; ask your hotel for the current route number, since these shift occasionally.
 
-Rental bikes (YouBike stations dot the city) are the easiest way in — Chiayi is flat, and the ride out feels like part of the sightseeing rather than a commute.
+Rental bikes (YouBike stations dot the city) are the easiest way in, Chiayi is flat, and the ride out feels like part of the sightseeing rather than a commute.
 
 ## When to go
 
-The park never closes — it's open 24 hours every day of the week, which matters more here than at most attractions.
+The park never closes. It's open 24 hours every day of the week, which matters more here than at most attractions.
 
-Early morning is genuinely rewarding: soft light through the banyan canopy, locals doing tai chi, almost no noise beyond birdsong. Evenings bring a different crowd — walkers, families cooling off after dinner, the shrine ruins lit dramatically after dark.
+Early morning is genuinely rewarding: soft light through the banyan canopy, locals doing tai chi, almost no noise beyond birdsong. Evenings bring a different crowd, walkers, families cooling off after dinner, the shrine ruins lit dramatically after dark.
 
 Weekends between 8am and 8pm are the busiest stretch, so if you want the paths to yourself, aim for a weekday morning or a late weekend evening instead.
 
 ## How to visit like a local
 
-Chiayi Park is genuinely popular with both residents and visitors, so don't expect solitude — plan around the crowds rather than hoping to avoid them entirely.
+Chiayi Park is genuinely popular with both residents and visitors, so don't expect solitude. Plan around the crowds rather than hoping to avoid them entirely.
 
 - **Timing**: Arrive before 8am or after 8pm on weekends to dodge the peak window; weekday mornings are consistently calmer.
 - **Payment**: Keep cash or a card handy for snacks or bike rentals near the park.
 - **Etiquette**: Keep noise down near the Confucius Temple and shrine ruins; these are treated as heritage sites, not just backdrops.
 - **Ordering/renting**: If you grab a YouBike, dock it at a station near the park entrance rather than wandering with it through pedestrian paths.
-- **Common mistake**: Tourists often rush through in 20 minutes aiming only for photos at the tower. Slow down — the side paths past the ponds and lantern ruins are where the park's history actually shows.
+- **Common mistake**: Tourists often rush through in 20 minutes aiming only for photos at the tower. Slow down, the side paths past the ponds and lantern ruins are where the park's history actually shows.
 
 Bring water and bug spray in summer; the tree cover is generous, but Chiayi's heat and humidity build fast by midmorning. A folding fan or hat helps more than you'd think.
 
-If you're combining sights, the Sun Shooting Tower's observation deck gives you a useful orientation point — from up there you can spot the museum, the temple roofline, and the general shape of the park before diving back into it on foot.
+If you're combining sights, the Sun Shooting Tower's observation deck gives you a useful orientation point, from up there you can spot the museum, the temple roofline, and the general shape of the park before diving back into it on foot.

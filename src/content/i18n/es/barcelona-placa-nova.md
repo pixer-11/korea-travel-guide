@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-placa-nova
-srcHash: '0de6e857fdb6'
+srcHash: '1834b271adfb'
 title: 'Plaça Nova: Guía de viaje de Barcelona'
 description: Plaça Nova es la pequeña plaza bordeada de palmeras justo donde las murallas medievales de Barcelona se encuentran con el Barrio Gótico, encajada entre la Catedral y la Carrer del Bisbe.
 quickAnswer: Plaça Nova es la pequeña plaza bordeada de palmeras justo donde las murallas medievales de Barcelona se encuentran con el Barrio Gótico, encajada entre la Catedral y la Carrer del Bisbe. Se puede ver fácilmente en 15-20 minutos, es mejor visitarla a primera hora de la mañana antes de que la Catedral se llene de gente, y merece la pena combinarla con un paseo por la Carrer del Bisbe hasta la Plaça Sant Jaume.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: clarke-quay-clarke-quay-jetty
-srcHash: '9326f396941a'
+srcHash: 'a1ca27fd5a2f'
 title: 클락 키 선착장(Clarke Quay Jetty) 여행 가이드
 description: 클락 키 선착장(Clarke Quay Jetty)은 싱가포르 강(Singapore River)에 위치한 작은 승선 지점으로, 싱가포르 리버 크루즈(Singapore River Cruise) 붐보트가 클락 키의 복원된 옛 창고 거리를 따라 승객을 태우고 내려주는 곳입니다.
 quickAnswer: 클락 키 선착장(Clarke Quay Jetty)은 싱가포르 강(Singapore River)에 위치한 작은 승선 지점으로, 싱가포르 리버 크루즈(Singapore River Cruise) 붐보트가 클락 키의 복원된 옛 창고 거리를 따라 승객을 태우고 내려주는 곳입니다. 리버 크루즈를 탈 수 있고, 리드 브리지(Read Bridge)의 인파가 줄어드는 모습을 볼 수 있으며, 부두의 캐노피 조명이 켜지는 것을 볼 수 있는 해 지기 전 늦은 오후에 방문하는 것이 가장 좋습니다. 선착장 자체를 둘러보는 데는 20~30분, 크루즈 탑승을 기다린다면 최대 1시간 정도 예상하세요.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-flavors-grill-abu-dhabi
-srcHash: '60e92926c042'
+srcHash: 'f5060c3d0fdf'
 title: Flavors Grill：阿布扎比美食推荐（评分4.9★）
 description: Flavors Grill阿布扎比店位于米纳扎耶德（Mina Zayed）/自贸区2号（Free Zone 2）港口附近的Mina Street上，评分高达4.9星、评价数超过3.9万条，以炭烤肉类和综合烤肉拼盘闻名，价格中等（价格等级约为3）。
 quickAnswer: Flavors Grill阿布扎比店位于米纳扎耶德（Mina Zayed）/自贸区2号（Free Zone 2）港口附近的Mina Street上，是一家生意红火、评分高达4.9星（评价数超3.9万条）的烤肉餐厅，以炭烤肉类和综合烤肉拼盘闻名，价位中等（价格等级约为3）。建议选在工作日刚开门时或午后前往，这样能避开晚餐高峰；如果晚上8点以后才到，很可能需要拼桌或排队等位。

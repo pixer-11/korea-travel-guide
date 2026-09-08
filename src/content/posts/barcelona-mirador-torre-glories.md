@@ -87,19 +87,19 @@ updatedDate: '2026-08-28'
 ---
 ## Why go
 
-You spot the tower long before you reach it. Its curved glass skin, dotted with thousands of colored panels, catches the light differently every hour — muted silver at midday, a deep blue-violet glow after dark. The Mirador Torre Glòries puts you on an open-air deck near the top of that skin, 125 meters above the Plaça de les Glòries Catalanes, with a 360-degree sweep that takes in Sagrada Família's spires, the Mediterranean, and the grid of the Eixample laid out like a circuit board.
+You spot the tower long before you reach it. Its curved glass skin, dotted with thousands of colored panels, catches the light differently every hour, muted silver at midday, a deep blue-violet glow after dark. The Mirador Torre Glòries puts you on an open-air deck near the top of that skin, 125 meters above the Plaça de les Glòries Catalanes, with a 360-degree sweep that takes in Sagrada Família's spires, the Mediterranean, and the grid of the Eixample laid out like a circuit board.
 
 ## Getting there
 
 The tower sits on Avinguda Diagonal in Sant Martí, at the eastern edge of the Eixample. The nearest metro is Glòries, on Line 1 (red), a two-minute walk from the entrance. Trams T4 and T5 also stop right at Glòries if you're coming from Poblenou or the Fòrum.
 
-If you're walking from Sagrada Família, it's a flat, unglamorous 20-minute stroll down Avinguda Diagonal — not scenic, but easy to combine with a visit to that other landmark.
+If you're walking from Sagrada Família, it's a flat, unglamorous 20-minute stroll down Avinguda Diagonal, not scenic, but easy to combine with a visit to that other landmark.
 
 ## What you'll see up top
 
 The ride up is part of the show: a glass elevator lined with LED patterns that shift as you rise. At the top, the deck wraps around the tower's tapered crown, open to the sky in sections and shielded by glass elsewhere.
 
-Panels along the railing help you pick out landmarks — useful, since the view is genuinely disorienting at first. Look for:
+Panels along the railing help you pick out landmarks, useful, since the view is genuinely disorienting at first. Look for:
 
 - Sagrada Família's cranes and spires to the northwest
 - The Mediterranean and Port Olímpic towers to the southeast
@@ -110,11 +110,11 @@ Plan on 45 minutes to an hour, more if you linger for sunset.
 
 ## When to go
 
-Check current opening hours before you go, since they can vary by season. A late closing time matters — this is one of the few Barcelona viewpoints where you can watch the sky turn orange and then watch the city switch on its lights, all from the same spot.
+Check current opening hours before you go, since they can vary by season. A late closing time matters. This is one of the few Barcelona viewpoints where you can watch the sky turn orange and then watch the city switch on its lights, all from the same spot.
 
 Weekday evenings between 8pm and 10pm are the quietest stretch, according to foot-traffic patterns for the site. Weekends stay busier across the whole day, from opening at 10am right through to close, so there isn't a reliably quiet weekend window.
 
-If sunset views matter to you, check that day's sunset time before booking — in summer that's closer to 9pm, in winter closer to 6pm.
+If sunset views matter to you, check that day's sunset time before booking, in summer that's closer to 9pm, in winter closer to 6pm.
 
 ## How to visit like a local
 
@@ -124,12 +124,12 @@ This is a well-known stop on Barcelona's modern-architecture circuit, not a hidd
 - **Go after 8pm on a weekday** for the thinnest crowds and a shot at watching the city light up in relative calm.
 - **Pay by card or phone.** Like most Barcelona attractions, cash isn't necessary and contactless is the norm.
 - **Skip the umbrella and the tripod.** Wind picks up at height and staff generally ask visitors to keep bags and gear compact on the open sections.
-- **Don't confuse it with the old Torre Agbar viewing tower** from years back — the Mirador is the current, rebranded observation experience inside the same building, so search for it by this exact name when booking.
+- **Don't confuse it with the old Torre Agbar viewing tower** from years back. The Mirador is the current, rebranded observation experience inside the same building, so search for it by this exact name when booking.
 
-The mistake most first-timers make is treating it as a quick add-on between Sagrada Família and the beach. Give it its own hour, ideally timed to the light — the color-shifting facade and the elevator ride are as much a part of the experience as the view itself.
+The mistake most first-timers make is treating it as a quick add-on between Sagrada Família and the beach. Give it its own hour, ideally timed to the light, the color-shifting facade and the elevator ride are as much a part of the experience as the view itself.
 
 ## Nearby to combine with your visit
 
 Glòries sits at a genuinely useful junction. The Encants Barcelona flea market, one of Europe's oldest, is a five-minute walk and worth an hour of browsing on its own.
 
-Poblenou's beach and its grid of converted textile-factory streets lie beyond the tower, an easy tram or 20-minute walk east. Sagrada Família anchors the other end of Diagonal, making a natural morning-tower, afternoon-basilica pairing — just check both venues' current entry times before you plan the order.
+Poblenou's beach and its grid of converted textile-factory streets lie beyond the tower, an easy tram or 20-minute walk east. Sagrada Família anchors the other end of Diagonal, making a natural morning-tower, afternoon-basilica pairing, just check both venues' current entry times before you plan the order.

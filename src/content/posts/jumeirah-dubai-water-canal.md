@@ -115,26 +115,26 @@ updatedDate: '2026-09-06'
 ---
 ## Why go
 
-The canal isn't a relic — it's a 2016 engineering project that cut a new channel from Business Bay out to the Arabian Gulf. What you get is a ribbon of turquoise water threading between glass towers and low Jumeirah villas, crossed by sculptural bridges that light up at night.
+The canal isn't a relic. It's a 2016 engineering project that cut a new channel from Business Bay out to the Arabian Gulf. What you get is a ribbon of turquoise water threading between glass towers and low Jumeirah villas, crossed by sculptural bridges that light up at night.
 
 It's less about one landmark and more about the walk itself. Joggers pass paddleboarders. Kids chase pigeons under palm-lined benches. The skyline reflects off the water in long, wobbling streaks.
 
 ## Getting there
 
-The Al Safa stretch, near the address on Jumeira Second, is the easiest entry point for most visitors. Taxis and ride-hailing apps are the simplest way in — there's no metro station directly on this section of the canal.
+The Al Safa stretch, near the address on Jumeira Second, is the easiest entry point for most visitors. Taxis and ride-hailing apps are the simplest way in. There's no metro station directly on this section of the canal.
 
 If you're coming from Downtown Dubai, a taxi takes roughly 15–20 minutes depending on traffic. Parking is available near Safa Park and the Dubai Water Canal Mall if you're driving yourself.
 
 ## What to see and do
 
-Walk or cycle the waterside promenade — paved paths run along both banks with dedicated lanes for pedestrians and bikes. The Tolerance Bridge and Business Bay Bridge are the two most photographed crossings, both dramatically lit after dark.
+Walk or cycle the waterside promenade, paved paths run along both banks with dedicated lanes for pedestrians and bikes. The Tolerance Bridge and Business Bay Bridge are the two most photographed crossings, both dramatically lit after dark.
 
 Highlights along the route:
 
-- **Dubai Water Canal Mall** — shops, cafés, and shaded seating right on the water
-- **Safa Park** — green space backing onto the canal, good for a break
-- **Bridges** — several pedestrian crossings offer skyline views back toward Downtown
-- **Water taxis (abras)** — a cheap way to see the canal from the water itself
+- **Dubai Water Canal Mall**, shops, cafés, and shaded seating right on the water
+- **Safa Park**, green space backing onto the canal, good for a break
+- **Bridges**, several pedestrian crossings offer skyline views back toward Downtown
+- **Water taxis (abras)**, a cheap way to see the canal from the water itself
 
 Rent a bike or e-scooter from stands along the path if you want to cover more ground than a walk allows.
 
@@ -142,21 +142,21 @@ Rent a bike or e-scooter from stands along the path if you want to cover more gr
 
 Mornings are the most comfortable, especially outside winter, before the Gulf heat sets in. Early light also makes the water look its best for photos.
 
-On weekends, the canal is quietest between 7am and 3pm — ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast.
+On weekends, the canal is quietest between 7am and 3pm, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast.
 
-Evenings have their own appeal despite the crowds. The bridges and towers light up, temperatures drop, and the promenade takes on a completely different mood — busier, but atmospheric.
+Evenings have their own appeal despite the crowds. The bridges and towers light up, temperatures drop, and the promenade takes on a completely different mood, busier, but atmospheric.
 
 ## How to visit like a local
 
 Locals treat the canal as a fitness loop, not a sightseeing checklist stop, so timing your visit like a runner rather than a tourist pays off. Early morning or after sunset is when the path feels most natural to use.
 
-Cash isn't really needed here — cafés and mall shops along the route take cards, and bike-rental stands typically run through an app or contactless payment. There's no ticket booth or entry gate anywhere on the canal itself; it's a public walkway, free at any hour.
+Cash isn't really needed here, cafés and mall shops along the route take cards, and bike-rental stands typically run through an app or contactless payment. There's no ticket booth or entry gate anywhere on the canal itself; it's a public walkway, free at any hour.
 
 A few practical notes:
 
-- Skip midday between roughly May and September — the heat is genuinely dangerous for walking, not just uncomfortable
+- Skip midday between roughly May and September. The heat is genuinely dangerous for walking, not just uncomfortable
 - Bring water even in cooler months; shade is limited on long stretches
-- Stick to marked cycling lanes if you're on a bike or scooter — pedestrians use the same path
+- Stick to marked cycling lanes if you're on a bike or scooter, pedestrians use the same path
 - The mistake most visitors make is treating this as a quick five-minute photo stop; the canal rewards a proper 45-minute walk between two bridges
 
-Because it's rated as well-known rather than a hidden find, expect other visitors and joggers throughout the day. That's part of the texture — it's a working piece of city infrastructure as much as a sight, and it's busiest exactly when Dubai residents are out using it themselves.
+Because it's rated as well-known rather than a hidden find, expect other visitors and joggers throughout the day. That's part of the texture. It's a working piece of city infrastructure as much as a sight, and it's busiest exactly when Dubai residents are out using it themselves.

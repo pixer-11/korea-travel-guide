@@ -52,17 +52,17 @@ faq:
 aiGenerated: true
 draft: false
 ---
-You feel the scale before you understand it. Walking down Avenida de la Constitución, the cathedral's flying buttresses and pinnacles rise over the orange trees of the Patio de los Naranjos, and the sheer footprint of the building — officially the largest Gothic cathedral in the world by volume — makes the surrounding plaza feel small. Locals still call the bell tower "la Giralda," a name that gives away the building's real history: this was the minaret of the Almohad mosque that stood here before the Christian reconquest, and the cathedral that replaced it in the 15th century was built specifically, according to the chapter's own founding statement, so grand that "those who see it built will think we were mad."
+You feel the scale before you understand it. Walking down Avenida de la Constitución, the cathedral's flying buttresses and pinnacles rise over the orange trees of the Patio de los Naranjos, and the sheer footprint of the building, officially the largest Gothic cathedral in the world by volume, makes the surrounding plaza feel small. Locals still call the bell tower "la Giralda," a name that gives away the building's real history: this was the minaret of the Almohad mosque that stood here before the Christian reconquest, and the cathedral that replaced it in the 15th century was built specifically, according to the chapter's own founding statement, so grand that "those who see it built will think we were mad."
 
 ## Why go
 
-Inside, the nave rises into shadow, ribbed vaulting disappearing above rows of chapels thick with gilded altarpieces. The Capilla Mayor holds a retable considered one of the largest and most elaborate in the world, a wall of carved and gilded wood scenes taking up the entire east end. Near the south transept, four larger-than-life bronze royal pallbearers hoist an ornate casket at shoulder height — the tomb of Christopher Columbus, whose remains (with some historical debate) are believed to rest here.
+Inside, the nave rises into shadow, ribbed vaulting disappearing above rows of chapels thick with gilded altarpieces. The Capilla Mayor holds a retable considered one of the largest and most elaborate in the world, a wall of carved and gilded wood scenes taking up the entire east end. Near the south transept, four larger-than-life bronze royal pallbearers hoist an ornate casket at shoulder height, the tomb of Christopher Columbus, whose remains (with some historical debate) are believed to rest here.
 
 The mix of Gothic bones, Mudejar craftsmanship, and later Renaissance and Baroque additions is what makes this building unlike any other cathedral in Spain.
 
 ## The Giralda climb
 
-Instead of stairs, the tower has a ramp — sloped switchbacks originally built so the muezzin, and later cathedral officials, could ride up on horseback or mule. It's an easy, if long, climb, and it opens onto a viewing gallery just below the belfry with a wraparound panorama over Seville's terracotta rooftops, the Alcázar's gardens, and, on clear days, out toward the Guadalquivir river. Give the tower climb alone about 30–45 minutes if you linger at the top, and budget 1.5–2 hours for the full cathedral visit.
+Instead of stairs, the tower has a ramp, sloped switchbacks originally built so the muezzin, and later cathedral officials, could ride up on horseback or mule. It's an easy, if long, climb, and it opens onto a viewing gallery just below the belfry with a wraparound panorama over Seville's terracotta rooftops, the Alcázar's gardens, and, on clear days, out toward the Guadalquivir river. Give the tower climb alone about 30–45 minutes if you linger at the top, and budget 1.5–2 hours for the full cathedral visit.
 
 ## Getting there
 
@@ -72,10 +72,10 @@ If you're coming by regional or high-speed train, Santa Justa station is about a
 
 ## When to go
 
-Early morning, right at opening, is consistently the calmest time to be inside — tour groups tend to arrive from mid-morning onward and build through midday. If mornings don't work, the final couple of hours before closing are the other reliable lull, once day-trip groups have moved on. Avoid midday in high season (roughly May through October) when both heat outside and crowds inside peak together. Seville's summer heat is genuinely brutal by early afternoon, which is one more reason to front-load your visit.
+Early morning, right at opening, is consistently the calmest time to be inside, tour groups tend to arrive from mid-morning onward and build through midday. If mornings don't work, the final couple of hours before closing are the other reliable lull, once day-trip groups have moved on. Avoid midday in high season (roughly May through October) when both heat outside and crowds inside peak together. Seville's summer heat is genuinely brutal by early afternoon, which is one more reason to front-load your visit.
 
 ## How to visit like a local
 
-Buy your timed-entry ticket online in advance rather than joining the walk-up line at the door — this is one of the most-reviewed attractions in Spain, and the ticket window queue can eat 30–45 minutes you don't need to lose. Entry is via the Patio de los Naranjos on the north side, not through the main Puerta de la Asunción facade facing the plaza.
+Buy your timed-entry ticket online in advance rather than joining the walk-up line at the door. This is one of the most-reviewed attractions in Spain, and the ticket window queue can eat 30–45 minutes you don't need to lose. Entry is via the Patio de los Naranjos on the north side, not through the main Puerta de la Asunción facade facing the plaza.
 
-Dress with shoulders and knees covered, as it remains an active church, and speak quietly — Mass and prayer still happen here on a regular schedule, and some chapels close to sightseeing during services. Payment for tickets is by card as much as cash these days, and there's no tipping expected inside. The most common visitor mistake is treating the Giralda and the cathedral as a quick 20-minute stop: the ramp climb alone takes real time, and rushing means missing the choir stalls, the sacristy's Murillo and Zurbarán paintings, and the treasury — save at least ninety unhurried minutes for the whole complex.
+Dress with shoulders and knees covered, as it remains an active church, and speak quietly (Mass and prayer still happen here on a regular schedule, and some chapels close to sightseeing during services. Payment for tickets is by card as much as cash these days, and there's no tipping expected inside. The most common visitor mistake is treating the Giralda and the cathedral as a quick 20-minute stop: the ramp climb alone takes real time, and rushing means missing the choir stalls, the sacristy's Murillo and Zurbarán paintings, and the treasury) save at least ninety unhurried minutes for the whole complex.

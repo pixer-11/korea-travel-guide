@@ -81,19 +81,19 @@ updatedDate: '2026-08-23'
 
 Hahoe Folk Village draws visitors for its UNESCO-listed thatched and tile-roofed houses, the Nakdong River's oxbow bend, and the Hahoe Mask Museum, which houses the wooden talchum (mask dance) masks that gave the village its fame. Talbing-Go sits right at the museum, making it the natural stop for a meal that bookends a museum visit or a village walk without a special detour. With a 4.6 rating from 119 reviews and a moderate price level, it has built a solid reputation among the steady stream of day-trippers who pass through this corner of Pungcheon-myeon.
 
-The name itself nods to the "tal" (mask) heritage of the area — appropriate for a restaurant standing in the shadow of the mask museum's collection.
+The name itself nods to the "tal" (mask) heritage of the area, appropriate for a restaurant standing in the shadow of the mask museum's collection.
 
 ## Getting there
 
-Talbing-Go's address places it at 287-beonji, Hahoe-ri, Pungcheon-myeon, right at the Hahoe Mask Museum complex — this sits just outside the main ticketed entrance to Hahoe Folk Village itself, on the approach road most visitors walk or shuttle in on. From central Andong, the village is roughly 20–25 minutes by car or taxi, or reachable via the local city bus that runs from Andong Bus Terminal and Andong Station toward Hahoe Village (check current bus numbers and schedules locally, as rural routes change). Many travelers combine a stop here with the Andong Folk Village and the Hahoe Mask Dance performance grounds nearby, which stage traditional talchum shows on a regular schedule (typically weekends, with seasonal variation).
+Talbing-Go's address places it at 287-beonji, Hahoe-ri, Pungcheon-myeon, right at the Hahoe Mask Museum complex, this sits just outside the main ticketed entrance to Hahoe Folk Village itself, on the approach road most visitors walk or shuttle in on. From central Andong, the village is roughly 20–25 minutes by car or taxi, or reachable via the local city bus that runs from Andong Bus Terminal and Andong Station toward Hahoe Village (check current bus numbers and schedules locally, as rural routes change). Many travelers combine a stop here with the Andong Folk Village and the Hahoe Mask Dance performance grounds nearby, which stage traditional talchum shows on a regular schedule (typically weekends, with seasonal variation).
 
 If you're driving, there's a public parking area near the village entrance; from there it's a short walk to the museum and restaurant, since private cars aren't allowed into the historic village core.
 
 ## What to eat
 
-Andong's food identity centers on a few standout dishes, and a restaurant this close to the village typically leans into them: Andong jjimdak (a soy-and-vegetable braised chicken dish the city is famous for nationwide), Andong-sik heotjesatbap (a mixed rice dish modeled on ancestral memorial food, served with seasoned vegetables and a savory sauce), and the region's noodle dishes made with buckwheat or wheat. Expect banchan (side dishes) to arrive automatically, Korean-restaurant style, and portions built for sharing — jjimdak in particular is usually ordered per table rather than per person.
+Andong's food identity centers on a few standout dishes, and a restaurant this close to the village typically leans into them: Andong jjimdak (a soy-and-vegetable braised chicken dish the city is famous for nationwide), Andong-sik heotjesatbap (a mixed rice dish modeled on ancestral memorial food, served with seasoned vegetables and a savory sauce), and the region's noodle dishes made with buckwheat or wheat. Expect banchan (side dishes) to arrive automatically, Korean-restaurant style, and portions built for sharing, jjimdak in particular is usually ordered per table rather than per person.
 
-Given the price level and the setting, Talbing-Go fits the mold of a casual, sit-down local eatery rather than fine dining — reasonable for a filling lunch after several hours of walking the village's dirt paths and riverside pine grove (Manripo Pine Forest is a short walk from the village entrance and worth the extra 20 minutes).
+Given the price level and the setting, Talbing-Go fits the mold of a casual, sit-down local eatery rather than fine dining, reasonable for a filling lunch after several hours of walking the village's dirt paths and riverside pine grove (Manripo Pine Forest is a short walk from the village entrance and worth the extra 20 minutes).
 
 ## When to go
 
@@ -101,7 +101,7 @@ Hahoe Village gets busiest midday, especially on weekends and during spring (Apr
 
 ## How to visit like a local
 
-Locals and repeat domestic visitors treat Hahoe as a half-day trip: village first (best in the cooler morning light), museum second, food last, timed to avoid the lunchtime crush between 12 and 1 p.m. Cash and card are both commonly accepted at restaurants in the area, but it's still wise to carry some won, since rural Korean eateries can have inconsistent card terminals for smaller purchases. Tipping isn't expected anywhere in South Korea, including here. If ordering jjimdak or a similarly shareable dish, it's normal (and expected) to order one per two or more people rather than individually — staff may gently redirect a solo diner toward a single-serving option instead. The most common visitor mistake is trying to see Hahoe Village and eat lunch during the same midday window as everyone else's tour bus; shifting either activity by an hour solves most of the crowding.
+Locals and repeat domestic visitors treat Hahoe as a half-day trip: village first (best in the cooler morning light), museum second, food last, timed to avoid the lunchtime crush between 12 and 1 p.m. Cash and card are both commonly accepted at restaurants in the area, but it's still wise to carry some won, since rural Korean eateries can have inconsistent card terminals for smaller purchases. Tipping isn't expected anywhere in South Korea, including here. If ordering jjimdak or a similarly shareable dish, it's normal (and expected) to order one per two or more people rather than individually, staff may gently redirect a solo diner toward a single-serving option instead. The most common visitor mistake is trying to see Hahoe Village and eat lunch during the same midday window as everyone else's tour bus; shifting either activity by an hour solves most of the crowding.
 
 ## Nearby to pair with your meal
 

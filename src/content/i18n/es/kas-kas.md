@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kas-kas
-srcHash: 'c4b7aa19f585'
+srcHash: '876ad519d492'
 title: 'Kaş: guía de viaje (4,8★)'
 description: 'Kaş es un pueblo portuario de casas encaladas en la Costa Turquesa de Turquía, construido sobre una península rocosa frente a la isla griega de Meis (Kastellórizo). 4,8★ (207 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kaş es un pueblo portuario de casas encaladas en la Costa Turquesa de Turquía, construido sobre una península rocosa frente a la isla griega de Meis (Kastellórizo). Merece la pena por sus tranquilas calles empedradas, una tumba helenística excavada en la roca sobre el pueblo y unos baños que se toman desde plataformas lisas de piedra caliza en lugar de arena. Lo ideal es visitarlo entre semana por la mañana, cuando el puerto está más tranquilo y la oficina municipal indicada aquí (9:00-12:30 h y 13:00-17:00 h, cerrada los fines de semana) realmente está abierta.

@@ -80,13 +80,13 @@ updatedDate: '2026-08-23'
 ---
 ## Why go
 
-You don't visit the Antalya Toy Museum for scale — it's tiny. You go because it's crammed, room by room, with tin robots, porcelain dolls, wind-up trains and Communist-era Soviet space toys that turn a fifteen-minute detour into an unexpectedly absorbing hour.
+You don't visit the Antalya Toy Museum for scale. It's tiny. You go because it's crammed, room by room, with tin robots, porcelain dolls, wind-up trains and Communist-era Soviet space toys that turn a fifteen-minute detour into an unexpectedly absorbing hour.
 
 The building itself does half the work. It's a restored 19th-century Kaleiçi stone house, all thick whitewashed walls, low doorways and wooden shutters, the kind of structure that already feels like a time capsule before you've seen a single exhibit.
 
 ## Getting there
 
-The museum sits on a narrow street within Antalya's Kaleiçi (old town), right above the old yacht harbor and inside the historic walls. If you're wandering the harbor's cobbled lanes — past the Roman-era Hıdırlık Tower and the Yivli Minaret — you'll likely stumble across it without even trying.
+The museum sits on a narrow street within Antalya's Kaleiçi (old town), right above the old yacht harbor and inside the historic walls. If you're wandering the harbor's cobbled lanes, past the Roman-era Hıdırlık Tower and the Yivli Minaret, you'll likely stumble across it without even trying.
 
 Most visitors reach Kaleiçi on foot from the city center, since the old town's narrow streets aren't built for cars. Taxis and ride-hailing apps will drop you at the edge of the pedestrian zone, leaving a short walk down toward the harbor.
 
@@ -99,22 +99,22 @@ The collection runs roughly chronologically, from Victorian-era porcelain dolls 
 - Early Turkish-manufactured tin cars and trains
 - A room of antique dollhouses with hand-stitched miniature furniture
 
-Display cases are dense rather than spacious — this rewards slow looking over a quick scan. Captions are modest, so it helps to simply linger and let the objects date themselves.
+Display cases are dense rather than spacious, this rewards slow looking over a quick scan. Captions are modest, so it helps to simply linger and let the objects date themselves.
 
 ## How long to spend and when to go
 
-Thirty to forty-five minutes covers it comfortably, even for a curious visitor who reads every label. It's not a half-day museum, which makes it easy to slot in alongside Kaleiçi's other harborside stops — the clock tower, Hadrian's Gate, or a tea break overlooking the marina.
+Thirty to forty-five minutes covers it comfortably, even for a curious visitor who reads every label. It's not a half-day museum, which makes it easy to slot in alongside Kaleiçi's other harborside stops, the clock tower, Hadrian's Gate, or a tea break overlooking the marina.
 
 The museum is well-known and draws a steady stream of visitors, especially families and cruise-ship day-trippers when ships are in port. Weekday mornings, shortly after the 9am opening, tend to be calmer than midday on weekends, when tour groups filter through the narrow rooms.
 
 ## How to visit like a local
 
-Because the rooms are small and low-ceilinged, crowding changes the experience more here than at most museums — a few extra people in one room and it feels full. Arriving close to opening, especially Tuesday through Thursday, gives you a much quieter run of the exhibits.
+Because the rooms are small and low-ceilinged, crowding changes the experience more here than at most museums, a few extra people in one room and it feels full. Arriving close to opening, especially Tuesday through Thursday, gives you a much quieter run of the exhibits.
 
-- Wear comfortable, flat shoes — the stone floors and low door frames of the old house aren't forgiving of a rushed pace
+- Wear comfortable, flat shoes, the stone floors and low door frames of the old house aren't forgiving of a rushed pace
 - Bring small cash for the entry fee, since a family-run house museum like this may not always have card facilities working
 - Skip flash photography on the older tin and mechanical toys; many are fragile and light-sensitive
-- Combine the visit with a slow walk through Kaleiçi's back lanes rather than treating it as a single stop — the surrounding streets are half the reason to come this way
+- Combine the visit with a slow walk through Kaleiçi's back lanes rather than treating it as a single stop. The surrounding streets are half the reason to come this way
 - Remember it's closed Mondays, so don't build a Monday itinerary around it
 
-The most common mistake is treating this as a five-minute photo-op between harbor views. The toys reward the visitor who actually crouches down to read the small, handwritten-style labels and notices the details — the maker's mark on a tin car, the hand-painted face on a century-old doll. That's where the museum's charm actually lives, not in its size.
+The most common mistake is treating this as a five-minute photo-op between harbor views. The toys reward the visitor who actually crouches down to read the small, handwritten-style labels and notices the details, the maker's mark on a tin car, the hand-painted face on a century-old doll. That's where the museum's charm actually lives, not in its size.

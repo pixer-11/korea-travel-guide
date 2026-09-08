@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-the-marble-mountains
-srcHash: '9a47fb36faef'
+srcHash: 'bc1429057195'
 title: 'Las Montañas de Mármol: Guía de viaje de Da Nang'
 description: Las Montañas de Mármol (Ngũ Hành Sơn) son un conjunto de cinco colinas de piedra y mármol a unos 8 km al sur del centro de Da Nang, repletas de cuevas budistas, templos y pagodas.
 quickAnswer: Las Montañas de Mármol (Ngũ Hành Sơn) son un conjunto de cinco colinas de piedra y mármol a unos 8 km al sur del centro de Da Nang, repletas de cuevas budistas, templos y pagodas. Reserva entre 2 y 3 horas, usa calzado con buen agarre para los escalones irregulares de las cuevas, y ve temprano en la mañana para evitar tanto el calor como las multitudes de los autobuses turísticos. Thuy Son (Montaña del Agua) es el pico principal para subir, al que se llega en ascensor o por 156 escalones de piedra.

@@ -46,35 +46,35 @@ draft: false
 ---
 ## Why go
 
-You come around a corner in Lion Grove Garden and the path just stops being a path — it dissolves into a knot of grey, pitted limestone that loops back on itself, dips underground, and pops out somewhere you didn't expect. This is the garden's whole reason for being: a Yuan-dynasty rockery labyrinth, piled up by Buddhist monks in the 1300s, in which the eroded Taihu stones were said to look like lions crouched mid-roar.
+You come around a corner in Lion Grove Garden and the path just stops being a path, it dissolves into a knot of grey, pitted limestone that loops back on itself, dips underground, and pops out somewhere you didn't expect. This is the garden's whole reason for being: a Yuan-dynasty rockery labyrinth, piled up by Buddhist monks in the 1300s, in which the eroded Taihu stones were said to look like lions crouched mid-roar.
 
-Squint at the right angle near a doorway or a pond's edge and you really can pick out a mane, a paw, a snout. It's playful in a way that feels almost un-Chinese-garden-like — most classical gardens ask you to sit and contemplate; this one asks you to climb, duck, and get a little lost.
+Squint at the right angle near a doorway or a pond's edge and you really can pick out a mane, a paw, a snout. It's playful in a way that feels almost un-Chinese-garden-like. Most classical gardens ask you to sit and contemplate; this one asks you to climb, duck, and get a little lost.
 
 ## Getting there
 
-Lion Grove Garden sits at 23 Yuan Lin Lu in the Gusu District, in the thick of Suzhou's old city, wedged between two of the city's other big draws. It's an easy walk — under ten minutes — from the Humble Administrator's Garden and the Suzhou Museum, so most visitors treat the three as one cluster rather than three separate trips.
+Lion Grove Garden sits at 23 Yuan Lin Lu in the Gusu District, in the thick of Suzhou's old city, wedged between two of the city's other big draws. It's an easy walk, under ten minutes, from the Humble Administrator's Garden and the Suzhou Museum, so most visitors treat the three as one cluster rather than three separate trips.
 
 If you're coming by public transport, taxis and ride-hail apps are the simplest option since the entrance is tucked down a narrow lane rather than fronting a major road; ask for "Shizi Lin" (狮子林), the garden's Chinese name, and drivers will know it instantly. Bicycles and e-bikes are common here too, with racks near most of the old-town lanes.
 
 ## What to see
 
-The rockery is the headline act — a vertical stack of eroded limestone riddled with tunnels, bridges, and peepholes that took real ingenuity to build without mortar collapsing the whole thing. Budget real time to actually walk through it rather than just photograph it from outside; the interior passages are narrow, occasionally low-ceilinged, and genuinely disorienting in a fun way.
+The rockery is the headline act, a vertical stack of eroded limestone riddled with tunnels, bridges, and peepholes that took real ingenuity to build without mortar collapsing the whole thing. Budget real time to actually walk through it rather than just photograph it from outside; the interior passages are narrow, occasionally low-ceilinged, and genuinely disorienting in a fun way.
 
-Beyond the stones, the garden has the elements you'd expect of a classical Suzhou garden on a smaller, denser scale: a central pond crossed by zigzag bridges, whitewashed pavilions with dark tile roofs, and lattice windows cut into shapes — a fan, a vase, a plum blossom — that frame the next view like a living scroll painting. Look for the Wenmei Pavilion and the covered corridor along the northern edge, where calligraphy rubbings and stone inscriptions line the walls.
+Beyond the stones, the garden has the elements you'd expect of a classical Suzhou garden on a smaller, denser scale: a central pond crossed by zigzag bridges, whitewashed pavilions with dark tile roofs, and lattice windows cut into shapes (a fan, a vase, a plum blossom) that frame the next view like a living scroll painting. Look for the Wenmei Pavilion and the covered corridor along the northern edge, where calligraphy rubbings and stone inscriptions line the walls.
 
-The garden is compact — most people cover it fully in 60 to 90 minutes, less if you skip the rockery's inner loops.
+The garden is compact, most people cover it fully in 60 to 90 minutes, less if you skip the rockery's inner loops.
 
 ## When to go
 
-Early morning, right at opening, or the last hour or two before closing are the calmest windows — the light is softer for photos then too, raking low across the pale stone. Spring (April-May) and autumn (October-November) bring mild temperatures and the garden's maples and osmanthus trees at their best; summer in Suzhou is hot and sticky, and the rockery's narrow stone passages trap heat, which makes midday visits genuinely uncomfortable. Winter is quieter still and the bare branches actually reveal more of the stonework's silhouette.
+Early morning, right at opening, or the last hour or two before closing are the calmest windows. The light is softer for photos then too, raking low across the pale stone. Spring (April-May) and autumn (October-November) bring mild temperatures and the garden's maples and osmanthus trees at their best; summer in Suzhou is hot and sticky, and the rockery's narrow stone passages trap heat, which makes midday visits genuinely uncomfortable. Winter is quieter still and the bare branches actually reveal more of the stonework's silhouette.
 
 ## How to visit like a local
 
-Buy your ticket at the gate or through a local ticketing app rather than a third-party tour bundle — it's simpler and the garden rarely requires advance booking outside major holidays. Payment inside China increasingly runs through mobile apps like Alipay or WeChat Pay, so have one set up if you can; cash still works but change can be slow.
+Buy your ticket at the gate or through a local ticketing app rather than a third-party tour bundle. It's simpler and the garden rarely requires advance booking outside major holidays. Payment inside China increasingly runs through mobile apps like Alipay or WeChat Pay, so have one set up if you can; cash still works but change can be slow.
 
-There's no tipping expected anywhere in the garden. The single biggest tourist mistake here is treating the rockery like a photo backdrop and never actually walking its interior — the tunnels loop and double back, and half the fun is the walk itself, not the view from outside. Wear shoes with grip, since some of the stone steps inside the rockery are uneven and can be slick after rain.
+There's no tipping expected anywhere in the garden. The single biggest tourist mistake here is treating the rockery like a photo backdrop and never actually walking its interior, the tunnels loop and double back, and half the fun is the walk itself, not the view from outside. Wear shoes with grip, since some of the stone steps inside the rockery are uneven and can be slick after rain.
 
-Because it's a smaller, quieter stop compared to Suzhou's bigger-name gardens, you can often have long stretches of the stone maze to yourself if you avoid the late-morning and early-afternoon rush — arrive with the gates or in the late afternoon for the most peaceful pass through.
+Because it's a smaller, quieter stop compared to Suzhou's bigger-name gardens, you can often have long stretches of the stone maze to yourself if you avoid the late-morning and early-afternoon rush. Arrive with the gates or in the late afternoon for the most peaceful pass through.
 
 ## Nearby to combine
 

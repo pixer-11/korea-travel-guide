@@ -99,9 +99,9 @@ You come here for a single carved stone gateway, not a sprawling fortress. Benga
 
 The gate itself is the story. Thick stone walls curve into a narrow arched passage, carved with weathered floral and geometric motifs typical of late 18th-century Mysore military architecture, built under Hyder Ali and expanded by Tipu Sultan.
 
-Look closely at the stonework near the arch — you can still make out decorative detailing that's survived monsoons, pollution, and two centuries of foot traffic. There's no ticket booth, no museum, no interpretive center. It's a standalone monument you walk up to, photograph, and read plaques on if any are posted.
+Look closely at the stonework near the arch. You can still make out decorative detailing that's survived monsoons, pollution, and two centuries of foot traffic. There's no ticket booth, no museum, no interpretive center. It's a standalone monument you walk up to, photograph, and read plaques on if any are posted.
 
-Don't expect ramparts stretching into the distance. The rest of the fort — walls, bastions, moat — was dismantled or built over long ago, so this gate is essentially the whole visit.
+Don't expect ramparts stretching into the distance. The rest of the fort (walls, bastions, moat) was dismantled or built over long ago, so this gate is essentially the whole visit.
 
 ## Getting there
 
@@ -111,7 +111,7 @@ If you're coming by metro, Krishna Rajendra Market station on the Green Line is 
 
 ## When to go
 
-The gate is open daily from 8:30am to 5:30pm, so plan your visit inside that window. Mornings are noticeably calmer — both weekdays and weekends see the fewest visitors between 9am and 10am, before market crowds and midday heat build up.
+The gate is open daily from 8:30am to 5:30pm, so plan your visit inside that window. Mornings are noticeably calmer, both weekdays and weekends see the fewest visitors between 9am and 10am, before market crowds and midday heat build up.
 
 Weekend afternoons are the opposite extreme. Between 11am and 4pm on Saturdays and Sundays, the surrounding streets and the gate itself get genuinely crowded, so it's worth avoiding that stretch if you want space to actually look at the carving without jostling for a photo spot.
 
@@ -119,10 +119,10 @@ Weekend afternoons are the opposite extreme. Between 11am and 4pm on Saturdays a
 
 This is a well-visited landmark, not a quiet secret, so timing your visit well matters more than finding a hidden angle. Here's what works:
 
-- Arrive right at 8:30am or shortly after — you'll have the gate almost to yourself before the market crowds swell.
+- Arrive right at 8:30am or shortly after. You'll have the gate almost to yourself before the market crowds swell.
 - Skip the 11am–4pm weekend window entirely if you can; that's peak congestion both at the gate and in the lanes around it.
-- Combine your visit with a walk through Bengaluru City Market next door — locals treat the fort gate as a quick photo stop en route to market shopping, not a standalone destination requiring hours.
-- There's no entry fee or ticket counter, so don't waste time looking for one — just walk up.
+- Combine your visit with a walk through Bengaluru City Market next door, locals treat the fort gate as a quick photo stop en route to market shopping, not a standalone destination requiring hours.
+- There's no entry fee or ticket counter, so don't waste time looking for one, just walk up.
 - Wear shoes you don't mind getting dusty; the surrounding lanes are unpaved in patches and busy with market traffic, carts, and parked vehicles.
 
 The common tourist mistake here is arriving expecting a full fort complex and leaving disappointed. Reframe it as a quick, worthwhile stop bolted onto a bigger exploration of the old market quarter, and it lands very differently.

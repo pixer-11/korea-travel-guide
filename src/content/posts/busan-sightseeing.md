@@ -38,15 +38,15 @@ For coastal hops between Haeundae, Gwangalli, and the southern beaches, taxis ar
 
 ## What to See
 
-**Haeundae Beach** (Line 2, Haeundae Station) is Korea's most famous stretch of sand, backed by high-rises and the Dongbaek Island coastal walking trail at its western end. A 20-minute walk or short bus ride east leads to **Dongbaek Island** and on toward **Gwangalli Beach**, known for its nighttime view of the Gwangan Bridge lit up over the water — arguably better after dark than Haeundae itself.
+**Haeundae Beach** (Line 2, Haeundae Station) is Korea's most famous stretch of sand, backed by high-rises and the Dongbaek Island coastal walking trail at its western end. A 20-minute walk or short bus ride east leads to **Dongbaek Island** and on toward **Gwangalli Beach**, known for its nighttime view of the Gwangan Bridge lit up over the water, arguably better after dark than Haeundae itself.
 
-For history and architecture, **Beomeosa Temple** (Line 1, Beomeosa Station, then a bus or 30-minute uphill walk) is one of Korea's major Buddhist temples, founded in the 7th century and set against Geumjeongsan Mountain — pair it with a hike along the mountain's fortress walls if time allows.
+For history and architecture, **Beomeosa Temple** (Line 1, Beomeosa Station, then a bus or 30-minute uphill walk) is one of Korea's major Buddhist temples, founded in the 7th century and set against Geumjeongsan Mountain, pair it with a hike along the mountain's fortress walls if time allows.
 
 **Gamcheon Culture Village**, reachable by bus from Toseong Station (Line 1), is the pastel hillside neighborhood that's become Busan's most photographed spot, built by refugees during the Korean War and later revitalized with murals and small galleries. Go early morning to beat tour groups.
 
-Down at the harbor, **Jagalchi Fish Market** (Line 1, Jagalchi Station, Exit 10) is Korea's largest seafood market — walk the stalls, then eat upstairs at one of the market's raw fish restaurants. A few minutes' walk away, **BIFF Square** and **Gukje Market** cover street food (try ssiat hotteok, a seed-filled sweet pancake, and dwaeji gukbap, Busan's pork soup-rice) and secondhand goods respectively.
+Down at the harbor, **Jagalchi Fish Market** (Line 1, Jagalchi Station, Exit 10) is Korea's largest seafood market. Walk the stalls, then eat upstairs at one of the market's raw fish restaurants. A few minutes' walk away, **BIFF Square** and **Gukje Market** cover street food (try ssiat hotteok, a seed-filled sweet pancake, and dwaeji gukbap, Busan's pork soup-rice) and secondhand goods respectively.
 
-Further east, the **Haedong Yonggungsa Temple** sits directly on the coast (best reached by bus or taxi from Haeundae, roughly 30–40 minutes) — unlike most temples tucked into mountains, this one is built into seaside rocks, making it worth the detour even for travelers who've already seen inland temples.
+Further east, the **Haedong Yonggungsa Temple** sits directly on the coast (best reached by bus or taxi from Haeundae, roughly 30–40 minutes), unlike most temples tucked into mountains, this one is built into seaside rocks, making it worth the detour even for travelers who've already seen inland temples.
 
 ## When to Go and How Long to Stay
 

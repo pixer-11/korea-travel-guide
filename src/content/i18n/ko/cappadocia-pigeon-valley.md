@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: cappadocia-pigeon-valley
-srcHash: 'e4f56feae79b'
+srcHash: 'ab6afaa7ed04'
 title: '비둘기 계곡(피전 밸리): 카파도키아 여행 가이드'
 description: 비둘기 계곡(Güvercinlik Vadisi)은 위치사르(Uçhisar)와 괴레메(Göreme)를 이어주는, 부드러운 화산암을 깎아 만든 비둘기집들이 점점이 자리한 협곡을 지나는 대체로 평탄하고 완만한 4~5km 코스입니다.
 quickAnswer: 비둘기 계곡(Güvercinlik Vadisi)은 위치사르(Uçhisar)와 괴레메(Göreme)를 이어주는, 부드러운 화산암을 깎아 만든 비둘기집들이 점점이 자리한 협곡을 지나는 대체로 평탄하고 완만한 4~5km 코스입니다. 위치사르 성(Uçhisar Castle) 아래 전망대나 괴레메 쪽 버스터미널 인근에서 진입할 수 있으며, 편도로 1.5~2시간 정도 잡으면 되고, 더위와 투어버스 인파를 피하려면 아침 일찍이나 늦은 오후에 가는 것이 좋습니다.

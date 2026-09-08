@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: deira-souk-deira
-srcHash: 'cc0d820535cf'
+srcHash: 'd3e643e08e78'
 title: 'Souk Deira: Guía de viaje (4.4★)'
 description: 'Souk Deira es una discreta franja de mercado cubierto en Al Sabkha, Deira, apartada del bullicio de grupos turísticos que caracteriza al cercano Zoco del Oro y al de las Especias. 4.4★ (139 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Souk Deira es una discreta franja de mercado cubierto en Al Sabkha, Deira, apartada del bullicio de grupos turísticos que caracteriza al cercano Zoco del Oro y al de las Especias. Conviene ir entre las 9:30 y las 12:00 de un día entre semana, cuando los comerciantes acaban de subir las persianas y los callejones todavía se pueden recorrer con calma. Los viernes permanece cerrado todo el día, así que hay que planificar la visita teniendo esto en cuenta.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: phuket-phi-phi-islands
-srcHash: '846fb7caa26e'
+srcHash: '55fbcf81f01f'
 title: 皮皮岛（Phi Phi Islands）旅行指南
 description: 皮皮岛地处甲米（Krabi）府境内，从普吉岛（Phuket）出发既可当天往返，也可留宿一晚，最方便的方式是从拉萨达码头（Rassada Pier）或查龙码头（Chalong Pier）搭乘快艇，单程大约1到1.5小时。
 quickAnswer: 皮皮岛虽属甲米府管辖，但游客大多从普吉岛出发，既可以当天来回，也可以留宿一晚，从拉萨达码头或查龙码头搭快艇最为方便，单程约1到1.5小时。玛雅湾（Maya Bay）、皮皮莱岛（Phi Phi Leh）的石灰岩峭壁，以及皮莱泻湖（Pileh Lagoon）的浮潜是不可错过的重点，如果不打算过夜，建议留出完整一天时间。旺季（11月至次年4月）出行，最好提前一两天预订好行程或船票。

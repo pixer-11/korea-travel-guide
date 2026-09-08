@@ -63,7 +63,7 @@ Osu Kannon has stood in some form since the 14th century, though what you see to
 
 This isn't a quiet, secluded shrine tucked in a forest. It's a very popular stop, and the crowds are part of the experience.
 
-Pigeons scatter across the courtyard as visitors clap, bow, and toss coins into the offering box. Vendors sell fortune papers nearby. The temple holds a library of classical Japanese texts and historical documents — though the library itself isn't generally open for casual browsing.
+Pigeons scatter across the courtyard as visitors clap, bow, and toss coins into the offering box. Vendors sell fortune papers nearby. The temple holds a library of classical Japanese texts and historical documents, though the library itself isn't generally open for casual browsing.
 
 The real draw is the setting: a genuine 700-year-old religious institution embedded in the middle of one of Nagoya's liveliest shopping streets.
 
@@ -71,11 +71,11 @@ The real draw is the setting: a genuine 700-year-old religious institution embed
 
 Osu Kannon has its own subway station on the Tsurumai Line, exit 2, which puts you at the temple gate within a couple of minutes.
 
-If you're coming from Nagoya Station, take the Higashiyama Line to Fushimi and transfer to the Tsurumai Line — the whole trip runs about 15 minutes. Ōsu Kannon is also a short walk from Kamimaezu Station on the Meijo and Tsurumai lines, another workable option depending on where you're staying.
+If you're coming from Nagoya Station, take the Higashiyama Line to Fushimi and transfer to the Tsurumai Line. The whole trip runs about 15 minutes. Ōsu Kannon is also a short walk from Kamimaezu Station on the Meijo and Tsurumai lines, another workable option depending on where you're staying.
 
 ## What to see and do
 
-The main hall is the obvious anchor, and it's worth pausing at the incense burner out front — locals waft the smoke over themselves for good health before heading in.
+The main hall is the obvious anchor, and it's worth pausing at the incense burner out front, locals waft the smoke over themselves for good health before heading in.
 
 Beyond the hall itself:
 
@@ -84,23 +84,23 @@ Beyond the hall itself:
 - The surrounding Osu Shopping District has over 1,200 shops across covered arcades
 - Nearby Bansho-ji temple and the Osu Kannon manga/anime shops make good add-ons
 
-Give the temple itself 20 to 30 minutes. Give the surrounding arcades an hour or two more — this is really a half-day pocket of Nagoya once you factor in food stalls and shopping.
+Give the temple itself 20 to 30 minutes. Give the surrounding arcades an hour or two more. This is really a half-day pocket of Nagoya once you factor in food stalls and shopping.
 
 ## When to go
 
-The temple is open every day from 6am to 7pm, so there's flexibility. Early morning, right after opening, is when you'll find the courtyard closest to empty — commuters and monks going about their routine, not yet the daytime crush of shoppers and tour groups.
+The temple is open every day from 6am to 7pm, so there's flexibility. Early morning, right after opening, is when you'll find the courtyard closest to empty, commuters and monks going about their routine, not yet the daytime crush of shoppers and tour groups.
 
 By late morning through afternoon, especially on weekends, the courtyard fills with a steady stream of visitors and the arcades around it get genuinely busy. If you want photos of the hall without a crowd in frame, aim for before 9am.
 
 ## How to visit like a local
 
-Since this is one of Nagoya's most-visited religious sites, don't expect a hidden, quiet corner — the smarter move is timing your visit around the crowds rather than avoiding them entirely.
+Since this is one of Nagoya's most-visited religious sites, don't expect a hidden, quiet corner. The smarter move is timing your visit around the crowds rather than avoiding them entirely.
 
 - Go before 9am on a weekday for the emptiest courtyard
 - Bowing once before entering the hall and once before leaving is standard etiquette
-- Coins for the offering box are the norm — small change is fine, no need to break a large bill
+- Coins for the offering box are the norm, small change is fine, no need to break a large bill
 - Skip the shoe-removal confusion: the main worship area is walk-up, no need to remove shoes at the courtyard level
-- Combine your visit with the 18th or 28th flea market day if your dates line up — that's when the grounds feel most alive with local shoppers rather than tourists
-- The most common mistake is treating it as a five-minute photo stop and missing the arcades — the shopping streets around the temple are as much the destination as the building itself
+- Combine your visit with the 18th or 28th flea market day if your dates line up. That's when the grounds feel most alive with local shoppers rather than tourists
+- The most common mistake is treating it as a five-minute photo stop and missing the arcades. The shopping streets around the temple are as much the destination as the building itself
 
 Bring small bills or coins, wear shoes you don't mind standing in for a while on stone paving, and build in time to get lost in the side streets afterward.

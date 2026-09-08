@@ -88,31 +88,31 @@ Because there's no direct metro stop, building in extra time for the bus connect
 
 ## What to see and do
 
-The walk itself takes only a few minutes, but the setting invites you to linger. Slippers are provided at the entrance so you don't scuff the glass with street shoes — an easy detail to forget until you're standing at the barrier.
+The walk itself takes only a few minutes, but the setting invites you to linger. Slippers are provided at the entrance so you don't scuff the glass with street shoes, an easy detail to forget until you're standing at the barrier.
 
 Beyond the platform, a coastal boardwalk connects to Oryukdo SkyPark, with a lighthouse-shaped observatory and a small park where you can sit above the shoreline. On clear days you can see container ships queuing toward Busan Port and, in the distance, the outline of Igidae's cliffs.
 
-Below the deck, look for the old lighthouse keeper's quarters and the rocky shoreline where local anglers cast lines — a reminder this stretch of coast was a working fishing area long before it became a photo stop.
+Below the deck, look for the old lighthouse keeper's quarters and the rocky shoreline where local anglers cast lines. A reminder this stretch of coast was a working fishing area long before it became a photo stop.
 
 ## When to go
 
 The Skywalk is open daily from 9am to 6pm, with no weekly closing day listed. Crowds build steadily through the morning and peak on weekends between 10am and 6pm, when tour buses and family groups arrive in waves.
 
-Weekday mornings, especially right around the 9am opening, are the quietest window by a clear margin. Sunset is popular for photos, but expect company — arrive early if you want the glass floor to yourself for even a minute.
+Weekday mornings, especially right around the 9am opening, are the quietest window by a clear margin. Sunset is popular for photos, but expect company. Arrive early if you want the glass floor to yourself for even a minute.
 
 Spring and autumn bring the clearest air and most comfortable walking weather. Summer haze and winter sea wind both affect visibility, so check forecasts if the view itself is your priority.
 
 ## How to visit like a local
 
-This is a well-visited, very popular stop, not a quiet secret, so plan around the crowds rather than expecting to avoid them. Locals treat it as a quick coastal detour rather than a destination in itself — often folded into a longer walk along the Igidae Coastal Trail.
+This is a well-visited, very popular stop, not a quiet secret, so plan around the crowds rather than expecting to avoid them. Locals treat it as a quick coastal detour rather than a destination in itself, often folded into a longer walk along the Igidae Coastal Trail.
 
 - Go on a weekday between 9am and 6pm for the calmest experience
 - Skip weekend late mornings and afternoons, when it's busiest
-- Wear socks — you'll swap your shoes for provided slippers before stepping onto the glass
+- Wear socks. You'll swap your shoes for provided slippers before stepping onto the glass
 - Admission is free, so there's no ticket line to plan around, just foot traffic on the deck itself
 - Bring a light jacket even in summer; the exposed platform catches sea wind
 
 The most common visitor mistake is treating this as a standalone half-day trip. It's a 30–45 minute stop. Pair it with Igidae Park's cliffside trail or a seafood lunch in nearby Yongho-dong to make the trip feel worth the bus ride.
 
-Payment isn't really a factor here since entry is free, but if you buy snacks or drinks from the small vendors near the entrance, cash and card are both commonly accepted. No booking or reservation system exists — you simply walk up, add your shoes to the rack, and step out over the water when there's room on the deck.
+Payment isn't really a factor here since entry is free, but if you buy snacks or drinks from the small vendors near the entrance, cash and card are both commonly accepted. No booking or reservation system exists, you simply walk up, add your shoes to the rack, and step out over the water when there's room on the deck.
 

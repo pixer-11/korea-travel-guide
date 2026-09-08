@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-sawada-coffee
-srcHash: '23d8df7a02c3'
+srcHash: '7da5e682ea46'
 title: Sawada Coffee：芝加哥旅行指南
 description: Sawada Coffee 是位于芝加哥西环区（West Loop）112 N Green St 的一家质朴时髦风格咖啡馆，每天早上8点营业至下午4点，以创意浓缩咖啡饮品和店内的乒乓球桌著称。
 quickAnswer: Sawada Coffee 是位于芝加哥西环区 112 N Green St 的一家质朴时髦风格咖啡馆，每天早上8点营业至下午4点，以创意浓缩咖啡饮品和店内的乒乓球桌著称。建议尽量早去——每天早上8点到10点是全周唯一的清静时段，一定要避开周末上午11点到下午4点的高峰期，那时候排队能一直排到门口。

@@ -84,13 +84,13 @@ updatedDate: '2026-09-07'
 
 ## Why Izzy's Stands Out
 
-Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip — a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone.
+Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip, a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone.
 
 The draw is specialty-grade sourcing and a visible roasting/brewing operation, in a destination where decent espresso used to mean a resort lobby markup. For travelers who care about their coffee as much as their view, it's become something of a pilgrimage stop on the island's north shore.
 
 ## Getting There
 
-Izzy's sits within Fisherman's Village itself, on Tambon Bo Put, on Koh Samui's northern coastline — roughly a 15-20 minute drive from Chaweng and about 10 minutes from the Big Buddha Temple (Wat Phra Yai) area. There's no rail or metro system on Samui, so the practical options are:
+Izzy's sits within Fisherman's Village itself, on Tambon Bo Put, on Koh Samui's northern coastline, roughly a 15-20 minute drive from Chaweng and about 10 minutes from the Big Buddha Temple (Wat Phra Yai) area. There's no rail or metro system on Samui, so the practical options are:
 
 - **Taxi/Grab-style ride**: Most hotels in Chaweng, Bophut, or Choeng Mon can arrange a car in under 15 minutes; agree on a price beforehand since meters aren't standard on the island.
 - **Rental scooter or car**: Bo Put is well signposted from the ring road (Route 4171). Park along the village's side streets, as the main walking street itself is pedestrian-focused, especially in the evening.
@@ -100,13 +100,13 @@ The exact pin (H26c+jh6) drops you right into the village's grid of narrow lanes
 
 ## What to Order and What to Expect
 
-Expect a genuine specialty-coffee setup rather than a generic café menu: filter/pour-over options, single-origin beans (often rotating), and a flat white or cortado built on well-pulled espresso. Baristas here tend to be knowledgeable about origin and roast profile, so it's worth asking what's fresh that week rather than defaulting to the familiar. Many visitors pair a coffee with a light breakfast or pastry — portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
+Expect a genuine specialty-coffee setup rather than a generic café menu: filter/pour-over options, single-origin beans (often rotating), and a flat white or cortado built on well-pulled espresso. Baristas here tend to be knowledgeable about origin and roast profile, so it's worth asking what's fresh that week rather than defaulting to the familiar. Many visitors pair a coffee with a light breakfast or pastry, portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
 
-Seating is limited and highly sought after, consistent with its shophouse-scale footprint — this is an intimate space, not a large café, so solo travelers and couples will have an easier time finding a table than large groups.
+Seating is limited and highly sought after, consistent with its shophouse-scale footprint. This is an intimate space, not a large café, so solo travelers and couples will have an easier time finding a table than large groups.
 
 ## When to Go
 
-Mornings (from opening until around 10-11am) tend to be the sweet spot: quieter, cooler, and you'll usually get a table without a wait — double-check current opening hours before you head over. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing.
+Mornings (from opening until around 10-11am) tend to be the sweet spot: quieter, cooler, and you'll usually get a table without a wait, double-check current opening hours before you head over. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing.
 
 Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed sit-down, since both crowds and temperatures peak then.
 

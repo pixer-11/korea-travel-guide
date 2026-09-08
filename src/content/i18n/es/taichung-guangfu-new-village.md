@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-guangfu-new-village
-srcHash: '66c0fce02e13'
+srcHash: 'c9e2581e4642'
 title: 'Aldea Nueva de GuangFu: Guía de viaje de Taichung (4,3★)'
 description: 'La Aldea Nueva de GuangFu es una antigua aldea militar de los años 50 en el distrito de Wufeng, Taichung, hoy reconvertida en un conjunto de estudios de arte, galerías y cafés independientes de baja altura. 4,3★ (10.702 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: La Aldea Nueva de GuangFu es una antigua aldea militar de los años 50 situada en el distrito de Wufeng, Taichung, hoy reconvertida en un conjunto de estudios de arte, galerías y cafés independientes de baja altura. Técnicamente está abierta las 24 horas, pero las tiendas y galerías funcionan más o menos entre media mañana y el anochecer, así que conviene ir en día laborable para evitar las multitudes del fin de semana. Calcule medio día para pasear por sus callejones, curiosear en los estudios y hacer una parada para tomar un café.

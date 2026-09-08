@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seoul-bar-cham
-srcHash: 'ecfb8bfe3bb3'
+srcHash: 'cbc94a72a4e1'
 title: Bar Cham：首尔旅行指南
 description: 位于韩国首尔的 Bar Cham，是当下人气渐涨的新去处——它是什么、在哪里、又该如何前去探访。
 quickAnswer: Bar Cham 藏身于西村（Seochon）一栋修复过的韩屋之中，这片依山而建的低层街区位于钟路区，就在景福宫西侧。虽然开业不算久，但已经跻身 2026 年亚洲 50 佳酒吧（Asia's 50 Best Bars 2026）之列，所以最好提前预订，别指望临时上门还能有座位。如果想安安静静聊上几句，最好选平日晚上刚开门那会儿去。

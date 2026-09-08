@@ -61,7 +61,7 @@ draft: false
 
 Hoi An's Old Town is a gauntlet of tailor shops, lantern stalls and tour groups shuffling toward the Japanese Covered Bridge. Hoi An Art Gallery, tucked along Nguyễn Thái Học, is the antidote: a small, cool, quiet room where the only soundtrack is a fan turning overhead and the muffled street noise outside.
 
-It's an under-the-radar stop — you won't find crowds here, and that's exactly the appeal. Paintings line the walls salon-style, mostly by Vietnamese contemporary artists, ranging from moody lacquer work to bright, loose depictions of the very streets you just walked through.
+It's an under-the-radar stop. You won't find crowds here, and that's exactly the appeal. Paintings line the walls salon-style, mostly by Vietnamese contemporary artists, ranging from moody lacquer work to bright, loose depictions of the very streets you just walked through.
 
 ## What you'll find inside
 
@@ -69,7 +69,7 @@ The collection leans toward original oils, lacquer paintings and works on silk, 
 
 A few things worth noticing:
 
-- The lacquer technique — layered, sanded, polished — gives certain pieces a depth that photographs badly and rewards standing close
+- The lacquer technique (layered, sanded, polished) gives certain pieces a depth that photographs badly and rewards standing close
 - Smaller framed works make more packable souvenirs than the large canvases
 - Staff are generally happy to talk through an artist's background if you ask
 
@@ -79,7 +79,7 @@ Don't expect placards or curatorial text on every piece. This is closer to a gal
 
 The gallery sits at 06 Nguyễn Thái Học, right inside the pedestrian core of Hoi An's Old Town, an easy walk from the Japanese Covered Bridge and the riverside stretch of Bạch Đằng.
 
-If you're coming from outside the old quarter, taxis and Grab cars can drop you near the edge of the pedestrian zone — much of Nguyễn Thái Học is closed to vehicle traffic during the day. From there it's a five-minute walk past shopfronts and cafés.
+If you're coming from outside the old quarter, taxis and Grab cars can drop you near the edge of the pedestrian zone, much of Nguyễn Thái Học is closed to vehicle traffic during the day. From there it's a five-minute walk past shopfronts and cafés.
 
 Bicycles are the easiest way to cover more ground afterward, and most hotels in Hoi An rent them cheaply by the day.
 
@@ -89,16 +89,16 @@ The gallery is open every day, 10am to 6pm, with no weekly closing day. Weekday 
 
 Old Town foot traffic builds through the afternoon and peaks in the early evening, when the lantern displays and river cruises draw the biggest crowds. Visiting art before lunch means you beat that wave and still have the afternoon free for the river or the Central Market.
 
-Rainy season (October to December) can actually work in your favor here — foul weather clears the streets and makes an indoor gallery stop feel like better use of an hour.
+Rainy season (October to December) can actually work in your favor here, foul weather clears the streets and makes an indoor gallery stop feel like better use of an hour.
 
 ## How to visit like a local
 
 Locals rarely list this as their gallery of choice, but the way to visit it well is the same low-key approach you'd use for any small Hoi An shop.
 
 - Arrive close to the 10am opening on a weekday, before tour groups fill Nguyễn Thái Học
-- Browse without pressure — nobody expects you to buy, and staff won't hover
+- Browse without pressure, nobody expects you to buy, and staff won't hover
 - If you do buy, cash (Vietnamese dong) is the smoothest option; card machines aren't guaranteed at smaller Old Town galleries
-- Ask about shipping if you fall for a large canvas — most serious galleries in the area can arrange it, but confirm cost and timeline before committing
+- Ask about shipping if you fall for a large canvas. Most serious galleries in the area can arrange it, but confirm cost and timeline before committing
 - Bargaining is more expected on souvenir crafts than on original paintings; treat gallery prices as closer to fixed
 
 The mistake most visitors make is treating the Old Town purely as a photo backdrop and never stepping into its smaller galleries and workshops. Give this one 20 to 30 minutes on your way to or from the river, and it earns its place on the walk.

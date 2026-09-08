@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-david-byrne-live-in-bangkok
-srcHash: '908e7f5bc493'
+srcHash: '9473cf81af41'
 title: 大卫·伯恩曼谷演出须知（曼谷）
 description: 前"传声头像"（Talking Heads）主唱大卫·伯恩（David Byrne）原定于2026年8月10日（星期一）在曼谷UOB Live举办演出。
 quickAnswer: 前"传声头像"主唱大卫·伯恩原定于2026年8月10日（星期一）在曼谷UOB Live登台演出。此次公布的信息中并未列出开门及开场时间，日期是唯一确认的关键信息，至于售票详情、准确开场时间以及是否有暖场嘉宾，则由UOB Live官方渠道或伯恩本人的票务合作方另行公布。

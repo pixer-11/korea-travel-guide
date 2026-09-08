@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: north-point-mak-kee
-srcHash: '3371e8cd813b'
+srcHash: 'e1fa7a1f82fb'
 title: 麥記(Mak Kee):北角のグルメガイド(評価4.0★)
 description: 麥記(Mak Kee)は北角(North Point)の砲台山道(Fortress Street)にある飾り気のない麺料理店で、濃厚で黒みがかったスープに浮かぶ雲呑麺とエビ卵麺が名物です。評価4.0★(レビュー702件)——訪問者の声、営業時間、訪問のコツをまとめました。
 quickAnswer: 麥記(Mak Kee)は北角(North Point)の砲台山道(Fortress Street)にある飾り気のない麺料理店で、濃厚で黒みがかったスープに浮かぶ雲呑麺とエビ卵麺が名物です。火曜日だけ朝9時30分と早めに開店しますが、それ以外は毎日営業しています。週末は正午から午後8時にかけて特に混み合うため、席を確保するなら早めのランチタイムか、午後の中頃に訪れるのがおすすめです。

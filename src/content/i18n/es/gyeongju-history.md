@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-history
-srcHash: 'e1a35c051659'
+srcHash: 'db627b84f32a'
 title: Historia en Gyeongju
 description: 'Pasa dos días completos en Gyeongju: uno para el circuito del Parque Tumuli/Cheomseongdae/Estanque Wolji en el centro de la ciudad, y otro para el Templo Bulguksa y la Gruta Seokguram en las colinas del este.'
 quickAnswer: 'Pasa dos días completos en Gyeongju: uno para el circuito del Parque Tumuli/Cheomseongdae/Estanque Wolji en el centro de la ciudad, y otro para el Templo Bulguksa y la Gruta Seokguram en las colinas del este. Aloja tu base cerca de Hwangnidan-gil para poder moverte a pie, alquila una bicicleta para la zona llana de las tumbas del centro, y reserva presupuesto para un taxi o las líneas de autobús 10/11/12 para llegar a la zona de Bulguksa.'

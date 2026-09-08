@@ -47,7 +47,7 @@ Because this is a newly opened branch, exact dishes and prices aren't yet locked
 
 The Galleria sits on Al Maryah Island, Abu Dhabi's financial and luxury retail district, just across the water from the older downtown core. It's known for high-end shopping and a cluster of five-star hotels, so Isabel Mayfair fits neatly into that landscape.
 
-- Taxi or ride-hailing app is the simplest route from most hotels — the island is a short crossing from central Abu Dhabi.
+- Taxi or ride-hailing app is the simplest route from most hotels. The island is a short crossing from central Abu Dhabi.
 - If you're driving, The Galleria has valet and multi-level parking; arrive with time to spare on weekend evenings.
 - Nearby landmarks include Rosewood Abu Dhabi and Four Seasons Al Maryah Island, useful reference points for taxi drivers.
 
@@ -61,11 +61,11 @@ Because the restaurant only opened in spring 2026, opening hours and reservation
 
 Reservations at a launch-year restaurant like this move fast, especially among Abu Dhabi's expat and business crowd who track new openings closely. Book online or by phone several days ahead if you can, and reconfirm the morning of your visit.
 
-Dress leans smart and polished here — this is a room where people dress for the evening, not a beach-casual spot. Collared shirts and dresses rather than shorts and sandals will feel right.
+Dress leans smart and polished here. This is a room where people dress for the evening, not a beach-casual spot. Collared shirts and dresses rather than shorts and sandals will feel right.
 
 Payment across upscale Abu Dhabi restaurants is almost always card or contactless; tipping isn't obligatory since a service charge is often added, but rounding up or adding a further 5–10% for excellent service is appreciated. If you're unsure whether a service charge is included, just ask before you settle up.
 
-Locals and residents treat a spot like this as an occasion restaurant — a birthday, an anniversary, a client dinner — rather than a casual weeknight stop. Come with that mindset: linger over courses, order to share, and let the evening stretch rather than rushing through a set menu.
+Locals and residents treat a spot like this as an occasion restaurant (a birthday, an anniversary, a client dinner) rather than a casual weeknight stop. Come with that mindset: linger over courses, order to share, and let the evening stretch rather than rushing through a set menu.
 
 The most common mistake visitors make with any brand-new opening is assuming online details are locked in. Menus, hours, and even the exact reservation system may shift in the months after launch, so always verify directly with the restaurant on the day you plan to go.
 

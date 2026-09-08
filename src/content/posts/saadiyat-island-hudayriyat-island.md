@@ -56,13 +56,13 @@ draft: false
 
 Saadiyat has the museums and the beach clubs; Hudayriyat is where Abu Dhabi actually exercises. It's a sprawling reclaimed island south of the city, connected by its own bridge, built around one enormous idea: give people space to move outdoors year-round.
 
-The scale hits you first. Wide paved paths stretch for kilometers along the coast, flanked by open scrubland on one side and turquoise shallows on the other. There's no dense urban clutter here — just horizon, tarmac, and the occasional cyclist in full kit blowing past.
+The scale hits you first. Wide paved paths stretch for kilometers along the coast, flanked by open scrubland on one side and turquoise shallows on the other. There's no dense urban clutter here, just horizon, tarmac, and the occasional cyclist in full kit blowing past.
 
 ## Getting there
 
 From central Abu Dhabi it's about a 20-minute drive south, crossing onto the island via its dedicated bridge; from Saadiyat Island allow 25 minutes. Taxis and ride-hailing apps run this route easily, though there's no direct public bus link.
 
-If you're driving yourself, expect ample free parking near the main clusters of activity — the cycling track, the beach clubs, and the adventure hub. Google Maps handles navigation fine; just search "Hudayriyat Island" rather than a specific venue.
+If you're driving yourself, expect ample free parking near the main clusters of activity, the cycling track, the beach clubs, and the adventure hub. Google Maps handles navigation fine; just search "Hudayriyat Island" rather than a specific venue.
 
 ## What to do once you're there
 
@@ -80,7 +80,7 @@ The water here is shallow and calm close to shore, which makes it comfortable fo
 
 ## When to go
 
-Hudayriyat never closes — it's open 24 hours every day of the week — but the desert sun dictates the real schedule. Midday between roughly May and September is brutally hot; locals shift almost everything to early morning or after dark.
+Hudayriyat never closes, it's open 24 hours every day of the week, but the desert sun dictates the real schedule. Midday between roughly May and September is brutally hot; locals shift almost everything to early morning or after dark.
 
 Cooler months, from November through March, are the sweet spot for a full afternoon outdoors. Even in summer, sunrise laps on the cycling track or a post-sunset stroll along the beach are genuinely comfortable.
 
@@ -88,15 +88,15 @@ Weekday mornings are noticeably quieter than Friday and Saturday, when families 
 
 ## How to visit like a local
 
-Hudayriyat is well-known among Abu Dhabi residents as the city's default fitness venue, not a discovery — so plan around the crowds rather than expecting solitude.
+Hudayriyat is well-known among Abu Dhabi residents as the city's default fitness venue, not a discovery, so plan around the crowds rather than expecting solitude.
 
 - **Time it right**: arrive before 8am for a calm run or ride, or wait until after 5pm when the heat breaks and the light turns gold.
-- **Pay by card or mobile wallet** at cafés and rental kiosks — cash works too, but tap payment is standard across the UAE.
+- **Pay by card or mobile wallet** at cafés and rental kiosks, cash works too, but tap payment is standard across the UAE.
 - **No tipping obligation** at kiosks, though rounding up for beach club staff is appreciated.
-- **Bring your own bike if you have one** — rental queues can build fast on weekend mornings.
+- **Bring your own bike if you have one**, rental queues can build fast on weekend mornings.
 - **Book beach club access ahead** for weekends; walk-ins are fine on quieter weekdays.
-- **Skip the midday visit** in summer — the tourist mistake is treating this like a beach day out at noon, when the sand and tarmac radiate serious heat.
-- **Wear proper shoes on the track** — sandals are common but painful after an hour of walking on warm pavement.
+- **Skip the midday visit** in summer. The tourist mistake is treating this like a beach day out at noon, when the sand and tarmac radiate serious heat.
+- **Wear proper shoes on the track**, sandals are common but painful after an hour of walking on warm pavement.
 
 ## Nearby stops to round out the trip
 

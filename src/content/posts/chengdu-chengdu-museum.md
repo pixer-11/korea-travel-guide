@@ -74,7 +74,7 @@ The building itself is worth a look before you even reach the exhibits. Its dark
 
 ## Getting there
 
-The museum sits right on Tianfu Square, in the heart of Qingyang District — the address that pops up as Tianfuguangchang or Renmin Xilu on maps.
+The museum sits right on Tianfu Square, in the heart of Qingyang District, the address that pops up as Tianfuguangchang or Renmin Xilu on maps.
 
 - Nearest metro: Tianfu Square Station, Lines 1 and 2, several exits lead directly onto the square
 - Landmark: directly opposite the Sichuan Science and Technology Museum, whose golden dome you'll spot first
@@ -86,7 +86,7 @@ Because it's on the square, you can pair it easily with a stroll past the Mao Ze
 
 The core draw is the folk culture and history galleries, which trace Chengdu from ancient Shu kingdom artifacts through Qing-dynasty street life. Look for the scale models of old Chengdu teahouses and the reconstructed opera stage, complete with painted masks used in Sichuan's famous "face-changing" performances.
 
-Upper floors rotate through temporary exhibitions, often pulling in loans from other Sichuan institutions — check what's showing before you go since these change the character of a visit considerably.
+Upper floors rotate through temporary exhibitions, often pulling in loans from other Sichuan institutions. Check what's showing before you go since these change the character of a visit considerably.
 
 - Bronze and stone relics room (ground floor)
 - Folk life and teahouse culture exhibit
@@ -103,9 +103,9 @@ Confirm opening hours and any closed days before you set out, since museum sched
 
 ## How to visit like a local
 
-You'll need to register with a passport or ID at the entrance — sometimes through a self-service kiosk, sometimes at a staffed counter. Booking a timed slot online in advance is common practice locally and smooths entry if the system is in use when you visit.
+You'll need to register with a passport or ID at the entrance, sometimes through a self-service kiosk, sometimes at a staffed counter. Booking a timed slot online in advance is common practice locally and smooths entry if the system is in use when you visit.
 
-- Bring a passport (not a photo of one) — staff usually need to scan the physical document
+- Bring a passport (not a photo of one), staff usually need to scan the physical document
 - Bags go through a security scan, standard at Chinese public institutions
 - Photography is generally fine in permanent galleries; watch for signs restricting it in special exhibitions
 - There's no tipping expected anywhere in Chinese museums

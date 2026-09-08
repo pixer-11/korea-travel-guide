@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-mish-delicatessen
-srcHash: 'd23ee6e21a86'
+srcHash: 'ecba7fcb5ccb'
 title: Mish Delicatessen：洛杉矶旅行指南
 description: 美国洛杉矶的Mish Delicatessen——一家人气飙升的新店：它是什么、位于哪里，以及该怎么去。
 quickAnswer: Mish Delicatessen是一家现代犹太熟食餐厅，位于洛杉矶好莱坞Melrose大道与La Brea大道交界处附近，坐落在一座采光极好的中世纪风格建筑里，配有一间完整的酒吧和楼上的听音室。这是一家2026年开业、人气迅速攀升的新店，建议选在工作日的傍晚早些时候前往，这样能更安静地体验这个空间；出发前请直接向餐厅确认营业时间和预订政策。由于这里话题度很高，周末晚间预计会是最热闹的时段。

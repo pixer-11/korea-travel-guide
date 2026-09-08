@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: verona-castel-san-pietro
-srcHash: '592897c3c37a'
+srcHash: '8278b149cbeb'
 title: 'Castel San Pietro: guía de viaje de Verona (4,7★)'
 description: 'Castel San Pietro se alza en la colina que domina el Teatro Romano de Verona, y se visita por el panorama, no por el interior: la fortaleza permanece cerrada al público, pero la terraza que la precede regala la mejor vista de los tejados de terracota de la ciudad y del meandro del río Adigio. 4,7★ (9.629 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Castel San Pietro se alza en la colina que domina el Teatro Romano de Verona, y se visita por el panorama, no por el interior: la fortaleza permanece cerrada al público, pero la terraza que la precede regala la mejor vista de los tejados de terracota de la ciudad y del meandro del río Adigio. Abre todos los días de 10:30 a 16:30. Si puedes, ve temprano en un día de semana, porque los fines de semana se llena entre las 11:00 y las 16:00.'

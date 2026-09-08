@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-avenged-sevenfold-asia-tour-2026
-srcHash: '4f69f2f22fe6'
+srcHash: '958edda6777b'
 title: Avenged Sevenfold 2026亚洲巡演：新加坡站日期、门票与场馆信息
 description: Avenged Sevenfold 2026亚洲巡演新加坡站将于2026年10月13日举行。演出是什么、时间地点如何安排、行程该怎么规划，这里都有答案。
 quickAnswer: 2026年10月13日，来自加州的重金属乐队Avenged Sevenfold将在2026亚洲巡演中登陆新加坡室内体育场（Singapore Indoor Stadium）。场馆位于加冷（Kallang），从体育场地铁站（Stadium MRT station）步行即到，是新加坡最方便抵达、无需自驾的体育馆级演出场地之一。订机票和酒店前，请务必先在官网确认演出时间与门票信息。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-yakiuo-ishikawa
-srcHash: 'bf0cc4882f69'
+srcHash: 'c9d990c05db7'
 title: 'Yakiuo Ishikawa: guía de viaje por Ciudad Ho Chi Minh'
 description: 'Yakiuo Ishikawa, en el Distrito 1 de Ciudad Ho Chi Minh, Vietnam, es uno de los locales del momento: qué es, dónde está y cómo planear tu visita.'
 quickAnswer: 'Yakiuo Ishikawa es un concepto nacido en Tokio que reinventa el yakiniku sin carne de res: en pleno Distrito 1 de Ciudad Ho Chi Minh, se sirve marisco de calidad sashimi —el atún Otoro sellado a la parrilla es la estrella— para recrear la experiencia clásica de una parrillada de Wagyu. El restaurante se alzó con el Vietcetera Flavors Award al "Concepto del Año" y ahora se expande con un segundo local en Thao Dien. Conviene reservar con antelación, sobre todo para la cena, y confirmar el horario vigente antes de ir, ya que está por abrir una nueva sede.'

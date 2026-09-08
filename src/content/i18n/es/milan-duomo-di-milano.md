@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-duomo-di-milano
-srcHash: 'eb17bec9133b'
+srcHash: '7ca73d0373a9'
 title: 'Duomo di Milán: Guía de viaje de Milán'
 description: El Duomo di Milano, la catedral gótica de Milán en la Piazza del Duomo, se visita mejor a primera hora de la mañana (antes de las 9:30) para evitar las multitudes, con una entrada a la terraza de la azotea para disfrutar de vistas de los Alpes en días despejados.
 quickAnswer: 'El Duomo di Milano, la catedral gótica de Milán en la Piazza del Duomo, se visita mejor a primera hora de la mañana (antes de las 9:30) para evitar las multitudes, con una entrada a la terraza de la azotea para disfrutar de vistas de los Alpes en días despejados. Calcula entre 1,5 y 2 horas para la catedral y la azotea, y más si añades el Museo del Duomo. Reserva las entradas online con antelación: es uno de los lugares más visitados de Italia y las colas para entradas sin reserva pueden superar la hora.'

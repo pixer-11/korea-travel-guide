@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-itzy-3rd-world-tour-tunnel-vision
-srcHash: '7f9a92cad1a0'
+srcHash: '13fb1ed3efef'
 title: ITZY 第三次世界巡演〈TUNNEL VISION〉：日期、门票与场馆信息（新加坡）
 description: ITZY 第三次世界巡演〈TUNNEL VISION〉将于2026年9月30日在新加坡举行——这份指南将告诉你演出信息、时间地点，以及该如何提前规划行程。
 quickAnswer: ITZY 将于2026年9月30日携第三次世界巡演〈TUNNEL VISION〉重返新加坡舞台，这也是他们自上次在当地开唱以来首次回归。由于场馆、票价档位和开场时间在官方公布后仍可能调整，本指南暂未锁定这些细节，订购机票酒店前，请务必以 ITZY 官方社交账号和官方票务合作方公布的信息为准。

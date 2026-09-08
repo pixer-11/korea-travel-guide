@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-hollywood-walk-of-fame
-srcHash: 'ba3711677f8b'
+srcHash: '57d6101c01ff'
 title: 'Paseo de la Fama de Hollywood: Guía de viaje de Los Ángeles'
 description: Camina por Hollywood Boulevard entre La Brea y Vine (con una desviación por Vine hasta Sunset) a cualquier hora — está abierto las 24 horas — pero ve entre las 7 y las 10 de la mañana entre semana o de 7 a 9 de la mañana los fines de semana para ver las estrellas de terrazo sin abrirte paso entre la multitud.
 quickAnswer: Camina por Hollywood Boulevard entre La Brea y Vine (con una desviación por Vine hasta Sunset) a cualquier hora — está abierto las 24 horas — pero ve entre las 7 y las 10 de la mañana entre semana o de 7 a 9 de la mañana los fines de semana para ver las estrellas de terrazo sin abrirte paso entre la multitud. Calcula unos 45–90 minutos, ponte zapatos que no te importe rozar contra el concreto, y combínalo con el atrio del TCL Chinese Theatre y el Dolby Theatre, justo al lado.

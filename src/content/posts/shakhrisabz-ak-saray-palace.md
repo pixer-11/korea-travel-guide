@@ -82,13 +82,13 @@ draft: false
 
 You come to Ak-Saray for scale, not completeness. Two enormous mosaic-clad towers rise out of a grassy park, all that's left of a gateway once so vast that its full arch is said to have soared some 50 meters high.
 
-Timur began building this summer palace in 1380 to outshine anything his rivals had seen. It reportedly took more than 20 years, and even unfinished, it staggered visitors — a 15th-century Spanish envoy called it one of the most magnificent buildings he'd ever encountered.
+Timur began building this summer palace in 1380 to outshine anything his rivals had seen. It reportedly took more than 20 years, and even unfinished, it staggered visitors, a 15th-century Spanish envoy called it one of the most magnificent buildings he'd ever encountered.
 
 ## What you actually see
 
 Don't expect a palace. Earthquakes and centuries of stone-robbing left only the entrance portal's flanking towers standing, stripped of the halls, courtyards, and gardens they once framed.
 
-What survives is still arresting up close. The turquoise, white, and navy tilework spells out geometric strapwork and Kufic script across the brickwork, faded in patches but original in feel — you're looking at real 14th-century ceramic mosaic, not a modern reconstruction.
+What survives is still arresting up close. The turquoise, white, and navy tilework spells out geometric strapwork and Kufic script across the brickwork, faded in patches but original in feel. You're looking at real 14th-century ceramic mosaic, not a modern reconstruction.
 
 Walk between the two towers and look up at the remaining fragment of the arch. It gives you a sense, however partial, of how overwhelming the full gate must have felt to someone approaching on horseback six centuries ago.
 
@@ -96,7 +96,7 @@ Walk between the two towers and look up at the remaining fragment of the arch. I
 
 Shakhrisabz sits about an hour's drive south of Samarkand, over the Takhtakaracha mountain pass. Most visitors come as a day trip from Samarkand by shared taxi, private car, or organized tour, though staying overnight lets you see the town's other Timurid sites too.
 
-Ak-Saray itself is unmissable once you're in town — it anchors the main pedestrian park at Shakhrisabz's center, a short walk from the bazaar and the mausoleums of Dorut Tilovat and Dorus Saodat.
+Ak-Saray itself is unmissable once you're in town, it anchors the main pedestrian park at Shakhrisabz's center, a short walk from the bazaar and the mausoleums of Dorut Tilovat and Dorus Saodat.
 
 ## When to go
 
@@ -115,7 +115,7 @@ Spring and autumn bring the most comfortable temperatures for walking the open p
 Ak-Saray isn't a secret, but it's still under-the-radar compared to Samarkand's headline sites, so you can often have the towers nearly to yourself if you time it right.
 
 - Arrive right at sunrise, in that 7am–8am weekday window, when the light also flatters the tilework
-- No booking is needed — this is an open public space, not a ticketed monument, so there's nothing to reserve
+- No booking is needed. This is an open public space, not a ticketed monument, so there's nothing to reserve
 - If you visit a nearby paid museum, small notes or coins are handy for entry fees and photo permits; larger shops in town increasingly take cards
 - Locals use the park for evening strolls and family photos, so dress and behave as you would in any public square, not a fenced archaeological site
 - The mistake tourists make is rushing through in ten minutes; slow down, walk the full perimeter, and look at the tilework at both close range and from across the park to appreciate the scale

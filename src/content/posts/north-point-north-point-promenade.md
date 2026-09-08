@@ -76,13 +76,13 @@ You get unobstructed views across Victoria Harbour toward Kowloon, container cra
 
 ## Getting there
 
-The promenade runs along the North Point waterfront, an easy walk from North Point MTR Station (Island Line and Tseung Kwan O Line). Take an exit toward Wan Fu Street or the ferry pier and head north toward the water — you'll hit the railing within five to ten minutes.
+The promenade runs along the North Point waterfront, an easy walk from North Point MTR Station (Island Line and Tseung Kwan O Line). Take an exit toward Wan Fu Street or the ferry pier and head north toward the water. You'll hit the railing within five to ten minutes.
 
 If you're coming from Central or Wan Chai, the tram (the "ding ding") drops you a short walk inland, and it's a scenic, cheap way to arrive. The North Point Ferry Pier sits right alongside the promenade too, so if you're island-hopping from Kowloon, you can walk straight off the boat onto the walkway.
 
 ## What to see and do
 
-This isn't a manicured park with topiary and fountains — it's a working stretch of harbour edge, and that's the point.
+This isn't a manicured park with topiary and fountains. It's a working stretch of harbour edge, and that's the point.
 
 - Watch container ships and tugboats work the harbour up close
 - Photograph the Kowloon skyline without a crowd in your frame
@@ -90,7 +90,7 @@ This isn't a manicured park with topiary and fountains — it's a working stretc
 - Follow the walkway toward Quarry Bay for a longer harbourside stroll
 - Sit on one of the benches and just watch the water traffic for a while
 
-There's little in the way of food stalls or shops directly on the promenade, so it pairs well with a stop in North Point's older streets — the wet market and cha chaan tengs a few minutes inland are worth the detour before or after.
+There's little in the way of food stalls or shops directly on the promenade, so it pairs well with a stop in North Point's older streets, the wet market and cha chaan tengs a few minutes inland are worth the detour before or after.
 
 ## When to go
 
@@ -98,16 +98,16 @@ The promenade is open 24 hours, every day, so there's no gate schedule to work a
 
 Weekends tend to be the busiest stretch, with families, joggers and photographers all out at once. If you want the water mostly to yourself, aim for a weekday morning or a weeknight after dinner, when the light off the harbour is just as good and the bench space is easier to find.
 
-Sunset is the classic hour here — the sky over Kowloon goes orange and pink, and the skyline starts lighting up as the light drops. Early morning has its own quiet appeal, with joggers, tai chi practitioners and a cooler breeze off the water.
+Sunset is the classic hour here. The sky over Kowloon goes orange and pink, and the skyline starts lighting up as the light drops. Early morning has its own quiet appeal, with joggers, tai chi practitioners and a cooler breeze off the water.
 
 ## How to visit like a local
 
-Treat it as a walking route, not a destination to linger at for hours. Locals use this promenade for a morning jog, an evening stroll after dinner, or a quiet spot to fish — not as a tourist stop, so pace yourself accordingly.
+Treat it as a walking route, not a destination to linger at for hours. Locals use this promenade for a morning jog, an evening stroll after dinner, or a quiet spot to fish, not as a tourist stop, so pace yourself accordingly.
 
-- Wear real shoes — the paving is uneven in stretches and better suited to walking than sightseeing in sandals
+- Wear real shoes. The paving is uneven in stretches and better suited to walking than sightseeing in sandals
 - Bring your own water; there are few vendors directly on the promenade itself
 - If you want the photo without people in it, go right after sunrise
-- Nobody pays for entry or parking here — it's a free public waterfront, no ticket booth, no app
+- Nobody pays for entry or parking here. It's a free public waterfront, no ticket booth, no app
 - Combine it with a tram ride or ferry crossing so the journey itself becomes part of the visit
 
-The biggest mistake visitors make is treating this like Central's polished harbourfront and expecting cafés, art installations, or crowds to guide them. There's none of that here — just a working stretch of Hong Kong's waterfront, where the appeal is the industrial backdrop and the fact that it hasn't been dressed up for tourists. Come for the view and the quiet, not the amenities, and you'll leave satisfied rather than disappointed.
+The biggest mistake visitors make is treating this like Central's polished harbourfront and expecting cafés, art installations, or crowds to guide them. There's none of that here, just a working stretch of Hong Kong's waterfront, where the appeal is the industrial backdrop and the fact that it hasn't been dressed up for tourists. Come for the view and the quiet, not the amenities, and you'll leave satisfied rather than disappointed.

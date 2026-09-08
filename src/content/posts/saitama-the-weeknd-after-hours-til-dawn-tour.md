@@ -45,9 +45,9 @@ eventFactsAsked: true
 
 ## Why this show matters
 
-Two nights, one dome, and the final Asia stop on a tour built around one of the biggest pop and R&B catalogs of the last decade. The Weeknd has structured After Hours Til Dawn as a genuine spectacle — layered stage design, a nonlinear trip through his eras from "House of Balloons" through "Dawn FM." Landing it in Saitama, with Creepy Nuts opening, gives the run a distinctly Japanese flavor rather than a generic tour stop.
+Two nights, one dome, and the final Asia stop on a tour built around one of the biggest pop and R&B catalogs of the last decade. The Weeknd has structured After Hours Til Dawn as a genuine spectacle, layered stage design, a nonlinear trip through his eras from "House of Balloons" through "Dawn FM." Landing it in Saitama, with Creepy Nuts opening, gives the run a distinctly Japanese flavor rather than a generic tour stop.
 
-Creepy Nuts aren't a warm-up act to skip. The duo — rapper R-Shitei and DJ Matsunaga — have crossed over hard in Japan in recent years, and their inclusion signals this is being treated as a cultural event, not just an import show.
+Creepy Nuts aren't a warm-up act to skip. The duo, rapper R-Shitei and DJ Matsunaga, have crossed over hard in Japan in recent years, and their inclusion signals this is being treated as a cultural event, not just an import show.
 
 ## Getting to Belluna Dome
 
@@ -55,13 +55,13 @@ Belluna Dome sits in Tokorozawa, Saitama Prefecture, and is most commonly reache
 
 - From central Tokyo, take the Seibu Ikebukuro Line to Tokorozawa, then transfer to the short shuttle line to Seibu-Kyujo-mae.
 - The walk from the station to the dome is brief and well signposted on event days.
-- Expect heavy foot traffic funneling through the station on both show nights — build in extra time.
+- Expect heavy foot traffic funneling through the station on both show nights, build in extra time.
 
 Confirm the exact route and any special event-day train schedules on Seibu Railway's site closer to September 2026, since operators often add extra services for arena and dome shows.
 
 ## When to arrive
 
-With two consecutive nights on September 19 and 20, 2026, expect the surrounding streets and station concourse to be busiest in the hour or two before doors. Arriving early isn't just about beating lines — dome shows in Japan tend to have organized, queue-based entry by gate or block number.
+With two consecutive nights on September 19 and 20, 2026, expect the surrounding streets and station concourse to be busiest in the hour or two before doors. Arriving early isn't just about beating lines, dome shows in Japan tend to have organized, queue-based entry by gate or block number.
 
 Doors, set times, and any support-act schedule will come from the official tour page and venue channels, not fan speculation. Treat any third-party posted timing as provisional until it's confirmed.
 
@@ -69,7 +69,7 @@ Doors, set times, and any support-act schedule will come from the official tour 
 
 Tickets for international tour stops like this typically move through official ticketing partners tied to the promoter and venue, with a general on-sale preceded by presale windows. For a two-night dome run with a crossover local act on the bill, expect strong demand from both international fans and Creepy Nuts' domestic following.
 
-Check The Weeknd's official tour site and Belluna Dome's venue page directly for on-sale dates, price tiers, and any resale or ticket-transfer policies — do not rely on secondary marketplaces without verifying legitimacy first.
+Check The Weeknd's official tour site and Belluna Dome's venue page directly for on-sale dates, price tiers, and any resale or ticket-transfer policies. Do not rely on secondary marketplaces without verifying legitimacy first.
 
 ## Where to stay
 
@@ -77,17 +77,17 @@ Saitama City and Tokorozawa itself have limited hotel stock compared to central 
 
 - Ikebukuro: more dining and nightlife options, direct Seibu Line access.
 - Tokorozawa: closer to the dome, quieter, useful if you're attending both nights.
-- Book early — two sold-out nights at a major venue will squeeze local inventory fast.
+- Book early. Two sold-out nights at a major venue will squeeze local inventory fast.
 
 ## How to visit like a local
 
-Japanese arena and dome crowds are notably orderly, and this show will be no exception. Lines form by numbered block or gate well before doors, and cutting in is simply not done — join your queue and wait.
+Japanese arena and dome crowds are notably orderly, and this show will be no exception. Lines form by numbered block or gate well before doors, and cutting in is simply not done, join your queue and wait.
 
 Cash still matters here. While major venues increasingly accept IC transit cards (Suica, PASMO) for merchandise and concessions, carrying cash covers you if a stall or line moves faster with it.
 
-Merchandise queues typically form separately from entry queues, often hours before doors — decide in advance whether that's worth your time. Glow sticks, light-up wristbands, or synced fan-tech are common at big Tokyo-area shows; check the official tour communications for whether this show uses one.
+Merchandise queues typically form separately from entry queues, often hours before doors, decide in advance whether that's worth your time. Glow sticks, light-up wristbands, or synced fan-tech are common at big Tokyo-area shows; check the official tour communications for whether this show uses one.
 
-The most common mistake visiting fans make: assuming a ticket confirms entry time and gate. Read your ticket carefully — Japanese venues frequently assign specific gates or blocks, and showing up at the wrong one costs you time you don't have.
+The most common mistake visiting fans make: assuming a ticket confirms entry time and gate. Read your ticket carefully, Japanese venues frequently assign specific gates or blocks, and showing up at the wrong one costs you time you don't have.
 
 Trains stop running late in Japan. Know your last train from Seibu-Kyujo-mae or plan a taxi, because a sold-out dome emptying out at once makes for a slow walk to the platform.
 

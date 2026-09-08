@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: washington-dc-unconventional-diner
-srcHash: '81b0e7434e75'
+srcHash: '512485cca3cf'
 title: アンコンベンショナル・ダイナー：ワシントンDCで食事をするなら（4.7★）
 description: アンコンベンショナル・ダイナー（Unconventional Diner）はショー（Shaw)地区の9th Street NWにあり、毎日午前7時から午後10時まで高級コンフォートフードを提供しています。4.7★（8,901件のレビュー）— 訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: アンコンベンショナル・ダイナー（Unconventional Diner）はショー（Shaw)地区の9th Street NWにあり、毎日午前7時から午後10時まで高級コンフォートフードを提供しています。朝食にはビスケットとベーコンファット・ポップコーンを、それ以降の時間にはフライドチキンやバーガーがおすすめです。待ち時間なく席に着きたいなら、平日の午前9時前が一番の狙い目です。

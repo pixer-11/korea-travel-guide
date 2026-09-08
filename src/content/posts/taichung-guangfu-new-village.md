@@ -58,19 +58,19 @@ draft: false
 
 ## Why go
 
-GuangFu New Village isn't a temple or a night market — it's a village that refused to disappear. Built in the 1950s to house military families, its low concrete rowhouses sat half-abandoned for decades until artists and small businesses moved in and quietly rewired the place.
+GuangFu New Village isn't a temple or a night market. It's a village that refused to disappear. Built in the 1950s to house military families, its low concrete rowhouses sat half-abandoned for decades until artists and small businesses moved in and quietly rewired the place.
 
 Today you walk narrow lanes lined with mango and banyan trees, past pastel-painted walls, hand-lettered shop signs, and courtyards turned into open-air galleries. It reads less like a tourist attraction and more like a neighborhood that happens to have a lot of interesting people living in it.
 
 ## Getting there
 
-The village sits in Wufeng District, Taichung, on Heping Road near Kengkou Village — a bit removed from the city center, so plan for a taxi, scooter, or bus rather than a walk from the nearest MRT.
+The village sits in Wufeng District, Taichung, on Heping Road near Kengkou Village, a bit removed from the city center, so plan for a taxi, scooter, or bus rather than a walk from the nearest MRT.
 
 Most visitors combine it with a stop at the nearby National Museum of Natural Science's Wufeng campus or the 921 Earthquake Museum, both a short drive away. Parking is available near the entrance, which makes a rental scooter or a short taxi ride from central Taichung the easiest option.
 
 ## What to see and do
 
-There's no single "must-see" building — the appeal is in slow wandering. Give yourself time to duck into open studio doors and see what's actually being made that day.
+There's no single "must-see" building. The appeal is in slow wandering. Give yourself time to duck into open studio doors and see what's actually being made that day.
 
 Look out for:
 - Converted military houses now used as ceramics and printmaking studios
@@ -88,15 +88,15 @@ Portions and prices tend toward the mid-range rather than cheap, reflecting the 
 
 ## When to go
 
-The village itself never technically closes — it's an open residential-turned-cultural area, not a gated site — but individual shops, cafes and galleries keep their own hours, generally late morning through early evening. Weekends bring the heaviest foot traffic, with tour groups and photographers filling the main lanes by early afternoon.
+The village itself never technically closes (it's an open residential-turned-cultural area, not a gated site), but individual shops, cafes and galleries keep their own hours, generally late morning through early evening. Weekends bring the heaviest foot traffic, with tour groups and photographers filling the main lanes by early afternoon.
 
 Weekday mornings are noticeably calmer, and the light through the trees is softer for photos. If you only have one window, aim for a weekday between opening and lunch, before the day-trip crowds arrive from central Taichung.
 
 ## How to visit like a local
 
-This is a well-visited spot now, not a hidden find, so the local move is about timing rather than discovery. Go on a weekday morning if you can — weekends get genuinely crowded, especially after lunch.
+This is a well-visited spot now, not a hidden find, so the local move is about timing rather than discovery. Go on a weekday morning if you can. Weekends get genuinely crowded, especially after lunch.
 
 Most cafes and shops take mobile payment or card, but it's still worth carrying small cash for smaller studio stalls that don't. There's no formal queue system; you simply wander in and out of open studios as you find them.
 
-The etiquette here is the same as visiting someone's neighborhood: keep your voice down in residential lanes, don't step into studios that are clearly closed or private, and ask before photographing artists at work. The mistake most first-timers make is treating it like a theme park and rushing through in twenty minutes — the whole point is to slow down and actually look.
+The etiquette here is the same as visiting someone's neighborhood: keep your voice down in residential lanes, don't step into studios that are clearly closed or private, and ask before photographing artists at work. The mistake most first-timers make is treating it like a theme park and rushing through in twenty minutes. The whole point is to slow down and actually look.
 

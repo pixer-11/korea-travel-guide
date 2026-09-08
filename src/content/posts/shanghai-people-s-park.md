@@ -76,17 +76,17 @@ draft: false
 
 ## Why go
 
-Most visitors to Huangpu District come for the Shanghai Museum or the neon canyon of Nanjing Road and never notice the park stitched in between them. That's the appeal. People's Park isn't a monument — it's a working lung for a district otherwise made of glass and concrete, and it earns its 4.4-star reputation among the people who actually use it rather than photograph it. You come here to slow down, not to check a box.
+Most visitors to Huangpu District come for the Shanghai Museum or the neon canyon of Nanjing Road and never notice the park stitched in between them. That's the appeal. People's Park isn't a monument. It's a working lung for a district otherwise made of glass and concrete, and it earns its 4.4-star reputation among the people who actually use it rather than photograph it. You come here to slow down, not to check a box.
 
-The land itself has a layered history: it sits on part of what was the Shanghai Racecourse under British colonial control before 1949, later split into People's Square and People's Park under the new municipal government. None of that is signposted in an obvious way, but it's worth knowing as you walk the curving paths — this quiet green space was once a horse track ringed by grandstands, now hemmed in by the Shimao International Plaza and the arcing glass roof of the Grand Theatre.
+The land itself has a layered history: it sits on part of what was the Shanghai Racecourse under British colonial control before 1949, later split into People's Square and People's Park under the new municipal government. None of that is signposted in an obvious way, but it's worth knowing as you walk the curving paths, this quiet green space was once a horse track ringed by grandstands, now hemmed in by the Shimao International Plaza and the arcing glass roof of the Grand Theatre.
 
 ## What you'll find inside
 
 The park is compact but layered: clipped lawns give way to denser groves of plane trees, gravel paths loop around an ornamental pond thick with lily pads in summer, and stone bridges arch over koi that gather when anyone leans on the railing. Elderly residents practice tai chi and sword-fan routines on the open paved areas in the early hours; by mid-morning, it's parents with strollers and office workers cutting through with takeaway coffee.
 
-Barbarossa, the lakeside cafe-bar built partly over the water, is the park's one real landmark — an odd, slightly kitsch structure with a terrace that looks out over the pond, popular for a slow coffee or an evening drink once the lanterns come on.
+Barbarossa, the lakeside cafe-bar built partly over the water, is the park's one real landmark, an odd, slightly kitsch structure with a terrace that looks out over the pond, popular for a slow coffee or an evening drink once the lanterns come on.
 
-Inside the park's northeast corner is the Shanghai Museum of Contemporary Art (MOCA Shanghai), a glass-and-steel pavilion that started life as a greenhouse — worth a look even from outside for the architecture alone. And on weekend afternoons, don't be surprised to stumble on the park's famous "marriage market," where parents post handwritten profiles of their unmarried adult children on strung-up umbrellas, hoping to matchmake them with a stranger's equally unmarried son or daughter. It's one of the more unusual, entirely unstaged scenes in central Shanghai.
+Inside the park's northeast corner is the Shanghai Museum of Contemporary Art (MOCA Shanghai), a glass-and-steel pavilion that started life as a greenhouse, worth a look even from outside for the architecture alone. And on weekend afternoons, don't be surprised to stumble on the park's famous "marriage market," where parents post handwritten profiles of their unmarried adult children on strung-up umbrellas, hoping to matchmake them with a stranger's equally unmarried son or daughter. It's one of the more unusual, entirely unstaged scenes in central Shanghai.
 
 ## Getting there
 
@@ -94,10 +94,10 @@ People's Park sits directly on People's Square, and People's Square Station (Lin
 
 ## When to go
 
-The crowd data here is useful: the park is quietest on weekdays between 7am and 8am, and on weekends between 7am and 9am — those early windows are when you'll have the paths and the pond largely to yourself, aside from the regular tai chi groups. On weekends, traffic builds steadily and stays heavy from around 10am all the way to 11pm, so if you want the calm version of the park rather than the busy one, come before the day gets going. An hour is enough to see everything; two if you linger over coffee at Barbarossa.
+The crowd data here is useful: the park is quietest on weekdays between 7am and 8am, and on weekends between 7am and 9am, those early windows are when you'll have the paths and the pond largely to yourself, aside from the regular tai chi groups. On weekends, traffic builds steadily and stays heavy from around 10am all the way to 11pm, so if you want the calm version of the park rather than the busy one, come before the day gets going. An hour is enough to see everything; two if you linger over coffee at Barbarossa.
 
 ## How to visit like a local
 
-Skip the mid-morning rush and come at opening hour instead — locals who use this park daily are the tai chi practitioners and dog walkers already there at 7am, not the tour groups that arrive later. There's no admission fee and no ticket queue to plan around, so there's no need to book anything; just walk in through any of the gates ringing People's Square.
+Skip the mid-morning rush and come at opening hour instead, locals who use this park daily are the tai chi practitioners and dog walkers already there at 7am, not the tour groups that arrive later. There's no admission fee and no ticket queue to plan around, so there's no need to book anything; just walk in through any of the gates ringing People's Square.
 
-Cash and mobile payment (WeChat Pay/Alipay) both work fine at the cafe if you stop for a drink, though card is less reliable. If you pass the marriage market on a weekend, observe respectfully rather than photographing strangers' handwritten flyers up close — it's a real, functioning social ritual, not a tourist display. The mistake most visitors make is treating the park as a five-minute cut-through between the museum and the metro; give it the full loop instead, out past the pond and into the tree cover, where the traffic noise disappears almost entirely.
+Cash and mobile payment (WeChat Pay/Alipay) both work fine at the cafe if you stop for a drink, though card is less reliable. If you pass the marriage market on a weekend, observe respectfully rather than photographing strangers' handwritten flyers up close. It's a real, functioning social ritual, not a tourist display. The mistake most visitors make is treating the park as a five-minute cut-through between the museum and the metro; give it the full loop instead, out past the pond and into the tree cover, where the traffic noise disappears almost entirely.

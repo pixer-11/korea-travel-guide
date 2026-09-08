@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taichung-rainbow-village
-srcHash: 'e8fb8d15780c'
+srcHash: '2c8b0f1010d9'
 title: 'Aldea Arcoíris (Rainbow Village): Guía de viaje de Taichung'
 description: Rainbow Village (彩虹眷村) es una antigua aldea de dependientes militares en el distrito de Nantun, en Taichung, que un veterano de avanzada edad, Huang Yung-fu, cubrió él solo con vívidas pinturas de pájaros, animales y figuras para salvarla de la demolición.
 quickAnswer: Rainbow Village (彩虹眷村) es una antigua aldea de dependientes militares en el distrito de Nantun, en Taichung, que un veterano de avanzada edad, Huang Yung-fu, cubrió él solo con vívidas pinturas de pájaros, animales y figuras para salvarla de la demolición. Calcula entre 45 y 60 minutos, ve un día de semana por la mañana para evitar las multitudes de autobuses turísticos, y combínala con el cercano mercado nocturno de Fengjia o con Xitou si estás organizando un día completo. La entrada es gratuita, y la forma más sencilla de llegar es en autobús urbano en dirección a Lingdong/Ling Tung University, con una parada justo al lado del lugar.

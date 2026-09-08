@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hoi-an-japanese-bridge
-srcHash: '9103428e58f0'
+srcHash: 'f5ced5dfd264'
 title: 'Puente Japonés: Guía de viaje de Hoi An'
 description: El Puente Japonés (Chùa Cầu) es el icónico puente cubierto de madera del siglo XVIII de Hoi An, que cruza un pequeño canal cerca de la calle Nguyễn Thị Minh Khai, en pleno corazón del Casco Antiguo.
 quickAnswer: El Puente Japonés (Chùa Cầu) es el icónico puente cubierto de madera del siglo XVIII de Hoi An, que cruza un pequeño canal cerca de la calle Nguyễn Thị Minh Khai, en pleno corazón del Casco Antiguo. Visítalo justo a la apertura (9am) o después del atardecer, cuando los faroles iluminan la estructura (permanece abierto hasta las 10pm), y reserva entre 15 y 20 minutos para verlo junto con el pequeño santuario en su interior; la entrada requiere el ticket patrimonial del Casco Antiguo de Hoi An. Combínalo con un paseo por el malecón y las casas de comerciantes cercanas, ya que se encuentra justo en el extremo occidental del casco antiguo.

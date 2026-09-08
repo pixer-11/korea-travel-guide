@@ -48,26 +48,26 @@ updatedDate: '2026-08-31'
 
 You feel it before you see it: the boat engine cuts, and suddenly there's just water lapping against limestone. Twin Lagoon sits tucked into a cove on Coron Island, its cliffs rising sheer and grey-green, streaked with mineral stains and hanging vines.
 
-The water below is so clear you can count the rocks ten feet down. This isn't a beach — there's no sand to speak of. It's a swim-up experience, and that's exactly the point.
+The water below is so clear you can count the rocks ten feet down. This isn't a beach. There's no sand to speak of. It's a swim-up experience, and that's exactly the point.
 
 ## What you actually do there
 
 Boats moor at a wooden platform and ladder built into the rock face. You climb down into the outer lagoon, a shallow, sun-warmed pool that's easy for weak swimmers.
 
-From there, a narrow gap in the limestone leads to the inner lagoon. Swim or snorkel through it and the water turns noticeably colder — a freshwater layer sits on top of the salt water, and you can feel the thermocline against your skin as you pass through.
+From there, a narrow gap in the limestone leads to the inner lagoon. Swim or snorkel through it and the water turns noticeably colder. A freshwater layer sits on top of the salt water, and you can feel the thermocline against your skin as you pass through.
 
 The inner lagoon is deeper, quieter, and walled in on all sides by rock. Sound behaves strangely in there; voices echo off the cliffs.
 
-- Bring a waterproof bag — no dry storage on the platform
+- Bring a waterproof bag, no dry storage on the platform
 - Skip the sunscreen before swimming; it damages the limestone and coral
-- Snorkel gear helps but isn't essential — the channel swim is short
+- Snorkel gear helps but isn't essential. The channel swim is short
 - Watch your footing on the ladder; the rock gets slick
 
 ## Getting there
 
-Twin Lagoon sits within Coron Island, off the coast of Coron town in northern Palawan. Almost nobody visits independently — nearly all boats arrive as part of Coron Island Hopping "Tour A," which also usually includes Kayangan Lake and Barracuda Lake.
+Twin Lagoon sits within Coron Island, off the coast of Coron town in northern Palawan. Almost nobody visits independently, nearly all boats arrive as part of Coron Island Hopping "Tour A," which also usually includes Kayangan Lake and Barracuda Lake.
 
-Tours depart from Coron town's public beach or your resort's pickup point, typically by 8am or 9am, and run as full-day trips with several stops. Expect a Tagbanua indigenous community environmental fee payable at the island entrance, separate from your tour cost — bring small cash for this.
+Tours depart from Coron town's public beach or your resort's pickup point, typically by 8am or 9am, and run as full-day trips with several stops. Expect a Tagbanua indigenous community environmental fee payable at the island entrance, separate from your tour cost. Bring small cash for this.
 
 ## When to go
 
@@ -82,10 +82,10 @@ Twin Lagoon is still fairly under-the-radar compared to Coron Island's other fam
 Ask your boat operator to hit Twin Lagoon first or last on the Tour A route, rather than mid-morning when the platform gets crowded. Most tour groups follow the same rough order, so a slight shift in timing goes a long way.
 
 - Pay your tour operator in cash, and keep small bills for the island entrance fee
-- Wear a rash guard instead of sunscreen — reef-safe products are limited here
+- Wear a rash guard instead of sunscreen, reef-safe products are limited here
 - Don't linger blocking the ladder; it's the only entry and exit point
-- Ask if you can swim the channel yourself rather than staying in the outer pool — some boat crews assume tourists want to just float
+- Ask if you can swim the channel yourself rather than staying in the outer pool, some boat crews assume tourists want to just float
 
-The biggest mistake visitors make is treating Twin Lagoon as a quick photo stop. Budget real time to swim through to the inner lagoon — the temperature change and the closed-in rock walls are the actual experience, not the view from the platform.
+The biggest mistake visitors make is treating Twin Lagoon as a quick photo stop. Budget real time to swim through to the inner lagoon, the temperature change and the closed-in rock walls are the actual experience, not the view from the platform.
 
-Bring an underwater or waterproof camera if you have one; the visibility on a calm morning is good enough to make it worth it. And don't expect wifi, food stalls, or facilities — this is open water and rock, nothing else, so pack water and snacks on the boat beforehand.
+Bring an underwater or waterproof camera if you have one; the visibility on a calm morning is good enough to make it worth it. And don't expect wifi, food stalls, or facilities. This is open water and rock, nothing else, so pack water and snacks on the boat beforehand.

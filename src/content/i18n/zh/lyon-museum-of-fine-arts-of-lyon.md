@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-museum-of-fine-arts-of-lyon
-srcHash: '1745ccea014c'
+srcHash: '030593c53180'
 title: 里昂美术馆旅行指南（4.5★）
 description: 里昂美术馆（Musée des Beaux-Arts de Lyon）位于恐怖广场（Place des Terreaux），是法国卢浮宫之外规模最大的美术收藏之一，坐落于一座17世纪的本笃会修道院旧址内。4.5★（9,269条评价）——游客评价、开放时间与实用建议。
 quickAnswer: 里昂美术馆（Musée des Beaux-Arts de Lyon）位于恐怖广场（Place des Terreaux），是法国卢浮宫之外规模最大的美术收藏之一，坐落于一座17世纪的本笃会修道院旧址内。建议预留两到三个小时参观，如果时间允许，尽量选在工作日上午前往，并注意周二全天闭馆。周末上午11点到下午6点之间人流较多，最好在开馆时就抵达以避开人潮。

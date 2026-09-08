@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bohol-baclayon-church
-srcHash: '9a93fe422168'
+srcHash: '946d2bc80632'
 title: 'Iglesia de Baclayon: Guía de viaje de Bohol (4.4★)'
 description: 'A unos 8 km al este de Tagbilaran, la iglesia de Baclayon es una de las más antiguas construidas en piedra de todo Filipinas, levantada por los jesuitas con bloques de coral entre 1590 y 1727. 4.4★ (2.739 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A unos 8 km al este de Tagbilaran, la iglesia de Baclayon es una de las más antiguas construidas en piedra de todo Filipinas, levantada por los jesuitas con bloques de coral entre 1590 y 1727. Conviene visitarla de miércoles a sábado, por la mañana (8:30–11:30h) o por la tarde (1:30–4:30h), ya que permanece cerrada los domingos y los martes; conviene organizar la visita teniendo esto en cuenta. Para hacerse una idea más completa de las reliquias y las vestimentas que alberga, vale la pena combinarla con el Museo de la Iglesia de Baclayon, justo al lado.

@@ -78,7 +78,7 @@ You feel Place Masséna before you see it. The traffic noise of Avenue Jean Méd
 
 This is Nice's civic living room, built in the 1830s and still doing the job. Neoclassical arcades wrap three sides of the square, cafés spill onto the fourth, and everything funnels toward the Mediterranean at the far end.
 
-At night it turns theatrical. Seven statues by artist Jaume Plensa, glassy human figures perched on tall poles, glow different colors after dark — a modern jolt against the old stone.
+At night it turns theatrical. Seven statues by artist Jaume Plensa, glassy human figures perched on tall poles, glow different colors after dark, a modern jolt against the old stone.
 
 ## Getting there
 
@@ -88,7 +88,7 @@ If you're coming from Nice Ville train station, it's an easy 15-20 minute walk d
 
 ## What to see and do
 
-Give yourself 20-30 minutes to properly cross and photograph the square — longer if a market, concert, or festival has taken it over, which happens often.
+Give yourself 20-30 minutes to properly cross and photograph the square, longer if a market, concert, or festival has taken it over, which happens often.
 
 - The Fontaine du Soleil, a muscular sun-god statue rising from a circular fountain at the square's center
 - The Plensa statues, best seen lit up around dusk
@@ -99,24 +99,24 @@ The square also anchors Nice's Carnival in February and hosts the main Bastille 
 
 ## When to go
 
-Place Masséna never closes — it's a square, not a monument with a gate. But "always open" doesn't mean "always calm."
+Place Masséna never closes. It's a square, not a monument with a gate. But "always open" doesn't mean "always calm."
 
-Crowd patterns here are consistent: mornings between 7am and 9am are quietest, both on weekdays and weekends. Weekend afternoons and evenings are the opposite — traffic builds through 1pm and stays heavy until around 11pm.
+Crowd patterns here are consistent: mornings between 7am and 9am are quietest, both on weekdays and weekends. Weekend afternoons and evenings are the opposite, traffic builds through 1pm and stays heavy until around 11pm.
 
-If you want photos without a hundred strangers in frame, an early coffee-hour visit beats an evening stroll. If you want the buzz — buskers, families, the fountain lit up — go exactly when everyone else does.
+If you want photos without a hundred strangers in frame, an early coffee-hour visit beats an evening stroll. If you want the buzz (buskers, families, the fountain lit up) go exactly when everyone else does.
 
 ## How to visit like a local
 
-Treat Masséna as a crossing point, not just a photo stop — that's how Nice's residents actually use it, cutting between Old Town, the shopping streets of Avenue Jean Médecin, and the seafront.
+Treat Masséna as a crossing point, not just a photo stop. That's how Nice's residents actually use it, cutting between Old Town, the shopping streets of Avenue Jean Médecin, and the seafront.
 
 - **Timing:** aim for 7-9am for an empty square, or accept the crowds after 1pm on weekends as part of the experience
 - **Paying:** the square itself is free and unticketed; cafés on its edges take cards but tend to be priced for tourists, so treat them as a rest stop rather than the highlight
-- **Etiquette:** the fountain isn't for wading or dangling feet, even on hot days — locals sit on its outer rim, not inside
+- **Etiquette:** the fountain isn't for wading or dangling feet, even on hot days, locals sit on its outer rim, not inside
 - **Language:** you'll hear it called "Place Masséna" universally, though street signs also show the Niçard name, Plassa Carlou Aubert
 - **Common mistake:** treating it as a five-minute selfie stop and skipping the connecting Promenade du Paillasson, a pedestrian strip locals actually use for morning walks and runs
 
-Since this is one of the most visited landmarks in the city, don't expect a secret corner of Nice — expect a hub, and time your visit around that reality rather than against it.
+Since this is one of the most visited landmarks in the city, don't expect a secret corner of Nice. Expect a hub, and time your visit around that reality rather than against it.
 
 ## Nearby to combine
 
-Pair it with Vieux Nice's market streets, the Jardin Albert 1er, or a walk down to the Promenade des Anglais — all reachable on foot in under 10 minutes, making Masséna a natural midpoint rather than a standalone stop.
+Pair it with Vieux Nice's market streets, the Jardin Albert 1er, or a walk down to the Promenade des Anglais, all reachable on foot in under 10 minutes, making Masséna a natural midpoint rather than a standalone stop.

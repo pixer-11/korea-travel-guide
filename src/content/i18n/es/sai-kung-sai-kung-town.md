@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-town
-srcHash: '818fbd20ed78'
+srcHash: 'ab698b6a1ede'
 title: 'Sai Kung Town: guía de viaje (4.3★)'
 description: 'Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. 4.3★ (115 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. Ven a última hora de la tarde entre semana para ver los barcos de pesca y los puestos flotantes de marisco antes de que llegue el gentío de la cena, y luego camina por el paseo marítimo hasta el Sai Kung Public Pier. Reserva medio día si lo combinas con una caminata o una excursión a la playa en la península.

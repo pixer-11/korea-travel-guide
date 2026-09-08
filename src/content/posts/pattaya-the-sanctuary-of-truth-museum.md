@@ -50,13 +50,13 @@ aiGenerated: true
 
 ## Why go
 
-Few attractions in Thailand match the sheer audacity of the Sanctuary of Truth. Rising up to 105 meters (roughly the height of a 20-story building) on a bluff overlooking the Gulf of Thailand in Naklua, north Pattaya, the structure is built almost entirely from teak and other hardwoods, with no steel reinforcement — every beam, pillar, and figure is carved by hand.
+Few attractions in Thailand match the sheer audacity of the Sanctuary of Truth. Rising up to 105 meters (roughly the height of a 20-story building) on a bluff overlooking the Gulf of Thailand in Naklua, north Pattaya, the structure is built almost entirely from teak and other hardwoods, with no steel reinforcement, every beam, pillar, and figure is carved by hand.
 
-Construction began in 1981 and, by design, remains perpetually unfinished, with carpenters and sculptors still working on-site. The building's four soaring towers represent Cambodian, Chinese, Khmer, and Thai artistic influences, and the carvings depict Buddhist and Hindu cosmology, Thai folklore, and philosophical concepts about humanity's relationship to nature and each other. With a 4.7 rating across more than 44,000 reviews, it's one of Pattaya's most consistently praised sights — a rare cultural counterweight to the city's beach-and-nightlife reputation.
+Construction began in 1981 and, by design, remains perpetually unfinished, with carpenters and sculptors still working on-site. The building's four soaring towers represent Cambodian, Chinese, Khmer, and Thai artistic influences, and the carvings depict Buddhist and Hindu cosmology, Thai folklore, and philosophical concepts about humanity's relationship to nature and each other. With a 4.7 rating across more than 44,000 reviews, it's one of Pattaya's most consistently praised sights, a rare cultural counterweight to the city's beach-and-nightlife reputation.
 
 ## Getting there
 
-The address is 206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, in the Naklua district — the northern end of Pattaya's coastline, well beyond Central Pattaya and Walking Street. From most hotels on Beach Road or Jomtien, a metered taxi or Grab ride takes about 15–20 minutes depending on traffic. Songthaews (the shared red pickup trucks) run along Naklua Road and can drop you near Soi Na Kluea 12, leaving a short walk to the entrance gate.
+The address is 206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, in the Naklua district, the northern end of Pattaya's coastline, well beyond Central Pattaya and Walking Street. From most hotels on Beach Road or Jomtien, a metered taxi or Grab ride takes about 15–20 minutes depending on traffic. Songthaews (the shared red pickup trucks) run along Naklua Road and can drop you near Soi Na Kluea 12, leaving a short walk to the entrance gate.
 
 If you're driving yourself, there's on-site parking, which makes a self-drive or hired-driver visit convenient if you're combining this with other north Pattaya stops like Naklua Market.
 
@@ -64,10 +64,10 @@ If you're driving yourself, there's on-site parking, which makes a self-drive or
 
 Budget at least 90 minutes, more if you want to watch a full cultural show. Highlights include:
 
-- **The exterior towers and facades** — walk the full perimeter to see the different carving styles; the seaward side catches the best light in late morning.
-- **Interior galleries** — wooden sculptures depicting elephants, deities, celestial dancers, and scenes from Thai and regional mythology, all rendered at enormous scale.
-- **Live traditional dance and puppet shows**, typically staged multiple times a day in an amphitheater near the entrance — check the schedule board on arrival since timing shifts seasonally.
-- **Craftsmen at work** — because the site is intentionally never "finished," visitors can often watch carvers actively restoring or adding to sections, a detail that makes repeat visits genuinely different each time.
+- **The exterior towers and facades**. Walk the full perimeter to see the different carving styles; the seaward side catches the best light in late morning.
+- **Interior galleries**, wooden sculptures depicting elephants, deities, celestial dancers, and scenes from Thai and regional mythology, all rendered at enormous scale.
+- **Live traditional dance and puppet shows**, typically staged multiple times a day in an amphitheater near the entrance. Check the schedule board on arrival since timing shifts seasonally.
+- **Craftsmen at work**, because the site is intentionally never "finished," visitors can often watch carvers actively restoring or adding to sections, a detail that makes repeat visits genuinely different each time.
 - **The beach and horseback/ATV area below the complex**, worth a quick look if you have extra time.
 
 Photography is welcome outdoors; note that as a working religious and artistic site, modest dress (shoulders and knees covered) is expected, and some interior areas may restrict flash photography to protect the wood finishes.
@@ -82,4 +82,4 @@ Golden-hour light in late afternoon is popular with photographers, but by then t
 
 Because opening hours, ticket prices, and show times have changed periodically over the site's four-decade history, confirm current details on the official Sanctuary of Truth website or through your hotel concierge before heading out. Combine the visit with other Naklua-area stops, such as the seafood restaurants along the coast road or the fishing-village atmosphere of Naklua Market, to make a half-day out of the trip rather than a rushed hour.
 
-Wear comfortable, closed-toe shoes — the wooden floors and outdoor stone paths can be uneven — and bring water, since shaded rest areas are limited between galleries. Given the crowds implied by its review count, this is not an undiscovered secret, but it remains genuinely underrated relative to how much attention Pattaya's nightlife scene usually absorbs.
+Wear comfortable, closed-toe shoes, the wooden floors and outdoor stone paths can be uneven, and bring water, since shaded rest areas are limited between galleries. Given the crowds implied by its review count, this is not an undiscovered secret, but it remains genuinely underrated relative to how much attention Pattaya's nightlife scene usually absorbs.

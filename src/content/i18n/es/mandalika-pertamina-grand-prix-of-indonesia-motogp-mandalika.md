@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika
-srcHash: '3c18cd755928'
+srcHash: 'c585f8e06f8f'
 title: 'Gran Premio de Indonesia Pertamina (MotoGP Mandalika): fechas, entradas y circuito (Mandalika)'
 description: El Gran Premio de Indonesia Pertamina (MotoGP Mandalika) se celebra en Mandalika, Indonesia, del 9 al 11 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar el viaje.
 quickAnswer: El Gran Premio de Indonesia Pertamina (MotoGP Mandalika) vuelve al Circuito Internacional Pertamina Mandalika, en Lombok, del 9 al 11 de octubre de 2026, como decimoctava prueba del Mundial de MotoGP. Más de 140.000 aficionados asistieron a la edición de 2025, así que conviene reservar con antelación tanto los vuelos al Aeropuerto Internacional de Lombok como el alojamiento cerca del circuito. Antes de viajar, confirma horarios y entradas en las páginas oficiales de MotoGP y del Circuito de Mandalika.

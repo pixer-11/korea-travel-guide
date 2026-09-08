@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-david-byrne-live-in-bangkok
-srcHash: '908e7f5bc493'
+srcHash: '9473cf81af41'
 title: 'David Byrne en Bangkok: lo que había que saber (Bangkok)'
 description: David Byrne, ex vocalista de Talking Heads, tenía previsto actuar en el UOB Live de Bangkok el lunes 10 de agosto de 2026.
 quickAnswer: 'David Byrne, ex vocalista de Talking Heads, tenía previsto actuar en el UOB Live de Bangkok el lunes 10 de agosto de 2026. Este resumen no incluía horarios de apertura de puertas ni de inicio del concierto: el dato central era la fecha, mientras que los detalles de venta de entradas, el horario exacto y posibles teloneros se publicaban a través de los canales oficiales de UOB Live o de los socios de venta de entradas del propio Byrne.'

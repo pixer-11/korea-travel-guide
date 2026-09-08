@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: penang-chew-jetty
-srcHash: '9871bcd6a23e'
+srcHash: '352723fd5b5f'
 title: '츄 제티(Chew Jetty): 페낭 여행 가이드'
 description: 츄 제티(Chew Jetty)는 페낭 조지타운(Georgetown) 바다 위에 지어진 19세기 수상 가옥 마을로, 방문객에게 개방된 클랜 제티(clan jetty) 중 하나입니다 — 사람이 많이 몰리는 편이니 당일 투어 버스가 줄어드는 이른 아침(오전 9시 이전)이나 오후 5시 이후를 노리세요.
 quickAnswer: 츄 제티(Chew Jetty)는 페낭 조지타운(Georgetown) 바다 위에 지어진 19세기 수상 가옥 마을로, 방문객에게 개방된 클랜 제티(clan jetty) 중 하나입니다 — 사람이 많이 몰리는 편이니 당일 투어 버스가 줄어드는 이른 아침(오전 9시 이전)이나 오후 5시 이후를 노리세요. 걸어서 둘러보는 데 비용은 들지 않고 소요 시간은 30~45분 정도이며, 조지타운의 유네스코(UNESCO) 핵심 지구에서 남쪽으로 10분이면 걸어갈 수 있는 거리에 있습니다.

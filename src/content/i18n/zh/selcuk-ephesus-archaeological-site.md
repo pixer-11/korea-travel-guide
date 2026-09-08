@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: selcuk-ephesus-archaeological-site
-srcHash: '03b9f841a37f'
+srcHash: '379f7af429f2'
 title: 以弗所考古遗址：塞尔柱克(Selçuk)旅游指南 (4.8★)
 description: 以弗所是地中海地区保存最完好的古城之一，近1.5万条评论给出4.8星的评分——这早已不是秘密，建议在早上8点开门时或下午4点后前往，避开旅游团人潮。
 quickAnswer: 以弗所是地中海地区保存最完好的古城之一，近1.5万条评论给出4.8星的评分——这早已不是秘密，建议在早上8点开门时或下午4点后前往，避开旅游团人潮。至少安排两到三个小时的游览时间，从上（马格尼西亚，Magnesia）门进入，一路下坡走到塞尔苏斯图书馆（Library of Celsus）和大剧场（Great Theatre）。请穿真正的鞋子——大理石路面很滑，而且几乎没有遮阳的地方。

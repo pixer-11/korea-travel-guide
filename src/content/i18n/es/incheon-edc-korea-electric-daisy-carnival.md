@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-edc-korea-electric-daisy-carnival
-srcHash: 'dd0c2688766c'
+srcHash: 'f5a26073fd1f'
 title: 'EDC Corea (Electric Daisy Carnival): fechas, entradas y sede (Incheon)'
 description: EDC Corea (Electric Daisy Carnival) en Incheon, Corea del Sur, se celebra el 3 y 4 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
 quickAnswer: EDC Corea vuelve los días 3 y 4 de octubre de 2026 al INSPIRE Entertainment Resort de Incheon, con Tiësto, DJ Snake, FISHER, Alok y un b2b de ILLENIUM y Dabin como cabezas de cartel. Compra las entradas únicamente a través de los canales oficiales de EDC Corea o Insomniac cuando salgan a la venta, y organiza el viaje en torno al Aeropuerto Internacional de Incheon, situado a pocos minutos del recinto. Conviene confirmar los horarios exactos de las actuaciones, la apertura de puertas y el cartel definitivo en la web oficial a medida que se acerque la fecha.

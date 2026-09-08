@@ -61,7 +61,7 @@ It's a working neighborhood bookstore in the Presqu'île area of Lyon's 2nd arro
 
 The address is 11 Rue de Brest, in central Lyon between Place Bellecour and Perrache. It's an easy walk from either the Bellecour or Ampère – Victor Hugo tram and metro stops, both on Line A.
 
-If you're coming from Vieux Lyon or Fourvière, cross the Saône and cut through the Presqu'île — it's roughly a 15-minute walk. The street itself is narrow and residential, easy to miss if you're not looking for the number.
+If you're coming from Vieux Lyon or Fourvière, cross the Saône and cut through the Presqu'île. It's roughly a 15-minute walk. The street itself is narrow and residential, easy to miss if you're not looking for the number.
 
 There's no dedicated parking, so this is very much a walk-in, public-transport kind of stop. Lyon's compact center makes it simple to fold into a longer stroll through the 2nd arrondissement.
 
@@ -74,11 +74,11 @@ Expect a tightly curated mix rather than a sprawling superstore inventory. Frenc
 - Secondhand and used copies mixed in with new stock, often at friendlier prices
 - Regional and Lyon-specific titles worth grabbing as a souvenir with substance
 
-Don't expect much English-language stock — this is a French bookshop for French readers, which is exactly its appeal. If your French is rusty, it's still worth going in just to see how a well-loved shop stocks and displays books.
+Don't expect much English-language stock. This is a French bookshop for French readers, which is exactly its appeal. If your French is rusty, it's still worth going in just to see how a well-loved shop stocks and displays books.
 
 ## When to go
 
-The shop keeps a fairly tight schedule: Tuesday through Saturday, 10am–1pm and 2–7pm, closed both Sunday and Monday. Plan around the midday break — arriving right at 1pm means a locked door until 2pm.
+The shop keeps a fairly tight schedule: Tuesday through Saturday, 10am–1pm and 2–7pm, closed both Sunday and Monday. Plan around the midday break, arriving right at 1pm means a locked door until 2pm.
 
 Because it's currently under the radar rather than a tourist stop, there's no real "rush hour" to dodge here. Still, mid-morning on a weekday, shortly after the 10am opening, tends to be the calmest window before locals swing by after work.
 
@@ -88,12 +88,12 @@ Saturdays draw a few more browsers doing their weekend errands, so if you want t
 
 Go on a quiet weekday morning and treat it as an actual browse, not a five-minute photo stop. This isn't a place built for a quick in-and-out.
 
-- Bring a little French vocabulary — staff recommendations and shelf tags are in French, and asking for a genre or author by name goes a long way
+- Bring a little French vocabulary. Staff recommendations and shelf tags are in French, and asking for a genre or author by name goes a long way
 - Expect to pay by card or cash; independent bookshops in France skew traditional, so don't assume mobile pay is standard
-- There's no need to book — it's a browse-in, first-come shop with no reservation system
+- There's no need to book. It's a browse-in, first-come shop with no reservation system
 - The biggest tourist mistake is rushing the shelves; regulars slow down and scan spine by spine, which is how you find the good secondhand finds mixed into general stock
-- If you don't read French fluently, ask staff to point you toward illustrated books, graphic novels, or regional photography — all rewarding without heavy text
+- If you don't read French fluently, ask staff to point you toward illustrated books, graphic novels, or regional photography, all rewarding without heavy text
 
 Because it's still a relatively undiscovered stop for visitors, you get something rare in central Lyon: unhurried browsing, actual eye contact with the person at the till, and a shop that feels used rather than staged for tourists.
 
-Pair it with a walk down Rue de Brest and onward toward Place Bellecour — the whole stretch is well suited to an unplanned, book-in-hand kind of afternoon.
+Pair it with a walk down Rue de Brest and onward toward Place Bellecour. The whole stretch is well suited to an unplanned, book-in-hand kind of afternoon.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-love-lake
-srcHash: 'cbe2db138378'
+srcHash: '80e9b5e46df6'
 title: 'Love Lake: Guía de viaje de Dubái'
 description: Love Lake es un par de lagos artificiales con forma de corazón en la zona desértica de Al Qudra (Saih Al Salam), parte de la cadena de lagos Al Qudra Lakes de Dubái, ideal para visitar al amanecer o al atardecer, cuando las temperaturas son más frescas y la luz es mejor.
 quickAnswer: 'Love Lake es un par de lagos artificiales con forma de corazón en la zona desértica de Al Qudra (Saih Al Salam), parte de la cadena de lagos Al Qudra Lakes de Dubái, ideal para visitar al amanecer o al atardecer, cuando las temperaturas son más frescas y la luz es mejor. Es un destino al que solo se puede llegar en coche —hay que llevar vehículo propio o ir en taxi/coche de alquiler—, cuenta con una plataforma de observación, senderos para caminar y zonas de pícnic, y la entrada es gratuita. Hay que esperar aglomeraciones: es una atracción muy conocida y fotografiada, no un rincón secreto.'

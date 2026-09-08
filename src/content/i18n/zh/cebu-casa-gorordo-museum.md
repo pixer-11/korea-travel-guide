@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cebu-casa-gorordo-museum
-srcHash: '972b0c1326dd'
+srcHash: '5d4dce39adf4'
 title: Casa Gorordo博物馆：宿务旅行指南（4.6★）
 description: Casa Gorordo博物馆坐落于宿务市老巴利安（Parian）街区，是一栋建于19世纪50年代、经过修复的菲华混血宅邸，每日9:00至17:00开放，周日休息。4.6★（1,249条评价）——游客怎么说、开放时间与游览建议。
 quickAnswer: Casa Gorordo博物馆坐落于宿务市老巴利安（Parian）街区，是一栋建于19世纪50年代、经过修复的菲华混血宅邸，每日9:00至17:00开放，周日休息。这栋以珊瑚石与硬木建成的老宅值得花上45到60分钟慢慢走完，之后不妨在庭院咖啡馆稍作停留。这里虽小有名气，却很少人满为患，工作日的上午前来尤其清静从容。

@@ -70,11 +70,11 @@ draft: false
 
 You smell the broth before you see the dumplings. Steam curls off bamboo baskets stacked three high behind the glass kitchen wall, and inside each one sits a tiny pleated parcel colored like a paint sample card.
 
-That's the draw: the signature eight-flavor xiao long bao, a single steamer holding original, foie gras, garlic, ginger, cheese, Szechuan spicy, black truffle, and crab roe dumplings side by side. Each one is dyed a different shade so you can tell them apart at a glance. It's a gimmick, sure — but it works, and the skin-to-broth ratio holds up even under the novelty.
+That's the draw: the signature eight-flavor xiao long bao, a single steamer holding original, foie gras, garlic, ginger, cheese, Szechuan spicy, black truffle, and crab roe dumplings side by side. Each one is dyed a different shade so you can tell them apart at a glance. It's a gimmick, sure, but it works, and the skin-to-broth ratio holds up even under the novelty.
 
 ## Getting there
 
-The restaurant sits on the 2nd floor of a commercial block at 625 & 639 Nathan Road, in the thick of Mong Kok's shopping strip. It's a short walk from Mong Kok MTR Station, served by the Tsuen Wan, Kwun Tong, and East Rail lines — take an exit toward Nathan Road and look for the shop's signage pointing you upstairs.
+The restaurant sits on the 2nd floor of a commercial block at 625 & 639 Nathan Road, in the thick of Mong Kok's shopping strip. It's a short walk from Mong Kok MTR Station, served by the Tsuen Wan, Kwun Tong, and East Rail lines. Take an exit toward Nathan Road and look for the shop's signage pointing you upstairs.
 
 Ladies' Market and the neon-lit stretch of Nathan Road are right outside, so this fits naturally into an afternoon of browsing before or after.
 
@@ -93,18 +93,18 @@ Portions are built for sharing, so come with at least one other person and order
 
 Both weekdays and weekends stay calm from around 11:30am, right at opening, which makes late morning through mid-afternoon the easiest window for a relaxed sit-down meal. The crunch comes later.
 
-On weekends specifically, avoid rolling in between 5pm and 9pm — that's the measured peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster.
+On weekends specifically, avoid rolling in between 5pm and 9pm. That's the measured peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster.
 
 ## How to visit like a local
 
 Skip the dinner rush entirely if you can. Locals treat this less as a destination restaurant and more as a reliable stop mid-shopping-trip, so an off-peak lunch is the natural rhythm here rather than a planned-ahead dinner reservation.
 
-Walk-ins are standard. For small groups on a weekday, you likely won't wait at all; for larger groups on a weekend evening, expect a queue and possibly a buzzer system — ask staff for a rough wait time rather than guessing.
+Walk-ins are standard. For small groups on a weekday, you likely won't wait at all; for larger groups on a weekend evening, expect a queue and possibly a buzzer system. Ask staff for a rough wait time rather than guessing.
 
-Payment is by card or cash, and there's no separate tipping culture in Hong Kong dining beyond any service charge already added to the bill — check your receipt before adding more.
+Payment is by card or cash, and there's no separate tipping culture in Hong Kong dining beyond any service charge already added to the bill. Check your receipt before adding more.
 
-The mistake most first-timers make is ordering only the rainbow xiao long bao and calling it a meal. It's the headline dish, not the whole show — the kitchen's noodle and fried rice dishes are strong enough to anchor a table on their own.
+The mistake most first-timers make is ordering only the rainbow xiao long bao and calling it a meal. It's the headline dish, not the whole show. The kitchen's noodle and fried rice dishes are strong enough to anchor a table on their own.
 
-If you're short on time, the dumplings alone travel well as a quick, memorable bite between shopping stops. If you've got an hour to sit, build out a full spread — that's when the mid-range pricing actually feels like good value, since the shared plates stretch further split three or four ways.
+If you're short on time, the dumplings alone travel well as a quick, memorable bite between shopping stops. If you've got an hour to sit, build out a full spread. That's when the mid-range pricing actually feels like good value, since the shared plates stretch further split three or four ways.
 
-Expect a lively, fluorescent-bright dining room rather than an intimate one — this is a bustling, family-friendly spot built for turnover, not a quiet date-night table. Come hungry, come flexible on seating, and let the color-coded steamer do the talking.
+Expect a lively, fluorescent-bright dining room rather than an intimate one. This is a bustling, family-friendly spot built for turnover, not a quiet date-night table. Come hungry, come flexible on seating, and let the color-coded steamer do the talking.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: saadiyat-island-hudayriyat-island
-srcHash: '144b975fd376'
+srcHash: '0aea1e00a600'
 title: 'Isla Hudayriyat: Guía de viaje de Abu Dabi (4,7★)'
 description: 'A veinte minutos en coche al sur del centro de Abu Dabi, la isla Hudayriyat es el gran parque de recreo al aire libre de la ciudad, con un circuito asfaltado para bicicleta y running, clubes de playa, deportes acuáticos y cafeterías repartidos por un extenso tramo de costa ganada al mar. 4,7★ (2.190 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A veinte minutos en coche al sur del centro de Abu Dabi, la isla Hudayriyat es el gran parque de recreo al aire libre de la ciudad, con un circuito asfaltado para bicicleta y running, clubes de playa, deportes acuáticos y cafeterías repartidos por un extenso tramo de costa ganada al mar. Está abierta las 24 horas, así que las mañanas antes de las 8:00 o las horas más frescas del atardecer son ideales para hacer ejercicio, mientras que los clubes de playa mantienen horario diurno. Conviene reservar entre dos y cuatro horas como mínimo, más si se recorre el circuito completo en bicicleta o si se decide quedarse hasta la puesta de sol.

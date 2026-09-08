@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-this-is-bali-balinese-food-desserts
-srcHash: 'c7248398aa11'
+srcHash: '39d84069068f'
 title: 巴厘岛美食地图:This Is Bali 餐厅——品尝巴厘传统菜与甜品的好去处
 description: This Is Bali 位于乌布(Ubud)中心 Jl. Goutama 路上，是一家人气极高、评价出色的印尼餐厅，以烤乳猪(babi guling)、什锦饭(nasi campur)等平价巴厘经典菜肴，以及椰丝卷饼(dadar gulung)、黑糯米粥(bubur injin)等传统甜品闻名。
 quickAnswer: This Is Bali 位于乌布中心的 Jl. Goutama 路上，是一家评价极高的平价印尼餐厅，烤乳猪、什锦饭等巴厘经典菜肴，以及椰丝卷饼、黑糯米粥这类传统甜品都做得地道。这里坐拥超过 18,000 条评论、4.9 分的超高评分，价位属中等水平(消费级别为 2),因此人气爆棚，午餐和晚餐高峰时段常常需要排队等位。建议尽量选在开门不久或下午时段前往，点几样咸甜搭配的菜品一起分享，饭后再沿 Jl. Goutama 这条布满咖啡馆和书店的小路散散步，是最理想的安排。

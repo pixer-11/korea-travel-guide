@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taichung-rainbow-village
-srcHash: 'e8fb8d15780c'
+srcHash: '2c8b0f1010d9'
 title: 彩虹眷村：台中旅游指南
 description: 彩虹眷村（Rainbow Village）是台中南屯区一座已废弃的眷村，一位老兵黄永阜独自将其画满色彩鲜艳的鸟兽人物，以此使其免于被拆除的命运。
 quickAnswer: 彩虹眷村（彩虹眷村）是台中南屯区一座已废弃的眷村，一位老兵黄永阜独自将其画满色彩鲜艳的鸟兽人物，以此使其免于被拆除的命运。建议安排45～60分钟游览，最好选在平日上午前往以避开旅行团人潮，若安排一整天行程，可与附近的逢甲夜市或溪头串联游玩。入场免费，最方便的方式是搭乘开往岭东（Lingdong）/岭东科技大学（Ling Tung University）方向的市区公交车，站点就在景点附近。

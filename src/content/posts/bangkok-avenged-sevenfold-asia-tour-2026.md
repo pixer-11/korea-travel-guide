@@ -45,7 +45,7 @@ heroImage:
     top: 20
     bottom: 32
 ---
-You feel the buzz before you even reach the venue. Bangkok hasn't hosted Avenged Sevenfold in over a decade, and the city's metal community has been counting down since the Asia Tour dates dropped. Two nights, back to back, October 6 and 7, 2026 — a rare double-header that tells you exactly how much demand there was.
+You feel the buzz before you even reach the venue. Bangkok hasn't hosted Avenged Sevenfold in over a decade, and the city's metal community has been counting down since the Asia Tour dates dropped. Two nights, back to back, October 6 and 7, 2026, a rare double-header that tells you exactly how much demand there was.
 
 ## Why this show matters
 
@@ -65,7 +65,7 @@ Getting there from central Bangkok generally means a taxi, a ride-hailing app, o
 
 Both Bangkok dates sold out, which is unusual even for a major international act playing this market. That changes the practical reality for anyone reading this now: standard box-office tickets aren't the route in.
 
-Your realistic options are official resale platforms, verified ticket exchanges, or secondary marketplaces — approach anything outside those channels with real caution given how often counterfeit tickets circulate around sold-out shows. Confirm timing and tickets on the official site, and lean on official resale tools rather than random online listings.
+Your realistic options are official resale platforms, verified ticket exchanges, or secondary marketplaces, approach anything outside those channels with real caution given how often counterfeit tickets circulate around sold-out shows. Confirm timing and tickets on the official site, and lean on official resale tools rather than random online listings.
 
 ## What to expect inside Thunder Dome
 
@@ -73,7 +73,7 @@ Expect a full production. A7X tours have historically included elaborate lightin
 
 Thunder Dome holds a large capacity, so sightlines vary a lot depending on where your ticket lands. General admission floor puts you closest to the stage but means standing for hours; seated tiers trade proximity for a clearer overall view of the production.
 
-- Arrive early if you have floor access — good positions fill up fast
+- Arrive early if you have floor access, good positions fill up fast
 - Wear earplugs if you're sensitive to volume; metal shows at this venue run loud
 - Bring a valid ID, since many venues in Bangkok check identification at entry
 
@@ -83,7 +83,7 @@ Thai concertgoers tend to arrive close to doors opening rather than hours early,
 
 Cash still matters at Thunder Dome's food and merchandise stalls, though card and mobile payment (PromptPay, common Thai QR systems) are increasingly accepted. Carry some small Thai baht notes just in case.
 
-Merch lines move slowly and often peak right after the show ends — buying before the set starts, if a stall is open, saves real time. Tipping isn't expected at concessions or merch counters in Thailand, so don't feel obligated.
+Merch lines move slowly and often peak right after the show ends, buying before the set starts, if a stall is open, saves real time. Tipping isn't expected at concessions or merch counters in Thailand, so don't feel obligated.
 
 The most common mistake visiting fans make is underestimating Bangkok traffic on event nights. Muang Thong Thani gets congested fast once a show lets out, so if you're relying on ride-hailing, expect a wait and consider walking toward a main road to catch a car more easily.
 

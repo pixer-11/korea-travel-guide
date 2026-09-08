@@ -73,11 +73,11 @@ draft: false
 updatedDate: '2026-09-06'
 ---
 
-You spot the building before you find the entrance — a pale yellow palace with a low, tiled roof, tucked behind a screen of trees just off Sultan Gate. This is Istana Kampong Gelam, once home to Singapore's Malay royalty, and now the Malay Heritage Centre.
+You spot the building before you find the entrance, a pale yellow palace with a low, tiled roof, tucked behind a screen of trees just off Sultan Gate. This is Istana Kampong Gelam, once home to Singapore's Malay royalty, and now the Malay Heritage Centre.
 
 ## Why go
 
-The draw here isn't a single famous artifact — it's the layered story. Galleries walk you through the Malay world's maritime trade routes, the royal family that once ruled from this exact site, and the kampong life that shaped the surrounding streets before urban redevelopment.
+The draw here isn't a single famous artifact. It's the layered story. Galleries walk you through the Malay world's maritime trade routes, the royal family that once ruled from this exact site, and the kampong life that shaped the surrounding streets before urban redevelopment.
 
 Expect textiles, model boats, old photographs, and audio-visual displays rather than glass cases of treasure. The museum leans on storytelling, and the changing exhibits mean a repeat visit months later can look genuinely different.
 
@@ -85,11 +85,11 @@ Expect textiles, model boats, old photographs, and audio-visual displays rather 
 
 The Centre sits at 85 Sultan Gate, a five-minute walk from Bugis MRT station (East-West and Downtown lines). Take Exit C, head up Victoria Street, and turn onto Sultan Gate once you see the golden dome of Sultan Mosque.
 
-You'll pass shophouses, textile shops, and the mosque's courtyard on the way — it's a walk worth taking slowly rather than rushing through. Bus services along Victoria Street and North Bridge Road also stop within a few minutes' walk.
+You'll pass shophouses, textile shops, and the mosque's courtyard on the way. It's a walk worth taking slowly rather than rushing through. Bus services along Victoria Street and North Bridge Road also stop within a few minutes' walk.
 
 ## What to see inside
 
-Start with the ground-floor galleries tracing the history of the Istana and the sultans who lived here. Upstairs, the focus shifts to community life — weddings, festivals, music, and the everyday rhythms of a Kampong Glam that's largely vanished from the streets outside.
+Start with the ground-floor galleries tracing the history of the Istana and the sultans who lived here. Upstairs, the focus shifts to community life, weddings, festivals, music, and the everyday rhythms of a Kampong Glam that's largely vanished from the streets outside.
 
 - Look for the scale model of old Kampong Glam, useful for orienting yourself before you walk the neighborhood afterward
 - Check the events calendar for cultural performances, often held in the Centre's courtyard
@@ -99,7 +99,7 @@ Start with the ground-floor galleries tracing the history of the Istana and the 
 
 The Centre is closed Mondays, so plan around that if you're building a Kampong Glam day. It's open 10am to 6pm the rest of the week, including weekends.
 
-Weekday mornings, shortly after opening, tend to be the calmest — school groups and tour clusters usually arrive later in the day. Singapore's heat and afternoon showers make an air-conditioned museum stop a natural midday break if you're touring the district on foot.
+Weekday mornings, shortly after opening, tend to be the calmest, school groups and tour clusters usually arrive later in the day. Singapore's heat and afternoon showers make an air-conditioned museum stop a natural midday break if you're touring the district on foot.
 
 ## How to visit like a local
 
@@ -109,7 +109,7 @@ Tickets are typically bought at the counter or online in advance, with payment b
 
 Combine your visit with the surrounding streets rather than treating it as a standalone stop. Sultan Mosque, Haji Lane, and Arab Street's fabric and rug shops are all within a five-minute walk, and locals treat the whole pocket as one afternoon out rather than separate errands.
 
-The common mistake is rushing the museum to save time for shopping — the galleries reward a slower pace, especially the sections on the royal family, which give context to the palace building you're standing in. Confirm current opening hours and ticket prices on the official site before you go, since museums here occasionally adjust for renovations or special events.
+The common mistake is rushing the museum to save time for shopping, the galleries reward a slower pace, especially the sections on the royal family, which give context to the palace building you're standing in. Confirm current opening hours and ticket prices on the official site before you go, since museums here occasionally adjust for renovations or special events.
 
 ## Nearby to pair it with
 

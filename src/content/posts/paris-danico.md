@@ -40,7 +40,7 @@ That's the point. In 2026 it was named the best bar in all of France at the Fren
 
 Step inside and the noise of the street drops away almost immediately. The lighting is low and warm, tuned for conversation rather than photos, though people take them anyway.
 
-Bars at this level tend to run on precision: bartenders measuring and shaking with the calm, repetitive rhythm of people who've done it thousands of times. Expect a compact space rather than a sprawling lounge — part of the appeal is that it never feels like a crowd of strangers.
+Bars at this level tend to run on precision: bartenders measuring and shaking with the calm, repetitive rhythm of people who've done it thousands of times. Expect a compact space rather than a sprawling lounge, part of the appeal is that it never feels like a crowd of strangers.
 
 ## What to drink and expect
 
@@ -64,12 +64,12 @@ Weekends and late nights will skew busier and louder. If you want to actually he
 
 ## How to visit like a local
 
-Treat Danico the way Parisians treat any in-demand small bar: book ahead if a system exists, and don't expect to just walk in and grab a table on a Saturday. Dress reasonably smart-casual — this isn't a dive, and the room's polish extends to its clientele.
+Treat Danico the way Parisians treat any in-demand small bar: book ahead if a system exists, and don't expect to just walk in and grab a table on a Saturday. Dress reasonably smart-casual. This isn't a dive, and the room's polish extends to its clientele.
 
 Order by asking, not just reading. The strongest move here is to tell the bartender roughly what spirits or flavors you like and let them build something, rather than pointing at the first name on the list.
 
-Tipping in Paris bars is appreciated but not obligatory the way it is in the US — rounding up or leaving a few euros for excellent service reads as a generous gesture. Payment is almost always by card.
+Tipping in Paris bars is appreciated but not obligatory the way it is in the US, rounding up or leaving a few euros for excellent service reads as a generous gesture. Payment is almost always by card.
 
-The most common mistake visitors make is treating a trio like Danico, The Cambridge Public House, and Bar Nouveau as a single big night out. Pace yourself — each is worth its own unhurried visit, and trying to hit all three in one evening tends to mean rushing the best one.
+The most common mistake visitors make is treating a trio like Danico, The Cambridge Public House, and Bar Nouveau as a single big night out. Pace yourself. Each is worth its own unhurried visit, and trying to hit all three in one evening tends to mean rushing the best one.
 
 Because this is a fast-moving, newly spotlighted address, opening hours, reservation systems, and even the entrance itself can change. Confirm details directly before you plan your evening around it.

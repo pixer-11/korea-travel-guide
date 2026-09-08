@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nagoya-asian-games-2026
-srcHash: '322efd4dd8f1'
+srcHash: 'cc6ca13e30c1'
 title: 'Juegos Asiáticos 2026: Fechas, Entradas y Sede (Nagoya)'
 description: Los Juegos Asiáticos 2026 se celebran en Nagoya, Japón, del 19 de septiembre al 4 de octubre de 2026. Qué son, cuándo y dónde tienen lugar, y cómo organizar el viaje.
 quickAnswer: La 20.ª edición de los Juegos Asiáticos se disputa del 19 de septiembre al 4 de octubre de 2026 en toda la prefectura de Aichi, con Nagoya, Japón, como sede central. La venta de entradas, el calendario completo por deporte y sede, y los detalles de las ceremonias de apertura y clausura se darán a conocer a través de los canales oficiales de los Juegos Asiáticos 2026 y del comité organizador Aichi-Nagoya; conviene consultarlos antes de reservar vuelos u hoteles. El estadio principal de Nagoya y sus pabellones, junto con sedes satélite repartidas por distintas ciudades de Aichi, acogerán las competiciones durante estas casi dos semanas y media.

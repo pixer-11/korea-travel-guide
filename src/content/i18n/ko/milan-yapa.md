@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: milan-yapa
-srcHash: '51910e3a654e'
+srcHash: '20f403c78794'
 title: 'YAPA: 밀라노 여행 가이드'
 description: 이탈리아 밀라노의 신흥 인기 명소 YAPA — 어떤 곳이고, 어디에 있으며, 어떻게 방문하면 좋을지 알아봅니다.
 quickAnswer: YAPA는 밀라노 포르타 로마나(Porta Romana)와 코르소 디 포르타 비토리아(Corso di Porta Vittoria) 사이 지역, 비알레 몬테 네로(Viale Monte Nero)에 자리한 퓨전 레스토랑 겸 바입니다. 셰프 마테오 판체티(Matteo Pancetti)의 "노마딕 소울(Nomadic Soul)" 콘셉트를 중심으로, 일본식 로바타야키 그릴과 남미 풍미가 만나고, 글로벌한 감각의 칵테일 리스트가 함께합니다. 그릴과 칵테일을 함께 즐기기 좋은 저녁 시간에 방문하는 것이 가장 좋으며, 최근 확장된 공간인 만큼 인기가 많아 예약을 권장합니다. 빠르게 인지도가 높아지고 있는 곳이라 세부 정보가 자주 바뀔 수 있으니, 현재 영업시간을 확인하고 미리 예약하세요.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bengaluru-museum-of-art-photography-map
-srcHash: '2e8666ae76c3'
+srcHash: 'e90e0f0fb49b'
 title: 班加罗尔艺术与摄影博物馆（MAP）旅行指南
 description: 班加罗尔艺术与摄影博物馆（MAP）位于卡斯图尔巴路，紧邻库本公园，从MG路步行即可到达，周一闭馆。4.5星（2,684条评价）——看看游客怎么说，附开放时间与实用贴士。
 quickAnswer: 班加罗尔艺术与摄影博物馆（MAP）位于卡斯图尔巴路，紧邻库本公园（Cubbon Park），从MG路（MG Road）步行即可到达，周一闭馆。建议周二至周五上午10点到下午6点半前往，或选择周末（开放至晚上7点半）；如果是周六周日，最好10点准时到场，避开正午后逐渐聚集的人流。参观五层展厅，建议预留两到三个小时。

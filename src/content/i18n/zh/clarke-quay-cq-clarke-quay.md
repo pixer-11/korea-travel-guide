@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: clarke-quay-cq-clarke-quay
-srcHash: '13ebef0354d3'
+srcHash: 'cdb8dca46ec3'
 title: CQ @ 克拉码头（Clarke Quay）：旅行指南
 description: CQ @ 克拉码头（Clarke Quay）是位于3 River Valley Road、由19世纪货仓（河畔仓库）群修复而成的建筑群，是克拉码头沿新加坡河餐饮与夜生活场景的核心地带。
 quickAnswer: CQ @ 克拉码头（Clarke Quay）是位于3 River Valley Road、由19世纪货仓（河畔仓库）群修复而成的建筑群，是克拉码头沿新加坡河餐饮与夜生活场景的核心地带。无论白天还是夜晚，这里都是河畔用餐与小酌的好去处；入夜后（尤其是周四至周六）人潮会格外热闹拥挤，不妨安排一段沿河步行，顺道前往驳船码头（Boat Quay）或福康宁公园（Fort Canning Park）。最近的地铁站是克拉码头站（Clarke Quay，东北线），从E出口出站即达。

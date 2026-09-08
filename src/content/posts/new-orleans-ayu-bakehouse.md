@@ -68,16 +68,16 @@ aiGenerated: true
 
 ## Why Ayu Bakehouse is worth the detour
 
-You smell it before you see it — browned butter and something faintly floral, maybe pandan or lemongrass, drifting onto Frenchmen Street. Ayu Bakehouse sits a few doors down from the jazz clubs that make this street famous at night, but in the morning it's a different world: quiet, sunlit, smelling like a French patisserie that took a detour through Vietnam.
+You smell it before you see it, browned butter and something faintly floral, maybe pandan or lemongrass, drifting onto Frenchmen Street. Ayu Bakehouse sits a few doors down from the jazz clubs that make this street famous at night, but in the morning it's a different world: quiet, sunlit, smelling like a French patisserie that took a detour through Vietnam.
 
-The case up front is small but deliberate. Instead of an endless croissant wall, you get a handful of pastries executed with real precision — laminated dough, pastel glazes, a rotating list that changes with what's in season.
+The case up front is small but deliberate. Instead of an endless croissant wall, you get a handful of pastries executed with real precision, laminated dough, pastel glazes, a rotating list that changes with what's in season.
 
 ## What to order
 
 The draw here is the mash-up of French technique and Vietnamese and broader Southeast Asian flavors. Expect things you won't find at a standard American bakery.
 
-- Pandan croissant — grassy, coconut-adjacent, a green swirl inside the layers
-- Kouign-amann — caramelized, salty-sweet, shatters when you bite it
+- Pandan croissant, grassy, coconut-adjacent, a green swirl inside the layers
+- Kouign-amann, caramelized, salty-sweet, shatters when you bite it
 - Vietnamese coffee or a ube-inflected pastry, when available
 - Savory options like a banh mi-style sandwich on house bread
 
@@ -87,22 +87,22 @@ Portions are bakery-sized, not meal-sized, so plan on two pastries and a coffee 
 
 Ayu Bakehouse is at 801 Frenchmen St, right on the corner in the Faubourg Marigny, a five-to-ten-minute walk from Jackson Square and the edge of the French Quarter. Frenchmen Street itself is walkable from most Quarter hotels, and there's metered street parking nearby, though spots get tight on weekends. Rideshare drop-off is easy since it's a wide, well-lit corner even mid-morning.
 
-Because it's steps from the Frenchmen Street music strip, you can pair a visit with a wander past the clubs before they open, or treat it as breakfast after a long night out — the bakery opens at 8am, well before most of the Quarter stirs.
+Because it's steps from the Frenchmen Street music strip, you can pair a visit with a wander past the clubs before they open, or treat it as breakfast after a long night out. The bakery opens at 8am, well before most of the Quarter stirs.
 
 ## When to go
 
 Hours shift through the week, so check before you plan around it. Monday and Tuesday it closes at 2pm; Wednesday through Sunday it stays open until 3:30pm.
 
-Weekday mornings, roughly 8am to 3pm, are consistently the calmest stretch — you can usually get a table and take your time. Weekends are busier, with the heaviest crowds between 9am and 2pm, so if you want to skip the line, aim for right at opening or push toward mid-afternoon on the days it's open later.
+Weekday mornings, roughly 8am to 3pm, are consistently the calmest stretch. You can usually get a table and take your time. Weekends are busier, with the heaviest crowds between 9am and 2pm, so if you want to skip the line, aim for right at opening or push toward mid-afternoon on the days it's open later.
 
 ## How to visit like a local
 
 Ayu is still under the radar relative to the bigger names in New Orleans' bakery scene, which means no roped-off lines, but the small space fills fast once word travels through a neighborhood on a Saturday.
 
-- Go on a weekday morning if your schedule allows — it's noticeably quieter than the weekend rush
+- Go on a weekday morning if your schedule allows. It's noticeably quieter than the weekend rush
 - Order at the counter; card and mobile payment are standard, cash isn't required
 - Pastries sell out by flavor as the morning goes on, so don't wait until 1pm expecting the full case
-- Ask what's new — the menu rotates, and regulars come specifically for limited specials
+- Ask what's new, the menu rotates, and regulars come specifically for limited specials
 - Grab a seat outside if the weather's decent; the corner tables let you watch Frenchmen Street wake up
 
 The mistake most visitors make is treating this as a quick grab-and-go between Quarter stops. Give it fifteen minutes. The point isn't just the pastry, it's watching the case, deciding, and eating something laminated and warm while the street outside is still mostly empty.

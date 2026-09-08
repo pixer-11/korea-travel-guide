@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-middle-east-film-comic-con-mefcc-2026
-srcHash: '781134f0b80a'
+srcHash: 'a696ca22d11e'
 title: 'Middle East Film & Comic Con (MEFCC) 2026: fechas, entradas y sede (Abu Dabi)'
 description: La Middle East Film & Comic Con (MEFCC) 2026 se celebra en Abu Dabi, Emiratos Árabes Unidos, del 11 al 13 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
 quickAnswer: La Middle East Film & Comic Con (MEFCC) 2026 se celebra del 11 al 13 de septiembre de 2026 en el ADNEC Centre Abu Dhabi, en la que será la 14.ª edición de esta convención de cultura pop. El programa incluye paneles con invitados famosos, concursos de cosplay, zonas de videojuegos y puestos de artistas en el llamado "artist alley", repartidos por los pabellones de exposición del ADNEC. Antes de reservar el viaje, conviene confirmar en la web oficial de MEFCC los números exactos de los pabellones, la lista de invitados y las categorías de entradas.

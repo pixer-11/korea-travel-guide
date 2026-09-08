@@ -84,7 +84,7 @@ updatedDate: '2026-08-16'
 
 You enter through a narrow brick passage, the same lane thousands walked through in 1919, and the noise of the bazaar behind you drops away almost instantly. That corridor is the point: it's still too tight for more than a few people abreast, and standing in it is the first thing that makes this place land differently than a typical city park.
 
-Inside, the garden opens up green and quiet, bounded by the original brick walls of the old city. Bullet marks are still visible in the brickwork, fenced off and labeled. A well on the grounds marks where many fleeing the gunfire jumped to escape and drowned. None of this is dressed up or dramatized — it's plain, preserved, and left to speak for itself.
+Inside, the garden opens up green and quiet, bounded by the original brick walls of the old city. Bullet marks are still visible in the brickwork, fenced off and labeled. A well on the grounds marks where many fleeing the gunfire jumped to escape and drowned. None of this is dressed up or dramatized. It's plain, preserved, and left to speak for itself.
 
 ## Why it matters
 
@@ -110,7 +110,7 @@ Entry to the garden itself is free. It's a well-maintained public memorial, not 
 
 The garden is open daily from 9am to 5pm. Crowds build steadily through the morning and stay heavy from 11am until closing, especially on weekends, so if you want space to actually read the plaques and sit with the place, arrive right at opening. Weekday mornings between 9am and 11am are consistently the quietest window. Late afternoon light through the trees is worth seeing too, but you'll be sharing it with far more people.
 
-Pair the visit with the Golden Temple, either just before or after — many people do both in one loop through the old city, and the contrast between the two sites is part of what makes the walk memorable.
+Pair the visit with the Golden Temple, either just before or after. Many people do both in one loop through the old city, and the contrast between the two sites is part of what makes the walk memorable.
 
 ## How to visit like a local
 
@@ -118,9 +118,9 @@ This is one of the most-visited memorial sites in India, so the etiquette here i
 
 - Keep your voice down; it's a memorial, not a photo backdrop, even though photos are allowed
 - Skip the busy 11am–5pm stretch if you can, especially on weekends when it's at its fullest
-- Wear shoes you don't mind walking in — paths are uneven brick and gravel in places
+- Wear shoes you don't mind walking in, paths are uneven brick and gravel in places
 - There's no entry fee, so you don't need cash for a ticket, though small donations or purchases at the museum shop are sometimes card-only, so carry some rupees anyway
-- Read the informational plaques rather than just the well and flame — the museum section gives context most visitors skip
+- Read the informational plaques rather than just the well and flame, the museum section gives context most visitors skip
 - The biggest mistake tourists make is treating it as a five-minute stop between Golden Temple photos. Slow down here; it rewards a proper hour, not a quick pass-through.
 
 Combine the visit with nearby Partition Museum at Town Hall, a ten-minute walk away, if you want the fuller historical picture of Amritsar's role in India's 20th-century history before or after seeing the Golden Temple itself.

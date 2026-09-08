@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-bar-cham
-srcHash: 'ecfb8bfe3bb3'
+srcHash: 'cbc94a72a4e1'
 title: 'Bar Cham: Guía de Viaje de Seúl'
 description: 'Bar Cham en Seúl, Corea del Sur: un local nuevo y en auge. Qué es, dónde está y cómo visitarlo.'
 quickAnswer: Bar Cham es un bar de cócteles instalado en un hanok restaurado en Seochon, el barrio de calles bajas y colinas suaves de Jongno-gu, justo al oeste de Gyeongbokgung. Es una incorporación reciente a la escena de bares de Seúl, pero ya figura en la lista Asia's 50 Best Bars 2026, así que conviene reservar con antelación en lugar de presentarse sin más y confiar en conseguir sitio. Si además quiere poder conversar sin gritar, lo mejor es ir temprano un día de entre semana.

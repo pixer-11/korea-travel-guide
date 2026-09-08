@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-treehouse-cafe-bar
-srcHash: '1971b0fc1bd5'
+srcHash: '0a4f4e6d86c9'
 title: 'Treehouse Cafe & Bar: guía de viaje de Bangkok'
 description: Escondido en Sukhumvit Soi 31, en el distrito de Watthana, Treehouse Cafe & Bar es un café con temática de jungla que conviene visitar en tarde de entre semana, para hacerse con una mesa entre enredaderas y luces de hadas antes de que llegue el gentío nocturno.
 quickAnswer: Escondido en Sukhumvit Soi 31, en el distrito de Watthana, Treehouse Cafe & Bar es un café con temática de jungla que conviene visitar en tarde de entre semana, para hacerse con una mesa entre enredaderas y luces de hadas antes de que llegue el gentío nocturno. Se llega caminando en 10-15 minutos desde la estación Phrom Phong del BTS (o en un breve trayecto en taxi), y con una calificación de 4.9 sobre más de 2,600 reseñas, conviene reservar con antelación o llegar temprano los fines de semana. Calcula entre 1 y 1.5 horas para tomar café y hacer fotos, más tiempo si te quedas a cenar y tomar algo.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gili-islands-gili-meno-beach
-srcHash: '6620a4fcf4a9'
+srcHash: '89a9f2ce03fc'
 title: 'Playa de Gili Meno: Guía de viaje de las Islas Gili (4.7★)'
 description: 'La playa de Gili Meno es la más tranquila de las tres islas Gili: arena blanca y fina, agua turquesa y ninguna de las multitudes nocturnas de Gili Trawangan. 4.7★ (209 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La playa de Gili Meno es la más tranquila de las tres islas Gili: arena blanca y fina, agua turquesa y ninguna de las multitudes nocturnas de Gili Trawangan. Está abierta las 24 horas, es mejor recorrerla al amanecer o al atardecer, y solo se puede llegar en barco, ya que en la isla no hay vehículos motorizados. Lleva efectivo, calzado acuático y protector solar apto para arrecifes.'

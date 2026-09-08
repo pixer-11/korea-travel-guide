@@ -97,18 +97,18 @@ You smell Hinoki Village before you fully see it. Warm cypress oil drifts off th
 
 ## Why go
 
-This isn't a single building but a small neighborhood — nearly 30 low-slung dormitories, their dark timber frames and pitched tile roofs preserved from the early 1900s. Chiayi grew rich on hinoki cypress logged from Alishan, and this village housed the workers who managed that trade. Walking through feels less like visiting a museum and more like wandering someone's old, quiet street.
+This isn't a single building but a small neighborhood, nearly 30 low-slung dormitories, their dark timber frames and pitched tile roofs preserved from the early 1900s. Chiayi grew rich on hinoki cypress logged from Alishan, and this village housed the workers who managed that trade. Walking through feels less like visiting a museum and more like wandering someone's old, quiet street.
 
 ## Getting there
 
-Hinoki Village sits in Chiayi City's East District, at Gonghe Rd, easily reached on foot or by bike from Chiayi Railway Station — it's roughly a 15–20 minute walk, or a short taxi ride if you're carrying luggage. Many visitors pair it with the nearby Chiayi Park and the old Alishan Forest Railway workshops, both within walking distance. There's no need to book ahead; you simply walk in.
+Hinoki Village sits in Chiayi City's East District, at Gonghe Rd, easily reached on foot or by bike from Chiayi Railway Station. It's roughly a 15–20 minute walk, or a short taxi ride if you're carrying luggage. Many visitors pair it with the nearby Chiayi Park and the old Alishan Forest Railway workshops, both within walking distance. There's no need to book ahead; you simply walk in.
 
 ## What to see and do
 
 Give yourself 90 minutes to two hours to do it justice. The dormitories now hold a mix of cafés, craft studios, and small exhibition spaces, so half the pleasure is peeking through open sliding doors to see what's inside each one.
 
 - Look for houses with tatami flooring still intact, some furnished to show how forestry staff actually lived
-- Browse the wood-craft and cypress-oil shops — hinoki fragrance products are a genuine local specialty, not just a souvenir gimmick
+- Browse the wood-craft and cypress-oil shops, hinoki fragrance products are a genuine local specialty, not just a souvenir gimmick
 - Sit down at one of the teahouses tucked into a former dormitory for a slow cup between wandering the lanes
 - Photograph the timber joinery up close; the raised floors and wooden lattice windows are the real craftsmanship on display here
 
@@ -122,13 +122,13 @@ Weekends are a different story. Crowds build steadily and the busiest window run
 
 ## How to visit like a local
 
-Hinoki Village is genuinely well-visited — it draws heavy tour bus traffic, so don't expect a hidden corner of Chiayi to yourself. The smart move is timing, not secrecy.
+Hinoki Village is genuinely well-visited, it draws heavy tour bus traffic, so don't expect a hidden corner of Chiayi to yourself. The smart move is timing, not secrecy.
 
 - Go on a weekday between 10am and noon, the measured quiet window, before groups arrive
 - If a weekend is your only option, be at the gate at opening or wait until after 5pm
-- Payment at most shops and cafés is by card or mobile pay, though smaller craft stalls sometimes prefer cash — carry a little just in case
+- Payment at most shops and cafés is by card or mobile pay, though smaller craft stalls sometimes prefer cash, carry a little just in case
 - No tipping expected anywhere in Taiwan, including here
-- Wear socks you don't mind showing — a few interior spaces with tatami flooring ask you to remove shoes
+- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes
 - The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast
 
 Locals and repeat visitors tend to treat it as a stroll-and-tea outing rather than a checklist attraction, which is really the right pace for a place built to be lived in slowly.

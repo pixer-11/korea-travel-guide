@@ -98,17 +98,17 @@ updatedDate: '2026-08-30'
 ---
 ## Why go
 
-The Green Tomb isn't green at all from the outside — it's the tiles inside that earn the name. Built in 1421 for Sultan Mehmed I, this octagonal mausoleum is one of the clearest surviving statements of early Ottoman architecture, before the empire's aesthetic shifted toward Istanbul's domes and imperial scale.
+The Green Tomb isn't green at all from the outside. It's the tiles inside that earn the name. Built in 1421 for Sultan Mehmed I, this octagonal mausoleum is one of the clearest surviving statements of early Ottoman architecture, before the empire's aesthetic shifted toward Istanbul's domes and imperial scale.
 
 You approach up a quiet street in Yıldırım, Bursa's old core, and the building announces itself long before you reach the door: turquoise-green tiles sheathing an octagon, catching the light differently depending on the hour.
 
 ## What you actually see inside
 
-Step through the entrance and the temperature drops a few degrees — thick stone does that. The interior is where the real craftsmanship lives. Deep cobalt and turquoise tilework climbs the walls in geometric bands, framing a mihrab covered in ceramic panels considered among the finest examples of Ottoman tile art anywhere.
+Step through the entrance and the temperature drops a few degrees, thick stone does that. The interior is where the real craftsmanship lives. Deep cobalt and turquoise tilework climbs the walls in geometric bands, framing a mihrab covered in ceramic panels considered among the finest examples of Ottoman tile art anywhere.
 
 At the center sits Mehmed I's cenotaph, oversized and tiled in the same palette, surrounded by smaller tombs of his children. Light comes in low through narrow windows, so mornings give you the softest version of the color.
 
-- The exterior tiles are actually a 19th-century restoration — the originals faded and were replaced
+- The exterior tiles are actually a 19th-century restoration. The originals faded and were replaced
 - The interior tilework is largely original 15th-century work
 - The mihrab is the single most photographed detail inside
 
@@ -116,11 +116,11 @@ At the center sits Mehmed I's cenotaph, oversized and tiled in the same palette,
 
 The address is Yeşil, 1. Yeşil Cd. 66-1, in Yıldırım, a short uphill walk from Bursa's Ulu Cami and the Koza Han bazaar area. Most visitors combine it with the Green Mosque (Yeşil Cami), which sits just below it down a set of steps.
 
-If you're coming from central Bursa, a taxi or the T1 tram to the Yeşil stop drops you within a few minutes' walk. The climb is gentle but real — wear shoes with grip, since the courtyard stones get polished smooth from foot traffic.
+If you're coming from central Bursa, a taxi or the T1 tram to the Yeşil stop drops you within a few minutes' walk. The climb is gentle but real. Wear shoes with grip, since the courtyard stones get polished smooth from foot traffic.
 
 ## When to go
 
-This is a very popular stop on the Bursa circuit, and it shows — tour groups cycle through steadily once the day gets going. The measured quiet windows are worth planning around.
+This is a very popular stop on the Bursa circuit, and it shows, tour groups cycle through steadily once the day gets going. The measured quiet windows are worth planning around.
 
 - Weekdays: calmest from 8am to noon
 - Weekends: calmest from 8am to 11am
@@ -130,12 +130,12 @@ Open every day of the week, 8am to 8pm, so an early arrival or a late-afternoon 
 
 ## How to visit like a local
 
-Treat it as what it is: an active place of worship and a burial site, not just a photo backdrop. Dress modestly — shoulders and knees covered — and remove your shoes before stepping onto the carpeted interior, as you would at any mosque or türbe in Turkey.
+Treat it as what it is: an active place of worship and a burial site, not just a photo backdrop. Dress modestly, shoulders and knees covered, and remove your shoes before stepping onto the carpeted interior, as you would at any mosque or türbe in Turkey.
 
 There's no ticket queue to plan around, but the courtyard still fills up fast once buses arrive. Arriving right at 8am gives you the tilework in near-silence, which is the whole point of coming.
 
-Keep voices low inside — it's a functioning tomb, and Turkish visitors treat it with the same hush you'd use in a chapel. Photography is generally fine without flash, but skip it if a family is praying near the cenotaph.
+Keep voices low inside. It's a functioning tomb, and Turkish visitors treat it with the same hush you'd use in a chapel. Photography is generally fine without flash, but skip it if a family is praying near the cenotaph.
 
-The mistake most first-timers make is treating this as a five-minute photo stop and rushing to the mosque below. Slow down here — the tile detail rewards a genuinely close look, and the crowds thin the moment you step past the entrance hall into the side chambers.
+The mistake most first-timers make is treating this as a five-minute photo stop and rushing to the mosque below. Slow down here. The tile detail rewards a genuinely close look, and the crowds thin the moment you step past the entrance hall into the side chambers.
 
-Pair it with the Green Mosque directly downhill and, if you have another hour, the Emir Sultan Mosque and Bursa Citadel walls nearby — all walkable from the same hillside.
+Pair it with the Green Mosque directly downhill and, if you have another hour, the Emir Sultan Mosque and Bursa Citadel walls nearby, all walkable from the same hillside.

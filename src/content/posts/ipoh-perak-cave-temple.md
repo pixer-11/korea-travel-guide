@@ -105,7 +105,7 @@ updatedDate: '2026-09-04'
 
 You step through the entrance and the temperature drops ten degrees. The cave swallows the traffic noise from Jalan Kuala Kangsar behind you, and what's left is dripping stone, incense smoke curling toward a ceiling you can't quite see, and rows of gilded Buddha statues catching whatever light makes it in.
 
-Perak Tong, as it's known locally, isn't a ruin or a museum piece. It's a working Buddhist temple built into a limestone hill, founded in the 1920s by a Chinese immigrant monk, and it still functions exactly as intended — a place of worship wrapped around a natural cavern.
+Perak Tong, as it's known locally, isn't a ruin or a museum piece. It's a working Buddhist temple built into a limestone hill, founded in the 1920s by a Chinese immigrant monk, and it still functions exactly as intended, a place of worship wrapped around a natural cavern.
 
 ## What you'll actually see
 
@@ -118,17 +118,17 @@ Look up and you'll spot stalactites the temple builders left untouched, incorpor
 - A steep staircase (roughly 300 steps) climbing through a rock crevice to the hilltop
 - A hilltop pavilion with views over Ipoh's karst limestone landscape
 
-That staircase is not optional if you want the view, and it's genuinely steep — narrow steps, some uneven, with handrails but little shade. Wear shoes with grip, not flip-flops.
+That staircase is not optional if you want the view, and it's genuinely steep, narrow steps, some uneven, with handrails but little shade. Wear shoes with grip, not flip-flops.
 
 ## Getting there
 
-Perak Cave Temple sits in Kawasan Perindustrian Tasek, a few kilometres north of Ipoh's old town, on Jalan Kuala Kangsar. There's no MRT or rail line here — Ipoh's train station is downtown, well away from the temple.
+Perak Cave Temple sits in Kawasan Perindustrian Tasek, a few kilometres north of Ipoh's old town, on Jalan Kuala Kangsar. There's no MRT or rail line here, Ipoh's train station is downtown, well away from the temple.
 
 Most visitors arrive by Grab (Malaysia's ride-hailing app), taxi, or rental car. It's roughly a 10–15 minute drive from the old town or the railway station, and there's free parking on site if you're self-driving. Many people pair it with nearby Sam Poh Tong or Kek Lok Tong, two other cave temples a short drive away, making a half-day loop of Ipoh's limestone temples.
 
 ## When to go
 
-The temple opens daily from 8am to 4:30pm, so plan your visit inside that window — arriving even a little after 4:30pm means a locked gate.
+The temple opens daily from 8am to 4:30pm, so plan your visit inside that window, arriving even a little after 4:30pm means a locked gate.
 
 Weekday mornings between 8am and 10am are the quietest stretch, with fewer tour buses and a cooler cave interior before midday heat builds outside. On weekends, only the narrow 8am–9am slot stays calm.
 
@@ -136,13 +136,13 @@ From 10am onward on Saturdays and Sundays, crowds build steadily and stay heavy 
 
 ## How to visit like a local
 
-Come early and dress modestly — this is an active place of worship, not a photo backdrop, so keep shoulders and knees covered even though the cave itself feels informal.
+Come early and dress modestly. This is an active place of worship, not a photo backdrop, so keep shoulders and knees covered even though the cave itself feels informal.
 
-Entry is by donation rather than a fixed ticket price; small denomination ringgit notes are the norm, dropped into the box near the entrance. Card payment isn't the culture here — bring cash for the donation box and for the snack and drink stalls near the car park.
+Entry is by donation rather than a fixed ticket price; small denomination ringgit notes are the norm, dropped into the box near the entrance. Card payment isn't the culture here. Bring cash for the donation box and for the snack and drink stalls near the car park.
 
-Perak Tong draws steady coach-tour traffic, so it's well-visited rather than a quiet local secret — timing your visit matters more than seeking it out at an off hour nobody else knows.
+Perak Tong draws steady coach-tour traffic, so it's well-visited rather than a quiet local secret, timing your visit matters more than seeking it out at an off hour nobody else knows.
 
 The staircase to the top is where most tourists give up halfway; locals who climb it regularly pace themselves, pause at the shaded ledges, and carry water rather than buying it at the summit, since there's no stall up there.
 
-Remove your shoes only where signage indicates it, generally right at the inner shrine areas, not the whole cave. Photography is generally fine in the main hall, but ask before photographing anyone actively praying — it's a small courtesy that goes a long way in a still-active temple.
+Remove your shoes only where signage indicates it, generally right at the inner shrine areas, not the whole cave. Photography is generally fine in the main hall, but ask before photographing anyone actively praying. It's a small courtesy that goes a long way in a still-active temple.
 

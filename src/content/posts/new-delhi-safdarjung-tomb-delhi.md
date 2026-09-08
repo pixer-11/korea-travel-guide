@@ -79,17 +79,17 @@ Walk through the main gateway and the noise of the surrounding traffic drops awa
 
 The tomb sits on a plinth ringed by arched pavilions, with a bulbous marble dome visible from well outside the complex. Inside the main chamber, the cenotaph itself is plain compared to the exterior decoration, but the ceiling paintwork and stone lattice screens (jaalis) are worth slowing down for.
 
-Two pavilions flank the tomb — one historically housed a library, giving the whole complex a quieter, scholarly feel compared to Delhi's more touristed monuments.
+Two pavilions flank the tomb, one historically housed a library, giving the whole complex a quieter, scholarly feel compared to Delhi's more touristed monuments.
 
 - Climb the side staircases to the upper terrace for a full view over the garden's symmetry.
 - Look for the carved stone jaali screens filtering light into the corridors.
-- Walk the perimeter paths under the palms — shadier and cooler than the open lawn.
+- Walk the perimeter paths under the palms, shadier and cooler than the open lawn.
 
 ## Getting there
 
 The tomb sits near the Delhi Race Club and Safdarjung Airport, close to the Lodhi Road and Aurobindo Marg junction. The nearest metro stop is Jorbagh on the Yellow Line, about a 15–20 minute walk, or a short auto-rickshaw ride if it's hot.
 
-It's also an easy add-on if you're already near Lodhi Garden or Humayun's Tomb — both are within a short drive, making it simple to string together a half-day of Mughal-era sites without doubling back across the city.
+It's also an easy add-on if you're already near Lodhi Garden or Humayun's Tomb. Both are within a short drive, making it simple to string together a half-day of Mughal-era sites without doubling back across the city.
 
 ## When to go
 
@@ -101,9 +101,9 @@ Avoid weekend afternoons, especially 4pm to 7pm, when local visitors and familie
 
 This is a well-visited monument, not a hidden find, so the smart move is timing rather than seeking it out off-hours nobody else knows about. Arrive right at 9am on a weekday if you want the terrace and gardens without a crowd around the tomb entrance.
 
-Entry is ticketed at a counter near the gate — bring small cash, since card acceptance at monument ticket booths in Delhi can be inconsistent. There's usually a separate, lower rate for Indian nationals versus foreign visitors, standard practice at ASI-run sites, so don't be surprised by the difference.
+Entry is ticketed at a counter near the gate. Bring small cash, since card acceptance at monument ticket booths in Delhi can be inconsistent. There's usually a separate, lower rate for Indian nationals versus foreign visitors, standard practice at ASI-run sites, so don't be surprised by the difference.
 
-Dress modestly and wear shoes you don't mind slipping off if you want to sit inside the cooler pavilion interiors. The mistake most first-time visitors make is rushing through in fifteen minutes on the way to somewhere else — the upper terrace views and the quieter northern pavilion reward the extra twenty minutes.
+Dress modestly and wear shoes you don't mind slipping off if you want to sit inside the cooler pavilion interiors. The mistake most first-time visitors make is rushing through in fifteen minutes on the way to somewhere else, the upper terrace views and the quieter northern pavilion reward the extra twenty minutes.
 
 There's little shade once you're on the open lawn, so carry water if you're visiting midday. Photography is generally allowed throughout the gardens and platform, but tripods may need separate permission, so travel light if photography isn't your main purpose.
 

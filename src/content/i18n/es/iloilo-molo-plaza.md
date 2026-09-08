@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: iloilo-molo-plaza
-srcHash: '0f4993693522'
+srcHash: 'fc52a611ffa5'
 title: 'Plaza de Molo: Guía de viaje de Iloílo (4,5★)'
 description: 'La Plaza de Molo es un pequeño parque pavimentado en mármol en el distrito de Molo, en la ciudad de Iloílo, construido alrededor de una rotonda neoclásica y frente a la llamativa Iglesia de Molo, de dos torres. 4,5★ (1.187 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza de Molo es un pequeño parque pavimentado en mármol en el distrito de Molo, en la ciudad de Iloílo, construido alrededor de una rotonda neoclásica y frente a la llamativa Iglesia de Molo, de dos torres. Se puede visitar las 24 horas y de forma gratuita; lo mejor es disfrutarla en las horas frescas de la mañana o después del atardecer, cuando la plaza se ilumina. Los fines de semana, de 4 a 10 de la noche, es cuando hay más gente, así que si prefiere tener el lugar casi para usted solo, conviene visitarlo por la mañana, cuando hay más tranquilidad.

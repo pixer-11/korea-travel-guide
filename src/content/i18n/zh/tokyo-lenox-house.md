@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-lenox-house
-srcHash: 'de197d3be25d'
+srcHash: '1e6f7ed90163'
 title: 东京 Lenox House
 description: 东京 Lenox House——一家新晋人气餐厅：它是什么、坐落何处、以及如何前往。
 quickAnswer: Lenox House 是一家手工意面意大利餐厅，位于代代木（Yoyogi）参宫桥站（Sangubashi Station）附近，由知名汉堡名店 The Great Burger 的团队打造。这里以选用日本时令食材烹制的地方风味意大利料理著称，用餐空间兼具复古与现代风格。建议尽量提前预订，并在前往之前确认最新营业时间——由于这是一家新晋人气餐厅，相关信息可能会有所变动。

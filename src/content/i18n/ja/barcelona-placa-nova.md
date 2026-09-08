@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: barcelona-placa-nova
-srcHash: '0de6e857fdb6'
+srcHash: '1834b271adfb'
 title: プラサ・ノヴァ:バルセロナ旅行ガイド
 description: プラサ・ノヴァ(Plaça Nova)は、バルセロナの中世の城壁とゴシック地区が交わる場所にある、ヤシの木に囲まれた小さな広場で、大聖堂とビスベ通り(Carrer del Bisbe)の間に位置しています。
 quickAnswer: プラサ・ノヴァ(Plaça Nova)は、バルセロナの中世の城壁とゴシック地区が交わる場所にある、ヤシの木に囲まれた小さな広場で、大聖堂とビスベ通り(Carrer del Bisbe)の間に位置しています。見学には15〜20分ほどで十分で、大聖堂前が人であふれる前の早朝が一番おすすめです。プラサ・サン・ジャウマ(Plaça Sant Jaume)方面へビスベ通りを歩くのと組み合わせるとよいでしょう。

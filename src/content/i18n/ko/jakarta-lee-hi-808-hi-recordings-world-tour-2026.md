@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
-srcHash: '40673096fb23'
+srcHash: '5c64e1aba158'
 title: '이하이 – 808 HI Recordings 월드투어 2026: 자카르타 공연 안내'
 description: 이하이의 월드투어 '808 HI Recordings' 자카르타 공연은 2026년 8월 9일 SCBD 벵켈홀(Bengkel Hall)에서 열릴 예정이었으며, 스페셜 게스트로 DOK2가 함께했습니다.
 quickAnswer: 이하이의 월드투어 '808 HI Recordings'의 자카르타 공연은 2026년 8월 9일, 남자카르타 SCBD에 위치한 벵켈홀(Bengkel Hall)에서 열릴 예정이었습니다. 이는 그녀의 인도네시아 첫 단독 콘서트로 소개되었으며, 스페셜 게스트로 래퍼 DOK2가 함께할 예정이었습니다. 티켓은 공식 프로모터와 검증된 티켓 플랫폼을 통해 판매되었고, 투어 관련 공지는 이하이와 공연장의 공식 소셜 채널을 통해 안내되었습니다. 벵켈홀은 자카르타의 주요 비즈니스 및 엔터테인먼트 지구 중 한 곳에 자리한 중형 실내 공연장입니다.

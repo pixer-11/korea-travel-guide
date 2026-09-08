@@ -91,21 +91,21 @@ updatedDate: '2026-09-04'
 
 You come here for scale. Seven bronze kings, each cast several times taller than a person, stand in a row against the sea breeze, and the effect is less "photo op" than "small history lesson you feel in your neck" as you crane upward.
 
-Rajabhakti Park was built by the Royal Thai Army and opened in 2015 to honor seven monarchs who shaped Thailand from the Sukhothai era onward. It's a working monument, not a relic — school groups, uniformed cadets, and Thai families doing merit visits all pass through the plaza alongside foreign travelers.
+Rajabhakti Park was built by the Royal Thai Army and opened in 2015 to honor seven monarchs who shaped Thailand from the Sukhothai era onward. It's a working monument, not a relic, school groups, uniformed cadets, and Thai families doing merit visits all pass through the plaza alongside foreign travelers.
 
 ## Getting there
 
 The park sits on Phet Kasem Road in Nong Kae, a few kilometres south of central Hua Hin, near the Thai army's Bo Fai training camp.
 
 - By taxi or Grab from Hua Hin town: roughly 10–15 minutes.
-- By songthaew or local bus heading south on Phet Kasem Road toward Khao Takiab — ask the driver for "Rajabhakti."
+- By songthaew or local bus heading south on Phet Kasem Road toward Khao Takiab. Ask the driver for "Rajabhakti."
 - By rented scooter: easiest option if you're already exploring Khao Takiab or Suan Son Pradiphat, both nearby.
 
 There's no train station close enough to be practical, so budget for a short ride either way.
 
 ## What you'll see
 
-Past the entrance gate, a long paved plaza opens onto the seven statues, each one identified by a plaque with the king's name and era. Walk the row slowly — the detail in the crowns, robes, and weapons is worth pausing over rather than snapping and moving on.
+Past the entrance gate, a long paved plaza opens onto the seven statues, each one identified by a plaque with the king's name and era. Walk the row slowly, the detail in the crowns, robes, and weapons is worth pausing over rather than snapping and moving on.
 
 Behind the statues sits a small museum building with exhibits on Thai royal history and the making of the monument itself, including how the bronze figures were cast and transported. It's compact, air-conditioned, and a good break from the heat.
 
@@ -113,7 +113,7 @@ Beyond the plaza, the grounds slope toward the coastline, giving you a stretch o
 
 ## When to go
 
-The park is open daily from 8am to 6pm, with no weekly closing day currently listed — worth a quick check before you head out, since hours can shift around public holidays.
+The park is open daily from 8am to 6pm, with no weekly closing day currently listed, worth a quick check before you head out, since hours can shift around public holidays.
 
 Weekends get busy from 9am straight through to 6pm, with tour buses and family groups filling the plaza. If you're visiting on a Saturday or Sunday, arrive right at 8am to beat the crowds and the heat.
 
@@ -123,11 +123,11 @@ Weekday mornings are calmer across the board. Midday sun on the open plaza is in
 
 This is a well-visited national monument, not a hidden corner of Hua Hin, so plan around the crowds rather than expecting to dodge them entirely.
 
-- **Dress code matters**: this is treated as a place of respect, similar to a temple. Cover shoulders and knees — shorts and tank tops can get you turned away or asked to cover up at the gate.
+- **Dress code matters**: this is treated as a place of respect, similar to a temple. Cover shoulders and knees, shorts and tank tops can get you turned away or asked to cover up at the gate.
 - **Go early on weekends**: the 9am–6pm crush is real; an 8am arrival buys you nearly empty plaza shots and cooler walking weather.
-- **Bring cash for small vendors** near the car park selling drinks and snacks — card machines aren't reliable this far from town.
+- **Bring cash for small vendors** near the car park selling drinks and snacks, card machines aren't reliable this far from town.
 - **Skip the golf cart hustle if you're mobile**: some visitors pay for a cart from the entrance to the statues, but it's a flat, shaded walk of a few minutes on foot.
 - **Combine it with Khao Takiab**: the hilltop temple and monkey-lined viewpoint are a short ride north, making an easy half-day pairing with Rajabhakti.
 - **Photograph from the plaza's far end**: standing back from the statues gets all seven kings and the sea horizon in one frame, rather than a cropped close-up.
 
-Most tourists breeze through in under 20 minutes, snap the statues, and leave — but reading the plaques and giving the museum ten minutes gives the visit actual context instead of just a backdrop.
+Most tourists breeze through in under 20 minutes, snap the statues, and leave, but reading the plaques and giving the museum ten minutes gives the visit actual context instead of just a backdrop.

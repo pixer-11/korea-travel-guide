@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: singapore-886-taiwan-ye-shi
-srcHash: 'ed87c0386411'
+srcHash: '981464e002c2'
 title: '886 台灣夜市: 싱가포르 맛집 탐방'
 description: 싱가포르(Singapore)에 새롭게 뜨는 명소, 886 Taiwan Yè Shì — 어떤 곳인지, 어디에 있는지, 어떻게 방문하는지 안내합니다.
 quickAnswer: 886 Taiwan Yè Shì는 창이 공항(Changi Airport) 제3터미널(T3) 안에 자리한 대만 야시장 콘셉트 레스토랑으로, 스펀(Shifen) 기차 객차를 재현한 공간에 하늘등(스카이 랜턴)과 철로 장식을 갖추고 손으로 뽑은 라미엔(la mian)과 대만식 프라이드 치킨을 선보입니다. 2026년 7월 20일에 문을 열었으니 방문 전 창이 공항 공식 채널을 통해 최신 영업시간, 메뉴, 예약 정책을 확인하시고, T3를 이용하는 승객만 방문할 수 있다는 점을 기억하세요.

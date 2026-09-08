@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tsim-sha-tsui-tsim-sha-tsui-promenade
-srcHash: '1c64bb99d213'
+srcHash: '1426c5d733e3'
 title: 尖沙咀海滨长廊（Tsim Sha Tsui Promenade）旅行指南（4.5★）
 description: 尖沙咀海滨长廊（Tsim Sha Tsui Promenade）是沿维多利亚港（Victoria Harbour）而建的海滨步道，正对香港岛天际线——免费开放，全天24小时不打烊，清晨旅游巴士抵达前最为清静。4.5★（119条评价）——看看游客怎么说，开放时间与实用贴士。
 quickAnswer: 尖沙咀海滨长廊（Tsim Sha Tsui Promenade）是沿维多利亚港（Victoria Harbour）而建的海滨步道，正对香港岛天际线——免费开放，全天24小时不打烊，清晨旅游巴士抵达前最为清静。来这里是为了看风景、逛星光大道（Avenue of Stars），以及晚上8点的幻彩咏香江（Symphony of Lights）灯光表演，但其实任何时段来散步都不错——在这座密集的城市里，清凉的空气与开阔的天空实属难得。

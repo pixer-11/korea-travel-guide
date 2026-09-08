@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-yamuna-ghat
-srcHash: 'f62ed65b4514'
+srcHash: '92807808fe69'
 title: 'Yamuna Ghat: guía de viaje de Nueva Delhi (4,1★)'
 description: 'Cerca de Kashmere Gate, el Yamuna Ghat es la escalinata junto al río donde Delhi acude al amanecer a dar de comer a miles de gaviotas migratorias y donde los sacerdotes oficial a diario el aarti. 4,1★ (5.856 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Cerca de Kashmere Gate, el Yamuna Ghat es la escalinata junto al río donde Delhi acude al amanecer a dar de comer a miles de gaviotas migratorias y donde los sacerdotes oficial a diario el aarti. Conviene ir justo después del amanecer (aproximadamente entre las 7 y las 9 de la mañana; los meses de invierno son los mejores para ver a las gaviotas) y evitar la avalancha del fin de semana, de 7 a 22h, si se busca algo de tranquilidad: las noches de fin de semana, entre las 21 y las 22h, son el momento más calmado. Lleve pan o arroz inflado para las aves y tenga en cuenta que encontrará multitudes, vendedores insistentes de paseos en barca y un tramo del río Yamuna nada glamuroso.'

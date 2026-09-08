@@ -88,11 +88,11 @@ If you're visiting in summer, aim for the first couple of hours after opening or
 
 This is a well-known stop on Al Ain's heritage circuit, so it draws a steady stream of visitors rather than being any kind of secret. The way to beat the crowds is timing, not avoidance: arrive right at 9am or come in the last hour or two before the 7pm close.
 
-Dress modestly, as you would at any historic Emirati site — shoulders and knees covered works everywhere inside. Photography is generally welcome in the courtyard and exhibition rooms, though avoid photographing any staff or other visitors without asking.
+Dress modestly, as you would at any historic Emirati site, shoulders and knees covered works everywhere inside. Photography is generally welcome in the courtyard and exhibition rooms, though avoid photographing any staff or other visitors without asking.
 
 Entry to Al Jahili Fort has traditionally been free, but confirm this along with current opening hours before your visit, since policies at UAE heritage sites do get updated. Cash isn't really needed unless you want something from the bookshop, and cards are accepted there.
 
-The biggest mistake visitors make is rushing through in fifteen minutes on the way to somewhere else. The fort rewards a slower pace — read the Thesiger captions properly, climb the tower, and actually sit in the garden rather than just photographing it from the gate.
+The biggest mistake visitors make is rushing through in fifteen minutes on the way to somewhere else. The fort rewards a slower pace, read the Thesiger captions properly, climb the tower, and actually sit in the garden rather than just photographing it from the gate.
 
 ## Nearby to combine with your visit
 

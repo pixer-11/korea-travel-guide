@@ -70,13 +70,13 @@ draft: false
 
 ## Why go
 
-Shifen Waterfall is the widest waterfall in Taiwan, a 40-metre curtain of white water dropping into a green pool. Locals call it "Little Niagara" — not for its height, but for that broad, curved sheet of falling water. It's the single-biggest reason to stretch a Pingxi sky-lantern day trip into a full loop.
+Shifen Waterfall is the widest waterfall in Taiwan, a 40-metre curtain of white water dropping into a green pool. Locals call it "Little Niagara", not for its height, but for that broad, curved sheet of falling water. It's the single-biggest reason to stretch a Pingxi sky-lantern day trip into a full loop.
 
 The path in is half the appeal. You cross a suspension bridge with the river churning below, then follow a paved trail through subtropical forest, cicadas buzzing overhead, before the roar of the falls reaches you a good minute before you see them.
 
 ## Getting there
 
-Take the Taiwan Railways branch line from Ruifang Station — reachable from Taipei Main Station in under an hour — to Shifen Station. From there it's a flat, signposted walk of about 20 minutes along the old railway tracks and a riverside path.
+Take the Taiwan Railways branch line from Ruifang Station, reachable from Taipei Main Station in under an hour, to Shifen Station. From there it's a flat, signposted walk of about 20 minutes along the old railway tracks and a riverside path.
 
 Many visitors combine it with the Pingxi Line's other stops:
 
@@ -96,22 +96,22 @@ Give yourself 45 minutes to an hour: enough time to walk the loop trail, cross t
 
 ## When to go
 
-The park keeps consistent hours, open daily from 9am to 5:30pm — plan your walk so you're not rushing the trail as closing approaches. Weekday mornings between 9am and 11am are the calmest window, with far fewer tour groups on the path.
+The park keeps consistent hours, open daily from 9am to 5:30pm. Plan your walk so you're not rushing the trail as closing approaches. Weekday mornings between 9am and 11am are the calmest window, with far fewer tour groups on the path.
 
 On weekends, arrive between 9am and 10am if you can. Weekend crowds build steadily and peak between 1pm and 4pm, when the platform and bridge get genuinely congested. Rainy season (May–September) swells the flow and volume of the falls, making them more dramatic but also busier and muddier underfoot.
 
 ## How to visit like a local
 
-This is a well-known stop on the Pingxi Line, not a hidden find — so the smart move is timing, not secrecy. Aim for a weekday morning between 9am and 11am, or a weekend before 10am, to beat the tour buses.
+This is a well-known stop on the Pingxi Line, not a hidden find, so the smart move is timing, not secrecy. Aim for a weekday morning between 9am and 11am, or a weekend before 10am, to beat the tour buses.
 
-Pay for train tickets and any day passes with an EasyCard if you have one — it's the standard way most people move through the Pingxi Line, faster than queuing for paper tickets at small stations.
+Pay for train tickets and any day passes with an EasyCard if you have one. It's the standard way most people move through the Pingxi Line, faster than queuing for paper tickets at small stations.
 
 A few practical notes:
 
-- Wear grippy shoes — the platform and bridge get damp from spray.
+- Wear grippy shoes. The platform and bridge get damp from spray.
 - Skip the umbrella near the viewing rail; a cap or light rain jacket works better in the mist.
 - The path is flat and stroller-friendly, unlike some of the steeper Pingxi hikes.
-- Don't rush straight back to the station — the riverside benches past the main platform are quieter and give a longer look at the falls without the crowd.
+- Don't rush straight back to the station, the riverside benches past the main platform are quieter and give a longer look at the falls without the crowd.
 
 The biggest mistake visitors make is treating this as a five-minute photo stop squeezed between lantern releases. The walk in, the bridge crossing, and the lower terrace all reward slowing down, and the extra 20 minutes costs nothing but time.
 

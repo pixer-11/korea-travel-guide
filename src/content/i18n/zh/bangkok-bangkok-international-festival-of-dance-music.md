@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-bangkok-international-festival-of-dance-music
-srcHash: '2e2b3312b6dd'
+srcHash: 'aabe94e5de62'
 title: 曼谷国际舞蹈与音乐节全攻略(曼谷)
 description: 2026年9月5日至10月17日，泰国曼谷国际舞蹈与音乐节盛大举行。演出内容、举办时间地点，以及行程安排要点，一文全掌握。
 quickAnswer: 曼谷国际舞蹈与音乐节将迎来第28届，于2026年9月5日至10月17日举行，主会场设在泰国文化中心(Thailand Cultural Centre),届时将有来自九个国家的12部国际制作作品登台，涵盖歌剧、芭蕾、当代舞蹈及多媒体表演等多种形式。由于每部作品在这为期六周的档期内都各自只演出短短几场，建议等完整节目单公布后，在音乐节官方渠道购票并确认具体场次的日期、时间与场馆。

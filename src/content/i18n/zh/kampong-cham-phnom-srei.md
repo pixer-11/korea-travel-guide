@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kampong-cham-phnom-srei
-srcHash: '5b6b0850b579'
+srcHash: '9fbac4d0be4b'
 title: 女山（Phnom Srei）：磅湛旅行指南（4.3★）
 description: 女山（Phnom Srei，意为"女人的山"）是柬埔寨磅湛（Kampong Cham）城外贡先县（Kampong Siem District）一座不起眼的山顶寺庙，最适合清晨或傍晚天气不那么燥热刺眼的时候前往。4.3★（292条点评）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 女山（Phnom Srei，意为"女人的山"）是柬埔寨磅湛（Kampong Cham）城外贡先县（Kampong Siem District）一座不起眼的山顶寺庙，最适合清晨或傍晚天气不那么燥热刺眼的时候前往。比起个头更高的邻居男山（Phnom Pros），这里安静得多：一段不长的台阶、成群的猴子，还有俯瞰周边稻田的视野。安排45分钟到1小时即可，不妨与男山一起游览，从磅湛出发凑成半日行程，顺便了解完整的传说故事。

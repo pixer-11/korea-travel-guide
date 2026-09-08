@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-piparra-consell-de-cent
-srcHash: 'e3fa573d534c'
+srcHash: '393699e1a682'
 title: Piparra（孔塞尔德森街 / Consell de Cent）：巴塞罗那旅行指南
 description: 西班牙巴塞罗那的 Piparra（Consell de Cent）——一家新晋热门小店：它是什么、地点在哪、以及如何前往游览。
 quickAnswer: Piparra（Consell de Cent）是一家新开业的巴斯克-西班牙风味 tapas 和 pintxos（小串塔帕斯）酒吧，位于 Eixample Dreta 区，从 Passeig de Gràcia 步行即可到达。这里更适合热闹的午餐或傍晚小酌 vermut（苦艾酒），而非安静的坐下晚餐。如果想在吧台占个好位置，建议早点去；由于是新开业不久，营业时间和是否接受预订都还在摸索中，出发前最好先确认清楚。

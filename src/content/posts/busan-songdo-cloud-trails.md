@@ -87,11 +87,11 @@ You come here for the moment the boardwalk peels away from the beach and juts ou
 
 The trail is a raised path of wood decking and steel mesh, clinging to the cliffside where Songdo Beach ends and the headland begins. Underfoot in sections, the mesh floor lets you look straight down at the churn and rocks below.
 
-Ahead, a squat lighthouse marks the turnaround point, and behind you the high-rises of Busan's west side stack up against the hills. Photographers cluster where the cable car line crosses directly overhead — time it right and you'll catch a glass-bottomed cabin passing through the frame.
+Ahead, a squat lighthouse marks the turnaround point, and behind you the high-rises of Busan's west side stack up against the hills. Photographers cluster where the cable car line crosses directly overhead, time it right and you'll catch a glass-bottomed cabin passing through the frame.
 
 ## Getting there
 
-Songdo Cloud Trails sits in Amnam-dong, Seo-gu, right at Songdo Beach — Busan's first official beach resort, dating back to the 1910s.
+Songdo Cloud Trails sits in Amnam-dong, Seo-gu, right at Songdo Beach, Busan's first official beach resort, dating back to the 1910s.
 
 - Take Busan Subway Line 1 to Nampo Station, then transfer to a bus (buses 6, 7, 30, or 71 run toward Songdo Beach)
 - Taxis from Nampo-dong or Jagalchi take about 10–15 minutes
@@ -103,21 +103,21 @@ Parking near the beach is limited and fills fast on weekends, so public transit 
 
 The walkway is open every day, 6am to 11pm, so early risers and night walkers both get a window most tourists miss. Midday and weekend afternoons are when the boardwalk gets genuinely packed, with foot traffic bottlenecking at the narrower mesh sections.
 
-Sunset is popular for a reason — the lighthouse and cable car towers silhouette nicely against the water — but that also means it's the busiest single hour. If you want the trail closer to yourself, aim for the first hour after opening or after 8pm, once the light show on the cable car cabins has already drawn the evening crowd toward photos rather than walking.
+Sunset is popular for a reason, the lighthouse and cable car towers silhouette nicely against the water, but that also means it's the busiest single hour. If you want the trail closer to yourself, aim for the first hour after opening or after 8pm, once the light show on the cable car cabins has already drawn the evening crowd toward photos rather than walking.
 
 ## What to bring and skip
 
-- Wear shoes with grip — the decking gets slick with sea spray on windy days
+- Wear shoes with grip. The decking gets slick with sea spray on windy days
 - Skip flip-flops if you're continuing onto Amnam Park's dirt trails afterward
 - Bring a light windbreaker even in summer; the exposed sections funnel wind off the strait
-- Leave the tripod at home unless it's early morning — the path is too narrow for one during busy hours
+- Leave the tripod at home unless it's early morning. The path is too narrow for one during busy hours
 
 ## How to visit like a local
 
-This is one of Busan's most visited coastal walks, so don't expect a quiet secret — the smart move is timing, not stealth. Weekday mornings before 9am are consistently calmer than weekend afternoons, when tour buses and cable car crowds overlap.
+This is one of Busan's most visited coastal walks, so don't expect a quiet secret. The smart move is timing, not stealth. Weekday mornings before 9am are consistently calmer than weekend afternoons, when tour buses and cable car crowds overlap.
 
 Walking the trail costs nothing; you only pay if you ride the Songdo Cable Car itself, which departs from the station right beside the trailhead. Cash and card both work at the cable car ticket counter, but there's no fee gate on the walkway.
 
-Locals treat this as a loop: walk the boardwalk out to the lighthouse, then continue along the coastal path toward Amnam Park rather than doubling back the same way. Yield to slower walkers on the narrow mesh sections — there's no real passing lane, and rushing past someone photographing the view is the most common friction point.
+Locals treat this as a loop: walk the boardwalk out to the lighthouse, then continue along the coastal path toward Amnam Park rather than doubling back the same way. Yield to slower walkers on the narrow mesh sections. There's no real passing lane, and rushing past someone photographing the view is the most common friction point.
 
 The biggest mistake visitors make is arriving only for sunset and finding the best viewpoints already claimed. Arrive thirty minutes earlier than you think you need to, or flip the visit entirely and come at sunrise, when the light on the water is just as striking and the boardwalk is nearly empty.

@@ -67,7 +67,7 @@ draft: false
 
 ## Why go
 
-You smell it before you see it — warm butter, toasted crust, a faint sugar haze drifting onto the pavement. Boulangerie Du Palais sits on Rue du Palais de Justice in Vieux Lyon, a few steps from the Palais de Justice's stone columns.
+You smell it before you see it, warm butter, toasted crust, a faint sugar haze drifting onto the pavement. Boulangerie Du Palais sits on Rue du Palais de Justice in Vieux Lyon, a few steps from the Palais de Justice's stone columns.
 
 It's not a hushed, curated patisserie. It's a bustling operation, trays sliding in and out of the oven, staff calling order numbers over the hum of the slicer. Rated 4.3 from well over 1,700 reviews, it's clearly well-known rather than a quiet secret.
 
@@ -85,35 +85,35 @@ Prices sit at the budget-friendly end, so it's easy to grab two or three things 
 
 ## Getting there
 
-The bakery is at 8 Rue du Palais de Justice, 69005 Lyon, in the Vieux Lyon quarter on the Saône's west bank. The nearest metro is Vieux Lyon (Line D) — from the exit, it's a short walk through the old town's narrow lanes.
+The bakery is at 8 Rue du Palais de Justice, 69005 Lyon, in the Vieux Lyon quarter on the Saône's west bank. The nearest metro is Vieux Lyon (Line D), from the exit, it's a short walk through the old town's narrow lanes.
 
 If you're coming from Bellecour or Presqu'île, cross the Pont Bonaparte or Pont du Palais de Justice on foot; it's a scenic ten-minute stroll along the river. Traboules (the covered passages Vieux Lyon is famous for) thread nearby if you want to wander after.
 
 ## When to go
 
-The bakery opens daily at 7am and closes at 7pm, seven days a week — no closing day to plan around.
+The bakery opens daily at 7am and closes at 7pm, seven days a week, no closing day to plan around.
 
 Crowd patterns are worth knowing before you go. On weekdays, it's calmest right at opening, between 7am and 8am, before the commuter and school-run rush hits the counter.
 
-On weekends, avoid the stretch from 10am to 4pm — that's when lines form and the small interior fills fast. Weekend evenings, from 5pm to 7pm, are noticeably quieter and a good time for a last-minute pastry before dinner.
+On weekends, avoid the stretch from 10am to 4pm. That's when lines form and the small interior fills fast. Weekend evenings, from 5pm to 7pm, are noticeably quieter and a good time for a last-minute pastry before dinner.
 
 ## What to see nearby
 
 Vieux Lyon rewards lingering. The Cathédrale Saint-Jean is a five-minute walk, its astronomical clock still striking on the hour.
 
-Further up, the Basilica of Notre-Dame de Fourvière crowns the hill — reachable by funicular from Vieux Lyon station, or a steeper walk if you'd rather earn your pastry. Renaissance facades line the surrounding streets, many hiding traboules that once let silk workers move goods undercover.
+Further up, the Basilica of Notre-Dame de Fourvière crowns the hill, reachable by funicular from Vieux Lyon station, or a steeper walk if you'd rather earn your pastry. Renaissance facades line the surrounding streets, many hiding traboules that once let silk workers move goods undercover.
 
 ## How to visit like a local
 
 This is a grab-and-go bakery, not a sit-down café, so most regulars are in and out within a few minutes.
 
-- Order by pointing or naming the item — a simple "je voudrais…" plus the name works fine
+- Order by pointing or naming the item, a simple "je voudrais…" plus the name works fine
 - Payment is by card or cash; contactless is standard for small purchases
 - There's no table service and limited seating, so plan to eat on a bench by the Saône or on the move
-- Numbered-ticket ordering can appear during peak hours — check for a dispenser near the door
-- The main mistake visitors make is arriving mid-morning on a Saturday expecting a quick stop — that's exactly the 10am–4pm window to avoid
+- Numbered-ticket ordering can appear during peak hours. Check for a dispenser near the door
+- The main mistake visitors make is arriving mid-morning on a Saturday expecting a quick stop. That's exactly the 10am–4pm window to avoid
 
-Since it's well-known rather than under-the-radar, don't expect an empty room at lunchtime. Timing your visit around the quiet windows — early weekday mornings or weekend early evenings — matters more here than at most bakeries in the city.
+Since it's well-known rather than under-the-radar, don't expect an empty room at lunchtime. Timing your visit around the quiet windows, early weekday mornings or weekend early evenings, matters more here than at most bakeries in the city.
 
-Bring a bit of patience if you do land in a busy stretch; the line moves quickly because the staff are used to volume. And don't skip the savory side — the pizza slices and sandwiches sell fast, especially around midday, so if that's your plan, don't leave it too late.
+Bring a bit of patience if you do land in a busy stretch; the line moves quickly because the staff are used to volume. And don't skip the savory side, the pizza slices and sandwiches sell fast, especially around midday, so if that's your plan, don't leave it too late.
 

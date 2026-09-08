@@ -101,7 +101,7 @@ Nine ornate spires rise over the river the moment you round the approach road. T
 
 ## Getting there
 
-The temple sits in Dakshineswar, at Kolkata's northern edge, right on the Hooghly River. The easiest route is the Kolkata Metro's Dakshineswar station on the Blue Line — it's the northern terminus, and the temple is a short walk from the exit.
+The temple sits in Dakshineswar, at Kolkata's northern edge, right on the Hooghly River. The easiest route is the Kolkata Metro's Dakshineswar station on the Blue Line. It's the northern terminus, and the temple is a short walk from the exit.
 
 If you're coming from central Kolkata by road, expect 45 minutes to an hour depending on traffic. A pleasant alternative: cross the river by the small ferry from Belur Math, the Ramakrishna Mission headquarters directly opposite, which pairs naturally with a Dakshineswar visit.
 
@@ -109,17 +109,17 @@ If you're coming from central Kolkata by road, expect 45 minutes to an hour depe
 
 Start at the main nine-spired temple, home to the black stone image of Kali standing on Shiva. The idol is dressed in silk and ornamented daily by priests, and the inner sanctum gets crowded fast once the morning rush builds.
 
-Walk the long colonnaded veranda facing the river — this is where Ramakrishna spent much of his life, and a room preserved as his living quarters is open for viewing nearby. Don't skip the row of twelve Shiva temples along the riverbank; they're quieter, photogenic in the early light, and easy to miss if you beeline for the main shrine.
+Walk the long colonnaded veranda facing the river. This is where Ramakrishna spent much of his life, and a room preserved as his living quarters is open for viewing nearby. Don't skip the row of twelve Shiva temples along the riverbank; they're quieter, photogenic in the early light, and easy to miss if you beeline for the main shrine.
 
 The riverside ghat itself is worth a few minutes. Boats drift past, locals bathe on the steps, and the view across to Belur Math gives you a sense of the site's scale.
 
 ## When to go
 
-The temple keeps a split schedule every day of the week: 5:00 AM to 12:30 PM, then 3:30 to 7:30 PM, closed for the hours between. Plan around that gap — arriving at 1pm means a locked gate and a wait.
+The temple keeps a split schedule every day of the week: 5:00 AM to 12:30 PM, then 3:30 to 7:30 PM, closed for the hours between. Plan around that gap, arriving at 1pm means a locked gate and a wait.
 
 Weekday mornings between 7 and 8am are the calmest window of the day, right after the opening rush thins out. Weekends are a different story: crowds stay heavy from 8am straight through to 7pm, so if you're visiting on a Saturday or Sunday, come as close to 5am opening as you can manage.
 
-Fridays and festival days — especially Kali Puja and Durga Puja season — bring the heaviest crowds of all. If you have flexibility, a weekday visit outside peak festival dates is far more comfortable.
+Fridays and festival days, especially Kali Puja and Durga Puja season, bring the heaviest crowds of all. If you have flexibility, a weekday visit outside peak festival dates is far more comfortable.
 
 ## How to visit like a local
 
@@ -127,9 +127,9 @@ This is one of Kolkata's most-visited religious sites, not a quiet corner, so pl
 
 - **Arrive early.** The 5am opening or the 7–8am weekday lull are your best shots at a shorter line for the inner sanctum.
 - **Dress modestly.** Cover shoulders and knees; there's no strict dress code enforcement but it's respectful practice at any Kali temple.
-- **Shoes off before entering.** Free shoe-counters sit near the main gate — a small tip for the attendant is customary, not compulsory.
+- **Shoes off before entering.** Free shoe-counters sit near the main gate. A small tip for the attendant is customary, not compulsory.
 - **Skip the touts.** Priests or guides may offer "special" quick-entry puja packages near the entrance; the temple itself doesn't require a paid guide, and offerings can be bought at the counters inside.
-- **Carry small cash** for donation boxes and prasad counters — cards aren't the norm here.
+- **Carry small cash** for donation boxes and prasad counters, cards aren't the norm here.
 - **The biggest mistake tourists make** is showing up mid-afternoon assuming it's open all day. Check the 12:30–3:30 closure before you plan your route.
 
 Give the visit a solid hour to ninety minutes if you want to see the main temple, the twelve Shiva shrines, Ramakrishna's room, and the riverside ghat without rushing. Pair it with Belur Math across the river for a half-day itinerary that covers both sides of Kolkata's most significant riverside pilgrimage circuit.

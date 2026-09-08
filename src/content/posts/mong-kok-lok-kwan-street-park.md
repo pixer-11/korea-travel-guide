@@ -78,7 +78,7 @@ The park sits at 25 Lok Kwan Street, in Tai Kok Tsui, just west of the Mong Kok 
 
 The closest MTR stop is Olympic Station on the Tung Chung Line, about a 10-minute walk east through the surrounding streets. Mong Kok Station (Tsuen Wan and Kwun Tong lines) works too, roughly 15 minutes on foot if you don't mind cutting through the market streets first.
 
-Taxis and rideshares can drop you right on Lok Kwan Street itself — useful if you're coming loaded down with shopping bags from Ladies' Market or Fa Yuen Street.
+Taxis and rideshares can drop you right on Lok Kwan Street itself, useful if you're coming loaded down with shopping bags from Ladies' Market or Fa Yuen Street.
 
 ## What you'll actually find
 
@@ -90,12 +90,12 @@ The scale is small enough to see the whole thing in one slow loop, which is exac
 
 - Shaded benches under mature trees
 - Basic outdoor fitness equipment
-- Open sightlines across the whole park — no hidden corners, no crowds to fight through
+- Open sightlines across the whole park, no hidden corners, no crowds to fight through
 - Public toilets on site (standard for Hong Kong district parks)
 
 ## When to go
 
-The park never closes — it's open 24 hours, every day of the week.
+The park never closes. It's open 24 hours, every day of the week.
 
 That doesn't mean it's always lively. Weekends tend to see more use than weekdays, so if you want it closer to empty, early weekday mornings before the neighbourhood wakes up are your window.
 
@@ -103,13 +103,13 @@ Evenings after dinner service in the surrounding streets tend to bring a second 
 
 ## How to visit like a local
 
-Treat it as a stop, not a stop-off. Walk in, sit for ten minutes, walk out — that's how most people use it.
+Treat it as a stop, not a stop-off. Walk in, sit for ten minutes, walk out. That's how most people use it.
 
 - Bring nothing to sell or perform; this isn't a park for busking or filming setups, and locals notice quickly if you're using the space differently than they are
-- Skip weekend afternoons if you want quiet — that's peak local use, especially with families
-- No entry fee, no ticket, no gate — just walk in from any of the paths bordering Lok Kwan Street
+- Skip weekend afternoons if you want quiet. That's peak local use, especially with families
+- No entry fee, no ticket, no gate, just walk in from any of the paths bordering Lok Kwan Street
 - Bins are limited, so carry out any snack wrappers rather than hunting for one
-- If the fitness equipment is in use, wait your turn rather than crowding in — it's a small area and etiquette matters more because of it
+- If the fitness equipment is in use, wait your turn rather than crowding in. It's a small area and etiquette matters more because of it
 
 The biggest mistake visitors make is treating it like a sightseeing stop worth crossing town for. It isn't. It's a genuinely under-the-radar patch of calm that rewards you only if you're already in Tai Kok Tsui or Mong Kok and need five minutes off your feet.
 
@@ -117,6 +117,6 @@ The biggest mistake visitors make is treating it like a sightseeing stop worth c
 
 Fa Yuen Street Market and the Ladies' Market are both within walking distance if you're continuing a Mong Kok shopping run.
 
-For food, the Tai Kok Tsui side streets around here hold some solidly local cha chaan tengs and noodle shops that don't show up on most tourist maps — worth wandering into if you're hungry after your park break.
+For food, the Tai Kok Tsui side streets around here hold some solidly local cha chaan tengs and noodle shops that don't show up on most tourist maps, worth wandering into if you're hungry after your park break.
 
 Olympic City mall, near Olympic Station, is another nearby option if you need air conditioning, a toilet, or a coffee before heading back into the Mong Kok crush.

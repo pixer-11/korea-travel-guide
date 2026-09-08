@@ -65,19 +65,19 @@ aiGenerated: true
 draft: false
 ---
 
-You smell the stone before you see the detail — that cool, mineral hush of old limestone that hangs in the narrow streets of Toledo's former Jewish quarter. Then the facade opens up above you, and you understand why this church stopped being just a building and became a monument.
+You smell the stone before you see the detail, that cool, mineral hush of old limestone that hangs in the narrow streets of Toledo's former Jewish quarter. Then the facade opens up above you, and you understand why this church stopped being just a building and became a monument.
 
 Isabella and Ferdinand commissioned San Juan de los Reyes in the late 15th century to mark a military victory and to serve, eventually, as their burial place. Plans changed and they ended up in Granada instead, but the monastery they left behind is arguably the finer building. It's Gothic-Flemish architecture at its most theatrical, dense with heraldic eagles, pomegranates, and the yoke-and-arrow emblems of the Catholic Monarchs.
 
 ## The cloister is the reason to come
 
-Skip past the church interior quickly if you're short on time — the real spectacle is outside, in the two-tiered cloister.
+Skip past the church interior quickly if you're short on time. The real spectacle is outside, in the two-tiered cloister.
 
-The lower level is stone, heavy and Gothic. The upper level turns to wood, lighter and almost domestic in feel, with a carved artesonado ceiling running its full length. Walk it slowly. Gargoyles peer down from the cornices in shapes you won't expect in a religious building — monkeys, dogs, a few figures that look frankly obscene, put there by stonemasons having a private joke five centuries ago.
+The lower level is stone, heavy and Gothic. The upper level turns to wood, lighter and almost domestic in feel, with a carved artesonado ceiling running its full length. Walk it slowly. Gargoyles peer down from the cornices in shapes you won't expect in a religious building, monkeys, dogs, a few figures that look frankly obscene, put there by stonemasons having a private joke five centuries ago.
 
 ## The chains on the facade
 
-Before you go in, look up at the exterior wall facing the Tagus gorge. Rows of rusted iron chains and shackles hang there, taken from Christian prisoners freed from Moorish captivity during the Reconquista. They were bolted to the church as a public trophy and have stayed put ever since — one of the more visceral pieces of medieval propaganda still on display anywhere in Spain.
+Before you go in, look up at the exterior wall facing the Tagus gorge. Rows of rusted iron chains and shackles hang there, taken from Christian prisoners freed from Moorish captivity during the Reconquista. They were bolted to the church as a public trophy and have stayed put ever since, one of the more visceral pieces of medieval propaganda still on display anywhere in Spain.
 
 ## Getting there
 
@@ -85,7 +85,7 @@ The monastery sits on Calle de los Reyes Católicos, inside the old town, an eas
 
 ## When to go
 
-The monastery opens daily at 10am and closes at 6:45pm, with no midday closure, which makes it easy to slot into a walking day through the old town. Measured foot-traffic data shows the calmest window is 10am to 11am on weekdays — arrive right at opening and you'll often have the upper cloister nearly to yourself. Weekends are a different story: crowds build steadily from noon and stay heavy until closing, so if you're visiting on a Saturday or Sunday, try to arrive before noon.
+The monastery opens daily at 10am and closes at 6:45pm, with no midday closure, which makes it easy to slot into a walking day through the old town. Measured foot-traffic data shows the calmest window is 10am to 11am on weekdays. Arrive right at opening and you'll often have the upper cloister nearly to yourself. Weekends are a different story: crowds build steadily from noon and stay heavy until closing, so if you're visiting on a Saturday or Sunday, try to arrive before noon.
 
 Plan on 45 minutes to an hour inside, more if you want to sit with the cloister ceiling for a while or read the informational panels on the building's history.
 
@@ -94,9 +94,9 @@ Plan on 45 minutes to an hour inside, more if you want to sit with the cloister 
 This is one of Toledo's most visited sites, so timing matters more than any insider trick.
 
 - Go at opening on a weekday, ideally 10–11am, for a near-empty cloister
-- Buy your ticket on-site or online in advance during peak season — lines form fast once tour groups arrive after 11am
+- Buy your ticket on-site or online in advance during peak season, lines form fast once tour groups arrive after 11am
 - Wear low-noise shoes; the wooden upper cloister amplifies footsteps and it's still an active Franciscan community, not just a museum piece
 - Photography is generally fine in the cloister but be discreet and quiet in the church nave, where visitors are usually praying
 - Check official hours before you go, especially around religious holidays, when access can shift
 
-Combine it with a walk to the nearby Puente de San Martín, the medieval bridge just below the monastery, for the classic postcard view back up at the church rising above the gorge — a good way to close out the visit without doubling back through the crowds.
+Combine it with a walk to the nearby Puente de San Martín, the medieval bridge just below the monastery, for the classic postcard view back up at the church rising above the gorge. A good way to close out the visit without doubling back through the crowds.

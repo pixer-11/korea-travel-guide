@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-hanoi-jazztival-2026
-srcHash: '5f15e42ae32b'
+srcHash: 'c5f255cdac63'
 title: 'Hanoi Jazztival 2026: fechas, entradas y sedes (Hanói)'
 description: El Hanoi Jazztival 2026 se celebra en Hanói, Vietnam, del 17 al 19 de septiembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar tu visita.
 quickAnswer: El Hanoi Jazztival 2026 se celebra del 17 al 19 de septiembre de 2026, repartido entre la Ópera de Hanói (Hanoi Opera House), el Jardín Ly Thai To, el Teatro Thang Long y el Museo de la Mujer de Vietnam. El tema de esta edición es "Hanoi Jazz – Music Without Borders" (música sin fronteras), que junta a músicos vietnamitas con artistas internacionales en varios escenarios de la zona del Casco Antiguo (Old Quarter). Antes de planear tu noche, conviene confirmar los horarios exactos de cada actuación, la asignación de sedes y las entradas en la web oficial del festival.

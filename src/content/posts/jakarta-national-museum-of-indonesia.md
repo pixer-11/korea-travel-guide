@@ -127,7 +127,7 @@ Grab or Gojek rides are cheap and simple if you'd rather skip navigating on foot
 
 ## What to see inside
 
-Budget two to three hours to do the collection justice. The ground floor's bronze and stone sculpture halls are the visual highlight — towering Hindu-Buddhist statues, some over a thousand years old, arranged around the central courtyard.
+Budget two to three hours to do the collection justice. The ground floor's bronze and stone sculpture halls are the visual highlight, towering Hindu-Buddhist statues, some over a thousand years old, arranged around the central courtyard.
 
 Don't miss:
 
@@ -144,19 +144,19 @@ The museum is closed every Monday, so don't build that into your Jakarta itinera
 
 Crowds build steadily through the day, with weekends typically busier than weekdays as tour groups and families pack the courtyard.
 
-If you're visiting on a weekend, arrive right at opening — the 8am to 9am window is noticeably quieter. On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening.
+If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening.
 
 ## How to visit like a local
 
 Because this is a very popular stop on nearly every Jakarta itinerary, timing your visit matters more than finding a secret entrance. Aim for that weekend 8am opening rush or a late Friday visit to dodge the tour buses.
 
-Entry tickets are inexpensive and typically bought at a counter just inside the gate — cash and card are usually both accepted, but carry small rupiah notes as backup since queues move faster with exact change.
+Entry tickets are inexpensive and typically bought at a counter just inside the gate, cash and card are usually both accepted, but carry small rupiah notes as backup since queues move faster with exact change.
 
 A few practical notes:
 
 - Modest dress isn't strictly enforced but is appreciated, as with most Indonesian public institutions
 - Photography is generally allowed in most galleries; flash is often restricted near fragile textiles and manuscripts
-- Guides sometimes wait near the entrance offering tours in English — agreeing on a rate before starting saves confusion later
+- Guides sometimes wait near the entrance offering tours in English, agreeing on a rate before starting saves confusion later
 - The first-timer mistake is treating this as a quick stopover before Monas; the collection genuinely rewards two-plus hours
 
 Pair your visit with Merdeka Square and Monas right across the street, since both sit within the same walkable plaza and make for a natural half-day loop through Jakarta's civic heart.
