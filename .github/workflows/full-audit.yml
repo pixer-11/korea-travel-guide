@@ -156,7 +156,9 @@ jobs:
           # 바로 그렇게 판정했다).
           set +e
           fail=0
-          run() { echo "── $1 ──" >> /tmp/homeless.log; shift; "$@" >> /tmp/homeless.log 2>&1 || { echo "$1" >> /tmp/homeless-failed.txt; fail=1; }; }
+          # 라벨을 먼저 붙잡는다 — shift 뒤의 $1 은 "node" 다. 첫 판은 그렇게 써서
+          # 실패 목록에 검사 이름 대신 "node" 가 적힐 뻔했다(로컬에서 돌려보고 잡음).
+          run() { local label="$1"; shift; echo "── $label ──" >> /tmp/homeless.log; "$@" >> /tmp/homeless.log 2>&1 || { echo "$label" >> /tmp/homeless-failed.txt; fail=1; }; }
           run "AI 냄새"        node scripts/audit-ai-tells.mjs
           run "은퇴 리다이렉트" node scripts/audit-retired-redirects.mjs
           run "타이포그래피"    node scripts/audit-typography.mjs
