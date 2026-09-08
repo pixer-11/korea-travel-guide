@@ -29,12 +29,17 @@ const bad = [];
 // Commons heroes or none at all — and a checker that reports zero after
 // looking at nothing is the failure this whole repo spent 2026-08-05 on.
 let examined = 0;
+// 커먼즈 사진이 한 장도 없는 코퍼스는 정상이다 — 판정할 게 없을 뿐.
+// 계약이 물어야 할 건 "글을 읽기는 했나" 쪽이다(코덱스 09-08: 4sqi 사진만 있는
+// 저장소에서 이 검사가 NOTHING-EXAMINED 로 죽었고, 발행 워크플로가 그걸 부른다).
+let postsRead = 0;
 for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
   const m = readFileSync(join(POSTS_DIR, f), 'utf8').match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!m) continue;
   let fm;
   try { fm = yaml.load(m[1]); } catch { continue; }
   if (fm?.draft) continue;
+  postsRead++;
 
   const url = fm.heroImage?.url || '';
   if (!/wikimedia|wikipedia/.test(url)) continue;   // only Commons names are descriptive
@@ -54,7 +59,7 @@ for (const f of readdirSync(POSTS_DIR).filter((x) => x.endsWith('.md'))) {
 }
 
 for (const b of bad) console.log(`${b.problem.padEnd(12)} ${b.f}\n             "${b.fileName}"  (subject: ${b.subject})`);
-requireExamined(examined, '커먼즈 히어로 사진', 'src/content/posts 가 비어 있나?');
+requireExamined(postsRead, '발행된 글', 'src/content/posts 가 비어 있나?');
 console.log(`\n${bad.length} of ${examined} Commons hero(es) named as something other than a photo of the place.`);
 
 if (fix && bad.length) {

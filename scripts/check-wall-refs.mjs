@@ -33,12 +33,14 @@ const refs = new Map(); // name -> first page that references it
 // and this file's existence check was satisfied because nothing was referenced.
 // Every destination/region/country tile must carry a background-image.
 const blank = new Map();
+let pagesScanned = 0;
 (function walk2(d) {
   for (const e of readdirSync(d, { withFileTypes: true })) {
     const p2 = `${d}/${e.name}`;
     if (e.isDirectory()) { if (e.name !== 'wall' && e.name !== 'embed') walk2(p2); }
     else if (e.name.endsWith('.html')) {
       const s2 = readFileSync(p2, 'utf8');
+      pagesScanned++;
       // Token-delimited: dest-tile-inner (the label wrapper INSIDE a tile, which
       // never carries a background) must not read as a dest-tile — it did, and
       // 34 phantom blanks hid the one real report line.
@@ -77,7 +79,9 @@ for (const [what, page] of blank) console.log(`BLANK-TILE ${what} — ${page}`);
 
 const missing = [...refs].filter(([name]) => !existsSync(`dist/wall/${name}`));
 for (const [name, page] of missing.slice(0, 10)) console.log(`WALL-REF-MISSING: ${name} — first used on ${page}`);
-requireExamined(refs.size + blank.size, '사진벽 썸네일 참조', 'dist 가 비어 있거나 빌드를 안 돌렸다');
+// 참조가 0인 빌드는 정상일 수 있다(배경이미지 타일, 사진 없는 이벤트 타일).
+// 계약이 물어야 할 건 "페이지를 읽기는 했나"다 — 코덱스 09-08.
+requireExamined(pagesScanned, '빌드된 페이지', 'dist 가 비어 있거나 빌드를 안 돌렸다');
 
 const bad = missing.length + blank.size;
 console.log(bad
