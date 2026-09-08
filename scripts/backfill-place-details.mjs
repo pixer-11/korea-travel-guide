@@ -19,6 +19,7 @@
 // arbitrary A-Z sweep reaching them eventually. Only the ORDER changes: skip
 // rules, --limit, and the quota-streak stop are untouched.
 import './lib/env.mjs'; // MUST be first — loads .env before places.mjs reads the API key
+import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -228,10 +229,10 @@ async function main() {
       closed++;
       console.log(`  🚫 ${f}: ${raw.businessStatus} — quarantined (draft), not backfilled`);
       if (APPLY && !/^draft:\s*true/m.test(t)) {
-        const out = /^draft:\s*/m.test(t)
-          ? t.replace(/^draft:\s*\S+[ \t]*$/m, 'draft: true')
-          : t.replace(/^---\r?\n/, `---\ndraft: true\n`);
-        if (out !== t) await writeFile(p, out, 'utf8');
+        // 공용 편집기: 본문 코드예제의 `draft:` 를 대신 고치지 않고, 키가 없어도
+        // 프론트매터 맨 앞에 밀어 넣는 자리 다툼 없이 그냥 추가한다.
+        try { await writeFile(p, editFrontmatter(t, { draft: true }), 'utf8'); }
+        catch (err) { console.log(`  ⚠️ ${f}: draft 플래그를 안전하게 못 세움 — ${err.message}`); }
       }
       continue;
     }

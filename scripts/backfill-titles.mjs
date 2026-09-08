@@ -9,6 +9,7 @@
 // Venue posts pass their stored Google rating into makeTitle, which may append
 // the honest "(4.9★)" review-intent badge when the title stays within 60 chars.
 import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { makeTitle } from './lib/titles.mjs';
@@ -77,7 +78,12 @@ for (const f of files) {
   }
 
   if (!newTitle || newTitle === oldTitle) { skip++; continue; }
-  const out = t.replace(/^title:[ \t]*.+/m, `title: ${JSON.stringify(newTitle)}`);
+  // JSON 따옴표는 YAML 따옴표가 아니다. 백슬래시 이스케이프 규칙이 다르고, 제목에
+  // 콜론이나 따옴표가 들어오면 프론트매터가 깨진다. 공용 편집기가 js-yaml 으로
+  // 직렬화하고, 쓴 결과를 다시 읽어 본문과 나머지 필드까지 대조한다.
+  let out;
+  try { out = editFrontmatter(t, { title: newTitle }); }
+  catch (err) { console.log(`  ⚠️ ${p}: 제목을 안전하게 못 바꿈 — ${err.message}`); skip++; continue; }
   if (out === t) { skip++; continue; }
   changed++;
   if (samples.length < 8) samples.push(`  ${oldTitle}\n   → ${newTitle}`);

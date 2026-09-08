@@ -98,9 +98,17 @@ for (const p of targets) {
   const kind = isEvent ? `event:"${ev}"→${eventTopic(ev)}` : p.category;
   console.log(`  ✓ ${kind}\n      ${hero.url.slice(0, 76)}`);
   if (APPLY) {
-    const block = `heroImage:\n  url: ${JSON.stringify(hero.url)}\n  credit: ${JSON.stringify(hero.credit)}\n  license: ${JSON.stringify(hero.license)}\n  source: ${JSON.stringify(hero.source)}`;
-    const out = p.t.replace(/^heroImage:[\s\S]*?(?=\ngallery:)/m, block);
-    if (out !== p.t) await writeFile(join(DIR, p.f), out, 'utf8');
+    // 공용 편집기(lib/frontmatter-edit)가 블록을 통째로 갈아 끼운다. 예전 코드는
+    // `gallery:` 가 바로 뒤에 온다고 가정한 전방탐색이라 그 키가 자리를 옮기거나
+    // 없으면 파일이 깨졌고, JSON.stringify 는 YAML 따옴표 규칙과 다르다.
+    const next = {
+      url: hero.url, credit: hero.credit, license: hero.license, source: hero.source,
+    };
+    try {
+      await writeFile(join(DIR, p.f), editFrontmatter(p.t, { heroImage: next }), 'utf8');
+    } catch (err) {
+      console.log(`      ⚠️ ${p.f}: 히어로를 안전하게 못 바꿈 — ${err.message}`);
+    }
   }
 }
 console.log(`\n${done} resolved, ${failed} failed.`);

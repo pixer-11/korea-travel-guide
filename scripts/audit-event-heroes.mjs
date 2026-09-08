@@ -72,9 +72,14 @@ for (const f of files) {
       store[key] = { slug, verdict: 'MISMATCH', reason: `event-mode back-audit: ${v.reason}`, at: new Date().toISOString() };
       // Same policy as the publish gate: the event stays live, the hero goes.
       // heroImage is a top-level frontmatter block; strip it and its children.
-      const out = raw.replace(/^heroImage:(?:\r?\n(?:[ \t]+.*)?)*\r?\n?/m, '');
-      if (out !== raw) await writeFile(p, out, 'utf8');
-      else console.log(`     ⚠️ could not strip heroImage block — fix by hand`);
+      // 공용 편집기(lib/frontmatter-edit). 예전 정규식은 `heroImage :`(콜론 앞
+      // 공백)과 `heroImage: {url: …}`(인라인 매핑)을 못 봐서 격리한 사진이
+      // 그대로 남았다. 편집기는 쓴 결과를 다시 읽어 본문까지 대조한다.
+      try {
+        await writeFile(p, editFrontmatter(raw, { heroImage: DELETE }), 'utf8');
+      } catch (err) {
+        console.log(`     ⚠️ could not strip heroImage block (${err.message}) — fix by hand`);
+      }
     }
   }
 }
