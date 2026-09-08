@@ -9,13 +9,6 @@ country: South Korea
 region: Gyeongju
 category: trendy
 pubDate: '2026-07-24T22:25:27.973Z'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1651375562166-c3ec0b25c16c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R3llb25nanUlMjBTb3V0aCUyMEtvcmVhJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0OTMxODg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Suzi Kim on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@kimsuzi08?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJ8c-ajklNZjURJ8slQzYNJeM
@@ -76,7 +69,8 @@ faq:
       busy times. Card and mobile payment (Naver Pay/Kakao Pay) are standard in
       Korea, so cash isn't essential, and tipping is not customary.
 aiGenerated: true
-draft: true
+draft: false
+photoless: true
 updatedDate: '2026-09-03'
 ---
 

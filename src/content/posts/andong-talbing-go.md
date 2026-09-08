@@ -8,13 +8,6 @@ country: South Korea
 region: Andong
 category: restaurant
 pubDate: '2026-07-24T22:26:36.973Z'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1700639687072-dd8c8d13b3e8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NXx8QW5kb25nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0OTMxOTUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Nino Steffen on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@nino_steffen?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJcZphj1giZDURKMcSmiV516k
@@ -79,7 +72,8 @@ faq:
       or Andong-sik heotjesatbap (ancestral-style mixed rice), both signature
       dishes of the region.
 aiGenerated: true
-draft: true
+draft: false
+photoless: true
 updatedDate: '2026-08-23'
 ---
 

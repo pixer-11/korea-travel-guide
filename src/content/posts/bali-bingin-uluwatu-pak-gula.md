@@ -8,12 +8,6 @@ country: Indonesia
 region: Bali
 category: trendy
 pubDate: '2026-07-23'
-heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg
-  credit: 'Photo: Foursquare user content (Warung Gula Bali "The Joglo")'
-  license: foursquare
-  source: 'https://foursquare.com/v/4c550383728920a19f45ac83'
 gallery: []
 place:
   id: ChIJKwd_WgBF0i0RJpCkORRpfdg
@@ -73,7 +67,8 @@ faq:
       setting. Confirm current opening hours directly since they weren't
       independently verified here.
 aiGenerated: true
-draft: true
+draft: false
+photoless: true
 updatedDate: '2026-08-28'
 ---
 

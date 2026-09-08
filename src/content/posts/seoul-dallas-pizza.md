@@ -5,11 +5,6 @@ country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/68367443_pQcabcIRpjGCjJ26esqkElUSwhIkm1lvVwGW4-0J8Zs.jpg
-  credit: 'Photo: Foursquare user content (Uncle Pizza)'
-  license: foursquare
-  source: https://foursquare.com/v/64fd89ad30bcbb30506f66e7
 place:
   id: ChIJNYchyFuffDURxFE7PFYMfX0
   name: Dallas Pizza
@@ -45,7 +40,8 @@ faq:
   - q: What's the best time to visit?
     a: Weekday early-evening reservations are generally easier to secure than weekend slots, and visiting in late afternoon lets you see the workshop district at its most atmospheric before dinner service gets busy.
 aiGenerated: true
-draft: true
+draft: false
+photoless: true
 ---
 
 ## Why Dallas Pizza Is Worth the Trip
