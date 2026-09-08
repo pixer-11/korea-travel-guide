@@ -37,3 +37,31 @@ export function orderPhotoQueue(slugs, perf) {
     })
     .map((x) => x.slug);
 }
+
+// How many failed nights before a slug stops taking a slot every night, and how
+// often it is looked at after that.
+export const GIVE_UP_AFTER = 7;
+export const RECHECK_EVERY = 30;
+
+/**
+ * Should tonight's run skip this slug?
+ *
+ * The give-up threshold existed and was only ANNOUNCED: the run printed
+ * "search paused" at the end and queued the same slug again the next night.
+ * Measured 2026-09-08: yeosu-bokchun-restaurant had been searched 19 times and
+ * seoul-dallas-pizza 41, both far past 7, and 110 of the 169 slugs in the
+ * ledger were in that state — spending a Places budget of 100 searches a day
+ * on posts whose photograph does not exist in any free-licensed source.
+ *
+ * Paused is not abandoned: Commons and Foursquare do gain photos, so an
+ * exhausted slug still gets one night in thirty. The caller's SLUGS/ONLY
+ * override bypasses this entirely.
+ *
+ * @param {number|undefined} attempts nights already spent on this slug
+ * @returns {boolean} true when the slug should not be searched tonight
+ */
+export function isPausedTonight(attempts) {
+  const n = Number(attempts) || 0;
+  if (n < GIVE_UP_AFTER) return false;
+  return (n - GIVE_UP_AFTER) % RECHECK_EVERY !== 0;
+}

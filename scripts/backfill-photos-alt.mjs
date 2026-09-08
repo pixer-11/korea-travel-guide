@@ -45,7 +45,7 @@ import { twinIndex } from './lib/live-event-twins.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
-import { orderPhotoQueue } from './lib/photo-queue-order.mjs';
+import { orderPhotoQueue, isPausedTonight, GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -191,13 +191,28 @@ const rewriteList = [];
 // Seven strikes used to DELETE the post. It now only stops searching — see the
 // block near the bottom of this file for the measurement that changed the rule.
 const RETRY_FILE = 'data/photo-retry.json';
-const GIVE_UP_AFTER = 7;
+// GIVE_UP_AFTER and the pause rule live in lib/photo-queue-order.mjs, next to
+// isPausedTonight and its tests, so the threshold and the rule cannot drift.
 const retryCount = existsSync(RETRY_FILE) ? JSON.parse(readFileSync(RETRY_FILE, 'utf8')) : {};
+
+// GIVE_UP_AFTER used to be a thing this file only ANNOUNCED. It printed "search
+// paused" at the end of the run and then queued the same slug again the next
+// night: yeosu-bokchun-restaurant had been tried 19 times and seoul-dallas-pizza
+// 41, both far past 7, each attempt spending from a Places search budget of 100
+// a day that other posts could have used. A small Yeosu restaurant has no
+// free-licensed photograph; asking again tonight does not change that.
+//
+// Paused is not abandoned. Commons and Foursquare do gain photos, so an
+// exhausted slug is retried every RECHECK_EVERY nights — the count keeps rising,
+// so this is simply "one night in thirty" — and ONLY/SLUGS still forces any slug
+// through by hand.
+let pausedSkipped = 0;
 
 for (const f of files) {
   if (fixed + unfixed >= LIMIT) break;
   const slug = f.replace(/\.md$/, '');
   if (ONLY.length && !ONLY.includes(slug)) continue;
+  if (!ONLY.length && isPausedTonight(retryCount[slug])) { pausedSkipped++; continue; }
   const path = `${POSTS}/${f}`;
   const { data, content } = matter(await readFile(path, 'utf8'));
   // Events used to be skipped outright here ("events keep their performer/type
@@ -751,4 +766,4 @@ if (!DRY) await writeFile(RETRY_FILE, JSON.stringify(retryCount, null, 1) + '\n'
 console.log(`\n📦 scanned ${scanned} target(s): ${fixed} fixed · ${undrafted} republished · ${unfixed} need venue-rewrite`);
 if (rewriteList.length) console.log('REWRITE_LIST ' + rewriteList.join(','));
 if (exhaustedNow.length) console.log('EXHAUSTED_LIST ' + exhaustedNow.join(','));
-console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed} exhausted=${exhaustedNow.length}`);
+console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed} exhausted=${exhaustedNow.length} paused-skipped=${pausedSkipped}`);

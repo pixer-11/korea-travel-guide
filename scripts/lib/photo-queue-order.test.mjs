@@ -57,3 +57,25 @@ test('handles a missing/empty perf object without throwing, preserving order', (
   assert.deepEqual(orderPhotoQueue(slugs, {}), ['b', 'a', 'c']);
   assert.deepEqual(orderPhotoQueue(slugs, undefined), ['b', 'a', 'c']);
 });
+
+import { isPausedTonight, GIVE_UP_AFTER, RECHECK_EVERY } from './photo-queue-order.mjs';
+
+test('a slug under the give-up threshold is searched every night', () => {
+  for (let n = 0; n < GIVE_UP_AFTER; n++) {
+    assert.equal(isPausedTonight(n), false, `${n} attempts must still be searched`);
+  }
+  assert.equal(isPausedTonight(undefined), false, 'never tried = search it');
+});
+
+test('a slug that has exhausted its attempts is skipped', () => {
+  // 19 and 41 are the two real ones that kept spending budget every night.
+  assert.equal(isPausedTonight(19), true);
+  assert.equal(isPausedTonight(41), true);
+});
+
+test('but it is looked at again one night in thirty', () => {
+  assert.equal(isPausedTonight(GIVE_UP_AFTER), false, 'the give-up night itself is a real attempt');
+  assert.equal(isPausedTonight(GIVE_UP_AFTER + RECHECK_EVERY), false);
+  assert.equal(isPausedTonight(GIVE_UP_AFTER + RECHECK_EVERY - 1), true);
+  assert.equal(isPausedTonight(GIVE_UP_AFTER + 1), true);
+});
