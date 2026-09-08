@@ -26,7 +26,7 @@ itinerary:
       - slug: los-angeles-santa-monica-pier
         slot: morning
         why: This wooden landmark at the western end of Route 66 offers a Ferris wheel, arcade, and small aquarium right on the water, and visiting early keeps it free of the weekend crush.
-        dwellMin: 38
+        dwellMin: 60
         walkToNext:
           km: 10.4
           minutes: null
@@ -105,5 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08T23:35:57.231Z'
 ---
 

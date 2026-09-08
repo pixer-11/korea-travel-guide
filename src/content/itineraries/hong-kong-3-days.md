@@ -42,7 +42,7 @@ itinerary:
       - slug: hong-kong-victoria-harbour
         slot: afternoon
         why: Hong Kong's waterfront centerpiece is best seen from the Admiralty side as the skyline lights up, making it a fitting close to the first day.
-        dwellMin: 30
+        dwellMin: 60
         walkToNext: null
     rainSwapSlug: hong-kong-hong-kong-museum-of-art
   - label: Big Buddha and a Lantau climb
@@ -102,9 +102,9 @@ itinerary:
         why: This former fishing village's promenade of seafood restaurants and sampan piers is made for a late-afternoon wander into the evening dinner crowd.
         dwellMin: 150
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: lantau-island-sheung-yiu-folk-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-02T11:00:10.303Z'
+updatedDate: '2026-09-08T23:35:55.681Z'
 ---
 

@@ -42,7 +42,7 @@ itinerary:
       - slug: hong-kong-victoria-harbour
         slot: afternoon
         why: Hong Kong's waterfront centerpiece delivers skyline views and the nightly Symphony of Lights, best enjoyed from the promenade as the sun goes down.
-        dwellMin: 30
+        dwellMin: 60
         walkToNext:
           km: 0.9
           minutes: null
@@ -151,7 +151,7 @@ itinerary:
         why: A former fishing village turned promenade of seafood restaurants and sampan piers, this is a fitting, relaxed place to end the Sai Kung day.
         dwellMin: 150
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: lantau-island-sheung-yiu-folk-museum
   - label: Causeway Bay temples to Clear Water Bay
     intro: The last day starts in Causeway Bay with a temple and food street, follows the harbourfront through North Point, then finishes further out near Clear Water Bay at a second, quieter Tin Hau temple.
     stops:
@@ -195,6 +195,6 @@ itinerary:
     rainSwapSlug: sha-tin-hong-kong-science-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-02T11:01:20.316Z'
+updatedDate: '2026-09-08T23:35:56.527Z'
 ---
 

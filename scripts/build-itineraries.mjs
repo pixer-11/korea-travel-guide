@@ -837,10 +837,23 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   // parked 08-03, recovered to 14 qualifying posts (gate is 12) with all 12 stops
   // republished, and every run since printed "unchanged, skipping" while the live
   // URL 301'd to /itinerary/. Two of the site's three itineraries were down.
-  if (!FORCE && existing && existing.stopsHash === stopsHash && existing.parked !== true) {
+  // The hash covers WHICH stops, not how long each one is. A stop's dwellMin
+  // comes from its post's prose, so when the post — or the parser reading it —
+  // changes, the number moves while the hash stays put, and this skipped the
+  // file every night while validate-itineraries reported DWELL-STALE every
+  // morning with nothing acting on it (busan-3-days, 2026-09-09: 120 stored,
+  // 60 computed). A moved dwell is a change; regenerate the same as new stops.
+  const existingStops = (existing?.itinerary ?? existing?.days ?? []).flatMap((d) => d?.stops ?? []);
+  const dwellMoved = existingStops.length > 0 && result.days.some((d) =>
+    d.stops.some((s) => {
+      const prev = existingStops.find((e) => e?.slug === s.slug);
+      return prev && prev.dwellMin != null && Number(prev.dwellMin) !== Number(s.dwellMin);
+    }));
+  if (!FORCE && existing && existing.stopsHash === stopsHash && existing.parked !== true && !dwellMoved) {
     console.log(`  = ${variantId} — unchanged, skipping`);
     return { created: false, isNewFile: false };
   }
+  if (dwellMoved && existing?.stopsHash === stopsHash) console.log(`  ↻ ${variantId} — a stop's dwell moved, regenerating`);
 
   let aiOut = null;
   let whysMap = {};

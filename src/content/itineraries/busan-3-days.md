@@ -34,7 +34,7 @@ itinerary:
       - slug: busan-busan-tower
         slot: afternoon
         why: Sitting atop Yongdusan Park, it delivers a 360-degree harbor and rooftop view for just a short elevator ride up, making it an easy pairing with the park below.
-        dwellMin: 120
+        dwellMin: 60
         walkToNext:
           km: 0.1
           minutes: 1
@@ -92,7 +92,7 @@ itinerary:
       - slug: busan-haeundae-traditional-market
         slot: afternoon
         why: A covered alley of street food and produce stalls just back from Haeundae Beach, it's a compact, hunger-friendly midday stop.
-        dwellMin: 90
+        dwellMin: 60
         walkToNext:
           km: 3.2
           minutes: null
@@ -105,5 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08T23:35:38.513Z'
 ---
 

@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Gardens, Rainforest & Coastal Katong'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage lanes to the rainforest trails of Bukit Timah and the coastal, market-filled corners of Katong.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one covers Marina Bay''s gardens and Kampong Glam''s heritage streets, day two heads into Bukit Timah''s rainforest before winding down at the Botanic Gardens, and day three moves along the East Coast into Geylang Serai and Katong Park.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: 3e5829fc1dad94e21689893a89339fef9cbd55b9
+stopsHash: 9d48cc7d7c10a6b0b03a83f3c88a95b16ef91758
 packedAvailable: true
 faq:
   - q: How should I get around for this 3-day Singapore itinerary?
@@ -67,7 +67,7 @@ itinerary:
       - slug: bukit-timah-bukit-timah-nature-reserve-visitor-centre
         slot: morning
         why: The gateway to Singapore's largest patch of primary rainforest, ideal for easing into the day before tackling the trails.
-        dwellMin: 240
+        dwellMin: 60
         walkToNext:
           km: 0
           minutes: 0
@@ -77,13 +77,13 @@ itinerary:
         why: Singapore's tallest hill and its primary rainforest trails are the natural next step after the visitor centre, with routes for a shorter loop or a longer summit push.
         dwellMin: 135
         walkToNext:
-          km: 6.8
+          km: 7.5
           minutes: null
           transit: true
-      - slug: jurong-japanese-garden
+      - slug: jurong-jurong-lake-gardens
         slot: evening
-        why: A hidden-gem rated 4.5 by visitors, included as a stop on this route.
-        dwellMin: 68
+        why: A attraction rated 4.6 by visitors, included as a stop on this route.
+        dwellMin: 240
         walkToNext: null
     rainSwapSlug: bugis-lee-kong-chian-natural-history-museum-singapore
   - label: East Coast sands to Katong's quiet park
@@ -113,6 +113,6 @@ itinerary:
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-02T11:01:20.562Z'
+updatedDate: '2026-09-08T23:36:23.243Z'
 ---
 

@@ -6,7 +6,7 @@ title: '3-Day Seoul Itinerary: Markets, Palaces, Museums and Parks'
 description: A 3-day Seoul itinerary moving through Jongno, Jung, Yongsan, Yeongdeungpo and Mapo, mixing traditional markets and hanok lanes with museums, shopping streets, riverside parks and neighborhood cafés.
 quickAnswer: 'This is a 3-day Seoul itinerary: day one covers markets, temple food, and hanok lanes in Jongno and Jung Districts; day two pairs a major museum in Yongsan with shopping and a stream-side walk across Jung and Jongno; day three heads to Yeongdeungpo and Mapo-gu for a riverside park, a plant-filled café, and an evening in an old industrial district.'
 pubDate: '2026-07-28T01:22:30.950Z'
-stopsHash: 7fe432ea4d2aaa254037f76ff0a58042df1a6c37
+stopsHash: 31880c4827e3d93d21d2f7549de1db7dadaa3834
 packedAvailable: true
 faq:
   - q: How do I get between stops on this itinerary?
@@ -42,9 +42,17 @@ itinerary:
       - slug: seoul-euljiro
         slot: afternoon
         why: This old printing-and-hardware district turned retro bar scene rewards wandering its narrow alleyways in the early evening, fitting neatly between lunch in Jongno and the evening's hanok village.
-        dwellMin: 90
+        dwellMin: 60
         walkToNext:
-          km: 2.5
+          km: 1.6
+          minutes: 21
+          transit: false
+      - slug: seoul-dongdaemun-design-plaza-ddp
+        slot: afternoon
+        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 150
+        walkToNext:
+          km: 3.5
           minutes: null
           transit: true
       - slug: seoul-bukchon-hanok-village
@@ -100,7 +108,7 @@ itinerary:
       - slug: seoul-plant-cafe-seoul-yeonnam
         slot: afternoon
         why: A plant-filled, greenhouse-style café in Yeonnam-dong, this is the kind of spot to linger over rather than rush through, suiting an unhurried afternoon.
-        dwellMin: 90
+        dwellMin: 60
         walkToNext:
           km: 7.4
           minutes: null
@@ -108,11 +116,11 @@ itinerary:
       - slug: seoul-dallas-pizza
         slot: evening
         why: Tucked down an alley beside an active metal workshop in Mullae-dong, this reservation-only pizzeria pairs with a wander through the neighborhood's mural-covered art village for a fitting close to the trip.
-        dwellMin: 90
+        dwellMin: 60
         walkToNext: null
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T14:44:07.158Z'
+updatedDate: '2026-09-08T23:36:22.513Z'
 ---
 

@@ -58,7 +58,7 @@ itinerary:
       - slug: new-orleans-ayu-bakehouse
         slot: evening
         why: This Frenchmen Street bakery known for laminated Vietnamese-French pastries makes a fitting, low-key close to the day.
-        dwellMin: 90
+        dwellMin: 30
         walkToNext: null
     rainSwapSlug: new-orleans-napoleon-house
   - label: Plantation roads and City Park gardens
@@ -121,5 +121,6 @@ itinerary:
     rainSwapSlug: new-orleans-peche-seafood-grill
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08T23:35:57.921Z'
 ---
 

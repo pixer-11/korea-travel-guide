@@ -59,7 +59,7 @@ itinerary:
       - slug: bangkok-treehouse-cafe-bar
         slot: morning
         why: A jungle-themed cafe tucked down a Sukhumvit soi, this is a relaxed, photogenic way to open the day before the crowds arrive.
-        dwellMin: 75
+        dwellMin: 60
         walkToNext:
           km: 4.1
           minutes: null
@@ -105,6 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09T09:37:35.149Z'
+updatedDate: '2026-09-08T23:35:54.890Z'
 ---
 
