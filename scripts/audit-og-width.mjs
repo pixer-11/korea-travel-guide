@@ -78,4 +78,14 @@ for (const n of narrow) {
 }
 console.log(`\n📋 ${byUrl.size} image(s): ${narrow.length} under ${MIN_WIDTH}px, ${unknown} unmeasurable`);
 if (narrow.length) process.exit(1);
-console.log('✅ every share image clears the Discover large-card floor.');
+
+// "못 잰 것"은 "괜찮은 것"이 아니다. 2026-09-08 실행: 24개 중 23개를 재지 못했는데
+// ✅ 를 찍었다 — 이미지 CDN 이 우리 UA 를 막으면 전부 unmeasurable 이 되고, 그때
+// 이 검사는 아무것도 보지 않은 채 통과를 보고한다. 같은 착오로 멀쩡한 사진 24건이
+// 영구 기각된 적이 있다([[image-fetch-ua-and-unmeasured-verdicts]]).
+if (unknown > byUrl.size / 2) {
+  console.log(`OG-WIDTH: ${unknown} of ${byUrl.size} share image(s) could not be measured — this run checked almost nothing.`);
+  console.log('Not a pass. Check whether the image host is refusing this user agent.');
+  process.exit(1);
+}
+console.log(`✅ every share image clears the Discover large-card floor${unknown ? ` (${unknown} unmeasurable)` : ''}.`);

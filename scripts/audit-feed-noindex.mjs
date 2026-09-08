@@ -79,12 +79,19 @@ let failures = 0;
 let overreach = 0;
 console.log(`검사 기준일 ${today} · 종료된 일회성 이벤트 ${noindexed.size}편 · 종료됐지만 연례 ${pastRecurring.size}편\n`);
 
+// 이번 실행이 실제로 연 피드 수. 빌드가 실패해 dist 가 비면 전부 건너뛰고도
+// "모든 피드가 일치한다"를 찍었다 — 아무것도 안 본 초록불(2026-09-08 발견).
+let examined = 0;
+let missing = 0;
+
 for (const { name, heroOnly } of FEEDS) {
   const path = join(DIST, name);
   if (!existsSync(path)) {
     console.log(`⏭  ${name} — 산출물 없음 (빌드 후 실행할 것)`);
+    missing++;
     continue;
   }
+  examined++;
   const xml = readFileSync(path, 'utf8');
   const has = (slug) => xml.includes(`/posts/${slug}/`) || xml.includes(`/posts/${slug}<`);
 
@@ -113,4 +120,8 @@ if (failures || overreach) {
   console.log(`\n실패: 누출 ${failures}건, 과잉제외 ${overreach}건`);
   process.exit(1);
 }
-console.log('\n모든 피드가 페이지의 robots 지시와 일치한다.');
+if (!examined) {
+  console.log(`\nFEED-NOINDEX: 피드 ${missing}개를 하나도 열지 못했다 — 빌드 결과가 없다. 검사한 것이 없으므로 통과가 아니다.`);
+  process.exit(1);
+}
+console.log(`\n모든 피드가 페이지의 robots 지시와 일치한다 (${examined}개 확인${missing ? `, ${missing}개 없음` : ''}).`);

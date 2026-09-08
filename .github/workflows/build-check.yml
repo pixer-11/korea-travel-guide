@@ -134,6 +134,14 @@ jobs:
       # NEVER blocks the deploy. A stale site is the worse failure — eight
       # commits sat unshipped on 2026-08-10 and nothing alarmed — so a feed
       # inconsistency reports and the ship still goes out.
+      # The share image of the HOME PAGE and the hubs is picked from among their
+      # children, so one child with a 1024px hero disqualifies the whole hub from
+      # Discover's large card. scan-hero-widths covers posts and runs nightly;
+      # nothing covered the hubs, and this audit sat unwired since 2026-08-06.
+      - name: Share-image width on home and hubs
+        continue-on-error: true
+        run: node scripts/audit-og-width.mjs
+
       - name: Feed / noindex consistency
         id: feedaudit
         continue-on-error: true

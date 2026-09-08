@@ -265,11 +265,6 @@
   "country": "Italy"
  },
  {
-  "slug": "sapporo-gyumon-sapporo",
-  "region": "Sapporo",
-  "country": "Japan"
- },
- {
   "slug": "sapporo-sapporo-ramen-haruka",
   "region": "Sapporo",
   "country": "Japan"
@@ -316,11 +311,6 @@
  },
  {
   "slug": "sokcho-abai-village",
-  "region": "Sokcho",
-  "country": "South Korea"
- },
- {
-  "slug": "sokcho-huindajeong",
   "region": "Sokcho",
   "country": "South Korea"
  },
