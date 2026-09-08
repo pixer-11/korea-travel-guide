@@ -1,50 +1,53 @@
 ---
 lang: es
 slug: incheon-haesong-ssambap
+srcHash: '1fe2c8fce11b'
 title: 'Haesong Ssambap: dónde comer en Incheon'
-description: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon: una parada práctica y satisfactoria'
-quickAnswer: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon (Incheon International Airport): una parada práctica y satisfactoria antes de un vuelo temprano o justo después de aterrizar. Encontrarás una variedad de banchan, hojas de lechuga y perilla, carne o pescado a la parrilla, y doenjang-jjigae, todo a un precio moderado por persona. Ve fuera del horario pico (12:00–13:00 y 18:00–19:30) para evitar esperas, y trae apetito: las porciones están pensadas para compartir.'
+description: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon: una parada práctica y satisfactoria antes de un vuelo temprano o justo después de aterrizar.'
+quickAnswer: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon: una parada práctica y satisfactoria antes de un vuelo temprano o justo después de aterrizar. Puede esperar una mesa llena de banchan, hojas de lechuga y perilla, carne o pescado a la parrilla y doenjang-jjigae, todo por un precio moderado por persona. Conviene ir fuera del horario punta (12–13 h y 18–19:30 h) para evitar esperas, y llegar con hambre, ya que las raciones están pensadas para compartir.'
 faq:
-  - q: ¿Cómo llego a Haesong Ssambap desde el Aeropuerto Internacional de Incheon?
-    a: Es un trayecto en taxi de entre 10 y 15 minutos desde cualquiera de las dos terminales, ya que el restaurante está en la isla de Yeongjong (Yeongjong Island), en Jung-gu, sin una parada de metro cercana. Ten lista la dirección (177 Gonghangseo-ro, Nambuk-dong, Jung-gu) para el conductor.
-  - q: ¿Cuánto cuesta una comida?
-    a: Se ubica en un rango de precio moderado para restaurantes coreanos (nivel de precio 2 de 4), y normalmente se pide como un set para compartir en lugar de platos individuales. Confirma los precios actuales del menú en el lugar, ya que pueden cambiar.
-  - q: ¿Cuánto tiempo debo planear quedarme?
-    a: Una comida completa de ssambap con banchan y guiso suele tomar entre 45 y 60 minutos, lo cual se ajusta bien a una escala si dejas un margen adicional para el control de seguridad del aeropuerto y el check-in después.
-  - q: ¿Es una buena opción para una comida rápida antes de un vuelo?
-    a: 'Sí, pero evita las ventanas de conexión más ajustadas: ve en horas de menor actividad (media tarde) en lugar de la hora del mediodía o el horario pico de la tarde-noche, cuando está más concurrido tanto de viajeros como de locales.'
-  - q: ¿Qué hay cerca si tengo tiempo de más?
-    a: La isla de Yeongjong (Yeongjong Island) tiene zonas de playa como Eurwangni Beach y el complejo turístico Paradise City cerca, ambas opciones razonables si tienes una escala más larga o te quedas cerca del aeropuerto por la noche.
+  - q: ¿Cómo se llega a Haesong Ssambap desde el Aeropuerto Internacional de Incheon?
+    a: El trayecto en taxi desde cualquiera de las dos terminales dura entre 10 y 15 minutos, ya que el restaurante está en la isla de Yeongjong, en Jung-gu, sin parada de metro cercana. Conviene tener a mano la dirección (177 Gonghangseo-ro, Nambuk-dong, Jung-gu) para mostrársela al conductor.
+  - q: ¿Cuánto cuesta comer allí?
+    a: El precio se sitúa en un nivel moderado para un restaurante coreano (nivel 2 de 4), y lo habitual es pedir un set para compartir en lugar de platos individuales. Conviene confirmar los precios actuales del menú en el propio local, ya que pueden variar.
+  - q: ¿Cuánto tiempo hay que reservar para la visita?
+    a: Una comida completa de ssambap, con banchan y guiso incluidos, suele llevar entre 45 y 60 minutos, un tiempo que encaja bien en una escala si se deja margen adicional para el control de seguridad y el check-in del aeropuerto después.
+  - q: ¿Es una buena opción para comer rápido antes de un vuelo?
+    a: 'Sí, aunque conviene evitar las conexiones muy ajustadas: lo mejor es ir a media tarde, fuera de las horas punta del mediodía o del principio de la noche, cuando el local se llena tanto de viajeros como de residentes.'
+  - q: ¿Qué hay cerca por si sobra tiempo?
+    a: La isla de Yeongjong ofrece zonas de playa como Eurwangni y el complejo turístico Paradise City, dos opciones razonables si la escala es larga o si se pasa la noche cerca del aeropuerto.
 ---
 
 ## Por qué ir
 
-Ssambap —literalmente "arroz envuelto"— es una de las comidas más comunitarias y centradas en vegetales de Corea: una mesa se llena de lechuga fresca, hojas de perilla, arroz, proteína a la parrilla o guisada, y un pequeño ejército de banchan (guarniciones) que envuelves con la mano y comes en pocos bocados. Haesong Ssambap, en Jung-gu, en la isla de Yeongjong (Yeongjong Island) de Incheon, se ha ganado una sólida reputación local por hacer esto bien a gran escala, con una calificación de 4.0 en casi 3,000 reseñas, señal de que maneja una alta rotación sin perder consistencia.
+El ssambap, literalmente "arroz envuelto", es una de las comidas coreanas más comunales y con más protagonismo vegetal: la mesa se llena de lechuga fresca, hojas de perilla, arroz, alguna proteína a la parrilla o guisada y un pequeño ejército de banchan (guarniciones) que uno mismo envuelve con las manos y come en pocos bocados. Haesong Ssambap, en Jung-gu, en la isla de Yeongjong de Incheon, se ha ganado una sólida reputación local por hacer esto muy bien y a gran escala: cuenta con una valoración de 4,0 sobre casi 3.000 reseñas, señal de que mantiene la calidad pese a la gran afluencia de clientes.
 
-Su ubicación cerca del Aeropuerto Internacional de Incheon (Incheon International Airport) lo convierte en una dirección genuinamente útil, no solo en una curiosidad: es el tipo de lugar que los viajeros usan para comer una comida coreana de verdad en el margen antes de un vuelo o justo después de aterrizar.
+Su ubicación cerca del Aeropuerto Internacional de Incheon lo convierte en una dirección realmente útil, no solo en una curiosidad: es el tipo de sitio al que recurren los viajeros para comer una auténtica comida coreana en el rato libre antes de un vuelo o justo después de aterrizar.
 
 ## Cómo llegar
 
-El restaurante se encuentra en 177 Gonghangseo-ro, Nambuk-dong, Jung-gu, Incheon, a un corto trayecto en taxi del Aeropuerto Internacional de Incheon (Terminal 1 o Terminal 2). El trazado de calles de la isla de Yeongjong (Yeongjong Island) está organizado alrededor del aeropuerto, así que la mayoría de los visitantes llegan en taxi, auto de alquiler o transporte del aeropuerto en lugar del metro; no hay una parada directa de AREX (Airport Railroad Express) a una distancia cómoda a pie, así que hay que contar con un trayecto de 10 a 15 minutos desde las terminales.
+El restaurante se encuentra en 177 Gonghangseo-ro, Nambuk-dong, Jung-gu, Incheon, a poca distancia en taxi del Aeropuerto Internacional de Incheon (Terminal 1 o Terminal 2). El trazado viario de la isla de Yeongjong está pensado en torno al aeropuerto, así que la mayoría de los visitantes llega en taxi, coche de alquiler o lanzadera del aeropuerto en lugar de en metro: no hay ninguna parada del AREX (Airport Railroad Express) a una distancia cómoda a pie, así que hay que contar con un trayecto de 10 a 15 minutos en coche desde las terminales.
 
-Si te alojas en uno de los hoteles del aeropuerto (muchos están a pocos minutos en auto), pide en la recepción que te consigan un taxi, ya que las direcciones en esta zona pueden ser difíciles de ubicar para conductores que no hablan coreano; tener la dirección en coreano o una ubicación marcada en el mapa ayuda mucho.
+Si se aloja en uno de los hoteles del aeropuerto (muchos están a solo unos minutos en coche), lo más sencillo es pedir en recepción que le organicen un taxi, ya que las direcciones de esta zona pueden resultar confusas para conductores que no hablan coreano; tener la dirección en coreano o una ubicación marcada en el mapa ayuda bastante.
 
 ## Qué ver y comer
 
-El plato estrella es el set de ssambap: arroz al vapor, una selección rotativa de banchan (que a menudo incluye vegetales aliñados, jeon/panqueques y encurtidos), panceta de cerdo o pescado a la parrilla según el set que se pida, y una olla burbujeante de doenjang-jjigae (guiso de soja fermentada) para completar. Las hojas frescas de lechuga y perilla llegan apiladas en abundancia: la idea es armar tu propio envoltorio: una hoja, una cucharada de arroz, un trozo de carne, un poco de ssamjang (pasta de soja fermentada con chile) y el banchan que prefieras, todo doblado y comido de un solo bocado.
+El gran atractivo es el set de ssambap: arroz al vapor, una selección variable de banchan (que suele incluir verduras aliñadas, jeon o tortitas y encurtidos), panceta de cerdo o pescado a la parrilla según el set elegido, y una olla burbujeante de doenjang-jjigae (guiso de pasta de soja fermentada) que completa el conjunto. Las hojas frescas de lechuga y perilla llegan apiladas en abundancia.
 
-Las porciones son generosas y están claramente pensadas para compartir entre dos o más personas, algo que concuerda con el nivel de precio moderado reflejado en su calificación. Al estar pensado para comer en grupo, es una buena opción si viajas con familia o colegas y quieres una comida sentada que no requiera un coreano avanzado para pedir: los sets ("ssambap jeongsik" o similar) suelen ser la opción más sencilla para quienes visitan por primera vez.
+La gracia está en armar el propio envoltorio: una hoja, una cucharada de arroz, un trozo de carne, un poco de ssamjang (pasta fermentada de chile y soja) y los banchan que más gusten, todo doblado y comido de un solo bocado.
+
+Las raciones son generosas y están claramente pensadas para compartir entre dos o más personas, algo coherente con el nivel de precio moderado que reflejan las valoraciones. Al estar concebido para comer en grupo, es una buena opción si se viaja con familia o compañeros de trabajo y se busca una comida sentada que no exija manejar un coreano avanzado para pedir: los sets ("ssambap jeongsik" o similares) suelen ser la opción más sencilla para quienes visitan el lugar por primera vez.
 
 ## Cuándo ir
 
-Los horarios de comida aquí se concentran mucho alrededor de los horarios de vuelos, así que el restaurante ve picos reales en las horas habituales del almuerzo coreano (aproximadamente de 12:00 a 13:00) y de la cena (alrededor de las 18:00 a 19:30), especialmente cuando los vuelos aterrizan o despegan en tandas. Llegar justo antes de la apertura o durante la calma de media tarde (14:00–16:30, si se sirve en ese horario) suele significar menos espera y un servicio más tranquilo.
+Los horarios de las comidas aquí están muy condicionados por los horarios de vuelos, así que el restaurante experimenta picos reales durante el almuerzo coreano habitual (aproximadamente de 12 a 13 h) y la cena (de 18 a 19:30 h aproximadamente), sobre todo cuando coinciden varios aterrizajes o despegues seguidos. Llegar justo antes de la apertura o durante el tramo tranquilo de media tarde (de 14 a 16:30 h, si se sirve comida a esa hora) suele significar menos espera y un servicio más relajado.
 
-Si tu itinerario tiene flexibilidad, es mejor tratar esto como un almuerzo temprano o una cena tardía y sin apuros, en lugar de intentar encajarlo en una ventana de conexión ajustada.
+Si el itinerario lo permite, es mejor plantear la visita como un almuerzo temprano o una cena tardía y sin prisas que intentar encajarla en una conexión muy ajustada.
 
-## Cómo visitarlo como un local
+## Cómo visitar como un local
 
-Los comensales coreanos suelen pedir sets para compartir en lugar de platos individuales en restaurantes de ssambap como este, así que decide con tu mesa uno o dos sets para repartir en lugar de pedir por separado: es más económico y así está pensada la comida. El pago casi siempre se hace con tarjeta o pago móvil coreano en las cajas cerca de la entrada; el efectivo también funciona, pero no es necesario, y las propinas no se esperan ni se practican en los restaurantes coreanos en general.
+En restaurantes de ssambap como este, los comensales coreanos suelen pedir sets para compartir en lugar de platos individuales, así que lo recomendable es acordar en la mesa uno o dos sets para repartir en vez de pedir por separado. Resulta más económico y es, además, la forma en que está pensada la comida. El pago casi siempre se hace con tarjeta o con pago móvil coreano en las cajas cercanas a la entrada; el efectivo también funciona, aunque no es necesario, y no se espera ni se practica la propina en los restaurantes coreanos en general.
 
-Normalmente no hay sistema de reservas en un lugar informal como este, así que lo más práctico es llegar justo a la apertura o durante el horario de menor actividad mencionado antes, en lugar de intentar reservar con anticipación. El error más común entre los visitantes es pedir carne o guarniciones adicionales además de un set: el set en sí, con sus banchan rotativos, suele ser suficiente para que dos personas comas bien.
+Un local tan informal como este normalmente no cuenta con sistema de reservas, así que lo más práctico es llegar justo a la apertura o en el tramo de menor afluencia mencionado antes, en lugar de intentar reservar con antelación. El error más común entre los visitantes es pedir carne o guarniciones adicionales encima del set: el propio set, con sus banchan variados, suele bastar para que dos personas coman bien.
 
-Las recargas de arroz y algunos banchan suelen ser gratis en los restaurantes coreanos de ssambap, así que pregunta al personal ("banchan deo juseyo" — "más guarniciones, por favor") antes de pedir un plato completamente nuevo.
+En muchos restaurantes de ssambap coreanos, los rellenos de arroz y de algunos banchan suelen ser gratuitos, así que conviene pedirlo al personal ("banchan deo juseyo", "más guarniciones, por favor") antes de encargar un plato completamente nuevo.
