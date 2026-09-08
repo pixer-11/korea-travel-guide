@@ -91,13 +91,29 @@ export async function GET() {
     // A developer wiring this up reads the JSON, not the website.
     license: 'Free to use, including commercially. Attribution requested, not required.',
     attribution: {
-      text: 'Crowd data by Wander Atlas',
+      text: 'Crowd data by Wander Atlas, measured by BestTime.app',
       url: `${SITE}/tools/best-time/`,
+    },
+    // Naming the upstream provider here, not only on the tools page. "Aggregated
+    // venue foot-traffic observations" was true and told a developer nothing, and
+    // it is part of why it took until 2026-09-08 to notice that redistributing
+    // this needs BestTime's written permission under their terms 5.3.
+    source: {
+      name: 'BestTime.app',
+      url: 'https://besttime.app',
+      note: 'Measured foot-traffic forecasts, fetched under a paid BestTime API plan.',
     },
     docs: `${SITE}/api/`,
     hours: 'Local clock hours, 0-23. quiet = reliably below typical; busy = reliably above.',
     method:
-      'Aggregated venue foot-traffic observations, refreshed on a rolling schedule. `measured` is the date that venue was last refreshed, not the date of this file.',
+      'Weekly foot-traffic forecasts from BestTime.app, fetched once per venue and cached, refreshed on a rolling schedule. `measured` is the date that venue was last refreshed, not the date of this file.',
+    // Honest to anyone who found this through a public API directory and cannot
+    // be emailed: the on-page use is squarely inside BestTime's terms, but
+    // republishing the hours as an open endpoint is redistribution, and their
+    // terms ask for written permission. Requested 2026-09-08. This line is
+    // removed once there is an answer either way.
+    notice:
+      'Redistribution permission from BestTime.app is being confirmed (requested 2026-09-08). Showing these hours in your own UI is the intended use; if you are about to build something you would have to unpick, wait for this line to disappear or email hello@wanderatlasguides.com.',
     count: places.length,
     places,
   };

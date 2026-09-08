@@ -91,11 +91,30 @@ const jsonLd = {
       <li>Hours are already clamped to opening hours where we have them — a "quiet 7am" at a venue that opens at 11 has been filtered out on our side.</li>
     </ul>
 
+    <h2 id="source">Where the data comes from</h2>
+    <p>
+      The hours are measured foot-traffic forecasts from
+      <a href="https://besttime.app" rel="noopener">BestTime.app</a>, fetched under a
+      paid plan, one forecast per venue, cached and refreshed on a rolling schedule.
+      They are not scraped from Google and they are not estimated by us: where
+      BestTime has no forecast for a venue, we publish nothing for it.
+    </p>
+    <p>
+      <strong>Redistribution permission is being confirmed.</strong> Showing these
+      hours inside your own interface is the intended use. Republishing them as an
+      open endpoint — which is what this page offers — is redistribution, and
+      BestTime's terms ask for written permission for that. We requested it on
+      8 September 2026 and will say here what the answer is. If you are about to
+      build something you would have to unpick, wait for this paragraph to
+      disappear.
+    </p>
+
     <h2 id="license">License &amp; attribution</h2>
     <p>
       Free to use, including commercially. Attribution is requested, not required:
-      "Crowd data by <a href={SITE}>Wander Atlas</a>" with a link makes more of this
-      data possible.
+      "Crowd data by <a href={SITE}>Wander Atlas</a>, measured by
+      <a href="https://besttime.app" rel="noopener">BestTime.app</a>" with a link
+      makes more of this data possible.
     </p>
 
     <h2>Embeds instead of code</h2>
