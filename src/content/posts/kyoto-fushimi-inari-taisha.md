@@ -1,27 +1,34 @@
 ---
 title: 'Fushimi Inari Taisha: Kyoto Travel Guide'
-description: Fushimi Inari Taisha is Kyoto's iconic vermilion torii-gate shrine, founded in 711 A.D. at the base of Mount Inari in Fushimi Ward.
+description: >-
+  Fushimi Inari Taisha is Kyoto's iconic vermilion torii-gate shrine, founded in
+  711 A.D. at the base of Mount Inari in Fushimi Ward.
 country: Japan
 region: Kyoto
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Double_torii_path_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Double_torii_path_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Double_torii_path_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Double_torii_path_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg
     credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Double_torii_path_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Double_torii_path_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
 place:
   id: ChIJIW0uPRUPAWAR6eI6dRzKGns
   name: Fushimi Inari Taisha
-  address: 68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882, Japan
+  address: '68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882, Japan'
   rating: 4.6
-  userRatingsTotal: 89746
-  googleMapsUrl: https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 91116
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.9676945
   lng: 135.7791876
@@ -59,20 +66,42 @@ place:
 tags:
   - kyoto
   - Fushimi Inari Shrine
-quickAnswer: Fushimi Inari Taisha is Kyoto's iconic vermilion torii-gate shrine, founded in 711 A.D. at the base of Mount Inari in Fushimi Ward. It's free, open 24 hours, and best visited at dawn or dusk to beat the crowds; budget 1.5–3 hours depending on how far up the mountain trail you go. Take the JR Nara Line to Inari Station (one stop, about 5 minutes, from Kyoto Station) — the shrine entrance is directly across the street.
+quickAnswer: >-
+  Fushimi Inari Taisha is Kyoto's iconic vermilion torii-gate shrine, founded in
+  711 A.D. at the base of Mount Inari in Fushimi Ward. It's free, open 24 hours,
+  and best visited at dawn or dusk to beat the crowds; budget 1.5–3 hours
+  depending on how far up the mountain trail you go. Take the JR Nara Line to
+  Inari Station (one stop, about 5 minutes, from Kyoto Station) — the shrine
+  entrance is directly across the street.
 faq:
   - q: How do I get to Fushimi Inari Taisha from Kyoto Station?
-    a: Take the JR Nara Line one stop to Inari Station (about 5 minutes); the shrine's main gate is directly across the street. The Keihan Main Line's Fushimi-Inari Station is a 5-minute walk away as an alternative.
+    a: >-
+      Take the JR Nara Line one stop to Inari Station (about 5 minutes); the
+      shrine's main gate is directly across the street. The Keihan Main Line's
+      Fushimi-Inari Station is a 5-minute walk away as an alternative.
   - q: How much does it cost to visit?
-    a: Entry is free, and the shrine grounds and mountain trail are open 24 hours with no ticket gate.
+    a: >-
+      Entry is free, and the shrine grounds and mountain trail are open 24 hours
+      with no ticket gate.
   - q: How long should I spend there?
-    a: Plan 45 minutes to 1 hour if you're only walking through the Senbon Torii near the entrance; budget 2–3 hours for the full round-trip hike to the summit of Mount Inari.
+    a: >-
+      Plan 45 minutes to 1 hour if you're only walking through the Senbon Torii
+      near the entrance; budget 2–3 hours for the full round-trip hike to the
+      summit of Mount Inari.
   - q: What's the best time to visit to avoid crowds?
-    a: Go before 8 a.m. or in the evening. Midday, especially weekends and foliage season, sees heavy crowds in the lower gate tunnels, but they thin out quickly past the Yotsutsuji viewpoint about a third of the way up.
+    a: >-
+      Go before 8 a.m. or in the evening. Midday, especially weekends and
+      foliage season, sees heavy crowds in the lower gate tunnels, but they thin
+      out quickly past the Yotsutsuji viewpoint about a third of the way up.
   - q: Is the hike up Mount Inari worth it?
-    a: Yes — most visitors turn back after the main Senbon Torii section, so continuing past Yotsutsuji rewards you with quieter paths, smaller sub-shrines, fox statues, and a city view, even if you don't go all the way to the summit.
+    a: >-
+      Yes — most visitors turn back after the main Senbon Torii section, so
+      continuing past Yotsutsuji rewards you with quieter paths, smaller
+      sub-shrines, fox statues, and a city view, even if you don't go all the
+      way to the summit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

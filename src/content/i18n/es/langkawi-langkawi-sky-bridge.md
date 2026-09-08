@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: langkawi-langkawi-sky-bridge
-srcHash: 'a9fc32db79a6'
+srcHash: '65dd0daaabd2'
 title: 'Puente Sky Bridge de Langkawi: Guía de viaje (4.6★)'
-description: 'El Sky Bridge de Langkawi es un puente colgante curvo de 125 metros en la cima del Gunung Mat Cincang, al que se llega en el teleférico SkyCab desde Oriental Village. 4.6★ (20.477 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Sky Bridge de Langkawi es un puente colgante curvo de 125 metros en la cima del Gunung Mat Cincang, al que se llega en el teleférico SkyCab desde Oriental Village. 4.6★ (20.554 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Sky Bridge de Langkawi es un puente colgante curvo de 125 metros situado en la cima del Gunung Mat Cincang, al que se accede mediante el teleférico SkyCab desde Oriental Village. Abre todos los días de 9:30 a 18:00; conviene ir justo a la apertura o durante la última hora (17:00-18:00) para evitar las multitudes, ya que entre las 11:00 y las 16:00 los fines de semana se llena mucho. Conviene reservar medio día, contando las colas del teleférico.
 faq:
   - q: ¿Cómo se llega al Sky Bridge de Langkawi?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lantau-island-sheung-yiu-folk-museum
-srcHash: 'a07492424d03'
+srcHash: 'c3c18249f137'
 title: 'Museo Folclórico de Sheung Yiu: Guía de Viaje de Sai Kung (4.0★)'
-description: 'El Museo Folclórico de Sheung Yiu se encuentra en el Parque Nacional de Sai Kung, en los Nuevos Territorios, cerca de Pak Tam Chung. 4.0★ (658 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Folclórico de Sheung Yiu se encuentra en el Parque Nacional de Sai Kung, en los Nuevos Territorios, cerca de Pak Tam Chung. 4.0★ (659 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Folclórico de Sheung Yiu se encuentra en el Parque Nacional de Sai Kung, en los Nuevos Territorios, cerca de Pak Tam Chung. Se trata de una pequeña recreación gratuita de un poblado amurallado hakka del siglo XIX, con herramientas agrícolas y objetos domésticos originales. Lo mejor es visitarlo en una mañana de entre semana, cuando el lugar está prácticamente vacío. Basta con reservar entre 30 y 45 minutos; abre todos los días excepto los martes, de 10:00 a 18:00.
 faq:
   - q: ¿El Museo Folclórico de Sheung Yiu está en la isla de Lantau?

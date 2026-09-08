@@ -1,30 +1,38 @@
 ---
 title: 'Kumamoto Castle: Travel Guide (4.5★)'
-description: Kumamoto Castle, in the Chuo Ward of Kumamoto city, is a reconstructed 1607 hilltop fortress with a history museum inside its main keep — one of Japan's three great castles. 4.5★ (25,502 reviews) — what visitors say, hours, and tips.
+description: >-
+  Kumamoto Castle, in the Chuo Ward of Kumamoto city, is a reconstructed 1607
+  hilltop fortress with a history museum inside its main keep — one of Japan's
+  three great castles. 4.5★ (25,543 reviews) — what visitors say, hours, and
+  tips.
 country: Japan
 region: Kumamoto
 category: hidden-gem
 pubDate: '2026-08-24T08:16:03.245Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kumamoto_Castle_Keep_Tower_20221022-3.jpg/1920px-Kumamoto_Castle_Keep_Tower_20221022-3.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kumamoto_Castle_Keep_Tower_20221022-3.jpg/1920px-Kumamoto_Castle_Keep_Tower_20221022-3.jpg
   credit: 'Photo: Suicasmo / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_Keep_Tower_20221022-3.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_Keep_Tower_20221022-3.jpg
   focus:
     x: 40
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kumamoto_Castle_02n3200.jpg/1920px-Kumamoto_Castle_02n3200.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kumamoto_Castle_02n3200.jpg/1920px-Kumamoto_Castle_02n3200.jpg
     credit: 'Photo: 663highland / Wikimedia Commons (CC BY 2.5)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg'
 place:
   id: ChIJWco6Ag70QDURMOTNdshmi14
   name: Kumamoto Castle
-  address: 1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002, Japan
+  address: '1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002, Japan'
   rating: 4.5
-  userRatingsTotal: 25502
-  googleMapsUrl: https://maps.google.com/?cid=6812651872500704304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 25543
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6812651872500704304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 32.806185899999996
   lng: 130.70583349999998
@@ -53,20 +61,38 @@ place:
 tags:
   - kumamoto
   - hidden gem
-quickAnswer: Kumamoto Castle, in the Chuo Ward of Kumamoto city, is a reconstructed 1607 hilltop fortress with a history museum inside its main keep — one of Japan's three great castles. It's open daily 9am–5pm, with the calmest visit on a weekday any time during those hours; weekends get busy between 10am and 4pm. Budget about two hours, more if you linger in Sakuranobaba Josaien, the shopping street at its base.
+quickAnswer: >-
+  Kumamoto Castle, in the Chuo Ward of Kumamoto city, is a reconstructed 1607
+  hilltop fortress with a history museum inside its main keep — one of Japan's
+  three great castles. It's open daily 9am–5pm, with the calmest visit on a
+  weekday any time during those hours; weekends get busy between 10am and 4pm.
+  Budget about two hours, more if you linger in Sakuranobaba Josaien, the
+  shopping street at its base.
 faq:
   - q: How do I get to Kumamoto Castle from Kumamoto Station?
-    a: Take the Kumamoto City Tram from the station to Kumamoto-Jokaen-mae or Shiyakusho-mae, then walk uphill about 10 minutes.
+    a: >-
+      Take the Kumamoto City Tram from the station to Kumamoto-Jokaen-mae or
+      Shiyakusho-mae, then walk uphill about 10 minutes.
   - q: When is the quietest time to visit?
-    a: Any weekday during opening hours (9am–5pm) is measurably calmer than weekends. Weekends get busiest between 10am and 4pm.
+    a: >-
+      Any weekday during opening hours (9am–5pm) is measurably calmer than
+      weekends. Weekends get busiest between 10am and 4pm.
   - q: How long should I plan to spend at the castle?
-    a: Budget 90 minutes to 2 hours for the keep and museum, more if you explore Sakuranobaba Josaien at the base.
+    a: >-
+      Budget 90 minutes to 2 hours for the keep and museum, more if you explore
+      Sakuranobaba Josaien at the base.
   - q: Is Kumamoto Castle still under earthquake repair?
-    a: Some sections remain under restoration following the 2016 earthquakes, and an elevated walkway lets visitors pass close to the repair work. Confirm current access before visiting.
+    a: >-
+      Some sections remain under restoration following the 2016 earthquakes, and
+      an elevated walkway lets visitors pass close to the repair work. Confirm
+      current access before visiting.
   - q: What's nearby for food or shopping?
-    a: Sakuranobaba Josaien, a shopping and dining street right at the castle's base, has local Kumamoto specialties and craft shops.
+    a: >-
+      Sakuranobaba Josaien, a shopping and dining street right at the castle's
+      base, has local Kumamoto specialties and craft shops.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why Kumamoto Castle still stops people in their tracks

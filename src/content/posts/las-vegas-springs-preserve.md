@@ -1,28 +1,35 @@
 ---
 title: 'Springs Preserve: Las Vegas Travel Guide'
-description: Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about 10 minutes from the Strip, built around the springs that gave Las Vegas its name.
+description: >-
+  Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about
+  10 minutes from the Strip, built around the springs that gave Las Vegas its
+  name.
 country: United States
 region: Las Vegas
 category: hidden-gem
 pubDate: '2026-07-31T10:23:47.641Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/716631_pL0UpjcTeY_DinwOgky6UEsFb4Zz7whKkSguaAG2ojQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/716631_pL0UpjcTeY_DinwOgky6UEsFb4Zz7whKkSguaAG2ojQ.jpg
   credit: 'Photo: Foursquare user content (Springs Preserve)'
   license: foursquare
-  source: https://foursquare.com/v/4ae3a059f964a520699721e3
+  source: 'https://foursquare.com/v/4ae3a059f964a520699721e3'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Springs_Preserve_garden_building.jpg/1280px-Springs_Preserve_garden_building.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Springs_Preserve_garden_building.jpg/1280px-Springs_Preserve_garden_building.jpg
     credit: 'Photo: Stan Shebs / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Springs_Preserve_garden_building.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Springs_Preserve_garden_building.jpg
 place:
   id: ChIJq9KzHmPByIARQmNwjHv5ENs
   name: Springs Preserve
-  address: 333 S Valley View Blvd, Las Vegas, NV 89107, USA
+  address: '333 S Valley View Blvd, Las Vegas, NV 89107, USA'
   rating: 4.7
-  userRatingsTotal: 5765
+  userRatingsTotal: 5778
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=15785391002966057794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15785391002966057794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.1693608
   lng: -115.1906908
@@ -54,19 +61,43 @@ place:
 tags:
   - las vegas
   - hidden gem
-quickAnswer: Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about 10 minutes from the Strip, built around the actual freshwater springs that gave Las Vegas its name. Plan on 3–4 hours to cover the walking trails, botanical gardens, and museums, and go right at the 9am opening — it's closed Tuesdays and Wednesdays, and the trails and exhibits fill up steadily through the day on weekends. It's genuinely well-loved and well-visited, so this is less an undiscovered spot and more a well-run one worth timing carefully.
+quickAnswer: >-
+  Springs Preserve is a 180-acre desert oasis at 333 S Valley View Blvd, about
+  10 minutes from the Strip, built around the actual freshwater springs that
+  gave Las Vegas its name. Plan on 3–4 hours to cover the walking trails,
+  botanical gardens, and museums, and go right at the 9am opening — it's closed
+  Tuesdays and Wednesdays, and the trails and exhibits fill up steadily through
+  the day on weekends. It's genuinely well-loved and well-visited, so this is
+  less an undiscovered spot and more a well-run one worth timing carefully.
 faq:
   - q: How do I get to Springs Preserve from the Strip?
-    a: It's about a 10-minute drive or rideshare west of the Strip to 333 S Valley View Blvd, with on-site parking. There's no direct Strip monorail or light-rail connection, so a car, taxi, or rideshare is the practical option.
+    a: >-
+      It's about a 10-minute drive or rideshare west of the Strip to 333 S
+      Valley View Blvd, with on-site parking. There's no direct Strip monorail
+      or light-rail connection, so a car, taxi, or rideshare is the practical
+      option.
   - q: What days is Springs Preserve closed?
-    a: It's closed all day Tuesday and Wednesday. It's open 9am–4pm Monday, Thursday, Friday, Saturday, and Sunday, so check that schedule before you plan your visit.
+    a: >-
+      It's closed all day Tuesday and Wednesday. It's open 9am–4pm Monday,
+      Thursday, Friday, Saturday, and Sunday, so check that schedule before you
+      plan your visit.
   - q: How long should I plan for a visit?
-    a: Budget 3–4 hours to properly cover the outdoor trails, botanical gardens, and both museums. If you're short on time, an hour is enough to walk the wetlands trail and gardens alone.
+    a: >-
+      Budget 3–4 hours to properly cover the outdoor trails, botanical gardens,
+      and both museums. If you're short on time, an hour is enough to walk the
+      wetlands trail and gardens alone.
   - q: When is the best time to go to avoid crowds?
-    a: Go right at 9am opening, particularly on weekends — foot traffic builds steadily through the 9am–4pm window on Saturdays and Sundays, so the first hour is consistently the calmest.
+    a: >-
+      Go right at 9am opening, particularly on weekends — foot traffic builds
+      steadily through the 9am–4pm window on Saturdays and Sundays, so the first
+      hour is consistently the calmest.
   - q: Is Springs Preserve good to visit in summer?
-    a: The trails are mostly unshaded, so summer afternoons (often over 100°F) can be tough going. Spring and fall, or an early-morning summer visit right at opening, make for a far more comfortable walk.
+    a: >-
+      The trails are mostly unshaded, so summer afternoons (often over 100°F)
+      can be tough going. Spring and fall, or an early-morning summer visit
+      right at opening, make for a far more comfortable walk.
 aiGenerated: true
+updatedDate: '2026-09-08'
 ---
 ## Why go
 

@@ -1,27 +1,36 @@
 ---
 title: 'Kilim Geoforest Park: Langkawi Travel Guide'
-description: Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's northeast coast, best explored on a roughly two-hour boat tour from the Kilim River Tourism Jetty covering mangrove channels, a fish farm, a cave, and eagle-watching in the open lagoon.
+description: >-
+  Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's
+  northeast coast, best explored on a roughly two-hour boat tour from the Kilim
+  River Tourism Jetty covering mangrove channels, a fish farm, a cave, and
+  eagle-watching in the open lagoon.
 country: Malaysia
 region: Langkawi
 category: hidden-gem
 pubDate: '2026-07-28T10:05:33.927Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kilim_Geoforest_Park%2C_Langkawi.jpg/1920px-Kilim_Geoforest_Park%2C_Langkawi.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kilim_Geoforest_Park%2C_Langkawi.jpg/1920px-Kilim_Geoforest_Park%2C_Langkawi.jpg
   credit: 'Photo: Dcpeets / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kilim_Geoforest_Park,_Langkawi.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Kilim_Geoforest_Park,_Langkawi.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kilim-geoforest-langkawi.jpg/1920px-Kilim-geoforest-langkawi.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kilim-geoforest-langkawi.jpg/1920px-Kilim-geoforest-langkawi.jpg
     credit: 'Photo: Gregorio02 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Kilim-geoforest-langkawi.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Kilim-geoforest-langkawi.jpg'
 place:
   id: ChIJSV9bFcd8TDAR1VNW4V90W-Q
   name: Kilim Geoforest Park
-  address: Kilim River Tourism Jetty, Mukim Kampung Kilim, 07000 Langkawi, Kedah, Malaysia
+  address: >-
+    Kilim River Tourism Jetty, Mukim Kampung Kilim, 07000 Langkawi, Kedah,
+    Malaysia
   rating: 4.6
-  userRatingsTotal: 6758
-  googleMapsUrl: https://maps.google.com/?cid=16454873618679485397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6812
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16454873618679485397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 6.4050671
   lng: 99.85834799999999
@@ -37,20 +46,44 @@ place:
 tags:
   - langkawi
   - hidden gem
-quickAnswer: Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's northeast coast, best explored on a roughly two-hour boat tour from the Kilim River Tourism Jetty covering mangrove channels, a fish farm, a cave, and eagle-watching in the open lagoon. Go between 9am and 11am for calmer water and light traffic, and book your boat slot early since it's one of the island's most-visited excursions. Budget half a day if you add kayaking or lunch at the floating restaurant.
+quickAnswer: >-
+  Kilim Geoforest Park is a mangrove-and-limestone river ecosystem on Langkawi's
+  northeast coast, best explored on a roughly two-hour boat tour from the Kilim
+  River Tourism Jetty covering mangrove channels, a fish farm, a cave, and
+  eagle-watching in the open lagoon. Go between 9am and 11am for calmer water
+  and light traffic, and book your boat slot early since it's one of the
+  island's most-visited excursions. Budget half a day if you add kayaking or
+  lunch at the floating restaurant.
 faq:
   - q: How do I get to Kilim Geoforest Park?
-    a: Head to the Kilim River Tourism Jetty in Mukim Kampung Kilim, about a 30-40 minute drive from Pantai Cenang or 20 minutes from Kuah town/the Cable Car base. Most visitors arrive by rental car, Grab, or a hotel-arranged transfer, then join a boat tour from the jetty.
+    a: >-
+      Head to the Kilim River Tourism Jetty in Mukim Kampung Kilim, about a
+      30-40 minute drive from Pantai Cenang or 20 minutes from Kuah town/the
+      Cable Car base. Most visitors arrive by rental car, Grab, or a
+      hotel-arranged transfer, then join a boat tour from the jetty.
   - q: How long does a Kilim mangrove tour take?
-    a: The standard boat tour runs about two hours, covering mangrove channels, a fish-feeding stop, a limestone cave, and open-lagoon eagle watching. Add extra time if you want to kayak or eat at the floating restaurant.
+    a: >-
+      The standard boat tour runs about two hours, covering mangrove channels, a
+      fish-feeding stop, a limestone cave, and open-lagoon eagle watching. Add
+      extra time if you want to kayak or eat at the floating restaurant.
   - q: When is the quietest time to visit?
-    a: Roughly 9am to 11am brings cooler air, smoother water, and fewer boats, before the mid-morning tour groups arrive. Afternoons get busier and choppier as wind picks up.
+    a: >-
+      Roughly 9am to 11am brings cooler air, smoother water, and fewer boats,
+      before the mid-morning tour groups arrive. Afternoons get busier and
+      choppier as wind picks up.
   - q: What's the best time of year to go?
-    a: November to March is Langkawi's drier season and generally gives the most reliable weather, though tours run year-round since Kilim is a rainforest ecosystem and rain is always possible.
+    a: >-
+      November to March is Langkawi's drier season and generally gives the most
+      reliable weather, though tours run year-round since Kilim is a rainforest
+      ecosystem and rain is always possible.
   - q: Is Kilim Geoforest Park good for kids or non-swimmers?
-    a: Yes — you stay on the boat for most of the tour, life jackets are provided and required, and the pace is gentle. The cave stop and fish-feeding are usually the highlights for younger visitors.
+    a: >-
+      Yes — you stay on the boat for most of the tour, life jackets are provided
+      and required, and the pace is gentle. The cave stop and fish-feeding are
+      usually the highlights for younger visitors.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 ## Why go
 

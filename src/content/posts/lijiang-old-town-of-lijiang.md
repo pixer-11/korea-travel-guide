@@ -1,27 +1,35 @@
 ---
 title: 'Old Town of Lijiang: Travel Guide (4.6★)'
-description: The Old Town of Lijiang is a UNESCO-listed maze of cobbled lanes, canals and timber Naxi houses at the foot of the Yunnan hills — open 24 hours, with no gate to close behind you. 4.6★ (1,441 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Old Town of Lijiang is a UNESCO-listed maze of cobbled lanes, canals and
+  timber Naxi houses at the foot of the Yunnan hills — open 24 hours, with no
+  gate to close behind you. 4.6★ (1,448 reviews) — what visitors say, hours, and
+  tips.
 country: China
 region: Lijiang
 category: attraction
 pubDate: '2026-08-11T08:24:47.624Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lijiang_-_panoramio_%286%29.jpg/1920px-Lijiang_-_panoramio_%286%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lijiang_-_panoramio_%286%29.jpg/1920px-Lijiang_-_panoramio_%286%29.jpg
   credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lijiang_-_panoramio_(6).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Lijiang_-_panoramio_(6).jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg/1920px-Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg/1920px-Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg
     credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg
 place:
   id: ChIJAQxMBoS1IDcRtV_3ckn0oyw
   name: Old Town of Lijiang
-  address: V6CP+P8H, Gucheng District, Lijiang, Yunnan, China, 674100
+  address: 'V6CP+P8H, Gucheng District, Lijiang, Yunnan, China, 674100'
   rating: 4.6
-  userRatingsTotal: 1441
-  googleMapsUrl: https://maps.google.com/?cid=3216683155171270581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1448
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3216683155171270581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.8718026
   lng: 100.2358502
@@ -36,20 +44,42 @@ place:
 tags:
   - lijiang
   - top attraction
-quickAnswer: The Old Town of Lijiang is a UNESCO-listed maze of cobbled lanes, canals and timber Naxi houses at the foot of the Yunnan hills — open 24 hours, with no gate to close behind you. Come early morning (before 9am) or after 9pm to walk the bridges without the day-trip crowds. Budget half a day to wander, longer if you want to sit by the water at night.
+quickAnswer: >-
+  The Old Town of Lijiang is a UNESCO-listed maze of cobbled lanes, canals and
+  timber Naxi houses at the foot of the Yunnan hills — open 24 hours, with no
+  gate to close behind you. Come early morning (before 9am) or after 9pm to walk
+  the bridges without the day-trip crowds. Budget half a day to wander, longer
+  if you want to sit by the water at night.
 faq:
   - q: Is there an entrance fee for the Old Town of Lijiang?
-    a: There's no gate fee to enter the Old Town itself, but a separate town maintenance fee is sometimes collected via hotels, and individual sights inside (like the Mu Family Mansion) charge their own tickets. Confirm with your accommodation.
+    a: >-
+      There's no gate fee to enter the Old Town itself, but a separate town
+      maintenance fee is sometimes collected via hotels, and individual sights
+      inside (like the Mu Family Mansion) charge their own tickets. Confirm with
+      your accommodation.
   - q: What's the quietest time to walk around?
-    a: Early morning, roughly before 9am, or after 9pm once day-tour groups have left. Midday around Sifang Square and the main shopping streets is when it's most crowded.
+    a: >-
+      Early morning, roughly before 9am, or after 9pm once day-tour groups have
+      left. Midday around Sifang Square and the main shopping streets is when
+      it's most crowded.
   - q: How long should I plan to spend there?
-    a: Half a day covers the main sights like Sifang Square, Mu Family Mansion and Wangu Tower. Staying overnight lets you see it in both quiet early morning and lantern-lit evening light.
+    a: >-
+      Half a day covers the main sights like Sifang Square, Mu Family Mansion
+      and Wangu Tower. Staying overnight lets you see it in both quiet early
+      morning and lantern-lit evening light.
   - q: How do I get to the Old Town from the airport?
-    a: Lijiang Sanyi Airport is around 25-30 minutes away by taxi; buses and hotel shuttles also run into Gucheng District, where you'll approach on foot since the old town is pedestrian-only.
+    a: >-
+      Lijiang Sanyi Airport is around 25-30 minutes away by taxi; buses and
+      hotel shuttles also run into Gucheng District, where you'll approach on
+      foot since the old town is pedestrian-only.
   - q: What's nearby worth combining with a visit?
-    a: Black Dragon Pool Park sits just north of the Old Town and pairs well with a Wangu Tower visit for mountain views; Jade Dragon Snow Mountain is a popular full-day trip further out.
+    a: >-
+      Black Dragon Pool Park sits just north of the Old Town and pairs well with
+      a Wangu Tower visit for mountain views; Jade Dragon Snow Mountain is a
+      popular full-day trip further out.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 You feel the change in surface before you see anything else. Asphalt gives way to smooth, uneven cobblestones, and suddenly the traffic noise is gone, replaced by running water. Lijiang's Old Town does that to you immediately, a UNESCO World Heritage core of Naxi timber houses, arched stone bridges and canals fed by meltwater from the Jade Dragon Snow Mountain.

@@ -1,26 +1,31 @@
 ---
 title: 'Former House of Tan Teng Niah: Little India Travel Guide'
-description: The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in vivid pastel hues.
+description: >-
+  The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving
+  Chinese villa in Little India — an 1900-built, two-storey mansion now painted
+  in vivid pastel hues.
 country: Singapore
 region: Little India
 category: attraction
 pubDate: '2026-07-23T07:32:15.496Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg
   credit: 'Photo: Foursquare user content (Former House of Tan Teng Niah)'
   license: foursquare
-  source: https://foursquare.com/v/59759e0410345b5dd6b9b7a1
+  source: 'https://foursquare.com/v/59759e0410345b5dd6b9b7a1'
   focus:
     x: 45
     'y': 45
 place:
   id: ChIJX0z5sbgZ2jERbP7t9-0hs_E
   name: Former House of Tan Teng Niah
-  address: 37 Kerbau Rd, Singapore 219168
+  address: '37 Kerbau Rd, Singapore 219168'
   rating: 4.3
-  userRatingsTotal: 2312
-  googleMapsUrl: https://maps.google.com/?cid=17416301489922375276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-  businessStatus: OPERATIONAL
+  userRatingsTotal: 2329
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17416301489922375276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: CLOSED_TEMPORARILY
   lat: 1.3070541
   lng: 103.85096019999999
   busyness:
@@ -50,19 +55,37 @@ place:
 tags:
   - little india
   - top attraction
-quickAnswer: The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving Chinese villa in Little India — an 1900-built, two-storey mansion now painted in vivid pastel hues. It's free to view from the street (it's a private commercial building, not a museum), takes only 15-20 minutes to see, and pairs well with a walk down Kerbau Road toward Tekka Centre or Serangoon Road.
+quickAnswer: >-
+  The Former House of Tan Teng Niah, at 37 Kerbau Road, is the last surviving
+  Chinese villa in Little India — an 1900-built, two-storey mansion now painted
+  in vivid pastel hues. It's free to view from the street (it's a private
+  commercial building, not a museum), takes only 15-20 minutes to see, and pairs
+  well with a walk down Kerbau Road toward Tekka Centre or Serangoon Road.
 faq:
   - q: Can you go inside the Former House of Tan Teng Niah?
-    a: No, it's a privately occupied commercial building today, so there's no public interior access — visits are exterior/photo stops only.
+    a: >-
+      No, it's a privately occupied commercial building today, so there's no
+      public interior access — visits are exterior/photo stops only.
   - q: How do I get there by MRT?
-    a: Take the North East Line or Downtown Line to Little India MRT, exit E, and walk about 5-8 minutes via Serangoon Road to Kerbau Road.
+    a: >-
+      Take the North East Line or Downtown Line to Little India MRT, exit E, and
+      walk about 5-8 minutes via Serangoon Road to Kerbau Road.
   - q: Is there an entrance fee?
-    a: No, it's a public street-facing landmark with no ticket or gate; there's no charge to view or photograph it.
+    a: >-
+      No, it's a public street-facing landmark with no ticket or gate; there's
+      no charge to view or photograph it.
   - q: How much time should I set aside?
-    a: 15-20 minutes is typical, since the highlight is the facade rather than an interior exhibit.
+    a: >-
+      15-20 minutes is typical, since the highlight is the facade rather than an
+      interior exhibit.
   - q: What else is nearby?
-    a: Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are all within a 5-10 minute walk, making it easy to combine into a longer Little India walk.
+    a: >-
+      Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are
+      all within a 5-10 minute walk, making it easy to combine into a longer
+      Little India walk.
 aiGenerated: true
+draft: true
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

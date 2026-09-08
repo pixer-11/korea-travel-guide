@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: las-vegas-the-mob-museum
-srcHash: 'f01b6c6636c8'
+srcHash: 'bd3626984c86'
 title: 'El Mob Museum: guía de viaje de Las Vegas (4.7★)'
-description: 'El Mob Museum se encuentra en un antiguo tribunal federal de 1933 en 300 Stewart Ave, en el centro de Las Vegas, a pocos minutos a pie de Fremont Street. 4.7★ (20,069 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mob Museum se encuentra en un antiguo tribunal federal de 1933 en 300 Stewart Ave, en el centro de Las Vegas, a pocos minutos a pie de Fremont Street. 4.7★ (20,172 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mob Museum se encuentra en un antiguo tribunal federal de 1933 en 300 Stewart Ave, en el centro de Las Vegas, a pocos minutos a pie de Fremont Street. Dedícale entre dos y tres horas, llega justo cuando abren las puertas para evitar las multitudes de los autobuses turísticos, y ten en cuenta que los fines de semana se llena rápido entre las 11am y las 7pm. Es una de las atracciones mejor valoradas de la ciudad de forma constante, así que reserva las entradas con horario fijo en línea antes de tu visita.
 faq:
   - q: ¿Cuánto tiempo debería pasar en el Mob Museum?

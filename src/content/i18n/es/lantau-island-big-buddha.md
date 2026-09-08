@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lantau-island-big-buddha
-srcHash: '35442170bd14'
+srcHash: '5a4f7dba65c5'
 title: 'Gran Buda: Guía de viaje a la isla de Lantau (4.8★)'
-description: 'El Gran Buda (Buda Tian Tan) se alza sobre el monasterio Po Lin, en Ngong Ping, isla de Lantau, y se llega hasta él en el teleférico Ngong Ping 360 desde Tung Chung o en autobús. 4.8★ (216 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Gran Buda (Buda Tian Tan) se alza sobre el monasterio Po Lin, en Ngong Ping, isla de Lantau, y se llega hasta él en el teleférico Ngong Ping 360 desde Tung Chung o en autobús. 4.8★ (219 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Gran Buda (Buda Tian Tan) se alza sobre el monasterio Po Lin, en Ngong Ping, isla de Lantau, y se llega hasta él en el teleférico Ngong Ping 360 desde Tung Chung o en autobús. Conviene ir en una mañana entre semana y despejada para disfrutar de las mejores vistas y de menos aglomeraciones; la visita a la estatua de bronce y la subida de sus 268 escalones son gratuitas. Si se combina con el monasterio y la aldea de Ngong Ping, hay que reservar medio día.
 faq:
   - q: ¿Cómo se llega al Gran Buda en la isla de Lantau?

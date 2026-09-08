@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kuching-borneo-cultures-museum
-srcHash: 'f654f135e058'
+srcHash: 'f36505131e5a'
 title: 'Museo de las Culturas de Borneo: guía de viaje de Kuching (4.7★)'
-description: 'El Museo de las Culturas de Borneo, en Jalan Tun Abang Haji Openg, en el centro de Kuching, es uno de los museos mejor logrados de Malasia: cinco amplias plantas dedicadas a las culturas indígenas, la fauna y la arqueología de Sarawak. 4.7★ (4.649 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de las Culturas de Borneo, en Jalan Tun Abang Haji Openg, en el centro de Kuching, es uno de los museos mejor logrados de Malasia: cinco amplias plantas dedicadas a las culturas indígenas, la fauna y la arqueología de Sarawak. 4.7★ (4.698 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de las Culturas de Borneo, en Jalan Tun Abang Haji Openg, en el centro de Kuching, es uno de los museos mejor logrados de Malasia: cinco amplias plantas dedicadas a las culturas indígenas, la fauna y la arqueología de Sarawak. Conviene ir entre semana, entre las 9:00 y las 10:00, para evitar las aglomeraciones, y reservar al menos dos o tres horas para la visita. Abre todos los días, aunque cierra un poco antes los fines de semana (16:30 frente a las 16:45 entre semana).'
 faq:
   - q: ¿Cuánto tiempo hay que dedicar al Museo de las Culturas de Borneo?

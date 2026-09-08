@@ -1,48 +1,74 @@
 ---
-title: "Tekka Centre: Where to Eat in Little India (4.2★)"
-description: "Tekka Centre is Little India's wet market and hawker complex on Buffalo Road, a five-minute walk from Little India MRT (Exits A or E). 4.2★ (22,878 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Little India"
-category: "restaurant"
-pubDate: "2026-08-08T08:17:41.072Z"
+title: 'Tekka Centre: Where to Eat in Little India (4.2★)'
+description: >-
+  Tekka Centre is Little India's wet market and hawker complex on Buffalo Road,
+  a five-minute walk from Little India MRT (Exits A or E). 4.2★ (22,928 reviews)
+  — what visitors say, hours, and tips.
+country: Singapore
+region: Little India
+category: restaurant
+pubDate: '2026-08-08T08:17:41.072Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tekka_Centre%2C_dining_area.jpg/3840px-Tekka_Centre%2C_dining_area.jpg"
-  credit: "Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tekka_Centre,_dining_area.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tekka_Centre%2C_dining_area.jpg/3840px-Tekka_Centre%2C_dining_area.jpg
+  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tekka_Centre,_dining_area.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tekka_Centre_Wet_Market.jpg/3840px-Tekka_Centre_Wet_Market.jpg"
-    credit: "Photo: Kari.Shouur / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tekka_Centre_Wet_Market.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tekka_Centre_Wet_Market.jpg/3840px-Tekka_Centre_Wet_Market.jpg
+    credit: 'Photo: Kari.Shouur / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Tekka_Centre_Wet_Market.jpg'
 place:
-  id: "ChIJQ0ge3fEZ2jER3M6bSkGnWec"
-  name: "Tekka Centre"
-  address: "665 Buffalo Road Zhujiao Centre, Tekka, Market, Singapore 210665"
+  id: ChIJQ0ge3fEZ2jER3M6bSkGnWec
+  name: Tekka Centre
+  address: '665 Buffalo Road Zhujiao Centre, Tekka, Market, Singapore 210665'
   rating: 4.2
-  userRatingsTotal: 22878
+  userRatingsTotal: 22928
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=16670539394555039452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16670539394555039452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3063839
   lng: 103.85070139999999
 tags:
-  - "little india"
-  - "noodles"
-quickAnswer: "Tekka Centre is Little India's wet market and hawker complex on Buffalo Road, a five-minute walk from Little India MRT (Exits A or E). Go for budget-friendly South Indian, Malay and Chinese hawker food — think biryani, roti prata and fish head curry — and go before 11am or after 2pm to dodge the lunch crush."
+  - little india
+  - noodles
+quickAnswer: >-
+  Tekka Centre is Little India's wet market and hawker complex on Buffalo Road,
+  a five-minute walk from Little India MRT (Exits A or E). Go for
+  budget-friendly South Indian, Malay and Chinese hawker food — think biryani,
+  roti prata and fish head curry — and go before 11am or after 2pm to dodge the
+  lunch crush.
 faq:
-  - q: "How do I get to Tekka Centre?"
-    a: "Take the MRT to Little India station (North East Line) and leave via Exit A or E. It's a flat five-minute walk up Buffalo Road to the market building."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday late mornings before 11:30am are quietest. Avoid roughly 11:30am–1:30pm on weekdays when office workers pack the hawker floor, and expect heavier weekend crowds from late morning into early afternoon."
-  - q: "How much does food cost at Tekka Centre?"
-    a: "It's budget-friendly hawker pricing throughout — most dishes cost only a few Singapore dollars. Cash is the safest payment method, though some stalls now accept mobile payment."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes to an hour if you're just eating. Add extra time if you want to browse the ground-floor wet market and dry goods stalls too."
-  - q: "What's nearby that I can combine with a visit?"
-    a: "Sri Veeramakaliamman Temple, Serangoon Road's spice and sari shops, and the broader Little India district are all within a few minutes' walk of Tekka Centre."
+  - q: How do I get to Tekka Centre?
+    a: >-
+      Take the MRT to Little India station (North East Line) and leave via Exit
+      A or E. It's a flat five-minute walk up Buffalo Road to the market
+      building.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday late mornings before 11:30am are quietest. Avoid roughly
+      11:30am–1:30pm on weekdays when office workers pack the hawker floor, and
+      expect heavier weekend crowds from late morning into early afternoon.
+  - q: How much does food cost at Tekka Centre?
+    a: >-
+      It's budget-friendly hawker pricing throughout — most dishes cost only a
+      few Singapore dollars. Cash is the safest payment method, though some
+      stalls now accept mobile payment.
+  - q: How long should I spend there?
+    a: >-
+      Plan for 45 minutes to an hour if you're just eating. Add extra time if
+      you want to browse the ground-floor wet market and dry goods stalls too.
+  - q: What's nearby that I can combine with a visit?
+    a: >-
+      Sri Veeramakaliamman Temple, Serangoon Road's spice and sari shops, and
+      the broader Little India district are all within a few minutes' walk of
+      Tekka Centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why Tekka Centre matters

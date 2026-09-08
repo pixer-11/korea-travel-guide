@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: labuan-bajo-la-moringa-labuan-bajo
-srcHash: 'ebfca0eadb01'
+srcHash: 'f632715c430d'
 title: 'La Moringa: dónde comer en Labuan Bajo (4,9★)'
 description: La Moringa es un restaurante bien valorado, informal pero cuidado, situado en Jl. Trans Flores, en Labuan Bajo, ideal para una cena relajada de platos indonesios e internacionales tras una excursión de un día al Parque Nacional de Komodo.
 quickAnswer: En Jl. Trans Flores, en Labuan Bajo, encontrarás La Moringa, un restaurante bien valorado, informal pero cuidado, perfecto para una cena relajada de platos indonesios e internacionales después de una excursión de un día al Parque Nacional de Komodo. Con una calificación de 4,9 sobre más de 2.300 reseñas y precios de rango medio, es una opción segura y satisfactoria. Conviene ir a primera hora de la noche (antes de las 19:00) o reservar con antelación para evitar esperas, ya que es un lugar popular tanto entre viajeros independientes como entre grupos de tour que pasan por la ciudad.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué ir
 
-Junto con el auge de Labuan Bajo como puerta de entrada al Parque Nacional de Komodo, su oferta gastronómica se ha disparado, y La Moringa se ha convertido en una de las direcciones más elogiadas de la ciudad: una calificación de 4,9 basada en más de 2.300 reseñas es una cifra poco habitual para cualquier restaurante, en cualquier lugar. Al situarse en el rango de precios medio, funciona tanto para un almuerzo informal entre reservas de barcos como para una cena formal después de un día en el agua.
+Junto con el auge de Labuan Bajo como puerta de entrada al Parque Nacional de Komodo, su oferta gastronómica se ha disparado, y La Moringa se ha convertido en una de las direcciones más elogiadas de la ciudad: una calificación de 4,8 basada en más de 2.300 reseñas es una cifra poco habitual para cualquier restaurante, en cualquier lugar. Al situarse en el rango de precios medio, funciona tanto para un almuerzo informal entre reservas de barcos como para una cena formal después de un día en el agua.
 
 La carta combina clásicos indonesios con platos reconfortantes de estilo occidental, algo que encaja bien con la clientela variada de la ciudad: turistas nacionales, grupos de buceo y mochileros internacionales que recargan energías antes o después de sus travesías de varios días por Komodo.
 

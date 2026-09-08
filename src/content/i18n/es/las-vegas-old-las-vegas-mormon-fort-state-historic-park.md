@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: las-vegas-old-las-vegas-mormon-fort-state-historic-park
-srcHash: '8faa9c3c4fa4'
+srcHash: '91068ea6f4ee'
 title: 'Old Las Vegas Mormon Fort State Historic Park: Guía de viaje'
-description: 'Old Las Vegas Mormon Fort State Historic Park, en 500 E Washington Ave justo al norte del centro, es la estructura no nativa más antigua de Nevada: un fragmento de muro de adobe de 1855 conservado dentro de un pequeño centro de visitantes y museo al aire libre. 4.6★ (833 reseñas) — lo que dicen los visitantes, horarios y consejos.'
+description: 'Old Las Vegas Mormon Fort State Historic Park, en 500 E Washington Ave justo al norte del centro, es la estructura no nativa más antigua de Nevada: un fragmento de muro de adobe de 1855 conservado dentro de un pequeño centro de visitantes y museo al aire libre. 4.6★ (834 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Old Las Vegas Mormon Fort State Historic Park, en 500 E Washington Ave justo al norte del centro, es la estructura no nativa más antigua de Nevada: un fragmento de muro de adobe de 1855 conservado dentro de un pequeño centro de visitantes y museo al aire libre. Reserva entre 45 minutos y una hora, ve un día entre semana por la mañana antes de que apriete el calor del desierto, y combínalo con un paseo por el cercano Springs Preserve o una caminata por Fremont Street en el centro. Es un complemento sencillo y de bajo perfil para un viaje a Las Vegas, no un destino para todo el día.'
 faq:
   - q: ¿Cuánto tiempo debo reservar para el Old Las Vegas Mormon Fort?

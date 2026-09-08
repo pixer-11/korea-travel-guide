@@ -1,42 +1,73 @@
 ---
 title: 'Pondok Pohon Tanjung Bunga: Labuan Bajo Travel Guide'
-description: Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the Tanjung Bunga headland just outside Labuan Bajo town, best visited late afternoon for sunset over the harbor and surrounding islands.
+description: >-
+  Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the
+  Tanjung Bunga headland just outside Labuan Bajo town, best visited late
+  afternoon for sunset over the harbor and surrounding islands.
 country: Indonesia
 region: Labuan Bajo
 category: attraction
 pubDate: '2026-07-23T07:14:10.471Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg
   credit: 'Photo: Foursquare user content (Pondok Pohon Tanjung Bunga)'
   license: foursquare
-  source: https://foursquare.com/v/65f3cadc225ac1748d96612a
+  source: 'https://foursquare.com/v/65f3cadc225ac1748d96612a'
 gallery: []
 place:
   id: ChIJ58-SywVptC0RyxHmWkKj-90
   name: Pondok Pohon Tanjung Bunga
-  address: HV67+4GX, Labuan Bajo, Komodo, West Manggarai Regency, East Nusa Tenggara, Indonesia
+  address: >-
+    HV67+4GX, Labuan Bajo, Komodo, West Manggarai Regency, East Nusa Tenggara,
+    Indonesia
   rating: 4.8
-  userRatingsTotal: 185
-  googleMapsUrl: https://maps.google.com/?cid=15995558006924644811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 191
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15995558006924644811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.439637
   lng: 119.86385569999999
 tags:
   - labuan bajo
   - top attraction
-quickAnswer: Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the Tanjung Bunga headland just outside Labuan Bajo town, best visited late afternoon for sunset over the harbor and surrounding islands. It's reachable by a short scooter or car ride from town (roughly 10-15 minutes), and it holds a strong 4.8 rating from 185 reviews while still staying well under the radar compared to Labuan Bajo's bigger attractions. Budget 45-90 minutes, bring cash for any warung snacks, and pair it with a wider loop around the Tanjung Bunga coastal road.
+quickAnswer: >-
+  Pondok Pohon Tanjung Bunga is a hillside viewpoint and simple rest-stop on the
+  Tanjung Bunga headland just outside Labuan Bajo town, best visited late
+  afternoon for sunset over the harbor and surrounding islands. It's reachable
+  by a short scooter or car ride from town (roughly 10-15 minutes), and it holds
+  a strong 4.8 rating from 185 reviews while still staying well under the radar
+  compared to Labuan Bajo's bigger attractions. Budget 45-90 minutes, bring cash
+  for any warung snacks, and pair it with a wider loop around the Tanjung Bunga
+  coastal road.
 faq:
   - q: How do I get to Pondok Pohon Tanjung Bunga from Labuan Bajo town?
-    a: It's about a 10-15 minute scooter or car ride along the Tanjung Bunga coastal road west of the harbor. There's no public bus service, so rent a scooter, hire a car/driver, or ask your hotel to arrange transport.
+    a: >-
+      It's about a 10-15 minute scooter or car ride along the Tanjung Bunga
+      coastal road west of the harbor. There's no public bus service, so rent a
+      scooter, hire a car/driver, or ask your hotel to arrange transport.
   - q: Is there an entrance fee?
-    a: No official ticket price is widely published; it functions as an informal viewpoint rather than a managed attraction, so bring some cash in case there's a small donation collection or a nearby snack stall.
+    a: >-
+      No official ticket price is widely published; it functions as an informal
+      viewpoint rather than a managed attraction, so bring some cash in case
+      there's a small donation collection or a nearby snack stall.
   - q: What's the best time of day to visit?
-    a: Arrive about 90 minutes before sunset (typically between 5:30-6:15 pm year-round due to Flores' equatorial location) for the best light over the bay and islands. Avoid midday when shade is limited and haze can obscure the view.
+    a: >-
+      Arrive about 90 minutes before sunset (typically between 5:30-6:15 pm
+      year-round due to Flores' equatorial location) for the best light over the
+      bay and islands. Avoid midday when shade is limited and haze can obscure
+      the view.
   - q: How long should I plan to stay?
-    a: Most visitors spend 45-90 minutes here — enough time to enjoy the sunset and take photos before heading back before full dark.
+    a: >-
+      Most visitors spend 45-90 minutes here — enough time to enjoy the sunset
+      and take photos before heading back before full dark.
   - q: Is it worth combining with other stops nearby?
-    a: Yes — since it's on the Tanjung Bunga coastal road, it pairs well with a broader scenic loop around the cape, and you can continue back toward Labuan Bajo's harbor-front restaurants for dinner afterward.
+    a: >-
+      Yes — since it's on the Tanjung Bunga coastal road, it pairs well with a
+      broader scenic loop around the cape, and you can continue back toward
+      Labuan Bajo's harbor-front restaurants for dinner afterward.
 aiGenerated: true
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

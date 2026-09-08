@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: little-india-tekka-centre
-srcHash: 'ce7ba78465bd'
+srcHash: 'd2e092b3ee5a'
 title: 'Tekka Centre: dónde comer en Little India (4.2★)'
-description: 'Tekka Centre es el mercado húmedo y centro de puestos de comida (hawker) de Little India, en Buffalo Road, a cinco minutos a pie de la estación Little India MRT (salidas A o E). 4.2★ (22.878 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Tekka Centre es el mercado húmedo y centro de puestos de comida (hawker) de Little India, en Buffalo Road, a cinco minutos a pie de la estación Little India MRT (salidas A o E). 4.2★ (22.928 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Tekka Centre es el mercado húmedo y centro de puestos de comida (hawker) de Little India, ubicado en Buffalo Road, a cinco minutos a pie de la estación Little India MRT (salidas A o E). Aquí se puede comer comida económica del sur de la India, malaya y china —biryani, roti prata, curry de cabeza de pescado— y conviene ir antes de las 11:00 o después de las 14:00 para evitar la avalancha del almuerzo.
 faq:
   - q: ¿Cómo llego a Tekka Centre?

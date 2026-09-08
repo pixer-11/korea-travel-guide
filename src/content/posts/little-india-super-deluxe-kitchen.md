@@ -1,32 +1,40 @@
 ---
 title: 'Super Deluxe Kitchen: Where to Eat in Little India'
-description: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from Jalan Besar and Farrer Park MRT stations.
+description: >-
+  Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed
+  Indian restaurant tucked in the backstreets of Little India, a short walk from
+  Jalan Besar and Farrer Park MRT stations.
 country: Singapore
 region: Little India
 category: restaurant
 pubDate: '2026-07-23T07:36:04.943Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3391934_oGhZ3saxg8GI6dvTG8wIIZJGa3G2fKg-r_ZB2MkrUZI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/3391934_oGhZ3saxg8GI6dvTG8wIIZJGa3G2fKg-r_ZB2MkrUZI.jpg
   credit: 'Photo: Foursquare user content (Super Deluxe Kitchen)'
   license: foursquare
-  source: https://foursquare.com/v/6954d320f98999314511f074
+  source: 'https://foursquare.com/v/6954d320f98999314511f074'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
   id: ChIJq9I-PVUZ2jEREhaR6C5wGeU
   name: Super Deluxe Kitchen
-  address: 29 Upper Weld Rd, Singapore 207386
+  address: '29 Upper Weld Rd, Singapore 207386'
   rating: 4.9
-  userRatingsTotal: 2548
-  googleMapsUrl: https://maps.google.com/?cid=16508349255875892754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2765
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16508349255875892754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3057785
   lng: 103.8543407
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 15, 16]
+    weekdayQuiet:
+      - 12
+      - 15
+      - 16
     weekdayBusy:
       - 19
       - 20
@@ -40,7 +48,7 @@ place:
       - 20
       - 21
     venueId: ven_556547773543365261684552456a325a5556502d4939714a496843
-  phone: '+65 6293 3225'
+  phone: +65 6293 3225
   openingHours:
     - 'Monday: 11:15 AM – 10:30 PM'
     - 'Tuesday: Closed'
@@ -49,22 +57,46 @@ place:
     - 'Friday: 11:15 AM – 10:30 PM'
     - 'Saturday: 11:15 AM – 10:30 PM'
     - 'Sunday: 11:15 AM – 10:30 PM'
+  priceLevel: 2
 tags:
   - little india
   - local restaurant
-quickAnswer: Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed Indian restaurant tucked in the backstreets of Little India, a short walk from Jalan Besar and Farrer Park MRT stations. Go for North and South Indian classics — think biryani, curries, and tandoor-fired breads — and expect a genuinely busy dining room, so arrive slightly off peak (early lunch or after 8:30pm) if you want a table without a wait.
+quickAnswer: >-
+  Super Deluxe Kitchen (29 Upper Weld Rd, Singapore 207386) is a well-reviewed
+  Indian restaurant tucked in the backstreets of Little India, a short walk from
+  Jalan Besar and Farrer Park MRT stations. Go for North and South Indian
+  classics — think biryani, curries, and tandoor-fired breads — and expect a
+  genuinely busy dining room, so arrive slightly off peak (early lunch or after
+  8:30pm) if you want a table without a wait.
 faq:
   - q: How do I get to Super Deluxe Kitchen by MRT?
-    a: The nearest stations are Farrer Park (North East Line) and Jalan Besar (Downtown Line), both about a 5–8 minute walk. Little India MRT (North East Line/Downtown Line) is about 10 minutes on foot if you want to walk through the neighborhood first.
+    a: >-
+      The nearest stations are Farrer Park (North East Line) and Jalan Besar
+      (Downtown Line), both about a 5–8 minute walk. Little India MRT (North
+      East Line/Downtown Line) is about 10 minutes on foot if you want to walk
+      through the neighborhood first.
   - q: Is Super Deluxe Kitchen good for vegetarians?
-    a: Yes — like most Indian restaurants in Little India, it typically offers a solid range of vegetarian curries and breads alongside its meat and tandoor dishes, making it workable for mixed groups.
+    a: >-
+      Yes — like most Indian restaurants in Little India, it typically offers a
+      solid range of vegetarian curries and breads alongside its meat and
+      tandoor dishes, making it workable for mixed groups.
   - q: What's the best time to visit to avoid crowds?
-    a: Given its high review count and popularity, weekend dinner hours (roughly 7–8:30pm) tend to be busiest. An early lunch or a dinner after 8:30pm generally means a shorter wait.
+    a: >-
+      Given its high review count and popularity, weekend dinner hours (roughly
+      7–8:30pm) tend to be busiest. An early lunch or a dinner after 8:30pm
+      generally means a shorter wait.
   - q: How long should I plan for a meal here?
-    a: Budget at least 45 minutes to an hour, more if you're sharing several dishes — it's a popular spot so service can take its own pace, especially at peak times.
+    a: >-
+      Budget at least 45 minutes to an hour, more if you're sharing several
+      dishes — it's a popular spot so service can take its own pace, especially
+      at peak times.
   - q: What else is worth seeing near the restaurant?
-    a: Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple are both a short walk away, along with the shophouse-lined lanes of Dunlop Street and Campbell Lane.
+    a: >-
+      Tekka Centre (wet market and hawker food) and Sri Veeramakaliamman Temple
+      are both a short walk away, along with the shophouse-lined lanes of Dunlop
+      Street and Campbell Lane.
 aiGenerated: true
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

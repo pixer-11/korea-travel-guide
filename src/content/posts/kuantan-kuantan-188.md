@@ -1,30 +1,36 @@
 ---
 title: 'Kuantan 188: Travel Guide (4.4★)'
-description: Kuantan 188 is the observation tower and riverside leisure hub on Jalan Besar, right by the Kuantan River in Pahang's state capital. 4.4★ (3,429 reviews) — what visitors say, hours, and tips.
+description: >-
+  Kuantan 188 is the observation tower and riverside leisure hub on Jalan Besar,
+  right by the Kuantan River in Pahang's state capital. 4.5★ (3,470 reviews) —
+  what visitors say, hours, and tips.
 country: Malaysia
 region: Kuantan
 category: attraction
 pubDate: '2026-08-12T08:45:03.714Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/56195558_j9B1K0UwtvuRGxEwnMAZrHeADGQm2DM5TG7qjb1GIXM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/56195558_j9B1K0UwtvuRGxEwnMAZrHeADGQm2DM5TG7qjb1GIXM.jpg
   credit: 'Photo: Foursquare user content (Menara Kuantan 188)'
   license: foursquare
-  source: https://foursquare.com/v/6038b0890d2ef05d57f32bb5
+  source: 'https://foursquare.com/v/6038b0890d2ef05d57f32bb5'
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kuantan_1.jpg/3840px-Kuantan_1.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kuantan_1.jpg/3840px-Kuantan_1.jpg
     credit: 'Photo: Slleong / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Kuantan_1.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Kuantan_1.jpg'
 place:
   id: ChIJF-OtU5y6yDERPfQwCGKdlYU
   name: Kuantan 188
-  address: Jalan Besar, 25000 Kuantan, Pahang, Malaysia
-  rating: 4.4
-  userRatingsTotal: 3429
-  googleMapsUrl: https://maps.google.com/?cid=9625772822944085053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: 'Jalan Besar, 25000 Kuantan, Pahang, Malaysia'
+  rating: 4.5
+  userRatingsTotal: 3470
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9625772822944085053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 3.8039632999999995
   lng: 103.32751760000001
@@ -52,19 +58,40 @@ place:
 tags:
   - kuantan
   - top attraction
-quickAnswer: Kuantan 188 is the observation tower and riverside leisure hub on Jalan Besar, right by the Kuantan River in Pahang's state capital. Go on a weekday for the calmest visit — foot traffic stays low from opening at 10am through to 11pm — and save weekend evenings between 6pm and 11pm for when it's busiest. Budget an hour or two, more if you stay for dinner by the water.
+quickAnswer: >-
+  Kuantan 188 is the observation tower and riverside leisure hub on Jalan Besar,
+  right by the Kuantan River in Pahang's state capital. Go on a weekday for the
+  calmest visit — foot traffic stays low from opening at 10am through to 11pm —
+  and save weekend evenings between 6pm and 11pm for when it's busiest. Budget
+  an hour or two, more if you stay for dinner by the water.
 faq:
   - q: How do I get to Kuantan 188?
-    a: It's on Jalan Besar in central Kuantan. Grab or taxi is easiest — about 10–15 minutes from Kuantan Sentral bus terminal — or walk if you're already staying near the riverfront.
+    a: >-
+      It's on Jalan Besar in central Kuantan. Grab or taxi is easiest — about
+      10–15 minutes from Kuantan Sentral bus terminal — or walk if you're
+      already staying near the riverfront.
   - q: When is the quietest time to visit?
-    a: Weekdays are consistently calm, with light foot traffic from the 10am opening through to 11pm. Weekend evenings between 6pm and 11pm are the busiest, so avoid that window if you want space.
+    a: >-
+      Weekdays are consistently calm, with light foot traffic from the 10am
+      opening through to 11pm. Weekend evenings between 6pm and 11pm are the
+      busiest, so avoid that window if you want space.
   - q: How long should I spend there?
-    a: An hour or two covers the tower view and a walk along the riverside promenade. Add extra time if you plan to eat dinner at one of the riverside stalls or restaurants.
+    a: >-
+      An hour or two covers the tower view and a walk along the riverside
+      promenade. Add extra time if you plan to eat dinner at one of the
+      riverside stalls or restaurants.
   - q: What are the opening hours?
-    a: 10am–10pm Monday to Thursday, and 10am–midnight Friday through Sunday. Always worth double-checking hours before a special visit, as venues occasionally adjust them.
+    a: >-
+      10am–10pm Monday to Thursday, and 10am–midnight Friday through Sunday.
+      Always worth double-checking hours before a special visit, as venues
+      occasionally adjust them.
   - q: Is Kuantan 188 good for kids or families?
-    a: Yes — the open plazas, riverside seating, and casual food stalls make it an easy, low-key stop for families, especially in the cooler evening hours.
+    a: >-
+      Yes — the open plazas, riverside seating, and casual food stalls make it
+      an easy, low-key stop for families, especially in the cooler evening
+      hours.
 aiGenerated: true
+updatedDate: '2026-09-08'
 ---
 You spot the tower before you spot the town. Kuantan 188 rises above the low rooftops of Jalan Besar, its lattice frame catching the last orange light as the Kuantan River slides past below.
 

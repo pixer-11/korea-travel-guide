@@ -1,45 +1,74 @@
 ---
 title: 'Old Las Vegas Mormon Fort State Historic Park: Travel Guide'
-description: Old Las Vegas Mormon Fort State Historic Park, at 500 E Washington Ave just north of downtown, is the oldest non-native structure in Nevada — a chunk of 1855 adobe wall preserved inside a small visitor center and outdoor museum. 4.6★ (833 reviews) — what visitors say, hours, and tips.
+description: >-
+  Old Las Vegas Mormon Fort State Historic Park, at 500 E Washington Ave just
+  north of downtown, is the oldest non-native structure in Nevada — a chunk of
+  1855 adobe wall preserved inside a small visitor center and outdoor museum.
+  4.6★ (834 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Las Vegas
 category: attraction
 pubDate: '2026-08-05T11:47:08.929Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/50644146_1oadN5cr7dp0IirLPxHWUk5Zd4BN-2wlqJKo357vEOk.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/50644146_1oadN5cr7dp0IirLPxHWUk5Zd4BN-2wlqJKo357vEOk.jpg
   credit: 'Photo: Foursquare user content (Old Las Vegas Mormon Fort)'
   license: foursquare
-  source: https://foursquare.com/v/4c280493ed0ac9b6e2b65faa
+  source: 'https://foursquare.com/v/4c280493ed0ac9b6e2b65faa'
   focus:
     x: 50
     'y': 50
 place:
   id: ChIJ_wmlGw_DyIARlf2qt094FxQ
   name: Old Las Vegas Mormon Fort State Historic Park
-  address: 500 E Washington Ave, Las Vegas, NV 89101, USA
+  address: '500 E Washington Ave, Las Vegas, NV 89101, USA'
   rating: 4.6
-  userRatingsTotal: 833
-  googleMapsUrl: https://maps.google.com/?cid=1447758089002089877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 834
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1447758089002089877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.1806609
   lng: -115.13355100000001
 tags:
   - las vegas
   - historic site
-quickAnswer: Old Las Vegas Mormon Fort State Historic Park, at 500 E Washington Ave just north of downtown, is the oldest non-native structure in Nevada — a chunk of 1855 adobe wall preserved inside a small visitor center and outdoor museum. Budget 45 minutes to an hour, go on a weekday morning before the desert heat builds, and pair it with a walk into the nearby Springs Preserve or a downtown Fremont Street stroll. It's a low-key, easy add-on to a Vegas trip, not an all-day destination.
+quickAnswer: >-
+  Old Las Vegas Mormon Fort State Historic Park, at 500 E Washington Ave just
+  north of downtown, is the oldest non-native structure in Nevada — a chunk of
+  1855 adobe wall preserved inside a small visitor center and outdoor museum.
+  Budget 45 minutes to an hour, go on a weekday morning before the desert heat
+  builds, and pair it with a walk into the nearby Springs Preserve or a downtown
+  Fremont Street stroll. It's a low-key, easy add-on to a Vegas trip, not an
+  all-day destination.
 faq:
   - q: How much time should I budget for the Old Las Vegas Mormon Fort?
-    a: About 45 minutes to an hour is enough to see the visitor center exhibits and walk the small outdoor courtyard and adobe wall.
+    a: >-
+      About 45 minutes to an hour is enough to see the visitor center exhibits
+      and walk the small outdoor courtyard and adobe wall.
   - q: How do I get there from the Las Vegas Strip?
-    a: It's roughly a 10-minute drive or rideshare (around $10-15) from the Strip. From downtown/Fremont Street it's an easy 15-20 minute walk or a short bus ride up Las Vegas Boulevard.
+    a: >-
+      It's roughly a 10-minute drive or rideshare (around $10-15) from the
+      Strip. From downtown/Fremont Street it's an easy 15-20 minute walk or a
+      short bus ride up Las Vegas Boulevard.
   - q: What's the best time of day and year to visit?
-    a: Weekday mornings are quietest and most comfortable. Visit October through April for mild temperatures, or arrive right at opening in summer to avoid the afternoon heat, which regularly tops 100°F (38°C) May through September.
+    a: >-
+      Weekday mornings are quietest and most comfortable. Visit October through
+      April for mild temperatures, or arrive right at opening in summer to avoid
+      the afternoon heat, which regularly tops 100°F (38°C) May through
+      September.
   - q: Is it worth visiting if I'm not a history buff?
-    a: Yes, briefly — it's the site where Las Vegas itself began, thanks to the artesian spring that once flowed here, and the exhibits explain that story clearly in a small, easy-to-digest space even for casual visitors.
+    a: >-
+      Yes, briefly — it's the site where Las Vegas itself began, thanks to the
+      artesian spring that once flowed here, and the exhibits explain that story
+      clearly in a small, easy-to-digest space even for casual visitors.
   - q: What else is nearby?
-    a: The Springs Preserve is about a 10-minute drive away and expands on the same natural-spring history. Downtown's Fremont Street Experience, the Neon Museum, and the Arts District are all a short drive or walk south.
+    a: >-
+      The Springs Preserve is about a 10-minute drive away and expands on the
+      same natural-spring history. Downtown's Fremont Street Experience, the
+      Neon Museum, and the Arts District are all a short drive or walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 ## Why this patch of adobe matters
 

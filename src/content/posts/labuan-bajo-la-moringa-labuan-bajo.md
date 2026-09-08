@@ -1,33 +1,44 @@
 ---
-title: "La Moringa: Where to Eat in Labuan Bajo (4.9★)"
-description: "La Moringa is a well-rated, casual-but-polished restaurant on Jl. Trans Flores in Labuan Bajo, best for a relaxed dinner of Indonesian and international dishes after a day trip to Komodo National Park."
+title: 'La Moringa: Where to Eat in Labuan Bajo (4.9★)'
+description: >-
+  La Moringa is a well-rated, casual-but-polished restaurant on Jl. Trans Flores
+  in Labuan Bajo, best for a relaxed dinner of Indonesian and international
+  dishes after a day trip to Komodo National Park.
 country: Indonesia
 region: Labuan Bajo
 category: restaurant
 pubDate: '2026-07-23T07:17:57.864Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg
   credit: 'Photo: Foursquare user content (La Moringa)'
   license: foursquare
-  source: https://foursquare.com/v/640ed14543d7701e790354b4
+  source: 'https://foursquare.com/v/640ed14543d7701e790354b4'
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery: []
 place:
   id: ChIJV5TcMYJltC0R_ptIvG0PLp0
   name: La Moringa Labuan Bajo
-  address: Jl. Trans Flores, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia
-  rating: 4.9
-  userRatingsTotal: 2325
+  address: >-
+    Jl. Trans Flores, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa
+    Tenggara Tim., Indonesia
+  rating: 4.8
+  userRatingsTotal: 2349
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=11326007076868103166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11326007076868103166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.508143
   lng: 119.88641849999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10, 11, 21]
+    weekdayQuiet:
+      - 9
+      - 10
+      - 11
+      - 21
     weekdayBusy:
       - 13
       - 14
@@ -35,7 +46,11 @@ place:
       - 16
       - 17
       - 18
-    weekendQuiet: [9, 10, 11, 21]
+    weekendQuiet:
+      - 9
+      - 10
+      - 11
+      - 21
     weekendBusy:
       - 12
       - 13
@@ -46,7 +61,7 @@ place:
       - 18
       - 19
     venueId: ven_30704c503047764974705f523043746c4a594d635435564a496843
-  phone: '+62 823-1439-4647'
+  phone: +62 823-1439-4647
   openingHours:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'
@@ -58,23 +73,45 @@ place:
 tags:
   - labuan bajo
   - local restaurant
-quickAnswer: La Moringa is a well-rated, casual-but-polished restaurant on Jl. Trans Flores in Labuan Bajo, best for a relaxed dinner of Indonesian and international dishes after a day trip to Komodo National Park. With a 4.9 rating across 2,300+ reviews and mid-range prices, it's a safe, satisfying choice — go early evening (before 7pm) or book ahead to avoid a wait, since it's popular with both travelers and tour groups passing through town.
+quickAnswer: >-
+  La Moringa is a well-rated, casual-but-polished restaurant on Jl. Trans Flores
+  in Labuan Bajo, best for a relaxed dinner of Indonesian and international
+  dishes after a day trip to Komodo National Park. With a 4.9 rating across
+  2,300+ reviews and mid-range prices, it's a safe, satisfying choice — go early
+  evening (before 7pm) or book ahead to avoid a wait, since it's popular with
+  both travelers and tour groups passing through town.
 faq:
   - q: How do I get to La Moringa from the harbor or my hotel?
-    a: It's on Jl. Trans Flores, the main road through town, generally within a 10-15 minute walk or short ojek/ride-app trip from central Labuan Bajo hotels and the harbor area.
+    a: >-
+      It's on Jl. Trans Flores, the main road through town, generally within a
+      10-15 minute walk or short ojek/ride-app trip from central Labuan Bajo
+      hotels and the harbor area.
   - q: Do I need a reservation?
-    a: It's not strictly required, but given its popularity and 2,300+ reviews, booking ahead or arriving before 7pm during dry season (April-November) helps avoid a wait, especially when tour boats return in the early evening.
+    a: >-
+      It's not strictly required, but given its popularity and 2,300+ reviews,
+      booking ahead or arriving before 7pm during dry season (April-November)
+      helps avoid a wait, especially when tour boats return in the early
+      evening.
   - q: What's the price range?
-    a: It sits at a moderate price level for Labuan Bajo — pricier than a basic warung but more affordable than upscale resort dining, making it accessible for most travel budgets.
+    a: >-
+      It sits at a moderate price level for Labuan Bajo — pricier than a basic
+      warung but more affordable than upscale resort dining, making it
+      accessible for most travel budgets.
   - q: What kind of food does it serve?
-    a: A mix of Indonesian dishes (nasi goreng, grilled seafood, local Flores flavors) alongside Western comfort food like pasta and pizza, suited to the town's international traveler crowd.
+    a: >-
+      A mix of Indonesian dishes (nasi goreng, grilled seafood, local Flores
+      flavors) alongside Western comfort food like pasta and pizza, suited to
+      the town's international traveler crowd.
   - q: Is it close to the airport?
-    a: Yes, Komodo Airport (LBJ) is roughly a 15-20 minute drive away, making it convenient for a first or last dinner on a Labuan Bajo trip.
+    a: >-
+      Yes, Komodo Airport (LBJ) is roughly a 15-20 minute drive away, making it
+      convenient for a first or last dinner on a Labuan Bajo trip.
 aiGenerated: true
+updatedDate: '2026-09-08'
 ---
 ## Why go
 
-Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses, a 4.9 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water.
+Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses, a 4.8 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water.
 
 The menu leans into a mix of Indonesian classics and Western comfort food, which suits the town's mixed crowd of domestic tourists, dive-trip groups, and international backpackers refueling before or after multi-day Komodo liveaboards.
 

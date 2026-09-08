@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hue-thien-mu-pagoda
-srcHash: '8ecf5e950aef'
+srcHash: 'b233e0ed1662'
 title: 'Pagoda Thien Mu: Guía de viaje de Hue (4,6★)'
-description: 'La pagoda Thien Mu se encuentra en la orilla norte del río de los Perfumes, en Kim Long, a unos 5 km al oeste de la Ciudadela Imperial de Hue, y abre todos los días de 7:00 a 17:30. 4,6★ (20.133 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La pagoda Thien Mu se encuentra en la orilla norte del río de los Perfumes, en Kim Long, a unos 5 km al oeste de la Ciudadela Imperial de Hue, y abre todos los días de 7:00 a 17:30. 4,6★ (20.134 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La pagoda Thien Mu se encuentra en la orilla norte del río de los Perfumes, en Kim Long, a unos 5 km al oeste de la Ciudadela Imperial de Hue, y abre todos los días de 7:00 a 17:30. Conviene llegar justo a la apertura, entre las 7:00 y las 9:00, la franja más tranquila tanto entre semana como los fines de semana, ya que los autobuses turísticos ocupan el recinto de 10:00 a 17:00. Calcule entre 45 minutos y una hora, más si llega en barco por el río.
 faq:
   - q: ¿Cuál es el horario de la pagoda Thien Mu?

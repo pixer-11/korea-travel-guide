@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: little-india-tekka-centre
-srcHash: 'ce7ba78465bd'
+srcHash: 'd2e092b3ee5a'
 title: 竹脚中心：小印度美食去哪吃（4.2★）
-description: 竹脚中心（Tekka Centre）是小印度（Little India）的湿巴刹与熟食中心，位于水牛路（Buffalo Road），从小印度地铁站（Little India MRT，A或E出口）步行五分钟即到。4.2★（22,878条评价）——看看游客怎么说、营业时间和实用建议。
+description: 竹脚中心（Tekka Centre）是小印度（Little India）的湿巴刹与熟食中心，位于水牛路（Buffalo Road），从小印度地铁站（Little India MRT，A或E出口）步行五分钟即到。4.2★（22,928条评价）——看看游客怎么说、营业时间和实用建议。
 quickAnswer: 竹脚中心是小印度的湿巴刹与熟食中心，位于水牛路，从小印度地铁站（A或E出口）步行五分钟即到。这里能吃到平价的南印度、马来和中式熟食美食——比如印度香饭（biryani）、印度煎饼（roti prata）和鱼头咖喱——建议在上午11点前或下午2点后前往，以避开午餐高峰人潮。
 faq:
   - q: 如何前往竹脚中心？

@@ -1,44 +1,53 @@
 ---
-title: "Borneo Cultures Museum: Kuching Travel Guide (4.7★)"
-description: "The Borneo Cultures Museum, on Jalan Tun Abang Haji Openg in central Kuching, is one of Malaysia's best-executed museums — five sprawling floors covering Sarawak's indigenous cultures, wildlife and archaeology. 4.7★ (4,649 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "attraction"
-pubDate: "2026-08-19T09:03:43.990Z"
+title: 'Borneo Cultures Museum: Kuching Travel Guide (4.7★)'
+description: >-
+  The Borneo Cultures Museum, on Jalan Tun Abang Haji Openg in central Kuching,
+  is one of Malaysia's best-executed museums — five sprawling floors covering
+  Sarawak's indigenous cultures, wildlife and archaeology. 4.7★ (4,698 reviews)
+  — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: attraction
+pubDate: '2026-08-19T09:03:43.990Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg/1920px-Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg"
-  credit: "Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg/1920px-Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg
+  credit: 'Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Borneo_Cultures_Museum_view_from_the_backyard_garden.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg/3840px-Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg"
-    credit: "Photo: 愛子棋枰 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg/3840px-Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg
+    credit: 'Photo: 愛子棋枰 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Front_view_of_Borneo_Cultural_Museum_20220408153640.jpg
 place:
-  id: "ChIJJQQqoDGn-zERTw2i1LGpqnk"
-  name: "Borneo Cultures Museum"
-  address: "Jalan Tun Abang Haji Openg, 93400 Kuching, Sarawak, Malaysia"
+  id: ChIJJQQqoDGn-zERTw2i1LGpqnk
+  name: Borneo Cultures Museum
+  address: 'Jalan Tun Abang Haji Openg, 93400 Kuching, Sarawak, Malaysia'
   rating: 4.7
-  userRatingsTotal: 4649
-  googleMapsUrl: "https://maps.google.com/?cid=8767006205871787343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4698
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8767006205871787343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.5554849000000002
   lng: 110.34237879999999
-  phone: "+60 82-548 215"
+  phone: +60 82-548 215
   openingHours:
-    - "Monday: 9:00 AM – 4:45 PM"
-    - "Tuesday: 9:00 AM – 4:45 PM"
-    - "Wednesday: 9:00 AM – 4:45 PM"
-    - "Thursday: 9:00 AM – 4:45 PM"
-    - "Friday: 9:00 AM – 4:45 PM"
-    - "Saturday: 9:30 AM – 4:30 PM"
-    - "Sunday: 9:30 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:45 PM'
+    - 'Tuesday: 9:00 AM – 4:45 PM'
+    - 'Wednesday: 9:00 AM – 4:45 PM'
+    - 'Thursday: 9:00 AM – 4:45 PM'
+    - 'Friday: 9:00 AM – 4:45 PM'
+    - 'Saturday: 9:30 AM – 4:30 PM'
+    - 'Sunday: 9:30 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -46,24 +55,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6b6e7170474c316932775452457a2d6e47446f7151514a4a496843"
+    venueId: ven_6b6e7170474c316932775452457a2d6e47446f7151514a4a496843
 tags:
-  - "kuching"
-  - "museum"
-quickAnswer: "The Borneo Cultures Museum, on Jalan Tun Abang Haji Openg in central Kuching, is one of Malaysia's best-executed museums — five sprawling floors covering Sarawak's indigenous cultures, wildlife and archaeology. Go on a weekday between 9am and 10am to beat the crowds, and budget at least two to three hours. It's open daily except it closes slightly earlier on weekends (4:30pm vs 4:45pm on weekdays)."
+  - kuching
+  - museum
+quickAnswer: >-
+  The Borneo Cultures Museum, on Jalan Tun Abang Haji Openg in central Kuching,
+  is one of Malaysia's best-executed museums — five sprawling floors covering
+  Sarawak's indigenous cultures, wildlife and archaeology. Go on a weekday
+  between 9am and 10am to beat the crowds, and budget at least two to three
+  hours. It's open daily except it closes slightly earlier on weekends (4:30pm
+  vs 4:45pm on weekdays).
 faq:
-  - q: "How long should I spend at the Borneo Cultures Museum?"
-    a: "Plan for two to three hours at minimum. With five full floors of dense exhibits, enthusiasts often spend four hours or more."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am, right at opening, are consistently the calmest. Avoid weekend afternoons from 12pm to 4pm, when it's busiest."
-  - q: "What are the opening hours?"
-    a: "9:00 AM–4:45 PM Monday to Friday, and a slightly shorter 9:30 AM–4:30 PM on Saturday and Sunday. Confirm hours before visiting in case of holiday changes."
-  - q: "How do I get to the museum from central Kuching?"
-    a: "It's a 10–15 minute walk along the waterfront promenade from the Old Bazaar area, or a short, inexpensive Grab or taxi ride from anywhere else in the city."
-  - q: "What else is nearby to combine with the visit?"
-    a: "The Old Courthouse complex, Kuching Waterfront promenade, and Chinese History Museum are all within easy walking distance for a full half-day itinerary."
+  - q: How long should I spend at the Borneo Cultures Museum?
+    a: >-
+      Plan for two to three hours at minimum. With five full floors of dense
+      exhibits, enthusiasts often spend four hours or more.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am, right at opening, are consistently the
+      calmest. Avoid weekend afternoons from 12pm to 4pm, when it's busiest.
+  - q: What are the opening hours?
+    a: >-
+      9:00 AM–4:45 PM Monday to Friday, and a slightly shorter 9:30 AM–4:30 PM
+      on Saturday and Sunday. Confirm hours before visiting in case of holiday
+      changes.
+  - q: How do I get to the museum from central Kuching?
+    a: >-
+      It's a 10–15 minute walk along the waterfront promenade from the Old
+      Bazaar area, or a short, inexpensive Grab or taxi ride from anywhere else
+      in the city.
+  - q: What else is nearby to combine with the visit?
+    a: >-
+      The Old Courthouse complex, Kuching Waterfront promenade, and Chinese
+      History Museum are all within easy walking distance for a full half-day
+      itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why it's worth your time

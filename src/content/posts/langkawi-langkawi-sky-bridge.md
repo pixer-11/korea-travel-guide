@@ -1,30 +1,40 @@
 ---
 title: 'Langkawi Sky Bridge: Travel Guide (4.6★)'
-description: The Langkawi Sky Bridge is a 125-metre curved suspension bridge at the top of Gunung Mat Cincang, reached via the SkyCab cable car from Oriental Village. 4.6★ (20,477 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Langkawi Sky Bridge is a 125-metre curved suspension bridge at the top of
+  Gunung Mat Cincang, reached via the SkyCab cable car from Oriental Village.
+  4.6★ (20,554 reviews) — what visitors say, hours, and tips.
 country: Malaysia
 region: Langkawi
 category: attraction
 pubDate: '2026-08-18T09:02:58.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Langkawi_cablecar_bridge.jpg
-  credit: 'Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f9/Langkawi_cablecar_bridge.jpg
+  credit: >-
+    Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA
+    2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Langkawi_cablecar_bridge.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Langkawi_cablecar_bridge.jpg'
   focus:
     x: 60
     'y': 60
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Langkawi_cablecar_bridge.jpg/1280px-Langkawi_cablecar_bridge.jpg
-    credit: 'Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Langkawi_cablecar_bridge.jpg/1280px-Langkawi_cablecar_bridge.jpg
+    credit: >-
+      Photo: Cheon Fong Liew from Kluang, Malaysia / Wikimedia Commons (CC BY-SA
+      2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Langkawi_cablecar_bridge.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Langkawi_cablecar_bridge.jpg'
 place:
   id: ChIJw2-THMR2TDARwykmuG158jY
   name: Langkawi Sky Bridge
-  address: 07000 Langkawi, Kedah, Malaysia
+  address: '07000 Langkawi, Kedah, Malaysia'
   rating: 4.6
-  userRatingsTotal: 20477
-  googleMapsUrl: https://maps.google.com/?cid=3959360534559992259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 20554
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3959360534559992259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 6.3865685999999995
   lng: 99.6619881
@@ -57,20 +67,39 @@ place:
 tags:
   - langkawi
   - museum
-quickAnswer: The Langkawi Sky Bridge is a 125-metre curved suspension bridge at the top of Gunung Mat Cincang, reached via the SkyCab cable car from Oriental Village. It's open daily 9:30am–6pm; go right at opening or in the last hour (5–6pm) to dodge the crowds, since 11am–4pm on weekends gets packed. Budget half a day once you factor in cable car queues.
+quickAnswer: >-
+  The Langkawi Sky Bridge is a 125-metre curved suspension bridge at the top of
+  Gunung Mat Cincang, reached via the SkyCab cable car from Oriental Village.
+  It's open daily 9:30am–6pm; go right at opening or in the last hour (5–6pm) to
+  dodge the crowds, since 11am–4pm on weekends gets packed. Budget half a day
+  once you factor in cable car queues.
 faq:
   - q: How do you get to the Langkawi Sky Bridge?
-    a: You take the SkyCab cable car from Oriental Village in Burau Bay, on Langkawi's northwest coast. It's a two-stage cable car ride of about 15 minutes, followed by a short walk to the bridge.
+    a: >-
+      You take the SkyCab cable car from Oriental Village in Burau Bay, on
+      Langkawi's northwest coast. It's a two-stage cable car ride of about 15
+      minutes, followed by a short walk to the bridge.
   - q: What are the opening hours?
-    a: The Sky Bridge and SkyCab operate daily from 9:30am to 6:00pm. There are no reduced days — hours are the same all week.
+    a: >-
+      The Sky Bridge and SkyCab operate daily from 9:30am to 6:00pm. There are
+      no reduced days — hours are the same all week.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest between 5pm and 6pm, right before closing. Weekend crowds peak between 11am and 4pm, so avoid that window if you can.
+    a: >-
+      Both weekdays and weekends are calmest between 5pm and 6pm, right before
+      closing. Weekend crowds peak between 11am and 4pm, so avoid that window if
+      you can.
   - q: How long should I plan for the visit?
-    a: Budget at least half a day. The cable car and bridge crossing itself takes under an hour, but queues at busy times can add significantly more.
+    a: >-
+      Budget at least half a day. The cable car and bridge crossing itself takes
+      under an hour, but queues at busy times can add significantly more.
   - q: Is the cable car ticket the same as the bridge ticket?
-    a: Yes — the SkyCab cable car ticket is what gets you up the mountain and includes access to the Sky Bridge; there's no separate entry fee once you're at the top.
+    a: >-
+      Yes — the SkyCab cable car ticket is what gets you up the mountain and
+      includes access to the Sky Bridge; there's no separate entry fee once
+      you're at the top.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

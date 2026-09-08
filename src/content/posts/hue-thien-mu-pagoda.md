@@ -1,40 +1,46 @@
 ---
-title: "Thien Mu Pagoda: Hue Travel Guide (4.6★)"
-description: "Thien Mu Pagoda sits on the north bank of the Perfume River in Kim Long, about 5km west of Hue's Imperial City, and it's open daily 7am–5:30pm. 4.6★ (20,133 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Hue"
-category: "attraction"
-pubDate: "2026-09-08T14:26:18.632Z"
+title: 'Thien Mu Pagoda: Hue Travel Guide (4.6★)'
+description: >-
+  Thien Mu Pagoda sits on the north bank of the Perfume River in Kim Long, about
+  5km west of Hue's Imperial City, and it's open daily 7am–5:30pm. 4.6★ (20,134
+  reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Hue
+category: attraction
+pubDate: '2026-09-08T14:26:18.632Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg/3840px-Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg/3840px-Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg
+  via: act
   focus:
     x: 49
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ0wVgLJemQTERunn1THqLJvc"
-  name: "Thien Mu Pagoda"
-  address: "Kim Long, Hue 532761, Vietnam"
+  id: ChIJ0wVgLJemQTERunn1THqLJvc
+  name: Thien Mu Pagoda
+  address: 'Kim Long, Hue 532761, Vietnam'
   rating: 4.6
-  userRatingsTotal: 20133
-  googleMapsUrl: "https://maps.google.com/?cid=17809075133876631994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20134
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17809075133876631994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.4531778
   lng: 107.54483309999999
   openingHours:
-    - "Monday: 7:00 AM – 5:30 PM"
-    - "Tuesday: 7:00 AM – 5:30 PM"
-    - "Wednesday: 7:00 AM – 5:30 PM"
-    - "Thursday: 7:00 AM – 5:30 PM"
-    - "Friday: 7:00 AM – 5:30 PM"
-    - "Saturday: 7:00 AM – 5:30 PM"
-    - "Sunday: 7:00 AM – 5:30 PM"
+    - 'Monday: 7:00 AM – 5:30 PM'
+    - 'Tuesday: 7:00 AM – 5:30 PM'
+    - 'Wednesday: 7:00 AM – 5:30 PM'
+    - 'Thursday: 7:00 AM – 5:30 PM'
+    - 'Friday: 7:00 AM – 5:30 PM'
+    - 'Saturday: 7:00 AM – 5:30 PM'
+    - 'Sunday: 7:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-09-08
+    updated: 2026-09-08T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -48,24 +54,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_63764a4c714854316e6e75524554516d654a4c675677304a496843"
+    venueId: ven_63764a4c714854316e6e75524554516d654a4c675677304a496843
 tags:
-  - "hue"
-  - "historic site"
-quickAnswer: "Thien Mu Pagoda sits on the north bank of the Perfume River in Kim Long, about 5km west of Hue's Imperial City, and it's open daily 7am–5:30pm. Come right at opening between 7am and 9am, the quietest window on both weekdays and weekends, since tour buses fill the grounds from 10am to 5pm. Plan on 45 minutes to an hour, longer if you arrive by boat along the river."
+  - hue
+  - historic site
+quickAnswer: >-
+  Thien Mu Pagoda sits on the north bank of the Perfume River in Kim Long, about
+  5km west of Hue's Imperial City, and it's open daily 7am–5:30pm. Come right at
+  opening between 7am and 9am, the quietest window on both weekdays and
+  weekends, since tour buses fill the grounds from 10am to 5pm. Plan on 45
+  minutes to an hour, longer if you arrive by boat along the river.
 faq:
-  - q: "What are the opening hours for Thien Mu Pagoda?"
-    a: "It's open daily from 7:00am to 5:30pm, with no variation by day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 7am and 9am, right after opening. Weekends from 10am to 5pm draw the biggest tour bus crowds, so avoid that window if possible."
-  - q: "How do I get to Thien Mu Pagoda from central Hue?"
-    a: "It's about 4-5km from the Imperial City in Kim Long ward. Take a taxi or motorbike along Kim Long street (10-15 minutes), or a dragon boat from the docks near Trang Tien Bridge (30-40 minutes, more scenic)."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour to see the tower, sanctuary, gardens, and the historic Austin car at the rear. Add travel time if arriving by river boat."
-  - q: "Is there an entrance fee?"
-    a: "There was no admission charge as of recent visits, only a donation box near the entrance, but confirm with your hotel or driver before going since this can change."
+  - q: What are the opening hours for Thien Mu Pagoda?
+    a: >-
+      It's open daily from 7:00am to 5:30pm, with no variation by day of the
+      week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 7am and 9am, right after
+      opening. Weekends from 10am to 5pm draw the biggest tour bus crowds, so
+      avoid that window if possible.
+  - q: How do I get to Thien Mu Pagoda from central Hue?
+    a: >-
+      It's about 4-5km from the Imperial City in Kim Long ward. Take a taxi or
+      motorbike along Kim Long street (10-15 minutes), or a dragon boat from the
+      docks near Trang Tien Bridge (30-40 minutes, more scenic).
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 45 minutes to an hour to see the tower, sanctuary,
+      gardens, and the historic Austin car at the rear. Add travel time if
+      arriving by river boat.
+  - q: Is there an entrance fee?
+    a: >-
+      There was no admission charge as of recent visits, only a donation box
+      near the entrance, but confirm with your hotel or driver before going
+      since this can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 Seven tiled roofs stack above the treeline as you approach from the river road, each tier smaller than the one below it, the whole tower the color of old brick left in the sun. This is the Phuoc Duyen tower, and it's what every photo of Hue's skyline is quietly borrowing from. The pagoda behind it dates to 1601, making it one of the oldest religious structures in the city, and monks still live and study on the grounds today.

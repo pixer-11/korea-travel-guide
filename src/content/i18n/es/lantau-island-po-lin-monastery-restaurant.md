@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lantau-island-po-lin-monastery-restaurant
-srcHash: 'd1066766ccdc'
+srcHash: 'e8dcf2451fb9'
 title: 'Restaurante del Monasterio Po Lin: dónde comer en la isla de Lantau'
-description: 'El restaurante del Monasterio Po Lin ofrece un almuerzo totalmente vegetariano, principalmente de menú fijo, dentro del recinto del monasterio en Ngong Ping, justo al lado del Buda Tian Tan, todos los días de 11:30 a 17:00. 4.0★ (837 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El restaurante del Monasterio Po Lin ofrece un almuerzo totalmente vegetariano, principalmente de menú fijo, dentro del recinto del monasterio en Ngong Ping, justo al lado del Buda Tian Tan, todos los días de 11:30 a 17:00. 4.0★ (840 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El restaurante del Monasterio Po Lin ofrece un almuerzo totalmente vegetariano, principalmente de menú fijo, dentro del recinto del monasterio en Ngong Ping, justo al lado del Buda Tian Tan, todos los días de 11:30 a 17:00. Compre su ticket de comida en el mostrador cercano a la entrada, antes o después de visitar al Buda, y si puede, vaya entre semana, ya que los fines de semana llegan multitudes en el teleférico. Calcule un par de horas en total entre el monasterio y la comida.
 faq:
   - q: ¿Cuál es el horario del restaurante del Monasterio Po Lin?

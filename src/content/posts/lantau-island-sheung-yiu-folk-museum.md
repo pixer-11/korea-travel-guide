@@ -1,59 +1,83 @@
 ---
-title: "Sheung Yiu Folk Museum: Sai Kung Travel Guide (4.0★)"
-description: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, near Pak Tam Chung. 4.0★ (658 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "attraction"
-pubDate: "2026-08-31T12:35:04.317Z"
+title: 'Sheung Yiu Folk Museum: Sai Kung Travel Guide (4.0★)'
+description: >-
+  Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories,
+  near Pak Tam Chung. 4.0★ (659 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sai Kung
+category: attraction
+pubDate: '2026-08-31T12:35:04.317Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sheung_Yiu_Folk_Museum_02.jpg/1920px-Sheung_Yiu_Folk_Museum_02.jpg"
-  credit: "Photo: Underwaterbuffalo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sheung_Yiu_Folk_Museum_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sheung_Yiu_Folk_Museum_02.jpg/1920px-Sheung_Yiu_Folk_Museum_02.jpg
+  credit: 'Photo: Underwaterbuffalo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sheung_Yiu_Folk_Museum_02.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/10223070_Gtv_6a_F0Jm6ETZvNwedjPNqoO7rbm-q2UyzPjqykOc.jpg"
-    credit: "Photo: Foursquare user content (Sheung Yiu Folk Museum (上窰民俗文物館))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4f558971e4b0131bc372a27d"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/10223070_Gtv_6a_F0Jm6ETZvNwedjPNqoO7rbm-q2UyzPjqykOc.jpg
+    credit: 'Photo: Foursquare user content (Sheung Yiu Folk Museum (上窰民俗文物館))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4f558971e4b0131bc372a27d'
 place:
-  id: "ChIJWeBrw1kFBDQRbw_J94TuETE"
-  name: "Sheung Yiu Folk Museum"
-  address: "Sai Kung, New Territories, Hong Kong"
+  id: ChIJWeBrw1kFBDQRbw_J94TuETE
+  name: Sheung Yiu Folk Museum
+  address: 'Sai Kung, New Territories, Hong Kong'
   rating: 4
-  userRatingsTotal: 658
-  googleMapsUrl: "https://maps.google.com/?cid=3535869437322792815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 659
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3535869437322792815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.392597199999997
   lng: 114.321373
-  phone: "+852 2792 6365"
+  phone: +852 2792 6365
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "sai kung"
-  - "museum"
-quickAnswer: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, near Pak Tam Chung. It's a small, free-to-enter recreation of an 1800s Hakka walled village with original farming tools and household objects, best visited on a weekday morning when the site is nearly empty. Allow 30–45 minutes; it's open daily except Tuesdays, 10am to 6pm."
+  - sai kung
+  - museum
+quickAnswer: >-
+  Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories,
+  near Pak Tam Chung. It's a small, free-to-enter recreation of an 1800s Hakka
+  walled village with original farming tools and household objects, best visited
+  on a weekday morning when the site is nearly empty. Allow 30–45 minutes; it's
+  open daily except Tuesdays, 10am to 6pm.
 faq:
-  - q: "Is Sheung Yiu Folk Museum on Lantau Island?"
-    a: "No. It's in Sai Kung Country Park in the New Territories. If you specifically want Lantau, look at Tai O fishing village or the Big Buddha instead."
-  - q: "How do I get to Sheung Yiu Folk Museum?"
-    a: "Take a bus or taxi to Sai Kung town, then a minibus to Pak Tam Chung. From there it's a flat, roughly 20-minute walk along a paved path to the museum entrance."
-  - q: "How much does it cost and how long should I spend there?"
-    a: "Entry is free. Most visitors spend 30 to 45 minutes walking through the restored village buildings and reading the exhibits."
-  - q: "What days is it open?"
-    a: "It's open 10am to 6pm every day except Tuesday, when it's closed. Confirm hours before visiting, especially around public holidays."
-  - q: "When is the best time to avoid crowds?"
-    a: "It's generally quiet since it's not a major tourist draw, but weekday mornings right after the 10am opening are the calmest, especially compared to weekends when nearby hiking trails bring more foot traffic."
+  - q: Is Sheung Yiu Folk Museum on Lantau Island?
+    a: >-
+      No. It's in Sai Kung Country Park in the New Territories. If you
+      specifically want Lantau, look at Tai O fishing village or the Big Buddha
+      instead.
+  - q: How do I get to Sheung Yiu Folk Museum?
+    a: >-
+      Take a bus or taxi to Sai Kung town, then a minibus to Pak Tam Chung. From
+      there it's a flat, roughly 20-minute walk along a paved path to the museum
+      entrance.
+  - q: How much does it cost and how long should I spend there?
+    a: >-
+      Entry is free. Most visitors spend 30 to 45 minutes walking through the
+      restored village buildings and reading the exhibits.
+  - q: What days is it open?
+    a: >-
+      It's open 10am to 6pm every day except Tuesday, when it's closed. Confirm
+      hours before visiting, especially around public holidays.
+  - q: When is the best time to avoid crowds?
+    a: >-
+      It's generally quiet since it's not a major tourist draw, but weekday
+      mornings right after the 10am opening are the calmest, especially compared
+      to weekends when nearby hiking trails bring more foot traffic.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 Sheung Yiu Folk Museum is in Sai Kung Country Park, in the New Territories, near the Pak Tam Chung entrance to the park.

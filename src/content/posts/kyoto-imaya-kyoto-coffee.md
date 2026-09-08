@@ -1,37 +1,44 @@
 ---
 title: 'IMAYA Kyoto &COFFEE: Travel Guide'
-description: IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a stripped-back concrete-and-wood space.
+description: >-
+  IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving
+  Italian-style espresso drinks, natural wine, beer, and light bites in a
+  stripped-back concrete-and-wood space.
 country: Japan
 region: Kyoto
 category: trendy
 pubDate: '2026-07-22T09:02:23.523Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/39040510_YD1kSIvou1MCkUpZCEcQCDvSyHeBFhbIKSYYliy-XOI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/39040510_YD1kSIvou1MCkUpZCEcQCDvSyHeBFhbIKSYYliy-XOI.jpg
   credit: 'Photo: Foursquare user content (Imaya Kyoto & Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/61d23d2481086d1b34b6ab86
+  source: 'https://foursquare.com/v/61d23d2481086d1b34b6ab86'
 gallery: []
 place:
   id: ChIJUVr-PIEIAWARCXbUgBfvb34
   name: IMAYA Kyoto &COFFEE
-  address: 726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, 604-0034, Japan
+  address: '726-4 Shimomatsuyachō, Nakagyo Ward, Kyoto, 604-0034, Japan'
   rating: 4.8
-  userRatingsTotal: 1223
-  googleMapsUrl: https://maps.google.com/?cid=9110763455418496521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1265
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9110763455418496521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.0114868
   lng: 135.7558071
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12]
-    weekendQuiet: [12]
+    weekdayQuiet:
+      - 12
+    weekendQuiet:
+      - 12
     weekendBusy:
       - 8
       - 9
       - 10
       - 11
     venueId: ven_343362766642675562584352415741494549502d7256554a496843
-  phone: '+81 75-205-5281'
+  phone: +81 75-205-5281
   openingHours:
     - 'Monday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
     - 'Tuesday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
@@ -43,20 +50,41 @@ place:
 tags:
   - kyoto
   - trendy cafe
-quickAnswer: IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving Italian-style espresso drinks, natural wine, beer, and light bites in a stripped-back concrete-and-wood space. It's best visited mid-morning on a weekday to snag a seat, and pairs naturally with a wander through the Nishiki Market/Teramachi shopping arcades a few minutes away. Budget 30-45 minutes for a coffee stop, longer if you're settling in with a snack or drink.
+quickAnswer: >-
+  IMAYA Kyoto &COFFEE is a compact, design-forward café in Nakagyo Ward serving
+  Italian-style espresso drinks, natural wine, beer, and light bites in a
+  stripped-back concrete-and-wood space. It's best visited mid-morning on a
+  weekday to snag a seat, and pairs naturally with a wander through the Nishiki
+  Market/Teramachi shopping arcades a few minutes away. Budget 30-45 minutes for
+  a coffee stop, longer if you're settling in with a snack or drink.
 faq:
   - q: How do I get to IMAYA Kyoto &COFFEE by subway?
-    a: Take the Karasuma or Tozai subway line to Karasuma Oike Station, or the Tozai Line to Kyoto Shiyakusho-mae Station. Both leave about a 10-15 minute walk to the café in Nakagyo Ward.
+    a: >-
+      Take the Karasuma or Tozai subway line to Karasuma Oike Station, or the
+      Tozai Line to Kyoto Shiyakusho-mae Station. Both leave about a 10-15
+      minute walk to the café in Nakagyo Ward.
   - q: How long should I plan to spend there?
-    a: About 30-45 minutes for a coffee, longer if you order light food or a beer, since the space is small and better suited to a focused stop than a long work session.
+    a: >-
+      About 30-45 minutes for a coffee, longer if you order light food or a
+      beer, since the space is small and better suited to a focused stop than a
+      long work session.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings or the mid-afternoon lull between lunch and evening are quieter; weekends see heavier foot traffic since the café sits near Nishiki Market.
+    a: >-
+      Weekday mornings or the mid-afternoon lull between lunch and evening are
+      quieter; weekends see heavier foot traffic since the café sits near
+      Nishiki Market.
   - q: What should I order?
-    a: Go for the Italian-style espresso drinks the café is known for, and pair with one of the light snacks on the menu; it also serves beer if you're stopping by later in the day.
+    a: >-
+      Go for the Italian-style espresso drinks the café is known for, and pair
+      with one of the light snacks on the menu; it also serves beer if you're
+      stopping by later in the day.
   - q: What else is nearby?
-    a: Nishiki Market, the Teramachi and Shinkyogoku shopping arcades, and the Kyoto International Manga Museum are all within easy walking distance in the same downtown Nakagyo district.
+    a: >-
+      Nishiki Market, the Teramachi and Shinkyogoku shopping arcades, and the
+      Kyoto International Manga Museum are all within easy walking distance in
+      the same downtown Nakagyo district.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

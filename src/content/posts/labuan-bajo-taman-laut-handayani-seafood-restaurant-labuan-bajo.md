@@ -1,40 +1,54 @@
 ---
 title: 'Taman Laut Handayani Seafood Restaurant: Where to Eat in Labuan Bajo'
-description: "Taman Laut Handayani is a large, harborside seafood restaurant on Jl. Ande Bole in central Labuan Bajo, known for pick-your-own fresh catch grilled to order and sunset views over the bay."
+description: >-
+  Taman Laut Handayani is a large, harborside seafood restaurant on Jl. Ande
+  Bole in central Labuan Bajo, known for pick-your-own fresh catch grilled to
+  order and sunset views over the bay.
 country: Indonesia
 region: Labuan Bajo
 category: restaurant
 pubDate: '2026-07-23T07:28:47.842Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1165129_dOR1qKyFJtLVQuj883xi7HVimaWVdoSvQnsanUY_Tpw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1165129_dOR1qKyFJtLVQuj883xi7HVimaWVdoSvQnsanUY_Tpw.jpg
   credit: 'Photo: Foursquare user content (Taman Laut Handayani)'
   license: foursquare
-  source: https://foursquare.com/v/5fc38eafc4507c616c0ec8fd
+  source: 'https://foursquare.com/v/5fc38eafc4507c616c0ec8fd'
 place:
   id: ChIJf1NEi61ntC0RtjeuIGFttDo
   name: Taman Laut Handayani Seafood Restaurant Labuan Bajo
-  address: Jl. Ande Bole No.9, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia
+  address: >-
+    Jl. Ande Bole No.9, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat,
+    Nusa Tenggara Tim., Indonesia
   rating: 4.6
-  userRatingsTotal: 5694
+  userRatingsTotal: 5846
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=4230126213935282102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4230126213935282102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.4919536
   lng: 119.87844249999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 11, 12]
+    weekdayQuiet:
+      - 10
+      - 11
+      - 12
     weekdayBusy:
       - 18
       - 19
       - 20
-    weekendQuiet: [10, 11, 12, 13]
+    weekendQuiet:
+      - 10
+      - 11
+      - 12
+      - 13
     weekendBusy:
       - 18
       - 19
       - 20
     venueId: ven_6f44747446474975656a74523043746e313669454e31664a496843
-  phone: '+62 853-3388-8827'
+  phone: +62 853-3388-8827
   openingHours:
     - 'Monday: 10:00 AM – 10:00 PM'
     - 'Tuesday: 10:00 AM – 10:00 PM'
@@ -46,20 +60,43 @@ place:
 tags:
   - labuan bajo
   - street food
-quickAnswer: Taman Laut Handayani is a large, harborside seafood restaurant on Jl. Ande Bole in central Labuan Bajo, known for pick-your-own fresh catch grilled to order and sunset views over the bay. It's a very popular, mid-priced spot (4.6 stars, over 5,700 reviews) — go right at opening or well before typical dinner rush to avoid a wait, and budget an hour to 90 minutes for a full seafood meal.
+quickAnswer: >-
+  Taman Laut Handayani is a large, harborside seafood restaurant on Jl. Ande
+  Bole in central Labuan Bajo, known for pick-your-own fresh catch grilled to
+  order and sunset views over the bay. It's a very popular, mid-priced spot (4.6
+  stars, over 5,700 reviews) — go right at opening or well before typical dinner
+  rush to avoid a wait, and budget an hour to 90 minutes for a full seafood
+  meal.
 faq:
   - q: How much does a meal at Taman Laut Handayani cost?
-    a: It's mid-priced for Labuan Bajo (price level 2 of 4), but seafood is typically sold by weight at market rate, so the bill depends on what and how much you order. Confirm the per-kilogram price with staff before they cook your selection.
+    a: >-
+      It's mid-priced for Labuan Bajo (price level 2 of 4), but seafood is
+      typically sold by weight at market rate, so the bill depends on what and
+      how much you order. Confirm the per-kilogram price with staff before they
+      cook your selection.
   - q: Do I need a reservation?
-    a: Formal reservations aren't standard for this type of casual seafood restaurant, but given its popularity and 5,700+ reviews, arriving before 6:30 pm or after the 7–8 pm rush improves your chances of a table without a long wait.
+    a: >-
+      Formal reservations aren't standard for this type of casual seafood
+      restaurant, but given its popularity and 5,700+ reviews, arriving before
+      6:30 pm or after the 7–8 pm rush improves your chances of a table without
+      a long wait.
   - q: How do I get there from central Labuan Bajo?
-    a: The restaurant is on Jl. Ande Bole, walkable (10–20 minutes) from most harborfront hotels, or a short ojek/taxi ride from anywhere in town. It's about a 10-minute drive from Komodo Airport.
+    a: >-
+      The restaurant is on Jl. Ande Bole, walkable (10–20 minutes) from most
+      harborfront hotels, or a short ojek/taxi ride from anywhere in town. It's
+      about a 10-minute drive from Komodo Airport.
   - q: How long should I plan to spend there?
-    a: Budget around an hour to 90 minutes for a full seafood meal, including selecting your catch, waiting for it to be cooked, and eating — longer if you're timing it around sunset.
+    a: >-
+      Budget around an hour to 90 minutes for a full seafood meal, including
+      selecting your catch, waiting for it to be cooked, and eating — longer if
+      you're timing it around sunset.
   - q: What should I order?
-    a: Grilled red snapper or grouper (ikan bakar), prawns, and squid are popular choices; pair with kangkung plecing, rice, and sambal. Ask about the day's freshest catch when you arrive.
+    a: >-
+      Grilled red snapper or grouper (ikan bakar), prawns, and squid are popular
+      choices; pair with kangkung plecing, rice, and sambal. Ask about the day's
+      freshest catch when you arrive.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

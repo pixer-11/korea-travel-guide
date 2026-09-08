@@ -1,9 +1,9 @@
 ---
-srcHash: '6d199e5f4e19'
+srcHash: 'ebfd5441f40a'
 lang: es
 slug: labuan-bajo-mimamori-cafe-labuan-bajo
 title: 'MIMAMORI CAFE: Guía de viaje de Labuan Bajo'
-description: 'Mimamori Cafe es una cafetería relajada en Jl. Soekarno Hatta, Labuan Bajo, a poca distancia en taxi o scooter del puerto. Ideal para un desayuno tranquilo, un café espresso y buen wifi antes o después de un tour por Komodo. 4.8★ (857 reseñas): opiniones, horarios y consejos.'
+description: 'Mimamori Cafe es una cafetería relajada en Jl. Soekarno Hatta, Labuan Bajo, a poca distancia en taxi o scooter del puerto. Ideal para un desayuno tranquilo, un café espresso y buen wifi antes o después de un tour por Komodo. 4.7★ (919 reseñas): opiniones, horarios y consejos.'
 quickAnswer: Mimamori Cafe es una cafetería tranquila en Jl. Soekarno Hatta en Labuan Bajo, a un corto trayecto en taxi o scooter desde el puerto, que vale la pena visitar para un desayuno sin prisas, una bebida a base de espresso y wifi decente antes o después de una excursión en barco a Komodo. Tiene una calificación de 4.8 sobre 856 reseñas, así que conviene llegar en una hora de menor afluencia para conseguir asiento y disfrutarla mientras aún no está llena.
 faq:
   - q: ¿Cómo llego a Mimamori Cafe desde el puerto o el aeropuerto?
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué ir
 
-El frente portuario de Labuan Bajo está repleto de operadores de barcos, tiendas de buceo y restaurantes con menús turísticos, pero Mimamori Cafe se ubica algo apartado de ese bullicio, en Jl. Soekarno Hatta, la principal arteria de la ciudad. Se ha ganado su reputación a fuego lento: una calificación de 4.8 sobre 856 reseñas es inusualmente alta para una cafetería en una ciudad donde el turismo rota con rapidez, y todavía no ha sido absorbida por el circuito estándar de las agencias de tours.
+El frente portuario de Labuan Bajo está repleto de operadores de barcos, tiendas de buceo y restaurantes con menús turísticos, pero Mimamori Cafe se ubica algo apartado de ese bullicio, en Jl. Soekarno Hatta, la principal arteria de la ciudad. Se ha ganado su reputación a fuego lento: una calificación de 4.7 sobre 856 reseñas es inusualmente alta para una cafetería en una ciudad donde el turismo rota con rapidez, y todavía no ha sido absorbida por el circuito estándar de las agencias de tours.
 
 Eso la convierte en una opción genuinamente relajada si buscas un buen café, un plato de comida que no se sirva con prisa, y un lugar donde sentarte con la laptop o una guía de viaje sin que los camareros ronden esperando la próxima mesa.
 

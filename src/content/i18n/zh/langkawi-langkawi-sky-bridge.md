@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: langkawi-langkawi-sky-bridge
-srcHash: 'a9fc32db79a6'
+srcHash: '65dd0daaabd2'
 title: 兰卡威天空之桥旅行指南（4.6★）
-description: 兰卡威天空之桥是一座长125米的弧形悬索桥，坐落在瑞士山（Gunung Mat Cincang）山顶，需从东方村（Oriental Village）搭乘天空缆车（SkyCab）前往。4.6★（20,477条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 兰卡威天空之桥是一座长125米的弧形悬索桥，坐落在瑞士山（Gunung Mat Cincang）山顶，需从东方村（Oriental Village）搭乘天空缆车（SkyCab）前往。4.6★（20,554条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 兰卡威天空之桥是一座长125米的弧形悬索桥，坐落在瑞士山（Gunung Mat Cincang）山顶，需从东方村（Oriental Village）搭乘天空缆车（SkyCab）前往。这里每天9:30am至6pm开放，建议一开门就去，或者赶在关门前的最后一小时（5–6pm）前往，以避开人潮，因为周末11am至4pm时段总是人满为患。算上缆车排队的时间，游玩这里最好留出半天。
 faq:
   - q: 如何前往兰卡威天空之桥？

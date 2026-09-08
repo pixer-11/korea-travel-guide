@@ -1,25 +1,33 @@
 ---
 title: 'MIMAMORI CAFE: Labuan Bajo Travel Guide'
-description: 'Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow breakfast, an espresso-based drink, and decent wifi before or after a Komodo boat trip. 4.8★ (857 reviews) — what visitors say, hours, and tips.'
+description: >-
+  Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo,
+  a short taxi or scooter ride from the harbor, worth a stop for a slow
+  breakfast, an espresso-based drink, and decent wifi before or after a Komodo
+  boat trip. 4.7★ (919 reviews) — what visitors say, hours, and tips.
 country: Indonesia
 region: Labuan Bajo
 category: trendy
 pubDate: '2026-07-23T07:24:46.448Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/565826740_OiipWVIUIDF27R4gwDsma-B_q4z_8Jx1uLP0f_0SXXw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/565826740_OiipWVIUIDF27R4gwDsma-B_q4z_8Jx1uLP0f_0SXXw.jpg
   credit: 'Photo: Foursquare user content (Mimamori)'
   license: foursquare
-  source: https://foursquare.com/v/64489db4b2619e5f1829c21b
+  source: 'https://foursquare.com/v/64489db4b2619e5f1829c21b'
   focus:
     x: 40
     'y': 30
 place:
   id: ChIJb7aGlxdntC0R2DY0bQBMPAE
   name: MIMAMORI CAFE LABUAN BAJO
-  address: Jl. Soekarno Hatta, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim. 86754, Indonesia
-  rating: 4.8
-  userRatingsTotal: 857
-  googleMapsUrl: https://maps.google.com/?cid=89029657356416728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    Jl. Soekarno Hatta, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat,
+    Nusa Tenggara Tim. 86754, Indonesia
+  rating: 4.7
+  userRatingsTotal: 919
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=89029657356416728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.4931356
   lng: 119.8776747
@@ -27,7 +35,9 @@ place:
     updated: '2026-07-23'
     weekdayBusy:
       - 9
-    weekendQuiet: [18, 19]
+    weekendQuiet:
+      - 18
+      - 19
     weekendBusy:
       - 8
       - 9
@@ -38,7 +48,7 @@ place:
       - 17
     venueId: ven_4541504d42516230594432523043746e64786c476137624a496843
   priceLevel: 2
-  phone: '+62 811-3800-0767'
+  phone: +62 811-3800-0767
   openingHours:
     - 'Monday: 6:30 AM – 8:00 PM'
     - 'Tuesday: 6:30 AM – 8:00 PM'
@@ -50,25 +60,43 @@ place:
 tags:
   - labuan bajo
   - trendy cafe
-quickAnswer: Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo, a short taxi or scooter ride from the harbor, worth a stop for a slow breakfast, an espresso-based drink, and decent wifi before or after a Komodo boat trip. It rates 4.8 from 856 reviews, so arrive at an off-peak hour to snag a seat and enjoy it while it's still uncrowded.
+quickAnswer: >-
+  Mimamori Cafe is a laid-back coffee shop on Jl. Soekarno Hatta in Labuan Bajo,
+  a short taxi or scooter ride from the harbor, worth a stop for a slow
+  breakfast, an espresso-based drink, and decent wifi before or after a Komodo
+  boat trip. It rates 4.8 from 856 reviews, so arrive at an off-peak hour to
+  snag a seat and enjoy it while it's still uncrowded.
 faq:
   - q: How do I get to Mimamori Cafe from the harbor or airport?
-    a: It's on Jl. Soekarno Hatta, the main road linking the airport and harbor area — a 10–15 minute taxi, ojek, or scooter ride from most points in town.
+    a: >-
+      It's on Jl. Soekarno Hatta, the main road linking the airport and harbor
+      area — a 10–15 minute taxi, ojek, or scooter ride from most points in
+      town.
   - q: What's the best time to visit to avoid crowds?
-    a: Right at opening or during the 2–4pm lull, when most visitors are out on Komodo National Park boat trips or gathered at harbor sunset spots.
+    a: >-
+      Right at opening or during the 2–4pm lull, when most visitors are out on
+      Komodo National Park boat trips or gathered at harbor sunset spots.
   - q: How long should I plan to stay?
-    a: About an hour for coffee and a light bite; up to two hours if you're working, waiting out midday heat, or having a full brunch.
-  - q: Can I pay by card, or should I bring cash?
-    a: Card and QRIS mobile payments are increasingly common in Labuan Bajo cafes, but carry some rupiah cash as backup in case machines or connectivity are down.
+    a: >-
+      About an hour for coffee and a light bite; up to two hours if you're
+      working, waiting out midday heat, or having a full brunch.
+  - q: 'Can I pay by card, or should I bring cash?'
+    a: >-
+      Card and QRIS mobile payments are increasingly common in Labuan Bajo
+      cafes, but carry some rupiah cash as backup in case machines or
+      connectivity are down.
   - q: Is it worth visiting before a Komodo National Park boat trip?
-    a: Yes — its location on the main road makes it a convenient breakfast or coffee stop before an early boat departure, or a calm spot to recharge afterward.
+    a: >-
+      Yes — its location on the main road makes it a convenient breakfast or
+      coffee stop before an early boat departure, or a calm spot to recharge
+      afterward.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-08'
 ---
 
 ## Why go
 
-Labuan Bajo's harborfront is dense with boat operators, dive shops, and tourist-menu restaurants, but Mimamori Cafe sits a little apart from that scrum on Jl. Soekarno Hatta, the town's main arterial road. It's built its reputation the slow way, a 4.8 rating across 856 reviews is unusually high for a coffee shop in a town that turns over tourists fast, and it hasn't yet been absorbed into the standard tour-agent circuit.
+Labuan Bajo's harborfront is dense with boat operators, dive shops, and tourist-menu restaurants, but Mimamori Cafe sits a little apart from that scrum on Jl. Soekarno Hatta, the town's main arterial road. It's built its reputation the slow way, a 4.7 rating across 856 reviews is unusually high for a coffee shop in a town that turns over tourists fast, and it hasn't yet been absorbed into the standard tour-agent circuit.
 
 That makes it a genuinely relaxed option if you want a proper coffee, a plate of food that isn't rushed, and a place to sit with a laptop or a guidebook without waiters hovering for the next seating.
 

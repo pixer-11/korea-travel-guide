@@ -1,44 +1,54 @@
 ---
-title: "Thean Hou Temple: Kuala Lumpur Travel Guide (4.6★)"
-description: "Thean Hou Temple is a six-tiered Buddhist-Taoist temple on Robson Heights, open daily 8am–8pm, best visited on a weekday or right at 8am on weekends before the 10am–8pm crowd surge hits. 4.6★ (16,734 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuala Lumpur"
-category: "attraction"
-pubDate: "2026-08-20T08:01:55.047Z"
+title: 'Thean Hou Temple: Kuala Lumpur Travel Guide (4.6★)'
+description: >-
+  Thean Hou Temple is a six-tiered Buddhist-Taoist temple on Robson Heights,
+  open daily 8am–8pm, best visited on a weekday or right at 8am on weekends
+  before the 10am–8pm crowd surge hits. 4.6★ (16,791 reviews) — what visitors
+  say, hours, and tips.
+country: Malaysia
+region: Kuala Lumpur
+category: attraction
+pubDate: '2026-08-20T08:01:55.047Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg/1920px-Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg"
-  credit: "Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg/1920px-Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg
+  credit: 'Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-1.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thean_Hou_Temple_in_Kuala_Lumpur%2C_Malaysia_%283%29.jpg/3840px-Thean_Hou_Temple_in_Kuala_Lumpur%2C_Malaysia_%283%29.jpg"
-    credit: "Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_in_Kuala_Lumpur,_Malaysia_(3).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thean_Hou_Temple_in_Kuala_Lumpur%2C_Malaysia_%283%29.jpg/3840px-Thean_Hou_Temple_in_Kuala_Lumpur%2C_Malaysia_%283%29.jpg
+    credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_in_Kuala_Lumpur,_Malaysia_(3).jpg
 place:
-  id: "ChIJqSc-d_JJzDERbOlsCf-UmNs"
-  name: "Thean Hou Temple"
-  address: "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  id: ChIJqSc-d_JJzDERbOlsCf-UmNs
+  name: Thean Hou Temple
+  address: >-
+    65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Wilayah
+    Persekutuan Kuala Lumpur, Malaysia
   rating: 4.6
-  userRatingsTotal: 16734
-  googleMapsUrl: "https://maps.google.com/?cid=15823561113861941612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16791
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15823561113861941612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.1219525000000004
   lng: 101.6876678
-  phone: "+60 3-2274 7088"
+  phone: +60 3-2274 7088
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -57,24 +67,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_734e6d552d6643736c4f625245447a4a4a5f642d6353714a496843"
+    venueId: ven_734e6d552d6643736c4f625245447a4a4a5f642d6353714a496843
 tags:
-  - "kuala lumpur"
-  - "historic site"
-quickAnswer: "Thean Hou Temple is a six-tiered Buddhist-Taoist temple on Robson Heights, open daily 8am–8pm, best visited on a weekday or right at 8am on weekends before the 10am–8pm crowd surge hits. Give it 45–90 minutes to cover the prayer hall, terraces and city views. Entry is free, though small donations are expected at the altars."
+  - kuala lumpur
+  - historic site
+quickAnswer: >-
+  Thean Hou Temple is a six-tiered Buddhist-Taoist temple on Robson Heights,
+  open daily 8am–8pm, best visited on a weekday or right at 8am on weekends
+  before the 10am–8pm crowd surge hits. Give it 45–90 minutes to cover the
+  prayer hall, terraces and city views. Entry is free, though small donations
+  are expected at the altars.
 faq:
-  - q: "Is there an entrance fee for Thean Hou Temple?"
-    a: "No, entry is free. Small voluntary donations at the altars are customary but not required."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays stay fairly calm from 8am right through to 7pm. On weekends, go right at 8am — crowds build fast after 10am and stay heavy until the 8pm closing time."
-  - q: "How do I get to Thean Hou Temple without a car?"
-    a: "Take the rail network to Awan Besar or Bukit Jalil station, then a short Grab or taxi ride up the hill. The final approach is steep and not walkable."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes covers the highlights; allow up to 90 minutes if you want to sit in the gardens by the turtle pond and enjoy the skyline view."
-  - q: "What should I wear?"
-    a: "Modest clothing covering shoulders and knees, since it's an active place of worship, and remove hats before entering the main prayer hall."
+  - q: Is there an entrance fee for Thean Hou Temple?
+    a: >-
+      No, entry is free. Small voluntary donations at the altars are customary
+      but not required.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays stay fairly calm from 8am right through to 7pm. On weekends, go
+      right at 8am — crowds build fast after 10am and stay heavy until the 8pm
+      closing time.
+  - q: How do I get to Thean Hou Temple without a car?
+    a: >-
+      Take the rail network to Awan Besar or Bukit Jalil station, then a short
+      Grab or taxi ride up the hill. The final approach is steep and not
+      walkable.
+  - q: How long should I spend there?
+    a: >-
+      About 45 minutes covers the highlights; allow up to 90 minutes if you want
+      to sit in the gardens by the turtle pond and enjoy the skyline view.
+  - q: What should I wear?
+    a: >-
+      Modest clothing covering shoulders and knees, since it's an active place
+      of worship, and remove hats before entering the main prayer hall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 ## First impression
 

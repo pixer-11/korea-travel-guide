@@ -1,47 +1,78 @@
 ---
-title: "Wat Kaew Korawaram: Krabi Travel Guide (4.6★)"
-description: "Wat Kaew Korawaram is Krabi Town's showpiece Buddhist temple, a short walk or tuk-tuk ride from the riverside market — famous for its gleaming white-and-gold ordination hall and the giant golden Buddha statue on the hillside behind it. 4.6★ (350 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Krabi"
-category: "attraction"
-pubDate: "2026-08-05T11:46:09.997Z"
+title: 'Wat Kaew Korawaram: Krabi Travel Guide (4.6★)'
+description: >-
+  Wat Kaew Korawaram is Krabi Town's showpiece Buddhist temple, a short walk or
+  tuk-tuk ride from the riverside market — famous for its gleaming
+  white-and-gold ordination hall and the giant golden Buddha statue on the
+  hillside behind it. 4.6★ (356 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Krabi
+category: attraction
+pubDate: '2026-08-05T11:46:09.997Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg/1920px-2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg"
-  credit: "Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg/1920px-2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg
+  credit: 'Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2016-04-09_Wat_Kaew_Korawaram_temple_3.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg/3840px-Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg"
-    credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg/3840px-Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg
+    credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Krabi_-_Wat_Kaew_Korawaram_-_0049.jpg
 place:
-  id: "ChIJaYdu3ZmUUTARYqEqIUu2hjk"
-  name: "Wat Kaew Korawaram"
-  address: "ถนนอิศรา Krabi, Tambon Pak Nam, Amphoe Mueang Krabi, Chang Wat Krabi 81000, Thailand"
+  id: ChIJaYdu3ZmUUTARYqEqIUu2hjk
+  name: Wat Kaew Korawaram
+  address: >-
+    ถนนอิศรา Krabi, Tambon Pak Nam, Amphoe Mueang Krabi, Chang Wat Krabi 81000,
+    Thailand
   rating: 4.6
-  userRatingsTotal: 350
-  googleMapsUrl: "https://maps.google.com/?cid=4145200940836364642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 356
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4145200940836364642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.0632606
   lng: 98.9141363
 tags:
-  - "krabi"
-  - "historic site"
-quickAnswer: "Wat Kaew Korawaram is Krabi Town's showpiece Buddhist temple, a short walk or tuk-tuk ride from the riverside market — famous for its gleaming white-and-gold ordination hall and the giant golden Buddha statue on the hillside behind it. Give it 45 minutes to an hour, dress modestly (shoulders and knees covered), and go in the late afternoon when the heat has broken and the light hits the gold roof tiles."
+  - krabi
+  - historic site
+quickAnswer: >-
+  Wat Kaew Korawaram is Krabi Town's showpiece Buddhist temple, a short walk or
+  tuk-tuk ride from the riverside market — famous for its gleaming
+  white-and-gold ordination hall and the giant golden Buddha statue on the
+  hillside behind it. Give it 45 minutes to an hour, dress modestly (shoulders
+  and knees covered), and go in the late afternoon when the heat has broken and
+  the light hits the gold roof tiles.
 faq:
-  - q: "How do I get to Wat Kaew Korawaram from central Krabi Town?"
-    a: "It's on Thanon Isara in Tambon Pak Nam, a 10–15 minute walk from most riverside guesthouses, or a few minutes by tuk-tuk from Chao Fah Pier or the bus terminal. There's free parking if you're on a rented scooter."
-  - q: "Is there an entrance fee?"
-    a: "No official ticket — entry is free, though donation boxes are placed near the main hall for those who wish to contribute."
-  - q: "How long should I spend there?"
-    a: "Around 45 minutes to an hour covers the main viharn, the hilltop golden Buddha statue, and the surrounding shrine buildings without rushing."
-  - q: "What should I wear?"
-    a: "Standard Thai temple etiquette applies: cover your shoulders and knees, and be ready to remove your shoes before entering any hall with a Buddha image."
-  - q: "When is the best time of day to visit?"
-    a: "Early morning before 9am or late afternoon after 4pm, avoiding the intense midday heat and, in the June–October wet season, sudden downpours that make the outdoor staircases slippery."
+  - q: How do I get to Wat Kaew Korawaram from central Krabi Town?
+    a: >-
+      It's on Thanon Isara in Tambon Pak Nam, a 10–15 minute walk from most
+      riverside guesthouses, or a few minutes by tuk-tuk from Chao Fah Pier or
+      the bus terminal. There's free parking if you're on a rented scooter.
+  - q: Is there an entrance fee?
+    a: >-
+      No official ticket — entry is free, though donation boxes are placed near
+      the main hall for those who wish to contribute.
+  - q: How long should I spend there?
+    a: >-
+      Around 45 minutes to an hour covers the main viharn, the hilltop golden
+      Buddha statue, and the surrounding shrine buildings without rushing.
+  - q: What should I wear?
+    a: >-
+      Standard Thai temple etiquette applies: cover your shoulders and knees,
+      and be ready to remove your shoes before entering any hall with a Buddha
+      image.
+  - q: When is the best time of day to visit?
+    a: >-
+      Early morning before 9am or late afternoon after 4pm, avoiding the intense
+      midday heat and, in the June–October wet season, sudden downpours that
+      make the outdoor staircases slippery.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why go

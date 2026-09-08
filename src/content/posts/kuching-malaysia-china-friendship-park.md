@@ -1,43 +1,51 @@
 ---
-title: "Malaysia-China Friendship Park: Kuching Travel Guide (4.6★)"
-description: "Malaysia-China Friendship Park is a riverside green space in Tabuan Heights, Kuching, open daily from 5am to 10pm. 4.6★ (4,937 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "attraction"
-pubDate: "2026-08-21T08:15:23.451Z"
+title: 'Malaysia-China Friendship Park: Kuching Travel Guide (4.6★)'
+description: >-
+  Malaysia-China Friendship Park is a riverside green space in Tabuan Heights,
+  Kuching, open daily from 5am to 10pm. 4.6★ (4,951 reviews) — what visitors
+  say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: attraction
+pubDate: '2026-08-21T08:15:23.451Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg"
-  credit: "Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg
+  credit: 'Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg"
-    credit: "Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg
+    credit: 'Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Garden_at_Malaysia_China_Friendship_Park_Kuching.jpg
 place:
-  id: "ChIJB7DJaT2n-zERcGCbNNEF8hQ"
-  name: "Malaysia-China Friendship Park"
-  address: "Jalan Song, Tabuan Heights, 93350 Kuching, Sarawak, Malaysia"
+  id: ChIJB7DJaT2n-zERcGCbNNEF8hQ
+  name: Malaysia-China Friendship Park
+  address: 'Jalan Song, Tabuan Heights, 93350 Kuching, Sarawak, Malaysia'
   rating: 4.6
-  userRatingsTotal: 4937
-  googleMapsUrl: "https://maps.google.com/?cid=1509275221211439216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4951
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1509275221211439216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.515993
   lng: 110.365054
   openingHours:
-    - "Monday: 5:00 AM – 10:00 PM"
-    - "Tuesday: 5:00 AM – 10:00 PM"
-    - "Wednesday: 5:00 AM – 10:00 PM"
-    - "Thursday: 5:00 AM – 10:00 PM"
-    - "Friday: 5:00 AM – 10:00 PM"
-    - "Saturday: 5:00 AM – 10:00 PM"
-    - "Sunday: 5:00 AM – 10:00 PM"
+    - 'Monday: 5:00 AM – 10:00 PM'
+    - 'Tuesday: 5:00 AM – 10:00 PM'
+    - 'Wednesday: 5:00 AM – 10:00 PM'
+    - 'Thursday: 5:00 AM – 10:00 PM'
+    - 'Friday: 5:00 AM – 10:00 PM'
+    - 'Saturday: 5:00 AM – 10:00 PM'
+    - 'Sunday: 5:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-21
+    updated: 2026-08-21T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -64,24 +72,40 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_51683846454e4e6243476352457a2d6e3254614a4437424a496843"
+    venueId: ven_51683846454e4e6243476352457a2d6e3254614a4437424a496843
 tags:
-  - "kuching"
-  - "park"
-quickAnswer: "Malaysia-China Friendship Park is a riverside green space in Tabuan Heights, Kuching, open daily from 5am to 10pm. Go on a weekday morning (7am–3pm) or early weekend (7am–11am) for a quiet stroll — avoid weekend afternoons and evenings (4pm–10pm) when it fills up. It's best treated as a free, easy 45-60 minute stop for a walk, a jog, or golden-hour photos over the Sarawak River."
+  - kuching
+  - park
+quickAnswer: >-
+  Malaysia-China Friendship Park is a riverside green space in Tabuan Heights,
+  Kuching, open daily from 5am to 10pm. Go on a weekday morning (7am–3pm) or
+  early weekend (7am–11am) for a quiet stroll — avoid weekend afternoons and
+  evenings (4pm–10pm) when it fills up. It's best treated as a free, easy 45-60
+  minute stop for a walk, a jog, or golden-hour photos over the Sarawak River.
 faq:
-  - q: "How do I get to Malaysia-China Friendship Park from central Kuching?"
-    a: "It's about a 10-15 minute drive from the main Kuching Waterfront by car, taxi, or ride-hailing app. There's no direct rail or frequent bus service, so driving or a short taxi ride is the practical option."
-  - q: "What are the opening hours?"
-    a: "The park is open daily from 5:00 AM to 10:00 PM, with the same hours every day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 3pm are calmest. On weekends, go early, between 7am and 11am, and avoid 4pm-10pm when crowds peak."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to the park is free."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 45 minutes to an hour walking the paths, viewing the pagoda, and sitting by the river. Joggers and families with kids often stay longer."
+  - q: How do I get to Malaysia-China Friendship Park from central Kuching?
+    a: >-
+      It's about a 10-15 minute drive from the main Kuching Waterfront by car,
+      taxi, or ride-hailing app. There's no direct rail or frequent bus service,
+      so driving or a short taxi ride is the practical option.
+  - q: What are the opening hours?
+    a: >-
+      The park is open daily from 5:00 AM to 10:00 PM, with the same hours every
+      day of the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 3pm are calmest. On weekends, go early, between
+      7am and 11am, and avoid 4pm-10pm when crowds peak.
+  - q: Is there an entrance fee?
+    a: 'No, entry to the park is free.'
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 45 minutes to an hour walking the paths, viewing the
+      pagoda, and sitting by the river. Joggers and families with kids often
+      stay longer.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 ## Why go
 

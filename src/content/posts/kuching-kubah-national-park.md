@@ -1,33 +1,39 @@
 ---
-title: "Kubah National Park: Kuching Travel Guide (4.3★)"
-description: "Kubah National Park sits about 20km west of Kuching city, a mountainous rainforest reserve with waterfall and viewpoint trails. 4.3★ (1,481 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "attraction"
-pubDate: "2026-08-10T09:26:04.041Z"
+title: 'Kubah National Park: Kuching Travel Guide (4.3★)'
+description: >-
+  Kubah National Park sits about 20km west of Kuching city, a mountainous
+  rainforest reserve with waterfall and viewpoint trails. 4.3★ (1,493 reviews) —
+  what visitors say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: attraction
+pubDate: '2026-08-10T09:26:04.041Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kubah_waterafall_at_morning.jpg/1920px-Kubah_waterafall_at_morning.jpg"
-  credit: "Photo: KelvinToh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kubah_waterafall_at_morning.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kubah_waterafall_at_morning.jpg/1920px-Kubah_waterafall_at_morning.jpg
+  credit: 'Photo: KelvinToh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kubah_waterafall_at_morning.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kubah_National_Park%2C_Kuching_6.jpg/3840px-Kubah_National_Park%2C_Kuching_6.jpg"
-    credit: "Photo: Angeline Ting / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kubah_National_Park,_Kuching_6.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kubah_National_Park%2C_Kuching_6.jpg/3840px-Kubah_National_Park%2C_Kuching_6.jpg
+    credit: 'Photo: Angeline Ting / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Kubah_National_Park,_Kuching_6.jpg'
 place:
-  id: "ChIJKQlHS1IE-zERJHi_j8INEKk"
-  name: "Kubah National Park"
-  address: "93050 Kuching, Sarawak, Malaysia"
+  id: ChIJKQlHS1IE-zERJHi_j8INEKk
+  name: Kubah National Park
+  address: '93050 Kuching, Sarawak, Malaysia'
   rating: 4.3
-  userRatingsTotal: 1481
-  googleMapsUrl: "https://maps.google.com/?cid=12182252121323698212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1493
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12182252121323698212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.6127690000000001
   lng: 110.196905
-  phone: "+60 82-845 033"
+  phone: +60 82-845 033
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -46,24 +52,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b4b454e49386a5f69484a52457a2d45493153486c514b4a496843"
+    venueId: ven_6b4b454e49386a5f69484a52457a2d45493153486c514b4a496843
 tags:
-  - "kuching"
-  - "top attraction"
-quickAnswer: "Kubah National Park sits about 20km west of Kuching city, a mountainous rainforest reserve with waterfall and viewpoint trails. Go on a weekday morning between 7am and noon, when it's quietest, and budget 3-4 hours for a solid trail plus time to cool off at the waterfall. Hire a car or grab a taxi/Grab — there's no direct city bus route to rely on."
+  - kuching
+  - top attraction
+quickAnswer: >-
+  Kubah National Park sits about 20km west of Kuching city, a mountainous
+  rainforest reserve with waterfall and viewpoint trails. Go on a weekday
+  morning between 7am and noon, when it's quietest, and budget 3-4 hours for a
+  solid trail plus time to cool off at the waterfall. Hire a car or grab a
+  taxi/Grab — there's no direct city bus route to rely on.
 faq:
-  - q: "How do I get to Kubah National Park from Kuching city?"
-    a: "There's no direct public bus, so most visitors drive, hire a car, or take a taxi/Grab — the trip takes roughly 30-40 minutes covering about 20km."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 12pm are consistently the calmest window. Weekends, especially from 5pm onward, get considerably busier."
-  - q: "How long should I plan for a visit?"
-    a: "Budget at least 3-4 hours for a proper trail plus waterfall time; longer if you attempt the Summit Trail or connect through to Matang via the Rayu Trail."
-  - q: "Can I see orangutans at Kubah?"
-    a: "Not reliably — wildlife here tends toward bearded pigs, hornbills, and smaller forest creatures. For orangutans, head to nearby Semenggoh Wildlife Centre or Matang Wildlife Centre."
-  - q: "What should I bring?"
-    a: "Cash for entrance fees, closed-toe shoes for slippery sandstone sections, water, and a light rain layer since afternoon showers are common year-round."
+  - q: How do I get to Kubah National Park from Kuching city?
+    a: >-
+      There's no direct public bus, so most visitors drive, hire a car, or take
+      a taxi/Grab — the trip takes roughly 30-40 minutes covering about 20km.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 7am and 12pm are consistently the calmest window.
+      Weekends, especially from 5pm onward, get considerably busier.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget at least 3-4 hours for a proper trail plus waterfall time; longer
+      if you attempt the Summit Trail or connect through to Matang via the Rayu
+      Trail.
+  - q: Can I see orangutans at Kubah?
+    a: >-
+      Not reliably — wildlife here tends toward bearded pigs, hornbills, and
+      smaller forest creatures. For orangutans, head to nearby Semenggoh
+      Wildlife Centre or Matang Wildlife Centre.
+  - q: What should I bring?
+    a: >-
+      Cash for entrance fees, closed-toe shoes for slippery sandstone sections,
+      water, and a light rain layer since afternoon showers are common
+      year-round.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-08'
 ---
 
 ## Why Kubah is worth the drive
