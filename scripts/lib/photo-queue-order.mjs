@@ -60,8 +60,23 @@ export const RECHECK_EVERY = 30;
  * @param {number|undefined} attempts nights already spent on this slug
  * @returns {boolean} true when the slug should not be searched tonight
  */
-export function isPausedTonight(attempts) {
-  const n = Number(attempts) || 0;
+export function isPausedTonight(attempts, slug = '', today = new Date()) {
+  // A negative or fractional count is a corrupted ledger entry, not a licence to
+  // keep searching: -100 would have bought 108 more nights, and 7.5 can never
+  // land on a recheck boundary because the increments are whole numbers.
+  const n = Math.max(0, Math.floor(Number(attempts) || 0));
   if (n < GIVE_UP_AFTER) return false;
-  return (n - GIVE_UP_AFTER) % RECHECK_EVERY !== 0;
+
+  // The recheck used to be counted in ATTEMPTS — `(n - GIVE_UP_AFTER) % 30` —
+  // which is a number that only moves when the slug is searched. A paused slug
+  // is never searched, so it never moved: a post sitting at 19 was skipped on
+  // every one of the next hundred nights and the "one night in thirty" never
+  // arrived. 101 drafts were in that state (found 2026-09-08 by Codex).
+  //
+  // The calendar advances by itself. The slug's own hash spreads the rechecks
+  // across the month instead of waking every paused post on the same night.
+  const day = Math.floor(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate()) / 86400000);
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) h = (h * 31 + slug.charCodeAt(i)) % 100003;
+  return (day + h) % RECHECK_EVERY !== 0;
 }

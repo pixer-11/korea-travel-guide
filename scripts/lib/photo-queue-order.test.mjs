@@ -73,9 +73,29 @@ test('a slug that has exhausted its attempts is skipped', () => {
   assert.equal(isPausedTonight(41), true);
 });
 
-test('but it is looked at again one night in thirty', () => {
-  assert.equal(isPausedTonight(GIVE_UP_AFTER), false, 'the give-up night itself is a real attempt');
-  assert.equal(isPausedTonight(GIVE_UP_AFTER + RECHECK_EVERY), false);
-  assert.equal(isPausedTonight(GIVE_UP_AFTER + RECHECK_EVERY - 1), true);
-  assert.equal(isPausedTonight(GIVE_UP_AFTER + 1), true);
+test('a paused slug does come back — the calendar moves even when it is not searched', () => {
+  // The bug this replaces: the recheck was counted in ATTEMPTS, which only rise
+  // when a slug is searched, so a paused slug was skipped for ever. Walk a
+  // month of real dates with the count frozen, as it is in reality.
+  const slug = 'yeosu-bokchun-restaurant';
+  let searched = 0;
+  for (let i = 0; i < RECHECK_EVERY; i++) {
+    const day = new Date(Date.UTC(2026, 8, 8) + i * 86400000);
+    if (!isPausedTonight(19, slug, day)) searched++;
+  }
+  assert.equal(searched, 1, 'exactly one night in thirty, no more and no fewer');
+});
+
+test('paused slugs do not all wake on the same night', () => {
+  const day = new Date(Date.UTC(2026, 8, 8));
+  const slugs = ['a-cafe', 'b-restaurant', 'c-bar', 'd-diner', 'e-stall', 'f-bakery'];
+  const awake = slugs.filter((s) => !isPausedTonight(19, s, day)).length;
+  assert.ok(awake < slugs.length, 'the whole backlog must not wake at once');
+});
+
+test('a corrupted count is not a licence to keep searching', () => {
+  const day = new Date(Date.UTC(2026, 8, 8));
+  // -100 used to buy 108 more nights; 7.5 could never reach a boundary.
+  assert.equal(isPausedTonight(-100, 'x', day), false, 'a negative count reads as zero — search it');
+  assert.equal(typeof isPausedTonight(7.5, 'x', day), 'boolean');
 });

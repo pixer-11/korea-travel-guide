@@ -7,14 +7,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-09'
 eventEndDate: '2026-09-05'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg/1280px-Miss_World_Ireland_2022_Ivanna_McMahon.jpg
-  credit: 'Photo: Missirelandd / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg
-  focus:
-    x: 50
-    'y': 40
 tags:
   - hanoi
   - event

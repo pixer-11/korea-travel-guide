@@ -37,6 +37,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFileSync, readdirSync, existsSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
+import matter from 'gray-matter';
 
 const DIR = 'src/content/posts';
 const BASELINE = 'data/event-hero-identity-reviewed.json';
@@ -56,33 +57,58 @@ const toks = (s) => decodeURIComponent(String(s))
 const reviewed = existsSync(BASELINE) ? JSON.parse(readFileSync(BASELINE, 'utf8')) : {};
 
 const weak = [];
+// A post whose frontmatter will not parse was not examined; say so rather than
+// counting it as clean.
+const unreadable = [];
 for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const raw = readFileSync(join(DIR, f), 'utf8');
+  const slug = f.replace(/\.md$/, '');
   if (/^draft:\s*true\s*$/m.test(raw)) continue;
   if (!/^category:\s*['"]?event/m.test(raw)) continue;
 
-  // Take the url from INSIDE the heroImage block. Reading the first `url:` in
-  // the frontmatter grabbed the event's official site — most event guides carry
-  // one, above the photo — and the post was then skipped as "not a Wikimedia
-  // hero". The first sweep for this class missed every event that had a ticket
-  // or organiser link, which is most of them.
-  const block = /^heroImage:(?:\r?\n(?:[ \t]+.*)?)*/m.exec(raw)?.[0] ?? '';
-  const url = /^\s*url:\s*(\S+)/m.exec(block)?.[1] ?? '';
-  if (!/upload\.wikimedia\.org/.test(url)) continue;
+  // Read the frontmatter with a YAML parser, not a pattern. Two regexes have
+  // already been wrong here: the first took the event's ticket link as the hero
+  // url, and its replacement returned the literal ">-" for the 23 live event
+  // heroes that write the url as a block scalar —
+  //
+  //   heroImage:
+  //     url: >-
+  //       https://upload.wikimedia.org/...
+  //
+  // so those 23 were skipped as "not a Wikimedia hero" and the audit reported
+  // success over photos it had never looked at (found 2026-09-08 by Codex).
+  // A parser reads every spelling YAML allows, including quoted keys and inline
+  // mappings.
+  let fm;
+  try { fm = matter(raw).data; } catch { unreadable.push(slug); continue; }
+  const url = String(fm?.heroImage?.url ?? '');
+  if (!/wikimedia\.org/.test(url)) continue;   // thumb.wikimedia.org counts too
 
-  const title = /^title:\s*['"]?(.+?)['"]?\s*$/m.exec(raw)?.[1] ?? '';
-  const name = decodeURIComponent(url.split('/').pop() || '').replace(/^\d+px-/, '');
+  const title = String(fm?.title ?? '');
+  // A filename can be undecodable ("Bad%ZZ.jpg") or contain a literal percent
+  // ("100%25_concert.jpg", which throws when decoded twice). Neither is a
+  // reason to abandon the audit half way through the posts.
+  const rawName = url.split('/').pop() || '';
+  let name;
+  try { name = decodeURIComponent(rawName); } catch { name = rawName; }
+  name = name.replace(/^\d+px-/, '');
   const fileToks = new Set(toks(name));
-  const hit = toks(title).filter((t) => fileToks.has(t));
+  // Deduplicated: "Hanoi Jazztival 2026 in Hanoi" against Hanoi_traffic.jpg
+  // scored two hits for one word and walked past review.
+  const hit = [...new Set(toks(title).filter((t) => fileToks.has(t)))];
   if (hit.length >= 2) continue;   // the filename names this event; nothing to review
 
-  const slug = f.replace(/\.md$/, '');
-  weak.push({ slug, title, name, hit, known: reviewed[slug] === name });
+  // The baseline stores the full URL. Storing the width-stripped filename made
+  // an original Commons file called 800px-Portrait.jpg indistinguishable from a
+  // different file called Portrait.jpg, and the second inherited the first's
+  // approval.
+  weak.push({ slug, title, name, url, hit, known: reviewed[slug] === url });
 }
 
 const fresh = weak.filter((w) => !w.known);
 
 console.log(`${weak.length} event hero(es) whose filename barely names the event; ${fresh.length} of them unreviewed`);
+for (const u of unreadable) console.log(`EVENT-HERO-IDENTITY: ${u} — frontmatter does not parse, so its hero was not examined`);
 for (const w of (LIST ? weak : fresh)) {
   console.log(`${w.known ? '·' : 'EVENT-HERO-IDENTITY:'} ${w.slug}`);
   console.log(`    post : ${w.title}`);
@@ -98,14 +124,14 @@ for (const w of (LIST ? weak : fresh)) {
 // Only run this after reading the list. It means "a person has looked at every
 // one of these and each photo really is this event or this artist".
 if (process.argv.includes('--record')) {
-  for (const w of weak) reviewed[w.slug] = w.name;
+  for (const w of weak) reviewed[w.slug] = w.url;
   mkdirSync('data', { recursive: true });
   writeFileSync(BASELINE, JSON.stringify(reviewed, null, 1) + '\n', 'utf8');
   console.log(`\nrecorded ${weak.length} reviewed hero(es) to ${BASELINE}`);
   process.exit(0);
 }
 
-if (fresh.length) {
+if (fresh.length || unreadable.length) {
   console.log('\nA person has to read these: does the FILENAME describe this event, this artist?');
   console.log(`If it does, record it with --record (after reading, not before).`);
   console.log('If it does not, strip the heroImage block; an event may publish photoless.');

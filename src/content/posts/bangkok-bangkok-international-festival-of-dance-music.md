@@ -50,16 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kazantip%2C_Popovka%2C_Crimea%2C_Dance_party%2C_Techno_music.jpg/3840px-Kazantip%2C_Popovka%2C_Crimea%2C_Dance_party%2C_Techno_music.jpg
-  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Kazantip,_Popovka,_Crimea,_Dance_party,_Techno_music.jpg
-  focus:
-    x: 70
-    'y': 55
 eventOrganizer:
   name: International Cultural Promotions Limited
   url: 'https://bangkokfestivals.com/'

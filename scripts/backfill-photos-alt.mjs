@@ -212,7 +212,7 @@ for (const f of files) {
   if (fixed + unfixed >= LIMIT) break;
   const slug = f.replace(/\.md$/, '');
   if (ONLY.length && !ONLY.includes(slug)) continue;
-  if (!ONLY.length && isPausedTonight(retryCount[slug])) { pausedSkipped++; continue; }
+  if (!ONLY.length && isPausedTonight(retryCount[slug], slug)) { pausedSkipped++; continue; }
   const path = `${POSTS}/${f}`;
   const { data, content } = matter(await readFile(path, 'utf8'));
   // Events used to be skipped outright here ("events keep their performer/type
@@ -757,7 +757,12 @@ for (const [slug, n] of Object.entries(retryCount)) {
   if (!existsSync(p)) { delete retryCount[slug]; continue; }
   let fm;
   try { fm = matter(readFileSync(p, 'utf8')).data; } catch { continue; }
-  if (fm.draft !== true) { delete retryCount[slug]; continue; }   // already live again
+  // "live again" used to mean "delete the count", but a post published WITHOUT a
+  // photo is live and still hunting. Clearing its count reset the clock every
+  // night, so the nine photoless guides published on 2026-09-08 would have been
+  // searched 30 nights out of 30, for ever. Only a post that actually HAS a hero
+  // has succeeded.
+  if (fm.draft !== true && fm.heroImage?.url) { delete retryCount[slug]; continue; }
   exhaustedNow.push(slug);
   console.log(`  ⏸️  ${slug}: no photo after ${n} nights — search paused, post kept (was: deleted)`);
 }

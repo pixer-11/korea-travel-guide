@@ -37,6 +37,8 @@
 // ─────────────────────────────────────────────────────────────
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import matter from 'gray-matter';
+import yaml from 'js-yaml';
 import { GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
 
 const DIR = 'src/content/posts';
@@ -59,12 +61,22 @@ const why = [];
 
 for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const raw = readFileSync(join(DIR, f), 'utf8');
-  if (!/^draft:\s*true\s*$/m.test(raw)) continue;
   const slug = f.replace(/\.md$/, '');
+
+  // Everything below reads the PARSED frontmatter. Patterns were wrong in three
+  // separate ways here (found 2026-09-08 by Codex): `heldReason : cancelled` is
+  // valid YAML that `/^heldReason:/` misses, so a cancelled event could have
+  // been published; `heroImage :` and `heroImage: {url: …}` survived the strip,
+  // so the quarantined photo would have gone live under a `photoless: true`
+  // flag; and a `draft: true` line inside a body code sample was edited instead
+  // of the real one. A parser sees what YAML sees.
+  let fm;
+  try { fm = matter(raw); } catch { continue; }
+  if (fm.data?.draft !== true) continue;
 
   // A stated hold is a decision someone made for a reason that is not the
   // photo — cancelled, duplicate, wrong region. Never overridden here.
-  if (/^heldReason:\s*\S/m.test(raw)) continue;
+  if (fm.data?.heldReason) continue;
 
   const p = perf[slug];
   if (!p) continue;
@@ -79,11 +91,14 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const tries = retry[slug] ?? 0;
   if (tries < GIVE_UP_AFTER) { why.push(`${slug}: only ${tries} photo attempts — the hunt is still live`); continue; }
 
-  const body = raw.slice(raw.indexOf('\n---', 3) + 4);
-  const words = body.split(/\s+/).filter(Boolean).length;
+  // gray-matter's body, not a slice from the first '\n---' it can find. A file
+  // with no closing delimiter made that slice start at character 3, so 500 words
+  // of frontmatter counted as an article and a post with no body at all
+  // qualified.
+  const words = fm.content.split(/\s+/).filter(Boolean).length;
   if (words < MIN_WORDS) { why.push(`${slug}: ${words} words — too thin to stand without a photo`); continue; }
 
-  picked.push({ slug, file: join(DIR, f), raw, clicks, imp, pos, tries, words });
+  picked.push({ slug, file: join(DIR, f), fm, clicks, imp, pos, tries, words });
 }
 
 picked.sort((a, b) => b.clicks - a.clicks || b.imp - a.imp);
@@ -102,20 +117,33 @@ if (!APPLY) {
 
 let done = 0;
 for (const r of picked) {
-  // The hero has to go. Every one of these is still carrying the stock or
-  // wrong-venue photo it was quarantined for; publishing without stripping it
-  // would put exactly that picture back in front of readers.
-  let out = r.raw.replace(/^heroImage:(?:\r?\n(?:[ \t]+.*)?)*\r?\n?/m, '');
-  if (/^heroImage:/m.test(out)) { console.log(`  ⚠️ ${r.slug}: could not strip the hero — left alone`); continue; }
-  out = out.replace(/^draft:\s*true\s*$/m, 'draft: false');
-  if (/^draft:\s*true\s*$/m.test(out)) { console.log(`  ⚠️ ${r.slug}: could not clear the draft flag — left alone`); continue; }
+  // Edit the parsed object and re-serialise. The hero has to go: every one of
+  // these is still carrying the stock or wrong-venue photo it was quarantined
+  // FOR, and publishing without removing it would put exactly that picture back
+  // in front of readers.
+  const data = { ...r.fm.data };
+  delete data.heroImage;
+  data.draft = false;
   // `photoless: true` is the repo's existing, documented way to say "a venue
   // guide that ships without a picture, deliberately" — validate-content reads
-  // it, and it was written for exactly this situation after the 2026-07-26
-  // deletions. Without it the content gate reports these nine as missing
-  // images every night, which is a true statement made into noise.
-  if (!/^photoless:\s*true\s*$/m.test(out)) {
-    out = out.replace(/^draft:\s*false\s*$/m, 'draft: false\nphotoless: true');
+  // it, and it was written for this situation after the 2026-07-26 deletions.
+  // Assigned, not inserted as a line: a file that already said `photoless: false`
+  // used to end up with the key twice and no longer parsed.
+  data.photoless = true;
+
+  const out = matter.stringify(r.fm.content, data);
+
+  // Never write a file without reading back what was written. Three of the
+  // regex failures above produced frontmatter that no longer parsed, and the
+  // script reported them as published.
+  let check;
+  try { check = matter(out); } catch (err) {
+    console.log(`  ⚠️ ${r.slug}: the rewrite would not parse (${err.message.split('\n')[0]}) — left alone`);
+    continue;
+  }
+  if (check.data.heroImage || check.data.draft !== false || check.data.photoless !== true) {
+    console.log(`  ⚠️ ${r.slug}: the rewrite did not take — left alone`);
+    continue;
   }
   writeFileSync(r.file, out, 'utf8');
   console.log(`  ✅ ${r.slug} — hero removed, published`);
