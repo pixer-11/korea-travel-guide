@@ -47,6 +47,9 @@ const TARGETS = {
   'Saint-Cloud': ['Parc de Saint-Cloud fountain', 'Domaine national de Saint-Cloud', 'Saint-Cloud Seine'],
   'Shenzhen': ['Shenzhen skyline', 'Shenzhen Ping An Finance Centre'],
   'Taitung': ['Sanxiantai Taitung', 'Taitung coastline Taiwan', 'Taitung County'],
+  // 2026-09-08: one photoless comic-con guide is the whole region, so the tile
+  // rendered dark. Landmark terms first, city name last.
+  'Tangerang': ['Tangerang Banten Indonesia', 'Tangerang city skyline', 'Tangerang landmark'],
   'Wuhan': ['Yellow Crane Tower Wuhan photograph', 'Wuhan skyline 2020', 'Wuhan Yangtze'],
 };
 
