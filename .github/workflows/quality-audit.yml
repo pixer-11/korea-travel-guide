@@ -88,8 +88,11 @@ jobs:
         # continue-on-error mirrors publish.yml: a PRE-EXISTING content issue used
         # to abort here, discarding every Places call already made and skipping
         # both the commit and the Telegram notice, silently, day after day.
+        id: validate
         continue-on-error: true
-        run: node scripts/validate-content.mjs
+        run: |
+          set -o pipefail
+          node scripts/validate-content.mjs 2>&1 | tee /tmp/qa-validate.log
 
       - name: Rebuild hero photo-wall (heroes may have changed)
         run: node scripts/build-wall.mjs
@@ -123,6 +126,23 @@ jobs:
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
+
+      # 내용 검증이 실패해도 이 작업은 계속 돈다(예전 결함을 만나면 그날 정비 전체가
+      # 버려졌기 때문). 그런데 실패했다는 말은 어디에도 가지 않았다 — 로그만 알았다.
+      - name: Warn if content validation failed
+        if: steps.validate.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🧾 품질 점검 중 내용 검증이 실패했습니다 (정비 자체는 계속 진행됨)"
+            echo "글에 구조적 문제가 남아 있다는 뜻입니다."
+            echo
+            tail -c 1000 /tmp/qa-validate.log
+          } > /tmp/qa-val-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/qa-val-msg.txt" >/dev/null || true
 
       - name: Notify Telegram
         if: steps.commit.outputs.committed == '1'

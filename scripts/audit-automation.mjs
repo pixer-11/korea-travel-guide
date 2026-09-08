@@ -26,6 +26,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import yaml from 'js-yaml';
 import { requireExamined } from './lib/examined.mjs';
 
 // Directory is an argument so the tests can point it at fixtures — a checker
@@ -135,6 +136,45 @@ for (const [f, src] of sources) {
       'this workflow runs `git push` but declares no `permissions: contents: write` — the default token is read-only and the push 403s after the whole job has run');
   }
 
+  // ── MUTED-CHECK ───────────────────────────────────────────
+  // A checker wired with `continue-on-error: true` and nothing that reads its
+  // outcome. It runs, it fails, the job stays green, and the failure exists
+  // only in a log nobody opens. SILENT-JOB catches a whole workflow that
+  // reports to nobody; SWALLOWED catches `|| true`; this is the third shape,
+  // and it is the one that hides a check we deliberately made non-blocking.
+  //
+  // Found 2026-09-08 across 11 steps, including check-whats-closed-rendered —
+  // wired the day before precisely because that page had once shipped empty in
+  // five languages, and wired without a voice.
+  //
+  // The repo's own pattern is the fix: give the step an `id`, then a following
+  // step `if: steps.<id>.outcome == 'failure'` that sends Telegram. A step is
+  // counted as heard if anything later reads its outcome, if it tees to a file
+  // a later step reads, or if it messages Telegram itself.
+  {
+    let doc;
+    try { doc = yaml.load(src); } catch { doc = null; }
+    for (const [, job] of Object.entries(doc?.jobs ?? {})) {
+      const steps = Array.isArray(job?.steps) ? job.steps : [];
+      // 뒤 단계 전체를 문자열로 본다. `if:`/`run:` 만 보다가 refresh.yml 을 오탐했다 —
+      // 거기서는 후속 알림 단계가 `env:` 로 `steps.fsq.outcome` 을 읽는다.
+      const laterText = (i) => JSON.stringify(steps.slice(i + 1));
+      steps.forEach((s, i) => {
+        if (s?.['continue-on-error'] !== true) return;
+        const run = String(s?.run ?? '');
+        const calls = [...new Set(run.match(/scripts\/((?:audit|check|lint|validate)-[\w-]+)\.mjs/g) ?? [])];
+        if (!calls.length) return;
+        if (/telegram/i.test(run)) return;                       // shouts for itself
+        const after = laterText(i);
+        if (s.id && new RegExp(`steps\\.${s.id}\\.(outcome|conclusion|outputs)`).test(after)) return;
+        const logs = [...new Set(run.match(/\/tmp\/[\w.-]+/g) ?? [])];
+        if (logs.some((l) => after.includes(l))) return;         // a later step reads its log
+        add('MUTED-CHECK', f,
+          `"${s.name ?? calls.join(', ')}" runs ${calls.join(', ')} with continue-on-error and nothing reads its result — when it fails, the job stays green and only the log knows. Give the step an id and a following step with \`if: steps.<id>.outcome == 'failure'\` that reports it.`);
+      });
+    }
+  }
+
   // ── SWALLOWED ─────────────────────────────────────────────
   // `|| true` on a line that writes a file, where nothing afterwards checks
   // that the file has content. This is how a dead crawler stays invisible.
@@ -168,7 +208,7 @@ for (const [f, src] of sources) {
 }
 
 // ── report ──────────────────────────────────────────────────
-const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
+const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

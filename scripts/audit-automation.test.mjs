@@ -190,6 +190,95 @@ t('깨끗한 워크플로 하나만 있으면 아무것도 보고하지 않는�
   return r.code === 0 ? null : `오탐: ${r.out}`;
 });
 
+// MUTED-CHECK: 비차단으로 돌려놓고 결과를 아무도 읽지 않는 검사 단계.
+// 2026-09-08에 9곳이 그랬다 — 그중 하나는 전날 "이 페이지가 빈 채로 나간 적이
+// 있다"는 이유로 새로 붙인 검사였는데, 실패해도 목소리가 없었다.
+
+t('비차단 검사인데 결과를 아무도 안 읽으면 잡는다', () => {
+  const r = audit({
+    'muted.yml': `name: Muted
+jobs:
+  a:
+    steps:
+      - name: Check things
+        continue-on-error: true
+        run: node scripts/check-things.mjs
+${TELEGRAM}
+`,
+  });
+  return /MUTED-CHECK/.test(r.out) ? null : `못 잡음: ${r.out}`;
+});
+
+t('뒤 단계가 outcome 을 읽으면 잡지 않는다', () => {
+  const r = audit({
+    'heard.yml': `name: Heard
+jobs:
+  a:
+    steps:
+      - name: Check things
+        id: chk
+        continue-on-error: true
+        run: node scripts/check-things.mjs
+      - name: Warn
+        if: steps.chk.outcome == 'failure'
+        run: echo warn
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('뒤 단계가 env 로 outcome 을 읽어도 잡지 않는다 (refresh.yml 이 그 모양)', () => {
+  const r = audit({
+    'env.yml': `name: Env
+jobs:
+  a:
+    steps:
+      - name: Check things
+        id: chk
+        continue-on-error: true
+        run: node scripts/check-things.mjs
+      - name: Report
+        env:
+          OUT: \${{ steps.chk.outcome }}
+        run: echo "$OUT"
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('실패를 로그에 남기고 뒤에서 그 로그를 읽으면 잡지 않는다 (publish.yml 의 soft-fail 관례)', () => {
+  const r = audit({
+    'soft.yml': `name: Soft
+jobs:
+  a:
+    steps:
+      - name: Check things
+        continue-on-error: true
+        run: node scripts/check-things.mjs || echo bad >> /tmp/soft-fail.txt
+      - name: Report
+        run: cat /tmp/soft-fail.txt
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('차단하는(비-continue-on-error) 검사는 애초에 대상이 아니다', () => {
+  const r = audit({
+    'blocking.yml': `name: Blocking
+jobs:
+  a:
+    steps:
+      - name: Check things
+        run: node scripts/check-things.mjs
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
 t('저장소의 실제 워크플로가 지금 깨끗하다', () => {
   try {
     execFileSync(process.execPath, ['scripts/audit-automation.mjs'], { encoding: 'utf8' });

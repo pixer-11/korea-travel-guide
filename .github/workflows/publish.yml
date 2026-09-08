@@ -265,6 +265,7 @@ jobs:
             echo "::warning::wrong-language audit did not run to completion (exit $RC) — no translations removed"
             tail -20 /tmp/lang-audit.txt || true
             echo "LANG_GATE_SUMMARY removed=0 audit=broken"
+            echo "잘못된 언어 감사 (감사 자체가 실패)" >> /tmp/soft-fail.txt
             exit 0
           fi
           DEL=0
@@ -672,7 +673,9 @@ jobs:
       # inside Palawan.
       - name: Verify photo identity against Commons
         continue-on-error: true
-        run: node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30
+        run: |
+          set -o pipefail
+          node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30 \n            || echo "사진 신원 확인" >> /tmp/soft-fail.txt
 
       # --strip edits post files on the RUNNER — and the day's content
       # commit+push sits ABOVE this step, so for six days the strip removed
@@ -772,7 +775,7 @@ jobs:
       # one of them silently disabled a placeholder check for a week.
       - name: Lint regexes for lost backslashes
         continue-on-error: true
-        run: node scripts/lint-regex.mjs
+        run: node scripts/lint-regex.mjs || echo "정규식 린트(백슬래시 소실)" >> /tmp/soft-fail.txt
 
       # These two read the BUILT site, and CI never had one — the leak audit's
       # first scheduled run reported "빌드된 페이지가 없어 검사조차 못 했습니다"
@@ -830,7 +833,7 @@ jobs:
       - name: Check heading hierarchy
         if: steps.distbuild.outcome == 'success'
         continue-on-error: true
-        run: node scripts/check-heading-skips.mjs
+        run: node scripts/check-heading-skips.mjs || echo "제목 계층(h1→h3 건너뜀)" >> /tmp/soft-fail.txt
 
       # /tools/whats-closed/ renders its default answer at build time so the page
       # is readable without JavaScript. Its first build shipped empty in all five
@@ -840,7 +843,7 @@ jobs:
       - name: Check the what's-closed answer is in the HTML
         if: steps.distbuild.outcome == 'success'
         continue-on-error: true
-        run: node scripts/check-whats-closed-rendered.mjs
+        run: node scripts/check-whats-closed-rendered.mjs || echo "내 날짜에 뭐가 닫나 — 답이 HTML에 없음" >> /tmp/soft-fail.txt
 
       # Each check in here is a design slip the owner once caught by eye. It was
       # written on 2026-08-09 to make them machine checks and then wired to

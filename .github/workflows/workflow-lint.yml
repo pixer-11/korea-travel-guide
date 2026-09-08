@@ -63,11 +63,31 @@ jobs:
         # slot that never comes). The evidence is silence, which looks exactly
         # like a quiet healthy night. Warn only; a late job is a question, not
         # a broken build.
+        id: freshness
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: node scripts/audit-workflow-freshness.mjs
+        run: |
+          set -o pipefail
+          node scripts/audit-workflow-freshness.mjs 2>&1 | tee /tmp/freshness.log
+
+      # 이 검사의 목적이 "침묵을 알아채는 것"인데, 정작 그 결과가 침묵했다:
+      # 실패해도 로그에만 남았다(2026-09-08 MUTED-CHECK).
+      - name: Alert on a job that stopped running
+        if: steps.freshness.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⏰ 예약 작업 중 한동안 돌지 않은 것이 있습니다"
+            echo "예상 주기의 3배가 지나도록 실행 기록이 없다는 뜻입니다."
+            echo
+            tail -c 1200 /tmp/freshness.log
+          } > /tmp/fresh-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/fresh-msg.txt" >/dev/null || true
 
       - name: Alert on broken workflow files
         if: failure()

@@ -139,8 +139,30 @@ jobs:
       # Discover's large card. scan-hero-widths covers posts and runs nightly;
       # nothing covered the hubs, and this audit sat unwired since 2026-08-06.
       - name: Share-image width on home and hubs
+        id: ogwidth
         continue-on-error: true
-        run: node scripts/audit-og-width.mjs
+        run: |
+          set -o pipefail
+          node scripts/audit-og-width.mjs 2>&1 | tee /tmp/og-width.log
+
+      # Wired 2026-09-08 without a voice: it failed on the first full build after
+      # the WebP fix and the only place that said so was the log. Same shape as
+      # the feed and sitemap reports below — report, never block the ship.
+      - name: Report a narrow or unmeasurable share image
+        if: steps.ogwidth.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🖼 공유 이미지 폭 검사가 실패했습니다 (배포는 정상 진행됨)"
+            echo "1200px 미만이면 구글 디스커버 큰 카드에서 빠지고, 못 잰 것이 많으면 검사가 아무것도 못 본 것입니다."
+            echo "커밋: ${GITHUB_SHA:0:7}"
+            echo
+            tail -c 1200 /tmp/og-width.log
+          } > /tmp/og-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/og-msg.txt" >/dev/null || true
 
       - name: Feed / noindex consistency
         id: feedaudit
