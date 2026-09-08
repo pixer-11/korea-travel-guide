@@ -42,7 +42,6 @@ const EXEMPT = new Map([
   ['check-affiliate-status', '제휴사 링크를 네트워크로 확인한다'],
   ['check-publish-ran', '깃허브 워크플로 실행 이력을 본다'],
   ['audit-retired-redirects', '라이브 사이트의 응답 코드를 본다'],
-  ['audit-crowd-claims', '라이브 API 응답을 본다'],
 ]);
 
 const only = (process.argv.find((a) => a.startsWith('--only=')) || '').slice(7);
@@ -78,6 +77,22 @@ const WRITES = /\b(?:writeFileSync|appendFileSync|unlinkSync|rmSync|renameSync|m
 const SCRIPT_RELATIVE = /import\.meta\.url/;
 const sourceOf = (name) => { try { return readFileSync(join(SCRIPTS, `${name}.mjs`), 'utf8'); } catch { return ''; } };
 
+// 쓰기는 그 파일에만 있는 게 아니다. 검사기가 부르는 우리 모듈이 대신 쓸 수 있고,
+// 그 모듈이 스크립트 기준 경로를 쓰면 cwd 를 바꿔도 진짜 저장소가 바뀐다
+// (코덱스 09-08). 그래서 로컬 import 를 따라가며 본다.
+function sourceWithLocalImports(name, seen = new Set()) {
+  const file = name.endsWith('.mjs') ? name : `${name}.mjs`;
+  if (seen.has(file)) return '';
+  seen.add(file);
+  let src = '';
+  try { src = readFileSync(join(SCRIPTS, file), 'utf8'); } catch { return ''; }
+  let out = src;
+  for (const m of src.matchAll(/from\s+['"](\.[^'"]+\.mjs)['"]/g)) {
+    out += `\n${sourceWithLocalImports(m[1].replace(/^\.\//, ''), seen)}`;
+  }
+  return out;
+}
+
 const passed = [];   // 빈 저장소에서 통과를 보고함 = 계약 위반
 const held = [];     // 제대로 비-0
 const unclear = [];  // 시간 초과 — 판정 못 함
@@ -87,7 +102,7 @@ const unsandboxed = []; // 스크립트 기준 경로 — 빈 저장소를 건�
 for (const name of checkers) {
   if (EXEMPT.has(name)) continue;
   const src = sourceOf(name);
-  if (WRITES.test(src)) { mutating.push(name); continue; }
+  if (WRITES.test(sourceWithLocalImports(name))) { mutating.push(name); continue; }
   if (SCRIPT_RELATIVE.test(src)) { unsandboxed.push(name); continue; }
   const root = makeEmptyRepo();
   try {
@@ -114,7 +129,13 @@ if (unsandboxed.length) console.log(`   (스크립트 기준 경로라 빈 저�
 // 첫 실행은 audit-automation 이 빈 저장소에서 "0 workflow(s) audited"로 통과하는
 // 것을 잡아냈는데, 쓰기 제외 규칙을 넣자마자 그 결함이 보이지 않게 됐다.
 // 실행으로 못 재는 것은 소스로 잰다: 계약을 부르는 줄이 있어야 한다.
-const unproven = [...mutating, ...unsandboxed].filter((n) => !/requireExamined\s*\(/.test(sourceOf(n)));
+// 주석에 이름만 적어두면 계약이 지켜진 것으로 읽혔다(코덱스 09-08). 주석을 지우고,
+// 모듈을 실제로 import 했는지까지 본다.
+const declaresContract = (n) => {
+  const src = sourceOf(n).replace(/\/\*[\s\S]*?\*\//g, ' ').replace(/(^|[^:])\/\/[^\n]*/g, '$1');
+  return /from\s+['"][^'"]*examined\.mjs['"]/.test(src) && /requireExamined\s*\(/.test(src);
+};
+const unproven = [...mutating, ...unsandboxed].filter((n) => !declaresContract(n));
 for (const n of unproven) {
   console.log(`CHECKER-CONTRACT-UNDECLARED: ${n} — 실행으로 잴 수 없는데 requireExamined() 도 부르지 않는다`);
 }
@@ -126,10 +147,12 @@ console.log(`\n📋 검사기 ${held.length + passed.length + unclear.length}개
 
 // 이 검사가 아무것도 실행하지 못했다면 그것 자체가 fail-open 이다 — 자기가 잡으려는
 // 부류에 자기가 빠지지 않게 한다.
-if (held.length + passed.length === 0) {
+if (held.length + passed.length + mutating.length + unsandboxed.length === 0) {
   console.log('CHECKER-CONTRACT: 검사기를 하나도 실행하지 못했다 — 이 실행은 아무것도 확인하지 않았다.');
   process.exit(1);
 }
-if (passed.length || unproven.length) process.exit(1);
+// 시간 초과는 "괜찮다"가 아니라 "모른다"다. 모르는 채로 초록불을 켜는 것이
+// 바로 이 하네스가 잡으려는 부류다(코덱스 09-08).
+if (passed.length || unproven.length || unclear.length) process.exit(1);
 console.log('✅ 모든 검사기가 "볼 것이 없으면 통과하지 않는다"는 계약을 지킨다 ' +
   `(${held.length}개는 실행으로, ${mutating.length + unsandboxed.length}개는 소스로 확인).`);

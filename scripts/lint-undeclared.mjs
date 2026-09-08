@@ -32,6 +32,14 @@ for (const dir of ['scripts/lib', 'src/lib']) {
     for (const m of src.matchAll(/^export\s+(?:async\s+)?(?:function|const|let|class)\s+([A-Za-z_$][\w$]*)/gm)) {
       if (!exported.has(m[1])) exported.set(m[1], `${dir}/${f}`);
     }
+    // `export { a, b as c };` — 선언과 내보내기를 따로 쓰는 모양. 이걸 빼먹으면
+    // 그 이름을 import 없이 쓰는 곳을 영영 못 본다(코덱스 09-08).
+    for (const m of src.matchAll(/^export\s*\{([^}]*)\}\s*(?!from)/gm)) {
+      for (const part of m[1].split(',')) {
+        const name = part.split(/\s+as\s+/).pop().trim();
+        if (/^[A-Za-z_$][\w$]*$/.test(name) && !exported.has(name)) exported.set(name, `${dir}/${f}`);
+      }
+    }
   }
 }
 
@@ -86,7 +94,10 @@ for (const dir of DIRS) {
           for (const p of n.params ?? []) boundNames(p, known);
           break;
         case 'CatchClause': boundNames(n.param, known); break;
-        case 'Property': if (n.shorthand) known.add(n.key.name); break;
+        // `const { a } = x` 의 a 는 boundNames 가 이미 잡는다. 객체 리터럴의
+        // `{ editFrontmatter }` 는 선언이 아니라 **사용**이다 — 여기서 선언으로
+        // 치는 바람에 import 빠진 파일이 조용히 통과했다(코덱스 09-08).
+        case 'ClassExpression': if (n.id) known.add(n.id.name); break;
         default: break;
       }
     });
@@ -99,6 +110,17 @@ for (const dir of DIRS) {
       // 오탐이 된다. 내보내기 쪽 `as` 뒤 이름도 마찬가지.
       if (n.type === 'ImportSpecifier' && n.imported?.type === 'Identifier') n.imported.__prop = true;
       if (n.type === 'ExportSpecifier' && n.exported?.type === 'Identifier') n.exported.__prop = true;
+      // 클래스의 메서드·필드 이름도 속성이다. `class A { editFrontmatter() {} }` 가
+      // 미선언 사용으로 잡혔다(코덱스 09-08).
+      if ((n.type === 'MethodDefinition' || n.type === 'PropertyDefinition') && !n.computed
+          && n.key?.type === 'Identifier') n.key.__prop = true;
+      // `export { x as y } from './m.mjs'` 의 x 는 저쪽 모듈의 이름이지 이 파일의 변수가 아니다.
+      if (n.type === 'ExportNamedDeclaration' && n.source) {
+        for (const sp of n.specifiers ?? []) if (sp.local?.type === 'Identifier') sp.local.__prop = true;
+      }
+      // 라벨은 변수가 아니다: `foo: while (…) break foo;`
+      if ((n.type === 'LabeledStatement' || n.type === 'BreakStatement' || n.type === 'ContinueStatement')
+          && n.label?.type === 'Identifier') n.label.__prop = true;
     });
     walk(ast, (n) => {
       if (n.type !== 'Identifier' || n.__prop) return;

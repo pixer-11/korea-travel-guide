@@ -20,6 +20,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { requireExamined } from './lib/examined.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
 const DIR = dirArg ? dirArg.slice(6) : 'src/content/posts';
@@ -76,9 +77,11 @@ const clockWindowClaim = (text) => {
 };
 
 let findings = 0;
+let postsRead = 0;
 for (const f of readdirSync(DIR)) {
   if (!f.endsWith('.md')) continue;
   const raw = readFileSync(join(DIR, f), 'utf8');
+  postsRead++;
   const fmEnd = raw.indexOf('---', 3);
   const fm = fmEnd > 0 ? raw.slice(0, fmEnd) : '';
   const body = fmEnd > 0 ? raw.slice(fmEnd + 3) : raw;
@@ -107,6 +110,8 @@ for (const f of readdirSync(DIR)) {
     findings++;
   }
 }
+
+requireExamined(postsRead, '글', `${DIR} 가 비어 있나?`);
 
 if (findings) {
   console.log(`\n${findings} post(s) make crowd claims with no busyness data behind them.`);
