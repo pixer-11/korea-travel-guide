@@ -54,7 +54,7 @@ for (const file of pages(DIST)) {
 console.log(`probing ${byUrl.size} distinct og:image(s) from ${ALL ? 'all pages' : 'home + hubs'}…`);
 
 const narrow = [];
-let unknown = 0;
+const unmeasured = [];
 for (const [url, users] of byUrl) {
   // Local files (the brand default) can be measured without the network.
   let width = null;
@@ -67,7 +67,7 @@ for (const [url, users] of byUrl) {
   } else {
     width = await probeWidth(url);
   }
-  if (width == null) { unknown++; continue; }
+  if (width == null) { unmeasured.push({ url, users, local: !!localPath }); continue; }
   if (width < MIN_WIDTH) narrow.push({ url, width, users });
 }
 
@@ -76,7 +76,27 @@ for (const n of narrow) {
   console.log(`❌ ${n.width}px — ${n.users.length} page(s) — ${n.url}`);
   n.users.slice(0, 3).forEach((u) => console.log(`      ${u}`));
 }
+const unknown = unmeasured.length;
 console.log(`\n📋 ${byUrl.size} image(s): ${narrow.length} under ${MIN_WIDTH}px, ${unknown} unmeasurable`);
+
+// An alarm that says "could not measure" and stops there sends a person back to
+// the network with a script of their own. Name the hosts and a few URLs, so the
+// next reader can tell a blocked user agent from a URL that 404s (2026-09-08:
+// 460 of 462 unmeasurable, and finding out why meant re-instrumenting by hand).
+if (unknown) {
+  const byHost = new Map();
+  for (const u of unmeasured) {
+    let host;
+    try { host = new URL(u.url).host; } catch { host = '(unparseable URL)'; }
+    if (!byHost.has(host)) byHost.set(host, []);
+    byHost.get(host).push(u);
+  }
+  console.log('못 잰 것의 출처:');
+  for (const [host, list] of [...byHost.entries()].sort((a, b) => b[1].length - a[1].length)) {
+    console.log(`   ${String(list.length).padStart(4)} × ${host}`);
+    for (const u of list.slice(0, 2)) console.log(`        ${u.url}${u.local ? ' (our own path — file missing under public/?)' : ''}`);
+  }
+}
 if (narrow.length) process.exit(1);
 
 // "못 잰 것"은 "괜찮은 것"이 아니다. 2026-09-08 실행: 24개 중 23개를 재지 못했는데
