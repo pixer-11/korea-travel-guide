@@ -20,6 +20,7 @@
 //    node scripts/audit-region-outliers.mjs               # src/content/posts 전체
 //    node scripts/audit-region-outliers.mjs --since=HEAD  # 게이트: 이번 발행분은 피어에서 제외
 //    node scripts/audit-region-outliers.mjs --dir=<d>     # 테스트용
+//    node scripts/audit-region-outliers.mjs --drafts      # 격리 해제 재검사: 초안도 판정
 //
 //  --since 가 있으면 게이트와 같은 범위(git status 의 새/수정 글 + 그 ref 이후
 //  추가된 글)를 "이번 발행분"으로 표시한다. 그 글들은 판정은 받되 피어·라이브
@@ -98,9 +99,16 @@ const allHits = findRegionOutliers(posts).filter((h) => {
 });
 // A post already quarantined for its region is not a new finding — the repair
 // patrol re-checks drafts itself. They are listed, but only live posts fail the run.
-const held = allHits.filter((h) => h.post.draft);
+//
+// …except when the repair patrol IS the caller. It releases a held draft when
+// this script stops naming it, and a name printed as "(held draft, not counted)"
+// does not match its `REGION-OUTLIER:` pick — so a still-wrong draft read as
+// "defect gone" and went back live (Codex 3차, 2026-09-08). --drafts judges
+// drafts like anything else, the same flag audit-hours-claims already had.
+const INCLUDE_DRAFTS = process.argv.includes('--drafts');
+const held = INCLUDE_DRAFTS ? [] : allHits.filter((h) => h.post.draft);
 for (const h of held) console.log(`   (held draft, not counted) ${h.post.file}`);
-const hits = allHits.filter((h) => !h.post.draft);
+const hits = INCLUDE_DRAFTS ? allHits : allHits.filter((h) => !h.post.draft);
 for (const h of hits) {
   const ev = h.evidence.kind === 'address'
     ? `address names ${h.evidence.region}`

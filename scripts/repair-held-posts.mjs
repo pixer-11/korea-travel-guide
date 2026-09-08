@@ -50,8 +50,11 @@ const runChecked = (cmd) => {
 // post carrying them stays held until that tool releases it.
 const CHECKERS = {
   hours: { cmd: 'node scripts/audit-hours-claims.mjs --drafts', pick: /^HOURS-CONTRADICTION:\s*(\S+)\.md/ },
-  'wrong-region': { cmd: 'node scripts/audit-region-outliers.mjs', pick: /^REGION-OUTLIER:\s*(\S+)\.md/ },
+  'wrong-region': { cmd: 'node scripts/audit-region-outliers.mjs --drafts', pick: /^REGION-OUTLIER:\s*(\S+)\.md/ },
 };
+// 여기 실린 명령은 전부 초안을 판정해야 한다. 초안을 건너뛰는 검사기는 "지적 없음"을
+// 돌려주고, 그건 이 순찰에게 "결함이 사라졌다"로 읽혀 격리가 풀린다 — 아래 테스트가
+// 모든 cmd 에 --drafts 가 붙어 있는지 지킨다(scripts/repair-held-posts.test.mjs).
 const reasonsOf = (raw) => (raw.match(/^heldReason:\s*(.+)$/m)?.[1] ?? '').split('+').map((s) => s.trim()).filter(Boolean);
 
 // Quarantined posts the hours audit flags. Photo quarantines are NOT touched —

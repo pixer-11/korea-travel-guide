@@ -39,7 +39,7 @@ function runWith({ heldReason, region = NOOP, hours = NOOP }) {
       src = src.split(from).join(to);
     };
     swap('node scripts/audit-hours-claims.mjs --drafts', hours);
-    swap('node scripts/audit-region-outliers.mjs', region);
+    swap('node scripts/audit-region-outliers.mjs --drafts', region);
     // 사본은 임시 폴더에 있으므로 상대 import 가 풀리지 않는다. 진짜 모듈을 절대
     // 경로로 가리킨다 — 그래야 그 모듈의 node_modules 해석도 함께 산다.
     swap("from './lib/frontmatter-edit.mjs'",
@@ -121,4 +121,21 @@ test('검사기가 뭔가 찍고 죽어도 통과가 아니다 (fail closed)', (
   const r = runWith({ heldReason: 'wrong-region', region: NOISY_CRASH });
   stillHeld(r, 'wrong-region');
   assert.match(r.out, /wrong-region 검사기가 결과 없이 죽음/);
+});
+
+// 2026-09-08 (코덱스 3차): 위의 테스트들은 가짜 검사기가 REGION-OUTLIER 줄을 찍어
+// 주므로 전부 통과했지만, 진짜 audit-region-outliers 는 초안을 "(held draft, not
+// counted)" 로만 적고 그 줄은 pick 에 걸리지 않았다 — 아직 구역이 틀린 초안이
+// "결함 사라짐"으로 읽혀 다시 발행됐다. 가짜로는 못 잡는 부류라, 진짜 소스의
+// CHECKERS 표를 직접 읽어 불변식을 지킨다.
+test('격리 해제의 재검사 명령은 전부 초안까지 판정해야 한다(--drafts)', () => {
+  const src = readFileSync(SCRIPT, 'utf8');
+  const block = src.match(/const CHECKERS = \{[\s\S]*?\n\};/);
+  assert.ok(block, 'CHECKERS 표를 찾지 못함 — 이 테스트가 아무것도 지키지 않는다');
+  const cmds = [...block[0].matchAll(/cmd:\s*'([^']+)'/g)].map((m) => m[1]);
+  assert.ok(cmds.length > 0, 'CHECKERS 에서 cmd 를 하나도 읽지 못함');
+  for (const cmd of cmds) {
+    assert.ok(cmd.includes('--drafts'),
+      `초안을 건너뛰는 검사기는 격리를 잘못 풀어준다: ${cmd}`);
+  }
 });
