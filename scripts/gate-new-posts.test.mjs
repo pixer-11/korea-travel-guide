@@ -9,6 +9,7 @@
 import { mkdtempSync, writeFileSync, rmSync, readFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
 const SCRIPT = join(process.cwd(), 'scripts', 'gate-new-posts.mjs');
@@ -19,6 +20,10 @@ function runWith(replacements) {
   try {
     let src = readFileSync(SCRIPT, 'utf8');
     for (const [from, to] of replacements) src = src.split(from).join(to);
+    // 사본이 임시 폴더에 있으니 상대 import 가 풀리지 않는다. 진짜 모듈을 절대
+    // 경로로 가리킨다 — 그 모듈 위치에서 node_modules 해석이 살아난다.
+    src = src.split("from './lib/frontmatter-edit.mjs'")
+      .join('from ' + JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'frontmatter-edit.mjs')).href));
     const p = join(dir, 'gate.mjs');
     writeFileSync(p, src, 'utf8');
     try {

@@ -21,6 +21,7 @@
 import { readFileSync, writeFileSync, unlinkSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';
+import { editFrontmatter, readFrontmatter } from './lib/frontmatter-edit.mjs';
 
 const DIR = 'src/content/posts';
 const dry = process.argv.includes('--dry');
@@ -218,17 +219,20 @@ for (const [f, why] of reasons) {
   if (/^draft:\s*true\s*$/m.test(raw)) continue;          // already held back
 
   if (!dry) {
-    // Written as a plain line rather than through a YAML round-trip: re-dumping
-    // the frontmatter would reformat place/heroImage/gallery on every post it
-    // touches, and this runs on live content.
+    // This used to be a raw line edit, for a good reason: a YAML round-trip
+    // would reformat place/heroImage/gallery on every post it touched, and this
+    // runs on live content. lib/frontmatter-edit keeps that property — it only
+    // rewrites the lines of the keys it was asked to change and leaves every
+    // other line byte-identical — while fixing what the pattern could not see.
     // `heldReason: hours` records WHY inside the file. The repair patrol keys
     // on it: a held post whose contradiction later vanishes by another route
     // (data refresh, direct fix) passes the audit and used to become invisible
     // to the patrol — held forever with nothing wrong (nice-parc-ph-nix,
     // 2026-08-08). Photo quarantines carry no marker and stay untouched.
-    let next = /^draft:\s*false\s*$/m.test(raw)
-      ? raw.replace(/^draft:\s*false\s*$/m, 'draft: true')
-      : raw.replace(/^---\r?\n/, `---\ndraft: true\n`);
+    // 공용 편집기(lib/frontmatter-edit)를 쓴다. 예전 정규식은 본문 코드예제의
+    // `draft: false` 를 대신 고칠 수 있었고, 키가 없으면 프론트매터 맨 앞에
+    // 밀어 넣느라 `---` 로 시작하는 본문과도 부딪혔다.
+    let next = raw;
     // Reason follows the actual finding: the repair patrol only handles the
     // hours class, and a photo/content hold mislabelled as "hours" sent it
     // re-auditing the wrong thing (full-audit 2026-08-10).
@@ -244,7 +248,15 @@ for (const [f, why] of reasons) {
       whys.some((w) => /지역 태그|region/i.test(w)) && 'wrong-region',
       whys.some((w) => !/영업시간|hours|지역 태그|region/i.test(w)) && 'content',
     ].filter(Boolean).join('+') || 'content';
-    if (!/^heldReason:/m.test(next)) next = next.replace(/^draft:\s*true\s*$/m, `draft: true\nheldReason: ${reason}`);
+    // 보류 사유가 이미 있으면 덮어쓰지 않는다 — 먼저 기록된 사유가 더 구체적이다.
+    const already = readFrontmatter(raw)?.heldReason;
+    try {
+      next = editFrontmatter(next, already ? { draft: true } : { draft: true, heldReason: reason });
+    } catch (err) {
+      console.log(`  ⚠️ ${f}: 프론트매터를 안전하게 고치지 못해 그대로 둔다 — ${err.message}`);
+      held.push({ f, why: [...why] });
+      continue;
+    }
     writeFileSync(path, next);
   }
   held.push({ f, why: [...why] });

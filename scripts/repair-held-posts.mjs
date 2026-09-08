@@ -21,6 +21,7 @@
 //
 //   node scripts/repair-held-posts.mjs           (used by publish.yml, after the gate)
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
+import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 
@@ -125,9 +126,16 @@ for (const slug of before) {
     if (v.still.has(slug)) { blocked = reason === 'hours' ? '수리 후에도 영업시간 모순 남음' : `${reason} 결함이 여전함`; break; }
   }
   if (blocked) { console.log(`  ✗ ${slug} — ${blocked}, 격리 유지`); continue; }
-  writeFileSync(p, raw
-    .replace(/^draft:\s*true\s*$/m, 'draft: false')
-    .replace(/^heldReason:.*\r?\n/m, ''));
+  // 공용 편집기를 쓴다. 예전 정규식은 본문 코드예제의 `draft: true`를 대신 고쳤고
+  // `heldReason : x`(콜론 앞 공백)을 못 봤다 — 둘 다 보류된 글을 잘못 되살리는 자리였다.
+  let next;
+  try {
+    next = editFrontmatter(raw, { draft: false, heldReason: DELETE });
+  } catch (err) {
+    console.log(`  ✗ ${slug} — 프론트매터를 안전하게 고치지 못함(${err.message}), 격리 유지`);
+    continue;
+  }
+  writeFileSync(p, next);
   repaired.push(slug);
   console.log(`  ✓ ${slug} — 수리 완료(${toClear.join('+')} 전부 통과), 재발행`);
 }

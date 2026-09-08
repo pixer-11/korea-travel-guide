@@ -11,6 +11,7 @@ import assert from 'node:assert/strict';
 import { mkdtempSync, mkdirSync, writeFileSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
 const SCRIPT = join(process.cwd(), 'scripts', 'repair-held-posts.mjs');
@@ -39,6 +40,10 @@ function runWith({ heldReason, region = NOOP, hours = NOOP }) {
     };
     swap('node scripts/audit-hours-claims.mjs --drafts', hours);
     swap('node scripts/audit-region-outliers.mjs', region);
+    // 사본은 임시 폴더에 있으므로 상대 import 가 풀리지 않는다. 진짜 모듈을 절대
+    // 경로로 가리킨다 — 그래야 그 모듈의 node_modules 해석도 함께 산다.
+    swap("from './lib/frontmatter-edit.mjs'",
+      `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'frontmatter-edit.mjs')).href)}`);
     src = src.replace(/node scripts\/fix-hours-claims\.mjs[^`']*/g, NOOP);
     src = src.replace(/node scripts\/translate-posts\.mjs[^`']*/g, NOOP);
     const p = join(root, 'repair.mjs');

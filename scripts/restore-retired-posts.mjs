@@ -22,6 +22,7 @@
 //    node scripts/restore-retired-posts.mjs slug-a,slug-b [--from=0a3bf776^] [--dry]
 // ─────────────────────────────────────────────────────────────
 import { execFileSync } from 'node:child_process';
+import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -39,11 +40,10 @@ const show = (path) => {
 };
 /** The file as it was, with draft forced true and no hold reason: a photo patrol target. */
 export function asPhotoHeldDraft(src) {
-  const eol = src.includes('\r\n') ? '\r\n' : '\n';
-  let out = src.replace(/^heldReason:.*\r?\n/m, '');
-  if (/^draft:\s*\S+/m.test(out)) out = out.replace(/^draft:\s*\S+.*$/m, 'draft: true');
-  else out = out.replace(/^(pubDate:.*)(\r?\n)/m, (m, a, b) => `${a}${b}draft: true${eol}`);
-  return out;
+  // 공용 편집기가 세 가지를 대신 처리한다: 본문 코드예제의 `draft:` 를 건드리지
+  // 않고, `heldReason : x`(콜론 앞 공백)도 지우며, 키가 없으면 pubDate 뒤에
+  // 끼워 넣는 자리 맞추기 없이 그냥 추가한다.
+  return editFrontmatter(src, { draft: true, heldReason: DELETE });
 }
 
 const RETIRED = join(ROOT, 'data', 'retired-posts.json');
