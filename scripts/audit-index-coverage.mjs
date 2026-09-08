@@ -131,7 +131,12 @@ const lines = results.map((r) => {
   const why = [
     c.notCrawled ? `안읽음 ${c.notCrawled}` : '',
     c.crawledOut ? `읽고거름 ${c.crawledOut}` : '',
-    c.unknown ? `신규 ${c.unknown}` : '',
+    // "신규" made this sound like a page published yesterday that just needs
+    // time. The API word is "URL is unknown to Google" — Google has never seen
+    // the address at all, which on a five-week-old page sitting in a submitted
+    // sitemap is the opposite of reassuring. On 2026-09-08 all 21 eSIM pages
+    // read this way and the label invited us to wave it off as newness.
+    c.unknown ? `구글이 본 적 없음 ${c.unknown}` : '',
     c.other ? `기타 ${c.other}` : '',
   ].filter(Boolean).join(' · ');
   return `${flag} ${r.key}: 표본 ${r.sampled}/${r.pool} 중 색인 ${r.indexed} (${pct}%)${why ? ` — ${why}` : ''}${r.failed ? ` · 조회실패 ${r.failed}` : ''}`;
@@ -147,7 +152,7 @@ const crawledOut = tot('crawledOut');
 const notCrawled = tot('notCrawled') + tot('unknown');
 const advice = crawledOut > notCrawled
   ? '구글이 읽고도 거른 페이지가 다수 — 내용 보강/정리가 맞는 처방입니다.'
-  : '대부분 구글이 아직 읽지 않은 페이지(크롤 예산·신규) — 페이지 보강으로는 해결되지 않고, 백링크·시간이 처방입니다. 읽고도 거른 건은 "읽고거름" 수치로 표시됩니다.';
+  : '대부분 구글이 아직 읽지 않은 페이지(크롤 예산) — 페이지 보강으로는 해결되지 않고, 백링크·시간이 처방입니다. 읽고도 거른 건은 "읽고거름" 수치로 표시됩니다.\n※ "구글이 본 적 없음"이 오래된 페이지에 붙었다면 나이 탓이 아니다 — 사이트맵·robots·리디렉션을 먼저 볼 것.';
 const head = alarms.length
   ? `🚨 프로그래매틱 페이지 색인율 경보 (${alarms.map((a) => a.key).join(', ')} — 80% 미만)\n${advice}`
   : `🔍 주간 색인율 점검 — 전 유형 정상 (80% 이상)`;
