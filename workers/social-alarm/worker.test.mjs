@@ -13,7 +13,7 @@
 // shape of a single dispatch and what happens when it fails.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import worker, { fireDispatches, alertFailures } from './worker.mjs';
+import worker, { fireDispatches, alertFailures, SCHEDULE } from './worker.mjs';
 
 const ONE = ['threads-daily.yml'];
 // 같은 재시도 횟수, 기다림만 0 — 지연 '값'은 이 테스트의 주장이 아니다.
@@ -139,12 +139,19 @@ test('scheduled resolves quietly on success', async () => {
 });
 
 test('each cron wakes only what it is for — the publish slot does not post to Threads', async () => {
+  // The cron is looked up by what it wakes, not written out again: this test
+  // held the literal '35 10 * * *' and, when the publish rescue moved to 16:35
+  // KST (2026-09-09), that string stopped matching any key — which makes
+  // targetsFor fall back to waking EVERYTHING. It failed loudly, as it should,
+  // and the lookup keeps the next move from having to remember this file.
+  const cron = Object.keys(SCHEDULE).find((k) => SCHEDULE[k].join() === 'publish-watchdog.yml');
+  assert.ok(cron, 'no Cloudflare cron wakes publish-watchdog on its own any more');
   const fired = [];
   await withGlobalFetch(async (url) => {
     fired.push(url.split('/workflows/')[1].split('/')[0]);
     return { status: 204 };
   }, async () => {
-    await worker.scheduled({ cron: '35 10 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+    await worker.scheduled({ cron }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
   });
   assert.deepEqual(fired, ['publish-watchdog.yml']);
 });

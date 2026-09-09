@@ -62,10 +62,15 @@ export const SCHEDULE = {
   // 18:53 KST — schedule-watchdog's own 09:48 UTC slot. Sweeps the morning
   // roster (publish, indexnow, analytics, alt-photos, reddit…) on time.
   '53 9 * * *': ['schedule-watchdog.yml'],
-  // 19:35 KST — publish-watchdog's own 10:30 UTC slot. Dispatched directly
+  // 16:35 KST — publish-watchdog's own 07:30 UTC slot. Dispatched directly
   // rather than via schedule-watchdog, whose 100-minute grace would hold the
   // rescue until 12:10 UTC and push publishing past its day.
-  '35 10 * * *': ['publish-watchdog.yml'],
+  // Moved here from 10:35 UTC on 2026-09-09: GitHub's own delivery of publish
+  // now runs 4-6 hours late EVERY day, so this dispatch is what publishes, and
+  // at 10:35 it was publishing at 19:35 KST rather than the 16:19 the schedule
+  // promises. The watchdog is slot-anchored and publish keeps a one-batch-per-
+  // KST-day guard, so waking it 16 minutes after the slot cannot double-publish.
+  '35 7 * * *': ['publish-watchdog.yml'],
   // 23:23 KST — schedule-watchdog's own 14:18 UTC slot. Catches the evening
   // roster (pinterest, threads, refresh) before the KST day rolls over.
   '23 14 * * *': ['schedule-watchdog.yml'],

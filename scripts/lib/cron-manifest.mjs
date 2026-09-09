@@ -32,5 +32,5 @@ export const MANIFEST = [
   // 알아챌 사람이 없었다). 구조 발화는 안전하다: check-publish-ran 은 슬롯
   // 기준이라 이미 발행된 슬롯에서는 조용히 끝나고, 발행 자체에도 하루 1배치
   // 가드가 있다.
-  { file: 'publish-watchdog.yml', name: '발행 감시견', crons: ['30 10 * * *'] },
+  { file: 'publish-watchdog.yml', name: '발행 감시견', crons: ['30 7 * * *'] },
 ];

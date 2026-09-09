@@ -7,11 +7,16 @@ name: Publish watchdog
 # starts has no failure to report. Publishing can stop dead and the only symptom
 # is a site that quietly stops growing.
 #
-# Runs three hours after the publish cron (07:19 UTC), which is long enough for a
-# merely-late schedule to have landed on its own. Silent when publishing ran.
+# It used to run three hours after the publish cron (07:19 UTC) — long enough for
+# a merely-late schedule to have landed on its own, back when GitHub was half an
+# hour late. Measured 2026-09-09 over 14 days: GitHub's own delivery of publish.yml
+# is now 4-6 HOURS late every single day, so the rescue was what published, and it
+# published at 19:35 KST instead of 16:19. Eleven minutes is the new grace: if
+# GitHub is punctual the run is already there and this stays silent; if GitHub is
+# late its run lands on publish's one-batch-per-KST-day guard and does nothing.
 on:
   schedule:
-    - cron: '30 10 * * *'   # 19:30 KST, ~3h after the publish cron
+    - cron: '30 7 * * *'   # 16:30 KST, 11 min after the publish cron
   workflow_dispatch:
 
 permissions:
