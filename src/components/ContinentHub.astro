@@ -56,14 +56,19 @@ const jsonLd = {
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
 // og:image separately (page weight is unaffected) and Google Discover only
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = pickOgPhoto(posts);
+// Only THIS continent's posts, and only through pickOgPhoto: taking the newest
+// hero of any width is the same defect that disqualified the home page and ten
+// hubs on 2026-08-06, and it came back here because heroImg won the `||` below.
+// On 2026-09-09 /continents/north-america/ shared an 849px photo across five
+// pages and lost the Discover large card.
+const ogPhoto = pickOgPhoto(posts.filter((p) => names.has(p.data.country ?? 'South Korea')));
 
 ---
 
 <BaseLayout
   title={`${contLabelName} — ${t('nav.destinations')}`}
   description={`${SITE.name} · ${contLabelName} · ${liveText}`}
-  image={heroImg || ogPhoto}
+  image={ogPhoto || heroImg}
   jsonLd={jsonLd}
   localized={true}
 >
