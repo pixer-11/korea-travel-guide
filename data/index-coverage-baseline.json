@@ -84,5 +84,47 @@
       "22% of a nearly-exhausted crawl budget goes to the www host, which only redirects to the apex.",
       "Response time 134ms - the server is not the constraint."
     ]
+  },
+  "crawlStatsObserved": {
+    "capturedOn": "2026-09-09",
+    "source": "GSC > Settings > Crawl stats > Export (zip), read by the owner and parsed here",
+    "totalRequests90d": 52877,
+    "byHost": {
+      "wanderatlasguides.com": 41415,
+      "www.wanderatlasguides.com": 11462
+    },
+    "avgResponseMs": 134,
+    "dailyRequests": {
+      "2026-07-21..31": 3657,
+      "2026-08-01..12": 784,
+      "2026-08-13..26 (immediately before the throttle)": 162,
+      "2026-08-27..09-07 (under the throttle)": 81
+    },
+    "verdictAxis": "backfired",
+    "reading": "Requests per day halved after the throttle started. The pre-registered rule says to read this axis BEFORE the coverage numbers and that a throttle which suppressed crawling further is a loss no coverage reading can offset. Note the honest caveat: crawl was already in free-fall before 08-27 (3657 -> 784 -> 162), so the halving may be continuation rather than consequence. The rule was written to decide under exactly this ambiguity, and it decides: restore."
+  },
+  "coverageObserved0909": {
+    "note": "GSC had not refreshed coverage since 2026-08-29; the export's series is flat to 09-04.",
+    "indexed": 5207,
+    "notIndexed": 9549,
+    "discoveredNotIndexed": 6544,
+    "baselineDiscoveredNotIndexed": 5036,
+    "otherReasons": {
+      "redirect": 1883,
+      "alternateWithCanonical": 840,
+      "notFound404": 164,
+      "noindexTag": 81,
+      "crawledNotIndexed": 19,
+      "duplicateGoogleChoseOther": 18
+    },
+    "reading": "The bucket the rule keys on grew 30% (5,036 -> 6,544) and indexed slipped 5,229 -> 5,207, which is the 'intakeWasNotTheConstraint' threshold."
+  },
+  "decision0909": {
+    "decidedOn": "2026-09-09",
+    "decision": "restore publish-throttle.json (postsPerRun 5 -> 16, backfill 0 -> 25 = the ramp's first step)",
+    "byWhichRule": "backfired + intakeWasNotTheConstraint, both pre-registered 2026-08-28",
+    "throttleWasApplied": "yes - 5 posts/day since 09-01, verified from pubDates",
+    "nextRevisit": "2026-10-07; the number to watch is Googlebot requests/day (81 today, 162 before the throttle)",
+    "whatIsLeft": "Google fetches 81 pages a day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority, and backlinks are the lever."
   }
 }

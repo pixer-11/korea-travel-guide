@@ -1,9 +1,9 @@
 {
-  "postsPerRun": 5,
-  "backfillPerRun": 0,
-  "setAt": "2026-08-27",
-  "revisitAt": "2026-09-10",
-  "reason": "Google stopped crawling us. 5,036 URLs sit in 'Discovered - currently not indexed' and the queue grows every day. Measured 2026-08-27: the 634 posts published since 08-08 have produced 0 impressions and 0 clicks, while posts from July still earn. We were paying Places/vision/translation costs for pages Google never fetched. Cutting intake from ~330 URLs/day to 25 so the queue can drain.",
+  "postsPerRun": 16,
+  "backfillPerRun": 25,
+  "setAt": "2026-09-09",
+  "revisitAt": "2026-10-07",
+  "reason": "RESTORED on 2026-09-09 by the rule pre-registered on 2026-08-28, one day before its own revisitAt, because the crawl-stats axis it told us to read FIRST came back decisive. Googlebot's requests to this site: 3,657/day (07-21..31) -> 784 (08-01..12) -> 162 (08-13..26, just before the throttle) -> 81 (08-27..09-07, under it). The throttle halved an already-collapsing crawl rate, which is the 'backfired' threshold verbatim: the experiment cost freshness signal without draining the queue. The queue did not drain either - 'Discovered - currently not indexed' went 5,036 -> 6,544 and total not-indexed 7,993 -> 9,549 while indexed slipped 5,229 -> 5,207, which is the 'intakeWasNotTheConstraint' threshold. Two axes, one answer. The throttle was honestly applied (5 posts/day since 09-01, verified from pubDates), so 'throttleNotApplied' does not explain it.",
   "restoreTo": {
     "postsPerRun": 16,
     "backfillPerRun": "ramp",
@@ -12,5 +12,15 @@
   "howToDecide": "PRE-REGISTERED 2026-08-28 (owner delegated; supersedes the older text that said 'restore the values above' when the queue had not moved - the 08-28 five-analyst audit + Codex cross-exam judged that reflex wrong). On revisitAt, FIRST export GSC coverage and crawl stats segmented by language, page type, publication cohort and host (the falsification test for the site-classification hypothesis). THEN: (a) if 'Discovered - currently not indexed' fell meaningfully below 5,036, intake was a binding constraint - raise postsPerRun slowly (5 -> 10 -> 16 over weeks), re-measuring each step; (b) if it has NOT moved, do NOT restore volume - hold 5/day, keep the freed Places/vision/translation budget on refresh + authority work (backlinks, template-variance cohort), and re-read on the next cycle. A red verdict means the constraint is authority and uniformity, and more URLs make that worse, not better.",
   "ownerDecisions": {
     "translations": "2026-08-28 owner decision: ALL FIVE LANGUAGES stay for every post, unconditionally. Translation gating (EN-first, others after indexation) was proposed by the audit and REJECTED by the owner - do not resurrect it as an optimization."
-  }
+  },
+  "whatThisMeans": "Intake was never the constraint. The crawl collapse PRECEDED the publishing surge - the 08-27 baseline already recorded that as evidence against the throttle hypothesis, before the experiment could be credited with anything. What is left is authority: Google crawls 81 pages a day from a site offering ~12,000 URLs, and no publishing rate fixes that. Backlinks and external signals are the lever; see wander-atlas-backlink-outreach.",
+  "previousThrottle": {
+    "postsPerRun": 5,
+    "backfillPerRun": 0,
+    "setAt": "2026-08-27",
+    "endedAt": "2026-09-09",
+    "heldFor": "13 days",
+    "result": "no indexation recovery; crawl rate halved; queue grew"
+  },
+  "backfillNote": "25, not -1. The pre-registered restoreTo says 'ramp', meaning the 25/35/50-by-week logic in backfill.yml - but that ramp counts weeks from data/fill-phase.json's switchedAt, and that clock kept running through the 13-day pause. Handing it -1 today lands on week 4 = 50 per run, which with postsPerRun 16 would be ~66 posts/day: more than three times the ~20/day this site published before the throttle, in one step. That is not a restore. So the ramp is re-entered at its first step by hand. Raise to 35 after a week and 50 after two IF the crawl rate is responding - the number to watch is Googlebot requests/day, which is 81 today and was 162 before the throttle."
 }
