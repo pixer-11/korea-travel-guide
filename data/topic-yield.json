@@ -2,20 +2,20 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 25,
+   "attempts": 26,
    "hits": 1
   },
   "historic site": {
-   "attempts": 150,
+   "attempts": 152,
    "hits": 93
   },
   "park": {
-   "attempts": 139,
-   "hits": 80
+   "attempts": 142,
+   "hits": 81
   },
   "viewpoint": {
-   "attempts": 51,
-   "hits": 6
+   "attempts": 52,
+   "hits": 7
   },
   "art gallery": {
    "attempts": 35,
@@ -34,7 +34,7 @@
    "hits": 92
   },
   "noodles": {
-   "attempts": 17,
+   "attempts": 18,
    "hits": 0
   },
   "old quarter": {
@@ -42,15 +42,15 @@
    "hits": 2
   },
   "local market": {
-   "attempts": 33,
-   "hits": 8
+   "attempts": 34,
+   "hits": 9
   },
   "bookshop": {
    "attempts": 4,
    "hits": 0
   },
   "seafood": {
-   "attempts": 36,
+   "attempts": 49,
    "hits": 2
   },
   "hidden gem": {
@@ -62,11 +62,11 @@
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 55,
+   "attempts": 62,
    "hits": 2
   },
   "street food": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 5
   },
   "bakery": {
@@ -86,7 +86,7 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 10,
+   "attempts": 12,
    "hits": 2
   },
   "grill": {
@@ -160,7 +160,23 @@
   "lantern festival": {
    "attempts": 1,
    "hits": 0
+  },
+  "Preah Khan": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Phnom Bakheng": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Angkor National Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Phare Cambodian Circus": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-09-09T07:51:21.609Z"
+ "updated": "2026-09-09T14:48:08.435Z"
 }

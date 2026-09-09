@@ -28278,5 +28278,89 @@
   "registerBreak": false,
   "worst": "지금의 건물과 탑은 대부분 20세기 재건축을 거친 것으로, 남인도 사원 건축 양식인 드라비다 양식으로 지어졌습니다.",
   "at": "2026-09-09T07:58:55.618Z"
+ },
+ "es/siem-reap-phnom-bakheng-temple": {
+  "hash": "ce4a4530b37c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los datos de afluencia del lugar muestran que, los fines de semana, el momento de mayor concurrencia va de las 4pm a las",
+  "at": "2026-09-09T14:41:13.311Z"
+ },
+ "es/siem-reap-preah-khan-temple": {
+  "hash": "b77a3f13c959",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Preah Khan es lo bastante conocido como para que los autobuses turísticos lo incluyan...",
+  "at": "2026-09-09T14:41:15.058Z"
+ },
+ "es/siem-reap-srah-srang": {
+  "hash": "a5015a28ad82",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es un lugar que recompensa a quienes disfrutan de las ruinas por su ingeniería y su atmósfera",
+  "at": "2026-09-09T14:41:17.264Z"
+ },
+ "ja/siem-reap-phnom-bakheng-temple": {
+  "hash": "3919da7c4439",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現地の混雑データによれば、週末の混雑のピークは午後4時頃から7時頃まで続きます。",
+  "at": "2026-09-09T14:41:25.150Z"
+ },
+ "ja/siem-reap-preah-khan-temple": {
+  "hash": "0ab63f38e301",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "アンコール・ワットのように中心にそびえる塔は、プリア・カンにはありません。",
+  "at": "2026-09-09T14:41:27.233Z"
+ },
+ "ja/siem-reap-srah-srang": {
+  "hash": "2c6cd86319c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "シェムリアップで午前4時半に目覚ましをかける人の多くは、アンコールワットの反射池を目指します。",
+  "at": "2026-09-09T14:41:29.390Z"
+ },
+ "ko/siem-reap-phnom-bakheng-temple": {
+  "hash": "f4255e6700a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "해가 저물어갈 때 사람들과 부딕히는 정도는 훨씬 덜하기 때문입니다.",
+  "at": "2026-09-09T14:41:31.134Z"
+ },
+ "ko/siem-reap-preah-khan-temple": {
+  "hash": "81dbbdfe56c8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳이 높은 평가를 받는 이유는 바로 조각입니다. 다음을 눈여겨보시기 바랍니다:",
+  "at": "2026-09-09T14:41:33.457Z"
+ },
+ "ko/siem-reap-srah-srang": {
+  "hash": "5476c100fc5f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "한낮의 강한 햇빛은... 훨씨 힘든 시간대입니다.",
+  "at": "2026-09-09T14:41:35.225Z"
+ },
+ "zh/siem-reap-phnom-bakheng-temple": {
+  "hash": "680f24166dc3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "正因如此，加上山顶平台本身不大，而这一点几乎人尽皆知，这里很快就会被挤满。",
+  "at": "2026-09-09T14:42:48.436Z"
+ },
+ "zh/siem-reap-preah-khan-temple": {
+  "hash": "7878e075273c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "雕刻艺术正是这里备受推崇的原因所在。",
+  "at": "2026-09-09T14:41:49.438Z"
+ },
+ "zh/siem-reap-srah-srang": {
+  "hash": "7a870400e43e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "或是斯拉斯浪那些更出名的“邻居”景点。",
+  "at": "2026-09-09T14:41:58.607Z"
  }
 }

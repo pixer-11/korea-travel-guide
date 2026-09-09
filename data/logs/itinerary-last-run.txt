@@ -30,11 +30,14 @@ New Orleans, United States — 17 qualifying post(s), variants: 3
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
+Siem Reap, Cambodia — 14 qualifying post(s), variants: 3
+NEW_ITINERARY: Siem Reap 3d
+
 Singapore, Singapore — 63 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
