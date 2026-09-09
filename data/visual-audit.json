@@ -17359,5 +17359,101 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Street scene unrelated to snooker event",
     "at": "2026-09-08T22:13:44.066Z"
+  },
+  "paris-sainte-chapelle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg/3840px-Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg": {
+    "slug": "paris-sainte-chapelle",
+    "verdict": "MATCH",
+    "reason": "publish gate: Gothic stained-glass interior matches Sainte-Chapelle upper chapel",
+    "at": "2026-09-09T07:36:40.524Z"
+  },
+  "paris-jardin-du-luxembourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/1920px-LuxembourgMontparnasse.JPG": {
+    "slug": "paris-jardin-du-luxembourg",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view clearly showing Jardin du Luxembourg gardens and palace",
+    "at": "2026-09-09T07:37:50.957Z"
+  },
+  "osaka-shitenno-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Shitennoji_%26_Abeno_Harukas.jpg/1920px-Shitennoji_%26_Abeno_Harukas.jpg": {
+    "slug": "osaka-shitenno-ji",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
+    "at": "2026-09-09T07:38:31.303Z"
+  },
+  "san-diego-mormon-battalion-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg/1920px-San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg": {
+    "slug": "san-diego-mormon-battalion-historic-site",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Mormon Battalion Historic Site building",
+    "at": "2026-09-09T07:39:38.264Z"
+  },
+  "osaka-nakanoshima-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osaka_Central_Public_Hall_in_201409.JPG/1920px-Osaka_Central_Public_Hall_in_201409.JPG": {
+    "slug": "osaka-nakanoshima-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Nakanoshima Public Hall, iconic building in the park",
+    "at": "2026-09-09T07:40:15.880Z"
+  },
+  "san-diego-botanical-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lily_pond_and_Botanical_Building_among_palms%2C_Balboa_Park%2C_San_Diego%2C_California.jpg/1920px-Lily_pond_and_Botanical_Building_among_palms%2C_Balboa_Park%2C_San_Diego%2C_California.jpg": {
+    "slug": "san-diego-botanical-building",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic Botanical Building exterior with reflecting pool, San Diego",
+    "at": "2026-09-09T07:41:13.406Z"
+  },
+  "lombok-pura-lingsar\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/COLLECTIE_TROPENMUSEUM_Pura_Lingsar_TMnr_60017222.jpg": {
+    "slug": "lombok-pura-lingsar",
+    "verdict": "MATCH",
+    "reason": "publish gate: Plausible temple gate and pavilion matching Pura Lingsar architecture",
+    "at": "2026-09-09T07:42:28.546Z"
+  },
+  "mong-kok-sik-sik-yuen-wong-tai-sin-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sik_Sik_Yuen_Wong_Tai_Sin_Temple_%2853629121611%29.jpg/3840px-Sik_Sik_Yuen_Wong_Tai_Sin_Temple_%2853629121611%29.jpg": {
+    "slug": "mong-kok-sik-sik-yuen-wong-tai-sin-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple architecture with skyline, representative venue view",
+    "at": "2026-09-09T07:43:15.651Z"
+  },
+  "labuan-bajo-bena-traditional-village-thatched-roof-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BTV_-_Thatched_roofs_in_Bena_traditional_village%2C_Flores%2C_Indonesia%2C_2019.jpg/3840px-BTV_-_Thatched_roofs_in_Bena_traditional_village%2C_Flores%2C_Indonesia%2C_2019.jpg": {
+    "slug": "labuan-bajo-bena-traditional-village-thatched-roof-village",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows thatched-roof traditional houses matching Bena village description",
+    "at": "2026-09-09T07:44:29.964Z"
+  },
+  "nashville-johnny-cash-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Johnny_Cash_Museum%2C_Nashville.JPG/1920px-Johnny_Cash_Museum%2C_Nashville.JPG": {
+    "slug": "nashville-johnny-cash-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Johnny Cash Museum building with clear signage",
+    "at": "2026-09-09T07:45:33.759Z"
+  },
+  "shanghai-fuxing-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fuxing_Park%2C_Shanghai.JPG/1920px-Fuxing_Park%2C_Shanghai.JPG": {
+    "slug": "shanghai-fuxing-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park garden with skyline, plausible Fuxing Park view",
+    "at": "2026-09-09T07:46:18.136Z"
+  },
+  "little-india-sri-veeramakaliamman-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2016_Singapur%2C_Little_India%2C_%C5%9Awi%C4%85tynia_Sri_Veeramakaliamman_%2813%29.jpg/3840px-2016_Singapur%2C_Little_India%2C_%C5%9Awi%C4%85tynia_Sri_Veeramakaliamman_%2813%29.jpg": {
+    "slug": "little-india-sri-veeramakaliamman-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Hindu temple statuary consistent with Sri Veeramakaliamman Temple interior",
+    "at": "2026-09-09T07:47:03.112Z"
+  },
+  "portland-omsi\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/OMSI.jpg": {
+    "slug": "portland-omsi",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows OMSI building exterior with submarine, recognizable venue view",
+    "at": "2026-09-09T07:48:27.095Z"
+  },
+  "milan-parco-sempione\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg/1920px-Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg": {
+    "slug": "milan-parco-sempione",
+    "verdict": "MATCH",
+    "reason": "publish gate: Sforza Castle and park lawn, representative of Parco Sempione",
+    "at": "2026-09-09T07:49:15.481Z"
+  },
+  "colmar-musee-unterlinden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mus%C3%A9e_d%27Unterlinden_Colmar.jpg/1920px-Mus%C3%A9e_d%27Unterlinden_Colmar.jpg": {
+    "slug": "colmar-musee-unterlinden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Unterlinden Museum's former convent building and garden",
+    "at": "2026-09-09T07:50:24.106Z"
+  },
+  "tokyo-tokyo-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tokyo_National_Museum%2C_Honkan_2010.jpg/1920px-Tokyo_National_Museum%2C_Honkan_2010.jpg": {
+    "slug": "tokyo-tokyo-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Tokyo National Museum with reflecting pool",
+    "at": "2026-09-09T07:51:21.588Z"
   }
 }

@@ -28194,5 +28194,89 @@
   "registerBreak": false,
   "worst": "미식 순례라기보다는 랜드마크 안에서 식사하는 전망과 특별한 경험에 값을 치른다고 보면 됩니다.",
   "at": "2026-09-08T14:37:44.371Z"
+ },
+ "ja/kuala-lumpur-islamic-arts-museum-malaysia": {
+  "hash": "3d4947d73384",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "東南アジアでも屈指の完成度を誇る美術館建築であり、それを自ら誇示するかのような空間です。",
+  "at": "2026-09-09T07:58:09.137Z"
+ },
+ "ja/kumamoto-kumamoto-castle": {
+  "hash": "abce8f8b51ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "データ上、最も空いているのは平日午前9時から午後5時までのどの時間帯でもです。",
+  "at": "2026-09-09T07:58:12.114Z"
+ },
+ "zh/hue-thien-mu-pagoda": {
+  "hash": "c6d204c07b2b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里的氛围与寺前佛塔周围截然不同：没有人群聚集，除了一块简单的说明牌外几乎没有其他标识，安静得有些突兀。",
+  "at": "2026-09-09T07:58:14.304Z"
+ },
+ "zh/kuala-lumpur-islamic-arts-museum-malaysia": {
+  "hash": "7d80a6424483",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "从入口前的庭院就能望见这座穹顶，这也是你意识到这里绝非陈旧文物馆的第一个信号。",
+  "at": "2026-09-09T07:58:22.201Z"
+ },
+ "zh/kuala-lumpur-klcc-park": {
+  "hash": "7362a101f8a3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "新手常犯的错误是掐着喷泉表演开场时间才赶到，却完全没想好该站在哪里",
+  "at": "2026-09-09T07:58:24.040Z"
+ },
+ "es/colmar-musee-unterlinden": {
+  "hash": "38b8aafd8ec3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "la sala de venta de entradas lo demuestra la mayoría de las mañanas de fin de semana",
+  "at": "2026-09-09T07:58:25.555Z"
+ },
+ "es/labuan-bajo-bena-traditional-village-thatched-roof-village": {
+  "hash": "5f64eaba3833",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "las nubes suelen acumularse alrededor del Inerie a partir del primer día de la tarde",
+  "at": "2026-09-09T07:58:27.351Z"
+ },
+ "es/little-india-sri-veeramakaliamman-temple": {
+  "hash": "a30640ceee04",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La torre se distingue antes que el número de la dirección.",
+  "at": "2026-09-09T07:58:32.757Z"
+ },
+ "ja/colmar-musee-unterlinden": {
+  "hash": "32f04efbe3e2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "祭壇画ですでに十分に元は取れたからといって、新棟を素通りしてはいけません。",
+  "at": "2026-09-09T07:58:35.798Z"
+ },
+ "ko/colmar-musee-unterlinden": {
+  "hash": "112003f850ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "평일 일정을 짜다가 다른 무엇보다 방문객들이 자주 놓치는 부분이기도 합니다.",
+  "at": "2026-09-09T07:58:49.063Z"
+ },
+ "ko/labuan-bajo-bena-traditional-village-thatched-roof-village": {
+  "hash": "e25d69581d9d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳에서 찍은 사진들이 바로 많은 사람들 머릿속에 각인된 '플로레스 고원 지대'의 이미지 그 자체입니다.",
+  "at": "2026-09-09T07:58:52.256Z"
+ },
+ "ko/little-india-sri-veeramakaliamman-temple": {
+  "hash": "5723fca45501",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "지금의 건물과 탑은 대부분 20세기 재건축을 거친 것으로, 남인도 사원 건축 양식인 드라비다 양식으로 지어졌습니다.",
+  "at": "2026-09-09T07:58:55.618Z"
  }
 }

@@ -26,7 +26,7 @@ itinerary:
       - slug: central-avenue-of-stars-hk
         slot: morning
         why: This Tsim Sha Tsui waterfront promenade is famous for Bruce Lee's statue and handprint plaques honoring Hong Kong cinema, and it's quiet enough at this hour to walk it without crowds.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 1.7
           minutes: 23
@@ -105,6 +105,6 @@ itinerary:
     rainSwapSlug: lantau-island-sheung-yiu-folk-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T23:35:55.681Z'
+updatedDate: '2026-09-09T07:58:58.219Z'
 ---
 

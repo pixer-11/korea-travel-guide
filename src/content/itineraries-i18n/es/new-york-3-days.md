@@ -1,39 +1,39 @@
 ---
 lang: es
 slug: new-york-3-days
-sourceHash: b8026dc1c9f574a7c327551fcf68b3df0d149c57
-title: 'Itinerario de 3 días en Nueva York: Rockefeller Center, Chelsea Market y la Estatua de la Libertad'
-description: Un itinerario de 3 días en Nueva York que va desde las vistas del Rockefeller Center y Central Park hasta Chelsea Market y la librería Strand, para luego pasar por Times Square, el One World Observatory y un ferry hacia la Estatua de la Libertad.
-quickAnswer: 'Este es un itinerario de 3 días en Nueva York: el primer día se centra en las alturas y los jardines del Rockefeller Center antes de instalarse en Central Park, el segundo día recorre Chelsea Market hasta un almuerzo sentado y una tarde en la librería Strand, y el tercer día va desde Times Square hasta el One World Observatory y termina en un ferry hacia la Estatua de la Libertad.'
+sourceHash: 6c70d8059ba1b2e6af7c29e5e7365774790f4069
+title: 'Nueva York en 3 días: Rockefeller Center, Times Square y el puerto'
+description: Un itinerario de 3 días por Nueva York que va desde las alturas del Rockefeller Center y Central Park hasta Times Square y Chelsea Market, para luego bajar al centro hacia Strand Bookstore, One World Observatory y la Estatua de la Libertad.
+quickAnswer: 'Este es un itinerario de 3 días por Nueva York: el primer día abarca el mirador y los jardines de Rockefeller Plaza, una parada para tomar café en el Upper East Side y una larga tarde-noche en Central Park; el segundo día va de Times Square a un almuerzo en Manhattan West y termina en Chelsea Market; el tercer día pasa de una librería en Broadway al One World Observatory en el centro, sigue hacia Battery Park y cierra con un ferry a la Estatua de la Libertad.'
 faq:
-  - q: ¿Cómo moverse durante este itinerario de 3 días en Nueva York?
-    a: La mayoría de los días combinan caminatas cortas entre paradas cercanas con transporte público para los trayectos más largos; por ejemplo, el cruce de los Channel Gardens a Ralph's Coffee, o los desplazamientos entre Times Square, el One World Observatory, Castle Clinton y la Estatua de la Libertad el tercer día.
-  - q: ¿Cuál es el mejor momento del día para empezar cada jornada?
-    a: 'Las mañanas están pensadas para los sitios más concurridos: Top of The Rock, Chelsea Market y Times Square están más tranquilos temprano, así que empezar cada día cerca del inicio del horario ayuda a evitar las multitudes.'
-  - q: ¿Es necesario reservar algo con anticipación?
-    a: 'Sí: Top of The Rock, el One World Observatory y el ferry a la Estatua de la Libertad requieren entradas con horario fijo, y Ci Siamo es un restaurante que conviene reservar, así que vale la pena organizarlo con antelación.'
-  - q: ¿Este itinerario implica mucho caminar?
-    a: Hay bastante caminata dentro del conjunto de paradas de cada día, pero algunos trayectos —como el de Channel Gardens a Ralph's Coffee, o el de Chelsea Market a Ci Siamo— son lo suficientemente largos como para que tenga más sentido usar transporte público en lugar de caminar.
-  - q: ¿Qué pasa si llueve durante el viaje?
-    a: Cada día incluye una alternativa para días de lluvia, cambiando las paradas más al aire libre por una opción bajo techo para que el plan siga funcionando.
+  - q: ¿Cuánto se camina en este itinerario de 3 días por Nueva York?
+    a: Cada día combina paseos cortos, como el paseo por los Channel Gardens, con trayectos más largos en transporte entre zonas, como el traslado de Midtown al Upper East Side el primer día o hacia el centro el tercer día, así que conviene llevar calzado cómodo y contar con el uso de transporte público.
+  - q: ¿Debo reservar entradas con anticipación?
+    a: Sí, especialmente para Ci Siamo, One World Observatory y el ferry a la Estatua de la Libertad, ya que en los tres casos se recomienda reservar con antelación o elegir un horario asignado para evitar largas esperas.
+  - q: ¿Cuál es el mejor momento del día para visitar las paradas más concurridas?
+    a: La mañana temprano es ideal para Times Square, Top of The Rock, Strand Bookstore y Castle Clinton, ya que todos ellos suelen estar más tranquilos antes de que se llenen de gente más tarde en el día.
+  - q: ¿Este itinerario se concentra en un solo barrio o recorre varias zonas?
+    a: 'Se mueve por zonas bien distintas cada día: de Rockefeller Plaza al Upper East Side el primer día, de Times Square a Chelsea el segundo, y de Broadway hacia el puerto el tercero, así que los traslados entre paradas forman parte del plan.'
+  - q: ¿Cuánto tiempo debo reservar para las paradas de Central Park y la Estatua de la Libertad?
+    a: Central Park está pensado como un punto clave de la tarde-noche con 240 minutos de duración, mientras que la visita a la Estatua de la Libertad dura 45 minutos más la travesía en ferry, así que ambas merecen tiempo sin prisas en el itinerario.
 days:
-  - label: Alturas del Rockefeller y aire de parque
-    intro: El primer día comienza en el 30 Rockefeller Plaza, subiendo para disfrutar de vistas del horizonte antes de pasear por los Channel Gardens a nivel de calle. Desde allí, un traslado cruzando la ciudad lleva hasta Madison Avenue para tomar un café, y luego un tramo largo y sin prisas dentro de Central Park cierra la jornada.
-  - label: De los pasillos del mercado a las pilas de libros
-    intro: El segundo día arranca dentro del pasillo gastronómico cubierto de Chelsea Market, en la Novena Avenida, y continúa hacia Manhattan West para un almuerzo sentado en Ci Siamo. La tarde lleva hasta Broadway para una larga exploración entre los estantes de la librería Strand.
-  - label: Del horizonte al puerto
-    intro: El tercer día comienza entre las pantallas de Times Square, para luego dirigirse al centro, al 117 West St, y disfrutar de las alturas del One World Observatory. Desde allí el recorrido sigue hasta la punta de Battery Park para ver Castle Clinton y tomar un ferry hacia la Estatua de la Libertad, cerrando así el viaje.
+  - label: De las alturas del Rockefeller a la calma de Central Park
+    intro: El primer día comienza en las alturas, sobre el 30 Rockefeller Plaza, con vistas al perfil de la ciudad, y luego desciende a través de los Channel Gardens en dirección a Madison Avenue. De ahí se cruza hacia el norte hasta 888 Madison Ave para una pausa con café, antes de instalarse en un largo paseo vespertino por Central Park.
+  - label: De las luces de Times Square al pasaje cubierto de Chelsea
+    intro: El segundo día se abre en el bullicio de neón de Times Square, para luego dirigirse a Manhattan West y disfrutar de un almuerzo sentado en Ci Siamo. La tarde-noche lleva hasta el pasaje cubierto de puestos de comida de Chelsea Market para un último recorrido de picoteo.
+  - label: De los estantes de Broadway al puerto de Nueva York
+    intro: El tercer día empieza con un recorrido tranquilo por Strand Bookstore, en Broadway, y luego cruza hacia el centro para subir en el ascensor de One World Observatory. La tarde y el atardecer avanzan hacia el agua, pasando por Castle Clinton y cerrando con el ferry hacia la Estatua de la Libertad.
 whys:
-  new-york-top-of-the-rock: Ubicado en los pisos 67 a 70 del Rockefeller Center, es un mirador poco conocido que está más tranquilo justo al abrir, lo que lo convierte en una excelente forma de empezar el día antes de que lleguen las multitudes.
-  new-york-the-channel-gardens: Este paseo de seis estanques se encuentra justo en el Rockefeller Center, uniendo la Quinta Avenida con la plaza, por lo que es una continuación natural y fluida tras el mirador.
-  new-york-ralph-s-coffee: Escondido dentro de la tienda insignia de Ralph Lauren en Madison Avenue, es una pausa relajada de café con patio y asientos interiores entre las vistas de la mañana y el paseo por el parque al final del día.
-  new-york-central-park: Con entradas cerca de la calle 72 que llevan directamente a Bethesda Terrace, el Mall y el Lake, su larga duración lo convierte en el lugar natural para pasar el resto de la tarde.
-  new-york-chelsea-market: Una antigua fábrica de galletas convertida en mercado gastronómico en la Novena Avenida, es una forma sencilla y perfecta para picar algo antes del almuerzo sentado de la tarde.
-  new-york-city-ci-siamo: Un restaurante italiano moderno en la zona de Manhattan West, conocido por su Rigatoni Alla Gricia, que sirve de ancla para el almuerzo del día con una comida formal.
-  new-york-strand-bookstore: Con 18 millas de estanterías en Broadway y una larga duración de visita, está pensada para una exploración tranquila al final del día.
-  new-york-times-square: El cruce de neones de Broadway y la Séptima Avenida se disfruta mejor temprano, por lo que abre el día antes de que llegue la sobrecarga sensorial.
-  new-york-one-world-observatory: Al que se llega en ascensor de alta velocidad hasta los pisos 100 a 102, es la gran parada panorámica del día, ideal poco después de la mañana o cerca del atardecer por la luz y las filas.
-  new-york-castle-clinton-national-monument: Situado en la punta sur de Battery Park, junto al agua, es una parada rápida que vale la pena ver de camino a los muelles del ferry.
-  new-york-statue-of-liberty: Accesible solo mediante el ferry oficial desde Battery Park, es el cierre del viaje junto al puerto, ideal si se reservan las entradas con antelación.
+  new-york-top-of-the-rock: Ubicado entre los pisos 67 y 70 del Rockefeller Center, este mirador es una joya poco conocida, ideal para empezar el día con amplias vistas del perfil de la ciudad antes de que llegue la multitud.
+  new-york-the-channel-gardens: Este paseo gratuito con seis estanques conecta la Quinta Avenida con la plaza inferior y resulta un paseo corto y sencillo justo después del mirador.
+  new-york-ralph-s-coffee: Una parada para tomar café dentro de la tienda insignia de Madison Avenue le da al día una pausa relajada entre las alturas de la mañana y el paseo por el parque al atardecer.
+  new-york-central-park: Con 240 minutos de permanencia, el parque es el ancla natural para una tarde-noche larga y sin prisas después de un día de recorridos turísticos.
+  new-york-times-square: El cruce de neón de Broadway y la Séptima Avenida es un comienzo del día ineludible para los sentidos, mejor disfrutado antes de que se llene de gente.
+  new-york-city-ci-siamo: Este local italiano moderno en la zona de Hudson Yards, conocido por su Rigatoni Alla Gricia, resulta un almuerzo sentado perfecto a mitad del día.
+  new-york-chelsea-market: Un pasaje cubierto de puestos de comida y pequeñas tiendas en la Novena Avenida cierra la tarde-noche con un picoteo relajado tras un día ajetreado.
+  new-york-strand-bookstore: Con dieciocho millas de estanterías en Broadway, este lugar ofrece un comienzo de día tranquilo y perfecto para explorar antes de que el ritmo se acelere en el centro.
+  new-york-one-world-observatory: Entre los pisos 100 y 102 del One World Trade Center, ofrece un ascensor de alta velocidad y vistas panorámicas, para lo cual conviene reservar un par de horas.
+  new-york-castle-clinton-national-monument: Este fuerte junto al agua, en la punta de Battery Park, es una parada rápida y gratuita que vale la pena antes de dirigirse al ferry.
+  new-york-statue-of-liberty: A la que se llega en ferry desde Battery Park, es el cierre perfecto para un día dedicado a avanzar hacia el puerto.
 rainWhys: {}
 ---

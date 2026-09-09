@@ -59,7 +59,7 @@ itinerary:
       - slug: barcelona-basilica-of-the-sagrada-familia
         slot: morning
         why: Gaudí's most famous work anchors the morning, with soft light through the stained glass and direct metro access via the Sagrada Família stop.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext:
           km: 1.6
           minutes: 22
@@ -67,7 +67,7 @@ itinerary:
       - slug: barcelona-mirador-torre-glories
         slot: afternoon
         why: Barcelona's newest observation deck, 125 meters up in a shimmering bullet-shaped tower, adds a fresh perspective on the city's skyline.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 3.2
           minutes: null
@@ -113,5 +113,6 @@ itinerary:
     rainSwapSlug: barcelona-the-grill-barcelona
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09T07:58:58.036Z'
 ---
 

@@ -51,7 +51,7 @@ itinerary:
       - slug: los-angeles-grand-central-market
         slot: morning
         why: This 1917 food hall on Broadway packs in dozens of vendors from tacos to oysters, making it an easy first stop for a sit-down bite.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 0.5
           minutes: 6
@@ -59,7 +59,7 @@ itinerary:
       - slug: los-angeles-the-last-bookstore
         slot: afternoon
         why: Set inside a converted 1914 bank building, its spiral book tunnel and vault-turned-horror-room make it a standout browsing stop just a short walk from the market.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 1.9
           minutes: 26
@@ -67,7 +67,7 @@ itinerary:
       - slug: los-angeles-urth-caffe
         slot: afternoon
         why: This Arts District cafe is known for organic coffee and an oversized pastry case, a bright plant-draped stop for a mid-day break.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 39.4
           minutes: null
@@ -75,7 +75,7 @@ itinerary:
       - slug: los-angeles-wilmington-waterfront-park
         slot: evening
         why: A 30-acre green space along the Wilmington waterfront, it's a quiet way to close the day with a walk across its landmark bridge.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext: null
     rainSwapSlug: los-angeles-crossroads-kitchen
   - label: Plaza roots to arboretum peacocks
@@ -84,7 +84,7 @@ itinerary:
       - slug: los-angeles-el-pueblo-de-los-angeles-historical-monument
         slot: morning
         why: As the 44-acre birthplace of the city anchored by Olvera Street's market stalls, it's a free, walkable start to the day near Union Station.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext:
           km: 1.5
           minutes: 19
@@ -105,6 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T23:35:57.231Z'
+updatedDate: '2026-09-09T08:00:03.182Z'
 ---
 

@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 142,
-   "hits": 86
+   "attempts": 150,
+   "hits": 93
   },
   "park": {
-   "attempts": 132,
-   "hits": 75
+   "attempts": 139,
+   "hits": 80
   },
   "viewpoint": {
    "attempts": 51,
@@ -30,11 +30,11 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 150,
-   "hits": 88
+   "attempts": 157,
+   "hits": 92
   },
   "noodles": {
-   "attempts": 16,
+   "attempts": 17,
    "hits": 0
   },
   "old quarter": {
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 35,
+   "attempts": 36,
    "hits": 2
   },
   "hidden gem": {
@@ -162,5 +162,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-08T14:30:24.771Z"
+ "updated": "2026-09-09T07:51:21.609Z"
 }

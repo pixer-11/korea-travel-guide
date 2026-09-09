@@ -42,7 +42,7 @@ itinerary:
       - slug: busan-yongdusan-park
         slot: afternoon
         why: Busan's hilltop green space anchors Busan Tower and the surrounding views, and its central Jung-gu location makes it a natural link between the market and the tower.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 2.6
           minutes: null
@@ -67,7 +67,7 @@ itinerary:
       - slug: busan-museum-1
         slot: afternoon
         why: A contemporary art and design space in Centum City, it offers an easy indoor pairing with the surrounding Haeundae-gu shopping district for the afternoon.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext:
           km: 5.3
           minutes: null
@@ -105,6 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T23:35:38.513Z'
+updatedDate: '2026-09-09T07:58:58.065Z'
 ---
 

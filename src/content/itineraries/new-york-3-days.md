@@ -108,11 +108,11 @@ itinerary:
       - slug: new-york-statue-of-liberty
         slot: evening
         why: Reached by ferry from Battery Park, this is the fitting close to a day spent moving toward the harbor.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext: null
     rainSwapSlug: new-york-american-museum-of-natural-history
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T23:36:21.850Z'
+updatedDate: '2026-09-09T08:00:03.301Z'
 ---
 

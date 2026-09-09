@@ -6,7 +6,7 @@ title: '3-Day Tokyo Itinerary: Digital Art, Shrines & Asakusa Temples'
 description: A 3-day Tokyo itinerary moving from Toyosu's digital art and Tokyo Tower views to Shibuya's shrines and gardens, then Asakusa's historic temple and Ginza's steakhouse scene.
 quickAnswer: This 3-day Tokyo itinerary covers a fuller day of digital art, market food, and skyline views around Koto City and Minato City; a day of shrine and garden calm plus café culture across Shibuya and Shinjuku City; and a final day tracing Taito City's historic temple through to a ramen lunch and a Ginza steakhouse dinner.
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: 9d3f4a7d84efcc28a6f2c6582436f2009781ad76
+stopsHash: cd2139ecac08d54db2ba354abb1e178a0d0a5457
 packedAvailable: false
 faq:
   - q: How should I get around for this 3-day Tokyo itinerary?
@@ -26,7 +26,7 @@ itinerary:
       - slug: tokyo-teamlab-planets-tokyo-dmm
         slot: morning
         why: A barefoot, water-and-light digital art museum in Toyosu makes for an immersive, unconventional start to the day, and weekday mornings offer the calmest visit before crowds build.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext:
           km: 3.2
           minutes: null
@@ -78,17 +78,17 @@ itinerary:
         why: Tokyo's oldest temple, with its Nakamise-dōri approach, Five-Story Pagoda, and adjoining shrine, is a fitting historic anchor for the morning.
         dwellMin: 105
         walkToNext:
-          km: 6
+          km: 2.4
           minutes: null
           transit: true
-      - slug: tokyo-tokyo-ramen-street
-        slot: lunch
-        why: A strip of acclaimed ramen shops offers a quick, focused lunch stop between the morning temple visit and the evening ahead.
-        dwellMin: 30
+      - slug: tokyo-tokyo-national-museum
+        slot: afternoon
+        why: A attraction rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 150
         walkToNext:
-          km: 1.5
-          minutes: 20
-          transit: false
+          km: 7.2
+          minutes: null
+          transit: true
       - slug: tokyo-smith-wollensky
         slot: evening
         why: This steakhouse's USDA Prime dry-aged steaks and signature hospitality make for a memorable final stop to close out the trip.
@@ -97,6 +97,6 @@ itinerary:
     rainSwapSlug: tokyo-ise-sueyoshi
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16T08:25:22.508Z'
+updatedDate: '2026-09-09T07:58:57.978Z'
 ---
 

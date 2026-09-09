@@ -2,30 +2,30 @@
 city: Singapore
 country: Singapore
 days: 5
-title: '5-Day Singapore Itinerary: Gardens, Sentosa, Nature Reserves and Little India'
-description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Sentosa's attractions to Bukit Timah's rainforest trails, East Coast Park, and Little India's heritage streets.
-quickAnswer: This is a 5-day Singapore itinerary that opens with Marina Bay's gardens and Kampong Glam, spends a full day on Sentosa, moves to Bukit Timah and Singapore Botanic Gardens for nature, heads to East Coast Park and Katong, and closes with a Little India and Bugis heritage walk.
+title: '5-Day Singapore Itinerary: Marina Bay, Sentosa, Nature Reserves, East Coast & Little India'
+description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Sentosa's attractions to rainforest trails, an east-coast park day, and a final loop through Kampong Glam and Little India's temples.
+quickAnswer: This 5-day Singapore itinerary covers Marina Bay's gardens and skyline on day one, Sentosa's attractions and Tiong Bahru's green space on day two, Bukit Timah's rainforest and Jurong's lakeside gardens on day three, an East Coast to Katong day for day four, and a Kampong Glam to Little India day of heritage streets and temples to close out the trip.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: b8dc67c5ad54f9c2aea1dd71c797576fcf983870
+stopsHash: 11ede8088c2b9bc10db7ea9046afd066db6733fe
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
-    a: The days are organized by area, Marina Bay, Sentosa, Bukit Timah and Dempsey Hill, East Coast and Katong, and Little India and Bugis, so transit between stops within a day is generally short walks, with a couple of longer transit hops noted between areas.
+    a: The itinerary relies on a mix of walking for short distances within an area and transit for longer hops between areas, such as from Sentosa to Tiong Bahru on day two or from Bukit Timah to Jurong on day three.
   - q: Is this itinerary heavy on walking?
-    a: Each day mixes walkable stretches with a few longer transit connections, such as the crossing from Marina Bay's gardens over to Kampong Glam, or from East Coast Park inland to Pasar Geylang Serai.
+    a: 'Pacing varies by day: some stops sit a few minutes apart on foot, like Sultan Mosque to Kampong Glam on day five, while others require transit, so comfortable shoes are worth packing throughout.'
   - q: What if it rains during the trip?
     a: Days 1, 2 and 3 have a listed rain-day alternative to swap in; the other days don't, so plans for those days would stay as scheduled.
-  - q: Should I book restaurants in advance?
-    a: Sit-down spots like Le Noir and Fiamma reward booking ahead, while the hawker and market stops, like Kampong Glam Cafe or Albert Centre Market & Food Centre, don't need reservations.
+  - q: Do I need to book anything in advance?
+    a: Some stops, like Fiamma on day two, are best reserved ahead, while others, like Kampong Glam Cafe, don't need reservations at all; check each stop's own guidance for specifics.
   - q: How much time should I budget per day?
-    a: Each day is paced as a fuller day with a morning, midday, and evening stop, though the dwell times vary, from quick temple or park visits to longer stretches at the nature reserve or gardens.
+    a: Each day is built around a handful of stops with dwell times ranging from under an hour to a few hours, so a full day from morning to evening is the general shape, though pacing can flex based on your interest at each stop.
 itinerary:
-  - label: Marina Bay gardens and lights
-    intro: Day one settles into Marina Bay, starting with the sprawling outdoor and indoor gardens of Gardens by the Bay before a break at Le Noir. The afternoon threads through Supertree Grove and Flower Dome, then the day crosses to Kampong Glam for an evening bite on Bussorah Street.
+  - label: Marina Bay in bloom
+    intro: Day one settles into Marina Bay, starting at Gardens by the Bay before a stop at Le Noir inside Marina Bay Sands. From there it's back out to Supertree Grove for the evening light show, then a short transit ride to Kampong Glam's Bussorah Street for a casual dinner.
     stops:
       - slug: marina-bay-gardens-by-the-bay
         slot: morning
-        why: This waterfront park anchors the morning with its Supertree Grove, Flower Dome and Cloud Forest, giving a mix of free outdoor space and paid conservatories to explore.
+        why: This waterfront park anchors the day with its Supertree Grove and conservatories, giving a full morning-to-afternoon block of outdoor and indoor highlights.
         dwellMin: 240
         walkToNext:
           km: 0.8
@@ -33,7 +33,7 @@ itinerary:
           transit: false
       - slug: marina-bay-le-noir
         slot: lunch
-        why: A moody, art-filled bar-restaurant inside Marina Bay Sands makes for an easy lunch stop right after the gardens.
+        why: A moody, art-filled spot inside Marina Bay Sands for a relaxed midday break of small plates and cocktails.
         dwellMin: 150
         walkToNext:
           km: 0.8
@@ -41,32 +41,24 @@ itinerary:
           transit: false
       - slug: bugis-supertree-grove
         slot: afternoon
-        why: Right next to the Flower Dome, this grove is worth returning to for the free Garden Rhapsody light-and-sound show timed into the evening.
-        dwellMin: 45
+        why: Sitting right in Gardens by the Bay, this is the spot to catch the free evening light-and-sound show after exploring the wider gardens.
+        dwellMin: 53
         walkToNext:
-          km: 0.4
-          minutes: 5
-          transit: false
-      - slug: sentosa-flower-dome
-        slot: afternoon
-        why: The world's largest columnless glasshouse rounds out the afternoon with themed gardens of olive trees, baobabs and desert succulents.
-        dwellMin: 60
-        walkToNext:
-          km: 2.5
+          km: 2.8
           minutes: null
           transit: true
       - slug: kampong-glam-kampong-glam-cafe
         slot: evening
-        why: A budget-friendly plate on pedestrianized Bussorah Street, a short walk from Sultan Mosque, makes a relaxed close to the day while people-watching along a heritage street.
+        why: A budget-friendly, casual dinner stop on pedestrianized Bussorah Street, good for people-watching after a long day.
         dwellMin: 45
         walkToNext: null
     rainSwapSlug: clarke-quay-artscience-museum
-  - label: Sentosa thrills and gardens
-    intro: Day two is spent on Sentosa, opening with a chairlift-and-luge run before a sit-down Italian lunch at Fiamma. The evening winds down at the Sentosa Sensoryscape's light-and-garden displays.
+  - label: Sentosa thrills to Tiong Bahru green
+    intro: Day two opens with the speed of Skyline Luge on Sentosa, then slows down over lunch at Fiamma inside Capella Singapore. The afternoon brings a dusk visit to Sentosa Sensoryscape, before crossing over to Tiong Bahru's HortPark to close the day among demonstration gardens.
     stops:
       - slug: sentosa-skyline-luge-singapore
         slot: morning
-        why: The chairlift ride up and self-steered luge run down give the morning its adrenaline, with combo tickets covering multiple runs.
+        why: A high-energy morning start on Sentosa, combining a scenic chairlift with a self-steered luge run down marked trails.
         dwellMin: 105
         walkToNext:
           km: 1.3
@@ -74,15 +66,15 @@ itinerary:
           transit: false
       - slug: sentosa-fiamma
         slot: lunch
-        why: An upscale Italian sit-down meal inside Capella Singapore offers a refined, quieter break from Sentosa's busier stretches.
-        dwellMin: 90
+        why: A refined, sit-down Italian lunch inside Capella Singapore, a quieter counterpoint to Sentosa's busier beach strip.
+        dwellMin: 105
         walkToNext:
           km: 1
           minutes: 13
           transit: false
       - slug: sentosa-sentosa-sensoryscape
         slot: afternoon
-        why: This free multi-sensory garden and light installation is best experienced at dusk, making it a fitting end to the Sentosa day.
+        why: A free, multi-sensory garden and light installation best experienced at dusk, fitting neatly into the afternoon slot.
         dwellMin: 53
         walkToNext:
           km: 4.7
@@ -90,41 +82,49 @@ itinerary:
           transit: true
       - slug: tiong-bahru-hortpark
         slot: evening
-        why: A attraction rated 4.5 by visitors, included as a stop on this route.
-        dwellMin: 45
+        why: A free, expansive gardening park that closes out the day with themed demonstration gardens and greenery.
+        dwellMin: 53
         walkToNext: null
     rainSwapSlug: sentosa-fort-siloso
-  - label: Rainforest to botanic gardens
-    intro: Day three centers on nature, starting at the Bukit Timah Nature Reserve Visitor Centre and continuing into the reserve itself for trails and quarry views. The day then moves on to Singapore Botanic Gardens for orchids and Swan Lake in the evening.
+  - label: Rainforest to lakeside gardens
+    intro: Day three starts among Bukit Timah's primary rainforest, visiting the Visitor Centre and then the Nature Reserve itself for trail time. It then crosses to Jurong for a quiet loop through the Japanese Garden before settling into the wide-open Jurong Lake Gardens for the evening.
     stops:
       - slug: bukit-timah-bukit-timah-nature-reserve-visitor-centre
         slot: morning
-        why: The visitor centre is the gateway to Singapore's largest patch of primary rainforest and the start of the summit trail.
-        dwellMin: 240
+        why: The gateway to Singapore's primary rainforest and the Bukit Timah Hill summit trail, a natural starting point for the morning.
+        dwellMin: 60
         walkToNext:
           km: 0
           minutes: 0
           transit: false
       - slug: bukit-timah-bukit-timah-nature-reserve
         slot: afternoon
-        why: Singapore's tallest hill offers either a summit trail or the gentler Hindhede Quarry loop, continuing the morning's rainforest theme.
+        why: Singapore's tallest hill and a slice of primary rainforest, offering either a summit push or the gentler quarry loop in the afternoon.
         dwellMin: 135
         walkToNext:
-          km: 7.6
+          km: 6.8
           minutes: null
           transit: true
-      - slug: dempsey-hill-singapore-botanic-gardens
+      - slug: jurong-japanese-garden
+        slot: afternoon
+        why: A quiet, traditionally landscaped park with ponds and stone lanterns, still under-the-radar and a good change of pace after the reserve.
+        dwellMin: 68
+        walkToNext:
+          km: 0.7
+          minutes: 9
+          transit: false
+      - slug: jurong-jurong-lake-gardens
         slot: evening
-        why: This free, UNESCO-listed park rounds out the day with the National Orchid Garden and a loop toward Swan Lake.
-        dwellMin: 150
+        why: Singapore's largest park outside the city centre, with a wetland boardwalk and lake views to round out the day at an easy pace.
+        dwellMin: 240
         walkToNext: null
-    rainSwapSlug: singapore-casa-mori
-  - label: East coast and Katong
-    intro: Day four begins at East Coast Park's beachfront, then heads inland to browse the wet market and food centre at Pasar Geylang Serai. It wraps up with a quiet stroll through Katong Park on Fort Road.
+    rainSwapSlug: bugis-lee-kong-chian-natural-history-museum-singapore
+  - label: East Coast to Katong
+    intro: Day four is an easy, unhurried run along Singapore's southeast, opening with a morning at East Coast Park. From there it moves to Pasar Geylang Serai's market stalls before winding down at Katong Park's leafy, quiet stretch along Fort Road.
     stops:
       - slug: katong-east-coast-park
         slot: morning
-        why: This long beachfront strip sets up the day with open space for biking, skating, or simply walking the shore.
+        why: A long stretch of reclaimed beachfront good for a relaxed morning by bike or on foot, or over a seafood plate.
         dwellMin: 150
         walkToNext:
           km: 3
@@ -132,7 +132,7 @@ itinerary:
           transit: true
       - slug: dempsey-hill-pasar-geylang-serai
         slot: afternoon
-        why: A wet market and hawker centre gives the afternoon a browsing-and-eating stop away from the coast.
+        why: A wet market and hawker centre for an afternoon of browsing stalls and street food near Paya Lebar.
         dwellMin: 90
         walkToNext:
           km: 3.4
@@ -140,37 +140,45 @@ itinerary:
           transit: true
       - slug: katong-katong-park
         slot: evening
-        why: A small, leafy park built around the last visible remnant of old Fort Tomahawk makes a quiet finish to the day.
+        why: A small, leafy park built around the last remnant of old Fort Tomahawk, a calm close to the day along the park connector.
         dwellMin: 38
         walkToNext: null
-    rainSwapSlug: kampong-glam-malay-heritage-centre
-  - label: Little India heritage walk
-    intro: Day five explores Little India and Bugis, beginning at the towering Sri Srinivasa Perumal Temple on Serangoon Road. Lunch is a hawker stop at Albert Centre Market & Food Centre, before the day ends at the pastel-painted Former House of Tan Teng Niah on Kerbau Road.
+    rainSwapSlug: null
+  - label: Kampong Glam to Little India
+    intro: Day five begins in Kampong Glam, visiting Sultan Mosque and then wandering the historic quarter itself. It then crosses to Little India for two temple stops on Serangoon Road, Sri Veeramakaliamman Temple and Sri Srinivasa Perumal Temple, to round out the trip.
     stops:
-      - slug: east-coast-sri-srinivasa-perumal-temple
+      - slug: kampong-glam-sultan-mosque
         slot: morning
-        why: One of Singapore's most visited Hindu temples, known for its towering, brightly painted rajagopuram, opens the day in Little India.
+        why: Singapore's largest mosque and the anchor of Kampong Glam, a fitting morning start before wandering the surrounding lanes.
         dwellMin: 38
         walkToNext:
-          km: 1.8
-          minutes: 24
+          km: 0.2
+          minutes: 2
           transit: false
-      - slug: bugis-albert-centre-market-food-centre
-        slot: lunch
-        why: A two-level hawker complex beside Rochor Canal offers a wet-market-to-food-court lunch stop between morning and evening.
-        dwellMin: 38
+      - slug: kampong-glam-kampong-glam
+        slot: afternoon
+        why: The historic Malay-Muslim quarter itself, with Bussorah Street, Arab Street's textile shops, and Haji Lane's street art to explore over a couple of hours.
+        dwellMin: 150
         walkToNext:
-          km: 1
-          minutes: 13
+          km: 1.4
+          minutes: 19
           transit: false
-      - slug: little-india-former-house-of-tan-teng-niah
+      - slug: little-india-sri-veeramakaliamman-temple
+        slot: afternoon
+        why: A Little India temple with a gopuram tower crowded with painted figures, a quick but striking stop on Serangoon Road.
+        dwellMin: 30
+        walkToNext:
+          km: 0.9
+          minutes: 12
+          transit: false
+      - slug: east-coast-sri-srinivasa-perumal-temple
         slot: evening
-        why: The last surviving Chinese villa in Little India, painted in vivid pastel hues, is a quick, free-to-view stop that closes out the day.
-        dwellMin: 240
+        why: One of Singapore's most visited Hindu temples, with a towering rajagopuram, making for a memorable final stop of the trip.
+        dwellMin: 38
         walkToNext: null
-    rainSwapSlug: little-india-super-deluxe-kitchen
+    rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-05T10:47:07.556Z'
+updatedDate: '2026-09-09T08:01:08.337Z'
 ---
 

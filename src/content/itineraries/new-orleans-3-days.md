@@ -42,7 +42,7 @@ itinerary:
       - slug: new-orleans-jackson-square
         slot: afternoon
         why: As the historic heart of the French Quarter, framed by St. Louis Cathedral and the Pontalba Buildings, it's the natural next stop after lunch.
-        dwellMin: 45
+        dwellMin: 53
         walkToNext:
           km: 0.2
           minutes: 3
@@ -75,7 +75,7 @@ itinerary:
       - slug: new-orleans-longue-vue-house-and-gardens
         slot: afternoon
         why: This under-visited 1940s estate near City Park offers fountains and formal gardens as a quieter counterpoint to the morning's plantation.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext:
           km: 3.5
           minutes: null
@@ -83,7 +83,7 @@ itinerary:
       - slug: new-orleans-new-orleans-botanical-garden
         slot: evening
         why: Its Art Deco walkways and orchid house inside City Park make for a calm, green way to end the day.
-        dwellMin: 90
+        dwellMin: 105
         walkToNext: null
     rainSwapSlug: new-orleans-new-orleans-museum-of-art
   - label: Warehouse District history to Uptown bookshelves
@@ -121,6 +121,6 @@ itinerary:
     rainSwapSlug: new-orleans-peche-seafood-grill
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-08T23:35:57.921Z'
+updatedDate: '2026-09-09T08:00:03.264Z'
 ---
 

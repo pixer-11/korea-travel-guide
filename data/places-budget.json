@@ -1,15 +1,14 @@
 {
- "date": "2026-09-08",
- "spent": 55,
+ "date": "2026-09-09",
+ "spent": 16,
  "byJob": {
-  "publish": 5,
-  "refresh": 50
+  "publish": 16
  },
  "search": {
-  "spent": 14,
+  "spent": 25,
   "byJob": {
-   "publish": 14
+   "publish": 25
   }
  },
- "updated": "2026-09-08T21:59:20.211Z"
+ "updated": "2026-09-09T07:51:21.609Z"
 }
