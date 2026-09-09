@@ -27,16 +27,6 @@ photoless: true
 eventRecurring: false
 eventOrganizer:
   name: Live Nation and Star Planet
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/BOYS_FOREVER_%2830107906903%29.jpg
-  credit: 'Photo: Paul Hudson from United Kingdom / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BOYS_FOREVER_(30107906903).jpg
-  focus:
-    x: 29
-    'y': 35
-    top: 8
-    bottom: 62
 ---
 ## Why this show matters
 

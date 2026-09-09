@@ -11,7 +11,7 @@
 //   node --test scripts/lib/photo-verdict.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { photoIdentity, isIdentityRejection, identityRejection } from './photo-verdict.mjs';
+import { photoIdentity, isIdentityRejection, identityRejection, isHandRejection } from './photo-verdict.mjs';
 
 const SEP = String.fromCharCode(1);
 const UPLOAD_3840 = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg';
@@ -66,4 +66,38 @@ test('다른 글의 기각은 이 글을 막지 않는다', () => {
 test('MATCH만 있는 사진은 막지 않는다', () => {
   const clean = { [`x${SEP}${UPLOAD_1920}`]: { verdict: 'MATCH', reason: 'identity: Commons names Gardena' } };
   assert.equal(identityRejection(clean, 'x', UPLOAD_3840, 'restaurant'), null);
+});
+
+// ── 손으로 판정한 기각은 이벤트에도 붙는다 (2026-09-09) ───────────────
+// 09-08 10:40 에 손으로 뗀 미초아칸 재즈 사진을 같은 날 22:15 보충 순찰이
+// 도로 붙였다. 이벤트는 신원 스티키 대상이 아니어서, 순찰이 볼 수 있는
+// 기각이 "비전이 방금 뒤집은 판정" 하나뿐이었기 때문이다.
+const JAZZ = 'https://upload.wikimedia.org/wikipedia/commons/0/08/ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg';
+const JAZZ_1920 = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg/1920px-ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg';
+const HAND = { slug: 'hanoi-hanoi-jazztival-2026', verdict: 'MISMATCH', reason: 'hand-reviewed 2026-09-09: a different festival (Jazztival in Michoacan, Mexico)' };
+
+test('손 판정 기각은 이벤트 글에서도 막힌다', () => {
+  const store = { [`hanoi-hanoi-jazztival-2026${SEP}${JAZZ}`]: HAND };
+  assert.ok(isHandRejection(HAND));
+  assert.ok(identityRejection(store, 'hanoi-hanoi-jazztival-2026', JAZZ, 'event'),
+    '이벤트라서 통과했다 — 09-08 바운스가 그대로 재현된다');
+});
+
+test('손 판정 기각도 폭이 달라진 같은 파일을 막는다', () => {
+  const store = { [`hanoi-hanoi-jazztival-2026${SEP}${JAZZ}`]: HAND };
+  assert.ok(identityRejection(store, 'hanoi-hanoi-jazztival-2026', JAZZ_1920, 'event'));
+});
+
+test('🛑 비전이 찍은 MISMATCH는 이벤트에서 여전히 안 붙는다 (08-23 보호)', () => {
+  // 순회 공연을 다른 도시에서 찍은 사진을 영구 차단하던 그 사고를 되살리면 안 된다.
+  const vision = { slug: 'yokohama-babymonster', verdict: 'MISMATCH', reason: 'Concert stage, wrong venue for this show' };
+  const store = { [`yokohama-babymonster${SEP}${JAZZ}`]: vision };
+  assert.equal(identityRejection(store, 'yokohama-babymonster', JAZZ, 'event'), null,
+    '이벤트에 자동 신원기각이 붙었다 — 08-23 회귀다');
+  assert.equal(isHandRejection(vision), false);
+});
+
+test('🛑 장소 글의 자동 신원기각은 그대로 유지된다', () => {
+  assert.ok(identityRejection(store, 'gardena-nam-kitchen', THUMB_3840, 'restaurant'));
+  assert.equal(identityRejection(store, 'gardena-nam-kitchen', THUMB_3840, 'event'), null);
 });

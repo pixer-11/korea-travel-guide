@@ -71,16 +71,40 @@ export function isIdentityRejection(entry) {
  * @param {string} url the URL being considered
  * @param {string} [category] the post's category; omitted = not sticky
  */
+
+// A PERSON read the Commons filename and said "this is a different event".
+// Vision cannot make this call and must not unmake it: it sees a jazz festival
+// and says MATCH to a jazz festival in Michoacan on the Hanoi Jazztival guide.
+// That is not hypothetical — on 2026-09-08 the wrong photo was removed by hand
+// at 10:40 and the alt-photo patrol put the same file back at 22:15, because
+// the only rejection it could see was a vision verdict it had just overturned.
+// So a hand rejection sticks for ANY category, events included, while the
+// automated place-judge above stays venue-only: that one is what condemned a
+// touring act photographed in another city (2026-08-23).
+const HAND_PREFIX = 'hand-reviewed';
+
+/**
+ * True when a person recorded "this photo is not this event/place". Sticky
+ * everywhere; no vision re-roll may overturn it.
+ * @param {{verdict?: string, reason?: string} | unknown} entry
+ */
+export function isHandRejection(entry) {
+  if (!entry || typeof entry !== 'object') return false;
+  if (!/MISMATCH/.test(String(entry.verdict ?? ''))) return false;
+  return String(entry.reason ?? '').trim().toLowerCase().startsWith(HAND_PREFIX);
+}
+
 export function identityRejection(store, slug, url, category) {
   if (!store || !slug || !url) return null;
-  if (!IDENTITY_STICKY_CATEGORIES.has(String(category ?? ''))) return null;
   const id = photoIdentity(url);
   if (!id) return null;
+  const sticky = IDENTITY_STICKY_CATEGORIES.has(String(category ?? ''));
   const prefix = `${slug}${SEP}`;
   for (const [key, entry] of Object.entries(store)) {
     if (!key.startsWith(prefix)) continue;
     if (photoIdentity(key.slice(prefix.length)) !== id) continue;
-    if (isIdentityRejection(entry)) return entry;
+    if (isHandRejection(entry)) return entry;
+    if (sticky && isIdentityRejection(entry)) return entry;
   }
   return null;
 }
