@@ -604,6 +604,21 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
+          # The English is repaired above; the translations of a finished event
+          # can still say "will take place" in Korean, Japanese, Spanish or Chinese,
+          # because the English validator cannot see tense and srcHash only re-queues
+          # a translation when its SOURCE changes. Until 2026-09-09 the audit further
+          # down only raised an alert about these and a person re-ran the repair by
+          # hand. Hand the audit's own list to repair-flagged-translations, which
+          # deletes each named file, refills it from the corrected English and puts
+          # the old text back if the translator fails — no reader loses a page.
+          # The grep keeps only "<lang>/<slug>" lines: the audit's "nothing was
+          # recognised" sentence starts with the same prefix and must not become a key.
+          TENSE_KEYS=$(node scripts/audit-ended-event-tense-i18n.mjs --list 2>/dev/null | grep -E '^ENDED-EVENT-I18N-TENSE: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
+          if [ -n "$TENSE_KEYS" ]; then
+            echo "ended-event tense: re-translating $(echo $TENSE_KEYS | wc -w) translation(s)"
+            KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+          fi
           node scripts/repair-cjk-bold.mjs 2>&1 | tail -3 || true
           # --fix-truncated-only: repair descriptions that were clipped mid-
           # sentence and touch nothing else. Without the flag the same script
