@@ -79,7 +79,10 @@ const clockWindowClaim = (text) => {
       const open = text.lastIndexOf('(', at);
       const close = text.indexOf(')', at);
       if (open !== -1 && close !== -1 && close > at
-        && /\b(?:closed|open|opens|opening|hours?|daily|weekends?|weekdays?)\b/i.test(text.slice(open, close + 1))
+        // Only words that STATE hours count. "weekdays" alone is when the crowd
+        // comes, not when the doors open — with it in the list, "(9am-11am on
+        // weekdays)" beside "quietest" slipped through (2026-09-09 review).
+        && /\b(?:closed|open|opens|opening|hours?|daily)\b/i.test(text.slice(open, close + 1))
         && !/\b(?:quiet|calm|busy|crowded|packed)\w*/i.test(text.slice(open, close + 1))) continue;
       return m[0];
     }

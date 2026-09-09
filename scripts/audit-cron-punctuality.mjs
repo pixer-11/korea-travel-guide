@@ -169,3 +169,14 @@ console.log(`  평시(08-17~25) A 중앙값 19~35분 · 1h초과 약 13%`);
 console.log(`  장애기(08-26~31) A 중앙값 76 → 576 → 595 → 149 → 236 → 341분 · 1h초과 거의 100%`);
 console.log(`  B 러너 대기는 전 구간 0분 — 원인은 실행기가 아니라 스케줄러다.`);
 console.log(`  누락 6.7% (17/252) · 깃허브 Actions 장애 2건 공식 선언일 = 08-26`);
+
+// A report keyed on this exit code ("Report lateness" in full-audit and
+// workflow-lint) could never fire: this always exited 0 (2026-09-09 review).
+// Late is: the median scheduler delay over an hour, or more than a tenth of the
+// slots never fired at all. Normal weeks sit at 19–35 minutes and ~7% missed.
+const medAll = every.map((d) => d.sched).sort((a, b) => a - b)[Math.floor(every.length / 2)];
+const missPct = slotsTotal ? (100 * missedTotal) / slotsTotal : 0;
+if (medAll > 60 || missPct > 10) {
+  console.log(`\nLATE: 스케줄러 지연 중앙값 ${medAll}분 · 누락 ${missPct.toFixed(1)}% — 기준(60분 · 10%)을 넘었다`);
+  process.exit(1);
+}

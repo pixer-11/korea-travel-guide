@@ -16,7 +16,12 @@ jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
+      # Full history for the punctuality audit (`git log -G` dates each cron
+      # line; a shallow clone makes every schedule look brand new and samples
+      # nothing — 2026-09-09 review).
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:
@@ -164,18 +169,31 @@ jobs:
           run "타이포그래피"    node scripts/audit-typography.mjs
           exit $fail
 
+      # Two of the three are measurements by design and exit 0 whatever they
+      # find (AI 냄새 · 은퇴 리다이렉트) — so a report keyed on failure alone
+      # would have carried only typography (2026-09-09 review). Send the weekly
+      # digest every time: the summary line of each, plus the log when one failed.
       - name: Report those checks
-        if: steps.homeless.outcome == 'failure'
+        if: always() && steps.homeless.outcome != 'skipped'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
-            echo "🔎 주간 점검에서 지적이 나왔습니다 (발행·배포에는 영향 없음)"
-            echo "지적한 검사: $(paste -sd', ' /tmp/homeless-failed.txt 2>/dev/null)"
+            if [ -s /tmp/homeless-failed.txt ]; then
+              echo "🔎 주간 점검에서 지적이 나왔습니다 (발행·배포에는 영향 없음)"
+              echo "지적한 검사: $(paste -sd', ' /tmp/homeless-failed.txt)"
+            else
+              echo "🔎 주간 점검 요약 (차단 지적 없음 · 발행·배포에는 영향 없음)"
+            fi
             echo
-            tail -c 1500 /tmp/homeless.log
+            echo "AI 냄새: $(grep -E '^AI_TELLS ' /tmp/homeless.log | tail -1 | sed 's/^AI_TELLS //')"
+            echo "은퇴 리다이렉트: $(grep -E '^(⚠️|✅|은퇴 목록)' /tmp/homeless.log | tail -1 | cut -c1-200)"
+            if [ -s /tmp/homeless-failed.txt ]; then
+              echo
+              tail -c 1200 /tmp/homeless.log
+            fi
           } > /tmp/homeless-msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/homeless-msg.txt" >/dev/null || true
 

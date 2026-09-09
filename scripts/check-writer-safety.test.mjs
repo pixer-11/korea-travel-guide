@@ -38,6 +38,13 @@ test('본문이 --- 로 시작하면 잡는다 — 다시 써내면 삼켜진다
   assert.match(r.out, /본문이/);
 });
 
+test('본문 일부만 삼켜져도 잡는다 — 10% 문턱은 첫 문단 하나를 놓쳤다 (2026-09-09 리뷰)', () => {
+  const filler = Array.from({ length: 400 }, (_, i) => `word${i}`).join(' ');
+  const r = run({ 'a.md': ok, 'c.md': `---\ntitle: C\n---\n---\n# Do not enter the unstable tunnel.\n---\n${filler}\n` });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /c\.md/);
+});
+
 test('글이 하나도 없으면 통과를 보고하지 않는다', () => {
   const r = run({});
   assert.equal(r.code, 1);

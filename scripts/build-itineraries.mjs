@@ -843,11 +843,17 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   // file every night while validate-itineraries reported DWELL-STALE every
   // morning with nothing acting on it (busan-3-days, 2026-09-09: 120 stored,
   // 60 computed). A moved dwell is a change; regenerate the same as new stops.
-  const existingStops = (existing?.itinerary ?? existing?.days ?? []).flatMap((d) => d?.stops ?? []);
+  // `days` is a NUMBER in a valid file ("days: 3"); only an array counts, or a damaged
+  // cache with no itinerary crashed here on .flatMap before --force could rebuild it.
+  const existingDayList = Array.isArray(existing?.itinerary) ? existing.itinerary
+    : Array.isArray(existing?.days) ? existing.days : [];
+  const existingStops = existingDayList.flatMap((d) => d?.stops ?? []);
   const dwellMoved = existingStops.length > 0 && result.days.some((d) =>
     d.stops.some((s) => {
       const prev = existingStops.find((e) => e?.slug === s.slug);
-      return prev && prev.dwellMin != null && Number(prev.dwellMin) !== Number(s.dwellMin);
+      // A stop with no stored dwell at all is stale too — the validator says so
+      // every morning, and skipping it here was the same silent loop again.
+      return prev && (prev.dwellMin == null || Number(prev.dwellMin) !== Number(s.dwellMin));
     }));
   if (!FORCE && existing && existing.stopsHash === stopsHash && existing.parked !== true && !dwellMoved) {
     console.log(`  = ${variantId} — unchanged, skipping`);

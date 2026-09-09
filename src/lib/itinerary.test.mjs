@@ -29,6 +29,22 @@ test('dwellMinutes: extracted from prose else category default', () => {
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: '' }), 120);
 });
 
+test('dwellMinutes: "a" counts as one only in front of a unit; the hour-range shape is bound to its verb (2026-09-09 review)', () => {
+  // "a minimum of" is a hedge — it used to read as a + min(imum) and return 30.
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Allow a minimum of two hours for the museum.' }), 120);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Allow a minimum of 45 minutes.' }), 45);
+  // The stop is 45 minutes; the hour-or-two is the train. Free-floating, this returned 90.
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Budget 45 minutes for the gallery after an hour or two on the train.' }), 45);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Budget an hour or two here.' }), 90);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Give it about an hour and a half.' }), 90);
+  // A range whose upper bound is spelled in hours: the guide means the middle.
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 45 minutes to an hour and a half depending on the loop.' }), 68);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Most visitors spend 30 minutes to an hour here.' }), 45);
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Budget 45 minutes to 1.5 hours.' }), 68);
+  // Ordinary articles never become numbers.
+  assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'A short walk leads to an old temple; plan on 40 minutes.' }), 40);
+});
+
 test('dwellMinutes: recognizes guide phrasings (hour-long, couple of hours, minutes, quick stop, etc.)', () => {
   // Existing "plan on" should still work
   assert.equal(dwellMinutes({ data: { category: 'attraction' }, body: 'Plan on 2-3 hours' }), 150);

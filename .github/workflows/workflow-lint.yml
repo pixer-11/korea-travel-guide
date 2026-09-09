@@ -16,7 +16,13 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
+      # Full history: the punctuality audit below dates each cron line with
+      # `git log -G`. A shallow clone sees every workflow as changed at HEAD, so
+      # every schedule looked "settled less than two days ago", nothing was
+      # sampled, and the step passed without measuring (2026-09-09 review).
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:

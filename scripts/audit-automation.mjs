@@ -162,11 +162,19 @@ for (const [f, src] of sources) {
       steps.forEach((s, i) => {
         if (s?.['continue-on-error'] !== true) return;
         const run = String(s?.run ?? '');
-        const calls = [...new Set(run.match(/scripts\/((?:audit|check|lint|validate)-[\w-]+)\.mjs/g) ?? [])];
+        // A checker run inside `$( … )` has its output consumed by the very line
+        // that calls it — it is a list-maker feeding a repair there, not a verdict
+        // nobody reads (publish.yml hands the tense audit's list to the
+        // re-translator that way, 2026-09-09). Only bare calls count.
+        const bare = run.split('\n').filter((l) => !/\$\([^)]*scripts\/(?:audit|check|lint|validate)-[\w-]+\.mjs/.test(l)).join('\n');
+        const calls = [...new Set(bare.match(/scripts\/((?:audit|check|lint|validate)-[\w-]+)\.mjs/g) ?? [])];
         if (!calls.length) return;
         if (/telegram/i.test(run)) return;                       // shouts for itself
         const after = laterText(i);
-        if (s.id && new RegExp(`steps\\.${s.id}\\.(outcome|conclusion|outputs)`).test(after)) return;
+        // `conclusion` is NOT hearing it: continue-on-error rewrites a failed step's
+        // conclusion to success, so a later `if: steps.x.conclusion == 'failure'` can
+        // never fire. Only `outcome` (or outputs) sees the real result.
+        if (s.id && new RegExp(`steps\\.${s.id}\\.(outcome|outputs)`).test(after)) return;
         const logs = [...new Set(run.match(/\/tmp\/[\w.-]+/g) ?? [])];
         if (logs.some((l) => after.includes(l))) return;         // a later step reads its log
         add('MUTED-CHECK', f,

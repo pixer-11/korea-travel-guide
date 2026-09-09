@@ -74,7 +74,9 @@ export function closedDaysOf(openingHours) {
 // itinerary stops moved, every one to the hour the post itself recommends.
 const NUM = '(?:\\d+(?:\\.\\d+)?|an?|one|two|three|four|five|six|seven|eight|nine|ten|twelve|fifteen|twenty|thirty|forty-five|forty|sixty|ninety)';
 const SEP = '(?:\\s*(?:-|–|—|to|or)\\s*)';
-const HEDGE = '(?:(?:about|around|roughly|at least|up to)\\s+)?';
+// "a minimum of" is a hedge, not "a" + "min": with a/an counted as one, "Allow a
+// minimum of two hours" read as one minute-ish and came out 30 (2026-09-09 review).
+const HEDGE = '(?:(?:about|around|roughly|at least|up to|a minimum of|a maximum of|no more than)\\s+)?';
 // "plan on / allow / budget / spend" is somebody telling you how long to stay.
 // "takes" usually is not — "this walk alone takes 15-20 minutes each way", "a taxi from
 // Roppongi takes about 10-15 minutes" — so it is tried only after the strong verbs, and
@@ -89,13 +91,27 @@ const STRONG_VERB_RE = new RegExp(STRONG_VERB, 'i');
 // "an hour and a half" → [1]='half'; "an hour or two (hours)" / "an hour to
 // ninety minutes" → [2]=number, [3]=unit if written. The unit between the
 // numbers is what the N–M shape in TAIL cannot express.
+// Bound to the recommending verb: "Budget 45 minutes for the gallery after an hour
+// or two on the train" is a 45-minute stop, and the free-floating version of this
+// pattern made it 90 because a strong verb sat somewhere in the clause.
 const AN_HOUR_PLUS = new RegExp(
-  '\\ban\\s+hour\\s+(?:and\\s+a\\s+(half|quarter)|(?:or|to)\\s+' + HEDGE + '(' + NUM + ')\\s*(hours?|minutes?|min)?)\\b', 'i',
+  STRONG_VERB + '\\s+' + HEDGE + 'an\\s+hour\\s+(?:and\\s+a\\s+(half|quarter)|(?:or|to)\\s+' + HEDGE + '(' + NUM + ')\\s*(hours?|minutes?|min)?)\\b', 'i',
+);
+// A whole minute token — bare 'min' also matched the front of "minimum".
+const MIN_UNIT = 'min(?:ute)?s?\\b';
+// "N minutes to an hour (and a half)" / "N minutes to M hours": a range whose upper
+// bound is written in hours. TAIL cannot express the unit change, so seven guides that
+// say "plan on 45 minutes to an hour and a half" came out at 45 (lower bound only)
+// once the hour-range shape was bound to its verb. [1]=minutes, [2]='half'|'quarter',
+// [3]=hours as a number.
+const MIXED_RANGE = new RegExp(
+  STRONG_VERB + '\\s+' + HEDGE + '(' + NUM + ')\\s*' + MIN_UNIT + '\\s+(?:to|or|-|–|—)\\s+' + HEDGE
+  + '(?:an?\\s+hour(?:\\s+and\\s+a\\s+(half|quarter))?|(' + NUM + ')\\s*hours?)\\b', 'i',
 );
 const TIER1_HOURS = new RegExp(STRONG_VERB + TAIL + 'hours?', 'i');
-const TIER1_MINS = new RegExp(STRONG_VERB + TAIL + 'min', 'i');
+const TIER1_MINS = new RegExp(STRONG_VERB + TAIL + MIN_UNIT, 'i');
 const TIER1B_HOURS = new RegExp(WEAK_VERB + TAIL + 'hours?', 'i');
-const TIER1B_MINS = new RegExp(WEAK_VERB + TAIL + 'min', 'i');
+const TIER1B_MINS = new RegExp(WEAK_VERB + TAIL + MIN_UNIT, 'i');
 const TIER3_MINS = new RegExp('(?:^|\\s)' + HEDGE + '(\\d+)' + SEP + '?(\\d+)?\\s*-?\\s*min(?:ute)?s?\\b', 'i');
 const NHOUR = new RegExp('\\b(?:a\\s+)?(' + NUM + ')\\s*-\\s*hours?\\b', 'i');
 // "a five-minute walk from Exit 5" is how you ARRIVE, not how long you stay.
@@ -164,6 +180,11 @@ export function dwellMinutes(post) {
         const n = numOf(p[2]);
         if (n != null) return clamp(avg(60, /min/i.test(p[3] || 'hour') ? n : n * 60));
       }
+    }
+    const x = MIXED_RANGE.exec(c);
+    if (x && numOf(x[1]) != null) {
+      const upper = x[3] != null ? numOf(x[3]) * 60 : x[2] === 'half' ? 90 : x[2] === 'quarter' ? 75 : 60;
+      if (upper != null) return clamp(avg(numOf(x[1]), upper));
     }
     const h = TIER1_HOURS.exec(c);
     if (h && numOf(h[1]) != null) return clamp(avg(numOf(h[1]), numOf(h[2])) * 60);

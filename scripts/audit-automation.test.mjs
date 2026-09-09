@@ -194,6 +194,10 @@ t('깨끗한 워크플로 하나만 있으면 아무것도 보고하지 않는�
 // 2026-09-08에 9곳이 그랬다 — 그중 하나는 전날 "이 페이지가 빈 채로 나간 적이
 // 있다"는 이유로 새로 붙인 검사였는데, 실패해도 목소리가 없었다.
 
+// 2026-09-09: 이 묶음의 픽스처는 `${TELEGRAM}` 줄이 한 줄짜리 `run:` 바로 아래 같은
+// 들여쓰기로 놓여 YAML 이 그 run 스칼라에 접어 넣었다 — run 에 "telegram" 이 들어가
+// 규칙이 "스스로 알린다"로 일찍 빠졌고, 양성 검사는 요약 줄의 "MUTED-CHECK=0" 글자에
+// 맞아 통과했다. 알림은 별도 단계로, 판정은 실제 건수(=[1-9])로.
 t('비차단 검사인데 결과를 아무도 안 읽으면 잡는다', () => {
   const r = audit({
     'muted.yml': `name: Muted
@@ -203,10 +207,71 @@ jobs:
       - name: Check things
         continue-on-error: true
         run: node scripts/check-things.mjs
+      - name: Notify
+        run: |
 ${TELEGRAM}
 `,
   });
-  return /MUTED-CHECK/.test(r.out) ? null : `못 잡음: ${r.out}`;
+  return /MUTED-CHECK=[1-9]/.test(r.out) ? null : `못 잡음: ${r.out}`;
+});
+
+t('뒤 단계가 conclusion 만 읽으면 들은 것이 아니다 — continue-on-error 는 conclusion 을 success 로 바꾼다 (2026-09-09 리뷰)', () => {
+  const r = audit({
+    'conclusion.yml': `name: Conclusion
+jobs:
+  a:
+    steps:
+      - name: Check things
+        id: chk
+        continue-on-error: true
+        run: node scripts/check-things.mjs
+      - name: Tell someone
+        if: steps.chk.conclusion == 'failure'
+        run: echo never fires
+      - name: Notify
+        run: |
+${TELEGRAM}
+`,
+  });
+  return /MUTED-CHECK=[1-9]/.test(r.out) ? null : `못 잡음: ${r.out}`;
+});
+
+t('검사기 출력을 같은 단계가 $( ) 로 받아 쓰면 읽은 것이다 — 수리에 넘기는 목록 (2026-09-09)', () => {
+  const r = audit({
+    'consumed.yml': `name: Consumed
+jobs:
+  a:
+    steps:
+      - name: Repair
+        continue-on-error: true
+        run: |
+          KEYS=$(node scripts/audit-things.mjs --list | awk '{print $2}' || true)
+          if [ -n "$KEYS" ]; then KEYS="$KEYS" node scripts/repair-things.mjs; fi
+      - name: Notify
+        run: |
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('$( ) 밖의 같은 검사기 호출은 여전히 잡는다 (역방향)', () => {
+  const r = audit({
+    'half.yml': `name: Half
+jobs:
+  a:
+    steps:
+      - name: Repair and check
+        continue-on-error: true
+        run: |
+          KEYS=$(node scripts/audit-things.mjs --list || true)
+          node scripts/audit-other.mjs
+      - name: Notify
+        run: |
+${TELEGRAM}
+`,
+  });
+  return /MUTED-CHECK=1\b/.test(r.out) && /audit-other/.test(r.out) ? null : `못 잡음: ${r.out}`;
 });
 
 t('뒤 단계가 outcome 을 읽으면 잡지 않는다', () => {
@@ -222,6 +287,8 @@ jobs:
       - name: Warn
         if: steps.chk.outcome == 'failure'
         run: echo warn
+      - name: Notify
+        run: |
 ${TELEGRAM}
 `,
   });
@@ -242,6 +309,8 @@ jobs:
         env:
           OUT: \${{ steps.chk.outcome }}
         run: echo "$OUT"
+      - name: Notify
+        run: |
 ${TELEGRAM}
 `,
   });
@@ -259,6 +328,8 @@ jobs:
         run: node scripts/check-things.mjs || echo bad >> /tmp/soft-fail.txt
       - name: Report
         run: cat /tmp/soft-fail.txt
+      - name: Notify
+        run: |
 ${TELEGRAM}
 `,
   });
@@ -273,6 +344,8 @@ jobs:
     steps:
       - name: Check things
         run: node scripts/check-things.mjs
+      - name: Notify
+        run: |
 ${TELEGRAM}
 `,
   });

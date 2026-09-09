@@ -45,8 +45,11 @@ for (const dir of DIRS) {
     try { round = matter(matter.stringify(before.content, before.data)); }
     catch (e) { hits.push({ path, why: `다시 써내면 깨진다: ${e.message}` }); continue; }
 
-    if (words(round.content) < words(before.content) * 0.9) {
-      hits.push({ path, why: `본문이 ${words(before.content)}→${words(round.content)}단어로 줄어든다 (본문이 --- 로 시작하나?)` });
+    // Exact after normalising line endings and outer whitespace — a 10% floor let a
+    // body lose its first paragraph (a warning between two rules) and pass (2026-09-09).
+    const norm = (s) => String(s).replace(/\r\n/g, '\n').trim();
+    if (norm(round.content) !== norm(before.content)) {
+      hits.push({ path, why: `본문이 ${words(before.content)}→${words(round.content)}단어로 바뀐다 (본문이 --- 로 시작하나?)` });
       continue;
     }
     const a = JSON.stringify(before.data);

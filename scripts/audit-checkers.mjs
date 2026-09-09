@@ -99,13 +99,16 @@ function sourceWithLocalImports(name, seen = new Set()) {
 // 은퇴 리다이렉트). 쓴 사람만 아는 검사는 없는 검사다.
 // 손으로만 쓸 물건은 헤더에 `MANUAL-ONLY: <이유>` 를 적어 그렇다고 밝힌다.
 const WORKFLOWS = join(REPO, '.github', 'workflows');
+// 주석 속 언급은 실행이 아니다 — `// TODO: node scripts/check-x.mjs` 한 줄로 고아가
+// 숨을 수 있었다(2026-09-09 리뷰). 주석 줄을 지우고 센다(측정: 40개 중 판정이 바뀌는 것 0).
+const uncommented = (text, yaml) => text.split(/\r?\n/).filter((l) => !(yaml ? /^\s*#/ : /^\s*\/\//).test(l)).join('\n');
 const wiredText = (() => {
   let t = '';
-  try { for (const f of readdirSync(WORKFLOWS)) t += readFileSync(join(WORKFLOWS, f), 'utf8'); } catch { /* 없으면 빈 문자열 */ }
+  try { for (const f of readdirSync(WORKFLOWS)) t += uncommented(readFileSync(join(WORKFLOWS, f), 'utf8'), true); } catch { /* 없으면 빈 문자열 */ }
   try { t += readFileSync(join(REPO, 'package.json'), 'utf8'); } catch { /* 무시 */ }
   for (const f of readdirSync(SCRIPTS)) {
     if (!f.endsWith('.mjs') || f.includes('.test.')) continue;
-    try { t += readFileSync(join(SCRIPTS, f), 'utf8'); } catch { /* 무시 */ }
+    try { t += uncommented(readFileSync(join(SCRIPTS, f), 'utf8'), false); } catch { /* 무시 */ }
   }
   return t;
 })();
@@ -113,7 +116,7 @@ const orphans = checkers.filter((n) => {
   if (/MANUAL-ONLY:/.test(sourceOf(n))) return false;
   // 자기 파일에서의 언급은 빼고 센다
   const mentions = wiredText.split(`scripts/${n}.mjs`).length - 1;
-  const self = (sourceOf(n).split(`scripts/${n}.mjs`).length - 1);
+  const self = (uncommented(sourceOf(n), false).split(`scripts/${n}.mjs`).length - 1);
   return mentions - self <= 0;
 });
 

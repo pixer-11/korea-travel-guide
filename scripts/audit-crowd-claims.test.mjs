@@ -93,6 +93,14 @@ test('괄호 안이 영업시간이면 옆 절의 최상급과 묶어 잡지 않
   assert.equal(r.code, 0, r.out);
 });
 
+test('괄호 안에 "weekdays"만 있고 영업시간 말이 없으면 여전히 잡는다 (2026-09-09 리뷰)', () => {
+  const r = runOn({
+    'h.md': post('draft: false\n', 'The square is quietest (9am-11am on weekdays), so come then.'),
+  });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /INVENTED-CROWD-CLAIM:\s*h\.md/);
+});
+
 test('괄호 안이 혼잡 이야기면 예외로 봐주지 않는다', () => {
   const r = runOn({
     'g.md': post('draft: false\n',
