@@ -270,8 +270,46 @@ async function plausibleReport() {
 // "219초" is arithmetic the reader shouldn't have to do at a glance.
 const koDuration = (s) => (s >= 60 ? `${Math.floor(s / 60)}분 ${s % 60}초` : `${s}초`);
 
+// Bing, because Bing is where the traffic is. Measured 2026-09-09: over three
+// months Bing sent 106 clicks against Google's ~30, its impressions went from
+// 172 to 967 a day across two weeks while Google's index stayed frozen, and none
+// of it appeared in any report we had — every number we watched was Google's.
+// The API key is the owner's, generated 2026-09-09 in Bing Webmaster Tools
+// (Settings > API access) and kept in .env / repo secrets as BING_API_KEY.
+async function bingReport() {
+  const key = process.env.BING_API_KEY;
+  if (!key) return { error: 'BING_API_KEY 없음' };
+  // NOT process.env.SITE_URL — .env ships that as the placeholder
+  // `https://example.com`, and Bing answers 400 for a property you do not own,
+  // which reads as a broken key rather than a wrong site (2026-09-09).
+  const site = 'https://wanderatlasguides.com';
+  try {
+    const url = `https://ssl.bing.com/webmaster/api.svc/json/GetQueryStats`
+      + `?siteUrl=${encodeURIComponent(site)}&apikey=${encodeURIComponent(key)}`;
+    const r = await fetch(url);
+    if (!r.ok) return { error: `Bing ${r.status}` };
+    const rows = (await r.json()).d ?? [];
+    if (!rows.length) return { error: 'Bing 응답에 검색어가 없다' };
+    // The API returns a rolling window, not one day — say so rather than let the
+    // number read as "today", which is how a 3-month total becomes a daily brag.
+    const imp = rows.reduce((a, x) => a + (x.Impressions ?? 0), 0);
+    const clicks = rows.reduce((a, x) => a + (x.Clicks ?? 0), 0);
+    const top = [...rows]
+      .sort((a, b) => (b.Impressions ?? 0) - (a.Impressions ?? 0))
+      .slice(0, 3)
+      .map((x) => `${String(x.Query).slice(0, 24)} ${x.Impressions}회·${Math.round(x.AvgImpressionPosition ?? 0)}위`);
+    // Where we already sit on page one is the only place a better title or
+    // description can earn anything; deeper than that, position is the problem.
+    const pageOne = rows.filter((x) => (x.AvgImpressionPosition ?? 99) <= 5);
+    const pageOneImp = pageOne.reduce((a, x) => a + (x.Impressions ?? 0), 0);
+    return { queries: rows.length, imp, clicks, top: top.join(' · '), pageOne: pageOne.length, pageOneImp };
+  } catch (e) {
+    return { error: e.message.slice(0, 80) };
+  }
+}
+
 async function main() {
-  const [cf, pl] = await Promise.all([cfReport(), plausibleReport()]);
+  const [cf, pl, bing] = await Promise.all([cfReport(), plausibleReport(), bingReport()]);
   const cfOk = cf && !cf.error;
   const plOk = pl && !pl.error;
 
@@ -307,6 +345,16 @@ async function main() {
 
   L.push('', '🔥 인기 페이지');
   L.push(cfOk ? cf.pages : pl.topPages);
+
+  // Bing sends this site more search traffic than Google does. Its own numbers
+  // are a rolling window from the Webmaster API, so they are labelled as such.
+  if (bing && !bing.error) {
+    L.push('', `🅱️ 빙 검색 (최근 구간 누적): 노출 ${bing.imp.toLocaleString()} · 클릭 ${bing.clicks} · 검색어 ${bing.queries}개`);
+    L.push(`   └ 5위 안 검색어 ${bing.pageOne}개(노출 ${bing.pageOneImp.toLocaleString()}) — 제목·설명이 값을 하는 자리는 여기뿐입니다`);
+    if (bing.top) L.push(`   └ 상위: ${bing.top}`);
+  } else if (bing?.error) {
+    L.push('', `⚠️ 빙 수집 실패: ${bing.error}`);
+  }
 
   // Surface a half-failure instead of silently dropping a section.
   if (cfOk && pl?.error) L.push('', `⚠️ 행동 통계(Plausible) 수집 실패: ${pl.error.slice(0, 80)}`, '   └ 공개 대시보드(plausible.io/wanderatlasguides.com)가 꺼졌는지 확인하세요');
