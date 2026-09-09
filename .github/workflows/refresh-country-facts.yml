@@ -1,6 +1,6 @@
 name: Refresh country facts (climate + holidays)
 
-# Monthly refresh of data/country-facts.json (Open-Meteo climate + Nager.Date
+# Monthly refresh of data/country-facts.json (NASA POWER climate + Nager.Date
 # public holidays). Commit → push → the daily builds render the fresh data on
 # /essentials/<country> pages. Countries without post coordinates yet get
 # climate automatically once their venue posts exist.

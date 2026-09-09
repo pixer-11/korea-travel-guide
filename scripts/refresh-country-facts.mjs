@@ -2,7 +2,7 @@
 // ─────────────────────────────────────────────────────────────
 //  COUNTRY FACTS — monthly climate + public holidays per country.
 //  Free, keyless sources:
-//   • Open-Meteo archive (10 complete years, averaged to monthly hi/lo/rain,
+//   • NASA POWER archive (10 complete years, averaged to monthly hi/lo/rain,
 //     sampled at the country's most-covered CITY — see coordsByCountry)
 //   • Nager.Date public holidays (this year + next; countries it doesn't
 //     cover — e.g. Thailand/Taiwan/UAE — just get an empty list)

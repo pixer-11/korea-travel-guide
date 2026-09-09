@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: methodology
-srcHash: 'd4850bf5da64'
+srcHash: 'a29a21c2ee8f'
 metaTitle: Cómo funcionan nuestros datos — Metodología
 metaDescription: De dónde provienen los gráficos de afluencia, los horarios de apertura, las valoraciones y las tablas climáticas de Wander Atlas, con qué frecuencia los verificamos y cómo citarlos.
 eyebrow: Metodología
@@ -24,7 +24,7 @@ Cada gráfico de "mejor momento para visitar" en este sitio proviene de **tráfi
 
 ## Tablas de clima y "cuándo ir"
 
-Las cifras mensuales de temperatura y precipitaciones se calculan a partir de **diez años completos de observaciones meteorológicas archivadas** (el archivo histórico de Open-Meteo), tomadas en las coordenadas de un lugar real en la ciudad que más cubrimos en cada país. Cada página indica qué ciudad describen sus cifras. Las tablas de días festivos nacionales provienen de calendarios oficiales de festividades y se actualizan dos veces al año para cubrir el año en curso y el siguiente.
+Las cifras mensuales de temperatura y precipitaciones se calculan a partir de **diez años completos de datos meteorológicos archivados** (NASA POWER, el archivo de reanálisis meteorológico de la NASA), tomadas en las coordenadas de un lugar real en la ciudad que más cubrimos en cada país. Cada página indica qué ciudad describen sus cifras. Las tablas de días festivos nacionales provienen de calendarios oficiales de festividades y se actualizan dos veces al año para cubrir el año en curso y el siguiente.
 
 ## Itinerarios
 

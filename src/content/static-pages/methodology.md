@@ -21,7 +21,7 @@ Every "best time to visit" chart on this site comes from **measured foot traffic
 
 ## Climate and "when to go" tables
 
-Monthly temperature and rainfall figures are calculated from **ten full years of archived weather observations** (the Open-Meteo historical archive), taken at the coordinates of a real venue in the city we cover most in each country. Each page says which city its figures describe. Public-holiday tables come from national holiday calendars and are updated twice a year to cover the current year and the next.
+Monthly temperature and rainfall figures are calculated from **ten full years of archived weather data** (NASA POWER, NASA's meteorological reanalysis archive), taken at the coordinates of a real venue in the city we cover most in each country. Each page says which city its figures describe. Public-holiday tables come from national holiday calendars and are updated twice a year to cover the current year and the next.
 
 ## Itineraries
 
