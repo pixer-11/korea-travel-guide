@@ -28,6 +28,31 @@ jobs:
       - name: Fetch climate + holidays
         run: node scripts/refresh-country-facts.mjs
 
+      # A wrong coordinate does not fail the fetch — it returns twelve perfectly
+      # well-formed months of the wrong place, and that is how Hanoi published a
+      # winterless January for weeks (2026-09-09). This reads the figures against
+      # the latitude they were taken at. It does not block the commit: numbers a
+      # human should look at are not a reason to freeze the whole file.
+      - name: Are the climate figures plausible for their latitude?
+        id: climate
+        continue-on-error: true
+        run: node scripts/check-climate-plausible.mjs 2>&1 | tee /tmp/climate.log
+
+      - name: Warn on implausible climate
+        if: steps.climate.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🌡️ 기후 수치가 위도와 맞지 않는 나라가 있습니다"
+            echo "그 나라 when-to-go 페이지의 기온이 다른 도시 값일 수 있습니다."
+            echo
+            tail -c 1000 /tmp/climate.log
+          } > /tmp/climate-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode chat_id="$TELEGRAM_CHAT_ID"             --data-urlencode "text@/tmp/climate-msg.txt" >/dev/null || true
+
       - name: Commit
         run: |
           git config user.name "content-bot"

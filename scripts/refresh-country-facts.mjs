@@ -72,30 +72,52 @@ async function coordsByCountry() {
 // buries an outlier and still fits a single archive request.
 const CLIMATE_YEARS = 10;
 
+// Source: NASA POWER, not Open-Meteo. Changed 2026-09-09 for a licensing reason,
+// not a data one. Open-Meteo's free API is non-commercial only, and their own
+// terms name "websites or apps that ... display advertisements" and "promotional
+// activities" as commercial — this site carries affiliate links, so the free tier
+// was never ours to use, however small our call volume (20 a month). Their
+// historical archive needs the Professional plan, which is not a sensible bill for
+// a site with no revenue. NASA POWER is a US government work: no commercial
+// restriction, redistribution open, attribution requested and given on the page.
+// Measured against the old figures for Barcelona before switching: highs within
+// 1-2C, lows within 1C, rainfall within 10-20mm — different reanalysis models
+// (MERRA-2 here, ERA5 there), same story for a traveller.
+//
+// POWER's *climatology* and *monthly* endpoints return the period's EXTREMES for
+// T2M_MAX/T2M_MIN — Barcelona came out as a 22C January. What a traveller wants is
+// the average daily high, so this reads DAILY values and averages them, exactly as
+// the Open-Meteo version did.
+const POWER_FILL = -999;
 async function climate(lat, lng) {
   const last = new Date().getUTCFullYear() - 1; // last complete year
   const first = last - (CLIMATE_YEARS - 1);
-  const url = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat}&longitude=${lng}` +
-    `&start_date=${first}-01-01&end_date=${last}-12-31` +
-    `&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto`;
-  // Ten years is a heavier request than one, and Open-Meteo rate-limits the free
-  // tier per minute. Back off and retry rather than losing the country.
+  const url = 'https://power.larc.nasa.gov/api/temporal/daily/point'
+    + `?parameters=T2M_MAX,T2M_MIN,PRECTOTCORR&community=AG&longitude=${lng}&latitude=${lat}`
+    + `&start=${first}0101&end=${last}1231&format=JSON`;
+  // Same retry shape as before: a rate-limited refresh must not lose a country.
   let res;
   for (let attempt = 0; attempt < 4; attempt++) {
     res = await fetch(url);
     if (res.ok) break;
-    if (res.status !== 429) throw new Error(`open-meteo ${res.status}`);
+    if (res.status !== 429 && res.status < 500) throw new Error(`nasa-power ${res.status}`);
     await new Promise((r) => setTimeout(r, 20000 * (attempt + 1)));
   }
-  if (!res.ok) throw new Error(`open-meteo ${res.status} after retries`);
-  const { daily } = await res.json();
+  if (!res.ok) throw new Error(`nasa-power ${res.status} after retries`);
+  const body = await res.json();
+  const p = body?.properties?.parameter;
+  if (!p?.T2M_MAX || !p?.T2M_MIN || !p?.PRECTOTCORR) throw new Error('nasa-power: no parameters in reply');
   const months = Array.from({ length: 12 }, () => ({ hi: [], lo: [], rain: 0 }));
-  daily.time.forEach((d, i) => {
-    const m = Number(d.slice(5, 7)) - 1;
-    if (daily.temperature_2m_max[i] != null) months[m].hi.push(daily.temperature_2m_max[i]);
-    if (daily.temperature_2m_min[i] != null) months[m].lo.push(daily.temperature_2m_min[i]);
-    months[m].rain += daily.precipitation_sum[i] ?? 0;
-  });
+  // Keys are YYYYMMDD. -999 is POWER's fill value; counting it as a temperature
+  // would drag a month's average down by tens of degrees.
+  for (const day of Object.keys(p.T2M_MAX)) {
+    const m = Number(day.slice(4, 6)) - 1;
+    if (!(m >= 0 && m < 12)) continue;
+    const hi = p.T2M_MAX[day], lo = p.T2M_MIN[day], rain = p.PRECTOTCORR[day];
+    if (hi > POWER_FILL) months[m].hi.push(hi);
+    if (lo > POWER_FILL) months[m].lo.push(lo);
+    if (rain > POWER_FILL) months[m].rain += rain;
+  }
   // Rain summed across the whole window — divide back to a single year, or a
   // ten-year total gets published as one month's rainfall.
   for (const mo of months) mo.rain /= CLIMATE_YEARS;
@@ -192,6 +214,14 @@ async function main() {
         // Named on the page: "averages for Hanoi" is a claim a reader can check,
         // "for Vietnam" is not — and one city is all these figures ever were.
         entry.climateCity = pt.city ?? null;
+        // The exact point the figures came from, written down beside them. Without
+        // it check-climate-plausible has no latitude to reason about and passes
+        // every file blind — which is the one thing a checker must never do. It
+        // is also what a wrong number is diagnosed from: Hanoi's old figures had
+        // no winter because the coordinate was reading water, and nobody could
+        // see that from the file (2026-09-09).
+        entry.climateLat = pt.lat;
+        entry.climateLng = pt.lng;
         entry.climateYears = CLIMATE_YEARS;
       }
       catch (e) {

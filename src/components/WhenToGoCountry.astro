@@ -80,8 +80,10 @@ const jsonLd = {
       creator: { '@id': `${site}/#org` },
       isAccessibleForFree: true,
       // Search Console flagged the missing license on all 1,020 of these pages
-      // (2026-07-30). CC BY 4.0 matches the sources: Open-Meteo publishes under
-      // it, and our figures are a derived aggregation of theirs.
+      // (2026-07-30). CC BY 4.0 is still the right label for our aggregation:
+      // the underlying figures are now NASA POWER, a US government work with no
+      // use restriction, so licensing the derived table under CC BY gives readers
+      // more certainty than the source demands, never less (2026-09-09).
       license: 'https://creativecommons.org/licenses/by/4.0/',
       // The rest of Google's recommended Dataset fields, so this is the last
       // time this schema generates a warning: what is measured, over which
@@ -95,7 +97,7 @@ const jsonLd = {
         temporalCoverage: `${new Date().getUTCFullYear() - first.climateYears}/${new Date().getUTCFullYear() - 1}`,
       }),
       ...(first.climateCity && { spatialCoverage: { '@type': 'Place', name: first.climateCity } }),
-      isBasedOn: 'https://open-meteo.com/',
+      isBasedOn: 'https://power.larc.nasa.gov/',
     },
   ],
 };

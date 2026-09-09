@@ -1,5 +1,5 @@
 // "Is March a good time for Japan?" answered from data the site already holds:
-// 30-year climate normals from Open-Meteo, public holidays, and the venues we
+// Ten-year climate normals from NASA POWER, public holidays, and the venues we
 // have published. Nothing here is generated prose — every claim is a computed
 // fact, so these pages can be built unattended without anyone checking them.
 //

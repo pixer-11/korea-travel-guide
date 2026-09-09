@@ -29,7 +29,7 @@ const reviewed = d.lastReviewed.toLocaleDateString(localeCodes[lang], { year: 'n
 const policyLink = `<a href="${localizePath('/about', lang)}">${t('footer.editorialPolicy')}</a>`;
 const reviewedNote = t('ess.reviewedNote').replace('{date}', reviewed).replace('{policy}', policyLink);
 
-// Climate + holidays from data/country-facts.json (Open-Meteo + Nager.Date,
+// Climate + holidays from data/country-facts.json (NASA POWER + Nager.Date,
 // refreshed monthly by refresh-country-facts.yml). Either may be absent for a
 // country — sections render only when there is real data.
 const facts = (countryFacts as any).countries?.[d.country] ?? {};
