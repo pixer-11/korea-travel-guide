@@ -15,12 +15,38 @@
 // generated prose for every launch city — see fix-round 2 of the itinerary
 // builder review.
 
+// Round 3 (2026-09-09): "opens at" / "closes at" alone is not an hours claim.
+// Itinerary prose schedules the DAY in those words — "The day opens at Sultan
+// Mosque", "the afternoon closes at Clarke Quay" — and the Singapore 5-day
+// rebuild was refused twice for exactly that. What makes it an hours claim is
+// the object: a time. So the verb forms below require a time-shaped object
+// (a digit, a clock word, a number word) or, for "closes on", a day/period.
+// Digits with am/pm or a colon are caught by the clock patterns regardless.
+// "night", "all hours", "the clock", seasons and "the usual/same" are in the
+// list because a sweep of every post showed the old pattern catching real
+// claims of exactly those shapes — "open at night", "open around the clock",
+// "open from spring through autumn", "closes at the usual 11:30pm".
+const TIME_WORD = String.raw`(?:\d|noon|midday|midnight|dawn|dusk|sunrise|sunset|nightfall|first light|the crack of dawn|night\b|all hours\b|the clock\b|(?:the )?(?:usual|same)\b|(?:early |late |mid-?)?(?:spring|summer|autumn|fall|winter)\b|(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\b|(?:early|late|mid)[- ]?(?:morning|afternoon|evening)\b)`;
+// Grouped as a whole on purpose: ungrouped, "weekends" became a top-level
+// alternative and flagged eleven healthy itineraries (caught by comparing the
+// validator's count before and after on the live files).
+const DAY_WORD = String.raw`(?:(?:mon|tues|wednes|thurs|fri|satur|sun)days?\b|weekends?\b|weekdays?\b|(?:public |bank )?holidays\b|(?:rotating|alternate|several|certain|some|most|the same) days\b)`;
+
 export const PROSE_GUARD_PATTERNS = [
   { name: 'clock-time-ampm', re: /\b\d{1,2}\s*(:\d{2})?\s*(am|pm)\b/i },
   { name: 'clock-time-24h', re: /\b\d{1,2}:\d{2}\b/ },
   {
     name: 'hours-language',
-    re: /\bopening hours\b|\bopens?\s+(at|from|around)\b|\bcloses?\s+(at|on|around)\b|\bclosed\s+(on|every|each)\b|\bopen\s+(until|till|late|24\s*hours|round the clock)\b|\blast\s+(entry|admission|order)\b/i,
+    re: new RegExp(
+      String.raw`\bopening hours\b` +
+      String.raw`|\bopens?\s+(?:at|from|around)\s+${TIME_WORD}` +
+      String.raw`|\bcloses?\s+(?:at|around)\s+${TIME_WORD}` +
+      String.raw`|\bcloses?\s+on\s+${DAY_WORD}` +
+      String.raw`|\bclosed\s+(?:on|every|each)\b` +
+      String.raw`|\bopen\s+(?:until|till|late|24\s*hours|round the clock)\b` +
+      String.raw`|\blast\s+(?:entry|admission|order)\b`,
+      'i',
+    ),
   },
   { name: 'currency-symbol', re: /[$€£¥₩]\s?\d/ },
   { name: 'currency-code', re: /\b\d+\s?(usd|krw|jpy|thb|won|baht|yen)\b/i },

@@ -23,6 +23,21 @@ for (const text of [
   'Cafe 3 Stripes',
   'a closed-off pedestrian street',
   'open space',
+  // Round 3 (2026-09-09): an itinerary sentence that SCHEDULES THE DAY, not a
+  // venue. The Singapore 5-day intro was rejected twice for "The day opens at
+  // Sultan Mosque" — a place after "opens at", not a time. Only a time-shaped
+  // object (a number, noon, dawn, nine…) makes open/close an hours claim.
+  'The day opens at Sultan Mosque, then drifts toward Haji Lane.',
+  'The afternoon closes at Clarke Quay with a river breeze.',
+  'Day two opens from Chinatown.',
+  'The route opens around Kampong Glam.',
+  'The market closes on a high note.',
+  // From the same sweep of every published post: old-pattern false positives.
+  'the Blue Mosque and Hagia Sophia are close at hand',
+  'the Alps sitting improbably close on the horizon',
+  'not all 300 labels are open at once',
+  'the crowd surges the moment doors open at the end',
+  'the tour was set to open at Etihad Arena on Yas Island',
 ]) {
   test(`does not flag: "${text}"`, () => {
     assert.deepEqual(findProseViolations(text), []);
@@ -34,6 +49,19 @@ const mustFlag = [
   ['opens at 9am', ['hours-language', 'clock-time-ampm']],
   ['closes at 18:00', ['hours-language', 'clock-time-24h']],
   ['closed on Tuesdays', ['hours-language']],
+  ['The mosque opens at nine and fills fast', ['hours-language']],
+  ['opens at dawn', ['hours-language']],
+  ['closes around noon', ['hours-language']],
+  ['closes on Mondays', ['hours-language']],
+  ['closes on public holidays', ['hours-language']],
+  ['opens from 9', ['hours-language']],
+  // Real claims the old pattern caught only by accident; keep catching them.
+  ['Is the park open at night?', ['hours-language']],
+  ['free and open around the clock', ['hours-language']],
+  ['open at all hours', ['hours-language']],
+  ['generally open from spring through autumn', ['hours-language']],
+  ['stalls close on rotating days', ['hours-language']],
+  ['closes at the usual time', ['hours-language']],
   ['opening hours vary', ['hours-language']],
   ['open until late', ['hours-language']],
   ['last entry 30 minutes before', ['hours-language']],
