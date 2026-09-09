@@ -54,7 +54,13 @@ const MAX_CANDIDATES = Number(process.env.MAX_CANDIDATES ?? 8);
 // the tightest cap on our best-performing page type; four is not a volume push,
 // it is the mix following the numbers.
 const EVENTS_PER_COUNTRY = Number(process.env.EVENTS_PER_COUNTRY ?? 4);
-const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 2);
+// Raised with events on 2026-09-09, on Bing's numbers rather than Google's.
+// Per published page Bing clicks: trendy 0.57, event 0.42, hidden-gem 0.31,
+// restaurant 0.29, attraction 0.30 — and trendy converts at 19% against the
+// famous-landmark 1.3%, because a new cafe is a query nobody else answers while
+// "Venice Grand Canal" belongs to Wikipedia. Hotspots come from the same weekly
+// web search as events, so they cost the daily Places quota nothing.
+const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 4);
 
 async function searchJson(prompt) {
   let msg;
