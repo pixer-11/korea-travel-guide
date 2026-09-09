@@ -30,8 +30,16 @@ const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*])
 // with a word character in front of it, stops ** from OPENING at all. That is
 // how a glossed proper noun written 尾根道**「神々の小径」** ships with literal
 // asterisks even though nothing is wrong with its closer (found 2026-09-07, ja).
-const LEAD = /\*\*([「『（【〈《〔“‘]+)(?=[^\s*])/g;
-const TRAIL = /([」』）】〉》〕”’]+)\*\*/g;
+// The two lists gained the STRAIGHT ASCII quotes on 2026-09-09: a Chinese guide
+// shipped 著名的**"存钱猪"雷切尔（…）**铜像 written with " rather than “, and the
+// repair tool called it unfixable for two days because only the curly and CJK
+// quotes were listed. Quotes only — the first attempt used the Unicode bracket
+// categories (Ps/Pe) instead, which swept in ASCII "(" and made LEAD treat the
+// CLOSING ** of `**「神々の小径」**(センティエロ)` as an opener because a paren
+// happened to follow it. That line's test caught it. A quote is ambidextrous
+// and needs naming; a paren is not, and the pairs already listed suffice.
+const LEAD = /\*\*(["'「『（【〈《〔“‘]+)(?=[^\s*])/g;
+const TRAIL = /(["'」』）】〉》〕”’]+)\*\*/g;
 
 // Each rule with the replacement that lifts its punctuation out of the span.
 const MOVES = new Map([[PAREN, '**$1**$2'], [PUNCT, '**$1**$2'], [LEAD, '$1**'], [TRAIL, '**$1']]);

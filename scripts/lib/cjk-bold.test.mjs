@@ -69,6 +69,16 @@ test('the opener punctuation blocks — a bracketed proper noun', () => {
   assert.equal(out.replace(/\*/g, ''), line.replace(/\*/g, ''), 'no words may be lost');
 });
 
+test('straight ASCII quotes block the opener too (2026-09-09, zh)', () => {
+  // The shape that sat in the ledger for two days marked unfixable: the same
+  // glossed-proper-noun bold as above, written with " instead of “.
+  const line = '著名的**"存钱猪"雷切尔（Rachel the Piggy Bank）**铜像和**飞鱼摊位**就在主入口处。';
+  assert.equal(rendersBold(line), false, 'the shape must really fail first');
+  const fixed = fixCjkBoldLine(line);
+  assert.equal(rendersBold(fixed), true, 'still broken: ' + fixed);
+  assert.equal(fixed.replace(/\*/g, ''), line.replace(/\*/g, ''), 'the repair must not change a single word');
+});
+
 test('leaves correct bracketed bold untouched', () => {
   const fine = [
     '「**神々の小径**」がおすすめ。',

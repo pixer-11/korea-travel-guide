@@ -26,7 +26,7 @@ faq:
 
 ## 如何抵达及市场布局
 
-市场位于西雅图市中心的1st Avenue与Pike Street交界处，距离海滨步行不远。如果搭乘公共交通，从Westlake Station（西湖站，可换乘Link轻轨及多条公交线路）沿Pike Street向东步行约10分钟即可到达。著名的**"存钱猪"雷切尔（Rachel the Piggy Bank）**铜像和**飞鱼摊位**就在主入口处，头顶正是那块标志性的红色"PUBLIC MARKET"霓虹招牌。
+市场位于西雅图市中心的1st Avenue与Pike Street交界处，距离海滨步行不远。如果搭乘公共交通，从Westlake Station（西湖站，可换乘Link轻轨及多条公交线路）沿Pike Street向东步行约10分钟即可到达。著名的"**存钱猪"雷切尔（Rachel the Piggy Bank）**铜像和**飞鱼摊位**就在主入口处，头顶正是那块标志性的红色"PUBLIC MARKET"霓虹招牌。
 
 从这里向外延伸，市场分为主拱廊、位于下层的"Down Under"区域（不只是美食，店铺也很值得一逛），以及北侧较新的MarketFront扩建区，那里设有可以望见海景的户外座位。
 
