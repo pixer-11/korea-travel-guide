@@ -27,6 +27,14 @@ faq:
     a: September in Hanoi can bring short rain showers, so bring a light rain layer for the outdoor Ly Thai To Garden stage; indoor venues like the Opera House lean slightly more formal.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/52/Hanoi_Opera_House%2C_24_December_2016.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hanoi_Opera_House,_24_December_2016.jpg
+  focus:
+    x: 45
+    'y': 35
 ---
 You feel Hanoi Jazztival before you see a stage. Walk toward Ly Thai To Garden on a September evening and a low thread of saxophone drifts over the motorbike hum, pulling you past street vendors and lakeside strollers toward the source.
 

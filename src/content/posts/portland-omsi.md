@@ -1,41 +1,39 @@
 ---
-title: "OMSI: Portland Travel Guide (4.5★)"
-description: "OMSI (Oregon Museum of Science and Industry) sits on the east bank of the Willamette River at 1945 SE Water Ave in Portland's Central Eastside, not far from OMSI/SE Water MAX station. 4.5★ (10,578 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "attraction"
-pubDate: "2026-09-09T07:48:39.085Z"
+title: 'OMSI: Portland Travel Guide (4.5★)'
+description: OMSI (Oregon Museum of Science and Industry) sits on the east bank of the Willamette River at 1945 SE Water Ave in Portland's Central Eastside, not far from OMSI/SE Water MAX station. 4.5★ (10,578 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: attraction
+pubDate: '2026-09-09T07:48:39.085Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/OMSI.jpg"
-  credit: "Photo: The original uploader was Cacophony at English Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:OMSI.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1f/OMSI_exhibits_sign%2C_Portland%2C_OR.JPG
+  credit: 'Photo: Another Believer / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=18798776
   focus:
-    x: 45
-    y: 45
-gallery: []
+    x: 30
+    'y': 40
 place:
-  id: "ChIJ0RKx6HIKlVQRTPj6J0hpdNA"
-  name: "OMSI"
-  address: "1945 SE Water Ave, Portland, OR 97214, USA"
+  id: ChIJ0RKx6HIKlVQRTPj6J0hpdNA
+  name: OMSI
+  address: 1945 SE Water Ave, Portland, OR 97214, USA
   rating: 4.5
   userRatingsTotal: 10578
-  googleMapsUrl: "https://maps.google.com/?cid=15020746415816767564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15020746415816767564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5083931
   lng: -122.66603549999999
-  phone: "+1 503-797-4000"
+  phone: +1 503-797-4000
   openingHours:
-    - "Monday: 9:30 AM – 5:30 PM"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 7:00 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: 9:30 AM – 5:30 PM'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 7:00 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-09-09
+    updated: 2026-09-09T00:00:00.000Z
     weekendQuiet:
       - 18
     weekendBusy:
@@ -46,24 +44,24 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_414e647068304a366a50545251566c4b494836784b52304a496843"
+    venueId: ven_414e647068304a366a50545251566c4b494836784b52304a496843
 tags:
-  - "portland"
-  - "museum"
-quickAnswer: "OMSI (Oregon Museum of Science and Industry) sits on the east bank of the Willamette River at 1945 SE Water Ave in Portland's Central Eastside, not far from OMSI/SE Water MAX station. It's open daily, with a moored submarine, planetarium, science labs and rotating exhibits, and weekends run 9:30am to 7pm on Saturdays. If you want to dodge the crowds, aim for the last hour before closing on a weekend, roughly 6 to 7pm, since 11am to 6pm is when it's busiest."
+  - portland
+  - museum
+quickAnswer: OMSI (Oregon Museum of Science and Industry) sits on the east bank of the Willamette River at 1945 SE Water Ave in Portland's Central Eastside, not far from OMSI/SE Water MAX station. It's open daily, with a moored submarine, planetarium, science labs and rotating exhibits, and weekends run 9:30am to 7pm on Saturdays. If you want to dodge the crowds, aim for the last hour before closing on a weekend, roughly 6 to 7pm, since 11am to 6pm is when it's busiest.
 faq:
-  - q: "What are OMSI's hours?"
-    a: "OMSI opens at 9:30am daily. It closes at 5:30pm Sunday through Friday, and stays open until 7pm on Saturdays."
-  - q: "When is OMSI least crowded?"
-    a: "The quietest weekend window is 6pm to 7pm on Saturdays, right before closing. Weekends are busiest from 11am to 6pm, so aim outside that stretch if you can."
-  - q: "Is the USS Blueback submarine tour included with regular admission?"
-    a: "No, the submarine tour is a separate, timed-entry ticket. Buy it early in your visit since slots are limited and can sell out on busy weekend afternoons."
-  - q: "How long should I plan to spend at OMSI?"
-    a: "Most visitors need three to four hours for the main exhibit halls plus a planetarium or lab show. Add an extra hour if you're also touring the submarine."
-  - q: "How do you get to OMSI without a car?"
-    a: "The OMSI/SE Water stop on Portland's MAX and Streetcar lines sits right at the entrance. The Tilikum Crossing pedestrian and transit bridge also links it to the South Waterfront."
-  - q: "What is Science After Dark?"
-    a: "It's OMSI's monthly 21+ evening event, with the daytime exhibits reopened alongside a bar and music. Tickets are separate from general admission and often sell out in advance."
+  - q: What are OMSI's hours?
+    a: OMSI opens at 9:30am daily. It closes at 5:30pm Sunday through Friday, and stays open until 7pm on Saturdays.
+  - q: When is OMSI least crowded?
+    a: The quietest weekend window is 6pm to 7pm on Saturdays, right before closing. Weekends are busiest from 11am to 6pm, so aim outside that stretch if you can.
+  - q: Is the USS Blueback submarine tour included with regular admission?
+    a: No, the submarine tour is a separate, timed-entry ticket. Buy it early in your visit since slots are limited and can sell out on busy weekend afternoons.
+  - q: How long should I plan to spend at OMSI?
+    a: Most visitors need three to four hours for the main exhibit halls plus a planetarium or lab show. Add an extra hour if you're also touring the submarine.
+  - q: How do you get to OMSI without a car?
+    a: The OMSI/SE Water stop on Portland's MAX and Streetcar lines sits right at the entrance. The Tilikum Crossing pedestrian and transit bridge also links it to the South Waterfront.
+  - q: What is Science After Dark?
+    a: It's OMSI's monthly 21+ evening event, with the daytime exhibits reopened alongside a bar and music. Tickets are separate from general admission and often sell out in advance.
 aiGenerated: true
 draft: false
 ---
