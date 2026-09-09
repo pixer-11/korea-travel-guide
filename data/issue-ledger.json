@@ -1,11 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-bold posts/zh/seattle-pike-place-market.md": {
-      "since": "2026-09-08",
-      "last": "2026-09-08",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
