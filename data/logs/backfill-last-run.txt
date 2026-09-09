@@ -1,14 +1,16 @@
-Places 예산: backfill 몫 10회 (오늘 사용 6/100)
-Priority: 151 itinerary stop(s) queued first
-  – katong-east-coast-park.md: nothing new (resting 60d)
-  🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – jumeirah-madinat-jumeirah.md: nothing new (resting 60d)
-  – kampong-cham-phnom-srei.md: nothing new (resting 60d)
-  – kenting-eluanbi-lighthouse.md: nothing new (resting 60d)
+Places 예산: backfill 몫 10회 (오늘 사용 16/100)
+Priority: 149 itinerary stop(s) queued first
+  – jurong-jurong-lake-gardens.md: nothing new (resting 60d)
+  – little-india-tekka-centre.md: nothing new (resting 60d)
+  ✓ sapporo-gyumon-sapporo.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then) — nothing left; weekendQuiet: dropped 22h (venue not open then)
+  ✓ sokcho-huindajeong.md +phone +7h hours
+  – kochi-fort-kochi-beach.md: nothing new (resting 60d)
   🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – tongyeong-dongpirang-mural-village.md: nothing new (resting 60d)
-  – ubud-campuhan-ridge-walk.md: nothing new (resting 60d)
-  – udaipur-ambrai-ghat.md: nothing new (resting 60d)
-  – varanasi-chet-singh-ghat-varanasi.md: nothing new (resting 60d)
+  – verona-castel-san-pietro.md: nothing new (resting 60d)
+  – xi-an-fortifications-of-xi-an.md: nothing new (resting 60d)
+  – yeosu-keunkkeut-lighthouse.md: nothing new (resting 60d)
+  ✓ yogyakarta-the-lost-world-castle.md +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 435, no-new-data 141, no-place 170, closed-quarantined 2, quota-429 0, api-error 0, api-calls 10, remaining-askable 313 (APPLIED).
+BACKFILL RESULT: updated 3, backlog-updated 3, already-complete 437, no-new-data 145, no-place 170, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 316 (APPLIED).

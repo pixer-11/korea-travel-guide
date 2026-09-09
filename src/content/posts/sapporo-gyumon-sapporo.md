@@ -23,17 +23,17 @@ place:
   lng: 141.354535
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 22
-    weekendQuiet:
-      - 12
-      - 14
-      - 16
-      - 17
-      - 18
-      - 21
-      - 22
+    weekendQuiet: [12, 14, 16, 17, 18, 21]
     venueId: ven_677a7a5636524148685a625238314370307765456d55354a496843
+  phone: '+81 11-213-0321'
+  openingHours:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
 tags:
   - sapporo
   - local restaurant

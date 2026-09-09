@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.2092836
   lng: 128.59130679999998
+  phone: '+82 70-8830-9322'
+  openingHours:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
 tags:
   - sokcho
   - trendy cafe
