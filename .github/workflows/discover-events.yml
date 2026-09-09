@@ -25,7 +25,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          EVENTS_PER_COUNTRY: '2'
+          EVENTS_PER_COUNTRY: '4'
         run: node scripts/discover-events.mjs
 
       # Translate the new event guides into ko/ja/es/zh before committing (events

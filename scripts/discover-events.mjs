@@ -45,7 +45,15 @@ const PUBLISHED_FILE = join(ROOT, 'data', 'published.json');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
-const EVENTS_PER_COUNTRY = Number(process.env.EVENTS_PER_COUNTRY ?? 2);
+// How many candidates one search may return. Raising it costs nothing per run.
+const MAX_CANDIDATES = Number(process.env.MAX_CANDIDATES ?? 8);
+// Measured 2026-08-08..09-04, per published page: events rank at position 24 with
+// 1.15% CTR, the best of any category we make; generic attractions sit at 58 with
+// 0.06%. Events also come from this weekly web search rather than the Places text
+// quota, so they cost nothing that the daily publish needs. Two per country was
+// the tightest cap on our best-performing page type; four is not a volume push,
+// it is the mix following the numbers.
+const EVENTS_PER_COUNTRY = Number(process.env.EVENTS_PER_COUNTRY ?? 4);
 const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 2);
 
 async function searchJson(prompt) {
@@ -66,7 +74,11 @@ async function searchJson(prompt) {
   }
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
   const jsonStr = text.replace(/^[\s\S]*?(\[)/, '$1').replace(/```/g, '').trim();
-  try { const arr = JSON.parse(jsonStr); return Array.isArray(arr) ? arr.slice(0, 4) : []; }
+  // Eight, not four, since 2026-09-09. The list costs one search whatever its
+  // length, and by now most countries' first four are events we already cover —
+  // the run log is a column of "already covered; skipping". A longer list is
+  // free candidates, and the write path still gates every one of them.
+  try { const arr = JSON.parse(jsonStr); return Array.isArray(arr) ? arr.slice(0, MAX_CANDIDATES) : []; }
   catch { return []; }
 }
 
