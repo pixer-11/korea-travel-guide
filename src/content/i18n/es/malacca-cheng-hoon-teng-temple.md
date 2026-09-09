@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malacca-cheng-hoon-teng-temple
-srcHash: '71ed34e1de8c'
+srcHash: '965ec76c84c7'
 title: 'Templo Cheng Hoon Teng: Guía de Viaje de Malaca (4,5★)'
-description: 'El templo Cheng Hoon Teng, en Jalan Tokong, en el casco antiguo de Malaca, es el templo chino en funcionamiento más antiguo de Malasia y abre a diario de 7:00 a 18:30. 4,5★ (2.804 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El templo Cheng Hoon Teng, en Jalan Tokong, en el casco antiguo de Malaca, es el templo chino en funcionamiento más antiguo de Malasia y abre a diario de 7:00 a 18:30. 4,5★ (2.822 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Cheng Hoon Teng, en Jalan Tokong, en el casco antiguo de Malaca, es el templo chino en funcionamiento más antiguo de Malasia y abre a diario de 7:00 a 18:30. Conviene ir en día laborable, o antes de las 8:00 los fines de semana, para contemplar sus vigas talladas y la neblina de incienso sin aglomeraciones. Calcule entre 30 y 45 minutos; la entrada es gratuita, aunque hay una pequeña caja de donativos junto a la puerta.
 faq:
   - q: ¿Cuánto cuesta entrar al templo Cheng Hoon Teng?

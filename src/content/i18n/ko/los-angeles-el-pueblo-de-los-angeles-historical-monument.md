@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: los-angeles-el-pueblo-de-los-angeles-historical-monument
-srcHash: '2affdcecd180'
+srcHash: '02934181623f'
 title: '엘 푸에블로 데 로스 앙헬레스 역사 기념지: 로스앤젤레스 여행 가이드'
-description: 엘 푸에블로 데 로스 앙헬레스 역사 기념지(El Pueblo de Los Ángeles Historical Monument)는 로스앤젤레스 다운타운 유니언 스테이션(Union Station)에서 몇 걸음 거리에 있는, 올베라 스트리트(Olvera Street)의 시장 좌판이 중심을 이루는 44에이커 규모의 도시 발생지입니다. 4.5★(리뷰 1,522개) — 방문객 평가, 운영 시간, 방문 팁을 소개합니다.
+description: 엘 푸에블로 데 로스 앙헬레스 역사 기념지(El Pueblo de Los Ángeles Historical Monument)는 로스앤젤레스 다운타운 유니언 스테이션(Union Station)에서 몇 걸음 거리에 있는, 올베라 스트리트(Olvera Street)의 시장 좌판이 중심을 이루는 44에이커 규모의 도시 발생지입니다. 4.5★(리뷰 1,529개) — 방문객 평가, 운영 시간, 방문 팁을 소개합니다.
 quickAnswer: 엘 푸에블로 데 로스 앙헬레스 역사 기념지는 로스앤젤레스 다운타운 유니언 스테이션에서 몇 걸음 거리에 있는, 올베라 스트리트의 시장 좌판이 중심을 이루는 44에이커 규모의 도시 발생지입니다. 매일 오전 8시부터 오후 10시까지 개방되며 무료로 둘러볼 수 있습니다. 벽돌길이 거의 텅 비는 평일 오전 8시~9시에 방문하고, 주말 정오부터 저녁 시간대의 혼잡은 피하세요.
 faq:
   - q: 운영 시간은 어떻게 되나요?

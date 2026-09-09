@@ -1,34 +1,41 @@
 ---
 title: Bad Roman in Los Angeles
-description: Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills, instantly recognizable by its glowing neon-orange snake motif and theatrical, over-the-top dining room.
+description: >-
+  Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality
+  Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly
+  Hills, instantly recognizable by its glowing neon-orange snake motif and
+  theatrical, over-the-top dining room.
 country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg
   credit: 'Photo: Foursquare user content (Bad Roman)'
   license: foursquare
-  source: https://foursquare.com/v/6a17b63d9213a20938310f3e
+  source: 'https://foursquare.com/v/6a17b63d9213a20938310f3e'
   focus:
     x: 65
-    y: 60
+    'y': 60
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/545186313_Txoxkw89bc9r_OQCKCgqZNhnc0i9n8Q-qoiT7tGRBJo.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/545186313_Txoxkw89bc9r_OQCKCgqZNhnc0i9n8Q-qoiT7tGRBJo.jpg
     credit: 'Photo: Foursquare user content (Bad Roman)'
     license: foursquare
-    source: https://foursquare.com/v/6a17b63d9213a20938310f3e
+    source: 'https://foursquare.com/v/6a17b63d9213a20938310f3e'
 place:
   id: ChIJxZ7z6Y27woARW2zeBgk1QKk
   name: Bad Roman
-  address: 267 N Canon Dr, Beverly Hills, CA 90210, USA
-  rating: 4.7
-  userRatingsTotal: 34
-  googleMapsUrl: https://maps.google.com/?cid=12195806103805520987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: '267 N Canon Dr, Beverly Hills, CA 90210, USA'
+  rating: 4.4
+  userRatingsTotal: 54
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12195806103805520987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.0688463
   lng: -118.3995601
-  phone: '+1 310-861-4040'
+  phone: +1 310-861-4040
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
@@ -37,23 +44,54 @@ place:
     - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM'
     - 'Sunday: Closed'
+  priceLevel: 4
 tags:
   - los angeles
   - new & trending
-quickAnswer: Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly Hills, instantly recognizable by its glowing neon-orange snake motif and theatrical, over-the-top dining room. It's built for a lively night out rather than a quiet dinner, so book ahead, dress up a bit, and go with an appetite for spectacle as much as pasta. Confirm current hours and make a reservation online before heading over, since trending spots like this fill up fast and details can shift.
+quickAnswer: >-
+  Bad Roman is a maximalist, see-and-be-seen Italian restaurant from Quality
+  Branded Hospitality (the team behind Don Angie and Zou Zou's) in Beverly
+  Hills, instantly recognizable by its glowing neon-orange snake motif and
+  theatrical, over-the-top dining room. It's built for a lively night out rather
+  than a quiet dinner, so book ahead, dress up a bit, and go with an appetite
+  for spectacle as much as pasta. Confirm current hours and make a reservation
+  online before heading over, since trending spots like this fill up fast and
+  details can shift.
 faq:
   - q: Where exactly is Bad Roman located?
-    a: It's in Beverly Hills, Los Angeles, part of the dense restaurant corridor that draws both locals and visitors staying nearby on Rodeo Drive and Beverly Boulevard. Check the exact street address on the restaurant's official listing or reservation platform before you go, since trending restaurants occasionally adjust entrances or nearby parking arrangements.
+    a: >-
+      It's in Beverly Hills, Los Angeles, part of the dense restaurant corridor
+      that draws both locals and visitors staying nearby on Rodeo Drive and
+      Beverly Boulevard. Check the exact street address on the restaurant's
+      official listing or reservation platform before you go, since trending
+      restaurants occasionally adjust entrances or nearby parking arrangements.
   - q: Do I need a reservation?
-    a: Yes — as a buzzy, recently opened concept from a well-known hospitality group, walk-in availability is unpredictable, especially on weekend evenings. Book through the restaurant's website or a reservation app a few days ahead, and reconfirm the day of your visit.
+    a: >-
+      Yes — as a buzzy, recently opened concept from a well-known hospitality
+      group, walk-in availability is unpredictable, especially on weekend
+      evenings. Book through the restaurant's website or a reservation app a few
+      days ahead, and reconfirm the day of your visit.
   - q: What kind of food does Bad Roman serve?
-    a: It's positioned as a maximalist Italian concept, leaning into bold, playful takes on Italian classics rather than a traditional trattoria menu. Exact dishes and prices change, so check the current online menu rather than relying on secondhand descriptions.
+    a: >-
+      It's positioned as a maximalist Italian concept, leaning into bold,
+      playful takes on Italian classics rather than a traditional trattoria
+      menu. Exact dishes and prices change, so check the current online menu
+      rather than relying on secondhand descriptions.
   - q: What makes the design stand out?
-    a: The dining room is built around a giant neon-orange snake motif and deliberately maximalist, over-the-top interiors, making it as much a visual experience and photo opportunity as a meal. It fits squarely into LA's current wave of theatrical, Instagram-ready restaurant design.
-  - q: How long should I plan to stay, and when's the best time to go?
-    a: Plan for a full dinner experience of roughly 90 minutes to two hours given the multi-course, social nature of the space. Weeknight early seatings tend to be calmer, while Thursday through Saturday evenings bring the fullest, highest-energy crowd.
+    a: >-
+      The dining room is built around a giant neon-orange snake motif and
+      deliberately maximalist, over-the-top interiors, making it as much a
+      visual experience and photo opportunity as a meal. It fits squarely into
+      LA's current wave of theatrical, Instagram-ready restaurant design.
+  - q: 'How long should I plan to stay, and when''s the best time to go?'
+    a: >-
+      Plan for a full dinner experience of roughly 90 minutes to two hours given
+      the multi-course, social nature of the space. Weeknight early seatings
+      tend to be calmer, while Thursday through Saturday evenings bring the
+      fullest, highest-energy crowd.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why Bad Roman Stands Out

@@ -1,30 +1,37 @@
 ---
 title: 'Royal Palace of Madrid: Travel Guide'
-description: Arrive right at 10am opening on a weekday to beat the crowds at the Royal Palace of Madrid — that's the quietest window (10–11am), while weekend afternoons from 1–6pm draw the thickest lines.
+description: >-
+  Arrive right at 10am opening on a weekday to beat the crowds at the Royal
+  Palace of Madrid — that's the quietest window (10–11am), while weekend
+  afternoons from 1–6pm draw the thickest lines.
 country: Spain
 region: Madrid
 category: attraction
 pubDate: '2026-08-02T09:40:34.624Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/375438299_mWPNNlVOJdgVKcbT4HVtgxHvINVkNBBEyvivhbVB5V0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/375438299_mWPNNlVOJdgVKcbT4HVtgxHvINVkNBBEyvivhbVB5V0.jpg
   credit: 'Photo: Foursquare user content (Royal Palace of Madrid)'
   license: foursquare
-  source: https://foursquare.com/v/67794eae0b0d12794a791914
+  source: 'https://foursquare.com/v/67794eae0b0d12794a791914'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg/3840px-Royal_Palace_of_Madrid_east_facade_1.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg/3840px-Royal_Palace_of_Madrid_east_facade_1.jpg
     credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_east_facade_1.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_east_facade_1.jpg
 place:
   id: ChIJwamkfX4oQg0RUUjO1nnsfy4
   name: Royal Palace of Madrid
-  address: Centro, 28071 Madrid, Spain
+  address: 'Centro, 28071 Madrid, Spain'
   rating: 4.7
-  userRatingsTotal: 131483
-  googleMapsUrl: https://maps.google.com/?cid=3350656655825979473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 133085
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3350656655825979473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.417955
   lng: -3.714311999999999
@@ -54,19 +61,38 @@ place:
 tags:
   - madrid
   - Royal Palace of Madrid
-quickAnswer: Arrive right at 10am opening on a weekday to beat the crowds at the Royal Palace of Madrid — that's the quietest window (10–11am), while weekend afternoons from 1–6pm draw the thickest lines. Budget two to three hours for the state rooms, armory, and pharmacy, book timed tickets online in advance, and note Sundays close early at 3pm.
+quickAnswer: >-
+  Arrive right at 10am opening on a weekday to beat the crowds at the Royal
+  Palace of Madrid — that's the quietest window (10–11am), while weekend
+  afternoons from 1–6pm draw the thickest lines. Budget two to three hours for
+  the state rooms, armory, and pharmacy, book timed tickets online in advance,
+  and note Sundays close early at 3pm.
 faq:
   - q: What is the best time of day to visit the Royal Palace of Madrid?
-    a: Weekday mornings between 10am and 11am, right at opening, are the quietest measured window. Avoid weekend afternoons from 1pm to 6pm, which are consistently the busiest.
+    a: >-
+      Weekday mornings between 10am and 11am, right at opening, are the quietest
+      measured window. Avoid weekend afternoons from 1pm to 6pm, which are
+      consistently the busiest.
   - q: How long should I plan to spend there?
-    a: Two to three hours if you want to properly see the state rooms, the Royal Armory, and the Royal Pharmacy rather than rushing through.
+    a: >-
+      Two to three hours if you want to properly see the state rooms, the Royal
+      Armory, and the Royal Pharmacy rather than rushing through.
   - q: What's the nearest metro station?
-    a: Ópera, served by Lines 2, 5, and R, is about a five-minute walk through Plaza de Oriente. Príncipe Pío (Lines 6, 10, R, plus Cercanías) is a slightly longer alternative.
+    a: >-
+      Ópera, served by Lines 2, 5, and R, is about a five-minute walk through
+      Plaza de Oriente. Príncipe Pío (Lines 6, 10, R, plus Cercanías) is a
+      slightly longer alternative.
   - q: Is the palace open on Sundays?
-    a: Yes, but with shorter hours than the rest of the week — 10am to 3pm on Sundays, versus 10am to 6pm Monday through Saturday.
+    a: >-
+      Yes, but with shorter hours than the rest of the week — 10am to 3pm on
+      Sundays, versus 10am to 6pm Monday through Saturday.
   - q: Should I book tickets in advance?
-    a: Yes — it's one of the most-visited sites in Madrid, and booking a timed-entry ticket online avoids a potentially long walk-up line at the ticket counter.
+    a: >-
+      Yes — it's one of the most-visited sites in Madrid, and booking a
+      timed-entry ticket online avoids a potentially long walk-up line at the
+      ticket counter.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 You come up from Calle Bailén and the palace announces itself before you've even reached the gate: a long white-granite and stone façade stretched along a ridge above the Manzanares valley, so vast it takes a moment to register that it's a single building. This is the official residence of the Spanish royal family, though no one actually lives here anymore, it's used only for state ceremonies, which is exactly why you're allowed to wander through nearly fifty rooms of gilded excess without a velvet rope in sight.
 

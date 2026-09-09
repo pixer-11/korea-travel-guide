@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lyon-quais-de-saone-a-lyon
-srcHash: 'd148bf443178'
+srcHash: '3a726daed827'
 title: 'Quais de Saône: Guía de viaje de Lyon (4,5★)'
-description: 'Los Quais de Saône son el paseo fluvial de Lyon a lo largo del Quai Fulchiron, en el distrito 5, abierto las 24 horas y de acceso libre en cualquier momento. 4,5★ (230 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'Los Quais de Saône son el paseo fluvial de Lyon a lo largo del Quai Fulchiron, en el distrito 5, abierto las 24 horas y de acceso libre en cualquier momento. 4,5★ (232 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'Los Quais de Saône son el paseo fluvial de Lyon a lo largo del Quai Fulchiron, en el distrito 5, abierto las 24 horas y de acceso libre en cualquier momento. Conviene ir temprano: entre semana el momento más tranquilo es de 7 a 8 de la mañana, y los fines de semana de 8 a 12, antes de que lleguen corredores, ciclistas y grupos de picnic. Para pasear entre el Vieux Lyon y el tramo sur, más tranquilo, del Saona, hay que reservar una hora o dos.'
 faq:
   - q: ¿Cómo se llega a los Quais de Saône?

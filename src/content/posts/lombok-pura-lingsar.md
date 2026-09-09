@@ -1,50 +1,82 @@
 ---
-title: "Pura Lingsar: Lombok Travel Guide (4.3★)"
-description: "Pura Lingsar, in the village of Batu Kumbung in Lingsar district, Lombok Barat, is Lombok's oldest and most important shared temple, built in 1741 as a place of worship for both Balinese Hindus and Sasak Wetu Telu Muslims. 4.3★ (495 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Lombok"
-category: "attraction"
-pubDate: "2026-09-09T07:42:34.538Z"
+title: 'Pura Lingsar: Lombok Travel Guide (4.3★)'
+description: >-
+  Pura Lingsar, in the village of Batu Kumbung in Lingsar district, Lombok
+  Barat, is Lombok's oldest and most important shared temple, built in 1741 as a
+  place of worship for both Balinese Hindus and Sasak Wetu Telu Muslims. 4.3★
+  (496 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Lombok
+category: attraction
+pubDate: '2026-09-09T07:42:34.538Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/22/COLLECTIE_TROPENMUSEUM_Pura_Lingsar_TMnr_60017222.jpg"
-  credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Pura_Lingsar_TMnr_60017222.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/22/COLLECTIE_TROPENMUSEUM_Pura_Lingsar_TMnr_60017222.jpg
+  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Pura_Lingsar_TMnr_60017222.jpg
   focus:
     x: 25
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4b/COLLECTIE_TROPENMUSEUM_Tempelcomplex_de_Pura_Lingsar_TMnr_60012476.jpg"
-    credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Tempelcomplex_de_Pura_Lingsar_TMnr_60012476.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/4b/COLLECTIE_TROPENMUSEUM_Tempelcomplex_de_Pura_Lingsar_TMnr_60012476.jpg
+    credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Tempelcomplex_de_Pura_Lingsar_TMnr_60012476.jpg
 place:
-  id: "ChIJmwoUvYnHzS0Retos_mpIjyA"
-  name: "Pura Lingsar"
-  address: "C5FJ+JCV, Jalan Raya, Batu Kumbung, Kec. Lingsar, Kabupaten Lombok Barat, Nusa Tenggara Bar. 83371, Indonesia"
+  id: ChIJmwoUvYnHzS0Retos_mpIjyA
+  name: Pura Lingsar
+  address: >-
+    C5FJ+JCV, Jalan Raya, Batu Kumbung, Kec. Lingsar, Kabupaten Lombok Barat,
+    Nusa Tenggara Bar. 83371, Indonesia
   rating: 4.3
-  userRatingsTotal: 495
-  googleMapsUrl: "https://maps.google.com/?cid=2346173555251403386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 496
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2346173555251403386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.5758879
   lng: 116.18105999999999
 tags:
-  - "lombok"
-  - "historic site"
-quickAnswer: "Pura Lingsar, in the village of Batu Kumbung in Lingsar district, Lombok Barat, is Lombok's oldest and most important shared temple, built in 1741 as a place of worship for both Balinese Hindus and Sasak Wetu Telu Muslims. It sits about 20-30 minutes northeast of Mataram by car, and it stays quiet enough most days that you can wander the twin courtyards without crowds. Go in the late morning on an ordinary weekday for the calmest visit, or plan around the Pujawali festival if you want to see it full of life instead."
+  - lombok
+  - historic site
+quickAnswer: >-
+  Pura Lingsar, in the village of Batu Kumbung in Lingsar district, Lombok
+  Barat, is Lombok's oldest and most important shared temple, built in 1741 as a
+  place of worship for both Balinese Hindus and Sasak Wetu Telu Muslims. It sits
+  about 20-30 minutes northeast of Mataram by car, and it stays quiet enough
+  most days that you can wander the twin courtyards without crowds. Go in the
+  late morning on an ordinary weekday for the calmest visit, or plan around the
+  Pujawali festival if you want to see it full of life instead.
 faq:
-  - q: "How do I get to Pura Lingsar from Mataram or Senggigi?"
-    a: "By rented scooter, private car, or a driver-guided day trip; it's roughly 20-30 minutes northeast of Mataram and there's no direct public bus, so you'll need your own transport or a hired driver."
-  - q: "Is there an entrance fee?"
-    a: "There's a small entry donation rather than a fixed ticket price, and sarongs are provided or required at the gate; carry cash in rupiah."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday late mornings tend to be calmest, since Pura Lingsar sees far fewer visitors than Bali's major temples day to day."
-  - q: "How long should I plan to spend there?"
-    a: "Around 45 minutes to an hour covers both courtyards, the lily-pond gardens, and the sacred eel pool at a relaxed pace."
-  - q: "What's the best time of year to see it in full ceremony?"
-    a: "The Pujawali festival, usually around November or December on the Sasak calendar, brings the Perang Topat rice-throwing ritual and both Balinese and Sasak communities together; check local dates before planning around it."
+  - q: How do I get to Pura Lingsar from Mataram or Senggigi?
+    a: >-
+      By rented scooter, private car, or a driver-guided day trip; it's roughly
+      20-30 minutes northeast of Mataram and there's no direct public bus, so
+      you'll need your own transport or a hired driver.
+  - q: Is there an entrance fee?
+    a: >-
+      There's a small entry donation rather than a fixed ticket price, and
+      sarongs are provided or required at the gate; carry cash in rupiah.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday late mornings tend to be calmest, since Pura Lingsar sees far
+      fewer visitors than Bali's major temples day to day.
+  - q: How long should I plan to spend there?
+    a: >-
+      Around 45 minutes to an hour covers both courtyards, the lily-pond
+      gardens, and the sacred eel pool at a relaxed pace.
+  - q: What's the best time of year to see it in full ceremony?
+    a: >-
+      The Pujawali festival, usually around November or December on the Sasak
+      calendar, brings the Perang Topat rice-throwing ritual and both Balinese
+      and Sasak communities together; check local dates before planning around
+      it.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 Most temples in Lombok pick a side. Pura Lingsar doesn't. It was built in 1741 specifically so that Balinese Hindus and Sasak Wetu Telu Muslims could worship on the same ground, and that arrangement has held for close to three centuries.

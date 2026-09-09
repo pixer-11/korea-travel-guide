@@ -1,24 +1,30 @@
 ---
 title: 'Carmelo: Where to Eat in Lyon'
-description: Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area, known for generous pasta and warmly cluttered, colorful dining rooms.
+description: >-
+  Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement
+  (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area,
+  known for generous pasta and warmly cluttered, colorful dining rooms.
 country: France
 region: Lyon
 category: restaurant
 pubDate: '2026-07-29T10:05:08.822Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
   credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
 gallery: []
 place:
   id: ChIJbYYf6Yfr9EcRZuuTuaufYgk
   name: Carmelo
-  address: 7 Rue Neuve, 69001 Lyon, France
+  address: '7 Rue Neuve, 69001 Lyon, France'
   rating: 4.8
-  userRatingsTotal: 39176
+  userRatingsTotal: 40360
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=676278453960698726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=676278453960698726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.7653129
   lng: 4.8349721
@@ -37,25 +43,58 @@ place:
       - 19
       - 20
       - 21
-    weekendBusy: [12, 13, 14, 19, 20, 21]
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 19
+      - 20
+      - 21
     venueId: ven_6b6759667561755475755a5263453972665936665959624a496843
 tags:
   - lyon
   - local restaurant
-quickAnswer: Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area, known for generous pasta and warmly cluttered, colorful dining rooms. It's extremely popular, running two service windows — lunch from 11:45am to 2pm (3:15pm on weekends) and dinner from 6:15 to 10:15pm (10:45pm Friday and Saturday) — so the real trick is going right at opening or booking ahead rather than trying to find a genuinely quiet hour, especially on weekend afternoons and evenings.
+quickAnswer: >-
+  Carmelo is an Italian restaurant on Rue Neuve in Lyon's 1st arrondissement
+  (Presqu'île), a few minutes' walk from Hôtel de Ville and the Terreaux area,
+  known for generous pasta and warmly cluttered, colorful dining rooms. It's
+  extremely popular, running two service windows — lunch from 11:45am to 2pm
+  (3:15pm on weekends) and dinner from 6:15 to 10:15pm (10:45pm Friday and
+  Saturday) — so the real trick is going right at opening or booking ahead
+  rather than trying to find a genuinely quiet hour, especially on weekend
+  afternoons and evenings.
 faq:
   - q: Do I need a reservation at Carmelo?
-    a: It's highly recommended, especially for dinner and any weekend slot — the restaurant runs busy through both its lunch and dinner service, and walk-ins may face a wait, particularly from midday onward on Saturdays and Sundays.
+    a: >-
+      It's highly recommended, especially for dinner and any weekend slot — the
+      restaurant runs busy through both its lunch and dinner service, and
+      walk-ins may face a wait, particularly from midday onward on Saturdays and
+      Sundays.
   - q: What's the closest metro station to Carmelo?
-    a: Hôtel de Ville - Louis Pradel on Line A is about a 5-minute walk; Cordeliers (Lines A and C) is a similarly short walk if you're coming from the south end of the Presqu'île.
+    a: >-
+      Hôtel de Ville - Louis Pradel on Line A is about a 5-minute walk;
+      Cordeliers (Lines A and C) is a similarly short walk if you're coming from
+      the south end of the Presqu'île.
   - q: Is there ever a quiet time to visit?
-    a: Not really — the restaurant stays busy through both of its service windows, lunch (11:45am–2pm, or until 3:15pm on weekends) and dinner (6:15–10:15pm, later on Fridays and Saturdays). Your best bet for a shorter wait is arriving right at opening, 11:45am, rather than hoping for a lull later.
+    a: >-
+      Not really — the restaurant stays busy through both of its service
+      windows, lunch (11:45am–2pm, or until 3:15pm on weekends) and dinner
+      (6:15–10:15pm, later on Fridays and Saturdays). Your best bet for a
+      shorter wait is arriving right at opening, 11:45am, rather than hoping for
+      a lull later.
   - q: How much should I budget for a meal?
-    a: It's mid-range for Lyon — not cheap, but not a splurge either. Expect to pay for shared starters and generous mains rather than small plates; portions mean you may not need dessert or extra sides.
+    a: >-
+      It's mid-range for Lyon — not cheap, but not a splurge either. Expect to
+      pay for shared starters and generous mains rather than small plates;
+      portions mean you may not need dessert or extra sides.
   - q: What should I order?
-    a: Go for the classic Italian staples it's known for — burrata, hearty pasta dishes like tagliatelle or gnocchi, thin-crust pizza, and tiramisu to finish, ideally shared given the portion sizes.
+    a: >-
+      Go for the classic Italian staples it's known for — burrata, hearty pasta
+      dishes like tagliatelle or gnocchi, thin-crust pizza, and tiramisu to
+      finish, ideally shared given the portion sizes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 ## Why Carmelo pulls a crowd
 

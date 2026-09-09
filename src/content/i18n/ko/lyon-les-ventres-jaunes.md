@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: lyon-les-ventres-jaunes
-srcHash: '1dd705e511af'
+srcHash: '7e5bf43929e8'
 title: '레 방트르 존느(Les Ventres Jaunes): 리옹에서 식사할 곳 (4.6★)'
-description: 레 방트르 존느(Les Ventres Jaunes)는 비외 리옹(Vieux Lyon)의 플라스 뇌브 생장(Place Neuve Saint-Jean)에 위치한 "부숑(bouchon)" 스타일 레스토랑으로, 노출된 서까래가 있는 소박한 노란빛 다이닝 룸에서 넉넉한 양의 가정식 프랑스 요리(크넬, 앙두이예트, 그라탱)를 선보입니다. 4.6★(리뷰 3,931개) — 방문자들의 후기, 영업시간, 팁을 소개합니다.
+description: 레 방트르 존느(Les Ventres Jaunes)는 비외 리옹(Vieux Lyon)의 플라스 뇌브 생장(Place Neuve Saint-Jean)에 위치한 "부숑(bouchon)" 스타일 레스토랑으로, 노출된 서까래가 있는 소박한 노란빛 다이닝 룸에서 넉넉한 양의 가정식 프랑스 요리(크넬, 앙두이예트, 그라탱)를 선보입니다. 4.6★(리뷰 3,979개) — 방문자들의 후기, 영업시간, 팁을 소개합니다.
 quickAnswer: 레 방트르 존느(Les Ventres Jaunes)는 비외 리옹(Vieux Lyon)의 플라스 뇌브 생장(Place Neuve Saint-Jean)에 위치한 "부숑(bouchon)" 스타일 레스토랑으로, 노출된 서까래가 있는 소박한 노란빛 다이닝 룸에서 넉넉한 양의 가정식 프랑스 요리(크넬, 앙두이예트, 그라탱)를 선보입니다. 매일 오전 11시 30분~오후 2시 30분, 오후 6시 30분~10시 30분에 문을 열며, 워낙 유명해서 늘 만석이니 미리 예약하거나 오픈 시간에 딱 맞춰 가는 것이 좋습니다. 가격대는 중간 수준을 예상하면 되고, 주말에는 정오부터 밤 10시까지 계속 만석인 편입니다.
 faq:
   - q: 예약이 꼭 필요한가요?

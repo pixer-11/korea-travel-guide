@@ -1,26 +1,32 @@
 ---
 title: 'Grand Central Market: Los Angeles Travel Guide (4.5★)'
-description: Grand Central Market is a 1917 food hall on Broadway in Downtown LA, packed with dozens of vendors from tacos to ramen to fresh oysters. 4.5★ (36,796 reviews) — what visitors say, hours, and tips.
+description: >-
+  Grand Central Market is a 1917 food hall on Broadway in Downtown LA, packed
+  with dozens of vendors from tacos to ramen to fresh oysters. 4.5★ (37,031
+  reviews) — what visitors say, hours, and tips.
 country: United States
 region: Los Angeles
 category: hidden-gem
 pubDate: '2026-08-08T08:32:28.026Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grand_Central_Market_Los_Angeles_P1000560.jpg/3840px-Grand_Central_Market_Los_Angeles_P1000560.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grand_Central_Market_Los_Angeles_P1000560.jpg/3840px-Grand_Central_Market_Los_Angeles_P1000560.jpg
   credit: 'Photo: NewtonCourt / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Grand_Central_Market_Los_Angeles_P1000560.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Grand_Central_Market_Los_Angeles_P1000560.jpg
   focus:
     x: 50
     'y': 50
 place:
   id: ChIJ53JDjkvGwoAR2NMG6_1OnUg
   name: Grand Central Market
-  address: 317 S Broadway, Los Angeles, CA 90013, USA
+  address: '317 S Broadway, Los Angeles, CA 90013, USA'
   rating: 4.5
-  userRatingsTotal: 36796
+  userRatingsTotal: 37031
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=5232425194551170008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5232425194551170008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.050872
   lng: -118.2490552
@@ -57,19 +63,37 @@ place:
 tags:
   - los angeles
   - local market
-quickAnswer: Grand Central Market is a 1917 food hall on Broadway in Downtown LA, packed with dozens of vendors from tacos to ramen to fresh oysters. It's open daily 8am–9pm, and while weekends get slammed from 11am to 7pm, an early morning or late afternoon visit lets you actually sit down. Despite the name, this is a very popular spot these days — not a hidden find — so timing your visit matters more than finding it.
+quickAnswer: >-
+  Grand Central Market is a 1917 food hall on Broadway in Downtown LA, packed
+  with dozens of vendors from tacos to ramen to fresh oysters. It's open daily
+  8am–9pm, and while weekends get slammed from 11am to 7pm, an early morning or
+  late afternoon visit lets you actually sit down. Despite the name, this is a
+  very popular spot these days — not a hidden find — so timing your visit
+  matters more than finding it.
 faq:
   - q: What are the opening hours?
-    a: Grand Central Market is open every day, 8am to 9pm, with no weekly closing day.
+    a: >-
+      Grand Central Market is open every day, 8am to 9pm, with no weekly closing
+      day.
   - q: When is the quietest time to visit?
-    a: Weekday mornings tend to be calmest. Both weekdays and weekends see their lowest crowds right around opening at 8am; avoid weekends between 11am and 7pm, when it's busiest.
+    a: >-
+      Weekday mornings tend to be calmest. Both weekdays and weekends see their
+      lowest crowds right around opening at 8am; avoid weekends between 11am and
+      7pm, when it's busiest.
   - q: How do I get there without a car?
-    a: Take the Metro Red or Purple Line to Pershing Square station — it's about a two-minute walk to the market's Broadway entrance.
+    a: >-
+      Take the Metro Red or Purple Line to Pershing Square station — it's about
+      a two-minute walk to the market's Broadway entrance.
   - q: How much time should I plan for a visit?
-    a: Budget 45 minutes to an hour for a meal and a browse. If you want to try food from several vendors, give yourself closer to 90 minutes.
+    a: >-
+      Budget 45 minutes to an hour for a meal and a browse. If you want to try
+      food from several vendors, give yourself closer to 90 minutes.
   - q: Is it good value?
-    a: Yes — it's a budget-friendly food hall overall, with most dishes priced like casual street food rather than a sit-down restaurant.
+    a: >-
+      Yes — it's a budget-friendly food hall overall, with most dishes priced
+      like casual street food rather than a sit-down restaurant.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

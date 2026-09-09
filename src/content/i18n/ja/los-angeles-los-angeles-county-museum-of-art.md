@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: los-angeles-los-angeles-county-museum-of-art
-srcHash: '99e461937b84'
+srcHash: '99d46da464d8'
 title: ロサンゼルス・カウンティ美術館(LACMA):旅行ガイド(4.6★)
-description: LACMAはウィルシャー・ブールバード(Wilshire Boulevard)沿いに広がる20エーカーの敷地を持ち、ブロード現代美術館(Broad Contemporary Art Museum)と、入口前に立つ象徴的なランプポスト作品「アーバン・ライト(Urban Light)」が見どころです。4.6★(21,013件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
+description: LACMAはウィルシャー・ブールバード(Wilshire Boulevard)沿いに広がる20エーカーの敷地を持ち、ブロード現代美術館(Broad Contemporary Art Museum)と、入口前に立つ象徴的なランプポスト作品「アーバン・ライト(Urban Light)」が見どころです。4.6★(21,123件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: LACMAはウィルシャー・ブールバード(Wilshire Boulevard)沿いに広がる20エーカーの敷地を持ち、ブロード現代美術館(Broad Contemporary Art Museum)と、正面に立つ象徴的なランプポスト作品「アーバン・ライト(Urban Light)」が見どころです。水曜を除き毎日開館しており、平日で最も空いている時間帯は午後6時から7時。週末は正午から閉館まで混雑が続くため、午前中の訪問がおすすめです。常設コレクションのほんの一部を見るだけでも、最低3時間は確保しましょう。
 faq:
   - q: 訪問にはどのくらいの時間を確保すべきですか?

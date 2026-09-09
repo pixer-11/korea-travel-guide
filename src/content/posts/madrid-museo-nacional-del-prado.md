@@ -1,30 +1,35 @@
 ---
 title: 'Museo Nacional del Prado: Madrid Travel Guide'
-description: The Prado is Madrid's essential art museum, home to Velázquez's "Las Meninas," Goya's "Black Paintings," and one of the world's finest El Greco collections.
+description: >-
+  The Prado is Madrid's essential art museum, home to Velázquez's "Las Meninas,"
+  Goya's "Black Paintings," and one of the world's finest El Greco collections.
 country: Spain
 region: Madrid
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg
   credit: 'Photo: Foursquare user content (Museo Nacional del Prado)'
   license: foursquare
-  source: https://foursquare.com/v/4adcda37f964a520fd3b21e3
+  source: 'https://foursquare.com/v/4adcda37f964a520fd3b21e3'
   focus:
     x: 30
-    y: 50
+    'y': 50
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/51242516_K7PJKKNMzk3GbyGhStIBe_PsAXrWeZS8wdEocxpbWI8.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/51242516_K7PJKKNMzk3GbyGhStIBe_PsAXrWeZS8wdEocxpbWI8.jpg
     credit: 'Photo: Foursquare user content (Museo Nacional del Prado)'
     license: foursquare
-    source: https://foursquare.com/v/4adcda37f964a520fd3b21e3
+    source: 'https://foursquare.com/v/4adcda37f964a520fd3b21e3'
 place:
   id: ChIJ7aLYZp0oQg0RWoitk33wlBA
   name: Museo Nacional del Prado
-  address: Retiro, 28014 Madrid, Spain
+  address: 'Retiro, 28014 Madrid, Spain'
   rating: 4.7
-  userRatingsTotal: 154800
-  googleMapsUrl: https://maps.google.com/?cid=1194844223299225690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 156829
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1194844223299225690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.413781799999995
   lng: -3.6921270999999996
@@ -49,19 +54,38 @@ place:
 tags:
   - madrid
   - Prado Museum
-quickAnswer: The Prado is Madrid's essential art museum, home to Velázquez's "Las Meninas," Goya's "Black Paintings," and one of the world's finest El Greco collections. Enter via the Jerónimos entrance on Paseo del Prado, allow at least 2.5–3 hours, and book timed tickets online in advance to skip the queue. Go early on a weekday morning or during the free evening hours for the calmest visit.
+quickAnswer: >-
+  The Prado is Madrid's essential art museum, home to Velázquez's "Las Meninas,"
+  Goya's "Black Paintings," and one of the world's finest El Greco collections.
+  Enter via the Jerónimos entrance on Paseo del Prado, allow at least 2.5–3
+  hours, and book timed tickets online in advance to skip the queue. Go early on
+  a weekday morning or during the free evening hours for the calmest visit.
 faq:
   - q: How do I get to the Prado by metro?
-    a: Take Line 2 to Banco de España station, then walk about 5 minutes south along Paseo del Prado to the Jerónimos entrance.
+    a: >-
+      Take Line 2 to Banco de España station, then walk about 5 minutes south
+      along Paseo del Prado to the Jerónimos entrance.
   - q: How long should I plan to spend at the Prado?
-    a: Budget at least 2.5–3 hours for the highlights (Velázquez, Goya, El Greco, Bosch); serious art fans often spend half a day.
+    a: >-
+      Budget at least 2.5–3 hours for the highlights (Velázquez, Goya, El Greco,
+      Bosch); serious art fans often spend half a day.
   - q: Is there a way to visit for free?
-    a: The Prado offers free entry during designated evening hours most days of the week — check the official website for current times, as they can change.
+    a: >-
+      The Prado offers free entry during designated evening hours most days of
+      the week — check the official website for current times, as they can
+      change.
   - q: Do I need to book tickets in advance?
-    a: Yes, timed online booking is highly recommended, especially in spring and autumn, to avoid long lines at the entrance.
+    a: >-
+      Yes, timed online booking is highly recommended, especially in spring and
+      autumn, to avoid long lines at the entrance.
   - q: What else is nearby if I want to see more art?
-    a: The Prado is part of Madrid's 'Golden Triangle of Art' with the Thyssen-Bornemisza Museum and Reina Sofía (home to Picasso's Guernica), both within a 10-minute walk, and Retiro Park borders the museum for a break afterward.
+    a: >-
+      The Prado is part of Madrid's 'Golden Triangle of Art' with the
+      Thyssen-Bornemisza Museum and Reina Sofía (home to Picasso's Guernica),
+      both within a 10-minute walk, and Retiro Park borders the museum for a
+      break afterward.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

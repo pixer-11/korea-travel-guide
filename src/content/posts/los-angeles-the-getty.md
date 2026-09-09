@@ -1,22 +1,27 @@
 ---
-title: "The Getty: Los Angeles Travel Guide (4.8★)"
-description: The Getty Center in Brentwood is free to enter (you only pay for parking), open Tuesday–Sunday, and best tackled in a half to full day. 4.8★ (37,110 reviews) — what visitors say, hours, and tips.
+title: 'The Getty: Los Angeles Travel Guide (4.8★)'
+description: >-
+  The Getty Center in Brentwood is free to enter (you only pay for parking),
+  open Tuesday–Sunday, and best tackled in a half to full day. 4.8★ (37,386
+  reviews) — what visitors say, hours, and tips.
 country: United States
 region: Los Angeles
 category: attraction
-pubDate: "2026-08-05T11:34:08.112Z"
+pubDate: '2026-08-05T11:34:08.112Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg
-  credit: "Photo: Foursquare user content (J. Paul Getty Museum)"
+  url: >-
+    https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg
+  credit: 'Photo: Foursquare user content (J. Paul Getty Museum)'
   license: foursquare
-  source: https://foursquare.com/v/427ff980f964a520c7211fe3
+  source: 'https://foursquare.com/v/427ff980f964a520c7211fe3'
 place:
   id: ChIJbzYnQte8woARJaqqFVpKeNo
   name: The Getty
-  address: 1200 Getty Center Dr, Los Angeles, CA 90049, USA
+  address: '1200 Getty Center Dr, Los Angeles, CA 90049, USA'
   rating: 4.8
-  userRatingsTotal: 37110
-  googleMapsUrl: https://maps.google.com/?cid=15742414248244587045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 37386
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15742414248244587045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.0773438
   lng: -118.4732648
@@ -39,29 +44,48 @@ place:
     venueId: ven_6f4e654b7056467171614a52416f77386574516e597a624a496843
   phone: +1 310-440-7300
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:30 PM"
-    - "Wednesday: 10:00 AM – 6:30 PM"
-    - "Thursday: 10:00 AM – 6:30 PM"
-    - "Friday: 10:00 AM – 6:30 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 6:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:30 PM'
+    - 'Wednesday: 10:00 AM – 6:30 PM'
+    - 'Thursday: 10:00 AM – 6:30 PM'
+    - 'Friday: 10:00 AM – 6:30 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 6:30 PM'
 tags:
   - los angeles
   - museum
-quickAnswer: The Getty Center in Brentwood is free to enter (you only pay for parking), open Tuesday–Sunday, and best tackled in a half to full day. Ride the driverless tram up the hill, start with the gardens or a single pavilion before the crowds thicken, and if you're going on a weekend aim for after 6pm — foot traffic is heaviest 11am–7pm and quietest around 8–9pm, while weekdays calm down between 6 and 6:30pm.
+quickAnswer: >-
+  The Getty Center in Brentwood is free to enter (you only pay for parking),
+  open Tuesday–Sunday, and best tackled in a half to full day. Ride the
+  driverless tram up the hill, start with the gardens or a single pavilion
+  before the crowds thicken, and if you're going on a weekend aim for after 6pm
+  — foot traffic is heaviest 11am–7pm and quietest around 8–9pm, while weekdays
+  calm down between 6 and 6:30pm.
 faq:
   - q: Is the Getty Center free to visit?
-    a: Yes, general admission is free. The only cost is parking, paid at the entrance gate.
+    a: >-
+      Yes, general admission is free. The only cost is parking, paid at the
+      entrance gate.
   - q: How do I get up to the museum from the parking area?
-    a: A driverless electric tram runs from the parking garage on Sepulveda Boulevard up to the museum plaza, taking about five minutes; you can also walk up via a hillside path.
+    a: >-
+      A driverless electric tram runs from the parking garage on Sepulveda
+      Boulevard up to the museum plaza, taking about five minutes; you can also
+      walk up via a hillside path.
   - q: When is the quietest time to visit?
-    a: On weekdays, it's calmest between 6pm and 6:30pm, just before closing. On weekends, the quietest hour is later, around 8pm–9pm — avoid the 11am–7pm stretch on weekends if you want to skip crowds.
+    a: >-
+      On weekdays, it's calmest between 6pm and 6:30pm, just before closing. On
+      weekends, the quietest hour is later, around 8pm–9pm — avoid the 11am–7pm
+      stretch on weekends if you want to skip crowds.
   - q: How long should I plan to spend there?
-    a: Half a day is enough to see one or two pavilions and the gardens properly; art and architecture enthusiasts often spend a full day.
+    a: >-
+      Half a day is enough to see one or two pavilions and the gardens properly;
+      art and architecture enthusiasts often spend a full day.
   - q: What's nearby if I want to combine a visit?
-    a: The Getty Center sits in Brentwood near the 405 Freeway, making it easy to pair with stops in Westwood or Santa Monica on the same day.
+    a: >-
+      The Getty Center sits in Brentwood near the 405 Freeway, making it easy to
+      pair with stops in Westwood or Santa Monica on the same day.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

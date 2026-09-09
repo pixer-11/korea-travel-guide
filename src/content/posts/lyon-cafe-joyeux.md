@@ -1,24 +1,29 @@
 ---
 title: 'Café Joyeux: Lyon Travel Guide'
-description: Café Joyeux at 13 Rue Ferrandière sits in the Presqu'île's Rue de la République shopping district, a two-minute walk from Cordeliers metro (Line A).
+description: >-
+  Café Joyeux at 13 Rue Ferrandière sits in the Presqu'île's Rue de la
+  République shopping district, a two-minute walk from Cordeliers metro (Line
+  A).
 country: France
 region: Lyon
 category: trendy
 pubDate: '2026-08-02T09:31:07.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/1920px-Caf%C3%A9_Joyeux%2C_Lyon.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/1920px-Caf%C3%A9_Joyeux%2C_Lyon.jpg
   credit: 'Photo: TCY / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Joyeux,_Lyon.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Joyeux,_Lyon.jpg'
 gallery: []
 place:
   id: ChIJawfQYiHr9EcR_PSoQ4x0PhQ
   name: Café Joyeux
-  address: 13 Rue Ferrandière, 69002 Lyon, France
+  address: '13 Rue Ferrandière, 69002 Lyon, France'
   rating: 4.8
-  userRatingsTotal: 1924
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=1458731475094009084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2085
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1458731475094009084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.762175299999996
   lng: 4.8343585
@@ -33,10 +38,19 @@ place:
     - 'Sunday: 9:30 AM – 7:00 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
-    weekdayQuiet: [9]
+    weekdayQuiet:
+      - 9
     weekdayBusy:
       - 15
-    weekendQuiet: [9, 10, 11, 12, 13, 14, 15, 16]
+    weekendQuiet:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
     weekendBusy:
       - 11
       - 12
@@ -50,20 +64,41 @@ place:
 tags:
   - lyon
   - trendy cafe
-quickAnswer: Café Joyeux at 13 Rue Ferrandière sits in the Presqu'île's Rue de la République shopping district, a two-minute walk from Cordeliers metro (Line A). It's a coffee-and-pastry stop run largely by staff with intellectual and cognitive disabilities, and it's genuinely well rated, not just a feel-good gesture. Go on a weekday morning between 8:30 and 10am if you want a table without a wait; weekend afternoons after 11am get busy.
+quickAnswer: >-
+  Café Joyeux at 13 Rue Ferrandière sits in the Presqu'île's Rue de la
+  République shopping district, a two-minute walk from Cordeliers metro (Line
+  A). It's a coffee-and-pastry stop run largely by staff with intellectual and
+  cognitive disabilities, and it's genuinely well rated, not just a feel-good
+  gesture. Go on a weekday morning between 8:30 and 10am if you want a table
+  without a wait; weekend afternoons after 11am get busy.
 faq:
   - q: How do I get to Café Joyeux in Lyon?
-    a: Take metro Line A to Cordeliers station; the café is about a two-minute walk down Rue Ferrandière. It's also roughly an 8-10 minute walk from Place Bellecour.
+    a: >-
+      Take metro Line A to Cordeliers station; the café is about a two-minute
+      walk down Rue Ferrandière. It's also roughly an 8-10 minute walk from
+      Place Bellecour.
   - q: What is Café Joyeux known for?
-    a: It's a café staffed largely by people with intellectual and cognitive disabilities, serving coffee, croissants, pastries, and light lunch items like quiches and salads, and it's well rated for quality, not just its mission.
+    a: >-
+      It's a café staffed largely by people with intellectual and cognitive
+      disabilities, serving coffee, croissants, pastries, and light lunch items
+      like quiches and salads, and it's well rated for quality, not just its
+      mission.
   - q: When is the quietest time to visit?
-    a: Weekday mornings between 8:30am and 10am are calmest. On weekends, it stays manageable from opening until around 11am, then gets busy until closing.
+    a: >-
+      Weekday mornings between 8:30am and 10am are calmest. On weekends, it
+      stays manageable from opening until around 11am, then gets busy until
+      closing.
   - q: What are the opening hours?
-    a: 8:30am to 7pm Monday through Saturday, and 9:30am to 7pm on Sunday. Hours can change, so it's worth a quick check before you go.
+    a: >-
+      8:30am to 7pm Monday through Saturday, and 9:30am to 7pm on Sunday. Hours
+      can change, so it's worth a quick check before you go.
   - q: How much does it cost and how should I pay?
-    a: It's mid-range for central Lyon — not the cheapest bakery, not a splurge. Card and cash are both accepted, as at most Lyon cafés.
+    a: >-
+      It's mid-range for central Lyon — not the cheapest bakery, not a splurge.
+      Card and cash are both accepted, as at most Lyon cafés.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 ## Why this café stands out
 

@@ -1,30 +1,38 @@
 ---
-title: "Elamu: Where to Eat in Lombok (4.8★)"
-description: "Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short drive from the main strip of Jalan Pariwisata Pantai Kuta. 4.8★ (2,407 reviews) — what visitors say, hours, and tips."
+title: 'Elamu: Where to Eat in Lombok (4.8★)'
+description: >-
+  Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short
+  drive from the main strip of Jalan Pariwisata Pantai Kuta. 4.8★ (2,607
+  reviews) — what visitors say, hours, and tips.
 country: Indonesia
 region: Lombok
 category: restaurant
 pubDate: '2026-07-23T07:17:25.991Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/12724474_0p4a0LX3j4_PB6dtaLL6IqSuCJW-sIuvguu9-23lkuo.jpg"
-    credit: "Photo: Foursquare user content (Elamu Lombok)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/6584f9ce9600bd3b9dfbf090"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/12724474_0p4a0LX3j4_PB6dtaLL6IqSuCJW-sIuvguu9-23lkuo.jpg
+    credit: 'Photo: Foursquare user content (Elamu Lombok)'
+    license: foursquare
+    source: 'https://foursquare.com/v/6584f9ce9600bd3b9dfbf090'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/51058052_Z5jaVZ3EZqM-Y6xXnvccLNd5KUPv7mplM8OKVgQyXd4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/51058052_Z5jaVZ3EZqM-Y6xXnvccLNd5KUPv7mplM8OKVgQyXd4.jpg
   credit: 'Photo: Foursquare user content (Elamu Lombok)'
   license: foursquare
-  source: https://foursquare.com/v/6584f9ce9600bd3b9dfbf090
+  source: 'https://foursquare.com/v/6584f9ce9600bd3b9dfbf090'
   focus:
     x: 50
-    y: 40
+    'y': 40
 place:
   id: ChIJH3Zcin2pzS0RkXFwxDtEsLM
   name: Elamu Lombok
-  address: Jl. Pariwisata Pantai Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia
+  address: >-
+    Jl. Pariwisata Pantai Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa
+    Tenggara Bar. 83573, Indonesia
   rating: 4.8
-  userRatingsTotal: 2407
-  googleMapsUrl: https://maps.google.com/?cid=12947923952179638673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2607
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12947923952179638673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.890671
   lng: 116.28121019999999
@@ -53,7 +61,7 @@ place:
       - 20
       - 21
     venueId: ven_4d4c73457444787746586b5230537a70326e69635a33484a496843
-  phone: '+62 858-1980-4421'
+  phone: +62 858-1980-4421
   openingHours:
     - 'Monday: 7:00 AM – 11:00 PM'
     - 'Tuesday: 7:00 AM – 11:00 PM'
@@ -62,22 +70,45 @@ place:
     - 'Friday: 7:00 AM – 11:00 PM'
     - 'Saturday: 7:00 AM – 11:00 PM'
     - 'Sunday: 7:00 AM – 11:00 PM'
+  priceLevel: 3
 tags:
   - lombok
   - local restaurant
-quickAnswer: Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short drive from the main strip of Jalan Pariwisata Pantai Kuta. It's built a strong reputation (4.8 stars from over 2,400 reviews) for Mediterranean plates — think grilled meats, fresh salads, and dips — in a relaxed, tropical setting. Go for an early dinner, book ahead in peak season, and pair it with a sunset stop at Kuta Beach or Tanjung Aan just before.
+quickAnswer: >-
+  Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short
+  drive from the main strip of Jalan Pariwisata Pantai Kuta. It's built a strong
+  reputation (4.8 stars from over 2,400 reviews) for Mediterranean plates —
+  think grilled meats, fresh salads, and dips — in a relaxed, tropical setting.
+  Go for an early dinner, book ahead in peak season, and pair it with a sunset
+  stop at Kuta Beach or Tanjung Aan just before.
 faq:
   - q: How do I get to Elamu Lombok without a car?
-    a: There's no reliable app-based ride-hailing or public transit in this part of Lombok, so most visitors arrive by scooter, private driver, or hotel transfer. If you're staying in Kuta village, it's an easy walk or short scooter ride.
+    a: >-
+      There's no reliable app-based ride-hailing or public transit in this part
+      of Lombok, so most visitors arrive by scooter, private driver, or hotel
+      transfer. If you're staying in Kuta village, it's an easy walk or short
+      scooter ride.
   - q: Do I need a reservation?
-    a: It's not confirmed whether the restaurant requires bookings, but given its high review volume and popularity, calling ahead or reserving during peak season (July–August, December holidays) is a safe bet to avoid a wait.
+    a: >-
+      It's not confirmed whether the restaurant requires bookings, but given its
+      high review volume and popularity, calling ahead or reserving during peak
+      season (July–August, December holidays) is a safe bet to avoid a wait.
   - q: What's the best time of day to visit?
-    a: Early lunch (before 12:30 pm) or an early dinner seating (before 6:30 pm) tend to be calmer, with fewer visitors arriving straight from the beach at peak hours.
+    a: >-
+      Early lunch (before 12:30 pm) or an early dinner seating (before 6:30 pm)
+      tend to be calmer, with fewer visitors arriving straight from the beach at
+      peak hours.
   - q: How long should I plan to stay?
-    a: Plan on 1 to 1.5 hours for a full sit-down meal with mezze-style starters and a main, longer if you're pairing it with drinks and dessert.
+    a: >-
+      Plan on 1 to 1.5 hours for a full sit-down meal with mezze-style starters
+      and a main, longer if you're pairing it with drinks and dessert.
   - q: What else is nearby?
-    a: Kuta Beach, the clifftop viewpoint at Bukit Merese, and Tanjung Aan Beach are all within a short scooter ride, making it easy to build a half-day itinerary around the meal.
+    a: >-
+      Kuta Beach, the clifftop viewpoint at Bukit Merese, and Tanjung Aan Beach
+      are all within a short scooter ride, making it easy to build a half-day
+      itinerary around the meal.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

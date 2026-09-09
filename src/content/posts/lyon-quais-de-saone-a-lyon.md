@@ -1,36 +1,42 @@
 ---
-title: "Quais de Saône à: Lyon Travel Guide (4.5★)"
-description: "The Quais de Saône are Lyon's riverside promenade along Quai Fulchiron in the 5th arrondissement, open around the clock and free to walk any time. 4.5★ (230 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "attraction"
-pubDate: "2026-08-10T08:58:55.691Z"
+title: 'Quais de Saône à: Lyon Travel Guide (4.5★)'
+description: >-
+  The Quais de Saône are Lyon's riverside promenade along Quai Fulchiron in the
+  5th arrondissement, open around the clock and free to walk any time. 4.5★ (232
+  reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: attraction
+pubDate: '2026-08-10T08:58:55.691Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg"
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg
 gallery: []
 place:
-  id: "ChIJQUh9ddbr9EcRpnQ0gqQzSCo"
-  name: "Quais de Saône à Lyon"
-  address: "Quai Fulchiron, 69005 Lyon, France"
+  id: ChIJQUh9ddbr9EcRpnQ0gqQzSCo
+  name: Quais de Saône à Lyon
+  address: 'Quai Fulchiron, 69005 Lyon, France'
   rating: 4.5
-  userRatingsTotal: 230
-  googleMapsUrl: "https://maps.google.com/?cid=3046741929568269478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 232
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3046741929568269478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7534336
   lng: 4.8234161
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -56,24 +62,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6f43537a51716730516e705263453972626464396855514a496843"
+    venueId: ven_6f43537a51716730516e705263453972626464396855514a496843
 tags:
-  - "lyon"
-  - "waterfront"
-quickAnswer: "The Quais de Saône are Lyon's riverside promenade along Quai Fulchiron in the 5th arrondissement, open around the clock and free to walk any time. Go early — weekdays it's calmest between 7am and 8am, weekends between 8am and noon — before joggers, cyclists and picnickers take over. Budget an hour or two for a stroll between Vieux Lyon and the Saône's quieter southern stretch."
+  - lyon
+  - waterfront
+quickAnswer: >-
+  The Quais de Saône are Lyon's riverside promenade along Quai Fulchiron in the
+  5th arrondissement, open around the clock and free to walk any time. Go early
+  — weekdays it's calmest between 7am and 8am, weekends between 8am and noon —
+  before joggers, cyclists and picnickers take over. Budget an hour or two for a
+  stroll between Vieux Lyon and the Saône's quieter southern stretch.
 faq:
-  - q: "How do I get to the Quais de Saône?"
-    a: "Take metro Line D to Vieux Lyon station, then walk about two minutes down to Quai Fulchiron. It's also an easy walk across the Pont Bonaparte from Bellecour."
-  - q: "Is there an entry fee?"
-    a: "No. The quays are a public riverside promenade, open 24 hours with no ticket or gate."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, 7am–8am is calmest. On weekends, aim for 8am–12pm before the afternoon crowds arrive."
-  - q: "How long should I plan for a visit?"
-    a: "Thirty minutes covers a quick walk, but an hour or two lets you take in Vieux Lyon, the footbridges, and views up to Fourvière without rushing."
-  - q: "What's nearby worth combining with the walk?"
-    a: "Vieux Lyon's traboules and old town streets are steps away, and Fourvière Basilica is a short uphill walk or funicular ride from the quay."
+  - q: How do I get to the Quais de Saône?
+    a: >-
+      Take metro Line D to Vieux Lyon station, then walk about two minutes down
+      to Quai Fulchiron. It's also an easy walk across the Pont Bonaparte from
+      Bellecour.
+  - q: Is there an entry fee?
+    a: >-
+      No. The quays are a public riverside promenade, open 24 hours with no
+      ticket or gate.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, 7am–8am is calmest. On weekends, aim for 8am–12pm before the
+      afternoon crowds arrive.
+  - q: How long should I plan for a visit?
+    a: >-
+      Thirty minutes covers a quick walk, but an hour or two lets you take in
+      Vieux Lyon, the footbridges, and views up to Fourvière without rushing.
+  - q: What's nearby worth combining with the walk?
+    a: >-
+      Vieux Lyon's traboules and old town streets are steps away, and Fourvière
+      Basilica is a short uphill walk or funicular ride from the quay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

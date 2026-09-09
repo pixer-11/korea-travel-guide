@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lyon-les-grands-buffets-lyonnais
-srcHash: '57675391e89f'
+srcHash: '7e8b88332067'
 title: 'Les Grands Buffets Lyonnais: dónde comer en Lyon (4.3★)'
-description: 'Les Grands Buffets Lyonnais, en Rue du Bœuf, en Vieux Lyon, es un amplio bufet libre de clásicos lyoneses —charcutería, quenelles, quesos, asados y postres— a precio fijo. 4.3★ (4.930 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Les Grands Buffets Lyonnais, en Rue du Bœuf, en Vieux Lyon, es un amplio bufet libre de clásicos lyoneses —charcutería, quenelles, quesos, asados y postres— a precio fijo. 4.3★ (5.098 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Les Grands Buffets Lyonnais, en Rue du Bœuf, en Vieux Lyon, es un amplio bufet libre de clásicos lyoneses —charcutería, quenelles, quesos, asados y postres— a precio fijo. Cierra los lunes y martes, y abre para comer y cenar de miércoles a sábado, solo para comer los domingos. Los fines de semana hay mucho movimiento desde el mediodía hasta las 22:00, así que conviene llegar justo a la apertura para conseguir las mesas más tranquilas.
 faq:
   - q: ¿Necesito reserva?

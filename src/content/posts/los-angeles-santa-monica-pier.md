@@ -1,32 +1,39 @@
 ---
 title: 'Santa Monica Pier: Los Angeles Travel Guide'
-description: Santa Monica Pier is the wooden landmark at the western end of Route 66, home to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of sea-facing snack stands.
+description: >-
+  Santa Monica Pier is the wooden landmark at the western end of Route 66, home
+  to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of
+  sea-facing snack stands.
 country: United States
 region: Los Angeles
 category: attraction
 pubDate: '2026-07-29T10:16:08.200Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/40630492_lB67zrXWgODFpBXtMl0Iud3trRGKYfwB8Uux0eSEldA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/40630492_lB67zrXWgODFpBXtMl0Iud3trRGKYfwB8Uux0eSEldA.jpg
   credit: 'Photo: Foursquare user content (Santa Monica Pier)'
   license: foursquare
-  source: https://foursquare.com/v/47383924f964a520444c1fe3
+  source: 'https://foursquare.com/v/47383924f964a520444c1fe3'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Los_Angeles_%28California%2C_USA%29%2C_Santa_Monica_Beach_--_2012_--_5301.jpg/1920px-Los_Angeles_%28California%2C_USA%29%2C_Santa_Monica_Beach_--_2012_--_5301.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Los_Angeles_%28California%2C_USA%29%2C_Santa_Monica_Beach_--_2012_--_5301.jpg/1920px-Los_Angeles_%28California%2C_USA%29%2C_Santa_Monica_Beach_--_2012_--_5301.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Santa_Monica_Beach_--_2012_--_5301.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Santa_Monica_Beach_--_2012_--_5301.jpg
 place:
   id: ChIJm6deTdekwoARTY_RzhoRms0
   name: Santa Monica Pier
-  address: 200 Santa Monica Pier, Santa Monica, CA 90401, USA
+  address: '200 Santa Monica Pier, Santa Monica, CA 90401, USA'
   rating: 4.6
-  userRatingsTotal: 134332
+  userRatingsTotal: 135414
   priceLevel: 0
-  googleMapsUrl: https://maps.google.com/?cid=14815172731025329997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14815172731025329997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.008282099999995
   lng: -118.4987585
-  phone: '+1 310 458-8900'
+  phone: +1 310 458-8900
   openingHours:
     - 'Monday: 6:00 AM – 10:00 PM'
     - 'Tuesday: 6:00 AM – 10:00 PM'
@@ -37,9 +44,16 @@ place:
     - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet: [7, 8, 9, 10]
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 10
     weekdayBusy: []
-    weekendQuiet: [7, 8, 9]
+    weekendQuiet:
+      - 7
+      - 8
+      - 9
     weekendBusy:
       - 12
       - 13
@@ -55,20 +69,40 @@ place:
 tags:
   - los angeles
   - Santa Monica Pier
-quickAnswer: Santa Monica Pier is the wooden landmark at the western end of Route 66, home to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of sea-facing snack stands. It's free to walk (rides and aquarium cost extra), and on weekends it's genuinely packed after noon — arrive before 11am to see it as locals do, in the quieter early hours before the crowds roll in.
+quickAnswer: >-
+  Santa Monica Pier is the wooden landmark at the western end of Route 66, home
+  to Pacific Park's Ferris wheel, an arcade, a small aquarium, and a strip of
+  sea-facing snack stands. It's free to walk (rides and aquarium cost extra),
+  and on weekends it's genuinely packed after noon — arrive before 11am to see
+  it as locals do, in the quieter early hours before the crowds roll in.
 faq:
   - q: Is Santa Monica Pier free to visit?
-    a: Yes, walking onto the pier and browsing its shops is free. You only pay for individual rides at Pacific Park, arcade games, and admission to the small aquarium under the deck.
+    a: >-
+      Yes, walking onto the pier and browsing its shops is free. You only pay
+      for individual rides at Pacific Park, arcade games, and admission to the
+      small aquarium under the deck.
   - q: What's the quietest time to visit?
-    a: Foot traffic data shows the calmest window is 7am to 11am, on both weekdays and weekends, before the midday crowds build. Weekends get especially busy from noon to 10pm.
+    a: >-
+      Foot traffic data shows the calmest window is 7am to 11am, on both
+      weekdays and weekends, before the midday crowds build. Weekends get
+      especially busy from noon to 10pm.
   - q: How do I get there without a car?
-    a: Take the Metro E Line to Downtown Santa Monica station, then walk about 10–15 minutes downhill west toward the ocean, or use one of several Big Blue Bus routes that stop near the Third Street Promenade.
+    a: >-
+      Take the Metro E Line to Downtown Santa Monica station, then walk about
+      10–15 minutes downhill west toward the ocean, or use one of several Big
+      Blue Bus routes that stop near the Third Street Promenade.
   - q: How much time should I plan for?
-    a: An hour covers a walk-through with photos and a snack; add 30–45 minutes for the aquarium and more if you want rides at Pacific Park, especially on a busy day when lines form.
+    a: >-
+      An hour covers a walk-through with photos and a snack; add 30–45 minutes
+      for the aquarium and more if you want rides at Pacific Park, especially on
+      a busy day when lines form.
   - q: Do I need a license to fish off the pier?
-    a: No — California law exempts public piers like this one from requiring a fishing license, so you can cast a line off the end rail for free.
+    a: >-
+      No — California law exempts public piers like this one from requiring a
+      fishing license, so you can cast a line off the end rail for free.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 You smell the pier before you see it, funnel cake and salt air, a faint tang of fish from the bait shops under the deck. The wooden boards give slightly under your feet, worn smooth by more than a century of foot traffic, and somewhere below, the Pacific keeps knocking against the pilings. This is Santa Monica Pier, the spot where Route 66 officially ends, and it has the slightly chaotic, layered feel of a place that's been added to, rebuilt, and reinvented since it first opened in 1909.

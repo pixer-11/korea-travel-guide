@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: madrid-temple-of-debod
-srcHash: 'f60105bdacfe'
+srcHash: '04da4961e1c4'
 title: 德波神庙:马德里旅行指南(4.4★)
-description: 德波神庙(Temple of Debod)是一座有着2200年历史的正宗埃及神庙,1968年被赠予西班牙，后重建于西班牙广场(Plaza de España)和王子门(Príncipe Pío)附近的西方公园(Parque del Oeste)山丘上。4.4★(68,952条评价)——游客怎么说、开放时间及游览贴士。
+description: 德波神庙(Temple of Debod)是一座有着2200年历史的正宗埃及神庙,1968年被赠予西班牙，后重建于西班牙广场(Plaza de España)和王子门(Príncipe Pío)附近的西方公园(Parque del Oeste)山丘上。4.4★(69,746条评价)——游客怎么说、开放时间及游览贴士。
 quickAnswer: 德波神庙是一座有着2200年历史的正宗埃及神庙,1968年被赠予西班牙，后重建于西班牙广场和王子门附近的西方公园山丘上。开放时间为周二至周日10:00-20:00(周一闭馆),外部游览免费，最佳游览时间是日落前一小时左右——只是尽量赶在周末3点到8点的人流高峰之前到达。
 faq:
   - q: 参观德波神庙需要门票吗?

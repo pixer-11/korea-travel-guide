@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: lyon-lyon-botanical-garden
-srcHash: 'eb233b26833e'
+srcHash: '697d368630d6'
 title: 리옹 식물원(Lyon Botanical Garden) 여행 가이드 (4.7★)
-description: 리옹 식물원(Lyon Botanical Garden)은 6구(6th arrondissement)에 위치한 테트 도르 공원(Parc de la Tête d'Or) 안에 있으며, 입장은 무료이고 매일 오전 9시~오후 6시(일요일은 오후 5시까지) 운영됩니다. 4.7★(리뷰 4,823개) — 방문객 후기, 운영 시간, 팁을 확인하세요.
+description: 리옹 식물원(Lyon Botanical Garden)은 6구(6th arrondissement)에 위치한 테트 도르 공원(Parc de la Tête d'Or) 안에 있으며, 입장은 무료이고 매일 오전 9시~오후 6시(일요일은 오후 5시까지) 운영됩니다. 4.7★(리뷰 4,838개) — 방문객 후기, 운영 시간, 팁을 확인하세요.
 quickAnswer: 리옹 식물원(Lyon Botanical Garden)은 6구(6th arrondissement)에 위치한 테트 도르 공원(Parc de la Tête d'Or) 안에 있으며, 입장은 무료이고 매일 오전 9시~오후 6시(일요일은 오후 5시까지) 운영됩니다. 평일 오전 9시~10시 사이에 가면 온실이 거의 텅 비어 있으며, 주말에는 오후 1시 이후로 계속 붐빕니다. 온실과 야외 화단을 제대로 둘러보려면 1시간 30분에서 2시간 정도 시간을 잡으세요.
 faq:
   - q: 리옹 식물원은 무료로 입장할 수 있나요?

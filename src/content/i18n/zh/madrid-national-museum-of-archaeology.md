@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: madrid-national-museum-of-archaeology
-srcHash: '46c4a1b46a7e'
+srcHash: '23ad3ed10ec4'
 title: 国家考古博物馆:马德里旅行指南(4.7★)
-description: 马德里国家考古博物馆(Museo Arqueológico Nacional, MAN)位于萨拉曼卡区(Salamanca)的塞拉诺大街(Calle de Serrano)上，毗邻国家图书馆，馆藏包罗万象，从伊比利亚雕塑、罗马镶嵌画到伊斯兰陶器，还有阿尔塔米拉洞穴的等比例复制品。4.7★(28,588条评价)——游客怎么说、开放时间与实用建议。
+description: 马德里国家考古博物馆(Museo Arqueológico Nacional, MAN)位于萨拉曼卡区(Salamanca)的塞拉诺大街(Calle de Serrano)上，毗邻国家图书馆，馆藏包罗万象，从伊比利亚雕塑、罗马镶嵌画到伊斯兰陶器，还有阿尔塔米拉洞穴的等比例复制品。4.7★(28,801条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 马德里国家考古博物馆(Museo Arqueológico Nacional, MAN)位于萨拉曼卡区(Salamanca)的塞拉诺大街(Calle de Serrano)上，毗邻国家图书馆，馆藏包罗万象，从伊比利亚雕塑、罗马镶嵌画到伊斯兰陶器，还有阿尔塔米拉洞穴的等比例复制品。建议预留两到三个小时，最好在工作日晚上8点到9点左右前往，这时人最少;如果周末上午到访，则要预料到会排队。步行即可轻松串联丽池公园(Retiro park)或"黄金三角"艺术博物馆群，距离都不远。
 faq:
   - q: 参观国家考古博物馆应该安排多长时间?

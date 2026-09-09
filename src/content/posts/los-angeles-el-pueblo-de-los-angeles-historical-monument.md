@@ -1,41 +1,50 @@
 ---
-title: "El Pueblo de Los Ángeles Historical Monument: Los Angeles Travel Guide"
-description: "El Pueblo de Los Ángeles Historical Monument is the 44-acre birthplace of the city, anchored by Olvera Street's market stalls, just steps from Union Station in downtown LA. 4.5★ (1,522 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "hidden-gem"
-pubDate: "2026-08-09T08:05:53.584Z"
+title: 'El Pueblo de Los Ángeles Historical Monument: Los Angeles Travel Guide'
+description: >-
+  El Pueblo de Los Ángeles Historical Monument is the 44-acre birthplace of the
+  city, anchored by Olvera Street's market stalls, just steps from Union Station
+  in downtown LA. 4.5★ (1,529 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: hidden-gem
+pubDate: '2026-08-09T08:05:53.584Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Placita_Parish_2007.jpg/1920px-La_Placita_Parish_2007.jpg"
-  credit: "Photo: Matthew D. Herrera (User:Dataproducts) / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:La_Placita_Parish_2007.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Placita_Parish_2007.jpg/1920px-La_Placita_Parish_2007.jpg
+  credit: >-
+    Photo: Matthew D. Herrera (User:Dataproducts) / Wikimedia Commons (Public
+    domain)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:La_Placita_Parish_2007.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Los_Angeles%2C_CA%2C_View_N%2C_El_Pueblo_de_Los_Angeles_Historical_Monument%2C_2012_-_panoramio.jpg/3840px-Los_Angeles%2C_CA%2C_View_N%2C_El_Pueblo_de_Los_Angeles_Historical_Monument%2C_2012_-_panoramio.jpg"
-    credit: "Photo: Chris English / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Los_Angeles,_CA,_View_N,_El_Pueblo_de_Los_Angeles_Historical_Monument,_2012_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Los_Angeles%2C_CA%2C_View_N%2C_El_Pueblo_de_Los_Angeles_Historical_Monument%2C_2012_-_panoramio.jpg/3840px-Los_Angeles%2C_CA%2C_View_N%2C_El_Pueblo_de_Los_Angeles_Historical_Monument%2C_2012_-_panoramio.jpg
+    credit: 'Photo: Chris English / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Los_Angeles,_CA,_View_N,_El_Pueblo_de_Los_Angeles_Historical_Monument,_2012_-_panoramio.jpg
 place:
-  id: "ChIJgQpEAUXGwoARoG9LzK0GhV0"
-  name: "El Pueblo de Los Ángeles Historical Monument"
-  address: "125 Paseo de la Plz, Los Angeles, CA 90012, USA"
+  id: ChIJgQpEAUXGwoARoG9LzK0GhV0
+  name: El Pueblo de Los Ángeles Historical Monument
+  address: '125 Paseo de la Plz, Los Angeles, CA 90012, USA'
   rating: 4.5
-  userRatingsTotal: 1522
-  googleMapsUrl: "https://maps.google.com/?cid=6738799760956420000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1529
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6738799760956420000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.0565245
   lng: -118.2387684
-  phone: "+1 213-485-6855"
+  phone: +1 213-485-6855
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -48,24 +57,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_30566847304b7a4c39476f52416f7747585541457051674a496843"
+    venueId: ven_30566847304b7a4c39476f52416f7747585541457051674a496843
 tags:
-  - "los angeles"
-  - "old quarter"
-quickAnswer: "El Pueblo de Los Ángeles Historical Monument is the 44-acre birthplace of the city, anchored by Olvera Street's market stalls, just steps from Union Station in downtown LA. It's open daily 8am–10pm and free to wander. Go on a weekday between 8am and 9am for near-empty brick paths, and avoid weekend midday-to-evening crowds."
+  - los angeles
+  - old quarter
+quickAnswer: >-
+  El Pueblo de Los Ángeles Historical Monument is the 44-acre birthplace of the
+  city, anchored by Olvera Street's market stalls, just steps from Union Station
+  in downtown LA. It's open daily 8am–10pm and free to wander. Go on a weekday
+  between 8am and 9am for near-empty brick paths, and avoid weekend
+  midday-to-evening crowds.
 faq:
-  - q: "What are the opening hours?"
-    a: "El Pueblo de Los Ángeles is open daily from 8:00 AM to 10:00 PM, with no day-of-week variation."
-  - q: "How do I get there without a car?"
-    a: "Take Metro Red, Purple, or Gold Line to Union Station, then walk about five minutes south across Alameda Street to the plaza entrance."
-  - q: "When is it quietest?"
-    a: "Weekdays between 8am and 9am see the fewest visitors. On weekends, the calmest window is 9pm to 10pm; avoid noon to 7pm on weekends, when crowds peak."
-  - q: "Is there an admission fee?"
-    a: "The monument, plaza, and Olvera Street are free to walk around. Small museums like Avila Adobe are free or donation-based, though this can change, so confirm current policy before visiting."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 90 minutes to two hours covering the plaza, Olvera Street, and a couple of the small museums."
+  - q: What are the opening hours?
+    a: >-
+      El Pueblo de Los Ángeles is open daily from 8:00 AM to 10:00 PM, with no
+      day-of-week variation.
+  - q: How do I get there without a car?
+    a: >-
+      Take Metro Red, Purple, or Gold Line to Union Station, then walk about
+      five minutes south across Alameda Street to the plaza entrance.
+  - q: When is it quietest?
+    a: >-
+      Weekdays between 8am and 9am see the fewest visitors. On weekends, the
+      calmest window is 9pm to 10pm; avoid noon to 7pm on weekends, when crowds
+      peak.
+  - q: Is there an admission fee?
+    a: >-
+      The monument, plaza, and Olvera Street are free to walk around. Small
+      museums like Avila Adobe are free or donation-based, though this can
+      change, so confirm current policy before visiting.
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 90 minutes to two hours covering the plaza, Olvera
+      Street, and a couple of the small museums.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

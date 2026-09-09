@@ -1,44 +1,52 @@
 ---
-title: "Cheng Hoon Teng Temple: Malacca Travel Guide (4.5★)"
-description: "Cheng Hoon Teng Temple, on Jalan Tokong in Malacca's old town, is Malaysia's oldest functioning Chinese temple, open daily 7am–6:30pm. 4.5★ (2,804 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Malacca"
-category: "attraction"
-pubDate: "2026-08-19T08:03:45.036Z"
+title: 'Cheng Hoon Teng Temple: Malacca Travel Guide (4.5★)'
+description: >-
+  Cheng Hoon Teng Temple, on Jalan Tokong in Malacca's old town, is Malaysia's
+  oldest functioning Chinese temple, open daily 7am–6:30pm. 4.5★ (2,822 reviews)
+  — what visitors say, hours, and tips.
+country: Malaysia
+region: Malacca
+category: attraction
+pubDate: '2026-08-19T08:03:45.036Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2801%29.jpg/1920px-2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2801%29.jpg"
-  credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2016_Malakka,_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_(01).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2801%29.jpg/1920px-2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2801%29.jpg
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2016_Malakka,_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_(01).jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2809%29.jpg/3840px-2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2809%29.jpg"
-    credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2016_Malakka,_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_(09).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2809%29.jpg/3840px-2016_Malakka%2C_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_%2809%29.jpg
+    credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2016_Malakka,_%C5%9Awi%C4%85tynia_Cheng_Hoon_Teng_(09).jpg
 place:
-  id: "ChIJZ5Kbjtvx0TERkjbMYA169LU"
-  name: "Cheng Hoon Teng Temple"
-  address: "25, Jalan Tokong, Kampung Dua, 75200 Melaka, Malaysia"
+  id: ChIJZ5Kbjtvx0TERkjbMYA169LU
+  name: Cheng Hoon Teng Temple
+  address: '25, Jalan Tokong, Kampung Dua, 75200 Melaka, Malaysia'
   rating: 4.5
-  userRatingsTotal: 2804
-  googleMapsUrl: "https://maps.google.com/?cid=13111238613059516050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2822
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13111238613059516050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.1974982
   lng: 102.2468323
-  phone: "+60 6-282 9343"
+  phone: +60 6-282 9343
   openingHours:
-    - "Monday: 7:00 AM – 6:30 PM"
-    - "Tuesday: 7:00 AM – 6:30 PM"
-    - "Wednesday: 7:00 AM – 6:30 PM"
-    - "Thursday: 7:00 AM – 6:30 PM"
-    - "Friday: 7:00 AM – 6:30 PM"
-    - "Saturday: 7:00 AM – 6:30 PM"
-    - "Sunday: 7:00 AM – 6:30 PM"
+    - 'Monday: 7:00 AM – 6:30 PM'
+    - 'Tuesday: 7:00 AM – 6:30 PM'
+    - 'Wednesday: 7:00 AM – 6:30 PM'
+    - 'Thursday: 7:00 AM – 6:30 PM'
+    - 'Friday: 7:00 AM – 6:30 PM'
+    - 'Saturday: 7:00 AM – 6:30 PM'
+    - 'Sunday: 7:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -55,24 +63,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_554c39363141594d626a6b524554307876746a624b355a4a496843"
+    venueId: ven_554c39363141594d626a6b524554307876746a624b355a4a496843
 tags:
-  - "malacca"
-  - "historic site"
-quickAnswer: "Cheng Hoon Teng Temple, on Jalan Tokong in Malacca's old town, is Malaysia's oldest functioning Chinese temple, open daily 7am–6:30pm. Go on a weekday, or before 8am on weekends, to see its carved beams and incense haze without the crowds. Budget 30–45 minutes, and it's free to enter, with a small donation box near the door."
+  - malacca
+  - historic site
+quickAnswer: >-
+  Cheng Hoon Teng Temple, on Jalan Tokong in Malacca's old town, is Malaysia's
+  oldest functioning Chinese temple, open daily 7am–6:30pm. Go on a weekday, or
+  before 8am on weekends, to see its carved beams and incense haze without the
+  crowds. Budget 30–45 minutes, and it's free to enter, with a small donation
+  box near the door.
 faq:
-  - q: "How much does it cost to enter Cheng Hoon Teng Temple?"
-    a: "Entry is free. There's a small donation box near the entrance if you'd like to leave something."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays are calm all day. On weekends, go right between 7am and 8am — foot traffic builds fast after that and stays heavy until around 5pm."
-  - q: "How do I get to the temple from Jonker Street?"
-    a: "It's about a five-minute walk. Head onto Jalan Tokong, the same street known historically as Harmony Street for its mix of temples and a mosque."
-  - q: "How long should I plan for a visit?"
-    a: "Most visitors spend 30–45 minutes. Add extra time if you want to slow down and study the carved woodwork and roof details."
-  - q: "What else is nearby worth seeing?"
-    a: "Kampung Kling Mosque and Sri Poyatha Vinayagar Moorthi Temple sit on the same street, making it easy to see three faiths' architecture in one short walk."
+  - q: How much does it cost to enter Cheng Hoon Teng Temple?
+    a: >-
+      Entry is free. There's a small donation box near the entrance if you'd
+      like to leave something.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays are calm all day. On weekends, go right between 7am and 8am —
+      foot traffic builds fast after that and stays heavy until around 5pm.
+  - q: How do I get to the temple from Jonker Street?
+    a: >-
+      It's about a five-minute walk. Head onto Jalan Tokong, the same street
+      known historically as Harmony Street for its mix of temples and a mosque.
+  - q: How long should I plan for a visit?
+    a: >-
+      Most visitors spend 30–45 minutes. Add extra time if you want to slow down
+      and study the carved woodwork and roof details.
+  - q: What else is nearby worth seeing?
+    a: >-
+      Kampung Kling Mosque and Sri Poyatha Vinayagar Moorthi Temple sit on the
+      same street, making it easy to see three faiths' architecture in one short
+      walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

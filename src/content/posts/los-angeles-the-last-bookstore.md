@@ -1,41 +1,50 @@
 ---
-title: "The Last Bookstore: Los Angeles Travel Guide (4.7★)"
-description: "The Last Bookstore sits inside a converted 1914 bank building at 453 S Spring St in Downtown LA's Historic Core — come for the spiral book tunnel, the vault-turned-horror-room, and floors of used and new titles. 4.7★ (12,810 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "hidden-gem"
-pubDate: "2026-08-09T08:06:55.473Z"
+title: 'The Last Bookstore: Los Angeles Travel Guide (4.7★)'
+description: >-
+  The Last Bookstore sits inside a converted 1914 bank building at 453 S Spring
+  St in Downtown LA's Historic Core — come for the spiral book tunnel, the
+  vault-turned-horror-room, and floors of used and new titles. 4.7★ (12,885
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: hidden-gem
+pubDate: '2026-08-09T08:06:55.473Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Last_Bookstore_%2819270292680%29.jpg/1920px-The_Last_Bookstore_%2819270292680%29.jpg"
-  credit: "Photo: vagueonthehow from Tadcaster, York, England / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Last_Bookstore_(19270292680).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Last_Bookstore_%2819270292680%29.jpg/1920px-The_Last_Bookstore_%2819270292680%29.jpg
+  credit: >-
+    Photo: vagueonthehow from Tadcaster, York, England / Wikimedia Commons (CC
+    BY 2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Last_Bookstore_(19270292680).jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Graffiti_last_bookstore.jpg/3840px-Graffiti_last_bookstore.jpg"
-    credit: "Photo: Felvalen / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Graffiti_last_bookstore.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Graffiti_last_bookstore.jpg/3840px-Graffiti_last_bookstore.jpg
+    credit: 'Photo: Felvalen / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Graffiti_last_bookstore.jpg'
 place:
-  id: "ChIJ7YJ_IkrGwoARNak4CDihkYU"
-  name: "The Last Bookstore"
-  address: "453 S Spring St Ground Floor, Los Angeles, CA 90013, USA"
+  id: ChIJ7YJ_IkrGwoARNak4CDihkYU
+  name: The Last Bookstore
+  address: '453 S Spring St Ground Floor, Los Angeles, CA 90013, USA'
   rating: 4.7
-  userRatingsTotal: 12810
-  googleMapsUrl: "https://maps.google.com/?cid=9624651140695632181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12885
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9624651140695632181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.0476964
   lng: -118.24989640000001
-  phone: "+1 213-488-0599"
+  phone: +1 213-488-0599
   openingHours:
-    - "Monday: 11:00 AM – 8:00 PM"
-    - "Tuesday: 11:00 AM – 8:00 PM"
-    - "Wednesday: 11:00 AM – 11:00 PM"
-    - "Thursday: 11:00 AM – 11:00 PM"
-    - "Friday: 11:00 AM – 11:00 PM"
-    - "Saturday: 11:00 AM – 11:00 PM"
-    - "Sunday: 11:00 AM – 11:00 PM"
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 19
       - 20
@@ -53,24 +62,40 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_55596b68694443346b614e52416f7747726b495f4a59374a496843"
+    venueId: ven_55596b68694443346b614e52416f7747726b495f4a59374a496843
 tags:
-  - "los angeles"
-  - "bookshop"
-quickAnswer: "The Last Bookstore sits inside a converted 1914 bank building at 453 S Spring St in Downtown LA's Historic Core — come for the spiral book tunnel, the vault-turned-horror-room, and floors of used and new titles. With over 12,000 reviews and a 4.7 rating, it's well-visited, so aim for evenings: it's calmest 7-11pm on weekdays and 8-11pm on weekends."
+  - los angeles
+  - bookshop
+quickAnswer: >-
+  The Last Bookstore sits inside a converted 1914 bank building at 453 S Spring
+  St in Downtown LA's Historic Core — come for the spiral book tunnel, the
+  vault-turned-horror-room, and floors of used and new titles. With over 12,000
+  reviews and a 4.7 rating, it's well-visited, so aim for evenings: it's calmest
+  7-11pm on weekdays and 8-11pm on weekends.
 faq:
-  - q: "How do I get to The Last Bookstore without a car?"
-    a: "Take the Metro B or D Line to Pershing Square Station, then walk about five minutes to 453 S Spring St."
-  - q: "When is it least crowded?"
-    a: "Weekday evenings from 7-11pm and weekend evenings from 8-11pm are the quietest windows. Avoid 11am-6pm on weekends, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 45 minutes to an hour for a quick look at the book tunnel and vault room, or longer if you plan to actually browse and shop."
-  - q: "Is the book tunnel hard to find?"
-    a: "It's on the upper mezzanine level, built as a spiral archway from stacked hardcovers — head upstairs and follow the crowd with cameras out."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Grand Central Market, the Bradbury Building, Pershing Square, and Broadway's historic theater row are all within easy walking distance."
+  - q: How do I get to The Last Bookstore without a car?
+    a: >-
+      Take the Metro B or D Line to Pershing Square Station, then walk about
+      five minutes to 453 S Spring St.
+  - q: When is it least crowded?
+    a: >-
+      Weekday evenings from 7-11pm and weekend evenings from 8-11pm are the
+      quietest windows. Avoid 11am-6pm on weekends, when it's busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 45 minutes to an hour for a quick look at the book tunnel and vault
+      room, or longer if you plan to actually browse and shop.
+  - q: Is the book tunnel hard to find?
+    a: >-
+      It's on the upper mezzanine level, built as a spiral archway from stacked
+      hardcovers — head upstairs and follow the crowd with cameras out.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      Grand Central Market, the Bradbury Building, Pershing Square, and
+      Broadway's historic theater row are all within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

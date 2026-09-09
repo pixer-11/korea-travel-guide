@@ -1,27 +1,36 @@
 ---
 title: 'Basilica of Notre Dame of Fourvière: Lyon Travel Guide'
-description: Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a free-to-enter, richly decorated 19th-century church best visited early morning (before 10am) or at sunset to avoid the tour-bus crush and catch the light over the city and the Alps.
+description: >-
+  Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a
+  free-to-enter, richly decorated 19th-century church best visited early morning
+  (before 10am) or at sunset to avoid the tour-bus crush and catch the light
+  over the city and the Alps.
 country: France
 region: Lyon
 category: attraction
 pubDate: '2026-07-26T07:47:44.244Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg/1920px-France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg/1920px-France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg
   credit: 'Photo: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_(15939822990).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_(15939822990).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg/1920px-Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg/1920px-Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
     credit: 'Photo: Phyrexian / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lyon_-_Notre-Dame_de_Fourvi%C3%A8re_6918.jpg
 place:
   id: ChIJK1Jxdanr9EcRKY5nG3nMG50
   name: Basilica of Notre Dame of Fourvière
-  address: 8 Pl. de Fourvière, 69005 Lyon, France
+  address: '8 Pl. de Fourvière, 69005 Lyon, France'
   rating: 4.8
-  userRatingsTotal: 40335
-  googleMapsUrl: https://maps.google.com/?cid=11320866908848754217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 40942
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11320866908848754217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.7622698
   lng: 4.822638
@@ -37,20 +46,43 @@ place:
 tags:
   - lyon
   - top attraction
-quickAnswer: Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a free-to-enter, richly decorated 19th-century church best visited early morning (before 10am) or at sunset to avoid the tour-bus crush and catch the light over the city and the Alps. Take the funicular ("Ficelle") from Vieux Lyon métro station up to Fourvière stop — it's a two-minute ride and saves you a steep climb. Budget 45–60 minutes for the interior and terrace, more if you add the small archaeological museum or the Roman theatres next door.
+quickAnswer: >-
+  Perched above Lyon's Old Town, the Basilica of Notre-Dame de Fourvière is a
+  free-to-enter, richly decorated 19th-century church best visited early morning
+  (before 10am) or at sunset to avoid the tour-bus crush and catch the light
+  over the city and the Alps. Take the funicular ("Ficelle") from Vieux Lyon
+  métro station up to Fourvière stop — it's a two-minute ride and saves you a
+  steep climb. Budget 45–60 minutes for the interior and terrace, more if you
+  add the small archaeological museum or the Roman theatres next door.
 faq:
   - q: How do I get to the Basilica of Fourvière from central Lyon?
-    a: Take the métro to Vieux Lyon (Line D), then ride the funicular ('la Ficelle') up to the Fourvière stop, about a two-minute climb. A standard TCL transit ticket covers the funicular.
+    a: >-
+      Take the métro to Vieux Lyon (Line D), then ride the funicular ('la
+      Ficelle') up to the Fourvière stop, about a two-minute climb. A standard
+      TCL transit ticket covers the funicular.
   - q: Is it free to enter the basilica?
-    a: Yes, entry to the basilica's nave and crypt is free. The attached Musée d'Art Sacré may charge a small admission — check current pricing before you go, as it can change.
+    a: >-
+      Yes, entry to the basilica's nave and crypt is free. The attached Musée
+      d'Art Sacré may charge a small admission — check current pricing before
+      you go, as it can change.
   - q: When is the best time to visit to avoid crowds?
-    a: Go right at opening in the morning or in the hour before sunset. Midday and early afternoon draw the heaviest tour-bus traffic, especially in summer.
+    a: >-
+      Go right at opening in the morning or in the hour before sunset. Midday
+      and early afternoon draw the heaviest tour-bus traffic, especially in
+      summer.
   - q: How long should I plan to spend there?
-    a: Budget 45–60 minutes for the basilica and terrace view alone. Add another 1–2 hours if you want to include the art museum and the nearby Roman theatres.
+    a: >-
+      Budget 45–60 minutes for the basilica and terrace view alone. Add another
+      1–2 hours if you want to include the art museum and the nearby Roman
+      theatres.
   - q: What else is nearby worth seeing?
-    a: The Théâtres Romains de Fourvière (Roman amphitheater ruins) are a short walk downhill, and Vieux Lyon's Renaissance streets are easily reached back down via the funicular or the stairways.
+    a: >-
+      The Théâtres Romains de Fourvière (Roman amphitheater ruins) are a short
+      walk downhill, and Vieux Lyon's Renaissance streets are easily reached
+      back down via the funicular or the stairways.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

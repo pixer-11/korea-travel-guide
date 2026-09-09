@@ -1,25 +1,30 @@
 ---
 title: 'Los Angeles County Museum of Art: Travel Guide (4.6★)'
-description: LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out. 4.6★ (21,013 reviews) — what visitors say, hours, and tips.
+description: >-
+  LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad
+  Contemporary Art Museum and the iconic Urban Light lamppost installation out.
+  4.6★ (21,123 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Los Angeles
 category: attraction
 pubDate: '2026-08-09T08:12:12.008Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/7384126_kR-qYBRR2PDtHiZFhDEeN4KrDsMczBrQ8H5yMh_ko7U.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/7384126_kR-qYBRR2PDtHiZFhDEeN4KrDsMczBrQ8H5yMh_ko7U.jpg
   credit: 'Photo: Foursquare user content (Los Angeles County Museum of Art)'
   license: foursquare
-  source: https://foursquare.com/v/40a6af00f964a52027f31ee3
+  source: 'https://foursquare.com/v/40a6af00f964a52027f31ee3'
   focus:
     x: 50
-    y: 35
+    'y': 35
 place:
   id: ChIJsXqcyjy5woARNz6sOh0ZmwA
   name: Los Angeles County Museum of Art
-  address: 5905 Wilshire Blvd, Los Angeles, CA 90036, USA
+  address: '5905 Wilshire Blvd, Los Angeles, CA 90036, USA'
   rating: 4.6
-  userRatingsTotal: 21013
-  googleMapsUrl: https://maps.google.com/?cid=43656234719264311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 21123
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=43656234719264311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.0639323
   lng: -118.3592293
@@ -48,19 +53,37 @@ place:
 tags:
   - los angeles
   - art gallery
-quickAnswer: LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out front. It's open daily except Wednesday, with the calmest weekday hours between 6pm and 7pm — weekends stay busy from noon straight through closing, so aim for a morning visit instead. Give yourself at least three hours to cover even a fraction of the permanent collection.
+quickAnswer: >-
+  LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad
+  Contemporary Art Museum and the iconic Urban Light lamppost installation out
+  front. It's open daily except Wednesday, with the calmest weekday hours
+  between 6pm and 7pm — weekends stay busy from noon straight through closing,
+  so aim for a morning visit instead. Give yourself at least three hours to
+  cover even a fraction of the permanent collection.
 faq:
   - q: How much time should I budget for a visit?
-    a: Plan for at least three hours if you want to see more than one or two wings — the campus spans several separate buildings across 20 acres.
+    a: >-
+      Plan for at least three hours if you want to see more than one or two
+      wings — the campus spans several separate buildings across 20 acres.
   - q: What's the quietest time to visit?
-    a: Weekday evenings between 6pm and 7pm are the calmest window, right before closing on Monday, Tuesday, and Thursday.
+    a: >-
+      Weekday evenings between 6pm and 7pm are the calmest window, right before
+      closing on Monday, Tuesday, and Thursday.
   - q: Is LACMA closed on any day?
-    a: Yes, it's closed all day Wednesday. Friday hours run latest, until 8pm, while weekends open earlier at 10am.
+    a: >-
+      Yes, it's closed all day Wednesday. Friday hours run latest, until 8pm,
+      while weekends open earlier at 10am.
   - q: How do I get there without driving?
-    a: Take the D Line (Purple Metro) to Wilshire/Fairfax station, or the Metro 20 or 720 bus, both of which stop right on Wilshire Blvd outside the museum.
+    a: >-
+      Take the D Line (Purple Metro) to Wilshire/Fairfax station, or the Metro
+      20 or 720 bus, both of which stop right on Wilshire Blvd outside the
+      museum.
   - q: Do I need a ticket to see Urban Light?
-    a: No — the lamppost installation sits outside the paid galleries, right along Wilshire Boulevard, and is visible and free to walk through anytime.
+    a: >-
+      No — the lamppost installation sits outside the paid galleries, right
+      along Wilshire Boulevard, and is visible and free to walk through anytime.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 You see it before you park: rows of restored cast-iron lampposts glowing amber even at midday, planted in neat grids on a gravel lot. This is Chris Burden's *Urban Light*, and it's the reason half the Instagram photos of Los Angeles exist. It's also free to walk through, visible right from the Wilshire Boulevard sidewalk, no ticket required.

@@ -1,40 +1,45 @@
 ---
-title: "Melaka Botanical Garden: Malacca Travel Guide (4.4★)"
-description: "Melaka Botanical Garden in Ayer Keroh is a sprawling green space for jogging, cycling, picnicking and spotting long-tailed macaques, open 24 hours daily. 4.4★ (2,535 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Malacca"
-category: "attraction"
-pubDate: "2026-08-19T08:22:13.576Z"
+title: 'Melaka Botanical Garden: Malacca Travel Guide (4.4★)'
+description: >-
+  Melaka Botanical Garden in Ayer Keroh is a sprawling green space for jogging,
+  cycling, picnicking and spotting long-tailed macaques, open 24 hours daily.
+  4.4★ (2,547 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Malacca
+category: attraction
+pubDate: '2026-08-19T08:22:13.576Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Melaka_Botanical_Garden.jpg/1920px-Melaka_Botanical_Garden.jpg"
-  credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Melaka_Botanical_Garden.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Melaka_Botanical_Garden.jpg/1920px-Melaka_Botanical_Garden.jpg
+  credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Melaka_Botanical_Garden.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJy73sK6jl0TERL-4fJ_ZuTzs"
-  name: "Melaka Botanical Garden"
-  address: "Jalan Tun Abdul Razak, 75450 Ayer Keroh, Melaka, Malaysia"
+  id: ChIJy73sK6jl0TERL-4fJ_ZuTzs
+  name: Melaka Botanical Garden
+  address: 'Jalan Tun Abdul Razak, 75450 Ayer Keroh, Melaka, Malaysia'
   rating: 4.4
-  userRatingsTotal: 2535
-  googleMapsUrl: "https://maps.google.com/?cid=4273756574895304239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2547
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4273756574895304239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.281431
   lng: 102.29845999999999
-  phone: "+60 6-231 4343"
+  phone: +60 6-231 4343
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 21
       - 22
@@ -56,24 +61,40 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_737a54755a5f4a66342d4c524554306c6a364b733337794a496843"
+    venueId: ven_737a54755a5f4a66342d4c524554306c6a364b733337794a496843
 tags:
-  - "malacca"
-  - "park"
-quickAnswer: "Melaka Botanical Garden in Ayer Keroh is a sprawling green space for jogging, cycling, picnicking and spotting long-tailed macaques, open 24 hours daily. Go early morning for cooler air and birdsong, or after 9pm on any day if you want the paths nearly empty. Weekends from 7am to 7pm draw the biggest crowds, so plan around that window if you prefer quiet."
+  - malacca
+  - park
+quickAnswer: >-
+  Melaka Botanical Garden in Ayer Keroh is a sprawling green space for jogging,
+  cycling, picnicking and spotting long-tailed macaques, open 24 hours daily. Go
+  early morning for cooler air and birdsong, or after 9pm on any day if you want
+  the paths nearly empty. Weekends from 7am to 7pm draw the biggest crowds, so
+  plan around that window if you prefer quiet.
 faq:
-  - q: "How do I get to Melaka Botanical Garden without a car?"
-    a: "There's no direct train or bus line, so a Grab ride-hail or taxi from central Malacca (about 15–20 minutes) is the easiest option."
-  - q: "What time is best to avoid crowds?"
-    a: "The park is quietest between 9pm and 11pm on both weekdays and weekends. Weekend afternoons from 7am to 7pm are the busiest stretch."
-  - q: "Is it safe to be around the monkeys?"
-    a: "Long-tailed macaques are common near picnic areas and trees. Keep food sealed away and never hand-feed them; observe from a distance instead."
-  - q: "How long should I plan to spend here?"
-    a: "Two to three hours covers a relaxed walk, a picnic, and some wildlife spotting; longer if you're jogging or cycling the full loop."
-  - q: "Is the park open at night?"
-    a: "Yes, it's open 24 hours every day, though lighting is limited in parts after dark, so daytime visits are more comfortable for first-timers."
+  - q: How do I get to Melaka Botanical Garden without a car?
+    a: >-
+      There's no direct train or bus line, so a Grab ride-hail or taxi from
+      central Malacca (about 15–20 minutes) is the easiest option.
+  - q: What time is best to avoid crowds?
+    a: >-
+      The park is quietest between 9pm and 11pm on both weekdays and weekends.
+      Weekend afternoons from 7am to 7pm are the busiest stretch.
+  - q: Is it safe to be around the monkeys?
+    a: >-
+      Long-tailed macaques are common near picnic areas and trees. Keep food
+      sealed away and never hand-feed them; observe from a distance instead.
+  - q: How long should I plan to spend here?
+    a: >-
+      Two to three hours covers a relaxed walk, a picnic, and some wildlife
+      spotting; longer if you're jogging or cycling the full loop.
+  - q: Is the park open at night?
+    a: >-
+      Yes, it's open 24 hours every day, though lighting is limited in parts
+      after dark, so daytime visits are more comfortable for first-timers.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 The first thing you notice past the entrance is the canopy. Rain trees and tropical hardwoods arch over the main road through the park, dropping the temperature a few degrees and scattering light across the tarmac in moving patches.

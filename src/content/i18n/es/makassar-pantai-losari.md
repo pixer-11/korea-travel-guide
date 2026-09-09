@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: makassar-pantai-losari
-srcHash: '4b0eac754d41'
+srcHash: '85acc31eeec2'
 title: 'Pantai Losari: Guía de Viaje de Makassar (4,6★)'
-description: 'Pantai Losari es el paseo marítimo de Makassar frente al estrecho de Makassar, abierto las 24 horas, que se disfruta mejor justo antes y durante la puesta de sol. 4,6★ (4.915 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Pantai Losari es el paseo marítimo de Makassar frente al estrecho de Makassar, abierto las 24 horas, que se disfruta mejor justo antes y durante la puesta de sol. 4,6★ (4.924 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Pantai Losari es el paseo marítimo de Makassar frente al estrecho de Makassar, abierto las 24 horas, que se disfruta mejor justo antes y durante la puesta de sol. Los fines de semana entre las 17:00 y las 23:00 es cuando hay más gente, así que si prefieres más tranquilidad, ve un día entre semana por la tarde o llega a media tarde antes de que se llene. Vale la pena venir por el cielo sobre el estrecho, los puestos de comida callejera y el paseo relajado al atardecer, no para nadar en la playa.
 faq:
   - q: ¿Pantai Losari es una playa para nadar?

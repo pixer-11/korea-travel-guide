@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lombok-pura-lingsar
-srcHash: '85dc9ba8dfa3'
+srcHash: '83601cf8d1fb'
 title: 'Pura Lingsar: Guía de viaje de Lombok (4,3★)'
-description: 'Pura Lingsar, en la aldea de Batu Kumbung, distrito de Lingsar, Lombok Barat, es el templo compartido más antiguo e importante de Lombok, construido en 1741 como lugar de culto tanto para hindúes balineses como para musulmanes sasak wetu telu. 4,3★ (495 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Pura Lingsar, en la aldea de Batu Kumbung, distrito de Lingsar, Lombok Barat, es el templo compartido más antiguo e importante de Lombok, construido en 1741 como lugar de culto tanto para hindúes balineses como para musulmanes sasak wetu telu. 4,3★ (496 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Pura Lingsar, en la aldea de Batu Kumbung, distrito de Lingsar, Lombok Barat, es el templo compartido más antiguo e importante de Lombok, construido en 1741 como lugar de culto tanto para hindúes balineses como para musulmanes sasak wetu telu. Se encuentra a unos 20-30 minutos en coche al noreste de Mataram, y la mayoría de los días permanece lo bastante tranquilo como para recorrer sus dos patios sin aglomeraciones. Lo ideal es ir a media mañana entre semana para disfrutar de la visita más serena, o bien organizar el viaje en torno al festival Pujawali si se prefiere verlo lleno de vida.
 faq:
   - q: ¿Cómo se llega a Pura Lingsar desde Mataram o Senggigi?

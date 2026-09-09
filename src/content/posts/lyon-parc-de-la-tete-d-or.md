@@ -1,23 +1,29 @@
 ---
 title: 'Parc de la Tête d''Or: Lyon Travel Guide'
-description: Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake, botanical garden, rose garden and free zoo.
+description: >-
+  Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th
+  arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake,
+  botanical garden, rose garden and free zoo.
 country: France
 region: Lyon
 category: hidden-gem
 pubDate: '2026-07-31T10:12:49.080Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg/1920px-Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg/1920px-Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg
   credit: 'Photo: Phinou / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg
 gallery: []
 place:
   id: ChIJRSpfGOvq9EcRPFTYvmRr9Q4
   name: Parc de la Tête d'Or
-  address: Boulevard des Belges, 69006 Lyon, France
+  address: 'Boulevard des Belges, 69006 Lyon, France'
   rating: 4.6
-  userRatingsTotal: 60675
-  googleMapsUrl: https://maps.google.com/?cid=1077885766267851836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 60941
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1077885766267851836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.775597499999996
   lng: 4.8504688
@@ -55,20 +61,41 @@ place:
 tags:
   - lyon
   - hidden gem
-quickAnswer: Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake, botanical garden, rose garden and free zoo. It's genuinely popular with over 60,000 reviews, so aim for a morning visit — weekends stay calm from 7am but fill up hard between 1pm and 8pm. Budget two to three hours to loop the lake, wander the rose garden, and see the animals.
+quickAnswer: >-
+  Parc de la Tête d'Or is Lyon's 117-hectare green lung in the 6th
+  arrondissement, free to enter daily from 6:30am to 10:30pm, with a lake,
+  botanical garden, rose garden and free zoo. It's genuinely popular with over
+  60,000 reviews, so aim for a morning visit — weekends stay calm from 7am but
+  fill up hard between 1pm and 8pm. Budget two to three hours to loop the lake,
+  wander the rose garden, and see the animals.
 faq:
   - q: Is Parc de la Tête d'Or free to visit?
-    a: Yes, entry to the park and its zoo is free. The rowboat rentals and mini-golf inside charge a small fee, but there's no admission ticket for the park itself.
+    a: >-
+      Yes, entry to the park and its zoo is free. The rowboat rentals and
+      mini-golf inside charge a small fee, but there's no admission ticket for
+      the park itself.
   - q: What's the best time to avoid crowds?
-    a: Arrive between 7am and 10am any day of the week. Weekend afternoons from 1pm to 8pm are the busiest window, especially around the lake and zoo, so avoid that stretch if you want space to yourself.
+    a: >-
+      Arrive between 7am and 10am any day of the week. Weekend afternoons from
+      1pm to 8pm are the busiest window, especially around the lake and zoo, so
+      avoid that stretch if you want space to yourself.
   - q: How do I get to the park by public transport?
-    a: Take tram T1 or T4 to the Parc Tête d'Or stop, which lets out right by one of the main gates. Metro Line A to Masséna station is about a 10-minute walk from the southern entrance.
+    a: >-
+      Take tram T1 or T4 to the Parc Tête d'Or stop, which lets out right by one
+      of the main gates. Metro Line A to Masséna station is about a 10-minute
+      walk from the southern entrance.
   - q: How long should I plan to spend there?
-    a: Two to three hours covers a relaxed loop of the lake, rose garden, and zoo. Walking the park end to end without stopping takes about 25 minutes, so budget extra time for the gardens and animals.
+    a: >-
+      Two to three hours covers a relaxed loop of the lake, rose garden, and
+      zoo. Walking the park end to end without stopping takes about 25 minutes,
+      so budget extra time for the gardens and animals.
   - q: What time does the park open and close?
-    a: It's open every day from 6:30am to 10:30pm, with no variation by day of the week — reliable for an early walk or an evening stroll after dinner.
+    a: >-
+      It's open every day from 6:30am to 10:30pm, with no variation by day of
+      the week — reliable for an early walk or an evening stroll after dinner.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 ## Why go
 

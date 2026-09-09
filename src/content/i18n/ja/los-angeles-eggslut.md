@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: los-angeles-eggslut
-srcHash: '4959676966cd'
+srcHash: 'd12d9243c9cf'
 title: Eggslut(エッグスラット):ロサンゼルスで食べるべき店(4.4★)
-description: Eggslutは、ダウンタウンLAの317 S Broadwayにあるグランド・セントラル・マーケット(Grand Central Market)内のエッグサンドイッチ専門店で、営業は毎日8am–2pmのみ——終日営業ではなく、朝食・ブランチ向けの店です。4.4★(レビュー4,728件)——訪問者の声、営業時間、訪問のコツをご紹介します。
+description: Eggslutは、ダウンタウンLAの317 S Broadwayにあるグランド・セントラル・マーケット(Grand Central Market)内のエッグサンドイッチ専門店で、営業は毎日8am–2pmのみ——終日営業ではなく、朝食・ブランチ向けの店です。4.4★(レビュー4,748件)——訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: Eggslutは、ダウンタウンLAの317 S Broadwayにあるグランド・セントラル・マーケット(Grand Central Market)内のエッグサンドイッチ専門店で、営業は毎日8am–2pmのみ——終日営業ではなく、朝食・ブランチ向けの店です。狙い目は開店直後の8amで(平日は8–10am、週末は8–9amが最も空いている時間帯)、行列が隣の店舗まで伸びる週末10am–2pmの混雑は避けましょう。看板メニューのSlutまたはFairfaxサンドイッチを注文し、マーケット内のスツールを確保し、行列も含めて合計20~40分ほど見ておくと安心です。
 faq:
   - q: Eggslutの営業時間は?

@@ -1,36 +1,41 @@
 ---
-title: "Lyon Botanical Garden: Travel Guide (4.7★)"
-description: "The Lyon Botanical Garden sits inside Parc de la Tête d'Or in the 6th arrondissement, free to enter, open 9am–6pm daily (9am–5pm Sunday). 4.7★ (4,823 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "attraction"
-pubDate: "2026-08-10T08:56:07.317Z"
+title: 'Lyon Botanical Garden: Travel Guide (4.7★)'
+description: >-
+  The Lyon Botanical Garden sits inside Parc de la Tête d'Or in the 6th
+  arrondissement, free to enter, open 9am–6pm daily (9am–5pm Sunday). 4.7★
+  (4,838 reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: attraction
+pubDate: '2026-08-10T08:56:07.317Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG"
-  credit: "Photo: Simlaurent / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jardin_alpin_lyon.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG
+  credit: 'Photo: Simlaurent / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jardin_alpin_lyon.JPG'
 gallery: []
 place:
-  id: "ChIJE8bzhJLq9EcR0JkOjOnW-VU"
-  name: "Lyon Botanical Garden"
-  address: "69006 Lyon, France"
+  id: ChIJE8bzhJLq9EcR0JkOjOnW-VU
+  name: Lyon Botanical Garden
+  address: '69006 Lyon, France'
   rating: 4.7
-  userRatingsTotal: 4823
-  googleMapsUrl: "https://maps.google.com/?cid=6195219060990319056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4838
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6195219060990319056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.77419750000001
   lng: 4.8563013999999995
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -43,24 +48,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_55562d576e4f6a4f6b4a3052634539714c4a687a6238454a496843"
+    venueId: ven_55562d576e4f6a4f6b4a3052634539714c4a687a6238454a496843
 tags:
-  - "lyon"
-  - "park"
-quickAnswer: "The Lyon Botanical Garden sits inside Parc de la Tête d'Or in the 6th arrondissement, free to enter, open 9am–6pm daily (9am–5pm Sunday). Go on a weekday between 9am and 10am for near-empty greenhouses; weekends stay busy from 1pm onward. Give yourself 90 minutes to two hours to cover the glasshouses and outdoor beds properly."
+  - lyon
+  - park
+quickAnswer: >-
+  The Lyon Botanical Garden sits inside Parc de la Tête d'Or in the 6th
+  arrondissement, free to enter, open 9am–6pm daily (9am–5pm Sunday). Go on a
+  weekday between 9am and 10am for near-empty greenhouses; weekends stay busy
+  from 1pm onward. Give yourself 90 minutes to two hours to cover the
+  glasshouses and outdoor beds properly.
 faq:
-  - q: "Is the Lyon Botanical Garden free to enter?"
-    a: "Yes, both the botanical garden and the surrounding Parc de la Tête d'Or are free of charge, with no ticket needed."
-  - q: "What are the opening hours?"
-    a: "9am–6pm Monday through Saturday, and 9am–5pm on Sunday. Note the shorter Sunday hours when planning your visit."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 9am and 10am are consistently the calmest, with the greenhouses nearly empty. Avoid weekend afternoons from 1pm to 6pm, when the park fills up."
-  - q: "How long should I plan for a visit?"
-    a: "Budget 90 minutes to two hours to see the greenhouses and outdoor beds without rushing, more if you're combining it with a walk around the wider park."
-  - q: "How do I get there by public transport?"
-    a: "Take Tram T1 to a stop near the park's main gates, or one of the bus lines running along Boulevard des Belges on the park's western edge. It's about 15–20 minutes from central Lyon."
+  - q: Is the Lyon Botanical Garden free to enter?
+    a: >-
+      Yes, both the botanical garden and the surrounding Parc de la Tête d'Or
+      are free of charge, with no ticket needed.
+  - q: What are the opening hours?
+    a: >-
+      9am–6pm Monday through Saturday, and 9am–5pm on Sunday. Note the shorter
+      Sunday hours when planning your visit.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 9am and 10am are consistently the calmest, with
+      the greenhouses nearly empty. Avoid weekend afternoons from 1pm to 6pm,
+      when the park fills up.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget 90 minutes to two hours to see the greenhouses and outdoor beds
+      without rushing, more if you're combining it with a walk around the wider
+      park.
+  - q: How do I get there by public transport?
+    a: >-
+      Take Tram T1 to a stop near the park's main gates, or one of the bus lines
+      running along Boulevard des Belges on the park's western edge. It's about
+      15–20 minutes from central Lyon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

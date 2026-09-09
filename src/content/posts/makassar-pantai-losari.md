@@ -1,27 +1,37 @@
 ---
 title: 'Pantai Losari: Makassar Travel Guide (4.6★)'
-description: Pantai Losari is Makassar's waterfront promenade on the Makassar Strait, open around the clock, and best experienced right before and during sunset. 4.6★ (4,915 reviews) — what visitors say, hours, and tips.
+description: >-
+  Pantai Losari is Makassar's waterfront promenade on the Makassar Strait, open
+  around the clock, and best experienced right before and during sunset. 4.6★
+  (4,924 reviews) — what visitors say, hours, and tips.
 country: Indonesia
 region: Makassar
 category: attraction
 pubDate: '2026-08-12T09:38:37.252Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pantai_Losari_Makassar_-_panoramio.jpg/1920px-Pantai_Losari_Makassar_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pantai_Losari_Makassar_-_panoramio.jpg/1920px-Pantai_Losari_Makassar_-_panoramio.jpg
   credit: 'Photo: ahmad yudi / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Pantai_Losari_Makassar_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pantai_Losari_Makassar_-_panoramio.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Losari_Beach%2C_Makassar%2C_Indonesia.jpg/1920px-Losari_Beach%2C_Makassar%2C_Indonesia.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Losari_Beach%2C_Makassar%2C_Indonesia.jpg/1920px-Losari_Beach%2C_Makassar%2C_Indonesia.jpg
     credit: 'Photo: Michellewinardi / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Losari_Beach,_Makassar,_Indonesia.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Losari_Beach,_Makassar,_Indonesia.jpg
 place:
   id: ChIJTWtCS60Cvy0RB9LEfNoFeno
   name: Pantai Losari
-  address: Jl. Somba OPU No.57, Maloku, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90111, Indonesia
+  address: >-
+    Jl. Somba OPU No.57, Maloku, Kec. Ujung Pandang, Kota Makassar, Sulawesi
+    Selatan 90111, Indonesia
   rating: 4.6
-  userRatingsTotal: 4915
-  googleMapsUrl: https://maps.google.com/?cid=8825372855740191239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4924
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8825372855740191239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -5.1429693
   lng: 119.40747409999999
@@ -51,20 +61,41 @@ place:
 tags:
   - makassar
   - top attraction
-quickAnswer: Pantai Losari is Makassar's waterfront promenade on the Makassar Strait, open around the clock, and best experienced right before and during sunset. It's busiest on weekends between 5pm and 11pm, so if you want breathing room, go on a weekday afternoon or arrive by mid-afternoon before the crowds build. Come for the sky over the strait, the street-food stalls, and the slow evening stroll rather than for beach swimming.
+quickAnswer: >-
+  Pantai Losari is Makassar's waterfront promenade on the Makassar Strait, open
+  around the clock, and best experienced right before and during sunset. It's
+  busiest on weekends between 5pm and 11pm, so if you want breathing room, go on
+  a weekday afternoon or arrive by mid-afternoon before the crowds build. Come
+  for the sky over the strait, the street-food stalls, and the slow evening
+  stroll rather than for beach swimming.
 faq:
   - q: Is Pantai Losari a swimming beach?
-    a: No — it's a seafront promenade along the Makassar Strait, not a sand beach for swimming. Go for the sunset views, the mosque, and the street food rather than for a swim.
+    a: >-
+      No — it's a seafront promenade along the Makassar Strait, not a sand beach
+      for swimming. Go for the sunset views, the mosque, and the street food
+      rather than for a swim.
   - q: When is the best time to visit Pantai Losari?
-    a: Late afternoon into evening, timed for sunset, is when it's at its best. It's open 24 hours daily, but there's little reason to visit in the middle of the night.
+    a: >-
+      Late afternoon into evening, timed for sunset, is when it's at its best.
+      It's open 24 hours daily, but there's little reason to visit in the middle
+      of the night.
   - q: How do I get to Pantai Losari from the airport?
-    a: It's about a 30-45 minute drive from Sultan Hasanuddin International Airport by taxi or ride-hailing app (Grab/Gojek); there's no direct train or metro link.
+    a: >-
+      It's about a 30-45 minute drive from Sultan Hasanuddin International
+      Airport by taxi or ride-hailing app (Grab/Gojek); there's no direct train
+      or metro link.
   - q: When should I avoid to skip the crowds?
-    a: Weekends from 5pm to 11pm are the busiest window, as local families and groups gather after dark. A weekday visit or an earlier weekend arrival is calmer.
+    a: >-
+      Weekends from 5pm to 11pm are the busiest window, as local families and
+      groups gather after dark. A weekday visit or an earlier weekend arrival is
+      calmer.
   - q: What's nearby worth combining with a visit?
-    a: Fort Rotterdam and Makassar's old Dutch colonial quarter are a short walk or quick becak ride away, and pair well with a Losari sunset stop.
+    a: >-
+      Fort Rotterdam and Makassar's old Dutch colonial quarter are a short walk
+      or quick becak ride away, and pair well with a Losari sunset stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 ## Why go
 

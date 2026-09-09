@@ -1,38 +1,45 @@
 ---
-title: "Les Grands Buffets Lyonnais: Where to Eat in Lyon (4.3★)"
-description: "Les Grands Buffets Lyonnais, on Rue du Bœuf in Vieux Lyon, is a sprawling all-you-can-eat spread of Lyonnais classics — charcuterie, quenelles, cheese, roasts and desserts — at a set price. 4.3★ (4,930 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "restaurant"
-pubDate: "2026-08-09T08:34:23.976Z"
+title: 'Les Grands Buffets Lyonnais: Where to Eat in Lyon (4.3★)'
+description: >-
+  Les Grands Buffets Lyonnais, on Rue du Bœuf in Vieux Lyon, is a sprawling
+  all-you-can-eat spread of Lyonnais classics — charcuterie, quenelles, cheese,
+  roasts and desserts — at a set price. 4.3★ (5,098 reviews) — what visitors
+  say, hours, and tips.
+country: France
+region: Lyon
+category: restaurant
+pubDate: '2026-08-09T08:34:23.976Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg"
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg
 gallery: []
 place:
-  id: "ChIJxfAQbgDr9EcR5A2Fi7qke-0"
-  name: "Les Grands Buffets Lyonnais"
-  address: "22 Rue du Bœuf, 69005 Lyon, France"
+  id: ChIJxfAQbgDr9EcR5A2Fi7qke-0
+  name: Les Grands Buffets Lyonnais
+  address: '22 Rue du Bœuf, 69005 Lyon, France'
   rating: 4.3
-  userRatingsTotal: 4930
+  userRatingsTotal: 5098
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=17112452330235956708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17112452330235956708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.762688499999996
   lng: 4.8268618
-  phone: "+33 6 65 46 88 49"
+  phone: +33 6 65 46 88 49
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM"
-    - "Thursday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM"
-    - "Friday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM"
-    - "Saturday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM"
-    - "Sunday: 12:00 – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM'
+    - 'Thursday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM'
+    - 'Friday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM'
+    - 'Saturday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM'
+    - 'Sunday: 12:00 – 4:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekendBusy:
       - 12
       - 13
@@ -40,24 +47,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_302d656b713769463241355263453972446762514166784a496843"
+    venueId: ven_302d656b713769463241355263453972446762514166784a496843
 tags:
-  - "lyon"
-  - "grill"
-quickAnswer: "Les Grands Buffets Lyonnais, on Rue du Bœuf in Vieux Lyon, is a sprawling all-you-can-eat spread of Lyonnais classics — charcuterie, quenelles, cheese, roasts and desserts — at a set price. It's closed Monday and Tuesday, and open for lunch and dinner Wednesday to Saturday, lunch-only on Sunday. Weekends run busy from noon straight through to 10pm, so arrive right at opening for the calmest seating."
+  - lyon
+  - grill
+quickAnswer: >-
+  Les Grands Buffets Lyonnais, on Rue du Bœuf in Vieux Lyon, is a sprawling
+  all-you-can-eat spread of Lyonnais classics — charcuterie, quenelles, cheese,
+  roasts and desserts — at a set price. It's closed Monday and Tuesday, and open
+  for lunch and dinner Wednesday to Saturday, lunch-only on Sunday. Weekends run
+  busy from noon straight through to 10pm, so arrive right at opening for the
+  calmest seating.
 faq:
-  - q: "Do I need a reservation?"
-    a: "It's strongly recommended, especially for weekend lunch or dinner. The restaurant is well-known and fills up, particularly Friday through Sunday."
-  - q: "What are the opening hours?"
-    a: "Wednesday to Saturday: noon–4pm and 7pm–midnight. Sunday: noon–4pm only. Closed Monday and Tuesday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday lunch, or right at the noon/7pm opening, gives you the best shot at avoiding a wait — weekends run busy from noon to 10pm."
-  - q: "How much does it cost?"
-    a: "It sits in the mid-to-upper price range for Lyon dining (price level 3 of 4), a fixed buffet rate rather than à la carte — confirm current pricing when booking."
-  - q: "How do I get there without a car?"
-    a: "Take metro Line D to Vieux Lyon–Cathédrale Saint-Jean station, then walk a few minutes through the old town streets to Rue du Bœuf."
+  - q: Do I need a reservation?
+    a: >-
+      It's strongly recommended, especially for weekend lunch or dinner. The
+      restaurant is well-known and fills up, particularly Friday through Sunday.
+  - q: What are the opening hours?
+    a: >-
+      Wednesday to Saturday: noon–4pm and 7pm–midnight. Sunday: noon–4pm only.
+      Closed Monday and Tuesday.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday lunch, or right at the noon/7pm opening, gives you the best shot
+      at avoiding a wait — weekends run busy from noon to 10pm.
+  - q: How much does it cost?
+    a: >-
+      It sits in the mid-to-upper price range for Lyon dining (price level 3 of
+      4), a fixed buffet rate rather than à la carte — confirm current pricing
+      when booking.
+  - q: How do I get there without a car?
+    a: >-
+      Take metro Line D to Vieux Lyon–Cathédrale Saint-Jean station, then walk a
+      few minutes through the old town streets to Rue du Bœuf.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: los-angeles-grand-central-market
-srcHash: 'b21d415a438c'
+srcHash: '7be6a1c3f751'
 title: 中央市场（Grand Central Market）：洛杉矶旅行指南（4.5★）
-description: 中央市场（Grand Central Market）是位于洛杉矶市中心百老汇大街（Broadway）上的一座1917年美食广场，汇聚了从墨西哥卷饼、拉面到新鲜生蚝的数十家摊位。4.5★（36,796条评价）——游客怎么说、营业时间与实用建议。
+description: 中央市场（Grand Central Market）是位于洛杉矶市中心百老汇大街（Broadway）上的一座1917年美食广场，汇聚了从墨西哥卷饼、拉面到新鲜生蚝的数十家摊位。4.5★（37,031条评价）——游客怎么说、营业时间与实用建议。
 quickAnswer: 中央市场（Grand Central Market）是位于洛杉矶市中心百老汇大街（Broadway）上的一座1917年美食广场，汇聚了从墨西哥卷饼、拉面到新鲜生蚝的数十家摊位。它每天早上8点开到晚上9点，虽然周末上午11点到晚上7点这段时间人满为患，但如果你选在清晨或傍晚前来，还是能找到位子坐下慢慢吃。虽然名字里带着"中央"，但如今这里早已是热门打卡地，而非什么隐藏小众之地——所以挑对时间比找到这个地方本身更重要。
 faq:
   - q: 营业时间是怎样的？

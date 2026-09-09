@@ -1,27 +1,34 @@
 ---
 title: 'Griffith Observatory: Los Angeles Travel Guide'
-description: Griffith Observatory, perched on the southern slope of Mount Hollywood in Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the evening (closed Mondays and Tuesdays); the planetarium show and parking are the only things you pay for.
+description: >-
+  Griffith Observatory, perched on the southern slope of Mount Hollywood in
+  Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the
+  evening (closed Mondays and Tuesdays); the planetarium show and parking are
+  the only things you pay for.
 country: United States
 region: Los Angeles
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg
   credit: 'Photo: Matthew Field / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Angeles_Pollution.jpg/1920px-Los_Angeles_Pollution.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Angeles_Pollution.jpg/1920px-Los_Angeles_Pollution.jpg
     credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Los_Angeles_Pollution.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Los_Angeles_Pollution.jpg'
 place:
   id: ChIJywjU6WG_woAR3NrWwrEH_3M
   name: Griffith Observatory
-  address: 2800 E Observatory Rd, Los Angeles, CA 90027, USA
+  address: '2800 E Observatory Rd, Los Angeles, CA 90027, USA'
   rating: 4.7
-  userRatingsTotal: 18585
-  googleMapsUrl: https://maps.google.com/?cid=8358407893482396380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 19706
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8358407893482396380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.1184341
   lng: -118.30039350000001
@@ -62,19 +69,40 @@ place:
 tags:
   - los angeles
   - Griffith Observatory
-quickAnswer: Griffith Observatory, perched on the southern slope of Mount Hollywood in Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the evening (closed Mondays and Tuesdays); the planetarium show and parking are the only things you pay for. Go near sunset for the best combination of skyline views, the Hollywood Sign, and telescope viewing after dark, and plan for 2–3 hours including the walk up and a wait for parking.
+quickAnswer: >-
+  Griffith Observatory, perched on the southern slope of Mount Hollywood in
+  Griffith Park, is free to enter and open Wednesday–Sunday afternoons into the
+  evening (closed Mondays and Tuesdays); the planetarium show and parking are
+  the only things you pay for. Go near sunset for the best combination of
+  skyline views, the Hollywood Sign, and telescope viewing after dark, and plan
+  for 2–3 hours including the walk up and a wait for parking.
 faq:
   - q: Is Griffith Observatory free to visit?
-    a: Yes, entry to the building, exhibits, and grounds is free. The only paid item is a ticket to the Samuel Oschin Planetarium show, purchased on-site.
+    a: >-
+      Yes, entry to the building, exhibits, and grounds is free. The only paid
+      item is a ticket to the Samuel Oschin Planetarium show, purchased on-site.
   - q: How do I get there without a car?
-    a: Take Metro to the Vermont/Sunset area and connect with the seasonal DASH Observatory shuttle on weekends and holidays, or hike up via the Charlie Turner or Berlin Forest trails from the Fern Dell entrance.
+    a: >-
+      Take Metro to the Vermont/Sunset area and connect with the seasonal DASH
+      Observatory shuttle on weekends and holidays, or hike up via the Charlie
+      Turner or Berlin Forest trails from the Fern Dell entrance.
   - q: What's the best time to visit for views and telescopes?
-    a: Arrive about an hour before sunset to catch daylight exhibits and skyline views, then stay after dark for free public telescope viewing with volunteer astronomers, weather permitting.
+    a: >-
+      Arrive about an hour before sunset to catch daylight exhibits and skyline
+      views, then stay after dark for free public telescope viewing with
+      volunteer astronomers, weather permitting.
   - q: How long should I plan to spend there?
-    a: 'Budget 2–3 hours: time to park or walk up, browse the exhibits and grounds, and, if desired, catch a planetarium show or evening telescope session.'
+    a: >-
+      Budget 2–3 hours: time to park or walk up, browse the exhibits and
+      grounds, and, if desired, catch a planetarium show or evening telescope
+      session.
   - q: Is parking difficult?
-    a: Yes, the on-site lot fills fast on weekends and holidays. Arrive early, be ready to circle for street parking along the access roads, or use the DASH shuttle instead.
+    a: >-
+      Yes, the on-site lot fills fast on weekends and holidays. Arrive early, be
+      ready to circle for street parking along the access roads, or use the DASH
+      shuttle instead.
 aiGenerated: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: lombok-pura-lingsar
-srcHash: '85dc9ba8dfa3'
+srcHash: '83601cf8d1fb'
 title: 林萨神庙（Pura Lingsar）：龙目岛旅行指南（4.3★）
-description: 林萨神庙位于龙目岛西部（Lombok Barat）林萨区（Lingsar）巴图昆邦村（Batu Kumbung），建于1741年，是龙目岛历史最悠久、也最重要的共享庙宇，巴厘印度教徒与萨萨克瓦图特罗（Sasak Wetu Telu）穆斯林都在此礼拜。4.3★（495条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 林萨神庙位于龙目岛西部（Lombok Barat）林萨区（Lingsar）巴图昆邦村（Batu Kumbung），建于1741年，是龙目岛历史最悠久、也最重要的共享庙宇，巴厘印度教徒与萨萨克瓦图特罗（Sasak Wetu Telu）穆斯林都在此礼拜。4.3★（496条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 林萨神庙位于龙目岛西部林萨区巴图昆邦村，建于1741年，是龙目岛历史最悠久、也最重要的共享庙宇，巴厘印度教徒与萨萨克瓦图特罗穆斯林都在此礼拜。从马塔兰（Mataram）驱车前往，向东北方向约需20到30分钟，平常大多数日子这里都很清静，两座庭院可以随意闲逛，不必和人群打照面。想要清净，就选平常日的临近中午时分前来；想看热闹，不妨挑普加瓦利节（Pujawali）期间造访，那时庙里才真正热闹起来。
 faq:
   - q: 从马塔兰或森吉吉（Senggigi）怎么去林萨神庙？

@@ -1,52 +1,78 @@
 ---
-title: "Librairie Passages: Lyon Travel Guide (4.8★)"
-description: "Librairie Passages is an independent bookshop at 11 Rue de Brest in Lyon's 2nd arrondissement, open Tuesday to Saturday, closed Sunday and Monday. 4.8★ (809 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "hidden-gem"
-pubDate: "2026-08-09T08:24:07.150Z"
+title: 'Librairie Passages: Lyon Travel Guide (4.8★)'
+description: >-
+  Librairie Passages is an independent bookshop at 11 Rue de Brest in Lyon's 2nd
+  arrondissement, open Tuesday to Saturday, closed Sunday and Monday. 4.8★ (817
+  reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: hidden-gem
+pubDate: '2026-08-09T08:24:07.150Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg/3840px-Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg"
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg/3840px-Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg
 gallery: []
 place:
-  id: "ChIJN2E7ilXq9EcRA16dAaD1czI"
-  name: "Librairie Passages"
-  address: "11 Rue de Brest, 69002 Lyon, France"
+  id: ChIJN2E7ilXq9EcRA16dAaD1czI
+  name: Librairie Passages
+  address: '11 Rue de Brest, 69002 Lyon, France'
   rating: 4.8
-  userRatingsTotal: 809
-  googleMapsUrl: "https://maps.google.com/?cid=3635519391788785155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 817
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3635519391788785155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7639347
   lng: 4.8333354
-  phone: "+33 4 72 56 34 84"
+  phone: +33 4 72 56 34 84
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM"
-    - "Wednesday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM"
-    - "Thursday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM"
-    - "Friday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM"
-    - "Saturday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM'
+    - 'Thursday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM'
+    - 'Friday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM'
+    - 'Saturday: 10:00 AM – 1:00 PM, 2:00 – 7:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "lyon"
-  - "bookshop"
-quickAnswer: "Librairie Passages is an independent bookshop at 11 Rue de Brest in Lyon's 2nd arrondissement, open Tuesday to Saturday, closed Sunday and Monday. Go on a weekday mid-morning right after the 10am opening, before lunchtime browsers arrive, for the quietest wander through its stacks. Budget 30–45 minutes, more if you like to dig through the shelves."
+  - lyon
+  - bookshop
+quickAnswer: >-
+  Librairie Passages is an independent bookshop at 11 Rue de Brest in Lyon's 2nd
+  arrondissement, open Tuesday to Saturday, closed Sunday and Monday. Go on a
+  weekday mid-morning right after the 10am opening, before lunchtime browsers
+  arrive, for the quietest wander through its stacks. Budget 30–45 minutes, more
+  if you like to dig through the shelves.
 faq:
-  - q: "How do I get to Librairie Passages?"
-    a: "It's at 11 Rue de Brest in Lyon's 2nd arrondissement, an easy walk from the Bellecour or Ampère – Victor Hugo stops on tram/metro Line A. From Vieux Lyon it's about a 15-minute walk across the Saône."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Saturday, 10am–1pm and 2–7pm, with a midday closure for lunch. It's closed all day Sunday and Monday, so plan your visit around those hours."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 10am opening, particularly Tuesday or Wednesday, tend to be calmest before locals stop in after work or on Saturday errands."
-  - q: "How much time should I set aside?"
-    a: "30 to 45 minutes covers a proper browse of the main sections. Add extra time if you like digging through the secondhand and used-book shelves."
-  - q: "Do they carry English-language books?"
-    a: "Not much — this is primarily a French-language independent bookshop. If your French is limited, ask staff for illustrated books, graphic novels, or photography titles."
+  - q: How do I get to Librairie Passages?
+    a: >-
+      It's at 11 Rue de Brest in Lyon's 2nd arrondissement, an easy walk from
+      the Bellecour or Ampère – Victor Hugo stops on tram/metro Line A. From
+      Vieux Lyon it's about a 15-minute walk across the Saône.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Saturday, 10am–1pm and 2–7pm, with a midday closure for lunch.
+      It's closed all day Sunday and Monday, so plan your visit around those
+      hours.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 10am opening, particularly Tuesday or
+      Wednesday, tend to be calmest before locals stop in after work or on
+      Saturday errands.
+  - q: How much time should I set aside?
+    a: >-
+      30 to 45 minutes covers a proper browse of the main sections. Add extra
+      time if you like digging through the secondhand and used-book shelves.
+  - q: Do they carry English-language books?
+    a: >-
+      Not much — this is primarily a French-language independent bookshop. If
+      your French is limited, ask staff for illustrated books, graphic novels,
+      or photography titles.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

@@ -1,38 +1,44 @@
 ---
-title: "Boulangerie Du Palais: Lyon Travel Guide (4.3★)"
-description: "Boulangerie Du Palais is a budget-friendly, all-day bakery in Lyon's Vieux Lyon district, on Rue du Palais de Justice, open daily 7am–7pm. 4.3★ (1,702 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "trendy"
-pubDate: "2026-08-10T08:59:52.746Z"
+title: 'Boulangerie Du Palais: Lyon Travel Guide (4.3★)'
+description: >-
+  Boulangerie Du Palais is a budget-friendly, all-day bakery in Lyon's Vieux
+  Lyon district, on Rue du Palais de Justice, open daily 7am–7pm. 4.3★ (1,713
+  reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: trendy
+pubDate: '2026-08-10T08:59:52.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg"
-  credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais,_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg
+  credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais,_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg
 gallery: []
 place:
-  id: "ChIJA-T_5arr9EcRTDNovqkhSN0"
-  name: "Boulangerie Du Palais"
-  address: "8 Rue du Palais de Justice, 69005 Lyon, France"
+  id: ChIJA-T_5arr9EcRTDNovqkhSN0
+  name: Boulangerie Du Palais
+  address: '8 Rue du Palais de Justice, 69005 Lyon, France'
   rating: 4.3
-  userRatingsTotal: 1702
+  userRatingsTotal: 1713
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=15945031493632930636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15945031493632930636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.762454999999996
   lng: 4.8276908999999995
-  phone: "+33 4 78 37 09 43"
+  phone: +33 4 78 37 09 43
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendQuiet:
@@ -45,24 +51,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_304e53686b71766f4e445452634539727261355f542d414a496843"
+    venueId: ven_304e53686b71766f4e445452634539727261355f542d414a496843
 tags:
-  - "lyon"
-  - "bakery"
-quickAnswer: "Boulangerie Du Palais is a budget-friendly, all-day bakery in Lyon's Vieux Lyon district, on Rue du Palais de Justice, open daily 7am–7pm. Go right at opening (7–8am) on a weekday for the quietest visit, or after 5pm on weekends — avoid the 10am–4pm weekend rush when queues stack up. Expect pastries, tarts, loaves, pizza slices and sandwiches, all easy to grab and eat riverside."
+  - lyon
+  - bakery
+quickAnswer: >-
+  Boulangerie Du Palais is a budget-friendly, all-day bakery in Lyon's Vieux
+  Lyon district, on Rue du Palais de Justice, open daily 7am–7pm. Go right at
+  opening (7–8am) on a weekday for the quietest visit, or after 5pm on weekends
+  — avoid the 10am–4pm weekend rush when queues stack up. Expect pastries,
+  tarts, loaves, pizza slices and sandwiches, all easy to grab and eat
+  riverside.
 faq:
-  - q: "What are the opening hours?"
-    a: "Boulangerie Du Palais is open every day of the week, 7:00 AM to 7:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am are calmest. On weekends, aim for 5pm–7pm; avoid 10am–4pm on Saturday and Sunday when it's busiest."
-  - q: "How do I get there by metro?"
-    a: "Take Line D to Vieux Lyon station; the bakery is a short walk from the exit at 8 Rue du Palais de Justice."
-  - q: "Is it good for a quick lunch, not just pastries?"
-    a: "Yes — alongside croissants and tarts, it sells pizza slices, sandwiches and loaves, making it a practical lunch stop, not just a dessert shop."
-  - q: "What's nearby if I want to make a morning of it?"
-    a: "Cathédrale Saint-Jean is a five-minute walk, and the Basilica of Notre-Dame de Fourvière is reachable via the funicular from Vieux Lyon station."
+  - q: What are the opening hours?
+    a: >-
+      Boulangerie Du Palais is open every day of the week, 7:00 AM to 7:00 PM,
+      with no weekly closing day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 8am are calmest. On weekends, aim for 5pm–7pm;
+      avoid 10am–4pm on Saturday and Sunday when it's busiest.
+  - q: How do I get there by metro?
+    a: >-
+      Take Line D to Vieux Lyon station; the bakery is a short walk from the
+      exit at 8 Rue du Palais de Justice.
+  - q: 'Is it good for a quick lunch, not just pastries?'
+    a: >-
+      Yes — alongside croissants and tarts, it sells pizza slices, sandwiches
+      and loaves, making it a practical lunch stop, not just a dessert shop.
+  - q: What's nearby if I want to make a morning of it?
+    a: >-
+      Cathédrale Saint-Jean is a five-minute walk, and the Basilica of
+      Notre-Dame de Fourvière is reachable via the funicular from Vieux Lyon
+      station.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

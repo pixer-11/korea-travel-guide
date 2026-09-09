@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: los-angeles-crossroads-kitchen
-srcHash: '49acefd02be7'
+srcHash: '89c7b8ce5dfd'
 title: 'Crossroads Kitchen: dónde comer en Los Ángeles (4.6★)'
-description: 'Crossroads Kitchen es un restaurante vegano de autor en Melrose Avenue, en West Hollywood, conocido por sus platos de inspiración italiana a base de plantas, sus cócteles de autor y un comedor que parece más un bistró italiano de categoría que un café health-food. 4.6★ (2,289 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'Crossroads Kitchen es un restaurante vegano de autor en Melrose Avenue, en West Hollywood, conocido por sus platos de inspiración italiana a base de plantas, sus cócteles de autor y un comedor que parece más un bistró italiano de categoría que un café health-food. 4.6★ (2,302 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'Crossroads Kitchen es un restaurante vegano de autor en Melrose Avenue, en West Hollywood, conocido por sus platos de inspiración italiana a base de plantas, sus cócteles de autor y un comedor que parece más un bistró italiano de categoría que un café health-food. Ve a cenar entre semana para evitar la avalancha del fin de semana, y reserva con antelación: es un lugar reconocido, no un secreto por descubrir. El almuerzo es de 11:30am a 2:30pm (sábado y domingo desde las 10:30am) y la cena desde las 5:30pm la mayoría de las noches.'
 faq:
   - q: ¿Necesito reserva para ir a Crossroads Kitchen?

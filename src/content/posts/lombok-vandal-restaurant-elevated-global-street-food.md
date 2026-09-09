@@ -1,6 +1,9 @@
 ---
 title: 'Vandal Restaurant | Elevated Global Street Food: Where to Eat in Lombok'
-description: Vandal Restaurant is a globally-inspired street-food kitchen on Jl. Raya Kuta in Kuta Lombok, a short walk or scooter ride from most guesthouses in the area.
+description: >-
+  Vandal Restaurant is a globally-inspired street-food kitchen on Jl. Raya Kuta
+  in Kuta Lombok, a short walk or scooter ride from most guesthouses in the
+  area.
 country: Indonesia
 region: Lombok
 category: restaurant
@@ -9,10 +12,13 @@ gallery: []
 place:
   id: ChIJuVCIBZOpzS0Ru7X4ISbpdkA
   name: Vandal Restaurant | Elevated Global Street Food
-  address: Vandal Restaurant. Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Kuta, Kec. Pujut, Lombok, Nusa Tenggara Bar. 83573, Indonesia
+  address: >-
+    Vandal Restaurant. Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah,
+    Kuta, Kec. Pujut, Lombok, Nusa Tenggara Bar. 83573, Indonesia
   rating: 4.7
-  userRatingsTotal: 243
-  googleMapsUrl: https://maps.google.com/?cid=4645156415667221947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 253
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4645156415667221947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.8887552
   lng: 116.2762841
@@ -44,7 +50,7 @@ place:
       - 21
       - 22
     venueId: ven_416b6470625349345837755230537a704f5a42494356754a496843
-  phone: '+62 878-7741-9955'
+  phone: +62 878-7741-9955
   openingHours:
     - 'Monday: 8:00 AM – 11:00 PM'
     - 'Tuesday: 8:00 AM – 11:00 PM'
@@ -53,24 +59,45 @@ place:
     - 'Friday: 8:00 AM – 11:00 PM'
     - 'Saturday: 8:00 AM – 11:00 PM'
     - 'Sunday: 8:00 AM – 11:00 PM'
+  priceLevel: 2
 tags:
   - lombok
   - street food
-quickAnswer: Vandal Restaurant is a globally-inspired street-food kitchen on Jl. Raya Kuta in Kuta Lombok, a short walk or scooter ride from most guesthouses in the area. It's rated 4.7 from 243 reviews and works well for a relaxed dinner before or after exploring Kuta's beaches — go early evening on a weekday for the calmest seating and freshest kitchen output.
+quickAnswer: >-
+  Vandal Restaurant is a globally-inspired street-food kitchen on Jl. Raya Kuta
+  in Kuta Lombok, a short walk or scooter ride from most guesthouses in the
+  area. It's rated 4.7 from 243 reviews and works well for a relaxed dinner
+  before or after exploring Kuta's beaches — go early evening on a weekday for
+  the calmest seating and freshest kitchen output.
 faq:
   - q: How do I get to Vandal Restaurant without a car?
-    a: It's on the main road through Kuta village, so most travelers staying in central Kuta can walk or take a short scooter ride. Ride-hailing apps like Gojek or Grab operate in parts of Kuta but coverage is inconsistent, so a hotel-arranged driver or rented scooter is more reliable.
+    a: >-
+      It's on the main road through Kuta village, so most travelers staying in
+      central Kuta can walk or take a short scooter ride. Ride-hailing apps like
+      Gojek or Grab operate in parts of Kuta but coverage is inconsistent, so a
+      hotel-arranged driver or rented scooter is more reliable.
   - q: What kind of food does Vandal serve?
-    a: It's described as elevated global street food — expect shareable, street-food-style dishes with international influences rather than a single national cuisine, plated with more polish than a typical roadside stall.
+    a: >-
+      It's described as elevated global street food — expect shareable,
+      street-food-style dishes with international influences rather than a
+      single national cuisine, plated with more polish than a typical roadside
+      stall.
   - q: What's the best time to visit to avoid crowds?
-    a: Early dinner on a weekday, just as service starts, is typically calmer than the 7-8pm peak or weekend nights during dry season (May-September).
+    a: >-
+      Early dinner on a weekday, just as service starts, is typically calmer
+      than the 7-8pm peak or weekend nights during dry season (May-September).
   - q: How long should I plan to stay?
-    a: Budget around 1-1.5 hours for a sharing-style dinner of two to three dishes per person, longer if ordering in rounds.
+    a: >-
+      Budget around 1-1.5 hours for a sharing-style dinner of two to three
+      dishes per person, longer if ordering in rounds.
   - q: Is Vandal within walking distance of Kuta Beach?
-    a: Yes — Kuta Beach, the local market, and surf shops are all a short walk or quick scooter ride away, making it convenient to pair with a beach day.
+    a: >-
+      Yes — Kuta Beach, the local market, and surf shops are all a short walk or
+      quick scooter ride away, making it convenient to pair with a beach day.
 aiGenerated: true
 draft: false
 photoless: true
+updatedDate: '2026-09-09'
 ---
 
 ## Why go

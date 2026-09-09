@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lyon-les-ventres-jaunes
-srcHash: '1dd705e511af'
+srcHash: '7e5bf43929e8'
 title: 'Les Ventres Jaunes: dónde comer en Lyon (4,6★)'
-description: 'Les Ventres Jaunes es un restaurante estilo "bouchon" en la Place Neuve Saint-Jean, en Vieux Lyon, que sirve generosa cocina casera francesa (quenelles, andouillette, gratinados) en un comedor rústico de tonos amarillos con vigas vistas. 4,6★ (3.931 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Les Ventres Jaunes es un restaurante estilo "bouchon" en la Place Neuve Saint-Jean, en Vieux Lyon, que sirve generosa cocina casera francesa (quenelles, andouillette, gratinados) en un comedor rústico de tonos amarillos con vigas vistas. 4,6★ (3.979 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Les Ventres Jaunes es un restaurante estilo "bouchon" en la Place Neuve Saint-Jean, en Vieux Lyon, que sirve generosa cocina casera francesa (quenelles, andouillette, gratinados) en un comedor rústico de tonos amarillos con vigas vistas. Abre todos los días de 11:30 a 14:30 y de 18:30 a 22:30, es muy conocido y suele estar siempre lleno, así que conviene reservar con antelación o llegar justo a la apertura, tanto para el almuerzo como para la cena. Cuenta con precios de gama media y espera encontrarlo lleno todo el fin de semana, desde el mediodía hasta las 22:00 sin pausa.
 faq:
   - q: ¿Necesito reserva?

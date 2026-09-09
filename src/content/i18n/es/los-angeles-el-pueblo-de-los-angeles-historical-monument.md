@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: los-angeles-el-pueblo-de-los-angeles-historical-monument
-srcHash: '2affdcecd180'
+srcHash: '02934181623f'
 title: 'Monumento Histórico El Pueblo de Los Ángeles: Guía de viaje de Los Ángeles'
-description: El Monumento Histórico El Pueblo de Los Ángeles es el lugar de nacimiento de la ciudad, con sus 44 acres anclados por los puestos de mercado de la calle Olvera (Olvera Street), a solo unos pasos de Union Station en el centro de Los Ángeles. 4.5★ (1,522 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: El Monumento Histórico El Pueblo de Los Ángeles es el lugar de nacimiento de la ciudad, con sus 44 acres anclados por los puestos de mercado de la calle Olvera (Olvera Street), a solo unos pasos de Union Station en el centro de Los Ángeles. 4.5★ (1,529 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Monumento Histórico El Pueblo de Los Ángeles es el lugar de nacimiento de la ciudad, con sus 44 acres anclados por los puestos de mercado de la calle Olvera (Olvera Street), a solo unos pasos de Union Station en el centro de Los Ángeles. Está abierto todos los días de 8am a 10pm y es gratuito recorrerlo. Ve un día de semana entre las 8am y las 9am para disfrutar de los caminos de ladrillo casi vacíos, y evita las multitudes de mediodía a noche los fines de semana.
 faq:
   - q: ¿Cuáles son los horarios de apertura?

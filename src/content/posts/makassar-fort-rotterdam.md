@@ -1,51 +1,78 @@
 ---
-title: "Fort Rotterdam: Makassar Travel Guide (4.5★)"
-description: "Fort Rotterdam is a 17th-century Dutch-Gowanese fort in central Makassar, open daily 8am–6pm, and easily covered in 1–2 hours. 4.5★ (14,441 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Makassar"
-category: "hidden-gem"
-pubDate: "2026-08-14T08:44:20.216Z"
+title: 'Fort Rotterdam: Makassar Travel Guide (4.5★)'
+description: >-
+  Fort Rotterdam is a 17th-century Dutch-Gowanese fort in central Makassar, open
+  daily 8am–6pm, and easily covered in 1–2 hours. 4.5★ (14,465 reviews) — what
+  visitors say, hours, and tips.
+country: Indonesia
+region: Makassar
+category: hidden-gem
+pubDate: '2026-08-14T08:44:20.216Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fort_Rotterdam%2C_Makassar%2C_Indonesia_-_20100227-02.jpg/1920px-Fort_Rotterdam%2C_Makassar%2C_Indonesia_-_20100227-02.jpg"
-  credit: "Photo: Sanko. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fort_Rotterdam,_Makassar,_Indonesia_-_20100227-02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fort_Rotterdam%2C_Makassar%2C_Indonesia_-_20100227-02.jpg/1920px-Fort_Rotterdam%2C_Makassar%2C_Indonesia_-_20100227-02.jpg
+  credit: 'Photo: Sanko. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fort_Rotterdam,_Makassar,_Indonesia_-_20100227-02.jpg
 gallery: []
 place:
-  id: "ChIJ7zfOEbACvy0RI8-2wSg57Sg"
-  name: "Fort Rotterdam"
-  address: "No.Road, Jl. Ujung Pandang, Bulo Gading, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90171, Indonesia"
+  id: ChIJ7zfOEbACvy0RI8-2wSg57Sg
+  name: Fort Rotterdam
+  address: >-
+    No.Road, Jl. Ujung Pandang, Bulo Gading, Kec. Ujung Pandang, Kota Makassar,
+    Sulawesi Selatan 90171, Indonesia
   rating: 4.5
-  userRatingsTotal: 14441
-  googleMapsUrl: "https://maps.google.com/?cid=2949076178209001251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14465
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2949076178209001251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -5.1340004
   lng: 119.40563110000001
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "makassar"
-  - "hidden gem"
-quickAnswer: "Fort Rotterdam is a 17th-century Dutch-Gowanese fort in central Makassar, open daily 8am–6pm, and easily covered in 1–2 hours. It's one of the city's most-visited landmarks, so aim for early morning or late afternoon to dodge tour groups and the midday heat. Entry is inexpensive and the fort sits walking distance from Losari Beach and Paotere Harbor."
+  - makassar
+  - hidden gem
+quickAnswer: >-
+  Fort Rotterdam is a 17th-century Dutch-Gowanese fort in central Makassar, open
+  daily 8am–6pm, and easily covered in 1–2 hours. It's one of the city's
+  most-visited landmarks, so aim for early morning or late afternoon to dodge
+  tour groups and the midday heat. Entry is inexpensive and the fort sits
+  walking distance from Losari Beach and Paotere Harbor.
 faq:
-  - q: "How long should I spend at Fort Rotterdam?"
-    a: "Plan on 1 to 1.5 hours: about 30-40 minutes to walk the ramparts and courtyard, plus 30-45 minutes for the La Galigo Museum if you want to go inside the exhibits."
-  - q: "What are the opening hours?"
-    a: "The fort is open daily from 8:00 AM to 6:00 PM, with no weekly closing day, so you can fit it in any day of your Makassar trip."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at 8am opening or in the last two hours before 6pm closing. Midday sees the heaviest foot traffic from tour groups and the strongest heat, since the courtyard has little shade."
-  - q: "How do I get to Fort Rotterdam from central Makassar?"
-    a: "It's a short Grab or GoCar ride from most downtown hotels, or a flat 10-15 minute walk from Losari Beach along Jalan Penghibur."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "Losari Beach is walkable for sunset views, and Paotere Harbor, a traditional Bugis schooner port, is a short drive away for a maritime-history add-on."
+  - q: How long should I spend at Fort Rotterdam?
+    a: >-
+      Plan on 1 to 1.5 hours: about 30-40 minutes to walk the ramparts and
+      courtyard, plus 30-45 minutes for the La Galigo Museum if you want to go
+      inside the exhibits.
+  - q: What are the opening hours?
+    a: >-
+      The fort is open daily from 8:00 AM to 6:00 PM, with no weekly closing
+      day, so you can fit it in any day of your Makassar trip.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go right at 8am opening or in the last two hours before 6pm closing.
+      Midday sees the heaviest foot traffic from tour groups and the strongest
+      heat, since the courtyard has little shade.
+  - q: How do I get to Fort Rotterdam from central Makassar?
+    a: >-
+      It's a short Grab or GoCar ride from most downtown hotels, or a flat 10-15
+      minute walk from Losari Beach along Jalan Penghibur.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      Losari Beach is walkable for sunset views, and Paotere Harbor, a
+      traditional Bugis schooner port, is a short drive away for a
+      maritime-history add-on.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 ## Why go
 

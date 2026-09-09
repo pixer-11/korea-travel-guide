@@ -1,30 +1,38 @@
 ---
 title: 'Baba & Nyonya Heritage Museum: Malacca Travel Guide (4.4★)'
-description: The Baba & Nyonya Heritage Museum sits on Jalan Tun Tan Cheng Lock in Malacca's heritage district, open daily 10am–4:45pm except Tuesdays. 4.4★ (2,395 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Baba & Nyonya Heritage Museum sits on Jalan Tun Tan Cheng Lock in
+  Malacca's heritage district, open daily 10am–4:45pm except Tuesdays. 4.4★
+  (2,402 reviews) — what visitors say, hours, and tips.
 country: Malaysia
 region: Malacca
 category: attraction
 pubDate: '2026-08-18T09:06:52.762Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baba_and_Nyonya_House_Museum_Exterior.jpg/1920px-Baba_and_Nyonya_House_Museum_Exterior.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baba_and_Nyonya_House_Museum_Exterior.jpg/1920px-Baba_and_Nyonya_House_Museum_Exterior.jpg
   credit: 'Photo: Azuladnan / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Baba_and_Nyonya_House_Museum_Exterior.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Baba_and_Nyonya_House_Museum_Exterior.jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg/1280px-Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg/1280px-Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg
     credit: 'Photo: Michael Coghlan / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Inside_the_Baba_and_Nyonya_Heritage_Museum.jpg
 place:
   id: ChIJfdXRW9zx0TER8SK9p2bE-kg
   name: Baba & Nyonya Heritage Museum
-  address: 48-50, Jalan Tun Tan Cheng Lock, 75200 Melaka, Malaysia
+  address: '48-50, Jalan Tun Tan Cheng Lock, 75200 Melaka, Malaysia'
   rating: 4.4
-  userRatingsTotal: 2395
-  googleMapsUrl: https://maps.google.com/?cid=5258731460088374001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2402
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5258731460088374001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 2.1953381999999997
   lng: 102.2467179
@@ -54,20 +62,38 @@ place:
 tags:
   - malacca
   - museum
-quickAnswer: The Baba & Nyonya Heritage Museum sits on Jalan Tun Tan Cheng Lock in Malacca's heritage district, open daily 10am–4:45pm except Tuesdays. Budget 45–60 minutes for the guided walkthrough of this restored 19th-century Peranakan townhouse. Weekends stay busy from 10am to 4pm, so arrive right at opening or after 3pm to beat the crush.
+quickAnswer: >-
+  The Baba & Nyonya Heritage Museum sits on Jalan Tun Tan Cheng Lock in
+  Malacca's heritage district, open daily 10am–4:45pm except Tuesdays. Budget
+  45–60 minutes for the guided walkthrough of this restored 19th-century
+  Peranakan townhouse. Weekends stay busy from 10am to 4pm, so arrive right at
+  opening or after 3pm to beat the crush.
 faq:
   - q: What are the opening hours?
-    a: 10:00 AM–4:45 PM every day except Tuesday, when the museum is closed. Confirm before visiting since hours can shift around public holidays.
+    a: >-
+      10:00 AM–4:45 PM every day except Tuesday, when the museum is closed.
+      Confirm before visiting since hours can shift around public holidays.
   - q: How long should I spend at the museum?
-    a: Plan for 45 minutes to an hour. Visits are typically led by a guide at a fixed pace through the house.
+    a: >-
+      Plan for 45 minutes to an hour. Visits are typically led by a guide at a
+      fixed pace through the house.
   - q: When is the best time to avoid crowds?
-    a: Weekends stay busy from 10am to 4pm. Go on a weekday right at 10am opening, or after 3pm on weekends, for a calmer visit.
+    a: >-
+      Weekends stay busy from 10am to 4pm. Go on a weekday right at 10am
+      opening, or after 3pm on weekends, for a calmer visit.
   - q: Is photography allowed inside?
-    a: Photography is generally restricted inside to protect the antique furniture and artifacts, so plan to simply look and listen rather than shoot photos.
+    a: >-
+      Photography is generally restricted inside to protect the antique
+      furniture and artifacts, so plan to simply look and listen rather than
+      shoot photos.
   - q: What's nearby to combine with a visit?
-    a: The museum is about a 10-minute walk from Dutch Square and sits close to Jonker Street and Cheng Hoon Teng Temple, making it easy to fold into a heritage-district walking route.
+    a: >-
+      The museum is about a 10-minute walk from Dutch Square and sits close to
+      Jonker Street and Cheng Hoon Teng Temple, making it easy to fold into a
+      heritage-district walking route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-09'
 ---
 
 ## Why go
