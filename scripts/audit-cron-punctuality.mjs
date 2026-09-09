@@ -41,6 +41,7 @@ import { readdir, readFile } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { lastFireBefore } from './lib/cron-window.mjs';
+import { missedDays, MISSED_DAY_LIMIT } from './lib/cron-missed-days.mjs';
 
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const DIR = fileURLToPath(new URL('../.github/workflows/', import.meta.url));
@@ -89,8 +90,13 @@ for (const file of files) {
   if (Date.now() - start < 2 * 86400e3) { rows.push({ file, skip: '최근 변경 — 표본 부족' }); continue; }
 
   let runs;
-  try { runs = (await gh(`/actions/workflows/${file}/runs?event=schedule&per_page=100`)).workflow_runs || []; }
-  catch (e) { rows.push({ file, skip: e.message }); continue; }
+  let allRuns;
+  try {
+    runs = (await gh(`/actions/workflows/${file}/runs?event=schedule&per_page=100`)).workflow_runs || [];
+    // 필터 없는 두 번째 조회 — 알람시계·감시견의 workflow_dispatch 구조가 여기 있다.
+    // 지각 통계는 스케줄러만 봐야 정확하고, 누락 판정은 구조까지 봐야 정직하다.
+    allRuns = (await gh(`/actions/workflows/${file}/runs?per_page=100`)).workflow_runs || [];
+  } catch (e) { rows.push({ file, skip: e.message }); continue; }
 
   const fired = runs
     .map((r) => ({ created: new Date(r.created_at).getTime(), started: new Date(r.run_started_at || r.created_at).getTime() }))
@@ -130,8 +136,13 @@ for (const file of files) {
   const missed = sorted.filter((s) => !served.has(s)).length;
   every.push(...delays);
   const sd = delays.map((d) => d.sched).sort((a, b) => a - b);
+  const ranDays = new Set(
+    allRuns.map((r) => Date.parse(r.created_at)).filter((t) => t >= start)
+      .map((t) => new Date(t + 9 * 3600e3).toISOString().slice(0, 10)),
+  );
   rows.push({
     file, days: (Date.now() - start) / 86400e3, slots: sorted.length, ran: delays.length, missed, extra,
+    slotTimes: sorted, ranDays,
     med: sd.length ? sd[Math.floor(sd.length / 2)] : null,
     max: sd.length ? sd[sd.length - 1] : null,
     over60: sd.filter((d) => d > 60).length,
@@ -170,13 +181,18 @@ console.log(`  장애기(08-26~31) A 중앙값 76 → 576 → 595 → 149 → 23
 console.log(`  B 러너 대기는 전 구간 0분 — 원인은 실행기가 아니라 스케줄러다.`);
 console.log(`  누락 6.7% (17/252) · 깃허브 Actions 장애 2건 공식 선언일 = 08-26`);
 
-// A report keyed on this exit code ("Report lateness" in full-audit and
-// workflow-lint) could never fire: this always exited 0 (2026-09-09 review).
-// Late is: the median scheduler delay over an hour, or more than a tenth of the
-// slots never fired at all. Normal weeks sit at 19–35 minutes and ~7% missed.
-const medAll = every.map((d) => d.sched).sort((a, b) => a - b)[Math.floor(every.length / 2)];
-const missPct = slotsTotal ? (100 * missedTotal) / slotsTotal : 0;
-if (medAll > 60 || missPct > 10) {
-  console.log(`\nLATE: 스케줄러 지연 중앙값 ${medAll}분 · 누락 ${missPct.toFixed(1)}% — 기준(60분 · 10%)을 넘었다`);
+// ── 판정: 늦었는가가 아니라, 그날 일이 됐는가 ─────────────────────────────
+// 첫 판(09-09 오전)은 스케줄러 지연 중앙값으로 실패를 냈고, 푸시 1분 만에
+// 텔레그램이 울렸다 — 그 말 자체는 맞았다(중앙값 219분). 하지만 지각은 08-26
+// 이후 만성이고, 알람시계·감시견이 그걸 덮으라고 있다. 같은 사실을 워크플로를
+// 밀 때마다 알리면 경보가 아니라 소음이다. 판정 규칙과 그 이유·테스트는
+// scripts/lib/cron-missed-days.mjs 에 있다.
+const report = missedDays(rows);
+console.log(`\n최근 ${report.days}일: 예약된 날 중 일이 아예 안 된 날 ${report.total}건`);
+for (const m of report.perWorkflow) console.log(`  ✗ ${m.file} — ${m.days.join(', ')}`);
+if (!report.total) console.log('  ✓ 모든 예약 작업이 (늦게라도) 그날 안에 돌았다');
+
+if (report.total >= MISSED_DAY_LIMIT) {
+  console.log(`\nLATE: 최근 ${report.days}일에 일이 아예 안 된 날 ${report.total}건 — 지각이 아니라 누락이다`);
   process.exit(1);
 }
