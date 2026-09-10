@@ -1,6 +1,8 @@
 ---
 title: 'Charlie Puth Live in Manila: Dates, Tickets & Venue (Pasay)'
-description: Charlie Puth Live in Manila in Pasay, Philippines — October 14, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Charlie Puth Live in Manila in Pasay, Philippines — October 14, 2026. What it
+  is, when and where, and how to plan around it.
 country: Philippines
 region: Pasay
 category: event
@@ -13,32 +15,41 @@ eventPerformer:
   name: Charlie Puth
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg
-  credit: 'Photo: LG전자 / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth_2017_(cropped).jpg
-  focus:
-    x: 45
-    'y': 35
-    top: 5
-    bottom: 65
 gallery: []
 tags:
   - pasay
   - event
-quickAnswer: Charlie Puth Live in Manila brings the American pop star to Mall of Asia Arena in Pasay on October 14, 2026. The venue sits inside the SM Mall of Asia complex on the Pasay reclamation area, a short ride from Manila's main hotel districts. Confirm timing and tickets on the official ticketing site and the venue's channels before you book flights or hotels.
+quickAnswer: >-
+  Charlie Puth Live in Manila brings the American pop star to Mall of Asia Arena
+  in Pasay on October 14, 2026. The venue sits inside the SM Mall of Asia
+  complex on the Pasay reclamation area, a short ride from Manila's main hotel
+  districts. Confirm timing and tickets on the official ticketing site and the
+  venue's channels before you book flights or hotels.
 faq:
   - q: What is the date of Charlie Puth's Manila concert?
-    a: The show is scheduled for October 14, 2026 at Mall of Asia Arena in Pasay. Confirm timing and tickets on the official site before finalizing travel plans.
+    a: >-
+      The show is scheduled for October 14, 2026 at Mall of Asia Arena in Pasay.
+      Confirm timing and tickets on the official site before finalizing travel
+      plans.
   - q: Where exactly is the venue located?
-    a: Mall of Asia Arena sits inside the SM Mall of Asia complex on Seaside Boulevard in Pasay, along Manila Bay, just south of Manila proper.
+    a: >-
+      Mall of Asia Arena sits inside the SM Mall of Asia complex on Seaside
+      Boulevard in Pasay, along Manila Bay, just south of Manila proper.
   - q: How do I get to Mall of Asia Arena from the airport?
-    a: NAIA is roughly 20 to 30 minutes away by taxi or ride-hail depending on terminal and traffic; there's no direct rail link, so a car transfer is the standard route.
+    a: >-
+      NAIA is roughly 20 to 30 minutes away by taxi or ride-hail depending on
+      terminal and traffic; there's no direct rail link, so a car transfer is
+      the standard route.
   - q: Where should I buy tickets?
-    a: Use the venue's official ticketing partners rather than resale sites or social media links. Confirm timing and tickets on the official site to avoid counterfeit listings.
+    a: >-
+      Use the venue's official ticketing partners rather than resale sites or
+      social media links. Confirm timing and tickets on the official site to
+      avoid counterfeit listings.
   - q: What's nearby if I arrive early?
-    a: The SM Mall of Asia complex has extensive dining options and a bayfront promenade along Manila Bay, both within easy walking distance of the arena gates.
+    a: >-
+      The SM Mall of Asia complex has extensive dining options and a bayfront
+      promenade along Manila Bay, both within easy walking distance of the arena
+      gates.
 aiGenerated: true
 draft: false
 ---

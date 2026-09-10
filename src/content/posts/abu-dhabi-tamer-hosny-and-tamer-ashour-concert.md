@@ -1,6 +1,8 @@
 ---
 title: 'Tamer Hosny and Tamer Ashour Concert: Dates, Tickets & Venue (Abu Dhabi)'
-description: Tamer Hosny and Tamer Ashour Concert in Abu Dhabi, United Arab Emirates — October 17, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Tamer Hosny and Tamer Ashour Concert in Abu Dhabi, United Arab Emirates —
+  October 17, 2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -10,37 +12,46 @@ eventEndDate: '2026-10-17'
 eventRecurring: false
 eventVenue: Etihad Arena
 eventOffers:
-  url: https://www.etihadarena.ae
+  url: 'https://www.etihadarena.ae'
 eventPerformer:
   name: Tamer Hosny and Tamer Ashour
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Tamer_Hosny.png
-  credit: 'Photo: وكالة أنباء الشرق الأوسط / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tamer_Hosny.png
-  focus:
-    x: 54
-    'y': 30
-    top: 5
-    bottom: 55
 gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: The Tamer Hosny and Tamer Ashour Concert lands at Etihad Arena on Yas Island, Abu Dhabi on October 17, 2026, pairing two of Egypt's biggest voices for one night of ballads and dance anthems. Confirm timing and tickets on the official Etihad Arena or ticketing platform site before you book flights or hotels. Arrive early if you want a spot near the floor, since arena shows here routinely sell out the closest sections first.
+quickAnswer: >-
+  The Tamer Hosny and Tamer Ashour Concert lands at Etihad Arena on Yas Island,
+  Abu Dhabi on October 17, 2026, pairing two of Egypt's biggest voices for one
+  night of ballads and dance anthems. Confirm timing and tickets on the official
+  Etihad Arena or ticketing platform site before you book flights or hotels.
+  Arrive early if you want a spot near the floor, since arena shows here
+  routinely sell out the closest sections first.
 faq:
   - q: Where is the Tamer Hosny and Tamer Ashour Concert held?
-    a: At Etihad Arena on Yas Island, Abu Dhabi, part of the Yas Bay Waterfront development near Yas Mall and Yas Marina Circuit.
+    a: >-
+      At Etihad Arena on Yas Island, Abu Dhabi, part of the Yas Bay Waterfront
+      development near Yas Mall and Yas Marina Circuit.
   - q: What date is the concert?
-    a: October 17, 2026. Confirm timing and any schedule details on the official Etihad Arena or ticketing site before booking travel.
+    a: >-
+      October 17, 2026. Confirm timing and any schedule details on the official
+      Etihad Arena or ticketing site before booking travel.
   - q: How do I get tickets?
-    a: Buy through the official Etihad Arena site or an authorised regional ticketing platform. Avoid unverified resale links, and compare floor, lower-tier and upper-tier seating options before purchasing.
+    a: >-
+      Buy through the official Etihad Arena site or an authorised regional
+      ticketing platform. Avoid unverified resale links, and compare floor,
+      lower-tier and upper-tier seating options before purchasing.
   - q: How do I get to Etihad Arena?
-    a: Most visitors take a taxi or rideshare from central Abu Dhabi, roughly 20 to 30 minutes depending on traffic. The venue also has an on-site car park and is walkable from Yas Island hotels.
+    a: >-
+      Most visitors take a taxi or rideshare from central Abu Dhabi, roughly 20
+      to 30 minutes depending on traffic. The venue also has an on-site car park
+      and is walkable from Yas Island hotels.
   - q: What else is nearby for a full day out?
-    a: Yas Mall, Yas Marina Circuit, and Warner Bros. World Abu Dhabi are all on Yas Island. Consider visiting those earlier in the day and treating the concert as your evening plan.
+    a: >-
+      Yas Mall, Yas Marina Circuit, and Warner Bros. World Abu Dhabi are all on
+      Yas Island. Consider visiting those earlier in the day and treating the
+      concert as your evening plan.
 aiGenerated: true
 draft: false
 ---

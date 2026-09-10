@@ -5,7 +5,6 @@ country: Cambodia
 region: Phnom Penh
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - phnom penh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there without a car?
     a: Tuk-tuk or a ride-hailing app is easiest; give the driver 'Rosewood Phnom Penh' rather than the tower's own name, since that's what most drivers and building security recognize.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/8638618_ZB3Abytalk1DztcE4X4bOxqg-xNS9TW_n4Hf4dAlIbI.jpg
+  credit: 'Photo: Foursquare user content (Iza)'
+  license: foursquare
+  source: https://foursquare.com/v/5aa668c79e0d545558633eaf
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## What Iza actually is

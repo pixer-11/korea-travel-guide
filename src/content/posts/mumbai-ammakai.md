@@ -5,7 +5,6 @@ country: India
 region: Mumbai
 category: hidden-gem
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - mumbai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I check hours before going?
     a: Yes. As a recent opening, hours and booking details may still be settling in, so confirm both on the restaurant's official channels before you visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1378677409_AUi-I9rV9dyI9Y2my96KwLwOlZqHRKuR6SDIhQazcMY.jpg
+  credit: 'Photo: Foursquare user content (Ammakai By Bastian)'
+  license: foursquare
+  source: https://foursquare.com/v/6968de463a2a5b12e9426584
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Bandra West has no shortage of restaurants chasing the next big concept, so a place built around Mangalorean home cooking stands out simply by refusing to chase trends. Ammakai, from the group behind Bastian Hospitality, sits in the Khar pocket of Bandra West and leans into coastal Karnataka food the way it's actually cooked at home, not the flattened version most Indian restaurants abroad serve up.

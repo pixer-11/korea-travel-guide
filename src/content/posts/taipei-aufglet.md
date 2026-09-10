@@ -5,7 +5,6 @@ country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - taipei
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make an afternoon of it?
     a: Da'an Forest Park and the neighbourhood's independent café and boutique strip are both walkable, making it easy to pair a visit with a longer wander through the district.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/583591750_SFRUlYL976Cowj0UsF51GSoiuasn3tsd7WASr__rmo0.jpg
+  credit: 'Photo: Foursquare user content (AUFGLET Taipei)'
+  license: foursquare
+  source: https://foursquare.com/v/699a8844f004db14c2e2b868
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Seoul café brands don't often bother opening branches abroad, which is part of why AUFGLET's arrival in Taipei has people talking. This is the label's first outpost outside Korea, and it landed not in a mall or a tourist strip but in Da'an, the district locals already treat as Taipei's testing ground for anything new in coffee, pastry, or fashion.

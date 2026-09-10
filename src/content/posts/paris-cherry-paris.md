@@ -5,7 +5,6 @@ country: France
 region: Paris
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - paris
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is Cherry Paris good for a group or a date?
     a: Both work, but its shareable starters like burrata and its cocktail-forward bar suit a group or a lively couple's night out better than a quiet, intimate dinner.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/514034313_7EvZAVPngbb6bbbz_rxXDkKr3LoBXcfe2xRJ8lisXMU.jpg
+  credit: 'Photo: Foursquare user content (Cherry)'
+  license: foursquare
+  source: https://foursquare.com/v/68ce6747dc8f3b3c946efaa5
+  focus:
+    x: 45
+    'y': 55
 ---
 
 ## What Cherry actually is

@@ -6,14 +6,13 @@ region: Los Angeles
 category: trendy
 pubDate: '2026-09-09'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Jacaranda_cuspidifolia_flower.jpg
-  credit: 'Photo: João Medeiros / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/Jacaranda_1.jpg
+  credit: 'Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jacaranda_cuspidifolia_flower.jpg
+  source: https://commons.wikimedia.org/wiki/File:Jacaranda_1.jpg
   focus:
-    x: 45
+    x: 60
     'y': 40
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -30,7 +29,6 @@ faq:
   - q: Is parking available nearby?
     a: Street parking on Melrose is metered and can be tight, especially on weekends. Check side streets north and south of Melrose, or ask about valet when booking.
 aiGenerated: true
-draft: true
 ---
 
 Jacaranda sits at 6623 Melrose Ave, a stretch of the street already dense with design studios, vintage shops and long-running restaurants. It opened recently and landed almost immediately on Resy's Hit List for September 2026, the kind of placement that tends to fill a reservation book within days of being noticed.

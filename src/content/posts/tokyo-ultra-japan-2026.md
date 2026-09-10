@@ -32,6 +32,16 @@ faq:
     a: Stick to the official Ultra Japan ticketing channel. Resale and unofficial vendors carry a real risk of counterfeit or duplicate QR codes at large festivals like this one.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lokyii_in_%E3%80%8ADrive_In_Ultra_LOVFINITY_Vivienne_Tam_x_Leon_Lai_Fashion_Concert%E3%80%8B20221218.jpg/3840px-Lokyii_in_%E3%80%8ADrive_In_Ultra_LOVFINITY_Vivienne_Tam_x_Leon_Lai_Fashion_Concert%E3%80%8B20221218.jpg
+  credit: 'Photo: Lienwingyan / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lokyii_in_%E3%80%8ADrive_In_Ultra_LOVFINITY_Vivienne_Tam_x_Leon_Lai_Fashion_Concert%E3%80%8B20221218.jpg
+  focus:
+    x: 56
+    'y': 34
+    top: 29
+    bottom: 39
 ---
 
 Odaiba Ultra Park sits on reclaimed land jutting into Tokyo Bay, with the Rainbow Bridge and the city skyline as a backdrop to the main stage. For one weekend in September, this waterfront park becomes the regional anchor of the global Ultra Music Festival circuit, pulling in electronic music fans from across Asia and beyond.

@@ -13,16 +13,13 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b8/FEQ_July_2018_The_Weeknd_%2844778856382%29_%28cropped%29.jpg
-  credit: 'Photo: Nicolas Padovani / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg
+  credit: 'Photo: Jeremy Thompson / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:FEQ_July_2018_The_Weeknd_(44778856382)_(cropped).jpg
+  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_Universal_Studios_Hollywood.jpg
   focus:
-    x: 45
-    'y': 20
-    top: 5
-    bottom: 34
-gallery: []
+    x: 40
+    'y': 33
 tags:
   - bangkok
   - event

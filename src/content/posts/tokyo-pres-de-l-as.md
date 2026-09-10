@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: It's in Harajuku, so pair a meal here with a walk through Takeshita Street or Yoyogi Park, both an easy stroll away.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4823834_Q5zIfnGrLAyc2ZIIuV6_24qjT7Kjpct9go7gMg10DYo.jpg
+  credit: 'Photo: Foursquare user content (Près De L''as)'
+  license: foursquare
+  source: https://foursquare.com/v/69e8bc08cd08f20583d72a57
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## What Prés de L'AS actually is

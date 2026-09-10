@@ -5,7 +5,6 @@ country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - dubai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is there anything else to do nearby?
     a: Walk the Dubai Harbour promenade before or after dinner for marina views toward Bluewaters Island and Ain Dubai, and consider a pre-dinner drink at one of the district's other newer restaurants while you wait for your table.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/11462708_FyU5DrH3bw7YpRGGIlD6l3JSI8u991aKrJORdoGhsAg.jpg
+  credit: 'Photo: Foursquare user content (Sutēki)'
+  license: foursquare
+  source: https://foursquare.com/v/6a075e15f4b9073c5d7c6fdf
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Dubai Harbour has spent the last few years filling in with towers, a cruise terminal and a marina promenade lined with restaurants competing for the same sunset view. Sutēki is one of the newer arrivals at Harbour House, and it distinguishes itself immediately by refusing to be a generic waterfront grill. The name itself is a giveaway: sutēki is the Japanese transliteration of "steak," and here the word is doing exactly what it says, built entirely around wagyu beef rather than a broad, try-everything menu.

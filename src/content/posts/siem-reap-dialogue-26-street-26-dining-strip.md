@@ -5,7 +5,6 @@ country: Cambodia
 region: Siem Reap
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - siem reap
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby on Street 26?
     a: The street is filling with independent cafés and small eateries as part of Wat Bo Village's rise as an alternative to Pub Street, so it's worth treating it as a short walk-and-graze rather than a single stop.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/571217209_wGid35x6nS8LLDLSwwh-IwPdU6GABCzgZ_D4EWXOf1U.jpg
+  credit: 'Photo: Foursquare user content (Dialogue Siem Reap)'
+  license: foursquare
+  source: https://foursquare.com/v/5dde351366a0e00008db1b93
+  focus:
+    x: 50
+    'y': 35
 ---
 
 Street 26 is not the road most Siem Reap itineraries mention first. That's changing. Wat Bo Village, a former quiet residential pocket east of the river, has spent the last couple of years filling in with small-format cafés and concept bars, and Dialogue 26 is one of the addresses locals now point to when they explain why.

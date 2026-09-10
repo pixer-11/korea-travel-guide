@@ -5,7 +5,6 @@ country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - bali
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: Bingin's clifftop bars and sunset spots are a short walk or scooter ride away, and Padang Padang beach is close enough to pair with an afternoon swim or surf before dinner.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1393956800_BnDKb8TeUg9bFe_Xg0ZzsyBZxHdH95SNeNo1B4nYJZw.jpg
+  credit: 'Photo: Foursquare user content (Motel Mexicola)'
+  license: foursquare
+  source: https://foursquare.com/v/50fe2aa0e4b0a8ccadee6832
+  focus:
+    x: 40
+    'y': 55
 ---
 
 Bingin has spent the last decade collecting warungs and clifftop cafes, but not much in the way of a proper night out. Motel Mexicola Uluwatu changes that math. It's the second outpost of the Motel Mexicola brand, which built a loyal following in Seminyak on loud colour, mezcal and Baja-inspired seafood, and the Uluwatu branch brings the same formula south to the peninsula's surf-and-cliff belt.

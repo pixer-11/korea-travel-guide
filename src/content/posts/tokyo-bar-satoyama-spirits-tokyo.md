@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby if I want to make a night of it?
     a: Ebisu is packed with small bars, yakitori counters and izakayas, so it's easy to pair Satoyama Spirits with a wider bar crawl through the neighborhood.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/421799847_0zF-i_tU-YfmncbMXL05mtYjomLHez2x5ZhlwgsU2yA.jpg
+  credit: 'Photo: Foursquare user content (Spirits Bar Sunface)'
+  license: foursquare
+  source: https://foursquare.com/v/586d306a58c4d14fe9cd9cf5
+  focus:
+    x: 45
+    'y': 40
 ---
 
 ## What makes this bar different

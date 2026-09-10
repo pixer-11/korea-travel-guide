@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: hidden-gem
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is Socio good for a full night out or just one drink?
     a: It works best as one stop in a longer Soho crawl, since the district's compact grid makes it easy to walk to several bars in one evening.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1379934504_WOvwQHGp-JjSBFxvkQAMg5uRyVNOwItad2AHuP_FF8g.jpg
+  credit: 'Photo: Foursquare user content (Socio)'
+  license: foursquare
+  source: https://foursquare.com/v/65abdc76adc1142828db1e87
+  focus:
+    x: 50
+    'y': 45
 ---
 
 You order a drink at Socio the way you'd order at any Soho bar, except the bartender might mention that the vodka in your glass was clarified through crushed oyster shells from a seafood restaurant two streets over. That's the whole premise here: cocktails built from what other kitchens and bars in the neighbourhood were about to throw away.

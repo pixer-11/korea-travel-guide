@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: hidden-gem
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make an afternoon of it?
     a: Sangenjaya's back streets are worth wandering for vintage shops, small izakaya alleys, and independent cafes. It's an easy add-on to a Shibuya visit given the one-stop train connection.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/37279248_cAjv8NlBXDk3Ix574gCnEx7-QWD_DdFWkZGidHzn6E4.jpg
+  credit: 'Photo: Foursquare user content (SAMAA)'
+  license: foursquare
+  source: https://foursquare.com/v/68de4f7f80e52e2c89c6e993
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Sangenjaya doesn't look like a neighbourhood hiding an Indonesian coffee bar. It's mostly narrow lanes, decades-old apartment blocks, and small shopfronts that have belonged to the same family for two generations. Samaa sits inside one of those old buildings, a structure with roughly 70 years behind it, kept standing rather than torn down and rebuilt from scratch.

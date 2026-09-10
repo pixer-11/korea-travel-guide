@@ -1,6 +1,5 @@
 ---
-heldFinal: 'rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear'
-heldReason: 'below-rating-floor'
+heldFinal: rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear
 title: Smith & Wollensky in Tokyo
 description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
@@ -8,10 +7,13 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg
+  url: https://fastly.4sqi.net/img/general/original/7395498_vw5wVFT2tzY_OMW_7gjP9Ro5r1BDrDCc4vTUq0Mja8Y.jpg
   credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
   license: foursquare
   source: https://foursquare.com/v/69ffff169545e75813a2b47f
+  focus:
+    x: 45
+    'y': 55
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg
     credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
@@ -27,7 +29,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6702584
   lng: 139.7643725
-  phone: '+81 3-6274-6171'
+  phone: +81 3-6274-6171
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -52,7 +54,6 @@ faq:
   - q: What else is nearby if I want to make a day of it?
     a: Ginza's department stores and the Kabukiza Theatre are within walking distance, and Hibiya Park, the Imperial Palace grounds, and Tsukiji Outer Market are all short trips away for pairing with your meal.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Smith & Wollensky in Tokyo Is a Big Deal

@@ -5,7 +5,6 @@ country: Indonesia
 region: Bali
 category: hidden-gem
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - bali
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to combine a visit?
     a: The Blanco Renaissance Museum, the Pengosekan art village galleries, and the Ubud Monkey Forest are all within easy reach on or near Jl. Raya Pengosekan.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6213138_MCjvhQvy2cEzrg5PXoOIuoFVE4NCzBPNZZNOrsbVeI4.jpg
+  credit: 'Photo: Foursquare user content (Seta Coffee Library)'
+  license: foursquare
+  source: https://foursquare.com/v/692964e1bf46a365235131a4
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Ubud has no shortage of cafés chasing the same jungle-view, ring-light aesthetic. Seta Coffee Library does something different: it treats coffee as the point, not the backdrop, and stacks the walls with books instead of trailing plants.

@@ -5,7 +5,6 @@ country: Thailand
 region: Bangkok
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - bangkok
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get to One Bangkok / Andaz One Bangkok?
     a: Use the BTS/MRT interchange near Lumphini and Sala Daeng as your reference point, then walk or taxi into the complex; confirm current best station access since the development is still new.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6269475_fQZrdG-5ZozyGgb9uxNpLKHAGp5EHeZrU9tuigkDjT0.jpg
+  credit: 'Photo: Foursquare user content (Piscari)'
+  license: foursquare
+  source: https://foursquare.com/v/695141463e9d6a3cff158061
+  focus:
+    x: 45
+    'y': 40
 ---
 
 ## What Piscari actually is

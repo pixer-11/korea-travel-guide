@@ -32,6 +32,16 @@ faq:
     a: A single day covers highlights, but two days lets you pace exhibitor shopping in the morning and panels or the cosplay contest in the afternoon without rushing.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cosplayers_%40_Comic_Con_Chile_2026.jpg/3840px-Cosplayers_%40_Comic_Con_Chile_2026.jpg
+  credit: 'Photo: Rjcastillo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cosplayers_@_Comic_Con_Chile_2026.jpg
+  focus:
+    x: 50
+    'y': 50
+    top: 5
+    bottom: 95
 ---
 
 ## What Indonesia Comic Con 2026 actually is

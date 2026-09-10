@@ -5,7 +5,6 @@ country: Indonesia
 region: Bali
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - bali
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if we want to combine this with a beach visit?
     a: Pererenan Beach sits at the end of the same road, making it easy to pair sunset at the beach with dinner at Cocomo afterward. The wider Canggu strip with its beach clubs and shops is also a short scooter or car ride away.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/534410210_7iY0NUgzOtp0zcQ-LNvox-GnG11yIDLq0QXywUC5110.jpg
+  credit: 'Photo: Foursquare user content (Cocomo Canggu)'
+  license: foursquare
+  source: https://foursquare.com/v/59d20006acb00b0e48f5ca49
+  focus:
+    x: 55
+    'y': 45
 ---
 
 Jl. Pantai Pererenan has turned into one of the busiest restaurant strips near Canggu, and Cocomo sits right in the middle of that energy. You'll know you've found it before you read the sign: a flamingo statue several times taller than a person stands out front, pink against the palm trees and motorbike traffic.
