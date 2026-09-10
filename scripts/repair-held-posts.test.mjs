@@ -23,10 +23,12 @@ const NOISY_CRASH = 'node -e "console.log(1); process.exit(2)"';
 // 사본의 작은따옴표 문자열 안으로 들어가므로 백슬래시를 한 겹 더 입힌다.
 const FLAG_REGION = `node -e "console.log(\\\\"REGION-OUTLIER: fixture.md 18 km from the Sai Kung centre\\\\"); process.exit(1)"`;
 
+const FLAG_CLOSED = `node -e "console.log(\\\\"CLOSED-VENUE: fixture.md — CLOSED_TEMPORARILY\\\\"); process.exit(1)"`;
+
 // 스크립트 사본을 임시 저장소(빈 posts 폴더 + fixture 1편)에서 돌린다. 진짜
 // 검사기·수리기·번역기는 전부 가짜 명령으로 바꾼다 — 작은따옴표는 쓰지 않는다
 // (스크립트의 명령 문자열이 작은따옴표라 사본이 SyntaxError 로 죽는다).
-function runWith({ heldReason, region = NOOP, hours = NOOP }) {
+function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP }) {
   const root = mkdtempSync(join(tmpdir(), 'repair-held-'));
   const dir = join(root, 'src', 'content', 'posts');
   mkdirSync(dir, { recursive: true });
@@ -40,6 +42,7 @@ function runWith({ heldReason, region = NOOP, hours = NOOP }) {
     };
     swap('node scripts/audit-hours-claims.mjs --drafts', hours);
     swap('node scripts/audit-region-outliers.mjs --drafts', region);
+    swap('node scripts/audit-closed-venues.mjs --drafts', closed);
     // 사본은 임시 폴더에 있으므로 상대 import 가 풀리지 않는다. 진짜 모듈을 절대
     // 경로로 가리킨다 — 그래야 그 모듈의 node_modules 해석도 함께 산다.
     swap("from './lib/frontmatter-edit.mjs'",
@@ -156,4 +159,31 @@ test('heldFinal 이 적힌 초안은 수리 대상에서 빠진다', () => {
 test('🛑 heldFinal 은 draft 를 건드리지 않는다 — 발행되면 안 된다', () => {
   const marked = `---\ndraft: true\nheldReason: duplicate\nheldFinal: 'x'\n---\n`;
   assert.match(marked, /^draft:\s*true/m);
+});
+
+// ── closed: 2026-09-10 에 재검사 도구가 생겼다 ────────────────────────────
+// 그전까지 closed 는 나갈 길이 없는 사유였다. 검사기는 API 를 쓰지 않고
+// refresh.mjs 가 이미 저장해 둔 businessStatus 를 읽는다. 양방향 둘 다 지킨다:
+// 아직 닫혀 있으면 붙잡고, 다시 열렸으면 그날로 푼다.
+test('closed: 장소가 아직 닫혀 있으면 격리를 유지한다', () => {
+  const r = runWith({ heldReason: 'closed', closed: FLAG_CLOSED });
+  stillHeld(r, 'closed');
+  assert.match(r.out, /closed 결함이 여전함/);
+  assert.doesNotMatch(r.out, /closed 사유는 초안을 재검사할 도구가 없음/);
+});
+
+test('closed: 장소가 다시 열렸으면 해제한다', () => {
+  const r = runWith({ heldReason: 'closed' });
+  assert.match(r.file, /^draft: false$/m, '다시 열렸는데도 격리가 남았다');
+  assert.doesNotMatch(r.file, /^heldReason:/m);
+  assert.match(r.out, /REPAIRED 1 of 1/);
+});
+
+// 게이트가 사유를 따옴표로 적으면(heldReason: 'closed') 조회 키에 따옴표가 섞여
+// 검사기가 있는데도 "재검사할 도구가 없음" 으로 읽혔다 — little-india 가 그렇게
+// 매일 밤 같은 줄을 찍었다(2026-09-10).
+test('따옴표가 붙은 사유도 자기 검사기를 찾는다', () => {
+  const r = runWith({ heldReason: "'closed'", closed: FLAG_CLOSED });
+  assert.match(r.out, /closed 결함이 여전함/);
+  assert.doesNotMatch(r.out, /재검사할 도구가 없음/);
 });

@@ -51,6 +51,12 @@ const runChecked = (cmd) => {
 const CHECKERS = {
   hours: { cmd: 'node scripts/audit-hours-claims.mjs --drafts', pick: /^HOURS-CONTRADICTION:\s*(\S+)\.md/ },
   'wrong-region': { cmd: 'node scripts/audit-region-outliers.mjs --drafts', pick: /^REGION-OUTLIER:\s*(\S+)\.md/ },
+  // closed 는 2026-09-10 에 합류했다. 게이트는 OPERATIONAL 이 아닌 장소를 격리하면서
+  // heldReason: closed 를 적었지만 그 필드를 초안에 대해 다시 읽는 것이 아무것도 없어,
+  // 이 순찰은 매일 밤 '재검사할 도구가 없음' 만 찍었다. refresh.mjs 가 이미 초안까지
+  // businessStatus 를 12주 주기로 갱신해 두므로, 아래 검사기는 그 값을 읽기만 한다 —
+  // 쿼터를 한 번도 쓰지 않고, 장소가 다시 열리면 그날로 격리가 풀린다.
+  closed: { cmd: 'node scripts/audit-closed-venues.mjs --drafts', pick: /^CLOSED-VENUE:\s*(\S+)\.md/ },
 };
 // 여기 실린 명령은 전부 초안을 판정해야 한다. 초안을 건너뛰는 검사기는 "지적 없음"을
 // 돌려주고, 그건 이 순찰에게 "결함이 사라졌다"로 읽혀 격리가 풀린다 — 아래 테스트가
@@ -67,7 +73,11 @@ const CHECKERS = {
 const finalNote = (raw) => (raw.match(/^heldFinal:(.*)$/m)?.[1] ?? '').trim();
 const isFinal = (slug) => finalNote(readFileSync(join(DIR, `${slug}.md`), 'utf8')) !== '';
 
-const reasonsOf = (raw) => (raw.match(/^heldReason:\s*(.+)$/m)?.[1] ?? '').split('+').map((s) => s.trim()).filter(Boolean);
+// 게이트는 어떤 사유는 따옴표로 적고(heldReason: ''closed'') 어떤 사유는 맨몸으로 적는다.
+// 벗기지 않으면 CHECKERS 조회 키가 따옴표째 들어가 아무 항목과도 맞지 않고,
+// 검사기가 있는 사유가 영영 "재검사할 도구가 없음" 으로 읽힌다(2026-09-10).
+const unquote = (s) => String(s).trim().replace(/^['"]|['"]$/g, '').trim();
+const reasonsOf = (raw) => (raw.match(/^heldReason:\s*(.+)$/m)?.[1] ?? '').split('+').map(unquote).filter(Boolean);
 
 // Quarantined posts the hours audit flags. Photo quarantines are NOT touched —
 // they belong to the photo patrol, which has the API keys this script does not.

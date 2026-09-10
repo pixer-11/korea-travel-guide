@@ -755,6 +755,11 @@ jobs:
           # the Hanoi one, a US Independence Day reception on Uzbekistan's. This
           # fails when a new event hero turns up whose filename nobody has read.
           node scripts/audit-event-hero-identity.mjs
+          # A venue Google reports as closed must never be on the site. refresh.mjs
+          # unpublishes one the moment it stops reading OPERATIONAL, so a finding
+          # here means that path failed — not that a shop shut. It spends no quota:
+          # it reads the businessStatus refresh already paid for.
+          node scripts/audit-closed-venues.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
@@ -773,7 +778,8 @@ jobs:
           MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -20 || true)
           HELD=$(node scripts/ko-report.mjs scripts/audit-held-but-published.mjs 2>&1 | head -6 || true)
           TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | head -8 || true)
-          for extra in "$HELD" "$TENSE"; do
+          CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | head -6 || true)
+          for extra in "$HELD" "$TENSE" "$CLOSED"; do
             case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
           done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
