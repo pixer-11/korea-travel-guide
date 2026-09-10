@@ -21,6 +21,7 @@ import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
+import { UPCOMING } from './lib/ended-event-tense.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
@@ -344,6 +345,26 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
      (Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a).length : 0) < data.faq.length
       ? `faq(${Array.isArray(out.faq) ? out.faq.length : 0}/${data.faq.length})`
       : null);
+  // An ended event that still reads as upcoming. The prompt says this plainly
+  // (line ~140) and the model still does it: re-translating 26 such files on
+  // 2026-09-10 put the count UP, 16 to 25, because nothing checked the output.
+  // The sibling defect — the translator ADDING advice to a finished event — has
+  // been gated here since 2026-09-04; the tense itself never was, so the audit
+  // found them every week and the repair pass rewrote them every week.
+  // Same vocabulary the audit uses, so the two cannot drift apart.
+  if (data.ended) {
+    const parts2 = [out.title, out.description, out.quickAnswer, out.body].filter(Boolean);
+    const text2 = parts2.join(String.fromCharCode(10));
+    const upcoming = (UPCOMING[langCode] ?? []).map((re) => (text2.match(new RegExp(re.source, re.flags)) || [])[0]).filter(Boolean);
+    if (upcoming.length) {
+      if (attempt < 3) {
+        console.log(`     ↻ ${langCode}/${srcId} — finished event still reads as upcoming (${upcoming.slice(0, 2).join(', ')}), retrying (attempt ${attempt + 1})`);
+        return translateOne(langCode, srcId, data, hash, attempt + 1);
+      }
+      throw new Error(`finished event still reads as upcoming in ${langCode} after ${attempt} attempts: ${upcoming.slice(0, 3).join(', ')}`);
+    }
+  }
+
   if (!bad && data.ended) {
     const advice = ENDED_ADVICE[langCode];
     const fields = [out.description, out.quickAnswer, ...(Array.isArray(out.faq) ? out.faq.map((f) => `${f?.q} ${f?.a}`) : []), out.body].join('\n');
