@@ -1,130 +1,142 @@
 {
-  "capturedOn": "2026-08-27",
-  "source": "GSC > Indexing > Pages > Export (the API does not expose coverage; this is a hand export)",
-  "throttleStartedOn": "2026-08-27",
-  "note": "Baseline for judging the publish throttle (data/publish-throttle.json) on 2026-09-10. The series is a step function because GSC refreshes coverage every few days, not daily.",
-  "series": [
-    {
-      "date": "2026-07-24",
-      "indexed": 2450,
-      "notIndexed": 2174
-    },
-    {
-      "date": "2026-07-25",
-      "indexed": 5232,
-      "notIndexed": 3607
-    },
-    {
-      "date": "2026-08-06",
-      "indexed": 5226,
-      "notIndexed": 4010
-    },
-    {
-      "date": "2026-08-08",
-      "indexed": 5249,
-      "notIndexed": 4637
-    },
-    {
-      "date": "2026-08-11",
-      "indexed": 5253,
-      "notIndexed": 6288
-    },
-    {
-      "date": "2026-08-15",
-      "indexed": 5248,
-      "notIndexed": 6971
-    },
-    {
-      "date": "2026-08-18",
-      "indexed": 5229,
-      "notIndexed": 7993
-    },
-    {
-      "date": "2026-08-21",
-      "indexed": 5229,
-      "notIndexed": 7993
-    }
-  ],
-  "slopePerDay": {
-    "window": "2026-07-25 .. 2026-08-21 (27 days)",
-    "notIndexed": 162.4,
-    "indexed": -0.11,
-    "reading": "Every page made since 07-25 landed in the not-indexed pile, and the indexed count did not move once in a month. New-page indexation was effectively 0%."
+ "capturedOn": "2026-08-27",
+ "source": "GSC > Indexing > Pages > Export (the API does not expose coverage; this is a hand export)",
+ "throttleStartedOn": "2026-08-27",
+ "note": "Baseline for judging the publish throttle (data/publish-throttle.json) on 2026-09-10. The series is a step function because GSC refreshes coverage every few days, not daily.",
+ "series": [
+  {
+   "date": "2026-07-24",
+   "indexed": 2450,
+   "notIndexed": 2174
   },
-  "latest": {
-    "date": "2026-08-21",
-    "indexed": 5229,
-    "notIndexed": 7993
+  {
+   "date": "2026-07-25",
+   "indexed": 5232,
+   "notIndexed": 3607
   },
-  "verdict": {
-    "judgeOn": "2026-09-10",
-    "primary": "indexed",
-    "why": "notIndexed falling is ambiguous - Google may simply have dropped the pages. The only unambiguous win is the indexed count leaving the 5,232 plateau it has sat on since 07-25.",
-    "thresholds": {
-      "win": "indexed > 5300 - indexation restarted; keep the throttle and raise intake slowly, re-measuring each step",
-      "drainingButNotIndexing": "notIndexed < 7993 while indexed stays flat - Google is clearing the queue without keeping the pages; the pages themselves are the problem, not the queue",
-      "intakeWasNotTheConstraint": "notIndexed near 8343 (7993 + 14 days x 25/day) with indexed flat - our intake fell as designed but Google absorbed nothing, so crawl budget is purely an authority problem and backlinks are the only lever left; restore publish-throttle.json",
-      "throttleNotApplied": "notIndexed above 10000 - that is the old ~162/day slope continuing; check that the throttle actually took effect before drawing any conclusion",
-      "backfired": "crawl requests fell further after 2026-08-27 - the throttle cost us freshness signal without draining the queue; restore publish-throttle.json immediately. This axis exists because the first four thresholds could only say \"no better\", never \"we made it worse\"."
-    },
-    "alsoCheckOn0910": "GSC > Settings > Crawl stats: is the daily request line lower than it was on 08-27? Read it BEFORE the coverage numbers - a throttle that suppressed crawling further is a loss no coverage reading can offset."
+  {
+   "date": "2026-08-06",
+   "indexed": 5226,
+   "notIndexed": 4010
   },
-  "crawlStats": {
-    "capturedOn": "2026-08-27",
-    "source": "GSC > Settings > Crawl stats (90-day view, hand-read from the screen)",
-    "totalRequests90d": 51841,
-    "byHost": {
-      "wanderatlasguides.com": 40397,
-      "www.wanderatlasguides.com": 11444
-    },
-    "avgResponseMs": 134,
-    "shape": "Peaked ~10,500/day around 07-24, collapsed by 08-05, and has sat near zero since 08-10.",
-    "whyItMatters": [
-      "The crawl collapse PRECEDES the publishing surge (41/65/41 posts on 08-11..13), so \"we buried Google in URLs\" cannot be the cause. This is evidence AGAINST the throttle hypothesis, recorded before the throttle could be credited with anything.",
-      "22% of a nearly-exhausted crawl budget goes to the www host, which only redirects to the apex.",
-      "Response time 134ms - the server is not the constraint."
-    ]
+  {
+   "date": "2026-08-08",
+   "indexed": 5249,
+   "notIndexed": 4637
   },
-  "crawlStatsObserved": {
-    "capturedOn": "2026-09-09",
-    "source": "GSC > Settings > Crawl stats > Export (zip), read by the owner and parsed here",
-    "totalRequests90d": 52877,
-    "byHost": {
-      "wanderatlasguides.com": 41415,
-      "www.wanderatlasguides.com": 11462
-    },
-    "avgResponseMs": 134,
-    "dailyRequests": {
-      "2026-07-21..31": 3657,
-      "2026-08-01..12": 784,
-      "2026-08-13..26 (immediately before the throttle)": 162,
-      "2026-08-27..09-07 (under the throttle)": 81
-    },
-    "verdictAxis": "backfired",
-    "reading": "Requests per day halved after the throttle started. The pre-registered rule says to read this axis BEFORE the coverage numbers and that a throttle which suppressed crawling further is a loss no coverage reading can offset. Note the honest caveat: crawl was already in free-fall before 08-27 (3657 -> 784 -> 162), so the halving may be continuation rather than consequence. The rule was written to decide under exactly this ambiguity, and it decides: restore."
+  {
+   "date": "2026-08-11",
+   "indexed": 5253,
+   "notIndexed": 6288
   },
-  "coverageObserved0909": {
-    "note": "GSC had not refreshed coverage since 2026-08-29; the export's series is flat to 09-04.",
-    "indexed": 5207,
-    "notIndexed": 9549,
-    "discoveredNotIndexed": 6544,
-    "baselineDiscoveredNotIndexed": 5036,
-    "otherReasons": {
-      "redirect": 1883,
-      "alternateWithCanonical": 840,
-      "notFound404": 164,
-      "noindexTag": 81,
-      "crawledNotIndexed": 19,
-      "duplicateGoogleChoseOther": 18
-    },
-    "reading": "The bucket the rule keys on grew 30% (5,036 -> 6,544) and indexed slipped 5,229 -> 5,207, which is the 'intakeWasNotTheConstraint' threshold."
+  {
+   "date": "2026-08-15",
+   "indexed": 5248,
+   "notIndexed": 6971
   },
-  "decision0909": {
-    "decidedOn": "2026-09-09",
-    "decision": "restore publish-throttle.json (postsPerRun 5 -> 16, backfill 0 -> 25 = the ramp's first step)",
-    "byWhichRule": "backfired + intakeWasNotTheConstraint, both pre-registered 2026-08-28",
-    "throttleWasApplied": "yes - 5 posts/day since 09-01, verified from pubDates",
-    "nextRevisit": "2026-10-07; the number to watch is Googlebot requests/day (81 today, 162 before the throttle)",
-    "whatIsLeft": "Google fetches 81 pages a day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority, and backlinks are the lever."
+  {
+   "date": "2026-08-18",
+   "indexed": 5229,
+   "notIndexed": 7993
+  },
+  {
+   "date": "2026-08-21",
+   "indexed": 5229,
+   "notIndexed": 7993
   }
+ ],
+ "slopePerDay": {
+  "window": "2026-07-25 .. 2026-08-21 (27 days)",
+  "notIndexed": 162.4,
+  "indexed": -0.11,
+  "reading": "Every page made since 07-25 landed in the not-indexed pile, and the indexed count did not move once in a month. New-page indexation was effectively 0%."
+ },
+ "latest": {
+  "date": "2026-08-21",
+  "indexed": 5229,
+  "notIndexed": 7993
+ },
+ "verdict": {
+  "judgeOn": "2026-09-10",
+  "primary": "indexed",
+  "why": "notIndexed falling is ambiguous - Google may simply have dropped the pages. The only unambiguous win is the indexed count leaving the 5,232 plateau it has sat on since 07-25.",
+  "thresholds": {
+   "win": "indexed > 5300 - indexation restarted; keep the throttle and raise intake slowly, re-measuring each step",
+   "drainingButNotIndexing": "notIndexed < 7993 while indexed stays flat - Google is clearing the queue without keeping the pages; the pages themselves are the problem, not the queue",
+   "intakeWasNotTheConstraint": "notIndexed near 8343 (7993 + 14 days x 25/day) with indexed flat - our intake fell as designed but Google absorbed nothing, so crawl budget is purely an authority problem and backlinks are the only lever left; restore publish-throttle.json",
+   "throttleNotApplied": "notIndexed above 10000 - that is the old ~162/day slope continuing; check that the throttle actually took effect before drawing any conclusion",
+   "backfired": "crawl requests fell further after 2026-08-27 - the throttle cost us freshness signal without draining the queue; restore publish-throttle.json immediately. This axis exists because the first four thresholds could only say \"no better\", never \"we made it worse\"."
+  },
+  "alsoCheckOn0910": "GSC > Settings > Crawl stats: is the daily request line lower than it was on 08-27? Read it BEFORE the coverage numbers - a throttle that suppressed crawling further is a loss no coverage reading can offset.",
+  "judgedOn": "2026-09-10",
+  "judgedKey": "backfired",
+  "judgedHow": {
+   "axisRead": "crawl stats first, as the pre-registered rule requires",
+   "crawlEvidence": "Googlebot requests/day 3,657 (07-21..31) -> 784 -> 162 (immediately before the throttle) -> 81 (under it). Halved again after the throttle started, which is the backfired condition verbatim.",
+   "coverageEvidence": "discovered-not-indexed 5,036 -> 6,544 (+30%) and indexed 5,229 -> 5,207. That is the intakeWasNotTheConstraint threshold, so the two axes agree.",
+   "coverageCaveat": "The 09-09 export carries data only to 2026-09-04, which is BEFORE judgeOn, so judge() correctly returns tooEarly on the coverage axis alone. GSC coverage lags several days and cannot reach the verdict date on the verdict date. The decision does not rest on it: the crawl axis was pre-registered as decisive and is read first.",
+   "actionTaken": "2026-09-09 - publish-throttle.json restored to postsPerRun 16 / backfillPerRun 25 (the ramp re-entered by hand at its first step, not -1). Verified live: 16 posts published 2026-09-09, backfill ran.",
+   "whatIsLeft": "Google fetches ~81 pages/day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority: 2 referring domains, 1 of them nofollow (measured 2026-09-09)."
+  },
+  "recheckCoverageAfter": "2026-09-17",
+  "recheckWhy": "Confirm the coverage axis once GSC data actually covers the verdict window. This changes no decision already taken; it only closes the record."
+ },
+ "crawlStats": {
+  "capturedOn": "2026-08-27",
+  "source": "GSC > Settings > Crawl stats (90-day view, hand-read from the screen)",
+  "totalRequests90d": 51841,
+  "byHost": {
+   "wanderatlasguides.com": 40397,
+   "www.wanderatlasguides.com": 11444
+  },
+  "avgResponseMs": 134,
+  "shape": "Peaked ~10,500/day around 07-24, collapsed by 08-05, and has sat near zero since 08-10.",
+  "whyItMatters": [
+   "The crawl collapse PRECEDES the publishing surge (41/65/41 posts on 08-11..13), so \"we buried Google in URLs\" cannot be the cause. This is evidence AGAINST the throttle hypothesis, recorded before the throttle could be credited with anything.",
+   "22% of a nearly-exhausted crawl budget goes to the www host, which only redirects to the apex.",
+   "Response time 134ms - the server is not the constraint."
+  ]
+ },
+ "crawlStatsObserved": {
+  "capturedOn": "2026-09-09",
+  "source": "GSC > Settings > Crawl stats > Export (zip), read by the owner and parsed here",
+  "totalRequests90d": 52877,
+  "byHost": {
+   "wanderatlasguides.com": 41415,
+   "www.wanderatlasguides.com": 11462
+  },
+  "avgResponseMs": 134,
+  "dailyRequests": {
+   "2026-07-21..31": 3657,
+   "2026-08-01..12": 784,
+   "2026-08-13..26 (immediately before the throttle)": 162,
+   "2026-08-27..09-07 (under the throttle)": 81
+  },
+  "verdictAxis": "backfired",
+  "reading": "Requests per day halved after the throttle started. The pre-registered rule says to read this axis BEFORE the coverage numbers and that a throttle which suppressed crawling further is a loss no coverage reading can offset. Note the honest caveat: crawl was already in free-fall before 08-27 (3657 -> 784 -> 162), so the halving may be continuation rather than consequence. The rule was written to decide under exactly this ambiguity, and it decides: restore."
+ },
+ "coverageObserved0909": {
+  "note": "GSC had not refreshed coverage since 2026-08-29; the export's series is flat to 09-04.",
+  "indexed": 5207,
+  "notIndexed": 9549,
+  "discoveredNotIndexed": 6544,
+  "baselineDiscoveredNotIndexed": 5036,
+  "otherReasons": {
+   "redirect": 1883,
+   "alternateWithCanonical": 840,
+   "notFound404": 164,
+   "noindexTag": 81,
+   "crawledNotIndexed": 19,
+   "duplicateGoogleChoseOther": 18
+  },
+  "reading": "The bucket the rule keys on grew 30% (5,036 -> 6,544) and indexed slipped 5,229 -> 5,207, which is the 'intakeWasNotTheConstraint' threshold."
+ },
+ "decision0909": {
+  "decidedOn": "2026-09-09",
+  "decision": "restore publish-throttle.json (postsPerRun 5 -> 16, backfill 0 -> 25 = the ramp's first step)",
+  "byWhichRule": "backfired + intakeWasNotTheConstraint, both pre-registered 2026-08-28",
+  "throttleWasApplied": "yes - 5 posts/day since 09-01, verified from pubDates",
+  "nextRevisit": "2026-10-07; the number to watch is Googlebot requests/day (81 today, 162 before the throttle)",
+  "whatIsLeft": "Google fetches 81 pages a day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority, and backlinks are the lever."
+ }
 }
