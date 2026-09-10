@@ -17017,11 +17017,11 @@
   "at": "2026-08-15T12:02:17.422Z"
  },
  "zh/daegu-nazar-kebab": {
-  "hash": "a8316c57fc28",
+  "hash": "9e8e0f485d6e",
   "score": 1,
   "registerBreak": false,
-  "worst": "和大多数独立经营的餐厅一样，节假日的营业时间可能会有所调整，因此在专程前往之前，最好先在网上确认当前的营业时间",
-  "at": "2026-08-15T03:48:46.193Z"
+  "worst": "和大多数独立经营的餐厅一样，节假日的营业时间可能会有变动，尤其是农历新年或中秋节前后，特意前往之前最好先上网确认一下当前的营业时间。",
+  "at": "2026-09-10T07:58:34.049Z"
  },
  "zh/da-nang-an-thoi": {
   "hash": "e413615d624b",
@@ -18823,7 +18823,7 @@
   "at": "2026-08-15T06:59:15.656Z"
  },
  "zh/milan-yapa": {
-  "hash": "5dad3c24f3e8",
+  "hash": "cade52f7b50c",
   "score": 1,
   "registerBreak": false,
   "worst": "这是一条位于市中心东南方、绿树成荫的宽阔住宅区道路，比起标榜美食创意，这里更以日常的家常餐馆闻名",
@@ -19523,7 +19523,7 @@
   "at": "2026-08-15T04:10:12.993Z"
  },
  "zh/philadelphia-independence-national-historical-park": {
-  "hash": "de7036975195",
+  "hash": "95f8018ed28c",
   "score": 1,
   "registerBreak": false,
   "worst": "这里是领取独立厅当日限时门票的地方——门票为必需项、免费,但很快就会被领光。",
@@ -26313,11 +26313,11 @@
   "at": "2026-08-31T12:56:27.348Z"
  },
  "zh/austin-museum-of-the-weird": {
-  "hash": "1daba795fb32",
+  "hash": "2873baf0fc4c",
   "score": 1,
   "registerBreak": false,
-  "worst": "这类藏品放在一百年前，本该巡回展出于各郡集市，如今却被牢牢固定在奥斯汀一间狭长的店面里。",
-  "at": "2026-08-28T19:39:19.938Z"
+  "worst": "这里一半是复古嘉年华怪咖秀，一半是猎奇珍藏柜，而它自己心知肚明，从不掩饰这一点。",
+  "at": "2026-09-10T07:58:30.003Z"
  },
  "zh/avignon-place-du-palais": {
   "hash": "ce3bd8701783",
@@ -28362,5 +28362,68 @@
   "registerBreak": false,
   "worst": "或是斯拉斯浪那些更出名的“邻居”景点。",
   "at": "2026-09-09T14:41:58.607Z"
+ },
+ "zh/chiayi-chiayi-cheng-huang-temple": {
+  "hash": "84c91ebf5f46",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这份\"治理者\"的身份也塑造了整座建筑的格局：多重的祖先厅堂、如公堂一般的主祭坛",
+  "at": "2026-09-10T07:58:32.100Z"
+ },
+ "es/austin-blanton-museum-of-art": {
+  "hash": "c7911f3d9d6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En realidad, el Blanton son dos sitios distintos: el museo principal...",
+  "at": "2026-09-10T07:58:40.673Z"
+ },
+ "es/bhubaneswar-odisha-state-museum": {
+  "hash": "53c906d36554",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El complejo se puede alcanzar caminando desde la zona de Kalpana Square, en Bhubanes",
+  "at": "2026-09-10T08:00:28.598Z"
+ },
+ "es/colmar-parc-saint-francois-xavier": {
+  "hash": "0962caf935fb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Quienes lo descubren suelen alojarse cerca, más que estar siguiendo una recomendación de guía turística.",
+  "at": "2026-09-10T07:58:55.256Z"
+ },
+ "ja/austin-blanton-museum-of-art": {
+  "hash": "a08a47e1dc12",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "平日の午前中は、学生団体や学校の見学ツアーが来る午後より前は比較的静かな傾向がありますが、これをさらに裏付ける公表データはありません。",
+  "at": "2026-09-10T08:00:32.100Z"
+ },
+ "ja/bhubaneswar-odisha-state-museum": {
+  "hash": "622dbfa44a97",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑がある一時間帯に集中せず終日続く週末を避け、平日に訪れるほうが得策です。",
+  "at": "2026-09-10T07:59:08.007Z"
+ },
+ "ja/colmar-parc-saint-francois-xavier": {
+  "hash": "2e3405cda6f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "週末の混雑状況も把握されています。",
+  "at": "2026-09-10T07:59:13.377Z"
+ },
+ "ko/bhubaneswar-odisha-state-museum": {
+  "hash": "38028114665e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "평일 오전 10시 개관 시각에 맞춰 도착하면, 나중에 단체 관광객과 학생 무리가 몰리기 전에 한산한 복도를 즐길 수 있는 가장 좋은 기회를 잡을 수 있습니다.",
+  "at": "2026-09-10T07:59:29.576Z"
+ },
+ "ko/colmar-parc-saint-francois-xavier": {
+  "hash": "63493794e3d6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "특별한 대표 명소가 없는 공원인데도 리뷰 215개에서 평균 4.5점을 받은 것은 상당히 높은 수치입니다.",
+  "at": "2026-09-10T07:59:31.663Z"
  }
 }

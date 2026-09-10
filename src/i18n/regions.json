@@ -8546,5 +8546,81 @@
       "getting": "几乎所有游客都会经苏加诺-哈达国际机场(CGK)抵达,这里是印尼主要的国际门户,而机场本身就位于丹格朗境内。从雅加达市中心出发,也可以乘坐通勤铁路丹格朗线(Tangerang Line)直达丹格朗车站,或经首都西部地区的公路前往。",
       "days": "一天时间足以游览丹格朗的老城区、沿河景点和各大商场,使其更适合作为航班前后的短暂停留地,而非停留数日的旅行据点。"
     }
+  },
+  "Bacolod": {
+    "en": {
+      "blurb": "Bacolod, the \"City of Smiles,\" is best known for its riotous MassKara Festival each October, when the streets fill with grinning masks, street dancing and parades. It's also the capital of Negros Occidental, a region built on sugar, and a reliable base for sampling smoky chicken inasal and exploring the island's colonial-era haciendas.",
+      "getting": "Most travellers fly into Bacolod-Silay International Airport (BCD), located about 15km northeast of the city centre in Silay; flights connect from Manila and other domestic hubs in ~45 minutes. From the airport, taxis and buses run into central Bacolod, and ride-hailing apps like Grab also operate in the city.",
+      "days": "Plan on ~2 to 3 days to cover the city's food scene, heritage sites and museums, or extend your stay around early to mid October if you want to catch the MassKara Festival itself."
+    },
+    "ko": {
+      "blurb": "\"미소의 도시\"라 불리는 바콜로드는 매년 10월 열리는 흥겨운 매스카라 축제(MassKara Festival)로 가장 잘 알려져 있습니다. 이 시기가 되면 거리마다 활짝 웃는 가면과 거리 퍼레이드, 춤 행렬로 활기가 넘칩니다. 네그로스 옥시덴탈(Negros Occidental) 주의 주도이기도 한 바콜로드는 사탕수수 산업으로 발전한 도시로, 훈제 향 가득한 치킨 이나사이(inasal)를 맛보거나 섬 곳곳에 남아 있는 식민지 시대 대저택(hacienda)들을 둘러보기에 더할 나위 없는 거점입니다.\",\"getting\":\"대부분의 여행객은 바콜로드-실라이 국제공항(Bacolod-Silay International Airport, BCD)을 통해 입국합니다. 공항은 실라이 지역, 시내에서 북동쪽으로 약 15km 떨어진 곳에 위치해 있으며, 마닐라를 비롯한 필리핀 국내 주요 도시에서 약 45분이면 도착합니다. 공항에서는 택시나 버스를 이용해 바콜로드 시내로 이동할 수 있고, 그랩(Grab) 같은 차량 호출 앱도 시내에서 이용 가능합니다.",
+      "getting": "대부분의 여행객은 바콜로드-실라이 국제공항(Bacolod-Silay International Airport, BCD)을 통해 입국합니다. 공항은 실라이 지역, 시내에서 북동쪽으로 약 15km 떨어진 곳에 위치해 있으며, 마닐라를 비롯한 필리핀 국내 주요 도시에서 약 45분이면 도착합니다. 공항에서는 택시나 버스를 이용해 바콜로드 시내로 이동할 수 있고, 그랩(Grab) 같은 차량 호출 앱도 시내에서 이용 가능합니다.",
+      "days": "도시의 다양한 먹거리와 유적지, 박물관을 둘러보려면 약 2~3일 정도가 적당하며, 매스카라 축제를 직접 체험하고 싶다면 10월 초에서 중순 사이로 일정을 늘려 잡는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "「微笑みの街」として知られるバコロドは、毎年10月に開催される陽気なマスカラ・フェスティバルで特に有名です。この時期、街は満面の笑みを浮かべたマスクや路上ダンス、パレードで埋め尽くされます。バコロドは砂糖産業で栄えたネグロス・オクシデンタル州の州都でもあり、香ばしい鶏の炭火焼き「イナサル」を味わったり、島に残る植民地時代のハシエンダ(大農園邸宅)を巡ったりする際の拠点としても頼りになる街です。",
+      "getting": "多くの旅行者はバコロド・シライ国際空港(BCD)を利用します。空港は市中心部から北東へ約15kmのシライ市に位置し、マニラをはじめとする国内主要都市から約45分のフライトで結ばれています。空港からバコロド中心部へはタクシーやバスが運行しており、市内ではGrabなどの配車アプリも利用できます。",
+      "days": "街のグルメ、史跡、博物館を巡るには2~3日ほど見ておくとよいでしょう。マスカラ・フェスティバル本番を体験したい場合は、10月上旬から中旬にかけて滞在を延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Bacolod, la \"Ciudad de las Sonrisas\", es conocida sobre todo por su animadísimo Festival MassKara, que se celebra cada octubre, cuando las calles se llenan de máscaras sonrientes, bailes callejeros y desfiles. Es también la capital de Negros Occidental, una región forjada en torno al azúcar, y un punto de partida ideal para probar el humeante pollo inasal y explorar las haciendas de la época colonial que salpican la isla.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Bacolod-Silay (BCD), situado a unos 15 km al noreste del centro de la ciudad, en Silay; hay vuelos que conectan con Manila y otros centros nacionales en aproximadamente 45 minutos. Desde el aeropuerto, taxis y autobuses llevan hasta el centro de Bacolod, y en la ciudad también operan aplicaciones de transporte como Grab.",
+      "days": "Conviene reservar entre 2 y 3 días para disfrutar de la oferta gastronómica, los sitios históricos y los museos de la ciudad, o prolongar la estancia entre principios y mediados de octubre si se quiere vivir el Festival MassKara en primera persona."
+    },
+    "zh": {
+      "blurb": "describes here",
+      "getting": "describes here",
+      "days": "describes here"
+    }
+  },
+  "Pasay": {
+    "en": {
+      "blurb": "Pasay, on the shores of Manila Bay just south of central Manila, is best known as the site of the country's main international airport and the sprawling SM Mall of Asia entertainment strip. Its streets mix high rise casinos and convention centres with the market chaos of Baclaran, one of Metro Manila's busiest bargain shopping districts.",
+      "getting": "Most visitors arrive via Ninoy Aquino International Airport (NAIA, MNL), which sits directly on the border between Pasay and Parañaque and functions as the country's main gateway. Within the city, LRT Line 1 calls at four Pasay stations including Baclaran and EDSA, while MRT Line 3 terminates at Taft Avenue, giving onward access to the rest of Metro Manila.",
+      "days": "Most travellers pass through for ~1-2 days, enough to clear the airport, dip into the malls or Baclaran market, and connect onward by rail or bus to the wider capital."
+    },
+    "ko": {
+      "blurb": "마닐라만 연안, 마닐라 중심부 바로 남쪽에 자리한 파사이는 필리핀의 관문인 국제공항과 광활한 SM 몰 오브 아시아 엔터테인먼트 지구로 가장 잘 알려진 곳이다. 고층 카지노와 컨벤션 센터가 들어선 거리 한편에는 메트로 마닐라에서 손꼽히게 붐비는 재래시장, 바클라란의 활기찬 흥정 문화가 뒤섞여 있다.",
+      "getting": "대부분의 여행자는 니노이 아키노 국제공항(NAIA, MNL)을 통해 이곳에 도착한다. 파사이와 파라냐케의 경계에 자리한 이 공항은 필리핀의 주요 관문 역할을 한다. 시내에서는 LRT 1호선이 바클라란과 에드사(EDSA)를 포함한 파사이 내 4개 역에 정차하며, MRT 3호선은 탑트 애비뉴(Taft Avenue)에서 종착해 메트로 마닐라 곳곳으로 이동할 수 있다.",
+      "days": "대부분의 여행자는 1~2일 정도 머물며 공항 수속을 마치고 쇼핑몰이나 바클라란 시장을 둘러본 뒤, 철도나 버스를 이용해 수도권 다른 지역으로 이동한다."
+    },
+    "ja": {
+      "blurb": "パサイは、マニラ中心部のすぐ南、マニラ湾沿いに広がる街で、フィリピン最大の国際空港と、広大なエンターテインメント地区「SMモール・オブ・エイジア」があることで知られています。高層のカジノやコンベンションセンターが並ぶ街並みは、メトロマニラでも有数の賑わいを見せる格安ショッピングエリア、バクララの市場のカオスとも隣り合っています。",
+      "getting": "多くの旅行者はニノイ・アキノ国際空港(NAIA、空港コード:MNL)を利用して訪れます。この空港はパサイとパラニャーケの境界にまたがる位置にあり、フィリピンの主要な玄関口として機能しています。市内では、LRT1号線がバクラランやEDSAを含むパサイ内の4つの駅に停車し、MRT3号線はタフト・アベニュー駅が終点となっていて、そこからメトロマニラの他の地域へアクセスできます。",
+      "days": "多くの旅行者はここに1~2日程度滞在します。空港での手続きを済ませ、モールやバクララン市場を軽く覗き、鉄道やバスで首都圏の他エリアへ移動するには十分な時間です。"
+    },
+    "es": {
+      "blurb": "Pasay, a orillas de la bahía de Manila, justo al sur del centro de Manila, es conocida sobre todo por albergar el principal aeropuerto internacional del país y la extensa franja de entretenimiento del SM Mall of Asia. Sus calles combinan casinos de gran altura y centros de convenciones con el bullicio comercial de Baclaran, uno de los distritos de compras económicas más concurridos de todo el Metro Manila.",
+      "getting": "La mayoría de los visitantes llega a través del Aeropuerto Internacional Ninoy Aquino (NAIA, MNL), ubicado justo en el límite entre Pasay y Parañaque, que funciona como la principal puerta de entrada al país. Dentro de la ciudad, la Línea 1 del LRT tiene cuatro estaciones en Pasay, entre ellas Baclaran y EDSA, mientras que la Línea 3 del MRT termina en Taft Avenue, lo que permite conectar con el resto de Metro Manila.",
+      "days": "La mayoría de los viajeros pasan por aquí entre 1 y 2 días, tiempo suficiente para hacer los trámites del aeropuerto, darse una vuelta por los centros comerciales o el mercado de Baclaran, y continuar viaje en tren o autobús hacia el resto de la capital."
+    },
+    "zh": {
+      "blurb": "帕塞（Pasay）位于马尼拉湾畔，紧邻马尼拉市中心南侧，最广为人知的是这里坐落着菲律宾主要的国际机场，以及占地广阔的SM亚洲购物中心娱乐街区。城内街道景致交融——高楼林立的赌场、会展中心，与巴克拉兰（Baclaran）熙攘喧闹的市场并存，后者正是大马尼拉地区最热闹的平价购物区之一。",
+      "getting": "大多数游客经尼诺伊·阿基诺国际机场（NAIA，MNL）抵达，该机场恰好位于帕塞与帕拉纳克（Parañaque）交界处，是菲律宾的主要空中门户。市内交通方面，LRT一号线在帕塞设有四个站点，包括巴克拉兰站和EDSA站；MRT三号线则以塔夫脉大道站（Taft Avenue）为终点，方便换乘前往大马尼拉其他地区。",
+      "days": "大多数旅客在此停留约1至2天，足以通关机场、逛逛商场或巴克拉兰市场，再转乘铁路或巴士前往首都其他地区。"
+    }
+  },
+  "Zamboanga City": {
+    "en": {
+      "blurb": "Zamboanga City sits on the southwestern tip of the Zamboanga Peninsula in Mindanao, where it is affectionately known as \"Asia's Latin City\" for its Hispanic-rooted Chavacano creole and blended Spanish, Muslim and indigenous heritage. It is also a major seaport and commercial hub, serving as the gateway to nearby islands and the Sulu Archipelago.",
+      "getting": "Most travellers arrive by air at Zamboanga International Airport (ZAM), which handles domestic flights only, chiefly from Manila (~1h45m) and Cebu on carriers such as Cebu Pacific and Philippine Airlines. There is no rail service to the city, so onward or alternative travel to surrounding islands and provinces is typically by ferry from Zamboanga's busy seaport.",
+      "days": "Plan on ~2 to 3 days, enough time to see Fort Pilar and Paseo del Mar in the city and take a day trip out to the pink sand beach of Great Santa Cruz Island."
+    },
+    "ja": {
+      "blurb": "ザンボアンガ市は、ミンダナオ島ザンボアンガ半島の南西端に位置する都市です。スペイン語をルーツに持つチャバカノ語というクレオール言語が話され、スペイン、イスラム、そして先住民の文化が融合していることから、「アジアのラテン都市」として親しまれています。また周辺の島々やスールー諸島への玄関口として機能する、主要な港湾都市・商業拠点でもあります。",
+      "getting": "多くの旅行者はザンボアンガ国際空港(ZAM)から空路で訪れます。同空港は国内線のみが発着し、主にマニラ(所要約1時間45分)やセブからセブパシフィック航空やフィリピン航空などが就航しています。市内には鉄道がないため、周辺の島々や州へさらに足を延ばす場合は、ザンボアンガの活気ある港からフェリーを利用するのが一般的です。",
+      "days": "滞在日数の目安は2~3日です。市内のフォート・ピラールやパセオ・デル・マールを見学し、さらにピンク色の砂浜で知られるグレート・サンタクルス島への日帰り旅行も楽しめる長さです。"
+    },
+    "es": {
+      "blurb": "La ciudad de Zamboanga se encuentra en la punta suroeste de la península de Zamboanga, en Mindanao, donde se la conoce cariñosamente como la \"Ciudad Latina de Asia\" por su criollo chabacano de raíces hispánicas y su mezcla de herencia española, musulmana e indígena. Es además un importante puerto marítimo y centro comercial, que sirve de puerta de entrada a las islas vecinas y al archipiélago de Joló (Sulu).",
+      "getting": "La mayoría de los viajeros llega por vía aérea al Aeropuerto Internacional de Zamboanga (ZAM), que solo opera vuelos domésticos, principalmente desde Manila (~1h45) y Cebú, con aerolíneas como Cebu Pacific y Philippine Airlines. La ciudad no cuenta con servicio ferroviario, por lo que para continuar el viaje hacia las islas y provincias circundantes lo habitual es tomar un ferry desde el concurrido puerto marítimo de Zamboanga.",
+      "days": "Se recomienda reservar entre 2 y 3 días, tiempo suficiente para conocer el Fuerte Pilar y el Paseo del Mar en la ciudad, además de hacer una excursión de un día a la playa de arena rosa de la isla Great Santa Cruz."
+    },
+    "zh": {
+      "blurb": "三宝颜市位于棉兰老岛三宝颜半岛的西南端，因其融合了西班牙、穆斯林与本土文化、并孕育出带有西班牙语根源的查瓦卡诺克里奥尔语而被亲切地称为“亚洲的拉丁之城”。同时，它也是重要的海港和商业枢纽，是通往周边岛屿及苏禄群岛的门户。",
+      "getting": "大多数旅客通过三宝颜国际机场（ZAM）抵达，该机场仅提供国内航班，主要来自马尼拉（约1小时45分钟）和宿务，由宿务太平洋航空、菲律宾航空等航空公司运营。当地没有铁路服务，因此前往周边岛屿和省份通常需要从三宝颜繁忙的海港乘坐渡轮。",
+      "days": "建议安排2到3天的行程，足以游览市内的比拉尔堡和滨海大道（Paseo del Mar），并可安排一日游前往拥有粉色沙滩的大圣克鲁斯岛。"
+    }
   }
 }

@@ -17689,5 +17689,113 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Interior showing EXHIBITS sign, plausible museum entrance",
     "at": "2026-09-09T22:04:40.199Z"
+  },
+  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
+    "slug": "lombok-mount-rinjani-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Green valley landscape consistent with Mount Rinjani National Park",
+    "at": "2026-09-10T07:37:29.458Z"
+  },
+  "mong-kok-lingnan-garden\u0001https://upload.wikimedia.org/wikipedia/commons/9/9d/Lai_Chi_Kok_Park%2C_Lingnan_Garden%2C_Chess_Board_%28Hong_Kong%29.jpg": {
+    "slug": "mong-kok-lingnan-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinese garden courtyard with pavilion, plausible Lingnan Garden view",
+    "at": "2026-09-10T07:38:08.413Z"
+  },
+  "nashville-two-rivers-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Two_Rivers_Mansion_%28Nashville%2C_Tennessee%29.JPG": {
+    "slug": "nashville-two-rivers-mansion",
+    "verdict": "MATCH",
+    "reason": "publish gate: Full mansion exterior view, representative of the venue",
+    "at": "2026-09-10T07:39:08.745Z"
+  },
+  "portland-the-grotto\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg": {
+    "slug": "portland-the-grotto",
+    "verdict": "MATCH",
+    "reason": "publish gate: Mosaic shrine at The Grotto, representative of venue",
+    "at": "2026-09-10T07:39:51.754Z"
+  },
+  "colmar-vieille-ville-de-colmar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG": {
+    "slug": "colmar-vieille-ville-de-colmar",
+    "verdict": "MATCH",
+    "reason": "publish gate: Nighttime canal scene plausible for Colmar's old town",
+    "at": "2026-09-10T07:41:01.680Z"
+  },
+  "nashville-cheekwood\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/WTN_PeepHoles_082.JPG/1920px-WTN_PeepHoles_082.JPG": {
+    "slug": "nashville-cheekwood",
+    "verdict": "MATCH",
+    "reason": "publish gate: Historic mansion building at Cheekwood estate, representative exterior view",
+    "at": "2026-09-10T07:41:57.153Z"
+  },
+  "portland-crystal-springs-rhododendron-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhody_Garden_Lake.JPG/1920px-Rhody_Garden_Lake.JPG": {
+    "slug": "portland-crystal-springs-rhododendron-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Garden with pond, rhododendrons and bridge, representative view",
+    "at": "2026-09-10T07:43:11.930Z"
+  },
+  "colmar-parc-saint-francois-xavier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Parc_Saint_Fran%C3%A7ois-Xavier_%28Colmar%29_%282%29.JPG/3840px-Parc_Saint_Fran%C3%A7ois-Xavier_%28Colmar%29_%282%29.JPG": {
+    "slug": "colmar-parc-saint-francois-xavier",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park lawn with benches and building, matches venue type",
+    "at": "2026-09-10T07:44:30.163Z"
+  },
+  "philadelphia-philadelphia-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/PhiladelphiaMuseumOfArt2017.jpg/1920px-PhiladelphiaMuseumOfArt2017.jpg": {
+    "slug": "philadelphia-philadelphia-museum-of-art",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic exterior view of Philadelphia Museum of Art building",
+    "at": "2026-09-10T07:45:27.142Z"
+  },
+  "austin-blanton-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg/1920px-Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg": {
+    "slug": "austin-blanton-museum-of-art",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic canopy structure with museum sign, exterior view",
+    "at": "2026-09-10T07:46:19.533Z"
+  },
+  "santiago-de-compostela-museo-de-historia-natural-usc\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Museo_de_Historia_Natural_%281%29.jpg/3840px-Museo_de_Historia_Natural_%281%29.jpg": {
+    "slug": "santiago-de-compostela-museo-de-historia-natural-usc",
+    "verdict": "MATCH",
+    "reason": "publish gate: Museum diorama exhibit with taxidermy animals, representative interior",
+    "at": "2026-09-10T07:47:44.935Z"
+  },
+  "cordoba-templo-romano\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/C%C3%B3rdoba_-_Templo_romano_K01.jpg": {
+    "slug": "cordoba-templo-romano",
+    "verdict": "MATCH",
+    "reason": "publish gate: Roman temple columns in Cordoba, representative view",
+    "at": "2026-09-10T07:48:34.795Z"
+  },
+  "tokyo-zojo-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Z%C5%8Dj%C5%8D-ji_20241021.jpg/1920px-Z%C5%8Dj%C5%8D-ji_20241021.jpg": {
+    "slug": "tokyo-zojo-ji",
+    "verdict": "MATCH",
+    "reason": "publish gate: Recognizable main gate of Zojo-ji temple shown clearly",
+    "at": "2026-09-10T07:49:21.490Z"
+  },
+  "sokcho-seoraksan-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Seoraksan_National_Park_panorama_7.jpg/1920px-Seoraksan_National_Park_panorama_7.jpg": {
+    "slug": "sokcho-seoraksan-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Granite peaks match Seoraksan's iconic rocky landscape",
+    "at": "2026-09-10T07:50:26.615Z"
+  },
+  "verona-castelvecchio-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Verona%2C_castelvecchio%2C_museo_01.jpg/1920px-Verona%2C_castelvecchio%2C_museo_01.jpg": {
+    "slug": "verona-castelvecchio-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Castelvecchio Museum courtyard and building",
+    "at": "2026-09-10T07:51:09.487Z"
+  },
+  "bhubaneswar-odisha-state-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bhubaneswar_State_Museum.jpg/1920px-Bhubaneswar_State_Museum.jpg": {
+    "slug": "bhubaneswar-odisha-state-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum entrance gate with clear signage, representative view",
+    "at": "2026-09-10T07:52:27.510Z"
+  },
+  "philadelphia-independence-hall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1920px-Independence_Hall.jpg": {
+    "slug": "philadelphia-independence-hall",
+    "verdict": "MATCH",
+    "reason": "publish gate: Clear exterior view of Independence Hall building",
+    "at": "2026-09-10T08:06:23.662Z"
+  },
+  "austin-radha-madhav-dham\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Radha_Madhav_Dham_%282014%29_by_Highsmith%2C_Carol.png/1920px-Radha_Madhav_Dham_%282014%29_by_Highsmith%2C_Carol.png": {
+    "slug": "austin-radha-madhav-dham",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative exterior view of Radha Madhav Dham temple complex",
+    "at": "2026-09-10T08:07:23.374Z"
   }
 }

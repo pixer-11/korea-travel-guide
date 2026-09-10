@@ -125,6 +125,12 @@
     "es": "Ayutthaya",
     "zh": "大城"
   },
+  "Bacolod": {
+    "ko": "바콜로드",
+    "ja": "バコロド",
+    "es": "Bacolod",
+    "zh": "描罗禄"
+  },
   "Baguio": {
     "ko": "바기오",
     "ja": "バギオ",
@@ -1439,6 +1445,12 @@
     "es": "París",
     "zh": "巴黎"
   },
+  "Pasay": {
+    "ko": "파사이",
+    "ja": "パサイ",
+    "es": "Pasay",
+    "zh": "帕赛"
+  },
   "Pasay City": {
     "ko": "파사이시",
     "ja": "パサイ市",
@@ -2122,6 +2134,12 @@
     "ja": "横浜",
     "es": "Yokohama",
     "zh": "横滨"
+  },
+  "Zamboanga City": {
+    "ko": "삼보앙가",
+    "ja": "サンボアンガ",
+    "es": "Zamboanga",
+    "zh": "三宝颜"
   },
   "Zhangjiajie": {
     "ko": "장자제",

@@ -7,15 +7,15 @@ description: YAPA，位于意大利米兰，是一处新兴热门去处：它是
 quickAnswer: YAPA是一家融合风格的餐厅酒吧，位于米兰波尔塔罗马纳（Porta Romana）与波尔塔维多利亚大道（Corso di Porta Vittoria）之间的黑山大道（Viale Monte Nero）上。主厨马泰奥·潘切蒂（Matteo Pancetti）以"游牧灵魂"（Nomadic Soul）为理念，将日式炉端烧的炙烤手法与南美风味相融合，再搭配一份具有全球视野的鸡尾酒单。这里最适合傍晚前往，边吃烧烤边喝鸡尾酒，由于空间刚刚扩建、人气正旺，最好提前预订。营业时间和相关细节会随着这家店的走红而不断变化，前往之前请务必再次确认并提前订位。
 faq:
   - q: YAPA 具体位于哪里?
-    a: 位于米兰的 Viale Monte Nero,处于 Porta Romana 与 Corso di Porta Vittoria 之间的区域,在大教堂(Duomo)的东南方——可沿该大道乘电车抵达,或从 Porta Romana(3号线)或 San Babila(1号线)步行/乘地铁前往,路程不远。
+    a: 位于米兰的 Viale Monte Nero,处于 Porta Romana 与 Corso di Porta Vittoria 之间的区域，在大教堂(Duomo)的东南方——可沿该大道乘电车抵达，或从 Porta Romana(3号线)或 San Babila(1号线)步行/乘地铁前往，路程不远。
   - q: 需要预订吗?
-    a: 强烈建议预订。YAPA 凭借其 robatayaki 炭火烧烤和客座酒吧的鸡尾酒合作项目积累了很高的人气,因此提前预订比直接上门更保险,尤其是在周末晚上。
+    a: 强烈建议预订。YAPA 凭借其 robatayaki 炭火烧烤和客座酒吧的鸡尾酒合作项目积累了很高的人气，因此提前预订比直接上门更保险，尤其是在周末晚上。
   - q: 这里的概念是什么——是日本菜还是南美菜?
-    a: 两者兼具,融合在一起:主厨 Matteo Pancetti 的“游牧灵魂”(Nomadic Soul)理念将日式 robatayaki 烧烤技法与南美风味相结合,再配上一份灵感来自全球各地的鸡尾酒单。
+    a: 两者兼具，融合在一起:主厨 Matteo Pancetti 的“游牧灵魂”(Nomadic Soul)理念将日式 robatayaki 烧烤技法与南美风味相结合，再配上一份灵感来自全球各地的鸡尾酒单。
   - q: 什么是“Liquid Diaries”?
-    a: 这是 YAPA 持续举办的合作系列活动,邀请国际知名的客座酒吧——包括纽约的 Double Chicken Please——前来制作限量供应的鸡尾酒,因此酒单会定期更新。
-  - q: 这里适合只喝一杯,还是应该安排一整顿晚餐?
-    a: 这个空间的设计是为了让客人慢慢享用烧烤菜单和鸡尾酒,因此更适合作为一整晚的完整外出体验,而不是快速小酌的地方——出发前请直接确认营业时间和预订政策。
+    a: 这是 YAPA 持续举办的合作系列活动，邀请国际知名的客座酒吧——包括纽约的 Double Chicken Please——前来制作限量供应的鸡尾酒，因此酒单会定期更新。
+  - q: 这里适合只喝一杯，还是应该安排一整顿晚餐?
+    a: 这个空间的设计是为了让客人慢慢享用烧烤菜单和鸡尾酒，因此更适合作为一整晚的完整外出体验，而不是快速小酌的地方——出发前请直接确认营业时间和预订政策。
 ---
 
 ## YAPA为何与众不同

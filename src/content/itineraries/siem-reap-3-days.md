@@ -6,8 +6,8 @@ title: '3-Day Siem Reap Itinerary: Angkor Temples, Museum & Old Market'
 description: A 3-day Siem Reap itinerary moving through Angkor Thom's temples, the Angkor National Museum and riverside Old Market, and further-out sites like Ta Prohm, Pre Rup, and Banteay Srei.
 quickAnswer: 'This is a 3-day Siem Reap itinerary: day one circles the temples of Angkor Thom and ends at sunset on Phnom Bakheng, day two shifts into central Siem Reap for the Angkor National Museum, Royal Independence Gardens, Wat Bo, and the Old Market, and day three ranges further into the Angkor Archaeological Park across Preah Khan, Ta Prohm, Pre Rup, and Banteay Srei.'
 pubDate: '2026-09-09T14:43:17.839Z'
-stopsHash: 7e7f8bd3b68bf3827032735e083394c47d617eeb
-packedAvailable: false
+stopsHash: 5a46dd5d96ab6bbc70e4220ebd9b9a72ec4c6de0
+packedAvailable: true
 faq:
   - q: How should I get around Siem Reap for this itinerary?
     a: Most stops sit beyond comfortable walking distance from each other, especially between temples inside the Angkor Archaeological Park, so plan on tuk-tuk or car transit between stops each day.
@@ -48,9 +48,17 @@ itinerary:
           minutes: 10
           transit: false
       - slug: siem-reap-phnom-bakheng-temple
-        slot: evening
+        slot: afternoon
         why: Phnom Bakheng closes the day as the park's main sunset viewpoint, with a hilltop climb that rewards the wait with a wide view over Angkor.
         dwellMin: 53
+        walkToNext:
+          km: 6.7
+          minutes: null
+          transit: true
+      - slug: siem-reap-srah-srang
+        slot: evening
+        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 30
         walkToNext: null
     rainSwapSlug: null
   - label: Museum mornings, riverside evenings
@@ -81,9 +89,17 @@ itinerary:
           minutes: 13
           transit: false
       - slug: siem-reap-old-market
-        slot: evening
+        slot: afternoon
         why: Old Market closes the day by the river, with produce and textile lanes that are easiest to browse before the evening crowds fill in.
         dwellMin: 53
+        walkToNext:
+          km: 0.2
+          minutes: 3
+          transit: false
+      - slug: siem-reap-siem-reap-art-center-night-market
+        slot: evening
+        why: A hidden-gem rated 4.2 by visitors, included as a stop on this route.
+        dwellMin: 90
         walkToNext: null
     rainSwapSlug: null
   - label: Jungle ruins and a countryside sunset
@@ -121,5 +137,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10T08:04:19.280Z'
 ---
 
