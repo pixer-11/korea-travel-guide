@@ -17797,5 +17797,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Representative exterior view of Radha Madhav Dham temple complex",
     "at": "2026-09-10T08:07:23.374Z"
+  },
+  "phnom-penh-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/a/aa/Phnom_Penh_Central_Market_-_January_2020_-_1.jpg": {
+    "slug": "phnom-penh-central-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Market interior with vendors, food stalls, matches venue type",
+    "at": "2026-09-10T13:20:57.756Z"
   }
 }

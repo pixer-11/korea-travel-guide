@@ -14,7 +14,7 @@
    "hits": 87
   },
   "viewpoint": {
-   "attempts": 52,
+   "attempts": 63,
    "hits": 7
   },
   "art gallery": {
@@ -34,7 +34,7 @@
    "hits": 97
   },
   "noodles": {
-   "attempts": 19,
+   "attempts": 32,
    "hits": 0
   },
   "old quarter": {
@@ -42,8 +42,8 @@
    "hits": 2
   },
   "local market": {
-   "attempts": 34,
-   "hits": 9
+   "attempts": 36,
+   "hits": 10
   },
   "bookshop": {
    "attempts": 4,
@@ -58,7 +58,7 @@
    "hits": 19
   },
   "breakfast": {
-   "attempts": 11,
+   "attempts": 13,
    "hits": 2
   },
   "trendy cafe": {
@@ -66,7 +66,7 @@
    "hits": 2
   },
   "street food": {
-   "attempts": 53,
+   "attempts": 54,
    "hits": 5
   },
   "bakery": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-10T08:07:23.385Z"
+ "updated": "2026-09-10T13:52:53.942Z"
 }

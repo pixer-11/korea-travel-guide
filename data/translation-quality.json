@@ -28432,5 +28432,33 @@
   "registerBreak": false,
   "worst": "这座雕像被灯光半照半掩地藏在石壁之中，正是大多数人第一次听闻这个地方名字的原因。",
   "at": "2026-09-10T12:16:53.282Z"
+ },
+ "es/phnom-penh-central-market": {
+  "hash": "a4a2d3d79247",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los vendedores están armando su mercancía, barriendo el frente de sus puestos, y l",
+  "at": "2026-09-10T13:54:00.283Z"
+ },
+ "ja/phnom-penh-central-market": {
+  "hash": "3e9cf280aa91",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-10T13:54:03.399Z"
+ },
+ "ko/phnom-penh-central-market": {
+  "hash": "013a28e438fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "건물 전체를 한눈에 이해하게 해주는 것은 다름 아닌 돔 지붕입니다.",
+  "at": "2026-09-10T13:54:07.929Z"
+ },
+ "zh/phnom-penh-central-market": {
+  "hash": "a351905e5219",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "中央市场至今没有被那种改变了金边其他景点面貌的大众旅游潮吞没",
+  "at": "2026-09-10T13:54:18.481Z"
  }
 }
