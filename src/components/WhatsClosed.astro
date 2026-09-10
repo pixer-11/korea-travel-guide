@@ -10,7 +10,7 @@
 // cards at build time. The pickers then filter a build-time island.
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { holidayLabel } from '../i18n/holidays';
 import { localizePlace, localizeVenue } from '../i18n/places';
 import { closuresInRange, holidaysInRange } from '../lib/whats-closed.mjs';
@@ -106,7 +106,10 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       <ul id="wc-closure-list" class="wc-list">
         {closures.map((d: any) => (
           <li>
-            <time datetime={d.date}>{d.date}</time>
+            {/* The header of this same page already renders 「2026年9月10日」;
+                this list printed the raw ISO string in all five languages
+                (2026-09-10). Same formatter the events hubs use. */}
+            <time datetime={d.date}>{new Date(d.date + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time>
             <ul>
               {d.venues.map((v: any) => (
                 <li><a href={localizePath(`/posts/${v.slug}`, lang)}>{localizeVenue(v.name, lang)}</a>{v.city ? `, ${localizePlace(v.city, lang)}` : ''}</li>

@@ -51,7 +51,9 @@ const easiest = [...first.climate].sort((a, b) => comfort(a) - comfort(b)).slice
 const quietFor = (p: any) => {
   const bz = p?.data?.place?.busyness;
   if (!bz) return null;
-  const labels = { am: t('post.am'), pm: t('post.pm') };
+  // lang matters: hours.mjs puts the meridiem FIRST in ko/ja/zh (오전 7시).
+  // Without it the page read 「7–8 오전」, which is backwards (2026-09-10).
+  const labels = { am: t('post.am'), pm: t('post.pm'), lang };
   return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
 };
 

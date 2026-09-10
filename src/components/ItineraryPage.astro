@@ -21,6 +21,7 @@ import { thumbOr } from '../lib/wall';
 import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
+import { formatHourRanges } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { closedDaysOf } from '../lib/itinerary.mjs';
 
@@ -108,13 +109,12 @@ const SLOT_HOURS: Record<string, [number, number]> = {
   afternoon: [14, 17],
   evening: [17, 23],
 };
+// The private copy this replaced hardcoded `${x.t}–${y.t} ${y.m}`, so every
+// quiet chip on a localized itinerary read 「7–8 오전」 — the meridiem after the
+// number, which is backwards in ko/ja/zh. lib/hours.mjs has known better since
+// it grew MERIDIEM_FIRST; this file just had its own. (2026-09-10)
 function fmtHourRanges(xs: number[]): string {
-  const f = (h: number) => { const x = ((h % 24) + 24) % 24; return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? t('post.am') : t('post.pm') }; };
-  const runs: [number, number][] = [];
-  let s = xs[0], prev = xs[0];
-  for (let i = 1; i < xs.length; i++) { if (xs[i] === prev + 1) { prev = xs[i]; continue; } runs.push([s, prev]); s = xs[i]; prev = xs[i]; }
-  runs.push([s, prev]);
-  return runs.map(([a, b]) => { const x = f(a), y = f(b + 1); return x.m === y.m ? `${x.t}–${y.t} ${y.m}` : `${x.t} ${x.m}–${y.t} ${y.m}`; }).join(', ');
+  return formatHourRanges(xs, { am: t('post.am'), pm: t('post.pm'), lang }) ?? '';
 }
 function quietWindowFor(post: any, slot: string): string | null {
   const q = post.data.place?.busyness?.weekdayQuiet;
