@@ -89,7 +89,24 @@ export async function GET() {
   const body = {
     // Attribution terms live IN the payload, not only in prose on a docs page.
     // A developer wiring this up reads the JSON, not the website.
-    license: 'Free to use, including commercially. Attribution requested, not required.',
+    //
+    // What this line used to say — "free to use, including commercially,
+    // attribution requested, not required" — was never ours to give. The
+    // forecasts belong to BestTime.app, their terms 5.3 reserve redistribution,
+    // and our own permission was still unanswered when the notice below was
+    // added on 2026-09-08. So the payload granted a machine rights in one field
+    // while telling a human those rights were unconfirmed in another, and a
+    // developer wires up `license` — nobody parses `notice`. Narrowed
+    // 2026-09-10 to what we can actually give: the display use BestTime's own
+    // terms name as the intended one. Widened again only if they say yes.
+    license:
+      'Display use, attribution required. You may show these hours to your own users inside your own interface. You may NOT republish them as a dataset, resell them, or serve them as your own API — the underlying forecasts belong to BestTime.app and our permission to redistribute them is not confirmed. See `notice`.',
+    permitted: ['Show these hours in your own interface, with the attribution below.'],
+    notPermitted: [
+      'Republishing the data as a dataset, feed or API of your own.',
+      'Resale or sublicensing.',
+      'Use as a substitute for a BestTime.app account.',
+    ],
     attribution: {
       text: 'Crowd data by Wander Atlas, measured by BestTime.app',
       url: `${SITE}/tools/best-time/`,

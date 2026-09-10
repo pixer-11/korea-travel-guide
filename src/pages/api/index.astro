@@ -21,7 +21,7 @@ const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/
 
 const endpoint = `${SITE}/api/crowd.json`;
 const example = `{
- "license": "Free to use, including commercially. Attribution requested, not required.",
+ "license": "Display use, attribution required. You may show these hours in your own interface. You may NOT republish them as a dataset, resell them, or serve them as your own API. See the notice field.",
  "count": 618,
  "places": [
   {
@@ -55,7 +55,7 @@ const jsonLd = {
 
 <BaseLayout
   title="Crowd Data API — free hourly crowd levels for 600+ attractions"
-  description="Free JSON API: measured hour-by-hour quiet and busy windows for 600+ attractions in 20 countries. No key, no signup, CORS-open. Attribution requested, not required."
+  description="Free JSON API: measured hour-by-hour quiet and busy windows for 600+ attractions in 20 countries. No key, no signup, CORS-open. Display use with attribution; redistribution permission from BestTime.app is being confirmed."
   suppressPopup={true}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
@@ -111,10 +111,18 @@ const jsonLd = {
 
     <h2 id="license">License &amp; attribution</h2>
     <p>
-      Free to use, including commercially. Attribution is requested, not required:
+      Free to use in your own interface, and attribution is required:
       "Crowd data by <a href={SITE}>Wander Atlas</a>, measured by
-      <a href="https://besttime.app" rel="noopener">BestTime.app</a>" with a link
-      makes more of this data possible.
+      <a href="https://besttime.app" rel="noopener">BestTime.app</a>" with a link.
+    </p>
+    <p>
+      What you may <strong>not</strong> do is republish the data as a dataset,
+      feed or API of your own, resell it, or sublicense it. The forecasts are
+      <a href="https://besttime.app" rel="noopener">BestTime.app</a>'s, and our
+      own permission to redistribute them is still being confirmed (asked
+      2026-09-08). If you need the data as data rather than as something you
+      show your users, a BestTime account is the right answer, not this
+      endpoint.
     </p>
 
     <h2>Embeds instead of code</h2>
