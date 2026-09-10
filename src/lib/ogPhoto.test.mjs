@@ -62,3 +62,21 @@ test('an empty or heroless list yields nothing', () => {
   assert.equal(pickOgPhoto(undefined), undefined);
   assert.equal(pickOgPhoto([post('a', undefined)]), undefined);
 });
+
+// ── URL 단위 폭 기록 (2026-09-10) ──────────────────────────────
+// og:image 검사는 매일 재기만 하고 버렸다. 그래서 같은 좁은 사진이 다음 날 또 뽑혔고,
+// 24시간 안에 두 번 알림이 왔다(849px OMSI → 북미 대륙, 533px Charlie Puth → Pasay).
+// data/og-width-probes.json 은 URL만으로 키를 잡으므로, 그 사진이 어느 글에 붙어 있든 걸린다.
+test('URL 단위로 기록된 좁은 사진은 어느 글에 붙어도 안 뽑힌다', () => {
+  const url = 'https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg';
+  const post = { id: 'any-post-at-all', data: { heroImage: { url }, category: 'attraction' } };
+  assert.equal(heroWidth(post), 533, 'URL 저장소를 안 읽고 있다');
+  assert.equal(pickOgPhoto([post]), undefined);
+});
+
+test('🛑 못 잰 사진은 여전히 통과한다 — 신규 글이 브랜드 기본 이미지로 떨어지면 안 된다', () => {
+  const url = 'https://upload.wikimedia.org/wikipedia/commons/9/99/Never_Probed_At_All.jpg';
+  const post = { id: 'brand-new-post', data: { heroImage: { url }, category: 'attraction' } };
+  assert.equal(heroWidth(post), null);
+  assert.equal(pickOgPhoto([post]), url);
+});

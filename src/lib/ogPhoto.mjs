@@ -14,6 +14,14 @@ import { fileURLToPath } from 'node:url';
 // probing each hero's true pixel width. Unknown is NOT treated as narrow: a
 // brand-new post has no probe yet, and dropping it would leave a hub sharing
 // the brand default instead of a real photograph.
+//
+// A second store, data/og-width-probes.json, is keyed by URL alone. The nightly
+// og:image audit measures the width of every image the hubs actually share, and
+// until 2026-09-10 it printed the number and threw it away — so the same narrow
+// photo was re-picked the next day and the alert fired again. It fired twice in
+// twenty-four hours (an 849px OMSI on North America, a 533px Charlie Puth on
+// Pasay) before the loop was closed. The post-keyed store still wins when it has
+// an entry; this one catches the photo under any post that shares it.
 
 const SEP = String.fromCharCode(1); // the queue's slug␁url key separator
 const MIN_WIDTH = 1200;
@@ -34,12 +42,24 @@ function loadProbes() {
 }
 const PROBES = loadProbes();
 
+function loadUrlProbes() {
+  try {
+    const path = fileURLToPath(new URL('../../data/og-width-probes.json', import.meta.url));
+    return new Map(Object.entries(JSON.parse(readFileSync(path, 'utf8'))));
+  } catch {
+    return new Map();
+  }
+}
+const URL_PROBES = loadUrlProbes();
+
 /** Probed width of a post's hero, or null when it has never been measured. */
 export function heroWidth(post) {
   const url = post?.data?.heroImage?.url;
   if (!url) return null;
-  const w = PROBES.get(`${post.id}${SEP}${url}`);
-  return typeof w === 'number' ? w : null;
+  const byPost = PROBES.get(`${post.id}${SEP}${url}`);
+  if (typeof byPost === 'number') return byPost;
+  const byUrl = URL_PROBES.get(url);
+  return typeof byUrl === 'number' ? byUrl : null;
 }
 
 /**
