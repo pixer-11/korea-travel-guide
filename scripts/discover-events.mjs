@@ -22,7 +22,7 @@ import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
 import { keyToken, tokens as nameTokens, ANCHOR_STOP } from './lib/commons.mjs';
-import { eventSchemaName, eventProperName } from '../src/lib/eventName.mjs';
+import { eventSchemaName, eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
@@ -269,7 +269,7 @@ async function writeDiscovered(item, ctx) {
       allowUnsplash: false,
     });
     if (cat === 'event' && pick?.url && pick.license === 'wikimedia') {
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: WORLD_GEO, name: eventProperName(item.name) });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: WORLD_GEO, name: eventProperName(item.name), acronym: eventAcronym(item.name) });
       if (foreign) { console.log(`   ${item.name}: file names another act (${foreign}) — next`); continue; }
     }
     hero = pick;

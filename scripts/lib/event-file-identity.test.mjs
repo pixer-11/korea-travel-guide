@@ -125,3 +125,49 @@ test('the hyphen escape does not reopen the documented refusals', () => {
   const k3 = known('Asian Games 2026', 'Nagoya', 'Japan');
   assert.notEqual(foreignInFilename(U('3840px-Penutupan_Para_Asian_Games_2018.jpg'), { known: k3, via: 'phrase' }), '');
 });
+
+// 2026-09-10 픽서님: 정기적으로 열리는 행사는 예전 회차 사진이 반드시 있으니 그걸 쓰자.
+// 실제로 있었다 — MEFCC 는 2023년 아부다비 회차 군중 사진이 커먼즈 첫 결과인데,
+// 우리 검색은 풀네임("Middle East Film & Comic Con")의 앵커 "middle" 로 들어가
+// 중동 위성사진·공군 비행·중간자공격 다이어그램 24장을 판정하고 사진 없이 남았다.
+// 제목이 괄호로 선언한 약어는 우리가 쓴 이름이므로 신원으로 인정한다.
+test('약어로 찾은 파일은 약어가 파일명에 있으면 신원 확인', () => {
+  const k = known('Middle East Film & Comic Con (MEFCC) 2026', 'Abu Dhabi', 'United Arab Emirates');
+  const o = { known: k, via: 'acronym', acronym: 'MEFCC', name: 'Middle East Film & Comic' };
+  assert.equal(foreignInFilename(U('MEFCC AUH 2023 - Crowd Shot.jpg'), o), '');
+  assert.equal(foreignInFilename(U('MEFCC AUH 2023 - Meet the Stars.jpg'), o), '');
+  const kb = known('Busan International Film Festival (BIFF)', 'Busan', 'South Korea');
+  const ob = { known: kb, via: 'acronym', acronym: 'BIFF', name: 'Busan International Film Festival' };
+  assert.equal(foreignInFilename(U('Busan Cinema Center BIFF 2023.jpg'), ob), '');
+});
+
+// 역방향. 약어 검색이 물어왔다는 사실만으로는 아무것도 증명하지 못한다 —
+// 파일명에 약어가 실제로 있어야 하고, 다른 영화제는 계속 막혀야 한다.
+test('약어가 파일명에 없으면 계속 거부한다', () => {
+  const k = known('Middle East Film & Comic Con (MEFCC) 2026', 'Abu Dhabi', 'United Arab Emirates');
+  const o = { known: k, via: 'acronym', acronym: 'MEFCC', name: 'Middle East Film & Comic' };
+  assert.notEqual(foreignInFilename(U('Rawdah Mohamed at some gala.jpg'), o), '');
+  const kb = known('Busan International Film Festival (BIFF)', 'Busan', 'South Korea');
+  const ob = { known: kb, via: 'acronym', acronym: 'BIFF', name: 'Busan International Film Festival' };
+  assert.notEqual(foreignInFilename(U('Tokyo International Film Festival 2019.jpg'), ob), '');
+});
+
+// 약어가 파일명에 없어도, 행사 이름이 통째로 순서대로 들어 있으면 그 행사다.
+// "IU for Broker open talk at Busan International Film Festival" 이 그것인데,
+// 이름 네 단어가 전부 불용어·지명이라 신원 단어 규칙에 걸려 거부됐다. 네 단어
+// 연속이면 그 자체로 충분히 특정된다 — 두 단어짜리(Asian Games)는 계속 규칙 적용.
+test('약어 검색: 이름이 통째로 들어간 파일은 통과, 다른 도시 영화제는 거부', () => {
+  const geo = geoTokens({ regions: ['Busan', 'Tokyo'], countries: ['South Korea', 'Japan'] });
+  const kb = known('Busan International Film Festival (BIFF)', 'Busan', 'South Korea');
+  const ob = { known: kb, via: 'acronym', acronym: 'BIFF', name: 'Busan International Film Festival', geo };
+  assert.equal(foreignInFilename(U('IU for "Broker" open talk at Busan International Film Festival.jpg'), ob), '');
+  // 같은 단어 세 개를 공유하지만 다른 영화제다. 지명 하나가 남으면 거부한다.
+  assert.notEqual(foreignInFilename(U('Tokyo International Film Festival 2019.jpg'), ob), '');
+});
+
+// 짧은 이름의 형제 행사 방어는 그대로여야 한다(2026-08-22 에 세운 규칙).
+test('네 단어 완화가 Para Asian Games 를 다시 열지 않는다', () => {
+  const ka = known('Asian Games 2026', 'Nagoya', 'Japan');
+  const geo = geoTokens({ regions: ['Nagoya', 'Hangzhou'], countries: ['Japan'] });
+  assert.notEqual(foreignInFilename(U('3840px-Penutupan Para Asian Games 2018.jpg'), { known: ka, via: 'phrase', name: 'Asian Games', geo }), '');
+});

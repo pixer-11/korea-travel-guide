@@ -78,6 +78,25 @@ export function eventProperName(title) {
   return name || base;
 }
 
+// The acronym our own title declares in brackets — MEFCC, BIFF, MADRING.
+//
+// A recurring convention or festival is filed on Commons under its acronym far
+// more often than under its full name, and eventProperName throws the bracket
+// away: "Middle East Film & Comic Con (MEFCC) 2026" became "Middle East Film &
+// Comic Con", whose anchor word is "middle" — the 2026-09-10 patrol judged 24
+// candidates for that post and every one was a satellite view of the Middle
+// East, an air force flight, or a man-in-the-middle attack diagram. "MEFCC"
+// returns the 2023 Abu Dhabi crowd shot on its first result.
+//
+// Four characters minimum, on purpose: three-letter strings (DSS, TGS) collide
+// with too much on a filename test to be identity on their own. And it is read
+// from OUR title, never guessed from initials — a name we wrote down is a name
+// we can stand behind.
+export function eventAcronym(title) {
+  const m = String(title ?? "").match(/[(（]([A-Z][A-Z0-9]{3,7})[)）]/);
+  return m ? m[1] : "";
+}
+
 // Search variants of the proper name. Our titles store some acts camel-cased
 // ("LeeHi") while Commons files spell them spaced ("Lee Hi …") and its search
 // does not bridge the two — the proper-name query returned nothing while five

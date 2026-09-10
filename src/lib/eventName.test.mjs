@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { eventSchemaName, eventProperName } from './eventName.mjs';
+import { eventSchemaName, eventProperName , eventAcronym } from './eventName.mjs';
 
 test('drops the standard "(City)" article suffix', () => {
   assert.equal(
@@ -128,4 +128,17 @@ test('strips the "Dates, Tickets & Venue" suffix the same as the old one', () =>
     eventProperName('EuroVolley Women 2026 (Final Stage): Dates, Tickets & Venue (Istanbul)'),
     'EuroVolley Women',
   );
+});
+
+// 괄호 안 약어는 우리가 제목에 직접 쓴 이름이다. 커먼즈는 정기 행사를 풀네임보다
+// 약어로 훨씬 자주 보관한다 — MEFCC 2023 아부다비 회차가 첫 결과다.
+test('eventAcronym: 제목이 선언한 4~8자 대문자 약어만 집어낸다', () => {
+  assert.equal(eventAcronym('Middle East Film & Comic Con (MEFCC) 2026: Dates, Tickets & Venue (Abu Dhabi)'), 'MEFCC');
+  assert.equal(eventAcronym('Busan International Film Festival (BIFF): Dates, Tickets & Venue (Busan)'), 'BIFF');
+  assert.equal(eventAcronym('Formula 1 Spanish Grand Prix (MADRING): What to Know (Madrid)'), 'MADRING');
+  // 세 글자는 파일명 대조에서 충돌이 너무 잦아 일부러 제외한다.
+  assert.equal(eventAcronym('Tokyo Game Show 2026 (TGS): Dates, Tickets & Venue (Chiba)'), '');
+  // 괄호 안이 도시나 설명이면 약어가 아니다.
+  assert.equal(eventAcronym('Xi an Grand Prix (Snooker): What to Know (Xian)'), '');
+  assert.equal(eventAcronym('The Weeknd: After Hours Til Dawn Tour: Dates, Tickets & Venue (Bangkok)'), '');
 });

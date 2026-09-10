@@ -9,7 +9,7 @@ import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
-import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
+import { eventProperName, eventProperNameVariants, eventAcronym } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from './commons.mjs';
 
 // 이벤트 히어로 부착 하한 (픽서님 결정 2026-08-30: "1024까지 허용하자").
@@ -162,6 +162,19 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     const popts = { used, allowPortrait: true, minWidth: EVENT_HERO_MIN_WIDTH, event: true, crossCheck: toks, minCross };
     return via((await commonsBest(proper, popts)) || (await commonsBest(`${proper} ${reg}`, popts)), 'phrase');
   };
+  // The acronym our own title declares in brackets. Commons files a recurring
+  // convention under it far more reliably than under its spelled-out name, and
+  // the spelled-out name is where the junk anchors come from: "Middle East Film
+  // & Comic Con" anchors on "middle" and returns satellite photos of the region.
+  // Tagged so the filename audit knows the acronym itself is the identity —
+  // whatever else the file says ("MEFCC AUH 2023 - Crowd Shot") is the shot.
+  const tryAcronym = async () => {
+    if (!eventMode) return null;
+    const ac = eventAcronym(namedVenue);
+    if (!ac) return null;
+    const aopts = { used, allowPortrait: true, minWidth: EVENT_HERO_MIN_WIDTH, event: true, crossCheck: [ac.toLowerCase()], minCross: 1 };
+    return via((await commonsBest(ac, aopts)) || (await commonsBest(`${ac} ${reg}`, aopts)), 'acronym');
+  };
   const tryVenue = async () => {
     if (!eventMode || !venue) return null;
     const va = keyToken(venue, `${reg} ${ctry}`);
@@ -251,6 +264,10 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // handed the patrol six "Autumn Music" leaf photos while "Festival Huế"
     // sat one query away, never reached because the patrol's candidate loop
     // ran out of turns on the junk (2026-08-22).
+    // Acronym first: it is the narrowest key we have and the one Commons files
+    // these events under.
+    const byAcronym = await tryAcronym();
+    if (byAcronym) return mark(byAcronym, used);
     const byPhraseFirst = await tryProperPhrase();
     if (byPhraseFirst) return mark(byPhraseFirst, used);
     // A COMMON-word anchor ("super" for Vietnamese Super Cup, "moon" for the
@@ -318,6 +335,10 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   // anchor token, which skip the block above entirely.)
   // An event whose name is all stop-words skipped the block above — the venue
   // is the only specific key it has, and it must run before the type fallback.
+  // Same order as inside the anchor block, for the events that never enter it
+  // (a name made only of stop-words). The acronym is still the narrowest key.
+  const byAcronymOnly = await tryAcronym();
+  if (byAcronymOnly) return mark(byAcronymOnly, used);
   const byPhraseOnly = await tryProperPhrase();
   if (byPhraseOnly) return mark(byPhraseOnly, used);
   const byVenueOnly = await tryVenue();

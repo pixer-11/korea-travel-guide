@@ -36,7 +36,7 @@ import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/im
 import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
-import { eventProperName } from '../src/lib/eventName.mjs';
+import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
@@ -398,7 +398,7 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName) });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { budget.refused(); console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }

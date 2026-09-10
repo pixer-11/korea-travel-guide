@@ -138,7 +138,14 @@ function namesTheEvent(ft, name, geo) {
   const identity = (t) =>
     !ANCHOR_STOP.has(t) && !COMMON_ANCHOR.test(t) &&
     !SCENE_WORDS.has(t) && !GENERIC_FILE_WORDS.has(t) && !(geo && geo.has(t));
-  if (!run.some(identity)) return false;
+  // Rule 2 is for SHORT names. "Asian Games" is two stop-words, so containment
+  // proves nothing and the Para Games slip through — that is why it exists. But
+  // a FOUR-word contiguous run is specific on its own even when every word is a
+  // stop-word or a place: "Busan International Film Festival" spelled out in
+  // order is that festival, and the rule refused its own photos ("IU for Broker
+  // open talk at Busan International Film Festival") as "another act", leaving
+  // the post dark while its festival sat in the filename (2026-09-10).
+  if (run.length < 4 && !run.some(identity)) return false;
   const words = ft.filter((t) => !/\d/.test(t));
   for (let i = 0; i + run.length <= words.length; i++) {
     if (run.every((t, j) => words[i + j] === t)) return true;
@@ -159,7 +166,7 @@ function namesTheEvent(ft, name, geo) {
 // Vegetarian Festival NN.jpg" were refused as "names another act (face
 // piercing)" until this existed (2026-08-30). See namesTheEvent for why the
 // bare anchor token is not enough.
-export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '' }) {
+export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '' }) {
   const ft = fileTokens(url);
   const leftovers = ft.filter((t) =>
     !known.has(t) && !GENERIC_FILE_WORDS.has(t) &&
@@ -167,6 +174,23 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
     // event words that are never an act's identity (concert, festival,
     // stadium, tour, months, nation adjectives).
     !/\d/.test(t) && !ANCHOR_STOP.has(t));
+  // A find by the acronym OUR OWN TITLE declares. The acronym is the identity:
+  // "MEFCC AUH 2023 - Crowd Shot" is this convention two editions back, and the
+  // rest of the name describes the shot. Before this the post was handed 24
+  // candidates anchored on the word "middle" — satellite views of the Middle
+  // East, an air-force flight, a man-in-the-middle attack diagram — and stayed
+  // photoless while its own 2023 crowd shot sat one query away (2026-09-10).
+  // A file that came back from that search WITHOUT the acronym in its name
+  // proves nothing and falls through to the rules below.
+  // Two ways out, and no third: the acronym itself, or the whole name spelled
+  // out in order. Deliberately NOT the scene-tolerant branch below — that one
+  // forgives a leftover PLACE name (a past edition held elsewhere), which for a
+  // film festival would hand the Busan post a Tokyo International Film Festival
+  // photo. Same words, different festival.
+  if (via === 'acronym') {
+    if (acronym && ft.includes(String(acronym).toLowerCase())) return '';
+    if (namesTheEvent(ft, name, geo)) return '';
+  }
   if (via === 'venue' || via === 'phrase') {
     const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
     if (!rest.length) return '';
