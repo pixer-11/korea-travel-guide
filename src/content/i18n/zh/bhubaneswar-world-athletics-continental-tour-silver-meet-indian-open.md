@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open
-srcHash: 'ea4d6bf2ae0e'
+srcHash: '000000000000'
 title: 世界田联巡回赛银牌赛（印度公开赛）：你需要了解的信息（布巴内斯瓦尔）
 description: 世界田联巡回赛银牌赛（印度公开赛）曾定于2026年8月22日在印度布巴内斯瓦尔举行。以下是官方公布的信息，以及赛事周边的城市看点。
 quickAnswer: 印度首个世界田联巡回赛银牌级别赛事——印度公开赛——曾定于2026年8月22日在布巴内斯瓦尔的卡林加体育场（Kalinga Stadium）举行，这是从2025年在此举办的铜牌级赛事升级而来。主办方公布了为期一天的国际田径赛程，重点场次安排在傍晚时段，门票、入场时间及完整赛程均通过世界田联和奥里萨邦体育官方渠道发布。

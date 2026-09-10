@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: taipei-official-hige-dandism-asia-tour-2026-taipei
-srcHash: '073b5f1009e8'
+srcHash: '000000000000'
 title: Official髭男dism アジアツアー2026 台北公演 まとめ(台北)
 description: Official髭男dism アジアツアー2026 台北公演。2026年8月29日・30日の2夜にわたり台北ドームで開催が予定され、新曲「Stardust」と「Elderflower」の披露も告知されていました。
 quickAnswer: 「Pretender」や「Cry Baby」などのヒット曲で知られる日本の5人組ポップロックバンド、Official髭男dism。2026年アジアツアーの一環として、2026年8月29日・30日の2夜にわたり台北ドームでの公演が予定されていました。この発表では、バンドの既存の楽曲群に加えて、新曲「Stardust」と「Elderflower」がライブ初披露される予定であることも明かされていました。なお、チケット価格や開場・開演の正確な時間、座席表については発表には含まれていませんでした。

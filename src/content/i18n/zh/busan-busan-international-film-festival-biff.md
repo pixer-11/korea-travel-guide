@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: busan-busan-international-film-festival-biff
-srcHash: 'd4582971a025'
+srcHash: '000000000000'
 title: 釜山国际电影节（BIFF）攻略：时间、购票与场馆（釜山）
 description: 釜山国际电影节（BIFF）将于2026年10月6日至15日在韩国釜山举行——本文带你了解电影节详情、举办时间地点，以及行程规划要点。
 quickAnswer: 釜山国际电影节（BIFF）于2026年10月6日至15日举行，主会场设在海云台（Haeundae）centum city（センタムシティ／中心城）片区的釜山电影殿堂（Busan Cinema Center）。本届是第31届，将展映来自59个国家的316部影片，并授予杨紫琼（Michelle Yeoh）“年度亚洲电影人”称号。订机票、订酒店前，请务必以BIFF官网公布的具体购票时段和放映排期为准。

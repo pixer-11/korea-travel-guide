@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hong-kong-xg-concert-asiaworld-expo
-srcHash: 'f0ac5c475fab'
+srcHash: '000000000000'
 title: XG演唱会（亚洲国际博览馆）：你需要知道的事（香港）
 description: 2026年8月2日，XG将在香港亚洲国际博览馆（AsiaWorld-Expo）开唱。这场演出到底是怎么回事、什么时候在哪里举行、又该如何提前规划，这里都有说明。
 quickAnswer: XG定于2026年8月2日在香港亚洲国际博览馆（AsiaWorld-Expo）开唱。这个日期目前只是官方公布的信息，订机票、订酒店之前，务必先到XG官方渠道（X、Instagram以及XG/亚洲国际博览馆的售票页面）确认具体开演时间、场馆厅号和售票详情。亚洲国际博览馆就在香港国际机场旁边，还有东涌线的亚洲国际博览馆站直达东涌，就算当天才飞抵香港，前往现场也很方便。

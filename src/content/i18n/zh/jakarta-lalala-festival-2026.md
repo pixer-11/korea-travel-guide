@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-lalala-festival-2026
-srcHash: 'ac4c784a5035'
+srcHash: '000000000000'
 title: LaLaLa Festival 2026 攻略：雅加达音乐节必知信息
 description: LaLaLa Festival 2026 定档 2026 年 8 月 22 日至 23 日，举办地为雅加达中区凯马约兰（Kemayoran）的雅加达国际博览中心（Jakarta International Expo），Steve Lacy 领衔阵容。
 quickAnswer: LaLaLa Festival 2026 定档 2026 年 8 月 22 日至 23 日，地点在雅加达中区凯马约兰（Kemayoran）的雅加达国际博览中心（Jakarta International Expo，简称 JIExpo）。官方公布的headliner阵容包括 Steve Lacy、Two Door Cinema Club、Kodaline、The Flaming Lips、Rex Orange County、Honne 和 Flo。由于 JIExpo 没有地铁（MRT）或轻轨（LRT）直达站点，前往会场通常要靠打车软件 Grab 或 Gojek，而非公共交通。

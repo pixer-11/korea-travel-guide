@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: taipei-urban-paradise
-srcHash: '926d175911fb'
+srcHash: '000000000000'
 title: 城市秘境：台北旅游指南——URBAN PARADISE
 description: 台北信义区新晋人气餐厅URBAN PARADISE全解析：这是什么地方，位置在哪里，怎么去游览。
 quickAnswer: URBAN PARADISE是一家精品自助餐厅，坐落于台北信义区的微风松高（Breeze Song Gao）商场内，2025年开业，主打"gastropub式自助餐"重新演绎成都市绿洲的概念——满眼葱郁绿植、吧台式餐台和开放式取餐区，而非传统的蒸台餐盘。从台北市政府捷运站（蓝线／板南线）步行即可抵达，非常适合安排在信义区购物或台北101一日游的行程中顺路造访。由于这里是新开且热度正高的餐厅，出发前请务必提前订位，并直接向微风官方确认最新营业时间与订位政策。

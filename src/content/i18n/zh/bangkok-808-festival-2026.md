@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-808-festival-2026
-srcHash: 'c720792fc0d8'
+srcHash: '000000000000'
 title: 808 Festival 2026：日期、门票与场地（曼谷）
 description: 2026年10月2日至3日，808 Festival将在泰国曼谷举行。这篇攻略讲清楚活动是什么、时间地点，以及该如何规划行程。
 quickAnswer: 2026年10月2日至3日，808 Festival将占据曼谷BITEC会展中心，这是泰国规模最大的电子舞曲音乐节第13届，由NGHTMRE和SLANDER担任压轴。整个活动为期两晚，如果没办法两晚都参加，至少要安排出完整的一晚。订机票、订酒店之前，务必先在官网确认时间和票务信息。

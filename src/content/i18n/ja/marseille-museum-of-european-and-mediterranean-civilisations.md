@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: marseille-museum-of-european-and-mediterranean-civilisations
-srcHash: '1761e672244c'
+srcHash: '000000000000'
 title: ヨーロッパ・地中海文明博物館(MuCEM):マルセイユ旅行ガイド
 description: MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)へは、ヴュー・ポール(Vieux-Port)側からJ4エスプラナードの入口を目指しましょう。夜間開館日には18時〜21時の遅めの時間帯を狙うのがおすすめで、平日・週末問わず最も空いている時間帯です。4.4★(24,438件のレビュー)—訪問者の声、営業時間、コツをご紹介します。
 quickAnswer: MuCEM(Musée des Civilisations de l'Europe et de la Méditerranée)へは、ヴュー・ポール(Vieux-Port)側からJ4エスプラナードの入口を目指しましょう。夜間開館日には18時〜21時の遅めの時間帯を狙うのがおすすめで、平日・週末問わず最も空いている時間帯です。週末は11時〜18時に混雑がピークになるため、その時間しか来られない場合は開館直後に到着しましょう。見学には2〜3時間を予定し、サン・ジャン要塞(Fort Saint-Jean)への歩道橋も渡るならもう少し時間を確保してください。

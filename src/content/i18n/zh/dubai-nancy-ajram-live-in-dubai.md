@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-nancy-ajram-live-in-dubai
-srcHash: '5c95ce1be3df'
+srcHash: '000000000000'
 title: 南茜·阿jram迪拜演唱会：日期、门票与场地（迪拜）
 description: 2026年10月24日，南茜·阿jram迪拜演唱会将在阿联酋迪拜举行——这场演出是什么、时间地点如何安排，以及行前该做哪些准备。
 quickAnswer: 2026年10月24日，黎巴嫩流行天后南茜·阿jram（Nancy Ajram）将现身可口可乐体育馆（Coca-Cola Arena），带来一整晚的阿拉伯流行金曲。该场馆坐落于City Walk内的Za'abeel路上，从迪拜市中心（Downtown Dubai）打车或搭乘迪拜地铁都能很快抵达。出发前请务必在可口可乐体育馆及南茜·阿jram的官方渠道确认演出时间和购票信息。

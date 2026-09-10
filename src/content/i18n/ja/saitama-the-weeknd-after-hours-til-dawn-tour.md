@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: saitama-the-weeknd-after-hours-til-dawn-tour
-srcHash: '91cc42ae81db'
+srcHash: '000000000000'
 title: ザ・ウィークエンド「After Hours Til Dawn Tour」日程・チケット・会場情報(埼玉)
 description: 2026年9月19日・20日、ザ・ウィークエンドの「After Hours Til Dawn Tour」が日本・埼玉で開催されます。公演内容から日時・会場、当日の動き方までまとめました。
 quickAnswer: ザ・ウィークエンドが2026年9月19日と20日の2日間、ベルーナドーム(埼玉)にて「After Hours Til Dawn Tour」のアジア公演を締めくくります。両日ともオープニングアクトは日本のヒップホップデュオ、Creepy Nutsが務めます。チケット、正確な開演時間、開場details(ゲート情報)については、ツアー公式サイトおよび会場公式チャンネルで必ず確認したうえで、航空券やホテルの予約を進めてください。ベルーナドームへのアクセスを考えると、西武球場前駅や東戸塚駅周辺を拠点にするのが便利です。

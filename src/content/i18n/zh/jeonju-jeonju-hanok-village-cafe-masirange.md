@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jeonju-jeonju-hanok-village-cafe-masirange
-srcHash: '10f281ffb521'
+srcHash: '000000000000'
 title: 全州韩屋村咖啡馆masirange（마시랑헤）旅行指南
 description: Masirange是一家藏身于全州韩屋村全洞（Jeondong）一侧的韩屋风咖啡馆，距全洞天主教堂（Jeondong Catholic Church）步行不远，建议选在工作日上午或傍晚前往，可避开旅行团人潮。
 quickAnswer: Masirange是一家藏身于全州韩屋村全洞一侧的韩屋风咖啡馆，距全洞天主教堂步行不远。建议选在工作日上午或傍晚时段前往，可避开旅行团人潮。店内主打传统茶饮和韩屋风甜点，庭院与屋顶座位区很适合拍照，喝杯茶、四处逛逛大约需要45到60分钟。这里也很适合和穿韩服漫步韩屋村、顺路去附近的庆基殿（Gyeonggijeon Shrine）一并安排。

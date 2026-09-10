@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-flint
-srcHash: '0556870bca34'
+srcHash: '000000000000'
 title: Flint：孟买旅行指南
 description: Flint，孟买（Mumbai，印度）新晋热门去处：这里到底是什么样的地方，位置在哪，又该如何前往。
 quickAnswer: Flint是主厨拉胡尔·阿克卡尔（Rahul Akerkar）和杰迪普·慕克吉（Jaydeep Mukherjee）联手打造的一间以炭火烟熏为主题的全日制餐厅，藏身于纳里曼角（Nariman Point）的NCPA综合体内。来这里一定要点上一份用香辣蟹饼做底的Flint班尼迪克蛋，再配一杯以安巴达叶（ambada leaves）调制的Picante鸡尾酒。这是一家刚走红不久、人气正旺的新店，前往之前最好先确认营业时间并提前订位，尤其是打算把用餐和NCPA的演出安排在一起的话。

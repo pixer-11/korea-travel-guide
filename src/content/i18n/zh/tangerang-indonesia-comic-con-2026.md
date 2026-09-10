@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tangerang-indonesia-comic-con-2026
-srcHash: '5ac9ba8070c6'
+srcHash: '000000000000'
 title: 2026年印尼动漫展（Indonesia Comic Con）：时间、门票与场馆（坦格朗）
 description: 2026年印尼动漫展将于10月3日至4日在印尼坦格朗举行。本文介绍展会内容、时间地点，以及如何提前规划行程。
 quickAnswer: 2026年印尼动漫展将于2026年10月3日至4日举行，地点是位于大雅加达坦格朗县（Tangerang Regency）的全新场馆努桑塔拉国际会展中心（Nusantara International Convention Exhibition，简称NICE）。这是一场为期两天、涵盖漫画、动画、游戏、电影和角色扮演（cosplay）等多个主题的流行文化展会。出发前请务必在官网确认具体时间安排、展馆布局和购票信息。

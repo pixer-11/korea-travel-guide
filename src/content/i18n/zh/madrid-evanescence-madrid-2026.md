@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-evanescence-madrid-2026
-srcHash: '042963d89f36'
+srcHash: '000000000000'
 title: Evanescence马德里2026演唱会：日期、门票与场馆（马德里）
 description: Evanescence马德里2026演唱会将于2026年10月2日在西班牙马德里举行——这场演出是什么、何时何地举办，以及该如何提前规划。
 quickAnswer: Evanescence将于2026年10月2日在维斯塔莱格雷宫竞技场（Palacio Vistalegre Arena）演出马德里站，暖场嘉宾为Poppy和Nova Twins。维斯塔莱格雷位于卡拉班切尔区（Carabanchel），从维斯塔莱格雷地铁站（Vista Alegre，5号线）步行即可到达，因此规划路线时应以这座地铁站为中心，而非市中心。出发前请务必在官网确认具体开门时间、演出时间以及余票情况。

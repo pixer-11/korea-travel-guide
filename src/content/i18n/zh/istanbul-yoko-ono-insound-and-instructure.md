@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-yoko-ono-insound-and-instructure
-srcHash: 'b09824803290'
+srcHash: '000000000000'
 title: 小野洋子：声音与结构（Insound and Instructure）：日期、门票与场馆（伊斯坦布尔）
 description: 小野洋子回顾展"Insound and Instructure"将于2026年6月25日至12月15日在土耳其伊斯坦布尔展出。展览内容、时间地点，以及如何安排行程，一并为你梳理清楚。
 quickAnswer: '"小野洋子：声音与结构（Insound and Instructure）"将于2026年6月25日至12月15日在伊斯坦布尔展出，这是一场回顾展，作品跨度从20世纪60年代一直延续到当下。目前公开的信息中并未提及具体场馆地址或门票价格，出行前务必到官方网站确认时间与购票详情。考虑到展览涵盖六十年的观念艺术与参与式创作，建议预留一到两小时的参观时间。'

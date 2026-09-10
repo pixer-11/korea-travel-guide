@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-les-ventres-jaunes
-srcHash: '7e5bf43929e8'
+srcHash: '000000000000'
 title: Les Ventres Jaunes：里昂美食指南（4.6星）
 description: Les Ventres Jaunes是里昂老城（Vieux Lyon）新圣让广场（Place Neuve Saint-Jean）上的一家"博雄"（bouchon）风格餐厅，在裸露横梁、暖黄色调的乡村风格餐厅里，供应分量十足的法式家常菜（肉丸、香肠、烤菜等）。4.6星（3,979条评价）——看看食客怎么说，附营业时间与实用建议。
 quickAnswer: Les Ventres Jaunes是里昂老城新圣让广场上的一家"博雄"风格餐厅，餐厅内部裸露的横梁与暖黄色调的墙壁营造出质朴的乡村氛围，供应分量十足的法式家常菜，包括肉丸、香肠和各式烤菜。餐厅每天营业，午餐时段为11:30am至2:30pm，晚餐时段为6:30至10:30pm。由于名气大、常年爆满，建议提前订位，或是在开门那一刻准时到场。价位属中等水平，周末从中午到晚上10点几乎都是满座状态。

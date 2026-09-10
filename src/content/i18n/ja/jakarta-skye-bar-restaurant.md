@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: jakarta-skye-bar-restaurant
-srcHash: 'bc2a1c29c0db'
+srcHash: '000000000000'
 title: SKYE Bar & Restaurant:ジャカルタ旅行ガイド
 description: インドネシア・ジャカルタで話題の新スポット「SKYE Bar & Restaurant」。その正体、アクセス方法、訪問のコツをまとめてご紹介します。
 quickAnswer: SKYE Bar & Restaurantは、ジャカルタのビジネス街「ゴールデン・トライアングル」(スディルマン/タムリン地区付近)にあるルーフトップバー&レストランで、SNSで話題の夕焼けと夜景が見られることで知られています。Bundaran HI駅またはDukuh Atas駅(MRT)から少し車で移動すれば到着できます。週末の夜は予約が強くおすすめで、日没の30〜45分前に着いておくと、最も美しい光と混雑を避けられます。

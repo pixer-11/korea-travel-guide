@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: mumbai-rameshwaram-cafe
-srcHash: '69a7591e08a1'
+srcHash: '000000000000'
 title: Rameshwaram Cafe孟买旅行指南
 description: 印度孟买的Rameshwaram Cafe——如今大热的新去处：它是什么、开在哪里，以及该怎么去。
 quickAnswer: 发源于班加罗尔（Bengaluru）、以黄油多萨（benne dosa）闻名的南印度连锁餐厅Rameshwaram Cafe，如今已在孟买开出分店，开业没多久就排起了长队。建议工作日一早就去，否则很可能要排队等位；出发前最好先确认具体地址、营业时间，以及能否预订，毕竟新店开业头几个月，这些信息随时可能变动。

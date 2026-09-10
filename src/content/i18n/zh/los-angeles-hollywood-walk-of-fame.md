@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: los-angeles-hollywood-walk-of-fame
-srcHash: '57d6101c01ff'
+srcHash: '000000000000'
 title: 好莱坞星光大道:洛杉矶旅行指南
 description: 任何时间都可以漫步好莱坞大道(Hollywood Boulevard)拉布雷亚(La Brea)到藤街(Vine)之间的路段(可顺道拐去藤街走到日落大道方向)——这里全天24小时开放——但最好选在工作日早上7点到10点，或周末早上7点到9点前往，才能在不被人群淹没的情况下看清那些水磨石星星。
 quickAnswer: 任何时间都可以漫步好莱坞大道(Hollywood Boulevard)拉布雷亚(La Brea)到藤街(Vine)之间的路段(可顺道拐去藤街走到日落大道方向)——这里全天24小时开放——但最好选在工作日早上7点到10点，或周末早上7点到9点前往，才能在不被人群淹没的情况下看清那些水磨石星星。预留大约45到90分钟，穿一双不怕在水泥地上磨损的鞋，顺便再逛逛旁边的中国大剧院(TCL Chinese Theatre)前庭和杜比剧院(Dolby Theatre)。

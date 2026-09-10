@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-blanco-coffee-and-books
-srcHash: '9bb352ab4d19'
+srcHash: '000000000000'
 title: 布兰科咖啡书屋:日惹旅行指南
 description: 布兰科咖啡书屋(Blanco Coffee And Books)是一家采光极佳的极简风格咖啡馆，坐落于日惹旧城墙以北、Tugu Jogja纪念碑附近的Jetis区Jl. Kranggan街上。
 quickAnswer: 布兰科咖啡书屋是一家采光极佳的极简风格咖啡馆，坐落于日惹旧城墙以北、Tugu Jogja纪念碑附近的Jetis区Jl. Kranggan街上。这里以精选印尼单一产地咖啡、简单轻食菜单，以及静谧的阅读角氛围而吸引人前来——最适合在午间人潮和社交媒体打卡人群涌入之前的平日早晨造访。建议预留45到90分钟左右，咖啡加小食的消费属于中等价位(4级中的第2级)。

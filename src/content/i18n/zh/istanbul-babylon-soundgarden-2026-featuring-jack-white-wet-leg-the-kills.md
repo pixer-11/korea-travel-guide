@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: '809e7c8a1c81'
+srcHash: '000000000000'
 title: 2026年巴比伦声音花园音乐节：Jack White、Wet Leg与The Kills领衔（伊斯坦布尔）出行须知
 description: 2026年巴比伦声音花园音乐节（Babylon Soundgarden）定于2026年8月22日至23日在伊斯坦布尔的帕克奥曼自然公园（Parkorman Nature Park）举行，由Jack White、Wet Leg和The Kills担纲headliner。
 quickAnswer: 2026年巴比伦声音花园音乐节定于2026年8月22日至23日举行，地点在伊斯坦布尔马斯拉克/萨勒耶尔（Maslak/Sarıyer）一带的帕克奥曼自然公园（Parkorman Nature Park），已公布的headliner阵容包括Jack White、Wet Leg和The Kills。主办方将这场为期两天的户外音乐节安排在欧洲区一座森林公园场地内。从莱文特（Levent）和马斯拉克（Maslak）出发，乘坐出租车或叫车服务即可轻松抵达帕克奥曼。

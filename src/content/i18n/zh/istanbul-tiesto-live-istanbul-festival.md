@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-tiesto-live-istanbul-festival
-srcHash: '3161a4f99d93'
+srcHash: '000000000000'
 title: 蒂斯托伊斯坦布尔音乐节现场：观演须知（伊斯坦布尔）
 description: 2026年8月8日，土耳其伊斯坦布尔曾公布一场蒂斯托（Tiësto）音乐节演出。当时公布的信息包括：演出日期、耶尼卡珀（Yenikapı）举办场地，以及前往场地的交通方式。
 quickAnswer: 这场音乐节原定于2026年8月8日在耶尼卡珀音乐节公园（Festival Alanı Yenikapı）举行，场地位于历史半岛（Historic Peninsula）临近马尔马拉海（Marmara）的一侧，蒂斯托（Tiësto）是公布的headliner。耶尼卡珀本身就坐落在伊斯坦布尔最大的交通枢纽之一：T1有轨电车、M1A/M1B地铁线以及马尔马拉铁路（Marmaray）都能步行短短一段距离直达场地。至于票价档位、入场时间和舞台细节，当时并未对外公布。

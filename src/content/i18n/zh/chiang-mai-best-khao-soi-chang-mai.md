@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-best-khao-soi-chang-mai
-srcHash: 'ca2574b4a0ab'
+srcHash: '000000000000'
 title: 清迈最佳考索伊（Best Khao Soi Chang Mai）：清迈美食指南
 description: 前往帕辛（Phra Singh）区的 Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗经典的考索伊——这是一道泰北咖喱面，上面铺满了脆脆的蛋面。
 quickAnswer: 前往帕辛（Phra Singh）区的 Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗经典的考索伊——这是一道泰北咖喱面，上面铺满了脆脆的蛋面。这家店在 252 条评论中获得了高达 4.6 分的评分，所以别指望花哨的装修，这里主打的是把这一碗面做到位，环境朴实无华。建议晚上前往——工作日营业时间为下午 4 点到晚上 10 点，周六为下午 3 点到晚上 10 点，周日休息——点一碗鸡肉或牛肉口味的考索伊，坐下来慢慢吃完一碗加配菜，大概需要 30-45 分钟。

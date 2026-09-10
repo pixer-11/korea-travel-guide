@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: madrid-museo-nacional-del-prado
-srcHash: 'cb136effaf59'
+srcHash: '000000000000'
 title: 普拉多国立博物馆:马德里旅行指南
 description: 普拉多博物馆是马德里必看的艺术殿堂，收藏有委拉斯开兹的《宫娥》、戈雅的《黑色绘画》系列，以及世界上最精彩的埃尔·格列柯作品之一。
 quickAnswer: 普拉多博物馆是马德里必看的艺术殿堂，收藏有委拉斯开兹(Velázquez)的《宫娥》(Las Meninas)、戈雅(Goya)的《黑色绘画》系列，以及世界上最精彩的埃尔·格列柯(El Greco)作品之一。建议从普拉多大道(Paseo del Prado)上的赫罗尼莫斯门(Jerónimos entrance)进入，预留至少2.5至3小时参观时间，并提前在网上预订指定时段门票以免排队。若想获得更从容的参观体验，建议选择工作日清晨或免费开放的傍晚时段前往。

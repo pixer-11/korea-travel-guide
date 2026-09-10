@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tokyo-ultra-japan-2026
-srcHash: 'de2adcf42a6c'
+srcHash: '000000000000'
 title: Ultra Japan 2026完全攻略：举办日期、门票与场地（东京）
 description: 2026年9月19日至20日，Ultra Japan 2026将在东京举行。这是什么活动、何时何地举办，以及如何规划行程，本文一一说明。
 quickAnswer: Ultra Japan 2026于9月19日至20日在东京御台场Ultra Park（Odaiba Ultra Park）举行，第三阶段（Phase 3）公布的阵容包括Zedd、Alesso、Peggy Gou和Knock2，演出分布在多个舞台上。门票、具体演出时间和入场细节均由Ultra Japan官网统一发布，预订机票和酒店前务必先到官网确认相关信息。御台场地处海滨，出行建议搭乘百合海鸥线（Yurikamome Line）或临海线（Rinkai Line），不建议自驾前往。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: davao-philippine-eagle-center
-srcHash: '92c3f8aa3d8d'
+srcHash: '000000000000'
 title: 菲律宾鹰保护中心：达沃旅行指南
 description: 菲律宾鹰保护中心（Philippine Eagle Center）位于马拉戈斯（Malagos），距达沃市中心车程约45–60分钟，每天上午8:00至下午4:30开放。
 quickAnswer: 菲律宾鹰保护中心位于马拉戈斯，距达沃市中心车程约45–60分钟，每天上午8:00至下午4:30开放。建议预留1.5–2小时走完穿林步道，沿途可看到网罩式圈养区；如果可以，尽量安排在平日上午前往——这里名气不小，但因为路途较远，很少会显得拥挤。可以把这里和附近的马拉戈斯花园度假村（Malagos Garden Resort）或巧克力农场结合起来，安排一次半天行程。

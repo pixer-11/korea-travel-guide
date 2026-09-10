@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-nobu-the-link-one-za-abeel
-srcHash: '3268d718d48a'
+srcHash: '000000000000'
 title: 迪拜Nobu餐厅（One Za'abeel天桥The Link店）旅行指南
 description: 迪拜Nobu餐厅（One Za'abeel天桥The Link店）——一处新晋热门去处：这里是什么、位于何处，以及该如何前往。
 quickAnswer: Nobu在One Za'abeel天桥The Link的这家分店，是这个日式秘鲁风味名牌在迪拜开出的第三家、也是最新一家门店。它悬浮在230米高空，坐落于连接One Za'abeel双塔、创下吉尼斯世界纪录的悬臂式结构之中。餐厅于2026年1月开业，凭借落地窗外一览无余的迪拜市中心（Downtown Dubai）和迪拜国际金融中心（DIFC）天际线景观，很快便成为全城最难订到位的餐厅之一。建议尽早预订，着装以商务休闲到精致时尚为宜，日落时分前往可欣赏到最美的光影。
