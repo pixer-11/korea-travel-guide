@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malang-arema-blue-village
-srcHash: 'b4bcd066a0c2'
+srcHash: '3ff5d25c12db'
 title: 'Arema Blue Village: Guía de viaje de Malang (4.5★)'
-description: Arema Blue Village es un pequeño kampung de callejones pintados en el barrio de Kiduldalem, en el centro de Malang, donde cada pared, escalera y tejado está bañado en azul cobalto como tributo al club de fútbol local Arema FC. 4.5★ (941 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: Arema Blue Village es un pequeño kampung de callejones pintados en el barrio de Kiduldalem, en el centro de Malang, donde cada pared, escalera y tejado está bañado en azul cobalto como tributo al club de fútbol local Arema FC. 4.5★ (948 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Arema Blue Village es un pequeño kampung de callejones pintados en el barrio de Kiduldalem, en el centro de Malang, donde cada pared, escalera y tejado está bañado en azul cobalto como tributo al club de fútbol local Arema FC. Dedícale entre 30 y 45 minutos a pie, idealmente a media mañana en un día de semana, cuando los callejones están tranquilos y la luz es mejor para las fotos. Es gratis recorrerlo, aunque una pequeña caja de donaciones ayuda a los residentes a mantener la pintura.
 faq:
   - q: ¿Cuánto cuesta visitar Arema Blue Village?

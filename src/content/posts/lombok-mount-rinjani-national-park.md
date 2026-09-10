@@ -1,58 +1,88 @@
 ---
-title: "Mount Rinjani National Park: Lombok Travel Guide (4.7★)"
-description: Mount Rinjani National Park in Senaru, North Lombok, is Indonesia's second-highest volcano and the island's main multi-day trekking destination, best tackled between April and December when trails are dry and open. 4.7★ (1,813 reviews) — what visitors say, hours, and tips.
+title: 'Mount Rinjani National Park: Lombok Travel Guide (4.7★)'
+description: >-
+  Mount Rinjani National Park in Senaru, North Lombok, is Indonesia's
+  second-highest volcano and the island's main multi-day trekking destination,
+  best tackled between April and December when trails are dry and open. 4.7★
+  (1,816 reviews) — what visitors say, hours, and tips.
 country: Indonesia
 region: Lombok
 category: attraction
-pubDate: "2026-09-10T07:37:29.440Z"
+pubDate: '2026-09-10T07:37:29.440Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg
-  credit: "Photo: Ramantara / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg
+  credit: 'Photo: Ramantara / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lembah_Torean_Rinjani.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Lembah_Torean_Rinjani.jpg'
   focus:
     x: 50
-    "y": 50
+    'y': 50
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rinjani_Lombok_Indo.jpg/3840px-Rinjani_Lombok_Indo.jpg
-    credit: "Photo: Nature act / Wikimedia Commons (CC BY-SA 3.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rinjani_Lombok_Indo.jpg/3840px-Rinjani_Lombok_Indo.jpg
+    credit: 'Photo: Nature act / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Rinjani_Lombok_Indo.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Rinjani_Lombok_Indo.jpg'
 place:
   id: ChIJ3f___z_NzS0RYcKdlU9Vb_g
   name: Mount Rinjani National Park
-  address: Semeru, Senaru, Kec. Bayan, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83354, Indonesia
+  address: >-
+    Semeru, Senaru, Kec. Bayan, Kabupaten Lombok Utara, Nusa Tenggara Bar.
+    83354, Indonesia
   rating: 4.7
-  userRatingsTotal: 1813
-  googleMapsUrl: https://maps.google.com/?cid=17901620844121932385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1816
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17901620844121932385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.4254297
   lng: 116.39580269999999
   openingHours:
-    - "Monday: 7:00 AM – 7:30 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:30 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
 tags:
   - lombok
   - park
-quickAnswer: Mount Rinjani National Park in Senaru, North Lombok, is Indonesia's second-highest volcano and the island's main multi-day trekking destination, best tackled between April and December when trails are dry and open. Registration gates run 7am to 7pm daily (7:30pm Mondays), but the summit push itself starts well before dawn regardless of park hours. Budget two to four days and go with a licensed guide; solo trekking isn't permitted.
+quickAnswer: >-
+  Mount Rinjani National Park in Senaru, North Lombok, is Indonesia's
+  second-highest volcano and the island's main multi-day trekking destination,
+  best tackled between April and December when trails are dry and open.
+  Registration gates run 7am to 7pm daily (7:30pm Mondays), but the summit push
+  itself starts well before dawn regardless of park hours. Budget two to four
+  days and go with a licensed guide; solo trekking isn't permitted.
 faq:
   - q: How long does the Mount Rinjani trek take?
-    a: The Senaru crater rim trek is typically 2 days, 1 night. Reaching the summit and Segara Anak lake usually needs 3 to 4 days, 2 or 3 nights.
+    a: >-
+      The Senaru crater rim trek is typically 2 days, 1 night. Reaching the
+      summit and Segara Anak lake usually needs 3 to 4 days, 2 or 3 nights.
   - q: Do I need a guide for Rinjani?
-    a: Yes. Independent trekking is not permitted inside the national park; you must book through a licensed trekking organizer who provides a guide, porters and the park permit.
+    a: >-
+      Yes. Independent trekking is not permitted inside the national park; you
+      must book through a licensed trekking organizer who provides a guide,
+      porters and the park permit.
   - q: What's the best time to trek Rinjani?
-    a: April to December is the dry season and the only period treks reliably run. The park is typically closed to hikers January through March due to rain and landslide risk.
+    a: >-
+      April to December is the dry season and the only period treks reliably
+      run. The park is typically closed to hikers January through March due to
+      rain and landslide risk.
   - q: How do I get to the trailhead?
-    a: Senaru village, the main northern trailhead, is about 2 to 2.5 hours by road from Mataram or the Gili Islands ferry docks. Sembalun, the eastern trailhead, is roughly 3 hours from Mataram.
+    a: >-
+      Senaru village, the main northern trailhead, is about 2 to 2.5 hours by
+      road from Mataram or the Gili Islands ferry docks. Sembalun, the eastern
+      trailhead, is roughly 3 hours from Mataram.
   - q: What should I pack for the summit push?
-    a: A warm jacket, headlamp, sturdy boots and trekking poles are essential; the pre-dawn summit approach crosses loose volcanic scree in near-freezing temperatures despite Lombok's tropical lowlands.
+    a: >-
+      A warm jacket, headlamp, sturdy boots and trekking poles are essential;
+      the pre-dawn summit approach crosses loose volcanic scree in near-freezing
+      temperatures despite Lombok's tropical lowlands.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 ## What you're actually climbing

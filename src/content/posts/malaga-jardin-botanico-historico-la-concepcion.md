@@ -1,25 +1,30 @@
 ---
 title: 'Jardín Botánico - Histórico La Concepción: Malaga Travel Guide'
-description: La Concepción is a 23-hectare tropical garden on the northern edge of Málaga, easily worth a half-day visit for its century-old ficus trees, bamboo tunnels, and Mudéjar-tiled viewpoints.
+description: >-
+  La Concepción is a 23-hectare tropical garden on the northern edge of Málaga,
+  easily worth a half-day visit for its century-old ficus trees, bamboo tunnels,
+  and Mudéjar-tiled viewpoints.
 country: Spain
 region: Malaga
 category: hidden-gem
 pubDate: '2026-07-29T10:15:24.401Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9989180_YQ9oJvlrnWL5qxR-J--OYK7WPjEFSFcIkn4F21JbGEM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/9989180_YQ9oJvlrnWL5qxR-J--OYK7WPjEFSFcIkn4F21JbGEM.jpg
   credit: 'Photo: Foursquare user content (Jardín Botánico La Concepción)'
   license: foursquare
-  source: https://foursquare.com/v/4c3780213849c928f3d1bdb1
+  source: 'https://foursquare.com/v/4c3780213849c928f3d1bdb1'
   focus:
     x: 50
-    y: 60
+    'y': 60
 place:
   id: ChIJBeoOtEP2cg0RAui-vP66EyM
   name: Jardín Botánico - Histórico La Concepción
-  address: Cam. del Jardin Botanico, 3, Cdad. Jardín, 29014 Málaga, Spain
+  address: 'Cam. del Jardin Botanico, 3, Cdad. Jardín, 29014 Málaga, Spain'
   rating: 4.6
-  userRatingsTotal: 14590
-  googleMapsUrl: https://maps.google.com/?cid=2527569419136067586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 14720
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2527569419136067586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.7601029
   lng: -4.4262669
@@ -50,20 +55,43 @@ place:
 tags:
   - malaga
   - hidden gem
-quickAnswer: La Concepción is a 23-hectare tropical garden on the northern edge of Málaga, easily worth a half-day visit for its century-old ficus trees, bamboo tunnels, and Mudéjar-tiled viewpoints. It's very popular, so don't expect a hidden retreat — the calmest hours on weekdays run from 7pm to 8:30pm (check seasonal closing times before planning around this), while weekends stay busy from noon to 8pm. Go on a weekday morning, wear closed shoes for the sloping paths, and budget two to three hours.
+quickAnswer: >-
+  La Concepción is a 23-hectare tropical garden on the northern edge of Málaga,
+  easily worth a half-day visit for its century-old ficus trees, bamboo tunnels,
+  and Mudéjar-tiled viewpoints. It's very popular, so don't expect a hidden
+  retreat — the calmest hours on weekdays run from 7pm to 8:30pm (check seasonal
+  closing times before planning around this), while weekends stay busy from noon
+  to 8pm. Go on a weekday morning, wear closed shoes for the sloping paths, and
+  budget two to three hours.
 faq:
   - q: How do I get to La Concepción from central Málaga?
-    a: It's about 4km north of the old town in the Ciudad Jardín district. Taxi or rideshare is quickest; local EMT buses also run toward the area, and there's an on-site car park if you're driving.
+    a: >-
+      It's about 4km north of the old town in the Ciudad Jardín district. Taxi
+      or rideshare is quickest; local EMT buses also run toward the area, and
+      there's an on-site car park if you're driving.
   - q: How long should I plan to spend there?
-    a: Budget two to three hours to walk the full loop comfortably, including the Historic Garden, palm grove, bamboo corridor, and the mirador viewpoint.
+    a: >-
+      Budget two to three hours to walk the full loop comfortably, including the
+      Historic Garden, palm grove, bamboo corridor, and the mirador viewpoint.
   - q: When is the quietest time to visit?
-    a: On weekdays, the calmest window is 7pm–8:30pm, though you should confirm current closing hours since the garden doesn't always stay open that late. Weekends are consistently busy from noon to 8pm, so arrive at opening if you're visiting then.
+    a: >-
+      On weekdays, the calmest window is 7pm–8:30pm, though you should confirm
+      current closing hours since the garden doesn't always stay open that late.
+      Weekends are consistently busy from noon to 8pm, so arrive at opening if
+      you're visiting then.
   - q: Is La Concepción a hidden gem?
-    a: No — it's a well-known, heavily visited garden with a strong reputation among both locals and tourists. It's worth visiting for its scale and age, but don't expect it to be empty.
+    a: >-
+      No — it's a well-known, heavily visited garden with a strong reputation
+      among both locals and tourists. It's worth visiting for its scale and age,
+      but don't expect it to be empty.
   - q: What's the best season to go?
-    a: Spring and autumn mornings are most comfortable, since Málaga's summer humidity and heat can make the lower, shaded paths sticky and the open miradors uncomfortable by early afternoon.
+    a: >-
+      Spring and autumn mornings are most comfortable, since Málaga's summer
+      humidity and heat can make the lower, shaded paths sticky and the open
+      miradors uncomfortable by early afternoon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 You arrive expecting a garden and instead get a small jungle. La Concepción sits in a bend of the Guadalmedina river valley, just north of central Málaga, and the change in air as you step through the gate is immediate, cooler, damper, thick with the green smell of leaf litter and running water. Founded in 1855 by a local aristocratic couple obsessed with exotic botany, it's one of the oldest subtropical gardens in Europe, and the age shows in the scale of things: ficus trees with root systems like cathedral buttresses, a bamboo corridor that swallows the light overhead, and palms brought back from five continents by ships that took months to arrive.
 

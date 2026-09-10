@@ -1,59 +1,83 @@
 ---
-title: "Legazpi Sunday Market: Manila Travel Guide (4.4★)"
-description: "Legazpi Sunday Market runs every Sunday, 7:30am–2pm, in Legazpi Village, Makati — and only on Sundays, so plan around that. 4.4★ (2,183 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Manila"
-category: "hidden-gem"
-pubDate: "2026-08-21T08:07:43.964Z"
+title: 'Legazpi Sunday Market: Manila Travel Guide (4.4★)'
+description: >-
+  Legazpi Sunday Market runs every Sunday, 7:30am–2pm, in Legazpi Village,
+  Makati — and only on Sundays, so plan around that. 4.4★ (2,191 reviews) — what
+  visitors say, hours, and tips.
+country: Philippines
+region: Manila
+category: hidden-gem
+pubDate: '2026-08-21T08:07:43.964Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg/3840px-Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vietnamese_Stall_in_Legazpi_Sunday_Market,_Makati,_Feb_2026.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg/3840px-Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Vietnamese_Stall_in_Legazpi_Sunday_Market,_Makati,_Feb_2026.jpg
   focus:
     x: 50
-    y: 60
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ilocos_Empanada_%28Legazpi_Sunday_Market%2C_Makati%29.jpg/3840px-Ilocos_Empanada_%28Legazpi_Sunday_Market%2C_Makati%29.jpg"
-    credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ilocos_Empanada_(Legazpi_Sunday_Market,_Makati).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ilocos_Empanada_%28Legazpi_Sunday_Market%2C_Makati%29.jpg/3840px-Ilocos_Empanada_%28Legazpi_Sunday_Market%2C_Makati%29.jpg
+    credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ilocos_Empanada_(Legazpi_Sunday_Market,_Makati).jpg
 place:
-  id: "ChIJ6bzx3g3JlzMRaYZRn-QVC2o"
-  name: "Legazpi Sunday Market"
-  address: "Legazpi St, Village, Makati City, Metro Manila, Philippines"
+  id: ChIJ6bzx3g3JlzMRaYZRn-QVC2o
+  name: Legazpi Sunday Market
+  address: 'Legazpi St, Village, Makati City, Metro Manila, Philippines'
   rating: 4.4
-  userRatingsTotal: 2183
-  googleMapsUrl: "https://maps.google.com/?cid=7641225264433825385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2191
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7641225264433825385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.553631599999997
   lng: 121.0186882
-  phone: "+63 918 965 7825"
+  phone: +63 918 965 7825
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: Closed"
-    - "Sunday: 7:30 AM – 2:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: Closed'
+    - 'Sunday: 7:30 AM – 2:00 PM'
 tags:
-  - "manila"
-  - "local market"
-quickAnswer: "Legazpi Sunday Market runs every Sunday, 7:30am–2pm, in Legazpi Village, Makati — and only on Sundays, so plan around that. Arrive by 8:30am for the best food stalls before the midday crowd and heat hit around 11am. Come hungry, bring cash, and budget an hour or two to graze and browse."
+  - manila
+  - local market
+quickAnswer: >-
+  Legazpi Sunday Market runs every Sunday, 7:30am–2pm, in Legazpi Village,
+  Makati — and only on Sundays, so plan around that. Arrive by 8:30am for the
+  best food stalls before the midday crowd and heat hit around 11am. Come
+  hungry, bring cash, and budget an hour or two to graze and browse.
 faq:
-  - q: "What are the opening hours for Legazpi Sunday Market?"
-    a: "It's open only on Sundays, from 7:30am to 2:00pm. It's closed every other day of the week."
-  - q: "What's the quietest time to visit?"
-    a: "Arrive right at or shortly after opening, around 7:30–8:30am, before the late-morning crowd and heat build up."
-  - q: "How do I get to Legazpi Sunday Market?"
-    a: "It's located on Legazpi Street in Legazpi Village, Makati, near Washington SyCip Park. A Grab ride or taxi from anywhere in Makati or Metro Manila is the easiest option, as there's no nearby MRT station."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan for 60 to 90 minutes to eat, graze multiple food stalls, and browse the furniture and produce sections without rushing."
-  - q: "Do vendors accept cards?"
-    a: "Mostly no — bring cash, since many small stalls are cash-only and exact change helps move things along at busy counters."
+  - q: What are the opening hours for Legazpi Sunday Market?
+    a: >-
+      It's open only on Sundays, from 7:30am to 2:00pm. It's closed every other
+      day of the week.
+  - q: What's the quietest time to visit?
+    a: >-
+      Arrive right at or shortly after opening, around 7:30–8:30am, before the
+      late-morning crowd and heat build up.
+  - q: How do I get to Legazpi Sunday Market?
+    a: >-
+      It's located on Legazpi Street in Legazpi Village, Makati, near Washington
+      SyCip Park. A Grab ride or taxi from anywhere in Makati or Metro Manila is
+      the easiest option, as there's no nearby MRT station.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Plan for 60 to 90 minutes to eat, graze multiple food stalls, and browse
+      the furniture and produce sections without rushing.
+  - q: Do vendors accept cards?
+    a: >-
+      Mostly no — bring cash, since many small stalls are cash-only and exact
+      change helps move things along at busy counters.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 ## Why go
 

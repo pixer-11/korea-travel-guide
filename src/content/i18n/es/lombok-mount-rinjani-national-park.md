@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lombok-mount-rinjani-national-park
-srcHash: '3c2b9ed9a58d'
+srcHash: '45bd8fda5ce3'
 title: 'Parque Nacional del Monte Rinjani: guía de viaje de Lombok (4.7★)'
-description: 'El Parque Nacional del Monte Rinjani, en Senaru, en el norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; la mejor época para recorrerlo va de abril a diciembre, cuando los senderos están secos y abiertos. 4.7★ (1.813 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos.'
+description: 'El Parque Nacional del Monte Rinjani, en Senaru, en el norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; la mejor época para recorrerlo va de abril a diciembre, cuando los senderos están secos y abiertos. 4.7★ (1.816 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos.'
 quickAnswer: El Parque Nacional del Monte Rinjani, en Senaru, en el norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; la mejor época para recorrerlo va de abril a diciembre, cuando los senderos están secos y abiertos. Las puertas de registro abren todos los días de 7:00 a 19:00 (hasta las 19:30 los lunes), aunque el ascenso final a la cumbre comienza mucho antes del amanecer, sin importar el horario del parque. Hay que reservar entre dos y cuatro días y contratar un guía autorizado, ya que no se permite el trekking en solitario.
 faq:
   - q: ¿Cuánto dura el trekking al Monte Rinjani?

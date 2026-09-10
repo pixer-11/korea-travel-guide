@@ -1,39 +1,46 @@
 ---
-title: "Pasar Oro Oro Dowo: Malang Travel Guide (4.7★)"
-description: "Pasar Oro Oro Dowo is a busy, well-rated traditional market in Klojen, central Malang, open daily 5am–5pm for fresh produce, spices, household goods and warung food stalls."
-country: "Indonesia"
-region: "Malang"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:00:35.586Z"
+title: 'Pasar Oro Oro Dowo: Malang Travel Guide (4.7★)'
+description: >-
+  Pasar Oro Oro Dowo is a busy, well-rated traditional market in Klojen, central
+  Malang, open daily 5am–5pm for fresh produce, spices, household goods and
+  warung food stalls.
+country: Indonesia
+region: Malang
+category: hidden-gem
+pubDate: '2026-08-16T08:00:35.586Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pasar_Oro_Oro_Dowo_1.jpg/3840px-Pasar_Oro_Oro_Dowo_1.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pasar_Oro_Oro_Dowo_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pasar_Oro_Oro_Dowo_1.jpg/3840px-Pasar_Oro_Oro_Dowo_1.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasar_Oro_Oro_Dowo_1.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJAQAAQCko1i0RCmGId8mx1GE"
-  name: "Pasar Oro Oro Dowo"
-  address: "Jl. Guntur No.20, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65112, Indonesia"
+  id: ChIJAQAAQCko1i0RCmGId8mx1GE
+  name: Pasar Oro Oro Dowo
+  address: >-
+    Jl. Guntur No.20, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65112,
+    Indonesia
   rating: 4.7
-  userRatingsTotal: 13383
-  googleMapsUrl: "https://maps.google.com/?cid=7049454795593638154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13464
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7049454795593638154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.968776200000001
   lng: 112.6283218
   openingHours:
-    - "Monday: 5:00 AM – 5:00 PM"
-    - "Tuesday: 5:00 AM – 5:00 PM"
-    - "Wednesday: 5:00 AM – 5:00 PM"
-    - "Thursday: 5:00 AM – 5:00 PM"
-    - "Friday: 5:00 AM – 5:00 PM"
-    - "Saturday: 5:00 AM – 5:00 PM"
-    - "Sunday: 5:00 AM – 5:00 PM"
+    - 'Monday: 5:00 AM – 5:00 PM'
+    - 'Tuesday: 5:00 AM – 5:00 PM'
+    - 'Wednesday: 5:00 AM – 5:00 PM'
+    - 'Thursday: 5:00 AM – 5:00 PM'
+    - 'Friday: 5:00 AM – 5:00 PM'
+    - 'Saturday: 5:00 AM – 5:00 PM'
+    - 'Sunday: 5:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 13
       - 14
@@ -52,24 +59,43 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_454731786d386449476d43523069316f6b4351414151414a496843"
+    venueId: ven_454731786d386449476d43523069316f6b4351414151414a496843
 tags:
-  - "malang"
-  - "local market"
-quickAnswer: "Pasar Oro Oro Dowo is a busy, well-rated traditional market in Klojen, central Malang, open daily 5am–5pm for fresh produce, spices, household goods and warung food stalls. Go on a weekday afternoon between 1pm and 5pm if you want to browse without fighting crowds — weekends before noon are the busiest and best avoided unless you like the chaos. Budget an hour, bring small rupiah notes, and come hungry for breakfast-style local dishes."
+  - malang
+  - local market
+quickAnswer: >-
+  Pasar Oro Oro Dowo is a busy, well-rated traditional market in Klojen, central
+  Malang, open daily 5am–5pm for fresh produce, spices, household goods and
+  warung food stalls. Go on a weekday afternoon between 1pm and 5pm if you want
+  to browse without fighting crowds — weekends before noon are the busiest and
+  best avoided unless you like the chaos. Budget an hour, bring small rupiah
+  notes, and come hungry for breakfast-style local dishes.
 faq:
-  - q: "What are the opening hours?"
-    a: "Pasar Oro Oro Dowo is open daily from 5:00 AM to 5:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 1pm and 5pm are calmest. On weekends, aim for 2pm–5pm — mornings from 7am to noon are the busiest period, especially Saturday and Sunday."
-  - q: "How do I get there without a car?"
-    a: "There's no direct train or major bus route to the market's street, so most visitors use a ride-hailing app (Gojek or Grab) or a taxi from central Malang."
-  - q: "How long should I spend there?"
-    a: "An hour is enough to walk the market, browse the produce and spice stalls, and grab a meal at a warung. Add extra time if you plan to eat and linger."
-  - q: "Do I need cash?"
-    a: "Yes — vendors here operate almost entirely on cash, so bring small rupiah notes for produce, snacks and household goods."
+  - q: What are the opening hours?
+    a: >-
+      Pasar Oro Oro Dowo is open daily from 5:00 AM to 5:00 PM, with no weekly
+      closing day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 1pm and 5pm are calmest. On weekends, aim for 2pm–5pm —
+      mornings from 7am to noon are the busiest period, especially Saturday and
+      Sunday.
+  - q: How do I get there without a car?
+    a: >-
+      There's no direct train or major bus route to the market's street, so most
+      visitors use a ride-hailing app (Gojek or Grab) or a taxi from central
+      Malang.
+  - q: How long should I spend there?
+    a: >-
+      An hour is enough to walk the market, browse the produce and spice stalls,
+      and grab a meal at a warung. Add extra time if you plan to eat and linger.
+  - q: Do I need cash?
+    a: >-
+      Yes — vendors here operate almost entirely on cash, so bring small rupiah
+      notes for produce, snacks and household goods.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 ## Why go

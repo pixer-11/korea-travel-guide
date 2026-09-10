@@ -1,48 +1,73 @@
 ---
-title: "Vieille ville de Colmar: Travel Guide (4.8★)"
-description: "Vieille ville de Colmar, the old town centered around Rue des Tanneurs and the \"Petite Venise\" canals, is Colmar's main draw and easily worth a half or full day on foot. 4.8★ (2,427 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Colmar"
-category: "attraction"
-pubDate: "2026-09-10T07:41:05.670Z"
+title: 'Vieille ville de Colmar: Travel Guide (4.8★)'
+description: >-
+  Vieille ville de Colmar, the old town centered around Rue des Tanneurs and the
+  "Petite Venise" canals, is Colmar's main draw and easily worth a half or full
+  day on foot. 4.8★ (2,432 reviews) — what visitors say, hours, and tips.
+country: France
+region: Colmar
+category: attraction
+pubDate: '2026-09-10T07:41:05.670Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG"
-  credit: "Photo: 0x010C / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Colmar_vieille_ville.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG
+  credit: 'Photo: 0x010C / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Colmar_vieille_ville.JPG'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJV1IS1GRlkUcRO8b1nYYafrQ"
-  name: "Vieille ville de Colmar"
-  address: "Rue des Tanneurs, 68000 Colmar, France"
+  id: ChIJV1IS1GRlkUcRO8b1nYYafrQ
+  name: Vieille ville de Colmar
+  address: 'Rue des Tanneurs, 68000 Colmar, France'
   rating: 4.8
-  userRatingsTotal: 2427
-  googleMapsUrl: "https://maps.google.com/?cid=13005861939370640955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2432
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13005861939370640955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.075267499999995
   lng: 7.359580399999999
-  phone: "+33 3 89 20 68 92"
+  phone: +33 3 89 20 68 92
 tags:
-  - "colmar"
-  - "historic site"
-quickAnswer: "Vieille ville de Colmar, the old town centered around Rue des Tanneurs and the \"Petite Venise\" canals, is Colmar's main draw and easily worth a half or full day on foot. It's well-known and busy, especially in summer and around the Christmas markets, so aim for early morning or late afternoon. Everything sits within a compact, walkable core, so you don't need a car once you're inside it."
+  - colmar
+  - historic site
+quickAnswer: >-
+  Vieille ville de Colmar, the old town centered around Rue des Tanneurs and the
+  "Petite Venise" canals, is Colmar's main draw and easily worth a half or full
+  day on foot. It's well-known and busy, especially in summer and around the
+  Christmas markets, so aim for early morning or late afternoon. Everything sits
+  within a compact, walkable core, so you don't need a car once you're inside
+  it.
 faq:
-  - q: "Where exactly is the old town and what's a good starting point?"
-    a: "It's centered around Rue des Tanneurs, 68000 Colmar, with Place de l'Ancienne Douane a convenient starting square before you head toward the Petite Venise canals."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers the main streets; a half or full day lets you add the boat ride on the Lauch and a sit-down meal."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening in the morning or in the late afternoon, before or after the day-trip coach groups from Strasbourg and Basel; weekday mornings are quieter than weekends, especially in summer."
-  - q: "Is the boat ride on the canal worth it?"
-    a: "It's a nice way to see the water-facing sides of the houses, but queues get long once tour groups arrive; walking the towpaths gives similar views for free if you'd rather skip the wait."
-  - q: "Do I need a car to see the old town?"
-    a: "No, the entire district is compact and pedestrian-friendly with cobblestone streets, so it's best explored entirely on foot."
+  - q: Where exactly is the old town and what's a good starting point?
+    a: >-
+      It's centered around Rue des Tanneurs, 68000 Colmar, with Place de
+      l'Ancienne Douane a convenient starting square before you head toward the
+      Petite Venise canals.
+  - q: How long should I plan to spend there?
+    a: >-
+      Two to three hours covers the main streets; a half or full day lets you
+      add the boat ride on the Lauch and a sit-down meal.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go right at opening in the morning or in the late afternoon, before or
+      after the day-trip coach groups from Strasbourg and Basel; weekday
+      mornings are quieter than weekends, especially in summer.
+  - q: Is the boat ride on the canal worth it?
+    a: >-
+      It's a nice way to see the water-facing sides of the houses, but queues
+      get long once tour groups arrive; walking the towpaths gives similar views
+      for free if you'd rather skip the wait.
+  - q: Do I need a car to see the old town?
+    a: >-
+      No, the entire district is compact and pedestrian-friendly with
+      cobblestone streets, so it's best explored entirely on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 Colmar's old town isn't a single monument you tick off; it's a district you wander through, block by block of half-timbered houses in ochre, pink and green, their upper floors leaning slightly into the street the way medieval construction always did when builders wanted to save on ground-floor tax space.

@@ -1,39 +1,44 @@
 ---
-title: "Odisha State Museum: Bhubaneswar Travel Guide (4.5★)"
-description: "Odisha State Museum in BJB Nagar, Bhubaneswar, holds palm-leaf manuscripts, Buddhist and Jain stone sculpture, and a natural history wing across several galleries. 4.5★ (15,547 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bhubaneswar"
-category: "attraction"
-pubDate: "2026-09-10T07:52:42.498Z"
+title: 'Odisha State Museum: Bhubaneswar Travel Guide (4.5★)'
+description: >-
+  Odisha State Museum in BJB Nagar, Bhubaneswar, holds palm-leaf manuscripts,
+  Buddhist and Jain stone sculpture, and a natural history wing across several
+  galleries. 4.5★ (15,549 reviews) — what visitors say, hours, and tips.
+country: India
+region: Bhubaneswar
+category: attraction
+pubDate: '2026-09-10T07:52:42.498Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bhubaneswar_State_Museum.jpg/1920px-Bhubaneswar_State_Museum.jpg"
-  credit: "Photo: User:Tinucherian / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bhubaneswar_State_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bhubaneswar_State_Museum.jpg/1920px-Bhubaneswar_State_Museum.jpg
+  credit: 'Photo: User:Tinucherian / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bhubaneswar_State_Museum.jpg'
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJk2xMtjenGToRLL1qb6ks-xU"
-  name: "Odisha State Museum"
-  address: "Kalpana Square, BJB Nagar, Bhubaneswar, Odisha 751014, India"
+  id: ChIJk2xMtjenGToRLL1qb6ks-xU
+  name: Odisha State Museum
+  address: 'Kalpana Square, BJB Nagar, Bhubaneswar, Odisha 751014, India'
   rating: 4.5
-  userRatingsTotal: 15547
-  googleMapsUrl: "https://maps.google.com/?cid=1583908800181222700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15549
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1583908800181222700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.256244199999998
   lng: 85.8409178
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:30 PM"
-    - "Wednesday: 10:00 AM – 5:30 PM"
-    - "Thursday: 10:00 AM – 5:30 PM"
-    - "Friday: 10:00 AM – 5:30 PM"
-    - "Saturday: 10:00 AM – 5:30 PM"
-    - "Sunday: 10:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-09-10
+    updated: 2026-09-10T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -50,24 +55,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_55782d736b366271314c4c526f54476e656a744d78326b4a496843"
+    venueId: ven_55782d736b366271314c4c526f54476e656a744d78326b4a496843
 tags:
-  - "bhubaneswar"
-  - "museum"
-quickAnswer: "Odisha State Museum in BJB Nagar, Bhubaneswar, holds palm-leaf manuscripts, Buddhist and Jain stone sculpture, and a natural history wing across several galleries. It's open 10am–5:30pm every day except Monday, and weekends run busy from 10am to 5pm straight through, so a weekday morning is the calmer choice. Budget 90 minutes to two hours to cover the main galleries without rushing."
+  - bhubaneswar
+  - museum
+quickAnswer: >-
+  Odisha State Museum in BJB Nagar, Bhubaneswar, holds palm-leaf manuscripts,
+  Buddhist and Jain stone sculpture, and a natural history wing across several
+  galleries. It's open 10am–5:30pm every day except Monday, and weekends run
+  busy from 10am to 5pm straight through, so a weekday morning is the calmer
+  choice. Budget 90 minutes to two hours to cover the main galleries without
+  rushing.
 faq:
-  - q: "What are the opening hours?"
-    a: "10:00 AM to 5:30 PM every day except Monday, when the museum is closed entirely."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings are your best bet. Weekends are busy from 10am to 5pm with no clear quiet window, so avoid Saturday and Sunday if you want a relaxed pace."
-  - q: "How long should I plan to spend inside?"
-    a: "Around 90 minutes to two hours covers the archaeology, manuscript, sculpture, and natural history sections without rushing."
-  - q: "How do I get there?"
-    a: "The museum is at Kalpana Square in BJB Nagar. Autos from Bhubaneswar railway station or the Old Town temple area are the simplest way in; it's not directly on a major metro or rail line."
-  - q: "Is it worth visiting if I'm short on time?"
-    a: "Yes, especially for the palm-leaf manuscript gallery and Buddhist/Jain stone sculpture, which are the strongest sections and don't take long to see even on a tight schedule."
+  - q: What are the opening hours?
+    a: >-
+      10:00 AM to 5:30 PM every day except Monday, when the museum is closed
+      entirely.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings are your best bet. Weekends are busy from 10am to 5pm
+      with no clear quiet window, so avoid Saturday and Sunday if you want a
+      relaxed pace.
+  - q: How long should I plan to spend inside?
+    a: >-
+      Around 90 minutes to two hours covers the archaeology, manuscript,
+      sculpture, and natural history sections without rushing.
+  - q: How do I get there?
+    a: >-
+      The museum is at Kalpana Square in BJB Nagar. Autos from Bhubaneswar
+      railway station or the Old Town temple area are the simplest way in; it's
+      not directly on a major metro or rail line.
+  - q: Is it worth visiting if I'm short on time?
+    a: >-
+      Yes, especially for the palm-leaf manuscript gallery and Buddhist/Jain
+      stone sculpture, which are the strongest sections and don't take long to
+      see even on a tight schedule.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 ## What's actually inside

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bhubaneswar-odisha-state-museum
-srcHash: '73403077b335'
+srcHash: '84bff45df7d4'
 title: 'Museo Estatal de Odisha: Guía de viaje de Bhubaneswar (4.5★)'
-description: 'El Museo Estatal de Odisha, en BJB Nagar (Bhubaneswar), alberga manuscritos en hoja de palma, escultura en piedra budista y jainista, y un ala de historia natural repartidas en varias salas. 4.5★ (15.547 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
+description: 'El Museo Estatal de Odisha, en BJB Nagar (Bhubaneswar), alberga manuscritos en hoja de palma, escultura en piedra budista y jainista, y un ala de historia natural repartidas en varias salas. 4.5★ (15.549 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: El Museo Estatal de Odisha, en BJB Nagar (Bhubaneswar), alberga manuscritos en hoja de palma, escultura en piedra budista y jainista, y un ala de historia natural repartidas en varias salas. Abre de 10:00 a 17:30 todos los días excepto los lunes, y los fines de semana se mantiene concurrido de forma continua de 10:00 a 17:00, así que una mañana entre semana es la opción más tranquila. Conviene reservar entre 90 minutos y dos horas para recorrer las salas principales sin prisas.
 faq:
   - q: ¿Cuál es el horario de apertura?

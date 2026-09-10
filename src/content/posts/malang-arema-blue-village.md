@@ -1,47 +1,77 @@
 ---
-title: "Arema Blue Village: Malang Travel Guide (4.5★)"
-description: "Arema Blue Village is a small painted-alley kampung in central Malang's Kiduldalem neighborhood, every wall, staircase and rooftop washed in cobalt blue as a tribute to local football club Arema FC. 4.5★ (941 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Malang"
-category: "attraction"
-pubDate: "2026-08-12T08:49:34.112Z"
+title: 'Arema Blue Village: Malang Travel Guide (4.5★)'
+description: >-
+  Arema Blue Village is a small painted-alley kampung in central Malang's
+  Kiduldalem neighborhood, every wall, staircase and rooftop washed in cobalt
+  blue as a tribute to local football club Arema FC. 4.5★ (948 reviews) — what
+  visitors say, hours, and tips.
+country: Indonesia
+region: Malang
+category: attraction
+pubDate: '2026-08-12T08:49:34.112Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arema_Blue_Village_6.jpg/3840px-Arema_Blue_Village_6.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Arema_Blue_Village_6.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arema_Blue_Village_6.jpg/3840px-Arema_Blue_Village_6.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Arema_Blue_Village_6.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg/3840px-Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg"
-    credit: "Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg/3840px-Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg
+    credit: 'Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Malang_-_Kampung_Biru_Arema_-_Dec_2024.jpg
 place:
-  id: "ChIJLUnu-D0o1i0RNWRF_2Rx4ck"
-  name: "Arema Blue Village"
-  address: "2J9Q+F3G, Kiduldalem, Klojen, Malang City, East Java 65119, Indonesia"
+  id: ChIJLUnu-D0o1i0RNWRF_2Rx4ck
+  name: Arema Blue Village
+  address: '2J9Q+F3G, Kiduldalem, Klojen, Malang City, East Java 65119, Indonesia'
   rating: 4.5
-  userRatingsTotal: 941
-  googleMapsUrl: "https://maps.google.com/?cid=14547032949976818741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 948
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14547032949976818741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.981305099999998
   lng: 112.6376925
 tags:
-  - "malang"
-  - "top attraction"
-quickAnswer: "Arema Blue Village is a small painted-alley kampung in central Malang's Kiduldalem neighborhood, every wall, staircase and rooftop washed in cobalt blue as a tribute to local football club Arema FC. Give it 30-45 minutes on foot, ideally mid-morning on a weekday when the lanes are quiet and the light is best for photos. It's free to wander, though a small donation box helps the residents maintain the paint."
+  - malang
+  - top attraction
+quickAnswer: >-
+  Arema Blue Village is a small painted-alley kampung in central Malang's
+  Kiduldalem neighborhood, every wall, staircase and rooftop washed in cobalt
+  blue as a tribute to local football club Arema FC. Give it 30-45 minutes on
+  foot, ideally mid-morning on a weekday when the lanes are quiet and the light
+  is best for photos. It's free to wander, though a small donation box helps the
+  residents maintain the paint.
 faq:
-  - q: "How much does it cost to visit Arema Blue Village?"
-    a: "There's no entrance fee — it's a public residential kampung you walk through freely. A small voluntary donation toward the village's paint upkeep is appreciated but not required."
-  - q: "How do I get to Arema Blue Village from central Malang?"
-    a: "It's in Kiduldalem, Klojen district, an easy ojek or Gojek/Grab ride from Alun-Alun Malang square. The alleys themselves are walk-in only, with no vehicle access inside."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 30-45 minutes to wander the lanes and take photos, since the village is compact and made up of narrow interconnected alleys rather than one long street."
-  - q: "Is Arema Blue Village crowded?"
-    a: "It's still under-the-radar compared to Malang's famous Jodipan rainbow village, so weekday mornings are typically calm. Weekend afternoons see more day-trippers from Surabaya and Batu."
-  - q: "Can I combine it with other sights nearby?"
-    a: "Yes — Jodipan rainbow village, the Alun-Alun Malang square, and the colonial buildings on Jalan Ijen are all a short ride away, making it easy to build a half-day walking loop."
+  - q: How much does it cost to visit Arema Blue Village?
+    a: >-
+      There's no entrance fee — it's a public residential kampung you walk
+      through freely. A small voluntary donation toward the village's paint
+      upkeep is appreciated but not required.
+  - q: How do I get to Arema Blue Village from central Malang?
+    a: >-
+      It's in Kiduldalem, Klojen district, an easy ojek or Gojek/Grab ride from
+      Alun-Alun Malang square. The alleys themselves are walk-in only, with no
+      vehicle access inside.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 30-45 minutes to wander the lanes and take photos,
+      since the village is compact and made up of narrow interconnected alleys
+      rather than one long street.
+  - q: Is Arema Blue Village crowded?
+    a: >-
+      It's still under-the-radar compared to Malang's famous Jodipan rainbow
+      village, so weekday mornings are typically calm. Weekend afternoons see
+      more day-trippers from Surabaya and Batu.
+  - q: Can I combine it with other sights nearby?
+    a: >-
+      Yes — Jodipan rainbow village, the Alun-Alun Malang square, and the
+      colonial buildings on Jalan Ijen are all a short ride away, making it easy
+      to build a half-day walking loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 You smell the difference before you see it, cooking oil and clove cigarettes drifting from open kitchen doors as you duck off the main Klojen street into an alley barely wide enough for two people to pass.

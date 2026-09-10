@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bhubaneswar-odisha-state-museum
-srcHash: '73403077b335'
+srcHash: '84bff45df7d4'
 title: 奥里萨邦立博物馆：布巴内什瓦尔旅行指南（4.5★）
-description: 奥里萨邦立博物馆（Odisha State Museum）位于布巴内什瓦尔（Bhubaneswar）BJB Nagar区，馆内收藏贝叶经、佛教与耆那教石雕，还设有自然历史展区，展厅众多。4.5★（15,547条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 奥里萨邦立博物馆（Odisha State Museum）位于布巴内什瓦尔（Bhubaneswar）BJB Nagar区，馆内收藏贝叶经、佛教与耆那教石雕，还设有自然历史展区，展厅众多。4.5★（15,549条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 奥里萨邦立博物馆位于布巴内什瓦尔BJB Nagar区，馆藏涵盖贝叶经、佛教与耆那教石雕，另设自然历史展区，分布在多个展厅内。除周一闭馆外，每天开放时间为上午10点至下午5点30分；周末从上午10点到下午5点人流持续不断，因此工作日上午前往更为清静。参观主要展厅建议预留90分钟到两小时，不必匆忙赶场。
 faq:
   - q: 开放时间是几点到几点？

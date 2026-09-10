@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manila-ayala-triangle-gardens
-srcHash: 'f515290db3b0'
+srcHash: '6a29dd54b096'
 title: 'Ayala Triangle Gardens: Guía de viaje de Manila (4.6★)'
-description: 'Ayala Triangle Gardens es un rincón verde con forma de triángulo en pleno distrito financiero de Makati, abierto todos los días de 6:00 a 22:00. La mejor hora es temprano por la mañana, cuando los senderos para correr están libres de gente, o por la noche, para disfrutar de los caminos iluminados entre los árboles. 4.6★ (11,877 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Ayala Triangle Gardens es un rincón verde con forma de triángulo en pleno distrito financiero de Makati, abierto todos los días de 6:00 a 22:00. La mejor hora es temprano por la mañana, cuando los senderos para correr están libres de gente, o por la noche, para disfrutar de los caminos iluminados entre los árboles. 4.6★ (11,906 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ayala Triangle Gardens es un rincón verde con forma de triángulo en pleno distrito financiero de Makati, abierto todos los días de 6:00 a 22:00. La mejor hora para visitarlo es temprano por la mañana, cuando los senderos para correr están libres de gente, o por la noche, para disfrutar de los caminos iluminados entre los árboles. Al ser un lugar muy visitado, conviene ir en horario de mañana entre semana o después de las 20:00 para evitar la avalancha de gente que sale del trabajo. La entrada es gratuita y recorrerlo por completo toma entre 30 y 60 minutos.
 faq:
   - q: ¿Es gratis visitar Ayala Triangle Gardens?

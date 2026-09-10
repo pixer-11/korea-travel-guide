@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: colmar-vieille-ville-de-colmar
-srcHash: 'efcbe17da870'
+srcHash: '4fd265432aff'
 title: 'Casco antiguo de Colmar: Guía de viaje (4,8★)'
-description: 'El casco antiguo de Colmar, centrado en la Rue des Tanneurs y los canales de la "Petite Venise", es el gran atractivo de la ciudad y merece fácilmente medio día o un día entero a pie. 4,8★ (2.427 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El casco antiguo de Colmar, centrado en la Rue des Tanneurs y los canales de la "Petite Venise", es el gran atractivo de la ciudad y merece fácilmente medio día o un día entero a pie. 4,8★ (2.432 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El casco antiguo de Colmar, centrado en la Rue des Tanneurs y los canales de la "Petite Venise", es el gran atractivo de la ciudad y merece fácilmente medio día o un día entero a pie. Es un lugar muy conocido y concurrido, especialmente en verano y durante los mercados navideños, así que conviene ir a primera hora de la mañana o a última hora de la tarde. Todo se concentra en un núcleo compacto y fácil de recorrer a pie, por lo que no hace falta coche una vez dentro.
 faq:
   - q: ¿Dónde está exactamente el casco antiguo y cuál es un buen punto de partida?

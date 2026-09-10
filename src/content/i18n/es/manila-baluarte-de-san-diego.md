@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manila-baluarte-de-san-diego
-srcHash: 'f64f2f6d7e4b'
+srcHash: '9bb02c3a29bc'
 title: 'Baluarte de San Diego: Guía de Viaje de Manila (4.5★)'
-description: 'El Baluarte de San Diego es un fuerte circular en ruinas de piedra, escondido entre las murallas de Intramuros, construido en 1586 y hoy convertido en hogar de una colección de bonsáis dentro de sus antiguos emplazamientos de cañones. 4.5★ (840 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Baluarte de San Diego es un fuerte circular en ruinas de piedra, escondido entre las murallas de Intramuros, construido en 1586 y hoy convertido en hogar de una colección de bonsáis dentro de sus antiguos emplazamientos de cañones. 4.5★ (848 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Baluarte de San Diego es un fuerte circular en ruinas de piedra, escondido entre las murallas de Intramuros, construido en 1586 y hoy convertido en hogar de una colección de bonsáis dentro de sus antiguos emplazamientos de cañones. Abre todos los días de 8:00 a 17:00, y el momento de menor afluencia es justo a la apertura (de 8:00 a 9:00 entre semana, de 8:00 a 10:00 los fines de semana), mientras que la mayor concurrencia se da entre las 13:00 y las 17:00 los fines de semana. Conviene reservar entre 45 minutos y una hora, y combinar la visita con un paseo por las murallas adyacentes.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Baluarte de San Diego?

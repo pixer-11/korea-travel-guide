@@ -1,40 +1,48 @@
 ---
-title: "National Museum of Fine Arts: Manila Travel Guide (4.7★)"
-description: "The National Museum of Fine Arts sits in Rizal Park's museum row in Ermita, open daily 9am–6pm, and it's free to enter. 4.7★ (9,554 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Manila"
-category: "attraction"
-pubDate: "2026-08-19T09:07:16.189Z"
+title: 'National Museum of Fine Arts: Manila Travel Guide (4.7★)'
+description: >-
+  The National Museum of Fine Arts sits in Rizal Park's museum row in Ermita,
+  open daily 9am–6pm, and it's free to enter. 4.7★ (9,597 reviews) — what
+  visitors say, hours, and tips.
+country: Philippines
+region: Manila
+category: attraction
+pubDate: '2026-08-19T09:07:16.189Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg/3840px-National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg"
-  credit: "Photo: PhiliptheNumber1 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_Fine_Arts_(Ermita,_Manila)(06-19-2024).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg/3840px-National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg
+  credit: 'Photo: PhiliptheNumber1 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Museum_of_Fine_Arts_(Ermita,_Manila)(06-19-2024).jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJa5tW0CPKlzMRKuDqk7sMx88"
-  name: "National Museum of Fine Arts"
-  address: "Ground Floor, National Museum of Fine Arts Building, P Padre Burgos Ave, Barangay 666, Ermita, Manila, 1000 Metro Manila, Philippines"
+  id: ChIJa5tW0CPKlzMRKuDqk7sMx88
+  name: National Museum of Fine Arts
+  address: >-
+    Ground Floor, National Museum of Fine Arts Building, P Padre Burgos Ave,
+    Barangay 666, Ermita, Manila, 1000 Metro Manila, Philippines
   rating: 4.7
-  userRatingsTotal: 9554
-  googleMapsUrl: "https://maps.google.com/?cid=14971949485996564522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9597
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14971949485996564522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.5870316
   lng: 120.98102519999999
-  phone: "+63 2 8298 1100"
+  phone: +63 2 8298 1100
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -46,24 +54,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3838784d73376b7144754b524d7a6c4b504330577435614a496843"
+    venueId: ven_3838784d73376b7144754b524d7a6c4b504330577435614a496843
 tags:
-  - "manila"
-  - "museum"
-quickAnswer: "The National Museum of Fine Arts sits in Rizal Park's museum row in Ermita, open daily 9am–6pm, and it's free to enter. Go right at opening on a weekday — foot traffic is lowest between 9am and 11am — and budget at least two hours for the Spoliarium hall and the upper galleries alone. Weekend afternoons from 1pm to 5pm get noticeably busier, so plan around that window if you can."
+  - manila
+  - museum
+quickAnswer: >-
+  The National Museum of Fine Arts sits in Rizal Park's museum row in Ermita,
+  open daily 9am–6pm, and it's free to enter. Go right at opening on a weekday —
+  foot traffic is lowest between 9am and 11am — and budget at least two hours
+  for the Spoliarium hall and the upper galleries alone. Weekend afternoons from
+  1pm to 5pm get noticeably busier, so plan around that window if you can.
 faq:
-  - q: "How much does it cost to enter the National Museum of Fine Arts?"
-    a: "Entry has historically been free at Philippine national museums, but policies can change, so confirm current admission on the museum's official channels before visiting."
-  - q: "What is the quietest time to visit?"
-    a: "Foot-traffic data shows 9am–11am is calmest, both on weekdays and weekends. Weekend afternoons from 1pm to 5pm are the busiest stretch, so avoid that window if you want breathing room."
-  - q: "How long should I spend at the museum?"
-    a: "Plan on at least two hours to see the main Filipino art galleries and the Spoliarium hall properly. Add another hour or more if you want to cover the natural history and archaeology sections too."
-  - q: "How do I get there by public transport?"
-    a: "Take LRT Line 1 to United Nations Avenue Station and walk about ten minutes north to P. Burgos Avenue in Ermita, right at the edge of Rizal Park."
-  - q: "Is it worth visiting the other museums nearby?"
-    a: "Yes — the National Museum of Anthropology and National Museum of Natural History sit in the same complex, but each deserves its own visit rather than rushing all three in one day."
+  - q: How much does it cost to enter the National Museum of Fine Arts?
+    a: >-
+      Entry has historically been free at Philippine national museums, but
+      policies can change, so confirm current admission on the museum's official
+      channels before visiting.
+  - q: What is the quietest time to visit?
+    a: >-
+      Foot-traffic data shows 9am–11am is calmest, both on weekdays and
+      weekends. Weekend afternoons from 1pm to 5pm are the busiest stretch, so
+      avoid that window if you want breathing room.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan on at least two hours to see the main Filipino art galleries and the
+      Spoliarium hall properly. Add another hour or more if you want to cover
+      the natural history and archaeology sections too.
+  - q: How do I get there by public transport?
+    a: >-
+      Take LRT Line 1 to United Nations Avenue Station and walk about ten
+      minutes north to P. Burgos Avenue in Ermita, right at the edge of Rizal
+      Park.
+  - q: Is it worth visiting the other museums nearby?
+    a: >-
+      Yes — the National Museum of Anthropology and National Museum of Natural
+      History sit in the same complex, but each deserves its own visit rather
+      than rushing all three in one day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 
 ## Why go

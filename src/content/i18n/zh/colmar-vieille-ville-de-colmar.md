@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: colmar-vieille-ville-de-colmar
-srcHash: 'efcbe17da870'
+srcHash: '4fd265432aff'
 title: 科尔马老城（Vieille ville de Colmar）旅行指南（4.8★）
-description: 科尔马老城以鞣皮匠街（Rue des Tanneurs）和"小威尼斯"（Petite Venise）运河区为中心，是科尔马最值得一游的地方，步行游览半天到一天都不为过。4.8★（2,427条点评）——游客怎么说、开放时间和实用建议，一次看懂。
+description: 科尔马老城以鞣皮匠街（Rue des Tanneurs）和"小威尼斯"（Petite Venise）运河区为中心，是科尔马最值得一游的地方，步行游览半天到一天都不为过。4.8★（2,432条点评）——游客怎么说、开放时间和实用建议，一次看懂。
 quickAnswer: 科尔马老城以鞣皮匠街（Rue des Tanneurs）和"小威尼斯"（Petite Venise）运河区为中心，是科尔马当之无愧的头号景点，步行逛上半天到一天都很值得。这里名气大、人也多，尤其是夏季和圣诞市集期间，所以最好赶早上或傍晚前去。老城核心区域不大，走着逛就够了，进去之后完全不需要开车。
 faq:
   - q: 老城具体在哪里？从哪儿开始逛比较好？

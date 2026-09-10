@@ -1,43 +1,50 @@
 ---
-title: "José Rizal Monument: Manila Travel Guide (4.6★)"
-description: "The José Rizal Monument sits at the Roxas Boulevard end of Rizal Park in Ermita, Manila, and it's open 24 hours, though the changing of the guard and best light happen in the early morning or around sunset. 4.6★ (3,187 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Manila"
-category: "attraction"
-pubDate: "2026-08-20T08:07:09.261Z"
+title: 'José Rizal Monument: Manila Travel Guide (4.6★)'
+description: >-
+  The José Rizal Monument sits at the Roxas Boulevard end of Rizal Park in
+  Ermita, Manila, and it's open 24 hours, though the changing of the guard and
+  best light happen in the early morning or around sunset. 4.6★ (3,195 reviews)
+  — what visitors say, hours, and tips.
+country: Philippines
+region: Manila
+category: attraction
+pubDate: '2026-08-20T08:07:09.261Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jose_Rizal_National_Monument.jpg/3840px-Jose_Rizal_National_Monument.jpg"
-  credit: "Photo: Adamdaley / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jose_Rizal_National_Monument.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jose_Rizal_National_Monument.jpg/3840px-Jose_Rizal_National_Monument.jpg
+  credit: 'Photo: Adamdaley / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jose_Rizal_National_Monument.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/522669419_Sw5-0l9t-Oc_9gVKqto5i7QteHinl89qoovaUBq8Sas.jpg"
-    credit: "Photo: Foursquare user content (Rizal Monument)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/52e9c70c11d27dc29a2b676c"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/522669419_Sw5-0l9t-Oc_9gVKqto5i7QteHinl89qoovaUBq8Sas.jpg
+    credit: 'Photo: Foursquare user content (Rizal Monument)'
+    license: foursquare
+    source: 'https://foursquare.com/v/52e9c70c11d27dc29a2b676c'
 place:
-  id: "ChIJNTKdOSXKlzMRg0UMabKe1YI"
-  name: "José Rizal Monument"
-  address: "1225 Roxas Blvd, Ermita, Manila, 1000 Metro Manila, Philippines"
+  id: ChIJNTKdOSXKlzMRg0UMabKe1YI
+  name: José Rizal Monument
+  address: '1225 Roxas Blvd, Ermita, Manila, 1000 Metro Manila, Philippines'
   rating: 4.6
-  userRatingsTotal: 3187
-  googleMapsUrl: "https://maps.google.com/?cid=9427615884073780611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3195
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9427615884073780611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.581791699999998
   lng: 120.97704580000001
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -57,24 +64,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_495931654b62614d553067524d7a6c4b58534f644b544e4a496843"
+    venueId: ven_495931654b62614d553067524d7a6c4b58534f644b544e4a496843
 tags:
-  - "manila"
-  - "historic site"
-quickAnswer: "The José Rizal Monument sits at the Roxas Boulevard end of Rizal Park in Ermita, Manila, and it's open 24 hours, though the changing of the guard and best light happen in the early morning or around sunset. It's a well-known landmark, so weekends from 7am to 11pm draw the biggest crowds — aim for a weekday morning instead. Budget 30-45 minutes for the monument itself, longer if you explore the surrounding park."
+  - manila
+  - historic site
+quickAnswer: >-
+  The José Rizal Monument sits at the Roxas Boulevard end of Rizal Park in
+  Ermita, Manila, and it's open 24 hours, though the changing of the guard and
+  best light happen in the early morning or around sunset. It's a well-known
+  landmark, so weekends from 7am to 11pm draw the biggest crowds — aim for a
+  weekday morning instead. Budget 30-45 minutes for the monument itself, longer
+  if you explore the surrounding park.
 faq:
-  - q: "How much does it cost to visit the José Rizal Monument?"
-    a: "Nothing — it's a free public memorial inside Rizal Park, with no entrance fee for the monument or surrounding plaza."
-  - q: "What's the best time to avoid crowds?"
-    a: "Weekends from 7am to 11pm are the busiest stretch, so a weekday morning gives you the most breathing room around the monument."
-  - q: "How long should I spend at the monument?"
-    a: "Most visitors spend 30 to 45 minutes reading the plaques and watching the guard ceremony, longer if you continue into the rest of Rizal Park."
-  - q: "How do I get there by public transport?"
-    a: "Take LRT-1 to United Nations Station, then walk about 10-15 minutes north through Rizal Park to reach the monument on Roxas Boulevard."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "Fort Santiago and the walled city of Intramuros, where Rizal was imprisoned before his execution, are a short walk or quick ride away."
+  - q: How much does it cost to visit the José Rizal Monument?
+    a: >-
+      Nothing — it's a free public memorial inside Rizal Park, with no entrance
+      fee for the monument or surrounding plaza.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Weekends from 7am to 11pm are the busiest stretch, so a weekday morning
+      gives you the most breathing room around the monument.
+  - q: How long should I spend at the monument?
+    a: >-
+      Most visitors spend 30 to 45 minutes reading the plaques and watching the
+      guard ceremony, longer if you continue into the rest of Rizal Park.
+  - q: How do I get there by public transport?
+    a: >-
+      Take LRT-1 to United Nations Station, then walk about 10-15 minutes north
+      through Rizal Park to reach the monument on Roxas Boulevard.
+  - q: What else is nearby worth combining with this visit?
+    a: >-
+      Fort Santiago and the walled city of Intramuros, where Rizal was
+      imprisoned before his execution, are a short walk or quick ride away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-10'
 ---
 ## Why go
 
