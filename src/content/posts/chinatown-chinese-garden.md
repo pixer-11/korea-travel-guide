@@ -69,6 +69,7 @@ faq:
 aiGenerated: true
 draft: true
 heldReason: content
+heldFinal: Chinese Garden is in Jurong (1.3385, 103.7303), 12 km from Chinatown, and the body says so itself; the hero is also Yu Garden in SHANGHAI (20090510_Shanghai_Yuyan_6689.jpg). It needs a refile to region Jurong plus a real photo — two decisions, not a repair
 ---
 
 ## What you're actually visiting

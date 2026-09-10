@@ -128,6 +128,20 @@ const cases = [
   // 역방향: 진짜 closed-Monday 주장은 여전히 잡는다.
   ['TP-real-closed-claim (must FLAG)', post(['Monday: 8:00 AM – 10:00 PM'],
     'Note that it is closed Monday, so plan your visit for another day.'), 1],
+  // 09-10 량이미술관: 'open Monday to Friday, 10am to 6pm, and closed all weekend' —
+  // 부사 목록에 맨 all 이 없어 closed all weekend 의 weekend 가 두 요일로 풀리지 않았고,
+  // strip 이 남긴 closed 가 바로 앞의 Friday 와 짝지어져 '금요일 휴관' 오탐이 됐다.
+  // 게이트가 격리했고 수리기는 고칠 게 없어 매일 밤 같은 줄을 다시 찍었다 —
+  // 08-14 브로모와 완전히 같은 모양이고, 빠진 것은 부사 하나뿐이었다.
+  ['FP-closed-all-weekend (should be CLEAN)', post(['Monday: 10:00 AM – 6:00 PM', 'Tuesday: 10:00 AM – 6:00 PM', 'Wednesday: 10:00 AM – 6:00 PM',
+     'Thursday: 10:00 AM – 6:00 PM', 'Friday: 10:00 AM – 6:00 PM', 'Saturday: Closed', 'Sunday: Closed'],
+    'It is open Monday to Friday, 10am to 6pm, and closed all weekend, so plan a weekday visit.'), 0],
+  ['FP-closed-the-whole-weekend (should be CLEAN)', post(['Monday: 10:00 AM – 6:00 PM', 'Tuesday: 10:00 AM – 6:00 PM', 'Wednesday: 10:00 AM – 6:00 PM',
+     'Thursday: 10:00 AM – 6:00 PM', 'Friday: 10:00 AM – 6:00 PM', 'Saturday: Closed', 'Sunday: Closed'],
+    'It runs Monday to Friday, 10am to 6pm, and is closed the whole weekend.'), 0],
+  // 역방향: 사실상자가 주말에 열려 있는데 본문이 closed all weekend 라면 계속 잡아야 한다.
+  ['TP-closed-all-weekend-but-open (must FLAG)', post(WEEK_OPEN_MON,
+    'The market is closed all weekend, so come on a weekday morning instead.'), 1],
 ];
 
 let fail = 0;

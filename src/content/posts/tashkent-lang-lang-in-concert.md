@@ -63,6 +63,7 @@ faq:
       livelier daytime stop.
 aiGenerated: true
 draft: true
+heldFinal: 'the recital is in SAMARKAND, not Tashkent (heldNote, 08-31): city, venue, metro and neighbourhood paragraphs are all written for the wrong city, and the date passed on 2026-09-06 — a rewrite from Samarkand, not a repair'
 ---
 
 ## Why this concert matters

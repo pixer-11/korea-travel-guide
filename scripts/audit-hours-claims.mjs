@@ -140,7 +140,13 @@ export function hoursProblems(raw) {
   // Same failure the 08-01 fix addressed for 'entirely'/'both'; the lesson is
   // that this list must cover every adverb the writer can slip in, so it is
   // deliberately generous.
-  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|every\\s+|all\\s+day\\s+|on\\s+|to\\s+the\\s+public\\s+)*`;
+  // 맨 'all' 은 2026-09-10 에 합류했다. all+day+ 는 있는데 all+ 이 없어서
+  // 'closed all weekend' 의 weekend 가 두 요일로 풀리지 않았고, strip 이 남긴
+  // closed 가 바로 앞의 Friday 와 짝지어져 량이미술관(sheung-wan-liang-yi-museum)이
+  // 발행 게이트에 격리됐다 — 본문과 사실상자가 완전히 일치하는 글이었고, 수리기는
+  // 고칠 것을 못 찾아 매일 밤 '수리 후에도 모순 남음' 한 줄을 다시 찍었다.
+  // 'the whole/entire weekend' 도 같은 구멍이라 함께 막았다.
+  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|every\\s+|all\\s+day\\s+|all\\s+|the\\s+(?:whole|entire)\\s+|on\\s+|to\\s+the\\s+public\\s+)*`;
   // A day name directly followed by one of these nouns is not the subject of a
   // closure — it modifies a new noun phrase, which starts a new claim.
   // "closed on Mondays, and Sunday hours tend to be shorter" (MNAC, 2026-08-08)

@@ -24,6 +24,7 @@ faq:
 aiGenerated: true
 draft: true
 heldReason: generic-topic
+heldFinal: the topic names no venue ("Local Restaurant in Suwon") and the file carries no place block, so there is nothing for a checker to re-test it against — a 2026-07-20 first-batch artefact
 ---
 
 ## Why Suwon, and Why Its Food Scene

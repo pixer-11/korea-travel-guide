@@ -31,6 +31,7 @@ heroImage:
   focus:
     x: 78
     'y': 45
+heldFinal: the topic names no venue ("Local Restaurant in Gangneung") and the file carries no place block, so there is nothing for a checker to re-test it against — a 2026-07-20 first-batch artefact
 ---
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out
 

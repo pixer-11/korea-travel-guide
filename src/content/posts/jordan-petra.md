@@ -73,6 +73,7 @@ aiGenerated: true
 draft: true
 heldReason: wrong-country
 updatedDate: '2026-09-05'
+heldFinal: the place data is Petra in Jordan the COUNTRY (30.328, 35.444) but the post is filed under Hong Kong region Jordan, and Jordan is not one of our countries; publishing it means adding a country, which is a decision, not a repair
 ---
 
 ## Why Petra stops you in your tracks

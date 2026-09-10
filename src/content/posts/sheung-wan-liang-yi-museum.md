@@ -49,8 +49,7 @@ faq:
   - q: "Is Liang Yi Museum touristy or crowded?"
     a: "No, it's an under-the-radar stop even in a well-visited neighbourhood, since tours are kept to small groups by appointment rather than open ticketing."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 Most visitors walking Hollywood Road are chasing antique shops and the smell of dried seafood drifting up from Des Voeux Road. Liang Yi Museum sits behind an unmarked, almost fortress-like facade at 181-199 Hollywood Rd, and unless you already know it's there, you'll walk straight past it.
