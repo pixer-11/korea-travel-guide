@@ -53,7 +53,7 @@ for (const f of files) {
 }
 
 for (const i of found) {
-  console.log(`CLOSED-VENUE: ${i.f} — ${i.status}${i.isDraft ? ' (격리된 초안)' : ' (라이브)'}`);
+  console.log(`NON-OPERATIONAL-VENUE: ${i.f} — ${i.status}${i.isDraft ? ' (격리된 초안)' : ' (라이브)'}`);
 }
 requireExamined(files.length, '글', 'src/content/posts 가 비어 있나?');
 console.log(found.length

@@ -23,7 +23,7 @@ const NOISY_CRASH = 'node -e "console.log(1); process.exit(2)"';
 // 사본의 작은따옴표 문자열 안으로 들어가므로 백슬래시를 한 겹 더 입힌다.
 const FLAG_REGION = `node -e "console.log(\\\\"REGION-OUTLIER: fixture.md 18 km from the Sai Kung centre\\\\"); process.exit(1)"`;
 
-const FLAG_CLOSED = `node -e "console.log(\\\\"CLOSED-VENUE: fixture.md — CLOSED_TEMPORARILY\\\\"); process.exit(1)"`;
+const FLAG_CLOSED = `node -e "console.log(\\\\"NON-OPERATIONAL-VENUE: fixture.md — CLOSED_TEMPORARILY\\\\"); process.exit(1)"`;
 
 // 스크립트 사본을 임시 저장소(빈 posts 폴더 + fixture 1편)에서 돌린다. 진짜
 // 검사기·수리기·번역기는 전부 가짜 명령으로 바꾼다 — 작은따옴표는 쓰지 않는다

@@ -56,7 +56,7 @@ const CHECKERS = {
   // 이 순찰은 매일 밤 '재검사할 도구가 없음' 만 찍었다. refresh.mjs 가 이미 초안까지
   // businessStatus 를 12주 주기로 갱신해 두므로, 아래 검사기는 그 값을 읽기만 한다 —
   // 쿼터를 한 번도 쓰지 않고, 장소가 다시 열리면 그날로 격리가 풀린다.
-  closed: { cmd: 'node scripts/audit-closed-venues.mjs --drafts', pick: /^CLOSED-VENUE:\s*(\S+)\.md/ },
+  closed: { cmd: 'node scripts/audit-closed-venues.mjs --drafts', pick: /^NON-OPERATIONAL-VENUE:\s*(\S+)\.md/ },
 };
 // 여기 실린 명령은 전부 초안을 판정해야 한다. 초안을 건너뛰는 검사기는 "지적 없음"을
 // 돌려주고, 그건 이 순찰에게 "결함이 사라졌다"로 읽혀 격리가 풀린다 — 아래 테스트가
