@@ -1,4 +1,5 @@
 ---
+heldFinal: 'duplicate of jakarta-the-sounds-project-vol-9, which is published; this event ended 2026-08-09'
 title: 'The Sounds Project 2026: What to Know (Jakarta)'
 description: The Sounds Project 2026 in Jakarta, Indonesia was set for August 7–9, 2026. What it is, when and where, and who was on the announced lineup.
 country: Indonesia

@@ -55,6 +55,18 @@ const CHECKERS = {
 // 여기 실린 명령은 전부 초안을 판정해야 한다. 초안을 건너뛰는 검사기는 "지적 없음"을
 // 돌려주고, 그건 이 순찰에게 "결함이 사라졌다"로 읽혀 격리가 풀린다 — 아래 테스트가
 // 모든 cmd 에 --drafts 가 붙어 있는지 지킨다(scripts/repair-held-posts.test.mjs).
+// A held draft whose reason no tool can ever clear is not "pending repair" — it
+// is a decision, and reprinting it every night as a failed repair buries the
+// lines that mean something. `heldFinal: <why>` records the decision and this
+// patrol stops retrying it, so the report shows only what a machine could still
+// fix.
+//
+// The FILE stays. A draft post is what generates the 302 from its old URL to the
+// region hub (astro.config.mjs), so deleting one turns a visitor rescue into a
+// 404 — which is why "clean up the queue" is not the same as "delete the files".
+const finalNote = (raw) => (raw.match(/^heldFinal:(.*)$/m)?.[1] ?? '').trim();
+const isFinal = (slug) => finalNote(readFileSync(join(DIR, `${slug}.md`), 'utf8')) !== '';
+
 const reasonsOf = (raw) => (raw.match(/^heldReason:\s*(.+)$/m)?.[1] ?? '').split('+').map((s) => s.trim()).filter(Boolean);
 
 // Quarantined posts the hours audit flags. Photo quarantines are NOT touched —
@@ -63,7 +75,8 @@ const flagged = run('node scripts/audit-hours-claims.mjs --drafts')
   .split('\n')
   .map((l) => l.match(/^HOURS-CONTRADICTION:\s*(\S+)\.md/)?.[1])
   .filter(Boolean)
-  .filter((slug) => /^draft:\s*true/m.test(readFileSync(join(DIR, `${slug}.md`), 'utf8')));
+  .filter((slug) => /^draft:\s*true/m.test(readFileSync(join(DIR, `${slug}.md`), 'utf8')))
+  .filter((slug) => !isFinal(slug));
 
 // Every other held draft — one the hours audit does not flag. It needs no
 // rewrite, only a re-check of the reasons the gate recorded: the loop below
@@ -85,8 +98,18 @@ const healed = readdirSync(DIR)
   .filter((slug) => !flagged.includes(slug))
   .filter((slug) => {
     const raw = readFileSync(join(DIR, `${slug}.md`), 'utf8');
-    return /^draft:\s*true/m.test(raw) && reasonsOf(raw).length > 0;
+    return /^draft:\s*true/m.test(raw) && reasonsOf(raw).length > 0 && finalNote(raw) === '';
   });
+
+const finalHeld = readdirSync(DIR)
+  .filter((f) => f.endsWith('.md'))
+  .map((f) => f.replace(/\.md$/, ''))
+  .map((slug) => [slug, finalNote(readFileSync(join(DIR, `${slug}.md`), 'utf8'))])
+  .filter(([, note]) => note !== '');
+if (finalHeld.length) {
+  console.log(`영구 격리 ${finalHeld.length}편 (재시도 안 함): ` +
+    finalHeld.map(([slug, note]) => `${slug} — ${note}`).join(' · '));
+}
 
 const before = [...flagged, ...healed];
 if (!before.length) { console.log('수리할 격리 글 없음'); process.exit(0); }

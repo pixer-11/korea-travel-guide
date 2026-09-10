@@ -1,4 +1,5 @@
 ---
+heldFinal: 'duplicate of kuala-lumpur-f-forever-1st-world-tour, which is published; this event ended 2026-08-08'
 title: 'F✦FOREVER World Tour – Kuala Lumpur: What to Know (Kuala Lumpur)'
 description: F✦FOREVER World Tour in Kuala Lumpur was set for August 7-8, 2026 at Unifi Arena, Bukit Jalil — the supergroup's first world tour together.
 country: Malaysia

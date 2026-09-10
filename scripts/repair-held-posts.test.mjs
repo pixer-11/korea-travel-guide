@@ -139,3 +139,21 @@ test('격리 해제의 재검사 명령은 전부 초안까지 판정해야 한�
       `초안을 건너뛰는 검사기는 격리를 잘못 풀어준다: ${cmd}`);
   }
 });
+
+// ── heldFinal: 기계가 영영 못 고치는 것은 매일 재시도하지 않는다 (2026-09-10) ──
+// 15편 중 13편이 "재검사할 도구가 없음"으로 매일 같은 ✗ 줄을 찍었다. 그중 5편은
+// 고칠 수 없는 게 아니라 **고칠 필요가 없는 것**이었다 — 이미 발행된 글의 중복본,
+// 취소된 공연, 지난 공연. 결정을 파일에 적고 순찰이 건너뛴다.
+// 파일 자체는 지우지 않는다: draft:true 가 옛 URL → 지역 허브 302를 만든다.
+test('heldFinal 이 적힌 초안은 수리 대상에서 빠진다', () => {
+  const marked = `---\ndraft: true\nheldReason: duplicate\nheldFinal: 'already published elsewhere'\n---\n`;
+  const plain = `---\ndraft: true\nheldReason: duplicate\n---\n`;
+  const note = (raw) => (raw.match(/^heldFinal:(.*)$/m)?.[1] ?? '').trim();
+  assert.notEqual(note(marked), '', 'heldFinal 을 못 읽으면 매일 재시도한다');
+  assert.equal(note(plain), '', '표시 없는 초안까지 건너뛰면 수리가 멈춘다');
+});
+
+test('🛑 heldFinal 은 draft 를 건드리지 않는다 — 발행되면 안 된다', () => {
+  const marked = `---\ndraft: true\nheldReason: duplicate\nheldFinal: 'x'\n---\n`;
+  assert.match(marked, /^draft:\s*true/m);
+});

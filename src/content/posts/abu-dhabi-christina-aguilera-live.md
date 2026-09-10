@@ -1,4 +1,5 @@
 ---
+heldFinal: 'the show was cancelled; there is nothing to publish and no tool can re-check it'
 title: 'Christina Aguilera Live: What to Know (Abu Dhabi)'
 description: Christina Aguilera Live in Abu Dhabi, United Arab Emirates — September 25, 2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates

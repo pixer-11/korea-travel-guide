@@ -1,4 +1,5 @@
 ---
+heldFinal: 'duplicate of jakarta-lalala-festival-2026, which is published; this event ended 2026-08-23'
 title: 'LALALA Fest 2026: What to Know (Jakarta)'
 description: LALALA Fest 2026 was set for August 22–23, 2026 at Jakarta International Expo in Kemayoran, North Jakarta. The announced lineup, venue and tickets.
 country: Indonesia
