@@ -30,7 +30,7 @@ faq:
   - q: Is parking available nearby?
     a: Street parking on Melrose is metered and can be tight, especially on weekends. Check side streets north and south of Melrose, or ask about valet when booking.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 Jacaranda sits at 6623 Melrose Ave, a stretch of the street already dense with design studios, vintage shops and long-running restaurants. It opened recently and landed almost immediately on Resy's Hit List for September 2026, the kind of placement that tends to fill a reservation book within days of being noticed.
