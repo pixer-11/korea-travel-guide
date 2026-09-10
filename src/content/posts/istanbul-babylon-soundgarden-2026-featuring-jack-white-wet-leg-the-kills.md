@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jack_White_-_Roskilde_Festival_2012_-_Orange_Stage.jpg/1920px-Jack_White_-_Roskilde_Festival_2012_-_Orange_Stage.jpg'
+  credit: 'Photo: Bill Ebbesen / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jack_White_-_Roskilde_Festival_2012_-_Orange_Stage.jpg'
 gallery: []
 tags:
   - istanbul

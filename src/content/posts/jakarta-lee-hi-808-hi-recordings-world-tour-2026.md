@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-09'
 eventEndDate: '2026-08-09'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f2/LeeHi_2021.png'
+  credit: 'Photo: SBS Radio / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:LeeHi_2021.png'
 tags:
   - jakarta
   - event

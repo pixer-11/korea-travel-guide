@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-17'
 eventEndDate: '2026-08-23'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg/1920px-TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg'
+  credit: 'Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg'
 tags:
   - new delhi
   - event

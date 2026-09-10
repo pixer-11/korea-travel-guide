@@ -16,6 +16,11 @@ eventOffers:
   free: true
   currency: PHP
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Masskara_Festival_in_Bacolod_%282%29.jpg/1920px-Masskara_Festival_in_Bacolod_%282%29.jpg'
+  credit: 'Photo: Mhlayson / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Masskara_Festival_in_Bacolod_(2).jpg'
 gallery: []
 tags:
   - bacolod

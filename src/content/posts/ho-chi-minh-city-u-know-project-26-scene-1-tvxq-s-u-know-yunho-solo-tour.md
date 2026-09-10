@@ -12,6 +12,11 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-19'
 eventEndDate: '2026-09-19'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/74/20230818_YUNHO_%28%EC%9C%A0%EB%85%B8%EC%9C%A4%ED%98%B8%29.jpg'
+  credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20230818_YUNHO_(유노윤호).jpg'
 gallery: []
 tags:
   - ho chi minh city

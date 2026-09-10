@@ -15,6 +15,11 @@ eventPerformer:
   name: Benson Boone
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Benson_Boone_%28Nov_2024%29.jpg/1920px-Benson_Boone_%28Nov_2024%29.jpg'
+  credit: 'Photo: Drew de F Fawkes / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Benson_Boone_(Nov_2024).jpg'
 gallery: []
 tags:
   - seoul

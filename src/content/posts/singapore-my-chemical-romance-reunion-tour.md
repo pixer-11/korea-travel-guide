@@ -12,6 +12,11 @@ eventPerformer:
   name: My Chemical Romance
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg/1920px-My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg'
+  credit: 'Photo: Hullian111 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:My_Chemical_Romance_@_Wembley_Stadium,_11_July_2026_B-Stage_03.jpg'
 gallery: []
 tags:
   - singapore

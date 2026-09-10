@@ -15,6 +15,11 @@ eventOrganizer:
 eventOffers:
   url: https://www.mefcc.com/home/tickets/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MEFCC_AUH_2023_-_Crowd_Shot.jpg/1920px-MEFCC_AUH_2023_-_Crowd_Shot.jpg'
+  credit: 'Photo: InformaAE / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:MEFCC_AUH_2023_-_Crowd_Shot.jpg'
 gallery: []
 tags:
   - abu dhabi

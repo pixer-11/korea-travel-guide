@@ -17,6 +17,11 @@ eventPerformer:
   name: The Weeknd
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg'
+  credit: 'Photo: Kayla Johnson from Seattle, United States / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_at_Bumbershoot_2015_(21367628469).jpg'
 gallery: []
 tags:
   - goyang

@@ -13,6 +13,11 @@ eventPerformer:
   name: Chet Faker
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chet_Faker%2C_Positivus_Music_Festival%2C_Latvia_2014.jpg/1920px-Chet_Faker%2C_Positivus_Music_Festival%2C_Latvia_2014.jpg'
+  credit: 'Photo: Anna Hanks / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chet_Faker,_Positivus_Music_Festival,_Latvia_2014.jpg'
 gallery: []
 tags:
   - bengaluru

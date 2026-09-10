@@ -15,6 +15,11 @@ eventOrganizer:
 eventOffers:
   url: https://www.biff.kr/eng/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Busan_Cinema_Center_BIFF_2023.jpg'
+  credit: 'Photo: 399scout / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Busan_Cinema_Center_BIFF_2023.jpg'
 gallery: []
 tags:
   - busan
