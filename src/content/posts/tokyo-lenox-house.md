@@ -1,4 +1,6 @@
 ---
+heldFinal: 'rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear'
+heldReason: 'below-rating-floor'
 title: Lenox House in Tokyo
 description: 'Lenox House in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
@@ -46,7 +48,7 @@ faq:
   - q: What else can I see nearby?
     a: Sangubashi Station is close to the northern entrance of Yoyogi Park and near National Yoyogi Stadium, making it easy to pair a park walk or event with dinner at Lenox House.
 aiGenerated: true
-draft: false
+draft: true
 ---
 ## Why Lenox House stands out
 

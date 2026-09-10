@@ -1,4 +1,6 @@
 ---
+heldFinal: 'rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear'
+heldReason: 'below-rating-floor'
 title: Smith & Wollensky in Tokyo
 description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
 country: Japan
@@ -50,7 +52,7 @@ faq:
   - q: What else is nearby if I want to make a day of it?
     a: Ginza's department stores and the Kabukiza Theatre are within walking distance, and Hibiya Park, the Imperial Palace grounds, and Tsukiji Outer Market are all short trips away for pairing with your meal.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Smith & Wollensky in Tokyo Is a Big Deal

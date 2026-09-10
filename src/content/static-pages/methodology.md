@@ -29,7 +29,7 @@ Every day-by-day itinerary is built **only from places that have already passed 
 
 ## Photos
 
-Every image comes from a licensed or open source (Wikimedia Commons, Foursquare, Openverse, official open-data programmes), with attribution, and is checked against the source's own record of what it shows. A photo of a different branch of the same chain is rejected. If we cannot find a verified photo of the actual place, we don't publish the guide.
+Every image comes from a licensed or open source (Wikimedia Commons, Foursquare, Openverse, official open-data programmes), with attribution, and is checked against the source's own record of what it shows. A photo of a different branch of the same chain is rejected. A wrong photo never ships. When no verified photo of the actual place exists, the guide runs without one rather than with someone else's.
 
 ## The editor
 

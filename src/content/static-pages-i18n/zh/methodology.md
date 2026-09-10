@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: methodology
-srcHash: 'a29a21c2ee8f'
+srcHash: '0ecd8b9b97b0'
 metaTitle: 数据来源说明——方法论
 metaDescription: Wander Atlas 上的人流量图表、营业时间、评分与气候数据表从何而来,我们多久核查一次,以及如何引用这些数据。
 eyebrow: 方法论
@@ -32,7 +32,7 @@ Wander Atlas 发布了大量数据:一个地方何时、有多拥挤,营业时�
 
 ## 图片
 
-每张图片均来自有授权或开放的来源(Wikimedia Commons、Foursquare、Openverse、官方开放数据项目),附有署名,并会对照来源自身对图片内容的记录进行核实。若图片拍摄的是同一连锁品牌的不同分店,则会被拒绝采用。如果我们找不到该场所本身经过核实的照片,便不会发布该指南。
+每张图片均来自有授权或开放的来源(Wikimedia Commons、Foursquare、Openverse、官方开放数据项目),附有署名,并会对照来源自身对图片内容的记录进行核实。若图片拍摄的是同一连锁品牌的不同分店,则会被拒绝采用。如果我们找不到该场所本身经过核实的照片,则不会使用他处的照片，该指南将以无图形式发布。
 
 ## 编辑
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: methodology
-srcHash: 'a29a21c2ee8f'
+srcHash: '0ecd8b9b97b0'
 metaTitle: Cómo funcionan nuestros datos — Metodología
 metaDescription: De dónde provienen los gráficos de afluencia, los horarios de apertura, las valoraciones y las tablas climáticas de Wander Atlas, con qué frecuencia los verificamos y cómo citarlos.
 eyebrow: Metodología
@@ -32,7 +32,7 @@ Cada itinerario día a día se construye **únicamente con lugares que ya han pa
 
 ## Fotos
 
-Cada imagen proviene de una fuente con licencia o abierta (Wikimedia Commons, Foursquare, Openverse, programas oficiales de datos abiertos), con la atribución correspondiente, y se verifica contra el propio registro de la fuente sobre lo que muestra. Una foto de una sucursal diferente de la misma cadena es rechazada. Si no podemos encontrar una foto verificada del lugar real, no publicamos la guía.
+Cada imagen proviene de una fuente con licencia o abierta (Wikimedia Commons, Foursquare, Openverse, programas oficiales de datos abiertos), con la atribución correspondiente, y se verifica contra el propio registro de la fuente sobre lo que muestra. Una foto de una sucursal diferente de la misma cadena es rechazada. Si no podemos encontrar una foto verificada del lugar real, no publicamos una foto ajena: la guía sale sin foto.
 
 ## El editor
 

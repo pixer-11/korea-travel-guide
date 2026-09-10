@@ -246,6 +246,13 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
               <a class="book-btn" href={hotelCountry} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
               <a class="book-btn" href={localizePath('/flights', lang)} rel="sponsored noopener"><Emoji name="airplane" /> {t('nav.flights')}</a>
             </div>
+            <!-- Affiliate disclosure. Every other surface carrying these links
+                 has one — post pages, region hubs, itineraries, /flights,
+                 /tools/esim — and the two country hubs did not, across 20
+                 countries x 5 languages (found 2026-09-10). The links are
+                 rel="sponsored" and /go/klook is an affiliate redirect, so
+                 the page was earning a commission without saying so. -->
+            <p class="tp-disclosure">{t('widget.livePrices')}</p>
           </div>
         </>
       )}
