@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: saint-cloud-paris-region-rock-en-seine-2026
-srcHash: '40e2eb3f02f4'
+srcHash: '000000000000'
 title: Rock en Seine 2026全攻略：巴黎近郊圣克卢摇滚音乐节须知
 description: Rock en Seine 2026音乐节定于2026年8月26日至30日在巴黎近郊的圣克卢国家园林（Domaine national de Saint-Cloud）举行，The Cure、尼克·凯夫（Nick Cave）与泰勒·卡里（Tyler, the Creator）担纲压轴。
 quickAnswer: Rock en Seine 2026音乐节原定于2026年8月26日至30日在巴黎西侧的圣克卢国家园林（Domaine national de Saint-Cloud）举行。公布的阵容中，The Cure、尼克·凯夫与坏种子乐团（Nick Cave & The Bad Seeds）以及泰勒·卡里（Tyler, the Creator）担任压轴，Deftones、Turnstile等乐队同台助阵。从巴黎市中心出发前往会场十分方便：搭乘RER C线可抵达圣克卢站（Saint-Cloud），下车后步行上坡或乘接驳车即可到达园区；地铁9号线也可到达塞夫勒桥站（Pont de Sèvres），从园区南侧进入。

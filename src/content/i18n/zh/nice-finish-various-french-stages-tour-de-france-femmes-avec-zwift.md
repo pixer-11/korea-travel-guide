@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: 'c477022862bc'
+srcHash: '000000000000'
 title: 环法女子公路自由车赛（Tour de France Femmes avec Zwift）：尼斯观赛指南
 description: 2026年环法女子公路自由车赛定于8月1日至9日举行，赛程从瑞士洛桑大出发，经旺图山（Mont Ventoux）登顶赛段，最终在尼斯（Nice）落幕。
 quickAnswer: 2026年环法女子公路自由车赛定于8月1日至9日举行，赛程从瑞士洛桑（Lausanne）大出发，途经旺图山（Mont Ventoux）登顶赛段，最终在尼斯的英国人大道（Promenade des Anglais）落幕。路边观赛完全免费。像旺图山这样的山地赛段充满戏剧性，但要做好长时间等待的准备；而尼斯这样的城市终点站，观赛时间更短，气氛更热烈，交通也更加便利。

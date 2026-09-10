@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-saint-denis-european-aquatics-championships
-srcHash: '3162b9dc710f'
+srcHash: '000000000000'
 title: 欧洲游泳锦标赛出行须知（巴黎站）
 description: 2026年欧洲游泳锦标赛定于8月1日至16日在巴黎和圣但尼举行，比赛场馆均为巴黎2024奥运会新建或改建的设施。
 quickAnswer: 2026年欧洲游泳锦标赛定于8月1日至16日在巴黎和圣但尼举行，沿用巴黎2024奥运会新建或改建的场馆，其中最引人注目的是巴黎拉德芳斯竞技场（Paris La Défense Arena）和位于圣但尼的奥林匹克水上运动中心。已公布的赛程涵盖游泳、跳水、花样游泳、水球以及公开水域项目，分布在两个主办区域，各项目的具体比赛日也各不相同。

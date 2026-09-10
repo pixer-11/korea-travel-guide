@@ -16,6 +16,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { UPCOMING } from './lib/ended-event-tense.mjs';
 
 const POSTS = 'src/content/posts';
 const I18N = 'src/content/i18n';
@@ -23,15 +24,9 @@ const LANGS = ['ko', 'ja', 'es', 'zh'];
 const LIST = process.argv.includes('--list');
 const TODAY = new Date().toISOString().slice(0, 10);
 
-// Verbs that put a finished event in the present or the future. Each is the
-// ordinary way that language announces a scheduled event, which is exactly why
-// they are wrong once it is over.
-const UPCOMING = {
-  ko: [/열립니다/g, /진행됩니다/g, /개최됩니다/g, /열릴 예정입니다/g],
-  ja: [/開催されます/g, /行われます/g, /予定です/g],
-  es: [/se celebrará/gi, /tendrá lugar/gi, /se llevará a cabo/gi],
-  zh: [/将于/g, /将在/g, /即将/g],
-};
+// The verb lists live in lib so the test can reach them without re-running
+// this script (importing a scripts/*.mjs executes it).
+
 
 // "Where can I eat before the show?" is not a tense error — the answer describes
 // what was around the venue, and the question reads the same whether the show is

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr
-srcHash: 'b8a60ab262b1'
+srcHash: '000000000000'
 title: UFC格斗之夜：安卡拉耶夫 vs 朗特里二世：观赛指南（阿布扎比）
 description: UFC格斗之夜：安卡拉耶夫 vs 朗特里二世定于2026年7月25日在阿布扎比亚斯岛的阿提哈德竞技场举行，主赛为一场轻重量级较量。
 quickAnswer: UFC格斗之夜：安卡拉耶夫 vs 朗特里二世定于2026年7月25日在阿布扎比亚斯岛（Yas Island）的阿提哈德竞技场（Etihad Arena）举行。公布的赛程显示，马戈梅德·安卡拉耶夫（Magomed Ankalaev）与哈利勒·朗特里二世（Khalil Rountree Jr.）的轻重量级对决将作为压轴主赛。开赛时间、副赛详情以及门票开售日期，都在7月25日阿布扎比这场赛事临近前陆续公布。
