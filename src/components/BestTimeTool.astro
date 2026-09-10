@@ -11,6 +11,7 @@ import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { resolveBusyness } from '../lib/busyness.mjs';
+import { formatHour } from '../lib/hours.mjs';
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -47,10 +48,12 @@ if (lang !== 'en') {
 // server-side now: the entire point is that the crowd hours exist as text in the
 // delivered HTML.
 const HOURS = Array.from({ length: 16 }, (_, i) => i + 7); // 7am … 10pm
-const hr = (h: number) => {
-  const x = ((h % 24) + 24) % 24;
-  return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`;
-};
+// This used to be a private copy that always said "7am". The surrounding labels
+// were translated around it, so every localized page read 「가장 한산한 시간
+// 7am–8am」 — 5,697 English tokens per page across 689 cards. lib/hours.mjs
+// already knew ko/ja/zh put the meridiem first (오전 7시); the tool just never
+// asked it. (2026-09-10)
+const hr = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
 const range = (arr?: number[]) => {
   if (!arr?.length) return null;
   const s = [...arr].sort((a, b) => a - b);
@@ -269,7 +272,7 @@ const jsonLd = {
               </p>
               <div class="barwrap">
                 <div class="bar">{d.cells.map((cls, i) => <i class={cls} title={hr(HOURS[i])}></i>)}</div>
-                <div class="barlab"><span>7am</span><span>2pm</span><span>10pm</span></div>
+                <div class="barlab"><span>{hr(7)}</span><span>{hr(14)}</span><span>{hr(22)}</span></div>
               </div>
             </div>
           </a>

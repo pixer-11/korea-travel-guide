@@ -13,6 +13,20 @@
 // every CJK reader until now.
 const MERIDIEM_FIRST = { ko: '시', ja: '時', zh: '点' };
 
+// One clock hour, in the reader's language. BestTimeTool.astro had its own
+// private copy that always said "7am"/"9pm", so every localized /tools/best-time/
+// page printed its entire clock in English — 5,697 English tokens per page, on
+// 689 cards, with the surrounding labels translated around them:
+// 「가장 한산한 시간 7am–8am」. The rule this file already encodes is that ko/ja/zh
+// put the meridiem FIRST and the number second, with a unit: 오전 7시.
+export function formatHour(h, { am = 'AM', pm = 'PM', lang = 'en' } = {}) {
+  const x = ((Number(h) % 24) + 24) % 24;
+  const n = x % 12 === 0 ? 12 : x % 12;
+  const mer = x < 12 ? am : pm;
+  const unit = MERIDIEM_FIRST[lang];
+  return unit ? `${mer} ${n}${unit}` : `${n}${mer.toLowerCase()}`;
+}
+
 export function formatHourRanges(hours, { am = 'AM', pm = 'PM', lang = 'en' } = {}) {
   const unit = MERIDIEM_FIRST[lang];
   const xs = [...new Set(hours ?? [])].filter((h) => Number.isInteger(h)).sort((a, b) => a - b);

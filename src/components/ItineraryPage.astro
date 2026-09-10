@@ -20,6 +20,7 @@ import { slugifyRegion } from '../lib/slug';
 import { thumbOr } from '../lib/wall';
 import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { closedDaysOf } from '../lib/itinerary.mjs';
 
@@ -412,7 +413,9 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
             // title ("Gwangjang Market: Seoul Travel Guide") — an itinerary card
             // is a list of places, not a list of articles. Falls back to the
             // (localized, when available) post title for posts without a place.
-            const stopLabel = (lang === 'en' ? null : postTitleFor(post).split(/[:—]/)[0].trim()) || post.data.place?.name || postTitleFor(post);
+            // shortPlaceLabel handles the full-width separators and the suffix-with-no-
+            // separator shapes that the old ASCII split could not see (2026-09-10).
+            const stopLabel = shortPlaceLabel(postTitleFor(post), lang) || post.data.place?.name || postTitleFor(post);
             const stopRegionLabel = localizePlace(post.data.region, lang);
             const leg = stop.walkToNext;
             return (
@@ -498,7 +501,11 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
           {day.rainPost && (
             <p class="itin-rain">
               <Emoji name="umbrella" class="nav-ico" /> {t('itin.ifItRains').replace('{title}', '')}
-              <a href={postHref(day.rainPost.id)}>{postTitleFor(day.rainPost)}</a>
+              {/* The place, not the headline. This one leaked on the ENGLISH page
+                  too: "If it rains: ArtScience Museum: Marina Bay Travel Guide
+                  (4.4★)" and "If it rains: Ise Sueyoshi: Where to Eat in Tokyo"
+                  (2026-09-10). */}
+              <a href={postHref(day.rainPost.id)}>{shortPlaceLabel(postTitleFor(day.rainPost), lang) || postTitleFor(day.rainPost)}</a>
               {day.rainWhy && <span class="itin-rain-why"> — {day.rainWhy}</span>}
             </p>
           )}

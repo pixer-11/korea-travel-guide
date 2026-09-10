@@ -6,6 +6,7 @@ import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { monthSlug } from '../lib/when-to-go.mjs';
@@ -153,7 +154,7 @@ const jsonLd = {
         <ul class="wtg-quietlist">
           {quietVenues.map((p: any) => (
             <li>
-              <a href={card.href(p.id, true)}>{card.title(p.id, p.data.place?.name ?? p.data.title).split(/[:—]/)[0].trim()}</a>
+              <a href={card.href(p.id, true)}>{shortPlaceLabel(card.title(p.id, p.data.place?.name ?? p.data.title), lang)}</a>
               <span class="wtg-q-region">{localizePlace(p.data.region, lang)}</span>
               {quietFor(p) && <span class="wtg-q-hours">{quietFor(p)}</span>}
             </li>
