@@ -1095,5 +1095,24 @@
    "pinClicks": 0,
    "outboundClicks": 0
   }
- ]
+ ],
+ "decision": {
+  "preRegisteredOn": "2026-09-10",
+  "preRegisteredBeforeSeeing": "the 2026-09-14 report",
+  "judgeOn": "2026-09-14",
+  "why": "Three weeks in, pins tripled (39 -> 107) but impressions PER PIN stayed flat (1.4 -> 2.2 -> 2.0), saves are 0 every week and outbound clicks have been stuck at 2 since 08-25. Saves are the signal Pinterest distributes on, so a fourth week of zero is the number that decides.",
+  "readInThisOrder": [
+   "1. saves. Everything else follows from it.",
+   "2. impressions per pin (impressions / pins), NOT total impressions - total grows just because we pin more.",
+   "3. outbound clicks."
+  ],
+  "thresholds": {
+   "distributionStarting": "saves > 0 AND impressions/pin above 2.5 - Pinterest has begun showing the pins. Change nothing about the pins; turn on the learning loop (feed the per-pin results back into which posts get pinned) and re-read in four more weeks.",
+   "pinIsNotEarningIt": "saves still 0 AND impressions/pin still near 2 - the pin itself is not earning distribution. Two changes, both named in advance: (a) write descriptions for Pinterest SEARCH rather than reusing the Google meta description, leading with what we alone can say (which hours are quiet); (b) consolidate the ~20 thin country boards into a few thick topical ones. Then re-measure four weeks before judging again.",
+   "overPinning": "impressions/pin FALLING while pin count rises - stop the 2->8/day ramp where it is and hold. More pins into a channel that is not distributing them is the wrong direction.",
+   "seenButNotClicked": "impressions rising, saves > 0, but outbound clicks still 2 - the image and title are not earning the click. That is a creative problem, not a volume one; rework the pin composition before touching anything else."
+  },
+  "doNotDoYet": "Do not change pin copy or board structure before 09-14. The sample is too thin to measure a change against, and changing it now would destroy the only baseline we have.",
+  "keepOrKill": "The keep-or-kill decision for Pinterest as a channel stays where it was set: early November, judged on this same weekly ledger."
+ }
 }
