@@ -20,6 +20,7 @@
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
+import { latinDrops } from './lib/latin-drop.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
@@ -304,6 +305,28 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       return translateOne(langCode, srcId, data, hash, attempt + 1);
     }
     throw new Error(`translation body is a stub (${out.body.trim().length} chars) after ${attempt} attempts`);
+  }
+
+  // An English word standing where a CJK word belongs. 2026-09-07..09 the model
+  // began emitting the GLOSS instead of the word — 観光 came back as
+  // "observation" and 建立 as "completion", inside otherwise fluent Japanese,
+  // and it reached the <title>, the meta description and the JSON-LD. The
+  // prompt did not change in that window; the output drifted. Every existing
+  // checker walked past it: audit-translations is paragraph-level by design and
+  // audit-i18n-leaks samples six pages per type per language.
+  //
+  // Retry rather than write: the same post's other languages came back fine, so
+  // this is per-call noise, not an input the model cannot handle. After three
+  // attempts, throw — the caller keeps the previous translation, which is a
+  // sentence older but not broken.
+  const parts = [out.title, out.description, out.quickAnswer, out.body].filter(Boolean);
+  const drops = latinDrops(parts.join(String.fromCharCode(10)), langCode);
+  if (drops.length) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — English word where a ${langCode} word belongs (${drops.slice(0, 3).join(', ')}), retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`English words left in ${langCode} output after ${attempt} attempts: ${drops.slice(0, 5).join(', ')}`);
   }
 
   // Reject a malformed translation instead of writing it. A dropped quickAnswer

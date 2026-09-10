@@ -742,6 +742,13 @@ jobs:
           # for a day it was a gate nobody opened. The English validator above
           # cannot see this class: English lets a date stand without a tense.
           node scripts/audit-ended-event-tense-i18n.mjs
+          # An English word standing where a CJK word belongs. 2026-09-07..09
+          # the model returned the gloss instead of the word — 観光 came back
+          # as "observation" and 建立 as "completion" — inside fluent
+          # Japanese, so it reached <title>, meta description and JSON-LD on
+          # the languages Bing sends most of our traffic from. translate-posts
+          # now retries on it; this is the census of what already shipped.
+          node scripts/audit-latin-drops.mjs
           # The vision gate asks "is this a concert photo?" and a photo of some
           # OTHER concert says yes. Twelve event guides were carrying a picture of
           # a different event entirely (2026-09-08) — a Mexican jazz festival on
