@@ -1,5 +1,5 @@
 ---
-title: 'Katong Park: Travel Guide (4.1★)'
+title: 'Katong Park: Travel Guide (4.2★)'
 description: >-
   Katong Park is a small, leafy neighborhood park on Fort Road in Katong, open
   24 hours, built around the last visible remnant of old Fort Tomahawk and a

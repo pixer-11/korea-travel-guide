@@ -9,7 +9,7 @@ Wander Atlas is a curated, editor-reviewed resource for international visitors. 
 
 ## The editor
 
-Every guide on this site is reviewed by **Pixer**, a Korean travel editor who has personally traveled and documented countries across Asia, Europe, the Americas and Oceania: all of Vietnam and Thailand, most of South Korea, plus Japan, Singapore, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, France, Spain, Georgia, the Czech Republic, Russia, the US, Australia and New Zealand, among others, and who keeps traveling, adding to this site's records with every trip. Pixer is a pen name; we say so up front rather than inventing a persona. Guides for countries the editor has visited are marked on the home page, and we never claim a personal visit we haven't made.
+Every guide on this site is reviewed by **Pixer**, a Korean travel editor who has personally traveled and documented countries across Asia, Europe, the Americas and Oceania: much of Vietnam and most of South Korea, plus Japan, Singapore, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, France, Spain, Georgia, the Czech Republic, Russia, the US, Australia and New Zealand, among others, and who keeps traveling, adding to this site's records with every trip. Pixer is a pen name; we say so up front rather than inventing a persona. Guides for countries the editor has visited are marked on the home page, and we never claim a personal visit we haven't made.
 
 ## AI assistance
 

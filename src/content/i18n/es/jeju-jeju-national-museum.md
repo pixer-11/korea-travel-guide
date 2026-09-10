@@ -1,55 +1,57 @@
 ---
 lang: es
 slug: jeju-jeju-national-museum
-srcHash: 'e337f23ed3ae'
-title: 'Museo Nacional de Jeju: Guía de viaje (4.3★)'
-description: El Museo Nacional de Jeju, cerca de la zona costera de Sammu-ro/Iljudong-ro en Jeju City, es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamanista de la era Tamna y la historia del exilio durante el periodo Joseon antes de salir a los paisajes naturales. 4.4★ (2,980 reseñas) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: El Museo Nacional de Jeju, cerca de la zona costera de Sammu-ro/Iljudong-ro en Jeju City, es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamanista de la era Tamna y la historia del exilio durante el periodo Joseon antes de salir a los paisajes naturales. Abre de 9am a 6pm de martes a domingo (cerrado los lunes); reserva entre 1 y 1.5 horas. Los fines de semana la mayor afluencia es entre las 11am y las 5pm, así que una visita temprano en la mañana o un día de semana es la opción más tranquila.
+srcHash: 'bcb50f863fb5'
+title: 'Museo Nacional de Jeju: Guía de Viaje (4,4★)'
+description: 'Situado cerca de la zona costera de Sammu-ro/Iljudong-ro, en la ciudad de Jeju, el Museo Nacional de Jeju es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamánica de la era Tamna y la historia del destierro durante el período Joseon antes de salir a explorar los paisajes naturales. 4,4★ (2.980 reseñas): qué dicen los visitantes, horarios y consejos.'
+quickAnswer: Situado cerca de la zona costera de Sammu-ro/Iljudong-ro, en la ciudad de Jeju, el Museo Nacional de Jeju es una parada bien organizada para entender la geología volcánica de la isla, la cultura chamánica de la era Tamna y la historia del destierro durante el período Joseon antes de salir a explorar los paisajes naturales. Abre de martes a domingo de 9:00 a 18:00 (cerrado los lunes); conviene reservar entre 1 y 1,5 horas para la visita. Los fines de semana, el momento de mayor afluencia es entre las 11:00 y las 17:00, así que lo más tranquilo es ir temprano por la mañana o entre semana.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Museo Nacional de Jeju?
-    a: La mayoría de los visitantes necesita entre 1 y 1.5 horas para la colección permanente; añade tiempo extra si hay una exposición especial en curso.
-  - q: ¿Cuáles son los horarios de apertura?
-    a: De martes a domingo, de 9:00 AM a 6:00 PM. Está cerrado todo el día los lunes.
+    a: La mayoría de los visitantes necesita entre 1 y 1,5 horas para recorrer la colección permanente; conviene sumar tiempo extra si hay alguna exposición especial en curso.
+  - q: ¿Cuál es el horario de apertura?
+    a: De martes a domingo, de 9:00 a 18:00. Permanece cerrado todo el día los lunes.
   - q: ¿Cuándo hay menos gente?
-    a: Justo a la apertura durante los días de semana es cuando está más tranquilo. Los fines de semana, evita el tramo de 11am a 5pm, que es el de mayor afluencia.
+    a: El momento más tranquilo es justo a la apertura entre semana. Los fines de semana conviene evitar la franja de 11:00 a 17:00, que es la de mayor afluencia.
   - q: ¿Cómo llego sin auto?
-    a: Los autobuses locales que recorren la carretera costera de Jeju City paran cerca, o puedes tomar un taxi corto desde el centro de Jeju City o desde el aeropuerto, ambos a solo minutos de distancia.
-  - q: ¿Vale la pena visitarlo si vengo principalmente por la naturaleza?
-    a: Sí — ofrece contexto sobre la geología volcánica de Jeju y la cultura de la era Tamna y de las haenyeo que moldearon la isla, un trasfondo útil antes de subir al Hallasan o visitar los tubos de lava.
+    a: Los autobuses locales que recorren la carretera costera de la ciudad de Jeju paran cerca del museo, o bien se puede tomar un taxi corto desde el centro de la ciudad o desde el aeropuerto, ambos a pocos minutos de distancia.
+  - q: ¿Vale la pena visitarlo si mi interés principal es la naturaleza?
+    a: 'Sí: ofrece contexto sobre la geología volcánica de Jeju y sobre la cultura de la era Tamna y las haenyeo que dieron forma a la isla, información útil antes de subir al Hallasan o visitar los tubos de lava.'
 ---
 
 ## Por qué ir
 
-A la mayoría de los visitantes se les vende Jeju como un paisaje — conos volcánicos, playas de arena negra, cascadas que caen desde acantilados de basalto — pero la isla tiene una historia humana propia que es fácil pasar por alto si solo se persiguen vistas. El Museo Nacional de Jeju es donde se completa esa historia: el antiguo reino de Tamna, que gobernó la isla de forma independiente durante siglos, las mujeres buceadoras haenyeo, el sistema de creencias chamanista con su propio panteón, y los capítulos más oscuros del exilio político de la era Joseon, cuando la isla se usó como lugar de destierro para funcionarios y académicos caídos en desgracia.
+A la mayoría de los visitantes se les vende Jeju como un paisaje: conos volcánicos, playas de arena negra, cascadas que caen desde acantilados de basalto. Sin embargo, la isla tiene una historia humana singular que pasa fácilmente desapercibida si uno solo persigue vistas. El Museo Nacional de Jeju es el lugar donde esa historia se completa: el antiguo reino de Tamna, que gobernó la isla de forma independiente durante siglos; las haenyeo, las mujeres buceadoras; el sistema de creencias chamánico con su propio panteón; y los capítulos más oscuros del destierro político durante la era Joseon, cuando la isla se usó para exiliar a funcionarios y eruditos caídos en desgracia.
 
-El edificio en sí, una estructura de concreto baja y deliberadamente discreta rodeada de vegetación, fue diseñado para no competir con la colección ni con la costa cercana.
+El propio edificio, una construcción de hormigón baja y deliberadamente discreta rodeada de vegetación, fue diseñado para no competir ni con la colección ni con la costa cercana.
 
 ## Cómo llegar
 
-El museo se encuentra en el propio Jeju City, en 17 Iljudong-ro, a pocos minutos en auto del aeropuerto, y es fácil combinarlo con una llegada por la mañana o con una última tarde antes de un vuelo de salida. Los autobuses públicos que recorren la carretera costera del norte paran a poca distancia caminando, y los taxis desde el centro de Jeju City o desde el aeropuerto son rápidos y económicos dada la corta distancia.
+El museo se encuentra en la propia ciudad de Jeju, en 17 Iljudong-ro, a pocos minutos en auto del aeropuerto, lo que facilita combinarlo con una llegada matutina o con una última tarde antes de tomar el vuelo de regreso. Los autobuses públicos que circulan por la carretera costera del norte paran a poca distancia a pie, y los taxis desde el centro de la ciudad de Jeju o desde el aeropuerto resultan rápidos y económicos dada la corta distancia.
 
-Jeju no tiene sistema de metro, así que la mayoría de los visitantes llega en auto de alquiler, taxi o autobús local — si vas en auto, hay estacionamiento en el lugar, lo que facilita añadir esta parada a un recorrido por el lado norte de la isla.
+Jeju no cuenta con metro, así que la mayoría de los visitantes llega en auto de alquiler, taxi o autobús local. Quienes conduzcan encontrarán estacionamiento en el propio recinto, lo que convierte esta parada en un complemento sencillo para un recorrido por el norte de la isla.
 
 ## Qué ver
 
-En el interior, las exhibiciones permanentes avanzan más o menos en orden cronológico: primero artefactos prehistóricos y del reino de Tamna, luego una sección sobre la cultura marítima y chamanista de Jeju, y finalmente exhibiciones sobre el uso que hizo la dinastía Joseon de la isla como destino de exilio para aristócratas y académicos caídos en desgracia. No te pierdas las lápidas de roca volcánica, la reconstrucción de la distribución tradicional de una casa de Jeju, y los artefactos relacionados con la tradición de buceo de las haenyeo — una cultura reconocida por la UNESCO como Patrimonio Cultural Inmaterial.
+En el interior, las exhibiciones permanentes siguen un orden más o menos cronológico: primero los artefactos prehistóricos y del reino de Tamna, luego una sección dedicada a la cultura marítima y chamánica de Jeju y, por último, las salas que abordan el uso de la isla como destino de destierro para aristócratas y eruditos caídos en desgracia durante la dinastía Joseon.
 
-La señalización es bilingüe en coreano e inglés en todo el recorrido, lo que hace que sea realmente fácil de recorrer sin guía. El lado de historia natural de la colección también explica en términos sencillos la formación volcánica de Jeju, un contexto útil si después vas a subir al Hallasan o a caminar por un tubo de lava.
+No hay que perderse las lápidas funerarias de roca volcánica, la reconstrucción de una vivienda tradicional de Jeju y los objetos vinculados a la tradición de buceo de las haenyeo, una cultura reconocida por la UNESCO como Patrimonio Cultural Inmaterial.
+
+La señalización es bilingüe, en coreano e inglés, en todo el recorrido, lo que hace posible visitarlo sin guía sin mayor dificultad. La sección de historia natural de la colección también explica en términos sencillos la formación volcánica de Jeju, un contexto útil si se piensa subir después al Hallasan o recorrer un tubo de lava.
 
 ## Cuándo ir
 
-El museo mantiene un horario estable de martes a domingo — organiza tu itinerario por el norte de Jeju teniendo esto en cuenta. Los fines de semana, la ventana de mayor afluencia va de 11am a 5pm, así que si quieres las salas para ti solo, procura llegar justo a la apertura o ve un día de semana por la tarde.
+El museo mantiene un horario estable de martes a domingo, algo a tener en cuenta al planear un itinerario por el norte de Jeju. Los fines de semana, la franja de mayor afluencia va de 11:00 a 17:00, así que quien quiera tener las salas para sí mismo debería ir justo a la apertura o elegir una tarde entre semana.
 
-Calcula entre una hora y una hora y media para un recorrido completo; más tiempo si hay una exposición especial en curso, que el museo rota periódicamente junto con la colección permanente.
+Conviene calcular entre una hora y una hora y media para recorrer todo el museo, más tiempo si hay alguna exposición especial en curso, ya que el museo las rota periódicamente junto con la colección permanente.
 
 ## Cómo visitarlo como un local
 
-Esta es una parada conocida y muy visitada, no un secreto, así que la jugada inteligente no es encontrarla — es elegir bien el horario. Ve justo cuando abren las puertas a las 9am, o pasa un día de semana, para evitar la aglomeración del mediodía en fin de semana. La entrada a la exposición permanente suele ser gratuita o de muy bajo costo (las exposiciones especiales a veces tienen un costo aparte), pero confirma los detalles de admisión actuales antes de ir, ya que estas cosas cambian.
+Se trata de una parada conocida y muy visitada, no de un secreto, así que la clave no está en encontrarla, sino en elegir bien el momento. Conviene ir justo cuando abren las puertas, a las 9:00, o acercarse un día de semana, para evitar la aglomeración del mediodía en fin de semana. El acceso a la exhibición permanente suele ser gratuito o de muy bajo costo (las exposiciones especiales a veces tienen una tarifa aparte), aunque conviene confirmar las condiciones de entrada antes de ir, ya que pueden cambiar.
 
-Los coreanos por lo general recorren los museos en silencio y no se detienen a charlar en las salas — sigue esa costumbre, habla en voz baja y no toques las reconstrucciones de casas aunque parezcan invitarte a entrar. Por lo general se permite tomar fotos sin flash en las salas permanentes, pero las exposiciones especiales a veces lo restringen, así que revisa la señalización en la entrada de cada sala en lugar de asumirlo.
+En general, los coreanos recorren los museos en silencio y no se detienen a conversar dentro de las salas; conviene seguir esa costumbre, hablar bajo y no tocar las reconstrucciones de viviendas aunque parezca que se puede entrar en ellas. La fotografía suele estar permitida en las salas permanentes sin flash, pero algunas exposiciones especiales la restringen, así que conviene revisar la señalización en la entrada de cada sala en lugar de dar el permiso por sentado.
 
-No hay código de vestimenta, pero lleva una capa ligera — las salas se mantienen frescas. Si tienes poco tiempo, pregúntale al personal (o consulta el mapa del mostrador de información) por lo más destacado de las secciones de Tamna y haenyeo, ya que son las dos partes más específicas de Jeju en la colección, en contraste con la historia coreana más general que se puede ver en otros museos regionales.
+No existe un código de vestimenta, pero conviene llevar una prenda ligera de abrigo, ya que las salas se mantienen frescas. Si el tiempo es limitado, vale la pena preguntar al personal (o consultar el mapa en el mostrador de información) por los puntos destacados de las secciones sobre Tamna y las haenyeo, ya que son las dos partes de la colección más propias de Jeju, a diferencia de la historia coreana más general que puede verse en otros museos regionales.
 
-## Cerca de aquí
+## Alrededores
 
-El museo combina de forma natural con otros sitios de la costa norte de Jeju City — puedes complementarlo con un paseo por el complejo gubernamental de Jeju Mokgwana o una caminata por la costa si te alojas en la ciudad en lugar de cerca de los resorts.
+El museo combina bien con otros puntos de interés de la zona norte de la ciudad de Jeju. Quienes se alojen en la ciudad, en lugar de cerca de los complejos turísticos, pueden sumar un paseo por el complejo gubernamental de Jeju Mokgwana o una caminata por la costa.

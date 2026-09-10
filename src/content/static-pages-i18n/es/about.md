@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: about
-srcHash: 'dba3db178ca4'
+srcHash: '43835c689ca3'
 metaTitle: Política editorial
 metaDescription: Quién hace Wander Atlas, cómo se reparte el trabajo entre la asistencia de IA y la revisión humana, dónde informar un error y de dónde provienen nuestros datos.
 eyebrow: Política editorial
@@ -12,7 +12,7 @@ Wander Atlas es un recurso curado y revisado por un editor para visitantes inter
 
 ## El editor
 
-Cada guía de este sitio es revisada por **Pixer**, un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: todo Vietnam y Tailandia, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Taiwán, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros, y que continúa viajando, ampliando los registros de este sitio con cada viaje. Pixer es un seudónimo; lo decimos abiertamente en lugar de inventar un personaje. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos una visita personal que no hemos realizado.
+Cada guía de este sitio es revisada por **Pixer**, un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: buena parte de Vietnam, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Taiwán, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros, y que continúa viajando, ampliando los registros de este sitio con cada viaje. Pixer es un seudónimo; lo decimos abiertamente en lugar de inventar un personaje. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos una visita personal que no hemos realizado.
 
 ## Asistencia de IA
 

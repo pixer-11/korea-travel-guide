@@ -1,5 +1,5 @@
 ---
-title: 'Kaş Old town: Kas Travel Guide (4.7★)'
+title: 'Kaş Old town: Kas Travel Guide (4.8★)'
 description: >-
   Kaş Old Town is the tangle of whitewashed, bougainvillea-draped lanes around
   İbrahim Serin Caddesi in central Kaş, open around the clock with no ticket

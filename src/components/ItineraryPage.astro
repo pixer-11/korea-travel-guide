@@ -82,6 +82,14 @@ const sameLangPosts =
     ? new Map<string, any>()
     : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e]));
 const sameLangPostTitles = new Map([...sameLangPosts].map(([k, e]) => [k, e.data.title]));
+// The same map already holds the translated DESCRIPTION, which is what the
+// rain-day line should show. translate-itineraries always writes rainWhys: {}
+// (deliberately — it does not translate those separately), so the fallback
+// below fired on 100% of non-English pages and printed the English sentence
+// under a Japanese heading: 「雨の日は: 東京のオクソモコ — Oxomoco, the
+// Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated…」
+// The translation of that very sentence was sitting in this map. (2026-09-10)
+const sameLangPostDescriptions = new Map([...sameLangPosts].map(([k, e]) => [k, e.data.description]));
 
 // Does any day hold more stops than the loosest pace keeps? If not, the pace
 // radios are decorative (see the filter block below).
@@ -222,7 +230,9 @@ const days = d.itinerary.map((day: any, di: number) => {
     for (const s of stops) delete s.walkToNext;
   }
   const rainPost = day.rainSwapSlug ? resolveStop(day.rainSwapSlug) : null;
-  const rainWhy = day.rainSwapSlug ? (tr?.rainWhys?.[day.rainSwapSlug] ?? rainPost?.data.description ?? null) : null;
+  const rainWhy = day.rainSwapSlug
+    ? (tr?.rainWhys?.[day.rainSwapSlug] ?? (rainPost && sameLangPostDescriptions.get(rainPost.id)) ?? rainPost?.data.description ?? null)
+    : null;
   return { label, intro, stops, rainPost, rainWhy };
 });
 

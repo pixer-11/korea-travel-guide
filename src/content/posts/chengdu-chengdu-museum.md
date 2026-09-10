@@ -1,5 +1,5 @@
 ---
-title: 'Chengdu Museum: Travel Guide (4.3★)'
+title: 'Chengdu Museum: Travel Guide (4.4★)'
 description: >-
   Chengdu Museum sits on Tianfu Square in Qingyang District, directly across
   from the Sichuan Science and Technology Museum — free entry (bring ID/passport

@@ -106,6 +106,28 @@ try { await claim('nope'); console.log('accepted'); } catch { console.log('rejec
 `, 'rejected');
 
 let fail = 0;
+t('대량발행이 발행의 남은 검색 몫을 물려받는다 (2026-09-10)', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await recordSearch('publish', 26);      // 발행이 55 중 26 사용 → 29 남김
+const f = await claimSearch('fill');    // 자기 몫 35 + 물려받은 29
+console.log(f.allowance + ',' + f.inherited);
+`, '64,29');
+
+t('🛑 아직 안 쓴 몫만 물려받는다 — 남의 몫을 빼앗지 않는다', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await recordSearch('publish', 55);      // 발행이 자기 몫을 다 씀
+const f = await claimSearch('fill');
+console.log(f.allowance + ',' + f.inherited);
+`, '35,0');
+
+t('🛑 이월이 하루 총량을 넘기지 않는다', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await recordSearch('publish', 1);       // 54 남김
+await recordSearch('other', 95);        // 하루 총량 거의 소진
+const f = await claimSearch('fill');
+console.log(f.allowance);
+`, '4');
+
 for (const [name, script, expect] of cases) {
   let got;
   try { got = inSandbox(script); } catch (e) { got = `threw: ${String(e.message).split('\n')[0]}`; }

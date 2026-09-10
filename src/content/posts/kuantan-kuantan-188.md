@@ -1,5 +1,5 @@
 ---
-title: 'Kuantan 188: Travel Guide (4.4★)'
+title: 'Kuantan 188: Travel Guide (4.5★)'
 description: >-
   Kuantan 188 is the observation tower and riverside leisure hub on Jalan Besar,
   right by the Kuantan River in Pahang's state capital. 4.5★ (3,470 reviews) —

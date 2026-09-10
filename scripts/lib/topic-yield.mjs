@@ -19,6 +19,18 @@
 //  Per search, a landmark post brings ~9× the GSC clicks of a restaurant post
 //  (restaurant posts earn 1.3× per post, but cost 25 searches each).
 //
+//  ⚠️ 2026-08-23 numbers, and they are about SEARCH COST, not about traffic.
+//  Read as a traffic finding they contradict what discover-events.mjs measured
+//  on 2026-09-09 from Bing: events sit at position 24 with 1.15% CTR against
+//  generic attractions at 58 with 0.06%, and a trendy venue converts at 19%
+//  against a famous landmark's 1.3% — because a new cafe answers a query nobody
+//  else answers, while "Venice Grand Canal" belongs to Wikipedia. Both can be
+//  true: this file optimises searches spent per post PUBLISHED; that one
+//  measures clicks per page LIVE. Keep this partition for what it is — a
+//  Places-quota optimiser — and do not cite the 9× line as a reason to make
+//  more landmark posts. Re-derive it from clicks per published page before it
+//  is used that way. (Flagged 2026-09-10.)
+//
 //  So the queue gets one more stable partition, by measured yield:
 //
 //    high   ≥ HIGH_YIELD                       first

@@ -13,6 +13,7 @@ import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { holidayLabel } from '../i18n/holidays';
 import { localizePlace, localizeVenue } from '../i18n/places';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { closuresInRange, holidaysInRange } from '../lib/whats-closed.mjs';
 import countryFacts from '../../data/country-facts.json';
 
@@ -21,6 +22,20 @@ const { lang } = Astro.props;
 const t = useTranslations(lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
+
+// The translated title already carries the venue name in the reader's language.
+// localizeVenue only knows the names in its own dictionary and falls back to
+// English by design — which on 2026-09-10 meant ~75% of this tool's inventory
+// printed an English venue against a fully translated city name:
+// 「Siem Reap Art Center Night Market, シェムリアップ」, on a page whose linked
+// article says 「シェムリアップ・アートセンター・ナイトマーケット」. The name was
+// one collection away. Dictionary first, then the translated title, then English.
+const i18nTitles = lang === 'en'
+  ? new Map<string, string>()
+  : new Map(
+      (await getCollection('postI18n', ({ data }: any) => data.lang === lang))
+        .map((e: any) => [e.data.slug as string, e.data.title as string]),
+    );
 
 // Countries with holiday dates AND at least one venue we cover. A country that can
 // only ever answer "nothing" is not worth offering in the picker.
@@ -60,7 +75,13 @@ const island = Object.fromEntries(countries.map((c) => [c, {
       // site has fought before. localizeVenue is the helper for exactly this
       // surface — a venue name shown outside a translated article — and it falls
       // back to the original name when no translation exists, on purpose.
-      name: localizeVenue(p.data.place?.name ?? String(p.data.title).split(':')[0].trim(), lang),
+      name: (() => {
+        const fallback = p.data.place?.name ?? String(p.data.title).split(':')[0].trim();
+        const dict = localizeVenue(fallback, lang);
+        if (dict !== fallback) return dict;                     // the dictionary knew it
+        const translated = i18nTitles.get(p.id.replace(/\.md$/, ''));
+        return translated ? shortPlaceLabel(translated, lang) || fallback : fallback;
+      })(),
       city: localizePlace(p.data.region ?? '', lang) || null,
       hours: p.data.place?.hoursOmitted ? [] : (p.data.place?.openingHours ?? []),
     }))

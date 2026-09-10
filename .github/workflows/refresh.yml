@@ -59,6 +59,14 @@ jobs:
       - name: Resync rating badges in descriptions
         run: node scripts/resync-rating-badges.mjs
 
+      # The TITLE carries a star too, and nothing kept it in step. A page could
+      # show "…Travel Guide (4.6★)" in its h1 while the description beside it
+      # said 4.7★, and the translated titles carried the stale figure as well —
+      # 31 of them on 2026-09-10. Same run as the badge above so the two can
+      # never be a week apart. Figures only; no re-translation, no srcHash change.
+      - name: Resync rating stars in titles
+        run: node scripts/resync-title-stars.mjs --apply
+
       # The badge above is only half the surface: 293 posts also write the
       # figure into a SENTENCE ("verified visitor ratings put it at 4.8 stars"),
       # and nothing reached those until 2026-08-17, when Ayutthaya shipped 4.8

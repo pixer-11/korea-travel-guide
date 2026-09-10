@@ -1,5 +1,5 @@
 ---
-title: 'Place de la Bourse: Bordeaux Travel Guide (4.6★)'
+title: 'Place de la Bourse: Bordeaux Travel Guide (4.7★)'
 description: Place de la Bourse is Bordeaux's showpiece 18th-century square on the Garonne, best known for the Miroir d'Eau, the vast reflecting pool that turns the facade into a mirror. 4.7★ (20,285 reviews) — what visitors say, hours, and tips.
 country: France
 region: Bordeaux

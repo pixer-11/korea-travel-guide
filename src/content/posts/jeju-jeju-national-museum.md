@@ -1,5 +1,5 @@
 ---
-title: 'Jeju National Museum: Travel Guide (4.3★)'
+title: 'Jeju National Museum: Travel Guide (4.4★)'
 description: >-
   Jeju National Museum, near Jeju City's coastal Sammu-ro/Iljudong-ro area, is a
   well-organized stop for understanding the island's volcanic geology, shamanist

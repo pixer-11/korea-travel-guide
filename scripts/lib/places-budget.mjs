@@ -76,8 +76,23 @@ export async function claimSearch(job) {
   const led = await load();
   const remainingToday = Math.max(0, SEARCH_DAILY_CAP - led.search.spent);
   const alreadyMine = led.search.byJob[job] || 0;
-  const allowance = Math.max(0, Math.min(share - alreadyMine, remainingToday));
-  return { allowance, spentToday: led.search.spent, remainingToday };
+
+  // Carry over what the earlier jobs did not spend. The header above promised
+  // this and claim() stayed static, so on 2026-09-09 the fill run stopped dead
+  // on its 35 while 29 of publish's 55 sat unspent all day: publish converted
+  // 16 posts from 26 searches, the fill 5 from 35, and the day's second batch
+  // was refused its budget rather than its results. Nothing is taken from a job
+  // that has not run — only the part of an EARLIER job's share it left behind,
+  // and the day's hard cap is still the real ceiling.
+  const EARLIER = { fill: ['publish'], other: ['publish', 'fill'] };
+  const inherited = (EARLIER[job] ?? []).reduce((n, prior) => {
+    const priorSpent = led.search.byJob[prior] || 0;
+    const priorShare = SEARCH_SHARES[prior] ?? 0;
+    return n + Math.max(0, priorShare - priorSpent);
+  }, 0);
+
+  const allowance = Math.max(0, Math.min(share + inherited - alreadyMine, remainingToday));
+  return { allowance, spentToday: led.search.spent, remainingToday, inherited };
 }
 
 /** Record the Text Search calls a job actually made. */
