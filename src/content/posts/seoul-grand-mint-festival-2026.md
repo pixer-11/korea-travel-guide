@@ -11,13 +11,10 @@ eventRecurring: true
 eventVenue: Olympic Park
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/24/Shillings_of_John_II_Casimir_Vasa%2C_minted_in_the_Vilnius_Mint_in_the_middle_of_the_17th_century.jpg
-  credit: 'Photo: Pofka / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Olympic_Park_Seoul.jpg/1920px-Olympic_Park_Seoul.jpg'
+  credit: 'Photo: Silas Low / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shillings_of_John_II_Casimir_Vasa,_minted_in_the_Vilnius_Mint_in_the_middle_of_the_17th_century.jpg
-  focus:
-    x: 50
-    'y': 50
+  source: 'https://commons.wikimedia.org/wiki/File:Olympic_Park_Seoul.jpg'
 gallery: []
 tags:
   - seoul

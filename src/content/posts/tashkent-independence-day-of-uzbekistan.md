@@ -30,14 +30,6 @@ faq:
     a: Two to three hours covers the performances, a walk through the park, and the fireworks finale after dark. Most people are in place before dusk.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Reception_in_honor_of_U_S_Independence_Day_%2835442412360%29.jpg/3840px-Reception_in_honor_of_U_S_Independence_Day_%2835442412360%29.jpg
-  credit: 'Photo: U.S. Embassy in Tashkent / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Reception_in_honor_of_U_S_Independence_Day_(35442412360).jpg
-  focus:
-    x: 30
-    'y': 40
 ---
 ## What Independence Day actually is
 

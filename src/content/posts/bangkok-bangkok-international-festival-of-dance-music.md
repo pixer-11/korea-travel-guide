@@ -31,14 +31,6 @@ eventOrganizer:
 eventOffers:
   url: https://www.thaiticketmajor.com/bangkokfestivals/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BeatBurger_in_2016_Spectrum_Dance_Music_Festival.jpg/3840px-BeatBurger_in_2016_Spectrum_Dance_Music_Festival.jpg
-  credit: 'Photo: FriedC / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BeatBurger_in_2016_Spectrum_Dance_Music_Festival.jpg
-  focus:
-    x: 50
-    'y': 40
 ---
 You come to this festival for the thing Bangkok doesn't otherwise offer in concentrated form: a six-week stretch where the Thailand Cultural Centre effectively becomes a small international performing-arts hub, pulling in opera companies, ballet troupes, and experimental multimedia acts from nine different countries and putting them on stages a short train ride from wherever you're staying. For one autumn, a city famous for street food and temple spires quietly turns into a place where you can catch European ballet one night and an avant-garde multimedia piece the next.
 
