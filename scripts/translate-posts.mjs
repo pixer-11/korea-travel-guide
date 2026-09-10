@@ -320,7 +320,11 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   // this is per-call noise, not an input the model cannot handle. After three
   // attempts, throw — the caller keeps the previous translation, which is a
   // sentence older but not broken.
-  const parts = [out.title, out.description, out.quickAnswer, out.body].filter(Boolean);
+  // The FAQ has to be in here. It was not, and that is how one Chinese event
+  // passed the tense gate with a fresh hash and still advertised itself as
+  // upcoming: 定于 was only in an FAQ answer. The FAQ is rendered into
+  // FAQPage JSON-LD, so it is the part search engines quote back.
+  const parts = [out.title, out.description, out.quickAnswer, out.body, JSON.stringify(out.faq ?? '')].filter(Boolean);
   const drops = latinDrops(parts.join(String.fromCharCode(10)), langCode);
   if (drops.length) {
     if (attempt < 3) {
@@ -353,7 +357,7 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   // found them every week and the repair pass rewrote them every week.
   // Same vocabulary the audit uses, so the two cannot drift apart.
   if (data.ended) {
-    const parts2 = [out.title, out.description, out.quickAnswer, out.body].filter(Boolean);
+    const parts2 = [out.title, out.description, out.quickAnswer, out.body, JSON.stringify(out.faq ?? '')].filter(Boolean);
     const text2 = parts2.join(String.fromCharCode(10));
     const upcoming = (UPCOMING[langCode] ?? []).map((re) => (text2.match(new RegExp(re.source, re.flags)) || [])[0]).filter(Boolean);
     if (upcoming.length) {

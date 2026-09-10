@@ -48,7 +48,35 @@ const FLOATING = new RegExp('[' + CJK + '] [a-z]{4,} [' + CJK + ']', 'g');
 // bracket hid it on the first pass of this very file.
 const LATIN_ONLY_PARENS = /[(（][ -~]*[)）]/g;
 
-// Words these languages genuinely write in Latin script.
+// The defect is an ENGLISH word standing in for a translated one. A foreign
+// proper noun or a borrowed dish name written in Latin script is not that — it
+// is how these languages write those things, and flagging them made the gate
+// retry perfectly good translations three times and then throw them away
+// (2026-09-10: aespa, hyukoh, warung, panellets, omakase, cortado, lumpia,
+// robatayaki, almadraba, tambang all reached the model as "defects").
+//
+// So the test is no longer "is this Latin?" but "is this an ordinary English
+// word?" — checked against a list of the ones a translator actually drops. It
+// is a closed list on purpose: a word not on it is assumed to be a name, which
+// is the safe direction. Grow it when a real drop is found in the wild.
+export const ENGLISH_WORDS = new Set([
+  // seen dropped in the 2026-09-07..09 regression
+  'observation', 'completion', 'construction', 'historical', 'historic', 'family',
+  'market', 'price', 'level', 'forest', 'railway', 'station', 'village', 'castle',
+  'garden', 'temple', 'shrine', 'museum', 'gallery', 'tower', 'bridge', 'harbor',
+  'harbour', 'district', 'street', 'avenue', 'square', 'palace', 'island', 'beach',
+  'mountain', 'river', 'lake', 'park', 'long', 'short', 'best', 'good', 'great',
+  'small', 'large', 'wide', 'high', 'deep', 'quiet', 'busy', 'early', 'late',
+  'morning', 'evening', 'afternoon', 'night', 'summer', 'winter', 'spring',
+  'autumn', 'weekday', 'weekend', 'holiday', 'ticket', 'entrance', 'exit',
+  'opening', 'closing', 'walking', 'drop-off', 'headliner', 'recreation',
+  'observation', 'reservation', 'admission', 'discount', 'souvenir', 'viewpoint',
+  'lookout', 'waterfall', 'hillside', 'seaside', 'downtown', 'uptown', 'gilded',
+  'golded', 'nearby', 'inside', 'outside', 'upstairs', 'downstairs',
+]);
+
+// Words these languages genuinely write in Latin script (kept for the older
+// call path; ENGLISH_WORDS is what decides now).
 export const LOANWORDS = new Set([
   'jazz', 'cafe', 'wifi', 'esim', 'halal', 'ramen', 'sushi', 'tapas', 'vegan',
   'brunch', 'bagel', 'techno', 'house', 'pintxo', 'pintxos', 'vermut', 'craft',
@@ -70,7 +98,7 @@ export function latinDrops(text, lang) {
   const out = [];
   for (const frag of found) {
     const word = frag.match(/[a-z]{4,}/)?.[0];
-    if (!word || LOANWORDS.has(word)) continue;
+    if (!word || !ENGLISH_WORDS.has(word)) continue;
     // The tail of a Latin phrase, not a dropped word. A romanised address keeps
     // its lowercase parts and takes a particle exactly like this:
     //   "186 Jeonseo-ro, Pungcheon-myeon에"  ·  "Chatuchak district에"
