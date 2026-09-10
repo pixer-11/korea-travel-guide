@@ -183,6 +183,54 @@ for (const [f, src] of sources) {
     }
   }
 
+  // ── UNGATED-COMMIT ────────────────────────────────────────
+  // The publish gate marks a defective post `draft: true` and exits 0, so it is
+  // run under continue-on-error. That means a NON-success outcome carries one
+  // meaning only: the gate crashed and nothing was checked. Committing anyway
+  // ships an unchecked batch.
+  //
+  // publish.yml learned this on 2026-09-02 and grew `if: steps.gate.outcome ==
+  // 'success'`. discover-events.yml ran the same gate, under the same
+  // continue-on-error, with an unconditional commit right after it — for eight
+  // more days, on the site's highest-yield page type, under a comment that said
+  // "every path that commits posts needs the gate". The comment was right and
+  // nothing enforced it. This does.
+  try {
+    const doc = yaml.load(src);
+    for (const job of Object.values(doc?.jobs ?? {})) {
+      const steps = Array.isArray(job?.steps) ? job.steps : [];
+      const gate = steps.find((st) => /gate-new-posts\.mjs/.test(String(st?.run ?? '')));
+      if (!gate) continue;
+      // Only the step that commits POSTS. publish.yml also commits a photo
+      // strip and the issue ledger, and gating those on the gate would be
+      // backwards — the ledger is most worth keeping on the run that crashed.
+      const commits = steps.filter((st) => {
+        const run = String(st?.run ?? '');
+        // The run's NEW posts, not a repair to existing ones. The batch commit
+        // stages data/published.json (the ledger of what shipped this run);
+        // the photo-strip repair commit stages posts alone and is deliberately
+        // if: always(), because removing a wrong photo is safe whatever the
+        // gate did. Requiring the ledger separates the two.
+        return run.includes('git commit')
+          && run.includes('src/content/posts')
+          && run.includes('data/published.json');
+      });
+      if (!commits.length) continue;
+      if (!gate.id) {
+        add('UNGATED-COMMIT', f,
+          `the publish gate step has no \`id\`, so no later step can ask whether it ran — the commit below it cannot be conditioned on the gate at all.`);
+        continue;
+      }
+      const guard = new RegExp(`steps\.${gate.id}\.outcome`);
+      for (const c of commits) {
+        if (!guard.test(String(c.if ?? ''))) {
+          add('UNGATED-COMMIT', f,
+            `"${c.name ?? 'a commit step'}" commits without checking \`steps.${gate.id}.outcome\`. The gate runs under continue-on-error because a HELD post exits 0, so a non-success outcome means the gate CRASHED and nothing was checked — and this commits that batch anyway.`);
+        }
+      }
+    }
+  } catch { /* a workflow that does not parse is CANCELLED-RUN's problem, not this rule's */ }
+
   // ── SWALLOWED ─────────────────────────────────────────────
   // `|| true` on a line that writes a file, where nothing afterwards checks
   // that the file has content. This is how a dead crawler stays invisible.
@@ -216,7 +264,7 @@ for (const [f, src] of sources) {
 }
 
 // ── report ──────────────────────────────────────────────────
-const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
+const order = ['UNGATED-COMMIT', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

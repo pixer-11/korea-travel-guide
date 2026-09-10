@@ -360,6 +360,35 @@ t('저장소의 실제 워크플로가 지금 깨끗하다', () => {
 });
 
 let fail = 0;
+// ── UNGATED-COMMIT (2026-09-10) ───────────────────────────────
+// publish.yml grew `if: steps.gate.outcome == 'success'` on 2026-09-02, after an
+// unchecked batch was committed. discover-events.yml ran the SAME gate under the
+// same continue-on-error with an unconditional commit for eight more days —
+// under a comment insisting that every path committing posts needs the gate.
+// The comment was right and nothing enforced it. This does.
+const GATE_RUN = '          node scripts/gate-new-posts.mjs --since=HEAD';
+const BATCH = '          git add src/content/posts data/published.json\n          git commit -m "content"';
+const REPAIR = '          git add src/content/posts src/content/i18n\n          git commit -m "fix: strip wrong-place heroes"';
+const fired = (r) => /UNGATED-COMMIT=[1-9]/.test(r.out);
+const wf = (commitName, commitIf, body, gateId) =>
+  `name: D\njobs:\n  a:\n    steps:\n      - name: gate\n${gateId}        continue-on-error: true\n        run: |\n${GATE_RUN}\n      - name: ${commitName}\n${commitIf}        run: |\n${body}\n${TELEGRAM}\n`;
+
+t('게이트 뒤 배치 커밋에 조건이 없으면 잡는다', () => {
+  const r = audit({ 'x.yml': wf('Commit new events', '', BATCH, '') });
+  return fired(r) ? null : `게이트가 죽어도 커밋하는 워크플로를 통과시켰다: ${r.out}`;
+});
+
+t('게이트 결과를 확인하는 배치 커밋은 통과한다 (역방향)', () => {
+  const r = audit({ 'x.yml': wf('Commit new events', "        if: steps.gate.outcome == 'success'\n", BATCH, '        id: gate\n') });
+  return fired(r) ? `제대로 게이트된 워크플로를 잡았다: ${r.out}` : null;
+});
+
+t('🛑 수리 커밋은 잡지 않는다 — 잘못된 사진 제거는 게이트와 무관하다', () => {
+  const r = audit({ 'x.yml': wf('Push what the photo strip changed', '        if: always()\n', REPAIR, '        id: gate\n') });
+  return fired(r) ? `수리 커밋까지 막았다 — 사진 수리가 밀린다: ${r.out}` : null;
+});
+
+
 for (const [name, fn] of cases) {
   let err;
   try { err = fn(); } catch (e) { err = `threw: ${e.message}`; }

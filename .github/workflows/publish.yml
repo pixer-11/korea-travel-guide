@@ -714,8 +714,15 @@ jobs:
       - name: Push what the photo strip changed
         if: always()
         run: |
-          if ! git diff --quiet -- src/content/posts src/content/i18n; then
-            git add src/content/posts src/content/i18n
+          # data/visual-audit.json belongs here too. The strip does two things:
+          # it takes the wrong photo off the post AND records why, so the next
+          # refill will not choose that file again. Only the first was staged,
+          # and the one commit that DOES stage this store runs above this step —
+          # so the rejection died on the runner every night while the removal
+          # survived. That is the bounce: photo off at 10:40, same photo back at
+          # 22:15 (2026-09-08, found by hand 2026-09-09).
+          if ! git diff --quiet -- src/content/posts src/content/i18n data/visual-audit.json; then
+            git add src/content/posts src/content/i18n data/visual-audit.json
             git commit -m "fix: strip wrong-place heroes (photo identity audit, $(date -u +%Y-%m-%d))"
             bash scripts/git-push-retry.sh
           fi

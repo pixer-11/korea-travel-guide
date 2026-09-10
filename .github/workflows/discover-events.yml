@@ -46,6 +46,7 @@ jobs:
       # defect the gate quarantines. Every path that commits posts needs the
       # gate, or the gate is a fence with one panel missing.
       - name: Hold back defective posts (publish gate)
+        id: gate
         continue-on-error: true
         run: |
           set -o pipefail
@@ -65,7 +66,17 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
 
+      # Only when the gate itself ran to completion — the same condition
+      # publish.yml has carried since 2026-09-02 and this workflow never got.
+      # continue-on-error above keeps a HELD post from failing the run (the gate
+      # exits 0 for holds), so a non-success outcome here means one thing:
+      # GATE-CHECKER-CRASHED, nothing was checked. Committing then is committing
+      # an unchecked batch, which is exactly what the comment above the gate
+      # calls "a fence with one panel missing". Event guides are this site's
+      # highest-yield page type, so this is the last path that should ship
+      # unchecked.
       - name: Commit new events
+        if: steps.gate.outcome == 'success'
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
