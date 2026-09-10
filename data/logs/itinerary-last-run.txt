@@ -3,9 +3,7 @@ Seoul, South Korea — 18 qualifying post(s), variants: 3
   = Seoul 3d — unchanged, skipping
 
 Tokyo, Japan — 13 qualifying post(s), variants: 3
-  ~ Tokyo 3d — structure changed by 4 slug(s), regenerating prose
-  ⚠ Tokyo 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-  ✅ Tokyo 3d — updated
+  = Tokyo 3d — unchanged, skipping
 
 Bangkok, Thailand — 20 qualifying post(s), variants: 3
   = Bangkok 3d — unchanged, skipping
@@ -16,7 +14,7 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 68 qualifying post(s), variants: 3, 5
+Hong Kong, Hong Kong — 69 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
 
@@ -33,14 +31,13 @@ New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
 Siem Reap, Cambodia — 15 qualifying post(s), variants: 3
-  ~ Siem Reap 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Siem Reap 3d — updated
+  = Siem Reap 3d — unchanged, skipping
 
 Singapore, Singapore — 63 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
