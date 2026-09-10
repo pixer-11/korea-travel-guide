@@ -49,6 +49,7 @@ place:
       - 15
       - 16
     venueId: ven_73634135596e4663653757526b54473839614b345061374a496843
+  phone: '+91 99144 04090'
 tags:
   - amritsar
   - top attraction

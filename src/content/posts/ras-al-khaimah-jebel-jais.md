@@ -28,6 +28,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.9436748
   lng: 56.1424297
+  phone: '+971 4 815 7333'
 tags:
   - ras al khaimah
   - hidden gem
