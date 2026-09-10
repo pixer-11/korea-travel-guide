@@ -20,22 +20,33 @@
 //  era (publish is 5 posts/day and backfill is 0, so their old shares sat
 //  idle while refresh needed ~30 weeks per rotation):
 //
-//    publish        25   new content at 5/day uses ~10-15
-//    backfill       10   throttled to zero; keep a floor for stragglers
-//    refresh        50   closure detection + lastmod freshness on the pages
-//                        Google still crawls — the crisis-era priority
+//  REVISITED 2026-09-10, as that note asked, now that the verdict is in: the
+//  throttle was judged `backfired` and volume is back to 16 posts + 25 backfill
+//  per day. The throttle-era split had 41 posts/day competing for 25 Details
+//  while refresh held 50 — and backfill's own header warns that if posts arrive
+//  incomplete faster than the backfill absorbs them, "the gap grows every day
+//  and never closes". The missing field is openingHours, which is what the
+//  /tools/whats-closed page and the itinerary closed-day warnings read: the
+//  tool pages that earn ~3.5x a post.
+//
+//    publish        40   16 new posts + the fill run, ~1 Details each
+//    backfill       25   drains the incomplete queue instead of watching it grow
+//    refresh        20   closure detection still runs daily; the rotation is
+//                        slower, and closure ALSO has a free signal now — the
+//                        photo patrol no longer republishes a non-OPERATIONAL
+//                        venue (2026-09-10)
 //    quality        15   address/photo cleanup, the most deferrable
 //
-//  Revisit this split with the 2026-09-10 throttle verdict (see
-//  data/publish-throttle.json howToDecide). Nothing here talks to Google — it
-//  records intent, and the existing 429 guards remain the real backstop.
+//  This is the split backfill.yml documented as the pre-throttle intent.
+//  Nothing here talks to Google — it records intent, and the existing 429
+//  guards remain the real backstop. Re-read at the 2026-10-07 volume check.
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
 const LEDGER = fileURLToPath(new URL('../../data/places-budget.json', import.meta.url));
 export const DAILY_CAP = Number(process.env.PLACES_DAILY_CAP || 100);
-export const SHARES = { publish: 25, backfill: 10, refresh: 50, quality: 15 };
+export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
 
 // ── Text Search — the SECOND pot (2026-08-23) ────────────────────────────
 // The Details ledger above assumed Text Search was "75k/day, effectively

@@ -91,7 +91,14 @@ async function searchJson(prompt) {
 const discoverEvents = (country) =>
   searchJson(
     `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~8 weeks that would draw international visitors: ` +
-    `big concerts or tours by globally famous artists, major sports events (World Cup, Olympics, Grand Prix, major finals), large festivals, or major special exhibitions. ` +
+    // Famous-only was the wrong filter, and the file already knew it: the CTR
+    // note above records events at position 24 with 1.15% CTR against generic
+    // attractions at 58 with 0.06%, and trendy converting at 19% against a
+    // famous landmark's 1.3% — because a small show is a query nobody else
+    // answers while the Olympics belong to every outlet on earth. The caps
+    // were raised on 2026-09-09; this string was still doing the filtering.
+    `concerts and tours (globally famous artists AND regional or touring acts), sports events (majors, and also national league finals, marathons and city races), festivals of any size including local and seasonal ones, and special exhibitions. ` +
+    `Small and regional events count and are often the better answer — prefer one with a confirmed date and city over a famous one without. ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
     // The Bangkok F4 lesson (2026-08-07): the official branding was "F✦FOREVER
     // 1st World Tour" but every live search query said "f4 concert bangkok" —

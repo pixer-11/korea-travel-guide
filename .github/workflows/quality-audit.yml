@@ -102,7 +102,16 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts public/venue-photos public/wall data/wall.json data/places-budget.json
+          # data/quality-audit-skip.json is the "tried this venue, Google has
+          # nothing, rest 30 days" ledger, added after four zero-fix days in
+          # August. It was never staged, so it died with the runner every night
+          # and the job re-asked the same unanswerable venues forever: 30
+          # consecutive commits reading "0 addresses + 0 images", spending this
+          # job's entire 15% share of the daily Places Details budget for
+          # nothing. Same class as data/visual-audit.json (fixed 09-09) and
+          # og-width-probes (09-10) — a tool that remembers nothing repeats
+          # itself.
+          git add src/content/posts public/venue-photos public/wall data/wall.json data/places-budget.json data/quality-audit-skip.json
           if git diff --staged --quiet; then
             echo "committed=0" >> "$GITHUB_OUTPUT"
             echo "No quality fixes this run (all clean, or quota not ready)."

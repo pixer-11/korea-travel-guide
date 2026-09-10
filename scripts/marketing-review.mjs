@@ -80,7 +80,7 @@ async function main() {
       social: 'Instagram @wander_atlas_guides + Threads LIVE since 2026-08-27 — Threads daily, Instagram carousels Mon/Wed/Fri, all automated',
       seo: 'sitemap/hreflang/schema/llms.txt done; GSC weekly report live. THE bottleneck is backlinks — domain authority is the reason good pages sit on page 8',
     },
-    constraints: 'INDEXATION FROZEN since 2026-07-25 — Google is accepting no new pages, so publishing is throttled to ~25/day (was 330) and new posts are not a growth lever right now; accuracy-first: real photos only (vision-gated); non-technical solo owner, minimal manual work preferred. Do NOT propose work already listed as LIVE above.',
+    constraints: 'THE constraint is authority, measured: 2 referring domains, one of them nofollow, and Googlebot fetches ~81 pages/day from a site offering ~12,000 URLs. A 13-day experiment cutting publishing to 5/day was judged BACKFIRED on 2026-09-10 (crawl requests halved again, discovered-not-indexed grew 5,036 to 6,544) and volume was restored to 16 posts + 25 backfill/day — so publishing rate is neither the problem nor the lever, and proposals to change it are answering a question already settled. Bing sends ~3x the clicks Google does, mostly Chinese, Japanese and Spanish queries. What performs: tool pages (~3.5x the traffic per page of a post), event guides, and obscure venues; famous landmarks lose on both engines. Accuracy-first: real photos only, vision-gated. Non-technical solo owner, minimal manual work preferred. Do NOT propose work already listed as LIVE above.',
   };
 
   // max_tokens has to clear the REASONING as well as the answer. sonnet-5

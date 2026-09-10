@@ -661,7 +661,17 @@ for (const f of files) {
     // reason recorded so no other path has to work it out again.
     const twinLive = wasDraft && data.category === 'event' && liveEvents.alreadyLive(data);
     if (twinLive) data.heldReason = 'duplicate';
-    if (wasDraft && !heldByGate && !twinLive) {
+    // The refresh drafts a post whose venue stopped being OPERATIONAL, and it
+    // writes no heldReason — so to the test above a closed shop looked exactly
+    // like a photo quarantine, and a new hero republished it. That is how the
+    // Former House of Tan Teng Niah went back up on 2026-09-09 carrying
+    // CLOSED_TEMPORARILY, on a site whose methodology page promises "we would
+    // rather have one fewer page than send you to a locked door". A better
+    // photo is not evidence the doors reopened; only the refresh can say that.
+    const closed = wasDraft && !!data.place?.businessStatus
+      && data.place.businessStatus !== 'OPERATIONAL';
+    if (closed) data.heldReason = data.heldReason || 'closed';
+    if (wasDraft && !heldByGate && !twinLive && !closed) {
       delete data.draft;
       // A photo-class hold (wrong-venue-photo etc.) IS lifted by a verified
       // new hero — clear its marker too, or it lingers as a false alarm.

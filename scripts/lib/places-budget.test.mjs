@@ -29,6 +29,12 @@ function inSandbox(script) {
   } finally { rmSync(dir, { recursive: true, force: true }); }
 }
 
+// 기대값을 숫자로 못 박으면 배분을 조정할 때마다 테스트가 깨진다 — 그건 결함이
+// 아니라 조정이다. 2026-09-10 스로틀 판정으로 25/10/50/15 → 40/25/20/15 로 바뀌면서
+// 세 건이 깨졌다. 검사할 것은 숫자가 아니라 **불변식**이다: 각 작업은 자기 몫으로
+// 시작하고, 몫은 정적이며, 검색 주머니는 따로 센다.
+const { SHARES, SEARCH_SHARES } = await import('./places-budget.mjs');
+
 const cases = [];
 const t = (name, script, expect) => cases.push([name, script, expect]);
 
@@ -36,14 +42,14 @@ t('각 작업은 자기 몫으로 시작한다', `
 import { claim } from './scripts/lib/places-budget.mjs';
 const p = await claim('publish'), r = await claim('refresh');
 console.log(p.allowance + ',' + r.allowance);
-`, '25,50');
+`, `${SHARES.publish},${SHARES.refresh}`);
 
 t('몫은 정적이다 — 앞 작업이 아껴도 남의 몫이 늘지 않는다 (이월은 미구현, 2026-08-28 재배분으로 대응)', `
 import { claim, record } from './scripts/lib/places-budget.mjs';
 await record('publish', 5);            // 25 중 5만 사용
 const r = await claim('refresh');       // 자기 몫 50, 남은 총량 95 → 50
 console.log(r.allowance + ',' + r.spentToday);
-`, '50,5');
+`, `${SHARES.refresh},5`);
 
 t('하루 총량이 바닥나면 0을 준다', `
 import { claim, record } from './scripts/lib/places-budget.mjs';
@@ -72,7 +78,7 @@ await record('publish', 20);            // Details 20 사용
 const s = await claimSearch('publish'); // 검색은 아직 0 사용 → 자기 몫 55
 const d = await claim('publish');       // Details 몫 25-20 = 5
 console.log(s.allowance + ',' + s.spentToday + ',' + d.allowance);
-`, '55,0,5');
+`, `${SEARCH_SHARES.publish},0,${SHARES.publish - 20}`);
 
 t('발행이 검색 몫을 다 써도 대량발행 몫은 남는다', `
 import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
