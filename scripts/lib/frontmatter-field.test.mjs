@@ -34,3 +34,24 @@ test('inserts when absent and keeps CRLF files CRLF', () => {
 test('refuses files without frontmatter', () => {
   assert.throws(() => setFrontmatterField('no frontmatter here', 'title', 'x'), /no frontmatter/);
 });
+
+// 2026-09-10: `setFrontmatterField(raw, 'draft', true)` wrote `draft: 'true'` —
+// the STRING "true" — and the content schema rejected it, so the whole build
+// died with InvalidContentEntryDataError on a post nobody had touched by hand.
+// Quoting is right for strings (it is what keeps a 12-hex srcHash from being
+// read as a float); it is wrong for the two types YAML writes bare.
+test('불리언은 따옴표 없이 쓴다 — 스키마가 문자열 "true"를 거부한다', () => {
+  const out = setFrontmatterField('---\ntitle: x\ndraft: false\n---\nbody\n', 'draft', true);
+  assert.match(out, /^draft: true$/m);
+  assert.doesNotMatch(out, /draft: 'true'/);
+});
+
+test('숫자도 따옴표 없이 쓴다', () => {
+  const out = setFrontmatterField('---\ntitle: x\n---\nbody\n', 'rank', 7);
+  assert.match(out, /^rank: 7$/m);
+});
+
+test('🛑 문자열은 그대로 따옴표를 유지한다 — srcHash 가 지수표기로 읽히면 안 된다', () => {
+  const out = setFrontmatterField('---\ntitle: x\n---\nbody\n', 'srcHash', '818631094e44');
+  assert.match(out, /^srcHash: '818631094e44'$/m);
+});

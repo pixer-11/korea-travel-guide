@@ -19,7 +19,16 @@ export function setFrontmatterField(src, key, value) {
   if (lines[0] !== '---') throw new Error('no frontmatter');
   const end = lines.indexOf('---', 1);
   if (end < 0) throw new Error('unterminated frontmatter');
-  const line = `${key}: ${yamlQuote(value)}`;
+  // A boolean or a number is a YAML scalar, not a string, and quoting it
+  // changes the type: `draft: 'true'` is the string "true", which fails the
+  // content schema and takes the whole build down with
+  // InvalidContentEntryDataError. That is exactly what happened on 2026-09-10
+  // when a caller passed `true` here to re-draft a closed venue. Quoting stays
+  // the default — it is what protects a 12-hex srcHash from being read as
+  // scientific notation — but the two types YAML can express without quotes
+  // are now written without them.
+  const scalar = typeof value === 'boolean' || typeof value === 'number';
+  const line = `${key}: ${scalar ? String(value) : yamlQuote(value)}`;
   const re = new RegExp(`^${key}:(\\s|$)`);
   for (let i = 1; i < end; i++) {
     if (!re.test(lines[i])) continue;
