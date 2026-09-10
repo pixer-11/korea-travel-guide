@@ -77,6 +77,26 @@ function verifiedBlock(post) {
   if (Array.isArray(pl.openingHours) && pl.openingHours.length) lines.push(`opening hours: ${pl.openingHours.join('; ')}`);
   if (pl.priceLevel != null) lines.push(`price level (0-4): ${pl.priceLevel}`);
   if (pl.rating != null) lines.push(`rating: ${pl.rating} (${pl.userRatingsTotal ?? '?'} reviews)`);
+  // The crowd hours belong here too. writer.mjs is told these are "real measured
+  // foot-traffic; nobody else publishes it, so it is our most valuable, most
+  // quotable fact" — and then the auditor, which never saw them, called every
+  // sentence quoting one "invented-specifics" and repair-prose hedged it away.
+  // Measured on the 2026-09-05 run: 194 of 226 findings were invented-specifics,
+  // 63 of those quoted a clock time, and 57 of those 63 sat on a post carrying
+  // this very block. We were paying a model to delete our own differentiator.
+  // Same loop closed for hours and price on 2026-08-20 (026ff0a9a); busyness was
+  // left out of that fix.
+  const bz = pl.busyness;
+  if (bz) {
+    const hrs = (xs) => (Array.isArray(xs) && xs.length ? xs.map((h) => `${h % 12 || 12}${h < 12 ? 'am' : 'pm'}`).join(', ') : null);
+    const parts = [
+      ['quiet on weekdays at', hrs(bz.weekdayQuiet)],
+      ['busy on weekdays at', hrs(bz.weekdayBusy)],
+      ['quiet at weekends at', hrs(bz.weekendQuiet)],
+      ['busy at weekends at', hrs(bz.weekendBusy)],
+    ].filter(([, v]) => v);
+    if (parts.length) lines.push(`measured crowd hours: ${parts.map(([k, v]) => `${k} ${v}`).join('; ')}`);
+  }
   if (!lines.length) return '';
   return `VERIFIED DATA (live venue record — statements agreeing with this are facts, never "invented"):\n${lines.join('\n')}\n\n`;
 }

@@ -106,13 +106,32 @@ for (const row of rows) {
   // facts and re-queues four translations per post (222 of 241 on 08-15).
   // Deterministic: every clock token in the quote must appear in openingHours.
   const hoursStr = Array.isArray(fm.place?.openingHours) ? fm.place.openingHours.join(' ').toLowerCase() : '';
-  if (hoursStr) {
+  // The crowd hours are verified data too, and were not in this filter: 57 of the
+  // 63 clock-quoting findings on the 2026-09-05 run sat on a post carrying a
+  // busyness block, and every one of them reached the repair model — which then
+  // hedged away the one fact nobody else publishes. Same exemption, same shape.
+  const bz = fm.place?.busyness;
+  // An hour in this data means the hour it STARTS: busy at 22 covers 22:00-23:00,
+  // so "busy until 11pm" is the correct way to say it and "until 10pm" would be
+  // wrong. Both the hour and its end are therefore verified. Measured on the
+  // 2026-09-05 run: 19 of the 57 clock-quoting findings on posts with this data
+  // matched the start hours alone; all 57 match once the end boundary counts.
+  // Without it we would keep paying a model to hedge sentences that are right.
+  const fmtHr = (h) => `${h % 12 || 12}${h < 12 ? 'am' : 'pm'}`;
+  const crowdHours = bz
+    ? [bz.weekdayQuiet, bz.weekdayBusy, bz.weekendQuiet, bz.weekendBusy].filter(Array.isArray).flat()
+    : [];
+  const crowdStr = crowdHours.length
+    ? [...crowdHours.map(fmtHr), ...crowdHours.map((h) => fmtHr((h + 1) % 24))].join(' ')
+    : '';
+  const verifiedStr = `${hoursStr} ${crowdStr}`.trim();
+  if (verifiedStr) {
     live = live.filter((f) => {
       if (f.type !== 'invented-specifics') return true;
       const clocks = String(f.quote).toLowerCase().match(/\d{1,2}(?::\d{2})?\s*(?:am|pm)/g) || [];
       if (!clocks.length) return true;
-      const verified = clocks.every((c) => hoursStr.includes(c.replace(/\s+/g, ' ').trim()) || hoursStr.includes(c.replace(/\s*(am|pm)/, ' $1')));
-      if (verified) console.log(`   ✓ verified-hours, not repaired: « ${String(f.quote).slice(0, 70)} »`);
+      const verified = clocks.every((c) => verifiedStr.includes(c.replace(/\s+/g, ' ').trim()) || verifiedStr.includes(c.replace(/\s*(am|pm)/, ' $1')) || verifiedStr.includes(c.replace(/\s+/g, '')));
+      if (verified) console.log(`   ✓ verified against the venue record (hours or measured crowd), not repaired: « ${String(f.quote).slice(0, 70)} »`);
       return !verified;
     });
   }
