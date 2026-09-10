@@ -47,7 +47,10 @@ const EXEMPT = new Map([
 const only = (process.argv.find((a) => a.startsWith('--only=')) || '').slice(7);
 
 const checkers = readdirSync(SCRIPTS)
-  .filter((f) => /^(audit|check|lint)-.*\.mjs$/.test(f) && !f.includes('.test.'))
+  // visual-audit.mjs judges heroes but does not carry the audit-/check-/lint-
+  // prefix, so this contract never asked it whether it refuses to pass blind.
+  // Named explicitly rather than renamed: five workflows call it by path.
+  .filter((f) => (/^(audit|check|lint)-.*\.mjs$/.test(f) || f === 'visual-audit.mjs') && !f.includes('.test.'))
   .map((f) => f.replace(/\.mjs$/, ''))
   .filter((n) => n !== 'audit-checkers')
   .filter((n) => !only || n === only);

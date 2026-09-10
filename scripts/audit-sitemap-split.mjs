@@ -21,6 +21,7 @@
 //   node scripts/audit-sitemap-split.mjs [--dist dist]
 import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { requireExamined } from './lib/examined.mjs';
 
 const DIST = process.argv.includes('--dist') ? process.argv[process.argv.indexOf('--dist') + 1] : 'dist';
 
@@ -95,6 +96,10 @@ if (!failed) {
   const rows = [...byType.entries()].sort((a, b) => b[1] - a[1]);
   for (const [c, n] of rows.slice(0, 8)) console.log(`   ${c.padEnd(30)} ${n}`);
   if (rows.length > 8) console.log(`   … and ${rows.length - 8} more`);
+  // An index that names children but yields zero URLs is a build that produced
+  // nothing, not a split that lost nothing. It read "0 URL(s) - none lost" and
+  // exited 0. (Codex pass on the checkers, 2026-09-10.)
+  requireExamined(after.size, 'sitemap URL(s)', `${children.length} child sitemap(s) were named - did the build produce them?`);
   console.log(`\n✓ ${after.size} URL(s) split across ${children.length} sitemaps — none lost, none duplicated`);
 }
 

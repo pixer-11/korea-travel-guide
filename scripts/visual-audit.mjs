@@ -14,6 +14,7 @@
 //   node scripts/visual-audit.mjs --slugs a,b,c   # audit specific posts (ignores done-log)
 //   node scripts/visual-audit.mjs --all           # re-audit everything (ignore done-log)
 import './lib/env.mjs';
+import { requireExamined } from './lib/examined.mjs';
 import { auditHeroImage } from './lib/vision-check.mjs';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, loadWorld } from './lib/commons-identity.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
@@ -156,6 +157,16 @@ for (const f of files) {
 
 await writeFile(STORE, JSON.stringify(store, null, 1) + '\n');
 console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · ${weak} weak · ${vetoed} vision-vetoed · ${failed} failed.`);
+
+// A night where every judgement came back UNKNOWN is a night nobody judged
+// anything, and this printed "0 MISMATCH" and exited 0 for it. UNKNOWN means
+// the image or the API could not be read — a fact about the network, never a
+// verdict on the photo. The Telegram summary only fires on mismatch > 0, so a
+// dead vision API was completely silent. (Codex pass on the checkers, 2026-09-10.)
+//
+// requireExamined is the repo's one place for this sentence, and naming this
+// file in audit-checkers immediately said it was missing here.
+requireExamined(checked, 'hero(es) judged', failed ? `${failed} could not be read — vision or the images were unreachable` : 'nothing was queued');
 if (flagged.length) { console.log('\nMISMATCHES:'); console.log(flagged.join('\n')); }
 
 // Telegram summary (Korean) when configured and something is off.

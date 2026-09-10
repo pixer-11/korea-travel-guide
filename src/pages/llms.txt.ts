@@ -54,7 +54,7 @@ export const GET: APIRoute = async ({ site }) => {
 
 > ${SITE.name} (${base}) is an editor-reviewed, AI-assisted travel guide to destinations worldwide. Every guide opens with an answer-first summary, then gives verified facts sourced from live Google Places (ratings, addresses, price level), practical "how to get there" and "what to eat" details, and a FAQ. Coverage spans ${live.length} countries — ${coverage} — with more added continuously.
 
-Facts such as ratings, addresses and hours come from live Google Places data and can change — verify before visiting. Images are licensed or public domain. Guides are produced with AI assistance and reviewed against official sources by the ${SITE.name} editorial team. Guides are available in English, Korean, Japanese, Spanish and Chinese.
+Facts such as ratings, addresses and hours come from live Google Places data and can change — verify before visiting. Images are licensed or public domain. Guides are produced with AI assistance and reviewed against official sources by Pixer, the site's editor. Guides are available in English, Korean, Japanese, Spanish and Chinese.
 
 ## Destinations
 - [All destinations](${base}/destinations): Browse every country and continent we cover
@@ -86,7 +86,7 @@ ${itinLines.join('\n')}
 
 ## About
 - [Editorial policy](${base}/about): How our guides are made and reviewed
-- [Contact](${base}/contact): Reach the editorial team
+- [Contact](${base}/contact): Reach the editor
 - [Sitemap](${base}/sitemap-index.xml): Full list of indexable pages
 `;
 

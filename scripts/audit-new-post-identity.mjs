@@ -132,4 +132,17 @@ if (findings.length) {
   console.log(`\n❌ ${findings.length} identity/fitness finding(s) across ${posts.length} post(s)`);
   process.exit(1);
 }
+// Being HANDED a list and reading none of it is not a clean bill of health. The
+// empty-repo contract in audit-checkers catches "the repo has nothing"; it does
+// not catch "the caller named posts that could not be read", and publish.yml
+// calls this with --slugs=<this run's new posts>. A typo, a renamed file or a
+// frontmatter parse error would have produced "0 post(s) — clean", exit 0, and
+// a batch that nobody checked. (Found by a Codex pass on the checkers, 2026-09-10.)
+if (slugsArg && !posts.length) {
+  console.log(`
+❌ NOTHING-EXAMINED: ${files.length} slug(s) were named and none could be read as a published post.`);
+  console.log('   Named: ' + files.map((f) => f.replace(/\.md$/, '')).join(', '));
+  console.log('   Treat this run as unchecked, not as clean.');
+  process.exit(1);
+}
 console.log(`✓ ${posts.length} post(s) — identity and fitness clean`);
