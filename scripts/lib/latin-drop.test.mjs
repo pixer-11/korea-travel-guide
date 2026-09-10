@@ -46,3 +46,8 @@ test('🛑 스페인어는 아예 대상이 아니다 — 라틴 문자 언어�
 test('🛑 멀쩡한 번역은 조용하다', () => {
   assert.equal(drops('浅草寺:東京旅行ガイド', 'ja'), false);
 });
+
+test('🛑 도메인 안의 영어는 잡지 않는다 — recreation.gov 는 그 사이트의 이름이다', () => {
+  assert.equal(drops('旺季也可通过recreation.gov提前预约', 'zh'), false);
+  assert.equal(drops('予約は booking.com から', 'ja'), false);
+});
