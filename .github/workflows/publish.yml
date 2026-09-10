@@ -196,7 +196,16 @@ jobs:
             S=$(grep -o 'TRANSLATE_SUMMARY .*' /tmp/translate.log | tail -1)
             F=$(echo "$S" | grep -o 'failed=[0-9]*' | grep -o '[0-9]*' || echo '?')
             J=$(echo "$S" | grep -o 'jobs=[0-9]*' | grep -o '[0-9]*' || echo '?')
-            echo "글 번역 (${F}/${J}건 실패)" >> /tmp/soft-fail.txt
+            # 게이트 거부는 장애가 아니다. 번역기가 세 번 물었고, 모델이 끝난 행사를
+            # 계속 예정으로 쓰거나 CJK 자리에 영어를 넣었고, 가드가 일부러 옛 번역을
+            # 지켰다. 이걸 "번역 실패"로 세면 알림이 과장되고, 과장된 알림은 무시된다
+            # — 이 스텝이 2026-08-06 에 이미 배운 것이 한 겹 더 깊은 자리에서 반복됐다.
+            R=$(grep -c "after 3 attempts" /tmp/translate.log || true)
+            if [ "$F" = "$R" ] && [ "$R" != "0" ]; then
+              echo "게이트 거부 ${R}건 (글 번역 — 옛 번역 유지)" >> /tmp/soft-fail.txt
+            else
+              echo "글 번역 (${F}/${J}건 실패, 그중 게이트 거부 ${R}건)" >> /tmp/soft-fail.txt
+            fi
           }
 
       # The two sibling translators of translate-posts — the 5 essentials topic
@@ -1147,7 +1156,13 @@ jobs:
               WHEN=$(grep -ho "regain access on [0-9-]* at [0-9:]* UTC" /tmp/translate.log /tmp/gen.log 2>/dev/null | head -1)
               WHY=$(printf '\n\n원인 확인: Anthropic API 사용 한도(월 상한)에 도달했습니다. 키 만료가 아니라 한도이며, 한도가 풀리면(%s) 다음 실행이 자동으로 채웁니다. 더 빨리 재개하려면 Anthropic 콘솔에서 상한을 올려 주세요.' "${WHEN:-콘솔의 리셋 시각}")
             fi
+            # 모든 줄이 게이트 거부면 고장이 아니라 가드가 일한 것이다. 같은 문장으로
+            # 알리면 픽서님이 매일 밤 "실패" 를 읽게 되고, 진짜 실패도 같이 묻힌다.
+            if ! grep -qv "^게이트 거부" /tmp/soft-fail.txt; then
+              TXT=$(printf '🛡️ 번역 게이트가 오늘 막았습니다\n%s\n\n모델이 세 번 다 틀리게 써서 이전 번역을 그대로 뒀습니다. 사이트는 정상이고 조치할 것은 없습니다.' "$SOFT")
+            else
             TXT=$(printf '⚠️ 발행은 됐지만 일부 단계가 실패했습니다\n실패: %s\n\n번역·일정 등이 빠졌을 수 있습니다. 대개 API 일시 오류이고 다음 실행에서 채워지지만, 같은 단계가 이틀 연속이면 키 만료를 의심하세요.%s' "$SOFT" "$WHY")
+            fi
             curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
               --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
               --data-urlencode "text=$TXT" >/dev/null || true

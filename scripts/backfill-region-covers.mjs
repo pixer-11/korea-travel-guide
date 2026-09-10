@@ -28,6 +28,9 @@ const OK_LICENSE = /cc[\s-]by|cc0|\bpd\b|public domain/i;
 const TARGETS = {
   'Arlington': ['Arlington Virginia skyline', 'Arlington County Virginia'],
   'Bocaue': ['Bocaue Bulacan', 'Bocaue church Philippines'],
+  // 2026-09-10: 마스카라 축제 글 한 편이 이 도시의 전부이고 사진이 없어 타일이 검게 났다.
+  // 랜드마크 먼저, 도시명 마지막 — Gardena 교훈(일반 검색이 얼굴 클로즈업을 물어온다).
+  'Bacolod': ['San Sebastian Cathedral Bacolod', 'Bacolod City Government Center', 'Bacolod MassKara Festival', 'Bacolod City Negros Occidental'],
   'Chandigarh': ['Chandigarh Rock Garden', 'Chandigarh Capitol Complex'],
   'Downtown Dubai': ['Downtown Dubai skyline', 'Burj Khalifa Downtown Dubai', 'Dubai Fountain Downtown'],
   'East Rutherford': ['MetLife Stadium exterior', 'MetLife Stadium aerial view', 'East Rutherford New Jersey'],
