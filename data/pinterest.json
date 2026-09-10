@@ -15,7 +15,8 @@
     "Hong Kong": "1103100571170665420",
     "Taiwan": "1103100571170665422",
     "Malaysia": "1103100571170672144",
-    "Vietnam": "1103100571170690577"
+    "Vietnam": "1103100571170690577",
+    "Cambodia": "1103100571170746481"
   },
   "pinned": {
     "amalfi-coast-positano": "1103100502523648064",
@@ -167,7 +168,10 @@
     "tokyo-tokyo-national-museum": "1103100502526332527",
     "colmar-musee-unterlinden": "1103100502526332529",
     "milan-parco-sempione": "1103100502526332533",
-    "portland-omsi": "1103100502526332534"
+    "portland-omsi": "1103100502526332534",
+    "abu-dhabi-tamer-hosny-and-tamer-ashour-concert": "1103100502526377743",
+    "bangkok-the-weeknd-after-hours-til-dawn-tour": "1103100502526377745",
+    "dubai-nancy-ajram-live-in-dubai": "1103100502526377746"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
@@ -181,6 +185,7 @@
     "magnet:itinerary:hong-kong-3-days": "1103100502524651590",
     "magnet:itinerary:hong-kong-5-days": "1103100502524694593",
     "magnet:itinerary:los-angeles-3-days": "1103100502524889774",
-    "magnet:itinerary:new-orleans-3-days": "1103100502525602632"
+    "magnet:itinerary:new-orleans-3-days": "1103100502525602632",
+    "magnet:itinerary:siem-reap-3-days": "1103100502526377741"
   }
 }
