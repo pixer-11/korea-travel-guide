@@ -126,6 +126,12 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
 >
   <section class="page-hero">
     <div class="wrap">
+      {/* The trail was declared in BreadcrumbList and drawn nowhere. */}
+      <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
+        <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
+        <a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a> <span>/</span>
+        <span aria-current="page">{countryLabel}</span>
+      </nav>
       <p class="eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> {t('dest.eyebrow')}</p>
       <h1>{countryLabel}</h1>
       <p class="region-blurb">{blurb}</p>

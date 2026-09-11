@@ -1307,6 +1307,10 @@ html[lang^='zh'] .cover-inner h1 {
 .crumbs { font-size: 0.85rem; color: var(--muted); margin-bottom: 1rem; display: flex; gap: 0.4rem; flex-wrap: wrap; }
 .crumbs a:hover { color: var(--accent); }
 .crumbs span[aria-current] { color: var(--ink-soft); text-transform: capitalize; }
+/* The country and region hubs centre their hero; a left-aligned trail above a
+   centred title reads as a stray line. Post articles are left-aligned and are
+   not inside .page-hero, so they keep the default. */
+.page-hero .crumbs { justify-content: center; }
 
 /* Quick answer (answer-first block for readers + AI Overviews) */
 .quick-answer {

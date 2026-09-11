@@ -53,15 +53,19 @@ const klookHref = klookDest
         never see it. The script is injected only when the card approaches
         the viewport (observer in the script below), so the trackers never
         load for anyone who doesn't scroll here. */}
-    {src ? (
-      <div class="tp-widget-card" data-widget-src={src}></div>
-    ) : (
+    {/* The link is rendered by the SERVER in both cases, and the widget — when
+        there is one — mounts around it and then removes it. Until 2026-09-11
+        a widget city emitted `<h2>…</h2><div></div><p>live prices</p>`: a
+        heading and a disclaimer wrapped around nothing, for every crawler and
+        every reader with JS off. The block now always contains the thing it
+        claims to be about. */}
+    <div class="tp-widget-card" data-widget-src={src ?? undefined}>
       <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
         <span class="plan-ico"><Emoji name="admission-tickets" /></span>
         <span class="plan-txt"><strong>{t('widget.toursInCity').replace('{city}', cityLabel)}</strong><span>{t('widget.toursCtaDesc')}</span></span>
         <span class="plan-arw">→</span>
       </a>
-    )}
+    </div>
     <p class="tp-disclosure">{t('widget.livePrices')}</p>
   </section>
 )}
@@ -87,15 +91,18 @@ const klookHref = klookDest
     cards.forEach((el) => io.observe(el));
   })();
 
-  // Safety net: hide the block ONLY when the price widget rendered empty.
-  // With lazy-mount this must run per-card AFTER its script is injected —
-  // the old on-load sweep would have judged every not-yet-mounted card as
-  // "empty" and hidden the section before the visitor ever scrolled to it.
+  // Once the price widget has actually drawn something, the server-rendered
+  // link below it is a duplicate and goes. If it never draws, the link stays
+  // and the section still says something true — which is why the old
+  // "hide the whole section" branch is gone: there is no empty state left to
+  // hide, and hiding it threw away the affiliate link as well.
   function armEmptyCheck(card: HTMLElement) {
+    const fb = card.querySelector<HTMLElement>('.tours-cta');
     setTimeout(() => {
-      if (!(card.querySelector('iframe') || card.offsetHeight > 120)) {
-        (card.closest('.tp-tours') as HTMLElement | null)?.style.setProperty('display', 'none');
-      }
+      const drew = [...card.children].some(
+        (n) => n !== fb && n.tagName !== 'SCRIPT' && (n as HTMLElement).offsetHeight > 40,
+      );
+      if (drew) fb?.remove();
     }, 3500);
   }
 </script>

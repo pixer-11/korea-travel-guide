@@ -769,6 +769,13 @@ jobs:
           # here means that path failed — not that a shop shut. It spends no quota:
           # it reads the businessStatus refresh already paid for.
           node scripts/audit-closed-venues.mjs
+          # A post's URL must name the place the post is about. The slug is built
+          # from the city we SEARCHED and `region` from the address Google
+          # answered with, so searching "Boryeong attractions" and getting a
+          # museum in Yongsan published /posts/boryeong-national-museum-of-korea/
+          # (2026-09-10 diagnosis). The 41 that already shipped are a baseline in
+          # data/slug-region-legacy.json — their URLs are live and stay live.
+          node scripts/audit-slug-region.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
@@ -788,7 +795,8 @@ jobs:
           HELD=$(node scripts/ko-report.mjs scripts/audit-held-but-published.mjs 2>&1 | head -6 || true)
           TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | head -8 || true)
           CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | head -6 || true)
-          for extra in "$HELD" "$TENSE" "$CLOSED"; do
+          SLUG=$(node scripts/ko-report.mjs scripts/audit-slug-region.mjs 2>&1 | head -6 || true)
+          for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG"; do
             case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
           done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
