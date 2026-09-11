@@ -28453,5 +28453,82 @@
   "registerBreak": false,
   "worst": "中央市场至今没有被那种改变了金边其他景点面貌的大众旅游潮吞没",
   "at": "2026-09-10T13:54:18.481Z"
+ },
+ "es/bhubaneswar-lingaraj-temple": {
+  "hash": "0f5c71a152f1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El horario de apertura es de 6:30 a 19:30 todos los días de la semana, sin excepciones temp",
+  "at": "2026-09-11T07:56:35.515Z"
+ },
+ "es/boston-museum-of-fine-arts-boston": {
+  "hash": "8010d5e46a8b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "para ver la colección completa, medio día resulta suficiente y se llena con facilidad.",
+  "at": "2026-09-11T07:56:39.185Z"
+ },
+ "ja/austin-lady-bird-johnson-wildflower-center": {
+  "hash": "f9bd87b40efd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "平日は午前9時から午後4時までずっと落ち着いているので、スケジュールが許すなら平日を選ぶほうが楽です。",
+  "at": "2026-09-11T07:56:40.881Z"
+ },
+ "ja/bhubaneswar-lingaraj-temple": {
+  "hash": "5f9d8df98f4c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "しかも、ガラスケースの向こうに飾られた遺跡ではなく、今も信仰の場として機能し続けている点が特徴です。",
+  "at": "2026-09-11T07:56:42.930Z"
+ },
+ "ja/boston-museum-of-fine-arts-boston": {
+  "hash": "f59ca175d2dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "駐車場は台数が限られている上、週末はタクシーや配車サービスより割高になるため、車で行きたい場合は...",
+  "at": "2026-09-11T07:56:46.511Z"
+ },
+ "ko/austin-lady-bird-johnson-wildflower-center": {
+  "hash": "65a30c4d7530",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "단순히 꽃을 감상하는 곳이 아니라, 설계가 어떻게 작동하는지 눈여겨보길 바라는 곳입니다.",
+  "at": "2026-09-11T07:58:21.000Z"
+ },
+ "ko/bhubaneswar-lingaraj-temple": {
+  "hash": "020dfcecdcc8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 임시방편이나 차선책이 아니라, 외부 방문객 대다수가 이 사원을 경험하는 정식 방식입니다.",
+  "at": "2026-09-11T07:57:08.692Z"
+ },
+ "ko/boston-museum-of-fine-arts-boston": {
+  "hash": "6e26cfca688c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "두세 개 전시관을 집중적으로 보려면 2~3시간을 잡으시면 되고, 전체를 다 둘러보려면 반나절 정도는 충분히 채워집니다.",
+  "at": "2026-09-11T07:57:13.060Z"
+ },
+ "zh/austin-lady-bird-johnson-wildflower-center": {
+  "hash": "dad60f47252b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "礌品店卖的种子包，装的正是园区里实际种植的本土物种——比起大多数植物园卖的纪念品，这个更实用。",
+  "at": "2026-09-11T07:57:14.566Z"
+ },
+ "zh/bhubaneswar-lingaraj-temple": {
+  "hash": "87c27e4f4ebf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这并不是什么权宜之计或者退而求其次的安排，而是绝大多数外来访客体验这座神庙的正常方式",
+  "at": "2026-09-11T07:57:16.077Z"
+ },
+ "zh/boston-museum-of-fine-arts-boston": {
+  "hash": "f409b1779f52",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "美术博物馆是波士顿行程中人气极高的一站，绝非什么冷门秘境，所以规划行程时要提前考虑人流",
+  "at": "2026-09-11T07:57:17.613Z"
  }
 }

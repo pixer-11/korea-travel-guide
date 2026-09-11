@@ -6,8 +6,8 @@ title: 'Tokyo in 3 Days: Shrines, Digital Art, Markets, and Temples'
 description: A 3-day Tokyo itinerary moving through Shibuya and Shinjuku City, then Koto City and Minato City, then Minato City and Taito City, mixing shrines, gardens, digital art, markets, and temples.
 quickAnswer: 'This is a 3-day Tokyo itinerary: day one covers Shibuya and Shinjuku City with a shrine, a garden, and a famous crossing; day two moves from Koto City''s digital art museum to a market lunch and Minato City''s tower views; day three covers Minato City and Taito City with temples and a major museum in between.'
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: 4e5f828a35d9974b95c3f4fb59bce4737667d5c1
-packedAvailable: false
+stopsHash: 431a036e4169a857f4efc9592e8c27aa31739922
+packedAvailable: true
 faq:
   - q: How much walking is involved in this itinerary?
     a: Some stops are within walking distance of each other, like the shrine and garden on day one, while others, such as the museum-to-tower or market-to-tower connections, are listed as beyond walking distance and better covered by transit.
@@ -22,6 +22,47 @@ faq:
 itinerary:
   - label: Shrine forest to scramble crossing
     intro: Day one moves from Shibuya's shrine forest to Shinjuku City's garden grounds before returning to Shibuya for the neon rush of its famous crossing. It's a day that pairs quiet, green spaces with one of the city's most energetic urban scenes.
+    stops:
+      - slug: tokyo-teamlab-planets-tokyo-dmm
+        slot: morning
+        why: This barefoot, water-and-light digital art museum in Toyosu is a striking, immersive way to start the day with a fresh, hands-on experience.
+        dwellMin: 105
+        walkToNext:
+          km: 3.2
+          minutes: null
+          transit: true
+      - slug: tokyo-fish-market-tsukiji-outer-market
+        slot: lunch
+        why: The outer market's grid of stalls and small eateries serves fresh sashimi, grilled skewers, and tamagoyaki, making it a natural lunch stop full of variety.
+        dwellMin: 105
+        walkToNext:
+          km: 1.1
+          minutes: null
+          transit: true
+      - slug: tokyo-hamarikyu-gardens
+        slot: afternoon
+        why: A attraction rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 75
+        walkToNext:
+          km: 1.8
+          minutes: 24
+          transit: false
+      - slug: tokyo-zojo-ji
+        slot: afternoon
+        why: Zojo-ji's wooden Sanmon gate framed against Tokyo Tower makes this a striking, low-key morning temple visit.
+        dwellMin: 53
+        walkToNext:
+          km: 0.4
+          minutes: 5
+          transit: false
+      - slug: tokyo-tokyo-tower
+        slot: evening
+        why: Tokyo Tower's Eiffel-Tower-inspired silhouette and skyline views make it a fitting, scenic way to end the day.
+        dwellMin: 75
+        walkToNext: null
+    rainSwapSlug: tokyo-oxomoco
+  - label: Digital art, market bites, tower views
+    intro: Day two starts in Koto City with immersive digital art, then heads to the market stalls of the outer fish market for lunch, before finishing in Minato City with skyline views from Tokyo Tower. Expect a shift from quiet morning crowds to a lively, food-forward midday and a scenic wind-down.
     stops:
       - slug: tokyo-meiji-jingu
         slot: morning
@@ -45,40 +86,15 @@ itinerary:
         dwellMin: 30
         walkToNext: null
     rainSwapSlug: tokyo-fuglen-tokyo
-  - label: Digital art, market bites, tower views
-    intro: Day two starts in Koto City with immersive digital art, then heads to the market stalls of the outer fish market for lunch, before finishing in Minato City with skyline views from Tokyo Tower. Expect a shift from quiet morning crowds to a lively, food-forward midday and a scenic wind-down.
-    stops:
-      - slug: tokyo-teamlab-planets-tokyo-dmm
-        slot: morning
-        why: This barefoot, water-and-light digital art museum in Toyosu is a striking, immersive way to start the day with a fresh, hands-on experience.
-        dwellMin: 105
-        walkToNext:
-          km: 3.2
-          minutes: null
-          transit: true
-      - slug: tokyo-fish-market-tsukiji-outer-market
-        slot: lunch
-        why: The outer market's grid of stalls and small eateries serves fresh sashimi, grilled skewers, and tamagoyaki, making it a natural lunch stop full of variety.
-        dwellMin: 105
-        walkToNext:
-          km: 3
-          minutes: null
-          transit: true
-      - slug: tokyo-tokyo-tower
-        slot: evening
-        why: Tokyo Tower's Eiffel-Tower-inspired silhouette and skyline views make it a fitting, scenic way to end the day.
-        dwellMin: 75
-        walkToNext: null
-    rainSwapSlug: tokyo-oxomoco
   - label: Temples, treasures, and Asakusa lanes
     intro: Day three begins at Minato City's Zojo-ji temple, crosses to Taito City for the deep collections of the Tokyo National Museum, and ends among the gates and lanes of Sensō-ji in Asakusa. It's a day anchored in Tokyo's temple culture and museum-grade history.
     stops:
-      - slug: tokyo-zojo-ji
+      - slug: tokyo-senso-ji
         slot: morning
-        why: Zojo-ji's wooden Sanmon gate framed against Tokyo Tower makes this a striking, low-key morning temple visit.
-        dwellMin: 53
+        why: Sensō-ji, Tokyo's oldest temple, anchors the evening with its Nakamise-dōri approach, Five-Story Pagoda, and neighboring Asakusa Shrine.
+        dwellMin: 105
         walkToNext:
-          km: 9.5
+          km: 2.4
           minutes: null
           transit: true
       - slug: tokyo-tokyo-national-museum
@@ -86,17 +102,17 @@ itinerary:
         why: As a five-building complex holding Japan's largest collection of Japanese art and antiquities, this museum rewards a longer, unhurried afternoon.
         dwellMin: 150
         walkToNext:
-          km: 2.4
+          km: 7.2
           minutes: null
           transit: true
-      - slug: tokyo-senso-ji
+      - slug: tokyo-smith-wollensky
         slot: evening
-        why: Sensō-ji, Tokyo's oldest temple, anchors the evening with its Nakamise-dōri approach, Five-Story Pagoda, and neighboring Asakusa Shrine.
-        dwellMin: 105
+        why: A trendy rated 3.9 by visitors, included as a stop on this route.
+        dwellMin: 90
         walkToNext: null
     rainSwapSlug: tokyo-ise-sueyoshi
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-10T08:04:18.675Z'
+updatedDate: '2026-09-11T08:00:06.378Z'
 ---
 
