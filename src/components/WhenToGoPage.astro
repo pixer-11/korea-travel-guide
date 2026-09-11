@@ -8,7 +8,7 @@ import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/u
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
 import { holidayLabel } from '../i18n/holidays';
-import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
+import { MONTHS, monthSlug, monthComfort } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import { isIndexableMonthPage, monthPageSignals } from '../lib/thin-page-policy.mjs';
 
@@ -71,6 +71,14 @@ const jsonLd = {
       url: pageUrl,
       isPartOf: { '@id': `${site}/#site` },
     },
+    // The trail the page now draws on screen, declared as well — these month
+    // pages sat three levels down with no parent chain of any kind.
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: t('wtg.indexTitle'), item: siteHref(localizePath('/tools/when-to-go', lang), Astro.site) },
+      { '@type': 'ListItem', position: 3, name: fill('wtg.countryTitle', { country: countryLabel }), item: siteHref(localizePath(`/tools/when-to-go/${countrySlug}`, lang), Astro.site) },
+      { '@type': 'ListItem', position: 4, name: title, item: pageUrl },
+    ] },
   ],
 };
 // Share card: a hub about a place should unfurl as that place, not the
@@ -99,26 +107,62 @@ const ogPhoto = pickOgPhoto(data.topVenues);
 const { hasHolidays, hasEvents } = monthPageSignals(data);
 const monthNoindex = !isIndexableMonthPage({ hasHolidays, hasEvents });
 
+// The same relative ranking the index grid uses, so a reader arriving from
+// there sees this month in the colour it was wearing on the way in. Relative
+// within the country's own year, never an absolute comfort band — an absolute
+// one put Bangkok's dry season in the same bucket as its monsoon.
+const comfort = data.climate ? monthComfort(data.climate) : null;
+const byMonth = new Map((comfort ?? []).map((x: any) => [x.m, x]));
+const here: any = byMonth.get(data.month) ?? null;
+const BAND_KEY: Record<string, string> = {
+  good: 'wtg.idxGood', fine: 'wtg.idxFine', fair: 'wtg.idxFair', harsh: 'wtg.idxHarsh',
+};
+const bandLabel = here ? t(BAND_KEY[here.band] as any) : null;
+
+// "When to Go" without the trailing promise, for the crumb. Every language
+// writes the title as "<name><colon><promise>"; if one ever stops, the whole
+// title is still a correct crumb label.
+const indexShort = (t('wtg.indexTitle').split(/[:：]/)[0] || t('wtg.indexTitle')).trim();
+
+// "Washington D.C. Cherry Blossom Festival · Washington D.C." — the region
+// label is only worth its space when the event's own name has not already
+// said it. Checked against both the localized and the English spelling.
+const namesItsRegion = (label: string, region?: string | null) => {
+  if (!region) return true;
+  const l = String(label);
+  return l.includes(localizePlace(region, lang)) || l.includes(region);
+};
 ---
 
 <BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true} suppressPopup={true} noindex={monthNoindex}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtg">
-    <p class="eyebrow">{countryLabel} · {thisMonth}</p>
-    <h1>{title}</h1>
-    <p class="dek">{dek}</p>
+    <nav class="wtg-crumb" aria-label={indexShort}>
+      <a href={localizePath('/tools/when-to-go', lang)}>{indexShort}</a>
+      <span aria-hidden="true">·</span>
+      <a href={localizePath(`/tools/when-to-go/${countrySlug}`, lang)}>{countryLabel}</a>
+      <span aria-hidden="true">·</span>
+      <span class="crumb-here" aria-current="page">{thisMonth}</span>
+    </nav>
 
-    <section class="wtg-weather">
-      <h2>{fill('wtg.weather', { month: thisMonth })}</h2>
-      <div class="wtg-stats">
-        <div><span class="wtg-k">{t('wtg.high')}</span><span class="wtg-v">{data.hi}°C</span></div>
-        <div><span class="wtg-k">{t('wtg.low')}</span><span class="wtg-v">{data.lo}°C</span></div>
-        <div><span class="wtg-k">{t('wtg.rain')}</span><span class="wtg-v">{data.rain}mm</span></div>
+    {/* The answer first, in the page's own colour. Until 2026-09-11 this page
+        opened with a bare heading and three outlined boxes, and the reader had
+        to parse two sentences of ranking prose to learn whether the month was
+        any good. The band pill says it before anything else, using the same
+        four words and the same four colours as the index grid. */}
+    <header class="wtg-hero">
+      <div class="hero-say">
+        {bandLabel && <span class={`hero-band b-${here.band}`}>{bandLabel}</span>}
+        <h1>{title}</h1>
+        <p class="dek">{dek}</p>
       </div>
-      <p class="wtg-read">{heatLine} {rainLine}</p>
-      <WhenToGoEmailBox lang={lang} country={data.country} slug={countrySlug} />
-    </section>
+      <dl class="hero-stats" aria-label={fill('wtg.weather', { month: thisMonth })}>
+        <div><dt>{t('wtg.high')}</dt><dd>{data.hi}°C</dd></div>
+        <div><dt>{t('wtg.low')}</dt><dd>{data.lo}°C</dd></div>
+        <div><dt>{t('wtg.rain')}</dt><dd>{data.rain}mm</dd></div>
+      </dl>
+    </header>
 
     {/* The twelve-month table, the quiet-times list and the venue grid used to
         be rendered HERE, on every one of the twelve month pages. Measured over
@@ -130,38 +174,65 @@ const monthNoindex = !isIndexableMonthPage({ hasHolidays, hasEvents });
         /tools/when-to-go/<country>/ and this page links to it. What is left
         here is what is actually about this month: its weather, its public
         holidays, and what is on. */}
-    <p class="wtg-parent">
-      <a href={localizePath(`/tools/when-to-go/${countrySlug}`, lang)}>
-        {fill('wtg.countryTitle', { country: countryLabel })} →
-      </a>
-    </p>
-
-    <section class="wtg-hol">
-      <h2>{fill('wtg.holidays', { month: thisMonth })}</h2>
-      {hasHolidays ? (
-        <>
-          <p class="section-dek">{t('wtg.holidaysDek')}</p>
-          <ul class="wtg-list">
-            {data.holidays.map((h: any) => (
+    <div class="wtg-cols">
+      {/* The twelve months, ranked inside this country's own year. This is both
+          the month navigation the page used to carry as a bare chip row AND the
+          context sentence below it, so the reader can see the claim rather than
+          only read it. */}
+      <section class="card wtg-year">
+        <h2>{t('wtg.yearShape')}</h2>
+        <ul class="months">
+          {MONTHS.map((m) => {
+            const x: any = byMonth.get(m);
+            const cur = m === data.month;
+            return (
               <li>
-                <span class="wtg-date">{holidayDate(h.date)}</span>
-                <span>{holidayLabel(data.country, h.localName, h.name, lang)}</span>
+                {cur ? (
+                  <span class={`chip is-cur b-${x?.band ?? 'none'}`} aria-current="page">
+                    <span class="mo">{monthShort(m)}</span>
+                    {x && <span class="hi">{x.hi}°</span>}
+                  </span>
+                ) : (
+                  <a class={`chip b-${x?.band ?? 'none'}`} href={toolPath(countrySlug, m)}
+                    title={`${countryLabel} · ${monthName(m)}`}>
+                    <span class="mo">{monthShort(m)}</span>
+                    {x && <span class="hi">{x.hi}°</span>}
+                  </a>
+                )}
               </li>
-            ))}
-          </ul>
-        </>
-      ) : (
-        <p class="section-dek">{t('wtg.noHolidays')}</p>
-      )}
-      {/* This page answers the month. Someone who has picked exact dates wants
-          the range, which is the other tool's job. */}
-      <p class="section-more">
-        <a href={localizePath('/tools/whats-closed', lang)}>{t('wc.title')} →</a>
-      </p>
-    </section>
+            );
+          })}
+        </ul>
+        <p class="wtg-read">{heatLine} {rainLine}</p>
+      </section>
+
+      <div class="wtg-side">
+        <section class="card wtg-hol">
+          <h2>{fill('wtg.holidays', { month: thisMonth })}</h2>
+          {hasHolidays ? (
+            <>
+              <p class="section-dek">{t('wtg.holidaysDek')}</p>
+              <ul class="wtg-list">
+                {data.holidays.map((h: any) => (
+                  <li>
+                    <span class="wtg-date">{holidayDate(h.date)}</span>
+                    <span>{holidayLabel(data.country, h.localName, h.name, lang)}</span>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : (
+            <p class="section-dek">{t('wtg.noHolidays')}</p>
+          )}
+          {/* This page answers the month. Someone who has picked exact dates wants
+              the range, which is the other tool's job. */}
+          <p class="section-more">
+            <a href={localizePath('/tools/whats-closed', lang)}>{t('wc.title')} →</a>
+          </p>
+        </section>
 
     {hasEvents && (
-      <section class="wtg-ev">
+      <section class="card wtg-ev">
         <h2>{fill('wtg.events', { month: thisMonth })}</h2>
         <ul class="wtg-list">
           {/* Event POSTS first, as links — the 2026-08 audit's island fix: the
@@ -172,31 +243,37 @@ const monthNoindex = !isIndexableMonthPage({ hasHolidays, hasEvents });
           {(data.eventPosts ?? []).map((p: any) => (
             <li>
               <a href={lang !== 'en' && p.titles[lang] ? localizePath(`/posts/${p.id}/`, lang) : `/posts/${p.id}/`}>{p.titles[lang] ?? p.title}</a>
-              {p.region && <span class="wtg-date">{localizePlace(p.region, lang)}</span>}
+              {!namesItsRegion(p.titles[lang] ?? p.title, p.region) && <span class="wtg-date">{localizePlace(p.region, lang)}</span>}
             </li>
           ))}
           {/* Seed-list events (data/events.json) that no event post covers yet. */}
           {data.events
             .filter((e: any) => !(data.eventPosts ?? []).some((p: any) => (p.title ?? '').toLowerCase().includes(String(e.name ?? '').toLowerCase())))
             .map((e: any) => (
-              <li><span>{localizeEvent(e.name, lang)}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
+              <li><span>{localizeEvent(e.name, lang)}</span>{!namesItsRegion(localizeEvent(e.name, lang), e.region) && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
             ))}
         </ul>
       </section>
     )}
+      </div>
+    </div>
 
-    <nav class="wtg-months" aria-label={t('wtg.otherMonths')}>
-      <h2>{t('wtg.otherMonths')}</h2>
-      <ul>
-        {MONTHS.filter((m) => m !== data.month).map((m) => (
-          <li><a href={toolPath(countrySlug, m)}>{monthName(m)}</a></li>
-        ))}
-      </ul>
-      {/* Direct exit to the country's guide inventory — the ranking month
-          pages used to force a 2-hop path (month → country tool → guides). */}
-      <p class="wtg-all"><a href={localizePath(`/destinations/${countrySlug}`, lang)}>{t('ev.countryGuides').replace('{country}', countryLabel)} →</a></p>
-      <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
-    </nav>
+    {/* Both onward doors and the save-this-page box in one block at the end,
+        instead of the email box sitting mid-sentence inside the weather section
+        and the two exits trailing off as bare paragraphs.
+        Direct exit to the country's guide inventory — the ranking month pages
+        used to force a 2-hop path (month → country tool → guides). */}
+    <section class="card wtg-plan">
+      <div class="plan-say">
+        <h2>{t('wtg.planTitle')}</h2>
+        <p class="plan-cta">
+          {/* The label already ends in an arrow in all five languages. */}
+          <a class="btn btn-primary" href={localizePath(`/destinations/${countrySlug}`, lang)}>{t('ev.countryGuides').replace('{country}', countryLabel)}</a>
+          <a class="btn btn-ghost" href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a>
+        </p>
+      </div>
+      <WhenToGoEmailBox lang={lang} country={data.country} slug={countrySlug} />
+    </section>
 
     <p class="disclosure">{fill('wtg.source', {
       city: localizePlace(data.climateCity ?? countryLabel, lang),
@@ -214,70 +291,125 @@ const monthNoindex = !isIndexableMonthPage({ hasHolidays, hasEvents });
 </BaseLayout>
 
 <style>
-  .wtg { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
-  .eyebrow { color: var(--muted); font-size: 0.8rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 0.4rem; }
-  .wtg h1 { margin: 0 0 0.5rem; line-height: 1.2; }
-  .dek { color: var(--muted); margin: 0 0 2rem; }
-  .wtg section { margin-top: 2.4rem; }
-  .wtg h2 { font-size: 1.15rem; margin: 0 0 0.8rem; }
-  .section-dek { color: var(--muted); font-size: 0.9rem; margin: 0 0 0.8rem; }
+  .wtg { max-width: var(--wrap); margin: 0 auto; padding: 1.4rem 1rem 0; }
 
-  .wtg-stats { display: flex; flex-wrap: wrap; gap: 0.75rem; }
-  .wtg-stats > div {
-    flex: 1 1 8rem; padding: 0.85rem 1rem; border: 1px solid var(--line);
-    border-radius: var(--r-md); background: var(--surface);
+  .wtg-crumb { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem;
+    font-size: 0.82rem; color: var(--muted); margin: 0 0 0.9rem; }
+  .wtg-crumb a { color: var(--muted); text-decoration: none; }
+  .wtg-crumb a:hover { color: var(--accent); text-decoration: underline; }
+  .crumb-here { color: var(--ink); font-weight: 700; }
+
+  /* Dark olive is the one place on this page that is not paper. It carries the
+     verdict, the title and the three numbers, and nothing else competes with
+     it. Same colour in both themes: it is already darker than the dark ground. */
+  .wtg-hero {
+    display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.6rem;
+    align-items: center; padding: 1.9rem 2rem;
+    background: #2b3a1e; color: #f4f0e5; border-radius: var(--r-lg);
   }
-  .wtg-k { display: block; color: var(--muted); font-size: 0.78rem; }
-  .wtg-v { display: block; font-size: 1.35rem; font-weight: 700; }
-  .wtg-read { margin: 0.9rem 0 0; }
+  .hero-say h1 { margin: 0 0 0.55rem; line-height: 1.18; color: #fbf7ed; }
+  .hero-say .dek { margin: 0; color: #d9d3c2; max-width: 34rem; }
+  .hero-band {
+    display: inline-block; margin: 0 0 0.7rem; padding: 0.28rem 0.8rem;
+    border-radius: 999px; border: 1px solid rgba(255, 255, 255, 0.22);
+    font-size: 0.76rem; font-weight: 700; letter-spacing: 0.01em;
+  }
+  .hero-stats {
+    display: flex; gap: 1.9rem; margin: 0; padding: 1.05rem 1.5rem;
+    background: #3a4d28; border-radius: var(--r-md);
+  }
+  .hero-stats dt { color: #c3cdb0; font-size: 0.74rem; margin: 0 0 0.15rem; }
+  .hero-stats dd { margin: 0; font-size: 1.45rem; font-weight: 700; color: #fbf7ed;
+    font-variant-numeric: tabular-nums; white-space: nowrap; }
 
-  /* Wide tables scroll inside their own box so the page never scrolls sideways. */
-  .wtg-table-wrap { overflow-x: auto; }
-  .wtg table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
-  .wtg th, .wtg td { padding: 0.5rem 0.6rem; text-align: right; border-bottom: 1px solid var(--line-soft); }
-  /* The cell has padding; the link inside had none, so the tap target was the
-     glyph — "Jul" measured 20.7×18px, and month-to-month browsing is the main
-     interaction on these 1,020 pages (2026-08-06). Growing the link out into its
-     cell's padding costs no layout change. */
-  .wtg td a { display: inline-block; padding: 0.55rem 0.6rem; margin: -0.55rem -0.6rem; }
-  .wtg th:first-child, .wtg td:first-child { text-align: left; }
-  .wtg thead th { color: var(--muted); font-weight: 600; font-size: 0.8rem; }
-  .wtg tr.is-current { background: var(--surface-2); font-weight: 700; }
-  .wtg td a { color: var(--ink); text-decoration: none; }
-  .wtg td a:hover { color: var(--accent); text-decoration: underline; }
+  /* The month grid and the calendar facts side by side; stacked below 56rem. */
+  .wtg-cols { display: grid; grid-template-columns: 1.15fr 1fr; gap: 1rem; margin-top: 1rem; }
+  .wtg-side { display: grid; gap: 1rem; align-content: start; }
+  .card {
+    padding: 1.3rem 1.4rem; background: var(--surface);
+    border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  }
+  .wtg h2 { font-size: 1.05rem; margin: 0 0 0.9rem; }
+  .section-dek { color: var(--muted); font-size: 0.88rem; margin: 0 0 0.7rem; }
+
+  .months { list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0.34rem; }
+  .chip {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 0.02rem; padding: 0.4rem 0.1rem; min-height: 2.95rem;
+    border: 1px solid transparent; border-radius: 999px;
+    text-decoration: none; line-height: 1.15;
+  }
+  .chip .mo { font-size: 0.75rem; font-weight: 700; }
+  .chip .hi { font-size: 0.66rem; opacity: 0.8; font-variant-numeric: tabular-nums; }
+  .chip:hover, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  /* The month you are on is not a link to itself. A ring, because on a row of
+     twelve filled pills a colour change alone would just read as another band. */
+  .chip.is-cur { outline: 2px solid var(--ink); outline-offset: 2px; cursor: default; }
+
+  /* Shared with WhenToGoIndex.astro — the grid there and this row are the same
+     scale and must not drift into two different greens. */
+  .b-good  { background: #8fa06a; color: #1d2812; border-color: #7c8d59; }
+  .b-fine  { background: #dfe8ce; color: #45573a; border-color: #c8d5b4; }
+  .b-fair  { background: #efab80; color: #63300f; border-color: #dd9366; }
+  .b-harsh { background: #7b451d; color: #f6e7d7; border-color: #663810; }
+  .b-none  { background: var(--surface-2); color: var(--ink); border-color: var(--line); }
+
+  .wtg-read { margin: 1rem 0 0; color: var(--ink-soft); font-size: 0.92rem; }
 
   .wtg-list { list-style: none; margin: 0; padding: 0; }
-  .wtg-list li { display: flex; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid var(--line-soft); }
-  .wtg-date { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
-
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1rem; }
-
-  /* Quiet hours as a compact list, not photo cards: the hour IS the content, and
-     a grid of images buried it. Also keeps the page short enough that the
-     booking and newsletter blocks are not 8,000px down on a phone. */
-  .wtg-quietlist { list-style: none; margin: 0; padding: 0; }
-  .wtg-quietlist li {
-    display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem;
-    padding: 0.6rem 0; border-bottom: 1px solid var(--line-soft);
+  .wtg-list li { display: flex; gap: 0.7rem; align-items: baseline;
+    padding: 0.55rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wtg-list li:last-child { border-bottom: 0; }
+  .wtg-list a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  .wtg-list a:hover { color: var(--accent); text-decoration: underline; }
+  /* The date leads the row and never wraps mid-number. */
+  .wtg-date { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
+  .wtg-hol .wtg-date {
+    background: var(--accent-soft); color: var(--accent-text);
+    border-radius: 999px; font-weight: 600;
+    padding: 0.16rem 0.6rem; font-variant-numeric: tabular-nums;
   }
-  .wtg-quietlist a { color: var(--ink); text-decoration: none; font-weight: 600; }
-  .wtg-quietlist a:hover { color: var(--accent); text-decoration: underline; }
-  .wtg-q-region { color: var(--muted); font-size: 0.82rem; }
-  .wtg-q-hours {
-    margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 700;
-    color: var(--accent); white-space: nowrap;
+  /* Where a region label survives, it is the right-hand column, not a word
+     trailing the title. */
+  .wtg-ev .wtg-date { margin-left: auto; padding-left: 0.6rem; }
+  .section-more { margin: 0.9rem 0 0; font-size: 0.88rem; }
+  .section-more a { color: var(--accent-text); font-weight: 600; text-decoration: none; }
+  .section-more a:hover { text-decoration: underline; }
+
+  .wtg-plan {
+    margin-top: 1rem;
+    display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 22rem);
+    gap: 1.4rem; align-items: center;
+  }
+  .plan-say h2 { margin: 0 0 0.9rem; font-size: 1.2rem; }
+  .plan-cta { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0; }
+  /* The disclosure box brings its own top margin for the stacked layout it was
+     written for; inside this two-column card it would push itself off-centre. */
+  .wtg-plan :global(.wtg-email) { margin-top: 0; }
+
+  .disclosure { margin: 1.8rem 0 0; color: var(--muted); font-size: 0.8rem; }
+
+  @media (max-width: 56rem) {
+    .wtg-hero { grid-template-columns: 1fr; padding: 1.5rem 1.3rem; }
+    .hero-stats { gap: 1.2rem; justify-content: space-between; padding: 0.9rem 1.1rem; }
+    .hero-stats dd { font-size: 1.25rem; }
+    .wtg-cols { grid-template-columns: 1fr; }
+    .wtg-plan { grid-template-columns: 1fr; align-items: stretch; }
+  }
+  @media (max-width: 30rem) {
+    .months { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .hero-stats { gap: 0.8rem; }
+    .hero-stats dd { font-size: 1.1rem; }
   }
 
-  .wtg-months ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .wtg-months a {
-    display: inline-block; padding: 0.4rem 0.75rem; border: 1px solid var(--line);
-    border-radius: 999px; background: var(--surface); color: var(--ink);
-    text-decoration: none; font-size: 0.9rem;
+  /* Must stay identical to WhenToGoIndex.astro's dark block — see the note
+     there for why the warm pair inverts in dark. */
+  @media (prefers-color-scheme: dark) {
+    .b-good  { background: #6e8247; color: #f0f6e2; border-color: #85995b; }
+    .b-fine  { background: #3f4a35; color: #d3e0c1; border-color: #526043; }
+    .b-fair  { background: #b4763f; color: #2a1608; border-color: #c78d56; }
+    .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }
+    .chip.is-cur { outline-color: #f2ece1; }
   }
-  .wtg-months a:hover { border-color: var(--accent); color: var(--accent); }
-
-  .wtg-all { margin: 0.8rem 0 0; }
-  .wtg-all a { color: var(--accent); font-weight: 600; text-decoration: none; }
-  .wtg-all a:hover { text-decoration: underline; }
-  .disclosure { margin: 2.4rem 0 0; color: var(--muted); font-size: 0.8rem; }
 </style>

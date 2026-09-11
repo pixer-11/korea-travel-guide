@@ -161,56 +161,68 @@ const jsonLd = {
   .sw { width: 0.85rem; height: 0.85rem; border-radius: 999px; border: 1px solid var(--line-strong); }
 
   /* Name, the twelve months, then the answer — and on a narrow screen the same
-     three things stacked, which is why this is a grid and not a flex row. */
+     three things stacked, which is why this is a grid and not a flex row.
+     Each country is its own raised card rather than a table rule: at twenty
+     rows of twelve chips, a hairline is not enough separation to keep an eye
+     on one country's year (owner's note on the 2026-09-11 mock). */
   .wtgi-row {
     display: grid; grid-template-columns: minmax(8.5rem, 13rem) 1fr auto;
-    align-items: center; gap: 0.6rem 1rem;
-    padding: 0.7rem 0; border-bottom: 1px solid var(--line-soft);
+    align-items: center; gap: 0.6rem 1.2rem;
+    padding: 0.85rem 1.2rem; margin-bottom: 0.5rem;
+    background: var(--surface); border: 1px solid var(--line-soft);
+    border-radius: var(--r-lg);
   }
   .wtgi-row h2 { font-size: 1rem; margin: 0; }
   .meta { margin: 0.15rem 0 0; font-size: 0.76rem; color: var(--muted); }
   .meta .sep { margin: 0 0.3rem; }
 
   .months { list-style: none; margin: 0; padding: 0;
-    display: grid; grid-template-columns: repeat(12, minmax(0, 3.6rem));
-    justify-content: start; gap: 0.22rem; }
+    display: grid; grid-template-columns: repeat(12, minmax(0, 3.3rem));
+    justify-content: start; gap: 0.3rem; }
   .chip {
     display: flex; flex-direction: column; align-items: center; justify-content: center;
-    gap: 0.05rem; padding: 0.3rem 0.1rem; min-height: 2.7rem;
-    border: 1px solid transparent; border-radius: var(--r-sm);
-    text-decoration: none; line-height: 1.1;
+    gap: 0.02rem; padding: 0.35rem 0.1rem; min-height: 2.85rem;
+    border: 1px solid transparent; border-radius: 999px;
+    text-decoration: none; line-height: 1.15;
   }
-  .chip .mo { font-size: 0.7rem; font-weight: 600; }
-  .chip .hi { font-size: 0.72rem; opacity: 0.85; font-variant-numeric: tabular-nums; }
+  .chip .mo { font-size: 0.74rem; font-weight: 700; }
+  .chip .hi { font-size: 0.66rem; opacity: 0.8; font-variant-numeric: tabular-nums; }
   .chip:hover, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-  /* The site's existing quiet/busy language: green reads "go", red reads
-     "don't" to anyone who has seen a crowd chart here. */
-  .b-good  { background: #b4dfc6; color: #0f4630; border-color: #7fc4a0; }
-  .b-fine  { background: #e6efe7; color: #38553f; border-color: #c4d8ca; }
-  .b-fair  { background: #f7dccf; color: #8a422f; border-color: #e6b9a3; }
-  .b-harsh { background: #eeb9a8; color: #7c2117; border-color: #d98e77; }
-  .b-none  { background: var(--surface); color: var(--ink); border-color: var(--line); }
+  /* Earth palette, shared with the month page (see WhenToGoPage.astro) so the
+     index and the page it links to read as one tool. Olive means go, terracotta
+     means the crowd or the weather is against you. */
+  .b-good  { background: #8fa06a; color: #1d2812; border-color: #7c8d59; }
+  .b-fine  { background: #dfe8ce; color: #45573a; border-color: #c8d5b4; }
+  .b-fair  { background: #efab80; color: #63300f; border-color: #dd9366; }
+  .b-harsh { background: #7b451d; color: #f6e7d7; border-color: #663810; }
+  .b-none  { background: var(--surface-2); color: var(--ink); border-color: var(--line); }
 
   .best { margin: 0; text-align: right; font-size: 0.7rem; color: var(--muted); white-space: nowrap; }
   .best-k { display: block; letter-spacing: 0.02em; }
-  .best a { color: var(--accent-text); font-weight: 800; text-decoration: none;
+  .best a { color: #5f7040; font-weight: 800; text-decoration: none;
     font-size: 1.05rem; line-height: 1.3; }
   .best a:hover { text-decoration: underline; }
 
   .disclosure { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
 
   @media (max-width: 46rem) {
-    .wtgi-row { grid-template-columns: 1fr auto; }
+    .wtgi-row { grid-template-columns: 1fr auto; padding: 0.85rem 0.9rem; }
     .months { grid-column: 1 / -1; grid-template-columns: repeat(6, minmax(0, 1fr)); }
     .best { text-align: left; align-self: end; }
     .best-k { display: inline; margin-right: 0.35rem; }
   }
 
+  /* Dark needs the two green bands to separate from the card AND the two warm
+     bands to separate from each other. The first dark pass kept the light
+     palette's "harsh is the darkest" rule, and on a #1e1a15 card that made
+     harsh and the card itself nearly the same brown. So the warm pair inverts:
+     fair is ochre, harsh is a hotter, redder brown. */
   @media (prefers-color-scheme: dark) {
-    .b-good  { background: #1f5b40; color: #b6e8ca; border-color: #2f7a56; }
-    .b-fine  { background: #2b352e; color: #c2d2c7; border-color: #3d4b42; }
-    .b-fair  { background: #4a3027; color: #eab49f; border-color: #64402f; }
-    .b-harsh { background: #63291d; color: #f7b3a2; border-color: #85392a; }
+    .b-good  { background: #6e8247; color: #f0f6e2; border-color: #85995b; }
+    .b-fine  { background: #3f4a35; color: #d3e0c1; border-color: #526043; }
+    .b-fair  { background: #b4763f; color: #2a1608; border-color: #c78d56; }
+    .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }
+    .best a { color: #b7c98f; }
   }
 </style>
