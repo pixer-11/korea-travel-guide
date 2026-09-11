@@ -1,44 +1,44 @@
 ---
-title: "Lady Bird Johnson Wildflower Center: Austin Travel Guide"
-description: "The Lady Bird Johnson Wildflower Center sits in far south Austin at 4801 La Crosse Ave, about 20 minutes from downtown, and is open daily 9am–4pm. 4.7★ (2,826 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Austin"
-category: "attraction"
-pubDate: "2026-09-11T07:39:15.370Z"
+title: 'Lady Bird Johnson Wildflower Center: Austin Travel Guide'
+description: The Lady Bird Johnson Wildflower Center sits in far south Austin at 4801 La Crosse Ave, about 20 minutes from downtown, and is open daily 9am–4pm. 4.7★ (2,826 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Austin
+category: attraction
+pubDate: '2026-09-11T07:39:15.370Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/84/Lady_Bird_Johnson_Wildflower_Center.jpg"
-  credit: "Photo: Margaretwmiller / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lady_Bird_Johnson_Wildflower_Center.jpg"
+  url: https://fastly.4sqi.net/img/general/original/25350689_4HcFhAkpX9bwroz10z_Df3Vbkh_gypDR6EQ_xVfDbBg.jpg
+  credit: 'Photo: Foursquare user content (Lady Bird Johnson Wildflower Center)'
+  license: foursquare
+  source: https://foursquare.com/v/4a6c86f2f964a520b9d01fe3
   focus:
-    x: 45
-    y: 45
+    x: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cupressus_glabra_Wildflower_Center_Austin_Texas_2024.jpg"
-    credit: "Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cupressus_glabra_Wildflower_Center_Austin_Texas_2024.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Cupressus_glabra_Wildflower_Center_Austin_Texas_2024.jpg
+    credit: 'Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Cupressus_glabra_Wildflower_Center_Austin_Texas_2024.jpg
 place:
-  id: "ChIJx-dV4FqET4YRIeaczoVvOgc"
-  name: "Lady Bird Johnson Wildflower Center"
-  address: "4801 La Crosse Ave, Austin, TX 78739, USA"
+  id: ChIJx-dV4FqET4YRIeaczoVvOgc
+  name: Lady Bird Johnson Wildflower Center
+  address: 4801 La Crosse Ave, Austin, TX 78739, USA
   rating: 4.7
   userRatingsTotal: 2826
-  googleMapsUrl: "https://maps.google.com/?cid=520851327402436129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=520851327402436129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.1854889
   lng: -97.8732649
-  phone: "+1 512-232-0100"
+  phone: +1 512-232-0100
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-09-11
+    updated: 2026-09-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 15
@@ -48,22 +48,22 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_63674f76566f7a63616549525934544571463456642d784a496843"
+    venueId: ven_63674f76566f7a63616549525934544571463456642d784a496843
 tags:
-  - "austin"
-  - "park"
-quickAnswer: "The Lady Bird Johnson Wildflower Center sits in far south Austin at 4801 La Crosse Ave, about 20 minutes from downtown, and is open daily 9am–4pm. It's calmest on weekdays throughout the day; weekends between 10am and 3pm draw the biggest crowds, especially during spring bluebonnet season. Budget two to three hours to cover the gardens, the research center building, and at least one trail."
+  - austin
+  - park
+quickAnswer: The Lady Bird Johnson Wildflower Center sits in far south Austin at 4801 La Crosse Ave, about 20 minutes from downtown, and is open daily 9am–4pm. It's calmest on weekdays throughout the day; weekends between 10am and 3pm draw the biggest crowds, especially during spring bluebonnet season. Budget two to three hours to cover the gardens, the research center building, and at least one trail.
 faq:
-  - q: "Where exactly is the Lady Bird Johnson Wildflower Center located?"
-    a: "It's at 4801 La Crosse Ave in far south Austin, about a 20-25 minute drive from downtown, with its own on-site parking lot."
-  - q: "What are the opening hours?"
-    a: "Open daily from 9am to 4pm, seven days a week, with no listed seasonal variation."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the full 9am–4pm window. If you can only go on a weekend, arrive right at 9am to beat the 10am–3pm rush."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers the courtyard gardens, themed garden sections, and a walk on the Savanna Meadow Trail; add extra time in peak bluebonnet season (March-May) when paths are busier."
-  - q: "What's nearby if I want to combine this with another stop?"
-    a: "It's a short drive from the Onion Creek greenbelt and South Austin's Slaughter Lane retail corridor; downtown Austin attractions are close enough to pair with an afternoon visit here."
+  - q: Where exactly is the Lady Bird Johnson Wildflower Center located?
+    a: It's at 4801 La Crosse Ave in far south Austin, about a 20-25 minute drive from downtown, with its own on-site parking lot.
+  - q: What are the opening hours?
+    a: Open daily from 9am to 4pm, seven days a week, with no listed seasonal variation.
+  - q: When is the quietest time to visit?
+    a: Weekdays are calm throughout the full 9am–4pm window. If you can only go on a weekend, arrive right at 9am to beat the 10am–3pm rush.
+  - q: How long should I plan to spend there?
+    a: Two to three hours covers the courtyard gardens, themed garden sections, and a walk on the Savanna Meadow Trail; add extra time in peak bluebonnet season (March-May) when paths are busier.
+  - q: What's nearby if I want to combine this with another stop?
+    a: It's a short drive from the Onion Creek greenbelt and South Austin's Slaughter Lane retail corridor; downtown Austin attractions are close enough to pair with an afternoon visit here.
 aiGenerated: true
 draft: false
 ---

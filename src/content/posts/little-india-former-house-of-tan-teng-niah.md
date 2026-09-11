@@ -8,13 +8,13 @@ region: Little India
 category: attraction
 pubDate: '2026-07-23T07:32:15.496Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg
+  url: https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg
   credit: 'Photo: Foursquare user content (Former House of Tan Teng Niah)'
   license: foursquare
   source: https://foursquare.com/v/59759e0410345b5dd6b9b7a1
   focus:
     x: 50
-    'y': 45
+    'y': 40
 place:
   id: ChIJX0z5sbgZ2jERbP7t9-0hs_E
   name: Former House of Tan Teng Niah
