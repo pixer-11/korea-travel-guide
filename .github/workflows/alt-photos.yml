@@ -170,6 +170,63 @@ jobs:
       # last on purpose — a real photo of the act always wins — and it lands
       # unreviewed in audit-event-hero-identity, so a person reads it next
       # morning before it can quietly become permanent.
+      # A show that ended at midnight reads as upcoming until the evening run.
+      #
+      # publish.yml repairs the tense at 16:19 KST, and it repairs the ENGLISH
+      # after the translators have already run — so the four translations do not
+      # follow until the next night. Measured on 2026-09-11: two shows that ended
+      # on the 10th were still saying 열립니다 / 開催されます / 定于 / 将在 the
+      # following morning. About forty hours, in the languages most of our clicks
+      # come from.
+      #
+      # Running the same two repairs here, at 04:35, cuts that to about five: the
+      # English is fixed and its translations are refilled from it in one pass,
+      # hours before anyone in Asia is reading. Both tools are idempotent and
+      # quiet when nothing has ended, so a normal morning costs nothing.
+      #
+      # NOTE the coupling: this rides on the photo gate above, so if BOTH photo
+      # keys ever go missing this stops with it. The key check below at least
+      # says so in the log rather than passing silently.
+      - name: Repair ended-event tense, English and its translations
+        if: steps.gate.outputs.on == 'true'
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::warning::ANTHROPIC_API_KEY missing — ended-event tense not repaired this morning"
+            exit 0
+          fi
+          node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
+          # Both English repairs run BEFORE the translations are refilled, so the
+          # four languages are rebuilt from the corrected text in one pass. Doing
+          # it the other way round is what gives publish.yml its extra day.
+          # The tense fixer only knows the sentences its own regex knows. The
+          # validator names a wider class — an ended guide still telling the
+          # reader to "confirm timing and tickets on the official site before" —
+          # and repair-ended-event-editorial was written for exactly that on
+          # 2026-09-04. It was wired into no workflow at all and had never run
+          # unattended in the seven days since, because unscoped it sends every
+          # one of the 66 ended guides to Opus on every run.
+          #
+          # So it is given the validator's own list and nothing else: today that
+          # was two posts, and on a morning when nothing ended it is zero and no
+          # call is made. Same shape as TENSE_KEYS above — the tool that measures
+          # hands the work to the tool that repairs.
+          STALE=$(node scripts/validate-content.mjs 2>/dev/null | grep -oE 'ENDED-EVENT-[A-Z-]+: [a-z0-9-]+\.md' | sed -E 's/.*: ([a-z0-9-]+)\.md/\1/' | sort -u | tr '\n' ',' | sed 's/,$//' || true)
+          if [ -n "$STALE" ]; then
+            echo "ended-event editorial: $(echo $STALE | tr ',' '\n' | grep -c .) post(s) the validator still flags"
+            SLUGS="$STALE" node scripts/repair-ended-event-editorial.mjs 2>&1 | tail -6 || true
+          fi
+          # The audit names each stale translation as "<lang>/<slug>"; its
+          # "nothing was recognised" sentence carries the same prefix and must
+          # not become a key, which is what the grep is for.
+          TENSE_KEYS=$(node scripts/audit-ended-event-tense-i18n.mjs --list 2>/dev/null | grep -E '^ENDED-EVENT-I18N-TENSE: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
+          if [ -n "$TENSE_KEYS" ]; then
+            echo "ended-event tense: re-translating $(echo $TENSE_KEYS | wc -w) translation(s)"
+            KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+          fi
+
       - name: Fill the rest with a photo of their city
         if: steps.gate.outputs.on == 'true'
         run: node scripts/fill-event-city-heroes.mjs | tee /tmp/cityhero.log

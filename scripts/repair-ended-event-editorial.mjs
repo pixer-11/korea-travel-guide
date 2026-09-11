@@ -153,6 +153,12 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   const curRaw = curDisk.replace(/\r\n/g, '\n');
   let cur; try { cur = parse(curRaw); } catch { continue; }
   if (!cur.fm || cur.fm.category !== 'event') continue;
+  // Same rule as fix-ended-event-tense: a quarantined draft reaches no reader,
+  // and the publish gate re-reads a post before it goes live. This one runs on
+  // Opus over the WHOLE article, so an ended draft is the most expensive page
+  // on the site to keep rewriting for nobody. SLUGS still reaches a draft when
+  // a person names one deliberately.
+  if (cur.fm.draft === true && !SLUGS.length) continue;
   const end = isoDay(cur.fm.eventEndDate || cur.fm.eventStartDate);
   if (!end || end >= TODAY) continue;
   scanned++;

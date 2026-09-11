@@ -222,6 +222,14 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   const cut = raw.indexOf('\n---', 3);
   let fm; try { fm = yaml.load(raw.slice(4, cut)); } catch { continue; }
   if (!fm || fm.category !== 'event') continue;
+  // A quarantined draft is not on the site, so nothing it says reaches a
+  // reader — and the publish gate re-checks a post before it goes live, so a
+  // repair now buys nothing either. Tokyo Tyler, the Creator is heldFinal
+  // ("the tour date passed; kept as a redirect") and this tool was rewriting
+  // it every night: three discarded attempts on quickAnswer, three on the FAQ,
+  // for a page that can never publish. Wiring this into a second daily run
+  // (alt-photos, 2026-09-11) would have doubled that bill.
+  if (fm.draft === true) continue;
   // YAML parses an unquoted 2026-08-15 into a Date, and String(date) is 'Sat Aug 15 …' —
   // never < TODAY, so Qingdao and Boryeong were invisible to this tool until 2026-09-02.
   const rawEnd = fm.eventEndDate || fm.eventStartDate || '';
