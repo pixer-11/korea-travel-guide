@@ -31,13 +31,10 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Reception_in_honor_of_U_S_Independence_Day_%2835442412360%29.jpg/3840px-Reception_in_honor_of_U_S_Independence_Day_%2835442412360%29.jpg
-  credit: 'Photo: U.S. Embassy in Tashkent / Wikimedia Commons (Public domain)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mustaqillik_maydoni._2024.jpg/1920px-Mustaqillik_maydoni._2024.jpg'
+  credit: 'Photo: Visola Tangirova / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Reception_in_honor_of_U_S_Independence_Day_(35442412360).jpg
-  focus:
-    x: 30
-    'y': 45
+  source: 'https://commons.wikimedia.org/wiki/File:Mustaqillik_maydoni._2024.jpg'
 ---
 ## What Independence Day actually is
 

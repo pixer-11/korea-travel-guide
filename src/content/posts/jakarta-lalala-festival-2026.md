@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Monumen_Nasional%2C_Jakarta%2C_Indonesia.jpg/1920px-Monumen_Nasional%2C_Jakarta%2C_Indonesia.jpg'
+  credit: 'Photo: Ramayoni / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Monumen_Nasional,_Jakarta,_Indonesia.jpg'
 tags:
   - jakarta
   - event

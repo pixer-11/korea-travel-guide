@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-03'
 eventEndDate: '2026-08-30'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dubai_Fountain_%40_Dubai_Mall_%2815878618845%29.jpg/1920px-Dubai_Fountain_%40_Dubai_Mall_%2815878618845%29.jpg'
+  credit: 'Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Fountain_@_Dubai_Mall_(15878618845).jpg'
 gallery: []
 tags:
   - dubai

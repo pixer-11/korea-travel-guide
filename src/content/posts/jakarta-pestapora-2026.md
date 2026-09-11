@@ -9,6 +9,11 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-27'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg/1920px-Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg'
 gallery: []
 tags:
   - jakarta

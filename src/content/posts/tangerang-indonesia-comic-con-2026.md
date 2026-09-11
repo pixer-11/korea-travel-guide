@@ -33,15 +33,10 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cosplayers_%40_Comic_Con_Chile_2026.jpg/3840px-Cosplayers_%40_Comic_Con_Chile_2026.jpg
-  credit: 'Photo: Rjcastillo / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alun-Alun_Periuk%2C_Tangerang.jpg/1920px-Alun-Alun_Periuk%2C_Tangerang.jpg'
+  credit: 'Photo: Vruztazzy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Cosplayers_@_Comic_Con_Chile_2026.jpg
-  focus:
-    x: 50
-    'y': 50
-    top: 5
-    bottom: 95
+  source: 'https://commons.wikimedia.org/wiki/File:Alun-Alun_Periuk,_Tangerang.jpg'
 ---
 
 ## What Indonesia Comic Con 2026 actually is

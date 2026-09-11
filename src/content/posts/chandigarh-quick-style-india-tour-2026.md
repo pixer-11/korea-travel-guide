@@ -8,6 +8,11 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-29'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg/1920px-Palace_of_Assembly_Chandigarh_2006.jpg'
+  credit: 'Photo: duncid / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg'
 gallery: []
 tags:
   - chandigarh
