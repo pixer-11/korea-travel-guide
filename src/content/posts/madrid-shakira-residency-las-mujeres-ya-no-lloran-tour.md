@@ -17,6 +17,11 @@ eventPerformer:
   name: Shakira
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shakira_Rio_07.jpg/1920px-Shakira_Rio_07.jpg'
+  credit: 'Photo: Andres Arranz / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Shakira_Rio_07.jpg'
 gallery: []
 tags:
   - madrid

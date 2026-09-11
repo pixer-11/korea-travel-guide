@@ -17,6 +17,11 @@ eventPerformer:
   name: Tamer Hosny and Tamer Ashour
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png'
+  credit: 'Photo: Benchmark ksa / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tamer_Hosny''s_NYE_Concert_(2025).png'
 gallery: []
 tags:
   - abu dhabi

@@ -15,6 +15,11 @@ eventPerformer:
   name: Charlie Puth
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Charlie_Puth%2C_Idol_2022.jpg/1920px-Charlie_Puth%2C_Idol_2022.jpg'
+  credit: 'Photo: JohannesEngvall / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Charlie_Puth,_Idol_2022.jpg'
 gallery: []
 tags:
   - pasay
