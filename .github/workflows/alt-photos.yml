@@ -41,13 +41,42 @@ jobs:
         env:
           A: ${{ secrets.FOURSQUARE_API_KEY }}
           B: ${{ secrets.FLICKR_API_KEY }}
+          C: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           [ -n "$A" ] && echo "fsq=yes" >> "$GITHUB_OUTPUT" || echo "fsq=no" >> "$GITHUB_OUTPUT"
           [ -n "$B" ] && echo "flickr=yes" >> "$GITHUB_OUTPUT" || echo "flickr=no" >> "$GITHUB_OUTPUT"
           echo "Foursquare key: $([ -n "$A" ] && echo present || echo MISSING)"
           echo "Flickr key:     $([ -n "$B" ] && echo present || echo MISSING)"
-          if [ -n "$A" ] || [ -n "$B" ]; then echo "on=true" >> "$GITHUB_OUTPUT"; else echo "on=false" >> "$GITHUB_OUTPUT"; fi
+          echo "Anthropic key:  $([ -n "$C" ] && echo present || echo MISSING)"
+          [ -n "$C" ] && echo "vision=yes" >> "$GITHUB_OUTPUT" || echo "vision=no" >> "$GITHUB_OUTPUT"
+          # ANTHROPIC joins the switch. Without the photo keys this job still has
+          # work: backfill-photos-alt says so itself ("venue posts skipped; event
+          # drafts still repaired via Commons"), and since 2026-09-11 the
+          # ended-event tense and editorial repairs live here too. Gating all of
+          # that on a Foursquare key threw away everything when one secret
+          # lapsed — and threw it away QUIETLY, which is the part that bites.
+          if [ -n "$A" ] || [ -n "$B" ] || [ -n "$C" ]; then echo "on=true" >> "$GITHUB_OUTPUT"; else echo "on=false" >> "$GITHUB_OUTPUT"; fi
 
+
+      # A key that lapses used to read as a quiet, green run: the gate printed
+      # MISSING into a log nobody opens and every step below was skipped. That
+      # is the same shape as the Cloudflare "skipped" stall — green is not the
+      # same as ran. Flickr is deliberately exempt: its API is paid, we hold no
+      # key on purpose, and 0 of our live heroes came from it (measured 08-07).
+      - name: Say so when a key we depend on is gone
+        if: steps.gate.outputs.fsq == 'no' || steps.gate.outputs.vision == 'no'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MISS=""
+          [ "${{ steps.gate.outputs.fsq }}" = "no" ] && MISS="$MISS FOURSQUARE_API_KEY(장소 사진 검색)"
+          [ "${{ steps.gate.outputs.vision }}" = "no" ] && MISS="$MISS ANTHROPIC_API_KEY(사진 판정·끝난 행사 수리)"
+          TXT=$(printf '🔑 사진 순찰의 키가 없습니다\n없는 키:%s\n\n이 키가 없으면 그 부분은 조용히 건너뜁니다. 저장소 Settings → Secrets 에서 확인해 주세요.' "$MISS")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
       - if: steps.gate.outputs.on == 'true'
         uses: actions/setup-node@v5
         with:
@@ -184,9 +213,10 @@ jobs:
       # hours before anyone in Asia is reading. Both tools are idempotent and
       # quiet when nothing has ended, so a normal morning costs nothing.
       #
-      # NOTE the coupling: this rides on the photo gate above, so if BOTH photo
-      # keys ever go missing this stops with it. The key check below at least
-      # says so in the log rather than passing silently.
+      # It used to ride on the photo gate, so both photo keys lapsing would have
+      # taken the tense repair down with them, silently. The gate counts the
+      # Anthropic key now, so this survives a photo-key outage and a missing key
+      # says so in Telegram instead of passing green.
       - name: Repair ended-event tense, English and its translations
         if: steps.gate.outputs.on == 'true'
         continue-on-error: true
