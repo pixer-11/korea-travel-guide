@@ -50,6 +50,15 @@ place:
       - 17
       - 18
     venueId: ven_34456f423754323662496452416a34594b646d32567a474a496843
+  phone: '+66 2 677 8721'
+  openingHours:
+    - 'Monday: 10:00 AM – 12:00 AM'
+    - 'Tuesday: 10:00 AM – 12:00 AM'
+    - 'Wednesday: 10:00 AM – 12:00 AM'
+    - 'Thursday: 10:00 AM – 12:00 AM'
+    - 'Friday: 10:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
 tags:
   - bangkok
   - viewpoint
