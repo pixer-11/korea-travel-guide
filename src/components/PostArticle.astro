@@ -1018,7 +1018,11 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       the image wherever it is shown, enlarged included. */}
   <dialog id="img-lightbox" aria-label={t('a11y.enlargedPhoto')}>
     <button type="button" class="lb-close" aria-label={t('a11y.close')}><Emoji name="close" /></button>
-    <img alt="" />
+    {/* A src-less <img> is invalid HTML, and it shipped on 1,485 pages — the
+        lightbox fills it on click, so nobody ever saw the empty one. A 1x1
+        transparent GIF keeps the element valid until then. alt stays empty on
+        purpose: the real alt is copied from the thumbnail that opened it. */}
+    <img alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
     <p class="lb-credit"></p>
   </dialog>
   <script>

@@ -138,6 +138,42 @@ jobs:
       # children, so one child with a 1024px hero disqualifies the whole hub from
       # Discover's large card. scan-hero-widths covers posts and runs nightly;
       # nothing covered the hubs, and this audit sat unwired since 2026-08-06.
+      # 37 audits in scripts/ read the INPUTS — frontmatter, translation JSON,
+      # data files. Three read dist/. So a defect that only exists once the
+      # templates have run is invisible to all of them, and the only thing that
+      # ever finds one is a person opening the live site. That is why an
+      # outside review keeps returning "new" defects that have shipped for
+      # weeks: five of the eight P0 items in the 2026-09-10 diagnosis were this
+      # shape, and every one of them had passed a green CI.
+      #
+      # Runs on every push to main, mine included — the point is to catch what
+      # a change to a template does to the 6,600 pages it renders.
+      - name: Finished pages, not just their ingredients
+        id: rendered
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/audit-rendered-pages.mjs 2>&1 | tee /tmp/rendered.log
+
+      - name: Report a defect that only exists after rendering
+        if: steps.rendered.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🧾 렌더된 페이지 검사에서 결함이 나왔습니다 (배포는 정상 진행됨)"
+            echo "소스가 아니라 완성된 HTML에서만 보이는 부류입니다 — 미치환 변수·빈 이미지·지난 날짜·h1 이상."
+            echo "대개 템플릿 한 곳이 원인이고, 그 한 곳이 수백 페이지에 퍼집니다."
+            echo "커밋: ${GITHUB_SHA:0:7}"
+            echo
+            tail -c 1400 /tmp/rendered.log
+          } > /tmp/rendered-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/rendered-msg.txt" >/dev/null || true
+
       - name: Share-image width on home and hubs
         id: ogwidth
         continue-on-error: true
