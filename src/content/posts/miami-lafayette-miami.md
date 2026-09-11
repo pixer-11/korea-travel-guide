@@ -1,30 +1,35 @@
 ---
 title: 'Lafayette: Where to Eat in Miami'
-description: Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the Brickell/Roads area, just west of the Miami River — a place locals stumble on rather than a tourist checkbox.
+description: >-
+  Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the
+  Brickell/Roads area, just west of the Miami River — a place locals stumble on
+  rather than a tourist checkbox.
 country: United States
 region: Miami
 category: restaurant
 pubDate: '2026-07-27T11:01:34.613Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/503878574_3winniI7__Y9oa4FZkNeVhXpF3VTNsVXi0FTtyeUEvA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/503878574_3winniI7__Y9oa4FZkNeVhXpF3VTNsVXi0FTtyeUEvA.jpg
   credit: 'Photo: Foursquare user content (Lafayette Miami)'
   license: foursquare
-  source: https://foursquare.com/v/677ea6c513847a380f98ebb0
+  source: 'https://foursquare.com/v/677ea6c513847a380f98ebb0'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJeVpjGKW32YgROG-7zMGpoVU
   name: Lafayette Miami
-  address: 1111 SW 1st Ave, Miami, FL 33130, USA
+  address: '1111 SW 1st Ave, Miami, FL 33130, USA'
   rating: 4.9
-  userRatingsTotal: 816
-  googleMapsUrl: https://maps.google.com/?cid=6170399614302908216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 855
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6170399614302908216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.763261399999998
   lng: -80.19496889999999
-  phone: '+1 305 535-0065'
+  phone: +1 305 535-0065
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 6:00 – 11:00 PM'
@@ -33,23 +38,44 @@ place:
     - 'Friday: 6:00 PM – 12:00 AM'
     - 'Saturday: 6:00 PM – 12:00 AM'
     - 'Sunday: Closed'
+  priceLevel: 4
 tags:
   - miami
   - local restaurant
-quickAnswer: Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the Brickell/Roads area, just west of the Miami River — a place locals stumble on rather than a tourist checkbox. With a 4.9 rating from over 800 reviews, it punches well above its size; go on a weeknight or early evening to get a table without a wait, and expect a compact, chef-driven menu rather than a sprawling one.
+quickAnswer: >-
+  Lafayette Miami is a small, high-rated spot at 1111 SW 1st Ave in the
+  Brickell/Roads area, just west of the Miami River — a place locals stumble on
+  rather than a tourist checkbox. With a 4.9 rating from over 800 reviews, it
+  punches well above its size; go on a weeknight or early evening to get a table
+  without a wait, and expect a compact, chef-driven menu rather than a sprawling
+  one.
 faq:
   - q: How do I get to Lafayette Miami without a car?
-    a: There's no direct Metrorail or Metromover stop nearby, so a rideshare or taxi from Brickell or downtown (about 5-10 minutes) is the most practical option.
+    a: >-
+      There's no direct Metrorail or Metromover stop nearby, so a rideshare or
+      taxi from Brickell or downtown (about 5-10 minutes) is the most practical
+      option.
   - q: Is Lafayette expensive?
-    a: It sits in the mid-range bracket typical of a serious neighborhood restaurant — not cheap, but well below Brickell's flashiest fine-dining prices. Confirm current menu prices directly, as they can change.
+    a: >-
+      It sits in the mid-range bracket typical of a serious neighborhood
+      restaurant — not cheap, but well below Brickell's flashiest fine-dining
+      prices. Confirm current menu prices directly, as they can change.
   - q: Do I need a reservation?
-    a: Given its 4.9 rating from 800+ reviews, it's built a loyal following, so booking ahead for weekend dinners is wise even though it's not a mainstream tourist stop.
+    a: >-
+      Given its 4.9 rating from 800+ reviews, it's built a loyal following, so
+      booking ahead for weekend dinners is wise even though it's not a
+      mainstream tourist stop.
   - q: What's the best time to visit to avoid a wait?
-    a: Early evening on a weeknight, before Brickell's after-work crowd arrives, is typically your calmest option. Weekend dinners are the busiest.
+    a: >-
+      Early evening on a weeknight, before Brickell's after-work crowd arrives,
+      is typically your calmest option. Weekend dinners are the busiest.
   - q: What's nearby if I want to make an evening of it?
-    a: The Miami River and Brickell's riverfront paths are a short walk or drive away, along with bars and lounges around South Miami Avenue.
+    a: >-
+      The Miami River and Brickell's riverfront paths are a short walk or drive
+      away, along with bars and lounges around South Miami Avenue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 
 ## Why Lafayette earns the detour

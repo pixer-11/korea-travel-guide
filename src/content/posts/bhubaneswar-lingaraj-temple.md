@@ -1,40 +1,48 @@
 ---
-title: "Lingaraj Temple: Bhubaneswar Travel Guide (4.7★)"
-description: "Lingaraj Temple in Old Town, Bhubaneswar is open daily from 6:30am to 7:30pm, and the calmest window to visit is 7am–8am, any day of the week. 4.7★ (44,752 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bhubaneswar"
-category: "attraction"
-pubDate: "2026-09-11T07:40:51.542Z"
+title: 'Lingaraj Temple: Bhubaneswar Travel Guide (4.7★)'
+description: >-
+  Lingaraj Temple in Old Town, Bhubaneswar is open daily from 6:30am to 7:30pm,
+  and the calmest window to visit is 7am–8am, any day of the week. 4.7★ (44,750
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: Bhubaneswar
+category: attraction
+pubDate: '2026-09-11T07:40:51.542Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg/3840px-Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg"
-  credit: "Photo: Athulvis / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple,_Bhubaneswar,_Odisha_2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg/3840px-Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg
+  credit: 'Photo: Athulvis / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lingaraj_Temple,_Bhubaneswar,_Odisha_2.jpg
+  via: act
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJB8j_yCanGToRzaJWlPhFKCE"
-  name: "Lingaraj Temple"
-  address: "Lingaraj Temple Rd, Lingaraj Nagar, Old Town, Bhubaneswar, Odisha 751002, India"
+  id: ChIJB8j_yCanGToRzaJWlPhFKCE
+  name: Lingaraj Temple
+  address: >-
+    Lingaraj Temple Rd, Lingaraj Nagar, Old Town, Bhubaneswar, Odisha 751002,
+    India
   rating: 4.7
-  userRatingsTotal: 44752
-  googleMapsUrl: "https://maps.google.com/?cid=2389236536262959821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44750
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2389236536262959821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.238451899999998
   lng: 85.8337767
   openingHours:
-    - "Monday: 6:30 AM – 7:30 PM"
-    - "Tuesday: 6:30 AM – 7:30 PM"
-    - "Wednesday: 6:30 AM – 7:30 PM"
-    - "Thursday: 6:30 AM – 7:30 PM"
-    - "Friday: 6:30 AM – 7:30 PM"
-    - "Saturday: 6:30 AM – 7:30 PM"
-    - "Sunday: 6:30 AM – 7:30 PM"
+    - 'Monday: 6:30 AM – 7:30 PM'
+    - 'Tuesday: 6:30 AM – 7:30 PM'
+    - 'Wednesday: 6:30 AM – 7:30 PM'
+    - 'Thursday: 6:30 AM – 7:30 PM'
+    - 'Friday: 6:30 AM – 7:30 PM'
+    - 'Saturday: 6:30 AM – 7:30 PM'
+    - 'Sunday: 6:30 AM – 7:30 PM'
   busyness:
-    updated: 2026-09-11
+    updated: 2026-09-11T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -44,14 +52,20 @@ place:
     weekendBusy:
       - 17
       - 18
-    venueId: "ven_45434b4668506c574a617a526f54476e6143795f6a38424a496843"
+    venueId: ven_45434b4668506c574a617a526f54476e6143795f6a38424a496843
 tags:
-  - "bhubaneswar"
-  - "historic site"
-quickAnswer: "Lingaraj Temple in Old Town, Bhubaneswar is open daily from 6:30am to 7:30pm, and the calmest window to visit is 7am–8am, any day of the week. Avoid rolling up between 5pm and 7pm on weekends, when the compound fills up fastest. Note that the main sanctum is reserved for Hindus and Indic-faith visitors, but the outer platform gives non-Hindus a full view of the 11th-century tower."
+  - bhubaneswar
+  - historic site
+quickAnswer: >-
+  Lingaraj Temple in Old Town, Bhubaneswar is open daily from 6:30am to 7:30pm,
+  and the calmest window to visit is 7am–8am, any day of the week. Avoid rolling
+  up between 5pm and 7pm on weekends, when the compound fills up fastest. Note
+  that the main sanctum is reserved for Hindus and Indic-faith visitors, but the
+  outer platform gives non-Hindus a full view of the 11th-century tower.
 faq: []
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 
 Lingaraj Temple sits on a walled compound in Old Town, a part of Bhubaneswar that still feels like a separate settlement from the newer state capital built around it. The main tower, or deul, rises about 55 metres over the courtyard, carved from local sandstone and laterite blocks that have gone soft grey and green with a thousand years of monsoons.

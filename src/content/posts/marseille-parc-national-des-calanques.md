@@ -1,27 +1,34 @@
 ---
 title: 'Parc national des Calanques: Marseille Travel Guide'
-description: Go early — ideally on the first bus or by 8am on foot — and pick one calanque (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see the park in one sweep.
+description: >-
+  Go early — ideally on the first bus or by 8am on foot — and pick one calanque
+  (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see
+  the park in one sweep.
 country: France
 region: Marseille
 category: attraction
 pubDate: '2026-07-26T07:54:45.057Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg
   credit: 'Photo: Eris.spiller / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Le_parc_des_calanques_de_Marseille.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Le_parc_des_calanques_de_Marseille.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PN_des_Calanques_-_02.jpg/1920px-PN_des_Calanques_-_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PN_des_Calanques_-_02.jpg/1920px-PN_des_Calanques_-_02.jpg
     credit: 'Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:PN_des_Calanques_-_02.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:PN_des_Calanques_-_02.jpg'
 place:
   id: ChIJySHEzzW4yRIRniAPBwmntxo
   name: Parc national des Calanques
-  address: 13008 Marseille, France
+  address: '13008 Marseille, France'
   rating: 4.7
-  userRatingsTotal: 21116
-  googleMapsUrl: https://maps.google.com/?cid=1925191022939152542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 21179
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1925191022939152542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.2178391
   lng: 5.4430178
@@ -37,20 +44,43 @@ place:
 tags:
   - marseille
   - top attraction
-quickAnswer: Go early — ideally on the first bus or by 8am on foot — and pick one calanque (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see the park in one sweep. In summer you must reserve a free access permit online for the most popular inland trailheads, and cars are banned from the calanque roads themselves, so plan on walking 30-60 minutes each way from the park-and-ride gates.
+quickAnswer: >-
+  Go early — ideally on the first bus or by 8am on foot — and pick one calanque
+  (Sormiou, Morgiou, or the boat-only Sugiton/En-Vau) rather than trying to see
+  the park in one sweep. In summer you must reserve a free access permit online
+  for the most popular inland trailheads, and cars are banned from the calanque
+  roads themselves, so plan on walking 30-60 minutes each way from the
+  park-and-ride gates.
 faq:
   - q: Do I need a permit to visit the Calanques?
-    a: For the busiest inland trailheads (Sugiton, Sormiou, Marseilleveyre) during summer high-risk days, the park requires a free online access permit booked in advance. Rules and dates vary by year, so check the official Parc national des Calanques website before you go.
+    a: >-
+      For the busiest inland trailheads (Sugiton, Sormiou, Marseilleveyre)
+      during summer high-risk days, the park requires a free online access
+      permit booked in advance. Rules and dates vary by year, so check the
+      official Parc national des Calanques website before you go.
   - q: Can I drive to the calanques?
-    a: Not directly. Cars are banned on the roads leading into the coves during peak season; you park at gated lots like Les Baumettes (for Sormiou) or the Morgiou gate and walk 30-45 minutes down to the water.
+    a: >-
+      Not directly. Cars are banned on the roads leading into the coves during
+      peak season; you park at gated lots like Les Baumettes (for Sormiou) or
+      the Morgiou gate and walk 30-45 minutes down to the water.
   - q: How long should I spend at the Calanques?
-    a: Budget at least half a day for one calanque, including the walk in and out. A full day lets you swim, eat something at a cabanon, and walk out before the afternoon heat peaks.
+    a: >-
+      Budget at least half a day for one calanque, including the walk in and
+      out. A full day lets you swim, eat something at a cabanon, and walk out
+      before the afternoon heat peaks.
   - q: What's the best way to avoid the crowds?
-    a: Arrive at the trailhead by 8am on foot or take the first available boat from the Vieux-Port; parking lots and popular coves like Sormiou fill up by mid-morning, especially on summer weekends.
+    a: >-
+      Arrive at the trailhead by 8am on foot or take the first available boat
+      from the Vieux-Port; parking lots and popular coves like Sormiou fill up
+      by mid-morning, especially on summer weekends.
   - q: Is it easy to combine with a Marseille city visit?
-    a: Yes — several access gates are a short bus or metro ride from central Marseille, so you can pair a morning at the calanques with an afternoon at the Vieux-Port or Notre-Dame de la Garde.
+    a: >-
+      Yes — several access gates are a short bus or metro ride from central
+      Marseille, so you can pair a morning at the calanques with an afternoon at
+      the Vieux-Port or Notre-Dame de la Garde.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 ## Why go
 

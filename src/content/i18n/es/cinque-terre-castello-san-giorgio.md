@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cinque-terre-castello-san-giorgio
-srcHash: 'deb40c1685dc'
+srcHash: '800456e19401'
 title: 'Castello San Giorgio: guía de viaje de Cinque Terre (4,4★)'
-description: 'El Castello San Giorgio se alza sobre La Spezia, fuera de los cinco pueblos de Cinque Terre, por lo que resulta fácil añadirlo como excursión de un día gracias a la línea de tren que conecta ambos destinos. 4,4★ (3.307 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Castello San Giorgio se alza sobre La Spezia, fuera de los cinco pueblos de Cinque Terre, por lo que resulta fácil añadirlo como excursión de un día gracias a la línea de tren que conecta ambos destinos. 4,4★ (3.308 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Castello San Giorgio se alza sobre La Spezia, fuera de los cinco pueblos de Cinque Terre, por lo que resulta fácil añadirlo como excursión de un día gracias a la línea de tren que conecta ambos destinos. Abre todos los días de 10:00 a 17:00, y la recompensa es una vista de 360 grados sobre el puerto de La Spezia y el Golfo de los Poetas. Conviene reservar entre 45 minutos y una hora para la visita, más si hay alguna exposición temporal en curso.
 faq:
   - q: ¿Está el Castello San Giorgio dentro de los pueblos de Cinque Terre?

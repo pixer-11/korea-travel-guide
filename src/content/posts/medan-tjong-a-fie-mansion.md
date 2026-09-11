@@ -1,37 +1,46 @@
 ---
-title: "Tjong A Fie Mansion: Medan Travel Guide (4.6★)"
-description: "Tjong A Fie Mansion is a beautifully restored 1895 merchant's house in Medan's old Kesawan district, open daily 9am–5pm with guided walk-throughs of its courtyards, ballroom and family altar. 4.6★ (3,603 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Medan"
-category: "attraction"
-pubDate: "2026-08-12T09:30:04.912Z"
+title: 'Tjong A Fie Mansion: Medan Travel Guide (4.6★)'
+description: >-
+  Tjong A Fie Mansion is a beautifully restored 1895 merchant's house in Medan's
+  old Kesawan district, open daily 9am–5pm with guided walk-throughs of its
+  courtyards, ballroom and family altar. 4.6★ (3,630 reviews) — what visitors
+  say, hours, and tips.
+country: Indonesia
+region: Medan
+category: attraction
+pubDate: '2026-08-12T09:30:04.912Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Skewed_Front_View%2C_Tjong_A_Fie_Mansion%2C_Medan.jpg/1920px-Skewed_Front_View%2C_Tjong_A_Fie_Mansion%2C_Medan.jpg"
-  credit: "Photo: Pratyeka / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Skewed_Front_View,_Tjong_A_Fie_Mansion,_Medan.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Skewed_Front_View%2C_Tjong_A_Fie_Mansion%2C_Medan.jpg/1920px-Skewed_Front_View%2C_Tjong_A_Fie_Mansion%2C_Medan.jpg
+  credit: 'Photo: Pratyeka / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Skewed_Front_View,_Tjong_A_Fie_Mansion,_Medan.jpg
 gallery: []
 place:
-  id: "ChIJZ4ThickxMTARvvjDDIvvrcw"
-  name: "Tjong A Fie Mansion"
-  address: "Jl. Jend. Ahmad Yani No.105, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia"
+  id: ChIJZ4ThickxMTARvvjDDIvvrcw
+  name: Tjong A Fie Mansion
+  address: >-
+    Jl. Jend. Ahmad Yani No.105, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera
+    Utara 20111, Indonesia
   rating: 4.6
-  userRatingsTotal: 3603
-  googleMapsUrl: "https://maps.google.com/?cid=14748707735201904830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3630
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14748707735201904830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.5855183999999998
   lng: 98.6805521
-  phone: "+62 811-6130-388"
+  phone: +62 811-6130-388
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -43,24 +52,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_77637276764944446a76765241544d786b63696854345a4a496843"
+    venueId: ven_77637276764944446a76765241544d786b63696854345a4a496843
 tags:
-  - "medan"
-  - "top attraction"
-quickAnswer: "Tjong A Fie Mansion is a beautifully restored 1895 merchant's house in Medan's old Kesawan district, open daily 9am–5pm with guided walk-throughs of its courtyards, ballroom and family altar. It's calmest right at opening on weekdays (9–10am); weekends stay busy from 11am to 4pm. Budget about 45–60 minutes."
+  - medan
+  - top attraction
+quickAnswer: >-
+  Tjong A Fie Mansion is a beautifully restored 1895 merchant's house in Medan's
+  old Kesawan district, open daily 9am–5pm with guided walk-throughs of its
+  courtyards, ballroom and family altar. It's calmest right at opening on
+  weekdays (9–10am); weekends stay busy from 11am to 4pm. Budget about 45–60
+  minutes.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tjong A Fie Mansion is open every day of the week, 9:00 AM to 5:00 PM. Confirm before visiting, as hours can shift around public holidays."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 9am and 10am are the calmest. On weekends, crowds build steadily and stay busy from 11am to 4pm, so aim for the moment it opens if you're going on a Saturday or Sunday."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes to an hour, including a guided walkthrough of the main rooms, courtyard, and small document gallery."
-  - q: "How do I get there?"
-    a: "It's in Kesawan on Jalan Jend. Ahmad Yani No.105, an easy walk from Merdeka Walk and the old Medan train station. Most visitors arrive by Grab, Gojek, or taxi, since street parking is limited."
-  - q: "Is it worth doing with other nearby sights?"
-    a: "Yes — pair it with a stroll past Kesawan's colonial shophouses and the old Medan train station, then finish at Merdeka Walk for food or coffee."
+  - q: What are the opening hours?
+    a: >-
+      Tjong A Fie Mansion is open every day of the week, 9:00 AM to 5:00 PM.
+      Confirm before visiting, as hours can shift around public holidays.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 9am and 10am are the calmest. On weekends, crowds
+      build steadily and stay busy from 11am to 4pm, so aim for the moment it
+      opens if you're going on a Saturday or Sunday.
+  - q: How long should I spend there?
+    a: >-
+      Plan for 45 minutes to an hour, including a guided walkthrough of the main
+      rooms, courtyard, and small document gallery.
+  - q: How do I get there?
+    a: >-
+      It's in Kesawan on Jalan Jend. Ahmad Yani No.105, an easy walk from
+      Merdeka Walk and the old Medan train station. Most visitors arrive by
+      Grab, Gojek, or taxi, since street parking is limited.
+  - q: Is it worth doing with other nearby sights?
+    a: >-
+      Yes — pair it with a stroll past Kesawan's colonial shophouses and the old
+      Medan train station, then finish at Merdeka Walk for food or coffee.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 
 ## Why go

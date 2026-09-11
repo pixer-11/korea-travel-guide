@@ -1,56 +1,79 @@
 ---
-title: "Castello San Giorgio: Cinque Terre Travel Guide (4.4★)"
-description: "Castello San Giorgio sits above La Spezia, not in one of the five Cinque Terre villages themselves, making it an easy add-on day trip via the train line that serves both. 4.4★ (3,307 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Cinque Terre"
-category: "attraction"
-pubDate: "2026-09-11T07:48:07.626Z"
+title: 'Castello San Giorgio: Cinque Terre Travel Guide (4.4★)'
+description: >-
+  Castello San Giorgio sits above La Spezia, not in one of the five Cinque Terre
+  villages themselves, making it an easy add-on day trip via the train line that
+  serves both. 4.4★ (3,308 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Cinque Terre
+category: attraction
+pubDate: '2026-09-11T07:48:07.626Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Castello_San_Giorgio_%28La_Spezia%29.jpg"
-  credit: "Photo: Tangopaso / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Castello_San_Giorgio_(La_Spezia).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f8/Castello_San_Giorgio_%28La_Spezia%29.jpg
+  credit: 'Photo: Tangopaso / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Castello_San_Giorgio_(La_Spezia).jpg'
+  via: act
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJw6bWSJj81BIRz0506xfO3os"
-  name: "Castello San Giorgio"
-  address: "Via XXVII Marzo, 36, 19121 La Spezia SP, Italy"
+  id: ChIJw6bWSJj81BIRz0506xfO3os
+  name: Castello San Giorgio
+  address: 'Via XXVII Marzo, 36, 19121 La Spezia SP, Italy'
   rating: 4.4
-  userRatingsTotal: 3307
-  googleMapsUrl: "https://maps.google.com/?cid=10078719618231586511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3308
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10078719618231586511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.106493099999994
   lng: 9.8218667
-  phone: "+39 0187 751142"
+  phone: +39 0187 751142
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "cinque terre"
-  - "museum"
-quickAnswer: "Castello San Giorgio sits above La Spezia, not in one of the five Cinque Terre villages themselves, making it an easy add-on day trip via the train line that serves both. It's open daily 10am to 5pm, and the payoff is a 360-degree view over La Spezia's port and the Gulf of Poets. Budget 45 minutes to an hour, more if the temporary exhibitions inside are running."
+  - cinque terre
+  - museum
+quickAnswer: >-
+  Castello San Giorgio sits above La Spezia, not in one of the five Cinque Terre
+  villages themselves, making it an easy add-on day trip via the train line that
+  serves both. It's open daily 10am to 5pm, and the payoff is a 360-degree view
+  over La Spezia's port and the Gulf of Poets. Budget 45 minutes to an hour,
+  more if the temporary exhibitions inside are running.
 faq:
-  - q: "Is Castello San Giorgio in the Cinque Terre villages themselves?"
-    a: "No. It's in La Spezia, the mainline rail hub just south of the five villages, so most people see it as a bookend to a Cinque Terre trip rather than a stop on the village-hopping day."
-  - q: "What are the opening hours?"
-    a: "Daily, 10am to 5pm, with no rest day listed. Confirm locally around public holidays since municipal museums sometimes adjust."
-  - q: "How do I get there from the train station?"
-    a: "It's about a 20-minute uphill walk from La Spezia Centrale through the old town, or a short taxi ride. There's no direct bus to the entrance."
-  - q: "How much time should I plan for the visit?"
-    a: "Around 45 minutes to an hour covers the museum and ramparts; add extra if a temporary exhibition is on."
-  - q: "What's the main thing to see inside?"
-    a: "The Lunigiana statue-stelae, carved prehistoric stone figures from the surrounding valleys, plus sweeping views over La Spezia's port and the Gulf of Poets from the terrace."
+  - q: Is Castello San Giorgio in the Cinque Terre villages themselves?
+    a: >-
+      No. It's in La Spezia, the mainline rail hub just south of the five
+      villages, so most people see it as a bookend to a Cinque Terre trip rather
+      than a stop on the village-hopping day.
+  - q: What are the opening hours?
+    a: >-
+      Daily, 10am to 5pm, with no rest day listed. Confirm locally around public
+      holidays since municipal museums sometimes adjust.
+  - q: How do I get there from the train station?
+    a: >-
+      It's about a 20-minute uphill walk from La Spezia Centrale through the old
+      town, or a short taxi ride. There's no direct bus to the entrance.
+  - q: How much time should I plan for the visit?
+    a: >-
+      Around 45 minutes to an hour covers the museum and ramparts; add extra if
+      a temporary exhibition is on.
+  - q: What's the main thing to see inside?
+    a: >-
+      The Lunigiana statue-stelae, carved prehistoric stone figures from the
+      surrounding valleys, plus sweeping views over La Spezia's port and the
+      Gulf of Poets from the terrace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 
 ## Why bother with a castle outside the villages

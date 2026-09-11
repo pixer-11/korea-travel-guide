@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: miami-joe-s-stone-crab
-srcHash: '61089090cf98'
+srcHash: '2a14a2037359'
 title: 'Joe''s Stone Crab: dónde comer en Miami (4.5★)'
-description: Joe's Stone Crab, en 11 Washington Ave, en el barrio de South of Fifth de Miami Beach, es la institución centenaria donde la temporada de cangrejo (aproximadamente de mediados de octubre a mediados de mayo) provoca filas hasta la puerta. 4.5★ (11,615 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: Joe's Stone Crab, en 11 Washington Ave, en el barrio de South of Fifth de Miami Beach, es la institución centenaria donde la temporada de cangrejo (aproximadamente de mediados de octubre a mediados de mayo) provoca filas hasta la puerta. 4.5★ (11,676 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Joe's Stone Crab, en 11 Washington Ave, en el barrio de South of Fifth de Miami Beach, es la institución centenaria donde la temporada de cangrejo (aproximadamente de mediados de octubre a mediados de mayo) provoca filas hasta la puerta. Cierra los lunes y martes, y la cocina solo abre de 5 a 10pm los miércoles y jueves, sumando servicio de almuerzo (11:30am–2:30pm) de viernes a domingo — espera que todo el fin de semana, desde el mediodía hasta el cierre, esté concurrido, así que prepárate para esperar sin importar a qué hora vayas.
 faq:
   - q: ¿Necesito reserva en Joe's Stone Crab?

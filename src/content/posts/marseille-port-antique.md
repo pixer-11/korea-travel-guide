@@ -1,23 +1,29 @@
 ---
 title: 'Port Antique: Marseille Travel Guide'
-description: Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre Bourse shopping mall in Marseille's 1st arrondissement, where you can walk right up to the actual Greek city walls and a stretch of Roman road, all set below street level in a quiet green pocket.
+description: >-
+  Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre
+  Bourse shopping mall in Marseille's 1st arrondissement, where you can walk
+  right up to the actual Greek city walls and a stretch of Roman road, all set
+  below street level in a quiet green pocket.
 country: France
 region: Marseille
 category: hidden-gem
 pubDate: '2026-07-30T09:59:36.005Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Port_antique_de_Marseille.jpg/1920px-Port_antique_de_Marseille.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Port_antique_de_Marseille.jpg/1920px-Port_antique_de_Marseille.jpg
   credit: 'Photo: Louis-Julien de la Bouëre / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Port_antique_de_Marseille.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Port_antique_de_Marseille.jpg'
 gallery: []
 place:
   id: ChIJk-G2C4zAyRIReBwPJdvJHWU
   name: Port Antique
-  address: 2 Rue Henri Barbusse, 13001 Marseille, France
+  address: '2 Rue Henri Barbusse, 13001 Marseille, France'
   rating: 4.5
-  userRatingsTotal: 1361
-  googleMapsUrl: https://maps.google.com/?cid=7286201715212098680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1379
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7286201715212098680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.297715
   lng: 5.3740853
@@ -47,19 +53,39 @@ place:
 tags:
   - marseille
   - hidden gem
-quickAnswer: Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre Bourse shopping mall in Marseille's 1st arrondissement, where you can walk right up to the actual Greek city walls and a stretch of Roman road, all set below street level in a quiet green pocket. It's open Tuesday to Sunday, 9:30am–6pm (closed Monday), and needs only 20–30 minutes — fold it into a walk from the Vieux-Port to Le Panier. Weekend afternoons draw the most people, so an earlier start keeps it peaceful.
+quickAnswer: >-
+  Jardin des Vestiges (Port Antique) is a small sunken park behind the Centre
+  Bourse shopping mall in Marseille's 1st arrondissement, where you can walk
+  right up to the actual Greek city walls and a stretch of Roman road, all set
+  below street level in a quiet green pocket. It's open Tuesday to Sunday,
+  9:30am–6pm (closed Monday), and needs only 20–30 minutes — fold it into a walk
+  from the Vieux-Port to Le Panier. Weekend afternoons draw the most people, so
+  an earlier start keeps it peaceful.
 faq:
   - q: How much time should I budget for Port Antique (Jardin des Vestiges)?
-    a: 20–30 minutes is enough for most visitors; history enthusiasts reading every panel might stretch it to 45 minutes.
+    a: >-
+      20–30 minutes is enough for most visitors; history enthusiasts reading
+      every panel might stretch it to 45 minutes.
   - q: Is there an entrance fee?
-    a: No, it's a free public garden with open access during opening hours — no ticket or booking required.
+    a: >-
+      No, it's a free public garden with open access during opening hours — no
+      ticket or booking required.
   - q: What are the opening hours?
-    a: Tuesday to Sunday, 9:30am–6pm. It's closed all day Monday, so plan your visit around that.
+    a: >-
+      Tuesday to Sunday, 9:30am–6pm. It's closed all day Monday, so plan your
+      visit around that.
   - q: When is it least crowded?
-    a: Weekend afternoons between 10am and 6pm draw the most visitors, so a weekday morning shortly after the 9:30am opening is your best bet for a quiet visit.
+    a: >-
+      Weekend afternoons between 10am and 6pm draw the most visitors, so a
+      weekday morning shortly after the 9:30am opening is your best bet for a
+      quiet visit.
   - q: What's nearby if I want to combine it with other sights?
-    a: It's a short walk from the Vieux-Port, the Centre Bourse mall (which also houses the Musée d'Histoire de Marseille), and the Le Panier neighborhood, making it easy to fold into a half-day loop of the old city center.
+    a: >-
+      It's a short walk from the Vieux-Port, the Centre Bourse mall (which also
+      houses the Musée d'Histoire de Marseille), and the Le Panier neighborhood,
+      making it easy to fold into a half-day loop of the old city center.
 aiGenerated: true
+updatedDate: '2026-09-11'
 ---
 You come down a short flight of steps off Rue Henri Barbusse, past the flank of the Centre Bourse mall, and the traffic noise just drops away. Below you is a sunken lawn scattered with stone: a curved line of massive limestone blocks, the worn ruts of a paved road, the stump of a tower. It doesn't look like much from the railing above, which is exactly why so many people walk past it without noticing.
 

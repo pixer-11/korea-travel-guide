@@ -1,32 +1,40 @@
 ---
-title: "Palais Longchamp: Marseille Travel Guide (4.6★)"
-description: "Palais Longchamp is Marseille's grandest 19th-century monument: a colonnaded water castle with a roaring central cascade, flanked by the city's Musée des Beaux-Arts and Muséum d'Histoire Naturelle, all set inside a leafy public park in the 4th arrondissement. 4.6★ (20,279 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Marseille"
-category: "attraction"
-pubDate: "2026-08-05T11:42:41.882Z"
+title: 'Palais Longchamp: Marseille Travel Guide (4.6★)'
+description: >-
+  Palais Longchamp is Marseille's grandest 19th-century monument: a colonnaded
+  water castle with a roaring central cascade, flanked by the city's Musée des
+  Beaux-Arts and Muséum d'Histoire Naturelle, all set inside a leafy public park
+  in the 4th arrondissement. 4.6★ (20,513 reviews) — what visitors say, hours,
+  and tips.
+country: France
+region: Marseille
+category: attraction
+pubDate: '2026-08-05T11:42:41.882Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Honeymoon-433_%2814586751896%29.jpg/1920px-Honeymoon-433_%2814586751896%29.jpg"
-  credit: "Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Honeymoon-433_(14586751896).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Honeymoon-433_%2814586751896%29.jpg/1920px-Honeymoon-433_%2814586751896%29.jpg
+  credit: 'Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Honeymoon-433_(14586751896).jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Palais_Longchamp_3.jpg/3840px-Palais_Longchamp_3.jpg"
-    credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palais_Longchamp_3.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Palais_Longchamp_3.jpg/3840px-Palais_Longchamp_3.jpg
+    credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Palais_Longchamp_3.jpg'
 place:
-  id: "ChIJgUObVWK_yRIRd6M73U2Mdeg"
-  name: "Palais Longchamp"
-  address: "Bd Jard. Zoologique, 13004 Marseille, France"
+  id: ChIJgUObVWK_yRIRd6M73U2Mdeg
+  name: Palais Longchamp
+  address: 'Bd Jard. Zoologique, 13004 Marseille, France'
   rating: 4.6
-  userRatingsTotal: 20279
-  googleMapsUrl: "https://maps.google.com/?cid=16750448655126471543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20513
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16750448655126471543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.304266899999995
   lng: 5.3946029
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 19
@@ -50,24 +58,47 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6765644d325533374d3664524952795f4b5756624f55674a496843"
+    venueId: ven_6765644d325533374d3664524952795f4b5756624f55674a496843
 tags:
-  - "marseille"
-  - "historic site"
-quickAnswer: "Palais Longchamp is Marseille's grandest 19th-century monument: a colonnaded water castle with a roaring central cascade, flanked by the city's Musée des Beaux-Arts and Muséum d'Histoire Naturelle, all set inside a leafy public park in the 4th arrondissement. It's free to walk the grounds and fountains (museums charge a small entry fee), and you can see the highlights in under an hour or linger for two in the surrounding gardens. Go right at opening, around 8am, before the plaza fills with families and photographers later in the day."
+  - marseille
+  - historic site
+quickAnswer: >-
+  Palais Longchamp is Marseille's grandest 19th-century monument: a colonnaded
+  water castle with a roaring central cascade, flanked by the city's Musée des
+  Beaux-Arts and Muséum d'Histoire Naturelle, all set inside a leafy public park
+  in the 4th arrondissement. It's free to walk the grounds and fountains
+  (museums charge a small entry fee), and you can see the highlights in under an
+  hour or linger for two in the surrounding gardens. Go right at opening, around
+  8am, before the plaza fills with families and photographers later in the day.
 faq:
-  - q: "Is Palais Longchamp free to visit?"
-    a: "Yes — the plaza, fountain, colonnade, and surrounding park are free to walk around. Only the two museums inside (Musée des Beaux-Arts and Muséum d'Histoire Naturelle) charge a small entrance fee."
-  - q: "How do I get to Palais Longchamp?"
-    a: "Take Métro Line 1 to Cinq Avenues Longchamp station, which lets out almost at the front gate. It's also a 15–20 minute uphill walk from the Vieux-Port along Boulevard Longchamp."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "The calmest window is 8am–10pm on both weekdays and weekends. Weekends get busy between 10am and 6pm, so aim for a morning visit around 8–9am if you want quiet photos."
-  - q: "How long should I plan to spend there?"
-    a: "Seeing the fountain, colonnade, and plaza takes 30–45 minutes. Add 45 minutes to an hour for each museum, and extra time if you want to wander the park behind the palace."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Cours Julien district, with its street art and cafés, is a walkable 20-minute stroll south, and La Canebière and the Old Port are both reachable on foot or via the same métro line."
+  - q: Is Palais Longchamp free to visit?
+    a: >-
+      Yes — the plaza, fountain, colonnade, and surrounding park are free to
+      walk around. Only the two museums inside (Musée des Beaux-Arts and Muséum
+      d'Histoire Naturelle) charge a small entrance fee.
+  - q: How do I get to Palais Longchamp?
+    a: >-
+      Take Métro Line 1 to Cinq Avenues Longchamp station, which lets out almost
+      at the front gate. It's also a 15–20 minute uphill walk from the
+      Vieux-Port along Boulevard Longchamp.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      The calmest window is 8am–10pm on both weekdays and weekends. Weekends get
+      busy between 10am and 6pm, so aim for a morning visit around 8–9am if you
+      want quiet photos.
+  - q: How long should I plan to spend there?
+    a: >-
+      Seeing the fountain, colonnade, and plaza takes 30–45 minutes. Add 45
+      minutes to an hour for each museum, and extra time if you want to wander
+      the park behind the palace.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      The Cours Julien district, with its street art and cafés, is a walkable
+      20-minute stroll south, and La Canebière and the Old Port are both
+      reachable on foot or via the same métro line.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-11'
 ---
 
 You see the towers before you see the building. Walking up Boulevard Longchamp from the Cinq Avenues métro stop, the street narrows between plane trees, then suddenly opens onto a wide gravel plaza and there it is: two curved stone wings sweeping toward each other like open arms, water crashing down the middle in a stepped cascade, bronze bulls glinting on the parapet above. It's a strange, theatrical thing to find in the middle of a residential neighborhood, and that's exactly the point. This was built to be seen.

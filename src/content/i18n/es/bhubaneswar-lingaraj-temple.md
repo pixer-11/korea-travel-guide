@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bhubaneswar-lingaraj-temple
-srcHash: '9578f9e673a6'
+srcHash: 'bde4313a9ae8'
 title: 'Templo de Lingaraj: guía de viaje de Bhubaneswar (4,7★)'
-description: 'El templo de Lingaraj, en la Ciudad Vieja de Bhubaneswar, abre todos los días de 6:30 a 19:30, y la franja más tranquila para visitarlo es de 7:00 a 8:00, cualquier día de la semana. 4,7★ (44.752 reseñas): lo que dicen los visitantes, los horarios y algunos consejos.'
+description: 'El templo de Lingaraj, en la Ciudad Vieja de Bhubaneswar, abre todos los días de 6:30 a 19:30, y la franja más tranquila para visitarlo es de 7:00 a 8:00, cualquier día de la semana. 4,7★ (44.750 reseñas): lo que dicen los visitantes, los horarios y algunos consejos.'
 quickAnswer: El templo de Lingaraj, en la Ciudad Vieja de Bhubaneswar, abre todos los días de 6:30 a 19:30, y la franja más tranquila para visitarlo es de 7:00 a 8:00, cualquier día de la semana. Conviene evitar el tramo entre las 17:00 y las 19:00 los fines de semana, cuando el recinto se llena más rápido. Hay que tener en cuenta que el santuario principal está reservado para hindúes y visitantes de fe índica, aunque la plataforma exterior permite a los no hindúes contemplar por completo la torre del siglo XI.
 faq:
   - q: ¿Cuál es el horario del templo de Lingaraj?
