@@ -91,6 +91,12 @@ const venue = d.place?.name || String(d.title).split(':')[0];
     ))}
   </div>
   <div class="lab"><span>7am</span><span>2pm</span><span>10pm</span></div>
-  <p class="via">Data & guide: <a href={postUrl} target="_blank" rel="noopener">{venue} on {SITE.name}</a></p>
+  {/* Both names, because BestTime measured these hours and our own /api/ page
+      states the required attribution as "Crowd data by Wander Atlas, measured
+      by BestTime.app". Every card we handed out carried only half of that
+      (2026-09-11). Display inside a functional UI is the permitted use under
+      their §5.3, and the attribution is what keeps it clearly that. */}
+  <p class="via">Data &amp; guide: <a href={postUrl} target="_blank" rel="noopener">{venue} on {SITE.name}</a>
+    <br />Crowd hours measured by <a href="https://besttime.app" target="_blank" rel="noopener">BestTime.app</a></p>
 </body>
 </html>
