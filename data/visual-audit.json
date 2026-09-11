@@ -18389,5 +18389,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Tunnel entrance with mine cart, representative museum scene",
     "at": "2026-09-11T07:50:23.223Z"
+  },
+  "khiva-nurullaboy-palace\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Nurullah_Bai_Palace%2C_Khiva_%28481513%29.jpg": {
+    "slug": "khiva-nurullaboy-palace",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of tiled arched palace building, representative view",
+    "at": "2026-09-11T13:36:01.618Z"
   }
 }

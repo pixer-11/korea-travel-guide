@@ -4137,11 +4137,11 @@
   "at": "2026-08-15T02:44:44.298Z"
  },
  "ja/ayutthaya-wat-phra-si-sanphet": {
-  "hash": "713de1b028db",
+  "hash": "4a89c10a7a4a",
   "score": 1,
   "registerBreak": false,
-  "worst": "この事実は重要で、なぜビルマ軍が1767年にこの都市を攻略した際に、その仏像から金の装飾を剥ぎ取り溶かしたのかを説明してくれます。",
-  "at": "2026-08-15T02:44:46.750Z"
+  "worst": "プラットフォームによっては素足での立ち入りを求められることもあるため、脱ぎやすい靴を選んでください。",
+  "at": "2026-09-11T13:37:34.323Z"
  },
  "ja/baguio-tam-awan-village": {
   "hash": "12effc89e9f3",
@@ -10199,11 +10199,11 @@
   "at": "2026-08-15T03:14:50.341Z"
  },
  "es/ayutthaya-wat-phra-si-sanphet": {
-  "hash": "48988e5f75c6",
+  "hash": "59e6e66d5349",
   "score": 1,
   "registerBreak": false,
-  "worst": "El parque abre de 8am a 7pm, y todo ese horario cuenta como el tramo más tranquilo del día",
-  "at": "2026-08-15T03:14:54.108Z"
+  "worst": "equivale en esencia a seguir la huella de un palacio que ya no existe por encima de la altura de una rodilla",
+  "at": "2026-09-11T13:37:24.983Z"
  },
  "es/bangkok-cheaper-better-street-food": {
   "hash": "470fcade6740",
@@ -16128,11 +16128,11 @@
   "at": "2026-08-15T03:42:07.250Z"
  },
  "zh/ayutthaya-wat-phra-si-sanphet": {
-  "hash": "1aa42995670b",
+  "hash": "d912e66feba2",
   "score": 1,
   "registerBreak": false,
-  "worst": "根据游客流量数据来看，整段时间相对来说都算是比较宁静的——但其中，周末上午10点到下午5点是曼谷一日游团和游客最集中的高峰时段。",
-  "at": "2026-08-15T03:42:09.122Z"
+  "worst": "这种\"空无\"恰恰是重点所在。",
+  "at": "2026-09-11T13:37:38.345Z"
  },
  "zh/baguio-tam-awan-village": {
   "hash": "46ab4e916344",
@@ -28070,11 +28070,11 @@
   "at": "2026-09-07T10:46:22.510Z"
  },
  "ko/ayutthaya-wat-phra-si-sanphet": {
-  "hash": "d6fd8d4f7d5e",
+  "hash": "d022176851d8",
   "score": 1,
   "registerBreak": false,
-  "worst": "바로 그 '없음'이 이곳의 핵심입니다. 이곳은 4세기에 걸쳐 아유타야 왕국의 정신적 중심지였고",
-  "at": "2026-09-07T13:33:35.347Z"
+  "worst": "이 사실은 알아두실 만한데, 1767년 버마군이 아유타야를 함락시켰을 때 이 불상의 금박을 벗겨내 녹여버린 이유를 설명해",
+  "at": "2026-09-11T13:37:36.769Z"
  },
  "ko/ankara-ankara-castle": {
   "hash": "1d7b27b785b3",
@@ -28530,5 +28530,33 @@
   "registerBreak": false,
   "worst": "美术博物馆是波士顿行程中人气极高的一站，绝非什么冷门秘境，所以规划行程时要提前考虑人流",
   "at": "2026-09-11T07:57:17.613Z"
+ },
+ "es/khiva-nurullaboy-palace": {
+  "hash": "0e667984dd15",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "se puede uno acercar a las pinturas del techo y a los azulejos con una cercanía que resulta",
+  "at": "2026-09-11T13:37:46.578Z"
+ },
+ "ja/khiva-nurullaboy-palace": {
+  "hash": "6af54aff6cfb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "謁見の間には彩色された漆喰天井やシャンデリア、輸入家具が並び、直前まで見ていたイチャン・カラ内部の彫刻を施した木の柱や青いタイル張りの外観とは、いかにも不釣り合いな雰囲気",
+  "at": "2026-09-11T13:37:49.988Z"
+ },
+ "ko/khiva-nurullaboy-palace": {
+  "hash": "b42329868e45",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "당시 히바의 통치자들은 러시아와 유럽 방문객들의 장식 양식을 받아들이던 시기였고, 그 흔적이 궁전 곳곳에 곧바로 드러납니다.",
+  "at": "2026-09-11T13:38:00.584Z"
+ },
+ "zh/khiva-nurullaboy-palace": {
+  "hash": "51637e10a1db",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这座宫殿建于20世纪初，是为穆罕默德·拉希姆汗二世（Muhammad Rahim Khan II）之子阿斯凡迪亚尔汗（Asfandiyar Khan）所建。",
+  "at": "2026-09-11T13:38:04.195Z"
  }
 }
