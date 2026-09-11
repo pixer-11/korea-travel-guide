@@ -4,14 +4,38 @@ import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
+import { MONTHS, monthSlug, monthComfort, bestMonth } from '../lib/when-to-go.mjs';
 
 // The grid every country-month page links back to. Its job is to be the one page
 // a crawler can reach every one of the 204 from, and to let a reader who knows
 // only "somewhere in March" start from the month instead of the country.
-interface Props { countries: { country: string; slug: string; venues: number }[]; lang: Lang }
+//
+// Until 2026-09-11 it did only the first half of that: 240 identical grey chips,
+// the lowest information density on the site on the page that carries its one
+// real differentiator. Every chip now carries the month's average daytime high
+// and a colour, so the shape of a country's year is readable without clicking.
+//
+// The colour is RELATIVE, and the legend says so. Ranking months against an
+// absolute comfort band collapses in the tropics — Bangkok and Siem Reap are
+// above 32C every month, so the dry season scored the same as the monsoon. Each
+// month is ranked inside its own country's year instead (lib/when-to-go.mjs).
+//
+// And each row names the CITY its numbers come from. The record for "China" is
+// Guangzhou and for the United States is New Orleans; colouring a country row
+// without saying so would be a claim this data cannot support.
+interface CountryRow {
+  country: string;
+  slug: string;
+  venues: number;
+  climate?: { m: number; hi: number; lo: number; rain: number }[] | null;
+  climateCity?: string | null;
+  climateYears?: number | null;
+}
+interface Props { countries: CountryRow[]; lang: Lang }
 const { countries, lang } = Astro.props;
 const t = useTranslations(lang);
+const fill = (key: string, vars: Record<string, string | number>) =>
+  Object.entries(vars).reduce((s, [k, v]) => s.replaceAll(`{${k}}`, String(v)), t(key as any));
 
 const monthName = (m: number) =>
   new Intl.DateTimeFormat(localeCodes[lang], { month: 'long' }).format(new Date(Date.UTC(2026, m - 1, 1)));
@@ -23,6 +47,28 @@ const dek = t('wtg.indexDek');
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const path = (c: string, m: number) => localizePath(`/tools/when-to-go/${c}/${monthSlug(m)}`, lang);
+
+// Precomputed once per row, not per chip.
+const rows = countries.map((c) => {
+  const comfort = c.climate ? monthComfort(c.climate) : null;
+  const best = c.climate ? bestMonth(c.climate) : null;
+  return {
+    ...c,
+    byMonth: new Map((comfort ?? []).map((x) => [x.m, x])),
+    best,
+  };
+});
+
+// Every record we hold is a 10-year normal; read it off the data rather than
+// hardcoding, so a future refresh that widens the window updates the sentence.
+const years = countries.find((c) => c.climateYears)?.climateYears ?? 10;
+
+const LEGEND = [
+  { band: 'good', label: t('wtg.idxGood') },
+  { band: 'fine', label: t('wtg.idxFine') },
+  { band: 'fair', label: t('wtg.idxFair') },
+  { band: 'harsh', label: t('wtg.idxHarsh') },
+];
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -48,21 +94,56 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtgi">
-    <h1>{title}</h1>
-    <p class="dek">{dek}</p>
+    <header class="wtgi-head">
+      <h1>{title}</h1>
+      <p class="dek">{dek}</p>
+      <p class="how">{t('wtg.idxHow')}</p>
+      <ul class="legend">
+        {LEGEND.map((l) => (
+          <li><span class={`sw b-${l.band}`} aria-hidden="true"></span>{l.label}</li>
+        ))}
+      </ul>
+    </header>
 
-    {countries.map((c) => (
+    {rows.map((c) => (
       <section class="wtgi-row">
-        <h2>{localizePlace(c.country, lang)}</h2>
-        <ul>
-          {MONTHS.map((m) => (
-            <li><a href={path(c.slug, m)} title={`${localizePlace(c.country, lang)} · ${monthName(m)}`}>{monthShort(m)}</a></li>
-          ))}
+        <div class="who">
+          <h2>{localizePlace(c.country, lang)}</h2>
+          <p class="meta">
+            {c.climateCity && <span>{fill('wtg.idxBasis', { city: localizePlace(c.climateCity, lang) })}</span>}
+            {c.climateCity && c.venues > 0 && <span class="sep" aria-hidden="true">·</span>}
+            {c.venues > 0 && <span>{fill('wtg.idxGuides', { n: c.venues })}</span>}
+          </p>
+        </div>
+
+        <ul class="months">
+          {MONTHS.map((m) => {
+            const x = c.byMonth.get(m);
+            return (
+              <li>
+                <a
+                  href={path(c.slug, m)}
+                  class={`chip b-${x?.band ?? 'none'}`}
+                  title={`${localizePlace(c.country, lang)} · ${monthName(m)}`}
+                >
+                  <span class="mo">{monthShort(m)}</span>
+                  {x && <span class="hi">{x.hi}°</span>}
+                </a>
+              </li>
+            );
+          })}
         </ul>
+
+        {c.best && (
+          <p class="best">
+            <span class="best-k">{t('wtg.idxBest')}</span>
+            <a href={path(c.slug, c.best.m)}>{monthShort(c.best.m)}</a>
+          </p>
+        )}
       </section>
     ))}
 
-    <p class="disclosure">{t('wtg.source')}</p>
+    <p class="disclosure">{fill('wtg.idxSource', { years })}</p>
   </article>
 
   <Newsletter lang={lang} />
@@ -70,16 +151,66 @@ const jsonLd = {
 
 <style>
   .wtgi { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
-  .wtgi h1 { margin: 0 0 0.5rem; }
-  .dek { color: var(--muted); margin: 0 0 2rem; }
-  .wtgi-row { margin-bottom: 1.4rem; padding-bottom: 1.1rem; border-bottom: 1px solid var(--line-soft); }
-  .wtgi-row h2 { font-size: 1rem; margin: 0 0 0.55rem; }
-  .wtgi-row ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .wtgi-row a {
-    display: inline-block; min-width: 3.2rem; text-align: center;
-    padding: 0.35rem 0.6rem; border: 1px solid var(--line); border-radius: var(--r-sm);
-    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.85rem;
+  .wtgi-head h1 { margin: 0 0 0.5rem; }
+  .dek { color: var(--muted); margin: 0 0 0.6rem; }
+  .how { color: var(--ink-soft); margin: 0 0 1rem; font-size: 0.92rem; max-width: 54rem; }
+
+  .legend { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem 1.1rem;
+    margin: 0 0 1.8rem; padding: 0; font-size: 0.82rem; color: var(--ink-soft); }
+  .legend li { display: flex; align-items: center; gap: 0.4rem; }
+  .sw { width: 0.85rem; height: 0.85rem; border-radius: 999px; border: 1px solid var(--line-strong); }
+
+  /* Name, the twelve months, then the answer — and on a narrow screen the same
+     three things stacked, which is why this is a grid and not a flex row. */
+  .wtgi-row {
+    display: grid; grid-template-columns: minmax(8.5rem, 13rem) 1fr auto;
+    align-items: center; gap: 0.6rem 1rem;
+    padding: 0.7rem 0; border-bottom: 1px solid var(--line-soft);
   }
-  .wtgi-row a:hover { border-color: var(--accent); color: var(--accent); }
+  .wtgi-row h2 { font-size: 1rem; margin: 0; }
+  .meta { margin: 0.15rem 0 0; font-size: 0.76rem; color: var(--muted); }
+  .meta .sep { margin: 0 0.3rem; }
+
+  .months { list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(12, minmax(0, 3.6rem));
+    justify-content: start; gap: 0.22rem; }
+  .chip {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 0.05rem; padding: 0.3rem 0.1rem; min-height: 2.7rem;
+    border: 1px solid transparent; border-radius: var(--r-sm);
+    text-decoration: none; line-height: 1.1;
+  }
+  .chip .mo { font-size: 0.7rem; font-weight: 600; }
+  .chip .hi { font-size: 0.72rem; opacity: 0.85; font-variant-numeric: tabular-nums; }
+  .chip:hover, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* The site's existing quiet/busy language: green reads "go", red reads
+     "don't" to anyone who has seen a crowd chart here. */
+  .b-good  { background: #b4dfc6; color: #0f4630; border-color: #7fc4a0; }
+  .b-fine  { background: #e6efe7; color: #38553f; border-color: #c4d8ca; }
+  .b-fair  { background: #f7dccf; color: #8a422f; border-color: #e6b9a3; }
+  .b-harsh { background: #eeb9a8; color: #7c2117; border-color: #d98e77; }
+  .b-none  { background: var(--surface); color: var(--ink); border-color: var(--line); }
+
+  .best { margin: 0; text-align: right; font-size: 0.7rem; color: var(--muted); white-space: nowrap; }
+  .best-k { display: block; letter-spacing: 0.02em; }
+  .best a { color: var(--accent-text); font-weight: 800; text-decoration: none;
+    font-size: 1.05rem; line-height: 1.3; }
+  .best a:hover { text-decoration: underline; }
+
   .disclosure { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+
+  @media (max-width: 46rem) {
+    .wtgi-row { grid-template-columns: 1fr auto; }
+    .months { grid-column: 1 / -1; grid-template-columns: repeat(6, minmax(0, 1fr)); }
+    .best { text-align: left; align-self: end; }
+    .best-k { display: inline; margin-right: 0.35rem; }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .b-good  { background: #1f5b40; color: #b6e8ca; border-color: #2f7a56; }
+    .b-fine  { background: #2b352e; color: #c2d2c7; border-color: #3d4b42; }
+    .b-fair  { background: #4a3027; color: #eab49f; border-color: #64402f; }
+    .b-harsh { background: #63291d; color: #f7b3a2; border-color: #85392a; }
+  }
 </style>

@@ -131,3 +131,62 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
     venueCount: countryPosts.length,
   };
 }
+
+
+/**
+ * How one country's twelve months compare TO EACH OTHER.
+ *
+ * Deliberately relative, and the page says so. The first attempt scored months
+ * against an absolute comfort band (18-28C, low rain) and fell over in the
+ * tropics: Bangkok and Siem Reap sit above 32C every month of the year, so the
+ * dry season everyone actually travels in came back "avoid" along with the
+ * monsoon. Ranking each month inside its own country fixes that and holds in
+ * every climate — Seoul's April and Bangkok's December both come out at the
+ * mild, dry end of their own year, which is the question a reader is asking.
+ *
+ * Checked against the twenty countries we publish: Cambodia/Thailand/Vietnam
+ * peak Nov-Feb, Hong Kong and Taiwan avoid Jun-Sep, Korea peaks Apr-May and
+ * Oct. Those are the real seasons.
+ *
+ * Rain carries slightly more weight than temperature: a wet month is felt every
+ * day of a trip, a warm one is planned around.
+ *
+ * NOT a claim about a whole country. The climate record is one city — China is
+ * Guangzhou, the United States is New Orleans — so anything rendering this must
+ * name that city beside it.
+ */
+export function monthComfort(climate) {
+  if (!Array.isArray(climate) || climate.length !== 12) return null;
+  const rains = climate.map((c) => c.rain);
+  const his = climate.map((c) => c.hi);
+  const yearRain = rains.reduce((a, b) => a + b, 0) || 1;
+  // Distance from 22C, the middle of what most people walk around in happily.
+  const dist = his.map((h) => Math.abs(h - 22));
+  const span = (arr, v) => {
+    const min = Math.min(...arr);
+    const max = Math.max(...arr);
+    return max === min ? 0.5 : (v - min) / (max - min);
+  };
+  return climate.map((c, i) => {
+    const score = span(rains, c.rain) * 0.55 + span(dist, dist[i]) * 0.45;
+    return {
+      m: c.m,
+      hi: c.hi,
+      lo: c.lo,
+      rain: c.rain,
+      share: Math.round((c.rain / yearRain) * 100),
+      score,
+      // Four bands because that is as fine as this evidence gets. A country
+      // whose year barely varies (Singapore) lands almost everything in the
+      // middle two, which is the honest answer for Singapore.
+      band: score <= 0.28 ? 'good' : score <= 0.5 ? 'fine' : score <= 0.72 ? 'fair' : 'harsh',
+    };
+  });
+}
+
+/** The mildest, driest month of that country's own year, or null. */
+export function bestMonth(climate) {
+  const c = monthComfort(climate);
+  if (!c) return null;
+  return [...c].sort((a, b) => a.score - b.score)[0];
+}

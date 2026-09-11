@@ -50,12 +50,22 @@ export async function whenToGoCountries() {
   const slugOf = new Map(countriesData.countries.map((c) => [c.name, c.slug]));
   return eligibleCountries(countryFacts)
     .filter((c) => slugOf.has(c))
-    .map((country) => ({
-      country,
-      // The filter above guarantees this; the ?? keeps the type honest.
-      slug: slugOf.get(country) ?? country,
-      venues: posts.filter((p) => (p.data.country ?? 'South Korea') === country).length,
-    }))
+    .map((country) => {
+      const facts = (countryFacts.countries ?? countryFacts)[country] ?? {};
+      return {
+        country,
+        // The filter above guarantees this; the ?? keeps the type honest.
+        slug: slugOf.get(country) ?? country,
+        venues: posts.filter((p) => (p.data.country ?? 'South Korea') === country).length,
+        // The index colours each month from these. The CITY travels with them
+        // on purpose: the record for "China" is Guangzhou and for the United
+        // States is New Orleans, so a row showing the colours without naming
+        // the city would be a claim about a country this data cannot make.
+        climate: facts.climate ?? null,
+        climateCity: facts.climateCity ?? null,
+        climateYears: facts.climateYears ?? null,
+      };
+    })
     .sort((a, b) => b.venues - a.venues || a.country.localeCompare(b.country));
 }
 
