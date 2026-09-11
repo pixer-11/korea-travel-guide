@@ -88,6 +88,29 @@ export const ANCHOR_STOP = new Set([
 // 2026-08-22 "Vietnamese Super Cup" → twelve German handball Super Cups).
 export const COMMON_ANCHOR = /^(forever|football|soccer|super|moon|open|autumn|spring|summer|winter|snooker|festival|fest|cup|final|live|show|night|day|street|park|city|world|music|art|food|film|beer|wine|light|fire|water|sea|lake|river|hill|mountain|garden|market)$/;
 
+// Is this word ordinary English, and therefore not identity on its own?
+//
+// COMMON_ANCHOR above is the hand-written half and it can never be finished —
+// "quick", "one", "style" and "surprises" were all missing from it, and each
+// one shipped a photo of something else (2026-09-10). The measured half comes
+// from our own guides: a word our English prose writes in lower case
+// mid-sentence is an ordinary word, a word it never lower-cases is a name.
+// Rebuilt by scripts/build-common-words.mjs; see that file for the numbers.
+//
+// Read with readFileSync, not a JSON import: this module is also loaded by
+// plain-TS checks where a .json import needs resolveJsonModule.
+import { readFileSync as _readCommonWords } from 'node:fs';
+const COMMON_WORDS = (() => {
+  try {
+    const raw = JSON.parse(_readCommonWords(new URL('../../data/common-words.json', import.meta.url), 'utf8'));
+    return new Set(raw.words ?? []);
+  } catch { return new Set(); }
+})();
+export const isCommonAnchor = (w) => {
+  const t = String(w ?? '').toLowerCase();
+  return !!t && (COMMON_ANCHOR.test(t) || COMMON_WORDS.has(t));
+};
+
 // Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",
 // "Post Malone – Big Ass World Tour" -> "malone", "UFC Fight Night …" -> "ufc".
 export const keyToken = (s = '', exclude = '') => {

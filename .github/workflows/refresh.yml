@@ -121,6 +121,13 @@ jobs:
           echo "galleryremoved=$(echo "$s" | sed 's/.* galleryremoved=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "outage=$(echo "$s" | sed 's/.* outage=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
 
+      # Which words are ordinary English, measured from our own guides rather
+      # than listed by hand — the event hero search asks it of every anchor it
+      # picks. The corpus grows daily, so the answer drifts; rebuilding it here
+      # keeps it current without a commit every night. Costs nothing external.
+      - name: Rebuild the measured common-word list
+        run: node scripts/build-common-words.mjs
+
       - name: Commit updates
         run: |
           git config user.name "content-bot"
@@ -136,7 +143,8 @@ jobs:
           # four translations kept the old one, and the srcHash re-stamp meant to
           # spare a re-translation never survived to be read.
           git add src/content/posts src/content/i18n data/translation-quality.json \
-                  data/refresh-cursor.json data/visual-audit.json data/places-budget.json
+                  data/refresh-cursor.json data/visual-audit.json data/places-budget.json \
+                  data/common-words.json
           # A staged DELETION here is never this job's intent: it only rewrites
           # figures in files that already exist. Windows disk cleanup emptied a
           # worktree on 2026-08-13 and a directory-wide `git add` is exactly how

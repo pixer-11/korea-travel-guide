@@ -7,9 +7,26 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { foreignInFilename, geoTokens } from './event-file-identity.mjs';
 import { tokens, keyToken } from './commons.mjs';
+import { readFileSync } from 'node:fs';
+import { eventProperName } from '../../src/lib/eventName.mjs';
 
 const U = (f) => `https://upload.wikimedia.org/wikipedia/commons/a/b/${encodeURIComponent(f)}`;
 const known = (...parts) => new Set(parts.flatMap((p) => tokens(p)));
+
+// 실제 판정 한 번: 제목에서 앵커를 뽑고, 진짜 세계 지명 집합을 쓰고, act 경로로
+// 묻는다 — 앵커 검색이 물어온 파일이 지나는 바로 그 경로다.
+const WORLD = JSON.parse(readFileSync('data/countries.json', 'utf8'));
+const REAL_GEO = geoTokens({
+  regions: (WORLD.countries || []).flatMap((c) => c.regions || []),
+  countries: (WORLD.countries || []).map((c) => c.name),
+});
+const actVerdict = (title, region, country, file) => foreignInFilename(U(file), {
+  known: known(title, region, country),
+  anchor: keyToken(title, `${region} ${country}`),
+  via: 'act',
+  geo: REAL_GEO,
+  name: eventProperName(title),
+});
 
 test('venue finds: scene words are not another act', () => {
   const k = known('PLK Stade de France Concerts', 'Paris', 'France', 'Stade de France');
@@ -170,4 +187,54 @@ test('네 단어 완화가 Para Asian Games 를 다시 열지 않는다', () => 
   const ka = known('Asian Games 2026', 'Nagoya', 'Japan');
   const geo = geoTokens({ regions: ['Nagoya', 'Hangzhou'], countries: ['Japan'] });
   assert.notEqual(foreignInFilename(U('3840px-Penutupan Para Asian Games 2018.jpg'), { known: ka, via: 'phrase', name: 'Asian Games', geo }), '');
+});
+
+
+// 2026-09-11 픽서님: 앵커 단어 문제도 고쳐라.
+// 앵커는 제목에서 고른 단어 하나이고, 한 단어는 신원이 아니었다. 손으로 적은
+// COMMON_ANCHOR 목록에 빠진 평범한 단어가 그대로 신원 대접을 받았다:
+//   "quick" → 영국 포병대, "one" → 컨테이너선, "surprises" → 에미레이트 여객기.
+// 이제 isCommonAnchor 가 우리 글에서 그 단어가 소문자로 쓰이는지를 보고 판단하고
+// (scripts/build-common-words.mjs), 그것과 별개로 파일명의 나머지 단어가 다른
+// 것을 가리키면 거부한다. 양방향 둘 다 이 파일이 지킨다.
+test('앵커가 평범한 단어면 한 단어만으로 통과시키지 않는다', () => {
+  const bad = [
+    ['Quick Style India Tour 2026: What to Know (Chandigarh)', 'Chandigarh', 'India',
+     'Shoeburyness Quick Fire Battery.jpg'],
+    ['One Universe Festival 2026: What to Know (Incheon)', 'Incheon', 'South Korea',
+     'Tollerort (COSCO Shipping Universe - One Recognition - Elbskipper).jpg'],
+    ['Dubai Summer Surprises (DSS) 2026: What to Know (Dubai)', 'Dubai', 'United Arab Emirates',
+     'A6-EMO B777-31H Emirates(Summer Surprises) MAN 15FEB03.jpg'],
+    ['Grand Mint Festival 2026: Dates, Tickets & Venue (Seoul)', 'Seoul', 'South Korea',
+     'Shillings of John II Casimir Vasa, minted in the Vilnius Mint in the middle of the 17th century.jpg'],
+    ['Indonesia Comic Con 2026: Dates, Tickets & Venue (Tangerang)', 'Tangerang', 'Indonesia',
+     'Cosplayers @ Comic Con Chile 2026.jpg'],
+    ['World Athletics Continental Tour Silver Meet (Indian Open): What to Know (Bhubaneswar)', 'Bhubaneswar', 'India',
+     'Nadezhda Dubovitskaya at 2022 Belgrade World Athletics Indoor Championships.jpg'],
+    // 앵커가 이름이어도(ultra) 파일명 나머지가 통째로 다른 행사면 거부한다.
+    ['Ultra Japan 2026: Dates, Tickets & Venue (Tokyo)', 'Tokyo', 'Japan',
+     'Lokyii in Drive In Ultra LOVFINITY Vivienne Tam x Leon Lai Fashion Concert 20221218.jpg'],
+  ];
+  for (const [title, region, country, file] of bad) {
+    assert.notEqual(actVerdict(title, region, country, file), '', `통과하면 안 됨: ${file}`);
+  }
+});
+
+test('진짜 그 출연자·그 행사의 사진은 계속 통과한다', () => {
+  const good = [
+    ['The Weeknd – Hyundai Card Super Concert 28: Dates, Tickets & Venue (Goyang)', 'Goyang', 'South Korea',
+     'The Weeknd at Bumbershoot 2015 (21367628469).jpg'],
+    ['Evanescence Madrid 2026: Dates, Tickets & Venue (Madrid)', 'Madrid', 'Spain',
+     'Evanescence at concert in San Petersburg.jpg'],
+    ['Post Malone – BIG ASS World Tour: What to Know (Singapore)', 'Singapore', 'Singapore',
+     'Post Malone at Rolling Loud 2019.jpg'],
+    // 이름 전체가 순서대로 들어 있으면 앵커가 평범한 단어("miss")여도 그 행사다.
+    ['Miss World 2026: Dates, Host Cities & Tickets (Vietnam)', 'Hanoi', 'Vietnam',
+     'Camille Munro at Miss World 2013 Talent Competition.jpg'],
+    ['Akbank Jazz Festival: Dates, Tickets & Venue (Istanbul)', 'Istanbul', 'Turkey',
+     'Akbank Caz Festivali Kolaj.jpg'],
+  ];
+  for (const [title, region, country, file] of good) {
+    assert.equal(actVerdict(title, region, country, file), '', `거부하면 안 됨: ${file}`);
+  }
 });

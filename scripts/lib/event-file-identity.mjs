@@ -35,7 +35,7 @@
 // Phuket Vegetarian Festival 12"). That is deliberately not the same as
 // "contains the anchor word" — see namesTheEvent for the two conditions and
 // the sibling event they exist to keep out.
-import { tokens, allWords, ANCHOR_STOP, COMMON_ANCHOR } from './commons.mjs';
+import { tokens, allWords, ANCHOR_STOP, COMMON_ANCHOR, isCommonAnchor } from './commons.mjs';
 import { GEO_STOP } from './images.mjs';
 
 // The `geo` set for foreignInFilename: hub cities plus every country and
@@ -196,12 +196,31 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
     if (!rest.length) return '';
     return namesTheEvent(ft, name, geo) ? '' : rest.join(' ');
   }
-  const anchorIsName = anchor && !COMMON_ANCHOR.test(anchor);
-  if (anchorIsName && fileNamesAnchor(url, anchor)) return '';
-  // A common-word anchor that IS the sport ("snooker", "football") is still
-  // identity when the file is about that sport and names one extra thing —
-  // a player ("Snooker_table_selby"). Two or more leftovers is a scene
-  // described elsewhere ("boys playing street … egypt") and refused.
-  if (anchor && fileNamesAnchor(url, anchor) && leftovers.length <= 1) return '';
+  // An ACT find — the anchor search. The anchor is ONE word, and one word was
+  // never identity: "Quick Style India Tour" anchors on "quick" and Commons
+  // answered with the Shoeburyness Quick Fire Battery; "One Universe Festival"
+  // anchors on "one" and answered with a COSCO container ship. Both passed
+  // because their anchor was missing from COMMON_ANCHOR's hand-written list,
+  // and that list can never be finished — every new event brings a new ordinary
+  // word. isCommonAnchor now measures the question instead of listing it
+  // (scripts/build-common-words.mjs), but measuring is only half of it.
+  //
+  // The whole name still beats the anchor: a file that spells the event out in
+  // order is naming it, wherever the shot was taken. "Camille Munro at Miss
+  // World 2013 Talent Competition" is Miss World, and no anchor rule can see
+  // that, because "miss" is an ordinary word.
+  if (namesTheEvent(ft, name, geo)) return '';
+  // Otherwise the anchor needs corroboration, and how much depends on whether
+  // it is a name at all. A name may carry a couple of extra words, because the
+  // shot had to be taken somewhere ("The Weeknd at Bumbershoot", "Evanescence
+  // at concert in San Petersburg"). An ordinary word may carry at most one —
+  // the sport-plus-player case this rule was written for ("Snooker table
+  // selby"). Place names and scene words are not counted against either: a
+  // past edition was held somewhere, and every photo was taken from an angle.
+  const anchorIsName = anchor && !isCommonAnchor(anchor);
+  if (anchor && fileNamesAnchor(url, anchor)) {
+    const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
+    if (rest.length <= (anchorIsName ? 4 : 1)) return '';
+  }
   return leftovers.join(' ');
 }
