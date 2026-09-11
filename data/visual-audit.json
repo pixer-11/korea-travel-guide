@@ -18095,9 +18095,9 @@
  },
  "los-angeles-jacaranda\u0001https://upload.wikimedia.org/wikipedia/commons/f/f3/Jacaranda_1.jpg": {
   "slug": "los-angeles-jacaranda",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Jacaranda tree in bloom, LA landmark",
-  "at": "2026-09-10T21:52:27.454Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-09-11: wrong venue — a jacaranda tree, not the restaurant named Jacaranda at 6623 Melrose Ave",
+  "at": "2026-09-11T00:48:11.617Z"
  },
  "los-angeles-little-luck\u0001https://fastly.4sqi.net/img/general/original/638_czSxpGAX85M67FDx6YV_BZB25KJCFW_JOJrOwZbffMw.jpg": {
   "slug": "los-angeles-little-luck",

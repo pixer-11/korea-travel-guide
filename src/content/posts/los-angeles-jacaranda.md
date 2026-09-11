@@ -1,18 +1,11 @@
 ---
+draft: true
 title: 'Jacaranda: Los Angeles Travel Guide'
 description: 'Jacaranda in Los Angeles, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-09-09'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/Jacaranda_1.jpg
-  credit: 'Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jacaranda_1.jpg
-  focus:
-    x: 60
-    'y': 40
 tags:
   - los angeles
   - new & trending
@@ -29,6 +22,7 @@ faq:
   - q: Is parking available nearby?
     a: Street parking on Melrose is metered and can be tight, especially on weekends. Check side streets north and south of Melrose, or ask about valet when booking.
 aiGenerated: true
+heldReason: wrong-venue-photo
 ---
 
 Jacaranda sits at 6623 Melrose Ave, a stretch of the street already dense with design studios, vintage shops and long-running restaurants. It opened recently and landed almost immediately on Resy's Hit List for September 2026, the kind of placement that tends to fill a reservation book within days of being noticed.
