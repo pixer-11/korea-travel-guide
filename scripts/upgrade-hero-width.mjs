@@ -38,6 +38,11 @@ import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { probeWidth } from './lib/image-width.mjs';
 import { isUsedImage, markUsedImage, unmarkUsedImage } from './lib/hero-url.mjs';
 
+// Heroes a person has read and approved (audit-event-hero-identity --record).
+const REVIEWED = (() => {
+  try { return JSON.parse(readFileSync('data/event-hero-identity-reviewed.json', 'utf8')); }
+  catch { return {}; }
+})();
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
 const MIN_WIDTH = 1200;
@@ -86,6 +91,21 @@ for (const slug of SLUGS) {
   if (data.draft === true) { skipped.push(`${slug} (draft)`); console.log(`  ⏭️  ${slug}: draft — this tool never touches quarantined posts`); continue; }
   const curUrl = data.heroImage?.url || '';
   if (!curUrl) { skipped.push(`${slug} (no hero)`); continue; }
+
+  // A hero a PERSON approved is not a width problem.
+  //
+  // 2026-09-10: this swapped the Bangkok Weeknd guide from a photo of him
+  // singing to a 3840px photo of the Universal Studios "After Hours Nightmare
+  // Bar" sign. Vision approved it (a Weeknd-branded attraction really does
+  // carry his name) and the filename audit could not object (it names the act),
+  // so nothing stopped it. The width upgrade buys a bigger Discover card; the
+  // reviewed baseline records a judgement about WHAT THE PICTURE SHOWS, and a
+  // bigger card is not worth overwriting that.
+  if (REVIEWED[slug] === curUrl) {
+    skipped.push(`${slug} (hand-approved hero)`);
+    console.log(`  ⏭️  ${slug}: a person approved this hero — not swapping it for width`);
+    continue;
+  }
 
   const curW = await probeWidth(curUrl);
   if (curW && curW >= MIN_WIDTH) {

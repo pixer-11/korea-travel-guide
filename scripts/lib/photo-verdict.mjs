@@ -43,6 +43,29 @@ export function photoIdentity(url) {
   try { return `commons:${decodeURIComponent(m[1])}`; } catch { return `commons:${m[1]}`; }
 }
 
+/**
+ * The PICTURE SET a file belongs to: the same name with its extension and a
+ * trailing frame counter removed. Commons stores a shoot as siblings —
+ * "…Fashion_Concert20221218.jpg" and "…Fashion_Concert20221218-2.jpg" — and a
+ * rejection written against one of them said nothing about the other.
+ *
+ * That is not hypothetical either. A person rejected the -2 frame of a Hong
+ * Kong fashion concert on the Ultra Japan guide on 2026-09-09; the patrol put
+ * the frame WITHOUT the suffix on the same page overnight, and it was still
+ * there on 09-11. Used for HAND rejections only: a person saying "this is a
+ * different event" is saying it about the shoot, while an automated verdict
+ * ("bad crop", "too dark") is about the one frame it looked at.
+ * @param {string} url
+ */
+export function photoFamily(url) {
+  const id = photoIdentity(url);
+  if (!id) return null;
+  return id
+    .replace(/\.(jpe?g|png|webp|gif|tiff?)$/i, '')
+    .replace(/(?:[ _-]?\(\d{1,3}\)|[ _-]\d{1,3})$/, '')
+    .toLowerCase();
+}
+
 // What the identity paths write: audit-photo-identity ("identity audit: …"),
 // the patrol's own identity gate ("patrol reject: identity: …") and the
 // hand-run deep audits ("… wrong venue (…)"). A vision verdict reads like a
@@ -99,11 +122,18 @@ export function identityRejection(store, slug, url, category) {
   const id = photoIdentity(url);
   if (!id) return null;
   const sticky = IDENTITY_STICKY_CATEGORIES.has(String(category ?? ''));
+  const fam = photoFamily(url);
   const prefix = `${slug}${SEP}`;
   for (const [key, entry] of Object.entries(store)) {
     if (!key.startsWith(prefix)) continue;
-    if (photoIdentity(key.slice(prefix.length)) !== id) continue;
-    if (isHandRejection(entry)) return entry;
+    const other = key.slice(prefix.length);
+    // A hand rejection covers the whole picture set; an automated one covers
+    // only the frame it judged.
+    if (isHandRejection(entry)) {
+      if (fam && photoFamily(other) === fam) return entry;
+      continue;
+    }
+    if (photoIdentity(other) !== id) continue;
     if (sticky && isIdentityRejection(entry)) return entry;
   }
   return null;

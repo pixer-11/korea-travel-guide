@@ -164,6 +164,16 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: node scripts/reresolve-dupe-heroes.mjs
 
+      # THE THIRD TIER, after the first two have had their turn. Everything
+      # above looks for a photo OF THE EVENT; whatever is still bare gets a
+      # photo of the city it is held in (owner's rule, 2026-09-11). It runs
+      # last on purpose — a real photo of the act always wins — and it lands
+      # unreviewed in audit-event-hero-identity, so a person reads it next
+      # morning before it can quietly become permanent.
+      - name: Fill the rest with a photo of their city
+        if: steps.gate.outputs.on == 'true'
+        run: node scripts/fill-event-city-heroes.mjs | tee /tmp/cityhero.log
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |

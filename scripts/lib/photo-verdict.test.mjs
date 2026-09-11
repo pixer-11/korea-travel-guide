@@ -11,7 +11,7 @@
 //   node --test scripts/lib/photo-verdict.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { photoIdentity, isIdentityRejection, identityRejection, isHandRejection } from './photo-verdict.mjs';
+import { photoIdentity, isIdentityRejection, identityRejection, isHandRejection , photoFamily } from './photo-verdict.mjs';
 
 const SEP = String.fromCharCode(1);
 const UPLOAD_3840 = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg';
@@ -100,4 +100,37 @@ test('🛑 비전이 찍은 MISMATCH는 이벤트에서 여전히 안 붙는다 
 test('🛑 장소 글의 자동 신원기각은 그대로 유지된다', () => {
   assert.ok(identityRejection(store, 'gardena-nam-kitchen', THUMB_3840, 'restaurant'));
   assert.equal(identityRejection(store, 'gardena-nam-kitchen', THUMB_3840, 'event'), null);
+});
+
+
+// 2026-09-11: 커먼즈는 한 촬영분을 형제 파일로 보관한다("…Concert.jpg", "…Concert-2.jpg").
+// 사람이 -2 프레임을 "다른 행사"라고 거부해 뒀는데, 순찰이 접미사 없는 프레임을 같은
+// 글에 하룻밤 만에 다시 올렸다(울트라 재팬, 09-09 거부 → 09-11까지 그대로 살아 있었다).
+// 손으로 적은 거부는 프레임 하나가 아니라 촬영분 전체에 대한 판정이다.
+test('손 거부는 같은 촬영분의 다른 프레임에도 적용된다', () => {
+  const F = (n) => `https://upload.wikimedia.org/wikipedia/commons/1/17/${n}`;
+  const store = { ['tokyo-ultra-japan-2026' + String.fromCharCode(1) + F('Drive_In_Ultra_Concert-2.jpg')]:
+    { verdict: 'MISMATCH', reason: 'hand-reviewed 2026-09-09: a different event' } };
+  assert.ok(identityRejection(store, 'tokyo-ultra-japan-2026', F('Drive_In_Ultra_Concert.jpg'), 'event'),
+    '형제 프레임이 막히지 않으면 순찰이 같은 사진을 도로 올린다');
+  assert.equal(identityRejection(store, 'tokyo-ultra-japan-2026', F('Odaiba_Tokyo_Japan.jpg'), 'event'), null,
+    '무관한 사진까지 막으면 채울 방법이 없어진다');
+});
+
+// 반대 방향: 자동 판정은 자기가 본 프레임 하나에 대한 말이다. "크롭이 이상하다"가
+// 같은 촬영분 전체를 영구 폐기하면 멀쩡한 사진이 무더기로 사라진다.
+test('자동 신원 거부는 그 프레임에만 남는다', () => {
+  const F = (n) => `https://upload.wikimedia.org/wikipedia/commons/1/17/${n}`;
+  const store = { ['x' + String.fromCharCode(1) + F('Some_Venue-2.jpg')]:
+    { verdict: 'MISMATCH', reason: 'identity audit: wrong venue' } };
+  assert.equal(identityRejection(store, 'x', F('Some_Venue.jpg'), 'restaurant'), null);
+  assert.ok(identityRejection(store, 'x', F('Some_Venue-2.jpg'), 'restaurant'));
+});
+
+test('photoFamily: 확장자와 프레임 번호만 떨어진다', () => {
+  const F = (n) => `https://upload.wikimedia.org/wikipedia/commons/1/17/${n}`;
+  assert.equal(photoFamily(F('A_B.jpg')), photoFamily(F('A_B-3.jpg')));
+  assert.equal(photoFamily(F('A_B.jpg')), photoFamily(F('A_B (2).jpg')));
+  assert.notEqual(photoFamily(F('A_B.jpg')), photoFamily(F('A_C.jpg')));
+  assert.equal(photoFamily('https://example.com/not-commons.jpg'), null);
 });
