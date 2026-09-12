@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: boston-public-garden
-srcHash: 'cbe68fcaf012'
+srcHash: '70f2a6fd179b'
 title: 'Public Garden: Guía de viaje de Boston (4,8★)'
-description: 'El Public Garden, en la zona de Back Bay/Beacon Hill de Boston, es el jardín botánico público más antiguo del país, trazado en 1837 junto a Boston Common, y vive su momento de mayor afluencia los fines de semana de 11:00 a 20:00. 4,8★ (18.905 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Public Garden, en la zona de Back Bay/Beacon Hill de Boston, es el jardín botánico público más antiguo del país, trazado en 1837 junto a Boston Common, y vive su momento de mayor afluencia los fines de semana de 11:00 a 20:00. 4,8★ (18.909 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Public Garden, en la zona de Back Bay/Beacon Hill de Boston, es el jardín botánico público más antiguo del país, trazado en 1837 junto a Boston Common, y vive su momento de mayor afluencia los fines de semana de 11:00 a 20:00. Si puede, visítelo entre semana o vaya a primera hora de la mañana: los botes-cisne del estanque funcionan solo por temporada, y la estatua de George Washington junto con los bronces de Make Way for Ducklings son los dos rincones que todo el mundo fotografía. Calcule entre 30 y 45 minutos para recorrerlo, más tiempo si hace fila para subir a un bote-cisne.'
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Public Garden?

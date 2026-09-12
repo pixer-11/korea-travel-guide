@@ -1,41 +1,47 @@
 ---
-title: "One Dim Sum: Where to Eat in Mong Kok (4.3★)"
-description: "One Dim Sum sits on Tung Choi Street between Mong Kok and Prince Edward, dishing out Michelin-recognized dim sum at budget-friendly prices. 4.3★ (7,322 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Mong Kok"
-category: "restaurant"
-pubDate: "2026-08-19T07:57:40.239Z"
+title: 'One Dim Sum: Where to Eat in Mong Kok (4.3★)'
+description: >-
+  One Dim Sum sits on Tung Choi Street between Mong Kok and Prince Edward,
+  dishing out Michelin-recognized dim sum at budget-friendly prices. 4.3★ (7,366
+  reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Mong Kok
+category: restaurant
+pubDate: '2026-08-19T07:57:40.239Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg/3840px-thumbnail.jpg"
-  credit: "Photo: Halkam Luia / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg/3840px-thumbnail.jpg
+  credit: 'Photo: Halkam Luia / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJZTOZi8kABDQR6mCupQnajEI"
-  name: "One Dim Sum"
-  address: "G/F, 209A Tung Choi St, Prince Edward, Kowloon, Hong Kong"
+  id: ChIJZTOZi8kABDQR6mCupQnajEI
+  name: One Dim Sum
+  address: 'G/F, 209A Tung Choi St, Prince Edward, Kowloon, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 7322
+  userRatingsTotal: 7366
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=4795447438211965162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4795447438211965162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3254818
   lng: 114.1691477
-  phone: "+852 2677 7888"
+  phone: +852 2677 7888
   openingHours:
-    - "Monday: 9:30 AM – 11:00 PM"
-    - "Tuesday: 9:30 AM – 11:00 PM"
-    - "Wednesday: 9:30 AM – 11:00 PM"
-    - "Thursday: 9:30 AM – 11:00 PM"
-    - "Friday: 9:30 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 9:30 AM – 11:00 PM'
+    - 'Tuesday: 9:30 AM – 11:00 PM'
+    - 'Wednesday: 9:30 AM – 11:00 PM'
+    - 'Thursday: 9:30 AM – 11:00 PM'
+    - 'Friday: 9:30 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 22
@@ -51,24 +57,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_49456a616e517075436d3652514442416b38695a4f545a4a496843"
+    venueId: ven_49456a616e517075436d3652514442416b38695a4f545a4a496843
 tags:
-  - "mong kok"
-  - "seafood"
-quickAnswer: "One Dim Sum sits on Tung Choi Street between Mong Kok and Prince Edward, dishing out Michelin-recognized dim sum at budget-friendly prices. It opens at 9:30am on weekdays and 9am on weekends — go right at opening or after 8pm to skip the queue, since 11am–8pm on weekends is when it's busiest. Expect a paper checklist menu, cash-friendly service, and classics like baked BBQ pork buns and har gow."
+  - mong kok
+  - seafood
+quickAnswer: >-
+  One Dim Sum sits on Tung Choi Street between Mong Kok and Prince Edward,
+  dishing out Michelin-recognized dim sum at budget-friendly prices. It opens at
+  9:30am on weekdays and 9am on weekends — go right at opening or after 8pm to
+  skip the queue, since 11am–8pm on weekends is when it's busiest. Expect a
+  paper checklist menu, cash-friendly service, and classics like baked BBQ pork
+  buns and har gow.
 faq:
-  - q: "How do I get to One Dim Sum?"
-    a: "Take the MTR to Prince Edward Station, leave via Exit B2, and walk about five minutes south down Tung Choi Street. It's at street level, G/F 209A."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays it's manageable from 10am to closing at 11pm. On weekends, the calmest window is right at 9am opening — avoid 11am to 8pm, when queues are longest."
-  - q: "Is One Dim Sum expensive?"
-    a: "No — it sits in the budget-to-mid-range bracket for Hong Kong dim sum, with small individual plates that make it easy to order several dishes without a big bill."
-  - q: "Do I need a reservation?"
-    a: "It's a walk-in, queue-based system rather than a reservations restaurant. Arriving right at opening or after 8pm is the best way to minimize waiting."
-  - q: "What should I order first?"
-    a: "Start with the baked BBQ pork buns, the shop's signature dish, alongside har gow and siu mai for a classic first round."
+  - q: How do I get to One Dim Sum?
+    a: >-
+      Take the MTR to Prince Edward Station, leave via Exit B2, and walk about
+      five minutes south down Tung Choi Street. It's at street level, G/F 209A.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays it's manageable from 10am to closing at 11pm. On weekends, the
+      calmest window is right at 9am opening — avoid 11am to 8pm, when queues
+      are longest.
+  - q: Is One Dim Sum expensive?
+    a: >-
+      No — it sits in the budget-to-mid-range bracket for Hong Kong dim sum,
+      with small individual plates that make it easy to order several dishes
+      without a big bill.
+  - q: Do I need a reservation?
+    a: >-
+      It's a walk-in, queue-based system rather than a reservations restaurant.
+      Arriving right at opening or after 8pm is the best way to minimize
+      waiting.
+  - q: What should I order first?
+    a: >-
+      Start with the baked BBQ pork buns, the shop's signature dish, alongside
+      har gow and siu mai for a classic first round.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 
 ## Why go

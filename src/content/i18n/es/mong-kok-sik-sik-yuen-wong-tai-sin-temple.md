@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mong-kok-sik-sik-yuen-wong-tai-sin-temple
-srcHash: 'ad4997d09fb5'
+srcHash: '92fabab0eebe'
 title: 'Templo Sik Sik Yuen Wong Tai Sin: guía de viaje de Mong Kok'
-description: 'El templo Sik Sik Yuen Wong Tai Sin no está propiamente en Mong Kok, sino unas paradas de MTR más allá, en el distrito de Wong Tai Sin, Kowloon, al que se llega directamente desde la estación de Wong Tai Sin, en la línea Kwun Tong. 4.3★ (6.638 opiniones): qué dicen los visitantes, horarios y consejos.'
+description: 'El templo Sik Sik Yuen Wong Tai Sin no está propiamente en Mong Kok, sino unas paradas de MTR más allá, en el distrito de Wong Tai Sin, Kowloon, al que se llega directamente desde la estación de Wong Tai Sin, en la línea Kwun Tong. 4.3★ (6.644 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Sik Sik Yuen Wong Tai Sin no está propiamente en Mong Kok, sino unas paradas de MTR más allá, en el distrito de Wong Tai Sin, Kowloon, al que se llega directamente desde la estación de Wong Tai Sin, en la línea Kwun Tong. Abre todos los días de 7:30 a 16:30, y el momento más tranquilo es entre las 8:00 y las 9:00; los fines de semana, de 10:00 a 16:00, se concentra la mayor afluencia tanto de devotos como de visitantes. Conviene reservar entre 45 minutos y una hora, más si se quiere probar la adivinación con varillas de la suerte (kau cim).
 faq:
   - q: ¿El templo Sik Sik Yuen Wong Tai Sin está realmente en Mong Kok?

@@ -1,37 +1,45 @@
 ---
-title: "Public Garden: Boston Travel Guide (4.8★)"
-description: "The Public Garden in Boston's Back Bay/Beacon Hill area is the country's oldest public botanical garden, laid out in 1837 next to Boston Common, and it's busiest on weekends from 11am to 8pm. 4.8★ (18,905 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Boston"
-category: "attraction"
-pubDate: "2026-09-12T07:41:36.218Z"
+title: 'Public Garden: Boston Travel Guide (4.8★)'
+description: >-
+  The Public Garden in Boston's Back Bay/Beacon Hill area is the country's
+  oldest public botanical garden, laid out in 1837 next to Boston Common, and
+  it's busiest on weekends from 11am to 8pm. 4.8★ (18,909 reviews) — what
+  visitors say, hours, and tips.
+country: United States
+region: Boston
+category: attraction
+pubDate: '2026-09-12T07:41:36.218Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Boston_Public_Garden_%2836008p%29.jpg/3840px-Boston_Public_Garden_%2836008p%29.jpg"
-  credit: "Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Boston_Public_Garden_(36008p).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Boston_Public_Garden_%2836008p%29.jpg/3840px-Boston_Public_Garden_%2836008p%29.jpg
+  credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Boston_Public_Garden_(36008p).jpg'
+  via: act
   focus:
     x: 50
-    y: 60
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boston_Public_Garden_November_2016_001.jpg/3840px-Boston_Public_Garden_November_2016_001.jpg"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Boston_Public_Garden_November_2016_001.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boston_Public_Garden_November_2016_001.jpg/3840px-Boston_Public_Garden_November_2016_001.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Boston_Public_Garden_November_2016_001.jpg
 place:
-  id: "ChIJu2Argp5w44kRAecWXgt_18s"
-  name: "Public Garden"
-  address: "Boston, MA 02116, USA"
+  id: ChIJu2Argp5w44kRAecWXgt_18s
+  name: Public Garden
+  address: 'Boston, MA 02116, USA'
   rating: 4.8
-  userRatingsTotal: 18905
-  googleMapsUrl: "https://maps.google.com/?cid=14688348396492089089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18909
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14688348396492089089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.3540639
   lng: -71.0700921
-  phone: "+1 617-635-4505"
+  phone: +1 617-635-4505
   busyness:
-    updated: 2026-09-12
+    updated: 2026-09-12T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -54,24 +62,45 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_7338315f74675857636541526b343477357067724132754a496843"
+    venueId: ven_7338315f74675857636541526b343477357067724132754a496843
 tags:
-  - "boston"
-  - "park"
-quickAnswer: "The Public Garden in Boston's Back Bay/Beacon Hill area is the country's oldest public botanical garden, laid out in 1837 next to Boston Common, and it's busiest on weekends from 11am to 8pm. Go on a weekday if you can, or aim for early morning; the swan boats on the lagoon run seasonally and the George Washington statue and Make Way for Ducklings bronzes are the two spots everyone photographs. Budget 30 to 45 minutes for a walk-through, longer if you queue for a swan boat ride."
+  - boston
+  - park
+quickAnswer: >-
+  The Public Garden in Boston's Back Bay/Beacon Hill area is the country's
+  oldest public botanical garden, laid out in 1837 next to Boston Common, and
+  it's busiest on weekends from 11am to 8pm. Go on a weekday if you can, or aim
+  for early morning; the swan boats on the lagoon run seasonally and the George
+  Washington statue and Make Way for Ducklings bronzes are the two spots
+  everyone photographs. Budget 30 to 45 minutes for a walk-through, longer if
+  you queue for a swan boat ride.
 faq:
-  - q: "How much time should I budget for the Public Garden?"
-    a: "30 to 45 minutes for a full walking loop, longer if you queue for a swan boat ride, which adds another 15 to 20 minutes including the wait."
-  - q: "When is the Public Garden least crowded?"
-    a: "Late at night, between 10pm and 11pm on weekdays, is the quietest window, though most amenities are closed by then. For an active visit, weekend mornings before 11am are calmer than the 11am-to-8pm weekend rush."
-  - q: "Do the swan boats run year-round?"
-    a: "No, they operate seasonally, typically spring through early autumn, weather dependent. Check ahead if you're visiting in winter, as the lagoon is not in operation then."
-  - q: "How do I get to the Public Garden by public transit?"
-    a: "Take the Green Line (B, C, D, or E branch) to Arlington Street Station, which lets out right at the park's main entrance near the George Washington statue."
-  - q: "Is the Public Garden connected to Boston Common?"
-    a: "Yes, they sit directly adjacent across Charles Street and are typically visited together as one continuous walk."
+  - q: How much time should I budget for the Public Garden?
+    a: >-
+      30 to 45 minutes for a full walking loop, longer if you queue for a swan
+      boat ride, which adds another 15 to 20 minutes including the wait.
+  - q: When is the Public Garden least crowded?
+    a: >-
+      Late at night, between 10pm and 11pm on weekdays, is the quietest window,
+      though most amenities are closed by then. For an active visit, weekend
+      mornings before 11am are calmer than the 11am-to-8pm weekend rush.
+  - q: Do the swan boats run year-round?
+    a: >-
+      No, they operate seasonally, typically spring through early autumn,
+      weather dependent. Check ahead if you're visiting in winter, as the lagoon
+      is not in operation then.
+  - q: How do I get to the Public Garden by public transit?
+    a: >-
+      Take the Green Line (B, C, D, or E branch) to Arlington Street Station,
+      which lets out right at the park's main entrance near the George
+      Washington statue.
+  - q: Is the Public Garden connected to Boston Common?
+    a: >-
+      Yes, they sit directly adjacent across Charles Street and are typically
+      visited together as one continuous walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 Cross Charles Street from Boston Common and the ground changes under your feet. Boston Common is trampled grass and open lawn; the Public Garden, laid out in 1837 as the first public botanical garden in the United States, is curving gravel paths, cast-iron fencing and beds that are actually planted on a schedule, tulips in spring, cannas and salvia by midsummer.
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: avignon-musee-calvet
-srcHash: 'fd5f5f248ac3'
+srcHash: 'af87c74b8ed6'
 title: 'Museo Calvet: Guía de viaje de Aviñón (4,5★)'
-description: 'El Museo Calvet está en la Rue Joseph Vernet, en pleno centro de Aviñón, a cinco minutos a pie de la Place de l''Horloge, y es uno de los grandes museos más tranquilos de la ciudad. 4,5★ (1.051 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Calvet está en la Rue Joseph Vernet, en pleno centro de Aviñón, a cinco minutos a pie de la Place de l''Horloge, y es uno de los grandes museos más tranquilos de la ciudad. 4,5★ (1.052 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Calvet está en la Rue Joseph Vernet, en pleno centro de Aviñón, a cinco minutos a pie de la Place de l'Horloge, y es uno de los grandes museos más tranquilos de la ciudad. Abre todos los días de 10:00 a 17:30, salvo los lunes, que permanece cerrado por completo. Los fines de semana se llena entre las 11:00 y las 17:00, así que una visita en horario de mañana entre semana o a última hora de la tarde te permite tener las salas casi para ti solo.
 faq:
   - q: ¿Cuál es el horario del Museo Calvet?

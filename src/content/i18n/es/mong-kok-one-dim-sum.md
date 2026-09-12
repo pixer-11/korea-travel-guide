@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mong-kok-one-dim-sum
-srcHash: '79d52bace361'
+srcHash: '15c67a553bb7'
 title: 'One Dim Sum: dónde comer en Mong Kok (4,3★)'
-description: 'One Dim Sum está en Tung Choi Street, entre Mong Kok y Prince Edward, y sirve dim sum reconocido por la Guía Michelin a precios económicos. 4,3★ (7.322 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'One Dim Sum está en Tung Choi Street, entre Mong Kok y Prince Edward, y sirve dim sum reconocido por la Guía Michelin a precios económicos. 4,3★ (7.366 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: One Dim Sum está en Tung Choi Street, entre Mong Kok y Prince Edward, y sirve dim sum reconocido por la Guía Michelin a precios económicos. Abre a las 9:30 de la mañana entre semana y a las 9 los fines de semana; conviene llegar justo a la apertura o después de las 8 de la noche para evitar la cola, ya que el horario de mayor afluencia los fines de semana va de 11 a 20 h. El menú es una lista de casillas en papel, el pago en efectivo es lo más práctico y entre los clásicos destacan los bollos horneados de cerdo asado y el har gow.
 faq:
   - q: ¿Cómo se llega a One Dim Sum?

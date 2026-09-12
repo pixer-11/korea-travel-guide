@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: boston-the-paul-revere-house
-srcHash: 'd1b41d537af3'
+srcHash: 'f4486de0b6fe'
 title: 'La Casa de Paul Revere: guía de viaje de Boston (4.5★)'
-description: 'La Casa de Paul Revere se encuentra en el 19 de N Square, en el North End de Boston, sobre el Freedom Trail, a pocos minutos a pie de Faneuil Hall. 4.5★ (5,004 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Casa de Paul Revere se encuentra en el 19 de N Square, en el North End de Boston, sobre el Freedom Trail, a pocos minutos a pie de Faneuil Hall. 4.5★ (5,006 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Casa de Paul Revere se encuentra en el 19 de N Square, en el North End de Boston, sobre el Freedom Trail, a pocos minutos a pie de Faneuil Hall. Abre todos los días de 10:00 a 17:15, y el momento más tranquilo para visitarla es justo a la apertura entre semana; los fines de semana se llena entre las 11:00 y las 16:00, así que si solo tiene libre un sábado o domingo, conviene apuntar a la franja de 10:00 a 11:00. Calcule entre 20 y 30 minutos para la visita, ya que se trata de una casa pequeña que se recorre habitación por habitación, no de un museo extenso.
 faq:
   - q: ¿Dónde se encuentra exactamente la Casa de Paul Revere?

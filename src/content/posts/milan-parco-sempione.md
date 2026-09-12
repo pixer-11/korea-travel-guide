@@ -1,43 +1,50 @@
 ---
-title: "Parco Sempione: Milan Travel Guide (4.6★)"
-description: "Parco Sempione sits behind Sforza Castle in central Milan, open daily 6:30am to midnight and free to enter. 4.6★ (85,912 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Milan"
-category: "attraction"
-pubDate: "2026-09-09T07:49:28.472Z"
+title: 'Parco Sempione: Milan Travel Guide (4.6★)'
+description: >-
+  Parco Sempione sits behind Sforza Castle in central Milan, open daily 6:30am
+  to midnight and free to enter. 4.6★ (85,956 reviews) — what visitors say,
+  hours, and tips.
+country: Italy
+region: Milan
+category: attraction
+pubDate: '2026-09-09T07:49:28.472Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg/1920px-Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg"
-  credit: "Photo: Alessandro Perazzoli / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg/1920px-Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg
+  credit: 'Photo: Alessandro Perazzoli / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Il_Castello_Sforzesco_visto_dal_Parco_Sempione.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Parco_Sempione_-_Milano%2C_2023.jpg/3840px-Parco_Sempione_-_Milano%2C_2023.jpg"
-    credit: "Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parco_Sempione_-_Milano,_2023.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Parco_Sempione_-_Milano%2C_2023.jpg/3840px-Parco_Sempione_-_Milano%2C_2023.jpg
+    credit: 'Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Parco_Sempione_-_Milano,_2023.jpg'
 place:
-  id: "ChIJWUblrUjBhkcRtpP5ICHdu7g"
-  name: "Parco Sempione"
-  address: "20121 Milan, Metropolitan City of Milan, Italy"
+  id: ChIJWUblrUjBhkcRtpP5ICHdu7g
+  name: Parco Sempione
+  address: '20121 Milan, Metropolitan City of Milan, Italy'
   rating: 4.6
-  userRatingsTotal: 85912
-  googleMapsUrl: "https://maps.google.com/?cid=13311476257980519350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 85956
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13311476257980519350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4720981
   lng: 9.177224299999999
   openingHours:
-    - "Monday: 6:30 AM – 12:00 AM"
-    - "Tuesday: 6:30 AM – 12:00 AM"
-    - "Wednesday: 6:30 AM – 12:00 AM"
-    - "Thursday: 6:30 AM – 12:00 AM"
-    - "Friday: 6:30 AM – 12:00 AM"
-    - "Saturday: 6:30 AM – 12:00 AM"
-    - "Sunday: 6:30 AM – 12:00 AM"
+    - 'Monday: 6:30 AM – 12:00 AM'
+    - 'Tuesday: 6:30 AM – 12:00 AM'
+    - 'Wednesday: 6:30 AM – 12:00 AM'
+    - 'Thursday: 6:30 AM – 12:00 AM'
+    - 'Friday: 6:30 AM – 12:00 AM'
+    - 'Saturday: 6:30 AM – 12:00 AM'
+    - 'Sunday: 6:30 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-09
+    updated: 2026-09-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,24 +68,39 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_673775644843493550707452636b68426a55726c6255574a496843"
+    venueId: ven_673775644843493550707452636b68426a55726c6255574a496843
 tags:
-  - "milan"
-  - "park"
-quickAnswer: "Parco Sempione sits behind Sforza Castle in central Milan, open daily 6:30am to midnight and free to enter. It's the city's largest and most-visited park, so weekends between 11am and 9pm get crowded fast; go before 11am or after 9pm for open lawn space. Budget 1-2 hours for a loop past the Arco della Pace and the Torre Branca."
+  - milan
+  - park
+quickAnswer: >-
+  Parco Sempione sits behind Sforza Castle in central Milan, open daily 6:30am
+  to midnight and free to enter. It's the city's largest and most-visited park,
+  so weekends between 11am and 9pm get crowded fast; go before 11am or after 9pm
+  for open lawn space. Budget 1-2 hours for a loop past the Arco della Pace and
+  the Torre Branca.
 faq:
-  - q: "What are the opening hours for Parco Sempione?"
-    a: "Daily, 6:30am to midnight, with no separate closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest from 7am to 11pm; the crowds concentrate specifically in the 11am-9pm weekend window, so early morning or after 9pm is your best bet for open space."
-  - q: "Is there an entrance fee?"
-    a: "No, the park itself is free. The Torre Branca, Civic Aquarium, and Triennale museum inside it each charge their own admission."
-  - q: "How do I get to Parco Sempione by metro?"
-    a: "Cairoli and Cadorna on Line 1, or Lanza and Cadorna on Line 2, all put you within a 5-10 minute walk of a park gate."
-  - q: "How long should I plan to spend there?"
-    a: "A full walking loop takes about an hour; add 30-60 minutes if you want to stop at the aquarium, Triennale, or climb Torre Branca."
+  - q: What are the opening hours for Parco Sempione?
+    a: 'Daily, 6:30am to midnight, with no separate closing day.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest from 7am to 11pm; the crowds
+      concentrate specifically in the 11am-9pm weekend window, so early morning
+      or after 9pm is your best bet for open space.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the park itself is free. The Torre Branca, Civic Aquarium, and
+      Triennale museum inside it each charge their own admission.
+  - q: How do I get to Parco Sempione by metro?
+    a: >-
+      Cairoli and Cadorna on Line 1, or Lanza and Cadorna on Line 2, all put you
+      within a 5-10 minute walk of a park gate.
+  - q: How long should I plan to spend there?
+    a: >-
+      A full walking loop takes about an hour; add 30-60 minutes if you want to
+      stop at the aquarium, Triennale, or climb Torre Branca.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 
 Parco Sempione is 38.6 hectares of landscaped green wedged between Sforza Castle and the Arco della Pace, laid out by Emilio Alemagna in 1893 on former ducal hunting grounds and parade fields. It's the biggest park in central Milan and one of the most reviewed attractions in the city.

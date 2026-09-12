@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mong-kok-paradise-dynasty
-srcHash: '21d5cbdb7c54'
+srcHash: '492ebe8ed46a'
 title: 'Paradise Dynasty: dónde comer en Mong Kok (4,8★)'
-description: 'Paradise Dynasty, en Mong Kok, es célebre por sus xiao long bao arcoíris: ocho colores, ocho sabores, en una sola vaporera. 4,8★ (6.314 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Paradise Dynasty, en Mong Kok, es célebre por sus xiao long bao arcoíris: ocho colores, ocho sabores, en una sola vaporera. 4,8★ (6.404 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Paradise Dynasty, en Mong Kok, es célebre por sus xiao long bao arcoíris: ocho colores, ocho sabores, servidos en una sola vaporera. Se encuentra en el segundo piso de un centro comercial de Nathan Road, tiene precios medios, y el momento más tranquilo para ir es entre semana o el fin de semana, de 11:30 a. m. hasta media tarde. Conviene evitar las noches de fin de semana entre las 5 y las 9 p. m., cuando la espera se alarga bastante.'
 faq:
   - q: ¿Cómo se llega a Paradise Dynasty en Mong Kok?

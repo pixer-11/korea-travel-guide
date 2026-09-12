@@ -1,41 +1,46 @@
 ---
-title: "The Paul Revere House: Boston Travel Guide (4.5★)"
-description: "The Paul Revere House sits at 19 N Square in Boston's North End, on the Freedom Trail a few minutes' walk from Faneuil Hall. 4.5★ (5,004 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Boston"
-category: "attraction"
-pubDate: "2026-09-12T07:39:20.970Z"
+title: 'The Paul Revere House: Boston Travel Guide (4.5★)'
+description: >-
+  The Paul Revere House sits at 19 N Square in Boston's North End, on the
+  Freedom Trail a few minutes' walk from Faneuil Hall. 4.5★ (5,006 reviews) —
+  what visitors say, hours, and tips.
+country: United States
+region: Boston
+category: attraction
+pubDate: '2026-09-12T07:39:20.970Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/2017_Paul_Revere_House_from_east.jpg"
-  credit: "Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2017_Paul_Revere_House_from_east.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/2017_Paul_Revere_House_from_east.jpg
+  credit: 'Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2017_Paul_Revere_House_from_east.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJtT5ZHIlw44kRzCtDBAjPP3A"
-  name: "The Paul Revere House"
-  address: "19 N Square, Boston, MA 02113, USA"
+  id: ChIJtT5ZHIlw44kRzCtDBAjPP3A
+  name: The Paul Revere House
+  address: '19 N Square, Boston, MA 02113, USA'
   rating: 4.5
-  userRatingsTotal: 5004
-  googleMapsUrl: "https://maps.google.com/?cid=8088411089118899148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5006
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8088411089118899148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.363738999999995
   lng: -71.05369999999999
-  phone: "+1 617-523-2338"
+  phone: +1 617-523-2338
   openingHours:
-    - "Monday: 10:00 AM – 5:15 PM"
-    - "Tuesday: 10:00 AM – 5:15 PM"
-    - "Wednesday: 10:00 AM – 5:15 PM"
-    - "Thursday: 10:00 AM – 5:15 PM"
-    - "Friday: 10:00 AM – 5:15 PM"
-    - "Saturday: 10:00 AM – 5:15 PM"
-    - "Sunday: 10:00 AM – 5:15 PM"
+    - 'Monday: 10:00 AM – 5:15 PM'
+    - 'Tuesday: 10:00 AM – 5:15 PM'
+    - 'Wednesday: 10:00 AM – 5:15 PM'
+    - 'Thursday: 10:00 AM – 5:15 PM'
+    - 'Friday: 10:00 AM – 5:15 PM'
+    - 'Saturday: 10:00 AM – 5:15 PM'
+    - 'Sunday: 10:00 AM – 5:15 PM'
   busyness:
-    updated: 2026-09-12
+    updated: 2026-09-12T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -47,24 +52,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_413350506a41424474437a526b3434776c49485a3554744a496843"
+    venueId: ven_413350506a41424474437a526b3434776c49485a3554744a496843
 tags:
-  - "boston"
-  - "historic site"
-quickAnswer: "The Paul Revere House sits at 19 N Square in Boston's North End, on the Freedom Trail a few minutes' walk from Faneuil Hall. It's open daily 10am to 5:15pm, and the calmest visit is right at opening on a weekday; weekends get busy from 11am to 4pm, so aim for the 10-11am window if you're only free on a Saturday or Sunday. Budget 20-30 minutes inside, since it's a small, room-by-room house rather than a sprawling museum."
+  - boston
+  - historic site
+quickAnswer: >-
+  The Paul Revere House sits at 19 N Square in Boston's North End, on the
+  Freedom Trail a few minutes' walk from Faneuil Hall. It's open daily 10am to
+  5:15pm, and the calmest visit is right at opening on a weekday; weekends get
+  busy from 11am to 4pm, so aim for the 10-11am window if you're only free on a
+  Saturday or Sunday. Budget 20-30 minutes inside, since it's a small,
+  room-by-room house rather than a sprawling museum.
 faq:
-  - q: "Where exactly is the Paul Revere House?"
-    a: "It's at 19 N Square in Boston's North End, on the Freedom Trail, about a 5-minute walk from Haymarket station (Orange and Green Lines)."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, foot traffic stays fairly steady from 10am to 5pm. On weekends, the calmest window is 10am to 11am, right after opening; it gets busy from 11am to 4pm."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 20-30 minutes inside, since it's a small house with just a handful of rooms plus a small exhibit building."
-  - q: "What are the opening hours?"
-    a: "The house is open daily from 10:00 AM to 5:15 PM. Confirm current hours before visiting, since small museums sometimes adjust for holidays or events."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "The Old North Church and Saint Stephen's Church are both a short walk north, making it easy to build a short Revolutionary War walking loop through the North End."
+  - q: Where exactly is the Paul Revere House?
+    a: >-
+      It's at 19 N Square in Boston's North End, on the Freedom Trail, about a
+      5-minute walk from Haymarket station (Orange and Green Lines).
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, foot traffic stays fairly steady from 10am to 5pm. On
+      weekends, the calmest window is 10am to 11am, right after opening; it gets
+      busy from 11am to 4pm.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 20-30 minutes inside, since it's a small house with
+      just a handful of rooms plus a small exhibit building.
+  - q: What are the opening hours?
+    a: >-
+      The house is open daily from 10:00 AM to 5:15 PM. Confirm current hours
+      before visiting, since small museums sometimes adjust for holidays or
+      events.
+  - q: What else is nearby worth combining with this visit?
+    a: >-
+      The Old North Church and Saint Stephen's Church are both a short walk
+      north, making it easy to build a short Revolutionary War walking loop
+      through the North End.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 The house leans slightly over North Square, its dark clapboard and diamond-pane windows looking nothing like the brick townhouses around it. That's the point: this is Boston's oldest surviving downtown structure, built around 1680, decades before Paul Revere ever owned it. By the time he rode out from here on the night of April 18, 1775, the house was already close to a century old.
 

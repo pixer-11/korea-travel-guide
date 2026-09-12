@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: milan-galleria-vittorio-emanuele-ii
-srcHash: '68216eb85e70'
+srcHash: '695e9cb395f0'
 title: 'Galleria Vittorio Emanuele II: Guía de viaje de Milán (4,7★)'
-description: 'La Galleria Vittorio Emanuele II es la gran galería milanesa del siglo XIX con techo de cristal que une la Piazza del Duomo con la Piazza della Scala: entrada gratuita, abierta 24 horas, y mejor vista entre las 7 y las 9 de la mañana, antes de que lleguen los grupos turísticos y los compradores. 4,7★ (114.960 reseñas) — qué dicen los visitantes, horarios y consejos.'
+description: 'La Galleria Vittorio Emanuele II es la gran galería milanesa del siglo XIX con techo de cristal que une la Piazza del Duomo con la Piazza della Scala: entrada gratuita, abierta 24 horas, y mejor vista entre las 7 y las 9 de la mañana, antes de que lleguen los grupos turísticos y los compradores. 4,7★ (115.696 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Galleria Vittorio Emanuele II es la gran galería milanesa del siglo XIX con techo de cristal que une la Piazza del Duomo con la Piazza della Scala: entrada gratuita, abierta 24 horas, y mejor vista entre las 7 y las 9 de la mañana, antes de que lleguen los grupos turísticos y los compradores. Vale la pena ir por los suelos de mosaico, el techo de hierro y cristal, y un café en Camparino, no para ir de compras a buen precio. Calcula entre 20 y 30 minutos para mirar hacia arriba y alrededor, más si lo combinas con el Duomo, justo al lado.'
 faq:
   - q: ¿La entrada a la Galleria Vittorio Emanuele II es gratuita?

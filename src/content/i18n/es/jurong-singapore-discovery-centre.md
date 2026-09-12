@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jurong-singapore-discovery-centre
-srcHash: '56312b447aaa'
+srcHash: '082d0c987eb7'
 title: 'Singapore Discovery Centre: guía de viaje de Jurong (4,7★)'
-description: 'El Singapore Discovery Centre, en Jurong, abre entre semana de 12 a 18 h y los fines de semana de 11 a 19 h, y está más tranquilo los días laborables entre las 17 y las 18 h, o los fines de semana entre las 11 y las 13 h. 4,7★ (9.119 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Singapore Discovery Centre, en Jurong, abre entre semana de 12 a 18 h y los fines de semana de 11 a 19 h, y está más tranquilo los días laborables entre las 17 y las 18 h, o los fines de semana entre las 11 y las 13 h. 4,7★ (9.120 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Singapore Discovery Centre, en Jurong, abre entre semana de 12 a 18 h y los fines de semana de 11 a 19 h, y está más tranquilo los días laborables entre las 17 y las 18 h, o los fines de semana entre las 11 y las 13 h. Conviene reservar entre dos y tres horas para recorrer las exhibiciones interactivas sobre la defensa, la historia y el futuro de Singapur. Se trata de un lugar muy visitado, así que conviene aprovechar esas franjas más tranquilas en lugar de acudir el sábado o el domingo a primera hora de la tarde.
 faq:
   - q: ¿Cuál es el horario del Singapore Discovery Centre?

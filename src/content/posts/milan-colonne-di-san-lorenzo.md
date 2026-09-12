@@ -1,55 +1,85 @@
 ---
-title: "Colonne di San Lorenzo: Milan Travel Guide (4.4★)"
-description: "The Colonne di San Lorenzo are 16 Roman marble columns standing on Corso di Porta Ticinese, right in front of the Basilica di San Sant'Eusorgio, open around the clock since they're an open-air street monument. 4.4★ (447 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Milan"
-category: "attraction"
-pubDate: "2026-08-06T10:12:03.668Z"
+title: 'Colonne di San Lorenzo: Milan Travel Guide (4.5★)'
+description: >-
+  The Colonne di San Lorenzo are 16 Roman marble columns standing on Corso di
+  Porta Ticinese, right in front of the Basilica di San Sant'Eusorgio, open
+  around the clock since they're an open-air street monument. 4.5★ (518 reviews)
+  — what visitors say, hours, and tips.
+country: Italy
+region: Milan
+category: attraction
+pubDate: '2026-08-06T10:12:03.668Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Colonne_San_Lorenzo_2011.jpg/1920px-Colonne_San_Lorenzo_2011.jpg"
-  credit: "Photo: https://www.flickr.com/photos/lizadaly/ / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Colonne_San_Lorenzo_2011.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Colonne_San_Lorenzo_2011.jpg/1920px-Colonne_San_Lorenzo_2011.jpg
+  credit: >-
+    Photo: https://www.flickr.com/photos/lizadaly/ / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Colonne_San_Lorenzo_2011.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Colonne_di_San_Lorenzo1.jpg/3840px-Colonne_di_San_Lorenzo1.jpg"
-    credit: "Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Colonne_di_San_Lorenzo1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Colonne_di_San_Lorenzo1.jpg/3840px-Colonne_di_San_Lorenzo1.jpg
+    credit: 'Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Colonne_di_San_Lorenzo1.jpg'
 place:
-  id: "ChIJpQh7KgDDhkcRMFvvPUBrAF0"
-  name: "Colonne di San Lorenzo"
-  address: "Corso di Porta Ticinese, 20123 Milano MI, Italy"
-  rating: 4.4
-  userRatingsTotal: 447
-  googleMapsUrl: "https://maps.google.com/?cid=6701474169188473648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJpQh7KgDDhkcRMFvvPUBrAF0
+  name: Colonne di San Lorenzo
+  address: 'Corso di Porta Ticinese, 20123 Milano MI, Italy'
+  rating: 4.5
+  userRatingsTotal: 518
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6701474169188473648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4581653
   lng: 9.1810499
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "milan"
-  - "historic site"
-quickAnswer: "The Colonne di San Lorenzo are 16 Roman marble columns standing on Corso di Porta Ticinese, right in front of the Basilica di San Sant'Eusorgio, open around the clock since they're an open-air street monument. Give it 15-20 minutes to look, photograph, and read the plaques, then fold it into a walk through the Ticinese district toward the Navigli canals. It's least crowded early morning or on a weekday afternoon, before the aperitivo crowd claims the steps."
+  - milan
+  - historic site
+quickAnswer: >-
+  The Colonne di San Lorenzo are 16 Roman marble columns standing on Corso di
+  Porta Ticinese, right in front of the Basilica di San Sant'Eusorgio, open
+  around the clock since they're an open-air street monument. Give it 15-20
+  minutes to look, photograph, and read the plaques, then fold it into a walk
+  through the Ticinese district toward the Navigli canals. It's least crowded
+  early morning or on a weekday afternoon, before the aperitivo crowd claims the
+  steps.
 faq:
-  - q: "How much time should I budget for the Colonne di San Lorenzo?"
-    a: "15-20 minutes is enough to see the columns, fountain, and statue and read the plaque, though many visitors linger longer if they sit on the steps or combine it with the basilica next door."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a free, open-air street monument accessible 24 hours a day with no ticket or gate."
-  - q: "What's the closest metro station?"
-    a: "Missori on the M3 (yellow) line, about a 10-minute walk away. Tram lines 2 and 3 stop even closer, right on Corso di Porta Ticinese."
-  - q: "When is the quietest time to visit?"
-    a: "Early weekday mornings, before the surrounding shops and bars open, when the street is calm and the light on the columns is best for photos. Late afternoon and evening it fills with locals socializing on the steps."
-  - q: "What else is nearby worth seeing?"
-    a: "The Basilica di Sant'Eustorgio right behind the columns (don't miss the Portinari Chapel), the separate Basilica di San Lorenzo Maggiore and its little park, and the Navigli canal district a few minutes' walk south."
+  - q: How much time should I budget for the Colonne di San Lorenzo?
+    a: >-
+      15-20 minutes is enough to see the columns, fountain, and statue and read
+      the plaque, though many visitors linger longer if they sit on the steps or
+      combine it with the basilica next door.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's a free, open-air street monument accessible 24 hours a day with
+      no ticket or gate.
+  - q: What's the closest metro station?
+    a: >-
+      Missori on the M3 (yellow) line, about a 10-minute walk away. Tram lines 2
+      and 3 stop even closer, right on Corso di Porta Ticinese.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early weekday mornings, before the surrounding shops and bars open, when
+      the street is calm and the light on the columns is best for photos. Late
+      afternoon and evening it fills with locals socializing on the steps.
+  - q: What else is nearby worth seeing?
+    a: >-
+      The Basilica di Sant'Eustorgio right behind the columns (don't miss the
+      Portinari Chapel), the separate Basilica di San Lorenzo Maggiore and its
+      little park, and the Navigli canal district a few minutes' walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 
 ## Why go

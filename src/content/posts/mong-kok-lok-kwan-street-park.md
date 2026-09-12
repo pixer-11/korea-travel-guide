@@ -1,37 +1,44 @@
 ---
-title: "Lok Kwan Street Park: Mong Kok Travel Guide (4.0★)"
-description: "Lok Kwan Street Park is a small, unglamorous neighbourhood park in Tai Kok Tsui, a few minutes' walk from Mong Kok proper — good for a 20-30 minute breather between markets, not a headline sight. 4.0★ (346 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Mong Kok"
-category: "attraction"
-pubDate: "2026-08-12T17:12:09.977Z"
+title: 'Lok Kwan Street Park: Mong Kok Travel Guide (4.0★)'
+description: >-
+  Lok Kwan Street Park is a small, unglamorous neighbourhood park in Tai Kok
+  Tsui, a few minutes' walk from Mong Kok proper — good for a 20-30 minute
+  breather between markets, not a headline sight. 4.0★ (346 reviews) — what
+  visitors say, hours, and tips.
+country: Hong Kong
+region: Mong Kok
+category: attraction
+pubDate: '2026-08-12T17:12:09.977Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg/3840px-Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg"
-  credit: "Photo: 姒姓賢寧 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Archway_of_Lok_Kwan_Street_Park,_Tai_Kok_Tsui_in_April_2022.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg/3840px-Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg
+  credit: 'Photo: 姒姓賢寧 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Archway_of_Lok_Kwan_Street_Park,_Tai_Kok_Tsui_in_April_2022.jpg
 gallery: []
 place:
-  id: "ChIJuZTTwrAABDQRjM1z-fvtLBc"
-  name: "Lok Kwan Street Park"
-  address: "25 Lok Kwan Street Mong Kok, Tai Kok Tsui, Hong Kong"
+  id: ChIJuZTTwrAABDQRjM1z-fvtLBc
+  name: Lok Kwan Street Park
+  address: '25 Lok Kwan Street Mong Kok, Tai Kok Tsui, Kowloon, Hong Kong'
   rating: 4
   userRatingsTotal: 346
-  googleMapsUrl: "https://maps.google.com/?cid=1669971228325301644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1669971228325301644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3236462
   lng: 114.16047800000001
-  phone: "+852 2302 1785"
+  phone: +852 2302 1785
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 15
     weekendBusy:
@@ -45,24 +52,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_63424c7476662d7a314d6a525144424141727754545a754a496843"
+    venueId: ven_63424c7476662d7a314d6a525144424141727754545a754a496843
 tags:
-  - "mong kok"
-  - "top attraction"
-quickAnswer: "Lok Kwan Street Park is a small, unglamorous neighbourhood park in Tai Kok Tsui, a few minutes' walk from Mong Kok proper — good for a 20-30 minute breather between markets, not a headline sight. It's open 24 hours, so mornings before 8am are your best bet for empty benches, since weekends stay busy from 7am to 11pm."
+  - mong kok
+  - top attraction
+quickAnswer: >-
+  Lok Kwan Street Park is a small, unglamorous neighbourhood park in Tai Kok
+  Tsui, a few minutes' walk from Mong Kok proper — good for a 20-30 minute
+  breather between markets, not a headline sight. It's open 24 hours, so
+  mornings before 8am are your best bet for empty benches, since weekends stay
+  busy from 7am to 11pm.
 faq:
-  - q: "Is Lok Kwan Street Park worth visiting?"
-    a: "Only as a short break between other Mong Kok or Tai Kok Tsui activities — it's a modest neighbourhood park, not a standalone attraction, but it's a genuinely quiet, uncrowded spot to rest for 10-20 minutes."
-  - q: "How do I get to Lok Kwan Street Park?"
-    a: "Walk about 10 minutes east from Olympic Station (Tung Chung Line) or about 15 minutes from Mong Kok Station (Tsuen Wan/Kwun Tong lines). The address is 25 Lok Kwan Street, Tai Kok Tsui."
-  - q: "What are the opening hours?"
-    a: "It's open 24 hours every day, so there's no risk of arriving to a locked gate."
-  - q: "When is the quietest time to go?"
-    a: "Weekends stay busy from 7am to 11pm, so aim for early weekday mornings if you want it closer to empty."
-  - q: "Is there an entry fee?"
-    a: "No — it's a free public park with open access from the surrounding streets."
+  - q: Is Lok Kwan Street Park worth visiting?
+    a: >-
+      Only as a short break between other Mong Kok or Tai Kok Tsui activities —
+      it's a modest neighbourhood park, not a standalone attraction, but it's a
+      genuinely quiet, uncrowded spot to rest for 10-20 minutes.
+  - q: How do I get to Lok Kwan Street Park?
+    a: >-
+      Walk about 10 minutes east from Olympic Station (Tung Chung Line) or about
+      15 minutes from Mong Kok Station (Tsuen Wan/Kwun Tong lines). The address
+      is 25 Lok Kwan Street, Tai Kok Tsui.
+  - q: What are the opening hours?
+    a: >-
+      It's open 24 hours every day, so there's no risk of arriving to a locked
+      gate.
+  - q: When is the quietest time to go?
+    a: >-
+      Weekends stay busy from 7am to 11pm, so aim for early weekday mornings if
+      you want it closer to empty.
+  - q: Is there an entry fee?
+    a: >-
+      No — it's a free public park with open access from the surrounding
+      streets.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 ## Why bother with a park called "Lok Kwan Street"
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: milan-parco-sempione
-srcHash: '0450d2b0ab70'
+srcHash: '011698c5d9fb'
 title: 'Parco Sempione: guía de viaje de Milán (4,6★)'
-description: 'El Parco Sempione se extiende detrás del Castillo Sforzesco, en pleno centro de Milán, abierto todos los días de 6:30 a medianoche y con entrada gratuita. 4,6★ (85.912 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parco Sempione se extiende detrás del Castillo Sforzesco, en pleno centro de Milán, abierto todos los días de 6:30 a medianoche y con entrada gratuita. 4,6★ (85.956 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parco Sempione se extiende detrás del Castillo Sforzesco, en pleno centro de Milán, abierto todos los días de 6:30 a medianoche y con entrada gratuita. Es el parque más grande y más visitado de la ciudad, por lo que los fines de semana entre las 11:00 y las 21:00 se llena rápidamente; conviene ir antes de las 11:00 o después de las 21:00 para encontrar espacio libre en el césped. Calcule entre 1 y 2 horas para un recorrido que pase por el Arco della Pace y la Torre Branca.
 faq:
   - q: ¿Cuál es el horario del Parco Sempione?

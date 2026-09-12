@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: milan-pinacoteca-di-brera
-srcHash: '893037ea428e'
+srcHash: '16d2139cb335'
 title: '피나코테카 디 브레라: 밀라노 여행 가이드 (4.7★)'
-description: 피나코테카 디 브레라(Pinacoteca di Brera)는 브레라(Brera) 지구의 17세기 팔라초 위층에 자리한 밀라노 최고의 르네상스 미술관으로, 몬테나폴레오네(Montenapoleone) 또는 란차(Lanza) 지하철역(2호선)에서 걸어서 갈 수 있습니다. 4.7★ (34,976개 리뷰) — 방문객 평가, 운영시간, 팁을 확인하세요.
+description: 피나코테카 디 브레라(Pinacoteca di Brera)는 브레라(Brera) 지구의 17세기 팔라초 위층에 자리한 밀라노 최고의 르네상스 미술관으로, 몬테나폴레오네(Montenapoleone) 또는 란차(Lanza) 지하철역(2호선)에서 걸어서 갈 수 있습니다. 4.7★ (35,279개 리뷰) — 방문객 평가, 운영시간, 팁을 확인하세요.
 quickAnswer: 피나코테카 디 브레라(Pinacoteca di Brera)는 브레라(Brera) 지구의 17세기 팔라초 위층에 자리한 밀라노 최고의 르네상스 미술관으로, 몬테나폴레오네(Montenapoleone) 또는 란차(Lanza) 지하철역(2호선)에서 걸어서 갈 수 있습니다. 만테냐(Mantegna)의 단축법으로 그려진 "죽은 그리스도", 피에로 델라 프란체스카(Piero della Francesca)의 몬테펠트로 제단화, 라파엘로(Raphael)의 "성모의 결혼" 등을 두 시간 정도면 둘러볼 수 있습니다. 오전 10시~오후 6시 사이 몰리는 주말 인파를 피하려면 개장 직후나 오후 6시 이후에 방문하세요.
 faq:
   - q: 피나코테카 디 브레라까지 대중교통으로 어떻게 가나요?

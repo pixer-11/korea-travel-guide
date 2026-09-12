@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: milan-colonne-di-san-lorenzo
-srcHash: '2b56eaa6e981'
-title: 圣洛伦佐柱廊(Colonne di San Lorenzo):米兰旅行指南 (4.4★)
-description: 圣洛伦佐柱廊是16根罗马大理石石柱，矗立在圣埃斯托焦圣殿(Basilica di Sant'Eustorgio)正前方的蒂奇内塞门大道(Corso di Porta Ticinese)上，作为露天街头古迹全天开放。4.4★(447条评论)——访客怎么说、开放时间及游览贴士。
+srcHash: '59ed25c9d364'
+title: 圣洛伦佐柱廊(Colonne di San Lorenzo):米兰旅行指南 (4.5★)
+description: 圣洛伦佐柱廊是16根罗马大理石石柱，矗立在圣埃斯托焦圣殿(Basilica di Sant'Eustorgio)正前方的蒂奇内塞门大道(Corso di Porta Ticinese)上，作为露天街头古迹全天开放。4.5★(518条评论)——访客怎么说、开放时间及游览贴士。
 quickAnswer: 圣洛伦佐柱廊是16根罗马大理石石柱，矗立在圣埃斯托焦圣殿(Basilica di Sant'Eustorgio)正前方的蒂奇内塞门大道(Corso di Porta Ticinese)上，作为露天街头古迹全天开放。花15-20分钟观赏、拍照并读一读铭牌就足够了，之后可以顺路把它纳入穿越蒂奇内塞(Ticinese)街区、通往纳维利运河(Navigli)的漫步路线中。清晨或工作日下午人最少，这时开胃酒(aperitivo)人群还没有占领台阶。
 faq:
   - q: 游览圣洛伦佐柱廊应该安排多少时间?

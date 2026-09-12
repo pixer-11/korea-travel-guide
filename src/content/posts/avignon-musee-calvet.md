@@ -1,40 +1,45 @@
 ---
-title: "Musée Calvet: Avignon Travel Guide (4.5★)"
-description: "Musée Calvet sits on Rue Joseph Vernet in central Avignon, a five-minute walk from Place de l'Horloge, and it's one of the city's quieter big-ticket museums. 4.5★ (1,051 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Avignon"
-category: "attraction"
-pubDate: "2026-09-12T07:46:41.382Z"
+title: 'Musée Calvet: Avignon Travel Guide (4.5★)'
+description: >-
+  Musée Calvet sits on Rue Joseph Vernet in central Avignon, a five-minute walk
+  from Place de l'Horloge, and it's one of the city's quieter big-ticket
+  museums. 4.5★ (1,052 reviews) — what visitors say, hours, and tips.
+country: France
+region: Avignon
+category: attraction
+pubDate: '2026-09-12T07:46:41.382Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mus%C3%A9e_Calvet.jpg/1920px-Mus%C3%A9e_Calvet.jpg"
-  credit: "Photo: Shoshanah / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Calvet.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mus%C3%A9e_Calvet.jpg/1920px-Mus%C3%A9e_Calvet.jpg
+  credit: 'Photo: Shoshanah / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Calvet.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ0SSHcY_rtRIRw9sCcO5Mmlo"
-  name: "Musée Calvet"
-  address: "65 Rue Joseph Vernet, 84000 Avignon, France"
+  id: ChIJ0SSHcY_rtRIRw9sCcO5Mmlo
+  name: Musée Calvet
+  address: '65 Rue Joseph Vernet, 84000 Avignon, France'
   rating: 4.5
-  userRatingsTotal: 1051
-  googleMapsUrl: "https://maps.google.com/?cid=6528615196792118211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1052
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6528615196792118211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.9469953
   lng: 4.8034028
-  phone: "+33 4 90 86 33 84"
+  phone: +33 4 90 86 33 84
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:30 PM"
-    - "Wednesday: 10:00 AM – 5:30 PM"
-    - "Thursday: 10:00 AM – 5:30 PM"
-    - "Friday: 10:00 AM – 5:30 PM"
-    - "Saturday: 10:00 AM – 5:30 PM"
-    - "Sunday: 10:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-09-12
+    updated: 2026-09-12T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -48,24 +53,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f6c6d4d354f634373397752495274725f5963485353304a496843"
+    venueId: ven_6f6c6d4d354f634373397752495274725f5963485353304a496843
 tags:
-  - "avignon"
-  - "museum"
-quickAnswer: "Musée Calvet sits on Rue Joseph Vernet in central Avignon, a five-minute walk from Place de l'Horloge, and it's one of the city's quieter big-ticket museums. It's open daily 10am–5:30pm except Monday, when it's closed entirely. Weekends fill up between 11am and 5pm, so a weekday morning or a late-afternoon visit gets you the galleries almost to yourself."
+  - avignon
+  - museum
+quickAnswer: >-
+  Musée Calvet sits on Rue Joseph Vernet in central Avignon, a five-minute walk
+  from Place de l'Horloge, and it's one of the city's quieter big-ticket
+  museums. It's open daily 10am–5:30pm except Monday, when it's closed entirely.
+  Weekends fill up between 11am and 5pm, so a weekday morning or a
+  late-afternoon visit gets you the galleries almost to yourself.
 faq:
-  - q: "What are Musée Calvet's opening hours?"
-    a: "Tuesday through Sunday, 10am to 5:30pm. It's closed all day Monday, so plan other Avignon museums for that day instead."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, especially Tuesday or Wednesday right at the 10am opening. Weekends between 11am and 5pm are the busiest stretch, so avoid that window if you can."
-  - q: "How long should I spend at the museum?"
-    a: "Budget 90 minutes to two hours to see the Egyptian, Greek and Roman collections plus the painting galleries and the wrought-iron room properly."
-  - q: "How do I get to Musée Calvet from central Avignon?"
-    a: "It's at 65 Rue Joseph Vernet, a five-to-seven minute walk from Place de l'Horloge, and about 15 minutes on foot from Avignon Centre train station."
-  - q: "Is Musée Calvet crowded compared to the Palais des Papes?"
-    a: "No. It stays under the radar for most visitors, so even Saturday afternoons feel considerably calmer than Avignon's headline sights."
+  - q: What are Musée Calvet's opening hours?
+    a: >-
+      Tuesday through Sunday, 10am to 5:30pm. It's closed all day Monday, so
+      plan other Avignon museums for that day instead.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, especially Tuesday or Wednesday right at the 10am
+      opening. Weekends between 11am and 5pm are the busiest stretch, so avoid
+      that window if you can.
+  - q: How long should I spend at the museum?
+    a: >-
+      Budget 90 minutes to two hours to see the Egyptian, Greek and Roman
+      collections plus the painting galleries and the wrought-iron room
+      properly.
+  - q: How do I get to Musée Calvet from central Avignon?
+    a: >-
+      It's at 65 Rue Joseph Vernet, a five-to-seven minute walk from Place de
+      l'Horloge, and about 15 minutes on foot from Avignon Centre train station.
+  - q: Is Musée Calvet crowded compared to the Palais des Papes?
+    a: >-
+      No. It stays under the radar for most visitors, so even Saturday
+      afternoons feel considerably calmer than Avignon's headline sights.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-12'
 ---
 You could walk past the entrance on Rue Joseph Vernet without clocking it. There's no queue snaking down the pavement, no ticket touts, just a pale 18th-century mansion with wrought-iron gates and a courtyard that most tourists heading to the Palais des Papes never bother to detour into.
 
