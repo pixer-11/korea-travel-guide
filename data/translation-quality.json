@@ -4970,11 +4970,11 @@
   "at": "2026-08-15T02:48:50.981Z"
  },
  "ja/chiang-rai-baan-dam-museum": {
-  "hash": "5e5a57f61754",
+  "hash": "5a43a0b01123",
   "score": 1,
   "registerBreak": false,
-  "worst": "車で20分ほどの距離にある白い寺院の賑わいとカメラの喧騒とは対照的に、バーンダムはゆっくりと歩いてこそ味わえる場所です。",
-  "at": "2026-08-15T02:48:53.955Z"
+  "worst": "急勾配で寺院のような形をしていながら、どこかいびつで、本物のお寺と呼ぶには厳めしすぎる佇まいです。",
+  "at": "2026-09-12T13:03:51.188Z"
  },
  "ja/chiang-mai-the-baristro-asian-style": {
   "hash": "bd6b1339dd6e",
@@ -10976,11 +10976,11 @@
   "at": "2026-08-15T08:44:17.486Z"
  },
  "es/chiang-rai-baan-dam-museum": {
-  "hash": "7608a41ce35b",
+  "hash": "95b3fa45c143",
   "score": 1,
   "registerBreak": false,
-  "worst": "A diferencia de la energía de multitudes y cámaras del Templo Blanco, veinte minutos de",
-  "at": "2026-08-15T03:17:36.271Z"
+  "worst": "el resultado se siente menos como un museo que como el interior del sueño de alguien",
+  "at": "2026-09-12T13:03:48.703Z"
  },
  "es/chiang-rai-rong-suea-ten-temple": {
   "hash": "2e4608de652a",
@@ -16870,11 +16870,11 @@
   "at": "2026-08-15T03:47:33.239Z"
  },
  "zh/chiang-rai-baan-dam-museum": {
-  "hash": "fe5c114a5ad5",
+  "hash": "4db5be25b28b",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里读起来更像是走进了某人的梦境，而不只是一座博物馆。",
-  "at": "2026-08-15T03:47:34.239Z"
+  "worst": "距此二十分钟车程的白庙，总是人潮涌动、相机快门声不断，而黑屋博物馆却截然不同",
+  "at": "2026-09-12T13:03:55.182Z"
  },
  "zh/chiayi-hinoki-village": {
   "hash": "8fe2e34ac1c1",
@@ -28642,5 +28642,40 @@
   "registerBreak": false,
   "worst": "각 기둥 위로는 솔방울과 솔방울 문양 소용돌이 장식이 새겨진 주두를 얹은 말굽 아치가 얹혀 있는데",
   "at": "2026-09-12T11:40:50.856Z"
+ },
+ "ko/chiang-rai-baan-dam-museum": {
+  "hash": "ff224a0c96cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입구 근처의 커다란 검은 홀만 대충 둘러보고 나가버리는 것은 대부분의 초행자들이 저지르는 실수입니다.",
+  "at": "2026-09-12T13:03:53.281Z"
+ },
+ "es/bukhara-kalan-mosque": {
+  "hash": "8c34b6ced13e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La luz de primera hora de la mañana también favorece más los azulejos, porque incide en",
+  "at": "2026-09-12T13:04:00.036Z"
+ },
+ "ja/bukhara-kalan-mosque": {
+  "hash": "afee6f394e3e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現役のモスク群としてはこれは珍しく、ルートを組み立てる際に活かしたいポイントです。",
+  "at": "2026-09-12T13:04:01.578Z"
+ },
+ "ko/bukhara-kalan-mosque": {
+  "hash": "5b32eb053a66",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 잘 알려지지 않은 숨은 명소가 아니라 이미 유명한 곳이라, 어느 시간대에 가더라도 다른 방문객들과 함께할 수밖",
+  "at": "2026-09-12T13:04:03.224Z"
+ },
+ "zh/bukhara-kalan-mosque": {
+  "hash": "3ecfd2f8a161",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对于一处仍在使用中的清真寺建筑群来说，这种安排其实并不常见，值得据此专门规划行程。",
+  "at": "2026-09-12T13:04:04.853Z"
  }
 }

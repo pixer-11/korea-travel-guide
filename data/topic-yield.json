@@ -18,12 +18,12 @@
    "hits": 7
   },
   "art gallery": {
-   "attempts": 38,
+   "attempts": 47,
    "hits": 7
   },
   "night view": {
-   "attempts": 31,
-   "hits": 4
+   "attempts": 36,
+   "hits": 5
   },
   "waterfront": {
    "attempts": 16,
@@ -70,11 +70,11 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 26,
+   "attempts": 33,
    "hits": 1
   },
   "bar": {
-   "attempts": 21,
+   "attempts": 27,
    "hits": 0
   },
   "vegetarian": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-12T07:51:28.601Z"
+ "updated": "2026-09-12T13:02:45.623Z"
 }

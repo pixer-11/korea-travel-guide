@@ -18510,5 +18510,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows SDC building across lake, representative exterior view",
     "at": "2026-09-12T07:51:28.579Z"
+  },
+  "bukhara-kalan-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Masjidi_Kalyan.jpg/1920px-Masjidi_Kalyan.jpg": {
+    "slug": "bukhara-kalan-mosque",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic entrance portal, matches Kalan Mosque architecture in Bukhara",
+    "at": "2026-09-12T12:57:08.549Z"
   }
 }
