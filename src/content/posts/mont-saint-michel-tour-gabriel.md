@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most people walking up to Mont Saint-Michel never look down at the water's edge, where a squat round tower has been standing guard since the 1500s. Tour Gabriel sits apart from the main gate, reached by the Chemin de la Montée aux Poulains rather than the packed Grande Rue, which is exactly why it stays so calm while the rest of the island fills up.
 
 ## What Tour Gabriel actually is
@@ -61,7 +60,7 @@ Today it functions as a small museum, and at 4.7 stars from a modest 85 reviews,
 Tour Gabriel is easy to miss because it sits below and outside the main fortified entrance most visitors funnel through.
 
 - Look for Chemin de la Montée aux Poulains, a lower path that runs along the base of the ramparts before you reach the main gate (Porte de l'Avancée).
-- The tower is at 7 Chemin de la Montée aux Poulains, right where this path meets the shoreline defences.
+- You'll find the tower right where this path meets the shoreline defences.
 - If you're coming from the shuttle bus drop-off or the causeway walk, you'll pass this turn before the crowds funnel upward toward the Grande Rue.
 
 Because so few visitors take this lower route, you'll often have the approach path almost to yourself, even at midday.
@@ -72,7 +71,7 @@ The real reason to detour here isn't just the history, it's the angle. From the 
 
 This was the whole point of the tower: total visual command of the tidal flats and any approach across them. Standing where the gunners once stood, you get the same sweep of sand, water and sky, minus the risk of actually needing to fire on anyone.
 
-It's a natural pause point for photos of the mount's fortifications from below, a angle most day-trippers never bother to find because it requires walking away from the entrance rather than toward it.
+It's a natural pause point for photos of the mount's fortifications from below, an angle most day-trippers never bother to find because it requires walking away from the entrance rather than toward it.
 
 ## Reading the walls: what to actually look at inside
 

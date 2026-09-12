@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Walk south from Onarimon or Shibakoen subway stations and Zojo-ji arrives as a change of scale: a two-story wooden gate, black-lacquered and heavy-beamed, standing directly in the shot line of Tokyo Tower's red-and-white lattice. That gate, the Sanmon, dates to 1622 and is one of the oldest wooden structures left in central Tokyo, having survived the 1945 firebombing that destroyed most of the rest of the compound.
 
 Zojo-ji has been the head temple of the Jodo-shu (Pure Land) sect since the 1590s, when it was moved here to serve as the funerary temple of the Tokugawa shogunate. Six Tokugawa shoguns are buried on the grounds, in a mausoleum area that's more modest today than its Edo-period original but still marked by carved stone lanterns and gates salvaged from the old complex.
@@ -80,7 +79,7 @@ Start at the Sanmon gate and pass straight through it; this is the formal entran
 Beyond the gate the Daiden (main hall) sits on raised ground, a 1970s concrete rebuild that replaces the hall lost to wartime bombing. It's plainer than the Sanmon but functional: this is where the sect's daily services actually happen, and visitors are welcome to step up, bow, and drop a coin in the offering box.
 
 - Sanmon gate: 1622, one of Tokyo's oldest wooden buildings
-- Daiden: rebuilt 1974, active worship hall
+- Daiden: a 20th-century concrete rebuild, the temple's main hall
 - Ankokuden: a smaller side hall holding a black-painted image of Amida Buddha said to have belonged to Tokugawa Ieyasu
 
 ## Senzu Kannon and the rows of jizo
@@ -126,4 +125,3 @@ Zojo-ji sits in Shibakoen, Minato City, a short walk from either Onarimon Statio
 Given how consistently well-reviewed the temple is and its position as one of the most visited Buddhist sites in the city, don't expect true solitude at any hour. The early window is a relative quiet, not an empty one.
 
 Pair the visit with Shiba Park, which wraps around part of the temple grounds and gives a second angle on the Sanmon-and-tower composition, or continue on to Tokyo Tower itself, a five-to-ten minute walk north.
-

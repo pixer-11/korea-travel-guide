@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You could walk past the entrance on Rue Joseph Vernet without clocking it. There's no queue snaking down the pavement, no ticket touts, just a pale 18th-century mansion with wrought-iron gates and a courtyard that most tourists heading to the Palais des Papes never bother to detour into.
 
 That's the appeal. Musée Calvet is Avignon's fine arts and antiquities museum, built around the private collection of Esprit Calvet, a local doctor who left his books, coins, natural history specimens and art to the city when he died in 1810. Two and a half centuries later it's grown into one of the more substantial provincial museums in France, and it still doesn't get the crowds its collection deserves.
@@ -90,7 +89,7 @@ Give it 90 minutes to two hours if you want to see the whole building rather tha
 
 Musée Calvet is closed Mondays, so don't build it into a Monday itinerary alongside the other Avignon museums, many of which share that closing day. The rest of the week it runs 10am to 5:30pm, seven hours to work with.
 
-Weekends between 11am and 5pm are the busiest stretch, mostly with day-trippers combining it with the Palais des Papes or Pont d'Avignon. If you can, go on a Tuesday or Wednesday morning instead, right at opening.
+Weekend afternoons tend to be the busiest stretch, mostly with day-trippers combining it with the Palais des Papes or Pont d'Avignon. If you can, go on a Tuesday or Wednesday morning instead, right at opening.
 
 Because this museum sits below the radar for most visitors compared to Avignon's headline sights, even a Saturday afternoon here rarely feels crowded the way the Palais des Papes does. You're not fighting for space in front of the paintings.
 

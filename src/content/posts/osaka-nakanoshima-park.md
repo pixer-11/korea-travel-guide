@@ -51,16 +51,15 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The island itself
 
 Nakanoshima is a sliver of land between the Dojima and Tosabori rivers, and the park runs along its eastern tip. It opened in 1891, making it Osaka's first public park. The whole stretch is walkable in under 20 minutes, but the surrounding architecture is why people linger.
 
-Osaka City Central Public Hall, a red-brick Neo-Renaissance building from 1918, anchors the western end. Just past it sits the Osaka Museum of Oriental Ceramics, worth 45 minutes if you care about celadon and white porcelain. The park itself is free; the museum charges separate admission.
+Osaka City Central Public Hall, a red-brick Neo-Renaissance building from 1918, anchors the western end. Just past it sits the Osaka Museum of Oriental Ceramics, which holds celadon and white porcelain collections. The park itself is free; the museum charges separate admission.
 
 ## The rose garden
 
-Roses are the reason most people show up. Around 3,700 bushes across more than 90 varieties bloom in two waves: mid-to-late May and again in October. Outside those windows, the garden is pleasant but unremarkable, just clipped beds and gravel paths along the water.
+Roses are the reason most people show up. Rose bushes across many varieties bloom in two waves: mid-to-late May and again in October. Outside those windows, the garden is pleasant but unremarkable, just clipped beds and gravel paths along the water.
 
 Photographers cluster here on weekend mornings during peak bloom. If you want clear shots of the flowers against the riverbank without dodging tripods, a weekday visit beats Saturday or Sunday.
 

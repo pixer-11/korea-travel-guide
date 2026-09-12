@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors walking Hollywood Road are chasing antique shops and the smell of dried seafood drifting up from Des Voeux Road. Liang Yi Museum sits behind an unmarked, almost fortress-like facade at 181-199 Hollywood Rd, and unless you already know it's there, you'll walk straight past it.
 
 That anonymity is deliberate. This is a private museum, founded by collector Peggy Lee, and it doesn't chase footfall the way its neighbours do. Inside, four floors hold one of the world's more significant private collections of classical Chinese furniture, alongside a separate collection of European gold and silver vanity cases from the early 20th century.
@@ -81,7 +80,7 @@ Cabinets, daybeds, and scholar's chairs are arranged so you can walk around them
 
 The second collection, upstairs, is a hard swerve from Ming dynasty hardwood: European vanity cases, mostly gold and enamel, mostly early 1900s. It sounds like an odd pairing on paper, but it reflects the founder's own two collecting passions rather than an attempt at a unified theme.
 
-These cases were made by houses like Cartier and Van Cleef & Arpels for a clientele that treated a compact, jewelled case as both tool and status object. Fitted interiors held powder, lipstick, a comb, sometimes a tiny clock, all behind an enamelled or gem-set lid. It's a smaller, glinting counterpoint to the dark hardwood downstairs, and most visitors say the contrast is what stays with them.
+These cases were made by houses like Cartier and Van Cleef & Arpels for a clientele that treated a compact, jewelled case as both tool and status object. Fitted interiors held powder, lipstick, a comb, sometimes a tiny clock, all behind an enamelled or gem-set lid. It's a smaller, glinting counterpoint to the dark hardwood downstairs.
 
 ## Getting there through Sheung Wan
 

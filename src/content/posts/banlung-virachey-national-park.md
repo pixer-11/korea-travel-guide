@@ -75,7 +75,7 @@ Confirm current guide fees and permit costs directly before you go; they shift a
 
 ## When to go
 
-Weekends stay relatively quiet, per recent visitor patterns, which is unusual for a named national park this size. The relative crowd peak, still modest, tends to land on weekends, mostly transit and departure traffic at the ranger point rather than actual trail congestion.
+Visitor numbers stay low overall, which isn't unusual for a park this remote and undeveloped. The relative crowd peak, still modest, tends to land on weekends, mostly transit and departure traffic at the ranger point rather than actual trail congestion.
 
 Weekday visits mean you'll likely have long stretches of trail to yourself. This is a park built for solitude, not for photo-op crowds, and the numbers back that up.
 

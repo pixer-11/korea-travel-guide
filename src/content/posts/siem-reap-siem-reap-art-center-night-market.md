@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's actually here
 
 This isn't a temple souvenir strip; it's a covered grid of stalls off Hospital Street, close enough to Pub Street to fold into an evening loop. Vendors sell silk scarves, silver jewelry, wood carvings, printed t-shirts and krama scarves. Between the stalls, plastic-chair massage bays offer foot and shoulder rubs while you sit facing the aisle.
@@ -78,7 +77,7 @@ This market draws heavy foot traffic most evenings, so plan around it rather tha
 - After 9:30pm, vendors start discounting slow-moving stock to avoid packing it back up
 - Weeknights run thinner than Friday and Saturday
 
-Cash rules here; small US dollar bills or Cambodian riel work, and few stalls take cards. Bargaining is expected but keep it good-natured: counter at roughly half the first quote and meet in the middle rather than pushing for rock-bottom.
+Cash rules here; small US dollar bills or Cambodian riel work, and few stalls take cards. Bargaining is expected but keep it good-natured: negotiate politely and settle on a price you're both comfortable with rather than pushing for rock-bottom.
 
 ## What to skip and what to linger over
 

@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The building itself is the first exhibit: a matte black cube, five storeys tall, raised on stilts above a plaza of grey pavers. Architect Endo Yoshiaki designed it as a floating box, and from the riverside promenade along the Dojima River it reads less like a museum entrance and more like a piece of sculpture that happens to have doors.
 
 Those doors open into a soaring atrium that runs almost the full height of the building, lit from above and lined with black steel stairs that zigzag between floors. There's no ground-floor lobby in the traditional sense; you ride an escalator up through this dark shaft before the galleries themselves reveal anything, which is a deliberate bit of theater and one of the reasons the place gets photographed as much as its art.
@@ -89,7 +88,7 @@ The museum sits at the western end of Nakanoshima, the narrow island that splits
 
 - Nearest station: Watanabebashi Station (Keihan Nakanoshima Line), about a 5-minute walk
 - Also walkable from Yodoyabashi and Higobashi stations (Midosuji and Yotsubashi lines), roughly 12-15 minutes
-- Neighbors include the Osaka Museum of Natural History's older sibling institutions and the National Museum of Art, Osaka, just across the plaza, so pairing the two in one afternoon is easy and common
+- Neighbors include other Nakanoshima cultural institutions and the National Museum of Art, Osaka, just across the plaza, so pairing the two in one afternoon is easy and common
 
 Because the National Museum of Art is essentially next door and partly underground, many visitors do both museums back to back rather than choosing one.
 

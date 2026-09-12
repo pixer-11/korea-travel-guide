@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's actually here
 
 Crystal Springs Rhododendron Garden packs over 2,500 rhododendrons and azaleas into 9.5 acres bordering Eastmoreland Golf Course. Spring-fed ponds anchor the layout, crossed by small footbridges and rimmed by gravel paths. Ducks, geese, and the occasional heron work the water year-round, so the place holds visual interest even in November when nothing's flowering.
@@ -85,7 +84,7 @@ The address is 5801 SE 28th Ave, Portland, OR 97202, tucked against the golf cou
 
 TriMet bus line 19 (Woodstock/Glenwood) stops within a few blocks. There's no dedicated garden parking lot, so plan on street spots and a short walk.
 
-- A small entrance fee applies Thursday through Monday during peak season (typically spring/summer); Tuesdays and Wednesdays are usually free
+- An entrance fee may apply depending on the day and season
 - Confirm current fees and any seasonal changes before you go, since these shift year to year
 - Entrance is on SE 28th Ave, marked by a modest gate and small booth during paid hours
 
@@ -96,4 +95,3 @@ The path circles the ponds in a rough figure-eight, so you can't really get lost
 Bring cash or a card for the entrance booth on paid days, since staffing is minimal and lines move slowly if everyone's fumbling for exact change. Photographers cluster on the bridges over the ponds during peak bloom, especially midweek mornings when light is softer and paths are emptier.
 
 This is a well-known stop on Portland's spring garden circuit, not a secret one, so May weekends will feel busy no matter what. If you want the quiet version of this place, a weekday visit right at 10am, or a trip in June or September when the crowds have gone but the ponds and structure remain, is the move.
-

@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-10'
 ---
-
 ## What you're actually climbing
 
 Rinjani tops out at 3,726 metres, Indonesia's second-highest volcano after Kerinci. The crater holds Segara Anak, a crescent lake with its own smaller cone, Gunung Baru Jari, steaming inside it. Two main gateway villages serve the park: Senaru on the north side, Sembalun on the east. Most multi-day treks link the two, descending through a different landscape than they climbed.
@@ -93,7 +92,7 @@ The rim trek to Senaru crater view is a doable two-day trip for reasonably fit h
 
 ## When the gates are actually open
 
-Trekking is officially closed from roughly January through March, Lombok's wet season, when trails turn to mud and landslide risk shuts routes down. The dry window, April to December, is when almost all guided treks run. Park entry hours are listed as 7am to 7pm daily (7:30pm Mondays), but that governs registration and daytime access, not the summit attempt itself, which leaves camp right at opening, 7am, to catch sunrise from the top.
+Trekking is officially closed from roughly January through March, Lombok's wet season, when trails turn to mud and landslide risk shuts routes down. The dry window, April to December, is when almost all guided treks run. Park entry hours are listed as 7am to 7pm daily (7:30pm Mondays), but that governs registration and daytime access, not the summit attempt itself, which leaves camp well before dawn, in the middle of the night, to catch sunrise from the top.
 
 Peak trekking months are July and August, plus the days around Indonesian public holidays; book guides and porters a few weeks ahead if you're aiming for that window.
 

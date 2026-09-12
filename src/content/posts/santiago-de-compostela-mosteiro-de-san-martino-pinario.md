@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this monastery gets overlooked
 
 San Martiño Pinario stands one block from the Cathedral, but its weekday-only, morning-only schedule filters out the crowds heading to the main square. Monday through Friday, 8:00 AM to 1:30 PM, is the entire window. Closed Saturday and Sunday, which rules out a huge share of weekend pilgrims. That single fact explains why a 4.6-rated site with nearly a thousand reviews still feels quiet.
@@ -75,7 +74,7 @@ A religious art museum occupies part of the former monastic quarters. Expect:
 - Sculpture and painting from the monastery's centuries as a working Benedictine house
 - Rooms that once served the monks' daily routine, now repurposed as gallery space
 
-Give the church 20 minutes, the museum another 25 to 30. An hour covers it well without rushing.
+A visit to both the church and the museum can be done at an unhurried pace without taking up a whole morning.
 
 ## Getting there and around Plaza de San Martiño
 

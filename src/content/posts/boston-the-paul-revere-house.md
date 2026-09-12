@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The house leans slightly over North Square, its dark clapboard and diamond-pane windows looking nothing like the brick townhouses around it. That's the point: this is Boston's oldest surviving downtown structure, built around 1680, decades before Paul Revere ever owned it. By the time he rode out from here on the night of April 18, 1775, the house was already close to a century old.
 
 ## Walking into the 1680s
@@ -106,7 +105,7 @@ Saint Stephen's Church and the Old North Church, where the "one if by land, two 
 
 ## Buying tickets and moving through the house
 
-Tickets are sold at the small entrance building next to the house itself; lines can form here on weekend afternoons since the rooms only hold so many people at once. Cash and card are both accepted at the desk.
+Tickets are sold at the small entrance building next to the house itself; lines can form here on weekend afternoons since the rooms only hold so many people at once.
 
 There's no strict guided tour structure, you move through the rooms at your own pace, following the natural room-to-room flow rather than a marked route. Photography is generally allowed inside without flash, though staff will remind you if a particular room restricts it.
 

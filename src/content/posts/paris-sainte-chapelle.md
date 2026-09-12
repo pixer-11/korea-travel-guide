@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually looking at
 
 Sainte-Chapelle was built in the 1240s under Louis IX to house relics he'd bought from Constantinople, including what was claimed to be the Crown of Thorns. The relics themselves now live in Notre-Dame's treasury; what remains here is the container. Fifteen stained-glass windows, over 1,100 individual panels, run 15 meters high and wrap the upper chapel on three sides, telling the biblical story from Genesis to Revelation.
@@ -85,7 +84,7 @@ Sainte-Chapelle shares its courtyard with the Palais de Justice, so there's an a
 - Nearest stop: Cité (Line 4), a two-minute walk
 - Also close: Saint-Michel–Notre-Dame (RER B/C), about 5 minutes
 - Open daily 9am–7pm; no early or late slots
-- Weekends run heaviest from 1pm to 5pm; the calmest hours are the same 9am–7pm window on quieter weekdays, so a weekday morning arrival is your best bet
+- Weekends run heavy throughout the day; the calmest hours are the same 9am–7pm window on quieter weekdays, so a weekday morning arrival is your best bet
 - Buy timed tickets online in advance; the on-site queue for walk-ups can run 45+ minutes in season
 
 A combined ticket with the neighboring Conciergerie is usually available and worth it if you're doing both same day.

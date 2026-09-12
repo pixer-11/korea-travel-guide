@@ -72,10 +72,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-
 ## What you're actually looking at
 
-Dubai Old Village sits in Al Hamriya, on the Bur Dubai side of the Creek, a cluster of low buildings built from coral stone, gypsum and palm-frond (barasti) roofing. It's a recreation rather than a surviving original quarter, modeled on how Dubai's waterfront looked before the 1966 oil discovery changed everything. Wind towers (barjeel) punctuate the rooflines, an old cooling system that predates air conditioning by centuries.
+Dubai Old Village sits in Al Hamriya, on the Bur Dubai side of the Creek, a cluster of low buildings built from coral stone, gypsum and palm-frond (barasti) roofing. It's a recreation rather than a surviving original quarter, modeled on how Dubai's waterfront looked in earlier decades. Wind towers (barjeel) punctuate the rooflines, an old cooling system that predates air conditioning by centuries.
 
 Narrow alleys connect small courtyards and single-story houses. Wooden doors are studded with iron and painted in the same muted browns and creams as the walls. There's no ticket booth crowd here, which fits its 4.6-star rating built from just over 1,100 reviews.
 
@@ -101,6 +100,6 @@ Treat the lanes as you would any low-key residential-style heritage site: keep v
 
 - Wear closed shoes; ground is uneven coral-stone paving
 - Carry small cash in case of an on-site donation box or small stall
-- Allow 45 minutes to an hour; it's compact, not a half-day site
+- It's compact, not a half-day site
 
 Because it draws so few tour groups, this is one of the rare Dubai heritage stops where you can actually stand still in an alley and hear nothing but wind against the barjeel towers.

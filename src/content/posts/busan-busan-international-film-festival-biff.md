@@ -43,7 +43,7 @@ draft: false
 ---
 ## What the 2026 edition looks like
 
-BIFF's 31st year runs October 6-15, 2026, a ten-day run that anchors Busan's autumn calendar. Expect 316 films from 59 countries, spanning new Asian cinema, world premieres and restored classics. This year's festival honors Michelle Yeoh as Asian Filmmaker of the Year, a slot that usually brings a retrospective screening and a public conversation. BIFF has always used the festival to spotlight Asian cinema first, Hollywood a distant second, so the crowd skews toward serious festival-goers and industry buyers over casual tourists.
+BIFF's 31st year runs October 6-15, 2026, a ten-day run that anchors Busan's autumn calendar. Expect a packed slate of films from dozens of countries, spanning new Asian cinema, world premieres and restored classics. This year's festival honors Michelle Yeoh as Asian Filmmaker of the Year, a slot that usually brings a retrospective screening and a public conversation. BIFF has always used the festival to spotlight Asian cinema first, Hollywood a distant second, so the crowd skews toward serious festival-goers and industry buyers over casual tourists.
 
 ## Finding the Busan Cinema Center
 

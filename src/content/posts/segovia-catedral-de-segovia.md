@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're looking at
 
 This is the last major Gothic cathedral built in Spain, finished in the 1500s and 1600s after the previous one, closer to the Alcázar, was wrecked in a revolt. Locals still call it "the Lady of Cathedrals" for its scale and its pale limestone towers, which top out over 88 meters. Inside, the nave is unusually tall and narrow, with ribbed vaulting that pulls your eye straight up rather than forward.
@@ -97,7 +96,7 @@ A separate tower climb is usually offered for an extra fee, with guided timed sl
 
 ## Timing your visit around the crowds
 
-This is one of Segovia's most-visited sites, so it never feels empty, but the hours themselves stay consistent: 9am to 9pm on weekdays and weekends alike is the calm stretch, while Saturdays and Sundays from noon onward pull the heaviest foot traffic as day-trippers from Madrid arrive.
+This is one of Segovia's most-visited sites, so it never feels empty, but the hours themselves stay consistent: weekday mornings are the calm stretch, while Saturdays and Sundays from noon onward pull the heaviest foot traffic as day-trippers from Madrid arrive.
 
 Sunday opens late, at 1:30pm, which actually works in your favor if you come right at opening before the afternoon crowd builds. On any other day, arriving close to 9am gets you the nave largely to yourself before tour groups start filing in.
 
@@ -111,4 +110,3 @@ Entry is by ticket at a booth just inside the main door on Plaza Mayor side; car
 - Follow the marked one-way route through chapels and cloister rather than backtracking
 
 Mass is still held here, so check posted times if you want to avoid touring mid-service, or attend if you'd rather experience the space as it's actually used.
-

@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually seeing
 
 Cheekwood sits on a former Cheek family estate at 1200 Forrest Park Drive, southwest of downtown Nashville. The Georgian-style mansion, built in the early 1930s with the Maxwell House coffee fortune, now houses an art museum. Around it spread 55 acres of botanical gardens, terraced lawns, and woodland trails.
@@ -82,7 +81,7 @@ Spring brings dogwoods and the Cheekwood tulip display; autumn turns the woodlan
 
 ## Visiting hours and avoiding the crush
 
-Cheekwood is closed every Monday, an easy trip-planning mistake if you're building a Nashville itinerary around a long weekend. Tuesday through Sunday it runs 9am to 5pm, with last entry typically before closing, so don't plan on rolling in at 4:45.
+Cheekwood is closed every Monday, an easy trip-planning mistake if you're building a Nashville itinerary around a long weekend. Tuesday through Sunday it runs 9am to 5pm, so don't plan on rolling in at 4:45.
 
 Weekends between 10am and 5pm are the busiest stretch, especially during seasonal light shows or flower installations. If you can only come on a Saturday or Sunday, arrive right at 9am opening to get an hour or so ahead of the crowd. Weekday mornings are the more reliable quiet option if your schedule allows.
 

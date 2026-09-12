@@ -54,8 +54,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
-Most people rushing between Angkor Wat and Ta Prohm never turn off for Srah Srang, and that's exactly why it's worth the detour. This is a man-made reservoir, about 700 metres long, dug in the 12th century to supply water and mark royal ceremony, not to be photographed by crowds.
+Most people rushing between Angkor Wat and Ta Prohm never turn off for Srah Srang, and that's exactly why it's worth the detour. This is a man-made reservoir, about 700 metres long, dug to supply water and mark royal ceremony.
 
 You reach it via a sandstone landing terrace on the western bank, guarded by stone lions and a pair of naga serpents whose bodies form the balustrade. The steps lead straight down to the water's edge, angled so that sunrise lands directly across the reservoir in front of you. Behind you, low sugar palms and dry dipterocarp forest ring the water on three sides.
 
@@ -73,7 +72,7 @@ There's no ticket booth here specifically; your standard Angkor Pass, checked at
 
 ## What you're actually looking at
 
-The reservoir was built during the reign of Rajendravarman in the 10th century and later rebuilt under Jayavarman VII in the 12th, which is the era that gives it its current stone terrace. Historians believe it served both practical irrigation purposes and ceremonial ones, possibly used for royal bathing rituals or as a staging point for barges during festivals.
+The reservoir was built in stages during the Angkor period, with its sandstone terrace added later, which is the era that gives it its current stone terrace. Historians believe it served both practical irrigation purposes and ceremonial ones, possibly used for royal bathing rituals or as a staging point for barges during festivals.
 
 Unlike the moats around Angkor Wat or Angkor Thom, Srah Srang has no temple rising from its center. What you get instead is open water, sky, and one architecturally serious embarkation point. It rewards visitors who like ruins for their engineering and atmosphere rather than carved narrative panels.
 

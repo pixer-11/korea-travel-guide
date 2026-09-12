@@ -42,12 +42,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Boris Brejcha doesn't play techno so much as stage it. The German producer built his reputation on "high-tech minimal", a sound wrapped in cinematic strings and his trademark half-mask, and the Reflections Tour is his current global vehicle for it. On September 26, 2026, that show lands in Istanbul at KüçükÇiftlik Park.
 
 ## The venue: KüçükÇiftlik Park
 
-This is not a warehouse or a rooftop club. Küçük�çiftlik Park is a large open-air event ground in Şişli, on the European side of the city, built for exactly this kind of high-capacity touring production.
+This is not a warehouse or a rooftop club. KüçükÇiftlik Park is a large open-air event ground in Şişli, on the European side of the city, built for exactly this kind of high-capacity touring production.
 
 It regularly hosts international pop, rock and electronic acts, so the site comes with proper staging, sound rigging and multiple entry gates rather than an improvised setup.
 

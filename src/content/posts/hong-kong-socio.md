@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 You order a drink at Socio the way you'd order at any Soho bar, except the bartender might mention that the vodka in your glass was clarified through crushed oyster shells from a seafood restaurant two streets over. That's the whole premise here: cocktails built from what other kitchens and bars in the neighbourhood were about to throw away.
 
 ## What makes Socio different
@@ -47,7 +46,7 @@ Because the bar's whole concept depends on relationships with surrounding kitche
 
 ## What to expect on the menu
 
-Don't go in expecting a fixed, printed list you can look up in advance. A bar built around surplus ingredients means the menu is inherently responsive: what's on it depends on what nearby kititchens had too much of that week.
+Don't go in expecting a fixed, printed list you can look up in advance. A bar built around surplus ingredients means the menu is inherently responsive: what's on it depends on what nearby kitchens had too much of that week.
 
 That's part of the appeal rather than a limitation. Ask the bartender what's currently being reworked and why; the explanation is usually more interesting than the drink name on its own. If you have an ingredient you're squeamish about, it's worth asking what's in a cocktail before you order rather than after.
 

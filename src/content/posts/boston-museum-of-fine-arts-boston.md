@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Getting there and getting in
 
 The MFA sits at 465 Huntington Ave, on the edge of the Fenway neighborhood, close to Boston's Longwood Medical Area. The Museum of Fine Arts stop on the E branch of the Green Line drops you at the front steps. Parking is limited and pricier than a taxi or rideshare on a weekend; the museum runs its own garage off Museum Road if you'd rather drive.
@@ -85,7 +84,7 @@ Budget two to three hours for a focused pass through two or three wings; a full 
 
 ## Skipping the weekend crush
 
-The MFA is a very popular stop on any Boston itinerary, not a quiet local secret, so plan around the crowds rather than expecting to dodge them entirely. Weekends between 11am and 5pm draw the heaviest traffic, especially in the Egyptian and Impressionist galleries.
+The MFA is a very popular stop on any Boston itinerary, not a quiet local secret, so plan around the crowds rather than expecting to dodge them entirely. Weekends draw the heaviest traffic, especially in the Egyptian and Impressionist galleries.
 
 Arrive right at 10am on a Saturday or Sunday to get thirty minutes ahead of the bulk of visitors. Better still, use one of the Thursday or Friday nights until 10pm, when school groups and tour buses have gone home.
 

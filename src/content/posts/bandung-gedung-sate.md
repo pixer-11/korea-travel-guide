@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors to Bandung know Gedung Sate from photos: a long white facade, a central tower topped with an ornament shaped like a satay skewer, set behind a lawn big enough to fly kites on weekends. Seeing it in person, what strikes you is the scale. The building runs nearly 180 meters along Jl. Diponegoro, and it was designed to look imposing from a distance, which is exactly the point of a colonial government headquarters.
 
 ## What the "sate" in the name actually means
@@ -70,7 +69,7 @@ Construction began in 1920 under Dutch architect J. Gerber, blending European de
 
 Today it houses the office of the Governor of West Java, so parts of the building remain active government space rather than open museum. What you can access is the front section, grounds, and a small museum wing that covers the building's history and Bandung's colonial-era development with old photographs, documents, and architectural models.
 
-Give yourself roughly 45 minutes for the museum and another 20 to 30 minutes to walk the lawn and photograph the exterior from different angles.
+Give yourself enough time to walk through the museum wing and then walk the lawn and photograph the exterior from different angles.
 
 ## Planning around the opening hours
 

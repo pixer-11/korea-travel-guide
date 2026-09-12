@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're looking at
 
 The Botanical Building sits at 1550 El Prado, the main promenade through Balboa Park. Built for the 1915 Panama-California Exposition, it's one of the largest wood-lath structures in the world, still standing over a century later. The lath (thin redwood strips) filters sunlight instead of blocking it, so the interior stays shaded but bright.
@@ -82,7 +81,7 @@ Because it closes at 4pm sharp, this isn't a place to save for late afternoon. P
 
 ## Avoiding the crowds
 
-This is one of Balboa Park's most visited buildings, so expect company, especially on weekends. Foot traffic peaks between noon and 4pm on Saturdays and Sundays, when tour groups and family visits stack up.
+This is one of Balboa Park's most visited buildings, so expect company, especially on weekends. Weekend afternoons tend to draw the biggest crowds, particularly on Saturdays and Sundays, when tour groups and family visits stack up.
 
 Weekday mornings run calmest, with the 10am to 4pm window generally quieter than weekend afternoons. Arriving close to opening on a Tuesday or Wednesday gives you the reflecting pool and pathways with far fewer people crossing your shot.
 

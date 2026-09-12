@@ -69,16 +69,15 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A synagogue that became a church
 
-Built around 1180, this is the oldest surviving synagogue building in Europe, though it hasn't functioned as one since the early 1400s. Almeric, a Mudejar architect working for Toledo's Jewish community, designed it in the horseshoe-arch style of the city's Moorish builders. In 1405, after anti-Jewish riots, it was seized and converted into a church dedicated to Santa María la Blanca, the name it still carries.
+Built around 1180, this is the oldest surviving synagogue building in Europe, though it hasn't functioned as one since the early 1400s. The building's unknown architects, working for Toledo's Jewish community, designed it in the horseshoe-arch style of the city's Moorish builders. In 1405, after anti-Jewish riots, it was seized and converted into a church dedicated to Santa María la Blanca, the name it still carries.
 
 Nothing about the exterior hints at what's inside: a plain whitewashed wall on a narrow street, no dome, no facade ornament.
 
 ## What the hall actually looks like
 
-Step through and you're in a single rectangular nave, roughly 20 meters deep, divided into five aisles by four rows of octagonal pillars. Each pillar carries horseshoe arches trimmed with pinecone and pine-cone-scroll capitals, a Almohad-style detail borrowed straight from Andalusian mosque architecture.
+Step through and you're in a single rectangular nave, roughly 20 meters deep, divided into five aisles by four rows of octagonal pillars. Each pillar carries horseshoe arches trimmed with pinecone and pine-cone-scroll capitals, an Almohad-style detail borrowed straight from Andalusian mosque architecture.
 
 The plaster capitals and painted wood ceiling survive largely intact from the 12th and 13th centuries. There's a 16th-century altarpiece and a large crucifix at the far end, the only obviously Christian elements in an otherwise Islamic-Jewish architectural shell. No stained glass, no side chapels: the whole point is the repetition of those arches receding down the hall.
 

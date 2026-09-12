@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You're standing in front of a red brick Georgian building with a white steeple, and it looks smaller than every photo of it ever made it seem. That's the first surprise of Independence Hall: it was built in the 1730s and 1740s as the Pennsylvania State House, a working colonial government building, not a monument designed to impress anyone.
 
 ## What actually happened in the Assembly Room
@@ -90,7 +89,7 @@ Entry is free, but you cannot just walk in. From March through December, timed t
 
 ## When the plaza actually empties out
 
-This is one of the most visited landmarks in the city, so timing matters more than almost anywhere else on the mall. Weekday mornings are consistently calm right through the day. On weekends, arrive before 11am if you want breathing room; from 11am to 4pm the plaza and the entry queue both fill up fast. If you only have one window to work with on a Saturday, take the 9am slot.
+This is one of the most visited landmarks in the city, so timing matters more than almost anywhere else on the mall. Weekdays are generally calm throughout the day. On weekends, arrive before 11am if you want breathing room; from 11am to 4pm the plaza and the entry queue both fill up fast. If you only have one window to work with on a Saturday, take the 9am slot.
 
 ## Finding it among the other buildings
 
@@ -105,4 +104,3 @@ Photography is allowed without flash, but there's no touching the furniture or r
 ## Making the most of the rest of your visit
 
 Give the building itself thirty to forty-five minutes including the security line, but plan for a half day if you want the full historic core. The Liberty Bell, Franklin Court, and the National Constitution Center are all within a ten-minute walk. Old City's cafes along Market and Chestnut streets are the easiest lunch stop afterward, since there's no food service inside the park buildings themselves.
-

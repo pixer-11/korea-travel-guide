@@ -71,14 +71,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Pike Place Market has hundreds of stalls selling everything from fish to flowers, but the smell that stops foot traffic cold is butter and sugar drifting out of a narrow storefront near the market's north end. That's Le Panier, and the queue spilling onto the sidewalk is usually the first sign you've found it.
 
 ## What's actually on the counter
 
 The case runs long and it's worth scanning the whole thing before you order. Le Panier bakes in the French tradition, so alongside the espresso you'll find laminated pastry, canelés, and a rotating lineup of tarts.
 
-The macarons get the most Instagram attention, stacked in a rainbow tower near the register, but regulars often skip them for the lavender shortbread, a Seattle-specific signature that isn't part of classic French bakery repertoire.
+The macarons get the most Instagram attention, stacked in a rainbow tower near the register, but regulars often skip them for the lavender shortbread, the bakery's own specialty.
 
 - Lavender shortbread (the house specialty)
 - Macarons in rotating seasonal flavors
@@ -100,7 +99,7 @@ Parking in the immediate area is scarce and metered; the Pike Place Market Garag
 
 ## Timing your visit around the crowds
 
-Le Panier is open seven days a week from 7am to 6pm, with no early or late exceptions. Weekdays run steady but manageable through the entire day, making any weekday hour a reasonably safe bet.
+Le Panier is open seven days a week from 7am to 6pm, with no early or late exceptions. Weekdays are steady but manageable throughout the day, making most weekday hours a reasonably safe bet.
 
 Weekends are a different story: the counter stays busy from 9am straight through until about 5pm, which covers nearly the whole day. The one reliable lull on a Saturday or Sunday is that last hour before closing, from 5pm to 6pm, when the tourist wave has thinned and the case is often down to whatever's left.
 

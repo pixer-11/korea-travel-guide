@@ -93,7 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'
 ---
-
 Seven tiled roofs stack above the treeline as you approach from the river road, each tier smaller than the one below it, the whole tower the color of old brick left in the sun. This is the Phuoc Duyen tower, and it's what every photo of Hue's skyline is quietly borrowing from. The pagoda behind it dates to 1601, making it one of the oldest religious structures in the city, and monks still live and study on the grounds today.
 
 ## Getting to Kim Long
@@ -108,7 +107,7 @@ Past the tower, a triple gate opens onto a courtyard with a large stone stele se
 
 Walk further into the grounds and you'll find:
 
-- The bell tower, housing a bronze bell cast in 1710 and said to be audible for miles along the river
+- The bell tower, housing a large bronze bell said to be audible for miles along the river
 - Manicured pine and frangipani gardens that monks tend daily
 - Monks' living quarters, generally off-limits to visitors but visible from a respectful distance
 - A small parking area at the back where the site's most talked-about relic sits

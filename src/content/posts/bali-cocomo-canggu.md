@@ -30,7 +30,6 @@ heroImage:
     x: 55
     'y': 45
 ---
-
 Jl. Pantai Pererenan has turned into one of the busiest restaurant strips near Canggu, and Cocomo sits right in the middle of that energy. You'll know you've found it before you read the sign: a flamingo statue several times taller than a person stands out front, pink against the palm trees and motorbike traffic.
 
 That statue isn't just a photo prop. It sets the tone for the whole place, which leans into an island-holiday theme rather than the minimalist concrete-and-rattan look that dominates so much of Canggu's dining scene.
@@ -43,7 +42,7 @@ Tables are arranged for sharing, and the noise level reflects that: this is a pl
 
 ## The food: built for sharing
 
-The signature move here is the butter-aged Angus tenderloin, served as a centrepiece for the table rather than a single-plate main. That framing runs through the menu: dishes are designed to land in the middle of the table and get passed around, not eaten solo.
+The signature move here is a shareable centrepiece dish, served for the table rather than a single-plate main. That framing runs through the menu: dishes are designed to land in the middle of the table and get passed around, not eaten solo.
 
 - Come with at least three or four people if you want to try a real spread
 - Order in rounds rather than all at once, since sharing plates work best staggered

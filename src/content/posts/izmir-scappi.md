@@ -79,4 +79,4 @@ Because Scappi occupies the hotel's upper floor rather than a street-level entra
 
 Pair a Scappi reservation with a walk along Izmir's Kordon waterfront promenade beforehand, watching the same bay you'll later see from above catch the last light. The contrast of street-level harbor bustle followed by the elevated, quieter vantage point from the ninth floor is part of what makes the visit feel like an occasion rather than just a meal.
 
-Given how recently Scappi opened, the smartest move is treating your visit as a discovery rather than a sure thing: book ahead, confirm hours the day before, and go in curious about how a Renaissance chef's name translates into a plate on Izmir's Aegean coast in 2024.
+Given how recently Scappi opened, the smartest move is treating your visit as a discovery rather than a sure thing: book ahead, confirm hours the day before, and go in curious about how a Renaissance chef's name translates into a plate on Izmir's Aegean coast.

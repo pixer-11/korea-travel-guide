@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most Austin attractions lean on the city's music or barbecue reputation. This one is built around soil, seed banks, and 279 acres of land that Lady Bird Johnson and a group of native-plant advocates set aside in 1982 to prove that Texas landscapes didn't need imported grass and imported water to look good.
 
 That mission still shapes everything on site. The Wildflower Center isn't a manicured European-style garden with clipped hedges; it's an working research institution attached to the University of Texas, and the plantings are organized by what actually grows in this part of the state without irrigation.
@@ -107,9 +106,8 @@ If a weekend is your only option, arrive right at 9am. You'll get roughly an hou
 
 ## Visiting like a researcher, not a tourist
 
-The gift shop sells seed packets of the actual native species grown on site, which is a more useful souvenir than most botanical garden merchandise; they're labeled with bloom season and sun requirements, so you can replicate a bit of the garden at home.
+The gift shop sells native wildflower seed packets, which is a more useful souvenir than most botanical garden merchandise; they're labeled with bloom season and sun requirements, so you can replicate a bit of the garden at home.
 
 Docent-led tours typically run on a set schedule near the entrance; check the info desk when you arrive rather than assuming a tour is starting soon. The center is well-known enough that it draws bus groups on weekend mornings in spring, so if you want the courtyard gardens without a crowd, pair an early weekday arrival with a slow first hour before doubling back to the busier sections later.
 
-Photography is allowed throughout, including in the working greenhouse areas near the research building, but stay on marked paths; much of the surrounding acreage is active restoration land, not open lawn, and center staff do ask visitors to keep off unmarked ground.
-
+Photography is allowed throughout the gardens, but stay on marked paths; much of the surrounding acreage is active restoration land, not open lawn, and center staff do ask visitors to keep off unmarked ground.

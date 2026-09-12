@@ -100,7 +100,7 @@ Deokjin Park sits at 390 Gwonsamdeuk-ro, Deokjin-dong, a taxi ride of roughly 15
 
 The park never closes, open 24 hours every day, which matters for photographers chasing sunrise light on the lotus lake.
 
-On weekends, foot traffic builds fast and stays heavy for much of the day. If you want the bridge and pavilion without a crowd behind you, aim for 7am–9am on a Saturday or Sunday instead.
+On weekends, foot traffic builds fast and stays heavy for much of the day. If you want the bridge and pavilion without a crowd behind you, aim for early morning on a weekday instead.
 
 ## How to visit like a local
 

@@ -34,7 +34,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 808 Festival has been Bangkok's reference point for electronic dance music since it first launched, and the 2026 edition marks its 13th year running. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar.
 
 ## When and where it happens
@@ -61,7 +60,7 @@ BITEC sits right by Bang Na BTS station on the Sukhumvit Line, one of the more p
 
 - Taxis and ride-hailing apps (Grab) work fine but get squeezed in event-exit traffic; budget extra time for the ride home, especially after a late set.
 - If driving, BITEC has on-site parking, but arriving early avoids the worst of the queue into the lot.
-- The BTS runs until midnight on standard schedule; if a set overruns, plan a taxi or Grab back rather than counting on the last train.
+- The BTS runs until around midnight; if a set overruns, plan a taxi or Grab back rather than counting on the last train.
 
 ## The two-night rhythm: picking your night
 

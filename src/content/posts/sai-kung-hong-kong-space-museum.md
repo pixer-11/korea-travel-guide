@@ -99,7 +99,7 @@ Because weekday hours start at 1pm, this isn't a morning stop except on weekends
 
 ## Beating the weekend crush
 
-This is one of Kowloon's most visited museums, and it draws heavy weekend traffic rather than staying under the radar. Saturdays and Sundays get busiest between 12pm and 7pm, which covers most of the day's opening window.
+This is one of Kowloon's most visited museums, and it draws heavy weekend traffic rather than staying under the radar. Saturdays and Sundays tend to get busiest around midday into the early afternoon.
 
 Arriving right at the 10am weekend opening is your best move: you'll beat the tour groups and family crowds that build through midday. If you can only come on a weekday, the 1pm opening naturally spreads out the crowd since there's no early rush.
 

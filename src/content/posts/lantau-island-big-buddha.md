@@ -75,7 +75,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'
 ---
-
 Lantau Island is Hong Kong's largest outlying island, and its highest-profile landmark sits on a plateau 500 metres up: the Tian Tan Buddha, known to almost everyone simply as the Big Buddha. Cast in bronze and seated on a lotus throne, it faces north toward mainland China, visible from the South China Sea on a clear day.
 
 ## Getting up to Ngong Ping
@@ -86,9 +85,9 @@ If you'd rather skip the cable car, bus 23 runs from Tung Chung town centre up t
 
 ## Climbing to the statue
 
-From the village, the Buddha is unmistakable, rising above the treeline at the top of a long staircase. There are 268 steps to the base, arranged in a straight, steady climb rather than switchbacks, so pace yourself if it's humid.
+From the village, the Buddha is unmistakable, rising above the treeline at the top of a long staircase. There is a long run of steps to the base, arranged in a straight, steady climb rather than switchbacks, so pace yourself if it's humid.
 
-Entry to the platform around the statue is free. Inside the base is a small museum housing a relic said to be a fragment of the Buddha's remains, with exhibits on Buddhist teaching and the statue's 1993 construction.
+Entry to the platform around the statue is free. Inside the base is a small museum housing a relic said to be a fragment of the Buddha's remains, with exhibits on Buddhist teaching and the statue's history.
 
 - Wear shoes with grip; the steps can be slick after rain
 - Bring water, especially between spring and early autumn

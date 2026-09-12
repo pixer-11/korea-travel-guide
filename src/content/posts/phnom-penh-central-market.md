@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The dome is the first thing that makes sense of the whole building. Painted mustard yellow and cast in reinforced concrete, it rises above four wings that stretch out like a cross, an Art Deco design finished in 1937 when this was reportedly one of the largest markets in Asia. Stand under the central rotunda and you can see how the whole structure funnels light and air down into the stalls below, a piece of engineering doing double duty as a covered bazaar.
 
 ## Phsar Thmei, not just "Central Market"
@@ -109,7 +108,7 @@ The way bargaining works shifts depending on which section you're in. At the gol
 
 In the clothing, souvenir, and electronics wings, opening prices are often set high for foreign visitors, and a friendly counter-offer at 40 to 50 percent of the asking price is a normal starting point. Cash, preferably small US dollar bills or Cambodian riel, is still how most transactions here happen; card readers are rare outside the mall next door.
 
-Don't feel obligated to buy after negotiating a price down. Vendors expect some browsers to walk, and a polite "arkoun, som ta mun mtong" (thank you, maybe later) closes the exchange without offense.
+Don't feel obligated to buy after negotiating a price down. Vendors expect some browsers to walk, and a polite thank-you as you step away closes the exchange without offense.
 
 ## Getting there and making the most of an hour or two
 

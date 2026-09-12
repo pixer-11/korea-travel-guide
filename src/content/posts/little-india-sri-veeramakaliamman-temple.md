@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You spot the tower before you spot the street number. The gopuram over the entrance is stacked with tiers of brightly painted figures, Kali at the center flanked by her guardians, repainted often enough that the colors stay saturated rather than faded. It rises straight out of the shophouse line on Serangoon Road, no plaza or setback in front of it, so the scale hits you at close range.
 
 ## The goddess this temple is built around
@@ -87,7 +86,7 @@ Photography is generally allowed in the outer courtyard, but check for posted si
 
 ## When the temple is at its fullest
 
-Weekends between 9am and 9pm are the busiest stretch, with the courtyard filling with families, worshippers making regular visits, and visitors on Little India walking tours all overlapping at once. If you want the temple closer to how a regular devotee experiences it, aim for a weekday and go before the midday closure. The temple shuts from noon until 5pm daily, then reopens for the evening block until 9pm, so plan around that midday gap rather than showing up at 1pm and finding the gates closed.
+Weekends are the busiest stretch, with the courtyard filling with families, worshippers making regular visits, and visitors on Little India walking tours all overlapping at once. If you want the temple closer to how a regular devotee experiences it, aim for a weekday and go before the midday closure. The temple shuts from noon until 5pm daily, then reopens for the evening block until 9pm, so plan around that midday gap rather than showing up at 1pm and finding the gates closed.
 
 Fridays tend to carry extra footfall too, a pattern common to Hindu temples generally, so if a quiet visit matters more to you than atmosphere, a Tuesday or Wednesday morning is a safer bet.
 

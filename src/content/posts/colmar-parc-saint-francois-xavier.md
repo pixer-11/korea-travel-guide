@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's actually here
 
 This is a residential-district park, not a monument. Rue de Rueil sits south of Colmar's canal-laced centre, past the ring of boulevards that mark the old town's edge.
@@ -88,7 +87,7 @@ Rue de Rueil is walkable from the centre but not adjacent to it; plan on 15-20 m
 
 The park opens at 7:30am and closes at 7:30pm every day of the week, so evening picnics after a late dinner won't work.
 
-Weekend crowd patterns are measured here: the calm stretch is 8am-12pm on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself.
+Weekend crowd patterns are measured here: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself.
 
 ## Why it's rated so well
 

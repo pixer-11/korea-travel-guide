@@ -69,7 +69,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
+---
 ## What you're actually walking into
 
 This is a monastery before it's a museum, and it shows. The Augustins order built the complex from the 14th century onward, and when the Revolution emptied it of monks, Toulouse turned the cloisters and refectory into a repository for art rescued from churches being torn down across the city.
@@ -100,7 +100,7 @@ Opening hours are specific and worth checking before you go:
 
 ## Timing your visit
 
-Weekends draw the steadiest crowds, staying busy from the 10am opening straight through to close, so don't expect a quiet Saturday morning here. A weekday afternoon slot, right at the noon opening on Monday, Thursday or Friday, is the more comfortable option if your schedule allows it.
+Weekends draw the steadiest crowds, staying busy from the 10am opening straight through to close, so don't expect a quiet Saturday morning here. A weekday afternoon slot, arriving shortly after the noon opening on Monday, Thursday or Friday, is the more comfortable option if your schedule allows it.
 
 The museum is well known in Toulouse and gets a steady stream of visitors year-round rather than sudden tour-bus surges, so there's no single secret hour that empties it out. Arriving close to opening on any of the weekday afternoons is still your best bet for having the cloister to yourself for a few minutes.
 

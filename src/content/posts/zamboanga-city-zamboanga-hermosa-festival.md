@@ -41,7 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Zamboanga City doesn't do a festival weekend. It does a festival month. Every October, the city dedicates the entire calendar to the Hermosa Festival, a citywide tribute to Nuestra Señora del Pilar (Our Lady of the Pillar) and to the Chavacano-Spanish-Filipino identity that sets Zamboanga apart from the rest of Mindanao.
 
 ## What the month actually looks like
@@ -58,7 +57,7 @@ Expect the shrine and its surrounding plaza to be busiest around this date, with
 
 ## Chavacano: the thread running through everything
 
-What makes Hermosa distinct from other Philippine town fiestas is the language and culture it celebrates. Zamboanga City is the world's largest speaking population of Chavacano, a Spanish-derived creole found almost nowhere else at this scale.
+What makes Hermosa distinct from other Philippine town fiestas is the language and culture it celebrates. Zamboanga City is home to one of the largest Chavacano-speaking populations, a Spanish-derived creole found almost nowhere else at this scale.
 
 During the festival month, expect Chavacano-language stage plays, poetry, and cultural competitions alongside the usual pageant and parade fare. Street signage, festival announcements, and vendor banter around the fairs often switch naturally between Chavacano, Tagalog, and English, which is itself part of the experience for a first-time visitor.
 

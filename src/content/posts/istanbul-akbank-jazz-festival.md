@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What the 36th edition covers
 
 Akbank Jazz Festival has run in Istanbul since the late 1980s, and the 2026 edition spans September 28 to October 13. That's over two weeks, longer than a typical single-venue festival, with shows staggered across the city rather than stacked into one weekend.
@@ -65,8 +64,8 @@ Book early for anything at Salon İKSV. It's a small room, and popular acts ther
 
 Bomonti is reachable by metro (Şişli-Mecidiyeköy on the M2 line, then a short walk or taxi) or a direct taxi from central Beyoğlu; it's not a walkable distance from İstiklal. Salon İKSV, by contrast, is a straightforward walk from Taksim Square down İstiklal Caddesi, about 10 to 15 minutes on foot.
 
-- Arrive 30-45 minutes before doors for popular headline shows; seating at Babylon Bomonti is partly standing-room, and early arrival gets you closer to the stage.
+- Arrive early for popular headline shows; seating at Babylon Bomonti is partly standing-room, and early arrival gets you closer to the stage.
 - For Salon İKSV, seats are assigned, so there's less urgency, but arriving late means slipping into a seat mid-set in a small, quiet room.
 - Food and drink options sit inside both venues, but neither is set up as a full dinner stop; eat in Bomonti or Beyoğlu beforehand.
 
-If you're building a longer Istanbul trip around the festival, treat it as an evening activity: shows tend to start after 8pm, leaving the day free for the usual Sultanahmet or Bosphorus sightseeing.
+If you're building a longer Istanbul trip around the festival, treat it as an evening activity, leaving the day free for the usual Sultanahmet or Bosphorus sightseeing.

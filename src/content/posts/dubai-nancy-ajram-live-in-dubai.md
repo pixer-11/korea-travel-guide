@@ -44,12 +44,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Nancy Ajram has spent more than two decades as one of the biggest names in Arabic pop, and a Dubai arena date is exactly the kind of show that turns into a citywide singalong. On October 24, 2026, she performs at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts.
 
 ## What to expect from the show
 
-Ajram's catalogue spans early-career hits like "Ah W Noss" and "Yatabtab Wa Dallaa" through to her more recent radio staples, and a headline arena date typically draws a set that leans on the songs audiences already know by heart. Expect a full band, a stage production scaled for a 17,000-capacity room, and a crowd that sings along to the choruses without needing a prompt.
+Ajram's catalogue spans early-career hits like "Ah W Noss" and "Yatabtab Wa Dallaa" through to her more recent radio staples, and a headline arena date typically draws a set that leans on the songs audiences already know by heart. Expect a full band, a stage production scaled for a large indoor arena, and a crowd that sings along to the choruses without needing a prompt.
 
 This is a seated-and-standing arena show rather than a festival, so the energy is concentrated rather than spread across multiple stages. Arabic pop concerts in Dubai tend to draw a mixed crowd of UAE residents and visitors flying in specifically for the date, since Gulf tour stops for top-tier Lebanese and Egyptian pop stars are relatively rare.
 

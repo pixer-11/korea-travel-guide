@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Chet Faker doesn't tour India often, so a three-city run landing on Bengaluru on September 20, 2026 is the kind of date that gets circled fast among fans of Australian electro-soul. This is the closing show of the swing, after Delhi NCR on September 18 and Mumbai on September 19.
 
 ## Why Bengaluru gets the closing slot
@@ -74,7 +73,7 @@ Bengaluru's traffic patterns should shape your travel plan as much as the venue 
 
 ## The pre-show ritual: Bengaluru's late dinner culture
 
-Bengaluru concertgoers rarely eat right before a show; the city's dinner culture skews toward a post-work bite around 8 or 9pm, which lines up awkwardly with typical evening set times. A common local move is a light early dinner near the venue, then a proper meal after the show if the neighbourhood has late-night options. Areas like Indiranagar and Koramangala keep kitchens open past midnight on weekends, so a Sunday show may mean checking which spots nearby actually serve late before you commit to eating post-gig.
+Bengaluru concertgoers rarely eat right before a show; the city's dinner culture skews toward a post-work bite around 8 or 9pm, which lines up awkwardly with typical evening set times. A common local move is a light early dinner near the venue, then a proper meal after the show if the neighbourhood has late-night options. Some pockets of the city keep kitchens open later on weekends, so a Sunday show may mean checking which spots nearby actually serve late before you commit to eating post-gig.
 
 ## Fitting in like a regular at an international gig here
 

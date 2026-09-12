@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What this place actually is
 
 The Museo de Historia Natural-USC belongs to the University of Santiago de Compostela, and it shows. This isn't a polished national institution with gift-shop branding; it's a working academic collection of mounted birds, mammals, fish and skeletons, built up over more than a century of teaching zoology students. The specimens range from local Galician wildlife to exotic animals collected on old expeditions, arranged in wood-and-glass cases that feel more curated by scientists than by marketing departments.
@@ -89,7 +88,7 @@ Part of it is the kid factor. Mounted animals at eye level, from foxes to birds 
 
 This museum still counts as under-the-radar in a city dominated by cathedral tourism, and that's a real advantage if you use it right. Weekday afternoons after the 4:30pm reopening tend to be the calmest window, since day-trippers and tour groups are usually still clustered around the old town at that hour.
 
-Admission has historically been free or close to it for a university museum like this, but check current terms locally since university-run sites sometimes adjust access for students versus the public. There's no formal booking system to navigate: you simply walk in during opening hours, which is part of what makes it such an easy add-on to a Vista Alegre park stroll.
+Check current admission terms locally, since university-run sites sometimes adjust access for students versus the public. There's no formal booking system to navigate: you simply walk in during opening hours, which is part of what makes it such an easy add-on to a Vista Alegre park stroll.
 
 Bring a bit of curiosity about Galician wildlife specifically. The regional specimens, foxes, wolves, seabirds, and freshwater fish from Galicia's rivers, are the sections local naturalists tend to linger over longest, even if the exotic mounts get more photos.
 

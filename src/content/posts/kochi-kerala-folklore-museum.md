@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The building itself is the first exhibit. Kerala Folklore Museum in Thevara was built by an antiques collector using pillars, beams and doorways salvaged from old Kerala tharavads, temples and palaces, so the structure rises through three distinct architectural styles as you climb, from a stone-floored Cochin-style ground level to a wood-heavy Malabar-style top floor. You're walking through a physical timeline of regional carpentry before you've even reached a display case.
 
 ## What's actually inside
@@ -106,7 +105,7 @@ The museum is genuinely popular rather than a quiet find, so treat the weekend a
 - Arrive between 9am and 10am if you can, especially on weekends
 - Budget 60-90 minutes; longer if a performance is running in the theatre hall
 - Photography is generally allowed in most areas, but ask staff before photographing performances or particularly fragile antique pieces
-- The shop near the entrance takes card payments as well as cash, useful if you want to pick up a craft souvenir before leaving
+- There's a small shop near the entrance if you want to pick up a craft souvenir before leaving
 - Wear socks you don't mind showing, since some areas with older wooden flooring may require removing shoes
 
 ## Beyond the museum walls

@@ -94,7 +94,7 @@ If you have energy left, the trailhead for Mt. Maruyama starts near the shrine a
 
 Hokkaido Jingu is open every day from 6am to 5pm, with no weekly closure. Given how popular it is, timing your visit matters more than at a quieter shrine.
 
-On weekdays, the whole day from 7am to 5pm stays relatively calm, so there's no need to rush. Weekends are different: going early in the morning is your best bet for a quieter visit, since crowds tend to build up as the day goes on.
+On weekdays, mornings tend to stay relatively calm, so there's no need to rush. Weekends are different: going early in the morning is your best bet for a quieter visit, since crowds tend to build up as the day goes on.
 
 New Year's is the exception to all of this. Hatsumode, the first shrine visit of the year, draws enormous lines here in early January, and normal crowd patterns don't apply.
 

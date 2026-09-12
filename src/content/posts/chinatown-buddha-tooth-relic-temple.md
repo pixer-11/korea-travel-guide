@@ -76,14 +76,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Four storeys of dark timber and red lacquer rise above the shophouses on South Bridge Road, built in the style of Tang dynasty temples even though the building itself is only from 2007. It's easy to spot: the roofline alone, tiered and heavy with carved eaves, stands out from the low, pastel-painted shopfronts around it in the heart of Chinatown.
 
 Inside, the ground floor holds the main hall, where a large seated Buddha Maitreya presides over a room thick with the smell of sandalwood incense. Devotees move along the sides with joss sticks, bowing at stations set into the floor plan; visitors are welcome to walk the perimeter and watch without joining in.
 
 ## The relic and the rooftop
 
-The temple's namesake relic, said to be a tooth of the historical Buddha, sits in a stupa on the top floor, cast in nearly 320 kilograms of gold and kept behind glass in a room visitors can enter but not photograph.
+The temple's namesake relic, said to be a tooth of the historical Buddha, sits in a stupa on the top floor, cast in gold and kept behind glass in a room visitors can enter but not photograph.
 
 One floor down is a quieter payoff: a rooftop garden with a large prayer wheel, bonsai trees and a viewing deck looking over Chinatown's roofs. It's one of the few genuinely peaceful spots in this part of the district, and worth the extra flight of stairs.
 

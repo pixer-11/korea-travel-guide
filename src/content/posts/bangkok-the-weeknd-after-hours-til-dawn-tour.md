@@ -35,7 +35,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Three consecutive nights is a rare commitment for any touring artist in Southeast Asia, and it tells you something about the scale The Weeknd is bringing to Bangkok. The After Hours Til Dawn Stadium Tour has built its reputation on a stage that behaves more like a film set than a concert rig: red-lit tunnels, a masked ensemble, a wall of screens that turns his back catalogue into something closer to a stadium-sized short film. Bangkok gets that treatment for three straight dates, October 11-13, 2026.
 
 ## What the three nights actually mean for you
@@ -60,7 +59,7 @@ Buy only through the official tour site or an authorized ticketing partner named
 
 ## The show itself: what past legs have delivered
 
-Fans who caught earlier legs of the After Hours Til Dawn tour describe a nearly two-and-a-half-hour set built around a narrative arc rather than a straightforward hits parade. Expect:
+Fans who caught earlier legs of the After Hours Til Dawn tour describe a set built around a narrative arc rather than a straightforward hits parade. Expect:
 
 - A stage design incorporating a raised central platform connected by walkways, letting the show move physically through the crowd
 - Heavy use of red and white lighting motifs tied to the After Hours album era
@@ -83,6 +82,6 @@ Areas along the Sukhumvit BTS line or the Sukhumvit MRT corridor give you a base
 
 ## Eating around showtime without missing doors
 
-Thai stadium crowds queue early, and food stalls typically cluster around stadium approach roads and nearby BTS/MRT exits in the hours before a major show. Grabbing skewers, som tam, or a quick noodle bowl from a cart near the entrance before doors is standard practice rather than a special local trick, but timing matters: arrive with at least 90 minutes to spare if you want to eat, queue for merchandise, and still find your seat before the opening visuals start.
+Thai stadium crowds queue early, and food stalls typically cluster around stadium approach roads and nearby BTS/MRT exits in the hours before a major show. Grabbing skewers, som tam, or a quick noodle bowl from a cart near the entrance before doors is standard practice rather than a special local trick, but timing matters: arrive early if you want to eat, queue for merchandise, and still find your seat before the opening visuals start.
 
 Don't assume you can eat a full sit-down meal inside the stadium grounds; concession lines at stadium shows of this size move slowly, and missing the opening sequence of a production this visually driven is a real loss, not a minor inconvenience.

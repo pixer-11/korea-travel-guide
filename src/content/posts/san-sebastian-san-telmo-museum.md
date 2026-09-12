@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Tucked into the corner of Plaza Zuloaga, San Telmo Museum occupies a former Dominican monastery dating to the 1500s, its cloister still intact and now half-swallowed by a sharp modern extension clad in vegetation. That contrast, centuries-old stone against a green metal wall, is the first clue that this isn't a stuffy regional museum.
 
 Inside, the collection moves from Basque ethnography and rural life through to contemporary art and photography, plus archaeological finds from both Gipuzkoa and further afield. A former church, its walls covered in large 1930s murals by José María Sert depicting Basque history and legend, has been folded into the museum and remains one of the more striking rooms in San Sebastian.
@@ -104,7 +103,7 @@ Arriving in that first hour also means you'll have the Sert murals and the clois
 
 ## Making sense of the collection
 
-Budget around 90 minutes to two hours if you want to see most of the permanent collection without rushing.
+Give yourself enough time to see the permanent collection without rushing.
 
 - Start in the old monastery building for ethnography and history: farming tools, traditional costume, models of caseríos (Basque farmhouses)
 - Cross into the church nave for the Sert murals, best seen from the center of the room to take in the full scale

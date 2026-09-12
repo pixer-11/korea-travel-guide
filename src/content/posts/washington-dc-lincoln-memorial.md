@@ -82,7 +82,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Getting your bearings
 
 The Lincoln Memorial anchors the west end of the National Mall in Washington DC, at 2 Lincoln Memorial Cir NW. It faces east across the Reflecting Pool toward the Washington Monument and the Capitol beyond, a sightline designed deliberately when the memorial opened in 1922.
@@ -91,15 +90,15 @@ The building itself is modeled on the Parthenon: 36 Doric columns, one for each 
 
 ## Inside the chamber
 
-Daniel Chester French's 19-foot seated marble statue of Lincoln dominates the central chamber, assembled from 28 interlocking blocks so seamlessly you have to look hard to find the joints. Flanking walls carry two of Lincoln's own speeches carved in full: the Gettysburg Address to the south, his Second Inaugural Address to the north.
+Daniel Chester French's 19-foot seated marble statue of Lincoln dominates the central chamber, so seamlessly assembled that you have to look hard to find the joints. Flanking walls carry two of Lincoln's own speeches carved in full: the Gettysburg Address to the south, his Second Inaugural Address to the north.
 
-Above each text, muted murals by Jules Guerin depict allegorical figures representing themes like Unity and Emancipation. Look down on the ninth step from the top and you'll find a small plaque marking where Martin Luther King Jr. stood to deliver "I Have a Dream" in 1963.
+Above each text, muted murals by Jules Guerin depict allegorical figures representing themes like Unity and Emancipation. Look down at the steps and you'll find a small plaque marking where Martin Luther King Jr. stood to deliver "I Have a Dream" in 1963.
 
 ## Beating the crowds
 
 This is one of the most-visited monuments in the country, so timing matters more than at quieter sites. Foot traffic is lightest between 7am and 9am on both weekdays and weekends, before tour buses and school groups arrive.
 
-Avoid rolling up between 10am and 10pm on weekends if you want the steps and chamber to yourself for photos. Since the site never closes, an early-morning or after-dark visit also means softer light and a genuinely different atmosphere than the midday crush.
+Try to avoid the busiest midday stretch on weekends if you want the steps and chamber to yourself for photos. Since the site never closes, an early-morning or after-dark visit also means softer light and a genuinely different atmosphere than the midday crush.
 
 ## Getting there without a car
 

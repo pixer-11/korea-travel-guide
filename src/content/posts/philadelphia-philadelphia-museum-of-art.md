@@ -71,10 +71,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this building stops people on the Parkway
 
-The museum occupies a Greek Revival temple of Minnesota dolomite, opened in 1928, with two flanking pavilions and a colonnaded east entrance. It anchors the far end of Benjamin Franklin Parkway, facing straight down toward City Hall.
+The museum occupies a Greek Revival temple of Minnesota dolomite, opened in 1928, with two flanking pavilions and a colonnaded east entrance. It anchors the far end of Benjamin Franklin Parkway, looking back down the Parkway toward City Hall.
 
 Before you even buy a ticket, the building itself is doing work: the scale, the columns, the long approach up the steps are meant to make you feel small and a little reverent. That's on purpose.
 

@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors expect a quiet backstreet shrine and instead find a full working monastery: shaved-headed monks crossing courtyards, incense smoke curling out of a bronze cauldron, chanting drifting from the main hall. This is still an active place of worship, not a roped-off relic, and that changes how you should move through it.
 
 The temple takes its name from two Burmese white jade statues brought to Shanghai by the monk Huigen in the 1880s. The larger, a seated Buddha nearly two meters tall, sits upstairs in its own hall and is the reason most people come. A smaller reclining jade Buddha, carved from a single block, rests in a separate room nearby. Photography of both is generally not allowed, so look rather than shoot.
@@ -82,4 +81,4 @@ Meals here run mid-range for Shanghai, not cheap street food but far from a splu
 
 The temple sits at 170 An Yuan Lu, and the nearest metro stop is Jiangning Road on Line 13, followed by a short walk. Taxis and ride-hailing apps know the temple by name, which is often the simplest route if you're coming from downtown.
 
-Set aside 60 to 90 minutes: enough time to move through the courtyards without rushing, see both jade Buddhas, and sit down for a plate of mock-meat noodles afterward. Confirm current opening hours and any admission fee before you go, since both can shift with little notice at active religious sites.
+Set aside 60 to 90 minutes: enough time to move through the courtyards without rushing, see both jade Buddhas, and stop at the vegetarian restaurant before heading out. Confirm current opening hours and any admission fee before you go, since both can shift with little notice at active religious sites.

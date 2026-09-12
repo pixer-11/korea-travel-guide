@@ -54,10 +54,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're looking at
 
-Kalan Mosque was built in the 1510s under the Shaybanids, replacing an earlier mosque destroyed by Genghis Khan's army. It's one of the largest in Central Asia, big enough historically to hold 10,000 worshippers.
+Kalan Mosque was built in the 1510s under the Shaybanids, replacing an earlier mosque destroyed by Genghis Khan's army. It's one of the largest in Central Asia.
 
 The courtyard is ringed by a colonnade carrying 288 small domes, each one lighting a bay below. At the far end, a tiled iwan portal frames the entrance, its turquoise and cobalt majolica largely original 16th-century work. The blue-ribbed dome over the mihrab chamber is visible from across the old city.
 

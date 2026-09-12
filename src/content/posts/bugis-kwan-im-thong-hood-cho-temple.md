@@ -89,7 +89,7 @@ Devotees queue with bundles of incense sticks, light them at the outdoor burners
 
 ## When to go
 
-Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays stay manageable throughout, but weekends are a different story, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, arrive shortly after opening on a weekend before the queues build.
+Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays tend to be quieter, but weekends are a different story, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, arrive shortly after opening on a weekend before the queues build.
 
 ## Moving through the crowd
 

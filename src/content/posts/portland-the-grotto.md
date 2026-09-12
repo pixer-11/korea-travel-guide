@@ -73,10 +73,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The Grotto reads first as a cliff. A basalt wall rises more than 100 feet behind the main plaza, and it's only once you walk toward it that you notice the carved recess at its base, a rock-hewn cave sheltering a marble replica of Michelangelo's Pieta. That single sculpture, lit and half-shadowed inside the stone, is the reason most people first hear the name.
 
-The full site is a 62-acre Catholic sanctuary run by the Servite Friars, split across two levels connected by an elevator. Down below: the Pieta grotto, an outdoor chapel, a gift shop, and a visitor center. Up top, reached by a 10-story elevator ride (there's a modest fee for the ride itself), a network of quiet garden paths follows the cliff edge with views over the Columbia River and, on clear days, toward Mount St. Helens.
+The full site is a 62-acre Catholic sanctuary run by the Servite Friars, split across two levels connected by an elevator. Down below: the Pieta grotto, an outdoor chapel, a gift shop, and a visitor center. Up top, reached by elevator (there's a modest fee for the ride itself), a network of quiet garden paths follows the cliff edge with views over the Columbia River and, on clear days, toward Mount St. Helens.
 
 ## Getting there and finding the entrance
 

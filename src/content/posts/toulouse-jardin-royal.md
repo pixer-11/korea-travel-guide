@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Jardin Royal sits at the point where Rue Ozenne meets Allées Jules Guesde, on the southeastern edge of central Toulouse, and it's the oldest of the three connected gardens that spread out from here toward the Grand Rond. Laid out in the 1750s, it predates the more famous roundabout garden next door by over a century, and it still carries the formal bones of that era: symmetrical paths, mature trees planted for their rarity rather than their shade, and a central pond that anchors the whole layout.
 
 You come here for the trees as much as anything. The garden was planted with exotic and imported species long before "botanical garden" was a marketing term, and many of those original specimens are still standing, now enormous, their canopies doing most of the work of shaping the light on the paths below. Benches line the main walks, positioned so you're facing the pond or a stand of trees rather than the road.
@@ -95,7 +94,7 @@ If you only have time for one, Jardin Royal is the quietest and most formally la
 
 ## When to go
 
-The garden is open every day from 8am to 9pm, with no entry fee. On weekdays it stays relatively calm across the whole stretch from 9am to 9pm, so there isn't a sharp rush hour to dodge. Weekends are a different pattern: mornings from 8am through midday are the easiest time to get the paths to yourself, but from 2pm to 7pm the garden fills up with families and picnickers, especially when the weather is good.
+The garden is open every day from 8am to 9pm, with no entry fee. On weekdays it stays relatively calm throughout the day, so there isn't a sharp rush hour to dodge. Weekends are a different pattern: mornings from 8am through midday are the easiest time to get the paths to yourself, but from 2pm to 7pm the garden fills up with families and picnickers, especially when the weather is good.
 
 If you're visiting on a Saturday or Sunday, aim to arrive before lunch. Coming after the weekend crowds have thinned out in the early evening, closer to 8pm before closing, is another workable window if mornings don't suit your schedule.
 

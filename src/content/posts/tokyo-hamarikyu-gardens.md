@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually looking at
 
 Hamarikyu was a Tokugawa-era duck hunting ground and shogunal retreat, laid out around a seawater pond that still fills and drains with the tide through a sluice gate. That tidal pond, Shioiri-no-ike, is the rare surviving example in Tokyo; most Edo-period gardens use freshwater. Peony beds sit near the main entrance, and a 300-year-old black pine, trained low and wide, spreads near the Otemon gate. Skyscrapers of Shiodome and Tsukiji rise directly behind the pines, so the contrast is built into every photo here.
@@ -86,7 +85,6 @@ This is a very popular stop, not a quiet backwater, so timing matters more than 
 
 ## Tea at the pond and other local moves
 
-Nakajima-no-Ochaya, a reconstructed teahouse on a small island in the tidal pond, serves matcha and a seasonal sweet; you pay at the counter before sitting, cash or card depending on the till that day, and take a numbered seat facing the water. It gets a queue by mid-morning on weekends, so go right after the 9am opening if the teahouse itself is your goal, not just the garden.
+Nakajima-no-Ochaya, a reconstructed teahouse on a small island in the tidal pond, serves matcha and a seasonal sweet with a view out over the water. It gets a queue by mid-morning on weekends, so go right after the 9am opening if the teahouse itself is your goal, not just the garden.
 
 Walking routes loop clockwise from Otemon gate past the pine, around the tidal pond, and out toward the water bus pier, roughly 60–90 minutes at an unhurried pace. Benches and open lawn areas near the peony garden are fine for a packed lunch, unlike some of Tokyo's stricter formal gardens. Combine the visit with Tsukiji Outer Market (a short walk north) either before or after, since both sit on the same side of the bay and neither needs a full day alone.
-

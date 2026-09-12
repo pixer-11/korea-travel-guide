@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Cross Charles Street from Boston Common and the ground changes under your feet. Boston Common is trampled grass and open lawn; the Public Garden, laid out in 1837 as the first public botanical garden in the United States, is curving gravel paths, cast-iron fencing and beds that are actually planted on a schedule, tulips in spring, cannas and salvia by midsummer.
 
 The whole park is compact, about 24 acres, so you can walk every path in under an hour. Most people don't. They stall out at the lagoon, or the ducklings, or the shade near the Ether Monument, and that's really the point of the place.
@@ -92,7 +91,7 @@ Rides are seasonal, typically running from spring through early autumn, and cost
 
 At the Arlington Street entrance stands an equestrian statue of George Washington, dedicated in 1869 and one of the park's oldest monuments. It's the unofficial "front door" shot for most visitors' photos.
 
-Beyond Washington, the park has a small constellation of other statues and memorials worth a slow look rather than a rushed pass: the Ether Monument commemorating the first use of surgical anesthesia, a bust of Edward Everett Hale, and a memorial to nurse Boston has been quietly proud of for a century. None of these need more than a minute or two each, but together they turn a stroll into something closer to an outdoor museum.
+Beyond Washington, the park has a small constellation of other statues and memorials worth a slow look rather than a rushed pass: the Ether Monument commemorating the first use of surgical anesthesia, a bust of Edward Everett Hale, and a memorial honoring a nurse. None of these need more than a minute or two each, but together they turn a stroll into something closer to an outdoor museum.
 
 ## Make Way for Ducklings, the bronze family everyone touches
 
