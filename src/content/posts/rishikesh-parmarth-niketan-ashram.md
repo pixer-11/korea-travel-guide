@@ -6,12 +6,12 @@ region: Rishikesh
 category: attraction
 pubDate: '2026-09-11T07:49:35.415Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Parmarth.jpg
-  credit: 'Photo: Parmarth Niketan Ashram / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Parmarth.jpg
+  url: https://fastly.4sqi.net/img/general/original/11878062_yBy9u1ZFlQk2ecjDq2ohPoJjo-rdkKvvJpZPEXk58eI.jpg
+  credit: 'Photo: Foursquare user content (Parmarth Niketan Ashram)'
+  license: foursquare
+  source: https://foursquare.com/v/4d6cc9e1fbf0a0936490f68c
   focus:
-    x: 50
+    x: 30
     'y': 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg/3840px-Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg
@@ -75,7 +75,6 @@ faq:
   - q: Can I stay overnight at the ashram?
     a: Yes, but rooms are generally reserved for those enrolled in its yoga, meditation or Ayurveda programs, and space is limited, so arrange it well in advance rather than expecting a walk-in booking.
 aiGenerated: true
-draft: true
 ---
 
 The gate on Main Market Road doesn't look like much from the street: a wide arch, a security check, a name board painted saffron and white. Walk through it and the ashram opens up into something closer to a small campus than a temple, terraced gardens, dormitory blocks, a large open-air amphitheater of steps running straight down to the Ganga.

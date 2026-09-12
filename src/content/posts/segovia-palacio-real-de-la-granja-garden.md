@@ -1,57 +1,56 @@
 ---
-title: "Palacio Real de la Granja Garden: Segovia Travel Guide"
-description: "The Palacio Real de la Granja Garden sits in Real Sitio de San Ildefonso, about 11km southeast of Segovia city, open daily 10am–8pm. 4.6★ (1,883 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Segovia"
-category: "attraction"
-pubDate: "2026-09-12T07:37:49.437Z"
+title: 'Palacio Real de la Granja Garden: Segovia Travel Guide'
+description: The Palacio Real de la Granja Garden sits in Real Sitio de San Ildefonso, about 11km southeast of Segovia city, open daily 10am–8pm. 4.6★ (1,883 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Segovia
+category: attraction
+pubDate: '2026-09-12T07:37:49.437Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/53/Palacio_Real_de_la_Granja_de_San_Ildefonso_%28Segovia%29.jpg"
-  credit: "Photo: Luis Vinuesa from Torrelaguna, España / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_la_Granja_de_San_Ildefonso_(Segovia).jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/11981247_MaYe86rqJoCq5ngIomgYpOngzsqdYxTJ6gvBcyRPSWg.jpg
+  credit: 'Photo: Foursquare user content (Palacio Real de La Granja)'
+  license: foursquare
+  source: https://foursquare.com/v/4adcda38f964a5205a3c21e3
   focus:
     x: 50
-    y: 35
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Palacio_Real_La_Granja_Segovia_2010_2.jpg/3840px-Palacio_Real_La_Granja_Segovia_2010_2.jpg"
-    credit: "Photo: Tirithel / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palacio_Real_La_Granja_Segovia_2010_2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Palacio_Real_La_Granja_Segovia_2010_2.jpg/3840px-Palacio_Real_La_Granja_Segovia_2010_2.jpg
+    credit: 'Photo: Tirithel / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Palacio_Real_La_Granja_Segovia_2010_2.jpg
 place:
-  id: "ChIJ42TCFeRBQQ0Rv9usWoTtZJ8"
-  name: "Palacio Real de la Granja Garden"
-  address: "Pl. de España, S/N, 40100 Real Sitio de San Ildefonso, Segovia, Spain"
+  id: ChIJ42TCFeRBQQ0Rv9usWoTtZJ8
+  name: Palacio Real de la Granja Garden
+  address: Pl. de España, S/N, 40100 Real Sitio de San Ildefonso, Segovia, Spain
   rating: 4.6
   userRatingsTotal: 1883
-  googleMapsUrl: "https://maps.google.com/?cid=11485566102414351295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11485566102414351295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.8976256
   lng: -4.0044137
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "segovia"
-  - "park"
-quickAnswer: "The Palacio Real de la Granja Garden sits in Real Sitio de San Ildefonso, about 11km southeast of Segovia city, open daily 10am–8pm. Come for the fountain shows, which typically run on select afternoons in summer, and budget two to three hours to cover the parterres and woodland groves. It's well-known and busy on show days, so arrive at opening if you want the paths quiet."
+  - segovia
+  - park
+quickAnswer: The Palacio Real de la Granja Garden sits in Real Sitio de San Ildefonso, about 11km southeast of Segovia city, open daily 10am–8pm. Come for the fountain shows, which typically run on select afternoons in summer, and budget two to three hours to cover the parterres and woodland groves. It's well-known and busy on show days, so arrive at opening if you want the paths quiet.
 faq:
-  - q: "How do I get to the Palacio Real de la Granja Garden from Segovia?"
-    a: "It's about an 11km, 20-minute drive southeast of Segovia city via the CL-601, or you can take a local bus service that runs to San Ildefonso."
-  - q: "Do the fountains run every day?"
-    a: "No. The 26 fountains perform on a limited fountain-show calendar, usually tied to specific dates and summer weekends, so check the official schedule before visiting if that's your main reason to go."
-  - q: "What are the opening hours?"
-    a: "The garden is open daily from 10:00 AM to 8:00 PM year-round; confirm this hasn't changed seasonally before your trip."
-  - q: "How long should I plan for a visit?"
-    a: "Two to three hours covers the garden's parterres and woodland avenues; add an extra hour if you're also touring the palace interior."
-  - q: "Is it crowded, and when's the best time to go?"
-    a: "It's a well-known stop on Segovia day trips, especially busy on fountain-show weekends. Arriving right at the 10am opening gets you ahead of the tour-bus crowds."
+  - q: How do I get to the Palacio Real de la Granja Garden from Segovia?
+    a: It's about an 11km, 20-minute drive southeast of Segovia city via the CL-601, or you can take a local bus service that runs to San Ildefonso.
+  - q: Do the fountains run every day?
+    a: No. The 26 fountains perform on a limited fountain-show calendar, usually tied to specific dates and summer weekends, so check the official schedule before visiting if that's your main reason to go.
+  - q: What are the opening hours?
+    a: The garden is open daily from 10:00 AM to 8:00 PM year-round; confirm this hasn't changed seasonally before your trip.
+  - q: How long should I plan for a visit?
+    a: Two to three hours covers the garden's parterres and woodland avenues; add an extra hour if you're also touring the palace interior.
+  - q: Is it crowded, and when's the best time to go?
+    a: It's a well-known stop on Segovia day trips, especially busy on fountain-show weekends. Arriving right at the 10am opening gets you ahead of the tour-bus crowds.
 aiGenerated: true
 draft: false
 ---
