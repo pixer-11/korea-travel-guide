@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/576040_33fM_09OhhTOlmpmlgbSK2db5zQ3Ahhgn6QUCzlC70o.jpg"
+    credit: "Photo: Foursquare user content (Mormon Battalion Historic Site)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb4152e643cd13a846c395c"
 place:
   id: "ChIJr3AaK9yq3oAR5gWZgzH17Uw"
   name: "Mormon Battalion Historic Site"

@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 60
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1409541796_zYCOaFdsMJL9erWIILGh6XeCSI01teyyZWMiMpDnPYA.jpg"
+    credit: "Photo: Foursquare user content (Lingaraj Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cf7008055e137042355d0b6"
 place:
   id: ChIJB8j_yCanGToRzaJWlPhFKCE
   name: Lingaraj Temple

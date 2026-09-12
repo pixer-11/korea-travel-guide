@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/124090706__ROAGXhptIPH7Fmy_5vbVSRY4BWI9HSRN7o9mRxudLQ.jpg"
+    credit: "Photo: Foursquare user content (Cheekwood Botanical Garden and Museum of Art)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05866af964a5203c6122e3"
 place:
   id: "ChIJa4wvovBiZIgRI6Lt_1xPLsI"
   name: "Cheekwood"

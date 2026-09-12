@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5911215_4YJVuCz2YLdEQwgeR14kp6KpXsrk3O8qX-hNKofE8HY.jpg"
+    credit: "Photo: Foursquare user content (Two Rivers Mansion)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05866bf964a5205b6122e3"
 place:
   id: "ChIJ_29_F5hpZIgRVwigDHraUo8"
   name: "Two Rivers Mansion"

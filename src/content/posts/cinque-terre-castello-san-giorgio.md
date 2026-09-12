@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13575743_oB0ilTW_WaOH6WG4RQ9KhY4naIYgDP2KS2KyPZ0YwFA.jpg"
+    credit: "Photo: Foursquare user content (Castello di San Giorgio)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d6906e482cba0931d50d5d8"
 place:
   id: ChIJw6bWSJj81BIRz0506xfO3os
   name: Castello San Giorgio

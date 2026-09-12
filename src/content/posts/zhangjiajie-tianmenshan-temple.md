@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/19493422_T87o38uCW8YLwPaapCDxoqKJBhr6JeuxSszZ02qcimY.jpg"
+    credit: "Photo: Foursquare user content (Tianmen Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/503833c4e4b0df99d5b72af8"
 place:
   id: "ChIJl6UCsPywmzYRzgKScHaAIWk"
   name: "Tianmenshan Temple"

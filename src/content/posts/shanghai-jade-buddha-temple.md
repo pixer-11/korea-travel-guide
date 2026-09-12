@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/China-Schanghai-Jade_Buddha-Temple-5176573.jpg/3840px-China-Schanghai-Jade_Buddha-Temple-5176573.jpg"
+    credit: "Photo: ermell / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:China-Schanghai-Jade_Buddha-Temple-5176573.jpg"
 place:
   id: "ChIJY2v3jN9vsjURmJotCOxoanY"
   name: "Jade Buddha Temple"

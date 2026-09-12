@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/16132548_pKZoudoSA4AgXYlGdOZ57-nHJe_1oJZQNWG8CsqUnXI.jpg"
+    credit: "Photo: Foursquare user content (Angthong Islands National Marine Park (อุทยานแห่งชาติ หมู่เกาะอ่างทอง))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c6cade223c1a1cd41721acf"
 place:
   id: ChIJ5x4DAX7-VDARkJi8xghaoRg
   name: Mu Ko Ang Thong National Marine Park

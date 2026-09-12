@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/21029496_TX9BtU4bQyW8_64Z_q9Wp-tIt-xjB7F5xVDlSy62eFw.jpg"
+    credit: "Photo: Foursquare user content (Coal Mine Museum (新平溪煤礦博物園區))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d7c46967498a1cd1f437bfc"
 place:
   id: "ChIJsYkJHvtQXTQR39h4dY1NC0s"
   name: "Taiwan Coal Mine Museum"

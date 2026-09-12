@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/53501134_9jY-6em-w9E1ffJ6h2V3OT31iZzSir4Sm3nYUz4og3k.jpg"
+    credit: "Photo: Foursquare user content (Musée des Augustins)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b96adcbf964a52077dd34e3"
 place:
   id: "ChIJm47EwJy8rhIRtd0DFFUgx7M"
   name: "Musée des Augustins"

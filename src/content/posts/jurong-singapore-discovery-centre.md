@@ -21,7 +21,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/XBvlJ8hnC2s5SJyiI5RzbgFSv2Occ7jwmJsBwN7WsDo.jpg"
+    credit: "Photo: Foursquare user content (Singapore Discovery Centre)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b058810f964a5206baf22e3"
 place:
   id: ChIJq7P-2n4P2jERoflGFhUAEfQ
   name: Singapore Discovery Centre

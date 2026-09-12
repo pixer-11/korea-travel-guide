@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/215494_pq0x57tgqsRPRSgKCjIlcS5c28EbogWQxfIHukZ6mvk.jpg"
+    credit: "Photo: Foursquare user content (Musée de l'Orangerie)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4adcda10f964a520983521e3"
 place:
   id: "ChIJo6qq6i5u5kcRCpYBp4rQP9w"
   name: "Musée de l'Orangerie"

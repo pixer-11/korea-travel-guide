@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13373675_DSfMZ3Ym_B-PAbha7Uput1kk-cZ2dvf-yJ4kFriQCWs.jpg"
+    credit: "Photo: Foursquare user content (Nakanoshima Park (中之島公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bac9a51f964a52095fd3ae3"
 place:
   id: "ChIJPXiMg97mAGARsiccqVj_Os8"
   name: "Nakanoshima Park"

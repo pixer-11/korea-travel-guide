@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/3840px-Sainte_Chapelle_Interior_Stained_Glass.jpg"
+    credit: "Photo: Oldmanisold / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg"
 place:
   id: "ChIJR3122B9u5kcRaCck3PlB9DM"
   name: "Sainte-Chapelle"

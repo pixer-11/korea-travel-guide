@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/6082867_WUDxtA2tex6LbzjdWJynf-6DJIJKu3FAqY80OsgNFaw.jpg"
+    credit: "Photo: Foursquare user content (Luxembourg Garden (Jardin du Luxembourg))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ba8b203f964a520a6e739e3"
 place:
   id: "ChIJe2jeNttx5kcRi_mJsGHdkQc"
   name: "Jardin du Luxembourg"

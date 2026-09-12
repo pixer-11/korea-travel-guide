@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/36248491_AmeZJOnC9XlrHFRlxdsVluhTHxeKLhX-6Ii3nrs-0M0.jpg"
+    credit: "Photo: Foursquare user content (Odisha State Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f89a1b8e4b0ab0c1b378ca6"
 place:
   id: ChIJk2xMtjenGToRLL1qb6ks-xU
   name: Odisha State Museum

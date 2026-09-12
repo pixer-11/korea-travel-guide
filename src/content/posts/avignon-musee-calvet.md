@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1587945_Dx-WfdELsZcearsrvH3pYCiIkV404yUzAq5szlWmYmo.jpg"
+    credit: "Photo: Foursquare user content (Musée Calvet)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bf4fa6a354e9c7491d52602"
 place:
   id: ChIJ0SSHcY_rtRIRw9sCcO5Mmlo
   name: Musée Calvet

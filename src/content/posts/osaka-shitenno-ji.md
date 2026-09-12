@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/136628822_1nVP8V_5YvnFe-865m_7MQVXXjckp6lX0w7goiOR_Fo.jpg"
+    credit: "Photo: Foursquare user content (Shitenno-ji Temple (四天王寺))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b5864d4f964a520c75528e3"
 place:
   id: "ChIJIVA6O_jdAGARLWCtv8iBqrY"
   name: "Shitennō-ji"

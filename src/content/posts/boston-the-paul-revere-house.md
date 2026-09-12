@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/28083614_EU_yy35e1JP8KzNsFdY3HZyFAEamPZ7D7jvQUmhXbAk.jpg"
+    credit: "Photo: Foursquare user content (Paul Revere House)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4afc5d6af964a520ed2122e3"
 place:
   id: ChIJtT5ZHIlw44kRzCtDBAjPP3A
   name: The Paul Revere House

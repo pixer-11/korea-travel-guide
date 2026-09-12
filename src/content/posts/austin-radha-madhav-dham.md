@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/42986478_p51hLQUKK4RkLY8eRibwhCfobXB0mXaxRdFy-SnoFZo.jpg"
+    credit: "Photo: Foursquare user content (Radha Madhav Dham)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/54a4f94c498e46bd7b892cb5"
 place:
   id: "ChIJSeFcvX1PW4YR8Woqa_4ewKs"
   name: "Radha Madhav Dham"

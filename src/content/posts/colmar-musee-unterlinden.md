@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/53314336_le29FDHV4DvOx-adhBuhHcOU1UVD3vTTFD7CQizUgt8.jpg"
+    credit: "Photo: Foursquare user content (Musée d'Unterlinden)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bc3229f4cdfc9b68de29621"
 place:
   id: "ChIJrTYfmeBlkUcRLZvZ15ZlBBk"
   name: "Musée Unterlinden"

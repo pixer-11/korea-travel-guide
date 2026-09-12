@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 45
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/162709_i7FCZe3qORzkXF2sxrNIqKo9TBc33N6clkGJ78K4boI.jpg"
+    credit: "Photo: Foursquare user content (Chuncheon National Museum (국립춘천박물관))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c45370df0bdd13ad2b8cacc"
 place:
   id: ChIJidDYl6XlYjURMd163Y6QpFY
   name: Chuncheon National Museum

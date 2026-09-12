@@ -5,6 +5,11 @@ country: United States
 region: Portland
 category: attraction
 pubDate: '2026-09-09T07:48:39.085Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Portland_skyline_from_OMSI_-_Portland%2C_Oregon.JPG"
+    credit: "Photo: M.O. Stevens / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Portland_skyline_from_OMSI_-_Portland,_Oregon.JPG"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/1/1f/OMSI_exhibits_sign%2C_Portland%2C_OR.JPG
   credit: 'Photo: Another Believer / wikimedia (BY-SA)'

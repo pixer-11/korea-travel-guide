@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1416257722_zArWuxXQqKmRyquP9kVaFigtFPrTB_qV5bccyeNHyPs.jpg"
+    credit: "Photo: Foursquare user content (Bena Traditional Village)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e4ce9db149563bcf306edd7"
 place:
   id: "ChIJFS0TtJ_esi0RbpzhZhF9kjc"
   name: "Bena Traditional Village (Thatched Roof Village)"

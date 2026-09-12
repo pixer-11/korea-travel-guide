@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/86803_60ZXs5LlQ0VDMOmoNuvHbCAet_tjiwt_DoGzQvFjPr0.jpg"
+    credit: "Photo: Foursquare user content (Botanical Building & Lily Pond)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9c010ef964a520b93f36e3"
 place:
   id: "ChIJ6_R6EJZU2YARjlNooLF78lc"
   name: "Botanical Building"

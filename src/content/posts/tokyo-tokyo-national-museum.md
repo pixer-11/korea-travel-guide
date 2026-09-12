@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12375458_OSjAkeTsKm6qZEOFOpHNTnduriiIrgTLfW0IaexTHAM.jpg"
+    credit: "Photo: Foursquare user content (Tokyo National Museum (東京国立博物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b556c7ef964a520f5e327e3"
 place:
   id: "ChIJEX3XFIOOGGAR3XdJvRjWLyM"
   name: "Tokyo National Museum"

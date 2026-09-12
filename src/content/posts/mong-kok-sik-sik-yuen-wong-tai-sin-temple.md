@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7073601_REsbs9a4o86xD3AE-IMPmVDg6UVPYCcR9f30ig2nH3w.jpg"
+    credit: "Photo: Foursquare user content (Sik Sik Yuen Wong Tai Sin Temple (嗇色園黃大仙祠))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0588d2f964a52092db22e3"
 place:
   id: ChIJPyxIxtgGBDQRzvn_sxhWkTU
   name: Sik Sik Yuen Wong Tai Sin Temple

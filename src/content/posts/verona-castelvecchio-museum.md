@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/48712609_GdtNGfUCDWBhy5oW6ztXMS5d4JeKoj1kCciW2WFZUqU.jpg"
+    credit: "Photo: Foursquare user content (Castelvecchio)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ba8d6c5f964a52023f339e3"
 place:
   id: "ChIJgRfBNEVff0cRpqRSmH_bPXU"
   name: "Castelvecchio Museum"

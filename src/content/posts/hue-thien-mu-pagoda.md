@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 49
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11715177_mgMbR8RBKxKYrJclMOJwNQrZfgud5eRwUov24KFRHRw.jpg"
+    credit: "Photo: Foursquare user content (Chùa Thiên Mụ (Thien Mu Pagoda))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bce8007b6c49c74df5e9791"
 place:
   id: ChIJ0wVgLJemQTERunn1THqLJvc
   name: Thien Mu Pagoda

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/6263366_rCxHlcxQSOR5CBr-kq8geoqHqVxVHGF_yi7ZOG0GSjQ.jpg"
+    credit: "Photo: Foursquare user content (Lingnan Garden (嶺南之風))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50ded5bee4b028f652874509"
 place:
   id: "ChIJf41i61T_AzQR98vqG688Pf8"
   name: "Lingnan Garden"
