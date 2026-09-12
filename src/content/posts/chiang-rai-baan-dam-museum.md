@@ -1,30 +1,23 @@
 ---
-title: 'Baan Dam Museum: Chiang Rai Travel Guide (4.1★)'
-description: >-
-  Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city
-  in Nang Lae, and is best tackled first thing after opening rather than early
-  afternoon, when weekend crowds peak between 1pm and 4pm. 4.1★ (13,854 reviews)
-  — what visitors say, hours, and tips.
+title: "Baan Dam Museum: Chiang Rai Travel Guide (4.1★)"
+description: Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city in Nang Lae, and is best tackled first thing after opening rather than early afternoon, when weekend crowds peak between 1pm and 4pm. 4.1★ (13,854 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Chiang Rai
 category: attraction
-pubDate: '2026-08-05T11:20:40.202Z'
+pubDate: "2026-08-05T11:20:40.202Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1920px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg
-  credit: 'Photo: Szwendam się / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1920px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg
+  credit: "Photo: Szwendam się / Wikimedia Commons (CC BY-SA 4.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Muzeum_Baan_Dam,_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai,_Tajlandia.jpg
+  source: https://commons.wikimedia.org/wiki/File:Muzeum_Baan_Dam,_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai,_Tajlandia.jpg
 gallery: []
 place:
   id: ChIJAQAAAFAA1zARlrvp9yTMeoE
   name: Baan Dam Museum
-  address: '333 Tambon Nang Lae, อำเภอเมือง Chang Wat Chiang Rai 57100, Thailand'
+  address: 333 Tambon Nang Lae, อำเภอเมือง Chang Wat Chiang Rai 57100, Thailand
   rating: 4.1
   userRatingsTotal: 13854
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=9329994037201582998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=9329994037201582998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 19.992037
   lng: 99.8607523
@@ -33,55 +26,46 @@ place:
     weekdayQuiet:
       - 9
       - 10
-      - 17
     weekdayBusy:
       - 13
       - 14
     weekendQuiet:
       - 9
       - 10
-      - 17
     weekendBusy:
       - 13
       - 14
       - 15
     venueId: ven_456f654d5479397076726c52417a3141414641414151414a496843
+  phone: +66 53 776 333
+  openingHours:
+    - "Monday: 9:00 AM – 5:00 PM"
+    - "Tuesday: 9:00 AM – 5:00 PM"
+    - "Wednesday: 9:00 AM – 5:00 PM"
+    - "Thursday: 9:00 AM – 5:00 PM"
+    - "Friday: 9:00 AM – 5:00 PM"
+    - "Saturday: 9:00 AM – 5:00 PM"
+    - "Sunday: 9:00 AM – 5:00 PM"
 tags:
   - chiang rai
   - museum
-quickAnswer: >-
-  Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city
-  in Nang Lae, and is best tackled first thing after opening rather than early
-  afternoon, when weekend crowds peak between 1pm and 4pm. Budget 1.5–2 hours to
-  wander its roughly 40 dark teak structures filled with animal bones, skins and
-  carvings by the late Thawan Duchanee. Pair it with Wat Rong Khun (White
-  Temple) on the same road for a full half-day loop.
+quickAnswer: Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city in Nang Lae, and is best tackled first thing after opening rather than early afternoon, when weekend crowds peak between 1pm and 4pm. Budget 1.5–2 hours to wander its roughly 40 dark teak structures filled with animal bones, skins and carvings by the late Thawan Duchanee. Pair it with Wat Rong Khun (White Temple) on the same road for a full half-day loop.
 faq:
   - q: How long should I spend at Baan Dam Museum?
-    a: >-
-      Plan on 1.5 to 2 hours to walk through the roughly 40 buildings at a
-      comfortable pace; photographers may want longer.
+    a: Plan on 1.5 to 2 hours to walk through the roughly 40 buildings at a comfortable pace; photographers may want longer.
   - q: When is the quietest time to visit?
-    a: >-
-      Foot traffic data shows it's calmest between 9am and 6pm on both weekdays
-      and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak.
+    a: Foot traffic data shows it's calmest between 9am and 5pm on both weekdays and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak.
   - q: How do I get to Baan Dam from Chiang Rai city?
-    a: >-
-      It's about a 20–25 minute drive north in Nang Lae. Most visitors go by
-      rented scooter, car, or a hired driver/tour, often combined with the White
-      Temple and Blue Temple.
+    a: It's about a 20–25 minute drive north in Nang Lae. Most visitors go by rented scooter, car, or a hired driver/tour, often combined with the White Temple and Blue Temple.
   - q: Is Baan Dam Museum worth visiting alongside the White Temple?
-    a: >-
-      Yes — both are on the northern side of Chiang Rai and are commonly
-      combined into a half-day loop with the Blue Temple (Wat Rong Suea Ten).
+    a: Yes — both are on the northern side of Chiang Rai and are commonly combined into a half-day loop with the Blue Temple (Wat Rong Suea Ten).
   - q: Do I need to book tickets in advance?
-    a: >-
-      No advance booking is needed; entry is paid at the gate on arrival. Carry
-      cash in case card payment isn't available.
+    a: No advance booking is needed; entry is paid at the gate on arrival. Carry cash in case card payment isn't available.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-31'
+updatedDate: "2026-08-31"
 ---
+
 The road out of Chiang Rai city toward Nang Lae is flat and green, lined with longan orchards, and gives no hint of what's coming. Then you turn into a compound and the first black roofline appears through the trees, steep, temple-like, but wrong somehow, too severe to be a real wat. That's the point. Thawan Duchanee, one of Thailand's most celebrated modern artists, spent decades building this place as his home and studio, and it reads less like a museum than the inside of someone's dream.
 
 ## Why go

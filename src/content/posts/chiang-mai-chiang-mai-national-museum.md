@@ -29,6 +29,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 18.8111618
   lng: 98.9764357
+  phone: '+66 53 221 308'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
 tags:
   - chiang mai
   - museum

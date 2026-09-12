@@ -57,6 +57,7 @@ place:
       - 15
       - 16
     venueId: ven_553542367633456377684e526f6a556d3577386271342d4a496843
+  phone: '+91 44 2819 3238'
 tags:
   - chennai
   - top attraction

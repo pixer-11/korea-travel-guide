@@ -51,6 +51,14 @@ place:
       - 20
       - 21
     venueId: ven_3035304563726b56592d5652417a31476b4654666565754a496843
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - chiang rai
   - historic site
