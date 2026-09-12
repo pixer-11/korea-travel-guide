@@ -848,6 +848,35 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .fact-box .bz-k { flex: 0 0 4.6rem; font-weight: 600; color: var(--ink); }
 .fact-box .bz-v { color: var(--ink); line-height: 1.5; }
 .fact-box .bz-v b { font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; margin-right: 0.15rem; }
+/* The hour bar on the guide. Same colours and the same 7am–10pm window as
+   /tools/best-time/ — two drawings of one measurement that disagreed is how a
+   card read "quiet 9am-5pm" over red cells in August 2026. The "normal" cells
+   cannot reach 3:1 on fill alone against this near-white box, so they carry a
+   hairline outline instead; that is what makes them a cell rather than a gap. */
+.fact-box .bz-chart { margin: 0.2rem 0 0; display: grid; gap: 0.3rem; }
+.fact-box .bz-line { display: grid; grid-template-columns: 3.6rem 1fr; align-items: center; gap: 0.5rem; }
+.fact-box .bz-day { font-size: 0.7rem; font-weight: 700; color: var(--ink-soft); }
+.fact-box .bz-bar { display: flex; gap: 2px; height: 22px; align-items: flex-end; }
+.fact-box .bz-bar i { flex: 1; border-radius: 3px; background: #ece6da; border: 1px solid #8a8073; box-sizing: border-box; height: 62%; }
+.fact-box .bz-bar i.quiet { background: linear-gradient(180deg, #45ad76, #26714b); border-color: #1d5c3c; height: 100%; }
+.fact-box .bz-bar i.busy { background: linear-gradient(180deg, #dd8b8b, #bd382e); border-color: #93251d; height: 100%; }
+.fact-box .bz-scale { display: flex; justify-content: space-between; font-size: 0.64rem; color: var(--ink-soft);
+  font-weight: 600; margin-left: 4.1rem; letter-spacing: 0.02em; }
+.fact-box .bz-legend { display: flex; flex-wrap: wrap; gap: 0.2rem 0.8rem; margin: 0.25rem 0 0 4.1rem;
+  font-size: 0.68rem; color: var(--muted); }
+.fact-box .bz-legend span { display: flex; align-items: center; gap: 0.28rem; }
+.fact-box .bz-legend i { width: 0.6rem; height: 0.6rem; border-radius: 2px; background: #ece6da; border: 1px solid #8a8073; }
+.fact-box .bz-legend i.quiet { background: linear-gradient(180deg, #45ad76, #26714b); border-color: #1d5c3c; }
+.fact-box .bz-legend i.busy { background: linear-gradient(180deg, #dd8b8b, #bd382e); border-color: #93251d; }
+@media (prefers-color-scheme: dark) {
+  .fact-box .bz-bar i, .fact-box .bz-legend i { background: #3a3328; border-color: #6f6659; }
+  .fact-box .bz-bar i.quiet, .fact-box .bz-legend i.quiet { background: linear-gradient(180deg, #4bb37c, #2f7d55); }
+  .fact-box .bz-bar i.busy, .fact-box .bz-legend i.busy { background: linear-gradient(180deg, #e39a9a, #c8443a); }
+}
+@media (max-width: 26rem) {
+  .fact-box .bz-line { grid-template-columns: 2.9rem 1fr; }
+  .fact-box .bz-scale, .fact-box .bz-legend { margin-left: 3.4rem; }
+}
 .fact-box .bz-credit { margin: 0.1rem 0 0; font-size: 0.72rem; color: var(--muted); }
 /* Sits under the crowd chart: the reader looking at one venue's quiet hours is
    the one who wants the whole-city comparison. Slightly larger than the credit

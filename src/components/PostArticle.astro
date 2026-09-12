@@ -21,7 +21,7 @@ import { hotellookUrl } from '../lib/hotellook.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
+import { formatHour, formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { eligibleCountries, monthSlug as wtgMonthSlug } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
@@ -222,6 +222,32 @@ const bz = resolveBusyness(p?.busyness);
 const quietWd = fmtHourRanges(bz.weekdayQuiet), quietWe = fmtHourRanges(bz.weekendQuiet);
 const busyWd = fmtHourRanges(bz.weekdayBusy), busyWe = fmtHourRanges(bz.weekendBusy);
 const hasBusyness = !!(quietWd || quietWe || busyWd || busyWe);
+
+// The hour bar, on the guide itself.
+//
+// /tools/best-time/ has drawn this since it launched; the 700-odd guides that
+// OWN the measurement printed two sentences and nothing to look at. It is the
+// one thing on this page no map app publishes, and it was the least visible
+// thing on it (2026-09-12). Same 7am–10pm window and the same busy-wins rule
+// as the tool — one disagreeing copy of this drawing is how a card ended up
+// reading "quiet 9am-5pm" over red cells in August.
+//
+// Weekday and weekend are separate rows here. The tool flattens them to fit a
+// result card; the guide has room for the distinction it already states in
+// words, and for most venues the two rows do not look alike.
+const BZ_HOURS = Array.from({ length: 16 }, (_, i) => i + 7);
+const bzHour = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
+const bzCells = (quiet?: number[], busy?: number[]) => {
+  const q = new Set(quiet ?? []);
+  const b = new Set(busy ?? []);
+  return BZ_HOURS.map((h) => (b.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
+};
+// Only draw a row we actually measured. An all-"mid" row is not a finding
+// about the venue, it is a row with no data behind it.
+const bzRows = [
+  { label: t('post.weekdays'), cells: bzCells(bz.weekdayQuiet, bz.weekdayBusy) },
+  { label: t('post.weekends'), cells: bzCells(bz.weekendQuiet, bz.weekendBusy) },
+].filter((r) => r.cells.some((c) => c !== 'mid'));
 
 // Map our category to a schema.org place type (helps travel AI results).
 const placeType =
@@ -763,6 +789,25 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
               <div class="bz-row"><span class="bz-k">{t('post.busiest')}</span><span class="bz-v">
                 {busyWd && <><b>{t('post.weekdays')}</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>{t('post.weekends')}</b> {busyWe}</>}
               </span></div>
+            )}
+            {/* The bar carries no information the two lines above do not already
+                state in words, so it is hidden from screen readers rather than
+                read out as sixteen unlabelled cells per row. */}
+            {bzRows.length > 0 && (
+              <div class="bz-chart" aria-hidden="true">
+                {bzRows.map((r) => (
+                  <div class="bz-line">
+                    <span class="bz-day">{r.label}</span>
+                    <div class="bz-bar">{r.cells.map((c, i) => <i class={c} title={bzHour(BZ_HOURS[i])}></i>)}</div>
+                  </div>
+                ))}
+                <div class="bz-scale"><span>{bzHour(7)}</span><span>{bzHour(14)}</span><span>{bzHour(22)}</span></div>
+                <p class="bz-legend">
+                  <span><i class="quiet"></i>{t('tool.quiet')}</span>
+                  <span><i class="mid"></i>{t('tool.normal')}</span>
+                  <span><i class="busy"></i>{t('tool.busy')}</span>
+                </p>
+              </div>
             )}
             <p class="bz-credit">{t('post.footTraffic')} <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
             {/* The crowd tool is the site's #2 page, and until now the ~157 posts

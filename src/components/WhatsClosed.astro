@@ -15,7 +15,7 @@ import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/u
 import { holidayLabel } from '../i18n/holidays';
 import { localizePlace, localizeVenue } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
-import { closuresInRange, holidaysInRange } from '../lib/whats-closed.mjs';
+import { closuresInRange, holidaysInRange, closedWeekdaysOf } from '../lib/whats-closed.mjs';
 import countryFacts from '../../data/country-facts.json';
 
 interface Props { lang: Lang }
@@ -60,6 +60,10 @@ const saysSomething = (c: string) =>
   closuresInRange(posts, { country: c, fromISO: today, toISO: in14 }).length > 0;
 const initial = countries.find(saysSomething) ?? countries[0] ?? '';
 
+const DAY_INDEX: Record<string, number> = {
+  Sunday: 0, Monday: 1, Tuesday: 2, Wednesday: 3, Thursday: 4, Friday: 5, Saturday: 6,
+};
+
 // The island: per country, its holidays and the venues that keep a closing day.
 // Small (20 countries, ~130 venues) and built from the same data as the server
 // view, so the two cannot disagree.
@@ -84,9 +88,18 @@ const island = Object.fromEntries(countries.map((c) => [c, {
         return translated ? shortPlaceLabel(translated, lang) || fallback : fallback;
       })(),
       city: localizePlace(p.data.region ?? '', lang) || null,
-      hours: p.data.place?.hoursOmitted ? [] : (p.data.place?.openingHours ?? []),
+      // The browser needs ONE fact from opening hours — which weekdays the
+      // place is shut — and it used to receive all seven lines to work that
+      // out for itself. 1,000 venues x "Monday: 9:30 AM – 5:30 PM" x 7 made
+      // this page 501 KB of HTML, 346 KB of it inline JSON nobody reads
+      // (measured 2026-09-12). Computed here with the same closedWeekdaysOf
+      // the server view uses, so the two cannot drift, and sent as day
+      // numbers: getUTCDay() order, Sunday = 0.
+      closed: closedWeekdaysOf(p)
+        .map((d: string) => DAY_INDEX[d])
+        .filter((n: number | undefined): n is number => Number.isInteger(n)),
     }))
-    .filter((v) => v.hours.length > 0),
+    .filter((v) => v.closed.length > 0),
 }]));
 
 const holidays = initial ? holidaysInRange(countryFacts, initial, today, in14) : [];
@@ -148,13 +161,10 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 
   <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang) }}>
     // Client filter over the same island the server view was built from.
-    const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
     const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
-
-    const closedDays = (hours) => hours
-      .map((l) => /^\s*(\w+day)\s*:\s*closed\s*$/i.exec(l)?.[1])
-      .filter(Boolean)
-      .map((d) => d[0].toUpperCase() + d.slice(1).toLowerCase());
+    // `v.closed` arrives as getUTCDay() numbers, worked out on the server by the
+    // same helper the server view uses. Parsing seven opening-hours lines here
+    // is what made the island 346 KB.
 
     const spanOf = (from, to) => {
       const a = Date.parse(from + 'T00:00:00Z');
@@ -178,7 +188,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 
       const byDay = {};
       for (const v of data.venues) {
-        for (const d of closedDays(v.hours)) {
+        for (const d of v.closed) {
           if (!byDay[d]) byDay[d] = [];
           byDay[d].push(v);
         }
@@ -186,7 +196,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       for (const list of Object.values(byDay)) list.sort((x, y) => x.name.localeCompare(y.name));
 
       const rows = span
-        .map((d) => ({ date: d, venues: byDay[DAYS[new Date(d + 'T00:00:00Z').getUTCDay()]] || [] }))
+        .map((d) => ({ date: d, venues: byDay[new Date(d + 'T00:00:00Z').getUTCDay()] || [] }))
         .filter((r) => r.venues.length);
 
       document.getElementById('wc-closure-list').innerHTML = rows.map((r) =>
