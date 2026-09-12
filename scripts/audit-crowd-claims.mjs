@@ -35,6 +35,32 @@ const MEASUREMENT_PHRASES = [
   /statistics show/i,
 ];
 
+// 구절이 들어앉은 **문장 하나**를 돌려준다. 문장 경계는 . ! ? 와 줄바꿈.
+export function sentenceAround(text, idx) {
+  const before = text.slice(0, idx);
+  const start = Math.max(
+    before.lastIndexOf('.'), before.lastIndexOf('!'),
+    before.lastIndexOf('?'), before.lastIndexOf('\n'),
+  ) + 1;
+  const rest = text.slice(idx);
+  const m = rest.match(/[.!?\n]/);
+  return text.slice(start, idx + (m ? m.index + 1 : rest.length));
+}
+
+// 이 문장이 "우리에겐 그 수치가 없다"고 말하고 있는가.
+const DENIES = /\b(?:no|not|without|lacks?|lacking|none|never|isn't|aren't|wasn't|don't|doesn't|didn't|haven't|hasn't|unavailable|unpublished|yet to)\b/i;
+
+/** 측정을 주장하는 구절. 단, 그 문장이 부정문이면 주장이 아니다. */
+export function measurementClaim(prose) {
+  for (const re of MEASUREMENT_PHRASES) {
+    const m = prose.match(re);
+    if (!m) continue;
+    if (DENIES.test(sentenceAround(prose, m.index))) continue;
+    return m[0];
+  }
+  return null;
+}
+
 // "quietest/busiest … between 9am and 11am" — 시계창을 못박은 최상급 주장.
 // "before 9am" 같은 한쪽 경계 조언은 구조적 추론일 수 있어 잡지 않는다.
 const CLOCK_WINDOW_CLAIM =
@@ -116,9 +142,14 @@ for (const f of readdirSync(DIR)) {
   // 2026-09-02 sat in quickAnswer or an FAQ answer, which render on the page
   // and in the FAQ rich result. audit-hours-claims already reads all of it.
   const prose = `${body}\n${fm}`;
-  const hit =
-    MEASUREMENT_PHRASES.map((re) => prose.match(re)?.[0]).find(Boolean) ||
-    clockWindowClaim(prose);
+  // A sentence that SAYS WE DO NOT HAVE the measurement is the opposite of an
+  // invented claim, and this blocked one for it on 2026-09-12:
+  //   "With no published crowd data yet for a bar this new, go by structure
+  //    instead: small Tokyo bars near stations tend to fill up after work."
+  // That is exactly the honest shape we want writers reaching for. Matching the
+  // phrase alone pushed them toward saying nothing about crowds at all, so the
+  // whole sentence around the phrase is read before it counts as a claim.
+  const hit = measurementClaim(prose) || clockWindowClaim(prose);
   if (hit) {
     console.log(`INVENTED-CROWD-CLAIM: ${f} — "${hit.slice(0, 90)}"`);
     findings++;

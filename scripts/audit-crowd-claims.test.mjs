@@ -108,3 +108,30 @@ test('괄호 안이 혼잡 이야기면 예외로 봐주지 않는다', () => {
   });
   assert.equal(r.code, 1, r.out);
 });
+
+// 2026-09-12: 게이트가 정직한 문장을 막았다. 실제로 막힌 글의 문장 그대로.
+// "혼잡 데이터가 없다"고 쓰는 것은 지어낸 주장의 반대편이고, 이걸 막으면
+// 글쓴이는 혼잡 얘기를 아예 안 하는 쪽으로 도망간다.
+test('데이터가 없다고 말하는 문장은 주장이 아니다', () => {
+  const r = runOn({
+    'a.md': post('', 'With no published crowd data yet for a bar this new, go by structure instead: small Tokyo bars near stations like Ebisu tend to fill up fast right after typical after-work hours.'),
+    'b.md': post('', 'We do not have foot-traffic data for this venue, so treat the timing below as a rule of thumb.'),
+    'c.md': post('', 'Visitor counts are unavailable here; the hours come from the listing itself.'),
+  });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('같은 구절이라도 부정이 없으면 여전히 막힌다', () => {
+  const r = runOn({
+    'a.md': post('', 'According to crowd data, the queue peaks right after lunch.'),
+  });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /INVENTED-CROWD-CLAIM/);
+});
+
+test('한 문장의 부정이 다음 문장의 주장을 덮어주지는 않는다', () => {
+  const r = runOn({
+    'a.md': post('', 'There is no queue at opening. Our crowd data shows the room fills by 7pm.'),
+  });
+  assert.equal(r.code, 1, r.out);
+});

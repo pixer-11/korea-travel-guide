@@ -49,6 +49,7 @@ const store = existsSync(STORE) ? JSON.parse(await readFile(STORE, 'utf8')) : {}
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
 let checked = 0, mismatch = 0, weak = 0, failed = 0, quarantined = 0, vetoed = 0;
+let alreadyJudged = 0;
 const flagged = [];
 const world = await loadWorld();
 
@@ -101,7 +102,10 @@ for (const f of files) {
   // coming back" when they are in fact already handled.
   if (data.draft === true) continue;
   const key = `${slug}\x01${hero.url}`;
-  if (!AUDIT_ALL && !argSlugs && store[key]) continue; // already judged this exact hero
+  // Already judged this exact hero. Counted, not just skipped: a night with
+  // nothing new to judge and a night that judged nothing because it could not
+  // read the store are the same number at the bottom of this file otherwise.
+  if (!AUDIT_ALL && !argSlugs && store[key]) { alreadyJudged++; continue; }
 
   try {
     const v = await auditHeroImage({
@@ -166,7 +170,25 @@ console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · 
 //
 // requireExamined is the repo's one place for this sentence, and naming this
 // file in audit-checkers immediately said it was missing here.
-requireExamined(checked, 'hero(es) judged', failed ? `${failed} could not be read — vision or the images were unreachable` : 'nothing was queued');
+//
+// 🛑 But the first version of this guard counted only `checked`, and a night
+// with NOTHING NEW TO JUDGE is not a night that judged nothing. It ran daily,
+// the queue is normally just that day's new venue posts, and on 2026-09-11 the
+// day's publishing was all events — so all 1,368 venue heroes were already in
+// the store, checked was 0, and the job went red for being completely up to date. It
+// had passed 42 nights running before that. A guard that fires on the healthy
+// state is how the owner ends up with an alert they learn to ignore.
+//
+// So the three states are separated:
+//   nothing to look at at all      → refuse (the store or the posts are gone)
+//   everything already judged      → pass  (this is what "up to date" looks like)
+//   candidates, but all unreadable → refuse (vision or the CDN is down)
+requireExamined(checked + alreadyJudged, 'hero(es)', 'src/content/posts 에 발행된 venue 글이 없나?');
+if (checked === 0 && failed > 0) {
+  console.log(`VISION-UNREADABLE: ${failed}건을 전부 읽지 못했다 — 비전 API나 이미지가 닿지 않았다. 판정이 하나도 없으므로 통과가 아니다.`);
+  process.exit(1);
+}
+if (checked === 0) console.log(`✓ 새로 판정할 히어로 없음 — ${alreadyJudged}편은 이미 판정되어 있다.`);
 if (flagged.length) { console.log('\nMISMATCHES:'); console.log(flagged.join('\n')); }
 
 // Telegram summary (Korean) when configured and something is off.
