@@ -1,7 +1,3 @@
-import { readFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
-import matter from 'gray-matter';
-
 // Which photo a TOOL hub shares when someone posts its link.
 //
 // The six tool and itinerary hubs shared /og-default.jpg — the brand card —
@@ -29,18 +25,27 @@ import matter from 'gray-matter';
 // Every one of the six was looked at by a person before it was chosen — a
 // seventh (Tsukiji, 2005, half the frame parked scooters) was rejected on
 // sight, which is the whole reason this list is written by hand.
-export function toolOgPhoto(slug) {
-  try {
-    const path = fileURLToPath(new URL(`../content/posts/${slug}.md`, import.meta.url));
-    const { data } = matter(readFileSync(path, 'utf8'));
-    // A draft is off the site; sharing its photo would point at a 301.
-    if (data?.draft === true) return undefined;
-    return data?.heroImage?.url || undefined;
-  } catch {
-    // Post renamed or retired → undefined, and BaseLayout falls back to the
-    // brand card exactly as before. A missing photo must never fail a build.
-    return undefined;
-  }
+//
+// 🛑 The first version read the markdown itself, with
+// `readFileSync(fileURLToPath(new URL('../content/posts/' + slug + '.md', import.meta.url)))`.
+// That works under `astro dev` and under `node --test` — both run this file
+// from source — and returns undefined in the production build, where the
+// module has been bundled and import.meta.url no longer points anywhere near
+// src/content. It fails SILENTLY, because a missing photo is supposed to fall
+// back to the brand card: dev showed six photographs, the deploy shipped six
+// brand cards, and the tests passed the whole time (2026-09-12).
+//
+// It takes the post COLLECTION now — the same objects the page already has
+// from getCollection — so there is no filesystem in it at all.
+export function heroOf(posts, slug) {
+  // Collections have carried ids both with and without the .md suffix across
+  // Astro versions, and this repo strips it by hand in several places — match
+  // either rather than depend on which one today's build hands over.
+  const norm = (v) => String(v ?? '').replace(/\.md$/, '');
+  const post = posts?.find?.((p) => norm(p.id) === slug || norm(p.slug) === slug);
+  // A draft is off the site; sharing its photo would point at a 301.
+  if (!post || post.data?.draft === true) return undefined;
+  return post.data?.heroImage?.url || undefined;
 }
 
 /** The post each tool hub borrows its share image from. */

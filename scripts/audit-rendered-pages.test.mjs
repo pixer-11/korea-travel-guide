@@ -159,3 +159,49 @@ test('한 템플릿의 결함이 수백 페이지에 퍼져도 보고는 표본 
   // 40줄이 아니라 표본 3줄만 나온다.
   assert.ok(r.out.split('\n').filter((l) => l.includes('/index.html')).length <= 3, r.out);
 });
+
+// 2026-09-12: 도구 허브 여섯 곳이 사진 대신 브랜드 카드를 내보내고 있었는데
+// 개발 서버도 단위 테스트도 전부 초록이었다. 빌드된 HTML 만이 알고 있었다.
+const ogPage = (img) =>
+  `<!DOCTYPE html><html><head><title>t</title>` +
+  (img ? `<meta property="og:image" content="${img}">` : '') +
+  `</head><body><h1>Tool</h1><p>x</p></body></html>`;
+
+test('도구 허브가 브랜드 기본 카드를 공유하면 잡는다', () => {
+  const root = dist({
+    'tools/best-time/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ko/tools/when-to-go/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /OG-DEFAULT/);
+});
+
+test('og:image 가 아예 없는 도구 허브도 잡는다', () => {
+  const root = dist({ 'itinerary/index.html': ogPage(null) });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /OG-DEFAULT/);
+});
+
+test('진짜 사진을 공유하는 허브는 통과한다', () => {
+  const root = dist({
+    'tools/best-time/index.html': ogPage('https://wanderatlasguides.com/og/217a13db1afb3e8f.webp'),
+    'ko/itinerary/index.html': ogPage('https://wanderatlasguides.com/og/bc37734375e38b3d.webp'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('규칙 대상이 아닌 페이지는 기본 카드를 써도 통과한다', () => {
+  const root = dist({
+    'about/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'tools/best-time/deeper/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});

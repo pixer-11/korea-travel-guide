@@ -5,7 +5,8 @@ import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { MONTHS, monthSlug, monthComfort, bestMonth } from '../lib/when-to-go.mjs';
-import { toolOgPhoto, TOOL_OG } from '../lib/toolOgPhoto.mjs';
+import { getCollection } from 'astro:content';
+import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 
 // The grid every country-month page links back to. Its job is to be the one page
 // a crawler can reach every one of the 204 from, and to let a reader who knows
@@ -35,6 +36,8 @@ interface CountryRow {
 interface Props { countries: CountryRow[]; lang: Lang }
 const { countries, lang } = Astro.props;
 const t = useTranslations(lang);
+// Only for the share image — see lib/toolOgPhoto.mjs.
+const ogPosts = await getCollection('posts', ({ data }) => !data.draft);
 const fill = (key: string, vars: Record<string, string | number>) =>
   Object.entries(vars).reduce((s, [k, v]) => s.replaceAll(`{${k}}`, String(v)), t(key as any));
 
@@ -91,7 +94,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout image={toolOgPhoto(TOOL_OG.whenToGo)} title={title} description={dek} lang={lang} localized={true}>
+<BaseLayout image={heroOf(ogPosts, TOOL_OG.whenToGo)} title={title} description={dek} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtgi">

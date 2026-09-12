@@ -12,7 +12,7 @@
 // this page IS indexable — "crowd data widget" is a query with intent.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { toolOgPhoto, TOOL_OG } from '../../../lib/toolOgPhoto.mjs';
+import { heroOf, TOOL_OG } from '../../../lib/toolOgPhoto.mjs';
 
 export const prerender = true;
 
@@ -43,7 +43,7 @@ for (const pl of places) {
 }
 ---
 <BaseLayout
-  image={toolOgPhoto(TOOL_OG.widget)}
+  image={heroOf(posts, TOOL_OG.widget)}
   title={`Free crowd-data widget — embed measured quiet hours for ${places.length} places`}
   description="Add a small card showing measured quiet and busy hours for any of our covered attractions to your own site. Free, one iframe, no scripts."
 >

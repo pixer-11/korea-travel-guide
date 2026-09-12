@@ -5,7 +5,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { useTranslations, localizePath, type Lang } from '../../../i18n/utils';
 import { thumbOr } from '../../../lib/wall';
 import { localizePlace } from '../../../i18n/places';
-import { toolOgPhoto, TOOL_OG } from '../../../lib/toolOgPhoto.mjs';
+import { heroOf, TOOL_OG } from '../../../lib/toolOgPhoto.mjs';
 
 export function getStaticPaths() {
   const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
@@ -70,7 +70,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout image={toolOgPhoto(TOOL_OG.itinerary)} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={heroOf(allPosts, TOOL_OG.itinerary)} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{t('itin.indexEyebrow')}</p>

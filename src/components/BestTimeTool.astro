@@ -8,7 +8,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
-import { toolOgPhoto, TOOL_OG } from '../lib/toolOgPhoto.mjs';
+import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { resolveBusyness } from '../lib/busyness.mjs';
@@ -212,7 +212,7 @@ const jsonLd = {
   ],
 };
 ---
-<BaseLayout image={toolOgPhoto(TOOL_OG.bestTime)} title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={heroOf(posts, TOOL_OG.bestTime)} title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
   <section class="tool">
     <div class="wrap">
       <p class="kicker gold">{t('tool.kicker')}</p>

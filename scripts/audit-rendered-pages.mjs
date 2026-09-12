@@ -87,6 +87,18 @@ const today = new Date().toISOString().slice(0, 10);
 // ---- rule 4: exactly one h1 ----
 const H1 = /<h1\b[^>]*>/gi;
 
+// ---- rule 5: a hub meant to share a photograph, sharing the brand card ----
+// On 2026-09-12 the six tool hubs were wired to real photos, the dev server
+// showed all six, every unit test passed — and the deploy shipped six brand
+// cards. The helper read the markdown through import.meta.url, and that path
+// only resolves when the module runs from source; bundled, it returned
+// undefined, and a missing photo falls back to the default BY DESIGN. So it
+// failed silently everywhere except in the built HTML. Nothing but this file
+// could have caught it, which is the same lesson as the other four rules.
+const OG_MUST_BE_REAL =
+  /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|esim|widget)|itinerary)\/index\.html$/;
+const OG_TAG = /<meta\b(?:[^>"']|"[^"]*"|'[^']*')*property="og:image"(?:[^>"']|"[^"]*"|'[^']*')*>/i;
+
 // Pages that are fragments by design, not documents.
 const SKIP_DIRS = new Set(['embed', 'wall', '_astro', 'og', 'api']);
 
@@ -119,6 +131,12 @@ function check(page, html) {
 
   const h1s = (html.match(H1) ?? []).length;
   if (h1s !== 1) record('H1-COUNT', page, `h1 ${h1s}개`);
+
+  if (OG_MUST_BE_REAL.test(page)) {
+    const tag = html.match(OG_TAG)?.[0] ?? '';
+    const url = attr(tag, 'content') ?? '';
+    if (!url || /og-default/.test(url)) record('OG-DEFAULT', page, url || '(og:image 없음)');
+  }
 }
 
 (function walk(dir) {
@@ -139,6 +157,7 @@ const LABEL = {
   'IMG-NO-ALT': 'alt 가 없는 img 태그',
   'STALE-DATE': '제휴 링크의 날짜 파라미터가 과거다',
   'H1-COUNT': 'h1 이 정확히 하나가 아니다',
+  'OG-DEFAULT': '사진을 공유하기로 한 허브가 브랜드 기본 카드를 공유하고 있다',
 };
 
 let total = 0;
