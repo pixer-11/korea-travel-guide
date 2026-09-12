@@ -1,38 +1,38 @@
 ---
 lang: es
 slug: singapore-3-days
-sourceHash: ff4f53045ba4230ee07805c4caef28d1ee0a2579
-title: 'Itinerario de 3 días en Singapur: jardines, selva tropical y la costa de Katong'
-description: Un itinerario de 3 días en Singapur que va desde los jardines de Marina Bay y las calles con encanto de Kampong Glam hasta los senderos selváticos de Bukit Timah y los rincones costeros y llenos de mercados de Katong.
-quickAnswer: 'Este es un itinerario de 3 días en Singapur: el primer día recorre los jardines de Marina Bay y las calles históricas de Kampong Glam, el segundo día se adentra en la selva tropical de Bukit Timah antes de terminar con calma en los Botanic Gardens, y el tercer día avanza por la costa este hacia Geylang Serai y Katong Park.'
+sourceHash: 21927d065f7534233e48ba253c0d40ec1cea9acd
+title: 'Itinerario de 3 días por Singapur: Marina Bay, los jardines de Jurong y la costa este'
+description: Un itinerario de 3 días por Singapur que va desde los jardines de Marina Bay y las calles con historia hasta los lagos y jardines de Jurong, para terminar en las playas y mercados de la costa este.
+quickAnswer: 'Este es un itinerario de 3 días por Singapur: el primer día recorre los jardines de Marina Bay, una parada para comer en Marina Bay Sands y la calle Bussorah Street en Kampong Glam; el segundo día se dedica por completo a los jardines y lagos de Jurong; el tercer día avanza por la costa este, desde un parque frente a la playa hasta un mercado húmedo y un parque de barrio en Katong.'
 faq:
-  - q: ¿Cómo debería moverme en este itinerario de 3 días por Singapur?
-    a: La mayoría de las paradas dentro de un mismo día están lo bastante cerca como para ir caminando, pero algunos trayectos —como desde Supertree Grove en adelante, o desde Bukit Timah Nature Reserve hasta los Botanic Gardens— quedan fuera de distancia a pie y conviene cubrirlos en transporte público.
-  - q: ¿Cuánto tiempo debería reservar cada día?
-    a: 'Cada día se organiza alrededor de un puñado de paradas con tiempos de estancia que van desde visitas breves a parques hasta exploraciones de varias horas, así que el ritmo es flexible: conviene tratar las paradas más largas, como Gardens by the Bay o el Bukit Timah Nature Reserve Visitor Centre, como los pilares de su respectivo día.'
-  - q: ¿Cuál es el mejor momento del día para visitar los jardines y las reservas de este recorrido?
-    a: 'Se señalan franjas más tranquilas para varias paradas: por ejemplo, las mañanas de días laborables van bien para el Bukit Timah Nature Reserve Visitor Centre, mientras que las tardes de días laborables funcionan bien para el propio Bukit Timah Nature Reserve, así que ajustar la visita a estos horarios ayuda a evitar aglomeraciones.'
-  - q: ¿Este itinerario es adecuado para días de lluvia?
-    a: Los días 2 y 3 cuentan con una alternativa indicada para días de lluvia; el otro día no la tiene, así que los planes de esa jornada se mantendrían según lo previsto.
-  - q: ¿Necesito reserva para alguna de estas paradas?
-    a: Le Noir es lo bastante popular como para que valga la pena reservar con antelación, pero las demás paradas de este itinerario no requieren reserva.
+  - q: ¿Cómo moverme durante este itinerario de 3 días por Singapur?
+    a: Algunas paradas están lo bastante cerca como para ir caminando, como el tramo entre Jurong Lake Gardens y el Japanese Garden, mientras que otras, como el traslado de East Coast Park a Pasar Geylang Serai, quedan fuera del alcance a pie y requieren transporte público.
+  - q: ¿Este itinerario implica caminar mucho?
+    a: Hay bastante caminata dentro de las paradas de cada día, sobre todo por los jardines de los días uno y dos, así que conviene llevar calzado cómodo.
+  - q: ¿Cuál es la mejor manera de organizar el ritmo de cada día?
+    a: Cada día se estructura en torno a una parada de mañana, tarde y noche (el primer día suma también una parada para almorzar), así que conviene tomarlo como una jornada completa pero manejable, sin apurarse entre una parada y otra.
+  - q: ¿Qué pasa con el plan si llueve?
+    a: Los días 1 y 2 tienen una alternativa indicada para días de lluvia; el otro día no la tiene, así que los planes de esa jornada se mantendrían tal como están programados.
+  - q: ¿Conviene reservar algo con anticipación para el primer día?
+    a: La parada en Le Noir es conocida y muy popular, así que vale la pena reservar con antelación si se quiere conseguir mesa.
 days:
-  - label: Del verdor de Marina Bay a las calles de Kampong Glam
-    intro: El primer día comienza entre los árboles imponentes y los invernaderos climatizados de Gardens by the Bay, con una pausa para cócteles y platos pequeños cerca, en Marina Bay Sands. De ahí se vuelve a Supertree Grove, dentro de los Jardines, para su espectáculo de luces nocturno, antes de cruzar hacia la calle peatonal e histórica de Bussorah St, en Kampong Glam, para una comida sencilla y relajada.
-  - label: Senderos de selva tropical hacia la calma de los Botanic Gardens
-    intro: El segundo día se centra en Bukit Timah, comenzando por el centro de visitantes de la reserva natural antes de adentrarse en los senderos hacia la cumbre y la cantera de la propia reserva. Termina con un traslado hasta el límite de Tanglin, donde el Singapore Botanic Gardens ofrece un cierre más tranquilo y verde.
-  - label: De las arenas de la costa este al tranquilo parque de Katong
-    intro: El tercer día empieza junto a los senderos frente al mar de East Coast Park, y luego se adentra tierra adentro para recorrer los puestos del mercado húmedo y el hawker centre de Pasar Geylang Serai. La jornada se cierra en el pequeño y frondoso Katong Park, en Fort Road, un tramo tranquilo para terminar.
+  - label: Jardines, cielo y calles con historia
+    intro: El primer día comienza en los jardines frente al agua de Marina Bay, sigue con un bocado en Le Noir dentro de Marina Bay Sands, luego vuelve al Supertree Grove para su espectáculo nocturno de luces, y cierra con una cena relajada en Bussorah Street, en Kampong Glam.
+  - label: Los lagos y jardines de Jurong
+    intro: El segundo día se dirige a Jurong, comenzando con las exhibiciones interactivas del Singapore Discovery Centre, para luego relajarse recorriendo la amplia extensión verde de Jurong Lake Gardens, y terminar con un tranquilo paseo nocturno por el Japanese Garden.
+  - label: De la costa este a Katong
+    intro: El tercer día comienza en la arena y los senderos para bicicletas de East Coast Park, se adentra tierra adentro para recorrer los puestos de Pasar Geylang Serai, y concluye con una visita nocturna tranquila a Katong Park, en Fort Road.
 whys:
-  marina-bay-gardens-by-the-bay: Este parque frente al mar, con su Supertree Grove y sus invernaderos climatizados, es un punto de partida natural y con contenido para medio día, ideal para explorar lo mejor de Marina Bay tanto al aire libre como bajo techo.
-  marina-bay-le-noir: Un bar-restaurante de ambiente sofisticado y lleno de arte, ubicado justo en The Shoppes at Marina Bay Sands, perfecto para una pausa relajada de almuerzo entre visitas a los jardines.
-  bugis-supertree-grove: Volver a Supertree Grove por la noche permite coincidir con el espectáculo gratuito de luces y sonido Garden Rhapsody, el motivo principal para visitarlo después del anochecer.
-  kampong-glam-kampong-glam-cafe: Una comida rápida y económica en la peatonal Bussorah Street cierra el día con un rato agradable para observar a la gente cerca de la Mezquita Sultán.
-  bukit-timah-bukit-timah-nature-reserve-visitor-centre: La puerta de entrada al mayor tramo de selva tropical primaria de Singapur, ideal para arrancar el día con calma antes de afrontar los senderos.
-  bukit-timah-bukit-timah-nature-reserve: La colina más alta de Singapur y sus senderos de selva tropical primaria son el siguiente paso natural tras el centro de visitantes, con rutas para un circuito más corto o una subida más larga hasta la cumbre.
-  jurong-jurong-lake-gardens: Una atracción calificada con 4,6 por los visitantes, incluida como parada en este recorrido.
-  katong-east-coast-park: Un largo tramo de playa abierta que se disfruta mejor en bicicleta o a pie, lo que lo convierte en un comienzo de día agradable y sin complicaciones.
-  dempsey-hill-pasar-geylang-serai: Un mercado húmedo y hawker centre donde la oferta está más fresca temprano en el día, lo que ofrece un cambio de ritmo respecto a la costa.
-  katong-katong-park: Un pequeño parque frondoso construido alrededor del último vestigio del antiguo Fort Tomahawk, una parada breve y tranquila para cerrar el día.
+  marina-bay-gardens-by-the-bay: Este parque frente al agua marca el inicio de la mañana con su Supertree Grove, sus invernaderos y sus amplias zonas ajardinadas, y tiene entidad suficiente como para ocupar buena parte del día.
+  marina-bay-le-noir: Un lugar de ambiente sofisticado y decoración artística dentro de Marina Bay Sands es ideal para una pausa de mediodía sencilla con platos para compartir, a pocos pasos de los jardines.
+  bugis-supertree-grove: Volver aquí por la tarde permite quedarse cerca para disfrutar del espectáculo gratuito de luces y sonido por la noche sin tener que hacer un largo trayecto de regreso más tarde.
+  kampong-glam-kampong-glam-cafe: Una cena rápida e informal en la peatonal Bussorah Street cierra el día con un buen ambiente para observar a la gente en una de las calles con más historia de Singapur.
+  jurong-singapore-discovery-centre: Las exhibiciones interactivas sobre el pasado y el futuro de Singapur son un comienzo entretenido para el día en Jurong.
+  jurong-jurong-lake-gardens: Al ser el parque más grande de Singapur fuera del centro, su pasarela sobre humedales y sus senderos junto al lago merecen una visita larga y sin prisas.
+  jurong-japanese-garden: Este jardín tranquilo y de diseño tradicional aún es poco conocido, lo que lo convierte en una manera apacible de cerrar el día.
+  katong-east-coast-park: Un largo tramo frente a la playa es ideal para una mañana relajada en bicicleta, sobre patines o disfrutando de una comida de mariscos.
+  dempsey-hill-pasar-geylang-serai: Este mercado húmedo y centro de puestos de comida ofrece un cambio de ritmo, y es mejor recorrerlo mientras los puestos y el centro de comida siguen en funcionamiento.
+  katong-katong-park: Un pequeño parque frondoso construido en torno a los restos de un antiguo fuerte histórico es una manera apacible y sin apuros de terminar el día entre las casas tienda de Katong y la costa.
 rainWhys: {}
 ---

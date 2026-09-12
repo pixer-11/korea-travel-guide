@@ -18725,11 +18725,11 @@
   "at": "2026-08-15T04:03:31.377Z"
  },
  "zh/marseille-museum-of-european-and-mediterranean-civilisations": {
-  "hash": "88c77b59858b",
+  "hash": "14876816ec59",
   "score": 1,
   "registerBreak": false,
-  "worst": "这是马赛的港口以博物馆的姿态宣告自己的存在,单凭这座建筑本身,就已经值得专程前来,还没买票就已不虚此行。",
-  "at": "2026-08-15T04:03:36.744Z"
+  "worst": "仿佛一只被浸染过的集装箱，整座建筑漂浮在J4广场的边缘，三面临海",
+  "at": "2026-09-12T07:58:02.655Z"
  },
  "zh/marseille-palais-longchamp": {
   "hash": "5ba81f59bb95",
@@ -28558,5 +28558,82 @@
   "registerBreak": false,
   "worst": "这座宫殿建于20世纪初，是为穆罕默德·拉希姆汗二世（Muhammad Rahim Khan II）之子阿斯凡迪亚尔汗（Asfandiyar Khan）所建。",
   "at": "2026-09-11T13:38:04.195Z"
+ },
+ "zh/miami-joe-s-stone-crab": {
+  "hash": "88f9e05ebd7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "从装饰艺术风格聚集的Ocean Drive一带走过来也不远，沿着Collins大道或华盛顿大道往南走15到20分钟就到了。",
+  "at": "2026-09-12T07:58:04.212Z"
+ },
+ "es/avignon-musee-calvet": {
+  "hash": "cfb2d16fb8d0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Dos siglos y medio después, se ha convertido en uno de los museos provinciales más sólidos de Francia",
+  "at": "2026-09-12T07:58:05.869Z"
+ },
+ "es/boston-public-garden": {
+  "hash": "bba92df28bec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es, de forma extraoficial, la foto de \"portada\" que se llevan a casa la mayoría de los visitantes.",
+  "at": "2026-09-12T07:58:15.596Z"
+ },
+ "es/boston-the-paul-revere-house": {
+  "hash": "366a018efa27",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La casa se inclina ligeramente sobre North Square, y su fachada de tablillas oscuras...",
+  "at": "2026-09-12T07:58:17.172Z"
+ },
+ "ja/avignon-musee-calvet": {
+  "hash": "017abf630c22",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "カルヴェ美術館は月曜休館なので、アヴィニョンの他の多くの美術館も同じ曜日に休むことが多く、月曜の予定にこの美術館を組み込むのは避け",
+  "at": "2026-09-12T07:58:24.050Z"
+ },
+ "ja/boston-public-garden": {
+  "hash": "5e282dc3409f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "手間もかからず、無料で、義務感で立ち寄るような場所ではなく、素直に心を動かされる場所だからです。",
+  "at": "2026-09-12T07:58:33.591Z"
+ },
+ "ja/boston-the-paul-revere-house": {
+  "hash": "52e2b5c19393",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "11時を過ぎると午後の半ばにかけて閉館時間が近づくまで、絶えず人が訪れる状態が続きます。",
+  "at": "2026-09-12T07:58:35.621Z"
+ },
+ "ko/avignon-musee-calvet": {
+  "hash": "80f61fd77e31",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 외 요일에는 오전 10시부터 오후 5시 30분까지, 즉 7시간 동안 운영합니다.",
+  "at": "2026-09-12T07:58:43.762Z"
+ },
+ "ko/boston-public-garden": {
+  "hash": "4d3821190784",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "1877년부터 이어져 온 이 보트는 보스턴 야구 기록보다도 오래된, 보스턴의 전통이라 할 수 있습니다.",
+  "at": "2026-09-12T07:58:48.540Z"
+ },
+ "ko/boston-the-paul-revere-house": {
+  "hash": "8afd72c0fe3f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시내에서 가장 많은 사람이 찾는 역사 유적지 중 하나이다 보니, 주말에는 작은 방들이 금세 붐빕니다.",
+  "at": "2026-09-12T07:58:50.564Z"
+ },
+ "zh/avignon-musee-calvet": {
+  "hash": "c094317f701c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果想让某个展厅打开窗板、为画作争取更好的采光，也可以告知工作人员",
+  "at": "2026-09-12T07:58:52.082Z"
  }
 }
