@@ -19,6 +19,14 @@ import { probeWidth } from './lib/image-width.mjs';
 import { requireExamined } from './lib/examined.mjs';
 
 const DIST = 'dist';
+
+// Without this the walk throws ENOENT and prints a stack trace, which reads as
+// a broken script rather than "you have not built yet". Same one-line refusal
+// check-heading-skips has carried since 2026-09-07.
+if (!existsSync(DIST)) {
+  console.log('OG-WIDTH-UNCHECKED: dist/ 없음 — 아무것도 검사하지 못했다. 빌드 먼저.');
+  process.exit(1);
+}
 const MIN_WIDTH = 1200;
 const ALL = process.argv.includes('--all');
 

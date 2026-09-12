@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { siteHref } from '../../lib/urls.mjs';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { toolOgPhoto, TOOL_OG } from '../../lib/toolOgPhoto.mjs';
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 import { thumbOr } from '../../lib/wall';
 import { localizePlace } from '../../i18n/places';
@@ -66,7 +67,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={toolOgPhoto(TOOL_OG.itinerary)} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{t('itin.indexEyebrow')}</p>

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { toolOgPhoto, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
@@ -37,7 +38,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={t('esim.indexMetaTitle')} description={t('esim.indexMetaDesc')} lang={lang} localized={true}>
+<BaseLayout image={toolOgPhoto(TOOL_OG.esim)} title={t('esim.indexMetaTitle')} description={t('esim.indexMetaDesc')} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="esimi">

@@ -5,6 +5,7 @@ import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { MONTHS, monthSlug, monthComfort, bestMonth } from '../lib/when-to-go.mjs';
+import { toolOgPhoto, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 
 // The grid every country-month page links back to. Its job is to be the one page
 // a crawler can reach every one of the 204 from, and to let a reader who knows
@@ -90,7 +91,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={title} description={dek} lang={lang} localized={true}>
+<BaseLayout image={toolOgPhoto(TOOL_OG.whenToGo)} title={title} description={dek} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtgi">

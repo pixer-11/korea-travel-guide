@@ -10,6 +10,7 @@
 // cards at build time. The pickers then filter a build-time island.
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { toolOgPhoto, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { holidayLabel } from '../i18n/holidays';
 import { localizePlace, localizeVenue } from '../i18n/places';
@@ -95,7 +96,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 {/* The page exists at every locale, so the switcher must keep the path and the
     head must carry hreflang alternates. Without this the live Korean button on
     /tools/whats-closed/ sent readers to the homepage (caught 2026-09-06). */}
-<BaseLayout title={t('wc.title')} description={t('wc.dek')} lang={lang} localized={true}>
+<BaseLayout image={toolOgPhoto(TOOL_OG.whatsClosed)} title={t('wc.title')} description={t('wc.dek')} lang={lang} localized={true}>
   <main class="wc">
     <h1>{t('wc.title')}</h1>
     <p class="wc-dek">{t('wc.dek')}</p>
