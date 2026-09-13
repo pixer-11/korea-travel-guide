@@ -62,7 +62,10 @@ function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP }) {
 const stillHeld = (r, reason) => {
   assert.match(r.file, /^draft: true$/m, `해제됨:\n${r.out}`);
   assert.match(r.file, new RegExp(`^heldReason: ${reason.replace(/\+/g, '\\+')}$`, 'm'));
-  assert.match(r.out, /REPAIRED 0 of 1/);
+  // 총계의 분모는 "이 순찰이 손댈 수 있었던 편수" 다. 다른 순찰이 맡은 사유는
+  // 그 분모에서 빠지므로(2026-09-13) 0 만 고정하고 분모는 보지 않는다 —
+  // 이 함수가 지키는 것은 "해제되지 않았다" 이지 보고 문구가 아니다.
+  assert.match(r.out, /REPAIRED 0 of \d+/);
 };
 
 test('영업시간은 풀렸어도 구역이 아직 어긋나면 해제하지 않는다', () => {
@@ -74,7 +77,9 @@ test('영업시간은 풀렸어도 구역이 아직 어긋나면 해제하지 �
 test('hours+content: 영업시간이 고쳐져도 content 는 재검사 도구가 없으니 보류', () => {
   const r = runWith({ heldReason: 'hours+content' });
   stillHeld(r, 'hours+content');
-  assert.match(r.out, /content 사유는 초안을 재검사할 도구가 없음/);
+  // 2026-09-13: 이 사유는 다른 순찰 담당으로 분리 보고된다 — ✗ 가 아니다.
+  assert.match(r.out, /다른 순찰이 맡은/);
+  assert.match(r.out, /validate-content 는 초안을 보지 않는다/);
 });
 
 test('hours+wrong-venue-photo 도 마찬가지로 보류', () => {
@@ -117,7 +122,8 @@ test('사유가 wrong-region 하나뿐이고 아직 어긋나면 그대로 격�
 test('검사기 없는 사유 하나뿐이면 루프에는 들어오되 해제되지 않는다', () => {
   const r = runWith({ heldReason: 'wrong-venue-photo' });
   stillHeld(r, 'wrong-venue-photo');
-  assert.match(r.out, /wrong-venue-photo 사유는 초안을 재검사할 도구가 없음/);
+  assert.match(r.out, /다른 순찰이 맡은/);
+  assert.match(r.out, /사진 순찰이 새 히어로를 찾으면 푼다/);
 });
 
 test('검사기가 뭔가 찍고 죽어도 통과가 아니다 (fail closed)', () => {

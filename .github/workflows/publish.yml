@@ -613,6 +613,25 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
+          # The regex fixer only knows the sentences its own patterns know. An
+          # ended guide still telling a reader to "check the official site
+          # before booking" is a wider class, and repair-ended-event-editorial
+          # is the tool for it — but it lived only in the morning patrol.
+          #
+          # That patrol's cron is 19:35 UTC, which is still YESTERDAY in UTC, so
+          # an event ending TODAY is not over yet when it looks. This run is at
+          # 07:19 UTC and does see it. A one-day window opened every time
+          # something ended, and on 2026-09-13 it put three guides through the
+          # gate still giving advice to a reader who had not gone (Aaron Kwok,
+          # Venice, Verona).
+          #
+          # Same scoping as the patrol — the validator's own list and nothing
+          # else — so a day when nothing ended costs zero Opus calls.
+          STALE=$(node scripts/validate-content.mjs 2>/dev/null | grep -oE 'ENDED-EVENT-[A-Z-]+: [a-z0-9-]+[.]md' | sed -E 's/.*: ([a-z0-9-]+)[.]md/\1/' | sort -u | paste -sd, - || true)
+          if [ -n "$STALE" ]; then
+            echo "ended-event editorial: $(echo "$STALE" | tr ',' ' ' | wc -w) post(s) the validator still flags"
+            SLUGS="$STALE" node scripts/repair-ended-event-editorial.mjs 2>&1 | tail -6 || true
+          fi
           # The English is repaired above; the translations of a finished event
           # can still say "will take place" in Korean, Japanese, Spanish or Chinese,
           # because the English validator cannot see tense and srcHash only re-queues

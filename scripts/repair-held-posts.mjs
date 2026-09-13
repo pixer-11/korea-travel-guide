@@ -48,6 +48,16 @@ const runChecked = (cmd) => {
 // `content` (validate-content) and the photo reasons deliberately have none:
 // validate-content skips drafts and the photo patrol holds the API keys, so a
 // post carrying them stays held until that tool releases it.
+// 이 사유들은 **다른 순찰이 맡는다.** 여기서 "재검사할 도구가 없음" 으로 ✗ 를
+// 찍으면 매일 밤 실패가 다섯 줄씩 쌓이고, 진짜로 손볼 것 하나가 그 사이에
+// 묻힌다 — 경고에는 기계가 못 고친 것만 남아야 한다(2026-09-13).
+// 격리는 그대로 유지된다. 달라지는 것은 보고 줄뿐이다.
+const OWNED_ELSEWHERE = new Map([
+  ['content', 'validate-content 는 초안을 보지 않는다 — 사람이 볼 자리'],
+  ['wrong-venue-photo', '사진 순찰이 새 히어로를 찾으면 푼다'],
+  ['no-photo', '사진 순찰 담당'],
+]);
+
 const CHECKERS = {
   hours: { cmd: 'node scripts/audit-hours-claims.mjs --drafts', pick: /^HOURS-CONTRADICTION:\s*(\S+)\.md/ },
   'wrong-region': { cmd: 'node scripts/audit-region-outliers.mjs --drafts', pick: /^REGION-OUTLIER:\s*(\S+)\.md/ },
@@ -147,6 +157,7 @@ const recheck = (reason) => {
 };
 
 const repaired = [];
+const elsewhere = [];
 for (const slug of before) {
   const p = join(DIR, `${slug}.md`);
   const raw = readFileSync(p, 'utf8');
@@ -154,6 +165,9 @@ for (const slug of before) {
   // is judged on hours alone, as before.
   const reasons = reasonsOf(raw);
   const toClear = reasons.length ? reasons : ['hours'];
+  // 다른 순찰 담당이면 여기서 손대지 않는다 — 실패가 아니다.
+  const ownedBy = toClear.map((r) => OWNED_ELSEWHERE.get(r)).find(Boolean);
+  if (ownedBy) { elsewhere.push(`${slug} — ${ownedBy}`); continue; }
   let blocked = null;
   for (const reason of toClear) {
     const v = recheck(reason);
@@ -184,4 +198,8 @@ if (repaired.length) {
   console.log(`번역 4개 언어 갱신: ${repaired.length}편`);
 }
 
-console.log(`\nREPAIRED ${repaired.length} of ${before.length} held post(s).`);
+if (elsewhere.length) {
+  console.log(`\n다른 순찰이 맡은 ${elsewhere.length}편 — 이 순찰이 할 일은 없다:`);
+  for (const e of elsewhere) console.log(`  · ${e}`);
+}
+console.log(`\nREPAIRED ${repaired.length} of ${before.length - elsewhere.length} held post(s) this patrol could act on.`);
