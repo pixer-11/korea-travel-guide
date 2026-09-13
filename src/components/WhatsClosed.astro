@@ -102,6 +102,15 @@ const island = Object.fromEntries(countries.map((c) => [c, {
     .filter((v) => v.closed.length > 0),
 }]));
 
+// One date formatter for this page. The closures list was fixed on 2026-09-10
+// and the holidays list right above it was left printing the raw ISO string —
+// so the same screen showed "2026-09-24" and "2026년 9월 13일" together. Both
+// lists and both renderers (server here, browser below) go through this.
+const fmtDay = (iso: string) =>
+  new Date(iso + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], {
+    year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC',
+  });
+
 const holidays = initial ? holidaysInRange(countryFacts, initial, today, in14) : [];
 const closures = initial ? closuresInRange(posts, { country: initial, fromISO: today, toISO: in14 }) : [];
 ---
@@ -129,7 +138,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       <h2>{t('wc.holidaysHeading')}</h2>
       <ul id="wc-holiday-list" class="wc-list">
         {holidays.map((h: any) => (
-          <li><time datetime={h.date}>{h.date}</time> — {holidayLabel(initial, h.localName, h.name, lang)}</li>
+          <li><time datetime={h.date}>{fmtDay(h.date)}</time> — {holidayLabel(initial, h.localName, h.name, lang)}</li>
         ))}
       </ul>
       <p id="wc-holiday-empty" hidden={holidays.length > 0}>{t('wc.noHolidays')}</p>
@@ -141,10 +150,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       <ul id="wc-closure-list" class="wc-list">
         {closures.map((d: any) => (
           <li>
-            {/* The header of this same page already renders 「2026年9月10日」;
-                this list printed the raw ISO string in all five languages
-                (2026-09-10). Same formatter the events hubs use. */}
-            <time datetime={d.date}>{new Date(d.date + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time>
+            <time datetime={d.date}>{fmtDay(d.date)}</time>
             <ul>
               {d.venues.map((v: any) => (
                 <li><a href={localizePath(`/posts/${v.slug}`, lang)}>{localizeVenue(v.name, lang)}</a>{v.city ? `, ${localizePlace(v.city, lang)}` : ''}</li>
@@ -159,8 +165,12 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
     </section>
   </main>
 
-  <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang) }}>
+  <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang), localeCode: localeCodes[lang] }}>
     // Client filter over the same island the server view was built from.
+    // Same shape as the server's fmtDay — the two renderers draw the same list.
+    const fmtDay = (iso) => new Date(iso + 'T00:00:00Z').toLocaleDateString(localeCode, {
+      year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC',
+    });
     const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
     // `v.closed` arrives as getUTCDay() numbers, worked out on the server by the
     // same helper the server view uses. Parsing seven opening-hours lines here
@@ -183,7 +193,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 
       const hs = data.holidays.filter((h) => span.includes(h.date));
       document.getElementById('wc-holiday-list').innerHTML =
-        hs.map((h) => '<li><time datetime="' + h.date + '">' + h.date + '</time> — ' + esc(h.label) + '</li>').join('');
+        hs.map((h) => '<li><time datetime="' + h.date + '">' + esc(fmtDay(h.date)) + '</time> — ' + esc(h.label) + '</li>').join('');
       document.getElementById('wc-holiday-empty').hidden = hs.length > 0;
 
       const byDay = {};
@@ -200,7 +210,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
         .filter((r) => r.venues.length);
 
       document.getElementById('wc-closure-list').innerHTML = rows.map((r) =>
-        '<li><time datetime="' + r.date + '">' + r.date + '</time><ul>' +
+        '<li><time datetime="' + r.date + '">' + esc(fmtDay(r.date)) + '</time><ul>' +
         r.venues.map((v) =>
           '<li><a href="' + postBase + '/' + esc(v.slug) + '">' + esc(v.name) + '</a>' +
           (v.city ? ', ' + esc(v.city) : '') + '</li>').join('') +
