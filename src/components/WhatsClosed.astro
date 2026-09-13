@@ -228,7 +228,20 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
   .wc-form select, .wc-form input { padding: 0.45rem 0.5rem; font: inherit; }
   .wc-form button { padding: 0.5rem 1rem; font: inherit; cursor: pointer; }
   .wc-section { margin-bottom: 2.5rem; }
-  .wc-list { line-height: 1.7; }
-  .wc-list ul { margin: 0.25rem 0 0.75rem 1rem; }
+  /* A date with the places under it was a bullet inside a bullet — two marker
+     columns and a reader counting indents to see which day they were on. The
+     date is now a heading-ish line and the places sit as plain rows beneath
+     it, which is the shape the list actually has (2026-09-13). */
+  .wc-list { line-height: 1.7; list-style: none; padding: 0; margin: 0; }
+  .wc-list > li { padding: 0.5rem 0; border-bottom: 1px solid var(--line-soft, #eee); }
+  .wc-list > li:last-child { border-bottom: 0; }
+  .wc-list > li > time { display: block; font-weight: 700; font-size: 0.92rem;
+    font-variant-numeric: tabular-nums; }
+  .wc-list ul { list-style: none; margin: 0.15rem 0 0; padding: 0;
+    display: flex; flex-wrap: wrap; gap: 0.15rem 0.9rem; }
+  .wc-list ul li { font-size: 0.94rem; color: var(--ink-soft, #333); }
+  /* The holidays list is a single line per row, so it keeps its marker. */
+  #wc-holiday-list > li { display: flex; gap: 0.5rem; align-items: baseline; }
+  #wc-holiday-list > li > time { flex: none; }
   .wc-caveat { font-size: 0.88rem; color: var(--muted, #555); margin-top: 0.75rem; }
 </style>
