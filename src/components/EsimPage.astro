@@ -9,6 +9,8 @@ import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEsim } from '../i18n/esim';
 import { esimCountries } from '../lib/esim-paths.mjs';
+import { getCollection } from 'astro:content';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 
 // One country's eSIM guide — the site's first high-intent money page type.
 // Same unattended-build contract as WhenToGoPage: every sentence of chrome is a
@@ -18,6 +20,13 @@ import { esimCountries } from '../lib/esim-paths.mjs';
 // letting numbers rot here.
 interface Props { country: { slug: string; name: string; iso2: string; facts: any }; lang: Lang }
 const { country, lang } = Astro.props;
+// Share image: a guide from the country this page is about, not the brand card
+// (2026-09-13 sweep). Rated first so the picture is one of its better-known places.
+const ogPhoto = pickOgPhoto(
+  (await getCollection('posts', ({ data }) => !data.draft && (data.country ?? 'South Korea') === country.name))
+    .sort((a, b) =>
+      ((b.data.place?.rating ?? 0) * Math.log10((b.data.place?.userRatingsTotal ?? 0) + 10)) -
+      ((a.data.place?.rating ?? 0) * Math.log10((a.data.place?.userRatingsTotal ?? 0) + 10))));
 const t = useTranslations(lang);
 const countryLabel = localizePlace(country.name, lang);
 const prose = localizeEsim(country.slug, country.facts, lang);
@@ -91,7 +100,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} lang={lang} localized={true}>
+<BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="esim">

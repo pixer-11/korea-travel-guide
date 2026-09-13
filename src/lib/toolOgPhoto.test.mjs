@@ -38,8 +38,9 @@ const postOf = (slug) => {
 };
 const ALL = Object.values(TOOL_OG).map(postOf).filter(Boolean);
 
-test('여섯 도구 허브가 전부 진짜 사진을 가리킨다', () => {
-  assert.equal(Object.keys(TOOL_OG).length, 6);
+test('손으로 고른 허브 사진이 전부 실재한다', () => {
+  // 개수를 박지 않는다 — 허브가 늘 때마다 테스트가 아니라 목록만 는다.
+  assert.ok(Object.keys(TOOL_OG).length >= 6, '목록이 비정상적으로 작다');
   for (const [tool, slug] of Object.entries(TOOL_OG)) {
     assert.ok(postOf(slug), `${tool}: ${slug}.md 가 없다 — 글이 사라졌거나 이름이 바뀌었다`);
     const url = heroOf(ALL, slug);
@@ -48,7 +49,7 @@ test('여섯 도구 허브가 전부 진짜 사진을 가리킨다', () => {
   }
 });
 
-test('여섯 장 모두 디스커버 큰 카드 기준(1200px)을 넘는다', () => {
+test('전부 디스커버 큰 카드 기준(1200px)을 넘는다', () => {
   for (const [tool, slug] of Object.entries(TOOL_OG)) {
     const w = widthOf(heroOf(ALL, slug));
     if (w === null) continue; // 못 잰 것은 판정이 아니다
@@ -56,7 +57,7 @@ test('여섯 장 모두 디스커버 큰 카드 기준(1200px)을 넘는다', ()
   }
 });
 
-test('여섯 도구가 서로 다른 사진을 쓴다', () => {
+test('두 허브가 같은 사진을 쓰지 않는다', () => {
   const urls = Object.values(TOOL_OG).map((s) => heroOf(ALL, s));
   assert.equal(new Set(urls).size, urls.length, '같은 사진을 두 곳이 쓰고 있다');
 });

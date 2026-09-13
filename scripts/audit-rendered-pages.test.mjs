@@ -205,3 +205,30 @@ test('규칙 대상이 아닌 페이지는 기본 카드를 써도 통과한다'
   rmSync(root, { recursive: true, force: true });
   assert.equal(r.code, 0, r.out);
 });
+
+test('사진을 쓰기로 한 목록 허브도 규칙에 든다 (2026-09-13 확장)', () => {
+  const root = dist({
+    'destinations/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ko/regions/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ja/events/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /3건/);
+});
+
+// 브랜드 카드가 맞는 자리 — 여기까지 잡으면 아무도 이 검사기를 안 켠다.
+test('소개·약관·API 같은 페이지는 기본 카드를 써도 통과한다', () => {
+  const root = dist({
+    'about/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ko/methodology/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'privacy/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'api/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ko/essentials/visa/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+    'ko/free/trip-checklist/index.html': ogPage('https://wanderatlasguides.com/og-default.jpg'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});

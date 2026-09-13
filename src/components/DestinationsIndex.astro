@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Flag from './Flag.astro';
@@ -46,9 +47,15 @@ const jsonLd = {
     ] },
   ],
 };
+
+// Share image: this hub unfurls as a photograph, not the brand card. Ranking
+// its own children by rating put the Colosseum here, on the sibling hub and on
+// the widget page all at once, so the picture is chosen by hand in
+// lib/toolOgPhoto.mjs alongside the other hubs (2026-09-13).
+const ogPhoto = heroOf(posts, TOOL_OG.destinations);
 ---
 
-<BaseLayout
+<BaseLayout image={ogPhoto}
   title={`${t('nav.destinations')} — ${t('dest.indexTitle')}`}
   description={`${SITE.name} · ${t('dest.indexDek')}`}
   jsonLd={jsonLd}

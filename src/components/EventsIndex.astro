@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
@@ -83,9 +84,17 @@ const jsonLd = {
     ...(upcoming.length ? [{ '@type': 'ItemList', itemListElement: upcoming.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: siteHref(card.href(p.id), Astro.site), name: card.title(p.id, p.data.title) })) }] : []),
   ],
 };
+
+// Share image: this hub has real guides under it, so it unfurls as one of
+// their photographs rather than the brand card. pickOgPhoto enforces the
+// 1200px Discover floor and falls back to the brand card when nothing
+// qualifies (policy in lib/toolOgPhoto.mjs, 2026-09-13 sweep).
+const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
+  ((b.data.place?.rating ?? 0) * Math.log10((b.data.place?.userRatingsTotal ?? 0) + 10)) -
+  ((a.data.place?.rating ?? 0) * Math.log10((a.data.place?.userRatingsTotal ?? 0) + 10))));
 ---
 
-<BaseLayout
+<BaseLayout image={ogPhoto}
   title={`${t('ev.upcoming')} — ${SITE.name}`}
   description={summary}
   jsonLd={jsonLd}

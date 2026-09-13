@@ -8,6 +8,7 @@ import { localizePlace } from '../../i18n/places';
 import { slugifyRegion } from '../../lib/slug';
 import { thumbOr } from '../../lib/wall';
 import { buildDayTrips } from '../../lib/dayTrips';
+import { pickOgPhoto } from '../../lib/ogPhoto.mjs';
 
 // Day-trip hub (growth research B3): existing guides recombined by distance.
 // See src/lib/dayTrips.ts for the quality gates that decide which hubs exist.
@@ -20,6 +21,9 @@ const { hub } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(hub.city, lang);
+// Share image: one of the neighbouring guides this hub is made of, rather than
+// the brand card (2026-09-13 sweep). pickOgPhoto keeps the 1200px floor.
+const ogPhoto = pickOgPhoto(hub.neighbors.flatMap((n) => n.posts));
 
 const metaTitle = t('detour.title').replace('{city}', cityLabel);
 const metaDesc = t('detour.dek').replace('{city}', cityLabel);
@@ -41,7 +45,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{t('detour.eyebrow')}</p>

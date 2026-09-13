@@ -95,8 +95,16 @@ const H1 = /<h1\b[^>]*>/gi;
 // undefined, and a missing photo falls back to the default BY DESIGN. So it
 // failed silently everywhere except in the built HTML. Nothing but this file
 // could have caught it, which is the same lesson as the other four rules.
+//
+// The list is the POLICY, so it is written out rather than inferred: a hub with
+// real guides under it unfurls as one of their photographs, and a page about
+// us or about the rules unfurls as the brand card. /about/, /methodology/,
+// /privacy/, /terms/, /newsletter/, /my-trip/, /free/trip-checklist/, /api/,
+// /flights/ and the abstract essentials topics are DELIBERATELY on the default
+// — a photograph of a temple over the privacy policy would be worse, not
+// better. If that ever changes, this regex is the one place to change it.
 const OG_MUST_BE_REAL =
-  /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|esim|widget)|itinerary)\/index\.html$/;
+  /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|esim|widget)|itinerary|destinations|regions|events)\/index\.html$/;
 const OG_TAG = /<meta\b(?:[^>"']|"[^"]*"|'[^']*')*property="og:image"(?:[^>"']|"[^"]*"|'[^']*')*>/i;
 
 // Pages that are fragments by design, not documents.

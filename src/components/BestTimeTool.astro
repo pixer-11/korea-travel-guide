@@ -271,8 +271,13 @@ const jsonLd = {
                 {d.quietLabel && d.busyLabel && <span aria-hidden="true"> · </span>}
                 {d.busyLabel && <span>{t('tool.busy')} {d.busyLabel}</span>}
               </p>
-              <div class="barwrap">
-                <div class="bar">{d.cells.map((cls, i) => <i class={cls} title={hr(HOURS[i])}></i>)}</div>
+              {/* aria-hidden and no per-cell title: the sentence above states
+                  the same hours, and the scale below labels the axis. The
+                  titles were 11,584 attributes on this page — 161 KB, 19% of
+                  the HTML — bought for a tooltip nobody hovers on a phone
+                  (measured 2026-09-13). */}
+              <div class="barwrap" aria-hidden="true">
+                <div class="bar">{d.cells.map((cls) => <i class={cls}></i>)}</div>
                 <div class="barlab"><span>{hr(7)}</span><span>{hr(14)}</span><span>{hr(22)}</span></div>
               </div>
             </div>

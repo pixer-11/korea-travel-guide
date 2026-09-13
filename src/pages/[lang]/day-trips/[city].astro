@@ -8,6 +8,7 @@ import { localizePlace } from '../../../i18n/places';
 import { slugifyRegion } from '../../../lib/slug';
 import { thumbOr } from '../../../lib/wall';
 import { buildDayTrips } from '../../../lib/dayTrips';
+import { pickOgPhoto } from '../../../lib/ogPhoto.mjs';
 
 // Localized twin of /day-trips/[city] — post titles/descriptions come from the
 // postI18n collection when the translation exists, English otherwise, and the
@@ -23,6 +24,8 @@ export async function getStaticPaths() {
 const { hub, lang } = Astro.props as { hub: any; lang: Lang };
 const t = useTranslations(lang);
 const cityLabel = localizePlace(hub.city, lang);
+// Share image: one of the neighbouring guides this hub is made of (2026-09-13).
+const ogPhoto = pickOgPhoto(hub.neighbors.flatMap((n: any) => n.posts));
 
 const translations = await getCollection('postI18n', ({ data }) => data.lang === lang);
 const trBySlug = new Map(translations.map((e) => [e.data.slug, e.data]));
@@ -50,7 +53,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+<BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{t('detour.eyebrow')}</p>

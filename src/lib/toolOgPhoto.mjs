@@ -56,4 +56,9 @@ export const TOOL_OG = {
   esim: 'new-york-times-square',
   widget: 'rome-colosseum',
   itinerary: 'busan-gamcheon-culture-village',
+  // The two list hubs. Ranking their own children by rating put the Colosseum
+  // on both of them AND on the widget page — three hubs, one photograph — so
+  // they are chosen here like the rest (2026-09-13).
+  destinations: 'florence-cathedral-of-santa-maria-del-fiore', // a country, seen whole
+  regions: 'venice-piazza-san-marco',                          // a city, seen whole
 };
