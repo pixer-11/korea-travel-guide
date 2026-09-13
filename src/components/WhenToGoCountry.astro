@@ -9,7 +9,7 @@ import { localizePlace } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import { monthSlug } from '../lib/when-to-go.mjs';
+import { MONTHS, monthSlug, monthComfort } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import WhenToGoEmailBox from './WhenToGoEmailBox.astro';
 
@@ -43,10 +43,33 @@ const toolPath = (m: number) => localizePath(`/tools/when-to-go/${countrySlug}/$
 
 // "Easiest months" is the question the tool is actually for, and it is answered
 // from the same climate normals the table shows — no new data, no invention.
-// Comfort = how far the month's high sits from a mild 24°C, plus its share of
-// the year's rain. Ranked, then cut at three so it stays a recommendation.
-const comfort = (c: any) => Math.abs(c.hi - 24) + (c.rain / Math.max(1, first.climate.reduce((s: number, x: any) => s + x.rain, 0))) * 100;
-const easiest = [...first.climate].sort((a, b) => comfort(a) - comfort(b)).slice(0, 3);
+//
+// It is answered by monthComfort(), the ONE ranking the index grid and the
+// twelve month pages already use. Until 2026-09-14 this page carried a second,
+// private formula (distance from 24°C plus rain share) while its own month
+// pages ranked against 22°C relative to the country's own year — so a month
+// could be listed here as one of the three easiest and open coloured "less
+// good". One definition, three pages.
+const comfort = first.climate ? monthComfort(first.climate) : null;
+const byMonth = new Map((comfort ?? []).map((x: any) => [x.m, x]));
+const ranked = [...(comfort ?? [])].sort((a: any, b: any) => a.score - b.score);
+const easiest = ranked.slice(0, 3);
+const best: any = ranked[0] ?? null;
+
+const BAND_KEY: Record<string, string> = {
+  good: 'wtg.idxGood', fine: 'wtg.idxFine', fair: 'wtg.idxFair', harsh: 'wtg.idxHarsh',
+};
+const LEGEND = ['good', 'fine', 'fair', 'harsh'].map((band) => ({ band, label: t(BAND_KEY[band] as any) }));
+
+// Year in three numbers for the hero: the coolest and warmest average highs it
+// swings between, and what the whole year's rain adds up to.
+const his = (first.climate ?? []).map((c: any) => c.hi);
+const yearHigh = his.length ? `${Math.min(...his)}–${Math.max(...his)}°C` : '';
+const yearRain = (first.climate ?? []).reduce((n: number, c: any) => n + c.rain, 0);
+
+// "When to Go" without the trailing promise, for the crumb — same helper the
+// month page uses.
+const indexShort = (t('wtg.indexTitle').split(/[:：]/)[0] || t('wtg.indexTitle')).trim();
 
 const quietFor = (p: any) => {
   const bz = p?.data?.place?.busyness;
@@ -107,29 +130,76 @@ const jsonLd = {
 ---
 
 <BaseLayout title={metaTitle} description={metaDesc} image={ogPhoto} jsonLd={jsonLd} localized={true} suppressPopup={true}>
-  <div class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow gold">{t('wtg.indexTitle')}</p>
-      <h1>{fill('wtg.countryTitle')}</h1>
-      <p>{fill('wtg.countryDek')}</p>
-    </div>
-  </div>
-
   <article class="wtg wrap">
-    <section class="wtg-best">
-      <h2>{t('wtg.bestMonths')}</h2>
-      <p class="section-dek">{t('wtg.bestMonthsDek')}</p>
-      <ul class="wtg-list">
-        {easiest.map((c: any) => (
-          <li>
-            <span class="wtg-date"><a href={toolPath(c.m)}>{monthName(c.m)}</a></span>
-            <span>{c.hi}° / {c.lo}° · {c.rain}mm</span>
-          </li>
-        ))}
-      </ul>
-    </section>
+    <nav class="wtg-crumb" aria-label={indexShort}>
+      <a href={localizePath('/tools/when-to-go', lang)}>{indexShort}</a>
+      <span aria-hidden="true">·</span>
+      <span class="crumb-here" aria-current="page">{countryLabel}</span>
+    </nav>
 
-    <section class="wtg-year">
+    {/* The country page opened with the same pale hero every hub uses and then
+        went straight into two flat tables. It is the middle step of the tool —
+        index, country, month — and it was the only one of the three not wearing
+        the tool's own colours (owner's note on the 2026-09-11 mock). */}
+    <header class="wtg-hero">
+      <div class="hero-say">
+        <p class="eyebrow">{indexShort}</p>
+        <h1>{fill('wtg.countryTitle')}</h1>
+        <p class="dek">{fill('wtg.countryDek')}</p>
+      </div>
+      <dl class="hero-stats">
+        {best && <div><dt>{t('wtg.idxBest')}</dt><dd>{monthShort(best.m)}</dd></div>}
+        <div><dt>{t('wtg.high')}</dt><dd>{yearHigh}</dd></div>
+        <div><dt>{t('wtg.rain')}</dt><dd>{yearRain}mm</dd></div>
+      </dl>
+    </header>
+
+    <div class="wtg-cols">
+      {/* The twelve months ranked inside this country's own year — the same row,
+          the same four colours and the same scale as the index grid and the
+          month pages, so a colour means one thing across the whole tool. It is
+          also the month navigation, which is why the bare list of twelve links
+          that used to sit at the foot of this page is gone. */}
+      <section class="card wtg-year">
+        <h2>{t('wtg.yearShape')}</h2>
+        <ul class="months" aria-label={t('wtg.pickMonth')}>
+          {MONTHS.map((m) => {
+            const x: any = byMonth.get(m);
+            return (
+              <li>
+                <a class={`chip b-${x?.band ?? 'none'}`} href={toolPath(m)}
+                  title={`${countryLabel} · ${monthName(m)}`}>
+                  <span class="mo">{monthShort(m)}</span>
+                  {x && <span class="hi">{x.hi}°</span>}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+        <ul class="legend">
+          {LEGEND.map((l) => (
+            <li><span class={`sw b-${l.band}`} aria-hidden="true"></span>{l.label}</li>
+          ))}
+        </ul>
+        <p class="wtg-read">{t('wtg.idxHow')}</p>
+      </section>
+
+      <section class="card wtg-best">
+        <h2>{t('wtg.bestMonths')}</h2>
+        <p class="section-dek">{t('wtg.bestMonthsDek')}</p>
+        <ul class="wtg-list">
+          {easiest.map((c: any) => (
+            <li>
+              <span class="wtg-date"><a href={toolPath(c.m)}>{monthName(c.m)}</a></span>
+              <span class={`pill b-${c.band}`}>{t(BAND_KEY[c.band] as any)}</span>
+              <span class="wtg-fig">{c.hi}° / {c.lo}° · {c.rain}mm</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </div>
+
+    <section class="card wtg-table">
       <h2>{t('wtg.yearTable')}</h2>
       <div class="wtg-table-wrap">
         <table>
@@ -139,7 +209,12 @@ const jsonLd = {
           <tbody>
             {first.climate.map((c: any) => (
               <tr>
-                <td><a href={toolPath(c.m)}>{monthShort(c.m)}</a></td>
+                {/* The same band dot the row of chips above uses, so the table
+                    is the same year read a second way rather than a new one. */}
+                <td class="mo-cell">
+                  <span class={`sw b-${byMonth.get(c.m)?.band ?? 'none'}`} aria-hidden="true"></span>
+                  <a href={toolPath(c.m)}>{monthShort(c.m)}</a>
+                </td>
                 <td>{c.hi}°</td><td>{c.lo}°</td><td>{c.rain}mm</td>
               </tr>
             ))}
@@ -150,7 +225,7 @@ const jsonLd = {
     </section>
 
     {quietVenues.length > 0 && (
-      <section class="wtg-quiet">
+      <section class="card wtg-quiet">
         <h2>{t('wtg.quiet')}</h2>
         <p class="section-dek">{t('wtg.quietDek')}</p>
         <ul class="wtg-quietlist">
@@ -187,13 +262,7 @@ const jsonLd = {
       </section>
     )}
 
-    <nav class="wtg-months" aria-label={t('wtg.pickMonth')}>
-      <h2>{t('wtg.pickMonth')}</h2>
-      <ul>
-        {months.map((m: any) => <li><a href={toolPath(m.data.month)}>{monthName(m.data.month)}</a></li>)}
-      </ul>
-      <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
-    </nav>
+    <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
 
     <PlanTrip city="" country={first.country} />
 
@@ -207,21 +276,117 @@ const jsonLd = {
 </BaseLayout>
 
 <style>
+  /* The middle page of the tool. Everything visual here — the olive hero, the
+     card, the pill chips and the four band colours — is the same as
+     WhenToGoIndex.astro and WhenToGoPage.astro on purpose: a reader walks
+     index → country → month in one sitting and the three must read as one
+     tool. Change a colour here and change it in both of those. */
   .wtg { padding-block: clamp(1.5rem, 4vh, 3rem); }
-  .wtg section { margin-bottom: clamp(2rem, 5vh, 3.5rem); }
-  .wtg h2 { font-size: clamp(1.2rem, 2.4vw, 1.5rem); margin: 0 0 0.4rem; }
-  .wtg .section-dek { color: var(--ink-soft); margin: 0 0 1rem; max-width: 62ch; }
+  .wtg h2 { font-size: 1.05rem; margin: 0 0 0.9rem; }
+  .wtg .section-dek { color: var(--muted); font-size: 0.88rem; margin: 0 0 0.7rem; max-width: 62ch; }
+
+  .wtg-crumb { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center;
+    margin: 0 0 0.9rem; font-size: 0.84rem; color: var(--muted); }
+  .wtg-crumb a { color: var(--muted); text-decoration: none; }
+  .wtg-crumb a:hover, .wtg-crumb a:focus-visible { color: var(--ink); text-decoration: underline; }
+  .crumb-here { color: var(--ink); font-weight: 700; }
+
+  .wtg-hero {
+    display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.6rem;
+    align-items: center; padding: 1.9rem 2rem;
+    background: #2b3a1e; color: #f4f0e5; border-radius: var(--r-lg);
+  }
+  .hero-say .eyebrow { margin: 0 0 0.5rem; color: #c3cdb0; font-size: 0.76rem;
+    text-transform: uppercase; letter-spacing: 0.08em; }
+  .hero-say h1 { margin: 0 0 0.55rem; line-height: 1.18; color: #fbf7ed; }
+  .hero-say .dek { margin: 0; color: #d9d3c2; max-width: 38rem; }
+  .hero-stats {
+    display: flex; gap: 1.9rem; margin: 0; padding: 1.05rem 1.5rem;
+    background: #3a4d28; border-radius: var(--r-md);
+  }
+  .hero-stats dt { color: #c3cdb0; font-size: 0.74rem; margin: 0 0 0.15rem; }
+  .hero-stats dd { margin: 0; font-size: 1.45rem; font-weight: 700; color: #fbf7ed;
+    font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+  .wtg-cols { display: grid; grid-template-columns: 1.15fr 1fr; gap: 1rem; margin-top: 1rem; }
+  .wtg section.card { margin-bottom: 1rem; }
+  .wtg-cols > .card { margin-bottom: 0; }
+  .card {
+    padding: 1.3rem 1.4rem; background: var(--surface);
+    border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  }
+
+  .months { list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0.34rem; }
+  .chip {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 0.02rem; padding: 0.4rem 0.1rem; min-height: 2.95rem;
+    border: 1px solid transparent; border-radius: 999px;
+    text-decoration: none; line-height: 1.15;
+  }
+  .chip .mo { font-size: 0.75rem; font-weight: 700; }
+  .chip .hi { font-size: 0.66rem; opacity: 0.8; font-variant-numeric: tabular-nums; }
+  .chip:hover, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  .legend { list-style: none; display: flex; flex-wrap: wrap; gap: 0.4rem 1rem;
+    margin: 1rem 0 0; padding: 0; font-size: 0.8rem; color: var(--ink-soft); }
+  .legend li { display: flex; align-items: center; gap: 0.4rem; }
+  .sw { width: 0.85rem; height: 0.85rem; border-radius: 999px; border: 1px solid var(--line-strong); }
+
+  /* Shared with WhenToGoIndex.astro and WhenToGoPage.astro — the grid there,
+     the row on the month page and this row are the same scale and must not
+     drift into three different greens. */
+  .b-good  { background: #8fa06a; color: #1d2812; border-color: #7c8d59; }
+  .b-fine  { background: #dfe8ce; color: #45573a; border-color: #c8d5b4; }
+  .b-fair  { background: #efab80; color: #63300f; border-color: #dd9366; }
+  .b-harsh { background: #7b451d; color: #f6e7d7; border-color: #663810; }
+  .b-none  { background: var(--surface-2); color: var(--ink); border-color: var(--line); }
+
+  .wtg-read { margin: 0.8rem 0 0; color: var(--ink-soft); font-size: 0.85rem; }
+
+  .wtg-list { list-style: none; padding: 0; margin: 0; }
+  .wtg-list li { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem;
+    padding: 0.55rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wtg-list li:last-child { border-bottom: 0; }
+  .wtg-date { min-width: 6rem; font-weight: 700; }
+  .wtg-fig { color: var(--ink-soft); font-size: 0.88rem; font-variant-numeric: tabular-nums; }
+  .pill { padding: 0.18rem 0.6rem; border-radius: 999px; border: 1px solid transparent;
+    font-size: 0.72rem; font-weight: 700; }
+
   .wtg-table-wrap { overflow-x: auto; }
+  .mo-cell { display: flex; align-items: center; gap: 0.45rem; }
   .wtg table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
   .wtg th, .wtg td { padding: 0.5rem 0.7rem; text-align: left; border-bottom: 1px solid var(--line-soft); }
   .wtg thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
-  .wtg-list { list-style: none; padding: 0; margin: 0; }
-  .wtg-list li { display: flex; gap: 0.75rem; padding: 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
-  .wtg-date { min-width: 8rem; font-weight: 600; }
+
   .wtg-quietlist { list-style: none; padding: 0; margin: 0; }
-  .wtg-quietlist li { display: flex; flex-wrap: wrap; gap: 0.5rem 0.9rem; padding: 0.5rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wtg-quietlist li { display: flex; flex-wrap: wrap; gap: 0.5rem 0.9rem; padding: 0.5rem 0;
+    border-bottom: 1px solid var(--line-soft); }
+  .wtg-quietlist li:last-child { border-bottom: 0; }
   .wtg-q-region, .wtg-q-hours { color: var(--muted); font-size: 0.88rem; }
-  .wtg-months ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
   .wtg-all { margin-top: 1rem; }
   .disclosure { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; line-height: 1.6; }
+
+  @media (max-width: 56rem) {
+    .wtg-hero { grid-template-columns: 1fr; padding: 1.4rem 1.3rem; }
+    .hero-stats { gap: 1.2rem; padding: 0.9rem 1.1rem; }
+    .wtg-cols { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 30rem) {
+    .months { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    /* Three columns rather than a wrapping row: "가장 좋은 달" is two words in
+       Korean and it dragged its own number onto a third line. */
+    .hero-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.7rem; }
+    .hero-stats dt { font-size: 0.68rem; }
+    .hero-stats dd { font-size: 1.05rem; white-space: normal; }
+  }
+
+  /* Must stay identical to WhenToGoIndex.astro's dark block — see the note
+     there for why the warm pair inverts in dark. */
+  @media (prefers-color-scheme: dark) {
+    .b-good  { background: #6e8247; color: #f0f6e2; border-color: #85995b; }
+    .b-fine  { background: #3f4a35; color: #d3e0c1; border-color: #526043; }
+    .b-fair  { background: #b4763f; color: #2a1608; border-color: #c78d56; }
+    .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }
+  }
 </style>
