@@ -77,6 +77,7 @@ const T = {
   // 코드를 겹쳐 쓰면 알림에서 둘을 구별할 수 없다(2026-09-10).
   'NON-OPERATIONAL-VENUE': () => '구글이 영업중이 아니라고 표시한 장소',
   'SLUG-REGION-MISMATCH': () => '주소(URL)가 글의 지역과 다른 도시를 가리킨다',
+  'WRITER-UNSAFE': () => '수리 도구가 다시 써내면 본문이 사라지는 모양의 글',
   'MISSING-POST': () => '일정이 가리키는 글이 없음',
   'MISSING-SLUG': () => '방문지 지정이 비어 있음',
   'MISSING-COORDS': () => '좌표가 없어 거리 계산 불가',

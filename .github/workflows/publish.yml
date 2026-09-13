@@ -776,6 +776,12 @@ jobs:
           # (2026-09-10 diagnosis). The 41 that already shipped are a baseline in
           # data/slug-region-legacy.json — their URLs are live and stay live.
           node scripts/audit-slug-region.mjs
+          # A body that opens with `---` is swallowed the moment any of our
+          # eleven rewrite tools touches it. tests.yml has caught this since
+          # 2026-09-07, but only AFTER the post was committed and pushed — on
+          # 2026-09-13 that meant a red Tests run for a post published hours
+          # earlier. generate.mjs strips the rule now; this is the net under it.
+          node scripts/check-writer-safety.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
@@ -796,7 +802,8 @@ jobs:
           TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | head -8 || true)
           CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | head -6 || true)
           SLUG=$(node scripts/ko-report.mjs scripts/audit-slug-region.mjs 2>&1 | head -6 || true)
-          for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG"; do
+          WRITER=$(node scripts/ko-report.mjs scripts/check-writer-safety.mjs 2>&1 | head -6 || true)
+          for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG" "$WRITER"; do
             case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
           done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")

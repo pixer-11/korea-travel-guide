@@ -32,6 +32,7 @@ import { heroUrlOf, isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
 import { exitIfSlotServed } from './lib/slot-served.mjs';
+import { stripLeadingRule } from './lib/body-normalize.mjs';
 
 // One batch per KST day is the throttle experiment's promise (5 posts/day
 // until the 09-10 verdict). On 2026-08-30 a midnight-confused publish-watchdog
@@ -1384,7 +1385,7 @@ function assemble(target, place, title, heroImage, gallery, content) {
   const escapeTildes = (s) => String(s).replace(/(^|[^\\])~/g, '$1\\~');
   // The disclosure now lives ONLY in PostArticle.astro's localized <details>.
   // Emitting it here too put it on the page twice (08-31 audit).
-  const markdown = `---\n${toYaml(fm)}---\n\n${escapeTildes(body)}\n`;
+  const markdown = `---\n${toYaml(fm)}---\n\n${escapeTildes(stripLeadingRule(body))}\n`;
   return { slug, markdown };
 }
 

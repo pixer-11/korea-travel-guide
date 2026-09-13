@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
----
 ## What you're actually walking into
 
 This is a monastery before it's a museum, and it shows. The Augustins order built the complex from the 14th century onward, and when the Revolution emptied it of monks, Toulouse turned the cloisters and refectory into a repository for art rescued from churches being torn down across the city.
