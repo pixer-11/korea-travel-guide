@@ -8627,5 +8627,32 @@
       "getting": "대부분의 여행자는 삼보앙가 국제공항(ZAM)을 통해 항공편으로 도착합니다. 이 공항은 국내선만 운항하며, 주로 마닐라(약 1시간 45분 소요)와 세부에서 세부퍼시픽(Cebu Pacific), 필리핀항공(Philippine Airlines) 등의 항공사가 취항하고 있습니다. 시내까지 연결되는 철도편은 없으며, 주변 섬과 지역으로의 이동은 대개 삼보앙가의 분주한 항구에서 출발하는 페리를 이용합니다.",
       "days": "2~3일 정도면 충분합니다. 시내의 필라르 요새(Fort Pilar)와 파세오 델 마르(Paseo del Mar)를 둘러보고, 분홍빛 모래사장으로 유명한 그레이트 산타크루즈 섬(Great Santa Cruz Island)으로 당일치기 여행을 다녀오기에 알맞은 일정입니다."
     }
+  },
+  "Urgench": {
+    "en": {
+      "blurb": "Urgench is the unglamorous but essential gateway to Khiva, a modern Soviet-built city in Uzbekistan's Khorezm oasis that most travellers pass through rather than linger in. Its low-rise streets and administrative feel are a deliberate contrast to the walled old town of Khiva just down the road, which most visitors treat as the real destination.",
+      "getting": "Most travellers arrive by air at Urgench International Airport (UGC), which has domestic connections to Tashkent and a growing number of regional and international routes, or overnight by train from Tashkent or Bukhara on Uzbekistan Railways services into Urgench station. From either the airport or the station, Khiva is a short onward taxi or transfer ride of roughly 30 minutes.",
+      "days": "Urgench itself rarely needs more than a few hours as a stopover or transit point, since visitors typically base themselves in nearby Khiva for 1 to 2 days to see its old town."
+    },
+    "ko": {
+      "blurb": "우르겐치는 화려함과는 거리가 멀지만, 히바로 가기 위해서는 반드시 거쳐야 하는 관문 도시다. 우즈베키스탄 호레즘 오아시스에 위치한 이 소련식 현대 도시는 대부분의 여행자들이 오래 머물기보다는 그냥 스쳐 지나가는 곳이다. 낮은 건물들이 늘어선 거리와 다소 딱딱한 행정도시 특유의 분위기는, 바로 근처에 자리한 히바 옛 성곽 도시와는 뚜렷한 대조를 이루는데, 사실 대부분의 방문객들에게는 이 히바야말로 진짜 목적지라 할 수 있다.",
+      "getting": "대부분의 여행자는 우르겐치 국제공항(UGC)을 통해 도착하는데, 이 공항은 타슈켄트와 연결되는 국내선은 물론 지역 및 국제 노선도 점차 늘어나고 있다. 또는 타슈켄트나 부하라에서 우즈베키스탄 철도의 야간열차를 타고 우르겐치역까지 이동하는 방법도 있다. 공항이나 기차역 어느 쪽에서 출발하든, 히바까지는 택시나 픽업 차량으로 약 30분 정도면 도착할 수 있다.",
+      "days": "우르겐치 자체는 몇 시간 정도의 경유지로 충분한 편인데, 대부분의 여행자들이 옛 성곽 도시를 둘러보기 위해 인근 히바에서 1~2일 정도 머무는 것을 기본 일정으로 삼기 때문이다."
+    },
+    "ja": {
+      "blurb": "ウルゲンチは、決して華やかな街ではないものの、ヒヴァへの玄関口として欠かせない存在だ。ウズベキスタンのホラズム・オアシスに位置するこのソビエト建設の近代都市は、多くの旅行者にとって長居する場所というより通過点に過ぎない。低層の建物が並ぶ行政都市らしい雰囲気は、目と鼻の先にある城壁都市ヒヴァの旧市街とはあえて対照的で、大半の旅行者はそのヒヴァこそを本当の目的地とみなしている。",
+      "getting": "多くの旅行者は空路でウルゲンチ国際空港(UGC)に到着する。同空港はタシケントとの国内線に加え、地域路線や国際便も徐々に充実しつつある。あるいは、タシケントやブハラからウズベキスタン鉄道の夜行列車でウルゲンチ駅まで移動する方法もある。空港からでも駅からでも、ヒヴァまではタクシーや送迎で30分ほどの道のりだ。",
+      "days": "ウルゲンチ自体は、乗り継ぎや一時滞在の場としてであれば数時間もあれば十分だ。旅行者は通常、旧市街を見るために近隣のヒヴァを拠点とし、そこで1〜2日を過ごすのが一般的である。"
+    },
+    "es": {
+      "blurb": "Urgench es la puerta de entrada, poco glamurosa pero esencial, hacia Khiva: una ciudad moderna de construcción soviética situada en el oasis de Corasmia (Khorezm), en Uzbekistán, por la que la mayoría de los viajeros simplemente pasa, sin detenerse demasiado. Sus calles de edificios bajos y su aire administrativo contrastan deliberadamente con la ciudad amurallada de Khiva, apenas un poco más adelante, que la mayoría de los visitantes considera el verdadero destino.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Urgench (UGC), que ofrece conexiones nacionales con Tashkent y un número cada vez mayor de rutas regionales e internacionales, o bien en tren nocturno desde Tashkent o Bujará, mediante los servicios de Ferrocarriles de Uzbekistán con destino a la estación de Urgench. Tanto desde el aeropuerto como desde la estación, Khiva se encuentra a poco más de 30 minutos en taxi o traslado.",
+      "days": "Urgench en sí rara vez requiere más de unas pocas horas, ya que suele funcionar como escala o punto de tránsito: los visitantes normalmente se alojan en la cercana Khiva durante 1 o 2 días para recorrer su casco antiguo."
+    },
+    "zh": {
+      "blurb": "乌尔根奇算不上光鲜亮丽,却是通往希瓦的必经门户。作为乌兹别克斯坦花剌子模绿洲上一座苏联时期建起的现代化城市,它多是游客的过路之地,少有人会特意停留。这里低矮的街道和浓厚的行政办公气息,与不远处希瓦那座古城墙环绕的老城形成鲜明对比——而后者才是大多数游客心目中真正的目的地。",
+      "getting": "大多数游客选择乘飞机抵达乌尔根奇国际机场(UGC),该机场有飞往塔什干的国内航班,以及数量不断增加的地区和国际航线;也有人选择从塔什干或布哈拉搭乘乌兹别克斯坦铁路的夜班火车,抵达乌尔根奇火车站。无论是从机场还是火车站出发,乘出租车或接驳车前往希瓦大约只需30分钟车程。",
+      "days": "乌尔根奇本身很少需要停留超过几个小时,通常只是中转或路过之地,因为游客大多会以附近的希瓦为落脚点,住上1到2天,专程游览那里的古城老城区。"
+    }
   }
 }

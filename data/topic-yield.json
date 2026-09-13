@@ -22,11 +22,11 @@
    "hits": 7
   },
   "night view": {
-   "attempts": 36,
-   "hits": 5
+   "attempts": 43,
+   "hits": 6
   },
   "waterfront": {
-   "attempts": 16,
+   "attempts": 22,
    "hits": 3
   },
   "museum": {
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 49,
+   "attempts": 57,
    "hits": 2
   },
   "hidden gem": {
@@ -74,7 +74,7 @@
    "hits": 1
   },
   "bar": {
-   "attempts": 27,
+   "attempts": 32,
    "hits": 0
   },
   "vegetarian": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-13T08:28:42.039Z"
+ "updated": "2026-09-13T14:53:37.359Z"
 }

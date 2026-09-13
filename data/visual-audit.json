@@ -18636,5 +18636,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Fountain with statue at Place Royale, Nantes",
     "at": "2026-09-13T08:28:42.029Z"
+  },
+  "urgench-ulli-hovli\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Ulli_hovli_majmuasi_21.jpg": {
+    "slug": "urgench-ulli-hovli",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows fortress-like mudbrick wall consistent with Ulli Hovli site",
+    "at": "2026-09-13T14:22:48.852Z"
   }
 }

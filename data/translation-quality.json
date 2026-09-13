@@ -966,11 +966,11 @@
   "at": "2026-08-31T15:21:32.660Z"
  },
  "ko/chicago-field-museum": {
-  "hash": "b19e00bd39db",
+  "hash": "86f913ec044e",
   "score": 1,
   "registerBreak": false,
-  "worst": "이것이 바로 필드 박물관의 큰 매력입니다 — 서서히 분위기를 조성하는 대신, 처음부터 관람객을 압도할 만한 공간으로 시작하는 것이죠.",
-  "at": "2026-08-15T02:15:48.748Z"
+  "worst": "처음부터 스스로가 얼마나 작은 존재인지 느끼게 만드는 공간으로 시작하는 것, 이것이 이 박물관의 큰 매력입니다.",
+  "at": "2026-09-13T14:55:58.328Z"
  },
  "ko/chicago-medinah-temple": {
   "hash": "a1dc05799e26",
@@ -5054,11 +5054,11 @@
   "at": "2026-08-15T06:24:26.740Z"
  },
  "ja/chicago-field-museum": {
-  "hash": "ce262d463063",
+  "hash": "151249559f68",
   "score": 1,
   "registerBreak": false,
-  "worst": "少し離れた場所、今では専用ギャラリーを持つのが、スー(Sue)——これまでに発見された中で最大かつ最も完全な...",
-  "at": "2026-08-15T02:49:22.959Z"
+  "worst": "じっくり慣らしてから見せるのではなく、いきなり自分がちっぽけに感じられる部屋から始める――これがフィールド博物館ならで",
+  "at": "2026-09-13T14:55:46.294Z"
  },
  "ja/chicago-illinois-lollapalooza-2026": {
   "hash": "12f5264336b3",
@@ -5397,11 +5397,11 @@
   "at": "2026-08-15T02:50:43.610Z"
  },
  "ja/florence-galleria-dell-accademia-di-firenze": {
-  "hash": "963b48d589ac",
+  "hash": "5c242082ec20",
   "score": 1,
   "registerBreak": false,
-  "worst": "生の大理石の塊から身をよじって現れようとする肉体、まだ残るノミの跡、石に囚われた四肢からねじれるようにして解き放たれようとする胴体。",
-  "at": "2026-08-15T02:50:43.756Z"
+  "worst": "頭上から差し込む光は、彼をトーチの光ではなくトスカーナの斜めの自然光の中で見せるという、ミケランジェロの意図に沿って特別に設けられた天窓によるものです。",
+  "at": "2026-09-13T14:57:23.827Z"
  },
  "ja/florence-uffizi-galleries": {
   "hash": "3f67c6cc7187",
@@ -11354,11 +11354,11 @@
   "at": "2026-08-15T03:19:30.227Z"
  },
  "es/florence-galleria-dell-accademia-di-firenze": {
-  "hash": "50c5c3a00d4d",
+  "hash": "95d1b02d5cdf",
   "score": 1,
   "registerBreak": false,
-  "worst": "así que la franja tranquila es temprano, entre las 8am y las 9am a la apertura.",
-  "at": "2026-08-15T03:19:35.034Z"
+  "worst": "Pero el verdadero acierto del museo está en cómo le hace esperar por él.",
+  "at": "2026-09-13T14:55:40.221Z"
  },
  "es/foxborough-bts-world-tour": {
   "hash": "780c30a6e30f",
@@ -16877,11 +16877,11 @@
   "at": "2026-08-15T03:47:40.592Z"
  },
  "zh/chicago-field-museum": {
-  "hash": "a0e417f309a2",
+  "hash": "ed13a4c6970f",
   "score": 1,
   "registerBreak": false,
-  "worst": "三层楼高的天窗洒下柔和的光线,照在一具几乎有一个足球场那么长的泰坦巨龙骨架复制品上,它的脖颈向上弯曲",
-  "at": "2026-08-15T03:47:43.217Z"
+  "worst": "它几乎有一个足球场那么长，脖颈高高扬起，直冲二楼陈列着图腾柱的夹层。",
+  "at": "2026-09-13T14:56:06.151Z"
  },
  "zh/chicago-illinois-lollapalooza-2026": {
   "hash": "83e073dd09d5",
@@ -17143,11 +17143,11 @@
   "at": "2026-08-15T03:50:13.978Z"
  },
  "zh/florence-galleria-dell-accademia-di-firenze": {
-  "hash": "583b1b3f592a",
+  "hash": "b16259b27b01",
   "score": 1,
   "registerBreak": false,
-  "worst": "开门瞬间便到场，是你在这里能做的最明智的选择——通常在旅行团抵达之前，你几乎能独享整个奴隶雕塑厅。",
-  "at": "2026-08-15T03:50:14.231Z"
+  "worst": "这四尊未完成的雕像——普里吉奥尼（Prigioni）——展现了米开朗基罗的“未完成技法”（non-finito）",
+  "at": "2026-09-13T14:56:08.475Z"
  },
  "zh/fethiye-gemiler-island": {
   "hash": "55da09b20965",
@@ -22834,11 +22834,11 @@
   "at": "2026-08-15T06:35:03.696Z"
  },
  "es/chicago-field-museum": {
-  "hash": "b47b8d5c42b7",
+  "hash": "a391fc545226",
   "score": 1,
   "registerBreak": false,
-  "worst": "Sue — el esqueleto de T. rex más grande y completo jamás encontrado, 40 pies de f",
-  "at": "2026-08-15T06:35:10.786Z"
+  "worst": "conviene reservar un servicio de auto si hace frío.",
+  "at": "2026-09-13T14:57:21.212Z"
  },
  "es/coron-twin-lagoon": {
   "hash": "94474a428ad2",
@@ -25228,11 +25228,11 @@
   "at": "2026-08-15T11:53:41.280Z"
  },
  "ko/florence-galleria-dell-accademia-di-firenze": {
-  "hash": "fdb26741b3e9",
+  "hash": "d03b63e60e46",
   "score": 1,
   "registerBreak": false,
-  "worst": "문이 열리자마자 도착하는 것이 이곳에서 할 수 있는 최선의 선택입니다 — 단체 관광객이 몰려오기 전",
-  "at": "2026-08-15T11:53:54.373Z"
+  "worst": "이는 피렌체를 처음 찾는 여행객이 아니라면 누구나 하는 기본적인 준비인데, 예매 없이 현장에서",
+  "at": "2026-09-13T14:56:04.262Z"
  },
  "ko/goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows": {
   "hash": "4b9bd9531cae",
@@ -28719,5 +28719,26 @@
   "registerBreak": false,
   "worst": "游客最常犯的一个错误，是误以为电影节是在威尼斯本岛举行——实际并非如此，若省去了前往丽都岛的这段水上巴士行程，恐怕根本到不了活动真正发生的地方。",
   "at": "2026-09-13T12:48:39.638Z"
+ },
+ "es/urgench-ulli-hovli": {
+  "hash": "025059489c28",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "así que no conviene planear una visita nocturna esperando encontrar personal o iluminación.",
+  "at": "2026-09-13T14:56:10.154Z"
+ },
+ "ja/urgench-ulli-hovli": {
+  "hash": "3de0f9a70148",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ウッリ・ホヴリとは、地元ホレズム方言で「大きな中庭のある家」という意味です。",
+  "at": "2026-09-13T14:57:25.506Z"
+ },
+ "ko/urgench-ulli-hovli": {
+  "hash": "e54c1bf9196d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오전 11시부터 밤 11시 사이에 절정을 이룹니다.",
+  "at": "2026-09-13T14:56:16.496Z"
  }
 }
