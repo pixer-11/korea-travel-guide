@@ -6671,11 +6671,11 @@
   "at": "2026-08-15T06:27:05.726Z"
  },
  "ja/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
-  "hash": "456a2453f838",
+  "hash": "5ffadf52d0f0",
   "score": 1,
   "registerBreak": false,
-  "worst": "クアラルンプール公演は香港、台北、シンガポールまで行かずとも、このツアーのステージを体感できる地域内では数少ない機会となります。",
-  "at": "2026-08-15T02:56:49.284Z"
+  "worst": "デビューから数十年を経た今も、ダンスを前面に押し出した壮大なステージ演出で知られており",
+  "at": "2026-09-13T12:48:12.622Z"
  },
  "ja/kota-kinabalu-mari-mari-cultural-village": {
   "hash": "f0a6c719ba9f",
@@ -9597,11 +9597,11 @@
   "at": "2026-08-15T03:12:13.379Z"
  },
  "ja/venice-venice-international-film-festival-mostra-del-cinema": {
-  "hash": "b37ea1596a5c",
+  "hash": "2b4c9ae5c0bc",
   "score": 1,
   "registerBreak": false,
-  "worst": "モストラは洗練された大通りではなく、平坦な砂州の島で開催されます——それがリド島(Lido di Venezia)です。",
-  "at": "2026-08-15T03:12:13.741Z"
+  "worst": "実際にはそうではなく、リド島までヴァポレットで渡る手間を省いてしまうと、実際の会場からはかなり離れた場所に留まる",
+  "at": "2026-09-13T12:48:14.184Z"
  },
  "ja/verona-castel-san-pietro": {
   "hash": "485cab77b6e3",
@@ -12635,11 +12635,11 @@
   "at": "2026-08-15T03:25:32.373Z"
  },
  "es/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
-  "hash": "cc0c0f9a1ebc",
+  "hash": "1099bd44fbc2",
   "score": 1,
   "registerBreak": false,
-  "worst": "Toma la Línea Kelana Jaya del LRT hasta la estación Bukit Jalil; la arena queda a poca distancia",
-  "at": "2026-08-15T03:25:34.599Z"
+  "worst": "cifra suficiente para anticipar una producción de gran formato en arena, con múltiples...",
+  "at": "2026-09-13T12:48:00.621Z"
  },
  "es/krabi-wat-kaew-korawaram": {
   "hash": "01ecf3f3a9d3",
@@ -20713,11 +20713,11 @@
   "at": "2026-08-15T10:55:10.359Z"
  },
  "zh/verona-arena-di-verona-opera-festival": {
-  "hash": "f79194c5de63",
+  "hash": "c982f761e410",
   "score": 1,
   "registerBreak": false,
-  "worst": "以夜空为背景,而非镀金的天花板",
-  "at": "2026-08-15T04:18:53.958Z"
+  "worst": "很少有哪种歌剧体验，能比得上在一座建于公元1世纪的古罗马圆形剧场里，聆听整个乐团与合唱团的声音回荡。",
+  "at": "2026-09-13T12:48:41.879Z"
  },
  "zh/verona-torre-dei-lamberti": {
   "hash": "b37974290703",
@@ -23770,13 +23770,6 @@
   "registerBreak": false,
   "worst": "이름 있는 운영진이 배후에 있는 다른 화제의 싱가포르 신규 오픈 매장들과 비슷한 흐름을 탄다면",
   "at": "2026-08-16T11:02:27.911Z"
- },
- "ko/verona-arena-di-verona-opera-festival": {
-  "hash": "589837035127",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이번은 페스티벌의 103번째 시즌으로, 여름 내내 이어지기 때문에 일정을 짜기에 폭넓은 시간대가 있습니다.",
-  "at": "2026-08-15T08:38:47.732Z"
  },
  "ko/varanasi-chet-singh-ghat-varanasi": {
   "hash": "1b462299433c",
@@ -28684,5 +28677,47 @@
   "registerBreak": false,
   "worst": "这样的组合足以让全场观众在第一个音符响起之前，就已经能跟唱每一句歌词。",
   "at": "2026-09-13T08:25:09.666Z"
+ },
+ "es/venice-venice-international-film-festival-mostra-del-cinema": {
+  "hash": "483c1f966388",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "a lo largo de Lungomare Marconi y la expectación en torno a los hoteles Excelsior y Des Bains",
+  "at": "2026-09-13T12:48:02.194Z"
+ },
+ "ja/verona-arena-di-verona-opera-festival": {
+  "hash": "942bbdf7eaab",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "頭上に広がるのは、金箔の天井ではなく、そのまま夜空です。",
+  "at": "2026-09-13T12:48:15.946Z"
+ },
+ "ko/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
+  "hash": "0f45ba861741",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "쿠알라룸푸르 공연에는 200명 규모의 투어 제작진이 투입될 예정이라고 공지되었는데, 이는 단출한...",
+  "at": "2026-09-13T12:48:17.845Z"
+ },
+ "ko/venice-venice-international-film-festival-mostra-del-cinema": {
+  "hash": "f897f5045abf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "레드카펫 입장 장면, 몰려드는 파파라치 무리, 그리고 엑셀시오르와 데 뱅 호텔 주변의 들뜬 분위기가 그것입니다.",
+  "at": "2026-09-13T12:50:25.197Z"
+ },
+ "zh/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
+  "hash": "7c162c626cf4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "规模足以说明这将是一场全面的体育馆级制作，涉及多套舞台布景、LED视觉设计和编舞",
+  "at": "2026-09-13T12:48:37.823Z"
+ },
+ "zh/venice-venice-international-film-festival-mostra-del-cinema": {
+  "hash": "b519f9767d2f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "游客最常犯的一个错误，是误以为电影节是在威尼斯本岛举行——实际并非如此，若省去了前往丽都岛的这段水上巴士行程，恐怕根本到不了活动真正发生的地方。",
+  "at": "2026-09-13T12:48:39.638Z"
  }
 }
