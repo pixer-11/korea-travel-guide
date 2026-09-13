@@ -24,11 +24,12 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { heroTierReason } from './lib/event-hero-tier.mjs';
 import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { requireExamined } from './lib/examined.mjs';
 
@@ -37,9 +38,24 @@ const STORE = fileURLToPath(new URL('../data/visual-audit.json', import.meta.url
 const DRY = process.argv.includes('--dry');
 
 const store = existsSync(STORE) ? JSON.parse(await readFile(STORE, 'utf8')) : {};
+
+// ---- the third tier is not a defect ----
+// Owner's rule, 2026-09-11: an event guide shows the act's own photo; failing
+// that a past edition; failing that THE BEST PHOTO OF ITS CITY — and the venue
+// it is held in counts above the city. Those photographs are placed on purpose
+// by fill-event-city-heroes.mjs, whose claim is "a photo of this city", and a
+// vision gate asking "a photo of this event" correctly rejects them.
+//
+// This audit asked only the second question and stripped what failed it. On
+// 2026-09-13 that removed fifteen photographs that were doing their job, and
+// one of those strips reached the live site before it was reverted. The test
+// lives in lib/event-hero-tier.mjs, where it is pinned in both directions.
+const readJson = (f) => { try { return JSON.parse(readFileSync(f, 'utf8')); } catch { return {}; } };
+const covers = readJson(fileURLToPath(new URL('../data/region-covers.json', import.meta.url)));
+
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 
-let judged = 0, ok = 0, rejected = 0, failed = 0;
+let judged = 0, ok = 0, rejected = 0, failed = 0, kept = 0;
 for (const f of files) {
   const p = join(POSTS, f);
   const raw = await readFile(p, 'utf8');
@@ -70,6 +86,11 @@ for (const f of files) {
     // Transport failure, not a judgement — do not store, do not strip.
     failed++;
     console.log(`  ⚠️  ${slug}: ${v.reason}`);
+  } else if (heroTierReason(url, data, covers)) {
+    kept++;
+    const why = heroTierReason(url, data, covers);
+    console.log(`  ◦ ${slug}: KEPT — 3순위(도시 사진), ${why}`);
+    if (!DRY) store[key] = { slug, verdict: 'CITY-TIER', reason: `third tier (owner rule 2026-09-11): ${why}`, at: new Date().toISOString() };
   } else {
     rejected++;
     console.log(`  ✗ ${slug}: REJECT — ${v.reason}`);
@@ -93,4 +114,4 @@ for (const f of files) {
 requireExamined(files.length, '글', `${POSTS} 를 읽었는데 .md 가 없다`);
 
 if (!DRY) await writeFile(STORE, JSON.stringify(store, null, 2), 'utf8');
-console.log(`\n📸 event back-audit: ${judged} judged · ${ok} ok · ${rejected} rejected${rejected && !DRY ? ' (heroes stripped)' : ''} · ${failed} unreadable (left unjudged)${DRY ? ' · DRY' : ''}`);
+console.log(`\n📸 event back-audit: ${judged} judged · ${ok} ok · ${kept} kept as third tier · ${rejected} rejected${rejected && !DRY ? ' (heroes stripped)' : ''} · ${failed} unreadable (left unjudged)${DRY ? ' · DRY' : ''}`);

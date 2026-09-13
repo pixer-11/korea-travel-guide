@@ -18642,5 +18642,299 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows fortress-like mudbrick wall consistent with Ulli Hovli site",
     "at": "2026-09-13T14:22:48.852Z"
+  },
+  "bengaluru-chet-faker-a-love-for-strangers-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chet_Faker%2C_Positivus_Music_Festival%2C_Latvia_2014.jpg/1920px-Chet_Faker%2C_Positivus_Music_Festival%2C_Latvia_2014.jpg": {
+    "slug": "bengaluru-chet-faker-a-love-for-strangers-tour",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: Chet Faker performing at Positivus 2014 — the act own photo (first tier). The corner text vision read as a watermark is the CC BY photographer credit.",
+    "at": "2026-09-13T16:18:38.517Z"
+  },
+  "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f2/LeeHi_2021.png": {
+    "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: Commons LeeHi_2021 (SBS Radio, CC BY 3.0) — the act own photo (first tier). Identity comes from the Commons file, which vision cannot read.",
+    "at": "2026-09-13T16:18:38.517Z"
+  },
+  "kuala-lumpur-f-forever-1st-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Axiata_Arena%2C_Bukit_Jalil_%28220713%29.jpg/1920px-Axiata_Arena%2C_Bukit_Jalil_%28220713%29.jpg": {
+    "slug": "kuala-lumpur-f-forever-1st-world-tour",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: Axiata Arena, Bukit Jalil — the venue this guide sends the reader to (named in the body). No eventVenue field, so the venue tier could not see it.",
+    "at": "2026-09-13T16:18:38.517Z"
+  },
+  "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MEFCC_AUH_2023_-_Crowd_Shot.jpg/1920px-MEFCC_AUH_2023_-_Crowd_Shot.jpg": {
+    "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Comic con crowd and vendor booths, event type match",
+    "at": "2026-09-13T16:20:28.237Z"
+  },
+  "abu-dhabi-tamer-hosny-and-tamer-ashour-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png": {
+    "slug": "abu-dhabi-tamer-hosny-and-tamer-ashour-concert",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer singing on stage, matches concert event",
+    "at": "2026-09-13T16:20:30.207Z"
+  },
+  "bacolod-masskara-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Masskara_Festival_in_Bacolod_%282%29.jpg/1920px-Masskara_Festival_in_Bacolod_%282%29.jpg": {
+    "slug": "bacolod-masskara-festival",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Masked festival performer in vibrant costume, matches MassKara Festival",
+    "at": "2026-09-13T16:20:32.455Z"
+  },
+  "bali-dekmantel-x-potato-head\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Desa_Potato_Head.jpg/3840px-Desa_Potato_Head.jpg": {
+    "slug": "bali-dekmantel-x-potato-head",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Potato Head Beach Club venue, plausible event location",
+    "at": "2026-09-13T16:20:34.763Z"
+  },
+  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
+    "slug": "bangkok-808-festival-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Bangkok International Trade & Exhibition Centre (BITEC))을 가리킨다",
+    "at": "2026-09-13T16:20:36.784Z"
+  },
+  "bangkok-bangkok-international-festival-of-dance-music\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thailand_Cultural_Centre_2.jpg/1920px-Thailand_Cultural_Centre_2.jpg": {
+    "slug": "bangkok-bangkok-international-festival-of-dance-music",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Stage performance dance event, plausible for dance festival hero",
+    "at": "2026-09-13T16:20:38.730Z"
+  },
+  "bangkok-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Weeknd_by_David_Hwang.jpg/1920px-The_Weeknd_by_David_Hwang.jpg": {
+    "slug": "bangkok-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert performer singing on stage, valid event hero",
+    "at": "2026-09-13T16:20:40.767Z"
+  },
+  "beijing-china-open-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg/3840px-South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg": {
+    "slug": "beijing-china-open-tennis",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Shows China Open venue entrance with event signage",
+    "at": "2026-09-13T16:20:42.801Z"
+  },
+  "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kalinga_Stadium%2C_Bhubaneswar.jpg/1920px-Kalinga_Stadium%2C_Bhubaneswar.jpg": {
+    "slug": "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Kalinga Stadium entrance, venue for the athletics event",
+    "at": "2026-09-13T16:20:44.751Z"
+  },
+  "busan-busan-international-film-festival-biff\u0001https://upload.wikimedia.org/wikipedia/commons/5/54/Busan_Cinema_Center_BIFF_2023.jpg": {
+    "slug": "busan-busan-international-film-festival-biff",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Shows BIFF Hill venue building, exterior view",
+    "at": "2026-09-13T16:20:46.809Z"
+  },
+  "chandigarh-quick-style-india-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg/1920px-Palace_of_Assembly_Chandigarh_2006.jpg": {
+    "slug": "chandigarh-quick-style-india-tour-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Chandigarh 을 가리킨다",
+    "at": "2026-09-13T16:20:48.843Z"
+  },
+  "dubai-dubai-summer-surprises-dss-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dubai_Fountain_%40_Dubai_Mall_%2815878618845%29.jpg/1920px-Dubai_Fountain_%40_Dubai_Mall_%2815878618845%29.jpg": {
+    "slug": "dubai-dubai-summer-surprises-dss-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Dubai skyline with fountain show, fits DSS event context",
+    "at": "2026-09-13T16:20:51.089Z"
+  },
+  "dubai-nancy-ajram-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Nancy_Ajram_signing_ceremony.jpg": {
+    "slug": "dubai-nancy-ajram-live-in-dubai",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Portrait of performer, valid hero for concert event",
+    "at": "2026-09-13T16:20:53.242Z"
+  },
+  "goyang-the-weeknd-hyundai-card-super-concert-28\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg": {
+    "slug": "goyang-the-weeknd-hyundai-card-super-concert-28",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer singing on stage, valid concert hero image",
+    "at": "2026-09-13T16:20:55.416Z"
+  },
+  "hanoi-bigbang-2026-2027-world-tour-in-hanoi\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/BIGBANG_Concert_0.TO.10_in_Seoul_-_6.jpg": {
+    "slug": "hanoi-bigbang-2026-2027-world-tour-in-hanoi",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert stadium crowd, valid generic concert event photo",
+    "at": "2026-09-13T16:20:57.367Z"
+  },
+  "hanoi-gitex-vietnam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hanoi_Skyline_-_NKS.jpg/1920px-Hanoi_Skyline_-_NKS.jpg": {
+    "slug": "hanoi-gitex-vietnam",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Hanoi 을 가리킨다",
+    "at": "2026-09-13T16:20:59.366Z"
+  },
+  "ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/20230818_YUNHO_%28%EC%9C%A0%EB%85%B8%EC%9C%A4%ED%98%B8%29.jpg": {
+    "slug": "ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Photo of the performer, valid for any tour location",
+    "at": "2026-09-13T16:21:01.604Z"
+  },
+  "honolulu-aloha-festivals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg/3840px-Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg": {
+    "slug": "honolulu-aloha-festivals",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Hula dancers in traditional attire, representative of Aloha Festivals",
+    "at": "2026-09-13T16:21:03.809Z"
+  },
+  "incheon-one-universe-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Songdo_IBD_Incheon_2014_HDR.jpg/1920px-Songdo_IBD_Incheon_2014_HDR.jpg": {
+    "slug": "incheon-one-universe-festival-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Incheon 을 가리킨다",
+    "at": "2026-09-13T16:21:05.647Z"
+  },
+  "istanbul-akbank-jazz-festival\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/Akbank_Caz_Festivali_Kolaj.jpg": {
+    "slug": "istanbul-akbank-jazz-festival",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Collage of Akbank Jazz Festival performers and event stages",
+    "at": "2026-09-13T16:21:07.746Z"
+  },
+  "istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jack_White_-_Roskilde_Festival_2012_-_Orange_Stage.jpg/1920px-Jack_White_-_Roskilde_Festival_2012_-_Orange_Stage.jpg": {
+    "slug": "istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer Jack White singing, valid hero for concert event",
+    "at": "2026-09-13T16:21:10.025Z"
+  },
+  "istanbul-boris-brejcha-reflections-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Boris_brejcha_2017_03_12.jpg/3840px-Boris_brejcha_2017_03_12.jpg": {
+    "slug": "istanbul-boris-brejcha-reflections-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Masked performer at concert, fits DJ event hero",
+    "at": "2026-09-13T16:21:12.230Z"
+  },
+  "istanbul-yoko-ono-insound-and-instructure\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Yoko_Ono_001.jpg": {
+    "slug": "istanbul-yoko-ono-insound-and-instructure",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Wish tree installation, Yoko Ono's Wish Tree artwork",
+    "at": "2026-09-13T16:21:14.352Z"
+  },
+  "jakarta-lalala-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Monumen_Nasional%2C_Jakarta%2C_Indonesia.jpg/1920px-Monumen_Nasional%2C_Jakarta%2C_Indonesia.jpg": {
+    "slug": "jakarta-lalala-festival-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Jakarta 을 가리킨다",
+    "at": "2026-09-13T16:21:16.174Z"
+  },
+  "jakarta-pestapora-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg/1920px-Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg": {
+    "slug": "jakarta-pestapora-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Jakarta 을 가리킨다",
+    "at": "2026-09-13T16:21:18.089Z"
+  },
+  "jakarta-the-sounds-project-vol-9\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg/1280px-Souljah_at_The_Sounds_Project%2C_August_2025.jpg": {
+    "slug": "jakarta-the-sounds-project-vol-9",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert stage with band performing, matches event type",
+    "at": "2026-09-13T16:21:20.526Z"
+  },
+  "madrid-evanescence-madrid-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/bd/Evanescence_at_concert_in_San_Petersburg.jpg": {
+    "slug": "madrid-evanescence-madrid-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer singing on stage, valid concert hero image",
+    "at": "2026-09-13T16:21:22.468Z"
+  },
+  "madrid-shakira-residency-las-mujeres-ya-no-lloran-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shakira_Rio_07.jpg/1920px-Shakira_Rio_07.jpg": {
+    "slug": "madrid-shakira-residency-las-mujeres-ya-no-lloran-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Shakira singing on stage, valid concert hero image",
+    "at": "2026-09-13T16:21:24.619Z"
+  },
+  "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": {
+    "slug": "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: MotoGP race pack action, valid event photo",
+    "at": "2026-09-13T16:21:26.647Z"
+  },
+  "milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano\u0001https://upload.wikimedia.org/wikipedia/commons/c/c5/A%24AP_Rocky_2013_August_2.jpg": {
+    "slug": "milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Photo of A$AP Rocky performing, valid tour hero image",
+    "at": "2026-09-13T16:21:28.617Z"
+  },
+  "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg/1920px-TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg": {
+    "slug": "new-delhi-bwf-world-championships-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Badminton player with racket on court, event-relevant",
+    "at": "2026-09-13T16:21:30.705Z"
+  },
+  "pasay-charlie-puth-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Charlie_Puth%2C_Idol_2022.jpg/1920px-Charlie_Puth%2C_Idol_2022.jpg": {
+    "slug": "pasay-charlie-puth-live-in-manila",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer on stage, valid concert hero photo",
+    "at": "2026-09-13T16:21:33.285Z"
+  },
+  "saint-denis-jay-z-stade-de-france-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/Jay-Z_concert_%28cropped%29.jpg": {
+    "slug": "saint-denis-jay-z-stade-de-france-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Jay-Z performing live, valid hero for concert event",
+    "at": "2026-09-13T16:21:35.429Z"
+  },
+  "samarkand-chess-olympiad-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg/3840px-Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg": {
+    "slug": "samarkand-chess-olympiad-2026",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Team photo relevant to chess event, plausible hero",
+    "at": "2026-09-13T16:21:37.575Z"
+  },
+  "seoul-benson-boone-wanted-man-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Benson_Boone_%28Nov_2024%29.jpg/1920px-Benson_Boone_%28Nov_2024%29.jpg": {
+    "slug": "seoul-benson-boone-wanted-man-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer on stage, matches concert tour hero photo",
+    "at": "2026-09-13T16:21:39.638Z"
+  },
+  "seoul-grand-mint-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Olympic_Park_Seoul.jpg/1920px-Olympic_Park_Seoul.jpg": {
+    "slug": "seoul-grand-mint-festival-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Olympic Park)을 가리킨다",
+    "at": "2026-09-13T16:21:41.683Z"
+  },
+  "shanghai-rolex-shanghai-masters\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Qizhong_Stadium.jpg": {
+    "slug": "shanghai-rolex-shanghai-masters",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Qi Zhong Tennis Center)을 가리킨다",
+    "at": "2026-09-13T16:21:43.620Z"
+  },
+  "singapore-bigbang-xx-cosmos-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg": {
+    "slug": "singapore-bigbang-xx-cosmos-world-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert crowd with lightsticks, matches event type",
+    "at": "2026-09-13T16:21:45.639Z"
+  },
+  "singapore-itzy-3rd-world-tour-tunnel-vision\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20240501_ITZY_Amsterdam_concert_06.jpg/1920px-20240501_ITZY_Amsterdam_concert_06.jpg": {
+    "slug": "singapore-itzy-3rd-world-tour-tunnel-vision",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert stage performance photo, valid event hero image",
+    "at": "2026-09-13T16:21:47.744Z"
+  },
+  "singapore-my-chemical-romance-reunion-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg/1920px-My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg": {
+    "slug": "singapore-my-chemical-romance-reunion-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert stage with performers and crowd, fits event type",
+    "at": "2026-09-13T16:21:49.585Z"
+  },
+  "taipei-xg-taipei-arena-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Arena_20170813.jpg/1920px-Taipei_Arena_20170813.jpg": {
+    "slug": "taipei-xg-taipei-arena-concert",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Taipei Arena)을 가리킨다",
+    "at": "2026-09-13T16:21:51.573Z"
+  },
+  "tangerang-indonesia-comic-con-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alun-Alun_Periuk%2C_Tangerang.jpg/1920px-Alun-Alun_Periuk%2C_Tangerang.jpg": {
+    "slug": "tangerang-indonesia-comic-con-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Tangerang 을 가리킨다",
+    "at": "2026-09-13T16:21:53.567Z"
+  },
+  "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mustaqillik_maydoni._2024.jpg/1920px-Mustaqillik_maydoni._2024.jpg": {
+    "slug": "tashkent-independence-day-of-uzbekistan",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Monument arch in Tashkent, fitting Independence Day imagery",
+    "at": "2026-09-13T16:21:55.654Z"
+  },
+  "tokyo-ultra-japan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Odaiba%2C_Tokyo_Japan.jpg/1920px-Odaiba%2C_Tokyo_Japan.jpg": {
+    "slug": "tokyo-ultra-japan-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Tokyo Odaiba Ultra Park)을 가리킨다",
+    "at": "2026-09-13T16:21:57.925Z"
+  },
+  "wuhan-2026-wuhan-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wuhan_Yangtze_River_Bridge_in_2020.jpg/1920px-Wuhan_Yangtze_River_Bridge_in_2020.jpg": {
+    "slug": "wuhan-2026-wuhan-open-snooker",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 Wuhan 을 가리킨다",
+    "at": "2026-09-13T16:21:59.833Z"
+  },
+  "zamboanga-city-zamboanga-hermosa-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hermosa_Festival_of_Zamboanga.jpg/3840px-Hermosa_Festival_of_Zamboanga.jpg": {
+    "slug": "zamboanga-city-zamboanga-hermosa-festival",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Festival parade with performer in traditional costume, Zamboanga event",
+    "at": "2026-09-13T16:22:02.375Z"
   }
 }
