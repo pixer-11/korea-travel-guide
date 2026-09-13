@@ -1,30 +1,31 @@
-Places 예산: backfill 몫 25회 (오늘 사용 16/100)
-Priority: 163 itinerary stop(s) queued first
+Places 예산: backfill 몫 25회 (오늘 사용 17/100)
+Priority: 164 itinerary stop(s) queued first
   – jurong-singapore-discovery-centre.md: nothing new (resting 60d)
-  – ayutthaya-wat-phra-si-sanphet.md: nothing new (resting 60d)
-  – bhubaneswar-lingaraj-temple.md: nothing new (resting 60d)
   – boston-public-garden.md: nothing new (resting 60d)
-  – bukhara-kalan-minaret.md: nothing new (resting 60d)
-  – bukhara-labi-hovuz.md: nothing new (resting 60d)
-  – bursa-tophane-clock-tower.md: nothing new (resting 60d)
-  – can-tho-cai-rang-floating-market.md: nothing new (resting 60d)
-  – can-tho-ninh-kieu-wharf.md: nothing new (resting 60d)
-  – cannes-mural-cannes-cinema.md: nothing new (resting 60d)
-  – cappadocia-pigeon-valley.md: nothing new (resting 60d)
-  – cappadocia-rose-valley.md: nothing new (resting 60d)
-  – cebu-casa-gorordo-museum.md: nothing new (resting 60d)
-  – cebu-fort-san-pedro.md: nothing new (resting 60d)
-  – central-hong-kong-zoological-and-botanical-gardens.md: nothing new (resting 60d)
-  – central-man-mo-temple.md: nothing new (resting 60d)
-  – chamonix-grotte-de-glace.md: nothing new (resting 60d)
-  – chengdu-anshun-bridge.md: nothing new (resting 60d)
-  – chengdu-chengdu-museum.md: nothing new (resting 60d)
-  – chengdu-gudashengci-temple.md: nothing new (resting 60d)
-  – chengdu-people-s-park.md: nothing new (resting 60d)
-  ✓ chennai-government-museum-chennai.md +phone
-  ✓ chiang-mai-chiang-mai-national-museum.md +phone +7h hours
-  ✓ chiang-rai-baan-dam-museum.md +phone +7h hours
+  – bukhara-kalan-mosque.md: nothing new (resting 60d)
+  – chiang-rai-king-mangrai-monument.md: nothing new (resting 60d)
+  – chicago-cloud-gate.md: nothing new (resting 60d)
+  ✓ chicago-field-museum.md +phone +7h hours
     ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
-  ✓ chiang-rai-king-mangrai-monument.md +7h hours
+  – chicago-medinah-temple.md: nothing new (resting 60d)
+  – clarke-quay-cq-clarke-quay.md: nothing new (resting 60d)
+  – colmar-parc-saint-francois-xavier.md: nothing new (resting 60d)
+  – colmar-vieille-ville-de-colmar.md: nothing new (resting 60d)
+  – da-nang-ba-na-hills.md: nothing new (resting 60d)
+  – davao-people-s-park.md: nothing new (resting 60d)
+  – deira-abra-dubai.md: nothing new (resting 60d)
+  – dubai-dubai-old-city.md: nothing new (resting 60d)
+  – dubai-marina-dubai-marina-walk.md: nothing new (resting 60d)
+  – dumaguete-silliman-hall.md: nothing new (resting 60d)
+  – el-nido-cadlao-lagoon.md: nothing new (resting 60d)
+  – el-nido-matinloc-shrine.md: nothing new (resting 60d)
+  – el-nido-taraw-cliff.md: nothing new (resting 60d)
+  – fergana-al-farg-oniy-haykali.md: nothing new (resting 60d)
+  ✓ florence-galleria-dell-accademia-di-firenze.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekendQuiet: dropped 8h (venue not open then) — nothing left
+  – fujairah-al-bithnah-fort.md: nothing new (resting 60d)
+  – fujairah-fujairah-museum.md: nothing new (resting 60d)
+  – gangneung-gyeongpo-lake.md: nothing new (resting 60d)
+  – genting-highlands-resorts-world-genting.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 516, no-new-data 209, no-place 236, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 264 (APPLIED).
+BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 577, no-new-data 231, no-place 247, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 245 (APPLIED).

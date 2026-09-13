@@ -1,30 +1,23 @@
 ---
-title: 'Galleria dell Accademia di Firenze: Florence Travel Guide'
-description: >-
-  The Accademia's main draw is Michelangelo's David, standing at the end of a
-  long gallery lined with his unfinished "Prisoners" statues — the whole visit
-  takes about 60–90 minutes. 4.6★ (57,520 reviews) — what visitors say, hours,
-  and tips.
+title: "Galleria dell Accademia di Firenze: Florence Travel Guide"
+description: The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished "Prisoners" statues — the whole visit takes about 60–90 minutes. 4.6★ (57,520 reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Florence
 category: attraction
-pubDate: '2026-08-05T11:23:44.293Z'
+pubDate: "2026-08-05T11:23:44.293Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
-  credit: 'Photo: S.e.witcher / Wikimedia Commons (CC0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
+  credit: "Photo: S.e.witcher / Wikimedia Commons (CC0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
+  source: https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
 gallery: []
 place:
   id: ChIJJ7mRvIxVKhMRx6JB-q73TG0
   name: Galleria dell’Accademia di Firenze
-  address: 'Via Ricasoli, 58/60, 50129 Firenze FI, Italy'
+  address: Via Ricasoli, 58/60, 50129 Firenze FI, Italy
   rating: 4.6
   userRatingsTotal: 57520
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=7875942179259130567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=7875942179259130567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.7768145
   lng: 11.2586424
@@ -38,8 +31,6 @@ place:
       - 14
       - 15
       - 16
-    weekendQuiet:
-      - 8
     weekendBusy:
       - 10
       - 11
@@ -50,43 +41,33 @@ place:
       - 16
       - 17
     venueId: ven_3047543337712d424a3678524d684b56784976526d374a4a496843
+  phone: +39 055 098 7100
+  openingHours:
+    - "Monday: Closed"
+    - "Tuesday: 8:15 AM – 6:50 PM"
+    - "Wednesday: 8:15 AM – 6:50 PM"
+    - "Thursday: 8:15 AM – 6:50 PM"
+    - "Friday: 8:15 AM – 6:50 PM"
+    - "Saturday: 8:15 AM – 6:50 PM"
+    - "Sunday: 8:15 AM – 6:50 PM"
 tags:
   - florence
   - museum
-quickAnswer: >-
-  The Accademia's main draw is Michelangelo's David, standing at the end of a
-  long gallery lined with his unfinished "Prisoners" statues — the whole visit
-  takes about 60–90 minutes. Book a timed-entry ticket online in advance to skip
-  the notorious walk-up queue on Via Ricasoli, and if you're going on a weekend,
-  aim for the 8am–9am opening window, since crowds build steadily from 10am
-  through 6pm.
+quickAnswer: The Accademia's main draw is Michelangelo's David, standing at the end of a long gallery lined with his unfinished "Prisoners" statues — the whole visit takes about 60–90 minutes. Book a timed-entry ticket online in advance to skip the notorious walk-up queue on Via Ricasoli, and if you're going on a weekend, aim for the 8:15am–9am opening window, since crowds build steadily from 10am through 6pm.
 faq:
   - q: Do I need to book tickets in advance?
-    a: >-
-      Yes — this is one of Florence's busiest museums, and booking a timed-entry
-      slot online ahead of your visit avoids a walk-up queue that can exceed an
-      hour, especially in spring and summer.
+    a: Yes — this is one of Florence's busiest museums, and booking a timed-entry slot online ahead of your visit avoids a walk-up queue that can exceed an hour, especially in spring and summer.
   - q: How long should I plan to spend there?
-    a: >-
-      Budget 60 to 90 minutes to see David, the Prisoners hall, the painting
-      galleries, and the Russian icon collection without rushing.
+    a: Budget 60 to 90 minutes to see David, the Prisoners hall, the painting galleries, and the Russian icon collection without rushing.
   - q: When is the quietest time to visit?
-    a: >-
-      On weekends, the calmest window is right at opening, 8am to 9am. Crowds
-      build steadily after that and stay heavy from 10am to 6pm.
+    a: On weekends, the calmest window is right at opening, 8:15am to 9am. Crowds build steadily after that and stay heavy from 10am to 6pm.
   - q: Is the David at the Accademia the original?
-    a: >-
-      Yes. The statues of David outdoors at Piazza della Signoria and Piazzale
-      Michelangelo are both replicas; the original carved by Michelangelo is
-      housed here.
+    a: Yes. The statues of David outdoors at Piazza della Signoria and Piazzale Michelangelo are both replicas; the original carved by Michelangelo is housed here.
   - q: What else is nearby worth combining with the visit?
-    a: >-
-      Piazza San Marco and the Museo di San Marco (Fra Angelico frescoes) are a
-      few minutes' walk away, and the Duomo is about eight minutes on foot down
-      Via Ricasoli.
+    a: Piazza San Marco and the Museo di San Marco (Fra Angelico frescoes) are a few minutes' walk away, and the Duomo is about eight minutes on foot down Via Ricasoli.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-01'
+updatedDate: "2026-09-01"
 ---
 
 ## Why go
@@ -109,7 +90,7 @@ There's no dedicated metro in central Florence, so most visitors arrive on foot 
 
 ## When to go
 
-This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The measured crowd pattern backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8am and 9am at opening. Arriving right when the doors open is the single best move you can make here. You'll often have the Prisoners hall nearly to yourself before the tour groups arrive. Outside peak season (roughly November through February, excluding holidays), the whole museum breathes easier all day.
+This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The measured crowd pattern backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8:15am and 9am at opening. Arriving right when the doors open is the single best move you can make here. You'll often have the Prisoners hall nearly to yourself before the tour groups arrive. Outside peak season (roughly November through February, excluding holidays), the whole museum breathes easier all day.
 
 ## How to visit like a local
 
