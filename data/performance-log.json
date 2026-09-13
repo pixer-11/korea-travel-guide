@@ -1295,5 +1295,200 @@
         "delta": -8
       }
     ]
+  },
+  {
+    "week": "2026-09-13",
+    "pageviews": 620,
+    "visits": 487,
+    "top": [
+      {
+        "path": "/api/",
+        "views": 40
+      },
+      {
+        "path": "/",
+        "views": 32
+      },
+      {
+        "path": "/ko/",
+        "views": 27
+      },
+      {
+        "path": "/posts/washington-dc-old-ebbitt-grill/",
+        "views": 25
+      },
+      {
+        "path": "/ko/tools/when-to-go/",
+        "views": 23
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/january/",
+        "views": 23
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 15
+      },
+      {
+        "path": "/tools/esim/italy/",
+        "views": 12
+      },
+      {
+        "path": "/ko/tools/when-to-go/united-states/december/",
+        "views": 9
+      },
+      {
+        "path": "/es/posts/venice-venice-international-film-festival-mostra-del-cinema/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/monza-italian-grand-prix-formula-1/",
+        "views": 8
+      },
+      {
+        "path": "/ja/posts/san-francisco-golden-gate-bridge/",
+        "views": 8
+      },
+      {
+        "path": "/posts/seoul-cheonggyecheon/",
+        "views": 7
+      },
+      {
+        "path": "/ja/posts/chiba-tokyo-game-show-2026-tgs/",
+        "views": 7
+      },
+      {
+        "path": "/itinerary/",
+        "views": 6
+      },
+      {
+        "path": "/posts/chengdu-anshun-bridge/",
+        "views": 6
+      },
+      {
+        "path": "/posts/shenzhen-billie-jean-king-cup-finals/",
+        "views": 6
+      },
+      {
+        "path": "/posts/singapore-formula-1-singapore-grand-prix-2026/",
+        "views": 6
+      },
+      {
+        "path": "/zh/posts/central-hong-kong-zoological-and-botanical-gardens/",
+        "views": 6
+      },
+      {
+        "path": "/posts/clarke-quay-cq-clarke-quay/",
+        "views": 6
+      },
+      {
+        "path": "/posts/new-york-flushing-queens-us-open-tennis-championships-2026/",
+        "views": 5
+      },
+      {
+        "path": "/ko/destinations/south-korea/",
+        "views": 4
+      },
+      {
+        "path": "/posts/singapore-avenged-sevenfold-asia-tour-2026/",
+        "views": 4
+      },
+      {
+        "path": "/destinations/united-states/",
+        "views": 4
+      },
+      {
+        "path": "/posts/incheon-songdo-central-park/",
+        "views": 4
+      },
+      {
+        "path": "/posts/abu-dhabi-christina-aguilera-live/",
+        "views": 4
+      },
+      {
+        "path": "/posts/dubai-richard-marx/",
+        "views": 4
+      },
+      {
+        "path": "/about/",
+        "views": 4
+      },
+      {
+        "path": "/events/",
+        "views": 4
+      }
+    ],
+    "risers": [
+      {
+        "path": "/posts/washington-dc-old-ebbitt-grill/",
+        "delta": 25
+      },
+      {
+        "path": "/ko/tools/when-to-go/",
+        "delta": 23
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/january/",
+        "delta": 23
+      },
+      {
+        "path": "/api/",
+        "delta": 18
+      },
+      {
+        "path": "/tools/esim/italy/",
+        "delta": 12
+      },
+      {
+        "path": "/ko/tools/when-to-go/united-states/december/",
+        "delta": 9
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "delta": 9
+      },
+      {
+        "path": "/zh/posts/monza-italian-grand-prix-formula-1/",
+        "delta": 8
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/posts/sentosa-sentosa-sensoryscape/",
+        "delta": -10
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/february/",
+        "delta": -9
+      },
+      {
+        "path": "/posts/singapore-formula-1-singapore-grand-prix-2026/",
+        "delta": -7
+      },
+      {
+        "path": "/ko/methodology/",
+        "delta": -7
+      },
+      {
+        "path": "/posts/kuala-lumpur-post-malone-live-in-malaysia/",
+        "delta": -6
+      },
+      {
+        "path": "/posts/phuket-phuket-vegetarian-festival/",
+        "delta": -6
+      },
+      {
+        "path": "/posts/siena-palio-dell-assunta-palio-di-siena/",
+        "delta": -6
+      },
+      {
+        "path": "/flights/",
+        "delta": -6
+      }
+    ]
   }
 ]
