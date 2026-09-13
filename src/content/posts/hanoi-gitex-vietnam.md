@@ -14,6 +14,11 @@ eventOrganizer:
 eventOffers:
   url: https://gitexvietnam.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hanoi_Skyline_-_NKS.jpg/1920px-Hanoi_Skyline_-_NKS.jpg'
+  credit: 'Photo: NKSTTSSHNVN / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hanoi_Skyline_-_NKS.jpg'
 gallery: []
 tags:
   - hanoi

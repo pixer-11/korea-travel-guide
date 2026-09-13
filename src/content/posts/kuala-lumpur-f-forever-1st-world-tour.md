@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Axiata_Arena%2C_Bukit_Jalil_%28220713%29.jpg/1920px-Axiata_Arena%2C_Bukit_Jalil_%28220713%29.jpg'
+  credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_(220713).jpg'
 tags:
   - kuala lumpur
   - event

@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-26'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Songdo_IBD_Incheon_2014_HDR.jpg/1920px-Songdo_IBD_Incheon_2014_HDR.jpg'
+  credit: 'Photo: Fleetham / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Songdo_IBD_Incheon_2014_HDR.jpg'
 tags:
   - incheon
   - event

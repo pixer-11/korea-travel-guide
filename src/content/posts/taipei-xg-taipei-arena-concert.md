@@ -13,6 +13,11 @@ eventPerformer:
   name: XG
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Arena_20170813.jpg/1920px-Taipei_Arena_20170813.jpg'
+  credit: 'Photo: Solomon203 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Taipei_Arena_20170813.jpg'
 gallery: []
 tags:
   - taipei

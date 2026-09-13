@@ -7,6 +7,11 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-23'
 eventEndDate: '2026-08-29'
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wuhan_Yangtze_River_Bridge_in_2020.jpg/1920px-Wuhan_Yangtze_River_Bridge_in_2020.jpg'
+  credit: 'Photo: Zheng Zhou / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Wuhan_Yangtze_River_Bridge_in_2020.jpg'
 tags:
   - wuhan
   - event

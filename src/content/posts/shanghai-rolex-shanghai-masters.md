@@ -15,6 +15,11 @@ eventOrganizer:
 eventOffers:
   url: https://en.rolexshanghaimasters.com/en/tickets/tickets
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Qizhong_Stadium.jpg'
+  credit: 'Photo: Curt Smith from Bellevue, WA, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Qizhong_Stadium.jpg'
 gallery: []
 tags:
   - shanghai

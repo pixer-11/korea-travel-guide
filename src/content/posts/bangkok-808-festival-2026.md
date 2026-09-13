@@ -10,6 +10,11 @@ eventEndDate: '2026-10-03'
 eventRecurring: true
 eventVenue: Bangkok International Trade & Exhibition Centre (BITEC)
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG'
+  credit: 'Photo: Pescov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:BITEC.JPG'
 gallery: []
 tags:
   - bangkok
